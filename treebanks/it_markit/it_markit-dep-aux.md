@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="it_markit-dep-aux-pass.html">aux:pass</a></tt>.
 
-728 nodes (2%) are attached to their parents as `aux`.
+725 nodes (2%) are attached to their parents as `aux`.
 
-728 instances of `aux` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.29945054945055.
+725 instances of `aux` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.33793103448276.
 
-The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="it_markit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_markit-pos-AUX.html">AUX</a></tt> (678; 93% instances), <tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_markit-pos-AUX.html">AUX</a></tt> (28; 4% instances), <tt><a href="it_markit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_markit-pos-AUX.html">AUX</a></tt> (15; 2% instances), <tt><a href="it_markit-pos-PRON.html">PRON</a></tt>-<tt><a href="it_markit-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="it_markit-pos-ADV.html">ADV</a></tt>-<tt><a href="it_markit-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="it_markit-pos-DET.html">DET</a></tt>-<tt><a href="it_markit-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="it_markit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_markit-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="it_markit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_markit-pos-AUX.html">AUX</a></tt> (675; 93% instances), <tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_markit-pos-AUX.html">AUX</a></tt> (28; 4% instances), <tt><a href="it_markit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_markit-pos-AUX.html">AUX</a></tt> (15; 2% instances), <tt><a href="it_markit-pos-PRON.html">PRON</a></tt>-<tt><a href="it_markit-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="it_markit-pos-ADV.html">ADV</a></tt>-<tt><a href="it_markit-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="it_markit-pos-DET.html">DET</a></tt>-<tt><a href="it_markit-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="it_markit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_markit-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -30,7 +30,7 @@ The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="
 5	a	a	ADP	E	_	8	mark	_	_
 6	dover	dovere	AUX	VM	VerbForm=Inf	8	aux	_	_
 7	essere	essere	AUX	VA	VerbForm=Inf	8	aux:pass	_	_
-8	arrabbiati	arrabbiare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	4	acl	_	_
+8	arrabbiati	arrabbiare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	4	xcomp	_	_
 9	?	?	PUNCT	FS	_	4	punct	_	_
 
 ~~~

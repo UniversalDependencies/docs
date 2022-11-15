@@ -11,7 +11,7 @@ It occurs with 3 different values: `Compl`, `Iter`, `Lus`.
 
 38 tokens (1%) have a non-empty value of `Aspect`.
 36 types (2%) occur at least once with a non-empty value of `Aspect`.
-32 lemmas (3%) occur at least once with a non-empty value of `Aspect`.
+31 lemmas (3%) occur at least once with a non-empty value of `Aspect`.
 The feature is used with 2 part-of-speech tags: <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt> (27; 1% instances), <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> (11; 0% instances).
 
 ### `VERB`
@@ -23,11 +23,11 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 `VERB` tokens may have the following values of `Aspect`:
 
 * `Compl` (4; 15% of non-empty `Aspect`): <em>ʔupaβ, Jaʔupa, aʔupakatune, sowaβopa</em>
-* `Iter` (22; 81% of non-empty `Aspect`): <em>poβupoβu, Oioaʔoaʔo, Oposẽposem, imomosema, imosɨkɨjekɨjeβo, kutukutuka, mojaʔoiaʔoka, neiʃusupa, nesunesupa, ojekajeka</em>
+* `Iter` (22; 81% of non-empty `Aspect`): <em>poβupoβu, Oioaʔoaʔo, Oposẽposem, imomosema, imosɨkɨjekɨjeβo, kutukutuka, mojaʔoiaʔoka, neisusupa, nesunesupa, ojekajeka</em>
 * `Lus` (1; 4% of non-empty `Aspect`): <em>ajukaʔĩ</em>
-* `EMPTY` (622): <em>eʔi, ojaβo, eʔipe, aso, oso, rawsupa, Ejori, Ojaoβok, ajmono, jori</em>
+* `EMPTY` (665): <em>eʔi, ojaβo, eʔipe, aimono, aso, neʔi, oso, rawsupa, witekoβo, Ejori</em>
 
-`Aspect` seems to be **lexical feature** of `VERB`. 100% lemmas (23) occur only with one value of `Aspect`.
+`Aspect` seems to be **lexical feature** of `VERB`. 100% lemmas (22) occur only with one value of `Aspect`.
 
 ### `NOUN`
 
@@ -39,5 +39,5 @@ The most frequent other feature values with which `NOUN` and `Aspect` co-occurre
 
 * `Iter` (10; 91% of non-empty `Aspect`): <em>inupãnupã, iakakapa, imoperepereβi, inupãnupãsara, ipetepeteka, ojemomorãmoraŋa, seroʔaroʔa, ʃeapɨpɨka, ʃerenopuʔãpuʔama</em>
 * `Lus` (1; 9% of non-empty `Aspect`): <em>ojpotarĩ</em>
-* `EMPTY` (1318): <em>aβa, janejara, taβa, maʔe, paʔi, Tupã, apɨaβa, cruz, seko, teko</em>
+* `EMPTY` (1425): <em>aβa, janejara, maʔe, taβa, paʔi, Tupã, apɨaβa, cruz, seko, teko</em>
 

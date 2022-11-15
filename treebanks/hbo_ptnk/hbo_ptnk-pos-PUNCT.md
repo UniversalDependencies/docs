@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 2.503125).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 3.177604).
 
 The 1st highest number of forms (1) was observed with the lemma “־”: <em>־</em>.
 
@@ -36,7 +36,7 @@ The 3rd highest number of forms (1) was observed with the lemma “׃”: <em>׃
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="hbo_ptnk-dep-punct.html">punct</a></tt> (4938; 100% instances)
 
-Parents of `PUNCT` nodes belong to 12 different parts of speech: <tt><a href="hbo_ptnk-pos-ADP.html">ADP</a></tt> (1508; 31% instances), <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> (1395; 28% instances), <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> (670; 14% instances), <tt><a href="hbo_ptnk-pos-SCONJ.html">SCONJ</a></tt> (387; 8% instances), <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> (245; 5% instances), <tt><a href="hbo_ptnk-pos-ADV.html">ADV</a></tt> (242; 5% instances), <tt><a href="hbo_ptnk-pos-PRON.html">PRON</a></tt> (237; 5% instances), <tt><a href="hbo_ptnk-pos-AUX.html">AUX</a></tt> (107; 2% instances), <tt><a href="hbo_ptnk-pos-INTJ.html">INTJ</a></tt> (71; 1% instances), <tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> (32; 1% instances), <tt><a href="hbo_ptnk-pos-NUM.html">NUM</a></tt> (28; 1% instances), <tt><a href="hbo_ptnk-pos-CCONJ.html">CCONJ</a></tt> (16; 0% instances)
+Parents of `PUNCT` nodes belong to 12 different parts of speech: <tt><a href="hbo_ptnk-pos-ADP.html">ADP</a></tt> (1508; 31% instances), <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> (1395; 28% instances), <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> (673; 14% instances), <tt><a href="hbo_ptnk-pos-SCONJ.html">SCONJ</a></tt> (387; 8% instances), <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> (245; 5% instances), <tt><a href="hbo_ptnk-pos-ADV.html">ADV</a></tt> (242; 5% instances), <tt><a href="hbo_ptnk-pos-PRON.html">PRON</a></tt> (237; 5% instances), <tt><a href="hbo_ptnk-pos-AUX.html">AUX</a></tt> (107; 2% instances), <tt><a href="hbo_ptnk-pos-INTJ.html">INTJ</a></tt> (71; 1% instances), <tt><a href="hbo_ptnk-pos-NUM.html">NUM</a></tt> (29; 1% instances), <tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> (28; 1% instances), <tt><a href="hbo_ptnk-pos-CCONJ.html">CCONJ</a></tt> (16; 0% instances)
 
 4938 (100%) `PUNCT` nodes are leaves.
 

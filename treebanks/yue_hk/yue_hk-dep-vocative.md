@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-64 nodes (0%) are attached to their parents as `vocative`.
+65 nodes (0%) are attached to their parents as `vocative`.
 
-53 instances of `vocative` (83%) are right-to-left (child precedes parent).
-Average distance between parent and child is 6.265625.
+54 instances of `vocative` (83%) are right-to-left (child precedes parent).
+Average distance between parent and child is 6.38461538461539.
 
-The following 6 pairs of parts of speech are connected with `vocative`: <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (42; 66% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (9; 14% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> (6; 9% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (4; 6% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt>-<tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
+The following 6 pairs of parts of speech are connected with `vocative`: <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (42; 65% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (9; 14% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> (6; 9% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (5; 8% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt>-<tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -25,7 +25,7 @@ The following 6 pairs of parts of speech are connected with `vocative`: <tt><a h
 1	爺爺	爺爺	NOUN	_	_	7	vocative	_	SpaceAfter=No
 2	，	，	PUNCT	_	_	1	punct	_	SpaceAfter=No
 3	我	我	PRON	_	_	7	nsubj	_	SpaceAfter=No
-4	可	可	AUX	_	_	7	aux	_	SpaceAfter=No
+4	可	可以	AUX	_	_	7	aux	_	SpaceAfter=No
 5	唔	唔	ADV	_	_	6	advmod	_	SpaceAfter=No
 6	可以	可以	AUX	_	_	4	conj	_	SpaceAfter=No
 7	睇	睇	VERB	_	_	0	root	_	SpaceAfter=No
@@ -52,7 +52,7 @@ The following 6 pairs of parts of speech are connected with `vocative`: <tt><a h
 4	吖	吖	PART	_	_	1	discourse:sp	_	SpaceAfter=No
 5	：	：	PUNCT	_	_	1	punct	_	SpaceAfter=No
 6	你哋	你哋	PRON	_	_	8	nmod	_	SpaceAfter=No
-7	啲	啲	NOUN	_	NounType=Clf	8	det	_	SpaceAfter=No
+7	啲	啲	NOUN	_	NounType=Clf	8	clf:det	_	SpaceAfter=No
 8	後生仔	後生仔	NOUN	_	_	12	vocative	_	SpaceAfter=No
 9	，	，	PUNCT	_	_	8	punct	_	SpaceAfter=No
 10	我	我	PRON	_	_	12	nsubj	_	SpaceAfter=No

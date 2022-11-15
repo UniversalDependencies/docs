@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Hungarian-Szeged: POS Tags: `INTJ`
 
 There are 6 `INTJ` lemmas (0%), 6 `INTJ` types (0%) and 13 `INTJ` tokens (0%).
-Out of 16 observed tags, the rank of `INTJ` is: 15 in number of lemmas, 15 in number of types and 15 in number of tokens.
+Out of 16 observed tags, the rank of `INTJ` is: 14 in number of lemmas, 15 in number of types and 16 in number of tokens.
 
 The 10 most frequent `INTJ` lemmas: <em>persze, igen, lám, na, no, sajnos</em>
 
@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>persze</em> (<tt><a href="hu_szeged-p
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.503135).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.503840).
 
 The 1st highest number of forms (1) was observed with the lemma “igen”: <em>igen</em>.
 
@@ -40,7 +40,7 @@ The 3rd highest number of forms (1) was observed with the lemma “na”: <em>na
 
 ## Relations
 
-`INTJ` nodes are attached to their parents using 2 different relations: <tt><a href="hu_szeged-dep-advmod-mode.html">advmod:mode</a></tt> (11; 85% instances), <tt><a href="hu_szeged-dep-root.html">root</a></tt> (2; 15% instances)
+`INTJ` nodes are attached to their parents using 2 different relations: <tt><a href="hu_szeged-dep-discourse.html">discourse</a></tt> (11; 85% instances), <tt><a href="hu_szeged-dep-root.html">root</a></tt> (2; 15% instances)
 
 Parents of `INTJ` nodes belong to 5 different parts of speech: <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> (6; 46% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (3; 23% instances),  (2; 15% instances), <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> (1; 8% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (1; 8% instances)
 

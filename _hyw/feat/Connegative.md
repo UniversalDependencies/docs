@@ -34,4 +34,4 @@ Note that there is no `No` value. If the word is not connegative, the
 * _չեմ, չես, չի (չ’). չենք, չէք, չեն <b>թողուր</b>_ “I; you; he/she/it; we; you; they will not <b>allow</b>”,
 * _չէի, չէիր, չէր. չէինք, չէիք, չէին <b>թողուր</b>_ “I; you; he/she/it; we; you; they woul not <b>allow</b>”
 * _մի՛ <b>գրեր, կարդար, խօսիր, թողուր</b>_ “don't <b>write, read, speak, let</b>”
-<!-- Interlanguage links updated So kvě 14 19:02:08 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:42 CET 2022 -->

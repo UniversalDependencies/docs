@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Past`, `Pres`.
 
-2529 tokens (15%) have a non-empty value of `Tense`.
-1515 types (27%) occur at least once with a non-empty value of `Tense`.
-739 lemmas (27%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 6 part-of-speech tags: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (2111; 12% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (317; 2% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (60; 0% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (24; 0% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (11; 0% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (6; 0% instances).
+2919 tokens (14%) have a non-empty value of `Tense`.
+1741 types (26%) occur at least once with a non-empty value of `Tense`.
+830 lemmas (27%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 7 part-of-speech tags: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (2433; 12% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (318; 2% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (112; 1% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (33; 0% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (14; 0% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (8; 0% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-2111 <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> tokens (67% of all `VERB` tokens) have a non-empty value of `Tense`.
+2433 <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> tokens (66% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2083; 99%), <tt><a href="myv_jr-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (2071; 98%), <tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (2045; 97%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2028; 96%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (1815; 86%), <tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (1703; 81%), <tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (1699; 80%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (1486; 70%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2382; 98%), <tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (2345; 96%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2322; 95%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (2060; 85%), <tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (1982; 81%), <tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (1978; 81%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (1696; 70%).
 
 `VERB` tokens may have the following values of `Tense`:
 
-* `Past` (1306; 62% of non-empty `Tense`): <em>мерсь, лиссь, мольсь, совась, ютась, тейсь, саизе, шачсь, лоткась, тусь</em>
-* `Pres` (805; 38% of non-empty `Tense`): <em>ашти, ваны, неяви, маряви, мерят, моли, арьси, содави, корты, мерить</em>
-* `EMPTY` (1032): <em>кортамо, молемс, оймсеме, тееме, теемс, учо, чиезь, вант, пелезь, сёрмадомо</em>
+* `Past` (1457; 60% of non-empty `Tense`): <em>мерсь, лиссь, мольсь, ютась, совась, сась, пшкадсь, саизе, тейсь, кадовсь</em>
+* `Pres` (976; 40% of non-empty `Tense`): <em>ашти, неяви, маряви, ваны, моли, сы, мерят, арьси, корты, мерить</em>
+* `EMPTY` (1257): <em>теемс, кортамо, молемс, учо, вант, оймсеме, тееме, чиезь, ютазь, адя</em>
 
 <table>
   <tr><th>Paradigm <i>молемс</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -36,22 +36,24 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
   <tr><td><tt><tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=2</tt>|<tt><a href="myv_jr-feat-Valency.html">Valency</a></tt><tt>=1</tt></tt></td><td><em>молят</em></td><td></td></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt></tt></td><td><em>моли</em></td><td><em>мольсь</em></td></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="myv_jr-feat-Valency.html">Valency</a></tt><tt>=1</tt></tt></td><td><em>моли</em></td><td><em>мольсь</em></td></tr>
+  <tr><td><tt><tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="myv_jr-feat-Valency.html">Valency</a></tt><tt>=2</tt></tt></td><td><em>моли</em></td><td></td></tr>
 </table>
 
 ### `AUX`
 
-317 <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> tokens (45% of all `AUX` tokens) have a non-empty value of `Tense`.
+318 <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> tokens (40% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (296; 93%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (292; 92%), <tt><a href="myv_jr-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (250; 79%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (235; 74%), <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (189; 60%), <tt><a href="myv_jr-feat-Valency.html">Valency</a></tt><tt>=1</tt> (166; 52%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (297; 93%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (290; 91%), <tt><a href="myv_jr-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (243; 76%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (232; 73%), <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (215; 68%), <tt><a href="myv_jr-feat-Valency.html">Valency</a></tt><tt>=1</tt> (192; 60%).
 
 `AUX` tokens may have the following values of `Tense`:
 
-* `Past` (221; 70% of non-empty `Tense`): <em>эзь, кармась, ульнесь, кармасть, ульнесть, эзть, савсь, эзинь, эсть, эзизе</em>
-* `Pres` (96; 30% of non-empty `Tense`): <em>арась, ули, эряви, кармить, карми, улить, арасть, сави, араськак, савкшны</em>
-* `EMPTY` (386): <em>а, аволь, апак, иля, ли, кадык, бу, улезэ, давайте, илязо</em>
+* `Past` (237; 75% of non-empty `Tense`): <em>эзь, кармась, ульнесь, кармасть, ульнесть, эзть, савсь, эзинь, эсть, эзизе</em>
+* `Pres` (81; 25% of non-empty `Tense`): <em>эряви, ули, кармить, карми, улить, сави, карман, савкшны, улияк, Карминдерят</em>
+* `EMPTY` (473): <em>а, аволь, апак, иля, бу, кадык, ли, илядо, илязо, улезэ</em>
 
 <table>
   <tr><th>Paradigm <i>кармамс</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
+  <tr><td><tt><tt><a href="myv_jr-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Des</tt>|<tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="myv_jr-feat-Valency.html">Valency</a></tt><tt>=1</tt></tt></td><td></td><td><em>Кармиксэль</em></td></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt></tt></td><td></td><td><em>кармильть</em></td></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-Derivation.html">Derivation</a></tt><tt>=OkshnOms</tt>|<tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="myv_jr-feat-Valency.html">Valency</a></tt><tt>=1</tt></tt></td><td></td><td><em>кармакшнось</em></td></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="myv_jr-feat-Style.html">Style</a></tt><tt>=Arch</tt>|<tt><a href="myv_jr-feat-Valency.html">Valency</a></tt><tt>=1</tt></tt></td><td><em>кармитьдеряй</em></td><td></td></tr>
@@ -60,7 +62,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
   <tr><td><tt><tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt></tt></td><td><em>кармить</em></td><td><em>кармасть</em></td></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="myv_jr-feat-Style.html">Style</a></tt><tt>=Arch</tt>|<tt><a href="myv_jr-feat-Valency.html">Valency</a></tt><tt>=1</tt></tt></td><td><em>кармить</em></td><td></td></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="myv_jr-feat-Valency.html">Valency</a></tt><tt>=1</tt></tt></td><td><em>кармить</em></td><td><em>кармасть</em></td></tr>
-  <tr><td><tt><tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=1</tt>|<tt><a href="myv_jr-feat-Valency.html">Valency</a></tt><tt>=1</tt></tt></td><td></td><td><em>карминь</em></td></tr>
+  <tr><td><tt><tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=1</tt>|<tt><a href="myv_jr-feat-Valency.html">Valency</a></tt><tt>=1</tt></tt></td><td><em>карман</em></td><td><em>карминь</em></td></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=2</tt>|<tt><a href="myv_jr-feat-Valency.html">Valency</a></tt><tt>=1</tt></tt></td><td><em>кармат</em></td><td></td></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt></tt></td><td><em>карми</em></td><td><em>кармась</em></td></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="myv_jr-feat-Valency.html">Valency</a></tt><tt>=1</tt></tt></td><td><em>карми</em></td><td><em>кармась</em></td></tr>
@@ -68,49 +70,53 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 ### `ADJ`
 
-60 <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> tokens (9% of all `ADJ` tokens) have a non-empty value of `Tense`.
+112 <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> tokens (13% of all `ADJ` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `ADJ` and `Tense` co-occurred: <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (53; 88%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (53; 88%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (53; 88%).
+The most frequent other feature values with which `ADJ` and `Tense` co-occurred: <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (103; 92%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (94; 84%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (93; 83%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (93; 83%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (88; 79%).
 
 `ADJ` tokens may have the following values of `Tense`:
 
-* `Past` (12; 20% of non-empty `Tense`): <em>аноколь, Вадряльть, Превеельгак, кондямоль, кувакаль, лиятальть, мазыль, покшоль, стакаль, шождынель</em>
-* `Pres` (48; 80% of non-empty `Tense`): <em>сэрей, берянь, мазый, шумбрат, вадря, паро, рижой, шумбра, ён, Превтемеят</em>
-* `EMPTY` (611): <em>од, покш, паро, кодамо, якстере, омбоце, пиже, мазый, васень, тусто</em>
+* `Past` (32; 29% of non-empty `Tense`): <em>арасель, арасельгак, аноколь, сэтьмель, Вадряльть, Превеельгак, араселеть, арасельть, арасельтькак, кельмель</em>
+* `Pres` (80; 71% of non-empty `Tense`): <em>арась, арасть, сэрей, берянь, мазый, шумбрат, Кодат, араськак, вадря, паро</em>
+* `EMPTY` (777): <em>од, паро, покш, кодамо, якстере, мазый, лембе, омбоце, васень, пиже</em>
 
 <table>
-  <tr><th>Paradigm <i>мазы</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
-  <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>мазыль</em></td></tr>
-  <tr><td><tt></tt></td><td><em>мазы</em></td><td></td></tr>
+  <tr><th>Paradigm <i>арась</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
+  <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="myv_jr-feat-Clitic.html">Clitic</a></tt><tt>=Add</tt>|<tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt></tt></td><td></td><td><em>арасельтькак</em></td></tr>
+  <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="myv_jr-feat-Clitic.html">Clitic</a></tt><tt>=Add</tt>|<tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt></tt></td><td><em>араськак</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt></tt></td><td><em>арасть</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt></tt></td><td></td><td><em>арасель</em></td></tr>
+  <tr><td><tt><tt><a href="myv_jr-feat-Clitic.html">Clitic</a></tt><tt>=Add</tt>|<tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt></tt></td><td></td><td><em>арасельгак</em></td></tr>
+  <tr><td><tt><tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt></tt></td><td><em>арасть</em></td><td><em>арасельть</em></td></tr>
+  <tr><td><tt><tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=2</tt></tt></td><td></td><td><em>араселеть</em></td></tr>
+  <tr><td><tt><tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt></tt></td><td><em>арась</em></td><td><em>арасель</em></td></tr>
 </table>
-
-`Tense` seems to be **lexical feature** of `ADJ`. 95% lemmas (36) occur only with one value of `Tense`.
 
 ### `NOUN`
 
-24 <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Tense`.
+33 <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `NOUN` and `Tense` co-occurred: <tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (21; 88%), <tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (21; 88%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (20; 83%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (16; 67%).
+The most frequent other feature values with which `NOUN` and `Tense` co-occurred: <tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (29; 88%), <tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (29; 88%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (28; 85%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (22; 67%).
 
 `NOUN` tokens may have the following values of `Tense`:
 
-* `Past` (2; 8% of non-empty `Tense`): <em>вирьсэлить, чоподаль</em>
-* `Pres` (22; 92% of non-empty `Tense`): <em>чумо, бандит, коммунистан, пежеть, Велькссэнзэ, Превсат, аванть, бандитан, большевикат, кирьгакссонзо</em>
-* `EMPTY` (4295): <em>лангс, ёнов, бандитэсь, лангсо, партизантнэ, ялгат, кедензэ, ланга, ёндо, прянзо</em>
+* `Past` (8; 24% of non-empty `Tense`): <em>Лангсонзоль, вирьсэлить, пель, седеель, студентэлинек, сускомаль, фермасоль, чоподаль</em>
+* `Pres` (25; 76% of non-empty `Tense`): <em>чумо, бандит, коммунистан, пежеть, Велькссэнзэ, Вечкан, Превсат, аванть, бандитан, большевикат</em>
+* `EMPTY` (5031): <em>лангс, ёнов, лангсо, бандитэсь, партизантнэ, ланга, ялгат, кедензэ, кудов, прянзо</em>
 
-`Tense` seems to be **lexical feature** of `NOUN`. 100% lemmas (18) occur only with one value of `Tense`.
+`Tense` seems to be **lexical feature** of `NOUN`. 100% lemmas (27) occur only with one value of `Tense`.
 
 ### `ADV`
 
-11 <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Tense`.
+14 <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `ADV` and `Tense` co-occurred: <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (7; 64%), <tt><a href="myv_jr-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (6; 55%).
+The most frequent other feature values with which `ADV` and `Tense` co-occurred: <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (14; 100%), <tt><a href="myv_jr-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (9; 64%).
 
 `ADV` tokens may have the following values of `Tense`:
 
-* `Past` (4; 36% of non-empty `Tense`): <em>Аконашканель, Зярошкаль, Кодашкаль, ламоль</em>
-* `Pres` (7; 64% of non-empty `Tense`): <em>тескеть, Алкукс, Истя, Кодашка, косот, пешксе</em>
-* `EMPTY` (1467): <em>ансяк, кода, пек, истя, мейле, ней, уш, седе, прок, яла</em>
+* `Past` (7; 50% of non-empty `Tense`): <em>вельть, Аконашканель, Зярошкаль, Кодашкаль, ламоль, маласоль</em>
+* `Pres` (7; 50% of non-empty `Tense`): <em>тескеть, Алкукс, Истя, Кодашка, косот, пешксе</em>
+* `EMPTY` (1682): <em>ансяк, кода, пек, истя, мейле, ней, уш, седе, прок, яла</em>
 
 <table>
   <tr><th>Paradigm <i>кодашка</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -118,29 +124,42 @@ The most frequent other feature values with which `ADV` and `Tense` co-occurred:
   <tr><td><tt></tt></td><td></td><td><em>Кодашкаль</em></td></tr>
 </table>
 
+`Tense` seems to be **lexical feature** of `ADV`. 91% lemmas (10) occur only with one value of `Tense`.
+
 ### `PRON`
 
-6 <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Tense`.
+8 <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `PRON` and `Tense` co-occurred: <tt><a href="myv_jr-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="myv_jr-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=Int</tt> (5; 83%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (4; 67%).
+The most frequent other feature values with which `PRON` and `Tense` co-occurred: <tt><a href="myv_jr-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="myv_jr-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (5; 63%), <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=Int</tt> (5; 63%).
 
 `PRON` tokens may have the following values of `Tense`:
 
-* `Past` (2; 33% of non-empty `Tense`): <em>мезель, мейсэль</em>
-* `Pres` (4; 67% of non-empty `Tense`): <em>киян, кият</em>
-* `EMPTY` (950): <em>сон, весе, те, мон, сонзэ, сонсь, мезе, минь, тензэ, сынь</em>
+* `Past` (2; 25% of non-empty `Tense`): <em>мезель, мейсэль</em>
+* `Pres` (6; 75% of non-empty `Tense`): <em>киян, кият, истямат, колмонест</em>
+* `EMPTY` (1152): <em>сон, весе, те, мон, сонзэ, тон, сонсь, мезе, минь, минек</em>
+
+### `PROPN`
+
+1 <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `Tense`.
+
+The most frequent other feature values with which `PROPN` and `Tense` co-occurred: <tt><a href="myv_jr-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (1; 100%), <tt><a href="myv_jr-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="myv_jr-feat-NameType.html">NameType</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%).
+
+`PROPN` tokens may have the following values of `Tense`:
+
+* `Pres` (1; 100% of non-empty `Tense`): <em>Мерят</em>
+* `EMPTY` (695): <em>Микол, Ястребов, Любань, Палько, Люба, Федоров, Маря, Кирё, Кечай, Миколонь</em>
 
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> VERB</tt> (453; 72%),
-<tt>ADJ --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> ADJ</tt> (8; 89%),
+<tt>VERB --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> VERB</tt> (495; 72%),
+<tt>ADJ --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> ADJ</tt> (12; 75%),
 <tt>VERB --[<tt><a href="myv_jr-dep-compound.html">compound</a></tt>]--> VERB</tt> (4; 80%),
+<tt>ADJ --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2; 67%),
 <tt>VERB --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 100%),
 <tt>ADJ --[<tt><a href="myv_jr-dep-appos.html">appos</a></tt>]--> VERB</tt> (1; 100%),
 <tt>ADJ --[<tt><a href="myv_jr-dep-parataxis.html">parataxis</a></tt>]--> NOUN</tt> (1; 100%),
 <tt>ADV --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> ADV</tt> (1; 100%),
-<tt>AUX --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> ADJ</tt> (1; 100%),
 <tt>NOUN --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1; 100%),
-<tt>VERB --[<tt><a href="myv_jr-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (1; 100%).
+<tt>PROPN --[<tt><a href="myv_jr-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1; 100%).
 

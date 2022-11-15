@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>"</em> (<tt><a href="en_gum-pos-PUNCT
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.409091 (the average of all parts of speech is 1.225742).
+The form / lemma ratio of `PUNCT` is 1.409091 (the average of all parts of speech is 1.226279).
 
 The 1st highest number of forms (4) was observed with the lemma “''”: <em>", ``, “, ”</em>.
 
@@ -63,20 +63,20 @@ The 2nd highest number of forms (3) was observed with the lemma “'”: <em>', 
 
 The 3rd highest number of forms (3) was observed with the lemma “-”: <em>-, --, –</em>.
 
-`PUNCT` occurs with 3 features: <tt><a href="en_gum-feat-Typo.html">Typo</a></tt> (6; 0% instances), <tt><a href="en_gum-feat-Degree.html">Degree</a></tt> (1; 0% instances), <tt><a href="en_gum-feat-Number.html">Number</a></tt> (1; 0% instances)
+`PUNCT` occurs with 4 features: <tt><a href="en_gum-feat-Typo.html">Typo</a></tt> (10; 0% instances), <tt><a href="en_gum-feat-Foreign.html">Foreign</a></tt> (8; 0% instances), <tt><a href="en_gum-feat-Degree.html">Degree</a></tt> (1; 0% instances), <tt><a href="en_gum-feat-Number.html">Number</a></tt> (1; 0% instances)
 
-`PUNCT` occurs with 3 feature-value pairs: `Degree=Pos`, `Number=Sing`, `Typo=Yes`
+`PUNCT` occurs with 4 feature-value pairs: `Degree=Pos`, `Foreign=Yes`, `Number=Sing`, `Typo=Yes`
 
-`PUNCT` occurs with 4 feature combinations.
-The most frequent feature combination is `_` (22111 tokens).
-Examples: <em>,, ., -, ", (, ), ?, [, ], :</em>
+`PUNCT` occurs with 5 feature combinations.
+The most frequent feature combination is `_` (22099 tokens).
+Examples: <em>,, ., ", -, (, ), ?, [, ], :</em>
 
 
 ## Relations
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="en_gum-dep-punct.html">punct</a></tt> (22119; 100% instances)
 
-Parents of `PUNCT` nodes belong to 17 different parts of speech: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (9650; 44% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (4612; 21% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (2113; 10% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1619; 7% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (1544; 7% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (858; 4% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (671; 3% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (277; 1% instances), <tt><a href="en_gum-pos-CCONJ.html">CCONJ</a></tt> (236; 1% instances), <tt><a href="en_gum-pos-X.html">X</a></tt> (129; 1% instances), <tt><a href="en_gum-pos-DET.html">DET</a></tt> (110; 0% instances), <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (101; 0% instances), <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (68; 0% instances), <tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (67; 0% instances), <tt><a href="en_gum-pos-SYM.html">SYM</a></tt> (37; 0% instances), <tt><a href="en_gum-pos-PART.html">PART</a></tt> (25; 0% instances), <tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances)
+Parents of `PUNCT` nodes belong to 17 different parts of speech: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (9636; 44% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (4590; 21% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (2111; 10% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1617; 7% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (1554; 7% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (864; 4% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (670; 3% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (304; 1% instances), <tt><a href="en_gum-pos-CCONJ.html">CCONJ</a></tt> (236; 1% instances), <tt><a href="en_gum-pos-X.html">X</a></tt> (125; 1% instances), <tt><a href="en_gum-pos-DET.html">DET</a></tt> (110; 0% instances), <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (101; 0% instances), <tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (69; 0% instances), <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (68; 0% instances), <tt><a href="en_gum-pos-SYM.html">SYM</a></tt> (37; 0% instances), <tt><a href="en_gum-pos-PART.html">PART</a></tt> (25; 0% instances), <tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances)
 
 22118 (100%) `PUNCT` nodes are leaves.
 

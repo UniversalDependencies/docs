@@ -11,10 +11,10 @@ There are also 3 other language-specific subtypes of `expl`: <tt><a href="ro_sim
 
 551 nodes (0%) are attached to their parents as `expl:pv`.
 
-534 instances of `expl:pv` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.32486388384755.
+533 instances of `expl:pv` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.32304900181488.
 
-The following 3 pairs of parts of speech are connected with `expl:pv`: <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> (543; 99% instances), <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> (3; 1% instances).
+The following 3 pairs of parts of speech are connected with `expl:pv`: <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> (544; 99% instances), <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> (3; 1% instances).
 
 
 ~~~ conllu

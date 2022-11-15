@@ -20,13 +20,13 @@ The feature is used with 2 part-of-speech tags: <tt><a href="eu_bdt-pos-AUX.html
 
 9 <tt><a href="eu_bdt-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Gender[erg]`.
 
-The most frequent other feature values with which `AUX` and `Gender[erg]` co-occurred: <tt><a href="eu_bdt-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Sing</tt> (9; 100%), <tt><a href="eu_bdt-feat-Number-erg.html">Number[erg]</a></tt><tt>=Sing</tt> (9; 100%), <tt><a href="eu_bdt-feat-Person-erg.html">Person[erg]</a></tt><tt>=2</tt> (9; 100%), <tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=3</tt> (8; 89%), <tt><a href="eu_bdt-feat-Mood.html">Mood</a></tt><tt>=Imp</tt> (5; 56%).
+The most frequent other feature values with which `AUX` and `Gender[erg]` co-occurred: <tt><a href="eu_bdt-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Sing</tt> (9; 100%), <tt><a href="eu_bdt-feat-Number-erg.html">Number[erg]</a></tt><tt>=Sing</tt> (9; 100%), <tt><a href="eu_bdt-feat-Person-erg.html">Person[erg]</a></tt><tt>=2</tt> (9; 100%), <tt><a href="eu_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9; 100%), <tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=3</tt> (8; 89%), <tt><a href="eu_bdt-feat-Mood.html">Mood</a></tt><tt>=Imp</tt> (5; 56%).
 
 `AUX` tokens may have the following values of `Gender[erg]`:
 
 
 <table>
-  <tr><th>Paradigm <i>*edun</i></th><th><tt>Fem</tt></th><th><tt>Masc</tt></th></tr>
+  <tr><th>Paradigm <i>edun</i></th><th><tt>Fem</tt></th><th><tt>Masc</tt></th></tr>
   <tr><td><tt><tt><a href="eu_bdt-feat-Gender-erg.html">Gender[erg]</a></tt><tt>=Fem</tt></tt></td><td><em>dun, dunala</em></td><td></td></tr>
   <tr><td><tt><tt><a href="eu_bdt-feat-Gender-erg.html">Gender[erg]</a></tt><tt>=Masc</tt></tt></td><td></td><td><em>duan, duk</em></td></tr>
 </table>
@@ -35,7 +35,7 @@ The most frequent other feature values with which `AUX` and `Gender[erg]` co-occ
 
 4 <tt><a href="eu_bdt-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Gender[erg]`.
 
-The most frequent other feature values with which `VERB` and `Gender[erg]` co-occurred: <tt><a href="eu_bdt-feat-Aspect.html">Aspect</a></tt><tt>=Prog</tt> (4; 100%), <tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="eu_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4; 100%), <tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Sing</tt> (4; 100%), <tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=3</tt> (4; 100%), <tt><a href="eu_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (4; 100%).
+The most frequent other feature values with which `VERB` and `Gender[erg]` co-occurred: <tt><a href="eu_bdt-feat-Aspect.html">Aspect</a></tt><tt>=Prog</tt> (4; 100%), <tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="eu_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4; 100%), <tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Sing</tt> (4; 100%), <tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=3</tt> (4; 100%), <tt><a href="eu_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4; 100%).
 
 `VERB` tokens may have the following values of `Gender[erg]`:
 

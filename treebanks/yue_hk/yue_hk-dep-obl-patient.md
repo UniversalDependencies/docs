@@ -27,7 +27,7 @@ The following 1 pairs of parts of speech are connected with `obl:patient`: <tt><
 2	試	試	VERB	_	_	0	root	_	SpaceAfter=No
 3	下	下	ADV	_	_	2	advmod	_	SpaceAfter=No
 4	將	將	ADP	_	_	6	case	_	SpaceAfter=No
-5	條	條	NOUN	_	NounType=Clf	6	det	_	SpaceAfter=No
+5	條	條	NOUN	_	NounType=Clf	6	clf:det	_	SpaceAfter=No
 6	天線	天線	NOUN	_	_	7	obl:patient	_	SpaceAfter=No
 7	㨃	㨃	VERB	_	_	2	ccomp	_	SpaceAfter=No
 8	出	出	VERB	_	_	7	compound:dir	_	SpaceAfter=No

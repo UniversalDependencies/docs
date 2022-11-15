@@ -24,7 +24,7 @@ The following 31 pairs of parts of speech are connected with `dep`: <tt><a href=
 # visual-style 11 12 dep	color:blue
 1	פלזמה	פלזמה	NOUN	NOUN	Gender=Fem|Number=Sing	5	nsubj	_	_
 2	קפואה	קפוא	ADJ	ADJ	Gender=Fem|Number=Sing	1	amod	_	_
-3	היא	הוא	PRON	PRON	Gender=Fem|Number=Sing|Person=3|Polarity=Pos	5	cop	_	_
+3	היא	הוא	PRON	PRON	Gender=Fem|Number=Sing|Person=3|Polarity=Pos|PronType=Prs	5	cop	_	_
 4	ה	ה	DET	DET	Definite=Def|PronType=Art	5	det	_	_
 5	טיפול	טיפול	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	_
 6	ה	ה	DET	DET	Definite=Def|PronType=Art	7	det	_	_

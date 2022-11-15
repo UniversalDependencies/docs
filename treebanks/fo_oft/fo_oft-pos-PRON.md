@@ -34,7 +34,7 @@ The 10 most frequent ambiguous types:  <em>hon</em> (<tt><a href="fo_oft-pos-PRO
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 1.700000 (the average of all parts of speech is 1.290924).
+The form / lemma ratio of `PRON` is 1.700000 (the average of all parts of speech is 1.292021).
 
 The 1st highest number of forms (4) was observed with the lemma “hon”: <em>hana, hennara, henni, hon</em>.
 
@@ -53,9 +53,9 @@ Examples: <em>hon</em>
 
 ## Relations
 
-`PRON` nodes are attached to their parents using 10 different relations: <tt><a href="fo_oft-dep-nsubj.html">nsubj</a></tt> (213; 73% instances), <tt><a href="fo_oft-dep-obj.html">obj</a></tt> (24; 8% instances), <tt><a href="fo_oft-dep-expl.html">expl</a></tt> (18; 6% instances), <tt><a href="fo_oft-dep-nmod-poss.html">nmod:poss</a></tt> (14; 5% instances), <tt><a href="fo_oft-dep-obl.html">obl</a></tt> (14; 5% instances), <tt><a href="fo_oft-dep-nmod.html">nmod</a></tt> (4; 1% instances), <tt><a href="fo_oft-dep-root.html">root</a></tt> (2; 1% instances), <tt><a href="fo_oft-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="fo_oft-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="fo_oft-dep-det.html">det</a></tt> (1; 0% instances)
+`PRON` nodes are attached to their parents using 10 different relations: <tt><a href="fo_oft-dep-nsubj.html">nsubj</a></tt> (212; 73% instances), <tt><a href="fo_oft-dep-obj.html">obj</a></tt> (24; 8% instances), <tt><a href="fo_oft-dep-expl.html">expl</a></tt> (19; 7% instances), <tt><a href="fo_oft-dep-nmod-poss.html">nmod:poss</a></tt> (14; 5% instances), <tt><a href="fo_oft-dep-obl.html">obl</a></tt> (14; 5% instances), <tt><a href="fo_oft-dep-nmod.html">nmod</a></tt> (4; 1% instances), <tt><a href="fo_oft-dep-root.html">root</a></tt> (2; 1% instances), <tt><a href="fo_oft-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="fo_oft-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="fo_oft-dep-det.html">det</a></tt> (1; 0% instances)
 
-Parents of `PRON` nodes belong to 9 different parts of speech: <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt> (130; 45% instances), <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt> (122; 42% instances), <tt><a href="fo_oft-pos-ADJ.html">ADJ</a></tt> (15; 5% instances), <tt><a href="fo_oft-pos-PROPN.html">PROPN</a></tt> (11; 4% instances), <tt><a href="fo_oft-pos-ADV.html">ADV</a></tt> (7; 2% instances), <tt><a href="fo_oft-pos-NUM.html">NUM</a></tt> (3; 1% instances),  (2; 1% instances), <tt><a href="fo_oft-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="fo_oft-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances)
+Parents of `PRON` nodes belong to 7 different parts of speech: <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt> (135; 46% instances), <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt> (120; 41% instances), <tt><a href="fo_oft-pos-ADJ.html">ADJ</a></tt> (14; 5% instances), <tt><a href="fo_oft-pos-PROPN.html">PROPN</a></tt> (11; 4% instances), <tt><a href="fo_oft-pos-ADV.html">ADV</a></tt> (7; 2% instances), <tt><a href="fo_oft-pos-NUM.html">NUM</a></tt> (3; 1% instances),  (2; 1% instances)
 
 265 (91%) `PRON` nodes are leaves.
 

@@ -10,10 +10,10 @@ This relation is universal.
 
 441 nodes (0%) are attached to their parents as `expl`.
 
-344 instances of `expl` (78%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.70068027210884.
+343 instances of `expl` (78%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.90929705215419.
 
-The following 5 pairs of parts of speech are connected with `expl`: <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-ADV.html">ADV</a></tt> (393; 89% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> (37; 8% instances), <tt><a href="da_ddt-pos-ADV.html">ADV</a></tt>-<tt><a href="da_ddt-pos-ADV.html">ADV</a></tt> (7; 2% instances), <tt><a href="da_ddt-pos-AUX.html">AUX</a></tt>-<tt><a href="da_ddt-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="da_ddt-pos-X.html">X</a></tt>-<tt><a href="da_ddt-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `expl`: <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> (429; 97% instances), <tt><a href="da_ddt-pos-ADV.html">ADV</a></tt>-<tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> (6; 1% instances), <tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="da_ddt-pos-X.html">X</a></tt>-<tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 5 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 expl	color:blue
-1	Der	der	ADV	_	PartType=Inf	2	expl	_	_
+1	Der	der	PRON	_	_	2	expl	_	_
 2	var	være	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 3	en	en	DET	_	Gender=Com|Number=Sing|PronType=Ind	5	det	_	_
 4	god	god	ADJ	_	Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	5	amod	_	_
@@ -41,34 +41,11 @@ The following 5 pairs of parts of speech are connected with `expl`: <tt><a href=
 ~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 2 expl	color:blue
-1	-	-	PUNCT	_	_	5	punct	_	_
-2	Der	der	PRON	_	PartType=Inf	5	expl	_	_
-3	må	måtte	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	_
-4	have	have	AUX	_	VerbForm=Inf|Voice=Act	5	aux	_	_
-5	været	være	VERB	_	Definite=Ind|Number=Sing|Tense=Past|VerbForm=Part	10	ccomp	_	_
-6	en	en	DET	_	Gender=Com|Number=Sing|PronType=Ind	8	det	_	_
-7	anden	anden	DET	_	Gender=Com|Number=Sing|PronType=Ind	8	det	_	_
-8	mand	mand	NOUN	_	Definite=Ind|Gender=Com|Number=Sing	5	obj	_	SpaceAfter=No
-9	,	,	PUNCT	_	_	5	punct	_	_
-10	konstaterede	konstatere	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-11	Loulou	Loulou	PROPN	_	_	10	nsubj	_	_
-12	sagligt	sagligt	ADV	_	Degree=Pos	10	advmod	_	SpaceAfter=No
-13	.	.	PUNCT	_	_	10	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 2 expl	color:blue
 1	Hvis	hvis	SCONJ	_	_	7	mark	_	_
-2	der	der	ADV	_	PartType=Inf	7	expl	_	_
+2	der	der	PRON	_	_	7	expl	_	_
 3	overhovedet	overhovedet	ADV	_	_	7	advmod	_	_
 4	var	være	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	_
 5	nogen	nogen	DET	_	Gender=Com|Number=Sing|PronType=Ind	6	det	_	_
@@ -77,6 +54,51 @@ The following 5 pairs of parts of speech are connected with `expl`: <tt><a href=
 8	i	i	ADP	_	AdpType=Prep	9	case	_	_
 9	dig	du	PRON	_	Case=Acc|Gender=Com|Number=Sing|Person=2|PronType=Prs	7	obl	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	7	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 33	bgColor:blue
+# visual-style 33	fgColor:white
+# visual-style 33 3 expl	color:blue
+1	"	"	PUNCT	_	_	33	punct	_	SpaceAfter=No
+2	Hvis	hvis	SCONJ	_	_	33	mark	_	_
+3	der	der	PRON	_	_	33	expl	_	_
+4	er	være	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	33	advcl	_	_
+5	den	den	DET	_	Gender=Com|Number=Sing|PronType=Dem	8	det	_	_
+6	nødvendige	nødvendig	ADJ	_	Definite=Def|Degree=Pos|Number=Sing	8	amod	_	_
+7	politiske	politisk	ADJ	_	Definite=Def|Degree=Pos|Number=Sing	8	amod	_	_
+8	vilje	vilje	NOUN	_	Definite=Ind|Gender=Com|Number=Sing	33	obj	_	_
+9	til	til	ADP	_	AdpType=Prep	12	mark	_	_
+10	både	både	ADV	_	_	12	advmod	_	_
+11	at	at	PART	_	PartType=Inf	12	mark	_	_
+12	bygge	bygge	VERB	_	VerbForm=Inf|Voice=Act	8	advcl	_	_
+13	nyt	ny	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	12	obj	_	_
+14	og	og	CCONJ	_	_	16	cc	_	_
+15	at	at	PART	_	PartType=Inf	16	mark	_	_
+16	bevilge	bevilge	VERB	_	VerbForm=Inf|Voice=Act	11	conj	_	_
+17	penge	penge	NOUN	_	Definite=Ind|Gender=Com|Number=Plur	16	obj	_	_
+18	til	til	ADP	_	AdpType=Prep	19	case	_	_
+19	driften	drift	NOUN	_	Definite=Def|Gender=Com|Number=Sing	16	obl	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	8	punct	_	_
+21	så	så	ADV	_	_	33	advmod	_	_
+22	vil	ville	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	33	aux	_	_
+23	en	en	DET	_	Gender=Com|Number=Sing|PronType=Ind	24	det	_	_
+24	udskillelse	udskillelse	NOUN	_	Definite=Ind|Gender=Com|Number=Sing	33	nsubj	_	_
+25	af	af	ADP	_	AdpType=Prep	26	case	_	_
+26	skuespilafdelingen	skuespilafdeling	NOUN	_	Definite=Def|Gender=Com|Number=Sing	24	nmod	_	_
+27	fra	fra	ADP	_	AdpType=Prep	28	case	_	_
+28	Kgs.	Kongens	PROPN	_	_	24	nmod	_	_
+29	Nytorv	Nytorv	PROPN	_	_	28	nmod:poss	_	_
+30	være	være	AUX	_	VerbForm=Inf|Voice=Act	33	cop	_	_
+31	en	en	DET	_	Gender=Com|Number=Sing|PronType=Ind	33	det	_	_
+32	naturlig	naturlig	ADJ	_	Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	33	amod	_	_
+33	følge	følge	NOUN	_	Definite=Ind|Gender=Com|Number=Sing	0	root	_	SpaceAfter=No
+34	.	.	PUNCT	_	_	33	punct	_	SpaceAfter=No
+35	"	"	PUNCT	_	_	33	punct	_	_
 
 ~~~
 

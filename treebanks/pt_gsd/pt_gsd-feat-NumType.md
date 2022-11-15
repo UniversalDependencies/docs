@@ -9,18 +9,20 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Card`.
 
-8467 tokens (3%) have a non-empty value of `NumType`.
-1697 types (6%) occur at least once with a non-empty value of `NumType`.
-5 lemmas (0%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="pt_gsd-pos-NUM.html">NUM</a></tt> (8467; 3% instances).
+8466 tokens (3%) have a non-empty value of `NumType`.
+1696 types (6%) occur at least once with a non-empty value of `NumType`.
+1158 lemmas (11%) occur at least once with a non-empty value of `NumType`.
+The feature is used with 1 part-of-speech tags: <tt><a href="pt_gsd-pos-NUM.html">NUM</a></tt> (8466; 3% instances).
 
 ### `NUM`
 
-8467 <tt><a href="pt_gsd-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
+8466 <tt><a href="pt_gsd-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (8467; 100% of non-empty `NumType`): <em>dois, três, mil, duas, milhões, 1, 2012, quatro, 2, bilhões</em>
+* `Card` (8466; 100% of non-empty `NumType`): <em>dois, três, mil, duas, milhões, 1, 2012, quatro, 2, bilhões</em>
+
+`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (1158) occur only with one value of `NumType`.
 
 ## Relations with Agreement in `NumType`
 

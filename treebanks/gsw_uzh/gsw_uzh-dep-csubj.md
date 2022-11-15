@@ -43,7 +43,7 @@ The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 21 csubj	color:blue
-1	Das	_	PRON	PDS	_	2	nsubj	_	_
+1	Das	_	PRON	PDS	_	2	expl	_	_
 2	gitt	_	VERB	VVFIN	_	0	root	_	_
 3	üüs	_	PRON	PPER	_	2	iobj	_	_
 4	jedäs	_	DET	PIAT	_	5	det	_	_
@@ -87,7 +87,7 @@ The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href
 10	Hoochdütsch	_	ADJ	ADJD	_	11	advmod	_	_
 11	redä	_	VERB	VVINF	_	5	ccomp	_	SpaceAfter=No
 12	,	_	PUNCT	$,	_	14	punct	_	_
-13	das	_	PRON	PDS	_	14	nsubj	_	_
+13	das	_	PRON	PDS	_	14	expl	_	_
 14	gängi	_	VERB	VVFIN	_	11	conj	_	_
 15	denn	_	ADV	ADV	_	14	advmod	_	_
 16	grad	_	ADV	ADV	_	17	advmod	_	_

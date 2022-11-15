@@ -45,7 +45,7 @@ The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
 # visual-style 13 11 ccomp	color:blue
-1	麺棒	麺棒	NOUN	名詞-普通名詞-一般	_	13	dislocated	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=,麺棒,麺棒,麺棒,メンボー,,,メンボウ,メンボウ,麺棒
+1	麺棒	麺棒	NOUN	名詞-普通名詞-一般	_	13	nsubj:outer	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=,麺棒,麺棒,麺棒,メンボー,,,メンボウ,メンボウ,麺棒
 2	は	は	ADP	助詞-係助詞	_	1	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,は,は,は,ワ,,,ハ,ハ,は
 3	直径	直径	NOUN	名詞-普通名詞-一般	_	4	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|SpaceAfter=No|UnidicInfo=,直径,直径,直径,チョッケー,,,チョッケイ,チョッケイ,直径
 4	2~3cm	2~3cm	NUM	名詞-数詞	_	7	compound	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=;;;,二;‾;三;センチメートル,2;~;3;cm,2;~;3;cm,ニ;;サン;センチメートル,;;;,;;;,ニ;;サン;センチメートル,ニサンセンチメートル,2~3cm
@@ -69,7 +69,7 @@ The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 7 ccomp	color:blue
-1	治療	治療	NOUN	名詞-普通名詞-一般	_	7	dislocated	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=,治療,治療,治療,チリョー,,,チリョウ,チリョウ,治療
+1	治療	治療	NOUN	名詞-普通名詞-一般	_	7	nsubj:outer	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=,治療,治療,治療,チリョー,,,チリョウ,チリョウ,治療
 2	は	は	ADP	助詞-係助詞	_	1	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,は,は,は,ワ,,,ハ,ハ,は
 3	ステロイド	ステロイド	NOUN	名詞-普通名詞-一般	_	5	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=,ステロイド,ステロイド,ステロイド,ステロイド,,,ステロイド,ステロイド,ステロイド
 4	の	の	ADP	助詞-格助詞	_	3	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,の,の,の,ノ,,,ノ,ノ,の

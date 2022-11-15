@@ -11,10 +11,10 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="tr_gb-feat-Person.html">Person</a></tt>, <tt><a href="tr_gb-feat-Person-psor.html">Person[psor]</a></tt>.
 
-1558 tokens (9%) have a non-empty value of `Person[psor]`.
-983 types (19%) occur at least once with a non-empty value of `Person[psor]`.
-499 lemmas (24%) occur at least once with a non-empty value of `Person[psor]`.
-The feature is used with 8 part-of-speech tags: <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> (1087; 6% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> (362; 2% instances), <tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (51; 0% instances), <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> (27; 0% instances), <tt><a href="tr_gb-pos-ADP.html">ADP</a></tt> (14; 0% instances), <tt><a href="tr_gb-pos-NUM.html">NUM</a></tt> (12; 0% instances), <tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> (2; 0% instances).
+1556 tokens (9%) have a non-empty value of `Person[psor]`.
+981 types (19%) occur at least once with a non-empty value of `Person[psor]`.
+496 lemmas (24%) occur at least once with a non-empty value of `Person[psor]`.
+The feature is used with 8 part-of-speech tags: <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> (1087; 6% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> (362; 2% instances), <tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (51; 0% instances), <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> (27; 0% instances), <tt><a href="tr_gb-pos-ADP.html">ADP</a></tt> (14; 0% instances), <tt><a href="tr_gb-pos-NUM.html">NUM</a></tt> (12; 0% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -94,7 +94,14 @@ The most frequent other feature values with which `AUX` and `Person[psor]` co-oc
   <tr><td><tt><tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_gb-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_gb-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt>|<tt><a href="tr_gb-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="tr_gb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>olmadığın</em></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_gb-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_gb-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="tr_gb-feat-VerbForm.html">VerbForm</a></tt><tt>=Vnoun</tt></tt></td><td></td><td></td><td><em>olması</em></td></tr>
   <tr><td><tt><tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_gb-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="tr_gb-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt>|<tt><a href="tr_gb-feat-VerbForm.html">VerbForm</a></tt><tt>=Vnoun</tt></tt></td><td><em>olmamız</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_gb-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_gb-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt>|<tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="tr_gb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>olacağım</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_gb-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_gb-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt>|<tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="tr_gb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>olduğum</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_gb-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_gb-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt>|<tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="tr_gb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>olduğun</em></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_gb-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_gb-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="tr_gb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>olacağı</em></td></tr>
+  <tr><td><tt><tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_gb-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_gb-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="tr_gb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>olduğu</em></td></tr>
+  <tr><td><tt><tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_gb-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="tr_gb-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt>|<tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="tr_gb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>olduğumuz</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_gb-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="tr_gb-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt>|<tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="tr_gb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>olduğunuz</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_gb-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="tr_gb-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="tr_gb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>oldukları</em></td></tr>
 </table>
 
 ### `PRON`
@@ -134,20 +141,20 @@ The most frequent other feature values with which `NUM` and `Person[psor]` co-oc
 `NUM` tokens may have the following values of `Person[psor]`:
 
 
-### `PROPN`
-
-3 <tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `Person[psor]`.
-
-The most frequent other feature values with which `PROPN` and `Person[psor]` co-occurred: <tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Gen</tt> (2; 67%), <tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 67%).
-
-`PROPN` tokens may have the following values of `Person[psor]`:
-
-
 ### `ADJ`
 
 2 <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Person[psor]`.
 
 `ADJ` tokens may have the following values of `Person[psor]`:
+
+
+### `PROPN`
+
+1 <tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `Person[psor]`.
+
+The most frequent other feature values with which `PROPN` and `Person[psor]` co-occurred: <tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1; 100%).
+
+`PROPN` tokens may have the following values of `Person[psor]`:
 
 
 ## Relations with Agreement in `Person[psor]`

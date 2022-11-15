@@ -13,7 +13,7 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 
 9766 tokens (57%) have a non-empty value of `Number`.
 4650 types (91%) occur at least once with a non-empty value of `Number`.
-1517 lemmas (73%) occur at least once with a non-empty value of `Number`.
+1517 lemmas (74%) occur at least once with a non-empty value of `Number`.
 The feature is used with 8 part-of-speech tags: <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> (4510; 26% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> (2596; 15% instances), <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> (1070; 6% instances), <tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt> (914; 5% instances), <tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (578; 3% instances), <tt><a href="tr_gb-pos-NUM.html">NUM</a></tt> (78; 0% instances), <tt><a href="tr_gb-pos-ADP.html">ADP</a></tt> (13; 0% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> (7; 0% instances).
 
 ### `NOUN`
@@ -329,11 +329,11 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>VERB --[<tt><a href="tr_gb-dep-obj.html">obj</a></tt>]--> NOUN</tt> (567; 62%),
 <tt>VERB --[<tt><a href="tr_gb-dep-obl.html">obl</a></tt>]--> NOUN</tt> (440; 61%),
 <tt>VERB --[<tt><a href="tr_gb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (352; 66%),
-<tt>NOUN --[<tt><a href="tr_gb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (346; 65%),
+<tt>NOUN --[<tt><a href="tr_gb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (345; 65%),
 <tt>VERB --[<tt><a href="tr_gb-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (311; 83%),
 <tt>VERB --[<tt><a href="tr_gb-dep-obl-tmod.html">obl:tmod</a></tt>]--> NOUN</tt> (201; 53%),
 <tt>VERB --[<tt><a href="tr_gb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (190; 53%),
 <tt>VERB --[<tt><a href="tr_gb-dep-obl.html">obl</a></tt>]--> PRON</tt> (184; 68%),
 <tt>VERB --[<tt><a href="tr_gb-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (182; 65%),
-<tt>NOUN --[<tt><a href="tr_gb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (122; 79%).
+<tt>NOUN --[<tt><a href="tr_gb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (122; 78%).
 

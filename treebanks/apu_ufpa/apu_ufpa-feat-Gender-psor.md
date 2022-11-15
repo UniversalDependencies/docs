@@ -11,16 +11,16 @@ It occurs with 2 different values: `Fem`, `Masc`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="apu_ufpa-feat-Gender.html">Gender</a></tt>, <tt><a href="apu_ufpa-feat-Gender-obj.html">Gender[obj]</a></tt>, <tt><a href="apu_ufpa-feat-Gender-psor.html">Gender[psor]</a></tt>, <tt><a href="apu_ufpa-feat-Gender-subj.html">Gender[subj]</a></tt>.
 
-19 tokens (2%) have a non-empty value of `Gender[psor]`.
-17 types (6%) occur at least once with a non-empty value of `Gender[psor]`.
-16 lemmas (7%) occur at least once with a non-empty value of `Gender[psor]`.
-The feature is used with 1 part-of-speech tags: <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (19; 2% instances).
+22 tokens (3%) have a non-empty value of `Gender[psor]`.
+20 types (6%) occur at least once with a non-empty value of `Gender[psor]`.
+19 lemmas (7%) occur at least once with a non-empty value of `Gender[psor]`.
+The feature is used with 1 part-of-speech tags: <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (22; 3% instances).
 
 ### `NOUN`
 
-19 <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> tokens (8% of all `NOUN` tokens) have a non-empty value of `Gender[psor]`.
+22 <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> tokens (8% of all `NOUN` tokens) have a non-empty value of `Gender[psor]`.
 
-The most frequent other feature values with which `NOUN` and `Gender[psor]` co-occurred: <tt><a href="apu_ufpa-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (17; 89%), <tt><a href="apu_ufpa-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (11; 58%), <tt><a href="apu_ufpa-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11; 58%), <tt><a href="apu_ufpa-feat-Possessed.html">Possessed</a></tt><tt>=Yes</tt> (11; 58%).
+The most frequent other feature values with which `NOUN` and `Gender[psor]` co-occurred: <tt><a href="apu_ufpa-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (20; 91%), <tt><a href="apu_ufpa-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14; 64%), <tt><a href="apu_ufpa-feat-Possessed.html">Possessed</a></tt><tt>=Yes</tt> (14; 64%).
 
 `NOUN` tokens may have the following values of `Gender[psor]`:
 
@@ -31,7 +31,7 @@ The most frequent other feature values with which `NOUN` and `Gender[psor]` co-o
   <tr><td><tt><tt><a href="apu_ufpa-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="apu_ufpa-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Fem</tt>|<tt><a href="apu_ufpa-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="apu_ufpa-feat-Possessed.html">Possessed</a></tt><tt>=Yes</tt></tt></td><td><em>ũaapuku</em></td><td></td></tr>
 </table>
 
-`Gender[psor]` seems to be **lexical feature** of `NOUN`. 94% lemmas (15) occur only with one value of `Gender[psor]`.
+`Gender[psor]` seems to be **lexical feature** of `NOUN`. 95% lemmas (18) occur only with one value of `Gender[psor]`.
 
 ## Relations with Agreement in `Gender[psor]`
 

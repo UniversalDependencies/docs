@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Cnd`, `Imp`.
 
-802 tokens (3%) have a non-empty value of `Mood`.
+803 tokens (3%) have a non-empty value of `Mood`.
 531 types (5%) occur at least once with a non-empty value of `Mood`.
 243 lemmas (5%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 3 part-of-speech tags: <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (751; 3% instances), <tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> (28; 0% instances), <tt><a href="orv_birchbark-pos-SCONJ.html">SCONJ</a></tt> (23; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (752; 3% instances), <tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> (28; 0% instances), <tt><a href="orv_birchbark-pos-SCONJ.html">SCONJ</a></tt> (23; 0% instances).
 
 ### `VERB`
 
-751 <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> tokens (29% of all `VERB` tokens) have a non-empty value of `Mood`.
+752 <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> tokens (29% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="orv_birchbark-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (742; 99%), <tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (724; 96%), <tt><a href="orv_birchbark-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (721; 96%), <tt><a href="orv_birchbark-feat-Person.html">Person</a></tt><tt>=2</tt> (707; 94%), <tt><a href="orv_birchbark-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (705; 94%), <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (652; 87%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="orv_birchbark-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (743; 99%), <tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (725; 96%), <tt><a href="orv_birchbark-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (722; 96%), <tt><a href="orv_birchbark-feat-Person.html">Person</a></tt><tt>=2</tt> (708; 94%), <tt><a href="orv_birchbark-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (706; 94%), <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (653; 87%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Cnd` (31; 4% of non-empty `Mood`): <em>бꙑ, въдалъ, дале, далъ, дос)пѣле, доспѣлъ, жаловалѣ, жила, ихалъ, купилъ</em>
-* `Imp` (720; 96% of non-empty `Mood`): <em>даи, возми, възьми, пришли, посли, присъли, иди, молови, присли, въдаи</em>
-* `EMPTY` (1830): <em>далъ, шло, възѧле, дале, кланѧюсѧ, послале, дала, взѧле, въдале, дати</em>
+* `Imp` (721; 96% of non-empty `Mood`): <em>даи, возми, възьми, пришли, посли, присъли, иди, молови, присли, въдаи</em>
+* `EMPTY` (1837): <em>далъ, шло, възѧле, дале, кланѧюсѧ, послале, въдале, дала, взѧле, дати</em>
 
 <table>
   <tr><th>Paradigm <i>прислати</i></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th></tr>
@@ -38,7 +38,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `AUX`
 
-28 <tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> tokens (8% of all `AUX` tokens) have a non-empty value of `Mood`.
+28 <tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> tokens (7% of all `AUX` tokens) have a non-empty value of `Mood`.
 
 The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="orv_birchbark-feat-Analyt.html">Analyt</a></tt><tt>=EMPTY</tt> (16; 57%), <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (16; 57%), <tt><a href="orv_birchbark-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (16; 57%), <tt><a href="orv_birchbark-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (16; 57%), <tt><a href="orv_birchbark-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (15; 54%).
 
@@ -46,7 +46,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 
 * `Cnd` (24; 86% of non-empty `Mood`): <em>бꙑ, бъ, би, бꙑхъ, [еси], б…, бꙑхо, ѥси</em>
 * `Imp` (4; 14% of non-empty `Mood`): <em>бꙋди, буди, бѫди</em>
-* `EMPTY` (344): <em>еси, ѥси, есмь, ѥсмь, есте, есть, есемо, бꙑло, ѥсме, бꙑлъ</em>
+* `EMPTY` (347): <em>еси, ѥси, есмь, ѥсмь, есте, есть, есемо, бꙑло, ѥсме, бꙑлъ</em>
 
 <table>
   <tr><th>Paradigm <i>быти</i></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th></tr>

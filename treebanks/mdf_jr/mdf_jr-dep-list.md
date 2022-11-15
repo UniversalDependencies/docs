@@ -22,7 +22,7 @@ The following 1 pairs of parts of speech are connected with `list`: <tt><a href=
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 15 list	color:blue
-1	Москуста	Моску	NOUN	N	Case=Ela|Definite=Ind|Number=Plur,Sing	2	obl:lfrom	_	GTtags=Prop,SP,Ela,Indef
+1	Москуста	Моску	NOUN	N	Case=Ela|Definite=Ind|Number=Plur,Sing	2	obl:lmod	_	GTtags=Prop,SP,Ela,Indef
 2	тумозонза	тумс	VERB	V	Case=Ill|Number=Plur,Sing|Number[psor]=Sing|Person[psor]=3|VerbForm=Vnoun	4	advcl:tcl	_	GTtags=NomAct,SP,Ill,PxSg3
 3	Тишка	Тишка	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	4	nsubj	_	GTtags=Prop,Sg,Nom,Indef
 4	аноклазень	анокламс	VERB	V	Mood=Ind|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,ScSg3,OcPl3

@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Korean-Kaist: POS Tags: `X`
 
-There are 507 `X` lemmas (0%), 507 `X` types (1%) and 700 `X` tokens (0%).
-Out of 17 observed tags, the rank of `X` is: 10 in number of lemmas, 10 in number of types and 14 in number of tokens.
+There are 506 `X` lemmas (0%), 506 `X` types (1%) and 699 `X` tokens (0%).
+Out of 17 observed tags, the rank of `X` is: 9 in number of lemmas, 9 in number of types and 14 in number of tokens.
 
 The 10 most frequent `X` lemmas: EC, 프롤레타리아, TV, S, the, km, ATM, PCS, 에퀴티, ABC
 
@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  프롤레타리아 (<tt><a href="ko_kaist
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 0.995275).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 0.998034).
 
 The 1st highest number of forms (1) was observed with the lemma “230+b”: 230b.
 
@@ -64,21 +64,21 @@ The 3rd highest number of forms (1) was observed with the lemma “A”: A.
 
 ## Relations
 
-`X` nodes are attached to their parents using 13 different relations: <tt><a href="ko_kaist-dep-appos.html">appos</a></tt> (254; 36% instances), <tt><a href="ko_kaist-dep-flat.html">flat</a></tt> (182; 26% instances), <tt><a href="ko_kaist-dep-compound.html">compound</a></tt> (169; 24% instances), <tt><a href="ko_kaist-dep-conj.html">conj</a></tt> (35; 5% instances), <tt><a href="ko_kaist-dep-dislocated.html">dislocated</a></tt> (12; 2% instances), <tt><a href="ko_kaist-dep-dep.html">dep</a></tt> (11; 2% instances), <tt><a href="ko_kaist-dep-root.html">root</a></tt> (11; 2% instances), <tt><a href="ko_kaist-dep-nmod.html">nmod</a></tt> (8; 1% instances), <tt><a href="ko_kaist-dep-obj.html">obj</a></tt> (7; 1% instances), <tt><a href="ko_kaist-dep-advcl.html">advcl</a></tt> (5; 1% instances), <tt><a href="ko_kaist-dep-nsubj.html">nsubj</a></tt> (4; 1% instances), <tt><a href="ko_kaist-dep-csubj.html">csubj</a></tt> (1; 0% instances), <tt><a href="ko_kaist-dep-obl.html">obl</a></tt> (1; 0% instances)
+`X` nodes are attached to their parents using 13 different relations: <tt><a href="ko_kaist-dep-appos.html">appos</a></tt> (253; 36% instances), <tt><a href="ko_kaist-dep-flat.html">flat</a></tt> (182; 26% instances), <tt><a href="ko_kaist-dep-compound.html">compound</a></tt> (170; 24% instances), <tt><a href="ko_kaist-dep-conj.html">conj</a></tt> (32; 5% instances), <tt><a href="ko_kaist-dep-dislocated.html">dislocated</a></tt> (12; 2% instances), <tt><a href="ko_kaist-dep-dep.html">dep</a></tt> (11; 2% instances), <tt><a href="ko_kaist-dep-root.html">root</a></tt> (11; 2% instances), <tt><a href="ko_kaist-dep-nmod.html">nmod</a></tt> (10; 1% instances), <tt><a href="ko_kaist-dep-obj.html">obj</a></tt> (7; 1% instances), <tt><a href="ko_kaist-dep-advcl.html">advcl</a></tt> (5; 1% instances), <tt><a href="ko_kaist-dep-nsubj.html">nsubj</a></tt> (4; 1% instances), <tt><a href="ko_kaist-dep-csubj.html">csubj</a></tt> (1; 0% instances), <tt><a href="ko_kaist-dep-obl.html">obl</a></tt> (1; 0% instances)
 
-Parents of `X` nodes belong to 13 different parts of speech: <tt><a href="ko_kaist-pos-NOUN.html">NOUN</a></tt> (297; 42% instances), <tt><a href="ko_kaist-pos-X.html">X</a></tt> (197; 28% instances), <tt><a href="ko_kaist-pos-PROPN.html">PROPN</a></tt> (79; 11% instances), <tt><a href="ko_kaist-pos-ADV.html">ADV</a></tt> (40; 6% instances), <tt><a href="ko_kaist-pos-VERB.html">VERB</a></tt> (31; 4% instances), <tt><a href="ko_kaist-pos-CCONJ.html">CCONJ</a></tt> (16; 2% instances), <tt><a href="ko_kaist-pos-PUNCT.html">PUNCT</a></tt> (16; 2% instances),  (11; 2% instances), <tt><a href="ko_kaist-pos-NUM.html">NUM</a></tt> (7; 1% instances), <tt><a href="ko_kaist-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="ko_kaist-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="ko_kaist-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ko_kaist-pos-PRON.html">PRON</a></tt> (1; 0% instances)
+Parents of `X` nodes belong to 12 different parts of speech: <tt><a href="ko_kaist-pos-NOUN.html">NOUN</a></tt> (311; 44% instances), <tt><a href="ko_kaist-pos-X.html">X</a></tt> (197; 28% instances), <tt><a href="ko_kaist-pos-PROPN.html">PROPN</a></tt> (79; 11% instances), <tt><a href="ko_kaist-pos-ADV.html">ADV</a></tt> (40; 6% instances), <tt><a href="ko_kaist-pos-VERB.html">VERB</a></tt> (31; 4% instances), <tt><a href="ko_kaist-pos-CCONJ.html">CCONJ</a></tt> (16; 2% instances),  (11; 2% instances), <tt><a href="ko_kaist-pos-NUM.html">NUM</a></tt> (8; 1% instances), <tt><a href="ko_kaist-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="ko_kaist-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="ko_kaist-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ko_kaist-pos-PRON.html">PRON</a></tt> (1; 0% instances)
 
-337 (48%) `X` nodes are leaves.
+334 (48%) `X` nodes are leaves.
 
-49 (7%) `X` nodes have one child.
+48 (7%) `X` nodes have one child.
 
-160 (23%) `X` nodes have two children.
+169 (24%) `X` nodes have two children.
 
-154 (22%) `X` nodes have three or more children.
+148 (21%) `X` nodes have three or more children.
 
-The highest child degree of a `X` node is 12.
+The highest child degree of a `X` node is 10.
 
-Children of `X` nodes are attached using 17 different relations: <tt><a href="ko_kaist-dep-punct.html">punct</a></tt> (587; 63% instances), <tt><a href="ko_kaist-dep-flat.html">flat</a></tt> (197; 21% instances), <tt><a href="ko_kaist-dep-case.html">case</a></tt> (28; 3% instances), <tt><a href="ko_kaist-dep-dep.html">dep</a></tt> (26; 3% instances), <tt><a href="ko_kaist-dep-appos.html">appos</a></tt> (25; 3% instances), <tt><a href="ko_kaist-dep-conj.html">conj</a></tt> (20; 2% instances), <tt><a href="ko_kaist-dep-nummod.html">nummod</a></tt> (13; 1% instances), <tt><a href="ko_kaist-dep-acl.html">acl</a></tt> (7; 1% instances), <tt><a href="ko_kaist-dep-nmod.html">nmod</a></tt> (7; 1% instances), <tt><a href="ko_kaist-dep-cop.html">cop</a></tt> (5; 1% instances), <tt><a href="ko_kaist-dep-dislocated.html">dislocated</a></tt> (5; 1% instances), <tt><a href="ko_kaist-dep-cc.html">cc</a></tt> (3; 0% instances), <tt><a href="ko_kaist-dep-advmod.html">advmod</a></tt> (2; 0% instances), <tt><a href="ko_kaist-dep-ccomp.html">ccomp</a></tt> (2; 0% instances), <tt><a href="ko_kaist-dep-nsubj.html">nsubj</a></tt> (2; 0% instances), <tt><a href="ko_kaist-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="ko_kaist-dep-aux.html">aux</a></tt> (1; 0% instances)
+Children of `X` nodes are attached using 19 different relations: <tt><a href="ko_kaist-dep-punct.html">punct</a></tt> (564; 62% instances), <tt><a href="ko_kaist-dep-flat.html">flat</a></tt> (197; 22% instances), <tt><a href="ko_kaist-dep-case.html">case</a></tt> (28; 3% instances), <tt><a href="ko_kaist-dep-appos.html">appos</a></tt> (26; 3% instances), <tt><a href="ko_kaist-dep-dep.html">dep</a></tt> (26; 3% instances), <tt><a href="ko_kaist-dep-conj.html">conj</a></tt> (22; 2% instances), <tt><a href="ko_kaist-dep-nummod.html">nummod</a></tt> (13; 1% instances), <tt><a href="ko_kaist-dep-acl.html">acl</a></tt> (7; 1% instances), <tt><a href="ko_kaist-dep-nmod.html">nmod</a></tt> (7; 1% instances), <tt><a href="ko_kaist-dep-cop.html">cop</a></tt> (5; 1% instances), <tt><a href="ko_kaist-dep-dislocated.html">dislocated</a></tt> (5; 1% instances), <tt><a href="ko_kaist-dep-cc.html">cc</a></tt> (3; 0% instances), <tt><a href="ko_kaist-dep-ccomp.html">ccomp</a></tt> (2; 0% instances), <tt><a href="ko_kaist-dep-nsubj.html">nsubj</a></tt> (2; 0% instances), <tt><a href="ko_kaist-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="ko_kaist-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="ko_kaist-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="ko_kaist-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="ko_kaist-dep-obl.html">obl</a></tt> (1; 0% instances)
 
-Children of `X` nodes belong to 12 different parts of speech: <tt><a href="ko_kaist-pos-PUNCT.html">PUNCT</a></tt> (587; 63% instances), <tt><a href="ko_kaist-pos-X.html">X</a></tt> (197; 21% instances), <tt><a href="ko_kaist-pos-NOUN.html">NOUN</a></tt> (65; 7% instances), <tt><a href="ko_kaist-pos-ADP.html">ADP</a></tt> (32; 3% instances), <tt><a href="ko_kaist-pos-VERB.html">VERB</a></tt> (16; 2% instances), <tt><a href="ko_kaist-pos-NUM.html">NUM</a></tt> (13; 1% instances), <tt><a href="ko_kaist-pos-CCONJ.html">CCONJ</a></tt> (6; 1% instances), <tt><a href="ko_kaist-pos-PROPN.html">PROPN</a></tt> (6; 1% instances), <tt><a href="ko_kaist-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="ko_kaist-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="ko_kaist-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ko_kaist-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Children of `X` nodes belong to 13 different parts of speech: <tt><a href="ko_kaist-pos-PUNCT.html">PUNCT</a></tt> (564; 62% instances), <tt><a href="ko_kaist-pos-X.html">X</a></tt> (197; 22% instances), <tt><a href="ko_kaist-pos-NOUN.html">NOUN</a></tt> (67; 7% instances), <tt><a href="ko_kaist-pos-ADP.html">ADP</a></tt> (27; 3% instances), <tt><a href="ko_kaist-pos-VERB.html">VERB</a></tt> (16; 2% instances), <tt><a href="ko_kaist-pos-NUM.html">NUM</a></tt> (14; 2% instances), <tt><a href="ko_kaist-pos-PROPN.html">PROPN</a></tt> (7; 1% instances), <tt><a href="ko_kaist-pos-CCONJ.html">CCONJ</a></tt> (6; 1% instances), <tt><a href="ko_kaist-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="ko_kaist-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="ko_kaist-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="ko_kaist-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ko_kaist-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 

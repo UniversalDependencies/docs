@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.3 release.
 The following people have contributed to making this treebank part of UD: Riyaz Ahmad Bhat, Irshad Ahmad Bhat.
 
 Repository: [UD_Hindi_English-HIENCS](https://github.com/UniversalDependencies/UD_Hindi_English-HIENCS)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udqhe_hiencs210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udqhe_hiencs211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-SA 4.0. The underlying text is not included; the user must obtain it separately and then merge with the UD annotation using a script distributed with UD
 

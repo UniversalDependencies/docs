@@ -26,7 +26,7 @@ The following 3 pairs of parts of speech are connected with `obl:own`: <tt><a hr
 2	бос	бос	ADJ	adj	_	3	amod	_	_
 3	бөлмелер	бөлме	NOUN	n	Case=Nom|Number=Plur	4	nsubj	_	_
 4	бар	бар	ADJ	adj	_	0	root	_	_
-5	ма	ма	PART	qst	_	4	discourse	_	_
+5	ма	ма	PART	qst	_	4	discourse	_	SpaceAfter=No
 6	?	?	PUNCT	sent	_	4	punct	_	_
 
 ~~~

@@ -25,14 +25,14 @@ The following 12 pairs of parts of speech are connected with `mark`: <tt><a href
 1	how	how	ADV	_	PronType=Int,Rel	2	advmod	_	_
 2	long	long	ADJ	_	Degree=Pos	5	advmod	_	_
 3	does	do	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
-4	it	it	PRON	_	PronType=Prs	5	nsubj	_	_
+4	it	it	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 5	take	take	VERB	_	VerbForm=Inf	0	root	_	_
 6	to	to	PART	_	_	7	mark	_	_
 7	fly	fly	VERB	_	VerbForm=Inf	5	obl	_	_
 8	from	from	ADP	_	_	9	case	_	_
-9	boston	boston	PROPN	_	Number=Sing	7	nmod	_	_
+9	boston	Boston	PROPN	_	Number=Sing	7	nmod	_	_
 10	to	to	ADP	_	_	11	case	_	_
-11	atlanta	atlanta	PROPN	_	Number=Sing	7	nmod	_	_
+11	atlanta	Atlanta	PROPN	_	Number=Sing	7	nmod	_	_
 
 ~~~
 
@@ -51,10 +51,10 @@ The following 12 pairs of parts of speech are connected with `mark`: <tt><a href
 6	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	there	there	PRON	_	PronType=Dem	6	expl	_	_
 8	once	once	ADP	_	_	10	mark	_	_
-9	i	i	PRON	_	PronType=Prs	10	nsubj	_	_
+9	i	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
 10	get	get	VERB	_	VerbForm=Inf	6	advcl	_	_
 11	to	to	ADP	_	_	12	case	_	_
-12	dallas	dallas	PROPN	_	Number=Sing	10	obl	_	_
+12	dallas	Dallas	PROPN	_	Number=Sing	10	obl	_	_
 
 ~~~
 
@@ -71,7 +71,7 @@ The following 12 pairs of parts of speech are connected with `mark`: <tt><a href
 4	airlines	airline	NOUN	_	Number=Plur	1	obj	_	_
 5	that	that	ADP	_	_	6	mark	_	_
 6	service	service	NOUN	_	Number=Sing	4	acl:relcl	_	_
-7	denver	denver	PROPN	_	Number=Sing	6	obj	_	_
+7	denver	Denver	PROPN	_	Number=Sing	6	obj	_	_
 
 ~~~
 

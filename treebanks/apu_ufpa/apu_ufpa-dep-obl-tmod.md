@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="apu_ufpa-dep-obl.html">obl</a></tt>.
 There are also 1 other language-specific subtypes of `obl`: <tt><a href="apu_ufpa-dep-obl-lmod.html">obl:lmod</a></tt>.
 
-5 nodes (1%) are attached to their parents as `obl:tmod`.
+8 nodes (1%) are attached to their parents as `obl:tmod`.
 
-3 instances of `obl:tmod` (60%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.8.
+6 instances of `obl:tmod` (75%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.625.
 
-The following 1 pairs of parts of speech are connected with `obl:tmod`: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (5; 100% instances).
+The following 1 pairs of parts of speech are connected with `obl:tmod`: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (8; 100% instances).
 
 
 ~~~ conllu

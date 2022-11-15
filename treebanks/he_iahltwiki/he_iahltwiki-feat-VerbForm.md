@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Inf`, `Part`.
 
-4247 tokens (3%) have a non-empty value of `VerbForm`.
+4289 tokens (3%) have a non-empty value of `VerbForm`.
 1677 types (12%) occur at least once with a non-empty value of `VerbForm`.
 939 lemmas (10%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> (4094; 3% instances), <tt><a href="he_iahltwiki-pos-AUX.html">AUX</a></tt> (153; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> (4136; 3% instances), <tt><a href="he_iahltwiki-pos-AUX.html">AUX</a></tt> (153; 0% instances).
 
 ### `VERB`
 
-4094 <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> tokens (38% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+4136 <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> tokens (39% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="he_iahltwiki-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2958; 72%), <tt><a href="he_iahltwiki-feat-Person.html">Person</a></tt><tt>=3</tt> (2524; 62%), <tt><a href="he_iahltwiki-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2505; 61%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="he_iahltwiki-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2958; 72%), <tt><a href="he_iahltwiki-feat-Person.html">Person</a></tt><tt>=3</tt> (2568; 62%), <tt><a href="he_iahltwiki-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2552; 62%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Inf` (1529; 37% of non-empty `VerbForm`): לקבל, לגרום, למנוע, לבצע, ליצור, להופיע, לתת, למצוא, לאפשר, לדון
-* `Part` (2565; 63% of non-empty `VerbForm`): ניתן, כולל, מדובר, מהווה, מכונה, נמצא, נראה, עולה, גורם, נמצאים
-* `EMPTY` (6556): יש, כתב, ניתן, אין, הלחין, יצא, זכה, החל, היו, החלו
+* `Part` (2607; 63% of non-empty `VerbForm`): ניתן, כולל, מדובר, מהווה, מכונה, נמצא, נראה, עולה, גורם, נמצאים
+* `EMPTY` (6514): יש, כתב, אין, הלחין, יצא, זכה, החל, היו, החלו, כלל
 
 <table>
   <tr><th>Paradigm <i>כלל</i></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>
@@ -42,7 +42,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 153 <tt><a href="he_iahltwiki-pos-AUX.html">AUX</a></tt> tokens (16% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="he_iahltwiki-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (146; 95%), <tt><a href="he_iahltwiki-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (136; 89%), <tt><a href="he_iahltwiki-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (127; 83%), <tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt><tt>=Sing</tt> (89; 58%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="he_iahltwiki-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (146; 95%), <tt><a href="he_iahltwiki-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (136; 89%), <tt><a href="he_iahltwiki-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (127; 83%), <tt><a href="he_iahltwiki-feat-HebBinyan.html">HebBinyan</a></tt><tt>=EMPTY</tt> (123; 80%), <tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt><tt>=Sing</tt> (89; 58%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
@@ -53,7 +53,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="he_iahltwiki-dep-conj.html">conj</a></tt>]--> VERB</tt> (349; 69%),
+<tt>VERB --[<tt><a href="he_iahltwiki-dep-conj.html">conj</a></tt>]--> VERB</tt> (349; 68%),
 <tt>VERB --[<tt><a href="he_iahltwiki-dep-dep.html">dep</a></tt>]--> VERB</tt> (3; 75%),
 <tt>VERB --[<tt><a href="he_iahltwiki-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (3; 60%).
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-37 nodes (6%) are attached to their parents as `advcl`.
+49 nodes (6%) are attached to their parents as `advcl`.
 
-33 instances of `advcl` (89%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.18918918918919.
+41 instances of `advcl` (84%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.38775510204082.
 
-The following 3 pairs of parts of speech are connected with `advcl`: <tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt>-<tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt> (34; 92% instances), <tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt>-<tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt> (2; 5% instances), <tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt> (1; 3% instances).
+The following 6 pairs of parts of speech are connected with `advcl`: <tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt>-<tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt> (41; 84% instances), <tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt>-<tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt> (3; 6% instances), <tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="xum_ikuvina-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="xum_ikuvina-pos-ADV.html">ADV</a></tt>-<tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt>-<tt><a href="xum_ikuvina-pos-ADV.html">ADV</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

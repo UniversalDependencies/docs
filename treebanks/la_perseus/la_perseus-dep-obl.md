@@ -8,57 +8,65 @@ udver: '2'
 
 This relation is universal.
 
-1159 nodes (4%) are attached to their parents as `obl`.
+2051 nodes (7%) are attached to their parents as `obl`.
 
-764 instances of `obl` (66%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.91285591026747.
+1316 instances of `obl` (64%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.8366650414432.
 
-The following 19 pairs of parts of speech are connected with `obl`: <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (903; 78% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (135; 12% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (56; 5% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (22; 2% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (19; 2% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt>-<tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt>-<tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt>-<tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="la_perseus-pos-NUM.html">NUM</a></tt>-<tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="la_perseus-pos-X.html">X</a></tt>-<tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 25 pairs of parts of speech are connected with `obl`: <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (1608; 78% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (208; 10% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (74; 4% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (56; 3% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (38; 2% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (17; 1% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt>-<tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (12; 1% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (8; 0% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt>-<tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_perseus-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt>-<tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt>-<tt><a href="la_perseus-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="la_perseus-pos-NUM.html">NUM</a></tt>-<tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="la_perseus-pos-X.html">X</a></tt>-<tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="la_perseus-pos-X.html">X</a></tt>-<tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 2 obl	color:blue
-1	In	in	ADP	r--------	_	2	case	_	LId=in1
-2	regna	regnum	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	5	obl	_	LId=regnum1
-3	Lavini	Lavinium	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	LId=Lavinium1
-4	Dardanidae	Dardanides	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	LId=Dardanides1
-5	venient	venio	VERB	v3pfia---	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|LId=venio1
-6	;	;	PUNCT	u--------	_	5	punct	_	LId=punc1
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 obl	color:blue
-1	per	per	ADP	r--------	_	2	case	_	LId=per1
-2	me	ego	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing	3	obl	_	LId=ego1
-3	concordant	concordo	VERB	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=concordo1
-4	carmina	carmen	NOUN	n-p---nn-	Case=Nom|Gender=Neut|Number=Plur	3	nsubj	_	LId=carmen1
-5	nervis	nervus	NOUN	n-p---md-	Case=Dat|Gender=Masc|Number=Plur	3	obj	_	SpaceAfter=No|LId=nervus1
-6	.	.	PUNCT	u--------	_	3	punct	_	LId=punc1
-
-~~~
-
-
-~~~ conllu
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
+# visual-style 4 5 obl	color:blue
+1	Te	tu	PRON	p-s---fa-	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	LId=tu1
+2	quoque	quoque	ADV	d--------	_	1	advmod	_	LId=quoque1
+3	magna	magnus	ADJ	a-p---nn-	Case=Nom|Gender=Neut|Number=Plur	6	amod	_	LId=magnus1
+4	manent	maneo	VERB	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=maneo1
+5	regnis	regnum	NOUN	n-p---nb-	Case=Abl|Gender=Neut|Number=Plur	4	obl	_	LId=regnum1
+6	penetralia	penetralis	ADJ	a-p---nn-	Case=Nom|Gender=Neut|Number=Plur	4	nsubj	_	LId=penetralis1
+7	nostris	noster	PRON	p-p---nb-	Case=Abl|Gender=Neut|Number=Plur	5	nmod	_	SpaceAfter=No
+8	:	:	PUNCT	u--------	_	4	punct	_	LId=punc1
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 5 obl	color:blue
+1	omnia	omnis	ADJ	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	2	obj	_	LId=omnis1
+2	praecepi	praecipio	VERB	v1sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LId=praecipio1
+3	atque	atque	CCONJ	c--------	_	2	cc	_	LId=atque1
+4	animo	animus	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	7	obl	_	LId=animus1
+5	mecum	ego	PRON	p-s---mb-	Case=Abl|Gender=Masc|Number=Sing	7	obl	_	LId=ego1
+6	ante	ante	ADV	d--------	_	7	advmod	_	LId=ante1
+7	peregi	perago	VERB	v1sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	SpaceAfter=No|LId=perago1
+8	.	.	PUNCT	u--------	_	2	punct	_	LId=punc1
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 4 obl	color:blue
-1	Tamen	tamen	ADV	d--------	_	2	advmod	_	LId=tamen1
-2	abiit	abeo	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LId=abeo1
-3	ad	ad	ADP	r--------	_	4	case	_	LId=ad1
-4	plures	multus	ADJ	a-p---ma-	Case=Acc|Gender=Masc|Number=Plur	2	obl	_	SpaceAfter=No|LId=multus1
-5	.	.	PUNCT	u--------	_	2	punct	_	LId=punc1
+# visual-style 2 3 obl	color:blue
+1	Nocte	nox	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	5	obl	_	LId=nox1
+2	gravem	gravis	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	7	amod	_	LId=gravis1
+3	somno	somnus	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	2	obl	_	LId=somnus1
+4	necopina	necopinus	ADJ	a-s---fb-	Case=Abl|Gender=Fem|Number=Sing	6	amod	_	LId=necopinus1
+5	perdere	perdo	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	8	xcomp	_	LId=perdo1
+6	morte	mors	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	5	obl	_	LId=mors1
+7	me	ego	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	LId=ego1
+8	parat	paro	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|LId=paro1
+9	:	:	PUNCT	u--------	_	8	punct	_	LId=punc1
 
 ~~~
 

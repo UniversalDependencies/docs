@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-41114 nodes (27%) are attached to their parents as `case`.
+41109 nodes (27%) are attached to their parents as `case`.
 
-41111 instances of `case` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.16456681422387.
+41106 instances of `case` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.16417329538544.
 
-The following 11 pairs of parts of speech are connected with `case`: <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> (31522; 77% instances), <tt><a href="ja_gsdluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> (4230; 10% instances), <tt><a href="ja_gsdluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> (2025; 5% instances), <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> (1509; 4% instances), <tt><a href="ja_gsdluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> (1072; 3% instances), <tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> (465; 1% instances), <tt><a href="ja_gsdluw-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> (274; 1% instances), <tt><a href="ja_gsdluw-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> (8; 0% instances), <tt><a href="ja_gsdluw-pos-SYM.html">SYM</a></tt>-<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="ja_gsdluw-pos-DET.html">DET</a></tt>-<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="ja_gsdluw-pos-X.html">X</a></tt>-<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> (2; 0% instances).
+The following 11 pairs of parts of speech are connected with `case`: <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> (31522; 77% instances), <tt><a href="ja_gsdluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> (4230; 10% instances), <tt><a href="ja_gsdluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> (2025; 5% instances), <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> (1505; 4% instances), <tt><a href="ja_gsdluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> (1072; 3% instances), <tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> (464; 1% instances), <tt><a href="ja_gsdluw-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> (274; 1% instances), <tt><a href="ja_gsdluw-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> (8; 0% instances), <tt><a href="ja_gsdluw-pos-SYM.html">SYM</a></tt>-<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="ja_gsdluw-pos-DET.html">DET</a></tt>-<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="ja_gsdluw-pos-X.html">X</a></tt>-<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -26,10 +26,10 @@ The following 11 pairs of parts of speech are connected with `case`: <tt><a href
 2	、	、	PUNCT	補助記号-読点	_	1	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=No|UnidicInfo=,、,、,、,,,,,,、
 3	50周年ソング	50周年ソング	NOUN	名詞-普通名詞-一般	_	5	obl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=;;,五十;周年;ソング,50;周年;ソング,50;周年;ソング,ゴジッ;シューネン;ソング,;;,;;,ゴジュウ;シュウネン;ソング,ゴジッシュウネンソング,50周年ソング
 4	に	に	ADP	助詞-格助詞	_	3	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,に,に,に,ニ,,,ニ,ニ,に
-5	変更後	変更後	NOUN	名詞-普通名詞-一般	_	14	dislocated	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=;,変更;後,変更;後,変更;後,ヘンコー;ゴ,;,;,ヘンコウ;ゴ,ヘンコウゴ,変更後
+5	変更後	変更後	NOUN	名詞-普通名詞-一般	_	14	nsubj:outer	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=;,変更;後,変更;後,変更;後,ヘンコー;ゴ,;,;,ヘンコウ;ゴ,ヘンコウゴ,変更後
 6	は	は	ADP	助詞-係助詞	_	5	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,は,は,は,ワ,,,ハ,ハ,は
 7	、	、	PUNCT	補助記号-読点	_	5	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=No|UnidicInfo=,、,、,、,,,,,,、
-8	ED	ED	NOUN	名詞-普通名詞-一般	_	14	nsubj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=,ＥＤ,ED,ED,イーディー,,,イーディー,イーディー,ED
+8	ED	ED	NOUN	名詞-普通名詞-一般	_	14	nsubj:outer	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=,ＥＤ,ED,ED,イーディー,,,イーディー,イーディー,ED
 9	も	も	ADP	助詞-係助詞	_	8	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,も,も,も,モ,,,モ,モ,も
 10	歌つき	歌付き	NOUN	名詞-普通名詞-一般	_	12	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=;,歌;付き,歌;つき,歌;つき,ウタ;ツキ,;,;,ウタ;ツキ,ウタツキ,歌付き
 11	の	の	ADP	助詞-格助詞	_	10	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,の,の,の,ノ,,,ノ,ノ,の

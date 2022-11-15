@@ -47,7 +47,7 @@ The 10 most frequent ambiguous types:  <em>iki</em> (<tt><a href="tr_gb-pos-NUM.
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.654545 (the average of all parts of speech is 2.331716).
+The form / lemma ratio of `NUM` is 1.654545 (the average of all parts of speech is 2.332745).
 
 The 1st highest number of forms (7) was observed with the lemma “iki”: <em>iki, ikide, ikiden, ikinci, ikiye, ikişer, İki</em>.
 

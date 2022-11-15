@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>/</em> (<tt><a href="en_gum-pos-SYM.h
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.031250 (the average of all parts of speech is 1.225742).
+The form / lemma ratio of `SYM` is 1.031250 (the average of all parts of speech is 1.226279).
 
 The 1st highest number of forms (2) was observed with the lemma “-”: <em>-, –</em>.
 
@@ -62,12 +62,12 @@ The 2nd highest number of forms (1) was observed with the lemma “#”: <em>#</
 
 The 3rd highest number of forms (1) was observed with the lemma “$”: <em>$</em>.
 
-`SYM` occurs with 1 features: <tt><a href="en_gum-feat-Number.html">Number</a></tt> (15; 6% instances)
+`SYM` occurs with 2 features: <tt><a href="en_gum-feat-Number.html">Number</a></tt> (15; 6% instances), <tt><a href="en_gum-feat-Foreign.html">Foreign</a></tt> (2; 1% instances)
 
-`SYM` occurs with 1 feature-value pairs: `Number=Sing`
+`SYM` occurs with 2 feature-value pairs: `Foreign=Yes`, `Number=Sing`
 
-`SYM` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (237 tokens).
+`SYM` occurs with 3 feature combinations.
+The most frequent feature combination is `_` (235 tokens).
 Examples: <em>/, –, -, $, +, =, DKK, €, £, #</em>
 
 

@@ -78,21 +78,21 @@ Examples: て, の, が, と, で, ば, に, ながら, から, ため
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 5 different relations: <tt><a href="ja_gsd-dep-mark.html">mark</a></tt> (6601; 83% instances), <tt><a href="ja_gsd-dep-fixed.html">fixed</a></tt> (1363; 17% instances), <tt><a href="ja_gsd-dep-obl.html">obl</a></tt> (13; 0% instances), <tt><a href="ja_gsd-dep-nmod.html">nmod</a></tt> (10; 0% instances), <tt><a href="ja_gsd-dep-dep.html">dep</a></tt> (8; 0% instances)
+`SCONJ` nodes are attached to their parents using 5 different relations: <tt><a href="ja_gsd-dep-mark.html">mark</a></tt> (6601; 83% instances), <tt><a href="ja_gsd-dep-fixed.html">fixed</a></tt> (1369; 17% instances), <tt><a href="ja_gsd-dep-obl.html">obl</a></tt> (13; 0% instances), <tt><a href="ja_gsd-dep-nmod.html">nmod</a></tt> (10; 0% instances), <tt><a href="ja_gsd-dep-dep.html">dep</a></tt> (2; 0% instances)
 
-Parents of `SCONJ` nodes belong to 12 different parts of speech: <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (5809; 73% instances), <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (1117; 14% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (448; 6% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (311; 4% instances), <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> (183; 2% instances), <tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> (47; 1% instances), <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> (44; 1% instances), <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (12; 0% instances), <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt> (10; 0% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt> (9; 0% instances), <tt><a href="ja_gsd-pos-SYM.html">SYM</a></tt> (4; 0% instances), <tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 12 different parts of speech: <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (5799; 73% instances), <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (1121; 14% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (449; 6% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (309; 4% instances), <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> (187; 2% instances), <tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> (47; 1% instances), <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> (44; 1% instances), <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (14; 0% instances), <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt> (11; 0% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt> (9; 0% instances), <tt><a href="ja_gsd-pos-SYM.html">SYM</a></tt> (4; 0% instances), <tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 
-4476 (56%) `SCONJ` nodes are leaves.
+4440 (56%) `SCONJ` nodes are leaves.
 
-3420 (43%) `SCONJ` nodes have one child.
+3458 (43%) `SCONJ` nodes have one child.
 
-60 (1%) `SCONJ` nodes have two children.
+58 (1%) `SCONJ` nodes have two children.
 
 39 (0%) `SCONJ` nodes have three or more children.
 
 The highest child degree of a `SCONJ` node is 4.
 
-Children of `SCONJ` nodes are attached using 7 different relations: <tt><a href="ja_gsd-dep-fixed.html">fixed</a></tt> (3623; 99% instances), <tt><a href="ja_gsd-dep-advcl.html">advcl</a></tt> (19; 1% instances), <tt><a href="ja_gsd-dep-punct.html">punct</a></tt> (9; 0% instances), <tt><a href="ja_gsd-dep-obl.html">obl</a></tt> (3; 0% instances), <tt><a href="ja_gsd-dep-acl.html">acl</a></tt> (2; 0% instances), <tt><a href="ja_gsd-dep-nmod.html">nmod</a></tt> (2; 0% instances), <tt><a href="ja_gsd-dep-advmod.html">advmod</a></tt> (1; 0% instances)
+Children of `SCONJ` nodes are attached using 5 different relations: <tt><a href="ja_gsd-dep-fixed.html">fixed</a></tt> (3663; 99% instances), <tt><a href="ja_gsd-dep-advcl.html">advcl</a></tt> (18; 0% instances), <tt><a href="ja_gsd-dep-punct.html">punct</a></tt> (8; 0% instances), <tt><a href="ja_gsd-dep-acl.html">acl</a></tt> (2; 0% instances), <tt><a href="ja_gsd-dep-nmod.html">nmod</a></tt> (2; 0% instances)
 
-Children of `SCONJ` nodes belong to 8 different parts of speech: <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (2848; 78% instances), <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (582; 16% instances), <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> (183; 5% instances), <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (29; 1% instances), <tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt> (9; 0% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances)
+Children of `SCONJ` nodes belong to 7 different parts of speech: <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (2883; 78% instances), <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (582; 16% instances), <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> (187; 5% instances), <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (29; 1% instances), <tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt> (8; 0% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (2; 0% instances)
 

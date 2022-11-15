@@ -13,4 +13,4 @@ The ventive is an _-a_ or _-(an)ni(m)_ morpheme that is typically attached to ve
 
 * _<b>illak</b>_ “he goes”
 * _<b>illaka</b>_ “he comes” (with the ventive)
-<!-- Interlanguage links updated So kvě 14 19:02:43 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:00 CET 2022 -->

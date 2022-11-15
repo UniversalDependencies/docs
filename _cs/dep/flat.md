@@ -25,4 +25,4 @@ nmod(Václav-11, President)
 amod(Krumlov-7, Český-6)
 amod(Krumlov-16, Český-15)
 ~~~
-<!-- Interlanguage links updated So kvě 14 19:03:36 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:26 CET 2022 -->

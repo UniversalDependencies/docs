@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-155 nodes (0%) are attached to their parents as `iobj`.
+157 nodes (0%) are attached to their parents as `iobj`.
 
-144 instances of `iobj` (93%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.63225806451613.
+153 instances of `iobj` (97%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.38216560509554.
 
-The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> (104; 67% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt> (42; 27% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-PROPN.html">PROPN</a></tt> (5; 3% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt> (3; 2% instances), <tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="da_ddt-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> (106; 68% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt> (42; 27% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-PROPN.html">PROPN</a></tt> (5; 3% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt> (3; 2% instances), <tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="da_ddt-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -46,7 +46,7 @@ The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href=
 3	"	"	PUNCT	_	_	4	punct	_	SpaceAfter=No
 4	DUPLO	Duplo	PROPN	_	_	1	obj	_	_
 5	legetøj	legetøj	NOUN	_	Definite=Ind|Gender=Neut|Number=Sing	4	flat	_	SpaceAfter=No
-6	"	"	PUNCT	_	_	1	punct	_	_
+6	"	"	PUNCT	_	_	4	punct	_	_
 
 ~~~
 

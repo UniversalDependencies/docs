@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 9 different values: `Art`, `Dem`, `Ind`, `Int`, `Neg`, `Prs`, `Rcp`, `Rel`, `Tot`.
 
-7658 tokens (18%) have a non-empty value of `PronType`.
-452 types (3%) occur at least once with a non-empty value of `PronType`.
-203 lemmas (2%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="hu_szeged-pos-DET.html">DET</a></tt> (5275; 13% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (1378; 3% instances), <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (1005; 2% instances).
+7656 tokens (18%) have a non-empty value of `PronType`.
+453 types (3%) occur at least once with a non-empty value of `PronType`.
+204 lemmas (2%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 3 part-of-speech tags: <tt><a href="hu_szeged-pos-DET.html">DET</a></tt> (5275; 13% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (1378; 3% instances), <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (1003; 2% instances).
 
 ### `DET`
 
@@ -82,17 +82,17 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 ### `ADV`
 
-1005 <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> tokens (32% of all `ADV` tokens) have a non-empty value of `PronType`.
+1003 <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> tokens (32% of all `ADV` tokens) have a non-empty value of `PronType`.
 
 `ADV` tokens may have the following values of `PronType`:
 
 * `Dem` (309; 31% of non-empty `PronType`): <em>úgy, akkor, így, ezért, ott, ugyanakkor, azért, eddig, itt, azóta</em>
 * `Ind` (15; 1% of non-empty `PronType`): <em>egyrészt, másrészt, olykor, Valamikor, máskor, némileg, valahol, Sokáig</em>
 * `Int` (60; 6% of non-empty `PronType`): <em>-e, hogyan, miért, mikor, miként, vajon, hová, meddig, Hol, mennyire</em>
-* `Neg` (443; 44% of non-empty `PronType`): <em>nem, sem, name, soha, se, sehova, semmiképpen</em>
+* `Neg` (441; 44% of non-empty `PronType`): <em>nem, sem, name, soha, se, sehova, semmiképpen</em>
 * `Rel` (140; 14% of non-empty `PronType`): <em>amikor, ahol, míg, mint, miközben, ahogy, ahogyan, amint, amíg, mire</em>
 * `Tot` (38; 4% of non-empty `PronType`): <em>mindig, soha, mindenképpen, mind, mindenhol, mindenáron, mindenütt, bármikor</em>
-* `EMPTY` (2110): <em>már, még, csak, ki, el, is, fel, például, ma, be</em>
+* `EMPTY` (2108): <em>már, még, csak, ki, el, is, fel, például, ma, be</em>
 
 <table>
   <tr><th>Paradigm <i>soha</i></th><th><tt>Tot</tt></th><th><tt>Neg</tt></th></tr>

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-8 nodes (0%) are attached to their parents as `dislocated`.
+10 nodes (0%) are attached to their parents as `dislocated`.
 
-4 instances of `dislocated` (50%) are left-to-right (parent precedes child).
-Average distance between parent and child is 15.25.
+6 instances of `dislocated` (60%) are right-to-left (child precedes parent).
+Average distance between parent and child is 14.5.
 
-The following 5 pairs of parts of speech are connected with `dislocated`: <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (4; 50% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (1; 13% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (1; 13% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (1; 13% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt> (1; 13% instances).
+The following 6 pairs of parts of speech are connected with `dislocated`: <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (4; 40% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt> (2; 20% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (1; 10% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (1; 10% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (1; 10% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt> (1; 10% instances).
 
 
 ~~~ conllu
@@ -27,6 +27,35 @@ The following 5 pairs of parts of speech are connected with `dislocated`: <tt><a
 3	,	,	PUNCT	Z	_	4	punct	_	NER=O
 4	kri	kri	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	2	dislocated	_	NER=O|SpaceAfter=No
 5	.	.	PUNCT	Z	_	2	punct	_	NER=O
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 14 2 dislocated	color:blue
+1	Kdor	kdor	PRON	Pr-msn	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	2	nsubj	_	NER=O
+2	veruje	verovati	VERB	Vmbr3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	dislocated	_	NER=O
+3	vame	vame	PRON	Pp1-sa--b	Case=Acc|Number=Sing|Person=1|PronType=Prs|Variant=Bound	2	obl	_	NER=O|SpaceAfter=No
+4	,	,	PUNCT	Z	_	2	punct	_	NER=O
+5	bodo	biti	AUX	Va-f3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	14	aux	_	NER=O|SpaceAfter=No
+6	,	,	PUNCT	Z	_	8	punct	_	NER=O
+7	kakor	kakor	SCONJ	Cs	_	8	mark	_	NER=O
+8	pravi	praviti	VERB	Vmbr3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	advcl	_	NER=O
+9	Pismo	pismo	NOUN	Ncnsn	Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	NER=B-misc|SpaceAfter=No
+10	,	,	PUNCT	Z	_	8	punct	_	NER=O
+11	iz	iz	ADP	Sg	Case=Gen	13	case	_	NER=O
+12	njegovega	njegov	DET	Ps3nsgsm	Case=Gen|Gender=Neut|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	13	det	_	NER=O
+13	osrčja	osrčje	NOUN	Ncnsg	Case=Gen|Gender=Neut|Number=Sing	14	obl	_	NER=O
+14	tekle	teči	VERB	Vmpp-pf	Aspect=Imp|Gender=Fem|Number=Plur|VerbForm=Part	0	root	_	NER=O
+15	reke	reka	NOUN	Ncfpn	Case=Nom|Gender=Fem|Number=Plur	14	nsubj	_	NER=O
+16	žive	živ	ADJ	Agpfsg	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	NER=O
+17	vode	voda	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	NER=O|SpaceAfter=No
+18	.	.	PUNCT	Z	_	14	punct	_	NER=O
+19	«	«	PUNCT	Z	_	14	punct	_	NER=O
 
 ~~~
 
@@ -75,60 +104,6 @@ The following 5 pairs of parts of speech are connected with `dislocated`: <tt><a
 36	čisto	čisto	ADV	Rgp	Degree=Pos	37	advmod	_	NER=O
 37	drugačno	drugačen	ADJ	Agpnsn	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	28	conj	_	NER=O|SpaceAfter=No
 38	.	.	PUNCT	Z	_	28	punct	_	NER=O
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 41	bgColor:blue
-# visual-style 41	fgColor:white
-# visual-style 41 1 dislocated	color:blue
-1	Razpust	razpust	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	41	dislocated	_	NER=O
-2	-	-	PUNCT	Z	_	3	punct	_	NER=O
-3	popoln	popoln	ADJ	Agpmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	1	amod	_	NER=O|SpaceAfter=No
-4	,	,	PUNCT	Z	_	7	punct	_	NER=O
-5	le	le	PART	Q	_	7	cc	_	NER=O
-6	da	da	SCONJ	Cs	_	5	fixed	_	NER=O
-7	prikrit	prikrit	ADJ	Appmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part	3	conj	_	NER=O
-8	-	-	PUNCT	Z	_	3	punct	_	NER=O
-9	deželne	deželen	ADJ	Agpfsg	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	NER=O
-10	brambe	bramba	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	NER=O
-11	kot	kot	SCONJ	Cs	_	14	case	_	NER=O
-12	zadnjega	zadnji	ADJ	Agpmsg	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	NER=O
-13	demokratičnega	demokratičen	ADJ	Agpmsg	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	NER=O
-14	ostanka	ostanek	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	NER=O
-15	iz	iz	ADP	Sg	Case=Gen	16	case	_	NER=O
-16	časov	čas	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	14	nmod	_	NER=O
-17	pred	pred	ADP	Si	Case=Ins	18	case	_	NER=O
-18	letom	leto	NOUN	Ncnsi	Case=Ins|Gender=Neut|Number=Sing	16	nmod	_	NER=O
-19	1810	1810	NUM	Mdc	NumForm=Digit|NumType=Card	18	nummod	_	NER=O|SpaceAfter=No
-20	,	,	PUNCT	Z	_	21	punct	_	NER=O
-21	ustvaritev	ustvaritev	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	1	conj	_	NER=O
-22	ogromnega	ogromen	ADJ	Agpmsg	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	23	amod	_	NER=O
-23	aparata	aparat	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	21	nmod	_	NER=O
-24	moči	moč	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	23	nmod	_	NER=O|SpaceAfter=No
-25	,	,	PUNCT	Z	_	28	punct	_	NER=O
-26	ki	ki	SCONJ	Cs	_	28	mark	_	NER=O
-27	naj	naj	PART	Q	_	28	advmod	_	NER=O
-28	služi	služiti	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	acl	_	NER=O
-29	absolutizmu	absolutizem	NOUN	Ncmsd	Case=Dat|Gender=Masc|Number=Sing	28	obj	_	NER=O
-30	in	in	CCONJ	Cc	_	31	cc	_	NER=O
-31	junkerstvu	junkerstvo	NOUN	Ncnsd	Case=Dat|Gender=Neut|Number=Sing	29	conj	_	NER=O|SpaceAfter=No
-32	,	,	PUNCT	Z	_	28	punct	_	NER=O
-33	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	41	nsubj	_	NER=O
-34	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	41	cop	_	NER=O|SpaceAfter=No
-35	,	,	PUNCT	Z	_	38	punct	_	NER=O
-36	v	v	ADP	Sl	Case=Loc	38	case	_	NER=O
-37	dveh	dva	NUM	Mlcfdl	Case=Loc|Gender=Fem|Number=Dual|NumForm=Word|NumType=Card	38	nummod	_	NER=O
-38	besedah	beseda	NOUN	Ncfdl	Case=Loc|Gender=Fem|Number=Dual	41	obl	_	NER=O|SpaceAfter=No
-39	,	,	PUNCT	Z	_	38	punct	_	NER=O
-40	edini	edin	ADJ	Agpmsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	41	amod	_	NER=O
-41	cilj	cilj	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	0	root	_	NER=O
-42	te	ta	DET	Pd-fsg	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	43	det	_	NER=O
-43	reforme	reforma	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	41	nmod	_	NER=O|SpaceAfter=No
-44	.	.	PUNCT	Z	_	41	punct	_	NER=O
 
 ~~~
 

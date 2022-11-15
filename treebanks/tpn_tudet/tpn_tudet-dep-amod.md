@@ -25,21 +25,21 @@ The following 3 pairs of parts of speech are connected with `amod`: <tt><a href=
 1	Opa	opa	PRON	pro	_	3	nmod	_	_
 2	ko	ko	DET	dem	_	3	nmod	_	_
 3	mo	po	NOUN	n	_	6	nummod	_	_
-4	mosapɨr	mosapɨr	NUM	num	_	5	nummod	_	_
+4	mosapɨr	mosapɨr	NUM	num	NumType=Card	5	nummod	_	_
 5	mɨsã	pɨsã	NOUN	n	_	3	dep	_	_
 6	ʔara	ʔar	NOUN	n	Case=Ref	7	nmod	_	_
-7	sɨkeme	sɨk	NOUN	n	_	39	advcl	_	_
+7	sɨkeme	sɨk	NOUN	n	Mood=Sub	39	advcl	_	_
 8	,	,	PUNCT	punct	_	7	punct	_	_
 9	apɨaβamo	apɨaβ	NOUN	n	Case=Tra	14	obl	_	_
 10	osɨ	sɨ	NOUN	n	Reflex=Yes	11	nmod	_	_
 11	rɨge	rɨge	NOUN	n	Rel=Cont	14	nmod	_	_
 12	swi	swi	ADP	posp	_	11	case	_	_
 13	Tupã	Tupã	NOUN	n	_	14	nmod	_	_
-14	taʔɨra	aʔɨr	NOUN	n	Rel=NCont	15	nmod	_	_
+14	taʔɨra	aʔɨr	NOUN	n	Case=Ref|Rel=NCont	15	nmod	_	_
 15	ʔarʔire	ʔar	NOUN	n	_	39	advcl	_	_
 16	,	,	PUNCT	punct	_	15	punct	_	_
-17	mosapɨr	mosapɨr	NUM	num	_	18	nummod	_	_
-18	moruβiʃaβa	moruβiʃaβ	NOUN	n	Case=Ref	39	obl	_	_
+17	mosapɨr	mosapɨr	NUM	num	NumType=Card	18	nummod	_	_
+18	moruβisaβa	moruβisaβ	NOUN	n	Case=Ref	39	obl	_	_
 19	,	,	PUNCT	punct	_	18	punct	_	_
 20	Reis	rei	NOUN	n	_	18	appos	_	_
 21	ʔiaβa	ʔiaβa	ADV	adv	_	20	amod	_	_
@@ -55,21 +55,21 @@ The following 3 pairs of parts of speech are connected with `amod`: <tt><a href=
 31	rese	ese	ADP	posp	Rel=Cont	30	case	_	_
 32	,	,	PUNCT	punct	_	31	punct	_	_
 33	Tupã	Tupã	NOUN	n	_	34	nmod	_	_
-34	remimojanga	mojang	NOUN	n	Case=Ref|Nomzr=Pas|Rel=Cont	29	appos	_	_
+34	remimojaŋa	mojaŋ	NOUN	n	Case=Ref|Nomzr=Pas|Rel=Cont	29	appos	_	_
 35	pɨsasu	pɨsasu	NOUN	n	_	34	obl	_	_
 36	pe	pe	NOUN	n	_	37	nmod	_	_
 37	jaramo	jar	NOUN	n	Case=Tra	34	obl	_	_
-38	iʃupe	supe	ADP	posp	Rel=NCont	34	obl	_	_
-39	ogueru	ur	VERB	v	Person=3|Voice=Com	0	root	_	_
-40	jetanongaβamo	jetanong	NOUN	n	Case=Tra|Nomzr=Circ	39	obl	_	_
-41	itajuβa	itajuβa	NOUN	n	Case=Ref	39	obj	_	_
+38	isupe	supe	ADP	posp	Rel=NCont	34	obl	_	_
+39	ogueru	ur	VERB	v	Person=3|Voice=SCau	0	root	_	_
+40	jetanoŋaβamo	jetanoŋ	NOUN	n	Case=Tra|Nomzr=Circ	39	obl	_	_
+41	itajuβa	itajuβ	NOUN	n	Case=Ref	39	obj	_	_
 42	,	,	PUNCT	punct	_	41	punct	_	_
 43	ɨsɨkatã	ɨsɨkatã	NOUN	n	_	41	conj	_	_
 44	sɨapwanɨβaʔe	ɨapwan	NOUN	n	Nomzr=Rel|Rel=NCont	43	nmod	_	_
 45	,	,	PUNCT	punct	_	43	punct	_	_
 46	mirra	mirra	NOUN	n	_	43	conj	_	_
 47	,	,	PUNCT	punct	_	46	punct	_	_
-48	mosanga	posang	NOUN	n	Case=Ref|Rel=Hum	46	appos	_	_
+48	mosaŋa	posaŋ	NOUN	n	Case=Ref|Rel=Hum	46	appos	_	_
 49	toʔo	oʔo	NOUN	n	Rel=Hum	48	nmod	_	_
 50	swi	swi	ADP	posp	_	49	case	_	_
 
@@ -87,8 +87,8 @@ The following 3 pairs of parts of speech are connected with `amod`: <tt><a href=
 3	aβa	aβa	NOUN	n	_	1	nsubj	_	_
 4	tegwama	tegwam	NOUN	n	Case=Ref	5	nmod	_	_
 5	porarasara	_	NOUN	n	_	3	amod	_	_
-6	moroposanongara	poroposanong	NOUN	n	Poss=Hum	12	obj	_	_
-7	mosanga	posaŋ	NOUN	n	Case=Ref|Poss=Hum	10	nmod	_	_
+6	moroposanoŋara	poroposanoŋ	NOUN	n	Poss=Hum	12	obj	_	_
+7	mosaŋa	posaŋ	NOUN	n	Case=Ref|Rel=Hum	10	nmod	_	_
 8	tekoβe	teko	NOUN	n	Rel=Cont	9	nmod	_	_
 9	jara	jara	NOUN	n	_	7	nmod	_	_
 10	rerekoara	ereko	NOUN	n	Rel=Cont	6	nmod	_	_
@@ -107,7 +107,7 @@ The following 3 pairs of parts of speech are connected with `amod`: <tt><a href=
 1	Ojukaawera	juka	NOUN	n	Case=Ref|Reflex=Yes|Tense=Past	2	nmod	_	_
 2	repɨramo	epɨ	NOUN	n	Case=Tra|Rel=Cont	15	nmod	_	_
 3	amõ	amõ	PRON	pro	PronType=Ind	4	nmod	_	_
-4	apɨaβa	apɨaβa	NOUN	n	Case=Ref	15	nmod	_	_
+4	apɨaβa	apɨaβ	NOUN	n	Case=Ref	15	nmod	_	_
 5	toβajara	oβajar	NOUN	n	Case=Ref|Rel=Hum	4	conj	_	_
 6	marana	marana	NOUN	n	_	8	nmod	_	_
 7	ri	ri	ADP	posp	_	6	case	_	_
@@ -122,7 +122,7 @@ The following 3 pairs of parts of speech are connected with `amod`: <tt><a href=
 16	kwapa	kwaβ	VERB	v	VerbForm=Ger	19	advcl	_	_
 17	jẽ	jẽ	PART	pcl	_	19	discourse	_	_
 18	ajpo	ajpo	DET	dem	_	19	obj	_	_
-19	iʔew	iʔe	NOUN	n	NonFoc=Yes	0	root	_	_
+19	iʔew	ʔi	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	_	_
 
 ~~~
 

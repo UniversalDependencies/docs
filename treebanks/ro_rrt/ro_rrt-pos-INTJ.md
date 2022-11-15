@@ -15,7 +15,7 @@ The 10 most frequent `INTJ` types:  <em>iată, vai, Atențiune, Ei, Ia, Păi, ia
 
 The 10 most frequent ambiguous lemmas: <em>o</em> (<tt><a href="ro_rrt-pos-PART.html">PART</a></tt> 10, <tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>Ei</em> (<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> 14, <tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> 2), <em>Ia</em> (<tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> 2), <em>O</em> (<tt><a href="ro_rrt-pos-DET.html">DET</a></tt> 111, <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> 7, <tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="ro_rrt-pos-PART.html">PART</a></tt> 1), <em>Uite</em> (<tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> 3, <tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> 1), <em>mă</em> (<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> 86, <tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>Ei</em> (<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> 14, <tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> 2), <em>Ia</em> (<tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> 2), <em>O</em> (<tt><a href="ro_rrt-pos-DET.html">DET</a></tt> 110, <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> 7, <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> 1, <tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="ro_rrt-pos-PART.html">PART</a></tt> 1), <em>Uite</em> (<tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> 3, <tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> 1), <em>mă</em> (<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> 86, <tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> 1)
 
 
 * <em>Ei</em>
@@ -25,9 +25,10 @@ The 10 most frequent ambiguous types:  <em>Ei</em> (<tt><a href="ro_rrt-pos-PRON
   * <tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> 2: <em><b>Ia</b> lasă -te în adânc !</em>
   * <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> 2: <em>- <b>Ia</b> , Treanță , îl îndemnă starostele , ia , că n- o să -ți cadă dinții .</em>
 * <em>O</em>
-  * <tt><a href="ro_rrt-pos-DET.html">DET</a></tt> 111: <em><b>O</b> plăcere -avea : de lacomi , de neghiobi , să -și râză -n lege !</em>
+  * <tt><a href="ro_rrt-pos-DET.html">DET</a></tt> 110: <em><b>O</b> plăcere -avea : de lacomi , de neghiobi , să -și râză -n lege !</em>
   * <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> 8: <em>Pinul M specifică spațiul de memorie adresat ( fizică sau I / <b>O</b> ) .</em>
   * <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> 7: <em><b>O</b> dusese acasă , în servietă , cu sentimentul vinovăției .</em>
+  * <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> 1: <em><b>O</b> dată stăpân pe metoda lui , Rimbaud - asemănător și în această privință cu omul de știință - își propune să extrapoleze adevărurile experimentale dobândite .</em>
   * <tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> 1: <em><b>O</b> , mamă , dulce mamă , din negură de vremi Pe freamătul de frunze la tine tu mă chemi .</em>
   * <tt><a href="ro_rrt-pos-PART.html">PART</a></tt> 1: <em><b>O</b> fi " simpatie " de genul feminin , dar se folosește și la masculin tot așa .</em>
 * <em>Uite</em>
@@ -39,7 +40,7 @@ The 10 most frequent ambiguous types:  <em>Ei</em> (<tt><a href="ro_rrt-pos-PRON
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.814400).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.814602).
 
 The 1st highest number of forms (1) was observed with the lemma “adio”: <em>adio</em>.
 
@@ -54,7 +55,7 @@ The 3rd highest number of forms (1) was observed with the lemma “atențiune”
 
 `INTJ` nodes are attached to their parents using 10 different relations: <tt><a href="ro_rrt-dep-root.html">root</a></tt> (19; 46% instances), <tt><a href="ro_rrt-dep-discourse.html">discourse</a></tt> (9; 22% instances), <tt><a href="ro_rrt-dep-dep.html">dep</a></tt> (3; 7% instances), <tt><a href="ro_rrt-dep-fixed.html">fixed</a></tt> (3; 7% instances), <tt><a href="ro_rrt-dep-parataxis.html">parataxis</a></tt> (2; 5% instances), <tt><a href="ro_rrt-dep-conj.html">conj</a></tt> (1; 2% instances), <tt><a href="ro_rrt-dep-flat.html">flat</a></tt> (1; 2% instances), <tt><a href="ro_rrt-dep-nmod.html">nmod</a></tt> (1; 2% instances), <tt><a href="ro_rrt-dep-nsubj.html">nsubj</a></tt> (1; 2% instances), <tt><a href="ro_rrt-dep-obj.html">obj</a></tt> (1; 2% instances)
 
-Parents of `INTJ` nodes belong to 6 different parts of speech:  (19; 46% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (12; 29% instances), <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> (4; 10% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (3; 7% instances), <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> (2; 5% instances), <tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt> (1; 2% instances)
+Parents of `INTJ` nodes belong to 6 different parts of speech:  (19; 46% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (12; 29% instances), <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> (3; 7% instances), <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> (3; 7% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (3; 7% instances), <tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt> (1; 2% instances)
 
 11 (27%) `INTJ` nodes are leaves.
 

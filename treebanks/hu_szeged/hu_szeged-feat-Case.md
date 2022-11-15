@@ -9,16 +9,16 @@ udver: '2'
 This feature is universal but the values `Sbl` are language-specific.
 It occurs with 22 different values: `Abl`, `Abs`, `Acc`, `Ade`, `All`, `Cau`, `Dat`, `Del`, `Dis`, `Ela`, `Ess`, `Gen`, `Ill`, `Ine`, `Ins`, `Loc`, `Nom`, `Sbl`, `Sup`, `Tem`, `Ter`, `Tra`.
 
-20573 tokens (49%) have a non-empty value of `Case`.
-11050 types (82%) occur at least once with a non-empty value of `Case`.
-7227 lemmas (82%) occur at least once with a non-empty value of `Case`.
-The feature is used with 6 part-of-speech tags: <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (9690; 23% instances), <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> (5543; 13% instances), <tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt> (2718; 6% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (1380; 3% instances), <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt> (1115; 3% instances), <tt><a href="hu_szeged-pos-DET.html">DET</a></tt> (127; 0% instances).
+20572 tokens (49%) have a non-empty value of `Case`.
+11049 types (82%) occur at least once with a non-empty value of `Case`.
+7226 lemmas (82%) occur at least once with a non-empty value of `Case`.
+The feature is used with 6 part-of-speech tags: <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (9689; 23% instances), <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> (5543; 13% instances), <tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt> (2718; 6% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (1380; 3% instances), <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt> (1115; 3% instances), <tt><a href="hu_szeged-pos-DET.html">DET</a></tt> (127; 0% instances).
 
 ### `NOUN`
 
-9690 <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
+9689 <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7798; 80%), <tt><a href="hu_szeged-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (6929; 72%), <tt><a href="hu_szeged-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (6929; 72%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7797; 80%), <tt><a href="hu_szeged-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (6928; 72%), <tt><a href="hu_szeged-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (6928; 72%).
 
 `NOUN` tokens may have the following values of `Case`:
 
@@ -38,7 +38,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 * `Ine` (726; 7% of non-empty `Case`): <em>évben, kapcsolatban, napokban, esetben, érdekében, értelmében, években, decemberben, felében, időben</em>
 * `Ins` (453; 5% of non-empty `Case`): <em>százalékkal, évvel, alkalommal, nappal, tavasszal, címmel, hatással, kézzel, sikerrel, szemmel</em>
 * `Loc` (1; 0% of non-empty `Case`): <em>helyütt</em>
-* `Nom` (4783; 49% of non-empty `Case`): <em>kormány, év, cég, forint, elnök, miniszterelnök, évek, elnöke, kormányfő, vezetője</em>
+* `Nom` (4782; 49% of non-empty `Case`): <em>kormány, év, cég, forint, elnök, miniszterelnök, évek, elnöke, kormányfő, vezetője</em>
 * `Sbl` (443; 5% of non-empty `Case`): <em>élére, dollárra, forintra, színpadra, napirendre, végére, gazdaságra, napra, növelésére, évre</em>
 * `Sup` (534; 6% of non-empty `Case`): <em>héten, szerdán, elején, végén, alapján, idején, során, úton, kedden, módon</em>
 * `Tem` (13; 0% of non-empty `Case`): <em>órakor, Letartóztatásakor, elrontásakor, előterjesztésekor, készítésekor, lapzártánkkor, megkötésekor, visszatérésekor, záráskor, összekötésekor</em>
@@ -210,14 +210,14 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="hu_szeged-dep-amod-att.html">amod:att</a></tt>]--> ADJ</tt> (2150; 51%),
+<tt>NOUN --[<tt><a href="hu_szeged-dep-amod-att.html">amod:att</a></tt>]--> ADJ</tt> (2127; 51%),
 <tt>PROPN --[<tt><a href="hu_szeged-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (774; 83%),
-<tt>NOUN --[<tt><a href="hu_szeged-dep-conj.html">conj</a></tt>]--> NOUN</tt> (466; 95%),
-<tt>ADJ --[<tt><a href="hu_szeged-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (160; 99%),
-<tt>NOUN --[<tt><a href="hu_szeged-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (159; 51%),
-<tt>ADJ --[<tt><a href="hu_szeged-dep-amod-att.html">amod:att</a></tt>]--> ADJ</tt> (156; 96%),
-<tt>ADJ --[<tt><a href="hu_szeged-dep-conj.html">conj</a></tt>]--> ADJ</tt> (143; 100%),
+<tt>NOUN --[<tt><a href="hu_szeged-dep-conj.html">conj</a></tt>]--> NOUN</tt> (465; 95%),
+<tt>NOUN --[<tt><a href="hu_szeged-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (164; 51%),
+<tt>ADJ --[<tt><a href="hu_szeged-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (159; 99%),
+<tt>ADJ --[<tt><a href="hu_szeged-dep-amod-att.html">amod:att</a></tt>]--> ADJ</tt> (155; 96%),
+<tt>ADJ --[<tt><a href="hu_szeged-dep-conj.html">conj</a></tt>]--> ADJ</tt> (146; 100%),
+<tt>PROPN --[<tt><a href="hu_szeged-dep-amod-att.html">amod:att</a></tt>]--> ADJ</tt> (139; 90%),
 <tt>NUM --[<tt><a href="hu_szeged-dep-compound.html">compound</a></tt>]--> NUM</tt> (134; 93%),
-<tt>PROPN --[<tt><a href="hu_szeged-dep-conj.html">conj</a></tt>]--> PROPN</tt> (130; 94%),
-<tt>PROPN --[<tt><a href="hu_szeged-dep-amod-att.html">amod:att</a></tt>]--> ADJ</tt> (117; 88%).
+<tt>PROPN --[<tt><a href="hu_szeged-dep-conj.html">conj</a></tt>]--> PROPN</tt> (134; 94%).
 

@@ -17,89 +17,72 @@ The following 5 pairs of parts of speech are connected with `xcomp`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 9 xcomp	color:blue
-1	_	ו	CCONJ	conj	_	2	cc	_	_
-2	_	היה	AUX	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-3	כִּֽי	כי	SCONJ	conj	_	5	mark	_	SpaceAfter=No
-4	־	־	PUNCT	punct	_	3	punct	_	SpaceAfter=No
-5	הֵחֵ֣ל	חלל	VERB	verb	Aspect=Perf|Gender=Masc|HebBinyan=HIFIL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	2	advcl	_	_
-6	_	ה	DET	art	_	7	det	_	_
-7	_	אדם	NOUN	subs	Gender=Masc|Number=Sing	5	nsubj	_	_
-8	_	ל	ADP	prep	_	9	case	_	_
-9	_	רבב	VERB	verb	HebBinyan=PAAL|VerbForm=Inf	5	xcomp	_	_
-10	עַל	על	ADP	prep	_	12	case	_	SpaceAfter=No
-11	־	־	PUNCT	punct	_	10	punct	_	SpaceAfter=No
-12	פְּנֵ֣י	פנה	NOUN	subs	Gender=Masc|Number=Plur	9	obl	_	_
-13	_	ה	DET	art	_	14	det	_	_
-14	_	אדמה	NOUN	subs	Gender=Fem|Number=Sing	12	compound:smixut	_	_
-15	_	ו	CCONJ	conj	_	17	cc	_	_
-16	_	בת	NOUN	subs	Gender=Fem|Number=Plur	17	nsubj	_	_
-17	יֻלְּד֥וּ	ילד	VERB	verb	Aspect=Perf|HebBinyan=PUAL|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	2	conj	_	_
-18	_	ל	ADP	prep	_	19	case	_	_
-19	_	הם	PRON	prn	Gender=Masc|Number=Plur|Person=3|PronType=Prs	17	obl	_	_
-20	׃	׃	PUNCT	punct	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 16 xcomp	color:blue
-1	זָכָ֥ר	זכר	ADJ	adjv	Gender=Masc|Number=Sing	4	xcomp	_	_
-2	_	ו	CCONJ	conj	_	3	cc	_	_
-3	_	נקבה	NOUN	subs	Gender=Fem|Number=Sing	1	conj	_	_
-4	_	ברא	VERB	verb	Aspect=Perf|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
-5	_	הם	PRON	prn	Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	obj	_	_
-6	_	ו	CCONJ	conj	_	7	cc	_	_
-7	_	ברך	VERB	verb	Gender=Masc|HebBinyan=PIEL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	_
-8	_	את	ADP	prep	_	9	case	_	_
-9	_	הם	PRON	prn	Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	obj	_	_
-10	_	ו	CCONJ	conj	_	11	cc	_	_
-11	_	קרא	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	_
-12	אֶת	את	ADP	prep	_	14	case	_	SpaceAfter=No
-13	־	־	PUNCT	punct	_	12	punct	_	SpaceAfter=No
-14	_	שׁם	NOUN	subs	Gender=Masc|Number=Sing	11	obj	_	_
-15	_	הם	PRON	prn	Gender=Masc|Number=Plur|Person=3|PronType=Prs	14	nmod:poss	_	_
-16	אָדָ֔ם	אדם	NOUN	subs	Gender=Masc|Number=Sing	11	xcomp	_	_
-17	_	ב	ADP	prep	_	18	case	_	_
-18	_	יום	NOUN	subs	Gender=Masc|Number=Sing	11	obl	_	_
-19	_	ברא	VERB	verb	HebBinyan=NIFAL|VerbForm=Inf	18	acl	_	_
-20	_	הם	PRON	prn	Gender=Masc|Number=Plur|Person=3|PronType=Prs	19	nsubj	_	_
-21	׃	׃	PUNCT	punct	_	4	punct	_	_
-22	ס	ס	PUNCT	punct	_	4	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 8 xcomp	color:blue
-1	_	ו	CCONJ	conj	_	2	cc	_	_
-2	_	קרא	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-3	_	ה	DET	art	_	4	det	_	_
-4	_	אדם	NOUN	subs	Gender=Masc|Number=Sing	2	nsubj	_	_
-5	שֵׁ֥ם	שׁם	NOUN	subs	Gender=Masc|Number=Sing	2	obj	_	_
-6	_	אשׁה	NOUN	subs	Gender=Fem|Number=Sing	5	compound:smixut	_	_
-7	_	הוא	PRON	prn	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nmod:poss	_	_
-8	חַוָּ֑ה	חוה	PROPN	nmpr	Gender=Fem|Number=Sing	2	xcomp	_	_
-9	כִּ֛י	כי	SCONJ	conj	_	12	mark	_	_
-10	הִ֥וא	היא	PRON	prps	Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
-11	הָֽיְתָ֖ה	היה	AUX	verb	Aspect=Perf|Gender=Fem|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	12	cop	_	_
-12	אֵ֥ם	אם	NOUN	subs	Gender=Fem|Number=Sing	2	advcl	_	_
-13	כָּל	כל	NOUN	subs	Gender=Masc|Number=Sing	12	compound:smixut	_	SpaceAfter=No
-14	־	־	PUNCT	punct	_	15	punct	_	SpaceAfter=No
-15	חָֽי	חי	ADJ	adjv	Gender=Masc|Number=Sing	13	compound:smixut	_	SpaceAfter=No
-16	׃	׃	PUNCT	punct	_	2	punct	_	_
+# visual-style 2 4 xcomp	color:blue
+1	ו	ו	CCONJ	conj	_	2	cc	_	Ref=GEN_17.22
+2	כלה	כלה	VERB	verb	Gender=Masc|HebBinyan=PIEL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Ref=GEN_17.22
+3	ל	ל	ADP	prep	_	4	case	_	Ref=GEN_17.22
+4	דבר	דבר	VERB	verb	HebBinyan=PIEL|VerbForm=Inf	2	xcomp	_	Ref=GEN_17.22
+5	את	את	ADP	prep	_	6	case	_	Ref=GEN_17.22
+6	הוא	הוא	PRON	prn	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obl	_	Ref=GEN_17.22
+7	ו	ו	CCONJ	conj	_	8	cc	_	Ref=GEN_17.22
+8	עלה	עלה	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	Ref=GEN_17.22
+9	אֱלֹהִ֔ים	אלהים	NOUN	subs	Gender=Masc|Number=Plur	8	nsubj	_	Ref=GEN_17.22
+10	מן	מן	ADP	prep	_	12	case	_	Ref=GEN_17.22
+11	על	על	ADP	prep	_	12	case	_	Ref=GEN_17.22
+12	אַבְרָהָֽם	אברהם	PROPN	nmpr	Gender=Masc|Number=Sing	8	obl	_	Ref=GEN_17.22|SpaceAfter=No
+13	׃	׃	PUNCT	punct	_	2	punct	_	Ref=GEN_17.22
+
+~~~
+
+
+~~~ conllu
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 11 xcomp	color:blue
+1	ו	ו	CCONJ	conj	_	3	cc	_	Ref=GEN_10.8
+2	כושׁ	כושׁ	PROPN	nmpr	Gender=Masc|Number=Sing	3	nsubj	_	Ref=GEN_10.8
+3	יָלַ֣ד	ילד	VERB	verb	Aspect=Perf|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Ref=GEN_10.8
+4	אֶת	את	ADP	prep	_	6	case	_	Ref=GEN_10.8|SpaceAfter=No
+5	־	־	PUNCT	punct	_	4	punct	_	Ref=GEN_10.8|SpaceAfter=No
+6	נִמְרֹ֑ד	נמרד	PROPN	nmpr	Gender=Masc|Number=Sing	3	obj	_	Ref=GEN_10.8
+7	ה֣וּא	הוא	PRON	prps	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	Ref=GEN_10.8
+8	הֵחֵ֔ל	חלל	VERB	verb	Aspect=Perf|Gender=Masc|HebBinyan=HIFIL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	3	parataxis	_	Ref=GEN_10.8
+9	ל	ל	ADP	prep	_	11	case	_	Ref=GEN_10.8
+10	היה	היה	AUX	verb	HebBinyan=PAAL|VerbForm=Inf	11	cop	_	Ref=GEN_10.8
+11	גִּבֹּ֖ר	גבור	NOUN	subs	Gender=Masc|Number=Sing	8	xcomp	_	Ref=GEN_10.8
+12	ב	ב	ADP	prep	_	14	case	_	Ref=GEN_10.8
+13	ה	ה	DET	art	PronType=Art	14	det	_	Ref=GEN_10.8
+14	ארץ	ארץ	NOUN	subs	Gender=Fem|Number=Sing	11	obl	_	Ref=GEN_10.8
+15	׃	׃	PUNCT	punct	_	3	punct	_	Ref=GEN_10.8
+
+~~~
+
+
+~~~ conllu
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 12 xcomp	color:blue
+1	ו	ו	CCONJ	conj	_	2	cc	_	Ref=GEN_30.11
+2	אמר	אמר	VERB	verb	Gender=Fem|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Ref=GEN_30.11
+3	לֵאָ֖ה	לאה	PROPN	nmpr	Gender=Fem|Number=Sing	2	nsubj	_	Ref=GEN_30.11
+4	בָּ֣א	בוא	VERB	verb	Aspect=Perf|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	2	ccomp	_	Ref=GEN_30.11
+5	גָ֑ד	גד	NOUN	subs	Gender=Masc|Number=Sing	4	nsubj	_	Ref=GEN_30.11
+6	ו	ו	CCONJ	conj	_	7	cc	_	Ref=GEN_30.11
+7	קרא	קרא	VERB	verb	Gender=Fem|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	Ref=GEN_30.11
+8	אֶת	את	ADP	prep	_	10	case	_	Ref=GEN_30.11|SpaceAfter=No
+9	־	־	PUNCT	punct	_	8	punct	_	Ref=GEN_30.11|SpaceAfter=No
+10	שׁם	שׁם	NOUN	subs	Gender=Masc|Number=Sing	7	obj	_	Ref=GEN_30.11
+11	הוא	הוא	PRON	prn	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nmod:poss	_	Ref=GEN_30.11
+12	גָּֽד	גד	PROPN	nmpr	Number=Sing	7	xcomp	_	Ref=GEN_30.11|SpaceAfter=No
+13	׃	׃	PUNCT	punct	_	2	punct	_	Ref=GEN_30.11
 
 ~~~
 

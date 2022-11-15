@@ -60,7 +60,7 @@ The 10 most frequent ambiguous types:  <em>för</em> (<tt><a href="sv_talbanken-
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.422764).
+The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.422803).
 
 The 1st highest number of forms (1) was observed with the lemma “I”: <em>I</em>.
 
@@ -83,9 +83,9 @@ Examples: <em>i, av, på, för, till, med, om, från, vid, under</em>
 
 Parents of `ADP` nodes belong to 10 different parts of speech: <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (8517; 76% instances), <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (1161; 10% instances), <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (443; 4% instances), <tt><a href="sv_talbanken-pos-PROPN.html">PROPN</a></tt> (410; 4% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (263; 2% instances), <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> (208; 2% instances), <tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (165; 1% instances), <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> (55; 0% instances), <tt><a href="sv_talbanken-pos-DET.html">DET</a></tt> (11; 0% instances),  (6; 0% instances)
 
-10489 (93%) `ADP` nodes are leaves.
+10490 (93%) `ADP` nodes are leaves.
 
-418 (4%) `ADP` nodes have one child.
+417 (4%) `ADP` nodes have one child.
 
 300 (3%) `ADP` nodes have two children.
 
@@ -93,7 +93,7 @@ Parents of `ADP` nodes belong to 10 different parts of speech: <tt><a href="sv_t
 
 The highest child degree of a `ADP` node is 10.
 
-Children of `ADP` nodes are attached using 14 different relations: <tt><a href="sv_talbanken-dep-fixed.html">fixed</a></tt> (1041; 91% instances), <tt><a href="sv_talbanken-dep-cc.html">cc</a></tt> (19; 2% instances), <tt><a href="sv_talbanken-dep-conj.html">conj</a></tt> (17; 1% instances), <tt><a href="sv_talbanken-dep-punct.html">punct</a></tt> (15; 1% instances), <tt><a href="sv_talbanken-dep-obl.html">obl</a></tt> (13; 1% instances), <tt><a href="sv_talbanken-dep-advmod.html">advmod</a></tt> (11; 1% instances), <tt><a href="sv_talbanken-dep-cop.html">cop</a></tt> (7; 1% instances), <tt><a href="sv_talbanken-dep-nsubj.html">nsubj</a></tt> (7; 1% instances), <tt><a href="sv_talbanken-dep-advcl.html">advcl</a></tt> (6; 1% instances), <tt><a href="sv_talbanken-dep-mark.html">mark</a></tt> (5; 0% instances), <tt><a href="sv_talbanken-dep-case.html">case</a></tt> (2; 0% instances), <tt><a href="sv_talbanken-dep-nummod.html">nummod</a></tt> (2; 0% instances), <tt><a href="sv_talbanken-dep-expl.html">expl</a></tt> (1; 0% instances), <tt><a href="sv_talbanken-dep-nmod.html">nmod</a></tt> (1; 0% instances)
+Children of `ADP` nodes are attached using 14 different relations: <tt><a href="sv_talbanken-dep-fixed.html">fixed</a></tt> (1040; 91% instances), <tt><a href="sv_talbanken-dep-cc.html">cc</a></tt> (19; 2% instances), <tt><a href="sv_talbanken-dep-conj.html">conj</a></tt> (17; 1% instances), <tt><a href="sv_talbanken-dep-punct.html">punct</a></tt> (15; 1% instances), <tt><a href="sv_talbanken-dep-obl.html">obl</a></tt> (13; 1% instances), <tt><a href="sv_talbanken-dep-advmod.html">advmod</a></tt> (11; 1% instances), <tt><a href="sv_talbanken-dep-cop.html">cop</a></tt> (7; 1% instances), <tt><a href="sv_talbanken-dep-nsubj.html">nsubj</a></tt> (7; 1% instances), <tt><a href="sv_talbanken-dep-advcl.html">advcl</a></tt> (6; 1% instances), <tt><a href="sv_talbanken-dep-mark.html">mark</a></tt> (5; 0% instances), <tt><a href="sv_talbanken-dep-case.html">case</a></tt> (2; 0% instances), <tt><a href="sv_talbanken-dep-nummod.html">nummod</a></tt> (2; 0% instances), <tt><a href="sv_talbanken-dep-expl.html">expl</a></tt> (1; 0% instances), <tt><a href="sv_talbanken-dep-nmod.html">nmod</a></tt> (1; 0% instances)
 
-Children of `ADP` nodes belong to 14 different parts of speech: <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (586; 51% instances), <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> (208; 18% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (77; 7% instances), <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> (74; 6% instances), <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (54; 5% instances), <tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> (44; 4% instances), <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> (38; 3% instances), <tt><a href="sv_talbanken-pos-DET.html">DET</a></tt> (26; 2% instances), <tt><a href="sv_talbanken-pos-PUNCT.html">PUNCT</a></tt> (15; 1% instances), <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (8; 1% instances), <tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> (7; 1% instances), <tt><a href="sv_talbanken-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="sv_talbanken-pos-PROPN.html">PROPN</a></tt> (3; 0% instances)
+Children of `ADP` nodes belong to 14 different parts of speech: <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (586; 51% instances), <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> (208; 18% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (76; 7% instances), <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> (74; 6% instances), <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (54; 5% instances), <tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> (44; 4% instances), <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> (38; 3% instances), <tt><a href="sv_talbanken-pos-DET.html">DET</a></tt> (26; 2% instances), <tt><a href="sv_talbanken-pos-PUNCT.html">PUNCT</a></tt> (15; 1% instances), <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (8; 1% instances), <tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> (7; 1% instances), <tt><a href="sv_talbanken-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="sv_talbanken-pos-PROPN.html">PROPN</a></tt> (3; 0% instances)
 

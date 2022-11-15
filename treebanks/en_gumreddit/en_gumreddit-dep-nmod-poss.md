@@ -27,7 +27,7 @@ The following 7 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 2	_	_	AUX	MD	VerbForm=Fin	3	aux	3:aux	Lem=_|Len=3
 3	_	_	VERB	VB	VerbForm=Inf	0	root	0:root	Lem=_|Len=6
 4	_	_	ADP	IN	_	7	case	7:case	Lem=_|Len=4
-5	_	_	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	7	nmod:poss	7:nmod:poss	Entity=(6-person-new-cf2-3-sgl(5-person-giv:act-cf1-1-ana)|Lem=_|Len=4
+5	_	_	PRON	PRP$	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	7	nmod:poss	7:nmod:poss	Entity=(6-person-new-cf2-3-sgl(5-person-giv:act-cf1-1-ana)|Lem=_|Len=4
 6	_	_	ADJ	JJ	Degree=Pos	7	amod	7:amod	Lem=_|Len=3
 7	_	_	NOUN	NNS	Number=Plur	3	obl	3:obl:from	Entity=6)|Lem=person|Len=6|SpaceAfter=No
 8	_	_	PUNCT	.	_	3	punct	3:punct	Lem=_|Len=1
@@ -54,7 +54,7 @@ The following 7 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 11	_	_	NOUN	NN	Number=Sing	8	conj	3:obj|8:conj:and	Entity=16)|Lem=_|Len=4|SpaceAfter=No
 12	_	_	PUNCT	,	_	16	punct	16:punct	Lem=_|Len=1
 13	_	_	CCONJ	CC	_	16	cc	16:cc	Lem=_|Len=3
-14	_	_	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	nmod:poss	16:nmod:poss	Entity=(17-abstract-new-cf5-3-sgl(7-person-giv:act-cf1*-1-ana)|Lem=_|Len=3
+14	_	_	PRON	PRP$	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	nmod:poss	16:nmod:poss	Entity=(17-abstract-new-cf5-3-sgl(7-person-giv:act-cf1*-1-ana)|Lem=_|Len=3
 15	_	_	NOUN	NN	Number=Sing	16	compound	16:compound	Lem=_|Len=3
 16	_	_	NOUN	NN	Number=Sing	8	conj	3:obj|8:conj:and	Entity=17)|Lem=_|Len=4|SpaceAfter=No
 17	_	_	PUNCT	.	_	3	punct	3:punct	Lem=_|Len=1
@@ -76,7 +76,7 @@ The following 7 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 6	_	_	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	2:advcl:like	Lem=_|Len=2
 7	_	_	ADV	RB	Degree=Pos	6	advmod	6:advmod	Lem=_|Len=9
 8	_	_	ADP	IN	_	10	case	10:case	Lem=_|Len=4
-9	_	_	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	10	nmod:poss	10:nmod:poss	Entity=(43-object-giv:inact-cf6-2-coref(29-person-giv:act-cf2-1-ana)|Lem=_|Len=5
+9	_	_	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	10	nmod:poss	10:nmod:poss	Entity=(43-object-giv:inact-cf6-2-coref(29-person-giv:act-cf2-1-ana)|Lem=_|Len=5
 10	_	_	NOUN	NN	Number=Sing	6	obl	6:obl:with	Entity=43)|Lem=_|Len=4
 11	_	_	PART	TO	_	12	mark	12:mark	Discourse=purpose-goal:97->96:0|Lem=_|Len=2
 12	_	_	VERB	VB	VerbForm=Inf	6	advcl	6:advcl:to	Lem=_|Len=3

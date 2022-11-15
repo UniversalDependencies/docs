@@ -7,24 +7,26 @@ udver: '2'
 ## Treebank Statistics: UD_Old_East_Slavic-Birchbark: Features: `NumForm`
 
 This feature is language-specific.
-It occurs with 1 different values: `Digit`.
+It occurs with 3 different values: `Cyril`, `Digit`, `Word`.
 
-701 tokens (3%) have a non-empty value of `NumForm`.
-261 types (2%) occur at least once with a non-empty value of `NumForm`.
-60 lemmas (1%) occur at least once with a non-empty value of `NumForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt> (691; 3% instances), <tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt> (10; 0% instances).
+704 tokens (3%) have a non-empty value of `NumForm`.
+262 types (2%) occur at least once with a non-empty value of `NumForm`.
+62 lemmas (1%) occur at least once with a non-empty value of `NumForm`.
+The feature is used with 2 part-of-speech tags: <tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt> (694; 3% instances), <tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt> (10; 0% instances).
 
 ### `NUM`
 
-691 <tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt> tokens (55% of all `NUM` tokens) have a non-empty value of `NumForm`.
+694 <tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt> tokens (55% of all `NUM` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="orv_birchbark-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (690; 100%), <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (689; 100%), <tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (688; 100%), <tt><a href="orv_birchbark-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (680; 98%).
+The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="orv_birchbark-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (693; 100%), <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (692; 100%), <tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (691; 100%), <tt><a href="orv_birchbark-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (682; 98%).
 
 `NUM` tokens may have the following values of `NumForm`:
 
+* `Cyril` (2; 0% of non-empty `NumForm`): <em>:е҃:</em>
 * `Digit` (691; 100% of non-empty `NumForm`): <em>·в҃·, ·г҃·, :в҃:, :в:, ·г·, ·ӏ҃·, в҃, г҃, :г҃:, ·в·</em>
+* `Word` (1; 0% of non-empty `NumForm`): <em>полу</em>
 
-`NumForm` seems to be **lexical feature** of `NUM`. 100% lemmas (59) occur only with one value of `NumForm`.
+`NumForm` seems to be **lexical feature** of `NUM`. 100% lemmas (61) occur only with one value of `NumForm`.
 
 ### `ADJ`
 

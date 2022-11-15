@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `csubj`: <tt><a href="myv_jr-dep-csubj-cop.html">csubj:cop</a></tt>.
 
-20 nodes (0%) are attached to their parents as `csubj`.
+23 nodes (0%) are attached to their parents as `csubj`.
 
-17 instances of `csubj` (85%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.45.
+18 instances of `csubj` (78%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.52173913043478.
 
-The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (11; 55% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (4; 20% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (1; 5% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (1; 5% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (1; 5% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (1; 5% instances).
+The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (11; 48% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (6; 26% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (2; 9% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (1; 4% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -47,7 +47,7 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 3	велявтомс	велявтомс	VERB	V	Valency=1|VerbForm=Inf	1	csubj	_	GTtags=IV,Inf
 4	вейке	вейке	NUM	Num	Case=Nom|Definite=Ind|Number=Sing|NumType=Card	5	nummod	_	GTtags=Card,Sg,Nom,Indef
 5	бока	бока	NOUN	N	Case=Nom|Definite=Ind|NounType=Relat|Number=Sing	6	nmod	_	GTtags=Relator,Sg,Nom,Indef
-6	лангсто	ланго	NOUN	N	Case=Ela|Definite=Ind|NounType=Relat|Number=Plur,Sing	3	obl:lfrom	_	GTtags=Relator,SP,Ela,Indef
+6	лангсто	ланго	NOUN	N	Case=Ela|Definite=Ind|NounType=Relat|Number=Plur,Sing	3	obl:lmod	_	GTtags=Relator,SP,Ela,Indef
 7	омбоцес	омбоце	ADJ	A	Case=Ill|Definite=Ind|Number=Plur,Sing|NumType=Ord	5	conj	_	GTtags=Ord,SP,Ill,Indef|SpaceAfter=No
 8	.	.	PUNCT	CLB	_	3	punct	_	_
 
@@ -55,20 +55,20 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 5 csubj	color:blue
-1	—	—	PUNCT	PUNCT	_	2	punct	_	_
-2	Паро	паро	ADJ	A	_	0	root	_	_
-3	се	се	DET	Det	Number=Sing|PronType=Dem	4	det	_	GTtags=Dem,Sg
-4	шкане	шка	NOUN	N	Case=Tem|Definite=Ind|Number=Plur,Sing	5	obl	_	GTtags=SP,TempCx,Indef
-5	вирьсэлить	вирь	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing|Number[subj]=Sing|Person[subj]=2|Tense=Past	2	csubj	_	GTtags=Sem/Plc,SP,Ine,Indef,Prt2,ScSg2
-6	—	—	PUNCT	PUNCT	_	7	punct	_	_
-7	маштовлидизь	маштомс	VERB	V	Mood=Sub|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=2|Person[subj]=3|Valency=2	5	conj	_	GTtags=TV,Hom2,Conj,ScPl3,OcSg2
-8	тонть	тон	PRON	Pron	Case=Gen|Number=Sing|Person=2|PronType=Prs	7	obj	_	GTtags=Pers,Sg2,Err/Orth,Dial,Gen|SpaceAfter=No
-9	.	.	PUNCT	CLB	_	2	punct	_	_
+# visual-style 2 8 csubj	color:blue
+1	—	—	PUNCT	PUNCT	_	2	punct	_	CGdephead=#1-&gt;2|CGdeprel=@CLB|GTtags=PUNCT
+2	Тесэ	тесэ	ADV	Adv	Case=Ine	0	root	_	CGdephead=#2-&gt;4|CGdeprel=@ADVL|GTtags=Ine|SpaceAfter=No
+3	,	,	PUNCT	CLB	_	2	punct	_	CGdephead=#3-&gt;2|CGdeprel=@CLB|GTtags=CLB
+4	милок	милок	NOUN	_	_	2	vocative	_	CGdephead=#4-&gt;0|CGdeprel=@X|GTtags=?|SpaceAfter=No
+5	,	,	PUNCT	CLB	_	4	punct	_	CGdephead=#5-&gt;4|CGdeprel=@CLB|GTtags=CLB
+6	а	а	AUX	Pcle	Polarity=Neg	7	aux:neg	_	CGdephead=#6-&gt;6|CGdeprel=@NEG&gt;|GTtags=Neg
+7	мезть	мезе	PRON	Pron	Case=Nom|Definite=Ind|Number=Plur|PronType=Int	8	obj	_	CGdephead=#7-&gt;0|CGdeprel=@X|GTtags=Interr,Pl,Nom,Indef
+8	чарькодемскак	чарькодемс	VERB	V	Clitic=Add|Valency=1|VerbForm=Inf	2	csubj	_	CGdephead=#8-&gt;0|CGdeprel=@FS-IMV|GTtags=IV,Inf,Clt/Add|SpaceAfter=No
+9	.	.	PUNCT	CLB	_	2	punct	_	CGdephead=#9-&gt;2|CGdeprel=@CLB|GTtags=CLB
 
 ~~~
 

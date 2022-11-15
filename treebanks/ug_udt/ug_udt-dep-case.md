@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-586 nodes (1%) are attached to their parents as `case`.
+629 nodes (2%) are attached to their parents as `case`.
 
-562 instances of `case` (96%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.09215017064846.
+614 instances of `case` (98%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.15421303656598.
 
-The following 31 pairs of parts of speech are connected with `case`: <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-ADP.html">ADP</a></tt> (311; 53% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-ADP.html">ADP</a></tt> (67; 11% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (45; 8% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (40; 7% instances), <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt>-<tt><a href="ug_udt-pos-ADP.html">ADP</a></tt> (27; 5% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (15; 3% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (13; 2% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> (12; 2% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> (7; 1% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ug_udt-pos-ADP.html">ADP</a></tt> (6; 1% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (6; 1% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="ug_udt-pos-ADP.html">ADP</a></tt>-<tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="ug_udt-pos-ADP.html">ADP</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="ug_udt-pos-NUM.html">NUM</a></tt>-<tt><a href="ug_udt-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="ug_udt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-ADP.html">ADP</a></tt>-<tt><a href="ug_udt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-ADP.html">ADP</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-ADV.html">ADV</a></tt>-<tt><a href="ug_udt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-AUX.html">AUX</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ug_udt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ug_udt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 19 pairs of parts of speech are connected with `case`: <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-ADP.html">ADP</a></tt> (346; 55% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-ADP.html">ADP</a></tt> (85; 14% instances), <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt>-<tt><a href="ug_udt-pos-ADP.html">ADP</a></tt> (54; 9% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (40; 6% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (37; 6% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (15; 2% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (13; 2% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ug_udt-pos-ADP.html">ADP</a></tt> (8; 1% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (5; 1% instances), <tt><a href="ug_udt-pos-ADV.html">ADV</a></tt>-<tt><a href="ug_udt-pos-ADP.html">ADP</a></tt> (4; 1% instances), <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="ug_udt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ug_udt-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="ug_udt-pos-NUM.html">NUM</a></tt>-<tt><a href="ug_udt-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="ug_udt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ug_udt-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -54,20 +54,21 @@ The following 31 pairs of parts of speech are connected with `case`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 case	color:blue
-1	ئۆزۈڭمۇ	ئۆز	PRON	N	Case=Nom|Number[psor]=Sing|Person[psor]=2|Reflex=Yes	2	nsubj	_	Translit=özüngmu
-2	تۇيمىغان	تۇي	VERB	V	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	8	advcl	_	Translit=tuymighan
-3	ھالدا	ھال	NOUN	N	Case=Loc	2	case	_	Translit=halda
-4	ئۇزاقتىن	ئۇزاق	ADJ	A	Case=Abl	5	compound:redup	_	Translit=uzaqtin
-5	ئۇزاق	ئۇزاق	ADJ	A	Case=Nom	8	advmod	_	Translit=uzaq
-6	خىياللارغا	خىيال	NOUN	V	Case=Dat|Number=Plur	8	obl	_	Translit=xiyallargha
-7	غەرق	_	ADJ	A	_	8	compound	_	Translit=gherq|Morf=Unknown
-8	بولىسەن	بول	VERB	V	Aspect=Hab|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=bolisen
-9	.	.	PUNCT	Y	_	8	punct	_	Translit=.
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 case	color:blue
+1	مەن	مەن	PRON	P	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Translit=men
+2	ئېسىمنى	_	NOUN	N	_	3	obj	_	Translit=ësimni|Morf=Unknown
+3	بىلسەم	_	VERB	V	_	9	parataxis	_	Translit=bilsem|Morf=Unknown
+4	سەن	سەن	PRON	P	Case=Nom|Number=Sing|Person=2|PronType=Prs	9	obl	_	Translit=sen
+5	بىلەن	بىلەن	ADP	R	_	4	case	_	Translit=bilen
+6	بىللە	بىللە	ADJ	D	Case=Nom	9	advmod	_	Translit=bille
+7	ئويناپ	ئوينا	VERB	V	Aspect=Perf|VerbForm=Conv	9	advcl	_	Translit=oynap
+8	چوڭ	چوڭ	ADJ	A	_	9	compound	_	Translit=chong
+9	بولۇۋاتقانىكەنمەن	_	VERB	V	_	0	root	_	SpaceAfter=No|Translit=boluwatqanikenmen|Morf=Unknown
+10	.	.	PUNCT	Y	_	9	punct	_	Translit=.
 
 ~~~
 

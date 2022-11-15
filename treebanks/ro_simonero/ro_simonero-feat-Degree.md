@@ -10,8 +10,8 @@ This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
 20420 tokens (14%) have a non-empty value of `Degree`.
-5103 types (28%) occur at least once with a non-empty value of `Degree`.
-3053 lemmas (29%) occur at least once with a non-empty value of `Degree`.
+5105 types (28%) occur at least once with a non-empty value of `Degree`.
+3055 lemmas (29%) occur at least once with a non-empty value of `Degree`.
 The feature is used with 2 part-of-speech tags: <tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt> (17043; 12% instances), <tt><a href="ro_simonero-pos-ADV.html">ADV</a></tt> (3377; 2% instances).
 
 ### `ADJ`
@@ -35,7 +35,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
   <tr><td><tt><tt><a href="ro_simonero-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>inferioare</em></td><td><em>inferioare</em></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADJ`. 100% lemmas (2884) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADJ`. 100% lemmas (2886) occur only with one value of `Degree`.
 
 ### `ADV`
 
@@ -58,13 +58,13 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
-<tt>ADJ --[<tt><a href="ro_simonero-dep-conj.html">conj</a></tt>]--> ADJ</tt> (677; 100%),
+<tt>ADJ --[<tt><a href="ro_simonero-dep-conj.html">conj</a></tt>]--> ADJ</tt> (678; 100%),
 <tt>ADJ --[<tt><a href="ro_simonero-dep-amod.html">amod</a></tt>]--> ADJ</tt> (56; 95%),
 <tt>ADJ --[<tt><a href="ro_simonero-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (35; 100%),
 <tt>ADV --[<tt><a href="ro_simonero-dep-conj.html">conj</a></tt>]--> ADV</tt> (34; 97%),
-<tt>ADJ --[<tt><a href="ro_simonero-dep-conj.html">conj</a></tt>]--> ADV</tt> (24; 92%),
+<tt>ADJ --[<tt><a href="ro_simonero-dep-conj.html">conj</a></tt>]--> ADV</tt> (24; 96%),
 <tt>ADJ --[<tt><a href="ro_simonero-dep-amod.html">amod</a></tt>]--> ADV</tt> (10; 100%),
-<tt>ADJ --[<tt><a href="ro_simonero-dep-advmod.html">advmod</a></tt>]--> ADJ</tt> (8; 100%),
+<tt>ADJ --[<tt><a href="ro_simonero-dep-advmod.html">advmod</a></tt>]--> ADJ</tt> (7; 100%),
 <tt>ADV --[<tt><a href="ro_simonero-dep-conj.html">conj</a></tt>]--> ADJ</tt> (7; 88%),
 <tt>ADV --[<tt><a href="ro_simonero-dep-amod.html">amod</a></tt>]--> ADJ</tt> (6; 100%),
 <tt>ADJ --[<tt><a href="ro_simonero-dep-advcl.html">advcl</a></tt>]--> ADV</tt> (4; 100%).

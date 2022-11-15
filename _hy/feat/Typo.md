@@ -20,4 +20,4 @@ correct form looks like.
 #### Examples
 
 * _<b>զեխչ</b>_
-<!-- Interlanguage links updated So kvě 14 19:02:42 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:59 CET 2022 -->

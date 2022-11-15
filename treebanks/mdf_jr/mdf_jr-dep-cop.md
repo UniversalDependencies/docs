@@ -8,7 +8,7 @@ udver: '2'
 
 This relation is universal.
 
-16 nodes (1%) are attached to their parents as `cop`.
+16 nodes (0%) are attached to their parents as `cop`.
 
 12 instances of `cop` (75%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.5625.
@@ -55,7 +55,7 @@ The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 7 8 cop	color:blue
 1	Ужяль	ужяль	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	0	root	_	GTtags=Sg,Nom,Indef
 2	—	—	PUNCT	PUNCT	_	7	punct	_	_
-3	мондедон	мон	PRON	Pron	Case=Abl|Number=Sing|Person=1|PronType=Prs	5	obl:comp	_	GTtags=Pers,Sg1,Abl
+3	мондедон	мон	PRON	Pron	Case=Abl|Number=Sing|Person=1|PronType=Prs	5	obl:cmp	_	GTtags=Pers,Sg1,Abl
 4	сяда	сяда	ADV	Adv	AdvType=Deg	5	advmod:deg	_	GTtags=Deg
 5	инголе	инголе	ADV	Adv	Case=Loc	7	advmod:tmod	_	GTtags=Loc
 6	ни	ни	ADV	Adv	AdvType=Tim	5	advmod:tmod	_	GTtags=Sem/Time

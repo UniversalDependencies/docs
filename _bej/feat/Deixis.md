@@ -33,4 +33,4 @@ The entity is close to the reference point (e.g., to the speaker).
 
 
 
-<!-- Interlanguage links updated So kvě 14 19:02:11 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:44 CET 2022 -->

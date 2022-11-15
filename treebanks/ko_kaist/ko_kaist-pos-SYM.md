@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Korean-Kaist: POS Tags: `SYM`
 
 There are 15 `SYM` lemmas (0%), 15 `SYM` types (0%) and 260 `SYM` tokens (0%).
-Out of 17 observed tags, the rank of `SYM` is: 17 in number of lemmas, 17 in number of types and 16 in number of tokens.
+Out of 17 observed tags, the rank of `SYM` is: 16 in number of lemmas, 17 in number of types and 16 in number of tokens.
 
 The 10 most frequent `SYM` lemmas: %, km, $, 1,500+m, 10+m, 20+ha, 200+m, 216+m, 30+m, 3000+m
 
@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  km (<tt><a href="ko_kaist-pos-X.html">X</
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 0.995275).
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 0.998034).
 
 The 1st highest number of forms (1) was observed with the lemma “$”: $.
 
@@ -40,19 +40,21 @@ The 3rd highest number of forms (1) was observed with the lemma “1,500+m”: 1
 
 ## Relations
 
-`SYM` nodes are attached to their parents using 2 different relations: <tt><a href="ko_kaist-dep-punct.html">punct</a></tt> (251; 97% instances), <tt><a href="ko_kaist-dep-dep.html">dep</a></tt> (9; 3% instances)
+`SYM` nodes are attached to their parents using 6 different relations: <tt><a href="ko_kaist-dep-nummod.html">nummod</a></tt> (237; 91% instances), <tt><a href="ko_kaist-dep-dep.html">dep</a></tt> (9; 3% instances), <tt><a href="ko_kaist-dep-root.html">root</a></tt> (6; 2% instances), <tt><a href="ko_kaist-dep-conj.html">conj</a></tt> (5; 2% instances), <tt><a href="ko_kaist-dep-compound.html">compound</a></tt> (2; 1% instances), <tt><a href="ko_kaist-dep-obj.html">obj</a></tt> (1; 0% instances)
 
-Parents of `SYM` nodes belong to 5 different parts of speech: <tt><a href="ko_kaist-pos-NUM.html">NUM</a></tt> (250; 96% instances), <tt><a href="ko_kaist-pos-NOUN.html">NOUN</a></tt> (5; 2% instances), <tt><a href="ko_kaist-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="ko_kaist-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ko_kaist-pos-VERB.html">VERB</a></tt> (1; 0% instances)
+Parents of `SYM` nodes belong to 10 different parts of speech: <tt><a href="ko_kaist-pos-VERB.html">VERB</a></tt> (90; 35% instances), <tt><a href="ko_kaist-pos-NOUN.html">NOUN</a></tt> (70; 27% instances), <tt><a href="ko_kaist-pos-SCONJ.html">SCONJ</a></tt> (27; 10% instances), <tt><a href="ko_kaist-pos-ADV.html">ADV</a></tt> (22; 8% instances), <tt><a href="ko_kaist-pos-NUM.html">NUM</a></tt> (21; 8% instances), <tt><a href="ko_kaist-pos-ADJ.html">ADJ</a></tt> (10; 4% instances), <tt><a href="ko_kaist-pos-CCONJ.html">CCONJ</a></tt> (7; 3% instances),  (6; 2% instances), <tt><a href="ko_kaist-pos-SYM.html">SYM</a></tt> (4; 2% instances), <tt><a href="ko_kaist-pos-PROPN.html">PROPN</a></tt> (3; 1% instances)
 
-256 (98%) `SYM` nodes are leaves.
+5 (2%) `SYM` nodes are leaves.
 
-2 (1%) `SYM` nodes have one child.
+211 (81%) `SYM` nodes have one child.
 
-2 (1%) `SYM` nodes have two children.
+26 (10%) `SYM` nodes have two children.
 
-The highest child degree of a `SYM` node is 2.
+18 (7%) `SYM` nodes have three or more children.
 
-Children of `SYM` nodes are attached using 4 different relations: <tt><a href="ko_kaist-dep-compound.html">compound</a></tt> (2; 33% instances), <tt><a href="ko_kaist-dep-punct.html">punct</a></tt> (2; 33% instances), <tt><a href="ko_kaist-dep-advmod.html">advmod</a></tt> (1; 17% instances), <tt><a href="ko_kaist-dep-dislocated.html">dislocated</a></tt> (1; 17% instances)
+The highest child degree of a `SYM` node is 3.
 
-Children of `SYM` nodes belong to 2 different parts of speech: <tt><a href="ko_kaist-pos-NOUN.html">NOUN</a></tt> (4; 67% instances), <tt><a href="ko_kaist-pos-PUNCT.html">PUNCT</a></tt> (2; 33% instances)
+Children of `SYM` nodes are attached using 6 different relations: <tt><a href="ko_kaist-dep-nummod.html">nummod</a></tt> (250; 79% instances), <tt><a href="ko_kaist-dep-punct.html">punct</a></tt> (62; 20% instances), <tt><a href="ko_kaist-dep-compound.html">compound</a></tt> (2; 1% instances), <tt><a href="ko_kaist-dep-dislocated.html">dislocated</a></tt> (1; 0% instances), <tt><a href="ko_kaist-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="ko_kaist-dep-obl.html">obl</a></tt> (1; 0% instances)
+
+Children of `SYM` nodes belong to 4 different parts of speech: <tt><a href="ko_kaist-pos-NUM.html">NUM</a></tt> (246; 78% instances), <tt><a href="ko_kaist-pos-PUNCT.html">PUNCT</a></tt> (62; 20% instances), <tt><a href="ko_kaist-pos-NOUN.html">NOUN</a></tt> (5; 2% instances), <tt><a href="ko_kaist-pos-SYM.html">SYM</a></tt> (4; 1% instances)
 

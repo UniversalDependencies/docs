@@ -37,32 +37,32 @@ The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
 # visual-style 13 15 iobj	color:blue
-1	我	_	PRON	_	_	2	nsubj	_	SpaceAfter=No
-2	選	_	VERB	_	_	6	reparandum	_	SpaceAfter=No
-3	立	_	NOUN	_	_	2	obj	_	SpaceAfter=No
-4	-	_	PUNCT	_	_	2	punct	_	SpaceAfter=No
-5	我	_	PRON	_	_	6	nsubj	_	SpaceAfter=No
-6	選	_	VERB	_	_	13	advcl	_	SpaceAfter=No
-7	呢個	_	PRON	_	_	6	obj	_	SpaceAfter=No
-8	學生會	_	NOUN	_	_	7	appos	_	SpaceAfter=No
-9	，	_	PUNCT	_	_	13	punct	_	SpaceAfter=No
-10	我	_	PRON	_	_	13	nsubj	_	SpaceAfter=No
-11	都	_	ADV	_	_	13	advmod	_	SpaceAfter=No
-12	要	_	AUX	_	_	13	aux	_	SpaceAfter=No
-13	畀	_	VERB	_	_	0	root	_	SpaceAfter=No
-14	個	_	NOUN	_	NounType=Clf	15	det	_	SpaceAfter=No
-15	學生證	_	NOUN	_	_	13	iobj	_	SpaceAfter=No
-16	佢	_	PRON	_	_	13	obj	_	SpaceAfter=No
-17	睇	_	VERB	_	_	13	xcomp	_	SpaceAfter=No
-18	下	_	ADV	_	_	17	advmod	_	SpaceAfter=No
-19	我	_	PRON	_	_	24	nsubj	_	SpaceAfter=No
-20	係咪	_	ADV	_	_	24	advmod	_	SpaceAfter=No
-21	個	_	NOUN	_	NounType=Clf	22	det	_	SpaceAfter=No
-22	學校	_	NOUN	_	_	24	nmod	_	SpaceAfter=No
-23	嘅	_	PART	_	_	22	case	_	SpaceAfter=No
-24	學生	_	NOUN	_	_	17	ccomp	_	SpaceAfter=No
-25	啦	_	PART	_	_	13	discourse:sp	_	SpaceAfter=No
-26	。	_	PUNCT	_	_	13	punct	_	SpaceAfter=No
+1	我	我	PRON	_	_	2	nsubj	_	SpaceAfter=No
+2	選	選	VERB	_	_	6	reparandum	_	SpaceAfter=No
+3	立	立	NOUN	_	_	2	obj	_	SpaceAfter=No
+4	-	-	PUNCT	_	_	2	punct	_	SpaceAfter=No
+5	我	我	PRON	_	_	6	nsubj	_	SpaceAfter=No
+6	選	選	VERB	_	_	13	advcl	_	SpaceAfter=No
+7	呢個	呢個	PRON	_	_	6	obj	_	SpaceAfter=No
+8	學生會	學生會	NOUN	_	_	7	appos	_	SpaceAfter=No
+9	，	，	PUNCT	_	_	13	punct	_	SpaceAfter=No
+10	我	我	PRON	_	_	13	nsubj	_	SpaceAfter=No
+11	都	都	ADV	_	_	13	advmod	_	SpaceAfter=No
+12	要	要	AUX	_	_	13	aux	_	SpaceAfter=No
+13	畀	畀	VERB	_	_	0	root	_	SpaceAfter=No
+14	個	個	NOUN	_	NounType=Clf	15	clf:det	_	SpaceAfter=No
+15	學生證	學生證	NOUN	_	_	13	iobj	_	SpaceAfter=No
+16	佢	佢	PRON	_	_	13	obj	_	SpaceAfter=No
+17	睇	睇	VERB	_	_	13	xcomp	_	SpaceAfter=No
+18	下	下	ADV	_	_	17	advmod	_	SpaceAfter=No
+19	我	我	PRON	_	_	24	nsubj	_	SpaceAfter=No
+20	係咪	係	ADV	_	_	24	advmod	_	SpaceAfter=No
+21	個	個	NOUN	_	NounType=Clf	22	clf:det	_	SpaceAfter=No
+22	學校	學校	NOUN	_	_	24	nmod	_	SpaceAfter=No
+23	嘅	嘅	PART	_	_	22	case	_	SpaceAfter=No
+24	學生	學生	NOUN	_	_	17	ccomp	_	SpaceAfter=No
+25	啦	喇	PART	_	_	13	discourse:sp	_	SpaceAfter=No
+26	。	。	PUNCT	_	_	13	punct	_	SpaceAfter=No
 
 ~~~
 

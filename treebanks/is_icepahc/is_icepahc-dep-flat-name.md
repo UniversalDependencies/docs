@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of .
 There are also 1 other language-specific subtypes of `flat`: <tt><a href="is_icepahc-dep-flat-foreign.html">flat:foreign</a></tt>.
 
-3389 nodes (0%) are attached to their parents as `flat:name`.
+3390 nodes (0%) are attached to their parents as `flat:name`.
 
-3389 instances of `flat:name` (100%) are left-to-right (parent precedes child).
+3390 instances of `flat:name` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 2 pairs of parts of speech are connected with `flat:name`: <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> (3385; 100% instances), <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> (4; 0% instances).
+The following 2 pairs of parts of speech are connected with `flat:name`: <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> (3386; 100% instances), <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> (4; 0% instances).
 
 
 ~~~ conllu
@@ -45,7 +45,7 @@ The following 2 pairs of parts of speech are connected with `flat:name`: <tt><a 
 2	segja	segja	VERB	VBPI	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	IFD_tag=sfg3fn
 3	menn	maður	NOUN	NS-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	2	nsubj	_	IFD_tag=nkfn
 4	og	og	ADV	ALSO	_	2	advmod	_	IFD_tag=aa|SpaceAfter=No
-5	,	,	PUNCT	,	_	4	punct	_	IFD_tag=
+5	,	,	PUNCT	,	_	4	punct	_	IFD_tag
 6	að	að	SCONJ	C	_	10	mark	_	IFD_tag=c
 7	inn	hinn	DET	D-N	_	8	det	_	IFD_tag=aa
 8	helgi	helgur	ADJ	ADJ-N	Case=Acc|Definite=Def|Degree=Pos|Gender=Neut|Number=Sing	10	nsubj	_	IFD_tag=lheovf

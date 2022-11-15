@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-333 nodes (3%) are attached to their parents as `obj`.
+334 nodes (3%) are attached to their parents as `obj`.
 
-317 instances of `obj` (95%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.07207207207207.
+318 instances of `obj` (95%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.0688622754491.
 
-The following 5 pairs of parts of speech are connected with `obj`: <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (265; 80% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt> (60; 18% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt> (4; 1% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `obj`: <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (266; 80% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt> (60; 18% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt> (4; 1% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -65,8 +65,8 @@ The following 5 pairs of parts of speech are connected with `obj`: <tt><a href="
 7	,	,	PUNCT	cm	_	8	punct	_	_
 8	jina	jin	NOUN	n	Case=Con|Definite=Def|Gender=Fem|Number=Sing	6	appos	_	_
 9	xwe	xwe	PRON	prn	Gender=Fem,Masc|Number=Plur,Sing|PronType=Prs|Reflex=Yes	8	nmod:poss	_	_
-10	ya	yê	ADP	con	AdpType=Post|Gender=Fem|Number=Sing	8	case	_	_
-11	pêşerojê	pêşeroj	NOUN	n	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	10	nmod:poss	_	SpaceAfter=No
+10	ya	yê	ADP	con	AdpType=Post|Gender=Fem|Number=Sing	11	case	_	_
+11	pêşerojê	pêşeroj	NOUN	n	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	8	nmod:poss	_	SpaceAfter=No
 12	,	,	PUNCT	cm	_	6	punct	_	_
 13	nas kir	naskirin	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 14	.	.	PUNCT	sent	_	13	punct	_	_

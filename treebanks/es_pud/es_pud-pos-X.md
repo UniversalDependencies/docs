@@ -13,7 +13,7 @@ The 10 most frequent `X` lemmas: <em>cápita, per, _, bjórr, ey, kven, maiorum,
 
 The 10 most frequent `X` types:  <em>cápita, per, Ey, Oblast, Yum, bjórr, kven, maiorum, meänkieli, mos</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 1335, <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> 1314, <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> 863, <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> 307, <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 229, <tt><a href="es_pud-pos-DET.html">DET</a></tt> 200, <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> 79, <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> 54, <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> 22, <tt><a href="es_pud-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 1332, <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> 1309, <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> 862, <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> 307, <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 229, <tt><a href="es_pud-pos-DET.html">DET</a></tt> 200, <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> 79, <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> 53, <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> 22, <tt><a href="es_pud-pos-X.html">X</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>poder</em> (<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> 2, <tt><a href="es_pud-pos-X.html">X</a></tt> 1)
 
@@ -25,7 +25,7 @@ The 10 most frequent ambiguous types:  <em>poder</em> (<tt><a href="es_pud-pos-N
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.680707).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.678426).
 
 The 1st highest number of forms (1) was observed with the lemma “_”: <em>poder</em>.
 

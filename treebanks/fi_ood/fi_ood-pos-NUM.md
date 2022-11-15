@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>yksi</em> (<tt><a href="fi_ood-pos-NU
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.123656 (the average of all parts of speech is 1.566403).
+The form / lemma ratio of `NUM` is 1.123656 (the average of all parts of speech is 1.566190).
 
 The 1st highest number of forms (5) was observed with the lemma “sata”: <em>sadan, sadasta, sata, satoja, satojen</em>.
 

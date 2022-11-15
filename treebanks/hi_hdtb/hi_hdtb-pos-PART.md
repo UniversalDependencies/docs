@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  नहीं (<tt><a href="hi_hdtb-pos-PA
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.016393 (the average of all parts of speech is 1.203447).
+The form / lemma ratio of `PART` is 1.016393 (the average of all parts of speech is 1.200484).
 
 The 1st highest number of forms (3) was observed with the lemma “सा”: सा, सी, से.
 
@@ -81,15 +81,15 @@ Parents of `PART` nodes belong to 10 different parts of speech: <tt><a href="hi_
 
 6981 (100%) `PART` nodes are leaves.
 
-21 (0%) `PART` nodes have one child.
+22 (0%) `PART` nodes have one child.
 
-3 (0%) `PART` nodes have two children.
+2 (0%) `PART` nodes have two children.
 
 4 (0%) `PART` nodes have three or more children.
 
 The highest child degree of a `PART` node is 6.
 
-Children of `PART` nodes are attached using 8 different relations: <tt><a href="hi_hdtb-dep-punct.html">punct</a></tt> (19; 45% instances), <tt><a href="hi_hdtb-dep-mark.html">mark</a></tt> (5; 12% instances), <tt><a href="hi_hdtb-dep-nsubj.html">nsubj</a></tt> (5; 12% instances), <tt><a href="hi_hdtb-dep-compound.html">compound</a></tt> (4; 10% instances), <tt><a href="hi_hdtb-dep-dep.html">dep</a></tt> (4; 10% instances), <tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt> (3; 7% instances), <tt><a href="hi_hdtb-dep-amod.html">amod</a></tt> (1; 2% instances), <tt><a href="hi_hdtb-dep-cc.html">cc</a></tt> (1; 2% instances)
+Children of `PART` nodes are attached using 10 different relations: <tt><a href="hi_hdtb-dep-punct.html">punct</a></tt> (10; 24% instances), <tt><a href="hi_hdtb-dep-case.html">case</a></tt> (7; 17% instances), <tt><a href="hi_hdtb-dep-mark.html">mark</a></tt> (5; 12% instances), <tt><a href="hi_hdtb-dep-nsubj.html">nsubj</a></tt> (5; 12% instances), <tt><a href="hi_hdtb-dep-compound.html">compound</a></tt> (4; 10% instances), <tt><a href="hi_hdtb-dep-dep.html">dep</a></tt> (4; 10% instances), <tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt> (3; 7% instances), <tt><a href="hi_hdtb-dep-advmod.html">advmod</a></tt> (1; 2% instances), <tt><a href="hi_hdtb-dep-amod.html">amod</a></tt> (1; 2% instances), <tt><a href="hi_hdtb-dep-cc.html">cc</a></tt> (1; 2% instances)
 
-Children of `PART` nodes belong to 10 different parts of speech: <tt><a href="hi_hdtb-pos-PUNCT.html">PUNCT</a></tt> (10; 24% instances), <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> (8; 19% instances), <tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (4; 10% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (4; 10% instances), <tt><a href="hi_hdtb-pos-SCONJ.html">SCONJ</a></tt> (4; 10% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (4; 10% instances), <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (3; 7% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (2; 5% instances), <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> (2; 5% instances), <tt><a href="hi_hdtb-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances)
+Children of `PART` nodes belong to 10 different parts of speech: <tt><a href="hi_hdtb-pos-PUNCT.html">PUNCT</a></tt> (10; 24% instances), <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> (7; 17% instances), <tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (4; 10% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (4; 10% instances), <tt><a href="hi_hdtb-pos-SCONJ.html">SCONJ</a></tt> (4; 10% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (4; 10% instances), <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (3; 7% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (2; 5% instances), <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> (2; 5% instances), <tt><a href="hi_hdtb-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances)
 

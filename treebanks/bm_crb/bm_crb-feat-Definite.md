@@ -34,5 +34,5 @@ The most frequent other feature values with which `PRON` and `Definite` co-occur
 `PRON` tokens may have the following values of `Definite`:
 
 * `Def` (28; 100% of non-empty `Definite`): <em>nin</em>
-* `EMPTY` (2484): <em>a, n, o, i, u, ne, e, ale, olu, an</em>
+* `EMPTY` (2478): <em>a, n, o, i, u, ne, e, ale, olu, an</em>
 

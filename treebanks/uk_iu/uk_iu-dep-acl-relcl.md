@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="uk_iu-dep-acl.html">acl</a></tt>.
 There are also 1 other language-specific subtypes of `acl`: <tt><a href="uk_iu-dep-acl-adv.html">acl:adv</a></tt>.
 
-1154 nodes (1%) are attached to their parents as `acl:relcl`.
+1156 nodes (1%) are attached to their parents as `acl:relcl`.
 
-1149 instances of `acl:relcl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.25649913344887.
+1151 instances of `acl:relcl` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.26124567474048.
 
-The following 21 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (820; 71% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (73; 6% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (66; 6% instances), <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (53; 5% instances), <tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (40; 3% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (29; 3% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (28; 2% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (11; 1% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (6; 1% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="uk_iu-pos-X.html">X</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="uk_iu-pos-NUM.html">NUM</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 21 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (821; 71% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (73; 6% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (66; 6% instances), <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (53; 5% instances), <tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (40; 3% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (29; 3% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (29; 3% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (11; 1% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (6; 1% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="uk_iu-pos-X.html">X</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="uk_iu-pos-NUM.html">NUM</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -31,7 +31,7 @@ The following 21 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 6	неї	вона	PRON	Pp-3f-san	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obl	4:obl	Id=11z0|LTranslit=vona|Translit=neji
 7	як	як	SCONJ	Css	_	9	mark	9:mark	Id=11z1|LTranslit=jak|Translit=jak
 8	у	у	ADP	Spsa	Case=Acc	9	case	9:case	Id=11z2|LTranslit=u|Translit=u
-9	жінку	жінка	NOUN	Ncfsay	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	4	advcl	4:advcl|13:obj:rel	Id=11z3|LTranslit=žinka|SpaceAfter=No|Translit=žinku
+9	жінку	жінка	NOUN	Ncfsay	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	4	advcl	4:advcl|13:obj	Id=11z3|LTranslit=žinka|SpaceAfter=No|Translit=žinku
 10	,	,	PUNCT	U	_	13	punct	13:punct	Id=11z4|LTranslit=,|Translit=,
 11	яких	який	DET	Pr----pga	Case=Gen|Number=Plur|PronType=Rel	13	obj	9:ref|13:obj	Id=11z5|LTranslit=jakyj|Translit=jakych
 12	не	не	PART	Q	Polarity=Neg	13	advmod	13:advmod	Id=11z6|LTranslit=ne|Translit=ne
@@ -49,7 +49,7 @@ The following 21 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 # visual-style 3 5 acl:relcl	color:blue
 1	Дідусь	дідусь	NOUN	Ncmsny	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	7:nsubj|9:nsubj	Id=02tp|LTranslit=diduś|SpaceAfter=No|Translit=Diduś
 2	,	,	PUNCT	U	_	3	punct	3:punct	Id=02tq|LTranslit=,|Translit=,
-3	той	той	DET	Pd--m-sna	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	7	dislocated	5:nsubj:rel|7:dislocated|9:dislocated	Id=02tr|LTranslit=toj|Translit=toj
+3	той	той	DET	Pd--m-sna	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	7	dislocated	5:nsubj|7:dislocated|9:dislocated	Id=02tr|LTranslit=toj|Translit=toj
 4	що	що	SCONJ	Css	_	5	mark	5:mark	Id=02ts|LTranslit=ščo|Translit=ščo
 5	атестував	атестувати	VERB	Vmpis-sm	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	3	acl:relcl	3:acl:relcl	Id=02tt|LTranslit=atestuvaty|SpaceAfter=No|Translit=atestuvav
 6	,	,	PUNCT	U	_	5	punct	5:punct	Id=02tu|LTranslit=,|Translit=,
@@ -69,7 +69,7 @@ The following 21 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 # visual-style 3 7 acl:relcl	color:blue
 1	Є	бути	VERB	Vapip3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Id=1zv1|LTranslit=buty|Translit=Ě
 2	скоріше	скоріше	ADV	Rc	Degree=Cmp	1	advmod	1:advmod	Id=1zv2|LTranslit=skoriše|Translit=skoriše
-3	велич	велич	NOUN	Ncfsnn	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	nsubj	1:nsubj|7:nsubj:rel	Id=1zv3|LTranslit=velyč|Translit=velyč
+3	велич	велич	NOUN	Ncfsnn	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	nsubj	1:nsubj|7:nsubj	Id=1zv3|LTranslit=velyč|Translit=velyč
 4	безвладности	безвладність	NOUN	Ncfsgn	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing|Orth=Alt	3	nmod	3:nmod	Id=1zv4|LTranslit=bezvladnisť|SpaceAfter=No|Translit=bezvladnosty
 5	,	,	PUNCT	U	_	7	punct	7:punct	Id=1zv5|LTranslit=,|Translit=,
 6	що	що	SCONJ	Css	_	7	mark	7:mark	Id=1zv6|LTranslit=ščo|Translit=ščo

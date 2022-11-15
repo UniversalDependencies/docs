@@ -30,7 +30,7 @@ The following 1 pairs of parts of speech are connected with `iobj:agent`: <tt><a
 6	le	le	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
 7	lui	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	iobj:agent	_	_
 8	font	faire	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux:caus	_	_
-9	remarquer	remarquer	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
+9	remarquer	remarquer	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No|Subject=Generic
 10	.	.	PUNCT	_	_	9	punct	_	_
 
 ~~~

@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>кейін</em> (<tt><a href="kk_ktb-
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.135135 (the average of all parts of speech is 1.743774).
+The form / lemma ratio of `ADP` is 1.135135 (the average of all parts of speech is 1.746869).
 
 The 1st highest number of forms (4) was observed with the lemma “лы”: <em>ді, л, лы, ті</em>.
 

@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>de</em> (<tt><a href="de_gsd-pos-PROP
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.033786 (the average of all parts of speech is 1.187208).
+The form / lemma ratio of `PROPN` is 1.033786 (the average of all parts of speech is 1.187276).
 
 The 1st highest number of forms (5) was observed with the lemma “deutsch”: <em>Deutsch, Deutsche, Deutschen, Deutscher, Deutsches</em>.
 

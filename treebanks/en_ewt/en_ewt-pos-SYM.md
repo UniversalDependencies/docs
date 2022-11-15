@@ -6,32 +6,28 @@ udver: '2'
 
 ## Treebank Statistics: UD_English-EWT: POS Tags: `SYM`
 
-There are 67 `SYM` lemmas (0%), 67 `SYM` types (0%) and 883 `SYM` tokens (0%).
+There are 67 `SYM` lemmas (0%), 67 `SYM` types (0%) and 886 `SYM` tokens (0%).
 Out of 17 observed tags, the rank of `SYM` is: 11 in number of lemmas, 14 in number of types and 17 in number of tokens.
 
-The 10 most frequent `SYM` lemmas: <em>$, /, -, :), #, %, +, :(, :-), a</em>
+The 10 most frequent `SYM` lemmas: <em>$, /, -, :), #, %, +, :(, :-), A</em>
 
 The 10 most frequent `SYM` types:  <em>$, /, -, :), #, %, +, :(, :-), A</em>
 
-The 10 most frequent ambiguous lemmas: <em>$</em> (<tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 293, <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> 3), <em>/</em> (<tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 153, <tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 121, <tt><a href="en_ewt-pos-X.html">X</a></tt> 2), <em>-</em> (<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 1649, <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 119, <tt><a href="en_ewt-pos-X.html">X</a></tt> 6), <em>%</em> (<tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 46, <tt><a href="en_ewt-pos-X.html">X</a></tt> 1), <em>+</em> (<tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 23, <tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 2, <tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> 1), <em>a</em> (<tt><a href="en_ewt-pos-DET.html">DET</a></tt> 5354, <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> 14, <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> 7, <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 6, <tt><a href="en_ewt-pos-X.html">X</a></tt> 4, <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 1), <em>x</em> (<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> 10, <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 6, <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> 1, <tt><a href="en_ewt-pos-X.html">X</a></tt> 1), <em>...</em> (<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 325, <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 5), <em>@</em> (<tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> 27, <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 4), <em>></em> (<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 70, <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 3)
+The 10 most frequent ambiguous lemmas: <em>$</em> (<tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 293, <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> 3), <em>/</em> (<tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 155, <tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 122), <em>-</em> (<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 1647, <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 119, <tt><a href="en_ewt-pos-X.html">X</a></tt> 6), <em>+</em> (<tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 23, <tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 2, <tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> 1), <em>A</em> (<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> 10, <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 8, <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> 5, <tt><a href="en_ewt-pos-X.html">X</a></tt> 1), <em>x</em> (<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 5, <tt><a href="en_ewt-pos-X.html">X</a></tt> 1), <em>...</em> (<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 325, <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 5), <em>@</em> (<tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> 28, <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 4), <em>></em> (<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 70, <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 3), <em>=</em> (<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 6, <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 2)
 
-The 10 most frequent ambiguous types:  <em>$</em> (<tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 293, <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> 3), <em>/</em> (<tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 153, <tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 121, <tt><a href="en_ewt-pos-X.html">X</a></tt> 2), <em>-</em> (<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 1628, <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 119, <tt><a href="en_ewt-pos-X.html">X</a></tt> 8), <em>%</em> (<tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 46, <tt><a href="en_ewt-pos-X.html">X</a></tt> 1), <em>+</em> (<tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 23, <tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 2, <tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> 1), <em>A</em> (<tt><a href="en_ewt-pos-DET.html">DET</a></tt> 187, <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> 10, <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 8, <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> 7, <tt><a href="en_ewt-pos-X.html">X</a></tt> 4, <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> 1, <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> 1), <em>x</em> (<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 5, <tt><a href="en_ewt-pos-X.html">X</a></tt> 1), <em>...</em> (<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 325, <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 5), <em>@</em> (<tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> 28, <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 4, <tt><a href="en_ewt-pos-X.html">X</a></tt> 3), <em>></em> (<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 70, <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 3)
+The 10 most frequent ambiguous types:  <em>$</em> (<tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 293, <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> 3), <em>/</em> (<tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 155, <tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 122), <em>-</em> (<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 1626, <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 119, <tt><a href="en_ewt-pos-X.html">X</a></tt> 8), <em>+</em> (<tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 23, <tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 2, <tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> 1), <em>A</em> (<tt><a href="en_ewt-pos-DET.html">DET</a></tt> 187, <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> 10, <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 8, <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> 7, <tt><a href="en_ewt-pos-X.html">X</a></tt> 4, <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> 1, <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> 1), <em>x</em> (<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 5, <tt><a href="en_ewt-pos-X.html">X</a></tt> 1), <em>...</em> (<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 325, <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 5), <em>@</em> (<tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> 28, <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 4, <tt><a href="en_ewt-pos-X.html">X</a></tt> 3), <em>></em> (<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 70, <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 3), <em>=</em> (<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 7, <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 2)
 
 
 * <em>$</em>
   * <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 293: <em>I am expecting to pay something in the <b>$</b> 3, to <b>$</b> 5,000 range .</em>
   * <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> 3: <em>FAST and reasonable <b>$</b></em>
 * <em>/</em>
-  * <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 153: <em>And what is their big <b>/</b> main meal of the day .</em>
-  * <tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 121: <em>Rudwell Johnson <b>/</b> ENRON@enronXgate</em>
-  * <tt><a href="en_ewt-pos-X.html">X</a></tt> 2: <em>Hop onto a Hop On <b>/</b> Hop Off bus .</em>
+  * <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 155: <em>And what is their big <b>/</b> main meal of the day .</em>
+  * <tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 122: <em>Rudwell Johnson <b>/</b> ENRON@enronXgate</em>
 * <em>-</em>
-  * <tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 1628: <em>TEHRAN ( AFP ) <b>-</b></em>
+  * <tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 1626: <em>TEHRAN ( AFP ) <b>-</b></em>
   * <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 119: <em>Intercept : <b>-</b> 0.3931 ( 0.0076 )</em>
   * <tt><a href="en_ewt-pos-X.html">X</a></tt> 8: <em><< Compaq.com <b>-</b> notebook.url >></em>
-* <em>%</em>
-  * <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 46: <em>Would 100 <b>%</b> recomend to others for a great service .</em>
-  * <tt><a href="en_ewt-pos-X.html">X</a></tt> 1: <em><b>%</b></em>
 * <em>+</em>
   * <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 23: <em>What are some GOOD 18 <b>+</b> clubs in the bay area ?</em>
   * <tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 2: <em><b>+</b> As the implications of the Andaman Islands situation sink in , Indian intelligence has inevitably come under scrutiny .</em>
@@ -58,10 +54,13 @@ The 10 most frequent ambiguous types:  <em>$</em> (<tt><a href="en_ewt-pos-SYM.h
 * <em>></em>
   * <tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 70: <em>" Les Spahnn " < spahnn@hnks.com <b>></b></em>
   * <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 3: <em><b>></b> 100,000 Newsgroups</em>
+* <em>=</em>
+  * <tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 7: <em><b>=</b> Executive Orders -</em>
+  * <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> 2: <em>Floating Amount <b>=</b> ( Notional Quantity per Calculation Period X Floating Price ) - USD [ 38,000 ? ]</em>
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.228673).
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.233118).
 
 The 1st highest number of forms (1) was observed with the lemma “#”: <em>#</em>.
 
@@ -69,22 +68,22 @@ The 2nd highest number of forms (1) was observed with the lemma “###”: <em>#
 
 The 3rd highest number of forms (1) was observed with the lemma “$”: <em>$</em>.
 
-`SYM` occurs with 1 features: <tt><a href="en_ewt-feat-Number.html">Number</a></tt> (97; 11% instances)
+`SYM` occurs with 1 features: <tt><a href="en_ewt-feat-Number.html">Number</a></tt> (98; 11% instances)
 
 `SYM` occurs with 1 feature-value pairs: `Number=Sing`
 
 `SYM` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (786 tokens).
+The most frequent feature combination is `_` (788 tokens).
 Examples: <em>$, /, -, :), +, :(, :-), A, :D, x</em>
 
 
 ## Relations
 
-`SYM` nodes are attached to their parents using 23 different relations: <tt><a href="en_ewt-dep-cc.html">cc</a></tt> (144; 16% instances), <tt><a href="en_ewt-dep-case.html">case</a></tt> (128; 14% instances), <tt><a href="en_ewt-dep-root.html">root</a></tt> (123; 14% instances), <tt><a href="en_ewt-dep-discourse.html">discourse</a></tt> (117; 13% instances), <tt><a href="en_ewt-dep-compound.html">compound</a></tt> (79; 9% instances), <tt><a href="en_ewt-dep-obj.html">obj</a></tt> (67; 8% instances), <tt><a href="en_ewt-dep-obl.html">obl</a></tt> (40; 5% instances), <tt><a href="en_ewt-dep-nmod.html">nmod</a></tt> (39; 4% instances), <tt><a href="en_ewt-dep-appos.html">appos</a></tt> (29; 3% instances), <tt><a href="en_ewt-dep-conj.html">conj</a></tt> (21; 2% instances), <tt><a href="en_ewt-dep-list.html">list</a></tt> (19; 2% instances), <tt><a href="en_ewt-dep-obl-npmod.html">obl:npmod</a></tt> (18; 2% instances), <tt><a href="en_ewt-dep-advmod.html">advmod</a></tt> (17; 2% instances), <tt><a href="en_ewt-dep-parataxis.html">parataxis</a></tt> (15; 2% instances), <tt><a href="en_ewt-dep-nmod-npmod.html">nmod:npmod</a></tt> (6; 1% instances), <tt><a href="en_ewt-dep-nsubj-pass.html">nsubj:pass</a></tt> (6; 1% instances), <tt><a href="en_ewt-dep-amod.html">amod</a></tt> (4; 0% instances), <tt><a href="en_ewt-dep-nsubj.html">nsubj</a></tt> (3; 0% instances), <tt><a href="en_ewt-dep-acl-relcl.html">acl:relcl</a></tt> (2; 0% instances), <tt><a href="en_ewt-dep-ccomp.html">ccomp</a></tt> (2; 0% instances), <tt><a href="en_ewt-dep-xcomp.html">xcomp</a></tt> (2; 0% instances), <tt><a href="en_ewt-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="en_ewt-dep-reparandum.html">reparandum</a></tt> (1; 0% instances)
+`SYM` nodes are attached to their parents using 23 different relations: <tt><a href="en_ewt-dep-cc.html">cc</a></tt> (146; 16% instances), <tt><a href="en_ewt-dep-case.html">case</a></tt> (128; 14% instances), <tt><a href="en_ewt-dep-root.html">root</a></tt> (124; 14% instances), <tt><a href="en_ewt-dep-discourse.html">discourse</a></tt> (117; 13% instances), <tt><a href="en_ewt-dep-compound.html">compound</a></tt> (79; 9% instances), <tt><a href="en_ewt-dep-obj.html">obj</a></tt> (67; 8% instances), <tt><a href="en_ewt-dep-obl.html">obl</a></tt> (40; 5% instances), <tt><a href="en_ewt-dep-nmod.html">nmod</a></tt> (39; 4% instances), <tt><a href="en_ewt-dep-appos.html">appos</a></tt> (29; 3% instances), <tt><a href="en_ewt-dep-conj.html">conj</a></tt> (21; 2% instances), <tt><a href="en_ewt-dep-list.html">list</a></tt> (19; 2% instances), <tt><a href="en_ewt-dep-obl-npmod.html">obl:npmod</a></tt> (18; 2% instances), <tt><a href="en_ewt-dep-advmod.html">advmod</a></tt> (17; 2% instances), <tt><a href="en_ewt-dep-parataxis.html">parataxis</a></tt> (15; 2% instances), <tt><a href="en_ewt-dep-nmod-npmod.html">nmod:npmod</a></tt> (6; 1% instances), <tt><a href="en_ewt-dep-nsubj-pass.html">nsubj:pass</a></tt> (6; 1% instances), <tt><a href="en_ewt-dep-amod.html">amod</a></tt> (4; 0% instances), <tt><a href="en_ewt-dep-nsubj.html">nsubj</a></tt> (3; 0% instances), <tt><a href="en_ewt-dep-acl-relcl.html">acl:relcl</a></tt> (2; 0% instances), <tt><a href="en_ewt-dep-ccomp.html">ccomp</a></tt> (2; 0% instances), <tt><a href="en_ewt-dep-xcomp.html">xcomp</a></tt> (2; 0% instances), <tt><a href="en_ewt-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="en_ewt-dep-reparandum.html">reparandum</a></tt> (1; 0% instances)
 
-Parents of `SYM` nodes belong to 12 different parts of speech: <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (267; 30% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (204; 23% instances),  (123; 14% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (120; 14% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (60; 7% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (48; 5% instances), <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> (37; 4% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (10; 1% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (7; 1% instances), <tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (5; 1% instances), <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt> (1; 0% instances)
+Parents of `SYM` nodes belong to 12 different parts of speech: <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (266; 30% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (206; 23% instances),  (124; 14% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (120; 14% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (61; 7% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (48; 5% instances), <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> (37; 4% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (10; 1% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (7; 1% instances), <tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (5; 1% instances), <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt> (1; 0% instances)
 
-472 (53%) `SYM` nodes are leaves.
+475 (54%) `SYM` nodes are leaves.
 
 140 (16%) `SYM` nodes have one child.
 

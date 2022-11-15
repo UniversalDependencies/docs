@@ -15,11 +15,11 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 1329 tokens (13%) have a non-empty value of `Number[psor]`.
 993 types (23%) occur at least once with a non-empty value of `Number[psor]`.
 606 lemmas (25%) occur at least once with a non-empty value of `Number[psor]`.
-The feature is used with 7 part-of-speech tags: <tt><a href="kk_ktb-pos-NOUN.html">NOUN</a></tt> (1132; 11% instances), <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt> (70; 1% instances), <tt><a href="kk_ktb-pos-PRON.html">PRON</a></tt> (48; 0% instances), <tt><a href="kk_ktb-pos-AUX.html">AUX</a></tt> (28; 0% instances), <tt><a href="kk_ktb-pos-NUM.html">NUM</a></tt> (28; 0% instances), <tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> (21; 0% instances), <tt><a href="kk_ktb-pos-PROPN.html">PROPN</a></tt> (2; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="kk_ktb-pos-NOUN.html">NOUN</a></tt> (1132; 11% instances), <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt> (72; 1% instances), <tt><a href="kk_ktb-pos-PRON.html">PRON</a></tt> (48; 0% instances), <tt><a href="kk_ktb-pos-NUM.html">NUM</a></tt> (28; 0% instances), <tt><a href="kk_ktb-pos-AUX.html">AUX</a></tt> (26; 0% instances), <tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> (21; 0% instances), <tt><a href="kk_ktb-pos-PROPN.html">PROPN</a></tt> (2; 0% instances).
 
 ### `NOUN`
 
-1132 <tt><a href="kk_ktb-pos-NOUN.html">NOUN</a></tt> tokens (36% of all `NOUN` tokens) have a non-empty value of `Number[psor]`.
+1132 <tt><a href="kk_ktb-pos-NOUN.html">NOUN</a></tt> tokens (37% of all `NOUN` tokens) have a non-empty value of `Number[psor]`.
 
 The most frequent other feature values with which `NOUN` and `Number[psor]` co-occurred: <tt><a href="kk_ktb-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (1037; 92%), <tt><a href="kk_ktb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (984; 87%).
 
@@ -48,19 +48,18 @@ The most frequent other feature values with which `NOUN` and `Number[psor]` co-o
 
 ### `VERB`
 
-70 <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt> tokens (4% of all `VERB` tokens) have a non-empty value of `Number[psor]`.
+72 <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt> tokens (4% of all `VERB` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `VERB` and `Number[psor]` co-occurred: <tt><a href="kk_ktb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (70; 100%), <tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (70; 100%), <tt><a href="kk_ktb-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt> (69; 99%), <tt><a href="kk_ktb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (67; 96%), <tt><a href="kk_ktb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (65; 93%), <tt><a href="kk_ktb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (50; 71%), <tt><a href="kk_ktb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (48; 69%), <tt><a href="kk_ktb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (37; 53%).
+The most frequent other feature values with which `VERB` and `Number[psor]` co-occurred: <tt><a href="kk_ktb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (72; 100%), <tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (72; 100%), <tt><a href="kk_ktb-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt> (71; 99%), <tt><a href="kk_ktb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (69; 96%), <tt><a href="kk_ktb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (67; 93%), <tt><a href="kk_ktb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (51; 71%), <tt><a href="kk_ktb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (50; 69%), <tt><a href="kk_ktb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (38; 53%).
 
 `VERB` tokens may have the following values of `Number[psor]`:
 
 
 <table>
-  <tr><th>Paradigm <i>кел</i></th><th><tt>Plur,Sing</tt></th><th><tt>Sing</tt></th></tr>
-  <tr><td><tt><tt><a href="kk_ktb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="kk_ktb-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur,Sing</tt>|<tt><a href="kk_ktb-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="kk_ktb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>келгенін</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="kk_ktb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="kk_ktb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="kk_ktb-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="kk_ktb-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt>|<tt><a href="kk_ktb-feat-Polite.html">Polite</a></tt><tt>=Form</tt>|<tt><a href="kk_ktb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td><em>келгендеріңіз</em></td></tr>
-  <tr><td><tt><tt><a href="kk_ktb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="kk_ktb-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur,Sing</tt>|<tt><a href="kk_ktb-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="kk_ktb-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td><em>келмеуі</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="kk_ktb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="kk_ktb-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur,Sing</tt>|<tt><a href="kk_ktb-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td><em>келуі</em></td><td></td></tr>
+  <tr><th>Paradigm <i>көр</i></th><th><tt>Plur</tt></th><th><tt>Plur,Sing</tt></th><th><tt>Sing</tt></th></tr>
+  <tr><td><tt><tt><a href="kk_ktb-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="kk_ktb-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="kk_ktb-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt>|<tt><a href="kk_ktb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>көргеніме</em></td></tr>
+  <tr><td><tt><tt><a href="kk_ktb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="kk_ktb-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur,Sing</tt>|<tt><a href="kk_ktb-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="kk_ktb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td><em>көргені</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="kk_ktb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="kk_ktb-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="kk_ktb-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt></tt></td><td><em>көруіміз</em></td><td></td><td></td></tr>
 </table>
 
 `Number[psor]` seems to be **lexical feature** of `VERB`. 95% lemmas (57) occur only with one value of `Number[psor]`.
@@ -88,11 +87,20 @@ The most frequent other feature values with which `PRON` and `Number[psor]` co-o
   <tr><td><tt><tt><a href="kk_ktb-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur,Sing</tt>|<tt><a href="kk_ktb-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>өзінше, өзіндей</em></td><td></td></tr>
 </table>
 
+### `NUM`
+
+28 <tt><a href="kk_ktb-pos-NUM.html">NUM</a></tt> tokens (7% of all `NUM` tokens) have a non-empty value of `Number[psor]`.
+
+The most frequent other feature values with which `NUM` and `Number[psor]` co-occurred: <tt><a href="kk_ktb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (20; 71%).
+
+`NUM` tokens may have the following values of `Number[psor]`:
+
+
 ### `AUX`
 
-28 <tt><a href="kk_ktb-pos-AUX.html">AUX</a></tt> tokens (7% of all `AUX` tokens) have a non-empty value of `Number[psor]`.
+26 <tt><a href="kk_ktb-pos-AUX.html">AUX</a></tt> tokens (7% of all `AUX` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `AUX` and `Number[psor]` co-occurred: <tt><a href="kk_ktb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (28; 100%), <tt><a href="kk_ktb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (28; 100%), <tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (28; 100%), <tt><a href="kk_ktb-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt> (28; 100%), <tt><a href="kk_ktb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (26; 93%), <tt><a href="kk_ktb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (18; 64%).
+The most frequent other feature values with which `AUX` and `Number[psor]` co-occurred: <tt><a href="kk_ktb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (26; 100%), <tt><a href="kk_ktb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (26; 100%), <tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (26; 100%), <tt><a href="kk_ktb-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt> (26; 100%), <tt><a href="kk_ktb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (25; 96%), <tt><a href="kk_ktb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (24; 92%), <tt><a href="kk_ktb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (18; 69%).
 
 `AUX` tokens may have the following values of `Number[psor]`:
 
@@ -106,15 +114,6 @@ The most frequent other feature values with which `AUX` and `Number[psor]` co-oc
   <tr><td><tt><tt><a href="kk_ktb-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="kk_ktb-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="kk_ktb-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt>|<tt><a href="kk_ktb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td><em>болғаныма</em></td></tr>
   <tr><td><tt><tt><a href="kk_ktb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="kk_ktb-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur,Sing</tt>|<tt><a href="kk_ktb-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td><em>болуы</em></td><td></td></tr>
 </table>
-
-### `NUM`
-
-28 <tt><a href="kk_ktb-pos-NUM.html">NUM</a></tt> tokens (7% of all `NUM` tokens) have a non-empty value of `Number[psor]`.
-
-The most frequent other feature values with which `NUM` and `Number[psor]` co-occurred: <tt><a href="kk_ktb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (20; 71%).
-
-`NUM` tokens may have the following values of `Number[psor]`:
-
 
 ### `ADJ`
 

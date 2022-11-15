@@ -21,7 +21,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="ja_gsdluw-pos-AUX.h
 `AUX` tokens may have the following values of `Polarity`:
 
 * `Neg` (863; 100% of non-empty `Polarity`): ない, ず, ん, なかっ, なく, なけれ, なければならない, ぬ, ざるをえない, ざるを得ない
-* `EMPTY` (17525): た, れ, ている, な, てい, に, ます, です, である, まし
+* `EMPTY` (17530): た, れ, ている, な, てい, に, ます, です, である, まし
 
 ### `NOUN`
 
@@ -30,5 +30,5 @@ The feature is used with 2 part-of-speech tags: <tt><a href="ja_gsdluw-pos-AUX.h
 `NOUN` tokens may have the following values of `Polarity`:
 
 * `Neg` (3; 100% of non-empty `Polarity`): なし
-* `EMPTY` (35042): こと, ため, もの, 後, よう, 人, 中, 他, 場合, お店
+* `EMPTY` (35037): こと, ため, もの, 後, よう, 人, 中, 他, 場合, お店
 

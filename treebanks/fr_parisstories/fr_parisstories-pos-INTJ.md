@@ -6,85 +6,84 @@ udver: '2'
 
 ## Treebank Statistics: UD_French-ParisStories: POS Tags: `INTJ`
 
-There are 43 `INTJ` lemmas (2%), 43 `INTJ` types (1%) and 1688 `INTJ` tokens (6%).
-Out of 15 observed tags, the rank of `INTJ` is: 7 in number of lemmas, 7 in number of types and 8 in number of tokens.
+There are 33 `INTJ` lemmas (1%), 32 `INTJ` types (1%) and 2313 `INTJ` tokens (5%).
+Out of 15 observed tags, the rank of `INTJ` is: 9 in number of lemmas, 11 in number of types and 8 in number of tokens.
 
-The 10 most frequent `INTJ` lemmas: <em>euh, bah, bon, oui, ouais, quoi, genre, ah, bref, hein</em>
+The 10 most frequent `INTJ` lemmas: <em>euh, bah, ouais, bon, ah, quoi, hein, mh, ben, bref</em>
 
-The 10 most frequent `INTJ` types:  <em>euh, bah, bon, oui, ouais, quoi, genre, ah, bref, hein</em>
+The 10 most frequent `INTJ` types:  <em>euh, bah, ouais, bon, ah, quoi, hein, ben, mh, bref</em>
 
-The 10 most frequent ambiguous lemmas: <em>euh</em> (<tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 1237, <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> 1), <em>bon</em> (<tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 45, <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> 23, <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> 1, <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> 1, <tt><a href="fr_parisstories-pos-CCONJ.html">CCONJ</a></tt> 1), <em>oui</em> (<tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 39, <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> 9), <em>ouais</em> (<tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 34, <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> 8, <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> 1), <em>quoi</em> (<tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 33, <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> 17), <em>genre</em> (<tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 25, <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> 20, <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> 3), <em>bref</em> (<tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 19, <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> 1), <em>non</em> (<tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> 29, <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 11), <em>fin</em> (<tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> 8, <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> 2), <em>là</em> (<tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> 102, <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 3)
+The 10 most frequent ambiguous lemmas: <em>euh</em> (<tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 1604, <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> 1), <em>bon</em> (<tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 72, <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> 29, <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> 1, <tt><a href="fr_parisstories-pos-CCONJ.html">CCONJ</a></tt> 1), <em>quoi</em> (<tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 45, <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> 32), <em>tenir</em> (<tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 7, <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> 5, <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> 1), <em>ok</em> (<tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 5, <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> 4, <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> 2), <em>là</em> (<tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> 152, <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 3), <em>oui</em> (<tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> 77, <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 3), <em>parfait</em> (<tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 1), <em>si</em> (<tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt> 57, <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> 4, <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>euh</em> (<tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 1234, <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> 1), <em>bon</em> (<tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 45, <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> 6, <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> 1, <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> 1, <tt><a href="fr_parisstories-pos-CCONJ.html">CCONJ</a></tt> 1), <em>oui</em> (<tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 39, <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> 9), <em>ouais</em> (<tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 34, <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> 8, <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> 1), <em>quoi</em> (<tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 33, <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> 17), <em>genre</em> (<tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 25, <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> 20, <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> 3), <em>bref</em> (<tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 19, <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> 1), <em>non</em> (<tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> 29, <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 11), <em>tiens</em> (<tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 6, <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> 3), <em>fin</em> (<tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> 11, <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> 3)
+The 10 most frequent ambiguous types:  <em>euh</em> (<tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 1601, <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> 1), <em>bon</em> (<tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 72, <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> 10, <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> 1, <tt><a href="fr_parisstories-pos-CCONJ.html">CCONJ</a></tt> 1), <em>quoi</em> (<tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 45, <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> 32), <em>tiens</em> (<tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 9, <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> 2), <em>la</em> (<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> 457, <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> 15, <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 8), <em>ok</em> (<tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 5, <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> 3, <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> 2), <em>oui</em> (<tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> 77, <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 3), <em>là</em> (<tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> 132, <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 1), <em>parfait</em> (<tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 1), <em>si</em> (<tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt> 55, <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> 4, <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 1)
 
 
 * <em>euh</em>
-  * <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 1234: <em>xxx et <b>euh</b> , et voilà .</em>
+  * <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 1601: <em>XXX et <b>euh</b> , et voilà .</em>
   * <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> 1: <em><b>euh</b> , après , Adrien , il nous a rejoints , euh , dans dans la foulée , euh .</em>
 * <em>bon</em>
-  * <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 45: <em>oui , <b>bon</b> , c' était un karaoké .</em>
-  * <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> 6: <em>et mon quartier c' est pas un , c' est pas un quartier très <b>bon</b> .</em>
-  * <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> 1: <em>donc là , on arrive , on fait la queue , et là , les gens qui se plaignent , tout ça , <b>bon</b> bref , la France .</em>
+  * <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 72: <em>oui , <b>bon</b> , c' était un karaoké .</em>
+  * <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> 10: <em>elle en garde pas un <b>bon</b> souvenir .</em>
   * <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> 1: <em>enfin , déjà on voyait il y avait que des mauvais avis euh , sur le truc . mais <b>bon</b> pff .</em>
   * <tt><a href="fr_parisstories-pos-CCONJ.html">CCONJ</a></tt> 1: <em><b>bon</b> , c' était un , c' était pas un match extraordinaire , euh .</em>
-* <em>oui</em>
-  * <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 39: <em><b>oui</b> j' ai oublié ce que tu …</em>
-  * <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> 9: <em>donc <b>oui</b> c' est un peu bizarre mais c' était des colos à projets .</em>
-* <em>ouais</em>
-  * <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 34: <em>donc je lui demande euh , ah <b>ouais</b> c' est combien ?</em>
-  * <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> 8: <em>et euh , <b>ouais</b> mais sinon c' est vraiment trop beau ,</em>
-  * <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> 1: <em>donc euh <b>ouais</b> nan je pense que la fac c' est , c' est quelque chose d' assez bénéfique ,</em>
 * <em>quoi</em>
-  * <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 33: <em>euh , premier moment un peu de , je sais pas , de panique <b>quoi</b> enfin .</em>
-  * <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> 17: <em>je sais même plus de <b>quoi</b> on avait parlé exactement .</em>
-* <em>genre</em>
-  * <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 25: <em>les pizzas énormes , qui font <b>genre</b> euh , toute l' assiette quoi .</em>
-  * <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> 20: <em><b>genre</b> on n' a pas pu dormir .</em>
-  * <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> 3: <em>mais quand même , enfin <b>genre</b> deux jours , ça suffit euh largement .</em>
-* <em>bref</em>
-  * <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 19: <em>fin <b>bref</b> voilà des vacances d' été pas mal quoi , à la plage .</em>
-  * <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> 1: <em><b>bref</b> , je trouve ça un peu bizarre .</em>
-* <em>non</em>
-  * <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> 29: <em><b>non</b> ?</em>
-  * <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 11: <em><b>non</b> même pas griffer , mordre .</em>
+  * <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 45: <em>et , nous on s' est dit , bah , c' est notre chien <b>quoi</b> !</em>
+  * <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> 32: <em>le gagnant de le concours , il avait <b>quoi</b> ?</em>
 * <em>tiens</em>
-  * <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 6: <em>et j' ai dit <b>tiens</b> , elle a des grandes mains .</em>
-  * <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> 3: <em>et euh , de le coup , je fais <b>tiens</b> et tout mais je savais pas qu' est -ce qu' il se passait .</em>
-* <em>fin</em>
-  * <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> 11: <em><b>fin</b> bref voilà des vacances d' été pas mal quoi , à la plage .</em>
-  * <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 3: <em>de le coup , je les ai XXX , <b>fin</b> , j' ai essayé de les voir pour les retenir par cœur parce que c' est c' est des points de gagnés , quoi .</em>
-  * <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> 3: <em>et je me retrouve un peu débordée à la <b>fin</b> de le semestre .</em>
+  * <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 9: <em>et j' ai dit <b>tiens</b> , elle a des grandes mains .</em>
+  * <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> 2: <em>et euh , de le coup , je fais <b>tiens</b> et tout mais je savais pas qu' est -ce qu' il se passait .</em>
+* <em>la</em>
+  * <tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> 457: <em>ou est -ce que tu le fais une fois que <b>la</b> boule de pâte est formée ?</em>
+  * <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> 15: <em>et de le coup personne voulait <b>la</b> prendre .</em>
+  * <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 8: <em>vous étiez là ha ha ha , oh <b>la</b> <b>la</b> !</em>
+* <em>ok</em>
+  * <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 5: <em>on a dit <b>ok</b> .</em>
+  * <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> 3: <em>donc <b>ok</b> , j' étais attirée par lui à le début , physiquement .</em>
+  * <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> 2: <em>ouais , <b>ok</b> , que ce soit un souvenir construit , euh .</em>
+* <em>oui</em>
+  * <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> 77: <em><b>oui</b> j' ai oublié ce que tu …</em>
+  * <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 3: <em><b>oui</b> , c' est ça .</em>
+* <em>là</em>
+  * <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> 132: <em>et <b>là</b> ça va être la galère pour mélanger et tout ça .</em>
+  * <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 1: <em>euh , ouais , tu sais , cet été , euh , j' étais , euh , en Italie <b>là</b> , avec Pauline .</em>
+* <em>parfait</em>
+  * <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> 1: <em>donc , euh , moi , XXX , enfin ça me semblait <b>parfait</b> , parce que déjà , euh , ça permettait de pas se spécialiser de le tout tout de suite , de continuer à faire un peu de tout .</em>
+  * <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 1: <em>euh , notre famille est en Bretagne , et tout , euh , <b>parfait</b> ,</em>
+* <em>si</em>
+  * <tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt> 55: <em><b>si</b> tu mets du Neufchâtel faut pas mettre de la muscade .</em>
+  * <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> 4: <em><b>si</b> .</em>
+  * <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> 1: <em>non , c' est sans passer à la case départ sauf que oui <b>si</b> de le coup je passe à la case départ enfin bref .</em>
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.313074).
+The form / lemma ratio of `INTJ` is 0.969697 (the average of all parts of speech is 1.326909).
 
 The 1st highest number of forms (2) was observed with the lemma “euh”: <em>euh, euh~</em>.
 
 The 2nd highest number of forms (2) was observed with the lemma “là”: <em>la, là</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “XXX”: <em>XXX</em>.
+The 3rd highest number of forms (2) was observed with the lemma “mh”: <em>hum, mh</em>.
 
 `INTJ` does not occur with any features.
 
 
 ## Relations
 
-`INTJ` nodes are attached to their parents using 10 different relations: <tt><a href="fr_parisstories-dep-discourse.html">discourse</a></tt> (1635; 97% instances), <tt><a href="fr_parisstories-dep-root.html">root</a></tt> (16; 1% instances), <tt><a href="fr_parisstories-dep-obj.html">obj</a></tt> (14; 1% instances), <tt><a href="fr_parisstories-dep-conj.html">conj</a></tt> (10; 1% instances), <tt><a href="fr_parisstories-dep-reparandum.html">reparandum</a></tt> (5; 0% instances), <tt><a href="fr_parisstories-dep-dep.html">dep</a></tt> (4; 0% instances), <tt><a href="fr_parisstories-dep-dislocated.html">dislocated</a></tt> (1; 0% instances), <tt><a href="fr_parisstories-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="fr_parisstories-dep-obl-arg.html">obl:arg</a></tt> (1; 0% instances), <tt><a href="fr_parisstories-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
+`INTJ` nodes are attached to their parents using 7 different relations: <tt><a href="fr_parisstories-dep-discourse.html">discourse</a></tt> (2208; 95% instances), <tt><a href="fr_parisstories-dep-root.html">root</a></tt> (70; 3% instances), <tt><a href="fr_parisstories-dep-dep.html">dep</a></tt> (10; 0% instances), <tt><a href="fr_parisstories-dep-conj.html">conj</a></tt> (8; 0% instances), <tt><a href="fr_parisstories-dep-obj.html">obj</a></tt> (7; 0% instances), <tt><a href="fr_parisstories-dep-reparandum.html">reparandum</a></tt> (7; 0% instances), <tt><a href="fr_parisstories-dep-fixed.html">fixed</a></tt> (3; 0% instances)
 
-Parents of `INTJ` nodes belong to 14 different parts of speech: <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> (773; 46% instances), <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (401; 24% instances), <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> (125; 7% instances), <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (102; 6% instances), <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (69; 4% instances), <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt> (45; 3% instances), <tt><a href="fr_parisstories-pos-PROPN.html">PROPN</a></tt> (34; 2% instances), <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> (31; 2% instances), <tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (31; 2% instances), <tt><a href="fr_parisstories-pos-CCONJ.html">CCONJ</a></tt> (28; 2% instances), <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> (28; 2% instances),  (16; 1% instances), <tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt> (2; 0% instances)
+Parents of `INTJ` nodes belong to 15 different parts of speech: <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> (1025; 44% instances), <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (508; 22% instances), <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> (214; 9% instances), <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (153; 7% instances), <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (105; 5% instances),  (70; 3% instances), <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt> (56; 2% instances), <tt><a href="fr_parisstories-pos-PROPN.html">PROPN</a></tt> (45; 2% instances), <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> (43; 2% instances), <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> (40; 2% instances), <tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (38; 2% instances), <tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="fr_parisstories-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="fr_parisstories-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt> (2; 0% instances)
 
-667 (40%) `INTJ` nodes are leaves.
+768 (33%) `INTJ` nodes are leaves.
 
-988 (59%) `INTJ` nodes have one child.
+1454 (63%) `INTJ` nodes have one child.
 
-24 (1%) `INTJ` nodes have two children.
+83 (4%) `INTJ` nodes have two children.
 
-9 (1%) `INTJ` nodes have three or more children.
+8 (0%) `INTJ` nodes have three or more children.
 
-The highest child degree of a `INTJ` node is 4.
+The highest child degree of a `INTJ` node is 5.
 
-Children of `INTJ` nodes are attached using 13 different relations: <tt><a href="fr_parisstories-dep-punct.html">punct</a></tt> (1017; 95% instances), <tt><a href="fr_parisstories-dep-discourse.html">discourse</a></tt> (17; 2% instances), <tt><a href="fr_parisstories-dep-conj.html">conj</a></tt> (11; 1% instances), <tt><a href="fr_parisstories-dep-reparandum.html">reparandum</a></tt> (7; 1% instances), <tt><a href="fr_parisstories-dep-dep.html">dep</a></tt> (4; 0% instances), <tt><a href="fr_parisstories-dep-advmod.html">advmod</a></tt> (2; 0% instances), <tt><a href="fr_parisstories-dep-cc.html">cc</a></tt> (2; 0% instances), <tt><a href="fr_parisstories-dep-det.html">det</a></tt> (2; 0% instances), <tt><a href="fr_parisstories-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="fr_parisstories-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="fr_parisstories-dep-cop.html">cop</a></tt> (1; 0% instances), <tt><a href="fr_parisstories-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="fr_parisstories-dep-nsubj.html">nsubj</a></tt> (1; 0% instances)
+Children of `INTJ` nodes are attached using 10 different relations: <tt><a href="fr_parisstories-dep-punct.html">punct</a></tt> (1591; 96% instances), <tt><a href="fr_parisstories-dep-discourse.html">discourse</a></tt> (28; 2% instances), <tt><a href="fr_parisstories-dep-dep.html">dep</a></tt> (10; 1% instances), <tt><a href="fr_parisstories-dep-cc.html">cc</a></tt> (5; 0% instances), <tt><a href="fr_parisstories-dep-conj.html">conj</a></tt> (5; 0% instances), <tt><a href="fr_parisstories-dep-reparandum.html">reparandum</a></tt> (4; 0% instances), <tt><a href="fr_parisstories-dep-fixed.html">fixed</a></tt> (3; 0% instances), <tt><a href="fr_parisstories-dep-cop.html">cop</a></tt> (1; 0% instances), <tt><a href="fr_parisstories-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="fr_parisstories-dep-parataxis-parenth.html">parataxis:parenth</a></tt> (1; 0% instances)
 
-Children of `INTJ` nodes belong to 10 different parts of speech: <tt><a href="fr_parisstories-pos-PUNCT.html">PUNCT</a></tt> (1017; 95% instances), <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> (28; 3% instances), <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="fr_parisstories-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (1; 0% instances)
+Children of `INTJ` nodes belong to 9 different parts of speech: <tt><a href="fr_parisstories-pos-PUNCT.html">PUNCT</a></tt> (1591; 96% instances), <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> (43; 3% instances), <tt><a href="fr_parisstories-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (1; 0% instances)
 

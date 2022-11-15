@@ -8,33 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-152 nodes (0%) are attached to their parents as `csubj`.
+110 nodes (0%) are attached to their parents as `csubj`.
 
-138 instances of `csubj` (91%) are left-to-right (parent precedes child).
-Average distance between parent and child is 9.18421052631579.
+102 instances of `csubj` (93%) are left-to-right (parent precedes child).
+Average distance between parent and child is 9.11818181818182.
 
-The following 14 pairs of parts of speech are connected with `csubj`: <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt>-<tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> (55; 36% instances), <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> (48; 32% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> (28; 18% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt>-<tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> (4; 3% instances), <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt>-<tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> (3; 2% instances), <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt>-<tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="hu_szeged-pos-DET.html">DET</a></tt>-<tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt>-<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt>-<tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt>-<tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (1; 1% instances).
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 4 csubj	color:blue
-1	Akinek	aki	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Rel	4	nmod:att	_	_
-2	pedig	pedig	CCONJ	_	_	4	cc	_	_
-3	lapát	lapát	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
-4	van	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	csubj	_	_
-5	a	a	DET	_	Definite=Def|PronType=Art	6	det	_	_
-6	kezében	kéz	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	obl	_	SpaceAfter=No
-7	,	,	PUNCT	_	_	4	punct	_	_
-8	biztosan	biztos	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	10	advmod:mode	_	_
-9	nem	nem	ADV	_	PronType=Neg	10	advmod	_	_
-10	fázik	fázik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	10	punct	_	_
-
-~~~
+The following 11 pairs of parts of speech are connected with `csubj`: <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> (38; 35% instances), <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt>-<tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> (37; 34% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> (22; 20% instances), <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt>-<tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> (3; 3% instances), <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt>-<tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt>-<tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt>-<tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -55,6 +34,27 @@ The following 14 pairs of parts of speech are connected with `csubj`: <tt><a hre
 10	települések	település	NOUN	_	Case=Nom|Number=Plur	11	nmod:att	_	_
 11	elszigeteléséhez	elszigetelés	NOUN	_	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	8	obl	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 4 csubj	color:blue
+1	Akinek	aki	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Rel	4	nmod:att	_	_
+2	pedig	pedig	CCONJ	_	_	4	cc	_	_
+3	lapát	lapát	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+4	van	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	csubj	_	_
+5	a	a	DET	_	Definite=Def|PronType=Art	6	det	_	_
+6	kezében	kéz	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	obl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	4	punct	_	_
+8	biztosan	biztos	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	10	advmod:mode	_	_
+9	nem	nem	ADV	_	PronType=Neg	10	advmod	_	_
+10	fázik	fázik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	10	punct	_	_
 
 ~~~
 

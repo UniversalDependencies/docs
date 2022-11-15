@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal but the values `Vnoun` are language-specific.
 It occurs with 4 different values: `Ger`, `Inf`, `Part`, `Vnoun`.
 
-76 tokens (3%) have a non-empty value of `VerbForm`.
-48 types (7%) occur at least once with a non-empty value of `VerbForm`.
-44 lemmas (9%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (72; 3% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (4; 0% instances).
+82 tokens (3%) have a non-empty value of `VerbForm`.
+51 types (7%) occur at least once with a non-empty value of `VerbForm`.
+48 lemmas (10%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 2 part-of-speech tags: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (78; 3% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (4; 0% instances).
 
 ### `VERB`
 
-72 <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> tokens (12% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+78 <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> tokens (12% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (72; 100%), <tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (72; 100%), <tt><a href="sms_giellagas-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (72; 100%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (71; 99%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (78; 100%), <tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (78; 100%), <tt><a href="sms_giellagas-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (78; 100%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (77; 99%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Ger` (1; 1% of non-empty `VerbForm`): <em>vaʹlljeeǩâni</em>
-* `Inf` (44; 61% of non-empty `VerbForm`): <em>jieʹlled, kooǯǯted, väʹldded, jååʹtted, mõõnnâd, hiâvted, njuiʹǩǩeed, ǩiččâd, jälsted, kueʹstted</em>
-* `Part` (26; 36% of non-empty `VerbForm`): <em>teâđstam, välddam, kaunnâm, koǯstam, koǯǯâm, šõddâm, jeällam, kooǯǯtam, kuâđđam, raajjâm</em>
+* `Inf` (46; 59% of non-empty `VerbForm`): <em>jieʹlled, kooǯǯted, väʹldded, hiâvted, jååʹtted, mõõnnâd, njuiʹǩǩeed, ǩiččâd, jälsted, kueʹstted</em>
+* `Part` (30; 38% of non-empty `VerbForm`): <em>teâđstam, välddam, kaunnâm, košklõõvvâm, koǯstam, koǯǯâm, čõnnum, šõddâm, hoʹhssjam, jeällam</em>
 * `Vnoun` (1; 1% of non-empty `VerbForm`): <em>puälddmõõžž</em>
-* `EMPTY` (513): <em>ceälkk, mõõni, puõʹđi, vaaʹldi, šõõddi, ǩieʹzzi, jälste, lij, vuõʹlji, ǩiõzzam</em>
+* `EMPTY` (558): <em>ceälkk, mõõni, puõʹđi, šõõddi, vaaʹldi, ǩieʹzzi, leäi, lij, jälste, vuõʹlji</em>
 
 <table>
   <tr><th>Paradigm <i>väʹldded</i></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>
@@ -34,7 +34,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
   <tr><td><tt><tt><a href="sms_giellagas-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt></tt></td><td></td><td><em>välddam</em></td></tr>
 </table>
 
-`VerbForm` seems to be **lexical feature** of `VERB`. 93% lemmas (39) occur only with one value of `VerbForm`.
+`VerbForm` seems to be **lexical feature** of `VERB`. 93% lemmas (43) occur only with one value of `VerbForm`.
 
 ### `AUX`
 
@@ -46,7 +46,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 
 * `Inf` (2; 50% of non-empty `VerbForm`): <em>leeʹd</em>
 * `Part` (2; 50% of non-empty `VerbForm`): <em>leämmaž, õlggâm</em>
-* `EMPTY` (145): <em>lij, ij, leäi, jiõk, õõk, liâ, õõlǥ, jiõm, leäk, leäkku</em>
+* `EMPTY` (151): <em>lij, ij, leäi, jiõk, õõk, liâ, õõlǥ, jiõm, leäk, leäkku</em>
 
 <table>
   <tr><th>Paradigm <i>leeʹd</i></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>

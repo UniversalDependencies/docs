@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Cantonese-HK: POS Tags: `DET`
 
-There are 21 `DET` lemmas (2%), 42 `DET` types (2%) and 330 `DET` tokens (2%).
-Out of 15 observed tags, the rank of `DET` is: 11 in number of lemmas, 8 in number of types and 9 in number of tokens.
+There are 42 `DET` lemmas (2%), 42 `DET` types (2%) and 331 `DET` tokens (2%).
+Out of 15 observed tags, the rank of `DET` is: 8 in number of lemmas, 8 in number of types and 9 in number of tokens.
 
-The 10 most frequent `DET` lemmas: _、 呢、 嗰、 咩、 每、 幾多、 成、 乜、 呢啲、 嗰啲
+The 10 most frequent `DET` lemmas: 呢、 嗰、 依個、 任何、 其他、 呢個、 依、 咩、 嗰個、 每
 
 The 10 most frequent `DET` types:  呢、 嗰、 依個、 任何、 其他、 呢個、 依、 咩、 嗰個、 每
 
-The 10 most frequent ambiguous lemmas: _ (<tt><a href="yue_hk-pos-PUNCT.html">PUNCT</a></tt> 1377, <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 1352, <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> 1283, <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> 853, <tt><a href="yue_hk-pos-PART.html">PART</a></tt> 764, <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> 662, <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> 335, <tt><a href="yue_hk-pos-DET.html">DET</a></tt> 217, <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> 209, <tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> 140, <tt><a href="yue_hk-pos-NUM.html">NUM</a></tt> 124, <tt><a href="yue_hk-pos-SCONJ.html">SCONJ</a></tt> 101, <tt><a href="yue_hk-pos-CCONJ.html">CCONJ</a></tt> 93, <tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> 92, <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> 52), 呢 (<tt><a href="yue_hk-pos-PART.html">PART</a></tt> 71, <tt><a href="yue_hk-pos-DET.html">DET</a></tt> 42), 咩 (<tt><a href="yue_hk-pos-DET.html">DET</a></tt> 15, <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> 13, <tt><a href="yue_hk-pos-PART.html">PART</a></tt> 10), 幾多 (<tt><a href="yue_hk-pos-DET.html">DET</a></tt> 4, <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> 1), 乜 (<tt><a href="yue_hk-pos-DET.html">DET</a></tt> 2, <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> 2), 呢啲 (<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> 6, <tt><a href="yue_hk-pos-DET.html">DET</a></tt> 2), 嗰啲 (<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> 5, <tt><a href="yue_hk-pos-DET.html">DET</a></tt> 2), 下 (<tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> 19, <tt><a href="yue_hk-pos-DET.html">DET</a></tt> 1, <tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="yue_hk-pos-PART.html">PART</a></tt> 1), 係 (<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 65, <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> 44, <tt><a href="yue_hk-pos-DET.html">DET</a></tt> 1), 啲 (<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> 56, <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> 26, <tt><a href="yue_hk-pos-DET.html">DET</a></tt> 1, <tt><a href="yue_hk-pos-PART.html">PART</a></tt> 1)
+The 10 most frequent ambiguous lemmas: 呢 (<tt><a href="yue_hk-pos-PART.html">PART</a></tt> 328, <tt><a href="yue_hk-pos-DET.html">DET</a></tt> 75, <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 3, <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> 1), 依個 (<tt><a href="yue_hk-pos-DET.html">DET</a></tt> 25, <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> 9), 呢個 (<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> 20, <tt><a href="yue_hk-pos-DET.html">DET</a></tt> 16, <tt><a href="yue_hk-pos-PART.html">PART</a></tt> 2), 咩 (<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> 17, <tt><a href="yue_hk-pos-DET.html">DET</a></tt> 15, <tt><a href="yue_hk-pos-PART.html">PART</a></tt> 10), 嗰個 (<tt><a href="yue_hk-pos-DET.html">DET</a></tt> 14, <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> 5), 呢啲 (<tt><a href="yue_hk-pos-DET.html">DET</a></tt> 7, <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> 7), 下 (<tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> 27, <tt><a href="yue_hk-pos-DET.html">DET</a></tt> 6, <tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="yue_hk-pos-PART.html">PART</a></tt> 2), 幾多 (<tt><a href="yue_hk-pos-DET.html">DET</a></tt> 5, <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> 1), 依啲 (<tt><a href="yue_hk-pos-DET.html">DET</a></tt> 3, <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> 1), 嗰啲 (<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> 7, <tt><a href="yue_hk-pos-DET.html">DET</a></tt> 3)
 
 The 10 most frequent ambiguous types:  呢 (<tt><a href="yue_hk-pos-PART.html">PART</a></tt> 328, <tt><a href="yue_hk-pos-DET.html">DET</a></tt> 75, <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 3, <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> 1), 依個 (<tt><a href="yue_hk-pos-DET.html">DET</a></tt> 25, <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> 9), 呢個 (<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> 20, <tt><a href="yue_hk-pos-DET.html">DET</a></tt> 16, <tt><a href="yue_hk-pos-PART.html">PART</a></tt> 2), 咩 (<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> 17, <tt><a href="yue_hk-pos-DET.html">DET</a></tt> 15, <tt><a href="yue_hk-pos-PART.html">PART</a></tt> 10), 嗰個 (<tt><a href="yue_hk-pos-DET.html">DET</a></tt> 14, <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> 5), 呢啲 (<tt><a href="yue_hk-pos-DET.html">DET</a></tt> 7, <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> 7), 下 (<tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> 27, <tt><a href="yue_hk-pos-DET.html">DET</a></tt> 6, <tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="yue_hk-pos-PART.html">PART</a></tt> 2), 幾多 (<tt><a href="yue_hk-pos-DET.html">DET</a></tt> 5, <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> 1), 依啲 (<tt><a href="yue_hk-pos-DET.html">DET</a></tt> 3, <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> 1), 嗰啲 (<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> 7, <tt><a href="yue_hk-pos-DET.html">DET</a></tt> 3)
 
@@ -57,26 +57,26 @@ The 10 most frequent ambiguous types:  呢 (<tt><a href="yue_hk-pos-PART.html">P
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 2.000000 (the average of all parts of speech is 1.624294).
+The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.001746).
 
-The 1st highest number of forms (36) was observed with the lemma “_”: 一個, 一切, 一啲, 上, 下, 今, 任何, 依, 依個, 依啲, 全, 其中, 其他, 初, 另, 各位, 呢, 呢個, 呢啲, 啲, 嗰, 嗰份, 嗰個, 嗰啲, 多, 好多, 幾, 幾多, 成, 所有, 整個, 本, 某啲, 每, 邊, 首.
+The 1st highest number of forms (1) was observed with the lemma “一個”: 一個.
 
-The 2nd highest number of forms (1) was observed with the lemma “一部分”: 一部分.
+The 2nd highest number of forms (1) was observed with the lemma “一切”: 一切.
 
-The 3rd highest number of forms (1) was observed with the lemma “下”: 下.
+The 3rd highest number of forms (1) was observed with the lemma “一啲”: 一啲.
 
 `DET` does not occur with any features.
 
 
 ## Relations
 
-`DET` nodes are attached to their parents using 6 different relations: <tt><a href="yue_hk-dep-det.html">det</a></tt> (321; 97% instances), <tt><a href="yue_hk-dep-reparandum.html">reparandum</a></tt> (4; 1% instances), <tt><a href="yue_hk-dep-advcl.html">advcl</a></tt> (2; 1% instances), <tt><a href="yue_hk-dep-cop.html">cop</a></tt> (1; 0% instances), <tt><a href="yue_hk-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="yue_hk-dep-obj.html">obj</a></tt> (1; 0% instances)
+`DET` nodes are attached to their parents using 6 different relations: <tt><a href="yue_hk-dep-det.html">det</a></tt> (322; 97% instances), <tt><a href="yue_hk-dep-reparandum.html">reparandum</a></tt> (4; 1% instances), <tt><a href="yue_hk-dep-advcl.html">advcl</a></tt> (2; 1% instances), <tt><a href="yue_hk-dep-cop.html">cop</a></tt> (1; 0% instances), <tt><a href="yue_hk-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="yue_hk-dep-obj.html">obj</a></tt> (1; 0% instances)
 
-Parents of `DET` nodes belong to 7 different parts of speech: <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (308; 93% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (11; 3% instances), <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> (6; 2% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="yue_hk-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-PART.html">PART</a></tt> (1; 0% instances)
+Parents of `DET` nodes belong to 7 different parts of speech: <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (309; 93% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (11; 3% instances), <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> (6; 2% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="yue_hk-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-PART.html">PART</a></tt> (1; 0% instances)
 
 209 (63%) `DET` nodes are leaves.
 
-113 (34%) `DET` nodes have one child.
+114 (34%) `DET` nodes have one child.
 
 5 (2%) `DET` nodes have two children.
 
@@ -84,7 +84,7 @@ Parents of `DET` nodes belong to 7 different parts of speech: <tt><a href="yue_h
 
 The highest child degree of a `DET` node is 5.
 
-Children of `DET` nodes are attached using 10 different relations: <tt><a href="yue_hk-dep-clf.html">clf</a></tt> (83; 62% instances), <tt><a href="yue_hk-dep-case.html">case</a></tt> (30; 22% instances), <tt><a href="yue_hk-dep-punct.html">punct</a></tt> (11; 8% instances), <tt><a href="yue_hk-dep-discourse.html">discourse</a></tt> (3; 2% instances), <tt><a href="yue_hk-dep-discourse-sp.html">discourse:sp</a></tt> (2; 1% instances), <tt><a href="yue_hk-dep-acl.html">acl</a></tt> (1; 1% instances), <tt><a href="yue_hk-dep-advmod.html">advmod</a></tt> (1; 1% instances), <tt><a href="yue_hk-dep-compound.html">compound</a></tt> (1; 1% instances), <tt><a href="yue_hk-dep-nsubj.html">nsubj</a></tt> (1; 1% instances), <tt><a href="yue_hk-dep-reparandum.html">reparandum</a></tt> (1; 1% instances)
+Children of `DET` nodes are attached using 10 different relations: <tt><a href="yue_hk-dep-clf.html">clf</a></tt> (84; 62% instances), <tt><a href="yue_hk-dep-case.html">case</a></tt> (30; 22% instances), <tt><a href="yue_hk-dep-punct.html">punct</a></tt> (11; 8% instances), <tt><a href="yue_hk-dep-discourse.html">discourse</a></tt> (3; 2% instances), <tt><a href="yue_hk-dep-discourse-sp.html">discourse:sp</a></tt> (2; 1% instances), <tt><a href="yue_hk-dep-acl.html">acl</a></tt> (1; 1% instances), <tt><a href="yue_hk-dep-advmod.html">advmod</a></tt> (1; 1% instances), <tt><a href="yue_hk-dep-compound.html">compound</a></tt> (1; 1% instances), <tt><a href="yue_hk-dep-nsubj.html">nsubj</a></tt> (1; 1% instances), <tt><a href="yue_hk-dep-reparandum.html">reparandum</a></tt> (1; 1% instances)
 
-Children of `DET` nodes belong to 8 different parts of speech: <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (84; 63% instances), <tt><a href="yue_hk-pos-PART.html">PART</a></tt> (32; 24% instances), <tt><a href="yue_hk-pos-PUNCT.html">PUNCT</a></tt> (11; 8% instances), <tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> (3; 2% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="yue_hk-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (1; 1% instances)
+Children of `DET` nodes belong to 8 different parts of speech: <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (85; 63% instances), <tt><a href="yue_hk-pos-PART.html">PART</a></tt> (32; 24% instances), <tt><a href="yue_hk-pos-PUNCT.html">PUNCT</a></tt> (11; 8% instances), <tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> (3; 2% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="yue_hk-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (1; 1% instances)
 

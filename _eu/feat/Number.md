@@ -29,4 +29,4 @@ A plural noun denotes several persons, animals or things.
 
 * [eu] _<b>taldeak/b>_ “groups”
 
-<!-- Interlanguage links updated So kvě 14 19:02:24 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:50 CET 2022 -->

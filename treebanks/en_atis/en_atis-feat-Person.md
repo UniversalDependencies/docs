@@ -7,12 +7,25 @@ udver: '2'
 ## Treebank Statistics: UD_English-Atis: Features: `Person`
 
 This feature is universal.
-It occurs with 1 different values: `3`.
+It occurs with 3 different values: `1`, `2`, `3`.
 
-1249 tokens (2%) have a non-empty value of `Person`.
-30 types (3%) occur at least once with a non-empty value of `Person`.
-29 lemmas (4%) occur at least once with a non-empty value of `Person`.
-The feature is used with 2 part-of-speech tags: <tt><a href="en_atis-pos-AUX.html">AUX</a></tt> (914; 1% instances), <tt><a href="en_atis-pos-VERB.html">VERB</a></tt> (335; 1% instances).
+3889 tokens (6%) have a non-empty value of `Person`.
+37 types (4%) occur at least once with a non-empty value of `Person`.
+34 lemmas (4%) occur at least once with a non-empty value of `Person`.
+The feature is used with 3 part-of-speech tags: <tt><a href="en_atis-pos-PRON.html">PRON</a></tt> (2640; 4% instances), <tt><a href="en_atis-pos-AUX.html">AUX</a></tt> (914; 1% instances), <tt><a href="en_atis-pos-VERB.html">VERB</a></tt> (335; 1% instances).
+
+### `PRON`
+
+2640 <tt><a href="en_atis-pos-PRON.html">PRON</a></tt> tokens (69% of all `PRON` tokens) have a non-empty value of `Person`.
+
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="en_atis-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2640; 100%), <tt><a href="en_atis-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2634; 100%), <tt><a href="en_atis-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1377; 52%).
+
+`PRON` tokens may have the following values of `Person`:
+
+* `1` (2380; 90% of non-empty `Person`): <em>me, i, we</em>
+* `2` (223; 8% of non-empty `Person`): <em>you</em>
+* `3` (37; 1% of non-empty `Person`): <em>it, they, them</em>
+* `EMPTY` (1188): <em>what, there, which, that, 's, one, this, who, each, those</em>
 
 ### `AUX`
 

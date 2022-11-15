@@ -63,7 +63,7 @@ The following 6 pairs of parts of speech are connected with `det:predet`: <tt><a
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 det:predet	color:blue
-1	What	what	PRON	WP	PronType=Int	3	det:predet	3:det:predet	_
+1	What	what	PRON	WDT	PronType=Int	3	det:predet	3:det:predet	_
 2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	3:det	_
 3	group	group	NOUN	NN	Number=Sing	0	root	0:root	SpaceAfter=No
 4	!	!	PUNCT	.	_	3	punct	3:punct	_

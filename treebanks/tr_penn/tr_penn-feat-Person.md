@@ -11,20 +11,20 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="tr_penn-feat-Person.html">Person</a></tt>, <tt><a href="tr_penn-feat-Person-psor.html">Person[psor]</a></tt>.
 
-82883 tokens (45%) have a non-empty value of `Person`.
+82884 tokens (45%) have a non-empty value of `Person`.
 25130 types (71%) occur at least once with a non-empty value of `Person`.
 6650 lemmas (45%) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt> (66725; 36% instances), <tt><a href="tr_penn-pos-VERB.html">VERB</a></tt> (15988; 9% instances), <tt><a href="tr_penn-pos-AUX.html">AUX</a></tt> (170; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt> (66726; 36% instances), <tt><a href="tr_penn-pos-VERB.html">VERB</a></tt> (15988; 9% instances), <tt><a href="tr_penn-pos-AUX.html">AUX</a></tt> (170; 0% instances).
 
 ### `NOUN`
 
-66725 <tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Person`.
+66726 <tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `NOUN` and `Person` co-occurred: <tt><a href="tr_penn-feat-Number.html">Number</a></tt><tt>=Sing</tt> (54950; 82%), <tt><a href="tr_penn-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (44965; 67%), <tt><a href="tr_penn-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (44965; 67%), <tt><a href="tr_penn-feat-Case.html">Case</a></tt><tt>=Nom</tt> (41429; 62%).
+The most frequent other feature values with which `NOUN` and `Person` co-occurred: <tt><a href="tr_penn-feat-Number.html">Number</a></tt><tt>=Sing</tt> (54951; 82%), <tt><a href="tr_penn-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (44965; 67%), <tt><a href="tr_penn-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (44965; 67%), <tt><a href="tr_penn-feat-Case.html">Case</a></tt><tt>=Nom</tt> (41432; 62%).
 
 `NOUN` tokens may have the following values of `Person`:
 
-* `3` (66725; 100% of non-empty `Person`): <em>bay, hisse, dolar, yıl, şirket, olduğunu, şekilde, satın, devam, gelir</em>
+* `3` (66726; 100% of non-empty `Person`): <em>bay, hisse, dolar, yıl, şirket, olduğunu, şekilde, satın, devam, gelir</em>
 
 `Person` seems to be **lexical feature** of `NOUN`. 100% lemmas (6222) occur only with one value of `Person`.
 

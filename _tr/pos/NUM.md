@@ -22,4 +22,4 @@ We also mark interrogative _kaç_ "how many" as `NUM`.
 - _I, II, III, IV, V, MMXIV_
 - _bir_ "one", _beş_ "five", _onbeş_ "fifteen"
 - _kaç_ "how many", _kaçıncı_ "which one (of an ordered entities)", _kaçar_ "how many each"
-<!-- Interlanguage links updated So kvě 14 19:01:51 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:34 CET 2022 -->

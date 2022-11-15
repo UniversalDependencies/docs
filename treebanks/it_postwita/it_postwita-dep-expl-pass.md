@@ -23,7 +23,7 @@ The following 1 pairs of parts of speech are connected with `expl:pass`: <tt><a 
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 6 expl:pass	color:blue
-1	@user	@user	SYM	SYM	_	8	vocative:mention	_	_
+1	@user	@user	SYM	SYM	_	8	vocative	_	_
 2	e	e	CCONJ	CC	_	3	cc	_	_
 3	vabbe	vabbe	INTJ	I	_	8	discourse	_	_
 4	...	...	PUNCT	FS	_	3	punct	_	_

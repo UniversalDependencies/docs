@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `obl`: <tt><a href="pt_gsd-dep-obl-agent.html">obl:agent</a></tt>.
 
-46 nodes (0%) are attached to their parents as `obl`.
+50 nodes (0%) are attached to their parents as `obl`.
 
-34 instances of `obl` (74%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.76086956521739.
+38 instances of `obl` (76%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.48.
 
-The following 11 pairs of parts of speech are connected with `obl`: <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> (23; 50% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt> (9; 20% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-NUM.html">NUM</a></tt> (4; 9% instances), <tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> (3; 7% instances), <tt><a href="pt_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-SYM.html">SYM</a></tt> (1; 2% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt> (1; 2% instances).
+The following 11 pairs of parts of speech are connected with `obl`: <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> (27; 54% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt> (9; 18% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-NUM.html">NUM</a></tt> (4; 8% instances), <tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> (3; 6% instances), <tt><a href="pt_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-SYM.html">SYM</a></tt> (1; 2% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -62,7 +62,7 @@ The following 11 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 4	fgColor:white
 # visual-style 4 2 obl	color:blue
 1	Em	em	ADP	ADP	_	2	case	_	_
-2	1975	_	NUM	NUM	NumType=Card	4	obl	_	_
+2	1975	1975	NUM	NUM	NumType=Card	4	obl	_	_
 3	foi	_	AUX	AUX	_	4	aux:pass	_	_
 4	eleito	eleger	VERB	_	_	0	root	_	_
 5	Deputado	_	PROPN	PNOUN	_	4	obj	_	_
@@ -76,7 +76,7 @@ The following 11 pairs of parts of speech are connected with `obl`: <tt><a href=
 13	duas	_	NUM	NUM	NumType=Card	14	nummod	_	_
 14	vezes	vez	NOUN	NOUN	_	10	nmod	_	_
 15	até	_	ADP	ADP	_	16	case	_	_
-16	1986	_	NUM	NUM	NumType=Card	10	nmod	_	SpaceAfter=No
+16	1986	1986	NUM	NUM	NumType=Card	10	nmod	_	SpaceAfter=No
 17	.	.	PUNCT	.	_	5	punct	_	_
 
 ~~~

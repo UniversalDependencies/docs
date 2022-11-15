@@ -23,16 +23,16 @@ The following 12 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 6	fgColor:white
 # visual-style 6 7 fixed	color:blue
 1	show	show	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	me	I	PRON	_	PronType=Prs	1	iobj	_	_
+2	me	I	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	iobj	_	_
 3	all	all	DET	_	PronType=Art	5	det	_	_
 4	daily	daily	ADJ	_	Degree=Pos	5	amod	_	_
 5	flights	flight	NOUN	_	Number=Plur	1	obj	_	_
 6	out	out	ADP	_	_	8	case	_	_
 7	of	of	ADP	_	_	6	fixed	_	_
-8	boston	boston	PROPN	_	Number=Sing	5	nmod	_	_
+8	boston	Boston	PROPN	_	Number=Sing	5	nmod	_	_
 9	that	that	ADP	_	_	10	mark	_	_
 10	have	have	VERB	_	VerbForm=Inf	5	acl:relcl	_	_
-11	coach	coach	PROPN	_	Number=Sing	12	compound	_	_
+11	coach	Coach	PROPN	_	Number=Sing	12	compound	_	_
 12	class	class	NOUN	_	Number=Sing	10	obj	_	_
 
 ~~~
@@ -48,8 +48,8 @@ The following 12 pairs of parts of speech are connected with `fixed`: <tt><a hre
 2	snacks	snack	NOUN	_	Number=Plur	3	nsubj	_	_
 3	served	serve	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	on	on	ADP	_	_	5	case	_	_
-5	tower	tower	PROPN	_	Number=Sing	3	obl	_	_
-6	air	air	PROPN	_	Number=Sing	5	fixed	_	_
+5	tower	Tower	PROPN	_	Number=Sing	3	obl	_	_
+6	air	Air	PROPN	_	Number=Sing	5	fixed	_	_
 
 ~~~
 
@@ -63,14 +63,14 @@ The following 12 pairs of parts of speech are connected with `fixed`: <tt><a hre
 1	all	all	DET	_	PronType=Art	5	discourse	_	_
 2	right	right	NOUN	_	Number=Sing	1	fixed	_	_
 3	do	do	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	_
-4	you	you	PRON	_	PronType=Prs	5	nsubj	_	_
+4	you	you	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
 5	have	have	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	a	a	DET	_	PronType=Art	7	det	_	_
 7	flight	flight	NOUN	_	Number=Sing	5	obj	_	_
 8	from	from	ADP	_	_	9	case	_	_
-9	atlanta	atlanta	PROPN	_	Number=Sing	7	nmod	_	_
+9	atlanta	Atlanta	PROPN	_	Number=Sing	7	nmod	_	_
 10	to	to	ADP	_	_	11	case	_	_
-11	boston	boston	PROPN	_	Number=Sing	7	nmod	_	_
+11	boston	Boston	PROPN	_	Number=Sing	7	nmod	_	_
 
 ~~~
 

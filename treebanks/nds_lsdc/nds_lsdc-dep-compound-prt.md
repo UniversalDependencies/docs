@@ -38,8 +38,8 @@ The following 3 pairs of parts of speech are connected with `compound:prt`: <tt>
 14	twey	twey	NUM	_	NumType=Card	15	nummod	_	lemma[gml]=twêne
 15	steavels	steavel	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	13	obj	_	lemma[gml]=stēvel(e)¹
 16	up	up	ADP	_	AdpType=Prep	18	case	_	lemma[gml]=up(pe)¹
-17	de	de	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	Case[regional]Acc|lemma[gml]=dê¹
-18	nakke	nakke	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	13	obl	_	Case[regional]=Acc|lemma[gml]=nacke¹
+17	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	lemma[gml]=dê¹
+18	nakke	nakke	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Plur	13	obl	_	lemma[gml]=nacke¹
 19	hangen	hangen	VERB	_	VerbForm=Inf	13	xcomp	_	lemma[gml]=hangen|SpaceAfter=No
 20	.	.	PUNCT	_	_	1	punct	_	_
 
@@ -140,8 +140,8 @@ The following 3 pairs of parts of speech are connected with `compound:prt`: <tt>
 48	leyt	låten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	43	conj	_	lemma[gml]=lâten¹
 49	sik	sik	PRON	_	Case=Acc,Dat|Person=3|PronType=Prs|Reflex=Yes	48	obj	_	lemma[gml]=sik¹
 50	van	van	ADP	_	AdpType=Prep	52	case	_	lemma[gml]=van¹
-51	syne	syn	DET	_	Case=Dat|Gender=Masc|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	52	det:poss	_	Case[regional]=Acc|lemma[gml]=sîn⁴
-52	kameråden	kameråd	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	48	obl	_	Case[regional]=Acc|lemma[gml]=camerât
+51	syne	syn	DET	_	Case=Acc,Dat|Gender=Masc|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	52	det:poss	_	lemma[gml]=sîn⁴
+52	kameråden	kameråd	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Plur	48	obl	_	lemma[gml]=camerât
 53	wedder	wedder	ADV	_	_	48	advmod	_	lemma[gml]=wedder²
 54	heruptrekken	heruptrekken	VERB	_	VerbForm=Inf	48	xcomp	_	SpaceAfter=No
 55	.	.	PUNCT	_	_	14	punct	_	_

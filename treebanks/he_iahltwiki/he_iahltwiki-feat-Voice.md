@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal but the values `Mid` are language-specific.
 It occurs with 3 different values: `Act`, `Mid`, `Pass`.
 
-10092 tokens (7%) have a non-empty value of `Voice`.
+10133 tokens (7%) have a non-empty value of `Voice`.
 3619 types (25%) occur at least once with a non-empty value of `Voice`.
 1408 lemmas (15%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 1 part-of-speech tags: <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> (10092; 7% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> (10133; 7% instances).
 
 ### `VERB`
 
-10092 <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> tokens (95% of all `VERB` tokens) have a non-empty value of `Voice`.
+10133 <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> tokens (95% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="he_iahltwiki-feat-Person.html">Person</a></tt><tt>=3</tt> (8427; 84%), <tt><a href="he_iahltwiki-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (6065; 60%), <tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5996; 59%), <tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (5924; 59%), <tt><a href="he_iahltwiki-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (5707; 57%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="he_iahltwiki-feat-Person.html">Person</a></tt><tt>=3</tt> (8474; 84%), <tt><a href="he_iahltwiki-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (6064; 60%), <tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6037; 60%), <tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (5965; 59%), <tt><a href="he_iahltwiki-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (5707; 56%).
 
 `VERB` tokens may have the following values of `Voice`:
 
 * `Act` (6858; 68% of non-empty `Voice`): כתב, הלחין, יצא, זכה, החל, כולל, החלו, כלל, החלה, הוציא
 * `Mid` (1387; 14% of non-empty `Voice`): נמצא, נקרא, נראה, נערכה, נעשה, נחשב, נכללו, נמצאים, נוצר, להימנע
-* `Pass` (1847; 18% of non-empty `Voice`): ניתן, מדובר, הוקמה, מכונה, נקבע, נעשה, הוקם, בוצעו, בוצע, נערך
-* `EMPTY` (558): יש, אין, ניתן, אפשר, היו, ישנם, היה, ישנה, ייתכן, ישנו
+* `Pass` (1888; 19% of non-empty `Voice`): ניתן, מדובר, הוקמה, מכונה, נקבע, נעשה, הוקם, בוצעו, בוצע, נערך
+* `EMPTY` (517): יש, אין, אפשר, היו, ישנם, היה, ישנה, ייתכן, ישנו, ישנן
 
 <table>
   <tr><th>Paradigm <i>נמצא</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th><th><tt>Mid</tt></th></tr>
@@ -44,7 +44,7 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 ## Relations with Agreement in `Voice`
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
-<tt>VERB --[<tt><a href="he_iahltwiki-dep-conj.html">conj</a></tt>]--> VERB</tt> (960; 63%),
+<tt>VERB --[<tt><a href="he_iahltwiki-dep-conj.html">conj</a></tt>]--> VERB</tt> (961; 63%),
 <tt>VERB --[<tt><a href="he_iahltwiki-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (445; 77%),
 <tt>VERB --[<tt><a href="he_iahltwiki-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (240; 52%),
 <tt>VERB --[<tt><a href="he_iahltwiki-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (4; 57%),

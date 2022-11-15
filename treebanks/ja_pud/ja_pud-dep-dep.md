@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-12 nodes (0%) are attached to their parents as `dep`.
+11 nodes (0%) are attached to their parents as `dep`.
 
-12 instances of `dep` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.91666666666667.
+11 instances of `dep` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.90909090909091.
 
-The following 6 pairs of parts of speech are connected with `dep`: <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (6; 50% instances), <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (2; 17% instances), <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (1; 8% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (1; 8% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (1; 8% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 8% instances).
+The following 5 pairs of parts of speech are connected with `dep`: <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (6; 55% instances), <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (2; 18% instances), <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (1; 9% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (1; 9% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (1; 9% instances).
 
 
 ~~~ conllu

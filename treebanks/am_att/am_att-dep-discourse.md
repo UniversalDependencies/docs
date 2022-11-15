@@ -24,8 +24,8 @@ The following 21 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 4 5 discourse	color:blue
 1	ሰው	ሰው	NOUN	NOUN	_	4	obj	_	Translit=säwə|LTranslit=säwə
 2	ኣል	ኣል	PART	NEG	Polarity=Neg	4	advmod	_	Translit='alə|LTranslit='alə
-3	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	4	nsubj	_	Translit=jə|LTranslit=jə
-4	ኣስወጣ	ኣስወጣ	VERB	VERB	Voice=Cau	0	root	_	Translit='asəwäţa|LTranslit='asəwäţa
+3	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	LTranslit='əsu|Translit=jə
+4	ኣስወጣ	ኣስወጣ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Cau	0	root	_	Translit='asəwäţa|LTranslit='asəwäţa
 5	ም	ም	PART	NCM	_	4	discourse	_	Translit=mə|LTranslit=mə
 6	።	።	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=.
 
@@ -42,8 +42,8 @@ The following 21 pairs of parts of speech are connected with `discourse`: <tt><a
 2	ኡ	ኡ	DET	DET	_	1	det	_	Translit='u|LTranslit='u
 3	ን	ን	PART	ACC	_	1	case	_	Translit=nə|LTranslit=nə
 4	ብ	ብ	SCONJ	SCONJ	_	6	mark	_	Translit=bə|LTranslit=bə
-5	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	6	nsubj:pass	_	Translit=jə|LTranslit=jə
-6	ተናገር	ተናገር	VERB	VERB	Voice=Pass	0	root	_	Translit=tänagärə|LTranslit=tänagärə
+5	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj:pass	_	LTranslit='əsu|Translit=jə
+6	ተናገር	ተናገር	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Pass	0	root	_	Translit=tänagärə|LTranslit=tänagärə
 7	ስ	ስ	INTJ	INTJ	_	6	discourse	_	Translit=sə|LTranslit=sə
 8	።	።	PUNCT	PUNCT	_	6	punct	_	Translit=.|LTranslit=.
 
@@ -61,10 +61,10 @@ The following 21 pairs of parts of speech are connected with `discourse`: <tt><a
 3	ኡ	ኡ	DET	DET	_	2	det	_	Translit='u|LTranslit='u
 4	ን	ን	PART	ACC	_	2	case	_	Translit=nə|LTranslit=nə
 5	ብ	ብ	SCONJ	SCONJ	_	7	mark	_	Translit=bə|LTranslit=bə
-6	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	7	nsubj	_	Translit=jə|LTranslit=jə
-7	ናገር	ናገር	VERB	VERB	_	0	root	_	Translit=nagärə|LTranslit=nagärə
+6	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	LTranslit='əsu|Translit=jə
+7	ናገር	ናገር	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=nagärə|LTranslit=nagärə
 8	ኖር	ኖር	AUX	AUX	_	7	aux	_	Translit=norə|LTranslit=norə
-9	ኦ	ኦ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	7	expl	_	Translit='o|LTranslit='o
+9	ኦ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl	_	LTranslit='əsu|Translit='o
 10	።	።	PUNCT	PUNCT	_	7	punct	_	Translit=.|LTranslit=.
 
 ~~~

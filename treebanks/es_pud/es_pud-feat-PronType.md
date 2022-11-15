@@ -12,7 +12,7 @@ Some words have combined values of the feature; 1 combinations have been observe
 
 4378 tokens (19%) have a non-empty value of `PronType`.
 139 types (2%) occur at least once with a non-empty value of `PronType`.
-38 lemmas (1%) occur at least once with a non-empty value of `PronType`.
+37 lemmas (1%) occur at least once with a non-empty value of `PronType`.
 The feature is used with 2 part-of-speech tags: <tt><a href="es_pud-pos-DET.html">DET</a></tt> (3316; 14% instances), <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (1062; 5% instances).
 
 ### `DET`
@@ -44,7 +44,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Int,Rel` (281; 26% of non-empty `PronType`): <em>que, cual, cuales, quien, qué, cuál, quienes, cuanto, cuyo, quién</em>
 * `Prs` (773; 73% of non-empty `PronType`): <em>se, su, lo, sus, le, me, ellos, él, les, ella</em>
 
-`PronType` seems to be **lexical feature** of `PRON`. 95% lemmas (20) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `PRON`. 95% lemmas (19) occur only with one value of `PronType`.
 
 ## Relations with Agreement in `PronType`
 

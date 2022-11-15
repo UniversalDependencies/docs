@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-356 nodes (1%) are attached to their parents as `nummod`.
+366 nodes (1%) are attached to their parents as `nummod`.
 
-354 instances of `nummod` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.25.
+364 instances of `nummod` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.2431693989071.
 
-The following 4 pairs of parts of speech are connected with `nummod`: <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt> (311; 87% instances), <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt> (41; 12% instances), <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt>-<tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt>-<tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 4 pairs of parts of speech are connected with `nummod`: <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt> (321; 88% instances), <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt> (41; 11% instances), <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt>-<tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt>-<tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1728 nodes (1%) are attached to their parents as `nummod`.
+1729 nodes (1%) are attached to their parents as `nummod`.
 
-1585 instances of `nummod` (92%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.18055555555556.
+1586 instances of `nummod` (92%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.18160786581839.
 
-The following 4 pairs of parts of speech are connected with `nummod`: <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bg_btb-pos-NUM.html">NUM</a></tt> (1683; 97% instances), <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bg_btb-pos-NUM.html">NUM</a></tt> (41; 2% instances), <tt><a href="bg_btb-pos-PRON.html">PRON</a></tt>-<tt><a href="bg_btb-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 4 pairs of parts of speech are connected with `nummod`: <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bg_btb-pos-NUM.html">NUM</a></tt> (1684; 97% instances), <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bg_btb-pos-NUM.html">NUM</a></tt> (41; 2% instances), <tt><a href="bg_btb-pos-PRON.html">PRON</a></tt>-<tt><a href="bg_btb-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

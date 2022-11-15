@@ -28,10 +28,10 @@ The following 9 pairs of parts of speech are connected with `expl`: <tt><a href=
 4	ሥራ	ሥራ	NOUN	NOUN	_	7	obj	_	Translit=śəra|LTranslit=śəra
 5	ው	ው	DET	DET	_	4	det	_	Translit=wə|LTranslit=wə
 6	ን	ን	PART	ACC	_	4	case	_	Translit=nə|LTranslit=nə
-7	አስጨርስ	አስጨርስ	VERB	VERB	Voice=Cau	0	root	_	Translit='äsəćärəsə|LTranslit='äsəćärəsə
-8	ኧው	ኧው	PRON	SUBJC	Number=Sing|Person=3	7	nsubj	_	Translit='ăwə|LTranslit='ăwə
+7	አስጨርስ	አስጨርስ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Cau	0	root	_	Translit='äsəćärəsə|LTranslit='äsəćärəsə
+8	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	7	nsubj	_	LTranslit='əsu|Translit='ăwə
 9	ኣል	ኣል	AUX	AUX	_	7	aux	_	Translit='alə|LTranslit='alə
-10	ኧሁ	ኧሁ	PRON	SUBJC	Number=Sing|Person=1	7	expl	_	Translit='ăhu|LTranslit='ăhu
+10	ኧሁ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	7	expl	_	LTranslit='əne|Translit='ăhu
 11	።	።	PUNCT	PUNCT	_	7	punct	_	Translit=.|LTranslit=.
 
 ~~~
@@ -45,8 +45,8 @@ The following 9 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 2 4 expl	color:blue
 1	ካሳ	ካሳ	PROPN	PROPN	_	2	nsubj	_	Translit=kasa|LTranslit=kasa
 2	አስተማሪ	አስተማሪ	NOUN	NOUN	_	0	root	_	Translit='äsətämari|LTranslit='äsətämari
-3	ን	ን	AUX	AUX	_	2	cop	_	Translit=nə|LTranslit=nə
-4	ኧው	ኧው	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	2	expl	_	Translit='ăwə|LTranslit='ăwə
+3	ን	ን	AUX	AUX	_	2	cop	_	LTranslit=nə|Translit=nə
+4	ኧው	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl	_	LTranslit='əsu|Translit='ăwə
 5	።	።	PUNCT	PUNCT	_	2	punct	_	Translit=.|LTranslit=.
 
 ~~~
@@ -60,8 +60,8 @@ The following 9 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 2 4 expl	color:blue
 1	ወተት	ወተት	NOUN	NOUN	_	2	nsubj	_	Translit=wätätə|LTranslit=wätätə
 2	ነጭ	ነጭ	ADJ	ADJ	_	0	root	_	Translit=näćə|LTranslit=näćə
-3	ን	ን	AUX	AUX	_	2	cop	_	Translit=nə|LTranslit=nə
-4	ኧው	ኧው	PRON	SUBJC	Number=Sing|Person=3	2	expl	_	Translit='ăwə|LTranslit='ăwə
+3	ን	ን	AUX	AUX	_	2	cop	_	LTranslit=nə|Translit=nə
+4	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	2	expl	_	LTranslit='əsu|Translit='ăwə
 5	።	።	PUNCT	PUNCT	_	2	punct	_	Translit=.|LTranslit=.
 
 ~~~

@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Indonesian-GSD: POS Tags: `PUNCT`
 
-There are 33 `PUNCT` lemmas (0%), 35 `PUNCT` types (0%) and 17408 `PUNCT` tokens (14%).
+There are 33 `PUNCT` lemmas (0%), 35 `PUNCT` types (0%) and 17407 `PUNCT` tokens (14%).
 Out of 17 observed tags, the rank of `PUNCT` is: 12 in number of lemmas, 12 in number of types and 3 in number of tokens.
 
 The 10 most frequent `PUNCT` lemmas: <em>,, ., ), (, -, ", ?, :, ', /</em>
@@ -55,11 +55,11 @@ The 3rd highest number of forms (1) was observed with the lemma “!”: <em>!</
 
 ## Relations
 
-`PUNCT` nodes are attached to their parents using 2 different relations: <tt><a href="id_gsd-dep-punct.html">punct</a></tt> (17407; 100% instances), <tt><a href="id_gsd-dep-root.html">root</a></tt> (1; 0% instances)
+`PUNCT` nodes are attached to their parents using 2 different relations: <tt><a href="id_gsd-dep-punct.html">punct</a></tt> (17406; 100% instances), <tt><a href="id_gsd-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `PUNCT` nodes belong to 18 different parts of speech: <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (6782; 39% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (4796; 28% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (4080; 23% instances), <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> (650; 4% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (301; 2% instances), <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (244; 1% instances), <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (172; 1% instances), <tt><a href="id_gsd-pos-CCONJ.html">CCONJ</a></tt> (92; 1% instances), <tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> (87; 0% instances), <tt><a href="id_gsd-pos-SYM.html">SYM</a></tt> (47; 0% instances), <tt><a href="id_gsd-pos-SCONJ.html">SCONJ</a></tt> (46; 0% instances), <tt><a href="id_gsd-pos-DET.html">DET</a></tt> (41; 0% instances), <tt><a href="id_gsd-pos-X.html">X</a></tt> (28; 0% instances), <tt><a href="id_gsd-pos-AUX.html">AUX</a></tt> (25; 0% instances), <tt><a href="id_gsd-pos-PART.html">PART</a></tt> (14; 0% instances), <tt><a href="id_gsd-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances),  (1; 0% instances)
+Parents of `PUNCT` nodes belong to 18 different parts of speech: <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (6778; 39% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (4796; 28% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (4082; 23% instances), <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> (649; 4% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (301; 2% instances), <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (245; 1% instances), <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (172; 1% instances), <tt><a href="id_gsd-pos-CCONJ.html">CCONJ</a></tt> (92; 1% instances), <tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> (87; 0% instances), <tt><a href="id_gsd-pos-SYM.html">SYM</a></tt> (47; 0% instances), <tt><a href="id_gsd-pos-SCONJ.html">SCONJ</a></tt> (46; 0% instances), <tt><a href="id_gsd-pos-DET.html">DET</a></tt> (41; 0% instances), <tt><a href="id_gsd-pos-X.html">X</a></tt> (28; 0% instances), <tt><a href="id_gsd-pos-AUX.html">AUX</a></tt> (26; 0% instances), <tt><a href="id_gsd-pos-PART.html">PART</a></tt> (14; 0% instances), <tt><a href="id_gsd-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances),  (1; 0% instances)
 
-17407 (100%) `PUNCT` nodes are leaves.
+17406 (100%) `PUNCT` nodes are leaves.
 
 1 (0%) `PUNCT` nodes have one child.
 

@@ -48,7 +48,7 @@ The following 9 pairs of parts of speech are connected with `root`: -<tt><a href
 3	ταῦτα	οὗτος	PRON	p-p---nn-	Case=Nom|Gender=Neut|Number=Plur	1	nsubj	_	_
 4	τῶν	ὁ	DET	l-p---ng-	Case=Gen|Gender=Neut|Number=Plur	5	det	_	_
 5	ναυτικῶν	ναυτικός	ADJ	a-p---ng-	Case=Gen|Gender=Neut|Number=Plur	1	nmod	_	_
-6	ἦν	εἰμί	VERB	v3siia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	cop	_	SpaceAfter=No
+6	ἦν	εἰμί	AUX	v3siia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	cop	_	SpaceAfter=No
 7	.	.	PUNCT	u--------	_	1	punct	_	_
 
 ~~~
@@ -64,13 +64,13 @@ The following 9 pairs of parts of speech are connected with `root`: -<tt><a href
 2	οὐχ	οὐ	ADV	d--------	_	3	advmod	_	_
 3	ἧσσον	ἥσσων	ADJ	a-s---nac	Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing	4	advmod	_	_
 4	λῃσταὶ	λῃστής	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	0	root	_	_
-5	ἦσαν	εἰμί	VERB	v3piia---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	_
+5	ἦσαν	εἰμί	AUX	v3piia---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	_
 6	οἱ	ὁ	DET	l-p---mn-	Case=Nom|Gender=Masc|Number=Plur	7	det	_	_
 7	νησιῶται	νησιώτης	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	SpaceAfter=No
 8	,	,	PUNCT	u--------	_	9	punct	_	_
-9	Κᾶρές	Κάρ	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	11	xcomp	_	_
+9	Κᾶρές	Κάρ	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	4	xcomp	_	_
 10	τε	τε	ADV	d--------	_	9	advmod	_	_
-11	ὄντες	εἰμί	VERB	v-pppamn-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	4	cop	_	_
+11	ὄντες	εἰμί	AUX	v-pppamn-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	4	cop	_	_
 12	καὶ	καί	CCONJ	c--------	_	9	cc	_	_
 13	Φοίνικες	Φοῖνιξ	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	9	conj	_	SpaceAfter=No
 14	·	·	PUNCT	u--------	_	4	punct	_	_

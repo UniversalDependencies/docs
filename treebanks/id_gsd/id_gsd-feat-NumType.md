@@ -9,18 +9,18 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Card`, `Ord`.
 
-4664 tokens (4%) have a non-empty value of `NumType`.
+4662 tokens (4%) have a non-empty value of `NumType`.
 947 types (5%) occur at least once with a non-empty value of `NumType`.
 918 lemmas (6%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> (4269; 3% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (395; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> (4267; 3% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (395; 0% instances).
 
 ### `NUM`
 
-4269 <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
+4267 <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (4269; 100% of non-empty `NumType`): <em>satu, dua, 1, 2, 3, tiga, 5, 2010, 4, 2006</em>
+* `Card` (4267; 100% of non-empty `NumType`): <em>satu, dua, 1, 2, 3, tiga, 5, 2010, 4, 2006</em>
 
 `NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (885) occur only with one value of `NumType`.
 
@@ -38,7 +38,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="id_gsd-pos-NUM.html
 ## Relations with Agreement in `NumType`
 
 The 10 most frequent relations where parent and child node agree in `NumType`:
-<tt>NUM --[<tt><a href="id_gsd-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (294; 100%),
+<tt>NUM --[<tt><a href="id_gsd-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (292; 100%),
 <tt>NUM --[<tt><a href="id_gsd-dep-flat.html">flat</a></tt>]--> NUM</tt> (97; 100%),
 <tt>NUM --[<tt><a href="id_gsd-dep-conj.html">conj</a></tt>]--> NUM</tt> (33; 100%),
 <tt>NUM --[<tt><a href="id_gsd-dep-appos.html">appos</a></tt>]--> NUM</tt> (14; 100%),

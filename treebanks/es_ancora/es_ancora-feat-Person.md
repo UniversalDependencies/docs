@@ -11,7 +11,7 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 61148 tokens (11%) have a non-empty value of `Person`.
 7684 types (20%) occur at least once with a non-empty value of `Person`.
-1938 lemmas (7%) occur at least once with a non-empty value of `Person`.
+1933 lemmas (7%) occur at least once with a non-empty value of `Person`.
 The feature is used with 4 part-of-speech tags: <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (30472; 5% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (12652; 2% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (12617; 2% instances), <tt><a href="es_ancora-pos-DET.html">DET</a></tt> (5407; 1% instances).
 
 ### `VERB`

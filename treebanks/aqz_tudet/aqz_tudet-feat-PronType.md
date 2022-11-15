@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal but the values `Emp` are language-specific.
 It occurs with 3 different values: `Emp`, `Ind`, `Prs`.
 
-57 tokens (5%) have a non-empty value of `PronType`.
+73 tokens (6%) have a non-empty value of `PronType`.
 10 types (2%) occur at least once with a non-empty value of `PronType`.
 8 lemmas (3%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt> (57; 5% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt> (73; 6% instances).
 
 ### `PRON`
 
-57 <tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt> tokens (76% of all `PRON` tokens) have a non-empty value of `PronType`.
+73 <tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt> tokens (79% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="aqz_tudet-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (52; 91%), <tt><a href="aqz_tudet-feat-Number.html">Number</a></tt><tt>=Sing</tt> (43; 75%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="aqz_tudet-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (66; 90%), <tt><a href="aqz_tudet-feat-Number.html">Number</a></tt><tt>=Sing</tt> (57; 78%).
 
 `PRON` tokens may have the following values of `PronType`:
 
-* `Emp` (6; 11% of non-empty `PronType`): <em>erẽ, orẽ</em>
-* `Ind` (7; 12% of non-empty `PronType`): <em>no</em>
-* `Prs` (44; 77% of non-empty `PronType`): <em>en, on, kitʃe, erẽbõ, orẽbõ, te, enõ</em>
-* `EMPTY` (18): <em>tara, arop, i, aroperi, ebõ, en, tebõ, ẽromri</em>
+* `Emp` (7; 10% of non-empty `PronType`): <em>erẽ, orẽ</em>
+* `Ind` (8; 11% of non-empty `PronType`): <em>no</em>
+* `Prs` (58; 79% of non-empty `PronType`): <em>en, on, erẽbõ, kitʃe, orẽbõ, te, enõ</em>
+* `EMPTY` (19): <em>tara, arop, i, aroperi, ebõ, en, tebõ, ẽromri</em>
 
 <table>
   <tr><th>Paradigm <i>erẽ</i></th><th><tt>Prs</tt></th><th><tt>Emp</tt></th></tr>

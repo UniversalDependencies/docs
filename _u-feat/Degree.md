@@ -105,4 +105,4 @@ verbs).
 * [cs] _chlap_ "guy"; _<b>chlapák</b>_ "<b>big guy, macho</b>"
 * [pt] _apartamento_ "apartment"; _<b>apartamentão</b>_ "<b>big apartment</b>"
 
-<!-- Interlanguage links updated So kvě 14 19:02:11 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:44 CET 2022 -->

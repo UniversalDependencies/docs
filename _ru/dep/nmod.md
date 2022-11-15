@@ -69,4 +69,4 @@ amod(president, Russian)
 appos(Владимир, президент)
 appos(Vladimir, president)
 ~~~
-<!-- Interlanguage links updated So kvě 14 19:03:45 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:31 CET 2022 -->

@@ -30,19 +30,21 @@ The 1st highest number of forms (2) was observed with the lemma “_”: <em>ʃa
 
 ## Relations
 
-`PROPN` nodes are attached to their parents using 1 different relations: <tt><a href="bej_nsc-dep-reparandum.html">reparandum</a></tt> (2; 100% instances)
+`PROPN` nodes are attached to their parents using 2 different relations: <tt><a href="bej_nsc-dep-obl-arg.html">obl:arg</a></tt> (1; 50% instances), <tt><a href="bej_nsc-dep-reparandum.html">reparandum</a></tt> (1; 50% instances)
 
-Parents of `PROPN` nodes belong to 1 different parts of speech: <tt><a href="bej_nsc-pos-ADV.html">ADV</a></tt> (2; 100% instances)
+Parents of `PROPN` nodes belong to 2 different parts of speech: <tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt> (1; 50% instances), <tt><a href="bej_nsc-pos-VERB.html">VERB</a></tt> (1; 50% instances)
 
 0 (0%) `PROPN` nodes are leaves.
 
-0 (0%) `PROPN` nodes have one child.
+1 (50%) `PROPN` nodes have one child.
 
-2 (100%) `PROPN` nodes have two children.
+0 (0%) `PROPN` nodes have two children.
 
-The highest child degree of a `PROPN` node is 2.
+1 (50%) `PROPN` nodes have three or more children.
 
-Children of `PROPN` nodes are attached using 4 different relations: <tt><a href="bej_nsc-dep-case.html">case</a></tt> (1; 25% instances), <tt><a href="bej_nsc-dep-cc.html">cc</a></tt> (1; 25% instances), <tt><a href="bej_nsc-dep-det.html">det</a></tt> (1; 25% instances), <tt><a href="bej_nsc-dep-reparandum.html">reparandum</a></tt> (1; 25% instances)
+The highest child degree of a `PROPN` node is 4.
 
-Children of `PROPN` nodes belong to 4 different parts of speech: <tt><a href="bej_nsc-pos-ADP.html">ADP</a></tt> (1; 25% instances), <tt><a href="bej_nsc-pos-ADV.html">ADV</a></tt> (1; 25% instances), <tt><a href="bej_nsc-pos-CCONJ.html">CCONJ</a></tt> (1; 25% instances), <tt><a href="bej_nsc-pos-DET.html">DET</a></tt> (1; 25% instances)
+Children of `PROPN` nodes are attached using 5 different relations: <tt><a href="bej_nsc-dep-case.html">case</a></tt> (1; 20% instances), <tt><a href="bej_nsc-dep-cc.html">cc</a></tt> (1; 20% instances), <tt><a href="bej_nsc-dep-det.html">det</a></tt> (1; 20% instances), <tt><a href="bej_nsc-dep-punct.html">punct</a></tt> (1; 20% instances), <tt><a href="bej_nsc-dep-reparandum.html">reparandum</a></tt> (1; 20% instances)
+
+Children of `PROPN` nodes belong to 5 different parts of speech: <tt><a href="bej_nsc-pos-ADP.html">ADP</a></tt> (1; 20% instances), <tt><a href="bej_nsc-pos-ADV.html">ADV</a></tt> (1; 20% instances), <tt><a href="bej_nsc-pos-CCONJ.html">CCONJ</a></tt> (1; 20% instances), <tt><a href="bej_nsc-pos-DET.html">DET</a></tt> (1; 20% instances), <tt><a href="bej_nsc-pos-PUNCT.html">PUNCT</a></tt> (1; 20% instances)
 

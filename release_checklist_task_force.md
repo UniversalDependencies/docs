@@ -39,10 +39,11 @@ See [here](release_checklist.html) for the checklist for data contributors.
 * Check the [validation report](http://quest.ms.mff.cuni.cz/udvalidator/)
   for legacy exceptions that are no longer needed.
   Edit [valdan/dispensations.json](https://github.com/UniversalDependencies/docs-automation/blob/master/valdan/dispensations.json)
-  and remove those exceptions.
+  and remove those exceptions:<br />
+  <code>cd docs-automation/valdan ; git pull --no-edit ; update-dispensations.pl --json dispensations.json ; git commit -a -m 'Updated validation dispensations.' ;  git push ; cd ../..</code>
 * Save the list of the released treebanks in [valdan/releases.json](https://github.com/UniversalDependencies/docs-automation/blob/master/valdan/releases.json)
   by running<br />
-  <code>docs-automation/valdan/save-release-json.pl --json docs-automation/valdan/releases.json --releasenum 2.11 --releasedate 2022-05-15 $(cat released_treebanks.txt)</code><br />
+  <code>docs-automation/valdan/save-release-json.pl --json docs-automation/valdan/releases.json --releasenum 2.11 --releasedate 2022-11-15 $(cat released_treebanks.txt) ; cd docs-automation ; git commit -a -m 'Updated release list.' ; git push ; cd ..</code><br />
   Note that if a treebank was renamed between the last two releases, it must be hard-coded in the script before running it!
 
 ## Processing the data before releasing them
@@ -73,7 +74,7 @@ See [here](release_checklist.html) for the checklist for data contributors.
 ## Updating automatically generated parts of documentation
 
 * Run the script that refreshes the title page of Universal Dependencies (list of languages, treebanks and their properties).<br />
-  <code>cd docs-automation ; make all ; cd ../docs ; git pull --no-edit ; git commit -a -m 'Updated title page.' ; git push</code>
+  <code>cd docs ; git pull --no-edit ; cd ../docs-automation ; git pull --no-edit ; make all ; cd ../docs ; git commit -a -m 'Updated title page.' ; git push</code>
 * Run the `conllu-stats.pl` script again (but with different settings) and generate the long statistics that are displayed in the docs; note that the script takes the release number as a parameter and puts it in the generated index page:<br />
   <code>cd docs ; git pull --no-edit ; cd .. ; for i in $(cat released_treebanks.txt) ; do echo $i ; tools/conllu-stats.pl --oformat newdetailed --release 2.11 --treebank $i --docs docs ; echo ; done ; cd docs ; git add treebanks/*/*.md ; git commit -m 'Updated statistics.' ; git push ; cd ..</code>
 * Generate side-by-side comparison whenever there are multiple treebanks of one language:<br />

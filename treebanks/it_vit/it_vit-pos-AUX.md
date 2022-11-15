@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>è</em> (<tt><a href="it_vit-pos-AUX.
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 18.300000 (the average of all parts of speech is 1.498179).
+The form / lemma ratio of `AUX` is 18.300000 (the average of all parts of speech is 1.498207).
 
 The 1st highest number of forms (37) was observed with the lemma “essere”: <em>Siate, era, erano, eravamo, ero, essendo, esser, essere, esserne, fosse, fossero, fossi, fossimo, fu, fui, furono, saranno, sarebbe, sarebbero, sarei, saremmo, saremo, sarete, sarà, sarò, sei, sia, siamo, siano, siete, son, sono, stata, state, stati, stato, è</em>.
 
@@ -75,7 +75,7 @@ Examples: <em>è, ha, deve, può, viene, va, sta, vuole, vuol, dev'</em>
 
 `AUX` nodes are attached to their parents using 6 different relations: <tt><a href="it_vit-dep-aux.html">aux</a></tt> (5378; 57% instances), <tt><a href="it_vit-dep-cop.html">cop</a></tt> (2331; 25% instances), <tt><a href="it_vit-dep-aux-pass.html">aux:pass</a></tt> (1701; 18% instances), <tt><a href="it_vit-dep-conj.html">conj</a></tt> (8; 0% instances), <tt><a href="it_vit-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="it_vit-dep-ccomp.html">ccomp</a></tt> (1; 0% instances)
 
-Parents of `AUX` nodes belong to 10 different parts of speech: <tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (6791; 72% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (1088; 12% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (1026; 11% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (217; 2% instances), <tt><a href="it_vit-pos-ADV.html">ADV</a></tt> (134; 1% instances), <tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt> (86; 1% instances), <tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (65; 1% instances), <tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="it_vit-pos-X.html">X</a></tt> (6; 0% instances), <tt><a href="it_vit-pos-ADP.html">ADP</a></tt> (1; 0% instances)
+Parents of `AUX` nodes belong to 10 different parts of speech: <tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (6792; 72% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (1090; 12% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (1026; 11% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (217; 2% instances), <tt><a href="it_vit-pos-ADV.html">ADV</a></tt> (131; 1% instances), <tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt> (86; 1% instances), <tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (65; 1% instances), <tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="it_vit-pos-X.html">X</a></tt> (6; 0% instances), <tt><a href="it_vit-pos-ADP.html">ADP</a></tt> (1; 0% instances)
 
 9403 (100%) `AUX` nodes are leaves.
 

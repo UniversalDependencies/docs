@@ -92,7 +92,7 @@ The following 2 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 47	Wunsch	Wunsch	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	52	obl	_	_
 48	nach	nach	ADP	APPR	_	50	case	_	_
 49	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	50	det	_	_
-50	nächsten	nah	ADJ	ADJA	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	45	nmod	_	_
+50	nächsten	nah	ADJ	ADJA	Case=Dat|Degree=Sup|Gender=Masc|Number=Sing	45	nmod	_	_
 51	zu	zu	PART	PTKZU	_	52	mark	_	_
 52	überreden	überreden	VERB	VVINF	VerbForm=Inf	41	xcomp	_	SpaceAfter=No
 53	,	,	PUNCT	$,	_	59	punct	_	_

@@ -30,7 +30,7 @@ The most frequent other feature values with which `X` and `Foreign` co-occurred:
 ## Relations with Agreement in `Foreign`
 
 The 10 most frequent relations where parent and child node agree in `Foreign`:
-<tt>X --[<tt><a href="sl_ssj-dep-flat-foreign.html">flat:foreign</a></tt>]--> X</tt> (452; 99%),
+<tt>X --[<tt><a href="sl_ssj-dep-flat-foreign.html">flat:foreign</a></tt>]--> X</tt> (452; 98%),
 <tt>X --[<tt><a href="sl_ssj-dep-conj.html">conj</a></tt>]--> X</tt> (13; 93%),
 <tt>X --[<tt><a href="sl_ssj-dep-fixed.html">fixed</a></tt>]--> X</tt> (4; 80%),
 <tt>X --[<tt><a href="sl_ssj-dep-nmod.html">nmod</a></tt>]--> X</tt> (4; 100%),

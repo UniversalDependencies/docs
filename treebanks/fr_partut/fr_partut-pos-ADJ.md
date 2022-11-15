@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>présent</em> (<tt><a href="fr_partut
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.400000 (the average of all parts of speech is 1.431974).
+The form / lemma ratio of `ADJ` is 1.400000 (the average of all parts of speech is 1.431648).
 
 The 1st highest number of forms (5) was observed with the lemma “européen”: <em>europeen, européen, européenne, européennes, européens</em>.
 

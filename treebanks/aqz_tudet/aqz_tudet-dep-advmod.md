@@ -8,12 +8,25 @@ udver: '2'
 
 This relation is universal.
 
-62 nodes (6%) are attached to their parents as `advmod`.
+70 nodes (5%) are attached to their parents as `advmod`.
 
-40 instances of `advmod` (65%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.24193548387097.
+44 instances of `advmod` (63%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.25714285714286.
 
-The following 7 pairs of parts of speech are connected with `advmod`: <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt> (26; 42% instances), <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt> (26; 42% instances), <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-PART.html">PART</a></tt> (5; 8% instances), <tt><a href="aqz_tudet-pos-DET.html">DET</a></tt>-<tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="aqz_tudet-pos-ADJ.html">ADJ</a></tt>-<tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-PART.html">PART</a></tt> (1; 2% instances), <tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt> (1; 2% instances).
+The following 8 pairs of parts of speech are connected with `advmod`: <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt> (29; 41% instances), <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt> (26; 37% instances), <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-PART.html">PART</a></tt> (8; 11% instances), <tt><a href="aqz_tudet-pos-DET.html">DET</a></tt>-<tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-DET.html">DET</a></tt> (2; 3% instances), <tt><a href="aqz_tudet-pos-ADJ.html">ADJ</a></tt>-<tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt> (1; 1% instances).
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 advmod	color:blue
+1	Ariano	Ariano	PROPN	pn	_	2	nsubj	_	_
+2	teita	ita	VERB	vi	Person=3|Reflex=Yes	0	root	_	_
+3	kɨrẽ	kɨrẽ	ADV	adv	_	2	advmod	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -27,19 +40,6 @@ The following 7 pairs of parts of speech are connected with `advmod`: <tt><a hre
 3	kem	kem	NOUN	n	_	1	nmod	_	_
 4	kɨ	kɨ	NOUN	n	_	3	nmod	_	_
 5	rom	rom	ADV	adv	Polarity=Neg	3	advmod	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 advmod	color:blue
-1	Ariano	Ariano	PROPN	pn	_	2	nsubj	_	_
-2	teita	ita	VERB	vi	Person=3|Reflex=Yes	0	root	_	_
-3	kɨrẽ	kɨrẽ	ADV	adv	_	2	advmod	_	_
 
 ~~~
 

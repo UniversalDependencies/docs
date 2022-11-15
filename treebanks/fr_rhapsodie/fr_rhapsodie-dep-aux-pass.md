@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_French-Rhapsodie: Relations: `aux:pass`
 
 This relation is a language-specific subtype of <tt><a href="fr_rhapsodie-dep-aux.html">aux</a></tt>.
-There are also 1 other language-specific subtypes of `aux`: <tt><a href="fr_rhapsodie-dep-aux-caus.html">aux:caus</a></tt>.
+There are also 2 other language-specific subtypes of `aux`: <tt><a href="fr_rhapsodie-dep-aux-caus.html">aux:caus</a></tt>, <tt><a href="fr_rhapsodie-dep-aux-tense.html">aux:tense</a></tt>.
 
-130 nodes (0%) are attached to their parents as `aux:pass`.
+134 nodes (0%) are attached to their parents as `aux:pass`.
 
-129 instances of `aux:pass` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.50769230769231.
+133 instances of `aux:pass` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.5.
 
-The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> (130; 100% instances).
+The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> (134; 100% instances).
 
 
 ~~~ conllu

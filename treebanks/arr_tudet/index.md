@@ -12,15 +12,15 @@ udver: '2'
 # UD Karo TuDeT
 
 Language: [Karo](/arr/index.html) (code: `arr`)<br/>
-Family: Tupian, Purubora-Ramarama
+Family: Tupian, Ramarama
 
 This treebank has been part of Universal Dependencies since the UD v2.9 release.
 
 The following people have contributed to making this treebank part of UD: Fabrício Ferraz Gerardi.
 
 Repository: [UD_Karo-TuDeT](https://github.com/UniversalDependencies/UD_Karo-TuDeT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udarr_tudet210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udarr_tudet211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-SA 4.0
 

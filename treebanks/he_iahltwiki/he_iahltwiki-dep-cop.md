@@ -26,7 +26,7 @@ The following 18 pairs of parts of speech are connected with `cop`: <tt><a href=
 2	ה	ה	DET	DET	Definite=Def|PronType=Art	3	det	_	_
 3	לוואי	לוואי	NOUN	NOUN	Gender=Fem|Number=Plur	1	compound	_	_
 4	עלולות	עלול	AUX	AUX	Gender=Fem|Number=Plur	6	aux	_	_
-5	להיות	היה	AUX	AUX	Polarity=Pos|VerbForm=Inf	6	cop	_	_
+5	להיות	היה	AUX	AUX	HebBinyan=PAAL|Polarity=Pos|VerbForm=Inf	6	cop	_	_
 6	בחילות	בחילה	NOUN	NOUN	Gender=Fem|Number=Plur	0	root	_	_
 7	ו	ו	CCONJ	CCONJ	_	8	cc	_	_
 8	תחושת	תחושה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	6	conj	_	_
@@ -44,7 +44,7 @@ The following 18 pairs of parts of speech are connected with `cop`: <tt><a href=
 # visual-style 5 3 cop	color:blue
 1	פלזמה	פלזמה	NOUN	NOUN	Gender=Fem|Number=Sing	5	nsubj	_	_
 2	קפואה	קפוא	ADJ	ADJ	Gender=Fem|Number=Sing	1	amod	_	_
-3	היא	הוא	PRON	PRON	Gender=Fem|Number=Sing|Person=3|Polarity=Pos	5	cop	_	_
+3	היא	הוא	PRON	PRON	Gender=Fem|Number=Sing|Person=3|Polarity=Pos|PronType=Prs	5	cop	_	_
 4	ה	ה	DET	DET	Definite=Def|PronType=Art	5	det	_	_
 5	טיפול	טיפול	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	_
 6	ה	ה	DET	DET	Definite=Def|PronType=Art	7	det	_	_
@@ -79,7 +79,7 @@ The following 18 pairs of parts of speech are connected with `cop`: <tt><a href=
 9	ש	ש	SCONJ	SCONJ	_	13	mark	_	_
 10	עד	עד	ADV	ADV	_	13	advmod	_	_
 11	כה	כה	ADV	ADV	_	10	fixed	_	_
-12	היו	היה	AUX	AUX	Gender=Fem|Number=Plur|Person=3|Polarity=Pos|Tense=Past	13	cop	_	_
+12	היו	היה	AUX	AUX	Gender=Fem|HebBinyan=PAAL|Number=Plur|Person=3|Polarity=Pos|Tense=Past	13	cop	_	_
 13	חסרות	חסר	ADJ	ADJ	Definite=Cons|Gender=Fem|Number=Plur	7	acl:relcl	_	_
 14	משמעות	משמעות	NOUN	NOUN	Gender=Fem|Number=Sing	13	compound	_	SpaceAfter=No
 15	.	.	PUNCT	PUNCT	_	6	punct	_	_

@@ -49,3 +49,4 @@ Te modele je/VERB treba/ADV potem le malenkostno prilagoditi .
 csubj(je,prilagoditi)
 advmod(je,treba)
 ~~~
+<!-- Interlanguage links updated Po lis 14 15:35:19 CET 2022 -->

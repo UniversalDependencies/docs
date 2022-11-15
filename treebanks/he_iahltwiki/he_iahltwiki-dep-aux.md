@@ -69,7 +69,7 @@ The following 8 pairs of parts of speech are connected with `aux`: <tt><a href="
 2	ה	ה	DET	DET	Definite=Def|PronType=Art	3	det	_	_
 3	לוואי	לוואי	NOUN	NOUN	Gender=Fem|Number=Plur	1	compound	_	_
 4	עלולות	עלול	AUX	AUX	Gender=Fem|Number=Plur	6	aux	_	_
-5	להיות	היה	AUX	AUX	Polarity=Pos|VerbForm=Inf	6	cop	_	_
+5	להיות	היה	AUX	AUX	HebBinyan=PAAL|Polarity=Pos|VerbForm=Inf	6	cop	_	_
 6	בחילות	בחילה	NOUN	NOUN	Gender=Fem|Number=Plur	0	root	_	_
 7	ו	ו	CCONJ	CCONJ	_	8	cc	_	_
 8	תחושת	תחושה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	6	conj	_	_

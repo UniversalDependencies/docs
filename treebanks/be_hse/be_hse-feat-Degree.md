@@ -18,7 +18,7 @@ The feature is used with 10 part-of-speech tags: <tt><a href="be_hse-pos-ADJ.htm
 
 23531 <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> tokens (88% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (20497; 87%), <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17059; 72%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (20494; 87%), <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17059; 72%).
 
 `ADJ` tokens may have the following values of `Degree`:
 

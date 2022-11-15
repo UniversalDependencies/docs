@@ -16,3 +16,4 @@ appos(središče,peč)
 Dianne se je sprla z Liso , svojo prijateljico , in se je odločila, da gre domov 
 appos(Liso,prijateljico)
 ~~~
+<!-- Interlanguage links updated Po lis 14 15:35:09 CET 2022 -->

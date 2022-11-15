@@ -11,9 +11,9 @@ This relation is universal.
 1078 nodes (10%) are attached to their parents as `root`.
 
 1078 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.7569573283859.
+Average distance between parent and child is 7.80055658627087.
 
-The following 9 pairs of parts of speech are connected with `root`: -<tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt> (740; 69% instances), -<tt><a href="kk_ktb-pos-NOUN.html">NOUN</a></tt> (146; 14% instances), -<tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> (138; 13% instances), -<tt><a href="kk_ktb-pos-PRON.html">PRON</a></tt> (21; 2% instances), -<tt><a href="kk_ktb-pos-NUM.html">NUM</a></tt> (11; 1% instances), -<tt><a href="kk_ktb-pos-ADV.html">ADV</a></tt> (9; 1% instances), -<tt><a href="kk_ktb-pos-PROPN.html">PROPN</a></tt> (9; 1% instances), -<tt><a href="kk_ktb-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), -<tt><a href="kk_ktb-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `root`: -<tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt> (744; 69% instances), -<tt><a href="kk_ktb-pos-NOUN.html">NOUN</a></tt> (144; 13% instances), -<tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> (137; 13% instances), -<tt><a href="kk_ktb-pos-PRON.html">PRON</a></tt> (20; 2% instances), -<tt><a href="kk_ktb-pos-NUM.html">NUM</a></tt> (11; 1% instances), -<tt><a href="kk_ktb-pos-ADV.html">ADV</a></tt> (9; 1% instances), -<tt><a href="kk_ktb-pos-PROPN.html">PROPN</a></tt> (9; 1% instances), -<tt><a href="kk_ktb-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), -<tt><a href="kk_ktb-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

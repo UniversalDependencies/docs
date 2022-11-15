@@ -73,11 +73,11 @@ Examples: た, ている, れ, な, に, てい, である, ます, まし, だ
 
 `AUX` nodes are attached to their parents using 5 different relations: <tt><a href="ja_pudluw-dep-aux.html">aux</a></tt> (2701; 96% instances), <tt><a href="ja_pudluw-dep-cop.html">cop</a></tt> (109; 4% instances), <tt><a href="ja_pudluw-dep-fixed.html">fixed</a></tt> (3; 0% instances), <tt><a href="ja_pudluw-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="ja_pudluw-dep-appos.html">appos</a></tt> (1; 0% instances)
 
-Parents of `AUX` nodes belong to 9 different parts of speech: <tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt> (2101; 75% instances), <tt><a href="ja_pudluw-pos-ADJ.html">ADJ</a></tt> (380; 13% instances), <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt> (288; 10% instances), <tt><a href="ja_pudluw-pos-NUM.html">NUM</a></tt> (20; 1% instances), <tt><a href="ja_pudluw-pos-PROPN.html">PROPN</a></tt> (10; 0% instances), <tt><a href="ja_pudluw-pos-PRON.html">PRON</a></tt> (8; 0% instances), <tt><a href="ja_pudluw-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="ja_pudluw-pos-AUX.html">AUX</a></tt> (3; 0% instances),  (2; 0% instances)
+Parents of `AUX` nodes belong to 9 different parts of speech: <tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt> (2100; 75% instances), <tt><a href="ja_pudluw-pos-ADJ.html">ADJ</a></tt> (380; 13% instances), <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt> (289; 10% instances), <tt><a href="ja_pudluw-pos-NUM.html">NUM</a></tt> (20; 1% instances), <tt><a href="ja_pudluw-pos-PROPN.html">PROPN</a></tt> (10; 0% instances), <tt><a href="ja_pudluw-pos-PRON.html">PRON</a></tt> (8; 0% instances), <tt><a href="ja_pudluw-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="ja_pudluw-pos-AUX.html">AUX</a></tt> (3; 0% instances),  (2; 0% instances)
 
-2813 (100%) `AUX` nodes are leaves.
+2812 (100%) `AUX` nodes are leaves.
 
-0 (0%) `AUX` nodes have one child.
+1 (0%) `AUX` nodes have one child.
 
 0 (0%) `AUX` nodes have two children.
 
@@ -85,7 +85,7 @@ Parents of `AUX` nodes belong to 9 different parts of speech: <tt><a href="ja_pu
 
 The highest child degree of a `AUX` node is 7.
 
-Children of `AUX` nodes are attached using 6 different relations: <tt><a href="ja_pudluw-dep-punct.html">punct</a></tt> (4; 27% instances), <tt><a href="ja_pudluw-dep-compound.html">compound</a></tt> (3; 20% instances), <tt><a href="ja_pudluw-dep-fixed.html">fixed</a></tt> (3; 20% instances), <tt><a href="ja_pudluw-dep-dep.html">dep</a></tt> (2; 13% instances), <tt><a href="ja_pudluw-dep-nmod.html">nmod</a></tt> (2; 13% instances), <tt><a href="ja_pudluw-dep-advcl.html">advcl</a></tt> (1; 7% instances)
+Children of `AUX` nodes are attached using 6 different relations: <tt><a href="ja_pudluw-dep-punct.html">punct</a></tt> (5; 31% instances), <tt><a href="ja_pudluw-dep-compound.html">compound</a></tt> (3; 19% instances), <tt><a href="ja_pudluw-dep-fixed.html">fixed</a></tt> (3; 19% instances), <tt><a href="ja_pudluw-dep-dep.html">dep</a></tt> (2; 13% instances), <tt><a href="ja_pudluw-dep-nmod.html">nmod</a></tt> (2; 13% instances), <tt><a href="ja_pudluw-dep-advcl.html">advcl</a></tt> (1; 6% instances)
 
-Children of `AUX` nodes belong to 5 different parts of speech: <tt><a href="ja_pudluw-pos-PUNCT.html">PUNCT</a></tt> (4; 27% instances), <tt><a href="ja_pudluw-pos-AUX.html">AUX</a></tt> (3; 20% instances), <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt> (3; 20% instances), <tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt> (3; 20% instances), <tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> (2; 13% instances)
+Children of `AUX` nodes belong to 5 different parts of speech: <tt><a href="ja_pudluw-pos-PUNCT.html">PUNCT</a></tt> (5; 31% instances), <tt><a href="ja_pudluw-pos-AUX.html">AUX</a></tt> (3; 19% instances), <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt> (3; 19% instances), <tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt> (3; 19% instances), <tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> (2; 13% instances)
 

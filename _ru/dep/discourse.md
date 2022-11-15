@@ -21,4 +21,4 @@ discourse(joking, Oh)
 
 Note that in Russian, the parentheticals (*значит* “I mean”, *так сказать* “so to say”) are labeled `parataxis` and the question particle _ли_ “whether” used as a marker of the Yes-No questions is labeled `advmod`.
 
-<!-- Interlanguage links updated So kvě 14 19:03:30 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:23 CET 2022 -->

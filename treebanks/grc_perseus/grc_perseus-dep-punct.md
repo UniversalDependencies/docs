@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-24970 nodes (12%) are attached to their parents as `punct`.
+24963 nodes (12%) are attached to their parents as `punct`.
 
-16892 instances of `punct` (68%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.66495794953945.
+16888 instances of `punct` (68%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.66662660737892.
 
-The following 19 pairs of parts of speech are connected with `punct`: <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_perseus-pos-PUNCT.html">PUNCT</a></tt> (17958; 72% instances), <tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_perseus-pos-PUNCT.html">PUNCT</a></tt> (1964; 8% instances), <tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_perseus-pos-PUNCT.html">PUNCT</a></tt> (1289; 5% instances), <tt><a href="grc_perseus-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="grc_perseus-pos-PUNCT.html">PUNCT</a></tt> (1114; 4% instances), <tt><a href="grc_perseus-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="grc_perseus-pos-PUNCT.html">PUNCT</a></tt> (774; 3% instances), <tt><a href="grc_perseus-pos-ADV.html">ADV</a></tt>-<tt><a href="grc_perseus-pos-PUNCT.html">PUNCT</a></tt> (578; 2% instances), <tt><a href="grc_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="grc_perseus-pos-PUNCT.html">PUNCT</a></tt> (494; 2% instances), <tt><a href="grc_perseus-pos-ADP.html">ADP</a></tt>-<tt><a href="grc_perseus-pos-PUNCT.html">PUNCT</a></tt> (341; 1% instances), <tt><a href="grc_perseus-pos-DET.html">DET</a></tt>-<tt><a href="grc_perseus-pos-PUNCT.html">PUNCT</a></tt> (254; 1% instances), <tt><a href="grc_perseus-pos-PART.html">PART</a></tt>-<tt><a href="grc_perseus-pos-PUNCT.html">PUNCT</a></tt> (124; 0% instances), <tt><a href="grc_perseus-pos-INTJ.html">INTJ</a></tt>-<tt><a href="grc_perseus-pos-PUNCT.html">PUNCT</a></tt> (49; 0% instances), <tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt>-<tt><a href="grc_perseus-pos-PUNCT.html">PUNCT</a></tt> (14; 0% instances), <tt><a href="grc_perseus-pos-X.html">X</a></tt>-<tt><a href="grc_perseus-pos-PUNCT.html">PUNCT</a></tt> (10; 0% instances), <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_perseus-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_perseus-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_perseus-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="grc_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="grc_perseus-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="grc_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="grc_perseus-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_perseus-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `punct`: <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_perseus-pos-PUNCT.html">PUNCT</a></tt> (17951; 72% instances), <tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_perseus-pos-PUNCT.html">PUNCT</a></tt> (1965; 8% instances), <tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_perseus-pos-PUNCT.html">PUNCT</a></tt> (1292; 5% instances), <tt><a href="grc_perseus-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="grc_perseus-pos-PUNCT.html">PUNCT</a></tt> (1116; 4% instances), <tt><a href="grc_perseus-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="grc_perseus-pos-PUNCT.html">PUNCT</a></tt> (760; 3% instances), <tt><a href="grc_perseus-pos-ADV.html">ADV</a></tt>-<tt><a href="grc_perseus-pos-PUNCT.html">PUNCT</a></tt> (580; 2% instances), <tt><a href="grc_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="grc_perseus-pos-PUNCT.html">PUNCT</a></tt> (495; 2% instances), <tt><a href="grc_perseus-pos-ADP.html">ADP</a></tt>-<tt><a href="grc_perseus-pos-PUNCT.html">PUNCT</a></tt> (339; 1% instances), <tt><a href="grc_perseus-pos-DET.html">DET</a></tt>-<tt><a href="grc_perseus-pos-PUNCT.html">PUNCT</a></tt> (255; 1% instances), <tt><a href="grc_perseus-pos-PART.html">PART</a></tt>-<tt><a href="grc_perseus-pos-PUNCT.html">PUNCT</a></tt> (125; 1% instances), <tt><a href="grc_perseus-pos-INTJ.html">INTJ</a></tt>-<tt><a href="grc_perseus-pos-PUNCT.html">PUNCT</a></tt> (49; 0% instances), <tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt>-<tt><a href="grc_perseus-pos-PUNCT.html">PUNCT</a></tt> (14; 0% instances), <tt><a href="grc_perseus-pos-AUX.html">AUX</a></tt>-<tt><a href="grc_perseus-pos-PUNCT.html">PUNCT</a></tt> (12; 0% instances), <tt><a href="grc_perseus-pos-X.html">X</a></tt>-<tt><a href="grc_perseus-pos-PUNCT.html">PUNCT</a></tt> (10; 0% instances).
 
 
 ~~~ conllu
@@ -44,7 +44,7 @@ The following 19 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 3	fgColor:white
 # visual-style 3 11 punct	color:blue
 1	Ἐπίδαμνός	Ἐπίδαμνος	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
-2	ἐστι	εἰμί	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
+2	ἐστι	εἰμί	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
 3	πόλις	πόλις	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
 4	ἐν	εἰς	ADP	r--------	_	5	case	_	_
 5	δεξιᾷ	δεξιά	NOUN	n-s---fd-	Case=Dat|Gender=Fem|Number=Sing	3	obl	_	_
@@ -69,7 +69,7 @@ The following 19 pairs of parts of speech are connected with `punct`: <tt><a hre
 3	ταῦτα	οὗτος	PRON	p-p---nn-	Case=Nom|Gender=Neut|Number=Plur	1	nsubj	_	_
 4	τῶν	ὁ	DET	l-p---ng-	Case=Gen|Gender=Neut|Number=Plur	5	det	_	_
 5	ναυτικῶν	ναυτικός	ADJ	a-p---ng-	Case=Gen|Gender=Neut|Number=Plur	1	nmod	_	_
-6	ἦν	εἰμί	VERB	v3siia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	cop	_	SpaceAfter=No
+6	ἦν	εἰμί	AUX	v3siia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	cop	_	SpaceAfter=No
 7	.	.	PUNCT	u--------	_	1	punct	_	_
 
 ~~~

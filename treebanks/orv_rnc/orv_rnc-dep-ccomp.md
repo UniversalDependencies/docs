@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-114 nodes (0%) are attached to their parents as `ccomp`.
+138 nodes (0%) are attached to their parents as `ccomp`.
 
-107 instances of `ccomp` (94%) are left-to-right (parent precedes child).
-Average distance between parent and child is 9.23684210526316.
+131 instances of `ccomp` (95%) are left-to-right (parent precedes child).
+Average distance between parent and child is 8.72463768115942.
 
-The following 11 pairs of parts of speech are connected with `ccomp`: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (91; 80% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (8; 7% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (4; 4% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (3; 3% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances).
+The following 12 pairs of parts of speech are connected with `ccomp`: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (104; 75% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (12; 9% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (8; 6% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (4; 3% instances), <tt><a href="orv_rnc-pos-ADP.html">ADP</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -37,6 +37,25 @@ The following 11 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 
 
 ~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 7 ccomp	color:blue
+1	Роспис(ь)	роспись	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	wf="Роспись"|SpaceAfter=No
+2	,	,	PUNCT	_	_	7	punct	_	wf=","|SpaceAfter=Yes
+3	что	что	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	7	det	_	wf="что"|SpaceAfter=Yes
+4	ис	изъ	ADP	_	_	6	case	_	wf="ис"|SpaceAfter=Yes
+5	которои	который	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	6	det	_	wf="которои"|SpaceAfter=Yes
+6	д(е)р(е)вни	деревня	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	7	obl	_	wf="деревни"|SpaceAfter=Yes
+7	пригнали	пригнати	VERB	_	Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	1	ccomp	_	wf="пригнали"|SpaceAfter=Yes
+8	баранов	баранъ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	7	nsubj	_	wf="баранов"|SpaceAfter=No
+9	.	.	PUNCT	_	_	1	punct	_	wf="."|SpaceAfter=No
+
+~~~
+
+
+~~~ conllu
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 5	bgColor:blue
@@ -52,37 +71,6 @@ The following 11 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 8	всꙗ	весь	DET	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Tot	9	det	_	Norm=всꙗ
 9	стран(н)аꙗ	странный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	5	ccomp	_	Norm=страннаꙗ
 10	etc.	etc.	X	_	Foreign=Yes	9	dep	_	Norm=etc.
-
-~~~
-
-
-~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 9 ccomp	color:blue
-1	А	а	CCONJ	_	_	2	cc	_	_
-2	сказывают	сказывати	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
-3	,	,	PUNCT	_	_	4	punct	_	_
-4	государь	государь	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	vocative	_	SpaceAfter=No
-5	,	,	PUNCT	_	_	9	punct	_	_
-6	бутто	бутто	SCONJ	_	_	9	mark	_	_
-7	больше	больше	ADV	_	Degree=Cmp	9	advmod	_	_
-8	четырехсот	четыреста	NUM	_	Case=Gen	9	nummod	_	_
-9	чети	четь	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	2	ccomp	_	SpaceAfter=No
-10	,	,	PUNCT	_	_	17	punct	_	_
-11	а	а	CCONJ	_	_	17	cc	_	_
-12	под	подъ	ADP	_	_	13	case	_	_
-13	нами	мы	PRON	_	Case=Ins|Number=Plur|Person=1|PronType=Prs	17	obl	_	SpaceAfter=No
-14	,	,	PUNCT	_	_	15	punct	_	_
-15	государь	государь	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	17	vocative	_	SpaceAfter=No
-16	,	,	PUNCT	_	_	15	punct	_	_
-17	нет	нѣтъ	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
-18	ни	ни	PART	_	_	20	advmod	_	_
-19	пятидесят	пятьдесятъ	NUM	_	Case=Gen	20	nummod	_	_
-20	чети	четь	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	17	nsubj	_	SpaceAfter=No
-21	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 

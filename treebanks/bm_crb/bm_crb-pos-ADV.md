@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Bambara-CRB: POS Tags: `ADV`
 
-There are 26 `ADV` lemmas (2%), 28 `ADV` types (2%) and 176 `ADV` tokens (1%).
-Out of 16 observed tags, the rank of `ADV` is: 8 in number of lemmas, 8 in number of types and 12 in number of tokens.
+There are 27 `ADV` lemmas (3%), 29 `ADV` types (3%) and 182 `ADV` tokens (1%).
+Out of 16 observed tags, the rank of `ADV` is: 7 in number of lemmas, 8 in number of types and 12 in number of tokens.
 
-The 10 most frequent `ADV` lemmas: <em>yèn, dɔ́rɔn, yàn, tèn, tí, _, sísan, túgun, túguni, fɔ́lɔ</em>
+The 10 most frequent `ADV` lemmas: <em>yèn, dɔ́rɔn, yàn, tèn, tí, _, sísan, túgun, mín, túguni</em>
 
-The 10 most frequent `ADV` types:  <em>yen, dòròn, yan, sisan, ten, ti, tugun, kosèbè, tuguni, bada</em>
+The 10 most frequent `ADV` types:  <em>yen, dòròn, yan, sisan, ten, ti, tugun, min, kosèbè, tuguni</em>
 
-The 10 most frequent ambiguous lemmas: <em>yèn</em> (<tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> 64, <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 2), <em>dɔ́rɔn</em> (<tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> 16, <tt><a href="bm_crb-pos-DET.html">DET</a></tt> 5, <tt><a href="bm_crb-pos-SCONJ.html">SCONJ</a></tt> 1), <em>_</em> (<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 94, <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 71, <tt><a href="bm_crb-pos-PUNCT.html">PUNCT</a></tt> 63, <tt><a href="bm_crb-pos-PRON.html">PRON</a></tt> 60, <tt><a href="bm_crb-pos-ADP.html">ADP</a></tt> 44, <tt><a href="bm_crb-pos-PART.html">PART</a></tt> 37, <tt><a href="bm_crb-pos-DET.html">DET</a></tt> 12, <tt><a href="bm_crb-pos-ADJ.html">ADJ</a></tt> 9, <tt><a href="bm_crb-pos-PROPN.html">PROPN</a></tt> 9, <tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> 8, <tt><a href="bm_crb-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="bm_crb-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="bm_crb-pos-NUM.html">NUM</a></tt> 2), <em>fɔ́lɔ</em> (<tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> 4, <tt><a href="bm_crb-pos-ADJ.html">ADJ</a></tt> 1), <em>sísàn</em> (<tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> 4, <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 1), <em>báda</em> (<tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> 3, <tt><a href="bm_crb-pos-PART.html">PART</a></tt> 1), <em>bì</em> (<tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> 2, <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 1), <em>bìlen</em> (<tt><a href="bm_crb-pos-PART.html">PART</a></tt> 11, <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 4, <tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> 2), <em>gánsan</em> (<tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> 2, <tt><a href="bm_crb-pos-ADJ.html">ADJ</a></tt> 1), <em>dɔ́ɔnin</em> (<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>yèn</em> (<tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> 64, <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 2), <em>dɔ́rɔn</em> (<tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> 16, <tt><a href="bm_crb-pos-DET.html">DET</a></tt> 5, <tt><a href="bm_crb-pos-SCONJ.html">SCONJ</a></tt> 1), <em>_</em> (<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 94, <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 71, <tt><a href="bm_crb-pos-PUNCT.html">PUNCT</a></tt> 63, <tt><a href="bm_crb-pos-PRON.html">PRON</a></tt> 60, <tt><a href="bm_crb-pos-ADP.html">ADP</a></tt> 44, <tt><a href="bm_crb-pos-PART.html">PART</a></tt> 37, <tt><a href="bm_crb-pos-DET.html">DET</a></tt> 12, <tt><a href="bm_crb-pos-ADJ.html">ADJ</a></tt> 9, <tt><a href="bm_crb-pos-PROPN.html">PROPN</a></tt> 9, <tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> 8, <tt><a href="bm_crb-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="bm_crb-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="bm_crb-pos-NUM.html">NUM</a></tt> 2), <em>mín</em> (<tt><a href="bm_crb-pos-DET.html">DET</a></tt> 42, <tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> 6, <tt><a href="bm_crb-pos-PRON.html">PRON</a></tt> 6), <em>fɔ́lɔ</em> (<tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> 4, <tt><a href="bm_crb-pos-ADJ.html">ADJ</a></tt> 1), <em>sísàn</em> (<tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> 4, <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 1), <em>báda</em> (<tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> 3, <tt><a href="bm_crb-pos-PART.html">PART</a></tt> 1), <em>bì</em> (<tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> 2, <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 1), <em>bìlen</em> (<tt><a href="bm_crb-pos-PART.html">PART</a></tt> 11, <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 4, <tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> 2), <em>gánsan</em> (<tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> 2, <tt><a href="bm_crb-pos-ADJ.html">ADJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>yen</em> (<tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> 66, <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 2), <em>dòròn</em> (<tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> 16, <tt><a href="bm_crb-pos-DET.html">DET</a></tt> 5, <tt><a href="bm_crb-pos-SCONJ.html">SCONJ</a></tt> 1), <em>sisan</em> (<tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> 12, <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 1), <em>tugun</em> (<tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> 7, <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 5), <em>bada</em> (<tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> 3, <tt><a href="bm_crb-pos-PART.html">PART</a></tt> 1), <em>bi</em> (<tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> 3, <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 1), <em>fòlò</em> (<tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> 3, <tt><a href="bm_crb-pos-ADJ.html">ADJ</a></tt> 1), <em>bilen</em> (<tt><a href="bm_crb-pos-PART.html">PART</a></tt> 11, <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 4, <tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> 2), <em>gansan</em> (<tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> 2, <tt><a href="bm_crb-pos-ADJ.html">ADJ</a></tt> 1), <em>dòònin</em> (<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>yen</em> (<tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> 66, <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 2), <em>dòròn</em> (<tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> 16, <tt><a href="bm_crb-pos-DET.html">DET</a></tt> 5, <tt><a href="bm_crb-pos-SCONJ.html">SCONJ</a></tt> 1), <em>sisan</em> (<tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> 12, <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 1), <em>tugun</em> (<tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> 7, <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 5), <em>min</em> (<tt><a href="bm_crb-pos-DET.html">DET</a></tt> 61, <tt><a href="bm_crb-pos-PRON.html">PRON</a></tt> 13, <tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> 6, <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 3), <em>bada</em> (<tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> 3, <tt><a href="bm_crb-pos-PART.html">PART</a></tt> 1), <em>bi</em> (<tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> 3, <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 1), <em>fòlò</em> (<tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> 3, <tt><a href="bm_crb-pos-ADJ.html">ADJ</a></tt> 1), <em>bilen</em> (<tt><a href="bm_crb-pos-PART.html">PART</a></tt> 11, <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 4, <tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> 2), <em>gansan</em> (<tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> 2, <tt><a href="bm_crb-pos-ADJ.html">ADJ</a></tt> 1)
 
 
 * <em>yen</em>
@@ -31,6 +31,11 @@ The 10 most frequent ambiguous types:  <em>yen</em> (<tt><a href="bm_crb-pos-ADV
 * <em>tugun</em>
   * <tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> 7: <em>a tagara à yèrè kè dulòki nyumannin dò ye o nyèfè <b>tugun</b> .</em>
   * <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 5: <em>a banna , ka <b>tugun</b> o kò .</em>
+* <em>min</em>
+  * <tt><a href="bm_crb-pos-DET.html">DET</a></tt> 61: <em>N y' a ta yɔrɔ <b>min</b> n y' a bila yen .</em>
+  * <tt><a href="bm_crb-pos-PRON.html">PRON</a></tt> 13: <em>o ni musokòrònin bènna ko n denkè , ko e bè taga <b>min</b> ?</em>
+  * <tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> 6: <em>o ye a laminè ko èè ko n den , e bè taga <b>min</b> ?</em>
+  * <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 3: <em>ji ka yèlè ka yèlè ka yèlè dugukolo ye a <b>min</b> .</em>
 * <em>bada</em>
   * <tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> 3: <em>n <b>bada</b> ma fèn nin ye .</em>
   * <tt><a href="bm_crb-pos-PART.html">PART</a></tt> 1: <em>a ko n fa masa , n ba masa , ko fèn bè i ka lu kònò , i <b>bada</b> ma o mèn , ko buguri min bè kuma .</em>
@@ -47,13 +52,10 @@ The 10 most frequent ambiguous types:  <em>yen</em> (<tt><a href="bm_crb-pos-ADV
 * <em>gansan</em>
   * <tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> 2: <em>a tagara , a tagara , a ye tile caman taama , a tè bèn ni mògò ye , a tè dugu ye , a tè foyi ye kungo kolon <b>gansan</b> <b>gansan</b> .</em>
   * <tt><a href="bm_crb-pos-ADJ.html">ADJ</a></tt> 1: <em>a sera yen fana , jiri tè yen , foyi tè yen , ba nin <b>gansan</b> i bè o dòròn de ye .</em>
-* <em>dòònin</em>
-  * <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 5: <em>ni i ye bin nin kè masaso nin kòrò , i ka <b>dòònin</b> kè n ta nin kòrò .</em>
-  * <tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> 1: <em>tòw tagara <b>dòònin</b> dòròn , o tuma a ye kòòrimugu nin bila .</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.076923 (the average of all parts of speech is 1.060038).
+The form / lemma ratio of `ADV` is 1.074074 (the average of all parts of speech is 1.060207).
 
 The 1st highest number of forms (6) was observed with the lemma “_”: <em>bi, fyewu, kojugu, kokura, tan, yen</em>.
 
@@ -61,16 +63,22 @@ The 2nd highest number of forms (2) was observed with the lemma “fɔ́lɔ”: 
 
 The 3rd highest number of forms (1) was observed with the lemma “báda”: <em>bada</em>.
 
-`ADV` does not occur with any features.
+`ADV` occurs with 1 features: <tt><a href="bm_crb-feat-PronType.html">PronType</a></tt> (6; 3% instances)
+
+`ADV` occurs with 1 feature-value pairs: `PronType=Int`
+
+`ADV` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (176 tokens).
+Examples: <em>yen, dòròn, yan, sisan, ten, ti, tugun, kosèbè, tuguni, bada</em>
 
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 7 different relations: <tt><a href="bm_crb-dep-obl.html">obl</a></tt> (154; 88% instances), <tt><a href="bm_crb-dep-advmod.html">advmod</a></tt> (17; 10% instances), <tt><a href="bm_crb-dep-advcl.html">advcl</a></tt> (1; 1% instances), <tt><a href="bm_crb-dep-compound-redup.html">compound:redup</a></tt> (1; 1% instances), <tt><a href="bm_crb-dep-discourse.html">discourse</a></tt> (1; 1% instances), <tt><a href="bm_crb-dep-mark.html">mark</a></tt> (1; 1% instances), <tt><a href="bm_crb-dep-obj.html">obj</a></tt> (1; 1% instances)
+`ADV` nodes are attached to their parents using 7 different relations: <tt><a href="bm_crb-dep-obl.html">obl</a></tt> (154; 85% instances), <tt><a href="bm_crb-dep-advmod.html">advmod</a></tt> (23; 13% instances), <tt><a href="bm_crb-dep-advcl.html">advcl</a></tt> (1; 1% instances), <tt><a href="bm_crb-dep-compound-redup.html">compound:redup</a></tt> (1; 1% instances), <tt><a href="bm_crb-dep-discourse.html">discourse</a></tt> (1; 1% instances), <tt><a href="bm_crb-dep-mark.html">mark</a></tt> (1; 1% instances), <tt><a href="bm_crb-dep-obj.html">obj</a></tt> (1; 1% instances)
 
-Parents of `ADV` nodes belong to 3 different parts of speech: <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> (173; 98% instances), <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> (1; 1% instances)
+Parents of `ADV` nodes belong to 3 different parts of speech: <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> (179; 98% instances), <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> (1; 1% instances)
 
-159 (90%) `ADV` nodes are leaves.
+165 (91%) `ADV` nodes are leaves.
 
 16 (9%) `ADV` nodes have one child.
 

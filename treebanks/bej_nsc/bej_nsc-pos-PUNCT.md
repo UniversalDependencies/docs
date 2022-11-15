@@ -35,7 +35,7 @@ The 1st highest number of forms (4) was observed with the lemma “_”: <em>##,
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="bej_nsc-dep-punct.html">punct</a></tt> (169; 100% instances)
 
-Parents of `PUNCT` nodes belong to 9 different parts of speech: <tt><a href="bej_nsc-pos-VERB.html">VERB</a></tt> (103; 61% instances), <tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt> (40; 24% instances), <tt><a href="bej_nsc-pos-PART.html">PART</a></tt> (8; 5% instances), <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> (7; 4% instances), <tt><a href="bej_nsc-pos-ADV.html">ADV</a></tt> (5; 3% instances), <tt><a href="bej_nsc-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="bej_nsc-pos-INTJ.html">INTJ</a></tt> (2; 1% instances), <tt><a href="bej_nsc-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="bej_nsc-pos-ADP.html">ADP</a></tt> (1; 1% instances)
+Parents of `PUNCT` nodes belong to 11 different parts of speech: <tt><a href="bej_nsc-pos-VERB.html">VERB</a></tt> (100; 59% instances), <tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt> (42; 25% instances), <tt><a href="bej_nsc-pos-PART.html">PART</a></tt> (8; 5% instances), <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> (7; 4% instances), <tt><a href="bej_nsc-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="bej_nsc-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="bej_nsc-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="bej_nsc-pos-INTJ.html">INTJ</a></tt> (2; 1% instances), <tt><a href="bej_nsc-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="bej_nsc-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="bej_nsc-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances)
 
 169 (100%) `PUNCT` nodes are leaves.
 

@@ -24,17 +24,17 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 8 7 nummod	color:blue
 1	ሱቅ	ሱቅ	NOUN	NOUN	_	5	obl	_	Translit=suqə|LTranslit=suqə
 2	መሄድ	መሄድ	NOUN	NOUN	VerbForm=Vnoun	5	ccomp	_	Translit=mähedə|LTranslit=mähedə
-3	ህ	ህ	PRON	POSM	Gender=Masc|Number=Sing|Person=2|Poss=Yes	2	nmod	_	Translit=hə|LTranslit=hə
+3	ህ	አንተ	PRON	POSM	Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronType=Prs	2	nmod	_	LTranslit='änətä|Translit=hə
 4	እነደ	እነደ	SCONJ	SCONJ	_	5	mark	_	Translit='ənädä|LTranslit='ənädä
-5	ሆን	ሆን	VERB	VERB	_	10	advcl	_	Translit=honə|LTranslit=honə
-6	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	5	nsubj	_	Translit='ă|LTranslit='ă
+5	ሆን	ሆን	VERB	VERB	Mood=Ind|VerbForm=Fin	10	advcl	_	Translit=honə|LTranslit=honə
+6	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	LTranslit='əsu|Translit='ă
 7	አንድ	አንድ	NUM	NUM	NumType=Card	8	nummod	_	Translit='änədə|LTranslit='änədə
 8	ኪሎ	ኪሎ	NOUN	NOUN	_	9	nmod	_	Translit=kilo|LTranslit=kilo
 9	ስኳር	ስኳር	NOUN	NOUN	_	10	obj	_	Translit=səkwarə|LTranslit=səkwarə
-10	አምጥ	አምጥ	VERB	VERB	_	0	root	_	Translit='äməţə|LTranslit='äməţə
-11	ኣ	ኣ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	10	nsubj	_	Translit='a|LTranslit='a
+10	አምጥ	አምጥ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit='äməţə|LTranslit='äməţə
+11	ኣ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	LTranslit='əsu|Translit='a
 12	ል	ል	ADP	ADP	_	10	case	_	Translit=lə|LTranslit=lə
-13	ኝ	ኝ	PRON	OBJC	Gender=Com|Number=Sing|Person=1	10	expl	_	Translit=ňə|LTranslit=ňə
+13	ኝ	እኔ	PRON	OBJC	Number=Sing|Person=1|PronType=Prs	10	expl	_	LTranslit='əne|Translit=ňə
 14	?	?	PUNCT	PUNCT	_	10	punct	_	Translit=?|LTranslit=?
 
 ~~~
@@ -54,12 +54,12 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 6	አንድ	አንድ	NOUN	NOUN	_	8	nummod	_	Translit='änədə|LTranslit='änədə
 7	ኡ	ኡ	DET	DET	_	8	det	_	Translit='u|LTranslit='u
 8	አገር	አገር	NOUN	NOUN	_	9	obl	_	Translit='ägärə|LTranslit='ägärə
-9	እየ_ዞርክ	እየ_ዞርክ	VERB	VERB	_	12	advcl	_	Translit='əjä_zorəkə|LTranslit='əjä_zorəkə
-10	ኡ	ኡ	PRON	SUBJC	Number=Plur|Person=3	9	nsubj	_	Translit='u|LTranslit='u
-11	እ	እ	PRON	SUBJC	Number=Sing|Person=1	12	nsubj	_	Translit='ə|LTranslit='ə
-12	ኖር	ኖር	VERB	VERB	_	0	root	_	Translit=norə|LTranslit=norə
+9	እየ_ዞርክ	እየ_ዞርክ	VERB	VERB	Mood=Ind|VerbForm=Fin	12	advcl	_	Translit='əjä_zorəkə|LTranslit='əjä_zorəkə
+10	ኡ	እሱ	PRON	SUBJC	Number=Plur|Person=3|PronType=Prs	9	nsubj	_	LTranslit='əsu|Translit='u
+11	እ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	12	nsubj	_	LTranslit='əne|Translit='ə
+12	ኖር	ኖር	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=norə|LTranslit=norə
 13	ኣል	ኣል	AUX	AUX	_	12	aux	_	Translit='alə|LTranslit='alə
-14	ኧሁ	ኧሁ	PRON	SUBJC	Gender=Neut|Number=Sing|Person=1	12	nsubj	_	Translit='ăhu|LTranslit='ăhu
+14	ኧሁ	እኔ	PRON	SUBJC	Gender=Neut|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	LTranslit='əne|Translit='ăhu
 15	።	።	PUNCT	PUNCT	_	12	punct	_	Translit=.|LTranslit=.
 
 ~~~
@@ -76,15 +76,15 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 3	አንድ	አንድ	NUM	NUM	NumType=Card	4	nummod	_	Translit='änədə|LTranslit='änədə
 4	ሺህ	ሺህ	NUM	NUM	NumType=Card	5	nummod	_	Translit=šihə|LTranslit=šihə
 5	ብር	ብር	NOUN	NOUN	_	6	obj	_	Translit=bərə|LTranslit=bərə
-6	አገኝ	አገኝ	VERB	VERB	_	11	ccomp	_	Translit='ägäňə|LTranslit='ägäňə
+6	አገኝ	አገኝ	VERB	VERB	Mood=Ind|VerbForm=Fin	11	ccomp	_	Translit='ägäňə|LTranslit='ägäňə
 7	ኣል	ኣል	AUX	AUX	_	6	aux	_	Translit='alə|LTranslit='alə
-8	ኧሁ	ኧሁ	PRON	SUBJC	Gender=Neut|Number=Sing|Person=3	6	nsubj	_	Translit='ăhu|LTranslit='ăhu
+8	ኧሁ	እሱ	PRON	SUBJC	Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	LTranslit='əsu|Translit='ăhu
 9	ስ	ስ	SCONJ	SCONJ	_	11	mark	_	Translit=sə|LTranslit=sə
-10	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	11	nsubj	_	Translit=jə|LTranslit=jə
-11	ል	ል	VERB	VERB	_	12	advcl	_	Translit=lə|LTranslit=lə
-12	ተጠራጠር	ተጠራጠር	VERB	VERB	_	0	root	_	Translit=täţäraţärə|LTranslit=täţäraţärə
-13	ኩ	ኩ	PRON	SUBJC	Number=Sing|Person=1	12	nsubj	_	Translit=ku|LTranslit=ku
-14	ት	ት	PRON	OBJC	Gender=Masc|Number=Sing|Person=3	12	expl	_	Translit=tə|LTranslit=tə
+10	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	LTranslit='əsu|Translit=jə
+11	ል	ል	VERB	VERB	Mood=Ind|VerbForm=Fin	12	advcl	_	Translit=lə|LTranslit=lə
+12	ተጠራጠር	ተጠራጠር	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=täţäraţärə|LTranslit=täţäraţärə
+13	ኩ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	12	nsubj	_	LTranslit='əne|Translit=ku
+14	ት	እሱ	PRON	OBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	expl	_	LTranslit='əsu|Translit=tə
 15	።	።	PUNCT	PUNCT	_	12	punct	_	Translit=.|LTranslit=.
 
 ~~~

@@ -36,4 +36,4 @@ ROOT Ich kann nicht mehr . \n I can't any more .
 root(ROOT, kann)
 nsubj(kann, ich)
 ~~~
-<!-- Interlanguage links updated So kvě 14 19:03:03 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:09 CET 2022 -->

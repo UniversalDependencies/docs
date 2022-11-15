@@ -7,54 +7,52 @@ udver: '2'
 ## Treebank Statistics: UD_Old_East_Slavic-RNC: Relations: `obl`
 
 This relation is universal.
-There are 1 language-specific subtypes of `obl`: <tt><a href="orv_rnc-dep-obl-agent.html">obl:agent</a></tt>.
+There are 2 language-specific subtypes of `obl`: <tt><a href="orv_rnc-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="orv_rnc-dep-obl-tmod.html">obl:tmod</a></tt>.
 
-2683 nodes (8%) are attached to their parents as `obl`.
+3753 nodes (8%) are attached to their parents as `obl`.
 
-1392 instances of `obl` (52%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.35035408125233.
+1895 instances of `obl` (50%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.56488142819078.
 
-The following 32 pairs of parts of speech are connected with `obl`: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (1681; 63% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (394; 15% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (310; 12% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (65; 2% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (62; 2% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (34; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (29; 1% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (22; 1% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (13; 0% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (8; 0% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (8; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (6; 0% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-ADP.html">ADP</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 36 pairs of parts of speech are connected with `obl`: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (2219; 59% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (659; 18% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (446; 12% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (81; 2% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (69; 2% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (63; 2% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (54; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (36; 1% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (22; 1% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (12; 0% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (8; 0% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (8; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (7; 0% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (6; 0% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-ADP.html">ADP</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 5 obl	color:blue
-1	Писанъ	писати	VERB	Transit=Tran	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
-2	на	на	ADP	_	_	3	case	_	_
-3	Москвѣ	Москва	PROPN	Animacy[lex]=Inan	Case=Loc|Gender=Fem|Number=Sing	1	obl	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	5	punct	_	_
-5	лѣта	лѣто	NOUN	Animacy[lex]=Inan	Case=Gen|Gender=Neut|Number=Sing	1	obl	_	_
-6	7206	7206	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|NumForm=Digit	5	amod	_	SpaceAfter=No
-7	,	,	PUNCT	_	_	8	punct	_	_
-8	маія	май	NOUN	Animacy[lex]=Inan	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
-9	во	въ	ADP	_	_	11	case	_	_
-10	2	2	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|NumForm=Digit	11	amod	_	_
-11	день	день	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	1	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 3 obl	color:blue
+1	И	и	CCONJ	_	_	7	cc	_	wf="И"|SpaceAfter=Yes
+2	тои	тотъ	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	wf="тои"|SpaceAfter=Yes
+3	меди	мѣдь	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	7	obl	_	wf="меди"|SpaceAfter=Yes
+4	у	у	ADP	_	_	5	case	_	wf="у"|SpaceAfter=Yes
+5	Сидара	Сидоръ	PROPN	_	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	7	obl	_	wf="Сидара"|SpaceAfter=Yes
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	wf="не"|SpaceAfter=Yes
+7	дашло	доити	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	wf="дашло"|SpaceAfter=Yes
+8	полчетверты	полчетверта	NUM	_	Case=Nom|Gender=Fem|NumForm=Word|NumType=Frac	9	nummod:gov	_	wf="полчетверты"|SpaceAfter=Yes
+9	гривенки	гривенка	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	7	nsubj	_	wf="гривенки"|SpaceAfter=No
+10	.	.	PUNCT	_	_	7	punct	_	wf="."|SpaceAfter=Yes
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 7 6 obl	color:blue
-1	И	и	CCONJ	_	_	7	cc	_	_
-2	того	тотъ	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
-3	мертвого	мертвый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
-4	иноземца	иноземецъ	NOUN	Animacy[lex]=Anim	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	7	obj	_	_
-5	с	съ	ADP	_	_	6	case	_	_
-6	нею	она	PRON	_	Case=Ins|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	obl	_	_
-7	привезли	привезти	VERB	Transit=Tran	Aspect=Perf|Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	_
-8	к	къ	ADP	_	_	9	case	_	_
-9	приказу	приказъ	NOUN	Animacy[lex]=Inan	Case=Dat|Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	7	punct	_	_
+# visual-style 7 5 obl	color:blue
+1	И	и	CCONJ	_	_	7	cc	_	wf="И"|SpaceAfter=Yes
+2	тои	тотъ	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	wf="тои"|SpaceAfter=Yes
+3	меди	мѣдь	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	7	obl	_	wf="меди"|SpaceAfter=Yes
+4	у	у	ADP	_	_	5	case	_	wf="у"|SpaceAfter=Yes
+5	Сидара	Сидоръ	PROPN	_	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	7	obl	_	wf="Сидара"|SpaceAfter=Yes
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	wf="не"|SpaceAfter=Yes
+7	дашло	доити	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	wf="дашло"|SpaceAfter=Yes
+8	полчетверты	полчетверта	NUM	_	Case=Nom|Gender=Fem|NumForm=Word|NumType=Frac	9	nummod:gov	_	wf="полчетверты"|SpaceAfter=Yes
+9	гривенки	гривенка	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	7	nsubj	_	wf="гривенки"|SpaceAfter=No
+10	.	.	PUNCT	_	_	7	punct	_	wf="."|SpaceAfter=Yes
 
 ~~~
 
@@ -62,21 +60,20 @@ The following 32 pairs of parts of speech are connected with `obl`: <tt><a href=
 ~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 3 obl	color:blue
-1	Писанъ	писати	VERB	Transit=Tran	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
-2	на	на	ADP	_	_	3	case	_	_
-3	Москвѣ	Москва	PROPN	Animacy[lex]=Inan	Case=Loc|Gender=Fem|Number=Sing	1	obl	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	5	punct	_	_
-5	лѣта	лѣто	NOUN	Animacy[lex]=Inan	Case=Gen|Gender=Neut|Number=Sing	1	obl	_	_
-6	7206	7206	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|NumForm=Digit	5	amod	_	SpaceAfter=No
-7	,	,	PUNCT	_	_	8	punct	_	_
-8	маія	май	NOUN	Animacy[lex]=Inan	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
-9	во	въ	ADP	_	_	11	case	_	_
-10	2	2	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|NumForm=Digit	11	amod	_	_
-11	день	день	NOUN	Animacy[lex]=Inan	Case=Acc|Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	1	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 3 obl	color:blue
+1	Да	да	CCONJ	_	_	8	cc	_	wf="Да"|SpaceAfter=Yes
+2	с	съ	ADP	_	_	3	case	_	wf="с"|SpaceAfter=Yes
+3	них	они	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	8	obl	_	wf="них"|SpaceAfter=Yes
+4	же	же	PART	_	_	3	advmod	_	wf="же"|SpaceAfter=Yes
+5	з	съ	ADP	_	_	7	case	_	wf="з"|SpaceAfter=Yes
+6	деловых	дѣловой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	7	amod	_	wf="деловых"|SpaceAfter=Yes
+7	людеи	человѣкъ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	3	appos	_	wf="людеи"|SpaceAfter=Yes
+8	взято	взяти	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	wf="взято"|SpaceAfter=Yes
+9	22	22	NUM	_	Case=Nom|NumForm=Digit|NumType=Card	10	nummod:gov	_	wf="22"|SpaceAfter=Yes
+10	сыра	сыръ	NOUN	_	Case=Nom|Gender=Masc|Number=Count	8	nsubj:pass	_	wf="сыра"|SpaceAfter=No
+11	.	.	PUNCT	_	_	8	punct	_	wf="."|SpaceAfter=Yes
 
 ~~~
 

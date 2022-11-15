@@ -33,4 +33,4 @@ cc(εφαρμόστηκε, όμως)
 TODO
 Όμως πέρασε ένας χρόνος και το σύστημα δεν εφαρμόστηκε
 -->
-<!-- Interlanguage links updated So kvě 14 19:03:10 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:13 CET 2022 -->

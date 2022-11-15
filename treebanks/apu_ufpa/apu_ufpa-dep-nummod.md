@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-9 nodes (1%) are attached to their parents as `nummod`.
+12 nodes (1%) are attached to their parents as `nummod`.
 
-9 instances of `nummod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.11111111111111.
+12 instances of `nummod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.08333333333333.
 
-The following 1 pairs of parts of speech are connected with `nummod`: <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-NUM.html">NUM</a></tt> (9; 100% instances).
+The following 1 pairs of parts of speech are connected with `nummod`: <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-NUM.html">NUM</a></tt> (12; 100% instances).
 
 
 ~~~ conllu

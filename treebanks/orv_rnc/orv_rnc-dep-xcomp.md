@@ -8,30 +8,31 @@ udver: '2'
 
 This relation is universal.
 
-317 nodes (1%) are attached to their parents as `xcomp`.
+353 nodes (1%) are attached to their parents as `xcomp`.
 
-258 instances of `xcomp` (81%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.55205047318612.
+290 instances of `xcomp` (82%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.32294617563739.
 
-The following 9 pairs of parts of speech are connected with `xcomp`: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (283; 89% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (19; 6% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `xcomp`: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (316; 90% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (20; 6% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 xcomp	color:blue
-1	И	и	CCONJ	_	_	4	cc	_	_
-2	про	про	ADP	_	_	3	case	_	_
-3	то	то	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	5	obl	_	_
-4	послано	послати	VERB	Transit=Tran	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
-5	обыскивать	обыскивати	VERB	Transit=Tran	Aspect=Perf|VerbForm=Inf|Voice=Act	4	xcomp	_	SpaceAfter=No
-6	.	.	PUNCT	_	_	4	punct	_	_
-7	{	{	PUNCT	_	_	8	punct	_	SpaceAfter=No
-8	л.	_	X	_	_	4	parataxis	_	_
-9	7	_	X	_	_	8	dep	_	SpaceAfter=No
-10	}	}	PUNCT	_	_	8	punct	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 10 xcomp	color:blue
+1	Роспись	роспись	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	wf="Роспись"|SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	wf=","|SpaceAfter=Yes
+3	скол(ь)ко	сколько	NUM	_	Case=Nom|NumForm=Word|NumType=Card	1	acl	_	wf="сколько"|SpaceAfter=Yes
+4	судов	судъ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	3	nsubj	_	wf="судов"|SpaceAfter=Yes
+5	медных	мѣдный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	4	amod	_	wf="медных"|SpaceAfter=Yes
+6	худых	худой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	4	amod	_	wf="худых"|SpaceAfter=No
+7	,	,	PUNCT	_	_	9	punct	_	wf=","|SpaceAfter=Yes
+8	что	что	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	9	obj	_	wf="что"|SpaceAfter=Yes
+9	отдат(ь)	отдати	VERB	_	VerbForm=Inf|Voice=Act	4	acl:relcl	_	wf="отдать"|SpaceAfter=Yes
+10	делат(ь)	дѣлати	VERB	_	VerbForm=Inf|Voice=Act	9	xcomp	_	wf="делать"|SpaceAfter=No
+11	.	.	PUNCT	_	_	1	punct	_	wf="."|SpaceAfter=Yes
 
 ~~~
 
@@ -54,28 +55,27 @@ The following 9 pairs of parts of speech are connected with `xcomp`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 xcomp	color:blue
-1	И	и	CCONJ	_	_	8	cc	_	_
-2	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	_
-3	по	по	ADP	_	_	4	case	_	_
-4	тому	тотъ	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	8	obl	_	_
-5	ли	ли	PART	_	_	4	advmod	_	_
-6	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	7	iobj	_	_
-7	великъ	великий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	8	xcomp	_	_
-8	хощешь	хотѣти	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-9	быти	быти	AUX	_	VerbForm=Inf	7	cop	_	SpaceAfter=No
-10	,	,	PUNCT	_	_	13	punct	_	_
-11	что	что	SCONJ	_	_	13	mark	_	_
-12	насъ	мы	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	13	obj	_	_
-13	отчитаешь	отчитати	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	advcl	_	_
-14	от	отъ	ADP	_	_	15	case	_	_
-15	Августа	Августъ	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	13	obl	_	_
-16	кесаря	кесарь	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	15	appos	_	SpaceAfter=No
-17	?	?	PUNCT	_	_	8	punct	_	_
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 11 xcomp	color:blue
+1	а	а	CCONJ	_	_	5	cc	_	_
+2	мꙋжикъ	мужикъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj:pass	_	_
+3	ꙋ	у	ADP	_	_	4	case	_	_
+4	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	5	obl	_	_
+5	добытъ	добыти	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	16	ccomp	_	_
+6	и	и	CCONJ	_	_	10	cc	_	_
+7	бꙋдетъ	быти	SCONJ	_	_	10	mark	_	_
+8	вамъ	вы	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	10	iobj	_	_
+9	не	не	PART	_	Polarity=Neg	10	advmod	_	_
+10	возможъно	возможный	ADJ	AdjType=Predic	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	5	conj	_	_
+11	избыть	избыти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	10	xcomp	_	_
+12	и	и	CCONJ	_	_	16	cc	_	_
+13	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	16	nsubj	_	_
+14	ко	къ	ADP	_	_	15	case	_	_
+15	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	16	obl	_	_
+16	отпишите	отписати	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	_
 
 ~~~
 

@@ -11,7 +11,7 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 2690 tokens (12%) have a non-empty value of `Person`.
 976 types (16%) occur at least once with a non-empty value of `Person`.
-62 lemmas (2%) occur at least once with a non-empty value of `Person`.
+65 lemmas (2%) occur at least once with a non-empty value of `Person`.
 The feature is used with 3 part-of-speech tags: <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (1260; 5% instances), <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (782; 3% instances), <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> (648; 3% instances).
 
 ### `VERB`
@@ -27,7 +27,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 * `3` (1200; 95% of non-empty `Person`): <em>dijo, es, tiene, hay, está, hace, tienen, dice, afirmó, convirtió</em>
 * `EMPTY` (929): <em>hacer, tener, debido, ver, establecer, hecho, ayudar, dado, dejado, dejar</em>
 
-`Person` seems to be **lexical feature** of `VERB`. 92% lemmas (45) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `VERB`. 92% lemmas (49) occur only with one value of `Person`.
 
 ### `PRON`
 
@@ -42,7 +42,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `3` (724; 93% of non-empty `Person`): <em>se, su, lo, sus, le, ellos, él, les, ella, la</em>
 * `EMPTY` (280): <em>que, cual, cuales, quien, cuál, qué, quienes, cuanto, quién, una</em>
 
-`Person` seems to be **lexical feature** of `PRON`. 92% lemmas (12) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `PRON`. 92% lemmas (11) occur only with one value of `Person`.
 
 ### `AUX`
 

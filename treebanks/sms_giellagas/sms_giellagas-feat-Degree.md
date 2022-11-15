@@ -23,5 +23,5 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Cmp` (2; 100% of non-empty `Degree`): <em>lääʹđesmiõllsab, šuurab</em>
-* `EMPTY` (26): <em>jõnn, kuälmad, šiõǥǥ, nuʹbb, tiõrvâs, ekksaž, jåʹttel, kaađâš, kuuʹǩǩ, muʹvddem</em>
+* `EMPTY` (28): <em>kuälmad, jõnn, šiõǥǥ, nuʹbb, nåkkam, tiõrvâs, ekksaž, jåʹttel, kaađâš, kuuʹǩǩ</em>
 

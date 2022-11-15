@@ -23,5 +23,5 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>Skoda</em>
-* `EMPTY` (534): <em>хәбәр, һава, вакцинация, кеше, мөселман, халык, Дәүләт, татар, һәлак, апрельдә</em>
+* `EMPTY` (812): <em>хәбәр, татар, кеше, һава, Дәүләт, вакцинация, министры, мөселман, халык, шәһәр</em>
 

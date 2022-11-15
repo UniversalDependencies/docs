@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `flat`: <tt><a href="orv_rnc-dep-flat-name.html">flat:name</a></tt>.
 
-21 nodes (0%) are attached to their parents as `flat`.
+27 nodes (0%) are attached to their parents as `flat`.
 
-21 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.57142857142857.
+27 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.22222222222222.
 
-The following 3 pairs of parts of speech are connected with `flat`: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (18; 86% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (2; 10% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (1; 5% instances).
+The following 4 pairs of parts of speech are connected with `flat`: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (23; 85% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (2; 7% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (1; 4% instances).
 
 
 ~~~ conllu

@@ -16,4 +16,4 @@ An interjection is a word that is used most often as an exclamation or part of a
 * _á_ "aw"
 * _Ó_ "Oh"
 * _leoga_ "Indeed"
-<!-- Interlanguage links updated So kvě 14 19:01:49 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:32 CET 2022 -->

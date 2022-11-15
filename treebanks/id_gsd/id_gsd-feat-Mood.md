@@ -37,13 +37,13 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
 <tt>VERB --[<tt><a href="id_gsd-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (947; 82%),
-<tt>VERB --[<tt><a href="id_gsd-dep-conj.html">conj</a></tt>]--> VERB</tt> (853; 82%),
+<tt>VERB --[<tt><a href="id_gsd-dep-conj.html">conj</a></tt>]--> VERB</tt> (855; 82%),
 <tt>VERB --[<tt><a href="id_gsd-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (716; 74%),
-<tt>VERB --[<tt><a href="id_gsd-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (257; 82%),
+<tt>VERB --[<tt><a href="id_gsd-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (256; 82%),
 <tt>VERB --[<tt><a href="id_gsd-dep-dep.html">dep</a></tt>]--> VERB</tt> (201; 79%),
 <tt>VERB --[<tt><a href="id_gsd-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (196; 79%),
-<tt>VERB --[<tt><a href="id_gsd-dep-acl.html">acl</a></tt>]--> VERB</tt> (86; 68%),
+<tt>VERB --[<tt><a href="id_gsd-dep-acl.html">acl</a></tt>]--> VERB</tt> (84; 68%),
 <tt>VERB --[<tt><a href="id_gsd-dep-amod.html">amod</a></tt>]--> VERB</tt> (28; 97%),
-<tt>VERB --[<tt><a href="id_gsd-dep-appos.html">appos</a></tt>]--> VERB</tt> (16; 73%),
+<tt>VERB --[<tt><a href="id_gsd-dep-appos.html">appos</a></tt>]--> VERB</tt> (15; 71%),
 <tt>VERB --[<tt><a href="id_gsd-dep-csubj-pass.html">csubj:pass</a></tt>]--> VERB</tt> (4; 67%).
 

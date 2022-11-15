@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2438 nodes (1%) are attached to their parents as `cop`.
+2441 nodes (1%) are attached to their parents as `cop`.
 
-2438 instances of `cop` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.23420836751436.
+2441 instances of `cop` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.24621056943875.
 
-The following 3 pairs of parts of speech are connected with `cop`: <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (2365; 97% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (42; 2% instances), <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (31; 1% instances).
+The following 3 pairs of parts of speech are connected with `cop`: <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (2366; 97% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (43; 2% instances), <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (32; 1% instances).
 
 
 ~~~ conllu

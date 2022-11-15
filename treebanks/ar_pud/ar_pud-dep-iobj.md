@@ -22,26 +22,26 @@ The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 16	bgColor:blue
 # visual-style 16	fgColor:white
 # visual-style 16 18 iobj	color:blue
-1	كان	kAn-u_1	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	3	cop	_	_
-2	جورج	juwroj_1	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	3	nsubj	_	_
-3	عميق	Eamiyq_1	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	0	root	_	Proper=True
-4	التدين	taday~un_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	3	obl	_	_
-5	و	w	CCONJ	CC	_	7	cc	_	SpaceAfter=No
-6	كان	kAn-u_1	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	7	aux	_	_
-7	يقضي	qaDaY-i_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	3	conj	_	_
-8	ساعاتٍ	sAEap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Fem|Number=Plur	7	obl:tmod	_	_
-9	في	fiy_1	ADP	IN	_	10	case	_	_
-10	الصلاة	SalAp_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No
-11	,	,_0	PUNCT	,	_	16	punct	_	_
-12	لكن	l`kin~a_1	ADP	IN	_	16	mark	_	_
-13	إخوت	>ax_1	NOUN	NN	Animacy=Hum|Case=Acc|Definite=Def|Gender=Masc|Number=Plur	16	nsubj	_	SpaceAfter=No
-14	ه	h	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	13	nmod	_	_
-15	لم	lamo_1	PART	RP	Polarity=Neg	16	advmod	_	_
-16	يشاركو	$Arak_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Jus|Number=Plur|Person=3|Tense=Past|Voice=Act	7	advcl	_	SpaceAfter=No
-17	ه	h	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3	16	obj	_	_
-18	ورع	waraE_1	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Masc|Number=Sing	16	iobj	_	SpaceAfter=No
-19	ه	h	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	18	nmod	_	SpaceAfter=No
-20	.	._0	PUNCT	.	_	3	punct	_	_
+1	كان	كَان	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	3	cop	_	LId=كان-ُ_1
+2	جورج	جُورج	PROPN	NNP	Gender=Masc|Number=Sing	3	nsubj	_	LId=جُورْج_1
+3	عميق	عَمِيق	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	0	root	_	LId=عَمِيق_1|Proper=True
+4	التدين	تَدَيُّن	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	3	obl	_	LId=تَدَيُّن_1
+5	و	وَ	CCONJ	CC	_	7	cc	_	SpaceAfter=No
+6	كان	كَان	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	7	aux	_	LId=كان-ُ_1
+7	يقضي	قَضَى	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	3	conj	_	LId=قَضَى-ِ_1
+8	ساعاتٍ	ساعَة	NOUN	NN	Case=Gen|Definite=Ind|Gender=Fem|Number=Plur	7	obl:tmod	_	LId=ساعَة_1
+9	في	فِي	ADP	IN	_	10	case	_	LId=فِي_1
+10	الصلاة	صَلَاة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	7	obl	_	LId=صَلاة_1|SpaceAfter=No
+11	,	,	PUNCT	,	_	16	punct	_	LId=,_0
+12	لكن	ل`كِنَّ	ADP	IN	_	16	mark	_	LId=لٰكِنَّ_1
+13	إخوت	أَخ	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	16	nsubj	_	LId=أَخ_1|SpaceAfter=No
+14	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	13	nmod	_	_
+15	لم	لَم	PART	RP	Polarity=Neg	16	advmod	_	LId=لَمْ_1
+16	يشاركو	شارَك	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Jus|Number=Plur|Person=3|Tense=Past|Voice=Act	7	advcl	_	LId=شارَك_1|SpaceAfter=No
+17	ه	هُوَ	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3	16	obj	_	_
+18	ورع	وَرَع	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	16	iobj	_	LId=وَرَع_1|SpaceAfter=No
+19	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	18	nmod	_	SpaceAfter=No
+20	.	.	PUNCT	.	_	3	punct	_	LId=._0
 
 ~~~
 
@@ -52,12 +52,12 @@ The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 4 iobj	color:blue
-1	لا	lA_3	PART	RP	Polarity=Neg	2	advmod	_	_
-2	أسمي	{isom_1	NOUN	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	SpaceAfter=No
-3	ها	hA	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3	2	obj	_	_
-4	وحشاً	waHo$_2	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	2	iobj	_	_
-5	اعتباطاً	{iEotibAT_1	ADV	RB	_	2	advmod	_	SpaceAfter=No
-6	.	._0	PUNCT	.	_	2	punct	_	_
+1	لا	لَا	PART	RP	Polarity=Neg	2	advmod	_	LId=لا_3
+2	أسمي	ٱِسم	NOUN	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	LId=ٱِسْم_1|SpaceAfter=No
+3	ها	هُوَ	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3	2	obj	_	_
+4	وحشاً	وَحش	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	2	iobj	_	LId=وَحْش_2
+5	اعتباطاً	ٱِعتِباط	ADV	RB	_	2	advmod	_	LId=ٱِعْتِباط_1|SpaceAfter=No
+6	.	.	PUNCT	.	_	2	punct	_	LId=._0
 
 ~~~
 
@@ -68,60 +68,60 @@ The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 19	bgColor:blue
 # visual-style 19	fgColor:white
 # visual-style 19 20 iobj	color:blue
-1	لكن	l`kino_1	PART	RP	_	32	compound:prt	_	_
-2	عندما	Einod_1	ADP	IN	_	3	mark	_	_
-3	أجاب	>ajAb_1	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	32	advcl	_	SpaceAfter=No
-4	ه	h	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3	3	obj	_	_
-5	مجلس	majolis_1	PROPN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	3	nsubj	_	_
-6	الشيوخ	$ayox_1	PROPN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	5	nmod	_	_
-7	ب	b	ADP	IN	_	8	case	_	SpaceAfter=No
-8	شكل	$akol_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	3	obl	_	_
-9	قاطع	qATiE_1	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	8	amod	_	_
-10	من	min_1	ADP	IN	_	12	case	_	_
-11	خلال	xilAl_1	ADP	IN	_	10	fixed	_	_
-12	منع	manoE_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
-13	ه	h	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	12	nmod	_	_
-14	من	min_1	ADP	IN	_	15	case	_	_
-15	المنافسة	munAfasap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	12	nmod	_	_
-16	في	fiy_1	ADP	IN	_	17	case	_	_
-17	القنصلية	qunoSuliy~ap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	15	nmod	_	_
-18	و	w	CCONJ	CC	_	19	cc	_	SpaceAfter=No
-19	منح	manoH_1	NOUN	VBG	Case=Gen|Definite=Def|Gender=Masc	12	conj	_	SpaceAfter=No
-20	ه	h	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	19	iobj	_	_
-21	خيار	xiyAr_1	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Masc|Number=Sing	19	obj	_	_
-22	سحب	saHob_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	21	nmod	_	_
-23	قوات	quw~ap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	22	nmod	_	SpaceAfter=No
-24	ه	h	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	23	nmod	_	_
-25	أو	>awo_1	CCONJ	CC	_	28	cc	_	_
-26	أن	>ano_1	ADP	IN	_	28	mark	_	_
-27	يصبح	>aSobaH_1	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	28	cop	_	_
-28	عدواً	Eaduw~_1	NOUN	NN	Animacy=Hum|Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	19	conj	_	_
-29	ل	l	ADP	IN	_	30	case	_	SpaceAfter=No
-30	لشعب	$aEob_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	28	nmod	_	SpaceAfter=No
-31	,	,_0	PUNCT	,	_	3	punct	_	_
-32	أدرك	>adorak_1	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
-33	أن	>an~a_1	SCONJ	IN	_	45	mark	_	SpaceAfter=No
-34	ه	h	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3	45	nsubj	_	SpaceAfter=No
-35	,	,_0	PUNCT	,	_	37	punct	_	_
-36	مهما	mahomA_2	ADV	RB	_	37	advmod	_	_
-37	كان	kAn-u_1	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	45	ccomp	_	_
-38	الخيار	xiyAr_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	37	nsubj	_	_
-39	الذي	Al~a*iy_1	PRON	REL	Case=Nom|Gender=Masc|Number=Sing	41	obj	_	_
-40	س	s	PART	RP	_	41	compound:prt	_	SpaceAfter=No
-41	يأخذ	>axa*-u_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	38	acl:relcl	_	SpaceAfter=No
-42	ه	h	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3	41	dep	_	SpaceAfter=No
-43	,	,_0	PUNCT	,	_	37	punct	_	_
-44	س	s	PART	RP	_	45	compound:prt	_	SpaceAfter=No
-45	يسلم	sal~am_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	32	ccomp	_	_
-46	نفس	nafos_1	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Fem|Number=Sing	45	obj	_	SpaceAfter=No
-47	ه	h	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	46	nmod	_	_
-48	أعزلاً	>aEozal_2	ADV	RB	_	45	advmod	_	_
-49	إلى	<ilaY_1	ADP	IN	_	50	case	_	_
-50	أيدي	yad_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	45	obl	_	_
-51	أعدائ	Eaduw~_1	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	50	nmod	_	SpaceAfter=No
-52	ه	h	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	51	nmod	_	_
-53	السياسيين	siyAsiy~_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	51	amod	_	SpaceAfter=No
-54	.	._0	PUNCT	.	_	32	punct	_	_
+1	لكن	ل`كِن	PART	RP	_	32	compound:prt	_	LId=لٰكِنْ_1
+2	عندما	عِند	ADP	IN	_	3	mark	_	LId=عِنْد_1
+3	أجاب	أَجَاب	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	32	advcl	_	LId=أَجاب_1|SpaceAfter=No
+4	ه	هُوَ	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3	3	obj	_	_
+5	مجلس	مَجلِس	PROPN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	3	nsubj	_	LId=مَجْلِس_1
+6	الشيوخ	شَيخ	PROPN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	5	nmod	_	LId=شَيْخ_1
+7	ب	بِ	ADP	IN	_	8	case	_	SpaceAfter=No
+8	شكل	شَكل	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	3	obl	_	LId=شَكْل_1
+9	قاطع	قاطِع	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	8	amod	_	LId=قاطِع_1
+10	من	مِن	ADP	IN	_	12	case	_	LId=مِن_1
+11	خلال	خِلَالَ	ADP	IN	_	10	fixed	_	LId=خِلال_1
+12	منع	مَنع	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	3	obl	_	LId=مَنْع_1|SpaceAfter=No
+13	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	12	nmod	_	_
+14	من	مِن	ADP	IN	_	15	case	_	LId=مِن_1
+15	المنافسة	مُنافَسَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	12	nmod	_	LId=مُنافَسَة_1
+16	في	فِي	ADP	IN	_	17	case	_	LId=فِي_1
+17	القنصلية	قُنصُلِيَّة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	15	nmod	_	LId=قُنْصُلِيَّة_1
+18	و	وَ	CCONJ	CC	_	19	cc	_	SpaceAfter=No
+19	منح	مَنح	NOUN	VBG	Case=Gen|Definite=Def|Gender=Masc	12	conj	_	LId=مَنْح_1|SpaceAfter=No
+20	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	19	iobj	_	_
+21	خيار	خِيَار	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	19	obj	_	LId=خِيار_1
+22	سحب	سَحب	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	21	nmod	_	LId=سَحْب_1
+23	قوات	قُوَّة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	22	nmod	_	LId=قُوَّة_1|SpaceAfter=No
+24	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	23	nmod	_	_
+25	أو	أَو	CCONJ	CC	_	27	cc	_	LId=أَوْ_1
+26	أن	أَن	ADP	IN	_	27	mark	_	LId=أَنْ_1
+27	يصبح	أَصبَح	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	19	conj	_	LId=أَصْبَح_1
+28	عدواً	عَدُوّ	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	27	xcomp	_	LId=عَدُوّ_1
+29	ل	لِ	ADP	IN	_	30	case	_	SpaceAfter=No
+30	لشعب	شَعب	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	28	nmod	_	LId=شَعْب_1|SpaceAfter=No
+31	,	,	PUNCT	,	_	3	punct	_	LId=,_0
+32	أدرك	أَدرَك	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=أَدْرَك_1
+33	أن	أَنَّ	SCONJ	IN	_	45	mark	_	LId=أَنَّ_1|SpaceAfter=No
+34	ه	هُوَ	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3	45	nsubj	_	SpaceAfter=No
+35	,	,	PUNCT	,	_	37	punct	_	LId=,_0
+36	مهما	مَهما	ADV	RB	_	37	advmod	_	LId=مَهْما_2
+37	كان	كَان	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	45	ccomp	_	LId=كان-ُ_1
+38	الخيار	خِيَار	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	37	nsubj	_	LId=خِيار_1
+39	الذي	الَّذِي	PRON	REL	Case=Nom|Gender=Masc|Number=Sing	41	obj	_	LId=الَّذِي_1
+40	س	سَ	PART	RP	_	41	compound:prt	_	SpaceAfter=No
+41	يأخذ	أَخَذ	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	38	acl:relcl	_	LId=أَخَذ-ُ_1|SpaceAfter=No
+42	ه	هُوَ	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3	41	dep	_	SpaceAfter=No
+43	,	,	PUNCT	,	_	37	punct	_	LId=,_0
+44	س	سَ	PART	RP	_	45	compound:prt	_	SpaceAfter=No
+45	يسلم	سَلَّم	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	32	ccomp	_	LId=سَلَّم_1
+46	نفس	نَفس	NOUN	NN	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	45	obj	_	LId=نَفْس_1|SpaceAfter=No
+47	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	46	nmod	_	_
+48	أعزلاً	أَعزَل	ADV	RB	_	45	advmod	_	LId=أَعْزَل_2
+49	إلى	إِلَى	ADP	IN	_	50	case	_	LId=إِلَى_1
+50	أيدي	يَد	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	45	obl	_	LId=يَد_1
+51	أعدائ	عَدُوّ	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	50	nmod	_	LId=عَدُوّ_1|SpaceAfter=No
+52	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	51	nmod	_	_
+53	السياسيين	سِيَاسِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	51	amod	_	LId=سِياسِيّ_1|SpaceAfter=No
+54	.	.	PUNCT	.	_	32	punct	_	LId=._0
 
 ~~~
 

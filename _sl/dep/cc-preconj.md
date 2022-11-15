@@ -13,3 +13,4 @@ cc(učitelji,ne-8)
 cc:preconj(ravnatelji,ne-6)
 conj(ravnatelji,učitelji)
 ~~~
+<!-- Interlanguage links updated Po lis 14 15:35:15 CET 2022 -->

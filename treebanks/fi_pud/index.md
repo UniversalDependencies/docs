@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Jenna Kanerva, Filip Ginter, Stina Ojala, Anna Missilä.
 
 Repository: [UD_Finnish-PUD](https://github.com/UniversalDependencies/UD_Finnish-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfi_pud210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfi_pud211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-SA 4.0
 
@@ -89,7 +89,7 @@ employ ten-fold cross-validation.
 
 ## Relations
 
-[acl](fi_pud-dep-acl.html) – [acl:relcl](fi_pud-dep-acl-relcl.html) – [advcl](fi_pud-dep-advcl.html) – [advmod](fi_pud-dep-advmod.html) – [amod](fi_pud-dep-amod.html) – [appos](fi_pud-dep-appos.html) – [aux](fi_pud-dep-aux.html) – [aux:pass](fi_pud-dep-aux-pass.html) – [case](fi_pud-dep-case.html) – [cc](fi_pud-dep-cc.html) – [cc:preconj](fi_pud-dep-cc-preconj.html) – [ccomp](fi_pud-dep-ccomp.html) – [compound](fi_pud-dep-compound.html) – [compound:nn](fi_pud-dep-compound-nn.html) – [compound:prt](fi_pud-dep-compound-prt.html) – [conj](fi_pud-dep-conj.html) – [cop](fi_pud-dep-cop.html) – [cop:own](fi_pud-dep-cop-own.html) – [csubj](fi_pud-dep-csubj.html) – [csubj:cop](fi_pud-dep-csubj-cop.html) – [det](fi_pud-dep-det.html) – [discourse](fi_pud-dep-discourse.html) – [fixed](fi_pud-dep-fixed.html) – [flat](fi_pud-dep-flat.html) – [flat:foreign](fi_pud-dep-flat-foreign.html) – [flat:name](fi_pud-dep-flat-name.html) – [mark](fi_pud-dep-mark.html) – [nmod](fi_pud-dep-nmod.html) – [nmod:gobj](fi_pud-dep-nmod-gobj.html) – [nmod:gsubj](fi_pud-dep-nmod-gsubj.html) – [nmod:poss](fi_pud-dep-nmod-poss.html) – [nsubj](fi_pud-dep-nsubj.html) – [nsubj:cop](fi_pud-dep-nsubj-cop.html) – [nummod](fi_pud-dep-nummod.html) – [obj](fi_pud-dep-obj.html) – [obl](fi_pud-dep-obl.html) – [orphan](fi_pud-dep-orphan.html) – [parataxis](fi_pud-dep-parataxis.html) – [punct](fi_pud-dep-punct.html) – [root](fi_pud-dep-root.html) – [vocative](fi_pud-dep-vocative.html) – [xcomp](fi_pud-dep-xcomp.html) – [xcomp:ds](fi_pud-dep-xcomp-ds.html)
+[acl](fi_pud-dep-acl.html) – [acl:relcl](fi_pud-dep-acl-relcl.html) – [advcl](fi_pud-dep-advcl.html) – [advmod](fi_pud-dep-advmod.html) – [amod](fi_pud-dep-amod.html) – [appos](fi_pud-dep-appos.html) – [aux](fi_pud-dep-aux.html) – [aux:pass](fi_pud-dep-aux-pass.html) – [case](fi_pud-dep-case.html) – [cc](fi_pud-dep-cc.html) – [cc:preconj](fi_pud-dep-cc-preconj.html) – [ccomp](fi_pud-dep-ccomp.html) – [compound](fi_pud-dep-compound.html) – [compound:nn](fi_pud-dep-compound-nn.html) – [compound:prt](fi_pud-dep-compound-prt.html) – [conj](fi_pud-dep-conj.html) – [cop](fi_pud-dep-cop.html) – [cop:own](fi_pud-dep-cop-own.html) – [csubj](fi_pud-dep-csubj.html) – [csubj:cop](fi_pud-dep-csubj-cop.html) – [det](fi_pud-dep-det.html) – [discourse](fi_pud-dep-discourse.html) – [dislocated](fi_pud-dep-dislocated.html) – [fixed](fi_pud-dep-fixed.html) – [flat](fi_pud-dep-flat.html) – [flat:foreign](fi_pud-dep-flat-foreign.html) – [flat:name](fi_pud-dep-flat-name.html) – [mark](fi_pud-dep-mark.html) – [nmod](fi_pud-dep-nmod.html) – [nmod:gobj](fi_pud-dep-nmod-gobj.html) – [nmod:gsubj](fi_pud-dep-nmod-gsubj.html) – [nmod:poss](fi_pud-dep-nmod-poss.html) – [nsubj](fi_pud-dep-nsubj.html) – [nsubj:cop](fi_pud-dep-nsubj-cop.html) – [nummod](fi_pud-dep-nummod.html) – [obj](fi_pud-dep-obj.html) – [obl](fi_pud-dep-obl.html) – [orphan](fi_pud-dep-orphan.html) – [parataxis](fi_pud-dep-parataxis.html) – [punct](fi_pud-dep-punct.html) – [root](fi_pud-dep-root.html) – [vocative](fi_pud-dep-vocative.html) – [xcomp](fi_pud-dep-xcomp.html) – [xcomp:ds](fi_pud-dep-xcomp-ds.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -1102,5 +1102,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 14 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:nn</a>, <a>compound:prt</a>, <a>cop:own</a>, <a>csubj:cop</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nmod:gobj</a>, <a>nmod:gsubj</a>, <a>nmod:poss</a>, <a>nsubj:cop</a>, <a>xcomp:ds</a></li>
-<li>The following 8 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+<li>The following 7 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

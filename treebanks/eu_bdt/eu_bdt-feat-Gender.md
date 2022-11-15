@@ -20,16 +20,16 @@ The feature is used with 2 part-of-speech tags: <tt><a href="eu_bdt-pos-AUX.html
 
 41 <tt><a href="eu_bdt-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="eu_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (40; 98%), <tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Sing</tt> (37; 90%), <tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=3</tt> (35; 85%), <tt><a href="eu_bdt-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (30; 73%), <tt><a href="eu_bdt-feat-Number-erg.html">Number[erg]</a></tt><tt>=EMPTY</tt> (22; 54%), <tt><a href="eu_bdt-feat-Person-erg.html">Person[erg]</a></tt><tt>=EMPTY</tt> (22; 54%).
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="eu_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (41; 100%), <tt><a href="eu_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (40; 98%), <tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Sing</tt> (37; 90%), <tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=3</tt> (35; 85%), <tt><a href="eu_bdt-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (30; 73%), <tt><a href="eu_bdt-feat-Number-erg.html">Number[erg]</a></tt><tt>=EMPTY</tt> (22; 54%), <tt><a href="eu_bdt-feat-Person-erg.html">Person[erg]</a></tt><tt>=EMPTY</tt> (22; 54%).
 
 `AUX` tokens may have the following values of `Gender`:
 
 * `Fem` (25; 61% of non-empty `Gender`): <em>dinat, dun, naun, din, ditun, zion, ditin, gintunan, zaidan, zezaken</em>
 * `Masc` (16; 39% of non-empty `Gender`): <em>duk, diat, nian, dik, nauk, zagok, zegoan, zegok</em>
-* `EMPTY` (12449): <em>da, zuen, zen, du, dira, dute, izan, zuten, ziren, ditu</em>
+* `EMPTY` (12507): <em>da, zuen, zen, du, dira, izan, dute, zuten, ziren, ditu</em>
 
 <table>
-  <tr><th>Paradigm <i>*edun</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
+  <tr><th>Paradigm <i>edun</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
   <tr><td><tt><tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Plur</tt>|<tt><a href="eu_bdt-feat-Number-erg.html">Number[erg]</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=3</tt>|<tt><a href="eu_bdt-feat-Person-erg.html">Person[erg]</a></tt><tt>=3</tt></tt></td><td></td><td><em>ditin</em></td></tr>
   <tr><td><tt><tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Plur</tt>|<tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=1</tt></tt></td><td></td><td><em>gintunan</em></td></tr>
   <tr><td><tt><tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Plur</tt>|<tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=3</tt></tt></td><td></td><td><em>ditun</em></td></tr>
@@ -46,13 +46,13 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 
 30 <tt><a href="eu_bdt-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="eu_bdt-feat-Aspect.html">Aspect</a></tt><tt>=Prog</tt> (30; 100%), <tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (30; 100%), <tt><a href="eu_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (30; 100%), <tt><a href="eu_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (28; 93%), <tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=3</tt> (28; 93%), <tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Sing</tt> (23; 77%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="eu_bdt-feat-Aspect.html">Aspect</a></tt><tt>=Prog</tt> (30; 100%), <tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (30; 100%), <tt><a href="eu_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (30; 100%), <tt><a href="eu_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (28; 93%), <tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=3</tt> (28; 93%), <tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Sing</tt> (23; 77%).
 
 `VERB` tokens may have the following values of `Gender`:
 
 * `Fem` (19; 63% of non-empty `Gender`): <em>dun, dinat, niken, baditinagu, baditinat, bazaukan, dakinat, din, dinagu, naun</em>
 * `Masc` (11; 37% of non-empty `Gender`): <em>duk, zekiat, dik, ditik, dituk, gaudek, zeramatzaan, zeramatzak, zian</em>
-* `EMPTY` (19096): <em>egin, izan, esan, egiten, da, du, izango, eman, dago, hasi</em>
+* `EMPTY` (19037): <em>egin, izan, esan, egiten, du, da, izango, eman, dago, hasi</em>
 
 <table>
   <tr><th>Paradigm <i>ukan</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>

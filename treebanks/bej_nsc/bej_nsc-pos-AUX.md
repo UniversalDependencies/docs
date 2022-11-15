@@ -43,15 +43,15 @@ The 1st highest number of forms (13) was observed with the lemma “_”: <em>=a
 `AUX` occurs with 10 feature-value pairs: `Aspect=Aor`, `Aspect=Perf`, `Gender=Masc`, `Mood=Opt`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `VerbType=Cop`
 
 `AUX` occurs with 10 feature combinations.
-The most frequent feature combination is `Number=Sing|Person=1|VerbType=Cop` (6 tokens).
-Examples: <em>=u, =i</em>
+The most frequent feature combination is `Number=Sing|Person=3|VerbType=Cop` (6 tokens).
+Examples: <em>=u</em>
 
 
 ## Relations
 
 `AUX` nodes are attached to their parents using 3 different relations: <tt><a href="bej_nsc-dep-cop.html">cop</a></tt> (18; 64% instances), <tt><a href="bej_nsc-dep-aux.html">aux</a></tt> (7; 25% instances), <tt><a href="bej_nsc-dep-advcl.html">advcl</a></tt> (3; 11% instances)
 
-Parents of `AUX` nodes belong to 3 different parts of speech: <tt><a href="bej_nsc-pos-VERB.html">VERB</a></tt> (23; 82% instances), <tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt> (4; 14% instances), <tt><a href="bej_nsc-pos-ADJ.html">ADJ</a></tt> (1; 4% instances)
+Parents of `AUX` nodes belong to 3 different parts of speech: <tt><a href="bej_nsc-pos-VERB.html">VERB</a></tt> (22; 79% instances), <tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt> (5; 18% instances), <tt><a href="bej_nsc-pos-ADJ.html">ADJ</a></tt> (1; 4% instances)
 
 26 (93%) `AUX` nodes are leaves.
 

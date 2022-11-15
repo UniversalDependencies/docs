@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-51 nodes (8%) are attached to their parents as `case`.
+59 nodes (8%) are attached to their parents as `case`.
 
-38 instances of `case` (75%) are left-to-right (parent precedes child).
+41 instances of `case` (69%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 3 pairs of parts of speech are connected with `case`: <tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xum_ikuvina-pos-ADP.html">ADP</a></tt> (42; 82% instances), <tt><a href="xum_ikuvina-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xum_ikuvina-pos-ADP.html">ADP</a></tt> (7; 14% instances), <tt><a href="xum_ikuvina-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xum_ikuvina-pos-ADP.html">ADP</a></tt> (2; 4% instances).
+The following 3 pairs of parts of speech are connected with `case`: <tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xum_ikuvina-pos-ADP.html">ADP</a></tt> (50; 85% instances), <tt><a href="xum_ikuvina-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xum_ikuvina-pos-ADP.html">ADP</a></tt> (7; 12% instances), <tt><a href="xum_ikuvina-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xum_ikuvina-pos-ADP.html">ADP</a></tt> (2; 3% instances).
 
 
 ~~~ conllu

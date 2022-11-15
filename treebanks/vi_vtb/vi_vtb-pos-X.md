@@ -6,91 +6,84 @@ udver: '2'
 
 ## Treebank Statistics: UD_Vietnamese-VTB: POS Tags: `X`
 
-There are 244 `X` lemmas (4%), 244 `X` types (4%) and 3544 `X` tokens (8%).
-Out of 14 observed tags, the rank of `X` is: 4 in number of lemmas, 4 in number of types and 4 in number of tokens.
+There are 83 `X` lemmas (1%), 83 `X` types (1%) and 144 `X` tokens (0%).
+Out of 17 observed tags, the rank of `X` is: 7 in number of lemmas, 7 in number of types and 15 in number of tokens.
 
-The 10 most frequent `X` lemmas: <em>không, đã, cũng, lại, sẽ, chỉ, được, rất, đang, ra</em>
+The 10 most frequent `X` lemmas: <em>ra sao, vì sao, có vẻ, chìm xuồng, một mình, như vậy, tại sao, có lẽ, như thế nào, y</em>
 
-The 10 most frequent `X` types:  <em>không, đã, cũng, lại, sẽ, chỉ, được, rất, đang, ra</em>
+The 10 most frequent `X` types:  <em>ra sao, vì sao, có vẻ, chìm xuồng, một mình, như vậy, tại sao, Có lẽ, Y, như thế nào</em>
 
-The 10 most frequent ambiguous lemmas: <em>lại</em> (<tt><a href="vi_vtb-pos-X.html">X</a></tt> 226, <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> 4), <em>chỉ</em> (<tt><a href="vi_vtb-pos-X.html">X</a></tt> 114, <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> 4, <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> 1), <em>được</em> (<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> 205, <tt><a href="vi_vtb-pos-X.html">X</a></tt> 125, <tt><a href="vi_vtb-pos-PART.html">PART</a></tt> 2, <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> 1), <em>ra</em> (<tt><a href="vi_vtb-pos-X.html">X</a></tt> 98, <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> 69, <tt><a href="vi_vtb-pos-ADP.html">ADP</a></tt> 6), <em>mới</em> (<tt><a href="vi_vtb-pos-X.html">X</a></tt> 62, <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> 27), <em>còn</em> (<tt><a href="vi_vtb-pos-X.html">X</a></tt> 58, <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> 41, <tt><a href="vi_vtb-pos-CCONJ.html">CCONJ</a></tt> 14), <em>đều</em> (<tt><a href="vi_vtb-pos-X.html">X</a></tt> 56, <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> 2), <em>lên</em> (<tt><a href="vi_vtb-pos-X.html">X</a></tt> 53, <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> 41, <tt><a href="vi_vtb-pos-ADP.html">ADP</a></tt> 14), <em>cứ</em> (<tt><a href="vi_vtb-pos-X.html">X</a></tt> 37, <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> 2), <em>có thể</em> (<tt><a href="vi_vtb-pos-X.html">X</a></tt> 40, <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> 12)
+The 10 most frequent ambiguous lemmas: <em>ra sao</em> (<tt><a href="vi_vtb-pos-X.html">X</a></tt> 8, <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> 1), <em>có vẻ</em> (<tt><a href="vi_vtb-pos-X.html">X</a></tt> 6, <tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt> 1, <tt><a href="vi_vtb-pos-AUX.html">AUX</a></tt> 1, <tt><a href="vi_vtb-pos-PART.html">PART</a></tt> 1, <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> 1), <em>một mình</em> (<tt><a href="vi_vtb-pos-X.html">X</a></tt> 5, <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt> 1), <em>như vậy</em> (<tt><a href="vi_vtb-pos-SCONJ.html">SCONJ</a></tt> 16, <tt><a href="vi_vtb-pos-X.html">X</a></tt> 5, <tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt> 1), <em>tại sao</em> (<tt><a href="vi_vtb-pos-X.html">X</a></tt> 5, <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt> 1), <em>có lẽ</em> (<tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt> 8, <tt><a href="vi_vtb-pos-X.html">X</a></tt> 4), <em>như thế nào</em> (<tt><a href="vi_vtb-pos-X.html">X</a></tt> 4, <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> 1), <em>y</em> (<tt><a href="vi_vtb-pos-X.html">X</a></tt> 4, <tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt> 3, <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> 1), <em>làm sao</em> (<tt><a href="vi_vtb-pos-X.html">X</a></tt> 3, <tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt> 2), <em>nhất là</em> (<tt><a href="vi_vtb-pos-X.html">X</a></tt> 3, <tt><a href="vi_vtb-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>lại</em> (<tt><a href="vi_vtb-pos-X.html">X</a></tt> 226, <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> 4), <em>chỉ</em> (<tt><a href="vi_vtb-pos-X.html">X</a></tt> 114, <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> 4, <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> 1), <em>được</em> (<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> 205, <tt><a href="vi_vtb-pos-X.html">X</a></tt> 125, <tt><a href="vi_vtb-pos-PART.html">PART</a></tt> 2, <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> 1), <em>ra</em> (<tt><a href="vi_vtb-pos-X.html">X</a></tt> 98, <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> 69, <tt><a href="vi_vtb-pos-ADP.html">ADP</a></tt> 6), <em>mới</em> (<tt><a href="vi_vtb-pos-X.html">X</a></tt> 62, <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> 27), <em>còn</em> (<tt><a href="vi_vtb-pos-X.html">X</a></tt> 58, <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> 41, <tt><a href="vi_vtb-pos-CCONJ.html">CCONJ</a></tt> 14), <em>đều</em> (<tt><a href="vi_vtb-pos-X.html">X</a></tt> 56, <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> 2), <em>lên</em> (<tt><a href="vi_vtb-pos-X.html">X</a></tt> 53, <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> 41, <tt><a href="vi_vtb-pos-ADP.html">ADP</a></tt> 14), <em>cứ</em> (<tt><a href="vi_vtb-pos-X.html">X</a></tt> 37, <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> 2), <em>có thể</em> (<tt><a href="vi_vtb-pos-X.html">X</a></tt> 40, <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> 12)
+The 10 most frequent ambiguous types:  <em>ra sao</em> (<tt><a href="vi_vtb-pos-X.html">X</a></tt> 8, <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> 1), <em>có vẻ</em> (<tt><a href="vi_vtb-pos-X.html">X</a></tt> 6, <tt><a href="vi_vtb-pos-AUX.html">AUX</a></tt> 1, <tt><a href="vi_vtb-pos-PART.html">PART</a></tt> 1, <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> 1), <em>một mình</em> (<tt><a href="vi_vtb-pos-X.html">X</a></tt> 5, <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt> 1), <em>như vậy</em> (<tt><a href="vi_vtb-pos-X.html">X</a></tt> 4, <tt><a href="vi_vtb-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt> 1), <em>Có lẽ</em> (<tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt> 6, <tt><a href="vi_vtb-pos-X.html">X</a></tt> 4), <em>Y</em> (<tt><a href="vi_vtb-pos-X.html">X</a></tt> 4, <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> 1), <em>như thế nào</em> (<tt><a href="vi_vtb-pos-X.html">X</a></tt> 4, <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> 1), <em>làm sao</em> (<tt><a href="vi_vtb-pos-X.html">X</a></tt> 3, <tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt> 2), <em>nhất là</em> (<tt><a href="vi_vtb-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt> 1, <tt><a href="vi_vtb-pos-X.html">X</a></tt> 1), <em>thật ra</em> (<tt><a href="vi_vtb-pos-X.html">X</a></tt> 2, <tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt> 1)
 
 
-* <em>lại</em>
-  * <tt><a href="vi_vtb-pos-X.html">X</a></tt> 226: <em>Họ đã để <b>lại</b> hậu quả quá lớn bằng chất độc da cam / dioxin hủy diệt .</em>
-  * <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> 4: <em>để có cơ sở , Toàn quay <b>lại</b> khu nhà Liên ở .</em>
-* <em>chỉ</em>
-  * <tt><a href="vi_vtb-pos-X.html">X</a></tt> 114: <em>Tôi <b>chỉ</b> là người phát triển thêm tình hữu nghị đó " .</em>
-  * <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> 4: <em>nhìn đồng hồ , kim đã <b>chỉ</b> 14 giờ .</em>
-  * <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> 1: <em>trong tủ cá nhân của 12 csgt , đội đặc nhiệm lập biên bản tạm giữ 160 triệu đồng , hơn 160 <b>chỉ</b> vàng ...</em>
-* <em>được</em>
-  * <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> 205: <em>Và tôi <b>được</b> cử sang VN để giúp người VN chống phát xít Nhật .</em>
-  * <tt><a href="vi_vtb-pos-X.html">X</a></tt> 125: <em>Nếu Tùng học <b>được</b> hai tuần nghiêm túc thì mẹ mua xe .</em>
-  * <tt><a href="vi_vtb-pos-PART.html">PART</a></tt> 2: <em>Cô chỉ cho tôi biết làm thế nào để <b>được</b> yên ổn ? .</em>
-  * <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> 1: <em>bởi rứa mình bàn với đám trai trẻ : hay là dân mình phải học cho <b>được</b> cái nghề ni ?</em>
-* <em>ra</em>
-  * <tt><a href="vi_vtb-pos-X.html">X</a></tt> 98: <em>Tôi sinh <b>ra</b> trong gia đình nghèo .</em>
-  * <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> 69: <em><b>ra</b> ngoài một mình nhiều thì dễ bị lộ .</em>
-  * <tt><a href="vi_vtb-pos-ADP.html">ADP</a></tt> 6: <em>trời gần tối , Hải đi bộ <b>ra</b> phố .</em>
-* <em>mới</em>
-  * <tt><a href="vi_vtb-pos-X.html">X</a></tt> 62: <em>đơn giản nhất là bám theo cả chục kilômet , khi nào khách mua <b>mới</b> thôi .</em>
-  * <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> 27: <em>Hai kịch bản <b>mới</b> phải thực hiện .</em>
-* <em>còn</em>
-  * <tt><a href="vi_vtb-pos-X.html">X</a></tt> 58: <em>Hóa ra Hải <b>còn</b> có một cái tên nữa .</em>
-  * <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> 41: <em>tốt nghiệp khóa học sẽ <b>còn</b> nhiều phần thưởng nữa , thậm chí là xe hơi .</em>
-  * <tt><a href="vi_vtb-pos-CCONJ.html">CCONJ</a></tt> 14: <em>" Thế <b>còn</b> con vật chị yêu thích nhất ? " .</em>
-* <em>đều</em>
-  * <tt><a href="vi_vtb-pos-X.html">X</a></tt> 56: <em>Tất cả những hành động này Hải <b>đều</b> báo cáo với công ty .</em>
-  * <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> 2: <em>ra tòa , bà chỉ biết lặp đi lặp lại : " phần đất là của tôi , sẽ chia <b>đều</b> cho hai con gái .</em>
-* <em>lên</em>
-  * <tt><a href="vi_vtb-pos-X.html">X</a></tt> 53: <em>" trong cuộc đời đó , mình được lớn <b>lên</b> với tất cả mọi đủ đầy .</em>
-  * <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> 41: <em>lần theo vết giày hằn trên thảm đỏ , Hằng <b>lên</b> tới phòng con trai .</em>
-  * <tt><a href="vi_vtb-pos-ADP.html">ADP</a></tt> 14: <em>bàn tay y đặt <b>lên</b> lưng ông Chính dò tìm .</em>
-* <em>cứ</em>
-  * <tt><a href="vi_vtb-pos-X.html">X</a></tt> 37: <em>Trước mắt , Thanh <b>cứ</b> theo dõi Hùng .</em>
-  * <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> 2: <em><b>cứ</b> thế các đoạn địa đạo được nối rộng ra , mỗi ngày một chút .</em>
-* <em>có thể</em>
-  * <tt><a href="vi_vtb-pos-X.html">X</a></tt> 40: <em>Câu chuyện <b>có thể</b> theo bốn khả năng .</em>
-  * <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> 12: <em>Không loại trừ việc Hải cũng <b>có thể</b> sa ngã .</em>
+* <em>ra sao</em>
+  * <tt><a href="vi_vtb-pos-X.html">X</a></tt> 8: <em>Thế nhưng những hiệp sĩ ấy giờ <b>ra sao</b> ?</em>
+  * <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> 1: <em>Quả thật nếu như đang có ùn tắc giao thông trên ngã tư này mà xe lửa cứ lù lù tiến tới thì không biết hậu quả sẽ <b>ra sao</b> .</em>
+* <em>có vẻ</em>
+  * <tt><a href="vi_vtb-pos-X.html">X</a></tt> 6: <em>Những cô gái ở độ tuổi 18 - 25 rất trẻ mà <b>có vẻ</b> buồn quá .</em>
+  * <tt><a href="vi_vtb-pos-AUX.html">AUX</a></tt> 1: <em>Qua câu chuyện , ông <b>có vẻ</b> rất để ý đến những chi tiết nằm ngoài công việc của Thu .</em>
+  * <tt><a href="vi_vtb-pos-PART.html">PART</a></tt> 1: <em>Chỉ khác với các trung tâm chăm sóc người cao tuổi do Nhà nước bao cấp , các nhân viên ở đây <b>có vẻ</b> tất bật .</em>
+  * <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> 1: <em>Kim <b>có vẻ</b> rất lo lắng cho ông .</em>
+* <em>một mình</em>
+  * <tt><a href="vi_vtb-pos-X.html">X</a></tt> 5: <em>Ra ngoài <b>một mình</b> nhiều thì dễ bị lộ .</em>
+  * <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> 2: <em>Có tay cửu vạn <b>một mình</b> làm hai vác chạy phăm phăm ra đường .</em>
+  * <tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt> 1: <em>Chị đi <b>một mình</b> và tiến thẳng vào lễ tân xin thuê phòng .</em>
+* <em>như vậy</em>
+  * <tt><a href="vi_vtb-pos-X.html">X</a></tt> 4: <em>Nhưng thôi , Nhi tạm cho là <b>như vậy</b> .</em>
+  * <tt><a href="vi_vtb-pos-SCONJ.html">SCONJ</a></tt> 2: <em>Và <b>như vậy</b> các thám tử đã lộ diện với tên áo kẻ .</em>
+  * <tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt> 1: <em>Có hàng ngàn nạn nhân <b>như vậy</b> ở Đà Nẵng .</em>
+* <em>Có lẽ</em>
+  * <tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt> 6: <em><b>Có lẽ</b> là bà ta ...</em>
+  * <tt><a href="vi_vtb-pos-X.html">X</a></tt> 4: <em><b>Có lẽ</b> đã thấy đủ , bà Loan xách túi đi ra với cả ban nhạc trong lòng .</em>
+* <em>Y</em>
+  * <tt><a href="vi_vtb-pos-X.html">X</a></tt> 4: <em>Một : gọi vào số <b>Y</b> và nói là là nhân viên bưu điện đến sửa điện thoại .</em>
+  * <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> 1: <em>Cụ <b>Y</b> không con cái , anh con nuôi luôn mồm đòi bán nhà .</em>
+* <em>như thế nào</em>
+  * <tt><a href="vi_vtb-pos-X.html">X</a></tt> 4: <em>Vấn đề này sẽ được quan tâm <b>như thế nào</b> thưa ông ?</em>
+  * <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> 1: <em>Điều đó cũng có nghĩa cho dù nồng thắm , nghĩa tình <b>như thế nào</b> đi nữa thì nam và Lan cũng không thể lấy nhau .</em>
+* <em>làm sao</em>
+  * <tt><a href="vi_vtb-pos-X.html">X</a></tt> 3: <em>Ông bà thì cứ nghĩ nhà mình động chạm <b>làm sao</b> cứ cúng bái , lễ lạt suốt .</em>
+  * <tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt> 2: <em>Chủ quán bộc lộ : " bị căngxe ( ung thư ) thì <b>làm sao</b> sống được " .</em>
+* <em>nhất là</em>
+  * <tt><a href="vi_vtb-pos-SCONJ.html">SCONJ</a></tt> 2: <em>" khi sang Mỹ tôi gặp rất nhiều khó khăn , <b>nhất là</b> trong giao tiếp và đi lại " - cô kể .</em>
+  * <tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt> 1: <em>Báo TT có thể là đầu tàu , qua đó rộng rãi độc giả , <b>nhất là</b> các doanh nghiệp , có thể lên tiếng và đưa ra biện pháp trợ giúp .</em>
+  * <tt><a href="vi_vtb-pos-X.html">X</a></tt> 1: <em>Bởi như thế anh sẽ rất khó kiểm soát tình hình , <b>nhất là</b> khi Thọ phát hiện điều gì đó của vợ ...</em>
+* <em>thật ra</em>
+  * <tt><a href="vi_vtb-pos-X.html">X</a></tt> 2: <em>Ông và Kim <b>thật ra</b> cũng chưa bao giờ muốn ràng buộc nhau ...</em>
+  * <tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt> 1: <em>Nhưng <b>thật ra</b> cậu chỉ cần thực hiện nhiệm vụ là làm một người bạn tốt , làm một thanh niên có chí hướng là đủ " .</em>
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.000000).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.001785).
 
-The 1st highest number of forms (1) was observed with the lemma “&”: <em>&</em>.
+The 1st highest number of forms (1) was observed with the lemma “b .52”: <em>B .52</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “B .52”: <em>B .52</em>.
+The 2nd highest number of forms (1) was observed with the lemma “bẻ gãy sừng trâu”: <em>bẻ gãy sừng trâu</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “Bất cứ”: <em>Bất cứ</em>.
+The 3rd highest number of forms (1) was observed with the lemma “c ó lẽ”: <em>c ó lẽ</em>.
 
-`X` occurs with 1 features: <tt><a href="vi_vtb-feat-Polarity.html">Polarity</a></tt> (542; 15% instances)
-
-`X` occurs with 1 feature-value pairs: `Polarity=Neg`
-
-`X` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (3002 tokens).
-Examples: <em>đã, cũng, lại, sẽ, chỉ, được, rất, đang, ra, vẫn</em>
+`X` does not occur with any features.
 
 
 ## Relations
 
-`X` nodes are attached to their parents using 15 different relations: <tt><a href="vi_vtb-dep-advmod.html">advmod</a></tt> (3271; 92% instances), <tt><a href="vi_vtb-dep-dep.html">dep</a></tt> (131; 4% instances), <tt><a href="vi_vtb-dep-aux.html">aux</a></tt> (44; 1% instances), <tt><a href="vi_vtb-dep-discourse.html">discourse</a></tt> (22; 1% instances), <tt><a href="vi_vtb-dep-aux-pass.html">aux:pass</a></tt> (16; 0% instances), <tt><a href="vi_vtb-dep-conj.html">conj</a></tt> (12; 0% instances), <tt><a href="vi_vtb-dep-parataxis.html">parataxis</a></tt> (10; 0% instances), <tt><a href="vi_vtb-dep-root.html">root</a></tt> (10; 0% instances), <tt><a href="vi_vtb-dep-amod.html">amod</a></tt> (7; 0% instances), <tt><a href="vi_vtb-dep-obl.html">obl</a></tt> (6; 0% instances), <tt><a href="vi_vtb-dep-advcl.html">advcl</a></tt> (5; 0% instances), <tt><a href="vi_vtb-dep-obj.html">obj</a></tt> (5; 0% instances), <tt><a href="vi_vtb-dep-nsubj.html">nsubj</a></tt> (2; 0% instances), <tt><a href="vi_vtb-dep-punct.html">punct</a></tt> (2; 0% instances), <tt><a href="vi_vtb-dep-nmod.html">nmod</a></tt> (1; 0% instances)
+`X` nodes are attached to their parents using 28 different relations: <tt><a href="vi_vtb-dep-obl.html">obl</a></tt> (38; 26% instances), <tt><a href="vi_vtb-dep-discourse.html">discourse</a></tt> (23; 16% instances), <tt><a href="vi_vtb-dep-root.html">root</a></tt> (11; 8% instances), <tt><a href="vi_vtb-dep-nmod.html">nmod</a></tt> (10; 7% instances), <tt><a href="vi_vtb-dep-compound.html">compound</a></tt> (9; 6% instances), <tt><a href="vi_vtb-dep-mark.html">mark</a></tt> (7; 5% instances), <tt><a href="vi_vtb-dep-obj.html">obj</a></tt> (6; 4% instances), <tt><a href="vi_vtb-dep-advcl.html">advcl</a></tt> (5; 3% instances), <tt><a href="vi_vtb-dep-conj.html">conj</a></tt> (5; 3% instances), <tt><a href="vi_vtb-dep-cc.html">cc</a></tt> (4; 3% instances), <tt><a href="vi_vtb-dep-xcomp.html">xcomp</a></tt> (3; 2% instances), <tt><a href="vi_vtb-dep-acl.html">acl</a></tt> (2; 1% instances), <tt><a href="vi_vtb-dep-acl-subj.html">acl:subj</a></tt> (2; 1% instances), <tt><a href="vi_vtb-dep-acl-tonp.html">acl:tonp</a></tt> (2; 1% instances), <tt><a href="vi_vtb-dep-amod.html">amod</a></tt> (2; 1% instances), <tt><a href="vi_vtb-dep-ccomp.html">ccomp</a></tt> (2; 1% instances), <tt><a href="vi_vtb-dep-compound-z.html">compound:z</a></tt> (2; 1% instances), <tt><a href="vi_vtb-dep-case.html">case</a></tt> (1; 1% instances), <tt><a href="vi_vtb-dep-compound-adj.html">compound:adj</a></tt> (1; 1% instances), <tt><a href="vi_vtb-dep-compound-prt.html">compound:prt</a></tt> (1; 1% instances), <tt><a href="vi_vtb-dep-compound-vmod.html">compound:vmod</a></tt> (1; 1% instances), <tt><a href="vi_vtb-dep-dislocated.html">dislocated</a></tt> (1; 1% instances), <tt><a href="vi_vtb-dep-nmod-poss.html">nmod:poss</a></tt> (1; 1% instances), <tt><a href="vi_vtb-dep-nsubj.html">nsubj</a></tt> (1; 1% instances), <tt><a href="vi_vtb-dep-obl-about.html">obl:about</a></tt> (1; 1% instances), <tt><a href="vi_vtb-dep-obl-comp.html">obl:comp</a></tt> (1; 1% instances), <tt><a href="vi_vtb-dep-obl-tmod.html">obl:tmod</a></tt> (1; 1% instances), <tt><a href="vi_vtb-dep-parataxis.html">parataxis</a></tt> (1; 1% instances)
 
-Parents of `X` nodes belong to 10 different parts of speech: <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (2594; 73% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> (501; 14% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (347; 10% instances), <tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt> (44; 1% instances), <tt><a href="vi_vtb-pos-X.html">X</a></tt> (18; 1% instances), <tt><a href="vi_vtb-pos-ADP.html">ADP</a></tt> (11; 0% instances),  (10; 0% instances), <tt><a href="vi_vtb-pos-PUNCT.html">PUNCT</a></tt> (8; 0% instances), <tt><a href="vi_vtb-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> (5; 0% instances)
+Parents of `X` nodes belong to 6 different parts of speech: <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (74; 51% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (45; 31% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> (12; 8% instances),  (11; 8% instances), <tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="vi_vtb-pos-X.html">X</a></tt> (1; 1% instances)
 
-3495 (99%) `X` nodes are leaves.
+109 (76%) `X` nodes are leaves.
 
-28 (1%) `X` nodes have one child.
+13 (9%) `X` nodes have one child.
 
-9 (0%) `X` nodes have two children.
+9 (6%) `X` nodes have two children.
 
-12 (0%) `X` nodes have three or more children.
+13 (9%) `X` nodes have three or more children.
 
 The highest child degree of a `X` node is 10.
 
-Children of `X` nodes are attached using 19 different relations: <tt><a href="vi_vtb-dep-punct.html">punct</a></tt> (34; 33% instances), <tt><a href="vi_vtb-dep-advmod.html">advmod</a></tt> (17; 17% instances), <tt><a href="vi_vtb-dep-cc.html">cc</a></tt> (6; 6% instances), <tt><a href="vi_vtb-dep-nmod.html">nmod</a></tt> (6; 6% instances), <tt><a href="vi_vtb-dep-nsubj.html">nsubj</a></tt> (6; 6% instances), <tt><a href="vi_vtb-dep-conj.html">conj</a></tt> (5; 5% instances), <tt><a href="vi_vtb-dep-compound.html">compound</a></tt> (4; 4% instances), <tt><a href="vi_vtb-dep-aux.html">aux</a></tt> (3; 3% instances), <tt><a href="vi_vtb-dep-aux-pass.html">aux:pass</a></tt> (3; 3% instances), <tt><a href="vi_vtb-dep-case.html">case</a></tt> (3; 3% instances), <tt><a href="vi_vtb-dep-det.html">det</a></tt> (3; 3% instances), <tt><a href="vi_vtb-dep-discourse.html">discourse</a></tt> (3; 3% instances), <tt><a href="vi_vtb-dep-advcl.html">advcl</a></tt> (2; 2% instances), <tt><a href="vi_vtb-dep-amod.html">amod</a></tt> (2; 2% instances), <tt><a href="vi_vtb-dep-xcomp.html">xcomp</a></tt> (2; 2% instances), <tt><a href="vi_vtb-dep-ccomp.html">ccomp</a></tt> (1; 1% instances), <tt><a href="vi_vtb-dep-cop.html">cop</a></tt> (1; 1% instances), <tt><a href="vi_vtb-dep-dep.html">dep</a></tt> (1; 1% instances), <tt><a href="vi_vtb-dep-obj.html">obj</a></tt> (1; 1% instances)
+Children of `X` nodes are attached using 25 different relations: <tt><a href="vi_vtb-dep-punct.html">punct</a></tt> (33; 38% instances), <tt><a href="vi_vtb-dep-nsubj.html">nsubj</a></tt> (9; 10% instances), <tt><a href="vi_vtb-dep-advmod.html">advmod</a></tt> (6; 7% instances), <tt><a href="vi_vtb-dep-discourse.html">discourse</a></tt> (5; 6% instances), <tt><a href="vi_vtb-dep-advcl.html">advcl</a></tt> (3; 3% instances), <tt><a href="vi_vtb-dep-aux-pass.html">aux:pass</a></tt> (3; 3% instances), <tt><a href="vi_vtb-dep-nsubj-pass.html">nsubj:pass</a></tt> (3; 3% instances), <tt><a href="vi_vtb-dep-xcomp.html">xcomp</a></tt> (3; 3% instances), <tt><a href="vi_vtb-dep-advmod-neg.html">advmod:neg</a></tt> (2; 2% instances), <tt><a href="vi_vtb-dep-case.html">case</a></tt> (2; 2% instances), <tt><a href="vi_vtb-dep-ccomp.html">ccomp</a></tt> (2; 2% instances), <tt><a href="vi_vtb-dep-det-pmod.html">det:pmod</a></tt> (2; 2% instances), <tt><a href="vi_vtb-dep-mark.html">mark</a></tt> (2; 2% instances), <tt><a href="vi_vtb-dep-obl-comp.html">obl:comp</a></tt> (2; 2% instances), <tt><a href="vi_vtb-dep-advcl-objective.html">advcl:objective</a></tt> (1; 1% instances), <tt><a href="vi_vtb-dep-advmod-adj.html">advmod:adj</a></tt> (1; 1% instances), <tt><a href="vi_vtb-dep-aux.html">aux</a></tt> (1; 1% instances), <tt><a href="vi_vtb-dep-cc.html">cc</a></tt> (1; 1% instances), <tt><a href="vi_vtb-dep-conj.html">conj</a></tt> (1; 1% instances), <tt><a href="vi_vtb-dep-cop.html">cop</a></tt> (1; 1% instances), <tt><a href="vi_vtb-dep-csubj.html">csubj</a></tt> (1; 1% instances), <tt><a href="vi_vtb-dep-nmod.html">nmod</a></tt> (1; 1% instances), <tt><a href="vi_vtb-dep-nmod-poss.html">nmod:poss</a></tt> (1; 1% instances), <tt><a href="vi_vtb-dep-obl.html">obl</a></tt> (1; 1% instances), <tt><a href="vi_vtb-dep-obl-tmod.html">obl:tmod</a></tt> (1; 1% instances)
 
-Children of `X` nodes belong to 11 different parts of speech: <tt><a href="vi_vtb-pos-PUNCT.html">PUNCT</a></tt> (34; 33% instances), <tt><a href="vi_vtb-pos-X.html">X</a></tt> (18; 17% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (16; 16% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (14; 14% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> (4; 4% instances), <tt><a href="vi_vtb-pos-ADP.html">ADP</a></tt> (4; 4% instances), <tt><a href="vi_vtb-pos-CCONJ.html">CCONJ</a></tt> (3; 3% instances), <tt><a href="vi_vtb-pos-PART.html">PART</a></tt> (3; 3% instances), <tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt> (3; 3% instances), <tt><a href="vi_vtb-pos-SCONJ.html">SCONJ</a></tt> (3; 3% instances), <tt><a href="vi_vtb-pos-AUX.html">AUX</a></tt> (1; 1% instances)
+Children of `X` nodes belong to 13 different parts of speech: <tt><a href="vi_vtb-pos-PUNCT.html">PUNCT</a></tt> (33; 38% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (14; 16% instances), <tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt> (8; 9% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (8; 9% instances), <tt><a href="vi_vtb-pos-AUX.html">AUX</a></tt> (5; 6% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> (4; 5% instances), <tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt> (4; 5% instances), <tt><a href="vi_vtb-pos-PART.html">PART</a></tt> (3; 3% instances), <tt><a href="vi_vtb-pos-SCONJ.html">SCONJ</a></tt> (3; 3% instances), <tt><a href="vi_vtb-pos-ADP.html">ADP</a></tt> (2; 2% instances), <tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="vi_vtb-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="vi_vtb-pos-X.html">X</a></tt> (1; 1% instances)
 

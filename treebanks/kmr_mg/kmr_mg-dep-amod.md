@@ -70,7 +70,7 @@ The following 7 pairs of parts of speech are connected with `amod`: <tt><a href=
 5	navê	nav	NOUN	n	Case=Con|Definite=Def|Gender=Masc|Number=Sing	11	nmod	_	_
 6	Mam	mam	NOUN	n	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	5	nmod:poss	_	_
 7	Azad	azad	ADJ	adj	Degree=Pos	6	flat	_	_
-8	tê	hatin	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
+8	tê	hatin	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
 9	bi	bi	ADP	pr	AdpType=Prep	10	case	_	_
 10	nav	nav	NOUN	n	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	11	obl	_	_
 11	kirin	navkirin	VERB	vblex	VerbForm=Inf	0	root	_	SpaceAfter=No

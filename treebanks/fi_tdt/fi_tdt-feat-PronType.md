@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 6 different values: `Dem`, `Ind`, `Int`, `Prs`, `Rcp`, `Rel`.
 
-13218 tokens (7%) have a non-empty value of `PronType`.
+13216 tokens (7%) have a non-empty value of `PronType`.
 803 types (1%) occur at least once with a non-empty value of `PronType`.
 44 lemmas (0%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt> (13217; 7% instances), <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt> (13215; 7% instances), <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 ### `PRON`
 
-13217 <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt> tokens (98% of all `PRON` tokens) have a non-empty value of `PronType`.
+13215 <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt> tokens (98% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (10428; 79%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9941; 75%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (10426; 79%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9939; 75%).
 
 `PRON` tokens may have the following values of `PronType`:
 
-* `Dem` (5156; 39% of non-empty `PronType`): <em>se, sen, sitä, siitä, tämän, tämä, ne, tässä, niiden, siihen</em>
+* `Dem` (5155; 39% of non-empty `PronType`): <em>se, sen, sitä, siitä, tämän, tämä, ne, tässä, niiden, siihen</em>
 * `Ind` (2533; 19% of non-empty `PronType`): <em>kaikki, mitään, jotain, joku, muita, muiden, muut, muuta, kaiken, kukaan</em>
-* `Int` (377; 3% of non-empty `PronType`): <em>mitä, mikä, kuka, mistä, missä, mihin, minkä, mitkä, millä, mitähän</em>
+* `Int` (376; 3% of non-empty `PronType`): <em>mitä, mikä, kuka, mistä, missä, mihin, minkä, mitkä, millä, mitähän</em>
 * `Prs` (2873; 22% of non-empty `PronType`): <em>hän, hänen, minä, he, meidän, mä, me, heidän, minun, minua</em>
 * `Rcp` (185; 1% of non-empty `PronType`): <em>toinen, toisen, toiselle, toiseen, toisella, toisiinsa, toisten, toiset, toisiaan, toisessa</em>
 * `Rel` (2093; 16% of non-empty `PronType`): <em>joka, jotka, jonka, jossa, joita, jota, mitä, joiden, mikä, joissa</em>

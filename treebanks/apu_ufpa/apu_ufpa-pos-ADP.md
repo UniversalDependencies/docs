@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>atuku</em> (<tt><a href="apu_ufpa-pos
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.195021).
+The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.201493).
 
 The 1st highest number of forms (1) was observed with the lemma “atuku”: <em>atuku</em>.
 

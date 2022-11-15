@@ -7,15 +7,15 @@ udver: '2'
 ## Treebank Statistics: UD_Amharic-ATT: POS Tags: `DET`
 
 There are 21 `DET` lemmas (1%), 21 `DET` types (1%) and 482 `DET` tokens (5%).
-Out of 15 observed tags, the rank of `DET` is: 9 in number of lemmas, 9 in number of types and 7 in number of tokens.
+Out of 16 observed tags, the rank of `DET` is: 9 in number of lemmas, 9 in number of types and 7 in number of tokens.
 
 The 10 most frequent `DET` lemmas: ኡ, ው, ይህ, እዚህ, ዋ, ይህን, ኤ, እዚያ, እየ, ያ
 
 The 10 most frequent `DET` types:  ኡ, ው, ይህ, እዚህ, ዋ, ይህን, ኤ, እዚያ, እየ, ያ
 
-The 10 most frequent ambiguous lemmas: ኡ (<tt><a href="am_att-pos-DET.html">DET</a></tt> 275, <tt><a href="am_att-pos-PRON.html">PRON</a></tt> 199), ው (<tt><a href="am_att-pos-DET.html">DET</a></tt> 126, <tt><a href="am_att-pos-PRON.html">PRON</a></tt> 97, <tt><a href="am_att-pos-PART.html">PART</a></tt> 1), እዚህ (<tt><a href="am_att-pos-DET.html">DET</a></tt> 15, <tt><a href="am_att-pos-ADV.html">ADV</a></tt> 3), ዋ (<tt><a href="am_att-pos-PRON.html">PRON</a></tt> 44, <tt><a href="am_att-pos-DET.html">DET</a></tt> 10), ኤ (<tt><a href="am_att-pos-PRON.html">PRON</a></tt> 62, <tt><a href="am_att-pos-DET.html">DET</a></tt> 4), እዚያ (<tt><a href="am_att-pos-DET.html">DET</a></tt> 4, <tt><a href="am_att-pos-ADV.html">ADV</a></tt> 2), እየ (<tt><a href="am_att-pos-ADP.html">ADP</a></tt> 6, <tt><a href="am_att-pos-AUX.html">AUX</a></tt> 3, <tt><a href="am_att-pos-DET.html">DET</a></tt> 3, <tt><a href="am_att-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="am_att-pos-PART.html">PART</a></tt> 1), ምነው (<tt><a href="am_att-pos-INTJ.html">INTJ</a></tt> 6, <tt><a href="am_att-pos-PRON.html">PRON</a></tt> 6, <tt><a href="am_att-pos-DET.html">DET</a></tt> 1, <tt><a href="am_att-pos-PROPN.html">PROPN</a></tt> 1), ብዙ (<tt><a href="am_att-pos-ADJ.html">ADJ</a></tt> 8, <tt><a href="am_att-pos-ADV.html">ADV</a></tt> 5, <tt><a href="am_att-pos-NUM.html">NUM</a></tt> 2, <tt><a href="am_att-pos-DET.html">DET</a></tt> 1), ዬ (<tt><a href="am_att-pos-PRON.html">PRON</a></tt> 5, <tt><a href="am_att-pos-DET.html">DET</a></tt> 1)
+The 10 most frequent ambiguous lemmas: ኡ (<tt><a href="am_att-pos-DET.html">DET</a></tt> 275, <tt><a href="am_att-pos-PRON.html">PRON</a></tt> 1), ው (<tt><a href="am_att-pos-DET.html">DET</a></tt> 126, <tt><a href="am_att-pos-PRON.html">PRON</a></tt> 8, <tt><a href="am_att-pos-PART.html">PART</a></tt> 1), እዚህ (<tt><a href="am_att-pos-DET.html">DET</a></tt> 15, <tt><a href="am_att-pos-ADV.html">ADV</a></tt> 3), እዚያ (<tt><a href="am_att-pos-DET.html">DET</a></tt> 4, <tt><a href="am_att-pos-ADV.html">ADV</a></tt> 2), እየ (<tt><a href="am_att-pos-ADP.html">ADP</a></tt> 6, <tt><a href="am_att-pos-AUX.html">AUX</a></tt> 3, <tt><a href="am_att-pos-DET.html">DET</a></tt> 3, <tt><a href="am_att-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="am_att-pos-PART.html">PART</a></tt> 1), ምነው (<tt><a href="am_att-pos-INTJ.html">INTJ</a></tt> 6, <tt><a href="am_att-pos-PRON.html">PRON</a></tt> 6, <tt><a href="am_att-pos-DET.html">DET</a></tt> 1, <tt><a href="am_att-pos-PROPN.html">PROPN</a></tt> 1), ብዙ (<tt><a href="am_att-pos-ADJ.html">ADJ</a></tt> 8, <tt><a href="am_att-pos-ADV.html">ADV</a></tt> 5, <tt><a href="am_att-pos-NUM.html">NUM</a></tt> 2, <tt><a href="am_att-pos-DET.html">DET</a></tt> 1)
 
-The 10 most frequent ambiguous types:  ኡ (<tt><a href="am_att-pos-DET.html">DET</a></tt> 275, <tt><a href="am_att-pos-PRON.html">PRON</a></tt> 199), ው (<tt><a href="am_att-pos-DET.html">DET</a></tt> 126, <tt><a href="am_att-pos-PRON.html">PRON</a></tt> 97, <tt><a href="am_att-pos-PART.html">PART</a></tt> 1), እዚህ (<tt><a href="am_att-pos-DET.html">DET</a></tt> 15, <tt><a href="am_att-pos-ADV.html">ADV</a></tt> 3), ዋ (<tt><a href="am_att-pos-PRON.html">PRON</a></tt> 44, <tt><a href="am_att-pos-DET.html">DET</a></tt> 10), ኤ (<tt><a href="am_att-pos-PRON.html">PRON</a></tt> 62, <tt><a href="am_att-pos-DET.html">DET</a></tt> 4), እዚያ (<tt><a href="am_att-pos-DET.html">DET</a></tt> 4, <tt><a href="am_att-pos-ADV.html">ADV</a></tt> 2), እየ (<tt><a href="am_att-pos-ADP.html">ADP</a></tt> 6, <tt><a href="am_att-pos-AUX.html">AUX</a></tt> 3, <tt><a href="am_att-pos-DET.html">DET</a></tt> 3, <tt><a href="am_att-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="am_att-pos-PART.html">PART</a></tt> 1), ምነው (<tt><a href="am_att-pos-INTJ.html">INTJ</a></tt> 6, <tt><a href="am_att-pos-PRON.html">PRON</a></tt> 6, <tt><a href="am_att-pos-DET.html">DET</a></tt> 1, <tt><a href="am_att-pos-PROPN.html">PROPN</a></tt> 1), ብዙ (<tt><a href="am_att-pos-ADJ.html">ADJ</a></tt> 8, <tt><a href="am_att-pos-ADV.html">ADV</a></tt> 5, <tt><a href="am_att-pos-NUM.html">NUM</a></tt> 2, <tt><a href="am_att-pos-DET.html">DET</a></tt> 1), ዬ (<tt><a href="am_att-pos-PRON.html">PRON</a></tt> 5, <tt><a href="am_att-pos-DET.html">DET</a></tt> 1)
+The 10 most frequent ambiguous types:  ኡ (<tt><a href="am_att-pos-DET.html">DET</a></tt> 275, <tt><a href="am_att-pos-PRON.html">PRON</a></tt> 199), ው (<tt><a href="am_att-pos-DET.html">DET</a></tt> 126, <tt><a href="am_att-pos-PRON.html">PRON</a></tt> 96, <tt><a href="am_att-pos-PART.html">PART</a></tt> 1, <tt><a href="am_att-pos-X.html">X</a></tt> 1), እዚህ (<tt><a href="am_att-pos-DET.html">DET</a></tt> 15, <tt><a href="am_att-pos-ADV.html">ADV</a></tt> 3), ዋ (<tt><a href="am_att-pos-PRON.html">PRON</a></tt> 44, <tt><a href="am_att-pos-DET.html">DET</a></tt> 10), ኤ (<tt><a href="am_att-pos-PRON.html">PRON</a></tt> 62, <tt><a href="am_att-pos-DET.html">DET</a></tt> 4), እዚያ (<tt><a href="am_att-pos-DET.html">DET</a></tt> 4, <tt><a href="am_att-pos-ADV.html">ADV</a></tt> 2), እየ (<tt><a href="am_att-pos-ADP.html">ADP</a></tt> 6, <tt><a href="am_att-pos-AUX.html">AUX</a></tt> 3, <tt><a href="am_att-pos-DET.html">DET</a></tt> 3, <tt><a href="am_att-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="am_att-pos-PART.html">PART</a></tt> 1), ምነው (<tt><a href="am_att-pos-INTJ.html">INTJ</a></tt> 6, <tt><a href="am_att-pos-PRON.html">PRON</a></tt> 6, <tt><a href="am_att-pos-DET.html">DET</a></tt> 1, <tt><a href="am_att-pos-PROPN.html">PROPN</a></tt> 1), ብዙ (<tt><a href="am_att-pos-ADJ.html">ADJ</a></tt> 8, <tt><a href="am_att-pos-ADV.html">ADV</a></tt> 5, <tt><a href="am_att-pos-NUM.html">NUM</a></tt> 2, <tt><a href="am_att-pos-DET.html">DET</a></tt> 1), ዬ (<tt><a href="am_att-pos-PRON.html">PRON</a></tt> 5, <tt><a href="am_att-pos-DET.html">DET</a></tt> 1)
 
 
 * ኡ
@@ -23,8 +23,9 @@ The 10 most frequent ambiguous types:  ኡ (<tt><a href="am_att-pos-DET.html">DE
   * <tt><a href="am_att-pos-PRON.html">PRON</a></tt> 199: ውድድር ኡ ን ማሸነፍ <b>ኡ</b> አስደሰት ኧ ው ።
 * ው
   * <tt><a href="am_att-pos-DET.html">DET</a></tt> 126: ልጅ ኡ ን ሥራ <b>ው</b> ን አስጨርስ ኧው ኣል ኧሁ ።
-  * <tt><a href="am_att-pos-PRON.html">PRON</a></tt> 97: ገመድ ኡ ን አስረዘም ኧ <b>ው</b> ።
+  * <tt><a href="am_att-pos-PRON.html">PRON</a></tt> 96: ገመድ ኡ ን አስረዘም ኧ <b>ው</b> ።
   * <tt><a href="am_att-pos-PART.html">PART</a></tt> 1: ይህ ምስኪን ምነው በ ደንብ በልት ኦ አይት ኤ <b>ው</b> ።
+  * <tt><a href="am_att-pos-X.html">X</a></tt> 1: እንደ ማን ን ኧው የ እም ት ደንስ ኧ <b>ው</b> ?
 * እዚህ
   * <tt><a href="am_att-pos-DET.html">DET</a></tt> 15: ከ <b>እዚህ</b> ችግር ብ እ ገላገል እ ወድ ነበር ።
   * <tt><a href="am_att-pos-ADV.html">ADV</a></tt> 3: <b>እዚህ</b> ከ ኣለ ህ እራት አብር ኧ ን ብል ኣ ።
@@ -59,7 +60,7 @@ The 10 most frequent ambiguous types:  ኡ (<tt><a href="am_att-pos-DET.html">DE
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.000000).
+The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.029841).
 
 The 1st highest number of forms (1) was observed with the lemma “ምነው”: ምነው.
 

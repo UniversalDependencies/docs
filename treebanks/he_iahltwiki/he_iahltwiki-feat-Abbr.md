@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (269; 100% of non-empty `Abbr`): מק"ם, דו"ח, ש"ח, בג"ץ, נ"ט, ק"מ, חו"ל, ד"ר, יו"ר, מנכ"ל
-* `EMPTY` (34355): בית, שנת, משפט, ידי, חוק, אלבום, חלק, שימוש, סוכרת, שנים
+* `EMPTY` (34356): בית, שנת, משפט, ידי, חוק, אלבום, חלק, שימוש, סוכרת, שנים
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (58) occur only with one value of `Abbr`.
 
@@ -53,7 +53,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 
 3 <tt><a href="he_iahltwiki-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `ADP` and `Abbr` co-occurred: <tt><a href="he_iahltwiki-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="he_iahltwiki-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (3; 100%).
+The most frequent other feature values with which `ADP` and `Abbr` co-occurred: <tt><a href="he_iahltwiki-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="he_iahltwiki-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="he_iahltwiki-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (3; 100%).
 
 `ADP` tokens may have the following values of `Abbr`:
 

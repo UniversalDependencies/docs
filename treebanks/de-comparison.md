@@ -348,9 +348,9 @@ udver: '2'
         <ul>
           <li>ADJ: weiß, bezeichneten, entwickelte, verwandte, ambitionierte, aufbewahrte, ausgelobten, ausgerichtete, automatisiert, beanspruchten</li>
           <li>ADP: empfahl, fuer, liess, schrieb</li>
-          <li>ADV: kennen, aussen, bevorzugt, herausstellte, scheint, ﻿Auch</li>
+          <li>ADV: kennen, Auch, aussen, bevorzugt, herausstellte, scheint</li>
           <li>AUX: ist, wurde, war, sind, wird, wurden, kann, hat, werden, waren</li>
-          <li>CCONJ: bzw, hatte, ﻿Um</li>
+          <li>CCONJ: Um, bzw, hatte</li>
           <li>DET: meinen</li>
           <li>NOUN: mag, Jahrhundert, War, 3/8-Takte, Balken, Bin, Erbvogt, Familien, Flotte, Gemüt</li>
           <li>PART: einnahm, auflief, wehe</li>
@@ -787,9 +787,9 @@ udver: '2'
             <li>ADJ-Part: genannten</li>
             <li>ADP-Fin: empfahl, fuer, liess, schrieb</li>
             <li>ADV: ca, was, allem, super, SEHR, alles, anderem, lange, vorallem, Abends</li>
-            <li>ADV-Fin: bevorzugt, herausstellte, scheint, ﻿Auch</li>
+            <li>ADV-Fin: Auch, bevorzugt, herausstellte, scheint</li>
             <li>AUX-Fin: ist, wurde, war, wird, kann, hat, hatte, konnte, habe, sei</li>
-            <li>CCONJ-Fin: bzw, hatte, ﻿Um</li>
+            <li>CCONJ-Fin: Um, bzw, hatte</li>
             <li>DET: der, dem, die, das, des, eine, ein, den, einer, einem</li>
             <li>NOUN: jahr, Zeit, Stadt, Ende, Teil, Familie, Ort, Gemeinde, Platz, Saison</li>
             <li>NOUN-Fin: mag, Jahrhundert, War, 3/8-Takte, Erbvogt, Flotte, Gemüt, Kam, Komme, Liegt</li>
@@ -1203,7 +1203,7 @@ udver: '2'
       <ul>
         <li>Cmp
           <ul>
-            <li>ADJ: später, weitere, weiteren, früheren, größere, späteren, höhere, ältere, spätere, weiterer</li>
+            <li>ADJ: später, weitere, weiteren, weiter, besser, früher, stärker, höher, früheren, größere</li>
           </ul>
         </li>
       </ul>
@@ -1277,7 +1277,7 @@ udver: '2'
       <ul>
         <li>Sup
           <ul>
-            <li>ADJ: größten, besten, beste, größte, höchste, bester, wichtigsten, ältesten, bedeutendsten, älteste</li>
+            <li>ADJ: nächsten, besten, größten, beste, größte, höchste, bester, wichtigsten, nächste, ältesten</li>
             <li>DET: keinster</li>
           </ul>
         </li>
@@ -1517,9 +1517,9 @@ udver: '2'
           <ul>
             <li>ADJ-Fin: weiß, bezeichneten, entwickelte, verwandte, ambitionierte, aufbewahrte, ausgelobten, ausgerichtete, automatisiert, beanspruchten</li>
             <li>ADP-Fin: empfahl, liess, schrieb</li>
-            <li>ADV-Fin: kennen, aussen, bevorzugt, herausstellte, scheint, ﻿Auch</li>
+            <li>ADV-Fin: kennen, Auch, aussen, bevorzugt, herausstellte, scheint</li>
             <li>AUX-Fin: ist, wurde, war, sind, wird, wurden, kann, hat, werden, waren</li>
-            <li>CCONJ-Fin: bzw, hatte, ﻿Um</li>
+            <li>CCONJ-Fin: Um, bzw, hatte</li>
             <li>DET-Fin: meinen</li>
             <li>NOUN-Fin: mag, Jahrhundert, War, 3/8-Takte, Balken, Bin, Erbvogt, Familien, Flotte, Gemüt</li>
             <li>PART-Fin: einnahm, auflief, wehe</li>
@@ -1618,9 +1618,9 @@ udver: '2'
           <ul>
             <li>ADJ-Fin: bezeichneten, entwickelte, verwandte, ambitionierte, aufbewahrte, ausgelobten, ausgerichtete, bewährte, diskutierte, engagierte</li>
             <li>ADP-Fin: empfahl, liess, schrieb</li>
-            <li>ADV-Fin: herausstellte, ﻿Auch</li>
+            <li>ADV-Fin: Auch, herausstellte</li>
             <li>AUX-Fin: wurde, war, wurden, waren, hatte, konnte, sollte, musste, hatten, konnten</li>
-            <li>CCONJ-Fin: bzw, hatte, ﻿Um</li>
+            <li>CCONJ-Fin: Um, bzw, hatte</li>
             <li>NOUN-Fin: War, 3/8-Takte, Flotte, Kam, beginn, diente, erschienen, folgten, fusionierte, gehörte</li>
             <li>PART-Fin: einnahm, auflief</li>
             <li>PROPN-Fin: Leuchten, corde, ergoss, estate, handelte, las, plb, schweiz, semisecco, spring</li>
@@ -2353,9 +2353,9 @@ udver: '2'
           <ul>
             <li>ADJ-Fin: weiß, bezeichneten, entwickelte, verwandte, ambitionierte, aufbewahrte, ausgelobten, ausgerichtete, automatisiert, beanspruchten</li>
             <li>ADP-Fin: empfahl, schrieb</li>
-            <li>ADV-Fin: kennen, aussen, bevorzugt, herausstellte, scheint, ﻿Auch</li>
+            <li>ADV-Fin: kennen, Auch, aussen, bevorzugt, herausstellte, scheint</li>
             <li>AUX-Fin: ist, wurde, war, sind, wird, wurden, hat, werden, kann, waren</li>
-            <li>CCONJ-Fin: bzw, ﻿Um</li>
+            <li>CCONJ-Fin: Um, bzw</li>
             <li>DET: seine, seiner, sein, ihre, seinen, seinem, ihren, ihrer, ihrem, seines</li>
             <li>NOUN-Fin: mag, Jahrhundert, War, 3/8-Takte, Balken, Bin, Erbvogt, Familien, Flotte, Gemüt</li>
             <li>PART-Fin: einnahm, auflief</li>

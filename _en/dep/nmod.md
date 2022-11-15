@@ -52,4 +52,4 @@ det(president, the-4)
 Prepositionless, non-possessive nominals serving as adnominal modifiers
 are tagged with subtypes [nmod:tmod]() (temporal) or [nmod:npmod]() (other). See
 the definitions of these relations.
-<!-- Interlanguage links updated So kvě 14 19:03:44 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:30 CET 2022 -->

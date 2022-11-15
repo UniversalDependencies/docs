@@ -16,7 +16,7 @@ The feature is used with 4 part-of-speech tags: <tt><a href="bm_crb-pos-PRON.htm
 
 ### `PRON`
 
-1794 <tt><a href="bm_crb-pos-PRON.html">PRON</a></tt> tokens (71% of all `PRON` tokens) have a non-empty value of `Number`.
+1794 <tt><a href="bm_crb-pos-PRON.html">PRON</a></tt> tokens (72% of all `PRON` tokens) have a non-empty value of `Number`.
 
 The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="bm_crb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1563; 87%), <tt><a href="bm_crb-feat-Person.html">Person</a></tt><tt>=3</tt> (1372; 76%).
 
@@ -24,7 +24,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 * `Plur` (275; 15% of non-empty `Number`): <em>u, olu, an, aw, dòw, dow, minw, a</em>
 * `Sing` (1519; 85% of non-empty `Number`): <em>a, n, ne, e, i, ale, ele, à</em>
-* `EMPTY` (718): <em>o, n, i, nin, a, mun, min, nyògòn, bèè, dò</em>
+* `EMPTY` (712): <em>o, n, i, nin, a, mun, nyògòn, min, bèè, dò</em>
 
 `Number` seems to be **lexical feature** of `PRON`. 100% lemmas (18) occur only with one value of `Number`.
 
@@ -35,7 +35,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 `NOUN` tokens may have the following values of `Number`:
 
 * `Plur` (71; 100% of non-empty `Number`): <em>kòròkèw, denw, misiw, sagaw, dunanw, gòòtèw, julaw, nyèdenw, sosow, surukuw</em>
-* `EMPTY` (2070): <em>ba, den, tuma, so, dennin, dugu, muso, tògò, fa, yòrò</em>
+* `EMPTY` (2073): <em>ba, den, tuma, so, dennin, dugu, muso, tògò, fa, yòrò</em>
 
 `Number` seems to be **lexical feature** of `NOUN`. 100% lemmas (38) occur only with one value of `Number`.
 

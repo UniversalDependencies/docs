@@ -16,31 +16,38 @@ udver: '2'
 </tr>
 </table>
 
-In Zaar, the tense feature…
+In Zaar, the tense features are expressed together with aspect, mood, person and number features in a word functioning as a preverbal clitic tagged as an AUX. Zaar has one fure tense and three past tenses, denoted Imm (immediate past), Rec (recent past), and Rem (remote past). 
+
 
 ### <a name="Fut">`Fut`</a>: Future
 
 #### Examples
 
-* _<b>tá</b> mán ɓûp =mí //_ “they were going to wait for me.”
+* _dzàŋ làːdì <b>má</b> ɬǐː Kində báː ?//_ "On Tuesday, <b>we'll</b> go to Kində no?"
 
 
+### <a name="Imm">`Imm`</a>: immediate past
 
-### <a name="Imm">`Imm`</a>: TODO
+Zaar: The immediate past tense denotes a process that took place the same day as the speech time locus. The inflection follows the pattern "pronoun + _yi_"
 
 #### Examples
 
-* _<b>máːyí</b> fùː =ɣə̀ &//_ “I told you...”
+* _kə yél yáːwón ɗan <b>mìyǎː</b> fúː =tə̀  ɗan <b>míyàː</b> ŋáːs =tə ɣáyíː <b>kíː</b> yèl láː áyǎː fi wuriː ?//_ "You see today as <b>we told</b> him, as <b>I teased</b> him, <b>did you</b> see what <b>he did</b>?"
 
 
-### <a name="Rec">`Rec`</a>: TODO
+### <a name="Rec">`Rec`</a>: recent past
+
+Zaar: The recent past tense denotes a process that took place the day before the speech time locus. The inflection follows the pattern "pronoun + _náː_"
 
 #### Examples
 
 * _tòː yâːn <b>mənáːyáː</b> wu tu &//_ “Well that's why yesterday I said…”
 
-### <a name="Rem">`Rem`</a>: TODO
+### <a name="Rem">`Rem`</a>: remote past
+
+Zaar: The immediate past tense denotes a process that took place two days or more before the speech time locus. The inflection follows the pattern "pronoun + _ta_"
 
 #### Examples
 
-* _əndá <b>kətá</b> mbwáː ɗi //_ “Then you arrived.”
+* _káy káː yel ɗan <b>mətá</b> ɬə á Kullây kwǎː <b>mətá</b> ɲol teː Zwàl //_ "Well you see as <b>I went</b> to see Kulla, see, <b>I followed</b> Zwal way.
+<!-- Interlanguage links updated Po lis 14 15:34:59 CET 2022 -->

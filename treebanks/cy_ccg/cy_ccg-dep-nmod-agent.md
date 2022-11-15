@@ -51,9 +51,9 @@ The following 2 pairs of parts of speech are connected with `nmod:agent`: <tt><a
 8	John	John	PROPN	person	_	6	nmod:agent	_	_
 9	Howel	Howel	PROPN	person	Gender=Masc|Number=Sing	8	flat:name	_	_
 10	(	(	PUNCT	punct	_	11	punct	_	SpaceAfter=No
-11	1774	1774	NUM	num	_	9	nmod	_	SpaceAfter=No
+11	1774	1774	NUM	num	NumForm=Digit|NumType=Card	9	nmod	_	SpaceAfter=No
 12	-	-	PUNCT	punct	_	13	punct	_	SpaceAfter=No
-13	1830	1830	NUM	num	_	11	nmod	_	SpaceAfter=No
+13	1830	1830	NUM	num	NumForm=Digit|NumType=Card	11	nmod	_	SpaceAfter=No
 14	)	)	PUNCT	punct	_	11	punct	_	_
 15	sef	sef	ADV	adv	_	16	advmod	_	_
 16	bardd	bardd	NOUN	noun	Gender=Masc|Number=Sing	8	appos	_	_

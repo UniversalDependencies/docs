@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-20 nodes (14%) are attached to their parents as `advmod`.
+26 nodes (15%) are attached to their parents as `advmod`.
 
-16 instances of `advmod` (80%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.4.
+21 instances of `advmod` (81%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.30769230769231.
 
-The following 2 pairs of parts of speech are connected with `advmod`: <tt><a href="mpu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="mpu_tudet-pos-ADV.html">ADV</a></tt> (19; 95% instances), <tt><a href="mpu_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mpu_tudet-pos-ADV.html">ADV</a></tt> (1; 5% instances).
+The following 4 pairs of parts of speech are connected with `advmod`: <tt><a href="mpu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="mpu_tudet-pos-ADV.html">ADV</a></tt> (22; 85% instances), <tt><a href="mpu_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mpu_tudet-pos-ADV.html">ADV</a></tt> (2; 8% instances), <tt><a href="mpu_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="mpu_tudet-pos-ADV.html">ADV</a></tt> (1; 4% instances), <tt><a href="mpu_tudet-pos-PART.html">PART</a></tt>-<tt><a href="mpu_tudet-pos-ADV.html">ADV</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -45,6 +45,25 @@ The following 2 pairs of parts of speech are connected with `advmod`: <tt><a hre
 4	worawiget	worawik	NOUN	n	Case=Gen|Rel=Cont	0	root	_	_
 5	xop	xop	DET	dem	_	4	obl	_	_
 6	me	me	ADP	posp	_	5	case	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 advmod	color:blue
+1	uro	uro	NOUN	_	_	3	nmod	_	_
+2	weane	weane	ADV	_	_	3	advmod	_	_
+3	kupngaporet	kupngapot	NOUN	_	Rel=Cont	7	nmod	_	_
+4	yan	_	ADV	_	_	5	advmod	_	_
+5	pet	pe	PART	_	_	7	obl	_	_
+6	yan	yan	ADV	_	_	7	advmod	_	_
+7	kurux	kurux	ADV	_	_	8	advmod	_	_
+8	pixe	pixe	VERB	_	_	0	root	_	_
+9	tuk	tuk	VERB	_	_	8	parataxis	_	_
 
 ~~~
 

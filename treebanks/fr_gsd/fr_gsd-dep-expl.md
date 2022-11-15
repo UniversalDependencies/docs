@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 3 language-specific subtypes of `expl`: <tt><a href="fr_gsd-dep-expl-pass.html">expl:pass</a></tt>, <tt><a href="fr_gsd-dep-expl-pv.html">expl:pv</a></tt>, <tt><a href="fr_gsd-dep-expl-subj.html">expl:subj</a></tt>.
 
-210 nodes (0%) are attached to their parents as `expl`.
+211 nodes (0%) are attached to their parents as `expl`.
 
-210 instances of `expl` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.13809523809524.
+211 instances of `expl` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.14218009478673.
 
-The following 1 pairs of parts of speech are connected with `expl`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (210; 100% instances).
+The following 1 pairs of parts of speech are connected with `expl`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (211; 100% instances).
 
 
 ~~~ conllu
@@ -33,7 +33,7 @@ The following 1 pairs of parts of speech are connected with `expl`: <tt><a href=
 8	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	expl:subj	_	_
 9	y	y	PRON	_	Person=3|PronType=Prs	10	expl	_	_
 10	paraît	paraître	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	6	punct	_	_
+11	.	.	PUNCT	_	_	10	punct	_	_
 
 ~~~
 

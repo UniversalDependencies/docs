@@ -34,7 +34,7 @@ The most frequent other feature values with which `ADP` and `Poss` co-occurred: 
 `ADP` tokens may have the following values of `Poss`:
 
 * `Yes` (25; 100% of non-empty `Poss`): का, की, के
-* `EMPTY` (74120): के, में, की, को, ने, से, का, पर, लिए, तक
+* `EMPTY` (73190): के, में, की, को, ने, से, का, पर, लिए, तक
 
 ### `VERB`
 
@@ -45,7 +45,7 @@ The most frequent other feature values with which `VERB` and `Poss` co-occurred:
 `VERB` tokens may have the following values of `Poss`:
 
 * `Yes` (2; 100% of non-empty `Poss`): करके
-* `EMPTY` (33751): कहा, किया, कर, करने, की, हो, है, बताया, होने, हुई
+* `EMPTY` (35957): कहा, किया, कर, करने, की, दिया, हो, है, बताया, दी
 
 ### `ADV`
 
@@ -56,5 +56,5 @@ The most frequent other feature values with which `ADV` and `Poss` co-occurred: 
 `ADV` tokens may have the following values of `Poss`:
 
 * `Yes` (1; 100% of non-empty `Poss`): बहुत
-* `EMPTY` (3298): बाद, पहले, सबसे, फिर, वहीं, आगे, जल्द, साथ, लगातार, दौरान
+* `EMPTY` (3306): बाद, पहले, सबसे, फिर, वहीं, आगे, जल्द, साथ, लगातार, दौरान
 

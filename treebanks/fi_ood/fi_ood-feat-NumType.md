@@ -49,7 +49,7 @@ The most frequent other feature values with which `PRON` and `NumType` co-occurr
 `PRON` tokens may have the following values of `NumType`:
 
 * `Ord` (2; 100% of non-empty `NumType`): <em>Toinen, toiseen</em>
-* `EMPTY` (1048): <em>se, sen, joka, hän, kaikki, mitä, sitä, muuta, tällä, tämä</em>
+* `EMPTY` (1046): <em>se, sen, joka, hän, kaikki, mitä, sitä, muuta, tällä, tämä</em>
 
 ## Relations with Agreement in `NumType`
 

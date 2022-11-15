@@ -73,7 +73,7 @@ The following 26 pairs of parts of speech are connected with `mark`: <tt><a href
 5	удзельнікі	удзельнік	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	11	nsubj	11:nsubj	SpaceAfter=No
 6	,	,	PUNCT	PUNCT	_	8	punct	8:punct	_
 7	як	як	SCONJ	IN	_	8	case	8:case	_
-8	правіла	правіла	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	11	obl	11:obl:як:nom	SpaceAfter=No
+8	правіла	правіла	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	11	obl	11:obl:як	SpaceAfter=No
 9	,	,	PUNCT	PUNCT	_	8	punct	8:punct	_
 10	больш	больш	ADV	RBR	Degree=Cmp	11	advmod	11:advmod	_
 11	стрэсаўстойлівыя	стрэсаўстойлівы	ADJ	JJL	Case=Nom|Degree=Pos|Number=Plur	0	root	0:root	SpaceAfter=No

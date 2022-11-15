@@ -199,7 +199,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 * `Plur` (236; 35% of non-empty `Number`): <em>oni, ih, mi, im, njih, nam, nas, njima, one, nama</em>
 * `Sing` (448; 65% of non-empty `Number`): <em>on, ona, ga, njega, mu, ono, je, ja, joj, mi</em>
-* `EMPTY` (1742): <em>se, što, šta, ko, ništa, niko, nešto, sebe, čime, neko</em>
+* `EMPTY` (1719): <em>se, što, šta, ko, ništa, niko, nešto, sebe, čime, neko</em>
 
 <table>
   <tr><th>Paradigm <i>on</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -257,10 +257,10 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="sr_set-dep-amod.html">amod</a></tt>]--> ADJ</tt> (8290; 93%),
 <tt>NOUN --[<tt><a href="sr_set-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (4026; 64%),
 <tt>VERB --[<tt><a href="sr_set-dep-aux.html">aux</a></tt>]--> AUX</tt> (2975; 87%),
-<tt>VERB --[<tt><a href="sr_set-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (2789; 86%),
-<tt>VERB --[<tt><a href="sr_set-dep-obl.html">obl</a></tt>]--> NOUN</tt> (2312; 60%),
+<tt>VERB --[<tt><a href="sr_set-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (2788; 86%),
+<tt>VERB --[<tt><a href="sr_set-dep-obl.html">obl</a></tt>]--> NOUN</tt> (2311; 60%),
 <tt>NOUN --[<tt><a href="sr_set-dep-det.html">det</a></tt>]--> DET</tt> (1675; 99%),
-<tt>VERB --[<tt><a href="sr_set-dep-obj.html">obj</a></tt>]--> NOUN</tt> (1448; 53%),
+<tt>VERB --[<tt><a href="sr_set-dep-obj.html">obj</a></tt>]--> NOUN</tt> (1449; 53%),
 <tt>NOUN --[<tt><a href="sr_set-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (1411; 73%),
 <tt>PROPN --[<tt><a href="sr_set-dep-flat.html">flat</a></tt>]--> PROPN</tt> (1312; 99%),
 <tt>NOUN --[<tt><a href="sr_set-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1183; 75%).

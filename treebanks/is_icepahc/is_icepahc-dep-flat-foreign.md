@@ -45,7 +45,7 @@ The following 16 pairs of parts of speech are connected with `flat:foreign`: <tt
 6	vil	vilja	AUX	MDPI	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux	_	IFD_tag=sfg1en
 7	þér	þú	PRON	PRO-D	Case=Dat|Number=Sing|Person=2|PronType=Prs	8	obj	_	IFD_tag=fp2eþ
 8	drekkja	drekkja	VERB	VB	VerbForm=Inf|Voice=Act	2	ccomp	_	IFD_tag=sng|SpaceAfter=No
-9	,	,	PUNCT	,	_	8	punct	_	IFD_tag=|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	punct	_	IFD_tag|SpaceAfter=No
 10	"	"	PUNCT	"	_	9	punct	_	IFD_tag="
 11	etc	etc	X	FW	Foreign=Yes	2	flat:foreign	_	IFD_tag=e|SpaceAfter=No
 12	.	.	PUNCT	.	_	11	punct	_	IFD_tag=.

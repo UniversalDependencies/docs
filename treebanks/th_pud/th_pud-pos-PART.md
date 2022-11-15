@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Thai-PUD: POS Tags: `PART`
 
-There are 1 `PART` lemmas (7%), 22 `PART` types (1%) and 608 `PART` tokens (3%).
-Out of 15 observed tags, the rank of `PART` is: 9 in number of lemmas, 11 in number of types and 10 in number of tokens.
+There are 1 `PART` lemmas (6%), 22 `PART` types (1%) and 608 `PART` tokens (3%).
+Out of 16 observed tags, the rank of `PART` is: 9 in number of lemmas, 11 in number of types and 10 in number of tokens.
 
 The 10 most frequent `PART` lemmas: _
 
 The 10 most frequent `PART` types:  ไม่, ไป, มา, ขึ้น, ออก, ลง, เข้า, หรือไม่, หรอก, หรือเปล่า
 
-The 10 most frequent ambiguous lemmas: _ (<tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 6052, <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> 4361, <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 3134, <tt><a href="th_pud-pos-PROPN.html">PROPN</a></tt> 1495, <tt><a href="th_pud-pos-AUX.html">AUX</a></tt> 1449, <tt><a href="th_pud-pos-DET.html">DET</a></tt> 1040, <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt> 969, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 951, <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 683, <tt><a href="th_pud-pos-PART.html">PART</a></tt> 608, <tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> 592, <tt><a href="th_pud-pos-NUM.html">NUM</a></tt> 581, <tt><a href="th_pud-pos-PUNCT.html">PUNCT</a></tt> 272, <tt><a href="th_pud-pos-SYM.html">SYM</a></tt> 134, <tt><a href="th_pud-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: _ (<tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 6052, <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> 4361, <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 3134, <tt><a href="th_pud-pos-PROPN.html">PROPN</a></tt> 1491, <tt><a href="th_pud-pos-AUX.html">AUX</a></tt> 1449, <tt><a href="th_pud-pos-DET.html">DET</a></tt> 1026, <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt> 969, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 951, <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 683, <tt><a href="th_pud-pos-PART.html">PART</a></tt> 608, <tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> 606, <tt><a href="th_pud-pos-NUM.html">NUM</a></tt> 581, <tt><a href="th_pud-pos-PUNCT.html">PUNCT</a></tt> 272, <tt><a href="th_pud-pos-SYM.html">SYM</a></tt> 134, <tt><a href="th_pud-pos-X.html">X</a></tt> 4, <tt><a href="th_pud-pos-SCONJ.html">SCONJ</a></tt> 1)
 
 The 10 most frequent ambiguous types:  ไป (<tt><a href="th_pud-pos-PART.html">PART</a></tt> 125, <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> 30, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 24), มา (<tt><a href="th_pud-pos-PART.html">PART</a></tt> 99, <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> 30, <tt><a href="th_pud-pos-AUX.html">AUX</a></tt> 19, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 2), ขึ้น (<tt><a href="th_pud-pos-PART.html">PART</a></tt> 72, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 29, <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> 9), ออก (<tt><a href="th_pud-pos-VERB.html">VERB</a></tt> 32, <tt><a href="th_pud-pos-PART.html">PART</a></tt> 27, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 2), ลง (<tt><a href="th_pud-pos-PART.html">PART</a></tt> 26, <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> 25, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 4), เข้า (<tt><a href="th_pud-pos-VERB.html">VERB</a></tt> 39, <tt><a href="th_pud-pos-PART.html">PART</a></tt> 15), อย่าง (<tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 33, <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 9, <tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> 7, <tt><a href="th_pud-pos-PART.html">PART</a></tt> 3), เสีย (<tt><a href="th_pud-pos-VERB.html">VERB</a></tt> 7, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 3, <tt><a href="th_pud-pos-PART.html">PART</a></tt> 3, <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt> 1), หรือ (<tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> 38, <tt><a href="th_pud-pos-PART.html">PART</a></tt> 1)
 
@@ -58,7 +58,7 @@ The 10 most frequent ambiguous types:  ไป (<tt><a href="th_pud-pos-PART.html
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 22.000000 (the average of all parts of speech is 287.266667).
+The form / lemma ratio of `PART` is 22.000000 (the average of all parts of speech is 269.375000).
 
 The 1st highest number of forms (22) was observed with the lemma “_”: การไม่, ขึ้น, ครับ, ความไม่, นะ, มา, มิ, ลง, ล่ะ, หรอก, หรือ, หรือเปล่า, หรือไม่, อย่าง, อย่างไม่, ออก, เข้า, เสีย, เหรอ, ไป, ไม่, ไหม.
 

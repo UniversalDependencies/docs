@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Scottish_Gaelic-ARCOSG: POS Tags: `AUX`
 
-There are 1 `AUX` lemmas (0%), 15 `AUX` types (0%) and 1166 `AUX` tokens (1%).
-Out of 17 observed tags, the rank of `AUX` is: 16 in number of lemmas, 16 in number of types and 12 in number of tokens.
+There are 2 `AUX` lemmas (0%), 20 `AUX` types (0%) and 1319 `AUX` tokens (1%).
+Out of 17 observed tags, the rank of `AUX` is: 16 in number of lemmas, 15 in number of types and 12 in number of tokens.
 
-The 10 most frequent `AUX` lemmas: <em>is</em>
+The 10 most frequent `AUX` lemmas: <em>is, rach</em>
 
-The 10 most frequent `AUX` types:  <em>'s, is, b', gur, bu, as, chan, nach, an, cha</em>
+The 10 most frequent `AUX` types:  <em>'s, is, b', gur, chaidh, bu, as, chan, nach, an</em>
 
-The 10 most frequent ambiguous lemmas: <em>is</em> (<tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> 1166, <tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> 261, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 22, <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>is</em> (<tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> 1166, <tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> 261, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 22, <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> 1), <em>rach</em> (<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> 313, <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> 285, <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> 153)
 
-The 10 most frequent ambiguous types:  <em>'s</em> (<tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> 655, <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> 235, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 53, <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 5, <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> 1), <em>is</em> (<tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> 255, <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> 236, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 22), <em>b'</em> (<tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> 131, <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> 26), <em>gur</em> (<tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> 128, <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> 1), <em>bu</em> (<tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> 84, <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> 28, <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 1), <em>as</em> (<tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 113, <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> 71, <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> 43, <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 1, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 1, <tt><a href="gd_arcosg-pos-X.html">X</a></tt> 1), <em>chan</em> (<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> 247, <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> 55, <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> 1), <em>nach</em> (<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> 346, <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> 43), <em>an</em> (<tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> 2294, <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 1663, <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 293, <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> 211, <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> 94, <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> 37, <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> 20, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 15, <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> 10, <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> 3), <em>cha</em> (<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> 306, <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> 20)
+The 10 most frequent ambiguous types:  <em>'s</em> (<tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> 655, <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> 235, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 53, <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 5, <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> 1), <em>is</em> (<tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> 255, <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> 236, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 22), <em>b'</em> (<tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> 131, <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> 26), <em>gur</em> (<tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> 128, <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> 1), <em>chaidh</em> (<tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> 152, <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> 41), <em>bu</em> (<tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> 84, <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> 28, <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 1), <em>as</em> (<tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 113, <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> 71, <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> 43, <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 1, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 1, <tt><a href="gd_arcosg-pos-X.html">X</a></tt> 1), <em>chan</em> (<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> 247, <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> 55, <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> 1), <em>nach</em> (<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> 346, <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> 43), <em>an</em> (<tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> 2294, <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 1663, <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 293, <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> 211, <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> 94, <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> 37, <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> 20, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 15, <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> 10, <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> 3)
 
 
 * <em>'s</em>
@@ -34,6 +34,9 @@ The 10 most frequent ambiguous types:  <em>'s</em> (<tt><a href="gd_arcosg-pos-C
 * <em>gur</em>
   * <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> 128: <em>dh’innis cuideigin de an chlas <b>gur</b> e uncle do [Name] [Name]</em>
   * <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> 1: <em>Agus <b>gur</b> fhaodadh nach fhaigheadh iad taic bho iad .</em>
+* <em>chaidh</em>
+  * <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> 152: <em>ciamar a <b>chaidh</b> do thu anns an test [Name] ?</em>
+  * <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> 41: <em><b>chaidh</b> e sin a mhilleadh cho luath 's a thàinig e</em>
 * <em>bu</em>
   * <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> 84: <em>Ge b'e dé <b>bu</b> choireach , bha Uilleam trom air an deoch aig an àm .</em>
   * <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> 28: <em>Chan fhanadh a’ fear sin na <b>bu</b> mhuth' .</em>
@@ -63,42 +66,41 @@ The 10 most frequent ambiguous types:  <em>'s</em> (<tt><a href="gd_arcosg-pos-C
   * <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 15: <em>Bha 'n t-itealan air a slighe eadar Casablanca agus Tunis <b>an</b> uair a chaidh a gabhail thairis .</em>
   * <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> 10: <em>bha iad dìreach a' tighinn a-staigh à taobh <b>an</b> iar</em>
   * <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> 3: <em>B' an e an Cataibh 's air taobh <b>an</b> ear shiorrachdan Rois is Inbhir Nis a bu làidire a ghreimich an creideamh soisgeulach anns an ochdamh linn deug .</em>
-* <em>cha</em>
-  * <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> 306: <em><b>cha</b> bhi thu a’ gabhail dad le e</em>
-  * <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> 20: <em>bha cha robh <b>cha</b> mhòr gu robh bit feòil air e</em>
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 15.000000 (the average of all parts of speech is 1.299412).
+The form / lemma ratio of `AUX` is 10.000000 (the average of all parts of speech is 1.299830).
 
 The 1st highest number of forms (15) was observed with the lemma “is”: <em>'s, an, as, b', bu, b’, cha, chan, gun, gur, is, nach, s, ‘s, ’s</em>.
 
-`AUX` occurs with 4 features: <tt><a href="gd_arcosg-feat-Tense.html">Tense</a></tt> (1164; 100% instances), <tt><a href="gd_arcosg-feat-Polarity.html">Polarity</a></tt> (301; 26% instances), <tt><a href="gd_arcosg-feat-PronType.html">PronType</a></tt> (75; 6% instances), <tt><a href="gd_arcosg-feat-Mood.html">Mood</a></tt> (61; 5% instances)
+The 2nd highest number of forms (5) was observed with the lemma “rach”: <em>chaidh, deach, rachadh, thèid, tèid</em>.
 
-`AUX` occurs with 6 feature-value pairs: `Mood=Int`, `Polarity=Aff`, `Polarity=Neg`, `PronType=Rel`, `Tense=Past`, `Tense=Pres`
+`AUX` occurs with 5 features: <tt><a href="gd_arcosg-feat-Tense.html">Tense</a></tt> (1312; 99% instances), <tt><a href="gd_arcosg-feat-Polarity.html">Polarity</a></tt> (301; 23% instances), <tt><a href="gd_arcosg-feat-PronType.html">PronType</a></tt> (75; 6% instances), <tt><a href="gd_arcosg-feat-Mood.html">Mood</a></tt> (66; 5% instances), <tt><a href="gd_arcosg-feat-Person.html">Person</a></tt> (1; 0% instances)
 
-`AUX` occurs with 8 feature combinations.
+`AUX` occurs with 9 feature-value pairs: `Mood=Cnd`, `Mood=Int`, `Person=0`, `Polarity=Aff`, `Polarity=Neg`, `PronType=Rel`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`
+
+`AUX` occurs with 11 feature combinations.
 The most frequent feature combination is `Tense=Pres` (528 tokens).
 Examples: <em>'s, is, gur, as, chan, nach, an, cha, ‘s, gun</em>
 
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 3 different relations: <tt><a href="gd_arcosg-dep-cop.html">cop</a></tt> (1160; 99% instances), <tt><a href="gd_arcosg-dep-root.html">root</a></tt> (5; 0% instances), <tt><a href="gd_arcosg-dep-reparandum.html">reparandum</a></tt> (1; 0% instances)
+`AUX` nodes are attached to their parents using 6 different relations: <tt><a href="gd_arcosg-dep-cop.html">cop</a></tt> (1160; 88% instances), <tt><a href="gd_arcosg-dep-aux-pass.html">aux:pass</a></tt> (149; 11% instances), <tt><a href="gd_arcosg-dep-root.html">root</a></tt> (5; 0% instances), <tt><a href="gd_arcosg-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-dep-aux.html">aux</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-dep-reparandum.html">reparandum</a></tt> (1; 0% instances)
 
-Parents of `AUX` nodes belong to 12 different parts of speech: <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (575; 49% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (267; 23% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (170; 15% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (92; 8% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> (25; 2% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (18; 2% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt> (8; 1% instances),  (5; 0% instances), <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (1; 0% instances)
+Parents of `AUX` nodes belong to 11 different parts of speech: <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (729; 55% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (270; 20% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (170; 13% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (92; 7% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> (25; 2% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (16; 1% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt> (7; 1% instances),  (5; 0% instances), <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 
-630 (54%) `AUX` nodes are leaves.
+780 (59%) `AUX` nodes are leaves.
 
-394 (34%) `AUX` nodes have one child.
+398 (30%) `AUX` nodes have one child.
 
-141 (12%) `AUX` nodes have two children.
+140 (11%) `AUX` nodes have two children.
 
 1 (0%) `AUX` nodes have three or more children.
 
 The highest child degree of a `AUX` node is 4.
 
-Children of `AUX` nodes are attached using 4 different relations: <tt><a href="gd_arcosg-dep-fixed.html">fixed</a></tt> (675; 99% instances), <tt><a href="gd_arcosg-dep-conj.html">conj</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-dep-punct.html">punct</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
+Children of `AUX` nodes are attached using 4 different relations: <tt><a href="gd_arcosg-dep-fixed.html">fixed</a></tt> (671; 98% instances), <tt><a href="gd_arcosg-dep-conj.html">conj</a></tt> (8; 1% instances), <tt><a href="gd_arcosg-dep-punct.html">punct</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
-Children of `AUX` nodes belong to 4 different parts of speech: <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (533; 78% instances), <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> (142; 21% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="gd_arcosg-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances)
+Children of `AUX` nodes belong to 6 different parts of speech: <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (530; 78% instances), <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> (141; 21% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (7; 1% instances), <tt><a href="gd_arcosg-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (1; 0% instances)
 

@@ -50,7 +50,7 @@ The most frequent other feature values with which `PRON` and `Definite` co-occur
 
 * `Def` (36; 97% of non-empty `Definite`): <em>o, os, a, as, que</em>
 * `Ind` (1; 3% of non-empty `Definite`): <em>um</em>
-* `EMPTY` (7431): <em>que, se, o, ele, isso, onde, quem, lhe, tudo, eles</em>
+* `EMPTY` (7429): <em>que, se, o, ele, isso, onde, quem, lhe, tudo, eles</em>
 
 ### `SCONJ`
 
@@ -59,5 +59,5 @@ The most frequent other feature values with which `PRON` and `Definite` co-occur
 `SCONJ` tokens may have the following values of `Definite`:
 
 * `Ind` (2; 100% of non-empty `Definite`): <em>Uma, uns</em>
-* `EMPTY` (5355): <em>que, a, de, para, se, porque, como, por, em, quando</em>
+* `EMPTY` (5356): <em>que, a, de, para, se, porque, como, por, em, quando</em>
 

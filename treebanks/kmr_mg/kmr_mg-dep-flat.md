@@ -69,7 +69,7 @@ The following 11 pairs of parts of speech are connected with `flat`: <tt><a href
 3	12'ê	12	NUM	num	NumType=Card	8	nmod	_	_
 4	reşemiyê	reşemî	NOUN	n	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	3	flat	_	_
 5	2015'an	2015	NUM	num	Case=Acc|Number=Plur|NumType=Card	3	flat	_	_
-6	ve	ev	PRON	prn	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	3	case	_	_
+6	ve	ve	ADP	post	AdpType=Post	3	case	_	_
 7	li	li	ADP	pr	AdpType=Prep	8	case	_	_
 8	sînemayan	sînema	NOUN	n	Case=Acc|Gender=Fem|Number=Plur|PronType=Dem	0	root	_	_
 9	e	bûn	AUX	vbcop	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	SpaceAfter=No

@@ -42,4 +42,4 @@ The `advcl:cmpr` relation is used in the Polish [PDB-UD](http://universaldepende
 14	you
 15	.
 ~~~
-<!-- Interlanguage links updated So kvě 14 19:02:51 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:04 CET 2022 -->

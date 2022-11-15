@@ -13,7 +13,7 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 
 167107 tokens (57%) have a non-empty value of `Number`.
 44190 types (87%) occur at least once with a non-empty value of `Number`.
-37118 lemmas (88%) occur at least once with a non-empty value of `Number`.
+37117 lemmas (88%) occur at least once with a non-empty value of `Number`.
 The feature is used with 16 part-of-speech tags: <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (51386; 18% instances), <tt><a href="de_gsd-pos-DET.html">DET</a></tt> (37601; 13% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (27266; 9% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> (14451; 5% instances), <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (13704; 5% instances), <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> (12477; 4% instances), <tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> (9824; 3% instances), <tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (181; 0% instances), <tt><a href="de_gsd-pos-X.html">X</a></tt> (120; 0% instances), <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> (75; 0% instances), <tt><a href="de_gsd-pos-SYM.html">SYM</a></tt> (9; 0% instances), <tt><a href="de_gsd-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="de_gsd-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="de_gsd-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="de_gsd-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="de_gsd-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
@@ -127,7 +127,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 14451 <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> tokens (70% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="de_gsd-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (13518; 94%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="de_gsd-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (13382; 93%).
 
 `ADJ` tokens may have the following values of `Number`:
 
@@ -343,7 +343,7 @@ The most frequent other feature values with which `PART` and `Number` co-occurre
 
 `CCONJ` tokens may have the following values of `Number`:
 
-* `Sing` (3; 100% of non-empty `Number`): <em>bzw, hatte, ﻿Um</em>
+* `Sing` (3; 100% of non-empty `Number`): <em>Um, bzw, hatte</em>
 * `EMPTY` (8840): <em>und, oder, sowie, aber, sondern, als, wie, sowohl, doch, and</em>
 
 ### `PUNCT`

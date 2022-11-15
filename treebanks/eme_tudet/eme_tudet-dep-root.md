@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-100 nodes (41%) are attached to their parents as `root`.
+458 nodes (33%) are attached to their parents as `root`.
 
-100 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.72.
+458 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.11353711790393.
 
-The following 4 pairs of parts of speech are connected with `root`: -<tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt> (50; 50% instances), -<tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt> (44; 44% instances), -<tt><a href="eme_tudet-pos-PROPN.html">PROPN</a></tt> (5; 5% instances), -<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (1; 1% instances).
+The following 9 pairs of parts of speech are connected with `root`: -<tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt> (256; 56% instances), -<tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt> (174; 38% instances), -<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (9; 2% instances), -<tt><a href="eme_tudet-pos-PROPN.html">PROPN</a></tt> (7; 2% instances), -<tt><a href="eme_tudet-pos-NUM.html">NUM</a></tt> (4; 1% instances), -<tt><a href="eme_tudet-pos-PRON.html">PRON</a></tt> (4; 1% instances), -<tt><a href="eme_tudet-pos-ADP.html">ADP</a></tt> (2; 0% instances), -<tt><a href="eme_tudet-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), -<tt><a href="eme_tudet-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -44,9 +44,12 @@ The following 4 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 1 root	color:blue
-1	tekoate	teko	PROPN	propn	Case=Ref|Foc=Yes	0	root	_	_
-2	eredʒu	dʒu	AUX	aux	Number=Sing|Person=2	1	cop	_	_
-3	!	!	PUNCT	punct	_	1	punct	_	_
+1	nani	nan	ADV	adv	_	0	root	_	_
+2	pamẽ	pamẽ	PRON	pron	PronType=Tot	1	dep	_	_
+3	sidʒu	dʒu	AUX	aux	Clusivity=In|Number=Plur|Person=1	1	cop	_	_
+4	nõde	nõde	PRON	pron	Clusivity=In|Number=Plur|Person=1	1	nsubj	_	_
+5	les	les	DET	dem	_	6	det	_	_
+6	jeunes	jeunes	NOUN	n	_	4	dislocated	_	_
 
 ~~~
 

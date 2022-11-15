@@ -18,7 +18,7 @@ The feature is used with 7 part-of-speech tags: <tt><a href="ru_taiga-pos-NOUN.h
 
 43554 <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (31845; 73%).
+The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (31846; 73%).
 
 `NOUN` tokens may have the following values of `Animacy`:
 
@@ -96,7 +96,7 @@ The most frequent other feature values with which `ADJ` and `Animacy` co-occurre
 
 * `Anim` (96; 8% of non-empty `Animacy`): <em>второго, младшего, главного, маленьких, мелкого, нового, остальных, прекрасных, 19-летнего, Будущих</em>
 * `Inan` (1091; 92% of non-empty `Animacy`): <em>первый, последний, данный, последние, следующий, новый, второй, хорошие, большой, целый</em>
-* `EMPTY` (15698): <em>хороший, большой, нужно, отличный, лучше, хорошая, неплохой, хорошо, хорошее, вежливый</em>
+* `EMPTY` (15697): <em>хороший, большой, нужно, отличный, лучше, хорошая, неплохой, хорошо, хорошее, вежливый</em>
 
 <table>
   <tr><th>Paradigm <i>хороший</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -153,7 +153,7 @@ The most frequent other feature values with which `VERB` and `Animacy` co-occurr
 
 * `Anim` (22; 19% of non-empty `Animacy`): <em>желающих, имеющих, вылетающих, жертвующего, живущих, звавшего, курящих, наблюдающий, обвиняемого, обвисшего</em>
 * `Inan` (94; 81% of non-empty `Animacy`): <em>интересующие, просроченные, связанные, собранные, улучшенный, Заглохший, активированый, асфальтированные, бегущий, вложеный</em>
-* `EMPTY` (24631): <em>есть, можно, нет, может, надо, могу, делать, хочу, здравствуйте, нравится</em>
+* `EMPTY` (24632): <em>есть, можно, нет, может, надо, могу, делать, хочу, здравствуйте, нравится</em>
 
 <table>
   <tr><th>Paradigm <i>стоять</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -166,11 +166,11 @@ The most frequent other feature values with which `VERB` and `Animacy` co-occurr
 ## Relations with Agreement in `Animacy`
 
 The 10 most frequent relations where parent and child node agree in `Animacy`:
-<tt>NOUN --[<tt><a href="ru_taiga-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (6162; 79%),
+<tt>NOUN --[<tt><a href="ru_taiga-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (6161; 79%),
 <tt>NOUN --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3421; 90%),
-<tt>NOUN --[<tt><a href="ru_taiga-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (645; 83%),
+<tt>NOUN --[<tt><a href="ru_taiga-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (646; 83%),
 <tt>NOUN --[<tt><a href="ru_taiga-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (430; 50%),
-<tt>NOUN --[<tt><a href="ru_taiga-dep-appos.html">appos</a></tt>]--> NOUN</tt> (408; 82%),
+<tt>NOUN --[<tt><a href="ru_taiga-dep-appos.html">appos</a></tt>]--> NOUN</tt> (409; 82%),
 <tt>PROPN --[<tt><a href="ru_taiga-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (408; 86%),
 <tt>NOUN --[<tt><a href="ru_taiga-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (358; 55%),
 <tt>NOUN --[<tt><a href="ru_taiga-dep-parataxis.html">parataxis</a></tt>]--> NOUN</tt> (346; 73%),

@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_English-Atis: POS Tags: `DET`
 
-There are 20 `DET` lemmas (2%), 21 `DET` types (2%) and 4885 `DET` tokens (8%).
+There are 19 `DET` lemmas (2%), 21 `DET` types (2%) and 4885 `DET` tokens (8%).
 Out of 14 observed tags, the rank of `DET` is: 8 in number of lemmas, 8 in number of types and 5 in number of tokens.
 
-The 10 most frequent `DET` lemmas: <em>the, a, all, what, which, any, an, that, this, you</em>
+The 10 most frequent `DET` lemmas: <em>the, a, all, what, which, any, that, this, you, I</em>
 
 The 10 most frequent `DET` types:  <em>the, a, all, what, which, any, an, that, this, your</em>
 
-The 10 most frequent ambiguous lemmas: <em>what</em> (<tt><a href="en_atis-pos-PRON.html">PRON</a></tt> 852, <tt><a href="en_atis-pos-DET.html">DET</a></tt> 535), <em>which</em> (<tt><a href="en_atis-pos-DET.html">DET</a></tt> 141, <tt><a href="en_atis-pos-PRON.html">PRON</a></tt> 46, <tt><a href="en_atis-pos-ADP.html">ADP</a></tt> 28, <tt><a href="en_atis-pos-VERB.html">VERB</a></tt> 1), <em>that</em> (<tt><a href="en_atis-pos-ADP.html">ADP</a></tt> 331, <tt><a href="en_atis-pos-DET.html">DET</a></tt> 45, <tt><a href="en_atis-pos-PRON.html">PRON</a></tt> 34), <em>this</em> (<tt><a href="en_atis-pos-DET.html">DET</a></tt> 18, <tt><a href="en_atis-pos-PRON.html">PRON</a></tt> 3), <em>you</em> (<tt><a href="en_atis-pos-PRON.html">PRON</a></tt> 223, <tt><a href="en_atis-pos-DET.html">DET</a></tt> 16), <em>I</em> (<tt><a href="en_atis-pos-PRON.html">PRON</a></tt> 1276, <tt><a href="en_atis-pos-DET.html">DET</a></tt> 10), <em>they</em> (<tt><a href="en_atis-pos-DET.html">DET</a></tt> 9, <tt><a href="en_atis-pos-PRON.html">PRON</a></tt> 3), <em>both</em> (<tt><a href="en_atis-pos-DET.html">DET</a></tt> 6, <tt><a href="en_atis-pos-CCONJ.html">CCONJ</a></tt> 1), <em>each</em> (<tt><a href="en_atis-pos-DET.html">DET</a></tt> 6, <tt><a href="en_atis-pos-PRON.html">PRON</a></tt> 1), <em>either</em> (<tt><a href="en_atis-pos-CCONJ.html">CCONJ</a></tt> 10, <tt><a href="en_atis-pos-DET.html">DET</a></tt> 2, <tt><a href="en_atis-pos-ADV.html">ADV</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>what</em> (<tt><a href="en_atis-pos-PRON.html">PRON</a></tt> 852, <tt><a href="en_atis-pos-DET.html">DET</a></tt> 535), <em>which</em> (<tt><a href="en_atis-pos-DET.html">DET</a></tt> 141, <tt><a href="en_atis-pos-PRON.html">PRON</a></tt> 46, <tt><a href="en_atis-pos-ADP.html">ADP</a></tt> 28, <tt><a href="en_atis-pos-VERB.html">VERB</a></tt> 1), <em>that</em> (<tt><a href="en_atis-pos-ADP.html">ADP</a></tt> 331, <tt><a href="en_atis-pos-DET.html">DET</a></tt> 45, <tt><a href="en_atis-pos-PRON.html">PRON</a></tt> 34), <em>this</em> (<tt><a href="en_atis-pos-DET.html">DET</a></tt> 18, <tt><a href="en_atis-pos-PRON.html">PRON</a></tt> 3), <em>you</em> (<tt><a href="en_atis-pos-PRON.html">PRON</a></tt> 223, <tt><a href="en_atis-pos-DET.html">DET</a></tt> 16), <em>I</em> (<tt><a href="en_atis-pos-PRON.html">PRON</a></tt> 2377, <tt><a href="en_atis-pos-DET.html">DET</a></tt> 10), <em>they</em> (<tt><a href="en_atis-pos-DET.html">DET</a></tt> 9, <tt><a href="en_atis-pos-PRON.html">PRON</a></tt> 3), <em>both</em> (<tt><a href="en_atis-pos-DET.html">DET</a></tt> 6, <tt><a href="en_atis-pos-CCONJ.html">CCONJ</a></tt> 1), <em>each</em> (<tt><a href="en_atis-pos-DET.html">DET</a></tt> 6, <tt><a href="en_atis-pos-PRON.html">PRON</a></tt> 1), <em>either</em> (<tt><a href="en_atis-pos-CCONJ.html">CCONJ</a></tt> 10, <tt><a href="en_atis-pos-DET.html">DET</a></tt> 2, <tt><a href="en_atis-pos-ADV.html">ADV</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>what</em> (<tt><a href="en_atis-pos-PRON.html">PRON</a></tt> 852, <tt><a href="en_atis-pos-DET.html">DET</a></tt> 535), <em>which</em> (<tt><a href="en_atis-pos-DET.html">DET</a></tt> 141, <tt><a href="en_atis-pos-PRON.html">PRON</a></tt> 46, <tt><a href="en_atis-pos-ADP.html">ADP</a></tt> 28, <tt><a href="en_atis-pos-VERB.html">VERB</a></tt> 1), <em>that</em> (<tt><a href="en_atis-pos-ADP.html">ADP</a></tt> 331, <tt><a href="en_atis-pos-DET.html">DET</a></tt> 41, <tt><a href="en_atis-pos-PRON.html">PRON</a></tt> 33), <em>this</em> (<tt><a href="en_atis-pos-DET.html">DET</a></tt> 18, <tt><a href="en_atis-pos-PRON.html">PRON</a></tt> 3), <em>both</em> (<tt><a href="en_atis-pos-DET.html">DET</a></tt> 6, <tt><a href="en_atis-pos-CCONJ.html">CCONJ</a></tt> 1), <em>each</em> (<tt><a href="en_atis-pos-DET.html">DET</a></tt> 6, <tt><a href="en_atis-pos-PRON.html">PRON</a></tt> 1), <em>those</em> (<tt><a href="en_atis-pos-DET.html">DET</a></tt> 4, <tt><a href="en_atis-pos-PRON.html">PRON</a></tt> 1), <em>either</em> (<tt><a href="en_atis-pos-CCONJ.html">CCONJ</a></tt> 10, <tt><a href="en_atis-pos-DET.html">DET</a></tt> 2, <tt><a href="en_atis-pos-ADV.html">ADV</a></tt> 1), <em>like</em> (<tt><a href="en_atis-pos-VERB.html">VERB</a></tt> 380, <tt><a href="en_atis-pos-ADP.html">ADP</a></tt> 88, <tt><a href="en_atis-pos-ADJ.html">ADJ</a></tt> 66, <tt><a href="en_atis-pos-DET.html">DET</a></tt> 1)
 
@@ -54,19 +54,19 @@ The 10 most frequent ambiguous types:  <em>what</em> (<tt><a href="en_atis-pos-P
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.050000 (the average of all parts of speech is 1.150056).
+The form / lemma ratio of `DET` is 1.105263 (the average of all parts of speech is 1.143493).
 
-The 1st highest number of forms (2) was observed with the lemma “that”: <em>that, those</em>.
+The 1st highest number of forms (2) was observed with the lemma “a”: <em>a, an</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “I”: <em>my</em>.
+The 2nd highest number of forms (2) was observed with the lemma “that”: <em>that, those</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “a”: <em>a</em>.
+The 3rd highest number of forms (1) was observed with the lemma “I”: <em>my</em>.
 
-`DET` occurs with 2 features: <tt><a href="en_atis-feat-PronType.html">PronType</a></tt> (4885; 100% instances), <tt><a href="en_atis-feat-Poss.html">Poss</a></tt> (35; 1% instances)
+`DET` occurs with 3 features: <tt><a href="en_atis-feat-PronType.html">PronType</a></tt> (4885; 100% instances), <tt><a href="en_atis-feat-Number.html">Number</a></tt> (35; 1% instances), <tt><a href="en_atis-feat-Poss.html">Poss</a></tt> (35; 1% instances)
 
-`DET` occurs with 4 feature-value pairs: `Poss=Yes`, `PronType=Art`, `PronType=Int,Rel`, `PronType=Prs`
+`DET` occurs with 6 feature-value pairs: `Number=Plur`, `Number=Sing`, `Poss=Yes`, `PronType=Art`, `PronType=Int,Rel`, `PronType=Prs`
 
-`DET` occurs with 3 feature combinations.
+`DET` occurs with 4 feature combinations.
 The most frequent feature combination is `PronType=Art` (4174 tokens).
 Examples: <em>the, a, all, any, an, that, this, no, some, both</em>
 
@@ -75,7 +75,7 @@ Examples: <em>the, a, all, any, an, that, this, no, some, both</em>
 
 `DET` nodes are attached to their parents using 13 different relations: <tt><a href="en_atis-dep-det.html">det</a></tt> (4701; 96% instances), <tt><a href="en_atis-dep-det-predet.html">det:predet</a></tt> (72; 1% instances), <tt><a href="en_atis-dep-nsubj.html">nsubj</a></tt> (52; 1% instances), <tt><a href="en_atis-dep-nmod-poss.html">nmod:poss</a></tt> (28; 1% instances), <tt><a href="en_atis-dep-discourse.html">discourse</a></tt> (8; 0% instances), <tt><a href="en_atis-dep-reparandum.html">reparandum</a></tt> (7; 0% instances), <tt><a href="en_atis-dep-amod.html">amod</a></tt> (5; 0% instances), <tt><a href="en_atis-dep-obj.html">obj</a></tt> (5; 0% instances), <tt><a href="en_atis-dep-dep.html">dep</a></tt> (2; 0% instances), <tt><a href="en_atis-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="en_atis-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="en_atis-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="en_atis-dep-nmod.html">nmod</a></tt> (1; 0% instances)
 
-Parents of `DET` nodes belong to 10 different parts of speech: <tt><a href="en_atis-pos-NOUN.html">NOUN</a></tt> (4524; 93% instances), <tt><a href="en_atis-pos-PROPN.html">PROPN</a></tt> (219; 4% instances), <tt><a href="en_atis-pos-VERB.html">VERB</a></tt> (75; 2% instances), <tt><a href="en_atis-pos-ADJ.html">ADJ</a></tt> (47; 1% instances), <tt><a href="en_atis-pos-NUM.html">NUM</a></tt> (9; 0% instances), <tt><a href="en_atis-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="en_atis-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="en_atis-pos-ADV.html">ADV</a></tt> (2; 0% instances),  (2; 0% instances), <tt><a href="en_atis-pos-ADP.html">ADP</a></tt> (1; 0% instances)
+Parents of `DET` nodes belong to 10 different parts of speech: <tt><a href="en_atis-pos-NOUN.html">NOUN</a></tt> (4592; 94% instances), <tt><a href="en_atis-pos-PROPN.html">PROPN</a></tt> (151; 3% instances), <tt><a href="en_atis-pos-VERB.html">VERB</a></tt> (75; 2% instances), <tt><a href="en_atis-pos-ADJ.html">ADJ</a></tt> (47; 1% instances), <tt><a href="en_atis-pos-NUM.html">NUM</a></tt> (9; 0% instances), <tt><a href="en_atis-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="en_atis-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="en_atis-pos-ADV.html">ADV</a></tt> (2; 0% instances),  (2; 0% instances), <tt><a href="en_atis-pos-ADP.html">ADP</a></tt> (1; 0% instances)
 
 4869 (100%) `DET` nodes are leaves.
 

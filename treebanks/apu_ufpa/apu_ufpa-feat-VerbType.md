@@ -36,7 +36,7 @@ The most frequent other feature values with which `NOUN` and `VerbType` co-occur
 
 ### `ADJ`
 
-1 <tt><a href="apu_ufpa-pos-ADJ.html">ADJ</a></tt> tokens (33% of all `ADJ` tokens) have a non-empty value of `VerbType`.
+1 <tt><a href="apu_ufpa-pos-ADJ.html">ADJ</a></tt> tokens (25% of all `ADJ` tokens) have a non-empty value of `VerbType`.
 
 The most frequent other feature values with which `ADJ` and `VerbType` co-occurred: <tt><a href="apu_ufpa-feat-Gender-subj.html">Gender[subj]</a></tt><tt>=Masc</tt> (1; 100%), <tt><a href="apu_ufpa-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="apu_ufpa-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (1; 100%).
 

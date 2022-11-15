@@ -11,7 +11,7 @@ This relation is a language-specific subtype of <tt><a href="en_gum-dep-compound
 640 nodes (0%) are attached to their parents as `compound:prt`.
 
 640 instances of `compound:prt` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.2734375.
+Average distance between parent and child is 1.265625.
 
 The following 3 pairs of parts of speech are connected with `compound:prt`: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (630; 98% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (9; 1% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
@@ -53,7 +53,7 @@ The following 3 pairs of parts of speech are connected with `compound:prt`: <tt>
 4	have	have	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	advcl	8:advcl:if	_
 5	n't	not	PART	RB	Polarity=Neg	4	advmod	4:advmod	_
 6	already	already	ADV	RB	_	4	advmod	4:advmod	_
-7	be	be	AUX	VB	VerbForm=Inf	8	cop	8:cop	Discourse=same-unit_m:173->171:0
+7	be	be	AUX	VB	Mood=Imp|Person=2|VerbForm=Fin	8	cop	8:cop	Discourse=same-unit_m:173->171:0
 8	sure	sure	ADJ	JJ	Degree=Pos	0	root	0:root	_
 9	to	to	PART	TO	_	10	mark	10:mark	_
 10	give	give	VERB	VB	VerbForm=Inf	8	xcomp	8:xcomp	_
@@ -73,7 +73,7 @@ The following 3 pairs of parts of speech are connected with `compound:prt`: <tt>
 # visual-style 45	bgColor:blue
 # visual-style 45	fgColor:white
 # visual-style 45 46 compound:prt	color:blue
-1	Her	her	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	Discourse=causal-result:86->85:0|Entity=(93-abstract-new-cf5-2-coref(1-person-giv:inact-cf1-1-ana-Ichiyō_Higuchi)
+1	Her	her	PRON	PRP$	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	Discourse=causal-result:86->85:0|Entity=(93-abstract-new-cf5-2-coref(1-person-giv:inact-cf1-1-ana-Ichiyō_Higuchi)
 2	experience	experience	NOUN	NN	Number=Sing	8	nsubj	8:nsubj	_
 3	living	live	VERB	VBG	VerbForm=Ger	2	acl	2:acl	Discourse=elaboration-attribute:87->86:0
 4	in	in	ADP	IN	_	6	case	6:case	_
@@ -85,7 +85,7 @@ The following 3 pairs of parts of speech are connected with `compound:prt`: <tt>
 10	for	for	ADP	IN	_	11	case	11:case	_
 11	several	several	ADJ	JJ	Degree=Pos	8	obl	8:obl:for	Entity=(95-abstract-new-cf10-1-sgl
 12	of	of	ADP	IN	_	15	case	15:case	_
-13	her	her	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	15	nmod:poss	15:nmod:poss	Bridge=17<96|Entity=(96-abstract-acc:inf-cf4-3-coref(1-person-giv:act-cf1-1-ana-Ichiyō_Higuchi)
+13	her	her	PRON	PRP$	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	15	nmod:poss	15:nmod:poss	Bridge=17<96|Entity=(96-abstract-acc:inf-cf4-3-coref(1-person-giv:act-cf1-1-ana-Ichiyō_Higuchi)
 14	later	late	ADJ	JJR	Degree=Cmp	15	amod	15:amod	_
 15	stories	story	NOUN	NNS	Number=Plur	11	obl	11:obl:of	Entity=96)95)94)|SpaceAfter=No
 16	,	,	PUNCT	,	_	19	punct	19:punct	_

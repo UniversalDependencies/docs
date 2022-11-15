@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.0 release.
 The following people have contributed to making this treebank part of UD: Cristina Bosco, Alessandro Lenci, Simonetta Montemagni, Maria Simi.
 
 Repository: [UD_Italian-ISDT](https://github.com/UniversalDependencies/UD_Italian-ISDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_isdt210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_isdt211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -69,7 +69,7 @@ We wish to thank all of the contributors to the original annotation efforts, as 
 
 ## Features
 
-[Clitic](it_isdt-feat-Clitic.html) – [Definite](it_isdt-feat-Definite.html) – [Degree](it_isdt-feat-Degree.html) – [Foreign](it_isdt-feat-Foreign.html) – [Gender](it_isdt-feat-Gender.html) – [Mood](it_isdt-feat-Mood.html) – [Number](it_isdt-feat-Number.html) – [NumType](it_isdt-feat-NumType.html) – [Person](it_isdt-feat-Person.html) – [Polarity](it_isdt-feat-Polarity.html) – [Poss](it_isdt-feat-Poss.html) – [PronType](it_isdt-feat-PronType.html) – [Tense](it_isdt-feat-Tense.html) – [VerbForm](it_isdt-feat-VerbForm.html)
+[Clitic](it_isdt-feat-Clitic.html) – [Definite](it_isdt-feat-Definite.html) – [Degree](it_isdt-feat-Degree.html) – [Foreign](it_isdt-feat-Foreign.html) – [Gender](it_isdt-feat-Gender.html) – [Mood](it_isdt-feat-Mood.html) – [Number](it_isdt-feat-Number.html) – [NumType](it_isdt-feat-NumType.html) – [Person](it_isdt-feat-Person.html) – [Polarity](it_isdt-feat-Polarity.html) – [Poss](it_isdt-feat-Poss.html) – [PronType](it_isdt-feat-PronType.html) – [Tense](it_isdt-feat-Tense.html) – [Typo](it_isdt-feat-Typo.html) – [VerbForm](it_isdt-feat-VerbForm.html)
 
 ## Relations
 
@@ -613,6 +613,18 @@ We wish to thank all of the contributors to the original annotation efforts, as 
   </li>
 </ul>
 
+<ul>
+  <li><a>Typo</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>ADJ: 1</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
 <h2>Syntax</h2>
 
 <h3>Auxiliary Verbs and Copula</h3>
@@ -632,15 +644,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (3775)</li>
+      <li>VERB-Fin--NOUN (3773)</li>
       <li>VERB-Fin--PRON (1880)</li>
       <li>VERB-Ger--NOUN (46)</li>
       <li>VERB-Ger--PRON (21)</li>
       <li>VERB-Inf--NOUN (611)</li>
       <li>VERB-Inf--PRON (187)</li>
-      <li>VERB-Part--NOUN (1300)</li>
-      <li>VERB-Part--NOUN-ADP(di) (2)</li>
-      <li>VERB-Part--PRON (560)</li>
+      <li>VERB-Part--NOUN (1299)</li>
+      <li>VERB-Part--NOUN-ADP(di) (1)</li>
+      <li>VERB-Part--PRON (559)</li>
     </ul>
   </li>
 </ul>

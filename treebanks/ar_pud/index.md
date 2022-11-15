@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Luma Ateyah, Martin Popel, Daniel Zeman, Nizar Habash, Dima Taji.
 
 Repository: [UD_Arabic-PUD](https://github.com/UniversalDependencies/UD_Arabic-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udar_pud210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udar_pud211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-SA 3.0
 
@@ -86,21 +86,21 @@ employ ten-fold cross-validation.
 
 ## Features
 
-[Animacy](ar_pud-feat-Animacy.html) – [Aspect](ar_pud-feat-Aspect.html) – [Case](ar_pud-feat-Case.html) – [Definite](ar_pud-feat-Definite.html) – [Gender](ar_pud-feat-Gender.html) – [Mood](ar_pud-feat-Mood.html) – [Number](ar_pud-feat-Number.html) – [Person](ar_pud-feat-Person.html) – [Polarity](ar_pud-feat-Polarity.html) – [Tense](ar_pud-feat-Tense.html) – [VerbForm](ar_pud-feat-VerbForm.html) – [Voice](ar_pud-feat-Voice.html)
+[Aspect](ar_pud-feat-Aspect.html) – [Case](ar_pud-feat-Case.html) – [Definite](ar_pud-feat-Definite.html) – [Gender](ar_pud-feat-Gender.html) – [Mood](ar_pud-feat-Mood.html) – [Number](ar_pud-feat-Number.html) – [NumType](ar_pud-feat-NumType.html) – [Person](ar_pud-feat-Person.html) – [Polarity](ar_pud-feat-Polarity.html) – [Tense](ar_pud-feat-Tense.html) – [VerbForm](ar_pud-feat-VerbForm.html) – [Voice](ar_pud-feat-Voice.html)
 
 ## Relations
 
-[acl](ar_pud-dep-acl.html) – [acl:relcl](ar_pud-dep-acl-relcl.html) – [advcl](ar_pud-dep-advcl.html) – [advmod](ar_pud-dep-advmod.html) – [amod](ar_pud-dep-amod.html) – [appos](ar_pud-dep-appos.html) – [aux](ar_pud-dep-aux.html) – [case](ar_pud-dep-case.html) – [cc](ar_pud-dep-cc.html) – [cc:preconj](ar_pud-dep-cc-preconj.html) – [ccomp](ar_pud-dep-ccomp.html) – [compound](ar_pud-dep-compound.html) – [compound:prt](ar_pud-dep-compound-prt.html) – [conj](ar_pud-dep-conj.html) – [cop](ar_pud-dep-cop.html) – [csubj](ar_pud-dep-csubj.html) – [csubj:pass](ar_pud-dep-csubj-pass.html) – [dep](ar_pud-dep-dep.html) – [det](ar_pud-dep-det.html) – [discourse](ar_pud-dep-discourse.html) – [dislocated](ar_pud-dep-dislocated.html) – [expl](ar_pud-dep-expl.html) – [fixed](ar_pud-dep-fixed.html) – [flat](ar_pud-dep-flat.html) – [goeswith](ar_pud-dep-goeswith.html) – [iobj](ar_pud-dep-iobj.html) – [mark](ar_pud-dep-mark.html) – [nmod](ar_pud-dep-nmod.html) – [nsubj](ar_pud-dep-nsubj.html) – [nsubj:pass](ar_pud-dep-nsubj-pass.html) – [nummod](ar_pud-dep-nummod.html) – [obj](ar_pud-dep-obj.html) – [obl](ar_pud-dep-obl.html) – [obl:tmod](ar_pud-dep-obl-tmod.html) – [orphan](ar_pud-dep-orphan.html) – [parataxis](ar_pud-dep-parataxis.html) – [punct](ar_pud-dep-punct.html) – [root](ar_pud-dep-root.html) – [vocative](ar_pud-dep-vocative.html) – [xcomp](ar_pud-dep-xcomp.html)
+[acl](ar_pud-dep-acl.html) – [acl:relcl](ar_pud-dep-acl-relcl.html) – [advcl](ar_pud-dep-advcl.html) – [advmod](ar_pud-dep-advmod.html) – [amod](ar_pud-dep-amod.html) – [appos](ar_pud-dep-appos.html) – [aux](ar_pud-dep-aux.html) – [case](ar_pud-dep-case.html) – [cc](ar_pud-dep-cc.html) – [cc:preconj](ar_pud-dep-cc-preconj.html) – [ccomp](ar_pud-dep-ccomp.html) – [compound](ar_pud-dep-compound.html) – [compound:prt](ar_pud-dep-compound-prt.html) – [conj](ar_pud-dep-conj.html) – [cop](ar_pud-dep-cop.html) – [csubj](ar_pud-dep-csubj.html) – [csubj:pass](ar_pud-dep-csubj-pass.html) – [dep](ar_pud-dep-dep.html) – [det](ar_pud-dep-det.html) – [discourse](ar_pud-dep-discourse.html) – [dislocated](ar_pud-dep-dislocated.html) – [expl](ar_pud-dep-expl.html) – [fixed](ar_pud-dep-fixed.html) – [flat](ar_pud-dep-flat.html) – [iobj](ar_pud-dep-iobj.html) – [mark](ar_pud-dep-mark.html) – [nmod](ar_pud-dep-nmod.html) – [nsubj](ar_pud-dep-nsubj.html) – [nsubj:pass](ar_pud-dep-nsubj-pass.html) – [nummod](ar_pud-dep-nummod.html) – [obj](ar_pud-dep-obj.html) – [obl](ar_pud-dep-obl.html) – [obl:tmod](ar_pud-dep-obl-tmod.html) – [orphan](ar_pud-dep-orphan.html) – [parataxis](ar_pud-dep-parataxis.html) – [punct](ar_pud-dep-punct.html) – [root](ar_pud-dep-root.html) – [vocative](ar_pud-dep-vocative.html) – [xcomp](ar_pud-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 1000 sentences and 20751 tokens.</li>
+<li>This corpus contains 1000 sentences and 20747 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 4837 tokens (23%) that are not followed by a space.</li>
+<li>This corpus contains 4833 tokens (23%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -108,7 +108,7 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
-<li>This corpus contains 3 types of words that contain both letters and punctuation. Examples: "ريديت, الامتياز", باس-</li>
+<li>This corpus contains 5 types of words that contain both letters and punctuation. Examples: "ريديت, إيه-ياسو, الامتياز", الواي-فاي, باس-</li>
 </ul>
 
 <ul>
@@ -128,23 +128,23 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
-<li>This corpus contains 38 lemmas tagged as pronouns (PRON): $iboh_1, *`lika_1, >aHad_1, >anA_1, >anA_2, >uwlA}ika_1, Al~a*iy_1, bi_1, gAlibiy~ap_1, h, hA, hA_1, h`*A_1, hiya_1, hm, hmA, hn, humA_1, hum_1, huwa_1, k, km, mA, mA*A_1, mA_1, mA_3, mA_4, mA_6, m_2, mano_1, min_1, mn, nA, naHonu_1, ny, y, yntwr_0, |xar_1</li>
+<li>This corpus contains 16 lemmas tagged as pronouns (PRON): آخَر, أَحَد, أُولائِكَ, الَّذِي, ذ`لِكَ, شِبه, غالِبِيَّة, م, ما, ماذا, من, مَن, مِن, ه`ذا, هُوَ, ينتور</li>
 </ul>
 
 <ul>
-<li>This corpus contains 26 lemmas tagged as determiners (DET): $iboh_1, *A_2, >aHad_1, >agolab_1, >akomal_2, >akovar_2, >ay~_1, >ay~_2, Eid~ap_1, baEoD_1, baqiy~ap_1, gAlibiy~ap_1, jamiyE_1, kAmil_1, kil~ap_1, kulowap_1, kul~_1, kul~iy~_1, lawo_1, muEoZam_1, munotaSaf_1, niSof_1, nisobap_1, sA}ir_1, |xar_1, |xir_1</li>
+<li>This corpus contains 25 lemmas tagged as determiners (DET): آخَر, آخِر, أَحَد, أَغلَب, أَكثَر, أَكمَل, أَيّ, بَعض, بَقِيَّة, جَمِيع, ذا, سائِر, شِبه, عِدَّة, غالِبِيَّة, كامِل, كُلِّيّ, كُلّ, كِلَا, كِلَّة, لَو, مُعظَم, مُنتَصَف, نِسبَة, نِصف</li>
 </ul>
 
 <ul>
-<li>Out of the above, 4 lemmas occurred sometimes as PRON and sometimes as DET: $iboh_1, >aHad_1, gAlibiy~ap_1, |xar_1</li>
+<li>Out of the above, 4 lemmas occurred sometimes as PRON and sometimes as DET: آخَر, أَحَد, شِبه, غالِبِيَّة</li>
 </ul>
 
 <ul>
-<li>This corpus contains 28 lemmas tagged as auxiliaries (AUX): $ak~al_1, *ikoraY_1, <ilobAs_1, >aEad~_1, >aEolan_1, >aSobaH_1, EAd-u_1, Ead~-u_1, HaSad-iu_1, SAr_1, Zal~-a_1, bAt-i_1, badA-u_1, baqiy-a_1, daEA-u_1, fati}_1, gAyap_1, gadA-u_1, hab~-u_1, jaEal-a_1, kAn-u_1, kawon_1, layosa_1, waqof_1, zAl-a_1, {iEotabar_1, {iEotibAr_1, {inotiqAd_1</li>
+<li>This corpus contains 2 lemmas tagged as auxiliaries (AUX): كَان, لَيس</li>
 </ul>
 
 <ul>
-<li>Out of the above, 15 lemmas occurred sometimes as AUX and sometimes as VERB: $ak~al_1, >aEad~_1, >aEolan_1, >aSobaH_1, EAd-u_1, Zal~-a_1, bAt-i_1, badA-u_1, baqiy-a_1, daEA-u_1, jaEal-a_1, kAn-u_1, layosa_1, zAl-a_1, {iEotabar_1</li>
+<li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: كَان</li>
 </ul>
 
 <ul>
@@ -172,13 +172,13 @@ employ ten-fold cross-validation.
     <ul>
       <li>ADJ: الخاصة, المتحدة, كبيرة, الأولى, أخرى, الجديدة, البريطانية, جديدة, الأمريكية, الشمالية</li>
       <li>ADJ-Part: الخاصة, التابعة, الموجودة, الواردة, الواقعة, خاصة, قائلةً, الكامنة, الخالية, الداعية</li>
-      <li>AUX: كانت, باتت, تكون, أصبحت, تصبح, تعد, تكن, ليست, الغاية, تبدو</li>
+      <li>AUX: كانت, تكن, تكون, ليست</li>
       <li>NOUN: النسبة, شركة, منطقة, المنطقة, نهاية, ذات, الحرب, المدينة, فترة, الدول</li>
       <li>NOUN-Part: الضاربة, المؤرخة, المتجهة, المسببة, المستخلصة, مرتدية, مزيلةً, منخرطة</li>
       <li>NUM: عشرة, أربعة, ثلاثة, ثمانية, خمسة, سبعة, المئة, ستة, الثلاثة, الثلاثين</li>
-      <li>PRON: ها, التي, هذه, هي, تلك, هن, غالبيت, ك, هذا, هم</li>
+      <li>PRON: ها, التي, هذه, هي, تلك, هن, غالبيت, هذا, هم, ينتور</li>
       <li>PROPN: الصين, الولايات, فرنسا, أفريقيا, بريطانيا, روسيا, أستراليا, ألبانيا, أمريكا, أوروبا</li>
-      <li>VERB: كانت, بدأت, تكون, قالت, تظهر, تضم, تقول, ظهرت, تبدأ, أعلنت</li>
+      <li>VERB: كانت, بدأت, قالت, تكون, تظهر, تضم, تقول, ظهرت, تبدأ, تعد</li>
     </ul>
   </li>
 </ul>
@@ -188,39 +188,17 @@ employ ten-fold cross-validation.
     <ul>
       <li>ADJ: الأول, الثاني, أكثر, إسترليني, كبير, الثالث, كبيراً, آخر, أكبر, المتوسط</li>
       <li>ADJ-Part: الخاص, قائلاً, المرتبط, الحائز, الخانق, القادر, المذكور, المستغرق, المسموح, المطبق</li>
-      <li>AUX: كان, يكون, أصبح, جعل, يصبح, يعد, بات, كانوا, كون, ليس</li>
+      <li>AUX: كان, يكون, كانوا, كنت, كون, ليس, يكن</li>
       <li>NOUN: عام, شكلٍ, الوقت, اسم, القرن, الأمر, أجل, العالم, شأن, سبب</li>
       <li>NOUN-Part: الظاهر, المتبقيين, المجموع, المدربين, المرغوب, المسجل, المنخرطين, الواقع, مشيداً, مكوناً</li>
       <li>NUM: عشر, ثلاث, مليون, أربع, مليار, ست, آلاف, أربعة, أربعين, ألفي</li>
       <li>PRON: ه, هم, ذلك, هذا, الذي, هو, الذين, ك, أولئك, آخر</li>
       <li>PROPN: تشرين, البحر, كانون, ترامب, نيسان, الاتحاد, جوزيف, دي, مجلس, نهر</li>
-      <li>VERB: كان, يمكن, قال, يكون, تم, يكن, كانوا, بدأ, يقول, يعمل</li>
+      <li>VERB: يمكن, كان, قال, يكون, تم, يكن, بدأ, يقول, بات, أصبح</li>
     </ul>
   </li>
 </ul>
 
-<ul>
-  <li><a>Animacy</a></li>
-</ul>
-
-<ul>
-  <li>Hum
-    <ul>
-      <li>NOUN: الناس, رئيس, الإمبراطور, الذكور, الملك, سكان, الأطفال, الرئيس, النساء, زوجت</li>
-      <li>PROPN: ترامب, جوزيف, دي, كلينتون, تشينغ, دونالد, رافيرتي, رونا, ريتشارد, كوري</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Nhum
-    <ul>
-      <li>AUX: الغاية, انتقادات, ذكرا</li>
-      <li>NOUN: عام, شكلٍ, الوقت, اسم, القرن, الأمر, أجل, النسبة, شأن, العالم</li>
-      <li>PROPN: تشرين, البحر, الصين, كانون, الولايات, نيسان, الاتحاد, فرنسا, أفريقيا, بريطانيا</li>
-    </ul>
-  </li>
-</ul>
 
 <ul>
   <li><a>Number</a></li>
@@ -245,13 +223,13 @@ employ ten-fold cross-validation.
     <ul>
       <li>ADJ: الأصليين, الحمر, الست, السياسيين, اللاتينيين, آخرين, أستراليون, أصليون, ألمانيين, أوائل</li>
       <li>ADJ-Part: مكتوفي, موجودين</li>
-      <li>AUX: كانوا, انتقادات, ظلوا, كنا</li>
+      <li>AUX: كانوا, كنا</li>
       <li>NOUN: الدول, الناس, الأراضي, سنوات, الشركات, المناطق, أراضي, الجزر, الذكور, السنوات</li>
       <li>NOUN-Part: المنخرطين, موالون</li>
       <li>NUM: ثلاث, عشر, مليون, أربعة, عشرة, مليار, أربع, ثلاثة, ثمانية, خمسة</li>
       <li>PRON: هم, نا, الذين, أولئك, هن, كم, نحن, هؤلاء</li>
       <li>PROPN: الولايات, الألعاب, الشيوخ, لولايات, الألب, الأمم, المايا, جزر, أخبار, أشياء</li>
-      <li>VERB: كانوا, يحملون, حصلوا, قرروا, نحتاج, نرى, يتمتعون, يعانون, أثاروا, أجبروا</li>
+      <li>VERB: يحملون, حصلوا, قرروا, كانوا, نحتاج, نرى, يتمتعون, يعانون, أثاروا, أجبروا</li>
     </ul>
   </li>
 </ul>
@@ -261,13 +239,13 @@ employ ten-fold cross-validation.
     <ul>
       <li>ADJ: الأول, الخاصة, المتحدة, كبيرة, الثاني, الأولى, أخرى, الجديدة, أكثر, إسترليني</li>
       <li>ADJ-Part: الخاصة, الخاص, قائلاً, التابعة, المرتبط, الموجودة, الواردة, الواقعة, خاصة, قائلةً</li>
-      <li>AUX: كان, كانت, يكون, أصبح, باتت, تكون, أصبحت, تصبح, تعد, تكن</li>
+      <li>AUX: كان, كانت, يكون, تكن, تكون, كنت, ليس, ليست, يكن, أكن</li>
       <li>NOUN: عام, شكلٍ, الوقت, اسم, القرن, الأمر, أجل, العالم, النسبة, شأن</li>
       <li>NOUN-Part: الضاربة, الظاهر, المؤرخة, المتجهة, المجموع, المدربين, المرغوب, المسببة, المستخلصة, المسجل</li>
       <li>NUM: عشر, مليون</li>
       <li>PRON: ه, ها, التي, ذلك, هذا, الذي, هذه, هو, هي, تلك</li>
-      <li>PROPN: تشرين, البحر, الصين, ترامب, كانون, نيسان, الاتحاد, دي, فرنسا, أفريقيا</li>
-      <li>VERB: كان, كانت, يمكن, قال, يكون, تم, تكون, يكن, بدأت, قالت</li>
+      <li>PROPN: تشرين, البحر, الصين, ترامب, هونغ, كانون, دي, كونغ, نيسان, الاتحاد</li>
+      <li>VERB: يمكن, كان, قال, كانت, يكون, تم, بدأت, قالت, يكن, بدأ</li>
     </ul>
   </li>
 </ul>
@@ -281,14 +259,13 @@ employ ten-fold cross-validation.
     <ul>
       <li>ADJ: أكثر, كبيراً, أكبر, الخاصة, جديداً, قائلاً, خاصة, كبيرة, أول, الأولى</li>
       <li>ADJ-Part: قائلاً, الخاصة, قائلةً, الخاص, الداعية, المتنامية, المستغرق, المقدم, تابعة, حاملاً</li>
-      <li>AUX: انتقادات</li>
       <li>DET: كل, عدة, آخر, أي, بعض, أحد, شبه, غالبية, إحدى, بقية</li>
       <li>NOUN: عاماً, وفقاً, العديد, بدءاً, بدلاً, اسم, الأمر, المزيد, نجاحاً, نفس</li>
       <li>NOUN-Part: المسببة, مرتدية, مزيلةً, مشيداً, مكوناً, منحوتاً, منخرطة, يافعاً</li>
       <li>NUM: عشر, مليون, أربع, أربعة, ثلاث, ثمانية, ست, ألف, الثلاثة, المليارات</li>
       <li>PRON: ه, ها, ما, هذا, الذي, هم, نا, التي, هذه, ذلك</li>
       <li>PROPN: الإمبراطورية, أبو, أندريه, الألعاب, الثلاثاء, الحرب, الله, الولايات, اليونان, بحر</li>
-      <li>VERB: أملاً</li>
+      <li>VERB: أملاً, انتقادات</li>
     </ul>
   </li>
 </ul>
@@ -299,13 +276,14 @@ employ ten-fold cross-validation.
       <li>ADJ: الأول, الخاصة, المتحدة, أكثر, أخرى, الثاني, الأولى, أول, إسترليني, كبير</li>
       <li>ADJ-Part: الخاصة, التابعة, الخاص, الكامنة, الواردة, الواقعة, أشبه, الخالية, الخانق, الرامية</li>
       <li>ADV: يوم</li>
-      <li>AUX: كون, إلباس, اعتبار, جعل, ذكرا</li>
+      <li>AUX: كون</li>
       <li>DET: كل, أحد, أي, إحدى, عدة, بعض, آخر, جميع, معظم, أغلب</li>
       <li>NOUN: عام, شكلٍ, الوقت, القرن, أجل, النسبة, شأن, العالم, منطقة, نهاية</li>
       <li>NOUN-Part: الضاربة, الظاهر, المؤرخة, المتبقيين, المتجهة, المجموع, المدربين, المرغوب, المسجل, المنخرطين</li>
       <li>NUM: 2014, 1492, 2012, 2013, عشر, عشرة, مليون, 1879, 1911, 1916</li>
       <li>PRON: ه, ها, هم, التي, ما, ذلك, الذي, هذه, نا, هذا</li>
       <li>PROPN: البحر, الصين, الاتحاد, تشرين, الولايات, كانون, نهر, جنوب, العصر, المحيط</li>
+      <li>VERB: إلباس, اعتبار, جعل, ذكرا</li>
     </ul>
   </li>
 </ul>
@@ -315,14 +293,13 @@ employ ten-fold cross-validation.
     <ul>
       <li>ADJ: أكثر, الأول, كبيرة, الثاني, الخاص, الخاصة, آخر, الأكثر, الأمريكية, الأهم</li>
       <li>ADJ-Part: الخاص, الخاصة, المرتبط, الموجودة, الحائز, المتمركزة, المحاذية, المسموح, المكتشفة, المنفصلة</li>
-      <li>AUX: الغاية</li>
       <li>DET: كل, بعض, أحد, إحدى, أي, معظم, آخر, أغلب, أكثر, جميع</li>
       <li>NOUN: الأمر, العديد, اسم, الملك, رئيس, الجزء, الشركة, المستثمرون, زيادة, سبب</li>
       <li>NOUN-Part: المستخلصة, الواقع, موالون</li>
       <li>NUM: أربعة, ثلاث, أربع, ثلاثة, ثمانية, خمسة, خمسون, عشرون</li>
       <li>PRON: هذا, التي, الذي, ما, هو, هذه, هي, من, أنا, ذلك</li>
       <li>PROPN: الإمبراطورية, البحر, الثورة, الولايات, اليونان, حديقة, دير, رمسيس, سارة, مجلس</li>
-      <li>VERB: مهتمٌ</li>
+      <li>VERB: الغاية, مهتمٌ</li>
     </ul>
   </li>
 </ul>
@@ -337,10 +314,11 @@ employ ten-fold cross-validation.
     <ul>
       <li>ADJ: الأول, الخاصة, المتحدة, الثاني, الأولى, الجديدة, البريطانية, الثالث, الأمريكية, الشمالية</li>
       <li>ADJ-Part: الخاصة, الخاص, التابعة, المرتبط, الموجودة, الواردة, الواقعة, الكامنة, الحائز, الخالية</li>
-      <li>AUX: كون, إلباس, اعتبار, الغاية, جعل, ذكرا</li>
+      <li>AUX: كون</li>
       <li>NOUN: عام, الوقت, اسم, العديد, القرن, الأمر, العالم, النسبة, الكثير, المنطقة</li>
       <li>NOUN-Part: الضاربة, الظاهر, المؤرخة, المتبقيين, المتجهة, المجموع, المدربين, المرغوب, المسببة, المستخلصة</li>
       <li>PROPN: البحر, الولايات, الاتحاد, مجلس, نهر, الإمبراطورية, الحرب, المحيط, المملكة, بحر</li>
+      <li>VERB: إلباس, اعتبار, الغاية, جعل, ذكرا</li>
     </ul>
   </li>
 </ul>
@@ -350,11 +328,10 @@ employ ten-fold cross-validation.
     <ul>
       <li>ADJ: أكثر, كبيرة, أخرى, أول, أكبر, إسترليني, جديدة, كبير, كبيراً, آخر</li>
       <li>ADJ-Part: قائلاً, خاصة, قائلةً, أشبه, تابعة, حاملاً, خاصٌ, شاملة, طالباً, قادراً</li>
-      <li>AUX: انتقادات</li>
       <li>NOUN: شكلٍ, جنيه, مرة, شكل, دولار, وقتٍ, سنوات, عاماً, فترة, وفقاً</li>
       <li>NOUN-Part: مرتدية, مشيداً, مكوناً, منافٍ, منحوتاً, منخرطة, موالون, يافعاً</li>
       <li>PROPN: أرض, أشياء, إمبراطورة, ابن, بيانو, تأسيس, جائزة, جزيرة, رأس, عاماً</li>
-      <li>VERB: أملاً, مهتمٌ</li>
+      <li>VERB: أملاً, انتقادات, مهتمٌ</li>
     </ul>
   </li>
 </ul>
@@ -387,9 +364,9 @@ employ ten-fold cross-validation.
   <li>Imp
     <ul>
       <li>ADJ: أفضل</li>
-      <li>AUX: يكون, تكون, تصبح, تعد, تكن, يصبح, يعد, يزال, تبدو, تبقى</li>
+      <li>AUX: يكون, تكن, تكون, يكن, أكن, ليست</li>
       <li>NOUN: أسمي, ألعب, تبني</li>
-      <li>VERB: يمكن, يكون, تكون, يكن, يقول, تظهر, تقول, يعمل, تضم, يعود</li>
+      <li>VERB: يمكن, يكون, يكن, تكون, يقول, تظهر, تقول, يعمل, تضم, يعود</li>
     </ul>
   </li>
 </ul>
@@ -398,9 +375,9 @@ employ ten-fold cross-validation.
   <li>Perf
     <ul>
       <li>ADJ: أحدث, آمن, ألحقا, سافر, عادل</li>
-      <li>AUX: كان, كانت, أصبح, باتت, أصبحت, كنت, بات, جعل, كانوا, ليس</li>
+      <li>AUX: كان, كانت, كانوا, كنت, ليس, كنا, ليست</li>
       <li>NOUN: وضع, عمل, تبعت, حكم, دار, درس, زحف, أعما, ألف, أملت</li>
-      <li>VERB: كان, كانت, قال, تم, بدأت, قالت, كانوا, بدأ, أدى, بات</li>
+      <li>VERB: كان, قال, كانت, تم, بدأت, قالت, بدأ, بات, أصبح, أدى</li>
     </ul>
   </li>
 </ul>
@@ -421,9 +398,9 @@ employ ten-fold cross-validation.
   <li>Ind
     <ul>
       <li>ADJ: أفضل</li>
-      <li>AUX: يكون, تعد, تكون, يزال, يعد, تبدو, تصبح, تعتبر, يجعل, يحصد</li>
+      <li>AUX: يكون, تكون</li>
       <li>NOUN: أسمي</li>
-      <li>VERB: يمكن, يقول, تكون, يكون, تقول, يعمل, تضم, يبدو, تبدأ, تبلغ</li>
+      <li>VERB: يمكن, يقول, يكون, تقول, يعمل, تضم, تكون, يبدو, تبدأ, تبلغ</li>
     </ul>
   </li>
 </ul>
@@ -431,8 +408,8 @@ employ ten-fold cross-validation.
 <ul>
   <li>Jus
     <ul>
-      <li>AUX: تكن, تعد, يعد, يكن</li>
-      <li>VERB: يكن, تكن, تظهر, تعد, تلق, يتخذ, أعجب, أعرف, أكن, تتجاوز</li>
+      <li>AUX: تكن, يكن, أكن</li>
+      <li>VERB: يكن, تعد, تظهر, تلق, يتخذ, أعجب, أعرف, تتجاوز, تتعرض, تحقق</li>
     </ul>
   </li>
 </ul>
@@ -440,9 +417,9 @@ employ ten-fold cross-validation.
 <ul>
   <li>Sub
     <ul>
-      <li>AUX: يكون, تصبح, تكون, يصبح, تبقى</li>
+      <li>AUX: يكون, تكون</li>
       <li>NOUN: ألعب, تبني</li>
-      <li>VERB: يكون, تكون, توفر, يبدأ, يعود, يعيش, أهنئ, تؤثر, تؤدي, تؤول</li>
+      <li>VERB: يكون, تصبح, تكون, تبقى, توفر, يبدأ, يصبح, يعود, يعيش, أهنئ</li>
     </ul>
   </li>
 </ul>
@@ -464,9 +441,9 @@ employ ten-fold cross-validation.
   <li>Past
     <ul>
       <li>ADJ: أحدث, آمن, ألحقا, سافر, عادل</li>
-      <li>AUX: كان, كانت, أصبح, باتت, أصبحت, تكن, كنت, بات, جعل, كانوا</li>
+      <li>AUX: كان, كانت, كانوا, تكن, كنت, ليس, يكن, أكن, كنا, ليست</li>
       <li>NOUN: وضع, عمل, تبعت, حكم, دار, درس, زحف, أعما, ألف, أملت</li>
-      <li>VERB: كان, كانت, قال, تم, بدأت, قالت, كانوا, يكن, بدأ, أدى</li>
+      <li>VERB: كان, قال, كانت, تم, بدأت, قالت, بدأ, يكن, بات, أصبح</li>
     </ul>
   </li>
 </ul>
@@ -475,9 +452,9 @@ employ ten-fold cross-validation.
   <li>Pres
     <ul>
       <li>ADJ: أفضل</li>
-      <li>AUX: يكون, تكون, تصبح, تعد, يصبح, يزال, يعد, تبدو, تبقى, تعتبر</li>
+      <li>AUX: يكون, تكون, ليست</li>
       <li>NOUN: أسمي, ألعب, تبني</li>
-      <li>VERB: يمكن, يقول, تقول, يعمل, يكون, تضم, يعود, تبدأ, تظهر, تكون</li>
+      <li>VERB: يمكن, يقول, تقول, يعمل, يكون, تضم, يعود, تبدأ, تظهر, يبدو</li>
     </ul>
   </li>
 </ul>
@@ -491,10 +468,10 @@ employ ten-fold cross-validation.
     <ul>
       <li>ADJ: الخاصة, الخاص, قائلاً, التابعة, المرتبط, الواردة, الواقعة, خاصة, قائلةً, أحدث</li>
       <li>ADJ-Part: الخاصة, الخاص, قائلاً, التابعة, المرتبط, الواردة, الواقعة, خاصة, قائلةً, الكامنة</li>
-      <li>AUX: كان, كانت, يكون, أصبح, باتت, تكون, أصبحت, تصبح, تكن, كنت</li>
+      <li>AUX: كان, كانت, يكون, كانوا, تكن, تكون, كنت, ليس, ليست, يكن</li>
       <li>NOUN: عمل, وضع, تبعت, حكم, دار, زحف, أسمي, أعما, ألعب, ألف</li>
       <li>NOUN-Part: الضاربة, الظاهر, المتبقيين, المتجهة, المنخرطين, الواقع, مرتدية, مزيلةً, مشيداً, منافٍ</li>
-      <li>VERB: كان, كانت, يمكن, قال, يكون, تم, تكون, يكن, بدأت, قالت</li>
+      <li>VERB: يمكن, كان, قال, كانت, يكون, تم, بدأت, قالت, يكن, بدأ</li>
     </ul>
   </li>
 </ul>
@@ -504,10 +481,9 @@ employ ten-fold cross-validation.
     <ul>
       <li>ADJ: الموجودة, موجودة, المتاحة, المذكور, المستخدمة, المستغرق, المسموح, المشتبه, المطبق, المطلوب</li>
       <li>ADJ-Part: الموجودة, المتاحة, المذكور, المستخدمة, المستغرق, المسموح, المشتبه, المطبق, المطلوب, المقدم</li>
-      <li>AUX: تعد, يعد, تعتبر, يدعى</li>
       <li>NOUN: المؤرخة, المجموع, المدربين, المراعي, المرغوب, المسؤول, المسببة, المستخلصة, المسجل, المطبوعة</li>
       <li>NOUN-Part: المؤرخة, المجموع, المدربين, المرغوب, المسببة, المستخلصة, المسجل, مكوناً, منحوتاً, منخرطة</li>
-      <li>VERB: تستخدم, يعتقد, أجريت, أطلق, أعيد, أنشئ, طرحت, يعرف, أعلن, أقيمت</li>
+      <li>VERB: تستخدم, يعتقد, أجريت, أطلق, أعيد, أنشئ, تعد, طرحت, يعرف, أعلن</li>
     </ul>
   </li>
 </ul>
@@ -517,6 +493,17 @@ employ ten-fold cross-validation.
 
 
 
+<ul>
+  <li><a>NumType</a></li>
+</ul>
+
+<ul>
+  <li>Ord
+    <ul>
+      <li>ADJ: عشر, الثالث, الثاني, الرابع, السادس</li>
+    </ul>
+  </li>
+</ul>
 
 
 
@@ -550,10 +537,10 @@ employ ten-fold cross-validation.
   <li>3
     <ul>
       <li>ADJ: أحدث, آمن, ألحقا, سافر, عادل</li>
-      <li>AUX: كان, كانت, يكون, أصبح, باتت, تكون, أصبحت, تصبح, تعد, تكن</li>
+      <li>AUX: كان, كانت, يكون, كانوا, تكن, تكون, ليس, ليست, يكن, أكن</li>
       <li>NOUN: وضع, عمل, تبعت, حكم, دار, درس, زحف, أعما, ألف, أملت</li>
       <li>PRON: ه, ها, هم, هو, هي, هما, هن, التي, ينتور</li>
-      <li>VERB: كان, كانت, يمكن, قال, يكون, تم, تكون, يكن, بدأت, قالت</li>
+      <li>VERB: يمكن, كان, قال, كانت, يكون, تم, بدأت, قالت, يكن, بدأ</li>
     </ul>
   </li>
 </ul>
@@ -569,11 +556,11 @@ employ ten-fold cross-validation.
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 28 lemmas as copulas (<a>cop</a>). Examples: kAn-u_1، >aSobaH_1، bAt-i_1، Ead~-u_1، jaEal-a_1، layosa_1، EAd-u_1، {iEotabar_1، Zal~-a_1، baqiy-a_1، kawon_1، zAl-a_1، $ak~al_1، *ikoraY_1، <ilobAs_1، >aEad~_1، >aEolan_1، HaSad-iu_1، SAr_1، badA-u_1، daEA-u_1، fati}_1، gAyap_1، gadA-u_1، hab~-u_1، waqof_1، {iEotibAr_1، {inotiqAd_1.</li>
+<li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: كَان، لَيس.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 5 lemmas as auxiliaries (<a>aux</a>). Examples: kAn-u_1، lA_1، Zal~-a_1، bAt-i_1، bada>-a_1.</li>
+<li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: كَان.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -583,13 +570,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB--NOUN (9)</li>
-      <li>VERB--NOUN-Acc (65)</li>
+      <li>VERB--NOUN-Acc (64)</li>
       <li>VERB--NOUN-Gen (47)</li>
-      <li>VERB--NOUN-Nom (496)</li>
+      <li>VERB--NOUN-Nom (512)</li>
       <li>VERB--PRON (1)</li>
       <li>VERB--PRON-Acc (56)</li>
-      <li>VERB--PRON-Gen (77)</li>
-      <li>VERB--PRON-Nom (53)</li>
+      <li>VERB--PRON-Gen (79)</li>
+      <li>VERB--PRON-Nom (56)</li>
     </ul>
   </li>
 </ul>
@@ -597,12 +584,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (8)</li>
-      <li>VERB--NOUN-Acc (382)</li>
+      <li>VERB--NOUN (9)</li>
+      <li>VERB--NOUN-Acc (383)</li>
       <li>VERB--NOUN-Gen (34)</li>
       <li>VERB--NOUN-Nom (2)</li>
-      <li>VERB--PRON-Acc (73)</li>
-      <li>VERB--PRON-Gen (20)</li>
+      <li>VERB--PRON-Acc (78)</li>
+      <li>VERB--PRON-Gen (21)</li>
       <li>VERB--PRON-Nom (7)</li>
     </ul>
   </li>
@@ -624,5 +611,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 6 relation subtypes: <a>acl:relcl</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>nsubj:pass</a>, <a>obl:tmod</a></li>
-<li>The following 3 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>reparandum</a></li>
+<li>The following 4 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

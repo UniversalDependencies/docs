@@ -93,22 +93,22 @@ The following 5 pairs of parts of speech are connected with `ccomp:pred`: <tt><a
 12	módon	mód	NOUN	_	Case=Sup|Number=Sing	14	obl	_	_
 13	papíron	papír	NOUN	_	Case=Sup|Number=Sing	14	obl	_	_
 14	kimutatható	kimutatható	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	5	ccomp:pred	_	SpaceAfter=No
-15	:	:	PUNCT	_	_	29	punct	_	_
-16	jövőre	jövőre	ADV	_	_	29	advmod:tlocy	_	_
-17	"	"	PUNCT	_	_	29	punct	_	SpaceAfter=No
+15	:	:	PUNCT	_	_	19	punct	_	_
+16	jövőre	jövőre	ADV	_	_	19	advmod:tlocy	_	_
+17	"	"	PUNCT	_	_	19	punct	_	SpaceAfter=No
 18	a	a	DET	_	Definite=Def|PronType=Art	19	det	_	_
-19	jövedelemcentralizáció	jövedelemcentralizáció	NOUN	_	Case=Nom|Number=Sing	29	nsubj	_	orig_deprel=nsubj
-20	1,2	1,2	NUM	_	Case=Nom|Number=Sing|NumType=Frac	21	amod:att	_	_
-21	százalékkal	százalék	NOUN	_	Case=Ins|Number=Sing	19	orphan	_	orig_deprel=nmod:obl|SpaceAfter=No
-22	,	,	PUNCT	_	_	25	punct	_	_
+19	jövedelemcentralizáció	jövedelemcentralizáció	NOUN	_	Case=Nom|Number=Sing	14	parataxis	_	_
+20	1,2	1,2	NUM	_	Case=Nom|Number=Sing|NumType=Frac	21	nummod	_	_
+21	százalékkal	százalék	NOUN	_	Case=Ins|Number=Sing	19	orphan	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	29	punct	_	_
 23	az	az	DET	_	Definite=Def|PronType=Art	24	det	_	_
 24	újraelosztás	újraelosztás	NOUN	_	Case=Nom|Number=Sing	25	nmod:att	_	_
-25	mértéke	mérték	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	19	conj	_	_
-26	pedig	pedig	CCONJ	_	_	29	cc	_	ToDo=cc-after-conj
-27	1,9	1,9	NUM	_	Case=Nom|Number=Sing|NumType=Frac	28	amod:att	_	_
+25	mértéke	mérték	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	29	nsubj	_	_
+26	pedig	pedig	CCONJ	_	_	29	cc	_	_
+27	1,9	1,9	NUM	_	Case=Nom|Number=Sing|NumType=Frac	28	nummod	_	_
 28	százalékkal	százalék	NOUN	_	Case=Ins|Number=Sing	29	obl	_	_
-29	csökken	csökken	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	csubj	_	SpaceAfter=No
-30	"	"	PUNCT	_	_	29	punct	_	SpaceAfter=No
+29	csökken	csökken	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	conj	_	SpaceAfter=No
+30	"	"	PUNCT	_	_	19	punct	_	SpaceAfter=No
 31	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~

@@ -76,7 +76,7 @@ The following 3 pairs of parts of speech are connected with `ccomp`: <tt><a href
 4	ἐξ	ἐκ	ADP	r--------	_	5	case	_	_
 5	οἵων	οἷος	ADJ	a-p---ng-	Case=Gen|Gender=Neut|Number=Plur	11	obl	_	_
 6	τὰ	ὁ	DET	l-p---na-	Case=Acc|Gender=Neut|Number=Plur	7	det	_	_
-7	παρόντ̓	πάρειμι	VERB	v-pppana-	Case=Acc|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	11	advmod	_	_
+7	παρόντ̓	πάρειμι	VERB	v-pppana-	Case=Acc|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	11	advcl	_	_
 8	οἰκείας	οἰκεῖος	ADJ	a-p---fa-	Case=Acc|Gender=Fem|Number=Plur	10	nmod	_	_
 9	εἰς	εἰς	ADP	r--------	_	10	case	_	_
 10	ἄτας	ἄτη	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	11	obl	_	_

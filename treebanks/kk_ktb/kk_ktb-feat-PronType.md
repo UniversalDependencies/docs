@@ -9,20 +9,20 @@ udver: '2'
 This feature is universal.
 It occurs with 7 different values: `Dem`, `Ind`, `Int`, `Neg`, `Prs`, `Rcp`, `Tot`.
 
-744 tokens (7%) have a non-empty value of `PronType`.
+746 tokens (7%) have a non-empty value of `PronType`.
 213 types (5%) occur at least once with a non-empty value of `PronType`.
-63 lemmas (3%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 4 part-of-speech tags: <tt><a href="kk_ktb-pos-PRON.html">PRON</a></tt> (492; 5% instances), <tt><a href="kk_ktb-pos-DET.html">DET</a></tt> (219; 2% instances), <tt><a href="kk_ktb-pos-ADV.html">ADV</a></tt> (32; 0% instances), <tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+64 lemmas (3%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 4 part-of-speech tags: <tt><a href="kk_ktb-pos-PRON.html">PRON</a></tt> (493; 5% instances), <tt><a href="kk_ktb-pos-DET.html">DET</a></tt> (220; 2% instances), <tt><a href="kk_ktb-pos-ADV.html">ADV</a></tt> (32; 0% instances), <tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 ### `PRON`
 
-492 <tt><a href="kk_ktb-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+493 <tt><a href="kk_ktb-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="kk_ktb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (252; 51%), <tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (252; 51%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (253; 51%), <tt><a href="kk_ktb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (252; 51%).
 
 `PRON` tokens may have the following values of `PronType`:
 
-* `Dem` (122; 25% of non-empty `PronType`): <em>бұл, ол, мұнда, одан, оны, соның, мұның, олай, оған, бұ</em>
+* `Dem` (123; 25% of non-empty `PronType`): <em>бұл, ол, мұнда, одан, оны, содан, соның, мұның, олай, оған</em>
 * `Ind` (9; 2% of non-empty `PronType`): <em>біреу, Бірінен, бірдеме, біреуге, біреудің, нәрсе, Әрбіреудің</em>
 * `Int` (60; 12% of non-empty `PronType`): <em>не, кім, қандай, қанша, немене, кімге, Кімді, Неліктен, Неміз, кіммен</em>
 * `Neg` (15; 3% of non-empty `PronType`): <em>ешкім, Ешкімді, ешкімге, ешқандай, Ештеңе, еш нәрсені</em>
@@ -48,15 +48,15 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
   <tr><td><tt><tt><a href="kk_ktb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="kk_ktb-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur,Sing</tt>|<tt><a href="kk_ktb-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>Онысы</em></td></tr>
 </table>
 
-`PronType` seems to be **lexical feature** of `PRON`. 97% lemmas (34) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `PRON`. 97% lemmas (35) occur only with one value of `PronType`.
 
 ### `DET`
 
-219 <tt><a href="kk_ktb-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+220 <tt><a href="kk_ktb-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Dem` (111; 51% of non-empty `PronType`): <em>осы, бұл, ол, сол, мына, бұ, мұндай, манағы, Анау, Мұнша</em>
+* `Dem` (112; 51% of non-empty `PronType`): <em>осы, бұл, ол, сол, мына, бұ, мұндай, манағы, Анау, Мұнша</em>
 * `Ind` (31; 14% of non-empty `PronType`): <em>бір, кейбір, сондай, Кей, Осындай, басқа, түрлі, Әлдебір</em>
 * `Int` (15; 7% of non-empty `PronType`): <em>қай, не, қандай</em>
 * `Neg` (5; 2% of non-empty `PronType`): <em>ешқандай, ешбір</em>
@@ -77,7 +77,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 `ADV` tokens may have the following values of `PronType`:
 
 * `Int` (32; 100% of non-empty `PronType`): <em>қайда, қайдан, қалай, қашан, неге, неліктен, қашанғы</em>
-* `EMPTY` (271): <em>да, де, бүгін, енді, тағы, ғана, қазір, өте, тек, қайта</em>
+* `EMPTY` (272): <em>да, де, бүгін, енді, тағы, ғана, қазір, өте, тек, қайта</em>
 
 ### `ADJ`
 

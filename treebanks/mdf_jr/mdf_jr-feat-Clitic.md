@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 5 different values: `AddGA`, `AddKige`, `AddNgA`, `AddVok`, `I`.
 
-22 tokens (1%) have a non-empty value of `Clitic`.
-21 types (1%) occur at least once with a non-empty value of `Clitic`.
-21 lemmas (2%) occur at least once with a non-empty value of `Clitic`.
-The feature is used with 7 part-of-speech tags: <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+23 tokens (1%) have a non-empty value of `Clitic`.
+22 types (1%) occur at least once with a non-empty value of `Clitic`.
+22 lemmas (2%) occur at least once with a non-empty value of `Clitic`.
+The feature is used with 7 part-of-speech tags: <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -27,13 +27,13 @@ The most frequent other feature values with which `NOUN` and `Clitic` co-occurre
 
 ### `PRON`
 
-5 <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> tokens (3% of all `PRON` tokens) have a non-empty value of `Clitic`.
+6 <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> tokens (3% of all `PRON` tokens) have a non-empty value of `Clitic`.
 
-The most frequent other feature values with which `PRON` and `Clitic` co-occurred: <tt><a href="mdf_jr-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (4; 80%), <tt><a href="mdf_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (4; 80%), <tt><a href="mdf_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 80%), <tt><a href="mdf_jr-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (4; 80%).
+The most frequent other feature values with which `PRON` and `Clitic` co-occurred: <tt><a href="mdf_jr-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (5; 83%), <tt><a href="mdf_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (5; 83%), <tt><a href="mdf_jr-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (5; 83%), <tt><a href="mdf_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 67%).
 
 `PRON` tokens may have the following values of `Clitic`:
 
-* `AddGA` (5; 100% of non-empty `Clitic`): <em>моньге, сонцьке, сятка, тонга, тонцьке</em>
+* `AddGA` (6; 100% of non-empty `Clitic`): <em>моньге, синьге, сонцьке, сятка, тонга, тонцьке</em>
 
 ### `ADV`
 
@@ -82,9 +82,7 @@ The most frequent other feature values with which `AUX` and `Clitic` co-occurred
 
 ### `SCONJ`
 
-1 <tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> tokens (6% of all `SCONJ` tokens) have a non-empty value of `Clitic`.
-
-The most frequent other feature values with which `SCONJ` and `Clitic` co-occurred: <tt><a href="mdf_jr-feat-Style.html">Style</a></tt><tt>=EMPTY</tt> (1; 100%).
+1 <tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> tokens (5% of all `SCONJ` tokens) have a non-empty value of `Clitic`.
 
 `SCONJ` tokens may have the following values of `Clitic`:
 

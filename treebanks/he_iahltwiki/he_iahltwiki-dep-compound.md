@@ -43,7 +43,7 @@ The following 27 pairs of parts of speech are connected with `compound`: <tt><a 
 # visual-style 10	fgColor:white
 # visual-style 10 11 compound	color:blue
 1	קריו	קריו	NOUN	NOUN	Gender=Masc|Number=Sing	4	nsubj	_	_
-2	הוא	הוא	PRON	PRON	Gender=Masc|Number=Sing|Person=3|Polarity=Pos	4	cop	_	_
+2	הוא	הוא	PRON	PRON	Gender=Masc|Number=Sing|Person=3|Polarity=Pos|PronType=Prs	4	cop	_	_
 3	ה	ה	DET	DET	Definite=Def|PronType=Art	4	det	_	_
 4	טיפול	טיפול	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	_
 5	ה	ה	DET	DET	Definite=Def|PronType=Art	6	det	_	_

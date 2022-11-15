@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Tupinamba-TuDeT: POS Tags: `SCONJ`
 
 There are 4 `SCONJ` lemmas (0%), 6 `SCONJ` types (0%) and 7 `SCONJ` tokens (0%).
-Out of 15 observed tags, the rank of `SCONJ` is: 14 in number of lemmas, 13 in number of types and 13 in number of tokens.
+Out of 14 observed tags, the rank of `SCONJ` is: 13 in number of lemmas, 12 in number of types and 12 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>janone, jaβe, jepe, jepemo</em>
 
@@ -21,17 +21,17 @@ The 10 most frequent ambiguous types:  <em>janone</em> (<tt><a href="tpn_tudet-p
 * <em>janone</em>
   * <tt><a href="tpn_tudet-pos-ADP.html">ADP</a></tt> 7: <em>Oker <b>janone</b> , opakawerɨpe , oka swi osema βe</em>
   * <tt><a href="tpn_tudet-pos-SCONJ.html">SCONJ</a></tt> 2: <em>Aβa rokɨpe erekwa , ta , jemimɨ <b>janone</b> ?</em>
-  * <tt><a href="tpn_tudet-pos-ADV.html">ADV</a></tt> 1: <em>Ikó aβa arur ike okarɨpe senosema , tapejkwaβ sekopwera amõ iʃe sekara jepe , ijukaukar <b>janone</b> wijaβo eʔi</em>
+  * <tt><a href="tpn_tudet-pos-ADV.html">ADV</a></tt> 1: <em>iko aβa arur ike okarɨpe senosema , tapejkwaβ sekopwera amõ ise sekara jepe , ijukaukar <b>janone</b> wijaβo eʔi</em>
 * <em>jepe</em>
   * <tt><a href="tpn_tudet-pos-PRON.html">PRON</a></tt> 8: <em>Erĩ , awje . ʃemoorɨkatu <b>jepe</b> , inã teko momewaβo .</em>
   * <tt><a href="tpn_tudet-pos-PART.html">PART</a></tt> 2: <em>Owata <b>jepe</b> serã ijɨβamokõja itapɨwa soarama rese ?</em>
-  * <tt><a href="tpn_tudet-pos-ADV.html">ADV</a></tt> 1: <em>Ikó aβa arur ike okarɨpe senosema , tapejkwaβ sekopwera amõ iʃe sekara <b>jepe</b> , ijukaukar janone wijaβo eʔi</em>
-  * <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> 1: <em>Karaiβeβe ʃeraroã ʃepeʔa <b>jepe</b> maʔeaiβa swi kori Tupã remimomotara rupi ʃemoingoβo , eʔi</em>
-  * <tt><a href="tpn_tudet-pos-SCONJ.html">SCONJ</a></tt> 1: <em>Sesemõ <b>jepe</b> , teʔõ reroβɨka e , ʃeaŋaipa tuβiʃawera amosene eʔi jẽ .</em>
+  * <tt><a href="tpn_tudet-pos-ADV.html">ADV</a></tt> 1: <em>iko aβa arur ike okarɨpe senosema , tapejkwaβ sekopwera amõ ise sekara <b>jepe</b> , ijukaukar janone wijaβo eʔi</em>
+  * <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> 1: <em>Karaiβeβe ʃeraroã ʃepeʔa <b>jepe</b> maʔeaiβa swi kori Tupã remimomotara rupi ʃemoiŋoβo , eʔi</em>
+  * <tt><a href="tpn_tudet-pos-SCONJ.html">SCONJ</a></tt> 1: <em>Sesemõ <b>jepe</b> , teʔõ reroβɨka e , ʃeaŋaipa tuβisawera amosene eʔi jẽ .</em>
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.500000 (the average of all parts of speech is 1.435484).
+The form / lemma ratio of `SCONJ` is 1.500000 (the average of all parts of speech is 1.577170).
 
 The 1st highest number of forms (2) was observed with the lemma “jaβe”: <em>ijaβe, jaβepe</em>.
 

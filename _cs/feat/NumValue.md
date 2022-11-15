@@ -47,4 +47,4 @@ to mark these numerals.
 #### Examples
 
 * _tři_ “three”, _čtyři_ “four”
-<!-- Interlanguage links updated So kvě 14 19:02:28 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:52 CET 2022 -->

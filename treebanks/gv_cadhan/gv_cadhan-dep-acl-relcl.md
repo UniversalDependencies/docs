@@ -17,49 +17,50 @@ The following 3 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
-# visual-style 10 11 acl:relcl	color:blue
-1	Un	un	NUM	_	_	2	nummod	_	_
-2	chaa	caa	NOUN	_	Form=Len	0	root	_	_
-3	keyl	keyl	ADJ	_	_	2	amod	_	_
-4	–	–	PUNCT	_	_	5	punct	_	_
-5	tayrtyn	tayrtyn	NOUN	_	_	2	parataxis	_	_
-6	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	5	obj	_	_
-7	lesh	lesh	ADP	_	_	8	case	_	_
-8	ooilley	ooilley	NOUN	_	_	6	nmod	_	_
-9	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	10	det	_	_
-10	druggaghyn	druggey	NOUN	_	_	8	nmod	_	_
-11	v'	bee	VERB	_	Form=Len|Mood=Ind|Tense=Past	10	acl:relcl	_	_
-12	ec	ec	ADP	_	_	13	case	_	_
-13	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	11	xcomp:pred	_	_
-14	.	.	PUNCT	_	_	2	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 10 acl:relcl	color:blue
+1	Dennee	ennee	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
+2	mee	mee	PRON	_	Number=Sing|Person=1	1	nsubj	_	_
+3	my	my	DET	_	Number=Sing|Person=1|Poss=Yes	4	nmod:poss	_	_
+4	aegid	aegid	NOUN	_	_	1	obj	_	_
+5	er	er	ADP	_	_	6	case	_	_
+6	coontey	coontey	NOUN	_	_	1	obl	_	_
+7	'n	yn	DET	_	Definite=Def|Number=Sing|PronType=Art	8	det	_	_
+8	veggan	beggan	NOUN	_	Form=Len	6	nmod	_	_
+9	cooinaghtyn	cooinaghtyn	NOUN	_	_	8	nmod	_	_
+10	v'	bee	VERB	_	Form=Len|Mood=Ind|Tense=Past	8	acl:relcl	_	_
+11	ec	ec	ADP	_	_	12	case	_	_
+12	mee	mee	PRON	_	Number=Sing|Person=1	10	xcomp:pred	_	_
+13	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 10 acl:relcl	color:blue
-1	Agh	agh	CCONJ	_	_	3	cc	_	_
-2	my	my	SCONJ	_	_	3	mark	_	_
-3	va	bee	VERB	_	Form=Len|Mood=Ind|Tense=Past	9	advcl	_	_
-4	Marika	Marika	PROPN	_	_	3	nsubj	_	_
-5	er	er	ADP	_	_	7	case	_	_
-6	e	e	DET	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes	7	nmod:poss	_	_
-7	beealloo	beealloo	NOUN	_	_	3	xcomp:pred	_	SpaceAfter=No
-8	,	,	PUNCT	_	_	3	punct	_	_
-9	c'raad	c'raad	PRON	_	_	0	root	_	_
-10	va	bee	VERB	_	Form=Len|Mood=Ind|Tense=Past	9	acl:relcl	_	_
-11	Dooinney	dooinney	NOUN	_	_	10	nsubj	_	_
-12	ny	yn	DET	_	Case=Gen|Definite=Def|Number=Sing|PronType=Art	13	det	_	_
-13	Faasaag	faasaag	NOUN	_	_	11	nmod	_	SpaceAfter=No
-14	?	?	PUNCT	_	_	9	punct	_	_
+# visual-style 10 12 acl:relcl	color:blue
+1	As	as	CCONJ	_	_	2	cc	_	_
+2	jir	abbyr	VERB	_	Mood=Ind|Tense=Fut	0	root	_	_
+3	fer	fer	NOUN	_	_	2	nsubj	_	_
+4	rish	rish	ADP	_	_	5	case	_	_
+5	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	2	obl	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	Cre	cre	PRON	_	_	2	parataxis	_	_
+8	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	9	det	_	_
+9	lhottyn	lhott	NOUN	_	_	7	nmod	_	_
+10	ad	ad	PRON	_	Number=Plur|Person=3	7	nsubj	_	_
+11	shoh	shoh	DET	_	_	10	det	_	_
+12	t'	bee	VERB	_	Mood=Ind|Tense=Pres	10	acl:relcl	_	_
+13	ayns	ayns	ADP	_	_	15	case	_	_
+14	dty	dty	DET	_	Number=Sing|Person=2|Poss=Yes	15	nmod:poss	_	_
+15	laueyn	laue	NOUN	_	_	12	xcomp:pred	_	SpaceAfter=No
+16	?	?	PUNCT	_	_	2	punct	_	_
 
 ~~~
 

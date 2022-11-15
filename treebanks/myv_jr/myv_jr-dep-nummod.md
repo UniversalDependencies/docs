@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-126 nodes (1%) are attached to their parents as `nummod`.
+135 nodes (1%) are attached to their parents as `nummod`.
 
-126 instances of `nummod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.16666666666667.
+135 instances of `nummod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.17777777777778.
 
-The following 6 pairs of parts of speech are connected with `nummod`: <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (121; 96% instances), <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt>-<tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `nummod`: <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (129; 96% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt>-<tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -29,6 +29,22 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 5	полкт	полк	NOUN	N	Case=Nom|Definite=Ind|Number=Plur	6	nsubj	_	GTtags=Sem/Plc,Pl,Nom,Indef
 6	калавтсть	калавтомс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|Valency=2	0	root	_	GTtags=TV,Ind,Prt1,ScPl3|SpaceAfter=No
 7	.	.	PUNCT	CLB	_	6	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 1 nummod	color:blue
+1	Кавонстонь-кавонстонь	кавонстонь-кавонстонь	NUM	_	_	4	nummod	_	CGdephead=#1-&gt;1|CGdeprel=@X|GTtags=?
+2	лембе	лембе	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	3	amod	_	CGdephead=#2-&gt;3|CGdeprel=@&gt;N|GTtags=Sg,Nom,Indef
+3	пракстат	пракста	NOUN	N	Case=Nom|Definite=Ind|Number=Plur	4	nsubj	_	CGdephead=#3-&gt;3|CGdeprel=@SUBJ&gt;|GTtags=Pl,Nom,Indef
+4	эрявольть	эрявомс	VERB	V	Mood=Sub|Number[subj]=Plur|Person[subj]=3|Valency=1	0	root	_	CGdephead=#4-&gt;4|CGdeprel=@FMV|GTtags=IV,Conj,ScPl3
+5	бу	бу	AUX	Pcle	Mood=Sub|VerbType=Aux	4	aux:cnd	_	CGdephead=#5-&gt;5|CGdeprel=@X|GTtags=Aux,Conj|SpaceAfter=No
+6	.	.	PUNCT	CLB	_	4	punct	_	CGdephead=#6-&gt;6|CGdeprel=@CLB|GTtags=CLB
 
 ~~~
 
@@ -50,33 +66,6 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 9	мерсь	меремс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=2	3	parataxis	_	GTtags=TV,Ind,Prt1,ScSg3
 10	камандирэсь	командир	NOUN	N	Case=Nom|Definite=Def|Number=Sing	9	nsubj	_	GTtags=Dial,Sg,Nom,Def|SpaceAfter=No
 11	.	.	PUNCT	CLB	_	3	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 nummod	color:blue
-1	Таркась	тарка	NOUN	N	Case=Nom|Definite=Def|Number=Sing	2	nsubj:cop	_	GTtags=Sem/Inanim_Cnt,Sg,Nom,Def
-2	кочказель	кочкамс	VERB	V	Derivation=Ozj|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Conv	0	root	_	GTtags=Der/Озь,Prt2,ScSg3
-3	ёнсто	ён	ADV	Adv	Derivation=AdvstO	2	advmod	_	GTtags=Der/A_стО,Adv|SpaceAfter=No
-4	:	:	PUNCT	CLB	_	9	punct	_	_
-5	ве	ве	NUM	Num	NumType=Card	6	nummod	_	GTtags=Card,Adn
-6	пельде	пельде	ADV	Adv	AdvType=Loc	9	obl	_	GTtags=Spat
-7	велесь	веле	NOUN	N	Case=Nom|Definite=Def|Number=Sing	9	nsubj	_	GTtags=Sg,Nom,Def
-8	а	а	AUX	Pcle	Polarity=Neg	9	aux:neg	_	GTtags=Neg
-9	неяви	неявомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	2	conj	_	GTtags=Der/ОвОмс,IV,Ind,Prs,ScSg3
-10	киненьгак	кияк	PRON	Pron	Case=Dat|Number=Plur,Sing|PronType=Ind	9	obl:agent	_	GTtags=Indef,SP,Dat
-11	семс	семс	ADV	Adv	AdvType=Tim	9	advmod:tmod	_	GTtags=Sem/Time|SpaceAfter=No
-12	,	,	PUNCT	CLB	_	15	punct	_	_
-13	зярс	зярс	ADV	Adv	AdvType=Tim|Case=Ill	15	mark	_	GTtags=Der/Ill,Adv,Sem/Time
-14	а	а	AUX	Pcle	Polarity=Neg	15	aux:neg	_	GTtags=Neg
-15	эртеват	эртевемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres|Valency=1	11	advcl	_	GTtags=Der/ОвОмс,IV,Ind,Prs,ScSg2
-16	эйзэнзэ	эйс	ADP	Adp	Case=Ill|Number[psor]=Sing|Person[psor]=3	15	obl	_	GTtags=Ill,PxSg3|SpaceAfter=No
-17	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~
 

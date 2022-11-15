@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Daniel Zeman, Bjartur Mortensen, Francis Tyers.
 
 Repository: [UD_Faroese-OFT](https://github.com/UniversalDependencies/UD_Faroese-OFT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfo_oft210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfo_oft211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-SA 4.0
 
@@ -91,7 +91,7 @@ year = 2018
 
 ## Relations
 
-[acl](fo_oft-dep-acl.html) – [acl:relcl](fo_oft-dep-acl-relcl.html) – [advcl](fo_oft-dep-advcl.html) – [advmod](fo_oft-dep-advmod.html) – [amod](fo_oft-dep-amod.html) – [appos](fo_oft-dep-appos.html) – [aux](fo_oft-dep-aux.html) – [aux:pass](fo_oft-dep-aux-pass.html) – [case](fo_oft-dep-case.html) – [cc](fo_oft-dep-cc.html) – [cc:preconj](fo_oft-dep-cc-preconj.html) – [ccomp](fo_oft-dep-ccomp.html) – [compound](fo_oft-dep-compound.html) – [conj](fo_oft-dep-conj.html) – [cop](fo_oft-dep-cop.html) – [csubj](fo_oft-dep-csubj.html) – [dep](fo_oft-dep-dep.html) – [det](fo_oft-dep-det.html) – [discourse](fo_oft-dep-discourse.html) – [expl](fo_oft-dep-expl.html) – [flat](fo_oft-dep-flat.html) – [iobj](fo_oft-dep-iobj.html) – [mark](fo_oft-dep-mark.html) – [nmod](fo_oft-dep-nmod.html) – [nmod:poss](fo_oft-dep-nmod-poss.html) – [nsubj](fo_oft-dep-nsubj.html) – [nsubj:pass](fo_oft-dep-nsubj-pass.html) – [nummod](fo_oft-dep-nummod.html) – [obj](fo_oft-dep-obj.html) – [obl](fo_oft-dep-obl.html) – [orphan](fo_oft-dep-orphan.html) – [parataxis](fo_oft-dep-parataxis.html) – [punct](fo_oft-dep-punct.html) – [root](fo_oft-dep-root.html) – [xcomp](fo_oft-dep-xcomp.html)
+[acl](fo_oft-dep-acl.html) – [acl:relcl](fo_oft-dep-acl-relcl.html) – [advcl](fo_oft-dep-advcl.html) – [advmod](fo_oft-dep-advmod.html) – [amod](fo_oft-dep-amod.html) – [appos](fo_oft-dep-appos.html) – [aux](fo_oft-dep-aux.html) – [aux:pass](fo_oft-dep-aux-pass.html) – [case](fo_oft-dep-case.html) – [cc](fo_oft-dep-cc.html) – [cc:preconj](fo_oft-dep-cc-preconj.html) – [ccomp](fo_oft-dep-ccomp.html) – [compound](fo_oft-dep-compound.html) – [conj](fo_oft-dep-conj.html) – [cop](fo_oft-dep-cop.html) – [csubj](fo_oft-dep-csubj.html) – [dep](fo_oft-dep-dep.html) – [det](fo_oft-dep-det.html) – [discourse](fo_oft-dep-discourse.html) – [expl](fo_oft-dep-expl.html) – [fixed](fo_oft-dep-fixed.html) – [flat](fo_oft-dep-flat.html) – [iobj](fo_oft-dep-iobj.html) – [mark](fo_oft-dep-mark.html) – [nmod](fo_oft-dep-nmod.html) – [nmod:poss](fo_oft-dep-nmod-poss.html) – [nsubj](fo_oft-dep-nsubj.html) – [nsubj:pass](fo_oft-dep-nsubj-pass.html) – [nummod](fo_oft-dep-nummod.html) – [obj](fo_oft-dep-obj.html) – [obl](fo_oft-dep-obl.html) – [orphan](fo_oft-dep-orphan.html) – [parataxis](fo_oft-dep-parataxis.html) – [punct](fo_oft-dep-punct.html) – [root](fo_oft-dep-root.html) – [xcomp](fo_oft-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -141,11 +141,11 @@ year = 2018
 </ul>
 
 <ul>
-<li>This corpus contains 9 lemmas tagged as auxiliaries (AUX): hava, koma, kunna, kunnu, mega, skula, vara, vera, verða</li>
+<li>This corpus contains 6 lemmas tagged as auxiliaries (AUX): hava, kunna, mega, skula, vera, verða</li>
 </ul>
 
 <ul>
-<li>Out of the above, 6 lemmas occurred sometimes as AUX and sometimes as VERB: hava, koma, skula, vara, vera, verða</li>
+<li>Out of the above, 4 lemmas occurred sometimes as AUX and sometimes as VERB: hava, skula, vera, verða</li>
 </ul>
 
 <ul>
@@ -239,12 +239,12 @@ year = 2018
     <ul>
       <li>ADJ: nógv, fleiri, nógvar, mong, Flestu, stórir, aðrar, aðrir, mangir, stór</li>
       <li>ADV: vanliga, størsta, veldiga</li>
-      <li>AUX: eru, vóru, hava, kunnu, skulu, máttu, vórðu, mugu, verða</li>
+      <li>AUX: eru, vóru, hava, kunnu, skulu, máttu, mugu, verða</li>
       <li>DET: allir, Summir, Allar, mínir, síni, Øll</li>
       <li>NOUN: fólk, kommunur, býnum, døgum, ferðir, Føturnir, býir, indiánar, minuttir, muslimar</li>
       <li>PRON: teir, tey, vit, nakrir, Allir, Báðir, Summir, hesir, okkara, okkum</li>
       <li>PROPN: Føroyum, Føroya, Føroyar, Niðurlondum, Niðurlond, Hellurnar</li>
-      <li>VERB: eru, búgva, doyðu, búsettust, búðu, hava, hjálpa, tala, Drívið, Sameindu</li>
+      <li>VERB: eru, búgva, doyðu, búsettust, búðu, hava, hjálpa, tala, vórðu, Drívið</li>
       <li>VERB-Part: Sameindu, flettir, keyptir, nevndar, prentaðir</li>
     </ul>
   </li>
@@ -254,13 +254,13 @@ year = 2018
   <li>Sing
     <ul>
       <li>ADJ: størsti, størsta, stórur, stóran, nógvur, stórt, føroyskur, sama, amerikanska, stór</li>
-      <li>AUX: er, var, varð, verður, hevur, kann, skal, skuldi, havi, hevði</li>
+      <li>AUX: er, var, hevur, verður, varð, kann, skal, skuldi, havi, hevði</li>
       <li>DET: ein, eitt, einum, eina, allan, sínum, øll, allur, eini, sína</li>
       <li>NOUN: býur, høvuðsstaður, býurin, høvuðsstaðurin, kommuna, fólkinum, landslutinum, partur, týdning, Meginparturin</li>
       <li>NUM: ein, tveir, trý, tvær, trimum, tríggjar, tveimum, tvey</li>
       <li>PRON: hon, hann, tað, hetta, hansara, henni, honum, eg, hennara, Hatta</li>
       <li>PROPN: Noregi, Danmark, Kanada, Amerika, Kina, Fraklandi, Italia, Keypmannahavn, New, Nigeria</li>
-      <li>VERB: býr, hevur, liggur, Sí, kom, fer, fór, er, stendur, tók</li>
+      <li>VERB: býr, hevur, kom, liggur, Sí, fer, varð, fór, er, stendur</li>
       <li>VERB-Part: kendastur, samlaða</li>
     </ul>
   </li>
@@ -382,8 +382,8 @@ year = 2018
 <ul>
   <li>Ind
     <ul>
-      <li>AUX: er, eru, var, vóru, varð, verður, hevur, kann, skal, hava</li>
-      <li>VERB: býr, hevur, liggur, kom, eru, fer, fór, er, stendur, tók</li>
+      <li>AUX: er, eru, var, vóru, hevur, verður, varð, kann, skal, hava</li>
+      <li>VERB: býr, hevur, kom, liggur, eru, fer, varð, fór, er, stendur</li>
       <li>VERB-Part: nevndur, Sameindu, fingin, flettir, fluttur, framdur, gjørdur, hóskandi, kendastur, keyptir</li>
     </ul>
   </li>
@@ -404,8 +404,8 @@ year = 2018
 <ul>
   <li>Past
     <ul>
-      <li>AUX: var, vóru, varð, skuldi, máttu, vórðu, hevði, kom</li>
-      <li>VERB: kom, fór, tók, gjørdist, hevði, vann, bleiv, spældi, byrjaði, doyðu</li>
+      <li>AUX: var, vóru, varð, skuldi, máttu, hevði</li>
+      <li>VERB: kom, varð, fór, tók, gjørdist, hevði, vann, bleiv, spældi, byrjaði</li>
       <li>VERB-Part: nevndur, Sameindu, fingin, flettir, fluttur, framdur, gjørdur, kendastur, keyptir, nevndar</li>
     </ul>
   </li>
@@ -414,7 +414,7 @@ year = 2018
 <ul>
   <li>Pres
     <ul>
-      <li>AUX: er, eru, verður, hevur, kann, skal, hava, kunnu, skulu, havi</li>
+      <li>AUX: er, eru, hevur, verður, kann, skal, hava, kunnu, skulu, havi</li>
       <li>VERB: býr, hevur, liggur, eru, fer, er, stendur, eitur, fæst, nevnist</li>
       <li>VERB-Part: hóskandi</li>
     </ul>
@@ -526,9 +526,9 @@ year = 2018
 <ul>
   <li>3
     <ul>
-      <li>AUX: er, var, varð, verður, hevur, kann, skal, kom, varir</li>
+      <li>AUX: er, var, hevur, verður, varð, kann, skal, varir</li>
       <li>PRON: hon, hann, tað, teir, hansara, tey, henni, honum, hennara, hana</li>
-      <li>VERB: býr, hevur, liggur, kom, fer, fór, er, stendur, tók, vann</li>
+      <li>VERB: býr, hevur, kom, liggur, fer, varð, fór, er, stendur, tók</li>
     </ul>
   </li>
 </ul>
@@ -544,11 +544,11 @@ year = 2018
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 3 lemmas as copulas (<a>cop</a>). Examples: vera, verða, vara.</li>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: vera.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 8 lemmas as auxiliaries (<a>aux</a>). Examples: hava, kunna, skula, verða, vera, mega, koma, kunnu.</li>
+<li>This corpus uses 6 lemmas as auxiliaries (<a>aux</a>). Examples: hava, kunna, skula, verða, vera, mega.</li>
 <li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: verða, vera.</li>
 </ul>
 
@@ -561,19 +561,19 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN (1)</li>
       <li>VERB--NOUN-Acc (4)</li>
       <li>VERB--NOUN-Dat (1)</li>
-      <li>VERB--NOUN-Nom (201)</li>
+      <li>VERB--NOUN-Nom (208)</li>
       <li>VERB--NOUN-Nom-ADP(um) (1)</li>
-      <li>VERB--PRON (19)</li>
-      <li>VERB--PRON-Nom (47)</li>
+      <li>VERB--PRON (21)</li>
+      <li>VERB--PRON-Nom (50)</li>
       <li>VERB-Inf--NOUN-Dat (1)</li>
-      <li>VERB-Inf--NOUN-Nom (15)</li>
-      <li>VERB-Inf--PRON (2)</li>
+      <li>VERB-Inf--NOUN-Nom (18)</li>
+      <li>VERB-Inf--PRON (1)</li>
       <li>VERB-Inf--PRON-Nom (3)</li>
       <li>VERB-Part--NOUN-Nom (9)</li>
       <li>VERB-Part--PRON (1)</li>
       <li>VERB-Part--PRON-Nom (2)</li>
       <li>VERB-Sup--NOUN-Nom (30)</li>
-      <li>VERB-Sup--PRON-Nom (14)</li>
+      <li>VERB-Sup--PRON-Nom (15)</li>
     </ul>
   </li>
 </ul>
@@ -595,7 +595,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Acc (6)</li>
       <li>VERB-Inf--PRON-Dat (1)</li>
       <li>VERB-Part--NOUN-Acc (1)</li>
-      <li>VERB-Sup--NOUN-Acc (3)</li>
+      <li>VERB-Sup--NOUN-Acc (4)</li>
       <li>VERB-Sup--NOUN-Dat (2)</li>
       <li>VERB-Sup--NOUN-Nom (2)</li>
       <li>VERB-Sup--PRON (1)</li>
@@ -623,5 +623,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 5 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>nmod:poss</a>, <a>nsubj:pass</a></li>
-<li>The following 7 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>clf</a>, <a>fixed</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>The following 6 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

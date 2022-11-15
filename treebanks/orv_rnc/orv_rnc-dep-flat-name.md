@@ -8,26 +8,33 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="orv_rnc-dep-flat.html">flat</a></tt>.
 
-696 nodes (2%) are attached to their parents as `flat:name`.
+1092 nodes (2%) are attached to their parents as `flat:name`.
 
-696 instances of `flat:name` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.17097701149425.
+1092 instances of `flat:name` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.13186813186813.
 
-The following 6 pairs of parts of speech are connected with `flat:name`: <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (671; 96% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (15; 2% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (4; 1% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `flat:name`: <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (1056; 97% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (19; 2% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (6; 1% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 flat:name	color:blue
-1	Скрѣпа	скрѣпа	NOUN	Animacy[lex]=Inan	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
-2	:	:	PUNCT	_	_	1	punct	_	_
-3	Діакъ	дьякъ	NOUN	Animacy[lex]=Anim	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
-4	Андрей	Андрѣй	PROPN	Animacy[lex]=Anim	Case=Nom|Gender=Masc|Number=Sing	3	appos	_	_
-5	Городецкой	Городецкий	PROPN	Animacy[lex]=Anim	Case=Nom|Gender=Masc|Number=Sing	4	flat:name	_	SpaceAfter=No
-6	.	.	PUNCT	_	_	1	punct	_	_
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 12 flat:name	color:blue
+1	И	и	CCONJ	_	_	5	cc	_	wf="И"|SpaceAfter=Yes
+2	всего	всего	ADV	_	Degree=Pos	3	advmod	_	wf="всего"|SpaceAfter=Yes
+3	меди	мѣдь	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	5	nsubj	_	wf="меди"|SpaceAfter=Yes
+4	23	23	NUM	_	Case=Nom|NumForm=Digit|NumType=Card	5	nummod:gov	_	wf="23"|SpaceAfter=Yes
+5	фунта	фунтъ	NOUN	_	Case=Nom|Gender=Masc|Number=Count	0	root	_	wf="фунта"|SpaceAfter=Yes
+6	3	3	NUM	_	Case=Nom|NumForm=Digit|NumType=Card	7	nummod:gov	_	wf="3"|SpaceAfter=Yes
+7	чети	четь	NOUN	_	Case=Nom|Gender=Fem|Number=Count	5	nmod	_	wf="чети"|SpaceAfter=No
+8	,	,	PUNCT	_	_	10	punct	_	wf=","|SpaceAfter=Yes
+9	оприч(ь)	опричь	ADP	_	_	10	case	_	wf="опричь"|SpaceAfter=Yes
+10	блюда	блюдо	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	wf="блюда"|SpaceAfter=Yes
+11	Федора	Федоръ	PROPN	_	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	10	nmod	_	wf="Федора"|SpaceAfter=Yes
+12	Ил(ь)ича	Ильичь	PROPN	_	Case=Gen|Gender=Masc|NameType=Pat|Number=Sing	11	flat:name	_	wf="Ильича"|SpaceAfter=No
+13	.	.	PUNCT	_	_	5	punct	_	wf="."|SpaceAfter=No
 
 ~~~
 
@@ -38,19 +45,20 @@ The following 6 pairs of parts of speech are connected with `flat:name`: <tt><a 
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 13 flat:name	color:blue
-1	Сентября	сентябрь	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	5	obl	_	Norm=Сентября
-2	въ	въ	ADP	_	_	4	case	_	Norm=въ
-3	З	3	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|NumForm=Digit	4	amod	_	Norm=3
-4	де	день	NOUN	_	Abbr=Yes	1	nmod	_	Norm=де
-5	подал	подати	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	Norm=подал
-6	грамотку	грамотка	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	Norm=грамотку
-7	Иванова	ивановъ	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Poss=Yes|Variant=Short	8	amod	_	Norm=Иванова
-8	приказу	приказъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	Norm=приказу
-9	Елагина	Елагинъ	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	Norm=Елагина
-10	стрелец	стрѣлецъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	Norm=стрелец
-11	Захарко	Захарко	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	10	appos	_	Norm=Захарко
-12	Ѡндреевъ	Ондрѣевъ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	11	flat:name	_	Norm=Ѡндреевъ
-13	снъ	сынъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	11	flat:name	_	Norm=снъ
+1	Тово	тотъ	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	3	det	_	wf="Тово"|SpaceAfter=Yes
+2	ж	же	PART	_	_	1	advmod	_	wf="ж"|SpaceAfter=Yes
+3	числа	число	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	4	nsubj	_	wf="числа"|SpaceAfter=Yes
+4	отослано	отослати	VERB	_	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	wf="отослано"|SpaceAfter=Yes
+5	з	съ	ADP	_	_	6	case	_	wf="з"|SpaceAfter=Yes
+6	Григор(ь)ем	Григорей	PROPN	_	Case=Ins|Gender=Masc|NameType=Giv|Number=Sing	4	obl	_	wf="Григорьем"|SpaceAfter=Yes
+7	Матвеевым	Матвѣевъ	PROPN	_	Case=Ins|Gender=Masc|NameType=Sur|Number=Sing	6	flat:name	_	wf="Матвеевым"|SpaceAfter=Yes
+8	ко	къ	ADP	_	_	9	case	_	wf="ко"|SpaceAfter=Yes
+9	отцу	отецъ	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	obl	_	wf="отцу"|SpaceAfter=Yes
+10	д(у)ховному	духовный	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	wf="духовному"|SpaceAfter=Yes
+11	Ил(ь)и	Илья	PROPN	_	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	9	appos	_	wf="Ильи"|SpaceAfter=Yes
+12	Аврамьевича	Аврамьевичь	PROPN	_	Case=Gen|Gender=Masc|NameType=Pat|Number=Sing	11	flat:name	_	wf="Аврамьевича"|SpaceAfter=Yes
+13	баран	баранъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	11	flat:name	_	wf="баран"|SpaceAfter=No
+14	.	.	PUNCT	_	_	4	punct	_	wf="."|SpaceAfter=No
 
 ~~~
 

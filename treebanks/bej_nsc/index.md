@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.8 release.
 The following people have contributed to making this treebank part of UD: Martine Vanhove, Rayan Ziane, Sylvain Kahane, Bruno Guillaume.
 
 Repository: [UD_Beja-NSC](https://github.com/UniversalDependencies/UD_Beja-NSC)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbej_nsc210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbej_nsc211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-SA 4.0
 
@@ -29,7 +29,7 @@ Genre: spoken
 Questions, comments?
 General annotation questions (either Beja-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Beja-NSC/issues).
-If you want to collaborate, please contact [Martine&nbsp;•&nbsp;VANHOVE&nbsp;(æt)&nbsp;cnrs&nbsp;•&nbsp;fr; sylvain&nbsp;(æt)&nbsp;kahane&nbsp;•&nbsp;fr].
+If you want to collaborate, please contact [martine&nbsp;•&nbsp;vanhove&nbsp;(æt)&nbsp;cnrs&nbsp;•&nbsp;fr; sylvain&nbsp;(æt)&nbsp;kahane&nbsp;•&nbsp;fr].
 Development of the treebank happens outside the UD repository.
 If there are bugs, either the original data source or the conversion procedure must be fixed.
 Do not submit pull requests against the UD repository.

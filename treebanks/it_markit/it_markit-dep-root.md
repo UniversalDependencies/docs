@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1295 nodes (3%) are attached to their parents as `root`.
+1292 nodes (3%) are attached to their parents as `root`.
 
-1295 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.57297297297297.
+1292 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.50541795665635.
 
-The following 9 pairs of parts of speech are connected with `root`: -<tt><a href="it_markit-pos-VERB.html">VERB</a></tt> (592; 46% instances), -<tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt> (507; 39% instances), -<tt><a href="it_markit-pos-ADJ.html">ADJ</a></tt> (81; 6% instances), -<tt><a href="it_markit-pos-PRON.html">PRON</a></tt> (60; 5% instances), -<tt><a href="it_markit-pos-PROPN.html">PROPN</a></tt> (20; 2% instances), -<tt><a href="it_markit-pos-ADV.html">ADV</a></tt> (19; 1% instances), -<tt><a href="it_markit-pos-AUX.html">AUX</a></tt> (7; 1% instances), -<tt><a href="it_markit-pos-DET.html">DET</a></tt> (6; 0% instances), -<tt><a href="it_markit-pos-NUM.html">NUM</a></tt> (3; 0% instances).
+The following 9 pairs of parts of speech are connected with `root`: -<tt><a href="it_markit-pos-VERB.html">VERB</a></tt> (762; 59% instances), -<tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt> (353; 27% instances), -<tt><a href="it_markit-pos-ADJ.html">ADJ</a></tt> (91; 7% instances), -<tt><a href="it_markit-pos-PRON.html">PRON</a></tt> (50; 4% instances), -<tt><a href="it_markit-pos-PROPN.html">PROPN</a></tt> (17; 1% instances), -<tt><a href="it_markit-pos-AUX.html">AUX</a></tt> (7; 1% instances), -<tt><a href="it_markit-pos-DET.html">DET</a></tt> (6; 0% instances), -<tt><a href="it_markit-pos-ADV.html">ADV</a></tt> (5; 0% instances), -<tt><a href="it_markit-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-6486 nodes (28%) are attached to their parents as `case`.
+6489 nodes (28%) are attached to their parents as `case`.
 
-6486 instances of `case` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.15957446808511.
+6489 instances of `case` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.1596548004315.
 
-The following 7 pairs of parts of speech are connected with `case`: <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> (4391; 68% instances), <tt><a href="ja_pudluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> (953; 15% instances), <tt><a href="ja_pudluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> (438; 7% instances), <tt><a href="ja_pudluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> (354; 5% instances), <tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> (231; 4% instances), <tt><a href="ja_pudluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> (83; 1% instances), <tt><a href="ja_pudluw-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> (36; 1% instances).
+The following 7 pairs of parts of speech are connected with `case`: <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> (4391; 68% instances), <tt><a href="ja_pudluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> (956; 15% instances), <tt><a href="ja_pudluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> (438; 7% instances), <tt><a href="ja_pudluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> (354; 5% instances), <tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> (231; 4% instances), <tt><a href="ja_pudluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> (83; 1% instances), <tt><a href="ja_pudluw-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> (36; 1% instances).
 
 
 ~~~ conllu

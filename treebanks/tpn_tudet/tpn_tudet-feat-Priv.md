@@ -9,20 +9,20 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-12 tokens (0%) have a non-empty value of `Priv`.
-12 types (1%) occur at least once with a non-empty value of `Priv`.
-9 lemmas (1%) occur at least once with a non-empty value of `Priv`.
-The feature is used with 2 part-of-speech tags: <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> (8; 0% instances), <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt> (4; 0% instances).
+13 tokens (0%) have a non-empty value of `Priv`.
+13 types (1%) occur at least once with a non-empty value of `Priv`.
+10 lemmas (1%) occur at least once with a non-empty value of `Priv`.
+The feature is used with 2 part-of-speech tags: <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> (9; 0% instances), <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt> (4; 0% instances).
 
 ### `NOUN`
 
-8 <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Priv`.
+9 <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Priv`.
 
-The most frequent other feature values with which `NOUN` and `Priv` co-occurred: <tt><a href="tpn_tudet-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="tpn_tudet-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="tpn_tudet-feat-Rel.html">Rel</a></tt><tt>=EMPTY</tt> (6; 75%).
+The most frequent other feature values with which `NOUN` and `Priv` co-occurred: <tt><a href="tpn_tudet-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="tpn_tudet-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="tpn_tudet-feat-Rel.html">Rel</a></tt><tt>=EMPTY</tt> (6; 67%), <tt><a href="tpn_tudet-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5; 56%).
 
 `NOUN` tokens may have the following values of `Priv`:
 
-* `Yes` (8; 100% of non-empty `Priv`): <em>Aŋajpaβeʔɨmame, ikereʔɨmi, kuwaβeʔɨmamo, maraneʔɨma, potareʔɨmi, sɨkɨijeʔɨma, tureʔɨmawama, ʃemajaneʔɨmete</em>
+* `Yes` (9; 100% of non-empty `Priv`): <em>aŋajpaβeʔɨmame, ikereʔɨmi, kuwaβeʔɨmamo, maraneʔɨma, perawsuβareʔɨma, potareʔɨmi, sɨkɨijeʔɨma, tureʔɨmawama, ʃemajaneʔɨmete</em>
 
 ### `VERB`
 

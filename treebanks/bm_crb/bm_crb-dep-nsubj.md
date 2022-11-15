@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1855 nodes (13%) are attached to their parents as `nsubj`.
+1854 nodes (13%) are attached to their parents as `nsubj`.
 
-1853 instances of `nsubj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.23504043126685.
+1854 instances of `nsubj` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.23570658036677.
 
-The following 9 pairs of parts of speech are connected with `nsubj`: <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-PRON.html">PRON</a></tt> (1228; 66% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> (549; 30% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-PROPN.html">PROPN</a></tt> (64; 3% instances), <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bm_crb-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `nsubj`: <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-PRON.html">PRON</a></tt> (1226; 66% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> (552; 30% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-PROPN.html">PROPN</a></tt> (63; 3% instances), <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bm_crb-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

@@ -43,8 +43,7 @@ The most frequent other feature values with which `ADJ` and `NumForm` co-occurre
 
 The 10 most frequent relations where parent and child node agree in `NumForm`:
 <tt>NUM --[<tt><a href="ro_simonero-dep-conj.html">conj</a></tt>]--> NUM</tt> (366; 99%),
-<tt>NUM --[<tt><a href="ro_simonero-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (108; 89%),
-<tt>NUM --[<tt><a href="ro_simonero-dep-goeswith.html">goeswith</a></tt>]--> NUM</tt> (21; 100%),
+<tt>NUM --[<tt><a href="ro_simonero-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (128; 91%),
 <tt>NUM --[<tt><a href="ro_simonero-dep-parataxis.html">parataxis</a></tt>]--> NUM</tt> (20; 100%),
 <tt>NUM --[<tt><a href="ro_simonero-dep-appos.html">appos</a></tt>]--> NUM</tt> (2; 100%).
 

@@ -13,9 +13,9 @@ The 10 most frequent `X` lemmas: <em>[SYMBOL], hic, hip, hop, in, nunc, primis</
 
 The 10 most frequent `X` types:  <em>%, +, hic, hip, hop, in, nunc, primis</em>
 
-The 10 most frequent ambiguous lemmas: <em>hip</em> (<tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="it_markit-pos-X.html">X</a></tt> 1), <em>hop</em> (<tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="it_markit-pos-X.html">X</a></tt> 1), <em>in</em> (<tt><a href="it_markit-pos-ADP.html">ADP</a></tt> 916, <tt><a href="it_markit-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>hip</em> (<tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="it_markit-pos-X.html">X</a></tt> 1), <em>hop</em> (<tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="it_markit-pos-X.html">X</a></tt> 1), <em>in</em> (<tt><a href="it_markit-pos-ADP.html">ADP</a></tt> 915, <tt><a href="it_markit-pos-X.html">X</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>hip</em> (<tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="it_markit-pos-X.html">X</a></tt> 1), <em>hop</em> (<tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="it_markit-pos-X.html">X</a></tt> 1), <em>in</em> (<tt><a href="it_markit-pos-ADP.html">ADP</a></tt> 858, <tt><a href="it_markit-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>hip</em> (<tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="it_markit-pos-X.html">X</a></tt> 1), <em>hop</em> (<tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="it_markit-pos-X.html">X</a></tt> 1), <em>in</em> (<tt><a href="it_markit-pos-ADP.html">ADP</a></tt> 857, <tt><a href="it_markit-pos-X.html">X</a></tt> 1)
 
 
 * <em>hip</em>
@@ -25,12 +25,12 @@ The 10 most frequent ambiguous types:  <em>hip</em> (<tt><a href="it_markit-pos-
   * <tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt> 1: <em>Di questi tempi è difficile distinguere una canzone da l' altra , tra metal , pop e hip <b>hop</b> in questo periodo nomi da citare che abbiano un certo spessore non ce ne sono .</em>
   * <tt><a href="it_markit-pos-X.html">X</a></tt> 1: <em>Famoso è Eminem , che è stato dapprima criticato e poi premiato come miglior cantante hip <b>hop</b> a gli Mtv Europe Music Awards tenuti si a Stoccolma a la fine di lo scorso anno .</em>
 * <em>in</em>
-  * <tt><a href="it_markit-pos-ADP.html">ADP</a></tt> 858: <em>Questo è un problema che spesso è stato presente <b>in</b> il nostro secolo .</em>
+  * <tt><a href="it_markit-pos-ADP.html">ADP</a></tt> 857: <em>Questo è un problema che spesso è stato presente <b>in</b> il nostro secolo .</em>
   * <tt><a href="it_markit-pos-X.html">X</a></tt> 1: <em>In questa soglia c' è anche una percentuale di progetti militari in via di sperimentazione che le superpotenze , America e Russia <b>in</b> primis , stanno attuando ;</em>
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.142857 (the average of all parts of speech is 1.454015).
+The form / lemma ratio of `X` is 1.142857 (the average of all parts of speech is 1.453995).
 
 The 1st highest number of forms (2) was observed with the lemma “[SYMBOL]”: <em>%, +</em>.
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1254 nodes (1%) are attached to their parents as `nummod`.
+1248 nodes (1%) are attached to their parents as `nummod`.
 
-1037 instances of `nummod` (83%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.00159489633174.
+1044 instances of `nummod` (84%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.95112179487179.
 
-The following 15 pairs of parts of speech are connected with `nummod`: <tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="da_ddt-pos-NUM.html">NUM</a></tt> (1012; 81% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-NUM.html">NUM</a></tt> (86; 7% instances), <tt><a href="da_ddt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="da_ddt-pos-NUM.html">NUM</a></tt> (43; 3% instances), <tt><a href="da_ddt-pos-PRON.html">PRON</a></tt>-<tt><a href="da_ddt-pos-NUM.html">NUM</a></tt> (22; 2% instances), <tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="da_ddt-pos-NUM.html">NUM</a></tt> (21; 2% instances), <tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt> (17; 1% instances), <tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt> (12; 1% instances), <tt><a href="da_ddt-pos-ADV.html">ADV</a></tt>-<tt><a href="da_ddt-pos-NUM.html">NUM</a></tt> (11; 1% instances), <tt><a href="da_ddt-pos-ADP.html">ADP</a></tt>-<tt><a href="da_ddt-pos-NUM.html">NUM</a></tt> (9; 1% instances), <tt><a href="da_ddt-pos-NUM.html">NUM</a></tt>-<tt><a href="da_ddt-pos-NUM.html">NUM</a></tt> (9; 1% instances), <tt><a href="da_ddt-pos-SYM.html">SYM</a></tt>-<tt><a href="da_ddt-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="da_ddt-pos-X.html">X</a></tt>-<tt><a href="da_ddt-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="da_ddt-pos-DET.html">DET</a></tt>-<tt><a href="da_ddt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="da_ddt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `nummod`: <tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="da_ddt-pos-NUM.html">NUM</a></tt> (1031; 83% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-NUM.html">NUM</a></tt> (80; 6% instances), <tt><a href="da_ddt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="da_ddt-pos-NUM.html">NUM</a></tt> (43; 3% instances), <tt><a href="da_ddt-pos-PRON.html">PRON</a></tt>-<tt><a href="da_ddt-pos-NUM.html">NUM</a></tt> (22; 2% instances), <tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="da_ddt-pos-NUM.html">NUM</a></tt> (21; 2% instances), <tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt> (16; 1% instances), <tt><a href="da_ddt-pos-SYM.html">SYM</a></tt>-<tt><a href="da_ddt-pos-NUM.html">NUM</a></tt> (13; 1% instances), <tt><a href="da_ddt-pos-ADV.html">ADV</a></tt>-<tt><a href="da_ddt-pos-NUM.html">NUM</a></tt> (11; 1% instances), <tt><a href="da_ddt-pos-NUM.html">NUM</a></tt>-<tt><a href="da_ddt-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="da_ddt-pos-X.html">X</a></tt>-<tt><a href="da_ddt-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="da_ddt-pos-DET.html">DET</a></tt>-<tt><a href="da_ddt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="da_ddt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="da_ddt-pos-X.html">X</a></tt>-<tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -65,7 +65,7 @@ The following 15 pairs of parts of speech are connected with `nummod`: <tt><a hr
 1	K.	K.	PROPN	_	_	0	root	_	_
 2	J.	J.	PROPN	_	_	1	flat	_	_
 3	Philipsen	Philipsen	PROPN	_	_	1	flat	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	1	punct	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
 5	Hasselvej	Hasselvej	PROPN	_	_	1	list	_	_
 6	6	6	NUM	_	NumType=Card	5	nummod	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	5	punct	_	_

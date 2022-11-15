@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-18628 tokens (8%) have a non-empty value of `Person`.
+18629 tokens (8%) have a non-empty value of `Person`.
 4330 types (17%) occur at least once with a non-empty value of `Person`.
 1336 lemmas (7%) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (12002; 5% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (4196; 2% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (2430; 1% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (12002; 5% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (4197; 2% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (2430; 1% instances).
 
 ### `VERB`
 
@@ -49,15 +49,15 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `AUX`
 
-4196 <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> tokens (83% of all `AUX` tokens) have a non-empty value of `Person`.
+4197 <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> tokens (83% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="pt_bosque-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4105; 98%), <tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3757; 90%), <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3145; 75%), <tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2450; 58%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="pt_bosque-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4106; 98%), <tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3758; 90%), <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3146; 75%), <tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2450; 58%).
 
 `AUX` tokens may have the following values of `Person`:
 
 * `1` (157; 4% of non-empty `Person`): <em>estamos, fui, estou, vamos, somos, sou, vou, tenho, estava, tinha</em>
 * `2` (4; 0% of non-empty `Person`): <em>Sê, vais</em>
-* `3` (4035; 96% of non-empty `Person`): <em>é, foi, são, está, foram, vai, era, será, estão, tem</em>
+* `3` (4036; 96% of non-empty `Person`): <em>é, foi, são, está, foram, vai, era, será, estão, tem</em>
 * `EMPTY` (830): <em>ser, ter, sido, sendo, estar, é, tendo, estando, ir, estado</em>
 
 <table>
@@ -69,7 +69,8 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
   <tr><td><tt><tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Imp</tt>|<tt><a href="pt_bosque-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>era</em></td><td></td><td><em>era</em></td></tr>
   <tr><td><tt><tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="pt_bosque-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>fui</em></td><td></td><td><em>foi, foram</em></td></tr>
   <tr><td><tt><tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Pqp</tt>|<tt><a href="pt_bosque-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>fora</em></td><td></td><td><em>fora</em></td></tr>
-  <tr><td><tt><tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="pt_bosque-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>sou, sô</em></td><td></td><td><em>é, eis, Sou, çe</em></td></tr>
+  <tr><td><tt><tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="pt_bosque-feat-Typo.html">Typo</a></tt><tt>=Yes</tt>|<tt><a href="pt_bosque-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td></td><td><em>çe</em></td></tr>
+  <tr><td><tt><tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="pt_bosque-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>sou, sô</em></td><td></td><td><em>é, eis, Sou</em></td></tr>
   <tr><td><tt><tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="pt_bosque-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>seremos</em></td><td></td><td><em>serão</em></td></tr>
   <tr><td><tt><tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Imp</tt>|<tt><a href="pt_bosque-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td></td><td><em>eram</em></td></tr>
   <tr><td><tt><tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="pt_bosque-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>fomos</em></td><td></td><td><em>foram</em></td></tr>
@@ -98,7 +99,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (316; 13% of non-empty `Person`): <em>eu, me, nos, nós, mim, nosco, si</em>
 * `2` (9; 0% of non-empty `Person`): <em>te, ti, vos, vós</em>
 * `3` (2105; 87% of non-empty `Person`): <em>se, ele, lhe, o, eles, ela, a, elas, você, lo</em>
-* `EMPTY` (5038): <em>que, o, se, isso, onde, quem, tudo, os, isto, nada</em>
+* `EMPTY` (5036): <em>que, o, se, isso, onde, quem, tudo, os, isto, nada</em>
 
 <table>
   <tr><th>Paradigm <i>nós</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
@@ -117,13 +118,13 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="pt_bosque-dep-conj.html">conj</a></tt>]--> VERB</tt> (803; 74%),
-<tt>VERB --[<tt><a href="pt_bosque-dep-expl.html">expl</a></tt>]--> PRON</tt> (738; 76%),
+<tt>VERB --[<tt><a href="pt_bosque-dep-expl.html">expl</a></tt>]--> PRON</tt> (737; 76%),
 <tt>VERB --[<tt><a href="pt_bosque-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (560; 53%),
 <tt>VERB --[<tt><a href="pt_bosque-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (195; 60%),
 <tt>AUX --[<tt><a href="pt_bosque-dep-conj.html">conj</a></tt>]--> VERB</tt> (5; 100%),
 <tt>VERB --[<tt><a href="pt_bosque-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (5; 56%),
 <tt>PRON --[<tt><a href="pt_bosque-dep-conj.html">conj</a></tt>]--> PRON</tt> (4; 67%),
+<tt>VERB --[<tt><a href="pt_bosque-dep-expl-pass.html">expl:pass</a></tt>]--> PRON</tt> (3; 75%),
 <tt>VERB --[<tt><a href="pt_bosque-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (2; 100%),
-<tt>VERB --[<tt><a href="pt_bosque-dep-expl-pass.html">expl:pass</a></tt>]--> PRON</tt> (2; 67%),
 <tt>PRON --[<tt><a href="pt_bosque-dep-fixed.html">fixed</a></tt>]--> PRON</tt> (1; 100%).
 

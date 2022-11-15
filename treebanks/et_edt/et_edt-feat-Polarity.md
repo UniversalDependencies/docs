@@ -12,7 +12,7 @@ It occurs with 1 different values: `Neg`.
 5967 tokens (1%) have a non-empty value of `Polarity`.
 35 types (0%) occur at least once with a non-empty value of `Polarity`.
 11 lemmas (0%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 4 part-of-speech tags: <tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (4893; 1% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (611; 0% instances), <tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt> (275; 0% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (188; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (4893; 1% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (612; 0% instances), <tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt> (274; 0% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (188; 0% instances).
 
 ### `AUX`
 
@@ -23,25 +23,25 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 `AUX` tokens may have the following values of `Polarity`:
 
 * `Neg` (4893; 100% of non-empty `Polarity`): <em>ei, pole, polnud, poleks, ära, polegi, ärge, polnudki, polevat, polekski</em>
-* `EMPTY` (17351): <em>on, oli, võib, ole, olid, oleks, olnud, olla, peaks, saab</em>
+* `EMPTY` (17357): <em>on, oli, võib, ole, olid, oleks, olnud, olla, peaks, saab</em>
 
 ### `ADV`
 
-611 <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Polarity`.
+612 <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Polarity`.
 
 `ADV` tokens may have the following values of `Polarity`:
 
-* `Neg` (611; 100% of non-empty `Polarity`): <em>mitte, ega, ei, Egä</em>
-* `EMPTY` (41432): <em>ka, siis, nii, kas, juba, välja, aga, veel, väga, kus</em>
+* `Neg` (612; 100% of non-empty `Polarity`): <em>mitte, ega, ei, Egä</em>
+* `EMPTY` (41435): <em>ka, siis, nii, kas, juba, välja, aga, veel, väga, kus</em>
 
 ### `CCONJ`
 
-275 <tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt> tokens (2% of all `CCONJ` tokens) have a non-empty value of `Polarity`.
+274 <tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt> tokens (2% of all `CCONJ` tokens) have a non-empty value of `Polarity`.
 
 `CCONJ` tokens may have the following values of `Polarity`:
 
-* `Neg` (275; 100% of non-empty `Polarity`): <em>ega</em>
-* `EMPTY` (15863): <em>ja, ning, või, aga, kuid, kui, vaid, ehk, ent, kuni</em>
+* `Neg` (274; 100% of non-empty `Polarity`): <em>ega</em>
+* `EMPTY` (15860): <em>ja, ning, või, aga, kuid, kui, vaid, ehk, ent, kuni</em>
 
 ### `VERB`
 
@@ -52,5 +52,5 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (188; 100% of non-empty `Polarity`): <em>pole, polnud, polegi, poleks, polnudki, NäE, kasutata, olevat, osta, palutud</em>
-* `EMPTY` (47883): <em>on, tuleb, teha, ütles, saada, sai, saanud, tuli, saab, jääb</em>
+* `EMPTY` (47878): <em>on, tuleb, teha, ütles, saada, sai, saanud, tuli, saab, jääb</em>
 

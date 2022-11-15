@@ -24,5 +24,5 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 * `Fut` (10; 20% of non-empty `Tense`): <em>bèna, na, n', tèna</em>
 * `Past` (39; 80% of non-empty `Tense`): <em>tun</em>
-* `EMPTY` (1372): <em>ka, ye, bè, tè, ma, be, bɛ, diye, kana, mana</em>
+* `EMPTY` (1352): <em>ka, ye, bè, tè, ma, be, bɛ, kana, mana, k'</em>
 

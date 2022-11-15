@@ -10,7 +10,7 @@ This feature is universal.
 It occurs with 1 different values: `Pass`.
 
 49 tokens (0%) have a non-empty value of `Voice`.
-32 types (1%) occur at least once with a non-empty value of `Voice`.
+38 types (1%) occur at least once with a non-empty value of `Voice`.
 16 lemmas (1%) occur at least once with a non-empty value of `Voice`.
 The feature is used with 2 part-of-speech tags: <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> (31; 0% instances), <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> (18; 0% instances).
 
@@ -22,8 +22,8 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 `VERB` tokens may have the following values of `Voice`:
 
-* `Pass` (31; 100% of non-empty `Voice`): <em>_, אָר֣וּר, אָר֤וּר, בָּר֤וּךְ, בָּר֥וּךְ, שְׂנוּאָ֣ה, אֲסוּרִ֑ים, אֲסוּרִ֖ים, אֲרוּרָ֤ה, אָס֥וּר</em>
-* `EMPTY` (4910): <em>_, יֶשׁ, נָתַ֥ן, אָמַ֣ר, בָּ֣א, הֹולִ֥יד, יָצָ֣א, עָשִׂ֣יתָ, אֵ֣ין, אֵ֥ין</em>
+* `Pass` (31; 100% of non-empty `Voice`): <em>אָר֣וּר, אָר֤וּר, בָּר֤וּךְ, בָּר֥וּךְ, שְׂנוּאָ֣ה, אֲסוּרִ֑ים, אֲסוּרִ֖ים, אֲרוּרָ֤ה, אָס֥וּר, אָר֔וּר</em>
+* `EMPTY` (4910): <em>אמר, בוא, ילד, ראה, קרא, לקח, נתן, הלך, עשׂה, ברך</em>
 
 `Voice` seems to be **lexical feature** of `VERB`. 100% lemmas (12) occur only with one value of `Voice`.
 
@@ -35,6 +35,6 @@ The most frequent other feature values with which `NOUN` and `Voice` co-occurred
 
 `NOUN` tokens may have the following values of `Voice`:
 
-* `Pass` (18; 100% of non-empty `Voice`): <em>_, בְּעֻ֥לַת, בְּר֣וּךְ, בְּר֥וּךְ, מְשֻׁלֶּ֔שֶׁת, מְשֻׁלֶּ֖שֶׁת, מְשֻׁלָּ֑שׁ, שְׁדֻפֹ֖ות, שְׁדֻפֹ֣ות, שְׁלֻחָ֑ה</em>
-* `EMPTY` (7337): <em>_, כָּל, בֶּן, שָׁנָ֑ה, אֱלֹהִ֖ים, אֱלֹהִים֙, בַּת, אֱלֹהִ֔ים, שָׁנָ֔ה, בְּנֵ֣י</em>
+* `Pass` (18; 100% of non-empty `Voice`): <em>טלא, קשׁר, בְּעֻ֥לַת, בְּר֣וּךְ, בְּר֥וּךְ, מְשֻׁלֶּ֔שֶׁת, מְשֻׁלֶּ֖שֶׁת, מְשֻׁלָּ֑שׁ, שְׁדֻפֹ֖ות, שְׁדֻפֹ֣ות</em>
+* `EMPTY` (7332): <em>ארץ, אב, כָּל, בן, אח, כל, אשׁה, פנה, אישׁ, שׁם</em>
 

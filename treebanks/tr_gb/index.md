@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Çağrı Çöltekin.
 
 Repository: [UD_Turkish-GB](https://github.com/UniversalDependencies/UD_Turkish-GB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtr_gb210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtr_gb211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-SA 4.0
 
@@ -128,7 +128,7 @@ _Aslı Göksel and Celia Kerslake. Turkish: A Comprehensive Grammar. London: Rou
 </ul>
 
 <ul>
-<li>This corpus contains 8 lemmas tagged as auxiliaries (AUX): bil, bulun, değil, i, mi, ol, olacak, olduk</li>
+<li>This corpus contains 6 lemmas tagged as auxiliaries (AUX): bil, bulun, değil, i, mi, ol</li>
 </ul>
 
 <ul>
@@ -993,7 +993,7 @@ _Aslı Göksel and Celia Kerslake. Turkish: A Comprehensive Grammar. London: Rou
       <li>NOUN: içinde, arasında, babası, yanında, annem, yaşında, arabası, evini, parası, arkadaşlarına</li>
       <li>NUM: biri, kaçı, yedisinde, 95’i, beşi, birinde, onbeşi, yedisi</li>
       <li>PRON: burası, Burasını, biri, neresi, nerenden, nesi, orası, Ötekine, Şurası</li>
-      <li>PROPN: Fatma’nın, Semra’nın, Türkleri</li>
+      <li>PROPN: Türkleri</li>
       <li>VERB-Fin: geleceğine, Boyanmışlarında, açacağını, başlayacağı, dayanamayacağını, katılamayacağımı</li>
       <li>VERB-Part: yaptığı, geldiği, çaldığını, sevdiği, bildiğim, ettiğin, sevdiğim, aldığın, aldığını, anlayamadığı</li>
       <li>VERB-Vnoun: gelmesi, gitmem, almamız, alınmaması, bitmesiyle, gelmesini, girmesinden, kazanmasını, pişirmesini, verilmesi</li>
@@ -1026,7 +1026,6 @@ _Aslı Göksel and Celia Kerslake. Turkish: A Comprehensive Grammar. London: Rou
           <li>AUX-Part: olduğunu, olmadığın, olduğun, olduğunuz, olmayacağın</li>
           <li>NOUN: yanında, içinde, evini, yanına, içine, yüzünden, önünden, ablanın, altına, arkadaşlarına</li>
           <li>PRON: kendinizin, nerenden, Ötekine, Şuranıza</li>
-          <li>PROPN: Fatma’nın, Semra’nın</li>
           <li>VERB-Part: ettiğin, gördüğünüz, aldığın, duyduğunuz, istediğin, çaldığını, Geldiğiniz, Umduğundan, anlayacağın, aradığını</li>
           <li>VERB-Vnoun: gitmeniz, çalmanı, Gitmenizi, almanızı, beğenmeniz, eleştirmeniz, söylemene, toplamanıza, çağırmanın, çıkmanı</li>
         </ul>
@@ -1058,7 +1057,7 @@ _Aslı Göksel and Celia Kerslake. Turkish: A Comprehensive Grammar. London: Rou
 </ul>
 
 <ul>
-<li>This corpus uses 6 lemmas as auxiliaries (<a>aux</a>). Examples: ol, değil, olduk, olacak, bulun, bil.</li>
+<li>This corpus uses 4 lemmas as auxiliaries (<a>aux</a>). Examples: ol, değil, bulun, bil.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>

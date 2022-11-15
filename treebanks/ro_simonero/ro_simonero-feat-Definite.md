@@ -10,8 +10,8 @@ This feature is universal.
 It occurs with 2 different values: `Def`, `Ind`.
 
 57191 tokens (39%) have a non-empty value of `Definite`.
-13824 types (77%) occur at least once with a non-empty value of `Definite`.
-7040 lemmas (66%) occur at least once with a non-empty value of `Definite`.
+13826 types (77%) occur at least once with a non-empty value of `Definite`.
+7041 lemmas (66%) occur at least once with a non-empty value of `Definite`.
 The feature is used with 5 part-of-speech tags: <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> (39982; 27% instances), <tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt> (16947; 12% instances), <tt><a href="ro_simonero-pos-NUM.html">NUM</a></tt> (208; 0% instances), <tt><a href="ro_simonero-pos-DET.html">DET</a></tt> (41; 0% instances), <tt><a href="ro_simonero-pos-PROPN.html">PROPN</a></tt> (13; 0% instances).
 
 ### `NOUN`
@@ -22,8 +22,8 @@ The most frequent other feature values with which `NOUN` and `Definite` co-occur
 
 `NOUN` tokens may have the following values of `Definite`:
 
-* `Def` (21801; 55% of non-empty `Definite`): <em>pacienții, nivelul, cazul, creșterea, tratamentul, vârsta, pacienților, scăderea, riscul, diabetului</em>
-* `Ind` (18181; 45% of non-empty `Definite`): <em>pacienți, ani, diabet, risc, insulină, tip, tratament, timp, studiu, cazuri</em>
+* `Def` (21800; 55% of non-empty `Definite`): <em>pacienții, nivelul, cazul, creșterea, tratamentul, vârsta, pacienților, scăderea, riscul, diabetului</em>
+* `Ind` (18182; 45% of non-empty `Definite`): <em>pacienți, ani, diabet, risc, insulină, tip, tratament, timp, studiu, cazuri</em>
 * `EMPTY` (2716): <em>mg, IC, vs, HTA, TA, DZ, FA, AVC, dl, EI</em>
 
 <table>
@@ -58,7 +58,7 @@ The most frequent other feature values with which `ADJ` and `Definite` co-occurr
   <tr><td><tt><tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>mari</em></td><td></td></tr>
 </table>
 
-`Definite` seems to be **lexical feature** of `ADJ`. 98% lemmas (2813) occur only with one value of `Definite`.
+`Definite` seems to be **lexical feature** of `ADJ`. 98% lemmas (2815) occur only with one value of `Definite`.
 
 ### `NUM`
 
@@ -110,14 +110,14 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 ## Relations with Agreement in `Definite`
 
 The 10 most frequent relations where parent and child node agree in `Definite`:
-<tt>NOUN --[<tt><a href="ro_simonero-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (8905; 53%),
-<tt>NOUN --[<tt><a href="ro_simonero-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3339; 78%),
-<tt>ADJ --[<tt><a href="ro_simonero-dep-conj.html">conj</a></tt>]--> ADJ</tt> (668; 99%),
-<tt>ADJ --[<tt><a href="ro_simonero-dep-conj.html">conj</a></tt>]--> NOUN</tt> (125; 78%),
+<tt>NOUN --[<tt><a href="ro_simonero-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (8907; 53%),
+<tt>NOUN --[<tt><a href="ro_simonero-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3358; 78%),
+<tt>ADJ --[<tt><a href="ro_simonero-dep-conj.html">conj</a></tt>]--> ADJ</tt> (670; 99%),
+<tt>ADJ --[<tt><a href="ro_simonero-dep-conj.html">conj</a></tt>]--> NOUN</tt> (126; 78%),
 <tt>ADJ --[<tt><a href="ro_simonero-dep-amod.html">amod</a></tt>]--> ADJ</tt> (55; 93%),
 <tt>NOUN --[<tt><a href="ro_simonero-dep-conj.html">conj</a></tt>]--> ADJ</tt> (48; 65%),
 <tt>ADJ --[<tt><a href="ro_simonero-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (34; 97%),
-<tt>ADJ --[<tt><a href="ro_simonero-dep-obl-agent.html">obl:agent</a></tt>]--> NOUN</tt> (34; 61%),
+<tt>ADJ --[<tt><a href="ro_simonero-dep-obl-agent.html">obl:agent</a></tt>]--> NOUN</tt> (33; 60%),
 <tt>ADJ --[<tt><a href="ro_simonero-dep-amod.html">amod</a></tt>]--> NOUN</tt> (25; 61%),
 <tt>ADJ --[<tt><a href="ro_simonero-dep-appos.html">appos</a></tt>]--> NOUN</tt> (23; 72%).
 

@@ -44,7 +44,7 @@ The following 1 pairs of parts of speech are connected with `amod:attlvc`: <tt><
 19	bíróságtól	bíróság	NOUN	_	Case=Abl|Number=Sing	16	obl	_	_
 20	a	a	DET	_	Definite=Def|PronType=Art	21	det	_	_
 21	győztessel	győztes	NOUN	_	Case=Ins|Number=Sing	24	obl	_	_
-22	szerinte	szerint	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	24	advmod:mode	_	_
+22	szerinte	szerint	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	24	obl	_	orig_deprel=advmod:mode
 23	jogszerűtlenül	jogszerűtlen	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	24	advmod:mode	_	_
 24	megkötött	megkötött	ADJ	_	Case=Nom|Number=Sing|VerbForm=PartPast	25	amod:attlvc	_	_
 25	szerződés	szerződés	NOUN	_	Case=Nom|Number=Sing	26	nmod:att	_	_

@@ -30,4 +30,4 @@ Diminutive formations attested by Avila (2021) or Navarro (2016):
 * _<b>pirá-mirĩ-itá</b>&nbsp;_ “little fishes” (fish-DIM-PL)
 * _<b>purangamirĩ</b>&nbsp;_ “beautiful” (*puranga-mirĩ* beautiful-DIM)
 
-<!-- Interlanguage links updated So kvě 14 19:02:13 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:45 CET 2022 -->

@@ -35,7 +35,7 @@ The following 3 pairs of parts of speech are connected with `vocative`: <tt><a h
 11	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	13	nsubj	13:nsubj	Discourse=elaboration-attribute:2->1:0|Entity=(1-person-giv:act-cf1-1-ana)|Lem=_|Len=3
 12	_	_	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	13	aux	13:aux	Lem=have|Len=3
 13	_	_	VERB	VBN	Tense=Past|VerbForm=Part	10	acl:relcl	10:acl:relcl	Lem=see|Len=4
-14	_	_	NOUN	NN	Number=Sing	15	nsubj	15:nsubj	Entity=(4-person-new-cf3-1-sgl)|Lem=_|Len=7
+14	_	_	PRON	NN	Number=Sing|PronType=Ind	15	nsubj	15:nsubj	Entity=(4-person-new-cf3-1-sgl)|Lem=_|Len=7
 15	_	_	VERB	VB	VerbForm=Inf	13	ccomp	13:ccomp	Lem=_|Len=2
 16	_	_	ADP	IN	_	17	case	17:case	Lem=_|Len=2
 17	_	_	NUM	CD	NumForm=Word|NumType=Card	15	obl	15:obl:in	Bridge=2<5|Entity=(5-place-acc:inf-cf2-1-sgl|Lem=_|Len=3
@@ -86,7 +86,7 @@ The following 3 pairs of parts of speech are connected with `vocative`: <tt><a h
 8	_	_	PUNCT	:	_	10	punct	10:punct	Lem=…|Len=3
 9	_	_	ADV	RB	_	10	advmod	10:advmod	Discourse=explanation-evidence:72->73:0|Lem=_|Len=4
 10	_	_	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	7	parataxis	7:parataxis	Lem=_|Len=3
-11	_	_	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	12	nmod:poss	12:nmod:poss	Entity=(7-person-giv:inact-cf3-2-coref(3-person-giv:act-cf1*-1-ana)|Lem=_|Len=2
+11	_	_	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	12	nmod:poss	12:nmod:poss	Entity=(7-person-giv:inact-cf3-2-coref(3-person-giv:act-cf1*-1-ana)|Lem=_|Len=2
 12	_	_	NOUN	NN	Number=Sing	10	obj	10:obj	Entity=7)|Lem=_|Len=4|SpaceAfter=No
 13	_	_	PUNCT	,	_	18	punct	18:punct	Lem=_|Len=1
 14	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	18	nsubj	18:nsubj	Discourse=restatement-partial:73->68:1|Entity=(3-person-giv:act-cf1*-1-ana)|Lem=_|Len=1

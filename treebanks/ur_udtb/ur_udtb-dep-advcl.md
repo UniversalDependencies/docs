@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1864 nodes (1%) are attached to their parents as `advcl`.
+2201 nodes (2%) are attached to their parents as `advcl`.
 
-1482 instances of `advcl` (80%) are right-to-left (child precedes parent).
-Average distance between parent and child is 8.91148068669528.
+1813 instances of `advcl` (82%) are right-to-left (child precedes parent).
+Average distance between parent and child is 8.64016356201726.
 
-The following 12 pairs of parts of speech are connected with `advcl`: <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt>-<tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (1774; 95% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (43; 2% instances), <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (20; 1% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt>-<tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> (10; 1% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt>-<tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt>-<tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt>-<tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt>-<tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt>-<tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ur_udtb-pos-PART.html">PART</a></tt>-<tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt>-<tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `advcl`: <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt>-<tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (2094; 95% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (44; 2% instances), <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (40; 2% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt>-<tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt>-<tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt>-<tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt>-<tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt>-<tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ur_udtb-pos-DET.html">DET</a></tt>-<tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt>-<tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ur_udtb-pos-PART.html">PART</a></tt>-<tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -55,8 +55,8 @@ The following 12 pairs of parts of speech are connected with `advcl`: <tt><a hre
 10	مےں	مےں	PRON	PRP	Case=Nom|Number=Sing|Person=1	11	nsubj	_	Vib=0|Tam=0|ChunkId=NP5|ChunkType=head
 11	لایا	لا	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	6	advcl	_	Vib=یا|Tam=yA|ChunkId=VGF2|ChunkType=head|Stype=declarative
 12	ہوں	ہے	AUX	VAUX	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	advcl	_	SpaceAfter=No|Vib=ہے|Tam=hE|ChunkId=VGF2|ChunkType=child
-13	''	''	PUNCT	SYM	_	11	advcl	_	SpaceAfter=No|ChunkId=VGF2|ChunkType=child
-14	۔	۔	PUNCT	SYM	_	11	advcl	_	ChunkId=VGF2|ChunkType=child
+13	''	''	PUNCT	SYM	_	11	punct	_	SpaceAfter=No|ChunkId=VGF2|ChunkType=child
+14	۔	۔	PUNCT	SYM	_	11	punct	_	ChunkId=VGF2|ChunkType=child
 
 ~~~
 

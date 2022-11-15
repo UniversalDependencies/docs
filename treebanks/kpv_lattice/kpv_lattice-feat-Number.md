@@ -226,7 +226,7 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>VERB --[<tt><a href="kpv_lattice-dep-conj.html">conj</a></tt>]--> VERB</tt> (175; 72%),
 <tt>NOUN --[<tt><a href="kpv_lattice-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (161; 71%),
 <tt>NOUN --[<tt><a href="kpv_lattice-dep-case.html">case</a></tt>]--> ADP</tt> (140; 70%),
-<tt>VERB --[<tt><a href="kpv_lattice-dep-obl-lmod.html">obl:lmod</a></tt>]--> NOUN</tt> (119; 55%),
+<tt>VERB --[<tt><a href="kpv_lattice-dep-obl-lmod.html">obl:lmod</a></tt>]--> NOUN</tt> (124; 56%),
 <tt>VERB --[<tt><a href="kpv_lattice-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (110; 79%),
 <tt>NOUN --[<tt><a href="kpv_lattice-dep-conj.html">conj</a></tt>]--> NOUN</tt> (90; 83%),
 <tt>NOUN --[<tt><a href="kpv_lattice-dep-det.html">det</a></tt>]--> PRON</tt> (48; 52%),

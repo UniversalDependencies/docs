@@ -25,13 +25,13 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 * `Part` (119; 100% of non-empty `VerbForm`): الخاصة، الخاص، قائلاً، التابعة، المرتبط، الموجودة، الواردة، الواقعة، خاصة، قائلةً
 * `EMPTY` (1907): أكثر، الأول، المتحدة، كبيرة، الثاني، الأولى، أول، أخرى، أكبر، الجديدة
 
-`VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (65) occur only with one value of `VerbForm`.
+`VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (66) occur only with one value of `VerbForm`.
 
 ### `NOUN`
 
 22 <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `NOUN` and `VerbForm` co-occurred: <tt><a href="ar_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (22; 100%), <tt><a href="ar_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (19; 86%), <tt><a href="ar_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (14; 64%), <tt><a href="ar_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (14; 64%).
+The most frequent other feature values with which `NOUN` and `VerbForm` co-occurred: <tt><a href="ar_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (19; 86%), <tt><a href="ar_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (14; 64%), <tt><a href="ar_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (14; 64%).
 
 `NOUN` tokens may have the following values of `VerbForm`:
 

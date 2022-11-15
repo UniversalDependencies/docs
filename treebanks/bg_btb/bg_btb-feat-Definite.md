@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Def`, `Ind`.
 
-61279 tokens (39%) have a non-empty value of `Definite`.
+61280 tokens (39%) have a non-empty value of `Definite`.
 22259 types (84%) occur at least once with a non-empty value of `Definite`.
-12397 lemmas (83%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 10 part-of-speech tags: <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> (33023; 21% instances), <tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt> (13480; 9% instances), <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> (8357; 5% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt> (2664; 2% instances), <tt><a href="bg_btb-pos-NUM.html">NUM</a></tt> (2101; 1% instances), <tt><a href="bg_btb-pos-DET.html">DET</a></tt> (793; 1% instances), <tt><a href="bg_btb-pos-ADV.html">ADV</a></tt> (499; 0% instances), <tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> (246; 0% instances), <tt><a href="bg_btb-pos-PRON.html">PRON</a></tt> (115; 0% instances), <tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+12399 lemmas (83%) occur at least once with a non-empty value of `Definite`.
+The feature is used with 10 part-of-speech tags: <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> (33023; 21% instances), <tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt> (13480; 9% instances), <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> (8357; 5% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt> (2664; 2% instances), <tt><a href="bg_btb-pos-NUM.html">NUM</a></tt> (2102; 1% instances), <tt><a href="bg_btb-pos-DET.html">DET</a></tt> (793; 1% instances), <tt><a href="bg_btb-pos-ADV.html">ADV</a></tt> (499; 0% instances), <tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> (246; 0% instances), <tt><a href="bg_btb-pos-PRON.html">PRON</a></tt> (115; 0% instances), <tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -100,15 +100,15 @@ The most frequent other feature values with which `VERB` and `Definite` co-occur
 
 ### `NUM`
 
-2101 <tt><a href="bg_btb-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `Definite`.
+2102 <tt><a href="bg_btb-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `NUM` and `Definite` co-occurred: <tt><a href="bg_btb-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (2101; 100%), <tt><a href="bg_btb-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1862; 89%), <tt><a href="bg_btb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1586; 75%).
+The most frequent other feature values with which `NUM` and `Definite` co-occurred: <tt><a href="bg_btb-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (2102; 100%), <tt><a href="bg_btb-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1863; 89%), <tt><a href="bg_btb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1587; 75%).
 
 `NUM` tokens may have the following values of `Definite`:
 
 * `Def` (145; 7% of non-empty `Definite`): <em>двамата, двете, двата, тримата, трите, четиримата, Единият, четирите, десетте, едното</em>
-* `Ind` (1956; 93% of non-empty `Definite`): <em>две, един, два, 2, една, 1, 3, три, 10, едно</em>
-* `EMPTY` (5): <em>-, 02, 08, 2000, 3</em>
+* `Ind` (1957; 93% of non-empty `Definite`): <em>две, един, два, 2, една, 1, 3, три, 10, едно</em>
+* `EMPTY` (3): <em>02, 08, 2000</em>
 
 <table>
   <tr><th>Paradigm <i>два</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
@@ -118,7 +118,7 @@ The most frequent other feature values with which `NUM` and `Definite` co-occurr
   <tr><td><tt></tt></td><td><em>2, две</em></td><td><em>двете</em></td></tr>
 </table>
 
-`Definite` seems to be **lexical feature** of `NUM`. 97% lemmas (401) occur only with one value of `Definite`.
+`Definite` seems to be **lexical feature** of `NUM`. 97% lemmas (403) occur only with one value of `Definite`.
 
 ### `DET`
 

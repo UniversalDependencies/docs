@@ -8,7 +8,7 @@ udver: '2'
 
 This relation is universal.
 
-5 nodes (1%) are attached to their parents as `cop`.
+5 nodes (0%) are attached to their parents as `cop`.
 
 4 instances of `cop` (80%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.6.
@@ -30,7 +30,7 @@ The following 3 pairs of parts of speech are connected with `cop`: <tt><a href="
 6	дорӧм	дорны	VERB	V	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	7	acl	_	GTtags=N,Sem/Inanim,Sg,Nom
 7	ӧшына	ӧшын	NOUN	N	Derivation=ProprietiveMod|Number=Sing	3	conj	_	GTtags=N,Sg,Der,Der/ProprietiveMod,A|SpaceAfter=No
 8	,	,	PUNCT	CLB	_	9	punct	_	GTtags=CLB
-9	крышатӧм	крыша	NOUN	_	_	3	conj	_	SpaceAfter=No
+9	крышатӧм	крыша	NOUN	_	Case=Abe|Number=Sing|Variant=Nomin	3	conj	_	SpaceAfter=No
 10	.	.	PUNCT	CLB	_	3	punct	_	GTtags=CLB
 
 ~~~

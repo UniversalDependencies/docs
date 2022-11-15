@@ -8,32 +8,27 @@ udver: '2'
 
 This relation is universal.
 
-3060 nodes (2%) are attached to their parents as `det`.
+1525 nodes (2%) are attached to their parents as `det`.
 
-2934 instances of `det` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.16601307189542.
+1463 instances of `det` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.16393442622951.
 
-The following 17 pairs of parts of speech are connected with `det`: <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt>-<tt><a href="is_modern-pos-DET.html">DET</a></tt> (2520; 82% instances), <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt>-<tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (280; 9% instances), <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt>-<tt><a href="is_modern-pos-DET.html">DET</a></tt> (86; 3% instances), <tt><a href="is_modern-pos-DET.html">DET</a></tt>-<tt><a href="is_modern-pos-DET.html">DET</a></tt> (64; 2% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt>-<tt><a href="is_modern-pos-DET.html">DET</a></tt> (22; 1% instances), <tt><a href="is_modern-pos-PRON.html">PRON</a></tt>-<tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (22; 1% instances), <tt><a href="is_modern-pos-PROPN.html">PROPN</a></tt>-<tt><a href="is_modern-pos-DET.html">DET</a></tt> (20; 1% instances), <tt><a href="is_modern-pos-DET.html">DET</a></tt>-<tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (14; 0% instances), <tt><a href="is_modern-pos-NUM.html">NUM</a></tt>-<tt><a href="is_modern-pos-DET.html">DET</a></tt> (10; 0% instances), <tt><a href="is_modern-pos-PRON.html">PRON</a></tt>-<tt><a href="is_modern-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt>-<tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="is_modern-pos-ADP.html">ADP</a></tt>-<tt><a href="is_modern-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-NUM.html">NUM</a></tt>-<tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-PART.html">PART</a></tt>-<tt><a href="is_modern-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-PROPN.html">PROPN</a></tt>-<tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-VERB.html">VERB</a></tt>-<tt><a href="is_modern-pos-DET.html">DET</a></tt> (2; 0% instances).
+The following 17 pairs of parts of speech are connected with `det`: <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt>-<tt><a href="is_modern-pos-DET.html">DET</a></tt> (1258; 82% instances), <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt>-<tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (140; 9% instances), <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt>-<tt><a href="is_modern-pos-DET.html">DET</a></tt> (42; 3% instances), <tt><a href="is_modern-pos-DET.html">DET</a></tt>-<tt><a href="is_modern-pos-DET.html">DET</a></tt> (31; 2% instances), <tt><a href="is_modern-pos-PRON.html">PRON</a></tt>-<tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (11; 1% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt>-<tt><a href="is_modern-pos-DET.html">DET</a></tt> (10; 1% instances), <tt><a href="is_modern-pos-PROPN.html">PROPN</a></tt>-<tt><a href="is_modern-pos-DET.html">DET</a></tt> (10; 1% instances), <tt><a href="is_modern-pos-DET.html">DET</a></tt>-<tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="is_modern-pos-NUM.html">NUM</a></tt>-<tt><a href="is_modern-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="is_modern-pos-PRON.html">PRON</a></tt>-<tt><a href="is_modern-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt>-<tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-ADP.html">ADP</a></tt>-<tt><a href="is_modern-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="is_modern-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="is_modern-pos-NUM.html">NUM</a></tt>-<tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="is_modern-pos-PART.html">PART</a></tt>-<tt><a href="is_modern-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="is_modern-pos-PROPN.html">PROPN</a></tt>-<tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="is_modern-pos-VERB.html">VERB</a></tt>-<tt><a href="is_modern-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 10 det	color:blue
-1	Virðulegi	virðulegur	ADJ	ADJ-N	Case=Nom|Degree=Pos	2	amod	_	_
-2	forseti	forseti	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	6	vocative	_	SpaceAfter=No
-3	.	.	PUNCT	.	_	2	punct	_	_
-4	Ég	ég	PRON	PRO-N	Case=Nom	6	nsubj	_	_
-5	vil	vilja	AUX	MDPI	Mood=Ind|Tense=Pres	6	aux	_	_
-6	lýsa	lýsa	VERB	VB	VerbForm=Inf	0	root	_	_
-7	ánægju	ánægja	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	6	obj	_	_
-8	minni	minn	PRON	PRO-D	Case=Dat	7	nmod:poss	_	_
-9	með	með	ADP	P	_	11	case	_	_
-10	þetta	þessi	DET	D-A	Case=Acc	11	det	_	_
-11	frumvarp	frumvarp	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	7	obl	_	SpaceAfter=No
-12	.	.	PUNCT	.	_	11	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 4 det	color:blue
+1	Fyrst	snemmt	ADV	ADVS	Degree=Sup	6	advmod	_	IFD_tag=aae
+2	aðeins	aðeins	ADV	ADV	_	6	advmod	_	IFD_tag=aa
+3	með	með	ADP	P	_	6	case	_	IFD_tag=ao
+4	þessa	þessi	DET	D-A	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	IFD_tag=faveo
+5	fallegu	fallegur	ADJ	ADJ-A	Case=Acc|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	IFD_tag=lveovf
+6	hugmyndafræði	hugmyndafræði	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	IFD_tag=nveo|SpaceAfter=No
+7	.	.	PUNCT	.	_	6	punct	_	IFD_tag=.
 
 ~~~
 
@@ -44,34 +39,37 @@ The following 17 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 8 det	color:blue
-1	Héldu	halda	VERB	VBDI	Mood=Ind|Tense=Past	0	root	_	_
-2	menn	maður	NOUN	NS-N	Case=Nom|Definite=Ind|Number=Plur	1	nsubj	_	_
-3	virkilega	virkilega	ADV	ADV	Degree=Pos	1	advmod	_	_
-4	að	að	SCONJ	C	_	6	mark	_	_
-5	það	það	PRON	PRO-N	Case=Nom	6	nsubj	_	_
-6	yrði	verða	VERB	RDDS	Mood=Sub|Tense=Past	1	ccomp	_	_
-7	með	með	ADP	P	_	9	case	_	_
-8	öðrum	annar	PRON	OTHER-D	Case=Dat	9	det	_	_
-9	hætti	háttur	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	6	obl	_	SpaceAfter=No
-10	?	?	PUNCT	.	_	9	punct	_	_
+1	Héldu	halda	VERB	VBDI	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	IFD_tag=sfg3fþ
+2	menn	maður	NOUN	NS-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	1	nsubj	_	IFD_tag=nkfn
+3	virkilega	virkilega	ADV	ADV	_	1	advmod	_	IFD_tag=aa
+4	að	að	SCONJ	C	_	6	mark	_	IFD_tag=c
+5	það	það	PRON	PRO-N	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	6	nsubj	_	IFD_tag=fphen
+6	yrði	verða	VERB	RDDS	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp	_	IFD_tag=svg3eþ
+7	með	með	ADP	P	_	9	case	_	IFD_tag=aþ
+8	öðrum	annar	PRON	OTHER-D	Case=Dat|Gender=Masc|Number=Sing|PronType=Ind	9	det	_	IFD_tag=fokeþ
+9	hætti	háttur	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	6	obl	_	IFD_tag=nkeþ|SpaceAfter=No
+10	?	?	PUNCT	.	_	9	punct	_	IFD_tag=?
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 det	color:blue
-1	Hvað	hver	PRON	WPRO-N	Case=Nom	0	root	_	_
-2	þá	þá	ADV	ADV	Degree=Pos	4	advmod	_	_
-3	með	með	ADP	P	_	4	case	_	_
-4	eftirmarkað	eftirmarkaður	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	1	xcomp	_	_
-5	á	á	ADP	P	_	7	case	_	_
-6	þessum	þessi	DET	D-D	Case=Dat	7	det	_	_
-7	hlutdeildum	hlutdeildur	ADJ	ADJ-D	Case=Dat|Degree=Pos	4	obl	_	SpaceAfter=No
-8	?	?	PUNCT	.	_	7	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 det	color:blue
+1	HBH	hbh	PROPN	NPR-N	_	8	dep	_	IFD_tag=as|SpaceAfter=No
+2	:	:	PUNCT	,	_	1	punct	_	IFD_tag=:
+3	Er	vera	AUX	BEPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	IFD_tag=sfg3en
+4	það	sá	DET	D-N	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	5	det	_	IFD_tag=fphen
+5	sama	sami	ADJ	ADJ-N	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	8	nsubj	_	IFD_tag=fbhen
+6	ekki	ekki	ADV	NEG	_	8	advmod	_	IFD_tag=aa
+7	að	að	PART	TO	_	8	mark	_	IFD_tag=cn
+8	gerast	gera	VERB	DO	VerbForm=Inf|Voice=Mid	0	root	_	IFD_tag=snm
+9	í	í	ADP	P	_	10	case	_	IFD_tag=ao
+10	dag	dagur	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	8	obl	_	IFD_tag=nkeo|SpaceAfter=No
+11	?	?	PUNCT	.	_	10	punct	_	IFD_tag=?
 
 ~~~
 

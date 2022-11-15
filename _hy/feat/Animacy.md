@@ -36,4 +36,4 @@ This value in Armenian is used for non-human animates (incl. animals) and inanim
 
 * _տարի_ “year”, _օրենք_ “law”, _պետություն_ “state”, _լեռ_ “mountain”, _ծառ_ “tree”
 * _ձի_ “horse”, _կով_ “cow”, _առյուծ_ “lion”, _արագիլ_ “stork”, _ձուկ_ “fish”
-<!-- Interlanguage links updated So kvě 14 19:02:02 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:39 CET 2022 -->

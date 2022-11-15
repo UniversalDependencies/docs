@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-83 nodes (3%) are attached to their parents as `mark`.
+93 nodes (3%) are attached to their parents as `mark`.
 
-81 instances of `mark` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.97590361445783.
+90 instances of `mark` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.06451612903226.
 
-The following 7 pairs of parts of speech are connected with `mark`: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> (53; 64% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-PART.html">PART</a></tt> (20; 24% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> (4; 5% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> (3; 4% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances).
+The following 8 pairs of parts of speech are connected with `mark`: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> (60; 65% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-PART.html">PART</a></tt> (21; 23% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> (4; 4% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> (4; 4% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -46,25 +46,22 @@ The following 7 pairs of parts of speech are connected with `mark`: <tt><a href=
 ~~~ conllu
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 8 mark	color:blue
-1	'	'	PUNCT	_	_	3	punct	_	SpaceAfter=No
-2	Du	du	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	lemma[gml]=dû¹
-3	skynst	skynen	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	lemma[gml]=schînen
-4	neet	nich	PART	_	PartType=Neg	3	advmod	_	lemma[gml]=nicht¹
-5	in	in	ADP	_	AdpType=Prep	7	case	_	lemma[gml]=in²
-6	dyn	dyn	DET	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=2|Poss=Yes|PronType=Prs	7	det:poss	_	Case[regional]=Acc|lemma[gml]=dîn
-7	hümöör	humoor	NOUN	_	Case=Dat|Number=Sing	3	xcomp	_	Case[regional]=Acc
-8	te	to	PART	_	PartType=Inf	3	mark	_	lemma[gml]=tô⁵
-9	weasen	weasen	AUX	_	VerbForm=Inf	7	cop	_	lemma[gml]=wēsen²|SpaceAfter=No
-10	'	'	PUNCT	_	_	3	punct	_	SpaceAfter=No
-11	,	,	PUNCT	_	_	12	punct	_	_
-12	sea	seggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	parataxis	_	lemma[gml]=seggen
-13	Jouke	Jouke	PROPN	_	Case=Nom|Number=Sing	12	nsubj	_	_
-14	teagen	geagen	ADP	_	AdpType=Prep	15	case	_	lemma[gml]=gēgen
-15	Garrelt	Garrelt	PROPN	_	Case=Acc|Number=Sing	12	obl	_	SpaceAfter=No
-16	.	.	PUNCT	_	_	3	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 8 mark	color:blue
+1	Bronswik	Bronswik	PROPN	_	_	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	edrukked	drukken	VERB	_	Aspect=Perf|VerbForm=Part	1	parataxis	_	_
+4	by	by	ADP	_	AdpType=Prep	5	case	_	_
+5	Friedrich	Friedrich	PROPN	_	Gender=Masc|Number=Sing	3	obl	_	_
+6	Otto	Otto	PROPN	_	Number=Sing	5	flat	_	_
+7	un	un	CCONJ	_	_	9	cc	_	lemma[gml]=unde²
+8	te	to	PART	_	PartType=Inf	9	mark	_	_
+9	hebben	hebben	VERB	_	VerbForm=Inf	3	conj	_	lemma[gml]=hebben
+10	by	by	ADP	_	AdpType=Prep	11	case	_	_
+11	G.	G.	PROPN	_	Number=Sing	9	obl	_	_
+12	Rademaker	Rademaker	PROPN	_	Number=Sing	11	flat	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~
 
@@ -76,7 +73,7 @@ The following 7 pairs of parts of speech are connected with `mark`: <tt><a href=
 # visual-style 14	fgColor:white
 # visual-style 14 11 mark	color:blue
 1	In	in	ADP	_	AdpType=Prep	3	case	_	lemma[gml]=in²
-2	de	de	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	lemma[gml]=dê¹|Case[regional]=Acc
+2	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	lemma[gml]=dê¹
 3	stad	stad	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	lemma[gml]=stat⁴
 4	hove	höven	VERB	_	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	lemma[gml]=hö̂ven¹
 5	y	jy	PRON	_	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	lemma[gml]=gî²

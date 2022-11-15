@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2 nodes (0%) are attached to their parents as `vocative`.
+8 nodes (1%) are attached to their parents as `vocative`.
 
-2 instances of `vocative` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.
+8 instances of `vocative` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.25.
 
-The following 1 pairs of parts of speech are connected with `vocative`: <tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sah_yktdt-pos-PROPN.html">PROPN</a></tt> (2; 100% instances).
+The following 2 pairs of parts of speech are connected with `vocative`: <tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sah_yktdt-pos-PROPN.html">PROPN</a></tt> (7; 88% instances), <tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sah_yktdt-pos-PRON.html">PRON</a></tt> (1; 13% instances).
 
 
 ~~~ conllu
@@ -22,9 +22,9 @@ The following 1 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 1 vocative	color:blue
-1	Айаана	Айаана	PROPN	propn	Case=Nom|Number=Sing	6	vocative	_	_
+1	Айаана	Айаана	PROPN	propn	_	6	vocative	_	_
 2	уонна	уонна	CCONJ	cconj	_	3	cc	_	_
-3	Сайаана	Сайаана	PROPN	propn	Case=Nom|Number=Sing	1	conj	_	SpaceAfter=No
+3	Сайаана	Сайаана	PROPN	propn	_	1	conj	_	SpaceAfter=No
 4	,	,	PUNCT	punct	_	3	punct	_	_
 5	манна	манна	ADV	adv	_	6	advmod	_	_
 6	кэлиҥ	кэл	VERB	v	Mood=Imp|Number=Plur|Person=2|Tense=Pres	0	root	_	SpaceAfter=No
@@ -32,6 +32,20 @@ The following 1 pairs of parts of speech are connected with `vocative`: <tt><a h
 8	дуоска	дуоска	NOUN	n	Case=Nom|Number=Sing	10	obl	_	_
 9	аттыгар	_	ADV	adv	_	8	case	_	_
 10	туруҥ	тур	VERB	v	Mood=Imp|Number=Plur|Person=2|Tense=Pres	6	conj	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 1 vocative	color:blue
+1	Эн	эн	PRON	pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	vocative	_	you
+2	ити	ити	DET	det	PronType=Dem	3	det	_	this
+3	хаҥкыны	хаҥкы	NOUN	n	Case=Acc|Number=Sing	4	obj	_	iceskates
+4	кэт	кэт	VERB	v	Mood=Imp|Number=Sing|Person=2|Tense=Pres	0	root	_	wear
 
 ~~~
 

@@ -53,4 +53,4 @@ acl(түрде-7, болса-8)
 advmod(болса-8, да-9)
 ~~~
 
-<!-- Interlanguage links updated So kvě 14 19:02:47 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:02 CET 2022 -->

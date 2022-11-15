@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-66 nodes (5%) are attached to their parents as `obj`.
+120 nodes (5%) are attached to their parents as `obj`.
 
-66 instances of `obj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.22727272727273.
+120 instances of `obj` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.51666666666667.
 
-The following 5 pairs of parts of speech are connected with `obj`: <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (51; 77% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt> (9; 14% instances), <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (3; 5% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-SYM.html">SYM</a></tt> (1; 2% instances).
+The following 6 pairs of parts of speech are connected with `obj`: <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (90; 75% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt> (21; 18% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-PRON.html">PRON</a></tt> (4; 3% instances), <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-SYM.html">SYM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -61,26 +61,23 @@ The following 5 pairs of parts of speech are connected with `obj`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 4 obj	color:blue
-1	«	«	PUNCT	_	_	14	punct	_	LangID=TT|SpaceAfter=No
-2	Комиссия	комиссия	NOUN	_	Case=Nom|Number=Sing	3	nmod	_	LangID=RU
-3	эшчәнлегендә	эшчәнлек	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	7	obl	_	LangID=TT
-4	елны	ел	NOUN	_	Case=Acc|Number=Sing	7	obj	_	LangID=TT
-5	шулай	шулай	ADV	_	_	6	compound:lvc	_	LangID=TT
-6	итеп	ит	VERB	_	VerbForm=Conv	8	advcl	_	LangID=TT
-7	игълан	игълан	NOUN	_	_	8	compound:lvc	_	LangID=TT
-8	итү	ит	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	14	nsubj	_	LangID=TT
-9	безгә	без	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	13	obl	_	LangID=TT
-10	бик	бик	ADV	_	_	11	advmod	_	LangID=TT
-11	тупланып	тупла	VERB	_	VerbForm=Conv|Voice=Pass	12	advcl	_	LangID=TT
-12	эшләргә	эшлә	VERB	_	VerbForm=Inf	13	advcl	_	LangID=TT
-13	ярдәм	ярдәм	NOUN	_	Case=Nom|Number=Sing	14	compound:lvc	_	LangID=TT
-14	итте	ит	VERB	_	Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	LangID=TT|SpaceAfter=No
-15	.	.	PUNCT	_	_	14	punct	_	LangID=OTHER
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 6 obj	color:blue
+1	Әлбәттә	әлбәттә	ADV	_	_	10	advmod	_	LangID=TT|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	LangID=OTHER
+3	бер	бер	NUM	_	NumType=Card	4	nummod	_	LangID=TT
+4	ел	ел	NOUN	_	Case=Nom|Number=Sing	5	nmod	_	LangID=TT
+5	эчендә	эч	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	8	obl	_	LangID=TT
+6	барысын	барысы	PRON	_	Case=Acc|Number=Sing|PronType=Tot	8	obj	_	LangID=TT
+7	да	да	ADV	_	_	6	advmod	_	LangID=TT
+8	эшләп	эшлә	VERB	_	VerbForm=Conv	10	nsubj	_	LangID=TT
+9	бетерү	бетер	AUX	_	Case=Nom|Number=Sing|VerbForm=Vnoun	8	aux	_	LangID=TT
+10	мөмкин	мөмкин	ADJ	_	_	0	root	_	LangID=TT
+11	түгел	түгел	AUX	_	_	10	aux	_	LangID=TT|SpaceAfter=No
+12	.	.	PUNCT	_	_	10	punct	_	LangID=OTHER
 
 ~~~
 

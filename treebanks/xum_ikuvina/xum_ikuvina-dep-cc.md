@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-9 nodes (1%) are attached to their parents as `cc`.
+17 nodes (2%) are attached to their parents as `cc`.
 
-9 instances of `cc` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.
+17 instances of `cc` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.23529411764706.
 
-The following 2 pairs of parts of speech are connected with `cc`: <tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xum_ikuvina-pos-CCONJ.html">CCONJ</a></tt> (7; 78% instances), <tt><a href="xum_ikuvina-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xum_ikuvina-pos-CCONJ.html">CCONJ</a></tt> (2; 22% instances).
+The following 3 pairs of parts of speech are connected with `cc`: <tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xum_ikuvina-pos-CCONJ.html">CCONJ</a></tt> (10; 59% instances), <tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt>-<tt><a href="xum_ikuvina-pos-CCONJ.html">CCONJ</a></tt> (4; 24% instances), <tt><a href="xum_ikuvina-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xum_ikuvina-pos-CCONJ.html">CCONJ</a></tt> (3; 18% instances).
 
 
 ~~~ conllu
@@ -33,6 +33,25 @@ The following 2 pairs of parts of speech are connected with `cc`: <tt><a href="x
 9	per	per	ADP	_	_	8	case	_	_
 10	ikuvina	_	ADJ	_	Case=Abl|Number=Sing	8	amod	_	_
 11	feitu	_	VERB	2SImF	Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 1 cc	color:blue
+1	et	_	CCONJ	_	_	7	cc	_	_
+2	pihaklu	_	NOUN	_	Case=Gen|Number=Plur	4	nmod	_	_
+3	pune	_	SCONJ	_	_	4	mark	_	_
+4	tribřiçu	_	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	advcl	_	_
+5	fuiest	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut	4	cop	_	_
+6	akrutu	_	ADV	_	_	7	advmod	_	_
+7	revestu	_	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Fut	0	root	_	_
+8	emantu	_	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|Voice=Pass	7	ccomp	_	_
+9	herte	_	VERB	_	Number=Sing|Person=3|Voice=Pass	8	advcl	_	_
 
 ~~~
 

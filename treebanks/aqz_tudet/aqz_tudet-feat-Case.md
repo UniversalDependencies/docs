@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal.
 It occurs with 5 different values: `Abl`, `All`, `Dat`, `Loc`, `Tra`.
 
-50 tokens (5%) have a non-empty value of `Case`.
-43 types (11%) occur at least once with a non-empty value of `Case`.
-39 lemmas (14%) occur at least once with a non-empty value of `Case`.
-The feature is used with 6 part-of-speech tags: <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (32; 3% instances), <tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt> (9; 1% instances), <tt><a href="aqz_tudet-pos-DET.html">DET</a></tt> (6; 1% instances), <tt><a href="aqz_tudet-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="aqz_tudet-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="aqz_tudet-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+54 tokens (4%) have a non-empty value of `Case`.
+44 types (9%) occur at least once with a non-empty value of `Case`.
+40 lemmas (13%) occur at least once with a non-empty value of `Case`.
+The feature is used with 6 part-of-speech tags: <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (34; 3% instances), <tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt> (11; 1% instances), <tt><a href="aqz_tudet-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="aqz_tudet-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="aqz_tudet-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="aqz_tudet-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-32 <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> tokens (9% of all `NOUN` tokens) have a non-empty value of `Case`.
+34 <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> tokens (9% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="aqz_tudet-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (26; 81%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="aqz_tudet-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (28; 82%).
 
 `NOUN` tokens may have the following values of `Case`:
 
-* `Abl` (4; 13% of non-empty `Case`): <em>atʃiri, kɨrẽri, piri, tawtʃeri</em>
-* `All` (9; 28% of non-empty `Case`): <em>kɨrẽbõ, ekõ, kirẽbõ, kojõpebõ, pabapebõ, pibõ, tabɨtõ, tekõ</em>
+* `Abl` (4; 12% of non-empty `Case`): <em>atʃiri, kɨrẽri, piri, tawtʃeri</em>
+* `All` (11; 32% of non-empty `Case`): <em>kɨrẽbõ, tabɨtõ, ekõ, kirẽbõ, kojõpebõ, pabapebõ, pibõ, ɨkɨbõ, tekõ</em>
 * `Loc` (2; 6% of non-empty `Case`): <em>ɨkɨpe, eanampe</em>
-* `Tra` (17; 53% of non-empty `Case`): <em>kiakopna, kwena, menna, nakona, pitoana, takɨrapna, tatona, tawpɨkna, tawtʃena, emenna</em>
-* `EMPTY` (307): <em>ɨkɨ, pi, aramĩra, aparapia, ek, etɨ, kɨ, õjpe, kɨp, okwaj</em>
+* `Tra` (17; 50% of non-empty `Case`): <em>kiakopna, kwena, menna, nakona, pitoana, takɨrapna, tatona, tawpɨkna, tawtʃena, emenna</em>
+* `EMPTY` (357): <em>ɨkɨ, pi, aramĩra, pero, aparapia, õjpe, ek, etɨ, kɨ, kɨp</em>
 
 <table>
   <tr><th>Paradigm <i>pi</i></th><th><tt>All</tt></th><th><tt>Abl</tt></th></tr>
@@ -35,20 +35,20 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `PRON`
 
-9 <tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt> tokens (12% of all `PRON` tokens) have a non-empty value of `Case`.
+11 <tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt> tokens (12% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="aqz_tudet-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (5; 56%), <tt><a href="aqz_tudet-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (5; 56%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="aqz_tudet-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (7; 64%), <tt><a href="aqz_tudet-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (6; 55%).
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Abl` (2; 22% of non-empty `Case`): <em>aroperi, ẽromri</em>
-* `All` (4; 44% of non-empty `Case`): <em>erẽbõ, enõ, tebõ</em>
-* `Dat` (3; 33% of non-empty `Case`): <em>orẽbõ, ebõ</em>
-* `EMPTY` (66): <em>en, on, no, tara, arop, erẽ, kitʃe, i, orẽ, te</em>
+* `Abl` (2; 18% of non-empty `Case`): <em>aroperi, ẽromri</em>
+* `All` (5; 45% of non-empty `Case`): <em>erẽbõ, enõ, tebõ</em>
+* `Dat` (4; 36% of non-empty `Case`): <em>orẽbõ, ebõ</em>
+* `EMPTY` (81): <em>en, on, no, tara, arop, erẽ, i, kitʃe, orẽ, te</em>
 
 ### `DET`
 
-6 <tt><a href="aqz_tudet-pos-DET.html">DET</a></tt> tokens (16% of all `DET` tokens) have a non-empty value of `Case`.
+6 <tt><a href="aqz_tudet-pos-DET.html">DET</a></tt> tokens (15% of all `DET` tokens) have a non-empty value of `Case`.
 
 The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="aqz_tudet-feat-Deixis.html">Deixis</a></tt><tt>=Prox</tt> (5; 83%).
 
@@ -56,7 +56,7 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 
 * `All` (2; 33% of non-empty `Case`): <em>jẽbõ, kebõ</em>
 * `Dat` (4; 67% of non-empty `Case`): <em>kebõ</em>
-* `EMPTY` (31): <em>jẽ, ke, jẽrom, eme, ẽ, ta, tarom, ẽrom</em>
+* `EMPTY` (35): <em>jẽ, ke, jẽrom, eme, ẽ, jõ, ta, tarom, ẽrom</em>
 
 <table>
   <tr><th>Paradigm <i>ke</i></th><th><tt>Dat</tt></th><th><tt>All</tt></th></tr>
@@ -82,16 +82,16 @@ The most frequent other feature values with which `PART` and `Case` co-occurred:
 `PART` tokens may have the following values of `Case`:
 
 * `Tra` (1; 100% of non-empty `Case`): <em>ana</em>
-* `EMPTY` (46): <em>te, kom, ãka, a, mã, ne, pe, tea</em>
+* `EMPTY` (55): <em>te, kom, ekwa, ãka, a, mã, ne, pe, tea</em>
 
 ### `PROPN`
 
-1 <tt><a href="aqz_tudet-pos-PROPN.html">PROPN</a></tt> tokens (3% of all `PROPN` tokens) have a non-empty value of `Case`.
+1 <tt><a href="aqz_tudet-pos-PROPN.html">PROPN</a></tt> tokens (2% of all `PROPN` tokens) have a non-empty value of `Case`.
 
 `PROPN` tokens may have the following values of `Case`:
 
 * `All` (1; 100% of non-empty `Case`): <em>Kanibõ</em>
-* `EMPTY` (35): <em>Konibu, pupak, Tʃaruj, Buko, Kani, Karow, Pura, Txiramanty, Ururu, Ana</em>
+* `EMPTY` (48): <em>Konibu, pupak, Tʃaruj, Aramĩra, Buko, kani, Enotej, Karow, Pura, Txiramanty</em>
 
 ## Relations with Agreement in `Case`
 

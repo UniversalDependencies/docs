@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>Peter</em> (<tt><a href="sms_giellaga
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.453465).
+The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.465909).
 
 The 1st highest number of forms (1) was observed with the lemma “Brown”: <em>Brown</em>.
 

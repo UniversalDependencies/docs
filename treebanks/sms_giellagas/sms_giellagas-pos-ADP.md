@@ -30,7 +30,7 @@ The 10 most frequent ambiguous types:  <em>ool</em> (<tt><a href="sms_giellagas-
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.453465).
+The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.465909).
 
 The 1st highest number of forms (1) was observed with the lemma “luzz”: <em>luzz</em>.
 

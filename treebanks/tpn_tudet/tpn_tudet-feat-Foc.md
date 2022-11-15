@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-5 tokens (0%) have a non-empty value of `Foc`.
-5 types (0%) occur at least once with a non-empty value of `Foc`.
-5 lemmas (0%) occur at least once with a non-empty value of `Foc`.
-The feature is used with 3 part-of-speech tags: <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="tpn_tudet-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="tpn_tudet-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+6 tokens (0%) have a non-empty value of `Foc`.
+6 types (0%) occur at least once with a non-empty value of `Foc`.
+6 lemmas (1%) occur at least once with a non-empty value of `Foc`.
+The feature is used with 3 part-of-speech tags: <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="tpn_tudet-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="tpn_tudet-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 ### `VERB`
 
@@ -26,17 +26,15 @@ The most frequent other feature values with which `VERB` and `Foc` co-occurred: 
 
 ### `ADV`
 
-1 <tt><a href="tpn_tudet-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Foc`.
-
-The most frequent other feature values with which `ADV` and `Foc` co-occurred: <tt><a href="tpn_tudet-feat-Int.html">Int</a></tt><tt>=EMPTY</tt> (1; 100%).
+2 <tt><a href="tpn_tudet-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Foc`.
 
 `ADV` tokens may have the following values of `Foc`:
 
-* `Yes` (1; 100% of non-empty `Foc`): <em>Memẽte</em>
+* `Yes` (2; 100% of non-empty `Foc`): <em>Memẽte, Maʔẽtepe</em>
 
 ### `PRON`
 
-1 <tt><a href="tpn_tudet-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Foc`.
+1 <tt><a href="tpn_tudet-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Foc`.
 
 The most frequent other feature values with which `PRON` and `Foc` co-occurred: <tt><a href="tpn_tudet-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="tpn_tudet-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="tpn_tudet-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="tpn_tudet-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1; 100%).
 

@@ -46,7 +46,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 * `Frac` (1; 0% of non-empty `NumType`): <em>1\5</em>
 * `Ord` (716; 100% of non-empty `NumType`): <em>первый, второй, первого, 2, первые, 1, первых, первая, вторая, второго</em>
-* `EMPTY` (16168): <em>хороший, большой, нужно, отличный, лучше, неплохой, хорошая, хорошо, хорошее, вежливый</em>
+* `EMPTY` (16167): <em>хороший, большой, нужно, отличный, лучше, неплохой, хорошая, хорошо, хорошее, вежливый</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (189) occur only with one value of `NumType`.
 

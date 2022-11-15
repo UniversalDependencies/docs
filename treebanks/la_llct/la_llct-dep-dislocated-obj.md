@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Latin-LLCT: Relations: `dislocated:obj`
 
 This relation is a language-specific subtype of <tt><a href="la_llct-dep-dislocated.html">dislocated</a></tt>.
-There are also 2 other language-specific subtypes of `dislocated`: <tt><a href="la_llct-dep-dislocated-csubj.html">dislocated:csubj</a></tt>, <tt><a href="la_llct-dep-dislocated-nsubj.html">dislocated:nsubj</a></tt>.
+There are also 3 other language-specific subtypes of `dislocated`: <tt><a href="la_llct-dep-dislocated-csubj.html">dislocated:csubj</a></tt>, <tt><a href="la_llct-dep-dislocated-nsubj.html">dislocated:nsubj</a></tt>, <tt><a href="la_llct-dep-dislocated-obl.html">dislocated:obl</a></tt>.
 
-693 nodes (0%) are attached to their parents as `dislocated:obj`.
+695 nodes (0%) are attached to their parents as `dislocated:obj`.
 
-521 instances of `dislocated:obj` (75%) are left-to-right (parent precedes child).
-Average distance between parent and child is 20.5714285714286.
+519 instances of `dislocated:obj` (75%) are left-to-right (parent precedes child).
+Average distance between parent and child is 20.6762589928058.
 
-The following 7 pairs of parts of speech are connected with `dislocated:obj`: <tt><a href="la_llct-pos-VERB.html">VERB</a></tt>-<tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt> (648; 94% instances), <tt><a href="la_llct-pos-VERB.html">VERB</a></tt>-<tt><a href="la_llct-pos-DET.html">DET</a></tt> (25; 4% instances), <tt><a href="la_llct-pos-VERB.html">VERB</a></tt>-<tt><a href="la_llct-pos-PRON.html">PRON</a></tt> (9; 1% instances), <tt><a href="la_llct-pos-VERB.html">VERB</a></tt>-<tt><a href="la_llct-pos-PROPN.html">PROPN</a></tt> (6; 1% instances), <tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="la_llct-pos-VERB.html">VERB</a></tt>-<tt><a href="la_llct-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="la_llct-pos-VERB.html">VERB</a></tt>-<tt><a href="la_llct-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `dislocated:obj`: <tt><a href="la_llct-pos-VERB.html">VERB</a></tt>-<tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt> (648; 93% instances), <tt><a href="la_llct-pos-VERB.html">VERB</a></tt>-<tt><a href="la_llct-pos-DET.html">DET</a></tt> (27; 4% instances), <tt><a href="la_llct-pos-VERB.html">VERB</a></tt>-<tt><a href="la_llct-pos-PRON.html">PRON</a></tt> (9; 1% instances), <tt><a href="la_llct-pos-VERB.html">VERB</a></tt>-<tt><a href="la_llct-pos-PROPN.html">PROPN</a></tt> (6; 1% instances), <tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="la_llct-pos-VERB.html">VERB</a></tt>-<tt><a href="la_llct-pos-ADJ.html">ADJ</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -31,8 +31,8 @@ The following 7 pairs of parts of speech are connected with `dislocated:obj`: <t
 6	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	10	mark	_	_
 7	integrum	integer	ADJ	a|a|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing	9	nmod	_	_
 8	mihi	ego	PRON	p|p|1|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	10	obl:arg	_	_
-9	eas	is	PRON	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Dem,Prs	10	obj	_	_
-10	dedisti	do	VERB	v|v|2|s|r|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+9	eas	is	PRON	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
+10	dedisti	do	VERB	v|v|2|s|r|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Perfectum
 11	;	;	PUNCT	Punc	_	10	punct	_	_
 
 ~~~
@@ -48,10 +48,10 @@ The following 7 pairs of parts of speech are connected with `dislocated:obj`: <t
 2	omnia	omnis	DET	a|a|-|p|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Plur|PronType=Tot	8	dislocated:obj	_	SpaceAfter=No
 3	,	,	PUNCT	Punc	_	2	punct	_	_
 4	mihi	ego	PRON	p|p|1|s|-|-|-|f|d|-	Case=Dat|Gender=Fem|Number=Sing|Person=1|PronType=Prs	8	obl:arg	_	_
-5	eas	is	PRON	p|p|-|p|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Dem,Prs	8	obj	_	_
+5	eas	is	PRON	p|p|-|p|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs	8	obj	_	_
 6	livellario	libellarius	ADJ	a|a|-|s|-|-|-|n|b|-	Case=Abl|Gender=Neut|Number=Sing	7	amod	_	_
 7	nomine	nomen	NOUN	n|n|-|s|-|-|-|n|b|-	Case=Abl|Gender=Neut|Number=Sing	8	obl	_	_
-8	dedisti	do	VERB	v|v|2|s|r|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+8	dedisti	do	VERB	v|v|2|s|r|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
 9	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	10	case	_	_
 10	integrum	integer	ADJ	a|a|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing	8	obl	_	SpaceAfter=No
 11	.	.	PUNCT	Punc	_	8	punct	_	_
@@ -73,8 +73,8 @@ The following 7 pairs of parts of speech are connected with `dislocated:obj`: <t
 6	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	7	cc	_	_
 7	Ansuald	Ansualdus	PROPN	Propn|n|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	5	conj	_	_
 8	germani	germanus	NOUN	n|n|-|p|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Plur	5	appos	_	_
-9	abere	habeo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Act	10	xcomp	_	_
-10	videtur	uideo	VERB	v|v|3|s|p|i|p|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+9	abere	habeo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	10	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+10	videtur	uideo	VERB	v|v|3|s|p|i|p|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 11	ecclesias	ecclesia	NOUN	n|n|-|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur	9	obj	_	_
 12	sancte	sanctus	ADJ	a|a|-|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing	13	amod	_	_
 13	Marie	Maria	PROPN	Propn|n|-|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	_
@@ -85,13 +85,13 @@ The following 7 pairs of parts of speech are connected with `dislocated:obj`: <t
 18	casis	casa	NOUN	n|n|-|p|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Plur	11	nmod	_	_
 19	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	20	cc	_	_
 20	rebus	res	NOUN	n|n|-|p|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Plur	18	conj	_	_
-21	eius	is	PRON	p|p|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Dem,Prs	18	nmod	_	SpaceAfter=No
+21	eius	is	PRON	p|p|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	nmod	_	SpaceAfter=No
 22	,	,	PUNCT	Punc	_	25	punct	_	_
-23	et	et	ADV	c|c|-|-|-|-|-|-|-|-	_	25	advmod:emph	_	_
+23	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	25	advmod:emph	_	_
 24	ecce	ecce	ADV	e|e|-|-|-|-|-|-|-|-	PronType=Dem	25	advmod:emph	_	_
-25	livellum	libellus	NOUN	n|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	10	parataxis	_	_
+25	livellum	libellus	NOUN	n|n|-|s|-|-|-|m|a|-	Case=Acc|Degree=Dim|Gender=Masc|Number=Sing	10	parataxis	_	_
 26	quomodo	quomodo	SCONJ	d|d|-|-|-|-|-|-|-|-	_	39	mark	_	_
-27	eas	is	PRON	p|p|-|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Dem,Prs	39	dislocated:obj	_	_
+27	eas	is	PRON	p|p|-|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs	39	dislocated:obj	_	_
 28	da	da	ADP	r|r|-|-|-|-|-|-|-|-	_	30	case	_	_
 29	quondam	quondam	ADJ	a|a|-|-|-|-|-|-|-|-	_	30	amod	_	_
 30	Ambrosio	Ambrosius	PROPN	Propn|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	39	obl	_	SpaceAfter=No
@@ -102,8 +102,8 @@ The following 7 pairs of parts of speech are connected with `dislocated:obj`: <t
 35	Hieremie	Hieremias	PROPN	Propn|n|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	34	flat	_	_
 36	presul	praesul	NOUN	n|n|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	34	appos	_	SpaceAfter=No
 37	,	,	PUNCT	Punc	_	30	punct	_	_
-38	eas	is	PRON	p|p|-|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Dem,Prs	39	obj	_	_
-39	receperunt	recipio	VERB	v|v|3|p|r|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	25	acl	_	_
+38	eas	is	PRON	p|p|-|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs	39	obj	_	_
+39	receperunt	recipio	VERB	v|v|3|p|r|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	25	acl	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
 40	iste	iste	DET	p|p|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	41	det	_	_
 41	Bellisarius	Belisarius	PROPN	Propn|n|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	39	nsubj	_	_
 42	presbiter	presbyter	NOUN	n|n|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	41	appos	_	SpaceAfter=No
@@ -111,7 +111,7 @@ The following 7 pairs of parts of speech are connected with `dislocated:obj`: <t
 44	qui	qui	PRON	p|p|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	46	nsubj	_	_
 45	tunc	tunc	ADV	d|d|-|-|-|-|-|-|-|-	_	46	advmod	_	_
 46	clericus	clericus	NOUN	n|n|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	41	acl:relcl	_	_
-47	erat	sum	AUX	v|v|3|s|i|i|a|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	46	cop	_	SpaceAfter=No
+47	erat	sum	AUX	v|v|3|s|i|i|a|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	46	cop	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Imperfectum
 48	,	,	PUNCT	Punc	_	50	punct	_	_
 49	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	50	cc	_	_
 50	Samuel	Samuel	PROPN	Propn|n|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	41	conj	_	_

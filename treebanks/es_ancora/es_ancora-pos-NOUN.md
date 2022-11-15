@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Spanish-AnCora: POS Tags: `NOUN`
 
-There are 9009 `NOUN` lemmas (31%), 11783 `NOUN` types (27%) and 100568 `NOUN` tokens (18%).
+There are 9008 `NOUN` lemmas (31%), 11783 `NOUN` types (27%) and 100568 `NOUN` tokens (18%).
 Out of 17 observed tags, the rank of `NOUN` is: 2 in number of lemmas, 1 in number of types and 1 in number of tokens.
 
 The 10 most frequent `NOUN` lemmas: <em>año, presidente, país, partido, millón, día, equipo, parte, vez, mes</em>
@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>partido</em> (<tt><a href="es_ancora-
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 1.307914 (the average of all parts of speech is 1.501603).
+The form / lemma ratio of `NOUN` is 1.308060 (the average of all parts of speech is 1.503003).
 
 The 1st highest number of forms (4) was observed with the lemma “petrolero”: <em>petrolera, petroleras, petrolero, petroleros</em>.
 
@@ -64,7 +64,7 @@ The 3rd highest number of forms (3) was observed with the lemma “club”: <em>
 `NOUN` occurs with 11 feature-value pairs: `AdvType=Tim`, `Foreign=Yes`, `Gender=Fem`, `Gender=Masc`, `NumForm=Digit`, `Number=Plur`, `Number=Sing`, `PunctType=Comm`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`
 
 `NOUN` occurs with 17 feature combinations.
-The most frequent feature combination is `Gender=Masc|Number=Sing` (31416 tokens).
+The most frequent feature combination is `Gender=Masc|Number=Sing` (31420 tokens).
 Examples: <em>presidente, equipo, partido, país, año, ministro, mundo, grupo, día, caso</em>
 
 

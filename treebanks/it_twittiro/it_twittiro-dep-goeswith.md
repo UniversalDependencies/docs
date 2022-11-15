@@ -13,7 +13,7 @@ This relation is universal.
 1 instances of `goeswith` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 1 pairs of parts of speech are connected with `goeswith`: <tt><a href="it_twittiro-pos-X.html">X</a></tt>-<tt><a href="it_twittiro-pos-X.html">X</a></tt> (1; 100% instances).
+The following 1 pairs of parts of speech are connected with `goeswith`: <tt><a href="it_twittiro-pos-ADV.html">ADV</a></tt>-<tt><a href="it_twittiro-pos-X.html">X</a></tt> (1; 100% instances).
 
 
 ~~~ conllu
@@ -34,8 +34,8 @@ The following 1 pairs of parts of speech are connected with `goeswith`: <tt><a h
 10	'	'	PUNCT	FB	_	11	punct	_	_
 11	morire	morire	VERB	V	VerbForm=Inf	9	ccomp	_	_
 12	'	'	PUNCT	FB	_	11	punct	_	_
-13	in	in	X	X	_	9	advmod	_	_
-14	vano	vano	X	X	_	13	goeswith	_	SpaceAfter=No
+13	in	invano	ADV	B	Typo=Yes	9	advmod	_	_
+14	vano	_	X	X	_	13	goeswith	_	SpaceAfter=No
 15	,	,	PUNCT	FF	_	18	punct	_	_
 16	non	non	ADV	BN	PronType=Neg	17	advmod	_	_
 17	qua	qua	ADV	B	_	18	advmod	_	_

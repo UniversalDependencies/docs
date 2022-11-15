@@ -2208,7 +2208,7 @@ udver: '2'
             <li>VERB-Inf--PRON (197)</li>
             <li>VERB-Inf--PRON-Nom (521)</li>
             <li>VERB-Sup--NOUN (3)</li>
-            <li>VERB-Sup--NOUN-Nom (275)</li>
+            <li>VERB-Sup--NOUN-Nom (274)</li>
             <li>VERB-Sup--PRON (100)</li>
             <li>VERB-Sup--PRON-Nom (152)</li>
           </ul>

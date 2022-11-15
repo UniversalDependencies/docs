@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-622 nodes (23%) are attached to their parents as `punct`.
+682 nodes (24%) are attached to their parents as `punct`.
 
-318 instances of `punct` (51%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.91479099678457.
+345 instances of `punct` (51%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.82111436950147.
 
-The following 8 pairs of parts of speech are connected with `punct`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-PUNCT.html">PUNCT</a></tt> (512; 82% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-PUNCT.html">PUNCT</a></tt> (46; 7% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt>-<tt><a href="sms_giellagas-pos-PUNCT.html">PUNCT</a></tt> (27; 4% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt>-<tt><a href="sms_giellagas-pos-PUNCT.html">PUNCT</a></tt> (19; 3% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sms_giellagas-pos-PUNCT.html">PUNCT</a></tt> (7; 1% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-PUNCT.html">PUNCT</a></tt> (6; 1% instances), <tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt>-<tt><a href="sms_giellagas-pos-PUNCT.html">PUNCT</a></tt> (4; 1% instances), <tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sms_giellagas-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `punct`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-PUNCT.html">PUNCT</a></tt> (561; 82% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-PUNCT.html">PUNCT</a></tt> (50; 7% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt>-<tt><a href="sms_giellagas-pos-PUNCT.html">PUNCT</a></tt> (31; 5% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt>-<tt><a href="sms_giellagas-pos-PUNCT.html">PUNCT</a></tt> (19; 3% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-PUNCT.html">PUNCT</a></tt> (8; 1% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sms_giellagas-pos-PUNCT.html">PUNCT</a></tt> (7; 1% instances), <tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt>-<tt><a href="sms_giellagas-pos-PUNCT.html">PUNCT</a></tt> (4; 1% instances), <tt><a href="sms_giellagas-pos-PART.html">PART</a></tt>-<tt><a href="sms_giellagas-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sms_giellagas-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

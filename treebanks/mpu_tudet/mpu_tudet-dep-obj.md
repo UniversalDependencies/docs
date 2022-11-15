@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-12 nodes (8%) are attached to their parents as `obj`.
+13 nodes (7%) are attached to their parents as `obj`.
 
-12 instances of `obj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.75.
+13 instances of `obj` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.69230769230769.
 
-The following 3 pairs of parts of speech are connected with `obj`: <tt><a href="mpu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="mpu_tudet-pos-NOUN.html">NOUN</a></tt> (10; 83% instances), <tt><a href="mpu_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mpu_tudet-pos-DET.html">DET</a></tt> (1; 8% instances), <tt><a href="mpu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="mpu_tudet-pos-DET.html">DET</a></tt> (1; 8% instances).
+The following 3 pairs of parts of speech are connected with `obj`: <tt><a href="mpu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="mpu_tudet-pos-NOUN.html">NOUN</a></tt> (11; 85% instances), <tt><a href="mpu_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mpu_tudet-pos-DET.html">DET</a></tt> (1; 8% instances), <tt><a href="mpu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="mpu_tudet-pos-DET.html">DET</a></tt> (1; 8% instances).
 
 
 ~~~ conllu

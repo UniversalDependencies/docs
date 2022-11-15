@@ -143,7 +143,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 * `Plur` (6; 30% of non-empty `Number`): <em>a</em>
 * `Sing` (14; 70% of non-empty `Number`): <em>bep, pep, kement</em>
-* `EMPTY` (1185): <em>ar, an, ur, al, r, un, e, ho, n, o</em>
+* `EMPTY` (1186): <em>ar, an, ur, al, r, un, e, ho, n, o</em>
 
 ### `ADJ`
 

@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Card`, `Ord`.
 
-1617 tokens (1%) have a non-empty value of `NumType`.
+1618 tokens (1%) have a non-empty value of `NumType`.
 412 types (2%) occur at least once with a non-empty value of `NumType`.
-386 lemmas (3%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="it_postwita-pos-NUM.html">NUM</a></tt> (1411; 1% instances), <tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt> (206; 0% instances).
+385 lemmas (3%) occur at least once with a non-empty value of `NumType`.
+The feature is used with 2 part-of-speech tags: <tt><a href="it_postwita-pos-NUM.html">NUM</a></tt> (1412; 1% instances), <tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt> (206; 0% instances).
 
 ### `NUM`
 
-1411 <tt><a href="it_postwita-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
+1412 <tt><a href="it_postwita-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (1411; 100% of non-empty `NumType`): <em>2, 3, due, 1, 5, 4, 7, 6, 10, 20</em>
+* `Card` (1412; 100% of non-empty `NumType`): <em>2, 3, due, 1, 5, 4, 7, 6, 10, 20</em>
 * `EMPTY` (2): <em>100, 5</em>
 
-`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (370) occur only with one value of `NumType`.
+`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (369) occur only with one value of `NumType`.
 
 ### `ADJ`
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (206; 100% of non-empty `NumType`): <em>primo, prima, primi, prime, ennesimo, seconda, terzo, 1°, terza, ennesima</em>
-* `EMPTY` (4790): <em>nuovo, grande, bella, buon, buona, vero, nuova, giusto, politica, italiana</em>
+* `EMPTY` (4792): <em>nuovo, grande, bella, buon, buona, vero, nuova, giusto, politica, italiana</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (17) occur only with one value of `NumType`.
 

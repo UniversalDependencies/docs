@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-40 nodes (2%) are attached to their parents as `acl`.
+47 nodes (2%) are attached to their parents as `acl`.
 
-40 instances of `acl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.3.
+46 instances of `acl` (98%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.42553191489362.
 
-The following 8 pairs of parts of speech are connected with `acl`: <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (29; 73% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (4; 10% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (2; 5% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (1; 3% instances).
+The following 9 pairs of parts of speech are connected with `acl`: <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (31; 66% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (7; 15% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (3; 6% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="nds_lsdc-pos-DET.html">DET</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -54,12 +54,12 @@ The following 8 pairs of parts of speech are connected with `acl`: <tt><a href="
 3	ter	dår	ADV	_	_	6	advmod	_	lemma[gml]=dâr¹
 4	mer	men	ADV	_	_	6	advmod	_	lemma[gml]=men³
 5	eyne	eyn	PRON	_	Case=Acc|Gender=Fem,Masc|Number=Sing|PronType=Ind	6	obj	_	lemma[gml]=êⁱn¹
-6	wüs	weaten	VERB	_	Mood=Sub|Number=Sing|Person=1|Tense=Past	0	root	_	Mood[regional]=Ind|lemma[gml]=wēten¹|SpaceAfter=No
+6	wüs	weaten	VERB	_	Mood=Ind,Sub|Number=Sing|Person=1|Tense=Past	0	root	_	lemma[gml]=wēten¹|SpaceAfter=No
 7	,	,	PUNCT	_	_	12	punct	_	_
-8	den	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	12	nsubj	_	Case[regional]=Acc|lemma[gml]=dê¹
+8	den	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	12	nsubj	_	lemma[gml]=dê¹
 9	unsen	uns	DET	_	Case=Acc|Gender=Masc|Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs	10	det	_	lemma[gml]=unse¹
 10	kråm	kråm	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	12	obj	_	lemma[gml]=krâm
-11	wol	willen	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past	12	aux	_	lemma[gml]=willen¹|Mood[regional]=Ind
+11	wol	willen	AUX	_	Mood=Ind,Sub|Number=Sing|Person=3|Tense=Past	12	aux	_	lemma[gml]=willen¹
 12	koupen	köypen	VERB	_	VerbForm=Inf	5	acl	_	lemma[gml]=kö̂pen|SpaceAfter=No
 13	!	!	PUNCT	_	_	6	punct	_	SpaceAfter=No
 14	"	"	PUNCT	_	_	6	punct	_	_
@@ -68,36 +68,21 @@ The following 8 pairs of parts of speech are connected with `acl`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 10 acl	color:blue
-1	Vertelsel	vortelsel	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
-2	van	van	ADP	_	AdpType=Prep	4	case	_	lemma[gml]=van¹
-3	nen	en	DET	_	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Case[regional]=Acc|lemma[gml]=êⁱn¹
-4	buur	buur	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	1	nmod	_	Case[regional]=Acc|lemma[gml]=bûr¹|SpaceAfter=No
-5	,	,	PUNCT	_	_	10	punct	_	_
-6	den	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	10	nsubj	_	Case[regional]=Acc|lemma[gml]=dê¹
-7	et	et	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	9	det	_	lemma[gml]=et²
-8	harde	hard	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	lemma[gml]=hart¹
-9	werken	werken	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	10	nmod	_	lemma[gml]=werken¹
-10	möde	möde	ADJ	_	Degree=Pos	4	acl	_	lemma[gml]=mö̂de¹
-11	en	un	CCONJ	_	_	15	cc	_	lemma[gml]=unde²
-12	et	et	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	14	det	_	lemma[gml]=et²
-13	pap	pap	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	14	obj	_	lemma[gml]=pap¹
-14	etten	eaten	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	15	nmod	_	lemma[gml]=ēten
-15	sat	sat	ADJ	_	Degree=Pos	10	conj	_	lemma[gml]=sat¹
-16	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	10	cop	_	lemma[gml]=wēsen²|SpaceAfter=No
-17	,	,	PUNCT	_	_	23	punct	_	_
-18	en	un	CCONJ	_	_	23	cc	_	lemma[gml]=unde²
-19	et	et	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	23	obj	_	lemma[gml]=et¹
-20	in	in	ADP	_	AdpType=Prep	22	case	_	lemma[gml]=in²
-21	de	de	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	Case[regional]=Acc|lemma[gml]=dê¹
-22	stad	stad	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	23	obl	_	Case[regional]=Acc|lemma[gml]=stat⁴
-23	güng	gån	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	10	conj	_	lemma[gml]=gân
-24	söken	söken	VERB	_	VerbForm=Inf	23	xcomp	_	lemma[gml]=sö̂ken|SpaceAfter=No
-25	.	.	PUNCT	_	_	1	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 acl	color:blue
+1	Oaver	öäver	ADP	_	AdpType=Prep	3	case	_	_
+2	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	lemma[gml]=dê¹
+3	kunst	kunst	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+4	gesund	gesund	ADJ	_	Degree=Pos	3	acl	_	_
+5	te	to	PART	_	PartType=Inf	4	mark	_	_
+6	syn	weasen	AUX	_	VerbForm=Inf	4	cop	_	lemma[gml]=wēsen²
+7	van	van	ADP	_	AdpType=Prep	8	case	_	lemma[gml]=van¹
+8	E.	E.	PROPN	_	Number=Sing	3	parataxis	_	_
+9	Smelzkop	Smelzkop	PROPN	_	Number=Sing	8	flat	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

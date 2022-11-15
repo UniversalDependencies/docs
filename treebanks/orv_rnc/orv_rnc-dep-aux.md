@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="orv_rnc-dep-aux-pass.html">aux:pass</a></tt>.
 
-164 nodes (0%) are attached to their parents as `aux`.
+178 nodes (0%) are attached to their parents as `aux`.
 
-106 instances of `aux` (65%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.74390243902439.
+115 instances of `aux` (65%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.7752808988764.
 
-The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (131; 80% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (15; 9% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (10; 6% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (4; 2% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (142; 80% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (16; 9% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (12; 7% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (4; 2% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -59,36 +59,35 @@ The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 1 aux	color:blue
-1	Буди	быти	AUX	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	3	aux	_	_
-2	вамъ	вы	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	3	iobj	_	_
-3	свѣдомо	свѣдомый	ADJ	AdjType=Predic	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	SpaceAfter=No
-4	:	:	PUNCT	_	_	7	punct	_	_
-5	братьи	братья	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	_
-6	нашеи	нашъ	DET	_	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	5	det	_	_
-7	побито	побити	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	3	csubj	_	_
-8	на	на	ADP	_	_	9	case	_	_
-9	морѣ	море	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	7	obl	_	_
-10	12	12	NUM	_	Case=Nom|NumForm=Digit	11	nummod:gov	_	_
-11	человека	человекъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	7	nsubj:pass	_	_
-12	в	въ	ADP	_	_	14	case	_	_
-13	ъднои	одинъ	NUM	_	Case=Loc|Gender=Fem|Number=Sing	14	nummod	_	_
-14	лодьи	лодья	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
-15	,	_	PUNCT	_	_	20	punct	_	_
-16	и	и	CCONJ	_	_	20	cc	_	_
-17	тыи	тотъ	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	18	det	_	_
-18	товаръ	товаръ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	20	obj	_	_
-19	розбоиники	розбойникъ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	20	nsubj	_	_
-20	привезлѣ	привезти	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	7	conj	_	_
-21	к	къ	ADP	_	_	22	case	_	_
-22	вамъ	вы	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	20	obl	_	_
-23	в	въ	ADP	_	_	24	case	_	_
-24	Любокъ	Любокъ	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	20	obl	_	SpaceAfter=No
-25	.	.	PUNCT	_	_	3	punct	_	_
+# visual-style 21	bgColor:blue
+# visual-style 21	fgColor:white
+# visual-style 23	bgColor:blue
+# visual-style 23	fgColor:white
+# visual-style 23 21 aux	color:blue
+1	И	и	CCONJ	_	_	2	cc	_	wf="И"|SpaceAfter=Yes
+2	мяса	мясо	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	0	root	_	wf="мяса"|SpaceAfter=Yes
+3	б	бъ	AUX	_	Analyt=Yes|Mood=Cnd	2	orphan	_	wf="б"|SpaceAfter=Yes
+4	свиные	свиной	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	2	amod	_	wf="свиные"|SpaceAfter=No
+5	,	,	PUNCT	_	_	9	punct	_	wf=","|SpaceAfter=Yes
+6	чтоб	чтобъ	SCONJ	_	_	9	mark	_	wf="чтоб"|SpaceAfter=Yes
+7	не	не	PART	_	Polarity=Neg	9	advmod	_	wf="не"|SpaceAfter=Yes
+8	по	по	ADP	_	_	9	case	_	wf="по"|SpaceAfter=Yes
+9	летошнему	летошнему	ADV	_	Degree=Pos	2	advcl	_	wf="летошнему"|SpaceAfter=Yes
+10	–	–	PUNCT	_	_	17	punct	_	wf="–"|SpaceAfter=Yes
+11	лбов	лобъ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	17	obj	_	wf="лбов"|SpaceAfter=Yes
+12	и	и	CCONJ	_	_	13	cc	_	wf="и"|SpaceAfter=Yes
+13	спин	спина	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	11	conj	_	wf="спин"|SpaceAfter=Yes
+14	к	къ	ADP	_	_	15	case	_	wf="к"|SpaceAfter=Yes
+15	полтям	полоть	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	17	obl	_	wf="полтям"|SpaceAfter=Yes
+16	не	не	PART	_	Polarity=Neg	17	advmod	_	wf="не"|SpaceAfter=Yes
+17	припущат(ь)	припущати	VERB	_	VerbForm=Inf|Voice=Act	2	parataxis	_	wf="припущать"|SpaceAfter=No
+18	,	,	PUNCT	_	_	23	punct	_	wf=","|SpaceAfter=Yes
+19	и	и	CCONJ	_	_	23	cc	_	wf="и"|SpaceAfter=Yes
+20	ососы	ососъ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	23	nsubj	_	wf="ососы"|SpaceAfter=Yes
+21	б	бъ	AUX	_	Analyt=Yes|Mood=Cnd	23	aux	_	wf="б"|SpaceAfter=Yes
+22	были	быти	AUX	_	Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	23	cop	_	wf="были"|SpaceAfter=Yes
+23	добрые	добрый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	17	conj	_	wf="добрые"|SpaceAfter=No
+24	.	.	PUNCT	_	_	17	punct	_	wf="."|SpaceAfter=Yes
 
 ~~~
 

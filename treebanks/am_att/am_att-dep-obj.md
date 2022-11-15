@@ -25,9 +25,9 @@ The following 10 pairs of parts of speech are connected with `obj`: <tt><a href=
 1	መጽሐፍ	መጽሐፍ	NOUN	NOUN	_	4	obj	_	Translit=mäcəħäfə|LTranslit=mäcəħäfə
 2	ኡ	ኡ	DET	DET	_	1	det	_	Translit='u|LTranslit='u
 3	ን	ን	PART	ACC	_	1	case	_	Translit=nə|LTranslit=nə
-4	አስያዝ	አስያዝ	VERB	VERB	Voice=Cau	0	root	_	Translit='äsəjazə|LTranslit='äsəjazə
-5	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	4	nsubj	_	Translit='ă|LTranslit='ă
-6	ኣት	ኣት	PRON	OBJC	Gender=Fem|Number=Sing|Person=3	4	iobj	_	Translit='atə|LTranslit='atə
+4	አስያዝ	አስያዝ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Cau	0	root	_	Translit='äsəjazə|LTranslit='äsəjazə
+5	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	LTranslit='əsu|Translit='ă
+6	ኣት	እሱ	PRON	OBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	iobj	_	LTranslit='əsu|Translit='atə
 7	።	።	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=.
 
 ~~~
@@ -41,9 +41,9 @@ The following 10 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 3 5 obj	color:blue
 1	ከ	ከ	ADP	ADP	Case=Loc	2	case	_	Translit=kä|LTranslit=kä
 2	ቤት	ቤት	NOUN	NOUN	_	3	obl	_	Translit=betə|LTranslit=betə
-3	አስወጣ	አስወጣ	VERB	VERB	Voice=Cau	0	root	_	Translit='äsəwäţa|LTranslit='äsəwäţa
-4	ሁ	ሁ	PRON	SUBJC	Number=Sing|Person=1	3	nsubj	_	Translit=hu|LTranslit=hu
-5	ኣት	ኣት	PRON	OBJC	Gender=Fem|Number=Sing|Person=3	3	obj	_	Translit='atə|LTranslit='atə
+3	አስወጣ	አስወጣ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Cau	0	root	_	Translit='äsəwäţa|LTranslit='äsəwäţa
+4	ሁ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	LTranslit='əne|Translit=hu
+5	ኣት	እሱ	PRON	OBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	_	LTranslit='əsu|Translit='atə
 6	።	።	PUNCT	PUNCT	_	3	punct	_	Translit=.|LTranslit=.
 
 ~~~
@@ -60,12 +60,12 @@ The following 10 pairs of parts of speech are connected with `obj`: <tt><a href=
 3	ን	ን	PART	ACC	_	1	case	_	Translit=nə|LTranslit=nə
 4	ከ	ከ	ADP	ADP	_	5	case	_	Translit=kä|LTranslit=kä
 5	መክፈት	መክፈት	NOUN	NOUN	VerbForm=Vnoun	9	advcl	_	Translit=mäkəfätə|LTranslit=mäkəfätə
-6	ኤ	ኤ	PRON	POSM	Number=Sing|Person=1|Poss=Yes	5	nmod	_	Translit='e|LTranslit='e
-7	እሷ	እሷ	PRON	PRON	_	9	obj	_	Translit='əsă|LTranslit='əsă
+6	ኤ	እኔ	PRON	POSM	Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod	_	LTranslit='əne|Translit='e
+7	እሷ	እሱ	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	obj	_	LTranslit='əsu|Translit='əsă
 8	ን	ን	PART	ACC	_	7	case	_	Translit=nə|LTranslit=nə
-9	አየ	አየ	VERB	VERB	_	0	root	_	Translit='äjä|LTranslit='äjä
+9	አየ	አየ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit='äjä|LTranslit='äjä
 10	ሁ	ሁ	PRON	SUBJC	_	9	nsubj	_	Translit=hu|LTranslit=hu
-11	ኣት	ኣት	PRON	OBJC	Gender=Fem|Number=Sing|Person=3	9	expl	_	Translit='atə|LTranslit='atə
+11	ኣት	እሱ	PRON	OBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	expl	_	LTranslit='əsu|Translit='atə
 12	።	።	PUNCT	PUNCT	_	9	punct	_	Translit=.|LTranslit=.
 
 ~~~

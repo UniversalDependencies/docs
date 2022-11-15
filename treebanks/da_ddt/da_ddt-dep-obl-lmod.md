@@ -26,7 +26,7 @@ The following 6 pairs of parts of speech are connected with `obl:lmod`: <tt><a h
 1	Kør	køre	VERB	_	Mood=Imp	11	ccomp	_	_
 2	den	den	DET	_	Gender=Com|Number=Sing|PronType=Dem	3	det	_	_
 3	vej	vej	NOUN	_	Definite=Ind|Gender=Com|Number=Sing	1	obl:lmod	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	3	punct	_	_
+4	,	,	PUNCT	_	_	6	punct	_	_
 5	du	du	PRON	_	Case=Nom|Gender=Com|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
 6	får	få	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl:relcl	_	_
 7	besked	besked	NOUN	_	Definite=Ind|Gender=Com|Number=Sing	6	obj	_	_
@@ -56,7 +56,7 @@ The following 6 pairs of parts of speech are connected with `obl:lmod`: <tt><a h
 7	i	i	ADP	_	AdpType=Prep	9	case	_	_
 8	den	den	DET	_	Gender=Com|Number=Sing|PronType=Dem	9	det	_	_
 9	provinsby	provinsby	NOUN	_	Definite=Ind|Gender=Com|Number=Sing	6	nmod	_	SpaceAfter=No
-10	,	,	PUNCT	_	_	9	punct	_	_
+10	,	,	PUNCT	_	_	12	punct	_	_
 11	vi	vi	PRON	_	Case=Nom|Gender=Com|Number=Plur|Person=1|PronType=Prs	12	nsubj	_	_
 12	bor	bo	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	_	_
 13	i	i	ADP	_	AdpType=Prep	12	obl:lmod	_	SpaceAfter=No

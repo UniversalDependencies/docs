@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="uk_iu-dep-det.html">det</a></tt>.
 There are also 1 other language-specific subtypes of `det`: <tt><a href="uk_iu-dep-det-nummod.html">det:nummod</a></tt>.
 
-145 nodes (0%) are attached to their parents as `det:numgov`.
+146 nodes (0%) are attached to their parents as `det:numgov`.
 
-143 instances of `det:numgov` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.31724137931034.
+144 instances of `det:numgov` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.31506849315068.
 
-The following 4 pairs of parts of speech are connected with `det:numgov`: <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (141; 97% instances), <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `det:numgov`: <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (141; 97% instances), <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="uk_iu-pos-NUM.html">NUM</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -99,7 +99,7 @@ The following 4 pairs of parts of speech are connected with `det:numgov`: <tt><a
 14	і	і	CCONJ	Ccs	_	15	cc	15:cc	Id=15lw|LTranslit=i|Translit=i
 15	хати	хата	NOUN	Ncfpnn	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	4	conj	2:nsubj|4:conj	Id=15lx|LTranslit=chata|Translit=chaty
 16	(	(	PUNCT	U	_	17	punct	17:punct	Id=15ly|LTranslit=(|SpaceAfter=No|Translit=(
-17	кухня	кухня	NOUN	Ncfsnn	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	15	appos	15:appos|23:obl:rel	Id=15lz|LTranslit=kuchńа|SpaceAfter=No|Translit=kuchńа
+17	кухня	кухня	NOUN	Ncfsnn	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	15	appos	15:appos|23:obl	Id=15lz|LTranslit=kuchńа|SpaceAfter=No|Translit=kuchńа
 18	,	,	PUNCT	U	_	23	punct	23:punct	Id=15m0|LTranslit=,|Translit=,
 19	звідки	звідки	ADV	Pr------r	PronType=Rel	23	advmod	17:ref|23:advmod	Id=15m1|LTranslit=zvidky|Translit=zvidky
 20	тарілки	тарілка	NOUN	Ncfpan	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	23	obj	23:obj	Id=15m2|LTranslit=tarilka|Translit=tarilky

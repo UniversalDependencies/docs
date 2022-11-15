@@ -9,25 +9,25 @@ udver: '2'
 This feature is universal.
 It occurs with 5 different values: `Fut`, `Imp`, `Past`, `Pqp`, `Pres`.
 
-1929 tokens (7%) have a non-empty value of `Tense`.
-1423 types (13%) occur at least once with a non-empty value of `Tense`.
-493 lemmas (10%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (1576; 6% instances), <tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> (353; 1% instances).
+1937 tokens (7%) have a non-empty value of `Tense`.
+1425 types (13%) occur at least once with a non-empty value of `Tense`.
+494 lemmas (10%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 2 part-of-speech tags: <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (1581; 6% instances), <tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> (356; 1% instances).
 
 ### `VERB`
 
-1576 <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> tokens (61% of all `VERB` tokens) have a non-empty value of `Tense`.
+1581 <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> tokens (61% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="orv_birchbark-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1567; 99%), <tt><a href="orv_birchbark-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1391; 88%), <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1238; 79%), <tt><a href="orv_birchbark-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (844; 54%), <tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (791; 50%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="orv_birchbark-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1572; 99%), <tt><a href="orv_birchbark-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1396; 88%), <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1243; 79%), <tt><a href="orv_birchbark-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (848; 54%), <tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (792; 50%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Fut` (46; 3% of non-empty `Tense`): <em>буду, буде, бѹде, бѹдѹ, бѹдьть, (бу)<lbr/>ду, (п)ришлю, будет[е], будете, будь</em>
 * `Imp` (6; 0% of non-empty `Tense`): <em>возꙑвахо, вьлѧшь, дѣѧшь, мълвлѧше, творѧхуо, шюмъ</em>
-* `Past` (821; 52% of non-empty `Tense`): <em>далъ, шло, дале, възѧле, послале, дала, взѧле, въдале, бꙑло, велѣлъ</em>
+* `Past` (825; 52% of non-empty `Tense`): <em>далъ, шло, възѧле, дале, послале, въдале, дала, взѧле, бꙑло, велѣлъ</em>
 * `Pqp` (10; 1% of non-empty `Tense`): <em>возилесь, возѧлъ, вꙑдалъ, наделиле, оста<lbr/>вили, реклъ, рьклъ, сталь, ѧлъ, ѿ<lbr/>казало</em>
-* `Pres` (693; 44% of non-empty `Tense`): <em>кланѧюсѧ, покланѧю, бию, бью, бью), бѣю, дасть, пишю, хотѧ, дасте</em>
-* `EMPTY` (1005): <em>даи, возми, възьми, пришли, посли, присъли, иди, молови, присли, въдаи</em>
+* `Pres` (694; 44% of non-empty `Tense`): <em>кланѧюсѧ, покланѧю, бию, бью, бью), бѣю, дасть, пишю, хотѧ, дасте</em>
+* `EMPTY` (1008): <em>даи, возми, възьми, пришли, посли, присъли, иди, молови, присли, въдаи</em>
 
 <table>
   <tr><th>Paradigm <i>быти</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th><th><tt>Imp</tt></th></tr>
@@ -47,16 +47,16 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-353 <tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> tokens (95% of all `AUX` tokens) have a non-empty value of `Tense`.
+356 <tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> tokens (95% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="orv_birchbark-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (353; 100%), <tt><a href="orv_birchbark-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (326; 92%), <tt><a href="orv_birchbark-feat-Analyt.html">Analyt</a></tt><tt>=Yes</tt> (319; 90%), <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (298; 84%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="orv_birchbark-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (356; 100%), <tt><a href="orv_birchbark-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (329; 92%), <tt><a href="orv_birchbark-feat-Analyt.html">Analyt</a></tt><tt>=Yes</tt> (322; 90%), <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (301; 85%).
 
 `AUX` tokens may have the following values of `Tense`:
 
 * `Fut` (33; 9% of non-empty `Tense`): <em>буде, будешь, будь, бѹдѹ, бꙋде, б[уд]…, бу<lbr/>[де], бу[д]е, буд[еть], буде[ш]е</em>
 * `Imp` (2; 1% of non-empty `Tense`): <em>[бе]шь, бьшь</em>
 * `Past` (36; 10% of non-empty `Tense`): <em>бꙑ, бꙑло, бꙑлъ, бꙑле, бꙑла, бꙑхъ, (бꙑ)<lbr/>ло, б[ꙑ]<lbr/>ло, б]ꙑ[лъ], былъ</em>
-* `Pres` (282; 80% of non-empty `Tense`): <em>еси, ѥси, есмь, ѥсмь, есте, есть, есемо, ѥсме, есме, есвѣ</em>
+* `Pres` (285; 80% of non-empty `Tense`): <em>еси, ѥси, есмь, ѥсмь, есте, есть, есемо, ѥсме, есме, есвѣ</em>
 * `EMPTY` (19): <em>бꙑ, бъ, бꙋди, б(у)[д](е, би, буди, бѫди, есем-, есо<lbr/>(мо</em>
 
 <table>

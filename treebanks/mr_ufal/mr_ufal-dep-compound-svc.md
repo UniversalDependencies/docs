@@ -23,13 +23,13 @@ The following 1 pairs of parts of speech are connected with `compound:svc`: <tt>
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 6 compound:svc	color:blue
-1	न्यायाधीशाने	न्यायाधीश	NOUN	_	Case=Erg|Gender=Masc|Number=Sing	5	nsubj	_	_
-2	_	भीम	PROPN	_	Case=Abs|Gender=Masc|Number=Sing	4	nmod:poss	_	_
-3	_	चा	ADP	_	Gender=Fem|Number=Sing	2	case	_	_
-4	मालकी	मालकी	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	_
-5	काढून	काढणे	VERB	_	Aspect=Perf|VerbForm=Conv	0	root	_	_
-6	घेतली	घेणे	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|VerbForm=Fin	5	compound:svc	_	SpaceAfter=No
-7	.	.	PUNCT	_	_	5	punct	_	_
+1	न्यायाधीशाने	न्यायाधीश	NOUN	_	Case=Erg|Gender=Masc|Number=Sing	5	nsubj	_	Translit=nyāyādhīśāne|LTranslit=nyāyādhīśa
+2	भीमा	भीम	PROPN	_	Case=Abs|Gender=Masc|Number=Sing	4	nmod:poss	_	Translit=bhīmā|LTranslit=bhīma
+3	ची	चा	ADP	_	Gender=Fem|Number=Sing	2	case	_	Translit=cī|LTranslit=cā
+4	मालकी	मालकी	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	Translit=mālakī|LTranslit=mālakī
+5	काढून	काढणे	VERB	_	Aspect=Perf|VerbForm=Conv	0	root	_	Translit=kāḍhūna|LTranslit=kāḍhaṇe
+6	घेतली	घेणे	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|VerbForm=Fin	5	compound:svc	_	SpaceAfter=No|Translit=ghetalī|LTranslit=gheṇe
+7	.	.	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

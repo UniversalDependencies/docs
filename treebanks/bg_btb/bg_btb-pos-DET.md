@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>това</em> (<tt><a href="bg_btb-po
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 6.130435 (the average of all parts of speech is 1.727418).
+The form / lemma ratio of `DET` is 6.130435 (the average of all parts of speech is 1.727244).
 
 The 1st highest number of forms (27) was observed with the lemma “мой”: <em>Моят, мое, моето, мои, моите, мой, моя, моята, негов, негова, неговата, негови, неговите, неговия, неговият, негово, неговото, неин, нейна, нейната, нейни, нейните, нейния, нейният, нейното, твое, твоите</em>.
 

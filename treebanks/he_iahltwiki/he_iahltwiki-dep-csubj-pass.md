@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Hebrew-IAHLTwiki: Relations: `csubj:pass`
 
 This relation is a language-specific subtype of <tt><a href="he_iahltwiki-dep-csubj.html">csubj</a></tt>.
+There are also 1 other language-specific subtypes of `csubj`: <tt><a href="he_iahltwiki-dep-csubj-outer.html">csubj:outer</a></tt>.
 
 82 nodes (0%) are attached to their parents as `csubj:pass`.
 
@@ -26,7 +27,7 @@ The following 4 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 2	זאת	זה	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Dem	5	obl	_	SpaceAfter=No
 3	,	,	PUNCT	PUNCT	_	2	punct	_	_
 4	לא	לא	ADV	ADV	_	5	advmod	_	_
-5	ניתן	ניתן	VERB	VERB	Gender=Masc|Number=Sing	0	root	_	_
+5	ניתן	ניתן	VERB	VERB	Gender=Masc|HebBinyan=NIFAL|Number=Sing|Person=3|Tense=Pres|VerbForm=Part|Voice=Pass	0	root	_	_
 6	להעביר	העביר	VERB	VERB	HebBinyan=HIFIL|VerbForm=Inf|Voice=Act	5	csubj:pass	_	_
 7	רווחי	רווח	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	6	obj	_	_
 8	הון	הון	NOUN	NOUN	Gender=Masc|Number=Sing	7	compound	_	_
@@ -55,7 +56,7 @@ The following 4 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 10	תכלית	תכלית	NOUN	NOUN	Gender=Fem|Number=Sing	8	compound	_	_
 11	ה	ה	DET	DET	Definite=Def|PronType=Art	12	det	_	_
 12	ראויה	ראוי	ADJ	ADJ	Gender=Fem|Number=Sing	10	amod	_	_
-13	הם	הוא	PRON	PRON	Gender=Masc|Number=Plur|Person=3|Polarity=Pos	14	cop	_	_
+13	הם	הוא	PRON	PRON	Gender=Masc|Number=Plur|Person=3|Polarity=Pos|PronType=Prs	14	cop	_	_
 14	מידתיים	מידתי	ADJ	ADJ	Gender=Masc|Number=Plur	1	csubj:pass	_	SpaceAfter=No
 15	.	.	PUNCT	PUNCT	_	1	punct	_	_
 
@@ -79,7 +80,7 @@ The following 4 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 9	ב	ב	ADP	ADP	_	10	case	_	_
 10	כוח	כוח	NOUN	NOUN	Gender=Masc|Number=Sing	5	csubj:pass	_	_
 11	ה	הוא	PRON	PRON	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	nmod:poss	_	_
-12	של	של	ADP	ADP	_	14	case	_	_
+12	של	של	ADP	ADP	Case=Gen	14	case	_	_
 13	ה	ה	DET	DET	Definite=Def|PronType=Art	14	det	_	_
 14	כנסת	כנסת	PROPN	PROPN	_	10	nmod:poss	_	_
 15	לחוקק	חוקק	VERB	VERB	HebBinyan=PIEL|VerbForm=Inf|Voice=Act	10	csubj	_	_

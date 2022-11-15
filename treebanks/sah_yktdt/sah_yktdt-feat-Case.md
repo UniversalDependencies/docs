@@ -9,92 +9,93 @@ udver: '2'
 This feature is universal but the values `Cmp` are language-specific.
 It occurs with 7 different values: `Abl`, `Acc`, `Cmp`, `Dat`, `Ins`, `Nom`, `Par`.
 
-183 tokens (37%) have a non-empty value of `Case`.
-151 types (44%) occur at least once with a non-empty value of `Case`.
-119 lemmas (46%) occur at least once with a non-empty value of `Case`.
-The feature is used with 4 part-of-speech tags: <tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt> (135; 27% instances), <tt><a href="sah_yktdt-pos-PRON.html">PRON</a></tt> (31; 6% instances), <tt><a href="sah_yktdt-pos-PROPN.html">PROPN</a></tt> (16; 3% instances), <tt><a href="sah_yktdt-pos-DET.html">DET</a></tt> (1; 0% instances).
+516 tokens (37%) have a non-empty value of `Case`.
+318 types (54%) occur at least once with a non-empty value of `Case`.
+191 lemmas (50%) occur at least once with a non-empty value of `Case`.
+The feature is used with 5 part-of-speech tags: <tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt> (422; 30% instances), <tt><a href="sah_yktdt-pos-PRON.html">PRON</a></tt> (85; 6% instances), <tt><a href="sah_yktdt-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), <tt><a href="sah_yktdt-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="sah_yktdt-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-135 <tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt> tokens (87% of all `NOUN` tokens) have a non-empty value of `Case`.
+422 <tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="sah_yktdt-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (119; 88%), <tt><a href="sah_yktdt-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (119; 88%), <tt><a href="sah_yktdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (118; 87%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="sah_yktdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (401; 95%), <tt><a href="sah_yktdt-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (370; 88%), <tt><a href="sah_yktdt-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (370; 88%).
 
 `NOUN` tokens may have the following values of `Case`:
 
-* `Abl` (4; 3% of non-empty `Case`): <em>Оскуолаттан, буочукаттан, халлаантан, ынахтан</em>
-* `Acc` (28; 21% of non-empty `Case`): <em>киһини, хойчоонно, Илиибин, Кинигэлэри, Саахары, арыыны, билиидэни, бэйэлэрин, дойдутааҕы, дьону</em>
-* `Cmp` (1; 1% of non-empty `Case`): <em>эһэтээҕэр</em>
-* `Dat` (27; 20% of non-empty `Case`): <em>дьиэҕэ, куоракка, оскуолаҕа, тарбаҕа, ууга, Кылааска, Олоппосторго, Уҥуоҕа, аҕалыахха, аҕатыгар</em>
-* `Ins` (2; 1% of non-empty `Case`): <em>көрүүнэн, уочаратынан</em>
-* `Nom` (56; 41% of non-empty `Case`): <em>ыалдьар, дьон, киһи, оҕолор, профессор, сылабаар, этиҥ, Балык, Быраас, Быраатым</em>
-* `Par` (17; 13% of non-empty `Case`): <em>килиэптэ, иһити, ааннары, айымньыта, буулката, күөрчэхтэ, муостаны, остуолла, паартата, сүөгэйдэ</em>
-* `EMPTY` (20): <em>күн, Аҕам, Аҕата, Аҕаҥ, Ийэм, аан, аатым, атаһым, илиим, олоппос</em>
+* `Abl` (8; 2% of non-empty `Case`): <em>Яблокаттан, буочукаттан, Оскуолаттан, баһаартан, халлаантан, ынахтан</em>
+* `Acc` (84; 20% of non-empty `Case`): <em>кинигэни, таҥаһы, ааны, иһити, килиэби, киһини, этэрбэһи, аты, бөрөнү, куһу</em>
+* `Cmp` (1; 0% of non-empty `Case`): <em>эһэтээҕэр</em>
+* `Dat` (71; 17% of non-empty `Case`): <em>оскуолаҕа, ууга, кылааска, куоракка, хоско, дьиэҕэ, муннукка, ойуурга, паартаҕа, тарбаҕа</em>
+* `Ins` (4; 1% of non-empty `Case`): <em>атынан, сабынан, уочаратынан, хаанынан</em>
+* `Nom` (229; 54% of non-empty `Case`): <em>киһи, дьон, оҕо, оҕолор, кыыс, уу, эт, кинигэ, убайа, уол</em>
+* `Par` (25; 6% of non-empty `Case`): <em>килиэптэ, Кинигэтэ, айымньыта, эттэ, Миннэ, буулката, дьиэтэ, илиитэ, күөрчэхтэ, остуолла</em>
 
 <table>
-  <tr><th>Paradigm <i>килиэп</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Par</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>килиэп</em></td><td><em>килиэби</em></td><td><em>килиэптэ</em></td></tr>
+  <tr><th>Paradigm <i>уу</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Par</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>уу</em></td><td><em>ууну</em></td><td><em>ууга</em></td><td><em>уута</em></td></tr>
 </table>
 
 ### `PRON`
 
-31 <tt><a href="sah_yktdt-pos-PRON.html">PRON</a></tt> tokens (72% of all `PRON` tokens) have a non-empty value of `Case`.
+85 <tt><a href="sah_yktdt-pos-PRON.html">PRON</a></tt> tokens (67% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="sah_yktdt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (26; 84%), <tt><a href="sah_yktdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (20; 65%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="sah_yktdt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (79; 93%), <tt><a href="sah_yktdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (64; 75%).
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Acc` (2; 6% of non-empty `Case`): <em>Кинилэри, миигин</em>
-* `Dat` (4; 13% of non-empty `Case`): <em>миэхэ, Биһиэхэ, киниэхэ</em>
-* `Nom` (25; 81% of non-empty `Case`): <em>Кини, мин, биһиги, Кинилэр, Эн, бары, биhиги</em>
-* `EMPTY` (12): <em>Ити, туох, ханна, Ол, Ханнык, бары, кини, мин, эн</em>
+* `Acc` (2; 2% of non-empty `Case`): <em>Кинилэри, миигин</em>
+* `Dat` (13; 15% of non-empty `Case`): <em>Эһиэхэ, миэхэ, Биһиэхэ, Онуоха, Эйиэхэ, киниэхэ, туохха</em>
+* `Nom` (70; 82% of non-empty `Case`): <em>кини, эн, мин, биһиги, бары, кинилэр, Эһиги, барытын</em>
+* `EMPTY` (42): <em>тугу, ити, ханна, ким, кимий, сорохтор, ханнык, сорох, Ол, тоҕо</em>
 
 <table>
-  <tr><th>Paradigm <i>мин</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th></tr>
-  <tr><td><tt>_</tt></td><td></td><td><em>миигин</em></td><td><em>Миэхэ</em></td></tr>
-  <tr><td><tt><tt><a href="sah_yktdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>мин</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="sah_yktdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sah_yktdt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="sah_yktdt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>Мин</em></td><td></td><td><em>миэхэ</em></td></tr>
-  <tr><td><tt><tt><a href="sah_yktdt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>мин</em></td><td></td><td></td></tr>
+  <tr><th>Paradigm <i>кини</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th></tr>
+  <tr><td><tt><tt><a href="sah_yktdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>кини</em></td><td></td><td><em>киниэхэ</em></td></tr>
+  <tr><td><tt><tt><a href="sah_yktdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>кинилэр</em></td><td><em>Кинилэри</em></td><td></td></tr>
 </table>
 
 ### `PROPN`
 
-16 <tt><a href="sah_yktdt-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Case`.
-
-The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="sah_yktdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (16; 100%).
+6 <tt><a href="sah_yktdt-pos-PROPN.html">PROPN</a></tt> tokens (21% of all `PROPN` tokens) have a non-empty value of `Case`.
 
 `PROPN` tokens may have the following values of `Case`:
 
-* `Abl` (2; 13% of non-empty `Case`): <em>Германияттан, Өрүсүөнэттэн</em>
-* `Acc` (1; 6% of non-empty `Case`): <em>Кытайы</em>
-* `Dat` (5; 31% of non-empty `Case`): <em>Дьокуускайга, Кэскилга, Москваҕа, Петровка</em>
-* `Nom` (8; 50% of non-empty `Case`): <em>Кэскил, Айаана, Коперник, Миша, Сайаана, Сардана, Саша</em>
+* `Dat` (6; 100% of non-empty `Case`): <em>Дьокуускайга, Айталга, Кэскилга, Москваҕа, Петровка</em>
+* `EMPTY` (22): <em>Кэскил, Айаана, Сайаана, Коперник, Маша, Мичил, Миша, Сардана, Саша</em>
+
+### `NUM`
+
+2 <tt><a href="sah_yktdt-pos-NUM.html">NUM</a></tt> tokens (4% of all `NUM` tokens) have a non-empty value of `Case`.
+
+The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="sah_yktdt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (2; 100%), <tt><a href="sah_yktdt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (2; 100%).
+
+`NUM` tokens may have the following values of `Case`:
+
+* `Acc` (1; 50% of non-empty `Case`): <em>иккини</em>
+* `Par` (1; 50% of non-empty `Case`): <em>иккитэ</em>
+* `EMPTY` (43): <em>биир, икки, үс, хас, уон, алта, биэс, онус</em>
 
 <table>
-  <tr><th>Paradigm <i>Кэскил</i></th><th><tt>Nom</tt></th><th><tt>Dat</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>Кэскил</em></td><td><em>Кэскилга</em></td></tr>
+  <tr><th>Paradigm <i>икки</i></th><th><tt>Acc</tt></th><th><tt>Par</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>иккини</em></td><td><em>иккитэ</em></td></tr>
 </table>
-
-`Case` seems to be **lexical feature** of `PROPN`. 93% lemmas (13) occur only with one value of `Case`.
 
 ### `DET`
 
-1 <tt><a href="sah_yktdt-pos-DET.html">DET</a></tt> tokens (7% of all `DET` tokens) have a non-empty value of `Case`.
+1 <tt><a href="sah_yktdt-pos-DET.html">DET</a></tt> tokens (2% of all `DET` tokens) have a non-empty value of `Case`.
 
 The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="sah_yktdt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1; 100%).
 
 `DET` tokens may have the following values of `Case`:
 
-* `Dat` (1; 100% of non-empty `Case`): <em>Онуоха</em>
-* `EMPTY` (13): <em>бу, сорохтор, Ити, сорох, аайы, барытын</em>
+* `Acc` (1; 100% of non-empty `Case`): <em>маны</em>
+* `EMPTY` (63): <em>бу, ити, ол, аайы, ханнык</em>
 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="sah_yktdt-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (5; 63%),
-<tt>NOUN --[<tt><a href="sah_yktdt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (2; 67%),
-<tt>NOUN --[<tt><a href="sah_yktdt-dep-appos.html">appos</a></tt>]--> NOUN</tt> (1; 100%),
-<tt>NOUN --[<tt><a href="sah_yktdt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1; 100%),
-<tt>NOUN --[<tt><a href="sah_yktdt-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (1; 100%),
-<tt>PROPN --[<tt><a href="sah_yktdt-dep-conj.html">conj</a></tt>]--> PROPN</tt> (1; 100%).
+<tt>NOUN --[<tt><a href="sah_yktdt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (21; 100%),
+<tt>NOUN --[<tt><a href="sah_yktdt-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (15; 94%),
+<tt>NOUN --[<tt><a href="sah_yktdt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (4; 80%),
+<tt>NOUN --[<tt><a href="sah_yktdt-dep-obj.html">obj</a></tt>]--> NOUN</tt> (1; 100%).
 

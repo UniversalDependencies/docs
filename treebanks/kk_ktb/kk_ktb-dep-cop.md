@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-188 nodes (2%) are attached to their parents as `cop`.
+184 nodes (2%) are attached to their parents as `cop`.
 
-188 instances of `cop` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.0531914893617.
+184 instances of `cop` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.07065217391304.
 
-The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="kk_ktb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kk_ktb-pos-AUX.html">AUX</a></tt> (90; 48% instances), <tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kk_ktb-pos-AUX.html">AUX</a></tt> (56; 30% instances), <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt>-<tt><a href="kk_ktb-pos-AUX.html">AUX</a></tt> (16; 9% instances), <tt><a href="kk_ktb-pos-PRON.html">PRON</a></tt>-<tt><a href="kk_ktb-pos-AUX.html">AUX</a></tt> (14; 7% instances), <tt><a href="kk_ktb-pos-ADV.html">ADV</a></tt>-<tt><a href="kk_ktb-pos-AUX.html">AUX</a></tt> (4; 2% instances), <tt><a href="kk_ktb-pos-NUM.html">NUM</a></tt>-<tt><a href="kk_ktb-pos-AUX.html">AUX</a></tt> (4; 2% instances), <tt><a href="kk_ktb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kk_ktb-pos-AUX.html">AUX</a></tt> (4; 2% instances).
+The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="kk_ktb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kk_ktb-pos-AUX.html">AUX</a></tt> (88; 48% instances), <tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kk_ktb-pos-AUX.html">AUX</a></tt> (54; 29% instances), <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt>-<tt><a href="kk_ktb-pos-AUX.html">AUX</a></tt> (16; 9% instances), <tt><a href="kk_ktb-pos-PRON.html">PRON</a></tt>-<tt><a href="kk_ktb-pos-AUX.html">AUX</a></tt> (14; 8% instances), <tt><a href="kk_ktb-pos-ADV.html">ADV</a></tt>-<tt><a href="kk_ktb-pos-AUX.html">AUX</a></tt> (4; 2% instances), <tt><a href="kk_ktb-pos-NUM.html">NUM</a></tt>-<tt><a href="kk_ktb-pos-AUX.html">AUX</a></tt> (4; 2% instances), <tt><a href="kk_ktb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kk_ktb-pos-AUX.html">AUX</a></tt> (4; 2% instances).
 
 
 ~~~ conllu

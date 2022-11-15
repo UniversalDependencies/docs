@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Cantonese-HK: POS Tags: `NUM`
 
-There are 32 `NUM` lemmas (3%), 33 `NUM` types (2%) and 232 `NUM` tokens (2%).
-Out of 15 observed tags, the rank of `NUM` is: 7 in number of lemmas, 12 in number of types and 10 in number of tokens.
+There are 33 `NUM` lemmas (2%), 33 `NUM` types (2%) and 232 `NUM` tokens (2%).
+Out of 15 observed tags, the rank of `NUM` is: 11 in number of lemmas, 11 in number of types and 10 in number of tokens.
 
-The 10 most frequent `NUM` lemmas: _、 一、 兩、 三、 三十、 一百、 十、 四、 幾、 二十
+The 10 most frequent `NUM` lemmas: 一、 兩、 三、 幾、 三十、 五、 十、 一百、 四、 半
 
 The 10 most frequent `NUM` types:  一、 兩、 三、 幾、 三十、 五、 十、 一百、 四、 半
 
-The 10 most frequent ambiguous lemmas: _ (<tt><a href="yue_hk-pos-PUNCT.html">PUNCT</a></tt> 1377, <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 1352, <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> 1283, <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> 853, <tt><a href="yue_hk-pos-PART.html">PART</a></tt> 764, <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> 662, <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> 335, <tt><a href="yue_hk-pos-DET.html">DET</a></tt> 217, <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> 209, <tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> 140, <tt><a href="yue_hk-pos-NUM.html">NUM</a></tt> 124, <tt><a href="yue_hk-pos-SCONJ.html">SCONJ</a></tt> 101, <tt><a href="yue_hk-pos-CCONJ.html">CCONJ</a></tt> 93, <tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> 92, <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> 52), 一 (<tt><a href="yue_hk-pos-NUM.html">NUM</a></tt> 32, <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> 1), 幾 (<tt><a href="yue_hk-pos-NUM.html">NUM</a></tt> 5, <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> 4)
+The 10 most frequent ambiguous lemmas: 一 (<tt><a href="yue_hk-pos-NUM.html">NUM</a></tt> 124, <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> 1), 幾 (<tt><a href="yue_hk-pos-NUM.html">NUM</a></tt> 8, <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> 4, <tt><a href="yue_hk-pos-DET.html">DET</a></tt> 2), 七十一 (<tt><a href="yue_hk-pos-NUM.html">NUM</a></tt> 1, <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> 1)
 
 The 10 most frequent ambiguous types:  一 (<tt><a href="yue_hk-pos-NUM.html">NUM</a></tt> 124, <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> 1), 幾 (<tt><a href="yue_hk-pos-NUM.html">NUM</a></tt> 8, <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> 4, <tt><a href="yue_hk-pos-DET.html">DET</a></tt> 2), 七十一 (<tt><a href="yue_hk-pos-NUM.html">NUM</a></tt> 1, <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> 1)
 
@@ -31,13 +31,13 @@ The 10 most frequent ambiguous types:  一 (<tt><a href="yue_hk-pos-NUM.html">NU
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.031250 (the average of all parts of speech is 1.624294).
+The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.001746).
 
-The 1st highest number of forms (11) was observed with the lemma “_”: 一, 七十一, 三, 三十, 三十五, 五, 兩, 六, 十, 半, 幾.
+The 1st highest number of forms (1) was observed with the lemma “一”: 一.
 
-The 2nd highest number of forms (1) was observed with the lemma “一”: 一.
+The 2nd highest number of forms (1) was observed with the lemma “一百”: 一百.
 
-The 3rd highest number of forms (1) was observed with the lemma “一百”: 一百.
+The 3rd highest number of forms (1) was observed with the lemma “七”: 七.
 
 `NUM` does not occur with any features.
 

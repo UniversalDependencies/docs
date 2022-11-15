@@ -51,25 +51,25 @@ The following 7 pairs of parts of speech are connected with `appos`: <tt><a href
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 14 appos	color:blue
-1	Beskreaven	beskryven	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	_
-2	un	un	CCONJ	_	_	10	cc	_	_
-3	to	to	ADP	_	AdpType=Prep	7	case	_	_
+1	Beskreaven	beskryven	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	lemma[gml]=beschrîven
+2	un	un	CCONJ	_	_	10	cc	_	lemma[gml]=unde²
+3	to	to	ADP	_	AdpType=Prep	7	case	_	lemma[gml]=tô⁴
 4	'	'	PUNCT	_	_	5	punct	_	_
-5	m	de	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+5	m	de	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	lemma[gml]=dê¹
 6	31.	31.	ADJ	_	Case=Dat|Gender=Masc|Number=Sing	7	amod	_	_
 7	oktober	oktober	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	10	obl	_	_
 8	ao.	ao.	ADV	_	_	7	advmod	_	_
 9	1817	1817	NUM	_	_	8	appos	_	_
 10	heruutgeaven	heruutgeaven	VERB	_	Aspect=Perf|VerbForm=Part	1	conj	_	_
-11	van	van	ADP	_	AdpType=Prep	12	case	_	_
+11	van	van	ADP	_	AdpType=Prep	12	case	_	lemma[gml]=van¹
 12	Claus	Claus	PROPN	_	Gender=Masc|Number=Sing	10	obl	_	_
 13	Harms	Harms	PROPN	_	Gender=Masc|Number=Sing	12	flat	_	_
 14	archidiakonus	archidiakonus	NOUN	_	Gender=Masc|Number=Sing	12	appos	_	_
-15	an	an	ADP	_	AdpType=Prep	17	case	_	_
-16	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+15	an	an	ADP	_	AdpType=Prep	17	case	_	lemma[gml]=an
+16	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	lemma[gml]=dê¹
 17	St.	St.	PROPN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	14	nmod	_	_
 18	Nicolaikarke	Nicolaikarke	PROPN	_	Case=Dat|Gender=Fem|Number=Sing	17	flat	_	_
-19	in	in	ADP	_	AdpType=Prep	20	case	_	_
+19	in	in	ADP	_	AdpType=Prep	20	case	_	lemma[gml]=in²
 20	Kiel	Kiel	PROPN	_	Number=Sing	17	nmod	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	10	punct	_	_
 
@@ -82,25 +82,25 @@ The following 7 pairs of parts of speech are connected with `appos`: <tt><a href
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 9 appos	color:blue
-1	Beskreaven	beskryven	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	_
-2	un	un	CCONJ	_	_	10	cc	_	_
-3	to	to	ADP	_	AdpType=Prep	7	case	_	_
+1	Beskreaven	beskryven	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	lemma[gml]=beschrîven
+2	un	un	CCONJ	_	_	10	cc	_	lemma[gml]=unde²
+3	to	to	ADP	_	AdpType=Prep	7	case	_	lemma[gml]=tô⁴
 4	'	'	PUNCT	_	_	5	punct	_	_
-5	m	de	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+5	m	de	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	lemma[gml]=dê¹
 6	31.	31.	ADJ	_	Case=Dat|Gender=Masc|Number=Sing	7	amod	_	_
 7	oktober	oktober	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	10	obl	_	_
 8	ao.	ao.	ADV	_	_	7	advmod	_	_
 9	1817	1817	NUM	_	_	8	appos	_	_
 10	heruutgeaven	heruutgeaven	VERB	_	Aspect=Perf|VerbForm=Part	1	conj	_	_
-11	van	van	ADP	_	AdpType=Prep	12	case	_	_
+11	van	van	ADP	_	AdpType=Prep	12	case	_	lemma[gml]=van¹
 12	Claus	Claus	PROPN	_	Gender=Masc|Number=Sing	10	obl	_	_
 13	Harms	Harms	PROPN	_	Gender=Masc|Number=Sing	12	flat	_	_
 14	archidiakonus	archidiakonus	NOUN	_	Gender=Masc|Number=Sing	12	appos	_	_
-15	an	an	ADP	_	AdpType=Prep	17	case	_	_
-16	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+15	an	an	ADP	_	AdpType=Prep	17	case	_	lemma[gml]=an
+16	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	lemma[gml]=dê¹
 17	St.	St.	PROPN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	14	nmod	_	_
 18	Nicolaikarke	Nicolaikarke	PROPN	_	Case=Dat|Gender=Fem|Number=Sing	17	flat	_	_
-19	in	in	ADP	_	AdpType=Prep	20	case	_	_
+19	in	in	ADP	_	AdpType=Prep	20	case	_	lemma[gml]=in²
 20	Kiel	Kiel	PROPN	_	Number=Sing	17	nmod	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	10	punct	_	_
 

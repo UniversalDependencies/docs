@@ -24,4 +24,4 @@ amod(gül, kırmızı)
 det(gül, bir)
 ~~~
 
-<!-- Interlanguage links updated So kvě 14 19:03:01 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:08 CET 2022 -->

@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal but the values `Emp` are language-specific.
 It occurs with 9 different values: `Art`, `Dem`, `Emp`, `Ind`, `Int`, `Neg`, `Prs`, `Rel`, `Tot`.
 
-42334 tokens (19%) have a non-empty value of `PronType`.
+42332 tokens (19%) have a non-empty value of `PronType`.
 230 types (1%) occur at least once with a non-empty value of `PronType`.
 78 lemmas (0%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 7 part-of-speech tags: <tt><a href="pt_bosque-pos-DET.html">DET</a></tt> (34835; 15% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (7458; 3% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (26; 0% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (9; 0% instances), <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="pt_bosque-pos-DET.html">DET</a></tt> (34835; 15% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (7456; 3% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (26; 0% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (9; 0% instances), <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 ### `DET`
 
@@ -56,9 +56,9 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 ### `PRON`
 
-7458 <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+7456 <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5217; 70%), <tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5029; 67%), <tt><a href="pt_bosque-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4916; 66%), <tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (4744; 64%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5217; 70%), <tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5027; 67%), <tt><a href="pt_bosque-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4914; 66%), <tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (4743; 64%).
 
 `PRON` tokens may have the following values of `PronType`:
 
@@ -68,7 +68,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Int` (100; 1% of non-empty `PronType`): <em>que, quem, qual, quais, quanto, quantos, quê</em>
 * `Neg` (11; 0% of non-empty `PronType`): <em>nada, nenhuma, nenhum</em>
 * `Prs` (2769; 37% of non-empty `PronType`): <em>se, ele, lhe, o, eles, eu, ela, me, nos, a</em>
-* `Rel` (2917; 39% of non-empty `PronType`): <em>que, onde, quem, qual, quais, tudo, quanto, Nada, cuja, o</em>
+* `Rel` (2915; 39% of non-empty `PronType`): <em>que, onde, quem, qual, quais, tudo, quanto, Nada, cuja, o</em>
 * `Tot` (77; 1% of non-empty `PronType`): <em>todos, ambos, todo, todas, cada, Ambas</em>
 * `EMPTY` (10): <em>disso, cada, cetera, onde, se</em>
 
@@ -95,7 +95,7 @@ The most frequent other feature values with which `PROPN` and `PronType` co-occu
 `PROPN` tokens may have the following values of `PronType`:
 
 * `Art` (26; 100% of non-empty `PronType`): <em>O, A, The</em>
-* `EMPTY` (18755): <em>Paulo, São, Portugal, Brasil, José, Porto, Governo, Lisboa, João, Nacional</em>
+* `EMPTY` (18735): <em>Paulo, São, Portugal, Brasil, José, Porto, Governo, Lisboa, João, Nacional</em>
 
 ### `ADV`
 
@@ -125,7 +125,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 
 * `Art` (2; 50% of non-empty `PronType`): <em>Uma, uns</em>
 * `Rel` (2; 50% of non-empty `PronType`): <em>que</em>
-* `EMPTY` (5353): <em>que, a, de, para, se, porque, como, por, em, quando</em>
+* `EMPTY` (5354): <em>que, a, de, para, se, porque, como, por, em, quando</em>
 
 ### `ADJ`
 
@@ -136,7 +136,7 @@ The most frequent other feature values with which `ADJ` and `PronType` co-occurr
 `ADJ` tokens may have the following values of `PronType`:
 
 * `Dem` (1; 100% of non-empty `PronType`): <em>semelhante</em>
-* `EMPTY` (11387): <em>maior, primeiro, grande, primeira, novo, nova, mesmo, nacional, grandes, melhor</em>
+* `EMPTY` (11395): <em>maior, primeiro, grande, primeira, novo, nova, mesmo, nacional, grandes, melhor</em>
 
 ### `ADP`
 
@@ -145,7 +145,7 @@ The most frequent other feature values with which `ADJ` and `PronType` co-occurr
 `ADP` tokens may have the following values of `PronType`:
 
 * `Rel` (1; 100% of non-empty `PronType`): <em>que</em>
-* `EMPTY` (33781): <em>de, em, a, por, com, para, como, entre, sobre, até</em>
+* `EMPTY` (33783): <em>de, em, a, por, com, para, como, entre, sobre, até</em>
 
 ## Relations with Agreement in `PronType`
 

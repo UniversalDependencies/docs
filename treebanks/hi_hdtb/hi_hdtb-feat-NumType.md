@@ -33,21 +33,21 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (556; 100% of non-empty `NumType`): पहली, दूसरे, दूसरी, पहले, तीसरे, पहला, प्रथम, दूसरा, चौथे, तीसरी
-* `EMPTY` (20090): शामिल, अन्य, जारी, पिछले, पूर्व, भारतीय, तैयार, स्थित, पूरी, वरिष्ठ
+* `EMPTY` (21089): वाले, शामिल, अन्य, वाली, जारी, पिछले, पूर्व, भारतीय, तैयार, स्थित
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (54) occur only with one value of `NumType`.
 
 ## Relations with Agreement in `NumType`
 
 The 10 most frequent relations where parent and child node agree in `NumType`:
-<tt>NUM --[<tt><a href="hi_hdtb-dep-case.html">case</a></tt>]--> NUM</tt> (347; 100%),
+<tt>NUM --[<tt><a href="hi_hdtb-dep-compound.html">compound</a></tt>]--> NUM</tt> (562; 100%),
 <tt>NUM --[<tt><a href="hi_hdtb-dep-dep.html">dep</a></tt>]--> NUM</tt> (99; 100%),
 <tt>NUM --[<tt><a href="hi_hdtb-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (67; 100%),
 <tt>NUM --[<tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (63; 100%),
-<tt>NUM --[<tt><a href="hi_hdtb-dep-nsubj.html">nsubj</a></tt>]--> NUM</tt> (60; 100%),
-<tt>NUM --[<tt><a href="hi_hdtb-dep-mark.html">mark</a></tt>]--> NUM</tt> (37; 100%),
-<tt>NUM --[<tt><a href="hi_hdtb-dep-punct.html">punct</a></tt>]--> NUM</tt> (36; 100%),
-<tt>NUM --[<tt><a href="hi_hdtb-dep-compound.html">compound</a></tt>]--> NUM</tt> (24; 100%),
-<tt>NUM --[<tt><a href="hi_hdtb-dep-cc.html">cc</a></tt>]--> NUM</tt> (22; 100%),
-<tt>NUM --[<tt><a href="hi_hdtb-dep-det.html">det</a></tt>]--> NUM</tt> (20; 100%).
+<tt>NUM --[<tt><a href="hi_hdtb-dep-advcl.html">advcl</a></tt>]--> NUM</tt> (18; 100%),
+<tt>NUM --[<tt><a href="hi_hdtb-dep-amod.html">amod</a></tt>]--> NUM</tt> (17; 100%),
+<tt>NUM --[<tt><a href="hi_hdtb-dep-obj.html">obj</a></tt>]--> NUM</tt> (16; 100%),
+<tt>NUM --[<tt><a href="hi_hdtb-dep-conj.html">conj</a></tt>]--> NUM</tt> (15; 100%),
+<tt>ADJ --[<tt><a href="hi_hdtb-dep-conj.html">conj</a></tt>]--> ADJ</tt> (7; 54%),
+<tt>NUM --[<tt><a href="hi_hdtb-dep-acl.html">acl</a></tt>]--> NUM</tt> (4; 100%).
 

@@ -85,4 +85,4 @@ do not use `PronType=Neg`, they use `Polarity=Neg` instead. See the
 
 * _quiconque_
 
-<!-- Interlanguage links updated So kvě 14 19:02:35 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:56 CET 2022 -->

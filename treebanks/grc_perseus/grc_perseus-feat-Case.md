@@ -12,7 +12,7 @@ It occurs with 6 different values: `Acc`, `Dat`, `Gen`, `Loc`, `Nom`, `Voc`.
 97649 tokens (48%) have a non-empty value of `Case`.
 27058 types (66%) occur at least once with a non-empty value of `Case`.
 11054 lemmas (82%) occur at least once with a non-empty value of `Case`.
-The feature is used with 7 part-of-speech tags: <tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt> (41248; 20% instances), <tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt> (21440; 11% instances), <tt><a href="grc_perseus-pos-PRON.html">PRON</a></tt> (12608; 6% instances), <tt><a href="grc_perseus-pos-DET.html">DET</a></tt> (11810; 6% instances), <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (10531; 5% instances), <tt><a href="grc_perseus-pos-X.html">X</a></tt> (8; 0% instances), <tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt> (4; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt> (41248; 20% instances), <tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt> (21440; 11% instances), <tt><a href="grc_perseus-pos-PRON.html">PRON</a></tt> (12608; 6% instances), <tt><a href="grc_perseus-pos-DET.html">DET</a></tt> (11810; 6% instances), <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (10158; 5% instances), <tt><a href="grc_perseus-pos-AUX.html">AUX</a></tt> (373; 0% instances), <tt><a href="grc_perseus-pos-X.html">X</a></tt> (8; 0% instances), <tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt> (4; 0% instances).
 
 ### `NOUN`
 
@@ -124,18 +124,18 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 
 ### `VERB`
 
-10531 <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> tokens (28% of all `VERB` tokens) have a non-empty value of `Case`.
+10158 <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> tokens (28% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="grc_perseus-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (10531; 100%), <tt><a href="grc_perseus-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (10526; 100%), <tt><a href="grc_perseus-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (10522; 100%), <tt><a href="grc_perseus-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (9395; 89%), <tt><a href="grc_perseus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (8352; 79%), <tt><a href="grc_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7061; 67%), <tt><a href="grc_perseus-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (6933; 66%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="grc_perseus-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (10158; 100%), <tt><a href="grc_perseus-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (10153; 100%), <tt><a href="grc_perseus-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (10150; 100%), <tt><a href="grc_perseus-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (9022; 89%), <tt><a href="grc_perseus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (8093; 80%), <tt><a href="grc_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6774; 67%), <tt><a href="grc_perseus-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (6565; 65%), <tt><a href="grc_perseus-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (5142; 51%).
 
 `VERB` tokens may have the following values of `Case`:
 
-* `Acc` (1852; 18% of non-empty `Case`): <em>ἐόντα, οὖσαν, ἔχοντα, μεμαῶτα, ὄντα, γενομένην, ὄντας, ἔχοντας, γενόμενον, κείμενον</em>
-* `Dat` (533; 5% of non-empty `Case`): <em>θανόντι, ἔχοντι, βουλομένοις, παρόντι, ἐπιγραφομένῳ, πραττομένοις, ἐόντι, ὄντι, γενομένοις, θανοῦσιν</em>
-* `Gen` (1274; 12% of non-empty `Case`): <em>γενομένης, ἄρχοντος, θανόντος, γενομένων, εἰπόντος, παρόντων, ἐχόντων, ἔχοντος, αἰθομένοιο, γενομένου</em>
-* `Nom` (6843; 65% of non-empty `Case`): <em>ἔχων, ἰδὼν, εἰπὼν, ἔχοντες, ὢν, λέγων, ἐὼν, φωνήσας, ἀπαμειβόμενος, λαβὼν</em>
+* `Acc` (1727; 17% of non-empty `Case`): <em>ἔχοντα, μεμαῶτα, γενομένην, ἔχοντας, γενόμενον, κείμενον, φέροντα, ἑσταότ̓, ἔχουσαν, ἐπιόντα</em>
+* `Dat` (515; 5% of non-empty `Case`): <em>θανόντι, ἔχοντι, βουλομένοις, παρόντι, ἐπιγραφομένῳ, πραττομένοις, γενομένοις, θανοῦσιν, κατατεθνηῶτι, μεμαῶτι</em>
+* `Gen` (1233; 12% of non-empty `Case`): <em>γενομένης, ἄρχοντος, θανόντος, γενομένων, εἰπόντος, παρόντων, ἐχόντων, ἔχοντος, αἰθομένοιο, γενομένου</em>
+* `Nom` (6654; 66% of non-empty `Case`): <em>ἔχων, ἰδὼν, εἰπὼν, ἔχοντες, λέγων, φωνήσας, ἀπαμειβόμενος, λαβὼν, ἐλθὼν, φέρων</em>
 * `Voc` (29; 0% of non-empty `Case`): <em>ἔχουσαι, κεχαρισμένε, ὁρᾶν, βλέπων, διφρηλατῶν, δρᾶν, εἰδώς, κομόωντες, μέλλοντες, μαινόμενε</em>
-* `EMPTY` (27180): <em>ἦν, εἶναι, προσέφη, ἔφη, γενέσθαι, ἔχει, φησιν, ἦσαν, φάτο, ἐστὶ</em>
+* `EMPTY` (25678): <em>προσέφη, ἔφη, γενέσθαι, ἔχει, φησιν, φάτο, προσηύδα, ἔφατ̓, ἐγένετο, ἔχειν</em>
 
 <table>
   <tr><th>Paradigm <i>ἔχω</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Voc</tt></th></tr>
@@ -153,16 +153,45 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
   <tr><td><tt><tt><a href="grc_perseus-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="grc_perseus-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="grc_perseus-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="grc_perseus-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="grc_perseus-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td><em>ἐχόμενα</em></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
+### `AUX`
+
+373 <tt><a href="grc_perseus-pos-AUX.html">AUX</a></tt> tokens (20% of all `AUX` tokens) have a non-empty value of `Case`.
+
+The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="grc_perseus-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (373; 100%), <tt><a href="grc_perseus-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (373; 100%), <tt><a href="grc_perseus-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (373; 100%), <tt><a href="grc_perseus-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (372; 100%), <tt><a href="grc_perseus-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (369; 99%), <tt><a href="grc_perseus-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (368; 99%), <tt><a href="grc_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (287; 77%), <tt><a href="grc_perseus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (259; 69%).
+
+`AUX` tokens may have the following values of `Case`:
+
+* `Acc` (125; 34% of non-empty `Case`): <em>ἐόντα, οὖσαν, ὄντα, ὄντας, ἐοῦσαν, ἐὸν, ἐόντας, ἐσομένην, ἐόν, ὂν</em>
+* `Dat` (18; 5% of non-empty `Case`): <em>ἐόντι, ὄντι, οὖσι, οὖσιν, οὔσαις</em>
+* `Gen` (41; 11% of non-empty `Case`): <em>ὄντων, οὔσης, ἐόντος, ὄντος, ἐούσης, ἐόντων, ἐουσέων, οὐσῶν</em>
+* `Nom` (189; 51% of non-empty `Case`): <em>ὢν, ἐὼν, ὄντες, οὖσα, ἐοῦσα, ἐόντες, ἐὸν, ὤν, ἐών, ἐόντα</em>
+* `EMPTY` (1502): <em>ἦν, εἶναι, ἦσαν, ἐστὶ, ἐστι, ἐστιν, εἴη, ἐστὶν, ἐστί, ἔσται</em>
+
+<table>
+  <tr><th>Paradigm <i>εἰμί</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th></tr>
+  <tr><td><tt><tt><a href="grc_perseus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="grc_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="grc_perseus-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="grc_perseus-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="grc_perseus-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>ὢν, ἐὼν, ὤν, ἐών</em></td><td><em>ἐόντα, ὄντα, ἐόντ̓, ὄντ̓</em></td><td><em>ἐόντι, ὄντι</em></td><td><em>ἐόντος, ὄντος</em></td></tr>
+  <tr><td><tt><tt><a href="grc_perseus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="grc_perseus-feat-Number.html">Number</a></tt><tt>=Dual</tt>|<tt><a href="grc_perseus-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="grc_perseus-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="grc_perseus-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>ἐόντ̓, ἐόντε</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="grc_perseus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="grc_perseus-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="grc_perseus-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="grc_perseus-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="grc_perseus-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td></td><td><em>ἐσομένους</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="grc_perseus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="grc_perseus-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="grc_perseus-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="grc_perseus-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="grc_perseus-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>ὄντες, ἐόντες</em></td><td><em>ὄντας, ἐόντας</em></td><td><em>οὖσι, οὖσιν</em></td><td><em>ὄντων, ἐόντων</em></td></tr>
+  <tr><td><tt><tt><a href="grc_perseus-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="grc_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="grc_perseus-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="grc_perseus-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="grc_perseus-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td></td><td><em>ἐσομένην</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="grc_perseus-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="grc_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="grc_perseus-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="grc_perseus-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="grc_perseus-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>ἐοῦσα, οὖσα, οὖσ̓</em></td><td><em>οὖσαν, ἐοῦσαν</em></td><td></td><td><em>οὔσης, ἐούσης</em></td></tr>
+  <tr><td><tt><tt><a href="grc_perseus-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="grc_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="grc_perseus-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="grc_perseus-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="grc_perseus-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td><em>οὖσα</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="grc_perseus-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="grc_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="grc_perseus-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="grc_perseus-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>οὖσα</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="grc_perseus-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="grc_perseus-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="grc_perseus-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="grc_perseus-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="grc_perseus-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>οὖσαι, ἐοῦσ̓, ἐοῦσαι</em></td><td><em>οὔσας, ἐούσας</em></td><td><em>οὔσαις</em></td><td><em>ἐουσέων, οὐσῶν</em></td></tr>
+  <tr><td><tt><tt><a href="grc_perseus-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="grc_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="grc_perseus-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="grc_perseus-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="grc_perseus-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>ἐὸν, ἐόν</em></td><td><em>ἐὸν, ἐόν, ὂν, ἐόντα, ὄν</em></td><td><em>ὄντι</em></td><td><em>ἐόντος, ὄντος</em></td></tr>
+  <tr><td><tt><tt><a href="grc_perseus-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="grc_perseus-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="grc_perseus-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="grc_perseus-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="grc_perseus-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>ἐόντα, ὄντα</em></td><td><em>ὄντα, ἐόντα</em></td><td><em>οὖσι</em></td><td><em>ὄντων</em></td></tr>
+</table>
+
 ### `X`
 
-8 <tt><a href="grc_perseus-pos-X.html">X</a></tt> tokens (20% of all `X` tokens) have a non-empty value of `Case`.
+8 <tt><a href="grc_perseus-pos-X.html">X</a></tt> tokens (25% of all `X` tokens) have a non-empty value of `Case`.
 
 `X` tokens may have the following values of `Case`:
 
 * `Acc` (5; 63% of non-empty `Case`): <em>τί, Λάϊον, τάς, τέκμαρ</em>
 * `Dat` (2; 25% of non-empty `Case`): <em>τοῖσι</em>
 * `Nom` (1; 13% of non-empty `Case`): <em>τὰ</em>
-* `EMPTY` (33): <em>τί, ἐϋκνήμιδες, δυώδεκα, τέκμωρ, χρεὼν, ἐϋκνήμιδας, Μηκιστηϊάδης, Πευκεΐδας, ξύμβληντο, πολυάϊκος</em>
+* `EMPTY` (24): <em>ἐϋκνήμιδες, δυώδεκα, τέκμωρ, χρεὼν, ἐϋκνήμιδας, Μηκιστηϊάδης, ξύμβληντο, πολυάϊκος, σοι, σπάκα</em>
 
 <table>
   <tr><th>Paradigm <i>τίς</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th></tr>
@@ -195,7 +224,7 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="grc_perseus-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2501; 98%),
 <tt>ADJ --[<tt><a href="grc_perseus-dep-det.html">det</a></tt>]--> DET</tt> (1178; 95%),
 <tt>NOUN --[<tt><a href="grc_perseus-dep-nmod.html">nmod</a></tt>]--> VERB</tt> (917; 92%),
-<tt>NOUN --[<tt><a href="grc_perseus-dep-amod.html">amod</a></tt>]--> ADJ</tt> (852; 88%),
+<tt>NOUN --[<tt><a href="grc_perseus-dep-amod.html">amod</a></tt>]--> ADJ</tt> (853; 87%),
 <tt>VERB --[<tt><a href="grc_perseus-dep-det.html">det</a></tt>]--> DET</tt> (719; 56%),
 <tt>NOUN --[<tt><a href="grc_perseus-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (675; 51%),
 <tt>VERB --[<tt><a href="grc_perseus-dep-conj.html">conj</a></tt>]--> VERB</tt> (582; 91%),

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-95721 nodes (10%) are attached to their parents as `case`.
+90926 nodes (9%) are attached to their parents as `case`.
 
-92901 instances of `case` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.4767919265365.
+88108 instances of `case` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.40735323229879.
 
-The following 15 pairs of parts of speech are connected with `case`: <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (54323; 57% instances), <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (15245; 16% instances), <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (9316; 10% instances), <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (8967; 9% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (2951; 3% instances), <tt><a href="is_icepahc-pos-DET.html">DET</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (2270; 2% instances), <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (1768; 2% instances), <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (387; 0% instances), <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (161; 0% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (138; 0% instances), <tt><a href="is_icepahc-pos-PART.html">PART</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (73; 0% instances), <tt><a href="is_icepahc-pos-X.html">X</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (58; 0% instances), <tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (42; 0% instances), <tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (20; 0% instances), <tt><a href="is_icepahc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (2; 0% instances).
+The following 15 pairs of parts of speech are connected with `case`: <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (53961; 59% instances), <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (15040; 17% instances), <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (8897; 10% instances), <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (5806; 6% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (2885; 3% instances), <tt><a href="is_icepahc-pos-DET.html">DET</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (2225; 2% instances), <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (1466; 2% instances), <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (176; 0% instances), <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (149; 0% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (130; 0% instances), <tt><a href="is_icepahc-pos-PART.html">PART</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (72; 0% instances), <tt><a href="is_icepahc-pos-X.html">X</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (58; 0% instances), <tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (39; 0% instances), <tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (20; 0% instances), <tt><a href="is_icepahc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -58,22 +58,19 @@ The following 15 pairs of parts of speech are connected with `case`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 7 case	color:blue
-1	dómendur	dómandi	NOUN	NS-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	3	nsubj	_	IFD_tag=nkfn
-2	vildu	vilja	AUX	MDDI	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	aux	_	IFD_tag=sfg3fþ
-3	taka	taka	VERB	VB	VerbForm=Inf|Voice=Act	0	root	_	IFD_tag=sng
-4	eiða	eiður	NOUN	NS-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur	3	obj	_	IFD_tag=nkfo
-5	þeirra	hann	PRON	PRO-G	Case=Gen|Gender=Masc|Number=Plur|PronType=Prs	4	nmod:poss	_	IFD_tag=fpkfe|SpaceAfter=No
-6	.	.	PUNCT	,	_	5	punct	_	IFD_tag=.
-7	ef	ef	ADP	P	_	9	case	_	IFD_tag=c
-8	konungur	konungur	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	9	nsubj	_	IFD_tag=nken
-9	bannaði	banna	VERB	VBDS	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	obl	_	IFD_tag=svg3eþ
-10	eigi	ekki	ADV	NEG	_	9	advmod	_	IFD_tag=aa|SpaceAfter=No
-11	.	.	PUNCT	.	_	10	punct	_	IFD_tag=.
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 case	color:blue
+1	En	en	CCONJ	CONJ	_	3	cc	_	IFD_tag=c
+2	margt	margur	DET	Q-N	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	3	nsubj	_	IFD_tag=lhensf
+3	dvaldist	dvelja	VERB	VBDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	IFD_tag=sfm3eþ
+4	eftir	eftir	ADV	ADV	_	3	advmod	_	IFD_tag=aa
+5	með	með	ADP	P	_	6	case	_	IFD_tag=aþ
+6	Aðalsteini	Aðalsteinn	PROPN	NPR-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	3	obl	_	IFD_tag=nkeþ-s
+7	konungi	konungur	PROPN	NPR-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	6	flat:name	_	IFD_tag=nkeþ|SpaceAfter=No
+8	.	.	PUNCT	.	_	7	punct	_	IFD_tag=.
 
 ~~~
 

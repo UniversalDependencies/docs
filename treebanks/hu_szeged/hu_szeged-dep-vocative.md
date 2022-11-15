@@ -11,17 +11,17 @@ This relation is universal.
 1 nodes (0%) are attached to their parents as `vocative`.
 
 1 instances of `vocative` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.
+Average distance between parent and child is 4.
 
-The following 1 pairs of parts of speech are connected with `vocative`: <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt>-<tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (1; 100% instances).
+The following 1 pairs of parts of speech are connected with `vocative`: <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt>-<tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt> (1; 100% instances).
 
 
 ~~~ conllu
-# visual-style 31	bgColor:blue
-# visual-style 31	fgColor:white
+# visual-style 30	bgColor:blue
+# visual-style 30	fgColor:white
 # visual-style 34	bgColor:blue
 # visual-style 34	fgColor:white
-# visual-style 34 31 vocative	color:blue
+# visual-style 34 30 vocative	color:blue
 1	Akkoriban	akkoriban	ADV	_	PronType=Dem	2	advmod:tlocy	_	_
 2	kezdtem	kezd	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 3	egyre	egyre	ADV	_	_	4	advmod:mode	_	_
@@ -51,9 +51,9 @@ The following 1 pairs of parts of speech are connected with `vocative`: <tt><a h
 27	nekem	én	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	26	iobj	_	SpaceAfter=No
 28	:	:	PUNCT	_	_	34	punct	_	_
 29	"	"	PUNCT	_	_	34	punct	_	_
-30	Gyuri	Gyuri	PROPN	_	Case=Nom|Number=Sing	31	appos	_	_
-31	fiam	fia	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	34	vocative	_	SpaceAfter=No
-32	,	,	PUNCT	_	_	31	punct	_	_
+30	Gyuri	Gyuri	PROPN	_	Case=Nom|Number=Sing	34	vocative	_	_
+31	fiam	fia	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	30	appos	_	SpaceAfter=No
+32	,	,	PUNCT	_	_	30	punct	_	_
 33	name	ne	ADV	_	PronType=Neg	34	advmod	_	_
 34	felejtsd	felejt	VERB	_	Definite=Def|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	26	ccomp:obj	_	_
 35	el	el	ADV	_	_	34	compound:preverb	_	SpaceAfter=No

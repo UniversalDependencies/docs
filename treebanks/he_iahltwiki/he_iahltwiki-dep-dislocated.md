@@ -68,7 +68,7 @@ The following 9 pairs of parts of speech are connected with `dislocated`: <tt><a
 3	ש	ש	SCONJ	SCONJ	_	5	mark	_	_
 4	ב	ב	ADP	ADP	_	5	case	_	_
 5	הם	הוא	PRON	PRON	Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	acl:relcl	_	_
-6	היה	היה	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Polarity=Pos|Tense=Past	10	cop	_	_
+6	היה	היה	AUX	AUX	Gender=Masc|HebBinyan=PAAL|Number=Sing|Person=3|Polarity=Pos|Tense=Past	10	cop	_	_
 7	"	"	PUNCT	PUNCT	_	10	punct	_	SpaceAfter=No
 8	ה	ה	DET	DET	Definite=Def|PronType=Art	9	det	_	_
 9	אהבה	אהבה	PROPN	PROPN	_	10	dislocated	_	_

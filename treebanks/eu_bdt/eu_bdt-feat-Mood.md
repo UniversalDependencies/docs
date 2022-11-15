@@ -12,22 +12,22 @@ It occurs with 5 different values: `Cnd`, `Imp`, `Ind`, `Pot`, `Sub`.
 14675 tokens (12%) have a non-empty value of `Mood`.
 1057 types (4%) occur at least once with a non-empty value of `Mood`.
 23 lemmas (0%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="eu_bdt-pos-AUX.html">AUX</a></tt> (11583; 10% instances), <tt><a href="eu_bdt-pos-VERB.html">VERB</a></tt> (3092; 3% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="eu_bdt-pos-AUX.html">AUX</a></tt> (11609; 10% instances), <tt><a href="eu_bdt-pos-VERB.html">VERB</a></tt> (3066; 3% instances).
 
 ### `AUX`
 
-11583 <tt><a href="eu_bdt-pos-AUX.html">AUX</a></tt> tokens (93% of all `AUX` tokens) have a non-empty value of `Mood`.
+11609 <tt><a href="eu_bdt-pos-AUX.html">AUX</a></tt> tokens (93% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=3</tt> (11202; 97%), <tt><a href="eu_bdt-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (9854; 85%), <tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Sing</tt> (8864; 77%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="eu_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (11609; 100%), <tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=3</tt> (11230; 97%), <tt><a href="eu_bdt-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (9854; 85%), <tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Sing</tt> (8882; 77%).
 
 `AUX` tokens may have the following values of `Mood`:
 
-* `Cnd` (169; 1% of non-empty `Mood`): <em>litzateke, balitz, luke, nuke, balu, lirateke, litzaidake, lukeela, lukete, lioke</em>
+* `Cnd` (170; 1% of non-empty `Mood`): <em>litzateke, balitz, luke, nuke, balu, lirateke, litzaidake, lukeela, lukete, genuke</em>
 * `Imp` (34; 0% of non-empty `Mood`): <em>ezazu, itzazu, zaitez, ezan, ezazue, iezaiezu, Zaude, iezaidazu, iezaion, iezaiozu</em>
-* `Ind` (11022; 95% of non-empty `Mood`): <em>da, zuen, zen, du, dira, dute, zuten, ziren, ditu, zituen</em>
+* `Ind` (11047; 95% of non-empty `Mood`): <em>da, zuen, zen, du, dira, dute, zuten, ziren, ditu, zituen</em>
 * `Pot` (272; 2% of non-empty `Mood`): <em>daiteke, dezake, daitezke, daitekeela, daitezkeen, liteke, daitekeen, dezakeen, dezakete, ditzakete</em>
 * `Sub` (86; 1% of non-empty `Mood`): <em>dadin, dezagun, dezan, dezala, dadila, daitezen, dezaten, ditzan, zezaten, daitezela</em>
-* `EMPTY` (907): <em>izan, ari, izango, izatea, izateko, izaten, egongo, egon, ibili, egoten</em>
+* `EMPTY` (939): <em>izan, ari, izango, izatea, izana, izaten, izateko, egon, egongo, egoten</em>
 
 <table>
   <tr><th>Paradigm <i>egon</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th><th><tt>Sub</tt></th></tr>
@@ -49,18 +49,18 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 
 ### `VERB`
 
-3092 <tt><a href="eu_bdt-pos-VERB.html">VERB</a></tt> tokens (16% of all `VERB` tokens) have a non-empty value of `Mood`.
+3066 <tt><a href="eu_bdt-pos-VERB.html">VERB</a></tt> tokens (16% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="eu_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (3092; 100%), <tt><a href="eu_bdt-feat-Aspect.html">Aspect</a></tt><tt>=Prog</tt> (3087; 100%), <tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3016; 98%), <tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=3</tt> (2960; 96%), <tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Sing</tt> (2390; 77%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="eu_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3066; 100%), <tt><a href="eu_bdt-feat-Aspect.html">Aspect</a></tt><tt>=Prog</tt> (3061; 100%), <tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2996; 98%), <tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=3</tt> (2932; 96%), <tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Sing</tt> (2372; 77%).
 
 `VERB` tokens may have the following values of `Mood`:
 
-* `Cnd` (31; 1% of non-empty `Mood`): <em>nuke, luke, balitz, niken, Badakit, bagina, bailitzan, balego, banitu, bazekikeen</em>
+* `Cnd` (30; 1% of non-empty `Mood`): <em>nuke, luke, balitz, niken, Badakit, bagina, bailitzan, balego, banitu, bazekikeen</em>
 * `Imp` (13; 0% of non-empty `Mood`): <em>egizu, hago, Demagun, Hoa, emaidazu, zaude, zaudezte, zoaz, zoazte</em>
-* `Ind` (3008; 97% of non-empty `Mood`): <em>da, du, dago, dute, dira, daude, dugu, dela, dut, zegoen</em>
+* `Ind` (2983; 97% of non-empty `Mood`): <em>du, da, dago, dute, dira, daude, dugu, dela, dut, zegoen</em>
 * `Pot` (30; 1% of non-empty `Mood`): <em>baliteke, litekeena, lekarkioke, liteke</em>
 * `Sub` (10; 0% of non-empty `Mood`): <em>dagokionean, zioen, dabiltzen, dagola, dauden, nindoala, zegoela, zihoazen</em>
-* `EMPTY` (16034): <em>egin, izan, esan, egiten, izango, eman, hasi, joan, lortu, hartu</em>
+* `EMPTY` (16001): <em>egin, izan, esan, egiten, izango, eman, hasi, joan, lortu, hartu</em>
 
 <table>
   <tr><th>Paradigm <i>egon</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th><th><tt>Sub</tt></th></tr>
@@ -82,22 +82,17 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
   <tr><td><tt><tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Plur</tt>|<tt><a href="eu_bdt-feat-Number-dat.html">Number[dat]</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=3</tt>|<tt><a href="eu_bdt-feat-Person-dat.html">Person[dat]</a></tt><tt>=3</tt></tt></td><td><em>dagozkion, dagozkio</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Plur</tt>|<tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=1</tt></tt></td><td><em>gaude, geunden, baikaude, gaudela, gauden, geuden, geundela, geundelarik</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Plur</tt>|<tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=2</tt></tt></td><td></td><td><em>zaudezte</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Plur</tt>|<tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=3</tt></tt></td><td><em>daude, zeuden, dauden, daudela, zeudela, daudelako, baitaude, daudenean, daudenez, badaude, daudenetik</em></td><td></td><td></td><td><em>dauden</em></td></tr>
   <tr><td><tt><tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Plur</tt>|<tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=3</tt>|<tt><a href="eu_bdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td><em>badaude, badaudela</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Plur</tt>|<tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=3</tt></tt></td><td><em>daude, zeuden, dauden, daudela, zeudela, daudelako, baitaude, daudenean, daudenez, badaude, daudenetik</em></td><td></td><td></td><td><em>dauden</em></td></tr>
   <tr><td><tt><tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-Number-dat.html">Number[dat]</a></tt><tt>=Plur</tt>|<tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=3</tt>|<tt><a href="eu_bdt-feat-Person-dat.html">Person[dat]</a></tt><tt>=1</tt></tt></td><td><em>dagokigunez</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-Number-dat.html">Number[dat]</a></tt><tt>=Plur</tt>|<tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=3</tt>|<tt><a href="eu_bdt-feat-Person-dat.html">Person[dat]</a></tt><tt>=3</tt></tt></td><td><em>dagokienez, dagokie</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-Number-dat.html">Number[dat]</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=3</tt>|<tt><a href="eu_bdt-feat-Person-dat.html">Person[dat]</a></tt><tt>=1</tt></tt></td><td><em>dagokidan</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-Number-dat.html">Number[dat]</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=3</tt>|<tt><a href="eu_bdt-feat-Person-dat.html">Person[dat]</a></tt><tt>=2</tt></tt></td><td><em>dagokizun</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-Number-dat.html">Number[dat]</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=3</tt>|<tt><a href="eu_bdt-feat-Person-dat.html">Person[dat]</a></tt><tt>=3</tt></tt></td><td><em>dagokionez, dagokion, dagokio, zegokion, zegokiola, zegokionez</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=1</tt></tt></td><td><em>nago, nengoen, nagoela, nengoela, banago, nagoen</em></td><td></td><td><em>nengoke</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=2</tt></tt></td><td><em>zaude, zaudela, zaudelarik</em></td><td><em>zaude</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=2</tt>|<tt><a href="eu_bdt-feat-Polite-abs.html">Polite[abs]</a></tt><tt>=Infm</tt></tt></td><td><em>hago</em></td><td><em>hago</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=3</tt></tt></td><td><em>dago, zegoen, dagoela, dagoen, zegoela, badago, baitago, dagoelako, dagoenean, dagoena, zegoenean, Dagoeneko, baitzegoen, dagoelarik, dagoenez, zegoelako, zegoenik</em></td><td></td><td><em>balego</em></td><td><em>dagola, zegoela</em></td></tr>
+  <tr><td><tt><tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=2</tt></tt></td><td><em>zaude, zaudela, zaudelarik</em></td><td><em>zaude</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=3</tt>|<tt><a href="eu_bdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td><em>badago, badagoela, badagoen, bazegoelako, bazegoen</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=3</tt></tt></td><td><em>dago, zegoen, dagoela, dagoen, zegoela, badago, baitago, dagoelako, dagoenean, dagoena, zegoenean, Dagoeneko, baitzegoen, dagoelarik, dagoenez, zegoelako, zegoenik</em></td><td></td><td><em>balego</em></td><td><em>dagola, zegoela</em></td></tr>
 </table>
-
-## Relations with Agreement in `Mood`
-
-The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>AUX --[<tt><a href="eu_bdt-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (2; 100%).
 

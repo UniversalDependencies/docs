@@ -11,7 +11,7 @@ This relation is universal.
 2376 nodes (2%) are attached to their parents as `advmod`.
 
 2376 instances of `advmod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.03998316498317.
+Average distance between parent and child is 4.03703703703704.
 
 The following 8 pairs of parts of speech are connected with `advmod`: <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsdluw-pos-ADV.html">ADV</a></tt> (1590; 67% instances), <tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsdluw-pos-ADV.html">ADV</a></tt> (370; 16% instances), <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsdluw-pos-ADV.html">ADV</a></tt> (336; 14% instances), <tt><a href="ja_gsdluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_gsdluw-pos-ADV.html">ADV</a></tt> (36; 2% instances), <tt><a href="ja_gsdluw-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_gsdluw-pos-ADV.html">ADV</a></tt> (24; 1% instances), <tt><a href="ja_gsdluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsdluw-pos-ADV.html">ADV</a></tt> (12; 1% instances), <tt><a href="ja_gsdluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_gsdluw-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_gsdluw-pos-ADV.html">ADV</a></tt> (2; 0% instances).
 

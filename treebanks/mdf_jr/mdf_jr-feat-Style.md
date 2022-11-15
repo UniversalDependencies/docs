@@ -26,7 +26,7 @@ The most frequent other feature values with which `ADV` and `Style` co-occurred:
 
 ### `DET`
 
-2 <tt><a href="mdf_jr-pos-DET.html">DET</a></tt> tokens (8% of all `DET` tokens) have a non-empty value of `Style`.
+2 <tt><a href="mdf_jr-pos-DET.html">DET</a></tt> tokens (6% of all `DET` tokens) have a non-empty value of `Style`.
 
 `DET` tokens may have the following values of `Style`:
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `ADV` and `Style` co-occurred:
 
 ### `SCONJ`
 
-2 <tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> tokens (11% of all `SCONJ` tokens) have a non-empty value of `Style`.
+2 <tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> tokens (10% of all `SCONJ` tokens) have a non-empty value of `Style`.
 
 `SCONJ` tokens may have the following values of `Style`:
 

@@ -44,8 +44,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 The 10 most frequent relations where parent and child node agree in `NumType`:
 <tt>NUM --[<tt><a href="ro_simonero-dep-conj.html">conj</a></tt>]--> NUM</tt> (368; 100%),
-<tt>NUM --[<tt><a href="ro_simonero-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (111; 92%),
-<tt>NUM --[<tt><a href="ro_simonero-dep-goeswith.html">goeswith</a></tt>]--> NUM</tt> (21; 100%),
+<tt>NUM --[<tt><a href="ro_simonero-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (131; 93%),
 <tt>NUM --[<tt><a href="ro_simonero-dep-parataxis.html">parataxis</a></tt>]--> NUM</tt> (20; 100%),
 <tt>NUM --[<tt><a href="ro_simonero-dep-compound.html">compound</a></tt>]--> NUM</tt> (4; 100%),
 <tt>NUM --[<tt><a href="ro_simonero-dep-appos.html">appos</a></tt>]--> NUM</tt> (2; 100%).

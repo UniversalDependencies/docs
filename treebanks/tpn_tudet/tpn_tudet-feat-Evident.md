@@ -21,5 +21,5 @@ The feature is used with 1 part-of-speech tags: <tt><a href="tpn_tudet-pos-PART.
 `PART` tokens may have the following values of `Evident`:
 
 * `Fh` (1; 100% of non-empty `Evident`): <em>rako</em>
-* `EMPTY` (173): <em>e, jẽ, ɨβɨa, je, ae, aʔepe, rõ, ã, jẽpe, teʔe</em>
+* `EMPTY` (183): <em>e, jẽ, ɨβɨa, je, ã, ae, aʔepe, rõ, ajẽ, jẽpe</em>
 

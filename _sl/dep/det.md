@@ -15,3 +15,4 @@ det(zaveznik,naš)
 Ali ima center veliko dela spričo tako hudih medvrstniških obračunavanj ?
 det(dela,veliko)
 ~~~
+<!-- Interlanguage links updated Po lis 14 15:35:22 CET 2022 -->

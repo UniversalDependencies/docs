@@ -33,7 +33,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 `ADV` tokens may have the following values of `PronType`:
 
 * `Int` (139; 100% of non-empty `PronType`): <em>nola, zergatik, non, noiz, nondik, zelan, nora, zertan, noraino, nolaz</em>
-* `EMPTY` (5039): <em>atzo, oso, gaur, orain, ondoren, gero, hala, bertan, beti, ondo</em>
+* `EMPTY` (5113): <em>atzo, oso, gaur, orain, ondoren, gero, hala, bertan, beti, ondo</em>
 
 ## Relations with Agreement in `PronType`
 

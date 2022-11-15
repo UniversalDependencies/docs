@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Korean-GSD: POS Tags: `ADP`
 
-There are 226 `ADP` lemmas (1%), 225 `ADP` types (1%) and 1794 `ADP` tokens (2%).
+There are 225 `ADP` lemmas (1%), 224 `ADP` types (1%) and 1793 `ADP` tokens (2%).
 Out of 16 observed tags, the rank of `ADP` is: 7 in number of lemmas, 7 in number of types and 6 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: 고, 의, 는, 중, 때문+에, 를, 을, 에, 로, 가
 
 The 10 most frequent `ADP` types:  고, 의, 는, 중, 때문에, 를, 을, 에, 로, 가
 
-The 10 most frequent ambiguous lemmas: 고 (<tt><a href="ko_gsd-pos-ADP.html">ADP</a></tt> 154, <tt><a href="ko_gsd-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="ko_gsd-pos-NOUN.html">NOUN</a></tt> 1), 는 (<tt><a href="ko_gsd-pos-ADP.html">ADP</a></tt> 97, <tt><a href="ko_gsd-pos-VERB.html">VERB</a></tt> 8), 중 (<tt><a href="ko_gsd-pos-ADP.html">ADP</a></tt> 93, <tt><a href="ko_gsd-pos-NOUN.html">NOUN</a></tt> 14, <tt><a href="ko_gsd-pos-ADV.html">ADV</a></tt> 1), 때문+에 (<tt><a href="ko_gsd-pos-ADP.html">ADP</a></tt> 79, <tt><a href="ko_gsd-pos-ADV.html">ADV</a></tt> 2), 에 (<tt><a href="ko_gsd-pos-ADP.html">ADP</a></tt> 62, <tt><a href="ko_gsd-pos-ADV.html">ADV</a></tt> 1), 가 (<tt><a href="ko_gsd-pos-ADP.html">ADP</a></tt> 56, <tt><a href="ko_gsd-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="ko_gsd-pos-VERB.html">VERB</a></tt> 1), 후 (<tt><a href="ko_gsd-pos-ADP.html">ADP</a></tt> 54, <tt><a href="ko_gsd-pos-NOUN.html">NOUN</a></tt> 24), 이 (<tt><a href="ko_gsd-pos-DET.html">DET</a></tt> 223, <tt><a href="ko_gsd-pos-ADP.html">ADP</a></tt> 45, <tt><a href="ko_gsd-pos-PRON.html">PRON</a></tt> 29, <tt><a href="ko_gsd-pos-NOUN.html">NOUN</a></tt> 19), 이후 (<tt><a href="ko_gsd-pos-ADP.html">ADP</a></tt> 37, <tt><a href="ko_gsd-pos-ADV.html">ADV</a></tt> 31, <tt><a href="ko_gsd-pos-NOUN.html">NOUN</a></tt> 14), 라고 (<tt><a href="ko_gsd-pos-ADP.html">ADP</a></tt> 25, <tt><a href="ko_gsd-pos-ADV.html">ADV</a></tt> 1)
+The 10 most frequent ambiguous lemmas: 고 (<tt><a href="ko_gsd-pos-ADP.html">ADP</a></tt> 154, <tt><a href="ko_gsd-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="ko_gsd-pos-NOUN.html">NOUN</a></tt> 1), 는 (<tt><a href="ko_gsd-pos-ADP.html">ADP</a></tt> 97, <tt><a href="ko_gsd-pos-VERB.html">VERB</a></tt> 8), 중 (<tt><a href="ko_gsd-pos-ADP.html">ADP</a></tt> 93, <tt><a href="ko_gsd-pos-NOUN.html">NOUN</a></tt> 14, <tt><a href="ko_gsd-pos-ADV.html">ADV</a></tt> 1), 때문+에 (<tt><a href="ko_gsd-pos-ADP.html">ADP</a></tt> 79, <tt><a href="ko_gsd-pos-ADV.html">ADV</a></tt> 2), 에 (<tt><a href="ko_gsd-pos-ADP.html">ADP</a></tt> 62, <tt><a href="ko_gsd-pos-ADV.html">ADV</a></tt> 1), 가 (<tt><a href="ko_gsd-pos-ADP.html">ADP</a></tt> 56, <tt><a href="ko_gsd-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="ko_gsd-pos-VERB.html">VERB</a></tt> 1), 후 (<tt><a href="ko_gsd-pos-ADP.html">ADP</a></tt> 54, <tt><a href="ko_gsd-pos-NOUN.html">NOUN</a></tt> 24), 이 (<tt><a href="ko_gsd-pos-DET.html">DET</a></tt> 223, <tt><a href="ko_gsd-pos-AUX.html">AUX</a></tt> 73, <tt><a href="ko_gsd-pos-ADP.html">ADP</a></tt> 45, <tt><a href="ko_gsd-pos-PRON.html">PRON</a></tt> 29, <tt><a href="ko_gsd-pos-NOUN.html">NOUN</a></tt> 19), 이후 (<tt><a href="ko_gsd-pos-ADP.html">ADP</a></tt> 37, <tt><a href="ko_gsd-pos-ADV.html">ADV</a></tt> 31, <tt><a href="ko_gsd-pos-NOUN.html">NOUN</a></tt> 14), 라고 (<tt><a href="ko_gsd-pos-ADP.html">ADP</a></tt> 25, <tt><a href="ko_gsd-pos-ADV.html">ADV</a></tt> 1)
 
-The 10 most frequent ambiguous types:  고 (<tt><a href="ko_gsd-pos-ADP.html">ADP</a></tt> 154, <tt><a href="ko_gsd-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="ko_gsd-pos-NOUN.html">NOUN</a></tt> 1), 는 (<tt><a href="ko_gsd-pos-ADP.html">ADP</a></tt> 97, <tt><a href="ko_gsd-pos-VERB.html">VERB</a></tt> 9), 중 (<tt><a href="ko_gsd-pos-ADP.html">ADP</a></tt> 93, <tt><a href="ko_gsd-pos-NOUN.html">NOUN</a></tt> 14, <tt><a href="ko_gsd-pos-ADV.html">ADV</a></tt> 1), 때문에 (<tt><a href="ko_gsd-pos-ADP.html">ADP</a></tt> 79, <tt><a href="ko_gsd-pos-ADV.html">ADV</a></tt> 2), 에 (<tt><a href="ko_gsd-pos-ADP.html">ADP</a></tt> 62, <tt><a href="ko_gsd-pos-ADV.html">ADV</a></tt> 1), 가 (<tt><a href="ko_gsd-pos-ADP.html">ADP</a></tt> 56, <tt><a href="ko_gsd-pos-VERB.html">VERB</a></tt> 25, <tt><a href="ko_gsd-pos-NOUN.html">NOUN</a></tt> 1), 후 (<tt><a href="ko_gsd-pos-ADP.html">ADP</a></tt> 54, <tt><a href="ko_gsd-pos-NOUN.html">NOUN</a></tt> 24), 이라고 (<tt><a href="ko_gsd-pos-ADP.html">ADP</a></tt> 47, <tt><a href="ko_gsd-pos-VERB.html">VERB</a></tt> 2), 이 (<tt><a href="ko_gsd-pos-DET.html">DET</a></tt> 223, <tt><a href="ko_gsd-pos-ADP.html">ADP</a></tt> 45, <tt><a href="ko_gsd-pos-PRON.html">PRON</a></tt> 29, <tt><a href="ko_gsd-pos-NOUN.html">NOUN</a></tt> 19), 이후 (<tt><a href="ko_gsd-pos-ADP.html">ADP</a></tt> 37, <tt><a href="ko_gsd-pos-ADV.html">ADV</a></tt> 31, <tt><a href="ko_gsd-pos-NOUN.html">NOUN</a></tt> 14)
+The 10 most frequent ambiguous types:  고 (<tt><a href="ko_gsd-pos-ADP.html">ADP</a></tt> 154, <tt><a href="ko_gsd-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="ko_gsd-pos-NOUN.html">NOUN</a></tt> 1), 는 (<tt><a href="ko_gsd-pos-ADP.html">ADP</a></tt> 97, <tt><a href="ko_gsd-pos-VERB.html">VERB</a></tt> 8, <tt><a href="ko_gsd-pos-AUX.html">AUX</a></tt> 1), 중 (<tt><a href="ko_gsd-pos-ADP.html">ADP</a></tt> 93, <tt><a href="ko_gsd-pos-NOUN.html">NOUN</a></tt> 14, <tt><a href="ko_gsd-pos-ADV.html">ADV</a></tt> 1), 때문에 (<tt><a href="ko_gsd-pos-ADP.html">ADP</a></tt> 79, <tt><a href="ko_gsd-pos-ADV.html">ADV</a></tt> 2), 에 (<tt><a href="ko_gsd-pos-ADP.html">ADP</a></tt> 62, <tt><a href="ko_gsd-pos-ADV.html">ADV</a></tt> 1), 가 (<tt><a href="ko_gsd-pos-ADP.html">ADP</a></tt> 56, <tt><a href="ko_gsd-pos-VERB.html">VERB</a></tt> 25, <tt><a href="ko_gsd-pos-NOUN.html">NOUN</a></tt> 1), 후 (<tt><a href="ko_gsd-pos-ADP.html">ADP</a></tt> 54, <tt><a href="ko_gsd-pos-NOUN.html">NOUN</a></tt> 24), 이라고 (<tt><a href="ko_gsd-pos-ADP.html">ADP</a></tt> 47, <tt><a href="ko_gsd-pos-AUX.html">AUX</a></tt> 2), 이 (<tt><a href="ko_gsd-pos-DET.html">DET</a></tt> 223, <tt><a href="ko_gsd-pos-ADP.html">ADP</a></tt> 45, <tt><a href="ko_gsd-pos-PRON.html">PRON</a></tt> 29, <tt><a href="ko_gsd-pos-NOUN.html">NOUN</a></tt> 19), 이후 (<tt><a href="ko_gsd-pos-ADP.html">ADP</a></tt> 37, <tt><a href="ko_gsd-pos-ADV.html">ADV</a></tt> 31, <tt><a href="ko_gsd-pos-NOUN.html">NOUN</a></tt> 14)
 
 
 * 고
@@ -24,7 +24,8 @@ The 10 most frequent ambiguous types:  고 (<tt><a href="ko_gsd-pos-ADP.html">AD
   * <tt><a href="ko_gsd-pos-NOUN.html">NOUN</a></tt> 1: 신임 <b>고</b> 상임의장은 금산참여연대 집행위원으로 활동해 왔으며 상임 의장의 임기는 2년이다 .
 * 는
   * <tt><a href="ko_gsd-pos-ADP.html">ADP</a></tt> 97: 아르마딜로 스페이스 ( ) <b>는</b> 존 카맥이 우주 여행을 목적으로 2000년에 설립한 기업이다 .
-  * <tt><a href="ko_gsd-pos-VERB.html">VERB</a></tt> 9: 교육개발원 조사를 보면 " 평소 욕설을 전혀 하지 않는다 " <b>는</b> 아이는 100명 중 5명에 불과하다 .
+  * <tt><a href="ko_gsd-pos-VERB.html">VERB</a></tt> 8: 교육개발원 조사를 보면 " 평소 욕설을 전혀 하지 않는다 " <b>는</b> 아이는 100명 중 5명에 불과하다 .
+  * <tt><a href="ko_gsd-pos-AUX.html">AUX</a></tt> 1: 반면 검찰은 ` 수사기관이 실질적으로 수사를 개시한 때부터 수사에 해당한다 ' <b>는</b> 법령 , 학설 , 판례를 근거로 관행적으로 허용해온 경찰 내사도 검찰 지휘를 받게 원칙으로 못박아야 한다고 주장해왔다 .
 * 중
   * <tt><a href="ko_gsd-pos-ADP.html">ADP</a></tt> 93: ' 일분동안 ' 은 얼굴피부 마사지기 <b>중</b> 비용대비 쓸모가 좋기로 이름난 제품이다 .
   * <tt><a href="ko_gsd-pos-NOUN.html">NOUN</a></tt> 14: 근처에서 먹어본 <b>중</b> 아주 괜찮은 편에 속합니다
@@ -44,7 +45,7 @@ The 10 most frequent ambiguous types:  고 (<tt><a href="ko_gsd-pos-ADP.html">AD
   * <tt><a href="ko_gsd-pos-NOUN.html">NOUN</a></tt> 24: 만약에 켈로이드가 크다면 절제를 한 후에 미세 봉합술을 시행한 <b>후</b> 전자선 치료를 병행해야 한다 .
 * 이라고
   * <tt><a href="ko_gsd-pos-ADP.html">ADP</a></tt> 47: 마더 테레사는 자신을 하나님의 손에 붙잡힌 ' 몽당연필 ' <b>이라고</b> 표현했다 .
-  * <tt><a href="ko_gsd-pos-VERB.html">VERB</a></tt> 2: 불교 재의식 절차 중에는 ' 식당작법 ( 食堂作法 ) ' <b>이라고</b> 하는 순서가 있어서 , 반드시 상기 5종의 춤을 추는 대목이 있다 .
+  * <tt><a href="ko_gsd-pos-AUX.html">AUX</a></tt> 2: 불교 재의식 절차 중에는 ' 식당작법 ( 食堂作法 ) ' <b>이라고</b> 하는 순서가 있어서 , 반드시 상기 5종의 춤을 추는 대목이 있다 .
 * 이
   * <tt><a href="ko_gsd-pos-DET.html">DET</a></tt> 223: ' 하녀 ' 와 같은 날 개봉한 <b>이</b> 영화의 누적 관객은 54만5천366명이다 .
   * <tt><a href="ko_gsd-pos-ADP.html">ADP</a></tt> 45: 강산구의 옛 이름은 간진림 ( 竿?林 ) 이며 옛날에 모초간 ( 茅草竿 ) <b>이</b> 군생한 것에서 명명되었다 .
@@ -57,7 +58,7 @@ The 10 most frequent ambiguous types:  고 (<tt><a href="ko_gsd-pos-ADP.html">AD
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 0.995575 (the average of all parts of speech is 1.000681).
+The form / lemma ratio of `ADP` is 0.995556 (the average of all parts of speech is 1.001499).
 
 The 1st highest number of forms (2) was observed with the lemma “이란”: 란, 이란.
 
@@ -70,19 +71,19 @@ The 3rd highest number of forms (1) was observed with the lemma “가”: 가.
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 7 different relations: <tt><a href="ko_gsd-dep-case.html">case</a></tt> (1534; 86% instances), <tt><a href="ko_gsd-dep-obj.html">obj</a></tt> (154; 9% instances), <tt><a href="ko_gsd-dep-nsubj.html">nsubj</a></tt> (99; 6% instances), <tt><a href="ko_gsd-dep-advmod.html">advmod</a></tt> (2; 0% instances), <tt><a href="ko_gsd-dep-flat.html">flat</a></tt> (2; 0% instances), <tt><a href="ko_gsd-dep-nmod.html">nmod</a></tt> (2; 0% instances), <tt><a href="ko_gsd-dep-appos.html">appos</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 7 different relations: <tt><a href="ko_gsd-dep-case.html">case</a></tt> (1534; 86% instances), <tt><a href="ko_gsd-dep-obj.html">obj</a></tt> (154; 9% instances), <tt><a href="ko_gsd-dep-nsubj.html">nsubj</a></tt> (99; 6% instances), <tt><a href="ko_gsd-dep-flat.html">flat</a></tt> (2; 0% instances), <tt><a href="ko_gsd-dep-nmod.html">nmod</a></tt> (2; 0% instances), <tt><a href="ko_gsd-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="ko_gsd-dep-mark.html">mark</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 10 different parts of speech: <tt><a href="ko_gsd-pos-NOUN.html">NOUN</a></tt> (1261; 70% instances), <tt><a href="ko_gsd-pos-VERB.html">VERB</a></tt> (181; 10% instances), <tt><a href="ko_gsd-pos-PROPN.html">PROPN</a></tt> (149; 8% instances), <tt><a href="ko_gsd-pos-NUM.html">NUM</a></tt> (81; 5% instances), <tt><a href="ko_gsd-pos-PRON.html">PRON</a></tt> (59; 3% instances), <tt><a href="ko_gsd-pos-ADJ.html">ADJ</a></tt> (31; 2% instances), <tt><a href="ko_gsd-pos-PUNCT.html">PUNCT</a></tt> (19; 1% instances), <tt><a href="ko_gsd-pos-AUX.html">AUX</a></tt> (11; 1% instances), <tt><a href="ko_gsd-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="ko_gsd-pos-SYM.html">SYM</a></tt> (1; 0% instances)
+Parents of `ADP` nodes belong to 9 different parts of speech: <tt><a href="ko_gsd-pos-NOUN.html">NOUN</a></tt> (1277; 71% instances), <tt><a href="ko_gsd-pos-VERB.html">VERB</a></tt> (180; 10% instances), <tt><a href="ko_gsd-pos-PROPN.html">PROPN</a></tt> (158; 9% instances), <tt><a href="ko_gsd-pos-NUM.html">NUM</a></tt> (85; 5% instances), <tt><a href="ko_gsd-pos-PRON.html">PRON</a></tt> (59; 3% instances), <tt><a href="ko_gsd-pos-ADJ.html">ADJ</a></tt> (31; 2% instances), <tt><a href="ko_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ko_gsd-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="ko_gsd-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 
-1765 (98%) `ADP` nodes are leaves.
+1654 (92%) `ADP` nodes are leaves.
 
-28 (2%) `ADP` nodes have one child.
+132 (7%) `ADP` nodes have one child.
 
-1 (0%) `ADP` nodes have two children.
+7 (0%) `ADP` nodes have two children.
 
 The highest child degree of a `ADP` node is 2.
 
-Children of `ADP` nodes are attached using 3 different relations: <tt><a href="ko_gsd-dep-punct.html">punct</a></tt> (27; 90% instances), <tt><a href="ko_gsd-dep-nummod.html">nummod</a></tt> (2; 7% instances), <tt><a href="ko_gsd-dep-advmod.html">advmod</a></tt> (1; 3% instances)
+Children of `ADP` nodes are attached using 3 different relations: <tt><a href="ko_gsd-dep-punct.html">punct</a></tt> (144; 99% instances), <tt><a href="ko_gsd-dep-advmod.html">advmod</a></tt> (1; 1% instances), <tt><a href="ko_gsd-dep-nummod.html">nummod</a></tt> (1; 1% instances)
 
-Children of `ADP` nodes belong to 4 different parts of speech: <tt><a href="ko_gsd-pos-PUNCT.html">PUNCT</a></tt> (26; 87% instances), <tt><a href="ko_gsd-pos-NUM.html">NUM</a></tt> (2; 7% instances), <tt><a href="ko_gsd-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="ko_gsd-pos-SYM.html">SYM</a></tt> (1; 3% instances)
+Children of `ADP` nodes belong to 3 different parts of speech: <tt><a href="ko_gsd-pos-PUNCT.html">PUNCT</a></tt> (144; 99% instances), <tt><a href="ko_gsd-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="ko_gsd-pos-NUM.html">NUM</a></tt> (1; 1% instances)
 

@@ -27,13 +27,13 @@ The following 16 pairs of parts of speech are connected with `parataxis:parenth`
 2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	SpaceAfter=No
 3	-ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	expl:subj	_	_
 4	qu'	que	SCONJ	_	_	6	mark	_	SpaceAfter=No
-5	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+5	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	_
 6	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	que	que	SCONJ	_	_	9	mark	_	_
 8	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	SpaceAfter=No
 9	aie	avoir	VERB	_	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	ccomp	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	14	punct	_	_
-11	parce	parce	SCONJ	_	_	14	mark	_	ExtPos=SCONJ|Idiom=Yes
+11	parce	parce	ADV	_	_	14	mark	_	ExtPos=SCONJ|Idiom=Yes
 12	que	que	SCONJ	_	_	11	fixed	_	InIdiom=Yes
 13	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	14	nsubj	_	SpaceAfter=No
 14	aime	aimer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	parataxis:parenth	_	_
@@ -66,7 +66,7 @@ The following 16 pairs of parts of speech are connected with `parataxis:parenth`
 8	,	,	PUNCT	_	_	7	punct	_	_
 9	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	12	nsubj	_	_
 10	l'	le	PRON	_	Number=Sing|Person=3|PronType=Prs	12	obj	_	SpaceAfter=No
-11	avez	avoir	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	12	aux	_	_
+11	avez	avoir	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	12	aux:tense	_	_
 12	vu	voir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	16	parataxis:parenth	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	12	punct	_	_
 14	de	de	ADP	_	_	16	case	_	_
@@ -99,7 +99,7 @@ The following 16 pairs of parts of speech are connected with `parataxis:parenth`
 10	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	acl	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	1	punct	_	_
 12	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	15	nsubj:pass	_	_
-13	avez	avoir	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	15	aux	_	_
+13	avez	avoir	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	15	aux:tense	_	_
 14	été	être	AUX	DoubleAux	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	15	aux:pass	_	_
 15	ruinée	ruiner	VERB	DoubleAux	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	15	punct	_	_

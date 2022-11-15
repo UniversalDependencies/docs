@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-9 nodes (4%) are attached to their parents as `det`.
+49 nodes (4%) are attached to their parents as `det`.
 
-8 instances of `det` (89%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.11111111111111.
+46 instances of `det` (94%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.14285714285714.
 
-The following 3 pairs of parts of speech are connected with `det`: <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eme_tudet-pos-DET.html">DET</a></tt> (7; 78% instances), <tt><a href="eme_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="eme_tudet-pos-DET.html">DET</a></tt> (1; 11% instances), <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-PRON.html">PRON</a></tt> (1; 11% instances).
+The following 7 pairs of parts of speech are connected with `det`: <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eme_tudet-pos-DET.html">DET</a></tt> (36; 73% instances), <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-DET.html">DET</a></tt> (7; 14% instances), <tt><a href="eme_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="eme_tudet-pos-DET.html">DET</a></tt> (2; 4% instances), <tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="eme_tudet-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eme_tudet-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="eme_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="eme_tudet-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="eme_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="eme_tudet-pos-PRON.html">PRON</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -31,6 +31,18 @@ The following 3 pairs of parts of speech are connected with `det`: <tt><a href="
 
 
 ~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 det	color:blue
+1	okuwapɨlɨ	kuwa	VERB	v	Intens=Yes|Person=3	0	root	_	_
+2	aŋ	aŋ	DET	dem	_	1	det	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 3	bgColor:blue
@@ -40,18 +52,6 @@ The following 3 pairs of parts of speech are connected with `det`: <tt><a href="
 2	nõde	nõde	PRON	pron	Clusivity=In|Number=Plur	3	parataxis	_	_
 3	tekokom	teko	PROPN	propn	Number=Plur	0	root	_	_
 4	sidʒu	dʒu	AUX	aux	Clusivity=In|Person=1	3	cop	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 det	color:blue
-1	okuwapɨlɨ	kuwa	VERB	v	Intens=Yes|Person=3	0	root	_	_
-2	ãng	ãng	PRON	pron	PronType=Dem	1	det	_	_
 
 ~~~
 

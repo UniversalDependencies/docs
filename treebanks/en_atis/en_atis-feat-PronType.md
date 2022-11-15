@@ -11,8 +11,8 @@ It occurs with 5 different values: `Art`, `Dem`, `Int`, `Prs`, `Rel`.
 Some words have combined values of the feature; 1 combinations have been observed: `Int|Rel`.
 
 8896 tokens (14%) have a non-empty value of `PronType`.
-36 types (4%) occur at least once with a non-empty value of `PronType`.
-30 lemmas (4%) occur at least once with a non-empty value of `PronType`.
+35 types (4%) occur at least once with a non-empty value of `PronType`.
+28 lemmas (4%) occur at least once with a non-empty value of `PronType`.
 The feature is used with 3 part-of-speech tags: <tt><a href="en_atis-pos-DET.html">DET</a></tt> (4885; 8% instances), <tt><a href="en_atis-pos-PRON.html">PRON</a></tt> (3828; 6% instances), <tt><a href="en_atis-pos-ADV.html">ADV</a></tt> (183; 0% instances).
 
 ### `DET`
@@ -34,11 +34,13 @@ The feature is used with 3 part-of-speech tags: <tt><a href="en_atis-pos-DET.htm
 
 3828 <tt><a href="en_atis-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="en_atis-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2634; 69%), <tt><a href="en_atis-feat-Person.html">Person</a></tt><tt>=1</tt> (2380; 62%).
+
 `PRON` tokens may have the following values of `PronType`:
 
 * `Dem` (240; 6% of non-empty `PronType`): <em>there</em>
 * `Int,Rel` (934; 24% of non-empty `PronType`): <em>what, which, that, who, this, those</em>
-* `Prs` (2654; 69% of non-empty `PronType`): <em>me, i, you, it, 's, one, we, they, this, each</em>
+* `Prs` (2654; 69% of non-empty `PronType`): <em>me, i, you, it, 's, one, this, we, each, that</em>
 
 <table>
   <tr><th>Paradigm <i>there</i></th><th><tt>Prs</tt></th><th><tt>Dem</tt></th></tr>

@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Classical_Chinese-Kyoto: Relations: `csubj:pass`
 
 This relation is a language-specific subtype of <tt><a href="lzh_kyoto-dep-csubj.html">csubj</a></tt>.
+There are also 1 other language-specific subtypes of `csubj`: <tt><a href="lzh_kyoto-dep-csubj-outer.html">csubj:outer</a></tt>.
 
 1 nodes (0%) are attached to their parents as `csubj:pass`.
 
@@ -22,7 +23,7 @@ The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 6 csubj:pass	color:blue
-1	此	此	PRON	n,代名詞,指示,*	PronType=Dem	6	nsubj	_	Gloss=this|SpaceAfter=No
+1	此	此	PRON	n,代名詞,指示,*	PronType=Dem	6	nsubj:outer	_	Gloss=this|SpaceAfter=No
 2	聖	聖	NOUN	n,名詞,人,役割	_	3	nmod	_	Gloss=sage|SpaceAfter=No
 3	人	人	NOUN	n,名詞,人,人	_	6	nsubj	_	Gloss=person|SpaceAfter=No
 4	所	所	PART	p,助詞,接続,体言化	_	5	case	_	Gloss=that-which|SpaceAfter=No

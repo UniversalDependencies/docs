@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-7 nodes (0%) are attached to their parents as `goeswith`.
+10 nodes (0%) are attached to their parents as `goeswith`.
 
-7 instances of `goeswith` (100%) are left-to-right (parent precedes child).
+10 instances of `goeswith` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 6 pairs of parts of speech are connected with `goeswith`: <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (2; 29% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (1; 14% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (1; 14% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (1; 14% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (1; 14% instances), <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (1; 14% instances).
+The following 6 pairs of parts of speech are connected with `goeswith`: <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (3; 30% instances), <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (3; 30% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (1; 10% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (1; 10% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (1; 10% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (1; 10% instances).
 
 
 ~~~ conllu
@@ -31,6 +31,28 @@ The following 6 pairs of parts of speech are connected with `goeswith`: <tt><a h
 7	domas	doma	NOUN	ncfsg4	Case=Gen|Gender=Fem|Number=Sing	4	obl	4:obl:gen	LvtbNodeId=a-d60-p5s4w6
 8	kādas	kāda	DET	pi0fsgn	Case=Gen|Gender=Fem|Number=Sing|PronType=Ind	7	det	7:det	LvtbNodeId=a-d60-p5s4w7|SpaceAfter=No
 9	.	.	PUNCT	zs	_	4	punct	4:punct	LvtbNodeId=a-d60-p5s4w8
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 goeswith	color:blue
+1	Līdz	līdzko	SCONJ	cs	Typo=Yes	7	mark	7:mark	CorrectForm=Līdzko|CorrectionType=Spacing,Spelling|CorrectSpaceAfter=No|LvtbNodeId=a-p267-p2s7w1
+2	ko	_	X	_	_	1	goeswith	1:goeswith	LvtbNodeId=a-p267-p2s7w1
+3	apdzīvojamā	apdzīvot	VERB	vmnpdfsnppypn	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	4	amod	4:amod	LvtbNodeId=a-p267-p2s7w2
+4	teritorija	teritorija	NOUN	ncfsn4	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	7:nsubj	LvtbNodeId=a-p267-p2s7w3
+5	vairs	vairs	ADV	r0t	_	7	advmod	7:advmod	LvtbNodeId=a-p267-p2s7w4
+6	nebūs	būt	AUX	vcnifii30ay	Evident=Fh|Mood=Ind|Person=3|Polarity=Neg|Tense=Fut|VerbForm=Fin|Voice=Act	7	cop	7:cop	LvtbNodeId=a-p267-p2s7w5
+7	apbūvējama	apbūvēt	VERB	vmnpdfsnppnpn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	10	advcl	10:advcl	LvtbNodeId=a-p267-p2s7w6|SpaceAfter=No
+8	,	,	PUNCT	zc	_	7	punct	7:punct	LvtbNodeId=a-p267-p2s7w7
+9	tajā	tā	PRON	pd3fsln	Case=Loc|Gender=Fem|Number=Sing|Person=3|PronType=Dem	10	obl	10:obl:loc	LvtbNodeId=a-p267-p2s7w8
+10	iestāsies	iestāties	VERB	vmyifi130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Reflex=Yes|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-p267-p2s7w9
+11	stagnācija	stagnācija	NOUN	ncfsn4	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	10:nsubj	LvtbNodeId=a-p267-p2s7w10|SpaceAfter=No
+12	.	.	PUNCT	zs	_	10	punct	10:punct	LvtbNodeId=a-p267-p2s7w11
 
 ~~~
 
@@ -70,46 +92,6 @@ The following 6 pairs of parts of speech are connected with `goeswith`: <tt><a h
 27	nagu	nags	NOUN	ncmpg1	Case=Gen|Gender=Masc|Number=Plur	28	nmod	28:nmod:gen	LvtbNodeId=a-c60-p8s1w25
 28	graušana	graušana	NOUN	ncfsn4	Case=Nom|Gender=Fem|Number=Sing	23	nmod	23:nmod:kā	LvtbNodeId=a-c60-p8s1w26|SpaceAfter=No
 29	.	.	PUNCT	zs	_	9	punct	9:punct	LvtbNodeId=a-c60-p8s1w27
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 goeswith	color:blue
-1	Tāpat	tāpat	ADV	r0m	_	3	advmod	3:advmod	LvtbNodeId=a-p14292-p2s2w1
-2	komanda	komanda	NOUN	ncfsn4	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	3:nsubj	LvtbNodeId=a-p14292-p2s2w2
-3	neaizvadīs	aizvadīt	VERB	vmnift330ay	Evident=Fh|Mood=Ind|Person=3|Polarity=Neg|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-p14292-p2s2w3
-4	ne	neviens	DET	pi0msay	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind,Neg|Typo=Yes	6	det	6:det	CorrectForm=nevienu|CorrectionType=Spacing,Spelling|CorrectSpaceAfter=No|LvtbNodeId=a-p14292-p2s2w4
-5	vienu	_	X	_	_	4	goeswith	4:goeswith	LvtbNodeId=a-p14292-p2s2w4
-6	treniņu	treniņš	NOUN	ncmsa1	Case=Acc|Gender=Masc|Number=Sing	3	obj	3:obj	LvtbNodeId=a-p14292-p2s2w5
-7	Latvijā	Latvija	PROPN	npfsl4	Case=Loc|Gender=Fem|Number=Sing	6	nmod	6:nmod:loc	LvtbNodeId=a-p14292-p2s2w6
-8	-	-	PUNCT	zd	_	11	punct	11:punct	LvtbNodeId=a-p14292-p2s2w7
-9	21.	21.	ADJ	xo	NumType=Ord	10	amod	10:amod	LvtbNodeId=a-p14292-p2s2w8|SpaceAfter=No
-10	martā	marts	NOUN	ncmsl1	Case=Loc|Gender=Masc|Number=Sing	11	obl	11:obl:loc	LvtbNodeId=a-p14292-p2s2w9
-11	dosies	doties	VERB	vmyifii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Reflex=Yes|Tense=Fut|VerbForm=Fin|Voice=Act	3	conj	3:conj	LvtbNodeId=a-p14292-p2s2w10
-12	uz	uz	ADP	spsa	_	13	case	13:case	LvtbNodeId=a-p14292-p2s2w11
-13	Slovākiju	Slovākija	PROPN	npfsa4	Case=Acc|Gender=Fem|Number=Sing	11	obl	11:obl:uz	LvtbNodeId=a-p14292-p2s2w12|SpaceAfter=No
-14	,	,	PUNCT	zc	_	16	punct	16:punct	LvtbNodeId=a-p14292-p2s2w13
-15	kur	kur	ADV	r0p	PronType=Int	16	advmod	16:advmod	LvtbNodeId=a-p14292-p2s2w14
-16	gatavosies	gatavoties	VERB	vmyifi230an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Reflex=Yes|Tense=Fut|VerbForm=Fin|Voice=Act	13	advcl	13:advcl	LvtbNodeId=a-p14292-p2s2w15
-17	Senecas	Seneca	PROPN	npfsg4	Case=Gen|Gender=Fem|Number=Sing	18	nmod	18:nmod:gen	LvtbNodeId=a-p14292-p2s2w16
-18	pilsētā	pilsēta	NOUN	ncfsl4	Case=Loc|Gender=Fem|Number=Sing	16	obl	16:obl:loc	LvtbNodeId=a-p14292-p2s2w17|SpaceAfter=No
-19	,	,	PUNCT	zc	_	27	punct	27:punct	LvtbNodeId=a-p14292-p2s2w18
-20	bet	bet	CCONJ	cc	_	27	cc	27:cc	LvtbNodeId=a-p14292-p2s2w19
-21	dienu	diena	NOUN	ncfsa4	Case=Acc|Gender=Fem|Number=Sing	27	obl	27:obl:acc	LvtbNodeId=a-p14292-p2s2w20
-22	pirms	pirms	ADP	spsg	_	26	case	26:case	LvtbNodeId=a-p14292-p2s2w21
-23	25.	25.	ADJ	xo	NumType=Ord	24	amod	24:amod	LvtbNodeId=a-p14292-p2s2w22|SpaceAfter=No
-24	martā	marts	NOUN	ncmsl1	Case=Loc|Gender=Masc|Number=Sing	25	obl	25:obl:loc	LvtbNodeId=a-p14292-p2s2w23
-25	gaidāmās	gaidīt	VERB	vmnpdfsgppypn	Case=Gen|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	26	amod	26:amod	LvtbNodeId=a-p14292-p2s2w24
-26	spēles	spēle	NOUN	ncfsg5	Case=Gen|Gender=Fem|Number=Sing	21	nmod	21:nmod:pirms	LvtbNodeId=a-p14292-p2s2w25
-27	pārbrauks	pārbraukt	VERB	vmnifi130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	11	conj	11:conj	LvtbNodeId=a-p14292-p2s2w26
-28	uz	uz	ADP	spsa	_	29	case	29:case	LvtbNodeId=a-p14292-p2s2w27
-29	Čehiju	Čehija	PROPN	npfsa4	Case=Acc|Gender=Fem|Number=Sing	27	obl	27:obl:uz	LvtbNodeId=a-p14292-p2s2w28|SpaceAfter=No
-30	.	.	PUNCT	zs	_	3	punct	3:punct	LvtbNodeId=a-p14292-p2s2w29
 
 ~~~
 

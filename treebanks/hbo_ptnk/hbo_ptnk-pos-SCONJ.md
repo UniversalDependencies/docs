@@ -6,59 +6,59 @@ udver: '2'
 
 ## Treebank Statistics: UD_Ancient_Hebrew-PTNK: POS Tags: `SCONJ`
 
-There are 13 `SCONJ` lemmas (1%), 57 `SCONJ` types (1%) and 1039 `SCONJ` tokens (3%).
+There are 13 `SCONJ` lemmas (1%), 62 `SCONJ` types (1%) and 1039 `SCONJ` tokens (3%).
 Out of 15 observed tags, the rank of `SCONJ` is: 9 in number of lemmas, 10 in number of types and 9 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>אשׁר, כי, אם, לאמר, ה, פן, עד, לו, בלת, לולא</em>
 
-The 10 most frequent `SCONJ` types:  <em>_, אֲשֶׁר, אֲשֶׁ֥ר, כִּֽי, אֲשֶׁ֣ר, כִּ֥י, אִם, כִּ֣י, כִּי, אֲשֶׁ֨ר</em>
+The 10 most frequent `SCONJ` types:  <em>אֲשֶׁר, אֲשֶׁ֥ר, כִּֽי, אֲשֶׁ֣ר, כִּ֥י, ה, אִם, אשׁר, כִּ֣י, כִּי</em>
 
 The 10 most frequent ambiguous lemmas: <em>אשׁר</em> (<tt><a href="hbo_ptnk-pos-SCONJ.html">SCONJ</a></tt> 453, <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 1), <em>אם</em> (<tt><a href="hbo_ptnk-pos-SCONJ.html">SCONJ</a></tt> 84, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 28), <em>ה</em> (<tt><a href="hbo_ptnk-pos-DET.html">DET</a></tt> 1868, <tt><a href="hbo_ptnk-pos-PART.html">PART</a></tt> 65, <tt><a href="hbo_ptnk-pos-SCONJ.html">SCONJ</a></tt> 63), <em>עד</em> (<tt><a href="hbo_ptnk-pos-ADP.html">ADP</a></tt> 69, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="hbo_ptnk-pos-SCONJ.html">SCONJ</a></tt> 7), <em>בלת</em> (<tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="hbo_ptnk-pos-SCONJ.html">SCONJ</a></tt> 3), <em>למען</em> (<tt><a href="hbo_ptnk-pos-ADP.html">ADP</a></tt> 5, <tt><a href="hbo_ptnk-pos-SCONJ.html">SCONJ</a></tt> 2), <em>כמו</em> (<tt><a href="hbo_ptnk-pos-ADP.html">ADP</a></tt> 4, <tt><a href="hbo_ptnk-pos-SCONJ.html">SCONJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>_</em> (<tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 4566, <tt><a href="hbo_ptnk-pos-CCONJ.html">CCONJ</a></tt> 4386, <tt><a href="hbo_ptnk-pos-PRON.html">PRON</a></tt> 3825, <tt><a href="hbo_ptnk-pos-ADP.html">ADP</a></tt> 3766, <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 3080, <tt><a href="hbo_ptnk-pos-DET.html">DET</a></tt> 1868, <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 507, <tt><a href="hbo_ptnk-pos-AUX.html">AUX</a></tt> 224, <tt><a href="hbo_ptnk-pos-ADV.html">ADV</a></tt> 207, <tt><a href="hbo_ptnk-pos-NUM.html">NUM</a></tt> 183, <tt><a href="hbo_ptnk-pos-SCONJ.html">SCONJ</a></tt> 151, <tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 144, <tt><a href="hbo_ptnk-pos-INTJ.html">INTJ</a></tt> 81, <tt><a href="hbo_ptnk-pos-PART.html">PART</a></tt> 73), <em>עַ֥ד</em> (<tt><a href="hbo_ptnk-pos-ADP.html">ADP</a></tt> 3, <tt><a href="hbo_ptnk-pos-SCONJ.html">SCONJ</a></tt> 3), <em>בִּלְתִּ֥י</em> (<tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="hbo_ptnk-pos-SCONJ.html">SCONJ</a></tt> 1), <em>עַ֚ד</em> (<tt><a href="hbo_ptnk-pos-ADP.html">ADP</a></tt> 5, <tt><a href="hbo_ptnk-pos-SCONJ.html">SCONJ</a></tt> 1), <em>עַ֛ד</em> (<tt><a href="hbo_ptnk-pos-ADP.html">ADP</a></tt> 1, <tt><a href="hbo_ptnk-pos-SCONJ.html">SCONJ</a></tt> 1), <em>עַ֣ד</em> (<tt><a href="hbo_ptnk-pos-ADP.html">ADP</a></tt> 1, <tt><a href="hbo_ptnk-pos-SCONJ.html">SCONJ</a></tt> 1), <em>עַד</em> (<tt><a href="hbo_ptnk-pos-ADP.html">ADP</a></tt> 43, <tt><a href="hbo_ptnk-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>ה</em> (<tt><a href="hbo_ptnk-pos-DET.html">DET</a></tt> 1868, <tt><a href="hbo_ptnk-pos-PART.html">PART</a></tt> 65, <tt><a href="hbo_ptnk-pos-SCONJ.html">SCONJ</a></tt> 63), <em>אשׁר</em> (<tt><a href="hbo_ptnk-pos-SCONJ.html">SCONJ</a></tt> 59, <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 1), <em>אם</em> (<tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 25, <tt><a href="hbo_ptnk-pos-SCONJ.html">SCONJ</a></tt> 20), <em>עַ֥ד</em> (<tt><a href="hbo_ptnk-pos-ADP.html">ADP</a></tt> 3, <tt><a href="hbo_ptnk-pos-SCONJ.html">SCONJ</a></tt> 3), <em>בִּלְתִּ֥י</em> (<tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="hbo_ptnk-pos-SCONJ.html">SCONJ</a></tt> 1), <em>כמו</em> (<tt><a href="hbo_ptnk-pos-ADP.html">ADP</a></tt> 4, <tt><a href="hbo_ptnk-pos-SCONJ.html">SCONJ</a></tt> 1), <em>עַ֚ד</em> (<tt><a href="hbo_ptnk-pos-ADP.html">ADP</a></tt> 5, <tt><a href="hbo_ptnk-pos-SCONJ.html">SCONJ</a></tt> 1), <em>עַ֛ד</em> (<tt><a href="hbo_ptnk-pos-ADP.html">ADP</a></tt> 1, <tt><a href="hbo_ptnk-pos-SCONJ.html">SCONJ</a></tt> 1), <em>עַ֣ד</em> (<tt><a href="hbo_ptnk-pos-ADP.html">ADP</a></tt> 1, <tt><a href="hbo_ptnk-pos-SCONJ.html">SCONJ</a></tt> 1), <em>עַד</em> (<tt><a href="hbo_ptnk-pos-ADP.html">ADP</a></tt> 43, <tt><a href="hbo_ptnk-pos-SCONJ.html">SCONJ</a></tt> 1)
 
 
-* <em>_</em>
-  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 4566: <em>_ <b>_</b> בָּרָ֣א אֱלֹהִ֑ים אֵ֥ת _ <b>_</b> _ _ _ <b>_</b> ׃</em>
-  * <tt><a href="hbo_ptnk-pos-CCONJ.html">CCONJ</a></tt> 4386: <em>_ _ בָּרָ֣א אֱלֹהִ֑ים אֵ֥ת _ _ <b>_</b> _ _ _ ׃</em>
-  * <tt><a href="hbo_ptnk-pos-PRON.html">PRON</a></tt> 3825: <em>_ _ _ _ _ _ _ _ _ ־ _ <b>_</b> ׃</em>
-  * <tt><a href="hbo_ptnk-pos-ADP.html">ADP</a></tt> 3766: <em><b>_</b> _ בָּרָ֣א אֱלֹהִ֑ים אֵ֥ת _ _ _ <b>_</b> _ _ ׃</em>
-  * <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 3080: <em>_ <b>_</b> אֱלֹהִ֖ים יְהִ֣י אֹ֑ור _ _ ־ אֹֽור ׃</em>
-  * <tt><a href="hbo_ptnk-pos-DET.html">DET</a></tt> 1868: <em>_ _ בָּרָ֣א אֱלֹהִ֑ים אֵ֥ת <b>_</b> _ _ _ <b>_</b> _ ׃</em>
-  * <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 507: <em>_ _ יְהוָ֧ה אֱלֹהִ֛ים גַּן ־ _ <b>_</b> _ _ _ _ שָׁ֔ם אֶת ־ _ _ אֲשֶׁ֥ר יָצָֽר ׃</em>
-  * <tt><a href="hbo_ptnk-pos-AUX.html">AUX</a></tt> 224: <em>_ _ אֱלֹהִ֖ים יְהִ֣י אֹ֑ור _ <b>_</b> ־ אֹֽור ׃</em>
-  * <tt><a href="hbo_ptnk-pos-ADV.html">ADV</a></tt> 207: <em>_ _ יֹצֵ֣א _ _ _ _ אֶת ־ _ _ _ _ <b>_</b> יִפָּרֵ֔ד _ _ _ _ רָאשִֽׁים ׃</em>
-  * <tt><a href="hbo_ptnk-pos-NUM.html">NUM</a></tt> 183: <em>_ _ יֹצֵ֣א _ _ _ _ אֶת ־ _ _ _ _ _ יִפָּרֵ֔ד _ _ _ <b>_</b> רָאשִֽׁים ׃</em>
-  * <tt><a href="hbo_ptnk-pos-SCONJ.html">SCONJ</a></tt> 151: <em>_ _ ־ _ _ _ _ גִּיחֹ֑ון ה֣וּא <b>_</b> _ אֵ֖ת כָּל ־ אֶ֥רֶץ כּֽוּשׁ ׃</em>
-  * <tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 144: <em>_ _ _ _ _ טֹ֣וב _ <b>_</b> לֹ֥א תֹאכַ֖ל _ _ כִּ֗י _ _ _ _ _ _ מֹ֥ות תָּמֽוּת ׃</em>
-  * <tt><a href="hbo_ptnk-pos-INTJ.html">INTJ</a></tt> 81: <em>_ _ אַבְרָ֔ם הֵ֣ן _ _ לֹ֥א נָתַ֖תָּה זָ֑רַע _ <b>_</b> בֶן ־ _ _ יֹורֵ֥שׁ _ _ ׃</em>
-  * <tt><a href="hbo_ptnk-pos-PART.html">PART</a></tt> 73: <em>_ _ יְהוָ֥ה אֱלֹהִ֖ים אֶל ־ _ _ _ _ _ _ <b>_</b> _ ׃</em>
+* <em>ה</em>
+  * <tt><a href="hbo_ptnk-pos-DET.html">DET</a></tt> 1868: <em>ב ראשׁית בָּרָ֣א אֱלֹהִ֑ים אֵ֥ת <b>ה</b> שׁמים ו את <b>ה</b> ארץ ׃</em>
+  * <tt><a href="hbo_ptnk-pos-PART.html">PART</a></tt> 65: <em>ו שׁלח אֶת ־ ה יונה מן את הוא ל ראה <b>ה</b> קלל ה מים מן על פְּנֵ֥י ה אדמה ׃</em>
+  * <tt><a href="hbo_ptnk-pos-SCONJ.html">SCONJ</a></tt> 63: <em>ו שׁם ־ ה נהר ה שׁני גִּיחֹ֑ון ה֣וּא <b>ה</b> סבב אֵ֖ת כָּל ־ אֶ֥רֶץ כּֽוּשׁ ׃</em>
+* <em>אשׁר</em>
+  * <tt><a href="hbo_ptnk-pos-SCONJ.html">SCONJ</a></tt> 59: <em>ו עתה בן אני שְׁמַ֣ע ב קול אני ל <b>אשׁר</b> אֲנִ֖י מְצַוָּ֥ה את אתה ׃</em>
+  * <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 2: <em>מן <b>אשׁר</b> שְׁמֵנָ֣ה לחם הוא ו הוא יִתֵּ֖ן מַֽעֲדַנֵּי ־ מֶֽלֶךְ ׃ ס</em>
+  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 1: <em>ו אמר לֵאָ֔ה ב <b>אשׁר</b> אני כִּ֥י אשׁר אני בָּנֹ֑ות ו קרא אֶת ־ שׁם הוא אָשֵֽׁר ׃</em>
+  * <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 1: <em>ו אמר לֵאָ֔ה ב אשׁר אני כִּ֥י <b>אשׁר</b> אני בָּנֹ֑ות ו קרא אֶת ־ שׁם הוא אָשֵֽׁר ׃</em>
+* <em>אם</em>
+  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 25: <em>ו רוץ ה נערה ו נגד ל בית <b>אם</b> היא כ ה דבר ה אלה ׃</em>
+  * <tt><a href="hbo_ptnk-pos-SCONJ.html">SCONJ</a></tt> 20: <em>ו <b>אם</b> ־ לֹ֧א תִשְׁמְע֛וּ אל אנחנו ל מול ו לקח אֶת ־ בת אנחנו ו הלך ׃</em>
 * <em>עַ֥ד</em>
-  * <tt><a href="hbo_ptnk-pos-ADP.html">ADP</a></tt> 3: <em>_ _ ׀ _ _ _ _ _ _ _ _ _ _ _ _ אַל ־ תִּוָּדְעִ֣י _ _ _ <b>עַ֥ד</b> _ _ _ _ _ _ _ ׃</em>
-  * <tt><a href="hbo_ptnk-pos-SCONJ.html">SCONJ</a></tt> 3: <em>_ _ _ _ _ _ _ גַּ֤ם _ _ _ אֶשְׁאָ֔ב <b>עַ֥ד</b> אִם ־ כִּלּ֖וּ _ _ ׃</em>
+  * <tt><a href="hbo_ptnk-pos-ADP.html">ADP</a></tt> 3: <em>ו רחץ ׀ ו סוך ו שׂים שׂמלה את על את ו ירד ה גרן אַל ־ תִּוָּדְעִ֣י ל ה אישׁ <b>עַ֥ד</b> כלה הוא ל אכל ו ל שׁתה ׃</em>
+  * <tt><a href="hbo_ptnk-pos-SCONJ.html">SCONJ</a></tt> 3: <em>ו גדל ה אישׁ ו הלך הָלֹוךְ֙ ו גדל <b>עַ֥ד</b> כִּֽי ־ גָדַ֖ל מְאֹֽד ׃</em>
 * <em>בִּלְתִּ֥י</em>
-  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 1: <em>_ _ אֲבִימֶ֔לֶךְ לֹ֣א יָדַ֔עְתִּי מִ֥י עָשָׂ֖ה אֶת ־ _ _ _ _ _ _ ־ אַתָּ֞ה לֹא ־ הִגַּ֣דְתָּ _ _ _ _ אָנֹכִ֛י לֹ֥א שָׁמַ֖עְתִּי <b>בִּלְתִּ֥י</b> _ _ ׃</em>
-  * <tt><a href="hbo_ptnk-pos-SCONJ.html">SCONJ</a></tt> 1: <em>_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ לֹֽא ־ נְכַחֵ֣ד _ _ _ כִּ֚י אִם ־ תַּ֣ם _ _ _ _ _ _ אֶל ־ _ _ לֹ֤א נִשְׁאַר֙ _ _ _ _ <b>בִּלְתִּ֥י</b> אִם ־ _ _ _ _ _ ׃</em>
+  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 1: <em>ו אמר אֲבִימֶ֔לֶךְ לֹ֣א יָדַ֔עְתִּי מִ֥י עָשָׂ֖ה אֶת ־ ה דבר ה זה ו גם ־ אַתָּ֞ה לֹא ־ הִגַּ֣דְתָּ ל אני ו גם אָנֹכִ֛י לֹ֥א שָׁמַ֖עְתִּי <b>בִּלְתִּ֥י</b> ה יום ׃</em>
+  * <tt><a href="hbo_ptnk-pos-SCONJ.html">SCONJ</a></tt> 1: <em>ו תמם ה שׁנה ה היא ו בוא אל הוא ב ה שׁנה ה שׁני ו אמר ל הוא לֹֽא ־ נְכַחֵ֣ד מן אדון אני כִּ֚י אִם ־ תַּ֣ם ה כסף ו מקנה ה בהמה אֶל ־ אדון אני לֹ֤א נִשְׁאַר֙ ל פנה אדון אני <b>בִּלְתִּ֥י</b> אִם ־ גויה אנחנו ו אדמה אנחנו ׃</em>
+* <em>כמו</em>
+  * <tt><a href="hbo_ptnk-pos-ADP.html">ADP</a></tt> 4: <em>אַךְ ־ ב זאת נֵאֹ֣ות ל אתם אִ֚ם תִּהְי֣וּ <b>כמו</b> אנחנו ל מול ל אתם כָּל ־ זָכָֽר ׃</em>
+  * <tt><a href="hbo_ptnk-pos-SCONJ.html">SCONJ</a></tt> 1: <em>ו <b>כמו</b> ה שׁחר עָלָ֔ה ו אוץ ה מלאך ב לוט לֵאמֹ֑ר קוּם֩ קַ֨ח אֶֽת ־ אשׁה אתה ו את ־ שְׁתֵּ֤י בת אתה ה מצא פֶּן ־ תִּסָּפֶ֖ה ב עון ה עיר ׃</em>
 * <em>עַ֚ד</em>
-  * <tt><a href="hbo_ptnk-pos-ADP.html">ADP</a></tt> 5: <em>_ _ אַבְרָם֙ _ _ _ <b>עַ֚ד</b> מְקֹ֣ום שְׁכֶ֔ם עַ֖ד אֵלֹ֣ון מֹורֶ֑ה _ _ _ אָ֥ז _ _ _ ׃</em>
-  * <tt><a href="hbo_ptnk-pos-SCONJ.html">SCONJ</a></tt> 1: <em>לֹֽא ־ יָס֥וּר שֵׁ֨בֶט֙ _ _ _ _ _ _ _ _ <b>עַ֚ד</b> כִּֽי ־ יָבֹ֣א שִׁילֹ֔ו _ _ _ יִקְּהַ֥ת עַמִּֽים ׃ אֹסְרִ֤י _ _ _ _ _ _ _ _ _ בְּנִ֣י _ _ כִּבֵּ֤ס _ _ _ _ _ _ _ _ ־ עֲנָבִ֖ים _ _ ׃</em>
+  * <tt><a href="hbo_ptnk-pos-ADP.html">ADP</a></tt> 5: <em>ו עבר אַבְרָם֙ ב ה ארץ <b>עַ֚ד</b> מְקֹ֣ום שְׁכֶ֔ם עַ֖ד אֵלֹ֣ון מֹורֶ֑ה ו ה כנעני אָ֥ז ב ה ארץ ׃</em>
+  * <tt><a href="hbo_ptnk-pos-SCONJ.html">SCONJ</a></tt> 1: <em>לֹֽא ־ יָס֥וּר שֵׁ֨בֶט֙ מן יהודה ו חקק מן בין רגל הוא <b>עַ֚ד</b> כִּֽי ־ יָבֹ֣א שִׁילֹ֔ו ו ל הוא יִקְּהַ֥ת עַמִּֽים ׃ אֹסְרִ֤י ל ה גפן עיר הוא ו ל ה שׂרקה בְּנִ֣י אתון הוא כִּבֵּ֤ס ב ה יין לבושׁ הוא ו ב דם ־ עֲנָבִ֖ים סות הוא ׃</em>
 * <em>עַ֛ד</em>
-  * <tt><a href="hbo_ptnk-pos-ADP.html">ADP</a></tt> 1: <em>יַעֲבָר ־ נָ֥א _ _ _ _ _ _ _ _ אֶתְנָהֲלָ֣ה _ _ _ _ _ _ _ אֲשֶׁר ־ _ _ _ _ _ _ _ _ <b>עַ֛ד</b> אֲשֶׁר ־ אָבֹ֥א אֶל ־ _ _ שֵׂעִֽירָה ׃</em>
-  * <tt><a href="hbo_ptnk-pos-SCONJ.html">SCONJ</a></tt> 1: <em>_ _ יֹוסֵ֥ף בָּ֛ר _ _ _ _ הַרְבֵּ֣ה מְאֹ֑ד <b>עַ֛ד</b> כִּי ־ חָדַ֥ל _ _ כִּי ־ אֵ֥ין מִסְפָּֽר ׃</em>
+  * <tt><a href="hbo_ptnk-pos-ADP.html">ADP</a></tt> 1: <em>יַעֲבָר ־ נָ֥א אדון אני ל פנה עבד הוא ו אני אֶתְנָהֲלָ֣ה ל אט אני ל רגל ה מלאכה אֲשֶׁר ־ ל פנה אני ו ל רגל ה ילד <b>עַ֛ד</b> אֲשֶׁר ־ אָבֹ֥א אֶל ־ אדון אני שֵׂעִֽירָה ׃</em>
+  * <tt><a href="hbo_ptnk-pos-SCONJ.html">SCONJ</a></tt> 1: <em>ו צבר יֹוסֵ֥ף בָּ֛ר כ חול ה ים הַרְבֵּ֣ה מְאֹ֑ד <b>עַ֛ד</b> כִּי ־ חָדַ֥ל ל ספר כִּי ־ אֵ֥ין מִסְפָּֽר ׃</em>
 * <em>עַ֣ד</em>
-  * <tt><a href="hbo_ptnk-pos-ADP.html">ADP</a></tt> 1: <em>_ _ לֹ֣א נוּכַל֒ <b>עַ֣ד</b> אֲשֶׁ֤ר יֵאָֽסְפוּ֙ כָּל ־ _ _ _ _ אֶת ־ _ _ _ _ פִּ֣י _ _ _ _ _ _ ׃</em>
-  * <tt><a href="hbo_ptnk-pos-SCONJ.html">SCONJ</a></tt> 1: <em>_ _ ר֣וּת _ _ גַּ֣ם ׀ כִּי ־ אָמַ֣ר _ _ עִם ־ _ _ אֲשֶׁר ־ _ _ תִּדְבָּקִ֔ין <b>עַ֣ד</b> אִם ־ כִּלּ֔וּ אֵ֥ת כָּל ־ _ _ אֲשֶׁר ־ _ _ ׃</em>
+  * <tt><a href="hbo_ptnk-pos-ADP.html">ADP</a></tt> 1: <em>ו אמר לֹ֣א נוּכַל֒ <b>עַ֣ד</b> אֲשֶׁ֤ר יֵאָֽסְפוּ֙ כָּל ־ ה עדר ו גלל אֶת ־ ה אבן מן על פִּ֣י ה באר ו שׁקה ה צאן ׃</em>
+  * <tt><a href="hbo_ptnk-pos-SCONJ.html">SCONJ</a></tt> 1: <em>ו אמר ר֣וּת ה מואבי גַּ֣ם ׀ כִּי ־ אָמַ֣ר אל אני עִם ־ ה נער אֲשֶׁר ־ ל אני תִּדְבָּקִ֔ין <b>עַ֣ד</b> אִם ־ כִּלּ֔וּ אֵ֥ת כָּל ־ ה קציר אֲשֶׁר ־ ל אני ׃</em>
 * <em>עַד</em>
-  * <tt><a href="hbo_ptnk-pos-ADP.html">ADP</a></tt> 43: <em>_ _ אֶת ־ _ _ _ _ יָצֹוא֙ _ _ <b>עַד</b> ־ יְבֹ֥שֶׁת _ _ _ _ _ _ ׃</em>
-  * <tt><a href="hbo_ptnk-pos-SCONJ.html">SCONJ</a></tt> 1: <em>_ _ יְהוּדָה֩ _ _ _ _ שְׁבִ֧י אַלְמָנָ֣ה בֵית ־ _ _ <b>עַד</b> ־ יִגְדַּל֙ שֵׁלָ֣ה _ _ כִּ֣י אָמַ֔ר פֶּן ־ יָמ֥וּת גַּם ־ ה֖וּא _ _ _ _ _ תָּמָ֔ר _ _ בֵּ֥ית _ _ ׃</em>
+  * <tt><a href="hbo_ptnk-pos-ADP.html">ADP</a></tt> 43: <em>ו נוח בגד הוא אצל היא <b>עַד</b> ־ בֹּ֥וא אדון הוא אֶל ־ בית הוא ׃</em>
+  * <tt><a href="hbo_ptnk-pos-SCONJ.html">SCONJ</a></tt> 1: <em>ו אמר יְהוּדָה֩ ל תמר כלה הוא שְׁבִ֧י אַלְמָנָ֣ה בֵית ־ אב את <b>עַד</b> ־ יִגְדַּל֙ שֵׁלָ֣ה בן אני כִּ֣י אָמַ֔ר פֶּן ־ יָמ֥וּת גַּם ־ ה֖וּא כ אח הוא ו הלך תָּמָ֔ר ו ישׁב בֵּ֥ית אב היא ׃</em>
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 4.384615 (the average of all parts of speech is 2.503125).
+The form / lemma ratio of `SCONJ` is 4.769231 (the average of all parts of speech is 3.177604).
 
-The 1st highest number of forms (14) was observed with the lemma “אשׁר”: <em>_, אֲ֠שֶׁר, אֲֽשֶׁר, אֲשֶֽׁר, אֲשֶׁ֖ר, אֲשֶׁ֛ר, אֲשֶׁ֣ר, אֲשֶׁ֤ר, אֲשֶׁ֥ר, אֲשֶׁ֧ר, אֲשֶׁ֨ר, אֲשֶׁר, אֲשֶׁר֙, אֲשֶׁר֩</em>.
+The 1st highest number of forms (14) was observed with the lemma “אשׁר”: <em>אֲ֠שֶׁר, אֲֽשֶׁר, אֲשֶֽׁר, אֲשֶׁ֖ר, אֲשֶׁ֛ר, אֲשֶׁ֣ר, אֲשֶׁ֤ר, אֲשֶׁ֥ר, אֲשֶׁ֧ר, אֲשֶׁ֨ר, אֲשֶׁר, אֲשֶׁר֙, אֲשֶׁר֩, אשׁר</em>.
 
-The 2nd highest number of forms (14) was observed with the lemma “כי”: <em>_, כִּ֖י, כִּ֗י, כִּ֚י, כִּ֛י, כִּ֠י, כִּ֡י, כִּ֣י, כִּ֤י, כִּ֥י, כִּ֧י, כִּֽי, כִּי, כִּי֩</em>.
+The 2nd highest number of forms (14) was observed with the lemma “כי”: <em>כִּ֖י, כִּ֗י, כִּ֚י, כִּ֛י, כִּ֠י, כִּ֡י, כִּ֣י, כִּ֤י, כִּ֥י, כִּ֧י, כִּֽי, כִּי, כִּי֩, כי</em>.
 
 The 3rd highest number of forms (11) was observed with the lemma “לאמר”: <em>לֵֽאמֹר֙, לֵאמֹ֑ר, לֵאמֹ֔ר, לֵאמֹ֖ר, לֵאמֹ֗ר, לֵאמֹ֛ר, לֵאמֹ֥ר, לֵאמֹֽר, לֵאמֹור֒, לֵאמֹר֒, לֵאמֹר֙</em>.
 

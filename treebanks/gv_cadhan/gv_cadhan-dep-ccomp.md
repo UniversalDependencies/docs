@@ -41,21 +41,19 @@ The following 7 pairs of parts of speech are connected with `ccomp`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 7 ccomp	color:blue
-1	Ren	jean	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
-2	Mwarree	mwarree	PROPN	_	_	1	nsubj	_	_
-3	briaght	briaght	NOUN	_	_	1	xcomp	_	_
-4	jeh	jeh	ADP	_	_	5	case	_	_
-5	ee	ee	PRON	_	Gender=Fem|Number=Sing|Person=3	3	obl	_	_
-6	hene	hene	PRON	_	Reflex=Yes	5	nmod	_	_
-7	row	bee	VERB	_	Mood=Ind|Tense=Past	3	ccomp	_	_
-8	shoh	shoh	PRON	_	PronType=Dem	7	nsubj	_	_
-9	firrinagh	firrinagh	ADJ	_	_	7	xcomp:pred	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	1	punct	_	_
+# visual-style 3 5 ccomp	color:blue
+1	Vel	bee	VERB	_	Form=Ecl|Mood=Ind|Tense=Pres	0	root	_	_
+2	oo	oo	PRON	_	Number=Sing|Person=2	1	nsubj	_	_
+3	sheiltyn	sheiltyn	NOUN	_	_	1	xcomp	_	_
+4	dy	dy	PART	_	PartType=Cmpl	5	mark	_	_
+5	vel	bee	VERB	_	Form=Ecl|Mood=Ind|Tense=Pres	3	ccomp	_	_
+6	shen	shen	PRON	_	PronType=Dem	5	nsubj	_	_
+7	creeney	creeney	ADJ	_	_	5	xcomp:pred	_	SpaceAfter=No
+8	?	?	PUNCT	_	_	1	punct	_	_
 
 ~~~
 

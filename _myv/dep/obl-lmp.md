@@ -21,4 +21,4 @@ obl:lmp(were_lying-3, next_to-5)
 ~~~
 
 
-<!-- Interlanguage links updated So kvě 14 19:04:05 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:40 CET 2022 -->

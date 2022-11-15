@@ -58,7 +58,7 @@ The 10 most frequent ambiguous types:  <em>da</em> (<tt><a href="tr_penn-pos-CCO
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.250000 (the average of all parts of speech is 2.011905).
+The form / lemma ratio of `CCONJ` is 1.250000 (the average of all parts of speech is 2.011961).
 
 The 1st highest number of forms (4) was observed with the lemma “ve”: <em>,, eğer, ve, vesaire</em>.
 

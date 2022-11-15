@@ -31,4 +31,4 @@ These verbs can be passivized, then the direct object becomes the subject.
 #### Examples
 
 * _<b>խմել</b> գինի_ “to <b>drink</b> wine”
-<!-- Interlanguage links updated So kvě 14 19:02:40 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:58 CET 2022 -->

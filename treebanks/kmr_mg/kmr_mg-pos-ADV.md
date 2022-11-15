@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Kurmanji-MG: POS Tags: `ADV`
 
-There are 81 `ADV` lemmas (4%), 83 `ADV` types (3%) and 248 `ADV` tokens (2%).
+There are 81 `ADV` lemmas (4%), 84 `ADV` types (3%) and 249 `ADV` tokens (2%).
 Out of 17 observed tags, the rank of `ADV` is: 6 in number of lemmas, 6 in number of types and 10 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: <em>ne, niha, gelek, herî, tenê, berê, pêk, îro, her, hêj</em>
@@ -54,30 +54,30 @@ The 10 most frequent ambiguous types:  <em>ne</em> (<tt><a href="kmr_mg-pos-ADV.
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.024691 (the average of all parts of speech is 1.508997).
+The form / lemma ratio of `ADV` is 1.037037 (the average of all parts of speech is 1.511556).
 
-The 1st highest number of forms (2) was observed with the lemma “niha”: <em>Niha, niho</em>.
+The 1st highest number of forms (2) was observed with the lemma “herçî”: <em>Herçî, Heçî</em>.
 
-The 2nd highest number of forms (2) was observed with the lemma “çawa”: <em>çawa, çawan</em>.
+The 2nd highest number of forms (2) was observed with the lemma “niha”: <em>Niha, niho</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “Bêşik”: <em>Bêşik</em>.
+The 3rd highest number of forms (2) was observed with the lemma “çawa”: <em>çawa, çawan</em>.
 
 `ADV` occurs with 2 features: <tt><a href="kmr_mg-feat-Polarity.html">Polarity</a></tt> (45; 18% instances), <tt><a href="kmr_mg-feat-PronType.html">PronType</a></tt> (2; 1% instances)
 
 `ADV` occurs with 3 feature-value pairs: `Polarity=Neg`, `PronType=Int`, `PronType=Rel`
 
 `ADV` occurs with 4 feature combinations.
-The most frequent feature combination is `_` (201 tokens).
+The most frequent feature combination is `_` (202 tokens).
 Examples: <em>gelek, herî, niho, tenê, berê, pêk, îro, her, hêj, piştre</em>
 
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 10 different relations: <tt><a href="kmr_mg-dep-advmod.html">advmod</a></tt> (216; 87% instances), <tt><a href="kmr_mg-dep-compound-lvc.html">compound:lvc</a></tt> (10; 4% instances), <tt><a href="kmr_mg-dep-fixed.html">fixed</a></tt> (8; 3% instances), <tt><a href="kmr_mg-dep-advmod-neg.html">advmod:neg</a></tt> (5; 2% instances), <tt><a href="kmr_mg-dep-conj.html">conj</a></tt> (2; 1% instances), <tt><a href="kmr_mg-dep-mark.html">mark</a></tt> (2; 1% instances), <tt><a href="kmr_mg-dep-root.html">root</a></tt> (2; 1% instances), <tt><a href="kmr_mg-dep-compound-redup.html">compound:redup</a></tt> (1; 0% instances), <tt><a href="kmr_mg-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="kmr_mg-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
+`ADV` nodes are attached to their parents using 10 different relations: <tt><a href="kmr_mg-dep-advmod.html">advmod</a></tt> (217; 87% instances), <tt><a href="kmr_mg-dep-compound-lvc.html">compound:lvc</a></tt> (10; 4% instances), <tt><a href="kmr_mg-dep-fixed.html">fixed</a></tt> (8; 3% instances), <tt><a href="kmr_mg-dep-advmod-neg.html">advmod:neg</a></tt> (5; 2% instances), <tt><a href="kmr_mg-dep-conj.html">conj</a></tt> (2; 1% instances), <tt><a href="kmr_mg-dep-mark.html">mark</a></tt> (2; 1% instances), <tt><a href="kmr_mg-dep-root.html">root</a></tt> (2; 1% instances), <tt><a href="kmr_mg-dep-compound-redup.html">compound:redup</a></tt> (1; 0% instances), <tt><a href="kmr_mg-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="kmr_mg-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
-Parents of `ADV` nodes belong to 10 different parts of speech: <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt> (157; 63% instances), <tt><a href="kmr_mg-pos-ADJ.html">ADJ</a></tt> (37; 15% instances), <tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt> (16; 6% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (15; 6% instances), <tt><a href="kmr_mg-pos-ADP.html">ADP</a></tt> (8; 3% instances), <tt><a href="kmr_mg-pos-ADV.html">ADV</a></tt> (8; 3% instances), <tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt> (3; 1% instances),  (2; 1% instances), <tt><a href="kmr_mg-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
+Parents of `ADV` nodes belong to 10 different parts of speech: <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt> (164; 66% instances), <tt><a href="kmr_mg-pos-ADJ.html">ADJ</a></tt> (37; 15% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (15; 6% instances), <tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt> (10; 4% instances), <tt><a href="kmr_mg-pos-ADP.html">ADP</a></tt> (8; 3% instances), <tt><a href="kmr_mg-pos-ADV.html">ADV</a></tt> (8; 3% instances), <tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt> (3; 1% instances),  (2; 1% instances), <tt><a href="kmr_mg-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
 
-217 (88%) `ADV` nodes are leaves.
+218 (88%) `ADV` nodes are leaves.
 
 26 (10%) `ADV` nodes have one child.
 
@@ -89,5 +89,5 @@ The highest child degree of a `ADV` node is 7.
 
 Children of `ADV` nodes are attached using 11 different relations: <tt><a href="kmr_mg-dep-advmod.html">advmod</a></tt> (8; 18% instances), <tt><a href="kmr_mg-dep-fixed.html">fixed</a></tt> (6; 13% instances), <tt><a href="kmr_mg-dep-punct.html">punct</a></tt> (6; 13% instances), <tt><a href="kmr_mg-dep-case.html">case</a></tt> (5; 11% instances), <tt><a href="kmr_mg-dep-dep.html">dep</a></tt> (5; 11% instances), <tt><a href="kmr_mg-dep-cc.html">cc</a></tt> (4; 9% instances), <tt><a href="kmr_mg-dep-conj.html">conj</a></tt> (3; 7% instances), <tt><a href="kmr_mg-dep-cop.html">cop</a></tt> (3; 7% instances), <tt><a href="kmr_mg-dep-nsubj.html">nsubj</a></tt> (3; 7% instances), <tt><a href="kmr_mg-dep-compound-redup.html">compound:redup</a></tt> (1; 2% instances), <tt><a href="kmr_mg-dep-nmod.html">nmod</a></tt> (1; 2% instances)
 
-Children of `ADV` nodes belong to 12 different parts of speech: <tt><a href="kmr_mg-pos-ADP.html">ADP</a></tt> (10; 22% instances), <tt><a href="kmr_mg-pos-ADV.html">ADV</a></tt> (8; 18% instances), <tt><a href="kmr_mg-pos-PUNCT.html">PUNCT</a></tt> (6; 13% instances), <tt><a href="kmr_mg-pos-X.html">X</a></tt> (5; 11% instances), <tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt> (4; 9% instances), <tt><a href="kmr_mg-pos-CCONJ.html">CCONJ</a></tt> (4; 9% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt> (2; 4% instances), <tt><a href="kmr_mg-pos-PART.html">PART</a></tt> (1; 2% instances), <tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="kmr_mg-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt> (1; 2% instances)
+Children of `ADV` nodes belong to 12 different parts of speech: <tt><a href="kmr_mg-pos-ADP.html">ADP</a></tt> (10; 22% instances), <tt><a href="kmr_mg-pos-ADV.html">ADV</a></tt> (8; 18% instances), <tt><a href="kmr_mg-pos-PUNCT.html">PUNCT</a></tt> (6; 13% instances), <tt><a href="kmr_mg-pos-X.html">X</a></tt> (5; 11% instances), <tt><a href="kmr_mg-pos-CCONJ.html">CCONJ</a></tt> (4; 9% instances), <tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt> (3; 7% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt> (2; 4% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="kmr_mg-pos-PART.html">PART</a></tt> (1; 2% instances), <tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="kmr_mg-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances)
 

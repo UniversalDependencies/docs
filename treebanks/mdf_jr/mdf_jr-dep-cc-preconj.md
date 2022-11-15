@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="mdf_jr-dep-cc.html">cc</a></tt>.
 
-4 nodes (0%) are attached to their parents as `cc:preconj`.
+5 nodes (0%) are attached to their parents as `cc:preconj`.
 
-4 instances of `cc:preconj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.5.
+5 instances of `cc:preconj` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.6.
 
-The following 2 pairs of parts of speech are connected with `cc:preconj`: <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> (3; 75% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (1; 25% instances).
+The following 3 pairs of parts of speech are connected with `cc:preconj`: <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> (3; 60% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (1; 20% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (1; 20% instances).
 
 
 ~~~ conllu
@@ -51,6 +51,28 @@ The following 2 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 8	сизефтезе	сизефтемс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Past|Valency=2	0	root	_	GTtags=TV,Ind,Prt1,ScSg3,OcSg3
 9	Малининонь	Малинин	NOUN	N	Case=Gen|Definite=Ind|NameType=Sur|Number=Plur,Sing	8	obj	_	GTtags=Prop,Sem/Sur-Mal,SP,Gen,Indef|SpaceAfter=No
 10	.	.	PUNCT	CLB	_	8	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 5 cc:preconj	color:blue
+1	Ня	ня	DET	Det	Number=Plur|PronType=Dem	3	det	_	CGdephead=#1-&gt;0|CGdeprel=@X|GTtags=Dem,Pl
+2	колма	колма	NUM	Num	Case=Nom|Definite=Ind|Number=Sing|NumType=Card	3	nummod	_	CGdephead=#2-&gt;3|CGdeprel=@&gt;N|GTtags=Card,Sg,Nom,Indef
+3	стирнятне	стирня	NOUN	N	Case=Nom|Definite=Def|Number=Plur	4	nsubj	_	CGdephead=#3-&gt;4|CGdeprel=@SUBJ&gt;|GTtags=Pl,Nom,Def
+4	кельгсазь	кельгомс	VERB	V	Mood=Ind|Number[obj]=Plur|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Pres|Valency=2	0	root	_	CGdephead=#4-&gt;0|CGdeprel=@FMV|GTtags=TV,Ind,Prs,ScPl3,OcPl3
+5	аф	аф	AUX	V	Polarity=Neg|VerbType=Aux	7	cc:preconj	_	CGdephead=#5-&gt;5|CGdeprel=@-F&lt;AUXV|GTtags=Aux,Neg
+6	аньцек	аньцек	ADV	Adv	_	5	fixed	_	CGdephead=#6-&gt;5|CGdeprel=@&lt;ADVL|GTtags=
+7	покодемаснон	покодемс	VERB	V	Case=Gen|Number=Plur,Sing|Number[psor]=Plur|Person[psor]=3|Valency=1|VerbForm=Vnoun	4	obj	_	CGdephead=#7-&gt;5|CGdeprel=@IMV|GTtags=IV,NomAct,SP,Gen,PxPl3|SpaceAfter=No
+8	,	,	PUNCT	CLB	_	11	punct	_	CGdephead=#8-&gt;9|CGdeprel=@CLB|GTtags=CLB
+9	но	но	CCONJ	CC	_	11	cc	_	CGdephead=#9-&gt;9|CGdeprel=@CC|GTtags=
+10	и	и	CCONJ	CC	_	9	fixed	_	CGdephead=#10-&gt;10|CGdeprel=@CC|GTtags=
+11	морамаснон	морамс	VERB	V	Case=Gen|Number=Plur,Sing|Number[psor]=Plur|Person[psor]=3|Valency=1|VerbForm=Vnoun	7	conj	_	CGdephead=#11-&gt;7|CGdeprel=@IMV|GTtags=IV,NomAct,SP,Gen,PxPl3|SpaceAfter=No
+12	.	.	PUNCT	CLB	_	4	punct	_	_
 
 ~~~
 

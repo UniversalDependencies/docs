@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1206 nodes (1%) are attached to their parents as `amod`.
+1212 nodes (1%) are attached to their parents as `amod`.
 
-710 instances of `amod` (59%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.95771144278607.
+714 instances of `amod` (59%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.9496699669967.
 
-The following 8 pairs of parts of speech are connected with `amod`: <tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt> (970; 80% instances), <tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt> (96; 8% instances), <tt><a href="grc_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt> (94; 8% instances), <tt><a href="grc_perseus-pos-DET.html">DET</a></tt>-<tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt> (25; 2% instances), <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt> (18; 1% instances), <tt><a href="grc_perseus-pos-ADV.html">ADV</a></tt>-<tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="grc_perseus-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt>-<tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `amod`: <tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt> (976; 81% instances), <tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt> (96; 8% instances), <tt><a href="grc_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt> (94; 8% instances), <tt><a href="grc_perseus-pos-DET.html">DET</a></tt>-<tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt> (25; 2% instances), <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt> (18; 1% instances), <tt><a href="grc_perseus-pos-ADV.html">ADV</a></tt>-<tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="grc_perseus-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt>-<tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

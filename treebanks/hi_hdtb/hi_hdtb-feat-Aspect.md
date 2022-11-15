@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Imp`, `Perf`.
 
-26246 tokens (7%) have a non-empty value of `Aspect`.
-997 types (5%) occur at least once with a non-empty value of `Aspect`.
-421 lemmas (3%) occur at least once with a non-empty value of `Aspect`.
-The feature is used with 6 part-of-speech tags: <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (16736; 5% instances), <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (9502; 3% instances), <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-pos-X.html">X</a></tt> (1; 0% instances).
+26245 tokens (7%) have a non-empty value of `Aspect`.
+996 types (5%) occur at least once with a non-empty value of `Aspect`.
+417 lemmas (3%) occur at least once with a non-empty value of `Aspect`.
+The feature is used with 6 part-of-speech tags: <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (18742; 5% instances), <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (7495; 2% instances), <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-16736 <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> tokens (50% of all `VERB` tokens) have a non-empty value of `Aspect`.
+18742 <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> tokens (52% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="hi_hdtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (16736; 100%), <tt><a href="hi_hdtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (16696; 100%), <tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14364; 86%), <tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (12060; 72%), <tt><a href="hi_hdtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (11850; 71%), <tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (10024; 60%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="hi_hdtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (18742; 100%), <tt><a href="hi_hdtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (18702; 100%), <tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (16113; 86%), <tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (13397; 71%), <tt><a href="hi_hdtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (11850; 63%), <tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (11813; 63%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
-* `Imp` (2404; 14% of non-empty `Aspect`): करते, देते, चाहते, देखते, होता, होती, चाहती, बताते, होते, करता
-* `Perf` (14332; 86% of non-empty `Aspect`): कहा, किया, की, बताया, हुई, दिया, किए, दी, हुआ, हुए
-* `EMPTY` (17017): कर, करने, हो, है, होने, देने, लेकर, कहना, करना, दे
+* `Imp` (2466; 13% of non-empty `Aspect`): करते, देते, चाहते, देखते, होता, होती, चाहती, बताते, होते, करता
+* `Perf` (16276; 87% of non-empty `Aspect`): कहा, किया, की, दिया, बताया, दी, हुई, किए, लिया, हुआ
+* `EMPTY` (17217): कर, करने, हो, है, होने, देने, लेकर, कहना, करना, दे
 
 <table>
   <tr><th>Paradigm <i>कर</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>
@@ -90,15 +90,15 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 ### `AUX`
 
-9502 <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> tokens (37% of all `AUX` tokens) have a non-empty value of `Aspect`.
+7495 <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> tokens (32% of all `AUX` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="hi_hdtb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (9502; 100%), <tt><a href="hi_hdtb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (9502; 100%), <tt><a href="hi_hdtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (9502; 100%), <tt><a href="hi_hdtb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (9502; 100%), <tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8370; 88%), <tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7750; 82%), <tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (6754; 71%).
+The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="hi_hdtb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (7495; 100%), <tt><a href="hi_hdtb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (7495; 100%), <tt><a href="hi_hdtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (7495; 100%), <tt><a href="hi_hdtb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (7495; 100%), <tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6581; 88%), <tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6000; 80%), <tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (5416; 72%).
 
 `AUX` tokens may have the following values of `Aspect`:
 
-* `Imp` (1147; 12% of non-empty `Aspect`): सकता, जाता, सकते, सकती, जाती, जाते, रहती, देते, पड़ता, रहता
-* `Perf` (8355; 88% of non-empty `Aspect`): गया, गई, गए, हुए, दिया, रहे, रही, रहा, दी, लिया
-* `EMPTY` (16528): है, हैं, था, थी, जा, थे, जाने, चाहिए, जाएगा, जाएगी
+* `Imp` (1085; 14% of non-empty `Aspect`): सकता, जाता, सकते, सकती, जाती, जाते, रहती, पड़ता, रहता, पाता
+* `Perf` (6410; 86% of non-empty `Aspect`): गया, गई, गए, हुए, रहे, रही, रहा, पड़ा, हुआ, हुई
+* `EMPTY` (16261): है, हैं, था, थी, जा, थे, जाने, चाहिए, जाएगा, जाएगी
 
 <table>
   <tr><th>Paradigm <i>जा</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>
@@ -129,7 +129,7 @@ The most frequent other feature values with which `ADP` and `Aspect` co-occurred
 `ADP` tokens may have the following values of `Aspect`:
 
 * `Perf` (4; 100% of non-empty `Aspect`): लिए
-* `EMPTY` (74141): के, में, की, को, ने, से, का, पर, लिए, तक
+* `EMPTY` (73211): के, में, की, को, ने, से, का, पर, लिए, तक
 
 ### `NOUN`
 
@@ -151,7 +151,7 @@ The most frequent other feature values with which `PROPN` and `Aspect` co-occurr
 `PROPN` tokens may have the following values of `Aspect`:
 
 * `Imp` (1; 100% of non-empty `Aspect`): चाहता
-* `EMPTY` (42940): सिंह, भारत, प्रधानमंत्री, कांग्रेस, पाकिस्तान, दिल्ली, मंत्री, भाजपा, सरकार, कश्मीर
+* `EMPTY` (42939): सिंह, भारत, प्रधानमंत्री, कांग्रेस, पाकिस्तान, दिल्ली, मंत्री, भाजपा, सरकार, कश्मीर
 
 ### `X`
 
@@ -162,5 +162,5 @@ The most frequent other feature values with which `X` and `Aspect` co-occurred: 
 `X` tokens may have the following values of `Aspect`:
 
 * `Perf` (1; 100% of non-empty `Aspect`): बुझे
-* `EMPTY` (147): पास, रिकॉर्ड, डाउनलोड, फिट, फेल, बुक, अलग, आउट, आफ, इंटरसेप्ट
+* `EMPTY` (139): पास, रिकॉर्ड, डाउनलोड, फिट, फेल, बुक, अलग, आउट, आफ, इंटरसेप्ट
 

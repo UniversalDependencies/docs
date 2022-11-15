@@ -60,7 +60,7 @@ The 10 most frequent ambiguous types:  <em>de</em> (<tt><a href="tr_penn-pos-CCO
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.139535 (the average of all parts of speech is 2.011905).
+The form / lemma ratio of `X` is 1.139535 (the average of all parts of speech is 2.011961).
 
 The 1st highest number of forms (25) was observed with the lemma “_”: <em>'daki, 'de, 'e, 'nin, 'ye, 'yu, 'ın, .'e, .'un, 3.4, arası, da, dan, de, den, dışı, ki, nun, nın, s, sonu, sunu, un, çok, çoğu</em>.
 

@@ -659,4 +659,4 @@ The temporal case is used to indicate time.
 * Avery D. Andrews: The major functions of the noun phrase. In: Timothy Shopen (ed.) (2007): Language Typology and Syntactic Description, Volume I: Clause Structure. Second Edition. Cambridge University Press. ISBN 978-0-521-58156-1.
 * Iraide Ibarretxe-Antuñano (2004): “Polysemy in Basque locational cases”. Belgian Journal of Linguistics 18: 271–298.
 
-<!-- Interlanguage links updated So kvě 14 19:02:05 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:41 CET 2022 -->

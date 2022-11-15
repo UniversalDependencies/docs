@@ -73,19 +73,21 @@ The 3rd highest number of forms (1) was observed with the lemma “baik”: <em>
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 6 different relations: <tt><a href="id_gsd-dep-aux.html">aux</a></tt> (1182; 52% instances), <tt><a href="id_gsd-dep-cop.html">cop</a></tt> (1057; 47% instances), <tt><a href="id_gsd-dep-advmod.html">advmod</a></tt> (11; 0% instances), <tt><a href="id_gsd-dep-cc.html">cc</a></tt> (3; 0% instances), <tt><a href="id_gsd-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="id_gsd-dep-root.html">root</a></tt> (1; 0% instances)
+`AUX` nodes are attached to their parents using 6 different relations: <tt><a href="id_gsd-dep-aux.html">aux</a></tt> (1182; 52% instances), <tt><a href="id_gsd-dep-cop.html">cop</a></tt> (1055; 47% instances), <tt><a href="id_gsd-dep-advmod.html">advmod</a></tt> (11; 0% instances), <tt><a href="id_gsd-dep-cc.html">cc</a></tt> (3; 0% instances), <tt><a href="id_gsd-dep-root.html">root</a></tt> (3; 0% instances), <tt><a href="id_gsd-dep-dep.html">dep</a></tt> (1; 0% instances)
 
-Parents of `AUX` nodes belong to 9 different parts of speech: <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (1212; 54% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (838; 37% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (140; 6% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (41; 2% instances), <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> (15; 1% instances), <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances),  (1; 0% instances), <tt><a href="id_gsd-pos-SYM.html">SYM</a></tt> (1; 0% instances)
+Parents of `AUX` nodes belong to 9 different parts of speech: <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (1210; 54% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (838; 37% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (140; 6% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (41; 2% instances), <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> (15; 1% instances), <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (6; 0% instances),  (3; 0% instances), <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 
-2216 (98%) `AUX` nodes are leaves.
+2214 (98%) `AUX` nodes are leaves.
 
 31 (1%) `AUX` nodes have one child.
 
-8 (0%) `AUX` nodes have two children.
+9 (0%) `AUX` nodes have two children.
 
-The highest child degree of a `AUX` node is 2.
+1 (0%) `AUX` nodes have three or more children.
 
-Children of `AUX` nodes are attached using 6 different relations: <tt><a href="id_gsd-dep-punct.html">punct</a></tt> (25; 53% instances), <tt><a href="id_gsd-dep-fixed.html">fixed</a></tt> (14; 30% instances), <tt><a href="id_gsd-dep-advmod.html">advmod</a></tt> (5; 11% instances), <tt><a href="id_gsd-dep-advcl.html">advcl</a></tt> (1; 2% instances), <tt><a href="id_gsd-dep-conj.html">conj</a></tt> (1; 2% instances), <tt><a href="id_gsd-dep-nsubj.html">nsubj</a></tt> (1; 2% instances)
+The highest child degree of a `AUX` node is 3.
 
-Children of `AUX` nodes belong to 5 different parts of speech: <tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> (25; 53% instances), <tt><a href="id_gsd-pos-CCONJ.html">CCONJ</a></tt> (14; 30% instances), <tt><a href="id_gsd-pos-PART.html">PART</a></tt> (5; 11% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (1; 2% instances)
+Children of `AUX` nodes are attached using 6 different relations: <tt><a href="id_gsd-dep-punct.html">punct</a></tt> (26; 50% instances), <tt><a href="id_gsd-dep-fixed.html">fixed</a></tt> (14; 27% instances), <tt><a href="id_gsd-dep-advmod.html">advmod</a></tt> (5; 10% instances), <tt><a href="id_gsd-dep-advcl.html">advcl</a></tt> (3; 6% instances), <tt><a href="id_gsd-dep-nsubj.html">nsubj</a></tt> (3; 6% instances), <tt><a href="id_gsd-dep-conj.html">conj</a></tt> (1; 2% instances)
+
+Children of `AUX` nodes belong to 6 different parts of speech: <tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> (26; 50% instances), <tt><a href="id_gsd-pos-CCONJ.html">CCONJ</a></tt> (14; 27% instances), <tt><a href="id_gsd-pos-PART.html">PART</a></tt> (5; 10% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (4; 8% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (1; 2% instances)
 

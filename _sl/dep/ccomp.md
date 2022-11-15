@@ -22,3 +22,4 @@ ccomp(opozarjajo,jemljejo)
 ~~~
 
 In predicative constructions with the copula **_biti_** '_to be_', such as in the sentence _Pomembno je, da ostanemo mirni_ 'It is important that we stay calm.', the Slovenian treebanks currently analyse such clauses as clausal subjects ([csubj]()) rather than clausal complements (`ccomp`).
+<!-- Interlanguage links updated Po lis 14 15:35:14 CET 2022 -->

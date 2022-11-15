@@ -16,4 +16,4 @@ obj:lvc(avoir,lieu)
 See more examples in [UD_French-GSD](http://match.grew.fr/?corpus=UD_French-GSD@2.7&relation=obj:lvc) or in [UD_French-Spoken](http://match.grew.fr/?corpus=UD_French-Spoken@2.7&relation=obj:lvc).
 
 
-<!-- Interlanguage links updated So kvě 14 19:04:00 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:37 CET 2022 -->

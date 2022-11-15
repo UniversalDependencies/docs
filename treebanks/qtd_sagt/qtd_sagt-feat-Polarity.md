@@ -58,7 +58,7 @@ The most frequent other feature values with which `DET` and `Polarity` co-occurr
 `DET` tokens may have the following values of `Polarity`:
 
 * `Neg` (39; 100% of non-empty `Polarity`): <em>keine, kein, keinen</em>
-* `EMPTY` (1699): <em>bir, dem, die, der, ein, das, o, eine, den, her</em>
+* `EMPTY` (1698): <em>bir, dem, die, der, ein, das, o, eine, den, her</em>
 
 ### `PRON`
 
@@ -69,7 +69,7 @@ The most frequent other feature values with which `PRON` and `Polarity` co-occur
 `PRON` tokens may have the following values of `Polarity`:
 
 * `Neg` (13; 100% of non-empty `Polarity`): <em>kein, keine, keiner, keinen, keines, keins</em>
-* `EMPTY` (4141): <em>ich, das, es, du, die, ben, o, wir, ondan, man</em>
+* `EMPTY` (4142): <em>ich, das, es, du, die, ben, o, wir, ondan, man</em>
 
 ## Relations with Agreement in `Polarity`
 

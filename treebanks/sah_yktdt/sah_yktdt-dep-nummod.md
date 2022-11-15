@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-8 nodes (2%) are attached to their parents as `nummod`.
+44 nodes (3%) are attached to their parents as `nummod`.
 
-8 instances of `nummod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.375.
+39 instances of `nummod` (89%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.13636363636364.
 
-The following 1 pairs of parts of speech are connected with `nummod`: <tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sah_yktdt-pos-NUM.html">NUM</a></tt> (8; 100% instances).
+The following 2 pairs of parts of speech are connected with `nummod`: <tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sah_yktdt-pos-NUM.html">NUM</a></tt> (41; 93% instances), <tt><a href="sah_yktdt-pos-NUM.html">NUM</a></tt>-<tt><a href="sah_yktdt-pos-NUM.html">NUM</a></tt> (3; 7% instances).
 
 
 ~~~ conllu
@@ -26,7 +26,22 @@ The following 1 pairs of parts of speech are connected with `nummod`: <tt><a hre
 2	паартаҕа	паарта	NOUN	n	Case=Dat|Number=Sing	5	obl	_	_
 3	икки	икки	NUM	num	NumType=Card	4	nummod	_	_
 4	киһи	киһи	NOUN	n	Case=Nom|Number=Sing	5	nsubj	_	_
-5	олорор	олор	VERB	v	Person=3|Tense=Pres	0	root	_	_
+5	олорор	олор	VERB	vi	Number=Sing|Person=3|Tense=Pres	0	root	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 nummod	color:blue
+1	Сылга	сыл	NOUN	n	Case=Dat|Number=Sing	4	obl	_	year
+2	уон	уон	NUM	num	NumType=Card	3	nummod	_	ten
+3	икки	икки	NUM	num	NumType=Card	4	nummod	_	two
+4	ый	ый	NOUN	n	Case=Nom|Number=Sing	0	root	_	month
+5	баар	баар	AUX	aux	_	4	aux	_	_
 
 ~~~
 

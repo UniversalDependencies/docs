@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-74 nodes (0%) are attached to their parents as `goeswith`.
+88 nodes (0%) are attached to their parents as `goeswith`.
 
-74 instances of `goeswith` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.04054054054054.
+88 instances of `goeswith` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.05681818181818.
 
-The following 9 pairs of parts of speech are connected with `goeswith`: <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (26; 35% instances), <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (18; 24% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (9; 12% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (8; 11% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (6; 8% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (3; 4% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (2; 3% instances), <tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-DET.html">DET</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (1; 1% instances).
+The following 9 pairs of parts of speech are connected with `goeswith`: <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (32; 36% instances), <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (19; 22% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (9; 10% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (9; 10% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (8; 9% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (6; 7% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (3; 3% instances), <tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-DET.html">DET</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 9 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 goeswith	color:blue
-1	SnoopDogg	SnoopDogg	PROPN	S	Case=Nom|Number=Sing	6	parataxis	6:parataxis	SpaceAfter=No
+1	SnoopDogg	SnoopDogg	PROPN	S	Case=Nom|Number=Sing	6	parataxis	6:parataxis	NE=B-Per|SpaceAfter=No
 2	:	:	PUNCT	Z	_	1	punct	1:punct	_
 3	10	10	NUM	N	NumForm=Digit|NumType=Card	4	nummod	4:nummod	_
 4	k	k	NOUN	Y	Abbr=Yes|Case=Com|Number=Sing|Typo=Yes	6	obl	6:obl	CorrectForm=k-ga
@@ -66,7 +66,7 @@ The following 9 pairs of parts of speech are connected with `goeswith`: <tt><a h
 5	nüüd	nüüd	ADV	D	_	8	advmod	8:advmod	_
 6	ju	ju	ADV	D	_	8	advmod	8:advmod	_
 7	ka	ka	ADV	D	_	8	advmod	8:advmod	_
-8	Laitses	Laitse	PROPN	S	Case=Ine|Number=Sing	0	root	0:root	SpaceAfter=No
+8	Laitses	Laitse	PROPN	S	Case=Ine|Number=Sing	0	root	0:root	NE=B-Loc|SpaceAfter=No
 9	,	,	PUNCT	Z	_	13	punct	13:punct	_
 10	kui	kui	SCONJ	J	_	13	mark	13:mark	_
 11	ma	mina	PRON	P	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	13:nsubj	_

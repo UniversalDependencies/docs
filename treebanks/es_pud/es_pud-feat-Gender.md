@@ -11,7 +11,7 @@ It occurs with 2 different values: `Fem`, `Masc`.
 
 11672 tokens (50%) have a non-empty value of `Gender`.
 4259 types (72%) occur at least once with a non-empty value of `Gender`.
-2703 lemmas (76%) occur at least once with a non-empty value of `Gender`.
+2706 lemmas (76%) occur at least once with a non-empty value of `Gender`.
 The feature is used with 8 part-of-speech tags: <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (4721; 20% instances), <tt><a href="es_pud-pos-DET.html">DET</a></tt> (3309; 14% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (1452; 6% instances), <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> (707; 3% instances), <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (644; 3% instances), <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> (430; 2% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (389; 2% instances), <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> (20; 0% instances).
 
 ### `NOUN`
@@ -26,7 +26,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 * `Masc` (2721; 58% of non-empty `Gender`): <em>años, año, lugar, gobierno, estado, millones, día, embargo, mar, mundo</em>
 * `EMPTY` (97): <em>internet, arte, Bank, GCA, Ground, News, North, Street, estudiantes, inmigrantes</em>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 100% lemmas (1464) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 100% lemmas (1466) occur only with one value of `Gender`.
 
 ### `DET`
 
@@ -58,7 +58,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 * `Masc` (825; 57% of non-empty `Gender`): <em>gran, primer, últimos, nuevos, Unidos, grandes, mayor, nacional, Unido, mismo</em>
 * `EMPTY` (28): <em>Gran, American, Associated, Golden, Metropolitan, Shaky, Stranger, Talking, Wild, austro</em>
 
-`Gender` seems to be **lexical feature** of `ADJ`. 98% lemmas (363) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `ADJ`. 98% lemmas (364) occur only with one value of `Gender`.
 
 ### `PROPN`
 
@@ -109,11 +109,11 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 * `EMPTY` (5): <em>Cuatro, Dos, Five, Nine</em>
 
 <table>
-  <tr><th>Paradigm <i>10</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>10</em></td><td><em>10</em></td></tr>
+  <tr><th>Paradigm <i>dos</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>dos</em></td><td><em>dos</em></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NUM`. 100% lemmas (209) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NUM`. 99% lemmas (208) occur only with one value of `Gender`.
 
 ### `VERB`
 

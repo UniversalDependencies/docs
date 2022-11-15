@@ -26,7 +26,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 * `Imp` (38; 38% of non-empty `Aspect`): <em>ерээ, ерээд, байгааш, гүйгээб, хэлээгүй, ажаһуугаад, багтаагүй, байгаад, бодхоогоод, бүтээгээд</em>
 * `Perf` (32; 32% of non-empty `Aspect`): <em>абаба, хэлэбэ, оробо, хүртэбэ, асарба, баалаба, бая-суулба, болобо, гараба, дэлгэбэ</em>
 * `Prog` (9; 9% of non-empty `Aspect`): <em>байнабди, гэлдэнэбди, дурданабди, мэдэрнэбди, хаанабши, харанабши, хатарнабди, хэнэбди</em>
-* `EMPTY` (1397): <em>гэжэ, бии, байгаа, гээшэ, ажаһуудаг, эхилээ, байна, хэжэ, ябаа, ябаха</em>
+* `EMPTY` (1430): <em>гэжэ, бии, байгаа, бэлэй, гээшэ, ажаһуудаг, эхилээ, ябаа, байна, хэжэ</em>
 
 <table>
   <tr><th>Paradigm <i>хэ</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th><th><tt>Prog</tt></th></tr>
@@ -37,16 +37,16 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 ### `AUX`
 
-20 <tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> tokens (7% of all `AUX` tokens) have a non-empty value of `Aspect`.
+20 <tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> tokens (10% of all `AUX` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="bxr_bdt-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (20; 100%), <tt><a href="bxr_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (20; 100%), <tt><a href="bxr_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (20; 100%), <tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (17; 85%).
+The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="bxr_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (20; 100%), <tt><a href="bxr_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (20; 100%), <tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (17; 85%).
 
 `AUX` tokens may have the following values of `Aspect`:
 
 * `Imp` (11; 55% of non-empty `Aspect`): <em>байгааб, байгаагүйб, байгаад, байгааш, болоогүй</em>
 * `Perf` (6; 30% of non-empty `Aspect`): <em>байба, болобо</em>
 * `Prog` (3; 15% of non-empty `Aspect`): <em>байнабди, байнабта</em>
-* `EMPTY` (276): <em>юм, байгаа, байна, байһан, болоно, бай, болоо, бэлэй, гээшэб, байдаг</em>
+* `EMPTY` (173): <em>байгаа, байна, байһан, болоно, бай, болоо, байдаг, болонхой, шадаа, шадаха</em>
 
 <table>
   <tr><th>Paradigm <i>бай</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th><th><tt>Prog</tt></th></tr>

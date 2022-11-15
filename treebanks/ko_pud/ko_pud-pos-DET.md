@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Korean-PUD: POS Tags: `DET`
 
-There are 3 `DET` lemmas (0%), 55 `DET` types (1%) and 465 `DET` tokens (3%).
-Out of 13 observed tags, the rank of `DET` is: 9 in number of lemmas, 9 in number of types and 9 in number of tokens.
+There are 3 `DET` lemmas (0%), 54 `DET` types (1%) and 464 `DET` tokens (3%).
+Out of 13 observed tags, the rank of `DET` is: 9 in number of lemmas, 10 in number of types and 10 in number of tokens.
 
 The 10 most frequent `DET` lemmas: _, 있는가, 총
 
 The 10 most frequent `DET` types:  그, 이, 두, 한, 다른, 여러, 모든, 만, 몇, 세
 
-The 10 most frequent ambiguous lemmas: _ (<tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 4325, <tt><a href="ko_pud-pos-VERB.html">VERB</a></tt> 1625, <tt><a href="ko_pud-pos-PROPN.html">PROPN</a></tt> 1035, <tt><a href="ko_pud-pos-ADJ.html">ADJ</a></tt> 609, <tt><a href="ko_pud-pos-ADV.html">ADV</a></tt> 517, <tt><a href="ko_pud-pos-DET.html">DET</a></tt> 463, <tt><a href="ko_pud-pos-AUX.html">AUX</a></tt> 458, <tt><a href="ko_pud-pos-CCONJ.html">CCONJ</a></tt> 125, <tt><a href="ko_pud-pos-NUM.html">NUM</a></tt> 27, <tt><a href="ko_pud-pos-PRON.html">PRON</a></tt> 24, <tt><a href="ko_pud-pos-X.html">X</a></tt> 3, <tt><a href="ko_pud-pos-PUNCT.html">PUNCT</a></tt> 1)
+The 10 most frequent ambiguous lemmas: _ (<tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 4295, <tt><a href="ko_pud-pos-VERB.html">VERB</a></tt> 1439, <tt><a href="ko_pud-pos-PROPN.html">PROPN</a></tt> 1030, <tt><a href="ko_pud-pos-AUX.html">AUX</a></tt> 663, <tt><a href="ko_pud-pos-ADJ.html">ADJ</a></tt> 596, <tt><a href="ko_pud-pos-ADV.html">ADV</a></tt> 516, <tt><a href="ko_pud-pos-DET.html">DET</a></tt> 462, <tt><a href="ko_pud-pos-CCONJ.html">CCONJ</a></tt> 125, <tt><a href="ko_pud-pos-X.html">X</a></tt> 47, <tt><a href="ko_pud-pos-NUM.html">NUM</a></tt> 27, <tt><a href="ko_pud-pos-PRON.html">PRON</a></tt> 24, <tt><a href="ko_pud-pos-PUNCT.html">PUNCT</a></tt> 1)
 
-The 10 most frequent ambiguous types:  그 (<tt><a href="ko_pud-pos-DET.html">DET</a></tt> 127, <tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 4), 이 (<tt><a href="ko_pud-pos-DET.html">DET</a></tt> 52, <tt><a href="ko_pud-pos-PART.html">PART</a></tt> 16, <tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="ko_pud-pos-PRON.html">PRON</a></tt> 1, <tt><a href="ko_pud-pos-PROPN.html">PROPN</a></tt> 1), 한 (<tt><a href="ko_pud-pos-DET.html">DET</a></tt> 35, <tt><a href="ko_pud-pos-VERB.html">VERB</a></tt> 11, <tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="ko_pud-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="ko_pud-pos-ADV.html">ADV</a></tt> 1), 다른 (<tt><a href="ko_pud-pos-DET.html">DET</a></tt> 20, <tt><a href="ko_pud-pos-ADJ.html">ADJ</a></tt> 6), 만 (<tt><a href="ko_pud-pos-DET.html">DET</a></tt> 12, <tt><a href="ko_pud-pos-PART.html">PART</a></tt> 5, <tt><a href="ko_pud-pos-NUM.html">NUM</a></tt> 1), 세 (<tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 12, <tt><a href="ko_pud-pos-DET.html">DET</a></tt> 11), 전 (<tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 11, <tt><a href="ko_pud-pos-DET.html">DET</a></tt> 9), 억 (<tt><a href="ko_pud-pos-DET.html">DET</a></tt> 6, <tt><a href="ko_pud-pos-NUM.html">NUM</a></tt> 1), 천 (<tt><a href="ko_pud-pos-DET.html">DET</a></tt> 3, <tt><a href="ko_pud-pos-NUM.html">NUM</a></tt> 1), 수 (<tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 121, <tt><a href="ko_pud-pos-DET.html">DET</a></tt> 2)
+The 10 most frequent ambiguous types:  그 (<tt><a href="ko_pud-pos-DET.html">DET</a></tt> 127, <tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 4), 이 (<tt><a href="ko_pud-pos-DET.html">DET</a></tt> 52, <tt><a href="ko_pud-pos-PART.html">PART</a></tt> 16, <tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="ko_pud-pos-PRON.html">PRON</a></tt> 1, <tt><a href="ko_pud-pos-PROPN.html">PROPN</a></tt> 1), 한 (<tt><a href="ko_pud-pos-DET.html">DET</a></tt> 35, <tt><a href="ko_pud-pos-VERB.html">VERB</a></tt> 10, <tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="ko_pud-pos-ADV.html">ADV</a></tt> 1, <tt><a href="ko_pud-pos-AUX.html">AUX</a></tt> 1, <tt><a href="ko_pud-pos-X.html">X</a></tt> 1), 다른 (<tt><a href="ko_pud-pos-DET.html">DET</a></tt> 20, <tt><a href="ko_pud-pos-ADJ.html">ADJ</a></tt> 6), 만 (<tt><a href="ko_pud-pos-DET.html">DET</a></tt> 12, <tt><a href="ko_pud-pos-PART.html">PART</a></tt> 5, <tt><a href="ko_pud-pos-NUM.html">NUM</a></tt> 1), 세 (<tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 12, <tt><a href="ko_pud-pos-DET.html">DET</a></tt> 11), 전 (<tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 11, <tt><a href="ko_pud-pos-DET.html">DET</a></tt> 9), 억 (<tt><a href="ko_pud-pos-DET.html">DET</a></tt> 6, <tt><a href="ko_pud-pos-NUM.html">NUM</a></tt> 1), 천 (<tt><a href="ko_pud-pos-DET.html">DET</a></tt> 3, <tt><a href="ko_pud-pos-NUM.html">NUM</a></tt> 1), 수 (<tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 121, <tt><a href="ko_pud-pos-DET.html">DET</a></tt> 2)
 
 
 * 그
@@ -29,10 +29,11 @@ The 10 most frequent ambiguous types:  그 (<tt><a href="ko_pud-pos-DET.html">DE
   * <tt><a href="ko_pud-pos-PROPN.html">PROPN</a></tt> 1: <b>이</b> 박사는 “ 아고라 ( Agora ) 는 초대를 받아야만 입장할 수 있었지만 이 시장의 대부분은 검색 방법만 알면 쉽게 접근할 수 있다 ” 라고 덧붙였다 .
 * 한
   * <tt><a href="ko_pud-pos-DET.html">DET</a></tt> 35: <b>한</b> 목격자의 경찰 진술에 따르면 피해자가 4 월에 용의자를 공격했었다고 한다 .
-  * <tt><a href="ko_pud-pos-VERB.html">VERB</a></tt> 11: 감독의 관점에서 볼 때 그 영화는 유쾌한 가족 극과 직설적 인 사회 극 사이에서 위태위태하게 줄다리기를 <b>한</b> 작품 이다 .
+  * <tt><a href="ko_pud-pos-VERB.html">VERB</a></tt> 10: 감독의 관점에서 볼 때 그 영화는 유쾌한 가족 극과 직설적 인 사회 극 사이에서 위태위태하게 줄다리기를 <b>한</b> 작품 이다 .
   * <tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 2: 예술가들이 사람들의 심금을 울리는 순간만 이 우리가 서로의 차이점을 제쳐 두고 <b>한</b> 자리 에 모여 있는 순간 이다.
-  * <tt><a href="ko_pud-pos-ADJ.html">ADJ</a></tt> 1: 나는 어쨌든 감옥에 가게 될 테 고 그만 <b>한</b> 가치가 있는 일 이기 를 바라요 .
   * <tt><a href="ko_pud-pos-ADV.html">ADV</a></tt> 1: 그는 " 이것으로 남성 호르몬 피임법을 위한 올바른 조합을 찾기 위한 긴 여정에 <b>한</b> 발 들여놓게 되었다 " 라고 덧붙였다 .
+  * <tt><a href="ko_pud-pos-AUX.html">AUX</a></tt> 1: 오늘 아침에 배포된 사진에 도 불구하고 B.C. 경찰은 애버츠포드 고등 학교 십 대 여학생을 칼로 찔러 죽게 <b>한</b> 혐의로 기소된 노숙자에 대해 알아낸 것보다 모르는 것이 더 많다고 말했다 .
+  * <tt><a href="ko_pud-pos-X.html">X</a></tt> 1: 나는 어쨌든 감옥에 가게 될 테 고 그만 <b>한</b> 가치가 있는 일 이기 를 바라요 .
 * 다른
   * <tt><a href="ko_pud-pos-DET.html">DET</a></tt> 20: 당연히 중국은 공격용 헬리콥터와 수상 비행기 등 <b>다른</b> 군사 무기도 이번 주에 대량 선보일 것 이다 .
   * <tt><a href="ko_pud-pos-ADJ.html">ADJ</a></tt> 6: 70 년대 디자인과 는 <b>다른</b> 솜털 무늬 ( 표면을 덮는 것이 포인트 ) 가 다시 비상하고 있다 .
@@ -58,30 +59,30 @@ The 10 most frequent ambiguous types:  그 (<tt><a href="ko_pud-pos-DET.html">DE
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 18.333333 (the average of all parts of speech is 3.165468).
+The form / lemma ratio of `DET` is 18.000000 (the average of all parts of speech is 3.187571).
 
-The 1st highest number of forms (53) was observed with the lemma “_”: 각, 구, 그, 그런, 네, 다른, 다섯, 단, 두, 만, 몇, 몇몇, 모든, 새, 서른, 성, 세, 수, 수백만, 수백억, 수십, 수십억, 수천, 십, 십억, 아닌가, 아무, 아홉, 약, 어느, 어떠한가, 어떤, 어떤가, 억, 여덟, 여러, 여섯, 열, 옛, 오랜, 온, 이, 이런, 일곱, 있겠는가, 있는가, 전, 천, 천만, 첫, 총, 한, 현.
+The 1st highest number of forms (52) was observed with the lemma “_”: 각, 구, 그, 그런, 네, 다른, 다섯, 단, 두, 만, 몇, 몇몇, 모든, 새, 서른, 성, 세, 수, 수백만, 수백억, 수십, 수십억, 수천, 십, 십억, 아닌가, 아무, 약, 어느, 어떠한가, 어떤, 어떤가, 억, 여덟, 여러, 여섯, 열, 옛, 오랜, 온, 이, 이런, 일곱, 있겠는가, 있는가, 전, 천, 천만, 첫, 총, 한, 현.
 
 The 2nd highest number of forms (1) was observed with the lemma “있는가”: 있는가를.
 
 The 3rd highest number of forms (1) was observed with the lemma “총”: 총으로.
 
-`DET` occurs with 4 features: <tt><a href="ko_pud-feat-PronType.html">PronType</a></tt> (7; 2% instances), <tt><a href="ko_pud-feat-VerbForm.html">VerbForm</a></tt> (7; 2% instances), <tt><a href="ko_pud-feat-Polite.html">Polite</a></tt> (2; 0% instances), <tt><a href="ko_pud-feat-Case.html">Case</a></tt> (1; 0% instances)
+`DET` occurs with 5 features: <tt><a href="ko_pud-feat-PronType.html">PronType</a></tt> (7; 2% instances), <tt><a href="ko_pud-feat-VerbForm.html">VerbForm</a></tt> (7; 2% instances), <tt><a href="ko_pud-feat-Polite.html">Polite</a></tt> (2; 0% instances), <tt><a href="ko_pud-feat-Case.html">Case</a></tt> (1; 0% instances), <tt><a href="ko_pud-feat-Typo.html">Typo</a></tt> (1; 0% instances)
 
-`DET` occurs with 4 feature-value pairs: `Case=Acc`, `Polite=Form`, `PronType=Int`, `VerbForm=Fin`
+`DET` occurs with 5 feature-value pairs: `Case=Acc`, `Polite=Form`, `PronType=Int`, `Typo=Yes`, `VerbForm=Fin`
 
-`DET` occurs with 4 feature combinations.
-The most frequent feature combination is `_` (457 tokens).
+`DET` occurs with 5 feature combinations.
+The most frequent feature combination is `_` (455 tokens).
 Examples: 그, 이, 두, 한, 다른, 여러, 모든, 만, 몇, 세
 
 
 ## Relations
 
-`DET` nodes are attached to their parents using 7 different relations: <tt><a href="ko_pud-dep-det.html">det</a></tt> (338; 73% instances), <tt><a href="ko_pud-dep-nummod.html">nummod</a></tt> (118; 25% instances), <tt><a href="ko_pud-dep-root.html">root</a></tt> (5; 1% instances), <tt><a href="ko_pud-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="ko_pud-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="ko_pud-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="ko_pud-dep-goeswith.html">goeswith</a></tt> (1; 0% instances)
+`DET` nodes are attached to their parents using 5 different relations: <tt><a href="ko_pud-dep-det.html">det</a></tt> (456; 98% instances), <tt><a href="ko_pud-dep-root.html">root</a></tt> (5; 1% instances), <tt><a href="ko_pud-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="ko_pud-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="ko_pud-dep-obl.html">obl</a></tt> (1; 0% instances)
 
-Parents of `DET` nodes belong to 8 different parts of speech: <tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> (445; 96% instances), <tt><a href="ko_pud-pos-PROPN.html">PROPN</a></tt> (6; 1% instances),  (5; 1% instances), <tt><a href="ko_pud-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="ko_pud-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="ko_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ko_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ko_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances)
+Parents of `DET` nodes belong to 8 different parts of speech: <tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> (445; 96% instances), <tt><a href="ko_pud-pos-PROPN.html">PROPN</a></tt> (6; 1% instances),  (5; 1% instances), <tt><a href="ko_pud-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="ko_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ko_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ko_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ko_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 
-431 (93%) `DET` nodes are leaves.
+430 (93%) `DET` nodes are leaves.
 
 26 (6%) `DET` nodes have one child.
 
@@ -93,5 +94,5 @@ The highest child degree of a `DET` node is 4.
 
 Children of `DET` nodes are attached using 8 different relations: <tt><a href="ko_pud-dep-nummod.html">nummod</a></tt> (25; 54% instances), <tt><a href="ko_pud-dep-nsubj.html">nsubj</a></tt> (7; 15% instances), <tt><a href="ko_pud-dep-punct.html">punct</a></tt> (5; 11% instances), <tt><a href="ko_pud-dep-advmod.html">advmod</a></tt> (4; 9% instances), <tt><a href="ko_pud-dep-advcl.html">advcl</a></tt> (2; 4% instances), <tt><a href="ko_pud-dep-compound-lvc.html">compound:lvc</a></tt> (1; 2% instances), <tt><a href="ko_pud-dep-det.html">det</a></tt> (1; 2% instances), <tt><a href="ko_pud-dep-goeswith.html">goeswith</a></tt> (1; 2% instances)
 
-Children of `DET` nodes belong to 7 different parts of speech: <tt><a href="ko_pud-pos-NUM.html">NUM</a></tt> (25; 54% instances), <tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> (7; 15% instances), <tt><a href="ko_pud-pos-PUNCT.html">PUNCT</a></tt> (5; 11% instances), <tt><a href="ko_pud-pos-ADJ.html">ADJ</a></tt> (3; 7% instances), <tt><a href="ko_pud-pos-ADV.html">ADV</a></tt> (3; 7% instances), <tt><a href="ko_pud-pos-DET.html">DET</a></tt> (2; 4% instances), <tt><a href="ko_pud-pos-PRON.html">PRON</a></tt> (1; 2% instances)
+Children of `DET` nodes belong to 8 different parts of speech: <tt><a href="ko_pud-pos-NUM.html">NUM</a></tt> (25; 54% instances), <tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> (7; 15% instances), <tt><a href="ko_pud-pos-PUNCT.html">PUNCT</a></tt> (5; 11% instances), <tt><a href="ko_pud-pos-ADJ.html">ADJ</a></tt> (3; 7% instances), <tt><a href="ko_pud-pos-ADV.html">ADV</a></tt> (3; 7% instances), <tt><a href="ko_pud-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="ko_pud-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="ko_pud-pos-X.html">X</a></tt> (1; 2% instances)
 

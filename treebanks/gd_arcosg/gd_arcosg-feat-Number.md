@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Dual`, `Plur`, `Sing`.
 
-29016 tokens (32%) have a non-empty value of `Number`.
+29017 tokens (32%) have a non-empty value of `Number`.
 4250 types (56%) occur at least once with a non-empty value of `Number`.
 2882 lemmas (51%) occur at least once with a non-empty value of `Number`.
-The feature is used with 4 part-of-speech tags: <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (13612; 15% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (7991; 9% instances), <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (5954; 7% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (1459; 2% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (13612; 15% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (7991; 9% instances), <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (5955; 7% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (1459; 2% instances).
 
 ### `NOUN`
 
@@ -25,7 +25,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 * `Dual` (3; 0% of non-empty `Number`): <em>bhois, bhròig, cuidhean</em>
 * `Plur` (2083; 15% of non-empty `Number`): <em>daoine, dhaoine, cluicheadairean, rudan, h-Astràilianaich, h-eileanan, beathaichean, mionaidean, bliadhnaichean, cùisean</em>
 * `Sing` (11526; 85% of non-empty `Number`): <em>duine, fear, fhios, taobh, rud, latha, àite, bliadhna, buille, taigh</em>
-* `EMPTY` (5244): <em>bhith, dol, ràdh, chur, ais, dhèanamh, feuchainn, tighinn, thoirt, cur</em>
+* `EMPTY` (5249): <em>bhith, dol, ràdh, chur, ais, dhèanamh, feuchainn, tighinn, thoirt, cur</em>
 
 <table>
   <tr><th>Paradigm <i>duine</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -45,7 +45,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 * `Plur` (1984; 25% of non-empty `Number`): <em>iad, sinn, sibh, an, iadsan, sinne, sibhse, ar, àsan, ur</em>
 * `Sing` (6007; 75% of non-empty `Number`): <em>e, i, mi, a, thu, esan, mise, ise, tu, thusa</em>
-* `EMPTY` (1616): <em>sin, fhèin, seo, dè, fhéin, cò, siud, dé, chèile, dhà</em>
+* `EMPTY` (1679): <em>sin, fhèin, seo, dè, fhéin, cò, siud, na, dé, chèile</em>
 
 <table>
   <tr><th>Paradigm <i>sinn</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -58,16 +58,16 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `DET`
 
-5954 <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> tokens (91% of all `DET` tokens) have a non-empty value of `Number`.
+5955 <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> tokens (91% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="gd_arcosg-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5070; 85%), <tt><a href="gd_arcosg-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (5070; 85%), <tt><a href="gd_arcosg-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (4964; 83%), <tt><a href="gd_arcosg-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (4964; 83%), <tt><a href="gd_arcosg-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4675; 79%), <tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (3287; 55%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="gd_arcosg-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5071; 85%), <tt><a href="gd_arcosg-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (5071; 85%), <tt><a href="gd_arcosg-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (4964; 83%), <tt><a href="gd_arcosg-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (4964; 83%), <tt><a href="gd_arcosg-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4676; 79%), <tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (3288; 55%).
 
 `DET` tokens may have the following values of `Number`:
 
 * `Dual` (3; 0% of non-empty `Number`): <em>an</em>
 * `Plur` (1212; 20% of non-empty `Number`): <em>na, nan, an, nam, am, ar, ur, ’n, 'n, 'm</em>
-* `Sing` (4739; 80% of non-empty `Number`): <em>an, a’, a, na, a', am, 'n, mo, do, 'm</em>
-* `EMPTY` (586): <em>sin, seo, a, h-uile, gach, ud, sa, siud, the, sineach</em>
+* `Sing` (4740; 80% of non-empty `Number`): <em>an, a’, a, na, a', am, 'n, mo, do, 'm</em>
+* `EMPTY` (584): <em>sin, seo, a, h-uile, gach, ud, sa, siud, the, sineach</em>
 
 <table>
   <tr><th>Paradigm <i>an</i></th><th><tt>Sing</tt></th><th><tt>Dual</tt></th><th><tt>Plur</tt></th></tr>
@@ -94,7 +94,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 * `Dual` (1; 0% of non-empty `Number`): <em>bhuig</em>
 * `Plur` (335; 23% of non-empty `Number`): <em>eile, ùra, beaga, mòra, móra, dùthchail, annasach, làidir, Èireannach, ionadail</em>
 * `Sing` (1123; 77% of non-empty `Number`): <em>eile, ùr, beag, mhòr, mòr, math, àrd, ghoirid, òg, mór</em>
-* `EMPTY` (1957): <em>bith, sam, cinnteach, math, faisg, thall, seann, fhearr, droch, coltach</em>
+* `EMPTY` (1958): <em>bith, sam, cinnteach, math, faisg, thall, seann, fhearr, droch, coltach</em>
 
 <table>
   <tr><th>Paradigm <i>eile</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -110,14 +110,14 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="gd_arcosg-dep-det.html">det</a></tt>]--> DET</tt> (4522; 88%),
-<tt>NOUN --[<tt><a href="gd_arcosg-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1959; 65%),
-<tt>NOUN --[<tt><a href="gd_arcosg-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1278; 66%),
-<tt>NOUN --[<tt><a href="gd_arcosg-dep-conj.html">conj</a></tt>]--> NOUN</tt> (410; 70%),
+<tt>NOUN --[<tt><a href="gd_arcosg-dep-det.html">det</a></tt>]--> DET</tt> (4525; 88%),
+<tt>NOUN --[<tt><a href="gd_arcosg-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1963; 65%),
+<tt>NOUN --[<tt><a href="gd_arcosg-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1279; 66%),
+<tt>NOUN --[<tt><a href="gd_arcosg-dep-conj.html">conj</a></tt>]--> NOUN</tt> (412; 70%),
 <tt>NOUN --[<tt><a href="gd_arcosg-dep-nmod-poss.html">nmod:poss</a></tt>]--> DET</tt> (388; 67%),
 <tt>NOUN --[<tt><a href="gd_arcosg-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (155; 61%),
 <tt>NOUN --[<tt><a href="gd_arcosg-dep-appos.html">appos</a></tt>]--> NOUN</tt> (64; 62%),
 <tt>NOUN --[<tt><a href="gd_arcosg-dep-xcomp-pred.html">xcomp:pred</a></tt>]--> PRON</tt> (55; 51%),
-<tt>NOUN --[<tt><a href="gd_arcosg-dep-parataxis.html">parataxis</a></tt>]--> NOUN</tt> (37; 54%),
+<tt>NOUN --[<tt><a href="gd_arcosg-dep-parataxis.html">parataxis</a></tt>]--> NOUN</tt> (39; 54%),
 <tt>NOUN --[<tt><a href="gd_arcosg-dep-compound.html">compound</a></tt>]--> NOUN</tt> (19; 100%).
 

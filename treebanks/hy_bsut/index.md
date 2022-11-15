@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.9 release.
 The following people have contributed to making this treebank part of UD: Marat M. Yavrumyan.
 
 Repository: [UD_Armenian-BSUT](https://github.com/UniversalDependencies/UD_Armenian-BSUT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhy_bsut210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhy_bsut211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-SA 4.0
 
@@ -29,7 +29,7 @@ Genre: blog, fiction, government, legal, news, nonfiction, web, wiki
 Questions, comments?
 General annotation questions (either Armenian-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Armenian-BSUT/issues).
-If you want to collaborate, please contact [myavrum&nbsp;(æt)&nbsp;ysu&nbsp;•&nbsp;am].
+If you want to collaborate, please contact [marat&nbsp;•&nbsp;yavrumyan&nbsp;(æt)&nbsp;plus&nbsp;•&nbsp;ac&nbsp;•&nbsp;at].
 Development of the treebank happens directly in the UD repository, so you may submit bug fixes as pull requests against the dev branch.
 
 | Annotation | Source |

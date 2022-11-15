@@ -16,7 +16,7 @@ The feature is used with 5 part-of-speech tags: <tt><a href="hi_hdtb-pos-VERB.ht
 
 ### `VERB`
 
-22582 <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> tokens (67% of all `VERB` tokens) have a non-empty value of `Voice`.
+22582 <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> tokens (63% of all `VERB` tokens) have a non-empty value of `Voice`.
 
 The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="hi_hdtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (22533; 100%), <tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (18817; 83%), <tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (14021; 62%), <tt><a href="hi_hdtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (13878; 61%), <tt><a href="hi_hdtb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (12417; 55%), <tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt> (12165; 54%).
 
@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 * `Act` (20141; 89% of non-empty `Voice`): कहा, कर, किया, हो, की, है, बताया, दिया, हुई, दी
 * `Pass` (2441; 11% of non-empty `Voice`): किया, की, कर, कहा, दिया, किए, दी, बनाया, मारे, रखा
-* `EMPTY` (11171): करने, होने, देने, लेकर, कहना, करते, कर, किए, बनाने, आने
+* `EMPTY` (13377): करने, दिया, होने, देने, दी, लेकर, कहना, करते, कर, लिया
 
 <table>
   <tr><th>Paradigm <i>कर</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>
@@ -132,7 +132,7 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 ### `AUX`
 
-3516 <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> tokens (14% of all `AUX` tokens) have a non-empty value of `Voice`.
+3516 <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> tokens (15% of all `AUX` tokens) have a non-empty value of `Voice`.
 
 The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="hi_hdtb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (3516; 100%), <tt><a href="hi_hdtb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3511; 100%), <tt><a href="hi_hdtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3511; 100%), <tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt> (3098; 88%), <tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3015; 86%), <tt><a href="hi_hdtb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3013; 86%), <tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2838; 81%).
 
@@ -140,7 +140,7 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 
 * `Act` (3511; 100% of non-empty `Voice`): है, हैं, थे, था, थी, थीं, हूं, हूँ, हों, हैँ
 * `Pass` (5; 0% of non-empty `Voice`): है, थी, हैं
-* `EMPTY` (22514): है, हैं, गया, था, गई, हुए, गए, जा, दिया, रहे
+* `EMPTY` (20240): है, हैं, गया, था, गई, हुए, गए, जा, रहे, रही
 
 <table>
   <tr><th>Paradigm <i>है</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>
@@ -189,13 +189,13 @@ The most frequent other feature values with which `PROPN` and `Voice` co-occurre
 `PROPN` tokens may have the following values of `Voice`:
 
 * `Pass` (1; 100% of non-empty `Voice`): मंदिर
-* `EMPTY` (42940): सिंह, भारत, प्रधानमंत्री, कांग्रेस, पाकिस्तान, दिल्ली, मंत्री, भाजपा, सरकार, कश्मीर
+* `EMPTY` (42939): सिंह, भारत, प्रधानमंत्री, कांग्रेस, पाकिस्तान, दिल्ली, मंत्री, भाजपा, सरकार, कश्मीर
 
 ## Relations with Agreement in `Voice`
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
-<tt>VERB --[<tt><a href="hi_hdtb-dep-obj.html">obj</a></tt>]--> VERB</tt> (2816; 71%),
-<tt>VERB --[<tt><a href="hi_hdtb-dep-conj.html">conj</a></tt>]--> VERB</tt> (1233; 87%),
+<tt>VERB --[<tt><a href="hi_hdtb-dep-obj.html">obj</a></tt>]--> VERB</tt> (2760; 70%),
+<tt>VERB --[<tt><a href="hi_hdtb-dep-conj.html">conj</a></tt>]--> VERB</tt> (1204; 85%),
 <tt>VERB --[<tt><a href="hi_hdtb-dep-obj.html">obj</a></tt>]--> AUX</tt> (2; 100%),
 <tt>VERB --[<tt><a href="hi_hdtb-dep-vocative.html">vocative</a></tt>]--> VERB</tt> (2; 100%).
 

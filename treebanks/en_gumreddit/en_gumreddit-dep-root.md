@@ -11,9 +11,9 @@ This relation is universal.
 895 nodes (5%) are attached to their parents as `root`.
 
 895 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.19217877094972.
+Average distance between parent and child is 5.18324022346369.
 
-The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (603; 67% instances), -<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (134; 15% instances), -<tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> (102; 11% instances), -<tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> (16; 2% instances), -<tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> (10; 1% instances), -<tt><a href="en_gumreddit-pos-PROPN.html">PROPN</a></tt> (10; 1% instances), -<tt><a href="en_gumreddit-pos-NUM.html">NUM</a></tt> (5; 1% instances), -<tt><a href="en_gumreddit-pos-AUX.html">AUX</a></tt> (4; 0% instances), -<tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> (4; 0% instances), -<tt><a href="en_gumreddit-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), -<tt><a href="en_gumreddit-pos-SYM.html">SYM</a></tt> (2; 0% instances), -<tt><a href="en_gumreddit-pos-X.html">X</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (603; 67% instances), -<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (133; 15% instances), -<tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> (102; 11% instances), -<tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> (16; 2% instances), -<tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> (10; 1% instances), -<tt><a href="en_gumreddit-pos-PROPN.html">PROPN</a></tt> (10; 1% instances), -<tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> (5; 1% instances), -<tt><a href="en_gumreddit-pos-NUM.html">NUM</a></tt> (5; 1% instances), -<tt><a href="en_gumreddit-pos-AUX.html">AUX</a></tt> (4; 0% instances), -<tt><a href="en_gumreddit-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), -<tt><a href="en_gumreddit-pos-SYM.html">SYM</a></tt> (2; 0% instances), -<tt><a href="en_gumreddit-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -88,7 +88,7 @@ The following 12 pairs of parts of speech are connected with `root`: -<tt><a hre
 15	_	_	VERB	VBG	Tense=Pres|VerbForm=Part	6	parataxis	6:parataxis	Lem=loan|Len=7
 16	_	_	DET	DT	Definite=Def|PronType=Art	18	det	18:det	Entity=(23-organization-giv:act-cf2-3-coref|Lem=_|Len=3
 17	_	_	PROPN	NNP	Abbr=Yes|Number=Sing	18	compound	18:compound	Entity=(31-place-giv:act-cf3-1-coref-United_States)|Lem=_|Len=2
-18	_	_	NOUN	NN	Number=Sing	15	iobj	15:iobj	CorrectForm=government|Entity=23)|Lem=government|Len=4|XML=<sic ana:::"government"></sic>
+18	_	_	NOUN	NN	Number=Sing|Typo=Yes	15	iobj	15:iobj	CorrectForm=government|Entity=23)|Lem=government|Len=4|XML=<sic ana:::"government"></sic>
 19	_	_	DET	DT	Definite=Def|PronType=Art	21	det	21:det	Bridge=12<33|Entity=(33-abstract-acc:inf-cf6-3-sgl|Lem=_|Len=3
 20	_	_	ADJ	JJ	Degree=Pos	21	amod	21:amod	Lem=_|Len=4
 21	_	_	NOUN	NN	Number=Sing	15	obj	15:obj	Lem=_|Len=5

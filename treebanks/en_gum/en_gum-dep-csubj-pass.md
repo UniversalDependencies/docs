@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_English-GUM: Relations: `csubj:pass`
 
 This relation is a language-specific subtype of <tt><a href="en_gum-dep-csubj.html">csubj</a></tt>.
+There are also 1 other language-specific subtypes of `csubj`: <tt><a href="en_gum-dep-csubj-outer.html">csubj:outer</a></tt>.
 
 12 nodes (0%) are attached to their parents as `csubj:pass`.
 
@@ -24,7 +25,7 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 3 6 csubj:pass	color:blue
 1	It	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	expl	3:expl	Discourse=elaboration-additional:10->9:0|Entity=(18-event-new-cf3-1-cata)
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	3:aux:pass	_
-3	recommend	recommed	VERB	VBN	Tense=Past|Typo=Yes|VerbForm=Part|Voice=Pass	0	root	0:root	CorrectForm=recommended|XML=<sic ana:::"recommended"></sic>
+3	recommend	recommend	VERB	VBN	Tense=Past|Typo=Yes|VerbForm=Part|Voice=Pass	0	root	0:root	CorrectForm=recommended|XML=<sic ana:::"recommended"></sic>
 4	that	that	SCONJ	IN	_	6	mark	6:mark	_
 5	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	6:nsubj	Entity=(18-event-acc:com-cf3-2-coref(5-person-giv:inact-cf2-1-ana)
 6	use	use	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	csubj:pass	3:csubj:pass	_
@@ -69,7 +70,7 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 21	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	23	nsubj	23:nsubj	Entity=(66-person-giv:act-cf2-1-ana)
 22	ultimately	ultimately	ADV	RB	Degree=Pos	23	advmod	23:advmod	_
 23	married	marry	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	parataxis	15:parataxis	_
-24	someone	someone	NOUN	NN	Number=Sing	23	obj	23:obj	Entity=(113-person-new-cf7-1-sgl
+24	someone	someone	PRON	NN	Number=Sing|PronType=Ind	23	obj	23:obj	Entity=(113-person-new-cf7-1-sgl
 25	else	else	ADV	RB	Degree=Pos	24	advmod	24:advmod	Entity=113)|SpaceAfter=No
 26	)	)	PUNCT	-RRB-	_	23	punct	23:punct	SpaceAfter=No
 27	,	,	PUNCT	,	_	34	punct	34:punct	_

@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="apu_ufpa-dep-advmod.html">advmod</a></tt>.
 There are also 2 other language-specific subtypes of `advmod`: <tt><a href="apu_ufpa-dep-advmod-lmod.html">advmod:lmod</a></tt>, <tt><a href="apu_ufpa-dep-advmod-neg.html">advmod:neg</a></tt>.
 
-13 nodes (2%) are attached to their parents as `advmod:tmod`.
+14 nodes (2%) are attached to their parents as `advmod:tmod`.
 
-13 instances of `advmod:tmod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.23076923076923.
+14 instances of `advmod:tmod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.14285714285714.
 
-The following 1 pairs of parts of speech are connected with `advmod:tmod`: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (13; 100% instances).
+The following 1 pairs of parts of speech are connected with `advmod:tmod`: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (14; 100% instances).
 
 
 ~~~ conllu

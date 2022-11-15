@@ -23,5 +23,5 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 `VERB` tokens may have the following values of `Voice`:
 
 * `Cau` (2; 100% of non-empty `Voice`): <em>बघवत, बसविले</em>
-* `EMPTY` (701): <em>म्हणाला, _, आला, गेला, आली, म्हणाली, येत, घेऊन, बसला, दे</em>
+* `EMPTY` (719): <em>म्हणाला, आला, गेला, आली, म्हणाली, येत, घेऊन, दे, बसला, विचारले</em>
 

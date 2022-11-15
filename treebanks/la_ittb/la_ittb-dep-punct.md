@@ -10,10 +10,10 @@ This relation is universal.
 
 62409 nodes (14%) are attached to their parents as `punct`.
 
-39001 instances of `punct` (62%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.65386402602189.
+38987 instances of `punct` (62%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.65420051595123.
 
-The following 14 pairs of parts of speech are connected with `punct`: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (33025; 53% instances), <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (12017; 19% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (4644; 7% instances), <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt>-<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (3783; 6% instances), <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt>-<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (2493; 4% instances), <tt><a href="la_ittb-pos-DET.html">DET</a></tt>-<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (1903; 3% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt>-<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (1242; 2% instances), <tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (1218; 2% instances), <tt><a href="la_ittb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (758; 1% instances), <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (580; 1% instances), <tt><a href="la_ittb-pos-NUM.html">NUM</a></tt>-<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (502; 1% instances), <tt><a href="la_ittb-pos-PART.html">PART</a></tt>-<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (188; 0% instances), <tt><a href="la_ittb-pos-ADP.html">ADP</a></tt>-<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (49; 0% instances), <tt><a href="la_ittb-pos-X.html">X</a></tt>-<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (7; 0% instances).
+The following 14 pairs of parts of speech are connected with `punct`: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (33049; 53% instances), <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (12017; 19% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (4616; 7% instances), <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt>-<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (3759; 6% instances), <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt>-<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (2370; 4% instances), <tt><a href="la_ittb-pos-DET.html">DET</a></tt>-<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (2162; 3% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt>-<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (1243; 2% instances), <tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (1209; 2% instances), <tt><a href="la_ittb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (652; 1% instances), <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (581; 1% instances), <tt><a href="la_ittb-pos-PART.html">PART</a></tt>-<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (407; 1% instances), <tt><a href="la_ittb-pos-NUM.html">NUM</a></tt>-<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (288; 0% instances), <tt><a href="la_ittb-pos-ADP.html">ADP</a></tt>-<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (49; 0% instances), <tt><a href="la_ittb-pos-X.html">X</a></tt>-<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (7; 0% instances).
 
 
 ~~~ conllu
@@ -24,8 +24,8 @@ The following 14 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 3 9 punct	color:blue
 1	et	et	CCONJ	O4	_	3	cc	_	_
 2	simile	similis	ADJ	C1|grn1|casA|gen3	Case=Nom|Gender=Neut|InflClass=IndEurI|Number=Sing	3	xcomp	_	_
-3	apparet	appareo	VERB	K3|modA|tem1|gen6	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-4	in	in	ADP	S4	AdpType=Prep	5	case	_	_
+3	apparet	appareo	VERB	K3|modA|tem1|gen6	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
+4	in	in	ADP	S4	_	5	case	_	_
 5	arte	ars	NOUN	C1|grn1|casF|gen2	Case=Abl|Gender=Fem|InflClass=IndEurI|Number=Sing	3	obl	_	_
 6	gubernatoria	gubernatorius	ADJ	A1|grn1|casF|gen2	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing	5	amod	_	_
 7	respectu	respectus	NOUN	D1|grn1|casF|gen1	Case=Abl|Gender=Masc|InflClass=IndEurU|Number=Sing	3	obl	_	_
@@ -42,7 +42,7 @@ The following 14 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 1	fgColor:white
 # visual-style 1 3 punct	color:blue
 1	prou.	prouerbium	NOUN	5	Abbr=Yes|NameType=Lit|Proper=Yes	0	root	_	_
-2	8-7	8-7	NUM	G5	InflClass=Ind|NumForm=Digit	1	nummod	_	SpaceAfter=No
+2	8-7	8-7	NUM	G5	_	1	nummod	_	SpaceAfter=No
 3	.	.	PUNCT	Punc	_	1	punct	_	_
 
 ~~~
@@ -60,7 +60,7 @@ The following 14 pairs of parts of speech are connected with `punct`: <tt><a hre
 4	possibilis	possibilis	ADJ	C1|grn1|casA|gen1	Case=Nom|Gender=Masc|InflClass=IndEurI|Number=Sing	0	root	_	_
 5	diuinae	diuinus	ADJ	A1|grn1|casB|gen2	Case=Gen|Gender=Fem|InflClass=IndEurA|Number=Sing	6	amod	_	_
 6	ueritatis	ueritas	NOUN	C1|grn1|casB|gen2|vgr1	Case=Gen|Gender=Fem|InflClass=IndEurX|Number=Sing	7	nsubj:pass	_	_
-7	manifestandae	manifesto	VERB	J2|modO|grp1|casB|gen2	Aspect=Prosp|Case=Gen|Gender=Fem|InflClass=LatA|InflClass[nominal]=IndEurA|Number=Sing|VerbForm=Gdv|Voice=Pass	2	acl	_	SpaceAfter=No
+7	manifestandae	manifesto	VERB	J2|modO|grp1|casB|gen2	Aspect=Prosp|Case=Gen|Gender=Fem|InflClass=LatA|InflClass[nominal]=IndEurA|Number=Sing|VerbForm=Part|Voice=Pass	2	acl	_	SpaceAfter=No|TraditionalMood=Gerundivum
 8	.	.	PUNCT	Punc	_	4	punct	_	_
 
 ~~~

@@ -16,12 +16,12 @@ The feature is used with 1 part-of-speech tags: <tt><a href="sah_yktdt-pos-VERB.
 
 ### `VERB`
 
-1 <tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+1 <tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
 The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="sah_yktdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sah_yktdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sah_yktdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sah_yktdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (1; 100%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Inf` (1; 100% of non-empty `VerbForm`): <em>таларга</em>
-* `EMPTY` (111): <em>ааҕар, турар, туруораллар, аһыыр, быс, кэллэ, олороллор, олорор, суруйаллар, сууйуҥ</em>
+* `Inf` (1; 100% of non-empty `VerbForm`): <em>ааҕарга</em>
+* `EMPTY` (274): <em>үөрэнэр, ааҕар, турар, ыалдьар, сиэ, үөрэнэллэр, аһыыр, кэл, олор, суруйар</em>
 

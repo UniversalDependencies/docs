@@ -13,40 +13,40 @@ The 10 most frequent `ADV` lemmas: <em>magh, stiagh, nish, reesht, rieau, seose,
 
 The 10 most frequent `ADV` types:  <em>magh, stiagh, nish, reesht, rieau, seose, feer, foast, sheese, ersooyl</em>
 
-The 10 most frequent ambiguous lemmas: <em>feer</em> (<tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> 15, <tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 3), <em>sheese</em> (<tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> 14, <tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 1), <em>cha</em> (<tt><a href="gv_cadhan-pos-PART.html">PART</a></tt> 148, <tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> 10), <em>mygeayrt</em> (<tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> 9, <tt><a href="gv_cadhan-pos-ADP.html">ADP</a></tt> 8), <em>foddey</em> (<tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 7, <tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> 7), <em>sthie</em> (<tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> 5, <tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 1), <em>jeeragh</em> (<tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> 3), <em>kiart</em> (<tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 8, <tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> 3, <tt><a href="gv_cadhan-pos-NOUN.html">NOUN</a></tt> 3), <em>mairagh</em> (<tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> 3, <tt><a href="gv_cadhan-pos-NOUN.html">NOUN</a></tt> 1), <em>raad</em> (<tt><a href="gv_cadhan-pos-NOUN.html">NOUN</a></tt> 26, <tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> 3)
+The 10 most frequent ambiguous lemmas: <em>feer</em> (<tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> 15, <tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 3), <em>sheese</em> (<tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> 14, <tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 1), <em>cha</em> (<tt><a href="gv_cadhan-pos-PART.html">PART</a></tt> 149, <tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> 10), <em>mygeayrt</em> (<tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> 9, <tt><a href="gv_cadhan-pos-ADP.html">ADP</a></tt> 8), <em>foddey</em> (<tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 7, <tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> 7), <em>sthie</em> (<tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> 5, <tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 1), <em>jeeragh</em> (<tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> 3), <em>kiart</em> (<tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 8, <tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> 3, <tt><a href="gv_cadhan-pos-NOUN.html">NOUN</a></tt> 3), <em>mairagh</em> (<tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> 3, <tt><a href="gv_cadhan-pos-NOUN.html">NOUN</a></tt> 1), <em>raad</em> (<tt><a href="gv_cadhan-pos-NOUN.html">NOUN</a></tt> 26, <tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> 3)
 
 The 10 most frequent ambiguous types:  <em>sheese</em> (<tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> 14, <tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 1), <em>cha</em> (<tt><a href="gv_cadhan-pos-PART.html">PART</a></tt> 28, <tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> 10), <em>mygeayrt</em> (<tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> 9, <tt><a href="gv_cadhan-pos-ADP.html">ADP</a></tt> 8), <em>foddey</em> (<tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> 7, <tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 4), <em>sthie</em> (<tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> 5, <tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 1), <em>eer</em> (<tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> 3), <em>jeeragh</em> (<tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> 3), <em>kiart</em> (<tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 8, <tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> 3), <em>mairagh</em> (<tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> 3, <tt><a href="gv_cadhan-pos-NOUN.html">NOUN</a></tt> 1), <em>raad</em> (<tt><a href="gv_cadhan-pos-NOUN.html">NOUN</a></tt> 22, <tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> 3)
 
 
 * <em>sheese</em>
-  * <tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> 14: <em>As chroym eh <b>sheese</b> reesht , as scrieu eh er y laare .</em>
+  * <tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> 14: <em>Huitt eh <b>sheese</b> .</em>
   * <tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 1: <em>Hug eh keim <b>sheese</b> ny ghaa da eh .</em>
 * <em>cha</em>
-  * <tt><a href="gv_cadhan-pos-PART.html">PART</a></tt> 28: <em>Ansherbee , <b>cha</b> row shin jannoo red erbee aggairagh .</em>
-  * <tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> 10: <em>T' eh <b>cha</b> roauyr as raun .</em>
+  * <tt><a href="gv_cadhan-pos-PART.html">PART</a></tt> 28: <em>Foddee dy row eh Eairkag , agh <b>cha</b> nel shin shickyr mychione shen .</em>
+  * <tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> 10: <em>T' eh <b>cha</b> bioyr as jallyn .</em>
 * <em>mygeayrt</em>
-  * <tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> 9: <em>Hrog ee eh dy tappee as hyndaa ee <b>mygeayrt</b> eh .</em>
+  * <tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> 9: <em>T' eh ceau e hoyn <b>mygeayrt</b> .</em>
   * <tt><a href="gv_cadhan-pos-ADP.html">ADP</a></tt> 8: <em>Yeeagh Ealish ooilley <b>mygeayrt</b> y voayrd , agh cha row veg er eh agh tey .</em>
 * <em>foddey</em>
-  * <tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> 7: <em>Vel oo goll <b>foddey</b> ?</em>
-  * <tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 4: <em>Ren fer y faasaag gearaghtee mooar <b>foddey</b> booie .</em>
+  * <tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> 7: <em>Cha jagh moylley ghooinney hene rieau <b>foddey</b> voish eh .</em>
+  * <tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 4: <em>Cha dannee shin ayns shen rish feer <b>foddey</b> .</em>
 * <em>sthie</em>
-  * <tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> 5: <em>Cha nel eh <b>sthie</b> lesh eh hene .</em>
+  * <tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> 5: <em>Chum eh e ennal <b>sthie</b> .</em>
   * <tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 1: <em>Nee yn lhieggey lowal da troggal boalley rish y phurt <b>sthie</b> .</em>
 * <em>eer</em>
-  * <tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 3: <em>T' eh ny <b>eer</b> sidoor .</em>
+  * <tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 3: <em>T' eh my <b>eer</b> vraar .</em>
   * <tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> 3: <em>Veagh shen <b>eer</b> ny smessey .</em>
 * <em>jeeragh</em>
   * <tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 4: <em>Foddee dy screeuym mychione nyn ngoair , ny smoo <b>jeeragh</b> , goair my ven .</em>
   * <tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> 3: <em>Roie eh <b>jeeragh</b> stiagh ayns eddin y voalley .</em>
 * <em>kiart</em>
-  * <tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 8: <em>Vel symm <b>kiart</b> ec oo ?</em>
-  * <tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> 3: <em>Ren eh <b>kiart</b> ayns shen eh .</em>
+  * <tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 8: <em>T' eh ny youyll <b>kiart</b> .</em>
+  * <tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> 3: <em>Hooar eh lhieggey olk <b>kiart</b> roish y Nollick .</em>
 * <em>mairagh</em>
   * <tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> 3: <em>Cur shilley er eh <b>mairagh</b> .</em>
   * <tt><a href="gv_cadhan-pos-NOUN.html">NOUN</a></tt> 1: <em>“ Ta , dy jarroo , agh cre 'n fa v' ou gearree goll jiu ayns ynnyd jeh <b>mairagh</b> ? ”</em>
 * <em>raad</em>
-  * <tt><a href="gv_cadhan-pos-NOUN.html">NOUN</a></tt> 22: <em>Cre 'n <b>raad</b> ta dty ghraih er ghoaill , O uss s' aalin ta mastey mraane ?</em>
+  * <tt><a href="gv_cadhan-pos-NOUN.html">NOUN</a></tt> 22: <em>Yiare eh <b>raad</b> da eh hene trooid y chionnal .</em>
   * <tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> 3: <em>Choud as v' ee jeeaghyn er y voayl <b>raad</b> v' eh er ve , haink eh rish eh reesht dy doaltattym .</em>
 
 ## Morphology

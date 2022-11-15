@@ -36,27 +36,35 @@ The following 4 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 expl:pv	color:blue
-1	Každou	každý	DET	AAFS4----1A----	Case=Acc|Gender=Fem|Number=Sing|PronType=Tot	2	det	_	_
-2	skutečnost	skutečnost	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	11	obj	_	_
-3	týkající	týkající	ADJ	AGFS4-----A----	Aspect=Imp|Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	2	amod	_	_
-4	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	3	expl:pv	_	_
-5	vedení	vedení	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	3	obl:arg	_	_
-6	účetnictví	účetnictví	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	5	nmod	_	_
-7	jsou	být	AUX	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	_
-8	účetní	účetní	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	9	amod	_	LId=účetní-1
-9	jednotky	jednotka	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	10	nsubj	_	_
-10	povinny	povinný	ADJ	ACTP------A----	Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Variant=Short	0	root	_	_
-11	zaznamenávat	zaznamenávat	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	10	xcomp	_	_
-12	výhradně	výhradně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	11	advmod	_	_
-13	jen	jen	PART	TT-------------	_	15	advmod:emph	_	LId=jen-1
-14	účetními	účetní	ADJ	AAIP7----1A----	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	15	amod	_	LId=účetní-1
-15	záznamy	záznam	NOUN	NNIP7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur|Polarity=Pos	11	obl	_	SpaceAfter=No
-16	.	.	PUNCT	Z:-------------	_	10	punct	_	_
+# visual-style 20	bgColor:blue
+# visual-style 20	fgColor:white
+# visual-style 19	bgColor:blue
+# visual-style 19	fgColor:white
+# visual-style 19 20 expl:pv	color:blue
+1	(1)	(1)	PUNCT	Z:-------------	_	7	punct	_	_
+2	Položka	položka	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	7	nsubj	_	_
+3	„	"	PUNCT	Z:-------------	_	4	punct	_	SpaceAfter=No
+4	C.IV.1.	C.IV.1.	X	X@-------------	_	2	nmod	_	LGloss=(from_multi_word_term)
+5	Peníze	Peníze	X	X@-------------	_	4	nmod	_	SpaceAfter=No|LGloss=(from_multi_word_term)
+6	“	"	PUNCT	Z:-------------	_	4	punct	_	_
+7	obsahuje	obsahovat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	zejména	zejména	ADV	Db-------------	_	9	advmod:emph	_	_
+9	peníze	peníze	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	7	obj	_	_
+10	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	11	case	_	LId=v-1
+11	pokladně	pokladna	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	9	nmod	_	_
+12	a	a	CCONJ	J^-------------	_	13	cc	_	LId=a-1
+13	ceniny	cenina	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	9	conj	_	SpaceAfter=No
+14	,	,	PUNCT	Z:-------------	_	16	punct	_	_
+15	popřípadě	popřípadě	ADV	Db-------------	_	16	cc	_	_
+16	peníze	peníze	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	9	conj	_	_
+17	na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	18	case	_	LId=na-1
+18	cestě	cesta	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	16	nmod	_	_
+19	vztahující	vztahující	ADJ	AGFS6-----A----	Aspect=Imp|Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	16	amod	_	_
+20	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	19	expl:pv	_	_
+21	k	k	ADP	RR--3----------	AdpType=Prep|Case=Dat	23	case	_	LId=k-1
+22	této	tento	DET	PDFS3----------	Case=Dat|Gender=Fem|Number=Sing|PronType=Dem	23	det	_	_
+23	položce	položka	NOUN	NNFS3-----A----	Case=Dat|Gender=Fem|Number=Sing|Polarity=Pos	19	obl:arg	_	SpaceAfter=No
+24	.	.	PUNCT	Z:-------------	_	7	punct	_	_
 
 ~~~
 

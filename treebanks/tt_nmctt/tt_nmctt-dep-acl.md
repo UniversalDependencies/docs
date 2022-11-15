@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-5 nodes (0%) are attached to their parents as `acl`.
+13 nodes (1%) are attached to their parents as `acl`.
 
-5 instances of `acl` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.8.
+13 instances of `acl` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.53846153846154.
 
-The following 2 pairs of parts of speech are connected with `acl`: <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt> (4; 80% instances), <tt><a href="tt_nmctt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt> (1; 20% instances).
+The following 2 pairs of parts of speech are connected with `acl`: <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt> (12; 92% instances), <tt><a href="tt_nmctt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt> (1; 8% instances).
 
 
 ~~~ conllu

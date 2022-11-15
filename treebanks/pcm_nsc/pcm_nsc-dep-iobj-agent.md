@@ -38,7 +38,7 @@ The following 2 pairs of parts of speech are connected with `iobj:agent`: <tt><a
 14	wedding	wedding	NOUN	_	_	12	obl:arg	_	AlignBegin=104818|AlignEnd=105043|Gloss=wedding|SyllableCount=2
 15	<	<	X	_	_	9	dep	_	AlignBegin=105043|AlignEnd=105043|Gloss=PUNCT
 16	di	di	DET	_	Definite=Def|PronType=Art	17	det	_	AlignBegin=105043|AlignEnd=105267|Gloss=DEF.ART|SyllableCount=1
-17	truth	truth	NOUN	_	_	24	nsubj	_	AlignBegin=105267|AlignEnd=105492|Gloss=truth|SyllableCount=1
+17	truth	truth	NOUN	_	_	24	nsubj:outer	_	AlignBegin=105267|AlignEnd=105492|Gloss=truth|SyllableCount=1
 18	be	be	AUX	_	PartType=Cop	24	cop	_	AlignBegin=105492|AlignEnd=105717|Gloss=be1|SyllableCount=1
 19	sey	sey	SCONJ	_	_	24	mark	_	AlignBegin=105717|AlignEnd=105942|Gloss=COMP|SyllableCount=1
 20	[	[	X	_	_	24	dep	_	AlignBegin=105942|AlignEnd=105942|Gloss=PUNCT

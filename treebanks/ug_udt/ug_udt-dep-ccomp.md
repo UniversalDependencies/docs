@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-432 nodes (1%) are attached to their parents as `ccomp`.
+433 nodes (1%) are attached to their parents as `ccomp`.
 
-421 instances of `ccomp` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.21064814814815.
+423 instances of `ccomp` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.23325635103926.
 
-The following 15 pairs of parts of speech are connected with `ccomp`: <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (262; 61% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (110; 25% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> (21; 5% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (9; 2% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-INTJ.html">INTJ</a></tt> (7; 2% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (5; 1% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-ADP.html">ADP</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-PART.html">PART</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 16 pairs of parts of speech are connected with `ccomp`: <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (263; 61% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (104; 24% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> (25; 6% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (9; 2% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-INTJ.html">INTJ</a></tt> (7; 2% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (5; 1% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-ADP.html">ADP</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-PART.html">PART</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -46,7 +46,7 @@ The following 15 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 3	بالا	بالا	NOUN	N	Case=Nom	4	nsubj	_	Translit=bala
 4	دەپ	دە	VERB	V	Aspect=Perf|VerbForm=Conv	8	advcl	_	SpaceAfter=No|Translit=dep
 5	،	،	PUNCT	Y	_	4	punct	_	Translit=,
-6	بىر	بىر	NUM	M	Case=Nom|NumType=Ord	7	advmod	_	Translit=bir
+6	بىر	بىر	NUM	M	Case=Nom|NumType=Ord	7	nummod	_	Translit=bir
 7	كولدۇرلىتاي	_	NOUN	N	_	8	ccomp	_	Translit=koldurlitay|Morf=Unknown
 8	دېگەنمىدىڭىز	_	VERB	V	_	0	root	_	Translit=dëgenmidingiz|Morf=Unknown
 9	يا	يا	VERB	E	Mood=Imp|VerbForm=Fin	8	discourse	_	SpaceAfter=No|Translit=ya
@@ -61,7 +61,7 @@ The following 15 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 5 ccomp	color:blue
-1	«	«	PUNCT	Y	_	10	punct	_	SpaceAfter=No|Translit=«
+1	«	«	PUNCT	Y	_	5	punct	_	SpaceAfter=No|Translit=«
 2	ياخشى	ياخشى	ADJ	A	_	3	amod	_	Translit=yaxshi
 3	چارە	چارە	NOUN	N	Case=Nom	5	nsubj	_	Translit=chare
 4	ئىشنىڭ	ئىش	NOUN	N	Case=Gen	5	nmod:poss	_	Translit=ishning

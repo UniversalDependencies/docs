@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="en_ewt-dep-aux.html">aux</a></tt>.
 
-1604 nodes (1%) are attached to their parents as `aux:pass`.
+1614 nodes (1%) are attached to their parents as `aux:pass`.
 
-1567 instances of `aux:pass` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.21321695760599.
+1577 instances of `aux:pass` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.21313506815366.
 
-The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (1604; 100% instances).
+The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (1614; 100% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 aux:pass	color:blue
-1	Four	four	NUM	CD	NumType=Card	2	nummod	2:nummod	_
+1	Four	four	NUM	CD	NumForm=Word|NumType=Card	2	nummod	2:nummod	_
 2	months	month	NOUN	NNS	Number=Plur	3	obl:npmod	3:obl:npmod	_
 3	later	late	ADV	RBR	Degree=Cmp	7	advmod	7:advmod	SpaceAfter=No
 4	,	,	PUNCT	,	_	7	punct	7:punct	_

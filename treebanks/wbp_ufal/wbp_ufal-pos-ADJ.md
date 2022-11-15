@@ -34,8 +34,8 @@ The 3rd highest number of forms (1) was observed with the lemma “murrumurru”
 `ADJ` occurs with 2 feature-value pairs: `Case=Abs`, `Case=Erg`
 
 `ADJ` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (3 tokens).
-Examples: <em>murrumurru, mata</em>
+The most frequent feature combination is `Case=Erg` (3 tokens).
+Examples: <em>witangku</em>
 
 
 ## Relations

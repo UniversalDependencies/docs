@@ -21,7 +21,7 @@ The feature is used with 4 part-of-speech tags: <tt><a href="ru_taiga-pos-PART.h
 `PART` tokens may have the following values of `Polarity`:
 
 * `Neg` (3506; 100% of non-empty `Polarity`): <em>не, ни, нет, Неееее, Ничего, на, неее, е, нп</em>
-* `EMPTY` (3822): <em>и, только, же, ли, вот, просто, даже, ну, тоже, это</em>
+* `EMPTY` (3821): <em>и, только, же, ли, вот, просто, даже, ну, тоже, это</em>
 
 ### `VERB`
 
@@ -32,7 +32,7 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (356; 100% of non-empty `Polarity`): <em>нет, нету, нельзя, негде, некуда, нечего, некогда, Несть, не, некого</em>
-* `EMPTY` (24391): <em>есть, можно, может, надо, могу, делать, хочу, здравствуйте, нравится, стоит</em>
+* `EMPTY` (24392): <em>есть, можно, может, надо, могу, делать, хочу, здравствуйте, нравится, стоит</em>
 
 `Polarity` seems to be **lexical feature** of `VERB`. 100% lemmas (14) occur only with one value of `Polarity`.
 
@@ -43,7 +43,7 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 `CCONJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (89; 100% of non-empty `Polarity`): <em>ни</em>
-* `EMPTY` (8057): <em>и, но, а, или, да, то, однако, либо, зато, причем</em>
+* `EMPTY` (8058): <em>и, но, а, или, да, то, однако, либо, зато, причем</em>
 
 ### `ADV`
 
@@ -54,7 +54,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (6; 100% of non-empty `Polarity`): <em>нихера, Нифига, Нихуя, не</em>
-* `EMPTY` (10852): <em>очень, так, как, там, уже, где, всегда, еще, сейчас, здесь</em>
+* `EMPTY` (10853): <em>очень, так, как, там, уже, где, всегда, еще, сейчас, здесь</em>
 
 ## Relations with Agreement in `Polarity`
 

@@ -24,8 +24,8 @@ The following 8 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 9 8 xcomp	color:blue
 1	ek	_	ADV	_	_	6	amod	_	Lang=fy
 2	op	_	ADP	_	_	6	case	_	Lang=fy
-3	'e	_	DET	_	_	2	goeswith	_	Lang=fy
-4	nij	_	ADJ	_	_	2	goeswith	_	Lang=fy
+3	'e	_	X	_	_	2	goeswith	_	Lang=fy
+4	nij	_	X	_	_	2	goeswith	_	Lang=fy
 5	de	_	DET	_	_	6	det	_	Lang=fy
 6	saak	_	NOUN	_	_	9	obj	_	Lang=fy
 7	wer	_	ADV	_	_	9	advmod	_	Lang=fy

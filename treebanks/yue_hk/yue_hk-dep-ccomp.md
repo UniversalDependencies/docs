@@ -11,7 +11,7 @@ This relation is universal.
 439 nodes (3%) are attached to their parents as `ccomp`.
 
 433 instances of `ccomp` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.66970387243736.
+Average distance between parent and child is 4.65148063781321.
 
 The following 15 pairs of parts of speech are connected with `ccomp`: <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (386; 88% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (14; 3% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (13; 3% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> (7; 2% instances), <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt>-<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
@@ -46,29 +46,29 @@ The following 15 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
 # visual-style 13 20 ccomp	color:blue
-1	我	_	PRON	_	_	13	nsubj	_	SpaceAfter=No
-2	作為	_	ADP	_	_	7	case	_	SpaceAfter=No
-3	一	_	NUM	_	_	7	nummod	_	SpaceAfter=No
-4	個	_	NOUN	_	NounType=Clf	3	clf	_	SpaceAfter=No
-5	會議	_	NOUN	_	_	7	nmod	_	SpaceAfter=No
-6	嘅	_	PART	_	_	5	case	_	SpaceAfter=No
-7	主持	_	NOUN	_	_	13	obl	_	SpaceAfter=No
-8	呢	_	PART	_	_	7	discourse:sp	_	SpaceAfter=No
-9	，	_	PUNCT	_	_	7	punct	_	SpaceAfter=No
-10	我	_	PRON	_	_	13	nsubj	_	SpaceAfter=No
-11	祇	_	ADV	_	_	13	advmod	_	SpaceAfter=No
-12	能夠	_	AUX	_	_	13	aux	_	SpaceAfter=No
-13	係	_	VERB	_	_	0	root	_	SpaceAfter=No
-14	根據	_	ADP	_	_	17	case	_	SpaceAfter=No
-15	嗰個	_	DET	_	_	17	det	_	SpaceAfter=No
-16	會議	_	NOUN	_	_	17	compound	_	SpaceAfter=No
-17	規則	_	NOUN	_	_	18	obl	_	SpaceAfter=No
-18	進行	_	VERB	_	_	13	ccomp	_	SpaceAfter=No
-19	嗰個	_	DET	_	_	20	det	_	SpaceAfter=No
-20	程序	_	NOUN	_	_	13	ccomp	_	SpaceAfter=No
-21	嘅	_	PART	_	_	13	discourse:sp	_	SpaceAfter=No
-22	唧	_	PART	_	_	13	discourse:sp	_	SpaceAfter=No
-23	。	_	PUNCT	_	_	13	punct	_	SpaceAfter=No
+1	我	我	PRON	_	_	13	obl	_	SpaceAfter=No
+2	作為	作為	ADP	_	_	7	case	_	SpaceAfter=No
+3	一	一	NUM	_	_	7	nummod	_	SpaceAfter=No
+4	個	個	NOUN	_	NounType=Clf	3	clf	_	SpaceAfter=No
+5	會議	會議	NOUN	_	_	7	nmod	_	SpaceAfter=No
+6	嘅	嘅	PART	_	_	5	case	_	SpaceAfter=No
+7	主持	主持	NOUN	_	_	13	obl	_	SpaceAfter=No
+8	呢	呢	PART	_	_	7	discourse:sp	_	SpaceAfter=No
+9	，	，	PUNCT	_	_	7	punct	_	SpaceAfter=No
+10	我	我	PRON	_	_	13	nsubj	_	SpaceAfter=No
+11	祇	祇	ADV	_	_	13	advmod	_	SpaceAfter=No
+12	能夠	能夠	AUX	_	_	13	aux	_	SpaceAfter=No
+13	係	係	VERB	_	_	0	root	_	SpaceAfter=No
+14	根據	根據	ADP	_	_	17	case	_	SpaceAfter=No
+15	嗰個	嗰個	DET	_	_	17	det	_	SpaceAfter=No
+16	會議	會議	NOUN	_	_	17	compound	_	SpaceAfter=No
+17	規則	規則	NOUN	_	_	18	obl	_	SpaceAfter=No
+18	進行	進行	VERB	_	_	13	ccomp	_	SpaceAfter=No
+19	嗰個	嗰個	DET	_	_	20	det	_	SpaceAfter=No
+20	程序	程序	NOUN	_	_	13	ccomp	_	SpaceAfter=No
+21	嘅	嘅	PART	_	_	13	discourse:sp	_	SpaceAfter=No
+22	唧	唧	PART	_	_	13	discourse:sp	_	SpaceAfter=No
+23	。	。	PUNCT	_	_	13	punct	_	SpaceAfter=No
 
 ~~~
 

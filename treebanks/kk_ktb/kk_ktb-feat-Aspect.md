@@ -12,20 +12,20 @@ It occurs with 3 different values: `Hab`, `Imp`, `Perf`.
 840 tokens (8%) have a non-empty value of `Aspect`.
 458 types (10%) occur at least once with a non-empty value of `Aspect`.
 259 lemmas (11%) occur at least once with a non-empty value of `Aspect`.
-The feature is used with 2 part-of-speech tags: <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt> (704; 7% instances), <tt><a href="kk_ktb-pos-AUX.html">AUX</a></tt> (136; 1% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt> (714; 7% instances), <tt><a href="kk_ktb-pos-AUX.html">AUX</a></tt> (126; 1% instances).
 
 ### `VERB`
 
-704 <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt> tokens (44% of all `VERB` tokens) have a non-empty value of `Aspect`.
+714 <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt> tokens (43% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="kk_ktb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (699; 99%), <tt><a href="kk_ktb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (607; 86%), <tt><a href="kk_ktb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (432; 61%), <tt><a href="kk_ktb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (432; 61%), <tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (432; 61%), <tt><a href="kk_ktb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (432; 61%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="kk_ktb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (709; 99%), <tt><a href="kk_ktb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (617; 86%), <tt><a href="kk_ktb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (434; 61%), <tt><a href="kk_ktb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (434; 61%), <tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (434; 61%), <tt><a href="kk_ktb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (434; 61%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
-* `Hab` (272; 39% of non-empty `Aspect`): <em>біледі, береді, болады, табылады, түседі, тұрады, көрінеді, дейді, келеді, келмейді</em>
-* `Imp` (106; 15% of non-empty `Aspect`): <em>дами, бара, ала, отыра, араласа, арта, бере, жейтін, жете, келе</em>
-* `Perf` (326; 46% of non-empty `Aspect`): <em>деп, алып, бастап, басып, барып, беріп, шығып, қарап, Сөйтіп, жоспарланып</em>
-* `EMPTY` (883): <em>деді, болды, келді, болған, өтті, келген, шықты, алды, ашылды, болыпты</em>
+* `Hab` (280; 39% of non-empty `Aspect`): <em>біледі, береді, түседі, тұрады, болады, табылады, кетеді, көрінеді, дейді, келеді</em>
+* `Imp` (107; 15% of non-empty `Aspect`): <em>бара, дами, ала, отыра, араласа, арта, бере, жейтін, жете, келе</em>
+* `Perf` (327; 46% of non-empty `Aspect`): <em>деп, алып, бастап, басып, барып, беріп, шығып, қарап, Сөйтіп, жоспарланып</em>
+* `EMPTY` (929): <em>бастады, кетті, деді, болды, келді, шықты, өтті, болған, келген, алды</em>
 
 <table>
   <tr><th>Paradigm <i>де</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th><th><tt>Hab</tt></th></tr>
@@ -39,16 +39,16 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 ### `AUX`
 
-136 <tt><a href="kk_ktb-pos-AUX.html">AUX</a></tt> tokens (33% of all `AUX` tokens) have a non-empty value of `Aspect`.
+126 <tt><a href="kk_ktb-pos-AUX.html">AUX</a></tt> tokens (35% of all `AUX` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="kk_ktb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (134; 99%), <tt><a href="kk_ktb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (82; 60%), <tt><a href="kk_ktb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (82; 60%), <tt><a href="kk_ktb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (82; 60%), <tt><a href="kk_ktb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (77; 57%).
+The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="kk_ktb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (124; 98%), <tt><a href="kk_ktb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (104; 83%), <tt><a href="kk_ktb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (74; 59%), <tt><a href="kk_ktb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (74; 59%), <tt><a href="kk_ktb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (74; 59%), <tt><a href="kk_ktb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (69; 55%).
 
 `AUX` tokens may have the following values of `Aspect`:
 
-* `Hab` (82; 60% of non-empty `Aspect`): <em>емес, келеді, екен, болады, мын, алмайды, береді, кетеді, тұрады, қалады</em>
-* `Imp` (17; 13% of non-empty `Aspect`): <em>бола, келе, алатынына, алмай, алмайтындай, бара, болатын, болатыны, отыра, отыратын</em>
-* `Perf` (37; 27% of non-empty `Aspect`): <em>болып, алмай, алып, боп, жіберіп, жүріп, отырып, тұрып</em>
-* `EMPTY` (281): <em>болды, еді, жатыр, бастады, кетті, отыр, қалды, болған, жатқан, алды</em>
+* `Hab` (74; 59% of non-empty `Aspect`): <em>емес, келеді, екен, болады, мын, алмайды, береді, қалады, аласыз, алмаймын</em>
+* `Imp` (16; 13% of non-empty `Aspect`): <em>бола, келе, алатынына, алмай, алмайтындай, болатын, болатыны, отыра, отыратын, тұра</em>
+* `Perf` (36; 29% of non-empty `Aspect`): <em>болып, алмай, алып, боп, жүріп, отырып, тұрып</em>
+* `EMPTY` (235): <em>болды, еді, жатыр, отыр, болған, жатқан, қалды, алды, екенін, болса</em>
 
 <table>
   <tr><th>Paradigm <i>бол</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th><th><tt>Hab</tt></th></tr>
@@ -62,5 +62,6 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 ## Relations with Agreement in `Aspect`
 
 The 10 most frequent relations where parent and child node agree in `Aspect`:
-<tt>VERB --[<tt><a href="kk_ktb-dep-conj.html">conj</a></tt>]--> VERB</tt> (28; 74%).
+<tt>VERB --[<tt><a href="kk_ktb-dep-conj.html">conj</a></tt>]--> VERB</tt> (27; 73%),
+<tt>VERB --[<tt><a href="kk_ktb-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (10; 53%).
 

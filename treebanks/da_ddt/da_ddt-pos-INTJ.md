@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Danish-DDT: POS Tags: `INTJ`
 
-There are 29 `INTJ` lemmas (0%), 29 `INTJ` types (0%) and 95 `INTJ` tokens (0%).
+There are 28 `INTJ` lemmas (0%), 28 `INTJ` types (0%) and 94 `INTJ` tokens (0%).
 Out of 17 observed tags, the rank of `INTJ` is: 11 in number of lemmas, 13 in number of types and 16 in number of tokens.
 
 The 10 most frequent `INTJ` lemmas: <em>ja, nej, jo, åh, hej, ih, javel, la, øv, Guuud</em>
@@ -37,7 +37,7 @@ The 10 most frequent ambiguous types:  <em>ja</em> (<tt><a href="da_ddt-pos-INTJ
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.355946).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.355884).
 
 The 1st highest number of forms (1) was observed with the lemma “Guuud”: <em>Guuud</em>.
 
@@ -50,21 +50,21 @@ The 3rd highest number of forms (1) was observed with the lemma “bom”: <em>B
 
 ## Relations
 
-`INTJ` nodes are attached to their parents using 6 different relations: <tt><a href="da_ddt-dep-root.html">root</a></tt> (43; 45% instances), <tt><a href="da_ddt-dep-discourse.html">discourse</a></tt> (32; 34% instances), <tt><a href="da_ddt-dep-conj.html">conj</a></tt> (15; 16% instances), <tt><a href="da_ddt-dep-list.html">list</a></tt> (3; 3% instances), <tt><a href="da_ddt-dep-cc.html">cc</a></tt> (1; 1% instances), <tt><a href="da_ddt-dep-obj.html">obj</a></tt> (1; 1% instances)
+`INTJ` nodes are attached to their parents using 5 different relations: <tt><a href="da_ddt-dep-root.html">root</a></tt> (43; 46% instances), <tt><a href="da_ddt-dep-discourse.html">discourse</a></tt> (32; 34% instances), <tt><a href="da_ddt-dep-conj.html">conj</a></tt> (15; 16% instances), <tt><a href="da_ddt-dep-list.html">list</a></tt> (3; 3% instances), <tt><a href="da_ddt-dep-obj.html">obj</a></tt> (1; 1% instances)
 
-Parents of `INTJ` nodes belong to 9 different parts of speech:  (43; 45% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt> (29; 31% instances), <tt><a href="da_ddt-pos-INTJ.html">INTJ</a></tt> (9; 9% instances), <tt><a href="da_ddt-pos-ADV.html">ADV</a></tt> (5; 5% instances), <tt><a href="da_ddt-pos-PROPN.html">PROPN</a></tt> (3; 3% instances), <tt><a href="da_ddt-pos-ADP.html">ADP</a></tt> (2; 2% instances), <tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="da_ddt-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances)
+Parents of `INTJ` nodes belong to 9 different parts of speech:  (43; 46% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt> (29; 31% instances), <tt><a href="da_ddt-pos-INTJ.html">INTJ</a></tt> (9; 10% instances), <tt><a href="da_ddt-pos-ADV.html">ADV</a></tt> (4; 4% instances), <tt><a href="da_ddt-pos-PROPN.html">PROPN</a></tt> (4; 4% instances), <tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="da_ddt-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="da_ddt-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances)
 
 7 (7%) `INTJ` nodes are leaves.
 
-12 (13%) `INTJ` nodes have one child.
+9 (10%) `INTJ` nodes have one child.
 
-31 (33%) `INTJ` nodes have two children.
+32 (34%) `INTJ` nodes have two children.
 
-45 (47%) `INTJ` nodes have three or more children.
+46 (49%) `INTJ` nodes have three or more children.
 
-The highest child degree of a `INTJ` node is 4.
+The highest child degree of a `INTJ` node is 6.
 
-Children of `INTJ` nodes are attached using 11 different relations: <tt><a href="da_ddt-dep-punct.html">punct</a></tt> (128; 59% instances), <tt><a href="da_ddt-dep-conj.html">conj</a></tt> (63; 29% instances), <tt><a href="da_ddt-dep-nmod.html">nmod</a></tt> (9; 4% instances), <tt><a href="da_ddt-dep-cc.html">cc</a></tt> (4; 2% instances), <tt><a href="da_ddt-dep-list.html">list</a></tt> (3; 1% instances), <tt><a href="da_ddt-dep-advmod.html">advmod</a></tt> (2; 1% instances), <tt><a href="da_ddt-dep-dep.html">dep</a></tt> (2; 1% instances), <tt><a href="da_ddt-dep-mark.html">mark</a></tt> (2; 1% instances), <tt><a href="da_ddt-dep-vocative.html">vocative</a></tt> (2; 1% instances), <tt><a href="da_ddt-dep-discourse.html">discourse</a></tt> (1; 0% instances), <tt><a href="da_ddt-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
+Children of `INTJ` nodes are attached using 11 different relations: <tt><a href="da_ddt-dep-punct.html">punct</a></tt> (139; 61% instances), <tt><a href="da_ddt-dep-conj.html">conj</a></tt> (62; 27% instances), <tt><a href="da_ddt-dep-nmod.html">nmod</a></tt> (9; 4% instances), <tt><a href="da_ddt-dep-cc.html">cc</a></tt> (4; 2% instances), <tt><a href="da_ddt-dep-list.html">list</a></tt> (3; 1% instances), <tt><a href="da_ddt-dep-advmod.html">advmod</a></tt> (2; 1% instances), <tt><a href="da_ddt-dep-dep.html">dep</a></tt> (2; 1% instances), <tt><a href="da_ddt-dep-mark.html">mark</a></tt> (2; 1% instances), <tt><a href="da_ddt-dep-vocative.html">vocative</a></tt> (2; 1% instances), <tt><a href="da_ddt-dep-discourse.html">discourse</a></tt> (1; 0% instances), <tt><a href="da_ddt-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
-Children of `INTJ` nodes belong to 10 different parts of speech: <tt><a href="da_ddt-pos-PUNCT.html">PUNCT</a></tt> (128; 59% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt> (39; 18% instances), <tt><a href="da_ddt-pos-ADV.html">ADV</a></tt> (9; 4% instances), <tt><a href="da_ddt-pos-INTJ.html">INTJ</a></tt> (9; 4% instances), <tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt> (8; 4% instances), <tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> (8; 4% instances), <tt><a href="da_ddt-pos-CCONJ.html">CCONJ</a></tt> (6; 3% instances), <tt><a href="da_ddt-pos-PROPN.html">PROPN</a></tt> (6; 3% instances), <tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="da_ddt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Children of `INTJ` nodes belong to 10 different parts of speech: <tt><a href="da_ddt-pos-PUNCT.html">PUNCT</a></tt> (139; 61% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt> (39; 17% instances), <tt><a href="da_ddt-pos-ADV.html">ADV</a></tt> (9; 4% instances), <tt><a href="da_ddt-pos-INTJ.html">INTJ</a></tt> (9; 4% instances), <tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt> (8; 4% instances), <tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> (8; 4% instances), <tt><a href="da_ddt-pos-CCONJ.html">CCONJ</a></tt> (6; 3% instances), <tt><a href="da_ddt-pos-PROPN.html">PROPN</a></tt> (5; 2% instances), <tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="da_ddt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 

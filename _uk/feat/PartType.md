@@ -25,4 +25,4 @@ that the particle is a conjunction.)
 * _Бо коли чоловік робить лише добрі діла, <b>то</b> його писання теж є ділом на пожиток людям.&nbsp;_
   “For when a man does only good deeds, <b>(then)</b> his writing is also a work for the benefit of people.”
 
-<!-- Interlanguage links updated So kvě 14 19:02:29 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:53 CET 2022 -->

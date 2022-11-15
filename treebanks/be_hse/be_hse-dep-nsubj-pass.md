@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Belarusian-HSE: Relations: `nsubj:pass`
 
 This relation is a language-specific subtype of <tt><a href="be_hse-dep-nsubj.html">nsubj</a></tt>.
+There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="be_hse-dep-nsubj-outer.html">nsubj:outer</a></tt>.
 
 998 nodes (0%) are attached to their parents as `nsubj:pass`.
 

@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="orv_birchbark-dep-aux-pass.html">aux:pass</a></tt>.
 
-269 nodes (1%) are attached to their parents as `aux`.
+272 nodes (1%) are attached to their parents as `aux`.
 
-150 instances of `aux` (56%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.55390334572491.
+152 instances of `aux` (56%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.55514705882353.
 
-The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> (259; 96% instances), <tt><a href="orv_birchbark-pos-X.html">X</a></tt>-<tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> (7; 3% instances), <tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> (262; 96% instances), <tt><a href="orv_birchbark-pos-X.html">X</a></tt>-<tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> (7; 3% instances), <tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

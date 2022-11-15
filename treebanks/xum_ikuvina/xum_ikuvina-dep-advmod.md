@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-23 nodes (4%) are attached to their parents as `advmod`.
+33 nodes (4%) are attached to their parents as `advmod`.
 
-23 instances of `advmod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.8695652173913.
+30 instances of `advmod` (91%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.72727272727273.
 
-The following 1 pairs of parts of speech are connected with `advmod`: <tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt>-<tt><a href="xum_ikuvina-pos-ADV.html">ADV</a></tt> (23; 100% instances).
+The following 2 pairs of parts of speech are connected with `advmod`: <tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt>-<tt><a href="xum_ikuvina-pos-ADV.html">ADV</a></tt> (31; 94% instances), <tt><a href="xum_ikuvina-pos-PRON.html">PRON</a></tt>-<tt><a href="xum_ikuvina-pos-ADV.html">ADV</a></tt> (2; 6% instances).
 
 
 ~~~ conllu
@@ -26,6 +26,27 @@ The following 1 pairs of parts of speech are connected with `advmod`: <tt><a hre
 2	vestiçam	_	NOUN	_	_	4	obj	_	_
 3	preve	_	ADV	_	_	4	advmod	_	_
 4	fiktu	_	VERB	2SImF	_	0	root	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 advmod	color:blue
+1	ařfertur	_	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
+2	pisi	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing	1	acl	_	_
+3	pumpe	_	ADV	_	_	2	advmod	_	_
+4	fust	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut	2	cop	_	_
+5	eikvases	_	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	11	obl	_	_
+6	e	_	ADP	_	_	5	case	_	_
+7	atiieřier	_	ADJ	_	Case=Loc|Gender=Fem|Number=Plur	5	amod	_	_
+8	ere	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing	11	expl	_	_
+9	ri	_	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	11	obl	_	_
+10	esune	_	ADJ	_	Case=Dat|Gender=Fem|Number=Sing	9	amod	_	_
+11	kuraia	_	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 
 ~~~
 

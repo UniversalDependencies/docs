@@ -11,7 +11,7 @@ This relation is universal.
 54 nodes (1%) are attached to their parents as `discourse`.
 
 33 instances of `discourse` (61%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.14814814814815.
+Average distance between parent and child is 2.12962962962963.
 
 The following 12 pairs of parts of speech are connected with `discourse`: <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt>-<tt><a href="kk_ktb-pos-PART.html">PART</a></tt> (18; 33% instances), <tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kk_ktb-pos-PART.html">PART</a></tt> (10; 19% instances), <tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kk_ktb-pos-INTJ.html">INTJ</a></tt> (7; 13% instances), <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt>-<tt><a href="kk_ktb-pos-INTJ.html">INTJ</a></tt> (7; 13% instances), <tt><a href="kk_ktb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kk_ktb-pos-PART.html">PART</a></tt> (3; 6% instances), <tt><a href="kk_ktb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kk_ktb-pos-INTJ.html">INTJ</a></tt> (2; 4% instances), <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt>-<tt><a href="kk_ktb-pos-ADV.html">ADV</a></tt> (2; 4% instances), <tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kk_ktb-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="kk_ktb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kk_ktb-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="kk_ktb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kk_ktb-pos-PART.html">PART</a></tt> (1; 2% instances), <tt><a href="kk_ktb-pos-PRON.html">PRON</a></tt>-<tt><a href="kk_ktb-pos-INTJ.html">INTJ</a></tt> (1; 2% instances), <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt>-<tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt> (1; 2% instances).
 
@@ -43,13 +43,13 @@ The following 12 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 discourse	color:blue
-1	Осында	осы	PRON	prn	Case=Loc|PronType=Dem	6	advmod	_	_
+1	Осында	осы	PRON	prn	Case=Loc|PronType=Dem	6	obl	_	_
 2	орыс	орыс	NOUN	n	Case=Nom	3	nmod:poss	_	_
 3	тілінде	тіл	NOUN	n	Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3	4	obl	_	_
 4	сөйлейтін	сөйле	VERB	v	Aspect=Imp|VerbForm=Part	5	acl	_	_
 5	адам	адам	NOUN	n	Case=Nom	6	nsubj	_	_
 6	бар	бар	ADJ	adj	_	0	root	_	_
-7	ма	ма	PART	qst	_	6	discourse	_	_
+7	ма	ма	PART	qst	_	6	discourse	_	SpaceAfter=No
 8	?	?	PUNCT	sent	_	6	punct	_	_
 
 ~~~

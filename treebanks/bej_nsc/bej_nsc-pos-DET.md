@@ -53,17 +53,11 @@ Examples: <em>=b</em>
 
 ## Relations
 
-`DET` nodes are attached to their parents using 2 different relations: <tt><a href="bej_nsc-dep-det.html">det</a></tt> (118; 96% instances), <tt><a href="bej_nsc-dep-fixed.html">fixed</a></tt> (5; 4% instances)
+`DET` nodes are attached to their parents using 3 different relations: <tt><a href="bej_nsc-dep-det.html">det</a></tt> (117; 95% instances), <tt><a href="bej_nsc-dep-fixed.html">fixed</a></tt> (5; 4% instances), <tt><a href="bej_nsc-dep-reparandum.html">reparandum</a></tt> (1; 1% instances)
 
-Parents of `DET` nodes belong to 7 different parts of speech: <tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt> (87; 71% instances), <tt><a href="bej_nsc-pos-VERB.html">VERB</a></tt> (18; 15% instances), <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> (7; 6% instances), <tt><a href="bej_nsc-pos-SCONJ.html">SCONJ</a></tt> (5; 4% instances), <tt><a href="bej_nsc-pos-ADJ.html">ADJ</a></tt> (4; 3% instances), <tt><a href="bej_nsc-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="bej_nsc-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
+Parents of `DET` nodes belong to 8 different parts of speech: <tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt> (87; 71% instances), <tt><a href="bej_nsc-pos-VERB.html">VERB</a></tt> (18; 15% instances), <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> (6; 5% instances), <tt><a href="bej_nsc-pos-SCONJ.html">SCONJ</a></tt> (5; 4% instances), <tt><a href="bej_nsc-pos-ADJ.html">ADJ</a></tt> (4; 3% instances), <tt><a href="bej_nsc-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="bej_nsc-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="bej_nsc-pos-X.html">X</a></tt> (1; 1% instances)
 
-122 (99%) `DET` nodes are leaves.
+123 (100%) `DET` nodes are leaves.
 
-1 (1%) `DET` nodes have one child.
-
-The highest child degree of a `DET` node is 1.
-
-Children of `DET` nodes are attached using 1 different relations: <tt><a href="bej_nsc-dep-reparandum.html">reparandum</a></tt> (1; 100% instances)
-
-Children of `DET` nodes belong to 1 different parts of speech: <tt><a href="bej_nsc-pos-X.html">X</a></tt> (1; 100% instances)
+The highest child degree of a `DET` node is 0.
 

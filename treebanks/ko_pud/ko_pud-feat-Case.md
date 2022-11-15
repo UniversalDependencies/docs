@@ -12,7 +12,7 @@ It occurs with 3 different values: `Acc`, `Gen`, `Nom`.
 3187 tokens (19%) have a non-empty value of `Case`.
 2070 types (25%) occur at least once with a non-empty value of `Case`.
 1616 lemmas (62%) occur at least once with a non-empty value of `Case`.
-The feature is used with 7 part-of-speech tags: <tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> (2260; 14% instances), <tt><a href="ko_pud-pos-PROPN.html">PROPN</a></tt> (440; 3% instances), <tt><a href="ko_pud-pos-PRON.html">PRON</a></tt> (309; 2% instances), <tt><a href="ko_pud-pos-PART.html">PART</a></tt> (167; 1% instances), <tt><a href="ko_pud-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="ko_pud-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="ko_pud-pos-DET.html">DET</a></tt> (1; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> (2260; 14% instances), <tt><a href="ko_pud-pos-PROPN.html">PROPN</a></tt> (440; 3% instances), <tt><a href="ko_pud-pos-PRON.html">PRON</a></tt> (309; 2% instances), <tt><a href="ko_pud-pos-PART.html">PART</a></tt> (166; 1% instances), <tt><a href="ko_pud-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="ko_pud-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="ko_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ko_pud-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -25,7 +25,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 * `Acc` (894; 40% of non-empty `Case`): 것을, 영향을, 모습을, 일을, 걸, 역할을, %를, 강을, 승리를, 시간을
 * `Gen` (395; 17% of non-empty `Case`): 지역의, 명의, 개의, 다수의, 사이의, 시대의, 최고의, 최초의, 국가의, 사람들의
 * `Nom` (971; 43% of non-empty `Case`): 것이, 것은, 정부는, 명이, 사람들이, 사람이, 경찰은, 이유는, 가능성이, 게
-* `EMPTY` (5822): 년, 수, 것, 중, 월, 후, 말했다, 일, 때문에, 인해
+* `EMPTY` (5792): 년, 수, 것, 중, 월, 후, 말했다, 일, 때문에, 인해
 
 <table>
   <tr><th>Paradigm <i>지역</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Gen</tt></th></tr>
@@ -43,7 +43,7 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 * `Acc` (56; 13% of non-empty `Case`): 남극을, 모라비아를, 영국을, 지중해를, 테르모필레를, Medal를, 광저우를, 그리스를, 대서양을, 독일을
 * `Gen` (143; 33% of non-empty `Case`): 중국의, 영국의, 마케도니아의, 유럽의, 태국의, 히치콕의, 더피의, 도스의, 러시아의, 로마의
 * `Nom` (241; 55% of non-empty `Case`): 미시마는, 블런트는, 스탈린은, 심괄은, 윈스턴은, 프랑스는, 가이어는, 그리스는, 디즈니는, 라이트는
-* `EMPTY` (1236): 미국, 영국, 중국, 유럽, 지중해, 트럼프, 프랑스, 그리스, 독일, 도널드
+* `EMPTY` (1237): 미국, 영국, 중국, 유럽, 지중해, 트럼프, 프랑스, 그리스, 독일, 도널드
 
 <table>
   <tr><th>Paradigm <i>중국</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Gen</tt></th></tr>
@@ -70,16 +70,16 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 ### `PART`
 
-167 <tt><a href="ko_pud-pos-PART.html">PART</a></tt> tokens (34% of all `PART` tokens) have a non-empty value of `Case`.
+166 <tt><a href="ko_pud-pos-PART.html">PART</a></tt> tokens (35% of all `PART` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PART` and `Case` co-occurred: <tt><a href="ko_pud-feat-Polite.html">Polite</a></tt><tt>=Form</tt> (167; 100%), <tt><a href="ko_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (158; 95%).
+The most frequent other feature values with which `PART` and `Case` co-occurred: <tt><a href="ko_pud-feat-Polite.html">Polite</a></tt><tt>=Form</tt> (166; 100%), <tt><a href="ko_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (158; 95%).
 
 `PART` tokens may have the following values of `Case`:
 
-* `Acc` (30; 18% of non-empty `Case`): 를, 을, 있음을, 나뉘어졌는가를, 되기를, 말고를, 주기를
-* `Gen` (44; 26% of non-empty `Case`): 의
+* `Acc` (29; 17% of non-empty `Case`): 를, 을, 있음을, 나뉘어졌는가를, 되기를, 말고를, 주기를
+* `Gen` (44; 27% of non-empty `Case`): 의
 * `Nom` (93; 56% of non-empty `Case`): 는, 가, 은, 이, 됨은, 솟구침이
-* `EMPTY` (329): 는, 고, 에, 도, 라고, 와, 에서, 과, 로, 만
+* `EMPTY` (312): 는, 고, 에, 도, 라고, 와, 에서, 과, 로, 만
 
 `Case` seems to be **lexical feature** of `PART`. 100% lemmas (14) occur only with one value of `Case`.
 
@@ -93,7 +93,7 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 * `Acc` (2; 40% of non-empty `Case`): 쌀쌀한지를, 있기를
 * `Nom` (3; 60% of non-empty `Case`): 놀랍기는, 심각함은, 있을지는
-* `EMPTY` (638): 있는, 있다, 같은, 새로운, 큰, 많은, 이러한, 있었다, 없는, 높은
+* `EMPTY` (624): 있는, 있다, 같은, 새로운, 큰, 많은, 이러한, 있었다, 없는, 높은
 
 ### `NUM`
 
@@ -112,6 +112,17 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
   <tr><td><tt></tt></td><td>하나는</td><td>하나를</td></tr>
 </table>
 
+### `AUX`
+
+1 <tt><a href="ko_pud-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Case`.
+
+The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="ko_pud-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ko_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ko_pud-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ko_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt> (1; 100%).
+
+`AUX` tokens may have the following values of `Case`:
+
+* `Acc` (1; 100% of non-empty `Case`): 있음을
+* `EMPTY` (662): 인, 이다, 이었다, 이라, 였다, 있다, 있는, 이며, 일, 라
+
 ### `DET`
 
 1 <tt><a href="ko_pud-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Case`.
@@ -119,5 +130,5 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 `DET` tokens may have the following values of `Case`:
 
 * `Acc` (1; 100% of non-empty `Case`): 있는가를
-* `EMPTY` (464): 그, 이, 두, 한, 다른, 여러, 모든, 만, 몇, 세
+* `EMPTY` (463): 그, 이, 두, 한, 다른, 여러, 모든, 만, 몇, 세
 

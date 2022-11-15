@@ -53,7 +53,7 @@ The following 6 pairs of parts of speech are connected with `dep`: <tt><a href="
 11	e	é	PRON	pers	Number=Sing|Person=2|PronType=Emp	13	nsubj	_	Gloss=2SG.EMPH
 12	bè	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	13	aux	_	Gloss=IPFV.AFF
 13	taga	tága	VERB	v	_	4	parataxis:obj	_	Gloss=aller
-14	min	mín	PRON	prn	_	13	advmod	_	Gloss=où|SpaceAfter=No
+14	min	mín	ADV	prn	PronType=Int	13	advmod	_	Gloss=où|SpaceAfter=No
 15	?	?	PUNCT	_	_	4	punct	_	Gloss=?
 
 ~~~

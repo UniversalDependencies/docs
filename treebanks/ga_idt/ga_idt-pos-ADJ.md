@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>maith</em> (<tt><a href="ga_idt-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.390902 (the average of all parts of speech is 1.643911).
+The form / lemma ratio of `ADJ` is 1.390902 (the average of all parts of speech is 1.643807).
 
 The 1st highest number of forms (10) was observed with the lemma “mór”: <em>Móir, Móire, mhó, mhóir, mhór, mhóra, mó, móide, mór, móra</em>.
 

@@ -11,9 +11,9 @@ This relation is universal.
 5512 nodes (5%) are attached to their parents as `root`.
 
 5512 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.69956458635704.
+Average distance between parent and child is 5.66600145137881.
 
-The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="da_ddt-pos-VERB.html">VERB</a></tt> (3928; 71% instances), -<tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt> (734; 13% instances), -<tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt> (407; 7% instances), -<tt><a href="da_ddt-pos-ADV.html">ADV</a></tt> (155; 3% instances), -<tt><a href="da_ddt-pos-PROPN.html">PROPN</a></tt> (93; 2% instances), -<tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> (54; 1% instances), -<tt><a href="da_ddt-pos-INTJ.html">INTJ</a></tt> (43; 1% instances), -<tt><a href="da_ddt-pos-CCONJ.html">CCONJ</a></tt> (29; 1% instances), -<tt><a href="da_ddt-pos-NUM.html">NUM</a></tt> (29; 1% instances), -<tt><a href="da_ddt-pos-X.html">X</a></tt> (21; 0% instances), -<tt><a href="da_ddt-pos-ADP.html">ADP</a></tt> (12; 0% instances), -<tt><a href="da_ddt-pos-SYM.html">SYM</a></tt> (4; 0% instances), -<tt><a href="da_ddt-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances).
+The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="da_ddt-pos-VERB.html">VERB</a></tt> (3992; 72% instances), -<tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt> (704; 13% instances), -<tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt> (381; 7% instances), -<tt><a href="da_ddt-pos-ADV.html">ADV</a></tt> (148; 3% instances), -<tt><a href="da_ddt-pos-PROPN.html">PROPN</a></tt> (92; 2% instances), -<tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> (54; 1% instances), -<tt><a href="da_ddt-pos-INTJ.html">INTJ</a></tt> (43; 1% instances), -<tt><a href="da_ddt-pos-CCONJ.html">CCONJ</a></tt> (29; 1% instances), -<tt><a href="da_ddt-pos-NUM.html">NUM</a></tt> (28; 1% instances), -<tt><a href="da_ddt-pos-X.html">X</a></tt> (22; 0% instances), -<tt><a href="da_ddt-pos-ADP.html">ADP</a></tt> (12; 0% instances), -<tt><a href="da_ddt-pos-SYM.html">SYM</a></tt> (4; 0% instances), -<tt><a href="da_ddt-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances).
 
 
 ~~~ conllu
@@ -61,7 +61,7 @@ The following 13 pairs of parts of speech are connected with `root`: -<tt><a hre
 3	er	være	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
 4	ikke	ikke	ADV	_	_	5	advmod	_	_
 5	overdrevet	overdrevet	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	0	root	_	SpaceAfter=No
-6	,	,	PUNCT	_	_	5	punct	_	_
+6	,	,	PUNCT	_	_	9	punct	_	_
 7	hvis	hvis	SCONJ	_	_	9	mark	_	_
 8	telefonen	telefon	NOUN	_	Definite=Def|Gender=Com|Number=Sing	9	nsubj	_	_
 9	ringer	ringe	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	5	acl:relcl	_	_

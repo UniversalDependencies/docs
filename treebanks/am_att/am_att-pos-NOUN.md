@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Amharic-ATT: POS Tags: `NOUN`
 
-There are 590 `NOUN` lemmas (36%), 590 `NOUN` types (36%) and 1486 `NOUN` tokens (15%).
-Out of 15 observed tags, the rank of `NOUN` is: 2 in number of lemmas, 2 in number of types and 3 in number of tokens.
+There are 590 `NOUN` lemmas (37%), 590 `NOUN` types (36%) and 1486 `NOUN` tokens (15%).
+Out of 16 observed tags, the rank of `NOUN` is: 2 in number of lemmas, 2 in number of types and 3 in number of tokens.
 
 The 10 most frequent `NOUN` lemmas: ቤት, ልጅ, ገንዘብ, ልብስ, ጊዜ, ልጆች, ሰው, አስተማሪ, መጽሐፍ, መኪና
 
 The 10 most frequent `NOUN` types:  ቤት, ልጅ, ገንዘብ, ልብስ, ጊዜ, ልጆች, ሰው, አስተማሪ, መጽሐፍ, መኪና
 
-The 10 most frequent ambiguous lemmas: መምጣት (<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> 12, <tt><a href="am_att-pos-VERB.html">VERB</a></tt> 4), ጎንደር (<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> 10, <tt><a href="am_att-pos-PROPN.html">PROPN</a></tt> 3), መሆን (<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> 7, <tt><a href="am_att-pos-VERB.html">VERB</a></tt> 1), ነገር (<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> 7, <tt><a href="am_att-pos-VERB.html">VERB</a></tt> 6, <tt><a href="am_att-pos-CCONJ.html">CCONJ</a></tt> 1), ጠላ (<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="am_att-pos-VERB.html">VERB</a></tt> 4), ፊት (<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="am_att-pos-ADP.html">ADP</a></tt> 1), ሞት (<tt><a href="am_att-pos-VERB.html">VERB</a></tt> 6, <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> 4), ሁል (<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="am_att-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="am_att-pos-PRON.html">PRON</a></tt> 1), ምክንያት (<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="am_att-pos-ADP.html">ADP</a></tt> 1, <tt><a href="am_att-pos-SCONJ.html">SCONJ</a></tt> 1), ቁጥር (<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="am_att-pos-ADV.html">ADV</a></tt> 1)
+The 10 most frequent ambiguous lemmas: መምጣት (<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> 12, <tt><a href="am_att-pos-VERB.html">VERB</a></tt> 4), ጎንደር (<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> 10, <tt><a href="am_att-pos-PROPN.html">PROPN</a></tt> 3), መሆን (<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> 7, <tt><a href="am_att-pos-VERB.html">VERB</a></tt> 1), ነገር (<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> 7, <tt><a href="am_att-pos-VERB.html">VERB</a></tt> 6), ጠላ (<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="am_att-pos-VERB.html">VERB</a></tt> 4), ፊት (<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="am_att-pos-ADP.html">ADP</a></tt> 1), ሞት (<tt><a href="am_att-pos-VERB.html">VERB</a></tt> 6, <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> 4), ሁል (<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="am_att-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="am_att-pos-PRON.html">PRON</a></tt> 1), ምክንያት (<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="am_att-pos-ADP.html">ADP</a></tt> 1, <tt><a href="am_att-pos-SCONJ.html">SCONJ</a></tt> 1), ቁጥር (<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="am_att-pos-ADV.html">ADV</a></tt> 1)
 
 The 10 most frequent ambiguous types:  መምጣት (<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> 12, <tt><a href="am_att-pos-VERB.html">VERB</a></tt> 4), ጎንደር (<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> 10, <tt><a href="am_att-pos-PROPN.html">PROPN</a></tt> 3), መሆን (<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> 7, <tt><a href="am_att-pos-VERB.html">VERB</a></tt> 1), ነገር (<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> 7, <tt><a href="am_att-pos-VERB.html">VERB</a></tt> 6, <tt><a href="am_att-pos-CCONJ.html">CCONJ</a></tt> 1), ጠላ (<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="am_att-pos-VERB.html">VERB</a></tt> 4), ፊት (<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="am_att-pos-ADP.html">ADP</a></tt> 1), ሞት (<tt><a href="am_att-pos-VERB.html">VERB</a></tt> 6, <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> 4), ሁል (<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="am_att-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="am_att-pos-PRON.html">PRON</a></tt> 1), ምክንያት (<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="am_att-pos-ADP.html">ADP</a></tt> 1, <tt><a href="am_att-pos-SCONJ.html">SCONJ</a></tt> 1), ቁጥር (<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="am_att-pos-ADV.html">ADV</a></tt> 1)
 
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  መምጣት (<tt><a href="am_att-pos-NOU
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 1.000000 (the average of all parts of speech is 1.000000).
+The form / lemma ratio of `NOUN` is 1.000000 (the average of all parts of speech is 1.029841).
 
 The 1st highest number of forms (1) was observed with the lemma “ሀምሌት”: ሀምሌት.
 

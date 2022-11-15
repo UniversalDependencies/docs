@@ -11,14 +11,14 @@ It occurs with 4 different values: `Fut`, `Past`, `Pqp`, `Pres`.
 
 37122 tokens (8%) have a non-empty value of `Tense`.
 5043 types (26%) occur at least once with a non-empty value of `Tense`.
-1169 lemmas (20%) occur at least once with a non-empty value of `Tense`.
+1170 lemmas (20%) occur at least once with a non-empty value of `Tense`.
 The feature is used with 1 part-of-speech tags: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (37122; 8% instances).
 
 ### `VERB`
 
 37122 <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> tokens (62% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (37122; 100%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (37122; 100%), <tt><a href="la_ittb-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=EMPTY</tt> (37122; 100%), <tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (37122; 100%), <tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=3</tt> (35205; 95%), <tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (34925; 94%), <tt><a href="la_ittb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (30195; 81%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (29443; 79%), <tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (24225; 65%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (37122; 100%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (37122; 100%), <tt><a href="la_ittb-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=EMPTY</tt> (37122; 100%), <tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (37122; 100%), <tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=3</tt> (35205; 95%), <tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (34925; 94%), <tt><a href="la_ittb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (30195; 81%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (29443; 79%), <tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (24227; 65%).
 
 `VERB` tokens may have the following values of `Tense`:
 
@@ -26,7 +26,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 * `Past` (3946; 11% of non-empty `Tense`): <em>posset, dixit, posuerunt, sequeretur, oportuit, dedit, posuit, dicebant, dixerunt, haberet</em>
 * `Pqp` (157; 0% of non-empty `Tense`): <em>dixerat, fecerat, accepisset, assumpsisset, dixisset, habuisset, oportuisset, praemiserat, praeextitisset, acceperat</em>
 * `Pres` (31811; 86% of non-empty `Tense`): <em>potest, oportet, dicitur, habet, patet, dicit, uidetur, fit, possunt, habent</em>
-* `EMPTY` (22702): <em>ostensum, dicendum, intelligere, dictum, dici, fieri, habere, mouens, separatae, facere</em>
+* `EMPTY` (22703): <em>ostensum, dicendum, intelligere, dictum, dici, fieri, habere, mouens, separatae, facere</em>
 
 <table>
   <tr><th>Paradigm <i>dico</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th><th><tt>Pqp</tt></th></tr>
@@ -61,7 +61,10 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>VERB --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> VERB</tt> (2007; 81%),
-<tt>VERB --[<tt><a href="la_ittb-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (32; 76%),
-<tt>VERB --[<tt><a href="la_ittb-dep-conj-expl.html">conj:expl</a></tt>]--> VERB</tt> (30; 56%),
-<tt>VERB --[<tt><a href="la_ittb-dep-advcl-cmpr.html">advcl:cmpr</a></tt>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<tt><a href="la_ittb-dep-csubj-relcl.html">csubj:relcl</a></tt>]--> VERB</tt> (395; 66%),
+<tt>VERB --[<tt><a href="la_ittb-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (149; 65%),
+<tt>VERB --[<tt><a href="la_ittb-dep-conj-expl.html">conj:expl</a></tt>]--> VERB</tt> (31; 56%),
+<tt>VERB --[<tt><a href="la_ittb-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (31; 76%),
+<tt>VERB --[<tt><a href="la_ittb-dep-advcl-cmp.html">advcl:cmp</a></tt>]--> VERB</tt> (4; 57%),
+<tt>VERB --[<tt><a href="la_ittb-dep-dislocated-ccomp.html">dislocated:ccomp</a></tt>]--> VERB</tt> (1; 100%).
 

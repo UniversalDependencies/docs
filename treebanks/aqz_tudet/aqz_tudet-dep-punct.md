@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-216 nodes (20%) are attached to their parents as `punct`.
+286 nodes (22%) are attached to their parents as `punct`.
 
-208 instances of `punct` (96%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.59259259259259.
+278 instances of `punct` (97%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.57692307692308.
 
-The following 9 pairs of parts of speech are connected with `punct`: <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-PUNCT.html">PUNCT</a></tt> (114; 53% instances), <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-PUNCT.html">PUNCT</a></tt> (78; 36% instances), <tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="aqz_tudet-pos-PUNCT.html">PUNCT</a></tt> (6; 3% instances), <tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="aqz_tudet-pos-PUNCT.html">PUNCT</a></tt> (5; 2% instances), <tt><a href="aqz_tudet-pos-ADJ.html">ADJ</a></tt>-<tt><a href="aqz_tudet-pos-PUNCT.html">PUNCT</a></tt> (4; 2% instances), <tt><a href="aqz_tudet-pos-DET.html">DET</a></tt>-<tt><a href="aqz_tudet-pos-PUNCT.html">PUNCT</a></tt> (4; 2% instances), <tt><a href="aqz_tudet-pos-INTJ.html">INTJ</a></tt>-<tt><a href="aqz_tudet-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances), <tt><a href="aqz_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="aqz_tudet-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances), <tt><a href="aqz_tudet-pos-NUM.html">NUM</a></tt>-<tt><a href="aqz_tudet-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `punct`: <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-PUNCT.html">PUNCT</a></tt> (182; 64% instances), <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-PUNCT.html">PUNCT</a></tt> (79; 28% instances), <tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="aqz_tudet-pos-PUNCT.html">PUNCT</a></tt> (7; 2% instances), <tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="aqz_tudet-pos-PUNCT.html">PUNCT</a></tt> (5; 2% instances), <tt><a href="aqz_tudet-pos-ADJ.html">ADJ</a></tt>-<tt><a href="aqz_tudet-pos-PUNCT.html">PUNCT</a></tt> (4; 1% instances), <tt><a href="aqz_tudet-pos-DET.html">DET</a></tt>-<tt><a href="aqz_tudet-pos-PUNCT.html">PUNCT</a></tt> (4; 1% instances), <tt><a href="aqz_tudet-pos-INTJ.html">INTJ</a></tt>-<tt><a href="aqz_tudet-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances), <tt><a href="aqz_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="aqz_tudet-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances), <tt><a href="aqz_tudet-pos-NUM.html">NUM</a></tt>-<tt><a href="aqz_tudet-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -35,7 +35,7 @@ The following 9 pairs of parts of speech are connected with `punct`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 5 punct	color:blue
-1	oatap	atap	NOUN	n	Person=1	7	nsubj	_	_
+1	oatap	atap	NOUN	n	Person=1	7	obj	_	_
 2	ãka	ãka	PART	pcl	_	1	discourse	_	_
 3	ẽ	ẽ	INTJ	intj	_	1	discourse	_	_
 4	ẽ	ẽ	INTJ	intj	_	1	discourse	_	_

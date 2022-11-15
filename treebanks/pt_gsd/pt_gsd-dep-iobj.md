@@ -22,7 +22,7 @@ The following 10 pairs of parts of speech are connected with `iobj`: <tt><a href
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 6 iobj	color:blue
-1	O	o	DET	DET	_	2	det	_	_
+1	O	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	veículo	veículo	NOUN	NOUN	_	3	nsubj	_	_
 3	pertence	pertencer	VERB	VERB	_	0	root	_	_
 4	a	a	ADP	ADP	_	6	case	_	_
@@ -44,7 +44,7 @@ The following 10 pairs of parts of speech are connected with `iobj`: <tt><a href
 1	Em	em	ADP	ADP	_	2	case	_	_
 2	nota	nota	NOUN	NOUN	_	6	nmod	_	SpaceAfter=No
 3	,	,	PUNCT	.	_	2	punct	_	_
-4	o	o	DET	DET	_	5	det	_	_
+4	o	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	Google	_	PROPN	PNOUN	_	6	nsubj	_	_
 6	informou	informar	VERB	VERB	_	0	root	_	_
 7	a	a	ADP	ADP	_	9	case	_	_

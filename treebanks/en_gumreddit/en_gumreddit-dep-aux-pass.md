@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="en_gumreddit-dep-aux.html">aux</a></tt>.
 
-98 nodes (1%) are attached to their parents as `aux:pass`.
+97 nodes (1%) are attached to their parents as `aux:pass`.
 
-98 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.39795918367347.
+97 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.36082474226804.
 
-The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-AUX.html">AUX</a></tt> (98; 100% instances).
+The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-AUX.html">AUX</a></tt> (97; 100% instances).
 
 
 ~~~ conllu
@@ -48,7 +48,7 @@ The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 24	_	_	PUNCT	,	_	25	punct	25:punct	Lem=_|Len=1
 25	_	_	NOUN	NN	Number=Sing	23	conj	21:nmod:of|23:conj	Entity=(45-substance-new-cf6-1-sgl)|Lem=_|Len=5|SpaceAfter=No
 26	_	_	PUNCT	,	_	27	punct	27:punct	Lem=_|Len=1
-27	_	_	X	FW	Abbr=Yes	23	conj	21:nmod:of|23:conj	Entity=43)42)40)39)|Lem=_|Len=4
+27	_	_	NOUN	FW	Abbr=Yes	23	conj	21:nmod:of|23:conj	Entity=43)42)40)39)|Lem=_|Len=4
 
 ~~~
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1 nodes (0%) are attached to their parents as `dep`.
+2 nodes (0%) are attached to their parents as `dep`.
 
-1 instances of `dep` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 21.
+2 instances of `dep` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 11.5.
 
-The following 1 pairs of parts of speech are connected with `dep`: <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (1; 100% instances).
+The following 2 pairs of parts of speech are connected with `dep`: <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (1; 50% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (1; 50% instances).
 
 
 ~~~ conllu
@@ -63,6 +63,30 @@ The following 1 pairs of parts of speech are connected with `dep`: <tt><a href="
 39	мәгълүмат	мәгълүмат	NOUN	_	Case=Nom|Number=Sing	40	obj	_	LangID=TT
 40	бирелгән	бир	VERB	_	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Pass	32	conj	_	LangID=TT|SpaceAfter=No
 41	.	.	PUNCT	_	_	40	punct	_	LangID=OTHER
+
+~~~
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 8 dep	color:blue
+1	Альберт	Альберт	PROPN	_	Case=Nom|Number=Sing	3	nmod	_	LangID=RU
+2	Ризванов	Ризванов	PROPN	_	Case=Nom|Number=Sing	1	flat	_	LangID=RU
+3	сүзләренә	сүз	NOUN	_	Case=Dat|Number=Plur|Person[psor]=3	4	obl	_	LangID=TT
+4	караганда	кара	VERB	_	Case=Loc|Tense=Past|VerbForm=Part	12	advcl	_	LangID=TT|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	LangID=OTHER
+6	аларны	ул	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	11	obj	_	LangID=TT
+7	башка	башка	ADJ	_	_	8	amod	_	LangID=TT
+8	илләргә	ил	NOUN	_	Case=Dat|Number=Plur	10	dep	_	LangID=TT
+9	сәяхәт	сәяхәт	NOUN	_	Case=Nom|Number=Sing	10	compound:lvc	_	LangID=TT
+10	итүчеләр	ит	VERB	_	Case=Nom|Number=Plur|VerbForm=NomAg	11	nsubj	_	LangID=TT
+11	алып	ал	VERB	_	VerbForm=Conv	12	advcl	_	LangID=TT
+12	кайтырга	кайт	VERB	_	VerbForm=Inf	0	root	_	LangID=TT
+13	мөмкин	мөмкин	AUX	_	_	12	aux	_	LangID=TT|SpaceAfter=No
+14	.	.	PUNCT	_	_	12	punct	_	LangID=OTHER
 
 ~~~
 

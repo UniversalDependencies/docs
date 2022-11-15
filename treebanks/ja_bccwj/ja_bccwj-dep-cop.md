@@ -11,7 +11,7 @@ This relation is universal.
 15068 nodes (1%) are attached to their parents as `cop`.
 
 15068 instances of `cop` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.33740376957791.
+Average distance between parent and child is 1.33627555083621.
 
 The following 3 pairs of parts of speech are connected with `cop`: <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt> (14303; 95% instances), <tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt> (519; 3% instances), <tt><a href="ja_bccwj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt> (246; 2% instances).
 

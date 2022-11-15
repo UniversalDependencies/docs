@@ -67,7 +67,7 @@ The 3rd highest number of forms (2) was observed with the lemma “全く”: �
 
 `ADV` nodes are attached to their parents using 5 different relations: <tt><a href="ja_pud-dep-advmod.html">advmod</a></tt> (314; 97% instances), <tt><a href="ja_pud-dep-root.html">root</a></tt> (4; 1% instances), <tt><a href="ja_pud-dep-advcl.html">advcl</a></tt> (2; 1% instances), <tt><a href="ja_pud-dep-obj.html">obj</a></tt> (2; 1% instances), <tt><a href="ja_pud-dep-compound.html">compound</a></tt> (1; 0% instances)
 
-Parents of `ADV` nodes belong to 8 different parts of speech: <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (201; 62% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (64; 20% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (43; 13% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (5; 2% instances),  (4; 1% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances)
+Parents of `ADV` nodes belong to 8 different parts of speech: <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (200; 62% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (65; 20% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (43; 13% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (5; 2% instances),  (4; 1% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 
 221 (68%) `ADV` nodes are leaves.
 

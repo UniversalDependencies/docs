@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Amharic-ATT: POS Tags: `PROPN`
 
 There are 22 `PROPN` lemmas (1%), 22 `PROPN` types (1%) and 236 `PROPN` tokens (2%).
-Out of 15 observed tags, the rank of `PROPN` is: 8 in number of lemmas, 8 in number of types and 9 in number of tokens.
+Out of 16 observed tags, the rank of `PROPN` is: 8 in number of lemmas, 8 in number of types and 9 in number of tokens.
 
 The 10 most frequent `PROPN` lemmas: ካሳ, አስቴር, አልማዝ, ጎጃም, ከበደ, በቀለ, ተስፋዬ, ዓለሙ, ጎንደር, ኃይሉ
 
@@ -41,7 +41,7 @@ The 10 most frequent ambiguous types:  ከበደ (<tt><a href="am_att-pos-PROPN.
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.000000).
+The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.029841).
 
 The 1st highest number of forms (1) was observed with the lemma “ሀይሉ”: ሀይሉ.
 

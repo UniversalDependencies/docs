@@ -71,7 +71,7 @@ The following 5 pairs of parts of speech are connected with `compound`: <tt><a h
 19	poliuria	poliurie	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	17	conj	_	BioNERLabel=B-DISO
 20	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	21	expl:pv	_	_
 21	datorează	datora	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
-22	ei	el	PRON	Pp3fso--------s	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Strong	21	nsubj	_	SpaceAfter=No
+22	ei	el	PRON	Pp3fso--------s	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Strong	21	iobj	_	SpaceAfter=No
 23	.	.	PUNCT	PERIOD	_	2	punct	_	_
 
 ~~~

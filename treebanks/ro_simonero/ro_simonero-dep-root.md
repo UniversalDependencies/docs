@@ -11,9 +11,9 @@ This relation is universal.
 4681 nodes (3%) are attached to their parents as `root`.
 
 4681 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.86690878017518.
+Average distance between parent and child is 8.8523819696646.
 
-The following 11 pairs of parts of speech are connected with `root`: -<tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt> (3630; 78% instances), -<tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> (469; 10% instances), -<tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt> (438; 9% instances), -<tt><a href="ro_simonero-pos-ADV.html">ADV</a></tt> (44; 1% instances), -<tt><a href="ro_simonero-pos-NUM.html">NUM</a></tt> (36; 1% instances), -<tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> (33; 1% instances), -<tt><a href="ro_simonero-pos-AUX.html">AUX</a></tt> (20; 0% instances), -<tt><a href="ro_simonero-pos-X.html">X</a></tt> (6; 0% instances), -<tt><a href="ro_simonero-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), -<tt><a href="ro_simonero-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), -<tt><a href="ro_simonero-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `root`: -<tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt> (3625; 77% instances), -<tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> (473; 10% instances), -<tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt> (438; 9% instances), -<tt><a href="ro_simonero-pos-ADV.html">ADV</a></tt> (43; 1% instances), -<tt><a href="ro_simonero-pos-NUM.html">NUM</a></tt> (36; 1% instances), -<tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> (33; 1% instances), -<tt><a href="ro_simonero-pos-AUX.html">AUX</a></tt> (22; 0% instances), -<tt><a href="ro_simonero-pos-X.html">X</a></tt> (6; 0% instances), -<tt><a href="ro_simonero-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), -<tt><a href="ro_simonero-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), -<tt><a href="ro_simonero-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

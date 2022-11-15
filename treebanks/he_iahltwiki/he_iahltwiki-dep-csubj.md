@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Hebrew-IAHLTwiki: Relations: `csubj`
 
 This relation is universal.
-There are 1 language-specific subtypes of `csubj`: <tt><a href="he_iahltwiki-dep-csubj-pass.html">csubj:pass</a></tt>.
+There are 2 language-specific subtypes of `csubj`: <tt><a href="he_iahltwiki-dep-csubj-outer.html">csubj:outer</a></tt>, <tt><a href="he_iahltwiki-dep-csubj-pass.html">csubj:pass</a></tt>.
 
-202 nodes (0%) are attached to their parents as `csubj`.
+200 nodes (0%) are attached to their parents as `csubj`.
 
-200 instances of `csubj` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.68811881188119.
+200 instances of `csubj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.68.
 
-The following 12 pairs of parts of speech are connected with `csubj`: <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> (129; 64% instances), <tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> (26; 13% instances), <tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> (17; 8% instances), <tt><a href="he_iahltwiki-pos-ADV.html">ADV</a></tt>-<tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> (7; 3% instances), <tt><a href="he_iahltwiki-pos-PRON.html">PRON</a></tt>-<tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> (7; 3% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt> (4; 2% instances), <tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="he_iahltwiki-pos-AUX.html">AUX</a></tt>-<tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="he_iahltwiki-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_iahltwiki-pos-X.html">X</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `csubj`: <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> (129; 65% instances), <tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> (26; 13% instances), <tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> (17; 9% instances), <tt><a href="he_iahltwiki-pos-ADV.html">ADV</a></tt>-<tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> (7; 4% instances), <tt><a href="he_iahltwiki-pos-PRON.html">PRON</a></tt>-<tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> (7; 4% instances), <tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="he_iahltwiki-pos-AUX.html">AUX</a></tt>-<tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="he_iahltwiki-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt> (2; 1% instances).
 
 
 ~~~ conllu
@@ -31,7 +31,7 @@ The following 12 pairs of parts of speech are connected with `csubj`: <tt><a hre
 6	יש	יש	VERB	VERB	Polarity=Pos	0	root	_	_
 7	לבדוק	בדק	VERB	VERB	HebBinyan=PAAL|VerbForm=Inf|Voice=Act	6	csubj	_	_
 8	תאימות	תאימות	NOUN	NOUN	Gender=Fem|Number=Sing	7	obj	_	_
-9	של	של	ADP	ADP	_	10	case	_	_
+9	של	של	ADP	ADP	Case=Gen	10	case	_	_
 10	נוגדנים	נוגדן	NOUN	NOUN	Gender=Masc|Number=Plur	8	nmod:poss	_	_
 11	אצל	אצל	ADP	ADP	_	13	case	_	_
 12	ה	ה	DET	DET	Definite=Def|PronType=Art	13	det	_	_
@@ -80,7 +80,7 @@ The following 12 pairs of parts of speech are connected with `csubj`: <tt><a hre
 5	על	על	ADP	ADP	_	6	case	_	_
 6	מעמד	מעמד	NOUN	NOUN	Gender=Masc|Number=Sing	2	obl	_	_
 7	ה	הוא	PRON	PRON	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nmod:poss	_	_
-8	של	של	ADP	ADP	_	10	case	_	_
+8	של	של	ADP	ADP	Case=Gen	10	case	_	_
 9	ה	ה	DET	DET	Definite=Def|PronType=Art	10	det	_	_
 10	רשות	רשות	NOUN	NOUN	Gender=Fem|Number=Sing	6	nmod:poss	_	_
 11	ה	ה	DET	DET	Definite=Def|PronType=Art	12	det	_	_

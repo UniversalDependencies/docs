@@ -69,4 +69,4 @@ nmod(build., 35-5)
 
 Grades written as _5 -_, _A +_, _B `***`_ are annotated using the `flat` relations. However, when the words _минус_, _плюс, or symbols are used before the nominal they are attached using the [compound]() relation.
 
-<!-- Interlanguage links updated So kvě 14 19:03:36 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:26 CET 2022 -->

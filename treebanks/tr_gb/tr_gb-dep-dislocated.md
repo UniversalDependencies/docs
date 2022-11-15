@@ -53,7 +53,7 @@ The following 3 pairs of parts of speech are connected with `dislocated`: <tt><a
 7	,	,	PUNCT	_	_	6	punct	_	_
 8	sen	sen	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	12	nsubj	_	_
 9	bile	bile	ADV	_	_	8	advmod:emph	_	_
-10	Semra’nın	Semra	PROPN	_	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=2	11	nmod	_	_
+10	Semra’nın	Semra	PROPN	_	Case=Gen|Number=Sing	11	nmod	_	_
 11	kini	-ki	NOUN	_	Case=Acc|Number=Sing	12	ccomp	_	_
 12	unuttun	unut	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	12	punct	_	_

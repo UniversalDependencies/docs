@@ -23,7 +23,7 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 `PRON` tokens may have the following values of `Reflex`:
 
 * `Yes` (21; 100% of non-empty `Reflex`): <em>itsensä, itse, itseni, itselleen, itsestään, itseensä, itsellä, itselläkin, itsemme, itsestäni</em>
-* `EMPTY` (1029): <em>se, sen, joka, hän, kaikki, mitä, sitä, muuta, tällä, tämä</em>
+* `EMPTY` (1027): <em>se, sen, joka, hän, kaikki, mitä, sitä, muuta, tällä, tämä</em>
 
 ### `ADV`
 
@@ -32,5 +32,5 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 `ADV` tokens may have the following values of `Reflex`:
 
 * `Yes` (1; 100% of non-empty `Reflex`): <em>itelläni</em>
-* `EMPTY` (1975): <em>myös, niin, hyvin, nyt, ok, kuitenkin, jo, vain, hieman, paljon</em>
+* `EMPTY` (1977): <em>myös, niin, hyvin, nyt, ok, kuitenkin, jo, vain, hieman, paljon</em>
 

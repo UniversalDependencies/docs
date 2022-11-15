@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-41 nodes (0%) are attached to their parents as `reparandum`.
+43 nodes (0%) are attached to their parents as `reparandum`.
 
-36 instances of `reparandum` (88%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.70731707317073.
+38 instances of `reparandum` (88%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.81395348837209.
 
-The following 19 pairs of parts of speech are connected with `reparandum`: <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (9; 22% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-DET.html">DET</a></tt> (6; 15% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-DET.html">DET</a></tt> (4; 10% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (4; 10% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_ewt-pos-DET.html">DET</a></tt> (2; 5% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (2; 5% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> (2; 5% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_ewt-pos-X.html">X</a></tt> (1; 2% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> (1; 2% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="en_ewt-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-PART.html">PART</a></tt> (1; 2% instances).
+The following 18 pairs of parts of speech are connected with `reparandum`: <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (9; 21% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-DET.html">DET</a></tt> (6; 14% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (5; 12% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-DET.html">DET</a></tt> (4; 9% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_ewt-pos-DET.html">DET</a></tt> (2; 5% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (2; 5% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (2; 5% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-PART.html">PART</a></tt> (2; 5% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> (2; 5% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_ewt-pos-X.html">X</a></tt> (1; 2% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> (1; 2% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="en_ewt-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -27,10 +27,10 @@ The following 19 pairs of parts of speech are connected with `reparandum`: <tt><
 3	did	do	AUX	VBD	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	5	aux	5:aux	_
 4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	5:nsubj	_
 5	watch	watch	VERB	VB	VerbForm=Inf	0	root	0:root	_
-6	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	7	nmod:poss	7:nmod:poss	_
+6	your	your	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	7	nmod:poss	7:nmod:poss	_
 7	girl	girl	NOUN	NN	Number=Sing	5	obj	5:obj	_
 8	on	on	ADP	IN	_	9	case	9:case	_
-9	tv	tv	NOUN	NN	Number=Sing	5	obl	5:obl:on	_
+9	tv	TV	NOUN	NN	Number=Sing	5	obl	5:obl:on	_
 10	last	last	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
 11	night	night	NOUN	NN	Number=Sing	5	obl:tmod	5:obl:tmod	SpaceAfter=No
 12	?	?	PUNCT	.	_	5	punct	5:punct	_
@@ -68,24 +68,26 @@ The following 19 pairs of parts of speech are connected with `reparandum`: <tt><
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 6 reparandum	color:blue
-1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	expl	3:expl	_
-2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	3:cop	_
-3	helpful	helpful	ADJ	JJ	Degree=Pos	0	root	0:root	_
-4	to	to	PART	TO	_	5	mark	5:mark	_
-5	know	know	VERB	VB	VerbForm=Inf	3	csubj	3:csubj	_
-6	a	a	DET	DT	Definite=Ind|PronType=Art	5	reparandum	5:reparandum	_
-7	quite	quite	DET	PDT	_	9	det:predet	9:det:predet	_
-8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	9:det	_
-9	bit	bit	NOUN	NN	Number=Sing	5	obj	5:obj	_
-10	about	about	ADP	IN	_	12	case	12:case	_
-11	bull	bull	NOUN	NN	Number=Sing	12	compound	12:compound	_
-12	fighting	fighting	NOUN	NN	Number=Sing	9	nmod	9:nmod:about	SpaceAfter=No
-13	.	.	PUNCT	.	_	3	punct	3:punct	_
+# visual-style 5 1 reparandum	color:blue
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	reparandum	5:reparandum	_
+2	--	--	PUNCT	,	_	1	punct	1:punct	_
+3	which	which	PRON	WDT	PronType=Rel	7	obj	7:obj	_
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	5:nsubj|7:nsubj:xsubj	_
+5	try	try	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+6	to	to	PART	TO	_	7	mark	7:mark	_
+7	do	do	VERB	VB	VerbForm=Inf	5	xcomp	5:xcomp	SpaceAfter=No
+8	,	,	PUNCT	,	_	7	punct	7:punct	_
+9	as	as	ADV	RB	_	10	advmod	10:advmod	_
+10	best	well	ADV	RBS	Degree=Sup	7	advmod	7:advmod	_
+11	as	as	SCONJ	IN	_	14	mark	14:mark	_
+12	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	14:nsubj	_
+13	possibly	possibly	ADV	RB	_	14	advmod	14:advmod	_
+14	can	can	AUX	MD	VerbForm=Fin	10	advcl	10:advcl:as	SpaceAfter=No
+15	.	.	PUNCT	.	_	5	punct	5:punct	_
 
 ~~~
 

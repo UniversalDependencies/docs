@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-30 nodes (1%) are attached to their parents as `iobj`.
+31 nodes (1%) are attached to their parents as `iobj`.
 
-28 instances of `iobj` (93%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.26666666666667.
+29 instances of `iobj` (94%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.32258064516129.
 
-The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href="mr_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="mr_ufal-pos-NOUN.html">NOUN</a></tt> (18; 60% instances), <tt><a href="mr_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="mr_ufal-pos-PRON.html">PRON</a></tt> (9; 30% instances), <tt><a href="mr_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="mr_ufal-pos-ADV.html">ADV</a></tt> (2; 7% instances), <tt><a href="mr_ufal-pos-AUX.html">AUX</a></tt>-<tt><a href="mr_ufal-pos-PRON.html">PRON</a></tt> (1; 3% instances).
+The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href="mr_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="mr_ufal-pos-NOUN.html">NOUN</a></tt> (19; 61% instances), <tt><a href="mr_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="mr_ufal-pos-PRON.html">PRON</a></tt> (10; 32% instances), <tt><a href="mr_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="mr_ufal-pos-ADV.html">ADV</a></tt> (2; 6% instances).
 
 
 ~~~ conllu
@@ -22,30 +22,29 @@ The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 2 iobj	color:blue
-1	तो	तो	PRON	_	Case=Nom|Deixis=Remt|Gender=Masc|Number=Sing|Person=3	5	nsubj	_	_
-2	कपाळाला	कपाळ	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	4	iobj	_	_
-3	हात	हात	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	_
-4	लावून	लावणे	VERB	_	Aspect=Perf|VerbForm=Conv	5	advcl	_	_
-5	बसला	बसणे	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Fin	0	root	_	SpaceAfter=No
-6	.	.	PUNCT	_	_	5	punct	_	_
+1	तो	तो	PRON	_	Case=Nom|Deixis=Remt|Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	Translit=to|LTranslit=to
+2	कपाळाला	कपाळ	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	4	iobj	_	Translit=kapāḷālā|LTranslit=kapāḷa
+3	हात	हात	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	Translit=hāta|LTranslit=hāta
+4	लावून	लावणे	VERB	_	Aspect=Perf|VerbForm=Conv	5	advcl	_	Translit=lāvūna|LTranslit=lāvaṇe
+5	बसला	बसणे	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=basalā|LTranslit=basaṇe
+6	.	.	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 1 iobj	color:blue
-1	मला	मी	PRON	_	Case=Dat|Number=Sing|Person=1	3	iobj	_	_
-2	नाही	नाही	INTJ	_	_	3	obj	_	_
-3	म्हणू	म्हणणे	VERB	_	Mood=Imp|Number=Plur|Person=2|Polarity=Neg|VerbForm=Fin	0	root	_	_
-4	नकोस	नकोस	AUX	_	Number=Sing|Person=2|Polarity=Neg|VerbForm=Fin	3	aux	_	SpaceAfter=No
-5	,	,	PUNCT	_	_	7	punct	_	_
-6	ती	तो	PRON	_	Case=Nom|Deixis=Remt|Gender=Fem|Number=Sing|Person=3	7	nsubj	_	_
-7	म्हणाली	म्हणणे	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|VerbForm=Fin	3	parataxis	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	7	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 4 iobj	color:blue
+1	त्या	तो	DET	_	Deixis=Remt|Gender=Fem|Number=Plur|PronType=Dem	2	det	_	Translit=tyā|LTranslit=to
+2	लाडूं	लाडू	NOUN	_	Case=Abs|Gender=Masc|Number=Plur	6	nsubj	_	Translit=lāḍūṁ|LTranslit=lāḍū
+3	ची	चा	ADP	_	Gender=Fem|Number=Sing	2	case	_	Translit=cī|LTranslit=cā
+4	त्याला	तो	PRON	_	Case=Dat|Deixis=Remt|Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	iobj	_	Translit=tyālā|LTranslit=to
+5	आठवण	आठवण	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	compound:lvc	_	Translit=āṭhavaṇa|LTranslit=āṭhavaṇa
+6	झाली	होणे	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=jhālī|LTranslit=hoṇe
+7	.	.	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
@@ -56,20 +55,20 @@ The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
 # visual-style 13 12 iobj	color:blue
-1	राजाला	राजा	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	_
-2	सांगून	सांगणे	VERB	_	Aspect=Perf|VerbForm=Conv	3	advcl	_	_
-3	ठेवा	ठेवणे	VERB	_	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	13	punct	_	_
-5	की	की	SCONJ	_	_	13	mark	_	_
-6	_	मी	PRON	_	Number=Sing|Person=1	8	nmod:poss	_	_
-7	_	चा	ADP	_	Gender=Fem|Number=Sing	6	case	_	_
-8	राख	राख	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	12	obj	_	_
-9	मात्र	मात्र	ADV	_	_	12	discourse	_	_
-10	_	मी	PRON	_	Number=Sing|Person=1	12	nmod:poss	_	_
-11	_	चा	ADP	_	Case=Abs	10	case	_	_
-12	घरी	घरी	ADV	_	_	13	iobj	_	_
-13	पाठवा	पाठवणे	VERB	_	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	3	ccomp	_	SpaceAfter=No
-14	!	!	PUNCT	_	_	13	punct	_	_
+1	राजाला	राजा	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	Translit=rājālā|LTranslit=rājā
+2	सांगून	सांगणे	VERB	_	Aspect=Perf|VerbForm=Conv	3	advcl	_	Translit=sāṁgūna|LTranslit=sāṁgaṇe
+3	ठेवा	ठेवणे	VERB	_	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=ṭhevā|LTranslit=ṭhevaṇe
+4	,	,	PUNCT	_	_	13	punct	_	Translit=,|LTranslit=,
+5	की	की	SCONJ	_	_	13	mark	_	Translit=kī|LTranslit=kī
+6	माझ	मी	PRON	_	Number=Sing|Person=1|PronType=Prs	8	nmod:poss	_	Translit=mājha|LTranslit=mī
+7	ची	चा	ADP	_	Gender=Fem|Number=Sing	6	case	_	Translit=cī|LTranslit=cā
+8	राख	राख	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	12	obj	_	Translit=rākha|LTranslit=rākha
+9	मात्र	मात्र	ADV	_	_	12	discourse	_	Translit=mātra|LTranslit=mātra
+10	माझ	मी	PRON	_	Number=Sing|Person=1|PronType=Prs	12	nmod:poss	_	Translit=mājha|LTranslit=mī
+11	च्या	चा	ADP	_	Case=Abs	10	case	_	Translit=cyā|LTranslit=cā
+12	घरी	घरी	ADV	_	_	13	iobj	_	Translit=gharī|LTranslit=gharī
+13	पाठवा	पाठवणे	VERB	_	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	3	ccomp	_	SpaceAfter=No|Translit=pāṭhavā|LTranslit=pāṭhavaṇe
+14	!	!	PUNCT	_	_	13	punct	_	Translit=!|LTranslit=!
 
 ~~~
 

@@ -37,7 +37,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 * `Ord` (1055; 100% of non-empty `NumType`): <em>primo, prima, secondo, terzo, seconda, primi, prime, ultimi, ultimo, ii</em>
 * `EMPTY` (18724): <em>nuovo, grande, presente, altri, altro, stesso, comune, italiana, altra, altre</em>
 
-`NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (74) occur only with one value of `NumType`.
+`NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (73) occur only with one value of `NumType`.
 
 ### `PROPN`
 

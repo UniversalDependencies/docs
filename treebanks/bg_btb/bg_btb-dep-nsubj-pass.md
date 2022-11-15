@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Bulgarian-BTB: Relations: `nsubj:pass`
 
 This relation is a language-specific subtype of <tt><a href="bg_btb-dep-nsubj.html">nsubj</a></tt>.
+There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="bg_btb-dep-nsubj-outer.html">nsubj:outer</a></tt>.
 
 1435 nodes (1%) are attached to their parents as `nsubj:pass`.
 

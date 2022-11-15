@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal but the values `PartRes` are language-specific.
 It occurs with 4 different values: `Fin`, `Inf`, `Part`, `PartRes`.
 
-2858 tokens (11%) have a non-empty value of `VerbForm`.
-2071 types (18%) occur at least once with a non-empty value of `VerbForm`.
-663 lemmas (14%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (2502; 9% instances), <tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> (356; 1% instances).
+2868 tokens (11%) have a non-empty value of `VerbForm`.
+2073 types (18%) occur at least once with a non-empty value of `VerbForm`.
+664 lemmas (14%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 2 part-of-speech tags: <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (2509; 9% instances), <tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> (359; 1% instances).
 
 ### `VERB`
 
-2502 <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> tokens (97% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+2509 <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> tokens (97% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="orv_birchbark-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2255; 90%), <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1891; 76%), <tt><a href="orv_birchbark-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1751; 70%), <tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1691; 68%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="orv_birchbark-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2262; 90%), <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1897; 76%), <tt><a href="orv_birchbark-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1757; 70%), <tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1694; 68%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (1446; 58% of non-empty `VerbForm`): <em>даи, возми, възьми, пришли, посли, присъли, иди, кланѧюсѧ, купи, молови</em>
-* `Inf` (179; 7% of non-empty `VerbForm`): <em>дати, ѧти, взѧти, возѧти, дать, ити, взѧть, възѧти, давати, давать</em>
+* `Fin` (1448; 58% of non-empty `VerbForm`): <em>даи, возми, възьми, пришли, посли, присъли, иди, кланѧюсѧ, купи, молови</em>
+* `Inf` (180; 7% of non-empty `VerbForm`): <em>дати, ѧти, взѧти, возѧти, възѧти, дать, ити, взѧть, давати, давать</em>
 * `Part` (203; 8% of non-empty `VerbForm`): <em>сътворѧ, водѧ, възьмъши, куплено, пеюци, платѧце, створѧ, стоѧ, (п)[рисл]а[в]о, (полу)<lbr/>чеше</em>
-* `PartRes` (674; 27% of non-empty `VerbForm`): <em>далъ, шло, дале, послале, възѧле, дала, взѧле, въдале, бꙑло, велѣлъ</em>
-* `EMPTY` (79): <em>нѣ, надоби, надобе, нѣту, вода<lbr/>…, надобь, надобѣ, не, нету, ниту</em>
+* `PartRes` (678; 27% of non-empty `VerbForm`): <em>далъ, шло, възѧле, дале, послале, въдале, дала, взѧле, бꙑло, велѣлъ</em>
+* `EMPTY` (80): <em>нѣ, надоби, надобе, нѣту, вода<lbr/>…, надобь, надобѣ, не, нету, ниту</em>
 
 <table>
   <tr><th>Paradigm <i>взѧти</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th><th><tt>PartRes</tt></th></tr>
@@ -53,18 +53,18 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
   <tr><td><tt><tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="orv_birchbark-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="orv_birchbark-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="orv_birchbark-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>въ·змуть, въземѹ</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="orv_birchbark-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="orv_birchbark-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td></td><td><em>взѧ)[л]ѣ</em></td></tr>
   <tr><td><tt><tt><a href="orv_birchbark-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="orv_birchbark-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>во<lbr/>змѧ</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_birchbark-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>взѧти, возѧти, взѧть, възѧти, (въ)зѧ[т]и, в)зѧт[и, в[озѧти], во<lbr/>зѧти, возѧ<lbr/>ти, въз[ѧти], възѧ<lbr/>ти, възѧ[ти, ѹзѧти</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_birchbark-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>взѧти, возѧти, възѧти, взѧть, (въ)зѧ[т]и, в)зѧт[и, в[озѧти], во<lbr/>зѧти, возѧ<lbr/>ти, въз[ѧти], възѧ<lbr/>ти, възѧ[ти, ѹзѧти</em></td><td></td><td></td></tr>
 </table>
 
 ### `AUX`
 
-356 <tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> tokens (96% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+359 <tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> tokens (96% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="orv_birchbark-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (356; 100%), <tt><a href="orv_birchbark-feat-Analyt.html">Analyt</a></tt><tt>=Yes</tt> (319; 90%), <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (301; 85%), <tt><a href="orv_birchbark-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (282; 79%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="orv_birchbark-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (359; 100%), <tt><a href="orv_birchbark-feat-Analyt.html">Analyt</a></tt><tt>=Yes</tt> (322; 90%), <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (304; 85%), <tt><a href="orv_birchbark-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (285; 79%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Fin` (329; 92% of non-empty `VerbForm`): <em>еси, ѥси, есмь, ѥсмь, есте, есть, есемо, бꙑ, ѥсме, есме</em>
+* `Fin` (332; 92% of non-empty `VerbForm`): <em>еси, ѥси, есмь, ѥсмь, есте, есть, есемо, бꙑ, ѥсме, есме</em>
 * `PartRes` (27; 8% of non-empty `VerbForm`): <em>бꙑло, бꙑлъ, бꙑле, бꙑла, (бꙑ)<lbr/>ло, ·є·смꙑ, б[ꙑ]<lbr/>ло, б]ꙑ[лъ], бꙑли, бꙑл</em>
 * `EMPTY` (16): <em>бꙑ, бъ, б(у)[д](е, би, буди, есем-, есо<lbr/>(мо</em>
 

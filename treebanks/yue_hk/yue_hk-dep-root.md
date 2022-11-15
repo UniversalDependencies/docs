@@ -11,9 +11,9 @@ This relation is universal.
 1004 nodes (7%) are attached to their parents as `root`.
 
 1004 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.52988047808765.
+Average distance between parent and child is 5.52390438247012.
 
-The following 10 pairs of parts of speech are connected with `root`: -<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (783; 78% instances), -<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (75; 7% instances), -<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (74; 7% instances), -<tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> (25; 2% instances), -<tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> (15; 1% instances), -<tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> (11; 1% instances), -<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> (9; 1% instances), -<tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> (8; 1% instances), -<tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> (2; 0% instances), -<tt><a href="yue_hk-pos-NUM.html">NUM</a></tt> (2; 0% instances).
+The following 10 pairs of parts of speech are connected with `root`: -<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (784; 78% instances), -<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (75; 7% instances), -<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (73; 7% instances), -<tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> (25; 2% instances), -<tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> (15; 1% instances), -<tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> (11; 1% instances), -<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> (9; 1% instances), -<tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> (8; 1% instances), -<tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> (2; 0% instances), -<tt><a href="yue_hk-pos-NUM.html">NUM</a></tt> (2; 0% instances).
 
 
 ~~~ conllu

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-783 nodes (1%) are attached to their parents as `nummod`.
+907 nodes (1%) are attached to their parents as `nummod`.
 
-734 instances of `nummod` (94%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.19540229885057.
+855 instances of `nummod` (94%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.19294377067255.
 
-The following 8 pairs of parts of speech are connected with `nummod`: <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (674; 86% instances), <tt><a href="et_ewt-pos-SYM.html">SYM</a></tt>-<tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (68; 9% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (22; 3% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (12; 2% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `nummod`: <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (782; 86% instances), <tt><a href="et_ewt-pos-SYM.html">SYM</a></tt>-<tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (72; 8% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (32; 4% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (13; 1% instances), <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -41,7 +41,7 @@ The following 8 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 5 4 nummod	color:blue
 1	IMHO	IMHO	NOUN	S	Abbr=Yes	2	discourse	2:discourse	_
 2	teeb	tegema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
-3	uazik	uazik	PROPN	S	Case=Nom|Number=Sing	2	nsubj	2:nsubj	_
+3	uazik	uazik	PROPN	S	Case=Nom|Number=Sing	2	nsubj	2:nsubj	NE=B-Prod
 4	90	90	NUM	N	NumForm=Digit|NumType=Card	5	nummod	5:nummod	_
 5	%	%	SYM	X	_	6	advmod	6:advmod	_
 6	autodele	auto	NOUN	S	Case=All|Number=Plur	2	obl	2:obl	_
@@ -58,14 +58,14 @@ The following 8 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 8 nummod	color:blue
-1	jokker	jokker	PROPN	S	Case=Nom|Number=Sing	3	parataxis	3:parataxis	SpaceAfter=No
+1	jokker	jokker	PROPN	S	Case=Nom|Number=Sing	3	parataxis	3:parataxis	NE=B-Per|SpaceAfter=No
 2	:	:	PUNCT	Z	_	1	punct	1:punct	_
 3	Soovitan	soovitama	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 4	20	20	NUM	N	NumForm=Digit|NumType=Card	5	nummod	5:nummod	SpaceAfter=No
 5	a.	a.	NOUN	Y	Abbr=Yes	6	obl	6:obl	_
 6	vana	vana	ADJ	A	Case=Par|Degree=Pos|Number=Sing	7	amod	7:amod	_
-7	audi	Audi	PROPN	S	Case=Par|Number=Sing	3	obj	3:obj	_
-8	80	80	NUM	N	NumForm=Digit|NumType=Card	7	nummod	7:nummod	SpaceAfter=No
+7	audi	Audi	PROPN	S	Case=Par|Number=Sing	3	obj	3:obj	NE=B-Prod
+8	80	80	NUM	N	NumForm=Digit|NumType=Card	7	nummod	7:nummod	NE=I-Prod|SpaceAfter=No
 9	.	.	PUNCT	Z	_	3	punct	3:punct	_
 
 ~~~

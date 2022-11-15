@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2 nodes (1%) are attached to their parents as `case`.
+9 nodes (1%) are attached to their parents as `case`.
 
-2 instances of `case` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.
+9 instances of `case` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.22222222222222.
 
-The following 2 pairs of parts of speech are connected with `case`: <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt> (1; 50% instances), <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt> (1; 50% instances).
+The following 4 pairs of parts of speech are connected with `case`: <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eme_tudet-pos-ADP.html">ADP</a></tt> (4; 44% instances), <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt> (2; 22% instances), <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-ADP.html">ADP</a></tt> (2; 22% instances), <tt><a href="eme_tudet-pos-ADP.html">ADP</a></tt>-<tt><a href="eme_tudet-pos-ADP.html">ADP</a></tt> (1; 11% instances).
 
 
 ~~~ conllu
@@ -22,27 +22,39 @@ The following 2 pairs of parts of speech are connected with `case`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 case	color:blue
-1	ipuriweʔe	puri	NOUN	n	Emph=Yes|Rel=NCont	5	obl	_	_
+1	ipuriweʔe	puri	ADP	posp	Also=Yes|Emph=Yes|Rel=NCont	5	obl	_	_
 2	baʔe	baʔe	NOUN	n	_	5	obl	_	_
-3	ipope	pope	NOUN	n	Rel=NCont	2	case	_	_
+3	ipope	pope	ADP	posp	Rel=NCont	2	case	_	_
 4	pazaru	pazaru	NOUN	n	_	5	obl	_	_
-5	zaiɲuŋamãʔẽ	iɲuŋ	NOUN	n	Case=Ref|Imprs=Yes|Nomzr=Rel	0	root	_	_
+5	zaiɲuŋamãʔẽ	iɲuŋ	VERB	v	Case=Ref|Imprs=Yes|Nmzr=Rel	0	root	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 case	color:blue
-1	"	"	PUNCT	punct	_	2	punct	_	_
-2	daʔudʒi	ʔu	VERB	v	Number=Sing|Person=1|Polarity=Neg	0	root	_	_
-3	"	"	PUNCT	punct	_	2	punct	_	_
-4	,	,	PUNCT	punct	_	5	punct	_	_
-5	eʔi	eʔi	VERB	v	Person=3	2	parataxis	_	_
-6	idʒupe	dʒupe	NOUN	n	Case=Dat|Rel=NCont	5	case	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 case	color:blue
+1	omãʔẽ	mãʔẽ	NOUN	n	Rel=NCont	0	root	_	_
+2	bɨgi	bɨg	NOUN	n	Pred=Yes	3	nmod	_	_
+3	owa	owa	NOUN	n	_	1	obl	_	_
+4	rehe	rehe	NOUN	n	Rel=Cont	3	case	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 case	color:blue
+1	mozepẽ	mozepẽ	ADV	adv	_	2	advmod	_	_
+2	otuiomãʔẽ	tui	VERB	v	Aspect=Cont|Nmzr=Rel|Person=3	4	obl	_	_
+3	rehe	rehe	ADP	posp	Rel=Cont	2	case	_	_
+4	omãʔẽ	mãʔẽ	VERB	v	Person=3	0	root	_	_
 
 ~~~
 

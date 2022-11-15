@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="tt_nmctt-dep-advmod.html">advmod</a></tt>.
 
-2 nodes (0%) are attached to their parents as `advmod:emph`.
+7 nodes (0%) are attached to their parents as `advmod:emph`.
 
-2 instances of `advmod:emph` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.
+7 instances of `advmod:emph` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.14285714285714.
 
-The following 2 pairs of parts of speech are connected with `advmod:emph`: <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-ADV.html">ADV</a></tt> (1; 50% instances), <tt><a href="tt_nmctt-pos-PRON.html">PRON</a></tt>-<tt><a href="tt_nmctt-pos-ADV.html">ADV</a></tt> (1; 50% instances).
+The following 3 pairs of parts of speech are connected with `advmod:emph`: <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-ADV.html">ADV</a></tt> (4; 57% instances), <tt><a href="tt_nmctt-pos-PRON.html">PRON</a></tt>-<tt><a href="tt_nmctt-pos-ADV.html">ADV</a></tt> (2; 29% instances), <tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tt_nmctt-pos-ADV.html">ADV</a></tt> (1; 14% instances).
 
 
 ~~~ conllu
@@ -36,28 +36,37 @@ The following 2 pairs of parts of speech are connected with `advmod:emph`: <tt><
 
 
 ~~~ conllu
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 14 15 advmod:emph	color:blue
-1	Үзебезнең	үз	PRON	_	Case=Gen|Number[psor]=Plur|Person[psor]=1	2	nmod	_	LangID=TT
-2	тәбигать	тәбигать	NOUN	_	Case=Nom|Number=Sing	16	nsubj	_	LangID=TT|SpaceAfter=No
-3	,	,	PUNCT	_	_	4	punct	_	LangID=OTHER
-4	кешеләр	кеше	NOUN	_	Case=Nom|Number=Plur	2	conj	_	LangID=TT|SpaceAfter=No
-5	,	,	PUNCT	_	_	8	punct	_	LangID=OTHER
-6	аларның	алар	PRON	_	Case=Gen|Number=Plur|PronType=Prs	8	nmod	_	LangID=TT
-7	эчке	эчке	ADJ	_	_	8	amod	_	LangID=TT
-8	кичерешләре	кичереш	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	2	conj	_	LangID=TT|SpaceAfter=No
-9	,	,	PUNCT	_	_	10	punct	_	LangID=OTHER
-10	тарихыбыз	тарих	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=1	2	conj	_	LangID=TT|SpaceAfter=No
-11	,	,	PUNCT	_	_	12	punct	_	LangID=OTHER
-12	йолаларыбыз	йола	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Plur|Person[psor]=1	2	conj	_	LangID=TT
-13	-	-	PUNCT	_	_	2	punct	_	LangID=OTHER
-14	барысы	бары	PRON	_	Case=Nom|Person[psor]=3|PronType=Tot	2	appos	_	LangID=TT
-15	да	да	ADV	_	_	14	advmod:emph	_	LangID=TT
-16	фотода	фото	NOUN	_	Case=Loc|Number=Sing	0	root	_	CSPoint=фото§да|LangID=MIXED[RU§TT]|SpaceAfter=No
-17	.	.	PUNCT	_	_	16	punct	_	LangID=OTHER
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 advmod:emph	color:blue
+1	Беркем	беркем	PRON	_	PronType=Neg	4	nsubj	_	LangID=TT
+2	дә	дә	ADV	_	_	1	advmod:emph	_	LangID=TT
+3	каршы	каршы	ADV	_	_	4	advmod	_	LangID=TT
+4	килми	кил	VERB	_	Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	LangID=TT|SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	LangID=OTHER
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 advmod:emph	color:blue
+1	Бәлки	бәлки	ADV	_	_	10	advmod	_	LangID=TT|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	LangID=OTHER
+3	ике	ике	NUM	_	NumType=Card	4	nummod	_	LangID=TT
+4	төрлесен	төрле	ADJ	_	Case=Acc|Number=Sing|Person[psor]=3	6	obj	_	LangID=TT
+5	дә	дә	ADV	_	_	4	advmod:emph	_	LangID=TT
+6	күрсәтеп	күрсәт	VERB	_	VerbForm=Conv	9	advcl	_	LangID=TT|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	punct	_	LangID=OTHER
+8	комбинация	комбинация	NOUN	_	Case=Nom|Number=Sing	9	obj	_	LangID=RU
+9	ясау	яса	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	10	nsubj	_	LangID=TT
+10	кирәктер	кирәк	ADJ	_	Mood=Irr	0	root	_	LangID=TT|SpaceAfter=No
+11	.	.	PUNCT	_	_	10	punct	_	LangID=OTHER
 
 ~~~
 

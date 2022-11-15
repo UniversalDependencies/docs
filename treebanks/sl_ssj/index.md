@@ -19,78 +19,56 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Kaja Dobrovoljc, Tomaž Erjavec, Simon Krek.
 
 Repository: [UD_Slovenian-SSJ](https://github.com/UniversalDependencies/UD_Slovenian-SSJ)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsl_ssj210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsl_ssj211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
-License: CC BY-NC-SA 4.0
+License: CC BY-SA 4.0
 
 Genre: news, nonfiction, fiction
 
 Questions, comments?
 General annotation questions (either Slovenian-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Slovenian-SSJ/issues).
-If you want to collaborate, please contact [kaja&nbsp;•&nbsp;dobrovoljc&nbsp;(æt)&nbsp;ijs&nbsp;•&nbsp;si; tomaz&nbsp;•&nbsp;erjavec&nbsp;(æt)&nbsp;ijs&nbsp;•&nbsp;si; simon&nbsp;•&nbsp;krek&nbsp;(æt)&nbsp;ijs&nbsp;•&nbsp;si].
+If you want to collaborate, please contact [kaja&nbsp;•&nbsp;dobrovoljc&nbsp;(æt)&nbsp;ijs&nbsp;•&nbsp;si].
 Development of the treebank happens outside the UD repository.
 If there are bugs, either the original data source or the conversion procedure must be fixed.
 Do not submit pull requests against the UD repository.
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | annotated manually in non-UD style, automatically converted to UD |
-| UPOS | annotated manually in non-UD style, automatically converted to UD |
+| Lemmas | annotated manually |
+| UPOS | annotated manually in non-UD style, automatically converted to UD, with some manual corrections of the conversion |
 | XPOS | annotated manually |
-| Features | annotated manually in non-UD style, automatically converted to UD |
-| Relations | annotated manually in non-UD style, automatically converted to UD |
+| Features | annotated manually in non-UD style, automatically converted to UD, with some manual corrections of the conversion |
+| Relations | annotated manually in non-UD style, automatically converted to UD, with some manual corrections of the conversion |
 
 ## Description
 
-The Slovenian UD Treebank is a rule-based conversion of the ssj500k
-treebank, the largest collection of manually syntactically annotated
-data in Slovenian, originally annotated in the JOS annotation scheme.
+The SSJ treebank is the reference UD treebank for Slovenian, consisting of approximately 13,000 sentences and 267,097 tokens from fiction, non-fiction, periodical and Wikipedia texts in standard modern Slovenian. As of UD release 2.10 in May 2022, the original version of the SSJ UD treebank has been partially manually revised and extended with new manually annotated data.
 
 
 
+The original Slovenian SSJ UD Treebank, first released as part of UD v1.2 in 2015 (Dobrovoljc et al. 2017), was created through a fine-grained rule-based conversion of the ssj500k treebank (Krek et al. 2021), the largest collection of manually syntactically annotated data in Slovenian, originally annotated in the JOS annotation scheme (Erjavec et al. 2010). With the exception of the manual disambiguation of the AUX and VERB occurrences of the verb 'biti' (to be), the conversion was fully automatic, based on a set of rules for both morphosyntactic and syntactic layer, which include different lexical, morphological and dependency features, while the original ssj500k tokenization and lemmatization principles remained unchanged. The rules and conversion scripts are available at https://github.com/clarinsi/jos2ud.
 
-The Slovenian SSJ UD Treebank (Dobrovoljc et al. 2017) is based on the ssj500k treebank
-(Krek et al. 2019), a balanced collection of sampled texts from the FidaPLUS reference
-corpus of written Slovene (Arhar and Gorjanc 2007). The original ssj500k corpus has
-been manually segmented, tokenized, lemmatized and morphosyntactically tagged within
-JOS project, in which the annotation guidelines have also been developed (Erjavec et
-al. 2010). Additionally, approximately one half of the ssj500k treebank has been
-manually annotated for dependency relations, according to the JOS syntactic annotation
-scheme. The syntactically annotated part of the ssj500k corpus (known as ssj200k),
-consisting of 11,411 annotated sentences and 235,864 tokens, has been used as the
-basis for conversion to the Slovenian UD Treebank.
-
-The conversion from ssj200k to the Slovenian SSJ UD Treebank was
-automatic (except for "biti"), based on a set of rules for both
-morphosyntactic and syntactic layer, which include different lexical,
-morphological and dependency features. The rules and conversion
-scripts are available at https://github.com/clarinsi/jos2ud
-
-Due to the specifics of the original JOS syntactic annotation scheme,
-not all dependency relations from the original ssj200k treebank could
-be converted automatically, resulting in a smaller UD treebank
-size. The current version of the Slovenian UD Treebank thus contains
-8,000 sentences with 140,670 tokens taken from various text types,
-e.g. fiction, non-fiction and periodicals, dating from 1990-2000. The
-original JOS annotations are included as part of the POSTAG (JOS
-morphosyntactic tags) and MISC (JOS dependency heads and labels)
-columns in the CONLLU format.
-
-The corpus is linearly split into training (80%), development (10%) and test
-(10%) data.
-
+In 2022, the original SSJ UD treebank was partially manually revised to correct the previously identified annotation inconsistencies, and implement the newly introduced changes in the annotation guidelines. In addition, the treebank was substantially extended to almost double the original size, with new manually annotated sentences coming from the previously unreleased subset of the ssj500k corpus, and the Slovenian subset of the ELEXIS parallel sense-annotated corpus of Wikipedia texts (Martelli et al. 2021). Despite the extension, the data split remained unchanged with the original SSJ sentences being preserved as part of the same train-dev-test subset. More details on the latest SSJ UD version are given in Dobrovoljc and Ljubešić (2022).
 
 ## Acknowledgments
 
-We wish to thank all of the contributors to the original ssj500k
-training corpus: Kristina Bizjak, Živa Blaževič, Klara Canzutti, Lea
-Cibrič, Kaja Dobrovoljc, Tadeja Dušej, Tomaž Erjavec, Ivana Fekeža,
-Nanika Holz, Urška Kamenšek, Simon Krek, Andreja Košir, Robert Kuret,
-Nina Ledinek, Andrej Lovšin, Boštjan Marhold, Nina Mikulin, Barbara
-Modrijan, Sara Može, Tanja Novak, Lea Peršič, Tanja Radovič, Simona
-Šinkovec, Urška Vranjek, Jerneja Umer, Petra Žalodec.
+We wish to thank all of the contributors to the original ssj500k training corpus (Kristina Bizjak, Živa Blaževič, Klara Canzutti, Lea Cibrič, Kaja Dobrovoljc, Tadeja Dušej, Tomaž Erjavec, Ivana Fekeža, Nanika Holz, Urška Kamenšek, Simon Krek, Andreja Košir, Robert Kuret, Nina Ledinek, Andrej Lovšin, Boštjan Marhold, Nina Mikulin, Barbara Modrijan, Sara Može, Tanja Novak, Lea Peršič, Tanja Radovič, Simona Šinkovec, Urška Vranjek, Jerneja Umer, Petra Žalodec), and the annotators within the Development of Slovene in the Digital Environment project (Tina Munda, Ina Poteko, Rebeka Roblek, Luka Terčon and Karolina Zgaga).
+
+## Key references
+
+* Kaja Dobrovoljc, Tomaž Erjavec, Simon Krek. 2017. The Universal Dependencies Treebank for Slovenian. In: Proceeding of the 6th Workshop on Balto-Slavic Natural Language Processing (BSNLP 2017), 33–38. Valencia, 2017.
+
+* Kaja Dobrovoljc, Nikola Ljubešić. 2022. Extending the SSJ Universal Dependencies Treebank for Slovenian: Was it Worth it?. In: Proceedings of the 16th Linguistic Annotation Workshop (LAW-XVI), LREC 2022, 15–22. Marseille, 2022.
+
+## Other
+
+* Tomaž Erjavec, Darja Fišer, Simon Krek and Nina Ledinek. 2010. The JOS Linguistically Tagged Corpus of Slovene. In: Proceedings of the Seventh International Conference on Language Resources and Evaluation (LREC'10). Malta, 2010.
+
+* Simon Krek et al. 2021. Training corpus ssj500k 2.3, Slovenian language resource repository CLARIN.SI, ISSN 2820-4042, http://hdl.handle.net/11356/1434.
+
+* Federico Martelli et al. 2022. Parallel sense-annotated corpus ELEXIS-WSD 1.0, Slovenian language resource repository CLARIN.SI, ISSN 2820-4042, http://hdl.handle.net/11356/1674.
 
 
 
@@ -358,7 +336,7 @@ Modrijan, Sara Može, Tanja Novak, Lea Peršič, Tanja Radovič, Simona
       <li>DET: to, vse, svoje, svojo, svoj, ta, vsak, te, ves, njegovo</li>
       <li>NOUN: leto, primer, delo, dan, življenje, čas, način, mesto, vlogo, voljo</li>
       <li>NUM: eno, dve, tri, dva, štiri, tisoč, pet, deset, en, enega</li>
-      <li>PRON: ga, jih, jo, kaj, kar, me, nas, nekaj, vas, ju</li>
+      <li>PRON: ga, jih, jo, kaj, me, kar, nas, nekaj, vas, ju</li>
       <li>PROPN: Slovenijo, EU, Evropo, Ljubljano, Jugoslavijo, Slovence, Francijo, Nemčijo, Japonsko, Rusijo</li>
     </ul>
   </li>
@@ -917,23 +895,24 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
+      <li>VERB-Fin--NOUN-Acc (1)</li>
       <li>VERB-Fin--NOUN-Gen (258)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(do) (4)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(okoli) (2)</li>
-      <li>VERB-Fin--NOUN-Nom (3323)</li>
+      <li>VERB-Fin--NOUN-Nom (3322)</li>
       <li>VERB-Fin--PRON-Acc (1)</li>
-      <li>VERB-Fin--PRON-Gen (27)</li>
+      <li>VERB-Fin--PRON-Gen (28)</li>
       <li>VERB-Fin--PRON-Nom (297)</li>
       <li>VERB-Inf--NOUN-Acc (1)</li>
       <li>VERB-Inf--NOUN-Gen (2)</li>
-      <li>VERB-Inf--NOUN-Nom (48)</li>
+      <li>VERB-Inf--NOUN-Nom (47)</li>
       <li>VERB-Inf--PRON-Nom (4)</li>
       <li>VERB-Part--NOUN-Gen (174)</li>
       <li>VERB-Part--NOUN-Gen-ADP(do) (2)</li>
       <li>VERB-Part--NOUN-Loc (1)</li>
       <li>VERB-Part--NOUN-Nom (3133)</li>
       <li>VERB-Part--PRON-Acc (7)</li>
-      <li>VERB-Part--PRON-Gen (20)</li>
+      <li>VERB-Part--PRON-Gen (21)</li>
       <li>VERB-Part--PRON-Nom (242)</li>
     </ul>
   </li>
@@ -942,36 +921,36 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN-Acc (2742)</li>
+      <li>VERB-Fin--NOUN-Acc (2743)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(za) (1)</li>
       <li>VERB-Fin--NOUN-Dat (128)</li>
-      <li>VERB-Fin--NOUN-Gen (553)</li>
+      <li>VERB-Fin--NOUN-Gen (554)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(do) (1)</li>
       <li>VERB-Fin--NOUN-Nom (9)</li>
       <li>VERB-Fin--PRON (16)</li>
       <li>VERB-Fin--PRON-Acc (777)</li>
       <li>VERB-Fin--PRON-Dat (227)</li>
-      <li>VERB-Fin--PRON-Gen (52)</li>
+      <li>VERB-Fin--PRON-Gen (50)</li>
       <li>VERB-Fin--PRON-Nom (7)</li>
       <li>VERB-Inf--NOUN-Acc (689)</li>
       <li>VERB-Inf--NOUN-Dat (46)</li>
       <li>VERB-Inf--NOUN-Gen (221)</li>
       <li>VERB-Inf--NOUN-Nom (3)</li>
       <li>VERB-Inf--PRON (8)</li>
-      <li>VERB-Inf--PRON-Acc (174)</li>
+      <li>VERB-Inf--PRON-Acc (175)</li>
       <li>VERB-Inf--PRON-Dat (34)</li>
       <li>VERB-Inf--PRON-Gen (49)</li>
       <li>VERB-Inf--PRON-Nom (2)</li>
-      <li>VERB-Part--NOUN-Acc (3019)</li>
-      <li>VERB-Part--NOUN-Dat (146)</li>
+      <li>VERB-Part--NOUN-Acc (3020)</li>
+      <li>VERB-Part--NOUN-Dat (145)</li>
       <li>VERB-Part--NOUN-Gen (562)</li>
       <li>VERB-Part--NOUN-Gen-ADP(do) (3)</li>
       <li>VERB-Part--NOUN-Ins (1)</li>
       <li>VERB-Part--NOUN-Nom (1)</li>
       <li>VERB-Part--PRON (45)</li>
-      <li>VERB-Part--PRON-Acc (1027)</li>
-      <li>VERB-Part--PRON-Dat (303)</li>
-      <li>VERB-Part--PRON-Gen (69)</li>
+      <li>VERB-Part--PRON-Acc (1029)</li>
+      <li>VERB-Part--PRON-Dat (304)</li>
+      <li>VERB-Part--PRON-Gen (68)</li>
       <li>VERB-Part--PRON-Nom (2)</li>
       <li>VERB-Sup--NOUN-Acc (7)</li>
       <li>VERB-Sup--NOUN-Gen (1)</li>
@@ -993,13 +972,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-Gen (1)</li>
       <li>VERB-Inf--PRON (1)</li>
       <li>VERB-Inf--PRON-Acc (2)</li>
-      <li>VERB-Inf--PRON-Dat (44)</li>
+      <li>VERB-Inf--PRON-Dat (45)</li>
       <li>VERB-Inf--PRON-Gen (1)</li>
       <li>VERB-Part--NOUN-Acc (19)</li>
-      <li>VERB-Part--NOUN-Dat (143)</li>
+      <li>VERB-Part--NOUN-Dat (145)</li>
       <li>VERB-Part--PRON (4)</li>
-      <li>VERB-Part--PRON-Acc (31)</li>
-      <li>VERB-Part--PRON-Dat (296)</li>
+      <li>VERB-Part--PRON-Acc (27)</li>
+      <li>VERB-Part--PRON-Dat (295)</li>
       <li>VERB-Sup--PRON-Acc (1)</li>
     </ul>
   </li>
@@ -1010,7 +989,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 149 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: predstaviti se, izbrati si, zagotoviti si, poiskati si, privoščiti si, pridobiti si, kupiti si, narediti si, pomagati si, sleči se, vpisati se, nadeti si, obdati se, obleči si, obremenjevati se, poviteziti se, poškodovati se, preživljati se, prijaviti se, pripeljati se, priskrbeti si, reči si, rešiti se, služiti si, umiti se, uničiti si, zaščititi se, zlomiti si, želeti si, biti se, bičati se, braniti se, darovati sebe, delati si, določiti si, doživeti svojo, financirati se, hraniti se, identificirati se, iskati si, iskati svojo, izboljšati si, izboriti si, izbrizgati si, izdelati si, izničiti se, izprositi si, karikirati sebe, kaznovati sebe, kopati si</li>
+  <li>This corpus contains 150 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: predstaviti se, izbrati si, zagotoviti si, poiskati si, privoščiti si, pridobiti si, kupiti si, narediti si, pomagati si, sleči se, vpisati se, nadeti si, obdati se, obleči si, obremenjevati se, poviteziti se, poškodovati se, preživljati se, prijaviti se, pripeljati se, priskrbeti si, reči si, rešiti se, služiti si, umiti se, uničiti si, zaščititi se, zlomiti si, želeti si, biti se, bičati se, braniti se, darovati sebe, delati si, določiti si, doživeti svojo, financirati se, hraniti se, identificirati se, iskati si, iskati svojo, izboljšati si, izboriti si, izbrizgati si, izdelati si, izničiti se, izprositi si, karikirati sebe, kaznovati sebe, kopati si</li>
     <ul>
       <li>Out of those, 3 lemmas occurred more than once, but never without a reflexive dependent. Examples: obleči, poviteziti, preobleči</li>
     </ul>

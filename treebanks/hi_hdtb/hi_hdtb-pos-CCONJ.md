@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Hindi-HDTB: POS Tags: `CCONJ`
 
 There are 15 `CCONJ` lemmas (0%), 16 `CCONJ` types (0%) and 6427 `CCONJ` tokens (2%).
-Out of 16 observed tags, the rank of `CCONJ` is: 15 in number of lemmas, 15 in number of types and 13 in number of tokens.
+Out of 16 observed tags, the rank of `CCONJ` is: 14 in number of lemmas, 15 in number of types and 13 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: और, व, लेकिन, जबकि, तथा, या, पर, एवं, अथवा, मगर
 
@@ -47,7 +47,7 @@ The 10 most frequent ambiguous types:  और (<tt><a href="hi_hdtb-pos-CCONJ.ht
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.066667 (the average of all parts of speech is 1.203447).
+The form / lemma ratio of `CCONJ` is 1.066667 (the average of all parts of speech is 1.200484).
 
 The 1st highest number of forms (2) was observed with the lemma “लिहाजा”: लिहाज़ा, लिहाजा.
 
@@ -66,19 +66,17 @@ Examples: और, व, लेकिन, जबकि, तथा, या, पर,
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 2 different relations: <tt><a href="hi_hdtb-dep-cc.html">cc</a></tt> (6426; 100% instances), <tt><a href="hi_hdtb-dep-punct.html">punct</a></tt> (1; 0% instances)
+`CCONJ` nodes are attached to their parents using 1 different relations: <tt><a href="hi_hdtb-dep-cc.html">cc</a></tt> (6427; 100% instances)
 
-Parents of `CCONJ` nodes belong to 12 different parts of speech: <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (2314; 36% instances), <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (2244; 35% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (1471; 23% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (320; 5% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (28; 0% instances), <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> (22; 0% instances), <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> (13; 0% instances), <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (11; 0% instances), <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 11 different parts of speech: <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (2314; 36% instances), <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (2244; 35% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (1471; 23% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (321; 5% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (28; 0% instances), <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> (22; 0% instances), <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> (13; 0% instances), <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (11; 0% instances), <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-pos-X.html">X</a></tt> (1; 0% instances)
 
-6422 (100%) `CCONJ` nodes are leaves.
+6423 (100%) `CCONJ` nodes are leaves.
 
 4 (0%) `CCONJ` nodes have one child.
 
-1 (0%) `CCONJ` nodes have two children.
+The highest child degree of a `CCONJ` node is 1.
 
-The highest child degree of a `CCONJ` node is 2.
+Children of `CCONJ` nodes are attached using 1 different relations: <tt><a href="hi_hdtb-dep-punct.html">punct</a></tt> (4; 100% instances)
 
-Children of `CCONJ` nodes are attached using 1 different relations: <tt><a href="hi_hdtb-dep-punct.html">punct</a></tt> (6; 100% instances)
-
-Children of `CCONJ` nodes belong to 3 different parts of speech: <tt><a href="hi_hdtb-pos-PUNCT.html">PUNCT</a></tt> (4; 67% instances), <tt><a href="hi_hdtb-pos-CCONJ.html">CCONJ</a></tt> (1; 17% instances), <tt><a href="hi_hdtb-pos-SCONJ.html">SCONJ</a></tt> (1; 17% instances)
+Children of `CCONJ` nodes belong to 1 different parts of speech: <tt><a href="hi_hdtb-pos-PUNCT.html">PUNCT</a></tt> (4; 100% instances)
 

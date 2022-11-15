@@ -24,7 +24,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 * `Abs` (20; 69% of non-empty `Degree`): <em>scarsissime, moltissime, bassissima, bellissimo, costosissimo, difficilissimo, elevatissimo, famosissimi, famosissimo, grandissima</em>
 * `Cmp` (9; 31% of non-empty `Degree`): <em>maggiore, maggior, miglior</em>
-* `EMPTY` (2540): <em>stesso, grande, importante, altri, stessa, altro, possibile, primo, umano, difficile</em>
+* `EMPTY` (2528): <em>stesso, grande, importante, altri, stessa, altro, possibile, primo, umano, difficile</em>
 
 <table>
   <tr><th>Paradigm <i>grande</i></th><th><tt>Cmp</tt></th><th><tt>Abs</tt></th></tr>
@@ -43,7 +43,7 @@ The most frequent other feature values with which `DET` and `Degree` co-occurred
 `DET` tokens may have the following values of `Degree`:
 
 * `Abs` (4; 100% of non-empty `Degree`): <em>moltissimi, moltissime</em>
-* `EMPTY` (6575): <em>la, il, l', un, i, le, una, questo, gli, lo</em>
+* `EMPTY` (6558): <em>la, il, l', un, i, le, una, gli, questo, lo</em>
 
 ### `ADV`
 
@@ -54,5 +54,5 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 `ADV` tokens may have the following values of `Degree`:
 
 * `Abs` (1; 100% of non-empty `Degree`): <em>benissimo</em>
-* `EMPTY` (2304): <em>non, più, proprio, anche, sempre, solo, infatti, così, quindi, molto</em>
+* `EMPTY` (2291): <em>non, più, proprio, anche, sempre, solo, infatti, così, quindi, molto</em>
 

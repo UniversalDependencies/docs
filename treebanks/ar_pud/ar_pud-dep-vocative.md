@@ -22,17 +22,17 @@ The following 1 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 10 vocative	color:blue
-1	ليس	layosa_1	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	3	cop	_	_
-2	هذا	h`*A_1	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
-3	ما	mA_1	PRON	WP	Case=Acc	0	root	_	_
-4	نحتاج	{iHotAj_1	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|Voice=Act	3	acl:relcl	_	SpaceAfter=No
-5	ه	h	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3	4	obj	_	_
-6	ل	l	ADP	IN	_	7	case	_	SpaceAfter=No
-7	بلاد	balad_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	4	obl	_	SpaceAfter=No
-8	نا	nA	PRON	PRP	Case=Gen|Number=Plur|Person=1	7	nmod	_	_
-9	يا	yA_1	PART	RP	_	10	compound:prt	_	_
-10	قوم	qawom_1	NOUN	NN	Animacy=Hum|Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	3	vocative	_	SpaceAfter=No
-11	.	._0	PUNCT	.	_	3	punct	_	_
+1	ليس	لَيس	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	3	cop	_	LId=لَيْسَ_1
+2	هذا	ه`ذا	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	LId=هٰذا_1
+3	ما	ما	PRON	WP	Case=Acc	0	root	_	LId=ما_1
+4	نحتاج	ٱِحتاج	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|Voice=Act	3	acl:relcl	_	LId=ٱِحْتاج_1|SpaceAfter=No
+5	ه	هُوَ	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3	4	obj	_	_
+6	ل	لِ	ADP	IN	_	7	case	_	SpaceAfter=No
+7	بلاد	بَلَد	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	4	obl	_	LId=بَلَد_1|SpaceAfter=No
+8	نا	هُوَ	PRON	PRP	Case=Gen|Number=Plur|Person=1	7	nmod	_	_
+9	يا	يَا	PART	RP	_	10	compound:prt	_	LId=يا_1
+10	قوم	قَوم	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	3	vocative	_	LId=قَوْم_1|SpaceAfter=No
+11	.	.	PUNCT	.	_	3	punct	_	LId=._0
 
 ~~~
 

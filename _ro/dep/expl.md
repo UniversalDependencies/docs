@@ -36,4 +36,4 @@ expl(știe, nu)
 Mi- am vândut mașina .
 expl:poss(vândut, Mi-)
 ~~~
-<!-- Interlanguage links updated So kvě 14 19:03:34 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:25 CET 2022 -->

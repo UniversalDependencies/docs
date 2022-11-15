@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.6 release.
 The following people have contributed to making this treebank part of UD: Hildur Jónsdóttir.
 
 Repository: [UD_Icelandic-PUD](https://github.com/UniversalDependencies/UD_Icelandic-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udis_pud210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udis_pud211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-SA 4.0
 
@@ -697,7 +697,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN (1)</li>
       <li>VERB-Fin--NOUN-Acc (13)</li>
       <li>VERB-Fin--NOUN-Dat (9)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(samkvæmt) (1)</li>
       <li>VERB-Fin--NOUN-Nom (361)</li>
       <li>VERB-Fin--PRON (1)</li>
       <li>VERB-Fin--PRON-Acc (2)</li>

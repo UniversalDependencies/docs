@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-56538 nodes (6%) are attached to their parents as `cc`.
+56540 nodes (6%) are attached to their parents as `cc`.
 
-48045 instances of `cc` (85%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.51101913757119.
+48077 instances of `cc` (85%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.50820657941281.
 
-The following 15 pairs of parts of speech are connected with `cc`: <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt>-<tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (34203; 60% instances), <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (11983; 21% instances), <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (3917; 7% instances), <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (2148; 4% instances), <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt>-<tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (1356; 2% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt>-<tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (1280; 2% instances), <tt><a href="is_icepahc-pos-DET.html">DET</a></tt>-<tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (824; 1% instances), <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt>-<tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (317; 1% instances), <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt>-<tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (211; 0% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt>-<tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (160; 0% instances), <tt><a href="is_icepahc-pos-X.html">X</a></tt>-<tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (82; 0% instances), <tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (34; 0% instances), <tt><a href="is_icepahc-pos-PART.html">PART</a></tt>-<tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (11; 0% instances), <tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (9; 0% instances), <tt><a href="is_icepahc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances).
+The following 15 pairs of parts of speech are connected with `cc`: <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt>-<tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (34190; 60% instances), <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (11989; 21% instances), <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (3920; 7% instances), <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (2148; 4% instances), <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt>-<tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (1360; 2% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt>-<tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (1280; 2% instances), <tt><a href="is_icepahc-pos-DET.html">DET</a></tt>-<tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (829; 1% instances), <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt>-<tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (314; 1% instances), <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt>-<tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (211; 0% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt>-<tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (160; 0% instances), <tt><a href="is_icepahc-pos-X.html">X</a></tt>-<tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (82; 0% instances), <tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (34; 0% instances), <tt><a href="is_icepahc-pos-PART.html">PART</a></tt>-<tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (11; 0% instances), <tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (9; 0% instances), <tt><a href="is_icepahc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances).
 
 
 ~~~ conllu
@@ -68,8 +68,8 @@ The following 15 pairs of parts of speech are connected with `cc`: <tt><a href="
 3	var	vera	AUX	BEDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	IFD_tag=sfg3eþ
 4	mér	ég	PRON	PRO-D	Case=Dat|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	IFD_tag=fp1eþ
 5	grunlaust	grunlaus	ADJ	ADJ-N	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	IFD_tag=lhensf
-6	nema	nema	ADP	P	_	7	case	_	IFD_tag=c
-7	skildir	skjöldur	NOUN	NS-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	5	obl	_	IFD_tag=nkfn
+6	nema	nema	SCONJ	P	_	7	mark	_	IFD_tag=c
+7	skildir	skjöldur	NOUN	NS-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	5	advcl	_	IFD_tag=nkfn
 8	nokkrir	nokkur	DET	Q-N	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	7	amod	_	IFD_tag=fokfn
 9	myndu	munu	AUX	MDDS	Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	aux	_	IFD_tag=svg3fþ
 10	vera	vera	AUX	BE	VerbForm=Inf|Voice=Act	7	cop	_	IFD_tag=sng

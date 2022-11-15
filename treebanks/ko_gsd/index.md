@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.0 release.
 The following people have contributed to making this treebank part of UD: Ryan McDonald, Joakim Nivre, Daniel Zeman, Jinho Choi, Na-Rae Han, Jena Hwang, Jayeol Chun.
 
 Repository: [UD_Korean-GSD](https://github.com/UniversalDependencies/UD_Korean-GSD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udko_gsd210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udko_gsd211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-SA 4.0
 
@@ -74,7 +74,7 @@ The project repository: https://github.com/emorynlp/ud-korean
 
 ## Relations
 
-[acl](ko_gsd-dep-acl.html) – [acl:relcl](ko_gsd-dep-acl-relcl.html) – [advcl](ko_gsd-dep-advcl.html) – [advmod](ko_gsd-dep-advmod.html) – [amod](ko_gsd-dep-amod.html) – [appos](ko_gsd-dep-appos.html) – [aux](ko_gsd-dep-aux.html) – [case](ko_gsd-dep-case.html) – [cc](ko_gsd-dep-cc.html) – [ccomp](ko_gsd-dep-ccomp.html) – [conj](ko_gsd-dep-conj.html) – [cop](ko_gsd-dep-cop.html) – [csubj](ko_gsd-dep-csubj.html) – [dep](ko_gsd-dep-dep.html) – [det](ko_gsd-dep-det.html) – [det:poss](ko_gsd-dep-det-poss.html) – [fixed](ko_gsd-dep-fixed.html) – [flat](ko_gsd-dep-flat.html) – [iobj](ko_gsd-dep-iobj.html) – [mark](ko_gsd-dep-mark.html) – [nmod](ko_gsd-dep-nmod.html) – [nsubj](ko_gsd-dep-nsubj.html) – [nsubj:pass](ko_gsd-dep-nsubj-pass.html) – [nummod](ko_gsd-dep-nummod.html) – [obj](ko_gsd-dep-obj.html) – [obl](ko_gsd-dep-obl.html) – [punct](ko_gsd-dep-punct.html) – [root](ko_gsd-dep-root.html) – [xcomp](ko_gsd-dep-xcomp.html)
+[acl](ko_gsd-dep-acl.html) – [acl:relcl](ko_gsd-dep-acl-relcl.html) – [advcl](ko_gsd-dep-advcl.html) – [advmod](ko_gsd-dep-advmod.html) – [amod](ko_gsd-dep-amod.html) – [appos](ko_gsd-dep-appos.html) – [aux](ko_gsd-dep-aux.html) – [case](ko_gsd-dep-case.html) – [cc](ko_gsd-dep-cc.html) – [ccomp](ko_gsd-dep-ccomp.html) – [compound](ko_gsd-dep-compound.html) – [conj](ko_gsd-dep-conj.html) – [cop](ko_gsd-dep-cop.html) – [csubj](ko_gsd-dep-csubj.html) – [dep](ko_gsd-dep-dep.html) – [det](ko_gsd-dep-det.html) – [det:poss](ko_gsd-dep-det-poss.html) – [discourse](ko_gsd-dep-discourse.html) – [fixed](ko_gsd-dep-fixed.html) – [flat](ko_gsd-dep-flat.html) – [iobj](ko_gsd-dep-iobj.html) – [list](ko_gsd-dep-list.html) – [mark](ko_gsd-dep-mark.html) – [nmod](ko_gsd-dep-nmod.html) – [nmod:poss](ko_gsd-dep-nmod-poss.html) – [nsubj](ko_gsd-dep-nsubj.html) – [nsubj:pass](ko_gsd-dep-nsubj-pass.html) – [nummod](ko_gsd-dep-nummod.html) – [obj](ko_gsd-dep-obj.html) – [obl](ko_gsd-dep-obl.html) – [parataxis](ko_gsd-dep-parataxis.html) – [punct](ko_gsd-dep-punct.html) – [root](ko_gsd-dep-root.html) – [xcomp](ko_gsd-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -124,11 +124,10 @@ The project repository: https://github.com/emorynlp/ud-korean
 </ul>
 
 <ul>
-<li>This corpus contains 36 lemmas tagged as auxiliaries (AUX): 기대+하+아+보+ㅁ직+하+다, 끝내+어+주+어요, 나가+겠+다, 느끼+어+지+ㄴ다, 말+하+아+보+아, 받+아+오+았+다, 보이+어+주+ㄴ다, 살+아+있+는, 실시+하+아야+하+겠+다, 심하+아+지+어, 싶+네요, 싶+다, 싶+습니다, 쓰+어+주+시+길, 않+는다, 않+다, 않+았+다, 않+죠, 오+았+구요, 오+았+다, 이+다+하+아, 있+다, 있+었+다, 전하+아+들+었+다, 주+ㄴ다, 주+시+어여, 취소+하+아+달+라, 취하+아+오+았+다, 치+ㄹ까+보+아, 하+ㄴ다, 하+고, 하+네요, 하+더라구요, 하+아+오+았+다, 하+았+다, 헷갈리+어+하+던데</li>
+<li>This corpus contains 5 lemmas tagged as auxiliaries (AUX): 싶, 않, 이, 있, 하</li>
 </ul>
 
 <ul>
-<li>Out of the above, 20 lemmas occurred sometimes as AUX and sometimes as VERB: 느끼+어+지+ㄴ다, 말+하+아+보+아, 보이+어+주+ㄴ다, 살+아+있+는, 싶+네요, 싶+다, 싶+습니다, 않+는다, 않+다, 않+았+다, 오+았+구요, 오+았+다, 있+다, 있+었+다, 주+ㄴ다, 하+ㄴ다, 하+고, 하+네요, 하+더라구요, 하+았+다</li>
 </ul>
 
 <ul>
@@ -190,11 +189,11 @@ The project repository: https://github.com/emorynlp/ud-korean
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 19 lemmas as copulas (<a>cop</a>). Examples: 이+라는, 이+다, 이+라며, 이+었+다, 이+ㄴ, 이+라, 이+며, 이+ㄴ데, 이+라고, 이+고, 이+ㅂ니다, 이+거나, 이+는, 이+라면서, 이+란, 이+었+고, 이+었+는데, 이+었+던, 이+었+으나.</li>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: 이.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 29 lemmas as auxiliaries (<a>aux</a>). Examples: 있+다, 하+ㄴ다, 않+는다, 하+아+오+았+다, 하+았+다, 기대+하+아+보+ㅁ직+하+다, 나가+겠+다, 느끼+어+지+ㄴ다, 말+하+아+보+아, 받+아+오+았+다, 보이+어+주+ㄴ다, 살+아+있+는, 실시+하+아야+하+겠+다, 심하+아+지+어, 싶+네요, 싶+다, 싶+습니다, 않+다, 않+았+다, 않+죠, 오+았+구요, 오+았+다, 이+다+하+아, 있+었+다, 전하+아+들+었+다, 주+ㄴ다, 주+시+어여, 취하+아+오+았+다, 헷갈리+어+하+던데.</li>
+<li>This corpus uses 4 lemmas as auxiliaries (<a>aux</a>). Examples: 있, 하, 않, 싶.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -203,19 +202,22 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (5558)</li>
+      <li>VERB--NOUN (5505)</li>
+      <li>VERB--NOUN-ADP(까지) (1)</li>
       <li>VERB--NOUN-ADP(는) (14)</li>
       <li>VERB--NOUN-ADP(도) (3)</li>
       <li>VERB--NOUN-ADP(안+이) (1)</li>
       <li>VERB--NOUN-ADP(에서+는) (2)</li>
       <li>VERB--NOUN-ADP(와) (1)</li>
       <li>VERB--NOUN-ADP(은) (7)</li>
+      <li>VERB--NOUN-ADP(의) (2)</li>
       <li>VERB--NOUN-ADP(이상+이) (1)</li>
       <li>VERB--NOUN-ADP(정도+가) (1)</li>
       <li>VERB--NOUN-ADP(정도+는) (1)</li>
+      <li>VERB--NOUN-ADP(중) (1)</li>
       <li>VERB--NOUN-ADP(측+은) (1)</li>
       <li>VERB--NOUN-ADP(측+이) (1)</li>
-      <li>VERB--PRON (289)</li>
+      <li>VERB--PRON (285)</li>
     </ul>
   </li>
 </ul>
@@ -223,16 +225,18 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (5062)</li>
+      <li>VERB--NOUN (5017)</li>
       <li>VERB--NOUN-ADP(는) (1)</li>
       <li>VERB--NOUN-ADP(도) (1)</li>
       <li>VERB--NOUN-ADP(마저+를) (1)</li>
       <li>VERB--NOUN-ADP(만) (1)</li>
+      <li>VERB--NOUN-ADP(시행+규칙) (1)</li>
       <li>VERB--NOUN-ADP(어+재연) (1)</li>
       <li>VERB--NOUN-ADP(을) (1)</li>
-      <li>VERB--NOUN-ADP(의) (1)</li>
+      <li>VERB--NOUN-ADP(의) (3)</li>
+      <li>VERB--NOUN-ADP(이란) (1)</li>
       <li>VERB--NOUN-ADP(정도+를) (1)</li>
-      <li>VERB--PRON (65)</li>
+      <li>VERB--PRON (63)</li>
     </ul>
   </li>
 </ul>
@@ -240,7 +244,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB--NOUN (94)</li>
+      <li>VERB--NOUN (93)</li>
       <li>VERB--PRON (3)</li>
     </ul>
   </li>
@@ -252,6 +256,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 3 relation subtypes: <a>acl:relcl</a>, <a>det:poss</a>, <a>nsubj:pass</a></li>
-<li>The following 11 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>This corpus uses 4 relation subtypes: <a>acl:relcl</a>, <a>det:poss</a>, <a>nmod:poss</a>, <a>nsubj:pass</a></li>
+<li>The following 7 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

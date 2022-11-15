@@ -65,7 +65,7 @@ The following 7 pairs of parts of speech are connected with `advcl:coverb`: <tt>
 # visual-style 6	fgColor:white
 # visual-style 6 4 advcl:coverb	color:blue
 1	明明	明明	ADV	_	_	6	advmod	_	SpaceAfter=No
-2	啲	啲	NOUN	_	NounType=Clf	3	det	_	SpaceAfter=No
+2	啲	啲	NOUN	_	NounType=Clf	3	clf:det	_	SpaceAfter=No
 3	CD	CD	NOUN	_	_	6	nsubj	_	SpaceAfter=No
 4	同	同	VERB	_	_	6	advcl:coverb	_	SpaceAfter=No
 5	而家	而家	NOUN	_	_	4	obj	_	SpaceAfter=No

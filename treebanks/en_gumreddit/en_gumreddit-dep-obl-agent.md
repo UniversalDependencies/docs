@@ -14,7 +14,7 @@ There are also 2 other language-specific subtypes of `obl`: <tt><a href="en_gumr
 11 instances of `obl:agent` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 3.27272727272727.
 
-The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (8; 73% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-PROPN.html">PROPN</a></tt> (2; 18% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> (1; 9% instances).
+The following 4 pairs of parts of speech are connected with `obl:agent`: <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (7; 64% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-PROPN.html">PROPN</a></tt> (2; 18% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> (1; 9% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> (1; 9% instances).
 
 
 ~~~ conllu
@@ -30,7 +30,7 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 5	_	_	NOUN	NNS	Number=Plur	0	root	0:root|7:nsubj	Entity=(126-person-giv:act-cf1-1-pred|Lem=hippie|Len=7
 6	_	_	PRON	WP	PronType=Rel	7	nsubj	5:ref	Discourse=elaboration-attribute:130->129:0|Lem=_|Len=3
 7	_	_	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	acl:relcl	5:acl:relcl	Lem=think|Len=7
-8	_	_	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	9	nmod:poss	9:nmod:poss	Entity=(85-person-giv:inact-cf2-2-coref(126-person-giv:act-cf1-1-ana)|Lem=_|Len=5
+8	_	_	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	9	nmod:poss	9:nmod:poss	Entity=(85-person-giv:inact-cf2-2-coref(126-person-giv:act-cf1-1-ana)|Lem=_|Len=5
 9	_	_	NOUN	NN	Number=Sing	12	nsubj	12:nsubj|15:nsubj:pass:xsubj	Entity=85)|Lem=_|Len=8
 10	_	_	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	aux	12:aux	Lem=do|Len=3
 11	_	_	PART	RB	Polarity=Neg	12	advmod	12:advmod	Lem=not|Len=3
@@ -66,8 +66,8 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 13	_	_	ADP	IN	_	15	case	15:case	Lem=_|Len=2
 14	_	_	DET	DT	Definite=Def|PronType=Art	15	det	15:det	Entity=(6-abstract-giv:inact-cf4-2-coref-Beat_Bobby_Flay|Lem=_|Len=3
 15	_	_	NOUN	NN	Number=Sing	12	nmod	12:nmod:of	Entity=6)47)|Lem=_|Len=4
-16	_	_	SCONJ	WRB	PronType=Int	21	mark	21:mark	Discourse=context-circumstance:45->44:0|Lem=_|Len=4
-17	_	_	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	19	nmod:poss	19:nmod:poss	Entity=(43-object-giv:act-cf2-3-coref(29-person-giv:act-cf1*-1-ana)|Lem=_|Len=5
+16	_	_	ADV	WRB	PronType=Int	21	advmod	21:advmod	Discourse=context-circumstance:45->44:0|Lem=_|Len=4
+17	_	_	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	19	nmod:poss	19:nmod:poss	Entity=(43-object-giv:act-cf2-3-coref(29-person-giv:act-cf1*-1-ana)|Lem=_|Len=5
 18	_	_	ADJ	JJ	Degree=Pos	19	amod	19:amod	Lem=_|Len=5
 19	_	_	NOUN	NN	Number=Sing	21	nsubj:pass	21:nsubj:pass	Entity=43)|Lem=_|Len=10
 20	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	aux:pass	21:aux:pass	Lem=get|Len=4

@@ -75,4 +75,4 @@ In another situation, a noun indicating a reference location may be followed by 
 6	there."	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated So kvě 14 19:03:02 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:09 CET 2022 -->

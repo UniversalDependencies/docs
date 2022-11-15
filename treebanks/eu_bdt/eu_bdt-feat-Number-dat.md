@@ -14,19 +14,19 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 1297 tokens (1%) have a non-empty value of `Number[dat]`.
 250 types (1%) occur at least once with a non-empty value of `Number[dat]`.
 13 lemmas (0%) occur at least once with a non-empty value of `Number[dat]`.
-The feature is used with 2 part-of-speech tags: <tt><a href="eu_bdt-pos-AUX.html">AUX</a></tt> (1126; 1% instances), <tt><a href="eu_bdt-pos-VERB.html">VERB</a></tt> (171; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="eu_bdt-pos-AUX.html">AUX</a></tt> (1129; 1% instances), <tt><a href="eu_bdt-pos-VERB.html">VERB</a></tt> (168; 0% instances).
 
 ### `AUX`
 
-1126 <tt><a href="eu_bdt-pos-AUX.html">AUX</a></tt> tokens (9% of all `AUX` tokens) have a non-empty value of `Number[dat]`.
+1129 <tt><a href="eu_bdt-pos-AUX.html">AUX</a></tt> tokens (9% of all `AUX` tokens) have a non-empty value of `Number[dat]`.
 
-The most frequent other feature values with which `AUX` and `Number[dat]` co-occurred: <tt><a href="eu_bdt-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (1122; 100%), <tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=3</tt> (1122; 100%), <tt><a href="eu_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1090; 97%), <tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Sing</tt> (1000; 89%), <tt><a href="eu_bdt-feat-Person-erg.html">Person[erg]</a></tt><tt>=3</tt> (784; 70%), <tt><a href="eu_bdt-feat-Number-erg.html">Number[erg]</a></tt><tt>=Sing</tt> (603; 54%).
+The most frequent other feature values with which `AUX` and `Number[dat]` co-occurred: <tt><a href="eu_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1129; 100%), <tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=3</tt> (1125; 100%), <tt><a href="eu_bdt-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (1122; 99%), <tt><a href="eu_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1093; 97%), <tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Sing</tt> (1001; 89%), <tt><a href="eu_bdt-feat-Person-erg.html">Person[erg]</a></tt><tt>=3</tt> (784; 69%), <tt><a href="eu_bdt-feat-Number-erg.html">Number[erg]</a></tt><tt>=Sing</tt> (603; 53%).
 
 `AUX` tokens may have the following values of `Number[dat]`:
 
 
 <table>
-  <tr><th>Paradigm <i>*edun</i></th><th><tt>Plur</tt></th><th><tt>Sing</tt></th></tr>
+  <tr><th>Paradigm <i>edun</i></th><th><tt>Plur</tt></th><th><tt>Sing</tt></th></tr>
   <tr><td><tt><tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=Abs</tt>|<tt><a href="eu_bdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="eu_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="eu_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Plur</tt>|<tt><a href="eu_bdt-feat-Number-dat.html">Number[dat]</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-Number-erg.html">Number[erg]</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-Person-dat.html">Person[dat]</a></tt><tt>=3</tt>|<tt><a href="eu_bdt-feat-Person-erg.html">Person[erg]</a></tt><tt>=3</tt></tt></td><td></td><td><em>zizkiona</em></td></tr>
   <tr><td><tt><tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=Abs</tt>|<tt><a href="eu_bdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="eu_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="eu_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-Number-dat.html">Number[dat]</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-Number-erg.html">Number[erg]</a></tt><tt>=Plur</tt>|<tt><a href="eu_bdt-feat-Person-dat.html">Person[dat]</a></tt><tt>=1</tt>|<tt><a href="eu_bdt-feat-Person-erg.html">Person[erg]</a></tt><tt>=3</tt></tt></td><td></td><td><em>zidatena</em></td></tr>
   <tr><td><tt><tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=Abs</tt>|<tt><a href="eu_bdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="eu_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="eu_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-Number-dat.html">Number[dat]</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-Number-erg.html">Number[erg]</a></tt><tt>=Plur</tt>|<tt><a href="eu_bdt-feat-Person-dat.html">Person[dat]</a></tt><tt>=3</tt>|<tt><a href="eu_bdt-feat-Person-erg.html">Person[erg]</a></tt><tt>=3</tt></tt></td><td></td><td><em>diotena</em></td></tr>
@@ -89,20 +89,19 @@ The most frequent other feature values with which `AUX` and `Number[dat]` co-occ
 
 ### `VERB`
 
-171 <tt><a href="eu_bdt-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Number[dat]`.
+168 <tt><a href="eu_bdt-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Number[dat]`.
 
-The most frequent other feature values with which `VERB` and `Number[dat]` co-occurred: <tt><a href="eu_bdt-feat-Aspect.html">Aspect</a></tt><tt>=Prog</tt> (171; 100%), <tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=3</tt> (171; 100%), <tt><a href="eu_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (171; 100%), <tt><a href="eu_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (167; 98%), <tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Sing</tt> (154; 90%), <tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (153; 89%).
+The most frequent other feature values with which `VERB` and `Number[dat]` co-occurred: <tt><a href="eu_bdt-feat-Aspect.html">Aspect</a></tt><tt>=Prog</tt> (168; 100%), <tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=3</tt> (168; 100%), <tt><a href="eu_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (168; 100%), <tt><a href="eu_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (164; 98%), <tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Sing</tt> (153; 91%), <tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (151; 90%).
 
 `VERB` tokens may have the following values of `Number[dat]`:
 
 
 <table>
   <tr><th>Paradigm <i>izan</i></th><th><tt>Plur</tt></th><th><tt>Sing</tt></th></tr>
-  <tr><td><tt><tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=Abs</tt>|<tt><a href="eu_bdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="eu_bdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Plur</tt>|<tt><a href="eu_bdt-feat-Number-dat.html">Number[dat]</a></tt><tt>=Plur</tt>|<tt><a href="eu_bdt-feat-Person-dat.html">Person[dat]</a></tt><tt>=3</tt></tt></td><td><em>zaizkienak</em></td><td></td></tr>
   <tr><td><tt><tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Plur</tt>|<tt><a href="eu_bdt-feat-Number-dat.html">Number[dat]</a></tt><tt>=Plur</tt>|<tt><a href="eu_bdt-feat-Person-dat.html">Person[dat]</a></tt><tt>=1</tt></tt></td><td><em>zauzkigu</em></td><td></td></tr>
   <tr><td><tt><tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Plur</tt>|<tt><a href="eu_bdt-feat-Number-dat.html">Number[dat]</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-Person-dat.html">Person[dat]</a></tt><tt>=1</tt></tt></td><td></td><td><em>zitzaizkidan</em></td></tr>
-  <tr><td><tt><tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Plur</tt>|<tt><a href="eu_bdt-feat-Number-dat.html">Number[dat]</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-Person-dat.html">Person[dat]</a></tt><tt>=3</tt></tt></td><td></td><td><em>zaizkio, zaizkion</em></td></tr>
-  <tr><td><tt><tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-Number-dat.html">Number[dat]</a></tt><tt>=Plur</tt>|<tt><a href="eu_bdt-feat-Person-dat.html">Person[dat]</a></tt><tt>=1</tt></tt></td><td><em>zaigu, zitzaigun</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Plur</tt>|<tt><a href="eu_bdt-feat-Number-dat.html">Number[dat]</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-Person-dat.html">Person[dat]</a></tt><tt>=3</tt></tt></td><td></td><td><em>zaizkio</em></td></tr>
+  <tr><td><tt><tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-Number-dat.html">Number[dat]</a></tt><tt>=Plur</tt>|<tt><a href="eu_bdt-feat-Person-dat.html">Person[dat]</a></tt><tt>=1</tt></tt></td><td><em>zaigu</em></td><td></td></tr>
   <tr><td><tt><tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-Number-dat.html">Number[dat]</a></tt><tt>=Plur</tt>|<tt><a href="eu_bdt-feat-Person-dat.html">Person[dat]</a></tt><tt>=3</tt></tt></td><td><em>zaie</em></td><td></td></tr>
   <tr><td><tt><tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-Number-dat.html">Number[dat]</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-Person-dat.html">Person[dat]</a></tt><tt>=1</tt></tt></td><td></td><td><em>zait</em></td></tr>
   <tr><td><tt><tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-Number-dat.html">Number[dat]</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-Person-dat.html">Person[dat]</a></tt><tt>=3</tt></tt></td><td></td><td><em>zaio, zitzaion</em></td></tr>

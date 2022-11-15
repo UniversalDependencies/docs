@@ -17,25 +17,18 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 1 nummod	color:blue
-1	Un	un	NUM	_	_	2	nummod	_	_
-2	chaa	caa	NOUN	_	Form=Len	0	root	_	_
-3	keyl	keyl	ADJ	_	_	2	amod	_	_
-4	–	–	PUNCT	_	_	5	punct	_	_
-5	tayrtyn	tayrtyn	NOUN	_	_	2	parataxis	_	_
-6	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	5	obj	_	_
-7	lesh	lesh	ADP	_	_	8	case	_	_
-8	ooilley	ooilley	NOUN	_	_	6	nmod	_	_
-9	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	10	det	_	_
-10	druggaghyn	druggey	NOUN	_	_	8	nmod	_	_
-11	v'	bee	VERB	_	Form=Len|Mood=Ind|Tense=Past	10	acl:relcl	_	_
-12	ec	ec	ADP	_	_	13	case	_	_
-13	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	11	xcomp:pred	_	_
-14	.	.	PUNCT	_	_	2	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 nummod	color:blue
+1	Ta	bee	VERB	_	Mood=Ind|Tense=Pres	0	root	_	_
+2	queig	queig	NUM	_	_	3	nummod	_	_
+3	booaghyn	booa	NOUN	_	_	1	nsubj	_	_
+4	jeig	jeig	NOUN	_	_	2	compound	_	_
+5	ec	ec	ADP	_	_	6	case	_	_
+6	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	xcomp:pred	_	_
+7	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~
 

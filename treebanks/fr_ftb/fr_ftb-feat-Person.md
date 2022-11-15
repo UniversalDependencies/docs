@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-57872 tokens (10%) have a non-empty value of `Person`.
-150 types (8%) occur at least once with a non-empty value of `Person`.
-90 lemmas (6%) occur at least once with a non-empty value of `Person`.
-The feature is used with 6 part-of-speech tags: <tt><a href="fr_ftb-pos-PRON.html">PRON</a></tt> (22054; 4% instances), <tt><a href="fr_ftb-pos-VERB.html">VERB</a></tt> (20087; 4% instances), <tt><a href="fr_ftb-pos-AUX.html">AUX</a></tt> (10778; 2% instances), <tt><a href="fr_ftb-pos-DET.html">DET</a></tt> (4862; 1% instances), <tt><a href="fr_ftb-pos-ADP.html">ADP</a></tt> (89; 0% instances), <tt><a href="fr_ftb-pos-X.html">X</a></tt> (2; 0% instances).
+57781 tokens (10%) have a non-empty value of `Person`.
+149 types (8%) occur at least once with a non-empty value of `Person`.
+89 lemmas (6%) occur at least once with a non-empty value of `Person`.
+The feature is used with 4 part-of-speech tags: <tt><a href="fr_ftb-pos-PRON.html">PRON</a></tt> (22054; 4% instances), <tt><a href="fr_ftb-pos-VERB.html">VERB</a></tt> (20087; 4% instances), <tt><a href="fr_ftb-pos-AUX.html">AUX</a></tt> (10778; 2% instances), <tt><a href="fr_ftb-pos-DET.html">DET</a></tt> (4862; 1% instances).
 
 ### `PRON`
 
@@ -69,24 +69,6 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 * `2` (23; 0% of non-empty `Person`): <em>_</em>
 * `3` (4390; 90% of non-empty `Person`): <em>_, Son, Leur, Ses, Sa, Certains, Leurs</em>
 * `EMPTY` (80632): <em>_, le, la, les, l', Cette, un, une, Ce, ces</em>
-
-### `ADP`
-
-89 <tt><a href="fr_ftb-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Person`.
-
-`ADP` tokens may have the following values of `Person`:
-
-* `3` (89; 100% of non-empty `Person`): <em>_, À</em>
-* `EMPTY` (92507): <em>_, en, A, Pour, à, dans, de, d', après, avec</em>
-
-### `X`
-
-2 <tt><a href="fr_ftb-pos-X.html">X</a></tt> tokens (0% of all `X` tokens) have a non-empty value of `Person`.
-
-`X` tokens may have the following values of `Person`:
-
-* `3` (2; 100% of non-empty `Person`): <em>_</em>
-* `EMPTY` (2190): <em>_, NEW, New, British, Grand, In, A, Altus, BUENOS, Body</em>
 
 ## Relations with Agreement in `Person`
 

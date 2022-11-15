@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Amharic-ATT: POS Tags: `AUX`
 
-There are 16 `AUX` lemmas (1%), 16 `AUX` types (1%) and 420 `AUX` tokens (4%).
-Out of 15 observed tags, the rank of `AUX` is: 13 in number of lemmas, 13 in number of types and 8 in number of tokens.
+There are 11 `AUX` lemmas (1%), 15 `AUX` types (1%) and 419 `AUX` tokens (4%).
+Out of 16 observed tags, the rank of `AUX` is: 13 in number of lemmas, 13 in number of types and 8 in number of tokens.
 
-The 10 most frequent `AUX` lemmas: ኣል, ን, ነበር, ሆን, ችል, ኖር, አይደል, እየ, ብል, ቻል
+The 10 most frequent `AUX` lemmas: ኣል, ን, ነበር, ሆን, ችል, ኖር, እየ, ብል, አይደል, አድርግ
 
 The 10 most frequent `AUX` types:  ኣል, ን, ነበር, ሆን, ችል, ኖር, አይደል, እየ, ብል, ቻል
 
-The 10 most frequent ambiguous lemmas: ኣል (<tt><a href="am_att-pos-AUX.html">AUX</a></tt> 211, <tt><a href="am_att-pos-PART.html">PART</a></tt> 147, <tt><a href="am_att-pos-VERB.html">VERB</a></tt> 40), ን (<tt><a href="am_att-pos-PART.html">PART</a></tt> 371, <tt><a href="am_att-pos-AUX.html">AUX</a></tt> 134, <tt><a href="am_att-pos-PRON.html">PRON</a></tt> 15), ነበር (<tt><a href="am_att-pos-AUX.html">AUX</a></tt> 31, <tt><a href="am_att-pos-VERB.html">VERB</a></tt> 7), ሆን (<tt><a href="am_att-pos-VERB.html">VERB</a></tt> 39, <tt><a href="am_att-pos-AUX.html">AUX</a></tt> 20), ችል (<tt><a href="am_att-pos-VERB.html">VERB</a></tt> 8, <tt><a href="am_att-pos-AUX.html">AUX</a></tt> 6), ኖር (<tt><a href="am_att-pos-VERB.html">VERB</a></tt> 16, <tt><a href="am_att-pos-AUX.html">AUX</a></tt> 4), አይደል (<tt><a href="am_att-pos-VERB.html">VERB</a></tt> 5, <tt><a href="am_att-pos-AUX.html">AUX</a></tt> 3), እየ (<tt><a href="am_att-pos-ADP.html">ADP</a></tt> 6, <tt><a href="am_att-pos-AUX.html">AUX</a></tt> 3, <tt><a href="am_att-pos-DET.html">DET</a></tt> 3, <tt><a href="am_att-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="am_att-pos-PART.html">PART</a></tt> 1), ብል (<tt><a href="am_att-pos-VERB.html">VERB</a></tt> 25, <tt><a href="am_att-pos-AUX.html">AUX</a></tt> 1), ቻል (<tt><a href="am_att-pos-VERB.html">VERB</a></tt> 6, <tt><a href="am_att-pos-AUX.html">AUX</a></tt> 1)
+The 10 most frequent ambiguous lemmas: ኣል (<tt><a href="am_att-pos-AUX.html">AUX</a></tt> 212, <tt><a href="am_att-pos-PART.html">PART</a></tt> 147, <tt><a href="am_att-pos-VERB.html">VERB</a></tt> 40), ን (<tt><a href="am_att-pos-PART.html">PART</a></tt> 368, <tt><a href="am_att-pos-AUX.html">AUX</a></tt> 151), ነበር (<tt><a href="am_att-pos-AUX.html">AUX</a></tt> 24, <tt><a href="am_att-pos-VERB.html">VERB</a></tt> 7), ሆን (<tt><a href="am_att-pos-VERB.html">VERB</a></tt> 39, <tt><a href="am_att-pos-AUX.html">AUX</a></tt> 13), ችል (<tt><a href="am_att-pos-VERB.html">VERB</a></tt> 8, <tt><a href="am_att-pos-AUX.html">AUX</a></tt> 7), ኖር (<tt><a href="am_att-pos-VERB.html">VERB</a></tt> 16, <tt><a href="am_att-pos-AUX.html">AUX</a></tt> 5), እየ (<tt><a href="am_att-pos-ADP.html">ADP</a></tt> 6, <tt><a href="am_att-pos-AUX.html">AUX</a></tt> 3, <tt><a href="am_att-pos-DET.html">DET</a></tt> 3, <tt><a href="am_att-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="am_att-pos-PART.html">PART</a></tt> 1), ብል (<tt><a href="am_att-pos-VERB.html">VERB</a></tt> 25, <tt><a href="am_att-pos-AUX.html">AUX</a></tt> 1), አይደል (<tt><a href="am_att-pos-VERB.html">VERB</a></tt> 5, <tt><a href="am_att-pos-AUX.html">AUX</a></tt> 1), አድርግ (<tt><a href="am_att-pos-AUX.html">AUX</a></tt> 1, <tt><a href="am_att-pos-VERB.html">VERB</a></tt> 1)
 
-The 10 most frequent ambiguous types:  ኣል (<tt><a href="am_att-pos-AUX.html">AUX</a></tt> 211, <tt><a href="am_att-pos-PART.html">PART</a></tt> 147, <tt><a href="am_att-pos-VERB.html">VERB</a></tt> 40), ን (<tt><a href="am_att-pos-PART.html">PART</a></tt> 371, <tt><a href="am_att-pos-AUX.html">AUX</a></tt> 133, <tt><a href="am_att-pos-PRON.html">PRON</a></tt> 15), ነበር (<tt><a href="am_att-pos-AUX.html">AUX</a></tt> 32, <tt><a href="am_att-pos-VERB.html">VERB</a></tt> 7), ሆን (<tt><a href="am_att-pos-VERB.html">VERB</a></tt> 39, <tt><a href="am_att-pos-AUX.html">AUX</a></tt> 20), ችል (<tt><a href="am_att-pos-VERB.html">VERB</a></tt> 8, <tt><a href="am_att-pos-AUX.html">AUX</a></tt> 6), ኖር (<tt><a href="am_att-pos-VERB.html">VERB</a></tt> 16, <tt><a href="am_att-pos-AUX.html">AUX</a></tt> 4), አይደል (<tt><a href="am_att-pos-VERB.html">VERB</a></tt> 5, <tt><a href="am_att-pos-AUX.html">AUX</a></tt> 3), እየ (<tt><a href="am_att-pos-ADP.html">ADP</a></tt> 6, <tt><a href="am_att-pos-AUX.html">AUX</a></tt> 3, <tt><a href="am_att-pos-DET.html">DET</a></tt> 3, <tt><a href="am_att-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="am_att-pos-PART.html">PART</a></tt> 1), ብል (<tt><a href="am_att-pos-VERB.html">VERB</a></tt> 25, <tt><a href="am_att-pos-AUX.html">AUX</a></tt> 1), ቻል (<tt><a href="am_att-pos-VERB.html">VERB</a></tt> 6, <tt><a href="am_att-pos-AUX.html">AUX</a></tt> 1)
+The 10 most frequent ambiguous types:  ኣል (<tt><a href="am_att-pos-AUX.html">AUX</a></tt> 211, <tt><a href="am_att-pos-PART.html">PART</a></tt> 147, <tt><a href="am_att-pos-VERB.html">VERB</a></tt> 40), ን (<tt><a href="am_att-pos-PART.html">PART</a></tt> 368, <tt><a href="am_att-pos-AUX.html">AUX</a></tt> 133, <tt><a href="am_att-pos-PRON.html">PRON</a></tt> 14, <tt><a href="am_att-pos-X.html">X</a></tt> 4), ነበር (<tt><a href="am_att-pos-AUX.html">AUX</a></tt> 32, <tt><a href="am_att-pos-VERB.html">VERB</a></tt> 7), ሆን (<tt><a href="am_att-pos-VERB.html">VERB</a></tt> 39, <tt><a href="am_att-pos-AUX.html">AUX</a></tt> 20), ችል (<tt><a href="am_att-pos-VERB.html">VERB</a></tt> 8, <tt><a href="am_att-pos-AUX.html">AUX</a></tt> 6), ኖር (<tt><a href="am_att-pos-VERB.html">VERB</a></tt> 16, <tt><a href="am_att-pos-AUX.html">AUX</a></tt> 4), አይደል (<tt><a href="am_att-pos-VERB.html">VERB</a></tt> 5, <tt><a href="am_att-pos-AUX.html">AUX</a></tt> 3), እየ (<tt><a href="am_att-pos-ADP.html">ADP</a></tt> 6, <tt><a href="am_att-pos-AUX.html">AUX</a></tt> 3, <tt><a href="am_att-pos-DET.html">DET</a></tt> 3, <tt><a href="am_att-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="am_att-pos-PART.html">PART</a></tt> 1), ብል (<tt><a href="am_att-pos-VERB.html">VERB</a></tt> 25, <tt><a href="am_att-pos-AUX.html">AUX</a></tt> 1), ቻል (<tt><a href="am_att-pos-VERB.html">VERB</a></tt> 6, <tt><a href="am_att-pos-AUX.html">AUX</a></tt> 1)
 
 
 * ኣል
@@ -23,9 +23,10 @@ The 10 most frequent ambiguous types:  ኣል (<tt><a href="am_att-pos-AUX.html"
   * <tt><a href="am_att-pos-PART.html">PART</a></tt> 147: ሰው <b>ኣል</b> ይ ኣስወጣ ም ።
   * <tt><a href="am_att-pos-VERB.html">VERB</a></tt> 40: ዝም <b>ኣል</b> ኧች ።
 * ን
-  * <tt><a href="am_att-pos-PART.html">PART</a></tt> 371: መጽሐፍ ኡ <b>ን</b> አስያዝ ኧ ኣት ።
+  * <tt><a href="am_att-pos-PART.html">PART</a></tt> 368: መጽሐፍ ኡ <b>ን</b> አስያዝ ኧ ኣት ።
   * <tt><a href="am_att-pos-AUX.html">AUX</a></tt> 133: ካሳ አስተማሪ <b>ን</b> ኧው ።
-  * <tt><a href="am_att-pos-PRON.html">PRON</a></tt> 15: በ እግር ኣችን ብ <b>ን</b> ሸራሸር ስ ?
+  * <tt><a href="am_att-pos-PRON.html">PRON</a></tt> 14: በ እግር ኣችን ብ <b>ን</b> ሸራሸር ስ ?
+  * <tt><a href="am_att-pos-X.html">X</a></tt> 4: ገንዘብ ኡ ን ማን እንደ ሰጥ ኧ ኣት ንገር ኧ <b>ን</b> ?
 * ነበር
   * <tt><a href="am_att-pos-AUX.html">AUX</a></tt> 32: ከ እዚህ ችግር ብ እ ገላገል እ ወድ <b>ነበር</b> ።
   * <tt><a href="am_att-pos-VERB.html">VERB</a></tt> 7: ገንዘብ ስለ ኣል <b>ነበር</b> ኧኝ መሄድ ኣል ቻል ኩ ም ።
@@ -56,30 +57,30 @@ The 10 most frequent ambiguous types:  ኣል (<tt><a href="am_att-pos-AUX.html"
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 1.000000 (the average of all parts of speech is 1.000000).
+The form / lemma ratio of `AUX` is 1.363636 (the average of all parts of speech is 1.029841).
 
-The 1st highest number of forms (2) was observed with the lemma “ን”: ነበር, ን.
+The 1st highest number of forms (5) was observed with the lemma “ን”: ሆን, ነ, ነበር, ን, አይደል.
 
-The 2nd highest number of forms (1) was observed with the lemma “ሆን”: ሆን.
+The 2nd highest number of forms (2) was observed with the lemma “ችል”: ቻል, ችል.
 
-The 3rd highest number of forms (1) was observed with the lemma “ብል”: ብል.
+The 3rd highest number of forms (2) was observed with the lemma “ኖር”: ኖር, ኖሮ.
 
 `AUX` occurs with 1 features: <tt><a href="am_att-feat-Tense.html">Tense</a></tt> (1; 0% instances)
 
 `AUX` occurs with 1 feature-value pairs: `Tense=Past`
 
 `AUX` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (419 tokens).
+The most frequent feature combination is `_` (418 tokens).
 Examples: ኣል, ን, ነበር, ሆን, ችል, ኖር, አይደል, እየ, ብል, ቻል
 
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 4 different relations: <tt><a href="am_att-dep-aux.html">aux</a></tt> (315; 75% instances), <tt><a href="am_att-dep-cop.html">cop</a></tt> (102; 24% instances), <tt><a href="am_att-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="am_att-dep-discourse.html">discourse</a></tt> (1; 0% instances)
+`AUX` nodes are attached to their parents using 4 different relations: <tt><a href="am_att-dep-aux.html">aux</a></tt> (314; 75% instances), <tt><a href="am_att-dep-cop.html">cop</a></tt> (102; 24% instances), <tt><a href="am_att-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="am_att-dep-discourse.html">discourse</a></tt> (1; 0% instances)
 
-Parents of `AUX` nodes belong to 7 different parts of speech: <tt><a href="am_att-pos-VERB.html">VERB</a></tt> (301; 72% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> (65; 15% instances), <tt><a href="am_att-pos-ADJ.html">ADJ</a></tt> (37; 9% instances), <tt><a href="am_att-pos-PRON.html">PRON</a></tt> (11; 3% instances), <tt><a href="am_att-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="am_att-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="am_att-pos-NUM.html">NUM</a></tt> (1; 0% instances)
+Parents of `AUX` nodes belong to 7 different parts of speech: <tt><a href="am_att-pos-VERB.html">VERB</a></tt> (300; 72% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> (65; 16% instances), <tt><a href="am_att-pos-ADJ.html">ADJ</a></tt> (37; 9% instances), <tt><a href="am_att-pos-PRON.html">PRON</a></tt> (11; 3% instances), <tt><a href="am_att-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="am_att-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="am_att-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 
-417 (99%) `AUX` nodes are leaves.
+416 (99%) `AUX` nodes are leaves.
 
 1 (0%) `AUX` nodes have one child.
 

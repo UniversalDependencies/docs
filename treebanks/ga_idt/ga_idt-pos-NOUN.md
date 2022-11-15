@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>chur</em> (<tt><a href="ga_idt-pos-NO
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 1.801669 (the average of all parts of speech is 1.643911).
+The form / lemma ratio of `NOUN` is 1.801669 (the average of all parts of speech is 1.643807).
 
 The 1st highest number of forms (13) was observed with the lemma “teach”: <em>TI, Tighe, Títhe, dteach, dtigh, dtithe, dtí, teach, theach, thigh, tigh, tithe, tí</em>.
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1121 nodes (8%) are attached to their parents as `obl`.
+1122 nodes (8%) are attached to their parents as `obl`.
 
-1056 instances of `obl` (94%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.82961641391615.
+1057 instances of `obl` (94%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.82887700534759.
 
-The following 11 pairs of parts of speech are connected with `obl`: <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> (627; 56% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-PRON.html">PRON</a></tt> (291; 26% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> (152; 14% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-PROPN.html">PROPN</a></tt> (33; 3% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-NUM.html">NUM</a></tt> (10; 1% instances), <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bm_crb-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `obl`: <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> (627; 56% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-PRON.html">PRON</a></tt> (291; 26% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> (152; 14% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-PROPN.html">PROPN</a></tt> (33; 3% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-NUM.html">NUM</a></tt> (10; 1% instances), <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bm_crb-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

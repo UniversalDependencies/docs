@@ -11,9 +11,9 @@ This relation is universal.
 754 nodes (7%) are attached to their parents as `root`.
 
 754 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.41246684350133.
+Average distance between parent and child is 7.41379310344828.
 
-The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt> (490; 65% instances), -<tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (120; 16% instances), -<tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt> (44; 6% instances), -<tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt> (41; 5% instances), -<tt><a href="kmr_mg-pos-ADJ.html">ADJ</a></tt> (31; 4% instances), -<tt><a href="kmr_mg-pos-NUM.html">NUM</a></tt> (13; 2% instances), -<tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt> (8; 1% instances), -<tt><a href="kmr_mg-pos-ADP.html">ADP</a></tt> (2; 0% instances), -<tt><a href="kmr_mg-pos-ADV.html">ADV</a></tt> (2; 0% instances), -<tt><a href="kmr_mg-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), -<tt><a href="kmr_mg-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), -<tt><a href="kmr_mg-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt> (518; 69% instances), -<tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (121; 16% instances), -<tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt> (44; 6% instances), -<tt><a href="kmr_mg-pos-ADJ.html">ADJ</a></tt> (31; 4% instances), -<tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt> (13; 2% instances), -<tt><a href="kmr_mg-pos-NUM.html">NUM</a></tt> (13; 2% instances), -<tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt> (8; 1% instances), -<tt><a href="kmr_mg-pos-ADV.html">ADV</a></tt> (2; 0% instances), -<tt><a href="kmr_mg-pos-ADP.html">ADP</a></tt> (1; 0% instances), -<tt><a href="kmr_mg-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), -<tt><a href="kmr_mg-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), -<tt><a href="kmr_mg-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

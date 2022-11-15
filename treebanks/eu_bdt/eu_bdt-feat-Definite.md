@@ -12,19 +12,19 @@ It occurs with 2 different values: `Def`, `Ind`.
 37941 tokens (31%) have a non-empty value of `Definite`.
 16308 types (67%) occur at least once with a non-empty value of `Definite`.
 6993 lemmas (64%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 11 part-of-speech tags: <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> (20597; 17% instances), <tt><a href="eu_bdt-pos-PROPN.html">PROPN</a></tt> (6192; 5% instances), <tt><a href="eu_bdt-pos-ADJ.html">ADJ</a></tt> (4579; 4% instances), <tt><a href="eu_bdt-pos-DET.html">DET</a></tt> (2944; 2% instances), <tt><a href="eu_bdt-pos-VERB.html">VERB</a></tt> (1653; 1% instances), <tt><a href="eu_bdt-pos-ADP.html">ADP</a></tt> (1498; 1% instances), <tt><a href="eu_bdt-pos-AUX.html">AUX</a></tt> (211; 0% instances), <tt><a href="eu_bdt-pos-PRON.html">PRON</a></tt> (207; 0% instances), <tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> (27; 0% instances), <tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt> (19; 0% instances), <tt><a href="eu_bdt-pos-SYM.html">SYM</a></tt> (14; 0% instances).
+The feature is used with 11 part-of-speech tags: <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> (20577; 17% instances), <tt><a href="eu_bdt-pos-PROPN.html">PROPN</a></tt> (6191; 5% instances), <tt><a href="eu_bdt-pos-ADJ.html">ADJ</a></tt> (4579; 4% instances), <tt><a href="eu_bdt-pos-DET.html">DET</a></tt> (2965; 2% instances), <tt><a href="eu_bdt-pos-VERB.html">VERB</a></tt> (1623; 1% instances), <tt><a href="eu_bdt-pos-ADP.html">ADP</a></tt> (1497; 1% instances), <tt><a href="eu_bdt-pos-AUX.html">AUX</a></tt> (242; 0% instances), <tt><a href="eu_bdt-pos-PRON.html">PRON</a></tt> (207; 0% instances), <tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> (27; 0% instances), <tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt> (19; 0% instances), <tt><a href="eu_bdt-pos-SYM.html">SYM</a></tt> (14; 0% instances).
 
 ### `NOUN`
 
-20597 <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> tokens (69% of all `NOUN` tokens) have a non-empty value of `Definite`.
+20577 <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> tokens (69% of all `NOUN` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `NOUN` and `Definite` co-occurred: <tt><a href="eu_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12862; 62%), <tt><a href="eu_bdt-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (11314; 55%).
+The most frequent other feature values with which `NOUN` and `Definite` co-occurred: <tt><a href="eu_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12854; 62%), <tt><a href="eu_bdt-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (11307; 55%).
 
 `NOUN` tokens may have the following values of `Definite`:
 
-* `Def` (17144; 83% of non-empty `Definite`): <em>taldeak, partidua, taldea, ostean, gobernuak, aurretik, aukera, garaipena, herrian, igandean</em>
-* `Ind` (3453; 17% of non-empty `Definite`): <em>behar, nahi, uste, ezin, urte, ondorioz, aldiz, espero, lagun, ahal</em>
-* `EMPTY` (9180): <em>euskal, talde, lan, jokalari, estatu, alderdi, urte, egun, partidu, milioi</em>
+* `Def` (17130; 83% of non-empty `Definite`): <em>taldeak, partidua, taldea, ostean, gobernuak, aurretik, aukera, garaipena, herrian, igandean</em>
+* `Ind` (3447; 17% of non-empty `Definite`): <em>behar, nahi, uste, ezin, urte, ondorioz, aldiz, espero, lagun, ahal</em>
+* `EMPTY` (9136): <em>euskal, talde, lan, jokalari, estatu, alderdi, urte, egun, partidu, aukera</em>
 
 <table>
   <tr><th>Paradigm <i>talde</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
@@ -59,13 +59,13 @@ The most frequent other feature values with which `NOUN` and `Definite` co-occur
 
 ### `PROPN`
 
-6192 <tt><a href="eu_bdt-pos-PROPN.html">PROPN</a></tt> tokens (63% of all `PROPN` tokens) have a non-empty value of `Definite`.
+6191 <tt><a href="eu_bdt-pos-PROPN.html">PROPN</a></tt> tokens (63% of all `PROPN` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `PROPN` and `Definite` co-occurred: <tt><a href="eu_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6105; 99%).
+The most frequent other feature values with which `PROPN` and `Definite` co-occurred: <tt><a href="eu_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6104; 99%).
 
 `PROPN` tokens may have the following values of `Definite`:
 
-* `Def` (6184; 100% of non-empty `Definite`): <em>Europako, Espainiako, Frantziako, Israelgo, Nafarroako, EEBBetako, Jugoslaviako, Miarritzek, EAJk, Osasunak</em>
+* `Def` (6183; 100% of non-empty `Definite`): <em>Europako, Espainiako, Frantziako, Israelgo, Nafarroako, EEBBetako, Jugoslaviako, Miarritzek, EAJk, Osasunak</em>
 * `Ind` (8; 0% of non-empty `Definite`): <em>Briverekiko, EEBBetarako, Eurokoparako, Klodenekiko, Madrilen, OLBKren, Txetxeniarako, Vueltarako</em>
 * `EMPTY` (3677): <em>Jose, Juan, Euskal, Iñaki, Luis, Joseba, David, Mikel, Jean, Miguel</em>
 
@@ -84,15 +84,15 @@ The most frequent other feature values with which `PROPN` and `Definite` co-occu
 
 ### `ADJ`
 
-4579 <tt><a href="eu_bdt-pos-ADJ.html">ADJ</a></tt> tokens (77% of all `ADJ` tokens) have a non-empty value of `Definite`.
+4579 <tt><a href="eu_bdt-pos-ADJ.html">ADJ</a></tt> tokens (65% of all `ADJ` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `ADJ` and `Definite` co-occurred: <tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=Abs</tt> (2923; 64%), <tt><a href="eu_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2811; 61%).
+The most frequent other feature values with which `ADJ` and `Definite` co-occurred: <tt><a href="eu_bdt-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (4579; 100%), <tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=Abs</tt> (2923; 64%), <tt><a href="eu_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2811; 61%).
 
 `ADJ` tokens may have the following values of `Definite`:
 
 * `Def` (3852; 84% of non-empty `Definite`): <em>handia, ona, bakarra, nagusia, zaila, berria, onena, garrantzitsua, nagusiak, osoa</em>
 * `Ind` (727; 16% of non-empty `Definite`): <em>nagusi, bizi, handirik, handiz, zuzen, ziur, berri, indartsu, sendo, ageri</em>
-* `EMPTY` (1394): <em>hurrengo, inolako, nazioarteko, berri, olinpiar, txiki, handi, politiko, horrelako, oinarrizko</em>
+* `EMPTY` (2442): <em>azken, lehen, bigarren, hirugarren, lehenengo, hurrengo, inolako, nazioarteko, laugarren, berri</em>
 
 <table>
   <tr><th>Paradigm <i>handi</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
@@ -134,21 +134,22 @@ The most frequent other feature values with which `ADJ` and `Definite` co-occurr
 
 ### `DET`
 
-2944 <tt><a href="eu_bdt-pos-DET.html">DET</a></tt> tokens (72% of all `DET` tokens) have a non-empty value of `Definite`.
+2965 <tt><a href="eu_bdt-pos-DET.html">DET</a></tt> tokens (72% of all `DET` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=Abs</tt> (1531; 52%), <tt><a href="eu_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1530; 52%).
+The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=Abs</tt> (1549; 52%), <tt><a href="eu_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1539; 52%).
 
 `DET` tokens may have the following values of `Definite`:
 
-* `Def` (2324; 79% of non-empty `Definite`): <em>hori, hau, horretan, batzuk, guztiak, honetan, horiek, horrek, bera, hauek</em>
-* `Ind` (620; 21% of non-empty `Definite`): <em>zer, gehiago, asko, ugari, horretarako, gutxi, beste, gehiegi, zein, askok</em>
-* `EMPTY` (1130): <em>bere, beste, hainbat, zenbait, berean, horren, zer, zein, horien, edozein</em>
+* `Def` (2339; 79% of non-empty `Definite`): <em>hori, hau, horretan, batzuk, guztiak, honetan, horiek, horrek, bera, hauek</em>
+* `Ind` (626; 21% of non-empty `Definite`): <em>zer, gehiago, asko, ugari, horretarako, gutxi, beste, gehiegi, zein, askok</em>
+* `EMPTY` (1174): <em>bere, beste, hainbat, zenbait, berean, horren, zer, milioi, zein, horien</em>
 
 <table>
   <tr><th>Paradigm <i>hori</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
   <tr><td><tt><tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="eu_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>horretatik</em></td></tr>
   <tr><td><tt><tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=Abs</tt></tt></td><td><em>horretarako</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=Abs</tt>|<tt><a href="eu_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>hori, horixe</em></td></tr>
+  <tr><td><tt><tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=Abs</tt>|<tt><a href="eu_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>hori, horixe, horretakoa</em></td></tr>
+  <tr><td><tt><tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=Abs</tt>|<tt><a href="eu_bdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>horretakoak</em></td></tr>
   <tr><td><tt><tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=All</tt>|<tt><a href="eu_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>horretara</em></td></tr>
   <tr><td><tt><tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=Cau</tt>|<tt><a href="eu_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>horregatik, Horrexegatik, horrengatik</em></td></tr>
   <tr><td><tt><tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=Com</tt>|<tt><a href="eu_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>horrekin, horrexekin</em></td></tr>
@@ -162,50 +163,44 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 
 ### `VERB`
 
-1653 <tt><a href="eu_bdt-pos-VERB.html">VERB</a></tt> tokens (9% of all `VERB` tokens) have a non-empty value of `Definite`.
+1623 <tt><a href="eu_bdt-pos-VERB.html">VERB</a></tt> tokens (9% of all `VERB` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `VERB` and `Definite` co-occurred: <tt><a href="eu_bdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1577; 95%), <tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=EMPTY</tt> (1577; 95%), <tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=EMPTY</tt> (1577; 95%), <tt><a href="eu_bdt-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (1575; 95%), <tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=Abs</tt> (1023; 62%), <tt><a href="eu_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (829; 50%).
+The most frequent other feature values with which `VERB` and `Definite` co-occurred: <tt><a href="eu_bdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1553; 96%), <tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=EMPTY</tt> (1553; 96%), <tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=EMPTY</tt> (1553; 96%), <tt><a href="eu_bdt-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (1551; 96%), <tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=Abs</tt> (999; 62%), <tt><a href="eu_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (818; 50%).
 
 `VERB` tokens may have the following values of `Definite`:
 
-* `Def` (675; 41% of non-empty `Definite`): <em>izana, egina, hasia, litekeena, egiteak, azpimarratzekoa, dagokionean, irekia, izanak, armatuak</em>
-* `Ind` (978; 59% of non-empty `Definite`): <em>egiteko, emateko, izateko, eginez, erabiliz, lortzeko, irabazteko, jokatzeko, izan, jakiteko</em>
-* `EMPTY` (17473): <em>egin, izan, esan, egiten, da, du, izango, eman, dago, joan</em>
+* `Def` (646; 40% of non-empty `Definite`): <em>egina, hasia, litekeena, egiteak, azpimarratzekoa, dagokionean, irekia, izana, armatuak, bateratua</em>
+* `Ind` (977; 60% of non-empty `Definite`): <em>egiteko, emateko, izateko, eginez, erabiliz, lortzeko, irabazteko, jokatzeko, izan, jakiteko</em>
+* `EMPTY` (17444): <em>egin, izan, esan, egiten, du, da, izango, eman, dago, joan</em>
 
 <table>
   <tr><th>Paradigm <i>izan</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
-  <tr><td><tt><tt><a href="eu_bdt-feat-Aspect.html">Aspect</a></tt><tt>=Prog</tt>|<tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="eu_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="eu_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Plur</tt>|<tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=1</tt></tt></td><td></td><td><em>ginenekotik</em></td></tr>
-  <tr><td><tt><tt><a href="eu_bdt-feat-Aspect.html">Aspect</a></tt><tt>=Prog</tt>|<tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=Abs</tt>|<tt><a href="eu_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="eu_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Plur</tt>|<tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=3</tt></tt></td><td></td><td><em>direna</em></td></tr>
-  <tr><td><tt><tt><a href="eu_bdt-feat-Aspect.html">Aspect</a></tt><tt>=Prog</tt>|<tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=Abs</tt>|<tt><a href="eu_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="eu_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=3</tt></tt></td><td></td><td><em>dena</em></td></tr>
-  <tr><td><tt><tt><a href="eu_bdt-feat-Aspect.html">Aspect</a></tt><tt>=Prog</tt>|<tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=Abs</tt>|<tt><a href="eu_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="eu_bdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Plur</tt>|<tt><a href="eu_bdt-feat-Number-dat.html">Number[dat]</a></tt><tt>=Plur</tt>|<tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=3</tt>|<tt><a href="eu_bdt-feat-Person-dat.html">Person[dat]</a></tt><tt>=3</tt></tt></td><td></td><td><em>zaizkienak</em></td></tr>
-  <tr><td><tt><tt><a href="eu_bdt-feat-Aspect.html">Aspect</a></tt><tt>=Prog</tt>|<tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=Abs</tt>|<tt><a href="eu_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="eu_bdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Plur</tt>|<tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=3</tt></tt></td><td></td><td><em>zirenak</em></td></tr>
-  <tr><td><tt><tt><a href="eu_bdt-feat-Aspect.html">Aspect</a></tt><tt>=Prog</tt>|<tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="eu_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="eu_bdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Plur</tt>|<tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=3</tt></tt></td><td></td><td><em>zirenei</em></td></tr>
-  <tr><td><tt><tt><a href="eu_bdt-feat-Aspect.html">Aspect</a></tt><tt>=Prog</tt>|<tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="eu_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="eu_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=3</tt></tt></td><td></td><td><em>zenaren</em></td></tr>
-  <tr><td><tt><tt><a href="eu_bdt-feat-Aspect.html">Aspect</a></tt><tt>=Prog</tt>|<tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="eu_bdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>denez</em></td></tr>
-  <tr><td><tt><tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=Abs</tt></tt></td><td><em>izateko</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="eu_bdt-feat-Aspect.html">Aspect</a></tt><tt>=Prog</tt>|<tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=Abs</tt>|<tt><a href="eu_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="eu_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Plur</tt>|<tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=3</tt>|<tt><a href="eu_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>direna</em></td></tr>
+  <tr><td><tt><tt><a href="eu_bdt-feat-Aspect.html">Aspect</a></tt><tt>=Prog</tt>|<tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=Abs</tt>|<tt><a href="eu_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="eu_bdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Plur</tt>|<tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=3</tt>|<tt><a href="eu_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>zirenak</em></td></tr>
+  <tr><td><tt><tt><a href="eu_bdt-feat-Aspect.html">Aspect</a></tt><tt>=Prog</tt>|<tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="eu_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="eu_bdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Plur</tt>|<tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=3</tt>|<tt><a href="eu_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>zirenei</em></td></tr>
+  <tr><td><tt><tt><a href="eu_bdt-feat-Aspect.html">Aspect</a></tt><tt>=Prog</tt>|<tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="eu_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="eu_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=3</tt>|<tt><a href="eu_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>zenaren</em></td></tr>
+  <tr><td><tt><tt><a href="eu_bdt-feat-Aspect.html">Aspect</a></tt><tt>=Prog</tt>|<tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="eu_bdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="eu_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>denez</em></td></tr>
   <tr><td><tt><tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=Abs</tt>|<tt><a href="eu_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>izana</em></td></tr>
-  <tr><td><tt><tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=Abs</tt>|<tt><a href="eu_bdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="eu_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>izanak</em></td></tr>
+  <tr><td><tt><tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=Abs</tt>|<tt><a href="eu_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>izateko</em></td><td></td></tr>
   <tr><td><tt><tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=Abs</tt>|<tt><a href="eu_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>izan</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=Cau</tt>|<tt><a href="eu_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>izanagatik</em></td></tr>
-  <tr><td><tt><tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="eu_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>izateari</em></td></tr>
-  <tr><td><tt><tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=Erg</tt>|<tt><a href="eu_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>izateak</em></td></tr>
+  <tr><td><tt><tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="eu_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>izateari</em></td></tr>
+  <tr><td><tt><tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=Erg</tt>|<tt><a href="eu_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>izateak</em></td></tr>
   <tr><td><tt><tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=Erg</tt>|<tt><a href="eu_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>izanak</em></td></tr>
   <tr><td><tt><tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="eu_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>izanaren</em></td></tr>
-  <tr><td><tt><tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="eu_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>izateaz</em></td></tr>
-  <tr><td><tt><tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="eu_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>izanaz</em></td></tr>
+  <tr><td><tt><tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="eu_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>izateaz</em></td></tr>
   <tr><td><tt><tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="eu_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>izanez</em></td><td></td></tr>
   <tr><td><tt><tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=Par</tt>|<tt><a href="eu_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>izanik</em></td><td></td></tr>
 </table>
 
 ### `ADP`
 
-1498 <tt><a href="eu_bdt-pos-ADP.html">ADP</a></tt> tokens (80% of all `ADP` tokens) have a non-empty value of `Definite`.
+1497 <tt><a href="eu_bdt-pos-ADP.html">ADP</a></tt> tokens (80% of all `ADP` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `ADP` and `Definite` co-occurred: <tt><a href="eu_bdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (937; 63%), <tt><a href="eu_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (899; 60%).
+The most frequent other feature values with which `ADP` and `Definite` co-occurred: <tt><a href="eu_bdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (936; 63%), <tt><a href="eu_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (898; 60%).
 
 `ADP` tokens may have the following values of `Definite`:
 
-* `Def` (1356; 91% of non-empty `Definite`): <em>arabera, artean, aurka, arteko, inguruan, kontra, aurrean, aurkako, buruz, zehar</em>
+* `Def` (1355; 91% of non-empty `Definite`): <em>arabera, artean, aurka, arteko, inguruan, kontra, aurrean, aurkako, buruz, zehar</em>
 * `Ind` (142; 9% of non-empty `Definite`): <em>gabe, gabeko, kontra, aurka, artean, ezean, bezala, gain, gisan, kanpo</em>
 * `EMPTY` (378): <em>arte, gisa, bezala, gainean, arteko, aurrean, inguru, artean, aurrera, barruan</em>
 
@@ -238,18 +233,18 @@ The most frequent other feature values with which `ADP` and `Definite` co-occurr
 
 ### `AUX`
 
-211 <tt><a href="eu_bdt-pos-AUX.html">AUX</a></tt> tokens (2% of all `AUX` tokens) have a non-empty value of `Definite`.
+242 <tt><a href="eu_bdt-pos-AUX.html">AUX</a></tt> tokens (2% of all `AUX` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `AUX` and `Definite` co-occurred: <tt><a href="eu_bdt-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (193; 91%), <tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=3</tt> (163; 77%), <tt><a href="eu_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (160; 76%), <tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Sing</tt> (124; 59%).
+The most frequent other feature values with which `AUX` and `Definite` co-occurred: <tt><a href="eu_bdt-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (218; 90%), <tt><a href="eu_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (203; 84%), <tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=3</tt> (167; 69%), <tt><a href="eu_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (166; 69%), <tt><a href="eu_bdt-feat-Number-erg.html">Number[erg]</a></tt><tt>=EMPTY</tt> (132; 55%), <tt><a href="eu_bdt-feat-Person-erg.html">Person[erg]</a></tt><tt>=EMPTY</tt> (132; 55%), <tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Sing</tt> (128; 53%).
 
 `AUX` tokens may have the following values of `Definite`:
 
-* `Def` (191; 91% of non-empty `Definite`): <em>duena, dena, dutenak, zuena, direnak, izateaz, dituztenak, dutena, zena, zirenak</em>
-* `Ind` (20; 9% of non-empty `Definite`): <em>izateko, izanik, duenik, dutenen, egoteko, izan, izanez</em>
-* `EMPTY` (12279): <em>da, zuen, zen, du, dira, dute, izan, zuten, ziren, ditu</em>
+* `Def` (220; 91% of non-empty `Definite`): <em>izana, dena, duena, dutenak, zuena, direnak, izateaz, dituztenak, dutena, zena</em>
+* `Ind` (22; 9% of non-empty `Definite`): <em>izateko, izanik, izan, duenik, dutenen, egon, egoteko, izanez</em>
+* `EMPTY` (12306): <em>da, zuen, zen, du, dira, izan, dute, zuten, ziren, ditu</em>
 
 <table>
-  <tr><th>Paradigm <i>*edun</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
+  <tr><th>Paradigm <i>edun</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
   <tr><td><tt><tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="eu_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="eu_bdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-Number-erg.html">Number[erg]</a></tt><tt>=Plur</tt>|<tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=3</tt>|<tt><a href="eu_bdt-feat-Person-erg.html">Person[erg]</a></tt><tt>=3</tt></tt></td><td></td><td><em>dutenenetatik</em></td></tr>
   <tr><td><tt><tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=Abs</tt>|<tt><a href="eu_bdt-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="eu_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-Number-erg.html">Number[erg]</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=3</tt>|<tt><a href="eu_bdt-feat-Person-erg.html">Person[erg]</a></tt><tt>=3</tt></tt></td><td></td><td><em>lukeena</em></td></tr>
   <tr><td><tt><tt><a href="eu_bdt-feat-Case.html">Case</a></tt><tt>=Abs</tt>|<tt><a href="eu_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="eu_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-Number-abs.html">Number[abs]</a></tt><tt>=Plur</tt>|<tt><a href="eu_bdt-feat-Number-dat.html">Number[dat]</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-Number-erg.html">Number[erg]</a></tt><tt>=Sing</tt>|<tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=3</tt>|<tt><a href="eu_bdt-feat-Person-dat.html">Person[dat]</a></tt><tt>=3</tt>|<tt><a href="eu_bdt-feat-Person-erg.html">Person[erg]</a></tt><tt>=3</tt></tt></td><td></td><td><em>zizkiona</em></td></tr>
@@ -317,7 +312,7 @@ The most frequent other feature values with which `PRON` and `Definite` co-occur
 
 * `Def` (18; 67% of non-empty `Definite`): <em>samarra, adinakoa, atzokoa, atzokoan, atzokoaren, aurtengoa, aurtengoak, aurtengora, egungoak, gaurkoa</em>
 * `Ind` (9; 33% of non-empty `Definite`): <em>seguruenik, gaurko, betirako, biharko, lehenbiziko, samar</em>
-* `EMPTY` (5151): <em>atzo, oso, gaur, orain, ondoren, gero, hala, bertan, beti, ondo</em>
+* `EMPTY` (5225): <em>atzo, oso, gaur, orain, ondoren, gero, hala, bertan, beti, ondo</em>
 
 <table>
   <tr><th>Paradigm <i>gaur</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
@@ -327,14 +322,14 @@ The most frequent other feature values with which `PRON` and `Definite` co-occur
 
 ### `NUM`
 
-19 <tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt> tokens (0% of all `NUM` tokens) have a non-empty value of `Definite`.
+19 <tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt> tokens (1% of all `NUM` tokens) have a non-empty value of `Definite`.
 
 The most frequent other feature values with which `NUM` and `Definite` co-occurred: <tt><a href="eu_bdt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (19; 100%).
 
 `NUM` tokens may have the following values of `Definite`:
 
 * `Ind` (19; 100% of non-empty `Definite`): <em>bana, 16na, 21na, 31na, banarekin, bedera</em>
-* `EMPTY` (4594): <em>bat, bi, azken, lehen, hiru, batean, bigarren, baten, batek, lau</em>
+* `EMPTY` (3547): <em>bat, bi, hiru, batean, baten, batek, lau, batez, bost, sei</em>
 
 ### `SYM`
 
@@ -350,14 +345,14 @@ The most frequent other feature values with which `SYM` and `Definite` co-occurr
 ## Relations with Agreement in `Definite`
 
 The 10 most frequent relations where parent and child node agree in `Definite`:
-<tt>NOUN --[<tt><a href="eu_bdt-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (1281; 53%),
-<tt>NOUN --[<tt><a href="eu_bdt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (474; 56%),
-<tt>ADJ --[<tt><a href="eu_bdt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (202; 68%),
+<tt>NOUN --[<tt><a href="eu_bdt-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (1282; 52%),
+<tt>NOUN --[<tt><a href="eu_bdt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (481; 55%),
+<tt>ADJ --[<tt><a href="eu_bdt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (204; 67%),
 <tt>PROPN --[<tt><a href="eu_bdt-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (68; 66%),
-<tt>NOUN --[<tt><a href="eu_bdt-dep-nsubj.html">nsubj</a></tt>]--> DET</tt> (55; 65%),
-<tt>PROPN --[<tt><a href="eu_bdt-dep-appos.html">appos</a></tt>]--> PROPN</tt> (50; 67%),
-<tt>ADJ --[<tt><a href="eu_bdt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (49; 52%),
+<tt>NOUN --[<tt><a href="eu_bdt-dep-nsubj.html">nsubj</a></tt>]--> DET</tt> (56; 65%),
+<tt>ADJ --[<tt><a href="eu_bdt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (52; 53%),
+<tt>PROPN --[<tt><a href="eu_bdt-dep-appos.html">appos</a></tt>]--> PROPN</tt> (50; 66%),
 <tt>PROPN --[<tt><a href="eu_bdt-dep-appos.html">appos</a></tt>]--> NOUN</tt> (37; 64%),
-<tt>NOUN --[<tt><a href="eu_bdt-dep-conj.html">conj</a></tt>]--> PROPN</tt> (32; 56%),
-<tt>ADJ --[<tt><a href="eu_bdt-dep-nsubj.html">nsubj</a></tt>]--> DET</tt> (30; 81%).
+<tt>NOUN --[<tt><a href="eu_bdt-dep-conj.html">conj</a></tt>]--> PROPN</tt> (32; 53%),
+<tt>ADJ --[<tt><a href="eu_bdt-dep-nsubj.html">nsubj</a></tt>]--> DET</tt> (31; 79%).
 

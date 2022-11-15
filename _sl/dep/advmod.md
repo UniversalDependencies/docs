@@ -88,3 +88,4 @@ case(začetku,ob)
  vložki iz krp, spletene volne, gobe in celo trave
 advmod(trave,celo)
 ~~~
+<!-- Interlanguage links updated Po lis 14 15:35:05 CET 2022 -->

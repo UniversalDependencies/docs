@@ -26,8 +26,8 @@ The following 6 pairs of parts of speech are connected with `list`: <tt><a href=
 2	kasutamiseks	kasutamine	NOUN	S	Case=Tra|Number=Sing	4	obl	4:obl	_
 3	tuleb	tulema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 4	saata	saatma	VERB	V	VerbForm=Inf	3	csubj	3:csubj	_
-5	SMS	SMS	NOUN	Y	Abbr=Yes	6	nmod	6:nmod	_
-6	sõnum	sõnum	NOUN	S	Case=Nom|Number=Sing	4	obj	4:obj	_
+5	SMS	SMS	NOUN	Y	Abbr=Yes	6	nmod	6:nmod	NE=B-Unk
+6	sõnum	sõnum	NOUN	S	Case=Nom|Number=Sing	4	obj	4:obj	NE=B-Unk
 7	kujul	kuju	NOUN	S	Case=Ade|Number=Sing	4	obl	4:obl	_
 8	"	"	PUNCT	Z	_	9	punct	9:punct	SpaceAfter=No
 9	PEATUS	peatus	NOUN	S	Case=Nom|Number=Sing	7	appos	7:appos	_

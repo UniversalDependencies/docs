@@ -81,4 +81,4 @@ Pomak expresses degree modification of nouns, adjectives, past participles and a
 	* _zavíttišiček (zavít)_ "well covered (covered)" 
 	* _zalǽttišiček (zalǽt)_ "well watered (watered)"  
  
-<!-- Interlanguage links updated So kvě 14 19:02:11 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:44 CET 2022 -->

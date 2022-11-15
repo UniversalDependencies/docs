@@ -36,7 +36,7 @@ The most frequent other feature values with which `ADJ` and `Poss` co-occurred: 
 `ADJ` tokens may have the following values of `Poss`:
 
 * `Yes` (93; 100% of non-empty `Poss`): <em>Божией, Божьей, Божьим, Иринины, Петину, Петровичеву, Христова, бабушкин, бычьей, маминой</em>
-* `EMPTY` (16792): <em>хороший, большой, нужно, отличный, лучше, неплохой, хорошая, хорошо, хорошее, вежливый</em>
+* `EMPTY` (16791): <em>хороший, большой, нужно, отличный, лучше, неплохой, хорошая, хорошо, хорошее, вежливый</em>
 
 `Poss` seems to be **lexical feature** of `ADJ`. 100% lemmas (57) occur only with one value of `Poss`.
 

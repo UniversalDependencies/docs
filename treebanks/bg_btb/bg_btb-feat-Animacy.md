@@ -34,7 +34,7 @@ The most frequent other feature values with which `NUM` and `Animacy` co-occurre
 `NUM` tokens may have the following values of `Animacy`:
 
 * `Anim` (9; 100% of non-empty `Animacy`): <em>мнозина, малцина</em>
-* `EMPTY` (2097): <em>две, един, два, 2, една, 1, 3, три, 10, двамата</em>
+* `EMPTY` (2096): <em>две, един, два, 2, една, 1, 3, три, 10, двамата</em>
 
 ### `DET`
 

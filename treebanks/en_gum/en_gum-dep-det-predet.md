@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="en_gum-dep-det.html">det</a></tt>.
 
-142 nodes (0%) are attached to their parents as `det:predet`.
+144 nodes (0%) are attached to their parents as `det:predet`.
 
-142 instances of `det:predet` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.22535211267606.
+144 instances of `det:predet` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.23611111111111.
 
-The following 5 pairs of parts of speech are connected with `det:predet`: <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-DET.html">DET</a></tt> (131; 92% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-DET.html">DET</a></tt> (8; 6% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gum-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-DET.html">DET</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `det:predet`: <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-DET.html">DET</a></tt> (133; 92% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-DET.html">DET</a></tt> (8; 6% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gum-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-DET.html">DET</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -44,7 +44,7 @@ The following 5 pairs of parts of speech are connected with `det:predet`: <tt><a
 2	track	track	NOUN	NN	Number=Sing	1	obj	1:obj	_
 3	of	of	ADP	IN	_	5	case	5:case	_
 4	all	all	DET	PDT	PronType=Tot	5	det:predet	5:det:predet	Entity=(83-abstract-new-cf2-2-sgl
-5	your	your	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod	2:nmod:of	CorrectForm=your words.|Entity=(5-person-giv:act-cf1*-1-ana)83)|XML=<sic ana:::"your words."></sic>
+5	your	your	PRON	PRP$	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs|Typo=Yes	2	nmod	2:nmod:of	CorrectForm=your words.|Entity=(5-person-giv:act-cf1*-1-ana)83)|XML=<sic ana:::"your words."></sic>
 
 ~~~
 

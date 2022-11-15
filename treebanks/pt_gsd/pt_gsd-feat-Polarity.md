@@ -21,7 +21,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="pt_gsd-pos-ADV.html
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (1486; 100% of non-empty `Polarity`): <em>não</em>
-* `EMPTY` (8263): <em>mais, também, já, ainda, muito, onde, depois, além, apenas, hoje</em>
+* `EMPTY` (8264): <em>mais, também, já, ainda, muito, onde, depois, além, apenas, hoje</em>
 
 ### `PROPN`
 
@@ -30,7 +30,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="pt_gsd-pos-ADV.html
 `PROPN` tokens may have the following values of `Polarity`:
 
 * `Neg` (4; 100% of non-empty `Polarity`): <em>Não</em>
-* `EMPTY` (32813): <em>feira, Brasil, São, Paulo, rio, Estado, Nacional, Federal, janeiro, quinta</em>
+* `EMPTY` (32803): <em>feira, Brasil, São, Paulo, rio, Estado, Nacional, Federal, janeiro, quinta</em>
 
 ### `NOUN`
 
@@ -39,5 +39,5 @@ The feature is used with 3 part-of-speech tags: <tt><a href="pt_gsd-pos-ADV.html
 `NOUN` tokens may have the following values of `Polarity`:
 
 * `Neg` (2; 100% of non-empty `Polarity`): <em>não</em>
-* `EMPTY` (56168): <em>anos, ano, dia, r, presidente, pessoas, acordo, cidade, governo, tempo</em>
+* `EMPTY` (56174): <em>anos, ano, dia, r, presidente, pessoas, acordo, cidade, governo, tempo</em>
 

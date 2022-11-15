@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Aibek Makazhanov, Jonathan North Washington, Francis Tyers.
 
 Repository: [UD_Kazakh-KTB](https://github.com/UniversalDependencies/UD_Kazakh-KTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkk_ktb210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkk_ktb211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-SA 4.0
 
@@ -95,13 +95,13 @@ year = {2015},
 
 ## Relations
 
-[acl](kk_ktb-dep-acl.html) – [acl:relcl](kk_ktb-dep-acl-relcl.html) – [advcl](kk_ktb-dep-advcl.html) – [advmod](kk_ktb-dep-advmod.html) – [amod](kk_ktb-dep-amod.html) – [appos](kk_ktb-dep-appos.html) – [aux](kk_ktb-dep-aux.html) – [case](kk_ktb-dep-case.html) – [cc](kk_ktb-dep-cc.html) – [ccomp](kk_ktb-dep-ccomp.html) – [clf](kk_ktb-dep-clf.html) – [compound](kk_ktb-dep-compound.html) – [compound:lvc](kk_ktb-dep-compound-lvc.html) – [conj](kk_ktb-dep-conj.html) – [cop](kk_ktb-dep-cop.html) – [csubj](kk_ktb-dep-csubj.html) – [dep](kk_ktb-dep-dep.html) – [det](kk_ktb-dep-det.html) – [discourse](kk_ktb-dep-discourse.html) – [flat:name](kk_ktb-dep-flat-name.html) – [iobj](kk_ktb-dep-iobj.html) – [mark](kk_ktb-dep-mark.html) – [nmod](kk_ktb-dep-nmod.html) – [nmod:poss](kk_ktb-dep-nmod-poss.html) – [nsubj](kk_ktb-dep-nsubj.html) – [nummod](kk_ktb-dep-nummod.html) – [obj](kk_ktb-dep-obj.html) – [obl](kk_ktb-dep-obl.html) – [obl:own](kk_ktb-dep-obl-own.html) – [orphan](kk_ktb-dep-orphan.html) – [parataxis](kk_ktb-dep-parataxis.html) – [punct](kk_ktb-dep-punct.html) – [root](kk_ktb-dep-root.html) – [vocative](kk_ktb-dep-vocative.html) – [xcomp](kk_ktb-dep-xcomp.html)
+[acl](kk_ktb-dep-acl.html) – [acl:relcl](kk_ktb-dep-acl-relcl.html) – [advcl](kk_ktb-dep-advcl.html) – [advmod](kk_ktb-dep-advmod.html) – [amod](kk_ktb-dep-amod.html) – [appos](kk_ktb-dep-appos.html) – [aux](kk_ktb-dep-aux.html) – [case](kk_ktb-dep-case.html) – [cc](kk_ktb-dep-cc.html) – [ccomp](kk_ktb-dep-ccomp.html) – [clf](kk_ktb-dep-clf.html) – [compound](kk_ktb-dep-compound.html) – [compound:lvc](kk_ktb-dep-compound-lvc.html) – [conj](kk_ktb-dep-conj.html) – [cop](kk_ktb-dep-cop.html) – [csubj](kk_ktb-dep-csubj.html) – [dep](kk_ktb-dep-dep.html) – [det](kk_ktb-dep-det.html) – [discourse](kk_ktb-dep-discourse.html) – [fixed](kk_ktb-dep-fixed.html) – [flat:name](kk_ktb-dep-flat-name.html) – [iobj](kk_ktb-dep-iobj.html) – [mark](kk_ktb-dep-mark.html) – [nmod](kk_ktb-dep-nmod.html) – [nmod:poss](kk_ktb-dep-nmod-poss.html) – [nsubj](kk_ktb-dep-nsubj.html) – [nummod](kk_ktb-dep-nummod.html) – [obj](kk_ktb-dep-obj.html) – [obl](kk_ktb-dep-obl.html) – [obl:own](kk_ktb-dep-obl-own.html) – [orphan](kk_ktb-dep-orphan.html) – [parataxis](kk_ktb-dep-parataxis.html) – [punct](kk_ktb-dep-punct.html) – [root](kk_ktb-dep-root.html) – [vocative](kk_ktb-dep-vocative.html) – [xcomp](kk_ktb-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 1078 sentences, 10383 tokens and 10536 syntactic words.</li>
+<li>This corpus contains 1078 sentences, 10495 tokens and 10536 syntactic words.</li>
 </ul>
 
 <ul>
@@ -117,8 +117,8 @@ year = {2015},
 </ul>
 
 <ul>
-<li>This corpus contains 153 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 121 types of multi-word tokens. Examples: бар, ешкім, басқа, қуаныштымын, және, Ешкімді, Жасаған-ау, Сондықтан, аласыз, балалы, бола, болғанда, екеуі, ешқандай, жылы, кетті, кімдікі, көрсетер, тағы, Азамат, Баласыз, Бәрі, Дінге, Елсіз, Сүйсем, Төстік, Шолпан, айтшы, алды, алмай, аузымен, ашылса, аң, бала, балалары, басшылары, басын, бизнесі, бойынша, болмаса, болса, біз, білесіз, білмейміз-ау, білсе, бітімді, бұзылады-ау, бөлімде, дайынбыз, дұрыс.</li>
+<li>This corpus contains 41 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 34 types of multi-word tokens. Examples: қуаныштымын, Жасаған-ау, балалы, кімдікі, көрсетер, Баласыз, Елсіз, айтшы, білмейміз-ау, бітімді, бұзылады-ау, дайынбыз, екпінді, емсіз, ертең-ақ, жалынды, жаралымын, жылғы, заманнан-ақ, кедергісіз, келбетті, лажсыз, майлы, мемлекеттерміз, мүдделіміз, негізсіз, палаталы, ретті, сулы, т.б., текті, тиіспіз, хабарсыз, құйшы.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -134,7 +134,7 @@ year = {2015},
 </ul>
 
 <ul>
-<li>This corpus contains 35 lemmas tagged as pronouns (PRON): барлық, барша, біз, бір, бір-бір, бірдеме, біреу, бірқатар, бұл, бәрі, ешкім, ешнәрсе, ештеңе, ешқандай, кім, күллі, манағы, мен, мына, мынау, не, нелік, немене, нәрсе, ол, олар, осы, сен, сол, сіз, сіздер, қандай, қанша, әрбіреу, өз</li>
+<li>This corpus contains 36 lemmas tagged as pronouns (PRON): барлық, барша, біз, бір, бір-бір, бірдеме, біреу, бірқатар, бұл, бәрі, ешкім, ешнәрсе, ештеңе, ешқандай, кім, күллі, манағы, мен, мына, мынау, не, нелік, немене, нәрсе, ол, олар, осы, сен, содан, сол, сіз, сіздер, қандай, қанша, әрбіреу, өз</li>
 </ul>
 
 <ul>
@@ -146,11 +146,11 @@ year = {2015},
 </ul>
 
 <ul>
-<li>This corpus contains 24 lemmas tagged as auxiliaries (AUX): ал, атан, бар, баста, бер, бол, болуға, біл, біт, гөр, е, жат, жібер, жүр, кел, кет, көр, отыр, таста, түс, тұр, шық, қал, қой</li>
+<li>This corpus contains 10 lemmas tagged as auxiliaries (AUX): ал, бер, бол, е, жат, жүр, кел, отыр, тұр, қал</li>
 </ul>
 
 <ul>
-<li>Out of the above, 21 lemmas occurred sometimes as AUX and sometimes as VERB: ал, атан, бар, баста, бер, бол, біл, біт, жат, жібер, жүр, кел, кет, көр, отыр, таста, түс, тұр, шық, қал, қой</li>
+<li>Out of the above, 9 lemmas occurred sometimes as AUX and sometimes as VERB: ал, бер, бол, жат, жүр, кел, отыр, тұр, қал</li>
 </ul>
 
 <ul>
@@ -160,7 +160,7 @@ year = {2015},
 <ul>
   <li>Conv
   <ul>
-    <li>AUX: болып, болса, болмаса, алып, берсек, бола, болсам, болсаң, жатса, жіберіп</li>
+    <li>AUX: болып, болса, болмаса, алып, берсек, бола, болсам, болсаң, жатса, жүріп</li>
     <li>VERB: деп, алып, бастап, барып, Сөйтіп, беріп, болып, қашып, құлап, айналып</li>
   </ul>
   </li>
@@ -169,8 +169,8 @@ year = {2015},
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: болды, еді, жатыр, бастады, кетті, емес, келеді, отыр, екен, болады</li>
-    <li>VERB: деді, біледі, болды, келді, өтті, береді, шықты, алды, ашылды, болады</li>
+    <li>AUX: болды, еді, жатыр, емес, келеді, отыр, екен, болады, қалды, алды</li>
+    <li>VERB: бастады, кетті, деді, біледі, болды, келді, шықты, өтті, береді, түседі</li>
   </ul>
   </li>
 </ul>
@@ -187,8 +187,8 @@ year = {2015},
 <ul>
   <li>Inf
   <ul>
-    <li>AUX: болып, бола, келе, алмай, бара, боп, отыра, тұра</li>
-    <li>VERB: басып, дами, алып, бара, жоспарланып, қарап, ала, бақылап, жаулап, көріп</li>
+    <li>AUX: болып, бола, келе, алмай, боп, отыра, тұра</li>
+    <li>VERB: бара, басып, дами, алып, жоспарланып, қарап, ала, бақылап, жаулап, көріп</li>
   </ul>
   </li>
 </ul>
@@ -196,8 +196,8 @@ year = {2015},
 <ul>
   <li>Part
   <ul>
-    <li>AUX: жатқан, болған, отырған, тұрған, алмайтындай, алмаған, болатын, болушы, отыратын, қойған</li>
-    <li>VERB: болған, деген, шыққан, туған, түскен, айтарлықтай, айтқан, алған, аталған, билеген</li>
+    <li>AUX: жатқан, болған, отырған, алмайтындай, алмаған, болатын, болушы, жүрген, отыратын, тұрған</li>
+    <li>VERB: болған, деген, шыққан, туған, түскен, тұрған, айтарлықтай, айтқан, алған, аталған</li>
   </ul>
   </li>
 </ul>
@@ -212,7 +212,6 @@ year = {2015},
 <ul>
   <li>Fem
     <ul>
-      <li>NOUN: Елизавета</li>
       <li>PROPN: Айгүл, Шолпан, Елизавета, Айгүлдің, Александра, Алтынай, Ақбала, Мария, Шолпанның, Айгүлден</li>
     </ul>
   </li>
@@ -221,7 +220,6 @@ year = {2015},
 <ul>
   <li>Masc
     <ul>
-      <li>NOUN: Эдуард</li>
       <li>PROPN: Бекболат, Азамат, Нұрсұлтан, Назарбаев, Ерназардың, Азаматтың, Реза, Төстік, Қожа, Азаматты</li>
     </ul>
   </li>
@@ -237,11 +235,11 @@ year = {2015},
     <ul>
       <li>ADJ: ақтардың, Ақтар, баршаларын, лақаптар, туындылар, қызылдар, әскерилер, өзгелері</li>
       <li>AUX-Conv: берсек</li>
-      <li>AUX-Fin: бастады, жатырмыз, келді, алмады, берді, беретін, быз, жатыр, жатырсыздар, жүрміз</li>
+      <li>AUX-Fin: жатырмыз, келді, алмады, берді, берейік, беретін, быз, жатыр, жатырсыздар, жүрміз</li>
       <li>NOUN: тілдерін, жылдары, ғасырларда, өзгерістер, қатынастар, актерлер, мемлекеттер, орыстар, сайлаушылар, толқулар</li>
       <li>PRON: біз, біздің, олар, бізді, олардың, сіздер, Бұлардың, Сіздерді, бізге, оларды</li>
       <li>PROPN: ильхандар, салжұқтар, Әзірбайжандар</li>
-      <li>VERB-Fin: келді, сақталған, айтамыз, басталды, білейік, орнады, айқындаймыз, алды, алдық, атқарылды</li>
+      <li>VERB-Fin: бастады, келді, сақталған, айтамыз, басталды, білейік, орнады, айқындаймыз, алды, алдық</li>
       <li>VERB-Ger: бірігулері, жасаулары, келгендеріңіз, ұсынғандар</li>
     </ul>
   </li>
@@ -250,11 +248,11 @@ year = {2015},
 <ul>
   <li>Sing
     <ul>
-      <li>AUX-Conv: болса, болмаса, болсам, болсаң, жатса, кетпесем</li>
-      <li>AUX-Fin: болды, еді, жатыр, емес, кетті, бастады, келеді, отыр, екен, болады</li>
+      <li>AUX-Conv: болса, болмаса, болсам, болсаң, жатса</li>
+      <li>AUX-Fin: болды, еді, жатыр, емес, келеді, отыр, екен, болады, қалды, алды</li>
       <li>PRON: мен, ол, оның, сіздің, оны, сені, Сіз, маған, оған, Сен</li>
       <li>VERB-Conv: берсе, десең, жатса, Сүйсем, алмаса, ашылса, барса, болса, білсе, білсең</li>
-      <li>VERB-Fin: деді, біледі, болды, өтті, береді, шықты, болады, болыпты, келді, табылады</li>
+      <li>VERB-Fin: кетті, деді, бастады, біледі, болды, шықты, өтті, береді, тұрады, болады</li>
       <li>VERB-Inf: Тарағысы, айтқым, айтқысы, оқытса, Қарағысы, қайтқысы, қатысқысы, құттықтағым, ұсынғым</li>
     </ul>
   </li>
@@ -268,12 +266,12 @@ year = {2015},
   <li>Abl
     <ul>
       <li>ADJ: алыстан, жаңадан, күштіден, көптен, жартысынан</li>
-      <li>AUX-Ger: алғаннан, болғандықтан, біткеннен</li>
+      <li>AUX-Ger: алғаннан, болғандықтан</li>
       <li>NOUN: жылдан, футболдан, Соғыстан, ауылдан, дүниеден, елден, күннен, пендеден, шеттен, ғасырдан</li>
       <li>NUM: бірінен, 2°С-тан, миллионнан, мыңнан, қырықтан</li>
       <li>PRON: одан, онан, содан, Бірінен, Менен, Мұнан, Неліктен, Сізден, осыдан</li>
       <li>PROPN: Азиядан, Астанадан, Германиядан, Сұзыдан, Айгүлден, Төлегеннен</li>
-      <li>VERB-Ger: кеткеннен, алмастан, басталғаннан, бақылаудан, жетіспеушілігінен, жолыққаннан, жөндеуден, сөйлегеннен, тұрғызылғандықтан, қорыққаннан</li>
+      <li>VERB-Ger: кеткеннен, алмастан, басталғаннан, бақылаудан, біткеннен, жетіспеушілігінен, жолыққаннан, жөндеуден, сөйлегеннен, тұрғызылғандықтан</li>
     </ul>
   </li>
 </ul>
@@ -282,7 +280,7 @@ year = {2015},
   <li>Acc
     <ul>
       <li>ADJ: талайды, өзгені, Солтүстік-батысын, Турасын, баршаларын, барыңды, оңтүстігін, солтүстік-шығысын, өзгесін</li>
-      <li>AUX-Ger: екенін, болғанын, болмасымды, болғанымды, екендіктерін, жатқанын, жүргенін, шығуды</li>
+      <li>AUX-Ger: екенін, болғанын, болмасымды, болғанымды, екендіктерін, жатқанын, жүргенін</li>
       <li>NOUN: тілдерін, жобаны, сөзді, чемпионатты, қызды, малын, ахуалды, бейбітшілікті, дыбысты, елді</li>
       <li>NUM: 70%-ін, Бірін</li>
       <li>PRON: оны, сені, бізді, Мені, Сізді, Ешкімді, Кімді, Сіздерді, бәрін, оларды</li>
@@ -296,7 +294,7 @@ year = {2015},
   <li>Dat
     <ul>
       <li>ADJ: алысқа, жайға, жылдығына</li>
-      <li>AUX-Ger: болуға, алатынына, алғаныма, болғаныма, екеніне, кетпесіне, тұруға, шығуға, қалғанына</li>
+      <li>AUX-Ger: болуға, алатынына, алғаныма, болғаныма, екеніне, тұруға, қалғанына</li>
       <li>NOUN: жерге, үйге, адамға, жылға, дағдарысқа, дүниеге, елге, пайызға, тысқа, аймаққа</li>
       <li>NUM: 100-ге, 19,4°С-қа, 400-ге, 80-ге, 90%-ына, 90%-ға</li>
       <li>PRON: оған, маған, кімге, саған, Соған, бізге, ешкімге, оларға, сізге, сіздерге</li>
@@ -352,7 +350,7 @@ year = {2015},
       <li>ADJ: бар, атты, дауысты, жақын, жоқ, жуығы, көп, түркі, Ақтар, баршасы</li>
       <li>ADP: дейінгі, кейінгі</li>
       <li>ADV: қазіргі, соңғы, Арғы, Бүгінгі, Ендігі, Жоғарғы, бергі, биылғы, ежелгі, күндізгі</li>
-      <li>AUX-Ger: болуы, болу, болатыны, білу, екені, жатқаны, жүрген, көруіміз, отырғаным, қалған</li>
+      <li>AUX-Ger: болуы, болу, болатыны, болған, екені, жатқаны, жүрген, отырғаным, қалған</li>
       <li>DET: не</li>
       <li>NOUN: мемлекет, ел, орыс, қазақ, Президент, адам, бала, кісі, мал, орын</li>
       <li>NUM: бірі, екеуі, 2030, 22%-ы, 27%, 30%, 36%-ы, 5%, 51%, 58,3%</li>
@@ -389,14 +387,14 @@ year = {2015},
 <ul>
   <li>Neg
     <ul>
-      <li>AUX-Conv: болмаса, кетпесем</li>
-      <li>AUX-Fin: емес, алмайды, алмады, алмаймын, алмас, болған емес, болған жоқ, келген жоқ, келмеді, көрме</li>
-      <li>AUX-Ger: алмауда, болмасымды, кетпесіне</li>
+      <li>AUX-Conv: болмаса</li>
+      <li>AUX-Fin: емес, алмайды, алмады, алмаймын, алмас, болған емес, болған жоқ, келген жоқ, келмеді, тұрған жоқ</li>
+      <li>AUX-Ger: алмауда, болмасымды</li>
       <li>AUX-Inf: алмай</li>
       <li>AUX-Part: алмайтындай, алмаған</li>
-      <li>VERB-Conv: алаланбай, алмаса, аспай, жемей, жығылмай, келмей, саналмаса, қалдырмай, қорықпай, қылмай</li>
+      <li>VERB-Conv: алаланбай, алмаса, аспай, жемей, жығылмай, келмей, кетпесем, саналмаса, қалдырмай, қорықпай</li>
       <li>VERB-Fin: келмейді, болмайды, айтпайды, білмеймін, қылмады, айтылмады, айырмайды, араласпаймын, араласқан жоқ, аяма</li>
-      <li>VERB-Ger: айрылмауға, алаланбауы, алмастан, бермеуі, жазылмасын, жетіспеушілігінен, келмеуі, сұғылмауына, қосылмау</li>
+      <li>VERB-Ger: айрылмауға, алаланбауы, алмастан, бермеуі, жазылмасын, жетіспеушілігінен, келмеуі, кетпесіне, сұғылмауына, қосылмау</li>
       <li>VERB-Inf: ашпай, білінбей, келмей</li>
       <li>VERB-Part: Ашылмайтын, еңсерілмейтін, жатпайтын, оқымаған, сездірмеске, сүймеген, шешілмеген, Қорықпайтын</li>
     </ul>
@@ -414,8 +412,8 @@ year = {2015},
 <ul>
   <li>Hab
     <ul>
-      <li>AUX-Fin: емес, келеді, екен, болады, мын, алмайды, береді, кетеді, тұрады, қалады</li>
-      <li>VERB-Fin: біледі, береді, болады, табылады, түседі, тұрады, көрінеді, дейді, келеді, келмейді</li>
+      <li>AUX-Fin: емес, келеді, екен, болады, мын, алмайды, береді, қалады, аласыз, алмаймын</li>
+      <li>VERB-Fin: біледі, береді, түседі, тұрады, болады, табылады, кетеді, көрінеді, дейді, келеді</li>
     </ul>
   </li>
 </ul>
@@ -425,11 +423,11 @@ year = {2015},
     <ul>
       <li>AUX-Conv: бола</li>
       <li>AUX-Ger: алатынына, болатыны</li>
-      <li>AUX-Inf: бола, келе, алмай, бара, отыра, тұра</li>
+      <li>AUX-Inf: бола, келе, алмай, отыра, тұра</li>
       <li>AUX-Part: алмайтындай, болатын, отыратын</li>
       <li>VERB-Conv: қайта, ажарлана, арсыздана, арттыра, жая, мадақтай, тұра, шақыра, қаша</li>
       <li>VERB-Ger: жығатынын, мақтанатыны, табылатынын, әкелетіні, өзгеретінін</li>
-      <li>VERB-Inf: дами, бара, ала, отыра, араласа, арта, бере, жете, келе, кіре</li>
+      <li>VERB-Inf: бара, дами, ала, отыра, араласа, арта, бере, жете, келе, кіре</li>
       <li>VERB-Part: жейтін, тұратын, Ашылмайтын, Танытатын, асыратын, баратын, болатын, білетін, бұзатын, дайындайтын</li>
     </ul>
   </li>
@@ -438,7 +436,7 @@ year = {2015},
 <ul>
   <li>Perf
     <ul>
-      <li>AUX-Conv: болып, алып, жіберіп, жүріп, отырып, тұрып</li>
+      <li>AUX-Conv: болып, алып, жүріп, отырып, тұрып</li>
       <li>AUX-Inf: болып, алмай, боп</li>
       <li>VERB-Conv: деп, алып, бастап, барып, Сөйтіп, беріп, болып, қашып, құлап, айналып</li>
       <li>VERB-Inf: басып, алып, жоспарланып, қарап, бақылап, жаулап, көріп, шығып, құрып, беріп</li>
@@ -453,7 +451,7 @@ year = {2015},
 <ul>
   <li>Cnd
     <ul>
-      <li>AUX-Conv: болса, болмаса, берсек, болсам, болсаң, жатса, кетпесем</li>
+      <li>AUX-Conv: болса, болмаса, берсек, болсам, болсаң, жатса</li>
       <li>VERB-Conv: берсе, десең, жатса, Сүйсем, алмаса, ашылса, барса, болса, білсе, білсең</li>
       <li>VERB-Inf: оқытса</li>
     </ul>
@@ -474,8 +472,8 @@ year = {2015},
 <ul>
   <li>Imp
     <ul>
-      <li>AUX-Fin: бер, гөр, көрме, қал</li>
-      <li>VERB-Fin: алыңыз, же, Аттан, айт, аяма, бер, берме, беріңіз, жасаңыздар, жинаңыз</li>
+      <li>AUX-Fin: бер, қал</li>
+      <li>VERB-Fin: алыңыз, же, Аттан, айт, аяма, бер, берме, беріңіз, гөр, жасаңыздар</li>
     </ul>
   </li>
 </ul>
@@ -483,8 +481,8 @@ year = {2015},
 <ul>
   <li>Ind
     <ul>
-      <li>AUX-Fin: болды, еді, жатыр, бастады, кетті, емес, келеді, отыр, екен, болады</li>
-      <li>VERB-Fin: деді, біледі, болды, келді, өтті, береді, шықты, алды, ашылды, болады</li>
+      <li>AUX-Fin: болды, еді, жатыр, емес, келеді, отыр, екен, болады, қалды, алды</li>
+      <li>VERB-Fin: бастады, кетті, деді, біледі, болды, келді, шықты, өтті, береді, түседі</li>
     </ul>
   </li>
 </ul>
@@ -492,8 +490,8 @@ year = {2015},
 <ul>
   <li>Opt
     <ul>
-      <li>AUX-Fin: болсын, алсын, берсін, болайын, тұрайық, қойсын</li>
-      <li>VERB-Fin: білейік, білсін, аяйын, барайын, барсын, берейік, білдірсін, жалынсын, жейік, жисын</li>
+      <li>AUX-Fin: болсын, алсын, берейік, берсін, болайын, тұрайық</li>
+      <li>VERB-Fin: білейік, білсін, аяйын, барайын, барсын, білдірсін, жалынсын, жейік, жисын, сенсін</li>
     </ul>
   </li>
 </ul>
@@ -515,9 +513,9 @@ year = {2015},
   <li>Fut
     <ul>
       <li>AUX-Fin: бермек, алмас, болмақ</li>
-      <li>AUX-Ger: болмасымды, кетпесіне</li>
+      <li>AUX-Ger: болмасымды</li>
       <li>VERB-Fin: көрсет, барарсың, бүлінер, бәсеңдер, естірсіз, кеңейтілмек, көздемек, көрер, соғармын, суынар</li>
-      <li>VERB-Ger: алмастан, білмек, жазылмасын</li>
+      <li>VERB-Ger: алмастан, білмек, жазылмасын, кетпесіне</li>
       <li>VERB-Part: Блоктарға, артар, аяр, дер, сездірмеске</li>
     </ul>
   </li>
@@ -526,12 +524,12 @@ year = {2015},
 <ul>
   <li>Past
     <ul>
-      <li>AUX-Fin: болды, еді, бастады, кетті, қалды, алды, болған, келді, алмады, берді</li>
-      <li>AUX-Ger: екенін, болғанда, болғанын, алғаннан, алғаныма, болғаныма, болғанымды, біткеннен, екені, екенімен</li>
-      <li>AUX-Part: жатқан, болған, отырған, тұрған, алмаған, қойған</li>
-      <li>VERB-Fin: деді, болды, келді, өтті, шықты, алды, ашылды, болыпты, құрылды, жойылды</li>
+      <li>AUX-Fin: болды, еді, қалды, алды, болған, келді, алмады, берді, тұрды, алдым</li>
+      <li>AUX-Ger: екенін, болғанда, болғанын, алғаннан, алғаныма, болған, болғаныма, болғанымды, екені, екенімен</li>
+      <li>AUX-Part: жатқан, болған, отырған, алмаған, жүрген, тұрған</li>
+      <li>VERB-Fin: бастады, кетті, деді, болды, келді, шықты, өтті, алды, ашылды, болыпты</li>
       <li>VERB-Ger: келгенде, біткенді, келген, кеткеннен, ойнағанды, салыстырғанда, Сөйткенде, алғанын, араздасқанда, артқан</li>
-      <li>VERB-Part: болған, деген, шыққан, туған, түскен, айтарлықтай, айтқан, алған, аталған, билеген</li>
+      <li>VERB-Part: болған, деген, шыққан, туған, түскен, тұрған, айтарлықтай, айтқан, алған, аталған</li>
     </ul>
   </li>
 </ul>
@@ -539,8 +537,8 @@ year = {2015},
 <ul>
   <li>Pres
     <ul>
-      <li>AUX-Fin: жатыр, емес, келеді, отыр, екен, болады, мын, алмайды, береді, кетеді</li>
-      <li>VERB-Fin: біледі, береді, болады, табылады, түседі, тұрады, көрінеді, дейді, келеді, келмейді</li>
+      <li>AUX-Fin: жатыр, емес, келеді, отыр, екен, болады, мын, алмайды, береді, жатырмыз</li>
+      <li>VERB-Fin: біледі, береді, түседі, тұрады, болады, табылады, кетеді, көрінеді, дейді, келеді</li>
     </ul>
   </li>
 </ul>
@@ -580,8 +578,8 @@ year = {2015},
 <ul>
   <li>Fh
     <ul>
-      <li>AUX-Fin: екен, болыпты, кетіпті, шығыпты</li>
-      <li>VERB-Fin: болыпты, келіпті, деген екен, демепті, елемепті, естіген жоқ екен, жасапты, жиналыпты, кетіпті, сыйлайды екенсің</li>
+      <li>AUX-Fin: екен, болыпты</li>
+      <li>VERB-Fin: болыпты, кетіпті, келіпті, деген екен, демепті, елемепті, естіген жоқ екен, жасапты, жиналыпты, сыйлайды екенсің</li>
     </ul>
   </li>
 </ul>
@@ -597,7 +595,7 @@ year = {2015},
   <li>Dem
     <ul>
       <li>DET: осы, бұл, ол, сол, мына, бұ, мұндай, манағы, Анау, Мұнша</li>
-      <li>PRON: бұл, ол, мұнда, одан, оны, соның, мұның, олай, оған, бұ</li>
+      <li>PRON: бұл, ол, мұнда, одан, оны, содан, соның, мұның, олай, оған</li>
     </ul>
   </li>
 </ul>
@@ -714,10 +712,10 @@ year = {2015},
 <ul>
   <li>1
     <ul>
-      <li>AUX-Conv: берсек, болсам, кетпесем</li>
-      <li>AUX-Fin: мын, жатырмыз, алдым, алмаймын, отырмын, тұрмын, беремін, болайын, болдым, быз</li>
+      <li>AUX-Conv: берсек, болсам</li>
+      <li>AUX-Fin: мын, жатырмыз, алдым, алмаймын, отырмын, тұрмын, берейік, беремін, болайын, болдым</li>
       <li>PRON: біз, мен, біздің, маған, бізді, менің, Мені, бізге, Бізде, Менде</li>
-      <li>VERB-Conv: Сүйсем, жатсам, тұрсам</li>
+      <li>VERB-Conv: Сүйсем, жатсам, кетпесем, тұрсам</li>
       <li>VERB-Fin: құттықтаймын, айтамыз, алам, білейік, білмеймін, көрдім, ойлаймын, айқындаймыз, алдым, алдық</li>
       <li>VERB-Inf: айтқым, құттықтағым, ұсынғым</li>
     </ul>
@@ -728,7 +726,7 @@ year = {2015},
   <li>2
     <ul>
       <li>AUX-Conv: болсаң</li>
-      <li>AUX-Fin: аласыз, бер, гөр, жатырсыздар, келдіңіз, келесіз, көрме, отырсыздар, тұрсыңдар, қал</li>
+      <li>AUX-Fin: аласыз, бер, жатырсыздар, келдіңіз, келесіз, отырсыздар, тұрсыңдар, қал</li>
       <li>PRON: сіздің, сені, Сіз, Сен, Сізде, Сізді, саған, сіздер, Сіздерді, сізге</li>
       <li>VERB-Conv: десең, білсең, салсаң</li>
       <li>VERB-Fin: алыңыз, же, Аттан, айт, айтасың, атасың, аяма, барарсың, бер, берме</li>
@@ -740,10 +738,10 @@ year = {2015},
   <li>3
     <ul>
       <li>AUX-Conv: болса, болмаса, жатса</li>
-      <li>AUX-Fin: болды, еді, жатыр, бастады, кетті, емес, келеді, отыр, екен, болады</li>
+      <li>AUX-Fin: болды, еді, жатыр, емес, келеді, отыр, екен, болады, қалды, алды</li>
       <li>PRON: ол, оның, олар, оны, олардың, оған, Аның, одан, оларды, оларға</li>
       <li>VERB-Conv: берсе, жатса, алмаса, ашылса, барса, болса, білсе, жалынса, жыласа, жүрсе</li>
-      <li>VERB-Fin: деді, біледі, болды, келді, өтті, береді, шықты, алды, ашылды, болады</li>
+      <li>VERB-Fin: бастады, кетті, деді, біледі, болды, келді, шықты, өтті, береді, түседі</li>
       <li>VERB-Inf: Тарағысы, айтқысы, оқытса, Қарағысы, қайтқысы, қатысқысы</li>
     </ul>
   </li>
@@ -774,10 +772,10 @@ year = {2015},
 <ul>
   <li>Plur
     <ul>
-      <li>AUX-Ger: екендіктерін, көруіміз</li>
+      <li>AUX-Ger: екендіктерін</li>
       <li>NOUN: еліміздің, еліміз, Алдымыз, Дамуымыз, Еліміздегі, Конституциямызды, Отанымыз, азаматтарымыз, алғысымызды, аспанымыз</li>
       <li>PRON: өзіміздің, өздері, Неміз, өздерінің, өздерің</li>
-      <li>VERB-Ger: кездесуіміз, әңгімелесуіміз, өлуіміз</li>
+      <li>VERB-Ger: кездесуіміз, көруіміз, әңгімелесуіміз, өлуіміз</li>
     </ul>
   </li>
 </ul>
@@ -818,10 +816,10 @@ year = {2015},
     <ul>
       <li>1
         <ul>
-          <li>AUX-Ger: алғаныма, болмасымды, болғаныма, болғанымды, көруіміз, отырғаным</li>
+          <li>AUX-Ger: алғаныма, болмасымды, болғаныма, болғанымды, отырғаным</li>
           <li>NOUN: еліміздің, еліміз, Інім, Алдымыз, Атым, Ағам, Дамуымыз, Еліміздегі, Жасым, Конституциямызды</li>
           <li>PRON: өзіміздің, Неміз</li>
-          <li>VERB-Ger: кездесуіміз, көргеніме, танысқаныма, әңгімелесуіміз, өлуіміз</li>
+          <li>VERB-Ger: кездесуіміз, көргеніме, көруіміз, танысқаныма, әңгімелесуіміз, өлуіміз</li>
         </ul>
       </li>
       <li>2
@@ -854,11 +852,11 @@ year = {2015},
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 5 lemmas as copulas (<a>cop</a>). Examples: бол, е, тұр, атан, болуға.</li>
+<li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: бол, е.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 21 lemmas as auxiliaries (<a>aux</a>). Examples: жат, ал, отыр, кел, кет, тұр, баста, бер, қал, жүр, шық, бар, бол, көр, жібер, түс, қой, біл, біт, гөр, таста.</li>
+<li>This corpus uses 9 lemmas as auxiliaries (<a>aux</a>). Examples: жат, ал, отыр, кел, тұр, бер, қал, жүр, бол.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -867,19 +865,19 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Conv--NOUN-Nom (37)</li>
+      <li>VERB-Conv--NOUN-Nom (38)</li>
       <li>VERB-Conv--PRON-Dat (1)</li>
       <li>VERB-Conv--PRON-Nom (8)</li>
       <li>VERB-Fin--NOUN (4)</li>
-      <li>VERB-Fin--NOUN-Nom (288)</li>
-      <li>VERB-Fin--PRON-Nom (84)</li>
+      <li>VERB-Fin--NOUN-Nom (317)</li>
+      <li>VERB-Fin--PRON-Nom (88)</li>
       <li>VERB-Ger--NOUN-Gen (17)</li>
       <li>VERB-Ger--NOUN-Nom (29)</li>
       <li>VERB-Ger--PRON-Gen (7)</li>
       <li>VERB-Ger--PRON-Nom (10)</li>
-      <li>VERB-Inf--NOUN-Nom (72)</li>
+      <li>VERB-Inf--NOUN-Nom (44)</li>
       <li>VERB-Inf--PRON-Gen (1)</li>
-      <li>VERB-Inf--PRON-Nom (37)</li>
+      <li>VERB-Inf--PRON-Nom (34)</li>
       <li>VERB-Part--NOUN-Gen (2)</li>
       <li>VERB-Part--NOUN-Nom (24)</li>
       <li>VERB-Part--PRON-Nom (3)</li>
@@ -897,7 +895,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Acc (106)</li>
       <li>VERB-Fin--NOUN-Dat (7)</li>
       <li>VERB-Fin--NOUN-Nom (82)</li>
-      <li>VERB-Fin--PRON-Acc (31)</li>
+      <li>VERB-Fin--PRON-Acc (32)</li>
       <li>VERB-Fin--PRON-Dat (1)</li>
       <li>VERB-Fin--PRON-Nom (3)</li>
       <li>VERB-Ger--NOUN-Acc (55)</li>
@@ -908,7 +906,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-Acc (34)</li>
       <li>VERB-Inf--NOUN-Dat (2)</li>
       <li>VERB-Inf--NOUN-Nom (19)</li>
-      <li>VERB-Inf--PRON-Acc (5)</li>
+      <li>VERB-Inf--PRON-Acc (4)</li>
       <li>VERB-Inf--PRON-Nom (1)</li>
       <li>VERB-Part--NOUN-Acc (15)</li>
       <li>VERB-Part--NOUN-Dat (1)</li>
@@ -943,5 +941,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
 <li>This corpus uses 5 relation subtypes: <a>acl:relcl</a>, <a>compound:lvc</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>obl:own</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
-<li>The following 6 relation types are not used in this corpus at all: <a>expl</a>, <a>dislocated</a>, <a>fixed</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>The following 5 relation types are not used in this corpus at all: <a>expl</a>, <a>dislocated</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

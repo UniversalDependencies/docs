@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal but the values `CauPass` are language-specific.
 It occurs with 3 different values: `Cau`, `CauPass`, `Pass`.
 
-1740 tokens (3%) have a non-empty value of `Voice`.
-1337 types (8%) occur at least once with a non-empty value of `Voice`.
-394 lemmas (7%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 1 part-of-speech tags: <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> (1740; 3% instances).
+1732 tokens (3%) have a non-empty value of `Voice`.
+1329 types (8%) occur at least once with a non-empty value of `Voice`.
+391 lemmas (7%) occur at least once with a non-empty value of `Voice`.
+The feature is used with 1 part-of-speech tags: <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> (1732; 3% instances).
 
 ### `VERB`
 
-1740 <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> tokens (16% of all `VERB` tokens) have a non-empty value of `Voice`.
+1732 <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> tokens (16% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1597; 92%), <tt><a href="tr_imst-feat-Polite.html">Polite</a></tt><tt>=EMPTY</tt> (1573; 90%), <tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1550; 89%), <tt><a href="tr_imst-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1430; 82%), <tt><a href="tr_imst-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (1430; 82%), <tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (1414; 81%), <tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1352; 78%), <tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (983; 56%), <tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (945; 54%), <tt><a href="tr_imst-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (945; 54%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1589; 92%), <tt><a href="tr_imst-feat-Polite.html">Polite</a></tt><tt>=EMPTY</tt> (1565; 90%), <tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1544; 89%), <tt><a href="tr_imst-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1422; 82%), <tt><a href="tr_imst-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (1422; 82%), <tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (1406; 81%), <tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1349; 78%), <tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (975; 56%), <tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (944; 55%), <tt><a href="tr_imst-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (944; 55%).
 
 `VERB` tokens may have the following values of `Voice`:
 
-* `Cau` (543; 31% of non-empty `Voice`): <em>belirtti, belirten, bildirdi, belirterek, Uzatma, üretici, oluşturan, uzattı, öldürme, ürkütücü</em>
+* `Cau` (537; 31% of non-empty `Voice`): <em>belirtti, belirten, bildirdi, belirterek, Uzatma, üret, oluşturan, uzattı, öldürme, bildiren</em>
 * `CauPass` (136; 8% of non-empty `Voice`): <em>belirtildi, yerleştirilmiş, gerçekleştirilmesi, kaldırıldı, kaldırılsın, bastırılmış, cezalandırılması, değerlendirildi, geliştirilen, genişletiliyor</em>
-* `Pass` (1061; 61% of non-empty `Voice`): <em>yapılan, yapılacak, edildi, verilen, alınması, ediliyor, edilmiş, hazırlanan, inanılmaz, katıldı</em>
-* `EMPTY` (9255): <em>dedi, olan, dedim, olduğunu, oldu, olduğu, söyledi, olur, etti, değil</em>
+* `Pass` (1059; 61% of non-empty `Voice`): <em>yapılan, yapılacak, edildi, verilen, alınması, ediliyor, edilmiş, hazırlanan, inanılmaz, katıldı</em>
+* `EMPTY` (9210): <em>dedi, olan, dedim, olduğunu, oldu, olduğu, söyledi, gelen, olur, etti</em>
 
 <table>
   <tr><th>Paradigm <i>et</i></th><th><tt>Pass</tt></th><th><tt>Cau</tt></th><th><tt>CauPass</tt></th></tr>
@@ -67,5 +67,5 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 ## Relations with Agreement in `Voice`
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
-<tt>VERB --[<tt><a href="tr_imst-dep-compound-redup.html">compound:redup</a></tt>]--> VERB</tt> (5; 83%).
+<tt>VERB --[<tt><a href="tr_imst-dep-compound-redup.html">compound:redup</a></tt>]--> VERB</tt> (7; 88%).
 

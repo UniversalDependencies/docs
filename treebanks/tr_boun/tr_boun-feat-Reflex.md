@@ -9,19 +9,25 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-7 tokens (0%) have a non-empty value of `Reflex`.
-3 types (0%) occur at least once with a non-empty value of `Reflex`.
+264 tokens (0%) have a non-empty value of `Reflex`.
+53 types (0%) occur at least once with a non-empty value of `Reflex`.
 3 lemmas (0%) occur at least once with a non-empty value of `Reflex`.
-The feature is used with 1 part-of-speech tags: <tt><a href="tr_boun-pos-PRON.html">PRON</a></tt> (7; 0% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="tr_boun-pos-PRON.html">PRON</a></tt> (264; 0% instances).
 
 ### `PRON`
 
-7 <tt><a href="tr_boun-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Reflex`.
+264 <tt><a href="tr_boun-pos-PRON.html">PRON</a></tt> tokens (7% of all `PRON` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Dat</tt> (7; 100%), <tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Plur</tt> (6; 86%), <tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt> (6; 86%), <tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=2</tt> (6; 86%), <tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt> (6; 86%).
+The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="tr_boun-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (264; 100%), <tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt> (216; 82%), <tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt> (216; 82%), <tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (214; 81%), <tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (213; 81%).
 
 `PRON` tokens may have the following values of `Reflex`:
 
-* `Yes` (7; 100% of non-empty `Reflex`): <em>organize, böylesine</em>
-* `EMPTY` (3502): <em>ne, ben, benim, bana, kendi, onun, biri, bunu, onu, beni</em>
+* `Yes` (264; 100% of non-empty `Reflex`): <em>kendi, kendini, kendine, kendisine, kendisini, kendimi, kendisi, kendilerini, kendilerine, kendileri</em>
+* `EMPTY` (3318): <em>ben, ne, benim, bana, onun, biri, o, bu, bunu, onu</em>
+
+## Relations with Agreement in `Reflex`
+
+The 10 most frequent relations where parent and child node agree in `Reflex`:
+<tt>PRON --[<tt><a href="tr_boun-dep-compound-redup.html">compound:redup</a></tt>]--> PRON</tt> (5; 100%),
+<tt>PRON --[<tt><a href="tr_boun-dep-compound.html">compound</a></tt>]--> PRON</tt> (1; 100%).
 

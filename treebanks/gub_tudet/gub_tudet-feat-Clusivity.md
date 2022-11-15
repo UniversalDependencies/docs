@@ -11,8 +11,8 @@ It occurs with 2 different values: `Ex`, `In`.
 
 40 tokens (0%) have a non-empty value of `Clusivity`.
 25 types (2%) occur at least once with a non-empty value of `Clusivity`.
-21 lemmas (3%) occur at least once with a non-empty value of `Clusivity`.
-The feature is used with 5 part-of-speech tags: <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt> (16; 0% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (15; 0% instances), <tt><a href="gub_tudet-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="gub_tudet-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="gub_tudet-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+20 lemmas (3%) occur at least once with a non-empty value of `Clusivity`.
+The feature is used with 4 part-of-speech tags: <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt> (16; 0% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (15; 0% instances), <tt><a href="gub_tudet-pos-PRON.html">PRON</a></tt> (8; 0% instances), <tt><a href="gub_tudet-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 ### `VERB`
 
@@ -39,23 +39,13 @@ The most frequent other feature values with which `NOUN` and `Clusivity` co-occu
 
 ### `PRON`
 
-7 <tt><a href="gub_tudet-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Clusivity`.
+8 <tt><a href="gub_tudet-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Clusivity`.
 
-The most frequent other feature values with which `PRON` and `Clusivity` co-occurred: <tt><a href="gub_tudet-feat-Person.html">Person</a></tt><tt>=1</tt> (7; 100%), <tt><a href="gub_tudet-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (6; 86%).
+The most frequent other feature values with which `PRON` and `Clusivity` co-occurred: <tt><a href="gub_tudet-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (7; 88%).
 
 `PRON` tokens may have the following values of `Clusivity`:
 
-* `In` (7; 100% of non-empty `Clusivity`): <em>zane, zanewe</em>
-
-### `ADP`
-
-1 <tt><a href="gub_tudet-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Clusivity`.
-
-The most frequent other feature values with which `ADP` and `Clusivity` co-occurred: <tt><a href="gub_tudet-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1; 100%), <tt><a href="gub_tudet-feat-Rel.html">Rel</a></tt><tt>=EMPTY</tt> (1; 100%).
-
-`ADP` tokens may have the following values of `Clusivity`:
-
-* `In` (1; 100% of non-empty `Clusivity`): <em>zanewi</em>
+* `In` (8; 100% of non-empty `Clusivity`): <em>zane, zanewe, zanewi</em>
 
 ### `AUX`
 

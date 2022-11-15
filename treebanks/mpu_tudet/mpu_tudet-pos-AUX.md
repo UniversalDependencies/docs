@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Makurap-TuDeT: POS Tags: `AUX`
 
 There are 2 `AUX` lemmas (2%), 2 `AUX` types (2%) and 2 `AUX` tokens (1%).
-Out of 11 observed tags, the rank of `AUX` is: 7 in number of lemmas, 7 in number of types and 9 in number of tokens.
+Out of 11 observed tags, the rank of `AUX` is: 8 in number of lemmas, 8 in number of types and 11 in number of tokens.
 
 The 10 most frequent `AUX` lemmas: <em>pīxe, ta</em>
 
@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>pīxe</em> (<tt><a href="mpu_tudet-po
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 1.000000 (the average of all parts of speech is 1.024691).
+The form / lemma ratio of `AUX` is 1.000000 (the average of all parts of speech is 1.010000).
 
 The 1st highest number of forms (1) was observed with the lemma “pīxe”: <em>pīxe</em>.
 
@@ -35,8 +35,8 @@ The 2nd highest number of forms (1) was observed with the lemma “ta”: <em>ot
 `AUX` occurs with 1 feature-value pairs: `Person=1`
 
 `AUX` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (1 tokens).
-Examples: <em>pīxe</em>
+The most frequent feature combination is `Person=1` (1 tokens).
+Examples: <em>ota</em>
 
 
 ## Relations

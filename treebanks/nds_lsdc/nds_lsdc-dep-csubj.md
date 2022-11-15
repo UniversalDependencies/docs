@@ -8,12 +8,44 @@ udver: '2'
 
 This relation is universal.
 
-2 nodes (0%) are attached to their parents as `csubj`.
+3 nodes (0%) are attached to their parents as `csubj`.
 
-2 instances of `csubj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 19.
+2 instances of `csubj` (67%) are left-to-right (parent precedes child).
+Average distance between parent and child is 14.
 
-The following 2 pairs of parts of speech are connected with `csubj`: <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (1; 50% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (1; 50% instances).
+The following 2 pairs of parts of speech are connected with `csubj`: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (2; 67% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (1; 33% instances).
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 5 csubj	color:blue
+1	Wer	wer	PRON	_	Case=Nom|Number=Sing|PronType=Int	5	nsubj	_	_
+2	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	lemma[gml]=dê¹
+3	klokke	klokke	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	_
+4	lüden	lüden	VERB	_	VerbForm=Inf	5	xcomp	_	_
+5	höyrt	höyren	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	csubj	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	mot	möten	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	aux	_	_
+8	ouk	ouk	ADV	_	_	9	advmod	_	_
+9	wetten	weaten	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	13	punct	_	_
+11	wo	wo	ADV	_	_	13	advmod	_	_
+12	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	13	nsubj	_	_
+13	hängt	hangen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	advcl	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	13	punct	_	_
+15	un	un	CCONJ	_	_	21	cc	_	lemma[gml]=unde²
+16	wän	wän	SCONJ	_	_	21	mark	_	_
+17	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	21	nsubj	_	_
+18	noch	noch	ADV	_	_	20	advmod	_	_
+19	sou	sou	ADV	_	_	20	advmod	_	_
+20	houg	houg	ADJ	_	Degree=Pos	21	advmod	_	_
+21	hängt	hangen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	conj	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	9	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -57,56 +89,6 @@ The following 2 pairs of parts of speech are connected with `csubj`: <tt><a href
 33	to	to	PART	_	PartType=Inf	34	mark	_	lemma[gml]=tô⁵
 34	holden	holden	VERB	_	VerbForm=Inf	27	ccomp	_	lemma[gml]=hōlden|SpaceAfter=No
 35	.	.	PUNCT	_	_	4	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 33	bgColor:blue
-# visual-style 33	fgColor:white
-# visual-style 18	bgColor:blue
-# visual-style 18	fgColor:white
-# visual-style 18 33 csubj	color:blue
-1	As	as	SCONJ	_	_	8	mark	_	lemma[gml]=alsô
-2	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	lemma[gml]=ik
-3	de	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	lemma[gml]=dê¹
-4	sin	sin	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	8	obj	_	lemma[gml]=sin¹
-5	sou	sou	ADV	_	_	7	advmod	_	lemma[gml]=sô²
-6	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	7	det	_	lemma[gml]=êⁱn¹
-7	bittyn	betken	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	obl	_	_
-8	nåstuderen	nåstuderen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	18	advcl	_	SpaceAfter=No
-9	,	,	PUNCT	_	_	15	punct	_	_
-10	dår	dår	ADV	_	_	15	advmod	_	lemma[gml]=dâr¹
-11	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	lemma[gml]=et¹
-12	in	in	ADP	_	_	10	case	_	lemma[gml]=in²
-13	ofte	of	CCONJ	_	_	14	cc	_	lemma[gml]=of¹
-14	by	by	ADP	_	_	12	conj	_	lemma[gml]=bî
-15	stun	stån	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	acl	_	lemma[gml]=stân|SpaceAfter=No
-16	,	,	PUNCT	_	_	15	punct	_	_
-17	dan	dan	ADV	_	_	18	advmod	_	_
-18	docht	dünken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma[gml]=dünken
-19	myn	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	18	obj	_	lemma[gml]=ik|SpaceAfter=No
-20	,	,	PUNCT	_	_	33	punct	_	_
-21	det	dat	SCONJ	_	_	33	mark	_	lemma[gml]=dat²
-22	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	33	nsubj	_	lemma[gml]=et¹
-23	sou	sou	ADV	_	_	24	advmod	_	lemma[gml]=sô²
-24	yts	ichts	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	33	obj	_	_
-25	van	van	ADP	_	AdpType=Prep	26	case	_	lemma[gml]=van¹
-26	foppen	voppen	VERB	_	VerbForm=Inf	24	nmod	_	lemma[gml]=voppen
-27	of	of	CCONJ	_	_	31	cc	_	lemma[gml]=of¹
-28	vöär	vöär	ADP	_	AdpType=Prep	30	case	_	lemma[gml]=vȫr³
-29	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem,Masc|Number=Sing|PronType=Art	30	det	_	lemma[gml]=dê¹
-30	gek	gek	NOUN	_	Case=Acc|Gender=Fem,Masc|Number=Sing	31	obj	_	lemma[gml]=gek¹
-31	holden	holden	VERB	_	VerbForm=Inf	26	conj	_	lemma[gml]=hōlden
-32	must	möten	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	33	aux	_	lemma[gml]=mö̂ten²
-33	hebben	hebben	VERB	_	VerbForm=Inf	18	csubj	_	lemma[gml]=hebben|SpaceAfter=No
-34	,	,	PUNCT	_	_	39	punct	_	_
-35	mer	men	CCONJ	_	_	39	cc	_	lemma[gml]=men³
-36	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	39	nsubj	_	lemma[gml]=ik
-37	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	39	cop	_	lemma[gml]=wēsen²
-38	neet	nich	PART	_	PartType=Neg	39	advmod	_	lemma[gml]=nicht¹
-39	seaker	seaker	ADJ	_	Degree=Cmp	18	conj	_	lemma[gml]=sēker|SpaceAfter=No
-40	.	.	PUNCT	_	_	18	punct	_	_
 
 ~~~
 

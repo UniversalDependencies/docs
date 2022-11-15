@@ -60,18 +60,26 @@ The following 15 pairs of parts of speech are connected with `fixed`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 fixed	color:blue
-1	Myr	myr	ADP	_	_	3	advmod	_	_
-2	shen	shen	PRON	_	PronType=Dem	1	fixed	_	_
-3	screeu	screeu	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
-4	mee	mee	PRON	_	Number=Sing|Person=1	3	nsubj	_	_
-5	rish	rish	ADP	_	_	6	case	_	_
-6	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	3	obl	_	_
-7	.	.	PUNCT	_	_	3	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 8 fixed	color:blue
+1	Cha	cha	PART	_	PartType=Vb|Polarity=Neg	2	mark	_	_
+2	daink	tar	VERB	_	Form=Ecl|Mood=Ind|Tense=Past	0	root	_	_
+3	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	2	nsubj	_	_
+4	er	er	ADP	_	_	5	case	_	_
+5	ash	ash	NOUN	_	_	2	obl	_	_
+6	as	as	CCONJ	_	_	9	cc	_	_
+7	myr	myr	ADP	_	_	9	advmod	_	_
+8	shen	shen	PRON	_	PronType=Dem	7	fixed	_	_
+9	v'	bee	VERB	_	Form=Len|Mood=Ind|Tense=Past	2	conj	_	_
+10	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	9	nsubj	_	_
+11	smooinit	smooinit	ADJ	_	_	9	xcomp:pred	_	_
+12	dy	dy	ADP	_	_	13	case	_	_
+13	ve	ve	NOUN	_	_	11	obl	_	_
+14	marroo	marroo	ADJ	_	_	13	xcomp:pred	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 

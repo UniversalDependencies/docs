@@ -47,14 +47,15 @@ The following 4 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 cop	color:blue
-1	She	she	AUX	_	_	2	cop	_	_
-2	dooinney-ooasle	dooinney-ooasle	NOUN	_	_	0	root	_	_
-3	va	bee	VERB	_	Form=Len|Mood=Ind|Tense=Past	2	csubj:cleft	_	_
-4	'n	yn	DET	_	Definite=Def|Number=Sing|PronType=Art	5	det	_	_
-5	ayr	ayr	NOUN	_	_	3	nsubj	_	_
-6	ec	ec	ADP	_	_	7	case	_	_
-7	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	5	nmod	_	_
-8	.	.	PUNCT	_	_	2	punct	_	_
+1	S'	she	AUX	_	_	2	cop	_	_
+2	treisht	treisht	NOUN	_	_	0	root	_	_
+3	lesh	lesh	ADP	_	_	4	case	_	_
+4	mee	mee	PRON	_	Number=Sing|Person=1	2	obl	_	_
+5	dy	dy	PART	_	PartType=Cmpl	6	mark	_	_
+6	vel	bee	VERB	_	Form=Ecl|Mood=Ind|Tense=Pres	2	csubj:cop	_	_
+7	shiu	shiu	PRON	_	Number=Plur|Person=2	6	nsubj	_	_
+8	braew	braew	ADJ	_	_	6	xcomp:pred	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 
@@ -62,15 +63,14 @@ The following 4 pairs of parts of speech are connected with `cop`: <tt><a href="
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 cop	color:blue
-1	Nee	she	AUX	_	_	2	cop	_	_
-2	uss	oo	PRON	_	Number=Sing|Person=2|PronType=Emp	0	root	_	_
-3	yn	yn	DET	_	Definite=Def|Number=Sing|PronType=Art	4	det	_	_
-4	fer	fer	NOUN	_	_	2	nsubj	_	_
-5	lhee	lhee	NOUN	_	_	4	nmod	_	SpaceAfter=No
-6	?	?	PUNCT	_	_	2	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 cop	color:blue
+1	S'	she	AUX	_	_	3	cop	_	_
+2	lesh	lesh	ADP	_	_	3	case	_	_
+3	eshyn	eh	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Emp	0	root	_	_
+4	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	3	nsubj	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

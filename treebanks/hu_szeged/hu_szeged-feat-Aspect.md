@@ -23,7 +23,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 `VERB` tokens may have the following values of `Aspect`:
 
 * `Iter` (12; 100% of non-empty `Aspect`): <em>bizonygatta, forgatnak, forgatta, hajtogatják, ijesztgette, iszogatnak, nyalogathatja, nézegette, találgatta, telefonálgattak</em>
-* `EMPTY` (3647): <em>kell, van, lehet, volt, mondta, elmondta, kellene, jelentette, került, nincs</em>
+* `EMPTY` (3651): <em>kell, van, lehet, volt, mondta, elmondta, kellene, jelentette, került, nincs</em>
 
 `Aspect` seems to be **lexical feature** of `VERB`. 100% lemmas (12) occur only with one value of `Aspect`.
 

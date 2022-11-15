@@ -38,7 +38,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 * `Ord` (381; 100% of non-empty `NumType`): ראשון, ראשונה, שני, שנייה, 20, חמישית, שלישי, 19, רביעי, ראשונות
 * `EMPTY` (8330): עליון, נוסף, רבים, יהודי, שונים, אחרים, גרעיני, ישראלית, בריטי, ישראלי
 
-`NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (47) occur only with one value of `NumType`.
+`NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (46) occur only with one value of `NumType`.
 
 ## Relations with Agreement in `NumType`
 

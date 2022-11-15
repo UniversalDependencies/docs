@@ -98,7 +98,7 @@ The most frequent other feature values with which `PRON` and `Polarity` co-occur
 `CCONJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (2; 100% of non-empty `Polarity`): <em>değil</em>
-* `EMPTY` (194): <em>ve, ne, ama, ya, da, de, hem, yoksa, ister, yok</em>
+* `EMPTY` (192): <em>ve, ne, ama, ya, da, de, hem, yoksa, ister, yok</em>
 
 ## Relations with Agreement in `Polarity`
 

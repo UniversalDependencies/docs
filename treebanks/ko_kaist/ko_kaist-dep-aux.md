@@ -8,73 +8,89 @@ udver: '2'
 
 This relation is universal.
 
-18935 nodes (5%) are attached to their parents as `aux`.
+8039 nodes (2%) are attached to their parents as `aux`.
 
-18935 instances of `aux` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.13224188011619.
+8039 instances of `aux` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.06319193929593.
 
-The following 33 pairs of parts of speech are connected with `aux`: <tt><a href="ko_kaist-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_kaist-pos-AUX.html">AUX</a></tt> (8264; 44% instances), <tt><a href="ko_kaist-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_kaist-pos-VERB.html">VERB</a></tt> (2893; 15% instances), <tt><a href="ko_kaist-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_kaist-pos-NOUN.html">NOUN</a></tt> (2838; 15% instances), <tt><a href="ko_kaist-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_kaist-pos-SCONJ.html">SCONJ</a></tt> (1294; 7% instances), <tt><a href="ko_kaist-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_kaist-pos-CCONJ.html">CCONJ</a></tt> (639; 3% instances), <tt><a href="ko_kaist-pos-AUX.html">AUX</a></tt>-<tt><a href="ko_kaist-pos-AUX.html">AUX</a></tt> (568; 3% instances), <tt><a href="ko_kaist-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_kaist-pos-ADV.html">ADV</a></tt> (447; 2% instances), <tt><a href="ko_kaist-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_kaist-pos-VERB.html">VERB</a></tt> (386; 2% instances), <tt><a href="ko_kaist-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_kaist-pos-AUX.html">AUX</a></tt> (266; 1% instances), <tt><a href="ko_kaist-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_kaist-pos-AUX.html">AUX</a></tt> (266; 1% instances), <tt><a href="ko_kaist-pos-AUX.html">AUX</a></tt>-<tt><a href="ko_kaist-pos-VERB.html">VERB</a></tt> (229; 1% instances), <tt><a href="ko_kaist-pos-AUX.html">AUX</a></tt>-<tt><a href="ko_kaist-pos-NOUN.html">NOUN</a></tt> (155; 1% instances), <tt><a href="ko_kaist-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_kaist-pos-NOUN.html">NOUN</a></tt> (131; 1% instances), <tt><a href="ko_kaist-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_kaist-pos-AUX.html">AUX</a></tt> (120; 1% instances), <tt><a href="ko_kaist-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_kaist-pos-SCONJ.html">SCONJ</a></tt> (78; 0% instances), <tt><a href="ko_kaist-pos-AUX.html">AUX</a></tt>-<tt><a href="ko_kaist-pos-SCONJ.html">SCONJ</a></tt> (76; 0% instances), <tt><a href="ko_kaist-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_kaist-pos-SCONJ.html">SCONJ</a></tt> (41; 0% instances), <tt><a href="ko_kaist-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_kaist-pos-SCONJ.html">SCONJ</a></tt> (36; 0% instances), <tt><a href="ko_kaist-pos-AUX.html">AUX</a></tt>-<tt><a href="ko_kaist-pos-CCONJ.html">CCONJ</a></tt> (36; 0% instances), <tt><a href="ko_kaist-pos-AUX.html">AUX</a></tt>-<tt><a href="ko_kaist-pos-ADV.html">ADV</a></tt> (34; 0% instances), <tt><a href="ko_kaist-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_kaist-pos-CCONJ.html">CCONJ</a></tt> (29; 0% instances), <tt><a href="ko_kaist-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_kaist-pos-CCONJ.html">CCONJ</a></tt> (29; 0% instances), <tt><a href="ko_kaist-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_kaist-pos-VERB.html">VERB</a></tt> (29; 0% instances), <tt><a href="ko_kaist-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_kaist-pos-VERB.html">VERB</a></tt> (20; 0% instances), <tt><a href="ko_kaist-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_kaist-pos-ADV.html">ADV</a></tt> (16; 0% instances), <tt><a href="ko_kaist-pos-PART.html">PART</a></tt>-<tt><a href="ko_kaist-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="ko_kaist-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_kaist-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ko_kaist-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_kaist-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="ko_kaist-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_kaist-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ko_kaist-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_kaist-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ko_kaist-pos-PART.html">PART</a></tt>-<tt><a href="ko_kaist-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ko_kaist-pos-PART.html">PART</a></tt>-<tt><a href="ko_kaist-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ko_kaist-pos-X.html">X</a></tt>-<tt><a href="ko_kaist-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="ko_kaist-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_kaist-pos-AUX.html">AUX</a></tt> (7348; 91% instances), <tt><a href="ko_kaist-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_kaist-pos-AUX.html">AUX</a></tt> (306; 4% instances), <tt><a href="ko_kaist-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_kaist-pos-AUX.html">AUX</a></tt> (265; 3% instances), <tt><a href="ko_kaist-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_kaist-pos-AUX.html">AUX</a></tt> (117; 1% instances), <tt><a href="ko_kaist-pos-PART.html">PART</a></tt>-<tt><a href="ko_kaist-pos-AUX.html">AUX</a></tt> (3; 0% instances).
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 10 aux	color:blue
-1	그때는	그때+는	PRON	npd+jxt	_	14	dislocated	_	_
-2	서울	서울	PROPN	nq	_	3	compound	_	_
-3	장안에	장안+에	ADV	ncn+jca	_	5	obl	_	_
-4	소음이	소음+이	NOUN	ncn+jcs	_	5	nsubj	_	_
-5	없어서	없+어서	SCONJ	paa+ecs	_	14	xcomp	_	_
-6	보신각에서	보신각+에서	ADV	nq+jca	_	9	advcl	_	_
-7	아침	아침	NOUN	ncn	_	8	compound	_	_
-8	저녁으로	저녁+으로	ADV	ncn+jca	_	9	advcl	_	_
-9	울려	울리+어	VERB	pvg+ecx	_	11	acl	_	_
-10	나오는	나오+는	AUX	px+etm	_	9	aux	_	_
-11	종소리가	종소리+가	NOUN	ncn+jcs	_	14	nsubj	_	_
-12	어디서나	어디+서나	ADV	npd+jxc	_	14	advcl	_	_
-13	다	다	ADV	mag	_	14	advmod	_	_
-14	들렸습니다	들리+었+습니다	VERB	pvg+ep+ef	_	0	root	_	SpaceAfter=No
-15	.	.	PUNCT	sf	_	14	punct	_	_
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 14 aux	color:blue
+1	흥화문이라는	흥화문+이+라는	VERB	nq+jp+etm	_	2	acl	_	Translit=.heung.hwa.mun.i.ra.neun|LTranslit=.heung.hwa.mun+.i+.ra.neun
+2	현판은	현판+은	NOUN	ncn+jxt	_	6	dislocated	_	Translit=.hyeon.pan.eun|LTranslit=.hyeon.pan+.eun
+3	어디로인지	어디+로+이+ㄴ지	SCONJ	npd+jca+jp+ecs	_	4	ccomp	_	Translit=.eo.di.ro.in.ji|LTranslit=.eo.di+.ro+.i+ㄴ.ji
+4	간	가+ㄴ	VERB	pvg+etm	_	5	acl	_	Translit=.gan|LTranslit=.ga+ㄴ
+5	곳이	곳+이	NOUN	ncn+jcs	_	6	nsubj	_	Translit=.gos.i|LTranslit=.gos+.i
+6	없어지고	없+어+지+고	CCONJ	paa+ecx+px+ecc	_	0	root	_	Translit=.eobs.eo.ji.go|LTranslit=.eobs+.eo+.ji+.go
+7	삼문	삼문	NOUN	ncn	_	8	compound	_	Translit=.sam.mun|LTranslit=.sam.mun
+8	한가운데	한가운데	NOUN	ncn	_	9	compound	_	Translit=.han.ga.un.de|LTranslit=.han.ga.un.de
+9	문	문	NOUN	ncn	_	10	compound	_	Translit=.mun|LTranslit=.mun
+10	위에는	위+에+는	NOUN	ncn+jca+jxt	_	13	dislocated	_	Translit=.wi.e.neun|LTranslit=.wi+.e+.neun
+11	박문사라는	박문사+이+라는	VERB	nq+jp+etm	_	12	acl	_	Translit=.bag.mun.sa.ra.neun|LTranslit=.bag.mun.sa+.i+.ra.neun
+12	현판이	현판+이	NOUN	ncn+jcs	_	13	nsubj	_	Translit=.hyeon.pan.i|LTranslit=.hyeon.pan+.i
+13	달려	달리+어	VERB	pvg+ecx	_	6	conj	_	Translit=.dal.ryeo|LTranslit=.dal.ri+.eo
+14	있었습니다	있	AUX	px+ep+ef	_	13	aux	_	OrigLemma=있+었+습니다|SpaceAfter=No|Translit=.iss.eoss.seub.ni.da|LTranslit=.iss
+15	.	.	PUNCT	sf	_	14	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 aux	color:blue
-1	왜놈들을	왜놈+들+을	NOUN	ncn+xsn+jco	_	3	obj	_	_
-2	잡아	잡+아	SCONJ	pvg+ecs	_	3	ccomp	_	_
-3	먹는	먹+는	VERB	pvg+etm	_	0	root	_	_
-4	겁니다	거+이+ㅂ니다	VERB	nbn+jp+ef	_	3	aux	_	SpaceAfter=No
-5	.	.	PUNCT	sf	_	4	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 7 aux	color:blue
+1	병자의	병자+의	NOUN	ncn+jcm	_	3	nmod	_	Translit=.byeong.ja.yi|LTranslit=.byeong.ja+.yi
+2	두	두	NUM	nnc	_	3	nummod	_	Translit=.du|LTranslit=.du
+3	난은	난+은	NOUN	ncn+jxt	_	17	dislocated	_	Translit=.nan.eun|LTranslit=.nan+.eun
+4	바로	바로	ADV	mag	_	9	advmod	_	Translit=.ba.ro|LTranslit=.ba.ro
+5	이	이	DET	mmd	_	8	det	_	Translit=.i|LTranslit=.i
+6	문제시하지도	문제시+하+지+도	ADV	ncpa+xsv+ecx+jxc	_	8	acl	_	Translit=.mun.je.si.ha.ji.do|LTranslit=.mun.je.si+.ha+.ji+.do
+7	않던	않	AUX	px+etm	_	6	aux	_	OrigLemma=않+던|Translit=.anh.deon|LTranslit=.anh
+8	무리들에게	무리+들+에게	ADV	ncn+xsn+jca	_	9	iobj	_	Translit=.mu.ri.deul.e.ge|LTranslit=.mu.ri+.deul+.e.ge
+9	짓밟힘으로써	짓밟히+ㅁ+으로써	ADV	pvg+etn+jca	_	12	advcl	_	Translit=.jis.barb.him.eu.ro.sseo|LTranslit=.jis.barb.hi+ㅁ+.eu.ro.sseo
+10	인식을	인식+을	NOUN	ncpa+jco	_	12	obj	_	Translit=.in.sig.eul|LTranslit=.in.sig+.eul
+11	새로이	새로이	ADV	mag	_	12	advmod	_	Translit=.sae.ro.i|LTranslit=.sae.ro.i
+12	하지	하+지	VERB	pvg+ecx	_	15	ccomp	_	Translit=.ha.ji|LTranslit=.ha+.ji
+13	않으면	않	AUX	px+ecs	_	12	aux	_	OrigLemma=않+으면|Translit=.anh.eu.myeon|LTranslit=.anh
+14	안	안	ADV	mag	_	15	advmod	_	Translit=.an|LTranslit=.an
+15	되게	되+게	VERB	pvg+ecx	_	17	ccomp	_	Translit=.doe.ge|LTranslit=.doe+.ge
+16	되었던	되+었+던	VERB	px+ep+etm	_	15	compound	_	Translit=.doe.eoss.deon|LTranslit=.doe+.eoss+.deon
+17	것이다	것+이+다	VERB	nbn+jp+ef	_	0	root	_	SpaceAfter=No|Translit=.geos.i.da|LTranslit=.geos+.i+.da
+18	.	.	PUNCT	sf	_	17	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 aux	color:blue
-1	이와	이+와	CCONJ	npd+jct	_	7	xcomp	_	_
-2	같이	같+이	SCONJ	paa+ecs	_	1	conj	_	_
-3	콩을	콩+을	NOUN	ncn+jco	_	4	obj	_	_
-4	볶고	볶+고	VERB	pvg+ecx	_	7	ccomp	_	_
-5	나서는	나+서+는	NOUN	px+ecs+jxt	_	4	aux	_	_
-6	잡아	잡+아	SCONJ	pvg+ecs	_	7	ccomp	_	_
-7	먹고	먹+고	CCONJ	pvg+ecc	_	0	root	_	SpaceAfter=No
-8	,	,	PUNCT	sp	_	7	punct	_	_
-9	그것으로	그것+으로	ADV	npd+jca	_	10	advcl	_	_
-10	부족하니까	부족+하+니까	SCONJ	ncps+xsm+ecs	_	13	xcomp	_	_
-11	파묻고	파묻+고	CCONJ	pvg+ecc	_	7	conj	_	_
-12	밟습니다	밟+습니다	VERB	pvg+ef	_	11	conj	_	SpaceAfter=No
-13	.	.	PUNCT	sf	_	11	conj	_	_
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 14 aux	color:blue
+1	따라서	따라서	CCONJ	maj	_	13	cc	_	Translit=.dda.ra.seo|LTranslit=.dda.ra.seo
+2	자본가는	자본가+는	NOUN	ncn+jxt	_	13	dislocated	_	Translit=.ja.bon.ga.neun|LTranslit=.ja.bon.ga+.neun
+3	교환가치의	교환+가치+의	NOUN	ncpa+ncn+jcm	_	4	nmod	_	Translit=.gyo.hwan.ga.chi.yi|LTranslit=.gyo.hwan+.ga.chi+.yi
+4	확보를	확보+를	NOUN	ncpa+jco	_	5	obj	_	Translit=.hwag.bo.reul|LTranslit=.hwag.bo+.reul
+5	위해서	위하+어서	SCONJ	pvg+ecs	_	8	ccomp	_	Translit=.wi.hae.seo|LTranslit=.wi.ha+.eo.seo
+6	모든	모든	ADJ	mma	_	7	amod	_	Translit=.mo.deun|LTranslit=.mo.deun
+7	힘을	힘+을	NOUN	ncn+jco	_	8	obj	_	Translit=.him.eul|LTranslit=.him+.eul
+8	기울이게	기울이+게	VERB	pvg+ecx	_	0	root	_	Translit=.gi.ul.i.ge|LTranslit=.gi.ul.i+.ge
+9	되고	되+고	CCONJ	px+ecc	_	8	cc	_	Translit=.doe.go|LTranslit=.doe+.go
+10	가능하면	가능+하+면	SCONJ	ncps+xsm+ecs	_	13	xcomp	_	Translit=.ga.neung.ha.myeon|LTranslit=.ga.neung+.ha+.myeon
+11	자본의	자본+의	NOUN	ncn+jcm	_	12	nmod	_	Translit=.ja.bon.yi|LTranslit=.ja.bon+.yi
+12	회전도	회전+도	ADV	ncpa+jxc	_	13	advcl	_	Translit=.hoe.jeon.do|LTranslit=.hoe.jeon+.do
+13	빠르게	빠르+게	ADJ	paa+ecx	_	8	conj	_	Translit=.bba.reu.ge|LTranslit=.bba.reu+.ge
+14	하려고	하	AUX	px+ecx	_	13	aux	_	OrigLemma=하+려고|Translit=.ha.ryeo.go|LTranslit=.ha
+15	한다	하	AUX	px+ef	_	13	aux	_	OrigLemma=하+ㄴ다|SpaceAfter=No|Translit=.han.da|LTranslit=.ha
+16	.	.	PUNCT	sf	_	15	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

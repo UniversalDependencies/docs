@@ -16,7 +16,7 @@ The feature is used with 6 part-of-speech tags: <tt><a href="da_ddt-pos-PRON.htm
 
 ### `PRON`
 
-5148 <tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> tokens (76% of all `PRON` tokens) have a non-empty value of `Case`.
+5148 <tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> tokens (71% of all `PRON` tokens) have a non-empty value of `Case`.
 
 The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="da_ddt-feat-PartType.html">PartType</a></tt><tt>=EMPTY</tt> (5148; 100%), <tt><a href="da_ddt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (4785; 93%), <tt><a href="da_ddt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3390; 66%), <tt><a href="da_ddt-feat-Person.html">Person</a></tt><tt>=3</tt> (3311; 64%), <tt><a href="da_ddt-feat-Gender.html">Gender</a></tt><tt>=Com</tt> (3075; 60%).
 
@@ -25,7 +25,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 * `Acc` (2301; 45% of non-empty `Case`): <em>det, sig, den, ham, mig, dem, os, hende, dig, jer</em>
 * `Gen` (11; 0% of non-empty `Case`): <em>hvis, hinandens</em>
 * `Nom` (2836; 55% of non-empty `Case`): <em>han, jeg, vi, de, man, hun, du, I</em>
-* `EMPTY` (1652): <em>der, som, hvad, noget, selv, en, andre, hver, andet, hinanden</em>
+* `EMPTY` (2054): <em>der, som, hvad, noget, selv, en, andre, hver, andet, hinanden</em>
 
 <table>
   <tr><th>Paradigm <i>han</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
@@ -41,7 +41,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 `NOUN` tokens may have the following values of `Case`:
 
 * `Gen` (749; 100% of non-empty `Case`): <em>års, Jordens, landets, aftes, regeringens, statens, Kræftens, politiets, ugens, verdens</em>
-* `EMPTY` (17976): <em>år, kr., gang, dag, tid, del, folk, går, mand, måde</em>
+* `EMPTY` (17977): <em>år, kr., gang, dag, tid, del, folk, går, mand, måde</em>
 
 `Case` seems to be **lexical feature** of `NOUN`. 100% lemmas (434) occur only with one value of `Case`.
 
@@ -65,7 +65,7 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 `ADJ` tokens may have the following values of `Case`:
 
 * `Gen` (13; 100% of non-empty `Case`): <em>Konservatives, Langes, bankansattes, besindiges, dødes, enkeltes, gamles, handicappedes, helliges, hvides</em>
-* `EMPTY` (6558): <em>alle, mange, danske, store, flere, samme, hele, første, nye, sidste</em>
+* `EMPTY` (6546): <em>alle, mange, danske, store, samme, flere, hele, første, nye, sidste</em>
 
 `Case` seems to be **lexical feature** of `ADJ`. 100% lemmas (12) occur only with one value of `Case`.
 
@@ -89,7 +89,7 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 `VERB` tokens may have the following values of `Case`:
 
 * `Gen` (1; 100% of non-empty `Case`): <em>tiltaltes</em>
-* `EMPTY` (10711): <em>er, har, siger, var, få, får, fik, sagde, kommer, se</em>
+* `EMPTY` (10897): <em>er, har, siger, var, få, får, fik, sagde, bliver, kommer</em>
 
 ## Relations with Agreement in `Case`
 

@@ -43,19 +43,17 @@ The 1st highest number of forms (12) was observed with the lemma “_”: <em>am
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 5 different relations: <tt><a href="bej_nsc-dep-advmod.html">advmod</a></tt> (10; 63% instances), <tt><a href="bej_nsc-dep-discourse.html">discourse</a></tt> (2; 13% instances), <tt><a href="bej_nsc-dep-reparandum.html">reparandum</a></tt> (2; 13% instances), <tt><a href="bej_nsc-dep-fixed.html">fixed</a></tt> (1; 6% instances), <tt><a href="bej_nsc-dep-iobj.html">iobj</a></tt> (1; 6% instances)
+`ADV` nodes are attached to their parents using 4 different relations: <tt><a href="bej_nsc-dep-advmod.html">advmod</a></tt> (10; 63% instances), <tt><a href="bej_nsc-dep-reparandum.html">reparandum</a></tt> (3; 19% instances), <tt><a href="bej_nsc-dep-discourse.html">discourse</a></tt> (2; 13% instances), <tt><a href="bej_nsc-dep-fixed.html">fixed</a></tt> (1; 6% instances)
 
-Parents of `ADV` nodes belong to 4 different parts of speech: <tt><a href="bej_nsc-pos-VERB.html">VERB</a></tt> (11; 69% instances), <tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt> (3; 19% instances), <tt><a href="bej_nsc-pos-ADJ.html">ADJ</a></tt> (1; 6% instances), <tt><a href="bej_nsc-pos-PROPN.html">PROPN</a></tt> (1; 6% instances)
+Parents of `ADV` nodes belong to 4 different parts of speech: <tt><a href="bej_nsc-pos-VERB.html">VERB</a></tt> (10; 63% instances), <tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt> (4; 25% instances), <tt><a href="bej_nsc-pos-ADJ.html">ADJ</a></tt> (1; 6% instances), <tt><a href="bej_nsc-pos-PROPN.html">PROPN</a></tt> (1; 6% instances)
 
-10 (63%) `ADV` nodes are leaves.
+12 (75%) `ADV` nodes are leaves.
 
-3 (19%) `ADV` nodes have one child.
+4 (25%) `ADV` nodes have one child.
 
-3 (19%) `ADV` nodes have two children.
+The highest child degree of a `ADV` node is 1.
 
-The highest child degree of a `ADV` node is 2.
+Children of `ADV` nodes are attached using 2 different relations: <tt><a href="bej_nsc-dep-punct.html">punct</a></tt> (3; 75% instances), <tt><a href="bej_nsc-dep-det.html">det</a></tt> (1; 25% instances)
 
-Children of `ADV` nodes are attached using 3 different relations: <tt><a href="bej_nsc-dep-punct.html">punct</a></tt> (5; 56% instances), <tt><a href="bej_nsc-dep-reparandum.html">reparandum</a></tt> (3; 33% instances), <tt><a href="bej_nsc-dep-det.html">det</a></tt> (1; 11% instances)
-
-Children of `ADV` nodes belong to 4 different parts of speech: <tt><a href="bej_nsc-pos-PUNCT.html">PUNCT</a></tt> (5; 56% instances), <tt><a href="bej_nsc-pos-PROPN.html">PROPN</a></tt> (2; 22% instances), <tt><a href="bej_nsc-pos-DET.html">DET</a></tt> (1; 11% instances), <tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt> (1; 11% instances)
+Children of `ADV` nodes belong to 2 different parts of speech: <tt><a href="bej_nsc-pos-PUNCT.html">PUNCT</a></tt> (3; 75% instances), <tt><a href="bej_nsc-pos-DET.html">DET</a></tt> (1; 25% instances)
 

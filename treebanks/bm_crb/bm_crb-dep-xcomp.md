@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-549 nodes (4%) are attached to their parents as `xcomp`.
+551 nodes (4%) are attached to their parents as `xcomp`.
 
-546 instances of `xcomp` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.14754098360656.
+548 instances of `xcomp` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.1470054446461.
 
-The following 4 pairs of parts of speech are connected with `xcomp`: <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> (543; 99% instances), <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> (2; 0% instances).
+The following 4 pairs of parts of speech are connected with `xcomp`: <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> (545; 99% instances), <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> (2; 0% instances).
 
 
 ~~~ conllu

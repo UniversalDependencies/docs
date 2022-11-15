@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="uk_iu-dep-flat.html">flat</a></tt>.
 There are also 6 other language-specific subtypes of `flat`: <tt><a href="uk_iu-dep-flat-abs.html">flat:abs</a></tt>, <tt><a href="uk_iu-dep-flat-foreign.html">flat:foreign</a></tt>, <tt><a href="uk_iu-dep-flat-name.html">flat:name</a></tt>, <tt><a href="uk_iu-dep-flat-range.html">flat:range</a></tt>, <tt><a href="uk_iu-dep-flat-sibl.html">flat:sibl</a></tt>, <tt><a href="uk_iu-dep-flat-title.html">flat:title</a></tt>.
 
-77 nodes (0%) are attached to their parents as `flat:repeat`.
+78 nodes (0%) are attached to their parents as `flat:repeat`.
 
-77 instances of `flat:repeat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.49350649350649.
+78 instances of `flat:repeat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.48717948717949.
 
-The following 11 pairs of parts of speech are connected with `flat:repeat`: <tt><a href="uk_iu-pos-INTJ.html">INTJ</a></tt>-<tt><a href="uk_iu-pos-INTJ.html">INTJ</a></tt> (17; 22% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (16; 21% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (16; 21% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (16; 21% instances), <tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt> (3; 4% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (2; 3% instances), <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="uk_iu-pos-PART.html">PART</a></tt>-<tt><a href="uk_iu-pos-PART.html">PART</a></tt> (1; 1% instances).
+The following 11 pairs of parts of speech are connected with `flat:repeat`: <tt><a href="uk_iu-pos-INTJ.html">INTJ</a></tt>-<tt><a href="uk_iu-pos-INTJ.html">INTJ</a></tt> (17; 22% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (17; 22% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (16; 21% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (16; 21% instances), <tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt> (3; 4% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (2; 3% instances), <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="uk_iu-pos-PART.html">PART</a></tt>-<tt><a href="uk_iu-pos-PART.html">PART</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -27,6 +27,24 @@ The following 11 pairs of parts of speech are connected with `flat:repeat`: <tt>
 2	,	,	PUNCT	U	_	3	punct	3:punct	Id=2wpx|LTranslit=,|Translit=,
 3	на	на	INTJ	I	_	1	flat:repeat	1:flat:repeat	Id=2wpy|LTranslit=na|SpaceAfter=No|Translit=na
 4	!	!	PUNCT	U	_	1	punct	1:punct	Id=2wpz|LTranslit=!|Translit=!
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 3 flat:repeat	color:blue
+1	Шуляю	шуляти	VERB	Vmpip1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	Id=2wir|LTranslit=šuľаty|SpaceAfter=No|Translit=Šuľаju
+2	,	,	PUNCT	U	_	3	punct	3:punct	Id=2wis|LTranslit=,|Translit=,
+3	шуляю	шуляти	VERB	Vmpip1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	flat:repeat	1:flat:repeat	Id=2wit|LTranslit=šuľаty|Translit=šuľаju
+4	дратвою	дратва	NOUN	Ncfsin	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	1	obl	1:obl	Id=2wiu|LTranslit=dratva|Translit=dratvoju
+5	і	і	CCONJ	Ccs	_	7	cc	7:cc	Id=2wiv|LTranslit=i|Translit=i
+6	не	не	PART	Q	Polarity=Neg	7	advmod	7:advmod	Id=2wiw|LTranslit=ne|Translit=ne
+7	попаду	попасти	VERB	Vmeif1s	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	1	conj	0:root|1:conj	Id=2wix|LTranslit=popasty|SpaceAfter=No|Translit=popadu
+8	...	...	PUNCT	U	_	1	punct	1:punct	Id=2wiy|LTranslit=...|Translit=...
 
 ~~~
 
@@ -45,27 +63,10 @@ The following 11 pairs of parts of speech are connected with `flat:repeat`: <tt>
 6	-	-	PUNCT	U	PunctType=Dash	11	punct	11:punct	Id=1msg|LTranslit=-|Translit=-
 7	це	це	PRON	Pd--nnsnn	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	11	expl	11:expl	Id=1msh|LTranslit=ce|Translit=ce
 8	дуже	дуже	ADV	Rp	Degree=Pos	11	advmod	11:advmod	Id=1msi|LTranslit=duže|SpaceAfter=No|Translit=duže
-9	-	-	PUNCT	U	PunctType=Dash	10	punct	10:punct	Id=1msj|LTranslit=-|SpaceAfter=No|Translit=-
+9	-	-	PUNCT	U	PunctType=Hyph	10	punct	10:punct	Id=1msj|LTranslit=-|SpaceAfter=No|Translit=-
 10	дуже	дуже	ADV	Rp	Degree=Pos	8	flat:repeat	8:flat:repeat	Id=1msk|LTranslit=duže|Translit=duže
 11	важливо	важливо	ADV	Rp	Degree=Pos	0	root	0:root	Id=1msl|LTranslit=važlyvo|SpaceAfter=No|Translit=važlyvo
 12	!	!	PUNCT	U	_	11	punct	11:punct	Id=1msm|LTranslit=!|Translit=!
-
-~~~
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 4 flat:repeat	color:blue
-1	—	—	PUNCT	U	PunctType=Dash	6	punct	6:punct	Id=0b12|LTranslit=—|Translit=—
-2	Дівко	дівка	NOUN	Ncfsvy	Animacy=Anim|Case=Voc|Gender=Fem|Number=Sing	6	vocative	6:vocative	Id=0b13|LTranslit=divka|SpaceAfter=No|Translit=Divko
-3	,	,	PUNCT	U	_	4	punct	4:punct	Id=0b14|LTranslit=,|Translit=,
-4	дівко	дівка	NOUN	Ncfsvy	Animacy=Anim|Case=Voc|Gender=Fem|Number=Sing	2	flat:repeat	2:flat:repeat	Id=0b15|LTranslit=divka|SpaceAfter=No|Translit=divko
-5	,	,	PUNCT	U	_	2	punct	2:punct	Id=0b16|LTranslit=,|Translit=,
-6	одчини	одчинити	VERB	Vmem-2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	0:root	Id=0b17|LTranslit=odčynyty|SpaceAfter=No|Translit=odčyny
-7	!	!	PUNCT	U	_	6	punct	6:punct	Id=0b18|LTranslit=!|Translit=!
 
 ~~~
 

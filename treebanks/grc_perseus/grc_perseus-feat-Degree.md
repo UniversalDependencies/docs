@@ -57,7 +57,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 * `Cmp` (21; 44% of non-empty `Degree`): <em>μᾶλλον, ἆσσον, θειοτέρως, κατωτέρω, μεγάλως, ἀπωτέρω</em>
 * `Sup` (27; 56% of non-empty `Degree`): <em>μάλιστα, καὶ, μάλιστ̓, ἑκαστάτω, κάλλιστ̓, μάλισθ̓, ἐγγυτάτω, ἰθύντατα, ῥᾷστα</em>
-* `EMPTY` (18958): <em>καὶ, δὲ, οὐ, μὲν, γὰρ, ὣς, οὐκ, δ̓, τε, νῦν</em>
+* `EMPTY` (18969): <em>καὶ, δὲ, οὐ, μὲν, γὰρ, ὣς, οὐκ, δ̓, τε, νῦν</em>
 
 <table>
   <tr><th>Paradigm <i>μάλα</i></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>

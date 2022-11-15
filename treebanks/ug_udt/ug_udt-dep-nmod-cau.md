@@ -12,9 +12,9 @@ There are also 4 other language-specific subtypes of `nmod`: <tt><a href="ug_udt
 68 nodes (0%) are attached to their parents as `nmod:cau`.
 
 67 instances of `nmod:cau` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.41176470588235.
+Average distance between parent and child is 3.42647058823529.
 
-The following 14 pairs of parts of speech are connected with `nmod:cau`: <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (36; 53% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> (14; 21% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (3; 4% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (3; 4% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ug_udt-pos-AUX.html">AUX</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ug_udt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-NUM.html">NUM</a></tt> (1; 1% instances).
+The following 13 pairs of parts of speech are connected with `nmod:cau`: <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (36; 53% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> (14; 21% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (4; 6% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (3; 4% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ug_udt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -44,7 +44,7 @@ The following 14 pairs of parts of speech are connected with `nmod:cau`: <tt><a 
 # visual-style 5	fgColor:white
 # visual-style 5 1 nmod:cau	color:blue
 1	ئۇلارغا	ئۇلار	PRON	P	Case=Dat|Number=Plur|Person=3|PronType=Prs	5	nmod:cau	_	Translit=ulargha
-2	كىشىلىك	كىشىلىك	NOUN	A	Case=Nom	3	amod	_	Translit=kishilik
+2	كىشىلىك	كىشىلىك	ADJ	A	Case=Nom	3	amod	_	Translit=kishilik
 3	ھاياتنىڭ	ھايات	NOUN	N	Case=Gen	4	nmod:poss	_	Translit=hayatning
 4	ھەقىقىتىنى	ھەقىقەت	NOUN	N	Case=Acc|Number[psor]=Plur,Sing|Person[psor]=3	5	obj	_	Translit=heqiqitini
 5	تونۇتىسەن	_	VERB	V	_	0	root	_	SpaceAfter=No|Translit=tonutisen|Morf=Unknown
@@ -64,7 +64,7 @@ The following 14 pairs of parts of speech are connected with `nmod:cau`: <tt><a 
 3	چىقماقچى	_	NOUN	N	_	8	obl	_	Translit=chiqmaqchi|Morf=Unknown
 4	بولۇپ	بول	AUX	V	Aspect=Perf|VerbForm=Conv	3	cop	_	Translit=bolup
 5	كېچە-كۈندۈز	_	NOUN	N	_	8	nmod:tmod	_	Translit=këche-kündüz|Morf=Unknown
-6	توختىماي	_	VERB	V	_	8	advmod	_	Translit=toxtimay|Morf=Unknown
+6	توختىماي	_	VERB	V	_	8	advcl	_	Translit=toxtimay|Morf=Unknown
 7	پىيادە	پىيادە	NOUN	D	Case=Nom	8	obl	_	Translit=piyade
 8	ماڭىدىغان	_	VERB	V	_	14	obl	_	Translit=mangidighan|Morf=Unknown
 9	بولساق	بول	AUX	V	Mood=Cnd|Number=Sing|Person=1|VerbForm=Conv	8	aux	_	SpaceAfter=No|Translit=bolsaq

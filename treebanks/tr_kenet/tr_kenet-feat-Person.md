@@ -135,7 +135,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>NOUN --[<tt><a href="tr_kenet-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (10435; 100%),
 <tt>VERB --[<tt><a href="tr_kenet-dep-obl.html">obl</a></tt>]--> NOUN</tt> (7329; 79%),
-<tt>VERB --[<tt><a href="tr_kenet-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (6479; 97%),
+<tt>VERB --[<tt><a href="tr_kenet-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (6478; 97%),
 <tt>VERB --[<tt><a href="tr_kenet-dep-obj.html">obj</a></tt>]--> NOUN</tt> (4635; 75%),
 <tt>NOUN --[<tt><a href="tr_kenet-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2827; 100%),
 <tt>NOUN --[<tt><a href="tr_kenet-dep-obl.html">obl</a></tt>]--> NOUN</tt> (2450; 100%),

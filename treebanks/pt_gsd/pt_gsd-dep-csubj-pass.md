@@ -32,7 +32,7 @@ The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 8	dirigir	dirigir	VERB	VERB	_	4	csubj:pass	_	_
 9	cerca	cerca	ADV	ADV	_	12	advmod	_	_
 10	de	de	ADP	ADP	_	9	case	_	_
-11	1,2	_	NUM	NUM	NumType=Card	12	nummod	_	_
+11	1,2	1,2	NUM	NUM	NumType=Card	12	nummod	_	_
 12	milhões	_	NUM	NUM	NumType=Card	14	nummod	_	_
 13	de	de	ADP	ADP	_	14	case	_	_
 14	km	km	NOUN	NOUN	_	8	nmod	_	SpaceAfter=No
@@ -76,7 +76,7 @@ The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 27	em	em	ADP	ADP	_	29	case	_	_
 28	a	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	29	det	_	_
 29	qual	_	PRON	PRON	_	32	nmod	_	_
-30	o	o	DET	DET	_	31	det	_	_
+30	o	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	31	det	_	_
 31	redator	redator	NOUN	NOUN	_	32	nsubj	_	_
 32	comparou	comparar	VERB	VERB	_	11	acl:relcl	_	_
 33	-	-	PUNCT	.	_	32	punct	_	_

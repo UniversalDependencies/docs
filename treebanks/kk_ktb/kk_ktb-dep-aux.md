@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-232 nodes (2%) are attached to their parents as `aux`.
+174 nodes (2%) are attached to their parents as `aux`.
 
-232 instances of `aux` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.10775862068966.
+174 instances of `aux` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.11494252873563.
 
-The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt>-<tt><a href="kk_ktb-pos-AUX.html">AUX</a></tt> (210; 91% instances), <tt><a href="kk_ktb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kk_ktb-pos-AUX.html">AUX</a></tt> (10; 4% instances), <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt>-<tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt> (6; 3% instances), <tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kk_ktb-pos-AUX.html">AUX</a></tt> (4; 2% instances), <tt><a href="kk_ktb-pos-ADV.html">ADV</a></tt>-<tt><a href="kk_ktb-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="kk_ktb-pos-PRON.html">PRON</a></tt>-<tt><a href="kk_ktb-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt>-<tt><a href="kk_ktb-pos-AUX.html">AUX</a></tt> (160; 92% instances), <tt><a href="kk_ktb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kk_ktb-pos-AUX.html">AUX</a></tt> (9; 5% instances), <tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kk_ktb-pos-AUX.html">AUX</a></tt> (4; 2% instances), <tt><a href="kk_ktb-pos-ADV.html">ADV</a></tt>-<tt><a href="kk_ktb-pos-AUX.html">AUX</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -57,19 +57,22 @@ The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 aux	color:blue
-1	Қызды	қыз	NOUN	n	Case=Acc	3	obj	_	_
-2	біреуге	біреу	PRON	prn	Case=Dat|PronType=Ind	3	nmod	_	_
-3	беріп	бер	VERB	v	Aspect=Perf|VerbForm=Inf	6	advcl	_	_
-4	жіберуге	жібер	VERB	v	Case=Dat|VerbForm=Ger	3	aux	_	_
-5	кім	кім	PRON	prn	Case=Nom|PronType=Int	6	nsubj	_	_
-6	даяр	даяр	ADJ	adj	_	0	root	_	_
-7	тұр	тұр	AUX	vaux	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	SpaceAfter=No
-8	?	?	PUNCT	sent	_	6	punct	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 10 aux	color:blue
+1	Осы	осы	DET	det	PronType=Dem	2	det	_	_
+2	орайда	орай	NOUN	n	Case=Loc	8	obl	_	_
+3	Сіздің	сіз	PRON	prn	Case=Gen|Number=Sing|Person=2|Polite=Form|PronType=Prs	4	nmod:poss	_	_
+4	сапарыңыз	сапар	NOUN	n	Case=Nom|Number[psor]=Sing|Person[psor]=2|Polite=Form	8	nsubj	_	_
+5	аса	аса	ADV	adv	_	8	advmod	_	_
+6	мәнді	мәнді	ADJ	adj	_	0	root	_	_
+7	әрі	әрі	CCONJ	cnjcoo	_	8	cc	_	_
+8	маңызды	маңызды	ADJ	adj	_	6	conj	_	_
+9	болып	бол	AUX	v	Aspect=Perf|VerbForm=Inf	8	cop	_	_
+10	отыр	отыр	AUX	vaux	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	SpaceAfter=No
+11	.	.	PUNCT	sent	_	8	punct	_	_
 
 ~~~
 

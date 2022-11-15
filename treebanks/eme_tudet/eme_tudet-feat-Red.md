@@ -9,18 +9,28 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-1 tokens (0%) have a non-empty value of `Red`.
-1 types (1%) occur at least once with a non-empty value of `Red`.
-1 lemmas (1%) occur at least once with a non-empty value of `Red`.
-The feature is used with 1 part-of-speech tags: <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+17 tokens (1%) have a non-empty value of `Red`.
+12 types (1%) occur at least once with a non-empty value of `Red`.
+12 lemmas (3%) occur at least once with a non-empty value of `Red`.
+The feature is used with 2 part-of-speech tags: <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt> (12; 1% instances), <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt> (5; 0% instances).
 
 ### `VERB`
 
-1 <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt> tokens (2% of all `VERB` tokens) have a non-empty value of `Red`.
+12 <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt> tokens (4% of all `VERB` tokens) have a non-empty value of `Red`.
 
-The most frequent other feature values with which `VERB` and `Red` co-occurred: <tt><a href="eme_tudet-feat-Clusivity.html">Clusivity</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="eme_tudet-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1; 100%), <tt><a href="eme_tudet-feat-Person.html">Person</a></tt><tt>=3</tt> (1; 100%), <tt><a href="eme_tudet-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="eme_tudet-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="eme_tudet-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `VERB` and `Red` co-occurred: <tt><a href="eme_tudet-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (10; 83%), <tt><a href="eme_tudet-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (9; 75%), <tt><a href="eme_tudet-feat-Person.html">Person</a></tt><tt>=3</tt> (9; 75%).
 
 `VERB` tokens may have the following values of `Red`:
 
-* `Yes` (1; 100% of non-empty `Red`): <em>otuiŋ</em>
+* `Yes` (12; 100% of non-empty `Red`): <em>oituĩtun, arowarowag, omãʔẽmãʔẽ, aerahoraho, oeɲueɲuŋo, ohẽhem, okeokero, operoperog</em>
+
+### `NOUN`
+
+5 <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Red`.
+
+The most frequent other feature values with which `NOUN` and `Red` co-occurred: <tt><a href="eme_tudet-feat-Rel.html">Rel</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="eme_tudet-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4; 80%), <tt><a href="eme_tudet-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3; 60%).
+
+`NOUN` tokens may have the following values of `Red`:
+
+* `Yes` (5; 100% of non-empty `Red`): <em>ezozopodʒ, orɨorɨ, oʔɨwiwi, səsəwe</em>
 

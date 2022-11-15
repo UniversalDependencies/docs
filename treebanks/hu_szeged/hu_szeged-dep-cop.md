@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-169 nodes (0%) are attached to their parents as `cop`.
+163 nodes (0%) are attached to their parents as `cop`.
 
-124 instances of `cop` (73%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.45562130177515.
+119 instances of `cop` (73%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.47239263803681.
 
-The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> (78; 46% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> (65; 38% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt>-<tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> (10; 6% instances), <tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> (6; 4% instances), <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt>-<tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> (5; 3% instances), <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt>-<tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> (3; 2% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt>-<tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> (76; 47% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> (63; 39% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt>-<tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> (9; 6% instances), <tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> (7; 4% instances), <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt>-<tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> (5; 3% instances), <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt>-<tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> (3; 2% instances).
 
 
 ~~~ conllu
@@ -33,20 +33,24 @@ The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 8 cop	color:blue
-1	A	a	DET	_	Definite=Def|PronType=Art	2	det	_	_
-2	rendezvény	rendezvény	NOUN	_	Case=Nom|Number=Sing	3	nmod:att	_	_
-3	szónoka	szónok	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	7	nsubj	_	_
-4	Tamás	Tamás	PROPN	_	Case=Nom|Number=Sing	7	appos	_	_
-5	Gáspár	Gáspár	PROPN	_	Case=Nom|Number=Sing	4	flat:name	_	_
-6	Miklós	Miklós	PROPN	_	Case=Nom|Number=Sing	4	flat:name	_	_
-7	filozófus	filozófus	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
-8	lesz	lesz	AUX	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	7	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 cop	color:blue
+1	—	—	PUNCT	_	_	2	punct	_	_
+2	Kár	kár	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
+3	volt	van	AUX	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	cop	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	8	punct	_	_
+5	mert	mert	SCONJ	_	_	8	mark	_	_
+6	Monokli	monokli	NOUN	_	Case=Nom|Number=Sing	7	nmod:att	_	_
+7	címmel	cím	NOUN	_	Case=Ins|Number=Sing	8	obl	_	_
+8	ott	ott	ADV	_	PronType=Dem	2	advcl	_	_
+9	az	az	DET	_	Definite=Def|PronType=Art	10	det	_	_
+10	írás	írás	NOUN	_	Case=Nom|Number=Sing	8	nsubj	_	_
+11	a	a	DET	_	Definite=Def|PronType=Art	12	det	_	_
+12	könyvben	könyv	NOUN	_	Case=Ine|Number=Sing	8	obl	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 

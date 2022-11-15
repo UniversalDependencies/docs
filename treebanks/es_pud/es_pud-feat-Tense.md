@@ -11,7 +11,7 @@ It occurs with 3 different values: `Fut`, `Past`, `Pres`.
 
 2250 tokens (10%) have a non-empty value of `Tense`.
 1178 types (20%) occur at least once with a non-empty value of `Tense`.
-213 lemmas (6%) occur at least once with a non-empty value of `Tense`.
+216 lemmas (6%) occur at least once with a non-empty value of `Tense`.
 The feature is used with 2 part-of-speech tags: <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (1615; 7% instances), <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> (635; 3% instances).
 
 ### `VERB`
@@ -27,7 +27,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 * `Pres` (501; 31% of non-empty `Tense`): <em>es, tiene, hay, está, hace, tienen, dice, están, incluyen, encuentra</em>
 * `EMPTY` (574): <em>hacer, tener, ver, establecer, ayudar, dejar, enviar, escrito, incluyendo, producir</em>
 
-`Tense` seems to be **lexical feature** of `VERB`. 92% lemmas (194) occur only with one value of `Tense`.
+`Tense` seems to be **lexical feature** of `VERB`. 92% lemmas (197) occur only with one value of `Tense`.
 
 ### `AUX`
 

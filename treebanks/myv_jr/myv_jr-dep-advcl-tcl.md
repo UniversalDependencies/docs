@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Erzya-JR: Relations: `advcl:tcl`
 
 This relation is a language-specific subtype of <tt><a href="myv_jr-dep-advcl.html">advcl</a></tt>.
+There are also 2 other language-specific subtypes of `advcl`: <tt><a href="myv_jr-dep-advcl-cmp.html">advcl:cmp</a></tt>, <tt><a href="myv_jr-dep-advcl-eval.html">advcl:eval</a></tt>.
 
-14 nodes (0%) are attached to their parents as `advcl:tcl`.
+19 nodes (0%) are attached to their parents as `advcl:tcl`.
 
-9 instances of `advcl:tcl` (64%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.64285714285714.
+13 instances of `advcl:tcl` (68%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.78947368421053.
 
-The following 4 pairs of parts of speech are connected with `advcl:tcl`: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (9; 64% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (3; 21% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (1; 7% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (1; 7% instances).
+The following 4 pairs of parts of speech are connected with `advcl:tcl`: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (14; 74% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (3; 16% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (1; 5% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -49,7 +50,7 @@ The following 4 pairs of parts of speech are connected with `advcl:tcl`: <tt><a 
 8	мезе	мезе	PRON	Pron	Case=Nom|Definite=Ind|Number=Sing|PronType=Int	9	obj	_	GTtags=Interr,Sg,Nom,Indef
 9	теемс	теемс	VERB	V	Valency=2|VerbForm=Inf	6	ccomp	_	GTtags=TV,Inf|SpaceAfter=No
 10	,	,	PUNCT	CLB	_	12	punct	_	_
-11	ков	ков	ADV	Adv	Case=Lat|PronType=Int	12	obl:lto	_	GTtags=Interr,Lat
+11	ков	ков	ADV	Adv	Case=Lat|PronType=Int	12	obl:lmod	_	GTtags=Interr,Lat
 12	ношкстамс	ношкстамс	VERB	V	Valency=1|VerbForm=Inf	6	ccomp	_	GTtags=IV,Inf|SpaceAfter=No
 13	.	.	PUNCT	CLB	_	3	punct	_	_
 

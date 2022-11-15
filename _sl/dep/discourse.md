@@ -20,3 +20,4 @@ discourse(zamahnili,češ)
 Tebi gre najbrž drugače, rdečečopek , kajne ?
 discourse(gre,kajne)
 ~~~
+<!-- Interlanguage links updated Po lis 14 15:35:23 CET 2022 -->

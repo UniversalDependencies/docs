@@ -35,7 +35,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 5598 sentences, 119832 tokens and 122021 syntactic words.</li>
+      <li>This corpus contains 5598 sentences, 119830 tokens and 122019 syntactic words.</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -52,7 +52,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 16339 tokens (14%) that are not followed by a space.</li>
+      <li>This corpus contains 16340 tokens (14%) that are not followed by a space.</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -1635,16 +1635,15 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN (1601)</li>
+            <li>VERB--NOUN (1588)</li>
             <li>VERB--NOUN-ADP(dalam) (1)</li>
             <li>VERB--NOUN-ADP(di) (1)</li>
             <li>VERB--NOUN-ADP(karena) (1)</li>
             <li>VERB--NOUN-ADP(saat) (1)</li>
             <li>VERB--NOUN-ADP(seperti) (1)</li>
             <li>VERB--NOUN-ADP(untuk) (1)</li>
-            <li>VERB--PRON (2114)</li>
+            <li>VERB--PRON (2094)</li>
             <li>VERB--PRON-ADP(di) (1)</li>
-            <li>VERB--PRON-ADP(karena) (1)</li>
           </ul>
         </li>
       </ul>
@@ -1694,11 +1693,10 @@ udver: '2'
             <li>VERB--NOUN-ADP(sebesar) (1)</li>
             <li>VERB--NOUN-ADP(secara) (1)</li>
             <li>VERB--NOUN-ADP(selama) (1)</li>
-            <li>VERB--NOUN-ADP(seluas) (1)</li>
             <li>VERB--NOUN-ADP(seperti) (4)</li>
             <li>VERB--NOUN-ADP(untuk) (2)</li>
             <li>VERB--NOUN-ADP(yaitu) (1)</li>
-            <li>VERB--PRON (536)</li>
+            <li>VERB--PRON (537)</li>
           </ul>
         </li>
       </ul>

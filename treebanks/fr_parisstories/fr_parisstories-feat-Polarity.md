@@ -9,19 +9,19 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Neg`.
 
-143 tokens (0%) have a non-empty value of `Polarity`.
-4 types (0%) occur at least once with a non-empty value of `Polarity`.
-3 lemmas (0%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 1 part-of-speech tags: <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> (143; 0% instances).
+169 tokens (0%) have a non-empty value of `Polarity`.
+5 types (0%) occur at least once with a non-empty value of `Polarity`.
+4 lemmas (0%) occur at least once with a non-empty value of `Polarity`.
+The feature is used with 1 part-of-speech tags: <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> (169; 0% instances).
 
 ### `ADV`
 
-143 <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> tokens (6% of all `ADV` tokens) have a non-empty value of `Polarity`.
+169 <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> tokens (5% of all `ADV` tokens) have a non-empty value of `Polarity`.
 
 `ADV` tokens may have the following values of `Polarity`:
 
-* `Neg` (143; 100% of non-empty `Polarity`): <em>pas, n', non, ne</em>
-* `EMPTY` (2235): <em>donc, pas, vraiment, enfin, là, plus, très, tout, bien, même</em>
+* `Neg` (169; 100% of non-empty `Polarity`): <em>pas, n', ne, non, qu'</em>
+* `EMPTY` (3372): <em>donc, pas, parce, enfin, plus, vraiment, là, tout, très, même</em>
 
 ## Relations with Agreement in `Polarity`
 

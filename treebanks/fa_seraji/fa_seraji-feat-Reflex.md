@@ -11,7 +11,7 @@ It occurs with 1 different values: `Yes`.
 
 796 tokens (1%) have a non-empty value of `Reflex`.
 5 types (0%) occur at least once with a non-empty value of `Reflex`.
-2 lemmas (0%) occur at least once with a non-empty value of `Reflex`.
+5 lemmas (0%) occur at least once with a non-empty value of `Reflex`.
 The feature is used with 1 part-of-speech tags: <tt><a href="fa_seraji-pos-PRON.html">PRON</a></tt> (796; 1% instances).
 
 ### `PRON`

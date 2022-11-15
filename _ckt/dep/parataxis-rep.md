@@ -16,4 +16,4 @@ parataxis:rep(they.say, change.mind)
 
 “Then, the next day, people say: «Maybe, they have already changed their minds?»”
 
-<!-- Interlanguage links updated So kvě 14 19:04:12 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:43 CET 2022 -->

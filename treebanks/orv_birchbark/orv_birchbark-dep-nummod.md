@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `nummod`: <tt><a href="orv_birchbark-dep-nummod-gov.html">nummod:gov</a></tt>.
 
-74 nodes (0%) are attached to their parents as `nummod`.
+75 nodes (0%) are attached to their parents as `nummod`.
 
-64 instances of `nummod` (86%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.24324324324324.
+65 instances of `nummod` (87%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.24.
 
-The following 4 pairs of parts of speech are connected with `nummod`: <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt> (70; 95% instances), <tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt> (2; 3% instances), <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="orv_birchbark-pos-X.html">X</a></tt>-<tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt> (1; 1% instances).
+The following 4 pairs of parts of speech are connected with `nummod`: <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt> (71; 95% instances), <tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt> (2; 3% instances), <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="orv_birchbark-pos-X.html">X</a></tt>-<tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

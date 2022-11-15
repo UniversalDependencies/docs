@@ -30,7 +30,7 @@ The 10 most frequent ambiguous types:  <em>ein</em> (<tt><a href="fo_oft-pos-DET
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 3.500000 (the average of all parts of speech is 1.290924).
+The form / lemma ratio of `DET` is 3.500000 (the average of all parts of speech is 1.292021).
 
 The 1st highest number of forms (7) was observed with the lemma “allur”: <em>Allar, allan, allari, allir, allur, alt, øll</em>.
 
@@ -49,7 +49,7 @@ Examples: <em>ein</em>
 
 ## Relations
 
-`DET` nodes are attached to their parents using 3 different relations: <tt><a href="fo_oft-dep-det.html">det</a></tt> (183; 98% instances), <tt><a href="fo_oft-dep-nummod.html">nummod</a></tt> (2; 1% instances), <tt><a href="fo_oft-dep-advmod.html">advmod</a></tt> (1; 1% instances)
+`DET` nodes are attached to their parents using 2 different relations: <tt><a href="fo_oft-dep-det.html">det</a></tt> (185; 99% instances), <tt><a href="fo_oft-dep-advmod.html">advmod</a></tt> (1; 1% instances)
 
 Parents of `DET` nodes belong to 3 different parts of speech: <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt> (184; 99% instances), <tt><a href="fo_oft-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt> (1; 1% instances)
 

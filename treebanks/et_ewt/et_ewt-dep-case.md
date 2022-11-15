@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1218 nodes (2%) are attached to their parents as `case`.
+1432 nodes (2%) are attached to their parents as `case`.
 
-979 instances of `case` (80%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.20361247947455.
+1151 instances of `case` (80%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.19553072625698.
 
-The following 9 pairs of parts of speech are connected with `case`: <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-ADP.html">ADP</a></tt> (860; 71% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-ADP.html">ADP</a></tt> (224; 18% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-ADP.html">ADP</a></tt> (71; 6% instances), <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_ewt-pos-ADP.html">ADP</a></tt> (33; 3% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-ADP.html">ADP</a></tt> (18; 1% instances), <tt><a href="et_ewt-pos-SYM.html">SYM</a></tt>-<tt><a href="et_ewt-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-DET.html">DET</a></tt>-<tt><a href="et_ewt-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `case`: <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-ADP.html">ADP</a></tt> (1049; 73% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-ADP.html">ADP</a></tt> (240; 17% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-ADP.html">ADP</a></tt> (77; 5% instances), <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_ewt-pos-ADP.html">ADP</a></tt> (35; 2% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-ADP.html">ADP</a></tt> (19; 1% instances), <tt><a href="et_ewt-pos-SYM.html">SYM</a></tt>-<tt><a href="et_ewt-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-DET.html">DET</a></tt>-<tt><a href="et_ewt-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -61,9 +61,9 @@ The following 9 pairs of parts of speech are connected with `case`: <tt><a href=
 3	oleks	olema	VERB	V	Mood=Cnd|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 4	abi	abi	NOUN	S	Case=Par|Number=Sing	3	nsubj	3:nsubj	_
 5	vaja	vaja	ADV	D	_	3	compound:prt	3:compound	_
-6	"	"	PUNCT	Z	_	7	punct	7:punct	SpaceAfter=No
-7	Kalevipoja	Kalevi_poeg	PROPN	S	Case=Gen|Number=Sing	3	obl	3:obl	SpaceAfter=No
-8	"	"	PUNCT	Z	_	7	punct	7:punct	_
+6	"	"	PUNCT	Z	_	7	punct	7:punct	NE=B-Prod|SpaceAfter=No
+7	Kalevipoja	Kalevi_poeg	PROPN	S	Case=Gen|Number=Sing	3	obl	3:obl	NE=I-Prod|SpaceAfter=No
+8	"	"	PUNCT	Z	_	7	punct	7:punct	NE=I-Prod
 9	kohta	kohta	ADP	K	AdpType=Post	7	case	7:case	SpaceAfter=No
 10	.	.	PUNCT	Z	_	3	punct	3:punct	_
 

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Francis Tyers.
 
 Repository: [UD_Breton-KEB](https://github.com/UniversalDependencies/UD_Breton-KEB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbr_keb210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbr_keb211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-SA 4.0
 
@@ -92,7 +92,7 @@ year = 2018
 
 
 <ul>
-<li>This corpus contains 888 sentences, 9760 tokens and 10054 syntactic words.</li>
+<li>This corpus contains 888 sentences, 9776 tokens and 10057 syntactic words.</li>
 </ul>
 
 <ul>
@@ -100,7 +100,7 @@ year = 2018
 </ul>
 
 <ul>
-<li>This corpus contains 35 types of words with spaces. Examples: en deus, he deus, o deus, am eus, em eus, ez eus, o doa, en doa, hon eus, Bro Leon, hoc'h eus, ar pezh, en o zouez, he devoa, 100 000, 15 %, 16 345, 20 %, 40 %, 50 %, 60 %, Er maez, Ho pet, ar re all, banelloù hent, em boa, he do, ho peus, ho pez, ho po, ho poa, hoc’h eus, kentelioù noz, o do, r Poulgwenn</li>
+<li>This corpus contains 33 types of words with spaces. Examples: en deus, he deus, o deus, am eus, em eus, ez eus, o doa, en doa, hon eus, Bro Leon, hoc'h eus, ar pezh, he devoa, 100 000, 15 %, 16 345, 20 %, 40 %, 50 %, 60 %, Er maez, Ho pet, ar re all, banelloù hent, em boa, he do, ho peus, ho pez, ho po, ho poa, hoc’h eus, kentelioù noz, o do</li>
 </ul>
 
 <ul>
@@ -108,8 +108,8 @@ year = 2018
 </ul>
 
 <ul>
-<li>This corpus contains 294 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 69 types of multi-word tokens. Examples: er, d'ar, en, d'an, deoc'h, din, dezho, dezhañ, d’ar, ganin, gantañ, ganti, ganto, enni, ganeoc'h, d'al, d'am, deomp, dezhi, d'he, da, dimp, dioutañ, dit, d’an, emezi, evidoc'h, gant, n'eus, nemeti, warno, 'yelo, El, Hañval-bras, Mat-tre, P'edon, Sirius-tre, Skuizh-bras, a, abred-tre, anezhañ, anezhe, anezhi, bresk-tre, brudet-tre, d'ho, d'o, dedennus-tre, dezhe, diganin.</li>
+<li>This corpus contains 281 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 66 types of multi-word tokens. Examples: er, d'ar, en, d'an, deoc'h, din, dezho, dezhañ, d’ar, ganin, gantañ, ganti, ganto, enni, ganeoc'h, d'al, d'am, deomp, dezhi, d'he, dimp, dioutañ, dit, d’an, emezi, evidoc'h, n'eus, nemeti, warno, 'yelo, El, Hañval-bras, Mat-tre, P'edon, Sirius-tre, Skuizh-bras, abred-tre, anezhañ, anezhe, anezhi, bresk-tre, brudet-tre, d'ho, d'o, dedennus-tre, dezhe, diganin, diganti, diorroet-mat, diwarnañ.</li>
 </ul>
 
 <h2>Morphology</h2>

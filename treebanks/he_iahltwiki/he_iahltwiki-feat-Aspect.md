@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="he_iahltwiki-pos-VE
 
 47 <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="he_iahltwiki-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (46; 98%), <tt><a href="he_iahltwiki-feat-Person.html">Person</a></tt><tt>=3</tt> (43; 91%), <tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt><tt>=Sing</tt> (37; 79%), <tt><a href="he_iahltwiki-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (28; 60%), <tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (27; 57%), <tt><a href="he_iahltwiki-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (24; 51%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="he_iahltwiki-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (46; 98%), <tt><a href="he_iahltwiki-feat-Person.html">Person</a></tt><tt>=3</tt> (43; 91%), <tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt><tt>=Sing</tt> (37; 79%), <tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (27; 57%), <tt><a href="he_iahltwiki-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (25; 53%), <tt><a href="he_iahltwiki-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (24; 51%).
 
 `VERB` tokens may have the following values of `Aspect`:
 

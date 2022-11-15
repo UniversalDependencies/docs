@@ -64,7 +64,7 @@ The 10 most frequent ambiguous types:  <em>der</em> (<tt><a href="de_gsd-pos-DET
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.882353 (the average of all parts of speech is 1.187208).
+The form / lemma ratio of `DET` is 1.882353 (the average of all parts of speech is 1.187276).
 
 The 1st highest number of forms (10) was observed with the lemma “der”: <em>'s, das, dem, den, der, deren, derer, des, dessen, die</em>.
 

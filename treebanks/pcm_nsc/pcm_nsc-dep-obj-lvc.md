@@ -11,7 +11,7 @@ This relation is a language-specific subtype of <tt><a href="pcm_nsc-dep-obj.htm
 53 nodes (0%) are attached to their parents as `obj:lvc`.
 
 53 instances of `obj:lvc` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.30188679245283.
+Average distance between parent and child is 1.35849056603774.
 
 The following 4 pairs of parts of speech are connected with `obj:lvc`: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (45; 85% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (4; 8% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (3; 6% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
 
@@ -23,16 +23,16 @@ The following 4 pairs of parts of speech are connected with `obj:lvc`: <tt><a hr
 # visual-style 7	fgColor:white
 # visual-style 7 8 obj:lvc	color:blue
 1	#	#	X	_	_	3	dep	_	AlignBegin=64011|AlignEnd=64514|Gloss=PUNCT
-2	dey	dey	AUX	_	Aspect=Imp	3	aux	_	AlignBegin=64514|AlignEnd=64584|Gloss=IPFV|SyllableCount=1|WordContour=lm
-3	use	use	VERB	_	_	0	root	_	AlignBegin=64584|AlignEnd=64774|Gloss=use|SyllableCount=1|WordContour=mmh2
-4	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	3	obj	_	AlignBegin=64774|AlignEnd=64944|Gloss=ACC.SG.3|SyllableCount=1|WordContour=mm
-5	//=	//=	X	_	_	7	dep	_	AlignBegin=64944|AlignEnd=64974|Gloss=PUNCT
-6	dey	dey	AUX	_	Aspect=Imp	7	aux	_	AlignBegin=64974|AlignEnd=65064|Gloss=IPFV|SyllableCount=1|WordContour=mm
-7	take	take	VERB	_	_	3	parataxis:conj	_	AlignBegin=65064|AlignEnd=65264|Gloss=take|SyllableCount=1|WordContour=hm
-8	care	care	NOUN	_	_	7	obj:lvc	_	AlignBegin=65264|AlignEnd=65464|Gloss=care|SyllableCount=1|WordContour=hm
-9	of	of	ADP	_	_	10	case	_	AlignBegin=65464|AlignEnd=65644|Gloss=of|SyllableCount=1|WordContour=ml
-10	ourself	oursef	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs|Reflex=Yes	7	obl:arg	_	AlignBegin=65644|AlignEnd=66002|Gloss=ACC.PL.1.REFL|SyllableCount=3|WordContour=llm3
-11	//	//	X	_	_	3	dep	_	AlignBegin=66002|AlignEnd=66032|Gloss=PUNCT
+2	dey	dey	AUX	_	Aspect=Imp	3	aux	_	AlignBegin=64514|AlignEnd=64584|Gloss=IPFV|LeftOverlap=False|RightOverlap=False|Syl1=ll|SyllableCount=1|WordContour=lm
+3	use	use	VERB	_	_	0	root	_	AlignBegin=64584|AlignEnd=64774|Gloss=use|LeftOverlap=False|RightOverlap=True|Syl1=mm|Syl2=hm|SyllableCount=1|WordContour=mmh2
+4	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	3	obj	_	AlignBegin=64774|AlignEnd=64974|Gloss=ACC.SG.3|LeftOverlap=True|RightOverlap=False|Syl1=hm|SyllableCount=1|WordContour=mm
+5	//=	//=	X	_	_	7	dep	_	AlignBegin=64974|AlignEnd=64974|Gloss=PUNCT
+6	dey	dey	AUX	_	Aspect=Imp	7	aux	_	AlignBegin=64974|AlignEnd=65064|Gloss=IPFV|LeftOverlap=False|RightOverlap=False|Syl1=mm|SyllableCount=1|WordContour=mm
+7	take	take	VERB	_	_	3	parataxis:conj	_	AlignBegin=65064|AlignEnd=65264|Gloss=take|LeftOverlap=False|RightOverlap=False|Syl1=hh|SyllableCount=1|WordContour=hm
+8	care	care	NOUN	_	_	7	obj:lvc	_	AlignBegin=65264|AlignEnd=65464|Gloss=care|LeftOverlap=False|RightOverlap=True|Syl1=hh|Syl2=mm|SyllableCount=1|WordContour=hm
+9	of	of	ADP	_	_	10	case	_	AlignBegin=65464|AlignEnd=65644|Gloss=of|LeftOverlap=True|RightOverlap=True|Syl1=mm|Syl2=ll|SyllableCount=1|WordContour=ml
+10	ourself	oursef	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs|Reflex=Yes	7	obl:arg	_	AlignBegin=65644|AlignEnd=66032|Gloss=ACC.PL.1.REFL|LeftOverlap=True|RightOverlap=False|Syl1=ll|Syl2=mm|SyllableCount=3|WordContour=llm3
+11	//	//	X	_	_	3	dep	_	AlignBegin=66032|AlignEnd=66032|Gloss=PUNCT
 
 ~~~
 
@@ -46,9 +46,9 @@ The following 4 pairs of parts of speech are connected with `obj:lvc`: <tt><a hr
 1	#	#	X	_	_	9	dep	_	AlignBegin=57536|AlignEnd=58100|Gloss=PUNCT
 2	and	and	CCONJ	_	_	9	discourse	_	AlignBegin=58100|AlignEnd=58315|Gloss=and|SyllableCount=1|WordContour=mm
 3	{	{	X	_	_	4	dep	_	AlignBegin=58315|AlignEnd=58345|Gloss=PUNCT
-4	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	AlignBegin=58345|AlignEnd=58534|Gloss=NOM.SG.1|SyllableCount=1|WordContour=mm
+4	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	reparandum	_	AlignBegin=58345|AlignEnd=58534|Gloss=NOM.SG.1|SyllableCount=1|WordContour=mm
 5	||	||	X	_	_	6	dep	_	AlignBegin=58534|AlignEnd=58564|Gloss=PUNCT
-6	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	reparandum	_	AlignBegin=58564|AlignEnd=58735|Gloss=NOM.SG.1|SyllableCount=1|WordContour=hm
+6	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	AlignBegin=58564|AlignEnd=58735|Gloss=NOM.SG.1|SyllableCount=1|WordContour=hm
 7	}	}	X	_	_	4	dep	_	AlignBegin=58735|AlignEnd=58765|Gloss=PUNCT
 8	don't	no	AUX	_	Polarity=Neg	9	aux	_	AlignBegin=58765|AlignEnd=58930|Gloss=NEG|Scrap=Yes|SyllableCount=1|WordContour=Hm
 9	do	do	VERB	_	_	0	root	_	AlignBegin=58930|AlignEnd=59047|Gloss=do|SyllableCount=1|WordContour=ml
@@ -76,7 +76,7 @@ The following 4 pairs of parts of speech are connected with `obj:lvc`: <tt><a hr
 6	no	no	AUX	_	Polarity=Neg	7	aux	_	AlignBegin=63457|AlignEnd=63808|Gloss=NEG|SyllableCount=1
 7	ready	ready	ADJ	_	_	0	root	_	AlignBegin=63808|AlignEnd=64159|ExtPos=VERB|Gloss=ready|SyllableCount=2
 8	to	to	ADP	_	_	9	mark	_	AlignBegin=64159|AlignEnd=64510|Gloss=to|SyllableCount=1
-9	do	do	VERB	_	_	7	xcomp	_	AlignBegin=64510|AlignEnd=64862|Gloss=do|SyllableCount=1
+9	do	do	VERB	_	_	7	ccomp	_	AlignBegin=64510|AlignEnd=64862|Gloss=do|SyllableCount=1
 10	falla	follow	VERB	_	_	9	obj:lvc	_	AlignBegin=64862|AlignEnd=65213|Gloss=follow|SyllableCount=2
 11	follow	follow	VERB	_	_	10	compound:svc	_	AlignBegin=65213|AlignEnd=65564|Gloss=follow|SyllableCount=2
 12	//	//	X	_	_	7	dep	_	AlignBegin=65564|AlignEnd=65564|Gloss=PUNCT

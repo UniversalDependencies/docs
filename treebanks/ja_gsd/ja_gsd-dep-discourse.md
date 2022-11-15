@@ -23,7 +23,7 @@ The following 5 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 15	fgColor:white
 # visual-style 15 12 discourse	color:blue
 1	荒	荒い	ADJ	形容詞-一般-形容詞	_	2	amod	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UnidicInfo=,荒い,荒,荒い,アラ,,,アライ,アラミコシ,荒御輿
-2	神輿	御輿	NOUN	名詞-普通名詞-一般	_	17	nsubj	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UnidicInfo=,御輿,神輿,神輿,ミコシ,,,ミコシ,アラミコシ,荒御輿
+2	神輿	御輿	NOUN	名詞-普通名詞-一般	_	17	nsubj:outer	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UnidicInfo=,御輿,神輿,神輿,ミコシ,,,ミコシ,アラミコシ,荒御輿
 3	は	は	ADP	助詞-係助詞	_	2	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-係助詞|SpaceAfter=No|UnidicInfo=,は,は,は,ワ,,,ハ,ハ,は
 4	「	「	PUNCT	補助記号-括弧開	_	5	punct	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-括弧開|SpaceAfter=No|UnidicInfo=,「,「,「,,,,,,「
 5	チョーサンヤ	_	INTJ	感動詞-一般	_	12	discourse	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=感動詞-一般|SpaceAfter=No|UnidicInfo=,,チョーサンヤ,,,,,,,

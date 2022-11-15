@@ -48,3 +48,4 @@ The event is viewed as a whole. It is available for past and future tenses.
 * _ψήθηκα_  "I was baked"
 * _θα ψηθώ_ "I will be baked"
 * _έχω ψηθεί_ "I have been baked"
+<!-- Interlanguage links updated Po lis 14 15:34:40 CET 2022 -->

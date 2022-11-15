@@ -11,16 +11,16 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="ug_udt-feat-Person.html">Person</a></tt>, <tt><a href="ug_udt-feat-Person-psor.html">Person[psor]</a></tt>.
 
-2697 tokens (7%) have a non-empty value of `Person[psor]`.
-1393 types (12%) occur at least once with a non-empty value of `Person[psor]`.
-769 lemmas (27%) occur at least once with a non-empty value of `Person[psor]`.
-The feature is used with 7 part-of-speech tags: <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (2311; 6% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (138; 0% instances), <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> (110; 0% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> (79; 0% instances), <tt><a href="ug_udt-pos-NUM.html">NUM</a></tt> (53; 0% instances), <tt><a href="ug_udt-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="ug_udt-pos-PROPN.html">PROPN</a></tt> (2; 0% instances).
+2699 tokens (7%) have a non-empty value of `Person[psor]`.
+1395 types (12%) occur at least once with a non-empty value of `Person[psor]`.
+769 lemmas (26%) occur at least once with a non-empty value of `Person[psor]`.
+The feature is used with 7 part-of-speech tags: <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (2279; 6% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (131; 0% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> (113; 0% instances), <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> (110; 0% instances), <tt><a href="ug_udt-pos-NUM.html">NUM</a></tt> (53; 0% instances), <tt><a href="ug_udt-pos-AUX.html">AUX</a></tt> (11; 0% instances), <tt><a href="ug_udt-pos-PROPN.html">PROPN</a></tt> (2; 0% instances).
 
 ### `NOUN`
 
-2311 <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> tokens (16% of all `NOUN` tokens) have a non-empty value of `Person[psor]`.
+2279 <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> tokens (17% of all `NOUN` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `NOUN` and `Person[psor]` co-occurred: <tt><a href="ug_udt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur,Sing</tt> (2064; 89%), <tt><a href="ug_udt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1189; 51%).
+The most frequent other feature values with which `NOUN` and `Person[psor]` co-occurred: <tt><a href="ug_udt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur,Sing</tt> (2031; 89%), <tt><a href="ug_udt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1156; 51%).
 
 `NOUN` tokens may have the following values of `Person[psor]`:
 
@@ -42,13 +42,13 @@ The most frequent other feature values with which `NOUN` and `Person[psor]` co-o
   <tr><td><tt><tt><a href="ug_udt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ug_udt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="ug_udt-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt></tt></td><td></td><td>ئاناڭلار</td><td></td></tr>
 </table>
 
-`Person[psor]` seems to be **lexical feature** of `NOUN`. 94% lemmas (617) occur only with one value of `Person[psor]`.
+`Person[psor]` seems to be **lexical feature** of `NOUN`. 93% lemmas (612) occur only with one value of `Person[psor]`.
 
 ### `VERB`
 
-138 <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> tokens (2% of all `VERB` tokens) have a non-empty value of `Person[psor]`.
+131 <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> tokens (2% of all `VERB` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `VERB` and `Person[psor]` co-occurred: <tt><a href="ug_udt-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (138; 100%), <tt><a href="ug_udt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (138; 100%), <tt><a href="ug_udt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (138; 100%), <tt><a href="ug_udt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (138; 100%), <tt><a href="ug_udt-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt> (138; 100%), <tt><a href="ug_udt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (107; 78%), <tt><a href="ug_udt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (78; 57%).
+The most frequent other feature values with which `VERB` and `Person[psor]` co-occurred: <tt><a href="ug_udt-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (131; 100%), <tt><a href="ug_udt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (131; 100%), <tt><a href="ug_udt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (131; 100%), <tt><a href="ug_udt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (131; 100%), <tt><a href="ug_udt-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt> (131; 100%), <tt><a href="ug_udt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (101; 77%), <tt><a href="ug_udt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (73; 56%).
 
 `VERB` tokens may have the following values of `Person[psor]`:
 
@@ -64,6 +64,17 @@ The most frequent other feature values with which `VERB` and `Person[psor]` co-o
 </table>
 
 `Person[psor]` seems to be **lexical feature** of `VERB`. 96% lemmas (64) occur only with one value of `Person[psor]`.
+
+### `ADJ`
+
+113 <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> tokens (4% of all `ADJ` tokens) have a non-empty value of `Person[psor]`.
+
+The most frequent other feature values with which `ADJ` and `Person[psor]` co-occurred: <tt><a href="ug_udt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (82; 73%).
+
+`ADJ` tokens may have the following values of `Person[psor]`:
+
+
+`Person[psor]` seems to be **lexical feature** of `ADJ`. 100% lemmas (47) occur only with one value of `Person[psor]`.
 
 ### `PRON`
 
@@ -91,17 +102,6 @@ The most frequent other feature values with which `PRON` and `Person[psor]` co-o
   <tr><td><tt><tt><a href="ug_udt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ug_udt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur,Sing</tt>|<tt><a href="ug_udt-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td></td><td>ئۆزى, ئۆزىمۇ</td></tr>
 </table>
 
-### `ADJ`
-
-79 <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> tokens (3% of all `ADJ` tokens) have a non-empty value of `Person[psor]`.
-
-The most frequent other feature values with which `ADJ` and `Person[psor]` co-occurred: <tt><a href="ug_udt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (48; 61%).
-
-`ADJ` tokens may have the following values of `Person[psor]`:
-
-
-`Person[psor]` seems to be **lexical feature** of `ADJ`. 100% lemmas (43) occur only with one value of `Person[psor]`.
-
 ### `NUM`
 
 53 <tt><a href="ug_udt-pos-NUM.html">NUM</a></tt> tokens (5% of all `NUM` tokens) have a non-empty value of `Person[psor]`.
@@ -123,16 +123,16 @@ The most frequent other feature values with which `NUM` and `Person[psor]` co-oc
 
 ### `AUX`
 
-4 <tt><a href="ug_udt-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Person[psor]`.
+11 <tt><a href="ug_udt-pos-AUX.html">AUX</a></tt> tokens (1% of all `AUX` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `AUX` and `Person[psor]` co-occurred: <tt><a href="ug_udt-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="ug_udt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="ug_udt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="ug_udt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="ug_udt-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt> (4; 100%).
+The most frequent other feature values with which `AUX` and `Person[psor]` co-occurred: <tt><a href="ug_udt-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="ug_udt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="ug_udt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="ug_udt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="ug_udt-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt> (11; 100%), <tt><a href="ug_udt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (8; 73%).
 
 `AUX` tokens may have the following values of `Person[psor]`:
 
 
 ### `PROPN`
 
-2 <tt><a href="ug_udt-pos-PROPN.html">PROPN</a></tt> tokens (3% of all `PROPN` tokens) have a non-empty value of `Person[psor]`.
+2 <tt><a href="ug_udt-pos-PROPN.html">PROPN</a></tt> tokens (2% of all `PROPN` tokens) have a non-empty value of `Person[psor]`.
 
 The most frequent other feature values with which `PROPN` and `Person[psor]` co-occurred: <tt><a href="ug_udt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (2; 100%), <tt><a href="ug_udt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2; 100%).
 
@@ -142,8 +142,7 @@ The most frequent other feature values with which `PROPN` and `Person[psor]` co-
 ## Relations with Agreement in `Person[psor]`
 
 The 10 most frequent relations where parent and child node agree in `Person[psor]`:
+<tt>NUM --[<tt><a href="ug_udt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (3; 60%),
 <tt>VERB --[<tt><a href="ug_udt-dep-conj.html">conj</a></tt>]--> VERB</tt> (3; 100%),
-<tt>ADJ --[<tt><a href="ug_udt-dep-cc.html">cc</a></tt>]--> NOUN</tt> (1; 100%),
-<tt>NOUN --[<tt><a href="ug_udt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (1; 100%),
-<tt>NUM --[<tt><a href="ug_udt-dep-advmod.html">advmod</a></tt>]--> NOUN</tt> (1; 100%).
+<tt>NOUN --[<tt><a href="ug_udt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (2; 100%).
 

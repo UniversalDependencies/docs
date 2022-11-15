@@ -23,13 +23,13 @@ The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 1	fgColor:white
 # visual-style 1 2 iobj	color:blue
 1	show	show	VERB	_	VerbForm=Inf	0	root	_	_
-2	me	I	PRON	_	PronType=Prs	1	iobj	_	_
+2	me	I	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	iobj	_	_
 3	all	all	DET	_	PronType=Art	5	det	_	_
 4	ground	ground	NOUN	_	Number=Sing	5	compound	_	_
 5	transportation	transportation	NOUN	_	Number=Sing	1	obj	_	_
 6	in	in	ADP	_	_	7	case	_	_
-7	washington	washington	PROPN	_	Number=Sing	5	nmod	_	_
-8	dc	dc	PROPN	_	Number=Sing	7	flat	_	_
+7	washington	Washington	PROPN	_	Number=Sing	5	nmod	_	_
+8	dc	DC	PROPN	_	Number=Sing	7	flat	_	_
 
 ~~~
 
@@ -41,19 +41,19 @@ The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 5	fgColor:white
 # visual-style 5 6 iobj	color:blue
 1	on	on	ADP	_	_	2	case	_	_
-2	august	august	PROPN	_	Number=Sing	5	obl:tmod	_	_
+2	august	August	NOUN	_	Number=Sing	5	obl:tmod	_	_
 3	thirtieth	thirty	ADJ	_	Degree=Pos	2	amod	_	_
 4	please	please	VERB	_	VerbForm=Inf	5	discourse	_	_
 5	schedule	schedule	NOUN	_	Number=Sing	0	root	_	_
-6	me	I	PRON	_	PronType=Prs	5	iobj	_	_
+6	me	I	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	iobj	_	_
 7	on	on	ADP	_	_	9	case	_	_
 8	a	a	DET	_	PronType=Art	9	det	_	_
 9	flight	flight	NOUN	_	Number=Sing	5	obj	_	_
 10	from	from	ADP	_	_	11	case	_	_
-11	denver	denver	PROPN	_	Number=Sing	9	nmod	_	_
+11	denver	Denver	PROPN	_	Number=Sing	9	nmod	_	_
 12	to	to	ADP	_	_	13	case	_	_
-13	san	san	PROPN	_	Number=Sing	9	nmod	_	_
-14	francisco	francisco	PROPN	_	Number=Sing	13	flat	_	_
+13	san	San	PROPN	_	Number=Sing	9	nmod	_	_
+14	francisco	Francisco	PROPN	_	Number=Sing	13	flat	_	_
 15	early	early	ADJ	_	Degree=Pos	18	amod	_	_
 16	in	in	ADP	_	_	18	case	_	_
 17	the	the	DET	_	PronType=Art	18	det	_	_

@@ -12,9 +12,9 @@ There are 1 language-specific subtypes of `acl`: <tt><a href="fo_oft-dep-acl-rel
 34 nodes (0%) are attached to their parents as `acl`.
 
 31 instances of `acl` (91%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.29411764705882.
+Average distance between parent and child is 3.17647058823529.
 
-The following 7 pairs of parts of speech are connected with `acl`: <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_oft-pos-VERB.html">VERB</a></tt> (26; 76% instances), <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt> (3; 9% instances), <tt><a href="fo_oft-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fo_oft-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_oft-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="fo_oft-pos-NUM.html">NUM</a></tt>-<tt><a href="fo_oft-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="fo_oft-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="fo_oft-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fo_oft-pos-VERB.html">VERB</a></tt> (1; 3% instances).
+The following 7 pairs of parts of speech are connected with `acl`: <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_oft-pos-VERB.html">VERB</a></tt> (27; 79% instances), <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt> (2; 6% instances), <tt><a href="fo_oft-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fo_oft-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_oft-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="fo_oft-pos-NUM.html">NUM</a></tt>-<tt><a href="fo_oft-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="fo_oft-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="fo_oft-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fo_oft-pos-VERB.html">VERB</a></tt> (1; 3% instances).
 
 
 ~~~ conllu

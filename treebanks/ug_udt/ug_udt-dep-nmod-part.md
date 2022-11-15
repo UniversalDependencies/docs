@@ -28,9 +28,9 @@ The following 3 pairs of parts of speech are connected with `nmod:part`: <tt><a 
 3	ھاشارەتلەرنىڭ	ھاشارەت	NOUN	N	Case=Gen|Number=Plur	4	nmod:part	_	Translit=hasharetlerning
 4	ھەممىسى	_	PRON	P	_	7	nsubj	_	Translit=hemmisi|Morf=Unknown
 5	دېگۈدەك	دېگۈدەك	NOUN	V	Case=Nom	7	obl	_	Translit=dëgüdek
-6	توڭلاپ	_	VERB	V	_	7	advmod	_	Translit=tonglap|Morf=Unknown
+6	توڭلاپ	_	VERB	V	_	7	advcl	_	Translit=tonglap|Morf=Unknown
 7	ئۆلۈپ	ئۆل	VERB	V	Aspect=Perf|VerbForm=Inf	0	root	_	Translit=ölüp
-8	كەتتى	كەت	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	SpaceAfter=No|Translit=ketti
+8	كەتتى	كەت	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	SpaceAfter=No|Translit=ketti
 9	.	.	PUNCT	Y	_	8	punct	_	Translit=.
 
 ~~~
@@ -55,7 +55,7 @@ The following 3 pairs of parts of speech are connected with `nmod:part`: <tt><a 
 11	تەڭشىگۈچ	تەڭشىگۈچ	NOUN	N	Case=Nom	12	nsubj	_	Translit=tengshigüch
 12	ئورنىتىلغان	_	NOUN	N	_	17	amod	_	Translit=ornitilghan|Morf=Unknown
 13	چىرايلىق	چىرايلىق	ADJ	A	_	17	amod	_	SpaceAfter=No|Translit=chirayliq
-14	،	،	PUNCT	Y	_	13	punct	_	Translit=,
+14	،	،	PUNCT	Y	_	15	punct	_	Translit=,
 15	ئازادە	ئازادە	ADJ	A	Case=Nom	13	conj	_	Translit=azade
 16	بىر	بىر	DET	M	Case=Nom|NumType=Ord	17	det	_	Translit=bir
 17	پويىز	پويىز	NOUN	N	Case=Nom	20	nsubj	_	Translit=poyiz
@@ -81,7 +81,7 @@ The following 3 pairs of parts of speech are connected with `nmod:part`: <tt><a 
 6	ئەتىياز	ئەتىياز	NOUN	N	Case=Nom	7	compound	_	Translit=etiyaz
 7	كۈنلىرى	كۈن	NOUN	N	Case=Nom|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3	0	root	_	Translit=künliri
 8	ئىدى	ئى	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	SpaceAfter=No|Translit=idi
-9	.	.	PUNCT	Y	_	8	punct	_	Translit=.
+9	.	.	PUNCT	Y	_	7	punct	_	Translit=.
 
 ~~~
 

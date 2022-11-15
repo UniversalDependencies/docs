@@ -7,36 +7,53 @@ udver: '2'
 ## Treebank Statistics: UD_Yakut-YKTDT: Features: `PronType`
 
 This feature is universal.
-It occurs with 6 different values: `Dem`, `Ind`, `Int`, `Prs`, `Rel`, `Tot`.
+It occurs with 5 different values: `Dem`, `Ind`, `Int`, `Prs`, `Tot`.
 
-40 tokens (8%) have a non-empty value of `PronType`.
-21 types (6%) occur at least once with a non-empty value of `PronType`.
-14 lemmas (5%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="sah_yktdt-pos-PRON.html">PRON</a></tt> (34; 7% instances), <tt><a href="sah_yktdt-pos-DET.html">DET</a></tt> (6; 1% instances).
+159 tokens (11%) have a non-empty value of `PronType`.
+39 types (7%) occur at least once with a non-empty value of `PronType`.
+16 lemmas (4%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 3 part-of-speech tags: <tt><a href="sah_yktdt-pos-PRON.html">PRON</a></tt> (126; 9% instances), <tt><a href="sah_yktdt-pos-DET.html">DET</a></tt> (28; 2% instances), <tt><a href="sah_yktdt-pos-NUM.html">NUM</a></tt> (5; 0% instances).
 
 ### `PRON`
 
-34 <tt><a href="sah_yktdt-pos-PRON.html">PRON</a></tt> tokens (79% of all `PRON` tokens) have a non-empty value of `PronType`.
+126 <tt><a href="sah_yktdt-pos-PRON.html">PRON</a></tt> tokens (99% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="sah_yktdt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (24; 71%), <tt><a href="sah_yktdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (19; 56%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="sah_yktdt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (70; 56%), <tt><a href="sah_yktdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (64; 51%).
 
 `PRON` tokens may have the following values of `PronType`:
 
-* `Int` (5; 15% of non-empty `PronType`): <em>туох, ханна, Ханнык</em>
-* `Prs` (26; 76% of non-empty `PronType`): <em>Кини, мин, биһиги, Кинилэр, Эн, Биһиэхэ, биhиги, киниэхэ, миэхэ</em>
-* `Rel` (1; 3% of non-empty `PronType`): <em>Ол</em>
-* `Tot` (2; 6% of non-empty `PronType`): <em>бары</em>
-* `EMPTY` (9): <em>Ити, мин, Кинилэри, Миэхэ, кини, миигин, эн</em>
+* `Dem` (7; 6% of non-empty `PronType`): <em>ити, Ол</em>
+* `Ind` (5; 4% of non-empty `PronType`): <em>сорох, сорохтор</em>
+* `Int` (31; 25% of non-empty `PronType`): <em>тугу, ханна, ким, ханнык, кимий, тоҕо, Онуоха, туохха</em>
+* `Prs` (79; 63% of non-empty `PronType`): <em>кини, эн, мин, биһиги, Эһиэхэ, кинилэр, миэхэ, Эһиги, Биһиэхэ, Кинилэри</em>
+* `Tot` (4; 3% of non-empty `PronType`): <em>бары, барытын</em>
+* `EMPTY` (1): <em>туох</em>
 
-`PronType` seems to be **lexical feature** of `PRON`. 100% lemmas (12) occur only with one value of `PronType`.
+<table>
+  <tr><th>Paradigm <i>ол</i></th><th><tt>Int</tt></th><th><tt>Dem</tt></th></tr>
+  <tr><td><tt>_</tt></td><td></td><td><em>Ол</em></td></tr>
+  <tr><td><tt><tt><a href="sah_yktdt-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>Онуоха</em></td><td></td></tr>
+</table>
+
+`PronType` seems to be **lexical feature** of `PRON`. 93% lemmas (14) occur only with one value of `PronType`.
 
 ### `DET`
 
-6 <tt><a href="sah_yktdt-pos-DET.html">DET</a></tt> tokens (43% of all `DET` tokens) have a non-empty value of `PronType`.
+28 <tt><a href="sah_yktdt-pos-DET.html">DET</a></tt> tokens (44% of all `DET` tokens) have a non-empty value of `PronType`.
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Dem` (1; 17% of non-empty `PronType`): <em>бу</em>
-* `Ind` (5; 83% of non-empty `PronType`): <em>сорохтор, сорох</em>
-* `EMPTY` (8): <em>Бу, Ити, Онуоха, аайы, барытын</em>
+* `Dem` (28; 100% of non-empty `PronType`): <em>ити, ол</em>
+* `EMPTY` (36): <em>бу, Ити, аайы, маны, ханнык</em>
+
+### `NUM`
+
+5 <tt><a href="sah_yktdt-pos-NUM.html">NUM</a></tt> tokens (11% of all `NUM` tokens) have a non-empty value of `PronType`.
+
+The most frequent other feature values with which `NUM` and `PronType` co-occurred: <tt><a href="sah_yktdt-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (3; 60%).
+
+`NUM` tokens may have the following values of `PronType`:
+
+* `Int` (5; 100% of non-empty `PronType`): <em>хас</em>
+* `EMPTY` (40): <em>биир, икки, үс, уон, алта, биэс, иккини, иккитэ, онус</em>
 

@@ -24,13 +24,13 @@ The following 7 pairs of parts of speech are connected with `reparandum`: <tt><a
 # visual-style 7 6 reparandum	color:blue
 1	list	list	VERB	_	VerbForm=Inf	0	root	_	_
 2	the	the	DET	_	PronType=Art	5	det	_	_
-3	alaska	alaska	PROPN	_	Number=Sing	5	compound	_	_
+3	alaska	Alaska	PROPN	_	Number=Sing	5	compound	_	_
 4	airlines	airline	PROPN	_	Number=Plur	3	flat	_	_
 5	flights	flight	NOUN	_	Number=Plur	1	obj	_	_
 6	a	a	DET	_	PronType=Art	7	reparandum	_	_
 7	departing	depart	VERB	_	Tense=Pres|VerbForm=Part	5	acl:relcl	_	_
 8	from	from	ADP	_	_	9	case	_	_
-9	burbank	burbank	PROPN	_	Number=Sing	7	obl	_	_
+9	burbank	Burbank	PROPN	_	Number=Sing	7	obl	_	_
 
 ~~~
 
@@ -47,7 +47,7 @@ The following 7 pairs of parts of speech are connected with `reparandum`: <tt><a
 4	as	as	ADP	_	_	5	reparandum	_	_
 5	as	as	ADP	_	_	7	case	_	_
 6	in	in	ADP	_	_	7	case	_	_
-7	sam	sam	PROPN	_	Number=Sing	0	root	_	_
+7	sam	Sam	PROPN	_	Number=Sing	0	root	_	_
 
 ~~~
 
@@ -63,10 +63,10 @@ The following 7 pairs of parts of speech are connected with `reparandum`: <tt><a
 3	all	all	DET	_	PronType=Art	4	det	_	_
 4	flights	flight	NOUN	_	Number=Plur	2	obj	_	_
 5	from	from	ADP	_	_	6	case	_	_
-6	new	new	PROPN	_	Number=Sing	4	nmod	_	_
-7	york	york	PROPN	_	Number=Sing	6	flat	_	_
+6	new	New	PROPN	_	Number=Sing	4	nmod	_	_
+7	york	York	PROPN	_	Number=Sing	6	flat	_	_
 8	to	to	ADP	_	_	9	case	_	_
-9	miami	miami	PROPN	_	Number=Sing	4	nmod	_	_
+9	miami	Miami	PROPN	_	Number=Sing	4	nmod	_	_
 10	any	any	DET	_	PronType=Art	11	reparandum	_	_
 11	any	any	DET	_	PronType=Art	12	det	_	_
 12	type	type	NOUN	_	Number=Sing	4	nmod	_	_

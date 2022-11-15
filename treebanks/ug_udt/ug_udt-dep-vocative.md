@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-53 nodes (0%) are attached to their parents as `vocative`.
+54 nodes (0%) are attached to their parents as `vocative`.
 
-41 instances of `vocative` (77%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.64150943396226.
+42 instances of `vocative` (78%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.68518518518519.
 
-The following 7 pairs of parts of speech are connected with `vocative`: <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (36; 68% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (8; 15% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (4; 8% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> (2; 4% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="ug_udt-pos-PART.html">PART</a></tt>-<tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
+The following 8 pairs of parts of speech are connected with `vocative`: <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (36; 67% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (8; 15% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (4; 7% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> (2; 4% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="ug_udt-pos-PART.html">PART</a></tt>-<tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

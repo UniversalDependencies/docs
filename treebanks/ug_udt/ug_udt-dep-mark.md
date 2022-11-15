@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-206 nodes (1%) are attached to their parents as `mark`.
+149 nodes (0%) are attached to their parents as `mark`.
 
-105 instances of `mark` (51%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.94660194174757.
+91 instances of `mark` (61%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.18120805369128.
 
-The following 38 pairs of parts of speech are connected with `mark`: <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-PART.html">PART</a></tt> (66; 32% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-ADV.html">ADV</a></tt> (17; 8% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> (14; 7% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> (13; 6% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-PART.html">PART</a></tt> (13; 6% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (9; 4% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-ADP.html">ADP</a></tt> (8; 4% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-CCONJ.html">CCONJ</a></tt> (8; 4% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (7; 3% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> (5; 2% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> (4; 2% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (4; 2% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-ADP.html">ADP</a></tt> (4; 2% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ug_udt-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ug_udt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ug_udt-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ug_udt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-ADV.html">ADV</a></tt>-<tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-ADV.html">ADV</a></tt>-<tt><a href="ug_udt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-ADV.html">ADV</a></tt>-<tt><a href="ug_udt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-ADV.html">ADV</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-ADV.html">ADV</a></tt>-<tt><a href="ug_udt-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-AUX.html">AUX</a></tt>-<tt><a href="ug_udt-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-DET.html">DET</a></tt>-<tt><a href="ug_udt-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt>-<tt><a href="ug_udt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt>-<tt><a href="ug_udt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt>-<tt><a href="ug_udt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt>-<tt><a href="ug_udt-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 23 pairs of parts of speech are connected with `mark`: <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-PART.html">PART</a></tt> (67; 45% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-ADV.html">ADV</a></tt> (15; 10% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-PART.html">PART</a></tt> (12; 8% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-CCONJ.html">CCONJ</a></tt> (8; 5% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (8; 5% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-ADP.html">ADP</a></tt> (7; 5% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-ADP.html">ADP</a></tt> (5; 3% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (4; 3% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-SCONJ.html">SCONJ</a></tt> (3; 2% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ug_udt-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ug_udt-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ug_udt-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ug_udt-pos-ADV.html">ADV</a></tt>-<tt><a href="ug_udt-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="ug_udt-pos-DET.html">DET</a></tt>-<tt><a href="ug_udt-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt>-<tt><a href="ug_udt-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt>-<tt><a href="ug_udt-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt>-<tt><a href="ug_udt-pos-PART.html">PART</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -25,7 +25,7 @@ The following 38 pairs of parts of speech are connected with `mark`: <tt><a href
 1	ئاندىن	ئان	NOUN	C	Case=Abl	6	obl	_	SpaceAfter=No|Translit=andin
 2	:	:	PUNCT	Y	_	1	punct	_	Translit=:
 3	چۈشۈمكەن	_	VERB	V	_	6	ccomp	_	Translit=chüshümken|Morf=Unknown
-4	-	-	PUNCT	Y	_	3	punct	_	Translit=-
+4	-	-	PUNCT	Y	_	5	punct	_	Translit=-
 5	دە	_	PART	T	_	3	mark	_	Translit=de|Morf=Missing,1
 6	دېدى	دې	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=dëdi
 7	.	.	PUNCT	Y	_	6	punct	_	Translit=.
@@ -55,14 +55,14 @@ The following 38 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 1 mark	color:blue
-1	ئەمىسە	ئەمىسە	ADJ	T	_	7	mark	_	Translit=emise
-2	ئىجادىي	ئىجادىي	ADJ	A	_	3	amod	_	Translit=ijadiy
-3	تەپەككۇردا	تەپەككۇر	NOUN	N	Case=Loc	7	obl	_	Translit=tepekkurda
-4	قانداق	قانداق	ADV	P	PronType=Int	6	amod	_	Translit=qandaq
-5	زۆرۈر	_	ADJ	A	_	6	amod	_	Translit=zörür|Morf=Unknown
-6	ئامىللار	ئامىل	NOUN	N	Case=Nom|Number=Plur	7	nsubj	_	Translit=amillar
-7	بولىدۇ	بول	VERB	V	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=bolidu
-8	؟	؟	PUNCT	Y	_	7	punct	_	Translit=?
+1	مانا	_	PART	T	_	7	mark	_	Translit=mana|Morf=Missing,1
+2	ئەمدى	ئەمدى	NOUN	D	Case=Nom	7	obl	_	Translit=emdi
+3	سەنمۇ	سەنمۇ	NOUN	P	Case=Nom	7	nsubj	_	Translit=senmu
+4	بويۇن	بويۇن	NOUN	N	Case=Nom	5	compound	_	Translit=boyun
+5	قىسىپ	قىس	VERB	V	Aspect=Perf|VerbForm=Conv	7	advcl	_	Translit=qisip
+6	ئالدىمغا	_	VERB	V	_	7	obl	_	Translit=aldimgha|Morf=Unknown
+7	كەپسەن	كەپسەن	NOUN	V	Case=Nom	0	root	_	SpaceAfter=No|Translit=kepsen
+8	.	.	PUNCT	Y	_	7	punct	_	Translit=.
 
 ~~~
 

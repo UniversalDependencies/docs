@@ -37,7 +37,7 @@ The 10 most frequent ambiguous types:  <em>kolon</em> (<tt><a href="bm_crb-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.100000 (the average of all parts of speech is 1.060038).
+The form / lemma ratio of `ADJ` is 1.100000 (the average of all parts of speech is 1.060207).
 
 The 1st highest number of forms (6) was observed with the lemma “_”: <em>bagama, belebelew, caman, duman, jalan, kolon</em>.
 
@@ -56,7 +56,7 @@ Examples: <em>kènè, caman, nyumannin, jalan, camanba, JUGU, duman, kolon, kura
 
 ## Relations
 
-`ADJ` nodes are attached to their parents using 5 different relations: <tt><a href="bm_crb-dep-amod.html">amod</a></tt> (64; 93% instances), <tt><a href="bm_crb-dep-obl.html">obl</a></tt> (2; 3% instances), <tt><a href="bm_crb-dep-case.html">case</a></tt> (1; 1% instances), <tt><a href="bm_crb-dep-nsubj.html">nsubj</a></tt> (1; 1% instances), <tt><a href="bm_crb-dep-obj.html">obj</a></tt> (1; 1% instances)
+`ADJ` nodes are attached to their parents using 4 different relations: <tt><a href="bm_crb-dep-amod.html">amod</a></tt> (65; 94% instances), <tt><a href="bm_crb-dep-obl.html">obl</a></tt> (2; 3% instances), <tt><a href="bm_crb-dep-nsubj.html">nsubj</a></tt> (1; 1% instances), <tt><a href="bm_crb-dep-obj.html">obj</a></tt> (1; 1% instances)
 
 Parents of `ADJ` nodes belong to 2 different parts of speech: <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> (65; 94% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> (4; 6% instances)
 

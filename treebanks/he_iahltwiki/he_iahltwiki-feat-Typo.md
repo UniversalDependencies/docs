@@ -62,7 +62,7 @@ The most frequent other feature values with which `PRON` and `Typo` co-occurred:
 
 6 <tt><a href="he_iahltwiki-pos-AUX.html">AUX</a></tt> tokens (1% of all `AUX` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `AUX` and `Typo` co-occurred: <tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (6; 100%), <tt><a href="he_iahltwiki-feat-Person.html">Person</a></tt><tt>=3</tt> (6; 100%), <tt><a href="he_iahltwiki-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="he_iahltwiki-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (5; 83%), <tt><a href="he_iahltwiki-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (5; 83%), <tt><a href="he_iahltwiki-feat-VerbType.html">VerbType</a></tt><tt>=Cop</tt> (5; 83%), <tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 67%).
+The most frequent other feature values with which `AUX` and `Typo` co-occurred: <tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (6; 100%), <tt><a href="he_iahltwiki-feat-Person.html">Person</a></tt><tt>=3</tt> (6; 100%), <tt><a href="he_iahltwiki-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="he_iahltwiki-feat-HebBinyan.html">HebBinyan</a></tt><tt>=PAAL</tt> (5; 83%), <tt><a href="he_iahltwiki-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (5; 83%), <tt><a href="he_iahltwiki-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (5; 83%), <tt><a href="he_iahltwiki-feat-VerbType.html">VerbType</a></tt><tt>=Cop</tt> (5; 83%), <tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 67%).
 
 `AUX` tokens may have the following values of `Typo`:
 
@@ -72,7 +72,7 @@ The most frequent other feature values with which `AUX` and `Typo` co-occurred: 
 
 3 <tt><a href="he_iahltwiki-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `ADP` and `Typo` co-occurred: <tt><a href="he_iahltwiki-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="he_iahltwiki-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (3; 100%).
+The most frequent other feature values with which `ADP` and `Typo` co-occurred: <tt><a href="he_iahltwiki-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="he_iahltwiki-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="he_iahltwiki-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (3; 100%).
 
 `ADP` tokens may have the following values of `Typo`:
 

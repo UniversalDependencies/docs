@@ -11,7 +11,7 @@ It occurs with 1 different values: `Yes`.
 
 32 tokens (0%) have a non-empty value of `NonFoc`.
 11 types (1%) occur at least once with a non-empty value of `NonFoc`.
-8 lemmas (1%) occur at least once with a non-empty value of `NonFoc`.
+7 lemmas (1%) occur at least once with a non-empty value of `NonFoc`.
 The feature is used with 1 part-of-speech tags: <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (32; 0% instances).
 
 ### `NOUN`

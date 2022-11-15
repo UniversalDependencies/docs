@@ -10,10 +10,10 @@ This relation is universal.
 
 19 nodes (0%) are attached to their parents as `dep`.
 
-13 instances of `dep` (68%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.68421052631579.
+12 instances of `dep` (63%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.15789473684211.
 
-The following 8 pairs of parts of speech are connected with `dep`: <tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_simonero-pos-X.html">X</a></tt> (5; 26% instances), <tt><a href="ro_simonero-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ro_simonero-pos-X.html">X</a></tt> (4; 21% instances), <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_simonero-pos-X.html">X</a></tt> (3; 16% instances), <tt><a href="ro_simonero-pos-X.html">X</a></tt>-<tt><a href="ro_simonero-pos-X.html">X</a></tt> (3; 16% instances), <tt><a href="ro_simonero-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_simonero-pos-X.html">X</a></tt> (1; 5% instances), <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_simonero-pos-ADP.html">ADP</a></tt> (1; 5% instances), <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt> (1; 5% instances), <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_simonero-pos-X.html">X</a></tt> (1; 5% instances).
+The following 9 pairs of parts of speech are connected with `dep`: <tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_simonero-pos-X.html">X</a></tt> (5; 26% instances), <tt><a href="ro_simonero-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ro_simonero-pos-X.html">X</a></tt> (4; 21% instances), <tt><a href="ro_simonero-pos-X.html">X</a></tt>-<tt><a href="ro_simonero-pos-X.html">X</a></tt> (3; 16% instances), <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_simonero-pos-X.html">X</a></tt> (2; 11% instances), <tt><a href="ro_simonero-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_simonero-pos-X.html">X</a></tt> (1; 5% instances), <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_simonero-pos-ADP.html">ADP</a></tt> (1; 5% instances), <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> (1; 5% instances), <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt> (1; 5% instances), <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_simonero-pos-X.html">X</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -84,45 +84,35 @@ The following 8 pairs of parts of speech are connected with `dep`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 27	bgColor:blue
-# visual-style 27	fgColor:white
-# visual-style 26	bgColor:blue
-# visual-style 26	fgColor:white
-# visual-style 26 27 dep	color:blue
-1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	_
-2	mod	mod	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	17	obl	_	_
-3	incontestabil	incontestabil	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	SpaceAfter=No
-4	,	,	PUNCT	COMMA	_	2	punct	_	_
-5	ligatura	ligatură	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	17	nsubj	_	BioNERLabel=B-PROC
-6	și	și	CCONJ	Crssp	Polarity=Pos	7	cc	_	_
-7	stripping-ul	stripping	NOUN	Ncmsry	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	5	conj	_	BioNERLabel=B-PROC
-8	venei	venă	NOUN	Ncfsoy	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	7	nmod	_	BioNERLabel=B-ANAT
-9	safene	safenă	NOUN	Ncfson	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	8	amod	_	BioNERLabel=I-ANAT
-10	interne	intern	ADJ	Afpfson	Case=Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	BioNERLabel=I-ANAT|SpaceAfter=No
-11	,	,	PUNCT	COMMA	_	14	punct	_	_
-12	împreună	împreună	ADV	Rgp	Degree=Pos	14	case	_	_
-13	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	12	fixed	_	_
-14	flebectomiile	flebectomie	NOUN	Ncfpry	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	16	obl	_	BioNERLabel=B-DISO
-15	individuale	individual	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	14	amod	_	_
-16	oferă	oferi	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-17	o	un	DET	Tifsr	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	18	det	_	_
-18	îmbunătățire	îmbunătățire	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	16	obj	_	_
-19	semnificativă	semnificativ	ADJ	Afpfsrn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	_
-20	a	al	DET	Tsfs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	21	det	_	_
-21	calității	calitate	NOUN	Ncfsoy	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	18	nmod	_	_
-22	vieții	viață	NOUN	Ncfsoy	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	21	nmod	_	SpaceAfter=No
-23	,	,	PUNCT	COMMA	_	26	punct	_	_
-24	comparativ	comparativ	ADV	Rgp	Degree=Pos	26	case	_	_
-25	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	24	fixed	_	_
-26	tratamentul	tratament	NOUN	Ncmsry	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	16	obl	_	_
-27	non	non	X	X	_	26	dep	_	BioNERLabel=amod
-28	chirurgical	chirurgical	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	27	goeswith	_	_
-29	(	(	PUNCT	LPAR	_	30	punct	_	SpaceAfter=No
-30	115	115	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	16	parataxis	_	SpaceAfter=No
-31	,	,	PUNCT	COMMA	_	32	punct	_	SpaceAfter=No
-32	116	116	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	30	conj	_	SpaceAfter=No
-33	)	)	PUNCT	RPAR	_	30	punct	_	SpaceAfter=No
-34	.	.	PUNCT	PERIOD	_	16	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 4 dep	color:blue
+1	Exercise	Exercise	X	X	_	0	root	_	_
+2	Versus	Versus	X	X	_	1	dep	_	_
+3	Endoluminal	Endoluminal	X	X	_	1	dep	_	_
+4	Revascularization	Revascularization	X	X	_	1	dep	_	SpaceAfter=No
+5	)	)	PUNCT	RPAR	_	1	punct	_	SpaceAfter=No
+6	,	,	PUNCT	COMMA	_	8	punct	_	_
+7	care	care	PRON	Pw3--r	Case=Nom|Person=3|PronType=Int,Rel	8	nsubj	_	_
+8	compară	compara	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl	_	_
+9	terapia	terapie	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	8	obj	_	_
+10	medicală	medical	ADJ	Afpfsrn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+11	optimă	optim	ADJ	Afpfsrn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+12	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	13	case	_	_
+13	exercițiul	exercițiu	NOUN	Ncmsry	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	8	obl:pmod	_	_
+14	fizic	fizic	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	_
+15	și	și	CCONJ	Crssp	Polarity=Pos	17	cc	_	_
+16	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	17	case	_	_
+17	terapia	terapie	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	13	conj	_	BioNERLabel=B-PROC
+18	endovasculară	endovascular	ADJ	Afpfsrn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	BioNERLabel=I-PROC
+19	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	20	case	_	_
+20	pacienți	pacient	NOUN	Ncmp-n	Definite=Ind|Gender=Masc|Number=Plur	17	nmod	_	_
+21	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	22	case	_	_
+22	boală	boală	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	20	nmod	_	BioNERLabel=B-DISO
+23	aorto-iliacă	aorto-iliac	ADJ	Afpfsrn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	BioNERLabel=I-DISO|SpaceAfter=No
+24	.	.	PUNCT	PERIOD	_	1	punct	_	_
 
 ~~~
 

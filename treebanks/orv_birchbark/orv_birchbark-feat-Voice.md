@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal but the values `Mid` are language-specific.
 It occurs with 3 different values: `Act`, `Mid`, `Pass`.
 
-2882 tokens (11%) have a non-empty value of `Voice`.
-2093 types (18%) occur at least once with a non-empty value of `Voice`.
-669 lemmas (14%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 2 part-of-speech tags: <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (2525; 9% instances), <tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> (357; 1% instances).
+2892 tokens (11%) have a non-empty value of `Voice`.
+2095 types (18%) occur at least once with a non-empty value of `Voice`.
+670 lemmas (14%) occur at least once with a non-empty value of `Voice`.
+The feature is used with 2 part-of-speech tags: <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (2532; 9% instances), <tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> (360; 1% instances).
 
 ### `VERB`
 
-2525 <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> tokens (98% of all `VERB` tokens) have a non-empty value of `Voice`.
+2532 <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> tokens (98% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1892; 75%), <tt><a href="orv_birchbark-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1774; 70%), <tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1713; 68%), <tt><a href="orv_birchbark-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1446; 57%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1898; 75%), <tt><a href="orv_birchbark-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1780; 70%), <tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1716; 68%), <tt><a href="orv_birchbark-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1448; 57%).
 
 `VERB` tokens may have the following values of `Voice`:
 
-* `Act` (2276; 90% of non-empty `Voice`): <em>даи, далъ, возми, пришли, шло, възьми, посли, присъли, дале, иди</em>
+* `Act` (2283; 90% of non-empty `Voice`): <em>даи, далъ, возми, пришли, шло, възьми, посли, присъли, възѧле, дале</em>
 * `Mid` (193; 8% of non-empty `Voice`): <em>кланѧюсѧ, покланѧю, молисѧ, кланѧю, диꙗлось, за…, молю, порꙋчи(‐), потоснисѧ, (соро)<lbr/>слосѧ</em>
 * `Pass` (56; 2% of non-empty `Voice`): <em>куплено, [п]окладено, [ѿ](им)ана, блг҃ословлено, взѧтъ, вода[н]о, водано, возѧто, возѧтъ, восьѧно</em>
-* `EMPTY` (56): <em>нѣ, надоби, надобе, нѣту, надобь, надобѣ, не, нету, ниту, нѣть</em>
+* `EMPTY` (57): <em>нѣ, надоби, надобе, нѣту, надобь, надобѣ, не, нету, ниту, нѣть</em>
 
 <table>
   <tr><th>Paradigm <i>взѧти</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>
@@ -51,29 +51,29 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
   <tr><td><tt><tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="orv_birchbark-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="orv_birchbark-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="orv_birchbark-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>въ·змуть, въземѹ</em></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="orv_birchbark-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="orv_birchbark-feat-VerbForm.html">VerbForm</a></tt><tt>=PartRes</tt></tt></td><td><em>взѧ)[л]ѣ</em></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_birchbark-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="orv_birchbark-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>во<lbr/>змѧ</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_birchbark-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt></tt></td><td><em>взѧти, возѧти, взѧть, възѧти, (въ)зѧ[т]и, в)зѧт[и, в[озѧти], во<lbr/>зѧти, возѧ<lbr/>ти, въз[ѧти], възѧ<lbr/>ти, възѧ[ти, ѹзѧти</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_birchbark-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt></tt></td><td><em>взѧти, возѧти, възѧти, взѧть, (въ)зѧ[т]и, в)зѧт[и, в[озѧти], во<lbr/>зѧти, возѧ<lbr/>ти, въз[ѧти], възѧ<lbr/>ти, възѧ[ти, ѹзѧти</em></td><td></td></tr>
 </table>
 
-`Voice` seems to be **lexical feature** of `VERB`. 95% lemmas (633) occur only with one value of `Voice`.
+`Voice` seems to be **lexical feature** of `VERB`. 95% lemmas (634) occur only with one value of `Voice`.
 
 ### `AUX`
 
-357 <tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> tokens (96% of all `AUX` tokens) have a non-empty value of `Voice`.
+360 <tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> tokens (96% of all `AUX` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="orv_birchbark-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (329; 92%), <tt><a href="orv_birchbark-feat-Analyt.html">Analyt</a></tt><tt>=Yes</tt> (320; 90%), <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (302; 85%), <tt><a href="orv_birchbark-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (282; 79%).
+The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="orv_birchbark-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (332; 92%), <tt><a href="orv_birchbark-feat-Analyt.html">Analyt</a></tt><tt>=Yes</tt> (323; 90%), <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (305; 85%), <tt><a href="orv_birchbark-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (285; 79%).
 
 `AUX` tokens may have the following values of `Voice`:
 
-* `Act` (357; 100% of non-empty `Voice`): <em>еси, ѥси, есмь, ѥсмь, есте, есть, есемо, бꙑ, бꙑло, ѥсме</em>
+* `Act` (360; 100% of non-empty `Voice`): <em>еси, ѥси, есмь, ѥсмь, есте, есть, есемо, бꙑ, бꙑло, ѥсме</em>
 * `EMPTY` (15): <em>бꙑ, бъ, б(у)[д](е, би, есем-, есо<lbr/>(мо</em>
 
 ## Relations with Agreement in `Voice`
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
 <tt>VERB --[<tt><a href="orv_birchbark-dep-conj.html">conj</a></tt>]--> VERB</tt> (306; 85%),
-<tt>VERB --[<tt><a href="orv_birchbark-dep-aux.html">aux</a></tt>]--> AUX</tt> (239; 93%),
+<tt>VERB --[<tt><a href="orv_birchbark-dep-aux.html">aux</a></tt>]--> AUX</tt> (242; 93%),
 <tt>VERB --[<tt><a href="orv_birchbark-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (237; 87%),
-<tt>VERB --[<tt><a href="orv_birchbark-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (74; 86%),
+<tt>VERB --[<tt><a href="orv_birchbark-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (76; 86%),
 <tt>VERB --[<tt><a href="orv_birchbark-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (69; 77%),
 <tt>VERB --[<tt><a href="orv_birchbark-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (36; 78%),
 <tt>VERB --[<tt><a href="orv_birchbark-dep-dislocated.html">dislocated</a></tt>]--> VERB</tt> (20; 80%),

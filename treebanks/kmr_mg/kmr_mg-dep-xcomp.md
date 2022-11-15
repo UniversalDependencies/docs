@@ -25,8 +25,8 @@ The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href
 1	Smith	Smith	PROPN	np	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
 2	bandora	bandor	NOUN	n	Case=Con|Definite=Def|Gender=Fem|Number=Sing	8	obj	_	_
 3	mirov	mirov	NOUN	n	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	2	nmod:poss	_	_
-4	li	li	X	x	_	5	dep	_	_
-5	ser	ser	ADP	pr	AdpType=Prep	6	case	_	_
+4	li	li	ADP	x	_	6	case	_	_
+5	ser	ser	ADP	pr	AdpType=Prep	4	fixed	_	_
 6	civakê	civak	NOUN	n	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	8	nmod	_	_
 7	girîng	girîng	ADJ	adj	Degree=Pos	8	xcomp	_	_
 8	dibîne	dîtin	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
@@ -41,8 +41,8 @@ The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
 # visual-style 13 12 xcomp	color:blue
-1	Ji	ji	X	x	_	3	dep	_	_
-2	ber	ber	X	x	_	3	dep	_	_
+1	Ji	ji	ADP	x	_	13	mark	_	_
+2	ber	ber	ADP	x	_	1	fixed	_	_
 3	ku	ku	SCONJ	cnjsub	_	13	cc	_	_
 4	Erdal	Erdal	PROPN	np	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
 5	di	di	ADP	pr	AdpType=Prep	6	case	_	_
@@ -69,8 +69,8 @@ The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href
 2	dîsa	dîsa	ADV	adv	_	4	advmod	_	_
 3	gewr	gewr	NOUN	n	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	4	xcomp	_	_
 4	dibin	bûn	AUX	vbcop	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-5	ta	ta	X	x	_	6	dep	_	_
-6	ku	ku	SCONJ	cnjsub	_	8	mark	_	_
+5	ta	ta	SCONJ	x	_	8	mark	_	_
+6	ku	ku	SCONJ	cnjsub	_	5	fixed	_	_
 7	zivistan	zivistan	NOUN	n	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	8	nsubj	_	_
 8	tê	hatin	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	advcl	_	_
 9	careke	car	NOUN	n	Case=Con|Gender=Fem|Number=Sing|PronType=Ind	12	nmod	_	_

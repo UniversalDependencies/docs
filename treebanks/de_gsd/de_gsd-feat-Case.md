@@ -11,7 +11,7 @@ It occurs with 4 different values: `Acc`, `Dat`, `Gen`, `Nom`.
 
 144569 tokens (49%) have a non-empty value of `Case`.
 41395 types (82%) occur at least once with a non-empty value of `Case`.
-35652 lemmas (84%) occur at least once with a non-empty value of `Case`.
+35651 lemmas (84%) occur at least once with a non-empty value of `Case`.
 The feature is used with 10 part-of-speech tags: <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (51320; 18% instances), <tt><a href="de_gsd-pos-DET.html">DET</a></tt> (37592; 13% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (27216; 9% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> (14367; 5% instances), <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (13709; 5% instances), <tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (181; 0% instances), <tt><a href="de_gsd-pos-X.html">X</a></tt> (103; 0% instances), <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> (67; 0% instances), <tt><a href="de_gsd-pos-SYM.html">SYM</a></tt> (9; 0% instances), <tt><a href="de_gsd-pos-ADP.html">ADP</a></tt> (5; 0% instances).
 
 ### `NOUN`
@@ -97,7 +97,7 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 14367 <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> tokens (69% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="de_gsd-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (13434; 94%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9939; 69%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="de_gsd-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (13298; 93%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9939; 69%).
 
 `ADJ` tokens may have the following values of `Case`:
 

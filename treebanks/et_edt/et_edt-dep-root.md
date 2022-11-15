@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-30973 nodes (7%) are attached to their parents as `root`.
+30968 nodes (7%) are attached to their parents as `root`.
 
-30973 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.51874213024247.
+30968 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.60840222164815.
 
-The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (21314; 69% instances), -<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (4966; 16% instances), -<tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (2465; 8% instances), -<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (762; 2% instances), -<tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (611; 2% instances), -<tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (565; 2% instances), -<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (197; 1% instances), -<tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (35; 0% instances), -<tt><a href="et_edt-pos-INTJ.html">INTJ</a></tt> (30; 0% instances), -<tt><a href="et_edt-pos-X.html">X</a></tt> (24; 0% instances), -<tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), -<tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (1; 0% instances), -<tt><a href="et_edt-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (21432; 69% instances), -<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (4909; 16% instances), -<tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (2446; 8% instances), -<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (745; 2% instances), -<tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (589; 2% instances), -<tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (557; 2% instances), -<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (193; 1% instances), -<tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (37; 0% instances), -<tt><a href="et_edt-pos-INTJ.html">INTJ</a></tt> (30; 0% instances), -<tt><a href="et_edt-pos-X.html">X</a></tt> (26; 0% instances), -<tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), -<tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (1; 0% instances), -<tt><a href="et_edt-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -26,12 +26,12 @@ The following 13 pairs of parts of speech are connected with `root`: -<tt><a hre
 2	tuli	tulema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 3	mõte	mõte	NOUN	S	Case=Nom|Number=Sing	2	nsubj	2:nsubj	_
 4	kirjutada	kirjutama	VERB	V	VerbForm=Inf	3	acl	3:acl	_
-5	ooper	ooper	NOUN	S	Case=Nom|Number=Sing	4	obj	4:obj	_
-6	"	"	PUNCT	Z	_	7	punct	7:punct	SpaceAfter=No
-7	Writing	Writing	PROPN	S	Case=Nom|Number=Sing	5	appos	5:appos	_
-8	to	to	X	Y	Abbr=Yes	7	flat	7:flat	_
-9	Vermeer	Vermeer	PROPN	S	Case=Nom|Number=Sing	7	flat	7:flat	SpaceAfter=No
-10	"	"	PUNCT	Z	_	7	punct	7:punct	SpaceAfter=No
+5	ooper	ooper	NOUN	S	Case=Nom|Number=Sing	4	obj	4:obj	NE=B-Prod
+6	"	"	PUNCT	Z	_	7	punct	7:punct	NE=I-Prod|SpaceAfter=No
+7	Writing	Writing	PROPN	S	Case=Nom|Number=Sing	5	appos	5:appos	NE=I-Prod
+8	to	to	X	Y	Abbr=Yes	7	flat	7:flat	NE=I-Prod
+9	Vermeer	Vermeer	PROPN	S	Case=Nom|Number=Sing	7	flat	7:flat	NE=I-Prod|SpaceAfter=No
+10	"	"	PUNCT	Z	_	7	punct	7:punct	NE=I-Prod|SpaceAfter=No
 11	?	?	PUNCT	Z	_	2	punct	2:punct	_
 
 ~~~

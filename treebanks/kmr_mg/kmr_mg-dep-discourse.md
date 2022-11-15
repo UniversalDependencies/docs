@@ -13,7 +13,7 @@ This relation is universal.
 26 instances of `discourse` (93%) are right-to-left (child precedes parent).
 Average distance between parent and child is 5.
 
-The following 11 pairs of parts of speech are connected with `discourse`: <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-INTJ.html">INTJ</a></tt> (9; 32% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-INTJ.html">INTJ</a></tt> (4; 14% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (3; 11% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt> (3; 11% instances), <tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt>-<tt><a href="kmr_mg-pos-PART.html">PART</a></tt> (2; 7% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-ADJ.html">ADJ</a></tt> (2; 7% instances), <tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt>-<tt><a href="kmr_mg-pos-INTJ.html">INTJ</a></tt> (1; 4% instances), <tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt>-<tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-PART.html">PART</a></tt> (1; 4% instances), <tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt>-<tt><a href="kmr_mg-pos-INTJ.html">INTJ</a></tt> (1; 4% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-PART.html">PART</a></tt> (1; 4% instances).
+The following 9 pairs of parts of speech are connected with `discourse`: <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-INTJ.html">INTJ</a></tt> (10; 36% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-INTJ.html">INTJ</a></tt> (4; 14% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (3; 11% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-PART.html">PART</a></tt> (3; 11% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt> (3; 11% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-ADJ.html">ADJ</a></tt> (2; 7% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-PART.html">PART</a></tt> (1; 4% instances), <tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt>-<tt><a href="kmr_mg-pos-INTJ.html">INTJ</a></tt> (1; 4% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -23,8 +23,8 @@ The following 11 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 5	fgColor:white
 # visual-style 5 1 discourse	color:blue
 1	Belê	belê	INTJ	ij	_	5	discourse	_	_
-2	li	li	X	x	_	3	dep	_	_
-3	ber	ber	ADP	pr	AdpType=Prep	4	case	_	_
+2	li	li	ADP	x	_	4	case	_	_
+3	ber	ber	ADP	pr	AdpType=Prep	2	fixed	_	_
 4	derî	derî	NOUN	n	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	5	nmod	_	_
 5	keti bû	ketin	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin	0	root	_	_
 6	erdê	erd	NOUN	n	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	5	obl:dat	_	SpaceAfter=No
@@ -50,7 +50,7 @@ The following 11 pairs of parts of speech are connected with `discourse`: <tt><a
 9	de	de	ADP	post	AdpType=Post	7	case	_	_
 10	ye	bûn	AUX	vbcop	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	SpaceAfter=No
 11	;	;	PUNCT	sent	_	12	punct	_	_
-12	heye	hebûn	AUX	vbhaver	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
+12	heye	hebûn	VERB	vbhaver	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
 13	ko	ku	SCONJ	cnjsub	_	12	orphan	_	SpaceAfter=No
 14	...	...	PUNCT	sent	_	1	punct	_	_
 

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.9 release.
 The following people have contributed to making this treebank part of UD: Chihiro Taguchi.
 
 Repository: [UD_Tatar-NMCTT](https://github.com/UniversalDependencies/UD_Tatar-NMCTT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtt_nmctt210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtt_nmctt211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-SA 4.0
 
@@ -86,11 +86,11 @@ The building of this corpus is funded by CICP of Nara Institute of Science and T
 
 
 <ul>
-<li>This corpus contains 93 sentences and 1458 tokens.</li>
+<li>This corpus contains 148 sentences and 2280 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 211 tokens (14%) that are not followed by a space.</li>
+<li>This corpus contains 348 tokens (15%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -98,7 +98,7 @@ The building of this corpus is funded by CICP of Nara Institute of Science and T
 </ul>
 
 <ul>
-<li>This corpus contains 11 types of words that contain both letters and punctuation. Examples: Татар-информ, ир-атны, Covid-19, Covid-19дан, ПЦР-тест, Премьер-министры, Явым-төшем, телеграм-каналында, турыдан-туры, төньяк-көнбатыштан, әйләнә-тирә</li>
+<li>This corpus contains 12 types of words that contain both letters and punctuation. Examples: Татар-информ, ир-атны, Covid-19, Covid-19дан, ПЦР-тест, Премьер-министры, Явым-төшем, телеграм-каналында, турыдан-туры, төньяк-көнбатыштан, чүп-чар, әйләнә-тирә</li>
 </ul>
 
 <ul>
@@ -117,7 +117,7 @@ The building of this corpus is funded by CICP of Nara Institute of Science and T
 </ul>
 
 <ul>
-<li>This corpus contains 8 lemmas tagged as pronouns (PRON): Россия, алар, бары, без, бу, ул, шул, үз</li>
+<li>This corpus contains 15 lemmas tagged as pronouns (PRON): Россия, алар, бар, барлык, бары, барысы, без, беркем, бу, моннан, сез, ул, шул, шуңа, үз</li>
 </ul>
 
 <ul>
@@ -129,21 +129,21 @@ The building of this corpus is funded by CICP of Nara Institute of Science and T
 </ul>
 
 <ul>
-<li>This corpus contains 12 lemmas tagged as auxiliaries (AUX): ал, бар, иде, икән, кал, кил, кирәк, мөмкин, тиеш, тор, чык, үт</li>
+<li>This corpus contains 17 lemmas tagged as auxiliaries (AUX): ал, бар, башла, бетер, бир, бул, иде, икән, кал, кил, кирәк, мөмкин, тиеш, тор, түгел, чык, үт</li>
 </ul>
 
 <ul>
-<li>Out of the above, 6 lemmas occurred sometimes as AUX and sometimes as VERB: ал, бар, кал, кил, чык, үт</li>
+<li>Out of the above, 10 lemmas occurred sometimes as AUX and sometimes as VERB: ал, бар, башла, бир, бул, кал, кил, тор, чык, үт</li>
 </ul>
 
 <ul>
-<li>There are 5 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+<li>There are 6 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
 </ul>
 
 <ul>
   <li>Conv
   <ul>
-    <li>VERB: булып, дип, тотып, этеп, алып, бара, билгеләп, итеп, катнашып, килеп</li>
+    <li>VERB: алып, булып, дип, итеп, тотып, этеп, аңлап, бара, билгеләп, булмаса</li>
   </ul>
   </li>
 </ul>
@@ -151,8 +151,8 @@ The building of this corpus is funded by CICP of Nara Institute of Science and T
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: иде, тора, ала, алмады, килә, үтә</li>
-    <li>VERB: диде, итә, белдерде, искәртте, итте, саклана, фаразлана, әйтте, ала, алдылар</li>
+    <li>AUX: иде, тора, ала, алды, алмады, башладым, бирә, булмады, килдегез, килә</li>
+    <li>VERB: диде, итә, итте, ителә, әйтте, ала, белдерде, искәртте, ителде, катнашты</li>
   </ul>
   </li>
 </ul>
@@ -160,7 +160,15 @@ The building of this corpus is funded by CICP of Nara Institute of Science and T
 <ul>
   <li>Inf
   <ul>
-    <li>VERB: булырга, итәргә, укырга, эшләргә, яварга, ясарга, ясатырга, Үтерергә, үтәргә, аңлашырга</li>
+    <li>VERB: булырга, итәргә, бирергә, кайтырга, кулланырга, укырга, эшләргә, яварга, ясарга, ясатырга</li>
+  </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>NomAg
+  <ul>
+    <li>VERB: итүче, алган, укытучыларны, шөгыльләнүче, яшәүчеләр, өйрәнүче, Язучылар, итүчеләр, керүчеләрнең, теләүчеләр</li>
   </ul>
   </li>
 </ul>
@@ -168,8 +176,8 @@ The building of this corpus is funded by CICP of Nara Institute of Science and T
 <ul>
   <li>Part
   <ul>
-    <li>AUX: алачак, чыгарган, алганнар, калыр</li>
-    <li>VERB: булган, булачак, ителгән, иткәнчә, итәчәк, узачак, укытучыларны, чыгарылган, яшәүчеләр, алган</li>
+    <li>AUX: алачак, торган, чыгарган, алганнар, калыр</li>
+    <li>VERB: булган, булачак, ителгән, планлаштырылган, башланган, иткәнчә, итәчәк, караганда, төшәчәк, узачак</li>
   </ul>
   </li>
 </ul>
@@ -177,8 +185,8 @@ The building of this corpus is funded by CICP of Nara Institute of Science and T
 <ul>
   <li>Vnoun
   <ul>
-    <li>AUX: калу, алуы, бару, чыгу</li>
-    <li>VERB: Тикшерү, булуын, итү, көтелүе, саклануның, җиңү, авырулар, алу, аңлату, аңлаулары</li>
+    <li>AUX: калу, алуы, бару, бетерү, чыгу</li>
+    <li>VERB: саклау, Тикшерү, итү, Очрашуда, булуын, кую, көтелүе, ремонтлау, саклануның, җиңү</li>
   </ul>
   </li>
 </ul>
@@ -195,13 +203,17 @@ The building of this corpus is funded by CICP of Nara Institute of Science and T
 <ul>
   <li>Plur
     <ul>
+      <li>ADJ: җәяүлеләр</li>
+      <li>AUX-Fin: килдегез</li>
       <li>AUX-Part: алганнар</li>
-      <li>NOUN: балалар, берләшмәләре, вәкилләре, көннәрендә, сүзләренчә, белгечләр, кешеләр, телләр, туганнары, учреждениеләре</li>
-      <li>PRON: безгә, алар, аларның, Безнең, аларга</li>
-      <li>VERB: укытучыларны, яшәүчеләр, авырулар, алдылар, аңлаттылар, аңлаулары, иттеләр, керүчеләрнең, куйдылар, сөйлиләр</li>
-      <li>VERB-Fin: алдылар, аңлаттылар, куйдылар, сөйлиләр, табалар, тапшырдылар, эзлиләр, өметләнәбез</li>
-      <li>VERB-Part: укытучыларны, яшәүчеләр, керүчеләрнең, теләүчеләр, тикшерүчеләр, эшләүчеләр, язучылары, җиңүчеләре</li>
-      <li>VERB-Vnoun: авырулар, аңлаулары, чикләүләр</li>
+      <li>NOUN: сүзләренчә, утлары, балалар, берләшмәләре, вәкилләре, көннәрендә, белгечләр, кешеләр, оешмалар, предприятиеләре</li>
+      <li>PRON: безгә, Без, Безнең, алар, аларның, Сез, аларга, аларны, сезгә, сезнең</li>
+      <li>VERB: тапшырдылар, укытучыларны, яшәүчеләр, Котлауларны, Язучылар, авырулар, алдылар, аңлаттылар, аңлаулары, дисәгез</li>
+      <li>VERB-Conv: дисәгез</li>
+      <li>VERB-Fin: тапшырдылар, алдылар, аңлаттылар, исбатладык, котлыйбыз, куйдылар, ниятлиләр, сорадык, сөйлиләр, табалар</li>
+      <li>VERB-NomAg: укытучыларны, яшәүчеләр, Язучылар, итүчеләр, керүчеләрнең, теләүчеләр, тикшерүчеләр, эшләүчеләр, язучылары, яшәүчеләрдән</li>
+      <li>VERB-Part: күргәннәре</li>
+      <li>VERB-Vnoun: Котлауларны, авырулар, аңлаулары, исәпләүләр, итүләрен, сөйләшүләр, тикшерүләр, чикләүләр, чыгуларын</li>
     </ul>
   </li>
 </ul>
@@ -209,19 +221,21 @@ The building of this corpus is funded by CICP of Nara Institute of Science and T
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: соңгысы, якындагы, яше, яшьлек, яшьтәге</li>
-      <li>AUX: калу, тора, ала, алмады, алуы, бару, иде, идем, икәнен, калыр</li>
-      <li>AUX-Fin: тора, ала, алмады, килә, үтә</li>
+      <li>ADJ: соңгысы, төрлесен, якындагы, яше, яшьлек, яшьтәге</li>
+      <li>AUX: калу, тора, ала, алмады, алуы, бару, башладым, бетерү, иде, идем</li>
+      <li>AUX-Fin: тора, ала, алмады, башладым, килә, үтә</li>
       <li>AUX-Part: калыр</li>
-      <li>AUX-Vnoun: калу, алуы, бару, чыгу</li>
-      <li>NOUN: хәбәр, һава, кеше, мөселман, халык, вакцинация, Дәүләт, татар, һәлак, апрельдә</li>
+      <li>AUX-Vnoun: калу, алуы, бару, бетерү, чыгу</li>
+      <li>NOUN: хәбәр, татар, кеше, һава, Дәүләт, министры, мөселман, халык, шәһәр, вакцинация</li>
       <li>NUM: 12дә</li>
-      <li>PRON: аның, ул, Моннан, Моңа, Россия, аны, шуның, үз, үзенең</li>
-      <li>PROPN: Татарстан, Төмән, Татарстанда, Чиләбе, Василий, Кама, Марат, Россия, Татар-информ, Әхмәтов</li>
-      <li>VERB: диде, Тикшерү, белдерде, булмаса, булуын, искәртте, ителгән, итте, итү, көтелүе</li>
-      <li>VERB-Fin: диде, белдерде, искәртте, итте, әйтте, ала, алына, ассызыклый, ачыклый, бирде</li>
+      <li>PRON: ул, аның, үз, Моннан, моңа, Аннан, Бу, Монда, Россия, Шуңа</li>
+      <li>PROPN: Татарстан, Кама, Төмән, Марат, Татарстанның, Казан, Рамил, Татарстанда, Чиләбе, Әхмәтов</li>
+      <li>VERB: диде, саклау, Тикшерү, итү, Очрашуда, белдерде, булмаса, булуын, искәртте, ителгән</li>
+      <li>VERB-Conv: булмаса, карасаң</li>
+      <li>VERB-Fin: диде, белдерде, искәртте, итте, әйтте, ала, алына, ассызыклый, ачыклый, бастым</li>
+      <li>VERB-NomAg: укучы, укытучыга</li>
       <li>VERB-Part: ителгән, арттырылачак, бирелгән, булачак, булышыр, итәчәк, калыр, кертеләчәк, кузгатылган, оештырган</li>
-      <li>VERB-Vnoun: Тикшерү, булуын, итү, көтелүе, саклануның, җиңү, алу, аңлату, бару, булу</li>
+      <li>VERB-Vnoun: саклау, Тикшерү, итү, Очрашуда, булуын, кую, көтелүе, ремонтлау, саклануның, җиңү</li>
     </ul>
   </li>
 </ul>
@@ -233,10 +247,11 @@ The building of this corpus is funded by CICP of Nara Institute of Science and T
 <ul>
   <li>Abl
     <ul>
-      <li>NOUN: тарафыннан, коронавирустан, Covid-19дан, алдан, дөньядан, инфекциясеннән, ковидтан, чыгышыннан, шәһәреннән, ягыннан</li>
+      <li>NOUN: тарафыннан, коронавирустан, Covid-19дан, Соңыннан, алдан, алдыннан, дөньядан, инфекциясеннән, ковидтан, күңелдән</li>
       <li>NUM: 65тән</li>
-      <li>PRON: Моннан</li>
+      <li>PRON: Моннан, Аннан</li>
       <li>PROPN: Кырымнан, Россиядән</li>
+      <li>VERB-NomAg: яшәүчеләрдән</li>
     </ul>
   </li>
 </ul>
@@ -244,11 +259,13 @@ The building of this corpus is funded by CICP of Nara Institute of Science and T
 <ul>
   <li>Acc
     <ul>
+      <li>ADJ: төрлесен</li>
       <li>AUX: икәнен</li>
-      <li>NOUN: ир-атны, көнне, милләтен, прививканы, торышын, җәсәден, Белешмәлекне, Милләтебезне, Төньякны, батырларны</li>
-      <li>PRON: аны, үзебезне</li>
-      <li>VERB-Part: укытучыларны, булганын</li>
-      <li>VERB-Vnoun: булуын, сынауны, эшләвен</li>
+      <li>NOUN: ир-атны, көнне, милләтен, прививканы, торышын, эшне, юлларын, җәсәден, Белешмәлекне, Кичәне</li>
+      <li>PRON: аларны, аны, барысын, үзебезне</li>
+      <li>VERB-NomAg: укытучыларны</li>
+      <li>VERB-Part: булганын, төзелгәнен</li>
+      <li>VERB-Vnoun: булуын, Котлауларны, итүләрен, куллануыгызны, сынауны, торуын, чыгуларын, эшләвен, җиткерүен, өзелмәвен</li>
     </ul>
   </li>
 </ul>
@@ -256,10 +273,11 @@ The building of this corpus is funded by CICP of Nara Institute of Science and T
 <ul>
   <li>Dat
     <ul>
-      <li>NOUN: хаҗга, секундына, хәбәрчесенә, юлга, Бәйгегә, Кызганычка, Монументына, Президентыбызга, Советына, астына</li>
-      <li>PRON: безгә, Моңа, аларга</li>
-      <li>VERB-Part: укытучыга</li>
-      <li>VERB-Vnoun: чыгаруга</li>
+      <li>NOUN: сумга, хаҗга, искә, секундына, халыкка, хәбәрчесенә, юлга, Бәйгегә, Кызганычка, Монументына</li>
+      <li>PRON: безгә, моңа, Монда, Шуңа, аларга, сезгә</li>
+      <li>PROPN: Гайнетдиновага, Камага</li>
+      <li>VERB-NomAg: укытучыга</li>
+      <li>VERB-Vnoun: төзекләндерүгә, чистартуга, чыгаруга</li>
     </ul>
   </li>
 </ul>
@@ -277,10 +295,11 @@ The building of this corpus is funded by CICP of Nara Institute of Science and T
 <ul>
   <li>Gen
     <ul>
-      <li>NOUN: өлкәсенең, Республикасының, Россиянең, Себернең, Хөкүмәтенең, Юлламаларның, академиясенең, бүлегенең, вакциналарының, вәкилләренең</li>
-      <li>PRON: аның, аларның, Безнең, шуның, Үзебезнең, үзенең</li>
-      <li>PROPN: Татарстанның, Ломановның, Азнакайның, Бакиеваның, Казанның, Каманың, Кучковскаяның, Фәттаховның</li>
-      <li>VERB-Part: керүчеләрнең</li>
+      <li>ADP: ның</li>
+      <li>NOUN: өлкәсенең, Республикасының, журналның, республиканың, халыкның, Россиянең, Себернең, Советының, Хөкүмәтенең, Юлламаларның</li>
+      <li>PRON: аның, Безнең, аларның, сезнең, шуның, Үзебезнең, үзенең</li>
+      <li>PROPN: Татарстанның, Казанның, Ломановның, Азнакайның, Бакиеваның, Каманың, Кучковскаяның, Миңнехановның, Фәттаховның</li>
+      <li>VERB-NomAg: керүчеләрнең</li>
       <li>VERB-Vnoun: саклануның, үтәүнең</li>
     </ul>
   </li>
@@ -290,10 +309,11 @@ The building of this corpus is funded by CICP of Nara Institute of Science and T
   <li>Loc
     <ul>
       <li>ADJ: якындагы, яшьтәге</li>
-      <li>NOUN: апрельдә, көннәрендә, өлкәсендә, вакытында, октябрьдә, республикада, янында, Курскта, Республикабызда, Чарада</li>
+      <li>NOUN: апрельдә, көннәрендә, сайтында, хакта, өлкәсендә, вакытында, күләмендә, октябрьдә, республикада, шәһәрдә</li>
       <li>NUM: 12дә</li>
-      <li>PROPN: Татарстанда, Казанда, Кырымда, Әгерҗедә</li>
-      <li>VERB-Part: караганда, уздырганда</li>
+      <li>PROPN: Татарстанда, Аланында, Казанда, Кырымда, Әгерҗедә</li>
+      <li>VERB-Part: караганда, уздырганда, әйткәндә</li>
+      <li>VERB-Vnoun: Очрашуда, Җыештыруда</li>
     </ul>
   </li>
 </ul>
@@ -301,14 +321,15 @@ The building of this corpus is funded by CICP of Nara Institute of Science and T
 <ul>
   <li>Nom
     <ul>
-      <li>ADJ: соңгысы, яше, яшьлек</li>
-      <li>AUX-Vnoun: калу, алуы, бару, чыгу</li>
-      <li>NOUN: хәбәр, һава, кеше, мөселман, халык, Дәүләт, вакцинация, татар, һәлак, балалар</li>
-      <li>PRON: ул, алар, Россия, барысы, үз, үзең</li>
-      <li>PROPN: Татарстан, Төмән, Чиләбе, Василий, Кама, Марат, Россия, Татар-информ, Әхмәтов, Антон</li>
-      <li>VERB: Тикшерү, итү, көтелүе, торышы, яшәүчеләр, җиңү, авырулар, алу, аңлату, аңлаулары</li>
-      <li>VERB-Part: яшәүчеләр, теләүчеләр, тикшерүчеләр, эшләүчеләр, язучылары, җиңүчеләре</li>
-      <li>VERB-Vnoun: Тикшерү, итү, көтелүе, җиңү, авырулар, алу, аңлату, аңлаулары, бару, булу</li>
+      <li>ADJ: соңгысы, яше, яшьлек, җәяүлеләр</li>
+      <li>AUX-Vnoun: калу, алуы, бару, бетерү, чыгу</li>
+      <li>NOUN: хәбәр, татар, кеше, һава, Дәүләт, министры, мөселман, халык, шәһәр, акча</li>
+      <li>PRON: ул, үз, Без, алар, Бу, Россия, Сез, бары, барысы, үзең</li>
+      <li>PROPN: Татарстан, Кама, Төмән, Марат, Казан, Рамил, Чиләбе, Әхмәтов, Василий, Россия</li>
+      <li>VERB: саклау, Тикшерү, итү, кую, көтелүе, ремонтлау, торышы, яшәүчеләр, җиңү, үстерү</li>
+      <li>VERB-NomAg: яшәүчеләр, Язучылар, итүчеләр, теләүчеләр, тикшерүчеләр, укучы, эшләүчеләр, язучылары, җиңүчеләре</li>
+      <li>VERB-Part: күргәннәре</li>
+      <li>VERB-Vnoun: саклау, Тикшерү, итү, кую, көтелүе, ремонтлау, җиңү, үстерү, авырулар, алу</li>
     </ul>
   </li>
 </ul>
@@ -326,7 +347,7 @@ The building of this corpus is funded by CICP of Nara Institute of Science and T
   <li>Cmp
     <ul>
       <li>ADJ: кимрәк</li>
-      <li>ADV: соңрак</li>
+      <li>ADV: бигрәк, соңрак</li>
     </ul>
   </li>
 </ul>
@@ -338,10 +359,12 @@ The building of this corpus is funded by CICP of Nara Institute of Science and T
 <ul>
   <li>Neg
     <ul>
-      <li>AUX-Fin: алмады</li>
-      <li>VERB: артмаган, булмаса, кимемәсен, көтелми</li>
-      <li>VERB-Fin: көтелми</li>
+      <li>AUX-Fin: алмады, булмады</li>
+      <li>VERB: артмаган, бирелми, булмаса, килми, кимемәсен, көтелми, өзелмәвен</li>
+      <li>VERB-Conv: булмаса</li>
+      <li>VERB-Fin: бирелми, килми, көтелми</li>
       <li>VERB-Part: артмаган</li>
+      <li>VERB-Vnoun: өзелмәвен</li>
     </ul>
   </li>
 </ul>
@@ -355,9 +378,17 @@ The building of this corpus is funded by CICP of Nara Institute of Science and T
 </ul>
 
 <ul>
+  <li>Iter
+    <ul>
+      <li>VERB-Conv: язгалый</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Perf
     <ul>
-      <li>VERB-Conv: башлангач</li>
+      <li>VERB-Conv: башлангач, дигәч</li>
     </ul>
   </li>
 </ul>
@@ -365,7 +396,7 @@ The building of this corpus is funded by CICP of Nara Institute of Science and T
 <ul>
   <li>Prog
     <ul>
-      <li>VERB-Conv: бара, ачыклый, куллана, кыла, җиңә</li>
+      <li>VERB-Conv: бара, ачыклый, итә, кала, куллана, кыла, күрсәтелә, җиңә</li>
       <li>VERB-Part: югалта</li>
     </ul>
   </li>
@@ -378,7 +409,7 @@ The building of this corpus is funded by CICP of Nara Institute of Science and T
 <ul>
   <li>Cnd
     <ul>
-      <li>VERB: булмаса, булса, карасаң, оештырылса</li>
+      <li>VERB-Conv: булмаса, булса, дисәгез, карасаң, оештырылса</li>
     </ul>
   </li>
 </ul>
@@ -386,7 +417,8 @@ The building of this corpus is funded by CICP of Nara Institute of Science and T
 <ul>
   <li>Imp
     <ul>
-      <li>VERB: кимемәсен</li>
+      <li>VERB: булсын, кимемәсен, яз, ясагыз</li>
+      <li>VERB-Fin: булсын, яз, ясагыз</li>
     </ul>
   </li>
 </ul>
@@ -402,6 +434,7 @@ The building of this corpus is funded by CICP of Nara Institute of Science and T
 <ul>
   <li>Irr
     <ul>
+      <li>ADJ: кирәктер</li>
       <li>AUX-Part: калыр</li>
       <li>VERB-Part: булыр, булышыр, калыр, теләр</li>
     </ul>
@@ -416,7 +449,7 @@ The building of this corpus is funded by CICP of Nara Institute of Science and T
   <li>Fut
     <ul>
       <li>AUX-Part: алачак, калыр</li>
-      <li>VERB-Part: булачак, итәчәк, узачак, арттырылачак, булыр, булышыр, калыр, кертеләчәк, сакланачак, теләр</li>
+      <li>VERB-Part: булачак, итәчәк, төшәчәк, узачак, арттырылачак, башкарылачак, булыр, булышыр, калыр, кертеләчәк</li>
     </ul>
   </li>
 </ul>
@@ -424,11 +457,11 @@ The building of this corpus is funded by CICP of Nara Institute of Science and T
 <ul>
   <li>Past
     <ul>
-      <li>AUX-Fin: иде, алмады</li>
-      <li>AUX-Part: чыгарган, алганнар</li>
-      <li>VERB: булган, диде, ителгән, белдерде, искәртте, иткәнчә, итте, чыгарылган, әйтте, алдылар</li>
-      <li>VERB-Fin: диде, белдерде, искәртте, итте, әйтте, алдылар, аңлаттылар, бирде, булды, катгыйланды</li>
-      <li>VERB-Part: булган, ителгән, иткәнчә, чыгарылган, артмаган, ачыклаганча, башланган, бирелгән, булганын, дигән</li>
+      <li>AUX-Fin: иде, алды, алмады, башладым, булмады, килдегез</li>
+      <li>AUX-Part: торган, чыгарган, алганнар</li>
+      <li>VERB: булган, диде, итте, ителгән, планлаштырылган, әйтте, башланган, белдерде, искәртте, ителде</li>
+      <li>VERB-Fin: диде, итте, әйтте, белдерде, искәртте, ителде, катнашты, тапшырды, тапшырдылар, алдылар</li>
+      <li>VERB-Part: булган, ителгән, планлаштырылган, башланган, иткәнчә, караганда, чыгарылган, артмаган, аталган, ачыклаганча</li>
     </ul>
   </li>
 </ul>
@@ -436,9 +469,8 @@ The building of this corpus is funded by CICP of Nara Institute of Science and T
 <ul>
   <li>Pres
     <ul>
-      <li>AUX-Fin: тора, ала, килә, үтә</li>
-      <li>VERB-Fin: итә, саклана, фаразлана, ала, алына, ассызыклый, ачыклый, бәйлим, керә, китерелә</li>
-      <li>VERB-Part: укытучыларны, яшәүчеләр, алган, керүчеләрнең, теләүчеләр, тикшерүчеләр, тәрбияләнүче, укытучыга, шөгыльләнүче, эшләүчеләр</li>
+      <li>AUX-Fin: тора, ала, бирә, килә, үтә</li>
+      <li>VERB-Fin: итә, ала, ителә, керә, саклана, фаразлана, алына, ассызыклый, ачыклый, бирелми</li>
     </ul>
   </li>
 </ul>
@@ -451,11 +483,12 @@ The building of this corpus is funded by CICP of Nara Institute of Science and T
   <li>Cau
     <ul>
       <li>AUX-Part: чыгарган</li>
-      <li>VERB-Conv: танытып</li>
+      <li>VERB-Conv: бастырып, танытып</li>
       <li>VERB-Fin: белдерде, аңлаттылар, искәртте</li>
       <li>VERB-Inf: ясатырга, югалтырга, үзгәртергә</li>
-      <li>VERB-Part: Укытучыларны, оештырган, таптаткан, уздырганда, укытучыга, чагылдырган, югалта</li>
-      <li>VERB-Vnoun: аңлату, уздыру, чыгаруга, үзләштерү, үстерү</li>
+      <li>VERB-NomAg: Укытучыларны, укытучыга</li>
+      <li>VERB-Part: оештырган, таптаткан, уздырганда, чагылдырган, югалта</li>
+      <li>VERB-Vnoun: үстерү, аңлату, булдыру, кертү, төзекләндерү, төзекләндерүгә, уздыру, чистартуга, чыгару, чыгаруга</li>
     </ul>
   </li>
 </ul>
@@ -463,7 +496,8 @@ The building of this corpus is funded by CICP of Nara Institute of Science and T
 <ul>
   <li>CauPass
     <ul>
-      <li>VERB: чыгарылган, арттырылачак, кертеләчәк, оештырылса, ясатылган, үзәкләштерелгән</li>
+      <li>VERB-Conv: оештырылса</li>
+      <li>VERB-Fin: оештырылды</li>
       <li>VERB-Part: чыгарылган, арттырылачак, кертеләчәк, ясатылган, үзәкләштерелгән</li>
     </ul>
   </li>
@@ -473,7 +507,7 @@ The building of this corpus is funded by CICP of Nara Institute of Science and T
   <li>Mid
     <ul>
       <li>VERB-Fin: саклана</li>
-      <li>VERB-Part: сакланачак</li>
+      <li>VERB-Part: сакланачак, җыелган</li>
     </ul>
   </li>
 </ul>
@@ -481,10 +515,11 @@ The building of this corpus is funded by CICP of Nara Institute of Science and T
 <ul>
   <li>Pass
     <ul>
-      <li>VERB-Conv: башлангач, борчылып, тупланып, төпләнеп</li>
-      <li>VERB-Fin: фаразлана, алына, ителә, китерелә, көтелми, көтелә, ясалды, үткәрелде</li>
-      <li>VERB-Part: ителгән, башланган, бирелгән, иллюстрацияләнгән, кузгатылган, тәрбияләнүче</li>
-      <li>VERB-Vnoun: көтелүе, саклануның</li>
+      <li>VERB-Conv: башлангач, борчылып, күрсәтелә, тупланып, төпләнеп</li>
+      <li>VERB-Fin: ителә, ителде, фаразлана, алына, бетерелде, бирелә, бүләкләнде, киселде, китерелде, китерелә</li>
+      <li>VERB-NomAg: тәрбияләнүче</li>
+      <li>VERB-Part: ителгән, башланган, планлаштырылган, аталган, башкарылачак, билгеләнгән, бирелгән, иллюстрацияләнгән, кузгатылган, төзелгәнен</li>
+      <li>VERB-Vnoun: көтелүе, саклануның, өзелмәвен</li>
     </ul>
   </li>
 </ul>
@@ -493,6 +528,7 @@ The building of this corpus is funded by CICP of Nara Institute of Science and T
   <li>Rcp
     <ul>
       <li>VERB-Inf: аңлашырга</li>
+      <li>VERB-Vnoun: Очрашуда, сөйләшүләр</li>
     </ul>
   </li>
 </ul>
@@ -508,7 +544,15 @@ The building of this corpus is funded by CICP of Nara Institute of Science and T
 <ul>
   <li>Dem
     <ul>
-      <li>PRON: Бу, Моннан, Моңа, шуның</li>
+      <li>PRON: Бу, Моннан, моңа, Аннан, Монда, Шуңа, шуның</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Neg
+    <ul>
+      <li>PRON: Беркем</li>
     </ul>
   </li>
 </ul>
@@ -516,7 +560,7 @@ The building of this corpus is funded by CICP of Nara Institute of Science and T
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: аның, ул, безгә, алар, аларның, Безнең, аларга, аны, үз</li>
+      <li>PRON: ул, аның, безгә, үз, Без, Безнең, алар, аларның, Сез, аларга</li>
     </ul>
   </li>
 </ul>
@@ -524,7 +568,7 @@ The building of this corpus is funded by CICP of Nara Institute of Science and T
 <ul>
   <li>Tot
     <ul>
-      <li>PRON: барысы</li>
+      <li>PRON: Барлык, бары, барысы, барысын</li>
     </ul>
   </li>
 </ul>
@@ -536,7 +580,7 @@ The building of this corpus is funded by CICP of Nara Institute of Science and T
 <ul>
   <li>Card
     <ul>
-      <li>NUM: бер, 1, 11, 11318, 2022, 23, 2500, 27, 5, 500</li>
+      <li>NUM: бер, миллион, миллиард, 1, 10, 100, 11, 11318, 120, 15</li>
     </ul>
   </li>
 </ul>
@@ -544,7 +588,7 @@ The building of this corpus is funded by CICP of Nara Institute of Science and T
 <ul>
   <li>Ord
     <ul>
-      <li>NUM: 10, 1942, 27, 28</li>
+      <li>NUM: 10, 1942, 27, 28, 7нче, III</li>
     </ul>
   </li>
 </ul>
@@ -569,9 +613,10 @@ The building of this corpus is funded by CICP of Nara Institute of Science and T
 <ul>
   <li>1
     <ul>
-      <li>AUX: идем</li>
-      <li>PRON: безгә, Безнең</li>
-      <li>VERB-Fin: бәйлим, өметләнәбез, өметләнәм</li>
+      <li>AUX: башладым, идем</li>
+      <li>AUX-Fin: башладым</li>
+      <li>PRON: безгә, Без, Безнең</li>
+      <li>VERB-Fin: бастым, бәйлим, исбатладык, котлыйбыз, сорадык, сорыйм, үтенәм, үткәрдек, өметләнәбез, өметләнәм</li>
     </ul>
   </li>
 </ul>
@@ -579,7 +624,10 @@ The building of this corpus is funded by CICP of Nara Institute of Science and T
 <ul>
   <li>2
     <ul>
-      <li>VERB: карасаң</li>
+      <li>AUX-Fin: килдегез</li>
+      <li>PRON: Сез, сезнең</li>
+      <li>VERB-Conv: дисәгез, карасаң</li>
+      <li>VERB-Fin: яз, ясагыз</li>
     </ul>
   </li>
 </ul>
@@ -587,13 +635,14 @@ The building of this corpus is funded by CICP of Nara Institute of Science and T
 <ul>
   <li>3
     <ul>
-      <li>AUX: иде, тора, ала, алганнар, алмады, калыр, килә, чыгарган, үтә</li>
-      <li>AUX-Fin: иде, тора, ала, алмады, килә, үтә</li>
+      <li>AUX: иде, тора, ала, алганнар, алды, алмады, бирә, булмады, калыр, килә</li>
+      <li>AUX-Fin: иде, тора, ала, алды, алмады, бирә, булмады, килә, үтә</li>
       <li>AUX-Part: алганнар, калыр, чыгарган</li>
-      <li>PRON: аның, ул, алар, аны</li>
-      <li>VERB: диде, итә, белдерде, булмаса, искәртте, ителгән, итте, саклана, фаразлана, әйтте</li>
-      <li>VERB-Fin: диде, итә, белдерде, искәртте, итте, саклана, фаразлана, әйтте, ала, алдылар</li>
-      <li>VERB-Part: ителгән, арттырылачак, бирелгән, булачак, булган, булышыр, итәчәк, калыр, кертеләчәк, кузгатылган</li>
+      <li>PRON: аның, ул, алар, аларны, аны</li>
+      <li>VERB: диде, итте, итә, ителә, әйтте, ала, белдерде, булмаса, искәртте, ителгән</li>
+      <li>VERB-Conv: булмаса, булса, оештырылса</li>
+      <li>VERB-Fin: диде, итте, итә, ителә, әйтте, ала, белдерде, искәртте, ителде, катнашты</li>
+      <li>VERB-Part: ителгән, төшәчәк, арттырылачак, башкарылачак, бирелгән, булачак, булган, булышыр, итәчәк, калыр</li>
     </ul>
   </li>
 </ul>
@@ -607,8 +656,9 @@ The building of this corpus is funded by CICP of Nara Institute of Science and T
 <ul>
   <li>Plur
     <ul>
-      <li>NOUN: Милләтебезне, Президентыбызга, Республикабызда, йолаларыбыз, милләттәшләребез, ныклыгыбызны, тарихыбыз, телебез, телебезгә, халкыбызның</li>
+      <li>NOUN: телебез, Милләтебезне, Президентыбызга, Республикабызда, вәкаләтләрегезне, йолаларыбыз, милләттәшләребез, ныклыгыбызны, тарихыбыз, телебезгә</li>
       <li>PRON: Үзебезнең, үзебезне</li>
+      <li>VERB-Vnoun: куллануыгызны</li>
     </ul>
   </li>
 </ul>
@@ -616,6 +666,7 @@ The building of this corpus is funded by CICP of Nara Institute of Science and T
 <ul>
   <li>Sing
     <ul>
+      <li>NOUN: юлыма, язмаларымны, Әбекәемнең</li>
       <li>PRON: үзең</li>
     </ul>
   </li>
@@ -641,26 +692,29 @@ The building of this corpus is funded by CICP of Nara Institute of Science and T
     <ul>
       <li>1
         <ul>
-          <li>NOUN: Милләтебезне, Президентыбызга, Республикабызда, йолаларыбыз, милләттәшләребез, ныклыгыбызны, тарихыбыз, телебез, телебезгә, халкыбызның</li>
+          <li>NOUN: телебез, Милләтебезне, Президентыбызга, Республикабызда, йолаларыбыз, милләттәшләребез, ныклыгыбызны, тарихыбыз, телебезгә, халкыбызның</li>
           <li>PRON: Үзебезнең, үзебезне</li>
         </ul>
       </li>
       <li>2
         <ul>
+          <li>NOUN: Язмаң, вәкаләтләрегезне</li>
           <li>PRON: үзең</li>
+          <li>VERB-Vnoun: куллануыгызны</li>
         </ul>
       </li>
       <li>3
         <ul>
-          <li>ADJ: соңгысы, яше</li>
+          <li>ADJ: соңгысы, төрлесен, яше</li>
           <li>AUX: алуы, икәнен</li>
           <li>AUX-Vnoun: алуы</li>
-          <li>NOUN: берләшмәләре, вәкилләре, көннәрендә, сүзләренчә, тарафыннан, үзәге, өлкәсе, өлкәсендә, өлкәсенең, вакытында</li>
+          <li>NOUN: министры, районы, сүзләренчә, урынбасары, утлары, башлыгы, берләшмәләре, вәкилләре, көннәрендә, президенты</li>
           <li>PRON: барысы, үзенең</li>
-          <li>PROPN: Гарәбстаны</li>
-          <li>VERB: булуын, көтелүе, торышы, аңлаулары, булганын, итүенчә, эшләвен, җиңүчеләре, әйтүенчә</li>
-          <li>VERB-Part: булганын, җиңүчеләре</li>
-          <li>VERB-Vnoun: булуын, көтелүе, аңлаулары, итүенчә, эшләвен, әйтүенчә</li>
+          <li>PROPN: Аланында, Гарәбстаны</li>
+          <li>VERB: булуын, көтелүе, торышы, аңлаулары, булганын, итүенчә, итүләрен, күргәннәре, торуын, төзелгәнен</li>
+          <li>VERB-NomAg: җиңүчеләре</li>
+          <li>VERB-Part: булганын, күргәннәре, төзелгәнен</li>
+          <li>VERB-Vnoun: булуын, көтелүе, аңлаулары, итүенчә, итүләрен, торуын, чыгуларын, эшләвен, җиткерүен, әйтүенчә</li>
         </ul>
       </li>
     </ul>
@@ -676,7 +730,7 @@ The building of this corpus is funded by CICP of Nara Institute of Science and T
 </ul>
 
 <ul>
-<li>This corpus uses 12 lemmas as auxiliaries (<a>aux</a>). Examples: ал, иде, кал, кирәк, чык, мөмкин, тиеш, тор, бар, икән, кил, үт.</li>
+<li>This corpus uses 17 lemmas as auxiliaries (<a>aux</a>). Examples: ал, кирәк, иде, тор, кал, мөмкин, тиеш, чык, кил, бар, башла, бетер, бир, бул, икән, түгел, үт.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -685,16 +739,17 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN-Nom (6)</li>
-      <li>VERB-Conv--NOUN-Nom (10)</li>
+      <li>VERB--NOUN-Nom (3)</li>
+      <li>VERB-Conv--NOUN-Nom (15)</li>
       <li>VERB-Conv--PRON-Nom (1)</li>
-      <li>VERB-Fin--NOUN-Nom (23)</li>
-      <li>VERB-Fin--PRON (1)</li>
-      <li>VERB-Fin--PRON-Nom (3)</li>
+      <li>VERB-Fin--NOUN (1)</li>
+      <li>VERB-Fin--NOUN-Nom (45)</li>
+      <li>VERB-Fin--PRON (2)</li>
+      <li>VERB-Fin--PRON-Nom (6)</li>
       <li>VERB-Inf--NOUN-Nom (5)</li>
-      <li>VERB-Part--NOUN-Nom (21)</li>
+      <li>VERB-Part--NOUN-Nom (24)</li>
       <li>VERB-Part--PRON-Nom (1)</li>
-      <li>VERB-Vnoun--NOUN-Nom (3)</li>
+      <li>VERB-Vnoun--NOUN-Nom (4)</li>
     </ul>
   </li>
 </ul>
@@ -702,19 +757,22 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN-Acc (3)</li>
-      <li>VERB-Conv--NOUN-Acc (7)</li>
-      <li>VERB-Conv--PRON-Acc (1)</li>
-      <li>VERB-Fin--NOUN-Acc (10)</li>
-      <li>VERB-Fin--NOUN-Nom (3)</li>
-      <li>VERB-Inf--NOUN-Acc (5)</li>
-      <li>VERB-Inf--NOUN-Nom (1)</li>
-      <li>VERB-Part--NOUN-Acc (6)</li>
-      <li>VERB-Part--NOUN-Nom (6)</li>
+      <li>VERB--NOUN-Acc (2)</li>
+      <li>VERB-Conv--NOUN-Acc (11)</li>
+      <li>VERB-Conv--NOUN-Nom (1)</li>
+      <li>VERB-Conv--PRON-Acc (3)</li>
+      <li>VERB-Fin--NOUN-Acc (15)</li>
+      <li>VERB-Fin--NOUN-Nom (7)</li>
+      <li>VERB-Inf--NOUN-Acc (6)</li>
+      <li>VERB-Inf--NOUN-Nom (3)</li>
+      <li>VERB-NomAg--NOUN-Acc (1)</li>
+      <li>VERB-NomAg--NOUN-Nom (2)</li>
+      <li>VERB-Part--NOUN-Acc (5)</li>
+      <li>VERB-Part--NOUN-Nom (5)</li>
       <li>VERB-Part--PRON-Acc (1)</li>
       <li>VERB-Vnoun--NOUN (1)</li>
-      <li>VERB-Vnoun--NOUN-Acc (6)</li>
-      <li>VERB-Vnoun--NOUN-Nom (3)</li>
+      <li>VERB-Vnoun--NOUN-Acc (20)</li>
+      <li>VERB-Vnoun--NOUN-Nom (11)</li>
     </ul>
   </li>
 </ul>

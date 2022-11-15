@@ -8,12 +8,37 @@ udver: '2'
 
 This relation is universal.
 
-52 nodes (0%) are attached to their parents as `dep`.
+77 nodes (0%) are attached to their parents as `dep`.
 
-50 instances of `dep` (96%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.65384615384615.
+50 instances of `dep` (65%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.64935064935065.
 
-The following 11 pairs of parts of speech are connected with `dep`: <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsdluw-pos-SYM.html">SYM</a></tt> (18; 35% instances), <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsdluw-pos-SYM.html">SYM</a></tt> (13; 25% instances), <tt><a href="ja_gsdluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsdluw-pos-SYM.html">SYM</a></tt> (8; 15% instances), <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> (5; 10% instances), <tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsdluw-pos-SYM.html">SYM</a></tt> (2; 4% instances), <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsdluw-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsdluw-pos-X.html">X</a></tt> (1; 2% instances), <tt><a href="ja_gsdluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_gsdluw-pos-SYM.html">SYM</a></tt> (1; 2% instances), <tt><a href="ja_gsdluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="ja_gsdluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_gsdluw-pos-SYM.html">SYM</a></tt> (1; 2% instances), <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> (1; 2% instances).
+The following 14 pairs of parts of speech are connected with `dep`: <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt> (20; 26% instances), <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsdluw-pos-SYM.html">SYM</a></tt> (18; 23% instances), <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsdluw-pos-SYM.html">SYM</a></tt> (13; 17% instances), <tt><a href="ja_gsdluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsdluw-pos-SYM.html">SYM</a></tt> (8; 10% instances), <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> (5; 6% instances), <tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt> (4; 5% instances), <tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsdluw-pos-SYM.html">SYM</a></tt> (2; 3% instances), <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsdluw-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsdluw-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="ja_gsdluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_gsdluw-pos-SYM.html">SYM</a></tt> (1; 1% instances), <tt><a href="ja_gsdluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ja_gsdluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_gsdluw-pos-SYM.html">SYM</a></tt> (1; 1% instances), <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 6 dep	color:blue
+1	人員	人員	NOUN	名詞-普通名詞-一般	_	3	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=,人員,人員,人員,ジンイン,,,ジンイン,ジンイン,人員
+2	の	の	ADP	助詞-格助詞	_	1	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,の,の,の,ノ,,,ノ,ノ,の
+3	異動	異動	NOUN	名詞-普通名詞-一般	_	5	nsubj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=,異動,異動,異動,イドー,,,イドウ,イドウ,異動
+4	は	は	ADP	助詞-係助詞	_	3	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,は,は,は,ワ,,,ハ,ハ,は
+5	伴う	伴う	VERB	動詞-一般-五段-ワア行	_	6	advcl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=,伴う,伴う,伴う,トモナウ,,,トモナウ,トモナウ,伴う
+6	ものの	ものの	SCONJ	助詞-接続助詞	_	10	dep	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=;,物;の,もの;の,もの;の,モノ;ノ,;,;,モノ;ノ,モノノ,ものの
+7	「	「	PUNCT	補助記号-括弧開	_	8	punct	_	BunsetuBILabel=B|BunsetuPositionType=CONT|SpaceAfter=No|UnidicInfo=,「,「,「,,,,,,「
+8	雇用	雇用	NOUN	名詞-普通名詞-一般	_	10	nsubj	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=,雇用,雇用,雇用,コヨー,,,コヨウ,コヨウ,雇用
+9	は	は	ADP	助詞-係助詞	_	8	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,は,は,は,ワ,,,ハ,ハ,は
+10	維持する	維持する	VERB	動詞-一般-サ行変格	_	13	advcl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=;,維持;為る,維持;する,維持;する,イジ;スル,;,;,イジ;スル,イジスル,維持する
+11	」	」	PUNCT	補助記号-括弧閉	_	10	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=No|UnidicInfo=,」,」,」,,,,,,」
+12	と	と	ADP	助詞-格助詞	_	10	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,と,と,と,ト,,,ト,ト,と
+13	説明し	説明する	VERB	動詞-一般-サ行変格	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|SpaceAfter=No|UnidicInfo=;,説明;為る,説明;し,説明;する,セツメー;シ,;,;,セツメイ;スル,セツメイスル,説明する
+14	ている	ている	AUX	助動詞-上一段-ア行	_	13	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=;,て;居る,て;いる,て;いる,テ;イル,;,;,テ;イル,テイル,ている
+15	。	。	PUNCT	補助記号-句点	_	13	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=Yes|UnidicInfo=,。,。,。,,,,,,。
+
+~~~
 
 
 ~~~ conllu
@@ -60,30 +85,6 @@ The following 11 pairs of parts of speech are connected with `dep`: <tt><a href=
 18	よぉ	よ	PART	助詞-終助詞	_	16	mark	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|SpaceAfter=No|UnidicInfo=,よ,よぉ,よぉ,ヨー,,,ヨウ,ヨ,よ
 19	~	~	SYM	補助記号-一般	_	16	dep	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=No|UnidicInfo=,‾,~,~,,,,,,‾
 20	。	。	PUNCT	補助記号-句点	_	16	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=Yes|UnidicInfo=,。,。,。,,,,,,。
-
-~~~
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 dep	color:blue
-1	いなべ市	いなべ市	PROPN	名詞-固有名詞-地名-一般	_	2	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=;,イナベ;市,いなべ;市,いなべ;市,イナベ;シ,;,;,イナベ;シ,イナベシ,いなべ市
-2	藤原町	藤原町	PROPN	名詞-固有名詞-地名-一般	_	3	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=;,フジワラ;町,藤原;町,藤原;町,フジワラ;チョー,;,;,フジワラ;チョウ,フジワラチョウ,藤原町
-3	坂本	坂本	PROPN	名詞-固有名詞-地名-一般	_	7	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=,サカモト,坂本,坂本,サカモト,,,サカモト,サカモト,坂本
-4	-	-	SYM	補助記号-一般	_	3	dep	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=No|UnidicInfo=,-,-,-,,,,,,-
-5	同市	同市	NOUN	名詞-普通名詞-一般	_	6	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=,同市,同市,同市,ドーシ,,,ドウシ,ドウシ,同市
-6	藤原町	藤原町	PROPN	名詞-固有名詞-地名-一般	_	7	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=;,フジワラ;町,藤原;町,藤原;町,フジワラ;チョー,;,;,フジワラ;チョウ,フジワラチョウ,藤原町
-7	下野尻	下野尻	PROPN	名詞-固有名詞-地名-一般	_	13	obj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=,シモノジリ,下野尻,下野尻,シモノジリ,,,シモノジリ,シモノジリ,下野尻
-8	を	を	ADP	助詞-格助詞	_	7	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,を,を,を,オ,,,ヲ,ヲ,を
-9	以下	以下	NOUN	名詞-普通名詞-一般	_	11	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=,以下,以下,以下,イカ,,,イカ,イカ,以下
-10	の	の	ADP	助詞-格助詞	_	9	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,の,の,の,ノ,,,ノ,ノ,の
-11	路線バス	路線バス	NOUN	名詞-普通名詞-一般	_	13	nsubj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=;,路線;バス,路線;バス,路線;バス,ロセン;バス,;,;,ロセン;バス,ロセンバス,路線バス
-12	が	が	ADP	助詞-格助詞	_	11	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,が,が,が,ガ,,,ガ,ガ,が
-13	通過する	通過する	VERB	動詞-一般-サ行変格	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|SpaceAfter=No|UnidicInfo=;,通過;為る,通過;する,通過;する,ツーカ;スル,;,;,ツウカ;スル,ツウカスル,通過する
-14	。	。	PUNCT	補助記号-句点	_	13	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=Yes|UnidicInfo=,。,。,。,,,,,,。
 
 ~~~
 

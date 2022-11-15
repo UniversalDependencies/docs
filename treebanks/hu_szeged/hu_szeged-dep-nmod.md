@@ -12,9 +12,9 @@ There are 3 language-specific subtypes of `nmod`: <tt><a href="hu_szeged-dep-nmo
 66 nodes (0%) are attached to their parents as `nmod`.
 
 59 instances of `nmod` (89%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.
+Average distance between parent and child is 4.96969696969697.
 
-The following 13 pairs of parts of speech are connected with `nmod`: <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (25; 38% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (8; 12% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> (7; 11% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt> (7; 11% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hu_szeged-pos-DET.html">DET</a></tt> (4; 6% instances), <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt>-<tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (4; 6% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt>-<tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt> (3; 5% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt> (2; 3% instances), <tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt>-<tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="hu_szeged-pos-X.html">X</a></tt>-<tt><a href="hu_szeged-pos-X.html">X</a></tt> (1; 2% instances).
+The following 14 pairs of parts of speech are connected with `nmod`: <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (25; 38% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (8; 12% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> (7; 11% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt> (7; 11% instances), <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt>-<tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (4; 6% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hu_szeged-pos-DET.html">DET</a></tt> (3; 5% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt>-<tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt> (3; 5% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt> (2; 3% instances), <tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt>-<tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hu_szeged-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="hu_szeged-pos-X.html">X</a></tt>-<tt><a href="hu_szeged-pos-X.html">X</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -63,15 +63,15 @@ The following 13 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 9	fgColor:white
 # visual-style 9 4 nmod	color:blue
 1	A	a	DET	_	Definite=Def|PronType=Art	2	det	_	_
-2	Starbucks	Starbucks	PROPN	_	Case=Nom|Number=Sing	9	nsubj	_	_
+2	Starbucks	Starbucks	PROPN	_	Case=Nom|Number=Sing	10	nsubj	_	_
 3	ezt	ez	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Dem	4	obj	_	_
 4	követően	követő	ADJ	_	Case=Ess|Degree=Pos|Number=Sing|VerbForm=PartPres	9	nmod	_	ToDo=nmod
 5	is	is	CCONJ	_	_	4	cc	_	ToDo=cc-without-conj
 6	a	a	DET	_	Definite=Def|PronType=Art	7	det	_	_
 7	tőzsde	tőzsde	NOUN	_	Case=Nom|Number=Sing	9	nmod:att	_	_
 8	egyik	egyik	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Ind	9	amod:att	_	_
-9	kedvence	kedvenc	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	0	root	_	_
-10	maradt	marad	AUX	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	cop	_	SpaceAfter=No
+9	kedvence	kedvenc	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	10	xcomp	_	_
+10	maradt	marad	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	20	punct	_	_
 12	s	s	CCONJ	_	_	20	cc	_	_
 13	a	a	DET	_	Definite=Def|PronType=Art	14	det	_	_
@@ -82,7 +82,7 @@ The following 13 pairs of parts of speech are connected with `nmod`: <tt><a href
 18	lendületes	lendületes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	19	amod:att	_	_
 19	terjeszkedést	terjeszkedés	NOUN	_	Case=Acc|Number=Sing	20	obj	_	_
 20	honorálták	honorál	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	conj	_	SpaceAfter=No
-21	.	.	PUNCT	_	_	9	punct	_	_
+21	.	.	PUNCT	_	_	10	punct	_	_
 
 ~~~
 

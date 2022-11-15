@@ -13,7 +13,7 @@ Some words have combined values of the feature; 5 combinations have been observe
 189511 tokens (54%) have a non-empty value of `Case`.
 16016 types (84%) occur at least once with a non-empty value of `Case`.
 13953 lemmas (90%) occur at least once with a non-empty value of `Case`.
-The feature is used with 14 part-of-speech tags: <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (78053; 22% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (42542; 12% instances), <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> (27279; 8% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (14042; 4% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (13841; 4% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (6509; 2% instances), <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (4933; 1% instances), <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> (1380; 0% instances), <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (598; 0% instances), <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> (288; 0% instances), <tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (29; 0% instances), <tt><a href="hi_hdtb-pos-X.html">X</a></tt> (14; 0% instances), <tt><a href="hi_hdtb-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The feature is used with 14 part-of-speech tags: <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (78053; 22% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (42541; 12% instances), <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> (26352; 7% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (14784; 4% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (14042; 4% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (6557; 2% instances), <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (4933; 1% instances), <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> (1386; 0% instances), <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (535; 0% instances), <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> (288; 0% instances), <tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (29; 0% instances), <tt><a href="hi_hdtb-pos-X.html">X</a></tt> (8; 0% instances), <tt><a href="hi_hdtb-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -39,13 +39,13 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `PROPN`
 
-42542 <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> tokens (99% of all `PROPN` tokens) have a non-empty value of `Case`.
+42541 <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> tokens (99% of all `PROPN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt> (41484; 98%), <tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (41328; 97%), <tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (31010; 73%).
+The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt> (41484; 98%), <tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (41327; 97%), <tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (31009; 73%).
 
 `PROPN` tokens may have the following values of `Case`:
 
-* `Acc` (21277; 50% of non-empty `Case`): सिंह, भारत, पाकिस्तान, कांग्रेस, भाजपा, दिल्ली, सरकार, प्रधानमंत्री, प्रदेश, मंत्रालय
+* `Acc` (21276; 50% of non-empty `Case`): सिंह, भारत, पाकिस्तान, कांग्रेस, भाजपा, दिल्ली, सरकार, प्रधानमंत्री, प्रदेश, मंत्रालय
 * `Nom` (21265; 50% of non-empty `Case`): भारत, प्रधानमंत्री, मंत्री, सिंह, कांग्रेस, के., दिल्ली, मनमोहन, उत्तर, भाजपा
 * `EMPTY` (399): ऑफ, एवं, एंड, ए, और, द, फॉर, के, व, ऑल
 
@@ -57,16 +57,16 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 ### `ADP`
 
-27279 <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> tokens (37% of all `ADP` tokens) have a non-empty value of `Case`.
+26352 <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> tokens (36% of all `ADP` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADP` and `Case` co-occurred: <tt><a href="hi_hdtb-feat-AdpType.html">AdpType</a></tt><tt>=Post</tt> (26323; 96%), <tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (21791; 80%), <tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (18168; 67%).
+The most frequent other feature values with which `ADP` and `Case` co-occurred: <tt><a href="hi_hdtb-feat-AdpType.html">AdpType</a></tt><tt>=Post</tt> (25399; 96%), <tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (21243; 81%), <tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (17512; 66%).
 
 `ADP` tokens may have the following values of `Case`:
 
-* `Acc` (13915; 51% of non-empty `Case`): के, की, वाले, कारण, वाली, ओर, रूप, वजह, समय, जैसे
+* `Acc` (13222; 50% of non-empty `Case`): के, की, कारण, ओर, रूप, वजह, समय, जैसे, तरह, अनुसार
 * `Acc,Gen` (25; 0% of non-empty `Case`): का, की, के
-* `Nom` (13339; 49% of non-empty `Case`): का, की, के, साथ, बाद, दौरान, बीच, पहले, पास, वाले
-* `EMPTY` (46866): में, को, के, ने, से, पर, लिए, तक, द्वारा, बारे
+* `Nom` (13105; 50% of non-empty `Case`): का, की, के, साथ, बाद, दौरान, बीच, पहले, पास, सामने
+* `EMPTY` (46863): में, को, के, ने, से, पर, लिए, तक, द्वारा, बारे
 
 <table>
   <tr><th>Paradigm <i>का</i></th><th><tt>Acc,Gen</tt></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
@@ -92,6 +92,32 @@ The most frequent other feature values with which `ADP` and `Case` co-occurred: 
   <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_hdtb-feat-Polite.html">Polite</a></tt><tt>=Form</tt></tt></td><td></td><td>के</td><td></td></tr>
   <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td>के</td></tr>
   <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>की</td><td>की</td></tr>
+</table>
+
+### `ADJ`
+
+14784 <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> tokens (68% of all `ADJ` tokens) have a non-empty value of `Case`.
+
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (10868; 74%), <tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (10844; 73%).
+
+`ADJ` tokens may have the following values of `Case`:
+
+* `Acc` (10029; 68% of non-empty `Case`): अन्य, वाले, पूर्व, भारतीय, स्थित, वरिष्ठ, पिछले, अमेरिकी, सरकारी, राजनीतिक
+* `Nom` (4755; 32% of non-empty `Case`): विशेष, पूर्व, मुख्य, अन्य, वाले, अंतिम, अलग, पूरा, पूरी, महत्वपूर्ण
+* `EMPTY` (6861): शामिल, जारी, तैयार, पेश, दर्ज, गौरतलब, बंद, लागू, तय, गिरफ्तार
+
+<table>
+  <tr><th>Paradigm <i>वाला</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
+  <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td>वाले</td></tr>
+  <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>वाला, वाले</td><td>वाले, वाला</td></tr>
+  <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>वाला</td><td>वाला, वाले</td></tr>
+  <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_hdtb-feat-Polite.html">Polite</a></tt><tt>=Form</tt></tt></td><td>वाले</td><td>वाले</td></tr>
+  <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>वाले</td><td>वाले, वालों</td></tr>
+  <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td>वाले, वालों</td></tr>
+  <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>वाली</td><td>वाली</td></tr>
+  <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>वाली</td><td></td></tr>
+  <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>वाली</td><td>वाली</td></tr>
+  <tr><td><tt><tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>वाले</td></tr>
 </table>
 
 ### `PRON`
@@ -137,43 +163,19 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
   <tr><td><tt><tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>उन्हें</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
-### `ADJ`
-
-13841 <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> tokens (67% of all `ADJ` tokens) have a non-empty value of `Case`.
-
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (10866; 79%), <tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (10843; 78%).
-
-`ADJ` tokens may have the following values of `Case`:
-
-* `Acc` (9330; 67% of non-empty `Case`): अन्य, पूर्व, भारतीय, स्थित, वरिष्ठ, पिछले, अमेरिकी, सरकारी, राजनीतिक, विभिन्न
-* `Nom` (4511; 33% of non-empty `Case`): विशेष, पूर्व, मुख्य, अन्य, अंतिम, अलग, पूरा, पूरी, महत्वपूर्ण, भारी
-* `EMPTY` (6805): शामिल, जारी, तैयार, पेश, दर्ज, गौरतलब, बंद, लागू, तय, गिरफ्तार
-
-<table>
-  <tr><th>Paradigm <i>पूरा</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
-  <tr><td><tt>_</tt></td><td>पूरा</td><td></td></tr>
-  <tr><td><tt><tt><a href="hi_hdtb-feat-Echo.html">Echo</a></tt><tt>=Rdp</tt>|<tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>पूरी</td><td></td></tr>
-  <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>पूरा, पूरे, पूरी</td><td>पूरे, पूरा</td></tr>
-  <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>पूरे</td><td>पूरे</td></tr>
-  <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>पूरी</td><td>पूरी</td></tr>
-  <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td>पूरी</td></tr>
-  <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>पूरी</td></tr>
-  <tr><td><tt><tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>पूरे</td></tr>
-</table>
-
 ### `VERB`
 
-6509 <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> tokens (19% of all `VERB` tokens) have a non-empty value of `Case`.
+6557 <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> tokens (18% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="hi_hdtb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (6469; 99%), <tt><a href="hi_hdtb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (6460; 99%), <tt><a href="hi_hdtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt> (6435; 99%), <tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6267; 96%), <tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6023; 93%), <tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3369; 52%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="hi_hdtb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (6517; 99%), <tt><a href="hi_hdtb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (6508; 99%), <tt><a href="hi_hdtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt> (6482; 99%), <tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6314; 96%), <tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6071; 93%), <tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3416; 52%).
 
 `VERB` tokens may have the following values of `Case`:
 
-* `Acc` (5634; 87% of non-empty `Case`): करने, होने, देने, बनाने, आने, लेने, मिलने, कराने, रखने, जाने
+* `Acc` (5674; 87% of non-empty `Case`): करने, होने, देने, बनाने, आने, लेने, मिलने, रखने, कराने, जाने
 * `Acc,Erg` (9; 0% of non-empty `Case`): जाने, ढूंढ़ने, पहुंचने, सुलझाने, कराने, बांटने, मांगने, संभालने
 * `Acc,Gen` (2; 0% of non-empty `Case`): करके
-* `Nom` (864; 13% of non-empty `Case`): कहना, करना, मानना, देना, होना, देखना, जाना, बनाना, आना, करने
-* `EMPTY` (27244): कहा, किया, कर, की, हो, है, बताया, हुई, करते, दिया
+* `Nom` (872; 13% of non-empty `Case`): कहना, करना, मानना, देना, होना, देखना, रखना, जाना, बनाना, लेना
+* `EMPTY` (29402): कहा, किया, कर, की, दिया, हो, है, बताया, दी, हुई
 
 <table>
   <tr><th>Paradigm <i>कर</i></th><th><tt>Acc,Gen</tt></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
@@ -232,16 +234,16 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 
 ### `ADV`
 
-1380 <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> tokens (42% of all `ADV` tokens) have a non-empty value of `Case`.
+1386 <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> tokens (42% of all `ADV` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADV` and `Case` co-occurred: <tt><a href="hi_hdtb-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (1378; 100%), <tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1374; 100%), <tt><a href="hi_hdtb-feat-AdpType.html">AdpType</a></tt><tt>=Post</tt> (1373; 99%), <tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt> (1371; 99%), <tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1328; 96%).
+The most frequent other feature values with which `ADV` and `Case` co-occurred: <tt><a href="hi_hdtb-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (1384; 100%), <tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1380; 100%), <tt><a href="hi_hdtb-feat-AdpType.html">AdpType</a></tt><tt>=Post</tt> (1373; 99%), <tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt> (1371; 99%), <tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1331; 96%).
 
 `ADV` tokens may have the following values of `Case`:
 
-* `Acc` (244; 18% of non-empty `Case`): बाद, पहले, बाहर, पूर्व, पास, आगे, आसपास, ऊपर, साथ, बीच
+* `Acc` (247; 18% of non-empty `Case`): बाद, पहले, बाहर, पूर्व, पास, आगे, आसपास, ऊपर, साथ, बीच
 * `Acc,Gen` (1; 0% of non-empty `Case`): बहुत
-* `Nom` (1135; 82% of non-empty `Case`): बाद, पहले, आगे, साथ, दौरान, सामने, दूर, बीच, बाहर, पीछे
-* `EMPTY` (1919): सबसे, फिर, वहीं, जल्द, लगातार, फिलहाल, बहुत, जमकर, दोबारा, बार
+* `Nom` (1138; 82% of non-empty `Case`): बाद, पहले, आगे, साथ, दौरान, सामने, दूर, बीच, बाहर, पीछे
+* `EMPTY` (1921): सबसे, फिर, वहीं, जल्द, लगातार, फिलहाल, बहुत, जमकर, दोबारा, बार
 
 <table>
   <tr><th>Paradigm <i>बाद</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
@@ -252,22 +254,23 @@ The most frequent other feature values with which `ADV` and `Case` co-occurred: 
 
 ### `AUX`
 
-598 <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> tokens (2% of all `AUX` tokens) have a non-empty value of `Case`.
+535 <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> tokens (2% of all `AUX` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="hi_hdtb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (598; 100%), <tt><a href="hi_hdtb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (597; 100%), <tt><a href="hi_hdtb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (597; 100%), <tt><a href="hi_hdtb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (595; 99%), <tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (592; 99%), <tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (574; 96%), <tt><a href="hi_hdtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt> (574; 96%), <tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (572; 96%).
+The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="hi_hdtb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (535; 100%), <tt><a href="hi_hdtb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (534; 100%), <tt><a href="hi_hdtb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (534; 100%), <tt><a href="hi_hdtb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (532; 99%), <tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (532; 99%), <tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (527; 99%), <tt><a href="hi_hdtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt> (527; 99%), <tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (525; 98%).
 
 `AUX` tokens may have the following values of `Case`:
 
-* `Acc` (544; 91% of non-empty `Case`): जाने, रखने, पाने, देने, लेने, रहने, होने, जाना, वाले, डालने
+* `Acc` (499; 93% of non-empty `Case`): जाने, पाने, रहने, होने, जाना, पाना, सकने, जानी, पड़ने
 * `Acc,Erg` (1; 0% of non-empty `Case`): जाने
-* `Nom` (53; 9% of non-empty `Case`): जाना, वाला, पाना, रखना, कर, वाले, देना, पड़ती, रहना, है
-* `EMPTY` (25432): है, हैं, गया, था, गई, हुए, गए, थी, जा, दिया
+* `Nom` (35; 7% of non-empty `Case`): जाना, पाना, कर, पड़ती, रहना, है, रहा
+* `EMPTY` (23221): है, हैं, गया, था, गई, हुए, गए, थी, जा, रहे
 
 <table>
   <tr><th>Paradigm <i>जा</i></th><th><tt>Acc,Erg</tt></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
   <tr><td><tt>_</tt></td><td>जाने</td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_hdtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt></tt></td><td></td><td></td><td>जाने</td></tr>
   <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_hdtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt></tt></td><td></td><td></td><td>जाने</td></tr>
+  <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hi_hdtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt></tt></td><td></td><td></td><td>जानी</td></tr>
   <tr><td><tt><tt><a href="hi_hdtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt></tt></td><td></td><td>जाना</td><td>जाने, जाना</td></tr>
 </table>
 
@@ -314,21 +317,15 @@ The most frequent other feature values with which `PART` and `Case` co-occurred:
 
 ### `X`
 
-14 <tt><a href="hi_hdtb-pos-X.html">X</a></tt> tokens (9% of all `X` tokens) have a non-empty value of `Case`.
+8 <tt><a href="hi_hdtb-pos-X.html">X</a></tt> tokens (6% of all `X` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `X` and `Case` co-occurred: <tt><a href="hi_hdtb-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (14; 100%).
+The most frequent other feature values with which `X` and `Case` co-occurred: <tt><a href="hi_hdtb-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (8; 100%).
 
 `X` tokens may have the following values of `Case`:
 
-* `Acc` (4; 29% of non-empty `Case`): बड़े, बड़ी, बडे
-* `Nom` (10; 71% of non-empty `Case`): अलग, अपने, भूरि, इतनी, खासी, दर्जन, बड़ा, साथ
-* `EMPTY` (134): पास, रिकॉर्ड, डाउनलोड, फिट, फेल, बुक, आउट, आफ, इंटरसेप्ट, रेफर
-
-<table>
-  <tr><th>Paradigm <i>बड़ा</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
-  <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td>बड़ा</td><td>बड़े</td></tr>
-  <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td></td><td>बड़ी</td></tr>
-</table>
+* `Acc` (1; 13% of non-empty `Case`): बडे
+* `Nom` (7; 88% of non-empty `Case`): अलग, अपने, भूरि, दर्जन, साथ
+* `EMPTY` (132): पास, रिकॉर्ड, डाउनलोड, फिट, फेल, बुक, आउट, आफ, इंटरसेप्ट, रेफर
 
 ### `SCONJ`
 
@@ -351,7 +348,7 @@ The most frequent other feature values with which `X` and `Case` co-occurred: <t
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="hi_hdtb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (11600; 97%),
+<tt>NOUN --[<tt><a href="hi_hdtb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (11601; 97%),
 <tt>NOUN --[<tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (4459; 53%),
 <tt>NOUN --[<tt><a href="hi_hdtb-dep-det.html">det</a></tt>]--> DET</tt> (4379; 65%),
 <tt>PROPN --[<tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2151; 77%),
@@ -359,6 +356,6 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="hi_hdtb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1913; 91%),
 <tt>PROPN --[<tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (1496; 62%),
 <tt>PROPN --[<tt><a href="hi_hdtb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (687; 76%),
-<tt>NOUN --[<tt><a href="hi_hdtb-dep-case.html">case</a></tt>]--> PRON</tt> (463; 99%),
+<tt>NOUN --[<tt><a href="hi_hdtb-dep-det.html">det</a></tt>]--> PRON</tt> (642; 98%),
 <tt>ADJ --[<tt><a href="hi_hdtb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (356; 94%).
 

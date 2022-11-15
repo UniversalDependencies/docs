@@ -28,4 +28,4 @@ Also, *είμαι* "to be" is assigned the tag [AUX]() when it is used to assign
 -	Auxiliary use of *να*: *Να προσέχεις* "Βe careful.", *Θέλω κάποιον που να ξέρει από υπολογιστές.* "Ι  need a person who is fluent with computers."
 
 ### References
-<!-- Interlanguage links updated So kvě 14 19:01:45 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:30 CET 2022 -->

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-22 nodes (2%) are attached to their parents as `case`.
+28 nodes (2%) are attached to their parents as `case`.
 
-19 instances of `case` (86%) are left-to-right (parent precedes child).
+24 instances of `case` (86%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 4 pairs of parts of speech are connected with `case`: <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-ADP.html">ADP</a></tt> (16; 73% instances), <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-ADP.html">ADP</a></tt> (3; 14% instances), <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (2; 9% instances), <tt><a href="aqz_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="aqz_tudet-pos-ADP.html">ADP</a></tt> (1; 5% instances).
+The following 6 pairs of parts of speech are connected with `case`: <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-ADP.html">ADP</a></tt> (16; 57% instances), <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-PART.html">PART</a></tt> (5; 18% instances), <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-ADP.html">ADP</a></tt> (3; 11% instances), <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (2; 7% instances), <tt><a href="aqz_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="aqz_tudet-pos-ADP.html">ADP</a></tt> (1; 4% instances), <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -32,6 +32,19 @@ The following 4 pairs of parts of speech are connected with `case`: <tt><a href=
 
 
 ~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 case	color:blue
+1	teera	et	VERB	vt	Person=3|Reflex=Yes|Tv=Yes	0	root	_	_
+2	ekwa	ekwa	PART	pcl	_	1	case	_	_
+3	.	.	PUNCT	punct	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 2	bgColor:blue
@@ -41,20 +54,6 @@ The following 4 pairs of parts of speech are connected with `case`: <tt><a href=
 2	teita	ita	VERB	vi	Person=3|Reflex=Yes	0	root	_	_
 3	ete	ete	ADP	posp	_	2	case	_	_
 4	?	?	PUNCT	punct	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 case	color:blue
-1	pabapebõ	pabape	NOUN	n	Case=All	2	case	_	_
-2	ɨkɨ	ɨkɨ	NOUN	n	_	3	obj	_	_
-3	kiramka	kiram	VERB	vt	Trans=Yes	0	root	_	_
-4	en	en	PRON	pron	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
 
 ~~~
 

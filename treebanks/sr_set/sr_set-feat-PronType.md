@@ -10,10 +10,10 @@ This feature is universal.
 It occurs with 7 different values: `Dem`, `Ind`, `Int`, `Neg`, `Prs`, `Rel`, `Tot`.
 Some words have combined values of the feature; 1 combinations have been observed: `Int|Rel`.
 
-6609 tokens (7%) have a non-empty value of `PronType`.
+6586 tokens (7%) have a non-empty value of `PronType`.
 364 types (2%) occur at least once with a non-empty value of `PronType`.
 82 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="sr_set-pos-DET.html">DET</a></tt> (3574; 4% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (2426; 2% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt> (609; 1% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="sr_set-pos-DET.html">DET</a></tt> (3574; 4% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (2403; 2% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt> (609; 1% instances).
 
 ### `DET`
 
@@ -49,16 +49,16 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 ### `PRON`
 
-2426 <tt><a href="sr_set-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+2403 <tt><a href="sr_set-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="sr_set-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1744; 72%), <tt><a href="sr_set-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1742; 72%), <tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1654; 68%), <tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Acc</tt> (1620; 67%), <tt><a href="sr_set-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (1451; 60%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="sr_set-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1721; 72%), <tt><a href="sr_set-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1719; 72%), <tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1654; 69%), <tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Acc</tt> (1619; 67%), <tt><a href="sr_set-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (1451; 60%).
 
 `PRON` tokens may have the following values of `PronType`:
 
 * `Ind` (26; 1% of non-empty `PronType`): <em>nešto, neko, išta, nekoga, nečemu</em>
-* `Int,Rel` (230; 9% of non-empty `PronType`): <em>što, šta, ko, čime, koga, čega, čemu, kome, Niko, kog</em>
+* `Int,Rel` (207; 9% of non-empty `PronType`): <em>što, šta, ko, čime, koga, čega, čemu, kome, Niko, kog</em>
 * `Neg` (34; 1% of non-empty `PronType`): <em>ništa, niko, nikoga, nikome</em>
-* `Prs` (2133; 88% of non-empty `PronType`): <em>se, on, ona, oni, ga, mi, ih, im, njega, njih</em>
+* `Prs` (2133; 89% of non-empty `PronType`): <em>se, on, ona, oni, ga, mi, ih, im, njega, njih</em>
 * `Tot` (3; 0% of non-empty `PronType`): <em>svako</em>
 
 `PronType` seems to be **lexical feature** of `PRON`. 100% lemmas (16) occur only with one value of `PronType`.

@@ -214,6 +214,6 @@ The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>ADJ --[<tt><a href="sa_ufal-dep-conj.html">conj</a></tt>]--> ADJ</tt> (5; 71%),
 <tt>PRON --[<tt><a href="sa_ufal-dep-nsubj-cop.html">nsubj:cop</a></tt>]--> NOUN</tt> (5; 83%),
 <tt>VERB --[<tt><a href="sa_ufal-dep-conj.html">conj</a></tt>]--> VERB</tt> (5; 71%),
-<tt>PRON --[<tt><a href="sa_ufal-dep-acl.html">acl</a></tt>]--> PRON</tt> (4; 100%),
-<tt>PROPN --[<tt><a href="sa_ufal-dep-conj.html">conj</a></tt>]--> NOUN</tt> (4; 80%).
+<tt>NOUN --[<tt><a href="sa_ufal-dep-det.html">det</a></tt>]--> PRON</tt> (4; 80%),
+<tt>PRON --[<tt><a href="sa_ufal-dep-acl.html">acl</a></tt>]--> PRON</tt> (4; 100%).
 

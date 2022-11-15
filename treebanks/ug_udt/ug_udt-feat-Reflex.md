@@ -23,5 +23,5 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 `PRON` tokens may have the following values of `Reflex`:
 
 * `Yes` (147; 100% of non-empty `Reflex`): ئۆز، ئۆزىنى، ئۆزىنىڭ، ئۆزى، ئۆزۈم، ئۆزۈمنى، ئۆزۈمنىڭ، ئۆزۈڭ، ئۆزىمۇ، ئۆزۈمدىن
-* `EMPTY` (2545): بۇ، ئۇ، مەن، ئۇنىڭ، سەن، ئۇلار، شۇ، ئۇنى، بىز، ئەڭ
+* `EMPTY` (2549): بۇ، ئۇ، مەن، ئۇنىڭ، سەن، ئۇلار، شۇ، ئۇنى، بىز، ئەڭ
 

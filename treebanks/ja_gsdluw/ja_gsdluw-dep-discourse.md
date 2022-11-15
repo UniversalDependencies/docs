@@ -54,7 +54,7 @@ The following 3 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
 # visual-style 13 10 discourse	color:blue
-1	荒神輿	荒御輿	NOUN	名詞-普通名詞-一般	_	15	nsubj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=;,荒い;御輿,荒;神輿,荒い;神輿,アラ;ミコシ,;,;,アライ;ミコシ,アラミコシ,荒御輿
+1	荒神輿	荒御輿	NOUN	名詞-普通名詞-一般	_	15	nsubj:outer	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=;,荒い;御輿,荒;神輿,荒い;神輿,アラ;ミコシ,;,;,アライ;ミコシ,アラミコシ,荒御輿
 2	は	は	ADP	助詞-係助詞	_	1	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,は,は,は,ワ,,,ハ,ハ,は
 3	「	「	PUNCT	補助記号-括弧開	_	4	punct	_	BunsetuBILabel=B|BunsetuPositionType=CONT|SpaceAfter=No|UnidicInfo=,「,「,「,,,,,,「
 4	チョーサンヤ	_	INTJ	感動詞-一般	_	10	discourse	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=,,チョーサンヤ,,,,,,,
@@ -62,8 +62,8 @@ The following 3 pairs of parts of speech are connected with `discourse`: <tt><a 
 6	、	、	PUNCT	補助記号-読点	_	4	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=No|UnidicInfo=,、,、,、,,,,,,、
 7	団車	檀尻	NOUN	名詞-普通名詞-一般	_	15	nsubj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=,檀尻,団車,団車,ダンジリ,,,ダンジリ,ダンジリ,檀尻
 8	は	は	ADP	助詞-係助詞	_	7	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,は,は,は,ワ,,,ハ,ハ,は
-9	「	「	PUNCT	補助記号-括弧開	_	7	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=No|UnidicInfo=,「,「,「,,,,,,「
-10	アラヨーイトナ	_	INTJ	感動詞-一般	_	13	discourse	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=;,あら;,アラ;ヨーイトナ,アラ;,アラ;,;,;,アラ;,,
+9	「	「	PUNCT	補助記号-括弧開	_	10	punct	_	BunsetuBILabel=B|BunsetuPositionType=CONT|SpaceAfter=No|UnidicInfo=,「,「,「,,,,,,「
+10	アラヨーイトナ	_	INTJ	感動詞-一般	_	13	discourse	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=;,あら;,アラ;ヨーイトナ,アラ;,アラ;,;,;,アラ;,,
 11	」	」	PUNCT	補助記号-括弧閉	_	10	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=No|UnidicInfo=,」,」,」,,,,,,」
 12	の	の	ADP	助詞-格助詞	_	10	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,の,の,の,ノ,,,ノ,ノ,の
 13	掛け声	掛け声	NOUN	名詞-普通名詞-一般	_	15	obl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=,掛け声,掛け声,掛け声,カケゴエ,,,カケゴエ,カケゴエ,掛け声
@@ -80,7 +80,7 @@ The following 3 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 4 discourse	color:blue
-1	荒神輿	荒御輿	NOUN	名詞-普通名詞-一般	_	15	nsubj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=;,荒い;御輿,荒;神輿,荒い;神輿,アラ;ミコシ,;,;,アライ;ミコシ,アラミコシ,荒御輿
+1	荒神輿	荒御輿	NOUN	名詞-普通名詞-一般	_	15	nsubj:outer	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=;,荒い;御輿,荒;神輿,荒い;神輿,アラ;ミコシ,;,;,アライ;ミコシ,アラミコシ,荒御輿
 2	は	は	ADP	助詞-係助詞	_	1	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,は,は,は,ワ,,,ハ,ハ,は
 3	「	「	PUNCT	補助記号-括弧開	_	4	punct	_	BunsetuBILabel=B|BunsetuPositionType=CONT|SpaceAfter=No|UnidicInfo=,「,「,「,,,,,,「
 4	チョーサンヤ	_	INTJ	感動詞-一般	_	10	discourse	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=,,チョーサンヤ,,,,,,,
@@ -88,8 +88,8 @@ The following 3 pairs of parts of speech are connected with `discourse`: <tt><a 
 6	、	、	PUNCT	補助記号-読点	_	4	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=No|UnidicInfo=,、,、,、,,,,,,、
 7	団車	檀尻	NOUN	名詞-普通名詞-一般	_	15	nsubj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=,檀尻,団車,団車,ダンジリ,,,ダンジリ,ダンジリ,檀尻
 8	は	は	ADP	助詞-係助詞	_	7	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,は,は,は,ワ,,,ハ,ハ,は
-9	「	「	PUNCT	補助記号-括弧開	_	7	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=No|UnidicInfo=,「,「,「,,,,,,「
-10	アラヨーイトナ	_	INTJ	感動詞-一般	_	13	discourse	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=;,あら;,アラ;ヨーイトナ,アラ;,アラ;,;,;,アラ;,,
+9	「	「	PUNCT	補助記号-括弧開	_	10	punct	_	BunsetuBILabel=B|BunsetuPositionType=CONT|SpaceAfter=No|UnidicInfo=,「,「,「,,,,,,「
+10	アラヨーイトナ	_	INTJ	感動詞-一般	_	13	discourse	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=;,あら;,アラ;ヨーイトナ,アラ;,アラ;,;,;,アラ;,,
 11	」	」	PUNCT	補助記号-括弧閉	_	10	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=No|UnidicInfo=,」,」,」,,,,,,」
 12	の	の	ADP	助詞-格助詞	_	10	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,の,の,の,ノ,,,ノ,ノ,の
 13	掛け声	掛け声	NOUN	名詞-普通名詞-一般	_	15	obl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=,掛け声,掛け声,掛け声,カケゴエ,,,カケゴエ,カケゴエ,掛け声

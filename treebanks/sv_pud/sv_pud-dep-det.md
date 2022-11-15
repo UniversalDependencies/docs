@@ -71,7 +71,7 @@ The following 7 pairs of parts of speech are connected with `det`: <tt><a href="
 7	Plaza	Plaza	NOUN	NN|SIN	Number=Sing	3	obl	3:obl:på	_
 8	de	De	ADP	PP	_	10	case	10:case	_
 9	las	las	DET	DT|DEF	Definite=Def	10	det	10:det	_
-10	Victorias	Victorias	PROPN	PM|PLU	Number=Plur	7	nmod	7:nmod:de	SpaceAfter=No
+10	Victorias	Victorias	PROPN	PM|PLU	Number=Plur	7	nmod	7:nmod	SpaceAfter=No
 11	.	.	PUNCT	MAD	_	3	punct	3:punct	_
 
 ~~~

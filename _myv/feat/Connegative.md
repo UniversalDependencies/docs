@@ -29,4 +29,4 @@ Note that there is no `No` value. If the word is not connegative, the
 * [myv] _апак <b>сода</b>_ "un-<b>known</b> (Conv/Part)"
 * [myv] _апак содань_ "un-known</b> (Part)"
 
-<!-- Interlanguage links updated So kvě 14 19:02:08 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:42 CET 2022 -->

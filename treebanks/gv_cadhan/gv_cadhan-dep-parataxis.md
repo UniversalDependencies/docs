@@ -22,20 +22,17 @@ The following 10 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 7 parataxis	color:blue
-1	As	as	CCONJ	_	_	2	cc	_	_
-2	dooyrt	abbyr	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
-3	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	2	nsubj	_	_
-4	rish	rish	ADP	_	_	5	case	_	_
-5	scollag	scollag	NOUN	_	_	2	obl	_	SpaceAfter=No
-6	,	,	PUNCT	_	_	7	punct	_	_
-7	Cur	cur	VERB	_	Mood=Imp|Number=Sing|Person=2	2	parataxis	_	_
-8	lesh	lesh	ADP	_	_	9	case	_	_
-9	oo	oo	PRON	_	Number=Sing|Person=2	7	obl	_	_
-10	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	7	obj	_	_
-11	gys	gys	ADP	_	_	13	case	_	_
-12	e	e	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	13	nmod:poss	_	_
-13	voir	moir	NOUN	_	Form=Len	7	obl	_	SpaceAfter=No
-14	.	.	PUNCT	_	_	2	punct	_	_
+1	"	"	PUNCT	_	_	2	punct	_	SpaceAfter=No
+2	Gow	gow	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
+3	my	my	DET	_	Number=Sing|Person=1|Poss=Yes	4	nmod:poss	_	_
+4	leshtal	leshtal	NOUN	_	_	2	obj	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	2	punct	_	SpaceAfter=No
+6	"	"	PUNCT	_	_	2	punct	_	_
+7	as	as	VERB	_	Mood=Ind|Tense=Past	2	parataxis	_	_
+8	Joe	Joe	PROPN	_	_	7	nsubj	_	_
+9	dy	dy	PART	_	PartType=Ad	10	mark	_	_
+10	treih	treih	ADJ	_	_	7	advmod	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 

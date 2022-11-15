@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-9183 nodes (5%) are attached to their parents as `advcl`.
+9675 nodes (5%) are attached to their parents as `advcl`.
 
-4883 instances of `advcl` (53%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.47696831100947.
+5006 instances of `advcl` (52%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.44423772609819.
 
-The following 23 pairs of parts of speech are connected with `advcl`: <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (8505; 93% instances), <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt> (182; 2% instances), <tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (178; 2% instances), <tt><a href="grc_perseus-pos-ADV.html">ADV</a></tt>-<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (97; 1% instances), <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt> (79; 1% instances), <tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (68; 1% instances), <tt><a href="grc_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (21; 0% instances), <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_perseus-pos-PRON.html">PRON</a></tt> (10; 0% instances), <tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt> (8; 0% instances), <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_perseus-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="grc_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="grc_perseus-pos-ADV.html">ADV</a></tt>-<tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="grc_perseus-pos-ADP.html">ADP</a></tt>-<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="grc_perseus-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="grc_perseus-pos-PART.html">PART</a></tt>-<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="grc_perseus-pos-X.html">X</a></tt>-<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="grc_perseus-pos-ADV.html">ADV</a></tt>-<tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="grc_perseus-pos-DET.html">DET</a></tt>-<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 24 pairs of parts of speech are connected with `advcl`: <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (8836; 91% instances), <tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (289; 3% instances), <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt> (182; 2% instances), <tt><a href="grc_perseus-pos-ADV.html">ADV</a></tt>-<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (115; 1% instances), <tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (83; 1% instances), <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt> (79; 1% instances), <tt><a href="grc_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (38; 0% instances), <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_perseus-pos-PRON.html">PRON</a></tt> (10; 0% instances), <tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt> (8; 0% instances), <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_perseus-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="grc_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="grc_perseus-pos-ADV.html">ADV</a></tt>-<tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="grc_perseus-pos-ADP.html">ADP</a></tt>-<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="grc_perseus-pos-PART.html">PART</a></tt>-<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="grc_perseus-pos-X.html">X</a></tt>-<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="grc_perseus-pos-ADV.html">ADV</a></tt>-<tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="grc_perseus-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="grc_perseus-pos-DET.html">DET</a></tt>-<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt>-<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -35,6 +35,27 @@ The following 23 pairs of parts of speech are connected with `advcl`: <tt><a hre
 
 
 ~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 9 advcl	color:blue
+1	ὥστε	ὥστε	ADV	d--------	_	2	advmod	_	_
+2	φαμὲν	φημί	VERB	v1ppia---	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	οὐχ	οὐ	ADV	d--------	_	4	advmod	_	_
+4	ἧσσον	ἥσσων	ADJ	a-s---nac	Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing	6	advmod	_	_
+5	αὐτοὶ	αὐτός	PRON	p-p---mn-	Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	_
+6	ὠφελῆσαι	ὠφελέω	VERB	v--ana---	Tense=Past|VerbForm=Inf|Voice=Act	2	ccomp	_	_
+7	ὑμᾶς	σύ	PRON	p-p---ma-	Case=Acc|Gender=Masc|Number=Plur	6	obj	_	_
+8	ἢ	ἤ	CCONJ	c--------	_	9	mark	_	_
+9	τυχεῖν	τυγχάνω	VERB	v--ana---	Tense=Past|VerbForm=Inf|Voice=Act	4	advcl	_	_
+10	τούτου	οὗτος	PRON	p-s---ng-	Case=Gen|Gender=Neut|Number=Sing	9	obj	_	SpaceAfter=No
+11	.	.	PUNCT	u--------	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 1	bgColor:blue
@@ -48,31 +69,8 @@ The following 23 pairs of parts of speech are connected with `advcl`: <tt><a hre
 6	καὶ	καί	ADV	d--------	_	7	advmod	_	_
 7	πρότερον	πρότερος	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	8	advmod	_	_
 8	ὑπήκοοι	ὑπήκοος	ADJ	a-p---mn-	Case=Nom|Gender=Masc|Number=Plur	1	advcl	_	_
-9	εἶναι	εἰμί	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	8	cop	_	SpaceAfter=No
+9	εἶναι	εἰμί	AUX	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	8	cop	_	SpaceAfter=No
 10	.	.	PUNCT	u--------	_	1	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 12 advcl	color:blue
-1	καὶ	καί	ADV	d--------	_	2	advmod	_	_
-2	δήλη	δῆλος	ADJ	a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
-3	ἡ	ὁ	DET	l-s---fn-	Case=Nom|Gender=Fem|Number=Sing	4	det	_	_
-4	οἰκοδομία	οἰκοδομία	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
-5	ἔτι	ἔτι	ADV	d--------	_	6	advmod	_	_
-6	καὶ	καί	ADV	d--------	_	7	advmod	_	_
-7	νῦν	νῦν	ADV	d--------	_	2	advmod	_	_
-8	ἐστὶν	εἰμί	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	_
-9	ὅτι	ὅτι	SCONJ	c--------	_	12	mark	_	_
-10	κατὰ	κατά	ADP	r--------	_	11	case	_	_
-11	σπουδὴν	σπουδή	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	12	obl	_	_
-12	ἐγένετο	γίγνομαι	VERB	v3saim---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	2	advcl	_	SpaceAfter=No
-13	·	·	PUNCT	u--------	_	2	punct	_	_
 
 ~~~
 

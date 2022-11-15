@@ -11,10 +11,10 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="fi_ood-feat-Number.html">Number</a></tt>, <tt><a href="fi_ood-feat-Number-psor.html">Number[psor]</a></tt>.
 
-11792 tokens (61%) have a non-empty value of `Number`.
+11790 tokens (61%) have a non-empty value of `Number`.
 7386 types (90%) occur at least once with a non-empty value of `Number`.
 4231 lemmas (81%) occur at least once with a non-empty value of `Number`.
-The feature is used with 10 part-of-speech tags: <tt><a href="fi_ood-pos-NOUN.html">NOUN</a></tt> (5040; 26% instances), <tt><a href="fi_ood-pos-VERB.html">VERB</a></tt> (2374; 12% instances), <tt><a href="fi_ood-pos-ADJ.html">ADJ</a></tt> (1279; 7% instances), <tt><a href="fi_ood-pos-PRON.html">PRON</a></tt> (1044; 5% instances), <tt><a href="fi_ood-pos-AUX.html">AUX</a></tt> (997; 5% instances), <tt><a href="fi_ood-pos-PROPN.html">PROPN</a></tt> (965; 5% instances), <tt><a href="fi_ood-pos-NUM.html">NUM</a></tt> (82; 0% instances), <tt><a href="fi_ood-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="fi_ood-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="fi_ood-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The feature is used with 10 part-of-speech tags: <tt><a href="fi_ood-pos-NOUN.html">NOUN</a></tt> (5040; 26% instances), <tt><a href="fi_ood-pos-VERB.html">VERB</a></tt> (2374; 12% instances), <tt><a href="fi_ood-pos-ADJ.html">ADJ</a></tt> (1279; 7% instances), <tt><a href="fi_ood-pos-PRON.html">PRON</a></tt> (1042; 5% instances), <tt><a href="fi_ood-pos-AUX.html">AUX</a></tt> (997; 5% instances), <tt><a href="fi_ood-pos-PROPN.html">PROPN</a></tt> (965; 5% instances), <tt><a href="fi_ood-pos-NUM.html">NUM</a></tt> (82; 0% instances), <tt><a href="fi_ood-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="fi_ood-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="fi_ood-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -109,14 +109,14 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 ### `PRON`
 
-1044 <tt><a href="fi_ood-pos-PRON.html">PRON</a></tt> tokens (99% of all `PRON` tokens) have a non-empty value of `Number`.
+1042 <tt><a href="fi_ood-pos-PRON.html">PRON</a></tt> tokens (99% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="fi_ood-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (872; 84%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="fi_ood-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (870; 83%).
 
 `PRON` tokens may have the following values of `Number`:
 
 * `Plur` (208; 20% of non-empty `Number`): <em>ne, niitä, jotka, he, meidän, heidän, me, joilla, kaikille, meillä</em>
-* `Sing` (836; 80% of non-empty `Number`): <em>se, sen, joka, hän, kaikki, mitä, sitä, muuta, tällä, tämä</em>
+* `Sing` (834; 80% of non-empty `Number`): <em>se, sen, joka, hän, kaikki, mitä, sitä, muuta, tällä, tämä</em>
 * `EMPTY` (6): <em>Itse, Meilläkin, itsessään, jotenki, kaikkea, varsinki</em>
 
 <table>
@@ -248,7 +248,7 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 * `Plur` (1; 17% of non-empty `Number`): <em>hoitolinjoin</em>
 * `Sing` (5; 83% of non-empty `Number`): <em>aika, itelläni, kipuun, kumma, muun</em>
-* `EMPTY` (1970): <em>myös, niin, hyvin, nyt, ok, kuitenkin, jo, vain, hieman, paljon</em>
+* `EMPTY` (1972): <em>myös, niin, hyvin, nyt, ok, kuitenkin, jo, vain, hieman, paljon</em>
 
 ### `X`
 

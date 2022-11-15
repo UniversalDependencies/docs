@@ -61,7 +61,7 @@ The 10 most frequent ambiguous types:  <em>in</em> (<tt><a href="la_ittb-pos-ADP
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.066667 (the average of all parts of speech is 3.337297).
+The form / lemma ratio of `ADP` is 1.066667 (the average of all parts of speech is 3.338645).
 
 The 1st highest number of forms (2) was observed with the lemma “ab”: <em>a, ab</em>.
 
@@ -69,20 +69,20 @@ The 2nd highest number of forms (2) was observed with the lemma “aduersus”: 
 
 The 3rd highest number of forms (2) was observed with the lemma “ex”: <em>e, ex</em>.
 
-`ADP` occurs with 1 features: <tt><a href="la_ittb-feat-AdpType.html">AdpType</a></tt> (39702; 100% instances)
+`ADP` occurs with 1 features: <tt><a href="la_ittb-feat-PronType.html">PronType</a></tt> (1; 0% instances)
 
-`ADP` occurs with 1 feature-value pairs: `AdpType=Prep`
+`ADP` occurs with 1 feature-value pairs: `PronType=Rel`
 
 `ADP` occurs with 2 feature combinations.
-The most frequent feature combination is `AdpType=Prep` (39702 tokens).
+The most frequent feature combination is `_` (39715 tokens).
 Examples: <em>in, ad, per, ex, secundum, a, de, ab, propter, cum</em>
 
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 10 different relations: <tt><a href="la_ittb-dep-case.html">case</a></tt> (37004; 93% instances), <tt><a href="la_ittb-dep-mark.html">mark</a></tt> (2585; 7% instances), <tt><a href="la_ittb-dep-fixed.html">fixed</a></tt> (88; 0% instances), <tt><a href="la_ittb-dep-nmod.html">nmod</a></tt> (13; 0% instances), <tt><a href="la_ittb-dep-root.html">root</a></tt> (12; 0% instances), <tt><a href="la_ittb-dep-conj.html">conj</a></tt> (6; 0% instances), <tt><a href="la_ittb-dep-orphan.html">orphan</a></tt> (3; 0% instances), <tt><a href="la_ittb-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="la_ittb-dep-obl-arg.html">obl:arg</a></tt> (2; 0% instances), <tt><a href="la_ittb-dep-nsubj.html">nsubj</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 10 different relations: <tt><a href="la_ittb-dep-case.html">case</a></tt> (37006; 93% instances), <tt><a href="la_ittb-dep-mark.html">mark</a></tt> (2583; 7% instances), <tt><a href="la_ittb-dep-fixed.html">fixed</a></tt> (88; 0% instances), <tt><a href="la_ittb-dep-nmod.html">nmod</a></tt> (13; 0% instances), <tt><a href="la_ittb-dep-root.html">root</a></tt> (12; 0% instances), <tt><a href="la_ittb-dep-conj.html">conj</a></tt> (6; 0% instances), <tt><a href="la_ittb-dep-orphan.html">orphan</a></tt> (3; 0% instances), <tt><a href="la_ittb-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="la_ittb-dep-obl-arg.html">obl:arg</a></tt> (2; 0% instances), <tt><a href="la_ittb-dep-nsubj.html">nsubj</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 13 different parts of speech: <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (24642; 62% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (4684; 12% instances), <tt><a href="la_ittb-pos-DET.html">DET</a></tt> (3766; 9% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (2272; 6% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (2057; 5% instances), <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> (1142; 3% instances), <tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (511; 1% instances), <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> (205; 1% instances), <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (184; 0% instances), <tt><a href="la_ittb-pos-PART.html">PART</a></tt> (151; 0% instances), <tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> (89; 0% instances),  (12; 0% instances), <tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Parents of `ADP` nodes belong to 14 different parts of speech: <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (24623; 62% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (4683; 12% instances), <tt><a href="la_ittb-pos-DET.html">DET</a></tt> (4022; 10% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (2272; 6% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (1949; 5% instances), <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> (1143; 3% instances), <tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (382; 1% instances), <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> (198; 0% instances), <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (184; 0% instances), <tt><a href="la_ittb-pos-PART.html">PART</a></tt> (152; 0% instances), <tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> (89; 0% instances),  (12; 0% instances), <tt><a href="la_ittb-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
 38963 (98%) `ADP` nodes are leaves.
 
@@ -96,5 +96,5 @@ The highest child degree of a `ADP` node is 5.
 
 Children of `ADP` nodes are attached using 16 different relations: <tt><a href="la_ittb-dep-fixed.html">fixed</a></tt> (696; 87% instances), <tt><a href="la_ittb-dep-punct.html">punct</a></tt> (49; 6% instances), <tt><a href="la_ittb-dep-cc.html">cc</a></tt> (15; 2% instances), <tt><a href="la_ittb-dep-conj.html">conj</a></tt> (7; 1% instances), <tt><a href="la_ittb-dep-obl.html">obl</a></tt> (6; 1% instances), <tt><a href="la_ittb-dep-advmod-emph.html">advmod:emph</a></tt> (5; 1% instances), <tt><a href="la_ittb-dep-conj-expl.html">conj:expl</a></tt> (3; 0% instances), <tt><a href="la_ittb-dep-nmod.html">nmod</a></tt> (3; 0% instances), <tt><a href="la_ittb-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="la_ittb-dep-advmod-neg.html">advmod:neg</a></tt> (2; 0% instances), <tt><a href="la_ittb-dep-case.html">case</a></tt> (2; 0% instances), <tt><a href="la_ittb-dep-mark.html">mark</a></tt> (2; 0% instances), <tt><a href="la_ittb-dep-cop.html">cop</a></tt> (1; 0% instances), <tt><a href="la_ittb-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="la_ittb-dep-obl-arg.html">obl:arg</a></tt> (1; 0% instances), <tt><a href="la_ittb-dep-orphan.html">orphan</a></tt> (1; 0% instances)
 
-Children of `ADP` nodes belong to 12 different parts of speech: <tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> (601; 76% instances), <tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> (89; 11% instances), <tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (49; 6% instances), <tt><a href="la_ittb-pos-CCONJ.html">CCONJ</a></tt> (14; 2% instances), <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> (11; 1% instances), <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (11; 1% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (10; 1% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="la_ittb-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="la_ittb-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (1; 0% instances)
+Children of `ADP` nodes belong to 12 different parts of speech: <tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> (601; 76% instances), <tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> (89; 11% instances), <tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (49; 6% instances), <tt><a href="la_ittb-pos-CCONJ.html">CCONJ</a></tt> (15; 2% instances), <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (11; 1% instances), <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> (10; 1% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (10; 1% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="la_ittb-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="la_ittb-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (1; 0% instances)
 

@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-2630 tokens (10%) have a non-empty value of `Person`.
-1380 types (12%) occur at least once with a non-empty value of `Person`.
+2640 tokens (10%) have a non-empty value of `Person`.
+1382 types (12%) occur at least once with a non-empty value of `Person`.
 423 lemmas (9%) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (1454; 5% instances), <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> (845; 3% instances), <tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> (331; 1% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (1456; 5% instances), <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> (850; 3% instances), <tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> (334; 1% instances).
 
 ### `VERB`
 
-1454 <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> tokens (56% of all `VERB` tokens) have a non-empty value of `Person`.
+1456 <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> tokens (56% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1443; 99%), <tt><a href="orv_birchbark-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1442; 99%), <tt><a href="orv_birchbark-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1302; 90%), <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1212; 83%), <tt><a href="orv_birchbark-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (731; 50%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1445; 99%), <tt><a href="orv_birchbark-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1444; 99%), <tt><a href="orv_birchbark-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1304; 90%), <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1214; 83%), <tt><a href="orv_birchbark-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (732; 50%).
 
 `VERB` tokens may have the following values of `Person`:
 
-* `1` (255; 18% of non-empty `Person`): <em>кланѧюсѧ, буду, покланѧю, бию, бью), бѣю, пишю, даю, кланѧю, молю</em>
-* `2` (846; 58% of non-empty `Person`): <em>даи, возми, възьми, пришли, посли, присъли, иди, купи, молови, присли</em>
+* `1` (256; 18% of non-empty `Person`): <em>кланѧюсѧ, буду, покланѧю, бию, бью), бѣю, пишю, даю, кланѧю, молю</em>
+* `2` (847; 58% of non-empty `Person`): <em>даи, возми, възьми, пришли, посли, присъли, иди, купи, молови, присли</em>
 * `3` (353; 24% of non-empty `Person`): <em>буде, бѹде, въ, дасть, бѹдѹ, въскрьсѣ, дасте, поидеть, прода, хотѧ</em>
-* `EMPTY` (1127): <em>далъ, шло, възѧле, дале, послале, взѧле, въдале, дала, дати, нѣ</em>
+* `EMPTY` (1133): <em>далъ, шло, възѧле, дале, послале, въдале, взѧле, дала, дати, нѣ</em>
 
 <table>
   <tr><th>Paradigm <i>взѧти</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -40,16 +40,16 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `PRON`
 
-845 <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> tokens (67% of all `PRON` tokens) have a non-empty value of `Person`.
+850 <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> tokens (67% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="orv_birchbark-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (845; 100%), <tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (838; 99%), <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (723; 86%), <tt><a href="orv_birchbark-feat-Clitic.html">Clitic</a></tt><tt>=EMPTY</tt> (638; 76%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="orv_birchbark-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (849; 100%), <tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (843; 99%), <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (728; 86%), <tt><a href="orv_birchbark-feat-Clitic.html">Clitic</a></tt><tt>=EMPTY</tt> (643; 76%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (483; 57% of non-empty `Person`): <em>ми, ѧ, мене, мнѣ, ѧзъ, мѧ, ѧзо, намъ, мною, насъ</em>
-* `2` (352; 42% of non-empty `Person`): <em>тꙑ, ти, тобѣ, тѧ, тебе, тобе, вꙑ, тоби, тобою, вамъ</em>
+* `1` (486; 57% of non-empty `Person`): <em>ми, ѧ, мене, мнѣ, ѧзъ, мѧ, ѧзо, намъ, мною, насъ</em>
+* `2` (354; 42% of non-empty `Person`): <em>тꙑ, ти, тобѣ, тѧ, тебе, тобе, вꙑ, тоби, тобою, вамъ</em>
 * `3` (10; 1% of non-empty `Person`): <em>то, томъ, тебѣ, тобе, томо, ѥго</em>
-* `EMPTY` (413): <em>сѧ, что, цто, ѥго, его, собѣ, цето, емѹ, ю, него</em>
+* `EMPTY` (415): <em>сѧ, что, цто, ѥго, его, собѣ, цето, емѹ, ю, него</em>
 
 <table>
   <tr><th>Paradigm <i>ты</i></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -62,19 +62,19 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
   <tr><td><tt><tt><a href="orv_birchbark-feat-Case.html">Case</a></tt><tt>=Ins</tt></tt></td><td><em>тобою, то, то(бою), то[бою], тоб(ою), тобо, тобо(ю</em></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_birchbark-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td></td><td><em>томъ, томо</em></td></tr>
   <tr><td><tt><tt><a href="orv_birchbark-feat-Case.html">Case</a></tt><tt>=Loc</tt></tt></td><td><em>то[бѣ, тобе, тобѣ, ть<lbr/>бь</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_birchbark-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>тꙑ, тъ, (тꙑ, [т]ꙑ, т<lbr/>ꙑ, т]ꙑ, тꙑ]</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_birchbark-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>тꙑ, тъ, (тꙑ, [т]ꙑ, т<lbr/>ꙑ, т]ꙑ, ты, тꙑ]</em></td><td></td></tr>
 </table>
 
 ### `AUX`
 
-331 <tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> tokens (89% of all `AUX` tokens) have a non-empty value of `Person`.
+334 <tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> tokens (89% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="orv_birchbark-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (331; 100%), <tt><a href="orv_birchbark-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (324; 98%), <tt><a href="orv_birchbark-feat-Analyt.html">Analyt</a></tt><tt>=Yes</tt> (307; 93%), <tt><a href="orv_birchbark-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (281; 85%), <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (280; 85%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="orv_birchbark-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (334; 100%), <tt><a href="orv_birchbark-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (327; 98%), <tt><a href="orv_birchbark-feat-Analyt.html">Analyt</a></tt><tt>=Yes</tt> (310; 93%), <tt><a href="orv_birchbark-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (284; 85%), <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (283; 85%).
 
 `AUX` tokens may have the following values of `Person`:
 
 * `1` (137; 41% of non-empty `Person`): <em>есмь, ѥсмь, есемо, ѥсме, есме, есвѣ, есьмъ, ѥсемь, ѥсми, есмо</em>
-* `2` (138; 42% of non-empty `Person`): <em>еси, ѥси, есте, еста, ѥсте, будешь, е<lbr/>си, есть, (еси, (ѥ)[си]</em>
+* `2` (141; 42% of non-empty `Person`): <em>еси, ѥси, есте, еста, ѥсте, будешь, е<lbr/>си, есть, (еси, (ѥ)[си]</em>
 * `3` (56; 17% of non-empty `Person`): <em>есть, бꙑ, есте, буде, е, будь, бꙋде, е<lbr/>сть, [бе]шь, б]ѹде</em>
 * `EMPTY` (41): <em>бꙑ, бꙑло, бꙑлъ, бъ, бꙑле, бꙑла, (бꙑ)<lbr/>ло, б(у)[д](е, б[уд]…, б[ꙑ]<lbr/>ло</em>
 
@@ -107,7 +107,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="orv_birchbark-dep-conj.html">conj</a></tt>]--> VERB</tt> (140; 61%),
-<tt>VERB --[<tt><a href="orv_birchbark-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (135; 69%),
+<tt>VERB --[<tt><a href="orv_birchbark-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (137; 70%),
 <tt>PRON --[<tt><a href="orv_birchbark-dep-orphan.html">orphan</a></tt>]--> AUX</tt> (3; 75%),
 <tt>PRON --[<tt><a href="orv_birchbark-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (1; 100%),
 <tt>VERB --[<tt><a href="orv_birchbark-dep-appos.html">appos</a></tt>]--> VERB</tt> (1; 100%),

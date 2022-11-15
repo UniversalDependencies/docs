@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-113 nodes (0%) are attached to their parents as `nummod`.
+158 nodes (0%) are attached to their parents as `nummod`.
 
-109 instances of `nummod` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.15929203539823.
+154 instances of `nummod` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.12025316455696.
 
-The following 3 pairs of parts of speech are connected with `nummod`: <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt> (109; 96% instances), <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt> (3; 3% instances), <tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt> (1; 1% instances).
+The following 3 pairs of parts of speech are connected with `nummod`: <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt> (155; 98% instances), <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="fr_parisstories-pos-X.html">X</a></tt>-<tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -51,7 +51,7 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 9	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
 10	commence	commencer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 11	à	à	ADP	_	_	12	mark	_	_
-12	aller	aller	VERB	_	VerbForm=Inf	10	xcomp	_	_
+12	aller	aller	VERB	_	VerbForm=Inf	10	xcomp	_	Subject=SubjRaising
 13	à	à	ADP	_	_	15	case	_	_
 14	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 15	salle	salle	NOUN	_	Gender=Fem|Number=Sing	12	obl:arg	_	_
@@ -61,7 +61,7 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 19	donc	donc	ADV	_	_	22	discourse	_	SpaceAfter=No
 20	,	,	PUNCT	_	_	19	punct	_	_
 21	à	à	ADP	_	_	22	mark	_	_
-22	prendre	prendre	VERB	_	VerbForm=Inf	12	conj	_	_
+22	prendre	prendre	VERB	_	VerbForm=Inf	12	conj	_	Subject=SubjRaising
 23	mes	son	DET	_	Number[psor]=Plur|Person[psor]=1|PronType=Prs	24	det	_	_
 24	marques	marque	NOUN	_	Gender=Fem|Number=Plur	22	obj	_	_
 25	etc	etc	ADV	_	_	24	conj	_	SpaceAfter=No|wordform=etcétéra
@@ -71,31 +71,21 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 nummod	color:blue
-1	et	et	CCONJ	_	_	3	cc	_	_
-2	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	SpaceAfter=No
-3	avais	avoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
-4	donc	donc	ADV	_	_	3	advmod	_	_
-5	euh	euh	INTJ	_	_	10	discourse	_	_
-6	trois	trois	NUM	_	Number=Plur	7	nummod	_	_
-7	mille	mille	NUM	_	Number=Plur	8	nummod	_	_
-8	kilomètres	kilomètre	NOUN	_	Gender=Masc|Number=Plur	10	obj	_	_
-9	à	à	ADP	_	_	10	mark	_	_
-10	faire	faire	VERB	_	VerbForm=Inf	3	ccomp	_	SpaceAfter=No
-11	,	,	PUNCT	_	_	13	punct	_	_
-12	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_
-13	crois	croire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	discourse	_	SpaceAfter=No
-14	,	,	PUNCT	_	_	16	punct	_	_
-15	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	16	nsubj	_	_
-16	suis	être	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	reparandum	_	_
-17	plus	plus	ADV	_	_	16	advmod	_	_
-18	très	très	ADV	_	_	19	advmod	_	_
-19	sûr	sûr	ADJ	_	Gender=Masc|Number=Sing	16	xcomp	_	SpaceAfter=No
-20	.	.	PUNCT	_	_	3	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 nummod	color:blue
+1	quatre-vingt	quatre-vingt	NUM	_	_	2	nummod	_	AlignBegin=58217|AlignEnd=58590
+2	s~	s~	X	_	_	7	reparandum	_	AlignBegin=58590|AlignEnd=58963|SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	AlignBegin=58963|AlignEnd=58963
+4	euh	euh	INTJ	_	_	2	discourse	_	AlignBegin=58963|AlignEnd=59337|SpaceAfter=No
+5	,	,	PUNCT	_	_	7	punct	_	AlignBegin=59337|AlignEnd=59337
+6	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	AlignBegin=59337|AlignEnd=59710
+7	génération	génération	NOUN	_	Gender=Fem|Number=Sing	0	root	_	AlignBegin=59710|AlignEnd=60083|SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	AlignBegin=60083|AlignEnd=60083
+9	euh	euh	INTJ	_	_	7	discourse	_	AlignBegin=60083|AlignEnd=60456
+10	…	…	PUNCT	_	_	7	punct	_	AlignBegin=60456|AlignEnd=60456
 
 ~~~
 

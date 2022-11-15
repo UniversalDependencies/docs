@@ -67,7 +67,7 @@ The following 7 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 7 amod	color:blue
-1	Das	_	PRON	PDS	_	2	nsubj	_	_
+1	Das	_	PRON	PDS	_	2	expl	_	_
 2	gitt	_	VERB	VVFIN	_	0	root	_	_
 3	üüs	_	PRON	PPER	_	2	iobj	_	_
 4	jedäs	_	DET	PIAT	_	5	det	_	_

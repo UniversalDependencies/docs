@@ -12,9 +12,9 @@ There are also 2 other language-specific subtypes of `compound`: <tt><a href="pc
 1277 nodes (1%) are attached to their parents as `compound:svc`.
 
 1277 instances of `compound:svc` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.85591229444009.
+Average distance between parent and child is 1.8770555990603.
 
-The following 10 pairs of parts of speech are connected with `compound:svc`: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (1237; 97% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (24; 2% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-X.html">X</a></tt> (7; 1% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `compound:svc`: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (1242; 97% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (24; 2% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -24,18 +24,18 @@ The following 10 pairs of parts of speech are connected with `compound:svc`: <tt
 # visual-style 5	fgColor:white
 # visual-style 5 7 compound:svc	color:blue
 1	#	#	X	_	_	4	dep	_	AlignBegin=10145|AlignEnd=10516|Gloss=PUNCT
-2	sey	sey	SCONJ	_	_	4	discourse	_	AlignBegin=10516|AlignEnd=10640|Gloss=COMP|SyllableCount=1|WordContour=hh
-3	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	AlignBegin=10640|AlignEnd=10679|Gloss=NOM.SG.3|SyllableCount=1|WordContour=hh
-4	wan	want	VERB	_	_	0	root	_	AlignBegin=10679|AlignEnd=10850|Gloss=want|SyllableCount=1|WordContour=mm
-5	carry	carry	VERB	_	_	4	xcomp	_	AlignBegin=10850|AlignEnd=11170|Gloss=carry|SyllableCount=2|WordContour=hm
-6	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	obj	_	AlignBegin=11170|AlignEnd=11370|Gloss=ACC.SG.1|SyllableCount=1|WordContour=mm
-7	go	go	VERB	_	_	5	compound:svc	_	AlignBegin=11370|AlignEnd=11503|Gloss=go|SyllableCount=1|WordContour=mm
-8	meh	make	SCONJ	_	_	10	mark	_	AlignBegin=11533|AlignEnd=11710|Gloss=that|SyllableCount=1|WordContour=mmh2
-9	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	AlignBegin=11710|AlignEnd=11770|Gloss=NOM.SG.3|SyllableCount=1|WordContour=mm
-10	go	go	VERB	_	_	5	advcl	_	AlignBegin=11770|AlignEnd=12120|Gloss=go|SyllableCount=1|WordContour=mm
-11	train	train	VERB	_	_	10	compound:svc	_	AlignBegin=12120|AlignEnd=12430|Gloss=train|SyllableCount=1|WordContour=mm
-12	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	11	obj	_	AlignBegin=12430|AlignEnd=12550|Gloss=ACC.SG.1|SyllableCount=1|WordContour=ml
-13	//	//	X	_	_	4	dep	_	AlignBegin=12550|AlignEnd=12580|Gloss=PUNCT
+2	sey	sey	SCONJ	_	_	4	discourse	_	AlignBegin=10516|AlignEnd=10640|Gloss=COMP|LeftOverlap=False|RightOverlap=True|Syl1=hh|SyllableCount=1|WordContour=hh
+3	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	AlignBegin=10640|AlignEnd=10679|Gloss=NOM.SG.3|LeftOverlap=True|RightOverlap=False|Syl1=hh|SyllableCount=1|WordContour=hh
+4	wan	want	VERB	_	_	0	root	_	AlignBegin=10679|AlignEnd=10850|Gloss=want|LeftOverlap=False|RightOverlap=False|Syl1=mm|SyllableCount=1|WordContour=mm
+5	carry	carry	VERB	_	_	4	xcomp	_	AlignBegin=10850|AlignEnd=11170|Gloss=carry|LeftOverlap=False|RightOverlap=False|Syl1=hh|Syl2=mm|SyllableCount=2|WordContour=hm
+6	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	obj	_	AlignBegin=11170|AlignEnd=11370|Gloss=ACC.SG.1|LeftOverlap=False|RightOverlap=False|Syl1=mm|SyllableCount=1|WordContour=mm
+7	go	go	VERB	_	_	5	compound:svc	_	AlignBegin=11370|AlignEnd=11533|Gloss=go|LeftOverlap=False|RightOverlap=False|Syl1=mm|SyllableCount=1|WordContour=mm
+8	meh	make	SCONJ	_	_	10	mark	_	AlignBegin=11533|AlignEnd=11710|Gloss=that|LeftOverlap=False|RightOverlap=True|Syl1=mm|SyllableCount=1|WordContour=mmh2
+9	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	AlignBegin=11710|AlignEnd=11770|Gloss=NOM.SG.3|LeftOverlap=True|RightOverlap=False|Syl1=mm|SyllableCount=1|WordContour=mm
+10	go	go	VERB	_	_	5	advcl	_	AlignBegin=11770|AlignEnd=12120|Gloss=go|LeftOverlap=False|RightOverlap=False|Syl1=mm|SyllableCount=1|WordContour=mm
+11	train	train	VERB	_	_	10	compound:svc	_	AlignBegin=12120|AlignEnd=12430|Gloss=train|LeftOverlap=False|RightOverlap=False|Syl1=mm|SyllableCount=1|WordContour=mm
+12	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	11	obj	_	AlignBegin=12430|AlignEnd=12580|Gloss=ACC.SG.1|LeftOverlap=False|RightOverlap=False|Syl1=mm|SyllableCount=1|WordContour=ml
+13	//	//	X	_	_	4	dep	_	AlignBegin=12580|AlignEnd=12580|Gloss=PUNCT
 
 ~~~
 
@@ -48,24 +48,24 @@ The following 10 pairs of parts of speech are connected with `compound:svc`: <tt
 # visual-style 17 18 compound:svc	color:blue
 1	#	#	X	_	_	4	dep	_	AlignBegin=99810|AlignEnd=100276|Gloss=PUNCT
 2	{	{	X	_	_	4	dep	_	AlignBegin=99810|AlignEnd=100276|Gloss=PUNCT
-3	na	na	AUX	_	PartType=Cop	4	cop	_	AlignBegin=100276|AlignEnd=100388|Gloss=be|SyllableCount=1
-4	dem	dem	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	0	root	_	AlignBegin=100388|AlignEnd=100526|Gloss=NOM.PL.3|SyllableCount=1
-5	||	||	X	_	_	7	dep	_	AlignBegin=100526|AlignEnd=100556|Gloss=PUNCT
-6	na	na	AUX	_	PartType=Cop	7	cop	_	AlignBegin=100556|AlignEnd=100707|Gloss=be|SyllableCount=1
-7	dem	dem	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	reparandum	_	AlignBegin=100707|AlignEnd=100850|Gloss=NOM.PL.3|SyllableCount=1
-8	fi~	X	X	_	_	7	advcl:cleft	_	AlignBegin=100850|AlignEnd=101022|Gloss=X|Scrap=Yes|SyllableCount=1
-9	||	||	X	_	_	11	dep	_	AlignBegin=101022|AlignEnd=101052|Gloss=PUNCT
-10	na	na	AUX	_	PartType=Cop	11	cop	_	AlignBegin=101052|AlignEnd=101178|Gloss=be|SyllableCount=1
-11	dem	dem	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	reparandum	_	AlignBegin=101178|AlignEnd=101285|Gloss=NOM.PL.3|SyllableCount=1
-12	||	||	X	_	_	14	dep	_	AlignBegin=101285|AlignEnd=101315|Gloss=PUNCT
-13	na	na	AUX	_	PartType=Cop	14	cop	_	AlignBegin=101315|AlignEnd=101485|Gloss=be|SyllableCount=1
-14	dem	dem	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	10	reparandum	_	AlignBegin=101485|AlignEnd=101609|Gloss=ACC.PL.3|SyllableCount=1
-15	}	}	X	_	_	4	dep	_	AlignBegin=101609|AlignEnd=101639|Gloss=PUNCT
+3	na	na	AUX	_	PartType=Cop	4	cop	_	AlignBegin=100276|AlignEnd=100388|Gloss=be|LeftOverlap=False|RightOverlap=False|Syl1=hh|SyllableCount=1
+4	dem	dem	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	reparandum	_	AlignBegin=100388|AlignEnd=100556|Gloss=NOM.PL.3|LeftOverlap=False|RightOverlap=False|Syl1=HH|SyllableCount=1
+5	||	||	X	_	_	7	dep	_	AlignBegin=100556|AlignEnd=100556|Gloss=PUNCT
+6	na	na	AUX	_	PartType=Cop	7	cop	_	AlignBegin=100556|AlignEnd=100707|Gloss=be|LeftOverlap=False|RightOverlap=False|Syl1=LL|SyllableCount=1
+7	dem	dem	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	reparandum	_	AlignBegin=100707|AlignEnd=100850|Gloss=NOM.PL.3|LeftOverlap=False|RightOverlap=False|Syl1=LL|SyllableCount=1
+8	fi~	X	X	_	_	7	advcl:cleft	_	AlignBegin=100850|AlignEnd=101052|Gloss=X|LeftOverlap=False|RightOverlap=False|Scrap=Yes|Syl1=LL|SyllableCount=1
+9	||	||	X	_	_	11	dep	_	AlignBegin=101052|AlignEnd=101052|Gloss=PUNCT
+10	na	na	AUX	_	PartType=Cop	11	cop	_	AlignBegin=101052|AlignEnd=101178|Gloss=be|LeftOverlap=False|RightOverlap=False|Syl1=LL|SyllableCount=1
+11	dem	dem	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	reparandum	_	AlignBegin=101178|AlignEnd=101315|Gloss=NOM.PL.3|LeftOverlap=False|RightOverlap=False|Syl1=LL|SyllableCount=1
+12	||	||	X	_	_	14	dep	_	AlignBegin=101315|AlignEnd=101315|Gloss=PUNCT
+13	na	na	AUX	_	PartType=Cop	14	cop	_	AlignBegin=101315|AlignEnd=101485|Gloss=be|LeftOverlap=False|RightOverlap=False|Syl1=HH|SyllableCount=1
+14	dem	dem	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	0	root	_	AlignBegin=101485|AlignEnd=101639|Gloss=ACC.PL.3|LeftOverlap=False|RightOverlap=False|Syl1=HH|SyllableCount=1
+15	}	}	X	_	_	4	dep	_	AlignBegin=101639|AlignEnd=101639|Gloss=PUNCT
 16	>+	>+	X	_	_	17	dep	_	AlignBegin=101609|AlignEnd=101639|Gloss=PUNCT
-17	fine	fine	ADJ	_	_	14	advcl:cleft	_	AlignBegin=101639|AlignEnd=101840|Gloss=fine|SyllableCount=1
-18	pass	pass	VERB	_	_	17	compound:svc	_	AlignBegin=101840|AlignEnd=102070|Gloss=pass|SyllableCount=1
-19	ehn	ehn	INTJ	_	_	4	discourse	_	AlignBegin=102100|AlignEnd=102485|Gloss=ehn|SyllableCount=1
-20	//	//	X	_	_	4	dep	_	AlignBegin=102485|AlignEnd=102515|Gloss=PUNCT
+17	fine	fine	ADJ	_	_	14	advcl:cleft	_	AlignBegin=101639|AlignEnd=101840|Gloss=fine|LeftOverlap=False|RightOverlap=False|Syl1=HH|SyllableCount=1
+18	pass	pass	VERB	_	_	17	compound:svc	_	AlignBegin=101840|AlignEnd=102100|Gloss=pass|LeftOverlap=False|RightOverlap=False|Syl1=HH|SyllableCount=1
+19	ehn	ehn	INTJ	_	_	4	discourse	_	AlignBegin=102100|AlignEnd=102515|Gloss=ehn|LeftOverlap=False|RightOverlap=False|Syl1=hm|SyllableCount=1
+20	//	//	X	_	_	4	dep	_	AlignBegin=102515|AlignEnd=102515|Gloss=PUNCT
 
 ~~~
 
@@ -78,12 +78,12 @@ The following 10 pairs of parts of speech are connected with `compound:svc`: <tt
 # visual-style 3 4 compound:svc	color:blue
 1	naim	naim	ADV	_	_	3	advmod	_	AlignBegin=330449|AlignEnd=330528|Gloss=then|SyllableCount=2|WordContour=mm
 2	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	AlignBegin=330528|AlignEnd=330570|Gloss=NOM.SG.1|SyllableCount=1|WordContour=mm
-3	take	take	VERB	_	_	0	root	_	AlignBegin=330570|AlignEnd=330680|Gloss=take|SyllableCount=1|WordContour=mm
+3	take	take	VERB	_	_	8	reparandum	_	AlignBegin=330570|AlignEnd=330680|Gloss=take|SyllableCount=1|WordContour=mm
 4	spu~	X	X	_	_	3	compound:svc	_	AlignBegin=330680|AlignEnd=330800|Gloss=X|SyllableCount=1|WordContour=mm
 5	||	||	X	_	_	8	dep	_	AlignBegin=330800|AlignEnd=330830|Gloss=PUNCT
 6	naim	naim	ADV	_	_	8	advmod	_	AlignBegin=330830|AlignEnd=330980|Gloss=then|SyllableCount=2|WordContour=hh
 7	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	AlignBegin=330980|AlignEnd=331040|Gloss=NOM.SG.1|SyllableCount=1|WordContour=hm
-8	take	take	VERB	_	_	3	reparandum	_	AlignBegin=331040|AlignEnd=331176|Gloss=take|SyllableCount=1|WordContour=mm
+8	take	take	VERB	_	_	0	root	_	AlignBegin=331040|AlignEnd=331176|Gloss=take|SyllableCount=1|WordContour=mm
 9	speak	speak	VERB	_	_	8	compound:svc	_	AlignBegin=331176|AlignEnd=331440|Gloss=speak|SyllableCount=1|WordContour=mm
 10	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	9	obj	_	AlignBegin=331440|AlignEnd=331550|Gloss=ACC.SG.3|SyllableCount=1|WordContour=mL
 11	//	//	X	_	_	3	dep	_	AlignBegin=331550|AlignEnd=331580|Gloss=PUNCT

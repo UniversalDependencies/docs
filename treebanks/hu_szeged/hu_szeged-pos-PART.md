@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>meg</em> (<tt><a href="hu_szeged-pos-
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.503135).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.503840).
 
 The 1st highest number of forms (1) was observed with the lemma “meg”: <em>meg</em>.
 

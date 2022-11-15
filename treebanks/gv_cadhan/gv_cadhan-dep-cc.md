@@ -23,18 +23,40 @@ The following 7 pairs of parts of speech are connected with `cc`: <tt><a href="g
 # visual-style 2	fgColor:white
 # visual-style 2 1 cc	color:blue
 1	As	as	CCONJ	_	_	2	cc	_	_
-2	chroym	croym	VERB	_	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
-3	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	2	nsubj	_	_
-4	sheese	sheese	ADV	_	_	2	advmod	_	_
-5	reesht	reesht	ADV	_	_	2	advmod	_	SpaceAfter=No
-6	,	,	PUNCT	_	_	8	punct	_	_
-7	as	as	CCONJ	_	_	8	cc	_	_
-8	scrieu	scrieu	VERB	_	Mood=Ind|Tense=Past	2	conj	_	_
-9	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	8	nsubj	_	_
-10	er	er	ADP	_	_	12	case	_	_
-11	y	yn	DET	_	Definite=Def|Number=Sing|PronType=Art	12	det	_	_
-12	laare	laare	NOUN	_	_	8	obl	_	SpaceAfter=No
-13	.	.	PUNCT	_	_	2	punct	_	_
+2	jir	abbyr	VERB	_	Mood=Ind|Tense=Fut	0	root	_	_
+3	fer	fer	NOUN	_	_	2	nsubj	_	_
+4	rish	rish	ADP	_	_	5	case	_	_
+5	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	2	obl	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	Cre	cre	PRON	_	_	2	parataxis	_	_
+8	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	9	det	_	_
+9	lhottyn	lhott	NOUN	_	_	7	nmod	_	_
+10	ad	ad	PRON	_	Number=Plur|Person=3	7	nsubj	_	_
+11	shoh	shoh	DET	_	_	10	det	_	_
+12	t'	bee	VERB	_	Mood=Ind|Tense=Pres	10	acl:relcl	_	_
+13	ayns	ayns	ADP	_	_	15	case	_	_
+14	dty	dty	DET	_	Number=Sing|Person=2|Poss=Yes	15	nmod:poss	_	_
+15	laueyn	laue	NOUN	_	_	12	xcomp:pred	_	SpaceAfter=No
+16	?	?	PUNCT	_	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 cc	color:blue
+1	As	as	CCONJ	_	_	2	cc	_	_
+2	tonnyn	tonn	NOUN	_	_	0	root	_	_
+3	brimstone	brimstone	NOUN	_	_	2	nmod	_	_
+4	lheïht	lheiht	ADJ	_	_	3	amod	_	_
+5	son	son	ADP	_	_	6	case	_	_
+6	lhiabbee	lhiabbee	NOUN	_	_	2	nmod	_	_
+7	fo	fo	ADP	_	_	8	case	_	_
+8	ad	ad	PRON	_	Number=Plur|Person=3	2	nmod	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 
@@ -45,40 +67,16 @@ The following 7 pairs of parts of speech are connected with `cc`: <tt><a href="g
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 8 cc	color:blue
-1	Ren	jean	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
-2	ee	ee	PRON	_	Gender=Fem|Number=Sing|Person=3	1	nsubj	_	_
-3	cummal	cummal	NOUN	_	_	1	xcomp	_	_
-4	rish	rish	ADP	_	_	5	case	_	_
-5	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	3	obl	_	_
-6	dy	dy	ADP	_	_	7	case	_	_
-7	hooyl	shooyl	NOUN	_	Form=Len	3	xcomp	_	_
+1	Cre	cre	PRON	_	_	0	root	_	_
+2	'n	yn	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	_
+3	aght	aght	NOUN	_	_	1	nsubj	_	_
+4	v'	bee	VERB	_	Form=Len|Mood=Ind|Tense=Past	3	acl:relcl	_	_
+5	ou	ou	PRON	_	Number=Sing|Person=2	4	nsubj	_	_
+6	cho	cho	ADV	_	_	7	advmod	_	_
+7	mie	mie	ADJ	_	_	4	xcomp:pred	_	_
 8	as	as	CCONJ	_	_	9	cc	_	_
-9	farg	farg	NOUN	_	_	1	obl	_	_
-10	ayns	ayns	ADP	_	_	12	case	_	_
-11	e	e	DET	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes	12	nmod:poss	_	_
-12	cree	cree	NOUN	_	_	9	nmod	_	SpaceAfter=No
-13	.	.	PUNCT	_	_	1	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 9 cc	color:blue
-1	T'	bee	VERB	_	Mood=Ind|Tense=Pres	0	root	_	_
-2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
-3	ny	ny	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	4	nmod:poss	_	_
-4	phaarteeas	paarteeas	NOUN	_	Form=Len	1	xcomp:pred	_	_
-5	jeh	jeh	ADP	_	_	7	case	_	_
-6	yn	yn	DET	_	Definite=Def|Number=Sing|PronType=Art	7	det	_	_
-7	rheynnag	rheynnag	NOUN	_	_	4	nmod	_	_
-8	theayagh	theayagh	ADJ	_	_	7	amod	_	_
-9	as	as	CCONJ	_	_	10	cc	_	_
-10	arryltagh	arryltagh	ADJ	_	_	8	conj	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	1	punct	_	_
+9	schleioil	schleioil	ADJ	_	_	7	conj	_	SpaceAfter=No
+10	?	?	PUNCT	_	_	1	punct	_	_
 
 ~~~
 

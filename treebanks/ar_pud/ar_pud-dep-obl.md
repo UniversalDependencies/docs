@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `obl`: <tt><a href="ar_pud-dep-obl-tmod.html">obl:tmod</a></tt>.
 
-1947 nodes (9%) are attached to their parents as `obl`.
+1990 nodes (10%) are attached to their parents as `obl`.
 
-1719 instances of `obl` (88%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.08680020544427.
+1761 instances of `obl` (88%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.05628140703518.
 
-The following 27 pairs of parts of speech are connected with `obl`: <tt><a href="ar_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> (1061; 54% instances), <tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> (277; 14% instances), <tt><a href="ar_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_pud-pos-PROPN.html">PROPN</a></tt> (147; 8% instances), <tt><a href="ar_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_pud-pos-PRON.html">PRON</a></tt> (102; 5% instances), <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> (99; 5% instances), <tt><a href="ar_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="ar_pud-pos-NUM.html">NUM</a></tt> (75; 4% instances), <tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_pud-pos-PROPN.html">PROPN</a></tt> (35; 2% instances), <tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_pud-pos-PRON.html">PRON</a></tt> (28; 1% instances), <tt><a href="ar_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt> (28; 1% instances), <tt><a href="ar_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_pud-pos-NUM.html">NUM</a></tt> (23; 1% instances), <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_pud-pos-PRON.html">PRON</a></tt> (15; 1% instances), <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_pud-pos-PROPN.html">PROPN</a></tt> (13; 1% instances), <tt><a href="ar_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> (12; 1% instances), <tt><a href="ar_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="ar_pud-pos-PROPN.html">PROPN</a></tt> (8; 0% instances), <tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_pud-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="ar_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="ar_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="ar_pud-pos-PART.html">PART</a></tt>-<tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ar_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_pud-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ar_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="ar_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ar_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="ar_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ar_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="ar_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ar_pud-pos-PART.html">PART</a></tt>-<tt><a href="ar_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ar_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 27 pairs of parts of speech are connected with `obl`: <tt><a href="ar_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> (1098; 55% instances), <tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> (274; 14% instances), <tt><a href="ar_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_pud-pos-PROPN.html">PROPN</a></tt> (148; 7% instances), <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> (106; 5% instances), <tt><a href="ar_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_pud-pos-PRON.html">PRON</a></tt> (106; 5% instances), <tt><a href="ar_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="ar_pud-pos-NUM.html">NUM</a></tt> (75; 4% instances), <tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_pud-pos-PROPN.html">PROPN</a></tt> (36; 2% instances), <tt><a href="ar_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt> (30; 2% instances), <tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_pud-pos-PRON.html">PRON</a></tt> (25; 1% instances), <tt><a href="ar_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_pud-pos-NUM.html">NUM</a></tt> (23; 1% instances), <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_pud-pos-PRON.html">PRON</a></tt> (15; 1% instances), <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_pud-pos-PROPN.html">PROPN</a></tt> (13; 1% instances), <tt><a href="ar_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> (12; 1% instances), <tt><a href="ar_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="ar_pud-pos-PROPN.html">PROPN</a></tt> (8; 0% instances), <tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_pud-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="ar_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="ar_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="ar_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_pud-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ar_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="ar_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ar_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="ar_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ar_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ar_pud-pos-PART.html">PART</a></tt>-<tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ar_pud-pos-PART.html">PART</a></tt>-<tt><a href="ar_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ar_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,16 +23,16 @@ The following 27 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 6 obl	color:blue
-1	تمول	maw~al_1	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	0	root	_	_
-2	النفقات	nafaqap_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Fem|Number=Plur	1	nsubj:pass	_	_
-3	الجديدة	jadiyd_1	ADJ	JJ	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	2	amod	_	_
-4	من	min_1	ADP	IN	_	6	case	_	_
-5	خلال	xilAl_1	ADP	IN	_	4	fixed	_	_
-6	حساب	HisAb_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	obl	_	_
-7	كلينتون	kliynotuwn_1	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	6	nmod	_	_
-8	المصرفي	maSorafiy~_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	amod	_	_
-9	الكبير	kabiyr_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	amod	_	SpaceAfter=No
-10	.	._0	PUNCT	.	_	1	punct	_	_
+1	تمول	مَوَّل	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	0	root	_	LId=مَوَّل_1
+2	النفقات	نَفَقَة	NOUN	NN	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	1	nsubj:pass	_	LId=نَفَقَة_1
+3	الجديدة	جَدِيد	ADJ	JJ	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	2	amod	_	LId=جَدِيد_1
+4	من	مِن	ADP	IN	_	6	case	_	LId=مِن_1
+5	خلال	خِلَالَ	ADP	IN	_	4	fixed	_	LId=خِلال_1
+6	حساب	حِسَاب	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	obl	_	LId=حِساب_1
+7	كلينتون	كلِينتُون	PROPN	NNP	Gender=Masc|Number=Sing	6	nmod	_	LId=كلِينْتُون_1
+8	المصرفي	مَصرِفِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	amod	_	LId=مَصْرَفِيّ_1
+9	الكبير	كَبِير	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	amod	_	LId=كَبِير_1|SpaceAfter=No
+10	.	.	PUNCT	.	_	1	punct	_	LId=._0
 
 ~~~
 
@@ -43,18 +43,18 @@ The following 27 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 7 obl	color:blue
-1	الحد	Had~_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	11	nsubj	_	_
-2	الأقصى	>aqoSaY_2	ADJ	JJR	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	amod	_	_
-3	المسموح	masomuwH_1	ADJ	VBN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	1	ccomp	_	_
-4	ب	bi_1	ADP	IN	_	5	case	_	SpaceAfter=No
-5	ه	h	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	3	obl	_	_
-6	ل	l	ADP	IN	_	7	case	_	SpaceAfter=No
-7	لشخص	$axoS_1	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	3	obl	_	_
-8	الواحد	wAHid_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	7	amod	_	_
-9	هو	huwa_1	PRON	PRP	Gender=Masc|Number=Sing|Person=3	1	dep	_	_
-10	5000	5000_0	NUM	CD	_	11	nummod	_	_
-11	دولار	duwlAr_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
-12	.	._0	PUNCT	.	_	11	punct	_	_
+1	الحد	حَدّ	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	11	nsubj	_	LId=حَدّ_1
+2	الأقصى	أَقصَى	ADJ	JJR	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	amod	_	LId=أَقْصَى_2
+3	المسموح	مَسمُوح	ADJ	VBN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	1	ccomp	_	LId=مَسْمُوح_1
+4	ب	بِ	ADP	IN	_	5	case	_	LId=بِ_1|SpaceAfter=No
+5	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	3	obl	_	_
+6	ل	لِ	ADP	IN	_	7	case	_	SpaceAfter=No
+7	لشخص	شَخص	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	3	obl	_	LId=شَخْص_1
+8	الواحد	وَاحِد	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	7	amod	_	LId=واحِد_1
+9	هو	هُوَ	PRON	PRP	Gender=Masc|Number=Sing|Person=3	1	dep	_	LId=هُوَ_1
+10	5000	5000	NUM	CD	_	11	nummod	_	LId=٥٠٠٠_0
+11	دولار	دُولَار	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	LId=دُولار_1|SpaceAfter=No
+12	.	.	PUNCT	.	_	11	punct	_	LId=._0
 
 ~~~
 
@@ -65,22 +65,22 @@ The following 27 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 9 obl	color:blue
-1	لكن	l`kin~a_1	PART	RP	_	15	compound:prt	_	_
-2	عندما	Einod_1	ADP	IN	_	3	mark	_	_
-3	اقترحت	{iqotaraH_1	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	15	advcl	_	_
-4	علي	EalaY_1	ADP	IN	_	5	case	_	SpaceAfter=No
-5	ها	hA	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3	3	obl	_	_
-6	أن	>an~a_1	SCONJ	IN	_	7	mark	_	_
-7	تستعين	{isotaEAn_1	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	3	xcomp	_	_
-8	ب	b	ADP	IN	_	9	case	_	SpaceAfter=No
-9	فرانكو	frAnokuw_1	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	7	obl	_	_
-10	ك	k	ADP	IN	_	11	case	_	SpaceAfter=No
-11	عارضٍ	EAriD_1	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	7	obl	_	_
-12	ل	li-_1	ADP	IN	_	13	case	_	SpaceAfter=No
-13	ها	hA	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3	11	nmod	_	SpaceAfter=No
-14	,	,_0	PUNCT	,	_	3	punct	_	_
-15	ضحكت	DaHik-a_1	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	SpaceAfter=No
-16	.	._0	PUNCT	.	_	15	punct	_	_
+1	لكن	ل`كِنَّ	PART	RP	_	15	compound:prt	_	LId=لٰكِنَّ_1
+2	عندما	عِند	ADP	IN	_	3	mark	_	LId=عِنْد_1
+3	اقترحت	اِقتَرَح	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	15	advcl	_	LId=ٱِقْتَرَح_1
+4	علي	عَلَى	ADP	IN	_	5	case	_	LId=عَلَى_1|SpaceAfter=No
+5	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3	3	obl	_	_
+6	أن	أَنَّ	SCONJ	IN	_	7	mark	_	LId=أَنَّ_1
+7	تستعين	ٱِستَعان	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	3	xcomp	_	LId=ٱِسْتَعان_1
+8	ب	بِ	ADP	IN	_	9	case	_	SpaceAfter=No
+9	فرانكو	فرانكُو	PROPN	NNP	Gender=Masc|Number=Sing	7	obl	_	LId=فرانْكُو_1
+10	ك	كَ	ADP	IN	_	11	case	_	SpaceAfter=No
+11	عارضٍ	عارِض	NOUN	NN	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	7	obl	_	LId=عارِض_1
+12	ل	لِ	ADP	IN	_	13	case	_	LId=لِ-_1|SpaceAfter=No
+13	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3	11	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	,	_	3	punct	_	LId=,_0
+15	ضحكت	ضَحِك	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=ضَحِك-َ_1|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	punct	_	LId=._0
 
 ~~~
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-93 nodes (6%) are attached to their parents as `root`.
+148 nodes (6%) are attached to their parents as `root`.
 
-93 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 12.2903225806452.
+148 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 12.3648648648649.
 
-The following 3 pairs of parts of speech are connected with `root`: -<tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt> (81; 87% instances), -<tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt> (8; 9% instances), -<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (4; 4% instances).
+The following 3 pairs of parts of speech are connected with `root`: -<tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt> (131; 89% instances), -<tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt> (11; 7% instances), -<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (6; 4% instances).
 
 
 ~~~ conllu
@@ -59,28 +59,17 @@ The following 3 pairs of parts of speech are connected with `root`: -<tt><a href
 
 
 ~~~ conllu
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
-# visual-style 0 16 root	color:blue
-1	Үзебезнең	үз	PRON	_	Case=Gen|Number[psor]=Plur|Person[psor]=1	2	nmod	_	LangID=TT
-2	тәбигать	тәбигать	NOUN	_	Case=Nom|Number=Sing	16	nsubj	_	LangID=TT|SpaceAfter=No
-3	,	,	PUNCT	_	_	4	punct	_	LangID=OTHER
-4	кешеләр	кеше	NOUN	_	Case=Nom|Number=Plur	2	conj	_	LangID=TT|SpaceAfter=No
-5	,	,	PUNCT	_	_	8	punct	_	LangID=OTHER
-6	аларның	алар	PRON	_	Case=Gen|Number=Plur|PronType=Prs	8	nmod	_	LangID=TT
-7	эчке	эчке	ADJ	_	_	8	amod	_	LangID=TT
-8	кичерешләре	кичереш	NOUN	_	Case=Nom|Number=Plur|Person[psor]=3	2	conj	_	LangID=TT|SpaceAfter=No
-9	,	,	PUNCT	_	_	10	punct	_	LangID=OTHER
-10	тарихыбыз	тарих	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=1	2	conj	_	LangID=TT|SpaceAfter=No
-11	,	,	PUNCT	_	_	12	punct	_	LangID=OTHER
-12	йолаларыбыз	йола	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Plur|Person[psor]=1	2	conj	_	LangID=TT
-13	-	-	PUNCT	_	_	2	punct	_	LangID=OTHER
-14	барысы	бары	PRON	_	Case=Nom|Person[psor]=3|PronType=Tot	2	appos	_	LangID=TT
-15	да	да	ADV	_	_	14	advmod:emph	_	LangID=TT
-16	фотода	фото	NOUN	_	Case=Loc|Number=Sing	0	root	_	CSPoint=фото§да|LangID=MIXED[RU§TT]|SpaceAfter=No
-17	.	.	PUNCT	_	_	16	punct	_	LangID=OTHER
+# visual-style 0 5 root	color:blue
+1	Язучылар	яз	VERB	_	Case=Nom|Number=Plur|VerbForm=NomAg	5	nsubj	_	LangID=TT
+2	-	-	PUNCT	_	_	5	punct	_	LangID=OTHER
+3	милләтнең	милләт	NOUN	_	Case=Gen|Number=Sing	5	nmod	_	LangID=TT
+4	йөзек	йөзек	NOUN	_	Case=Nom|Number=Sing	5	nmod	_	LangID=TT
+5	кашы	каш	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	0	root	_	LangID=TT|SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	_	LangID=OTHER
 
 ~~~
 

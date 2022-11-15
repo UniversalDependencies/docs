@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="hu_szeged-dep-advmod.html">advmod</a></tt>.
 There are also 6 other language-specific subtypes of `advmod`: <tt><a href="hu_szeged-dep-advmod-locy.html">advmod:locy</a></tt>, <tt><a href="hu_szeged-dep-advmod-mode.html">advmod:mode</a></tt>, <tt><a href="hu_szeged-dep-advmod-que.html">advmod:que</a></tt>, <tt><a href="hu_szeged-dep-advmod-tlocy.html">advmod:tlocy</a></tt>, <tt><a href="hu_szeged-dep-advmod-to.html">advmod:to</a></tt>, <tt><a href="hu_szeged-dep-advmod-tto.html">advmod:tto</a></tt>.
 
-18 nodes (0%) are attached to their parents as `advmod:tfrom`.
+14 nodes (0%) are attached to their parents as `advmod:tfrom`.
 
-15 instances of `advmod:tfrom` (83%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.22222222222222.
+12 instances of `advmod:tfrom` (86%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.28571428571429.
 
-The following 5 pairs of parts of speech are connected with `advmod:tfrom`: <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt>-<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (11; 61% instances), <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt>-<tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (3; 17% instances), <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (2; 11% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt>-<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (1; 6% instances), <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt>-<tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt> (1; 6% instances).
+The following 3 pairs of parts of speech are connected with `advmod:tfrom`: <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt>-<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (11; 79% instances), <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (2; 14% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt>-<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (1; 7% instances).
 
 
 ~~~ conllu
@@ -30,23 +30,6 @@ The following 5 pairs of parts of speech are connected with `advmod:tfrom`: <tt>
 5	került	kerül	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 6	elő	elő	ADV	_	Degree=Pos	5	compound:preverb	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	5	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 1 advmod:tfrom	color:blue
-1	Közülük	közül	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	advmod:tfrom	_	_
-2	már	már	ADV	_	_	6	advmod:tlocy	_	_
-3	csak	csak	ADV	_	_	6	advmod:mode	_	_
-4	33	33	NUM	_	Case=Nom|Number=Sing|NumType=Card	5	compound	_	_
-5	millióan	millió	NUM	_	Case=Ess|Number=Sing|NumType=Card	6	nsubj	_	_
-6	élek	él	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
-7	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~
 
@@ -77,6 +60,41 @@ The following 5 pairs of parts of speech are connected with `advmod:tfrom`: <tt>
 18	legenda	legenda	NOUN	_	Case=Nom|Number=Sing	15	conj	_	_
 19	vált	válik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 20	.	.	PUNCT	_	_	19	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 14 advmod:tfrom	color:blue
+1	Ez	ez	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	root	_	_
+2	volt	van	AUX	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	cop	_	_
+3	az	az	DET	_	Definite=Def|PronType=Art	7	det	_	_
+4	első	első	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	7	amod:att	_	_
+5	komolyabb	komoly	ADJ	_	Case=Nom|Degree=Cmp|Number=Sing	7	amod:att	_	_
+6	robbantásos	robbantásos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	7	amod:att	_	_
+7	merénylet	merénylet	NOUN	_	Case=Nom|Number=Sing	1	nsubj	_	_
+8	a	a	DET	_	Definite=Def|PronType=Art	9	det	_	_
+9	tálibok	tálib	NOUN	_	Case=Nom|Number=Plur	10	nmod:att	_	_
+10	kezén	kéz	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	11	obl	_	_
+11	lévő	lévő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	13	amod:att	_	_
+12	ellenőrzött	ellenőrzött	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	13	amod:att	_	_
+13	területeken	terület	NOUN	_	Case=Sup|Number=Plur	1	nmod:obl	_	_
+14	azóta	azóta	ADV	_	PronType=Dem	1	advmod:tfrom	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	20	punct	_	_
+16	hogy	hogy	SCONJ	_	_	20	mark	_	_
+17	a	a	DET	_	Definite=Def|PronType=Art	18	det	_	_
+18	mozgalom	mozgalom	NOUN	_	Case=Nom|Number=Sing	20	nsubj	_	_
+19	1996-ban	1996	NUM	_	Case=Ine|Number=Sing|NumType=Card	20	obl	_	_
+20	kiterjesztette	kiterjeszt	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	advcl	_	_
+21	uralmát	uralom	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	20	obj	_	_
+22	Afganisztán	Afganisztán	PROPN	_	Case=Nom|Number=Sing	24	nmod:att	_	_
+23	jelentős	jelentős	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	24	amod:att	_	_
+24	részére	rész	NOUN	_	Case=Sbl|Number=Sing|Number[psor]=Sing|Person[psor]=3	20	obl	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~
 

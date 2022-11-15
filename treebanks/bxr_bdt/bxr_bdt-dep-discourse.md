@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-396 nodes (4%) are attached to their parents as `discourse`.
+407 nodes (4%) are attached to their parents as `discourse`.
 
-268 instances of `discourse` (68%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.63131313131313.
+279 instances of `discourse` (69%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.61670761670762.
 
-The following 24 pairs of parts of speech are connected with `discourse`: <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> (104; 26% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (82; 21% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> (60; 15% instances), <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> (29; 7% instances), <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> (20; 5% instances), <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (20; 5% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> (17; 4% instances), <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> (12; 3% instances), <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt>-<tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> (12; 3% instances), <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> (9; 2% instances), <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> (6; 2% instances), <tt><a href="bxr_bdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bxr_bdt-pos-INTJ.html">INTJ</a></tt> (4; 1% instances), <tt><a href="bxr_bdt-pos-PRON.html">PRON</a></tt>-<tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt>-<tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt>-<tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="bxr_bdt-pos-PART.html">PART</a></tt>-<tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="bxr_bdt-pos-PRON.html">PRON</a></tt>-<tt><a href="bxr_bdt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="bxr_bdt-pos-PRON.html">PRON</a></tt>-<tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="bxr_bdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 21 pairs of parts of speech are connected with `discourse`: <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> (155; 38% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (98; 24% instances), <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> (36; 9% instances), <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (22; 5% instances), <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> (20; 5% instances), <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> (18; 4% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> (17; 4% instances), <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt>-<tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> (15; 4% instances), <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="bxr_bdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bxr_bdt-pos-INTJ.html">INTJ</a></tt> (4; 1% instances), <tt><a href="bxr_bdt-pos-PRON.html">PRON</a></tt>-<tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt>-<tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="bxr_bdt-pos-PART.html">PART</a></tt>-<tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="bxr_bdt-pos-PRON.html">PRON</a></tt>-<tt><a href="bxr_bdt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="bxr_bdt-pos-PRON.html">PRON</a></tt>-<tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="bxr_bdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -56,20 +56,16 @@ The following 24 pairs of parts of speech are connected with `discourse`: <tt><a
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 8 discourse	color:blue
-1	Катя	Катя	PROPN	_	Case=Nom|Gender=Fem	2	nmod	_	_
-2	абгазы	абгазы	NOUN	_	Case=Nom	7	nsubj	_	_
-3	олон	олон	ADJ	_	_	4	amod	_	_
-4	хүүгэдтэй	хүүгэн	NOUN	_	Case=Com|Number=Plur	6	nmod	_	_
-5	гэр	гэр	NOUN	_	Case=Nom	6	compound	_	_
-6	бүлэдэ	бүлэ	NOUN	_	Case=Dat	7	nmod	_	_
-7	түрэһэн	түрэ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-8	юм	юм	AUX	_	Evident=Fh	7	discourse	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	7	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 discourse	color:blue
+1	Вазын	ваза	NOUN	_	Case=Gen	4	nmod	_	_
+2	үй	үй	PART	_	_	4	discourse	_	_
+3	бута	бута	PART	_	_	4	compound	_	_
+4	сохилго	сохилго	NOUN	_	Case=Nom	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
 

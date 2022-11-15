@@ -11,10 +11,10 @@ There are also 1 other language-specific subtypes of `compound`: <tt><a href="ug
 
 268 nodes (1%) are attached to their parents as `compound:lvc`.
 
-265 instances of `compound:lvc` (99%) are right-to-left (child precedes parent).
+263 instances of `compound:lvc` (98%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.05970149253731.
 
-The following 13 pairs of parts of speech are connected with `compound:lvc`: <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (214; 80% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (13; 5% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (9; 3% instances), <tt><a href="ug_udt-pos-AUX.html">AUX</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (8; 3% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (8; 3% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> (8; 3% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-ADV.html">ADV</a></tt>-<tt><a href="ug_udt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ug_udt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-NUM.html">NUM</a></tt>-<tt><a href="ug_udt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `compound:lvc`: <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (214; 80% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (13; 5% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (9; 3% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (8; 3% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> (8; 3% instances), <tt><a href="ug_udt-pos-AUX.html">AUX</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (6; 2% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-ADV.html">ADV</a></tt>-<tt><a href="ug_udt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ug_udt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-NUM.html">NUM</a></tt>-<tt><a href="ug_udt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-NUM.html">NUM</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -44,10 +44,10 @@ The following 13 pairs of parts of speech are connected with `compound:lvc`: <tt
 # visual-style 8	fgColor:white
 # visual-style 8 7 compound:lvc	color:blue
 1	بۇ	بۇ	PRON	P	Case=Nom|PronType=Dem	9	nsubj	_	Translit=bu
-2	تۈز	تۈز	NOUN	A	Case=Nom	3	amod	_	Translit=tüz
+2	تۈز	تۈز	ADJ	A	Case=Nom	3	amod	_	Translit=tüz
 3	سىزىق	سىزىق	NOUN	N	Case=Nom	8	obl	_	Translit=siziq
 4	ۋە	ۋە	CCONJ	C	_	6	cc	_	Translit=we
-5	ئەگرى	ئەگرى	NOUN	A	Case=Nom	6	amod	_	Translit=egri
+5	ئەگرى	ئەگرى	ADJ	A	Case=Nom	6	amod	_	Translit=egri
 6	سىزىقتىن	سىزىق	NOUN	N	Case=Abl	3	conj	_	Translit=siziqtin
 7	ھاسىل	_	NOUN	N	_	8	compound:lvc	_	Translit=hasil|Morf=Unknown
 8	بولغان	بول	VERB	V	Case=Nom|Tense=Past|VerbForm=Part	9	acl	_	Translit=bolghan
@@ -64,10 +64,10 @@ The following 13 pairs of parts of speech are connected with `compound:lvc`: <tt
 # visual-style 9	fgColor:white
 # visual-style 9 8 compound:lvc	color:blue
 1	بۇ	بۇ	PRON	P	Case=Nom|PronType=Dem	2	det	_	Translit=bu
-2	تاغ	تاغ	NOUN	N	Case=Nom	4	nsubj	_	Translit=tagh
-3	ناھايىتى	ناھايىتى	ADV	D	_	4	advmod	_	Translit=nahayiti
-4	ئېگىز	ئېگىز	NOUN	A	Case=Nom	12	parataxis	_	Translit=ëgiz
-5	بولغاچقا،	_	NOUN	N	_	4	cop	_	Translit=bolghachqa,|Morf=Unknown
+2	تاغ	تاغ	NOUN	N	Case=Nom	5	nsubj	_	Translit=tagh
+3	ناھايىتى	ناھايىتى	ADV	D	_	5	advmod	_	Translit=nahayiti
+4	ئېگىز	ئېگىز	NOUN	A	Case=Nom	5	nmod	_	Translit=ëgiz
+5	بولغاچقا،	_	NOUN	N	_	12	parataxis	_	Translit=bolghachqa,|Morf=Unknown
 6	تاغ	تاغ	NOUN	N	Case=Nom	7	amod	_	Translit=tagh
 7	چوققىلىرى	چوققا	NOUN	N	Case=Nom|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3	12	nsubj	_	Translit=choqqiliri
 8	قىشمۇ	قىش	NOUN	N	Case=Nom	9	compound:lvc	_	Translit=qishmu

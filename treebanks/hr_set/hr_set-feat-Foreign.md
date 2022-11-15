@@ -28,9 +28,9 @@ The feature is used with 1 part-of-speech tags: <tt><a href="hr_set-pos-X.html">
 ## Relations with Agreement in `Foreign`
 
 The 10 most frequent relations where parent and child node agree in `Foreign`:
-<tt>X --[<tt><a href="hr_set-dep-flat.html">flat</a></tt>]--> X</tt> (221; 100%),
+<tt>X --[<tt><a href="hr_set-dep-flat.html">flat</a></tt>]--> X</tt> (222; 100%),
 <tt>X --[<tt><a href="hr_set-dep-flat-foreign.html">flat:foreign</a></tt>]--> X</tt> (51; 100%),
-<tt>X --[<tt><a href="hr_set-dep-nmod.html">nmod</a></tt>]--> X</tt> (38; 100%),
+<tt>X --[<tt><a href="hr_set-dep-nmod.html">nmod</a></tt>]--> X</tt> (37; 100%),
 <tt>X --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> X</tt> (8; 100%),
 <tt>X --[<tt><a href="hr_set-dep-amod.html">amod</a></tt>]--> X</tt> (5; 100%),
 <tt>X --[<tt><a href="hr_set-dep-fixed.html">fixed</a></tt>]--> X</tt> (4; 100%),

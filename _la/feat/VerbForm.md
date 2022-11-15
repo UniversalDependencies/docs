@@ -222,4 +222,4 @@ From a syntactic point of view, in traditional grammars a difference is made bet
 * Cecchini, F. M. (2021). *Formae reformandae: for a reorganisation of verb form annotation in Universal Dependencies illustrated by the specific case of Latin*, in Proceedings of the Fifth Workshop on Universal Dependencies (UDW 2021), Sofia, Bulgaria, March 2022; Association for Computational Linguistics.
 * Haspelmath M. (1987). *Verbal noun or verbal adjective? The case of the Latin gerundive and gerund*, Arbeitspapier Nr. 3 (Neue Folge). Institut für Linguistik (Köln).
 * Miller, D. G. (2000). *Gerund and gerundive in Latin*, Diachronica XVII:2.293–349.
-<!-- Interlanguage links updated So kvě 14 19:02:44 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:00 CET 2022 -->

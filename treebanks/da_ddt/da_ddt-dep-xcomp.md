@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-507 nodes (1%) are attached to their parents as `xcomp`.
+687 nodes (1%) are attached to their parents as `xcomp`.
 
-349 instances of `xcomp` (69%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.92307692307692.
+532 instances of `xcomp` (77%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.10625909752547.
 
-The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-VERB.html">VERB</a></tt> (497; 98% instances), <tt><a href="da_ddt-pos-AUX.html">AUX</a></tt>-<tt><a href="da_ddt-pos-VERB.html">VERB</a></tt> (8; 2% instances), <tt><a href="da_ddt-pos-PART.html">PART</a></tt>-<tt><a href="da_ddt-pos-VERB.html">VERB</a></tt> (2; 0% instances).
+The following 8 pairs of parts of speech are connected with `xcomp`: <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-VERB.html">VERB</a></tt> (494; 72% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt> (93; 14% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt> (63; 9% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-ADV.html">ADV</a></tt> (18; 3% instances), <tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="da_ddt-pos-VERB.html">VERB</a></tt> (8; 1% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> (6; 1% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-PROPN.html">PROPN</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -37,24 +37,25 @@ The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 7 xcomp	color:blue
-1	Dets	dets	DET	_	Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
-2	fødder	fod	NOUN	_	Definite=Ind|Gender=Com|Number=Plur	10	nsubj	_	SpaceAfter=No
-3	,	,	PUNCT	_	_	2	punct	_	_
-4	der	der	PRON	_	PartType=Inf	6	nsubj	_	_
-5	ikke	ikke	ADV	_	_	6	advmod	_	_
-6	er	være	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	_
-7	tildækkede	tildække	VERB	_	Number=Plur|Tense=Past|VerbForm=Part	6	xcomp	_	SpaceAfter=No
-8	,	,	PUNCT	_	_	6	punct	_	_
-9	er	være	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	_
-10	blå	blå	ADJ	_	Degree=Pos|Number=Plur	0	root	_	_
-11	af	af	ADP	_	AdpType=Prep	12	case	_	_
-12	kulde	kulde	NOUN	_	Definite=Ind|Gender=Com|Number=Sing	10	obl	_	SpaceAfter=No
-13	.	.	PUNCT	_	_	10	punct	_	_
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 12 xcomp	color:blue
+1	Han	han	PRON	_	Case=Nom|Gender=Com|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	begyndte	begynde	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	at	at	PART	_	PartType=Inf	4	mark	_	_
+4	rulle	rulle	VERB	_	VerbForm=Inf|Voice=Act	2	obj	_	_
+5	med	med	ADP	_	AdpType=Prep	6	case	_	_
+6	øjnene	øje	NOUN	_	Definite=Def|Gender=Neut|Number=Plur	4	obl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	11	punct	_	_
+8	og	og	CCONJ	_	_	11	cc	_	_
+9	hans	hans	DET	_	Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	10	det	_	_
+10	nakke	nakke	NOUN	_	Definite=Ind|Gender=Com|Number=Sing	11	nsubj	_	_
+11	blev	blive	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
+12	slap	slap	ADJ	_	Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	11	xcomp	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+14	"	"	PUNCT	_	_	2	punct	_	_
 
 ~~~
 
@@ -62,22 +63,19 @@ The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href
 ~~~ conllu
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 9 xcomp	color:blue
-1	Derfor	derfor	ADV	_	_	2	advmod	_	_
-2	elsker	elske	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3	jeg	jeg	PRON	_	Case=Nom|Gender=Com|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-4	at	at	PART	_	PartType=Inf	5	mark	_	_
-5	arbejde	arbejde	VERB	_	VerbForm=Inf|Voice=Act	2	obj	_	_
-6	her	her	ADV	_	_	5	advmod:lmod	_	_
-7	-	-	PUNCT	_	_	4	punct	_	_
-8	at	at	PART	_	PartType=Inf	9	mark	_	_
-9	gøre	gøre	VERB	_	VerbForm=Inf|Voice=Act	4	xcomp	_	_
-10	en	en	DET	_	Gender=Com|Number=Sing|PronType=Ind	11	det	_	_
-11	indsats	indsats	NOUN	_	Definite=Ind|Gender=Com|Number=Sing	9	obj	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-13	"	"	PUNCT	_	_	2	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 9 xcomp	color:blue
+1	600	600	NUM	_	NumType=Card	2	nummod	_	_
+2	Brugser	brugs	NOUN	_	Definite=Ind|Gender=Com|Number=Plur	5	nsubj	_	_
+3	har	have	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	_
+4	ikke	ikke	ADV	_	_	5	advmod	_	_
+5	fået	få	VERB	_	Definite=Ind|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	lov	lov	NOUN	_	_	5	obj	_	_
+7	at	at	PART	_	PartType=Inf	8	mark	_	_
+8	blive	blive	VERB	_	VerbForm=Inf|Voice=Act	6	nmod	_	_
+9	Super-Brugser	Super-Brugs	NOUN	_	Definite=Ind|Gender=Com|Number=Plur	8	xcomp	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
 

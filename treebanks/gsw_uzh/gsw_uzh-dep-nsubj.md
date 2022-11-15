@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `nsubj`: <tt><a href="gsw_uzh-dep-nsubj-pass.html">nsubj:pass</a></tt>.
 
-104 nodes (7%) are attached to their parents as `nsubj`.
+102 nodes (7%) are attached to their parents as `nsubj`.
 
-98 instances of `nsubj` (94%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.85576923076923.
+96 instances of `nsubj` (94%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.91176470588235.
 
-The following 11 pairs of parts of speech are connected with `nsubj`: <tt><a href="gsw_uzh-pos-VERB.html">VERB</a></tt>-<tt><a href="gsw_uzh-pos-PRON.html">PRON</a></tt> (46; 44% instances), <tt><a href="gsw_uzh-pos-VERB.html">VERB</a></tt>-<tt><a href="gsw_uzh-pos-NOUN.html">NOUN</a></tt> (24; 23% instances), <tt><a href="gsw_uzh-pos-VERB.html">VERB</a></tt>-<tt><a href="gsw_uzh-pos-PROPN.html">PROPN</a></tt> (9; 9% instances), <tt><a href="gsw_uzh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gsw_uzh-pos-PRON.html">PRON</a></tt> (7; 7% instances), <tt><a href="gsw_uzh-pos-AUX.html">AUX</a></tt>-<tt><a href="gsw_uzh-pos-PRON.html">PRON</a></tt> (4; 4% instances), <tt><a href="gsw_uzh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gsw_uzh-pos-PRON.html">PRON</a></tt> (4; 4% instances), <tt><a href="gsw_uzh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gsw_uzh-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="gsw_uzh-pos-AUX.html">AUX</a></tt>-<tt><a href="gsw_uzh-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="gsw_uzh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gsw_uzh-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="gsw_uzh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gsw_uzh-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="gsw_uzh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gsw_uzh-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 11 pairs of parts of speech are connected with `nsubj`: <tt><a href="gsw_uzh-pos-VERB.html">VERB</a></tt>-<tt><a href="gsw_uzh-pos-PRON.html">PRON</a></tt> (44; 43% instances), <tt><a href="gsw_uzh-pos-VERB.html">VERB</a></tt>-<tt><a href="gsw_uzh-pos-NOUN.html">NOUN</a></tt> (24; 24% instances), <tt><a href="gsw_uzh-pos-VERB.html">VERB</a></tt>-<tt><a href="gsw_uzh-pos-PROPN.html">PROPN</a></tt> (9; 9% instances), <tt><a href="gsw_uzh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gsw_uzh-pos-PRON.html">PRON</a></tt> (7; 7% instances), <tt><a href="gsw_uzh-pos-AUX.html">AUX</a></tt>-<tt><a href="gsw_uzh-pos-PRON.html">PRON</a></tt> (4; 4% instances), <tt><a href="gsw_uzh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gsw_uzh-pos-PRON.html">PRON</a></tt> (4; 4% instances), <tt><a href="gsw_uzh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gsw_uzh-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="gsw_uzh-pos-AUX.html">AUX</a></tt>-<tt><a href="gsw_uzh-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="gsw_uzh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gsw_uzh-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="gsw_uzh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gsw_uzh-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="gsw_uzh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gsw_uzh-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

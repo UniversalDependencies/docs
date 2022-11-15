@@ -22,15 +22,15 @@ The following 1 pairs of parts of speech are connected with `cop:own`: <tt><a hr
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 cop:own	color:blue
-1	_	भीम	PROPN	_	Case=Abs|Gender=Masc|Number=Sing	4	nsubj	_	_
-2	_	कडे	ADP	_	_	1	case	_	_
-3	असलेली	असणे	AUX	_	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|VerbForm=Part	4	cop:own	_	_
-4	जमीन	जमीन	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
-5	वास्तविक	वास्तविक	ADV	_	_	4	advmod	_	_
-6	_	मी	PRON	_	Clusivity=In|Number=Plur|Person=1	4	nmod:poss	_	_
-7	_	चा	ADP	_	Gender=Fem|Number=Sing	6	case	_	_
-8	आहे	असणे	AUX	_	Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	4	punct	_	_
+1	भीमा	भीम	PROPN	_	Case=Abs|Gender=Masc|Number=Sing	4	nsubj	_	Translit=bhīmā|LTranslit=bhīma
+2	कडे	कडे	ADP	_	_	1	case	_	Translit=kaḍe|LTranslit=kaḍe
+3	असलेली	असणे	AUX	_	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Polarity=Pos|VerbForm=Part	4	cop:own	_	Translit=asalelī|LTranslit=asaṇe
+4	जमीन	जमीन	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Translit=jamīna|LTranslit=jamīna
+5	वास्तविक	वास्तविक	ADV	_	_	4	advmod	_	Translit=vāstavika|LTranslit=vāstavika
+6	आपल	मी	PRON	_	Clusivity=In|Number=Plur|Person=1|PronType=Prs	4	nmod:poss	_	Translit=āpala|LTranslit=mī
+7	ची	चा	ADP	_	Gender=Fem|Number=Sing	6	case	_	Translit=cī|LTranslit=cā
+8	आहे	असणे	AUX	_	Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No|Translit=āhe|LTranslit=asaṇe
+9	.	.	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

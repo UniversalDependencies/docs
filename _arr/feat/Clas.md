@@ -70,4 +70,4 @@ udver: '2'
 
 #### Examples
 
-<!-- Interlanguage links updated So kvě 14 19:02:06 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:41 CET 2022 -->

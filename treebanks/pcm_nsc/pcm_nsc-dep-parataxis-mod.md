@@ -12,7 +12,7 @@ There are also 4 other language-specific subtypes of `parataxis`: <tt><a href="p
 28 nodes (0%) are attached to their parents as `parataxis:mod`.
 
 28 instances of `parataxis:mod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 9.35714285714286.
+Average distance between parent and child is 9.25.
 
 The following 7 pairs of parts of speech are connected with `parataxis:mod`: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (17; 61% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (4; 14% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (3; 11% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (1; 4% instances).
 
@@ -46,17 +46,17 @@ The following 7 pairs of parts of speech are connected with `parataxis:mod`: <tt
 # visual-style 11	fgColor:white
 # visual-style 11 4 parataxis:mod	color:blue
 1	#	#	X	_	_	11	dep	_	AlignBegin=241160|AlignEnd=241401|Gloss=PUNCT
-2	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	AlignBegin=241401|AlignEnd=241481|Gloss=NOM.2|SyllableCount=1|WordContour=lm
-3	go	go	AUX	_	Aspect=Prosp	4	aux	_	AlignBegin=241481|AlignEnd=241669|Gloss=PROSP|SyllableCount=1|WordContour=mL
-4	born	born	VERB	_	_	11	parataxis:mod	_	AlignBegin=241669|AlignEnd=241830|Gloss=give_birth|SyllableCount=1|WordContour=hh
-5	pikin	pikin	NOUN	_	_	4	obj	_	AlignBegin=241830|AlignEnd=242011|Gloss=child|SyllableCount=2|WordContour=hl
-6	<	<	X	_	_	4	dep	_	AlignBegin=242011|AlignEnd=242041|Gloss=PUNCT
-7	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	AlignBegin=242041|AlignEnd=242140|Gloss=NOM.SG.3|SyllableCount=1|WordContour=mm
-8	go	go	AUX	_	Aspect=Prosp	11	aux	_	AlignBegin=242140|AlignEnd=242220|Gloss=PROSP|SyllableCount=1|WordContour=ml
-9	be	be	AUX	_	PartType=Cop	11	cop	_	AlignBegin=242220|AlignEnd=242310|Gloss=be|SyllableCount=1|WordContour=lh
-10	like	like	ADP	_	_	11	case	_	AlignBegin=242310|AlignEnd=242470|Gloss=like|SyllableCount=1|WordContour=hm
-11	imbecile	imbecile	NOUN	_	_	0	root	_	AlignBegin=242470|AlignEnd=242910|Gloss=imbecile|SyllableCount=3|WordContour=mL
-12	//	//	X	_	_	11	dep	_	AlignBegin=242910|AlignEnd=242940|Gloss=PUNCT
+2	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	AlignBegin=241401|AlignEnd=241481|Gloss=NOM.2|LeftOverlap=False|RightOverlap=True|Syl1=ml|SyllableCount=1|WordContour=lm
+3	go	go	AUX	_	Aspect=Prosp	4	aux	_	AlignBegin=241481|AlignEnd=241669|Gloss=PROSP|LeftOverlap=True|RightOverlap=False|Syl1=ml|SyllableCount=1|WordContour=mL
+4	born	born	VERB	_	_	11	parataxis:mod	_	AlignBegin=241669|AlignEnd=241830|Gloss=give_birth|LeftOverlap=False|RightOverlap=False|Syl1=hh|SyllableCount=1|WordContour=hh
+5	pikin	pikin	NOUN	_	_	4	obj	_	AlignBegin=241830|AlignEnd=242041|Gloss=child|LeftOverlap=False|RightOverlap=True|Syl1=hm|Syl2=mm|SyllableCount=2|WordContour=hl
+6	<	<	X	_	_	4	dep	_	AlignBegin=242041|AlignEnd=242041|Gloss=PUNCT
+7	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	AlignBegin=242041|AlignEnd=242140|Gloss=NOM.SG.3|LeftOverlap=True|RightOverlap=False|Syl1=mm|SyllableCount=1|WordContour=mm
+8	go	go	AUX	_	Aspect=Prosp	11	aux	_	AlignBegin=242140|AlignEnd=242220|Gloss=PROSP|LeftOverlap=False|RightOverlap=False|Syl1=mm|SyllableCount=1|WordContour=ml
+9	be	be	AUX	_	PartType=Cop	11	cop	_	AlignBegin=242220|AlignEnd=242310|Gloss=be|LeftOverlap=False|RightOverlap=False|Syl1=ll|SyllableCount=1|WordContour=lh
+10	like	like	ADP	_	_	11	case	_	AlignBegin=242310|AlignEnd=242470|Gloss=like|LeftOverlap=False|RightOverlap=False|Syl1=hm|SyllableCount=1|WordContour=hm
+11	imbecile	imbecile	NOUN	_	_	0	root	_	AlignBegin=242470|AlignEnd=242940|Gloss=imbecile|LeftOverlap=False|RightOverlap=False|Syl1=mm|Syl2=mmm2|Syl3=mL|SyllableCount=3|WordContour=mL
+12	//	//	X	_	_	11	dep	_	AlignBegin=242940|AlignEnd=242940|Gloss=PUNCT
 
 ~~~
 

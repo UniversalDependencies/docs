@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `obl`: <tt><a href="gub_tudet-dep-obl-subj.html">obl:subj</a></tt>.
 
-931 nodes (10%) are attached to their parents as `obl`.
+956 nodes (10%) are attached to their parents as `obl`.
 
-693 instances of `obl` (74%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.29323308270677.
+720 instances of `obl` (75%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.29811715481172.
 
-The following 20 pairs of parts of speech are connected with `obl`: <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (473; 51% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (180; 19% instances), <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gub_tudet-pos-PRON.html">PRON</a></tt> (112; 12% instances), <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gub_tudet-pos-ADP.html">ADP</a></tt> (80; 9% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-PRON.html">PRON</a></tt> (38; 4% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-ADP.html">ADP</a></tt> (13; 1% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-PROPN.html">PROPN</a></tt> (13; 1% instances), <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gub_tudet-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="gub_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="gub_tudet-pos-ADP.html">ADP</a></tt>-<tt><a href="gub_tudet-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gub_tudet-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="gub_tudet-pos-ADP.html">ADP</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="gub_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="gub_tudet-pos-AUX.html">AUX</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="gub_tudet-pos-NUM.html">NUM</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="gub_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="gub_tudet-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="gub_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="gub_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="gub_tudet-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="gub_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gub_tudet-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gub_tudet-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 19 pairs of parts of speech are connected with `obl`: <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (491; 51% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (179; 19% instances), <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gub_tudet-pos-PRON.html">PRON</a></tt> (119; 12% instances), <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gub_tudet-pos-ADP.html">ADP</a></tt> (78; 8% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-PRON.html">PRON</a></tt> (41; 4% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-ADP.html">ADP</a></tt> (13; 1% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-PROPN.html">PROPN</a></tt> (13; 1% instances), <tt><a href="gub_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gub_tudet-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="gub_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="gub_tudet-pos-ADP.html">ADP</a></tt>-<tt><a href="gub_tudet-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="gub_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="gub_tudet-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="gub_tudet-pos-ADP.html">ADP</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="gub_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="gub_tudet-pos-AUX.html">AUX</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="gub_tudet-pos-NUM.html">NUM</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="gub_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="gub_tudet-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gub_tudet-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gub_tudet-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -37,7 +37,7 @@ The following 20 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 4	fgColor:white
 # visual-style 4 5 obl	color:blue
 1	Aʔe	aʔe	DET	dem	PronType=Dem	2	det	_	_
-2	maʔe	maʔe	NOUN	n	_	4	nmod	_	_
+2	maʔe	maʔe	PRON	pro	_	4	nmod	_	_
 3	ʔɨw	ʔɨw	NOUN	n	_	2	compound	_	_
 4	iʔa	ʔa	NOUN	n	Rel=NCont	0	root	_	_
 5	ʔar	ʔar	NOUN	n	_	4	obl	_	_
@@ -48,14 +48,16 @@ The following 20 pairs of parts of speech are connected with `obl`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 2 obl	color:blue
-1	Ahaputar	ha	VERB	vi	Person[subj]=1|Tense=Fut	0	root	_	_
-2	aipope	aipo	PRON	pro	Case=Loc|PronType=Dem	1	obl	_	_
-3	nehe	nehe	PART	pcl	Tense=Fut	1	discourse	_	_
+# visual-style 1 3 obl	color:blue
+1	Wiko	iko	VERB	vi	Person[subj]=3	0	root	_	_
+2	amoae	amo	DET	dem	Emph=Yes|PronType=Ind	3	det	_	_
+3	maʔe	maʔe	PRON	pro	_	1	obl	_	_
+4	romo	omo	ADP	posp	_	3	case	_	_
+5	aʔe	aʔe	PRON	pro	PronType=Dem	1	discourse	_	_
 
 ~~~
 

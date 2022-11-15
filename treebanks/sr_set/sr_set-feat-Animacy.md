@@ -110,7 +110,7 @@ The most frequent other feature values with which `PRON` and `Animacy` co-occurr
 `PRON` tokens may have the following values of `Animacy`:
 
 * `Anim` (1; 100% of non-empty `Animacy`): <em>nikoga</em>
-* `EMPTY` (2425): <em>se, on, što, ona, oni, ga, mi, ih, šta, im</em>
+* `EMPTY` (2402): <em>se, on, što, ona, oni, ga, mi, ih, šta, im</em>
 
 ## Relations with Agreement in `Animacy`
 
