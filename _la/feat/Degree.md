@@ -97,7 +97,7 @@ The general suggestion is thus to eschew the use of the label `Pos`, as it is no
 * ***tres*** 'three' (`NUM`), while formally being a "positive" form (i.e. not comparative nor absolute), belongs to a category that is not compatible with the notion of degree, and so is never assigned the value `Pos`
 * ***pauonaceus*** 'belonging to a peacock; variegated [like a peacock's tail]' (`ADJ`) is part of a (morphological) class of adjectives which cannot inflect synthetically for degree, probably for phonetical reasons (\**pauonaceior*, **pauonaceissimus*) before even semantical ones, so the notion of ``positive degree'' is actually not applicable here
 
-####Note: reasons against annotating `Degree=Pos`
+#### Note: reasons against annotating `Degree=Pos`
 
 The explicitation of a "positive degree" raises the problem of distinguishing, during annotation, between those words which admit, or better *might* admit, a comparative/absolute form, and those that do not, since the label of "positive" implies the other values, too. This distinction is however ultimately semantic/pragmatic and often unpredictable. 
 
@@ -110,7 +110,7 @@ Finally, there are classes of adjectives (e.g. those ending in *-eus* or *-ius*)
 
 
 
-###References
+### References
 
 * Audring, Jenny, Sterre Leufkens, and Eva van Lier (2021). *Small events. Verbal diminutives in the languages of the world*. Linguistic Typology at the Crossroads 1 (Comparative Constructions across languages), no. 1: 223–256. At `https://typologyatcrossroads.unibo.it/article/view/13427`.
 * Chase,  George  Davis (1897).  *The  Origin  of  Roman  Praenomina*. Harvard  Studies in  Classical  Philology 8: 103–184. At `https://www .jstor.org /stable/310491`.
