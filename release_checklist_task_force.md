@@ -137,7 +137,7 @@ See [here](release_checklist.html) for the checklist for data contributors.
   <!-- We used to also send it to ACL but the ACL web now seems to accept only announcements about events, not about data. -->
 * In the script that serves the online validation report (`docs-automation/valdan/validation-report.pl`),
   locate the function `get_timer()` and update the date to the next data freeze deadline.
-* Upload the data to the search engines (PML-TQ, Kontext, SETS etc.)
+* Upload the data to the search engines (PML-TQ, Kontext etc.)
 * Check the issues of the docs repository on Github, close the ones that have been solved, and create a new milestone for the others.
 * Generate Deep UD based on the new UD release.
 
