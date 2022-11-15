@@ -13,7 +13,7 @@ cc(učitelji,ne-8)
 cc:preconj(ravnatelji,ne-6)
 conj(ravnatelji,učitelji)
 cc(teachers,nor)
-cc(principals,neither)
+cc:preconj(principals,neither)
 conj(principals,teachers)
 ~~~
 <!-- Interlanguage links updated Po lis 14 15:35:15 CET 2022 -->
