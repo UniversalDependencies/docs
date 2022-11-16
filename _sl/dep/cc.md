@@ -41,9 +41,9 @@ conj(seem,there-are)
 A coordinating conjunction may also appear at the beginning of a sentence, when the preceding conjunct is expressed in the preceding sentence or implicitly.
 
 ~~~ sdparse
-A slednjega se pri Peugeotu gotovo ne bojijo več . \n But the latter does at Peugeot probably not cause-fear anymore . 
+A slednjega se pri Peugeotu gotovo ne bojijo več . \n But of-the-latter REFLEX at Peugeot probably not they-be-afraid anymore . 
 cc(bojijo,A)
-cc(cause-fear,But)
+cc(they-be-afraid,But)
 ~~~
 
 In case of multi-word coordinating conjunctions, such as **_tako-kot_** (_both-and_), **_niti-niti_**, **_ne-ne_** (_neither-nor_), **_ali-ali_** (_either-or_), only the second word is considered to be `cc`, while the first word is analysed as a preconjunct ([cc:preconj]()).
