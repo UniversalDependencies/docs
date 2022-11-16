@@ -39,12 +39,12 @@ advmod(skrbi,ne)
 advmod(worries,not)
 ~~~
 ~~~ sdparse
-Po tej poti so lahko konji vlekli vprege . \n On this road horses could draw carriages . 
+Po tej poti so lahko konji vlekli vprege . \n On this road they-PAST could horses draw carriages . 
 advmod(vlekli,lahko)
 advmod(draw,could)
 ~~~
 ~~~ sdparse
-Le zakaj naj bi ju porinila ven ? \n Truly why would she them push out ?
+Le zakaj naj bi ju porinila ven ? \n Truly why would she-COND them push out ?
 advmod(porinila,naj)
 advmod(push,would)
 ~~~
@@ -59,7 +59,7 @@ advmod(functioning,normally)
 amod(muscles,functioning)
 ~~~
 ~~~ sdparse
-dogodki so se odvijali bistveno drugače \n events did themselves unfold quite differently
+dogodki so se odvijali bistveno drugače \n events they-PAST REFLEX unfold quite differently
 advmod(drugače,bistveno)
 advmod(odvijali,drugače)
 advmod(differently,quite)
@@ -91,7 +91,7 @@ advmod(Tuesday,evening)
 ~~~
 
 ~~~ sdparse
-popke takoj ob začetku sušenja hitro segrejejo \n buds immediately at start of-drying quickly are-warmed-up
+popke takoj ob začetku sušenja hitro segrejejo \n buds immediately at start of-drying quickly they-warm-up
 advmod(začetku,takoj)
 case(začetku,ob)
 advmod(start,immediately)
