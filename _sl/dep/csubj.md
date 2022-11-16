@@ -27,7 +27,7 @@ csubj(Question,keep)
 cop(Question,is)
 ~~~
 ~~~ sdparse
-Bilo je	jasno , da ne bo mogel prebrati knjige . \n It-was is clear , that not will be-able-to read book .
+Bilo je	jasno , da ne bo mogel prebrati knjige . \n It-was aux-PAST clear , that not will be-able-to read book .
 csubj(jasno,mogel)
 cop(jasno,Bilo)
 csubj(clear,be-able-to)
