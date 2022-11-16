@@ -9,12 +9,12 @@ The `discourse` relation is used for interjections and other discourse particles
 
 #### discourse
 ~~~ sdparse
-Oh , lepše od te si niste mogli izbrati  \n Oh, more-beautiful than this-one REFLEX you-not-PAST could choose
+Oh , lepše od te si niste mogli izbrati  \n Oh, more-beautiful than this-one REFLEX you-not-aux-PAST could choose
 discourse(mogli,Oh-1)
 discourse(could,Oh-11)
 ~~~
 ~~~ sdparse
-Tam so samo zamahnili z roko, češ , se bo že vrnila. \n There they-PAST only waved their hand , as-if-to-say , REFLEX she-will still return .
+Tam so samo zamahnili z roko, češ , se bo že vrnila. \n There they-aux-PAST only waved their hand , as-if-to-say , REFLEX she-will still return .
 discourse(zamahnili,češ)
 discourse(waved,as-if-to-say)
 ~~~
