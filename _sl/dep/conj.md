@@ -19,7 +19,7 @@ cc(Spaniards,and)
 punct(Czechs,,-16)
 ~~~
 ~~~ sdparse
-Vitka Ribičič je postregla s kratkim , a jasnim odgovorom \n Vitka Ribičič has offered a short , but clear answer
+Vitka Ribičič je postregla s kratkim , a jasnim odgovorom \n Vitka Ribičič aux-PAST offered a short , but clear answer
 conj(kratkim,jasnim)
 cc(jasnim,a)
 punct(jasnim,,-7)
@@ -39,7 +39,7 @@ cc(less,or)
 advmod(interesting,more)
 ~~~
 ~~~ sdparse
-opaziti je že tudi predstavnike ruske finančno - ekonomske elite \n noticable are already representatives of Russian financial - economic elite
+opaziti je že tudi predstavnike ruske finančno - ekonomske elite \n noticable are already also representatives of-Russian financial - economic elite
 conj(finančno,ekonomske)
 punct(ekonomske,--8)
 amod(elite,finančno)
@@ -47,16 +47,16 @@ amod(elite,ruske)
 conj(financial,economic)
 punct(economic,--19)
 amod(elite,financial)
-amod(elite,Russian)
+amod(elite,of-Russian)
 ~~~
 
 The `conj` relation is used for all types of coordination, including coordinated clauses with an overtly expressed coordinating conjunction, appearing in front of the clausal conjunct. For clausal coordination without explicit conjunctions, see the description of the [parataxis]() relation.
 
 ~~~ sdparse
-Kaldenove oči so se jezno zožile , vendar je spregovoril z mirnim glasom . \n Kalden's eyes have themselves angrily contracted , but he spoke with calm voice .
+Kaldenove oči so se jezno zožile , vendar je spregovoril z mirnim glasom . \n Kalden's eyes aux-PAST REFLEX angrily contracted , but aux-PAST he-spoke with calm voice .
 conj(zožile,spregovoril)
 cc(spregovoril,vendar)
-conj(contracted,spoke)
+conj(contracted,he-spoke)
 cc(spoke,but)
 ~~~
 ~~~ sdparse
@@ -69,10 +69,10 @@ cc(will-be,since)
 cop(close,will-be-14)
 ~~~
 ~~~ sdparse
-Ko si enkrat na vrhu in se poškoduješ , se je težko vrniti . \n When you-are once on top and you get-injured , it is hard to-get-back . 
+Ko si enkrat na vrhu in se poškoduješ , se je težko vrniti . \n When you-are once on top and REFLEX you-injure , REFLEX is hard to-get-back . 
 conj(si,poškoduješ)
 cc(poškoduješ,in)
-conj(you-are,get-injured)
-cc(get-injured,and)
+conj(you-are,you-injure)
+cc(you-injure,and)
 ~~~
 <!-- Interlanguage links updated Po lis 14 15:35:17 CET 2022 -->
