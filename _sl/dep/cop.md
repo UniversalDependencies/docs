@@ -32,11 +32,11 @@ nsubj(the-one,I)
 If the sentence also contains other forms of the verb _biti_, the copula (`cop`) relation is applied to the non-finite verb form (the -l participle), whereas the finite verb form is analyzed as an auxiliary ([aux]()). Both relations attach to the head of the subject complement.
 
 ~~~ sdparse
-Niti prijatelja nista/AUX več bila/AUX \n Not-even friends they-were-not/AUX anymore been/AUX
+Niti prijatelja nista/AUX več bila/AUX \n Not-even friends they-not-aux-PAST/AUX anymore were/AUX
 cop(prijatelja,bila)
 aux(prijatelja,nista)
-cop(friends,been)
-aux(friends,they-were-not)
+cop(friends,were)
+aux(friends,they-not-aux-PAST)
 ~~~
 
 Slovenian treebanks do not make any distinction between participial adjectives (always labelled as [ADJ]()) in different syntactic roles. Thus, there is no distinction between participles acting as subject complements (e.g., _kajenje je prepovedano_ 'smoking is prohibited') and participles used in passive constructions (e.g., _kajenje ji je bilo prepovedano_ 'smoking was prohibited to her'). 
@@ -49,12 +49,12 @@ cop(prohibited,is)
 nsubj(prohibited,smoking)
 ~~~
 ~~~ sdparse
-kajenje ji je/AUX bilo/AUX prepovedano \n smoking for-her was/AUX been/AUX prohibited
+kajenje ji je/AUX bilo/AUX prepovedano \n smoking for-her aux-PAST/AUX was/AUX prohibited
 cop(prepovedano,bilo)
 aux(prepovedano,je)
 nsubj(prepovedano,kajenje)
-cop(prohibited,been)
-aux(prohibited,was)
+cop(prohibited,was)
+aux(prohibited,aux-PAST)
 nsubj(prohibited,smoking)
 ~~~
 
