@@ -8,13 +8,17 @@ udver: '2'
 A dependency can be labeled as `dep` when it is impossible to determine a more precise relation. For instance, it may be used for syntactic phenomena which arise as a result of various technical shortcomings of a text. In Slovenian treebanks, this relation is currently used for rare phenomena which raise validation errors, such as non-standard forms of the auxiliary, and for technical issues, such as left-over page numbers at the start of a sentence. 
 
 ~~~ sdparse
-Tip menda misl , dam začel mlatit psa s palco .
+Tip menda misl , dam začel mlatit psa s palco . \n Guy probably thinks , that-I-will start hitting dog with stick .
 dep(začel,dam)
+dep(start,that-I-will)
 ~~~
 ~~~ sdparse
-19 Institucija je za Mary Douglas sprejetje določenega miselnega sloga
-dep(sprejetje,19)
+19 Institucija je za Mary Douglas sprejetje določenega miselnega sloga \n 19 Institution is for Mary Douglas accepting certain thinking style
+dep(sprejetje,19-1)
 cop(sprejetje,je)
 nsubj(sprejetje,Institucija)
+dep(accepting,19-12)
+cop(accepting,is)
+nsubj(accepting,Institution)
 ~~~
 <!-- Interlanguage links updated Po lis 14 15:35:21 CET 2022 -->
