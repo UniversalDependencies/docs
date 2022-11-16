@@ -8,9 +8,9 @@ udver: '2'
 An auxiliary of a clause is a function word associated with a verbal predicate that expresses categories such as tense, mood, aspect, voice or evidentiality. In contrast to the languages and grammatical theories that also categorize other function words as auxiliaries, the `aux` relation in Slovene is used exclusively for the auxiliary verb **biti** (_to be_), e.g. to form non-present tense. 
 
 ~~~ sdparse
-na kar so/AUX udeleženci reagirali z gromkim aplavzom \n to which did/AUX participants react with loud applause
+na kar so/AUX udeleženci reagirali z gromkim aplavzom \n to which they-aux-PAST/AUX participants react with loud applause
 aux(reagirali,so)
-aux(react,did)
+aux(react,they-aux-PAST)
 ~~~
 ~~~ sdparse
 Za to bosta/AUX poskrbela Nikki in njen štirinožni ljubljenček \n To this will/AUX tend Nikki and her four-legged pet
@@ -30,10 +30,10 @@ aux(run,supposed)
 aux(run,have)
 ~~~
 ~~~ sdparse
-Zaradi njegovega polhastega spanja je/AUX bila/AUX večkrat jezna . \n Because-of his deep sleep has/AUX she-been/AUX often angry . 
+Zaradi njegovega polhastega spanja je/AUX bila/AUX večkrat jezna . \n Because-of his deep sleep she-aux-PAST/AUX was/AUX often angry . 
 aux(jezna,je)
 cop(jezna,bila)
-aux(angry,has)
-cop(angry,she-been)
+aux(angry,ahe-aux-PAST)
+cop(angry,was)
 ~~~
 <!-- Interlanguage links updated Po lis 14 15:35:10 CET 2022 -->
