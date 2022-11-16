@@ -13,12 +13,12 @@ dep(začel,dam)
 dep(start,that-I-will)
 ~~~
 ~~~ sdparse
-19 Institucija je za Mary Douglas sprejetje določenega miselnega sloga \n 19 Institution is for Mary Douglas accepting certain thinking style
+19 Institucija je za Mary Douglas sprejetje določenega miselnega sloga \n 19 Institution is for Mary Douglas acceptance of-certain thinking style
 dep(sprejetje,19-1)
 cop(sprejetje,je)
 nsubj(sprejetje,Institucija)
-dep(accepting,19-12)
-cop(accepting,is)
-nsubj(accepting,Institution)
+dep(acceptance,19-12)
+cop(acceptance,is)
+nsubj(acceptance,Institution)
 ~~~
 <!-- Interlanguage links updated Po lis 14 15:35:21 CET 2022 -->
