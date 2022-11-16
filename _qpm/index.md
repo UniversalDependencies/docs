@@ -116,4 +116,4 @@ is estimated to be uploaded at the end of 2022.
 
 There is 1 Pomak UD treebank:
 
-  * [Pomak-Philotis](index.md)
+  * [Pomak-Philotis](../treebanks/qpm_philotis/index.md)
