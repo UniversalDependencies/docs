@@ -51,23 +51,7 @@ NOMINAL FEATURE
 * The two main values of the Number feature are Sing and Plural.
 * The notion of plural is expressed through numerals, particles or through reduplication:
 
-```
-tɨrɨ-tɨrɨ apaɾa
-two-two   banana
-'four (or many) bananas'
-```
 
-```
-ko-am           pega   ekwa 
-fishhook-rope   bring  ITER
-'(He) brings many fishing lines'
-```
-
-```
-pi-pi
-foot-foot
-'feet'
-```
 * Xavante has postpositions 
 
 
@@ -76,15 +60,7 @@ foot-foot
 * Augmentative and diminutive: the diminutive morpheme is -*tin* `Dim` and the augmentative -*atʃo* `Augm`. These morphemes refer to the size of something or the expansion of an event (if it is big or not). 
 
 VERBAL FEATURE
-* Verbs tend to combine with categories that denote aspect, modality, and voice.
-* The aspectual morphemes include the iterative `Iter`, and habitual `Hab`. There is also a projective aspect.
-* Akuntsú has the following voice features [VOICE](https://universaldependencies.org/u/feat/Voice.html): Middle `Mid` and causative `Cau` 
-* Akuntsú has a set of [auxiliaries](https://universaldependencies.org/u/pos/AUX_.html) `Aux` that expresses the notion of ‘sitting,’ ‘lying,’ ‘standing,’ ‘walking,’  ‘moving,’  ‘coming’ and ‘going´. The auxiliaries are given in the table below:
 
-
-| Standing | Sitting | Lying | In movement |Going|
-:----: | :------: |:------: |:------: |:------: |
-|ãm|jã|toa|tʃe|ka ~ ko
 
 * Some verbs occur with the morpheme -*ka*, which is a transitivizer. This [feature](https://universaldependencies.org/u/feat/index.html) (`Trans`) takes the value YES if the when the morpheme is present.  Verbs that may or not combine with this morpheme take no overt object or require two obligatory arguments. 
 
@@ -93,22 +69,25 @@ VERBAL FEATURE
 * Nominalization: there are two productive nominalizer affixes in this language: -ap `Nomzr=Circ`and i- `Nomlzr=Obj`. 
 
 
-    taptot     te=i-ko
-manioc   3COR=OBJ.NMLZ-ingest ‘Manioc, his own food’
+### Wh-words
+
+Xavante wh-words are built from words such as  _wa_ 'who', _marĩ_ 'what' (man's speech), _tiha_ 'what' (woman's speech), _mamɛ_ 'where', _mahãta_ 'where is', and _momo_ 'where to'. These are, in questions, predeced by the particle _e_, which indicates that the speaker requires new information.
+
+ UPOS        | XPOS      |
+:----------: | :------:  |
+ who          | _e wa_    |
+ what (man)   |  _e marĩ_  |
+ what (woman)  | _e tiha_  |
+por quê? (man) | _e marĩ bə_ |
+por quê? (woman)| _e tiha bə_ |
+where           | _e mamɛ_  |
+where to        | _e momo_  |
+where (is)      | _e mahãta_ |
+
 ## Syntax
 
-* Akuntsú is predominantly head-final. 
-* Objects tend to precede verbs. The most frequent word order is (S)OV. 
-* The basic clausal constituents may be described basically as [(PRONOMINAL CLITICS) + NOUNS + (NOMINAL MORPHOLOGY) + (OBJECT) + (VERBAL MORPHOLOGY) + VERB + (VERBAL MORPHOLOGY) + (AUXILIARY)]. 
-* Clause combining mainly involves coordination, subordination, and complementation. Coordination is done by the simple juxtaposition of clauses; complementation is usually in the form of nominalizations. 
 
-* In Akuntsú, the antipassive voice is not morphologically marked directly on the verb, but through the demotion of the object to an oblique position in a given transitive clause. The oblique clitic =*pe*, described with the feature `Obl`, marks the object when it is occurring outside of the usual syntactic position of the object.
 
-```
-tɨrɨ         puru-ru-ru         me-me-me          ek        pagop=pe
-two          IDEO-RED-RED       IDEO-RED-RED      house     new=OBL
-'In two (days) that one goes back and forth and builds [on] a new house'
-```
 ---
 
 ## Treebanks
