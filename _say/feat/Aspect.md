@@ -20,7 +20,8 @@ udver: '2'
 </tr>
 </table>
 
-In Zaar, the aspect features are expressed together with aspect, mood, person and number features in a word functioning as a preverbal clitic tagged as an AUX. The exceptions are the inchoative and the resultative aspects which are directly attached to the verb, as a suffix for the inchoative, and a verbal particle (syntactic link = compound:prt) for the inchoative. The AUX is followed by a finite form of the verb, except for the progressive aspect which is followed by a verbal noun.
+In Zaar, the aspect features are expressed together with aspect, mood, person and number features in a word functioning as a preverbal clitic tagged as an AUX. 
+The exceptions are the inchoative and the resultative aspects which are directly attached to the verb, as a suffix for the inchoative, and a verbal particle (syntactic link = compound:prt) for the inchoative. The AUX is followed by a finite form of the verb, except for the progressive aspect which is followed by a verbal noun.
 
 ### <a name="Aor">`Aor`</a>: aorist
 
