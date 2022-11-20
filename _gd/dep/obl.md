@@ -1,13 +1,14 @@
 ---
 layout: relation
-title: 'oblique'
+title: 'obl'
 shortdef: 'oblique'
 udver: '2'
 ---
 
 The `obl` relation is used for a nominal (noun, pronoun, noun phrase) functioning as a non-core (oblique) argument or adjunct to a verb, adverb, adjective or verbal noun.
+If the nominal is modifying a noun, proper noun, pronoun or symbol then use `nmod` instead.
 
-In the Gaelic treebank the `obl` relation is almost always marked with an adposition connected to it with the `case` relation.
+In the Scottish Gaelic treebank the `obl` relation is almost always marked with an adposition connected to it with the `case` relation.
 The subtypes `obl:smod` and `obl:tmod` are for expressions of space and time respectively which are not marked with an adposition.
 
 ### Examples
