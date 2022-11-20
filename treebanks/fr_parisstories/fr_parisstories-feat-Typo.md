@@ -9,18 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-6 tokens (0%) have a non-empty value of `Typo`.
-2 types (0%) occur at least once with a non-empty value of `Typo`.
-2 lemmas (0%) occur at least once with a non-empty value of `Typo`.
-The feature is used with 2 part-of-speech tags: <tt><a href="fr_parisstories-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="fr_parisstories-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
-
-### `X`
-
-5 <tt><a href="fr_parisstories-pos-X.html">X</a></tt> tokens (14% of all `X` tokens) have a non-empty value of `Typo`.
-
-`X` tokens may have the following values of `Typo`:
-
-* `Yes` (5; 100% of non-empty `Typo`): <em>~</em>
+1 tokens (0%) have a non-empty value of `Typo`.
+1 types (0%) occur at least once with a non-empty value of `Typo`.
+1 lemmas (0%) occur at least once with a non-empty value of `Typo`.
+The feature is used with 1 part-of-speech tags: <tt><a href="fr_parisstories-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 ### `PUNCT`
 

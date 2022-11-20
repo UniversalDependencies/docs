@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.7 release.
 The following people have contributed to making this treebank part of UD: Özlem Çetinoğlu, Çağrı Çöltekin.
 
 Repository: [UD_Turkish_German-SAGT](https://github.com/UniversalDependencies/UD_Turkish_German-SAGT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udqtd_sagt210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udqtd_sagt211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -143,7 +143,7 @@ isbn = {978-2-9517408-9-1},
 
 ## Relations
 
-[acl](qtd_sagt-dep-acl.html) – [advcl](qtd_sagt-dep-advcl.html) – [advmod](qtd_sagt-dep-advmod.html) – [advmod:emph](qtd_sagt-dep-advmod-emph.html) – [amod](qtd_sagt-dep-amod.html) – [appos](qtd_sagt-dep-appos.html) – [appos:trans](qtd_sagt-dep-appos-trans.html) – [aux](qtd_sagt-dep-aux.html) – [aux:pass](qtd_sagt-dep-aux-pass.html) – [aux:q](qtd_sagt-dep-aux-q.html) – [case](qtd_sagt-dep-case.html) – [cc](qtd_sagt-dep-cc.html) – [ccomp](qtd_sagt-dep-ccomp.html) – [compound](qtd_sagt-dep-compound.html) – [compound:lvc](qtd_sagt-dep-compound-lvc.html) – [compound:prt](qtd_sagt-dep-compound-prt.html) – [compound:redup](qtd_sagt-dep-compound-redup.html) – [conj](qtd_sagt-dep-conj.html) – [cop](qtd_sagt-dep-cop.html) – [csubj](qtd_sagt-dep-csubj.html) – [det](qtd_sagt-dep-det.html) – [discourse](qtd_sagt-dep-discourse.html) – [dislocated](qtd_sagt-dep-dislocated.html) – [expl](qtd_sagt-dep-expl.html) – [expl:pv](qtd_sagt-dep-expl-pv.html) – [fixed](qtd_sagt-dep-fixed.html) – [flat](qtd_sagt-dep-flat.html) – [iobj](qtd_sagt-dep-iobj.html) – [mark](qtd_sagt-dep-mark.html) – [nmod](qtd_sagt-dep-nmod.html) – [nsubj](qtd_sagt-dep-nsubj.html) – [nsubj:pass](qtd_sagt-dep-nsubj-pass.html) – [nummod](qtd_sagt-dep-nummod.html) – [obj](qtd_sagt-dep-obj.html) – [obl](qtd_sagt-dep-obl.html) – [orphan](qtd_sagt-dep-orphan.html) – [parataxis](qtd_sagt-dep-parataxis.html) – [parataxis:discourse](qtd_sagt-dep-parataxis-discourse.html) – [parataxis:trans](qtd_sagt-dep-parataxis-trans.html) – [punct](qtd_sagt-dep-punct.html) – [reparandum](qtd_sagt-dep-reparandum.html) – [root](qtd_sagt-dep-root.html) – [vocative](qtd_sagt-dep-vocative.html) – [xcomp](qtd_sagt-dep-xcomp.html)
+[acl](qtd_sagt-dep-acl.html) – [advcl](qtd_sagt-dep-advcl.html) – [advmod](qtd_sagt-dep-advmod.html) – [advmod:emph](qtd_sagt-dep-advmod-emph.html) – [amod](qtd_sagt-dep-amod.html) – [appos](qtd_sagt-dep-appos.html) – [appos:trans](qtd_sagt-dep-appos-trans.html) – [aux](qtd_sagt-dep-aux.html) – [aux:pass](qtd_sagt-dep-aux-pass.html) – [aux:q](qtd_sagt-dep-aux-q.html) – [case](qtd_sagt-dep-case.html) – [cc](qtd_sagt-dep-cc.html) – [ccomp](qtd_sagt-dep-ccomp.html) – [compound](qtd_sagt-dep-compound.html) – [compound:lvc](qtd_sagt-dep-compound-lvc.html) – [compound:prt](qtd_sagt-dep-compound-prt.html) – [compound:redup](qtd_sagt-dep-compound-redup.html) – [conj](qtd_sagt-dep-conj.html) – [cop](qtd_sagt-dep-cop.html) – [csubj](qtd_sagt-dep-csubj.html) – [det](qtd_sagt-dep-det.html) – [discourse](qtd_sagt-dep-discourse.html) – [dislocated](qtd_sagt-dep-dislocated.html) – [expl](qtd_sagt-dep-expl.html) – [expl:pv](qtd_sagt-dep-expl-pv.html) – [fixed](qtd_sagt-dep-fixed.html) – [flat](qtd_sagt-dep-flat.html) – [iobj](qtd_sagt-dep-iobj.html) – [mark](qtd_sagt-dep-mark.html) – [nmod](qtd_sagt-dep-nmod.html) – [nsubj](qtd_sagt-dep-nsubj.html) – [nsubj:outer](qtd_sagt-dep-nsubj-outer.html) – [nsubj:pass](qtd_sagt-dep-nsubj-pass.html) – [nummod](qtd_sagt-dep-nummod.html) – [obj](qtd_sagt-dep-obj.html) – [obl](qtd_sagt-dep-obl.html) – [orphan](qtd_sagt-dep-orphan.html) – [parataxis](qtd_sagt-dep-parataxis.html) – [parataxis:discourse](qtd_sagt-dep-parataxis-discourse.html) – [parataxis:trans](qtd_sagt-dep-parataxis-trans.html) – [punct](qtd_sagt-dep-punct.html) – [reparandum](qtd_sagt-dep-reparandum.html) – [root](qtd_sagt-dep-root.html) – [vocative](qtd_sagt-dep-vocative.html) – [xcomp](qtd_sagt-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -1138,7 +1138,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN (5)</li>
       <li>VERB--NOUN-Acc (3)</li>
       <li>VERB--NOUN-Gen (1)</li>
-      <li>VERB--NOUN-Nom (259)</li>
+      <li>VERB--NOUN-Nom (256)</li>
       <li>VERB--NOUN-Nom-ADP(diye) (1)</li>
       <li>VERB--NOUN-Nom-ADP(gibi) (1)</li>
       <li>VERB--NOUN-Nom-ADP(lik) (1)</li>
@@ -1153,8 +1153,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN (1)</li>
       <li>VERB-Fin--NOUN-Gen (1)</li>
       <li>VERB-Fin--NOUN-Nom (66)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(als) (1)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(aus) (1)</li>
       <li>VERB-Fin--PRON-Nom (738)</li>
       <li>VERB-Inf--NOUN-Nom (20)</li>
       <li>VERB-Inf--PRON-Nom (266)</li>
@@ -1164,9 +1162,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--NOUN-Nom-ADP(für) (1)</li>
       <li>VERB-Part--PRON-Gen (4)</li>
       <li>VERB-Part--PRON-Gen-ADP(ki) (1)</li>
-      <li>VERB-Part--PRON-Nom (300)</li>
+      <li>VERB-Part--PRON-Nom (299)</li>
       <li>VERB-Part--PRON-Nom-ADP(wie) (1)</li>
-      <li>VERB-Vnoun--NOUN-Gen (2)</li>
+      <li>VERB-Vnoun--NOUN-Gen (1)</li>
       <li>VERB-Vnoun--NOUN-Nom (9)</li>
       <li>VERB-Vnoun--PRON-Gen (3)</li>
       <li>VERB-Vnoun--PRON-Nom (8)</li>
@@ -1281,6 +1279,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 11 relation subtypes: <a>advmod:emph</a>, <a>appos:trans</a>, <a>aux:pass</a>, <a>aux:q</a>, <a>compound:lvc</a>, <a>compound:prt</a>, <a>compound:redup</a>, <a>expl:pv</a>, <a>nsubj:pass</a>, <a>parataxis:discourse</a>, <a>parataxis:trans</a></li>
+<li>This corpus uses 12 relation subtypes: <a>advmod:emph</a>, <a>appos:trans</a>, <a>aux:pass</a>, <a>aux:q</a>, <a>compound:lvc</a>, <a>compound:prt</a>, <a>compound:redup</a>, <a>expl:pv</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>parataxis:discourse</a>, <a>parataxis:trans</a></li>
 <li>The following 4 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>dep</a></li>
 </ul>

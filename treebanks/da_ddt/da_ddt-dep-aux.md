@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3156 nodes (3%) are attached to their parents as `aux`.
+3154 nodes (3%) are attached to their parents as `aux`.
 
-3095 instances of `aux` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.51520912547529.
+3109 instances of `aux` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.03868103994927.
 
-The following 8 pairs of parts of speech are connected with `aux`: <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-AUX.html">AUX</a></tt> (2897; 92% instances), <tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="da_ddt-pos-AUX.html">AUX</a></tt> (117; 4% instances), <tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="da_ddt-pos-AUX.html">AUX</a></tt> (96; 3% instances), <tt><a href="da_ddt-pos-ADV.html">ADV</a></tt>-<tt><a href="da_ddt-pos-AUX.html">AUX</a></tt> (33; 1% instances), <tt><a href="da_ddt-pos-PRON.html">PRON</a></tt>-<tt><a href="da_ddt-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="da_ddt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="da_ddt-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="da_ddt-pos-NUM.html">NUM</a></tt>-<tt><a href="da_ddt-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="da_ddt-pos-ADP.html">ADP</a></tt>-<tt><a href="da_ddt-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `aux`: <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-AUX.html">AUX</a></tt> (2941; 93% instances), <tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="da_ddt-pos-AUX.html">AUX</a></tt> (93; 3% instances), <tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="da_ddt-pos-AUX.html">AUX</a></tt> (78; 2% instances), <tt><a href="da_ddt-pos-ADV.html">ADV</a></tt>-<tt><a href="da_ddt-pos-AUX.html">AUX</a></tt> (31; 1% instances), <tt><a href="da_ddt-pos-PRON.html">PRON</a></tt>-<tt><a href="da_ddt-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="da_ddt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="da_ddt-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="da_ddt-pos-NUM.html">NUM</a></tt>-<tt><a href="da_ddt-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="da_ddt-pos-ADP.html">ADP</a></tt>-<tt><a href="da_ddt-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -59,23 +59,18 @@ The following 8 pairs of parts of speech are connected with `aux`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 9 aux	color:blue
-1	Målet	mål	NOUN	_	Definite=Def|Gender=Neut|Number=Sing	4	nsubj	_	_
-2	var	være	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	_
-3	den	den	DET	_	Gender=Com|Number=Sing|PronType=Dem	4	det	_	_
-4	doping	doping	NOUN	_	Definite=Ind|Gender=Com|Number=Sing	0	root	_	SpaceAfter=No
-5	,	,	PUNCT	_	_	4	punct	_	_
-6	de	den	DET	_	Number=Plur|PronType=Dem	8	det	_	_
-7	trætte	træt	ADJ	_	Degree=Pos|Number=Plur	8	amod	_	_
-8	mænd	mand	NOUN	_	Definite=Ind|Gender=Com|Number=Plur	9	nsubj	_	_
-9	havde	have	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	4	aux	_	_
-10	behov	behov	NOUN	_	Definite=Ind|Gender=Neut|Number=Sing	9	obj	_	_
-11	for	for	ADP	_	AdpType=Prep	10	case	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	4	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 3 aux	color:blue
+1	"	"	PUNCT	_	_	6	punct	_	SpaceAfter=No
+2	Dette	denne	PRON	_	Gender=Neut|Number=Sing|PronType=Dem	6	nsubj	_	_
+3	har	have	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	_
+4	været	være	AUX	_	Definite=Ind|Number=Sing|Tense=Past|VerbForm=Part	6	cop	_	_
+5	et	en	DET	_	Gender=Neut|Number=Sing|PronType=Ind	6	det	_	_
+6	overraskelses-angreb	overraskelses-angreb	NOUN	_	Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~
 

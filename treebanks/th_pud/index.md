@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Rattima Nitisaroj, Yanin Sawanakunanon, Martin Popel, Daniel Zeman.
 
 Repository: [UD_Thai-PUD](https://github.com/UniversalDependencies/UD_Thai-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udth_pud210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udth_pud211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-SA 3.0
 
@@ -84,11 +84,11 @@ employ ten-fold cross-validation.
 
 ## POS Tags
 
-[ADJ](th_pud-pos-ADJ.html) – [ADP](th_pud-pos-ADP.html) – [ADV](th_pud-pos-ADV.html) – [AUX](th_pud-pos-AUX.html) – [CCONJ](th_pud-pos-CCONJ.html) – [DET](th_pud-pos-DET.html) – [NOUN](th_pud-pos-NOUN.html) – [NUM](th_pud-pos-NUM.html) – [PART](th_pud-pos-PART.html) – [PRON](th_pud-pos-PRON.html) – [PROPN](th_pud-pos-PROPN.html) – [PUNCT](th_pud-pos-PUNCT.html) – [SCONJ](th_pud-pos-SCONJ.html) – [SYM](th_pud-pos-SYM.html) – [VERB](th_pud-pos-VERB.html)
+[ADJ](th_pud-pos-ADJ.html) – [ADP](th_pud-pos-ADP.html) – [ADV](th_pud-pos-ADV.html) – [AUX](th_pud-pos-AUX.html) – [CCONJ](th_pud-pos-CCONJ.html) – [DET](th_pud-pos-DET.html) – [NOUN](th_pud-pos-NOUN.html) – [NUM](th_pud-pos-NUM.html) – [PART](th_pud-pos-PART.html) – [PRON](th_pud-pos-PRON.html) – [PROPN](th_pud-pos-PROPN.html) – [PUNCT](th_pud-pos-PUNCT.html) – [SCONJ](th_pud-pos-SCONJ.html) – [SYM](th_pud-pos-SYM.html) – [VERB](th_pud-pos-VERB.html) – [X](th_pud-pos-X.html)
 
 ## Features
 
-[Aspect](th_pud-feat-Aspect.html) – [Mood](th_pud-feat-Mood.html) – [Person](th_pud-feat-Person.html) – [Polarity](th_pud-feat-Polarity.html) – [PronType](th_pud-feat-PronType.html) – [Voice](th_pud-feat-Voice.html)
+[Aspect](th_pud-feat-Aspect.html) – [Mood](th_pud-feat-Mood.html) – [Person](th_pud-feat-Person.html) – [Polarity](th_pud-feat-Polarity.html) – [PronType](th_pud-feat-PronType.html) – [Typo](th_pud-feat-Typo.html) – [Voice](th_pud-feat-Voice.html)
 
 ## Relations
 
@@ -121,8 +121,8 @@ employ ten-fold cross-validation.
 <h3>Tags</h3>
 
 <ul>
-<li>This corpus uses 15 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a></li>
-<li>This corpus does not use the following tags: INTJ, X</li>
+<li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
+<li>This corpus does not use the following tags: INTJ</li>
 </ul>
 
 <ul>
@@ -282,6 +282,18 @@ employ ten-fold cross-validation.
 
 <h3>Other Features</h3>
 
+
+<ul>
+  <li><a>Typo</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>PROPN: ซิกูร์, บัวโนส, ฟยอกูร์, มาเร</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 <h2>Syntax</h2>
 

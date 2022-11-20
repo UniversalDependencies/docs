@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_German-GSD: POS Tags: `CCONJ`
 
-There are 67 `CCONJ` lemmas (0%), 69 `CCONJ` types (0%) and 8843 `CCONJ` tokens (3%).
+There are 66 `CCONJ` lemmas (0%), 68 `CCONJ` types (0%) and 8843 `CCONJ` tokens (3%).
 Out of 17 observed tags, the rank of `CCONJ` is: 11 in number of lemmas, 12 in number of types and 11 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>und, oder, sowie, aber, sondern, als, wie, sowohl, doch, and</em>
@@ -63,7 +63,7 @@ The 10 most frequent ambiguous types:  <em>sowie</em> (<tt><a href="de_gsd-pos-C
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.029851 (the average of all parts of speech is 1.187208).
+The form / lemma ratio of `CCONJ` is 1.030303 (the average of all parts of speech is 1.187276).
 
 The 1st highest number of forms (3) was observed with the lemma “und”: <em>u, und, uns</em>.
 

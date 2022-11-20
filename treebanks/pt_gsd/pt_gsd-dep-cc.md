@@ -47,7 +47,7 @@ The following 29 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 5 cc	color:blue
-1	O	o	DET	DET	_	2	det	_	_
+1	O	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	jogo	jogo	NOUN	NOUN	_	3	nsubj	_	_
 3	começou	começar	VERB	VERB	_	0	root	_	_
 4	movimentado	movimentado	ADJ	ADJ	_	3	xcomp	_	_

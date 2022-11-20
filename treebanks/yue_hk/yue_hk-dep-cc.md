@@ -59,30 +59,30 @@ The following 10 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 7 cc	color:blue
-1	即係話	_	ADV	_	_	14	advmod	_	SpaceAfter=No
-2	睇	_	VERB	_	_	14	advcl	_	SpaceAfter=No
-3	依啲	_	DET	_	_	5	det	_	SpaceAfter=No
-4	法律	_	NOUN	_	_	5	compound	_	SpaceAfter=No
-5	觀點	_	NOUN	_	_	2	obj	_	SpaceAfter=No
-6	，	_	PUNCT	_	_	10	punct	_	SpaceAfter=No
-7	或者	_	CCONJ	_	_	10	cc	_	SpaceAfter=No
-8	咁	_	ADV	_	_	9	advmod	_	SpaceAfter=No
-9	大	_	ADJ	_	_	10	amod	_	SpaceAfter=No
-10	風險	_	NOUN	_	_	2	conj	_	SpaceAfter=No
-11	之下	_	NOUN	_	_	10	case:loc	_	SpaceAfter=No
-12	，	_	PUNCT	_	_	14	punct	_	SpaceAfter=No
-13	你	_	PRON	_	_	14	nsubj	_	SpaceAfter=No
-14	覺得	_	VERB	_	_	0	root	_	SpaceAfter=No
-15	今日	_	NOUN	_	_	17	obl:tmod	_	SpaceAfter=No
-16	唔	_	ADV	_	_	17	advmod	_	SpaceAfter=No
-17	適宜	_	ADJ	_	_	14	ccomp	_	SpaceAfter=No
-18	作出	_	VERB	_	_	17	xcomp	_	SpaceAfter=No
-19	今日	_	NOUN	_	_	20	obl:tmod	_	SpaceAfter=No
-20	選	_	VERB	_	_	22	amod	_	SpaceAfter=No
-21	主席	_	NOUN	_	_	20	obj	_	SpaceAfter=No
-22	決定	_	VERB	_	_	18	obj	_	SpaceAfter=No
-23	呢	_	PART	_	_	14	discourse:sp	_	SpaceAfter=No
-24	？	_	PUNCT	_	_	14	punct	_	SpaceAfter=No
+1	即係話	即係話	ADV	_	_	14	advmod	_	SpaceAfter=No
+2	睇	睇	VERB	_	_	14	advcl	_	SpaceAfter=No
+3	依啲	依啲	DET	_	_	5	det	_	SpaceAfter=No
+4	法律	法律	NOUN	_	_	5	compound	_	SpaceAfter=No
+5	觀點	觀點	NOUN	_	_	2	obj	_	SpaceAfter=No
+6	，	，	PUNCT	_	_	10	punct	_	SpaceAfter=No
+7	或者	或者	CCONJ	_	_	10	cc	_	SpaceAfter=No
+8	咁	咁	ADV	_	_	9	advmod	_	SpaceAfter=No
+9	大	大	ADJ	_	_	10	amod	_	SpaceAfter=No
+10	風險	風險	NOUN	_	_	2	conj	_	SpaceAfter=No
+11	之下	之下	NOUN	_	_	10	case:loc	_	SpaceAfter=No
+12	，	，	PUNCT	_	_	14	punct	_	SpaceAfter=No
+13	你	你	PRON	_	_	14	nsubj	_	SpaceAfter=No
+14	覺得	覺得	VERB	_	_	0	root	_	SpaceAfter=No
+15	今日	今日	NOUN	_	_	17	obl:tmod	_	SpaceAfter=No
+16	唔	唔	ADV	_	_	17	advmod	_	SpaceAfter=No
+17	適宜	適宜	ADJ	_	_	14	ccomp	_	SpaceAfter=No
+18	作出	作出	VERB	_	_	17	xcomp	_	SpaceAfter=No
+19	今日	今日	NOUN	_	_	20	obl:tmod	_	SpaceAfter=No
+20	選	選	VERB	_	_	22	amod	_	SpaceAfter=No
+21	主席	主席	NOUN	_	_	20	obj	_	SpaceAfter=No
+22	決定	決定	VERB	_	_	18	obj	_	SpaceAfter=No
+23	呢	呢	PART	_	_	14	discourse:sp	_	SpaceAfter=No
+24	？	？	PUNCT	_	_	14	punct	_	SpaceAfter=No
 
 ~~~
 
@@ -93,30 +93,30 @@ The following 10 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 21	bgColor:blue
 # visual-style 21	fgColor:white
 # visual-style 21 19 cc	color:blue
-1	無論	_	SCONJ	_	_	8	mark	_	SpaceAfter=No
-2	你	_	PRON	_	_	3	nsubj	_	SpaceAfter=No
-3	接受	_	VERB	_	_	8	advcl	_	SpaceAfter=No
-4	與	_	CCONJ	_	_	6	cc	_	SpaceAfter=No
-5	唔	_	ADV	_	_	6	advmod	_	SpaceAfter=No
-6	接受	_	VERB	_	_	3	conj	_	SpaceAfter=No
-7	都	_	ADV	_	_	8	advmod	_	SpaceAfter=No
-8	好	_	ADJ	_	_	0	root	_	SpaceAfter=No
-9	，	_	PUNCT	_	_	8	punct	_	SpaceAfter=No
-10	無論	_	SCONJ	_	_	12	mark	_	SpaceAfter=No
-11	你	_	PRON	_	_	12	nsubj	_	SpaceAfter=No
-12	覺得	_	VERB	_	_	8	parataxis	_	SpaceAfter=No
-13	我	_	PRON	_	_	17	nmod	_	SpaceAfter=No
-14	依個	_	DET	_	_	17	det	_	SpaceAfter=No
-15	擉	_	NOUN	_	_	17	reparandum	_	SpaceAfter=No
-16	-	_	PUNCT	_	_	15	punct	_	SpaceAfter=No
-17	決定	_	NOUN	_	_	18	nsubj	_	SpaceAfter=No
-18	啱	_	ADJ	_	_	23	advcl	_	SpaceAfter=No
-19	與	_	CCONJ	_	_	21	cc	_	SpaceAfter=No
-20	唔	_	ADV	_	_	21	advmod	_	SpaceAfter=No
-21	啱	_	ADJ	_	_	18	conj	_	SpaceAfter=No
-22	都	_	ADV	_	_	23	advmod	_	SpaceAfter=No
-23	好	_	ADJ	_	_	12	ccomp	_	SpaceAfter=No
-24	……	_	PUNCT	_	_	8	punct	_	SpaceAfter=No
+1	無論	無論	SCONJ	_	_	8	mark	_	SpaceAfter=No
+2	你	你	PRON	_	_	3	nsubj	_	SpaceAfter=No
+3	接受	接受	VERB	_	_	8	advcl	_	SpaceAfter=No
+4	與	與	CCONJ	_	_	6	cc	_	SpaceAfter=No
+5	唔	唔	ADV	_	_	6	advmod	_	SpaceAfter=No
+6	接受	接受	VERB	_	_	3	conj	_	SpaceAfter=No
+7	都	都	ADV	_	_	8	advmod	_	SpaceAfter=No
+8	好	好	ADJ	_	_	0	root	_	SpaceAfter=No
+9	，	，	PUNCT	_	_	8	punct	_	SpaceAfter=No
+10	無論	無論	SCONJ	_	_	12	mark	_	SpaceAfter=No
+11	你	你	PRON	_	_	12	nsubj	_	SpaceAfter=No
+12	覺得	覺得	VERB	_	_	8	parataxis	_	SpaceAfter=No
+13	我	我	PRON	_	_	17	nmod	_	SpaceAfter=No
+14	依個	依個	DET	_	_	17	det	_	SpaceAfter=No
+15	擉	擉	NOUN	_	_	17	reparandum	_	SpaceAfter=No
+16	-	-	PUNCT	_	_	15	punct	_	SpaceAfter=No
+17	決定	決定	NOUN	_	_	18	nsubj	_	SpaceAfter=No
+18	啱	啱	ADJ	_	_	23	advcl	_	SpaceAfter=No
+19	與	與	CCONJ	_	_	21	cc	_	SpaceAfter=No
+20	唔	唔	ADV	_	_	21	advmod	_	SpaceAfter=No
+21	啱	啱	ADJ	_	_	18	conj	_	SpaceAfter=No
+22	都	都	ADV	_	_	23	advmod	_	SpaceAfter=No
+23	好	好	ADJ	_	_	12	ccomp	_	SpaceAfter=No
+24	……	……	PUNCT	_	_	8	punct	_	SpaceAfter=No
 
 ~~~
 

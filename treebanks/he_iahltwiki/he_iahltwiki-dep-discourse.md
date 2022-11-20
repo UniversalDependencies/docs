@@ -56,7 +56,7 @@ The following 3 pairs of parts of speech are connected with `discourse`: <tt><a 
 3	שירים	שיר	NOUN	NOUN	Gender=Masc|Number=Plur	8	obl	_	_
 4	ה	ה	DET	DET	Definite=Def|PronType=Art	5	det	_	_
 5	חדשים	חדש	ADJ	ADJ	Gender=Masc|Number=Plur	3	amod	_	_
-6	היו	היה	AUX	AUX	Gender=Masc|Number=Plur|Person=3|Polarity=Pos|Tense=Past	8	cop	_	_
+6	היו	היה	AUX	AUX	Gender=Masc|HebBinyan=PAAL|Number=Plur|Person=3|Polarity=Pos|Tense=Past	8	cop	_	_
 7	ה	ה	DET	DET	Definite=Def|PronType=Art	8	det	_	_
 8	דואטים	דואט	NOUN	NOUN	Gender=Masc|Number=Plur	0	root	_	_
 9	עם	עם	ADP	ADP	_	10	case	_	_

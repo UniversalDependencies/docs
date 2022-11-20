@@ -15,14 +15,14 @@ The 10 most frequent `AUX` types:  <em>she, s', by, nee, B', Cha, Nagh</em>
 
 The 10 most frequent ambiguous lemmas: 
 
-The 10 most frequent ambiguous types:  <em>nee</em> (<tt><a href="gv_cadhan-pos-VERB.html">VERB</a></tt> 18, <tt><a href="gv_cadhan-pos-AUX.html">AUX</a></tt> 5), <em>Cha</em> (<tt><a href="gv_cadhan-pos-PART.html">PART</a></tt> 120, <tt><a href="gv_cadhan-pos-AUX.html">AUX</a></tt> 1), <em>Nagh</em> (<tt><a href="gv_cadhan-pos-PART.html">PART</a></tt> 5, <tt><a href="gv_cadhan-pos-AUX.html">AUX</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>nee</em> (<tt><a href="gv_cadhan-pos-VERB.html">VERB</a></tt> 18, <tt><a href="gv_cadhan-pos-AUX.html">AUX</a></tt> 5), <em>Cha</em> (<tt><a href="gv_cadhan-pos-PART.html">PART</a></tt> 121, <tt><a href="gv_cadhan-pos-AUX.html">AUX</a></tt> 1), <em>Nagh</em> (<tt><a href="gv_cadhan-pos-PART.html">PART</a></tt> 5, <tt><a href="gv_cadhan-pos-AUX.html">AUX</a></tt> 1)
 
 
 * <em>nee</em>
   * <tt><a href="gv_cadhan-pos-VERB.html">VERB</a></tt> 18: <em>My oardrym eh <b>nee</b> eh jannoo eh .</em>
   * <tt><a href="gv_cadhan-pos-AUX.html">AUX</a></tt> 5: <em>Smooinee er eh , veen : cha <b>nee</b> agh paitçhey ish !</em>
 * <em>Cha</em>
-  * <tt><a href="gv_cadhan-pos-PART.html">PART</a></tt> 120: <em><b>Cha</b> noddym geddyn barriaght er eh !</em>
+  * <tt><a href="gv_cadhan-pos-PART.html">PART</a></tt> 121: <em><b>Cha</b> dannee shin ayns shen rish feer foddey .</em>
   * <tt><a href="gv_cadhan-pos-AUX.html">AUX</a></tt> 1: <em><b>Cha</b> laik lesh yn sleih eh .</em>
 * <em>Nagh</em>
   * <tt><a href="gv_cadhan-pos-PART.html">PART</a></tt> 5: <em><b>Nagh</b> vel oo maynrey ?</em>

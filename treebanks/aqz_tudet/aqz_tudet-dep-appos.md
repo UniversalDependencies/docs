@@ -26,7 +26,7 @@ The following 4 pairs of parts of speech are connected with `appos`: <tt><a href
 2	ẽ	ẽ	DET	dem	Deixis=Prox	3	nmod	_	_
 3	tow	tow	NOUN	ideo	_	1	appos	_	_
 4	ẽ	ẽ	DET	dem	Deixis=Prox	5	nmod	_	_
-5	tow	tow	NOUN	ideo	_	7	nsubj	_	_
+5	tow	tow	NOUN	ideo	_	7	discourse	_	_
 6	ebapap	ebapap	NOUN	n	_	7	nmod	_	_
 7	ɨro	ɨro	NOUN	n	_	0	root	_	_
 8	tojẽpitin	tojẽpit	NOUN	n	_	7	appos	_	_

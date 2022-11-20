@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Latin-LLCT: Relations: `dislocated:csubj`
 
 This relation is a language-specific subtype of <tt><a href="la_llct-dep-dislocated.html">dislocated</a></tt>.
-There are also 2 other language-specific subtypes of `dislocated`: <tt><a href="la_llct-dep-dislocated-nsubj.html">dislocated:nsubj</a></tt>, <tt><a href="la_llct-dep-dislocated-obj.html">dislocated:obj</a></tt>.
+There are also 3 other language-specific subtypes of `dislocated`: <tt><a href="la_llct-dep-dislocated-nsubj.html">dislocated:nsubj</a></tt>, <tt><a href="la_llct-dep-dislocated-obj.html">dislocated:obj</a></tt>, <tt><a href="la_llct-dep-dislocated-obl.html">dislocated:obl</a></tt>.
 
 1 nodes (0%) are attached to their parents as `dislocated:csubj`.
 
@@ -23,7 +23,7 @@ The following 1 pairs of parts of speech are connected with `dislocated:csubj`: 
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 56 dislocated:csubj	color:blue
-1	contenebatur	contineo	VERB	v|v|3|s|i|i|p|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+1	contenebatur	contineo	VERB	v|v|3|s|i|i|p|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Imperfectum
 2	qualiter	qualiter	SCONJ	d|d|-|-|-|-|-|-|-|-	_	12	mark	_	_
 3	ipse	ipse	DET	p|p|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
 4	Racchisi	Ratchis	PROPN	Propn|n|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	_
@@ -34,13 +34,13 @@ The following 1 pairs of parts of speech are connected with `dislocated:csubj`: 
 9	sue	suus	DET	a|a|3|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes	8	det	_	_
 10	remedium	remedium	NOUN	n|n|-|s|-|-|-|n|b|-	Case=Abl|Gender=Neut|Number=Sing	12	obl	_	SpaceAfter=No
 11	,	,	PUNCT	Punc	_	10	punct	_	_
-12	offeruerat	offero	VERB	v|v|3|s|l|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	1	csubj:pass	_	_
+12	offeruerat	offero	VERB	v|v|3|s|l|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	1	csubj:pass	_	TraditionalMood=Indicativus|TraditionalTense=Plusquamperfectum
 13	Deo	Deus	PROPN	Propn|n|-|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing	12	obl:arg	_	_
 14	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	16	cc	_	_
 15	ipsius	ipse	DET	p|p|-|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	16	det	_	_
 16	ecclesie	ecclesia	NOUN	n|n|-|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing	13	conj	_	_
 17	sancte	sanctus	ADJ	a|a|-|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing	19	amod	_	_
-18	[--]	missing^token	PUNCT	Punc	_	17	punct	_	_
+18	[--]	_	X	Punc	_	17	dep	_	_
 19	Marie	Maria	PROPN	Propn|n|-|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing	16	nmod	_	_
 20	portione	portio	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	12	obj	_	_
 21	sua	suus	DET	a|a|3|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes	20	det	_	_
@@ -48,7 +48,7 @@ The following 1 pairs of parts of speech are connected with `dislocated:csubj`: 
 23	res	res	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	20	nmod	_	_
 24	illa	ille	DET	p|p|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing|PronType=Dem	23	det	_	_
 25	qui	qui	PRON	p|p|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	26	nsubj	_	_
-26	fuit	sum	VERB	v|v|3|s|r|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	20	acl:relcl	_	_
+26	fuit	sum	AUX	v|v|3|s|r|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	acl:relcl	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
 27	de	de	ADP	r|r|-|-|-|-|-|-|-|-	_	28	case	_	_
 28	iura	ius	NOUN	n|n|-|p|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Plur	26	obl	_	_
 29	parentorum	parens	NOUN	n|n|-|p|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Plur	28	nmod	_	_
@@ -78,7 +78,7 @@ The following 1 pairs of parts of speech are connected with `dislocated:csubj`: 
 53	portionem	portio	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	56	obj	_	_
 54	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	55	case	_	_
 55	integrum	integer	ADJ	a|a|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing	56	obl	_	_
-56	offeruerat	offero	VERB	v|v|3|s|l|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	1	dislocated:csubj	_	_
+56	offeruerat	offero	VERB	v|v|3|s|l|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	1	dislocated:csubj	_	TraditionalMood=Indicativus|TraditionalTense=Plusquamperfectum
 57	Deo	Deus	PROPN	Propn|n|-|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing	56	obl:arg	_	_
 58	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	59	cc	_	_
 59	eidem	idem	DET	p|p|-|s|-|-|-|f|d|-	Case=Dat|Gender=Fem|Number=Sing|PronType=Dem	57	conj	_	_

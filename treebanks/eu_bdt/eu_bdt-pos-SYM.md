@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Basque-BDT: POS Tags: `SYM`
 
 There are 6 `SYM` lemmas (0%), 8 `SYM` types (0%) and 15 `SYM` tokens (0%).
-Out of 16 observed tags, the rank of `SYM` is: 15 in number of lemmas, 15 in number of types and 16 in number of tokens.
+Out of 17 observed tags, the rank of `SYM` is: 15 in number of lemmas, 15 in number of types and 16 in number of tokens.
 
 The 10 most frequent `SYM` lemmas: <em>cm, m, kV, kg, kW, km</em>
 
@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>kv</em> (<tt><a href="eu_bdt-pos-NOUN
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.333333 (the average of all parts of speech is 2.172787).
+The form / lemma ratio of `SYM` is 1.333333 (the average of all parts of speech is 2.170820).
 
 The 1st highest number of forms (2) was observed with the lemma “cm”: <em>cm, cm-ko</em>.
 
@@ -52,15 +52,15 @@ Parents of `SYM` nodes belong to 4 different parts of speech: <tt><a href="eu_bd
 
 0 (0%) `SYM` nodes are leaves.
 
-14 (93%) `SYM` nodes have one child.
+5 (33%) `SYM` nodes have one child.
 
-0 (0%) `SYM` nodes have two children.
+3 (20%) `SYM` nodes have two children.
 
-1 (7%) `SYM` nodes have three or more children.
+7 (47%) `SYM` nodes have three or more children.
 
 The highest child degree of a `SYM` node is 3.
 
-Children of `SYM` nodes are attached using 4 different relations: <tt><a href="eu_bdt-dep-det.html">det</a></tt> (11; 65% instances), <tt><a href="eu_bdt-dep-nummod.html">nummod</a></tt> (4; 24% instances), <tt><a href="eu_bdt-dep-amod.html">amod</a></tt> (1; 6% instances), <tt><a href="eu_bdt-dep-cc.html">cc</a></tt> (1; 6% instances)
+Children of `SYM` nodes are attached using 4 different relations: <tt><a href="eu_bdt-dep-nummod.html">nummod</a></tt> (15; 47% instances), <tt><a href="eu_bdt-dep-punct.html">punct</a></tt> (15; 47% instances), <tt><a href="eu_bdt-dep-amod.html">amod</a></tt> (1; 3% instances), <tt><a href="eu_bdt-dep-cc.html">cc</a></tt> (1; 3% instances)
 
-Children of `SYM` nodes belong to 3 different parts of speech: <tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt> (15; 88% instances), <tt><a href="eu_bdt-pos-ADJ.html">ADJ</a></tt> (1; 6% instances), <tt><a href="eu_bdt-pos-CCONJ.html">CCONJ</a></tt> (1; 6% instances)
+Children of `SYM` nodes belong to 4 different parts of speech: <tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt> (15; 47% instances), <tt><a href="eu_bdt-pos-PUNCT.html">PUNCT</a></tt> (15; 47% instances), <tt><a href="eu_bdt-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="eu_bdt-pos-CCONJ.html">CCONJ</a></tt> (1; 3% instances)
 

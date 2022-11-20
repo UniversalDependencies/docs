@@ -21,7 +21,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="la_udante-pos-X.htm
 `X` tokens may have the following values of `Foreign`:
 
 * `Yes` (498; 100% of non-empty `Foreign`): <em>che, amor, per, lo, de, amore, non, donna, sì, d'</em>
-* `EMPTY` (13): <em>etc, tas, tus</em>
+* `EMPTY` (14): <em>etc, tas, tus, venire</em>
 
 `Foreign` seems to be **lexical feature** of `X`. 100% lemmas (280) occur only with one value of `Foreign`.
 
@@ -29,12 +29,12 @@ The feature is used with 3 part-of-speech tags: <tt><a href="la_udante-pos-X.htm
 
 59 <tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt> tokens (5% of all `PROPN` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `PROPN` and `Foreign` co-occurred: <tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=Ind</tt> (59; 100%), <tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (58; 98%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (46; 78%), <tt><a href="la_udante-feat-NameType.html">NameType</a></tt><tt>=Giv</tt> (41; 69%), <tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (37; 63%).
+The most frequent other feature values with which `PROPN` and `Foreign` co-occurred: <tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (59; 100%), <tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (59; 100%), <tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=EMPTY</tt> (59; 100%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (59; 100%), <tt><a href="la_udante-feat-NameType.html">NameType</a></tt><tt>=Giv</tt> (41; 69%).
 
 `PROPN` tokens may have the following values of `Foreign`:
 
-* `Yes` (59; 100% of non-empty `Foreign`): <em>Israel, David, Guinizelli, Ierusalem, Levi, Iacob, Amalech, Batifolle, Agag, Balaam</em>
-* `EMPTY` (1018): <em>Cristus, Petrus, Cristi, Ytalie, Petri, Cristum, Livius, Nicomacum, Cesaris, Ytalia</em>
+* `Yes` (59; 100% of non-empty `Foreign`): <em>Israel, Levi, David, Guinizelli, Ierusalem, Iacob, Amalech, Batifolle, Agag, Balaam</em>
+* `EMPTY` (1016): <em>Cristus, Petrus, Cristi, Ytalie, Petri, Cristum, Livius, Nicomacum, Cesaris, Ytalia</em>
 
 `Foreign` seems to be **lexical feature** of `PROPN`. 100% lemmas (22) occur only with one value of `Foreign`.
 
@@ -42,12 +42,12 @@ The most frequent other feature values with which `PROPN` and `Foreign` co-occur
 
 7 <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `NOUN` and `Foreign` co-occurred: <tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=Ind</tt> (7; 100%), <tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4; 57%).
+The most frequent other feature values with which `NOUN` and `Foreign` co-occurred: <tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (7; 100%).
 
 `NOUN` tokens may have the following values of `Foreign`:
 
-* `Yes` (7; 100% of non-empty `Foreign`): <em>cenith, Alfa, El, Omega, Sabaoth, Seraphin</em>
-* `EMPTY` (10187): <em>Dei, Deus, natura, terra, parte, mundi, genus, ratio, Deo, iure</em>
+* `Yes` (7; 100% of non-empty `Foreign`): <em>cenith, Sabaoth, Alfa, El, Omega, Seraphin</em>
+* `EMPTY` (10105): <em>Dei, Deus, natura, terra, parte, mundi, genus, ratio, Deo, iure</em>
 
 ## Relations with Agreement in `Foreign`
 

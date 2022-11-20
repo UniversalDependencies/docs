@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 `NOUN` tokens may have the following values of `Number`:
 
 * `Plur` (184; 100% of non-empty `Number`): 사람들이, 사람들에게, 사람들의, 투자자들이, 사람들은, 원주민들이, 의원들에게, 강대국들은, 개입들, 건물들
-* `EMPTY` (7898): 년, 수, 것, 중, 월, 후, 말했다, 일, 때문에, 인해
+* `EMPTY` (7868): 년, 수, 것, 중, 월, 후, 말했다, 일, 때문에, 인해
 
 `Number` seems to be **lexical feature** of `NOUN`. 100% lemmas (99) occur only with one value of `Number`.
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 `PROPN` tokens may have the following values of `Number`:
 
 * `Plur` (13; 100% of non-empty `Number`): 로마인들은, 아메리카인들, 가나안인들의, 그리스인들은, 멕시코인들에게, 미국인들의, 세파르디인들을, 유대인들의, 유럽인들은, 유럽인들이
-* `EMPTY` (1663): 미국, 영국, 중국, 중국의, 유럽, 지중해, 트럼프, 프랑스, 그리스, 독일
+* `EMPTY` (1664): 미국, 영국, 중국, 중국의, 유럽, 지중해, 트럼프, 프랑스, 그리스, 독일
 
 `Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (11) occur only with one value of `Number`.
 

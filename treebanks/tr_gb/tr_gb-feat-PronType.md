@@ -90,7 +90,7 @@ The most frequent other feature values with which `AUX` and `PronType` co-occurr
 `ADV` tokens may have the following values of `PronType`:
 
 * `Int` (31; 100% of non-empty `PronType`): <em>neden, nasıl, ne, niye, niçin</em>
-* `EMPTY` (1019): <em>çok, daha, de, artık, da, en, hiç, bile, biraz, pek</em>
+* `EMPTY` (1021): <em>çok, daha, de, artık, da, en, hiç, bile, biraz, pek</em>
 
 ### `ADJ`
 

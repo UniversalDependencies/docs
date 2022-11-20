@@ -23,4 +23,4 @@ a combination of a nominal form and a personal pronoun._
 * _<b>красив</b>_ “beautiful”, _<b>возможен</b>_ “able”, _<b>нужен</b>_ “necessary”, _<b>известен</b>_ “known”,
   _<b>доволен</b>_ “satisfied”, _<b>уверен</b>_ “sure”, _<b>равен</b>_ “equal”, _<b>готов</b>_ “finished”, _<b>связан</b>_ “connected”, _<b>виновен</b>_ “guilty”
 * Long equivalents: красивый, возможный, нужный, известный, довольный, уверенный, равный, готовый, связанный, виновный
-<!-- Interlanguage links updated So kvě 14 19:02:43 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:00 CET 2022 -->

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Hector Fernandez Alcalde, Laura Moreno Romero, Martin Popel, Daniel Zeman, Héctor Martínez Alonso.
 
 Repository: [UD_Spanish-PUD](https://github.com/UniversalDependencies/UD_Spanish-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udes_pud210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udes_pud211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-SA 3.0
 
@@ -129,7 +129,7 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
-<li>This corpus contains 21 lemmas tagged as pronouns (PRON): _, cual, cuanto, cuyo, cuál, her, mi, my, nuestro, que, quien, quién, qué, su, tu, tú, uno, ya, yo, you, él</li>
+<li>This corpus contains 20 lemmas tagged as pronouns (PRON): _, cual, cuanto, cuyo, cuál, her, mi, my, nuestro, que, quien, quién, qué, su, tu, tú, uno, yo, you, él</li>
 </ul>
 
 <ul>
@@ -746,7 +746,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB-Fin--NOUN (476)</li>
-      <li>VERB-Fin--PRON (128)</li>
+      <li>VERB-Fin--PRON (127)</li>
       <li>VERB-Fin--PRON-Acc,Nom (12)</li>
       <li>VERB-Fin--PRON-Nom (5)</li>
       <li>VERB-Ger--NOUN (16)</li>
@@ -767,7 +767,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB-Fin--NOUN (380)</li>
-      <li>VERB-Fin--PRON (22)</li>
+      <li>VERB-Fin--PRON (23)</li>
       <li>VERB-Fin--PRON-Acc (22)</li>
       <li>VERB-Fin--PRON-Acc,Dat (5)</li>
       <li>VERB-Fin--PRON-Com (1)</li>

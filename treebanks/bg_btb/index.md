@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.1 release.
 The following people have contributed to making this treebank part of UD: Kiril Simov, Petya Osenova, Martin Popel.
 
 Repository: [UD_Bulgarian-BTB](https://github.com/UniversalDependencies/UD_Bulgarian-BTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbg_btb210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbg_btb211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -92,7 +92,7 @@ We also would like to thank our annotator and validator to the treebank UD versi
 
 ## Relations
 
-[acl](bg_btb-dep-acl.html) – [acl:relcl](bg_btb-dep-acl-relcl.html) – [advcl](bg_btb-dep-advcl.html) – [advmod](bg_btb-dep-advmod.html) – [amod](bg_btb-dep-amod.html) – [appos](bg_btb-dep-appos.html) – [aux](bg_btb-dep-aux.html) – [aux:pass](bg_btb-dep-aux-pass.html) – [case](bg_btb-dep-case.html) – [cc](bg_btb-dep-cc.html) – [ccomp](bg_btb-dep-ccomp.html) – [compound](bg_btb-dep-compound.html) – [conj](bg_btb-dep-conj.html) – [cop](bg_btb-dep-cop.html) – [csubj](bg_btb-dep-csubj.html) – [csubj:pass](bg_btb-dep-csubj-pass.html) – [det](bg_btb-dep-det.html) – [discourse](bg_btb-dep-discourse.html) – [expl](bg_btb-dep-expl.html) – [fixed](bg_btb-dep-fixed.html) – [flat](bg_btb-dep-flat.html) – [goeswith](bg_btb-dep-goeswith.html) – [iobj](bg_btb-dep-iobj.html) – [mark](bg_btb-dep-mark.html) – [nmod](bg_btb-dep-nmod.html) – [nsubj](bg_btb-dep-nsubj.html) – [nsubj:pass](bg_btb-dep-nsubj-pass.html) – [nummod](bg_btb-dep-nummod.html) – [obj](bg_btb-dep-obj.html) – [obl](bg_btb-dep-obl.html) – [parataxis](bg_btb-dep-parataxis.html) – [punct](bg_btb-dep-punct.html) – [root](bg_btb-dep-root.html) – [vocative](bg_btb-dep-vocative.html) – [xcomp](bg_btb-dep-xcomp.html)
+[acl](bg_btb-dep-acl.html) – [acl:relcl](bg_btb-dep-acl-relcl.html) – [advcl](bg_btb-dep-advcl.html) – [advmod](bg_btb-dep-advmod.html) – [amod](bg_btb-dep-amod.html) – [appos](bg_btb-dep-appos.html) – [aux](bg_btb-dep-aux.html) – [aux:pass](bg_btb-dep-aux-pass.html) – [case](bg_btb-dep-case.html) – [cc](bg_btb-dep-cc.html) – [ccomp](bg_btb-dep-ccomp.html) – [compound](bg_btb-dep-compound.html) – [conj](bg_btb-dep-conj.html) – [cop](bg_btb-dep-cop.html) – [csubj](bg_btb-dep-csubj.html) – [csubj:pass](bg_btb-dep-csubj-pass.html) – [det](bg_btb-dep-det.html) – [discourse](bg_btb-dep-discourse.html) – [expl](bg_btb-dep-expl.html) – [fixed](bg_btb-dep-fixed.html) – [flat](bg_btb-dep-flat.html) – [iobj](bg_btb-dep-iobj.html) – [mark](bg_btb-dep-mark.html) – [nmod](bg_btb-dep-nmod.html) – [nsubj](bg_btb-dep-nsubj.html) – [nsubj:outer](bg_btb-dep-nsubj-outer.html) – [nsubj:pass](bg_btb-dep-nsubj-pass.html) – [nummod](bg_btb-dep-nummod.html) – [obj](bg_btb-dep-obj.html) – [obl](bg_btb-dep-obl.html) – [parataxis](bg_btb-dep-parataxis.html) – [punct](bg_btb-dep-punct.html) – [root](bg_btb-dep-root.html) – [vocative](bg_btb-dep-vocative.html) – [xcomp](bg_btb-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -935,6 +935,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 4 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>nsubj:pass</a></li>
-<li>The following 6 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>reparandum</a>, <a>dep</a></li>
+<li>This corpus uses 5 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a></li>
+<li>The following 7 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

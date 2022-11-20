@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Marco Passarotti, Marinella Testori, Daniel Zeman, Berta González Saavedra, Flavio Massimiliano Cecchini.
 
 Repository: [UD_Latin-ITTB](https://github.com/UniversalDependencies/UD_Latin-ITTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_ittb210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_ittb211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -84,11 +84,11 @@ year = {2010}
 
 ## Features
 
-[Abbr](la_ittb-feat-Abbr.html) – [AdpType](la_ittb-feat-AdpType.html) – [Aspect](la_ittb-feat-Aspect.html) – [Case](la_ittb-feat-Case.html) – [Clitic](la_ittb-feat-Clitic.html) – [Compound](la_ittb-feat-Compound.html) – [ConjType](la_ittb-feat-ConjType.html) – [Degree](la_ittb-feat-Degree.html) – [Foreign](la_ittb-feat-Foreign.html) – [Form](la_ittb-feat-Form.html) – [Gender](la_ittb-feat-Gender.html) – [InflClass](la_ittb-feat-InflClass.html) – [InflClass[nominal]](la_ittb-feat-InflClass-nominal.html) – [Mood](la_ittb-feat-Mood.html) – [NameType](la_ittb-feat-NameType.html) – [Number](la_ittb-feat-Number.html) – [Number[psor]](la_ittb-feat-Number-psor.html) – [NumForm](la_ittb-feat-NumForm.html) – [NumType](la_ittb-feat-NumType.html) – [Person](la_ittb-feat-Person.html) – [Person[psor]](la_ittb-feat-Person-psor.html) – [Polarity](la_ittb-feat-Polarity.html) – [Poss](la_ittb-feat-Poss.html) – [PronType](la_ittb-feat-PronType.html) – [Proper](la_ittb-feat-Proper.html) – [Reflex](la_ittb-feat-Reflex.html) – [Tense](la_ittb-feat-Tense.html) – [VerbForm](la_ittb-feat-VerbForm.html) – [VerbType](la_ittb-feat-VerbType.html) – [Voice](la_ittb-feat-Voice.html)
+[Abbr](la_ittb-feat-Abbr.html) – [AdvType](la_ittb-feat-AdvType.html) – [Aspect](la_ittb-feat-Aspect.html) – [Case](la_ittb-feat-Case.html) – [Compound](la_ittb-feat-Compound.html) – [Degree](la_ittb-feat-Degree.html) – [Foreign](la_ittb-feat-Foreign.html) – [Form](la_ittb-feat-Form.html) – [Gender](la_ittb-feat-Gender.html) – [InflClass](la_ittb-feat-InflClass.html) – [InflClass[nominal]](la_ittb-feat-InflClass-nominal.html) – [Mood](la_ittb-feat-Mood.html) – [NameType](la_ittb-feat-NameType.html) – [Number](la_ittb-feat-Number.html) – [Number[psor]](la_ittb-feat-Number-psor.html) – [NumForm](la_ittb-feat-NumForm.html) – [NumType](la_ittb-feat-NumType.html) – [NumValue](la_ittb-feat-NumValue.html) – [Person](la_ittb-feat-Person.html) – [Person[psor]](la_ittb-feat-Person-psor.html) – [Polarity](la_ittb-feat-Polarity.html) – [Poss](la_ittb-feat-Poss.html) – [PronType](la_ittb-feat-PronType.html) – [Proper](la_ittb-feat-Proper.html) – [Reflex](la_ittb-feat-Reflex.html) – [Tense](la_ittb-feat-Tense.html) – [VerbForm](la_ittb-feat-VerbForm.html) – [Voice](la_ittb-feat-Voice.html)
 
 ## Relations
 
-[acl](la_ittb-dep-acl.html) – [acl:relcl](la_ittb-dep-acl-relcl.html) – [advcl](la_ittb-dep-advcl.html) – [advcl:cmpr](la_ittb-dep-advcl-cmpr.html) – [advcl:pred](la_ittb-dep-advcl-pred.html) – [advmod](la_ittb-dep-advmod.html) – [advmod:emph](la_ittb-dep-advmod-emph.html) – [advmod:neg](la_ittb-dep-advmod-neg.html) – [amod](la_ittb-dep-amod.html) – [appos](la_ittb-dep-appos.html) – [aux](la_ittb-dep-aux.html) – [aux:pass](la_ittb-dep-aux-pass.html) – [case](la_ittb-dep-case.html) – [cc](la_ittb-dep-cc.html) – [ccomp](la_ittb-dep-ccomp.html) – [compound](la_ittb-dep-compound.html) – [conj](la_ittb-dep-conj.html) – [conj:expl](la_ittb-dep-conj-expl.html) – [cop](la_ittb-dep-cop.html) – [csubj](la_ittb-dep-csubj.html) – [csubj:pass](la_ittb-dep-csubj-pass.html) – [det](la_ittb-dep-det.html) – [discourse](la_ittb-dep-discourse.html) – [dislocated:nsubj](la_ittb-dep-dislocated-nsubj.html) – [expl:pass](la_ittb-dep-expl-pass.html) – [fixed](la_ittb-dep-fixed.html) – [flat](la_ittb-dep-flat.html) – [mark](la_ittb-dep-mark.html) – [nmod](la_ittb-dep-nmod.html) – [nsubj](la_ittb-dep-nsubj.html) – [nsubj:pass](la_ittb-dep-nsubj-pass.html) – [nummod](la_ittb-dep-nummod.html) – [obj](la_ittb-dep-obj.html) – [obl](la_ittb-dep-obl.html) – [obl:agent](la_ittb-dep-obl-agent.html) – [obl:arg](la_ittb-dep-obl-arg.html) – [orphan](la_ittb-dep-orphan.html) – [parataxis](la_ittb-dep-parataxis.html) – [parataxis:rep](la_ittb-dep-parataxis-rep.html) – [punct](la_ittb-dep-punct.html) – [root](la_ittb-dep-root.html) – [vocative](la_ittb-dep-vocative.html) – [xcomp](la_ittb-dep-xcomp.html) – [xcomp:pred](la_ittb-dep-xcomp-pred.html)
+[acl](la_ittb-dep-acl.html) – [acl:relcl](la_ittb-dep-acl-relcl.html) – [advcl](la_ittb-dep-advcl.html) – [advcl:abs](la_ittb-dep-advcl-abs.html) – [advcl:cmp](la_ittb-dep-advcl-cmp.html) – [advcl:pred](la_ittb-dep-advcl-pred.html) – [advcl:relcl](la_ittb-dep-advcl-relcl.html) – [advmod](la_ittb-dep-advmod.html) – [advmod:emph](la_ittb-dep-advmod-emph.html) – [advmod:lmod](la_ittb-dep-advmod-lmod.html) – [advmod:neg](la_ittb-dep-advmod-neg.html) – [advmod:tmod](la_ittb-dep-advmod-tmod.html) – [amod](la_ittb-dep-amod.html) – [appos](la_ittb-dep-appos.html) – [aux](la_ittb-dep-aux.html) – [aux:pass](la_ittb-dep-aux-pass.html) – [case](la_ittb-dep-case.html) – [cc](la_ittb-dep-cc.html) – [ccomp](la_ittb-dep-ccomp.html) – [ccomp:relcl](la_ittb-dep-ccomp-relcl.html) – [ccomp:reported](la_ittb-dep-ccomp-reported.html) – [compound](la_ittb-dep-compound.html) – [conj](la_ittb-dep-conj.html) – [conj:expl](la_ittb-dep-conj-expl.html) – [cop](la_ittb-dep-cop.html) – [cop:outer](la_ittb-dep-cop-outer.html) – [csubj](la_ittb-dep-csubj.html) – [csubj:cleft](la_ittb-dep-csubj-cleft.html) – [csubj:pass](la_ittb-dep-csubj-pass.html) – [csubj:relcl](la_ittb-dep-csubj-relcl.html) – [det](la_ittb-dep-det.html) – [discourse](la_ittb-dep-discourse.html) – [dislocated:advcl](la_ittb-dep-dislocated-advcl.html) – [dislocated:ccomp](la_ittb-dep-dislocated-ccomp.html) – [dislocated:csubj](la_ittb-dep-dislocated-csubj.html) – [dislocated:nsubj](la_ittb-dep-dislocated-nsubj.html) – [dislocated:obl](la_ittb-dep-dislocated-obl.html) – [expl:pass](la_ittb-dep-expl-pass.html) – [fixed](la_ittb-dep-fixed.html) – [flat](la_ittb-dep-flat.html) – [mark](la_ittb-dep-mark.html) – [nmod](la_ittb-dep-nmod.html) – [nsubj](la_ittb-dep-nsubj.html) – [nsubj:outer](la_ittb-dep-nsubj-outer.html) – [nsubj:pass](la_ittb-dep-nsubj-pass.html) – [nummod](la_ittb-dep-nummod.html) – [obj](la_ittb-dep-obj.html) – [obl](la_ittb-dep-obl.html) – [obl:agent](la_ittb-dep-obl-agent.html) – [obl:arg](la_ittb-dep-obl-arg.html) – [obl:lmod](la_ittb-dep-obl-lmod.html) – [obl:tmod](la_ittb-dep-obl-tmod.html) – [orphan](la_ittb-dep-orphan.html) – [parataxis](la_ittb-dep-parataxis.html) – [parataxis:rep](la_ittb-dep-parataxis-rep.html) – [punct](la_ittb-dep-punct.html) – [reparandum](la_ittb-dep-reparandum.html) – [root](la_ittb-dep-root.html) – [vocative](la_ittb-dep-vocative.html) – [xcomp](la_ittb-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -122,7 +122,7 @@ year = {2010}
 </ul>
 
 <ul>
-<li>This corpus contains 5 word types tagged as particles (PART): nam, namque, ne, non, quidem</li>
+<li>This corpus contains 8 word types tagged as particles (PART): autem, enim, nam, namque, ne, non, quidem, quoque</li>
 </ul>
 
 <ul>
@@ -130,11 +130,11 @@ year = {2010}
 </ul>
 
 <ul>
-<li>This corpus contains 53 lemmas tagged as determiners (DET): aliquantus, aliqui, aliquis, alius, alter, ceterus, cunctus, hic, huiusmodi, idem, ille, ipse, is, iste, ly, meus, neuter, nonnullus, noster, nullus, omnis, paruus, plerusque, plurimus, qualis, qualiscumque, quantus, quantuscumque, quantuslibet, qui, quicumque, quidam, quilibet, quisque, quisquis, quiuis, quot, quotlibet, quotquot, reliquus, seipsum, solus, suus, talis, tantus, tot, totus, tuus, uester, ullus, unusquisque, uterlibet, uterque</li>
+<li>This corpus contains 54 lemmas tagged as determiners (DET): aliquantus, aliqui, aliquis, alius, alter, ceterus, cunctus, hic, huiusmodi, idem, ille, ipse, iste, ly, meus, multus, neuter, nonnullus, noster, nullus, omnis, paruus, plerusque, plurimus, qualis, qualiscumque, quantus, quantuscumque, quantuslibet, qui, quicumque, quidam, quilibet, quisque, quisquis, quiuis, quot, quotlibet, quotquot, reliquus, seipsum, solus, suus, talis, tantus, tot, totus, tuus, uester, ullus, unus, unusquisque, uterlibet, uterque</li>
 </ul>
 
 <ul>
-<li>Out of the above, 6 lemmas occurred sometimes as PRON and sometimes as DET: aliquis, is, qui, quisquis, reliquus, seipsum</li>
+<li>Out of the above, 5 lemmas occurred sometimes as PRON and sometimes as DET: aliquis, qui, quisquis, reliquus, seipsum</li>
 </ul>
 
 <ul>
@@ -153,17 +153,9 @@ year = {2010}
   <ul>
     <li>ADV: puta, scilicet, idest</li>
     <li>AUX: est, sit, sunt, esset, sint, erit, fuit, erat, fuerit, essent</li>
-    <li>CCONJ: scilicet, idest, uidelicet</li>
+    <li>CCONJ: scilicet, idest, uidelicet, puta</li>
     <li>SCONJ: puta</li>
     <li>VERB: potest, oportet, dicitur, habet, patet, dicit, uidetur, fit, possunt, habent</li>
-  </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Gdv
-  <ul>
-    <li>VERB: dicendum, considerandum, sciendum, intelligendum, ostendendum, intelligenda, consideranda, ponenda, referendum, consequendam</li>
   </ul>
   </li>
 </ul>
@@ -172,7 +164,6 @@ year = {2010}
   <li>Ger
   <ul>
     <li>AUX: essendi, essendo, essendum</li>
-    <li>VERB: agendo, intelligendo, cognoscendo, agendum, uiuendi, intelligendum, recipiendum, intelligendi, cognoscendum, mouendo</li>
   </ul>
   </li>
 </ul>
@@ -181,7 +172,6 @@ year = {2010}
   <li>Inf
   <ul>
     <li>AUX: esse, fuisse, necesse-esse, fore</li>
-    <li>VERB: intelligere, dici, fieri, habere, facere, dicere, uelle, agere, intelligi, moueri</li>
   </ul>
   </li>
 </ul>
@@ -192,7 +182,15 @@ year = {2010}
     <li>ADJ: inhaerens, nota, perfectas, sancto, sanctos, sanctus</li>
     <li>AUX: ens, futura, futuram, futurum, entia, futuri, futuris, futuro, futurus, entium</li>
     <li>NOUN: accidens, agens, conuerso, agente, agentia, debitum, patiens, praedicatum</li>
-    <li>VERB: ostensum, dictum, mouens, separatae, dictis, consequens, probatum, agens, separata, praedicta</li>
+    <li>VERB: ostensum, dicendum, dictum, mouens, separatae, dictis, consequens, probatum, agens, separata</li>
+  </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Vnoun
+  <ul>
+    <li>VERB: intelligere, dici, fieri, habere, facere, dicere, uelle, agere, intelligi, moueri</li>
   </ul>
   </li>
 </ul>
@@ -210,12 +208,11 @@ year = {2010}
       <li>ADJ: diuina, diuinae, diuinam, prima, humana, intellectualis, humanae, propria, substantialis, humanam</li>
       <li>ADJ-Part: inhaerens, perfectas</li>
       <li>AUX-Part: futuram, futura, ens, futurae, futuras</li>
-      <li>DET: suam, sua, aliqua, ipsa, aliquam, omnis, haec, quaedam, suae, omnes</li>
+      <li>DET: suam, sua, aliqua, ipsa, aliquam, una, omnis, haec, quaedam, suae</li>
       <li>NOUN: forma, formam, formae, materia, anima, potentia, causa, natura, substantia, naturae</li>
-      <li>NUM: una, unam, unius, duae, tres, duabus, duas, trium, uni, tribus</li>
-      <li>PRON: quae, quam, qua, eius, eam, quibus, ea, eas, earum, eis</li>
-      <li>PROPN: exodi, maria, genesis, mariae, mariam, niniue, babylonem, eua, euam, matth.</li>
-      <li>VERB-Gdv: consequendam, intelligendas, ponenda, habendam, consideranda, intelligenda, intelligendam, uidendam, quaerenda, suscipiendam</li>
+      <li>NUM: duae, tres, duabus, duas, trium, tribus, duarum, duo, duobus, una</li>
+      <li>PRON: quae, quam, qua, eius, eam, quibus, ea, earum, eas, eis</li>
+      <li>PROPN: exodi, maria, genesis, mariae, mariam, niniue, babylonem, eua, euam, priscillae</li>
       <li>VERB-Part: separatae, separata, separatas, praedicta, creata, praedictae, separatis, creatis, facta, existens</li>
     </ul>
   </li>
@@ -227,13 +224,12 @@ year = {2010}
       <li>ADJ: christi, possibilis, christus, christo, sanctus, primo, ultimum, ultimus, sancti, uniuersi</li>
       <li>ADJ-Part: sancto, sanctos, sanctus</li>
       <li>AUX-Part: futuro, futurus, futuri, futuris, futuros</li>
-      <li>DET: ipse, ipso, quidam, ipsum, omnes, ipsius, alio, hunc, hic, hoc</li>
+      <li>DET: ipse, ipso, quidam, ipsum, unus, omnes, ipsius, alio, hunc, hic</li>
       <li>NOUN: intellectus, homo, actu, finem, modo, hominis, actus, finis, modum, effectus</li>
       <li>NOUN-Part: accidens</li>
-      <li>NUM: unus, uno, unum, unius, duo, tres, duobus, uni, duos, tribus</li>
+      <li>NUM: duo, tres, duobus, duos, tribus, duorum, trium</li>
       <li>PRON: qui, eius, quo, eo, ei, aliquis, eum, quem, quis, seipsum</li>
       <li>PROPN: deus, dei, deo, deum, aristoteles, aristotelis, dionysius, augustinus, plato, boetius</li>
-      <li>VERB-Gdv: exhibendus, producendos, intelligendus, aestimandus, baptizandus, crucifigendus, destruendos, producendis, puniendus, remouendus</li>
       <li>VERB-Part: agens, dicens, intelligens, factus, creatus, agentem, natus, agentis, compositus, habens</li>
     </ul>
   </li>
@@ -242,21 +238,18 @@ year = {2010}
 <ul>
   <li>Neut
     <ul>
-      <li>ADJ: impossibile, manifestum, primum, possibile, necessarium, proprium, infinitum, uerum, multa, contrarium</li>
+      <li>ADJ: impossibile, manifestum, primum, possibile, necessarium, proprium, infinitum, uerum, contrarium, naturale</li>
       <li>ADJ-Part: nota</li>
-      <li>AUX: ens, futurum, esse, futura, entia, entium, futuri, futuris</li>
+      <li>AUX: ens, futurum, futura, entia, esse, entium, futuri, futuris</li>
       <li>AUX-Inf: esse</li>
       <li>AUX-Part: ens, futurum, futura, entia, entium, futuri, futuris</li>
-      <li>DET: hoc, omnia, illud, aliud, omne, ipsum, his, alia, aliquod, suum</li>
-      <li>NOUN: esse, corpus, bonum, principium, corporis, malum, agens, uerbum, accidens, corpore</li>
+      <li>DET: hoc, omnia, illud, unum, aliud, omne, ipsum, his, alia, aliquod</li>
+      <li>NOUN: corpus, bonum, principium, corporis, malum, agens, uerbum, accidens, corpore, corpora</li>
       <li>NOUN-Part: accidens, agens, conuerso, agente, agentia, debitum, patiens, praedicatum</li>
-      <li>NUM: unum, duo, uno, unius, duobus, tria, duorum, quatuor, uni, tribus</li>
-      <li>PRON: quod, quae, aliquid, nihil, ea, quo, id, eo, eius, eorum</li>
+      <li>NUM: duo, duobus, tria, duorum, tribus, millia, centena, duos, millium, trium</li>
+      <li>PRON: quod, quae, aliquid, ea, quo, id, eo, eius, eorum, quibus</li>
       <li>PROPN: euangelio, euangelium, centilogio, euangelii, euangeliis, purgatorium, soliloquiorum, infernum, purgatorio, deo</li>
-      <li>VERB-Gdv: dicendum, considerandum, sciendum, intelligendum, ostendendum, referendum, inquirendum, intelligenda, aestimandum, agendis</li>
-      <li>VERB-Ger: agendo, intelligendo, cognoscendo, agendum, uiuendi, intelligendum, recipiendum, intelligendi, cognoscendum, mouendo</li>
-      <li>VERB-Inf: intelligere, dici, fieri, habere, facere, dicere, uelle, agere, intelligi, moueri</li>
-      <li>VERB-Part: ostensum, dictum, mouens, dictis, probatum, praemissis, consequens, factum, conueniens, motum</li>
+      <li>VERB-Part: ostensum, dicendum, dictum, mouens, dictis, probatum, praemissis, consequens, factum, conueniens</li>
     </ul>
   </li>
 </ul>
@@ -269,7 +262,7 @@ year = {2010}
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: intellectuales, plures, multa, intelligibiles, diuersis, intelligibilia, caelestia, caelestium, inferioribus, naturalibus</li>
+      <li>ADJ: intellectuales, intelligibiles, diuersis, intelligibilia, caelestia, caelestium, inferioribus, naturalibus, naturales, superioribus</li>
       <li>ADJ-Part: nota, perfectas, sanctos</li>
       <li>AUX-Fin: sunt, sint, essent, erunt, fuerunt, sumus, erant, fuerint, estis, simus</li>
       <li>AUX-Part: futura, entia, futuris, entium, futuras, futuros</li>
@@ -277,10 +270,9 @@ year = {2010}
       <li>NOUN: rerum, rebus, formae, res, corpora, formas, homines, substantiae, corporibus, corporum</li>
       <li>NOUN-Part: agentia</li>
       <li>NUM: duo, duobus, duae, tres, tria, duabus, duas, duorum, tribus, duos</li>
-      <li>PRON: quae, ea, qui, quibus, nobis, eorum, eis, nos, quorum, earum</li>
+      <li>PRON: quae, ea, qui, quibus, eorum, nobis, eis, nos, quorum, earum</li>
       <li>PROPN: euangelistae, euangeliis, soliloquiorum, meteororum, euangelistas, euangelistis, inferna, infernorum, syrorum</li>
       <li>VERB-Fin: possunt, habent, dicuntur, dicimus, dicunt, fiunt, ordinantur, uidentur, pertinent, uidemus</li>
-      <li>VERB-Gdv: intelligendas, intelligenda, producendos, agendis, cognoscenda, consideranda, credenda, agenda, intelligendae, uitanda</li>
       <li>VERB-Part: dictis, praemissis, separatas, separatae, praedictis, intellecta, separatis, creatis, facta, dicta</li>
     </ul>
   </li>
@@ -296,17 +288,14 @@ year = {2010}
       <li>AUX-Ger: essendi, essendo, essendum</li>
       <li>AUX-Inf: esse</li>
       <li>AUX-Part: ens, futuram, futurum, futura, futuri, futuro, futurus, futurae</li>
-      <li>DET: hoc, ipsum, suam, illud, sua, aliqua, aliud, omnis, suum, ipse</li>
-      <li>NOUN: forma, esse, intellectus, formam, materia, anima, potentia, homo, corpus, actu</li>
+      <li>DET: hoc, ipsum, unum, suam, illud, sua, aliqua, aliud, omnis, suum</li>
+      <li>NOUN: forma, intellectus, formam, materia, anima, potentia, homo, corpus, actu, bonum</li>
       <li>NOUN-Part: accidens, agens, conuerso, agente, debitum, patiens, praedicatum</li>
-      <li>NUM: unum, una, unus, uno, unius, unam, uni, duobus, primum</li>
-      <li>PRON: quod, quae, eius, aliquid, qui, quo, eo, quam, nihil, ei</li>
+      <li>NUM: duobus, una</li>
+      <li>PRON: quod, quae, eius, aliquid, qui, quo, eo, quam, ei, id</li>
       <li>PROPN: deus, dei, deo, deum, aristoteles, aristotelis, dionysius, augustinus, plato, boetius</li>
       <li>VERB-Fin: potest, oportet, dicitur, habet, patet, dicit, uidetur, fit, possit, sequitur</li>
-      <li>VERB-Gdv: dicendum, considerandum, sciendum, intelligendum, ostendendum, referendum, consequendam, inquirendum, ponenda, exhibendus</li>
-      <li>VERB-Ger: agendo, intelligendo, cognoscendo, agendum, uiuendi, intelligendum, recipiendum, intelligendi, cognoscendum, mouendo</li>
-      <li>VERB-Inf: intelligere, dici, fieri, habere, facere, dicere, uelle, agere, intelligi, moueri</li>
-      <li>VERB-Part: ostensum, dictum, mouens, consequens, probatum, agens, separata, conueniens, factum, habens</li>
+      <li>VERB-Part: ostensum, dicendum, dictum, mouens, consequens, probatum, agens, separata, conueniens, factum</li>
     </ul>
   </li>
 </ul>
@@ -318,19 +307,17 @@ year = {2010}
 <ul>
   <li>Abl
     <ul>
-      <li>ADJ: diuina, primo, christo, naturali, diuersis, naturalibus, superioribus, nouo, inferioribus, pluribus</li>
+      <li>ADJ: diuina, primo, christo, naturali, diuersis, naturalibus, superioribus, nouo, inferioribus, humana</li>
       <li>AUX-Ger: essendo</li>
       <li>AUX-Inf: esse</li>
       <li>AUX-Part: futuris, futuro</li>
-      <li>DET: hoc, his, ipso, alio, aliis, sua, omnibus, aliquo, hac, eodem</li>
+      <li>DET: hoc, his, ipso, alio, aliis, sua, omnibus, aliquo, uno, hac</li>
       <li>NOUN: actu, forma, modo, materia, potentia, rebus, ratione, intellectu, corpore, uirtute</li>
       <li>NOUN-Part: conuerso, agente</li>
-      <li>NUM: uno, una, duobus, duabus, tribus</li>
-      <li>PRON: quo, eo, quibus, qua, se, nobis, eis, aliquo, ea, seipso</li>
+      <li>NUM: duobus, duabus, tribus, una</li>
+      <li>PRON: quo, eo, quibus, qua, se, nobis, eis, ea, aliquo, seipso</li>
       <li>PROPN: deo, adam, aristotele, iesu, euangelio, maria, diabolo, platone, socrate, dionysio</li>
-      <li>VERB-Gdv: agendis, cognoscendis, diluendis, faciendis, inferendis, obtinenda, acquirendis, administrandis, alligando, assignanda</li>
-      <li>VERB-Ger: agendo, intelligendo, cognoscendo, mouendo, loquendo, uolendo, operando, causando, amando, peccando</li>
-      <li>VERB-Part: dictis, praemissis, praedictis, agente, mediante, separatis, creatis, existente, intelligente, mediantibus</li>
+      <li>VERB-Part: dictis, praemissis, praedictis, agente, agendo, intelligendo, mediante, separatis, creatis, cognoscendo</li>
     </ul>
   </li>
 </ul>
@@ -344,16 +331,13 @@ year = {2010}
       <li>AUX-Ger: essendum</li>
       <li>AUX-Inf: esse</li>
       <li>AUX-Part: futuram, ens, futurum, futura, entia, futuras, futuros</li>
-      <li>DET: hoc, suam, omnia, ipsum, aliquam, illud, suum, alia, omnes, hanc</li>
-      <li>NOUN: formam, esse, finem, naturam, modum, intellectum, materiam, rationem, speciem, animam</li>
+      <li>DET: hoc, suam, omnia, ipsum, aliquam, illud, suum, unum, alia, omnes</li>
+      <li>NOUN: formam, finem, naturam, modum, intellectum, materiam, rationem, speciem, animam, actum</li>
       <li>NOUN-Part: accidens, agentia, patiens, praedicatum</li>
-      <li>NUM: unum, unam, duo, duas, tres, duos, tria</li>
+      <li>NUM: duo, duas, tres, duos, tria</li>
       <li>PRON: se, quod, aliquid, quam, quae, ea, seipsum, id, eam, eum</li>
       <li>PROPN: deum, iesum, aristotelem, augustinum, moysen, platonem, socratem, gregorium, commentatorem, euangelium</li>
-      <li>VERB-Gdv: dicendum, consequendam, intelligendas, habendam, producendos, intelligendam, uidendam, cognoscenda, suscipiendam, cognoscendam</li>
-      <li>VERB-Ger: agendum, intelligendum, recipiendum, cognoscendum, operandum, ostendendum, significandum, probandum, producendum, eligendum</li>
-      <li>VERB-Inf: dici, intelligere, fieri, facere, habere, intelligi, cognoscere, agere, dicere, uelle</li>
-      <li>VERB-Part: separatas, consequens, agentem, mouens, praedictam, determinatum, factum, determinatam, praedicta, motum</li>
+      <li>VERB-Part: separatas, consequens, agentem, mouens, praedictam, agendum, determinatum, factum, dicendum, determinatam</li>
     </ul>
   </li>
 </ul>
@@ -365,11 +349,9 @@ year = {2010}
       <li>ADJ-Part: sancto</li>
       <li>DET: aliis, omnibus, huic, alteri, his, illi, alicui, unicuique, suae, cuilibet</li>
       <li>NOUN: corpori, homini, formae, rebus, hominibus, materiae, rei, corporibus, animae, naturae</li>
-      <li>NUM: uni, duobus, duabus, tribus</li>
+      <li>NUM: duobus, duabus, tribus</li>
       <li>PRON: ei, sibi, nobis, eis, cui, alicui, quibus, uobis, mihi, tibi</li>
       <li>PROPN: deo, isaiae, moysi, petro, lucae, salomoni, ezechiae, iesu, oseae, socrati</li>
-      <li>VERB-Gdv: abiiciendae, educandae, generandae, implendae, introducendae, introducendis, obediendo, producendis</li>
-      <li>VERB-Ger: amando, cognoscendo, sanando</li>
       <li>VERB-Part: praedictae, praedictis, creatis, existenti, agenti, habenti, peccantibus, separatis, existentibus, creatae</li>
     </ul>
   </li>
@@ -381,14 +363,12 @@ year = {2010}
       <li>ADJ: christi, diuinae, humanae, caelestium, uniuersi, primi, sancti, naturalis, sensibilium, intellectualis</li>
       <li>AUX-Ger: essendi</li>
       <li>AUX-Part: futuri, entium, futurae</li>
-      <li>DET: ipsius, omnium, huius, suae, alicuius, illius, alterius, totius, sui, eiusdem</li>
+      <li>DET: ipsius, omnium, huius, suae, alicuius, illius, alterius, totius, unius, sui</li>
       <li>NOUN: hominis, formae, rerum, corporis, naturae, intellectus, rei, animae, materiae, speciei</li>
-      <li>NUM: unius, duorum, trium, duarum, millium</li>
-      <li>PRON: eius, eorum, cuius, quorum, alicuius, earum, sui, quarum, aliquorum, mei</li>
+      <li>NUM: duorum, trium, duarum, millium</li>
+      <li>PRON: eius, eorum, cuius, quorum, alicuius, earum, sui, quarum, aliquorum, earumque</li>
       <li>PROPN: dei, aristotelis, platonis, isaiae, iesu, auicennae, exodi, ioannis, origenis, augustini</li>
-      <li>VERB-Gdv: dicendorum, fiendae, manifestandae, adipiscendae, aedificandae, agendorum, appetendorum, consecrandi, damnandorum, distribuendarum</li>
-      <li>VERB-Ger: uiuendi, intelligendi, agendi, cognoscendi, loquendi, uolendi, significandi, baptizandi, operandi, peccandi</li>
-      <li>VERB-Part: separatae, agentis, mouentis, intelligentis, generantis, resurgentium, separatarum, existentis, mixti, dicentium</li>
+      <li>VERB-Part: separatae, agentis, mouentis, uiuendi, intelligentis, generantis, resurgentium, separatarum, existentis, mixti</li>
     </ul>
   </li>
 </ul>
@@ -396,7 +376,8 @@ year = {2010}
 <ul>
   <li>Loc
     <ul>
-      <li>DET: solum, aliter, hic, qualiter</li>
+      <li>ADV: hinc, hic</li>
+      <li>DET: solum, aliter, hic, plus, qualiter</li>
       <li>NOUN: amplius, uero, similiter, primo, secundo, tertio, praecipue, forte, minus, prius</li>
       <li>VERB-Part: consequens, contingenter, deficienter, differenter, aperte, consequenter, diuisim, expressius, mediate, unite</li>
     </ul>
@@ -408,18 +389,14 @@ year = {2010}
     <ul>
       <li>ADJ: impossibile, diuina, manifestum, prima, humana, possibile, possibilis, christus, necessarium, primum</li>
       <li>ADJ-Part: inhaerens, nota, sanctus</li>
-      <li>AUX: ens, futura, entia, futurum, futurus, esse</li>
       <li>AUX-Part: ens, futura, entia, futurum, futurus</li>
-      <li>DET: hoc, haec, ipse, quaedam, aliqua, omnis, omnia, omne, alia, ipsa</li>
-      <li>NOUN: forma, intellectus, homo, anima, causa, esse, materia, corpus, substantia, actus</li>
+      <li>DET: hoc, haec, ipse, quaedam, aliqua, omnis, omnia, omne, unum, alia</li>
+      <li>NOUN: forma, intellectus, homo, anima, causa, materia, corpus, substantia, actus, finis</li>
       <li>NOUN-Part: accidens, agens, debitum</li>
-      <li>NUM: unum, una, unus, duo, duae, tres, tria, millia, centena, duos</li>
-      <li>PRON: quae, quod, qui, aliquid, nihil, aliquis, id, ea, quis, quid</li>
+      <li>NUM: duo, duae, tres, tria, millia, centena, duos</li>
+      <li>PRON: quae, quod, qui, aliquid, aliquis, id, ea, quis, quid, ego</li>
       <li>PROPN: deus, aristoteles, dionysius, augustinus, plato, boetius, commentator, gregorius, auerroes, iesus</li>
-      <li>VERB-Gdv: dicendum, considerandum, sciendum, intelligendum, ostendendum, intelligenda, consideranda, ponenda, referendum, inquirendum</li>
-      <li>VERB-Ger: dicendum, instruendi, liberandi</li>
-      <li>VERB-Inf: intelligere, dicere, ponere, fieri, habere, uelle, agere, moueri, procedere, facere</li>
-      <li>VERB-Part: ostensum, dictum, probatum, agens, mouens, conueniens, separatae, separata, habens, existens</li>
+      <li>VERB-Part: ostensum, dicendum, dictum, probatum, agens, mouens, conueniens, separatae, separata, habens</li>
     </ul>
   </li>
 </ul>
@@ -449,7 +426,7 @@ year = {2010}
     <ul>
       <li>ADJ: ultimum, ultimus, ultima, ultimo, ultimam, optimum, perfectissimum, ultimi, infima, maxima</li>
       <li>ADV: maxime, perfectissime, conuenientissime, optime, potissime, summe, ultimo, minime, plenissime, uerissime</li>
-      <li>DET: plurimas</li>
+      <li>DET: plurima, plurimi, plurimas, plurimae, plurimum, plurimam, plurimis, plurimorum, plurimos</li>
       <li>VERB-Part: conuenientissimum, expedientissimum, notissima, remotissima, abiectissimam, excellentissima, excellentissimae, excellentissimam, notissimas, notissimum</li>
     </ul>
   </li>
@@ -458,10 +435,19 @@ year = {2010}
 <ul>
   <li>Cmp
     <ul>
-      <li>ADJ: plures, prius, inferioribus, superioribus, pluribus, plura, maius, superior, inferiora, maior</li>
+      <li>ADJ: prius, inferioribus, superioribus, maius, superior, inferiora, maior, inferiores, melius, perfectior</li>
       <li>ADV: prius, minus, ulterius, perfectius, superius, exterius, potius, amplius, melius, plus</li>
-      <li>DET: plerumque, pleraque</li>
+      <li>DET: plures, pluribus, plura, plus, plurium, plerumque, pleraque</li>
       <li>VERB-Part: conuenientior, eminentior, perfectiorem, excelsior, expressior, intensior, perfectior, perfectiores, potentior, potentius</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Dim
+    <ul>
+      <li>ADJ: masculo</li>
+      <li>NOUN: art., circuli, circulo, quaestiunc., stillam, articulo, capillos, circulum, circulus, cultellus</li>
     </ul>
   </li>
 </ul>
@@ -473,9 +459,11 @@ year = {2010}
 <ul>
   <li>Neg
     <ul>
+      <li>ADV: nihil, nil</li>
       <li>CCONJ: neque, nec</li>
+      <li>DET: nulla, nullo, nullum, nullus, nullam, nulli, nullius, neutrum, neutra, neutro</li>
       <li>PART: non, ne</li>
-      <li>PRON: nihil, nihilo, nihilum, nil</li>
+      <li>PRON: nihil, nemo, nihilo, nihilum, nemini, neminem, nil</li>
       <li>SCONJ: nisi</li>
     </ul>
   </li>
@@ -493,8 +481,8 @@ year = {2010}
   <li>Imp
     <ul>
       <li>VERB-Fin: potest, oportet, dicitur, habet, patet, dicit, uidetur, fit, possunt, habent</li>
-      <li>VERB-Inf: intelligere, dici, fieri, habere, facere, dicere, uelle, agere, intelligi, moueri</li>
       <li>VERB-Part: mouens, consequens, agens, conueniens, habens, existens, intelligens, dicens, agentem, agente</li>
+      <li>VERB-Vnoun: intelligere, dici, fieri, habere, facere, dicere, uelle, agere, intelligi, moueri</li>
     </ul>
   </li>
 </ul>
@@ -503,8 +491,8 @@ year = {2010}
   <li>Perf
     <ul>
       <li>VERB-Fin: dixit, posuerunt, oportuit, dedit, posuit, dixerunt, habuit, uoluit, nouit, fecit</li>
-      <li>VERB-Inf: descendisse, creasse, processisse, extitisse, peccasse, fecisse, habuisse, praeextitisse, apparuisse, dixisse</li>
       <li>VERB-Part: ostensum, dictum, separatae, dictis, probatum, separata, praedicta, praemissis, intellecta, facta</li>
+      <li>VERB-Vnoun: descendisse, creasse, processisse, extitisse, peccasse, fecisse, habuisse, praeextitisse, apparuisse, dixisse</li>
     </ul>
   </li>
 </ul>
@@ -512,9 +500,7 @@ year = {2010}
 <ul>
   <li>Prosp
     <ul>
-      <li>VERB-Gdv: dicendum, considerandum, sciendum, intelligendum, ostendendum, intelligenda, consideranda, ponenda, referendum, consequendam</li>
-      <li>VERB-Ger: agendo, intelligendo, cognoscendo, agendum, uiuendi, intelligendum, recipiendum, intelligendi, cognoscendum, mouendo</li>
-      <li>VERB-Part: facturum, morituri, iudicaturus, uenturi, duratura, habituri, habiturus, peruenturum, regnaturus, subtracturus</li>
+      <li>VERB-Part: dicendum, considerandum, intelligendum, agendo, intelligendo, sciendum, cognoscendo, agendum, ostendendum, uiuendi</li>
     </ul>
   </li>
 </ul>
@@ -591,8 +577,8 @@ year = {2010}
   <li>Act
     <ul>
       <li>VERB-Fin: potest, oportet, habet, patet, dicit, possunt, habent, possit, cognoscit, agit</li>
-      <li>VERB-Inf: intelligere, habere, facere, dicere, uelle, agere, cognoscere, ponere, procedere, accidere</li>
       <li>VERB-Part: mouens, consequens, agens, conueniens, habens, existens, intelligens, dicens, agentem, agente</li>
+      <li>VERB-Vnoun: intelligere, habere, facere, dicere, uelle, agere, cognoscere, ponere, procedere, accidere</li>
     </ul>
   </li>
 </ul>
@@ -601,10 +587,8 @@ year = {2010}
   <li>Pass
     <ul>
       <li>VERB-Fin: dicitur, uidetur, fit, sequitur, inuenitur, dicuntur, mouetur, relinquitur, consequitur, dicatur</li>
-      <li>VERB-Gdv: dicendum, considerandum, sciendum, intelligendum, ostendendum, intelligenda, consideranda, ponenda, referendum, consequendam</li>
-      <li>VERB-Ger: agendo, intelligendo, cognoscendo, agendum, uiuendi, intelligendum, recipiendum, intelligendi, cognoscendum, mouendo</li>
-      <li>VERB-Inf: dici, fieri, intelligi, moueri, uniri, uideri, pati, sequi, operari, poni</li>
-      <li>VERB-Part: ostensum, dictum, separatae, dictis, probatum, separata, praedicta, praemissis, intellecta, facta</li>
+      <li>VERB-Part: ostensum, dicendum, dictum, separatae, dictis, probatum, separata, praedicta, praemissis, intellecta</li>
+      <li>VERB-Vnoun: dici, fieri, intelligi, moueri, uniri, uideri, pati, sequi, operari, poni</li>
     </ul>
   </li>
 </ul>
@@ -628,7 +612,7 @@ year = {2010}
 <ul>
   <li>Con
     <ul>
-      <li>ADV: solum, alias</li>
+      <li>ADV: solum, aliter, utrum, alias</li>
       <li>DET: alia, aliud, aliis, alio, alterius, aliam, alii, sola, aliorum, utrumque</li>
     </ul>
   </li>
@@ -637,7 +621,7 @@ year = {2010}
 <ul>
   <li>Dem
     <ul>
-      <li>ADV: ecce, ita, tam, idem</li>
+      <li>ADV: tantum, tam, hinc, ecce, hic, ita, idem, intantum</li>
       <li>DET: hoc, ipsum, haec, his, illud, ipsa, ipse, ipsius, ipso, idem</li>
       <li>PRON: quod</li>
     </ul>
@@ -645,53 +629,20 @@ year = {2010}
 </ul>
 
 <ul>
-  <li>Dem,Ind
-    <ul>
-      <li>DET: talis, tali, talem, tale, tales, talia, talibus, tot, talium</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Dem,Prs
-    <ul>
-      <li>DET: eius, ea, eorum, eo, earum, eas, eam, earumque, ei, eos</li>
-      <li>PRON: eius, eo, ea, ei, id, eorum, eis, eam, eum, earum</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
   <li>Ind
     <ul>
-      <li>DET: omnia, aliqua, omnes, omnis, quaedam, omne, aliquam, omnibus, aliquod, omnium</li>
-      <li>PRON: aliquid, aliquis, alicuius, aliquo, alicui, aliqua, aliqui, aliquem, aliquibus, aliquos</li>
+      <li>ADV: nihil, nil</li>
+      <li>DET: omnia, unum, aliqua, omnes, omnis, quaedam, omne, aliquam, una, omnibus</li>
+      <li>PRON: aliquid, nihil, aliquis, alicuius, aliquo, alicui, aliqua, aliqui, nemo, aliquem</li>
     </ul>
   </li>
 </ul>
 
 <ul>
-  <li>Ind,Int
+  <li>Int
     <ul>
       <li>ADV: numquid, nunquid</li>
-      <li>PRON: quid, quis, quod, quo, numquid, quem, quibus, cui, cuius, nunquid</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Ind,Rel
-    <ul>
-      <li>DET: quaecumque, quicumque, quocumque, cuiuscumque, quodcumque, quacumque, quamcumque, quibuscumque, cuicumque, utrumlibet</li>
-      <li>PRON: quicquid, quidquid, quod</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Int,Rel
-    <ul>
-      <li>DET: qualis, quale, quot, qualem, quales, quantum, quanta, quantae, quali, qualia</li>
+      <li>PRON: quid, quis, numquid, cui, nunquid, quem, quo</li>
     </ul>
   </li>
 </ul>
@@ -699,8 +650,7 @@ year = {2010}
 <ul>
   <li>Neg
     <ul>
-      <li>ADV: nihil</li>
-      <li>PRON: nihil, nemo, nihilum, nemini, nihilo, neminem, nil</li>
+      <li>PRON: nihilum, nihilo</li>
     </ul>
   </li>
 </ul>
@@ -709,7 +659,7 @@ year = {2010}
   <li>Prs
     <ul>
       <li>DET: suam, sua, suum, suae, sui, suo, nostra, noster, suis, nostrae</li>
-      <li>PRON: se, nobis, sibi, seipsum, nos, ego, me, sui, seipsam, uobis</li>
+      <li>PRON: se, eius, eo, ea, ei, id, eorum, nobis, sibi, eis</li>
     </ul>
   </li>
 </ul>
@@ -717,10 +667,12 @@ year = {2010}
 <ul>
   <li>Rel
     <ul>
-      <li>ADV: quare, quanto</li>
-      <li>DET: quae, quam, quem, qua, quod, qualis, qui, quo, cuius, cui</li>
+      <li>ADP: ut</li>
+      <li>ADV: unde, ut, quandoque, quare, quando, quanto</li>
+      <li>CCONJ: ut</li>
+      <li>DET: quaecumque, quae, quicumque, quocumque, cuiuscumque, qualis, quam, quodcumque, quem, qua</li>
       <li>PRON: quae, quod, qui, quo, quam, quibus, qua, cuius, quem, quorum</li>
-      <li>SCONJ: quod, quam</li>
+      <li>SCONJ: ut, cum, quando, quod, quam</li>
     </ul>
   </li>
 </ul>
@@ -732,7 +684,9 @@ year = {2010}
 <ul>
   <li>Card
     <ul>
-      <li>NUM: unum, una, unus, uno, unius, unam, duo, duobus, duae, tres</li>
+      <li>ADV: tantum, multo, multum, intantum</li>
+      <li>DET: unum, una, unus, uno, unius, unam, plures, multa, pluribus, plura</li>
+      <li>NUM: duo, duobus, duae, tres, quatuor, tria, duabus, duas, duorum, mille</li>
     </ul>
   </li>
 </ul>
@@ -802,6 +756,7 @@ year = {2010}
 <ul>
   <li>3
     <ul>
+      <li>PRON: eius, eo, ea, ei, id, eorum, eis, eam, eum, earum</li>
       <li>VERB-Fin: potest, oportet, dicitur, habet, patet, dicit, uidetur, fit, possunt, habent</li>
     </ul>
   </li>
@@ -839,7 +794,7 @@ year = {2010}
         <ul>
           <li>ADJ: cor., ult., rom., metaph., philipp., hebr., physic., eccli., metaphys., ephes.</li>
           <li>ADV: iacob., met</li>
-          <li>NOUN: cap., gen., dist., sap., art., lib., trin., prouerb., act., nom.</li>
+          <li>NOUN: cap., gen., dist., sap., lib., trin., prouerb., act., nom., apoc.</li>
           <li>PROPN: ioan., matth., tim., ierem., luc., ezech., iac., petr., ier., dan.</li>
           <li>VERB: antec., praeced.</li>
           <li>X: etc., licet, sui</li>
@@ -850,23 +805,16 @@ year = {2010}
 </ul>
 
 <ul>
-  <li><a>AdpType</a>
+  <li><a>AdvType</a>
     <ul>
-      <li>Prep
+      <li>Loc
         <ul>
-          <li>ADP: in, ad, per, ex, secundum, a, de, ab, propter, cum</li>
+          <li>ADV: ergo, unde, hinc, hic</li>
         </ul>
       </li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li><a>Clitic</a>
-    <ul>
-      <li>Yes
+      <li>Tim
         <ul>
-          <li>CCONJ: que</li>
+          <li>ADV: adhuc, semper, iam, nunc, iterum, quandoque, denique, quando</li>
         </ul>
       </li>
     </ul>
@@ -881,24 +829,6 @@ year = {2010}
           <li>CCONJ: idest, utpote, scilicet</li>
           <li>CCONJ-Fin: idest, scilicet</li>
           <li>X: etc.</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li><a>ConjType</a>
-    <ul>
-      <li>Cmpr
-        <ul>
-          <li>SCONJ: ut, quam, sicut</li>
-        </ul>
-      </li>
-      <li>Expl
-        <ul>
-          <li>CCONJ: idest, scilicet, utpote</li>
-          <li>CCONJ-Fin: idest, scilicet</li>
         </ul>
       </li>
     </ul>
@@ -922,8 +852,9 @@ year = {2010}
     <ul>
       <li>Emp
         <ul>
-          <li>ADV: idem</li>
+          <li>ADV: tamen, idem</li>
           <li>DET: ipsum, ipsa, ipse, ipsius, ipso, idem, eadem, eodem, ipsam, eiusdem</li>
+          <li>PART: quoque</li>
         </ul>
       </li>
     </ul>
@@ -933,21 +864,11 @@ year = {2010}
 <ul>
   <li><a>InflClass</a>
     <ul>
-      <li>Ind
-        <ul>
-          <li>ADJ: necesse, nequam, nequiter, quotcumque</li>
-          <li>DET: quot, ly, tot, quotlibet, quotquot</li>
-          <li>NOUN: esse, iob, parum, necesse, abba, fas, seraphim, cherubim, ens, nefas</li>
-          <li>NUM: i, ii, iii, 1, 2, uii, uiii, iu, 3, ui</li>
-          <li>PRON: nihil, nil</li>
-          <li>PROPN: iob, ierusalem, iacob, abraham, amos, esau, rabbi, albumasar, auempace, osee</li>
-        </ul>
-      </li>
       <li>IndEurA
         <ul>
           <li>ADJ: diuina, diuinae, diuinam, prima, humana, humanae, propria, humanam, propriam, ultima</li>
           <li>ADJ-Part: perfectas</li>
-          <li>DET: suam, sua, suae, nostra, nostrae, suis, suas, nostram, mea, nostrarum</li>
+          <li>DET: suam, sua, suae, nostra, nostrae, suis, suas, nostram, multae, mea</li>
           <li>NOUN: forma, formam, formae, materia, anima, potentia, causa, natura, substantia, naturae</li>
           <li>NUM: duae, duabus, duas, duarum, duo, duobus</li>
           <li>PROPN: isaiae, adam, auicenna, auicennae, lucae, maria, euangelista, adae, euangelistae, ezechiae</li>
@@ -973,10 +894,10 @@ year = {2010}
         <ul>
           <li>ADJ: christi, primum, manifestum, primo, proprium, necessarium, christus, christo, sanctus, infinitum</li>
           <li>ADJ-Part: nota, sancto, sanctos, sanctus</li>
-          <li>DET: suum, sui, suo, noster, nostro, nostrum, suos, nostri, sua, suis</li>
+          <li>DET: suum, sui, suo, multa, noster, nostro, nostrum, multis, suos, nostri</li>
           <li>NOUN: bonum, modo, principium, modum, malum, filius, uerbum, dominus, peccatum, apostolus</li>
           <li>NOUN-Part: conuerso, debitum, praedicatum</li>
-          <li>NUM: duo, duobus, duorum, duos, centena, primum</li>
+          <li>NUM: duo, duobus, duorum, duos, centena</li>
           <li>PRON: nihilo, nihilum, reliquum, reliquo, nihil, quae</li>
           <li>PROPN: deus, dei, deo, deum, dionysius, augustinus, boetius, gregorius, petrus, alexander</li>
         </ul>
@@ -989,7 +910,8 @@ year = {2010}
       </li>
       <li>IndEurX
         <ul>
-          <li>ADJ: plures, prius, inferioribus, superioribus, pluribus, plura, maius, superior, inferiora, maior</li>
+          <li>ADJ: prius, inferioribus, superioribus, maius, superior, inferiora, maior, inferiores, melius, perfectior</li>
+          <li>DET: plures, pluribus, plura, plus, plurium</li>
           <li>NOUN: homo, corpus, hominis, corporis, ratio, ratione, uirtus, rationem, corpore, uirtute</li>
           <li>PRON: nemo, nemini, neminem, quod</li>
           <li>PROPN: plato, commentator, platonis, dauid, israel, platonem, salomon, platone, commentatorem, salomoni</li>
@@ -998,67 +920,56 @@ year = {2010}
       <li>LatA
         <ul>
           <li>VERB-Fin: operatur, ordinatur, ordinantur, repugnat, significat, comparatur, dat, causatur, dedit, probat</li>
-          <li>VERB-Gdv: considerandum, consideranda, aestimandum, uitanda, conseruandam, insinuandam, inuestigandum, amputandam, danda, demonstrandam</li>
-          <li>VERB-Ger: operandum, significandum, operando, probandum, causando, amando, peccando, significandi, baptizandi, ratiocinando</li>
-          <li>VERB-Inf: operari, considerare, dare, considerari, peccare, creare, cogitari, praedicari, mutari, causari</li>
-          <li>VERB-Part: separatae, probatum, separata, separatas, creata, creatus, separatis, creatis, mediante, determinata</li>
+          <li>VERB-Part: separatae, probatum, separata, separatas, creata, considerandum, creatus, separatis, creatis, mediante</li>
+          <li>VERB-Vnoun: operari, considerare, dare, considerari, peccare, creare, cogitari, praedicari, mutari, causari</li>
         </ul>
       </li>
       <li>LatAnom
         <ul>
-          <li>AUX: est, esse, sit, sunt, esset, sint, erit, fuit, essendi, erat</li>
+          <li>AUX: est, sit, sunt, esset, sint, erit, fuit, essendi, erat, fuerit</li>
           <li>AUX-Fin: est, sit, sunt, esset, sint, erit, fuit, erat, fuerit, essent</li>
           <li>AUX-Ger: essendi, essendo, essendum</li>
-          <li>AUX-Inf: esse, fuisse, necesse-esse, fore</li>
+          <li>AUX-Inf: esse</li>
           <li>AUX-Part: ens, futura, futuram, futurum, entia, futuri, futuris, futuro, futurus, entium</li>
           <li>PRON: se, nobis, sibi, nos, ego, me, sui, uobis, te, mihi</li>
           <li>VERB-Fin: potest, possunt, possit, uult, posset, poterit, inest, differt, possumus, uelit</li>
-          <li>VERB-Gdv: referendum, inferendis, conferendam, referenda, transeundum</li>
-          <li>VERB-Ger: uolendo, uolendi, uolendum, prodeundi, transeundi, ferendo, ferendum, offerendo, offerendum, prodeundo</li>
-          <li>VERB-Inf: uelle, posse, inesse, redire, deesse, differre, adesse, exire, transire, ferri</li>
-          <li>VERB-Part: uolitum, potens, uolens, uolentis, uolentes, praeteriti, uolita, collatum, prolata, uolente</li>
+          <li>VERB-Part: uolitum, potens, uolens, uolendo, uolendi, referendum, uolentis, uolentes, praeteriti, uolita</li>
+          <li>VERB-Vnoun: uelle, posse, inesse, redire, deesse, differre, adesse, exire, transire, ferri</li>
         </ul>
       </li>
       <li>LatE
         <ul>
           <li>VERB-Fin: oportet, habet, patet, uidetur, habent, apparet, habeat, mouetur, pertinet, mouet</li>
-          <li>VERB-Gdv: exhibendus, habendam, uidendam, exhibendum, tenendum, intuenda, retinenda, tenenda, adhibenda, complendam</li>
-          <li>VERB-Ger: mouendo, uidendo, uidendum, exhibendum, uidendi, exercendo, habendi, habendo, lucendi, abstinendo</li>
-          <li>VERB-Inf: habere, moueri, mouere, uidere, uideri, haberi, pertinere, remanere, debere, sedere</li>
           <li>VERB-Part: mouens, habens, motum, debitum, mouentis, debita, mota, habentes, remota, dependens</li>
+          <li>VERB-Vnoun: habere, moueri, mouere, uidere, uideri, haberi, pertinere, remanere, debere, sedere</li>
         </ul>
       </li>
       <li>LatI
         <ul>
-          <li>VERB-Fin: oritur, oriuntur, exoritur, oriantur, oriatur, suboritur</li>
-          <li>VERB-Gdv: obtinendum, sentiendum</li>
-          <li>VERB-Inf: oriri</li>
-          <li>VERB-Part: exorti, exorta, obortum, orientem, orientis</li>
+          <li>VERB-Fin: oritur, oriuntur, exoritur, fit, oriantur, oriatur, suboritur</li>
+          <li>VERB-Part: exorti, exorta, obtinendum, sentiendum, obortum, orientem, orientis</li>
+          <li>VERB-Vnoun: oriri</li>
         </ul>
       </li>
       <li>LatI2
         <ul>
           <li>VERB-Fin: fit, facit, fiat, fiunt, fieret, faciat, fecit, faceret, faciunt, calefacit</li>
-          <li>VERB-Gdv: facienda, faciendum, faciendis, fiendae, accipienda, accipiendum, despiciendum, faciendam, inspiciendum, reiiciendum</li>
-          <li>VERB-Ger: faciendum, faciendo, satisfaciendo, satisfaciendum, calefaciendo, faciendi, calefaciendi, calefaciendum, fiendi, fiendo</li>
-          <li>VERB-Inf: fieri, facere, satisfacere, calefacere, calefieri, fecisse, putrefieri</li>
-          <li>VERB-Part: facta, factum, factus, faciens, facti, facto, factae, factis, facientis, faciente</li>
+          <li>VERB-Part: facta, factum, factus, faciens, facti, facto, factae, factis, faciendum, facientis</li>
+          <li>VERB-Vnoun: fieri, facere, satisfacere, calefacere, calefieri, fecisse, putrefieri</li>
         </ul>
       </li>
       <li>LatPron
         <ul>
-          <li>DET: hoc, ipsum, alia, aliqua, haec, illud, his, aliud, quaedam, ipsa</li>
-          <li>NUM: unum, una, unus, uno, unius, unam, uni, duo, duabus, duae</li>
+          <li>DET: hoc, ipsum, alia, aliqua, unum, haec, illud, his, aliud, quaedam</li>
+          <li>NUM: una</li>
           <li>PRON: quae, quod, qui, eius, aliquid, quo, eo, ea, quam, quibus</li>
         </ul>
       </li>
       <li>LatX
         <ul>
           <li>VERB-Fin: dicitur, dicit, sequitur, cognoscit, agit, intelligit, dicuntur, relinquitur, consistit, consequitur</li>
-          <li>VERB-Gdv: dicendum, intelligendum, ostendendum, intelligenda, ponenda, consequendam, inquirendum, intelligendas, quaerenda, credenda</li>
-          <li>VERB-Ger: agendo, intelligendo, cognoscendo, agendum, uiuendi, intelligendum, recipiendum, intelligendi, cognoscendum, loquendo</li>
-          <li>VERB-Inf: intelligere, dici, dicere, agere, intelligi, cognoscere, ponere, procedere, accidere, accipere</li>
-          <li>VERB-Part: ostensum, dictum, dictis, consequens, agens, praedicta, praemissis, intellecta, existens, intelligens</li>
+          <li>VERB-Part: ostensum, dicendum, dictum, dictis, consequens, agens, praedicta, praemissis, intellecta, existens</li>
+          <li>VERB-Vnoun: intelligere, dici, dicere, agere, intelligi, cognoscere, ponere, procedere, accidere, accipere</li>
         </ul>
       </li>
     </ul>
@@ -1068,17 +979,9 @@ year = {2010}
 <ul>
   <li><a>InflClass[nominal]</a>
     <ul>
-      <li>Ind
-        <ul>
-          <li>AUX: esse, fuisse, necesse-esse, fore</li>
-          <li>AUX-Inf: esse, fuisse, necesse-esse, fore</li>
-          <li>VERB-Inf: intelligere, dici, fieri, habere, facere, dicere, uelle, agere, intelligi, moueri</li>
-        </ul>
-      </li>
       <li>IndEurA
         <ul>
           <li>AUX-Part: futuram, futura, futurae, futuras</li>
-          <li>VERB-Gdv: consequendam, intelligendas, ponenda, habendam, consideranda, intelligenda, intelligendam, uidendam, quaerenda, suscipiendam</li>
           <li>VERB-Part: separatae, separata, separatas, praedicta, creata, praedictae, separatis, creatis, facta, intellecta</li>
         </ul>
       </li>
@@ -1092,9 +995,7 @@ year = {2010}
         <ul>
           <li>AUX-Ger: essendi, essendo, essendum</li>
           <li>AUX-Part: futurum, futura, futuri, futuris, futuro, futurus, futuros</li>
-          <li>VERB-Gdv: dicendum, considerandum, sciendum, intelligendum, ostendendum, referendum, inquirendum, exhibendus, intelligenda, producendos</li>
-          <li>VERB-Ger: agendo, intelligendo, cognoscendo, agendum, uiuendi, intelligendum, recipiendum, intelligendi, cognoscendum, mouendo</li>
-          <li>VERB-Part: ostensum, dictum, dictis, probatum, praemissis, factum, motum, praedictis, intellecta, factus</li>
+          <li>VERB-Part: ostensum, dicendum, dictum, dictis, probatum, praemissis, factum, motum, considerandum, praedictis</li>
         </ul>
       </li>
       <li>IndEurX
@@ -1131,6 +1032,11 @@ year = {2010}
           <li>NOUN: galat., gal.</li>
         </ul>
       </li>
+      <li>Rel
+        <ul>
+          <li>ADJ: christianae, christiana, christianam, christiani, christiano, christianis, christianum</li>
+        </ul>
+      </li>
     </ul>
   </li>
 </ul>
@@ -1138,19 +1044,21 @@ year = {2010}
 <ul>
   <li><a>NumForm</a>
     <ul>
-      <li>Digit
-        <ul>
-          <li>NUM: i, iii, ii, 1, 2, uii, uiii, iu, ui, 3</li>
-        </ul>
-      </li>
-      <li>Reference
-        <ul>
-          <li>NUM: 1-3, 1, 11-27, 2, 1-1, 15-26, 2-8, 4-4, 1-14, 1-16</li>
-        </ul>
-      </li>
       <li>Roman
         <ul>
           <li>NUM: i, ii, iii, iu, uii, uiii, xii, xx</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>NumValue</a>
+    <ul>
+      <li>1
+        <ul>
+          <li>DET: unum, una, unus, uno, unius, unam, uni, duo, duabus, duae</li>
         </ul>
       </li>
     </ul>
@@ -1193,21 +1101,6 @@ year = {2010}
   </li>
 </ul>
 
-<ul>
-  <li><a>VerbType</a>
-    <ul>
-      <li>Mod
-        <ul>
-          <li>VERB-Fin: potest, possunt, possit, uult, posset, debet, poterit, possumus, uelit, possint</li>
-          <li>VERB-Ger: uolendo, uolendi, uolendum</li>
-          <li>VERB-Inf: uelle, posse, debere, potuisse, uoluisse, deberi, nolle</li>
-          <li>VERB-Part: debitum, uolitum, debita, potens, uolens, debitam, debito, uolentis, debitae, uolentes</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-</ul>
-
 <h2>Syntax</h2>
 
 <h3>Auxiliary Verbs and Copula</h3>
@@ -1227,26 +1120,23 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (2)</li>
-      <li>VERB-Fin--NOUN-Acc (51)</li>
-      <li>VERB-Fin--NOUN-Nom (8078)</li>
-      <li>VERB-Fin--PRON-Acc (37)</li>
-      <li>VERB-Fin--PRON-Nom (3530)</li>
-      <li>VERB-Gdv--NOUN-Abl (2)</li>
-      <li>VERB-Gdv--NOUN-Acc (17)</li>
-      <li>VERB-Gdv--PRON-Acc (4)</li>
-      <li>VERB-Ger--NOUN-Abl (4)</li>
-      <li>VERB-Ger--NOUN-Acc (1)</li>
-      <li>VERB-Ger--PRON-Acc (2)</li>
-      <li>VERB-Inf--NOUN-Acc (274)</li>
-      <li>VERB-Inf--NOUN-Nom (4)</li>
-      <li>VERB-Inf--PRON-Acc (112)</li>
-      <li>VERB-Part--NOUN-Abl (201)</li>
-      <li>VERB-Part--NOUN-Acc (64)</li>
-      <li>VERB-Part--NOUN-Nom (382)</li>
+      <li>VERB-Fin--NOUN (74)</li>
+      <li>VERB-Fin--NOUN-Acc (44)</li>
+      <li>VERB-Fin--NOUN-Nom (8000)</li>
+      <li>VERB-Fin--PRON (203)</li>
+      <li>VERB-Fin--PRON-Acc (36)</li>
+      <li>VERB-Fin--PRON-Nom (3322)</li>
+      <li>VERB-Part--NOUN (11)</li>
+      <li>VERB-Part--NOUN-Abl (207)</li>
+      <li>VERB-Part--NOUN-Acc (83)</li>
+      <li>VERB-Part--NOUN-Nom (374)</li>
+      <li>VERB-Part--PRON (7)</li>
       <li>VERB-Part--PRON-Abl (26)</li>
-      <li>VERB-Part--PRON-Acc (27)</li>
-      <li>VERB-Part--PRON-Nom (161)</li>
+      <li>VERB-Part--PRON-Acc (33)</li>
+      <li>VERB-Part--PRON-Nom (155)</li>
+      <li>VERB-Vnoun--NOUN-Acc (276)</li>
+      <li>VERB-Vnoun--NOUN-Nom (4)</li>
+      <li>VERB-Vnoun--PRON-Acc (112)</li>
     </ul>
   </li>
 </ul>
@@ -1254,15 +1144,18 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN-Acc (5587)</li>
-      <li>VERB-Fin--PRON-Acc (1957)</li>
-      <li>VERB-Gdv--NOUN-Acc (1)</li>
-      <li>VERB-Ger--NOUN-Acc (291)</li>
-      <li>VERB-Ger--PRON-Acc (106)</li>
-      <li>VERB-Inf--NOUN-Acc (1040)</li>
-      <li>VERB-Inf--PRON-Acc (324)</li>
-      <li>VERB-Part--NOUN-Acc (687)</li>
-      <li>VERB-Part--PRON-Acc (171)</li>
+      <li>VERB-Fin--NOUN (261)</li>
+      <li>VERB-Fin--NOUN-Acc (5329)</li>
+      <li>VERB-Fin--PRON (64)</li>
+      <li>VERB-Fin--PRON-Acc (1892)</li>
+      <li>VERB-Part--NOUN (36)</li>
+      <li>VERB-Part--NOUN-Acc (943)</li>
+      <li>VERB-Part--PRON (7)</li>
+      <li>VERB-Part--PRON-Acc (270)</li>
+      <li>VERB-Vnoun--NOUN (22)</li>
+      <li>VERB-Vnoun--NOUN-Acc (1018)</li>
+      <li>VERB-Vnoun--PRON (20)</li>
+      <li>VERB-Vnoun--PRON-Acc (306)</li>
     </ul>
   </li>
 </ul>
@@ -1290,7 +1183,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 15 relation subtypes: <a>acl:relcl</a>, <a>advcl:cmpr</a>, <a>advcl:pred</a>, <a>advmod:emph</a>, <a>advmod:neg</a>, <a>aux:pass</a>, <a>conj:expl</a>, <a>csubj:pass</a>, <a>dislocated:nsubj</a>, <a>expl:pass</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>parataxis:rep</a>, <a>xcomp:pred</a></li>
+<li>This corpus uses 30 relation subtypes: <a>acl:relcl</a>, <a>advcl:abs</a>, <a>advcl:cmp</a>, <a>advcl:pred</a>, <a>advcl:relcl</a>, <a>advmod:emph</a>, <a>advmod:lmod</a>, <a>advmod:neg</a>, <a>advmod:tmod</a>, <a>aux:pass</a>, <a>ccomp:relcl</a>, <a>ccomp:reported</a>, <a>conj:expl</a>, <a>cop:outer</a>, <a>csubj:cleft</a>, <a>csubj:pass</a>, <a>csubj:relcl</a>, <a>dislocated:advcl</a>, <a>dislocated:ccomp</a>, <a>dislocated:csubj</a>, <a>dislocated:nsubj</a>, <a>dislocated:obl</a>, <a>expl:pass</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:lmod</a>, <a>obl:tmod</a>, <a>parataxis:rep</a></li>
 <li>The following 2 main types are not used alone, they are always subtyped: <a>dislocated</a>, <a>expl</a></li>
-<li>The following 6 relation types are not used in this corpus at all: <a>iobj</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+<li>The following 5 relation types are not used in this corpus at all: <a>iobj</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>dep</a></li>
 </ul>

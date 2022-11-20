@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-9 nodes (0%) are attached to their parents as `dislocated`.
+10 nodes (0%) are attached to their parents as `dislocated`.
 
-9 instances of `dislocated` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.88888888888889.
+10 instances of `dislocated` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.9.
 
-The following 7 pairs of parts of speech are connected with `dislocated`: <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tpn_tudet-pos-PRON.html">PRON</a></tt> (2; 22% instances), <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="tpn_tudet-pos-PART.html">PART</a></tt> (2; 22% instances), <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tpn_tudet-pos-DET.html">DET</a></tt> (1; 11% instances), <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> (1; 11% instances), <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="tpn_tudet-pos-PRON.html">PRON</a></tt> (1; 11% instances), <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="tpn_tudet-pos-PROPN.html">PROPN</a></tt> (1; 11% instances), <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt> (1; 11% instances).
+The following 7 pairs of parts of speech are connected with `dislocated`: <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tpn_tudet-pos-PRON.html">PRON</a></tt> (2; 20% instances), <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="tpn_tudet-pos-PART.html">PART</a></tt> (2; 20% instances), <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="tpn_tudet-pos-PRON.html">PRON</a></tt> (2; 20% instances), <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tpn_tudet-pos-DET.html">DET</a></tt> (1; 10% instances), <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> (1; 10% instances), <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="tpn_tudet-pos-PROPN.html">PROPN</a></tt> (1; 10% instances), <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt> (1; 10% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 7 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 1 dislocated	color:blue
-1	Ene	Ene	PRON	pron	Number=Sing|Person=2|PronType=Prs	5	dislocated	_	_
+1	Ene	ene	PRON	pron	Number=Sing|Person=2|PronType=Prs	5	dislocated	_	_
 2	,	,	PUNCT	punct	_	5	punct	_	_
 3	rõ	rõ	PART	prcl	_	5	discourse	_	_
 4	,	,	PUNCT	punct	_	5	punct	_	_
@@ -47,27 +47,29 @@ The following 7 pairs of parts of speech are connected with `dislocated`: <tt><a
 1	Eame	ame	VERB	v	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
 3	ʃeraje	raje	PART	prcl	Number=Sing|Person=1	4	dislocated	_	_
-4	takwane	kwab	VERB	v	_	1	parataxis	_	_
+4	takwane	kwaβ	VERB	v	_	1	parataxis	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 4 dislocated	color:blue
-1	aʔe	aʔe	DET	dem	_	2	nsubj	_	_
-2	pemopɨatã	pemopɨ	VERB	n	Number[subj]=Plur|Person[subj]=2|Voice=Cau	0	root	_	_
-3	;	;	PUNCT	punct	_	2	punct	_	_
-4	aʔe	aʔe	DET	dem	_	9	dislocated	_	_
-5	ko	ko	DET	dem	_	6	det	_	_
-6	pesumarã	sumarã	NOUN	n	Number[psor]=Plur|Person[psor]=2	9	obj	_	_
-7	peʔaŋa	ʔaŋ	NOUN	n	Case=Ref|Number[psor]=Plur|Person[psor]=2	9	obl	_	_
-8	swi	swi	ADP	posp	_	7	case	_	_
-9	imonow	so	NOUN	n	NonFoc=Yes|Rel=NCont|Voice=Cau	2	parataxis	_	_
-10	.	.	PUNCT	punct	_	9	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 6 dislocated	color:blue
+1	je	je	PART	prcl	_	2	discourse	_	_
+2	tasone	so	VERB	v	Mood=Per|Number=Sing|Person[subj]=1|Tense=Fut	0	root	_	_
+3	ʃemonoape	monoaβ	NOUN	n	Case=All|Nomzr=Circ|Number=Sing|Person=1|Person[psor]=1	2	obl	_	_
+4	.	.	PUNCT	punct	_	2	punct	_	_
+5	Meme	meme	ADV	adv	_	6	discourse	_	_
+6	ise	ise	PRON	pron	Number=Sing|Person=1|PronType=Prs	12	dislocated	_	_
+7	,	,	PUNCT	punct	_	12	punct	_	_
+8	ʃepɨʔape	pɨʔa	NOUN	n	Case=Loc|Number=Sing|Person[psor]=1	12	obl	_	_
+9	,	,	PUNCT	punct	_	8	punct	_	_
+10	emonã	emonã	ADV	adv	_	12	advmod	_	_
+11	teko	iko	NOUN	dem	_	12	obj	_	_
+12	pota	potar	VERB	v	VerbForm=Ger	2	advcl	_	_
 
 ~~~
 

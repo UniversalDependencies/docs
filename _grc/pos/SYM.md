@@ -13,4 +13,4 @@ Symbol is used for a diacritic not belonging to punctuation, such as marks used 
 * _<_
 * _[_
 
-<!-- Interlanguage links updated So kvě 14 19:01:58 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:37 CET 2022 -->

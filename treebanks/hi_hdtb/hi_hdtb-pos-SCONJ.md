@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Hindi-HDTB: POS Tags: `SCONJ`
 
 There are 24 `SCONJ` lemmas (0%), 24 `SCONJ` types (0%) and 6726 `SCONJ` tokens (2%).
-Out of 16 observed tags, the rank of `SCONJ` is: 13 in number of lemmas, 13 in number of types and 12 in number of tokens.
+Out of 16 observed tags, the rank of `SCONJ` is: 12 in number of lemmas, 13 in number of types and 12 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: कि, तो, हालांकि, अगर, यदि, क्योंकि, ताकि, बहरहाल, बल्कि, यानि
 
@@ -49,7 +49,7 @@ The 10 most frequent ambiguous types:  कि (<tt><a href="hi_hdtb-pos-SCONJ.ht
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.203447).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.200484).
 
 The 1st highest number of forms (2) was observed with the lemma “यानि”: यानि, यानी.
 
@@ -68,13 +68,13 @@ Examples: कि, तो, हालांकि, अगर, यदि, क्य
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 6 different relations: <tt><a href="hi_hdtb-dep-mark.html">mark</a></tt> (6717; 100% instances), <tt><a href="hi_hdtb-dep-punct.html">punct</a></tt> (5; 0% instances), <tt><a href="hi_hdtb-dep-aux.html">aux</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-dep-aux-pass.html">aux:pass</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-dep-cop.html">cop</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-dep-root.html">root</a></tt> (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 4 different relations: <tt><a href="hi_hdtb-dep-mark.html">mark</a></tt> (6722; 100% instances), <tt><a href="hi_hdtb-dep-compound.html">compound</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-dep-cc.html">cc</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 14 different parts of speech: <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (5660; 84% instances), <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (689; 10% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (275; 4% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (32; 0% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (29; 0% instances), <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (15; 0% instances), <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="hi_hdtb-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="hi_hdtb-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances),  (1; 0% instances)
+Parents of `SCONJ` nodes belong to 12 different parts of speech: <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (5664; 84% instances), <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (689; 10% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (276; 4% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (32; 0% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (29; 0% instances), <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (15; 0% instances), <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="hi_hdtb-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (2; 0% instances),  (1; 0% instances)
 
-6721 (100%) `SCONJ` nodes are leaves.
+6725 (100%) `SCONJ` nodes are leaves.
 
-4 (0%) `SCONJ` nodes have one child.
+0 (0%) `SCONJ` nodes have one child.
 
 0 (0%) `SCONJ` nodes have two children.
 
@@ -82,7 +82,7 @@ Parents of `SCONJ` nodes belong to 14 different parts of speech: <tt><a href="hi
 
 The highest child degree of a `SCONJ` node is 3.
 
-Children of `SCONJ` nodes are attached using 2 different relations: <tt><a href="hi_hdtb-dep-punct.html">punct</a></tt> (5; 71% instances), <tt><a href="hi_hdtb-dep-conj.html">conj</a></tt> (2; 29% instances)
+Children of `SCONJ` nodes are attached using 2 different relations: <tt><a href="hi_hdtb-dep-conj.html">conj</a></tt> (2; 67% instances), <tt><a href="hi_hdtb-dep-punct.html">punct</a></tt> (1; 33% instances)
 
-Children of `SCONJ` nodes belong to 3 different parts of speech: <tt><a href="hi_hdtb-pos-SCONJ.html">SCONJ</a></tt> (4; 57% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (2; 29% instances), <tt><a href="hi_hdtb-pos-PUNCT.html">PUNCT</a></tt> (1; 14% instances)
+Children of `SCONJ` nodes belong to 2 different parts of speech: <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (2; 67% instances), <tt><a href="hi_hdtb-pos-PUNCT.html">PUNCT</a></tt> (1; 33% instances)
 

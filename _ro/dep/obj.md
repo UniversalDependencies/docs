@@ -33,4 +33,4 @@ obj(învățat, poezie)
 iobj(învățat, copii)
 ~~~
 
-<!-- Interlanguage links updated So kvě 14 19:03:59 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:37 CET 2022 -->

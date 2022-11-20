@@ -9,32 +9,33 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Cnd`, `Imp`, `Ind`, `Sub`.
 
-3448 tokens (8%) have a non-empty value of `Mood`.
-711 types (11%) occur at least once with a non-empty value of `Mood`.
-232 lemmas (5%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> (2642; 6% instances), <tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (806; 2% instances).
+3666 tokens (8%) have a non-empty value of `Mood`.
+735 types (10%) occur at least once with a non-empty value of `Mood`.
+243 lemmas (5%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 2 part-of-speech tags: <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> (2807; 6% instances), <tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (859; 2% instances).
 
 ### `VERB`
 
-2642 <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Mood`.
+2807 <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="cy_ccg-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2446; 93%), <tt><a href="cy_ccg-feat-Mutation.html">Mutation</a></tt><tt>=EMPTY</tt> (2184; 83%), <tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2029; 77%), <tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=3</tt> (1697; 64%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="cy_ccg-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2586; 92%), <tt><a href="cy_ccg-feat-Mutation.html">Mutation</a></tt><tt>=EMPTY</tt> (2329; 83%), <tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2168; 77%), <tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=3</tt> (1826; 65%).
 
 `VERB` tokens may have the following values of `Mood`:
 
-* `Cnd` (138; 5% of non-empty `Mood`): <em>byddai, dylai, fyddai, ddylai, allai, gallai, gellid, arferai, byddech, adnabyddid</em>
+* `Cnd` (140; 5% of non-empty `Mood`): <em>byddai, dylai, fyddai, ddylai, allai, gallai, gellid, arferai, byddech, adnabyddid</em>
 * `Imp` (76; 3% of non-empty `Mood`): <em>peidiwch, dewch, Paid, cofiwch, ewch, Edrychwn, Rho, Ymunwch, cysylltwch, dywedwch</em>
-* `Ind` (2420; 92% of non-empty `Mood`): <em>mae, oedd, sy, sydd, bydd, fydd, ydw, ydych, ydym, yw</em>
-* `Sub` (8; 0% of non-empty `Mood`): <em>gweler, fo, bof, sylwer, ystyrier</em>
+* `Ind` (2582; 92% of non-empty `Mood`): <em>mae, oedd, sy, sydd, bydd, fydd, ydw, ydych, ydym, yw</em>
+* `Sub` (9; 0% of non-empty `Mood`): <em>gweler, fo, bai, bof, sylwer, ystyrier</em>
 
 <table>
   <tr><th>Paradigm <i>bod</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th><th><tt>Sub</tt></th></tr>
-  <tr><td><tt><tt><a href="cy_ccg-feat-Mutation.html">Mutation</a></tt><tt>=SM</tt>|<tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="cy_ccg-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="cy_ccg-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>fyddaf</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cy_ccg-feat-Mutation.html">Mutation</a></tt><tt>=SM</tt>|<tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="cy_ccg-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="cy_ccg-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>fyddaf, byddaf</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cy_ccg-feat-Mutation.html">Mutation</a></tt><tt>=SM</tt>|<tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="cy_ccg-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cy_ccg-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>fues</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cy_ccg-feat-Mutation.html">Mutation</a></tt><tt>=SM</tt>|<tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="cy_ccg-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>fuasen</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cy_ccg-feat-Mutation.html">Mutation</a></tt><tt>=SM</tt>|<tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="cy_ccg-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="cy_ccg-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>fyddi</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cy_ccg-feat-Mutation.html">Mutation</a></tt><tt>=SM</tt>|<tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="cy_ccg-feat-Tense.html">Tense</a></tt><tt>=Imp</tt>|<tt><a href="cy_ccg-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td></td><td><em>fyddet</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cy_ccg-feat-Mutation.html">Mutation</a></tt><tt>=SM</tt>|<tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="cy_ccg-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cy_ccg-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td></td><td><em>fasat</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="cy_ccg-feat-Mutation.html">Mutation</a></tt><tt>=SM</tt>|<tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cy_ccg-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="cy_ccg-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>fydd, fyddan, fyddant</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cy_ccg-feat-Mutation.html">Mutation</a></tt><tt>=SM</tt>|<tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cy_ccg-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="cy_ccg-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>fydd, bydd, fyddan, fyddant</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cy_ccg-feat-Mutation.html">Mutation</a></tt><tt>=SM</tt>|<tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cy_ccg-feat-Tense.html">Tense</a></tt><tt>=Imp</tt>|<tt><a href="cy_ccg-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>O'dd</em></td><td></td><td><em>fyddai, byddai</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cy_ccg-feat-Mutation.html">Mutation</a></tt><tt>=SM</tt>|<tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cy_ccg-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cy_ccg-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>fu</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cy_ccg-feat-Mutation.html">Mutation</a></tt><tt>=SM</tt>|<tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cy_ccg-feat-Tense.html">Tense</a></tt><tt>=Pqp</tt>|<tt><a href="cy_ccg-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>Fasai</em></td><td></td><td></td><td></td></tr>
@@ -52,33 +53,33 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
   <tr><td><tt><tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="cy_ccg-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cy_ccg-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>wyt, bo'</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cy_ccg-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="cy_ccg-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>bydd, Fydd, Ydan</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cy_ccg-feat-Tense.html">Tense</a></tt><tt>=Imp</tt>|<tt><a href="cy_ccg-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>oedd, Roeddent</em></td><td></td><td><em>byddai, fyddai, baent</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cy_ccg-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cy_ccg-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>bu, buom, buodd</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cy_ccg-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cy_ccg-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>bu, buom, buodd, fu</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cy_ccg-feat-Tense.html">Tense</a></tt><tt>=Pqp</tt>|<tt><a href="cy_ccg-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>Basai</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cy_ccg-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cy_ccg-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>mae, yw, oes, ydy, ydi, ydyw, 'S, ma', rwyf, tydi</em></td><td></td><td><em>bai</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cy_ccg-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cy_ccg-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>mae, yw, oes, ydy, ydi, ydyw, 'S, ma', rwyf, tydi</em></td><td></td><td><em>bai</em></td><td><em>bai</em></td></tr>
   <tr><td><tt><tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cy_ccg-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cy_ccg-feat-VerbForm.html">VerbForm</a></tt><tt>=FinRel</tt></tt></td><td><em>sy, sydd</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="cy_ccg-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="cy_ccg-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>byddwn, byddent</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="cy_ccg-feat-Tense.html">Tense</a></tt><tt>=Imp</tt>|<tt><a href="cy_ccg-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>oeddem, oedden, oeddan, oeddwn</em></td><td></td><td><em>byddem</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="cy_ccg-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cy_ccg-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>ydym, ydyn, ry'n, ydan, ydyw, y'n</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="cy_ccg-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cy_ccg-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>ydym, ydyn, 'dyn, ry'n, ydan, ydyw, y'n</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="cy_ccg-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="cy_ccg-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>byddwch</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="cy_ccg-feat-Tense.html">Tense</a></tt><tt>=Imp</tt>|<tt><a href="cy_ccg-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>oeddech, oeddach</em></td><td></td><td><em>byddech, byddem, byddent</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="cy_ccg-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cy_ccg-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>ydych</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="cy_ccg-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cy_ccg-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>ydych, ydach</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cy_ccg-feat-Tense.html">Tense</a></tt><tt>=Imp</tt>|<tt><a href="cy_ccg-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>oedden, oeddent, ro'n</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cy_ccg-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cy_ccg-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>maen, ydyn, maent, ydynt, Byddan</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cy_ccg-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cy_ccg-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>maen, maent, ydyn, ydynt, Byddan</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cy_ccg-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cy_ccg-feat-VerbForm.html">VerbForm</a></tt><tt>=FinRel</tt></tt></td><td><em>maent</em></td><td></td><td></td><td></td></tr>
 </table>
 
 ### `AUX`
 
-806 <tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> tokens (30% of all `AUX` tokens) have a non-empty value of `Mood`.
+859 <tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> tokens (30% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (762; 95%), <tt><a href="cy_ccg-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (757; 94%), <tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=3</tt> (734; 91%), <tt><a href="cy_ccg-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (561; 70%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (815; 95%), <tt><a href="cy_ccg-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (808; 94%), <tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=3</tt> (783; 91%), <tt><a href="cy_ccg-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (589; 69%).
 
 `AUX` tokens may have the following values of `Mood`:
 
-* `Cnd` (12; 1% of non-empty `Mood`): <em>byddai, fyddai, Byddech, bysa</em>
-* `Ind` (792; 98% of non-empty `Mood`): <em>mae, yw, oedd, oes, sy, bu, sydd, bydd, fu, fydd</em>
+* `Cnd` (14; 2% of non-empty `Mood`): <em>byddai, fyddai, Byddech, bysa</em>
+* `Ind` (843; 98% of non-empty `Mood`): <em>mae, yw, oedd, oes, sy, bydd, bu, fydd, sydd, fu</em>
 * `Sub` (2; 0% of non-empty `Mood`): <em>baech, fo</em>
-* `EMPTY` (1869): <em>yn, wedi, 'n, bod, fod, ar, newydd, am, heb, 'di</em>
+* `EMPTY` (1998): <em>yn, wedi, 'n, bod, fod, ar, am, newydd, heb, 'di</em>
 
 <table>
   <tr><th>Paradigm <i>bod</i></th><th><tt>Ind</tt></th><th><tt>Cnd</tt></th><th><tt>Sub</tt></th></tr>
@@ -89,7 +90,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
   <tr><td><tt><tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="cy_ccg-feat-Tense.html">Tense</a></tt><tt>=Imp</tt>|<tt><a href="cy_ccg-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>oeddwn</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="cy_ccg-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cy_ccg-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>Bûm</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="cy_ccg-feat-Tense.html">Tense</a></tt><tt>=Pqp</tt>|<tt><a href="cy_ccg-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>baswn, bawn</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="cy_ccg-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cy_ccg-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>dw, ydw, wy, wyf, Dwi</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="cy_ccg-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cy_ccg-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>dw, ydw, wy, wyf, dwi</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="cy_ccg-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cy_ccg-feat-VerbForm.html">VerbForm</a></tt><tt>=FinRel</tt></tt></td><td><em>ydw</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="cy_ccg-feat-Tense.html">Tense</a></tt><tt>=Imp</tt>|<tt><a href="cy_ccg-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>Oeddet</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cy_ccg-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="cy_ccg-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cy_ccg-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>wyt</em></td><td></td><td></td></tr>
@@ -111,14 +112,14 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="cy_ccg-dep-conj.html">conj</a></tt>]--> VERB</tt> (156; 93%),
+<tt>VERB --[<tt><a href="cy_ccg-dep-conj.html">conj</a></tt>]--> VERB</tt> (169; 93%),
 <tt>VERB --[<tt><a href="cy_ccg-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (56; 86%),
-<tt>VERB --[<tt><a href="cy_ccg-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (21; 62%),
-<tt>VERB --[<tt><a href="cy_ccg-dep-conj.html">conj</a></tt>]--> AUX</tt> (9; 100%),
-<tt>VERB --[<tt><a href="cy_ccg-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (9; 64%),
+<tt>VERB --[<tt><a href="cy_ccg-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (22; 61%),
+<tt>VERB --[<tt><a href="cy_ccg-dep-conj.html">conj</a></tt>]--> AUX</tt> (11; 100%),
+<tt>VERB --[<tt><a href="cy_ccg-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (10; 67%),
 <tt>AUX --[<tt><a href="cy_ccg-dep-conj.html">conj</a></tt>]--> VERB</tt> (2; 100%),
 <tt>VERB --[<tt><a href="cy_ccg-dep-appos.html">appos</a></tt>]--> VERB</tt> (2; 100%),
-<tt>VERB --[<tt><a href="cy_ccg-dep-cop.html">cop</a></tt>]--> AUX</tt> (2; 100%),
 <tt>VERB --[<tt><a href="cy_ccg-dep-obj.html">obj</a></tt>]--> VERB</tt> (2; 100%),
-<tt>AUX --[<tt><a href="cy_ccg-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1; 100%).
+<tt>AUX --[<tt><a href="cy_ccg-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1; 100%),
+<tt>AUX --[<tt><a href="cy_ccg-dep-conj.html">conj</a></tt>]--> AUX</tt> (1; 100%).
 

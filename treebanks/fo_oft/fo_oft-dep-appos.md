@@ -58,8 +58,8 @@ The following 8 pairs of parts of speech are connected with `appos`: <tt><a href
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 8 appos	color:blue
-1	Mitt	mitt	ADV	Adv	_	2	dep	_	_
-2	í	í	ADP	Pr	_	3	case	_	_
+1	Mitt	mitt	ADV	Adv	_	3	case	_	_
+2	í	í	ADP	Pr	_	1	fixed	_	_
 3	Moskva	Moskva	PROPN	N	Case=Dat|Number=Sing	0	root	_	_
 4	er	vera	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	cop	_	_
 5	Kreml	Kreml	PROPN	N	Case=Nom|Number=Sing	3	nsubj	_	SpaceAfter=No

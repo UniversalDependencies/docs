@@ -23,5 +23,5 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 `PRON` tokens may have the following values of `Reflex`:
 
 * `Yes` (186; 100% of non-empty `Reflex`): <em>itsensä, itse, itselleen, itseään, itseni, itseäni, itselleni, itsestään, itseensä, itseltään</em>
-* `EMPTY` (13297): <em>se, hän, sen, joka, sitä, siitä, tämän, tämä, ne, jotka</em>
+* `EMPTY` (13295): <em>se, hän, sen, joka, sitä, siitä, tämän, tämä, ne, jotka</em>
 

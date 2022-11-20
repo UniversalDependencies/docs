@@ -8,50 +8,50 @@ udver: '2'
 
 This relation is universal.
 
-1843 nodes (5%) are attached to their parents as `det`.
+2026 nodes (4%) are attached to their parents as `det`.
 
-1283 instances of `det` (70%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.5485621269669.
+1458 instances of `det` (72%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.58242843040474.
 
-The following 11 pairs of parts of speech are connected with `det`: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (1523; 83% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (180; 10% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (70; 4% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (32; 2% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (13; 1% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (11; 1% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (9; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `det`: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (1669; 82% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (213; 11% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (70; 3% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (33; 2% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (14; 1% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (11; 1% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (9; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 2 det	color:blue
-1	И	и	CCONJ	_	_	7	cc	_	_
-2	того	тотъ	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
-3	мертвого	мертвый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
-4	иноземца	иноземецъ	NOUN	Animacy[lex]=Anim	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	7	obj	_	_
-5	с	съ	ADP	_	_	6	case	_	_
-6	нею	она	PRON	_	Case=Ins|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	obl	_	_
-7	привезли	привезти	VERB	Transit=Tran	Aspect=Perf|Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	_
-8	к	къ	ADP	_	_	9	case	_	_
-9	приказу	приказъ	NOUN	Animacy[lex]=Inan	Case=Dat|Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	7	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 det	color:blue
+1	И	и	CCONJ	_	_	7	cc	_	wf="И"|SpaceAfter=Yes
+2	тои	тотъ	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	wf="тои"|SpaceAfter=Yes
+3	меди	мѣдь	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	7	obl	_	wf="меди"|SpaceAfter=Yes
+4	у	у	ADP	_	_	5	case	_	wf="у"|SpaceAfter=Yes
+5	Сидара	Сидоръ	PROPN	_	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	7	obl	_	wf="Сидара"|SpaceAfter=Yes
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	wf="не"|SpaceAfter=Yes
+7	дашло	доити	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	wf="дашло"|SpaceAfter=Yes
+8	полчетверты	полчетверта	NUM	_	Case=Nom|Gender=Fem|NumForm=Word|NumType=Frac	9	nummod:gov	_	wf="полчетверты"|SpaceAfter=Yes
+9	гривенки	гривенка	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	7	nsubj	_	wf="гривенки"|SpaceAfter=No
+10	.	.	PUNCT	_	_	7	punct	_	wf="."|SpaceAfter=Yes
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 det	color:blue
-1	а	а	CCONJ	_	_	4	advmod	_	_
-2	ꙋ	у	ADP	_	_	3	case	_	_
-3	неи	она	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obl	_	_
-4	послана	послати	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
-5	челобитная	челобитная	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj:pass	_	_
-6	я	и	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	det	_	_
-7	за	за	ADP	_	_	8	case	_	_
-8	рꙋкою	рука	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	5	nmod	_	_
-9	влдки	владыка	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
-10	гсдрю	государь	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	iobj	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 3 det	color:blue
+1	Роспис(ь)	роспись	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	wf="Роспись"|SpaceAfter=No
+2	,	,	PUNCT	_	_	4	punct	_	wf=","|SpaceAfter=Yes
+3	что	что	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	8	det	_	wf="что"|SpaceAfter=Yes
+4	принето	приняти	VERB	_	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	1	acl	_	wf="принето"|SpaceAfter=Yes
+5	у	у	ADP	_	_	7	case	_	wf="у"|SpaceAfter=Yes
+6	белевских	бѣлевский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	7	amod	_	wf="белевских"|SpaceAfter=Yes
+7	крестьян	крестьянинъ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	4	obl	_	wf="крестьян"|SpaceAfter=Yes
+8	куров	куръ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	4	nsubj:pass	_	wf="куров"|SpaceAfter=Yes
+9	живых	живой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	8	amod	_	wf="живых"|SpaceAfter=No
+10	.	.	PUNCT	_	_	1	punct	_	wf="."|SpaceAfter=No
 
 ~~~
 

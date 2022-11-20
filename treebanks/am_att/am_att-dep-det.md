@@ -25,9 +25,9 @@ The following 10 pairs of parts of speech are connected with `det`: <tt><a href=
 1	መጽሐፍ	መጽሐፍ	NOUN	NOUN	_	4	obj	_	Translit=mäcəħäfə|LTranslit=mäcəħäfə
 2	ኡ	ኡ	DET	DET	_	1	det	_	Translit='u|LTranslit='u
 3	ን	ን	PART	ACC	_	1	case	_	Translit=nə|LTranslit=nə
-4	አስያዝ	አስያዝ	VERB	VERB	Voice=Cau	0	root	_	Translit='äsəjazə|LTranslit='äsəjazə
-5	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	4	nsubj	_	Translit='ă|LTranslit='ă
-6	ኣት	ኣት	PRON	OBJC	Gender=Fem|Number=Sing|Person=3	4	iobj	_	Translit='atə|LTranslit='atə
+4	አስያዝ	አስያዝ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Cau	0	root	_	Translit='äsəjazə|LTranslit='äsəjazə
+5	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	LTranslit='əsu|Translit='ă
+6	ኣት	እሱ	PRON	OBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	iobj	_	LTranslit='əsu|Translit='atə
 7	።	።	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=.
 
 ~~~
@@ -40,13 +40,13 @@ The following 10 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 1	fgColor:white
 # visual-style 1 2 det	color:blue
 1	ሚስት	ሚስት	NOUN	NOUN	_	7	obj	_	Translit=misətə|LTranslit=misətə
-2	ኡ	ኡ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes	1	det	_	Translit='u|LTranslit='u
+2	ኡ	እሱ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	1	det	_	LTranslit='əsu|Translit='u
 3	ን	ን	PART	ACC	_	1	case	_	Translit=nə|LTranslit=nə
 4	በ	በ	ADP	ADP	_	5	case	_	Translit=bä|LTranslit=bä
 5	መግደል	መግደል	NOUN	NOUN	VerbForm=Vnoun	7	advcl	_	Translit=mägədälə|LTranslit=mägədälə
-6	ኡ	ኡ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes	5	nmod	_	Translit='u|LTranslit='u
-7	ተከሰስ	ተከሰስ	VERB	VERB	Voice=Pass	0	root	_	Translit=täkäsäsə|LTranslit=täkäsäsə
-8	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	7	nsubj:pass	_	Translit='ă|LTranslit='ă
+6	ኡ	እሱ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	nmod	_	LTranslit='əsu|Translit='u
+7	ተከሰስ	ተከሰስ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Pass	0	root	_	Translit=täkäsäsə|LTranslit=täkäsäsə
+8	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj:pass	_	LTranslit='əsu|Translit='ă
 9	።	።	PUNCT	PUNCT	_	7	punct	_	Translit=.|LTranslit=.
 
 ~~~
@@ -63,9 +63,9 @@ The following 10 pairs of parts of speech are connected with `det`: <tt><a href=
 3	በ	በ	ADP	ADP	_	4	case	_	Translit=bä|LTranslit=bä
 4	ቀላል	ቀላል	ADJ	ADJ	_	6	advmod	_	Translit=qälalə|LTranslit=qälalə
 5	ኡ	ኡ	DET	DET	_	4	det	_	Translit='u|LTranslit='u
-6	ተቀዳጅ	ተቀዳጅ	VERB	VERB	Voice=Pass	0	root	_	Translit=täqädadžə|LTranslit=täqädadžə
+6	ተቀዳጅ	ተቀዳጅ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Pass	0	root	_	Translit=täqädadžə|LTranslit=täqädadžə
 7	ን	ን	AUX	AUX	_	6	aux	_	Translit=nə|LTranslit=nə
-8	ኧው	ኧው	PRON	SUBJC	Number=Sing|Person=3	6	expl	_	Translit='ăwə|LTranslit='ăwə
+8	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	6	expl	_	LTranslit='əsu|Translit='ăwə
 9	።	።	PUNCT	PUNCT	_	6	punct	_	Translit=.|LTranslit=.
 
 ~~~

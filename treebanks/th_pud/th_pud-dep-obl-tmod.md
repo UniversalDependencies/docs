@@ -23,18 +23,18 @@ The following 13 pairs of parts of speech are connected with `obl:tmod`: <tt><a 
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 4 obl:tmod	color:blue
-1	ป้าย	_	NOUN	NN	_	2	obj	_	SpaceAfter=No
-2	เขียน	_	VERB	VV	_	0	root	_	SpaceAfter=No
-3	ว่า	_	ADP	IN	_	8	mark	_	_
-4	คืน	_	NOUN	NN	_	8	obl:tmod	_	SpaceAfter=No
-5	นี้	_	DET	DT	_	4	det	_	SpaceAfter=No
-6	เรา	_	PRON	PRP	Person=1	8	nsubj	_	SpaceAfter=No
-7	จะ	_	AUX	MD	_	8	aux	_	SpaceAfter=No
-8	ทำ	_	VERB	VV	_	2	ccomp	_	SpaceAfter=No
-9	โทษ	_	NOUN	NN	_	8	obj	_	SpaceAfter=No
-10	ด้วย	_	ADP	IN	_	11	case	_	SpaceAfter=No
-11	ไฟ	_	NOUN	NN	_	8	obl	_	SpaceAfter=No
-12	สูง	_	ADJ	JJ	_	11	amod	_	_
+1	ป้าย	_	NOUN	NN	_	2	obj	_	SpaceAfter=No|Translit=pá²y
+2	เขียน	_	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=kʰíán
+3	ว่า	_	ADP	IN	_	8	mark	_	Translit=wá¹
+4	คืน	_	NOUN	NN	_	8	obl:tmod	_	SpaceAfter=No|Translit=gʰűn
+5	นี้	_	DET	DT	_	4	det	_	SpaceAfter=No|Translit=ní²
+6	เรา	_	PRON	PRP	Person=1	8	nsubj	_	SpaceAfter=No|Translit=rao
+7	จะ	_	AUX	MD	_	8	aux	_	SpaceAfter=No|Translit=ča
+8	ทำ	_	VERB	VV	_	2	ccomp	_	SpaceAfter=No|Translit=dʰã
+9	โทษ	_	NOUN	NN	_	8	obj	_	SpaceAfter=No|Translit=dʰóš
+10	ด้วย	_	ADP	IN	_	11	case	_	SpaceAfter=No|Translit=d²wy
+11	ไฟ	_	NOUN	NN	_	8	obl	_	SpaceAfter=No|Translit=fai
+12	สูง	_	ADJ	JJ	_	11	amod	_	Translit=súŋ
 
 ~~~
 
@@ -45,12 +45,12 @@ The following 13 pairs of parts of speech are connected with `obl:tmod`: <tt><a 
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 2 obl:tmod	color:blue
-1	บาง	_	DET	DT	_	2	det	_	SpaceAfter=No
-2	ครั้ง	_	NOUN	NNB	_	5	obl:tmod	_	SpaceAfter=No
-3	ก็	_	ADV	RB	_	5	advmod	_	SpaceAfter=No
-4	คล้าย	_	AUX	VC	_	5	cop	_	SpaceAfter=No
-5	พลัง	_	NOUN	NN	_	0	root	_	SpaceAfter=No
-6	พิเศษ	_	ADJ	JJ	_	5	amod	_	_
+1	บาง	_	DET	DT	_	2	det	_	SpaceAfter=No|Translit=báŋ
+2	ครั้ง	_	NOUN	NNB	_	5	obl:tmod	_	SpaceAfter=No|Translit=gʰrâ²ŋ
+3	ก็	_	ADV	RB	_	5	advmod	_	SpaceAfter=No|Translit=kɔ
+4	คล้าย	_	AUX	VC	_	5	cop	_	SpaceAfter=No|Translit=gʰlá²y
+5	พลัง	_	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=bʰlâŋ
+6	พิเศษ	_	ADJ	JJ	_	5	amod	_	Translit=bʰiśéš
 
 ~~~
 
@@ -61,19 +61,19 @@ The following 13 pairs of parts of speech are connected with `obl:tmod`: <tt><a 
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 6 obl:tmod	color:blue
-1	พวก	_	NOUN	NN	_	3	nsubj	_	SpaceAfter=No
-2	เขา	_	PRON	PRP	Person=3	1	compound	_	SpaceAfter=No
-3	มี	_	VERB	VV	_	0	root	_	SpaceAfter=No
-4	โอกาส	_	NOUN	NN	_	3	obj	_	SpaceAfter=No
-5	เดียว	_	ADJ	JJ	_	4	amod	_	SpaceAfter=No
-6	ที่	_	DET	WDT	_	8	obl:tmod	_	SpaceAfter=No
-7	จะ	_	AUX	MD	_	8	aux	_	SpaceAfter=No
-8	ไถ่	_	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No
-9	ตัว	_	NOUN	NN	_	8	obj	_	SpaceAfter=No
-10	คืน	_	VERB	VV	_	8	acl	_	SpaceAfter=No
-11	โดย	_	ADP	IN	_	12	case	_	SpaceAfter=No
-12	การเอาชนะ	_	VERB	VV	_	3	xcomp	_	SpaceAfter=No
-13	อังกฤษ	_	PROPN	NNP	_	12	obj	_	_
+1	พวก	_	NOUN	NN	_	3	nsubj	_	SpaceAfter=No|Translit=bʰwk
+2	เขา	_	PRON	PRP	Person=3	1	compound	_	SpaceAfter=No|Translit=kʰao
+3	มี	_	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=mí
+4	โอกาส	_	NOUN	NN	_	3	obj	_	SpaceAfter=No|Translit='ókás
+5	เดียว	_	ADJ	JJ	_	4	amod	_	SpaceAfter=No|Translit=díáw
+6	ที่	_	DET	WDT	_	8	obl:tmod	_	SpaceAfter=No|Translit=dʰí¹
+7	จะ	_	AUX	MD	_	8	aux	_	SpaceAfter=No|Translit=ča
+8	ไถ่	_	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No|Translit=tʰai¹
+9	ตัว	_	NOUN	NN	_	8	obj	_	SpaceAfter=No|Translit=túá
+10	คืน	_	VERB	VV	_	8	acl	_	SpaceAfter=No|Translit=gʰűn
+11	โดย	_	ADP	IN	_	12	case	_	SpaceAfter=No|Translit=dóy
+12	การเอาชนะ	_	VERB	VV	_	3	xcomp	_	SpaceAfter=No|Translit=kár'aoćʰna
+13	อังกฤษ	_	PROPN	NNP	_	12	obj	_	Translit='âŋkṟš
 
 ~~~
 

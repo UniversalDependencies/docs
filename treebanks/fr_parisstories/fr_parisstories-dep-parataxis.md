@@ -9,44 +9,33 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `parataxis`: <tt><a href="fr_parisstories-dep-parataxis-parenth.html">parataxis:parenth</a></tt>.
 
-4 nodes (0%) are attached to their parents as `parataxis`.
+14 nodes (0%) are attached to their parents as `parataxis`.
 
-4 instances of `parataxis` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.
+14 instances of `parataxis` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 8.71428571428571.
 
-The following 3 pairs of parts of speech are connected with `parataxis`: <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (2; 50% instances), <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> (1; 25% instances), <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (1; 25% instances).
+The following 6 pairs of parts of speech are connected with `parataxis`: <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> (4; 29% instances), <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> (3; 21% instances), <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> (2; 14% instances), <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> (2; 14% instances), <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (2; 14% instances), <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (1; 7% instances).
 
 
 ~~~ conllu
-# visual-style 23	bgColor:blue
-# visual-style 23	fgColor:white
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 17 23 parataxis	color:blue
-1	et	et	CCONJ	_	_	3	cc	_	_
-2	tu	il	PRON	_	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
-3	avais	avoir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	tout	tout	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	_
-5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-6	cercle	cercle	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
-7	de	de	ADP	_	_	9	case	_	_
-8	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	9	det	_	_
-9	collégiens	collégien	NOUN	_	Gender=Masc|Number=Plur	6	nmod	_	_
-10	autour	autour	ADV	_	_	3	advmod	_	SpaceAfter=No
-11	,	,	PUNCT	_	_	13	punct	_	_
-12	hyper	hyper	ADV	_	_	13	advmod	_	_
-13	choqués	choquer	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	9	acl	_	SpaceAfter=No
-14	,	,	PUNCT	_	_	17	punct	_	_
-15	et	et	CCONJ	_	_	17	cc	_	_
-16	qui	qui	PRON	_	PronType=Rel	17	nsubj	_	_
-17	étaient	être	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	9	acl	_	_
-18	genre	genre	INTJ	_	_	23	discourse	_	_
-19	là	là	ADV	_	_	17	xcomp	_	SpaceAfter=No
-20	,	,	PUNCT	_	_	23	punct	_	_
-21	ah	ah	INTJ	_	_	23	discourse	_	_
-22	mon	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=1|PronType=Prs	23	det	_	_
-23	dieu	dieu	NOUN	_	Gender=Masc|Number=Sing	17	parataxis	_	Reported=Yes
-24	!	!	PUNCT	_	_	3	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 9 parataxis	color:blue
+1	ouais	ouais	INTJ	_	_	6	discourse	_	AlignBegin=119290|AlignEnd=119608|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	AlignBegin=119608|AlignEnd=119608
+3	bah	bah	INTJ	_	_	6	discourse	_	AlignBegin=119608|AlignEnd=119925|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	AlignBegin=119925|AlignEnd=119925
+5	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	AlignBegin=119925|AlignEnd=120243
+6	pense	penser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=120243|AlignEnd=120561|SpaceAfter=No
+7	,	,	PUNCT	_	_	9	punct	_	AlignBegin=120561|AlignEnd=120561
+8	tu	il	PRON	_	Number=Sing|Person=2|PronType=Prs	9	nsubj	_	AlignBegin=120561|AlignEnd=120878
+9	as	avoir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	parataxis	_	AlignBegin=120878|AlignEnd=121196
+10	raison	raison	NOUN	_	Gender=Fem|Number=Sing	9	obj	_	AlignBegin=121196|AlignEnd=121513|SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	AlignBegin=121513|AlignEnd=121513
+12	sûrement	sûrement	ADV	_	_	6	advmod	_	AlignBegin=121513|AlignEnd=121831|SpaceAfter=No
+13	.	.	PUNCT	_	_	6	punct	_	AlignBegin=121831|AlignEnd=121831
 
 ~~~
 
@@ -62,45 +51,58 @@ The following 3 pairs of parts of speech are connected with `parataxis`: <tt><a 
 3	euh	euh	INTJ	_	_	1	discourse	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	1	punct	_	_
 5	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj	_	SpaceAfter=No
-6	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+6	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	reparandum	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	11	punct	_	_
 8	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	11	nsubj	_	SpaceAfter=No
 9	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
 10	pas	pas	ADV	_	_	11	advmod	_	_
-11	possible	possible	ADJ	_	Number=Sing	6	reparandum	_	SpaceAfter=No
+11	possible	possible	ADJ	_	Number=Sing	0	root	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	14	punct	_	_
 13	tu	il	PRON	_	Number=Sing|Person=2|PronType=Prs	14	nsubj	_	_
-14	peux	pouvoir	VERB	_	_	11	parataxis	_	_
+14	peux	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	11	parataxis	_	_
 15	pas	pas	ADV	_	_	14	advmod	_	_
-16	connaître	connaître	VERB	_	VerbForm=Inf	14	xcomp	_	SpaceAfter=No
-17	.	.	PUNCT	_	_	6	punct	_	_
+16	connaître	connaître	VERB	_	VerbForm=Inf	14	xcomp	_	SpaceAfter=No|Subject=SubjRaising
+17	.	.	PUNCT	_	_	11	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 10 parataxis	color:blue
-1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	3	nsubj	_	_
-2	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
-3	là	là	ADV	_	_	0	root	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	10	punct	_	_
-5	non	non	ADV	_	_	10	discourse	_	_
-6	mais	mais	CCONJ	_	_	10	cc	_	_
-7	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	10	nsubj	_	SpaceAfter=No
-8	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	Reported=Yes
-9	pas	pas	ADV	_	_	10	advmod	_	_
-10	possible	possible	ADJ	_	Gender=Masc|Number=Sing	3	parataxis	_	SpaceAfter=No
-11	,	,	PUNCT	_	_	13	punct	_	_
-12	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	13	nsubj	_	_
-13	va	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	conj	_	_
-14	pas	pas	ADV	_	_	13	advmod	_	_
-15	le	le	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	obj	_	_
-16	faire	faire	VERB	_	VerbForm=Inf	13	xcomp	_	SpaceAfter=No
-17	.	.	PUNCT	_	_	3	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 9 parataxis	color:blue
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	lui	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	iobj	_	_
+3	dis	dire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	oui	oui	ADV	_	_	3	obj	_	Reported=Yes
+5	pour	pour	ADP	_	_	6	case	_	_
+6	preuve	preuve	NOUN	_	Gender=Fem|Number=Sing	9	obl:mod	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	SpaceAfter=No
+9	ai	avoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	parataxis	_	_
+10	ma	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1|PronType=Prs	11	det	_	_
+11	sœur	sœur	NOUN	_	Gender=Fem|Number=Sing	9	obj	_	_
+12	qui	qui	PRON	_	PronType=Rel	14	reparandum	_	_
+13	euh	euh	INTJ	_	_	14	discourse	_	_
+14	qui	qui	PRON	_	PronType=Rel	17	nsubj	_	_
+15	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
+16	plus	plus	ADV	_	_	17	advmod	_	_
+17	claire	clair	ADJ	_	Gender=Fem|Number=Sing	27	reparandum	_	_
+18	que	que	ADV	_	_	16	advmod	_	Scrap=Yes
+19	qui	qui	PRON	_	PronType=Rel	22	nsubj	_	_
+20	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	cop	_	_
+21	plus	plus	ADV	_	_	22	advmod	_	_
+22	claire	clair	ADJ	_	Gender=Fem|Number=Sing	27	reparandum	_	_
+23	que	que	SCONJ	_	_	24	case	_	_
+24	moi	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	22	obl:mod	_	_
+25	qui	qui	PRON	_	PronType=Rel	27	nsubj	_	_
+26	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	cop	_	_
+27	claire	clair	ADJ	_	Gender=Fem|Number=Sing	11	acl:relcl	_	_
+28	de	de	ADP	_	_	29	case	_	_
+29	peau	peau	NOUN	_	Gender=Fem|Number=Sing	27	obl:mod	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

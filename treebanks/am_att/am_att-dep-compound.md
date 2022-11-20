@@ -25,9 +25,9 @@ The following 5 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 2 1 compound	color:blue
 1	ተማሪ	ተማሪ	NOUN	NOUN	_	2	compound	_	Translit=tämari|LTranslit=tämari
 2	ቤት	ቤት	NOUN	NOUN	_	3	obl	_	Translit=betə|LTranslit=betə
-3	አስኬድ	አስኬድ	VERB	VERB	Voice=Cau	0	root	_	Translit='äsəkedə|LTranslit='äsəkedə
-4	ኩ	ኩ	PRON	SUBJC	Number=Sing|Person=1	3	nsubj	_	Translit=ku|LTranslit=ku
-5	ት	ት	PRON	OBJC	Gender=Masc|Number=Sing|Person=3	3	obj	_	Translit=tə|LTranslit=tə
+3	አስኬድ	አስኬድ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Cau	0	root	_	Translit='äsəkedə|LTranslit='äsəkedə
+4	ኩ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	LTranslit='əne|Translit=ku
+5	ት	እሱ	PRON	OBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	LTranslit='əsu|Translit=tə
 6	።	።	PUNCT	PUNCT	_	3	punct	_	Translit=.|LTranslit=.
 
 ~~~
@@ -40,10 +40,10 @@ The following 5 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 3	fgColor:white
 # visual-style 3 4 compound	color:blue
 1	ከፊት	ከፊት	NOUN	NOUN	_	4	obl	_	Translit=käfitə|LTranslit=käfitə
-2	ኤ	ኤ	PRON	POSM	Number=Sing|Person=1|Poss=Yes	1	nmod	_	Translit='e|LTranslit='e
-3	ጥፍት	ጥፍት	VERB	VERB	_	0	root	_	Translit=ţəfətə|LTranslit=ţəfətə
-4	ኣል	ኣል	VERB	VERB	_	3	compound	_	Translit='alə|LTranslit='alə
-5	ኧች	ኧች	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3	4	nsubj	_	Translit='ăčə|LTranslit='ăčə
+2	ኤ	እኔ	PRON	POSM	Number=Sing|Person=1|Poss=Yes|PronType=Prs	1	nmod	_	LTranslit='əne|Translit='e
+3	ጥፍት	ጥፍት	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=ţəfətə|LTranslit=ţəfətə
+4	ኣል	ኣል	VERB	VERB	Mood=Ind|VerbForm=Fin	3	compound	_	Translit='alə|LTranslit='alə
+5	ኧች	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	LTranslit='əsu|Translit='ăčə
 6	።	።	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=.
 
 ~~~
@@ -60,8 +60,8 @@ The following 5 pairs of parts of speech are connected with `compound`: <tt><a h
 3	ቶሎ	ቶሎ	ADV	ADV	_	4	compound	_	Translit=tolo|LTranslit=tolo
 4	ቶሎ	ቶሎ	ADV	ADV	_	5	advmod	_	Translit=tolo|LTranslit=tolo
 5	ሂያጅ	ሂያጅ	NOUN	NOUN	_	0	root	_	Translit=hijadžə|LTranslit=hijadžə
-6	ን	ን	AUX	AUX	_	5	cop	_	Translit=nə|LTranslit=nə
-7	ኧው	ኧው	PRON	SUBJC	Number=Sing|Person=3	5	expl	_	Translit='ăwə|LTranslit='ăwə
+6	ን	ን	AUX	AUX	_	5	cop	_	LTranslit=nə|Translit=nə
+7	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	5	expl	_	LTranslit='əsu|Translit='ăwə
 8	።	።	PUNCT	PUNCT	_	5	punct	_	Translit=.|LTranslit=.
 
 ~~~

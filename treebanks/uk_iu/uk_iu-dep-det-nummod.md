@@ -23,7 +23,7 @@ The following 3 pairs of parts of speech are connected with `det:nummod`: <tt><a
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 11 det:nummod	color:blue
-1	Кількість	кількість	NOUN	Ncfsnn	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	4:nsubj|5:nsubj:x	Id=2d5n|LTranslit=kiľkisť|Translit=Kiľkisť
+1	Кількість	кількість	NOUN	Ncfsnn	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	4:nsubj|5:nsubj:xsubj	Id=2d5n|LTranslit=kiľkisť|Translit=Kiľkisť
 2	таких	такий	DET	Pd----pga	Case=Gen|Number=Plur|PronType=Dem	3	det	3:det	Id=2d5o|LTranslit=takyj|Translit=takych
 3	утворень	утворення	NOUN	Ncnpgn	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	1	nmod	1:nmod	Id=2d5p|LTranslit=utvorenńа|Translit=utvoreń
 4	може	могти	VERB	Vmpip3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Id=2d5q|LTranslit=mohty|Translit=može
@@ -53,11 +53,11 @@ The following 3 pairs of parts of speech are connected with `det:nummod`: <tt><a
 5	,	,	PUNCT	U	_	2	punct	2:punct	Id=2hbn|LTranslit=,|Translit=,
 6	то	то	PART	Q	_	14	discourse	14:discourse	Id=2hbo|LTranslit=to|Translit=to
 7	багато	багато	DET	Mlc-n	Case=Nom|NumType=Card|PronType=Ind	8	det:nummod	8:det:nummod	Id=2hbp|LTranslit=bahato|Translit=bahato
-8	хто	хто	PRON	Pr--mysnn	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	14	nsubj	14:nsubj|15:nsubj:x	Id=2hbq|LTranslit=chto|Translit=chto
+8	хто	хто	PRON	Pr--mysnn	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	14	nsubj	14:nsubj|15:nsubj:xsubj	Id=2hbq|LTranslit=chto|Translit=chto
 9	із	із	ADP	Spsg	Case=Gen	13	case	13:case	Id=2hbr|LTranslit=iz|Translit=iz
 10	сучасної	сучасний	ADJ	Afpfsgf	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	13	amod	13:amod	Id=2hbs|LTranslit=sučasnyj|Translit=sučasnoji
 11	арт	арт	NOUN	Ncmsnn	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	13	compound	13:compound	Id=2hbt|LTranslit=art|SpaceAfter=No|Translit=art
-12	-	-	PUNCT	U	PunctType=Dash	11	punct	11:punct	Id=2hbu|LTranslit=-|SpaceAfter=No|Translit=-
+12	-	-	PUNCT	U	PunctType=Hyph	11	punct	11:punct	Id=2hbu|LTranslit=-|SpaceAfter=No|Translit=-
 13	спільноти	спільнота	NOUN	Ncfsgn	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	8:nmod	Id=2hbv|LTranslit=spiľnota|Translit=spiľnoty
 14	відмовився	відмовитися	VERB	Vmeis-sm	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	0:root	Id=2hbw|LTranslit=vidmovytyśа|Translit=vidmovyvśа
 15	зніматися	зніматися	VERB	Vmpn	Aspect=Imp|VerbForm=Inf	14	xcomp	14:xcomp	Id=2hbx|LTranslit=znimatyśа|Translit=znimatyśа

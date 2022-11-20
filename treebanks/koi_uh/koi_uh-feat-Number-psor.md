@@ -9,27 +9,27 @@ udver: '2'
 This feature is language-specific.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="koi_uh-feat-Number.html">Number</a></tt>, <tt><a href="koi_uh-feat-Number-psor.html">Number[psor]</a></tt>.
+This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="koi_uh-feat-Number.html">Number</a></tt>, <tt><a href="koi_uh-feat-Number-psor.html">Number[psor]</a></tt>, <tt><a href="koi_uh-feat-Number-subj.html">Number[subj]</a></tt>.
 
-62 tokens (7%) have a non-empty value of `Number[psor]`.
-50 types (10%) occur at least once with a non-empty value of `Number[psor]`.
-45 lemmas (11%) occur at least once with a non-empty value of `Number[psor]`.
-The feature is used with 3 part-of-speech tags: <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (57; 6% instances), <tt><a href="koi_uh-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (2; 0% instances).
+70 tokens (7%) have a non-empty value of `Number[psor]`.
+57 types (11%) occur at least once with a non-empty value of `Number[psor]`.
+51 lemmas (12%) occur at least once with a non-empty value of `Number[psor]`.
+The feature is used with 3 part-of-speech tags: <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (65; 6% instances), <tt><a href="koi_uh-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (2; 0% instances).
 
 ### `NOUN`
 
-57 <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> tokens (27% of all `NOUN` tokens) have a non-empty value of `Number[psor]`.
+65 <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> tokens (29% of all `NOUN` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `NOUN` and `Number[psor]` co-occurred: <tt><a href="koi_uh-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (51; 89%), <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt> (51; 89%), <tt><a href="koi_uh-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (45; 79%).
+The most frequent other feature values with which `NOUN` and `Number[psor]` co-occurred: <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt> (58; 89%), <tt><a href="koi_uh-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (57; 88%), <tt><a href="koi_uh-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (53; 82%).
 
 `NOUN` tokens may have the following values of `Number[psor]`:
 
 
-`Number[psor]` seems to be **lexical feature** of `NOUN`. 100% lemmas (40) occur only with one value of `Number[psor]`.
+`Number[psor]` seems to be **lexical feature** of `NOUN`. 100% lemmas (46) occur only with one value of `Number[psor]`.
 
 ### `ADP`
 
-3 <tt><a href="koi_uh-pos-ADP.html">ADP</a></tt> tokens (19% of all `ADP` tokens) have a non-empty value of `Number[psor]`.
+3 <tt><a href="koi_uh-pos-ADP.html">ADP</a></tt> tokens (18% of all `ADP` tokens) have a non-empty value of `Number[psor]`.
 
 The most frequent other feature values with which `ADP` and `Number[psor]` co-occurred: <tt><a href="koi_uh-feat-AdpType.html">AdpType</a></tt><tt>=Post</tt> (3; 100%), <tt><a href="koi_uh-feat-Case.html">Case</a></tt><tt>=Ill</tt> (3; 100%), <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 100%), <tt><a href="koi_uh-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (3; 100%), <tt><a href="koi_uh-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (2; 67%).
 

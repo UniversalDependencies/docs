@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3210 nodes (7%) are attached to their parents as `root`.
+3209 nodes (7%) are attached to their parents as `root`.
 
-3210 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.19968847352025.
+3209 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.46899345590527.
 
-The following 14 pairs of parts of speech are connected with `root`: -<tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> (1881; 59% instances), -<tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> (373; 12% instances), -<tt><a href="fr_rhapsodie-pos-INTJ.html">INTJ</a></tt> (290; 9% instances), -<tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt> (193; 6% instances), -<tt><a href="fr_rhapsodie-pos-ADV.html">ADV</a></tt> (152; 5% instances), -<tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (96; 3% instances), -<tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> (89; 3% instances), -<tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> (61; 2% instances), -<tt><a href="fr_rhapsodie-pos-X.html">X</a></tt> (30; 1% instances), -<tt><a href="fr_rhapsodie-pos-ADP.html">ADP</a></tt> (13; 0% instances), -<tt><a href="fr_rhapsodie-pos-CCONJ.html">CCONJ</a></tt> (12; 0% instances), -<tt><a href="fr_rhapsodie-pos-DET.html">DET</a></tt> (12; 0% instances), -<tt><a href="fr_rhapsodie-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), -<tt><a href="fr_rhapsodie-pos-NUM.html">NUM</a></tt> (2; 0% instances).
+The following 14 pairs of parts of speech are connected with `root`: -<tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> (1898; 59% instances), -<tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> (391; 12% instances), -<tt><a href="fr_rhapsodie-pos-INTJ.html">INTJ</a></tt> (283; 9% instances), -<tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt> (204; 6% instances), -<tt><a href="fr_rhapsodie-pos-ADV.html">ADV</a></tt> (154; 5% instances), -<tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (101; 3% instances), -<tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> (61; 2% instances), -<tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> (50; 2% instances), -<tt><a href="fr_rhapsodie-pos-X.html">X</a></tt> (29; 1% instances), -<tt><a href="fr_rhapsodie-pos-ADP.html">ADP</a></tt> (13; 0% instances), -<tt><a href="fr_rhapsodie-pos-CCONJ.html">CCONJ</a></tt> (11; 0% instances), -<tt><a href="fr_rhapsodie-pos-DET.html">DET</a></tt> (7; 0% instances), -<tt><a href="fr_rhapsodie-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), -<tt><a href="fr_rhapsodie-pos-NUM.html">NUM</a></tt> (2; 0% instances).
 
 
 ~~~ conllu

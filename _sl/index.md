@@ -29,7 +29,7 @@ For more details, see the Slovenian [tokenization](tokenization.html) descriptio
 * The [DET]() tag is used for JOS pronouns and adverbs that predominantly occurr as nominal premodifiers, regardless of their actual function in context, e.g. *moj* "my", *tak* "such", *ta* "this"; *dosti* "enough", *manj* "less", *veliko* "many", etc.
 * Most (de)verbal forms are annotated as [VERB]() or [AUX](), with the exception of adverbial participles ([ADV](), e.g. *rekoč*, *hote*, *upoštevaje*), adjectival participles ([ADJ](), e.g. *prepričan*, *sprejet*, *ostal*), and gerunds ([NOUN](), e.g. *sedenje*, *igranje*, *plavanje*). 
 
-For more details, see the list of [Slovenian UPOS tags](pos/index.html) with a detailed explanation of the JOS-to-UD conversion rules, and the [Slovenian UD treebanks overview](https://universaldependencies.org/treebanks/sl-comparison.html) with statistical details on the tagset distribution.
+For more details, see the language-specific guidelines for individual tags with a detailed explanation of the JOS-to-UD conversion rules, and the [Slovenian UD treebanks overview](https://universaldependencies.org/treebanks/sl-comparison.html) with statistical details on the tagset distribution.
 
 
 ### Features
@@ -37,7 +37,7 @@ For more details, see the list of [Slovenian UPOS tags](pos/index.html) with a d
 * Nouns have inherent [Gender]() (feminine, masculine and neutral) and inflect for [Number]() (singular, dual or plural), [Case]() (nominative, genitive, dative, accusative, locative, instrumental), [Animacy](animate or inanimate) and [Definite]() (indefinite or definite).
 * Verbs have inherent [Aspect](). Non-finite forms include infinitives, supine forms and l-participles. Finite forms inflect for [Gender]() (feminine, masculine and neutral), [Number]() (singular, dual or plural), [Mood]() (indicative and imperative) and [Person]() (first, second and third). The verb *biti* (be) also inflects for conditional [Mood]() and future [Tense](), while the verbs *biti* (be), *imeti* (have) and *hoteti* (want) also inflect for [Polarity]() (positive and negative).
 
-For more details on all other morphological features, see the list of [Slovenian features](feat/index.html) with a detailed explanation of the JOS-to-UD conversion rules, and the [Slovenian UD treebanks overview](https://universaldependencies.org/treebanks/sl-comparison.html) with statistical details on the tagset distribution.
+For more details on all other morphological features see the language-specific guidelines for individual features with a detailed explanation of the JOS-to-UD conversion rules, and the [Slovenian UD treebanks overview](https://universaldependencies.org/treebanks/sl-comparison.html) with statistical details on the tagset distribution.
 
 ## Syntax
 

@@ -75,7 +75,7 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 
 17063 <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> tokens (64% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17061; 100%), <tt><a href="be_hse-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (16899; 99%), <tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (15302; 90%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17061; 100%), <tt><a href="be_hse-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (16899; 99%), <tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (15299; 90%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
@@ -119,7 +119,7 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 
 5554 <tt><a href="be_hse-pos-PRON.html">PRON</a></tt> tokens (54% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5551; 100%), <tt><a href="be_hse-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4055; 73%), <tt><a href="be_hse-feat-Case.html">Case</a></tt><tt>=Nom</tt> (2911; 52%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5551; 100%), <tt><a href="be_hse-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4055; 73%), <tt><a href="be_hse-feat-Case.html">Case</a></tt><tt>=Nom</tt> (2908; 52%).
 
 `PRON` tokens may have the following values of `Gender`:
 
@@ -149,7 +149,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 4294 <tt><a href="be_hse-pos-DET.html">DET</a></tt> tokens (64% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4289; 100%), <tt><a href="be_hse-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (3742; 87%), <tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3456; 80%), <tt><a href="be_hse-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (2748; 64%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4289; 100%), <tt><a href="be_hse-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (3742; 87%), <tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3455; 80%), <tt><a href="be_hse-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (2748; 64%).
 
 `DET` tokens may have the following values of `Gender`:
 
@@ -262,7 +262,7 @@ The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>PROPN --[<tt><a href="be_hse-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (3634; 97%),
 <tt>NOUN --[<tt><a href="be_hse-dep-det.html">det</a></tt>]--> DET</tt> (3150; 63%),
 <tt>NOUN --[<tt><a href="be_hse-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2471; 51%),
-<tt>NOUN --[<tt><a href="be_hse-dep-appos.html">appos</a></tt>]--> PROPN</tt> (1648; 70%),
+<tt>NOUN --[<tt><a href="be_hse-dep-appos.html">appos</a></tt>]--> PROPN</tt> (1649; 70%),
 <tt>VERB --[<tt><a href="be_hse-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (1036; 55%),
 <tt>PROPN --[<tt><a href="be_hse-dep-conj.html">conj</a></tt>]--> PROPN</tt> (731; 70%),
 <tt>VERB --[<tt><a href="be_hse-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (476; 62%),

@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="kk_ktb-pos-VERB.htm
 
 ### `VERB`
 
-266 <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt> tokens (17% of all `VERB` tokens) have a non-empty value of `Voice`.
+266 <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt> tokens (16% of all `VERB` tokens) have a non-empty value of `Voice`.
 
 The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="kk_ktb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (221; 83%), <tt><a href="kk_ktb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (169; 64%), <tt><a href="kk_ktb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (144; 54%), <tt><a href="kk_ktb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (143; 54%), <tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=3</tt> (143; 54%).
 
@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 * `Pass` (235; 88% of non-empty `Voice`): <em>ашылды, табылады, құрылды, жойылды, жоспарланып, көрінеді, салынған, анықталады, арналған, басталды</em>
 * `Rcp` (31; 12% of non-empty `Voice`): <em>айналысады, айтысып, араласа, араласқан жоқ, байланысты, бөлісеміз, жалғасты, жасасты, жетіспеушілігінен, келісті</em>
-* `EMPTY` (1321): <em>деп, деді, алып, біледі, болды, бастап, келді, болған, өтті, береді</em>
+* `EMPTY` (1377): <em>деп, бастады, кетті, деді, алып, біледі, болды, бастап, келді, шықты</em>
 
 <table>
   <tr><th>Paradigm <i>жаса</i></th><th><tt>Pass</tt></th><th><tt>Rcp</tt></th></tr>

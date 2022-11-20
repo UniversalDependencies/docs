@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>woro</em> (<tt><a href="bm_crb-pos-NO
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.060038).
+The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.060207).
 
 The 1st highest number of forms (2) was observed with the lemma “_”: <em>kelen, kelen-kelen</em>.
 

@@ -15,4 +15,4 @@ In Irish, the reflexive pronoun is <b>féin</b>
 
 * _bhí fhios agam cheana <b>féin</b>_ "I (myself) already knew"
 * _bhí a chiall <b>féin</b> do gach duine ina thaibhreamh <b>féin</b>_ "Everybody's <b>own</b> meaning was in his <b>own</b> dream"
-<!-- Interlanguage links updated So kvě 14 19:02:37 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:57 CET 2022 -->

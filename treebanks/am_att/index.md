@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Binyam Ephrem, Gashaw Arutie, Tsegay Woldemariam, Juan Ignacio Navarro Horñiacek.
 
 Repository: [UD_Amharic-ATT](https://github.com/UniversalDependencies/UD_Amharic-ATT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udam_att210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udam_att211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-SA 4.0
 
@@ -65,11 +65,11 @@ The treebank is developed by Binyam Ephrem, Gashaw Arutie, and Tsegay Woldemaria
 
 ## POS Tags
 
-[ADJ](am_att-pos-ADJ.html) – [ADP](am_att-pos-ADP.html) – [ADV](am_att-pos-ADV.html) – [AUX](am_att-pos-AUX.html) – [CCONJ](am_att-pos-CCONJ.html) – [DET](am_att-pos-DET.html) – [INTJ](am_att-pos-INTJ.html) – [NOUN](am_att-pos-NOUN.html) – [NUM](am_att-pos-NUM.html) – [PART](am_att-pos-PART.html) – [PRON](am_att-pos-PRON.html) – [PROPN](am_att-pos-PROPN.html) – [PUNCT](am_att-pos-PUNCT.html) – [SCONJ](am_att-pos-SCONJ.html) – [VERB](am_att-pos-VERB.html)
+[ADJ](am_att-pos-ADJ.html) – [ADP](am_att-pos-ADP.html) – [ADV](am_att-pos-ADV.html) – [AUX](am_att-pos-AUX.html) – [CCONJ](am_att-pos-CCONJ.html) – [DET](am_att-pos-DET.html) – [INTJ](am_att-pos-INTJ.html) – [NOUN](am_att-pos-NOUN.html) – [NUM](am_att-pos-NUM.html) – [PART](am_att-pos-PART.html) – [PRON](am_att-pos-PRON.html) – [PROPN](am_att-pos-PROPN.html) – [PUNCT](am_att-pos-PUNCT.html) – [SCONJ](am_att-pos-SCONJ.html) – [VERB](am_att-pos-VERB.html) – [X](am_att-pos-X.html)
 
 ## Features
 
-[Case](am_att-feat-Case.html) – [Gender](am_att-feat-Gender.html) – [Mood](am_att-feat-Mood.html) – [Number](am_att-feat-Number.html) – [NumType](am_att-feat-NumType.html) – [Person](am_att-feat-Person.html) – [Polarity](am_att-feat-Polarity.html) – [Poss](am_att-feat-Poss.html) – [Tense](am_att-feat-Tense.html) – [VerbForm](am_att-feat-VerbForm.html) – [Voice](am_att-feat-Voice.html)
+[Case](am_att-feat-Case.html) – [Gender](am_att-feat-Gender.html) – [Mood](am_att-feat-Mood.html) – [Number](am_att-feat-Number.html) – [NumType](am_att-feat-NumType.html) – [Person](am_att-feat-Person.html) – [Polarity](am_att-feat-Polarity.html) – [Poss](am_att-feat-Poss.html) – [PronType](am_att-feat-PronType.html) – [Tense](am_att-feat-Tense.html) – [Typo](am_att-feat-Typo.html) – [VerbForm](am_att-feat-VerbForm.html) – [Voice](am_att-feat-Voice.html)
 
 ## Relations
 
@@ -104,8 +104,8 @@ The treebank is developed by Binyam Ephrem, Gashaw Arutie, and Tsegay Woldemaria
 <h3>Tags</h3>
 
 <ul>
-<li>This corpus uses 15 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a></li>
-<li>This corpus does not use the following tags: SYM, X</li>
+<li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
+<li>This corpus does not use the following tags: SYM</li>
 </ul>
 
 <ul>
@@ -113,7 +113,7 @@ The treebank is developed by Binyam Ephrem, Gashaw Arutie, and Tsegay Woldemaria
 </ul>
 
 <ul>
-<li>This corpus contains 69 lemmas tagged as pronouns (PRON): ሁ, ሁል, ህ, ለምን, ል, መቼ, መች, ማን, ማንም, ምነው, ምን, ምንም, ምንድ, ምንድን, ስንት, ሽ, ት, ን, ኝ, አንተ, ኡ, ኡት, ኢ, ኣ, ኣ_ት, ኣሁ, ኣት, ኣቸው, ኣች, ኣችሁ, ኣችን, ኣን, ኣንተ, ኣው, ኤ, እ, እርሱ, እርስ, እሱ, እሷ, እነሱ, እኔ, እን, እንዴት, እንግዲያ, እኛ, ኦ, ኧ, ኧ_ሁ, ኧሁ, ኧህ, ኧሽ, ኧት, ኧች, ኧን, ኧኝ, ኧው, ኩ, ክ, ኸ, ዋ, ው, ዎ, የት, የትም, የትኛ, የትኛው, ዬ, ይ</li>
+<li>This corpus contains 30 lemmas tagged as pronouns (PRON): ሁ, ሁል, ህ, ለምን, መቼ, መች, ማን, ማንም, ምነው, ምን, ምንም, ምንድን, ስንት, አንተ, ኡ, ኣ, ኣንተ, እርሱ, እርስ, እሱ, እኔ, እንዴት, እንግዲያ, ኧው, ው, የት, የትም, የትኛ, የትኛው, ይ</li>
 </ul>
 
 <ul>
@@ -121,25 +121,33 @@ The treebank is developed by Binyam Ephrem, Gashaw Arutie, and Tsegay Woldemaria
 </ul>
 
 <ul>
-<li>Out of the above, 6 lemmas occurred sometimes as PRON and sometimes as DET: ምነው, ኡ, ኤ, ዋ, ው, ዬ</li>
+<li>Out of the above, 3 lemmas occurred sometimes as PRON and sometimes as DET: ምነው, ኡ, ው</li>
 </ul>
 
 <ul>
-<li>This corpus contains 16 lemmas tagged as auxiliaries (AUX): ሆን, ብል, ቻል, ችል, ነ, ነበር, ን, ኖር, ኖሮ, አል, አይደል, አድርግ, ኣለ, ኣል, እየ, ጀመር</li>
+<li>This corpus contains 11 lemmas tagged as auxiliaries (AUX): ሆን, ብል, ችል, ነበር, ን, ኖር, አይደል, አድርግ, ኣለ, ኣል, እየ</li>
 </ul>
 
 <ul>
-<li>Out of the above, 12 lemmas occurred sometimes as AUX and sometimes as VERB: ሆን, ብል, ቻል, ችል, ነበር, ኖር, አል, አይደል, አድርግ, ኣለ, ኣል, ጀመር</li>
+<li>Out of the above, 9 lemmas occurred sometimes as AUX and sometimes as VERB: ሆን, ብል, ችል, ነበር, ኖር, አይደል, አድርግ, ኣለ, ኣል</li>
 </ul>
 
 <ul>
-<li>There are 2 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+<li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
 </ul>
 
 <ul>
   <li>Conv
   <ul>
     <li>VERB: ገዝት, ብል, መጥት, በልት, ከፍት, ዘንብ, ይዝ, ሄድ, ሠራርት, ረጥብ</li>
+  </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Fin
+  <ul>
+    <li>VERB: ሄድ, መጣ, ኣል, ሆን, በላ, ብል, ሰጥ, ቀር, ገዛ, ል</li>
   </ul>
   </li>
 </ul>
@@ -161,18 +169,10 @@ The treebank is developed by Binyam Ephrem, Gashaw Arutie, and Tsegay Woldemaria
 </ul>
 
 <ul>
-  <li>Com
-    <ul>
-      <li>PRON: ኝ, ኧሁ, ሁ, ን, ኤ, እ</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
   <li>Fem
     <ul>
       <li>DET: ዋ</li>
-      <li>PRON: ኧች, ት, ኣት, ኣ, ዋ, ኢ, ሽ, ኣች, ኧሽ, ኡ</li>
+      <li>PRON: ኧች, ት, ኣት, ኣ, ዋ, ኢ, ሽ, ኣች, እሷ, ኧሽ</li>
     </ul>
   </li>
 </ul>
@@ -181,8 +181,8 @@ The treebank is developed by Binyam Ephrem, Gashaw Arutie, and Tsegay Woldemaria
   <li>Masc
     <ul>
       <li>DET: ው</li>
-      <li>PRON: ኧ, ይ, ት, ኦ, ው, ኡ, ህ, ኧት, ኧህ, ክ</li>
-      <li>VERB: ይ</li>
+      <li>PRON: ኧ, ይ, ት, ኦ, ው, ኡ, ህ, ኧት, ኧህ, እሱ</li>
+      <li>VERB-Fin: ይ</li>
     </ul>
   </li>
 </ul>
@@ -190,7 +190,7 @@ The treebank is developed by Binyam Ephrem, Gashaw Arutie, and Tsegay Woldemaria
 <ul>
   <li>Neut
     <ul>
-      <li>PRON: ኝ, ኧሁ, ሁ, ኣቸው, ን, ኡ, ኣሁ, ኧ, ኧኝ, ዋ</li>
+      <li>PRON: ኝ, ኧሁ, ሁ, ኣቸው, ን, ኧ, ኡ, ኣሁ, ኧኝ, ዋ</li>
     </ul>
   </li>
 </ul>
@@ -201,20 +201,12 @@ The treebank is developed by Binyam Ephrem, Gashaw Arutie, and Tsegay Woldemaria
 </ul>
 
 <ul>
-  <li>Dual
-    <ul>
-      <li>PRON: ኢ</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
   <li>Plur
     <ul>
       <li>ADJ: ብዙዎች, ተሰዳጆች</li>
       <li>NOUN: ልጆች, ተማሪዎች, ሰዎች, ወታደሮች, ጓደኞች, ልጁች, መጽሐፎች, ሴቶች, በጎች, አይኖች</li>
       <li>NUM: መቶዎች</li>
-      <li>PRON: ኡ, ኣቸው, ኣችን, ን, ኧን, እን, ኣችሁ, ኧ, ት, ኡት</li>
+      <li>PRON: ኡ, ኣቸው, ኣችን, ኧን, ን, እን, ኣችሁ, ኧ, እነሱ, ት</li>
     </ul>
   </li>
 </ul>
@@ -224,7 +216,7 @@ The treebank is developed by Binyam Ephrem, Gashaw Arutie, and Tsegay Woldemaria
     <ul>
       <li>DET: ው</li>
       <li>PRON: ኧ, ይ, ት, ኧው, ኧች, ኦ, ው, ኝ, ኣት, ኡ</li>
-      <li>VERB: ይ</li>
+      <li>VERB-Fin: ይ</li>
     </ul>
   </li>
 </ul>
@@ -301,9 +293,17 @@ The treebank is developed by Binyam Ephrem, Gashaw Arutie, and Tsegay Woldemaria
 </ul>
 
 <ul>
+  <li>Ind
+    <ul>
+      <li>VERB-Fin: ሄድ, መጣ, ኣል, ሆን, በላ, ብል, ሰጥ, ቀር, ገዛ, ል</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Jus
     <ul>
-      <li>VERB: ሂድ, ብላ, ላክ, መጣ, ሰጥ, ስበር, አሳይ, አውጣ, ውረድ, ዘጋ</li>
+      <li>VERB-Fin: ሂድ, ብላ, ላክ, መጣ, ሰጥ, ስበር, ተቀመጥ, አሳይ, አውጣ, ውረድ</li>
     </ul>
   </li>
 </ul>
@@ -327,7 +327,7 @@ The treebank is developed by Binyam Ephrem, Gashaw Arutie, and Tsegay Woldemaria
 <ul>
   <li>Cau
     <ul>
-      <li>VERB: አስወሰድ, አስገደል, አስያዝ, አሳርፍ, አሳጠብ, አስመሽ, አስረዘም, አስሸለም, አስሸከም, አስቀመስ</li>
+      <li>VERB-Fin: አስወሰድ, አስገደል, አስያዝ, አሳርፍ, አሳጠብ, አስመሽ, አስረዘም, አስሸለም, አስሸከም, አስቀመስ</li>
     </ul>
   </li>
 </ul>
@@ -335,8 +335,8 @@ The treebank is developed by Binyam Ephrem, Gashaw Arutie, and Tsegay Woldemaria
 <ul>
   <li>Pass
     <ul>
-      <li>VERB: ተሻል, ተሰረቅ, ተደሰት, ተቀመጥ, ተለወጥ, ተመለስ, ተመኝ, ተሸለም, ተበደር, ተገነዘብ</li>
       <li>VERB-Conv: ተብል, ተቸግር, ተይዝ, ታስር</li>
+      <li>VERB-Fin: ተሻል, ተሰረቅ, ተቀመጥ, ተደሰት, ተለወጥ, ተመለስ, ተመኝ, ተሸለም, ተበደር, ተገነዘብ</li>
     </ul>
   </li>
 </ul>
@@ -344,7 +344,7 @@ The treebank is developed by Binyam Ephrem, Gashaw Arutie, and Tsegay Woldemaria
 <ul>
   <li>Rcp
     <ul>
-      <li>VERB: አጋደል, ሰባበር, ተለዋወጥ, ተነጋገር, ተናነቅ, ተንከባከብ, ተወራውር, ተደባደብ, ተገዳደል, ተጋደል</li>
+      <li>VERB-Fin: አጋደል, ሰባበር, ተለዋወጥ, ተነጋገር, ተናነቅ, ተንከባከብ, ተወራውር, ተደባደብ, ተገዳደል, ተጋደል</li>
     </ul>
   </li>
 </ul>
@@ -352,7 +352,7 @@ The treebank is developed by Binyam Ephrem, Gashaw Arutie, and Tsegay Woldemaria
 <ul>
   <li>Trans
     <ul>
-      <li>VERB: አለቀስ, አመጥ, አነሥ, አነበብ, አደናቀፍ, አገነፍ, አገኘ, አግዝ, አጠብ</li>
+      <li>VERB-Fin: አለቀስ, አመጥ, አነሥ, አነበብ, አደናቀፍ, አገነፍ, አገኘ, አግዝ, አጠብ</li>
     </ul>
   </li>
 </ul>
@@ -361,6 +361,17 @@ The treebank is developed by Binyam Ephrem, Gashaw Arutie, and Tsegay Woldemaria
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
 
+<ul>
+  <li><a>PronType</a></li>
+</ul>
+
+<ul>
+  <li>Prs
+    <ul>
+      <li>PRON: ኧ, ይ, ት, ኡ, ኧው, ኧች, ኦ, ው, ኝ, ኣት</li>
+    </ul>
+  </li>
+</ul>
 
 <ul>
   <li><a>NumType</a></li>
@@ -394,7 +405,7 @@ The treebank is developed by Binyam Ephrem, Gashaw Arutie, and Tsegay Woldemaria
 <ul>
   <li>1
     <ul>
-      <li>PRON: ኝ, ኤ, እ, ሁ, ኧሁ, ኩ, ኧኝ, ን, ኧን, እን</li>
+      <li>PRON: ኝ, ኤ, እ, ሁ, ኧሁ, ኩ, እኔ, ኧኝ, ኧን, ን</li>
     </ul>
   </li>
 </ul>
@@ -402,7 +413,7 @@ The treebank is developed by Binyam Ephrem, Gashaw Arutie, and Tsegay Woldemaria
 <ul>
   <li>2
     <ul>
-      <li>PRON: ህ, ኧህ, ት, ሽ, ኢ, ክ, ኣችን, ኧ, ኣችሁ, ኧሽ</li>
+      <li>PRON: ህ, ኧህ, ት, ሽ, ኢ, ክ, ኣችን, አንተ, ኧ, ኣችሁ</li>
     </ul>
   </li>
 </ul>
@@ -412,7 +423,7 @@ The treebank is developed by Binyam Ephrem, Gashaw Arutie, and Tsegay Woldemaria
     <ul>
       <li>DET: ው</li>
       <li>PRON: ኧ, ይ, ኡ, ት, ኧው, ኧች, ኦ, ው, ኣት, ኣ</li>
-      <li>VERB: ይ</li>
+      <li>VERB-Fin: ይ</li>
     </ul>
   </li>
 </ul>
@@ -423,16 +434,31 @@ The treebank is developed by Binyam Ephrem, Gashaw Arutie, and Tsegay Woldemaria
 <h3>Other Features</h3>
 
 
+<ul>
+  <li><a>Typo</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>CCONJ: ነገር</li>
+          <li>INTJ: እንዲያው</li>
+          <li>PRON: ምንድ, ኧ, ምን</li>
+          <li>VERB-Fin: መጥ</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
 <h2>Syntax</h2>
 
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 5 lemmas as copulas (<a>cop</a>). Examples: ን, ሆን, ነበር, አይደል, ነ.</li>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: ን.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 15 lemmas as auxiliaries (<a>aux</a>). Examples: ኣል, ን, ነበር, ሆን, ችል, ኖር, እየ, ብል, ቻል, ኖሮ, አል, አይደል, አድርግ, ኣለ, ጀመር.</li>
+<li>This corpus uses 11 lemmas as auxiliaries (<a>aux</a>). Examples: ኣል, ን, ነበር, ሆን, ችል, ኖር, እየ, ብል, አይደል, አድርግ, ኣለ.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -441,13 +467,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (238)</li>
-      <li>VERB--NOUN-ADP(ን) (3)</li>
-      <li>VERB--NOUN-ADP(የ) (1)</li>
-      <li>VERB--PRON (871)</li>
+      <li>VERB--PRON (1)</li>
       <li>VERB-Conv--NOUN (4)</li>
       <li>VERB-Conv--NOUN-ADP(ን) (1)</li>
       <li>VERB-Conv--PRON (34)</li>
+      <li>VERB-Fin--NOUN (238)</li>
+      <li>VERB-Fin--NOUN-ADP(ን) (3)</li>
+      <li>VERB-Fin--NOUN-ADP(የ) (1)</li>
+      <li>VERB-Fin--PRON (870)</li>
       <li>VERB-Vnoun--PRON (9)</li>
     </ul>
   </li>
@@ -456,18 +483,18 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (201)</li>
-      <li>VERB--NOUN-ADP(ለ) (1)</li>
-      <li>VERB--NOUN-ADP(መ) (1)</li>
-      <li>VERB--NOUN-ADP(ን) (206)</li>
-      <li>VERB--NOUN-ADP(ከ)-ADP(በስተቀር) (1)</li>
-      <li>VERB--NOUN-ADP(ወደ) (2)</li>
-      <li>VERB--NOUN-ADP(የ)-ADP(ን) (1)</li>
-      <li>VERB--PRON (81)</li>
-      <li>VERB--PRON-ADP(ን) (9)</li>
       <li>VERB-Conv--NOUN (9)</li>
       <li>VERB-Conv--NOUN-ADP(ን) (11)</li>
       <li>VERB-Conv--PRON-ADP(ን) (1)</li>
+      <li>VERB-Fin--NOUN (201)</li>
+      <li>VERB-Fin--NOUN-ADP(ለ) (1)</li>
+      <li>VERB-Fin--NOUN-ADP(መ) (1)</li>
+      <li>VERB-Fin--NOUN-ADP(ን) (206)</li>
+      <li>VERB-Fin--NOUN-ADP(ከ)-ADP(በስተቀር) (1)</li>
+      <li>VERB-Fin--NOUN-ADP(ወደ) (2)</li>
+      <li>VERB-Fin--NOUN-ADP(የ)-ADP(ን) (1)</li>
+      <li>VERB-Fin--PRON (81)</li>
+      <li>VERB-Fin--PRON-ADP(ን) (9)</li>
       <li>VERB-Vnoun--NOUN (1)</li>
       <li>VERB-Vnoun--NOUN-ADP(ለ) (1)</li>
       <li>VERB-Vnoun--NOUN-ADP(ን) (3)</li>
@@ -478,9 +505,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB--NOUN (5)</li>
-      <li>VERB--NOUN-ADP(ን) (7)</li>
-      <li>VERB--PRON (12)</li>
+      <li>VERB-Fin--NOUN (5)</li>
+      <li>VERB-Fin--NOUN-ADP(ን) (7)</li>
+      <li>VERB-Fin--PRON (12)</li>
     </ul>
   </li>
 </ul>

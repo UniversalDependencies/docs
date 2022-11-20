@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>хоёр</em> (<tt><a href="bxr_bdt-p
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.390244 (the average of all parts of speech is 1.633129).
+The form / lemma ratio of `NUM` is 1.390244 (the average of all parts of speech is 1.638355).
 
 The 1st highest number of forms (4) was observed with the lemma “гурбан”: <em>гурбадахи, гурбан, гурбанһаа, гурбахан</em>.
 

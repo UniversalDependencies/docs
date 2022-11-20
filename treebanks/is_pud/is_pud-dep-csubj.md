@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-44 nodes (0%) are attached to their parents as `csubj`.
+43 nodes (0%) are attached to their parents as `csubj`.
 
-37 instances of `csubj` (84%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.97727272727273.
+37 instances of `csubj` (86%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.95348837209302.
 
-The following 8 pairs of parts of speech are connected with `csubj`: <tt><a href="is_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="is_pud-pos-VERB.html">VERB</a></tt> (16; 36% instances), <tt><a href="is_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="is_pud-pos-VERB.html">VERB</a></tt> (14; 32% instances), <tt><a href="is_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="is_pud-pos-VERB.html">VERB</a></tt> (5; 11% instances), <tt><a href="is_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="is_pud-pos-NOUN.html">NOUN</a></tt> (5; 11% instances), <tt><a href="is_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="is_pud-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="is_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="is_pud-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="is_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="is_pud-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="is_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="is_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances).
+The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href="is_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="is_pud-pos-VERB.html">VERB</a></tt> (16; 37% instances), <tt><a href="is_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="is_pud-pos-VERB.html">VERB</a></tt> (14; 33% instances), <tt><a href="is_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="is_pud-pos-VERB.html">VERB</a></tt> (5; 12% instances), <tt><a href="is_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="is_pud-pos-NOUN.html">NOUN</a></tt> (5; 12% instances), <tt><a href="is_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="is_pud-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="is_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="is_pud-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="is_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="is_pud-pos-VERB.html">VERB</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

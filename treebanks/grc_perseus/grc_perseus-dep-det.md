@@ -47,9 +47,9 @@ The following 8 pairs of parts of speech are connected with `det`: <tt><a href="
 4	καὶ	καί	ADV	d--------	_	7	advmod	_	_
 5	ταύτῃ	οὗτος	ADJ	a-s---fd-	Case=Dat|Gender=Fem|Number=Sing	7	nmod	_	_
 6	τῇ	ὁ	DET	l-s---fd-	Case=Dat|Gender=Fem|Number=Sing	7	det	_	_
-7	στρατείᾳ	στρατεία	NOUN	n-s---fd-	Case=Dat|Gender=Fem|Number=Sing	1	advmod	_	_
+7	στρατείᾳ	στρατεία	NOUN	n-s---fd-	Case=Dat|Gender=Fem|Number=Sing	1	obl	_	_
 8	οἷα	οἷος	ADJ	a-p---nn-	Case=Nom|Gender=Neut|Number=Plur	10	nsubj	_	_
-9	ἦν	εἰμί	VERB	v3siia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	cop	_	_
+9	ἦν	εἰμί	AUX	v3siia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	cop	_	_
 10	τὰ	ὁ	DET	l-p---nn-	Case=Nom|Gender=Neut|Number=Plur	1	det	_	_
 11	πρὸ	πρό	ADP	r--------	_	12	case	_	_
 12	αὐτῆς	αὐτός	PRON	p-s---fg-	Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No

@@ -23,7 +23,7 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 `DET` tokens may have the following values of `Poss`:
 
 * `Yes` (3858; 100% of non-empty `Poss`): <em>a, al, ale, lui, lor, ei, său, ai, sale, sa</em>
-* `EMPTY` (8168): <em>o, un, lui, unei, unui, acest, cel, orice, toate, unor</em>
+* `EMPTY` (8167): <em>o, un, lui, unei, unui, acest, cel, orice, toate, unor</em>
 
 ### `PRON`
 
@@ -34,5 +34,5 @@ The most frequent other feature values with which `PRON` and `Poss` co-occurred:
 `PRON` tokens may have the following values of `Poss`:
 
 * `Yes` (44; 100% of non-empty `Poss`): <em>lui, lor, sa, sale, mea, noastră, nostru, săi, tale, ei</em>
-* `EMPTY` (11764): <em>se, care, ce, s-, el, le, o, își, -și, -l</em>
+* `EMPTY` (11763): <em>se, care, ce, s-, el, le, o, își, -și, -l</em>
 

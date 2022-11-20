@@ -9,18 +9,18 @@ udver: '2'
 This feature is language-specific.
 It occurs with 2 different values: `Post`, `Prep`.
 
-1592 tokens (16%) have a non-empty value of `AdpType`.
+1593 tokens (16%) have a non-empty value of `AdpType`.
 68 types (2%) occur at least once with a non-empty value of `AdpType`.
 40 lemmas (2%) occur at least once with a non-empty value of `AdpType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="kmr_mg-pos-ADP.html">ADP</a></tt> (1591; 16% instances), <tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="kmr_mg-pos-ADP.html">ADP</a></tt> (1592; 16% instances), <tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 ### `ADP`
 
-1591 <tt><a href="kmr_mg-pos-ADP.html">ADP</a></tt> tokens (100% of all `ADP` tokens) have a non-empty value of `AdpType`.
+1592 <tt><a href="kmr_mg-pos-ADP.html">ADP</a></tt> tokens (94% of all `ADP` tokens) have a non-empty value of `AdpType`.
 
 `ADP` tokens may have the following values of `AdpType`:
 
-* `Post` (468; 29% of non-empty `AdpType`): <em>de, re, ve, ya, a, da, yên, yê, ê, ên</em>
+* `Post` (469; 29% of non-empty `AdpType`): <em>de, re, ve, ya, a, da, yên, yê, ê, ên</em>
 * `Prep` (1123; 71% of non-empty `AdpType`): <em>di, bi, ji, li, ser, bo, ber, piştî, jê, pê</em>
 
 <table>
@@ -39,10 +39,4 @@ The most frequent other feature values with which `PRON` and `AdpType` co-occurr
 `PRON` tokens may have the following values of `AdpType`:
 
 * `Post` (1; 100% of non-empty `AdpType`): <em>gelekê</em>
-
-## Relations with Agreement in `AdpType`
-
-The 10 most frequent relations where parent and child node agree in `AdpType`:
-<tt>ADP --[<tt><a href="kmr_mg-dep-fixed.html">fixed</a></tt>]--> ADP</tt> (27; 100%),
-<tt>ADP --[<tt><a href="kmr_mg-dep-case.html">case</a></tt>]--> ADP</tt> (3; 60%).
 

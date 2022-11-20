@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Hindi-HDTB: POS Tags: `X`
 
-There are 80 `X` lemmas (0%), 83 `X` types (0%) and 148 `X` tokens (0%).
+There are 76 `X` lemmas (0%), 76 `X` types (0%) and 140 `X` tokens (0%).
 Out of 16 observed tags, the rank of `X` is: 8 in number of lemmas, 11 in number of types and 15 in number of tokens.
 
 The 10 most frequent `X` lemmas: पास, रिकॉर्ड, डाउनलोड, फिट, फेल, बुक, अलग, आउट, आफ, इंटरसेप्ट
 
 The 10 most frequent `X` types:  पास, रिकॉर्ड, डाउनलोड, फिट, फेल, बुक, अलग, आउट, आफ, इंटरसेप्ट
 
-The 10 most frequent ambiguous lemmas: पास (<tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> 221, <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> 20, <tt><a href="hi_hdtb-pos-X.html">X</a></tt> 18, <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> 1), रिकॉर्ड (<tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> 15, <tt><a href="hi_hdtb-pos-X.html">X</a></tt> 9), फिट (<tt><a href="hi_hdtb-pos-X.html">X</a></tt> 4, <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> 1), बुक (<tt><a href="hi_hdtb-pos-X.html">X</a></tt> 4, <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> 3), अलग (<tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> 151, <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> 23, <tt><a href="hi_hdtb-pos-X.html">X</a></tt> 3, <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> 1), आउट (<tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> 10, <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> 7, <tt><a href="hi_hdtb-pos-X.html">X</a></tt> 3, <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> 2), आफ (<tt><a href="hi_hdtb-pos-X.html">X</a></tt> 3, <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> 2), बड़ा (<tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> 178, <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="hi_hdtb-pos-X.html">X</a></tt> 3, <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> 2), लीक (<tt><a href="hi_hdtb-pos-X.html">X</a></tt> 3, <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> 1), सील (<tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> 11, <tt><a href="hi_hdtb-pos-X.html">X</a></tt> 3, <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> 2)
+The 10 most frequent ambiguous lemmas: पास (<tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> 221, <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> 20, <tt><a href="hi_hdtb-pos-X.html">X</a></tt> 18, <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> 1), रिकॉर्ड (<tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> 15, <tt><a href="hi_hdtb-pos-X.html">X</a></tt> 9), फिट (<tt><a href="hi_hdtb-pos-X.html">X</a></tt> 4, <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> 1), बुक (<tt><a href="hi_hdtb-pos-X.html">X</a></tt> 4, <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> 3), अलग (<tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> 151, <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> 23, <tt><a href="hi_hdtb-pos-X.html">X</a></tt> 3, <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> 1), आउट (<tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> 10, <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> 7, <tt><a href="hi_hdtb-pos-X.html">X</a></tt> 3, <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> 2), आफ (<tt><a href="hi_hdtb-pos-X.html">X</a></tt> 3, <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> 2), लीक (<tt><a href="hi_hdtb-pos-X.html">X</a></tt> 3, <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> 1), सील (<tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> 11, <tt><a href="hi_hdtb-pos-X.html">X</a></tt> 3, <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> 2), अपना (<tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> 1225, <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> 42, <tt><a href="hi_hdtb-pos-X.html">X</a></tt> 2, <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> 1)
 
 The 10 most frequent ambiguous types:  पास (<tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> 221, <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> 20, <tt><a href="hi_hdtb-pos-X.html">X</a></tt> 18, <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> 1), रिकॉर्ड (<tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> 14, <tt><a href="hi_hdtb-pos-X.html">X</a></tt> 9), फिट (<tt><a href="hi_hdtb-pos-X.html">X</a></tt> 4, <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> 1), बुक (<tt><a href="hi_hdtb-pos-X.html">X</a></tt> 4, <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> 3), अलग (<tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> 151, <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> 23, <tt><a href="hi_hdtb-pos-X.html">X</a></tt> 3, <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> 1), आउट (<tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> 10, <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> 7, <tt><a href="hi_hdtb-pos-X.html">X</a></tt> 3, <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> 2), आफ (<tt><a href="hi_hdtb-pos-X.html">X</a></tt> 3, <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> 2), लीक (<tt><a href="hi_hdtb-pos-X.html">X</a></tt> 3, <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> 1), सील (<tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> 11, <tt><a href="hi_hdtb-pos-X.html">X</a></tt> 3, <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> 2), अपने (<tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> 627, <tt><a href="hi_hdtb-pos-X.html">X</a></tt> 2, <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> 1)
 
@@ -60,32 +60,32 @@ The 10 most frequent ambiguous types:  पास (<tt><a href="hi_hdtb-pos-ADP.h
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.037500 (the average of all parts of speech is 1.203447).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.200484).
 
-The 1st highest number of forms (3) was observed with the lemma “बड़ा”: बड़ा, बड़ी, बड़े.
+The 1st highest number of forms (1) was observed with the lemma “50”: 50.
 
-The 2nd highest number of forms (2) was observed with the lemma “इतना”: इतना, इतनी.
+The 2nd highest number of forms (1) was observed with the lemma “अंडरग्रेजुएट”: अंडरग्रेजुएट.
 
-The 3rd highest number of forms (2) was observed with the lemma “बडा”: बड़े, बडे.
+The 3rd highest number of forms (1) was observed with the lemma “अपना”: अपने.
 
-`X` occurs with 7 features: <tt><a href="hi_hdtb-feat-Foreign.html">Foreign</a></tt> (121; 82% instances), <tt><a href="hi_hdtb-feat-Case.html">Case</a></tt> (14; 9% instances), <tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt> (13; 9% instances), <tt><a href="hi_hdtb-feat-Number.html">Number</a></tt> (12; 8% instances), <tt><a href="hi_hdtb-feat-Person.html">Person</a></tt> (2; 1% instances), <tt><a href="hi_hdtb-feat-Aspect.html">Aspect</a></tt> (1; 1% instances), <tt><a href="hi_hdtb-feat-VerbForm.html">VerbForm</a></tt> (1; 1% instances)
+`X` occurs with 7 features: <tt><a href="hi_hdtb-feat-Foreign.html">Foreign</a></tt> (121; 86% instances), <tt><a href="hi_hdtb-feat-Case.html">Case</a></tt> (8; 6% instances), <tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt> (5; 4% instances), <tt><a href="hi_hdtb-feat-Number.html">Number</a></tt> (5; 4% instances), <tt><a href="hi_hdtb-feat-Person.html">Person</a></tt> (2; 1% instances), <tt><a href="hi_hdtb-feat-Aspect.html">Aspect</a></tt> (1; 1% instances), <tt><a href="hi_hdtb-feat-VerbForm.html">VerbForm</a></tt> (1; 1% instances)
 
-`X` occurs with 10 feature-value pairs: `Aspect=Perf`, `Case=Acc`, `Case=Nom`, `Foreign=Yes`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Person=3`, `VerbForm=Part`
+`X` occurs with 9 feature-value pairs: `Aspect=Perf`, `Case=Acc`, `Case=Nom`, `Foreign=Yes`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Person=3`, `VerbForm=Part`
 
-`X` occurs with 13 feature combinations.
+`X` occurs with 8 feature combinations.
 The most frequent feature combination is `Foreign=Yes` (121 tokens).
 Examples: पास, रिकॉर्ड, डाउनलोड, फिट, फेल, बुक, आउट, आफ, इंटरसेप्ट, रेफर
 
 
 ## Relations
 
-`X` nodes are attached to their parents using 8 different relations: <tt><a href="hi_hdtb-dep-compound.html">compound</a></tt> (126; 85% instances), <tt><a href="hi_hdtb-dep-advmod.html">advmod</a></tt> (8; 5% instances), <tt><a href="hi_hdtb-dep-obj.html">obj</a></tt> (5; 3% instances), <tt><a href="hi_hdtb-dep-acl.html">acl</a></tt> (2; 1% instances), <tt><a href="hi_hdtb-dep-amod.html">amod</a></tt> (2; 1% instances), <tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt> (2; 1% instances), <tt><a href="hi_hdtb-dep-obl.html">obl</a></tt> (2; 1% instances), <tt><a href="hi_hdtb-dep-conj.html">conj</a></tt> (1; 1% instances)
+`X` nodes are attached to their parents using 7 different relations: <tt><a href="hi_hdtb-dep-compound.html">compound</a></tt> (126; 90% instances), <tt><a href="hi_hdtb-dep-obj.html">obj</a></tt> (5; 4% instances), <tt><a href="hi_hdtb-dep-acl.html">acl</a></tt> (2; 1% instances), <tt><a href="hi_hdtb-dep-amod.html">amod</a></tt> (2; 1% instances), <tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt> (2; 1% instances), <tt><a href="hi_hdtb-dep-obl.html">obl</a></tt> (2; 1% instances), <tt><a href="hi_hdtb-dep-conj.html">conj</a></tt> (1; 1% instances)
 
-Parents of `X` nodes belong to 8 different parts of speech: <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (118; 80% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (10; 7% instances), <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (5; 3% instances), <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (4; 3% instances), <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> (4; 3% instances), <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (2; 1% instances)
+Parents of `X` nodes belong to 8 different parts of speech: <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (118; 84% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (5; 4% instances), <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (5; 4% instances), <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> (4; 3% instances), <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (1; 1% instances)
 
-140 (95%) `X` nodes are leaves.
+132 (94%) `X` nodes are leaves.
 
-5 (3%) `X` nodes have one child.
+5 (4%) `X` nodes have one child.
 
 0 (0%) `X` nodes have two children.
 

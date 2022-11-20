@@ -9,26 +9,26 @@ udver: '2'
 This feature is universal.
 It occurs with 7 different values: `Abl`, `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`.
 
-81964 tokens (45%) have a non-empty value of `Case`.
+81965 tokens (45%) have a non-empty value of `Case`.
 26183 types (74%) occur at least once with a non-empty value of `Case`.
 11374 lemmas (78%) occur at least once with a non-empty value of `Case`.
-The feature is used with 3 part-of-speech tags: <tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt> (66698; 36% instances), <tt><a href="tr_penn-pos-PROPN.html">PROPN</a></tt> (15252; 8% instances), <tt><a href="tr_penn-pos-AUX.html">AUX</a></tt> (14; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt> (66699; 36% instances), <tt><a href="tr_penn-pos-PROPN.html">PROPN</a></tt> (15252; 8% instances), <tt><a href="tr_penn-pos-AUX.html">AUX</a></tt> (14; 0% instances).
 
 ### `NOUN`
 
-66698 <tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
+66699 <tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="tr_penn-feat-Person.html">Person</a></tt><tt>=3</tt> (66698; 100%), <tt><a href="tr_penn-feat-Number.html">Number</a></tt><tt>=Sing</tt> (54938; 82%), <tt><a href="tr_penn-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (44943; 67%), <tt><a href="tr_penn-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (44943; 67%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="tr_penn-feat-Person.html">Person</a></tt><tt>=3</tt> (66699; 100%), <tt><a href="tr_penn-feat-Number.html">Number</a></tt><tt>=Sing</tt> (54939; 82%), <tt><a href="tr_penn-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (44943; 67%), <tt><a href="tr_penn-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (44943; 67%).
 
 `NOUN` tokens may have the following values of `Case`:
 
 * `Abl` (2576; 4% of non-empty `Case`): <em>dolardan, tarafından, milyondan, milyardan, azından, seviyesinden, Doları'ndan, üzerinden, açısından, ortadan</em>
-* `Acc` (6271; 9% of non-empty `Case`): <em>olduğunu, olacağını, olmadığını, yapmayı, ettiğini, gerektiğini, günü, fiyatları, doları, hisselerini</em>
+* `Acc` (6270; 9% of non-empty `Case`): <em>olduğunu, olacağını, olmadığını, yapmayı, ettiğini, gerektiğini, günü, fiyatları, doları, hisselerini</em>
 * `Dat` (5634; 8% of non-empty `Case`): <em>dolara, başına, sona, seviyesine, Doları'na, ortaya, hale, işe, hisseye, yıla</em>
-* `Gen` (4669; 7% of non-empty `Case`): <em>şirketin, yılın, yatırımcıların, piyasanın, şirketlerin, yılının, hükümetin, dünyanın, şirketinin, hisselerin</em>
+* `Gen` (4668; 7% of non-empty `Case`): <em>şirketin, yılın, yatırımcıların, piyasanın, şirketlerin, yılının, hükümetin, dünyanın, şirketinin, hisselerin</em>
 * `Ins` (938; 1% of non-empty `Case`): <em>artışla, düşüşle, itibariyle, nedenle, yükselişle, oranla, anlamıyla, hisseyle, deyişle, zamanla</em>
 * `Loc` (5181; 8% of non-empty `Case`): <em>şekilde, arasında, konusunda, ayında, altında, anda, yılında, durumda, zamanda, ölçüde</em>
-* `Nom` (41429; 62% of non-empty `Case`): <em>bay, hisse, dolar, yıl, şirket, satın, devam, gelir, dün, Amerikan</em>
+* `Nom` (41432; 62% of non-empty `Case`): <em>bay, hisse, dolar, yıl, şirket, satın, devam, gelir, dün, Amerikan</em>
 * `EMPTY` (27): <em>milyarlarca, düzinelerce, milyonlarca, Bince, Anca, Kanımca, edildiğince, geldiğince, ilkelerce, kanatça</em>
 
 <table>

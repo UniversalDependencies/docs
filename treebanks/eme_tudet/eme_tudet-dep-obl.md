@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-18 nodes (7%) are attached to their parents as `obl`.
+138 nodes (10%) are attached to their parents as `obl`.
 
-12 instances of `obl` (67%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.55555555555556.
+72 instances of `obl` (52%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.38405797101449.
 
-The following 5 pairs of parts of speech are connected with `obl`: <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt> (7; 39% instances), <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt> (5; 28% instances), <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eme_tudet-pos-ADP.html">ADP</a></tt> (2; 11% instances), <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eme_tudet-pos-PROPN.html">PROPN</a></tt> (2; 11% instances), <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-ADP.html">ADP</a></tt> (2; 11% instances).
+The following 19 pairs of parts of speech are connected with `obl`: <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt> (66; 48% instances), <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-ADP.html">ADP</a></tt> (18; 13% instances), <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt> (15; 11% instances), <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-PART.html">PART</a></tt> (6; 4% instances), <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eme_tudet-pos-ADP.html">ADP</a></tt> (5; 4% instances), <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (5; 4% instances), <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-DET.html">DET</a></tt> (4; 3% instances), <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eme_tudet-pos-PROPN.html">PROPN</a></tt> (3; 2% instances), <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-NUM.html">NUM</a></tt> (3; 2% instances), <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-PROPN.html">PROPN</a></tt> (3; 2% instances), <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="eme_tudet-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="eme_tudet-pos-DET.html">DET</a></tt>-<tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eme_tudet-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eme_tudet-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eme_tudet-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="eme_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="eme_tudet-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -30,6 +30,22 @@ The following 5 pairs of parts of speech are connected with `obl`: <tt><a href="
 
 
 ~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 obl	color:blue
+1	"	"	PUNCT	punct	_	2	punct	_	_
+2	daʔudʒi	ʔu	VERB	v	Number=Sing|Person=1|Polarity=Neg	0	root	_	_
+3	"	"	PUNCT	punct	_	2	punct	_	_
+4	,	,	PUNCT	punct	_	5	punct	_	_
+5	eʔi	eʔi	VERB	v	Person=3	2	parataxis	_	_
+6	idʒupe	dʒupe	ADP	posp	Case=Dat|Rel=NCont	5	obl	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 1	bgColor:blue
@@ -38,21 +54,7 @@ The following 5 pairs of parts of speech are connected with `obl`: <tt><a href="
 1	omãʔẽ	mãʔẽ	NOUN	n	Rel=NCont	0	root	_	_
 2	bɨgi	bɨg	NOUN	n	Pred=Yes	3	nmod	_	_
 3	owa	owa	NOUN	n	_	1	obl	_	_
-4	rehe	ehe	ADP	posp	Rel=Cont	3	obl	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 obl	color:blue
-1	omãʔẽ	mãʔẽ	NOUN	n	Rel=NCont	0	root	_	_
-2	bɨgi	bɨg	NOUN	n	Pred=Yes	3	nmod	_	_
-3	owa	owa	NOUN	n	_	1	obl	_	_
-4	rehe	ehe	ADP	posp	Rel=Cont	3	obl	_	_
+4	rehe	rehe	NOUN	n	Rel=Cont	3	case	_	_
 
 ~~~
 

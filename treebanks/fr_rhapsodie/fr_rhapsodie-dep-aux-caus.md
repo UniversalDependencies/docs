@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_French-Rhapsodie: Relations: `aux:caus`
 
 This relation is a language-specific subtype of <tt><a href="fr_rhapsodie-dep-aux.html">aux</a></tt>.
-There are also 1 other language-specific subtypes of `aux`: <tt><a href="fr_rhapsodie-dep-aux-pass.html">aux:pass</a></tt>.
+There are also 2 other language-specific subtypes of `aux`: <tt><a href="fr_rhapsodie-dep-aux-pass.html">aux:pass</a></tt>, <tt><a href="fr_rhapsodie-dep-aux-tense.html">aux:tense</a></tt>.
 
-27 nodes (0%) are attached to their parents as `aux:caus`.
+28 nodes (0%) are attached to their parents as `aux:caus`.
 
-27 instances of `aux:caus` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.44444444444444.
+28 instances of `aux:caus` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.42857142857143.
 
-The following 1 pairs of parts of speech are connected with `aux:caus`: <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> (27; 100% instances).
+The following 1 pairs of parts of speech are connected with `aux:caus`: <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> (28; 100% instances).
 
 
 ~~~ conllu
@@ -28,7 +28,7 @@ The following 1 pairs of parts of speech are connected with `aux:caus`: <tt><a h
 3	m'	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	6	iobj	_	SpaceAfter=No
 4	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
 5	fait	faire	AUX	DoubleAux	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	aux:caus	_	Scrap=Yes
-6	voir	voir	VERB	CAUSATIVE	VerbForm=Inf	0	root	_	SpaceAfter=No
+6	voir	voir	VERB	CAUSATIVE	VerbForm=Inf	0	root	_	SpaceAfter=No|Subject=OblRaising
 7	…	…	PUNCT	_	_	6	punct	_	_
 
 ~~~

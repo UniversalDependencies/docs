@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2384 nodes (2%) are attached to their parents as `cop`.
+2385 nodes (2%) are attached to their parents as `cop`.
 
-1894 instances of `cop` (79%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.7386744966443.
+1895 instances of `cop` (79%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.74381551362683.
 
-The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> (1182; 50% instances), <tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> (660; 28% instances), <tt><a href="bg_btb-pos-ADV.html">ADV</a></tt>-<tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> (310; 13% instances), <tt><a href="bg_btb-pos-DET.html">DET</a></tt>-<tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> (84; 4% instances), <tt><a href="bg_btb-pos-PRON.html">PRON</a></tt>-<tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> (74; 3% instances), <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> (32; 1% instances), <tt><a href="bg_btb-pos-NUM.html">NUM</a></tt>-<tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> (26; 1% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt>-<tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> (14; 1% instances), <tt><a href="bg_btb-pos-ADP.html">ADP</a></tt>-<tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> (2; 0% instances).
+The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> (1183; 50% instances), <tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> (660; 28% instances), <tt><a href="bg_btb-pos-ADV.html">ADV</a></tt>-<tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> (310; 13% instances), <tt><a href="bg_btb-pos-DET.html">DET</a></tt>-<tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> (84; 4% instances), <tt><a href="bg_btb-pos-PRON.html">PRON</a></tt>-<tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> (74; 3% instances), <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> (32; 1% instances), <tt><a href="bg_btb-pos-NUM.html">NUM</a></tt>-<tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> (26; 1% instances), <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt>-<tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> (14; 1% instances), <tt><a href="bg_btb-pos-ADP.html">ADP</a></tt>-<tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> (2; 0% instances).
 
 
 ~~~ conllu

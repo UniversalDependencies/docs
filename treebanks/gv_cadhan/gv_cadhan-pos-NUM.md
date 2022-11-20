@@ -19,7 +19,7 @@ The 10 most frequent ambiguous types:  <em>keead</em> (<tt><a href="gv_cadhan-po
 
 
 * <em>keead</em>
-  * <tt><a href="gv_cadhan-pos-NUM.html">NUM</a></tt> 5: <em>Noi gagh noid ta <b>keead</b> charrey ec eh .</em>
+  * <tt><a href="gv_cadhan-pos-NUM.html">NUM</a></tt> 5: <em>Woaill eh <b>keead</b> punt ass ny meihaghyn .</em>
   * <tt><a href="gv_cadhan-pos-NOUN.html">NOUN</a></tt> 1: <em>Ren eh <b>keead</b> .</em>
 * <em>derrey</em>
   * <tt><a href="gv_cadhan-pos-NUM.html">NUM</a></tt> 3: <em>Cha row yn <b>derrey</b> reih ec eh .</em>

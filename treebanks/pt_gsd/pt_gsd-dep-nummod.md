@@ -45,13 +45,13 @@ The following 13 pairs of parts of speech are connected with `nummod`: <tt><a hr
 2	o	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	acumulado	_	NOUN	NOUN	_	12	nmod	_	_
 4	de	de	ADP	ADP	_	6	case	_	_
-5	12	_	NUM	NUM	NumType=Card	6	nummod	_	_
+5	12	12	NUM	NUM	NumType=Card	6	nummod	_	_
 6	meses	mês	NOUN	NOUN	_	3	nmod	_	SpaceAfter=No
 7	,	,	PUNCT	.	_	3	punct	_	_
-8	a	o	DET	DET	_	9	det	_	_
+8	a	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	expansão	expansão	NOUN	NOUN	_	12	nsubj	_	_
 10	foi	_	AUX	AUX	_	12	cop	_	_
-11	1,2	_	NUM	NUM	NumType=Card	12	nummod	_	_
+11	1,2	1,2	NUM	NUM	NumType=Card	12	nummod	_	_
 12	%	_	SYM	SYM	_	0	root	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	12	punct	_	_
 
@@ -68,7 +68,7 @@ The following 13 pairs of parts of speech are connected with `nummod`: <tt><a hr
 2	capacidade	capacidade	NOUN	NOUN	_	3	nsubj	_	_
 3	é	ser	VERB	VERB	_	0	root	_	_
 4	de	de	ADP	ADP	_	7	case	_	_
-5	10	_	NUM	NUM	NumType=Card	6	nummod	_	_
+5	10	10	NUM	NUM	NumType=Card	6	nummod	_	_
 6	mil	_	NUM	NUM	NumType=Card	7	nummod	_	_
 7	pessoas	pessoa	NOUN	NOUN	_	3	nmod	_	SpaceAfter=No
 8	.	.	PUNCT	.	_	3	punct	_	_

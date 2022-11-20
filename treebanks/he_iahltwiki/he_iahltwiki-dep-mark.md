@@ -76,7 +76,7 @@ The following 25 pairs of parts of speech are connected with `mark`: <tt><a href
 8	הריון	הריון	NOUN	NOUN	Gender=Masc|Number=Sing	7	compound	_	_
 9	או	או	CCONJ	CCONJ	_	10	cc	_	_
 10	הנקה	הנקה	NOUN	NOUN	Gender=Fem|Number=Sing	8	conj	_	_
-11	הוא	הוא	PRON	PRON	Gender=Masc|Number=Sing|Person=3|Polarity=Pos	12	cop	_	_
+11	הוא	הוא	PRON	PRON	Gender=Masc|Number=Sing|Person=3|Polarity=Pos|PronType=Prs	12	cop	_	_
 12	בטוח	בטוח	ADJ	ADJ	Gender=Masc|Number=Sing	2	csubj	_	_
 13	עבור	עבור	ADP	ADP	_	15	case	_	_
 14	ה	ה	DET	DET	Definite=Def|PronType=Art	15	det	_	_

@@ -19,25 +19,25 @@ The 10 most frequent ambiguous types:  <em>v</em> (<tt><a href="cs_cltt-pos-ADP.
 
 
 * <em>v</em>
-  * <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> 694: <em>Použití mezinárodních účetních standardů <b>v</b> konsolidaci</em>
+  * <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> 694: <em>Obsahové vymezení přílohy <b>v</b> konsolidované účetní závěrce</em>
   * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 2: <em>(2) Položka „ C.IV.2. Účty <b>v</b> bankách “ obsahuje zejména peněžní zůstatky na bankovních účtech , popřípadě peníze na cestě vztahující se k této položce .</em>
 * <em>na</em>
-  * <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> 333: <em>Stanovení těchto povinností <b>na</b> smluvním základě není dotčeno .</em>
+  * <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> 333: <em>Metoda přechodu z daňové evidence <b>na</b> účetnictví</em>
   * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 17: <em>(6) Položka „ C.I.6. Poskytnuté zálohy <b>na</b> zásoby “ obsahuje krátkodobé a dlouhodobé zálohy poskytnuté na pořízení zásob .</em>
 * <em>o</em>
-  * <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> 301: <em>Opravy a ostatní ustanovení <b>o</b> účetních záznamech</em>
+  * <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> 301: <em>Ostatní ustanovení <b>o</b> účetních knihách</em>
   * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 1: <em>Tato vyhláška zapracovávqá příslušné předpisy Evropské unie a upravuje : a) rozsah a způsob sestavování účetní závěrky ; uspořádání , označování a obsahové vymezení položek majetku a jiných aktiv , závazků a jiných pasiv v účetní závěrce ; uspořádání , označování a obsahové vymezení nákladů , výnosů a výsledků hospodaření v účetní závěrce ; uspořádání a obsahové vymezení vysvětlujících a doplňujících informací v příloze v účetní závěrce ; uspořádání , označování a obsahové vymezení položek konsolidované účetní závěrky ; metody konsolidace účetní závěrky a postup zahrnování účetních jednotek do konsolidačního celku ; b) uspořádání a obsahové vymezení přehledu o peněžních tocích a přehledu o změnách vlastního kapitálu ; směrnou účtovou osnovu ; účetní metody ; metody přechodu z daňové evidence podle zvláštního zákona na účetnictví ; c) metodu ocenění při pořízení souboru movitých věcí se samostatným technicko-ekonomickým určením ; d) metodu oceňování při přeměně společnosti nebo družstva ( dále jen „ společnost “ ) podle zákona upravujícího přeměny obchodních společností a družstev ( dále jen „ zákon <b>o</b> přeměnách “ ) , včetně úprav prováděných v rámci přeměn společnosti ke dni zápisu do obchodního rejstříku s účinky od rozhodného dne ; e) metodu sestavení zahajovací rozvahy při přeměně společnosti ; f) úpravy při přeshraniční přeměně nebo převodu podniku ; g) metodu ocenění při nabytí více než jedné složky majetku převodem či přechodem , včetně možnosti použití způsobu oceňování podle §_24_odst._3_písm._a)_bodu_1 v případě přeshraniční přeměny , vkladu nebo prodeje podniku ; h) ocenění majetku a závazků při přeměně společnosti včetně okamžiku účtování o ocenění reálnou hodnotou .</em>
 * <em>k</em>
-  * <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> 262: <em>(2) Ministerstvo může vydat vyhlášku <b>k</b> provedení §_36_odst._1 .</em>
+  * <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> 262: <em>(5) Rezervy není možné používat <b>k</b> úpravám výše ocenění aktiv .</em>
   * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 10: <em>(3) Položka „ B.II.9. Oceňovací rozdíl <b>k</b> nabytému majetku “ obsahuje též opravnou položku k nabytému majetku stanovenou ( vytvořenou ) před nabytím účinnosti této vyhlášky .</em>
 * <em>do</em>
-  * <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> 191: <em>Uvedený majetek se odpisuje jen <b>do</b> výše jeho ocenění v účetnictví .</em>
+  * <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> 191: <em>(3) Zůstatky rezerv se převádějí <b>do</b> následujícího účetního období .</em>
   * <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> 1: <em>2 . V případech , kdy byl projekt přeměny vypracován podle zákona_č._125/2008_Sb. , o přeměnách obchodních společností a družstev , ve znění účinném <b>do</b> 31 . prosince 2011 , postupuje se při účtování o přeměně společnosti podle vyhlášky_č._500/2002_Sb. , ve znění účinném do dne nabytí účinnosti této vyhlášky .</em>
 * <em>za</em>
-  * <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> 173: <em>Zveřejňování účetních výkazů <b>za</b> Českou republiku se provádí obdobně .</em>
+  * <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> 173: <em>Výše pasiv se uvádí <b>za</b> běžné účetní období a minulé účetní období .</em>
   * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 21: <em>Položka „ ***Výsledek hospodaření <b>za</b> účetní období “ uvedená ve výkazu zisku a ztráty se musí rovnat položce „ A. V. Výsledek hospodaření běžného účetního období “ uvedené v rozvaze ( bilanci ) .</em>
 * <em>z</em>
-  * <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> 165: <em>Obsahuje zejména závazky <b>z</b> dlouhodobých půjček a úvěrů .</em>
+  * <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> 165: <em>Metoda přechodu <b>z</b> daňové evidence na účetnictví</em>
   * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 29: <em>Pokud jsou tyto zálohy vyšší nebo rovny předpokládané dani , účetní jednotka položku „ B.I.3. Rezerva na daň <b>z</b> příjmů “ neuvede .</em>
 * <em>ve</em>
   * <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> 150: <em>Vydání standardů oznamuje ministerstvo <b>ve</b> Finančním zpravodaji .</em>

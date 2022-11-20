@@ -68,7 +68,7 @@ The following 11 pairs of parts of speech are connected with `appos`: <tt><a hre
 13	гэжэ	гэ	VERB	_	VerbForm=Inf	14	discourse	_	_
 14	нэрэ	нэрэ	NOUN	_	Case=Nom	15	obj	_	_
 15	үгэһэн	үгэ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	parataxis	_	_
-16	юм	юм	AUX	_	Evident=Fh	15	discourse	_	SpaceAfter=No
+16	юм	юм	PART	_	Evident=Fh	15	discourse	_	SpaceAfter=No
 17	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~

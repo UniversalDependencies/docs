@@ -142,7 +142,7 @@ The most frequent other feature values with which `PROPN` and `VerbForm` co-occu
 
 `ADV` tokens may have the following values of `VerbForm`:
 
-* `Fin` (8; 30% of non-empty `VerbForm`): <em>kennen, aussen, bevorzugt, herausstellte, scheint, ﻿Auch</em>
+* `Fin` (8; 30% of non-empty `VerbForm`): <em>kennen, Auch, aussen, bevorzugt, herausstellte, scheint</em>
 * `Inf` (4; 15% of non-empty `VerbForm`): <em>erhalten, kennen, stehen, wärmsten</em>
 * `Part` (15; 56% of non-empty `VerbForm`): <em>verloren, bewaldet, erhalten, gefangen, gemessen, geplant, geschätzt, verdickt, verzerrt, verziert</em>
 * `EMPTY` (14817): <em>auch, nur, noch, sehr, so, dort, wieder, hier, mehr, heute</em>
@@ -183,7 +183,7 @@ The most frequent other feature values with which `X` and `VerbForm` co-occurred
 
 `CCONJ` tokens may have the following values of `VerbForm`:
 
-* `Fin` (3; 75% of non-empty `VerbForm`): <em>bzw, hatte, ﻿Um</em>
+* `Fin` (3; 75% of non-empty `VerbForm`): <em>Um, bzw, hatte</em>
 * `Part` (1; 25% of non-empty `VerbForm`): <em>verbunden</em>
 * `EMPTY` (8839): <em>und, oder, sowie, aber, sondern, als, wie, sowohl, doch, and</em>
 

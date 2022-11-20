@@ -50,4 +50,4 @@ The `expl:subj` relation is used for subjects of impersonal constructions.
 12	of	_	_	_	_	0	_	_	_
 13	things	_	_	_	_	0	_	_	_
 ~~~
-<!-- Interlanguage links updated So kvě 14 19:03:35 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:25 CET 2022 -->

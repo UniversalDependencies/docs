@@ -29,7 +29,7 @@ The following 3 pairs of parts of speech are connected with `expl:impers`: <tt><
 4	stadio	stadio	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
 5	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl:impers	_	_
 6	canta	cantare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-7	#Grillo	#Grillo	SYM	SYM	_	6	parataxis:obj	_	_
+7	#Grillo	#Grillo	SYM	SYM	_	6	ccomp	_	_
 8	uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	7	nmod	_	_
 9	di	di	ADP	E	_	10	case	_	_
 10	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	8	nmod	_	_
@@ -80,7 +80,7 @@ The following 3 pairs of parts of speech are connected with `expl:impers`: <tt><
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 7 expl:impers	color:blue
-1	@user	@user	SYM	SYM	_	3	vocative:mention	_	_
+1	@user	@user	SYM	SYM	_	3	vocative	_	_
 2	Cosa	cosa	PRON	PQ	PronType=Int	3	obj	_	_
 3	fai	fare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	dopo	dopo	ADP	E	_	6	case	_	_

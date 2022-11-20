@@ -25,7 +25,7 @@ The following 30 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 # visual-style 6 9 acl:relcl	color:blue
 1	Ver	ver	VERB	VERB	_	0	root	_	_
 2	também	também	ADV	ADV	_	1	advmod	_	_
-3	a	o	DET	DET	_	4	det	_	_
+3	a	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	lista	lista	NOUN	NOUN	_	1	obj	_	_
 5	de	de	ADP	ADP	_	6	case	_	_
 6	entidades	entidade	NOUN	NOUN	_	4	nmod	_	_
@@ -47,7 +47,7 @@ The following 30 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 # visual-style 10 13 acl:relcl	color:blue
 1	Nei	_	PROPN	PNOUN	_	2	nsubj	_	_
 2	errou	errar	VERB	VERB	_	0	root	_	_
-3	o	o	DET	DET	_	4	det	_	_
+3	o	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	passe	passe	NOUN	NOUN	_	2	obj	_	_
 5	e	e	CCONJ	CONJ	_	8	cc	_	_
 6	a	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_

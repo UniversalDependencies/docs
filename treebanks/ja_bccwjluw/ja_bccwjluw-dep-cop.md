@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-9386 nodes (1%) are attached to their parents as `cop`.
+9373 nodes (1%) are attached to their parents as `cop`.
 
-9386 instances of `cop` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.15981248668229.
+9373 instances of `cop` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.15768697322095.
 
-The following 3 pairs of parts of speech are connected with `cop`: <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwjluw-pos-AUX.html">AUX</a></tt> (8711; 93% instances), <tt><a href="ja_bccwjluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwjluw-pos-AUX.html">AUX</a></tt> (404; 4% instances), <tt><a href="ja_bccwjluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_bccwjluw-pos-AUX.html">AUX</a></tt> (271; 3% instances).
+The following 3 pairs of parts of speech are connected with `cop`: <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwjluw-pos-AUX.html">AUX</a></tt> (8699; 93% instances), <tt><a href="ja_bccwjluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwjluw-pos-AUX.html">AUX</a></tt> (404; 4% instances), <tt><a href="ja_bccwjluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_bccwjluw-pos-AUX.html">AUX</a></tt> (270; 3% instances).
 
 
 ~~~ conllu

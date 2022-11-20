@@ -228,7 +228,9 @@ cc(him, and)
 orphan(him, lose)
 ~~~
 
-Note that the `orphan` relation is only used when an ordinary relation would be misleading (for example, when attaching an object to a subject). In particular, the ordinary `cc` relation should be used for the coordinating conjunction, which attaches to the pseudo-constituent formed through the `orphan` dependency.
+Note that the `orphan` relation is only used when an ordinary relation would be misleading (for example, when attaching
+an object to a subject). In particular, the ordinary `cc` relation should be used for the coordinating conjunction,
+which attaches to the pseudo-constituent formed through the `orphan` dependency.
 
 In German the grammar requires that non-finite verbs are at the end of the clause, which may mean that they are far away from
 their finite auxiliary verbs, possibly with intervening conjuncts. In the following example we do not try to keep _wurde geschieden_
@@ -247,6 +249,35 @@ conj(wurde, geschieden)
 nsubj:pass(geschieden, Anstrengung)
 obl(geschieden, Belohnung)
 punct(geschieden, ,-12)
+~~~
+
+In verb-final languages the verb occurs in the last conjunct and gapping may occur in the earlier conjuncts; unlike
+German, not even an auxiliary occurs in the first conjunct. Note that [coordination](/u/dep/conj.html), being
+a non-dependency relation, must go left-to-right even in these languages. As a result, the first conjunct (clause with
+gap) may have to be headed by a non-verb, as the overt verb belongs to the last conjunct clause. The following example
+is from Malayalam.
+
+~~~ conllu
+# newpar id = cairo09
+# sent_id = cairo09
+# text = മേരി വെങ്കലവും പീറ്റർ വെള്ളിയും ജെയിൻ സ്വർണവും നേടി.
+# translit = mēri veṅkalavuṁ pīṟṟaṟ veḷḷiyuṁ jeyin svaṟṇavuṁ nēṭi.
+# text_en = Mary won bronze, Peter silver, and Jane gold.
+1	മേരി	മേരി	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	0	root	_	Translit=mēri|LTranslit=mēri|Gloss=Mary
+2-3	വെങ്കലവും	_	_	_	_	_	_	_	_
+2	വെങ്കലം	വെങ്കലം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	1	orphan	_	Translit=veṅkalaṁ|LTranslit=veṅkalaṁ|Gloss=bronze
+3	ഉം	ഉം	PART	_	_	1	cc	_	Translit=uṁ|LTranslit=uṁ|Gloss=and
+4	പീറ്റർ	പീറ്റർ	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	conj	_	Translit=pīṟṟaṟ|LTranslit=pīṟṟaṟ|Gloss=Peter
+5-6	വെള്ളിയും	_	_	_	_	_	_	_	_
+5	വെള്ളി	വെള്ളി	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	4	orphan	_	Translit=veḷḷi|LTranslit=veḷḷi|Gloss=silver
+6	ഉം	ഉം	PART	_	_	4	cc	_	Translit=uṁ|LTranslit=uṁ|Gloss=and
+7	ജെയിൻ	ജെയിൻ	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	Translit=jeyin|LTranslit=jeyin|Gloss=Jane
+8-9	സ്വർണവും	_	_	_	_	_	_	_	_
+8	സ്വർണം	സ്വർണം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	10	obj	_	Translit=svaṟṇaṁ|LTranslit=svaṟṇaṁ|Gloss=gold
+9	ഉം	ഉം	PART	_	_	10	cc	_	Translit=uṁ|LTranslit=uṁ|Gloss=and
+10	നേടി	നെടുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	SpaceAfter=No|Translit=nēṭi|LTranslit=neṭuka|Gloss=won
+11	.	.	PUNCT	_	PunctType=Peri	1	punct	_	Translit=.|LTranslit=.|Gloss=.
+
 ~~~
 
 ## Multiword Expressions
@@ -537,7 +568,7 @@ det(CIA, the)
 
 ### Paired clauses with non-conjunction connective ("X so Y" etc.)
 
-The relation is also used for clauses connected by a word like *so*, *then*, *therefore*, or *however* 
+The relation is also used for clauses connected by a word like *so*, *then*, *therefore*, or *however*
 if neither clause is interpreted as modifying the other, and there is no coordinating conjunction:
 
 ~~~ sdparse

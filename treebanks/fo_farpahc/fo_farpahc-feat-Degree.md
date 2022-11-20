@@ -38,7 +38,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="fo_farpahc-pos-ADV.
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
-<tt>ADV --[<tt><a href="fo_farpahc-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (35; 67%),
+<tt>ADV --[<tt><a href="fo_farpahc-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (35; 69%),
 <tt>ADJ --[<tt><a href="fo_farpahc-dep-amod.html">amod</a></tt>]--> ADJ</tt> (14; 93%),
 <tt>ADJ --[<tt><a href="fo_farpahc-dep-amod.html">amod</a></tt>]--> ADV</tt> (11; 92%),
 <tt>ADJ --[<tt><a href="fo_farpahc-dep-obl.html">obl</a></tt>]--> ADJ</tt> (4; 100%),

@@ -9,33 +9,33 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-47 tokens (4%) have a non-empty value of `Number`.
-11 types (3%) occur at least once with a non-empty value of `Number`.
-9 lemmas (3%) occur at least once with a non-empty value of `Number`.
-The feature is used with 2 part-of-speech tags: <tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt> (44; 4% instances), <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> (3; 0% instances).
+63 tokens (5%) have a non-empty value of `Number`.
+13 types (3%) occur at least once with a non-empty value of `Number`.
+11 lemmas (4%) occur at least once with a non-empty value of `Number`.
+The feature is used with 2 part-of-speech tags: <tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt> (58; 4% instances), <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> (5; 0% instances).
 
 ### `PRON`
 
-44 <tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt> tokens (59% of all `PRON` tokens) have a non-empty value of `Number`.
+58 <tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt> tokens (63% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="aqz_tudet-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (40; 91%), <tt><a href="aqz_tudet-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (37; 84%), <tt><a href="aqz_tudet-feat-Person.html">Person</a></tt><tt>=2</tt> (26; 59%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="aqz_tudet-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (53; 91%), <tt><a href="aqz_tudet-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (50; 86%), <tt><a href="aqz_tudet-feat-Person.html">Person</a></tt><tt>=2</tt> (33; 57%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Sing` (44; 100% of non-empty `Number`): <em>en, on, erẽ, erẽbõ, orẽ, te, ebõ, enõ</em>
-* `EMPTY` (31): <em>no, tara, arop, kitʃe, i, on, orẽbõ, aroperi, en, tebõ</em>
+* `Sing` (58; 100% of non-empty `Number`): <em>en, on, erẽ, erẽbõ, orẽ, te, ebõ, enõ</em>
+* `EMPTY` (34): <em>no, tara, arop, i, kitʃe, orẽbõ, on, aroperi, en, tebõ</em>
 
 ### `VERB`
 
-3 <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Number`.
+5 <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> tokens (2% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="aqz_tudet-feat-Tv.html">Tv</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="aqz_tudet-feat-Person.html">Person</a></tt><tt>=1</tt> (2; 67%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="aqz_tudet-feat-Tv.html">Tv</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="aqz_tudet-feat-Person.html">Person</a></tt><tt>=1</tt> (4; 80%), <tt><a href="aqz_tudet-feat-Trans.html">Trans</a></tt><tt>=EMPTY</tt> (3; 60%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (1; 33% of non-empty `Number`): <em>kitʃet</em>
-* `Sing` (2; 67% of non-empty `Number`): <em>imaã, oirika</em>
-* `EMPTY` (202): <em>koa, ata, teita, tʃopa, at, put, aj, ko, mãpara, apeka</em>
+* `Plur` (1; 20% of non-empty `Number`): <em>kitʃet</em>
+* `Sing` (4; 80% of non-empty `Number`): <em>imaã, oewɨbɨka, oirika, ojã</em>
+* `EMPTY` (273): <em>koa, ata, teita, tʃopa, at, ka, put, õkwa, aj, ikoa</em>
 
 ## Relations with Agreement in `Number`
 

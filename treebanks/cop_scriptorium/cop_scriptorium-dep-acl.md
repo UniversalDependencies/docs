@@ -33,7 +33,7 @@ The following 2 pairs of parts of speech are connected with `acl`: <tt><a href="
 8	ⲟⲕⲙ	ⲱⲕⲙ	VERB	VSTAT	VerbForm=Fin	3	advcl	_	Orig=ⲟ̇ⲕⲙ̇
 9	.	.	PUNCT	PUNCT	_	3	punct	_	Orig=·
 10	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	11	mark	_	Orig=ⲉ̇
-11	ⲙⲛⲧ	ⲙⲛⲧⲁ	VERB	EXIST	_	3	advcl	_	Orig=ⲙⲛ̇ⲧ
+11	ⲙⲛⲧ	ⲙⲛⲧⲉ	VERB	EXIST	Polarity=Neg	3	advcl	_	Orig=ⲙⲛ̇ⲧ
 12	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	iobj	_	Orig=ϥ̇
 13	ⲗⲁⲁⲩ	ⲗⲁⲁⲩ	NOUN	N	_	11	nsubj	_	Entity=(abstract|Orig=ⲗⲁⲁ̇ⲩ
 14	ⲛ	ⲛ	ADP	PREP	_	15	case	_	_

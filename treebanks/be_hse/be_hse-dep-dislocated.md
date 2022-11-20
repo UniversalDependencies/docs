@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-13 nodes (0%) are attached to their parents as `dislocated`.
+14 nodes (0%) are attached to their parents as `dislocated`.
 
-12 instances of `dislocated` (92%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.30769230769231.
+12 instances of `dislocated` (86%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.42857142857143.
 
-The following 12 pairs of parts of speech are connected with `dislocated`: <tt><a href="be_hse-pos-DET.html">DET</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (2; 15% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (1; 8% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-PART.html">PART</a></tt> (1; 8% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-SYM.html">SYM</a></tt> (1; 8% instances), <tt><a href="be_hse-pos-NUM.html">NUM</a></tt>-<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (1; 8% instances), <tt><a href="be_hse-pos-PART.html">PART</a></tt>-<tt><a href="be_hse-pos-PART.html">PART</a></tt> (1; 8% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (1; 8% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (1; 8% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (1; 8% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-X.html">X</a></tt> (1; 8% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (1; 8% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (1; 8% instances).
+The following 12 pairs of parts of speech are connected with `dislocated`: <tt><a href="be_hse-pos-DET.html">DET</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (2; 14% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (2; 14% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (1; 7% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-PART.html">PART</a></tt> (1; 7% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-SYM.html">SYM</a></tt> (1; 7% instances), <tt><a href="be_hse-pos-NUM.html">NUM</a></tt>-<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (1; 7% instances), <tt><a href="be_hse-pos-PART.html">PART</a></tt>-<tt><a href="be_hse-pos-PART.html">PART</a></tt> (1; 7% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (1; 7% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (1; 7% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-X.html">X</a></tt> (1; 7% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (1; 7% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (1; 7% instances).
 
 
 ~~~ conllu
@@ -40,6 +40,32 @@ The following 12 pairs of parts of speech are connected with `dislocated`: <tt><
 
 
 ~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 10 dislocated	color:blue
+1	Для	для	ADP	IN	_	2	case	2:case	_
+2	вас	вы	PRON	PRP	Case=Gen|Number=Plur|Person=2|PronType=Prs	5	obl	5:obl:для:gen	_
+3	гэта	гэта	PRON	DT	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	5:nsubj	_
+4	вялікае	вялікі	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	5	amod	5:amod	_
+5	расчараваньне	расчараваньне	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	0:root	SpaceAfter=No
+6	,	,	PUNCT	PUNCT	_	10	punct	10:punct	_
+7	што	што	SCONJ	IN	_	10	mark	10:mark	_
+8	вы	вы	PRON	PRP	Case=Nom|Number=Plur|Person=2|PronType=Prs	10	nsubj	10:nsubj|11:nsubj	_
+9	ня	ня	PART	NEG	Polarity=Neg	10	advmod	10:advmod	_
+10	зможаце	змагчы	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	3	dislocated	3:dislocated	_
+11	весьці	весьці	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Act	10	xcomp	10:xcomp	_
+12	«	«	PUNCT	PUNCT	_	14	punct	14:punct	SpaceAfter=No
+13	Славянскі	славянскі	ADJ	JJL	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	14	amod	14:amod	_
+14	базар	базар	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	obj	11:obj	SpaceAfter=No
+15	»	»	PUNCT	PUNCT	_	14	punct	14:punct	SpaceAfter=No
+16	?	?	PUNCT	PUNCT	_	5	punct	5:punct	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 7	bgColor:blue
@@ -59,7 +85,7 @@ The following 12 pairs of parts of speech are connected with `dislocated`: <tt><
 12	,	,	PUNCT	PUNCT	_	15	punct	15:punct	_
 13	як	як	SCONJ	IN	_	15	case	15:case	_
 14	рашучае	рашучаць	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	amod	15:amod	_
-15	процістаянне	процістаянне	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	9	obl	9:obl:як:acc	_
+15	процістаянне	процістаянне	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	9	obl	9:obl:як	_
 16	тыраніі	тыранія	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	nmod	15:nmod:gen	_
 17	і	і	CCONJ	CC	_	18	cc	18:cc	_
 18	тэрору	тэрор	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	conj	15:nmod:gen|16:conj	SpaceAfter=No
@@ -84,23 +110,6 @@ The following 12 pairs of parts of speech are connected with `dislocated`: <tt><
 37	не	не	PART	NEG	Polarity=Neg	38	advmod	38:advmod	_
 38	паўторацца	паўторацца	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Mid	21	acl	21:acl:што	SpaceAfter=No
 39	.	.	PUNCT	PUNCT	_	8	punct	8:punct	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 3 dislocated	color:blue
-1	«	«	PUNCT	PUNCT	_	5	punct	5:punct	SpaceAfter=No
-2	Ты	ты	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	5:nsubj	_
-3	што	што	PART	UH	_	5	dislocated	5:dislocated	SpaceAfter=No
-4	,	,	PUNCT	PUNCT	_	3	punct	3:punct	_
-5	калхозьнік	калхозьнік	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	SpaceAfter=No
-6	?	?	PUNCT	PUNCT	_	5	punct	5:punct	SpaceAfter=No
-7	»	»	PUNCT	PUNCT	_	5	punct	5:punct	_
 
 ~~~
 

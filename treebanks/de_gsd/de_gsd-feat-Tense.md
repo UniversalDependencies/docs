@@ -149,7 +149,7 @@ The most frequent other feature values with which `X` and `Tense` co-occurred: <
 
 `ADV` tokens may have the following values of `Tense`:
 
-* `Past` (2; 25% of non-empty `Tense`): <em>herausstellte, ﻿Auch</em>
+* `Past` (2; 25% of non-empty `Tense`): <em>Auch, herausstellte</em>
 * `Pres` (6; 75% of non-empty `Tense`): <em>kennen, aussen, bevorzugt, scheint</em>
 * `EMPTY` (14836): <em>auch, nur, noch, sehr, so, dort, wieder, hier, mehr, heute</em>
 
@@ -180,7 +180,7 @@ The most frequent other feature values with which `PART` and `Tense` co-occurred
 
 `CCONJ` tokens may have the following values of `Tense`:
 
-* `Past` (3; 100% of non-empty `Tense`): <em>bzw, hatte, ﻿Um</em>
+* `Past` (3; 100% of non-empty `Tense`): <em>Um, bzw, hatte</em>
 * `EMPTY` (8840): <em>und, oder, sowie, aber, sondern, als, wie, sowohl, doch, and</em>
 
 ### `DET`

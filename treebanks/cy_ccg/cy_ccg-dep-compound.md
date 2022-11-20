@@ -51,7 +51,7 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 24	bgColor:blue
 # visual-style 24	fgColor:white
 # visual-style 24 26 compound	color:blue
-1	Un	un	NUM	num	_	2	nummod	_	_
+1	Un	un	NUM	num	NumForm=Word|NumType=Card	2	nummod	_	_
 2	peth	peth	NOUN	noun	Gender=Masc|Number=Sing	16	nsubj	_	_
 3	sydd	bod	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=FinRel	2	acl:relcl	_	_
 4	wedi	wedi	AUX	ante	_	5	aux	_	_

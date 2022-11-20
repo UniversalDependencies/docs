@@ -9,51 +9,51 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fem`, `Masc`, `Neut`.
 
-9954 tokens (37%) have a non-empty value of `Gender`.
-7282 types (64%) occur at least once with a non-empty value of `Gender`.
-3011 lemmas (64%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 8 part-of-speech tags: <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (4736; 17% instances), <tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> (2517; 9% instances), <tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt> (842; 3% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (812; 3% instances), <tt><a href="orv_birchbark-pos-DET.html">DET</a></tt> (596; 2% instances), <tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt> (286; 1% instances), <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> (143; 1% instances), <tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> (22; 0% instances).
+9985 tokens (37%) have a non-empty value of `Gender`.
+7304 types (64%) occur at least once with a non-empty value of `Gender`.
+3024 lemmas (64%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 8 part-of-speech tags: <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (4748; 17% instances), <tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> (2528; 9% instances), <tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt> (844; 3% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (816; 3% instances), <tt><a href="orv_birchbark-pos-DET.html">DET</a></tt> (596; 2% instances), <tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt> (286; 1% instances), <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> (145; 1% instances), <tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> (22; 0% instances).
 
 ### `NOUN`
 
-4736 <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Gender`.
+4748 <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3371; 71%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3381; 71%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
-* `Fem` (2199; 46% of non-empty `Gender`): <em>ржи, кѹно, соли, кѹнъ, грамота, гривьнѣ, гривьнъ, рожи, гривено, гривна</em>
-* `Masc` (1933; 41% of non-empty `Gender`): <em>поклонъ, гн҃е, поклоно, конь, попа, рубль, сн҃а, кони, приказъ, господине</em>
+* `Fem` (2203; 46% of non-empty `Gender`): <em>ржи, кѹно, соли, кѹнъ, грамота, гривьнѣ, гривьнъ, рожи, гривено, гривна</em>
+* `Masc` (1941; 41% of non-empty `Gender`): <em>поклонъ, гн҃е, поклоно, конь, попа, рубль, сн҃а, кони, приказъ, господине</em>
 * `Neut` (604; 13% of non-empty `Gender`): <em>покланѧние, жита, села, серебра, слово, село, челомъ, серебро, целомъ, цоломъ</em>
 * `EMPTY` (117): <em>люди, дети, дѣтемъ, дѣтемь, людие, людми, людье, людьми, дитьи, дѣтеи</em>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 100% lemmas (954) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 100% lemmas (959) occur only with one value of `Gender`.
 
 ### `PROPN`
 
-2517 <tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> tokens (91% of all `PROPN` tokens) have a non-empty value of `Gender`.
+2528 <tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> tokens (91% of all `PROPN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PROPN` and `Gender` co-occurred: <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2408; 96%), <tt><a href="orv_birchbark-feat-NameType.html">NameType</a></tt><tt>=Giv</tt> (2108; 84%).
+The most frequent other feature values with which `PROPN` and `Gender` co-occurred: <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2419; 96%), <tt><a href="orv_birchbark-feat-NameType.html">NameType</a></tt><tt>=Giv</tt> (2119; 84%).
 
 `PROPN` tokens may have the following values of `Gender`:
 
 * `Fem` (258; 10% of non-empty `Gender`): <em>мариѧ, ѧна, маренѣ, настасиѧ, куролѣ, лаидиколѣ, лугу, марие, мароѳу, милославь</em>
-* `Masc` (2186; 87% of non-empty `Gender`): <em>ивана, петра, бориса, евана, степана, павла, смена, завида, лѹкѣ, михалѧ</em>
+* `Masc` (2197; 87% of non-empty `Gender`): <em>ивана, петра, бориса, евана, степана, павла, смена, завида, лѹкѣ, михалѧ</em>
 * `Neut` (73; 3% of non-empty `Gender`): <em>городищи, ------<lbr/>скь, -----ина, --руньского, -остер…, [гр]од[и], [сл]а[в]…, бабине, бологожь, болъсинѣ</em>
 * `EMPTY` (236): <em>в…, ж…, кшетахъ, ли…, малѧтѣ, м…, ньжѧть, нѣжѧтѣ, са…, стоють</em>
 
-`Gender` seems to be **lexical feature** of `PROPN`. 100% lemmas (1256) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `PROPN`. 100% lemmas (1261) occur only with one value of `Gender`.
 
 ### `ADJ`
 
-842 <tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt> tokens (90% of all `ADJ` tokens) have a non-empty value of `Gender`.
+844 <tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt> tokens (90% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (698; 83%), <tt><a href="orv_birchbark-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (577; 69%), <tt><a href="orv_birchbark-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (569; 68%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (699; 83%), <tt><a href="orv_birchbark-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (579; 69%), <tt><a href="orv_birchbark-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (571; 68%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
 * `Fem` (271; 32% of non-empty `Gender`): <em>ст҃ѣ, бѣлонога, дворнюю, десѧтаꙗ, добре, другую, новаѧ, пуста, пѧте, пѧть</em>
-* `Masc` (434; 52% of non-empty `Gender`): <em>велика, гнѣд, пѧта, ст҃го, бж҃и, ворон, добра, добръ, желѣзен, зелоного</em>
+* `Masc` (436; 52% of non-empty `Gender`): <em>велика, гнѣд, пѧта, ст҃го, бж҃и, ворон, добра, добръ, желѣзен, зелоного</em>
 * `Neut` (137; 16% of non-empty `Gender`): <em>добро, проста, здорово, борзи, борзѣ, годьнъ, лживꙑѧ, (д)анилово, (до)ро[г]а[ѧ], (т)[о]тарьского</em>
 * `EMPTY` (96): <em>коневꙑхъ, страднꙑх, (д)митрову, (ко)невꙑхъ, (л)юдними, (с)тар[ѣ]шимъ, (с)траднꙑх, (св)[об]однꙑхо, :ѕ҃:, [б]орови[ц]ки</em>
 
@@ -71,16 +71,16 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 ### `VERB`
 
-812 <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> tokens (31% of all `VERB` tokens) have a non-empty value of `Gender`.
+816 <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> tokens (32% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="orv_birchbark-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (801; 99%), <tt><a href="orv_birchbark-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (785; 97%), <tt><a href="orv_birchbark-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (734; 90%), <tt><a href="orv_birchbark-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (719; 89%), <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (664; 82%), <tt><a href="orv_birchbark-feat-VerbForm.html">VerbForm</a></tt><tt>=PartRes</tt> (636; 78%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="orv_birchbark-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (805; 99%), <tt><a href="orv_birchbark-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (789; 97%), <tt><a href="orv_birchbark-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (738; 90%), <tt><a href="orv_birchbark-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (723; 89%), <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (668; 82%), <tt><a href="orv_birchbark-feat-VerbForm.html">VerbForm</a></tt><tt>=PartRes</tt> (640; 78%).
 
 `VERB` tokens may have the following values of `Gender`:
 
 * `Fem` (83; 10% of non-empty `Gender`): <em>дала, задѣла, пеюци, рекла, ѧла, (-)шьла, (се)[д]ѧци, -----ила, [бꙑл]а, [ѿ](им)ана</em>
-* `Masc` (664; 82% of non-empty `Gender`): <em>далъ, дале, послале, възѧле, взѧле, въдале, велѣлъ, взѧлъ, взѧлѣ, възѧлъ</em>
+* `Masc` (668; 82% of non-empty `Gender`): <em>далъ, възѧле, дале, послале, въдале, взѧле, велѣлъ, взѧлъ, взѧлѣ, възѧлъ</em>
 * `Neut` (65; 8% of non-empty `Gender`): <em>шло, бꙑло, пошло, (шло, диꙗлось, куплено, погибло, (пог)[ꙑб]ло, (соро)<lbr/>слосѧ, [п]окладено</em>
-* `EMPTY` (1769): <em>даи, возми, пришли, възьми, посли, присъли, далъ, иди, кланѧюсѧ, купи</em>
+* `EMPTY` (1773): <em>даи, возми, възьми, пришли, посли, присъли, далъ, иди, кланѧюсѧ, купи</em>
 
 <table>
   <tr><th>Paradigm <i>взѧти</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -134,7 +134,7 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 * `Fem` (97; 34% of non-empty `Gender`): <em>три, двь, дви, дове, двѣ, дъвѣ, две, дови, полутори, в҃е</em>
 * `Masc` (181; 63% of non-empty `Gender`): <em>поло, полъ, пло, два, дова, полѹ, пол, три, (п)олъ, по</em>
 * `Neut` (8; 3% of non-empty `Gender`): <em>три, д[ъ]ва, два, дова, дъва, одиномо, сотъ</em>
-* `EMPTY` (972): <em>·в҃·, ·г҃·, :в҃:, :в:, ·г·, в҃, ·ӏ҃·, три, г҃, :г҃:</em>
+* `EMPTY` (975): <em>·в҃·, ·г҃·, :в҃:, :в:, ·г·, в҃, ·ӏ҃·, три, г҃, :г҃:</em>
 
 <table>
   <tr><th>Paradigm <i>два</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -144,16 +144,16 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 
 ### `PRON`
 
-143 <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> tokens (11% of all `PRON` tokens) have a non-empty value of `Gender`.
+145 <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> tokens (11% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="orv_birchbark-feat-Clitic.html">Clitic</a></tt><tt>=EMPTY</tt> (143; 100%), <tt><a href="orv_birchbark-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (142; 99%), <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (137; 96%), <tt><a href="orv_birchbark-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (136; 95%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="orv_birchbark-feat-Clitic.html">Clitic</a></tt><tt>=EMPTY</tt> (145; 100%), <tt><a href="orv_birchbark-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (143; 99%), <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (139; 96%), <tt><a href="orv_birchbark-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (138; 95%).
 
 `PRON` tokens may have the following values of `Gender`:
 
 * `Fem` (20; 14% of non-empty `Gender`): <em>ю, ее, …<lbr/>ю, е<lbr/>и, е]ѥ, еи, еѣ, єи, ѥи, ѥӏ</em>
-* `Masc` (105; 73% of non-empty `Gender`): <em>ѥго, его, емѹ, него, емꙋ, ѥму, нь, и, немь, нимо</em>
-* `Neut` (18; 13% of non-empty `Gender`): <em>то, е, томъ, [ц]ьто, [ѥ]же, его, не, ничимо, томо, чимъ</em>
-* `EMPTY` (1115): <em>ми, сѧ, тꙑ, ти, ѧ, мене, тобѣ, мнѣ, ѧзъ, мѧ</em>
+* `Masc` (106; 73% of non-empty `Gender`): <em>ѥго, его, емѹ, него, емꙋ, ѥму, нь, и, немь, нимо</em>
+* `Neut` (19; 13% of non-empty `Gender`): <em>то, е, томъ, что, [ц]ьто, [ѥ]же, его, не, ничимо, томо</em>
+* `EMPTY` (1120): <em>ми, сѧ, тꙑ, ти, ѧ, мене, тобѣ, мнѣ, ѧзъ, мѧ</em>
 
 <table>
   <tr><th>Paradigm <i>и</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -180,7 +180,7 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 * `Fem` (2; 9% of non-empty `Gender`): <em>бꙑла</em>
 * `Masc` (14; 64% of non-empty `Gender`): <em>бꙑлъ, бꙑле, бꙑло, б]ꙑ[лъ], былъ, бꙑли, бꙑл</em>
 * `Neut` (6; 27% of non-empty `Gender`): <em>бꙑло, (бꙑ)<lbr/>ло, б[ꙑ]<lbr/>ло</em>
-* `EMPTY` (350): <em>еси, ѥси, есмь, бꙑ, ѥсмь, есте, есть, есемо, ѥсме, есме</em>
+* `EMPTY` (353): <em>еси, ѥси, есмь, бꙑ, ѥсмь, есте, есть, есемо, ѥсме, есме</em>
 
 <table>
   <tr><th>Paradigm <i>быти</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -193,14 +193,14 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>PROPN --[<tt><a href="orv_birchbark-dep-conj.html">conj</a></tt>]--> PROPN</tt> (374; 71%),
+<tt>PROPN --[<tt><a href="orv_birchbark-dep-conj.html">conj</a></tt>]--> PROPN</tt> (377; 71%),
 <tt>NOUN --[<tt><a href="orv_birchbark-dep-amod.html">amod</a></tt>]--> ADJ</tt> (371; 88%),
-<tt>NOUN --[<tt><a href="orv_birchbark-dep-conj.html">conj</a></tt>]--> NOUN</tt> (293; 54%),
+<tt>NOUN --[<tt><a href="orv_birchbark-dep-conj.html">conj</a></tt>]--> NOUN</tt> (294; 55%),
 <tt>NOUN --[<tt><a href="orv_birchbark-dep-det.html">det</a></tt>]--> DET</tt> (287; 84%),
-<tt>NOUN --[<tt><a href="orv_birchbark-dep-appos.html">appos</a></tt>]--> PROPN</tt> (118; 95%),
-<tt>PROPN --[<tt><a href="orv_birchbark-dep-orphan.html">orphan</a></tt>]--> PROPN</tt> (108; 81%),
+<tt>NOUN --[<tt><a href="orv_birchbark-dep-appos.html">appos</a></tt>]--> PROPN</tt> (118; 94%),
+<tt>PROPN --[<tt><a href="orv_birchbark-dep-orphan.html">orphan</a></tt>]--> PROPN</tt> (110; 81%),
 <tt>VERB --[<tt><a href="orv_birchbark-dep-conj.html">conj</a></tt>]--> VERB</tt> (95; 61%),
-<tt>VERB --[<tt><a href="orv_birchbark-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (91; 54%),
+<tt>VERB --[<tt><a href="orv_birchbark-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (92; 55%),
 <tt>PROPN --[<tt><a href="orv_birchbark-dep-flat-name.html">flat:name</a></tt>]--> ADJ</tt> (84; 95%),
 <tt>PROPN --[<tt><a href="orv_birchbark-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (79; 90%).
 

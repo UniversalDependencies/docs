@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Russian-Taiga: Relations: `obl:agent`
 
 This relation is a language-specific subtype of <tt><a href="ru_taiga-dep-obl.html">obl</a></tt>.
+There are also 1 other language-specific subtypes of `obl`: <tt><a href="ru_taiga-dep-obl-tmod.html">obl:tmod</a></tt>.
 
 81 nodes (0%) are attached to their parents as `obl:agent`.
 

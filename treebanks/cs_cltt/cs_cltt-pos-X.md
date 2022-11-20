@@ -19,10 +19,10 @@ The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="cs_cltt-pos-CCON
 
 
 * <em>a</em>
-  * <tt><a href="cs_cltt-pos-CCONJ.html">CCONJ</a></tt> 1230: <em>Inventarizace majetku <b>a</b> závazků</em>
+  * <tt><a href="cs_cltt-pos-CCONJ.html">CCONJ</a></tt> 1230: <em>Postup tvorby <b>a</b> použití rezerv</em>
   * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 40: <em>Položka „ D. Daně <b>a</b> poplatky “ obsahuje veškeré daně a poplatky zaúčtované účetní jednotkou jako náklady s výjimkou daně z příjmů .</em>
 * <em>z</em>
-  * <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> 165: <em>Obsahuje zejména závazky <b>z</b> dlouhodobých půjček a úvěrů .</em>
+  * <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> 165: <em>Metoda přechodu <b>z</b> daňové evidence na účetnictví</em>
   * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 29: <em>Pokud jsou tyto zálohy vyšší nebo rovny předpokládané dani , účetní jednotka položku „ B.I.3. Rezerva na daň <b>z</b> příjmů “ neuvede .</em>
 * <em>hospodaření</em>
   * <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 30: <em>Výsledek <b>hospodaření</b> minulých let</em>
@@ -37,13 +37,13 @@ The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="cs_cltt-pos-CCON
   * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 15: <em>Účetní jednotka popíše použití položky „ A.IV.3. Jiný <b>výsledek</b> hospodaření minulých let “ v příloze v účetní závěrce .</em>
   * <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 8: <em>(2) Za nepeněžní transakce v provozní činnosti se považují transakce , které ovlivňují <b>výsledek</b> hospodaření , avšak nemají přímý vliv na přírůstek nebo úbytek peněžních prostředků a peněžních ekvivalentů .</em>
 * <em>za</em>
-  * <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> 173: <em>Zveřejňování účetních výkazů <b>za</b> Českou republiku se provádí obdobně .</em>
+  * <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> 173: <em>Výše pasiv se uvádí <b>za</b> běžné účetní období a minulé účetní období .</em>
   * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 21: <em>Položka „ ***Výsledek hospodaření <b>za</b> účetní období “ uvedená ve výkazu zisku a ztráty se musí rovnat položce „ A. V. Výsledek hospodaření běžného účetního období “ uvedené v rozvaze ( bilanci ) .</em>
 * <em>závazky</em>
   * <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 60: <em>Dlouhodobé <b>závazky</b></em>
   * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 4: <em>(1) Položka „ B.III. Krátkodobé <b>závazky</b> “ obsahuje závazky , které v okamžiku , ke kterému je účetní závěrka sestavena , mají dobu splatnosti jeden rok a kratší .</em>
 * <em>účetní</em>
-  * <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> 873: <em>Stanovená doba nesmí přesáhnout <b>účetní</b> období .</em>
+  * <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> 873: <em>Obsahové vymezení přílohy v konsolidované <b>účetní</b> závěrce</em>
   * <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 21: <em>Zobrazení je poctivé , když jsou při něm použity <b>účetní</b> metody způsobem , který vede k dosažení věrnosti .</em>
   * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 18: <em>(1) Účetní jednotky jsou povinny zachycovat skutečnosti , které jsou předmětem účetnictví , ( dále jen „ <b>účetní</b> případy “ ) účetními doklady .</em>
 * <em>dlouhodobý</em>

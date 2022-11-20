@@ -28,7 +28,7 @@ The 10 most frequent ambiguous types:  <em>to</em> (<tt><a href="en_atis-pos-ADP
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.150056).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.143493).
 
 The 1st highest number of forms (1) was observed with the lemma “be”: <em>'s</em>.
 
@@ -41,7 +41,7 @@ The 2nd highest number of forms (1) was observed with the lemma “to”: <em>to
 
 `PART` nodes are attached to their parents using 5 different relations: <tt><a href="en_atis-dep-mark.html">mark</a></tt> (475; 96% instances), <tt><a href="en_atis-dep-case.html">case</a></tt> (16; 3% instances), <tt><a href="en_atis-dep-advmod.html">advmod</a></tt> (2; 0% instances), <tt><a href="en_atis-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="en_atis-dep-compound.html">compound</a></tt> (1; 0% instances)
 
-Parents of `PART` nodes belong to 4 different parts of speech: <tt><a href="en_atis-pos-VERB.html">VERB</a></tt> (472; 95% instances), <tt><a href="en_atis-pos-PROPN.html">PROPN</a></tt> (18; 4% instances), <tt><a href="en_atis-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="en_atis-pos-AUX.html">AUX</a></tt> (1; 0% instances)
+Parents of `PART` nodes belong to 4 different parts of speech: <tt><a href="en_atis-pos-VERB.html">VERB</a></tt> (472; 95% instances), <tt><a href="en_atis-pos-PROPN.html">PROPN</a></tt> (14; 3% instances), <tt><a href="en_atis-pos-NOUN.html">NOUN</a></tt> (8; 2% instances), <tt><a href="en_atis-pos-AUX.html">AUX</a></tt> (1; 0% instances)
 
 495 (100%) `PART` nodes are leaves.
 

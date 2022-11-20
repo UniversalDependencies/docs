@@ -13,7 +13,7 @@ This relation is universal.
 5 instances of `goeswith` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a href="uk_iu-pos-NUM.html">NUM</a></tt>-<tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (2; 40% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-X.html">X</a></tt> (1; 20% instances), <tt><a href="uk_iu-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (1; 20% instances), <tt><a href="uk_iu-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="uk_iu-pos-PART.html">PART</a></tt> (1; 20% instances).
+The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-X.html">X</a></tt> (2; 40% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-X.html">X</a></tt> (1; 20% instances), <tt><a href="uk_iu-pos-PART.html">PART</a></tt>-<tt><a href="uk_iu-pos-X.html">X</a></tt> (1; 20% instances), <tt><a href="uk_iu-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="uk_iu-pos-X.html">X</a></tt> (1; 20% instances).
 
 
 ~~~ conllu
@@ -36,14 +36,14 @@ The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a h
 12	,	,	PUNCT	U	_	15	punct	15:punct	Id=18gi|LTranslit=,|Translit=,
 13	-	-	PUNCT	U	PunctType=Dash	15	punct	15:punct	Id=18gj|LTranslit=-|Translit=-
 14	як	як	ADV	Pr------r	PronType=Rel	15	advmod	15:advmod	Id=18gk|LTranslit=jak|Translit=jak
-15	пристало	пристати	VERB	Vmeis-sn	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	5	parataxis:rel	5:parataxis:rel	Id=18gl|LTranslit=prystaty|Translit=prystalo
+15	пристало	пристати	VERB	Vmeis-sn	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	5	parataxis:rel	5:parataxis	Id=18gl|LTranslit=prystaty|Translit=prystalo
 16	на	на	ADP	Spsa	Case=Acc	17	case	17:case	Id=18gm|LTranslit=na|Translit=na
 17	синів	син	NOUN	Ncmpay	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	15	obl	15:obl	Id=18gn|LTranslit=syn|Translit=syniv
 18	культурного	культурний	ADJ	Afpmsgf	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	24	amod	24:amod	Id=18go|LTranslit=kuľturnyj|Translit=kuľturnoho
 19	і	і	CCONJ	Ccs	_	20	cc	20:cc	Id=18gp|LTranslit=i|Translit=i
 20	лицарського	лицарський	ADJ	Ao-msgf	Case=Gen|Gender=Masc|Number=Sing	18	conj	18:conj|24:amod	Id=18gq|LTranslit=lycarśkyj|Translit=lycarśkoho
-21	45-ти	45	NUM	Mlc-pg	Case=Gen|Number=Plur|NumType=Card	24	amod	24:amod	Id=18gr|LTranslit=45|Translit=45-ty
-22	мільйонового	мільйоновий	ADJ	Ao-msgf	Case=Gen|Gender=Masc|Number=Sing	21	goeswith	21:goeswith	Id=18gs|LTranslit=miľjonovyj|Translit=miľjonovoho
+21	45-ти	45-тимільйоновий	ADJ	Ao-msgf	Case=Gen|Gender=Masc|Number=Sing|Typo=Yes	24	amod	24:amod	Id=18gr|LTranslit=45-tymiľjonovyj|Translit=45-ty
+22	мільйонового	_	X	X	_	21	goeswith	21:goeswith	Id=18gs|Translit=miľjonovoho
 23	українського	український	ADJ	Ao-msgf	Case=Gen|Gender=Masc|Number=Sing	24	amod	24:amod	Id=18gt|LTranslit=ukrajinśkyj|Translit=ukrajinśkoho
 24	народу	народ	NOUN	Ncmsgn	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	nmod	17:nmod	Id=18gu|LTranslit=narod|Translit=narodu
 25	та	та	CCONJ	Ccs	_	26	cc	26:cc	Id=18gv|LTranslit=ta|Translit=ta
@@ -82,7 +82,7 @@ The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a h
 17	"	"	PUNCT	U	PunctType=Quot	16	punct	16:punct	Id=1oyj|LTranslit="|SpaceAfter=No|Translit="
 18	,	,	PUNCT	U	_	4	punct	4:punct	Id=1oyk|LTranslit=,|Translit=,
 19	був	бути	AUX	Vapis-sm	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	20	cop	20:cop	Id=1oyl|LTranslit=buty|Translit=buv
-20	одним	один	DET	Pi--m-sia	Case=Ins|Gender=Masc|Number=Sing|PronType=Ind	0	root	0:root|28:nsubj:rel	Id=1oym|LTranslit=odyn|Promoted=Yes|Translit=odnym
+20	одним	один	DET	Pi--m-sia	Case=Ins|Gender=Masc|Number=Sing|PronType=Ind	0	root	0:root|28:nsubj	Id=1oym|LTranslit=odyn|Promoted=Yes|Translit=odnym
 21	із	із	ADP	Spsg	Case=Gen	24	case	24:case	Id=1oyn|LTranslit=iz|Translit=iz
 22	найдосвідченіших	найдосвідченіший	ADJ	Afs-pgf	Case=Gen|Degree=Sup|Number=Plur	24	amod	24:amod	Id=1oyo|LTranslit=najdosvidčenišyj|Translit=najdosvidčenišych
 23	польових	польовий	ADJ	Ao--pgf	Case=Gen|Number=Plur	24	amod	24:amod	Id=1oyp|LTranslit=poľovyj|Translit=poľovych
@@ -109,8 +109,8 @@ The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a h
 44	починаючи	починати	VERB	Vmpgp	Aspect=Imp|Tense=Pres|VerbForm=Conv	33	advcl	33:advcl	Id=1oza|LTranslit=počynaty|Translit=počynajučy
 45	з	з	ADP	Spsg	Case=Gen	46	case	46:case	Id=1ozb|LTranslit=z|Translit=z
 46	червня	червень	NOUN	Ncmsgn	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	44	obl	44:obl	Id=1ozc|LTranslit=červeń|Translit=červńа
-47	2014	2014	NOUN	Ao-msgf	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Uninflect=Yes	46	nmod	46:nmod	Id=1ozd|LTranslit=2014|Translit=2014
-48	го	го	X	X	_	47	goeswith	47:goeswith	Id=1oze|LTranslit=ho|SpaceAfter=No|Translit=ho
+47	2014	2014й	NOUN	Ao-msgf	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Typo=Yes|Uninflect=Yes	46	nmod	46:nmod	Id=1ozd|LTranslit=2014j|Translit=2014
+48	го	_	X	X	_	47	goeswith	47:goeswith	Id=1oze|SpaceAfter=No|Translit=ho
 49	,	,	PUNCT	U	_	51	punct	51:punct	Id=1ozf|LTranslit=,|Translit=,
 50	в	в	ADP	Spsl	Case=Loc	51	case	51:case	Id=1ozg|LTranslit=v|Translit=v
 51	районі	район	NOUN	Ncmsln	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	33	obl	33:obl	Id=1ozh|LTranslit=rajon|Translit=rajoni
@@ -214,7 +214,7 @@ The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a h
 13	,	,	PUNCT	U	_	16	punct	16:punct	Id=28w0|LTranslit=,|Translit=,
 14	окрім	окрім	ADP	Spsg	Case=Gen	16	case	16:case	Id=28w1|LTranslit=okrim|Translit=okrim
 15	отої	отой	DET	Pd--f-sga	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	16	det	16:det	Id=28w2|LTranslit=otoj|Translit=otoji
-16	серії	серія	NOUN	Ncfsgn	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	12:nmod|24:obl:rel	Id=28w3|LTranslit=serija|SpaceAfter=No|Translit=seriji
+16	серії	серія	NOUN	Ncfsgn	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	12:nmod|24:obl	Id=28w3|LTranslit=serija|SpaceAfter=No|Translit=seriji
 17	,	,	PUNCT	U	_	24	punct	24:punct	Id=28w4|LTranslit=,|Translit=,
 18	де	де	ADV	Pr------r	PronType=Rel	24	advmod	16:ref|24:advmod	Id=28w5|LTranslit=de|Translit=de
 19	Дірк	Дірк	PROPN	Npmsny	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing|Uninflect=Yes	24	nsubj	24:nsubj	Id=28w6|LTranslit=Dirk|Translit=Dirk
@@ -228,8 +228,8 @@ The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a h
 27	скріншот	скріншот	NOUN	Ncmsnn	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	34	nsubj	34:nsubj	Id=28we|LTranslit=skrinšot|Translit=skrinšot
 28	в	в	ADP	Spsl	Case=Loc	29	case	29:case	Id=28wf|LTranslit=v|Translit=v
 29	статті	стаття	NOUN	Ncfsln	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	27	nmod	27:nmod	Id=28wg|LTranslit=statťа|Translit=statti
-30	як	як	SCONJ	Css	_	34	discourse	34:discourse	Id=28wh|LTranslit=jak|Translit=jak
-31	раз	раз	NOUN	Ncmsnn	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	30	goeswith	30:goeswith	Id=28wi|LTranslit=raz|Translit=raz
+30	як	якраз	PART	Q	Typo=Yes	34	discourse	34:discourse	Id=28wh|LTranslit=jakraz|Translit=jak
+31	раз	_	X	X	_	30	goeswith	30:goeswith	Id=28wi|Translit=raz
 32	з	з	ADP	Spsg	Case=Gen	34	case	34:case	Id=28wj|LTranslit=z|Translit=z
 33	тої	той	DET	Pd--f-sga	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	34	det	34:det	Id=28wk|LTranslit=toj|Translit=toji
 34	серії	серія	NOUN	Ncfsgn	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	parataxis	4:parataxis	Id=28wl|LTranslit=serija|Translit=seriji

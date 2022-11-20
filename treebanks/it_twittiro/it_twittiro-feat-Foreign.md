@@ -21,5 +21,5 @@ The feature is used with 1 part-of-speech tags: <tt><a href="it_twittiro-pos-X.h
 `X` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>indoor</em>
-* `EMPTY` (110): <em>e, i, o, partes, super, zan, #labuonascuola, #tassadopotassa, 10cent, 13.mo</em>
+* `EMPTY` (109): <em>e, i, o, partes, super, zan, #labuonascuola, #tassadopotassa, 10cent, 13.mo</em>
 

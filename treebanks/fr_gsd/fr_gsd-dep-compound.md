@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1 nodes (0%) are attached to their parents as `compound`.
+3 nodes (0%) are attached to their parents as `compound`.
 
-1 instances of `compound` (100%) are right-to-left (child precedes parent).
+3 instances of `compound` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.
 
-The following 1 pairs of parts of speech are connected with `compound`: <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (1; 100% instances).
+The following 1 pairs of parts of speech are connected with `compound`: <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (3; 100% instances).
 
 
 ~~~ conllu
@@ -25,7 +25,7 @@ The following 1 pairs of parts of speech are connected with `compound`: <tt><a h
 1	À	à	ADP	_	_	3	case	_	wordform=à
 2	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No
 3	origine	origine	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
-4	pom-pom	pom-pom	NOUN	_	Gender=Masc	5	compound	_	_
+4	pom-pom	pom-pom	NOUN	_	Gender=Masc|Number=Sing	5	compound	_	_
 5	girl	girl	NOUN	_	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	9	punct	_	_
 7	et	et	CCONJ	_	_	9	cc	_	_

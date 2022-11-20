@@ -28,7 +28,7 @@ The following 3 pairs of parts of speech are connected with `nsubj:caus`: <tt><a
 3	m'	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	6	iobj	_	SpaceAfter=No
 4	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
 5	fait	faire	AUX	DoubleAux	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	aux:caus	_	Scrap=Yes
-6	voir	voir	VERB	CAUSATIVE	VerbForm=Inf	0	root	_	SpaceAfter=No
+6	voir	voir	VERB	CAUSATIVE	VerbForm=Inf	0	root	_	SpaceAfter=No|Subject=OblRaising
 7	…	…	PUNCT	_	_	6	punct	_	_
 
 ~~~
@@ -49,7 +49,7 @@ The following 3 pairs of parts of speech are connected with `nsubj:caus`: <tt><a
 7	tragédies	tragédie	NOUN	_	Gender=Fem|Number=Plur	4	obl:arg	_	_
 8	aujourd'hui	aujourd'hui	ADV	_	_	10	advmod	_	_
 9	font	faire	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	aux:caus	_	_
-10	douter	douter	VERB	_	VerbForm=Inf	2	ccomp	_	_
+10	douter	douter	VERB	_	VerbForm=Inf	2	ccomp	_	Subject=ObjRaising
 11	de	de	ADP	_	_	13	case	_	_
 12	cette	ce	DET	_	Gender=Fem|Number=Sing|PronType=Dem	13	det	_	_
 13	espérance	espérance	NOUN	_	Gender=Fem|Number=Sing	10	obl:arg	_	SpaceAfter=No
@@ -73,9 +73,9 @@ The following 3 pairs of parts of speech are connected with `nsubj:caus`: <tt><a
 7	,	,	PUNCT	_	_	3	punct	_	_
 8	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	exigence	exigence	NOUN	_	Gender=Fem|Number=Sing	12	nsubj:caus	_	_
-10	se	se	PRON	_	Person=3|PronType=Prs	12	dep:comp	_	_
+10	se	se	PRON	_	Person=3|PronType=Prs	12	expl	_	_
 11	fait	faire	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux:caus	_	_
-12	entendre	entendre	VERB	_	VerbForm=Inf	0	root	_	_
+12	entendre	entendre	VERB	_	VerbForm=Inf	0	root	_	Subject=NoRaising
 13	toujours	toujours	ADV	_	_	15	advmod	_	_
 14	plus	plus	NOUN	_	Gender=Masc	15	obl:mod	_	_
 15	forte	fort	ADJ	_	Gender=Fem|Number=Sing	12	advcl	_	_
@@ -96,9 +96,9 @@ The following 3 pairs of parts of speech are connected with `nsubj:caus`: <tt><a
 30	Homme	Homme	PROPN	_	_	27	nmod	_	_
 31	et	et	CCONJ	_	_	34	cc	_	_
 32	ne	ne	ADV	_	Polarity=Neg	34	advmod	_	_
-33	se	se	PRON	_	Person=3|PronType=Prs	34	dep:comp	_	_
+33	se	se	PRON	_	Person=3|PronType=Prs	34	obj	_	_
 34	retournent	retourner	VERB	ETRE	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	24	conj	_	_
-35	jamais	jamais	ADV	_	_	34	advmod	_	_
+35	jamais	jamais	ADV	_	PronType=Neg	34	advmod	_	_
 36	contre	contre	ADP	_	_	37	case	_	_
 37	lui	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	34	obl:arg	_	SpaceAfter=No
 38	.	.	PUNCT	_	_	12	punct	_	_

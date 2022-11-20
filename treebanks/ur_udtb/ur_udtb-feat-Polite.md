@@ -11,8 +11,8 @@ It occurs with 2 different values: `Form`, `Infm`.
 
 1112 tokens (1%) have a non-empty value of `Polite`.
 92 types (1%) occur at least once with a non-empty value of `Polite`.
-52 lemmas (1%) occur at least once with a non-empty value of `Polite`.
-The feature is used with 8 part-of-speech tags: <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> (760; 1% instances), <tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> (222; 0% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (97; 0% instances), <tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt> (22; 0% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="ur_udtb-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+46 lemmas (0%) occur at least once with a non-empty value of `Polite`.
+The feature is used with 8 part-of-speech tags: <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> (760; 1% instances), <tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> (212; 0% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (107; 0% instances), <tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt> (22; 0% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="ur_udtb-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `PRON`
 
@@ -23,43 +23,44 @@ The most frequent other feature values with which `PRON` and `Polite` co-occurre
 `PRON` tokens may have the following values of `Polite`:
 
 * `Form` (760; 100% of non-empty `Polite`): انہوں، انہیں، انھوں، ان، آپ، انھیں، اُنھوں، جنہوں، اپنے، اُنھیں
-* `EMPTY` (4836): اس، وہ، ان، اپنے، جو، جس، یہ، اپنی، کوئی، کسی
+* `EMPTY` (4837): اس، وہ، ان، اپنے، جو، جس، یہ، اپنی، کوئی، کسی
 
 `Polite` seems to be **lexical feature** of `PRON`. 100% lemmas (10) occur only with one value of `Polite`.
 
 ### `AUX`
 
-222 <tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> tokens (2% of all `AUX` tokens) have a non-empty value of `Polite`.
+212 <tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> tokens (2% of all `AUX` tokens) have a non-empty value of `Polite`.
 
-The most frequent other feature values with which `AUX` and `Polite` co-occurred: <tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt> (217; 98%), <tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (188; 85%), <tt><a href="ur_udtb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (168; 76%), <tt><a href="ur_udtb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (165; 74%), <tt><a href="ur_udtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (164; 74%), <tt><a href="ur_udtb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (157; 71%), <tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (131; 59%), <tt><a href="ur_udtb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (113; 51%).
+The most frequent other feature values with which `AUX` and `Polite` co-occurred: <tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt> (209; 99%), <tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (181; 85%), <tt><a href="ur_udtb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (164; 77%), <tt><a href="ur_udtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (160; 75%), <tt><a href="ur_udtb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (156; 74%), <tt><a href="ur_udtb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (155; 73%), <tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (126; 59%), <tt><a href="ur_udtb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (113; 53%).
 
 `AUX` tokens may have the following values of `Polite`:
 
-* `Form` (215; 97% of non-empty `Polite`): ہیں، ہےں، تھے، ہوئے، رہے، گے، چکے، گئے، تھیں، تھا
-* `Infm` (7; 3% of non-empty `Polite`): جاؤ، رہو، آؤ، لو، چاہو
-* `EMPTY` (9767): ہے، ہوئے، گیا، ہیں، تھا، ہےں، جا، گئی، تھی، گئے
+* `Form` (208; 98% of non-empty `Polite`): ہیں، ہےں، تھے، ہوئے، رہے، گے، گئے، تھیں، تھا، سکے
+* `Infm` (4; 2% of non-empty `Polite`): جاؤ، رہو
+* `EMPTY` (8909): ہے، ہوئے، گیا، ہیں، تھا، ہےں، جا، گئی، تھی، گئے
 
 <table>
-  <tr><th>Paradigm <i>رہ</i></th><th><tt>Infm</tt></th><th><tt>Form</tt></th></tr>
-  <tr><td><tt><tt><a href="ur_udtb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ur_udtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td>رہے</td></tr>
-  <tr><td><tt><tt><a href="ur_udtb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ur_udtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td>رہیں</td></tr>
-  <tr><td><tt><tt><a href="ur_udtb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ur_udtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td>رہے</td></tr>
-  <tr><td><tt><tt><a href="ur_udtb-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ur_udtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td>رہو</td><td></td></tr>
+  <tr><th>Paradigm <i>جا</i></th><th><tt>Infm</tt></th><th><tt>Form</tt></th></tr>
+  <tr><td><tt><tt><a href="ur_udtb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ur_udtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td>جاتے</td></tr>
+  <tr><td><tt><tt><a href="ur_udtb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ur_udtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td>گئے</td></tr>
+  <tr><td><tt><tt><a href="ur_udtb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ur_udtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td>گئے</td></tr>
+  <tr><td><tt><tt><a href="ur_udtb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ur_udtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td>گئیں</td></tr>
+  <tr><td><tt><tt><a href="ur_udtb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ur_udtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td>گئے</td></tr>
+  <tr><td><tt><tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ur_udtb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ur_udtb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="ur_udtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td>جائیں_گے</td></tr>
+  <tr><td><tt><tt><a href="ur_udtb-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="ur_udtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td>جاؤ</td><td></td></tr>
 </table>
-
-`Polite` seems to be **lexical feature** of `AUX`. 95% lemmas (18) occur only with one value of `Polite`.
 
 ### `VERB`
 
-97 <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Polite`.
+107 <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Polite`.
 
-The most frequent other feature values with which `VERB` and `Polite` co-occurred: <tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (97; 100%), <tt><a href="ur_udtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (95; 98%), <tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt> (89; 92%), <tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (78; 80%), <tt><a href="ur_udtb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (49; 51%).
+The most frequent other feature values with which `VERB` and `Polite` co-occurred: <tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (107; 100%), <tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt> (97; 91%), <tt><a href="ur_udtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (95; 89%), <tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (85; 79%), <tt><a href="ur_udtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (54; 50%).
 
 `VERB` tokens may have the following values of `Polite`:
 
-* `Form` (84; 87% of non-empty `Polite`): کریں_گے، ہوئے، رہے، کریں، ہیں، آتے، بنے، تھے، دیتے، رکھتے
-* `Infm` (13; 13% of non-empty `Polite`): کرو، رکھو، جاؤں، دیکھو، سناؤ
-* `EMPTY` (11765): کیا، کہا، کر، کرنے، کی، ہو، کرتے، ہے، بتایا، دیا
+* `Form` (91; 85% of non-empty `Polite`): کریں_گے، ہوئے، چکے، دیتے، رہے، کریں، ہیں، آتے، بنے، تھے
+* `Infm` (16; 15% of non-empty `Polite`): کرو، رکھو، آؤ، جاؤں، دیکھو، سناؤ، لو، چاہو
+* `EMPTY` (12588): کیا، کہا، کر، کرنے، کی، ہو، دیا، کرتے، ہے، دی
 
 <table>
   <tr><th>Paradigm <i>کر</i></th><th><tt>Infm</tt></th><th><tt>Form</tt></th></tr>
@@ -79,8 +80,6 @@ The most frequent other feature values with which `VERB` and `Polite` co-occurre
   <tr><td><tt><tt><a href="ur_udtb-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ur_udtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td>کریں</td></tr>
 </table>
 
-`Polite` seems to be **lexical feature** of `VERB`. 93% lemmas (25) occur only with one value of `Polite`.
-
 ### `ADP`
 
 22 <tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Polite`.
@@ -90,7 +89,7 @@ The most frequent other feature values with which `ADP` and `Polite` co-occurred
 `ADP` tokens may have the following values of `Polite`:
 
 * `Form` (22; 100% of non-empty `Polite`): کے
-* `EMPTY` (28142): کے، کی، نے، سے، مےں، کو، کا، پر، میں، لیے
+* `EMPTY` (27784): کے، کی، نے، سے، مےں، کو، کا، پر، میں، لیے
 
 ### `NOUN`
 
@@ -110,7 +109,7 @@ The most frequent other feature values with which `NOUN` and `Polite` co-occurre
 `ADJ` tokens may have the following values of `Polite`:
 
 * `Form` (2; 100% of non-empty `Polite`): نئے، ہوئے
-* `EMPTY` (10117): جاری، شامل، دیگر، سابق، موجود، ریاستی، پیدا، ہلاک، منعقد، سرکاری
+* `EMPTY` (10513): والے، جاری، شامل، دیگر، سابق، موجود، ریاستی، پیدا، ہلاک، والی
 
 ### `DET`
 
@@ -132,5 +131,5 @@ The most frequent other feature values with which `PROPN` and `Polite` co-occurr
 `PROPN` tokens may have the following values of `Polite`:
 
 * `Form` (1; 100% of non-empty `Polite`): کیمون
-* `EMPTY` (17136): پی، سی، آئی، ایس، کانگریس، بی، ہندوستان، ریڈی، اے، سنگھ
+* `EMPTY` (17134): پی، سی، آئی، ایس، کانگریس، بی، ہندوستان، ریڈی، اے، سنگھ
 

@@ -12,7 +12,7 @@ There are 1 language-specific subtypes of `acl`: <tt><a href="hi_hdtb-dep-acl-re
 3119 nodes (1%) are attached to their parents as `acl`.
 
 2276 instances of `acl` (73%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.69124719461366.
+Average distance between parent and child is 5.68772042321257.
 
 The following 21 pairs of parts of speech are connected with `acl`: <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (1926; 62% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt>-<tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (385; 12% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (280; 9% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (226; 7% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (128; 4% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (63; 2% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (43; 1% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> (12; 0% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (11; 0% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (10; 0% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (9; 0% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt>-<tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt>-<tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt>-<tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt>-<tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_hdtb-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt>-<tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
@@ -70,7 +70,7 @@ The following 21 pairs of parts of speech are connected with `acl`: <tt><a href=
 1	जबकि	जबकि	CCONJ	CC	_	12	cc	_	ChunkId=CCP|ChunkType=head|Translit=jabaki
 2	ससुर	ससुर	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	12	obj	_	Vib=0_को|Tam=0|ChunkId=NP|ChunkType=head|Translit=sasura
 3	को	को	ADP	PSP	AdpType=Post	2	case	_	ChunkId=NP|ChunkType=child|Translit=ko
-4	कोई	कोई	PRON	PRP	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	case	_	Vib=0|Tam=0|ChunkId=NP2|ChunkType=child|Translit=koī
+4	कोई	कोई	PRON	PRP	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	det	_	Vib=0|Tam=0|ChunkId=NP2|ChunkType=child|Translit=koī
 5	सजा	सजा	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	7	nmod	_	Vib=0|Tam=0|ChunkId=NP2|ChunkType=head|Translit=sajā
 6	तो	तो	PART	RP	_	5	dep	_	ChunkId=NP2|ChunkType=child|Translit=to
 7	दूर	दूर	ADV	NST	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing|Person=3	12	advmod	_	AltTag=ADV-NOUN|ChunkId=NP3|ChunkType=head|Translit=dūra
@@ -79,7 +79,7 @@ The following 21 pairs of parts of speech are connected with `acl`: <tt><a href=
 10	आजादी	आजादी	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	12	acl	_	SpaceAfter=No|Vib=0|Tam=0|ChunkId=NP5|ChunkType=head|Translit=ājādī
 11	'	'	PUNCT	SYM	_	10	punct	_	ChunkId=NP5|ChunkType=child|Translit='
 12	बख्श	बख्श	VERB	VM	Number=Sing|Voice=Act	0	root	_	ChunkId=VGF|ChunkType=head|Stype=declarative|Tam=0|Translit=bakhśa|Vib=0_दे+या
-13	दी	दे	AUX	VAUX	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	12	aux	_	Vib=या|Tam=yA|ChunkId=VGF|ChunkType=child|Translit=dī
+13	दी	दे	VERB	VAUX	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	12	compound	_	Vib=या|Tam=yA|ChunkId=VGF|ChunkType=child|Translit=dī
 14	।	।	PUNCT	SYM	_	12	punct	_	ChunkId=BLK|ChunkType=head|Translit=.
 
 ~~~

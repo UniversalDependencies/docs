@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-11 nodes (0%) are attached to their parents as `reparandum`.
+13 nodes (0%) are attached to their parents as `reparandum`.
 
-11 instances of `reparandum` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.90909090909091.
+13 instances of `reparandum` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.92307692307692.
 
-The following 10 pairs of parts of speech are connected with `reparandum`: <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (2; 18% instances), <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt>-<tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (1; 9% instances), <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt>-<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (1; 9% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (1; 9% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> (1; 9% instances), <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> (1; 9% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (1; 9% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> (1; 9% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (1; 9% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (1; 9% instances).
+The following 12 pairs of parts of speech are connected with `reparandum`: <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (2; 15% instances), <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (1; 8% instances), <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt>-<tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (1; 8% instances), <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt>-<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (1; 8% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (1; 8% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> (1; 8% instances), <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> (1; 8% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (1; 8% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> (1; 8% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> (1; 8% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (1; 8% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (1; 8% instances).
 
 
 ~~~ conllu
@@ -52,6 +52,39 @@ The following 10 pairs of parts of speech are connected with `reparandum`: <tt><
 28	ⲛⲁ	ⲛⲁ	ADP	PREP	_	29	case	_	_
 29	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	27	obl	_	_
 30	·	·	PUNCT	PUNCT	_	11	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 22	bgColor:blue
+# visual-style 22	fgColor:white
+# visual-style 22 16 reparandum	color:blue
+1	ⲡⲉϫⲉ	ⲡⲉϫⲉ	VERB	VBD	VerbForm=Fin	0	root	_	Orig=Ⲡⲉϫⲉ
+2	ⲓⲱϩⲁⲛⲛⲏⲥ	ⲓⲱϩⲁⲛⲛⲏⲥ	PROPN	NPROP	Foreign=Yes	1	nsubj	_	Entity=(person-John_Calybite)|OrigLang=he
+3	·	·	PUNCT	PUNCT	_	10	punct	_	_
+4	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	10	mark	_	_
+5	ⲡⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+6	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	10	vocative	_	Entity=(person
+7	ⲛ	ⲛ	ADP	PREP	_	8	case	_	Orig=ⲛ̅
+8	ⲉⲓⲱⲧ	ⲉⲓⲱⲧ	NOUN	N	_	6	nmod	_	Entity=person)|Orig=ⲉⲓ̈ⲱⲧ
+9	ⲛⲧⲟⲕ	ⲛⲧⲟⲕ	PRON	PPERI	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	10	nsubj	_	Orig=ⲛ̅ⲧⲟⲕ
+10	ⲡⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	1	ccomp	_	Entity=(person
+11	ⲧⲱⲛ	ⲧⲱⲛ	ADV	PINT	PronType=Int	10	nmod	_	Entity=person)
+12	·	·	PUNCT	PUNCT	_	16	punct	_	_
+13	ⲏ	ⲏ	CCONJ	CONJ	Foreign=Yes	16	cc	_	OrigLang=grc
+14	ⲉⲣⲉ	ⲉⲣⲉ	PART	CFOC	_	16	mark	_	_
+15	ⲡⲉⲕ	ⲡⲉⲕ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	16	det	_	Entity=(place
+16	ⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟⲛ	ⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟⲛ	NOUN	N	Foreign=Yes	22	reparandum	_	Entity=place)|OrigLang=grc
+17	·	·	PUNCT	PUNCT	_	16	punct	_	_
+18	ⲏ	ⲏ	CCONJ	CONJ	Foreign=Yes	22	cc	_	OrigLang=grc
+19	ⲉⲣⲉ	ⲉⲣⲉ	PART	CFOC	_	22	mark	_	_
+20	ⲡⲉⲕ	ⲡⲉⲕ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	21	det	_	Entity=(place
+21	ⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟⲛ	ⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟⲛ	NOUN	N	Foreign=Yes	22	nsubj	_	Entity=place)|OrigLang=grc
+22	ⲧⲱⲛ	ⲧⲱⲛ	ADV	PINT	PronType=Int	10	conj	_	_
+23	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
 ~~~
 
@@ -156,49 +189,6 @@ The following 10 pairs of parts of speech are connected with `reparandum`: <tt><
 92	ⲙⲙⲟ	ⲛ	ADP	PREP	_	91	fixed	_	Orig=ⲙ̄
 93	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	90	obl	_	Orig=ⲙⲟⲟⲩ
 94	·	·	PUNCT	PUNCT	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 26	bgColor:blue
-# visual-style 26	fgColor:white
-# visual-style 26 9 reparandum	color:blue
-1	ϩⲧⲟⲟⲩⲉ	ϩⲧⲟⲟⲩⲉ	NOUN	N	_	28	obl:npmod	_	Entity=(time
-2	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	28	advmod	_	OrigLang=grc
-3	ⲛ	ⲛ	ADP	PREP	_	5	case	_	Orig=ⲛ̄
-4	ⲥⲟⲩ	ⲥⲟⲩ	NOUN	N	_	5	compound	_	_
-5	ⲟⲩⲁ	ⲟⲩⲁ	NUM	NUM	NumType=Card	1	nmod	_	Orig=ⲁ̄
-6	ⲙ	ⲛ	ADP	PREP	_	7	case	_	Orig=ⲙ̄
-7	ⲡⲁⲣⲙⲟⲩⲧⲉ	ⲡⲁⲣⲙⲟⲩⲧⲉ	PROPN	NPROP	_	5	nmod	_	Entity=(time-Parmouti)time)
-8	·	·	PUNCT	PUNCT	_	5	punct	_	_
-9	ⲁ	ⲁ	AUX	APST	_	26	reparandum	_	_
-10	ⲇⲓⲟⲕⲗⲏϯⲁⲛⲟⲥ	ⲇⲓⲟⲕⲗⲏϯⲁⲛⲟⲥ	PROPN	NPROP	Foreign=Yes	28	dislocated	_	Entity=(person-Diocletian|Orig=ⲇⲓⲟ̄ⲕⲗⲏϯⲁⲛⲟⲥ|OrigLang=la
-11	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
-12	ⲣⲣⲟ	ⲣⲣⲟ	NOUN	N	_	10	appos	_	Entity=person-Diocletian)|Orig=ⲣ̄ⲣⲟ
-13	ⲙⲛ	ⲙⲛ	ADP	PREP	_	15	case	_	Orig=ⲙⲛ̄
-14	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	15	det	_	Entity=(organization
-15	ⲥⲧⲣⲁⲧⲉⲩⲙⲁ	ⲥⲧⲣⲁⲧⲉⲩⲙⲁ	NOUN	N	Foreign=Yes	10	conj	_	Orig=ⲥϯⲣⲁⲧⲉⲩⲙⲁ|OrigLang=grc
-16	ⲧⲏⲣ	ⲧⲏⲣ	ADV	IMOD	PronType=Tot	15	advmod	_	_
-17	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	16	det	_	Entity=organization)|Orig=ϥ̄
-18	·	·	PUNCT	PUNCT	_	21	punct	_	_
-19	ⲙⲛ	ⲙⲛ	ADP	PREP	_	21	case	_	Orig=ⲙⲛ̄
-20	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	21	det	_	Entity=(person
-21	ⲉⲡⲁⲣⲭⲟⲥ	ⲉⲡⲁⲣⲭⲟⲥ	NOUN	N	Foreign=Yes	10	conj	_	Entity=person)|OrigLang=grc
-22	ⲙⲛ	ⲙⲛ	ADP	PREP	_	24	case	_	Orig=ⲙⲛ̄
-23	ⲛⲉ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	24	det	_	Entity=(person
-24	ⲥⲧⲣⲁⲧⲏⲗⲁⲧⲏⲥ	ⲥⲧⲣⲁⲧⲏⲗⲁⲧⲏⲥ	NOUN	N	Foreign=Yes	10	conj	_	Entity=person)|OrigLang=grc
-25	·	·	PUNCT	PUNCT	_	10	punct	_	_
-26	ⲁ	ⲁ	AUX	APST	_	28	aux	_	_
-27	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	28	nsubj	_	_
-28	ⲃⲱⲕ	ⲃⲱⲕ	VERB	V	VerbForm=Fin	0	root	_	_
-29	ⲉ	ⲉ	ADP	PREP	_	31	case	_	_
-30	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	31	det	_	Entity=(place
-31	ⲣⲡⲉ	ⲣⲡⲉ	NOUN	N	_	28	obl	_	Entity=place)|Orig=ⲣ̄ⲡⲉ
-32	:	:	PUNCT	PUNCT	_	28	punct	_	_
-33	—	—	PUNCT	PUNCT	_	28	punct	_	_
 
 ~~~
 

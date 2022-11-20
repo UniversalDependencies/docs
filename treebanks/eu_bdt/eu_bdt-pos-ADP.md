@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Basque-BDT: POS Tags: `ADP`
 
-There are 72 `ADP` lemmas (1%), 140 `ADP` types (1%) and 1876 `ADP` tokens (2%).
-Out of 16 observed tags, the rank of `ADP` is: 7 in number of lemmas, 9 in number of types and 11 in number of tokens.
+There are 71 `ADP` lemmas (1%), 139 `ADP` types (1%) and 1875 `ADP` tokens (2%).
+Out of 17 observed tags, the rank of `ADP` is: 8 in number of lemmas, 9 in number of types and 11 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>arte, _, arabera, inguru, aurre, aurka, gabe, gain, alde, buruz</em>
 
 The 10 most frequent `ADP` types:  <em>artean, arabera, aurka, arteko, arte, gabe, aurrean, inguruan, kontra, bezala</em>
 
-The 10 most frequent ambiguous lemmas: <em>arte</em> (<tt><a href="eu_bdt-pos-ADP.html">ADP</a></tt> 279, <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> 46), <em>_</em> (<tt><a href="eu_bdt-pos-ADP.html">ADP</a></tt> 126, <tt><a href="eu_bdt-pos-CCONJ.html">CCONJ</a></tt> 5, <tt><a href="eu_bdt-pos-PROPN.html">PROPN</a></tt> 2), <em>arabera</em> (<tt><a href="eu_bdt-pos-ADP.html">ADP</a></tt> 109, <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> 1), <em>inguru</em> (<tt><a href="eu_bdt-pos-ADP.html">ADP</a></tt> 95, <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> 40, <tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> 2), <em>aurre</em> (<tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> 142, <tt><a href="eu_bdt-pos-ADP.html">ADP</a></tt> 93), <em>aurka</em> (<tt><a href="eu_bdt-pos-ADP.html">ADP</a></tt> 88, <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> 10), <em>gabe</em> (<tt><a href="eu_bdt-pos-ADP.html">ADP</a></tt> 76, <tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> 46), <em>gain</em> (<tt><a href="eu_bdt-pos-ADP.html">ADP</a></tt> 75, <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> 32), <em>alde</em> (<tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> 104, <tt><a href="eu_bdt-pos-ADP.html">ADP</a></tt> 70, <tt><a href="eu_bdt-pos-INTJ.html">INTJ</a></tt> 4), <em>buruz</em> (<tt><a href="eu_bdt-pos-ADP.html">ADP</a></tt> 63, <tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> 5, <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>arte</em> (<tt><a href="eu_bdt-pos-ADP.html">ADP</a></tt> 279, <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> 46), <em>_</em> (<tt><a href="eu_bdt-pos-ADP.html">ADP</a></tt> 126, <tt><a href="eu_bdt-pos-CCONJ.html">CCONJ</a></tt> 5, <tt><a href="eu_bdt-pos-PROPN.html">PROPN</a></tt> 2), <em>arabera</em> (<tt><a href="eu_bdt-pos-ADP.html">ADP</a></tt> 109, <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> 1), <em>inguru</em> (<tt><a href="eu_bdt-pos-ADP.html">ADP</a></tt> 95, <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> 36, <tt><a href="eu_bdt-pos-DET.html">DET</a></tt> 4, <tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> 2), <em>aurre</em> (<tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> 142, <tt><a href="eu_bdt-pos-ADP.html">ADP</a></tt> 93), <em>aurka</em> (<tt><a href="eu_bdt-pos-ADP.html">ADP</a></tt> 88, <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> 10), <em>gabe</em> (<tt><a href="eu_bdt-pos-ADP.html">ADP</a></tt> 76, <tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> 46), <em>gain</em> (<tt><a href="eu_bdt-pos-ADP.html">ADP</a></tt> 75, <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> 32), <em>alde</em> (<tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> 104, <tt><a href="eu_bdt-pos-ADP.html">ADP</a></tt> 70, <tt><a href="eu_bdt-pos-INTJ.html">INTJ</a></tt> 4), <em>buruz</em> (<tt><a href="eu_bdt-pos-ADP.html">ADP</a></tt> 63, <tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> 5, <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>artean</em> (<tt><a href="eu_bdt-pos-ADP.html">ADP</a></tt> 124, <tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> 7, <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> 6), <em>arabera</em> (<tt><a href="eu_bdt-pos-ADP.html">ADP</a></tt> 109, <tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> 1), <em>aurka</em> (<tt><a href="eu_bdt-pos-ADP.html">ADP</a></tt> 88, <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> 4), <em>arteko</em> (<tt><a href="eu_bdt-pos-ADP.html">ADP</a></tt> 87, <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> 2), <em>arte</em> (<tt><a href="eu_bdt-pos-ADP.html">ADP</a></tt> 68, <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> 32), <em>gabe</em> (<tt><a href="eu_bdt-pos-ADP.html">ADP</a></tt> 62, <tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> 46), <em>aurrean</em> (<tt><a href="eu_bdt-pos-ADP.html">ADP</a></tt> 60, <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> 10), <em>inguruan</em> (<tt><a href="eu_bdt-pos-ADP.html">ADP</a></tt> 60, <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> 6), <em>kontra</em> (<tt><a href="eu_bdt-pos-ADP.html">ADP</a></tt> 56, <tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> 6, <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> 2), <em>bezala</em> (<tt><a href="eu_bdt-pos-ADP.html">ADP</a></tt> 55, <tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> 55)
 
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>artean</em> (<tt><a href="eu_bdt-pos-
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.944444 (the average of all parts of speech is 2.172787).
+The form / lemma ratio of `ADP` is 1.957746 (the average of all parts of speech is 2.170820).
 
 The 1st highest number of forms (38) was observed with the lemma “_”: <em>Aldeko, Aurkako, Gabeko, Kontrako, aitzina, aitzinetik, aldamenetik, alderat, antzean, at, aurkaa, azpitik, baitan, barnera, barruetatik, batera, bestaldean, bezalakoa, bezalakoen, bitarterako, bitartez, eskutik, gaineko, gisara, gorakoen, inguruetan, inguruetara, ingurura, irian, landara, menpe, menpera, ondora, partean, partez, pean, zai, zehar</em>.
 
@@ -61,7 +61,7 @@ The 2nd highest number of forms (5) was observed with the lemma “alde”: <em>
 
 The 3rd highest number of forms (4) was observed with the lemma “aurre”: <em>aurrean, aurreko, aurrerako, aurretik</em>.
 
-`ADP` occurs with 6 features: <tt><a href="eu_bdt-feat-Definite.html">Definite</a></tt> (1498; 80% instances), <tt><a href="eu_bdt-feat-Number.html">Number</a></tt> (1423; 76% instances), <tt><a href="eu_bdt-feat-Case.html">Case</a></tt> (1318; 70% instances), <tt><a href="eu_bdt-feat-Animacy.html">Animacy</a></tt> (715; 38% instances), <tt><a href="eu_bdt-feat-Person.html">Person</a></tt> (28; 1% instances), <tt><a href="eu_bdt-feat-Degree.html">Degree</a></tt> (5; 0% instances)
+`ADP` occurs with 6 features: <tt><a href="eu_bdt-feat-Definite.html">Definite</a></tt> (1497; 80% instances), <tt><a href="eu_bdt-feat-Number.html">Number</a></tt> (1422; 76% instances), <tt><a href="eu_bdt-feat-Case.html">Case</a></tt> (1317; 70% instances), <tt><a href="eu_bdt-feat-Animacy.html">Animacy</a></tt> (715; 38% instances), <tt><a href="eu_bdt-feat-Person.html">Person</a></tt> (28; 1% instances), <tt><a href="eu_bdt-feat-Degree.html">Degree</a></tt> (5; 0% instances)
 
 `ADP` occurs with 17 feature-value pairs: `Animacy=Anim`, `Animacy=Inan`, `Case=Abl`, `Case=Abs`, `Case=All`, `Case=Gen`, `Case=Ine`, `Case=Ins`, `Case=Loc`, `Definite=Def`, `Definite=Ind`, `Degree=Sup`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`
 
@@ -72,21 +72,17 @@ Examples: <em>arabera, kontra, buruz, zehar, bezala, begira, bezalako, gora, ond
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 2 different relations: <tt><a href="eu_bdt-dep-case.html">case</a></tt> (1871; 100% instances), <tt><a href="eu_bdt-dep-advcl.html">advcl</a></tt> (5; 0% instances)
+`ADP` nodes are attached to their parents using 3 different relations: <tt><a href="eu_bdt-dep-case.html">case</a></tt> (1869; 100% instances), <tt><a href="eu_bdt-dep-advcl.html">advcl</a></tt> (5; 0% instances), <tt><a href="eu_bdt-dep-mark.html">mark</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 7 different parts of speech: <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> (1072; 57% instances), <tt><a href="eu_bdt-pos-PROPN.html">PROPN</a></tt> (233; 12% instances), <tt><a href="eu_bdt-pos-DET.html">DET</a></tt> (207; 11% instances), <tt><a href="eu_bdt-pos-ADJ.html">ADJ</a></tt> (132; 7% instances), <tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt> (105; 6% instances), <tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> (86; 5% instances), <tt><a href="eu_bdt-pos-PRON.html">PRON</a></tt> (41; 2% instances)
+Parents of `ADP` nodes belong to 7 different parts of speech: <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> (1072; 57% instances), <tt><a href="eu_bdt-pos-PROPN.html">PROPN</a></tt> (233; 12% instances), <tt><a href="eu_bdt-pos-DET.html">DET</a></tt> (206; 11% instances), <tt><a href="eu_bdt-pos-ADJ.html">ADJ</a></tt> (132; 7% instances), <tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt> (105; 6% instances), <tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> (86; 5% instances), <tt><a href="eu_bdt-pos-PRON.html">PRON</a></tt> (41; 2% instances)
 
-1350 (72%) `ADP` nodes are leaves.
+1862 (99%) `ADP` nodes are leaves.
 
-470 (25%) `ADP` nodes have one child.
+13 (1%) `ADP` nodes have one child.
 
-51 (3%) `ADP` nodes have two children.
+The highest child degree of a `ADP` node is 1.
 
-5 (0%) `ADP` nodes have three or more children.
+Children of `ADP` nodes are attached using 3 different relations: <tt><a href="eu_bdt-dep-punct.html">punct</a></tt> (8; 62% instances), <tt><a href="eu_bdt-dep-advmod.html">advmod</a></tt> (4; 31% instances), <tt><a href="eu_bdt-dep-advcl.html">advcl</a></tt> (1; 8% instances)
 
-The highest child degree of a `ADP` node is 3.
-
-Children of `ADP` nodes are attached using 10 different relations: <tt><a href="eu_bdt-dep-nmod.html">nmod</a></tt> (362; 62% instances), <tt><a href="eu_bdt-dep-det.html">det</a></tt> (53; 9% instances), <tt><a href="eu_bdt-dep-advcl.html">advcl</a></tt> (52; 9% instances), <tt><a href="eu_bdt-dep-nummod.html">nummod</a></tt> (47; 8% instances), <tt><a href="eu_bdt-dep-acl.html">acl</a></tt> (26; 4% instances), <tt><a href="eu_bdt-dep-amod.html">amod</a></tt> (24; 4% instances), <tt><a href="eu_bdt-dep-punct.html">punct</a></tt> (16; 3% instances), <tt><a href="eu_bdt-dep-advmod.html">advmod</a></tt> (5; 1% instances), <tt><a href="eu_bdt-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="eu_bdt-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
-
-Children of `ADP` nodes belong to 12 different parts of speech: <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> (198; 34% instances), <tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt> (107; 18% instances), <tt><a href="eu_bdt-pos-PROPN.html">PROPN</a></tt> (93; 16% instances), <tt><a href="eu_bdt-pos-VERB.html">VERB</a></tt> (82; 14% instances), <tt><a href="eu_bdt-pos-DET.html">DET</a></tt> (39; 7% instances), <tt><a href="eu_bdt-pos-ADJ.html">ADJ</a></tt> (26; 4% instances), <tt><a href="eu_bdt-pos-PUNCT.html">PUNCT</a></tt> (16; 3% instances), <tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> (10; 2% instances), <tt><a href="eu_bdt-pos-PRON.html">PRON</a></tt> (8; 1% instances), <tt><a href="eu_bdt-pos-CCONJ.html">CCONJ</a></tt> (5; 1% instances), <tt><a href="eu_bdt-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="eu_bdt-pos-AUX.html">AUX</a></tt> (1; 0% instances)
+Children of `ADP` nodes belong to 3 different parts of speech: <tt><a href="eu_bdt-pos-PUNCT.html">PUNCT</a></tt> (8; 62% instances), <tt><a href="eu_bdt-pos-CCONJ.html">CCONJ</a></tt> (4; 31% instances), <tt><a href="eu_bdt-pos-VERB.html">VERB</a></tt> (1; 8% instances)
 

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.1 release.
 The following people have contributed to making this treebank part of UD: Željko Agić, Nikola Ljubešić, Daniel Zeman.
 
 Repository: [UD_Croatian-SET](https://github.com/UniversalDependencies/UD_Croatian-SET)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhr_set210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhr_set211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-SA 4.0
 
@@ -109,7 +109,7 @@ See file LICENSE.txt for further licensing information.
 
 ## Relations
 
-[acl](hr_set-dep-acl.html) – [advcl](hr_set-dep-advcl.html) – [advmod](hr_set-dep-advmod.html) – [advmod:emph](hr_set-dep-advmod-emph.html) – [amod](hr_set-dep-amod.html) – [appos](hr_set-dep-appos.html) – [aux](hr_set-dep-aux.html) – [case](hr_set-dep-case.html) – [cc](hr_set-dep-cc.html) – [ccomp](hr_set-dep-ccomp.html) – [compound](hr_set-dep-compound.html) – [conj](hr_set-dep-conj.html) – [cop](hr_set-dep-cop.html) – [csubj](hr_set-dep-csubj.html) – [dep](hr_set-dep-dep.html) – [det](hr_set-dep-det.html) – [det:numgov](hr_set-dep-det-numgov.html) – [discourse](hr_set-dep-discourse.html) – [dislocated](hr_set-dep-dislocated.html) – [expl](hr_set-dep-expl.html) – [fixed](hr_set-dep-fixed.html) – [flat](hr_set-dep-flat.html) – [flat:foreign](hr_set-dep-flat-foreign.html) – [iobj](hr_set-dep-iobj.html) – [list](hr_set-dep-list.html) – [mark](hr_set-dep-mark.html) – [nmod](hr_set-dep-nmod.html) – [nsubj](hr_set-dep-nsubj.html) – [nummod](hr_set-dep-nummod.html) – [obj](hr_set-dep-obj.html) – [obl](hr_set-dep-obl.html) – [orphan](hr_set-dep-orphan.html) – [parataxis](hr_set-dep-parataxis.html) – [punct](hr_set-dep-punct.html) – [root](hr_set-dep-root.html) – [vocative](hr_set-dep-vocative.html) – [xcomp](hr_set-dep-xcomp.html)
+[acl](hr_set-dep-acl.html) – [advcl](hr_set-dep-advcl.html) – [advmod](hr_set-dep-advmod.html) – [advmod:emph](hr_set-dep-advmod-emph.html) – [amod](hr_set-dep-amod.html) – [appos](hr_set-dep-appos.html) – [aux](hr_set-dep-aux.html) – [case](hr_set-dep-case.html) – [cc](hr_set-dep-cc.html) – [ccomp](hr_set-dep-ccomp.html) – [compound](hr_set-dep-compound.html) – [conj](hr_set-dep-conj.html) – [cop](hr_set-dep-cop.html) – [csubj](hr_set-dep-csubj.html) – [dep](hr_set-dep-dep.html) – [det](hr_set-dep-det.html) – [det:numgov](hr_set-dep-det-numgov.html) – [discourse](hr_set-dep-discourse.html) – [dislocated](hr_set-dep-dislocated.html) – [expl](hr_set-dep-expl.html) – [fixed](hr_set-dep-fixed.html) – [flat](hr_set-dep-flat.html) – [flat:foreign](hr_set-dep-flat-foreign.html) – [iobj](hr_set-dep-iobj.html) – [list](hr_set-dep-list.html) – [mark](hr_set-dep-mark.html) – [nmod](hr_set-dep-nmod.html) – [nsubj](hr_set-dep-nsubj.html) – [nummod](hr_set-dep-nummod.html) – [nummod:gov](hr_set-dep-nummod-gov.html) – [obj](hr_set-dep-obj.html) – [obl](hr_set-dep-obl.html) – [orphan](hr_set-dep-orphan.html) – [parataxis](hr_set-dep-parataxis.html) – [punct](hr_set-dep-punct.html) – [root](hr_set-dep-root.html) – [vocative](hr_set-dep-vocative.html) – [xcomp](hr_set-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -841,19 +841,19 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB-Fin--NOUN (7)</li>
-      <li>VERB-Fin--NOUN-Acc (31)</li>
+      <li>VERB-Fin--NOUN-Acc (29)</li>
       <li>VERB-Fin--NOUN-Dat (2)</li>
-      <li>VERB-Fin--NOUN-Gen (111)</li>
+      <li>VERB-Fin--NOUN-Gen (108)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(do) (3)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(od) (14)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(od) (17)</li>
       <li>VERB-Fin--NOUN-Nom (2688)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(diljem) (1)</li>
       <li>VERB-Fin--NOUN-Voc (1)</li>
       <li>VERB-Fin--PRON-Acc (6)</li>
       <li>VERB-Fin--PRON-Gen (5)</li>
       <li>VERB-Fin--PRON-Gen-ADP(od) (1)</li>
-      <li>VERB-Fin--PRON-Nom (349)</li>
-      <li>VERB-Inf--NOUN-Acc (12)</li>
+      <li>VERB-Fin--PRON-Nom (329)</li>
+      <li>VERB-Inf--NOUN-Acc (11)</li>
       <li>VERB-Inf--NOUN-Gen (15)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(od) (2)</li>
       <li>VERB-Inf--NOUN-Nom (471)</li>
@@ -861,16 +861,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Nom (53)</li>
       <li>VERB-Part--NOUN (6)</li>
       <li>VERB-Part--NOUN-Acc (12)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(na) (1)</li>
-      <li>VERB-Part--NOUN-Gen (81)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(od) (21)</li>
+      <li>VERB-Part--NOUN-Gen (76)</li>
+      <li>VERB-Part--NOUN-Gen-ADP(od) (20)</li>
       <li>VERB-Part--NOUN-Gen-ADP(oko) (1)</li>
-      <li>VERB-Part--NOUN-Nom (2289)</li>
+      <li>VERB-Part--NOUN-Nom (2293)</li>
       <li>VERB-Part--NOUN-Nom-ADP(između) (1)</li>
       <li>VERB-Part--PRON-Acc (5)</li>
       <li>VERB-Part--PRON-Dat (1)</li>
       <li>VERB-Part--PRON-Gen (6)</li>
-      <li>VERB-Part--PRON-Nom (208)</li>
+      <li>VERB-Part--PRON-Nom (190)</li>
     </ul>
   </li>
 </ul>
@@ -882,13 +881,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Acc (1914)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(na) (3)</li>
       <li>VERB-Fin--NOUN-Dat (116)</li>
-      <li>VERB-Fin--NOUN-Gen (203)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(od) (12)</li>
+      <li>VERB-Fin--NOUN-Gen (205)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(od) (13)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(preko) (1)</li>
       <li>VERB-Fin--NOUN-Ins (31)</li>
       <li>VERB-Fin--NOUN-Loc (4)</li>
       <li>VERB-Fin--NOUN-Nom (45)</li>
-      <li>VERB-Fin--PRON-Acc (499)</li>
+      <li>VERB-Fin--PRON-Acc (500)</li>
       <li>VERB-Fin--PRON-Acc-ADP(na) (2)</li>
       <li>VERB-Fin--PRON-Acc-ADP(za) (3)</li>
       <li>VERB-Fin--PRON-Dat (72)</li>
@@ -896,9 +895,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Gen-ADP(od) (1)</li>
       <li>VERB-Fin--PRON-Ins (3)</li>
       <li>VERB-Fin--PRON-Loc (1)</li>
-      <li>VERB-Fin--PRON-Nom (11)</li>
+      <li>VERB-Fin--PRON-Nom (14)</li>
       <li>VERB-Inf--NOUN (3)</li>
-      <li>VERB-Inf--NOUN-Acc (1255)</li>
+      <li>VERB-Inf--NOUN-Acc (1257)</li>
       <li>VERB-Inf--NOUN-Dat (40)</li>
       <li>VERB-Inf--NOUN-Gen (96)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(do) (1)</li>
@@ -913,18 +912,18 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Ins (2)</li>
       <li>VERB-Inf--PRON-Nom (3)</li>
       <li>VERB-Part--NOUN (1)</li>
-      <li>VERB-Part--NOUN-Acc (1821)</li>
+      <li>VERB-Part--NOUN-Acc (1819)</li>
       <li>VERB-Part--NOUN-Acc-ADP(na) (1)</li>
       <li>VERB-Part--NOUN-Acc-ADP(po) (1)</li>
       <li>VERB-Part--NOUN-Acc-ADP(za) (1)</li>
       <li>VERB-Part--NOUN-Dat (100)</li>
-      <li>VERB-Part--NOUN-Gen (167)</li>
+      <li>VERB-Part--NOUN-Gen (171)</li>
       <li>VERB-Part--NOUN-Gen-ADP(do) (1)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(od) (6)</li>
+      <li>VERB-Part--NOUN-Gen-ADP(od) (7)</li>
       <li>VERB-Part--NOUN-Ins (26)</li>
       <li>VERB-Part--NOUN-Loc (11)</li>
       <li>VERB-Part--NOUN-Loc-ADP(o) (1)</li>
-      <li>VERB-Part--NOUN-Nom (36)</li>
+      <li>VERB-Part--NOUN-Nom (38)</li>
       <li>VERB-Part--PRON-Acc (310)</li>
       <li>VERB-Part--PRON-Acc-ADP(na) (1)</li>
       <li>VERB-Part--PRON-Acc-ADP(za) (4)</li>
@@ -932,7 +931,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--PRON-Gen (2)</li>
       <li>VERB-Part--PRON-Ins (1)</li>
       <li>VERB-Part--PRON-Loc (1)</li>
-      <li>VERB-Part--PRON-Nom (3)</li>
+      <li>VERB-Part--PRON-Nom (11)</li>
     </ul>
   </li>
 </ul>
@@ -982,6 +981,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 3 relation subtypes: <a>advmod:emph</a>, <a>det:numgov</a>, <a>flat:foreign</a></li>
+<li>This corpus uses 4 relation subtypes: <a>advmod:emph</a>, <a>det:numgov</a>, <a>flat:foreign</a>, <a>nummod:gov</a></li>
 <li>The following 3 relation types are not used in this corpus at all: <a>clf</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

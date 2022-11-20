@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.5 release.
 The following people have contributed to making this treebank part of UD: Alessandra T. Cignarella, Cristina Bosco, Manuela Sanguinetti.
 
 Repository: [UD_Italian-TWITTIRO](https://github.com/UniversalDependencies/UD_Italian-TWITTIRO)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_twittiro210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_twittiro211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-SA 4.0
 
@@ -71,11 +71,11 @@ The overlapping content however has been distributed such that it ends up in the
 
 ## Features
 
-[Clitic](it_twittiro-feat-Clitic.html) – [Definite](it_twittiro-feat-Definite.html) – [Degree](it_twittiro-feat-Degree.html) – [Foreign](it_twittiro-feat-Foreign.html) – [Gender](it_twittiro-feat-Gender.html) – [Mood](it_twittiro-feat-Mood.html) – [Number](it_twittiro-feat-Number.html) – [NumType](it_twittiro-feat-NumType.html) – [Person](it_twittiro-feat-Person.html) – [Polarity](it_twittiro-feat-Polarity.html) – [Poss](it_twittiro-feat-Poss.html) – [PronType](it_twittiro-feat-PronType.html) – [Tense](it_twittiro-feat-Tense.html) – [VerbForm](it_twittiro-feat-VerbForm.html)
+[Clitic](it_twittiro-feat-Clitic.html) – [Definite](it_twittiro-feat-Definite.html) – [Degree](it_twittiro-feat-Degree.html) – [Foreign](it_twittiro-feat-Foreign.html) – [Gender](it_twittiro-feat-Gender.html) – [Mood](it_twittiro-feat-Mood.html) – [Number](it_twittiro-feat-Number.html) – [NumType](it_twittiro-feat-NumType.html) – [Person](it_twittiro-feat-Person.html) – [Polarity](it_twittiro-feat-Polarity.html) – [Poss](it_twittiro-feat-Poss.html) – [PronType](it_twittiro-feat-PronType.html) – [Tense](it_twittiro-feat-Tense.html) – [Typo](it_twittiro-feat-Typo.html) – [VerbForm](it_twittiro-feat-VerbForm.html)
 
 ## Relations
 
-[acl](it_twittiro-dep-acl.html) – [acl:relcl](it_twittiro-dep-acl-relcl.html) – [advcl](it_twittiro-dep-advcl.html) – [advmod](it_twittiro-dep-advmod.html) – [amod](it_twittiro-dep-amod.html) – [appos](it_twittiro-dep-appos.html) – [aux](it_twittiro-dep-aux.html) – [aux:pass](it_twittiro-dep-aux-pass.html) – [case](it_twittiro-dep-case.html) – [cc](it_twittiro-dep-cc.html) – [ccomp](it_twittiro-dep-ccomp.html) – [compound](it_twittiro-dep-compound.html) – [conj](it_twittiro-dep-conj.html) – [cop](it_twittiro-dep-cop.html) – [csubj](it_twittiro-dep-csubj.html) – [csubj:pass](it_twittiro-dep-csubj-pass.html) – [dep](it_twittiro-dep-dep.html) – [det](it_twittiro-dep-det.html) – [det:poss](it_twittiro-dep-det-poss.html) – [det:predet](it_twittiro-dep-det-predet.html) – [discourse](it_twittiro-dep-discourse.html) – [discourse:emo](it_twittiro-dep-discourse-emo.html) – [dislocated](it_twittiro-dep-dislocated.html) – [expl](it_twittiro-dep-expl.html) – [expl:impers](it_twittiro-dep-expl-impers.html) – [expl:pass](it_twittiro-dep-expl-pass.html) – [fixed](it_twittiro-dep-fixed.html) – [flat](it_twittiro-dep-flat.html) – [flat:foreign](it_twittiro-dep-flat-foreign.html) – [flat:name](it_twittiro-dep-flat-name.html) – [goeswith](it_twittiro-dep-goeswith.html) – [iobj](it_twittiro-dep-iobj.html) – [list](it_twittiro-dep-list.html) – [mark](it_twittiro-dep-mark.html) – [nmod](it_twittiro-dep-nmod.html) – [nsubj](it_twittiro-dep-nsubj.html) – [nsubj:pass](it_twittiro-dep-nsubj-pass.html) – [nummod](it_twittiro-dep-nummod.html) – [obj](it_twittiro-dep-obj.html) – [obl](it_twittiro-dep-obl.html) – [obl:agent](it_twittiro-dep-obl-agent.html) – [orphan](it_twittiro-dep-orphan.html) – [parataxis](it_twittiro-dep-parataxis.html) – [parataxis:appos](it_twittiro-dep-parataxis-appos.html) – [parataxis:discourse](it_twittiro-dep-parataxis-discourse.html) – [parataxis:hashtag](it_twittiro-dep-parataxis-hashtag.html) – [parataxis:insert](it_twittiro-dep-parataxis-insert.html) – [parataxis:nsubj](it_twittiro-dep-parataxis-nsubj.html) – [parataxis:obj](it_twittiro-dep-parataxis-obj.html) – [punct](it_twittiro-dep-punct.html) – [root](it_twittiro-dep-root.html) – [vocative](it_twittiro-dep-vocative.html) – [vocative:mention](it_twittiro-dep-vocative-mention.html) – [xcomp](it_twittiro-dep-xcomp.html)
+[acl](it_twittiro-dep-acl.html) – [acl:relcl](it_twittiro-dep-acl-relcl.html) – [advcl](it_twittiro-dep-advcl.html) – [advmod](it_twittiro-dep-advmod.html) – [amod](it_twittiro-dep-amod.html) – [appos](it_twittiro-dep-appos.html) – [aux](it_twittiro-dep-aux.html) – [aux:pass](it_twittiro-dep-aux-pass.html) – [case](it_twittiro-dep-case.html) – [cc](it_twittiro-dep-cc.html) – [ccomp](it_twittiro-dep-ccomp.html) – [compound](it_twittiro-dep-compound.html) – [conj](it_twittiro-dep-conj.html) – [cop](it_twittiro-dep-cop.html) – [csubj](it_twittiro-dep-csubj.html) – [csubj:pass](it_twittiro-dep-csubj-pass.html) – [dep](it_twittiro-dep-dep.html) – [det](it_twittiro-dep-det.html) – [det:poss](it_twittiro-dep-det-poss.html) – [det:predet](it_twittiro-dep-det-predet.html) – [discourse](it_twittiro-dep-discourse.html) – [discourse:emo](it_twittiro-dep-discourse-emo.html) – [dislocated](it_twittiro-dep-dislocated.html) – [expl](it_twittiro-dep-expl.html) – [expl:impers](it_twittiro-dep-expl-impers.html) – [expl:pass](it_twittiro-dep-expl-pass.html) – [fixed](it_twittiro-dep-fixed.html) – [flat](it_twittiro-dep-flat.html) – [flat:foreign](it_twittiro-dep-flat-foreign.html) – [flat:name](it_twittiro-dep-flat-name.html) – [goeswith](it_twittiro-dep-goeswith.html) – [iobj](it_twittiro-dep-iobj.html) – [list](it_twittiro-dep-list.html) – [mark](it_twittiro-dep-mark.html) – [nmod](it_twittiro-dep-nmod.html) – [nsubj](it_twittiro-dep-nsubj.html) – [nsubj:outer](it_twittiro-dep-nsubj-outer.html) – [nsubj:pass](it_twittiro-dep-nsubj-pass.html) – [nummod](it_twittiro-dep-nummod.html) – [obj](it_twittiro-dep-obj.html) – [obl](it_twittiro-dep-obl.html) – [obl:agent](it_twittiro-dep-obl-agent.html) – [orphan](it_twittiro-dep-orphan.html) – [parataxis](it_twittiro-dep-parataxis.html) – [parataxis:appos](it_twittiro-dep-parataxis-appos.html) – [parataxis:discourse](it_twittiro-dep-parataxis-discourse.html) – [parataxis:hashtag](it_twittiro-dep-parataxis-hashtag.html) – [parataxis:insert](it_twittiro-dep-parataxis-insert.html) – [parataxis:nsubj](it_twittiro-dep-parataxis-nsubj.html) – [parataxis:obj](it_twittiro-dep-parataxis-obj.html) – [punct](it_twittiro-dep-punct.html) – [root](it_twittiro-dep-root.html) – [vocative](it_twittiro-dep-vocative.html) – [vocative:mention](it_twittiro-dep-vocative-mention.html) – [xcomp](it_twittiro-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -588,6 +588,18 @@ The overlapping content however has been distributed such that it ends up in the
   </li>
 </ul>
 
+<ul>
+  <li><a>Typo</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>ADV: in</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
 <h2>Syntax</h2>
 
 <h3>Auxiliary Verbs and Copula</h3>
@@ -617,7 +629,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON (15)</li>
       <li>VERB-Part--NOUN (65)</li>
       <li>VERB-Part--NOUN-ADP(quattro) (1)</li>
-      <li>VERB-Part--PRON (41)</li>
+      <li>VERB-Part--PRON (40)</li>
     </ul>
   </li>
 </ul>
@@ -671,6 +683,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 19 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:poss</a>, <a>det:predet</a>, <a>discourse:emo</a>, <a>expl:impers</a>, <a>expl:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>parataxis:appos</a>, <a>parataxis:discourse</a>, <a>parataxis:hashtag</a>, <a>parataxis:insert</a>, <a>parataxis:nsubj</a>, <a>parataxis:obj</a>, <a>vocative:mention</a></li>
+<li>This corpus uses 20 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:poss</a>, <a>det:predet</a>, <a>discourse:emo</a>, <a>expl:impers</a>, <a>expl:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>parataxis:appos</a>, <a>parataxis:discourse</a>, <a>parataxis:hashtag</a>, <a>parataxis:insert</a>, <a>parataxis:nsubj</a>, <a>parataxis:obj</a>, <a>vocative:mention</a></li>
 <li>The following 2 relation types are not used in this corpus at all: <a>clf</a>, <a>reparandum</a></li>
 </ul>

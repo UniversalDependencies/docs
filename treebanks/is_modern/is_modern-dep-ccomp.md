@@ -8,29 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3622 nodes (2%) are attached to their parents as `ccomp`.
+1813 nodes (2%) are attached to their parents as `ccomp`.
 
-3592 instances of `ccomp` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.29817780231916.
+1798 instances of `ccomp` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.2680639823497.
 
-The following 69 pairs of parts of speech are connected with `ccomp`: <tt><a href="is_modern-pos-VERB.html">VERB</a></tt>-<tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (1206; 33% instances), <tt><a href="is_modern-pos-PRON.html">PRON</a></tt>-<tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (706; 19% instances), <tt><a href="is_modern-pos-VERB.html">VERB</a></tt>-<tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> (286; 8% instances), <tt><a href="is_modern-pos-VERB.html">VERB</a></tt>-<tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (188; 5% instances), <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt>-<tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (176; 5% instances), <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt>-<tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (140; 4% instances), <tt><a href="is_modern-pos-VERB.html">VERB</a></tt>-<tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (126; 3% instances), <tt><a href="is_modern-pos-PRON.html">PRON</a></tt>-<tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> (90; 2% instances), <tt><a href="is_modern-pos-DET.html">DET</a></tt>-<tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (86; 2% instances), <tt><a href="is_modern-pos-PRON.html">PRON</a></tt>-<tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (86; 2% instances), <tt><a href="is_modern-pos-PRON.html">PRON</a></tt>-<tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (68; 2% instances), <tt><a href="is_modern-pos-VERB.html">VERB</a></tt>-<tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (58; 2% instances), <tt><a href="is_modern-pos-VERB.html">VERB</a></tt>-<tt><a href="is_modern-pos-DET.html">DET</a></tt> (50; 1% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt>-<tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (22; 1% instances), <tt><a href="is_modern-pos-PRON.html">PRON</a></tt>-<tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (22; 1% instances), <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt>-<tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (20; 1% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt>-<tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (20; 1% instances), <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt>-<tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (18; 0% instances), <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt>-<tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> (16; 0% instances), <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt>-<tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (16; 0% instances), <tt><a href="is_modern-pos-VERB.html">VERB</a></tt>-<tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (16; 0% instances), <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt>-<tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> (14; 0% instances), <tt><a href="is_modern-pos-VERB.html">VERB</a></tt>-<tt><a href="is_modern-pos-PART.html">PART</a></tt> (14; 0% instances), <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt>-<tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (12; 0% instances), <tt><a href="is_modern-pos-PART.html">PART</a></tt>-<tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (12; 0% instances), <tt><a href="is_modern-pos-DET.html">DET</a></tt>-<tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> (10; 0% instances), <tt><a href="is_modern-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (10; 0% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt>-<tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (8; 0% instances), <tt><a href="is_modern-pos-PRON.html">PRON</a></tt>-<tt><a href="is_modern-pos-DET.html">DET</a></tt> (8; 0% instances), <tt><a href="is_modern-pos-ADP.html">ADP</a></tt>-<tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (6; 0% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt>-<tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="is_modern-pos-DET.html">DET</a></tt>-<tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="is_modern-pos-PART.html">PART</a></tt>-<tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="is_modern-pos-PRON.html">PRON</a></tt>-<tt><a href="is_modern-pos-PART.html">PART</a></tt> (6; 0% instances), <tt><a href="is_modern-pos-VERB.html">VERB</a></tt>-<tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt>-<tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt>-<tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt>-<tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="is_modern-pos-DET.html">DET</a></tt>-<tt><a href="is_modern-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt>-<tt><a href="is_modern-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="is_modern-pos-PRON.html">PRON</a></tt>-<tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="is_modern-pos-PRON.html">PRON</a></tt>-<tt><a href="is_modern-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt>-<tt><a href="is_modern-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt>-<tt><a href="is_modern-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt>-<tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-ADP.html">ADP</a></tt>-<tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt>-<tt><a href="is_modern-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt>-<tt><a href="is_modern-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt>-<tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt>-<tt><a href="is_modern-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt>-<tt><a href="is_modern-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt>-<tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt>-<tt><a href="is_modern-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-DET.html">DET</a></tt>-<tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-DET.html">DET</a></tt>-<tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-DET.html">DET</a></tt>-<tt><a href="is_modern-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-INTJ.html">INTJ</a></tt>-<tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-PART.html">PART</a></tt>-<tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-PART.html">PART</a></tt>-<tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-PART.html">PART</a></tt>-<tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-PRON.html">PRON</a></tt>-<tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-VERB.html">VERB</a></tt>-<tt><a href="is_modern-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-VERB.html">VERB</a></tt>-<tt><a href="is_modern-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-VERB.html">VERB</a></tt>-<tt><a href="is_modern-pos-X.html">X</a></tt> (2; 0% instances).
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 5 ccomp	color:blue
-1	Maður	maður	PRON	MAN-N	_	2	nsubj	_	_
-2	spyr	spyrja	VERB	VBPI	Mood=Ind|Tense=Pres	0	root	_	_
-3	sig	sig	PRON	PRO-A	Case=Acc	2	iobj	_	_
-4	hvað	hver	PRON	WPRO-A	Case=Acc	5	obj	_	_
-5	liggi	liggja	VERB	VBPS	Mood=Sub|Tense=Pres	2	ccomp	_	_
-6	á	á	ADP	RP	_	5	compound:prt	_	SpaceAfter=No
-7	.	.	PUNCT	.	_	6	punct	_	_
-
-~~~
+The following 69 pairs of parts of speech are connected with `ccomp`: <tt><a href="is_modern-pos-VERB.html">VERB</a></tt>-<tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (601; 33% instances), <tt><a href="is_modern-pos-PRON.html">PRON</a></tt>-<tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (352; 19% instances), <tt><a href="is_modern-pos-VERB.html">VERB</a></tt>-<tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> (144; 8% instances), <tt><a href="is_modern-pos-VERB.html">VERB</a></tt>-<tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (94; 5% instances), <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt>-<tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (89; 5% instances), <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt>-<tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (73; 4% instances), <tt><a href="is_modern-pos-VERB.html">VERB</a></tt>-<tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (63; 3% instances), <tt><a href="is_modern-pos-PRON.html">PRON</a></tt>-<tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> (45; 2% instances), <tt><a href="is_modern-pos-DET.html">DET</a></tt>-<tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (43; 2% instances), <tt><a href="is_modern-pos-PRON.html">PRON</a></tt>-<tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (43; 2% instances), <tt><a href="is_modern-pos-PRON.html">PRON</a></tt>-<tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (34; 2% instances), <tt><a href="is_modern-pos-VERB.html">VERB</a></tt>-<tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (29; 2% instances), <tt><a href="is_modern-pos-VERB.html">VERB</a></tt>-<tt><a href="is_modern-pos-DET.html">DET</a></tt> (25; 1% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt>-<tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (11; 1% instances), <tt><a href="is_modern-pos-PRON.html">PRON</a></tt>-<tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (11; 1% instances), <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt>-<tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (10; 1% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt>-<tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (10; 1% instances), <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt>-<tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (9; 0% instances), <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt>-<tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> (8; 0% instances), <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt>-<tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (8; 0% instances), <tt><a href="is_modern-pos-VERB.html">VERB</a></tt>-<tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt>-<tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="is_modern-pos-VERB.html">VERB</a></tt>-<tt><a href="is_modern-pos-PART.html">PART</a></tt> (7; 0% instances), <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt>-<tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="is_modern-pos-PART.html">PART</a></tt>-<tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (6; 0% instances), <tt><a href="is_modern-pos-DET.html">DET</a></tt>-<tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="is_modern-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt>-<tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="is_modern-pos-PRON.html">PRON</a></tt>-<tt><a href="is_modern-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="is_modern-pos-ADP.html">ADP</a></tt>-<tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt>-<tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="is_modern-pos-DET.html">DET</a></tt>-<tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="is_modern-pos-PART.html">PART</a></tt>-<tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="is_modern-pos-PRON.html">PRON</a></tt>-<tt><a href="is_modern-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="is_modern-pos-VERB.html">VERB</a></tt>-<tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt>-<tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt>-<tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt>-<tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-DET.html">DET</a></tt>-<tt><a href="is_modern-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt>-<tt><a href="is_modern-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-PRON.html">PRON</a></tt>-<tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-PRON.html">PRON</a></tt>-<tt><a href="is_modern-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt>-<tt><a href="is_modern-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt>-<tt><a href="is_modern-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt>-<tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="is_modern-pos-ADP.html">ADP</a></tt>-<tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt>-<tt><a href="is_modern-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt>-<tt><a href="is_modern-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt>-<tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt>-<tt><a href="is_modern-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt>-<tt><a href="is_modern-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt>-<tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt>-<tt><a href="is_modern-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="is_modern-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="is_modern-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="is_modern-pos-DET.html">DET</a></tt>-<tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="is_modern-pos-DET.html">DET</a></tt>-<tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="is_modern-pos-DET.html">DET</a></tt>-<tt><a href="is_modern-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="is_modern-pos-INTJ.html">INTJ</a></tt>-<tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="is_modern-pos-PART.html">PART</a></tt>-<tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="is_modern-pos-PART.html">PART</a></tt>-<tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="is_modern-pos-PART.html">PART</a></tt>-<tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="is_modern-pos-PRON.html">PRON</a></tt>-<tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="is_modern-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="is_modern-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="is_modern-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="is_modern-pos-VERB.html">VERB</a></tt>-<tt><a href="is_modern-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="is_modern-pos-VERB.html">VERB</a></tt>-<tt><a href="is_modern-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="is_modern-pos-VERB.html">VERB</a></tt>-<tt><a href="is_modern-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -39,35 +22,60 @@ The following 69 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 8 ccomp	color:blue
-1	Ég	ég	PRON	PRO-N	Case=Nom	2	nsubj	_	_
-2	veit	vita	VERB	VBPI	Mood=Ind|Tense=Pres	0	root	_	_
-3	það	það	PRON	PRO-A	Case=Acc	2	obj	_	_
-4	ekki	ekki	ADV	NEG	_	2	advmod	_	_
-5	því	það	PRON	PRO-D	Case=Dat	2	obl	_	_
-6	að	að	SCONJ	C	_	8	mark	_	_
-7	það	það	PRON	PRO-N	Case=Nom	8	nsubj	_	_
-8	kemur	koma	VERB	VBPI	Mood=Ind|Tense=Pres	5	ccomp	_	_
-9	ekki	ekki	ADV	NEG	_	8	advmod	_	_
-10	fram	fram	ADP	RP	_	8	compound:prt	_	_
-11	í	í	ADP	P	_	12	case	_	_
-12	frumvarpinu	frumvarp	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	8	obl	_	SpaceAfter=No
-13	.	.	PUNCT	.	_	12	punct	_	_
+1	Ég	ég	PRON	PRO-N	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	root	_	IFD_tag=fp1en
+2	var	vera	AUX	BEDI	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	1	cop	_	IFD_tag=sfg1eþ
+3	einmitt	einmitt	ADV	ADV	_	1	advmod	_	IFD_tag=aa
+4	að	að	PART	TO	_	5	mark	_	IFD_tag=cn
+5	gagnrýna	gagnrýna	VERB	VB	VerbForm=Inf|Voice=Act	1	acl	_	IFD_tag=sng
+6	hvernig	hvernig	ADV	WADV	_	8	advmod	_	IFD_tag=aa
+7	hún	hún	PRON	PRO-N	Case=Nom|Gender=Fem|Number=Sing|PronType=Prs	8	nsubj	_	IFD_tag=fpven
+8	virkar	virka	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	ccomp	_	IFD_tag=sfg3en|SpaceAfter=No
+9	.	.	PUNCT	.	_	8	punct	_	IFD_tag=.
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 4 ccomp	color:blue
-1	Mér	ég	PRON	PRO-D	Case=Dat	2	nsubj	_	_
-2	finnst	finna	VERB	VBPI	Mood=Ind|Tense=Pres	0	root	_	_
-3	það	það	PRON	PRO-N	Case=Nom	4	nsubj	_	_
-4	faglegt	faglegur	ADJ	ADJ-N	Case=Nom|Degree=Pos	2	ccomp	_	_
-5	ferli	ferli	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	4	conj	_	SpaceAfter=No
-6	.	.	PUNCT	.	_	5	punct	_	_
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 12 ccomp	color:blue
+1	Hann	hann	PRON	PRO-N	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	2	nsubj	_	IFD_tag=fpken
+2	bíður	bíða	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	IFD_tag=sfg3en
+3	nú	nú	ADV	ADV	_	2	advmod	_	IFD_tag=aa
+4	eftir	eftir	ADP	P	_	5	case	_	IFD_tag=aþ
+5	því	það	PRON	PRO-D	Case=Dat|Gender=Neut|Number=Sing|PronType=Prs	2	obl	_	IFD_tag=fpheþ
+6	að	að	SCONJ	C	_	12	mark	_	IFD_tag=c
+7	fleiri	margur	DET	QR-N	Case=Nom|Definite=Def|Degree=Cmp|Gender=Masc|Number=Plur	12	nsubj	_	IFD_tag=lkfnvm
+8	af	af	ADP	P	_	9	case	_	IFD_tag=aþ
+9	metum	met	NOUN	NS-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Plur	7	obl	_	IFD_tag=nhfþ
+10	sínum	sinn	PRON	PRO-D	Case=Dat|Gender=Neut|Number=Plur|PronType=Prs	9	nmod:poss	_	IFD_tag=fehfþ
+11	verði	verða	AUX	RDPS	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	aux	_	IFD_tag=svg3fn
+12	slegin	slá	VERB	VAN	Case=Nom|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Act	5	ccomp	_	IFD_tag=sþghfn|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	punct	_	IFD_tag=.
+
+~~~
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 8 ccomp	color:blue
+1	En	en	CCONJ	CONJ	_	3	cc	_	IFD_tag=c
+2	ég	ég	PRON	PRO-N	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	IFD_tag=fp1en
+3	skil	skilja	VERB	VBPI	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	IFD_tag=sfg1en
+4	vel	vel	ADV	ADV	_	3	advmod	_	IFD_tag=aa
+5	að	að	SCONJ	C	_	8	mark	_	IFD_tag=c
+6	hún	hún	PRON	PRO-N	Case=Nom|Gender=Fem|Number=Sing|PronType=Prs	8	nsubj	_	IFD_tag=fpven
+7	sé	vera	AUX	BEPS	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	IFD_tag=svg3en
+8	aðlaðandi	aðlaðandi	ADJ	ADJ-N	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	ccomp	_	IFD_tag=lvenof
+9	í	í	ADP	P	_	10	case	_	IFD_tag=aþ
+10	eyrum	eyra	NOUN	NS-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Plur	8	obl	_	IFD_tag=nhfþ
+11	fólks	fólk	NOUN	N-G	Case=Gen|Definite=Ind|Gender=Neut|Number=Sing	10	nmod:poss	_	IFD_tag=nhee|SpaceAfter=No
+12	.	.	PUNCT	.	_	11	punct	_	IFD_tag=.
 
 ~~~
 

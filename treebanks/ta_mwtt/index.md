@@ -12,15 +12,15 @@ udver: '2'
 # UD Tamil MWTT
 
 Language: [Tamil](/ta/index.html) (code: `ta`)<br/>
-Family: Dravidian, Southern
+Family: Dravidian
 
 This treebank has been part of Universal Dependencies since the UD v2.7 release.
 
-The following people have contributed to making this treebank part of UD: Sarveswaran K, Parameswari Krishnamurthy, Keerthana Balasubramani.
+The following people have contributed to making this treebank part of UD: Sarveswaran Kengatharaiyer, Parameswari Krishnamurthy, Keerthana Balasubramani.
 
 Repository: [UD_Tamil-MWTT](https://github.com/UniversalDependencies/UD_Tamil-MWTT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udta_mwtt210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udta_mwtt211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-SA 4.0
 

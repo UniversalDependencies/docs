@@ -12,15 +12,15 @@ udver: '2'
 # UD Kaapor TuDeT
 
 Language: [Kaapor](/urb/index.html) (code: `urb`)<br/>
-Family: Tupian, Tupi-Guarani
+Family: Tupian, Maweti-Guarani
 
 This treebank has been part of Universal Dependencies since the UD v2.8 release.
 
 The following people have contributed to making this treebank part of UD: Fabrício Ferraz Gerardi, Carolina Aragon, Gustavo Godoy.
 
 Repository: [UD_Kaapor-TuDeT](https://github.com/UniversalDependencies/UD_Kaapor-TuDeT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udurb_tudet210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udurb_tudet211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-SA 4.0
 

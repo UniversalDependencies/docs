@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-94 nodes (1%) are attached to their parents as `expl`.
+97 nodes (1%) are attached to their parents as `expl`.
 
-91 instances of `expl` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.77659574468085.
+93 instances of `expl` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.78350515463918.
 
-The following 4 pairs of parts of speech are connected with `expl`: <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> (65; 69% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> (22; 23% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> (6; 6% instances), <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 4 pairs of parts of speech are connected with `expl`: <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> (66; 68% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> (24; 25% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> (6; 6% instances), <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -50,34 +50,31 @@ The following 4 pairs of parts of speech are connected with `expl`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 10 expl	color:blue
-1	_	_	SCONJ	IN	_	3	mark	3:mark	Discourse=explanation-justify:113->114:0|Lem=*LOWER*|Len=4
-2	_	_	NOUN	NN	Number=Sing	3	obl:npmod	3:obl:npmod	Lem=_|Len=5
-3	_	_	VERB	VBG	VerbForm=Ger	12	advcl	12:advcl:from	Lem=watch|Len=8
-4	_	_	DET	DT	Number=Sing|PronType=Dem	5	det	5:det	Entity=(6-abstract-giv:inact-cf2-2-coref-Beat_Bobby_Flay|Lem=_|Len=4
-5	_	_	NOUN	NN	Number=Sing	3	obj	3:obj	Entity=6)|Lem=_|Len=4
-6	_	_	DET	DT	Definite=Def|PronType=Art	8	det	8:det	Entity=(94-time-new-cf5-3-sgl|Lem=_|Len=3
-7	_	_	ADJ	JJ	Degree=Pos	8	amod	8:amod	Lem=_|Len=4
-8	_	_	NOUN	NN	Number=Sing	3	obl:tmod	3:obl:tmod	Entity=94)|Lem=_|Len=4|SpaceAfter=No
-9	_	_	PUNCT	,	_	3	punct	3:punct	Lem=_|Len=1
-10	_	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	expl	12:expl	Discourse=joint-other_m:114->6:5|Entity=(95-abstract-new-cf3-1-cata)|Lem=_|Len=2
-11	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	12:cop	Lem=be|Len=2
-12	_	_	ADJ	JJ	Degree=Pos	0	root	0:root	Lem=_|Len=5
-13	_	_	SCONJ	IN	_	15	mark	15:mark	Entity=(95-abstract-acc:com-cf3-3-coref|Lem=_|Len=4
-14	_	_	PROPN	NNP	Number=Sing	15	nsubj	15:nsubj	Entity=(2-person-giv:inact-cf1-1-coref-Bobby_Flay)|Lem=_|Len=5
-15	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	csubj	12:csubj	Lem=have|Len=3
-16	_	_	ADJ	JJ	Degree=Pos	17	amod	17:amod	Entity=(96-abstract-new-cf4-2-sgl|Lem=_|Len=7
-17	_	_	NOUN	NN	Number=Sing	15	obj	15:obj	Lem=_|Len=9
-18	_	_	ADP	IN	_	19	case	19:case	Lem=_|Len=2
-19	_	_	PRON	WP	PronType=Rel	17	nmod	17:nmod:of	Entity=(97-abstract-new-cf6-1-sgl|Lem=_|Len=4
-20	_	_	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	nsubj	22:nsubj	Entity=(2-person-giv:act-cf1-1-ana-Bobby_Flay)|Lem=_|Len=2
-21	_	_	AUX	MD	VerbForm=Fin	22	aux	22:aux	Lem=_|Len=5
-22	_	_	VERB	VB	VerbForm=Inf	19	acl:relcl	19:acl:relcl	Entity=97)96)95)|Lem=_|Len=4|SpaceAfter=No
-23	_	_	PUNCT	.	_	12	punct	12:punct	Lem=_|Len=1
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 expl	color:blue
+1	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	4:cop	Discourse=evaluation-comment:8->4:2|Lem=be|Len=2
+2	_	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	expl	4:expl	Lem=_|Len=2
+3	_	_	ADV	RBR	Degree=Cmp	4	advmod	4:advmod	Lem=_|Len=4
+4	_	_	ADJ	JJ	Degree=Pos	0	root	0:root	Lem=_|Len=6
+5	_	_	SCONJ	IN	_	8	mark	8:mark	Lem=_|Len=4
+6	_	_	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	nsubj	8:nsubj	Entity=(7-organization-giv:inact-cf1-1-ana-Monsters%2C_Inc.)|Lem=_|Len=4
+7	_	_	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	aux	8:aux	Lem=be|Len=3
+8	_	_	VERB	VBG	Tense=Pres|VerbForm=Part	4	csubj	4:csubj	Lem=supply|Len=9
+9	_	_	NOUN	NN	Number=Sing	8	obj	8:obj	Entity=(9-substance-giv:inact-cf2-1-coref)|Lem=_|Len=5
+10	_	_	ADP	IN	_	13	case	13:case	Lem=_|Len=2
+11	_	_	ADV	RB	_	12	advmod	12:advmod	Lem=_|Len=4
+12	_	_	NUM	CD	NumForm=Word|NumType=Card	13	nummod	13:nummod	Entity=(3-place-giv:inact-cf3-2-coref|Lem=_|Len=3
+13	_	_	NOUN	NN	Number=Sing	8	obl	8:obl:to	Entity=3)|Lem=_|Len=4|SpaceAfter=No
+14	_	_	PUNCT	,	_	19	punct	19:punct	Lem=_|Len=1
+15	_	_	CCONJ	CC	_	19	cc	19:cc	Lem=_|Len=2
+16	_	_	ADP	IN	_	19	case	19:case	Lem=_|Len=2
+17	_	_	DET	DT	Definite=Ind|PronType=Art	19	det	19:det	Entity=(4-place-giv:inact-cf4-3-coref|Lem=a|Len=2
+18	_	_	ADJ	JJ	Degree=Pos	19	amod	19:amod	Lem=_|Len=6
+19	_	_	NOUN	NN	Number=Sing	13	conj	8:obl:to|13:conj:or	Entity=4)|Lem=_|Len=5|SpaceAfter=No
+20	_	_	PUNCT	.	_	4	punct	4:punct	Lem=_|Len=1
 
 ~~~
 

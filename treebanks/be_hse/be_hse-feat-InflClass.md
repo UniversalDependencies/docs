@@ -9,30 +9,30 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Ind`.
 
-322 tokens (0%) have a non-empty value of `InflClass`.
-183 types (0%) occur at least once with a non-empty value of `InflClass`.
-182 lemmas (1%) occur at least once with a non-empty value of `InflClass`.
-The feature is used with 2 part-of-speech tags: <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> (320; 0% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (2; 0% instances).
+329 tokens (0%) have a non-empty value of `InflClass`.
+188 types (0%) occur at least once with a non-empty value of `InflClass`.
+187 lemmas (1%) occur at least once with a non-empty value of `InflClass`.
+The feature is used with 2 part-of-speech tags: <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> (325; 0% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (4; 0% instances).
 
 ### `PROPN`
 
-320 <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> tokens (2% of all `PROPN` tokens) have a non-empty value of `InflClass`.
+325 <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> tokens (2% of all `PROPN` tokens) have a non-empty value of `InflClass`.
 
-The most frequent other feature values with which `PROPN` and `InflClass` co-occurred: <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (319; 100%), <tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (220; 69%), <tt><a href="be_hse-feat-Case.html">Case</a></tt><tt>=Gen</tt> (202; 63%).
+The most frequent other feature values with which `PROPN` and `InflClass` co-occurred: <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (324; 100%), <tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (221; 68%), <tt><a href="be_hse-feat-Case.html">Case</a></tt><tt>=Gen</tt> (204; 63%).
 
 `PROPN` tokens may have the following values of `InflClass`:
 
-* `Ind` (320; 100% of non-empty `InflClass`): <em>Алексіевіч, Дашук, Адамовіч, БелТА, Соўсь, Белавія, Рыё, Еўрарадыё, Чыкага, Яскевіч</em>
+* `Ind` (325; 100% of non-empty `InflClass`): <em>Алексіевіч, Дашук, Адамовіч, БелТА, Соўсь, Белавія, Рыё, Дынама, Еўрарадыё, Чыкага</em>
 
-`InflClass` seems to be **lexical feature** of `PROPN`. 100% lemmas (180) occur only with one value of `InflClass`.
+`InflClass` seems to be **lexical feature** of `PROPN`. 100% lemmas (183) occur only with one value of `InflClass`.
 
 ### `NOUN`
 
-2 <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `InflClass`.
+4 <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `InflClass`.
 
-The most frequent other feature values with which `NOUN` and `InflClass` co-occurred: <tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (2; 100%), <tt><a href="be_hse-feat-Case.html">Case</a></tt><tt>=Gen</tt> (2; 100%), <tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (2; 100%), <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%).
+The most frequent other feature values with which `NOUN` and `InflClass` co-occurred: <tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (4; 100%), <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 100%), <tt><a href="be_hse-feat-Case.html">Case</a></tt><tt>=Gen</tt> (3; 75%).
 
 `NOUN` tokens may have the following values of `InflClass`:
 
-* `Ind` (2; 100% of non-empty `InflClass`): <em>Радыё, мэтро</em>
+* `Ind` (4; 100% of non-empty `InflClass`): <em>Радыё, Сядзіба, мэтро, топ</em>
 

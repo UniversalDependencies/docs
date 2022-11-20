@@ -22,7 +22,7 @@ The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 15	bgColor:blue
 # visual-style 15	fgColor:white
 # visual-style 15 16 goeswith	color:blue
-1	_	_	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	Discourse=context-circumstance:2->4:1|Entity=(2-person-new-cf1-2,4-coref(3-person-new-cf3-2-sgl(4-person-acc:com-cf2-1-ana)|Lem=*LOWER*|Len=2
+1	_	_	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	Discourse=context-circumstance:2->4:1|Entity=(2-person-new-cf1-2,4-coref(3-person-new-cf3-2-sgl(4-person-acc:com-cf2-1-ana)|Lem=*LOWER*|Len=2
 2	_	_	NOUN	NN	Number=Sing	7	nsubj	7:nsubj	Entity=3)|Lem=_|Len=4
 3	_	_	CCONJ	CC	_	4	cc	4:cc	Lem=_|Len=3
 4	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	conj	2:conj:and|7:nsubj	Entity=(4-person-giv:act-cf2-1-ana)2)|Lem=_|Len=1

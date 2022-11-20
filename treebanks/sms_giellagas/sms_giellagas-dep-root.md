@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-218 nodes (8%) are attached to their parents as `root`.
+240 nodes (8%) are attached to their parents as `root`.
 
-218 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.36697247706422.
+240 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.39166666666667.
 
-The following 7 pairs of parts of speech are connected with `root`: -<tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (193; 89% instances), -<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (11; 5% instances), -<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (5; 2% instances), -<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (3; 1% instances), -<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (3; 1% instances), -<tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), -<tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `root`: -<tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (213; 89% instances), -<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (13; 5% instances), -<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (5; 2% instances), -<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (3; 1% instances), -<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (3; 1% instances), -<tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), -<tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

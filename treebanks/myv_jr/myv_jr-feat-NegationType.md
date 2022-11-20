@@ -9,18 +9,18 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Contrastive`.
 
-52 tokens (0%) have a non-empty value of `NegationType`.
+62 tokens (0%) have a non-empty value of `NegationType`.
 2 types (0%) occur at least once with a non-empty value of `NegationType`.
 2 lemmas (0%) occur at least once with a non-empty value of `NegationType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (52; 0% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (62; 0% instances).
 
 ### `AUX`
 
-52 <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> tokens (7% of all `AUX` tokens) have a non-empty value of `NegationType`.
+62 <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> tokens (8% of all `AUX` tokens) have a non-empty value of `NegationType`.
 
-The most frequent other feature values with which `AUX` and `NegationType` co-occurred: <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (52; 100%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (52; 100%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (52; 100%), <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (52; 100%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (52; 100%), <tt><a href="myv_jr-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (52; 100%), <tt><a href="myv_jr-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (52; 100%).
+The most frequent other feature values with which `AUX` and `NegationType` co-occurred: <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (62; 100%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (62; 100%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (62; 100%), <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (62; 100%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (62; 100%), <tt><a href="myv_jr-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (62; 100%), <tt><a href="myv_jr-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (62; 100%).
 
 `AUX` tokens may have the following values of `NegationType`:
 
-* `Contrastive` (52; 100% of non-empty `NegationType`): <em>аволь</em>
+* `Contrastive` (62; 100% of non-empty `NegationType`): <em>аволь</em>
 

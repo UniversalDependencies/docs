@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-16803 nodes (6%) are attached to their parents as `root`.
+16951 nodes (6%) are attached to their parents as `root`.
 
-16803 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.55043742188895.
+16951 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.56356557135272.
 
-The following 15 pairs of parts of speech are connected with `root`: -<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (13745; 82% instances), -<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (1420; 8% instances), -<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (646; 4% instances), -<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (417; 2% instances), -<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (184; 1% instances), -<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (152; 1% instances), -<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (69; 0% instances), -<tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (55; 0% instances), -<tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> (44; 0% instances), -<tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (41; 0% instances), -<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (10; 0% instances), -<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (8; 0% instances), -<tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), -<tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), -<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `root`: -<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (13860; 82% instances), -<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (1441; 9% instances), -<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (650; 4% instances), -<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (419; 2% instances), -<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (184; 1% instances), -<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (158; 1% instances), -<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (75; 0% instances), -<tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> (47; 0% instances), -<tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (47; 0% instances), -<tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (38; 0% instances), -<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (12; 0% instances), -<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (8; 0% instances), -<tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), -<tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), -<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -62,11 +62,11 @@ The following 15 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 2 root	color:blue
-1	[	(	PUNCT	zb	_	2	punct	2:punct	LvtbNodeId=a-c13-p43s7w1|SpaceAfter=No
+1	[	[	PUNCT	zb	_	2	punct	2:punct	LvtbNodeId=a-c13-p43s7w1|SpaceAfter=No
 2	8.	8.	ADJ	xo	NumType=Ord	0	root	0:root	LvtbNodeId=a-c13-p43s7w2|SpaceAfter=No
 3	,	,	PUNCT	zc	_	4	punct	4:punct	LvtbNodeId=a-c13-p43s7w3|SpaceAfter=No
 4	103	103	NUM	xn	NumType=Card	2	dep	2:dep	LvtbNodeId=a-c13-p43s7w4|SpaceAfter=No
-5	]	)	PUNCT	zb	_	2	punct	2:punct	LvtbNodeId=a-c13-p43s7w5
+5	]	]	PUNCT	zb	_	2	punct	2:punct	LvtbNodeId=a-c13-p43s7w5
 
 ~~~
 

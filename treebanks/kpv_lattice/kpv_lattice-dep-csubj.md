@@ -41,7 +41,7 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 5 1 csubj	color:blue
 1	Пукавны	пукавны	VERB	V	VerbForm=Inf	5	csubj	_	_
 2	вадорын	вадор	NOUN	N	Case=Ine|Number=Sing	1	obl:lmod	_	_
-3	водзӧ	водз	ADV	Adv	Case=Ill	5	advmod:lto	_	_
+3	водзӧ	водз	ADV	Adv	Case=Ill	5	advmod:lmod	_	_
 4	вӧлі	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	cop	_	_
 5	весьшӧрӧ	весьшӧрӧ	ADV	Adv	Case=Ill	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	CLB	_	5	punct	_	_
@@ -67,7 +67,7 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 10	быттьӧ	быттьӧ	ADV	Adv	_	11	advmod:eval	_	GTtags=Parenthetic
 11	сэтшӧмӧсь	сэтшӧм	ADJ	A	Number[subj]=Plur|PronType=Dem	6	parataxis	_	GTtags=Det,Dem,Cop,Pl
 12	жӧ	жӧ	ADV	Adv	_	11	advmod:eval	_	GTtags=Parenthetic
-13	таті	таті	ADV	Adv	Case=Tra	11	advmod:lmp	_	GTtags=Tra|SpaceAfter=No
+13	таті	таті	ADV	Adv	Case=Tra	11	advmod:lmod	_	GTtags=Tra|SpaceAfter=No
 14	.	.	PUNCT	CLB	_	6	punct	_	_
 
 ~~~

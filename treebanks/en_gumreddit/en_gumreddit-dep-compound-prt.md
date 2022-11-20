@@ -56,7 +56,7 @@ The following 2 pairs of parts of speech are connected with `compound:prt`: <tt>
 14	_	_	DET	DT	Definite=Def|PronType=Art	16	det	16:det	Lem=_|Len=3
 15	_	_	ADJ	JJS	Degree=Sup	16	amod	16:amod	Lem=good|Len=4
 16	_	_	NOUN	NN	Number=Sing	0	root	0:root	Lem=_|Len=8
-17	_	_	SCONJ	WRB	PronType=Int	18	mark	18:mark	Discourse=context-circumstance:23->22:0|Lem=_|Len=4
+17	_	_	ADV	WRB	PronType=Int	18	advmod	18:advmod	Discourse=context-circumstance:23->22:0|Lem=_|Len=4
 18	_	_	VERB	VBG	VerbForm=Ger	16	acl	16:acl:when	Lem=market|Len=9
 19	_	_	ADP	IN	_	20	case	20:case	Lem=_|Len=2
 20	_	_	NOUN	NN	Number=Sing	18	obl	18:obl:to	Entity=(31-person-new-cf2-1-coref)|Lem=_|Len=2|SpaceAfter=No

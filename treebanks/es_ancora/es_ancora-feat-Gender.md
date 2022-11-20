@@ -9,16 +9,16 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Fem`, `Masc`.
 
-202105 tokens (36%) have a non-empty value of `Gender`.
+202106 tokens (36%) have a non-empty value of `Gender`.
 17277 types (44%) occur at least once with a non-empty value of `Gender`.
-11605 lemmas (44%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 8 part-of-speech tags: <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (87817; 16% instances), <tt><a href="es_ancora-pos-DET.html">DET</a></tt> (78581; 14% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (24222; 4% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (5959; 1% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (4725; 1% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (510; 0% instances), <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (290; 0% instances), <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+11599 lemmas (44%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 8 part-of-speech tags: <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (87817; 16% instances), <tt><a href="es_ancora-pos-DET.html">DET</a></tt> (78581; 14% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (24223; 4% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (5959; 1% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (4725; 1% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (510; 0% instances), <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (290; 0% instances), <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
 87817 <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> tokens (87% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (61596; 70%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (61600; 70%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
@@ -32,7 +32,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
   <tr><td><tt><tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>candidatos</em></td><td><em>CANDIDATAS</em></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (7739) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (7737) occur only with one value of `Gender`.
 
 ### `DET`
 
@@ -55,15 +55,15 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 ### `ADJ`
 
-24222 <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> tokens (67% of all `ADJ` tokens) have a non-empty value of `Gender`.
+24223 <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> tokens (67% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="es_ancora-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (17721; 73%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17366; 72%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="es_ancora-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (17722; 73%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17367; 72%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
-* `Fem` (10120; 42% of non-empty `Gender`): <em>primera, nueva, segunda, política, española, última, nuevas, única, buena, pública</em>
+* `Fem` (10121; 42% of non-empty `Gender`): <em>primera, nueva, segunda, política, española, última, nuevas, única, buena, pública</em>
 * `Masc` (14102; 58% of non-empty `Gender`): <em>pasado, primer, nuevo, próximo, últimos, español, segundo, último, único, político</em>
-* `EMPTY` (12201): <em>gran, mayor, mejor, general, posible, ex, grandes, actual, electoral, internacional</em>
+* `EMPTY` (12200): <em>gran, mayor, mejor, general, posible, ex, grandes, actual, electoral, internacional</em>
 
 <table>
   <tr><th>Paradigm <i>primero</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>

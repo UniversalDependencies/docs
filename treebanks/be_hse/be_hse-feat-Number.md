@@ -65,7 +65,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 23493 <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> tokens (88% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="be_hse-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (23248; 99%), <tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (20457; 87%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="be_hse-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (23248; 99%), <tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (20454; 87%).
 
 `ADJ` tokens may have the following values of `Number`:
 
@@ -134,7 +134,7 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 
 10093 <tt><a href="be_hse-pos-PRON.html">PRON</a></tt> tokens (98% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (6919; 69%), <tt><a href="be_hse-feat-Case.html">Case</a></tt><tt>=Nom</tt> (5482; 54%), <tt><a href="be_hse-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (5237; 52%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (6919; 69%), <tt><a href="be_hse-feat-Case.html">Case</a></tt><tt>=Nom</tt> (5479; 54%), <tt><a href="be_hse-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (5237; 52%).
 
 `PRON` tokens may have the following values of `Number`:
 
@@ -182,7 +182,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 6218 <tt><a href="be_hse-pos-DET.html">DET</a></tt> tokens (92% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="be_hse-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (5451; 88%), <tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4833; 78%), <tt><a href="be_hse-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (4161; 67%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="be_hse-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (5451; 88%), <tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4832; 78%), <tt><a href="be_hse-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (4161; 67%).
 
 `DET` tokens may have the following values of `Number`:
 
@@ -325,12 +325,12 @@ The most frequent other feature values with which `ADV` and `Number` co-occurred
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="be_hse-dep-amod.html">amod</a></tt>]--> ADJ</tt> (18782; 94%),
 <tt>NOUN --[<tt><a href="be_hse-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (11831; 63%),
-<tt>VERB --[<tt><a href="be_hse-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (7609; 91%),
+<tt>VERB --[<tt><a href="be_hse-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (7605; 91%),
 <tt>NOUN --[<tt><a href="be_hse-dep-det.html">det</a></tt>]--> DET</tt> (4535; 91%),
-<tt>VERB --[<tt><a href="be_hse-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (3981; 95%),
+<tt>VERB --[<tt><a href="be_hse-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (3981; 96%),
 <tt>NOUN --[<tt><a href="be_hse-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3770; 78%),
 <tt>PROPN --[<tt><a href="be_hse-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (3625; 97%),
 <tt>NOUN --[<tt><a href="be_hse-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (3228; 61%),
 <tt>VERB --[<tt><a href="be_hse-dep-conj.html">conj</a></tt>]--> VERB</tt> (2486; 75%),
-<tt>NOUN --[<tt><a href="be_hse-dep-appos.html">appos</a></tt>]--> PROPN</tt> (1891; 80%).
+<tt>NOUN --[<tt><a href="be_hse-dep-appos.html">appos</a></tt>]--> PROPN</tt> (1892; 80%).
 

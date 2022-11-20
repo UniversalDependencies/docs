@@ -91,7 +91,7 @@ The 10 most frequent relations where parent and child node agree in `Foreign`:
 <tt>X --[<tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt>]--> X</tt> (24; 100%),
 <tt>PROPN --[<tt><a href="ru_syntagrus-dep-flat-foreign.html">flat:foreign</a></tt>]--> X</tt> (18; 51%),
 <tt>PROPN --[<tt><a href="ru_syntagrus-dep-flat.html">flat</a></tt>]--> PROPN</tt> (13; 65%),
-<tt>PROPN --[<tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt>]--> PROPN</tt> (8; 80%),
+<tt>PROPN --[<tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt>]--> PROPN</tt> (9; 82%),
 <tt>X --[<tt><a href="ru_syntagrus-dep-flat-foreign.html">flat:foreign</a></tt>]--> PROPN</tt> (5; 100%),
 <tt>X --[<tt><a href="ru_syntagrus-dep-flat.html">flat</a></tt>]--> X</tt> (5; 100%),
 <tt>X --[<tt><a href="ru_syntagrus-dep-fixed.html">fixed</a></tt>]--> X</tt> (2; 100%).

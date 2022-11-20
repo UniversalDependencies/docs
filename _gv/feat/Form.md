@@ -43,4 +43,4 @@ In certain contexts, usually triggered by the preceding word, an ”h” is pref
 
 * _a <b>h</b>inneenyn_ “her daughters”
 * _ny <b>h-</b>Ellanyn_ “the Islands”
-<!-- Interlanguage links updated So kvě 14 19:02:15 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:46 CET 2022 -->

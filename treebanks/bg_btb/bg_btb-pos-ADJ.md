@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>2001</em> (<tt><a href="bg_btb-pos-AD
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 2.025304 (the average of all parts of speech is 1.727418).
+The form / lemma ratio of `ADJ` is 2.025304 (the average of all parts of speech is 1.727244).
 
 The 1st highest number of forms (25) was observed with the lemma “голям”: <em>големи, големите, големия, големият, голям, голяма, голямата, голямо, най-големи, най-големите, най-големия, най-големият, най-голям, най-голяма, най-голямата, най-голямо, най-голямото, по-големи, по-големите, по-големия, по-голям, по-голяма, по-голямата, по-голямо, по-голямото</em>.
 

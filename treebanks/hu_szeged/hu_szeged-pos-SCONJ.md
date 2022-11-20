@@ -13,7 +13,7 @@ The 10 most frequent `SCONJ` lemmas: <em>hogy, ha, mint, mert, miután, ugyan, b
 
 The 10 most frequent `SCONJ` types:  <em>hogy, ha, mint, mert, miután, ugyan, bár, mivel, jóllehet, Merthogy</em>
 
-The 10 most frequent ambiguous lemmas: <em>mint</em> (<tt><a href="hu_szeged-pos-SCONJ.html">SCONJ</a></tt> 74, <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> 16), <em>ugyan</em> (<tt><a href="hu_szeged-pos-SCONJ.html">SCONJ</a></tt> 18, <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> 7), <em>bár</em> (<tt><a href="hu_szeged-pos-SCONJ.html">SCONJ</a></tt> 16, <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> 1), <em>holott</em> (<tt><a href="hu_szeged-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="hu_szeged-pos-CCONJ.html">CCONJ</a></tt> 1), <em>is</em> (<tt><a href="hu_szeged-pos-CCONJ.html">CCONJ</a></tt> 408, <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> 55, <tt><a href="hu_szeged-pos-SCONJ.html">SCONJ</a></tt> 2), <em>amint</em> (<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> 5, <tt><a href="hu_szeged-pos-SCONJ.html">SCONJ</a></tt> 1), <em>mielőtt</em> (<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> 1, <tt><a href="hu_szeged-pos-SCONJ.html">SCONJ</a></tt> 1), <em>mikor</em> (<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> 5, <tt><a href="hu_szeged-pos-SCONJ.html">SCONJ</a></tt> 1), <em>minél</em> (<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> 5, <tt><a href="hu_szeged-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>mint</em> (<tt><a href="hu_szeged-pos-SCONJ.html">SCONJ</a></tt> 74, <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> 16), <em>ugyan</em> (<tt><a href="hu_szeged-pos-SCONJ.html">SCONJ</a></tt> 18, <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> 6), <em>bár</em> (<tt><a href="hu_szeged-pos-SCONJ.html">SCONJ</a></tt> 16, <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> 1), <em>holott</em> (<tt><a href="hu_szeged-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="hu_szeged-pos-CCONJ.html">CCONJ</a></tt> 1), <em>is</em> (<tt><a href="hu_szeged-pos-CCONJ.html">CCONJ</a></tt> 408, <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> 55, <tt><a href="hu_szeged-pos-SCONJ.html">SCONJ</a></tt> 2), <em>amint</em> (<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> 5, <tt><a href="hu_szeged-pos-SCONJ.html">SCONJ</a></tt> 1), <em>mielőtt</em> (<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> 1, <tt><a href="hu_szeged-pos-SCONJ.html">SCONJ</a></tt> 1), <em>mikor</em> (<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> 5, <tt><a href="hu_szeged-pos-SCONJ.html">SCONJ</a></tt> 1), <em>minél</em> (<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> 5, <tt><a href="hu_szeged-pos-SCONJ.html">SCONJ</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>mint</em> (<tt><a href="hu_szeged-pos-SCONJ.html">SCONJ</a></tt> 72, <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> 5), <em>ugyan</em> (<tt><a href="hu_szeged-pos-SCONJ.html">SCONJ</a></tt> 17, <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> 6), <em>holott</em> (<tt><a href="hu_szeged-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="hu_szeged-pos-CCONJ.html">CCONJ</a></tt> 1), <em>is</em> (<tt><a href="hu_szeged-pos-CCONJ.html">CCONJ</a></tt> 408, <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> 55, <tt><a href="hu_szeged-pos-SCONJ.html">SCONJ</a></tt> 2), <em>amint</em> (<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> 4, <tt><a href="hu_szeged-pos-SCONJ.html">SCONJ</a></tt> 1), <em>mikor</em> (<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> 4, <tt><a href="hu_szeged-pos-SCONJ.html">SCONJ</a></tt> 1), <em>minél</em> (<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> 5, <tt><a href="hu_szeged-pos-SCONJ.html">SCONJ</a></tt> 1)
 
@@ -43,7 +43,7 @@ The 10 most frequent ambiguous types:  <em>mint</em> (<tt><a href="hu_szeged-pos
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.503135).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.503840).
 
 The 1st highest number of forms (1) was observed with the lemma “amint”: <em>amint</em>.
 
@@ -56,17 +56,17 @@ The 3rd highest number of forms (1) was observed with the lemma “ha”: <em>ha
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 4 different relations: <tt><a href="hu_szeged-dep-mark.html">mark</a></tt> (742; 99% instances), <tt><a href="hu_szeged-dep-cc.html">cc</a></tt> (7; 1% instances), <tt><a href="hu_szeged-dep-advmod-mode.html">advmod:mode</a></tt> (1; 0% instances), <tt><a href="hu_szeged-dep-advmod-tlocy.html">advmod:tlocy</a></tt> (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 3 different relations: <tt><a href="hu_szeged-dep-mark.html">mark</a></tt> (743; 99% instances), <tt><a href="hu_szeged-dep-cc.html">cc</a></tt> (7; 1% instances), <tt><a href="hu_szeged-dep-fixed.html">fixed</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 9 different parts of speech: <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> (587; 78% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (62; 8% instances), <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> (51; 7% instances), <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt> (20; 3% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (11; 1% instances), <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (9; 1% instances), <tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt> (6; 1% instances), <tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="hu_szeged-pos-DET.html">DET</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 9 different parts of speech: <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> (587; 78% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (61; 8% instances), <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> (50; 7% instances), <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt> (23; 3% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (11; 1% instances), <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (9; 1% instances), <tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt> (6; 1% instances), <tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="hu_szeged-pos-DET.html">DET</a></tt> (1; 0% instances)
 
-743 (99%) `SCONJ` nodes are leaves.
+744 (99%) `SCONJ` nodes are leaves.
 
-8 (1%) `SCONJ` nodes have one child.
+7 (1%) `SCONJ` nodes have one child.
 
 The highest child degree of a `SCONJ` node is 1.
 
-Children of `SCONJ` nodes are attached using 3 different relations: <tt><a href="hu_szeged-dep-punct.html">punct</a></tt> (6; 75% instances), <tt><a href="hu_szeged-dep-advmod-mode.html">advmod:mode</a></tt> (1; 13% instances), <tt><a href="hu_szeged-dep-amod-att.html">amod:att</a></tt> (1; 13% instances)
+Children of `SCONJ` nodes are attached using 2 different relations: <tt><a href="hu_szeged-dep-punct.html">punct</a></tt> (6; 86% instances), <tt><a href="hu_szeged-dep-advmod-mode.html">advmod:mode</a></tt> (1; 14% instances)
 
-Children of `SCONJ` nodes belong to 3 different parts of speech: <tt><a href="hu_szeged-pos-PUNCT.html">PUNCT</a></tt> (6; 75% instances), <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (1; 13% instances), <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt> (1; 13% instances)
+Children of `SCONJ` nodes belong to 2 different parts of speech: <tt><a href="hu_szeged-pos-PUNCT.html">PUNCT</a></tt> (6; 86% instances), <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (1; 14% instances)
 

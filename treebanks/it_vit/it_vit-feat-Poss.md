@@ -23,7 +23,7 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 `DET` tokens may have the following values of `Poss`:
 
 * `Yes` (1228; 100% of non-empty `Poss`): <em>sua, suo, loro, nostro, suoi, sue, nostra, mia, mio, propria</em>
-* `EMPTY` (42681): <em>il, la, l', i, le, un, gli, una, lo, questo</em>
+* `EMPTY` (42682): <em>il, la, l', i, le, un, gli, una, lo, questo</em>
 
 ### `PRON`
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `PRON` and `Poss` co-occurred:
 `PRON` tokens may have the following values of `Poss`:
 
 * `Yes` (48; 100% of non-empty `Poss`): <em>tuo, sua, mio, essa, suo, suoi, che, loro, nostra, nostro</em>
-* `EMPTY` (9768): <em>che, si, cui, ci, lo, quello, c', ne, mi, quella</em>
+* `EMPTY` (9754): <em>che, si, cui, ci, lo, quello, c', ne, mi, quella</em>
 
 `Poss` seems to be **lexical feature** of `PRON`. 100% lemmas (13) occur only with one value of `Poss`.
 

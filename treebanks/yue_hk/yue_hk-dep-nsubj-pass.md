@@ -23,19 +23,19 @@ The following 1 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 3 nsubj:pass	color:blue
-1	噉	_	ADV	_	_	8	discourse	_	SpaceAfter=No
-2	，	_	PUNCT	_	_	1	punct	_	SpaceAfter=No
-3	梁天琦	_	PROPN	_	_	8	nsubj:pass	_	SpaceAfter=No
-4	都	_	ADV	_	_	8	advmod	_	SpaceAfter=No
-5	唔使	_	AUX	_	_	8	aux	_	SpaceAfter=No
-6	畀	_	ADP	_	_	7	case	_	SpaceAfter=No
-7	人	_	NOUN	_	_	8	obl:agent	_	SpaceAfter=No
-8	disqualify	_	VERB	_	_	0	root	_	SpaceAfter=No
-9	啦	_	PART	_	_	8	discourse:sp	_	SpaceAfter=No
-10	，	_	PUNCT	_	_	11	punct	_	SpaceAfter=No
-11	係咪	_	ADV	_	_	8	advmod	_	SpaceAfter=No
-12	呀	_	PART	_	_	11	discourse:sp	_	SpaceAfter=No
-13	？	_	PUNCT	_	_	8	punct	_	SpaceAfter=No
+1	噉	噉	ADV	_	_	8	discourse	_	SpaceAfter=No
+2	，	，	PUNCT	_	_	1	punct	_	SpaceAfter=No
+3	梁天琦	梁天琦	PROPN	_	_	8	nsubj:pass	_	SpaceAfter=No
+4	都	都	ADV	_	_	8	advmod	_	SpaceAfter=No
+5	唔使	唔使	AUX	_	_	8	aux	_	SpaceAfter=No
+6	畀	畀	ADP	_	_	7	case	_	SpaceAfter=No
+7	人	人	NOUN	_	_	8	obl:agent	_	SpaceAfter=No
+8	disqualify	disqualify	VERB	_	_	0	root	_	SpaceAfter=No
+9	啦	喇	PART	_	_	8	discourse:sp	_	SpaceAfter=No
+10	，	，	PUNCT	_	_	11	punct	_	SpaceAfter=No
+11	係咪	係	ADV	_	_	8	advmod	_	SpaceAfter=No
+12	呀	呀	PART	_	_	11	discourse:sp	_	SpaceAfter=No
+13	？	？	PUNCT	_	_	8	punct	_	SpaceAfter=No
 
 ~~~
 

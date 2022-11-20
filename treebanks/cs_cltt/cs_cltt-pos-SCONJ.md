@@ -19,7 +19,7 @@ The 10 most frequent ambiguous types:  <em>až</em> (<tt><a href="cs_cltt-pos-PA
 
 
 * <em>až</em>
-  * <tt><a href="cs_cltt-pos-PART.html">PART</a></tt> 30: <em>(5) Ustanovení §_52_a_53 se použijí <b>až</b> v účetním období začínajícím 1 . ledna 2004 a později .</em>
+  * <tt><a href="cs_cltt-pos-PART.html">PART</a></tt> 30: <em>(8) Ustanovení odstavců 1 <b>až</b> 7 platí pro konsolidovanou účetní závěrku a výroční zprávu obdobně .</em>
   * <tt><a href="cs_cltt-pos-SCONJ.html">SCONJ</a></tt> 7: <em>(6) Ustanovení odstavců 1 <b>až</b> 5 se nepoužijí při změně právní formy a přeshraničním přemístění sídla .</em>
   * <tt><a href="cs_cltt-pos-CCONJ.html">CCONJ</a></tt> 1: <em>Účetní jednotka , která sestavuje výkaz zisku a ztráty v účelovém členění , není povinna dodržet členění v účtových skupinách 50 až 55 a 60 <b>až</b> 64 ; členění přizpůsobí výkazu s přihlédnutím k povinnosti uvedené v §_39_odst._8 .</em>
 * <em>jak</em>

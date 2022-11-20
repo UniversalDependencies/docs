@@ -54,3 +54,4 @@ This marks type of relative participle.
 #### Examples
 
 * [abq] _й-<b>ъа</b>-та-з_ [3PL.ABS-<b>REL.LOC</b>-reside-PST.NFIN] ‘where they lived’ `Number[abs]=Plur|Person[abs]=3|RelType=Loc|Tense=Past|VerbForm=NonFin`
+<!-- Interlanguage links updated Po lis 14 15:34:58 CET 2022 -->

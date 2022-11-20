@@ -37,7 +37,7 @@ The following 14 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 cc	color:blue
-1	noctes	nox	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	4	advmod	_	LId=nox1
+1	noctes	nox	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	4	obl	_	LId=nox1
 2	atque	atque	CCONJ	c--------	_	1	cc	_	LId=atque1
 3	dies	dies	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	1	conj	_	_
 4	patet	pateo	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=pateo1
@@ -56,7 +56,7 @@ The following 14 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 3	fgColor:white
 # visual-style 3 5 cc	color:blue
 1	hac	hic	PRON	p-s---fb-	Case=Abl|Gender=Fem|Number=Sing	2	nmod	_	LId=hic1
-2	parte	pars	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	8	advmod	_	LId=pars1
+2	parte	pars	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	8	obl	_	LId=pars1
 3	potentes	potens	ADJ	a-p---fn-	Case=Nom|Gender=Fem|Number=Plur	4	amod	_	LId=potens1
 4	caelicolae	caelicola	NOUN	n-p---fn-	Case=Nom|Gender=Fem|Number=Plur	8	nsubj	_	LId=caelicola1
 5	que	que	CCONJ	c--------	_	3	cc	_	LId=que1

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2131 nodes (2%) are attached to their parents as `nummod`.
+2127 nodes (2%) are attached to their parents as `nummod`.
 
-2038 instances of `nummod` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.39371187236039.
+2034 instances of `nummod` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.39633286318759.
 
-The following 9 pairs of parts of speech are connected with `nummod`: <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt> (1963; 92% instances), <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt> (83; 4% instances), <tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt>-<tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt> (57; 3% instances), <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt> (12; 1% instances), <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> (8; 0% instances), <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt>-<tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt>-<tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt>-<tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `nummod`: <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt> (1969; 93% instances), <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt> (83; 4% instances), <tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt>-<tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt> (57; 3% instances), <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt> (13; 1% instances), <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt>-<tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt>-<tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -28,7 +28,7 @@ The following 9 pairs of parts of speech are connected with `nummod`: <tt><a hre
 4	سرکاری	سرکاری	ADJ	JJ	Case=Acc	5	amod	_	ChunkId=NP2|ChunkType=child
 5	خزانہ	خزانہ	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	12	obl	_	Vib=0|Tam=0|ChunkId=NP2|ChunkType=head
 6	پر	پر	ADP	PSP	AdpType=Post	5	case	_	ChunkId=NP2|ChunkType=child
-7	95	95	NUM	QCC	NumType=Card	8	case	_	ChunkId=NP3|ChunkType=child
+7	95	95	NUM	QCC	NumType=Card	8	compound	_	ChunkId=NP3|ChunkType=child
 8	کروڑ	کروڑ	NUM	QC	NumType=Card	9	nummod	_	ChunkId=NP3|ChunkType=child
 9	روپیوں	روپیہ	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur|Person=3	11	nmod	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=head
 10	کا	کا	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing	9	case	_	ChunkId=NP3|ChunkType=child
@@ -77,7 +77,7 @@ The following 9 pairs of parts of speech are connected with `nummod`: <tt><a hre
 9	10	10	NUM	QC	NumType=Card	12	nummod	_	ChunkId=NP4|ChunkType=child
 10	تا	تا	PART	RP	_	9	dep	_	ChunkId=NP4|ChunkType=child
 11	12	12	NUM	QCC	NumType=Card	12	dep	_	ChunkId=NP4|ChunkType=child
-12	کروڑ	کروڑ	NUM	QC	NumType=Card	14	advmod	_	ChunkId=NP4|ChunkType=head
+12	کروڑ	کروڑ	NUM	QC	NumType=Card	14	obl	_	ChunkId=NP4|ChunkType=head
 13	تک	تک	ADP	PSP	_	12	case	_	ChunkId=NP4|ChunkType=child
 14	آ	آ	VERB	VM	Voice=Act	0	root	_	Vib=0|Tam=0|ChunkId=VGF|ChunkType=head|Stype=declarative
 15	سکتا	سک	AUX	VAUX	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	14	aux	_	Vib=تا|Tam=wA|ChunkId=VGF|ChunkType=child

@@ -8,49 +8,39 @@ udver: '2'
 
 This relation is universal.
 
-6 nodes (0%) are attached to their parents as `mark`.
+7 nodes (0%) are attached to their parents as `mark`.
 
-4 instances of `mark` (67%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.5.
+4 instances of `mark` (57%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.14285714285714.
 
-The following 2 pairs of parts of speech are connected with `mark`: <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-SCONJ.html">SCONJ</a></tt> (4; 67% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt> (2; 33% instances).
+The following 2 pairs of parts of speech are connected with `mark`: <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-SCONJ.html">SCONJ</a></tt> (5; 71% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt> (2; 29% instances).
 
 
 ~~~ conllu
-# visual-style 21	bgColor:blue
-# visual-style 21	fgColor:white
-# visual-style 19	bgColor:blue
-# visual-style 19	fgColor:white
-# visual-style 19 21 mark	color:blue
-1	«	«	PUNCT	_	_	16	punct	_	LangID=OTHER|SpaceAfter=No
-2	Математика	Математика	NOUN	_	Case=Nom|Number=Sing	13	obl	_	LangID=RU
-3	һәм	һәм	CCONJ	_	_	5	cc	_	LangID=TT
-4	чит	чит	ADJ	_	_	5	amod	_	LangID=TT
-5	тел	тел	NOUN	_	Case=Nom|Number=Sing	2	conj	_	LangID=TT|SpaceAfter=No
-6	,	,	PUNCT	_	_	7	punct	_	LangID=OTHER
-7	тарих	тарих	NOUN	_	Case=Nom|Number=Sing	2	conj	_	LangID=TT
-8	һәм	һәм	CCONJ	_	_	10	cc	_	LangID=TT
-9	чит	чит	ADJ	_	_	10	amod	_	LangID=TT
-10	тел	тел	NOUN	_	Case=Nom|Number=Sing	7	conj	_	LangID=TT
-11	буенча	буенча	ADP	_	_	2	case	_	LangID=TT
-12	белем	белем	NOUN	_	Case=Nom|Number=Sing	13	obj	_	LangID=TT
-13	алган	ал	VERB	_	Tense=Pres|VerbForm=Part	14	amod	_	LangID=TT
-14	белгечләр	белгеч	NOUN	_	Case=Nom|Number=Plur	16	nsubj	_	LangID=TT
-15	мәктәпләргә	мәктәп	NOUN	_	Case=Dat|Number=Plur	16	obl	_	LangID=TT
-16	кирәк	кирәк	ADJ	_	_	0	root	_	LangID=TT|SpaceAfter=No
-17	,	,	PUNCT	_	_	22	punct	_	LangID=OTHER
-18	алар	ул	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	19	nsubj	_	LangID=TT
-19	төпләнеп	төплә	VERB	_	VerbForm=Conv|Voice=Pass	22	ccomp	_	LangID=TT
-20	калыр	кал	AUX	_	Mood=Irr|Number=Sing|Person=3|Tense=Fut|VerbForm=Part	19	aux	_	LangID=TT
-21	дип	дип	SCONJ	_	_	19	mark	_	LangID=TT
-22	өметләнәбез	өметлән	VERB	_	Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	16	parataxis	_	LangID=TT|SpaceAfter=No
-23	»	»	PUNCT	_	_	16	punct	_	LangID=OTHER|SpaceAfter=No
-24	,	,	PUNCT	_	_	27	punct	_	LangID=OTHER
-25	—	—	PUNCT	_	_	27	punct	_	LangID=OTHER
-26	дип	дип	SCONJ	_	_	27	cc	_	LangID=TT
-27	белдерде	бел	VERB	_	Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Cau	16	parataxis	_	LangID=TT
-28	ул	ул	PRON	_	_	27	nsubj	_	LangID=TT|SpaceAfter=No
-29	.	.	PUNCT	_	_	27	punct	_	LangID=OTHER
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 9 mark	color:blue
+1	Моннан	моннан	PRON	_	Case=Abl|Number=Sing|PronType=Dem	3	nmod	_	LangID=TT
+2	22	22	NUM	_	NumType=Card	3	nummod	_	LangID=TT
+3	ел	ел	NOUN	_	Case=Nom|Number=Sing	18	obl	_	LangID=TT
+4	элек	элек	ADP	_	_	3	case	_	LangID=TT
+5	«	«	PUNCT	_	_	7	punct	_	LangID=OTHER|SpaceAfter=No
+6	Әбекәемнең	әбекәй	NOUN	_	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=1	7	nmod	_	LangID=TT
+7	күргәннәре	күр	VERB	_	Case=Nom|Number=Plur|Person[psor]=3|Tense=Past|VerbForm=Part	10	ccomp	_	LangID=TT|SpaceAfter=No
+8	»	»	PUNCT	_	_	7	punct	_	LangID=OTHER
+9	дип	дип	SCONJ	_	_	10	mark	_	LangID=TT
+10	аталган	ата	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	11	acl	_	LangID=TT
+11	язмадан	язма	NOUN	_	Case=Gen|Number=Sing	12	obl	_	LangID=TT
+12	башланган	башла	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	14	acl	_	LangID=TT
+13	иҗат	иҗат	NOUN	_	Case=Nom|Number=Sing	14	nmod	_	LangID=TT
+14	юлыма	юл	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=1	18	obl	_	LangID=TT
+15	сезнең	сез	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	18	obl	_	LangID=TT
+16	белән	белән	ADP	_	_	15	case	_	LangID=TT
+17	аяк	аяк	NOUN	_	Case=Nom|Number=Sing	18	obj	_	LangID=TT
+18	бастым	бас	VERB	_	Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	LangID=TT|SpaceAfter=No
+19	.	.	PUNCT	_	_	18	punct	_	LangID=OTHER
 
 ~~~
 

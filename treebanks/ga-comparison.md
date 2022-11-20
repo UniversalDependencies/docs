@@ -6,81 +6,123 @@ udver: '2'
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h1>UD_Irish-Cadhan</h1>
+    </td>
+    <td width="33%" valign="top">
       <h1>UD_Irish-IDT</h1>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h1>UD_Irish-TwittIrish</h1>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h2>Tokenization and Word Segmentation</h2>
+    </td>
+    <td width="33%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+      <li>This corpus contains 150 sentences, 3764 tokens and 3804 syntactic words.</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 4910 sentences and 115990 tokens.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 866 sentences and 15433 tokens.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+      <li>This corpus contains 510 tokens (14%) that are not followed by a space.</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 11650 tokens (10%) that are not followed by a space.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 2108 tokens (14%) that are not followed by a space.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus does not contain words with spaces.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+      <li>This corpus does not contain words with spaces.</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus does not contain words with spaces.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+      <li>This corpus contains 54 types of words that contain both letters and punctuation. Examples: d', d'á, 'na, m', n-a, .i., ó'n, 'sa', 'san, agam-sa, do'n, droch-nós, n-Éirinn, orm-sa, 'e, 'n, 'n-a, 's, 'á, Shean-Ghallaibh, an-mheidhir, chroidhe-se, chughaibh-se, d'ár, de'n, fa'r, h-ala, h-anfa, h-iomhadh, h-éin, leath-phinginighe, lán-cheaptha, lér', mbocht-chara, mion-roinn, n-ainmhianaibh, n-an', n-anmanna, n-anál, n-easnamh, n-Áird, n-áit, ndeárn', neamh-shaoghalta, ná'r, príosúntacht', ró-mhall, seana-chapall, sibh-se, t-ochtmhadh</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 620 types of words that contain both letters and punctuation. Examples: d', d’, b', n-áirítear, nua-aimseartha, (b), m', (a), a', fho-alt, t-ábhar, Teo., Co., 'n, (c), t-airgead, t-aon, n-oileán, s', srl., 's, O', n-ealaíon, t-am, Uimh., a'm, &quot;, 'na, (i), Dr., T.D., an-chuid, i.e., mb', n-éireoidh, n-úsáid, t-athrú, t-iomlán, (d), (ii), Dublin.ie, an-dearfach, an-mhór, an-tábhachtach, c(h)ónaí, e.g., m.sh., n', t-ainm, t-aistriú</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 1367 types of words that contain both letters and punctuation. Examples: #gaeilge, @aonghusoha, @TG4TV, @maitiuocoimin, @RTERnaG, @KingDonncha1, d', #gaa, @tuigim, 's, @cnag, @murchadhmor, #tg4, @MiseCiara, b', :D, n-éirí, @NiallSF, @gaelport, @igaeilge, @newbelfast, @raidionalife, Foinse.ie, #lágaeilge, @CiaranDunbar, @SBBinashui, @TgLurgan, @cormacag5, @gaeilge2013, @thechairman09, @CeolBaile, @Marion508, @Neidi, @OsgurOCiardha, @bbcblas, @rtebrodclub, @scottdebuitleir, @seolinn, @sherqui, http:/, http://t., i.n., m', @AnDuinnineach, @HannahRua, @NaGaeilOga, @NuachtTG4, @ReadoutSignpost, @SnaGaeilge, @SportTG4</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+      <li>This corpus contains 37 multi-word tokens. On average, one multi-word token consists of 2.08 syntactic words.</li>
+      <li>There are 31 types of multi-word tokens. Examples: 'fhios, anadhbharsin, aoinne, dorinne, gidheadh, lem', Cilldaluadh, FitzUrsula, ad, adeir, adeirthear, aoinní, arsa'n, cia, dhiáidhsin, dhobhí, dhona, dochluinim, dochualadar, dochuáidh, dochí, dochúaidh, doním, dó-dhéag, fearso, im', leacoidhre, lálá, neitheadhso, neithese, shiar-thuaith.</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h2>Morphology</h2>
+      
+      <h3>Tags</h3>
+      
+      <ul>
+      <li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
+      <li>This corpus does not use the following tags: SYM</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -89,7 +131,7 @@ udver: '2'
       <li>This corpus uses 17 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -100,90 +142,133 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+      <li>This corpus contains 33 word types tagged as particles (PART): An, Ua, Ui, Uí, a, ar, ba, d', d'á, dho, do, dá, fa'r, go, gu, gur, lér', mac, mic, nach, nachar, nior, noch, ná, nách, nár, ní, níor, níos, ro, ré, Ó, ór'</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 44 word types tagged as particles (PART): DA, Mag, Mc, Mhac, Mhic, Nic, O, O', O’, UÍ, Uí, a, ab, an, ar, b', ba, cha, chan, d', de, do, dá, d’, faoina, go, gur, ina, inar, is, le, lena, lenar, mac, n', n-a, nach, ná, nár, ní, níor, níos, trína, ó</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 44 word types tagged as particles (PART): 's, Mac, Mhic, N', O, O', O'Toole, San, Uí, a, an, ar, bhfuil, d', do, droch, dár, go, gur, inar, iontach, is, lena, n, n't, na, nach, ni, nil, nior, nios, not, ná, nár, ní, níor, níos, o'Connor, s, to, Ó, á, ín, óg</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+      <li>This corpus contains 21 lemmas tagged as pronouns (PRON): cad, ceachtar, cé, ea, féin, iad, is, mise, mé, seisean, seo, siad, sibh, sin, sinn, sé, sí, tusa, tú, é, í</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 36 lemmas tagged as pronouns (PRON): a, ar, cad, cad_é, ceachtar, cibé, cé, céard, ea, eisean, eo, féin, iad, is, ise, iúd, mise, muid, mé, pé, seisean, seo, siad, sibh, sin, sinn, sise, siúd, sé, séard, sí, that, tusa, tú, é, í</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 37 lemmas tagged as pronouns (PRON): They, cad, caidé, cé, céard, ea, everyone, féin, he, his, i, iad, it, mise, muid, mé, se, seo, siad, sibh, sin, sinn, siúd, sé, sí, that, there, this, tú, us, we, what, ya, you, yourself, é, í</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+      <li>This corpus contains 14 lemmas tagged as determiners (DET): a, an, aon, bhur, do, eile, gach, mo, na, seo, sin, uile, ár, úd</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 22 lemmas tagged as determiners (DET): a, achan, all, an, aon, bhur, cibé, do, eile, gach, gach_aon, gach_uile, leath, mo, s, seo, sin, siúd, the, uile, ár, úd</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 35 lemmas tagged as determiners (DET): a, achan, all, an, another, aon, bhur, brón, chuile, cibé, cúpla, do, eile, gach, his, i, is, leath, mo, my, na, no, our, pé, s.c., seo, sin, some, such, the, this, uile, watever, ár, úd</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+      <li>Out of the above, 2 lemmas occurred sometimes as PRON and sometimes as DET: seo, sin</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
       <li>Out of the above, 5 lemmas occurred sometimes as PRON and sometimes as DET: a, cibé, seo, sin, siúd</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>Out of the above, 5 lemmas occurred sometimes as PRON and sometimes as DET: his, i, seo, sin, this</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 1 lemmas tagged as auxiliaries (AUX): is</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+      <li>This corpus contains 1 lemmas tagged as auxiliaries (AUX): is</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 9 lemmas tagged as auxiliaries (AUX): be, can, do, is, might, must, should, will, would</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
       <li>Out of the above, 2 lemmas occurred sometimes as AUX and sometimes as VERB: be, do</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+      <li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus does not use the VerbForm feature.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Cop
+        <ul>
+          <li>AUX: is, gurab, nach, ní, ba, fá, dobadh, gur, Ag, an</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Cop
         <ul>
@@ -195,12 +280,21 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Inf
+        <ul>
+          <li>NOUN: bheith, dhéanamh, chur, déanamh, rádh, scríobhadh, thabhairt, breith, bualadh, ceileabhradh</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Inf
         <ul>
@@ -209,12 +303,21 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Part
+        <ul>
+          <li>ADJ: Cinnte, briste, ceaptha, cuachta, dúnta, foghlumtha, fágtha, fáighte, saluighthe, stróctha</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Part
         <ul>
@@ -223,12 +326,21 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Vnoun
+        <ul>
+          <li>NOUN: cur, tabhairt, teacht, dul, gabháil, baint, breith, brúghadh, ceapadh, déanamh</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Vnoun
         <ul>
@@ -237,30 +349,52 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>Nominal Features</h3>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h3>Nominal Features</h3>
+    </td>
+    <td width="33%" valign="top">
       <h3>Nominal Features</h3>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Gender</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Gender</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Fem
+          <ul>
+            <li>ADJ: mhaith, bhán, breagh, buidhe, direach, dubh, fada, feargach, feósaidhe, mhór</li>
+            <li>ADP: aici, uirre, dhi, di, lei, léithi, ría</li>
+            <li>DET: na, a, n-a, ná</li>
+            <li>NOUN: bliadhna, cuid, oidhche, réir, laimh, leith, láimh, uair, aít, bhuidhin</li>
+            <li>PRON: sí, í, si, sise</li>
+            <li>PROPN: Éireann, Éirinn, Danann, Uladh, n-Éirinn, Callain, Casga, Chill, Chnámhchoill, Cásg</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Fem
           <ul>
@@ -275,12 +409,15 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Fem,Masc
           <ul>
@@ -290,12 +427,26 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Masc
+          <ul>
+            <li>ADJ: beag, mór, maith, Caoimh, Caoin, Sasanach, aisteach, allta, amhain, andeas</li>
+            <li>ADP: ann, aige, air, 'na, na, d'á, dó, as, dá, ina</li>
+            <li>DET: a, an, n-a, do</li>
+            <li>NOUN: lá, duine, fhios, bith, fear, la, ainm, mac, bhfearann, bhflaitheas</li>
+            <li>PRON: sé, é, hé, se, seision, e, eisean, seisean</li>
+            <li>PROPN: Iósa, Dia, Dé, Sacsaibh, Ursula, Beare, Bheannchair, Dhía, Laighean, Pilát</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Masc
           <ul>
@@ -311,30 +462,53 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Number</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Number</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Plur
+          <ul>
+            <li>ADJ: creapalta, dearga, dlightheacha, dubha, feósaidhe, maslaightheacha, ruadha, uathbhásach', éugcruaidhe, úra</li>
+            <li>ADP: aca, againn, orra, riú, díobh, ana, ionnta, leó, léo, agaibh</li>
+            <li>DET: na, a, bhur, mur, ar</li>
+            <li>NOUN: bliadhna, Gall, comhmbráithribh, daoine, dáoinibh, fhearaibh, mac, sgeachóirighe, súile, Anmann</li>
+            <li>PRON: siad, iad, iád, hiád, sibh, sibh-se, sinn, siád</li>
+            <li>PROPN: Sacsaibh, Caomhánaigh, Fhidhic, Gaileoin, Gall, Picti, Shean-Ghallaibh, Tuathaibh, gConnachtaibh</li>
+            <li>VERB: Táid, atáid, Bhamar, anfaidís, bhfacadar, bhfuairsiod, bhíd, bhídís, choimhédadar, chrochadar</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -349,12 +523,27 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Sing
+          <ul>
+            <li>ADJ: beag, mór, breagh, buidhe, dubh, feargach, maith, mhaith, Caoimh, Caoin</li>
+            <li>ADP: ann, aige, air, 'na, agam, liom, na, d'á, dó, orm</li>
+            <li>DET: an, a, mo, na, m', n-a, do, mó, 'n, d'</li>
+            <li>NOUN: lá, duine, fhios, bith, la, ainm, cuid, fear, oidhche, réir</li>
+            <li>PRON: sé, é, mé, hé, sí, tú, mise, se, tusa, í</li>
+            <li>PROPN: Iósa, dia, Éireann, Uladh, Éirinn, Dé, Ursula, Beare, Bheannchair, Danann</li>
+            <li>VERB: Tuig, chualas, féuch, Bhíos, Bíodh, Dhíolas, Feicim, Fuaras, Inneosad, Rugas</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -372,22 +561,37 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Case</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Case</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Dat
+          <ul>
+            <li>NOUN: laimh, leith, láimh, comhmbráithribh, droing, dáoinibh, fhearaibh, gcéill, Bhreathnachaibh, Gaedhealaibh</li>
+            <li>PROPN: Éirinn, Sacsaibh, n-Éirinn, Shean-Ghallaibh, Tuathaibh, gConnachtaibh</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Dat
           <ul>
@@ -397,12 +601,24 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Gen
+          <ul>
+            <li>ADJ: Caoimh, allta, bhig, bhuidhe, buidhe, caitliceach, chruim, dearbh, faon, gallda</li>
+            <li>DET: na, an, ná</li>
+            <li>NOUN: Gall, Mathghamhna, athar, creidimh, fhir, hoidhche, mac, mic, oidhche, sgoile</li>
+            <li>PROPN: Éireann, Uladh, Dé, Bheannchair, Danann, Laighean, Bhuck, Cairbre, Callain, Casga</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -416,12 +632,23 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Nom
+          <ul>
+            <li>ADJ: beag, mór, breagh, dubh, feargach, maith, mhaith, Caoin, Sasanach, aisteach</li>
+            <li>NOUN: lá, duine, fhios, bith, la, ainm, bliadhna, cuid, fear, réir</li>
+            <li>PROPN: Dia, Iósa, Ursula, Beare, Dhía, Pilát, Séamas, Andóid, Arimathea, Bangor</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Nom
           <ul>
@@ -433,12 +660,21 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Voc
+          <ul>
+            <li>NOUN: thighearna, léaghthóir, athuir, bhuachaill</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Voc
           <ul>
@@ -449,30 +685,50 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Definite</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Definite</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Def
+          <ul>
+            <li>DET: an, na, gach, gac, 'n, ná, san</li>
+            <li>NOUN: la, lá, bhfearann, bhflaitheas, duine, fhios, laimh, réir, uair, Tighearna</li>
+            <li>NOUN-Inf: bhfhaicsin, choinneáil, chur, dhéanamh, soillsiughadh</li>
+            <li>PROPN: Iósa, dia, Éireann, Uladh, Éirinn, Dé, Hanmer, Sacsaibh, Ursula, Beare</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Def
           <ul>
@@ -485,12 +741,15 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -499,30 +758,64 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>Degree and Polarity</h3>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h3>Degree and Polarity</h3>
+    </td>
+    <td width="33%" valign="top">
       <h3>Degree and Polarity</h3>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Degree</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Degree</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Cmp
+          <ul>
+            <li>ADJ: mó</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Cmp,Sup
+          <ul>
+            <li>ADJ: mó, críona, mhó</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Cmp,Sup
           <ul>
@@ -532,12 +825,21 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Pos
+          <ul>
+            <li>ADJ: maith, amháin, ionann, geal, sásta, amhaín, aoibhin, beag, bog, breugach</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -546,22 +848,38 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Polarity</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Polarity</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Neg
+          <ul>
+            <li>AUX-Cop: nach, ní, muna, ni, ná'r</li>
+            <li>PART: ní, nach, ná, nior, níor, nách, nachar, nár</li>
+            <li>VERB: rabh, raibh, bheadh, Níl, beadh, bhiadh, bhíonn, chualas, chualasa, dheachaidh</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -572,38 +890,58 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>Verbal Features</h3>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h3>Verbal Features</h3>
+    </td>
+    <td width="33%" valign="top">
       <h3>Verbal Features</h3>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Aspect</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Aspect</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Hab
+          <ul>
+            <li>VERB: bhíd, bhíonn, bionn</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Hab
           <ul>
@@ -612,12 +950,21 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Imp
+          <ul>
+            <li>VERB: bhíodh, Teidheadh, bhídís, chleachtadh, mbiodh, ndéantaoi, thógadh, tugadh</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -626,22 +973,36 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Mood</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Cnd
+          <ul>
+            <li>VERB: mbeadh, bheadh, bainfeadh, iarrfadh, leigfeadh, rachadh, Bhrisfeadh, Tharraingeochadh, anfaidís, beadh</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Cnd
           <ul>
@@ -651,12 +1012,15 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Cnd,Int
           <ul>
@@ -665,12 +1029,22 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Imp
+          <ul>
+            <li>PART: ná</li>
+            <li>VERB: Tuig, féuch, Bíodh, abair, bean, féuchuidh, imhigh, tógbhuidh</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -680,12 +1054,21 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Ind
+          <ul>
+            <li>VERB: bhí, raibh, rabh, adubhairt, bhfuil, thug, atá, arsa, tug, tá</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -694,12 +1077,21 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Int
+          <ul>
+            <li>AUX-Cop: Nach, an</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Int
           <ul>
@@ -708,12 +1100,22 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Sub
+          <ul>
+            <li>PART: Go</li>
+            <li>VERB: Oirdnidhe, sábháilidh, ttugadh</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Sub
           <ul>
@@ -723,22 +1125,36 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Tense</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Fut
+          <ul>
+            <li>VERB: Brisfidh, Inneosad, bhaileochaidh, bheidh, bhuailfidh, bhéas, chreidfe, chreidfios, chuire, fhaice</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Fut
           <ul>
@@ -747,12 +1163,23 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Past
+          <ul>
+            <li>AUX-Cop: gurab, ba, fá, dobadh, dobudh, dárab, mba, ná'r</li>
+            <li>PART: gur, nior, níor, a, ar, go, gu, lér', nachar, ór'</li>
+            <li>VERB: bhí, raibh, rabh, adubhairt, thug, arsa, tug, bhíodh, chuir, Dhearc</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Past
           <ul>
@@ -767,12 +1194,22 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Pres
+          <ul>
+            <li>AUX-Cop: is, gurab, nach, ní, gur, Ag, an, as, darab, muna</li>
+            <li>VERB: bhfuil, atá, tá, Adeir, Táid, atáid, fhuil, ngairthear, ngoirthear, ta</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Pres
           <ul>
@@ -783,46 +1220,70 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-    </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h3>Pronouns, Determiners, Quantifiers</h3>
+    </td>
+    <td width="33%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>PronType</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>PronType</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Art
+          <ul>
+            <li>ADP: ó'n, 'sa', 'san, don, annsa, den, do'n, san, de'n, sa</li>
+            <li>DET: an, na, 'n, ná, san</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Art
           <ul>
@@ -832,12 +1293,22 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Dem
+          <ul>
+            <li>DET: eile, so, sin, soin, seo, se, úd, adaí</li>
+            <li>PRON: sin, so, Seo, shoin</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Dem
           <ul>
@@ -848,12 +1319,23 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Emp
+          <ul>
+            <li>ADP: agam-sa, orm-sa, chughaibh-se, dhamhsa, fúthasan, ionnadsa, ionnamsa, leatsa</li>
+            <li>PRON: mise, tusa, meisi, seision, eisean, seisean, sibh-se, sise</li>
+            <li>VERB: mbéidision</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Emp
           <ul>
@@ -863,12 +1345,22 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Ind
+          <ul>
+            <li>DET: aon, uile</li>
+            <li>PRON: ceachtar</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -878,12 +1370,22 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Int
+          <ul>
+            <li>ADV: cá</li>
+            <li>PRON: cé, cad, cia, céard</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Int
           <ul>
@@ -894,12 +1396,21 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Prs
+          <ul>
+            <li>ADP: 'á, ghá</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Prs
           <ul>
@@ -908,12 +1419,24 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Rel
+          <ul>
+            <li>ADP: d'á, d'ár, dá</li>
+            <li>AUX-Cop: nach, dobadh, fá, ba, dobudh</li>
+            <li>PART: a, do, d'á, dho, noch, dá, fa'r, ar, lér', ro</li>
+            <li>VERB: atá, tá, áta</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Rel
           <ul>
@@ -926,22 +1449,36 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>NumType</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>NumType</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Card
+          <ul>
+            <li>NUM: trí, ceithre, dhá, míle, sé, cuig, céad, cúig, deich, dá</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Card
           <ul>
@@ -950,12 +1487,21 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Ord
+          <ul>
+            <li>NUM: dara, treas, chéad, naomhadh, seiseadh, t-ochtmhadh, mhíle</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Ord
           <ul>
@@ -964,22 +1510,37 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Poss</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Poss</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Yes
+          <ul>
+            <li>ADP: 'na, d'á, na, dá, ana, ina, dhá, 'n-a, 'á, arna</li>
+            <li>DET: a, mo, m', n-a, bhur, do, mur, mó, ar, d'</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -989,22 +1550,36 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Reflex</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Reflex</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Yes
+          <ul>
+            <li>PRON: féin, fein, fhéin</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -1014,22 +1589,36 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Person</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Person</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>0
+          <ul>
+            <li>VERB: cuireadh, ngairthear, ngoirthear, adeirthear, buaileadh, chonnaictheas, deirtear, dtáinigtheas, dubhradh, gcuirfidhe</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>0
           <ul>
@@ -1038,12 +1627,24 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>1
+          <ul>
+            <li>ADP: agam, againn, liom, orm, agam-sa, dhom, dhíom, orm-sa, asam, chugam</li>
+            <li>DET: mo, m', mó, ar</li>
+            <li>PRON: mé, mise, meisi, me, mhé, sinn</li>
+            <li>VERB: chualas, Bhamar, Bhíos, Dhíolas, Feicim, Fuaras, Inneosad, Rugas, Thangas, Táim</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>1
           <ul>
@@ -1055,12 +1656,24 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>2
+          <ul>
+            <li>ADP: uáit, agaibh, chughaibh-se, duit, díbh, ionnadsa, leat, leatsa, libh, ribh</li>
+            <li>DET: bhur, do, mur, d'</li>
+            <li>PRON: tú, tusa, sibh, sibh-se, thú</li>
+            <li>VERB: Tuig, féuch, abair, bean, dhéanfá, féuchuidh, imhigh, ndéanfá, shílféa, tógbhuidh</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>2
           <ul>
@@ -1072,12 +1685,24 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>3
+          <ul>
+            <li>ADP: ann, aige, air, aca, 'na, d'á, na, dá, dó, orra</li>
+            <li>DET: a, n-a, do, na</li>
+            <li>PRON: sé, é, siad, hé, sí, se, í, ea, iad, iád</li>
+            <li>VERB: Táid, atáid, Bíodh, anfaidís, bhfacadar, bhfuairsiod, bhíd, bhídís, choimhédadar, chrochadar</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>3
           <ul>
@@ -1090,44 +1715,70 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-    </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
       <h3>Other Features</h3>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h3>Other Features</h3>
+    </td>
+    <td width="33%" valign="top">
       <h3>Other Features</h3>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Abbr</a>
+          <ul>
+            <li>Yes
+              <ul>
+                <li>ADJ: .i.</li>
+                <li>ADV: .i.</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>Abbr</a>
           <ul>
@@ -1146,12 +1797,15 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>Dialect</a>
           <ul>
@@ -1188,12 +1842,26 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Foreign</a>
+          <ul>
+            <li>Yes
+              <ul>
+                <li>PROPN: Buck, Bhuck, Dyea, Klondike, Mercedes, Rapids, Rink, Uestchester, Yukon, Hanmer</li>
+                <li>X: Salt, Water</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>Foreign</a>
           <ul>
@@ -1213,12 +1881,90 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Form</a>
+          <ul>
+            <li>Direct
+              <ul>
+                <li>PART: a, do, noch, ro</li>
+                <li>VERB: atá, tá, áta</li>
+              </ul>
+            </li>
+            <li>Direct,Len
+              <ul>
+                <li>PART: dho</li>
+              </ul>
+            </li>
+            <li>Ecl
+              <ul>
+                <li>AUX-Cop: mba</li>
+                <li>NOUN: bhfearann, bhflaitheas, bhfear, dtaobh, gcomhnaidhe, gcédna, gcéill, ndeireadh, ndiaidh, Níuduidheadh</li>
+                <li>NOUN-Inf: bhfhaicsin, mbeith</li>
+                <li>NUM: naon, náon</li>
+                <li>PROPN: n-Éirinn, bhFailghe, bhFréamhainn, gConnachtaibh, mBaile, n-Áird, neabhra</li>
+                <li>VERB: bhfuil, mbeadh, ngairthear, ngoirthear, bhfacadar, bhfhuilim, bhfuairsiod, dtaínig, dteagmhadh, dtáinigtheas</li>
+              </ul>
+            </li>
+            <li>Ecl,Emp
+              <ul>
+                <li>NOUN: Ndíasa, mbreithirsean, natharsa</li>
+              </ul>
+            </li>
+            <li>Emp
+              <ul>
+                <li>NOUN: ainmsean, sonsan, tsáoghailsi</li>
+              </ul>
+            </li>
+            <li>Emp,Len
+              <ul>
+                <li>NOUN: chroidhe-se</li>
+                <li>VERB: ghlacadarsan</li>
+              </ul>
+            </li>
+            <li>HPref
+              <ul>
+                <li>ADJ: haereach, haireach, holc</li>
+                <li>NOUN: hoidhche, Hiudaighe, Híudaidhe, h-ala, h-anfa, h-éin, haicmeadha, haimsir, haimsire, haois</li>
+                <li>PRON: hé, hiád</li>
+                <li>PROPN: hAodh, hÉireann</li>
+                <li>VERB: háitigheadh</li>
+              </ul>
+            </li>
+            <li>Indirect
+              <ul>
+                <li>PART: a, d'á, dá, ar, lér', ór'</li>
+              </ul>
+            </li>
+            <li>Len
+              <ul>
+                <li>ADJ: mhaith, mhór, bhig, bhuidhe, bhán, cheart, chruim, chumhang, chéadna, chóir</li>
+                <li>ADP: dhe, dho, dhochum, dhom, dhá, dhíom, dhamh, dhamhsa, dhi, dhíobh</li>
+                <li>NOUN: fhios, bheith, dhéanamh, chur, thabhairt, thighearna, bhocsa, bhuidhin, cheann, chodladh</li>
+                <li>NOUN-Inf: bheith, dhéanamh, chur, thabhairt, bhriseadh, choinneáil, chongbhail, dhul, dhéunamh, dhúsachd</li>
+                <li>NUM: dhá, chéad, thrí, cheithre, dhó, fhichid, mhíle</li>
+                <li>PART: dho</li>
+                <li>PRON: fhéin, mhé, shoin, thú</li>
+                <li>PROPN: Bheannchair, Dhía, Bhuck, Chairbre, Chesar, Chill, Chomhghaill, Chomhghall, Fhidheach, Fhidhic</li>
+                <li>SCONJ: dhá</li>
+                <li>VERB: bhí, thug, bheadh, bhíodh, chuir, Dhearc, chualas, fhuil, fhág, ghabh</li>
+              </ul>
+            </li>
+            <li>VF
+              <ul>
+                <li>AUX-Cop: gurab, darab, dárab</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>Form</a>
           <ul>
@@ -1327,12 +2073,35 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>NounType</a>
+          <ul>
+            <li>NotSlender
+              <ul>
+                <li>ADJ: dearga, dubha, ruadha, úra</li>
+              </ul>
+            </li>
+            <li>Strong
+              <ul>
+                <li>NOUN: bpóilíní, mbáillí, ndáoine</li>
+              </ul>
+            </li>
+            <li>Weak
+              <ul>
+                <li>NOUN: mac, Bolg, Gall, bhflaitheas, deisgiobal, fear, gcor, madadh, mionn, nGabhar</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>NounType</a>
           <ul>
@@ -1364,12 +2133,55 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>PartType</a>
+          <ul>
+            <li>Ad
+              <ul>
+                <li>PART: go, gu</li>
+              </ul>
+            </li>
+            <li>Cmpl
+              <ul>
+                <li>PART: go, gu, nach, ná, nachar, nách, nár</li>
+              </ul>
+            </li>
+            <li>Comp
+              <ul>
+                <li>PART: níos, a, ba</li>
+              </ul>
+            </li>
+            <li>Inf
+              <ul>
+                <li>PART: a, do, d', dho</li>
+              </ul>
+            </li>
+            <li>Pat
+              <ul>
+                <li>PART: mac, Ua, Ó, Ui, Uí, mic</li>
+              </ul>
+            </li>
+            <li>Vb
+              <ul>
+                <li>PART: do, a, ní, d', gur, An, dho, go, nior, noch</li>
+              </ul>
+            </li>
+            <li>Voc
+              <ul>
+                <li>PART: a</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>PartType</a>
           <ul>
@@ -1434,12 +2246,26 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>PrepForm</a>
+          <ul>
+            <li>Cmpd
+              <ul>
+                <li>ADP: ar, i, tar, d', do, go, le, re, ós, thar</li>
+                <li>NOUN: eis, ndiaidh, nós, éis, coinne, cois, dtí, feadh, leith, linn</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>PrepForm</a>
           <ul>
@@ -1453,12 +2279,15 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>Typo</a>
           <ul>
@@ -1484,12 +2313,12 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -1498,7 +2327,16 @@ udver: '2'
       <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: is.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h2>Syntax</h2>
+      
+      <h3>Auxiliary Verbs and Copula</h3>
+      
+      <ul>
+      <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: is.</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -1509,19 +2347,40 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus does not contain auxiliaries.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+      <li>This corpus does not contain auxiliaries.</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus uses 8 lemmas as auxiliaries (<a>aux</a>). Examples: be, do, can, might, must, should, will, would.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
+      
+      Here we consider only relations between verbs (parent) and nouns or pronouns (child).
+      <ul>
+        <li><a>nsubj</a>
+          <ul>
+            <li>VERB--NOUN (1)</li>
+            <li>VERB--NOUN-Gen (1)</li>
+            <li>VERB--NOUN-Nom (87)</li>
+            <li>VERB--NOUN-Nom-ADP(ach) (2)</li>
+            <li>VERB--PRON (78)</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
@@ -1542,7 +2401,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
@@ -1559,7 +2418,18 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>obj</a>
+          <ul>
+            <li>VERB--NOUN-Gen (1)</li>
+            <li>VERB--NOUN-Nom (70)</li>
+            <li>VERB--PRON (20)</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
@@ -1578,7 +2448,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
@@ -1592,7 +2462,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
@@ -1600,7 +2470,15 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>iobj</a>
+          <ul>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
@@ -1611,31 +2489,49 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-    </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Relations Overview</h3>
+      
+      <ul>
+      <li>This corpus uses 11 relation subtypes: <a>acl:relcl</a>, <a>case:voc</a>, <a>csubj:cleft</a>, <a>csubj:cop</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>mark:prt</a>, <a>nmod:poss</a>, <a>obl:prep</a>, <a>obl:tmod</a>, <a>xcomp:pred</a></li>
+      <li>The following 2 main types are not used alone, they are always subtyped: <a>csubj</a>, <a>flat</a></li>
+      <li>The following 12 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>dislocated</a>, <a>discourse</a>, <a>aux</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
@@ -1644,7 +2540,7 @@ udver: '2'
       <li>The following 6 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>aux</a>, <a>clf</a>, <a>reparandum</a>, <a>dep</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>

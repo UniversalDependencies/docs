@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2764 nodes (10%) are attached to their parents as `aux`.
+2763 nodes (10%) are attached to their parents as `aux`.
 
-2757 instances of `aux` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.6273516642547.
+2756 instances of `aux` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.63445530220775.
 
-The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (2373; 86% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (285; 10% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (94; 3% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (9; 0% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (2369; 86% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (285; 10% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (97; 4% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (9; 0% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

@@ -8,32 +8,35 @@ udver: '2'
 
 This relation is universal.
 
-6307 nodes (14%) are attached to their parents as `punct`.
+6288 nodes (14%) are attached to their parents as `punct`.
 
-4537 instances of `punct` (72%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.2509909624227.
+4361 instances of `punct` (69%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.82108778625954.
 
-The following 15 pairs of parts of speech are connected with `punct`: <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-PUNCT.html">PUNCT</a></tt> (4331; 69% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-PUNCT.html">PUNCT</a></tt> (1290; 20% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-PUNCT.html">PUNCT</a></tt> (483; 8% instances), <tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt>-<tt><a href="vi_vtb-pos-PUNCT.html">PUNCT</a></tt> (66; 1% instances), <tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="vi_vtb-pos-PUNCT.html">PUNCT</a></tt> (55; 1% instances), <tt><a href="vi_vtb-pos-X.html">X</a></tt>-<tt><a href="vi_vtb-pos-PUNCT.html">PUNCT</a></tt> (34; 1% instances), <tt><a href="vi_vtb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="vi_vtb-pos-PUNCT.html">PUNCT</a></tt> (10; 0% instances), <tt><a href="vi_vtb-pos-ADP.html">ADP</a></tt>-<tt><a href="vi_vtb-pos-PUNCT.html">PUNCT</a></tt> (9; 0% instances), <tt><a href="vi_vtb-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="vi_vtb-pos-PUNCT.html">PUNCT</a></tt> (9; 0% instances), <tt><a href="vi_vtb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="vi_vtb-pos-PUNCT.html">PUNCT</a></tt> (7; 0% instances), <tt><a href="vi_vtb-pos-INTJ.html">INTJ</a></tt>-<tt><a href="vi_vtb-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `punct`: <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-PUNCT.html">PUNCT</a></tt> (4047; 64% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-PUNCT.html">PUNCT</a></tt> (1330; 21% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-PUNCT.html">PUNCT</a></tt> (526; 8% instances), <tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="vi_vtb-pos-PUNCT.html">PUNCT</a></tt> (171; 3% instances), <tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt>-<tt><a href="vi_vtb-pos-PUNCT.html">PUNCT</a></tt> (55; 1% instances), <tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt>-<tt><a href="vi_vtb-pos-PUNCT.html">PUNCT</a></tt> (50; 1% instances), <tt><a href="vi_vtb-pos-X.html">X</a></tt>-<tt><a href="vi_vtb-pos-PUNCT.html">PUNCT</a></tt> (33; 1% instances), <tt><a href="vi_vtb-pos-ADP.html">ADP</a></tt>-<tt><a href="vi_vtb-pos-PUNCT.html">PUNCT</a></tt> (30; 0% instances), <tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt>-<tt><a href="vi_vtb-pos-PUNCT.html">PUNCT</a></tt> (20; 0% instances), <tt><a href="vi_vtb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="vi_vtb-pos-PUNCT.html">PUNCT</a></tt> (12; 0% instances), <tt><a href="vi_vtb-pos-INTJ.html">INTJ</a></tt>-<tt><a href="vi_vtb-pos-PUNCT.html">PUNCT</a></tt> (8; 0% instances), <tt><a href="vi_vtb-pos-AUX.html">AUX</a></tt>-<tt><a href="vi_vtb-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="vi_vtb-pos-PART.html">PART</a></tt>-<tt><a href="vi_vtb-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances).
 
 
 ~~~ conllu
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 12 punct	color:blue
-1	Tôi	Tôi	PROPN	P	_	4	nsubj	_	_
-2	cũng	cũng	X	R	_	4	advmod	_	_
-3	đã	đã	X	R	_	4	advmod	_	_
-4	tham gia	tham gia	VERB	V	_	0	root	_	_
-5	quân đội	quân đội	NOUN	N	_	4	obj	_	_
-6	để	để	ADP	E	_	7	case	_	_
-7	chống	chống	VERB	V	_	4	mark	_	_
-8	phát xít	phát xít	NOUN	N	_	7	obj	_	_
-9	Đức	Đức	NOUN	Np	_	8	compound	_	_
-10	tại	tại	ADP	E	_	11	case	_	_
-11	Pháp	Pháp	NOUN	Np	_	8	nmod	_	SpaceAfter=No
-12	.	.	PUNCT	.	_	4	punct	_	_
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 12 punct	color:blue
+1	Đêm	đêm	NOUN	N	_	7	obl:tmod	_	_
+2	,	,	PUNCT	,	_	1	punct	_	_
+3	đội	đội	NOUN	N	_	7	nsubj	_	_
+4	quân	quân	NOUN	N	_	3	compound	_	_
+5	từ	từ	ADP	Pre	_	6	case	_	_
+6	mặt đất	mặt đất	NOUN	N	_	7	obl:comp	_	_
+7	tỏa	tỏa	VERB	V	_	0	root	_	_
+8	lên	lên	ADV	Adv	_	7	compound:prt	_	_
+9	đặt	đặt	VERB	V	_	7	xcomp	_	_
+10	mìn	mìn	NOUN	N	_	9	obj	_	_
+11	gạt	gạt	VERB	V	_	10	compound:vmod	_	_
+12	,	,	PUNCT	,	_	13	punct	_	_
+13	gài	gài	VERB	V	_	9	conj	_	_
+14	chông	chông	NOUN	N	_	13	obj	_	_
+15	.	.	PUNCT	.	_	7	punct	_	_
 
 ~~~
 
@@ -41,33 +44,37 @@ The following 15 pairs of parts of speech are connected with `punct`: <tt><a hre
 ~~~ conllu
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 6 punct	color:blue
-1	Đó	Đó	PROPN	P	_	3	nsubj	_	_
-2	là	là	AUX	V	_	3	cop	_	_
-3	cuộc	cuộc	NOUN	N	_	0	root	_	_
-4	chiến tranh	chiến tranh	NOUN	N	_	3	compound	_	_
-5	phi nghĩa	phi nghĩa	ADJ	A	_	3	amod	_	SpaceAfter=No
-6	.	.	PUNCT	.	_	3	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 6 punct	color:blue
+1	Những	những	DET	Det	_	2	det	_	_
+2	anh hùng	anh hùng	NOUN	N	_	0	root	_	_
+3	trên	trên	ADP	Pre	_	2	nmod	_	_
+4	đất	đất	NOUN	N	_	2	nmod	_	_
+5	thép	thép	NOUN	N	_	4	compound	_	_
+6	.	.	PUNCT	.	_	2	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 8 punct	color:blue
-1	lúc	lúc	NOUN	N	_	5	nmod	_	_
-2	đó	đó	PROPN	P	_	1	det	_	_
-3	nước	nước	NOUN	N	_	5	nsubj	_	_
-4	Pháp	Pháp	NOUN	Np	_	3	compound	_	_
-5	chuẩn bị	chuẩn bị	ADJ	A	_	0	root	_	_
-6	tấn công	tấn công	VERB	V	_	5	xcomp	_	_
-7	Ai Cập	Ai Cập	NOUN	Np	_	5	obj	_	SpaceAfter=No
-8	.	.	PUNCT	.	_	5	punct	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 10 punct	color:blue
+1	Hơn nữa	hơn nữa	SCONJ	SC	_	8	cc	_	_
+2	"	"	PUNCT	``	_	3	punct	_	_
+3	tác giả	tác giả	NOUN	N	_	8	nsubj	_	_
+4	"	"	PUNCT	``	_	3	punct	_	_
+5	này	này	PRON	Pro	_	3	det:pmod	_	_
+6	phải	phải	AUX	AUX	_	8	aux	_	_
+7	là	là	AUX	V	_	8	cop	_	_
+8	người	người	NOUN	N	_	0	root	_	_
+9	kiên nhẫn	kiên nhẫn	ADJ	Adj	_	8	amod	_	_
+10	,	,	PUNCT	,	_	11	punct	_	_
+11	ôn hòa	ôn hòa	ADJ	Adj	_	9	conj	_	_
+12	.	.	PUNCT	.	_	8	punct	_	_
 
 ~~~
 

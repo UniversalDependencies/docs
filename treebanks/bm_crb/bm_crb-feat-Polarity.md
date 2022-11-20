@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="bm_crb-pos-AUX.html
 
 ### `AUX`
 
-893 <tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> tokens (63% of all `AUX` tokens) have a non-empty value of `Polarity`.
+893 <tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> tokens (64% of all `AUX` tokens) have a non-empty value of `Polarity`.
 
 The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="bm_crb-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (523; 59%).
 
@@ -24,7 +24,7 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 
 * `Neg` (176; 20% of non-empty `Polarity`): <em>tè, ma, kana, te, tɛ, man, tèna</em>
 * `Pos` (717; 80% of non-empty `Polarity`): <em>ye, bè, ka, be, bɛ, mana, bèna, y', b', na</em>
-* `EMPTY` (528): <em>ka, tun, diye, k', ye, y', na, ba, dòn, fulakè</em>
+* `EMPTY` (508): <em>ka, tun, k', ye, y', na, k</em>
 
 `Polarity` seems to be **lexical feature** of `AUX`. 100% lemmas (11) occur only with one value of `Polarity`.
 

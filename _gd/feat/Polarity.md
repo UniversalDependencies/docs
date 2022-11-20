@@ -20,4 +20,4 @@ It will be expanded.
 
 * _<b>chan</b> fhaic thu e ge-tà_ "You won't see it though" (c06\_025a, particle use)
 * _<b>Chan</b> fhiach e._ "It's not worth it" (f02\_035c, copular use)
-<!-- Interlanguage links updated So kvě 14 19:02:32 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:54 CET 2022 -->

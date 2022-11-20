@@ -156,19 +156,19 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 
 * `Dat` (2; 29% of non-empty `Case`): <em>Sameindu, samlaða</em>
 * `Nom` (5; 71% of non-empty `Case`): <em>flettir, kendastur, keyptir, nevndar, prentaðir</em>
-* `EMPTY` (554): <em>býr, hevur, liggur, Sí, kom, eru, fer, fór, er, stendur</em>
+* `EMPTY` (566): <em>býr, hevur, kom, liggur, Sí, eru, fer, varð, fór, er</em>
 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="fo_oft-dep-amod.html">amod</a></tt>]--> ADJ</tt> (565; 93%),
-<tt>NOUN --[<tt><a href="fo_oft-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (182; 59%),
-<tt>NOUN --[<tt><a href="fo_oft-dep-det.html">det</a></tt>]--> DET</tt> (179; 98%),
+<tt>NOUN --[<tt><a href="fo_oft-dep-det.html">det</a></tt>]--> DET</tt> (181; 98%),
+<tt>NOUN --[<tt><a href="fo_oft-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (180; 59%),
 <tt>NOUN --[<tt><a href="fo_oft-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (150; 93%),
 <tt>NOUN --[<tt><a href="fo_oft-dep-conj.html">conj</a></tt>]--> NOUN</tt> (137; 91%),
 <tt>NOUN --[<tt><a href="fo_oft-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (115; 85%),
-<tt>ADJ --[<tt><a href="fo_oft-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (74; 97%),
+<tt>ADJ --[<tt><a href="fo_oft-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (73; 97%),
 <tt>PROPN --[<tt><a href="fo_oft-dep-parataxis.html">parataxis</a></tt>]--> NOUN</tt> (73; 100%),
-<tt>NOUN --[<tt><a href="fo_oft-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (70; 74%),
-<tt>PROPN --[<tt><a href="fo_oft-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (67; 62%).
+<tt>NOUN --[<tt><a href="fo_oft-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (69; 77%),
+<tt>PROPN --[<tt><a href="fo_oft-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (67; 61%).
 

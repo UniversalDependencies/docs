@@ -12,15 +12,15 @@ udver: '2'
 # UD Guajajara TuDeT
 
 Language: [Guajajara](/gub/index.html) (code: `gub`)<br/>
-Family: Tupian, Tupi-Guarani
+Family: Tupian, Maweti-Guarani
 
 This treebank has been part of Universal Dependencies since the UD v2.8 release.
 
 The following people have contributed to making this treebank part of UD: Lorena Martín Rodríguez, Fabrício Ferraz Gerardi.
 
 Repository: [UD_Guajajara-TuDeT](https://github.com/UniversalDependencies/UD_Guajajara-TuDeT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgub_tudet210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgub_tudet211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-SA 4.0
 
@@ -73,7 +73,7 @@ It is part of [TuLaR](https://tular.clld.org), Tupían Language Resources. Sente
 
 * Campos Castro, Ricardo and Carvalho Guajajara, Pedro (2020). Izipi mehe: cibercaminhos linguísticos e literários para a preservação da cultura Tenetehára. Revista Brasileira de Linguística Antropológica, 12(1).
 
-* Campos Castro, Ricardo and Fagundes Camargos, Quesler (2021). The syntactic status of noun incorporation in the Tenetehára language (Tupí-Guaraní family). Revista Brasileira de Linguística Antropológica, 13, pp. 299-325. DOI: 10.26512/rbla.v13i01.38034
+* Castro, R. C. de, & Camargos, Q. F. (2021). The syntactic status of noun incorporation in the Tenetehára language (Tupí-Guaraní family). Revista Brasileira De Linguística Antropológica, 13(01), 299–325. https://doi.org/10.26512/rbla.v13i01.38034
 
 
 ## Acknowledgments
@@ -93,7 +93,7 @@ The development of this treebank is supported by the by European Research Counci
 
 ## Features
 
-[Aspect](gub_tudet-feat-Aspect.html) – [Case](gub_tudet-feat-Case.html) – [Clusivity](gub_tudet-feat-Clusivity.html) – [Deo](gub_tudet-feat-Deo.html) – [Detrans](gub_tudet-feat-Detrans.html) – [Dimin](gub_tudet-feat-Dimin.html) – [Emph](gub_tudet-feat-Emph.html) – [Evident](gub_tudet-feat-Evident.html) – [Foc](gub_tudet-feat-Foc.html) – [Foreign](gub_tudet-feat-Foreign.html) – [Int](gub_tudet-feat-Int.html) – [Mood](gub_tudet-feat-Mood.html) – [Nomzr](gub_tudet-feat-Nomzr.html) – [NonFoc](gub_tudet-feat-NonFoc.html) – [Number](gub_tudet-feat-Number.html) – [Number[obj]](gub_tudet-feat-Number-obj.html) – [Person](gub_tudet-feat-Person.html) – [Person[obj]](gub_tudet-feat-Person-obj.html) – [Person[psor]](gub_tudet-feat-Person-psor.html) – [Person[subj]](gub_tudet-feat-Person-subj.html) – [Polarity](gub_tudet-feat-Polarity.html) – [Poss](gub_tudet-feat-Poss.html) – [PronType](gub_tudet-feat-PronType.html) – [Red](gub_tudet-feat-Red.html) – [Reflex](gub_tudet-feat-Reflex.html) – [Rel](gub_tudet-feat-Rel.html) – [Tense](gub_tudet-feat-Tense.html) – [VerbForm](gub_tudet-feat-VerbForm.html) – [Voice](gub_tudet-feat-Voice.html)
+[Aspect](gub_tudet-feat-Aspect.html) – [Case](gub_tudet-feat-Case.html) – [Clusivity](gub_tudet-feat-Clusivity.html) – [Deo](gub_tudet-feat-Deo.html) – [Detrans](gub_tudet-feat-Detrans.html) – [Dimin](gub_tudet-feat-Dimin.html) – [Emph](gub_tudet-feat-Emph.html) – [Evident](gub_tudet-feat-Evident.html) – [False](gub_tudet-feat-False.html) – [Foc](gub_tudet-feat-Foc.html) – [Foreign](gub_tudet-feat-Foreign.html) – [Int](gub_tudet-feat-Int.html) – [Mood](gub_tudet-feat-Mood.html) – [Nomzr](gub_tudet-feat-Nomzr.html) – [NonFoc](gub_tudet-feat-NonFoc.html) – [Number](gub_tudet-feat-Number.html) – [Number[obj]](gub_tudet-feat-Number-obj.html) – [Person](gub_tudet-feat-Person.html) – [Person[obj]](gub_tudet-feat-Person-obj.html) – [Person[psor]](gub_tudet-feat-Person-psor.html) – [Person[subj]](gub_tudet-feat-Person-subj.html) – [Polarity](gub_tudet-feat-Polarity.html) – [Poss](gub_tudet-feat-Poss.html) – [PronType](gub_tudet-feat-PronType.html) – [Prp](gub_tudet-feat-Prp.html) – [Red](gub_tudet-feat-Red.html) – [Reflex](gub_tudet-feat-Reflex.html) – [Rel](gub_tudet-feat-Rel.html) – [Speech](gub_tudet-feat-Speech.html) – [Tense](gub_tudet-feat-Tense.html) – [VerbForm](gub_tudet-feat-VerbForm.html) – [Voice](gub_tudet-feat-Voice.html)
 
 ## Relations
 
@@ -103,7 +103,7 @@ The development of this treebank is supported by the by European Research Counci
 
 
 <ul>
-<li>This corpus contains 1126 sentences, 8702 tokens and 8968 syntactic words.</li>
+<li>This corpus contains 1182 sentences, 8870 tokens and 9160 syntactic words.</li>
 </ul>
 
 <ul>
@@ -119,8 +119,8 @@ The development of this treebank is supported by the by European Research Counci
 </ul>
 
 <ul>
-<li>This corpus contains 239 multi-word tokens. On average, one multi-word token consists of 2.11 syntactic words.</li>
-<li>There are 121 types of multi-word tokens. Examples: zawaruhu, tazahu, upiʔa, wirahu, upiʔahaw, Hetekatu, mozuhu, tɨpaw, umaiʔu, ɨremeʔɨwɨr, hupiʔa, uzuhezkatu, ɨwaz, ukenuhu, zapukazaʔɨr, ɨwɨkwar, ʔɨpihun, maʔemumeʔuhaw, maʔeputɨr, ukwaku, umaʔereko, waikwerupi, zawaruhupe, ɨwɨxig, Hehapɨhagatu, Hekuzarkatu, Iàkàgahɨ, Ukwawkatu, haikweromo, haikwerupi, imaʔuhez, numaʔerekokwaw, uhɨapekatu, umaiʔukatu, uzepiʔamomor, ɨparan, ɨpupe, ɨrɨhu, ɨrɨmeʔɨwɨr, ɨwɨzua, Amakɨr, Ararkaʔapehar, Aʔere, Heàkàgahɨ, Hàiràgaw, Imaʔenukwaw, Imaʔuhezkatu, Ipuhuzkatu, Nahetakatukwaw, Naxigatukwaw.</li>
+<li>This corpus contains 266 multi-word tokens. On average, one multi-word token consists of 2.09 syntactic words.</li>
+<li>There are 138 types of multi-word tokens. Examples: tueharupi, zawaruhu, tazahu, ɨʔaromo, upiʔa, wirahu, hetekatu, upiʔahaw, mozuhu, tɨpaw, ɨremeʔɨwɨr, hupiʔa, uzuhezkatu, ɨwaz, ukenuhu, zapukazaʔɨr, ɨwɨkwar, ʔɨpihun, maʔeputɨr, ukwaku, waikwerupi, zawaruhupe, ɨwɨxig, Hehapɨhagatu, Hekuzarkatu, Iakagahɨ, Ukwawkatu, haikweromo, haikwerupi, uhɨapekatu, uzepiʔamomor, ɨparan, ɨpupe, ɨrɨhu, ɨrɨhupe, ɨrɨmeʔɨwɨr, ɨwɨzua, Amakɨr, Ararkaʔapehar, Aʔere, Hairagaw, Heakagahɨ, Imaʔuhezkatu, Ipuhuzkatu, Mewekatu, Nahetakatukwaw, Naxigatukwaw, Opokopokok, Tuweharupi, Umaʔerekokatu.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -133,11 +133,11 @@ The development of this treebank is supported by the by European Research Counci
 </ul>
 
 <ul>
-<li>This corpus contains 47 word types tagged as particles (PART): Aze, Herua, Ni, aipo, aʔe, e, et, ihe, kakwez, kurɨ, kwa, kɨn, ma, mo, mume, nehe, nene, neno, no, pa, raʔa, raʔe, rihi, riʔi, roko, ruʔu, te, ten, tomo, tue, tuen, tɨ, uzuraʔa, wa, we, wi, wiwi, wà, wə, xe, xo, zepe, zo, zoae, zogatu, zote, ʔɨ</li>
+<li>This corpus contains 50 word types tagged as particles (PART): Ate, Aze, Herua, aipo, aʔe, e, et, ihe, kakwez, kurɨ, kwa, kwez, kɨn, ma, mo, mume, nan, nankwaw, nehe, nene, neno, no, pa, rakwez, raʔa, raʔe, rihi, riʔi, roko, ruʔu, te, ten, tomo, tue, tuen, tuwe, tɨ, uzuraʔa, wa, we, wi, wiwi, xe, xo, zepe, zo, zoae, zogatu, zote, ʔɨ</li>
 </ul>
 
 <ul>
-<li>This corpus contains 27 lemmas tagged as pronouns (PRON): agwer, aikwer, aikwez, aipo, aiʔaw, aiʔàg, akwez, amo, aʔe, ere, he, ihe, ko, kwe, kwez, mara, maran, maʔe, mo, mon, màrà, naʔaw, ne, paw, zane, zàwe, ʔaw</li>
+<li>This corpus contains 25 lemmas tagged as pronouns (PRON): agwer, aikwez, aipo, aiʔag, aiʔaw, akwez, amo, aʔe, ere, he, ihe, ko, kwe, kwez, mara, maran, maʔe, mo, mon, naʔaw, ne, paw, zane, zawe, ʔaw</li>
 </ul>
 
 <ul>
@@ -163,7 +163,7 @@ The development of this treebank is supported by the by European Research Counci
 <ul>
   <li>Ger
   <ul>
-    <li>VERB: hexakpa, upuranupa, hekarpa, haropa, pɨhɨkpa, watapa, iputukapa, izukapa, iʔupa, imugwawpa</li>
+    <li>VERB: hexakpa, upuranupa, hekarpa, haropa, pɨhɨkpa, watapa, iputukapa, izukapa, iʔupa, heruwa</li>
   </ul>
   </li>
 </ul>
@@ -181,8 +181,8 @@ The development of this treebank is supported by the by European Research Counci
   <li>Coll
     <ul>
       <li>DET: omogwer</li>
-      <li>NOUN: amogwer, kuzàgwer, Awakwer, kwàtàzgwerai</li>
-      <li>PRON: omogwer, amogwer</li>
+      <li>NOUN: kuzagwer, Awakwer, kwatazgwerai</li>
+      <li>PRON: amogwer, omogwer</li>
     </ul>
   </li>
 </ul>
@@ -190,11 +190,11 @@ The development of this treebank is supported by the by European Research Counci
 <ul>
   <li>Plur
     <ul>
-      <li>ADP: wanupe, wanuwi, wanehe, peme, waʔaromo, wanupi, wazawe, zanewi</li>
-      <li>AUX: waiko, wàiko, zaha</li>
+      <li>ADP: wanupe, wanuwi, wanehe, peme, waʔaromo, wanupi, wazawe</li>
+      <li>AUX: waiko, zaha</li>
       <li>NOUN: wanekon, wanekohaw, wanekohawpe, Zanekuʔem, Zaneru, wako, wamumeʔuhaw, wapɨpor, Zanekaruk, wamemɨr</li>
-      <li>PART: wa, wà, wə, xe</li>
-      <li>PRON: zane, zanewe</li>
+      <li>PART: wa, xe</li>
+      <li>PRON: zane, zanewe, zanewi</li>
       <li>VERB: waiko, Zaha, Peixe, Zaixe, wata, xiapɨz, Nazaikokwaw, Nazanepɨtuhemkwaw, Wapɨk, Xixak</li>
     </ul>
   </li>
@@ -204,10 +204,10 @@ The development of this treebank is supported by the by European Research Counci
   <li>Sing
     <ul>
       <li>ADP: ihewe, newe</li>
-      <li>AUX: aha, eho, tekoko</li>
-      <li>NOUN: hereraha, hehɨ, hemaʔe, hemurɨpar, hereitɨk, nemono, nerukaz, newioraw, Hepuruʔuwer, Heàkàg</li>
+      <li>AUX: aha, eho, tekoko, tanaʔag</li>
+      <li>NOUN: hererahae, hehɨ, hemurɨpar, hereitɨk, heru, nemono, nerukaz, newioraw, Heakag, Hepuruʔuwer</li>
       <li>PART: ihe</li>
-      <li>PRON: ihe, ne, newe</li>
+      <li>PRON: ihe, hemaʔe, ne, nemaʔe, newe</li>
       <li>VERB: azur, ahaputar, Aexak, ereiko, Ezur, erezur, Azapo, Eapɨk, Eho, Emururapiʔez</li>
     </ul>
   </li>
@@ -226,9 +226,18 @@ The development of this treebank is supported by the by European Research Counci
 </ul>
 
 <ul>
+  <li>Abl
+    <ul>
+      <li>NOUN: kaʔawi, tawi, zumenwi, Awi, ikupewi, pinowi, toʔomwi, uhɨwi, wɨrakawi, ɨwi</li>
+      <li>PRON: aʔewi, Maʔewi, zanewi</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>All
     <ul>
-      <li>NOUN: kope, tawpe, ʔɨpe, kaʔape, ɨrɨhupe, tuzukpe, rekohawpe, ʔuhawpe</li>
+      <li>NOUN: kope, tawpe, ʔɨpe, kaʔape, ɨrɨhupe, tuzukpe, maiʔuhawpe, rekohawpe</li>
       <li>PRON: Maʔepe</li>
     </ul>
   </li>
@@ -238,7 +247,7 @@ The development of this treebank is supported by the by European Research Counci
   <li>Dat
     <ul>
       <li>ADP: izupe, newe, wanehe, hehe, uzeupe, wanuwi, wanupe</li>
-      <li>NOUN: kwarerpe, zuʔipe, uhɨpe, hokope, zakarepe, wemirekope, apitawpe, ipekupe, uhupe, upe</li>
+      <li>NOUN: kwarerpe, zuʔipe, uhɨpe, hokope, zakarepe, upe, apitawpe, ipekupe, uhupe, wemirekope</li>
       <li>PRON: aʔepe, hawe, nepa, newe, omokatupe, zanewe</li>
       <li>PROPN: Maripe, Karipe, Zuzepe, maizupe</li>
     </ul>
@@ -248,7 +257,7 @@ The development of this treebank is supported by the by European Research Counci
 <ul>
   <li>Equ
     <ul>
-      <li>PRON: Marazawe, Marazawen, Màràzàwe</li>
+      <li>PRON: Marazawe, Marazawen</li>
     </ul>
   </li>
 </ul>
@@ -257,7 +266,7 @@ The development of this treebank is supported by the by European Research Counci
   <li>Loc
     <ul>
       <li>ADP: izuwi</li>
-      <li>NOUN: ɨpe, kaʔape, ɨʔaromo, ʔɨwɨr, kope, tawpe, ʔɨpe, reme, wekohawpe, ɨrɨhupe</li>
+      <li>NOUN: ɨpe, kaʔape, ʔɨwɨr, kope, tawpe, ʔɨpe, reme, wekohawpe, pepe, wanekohawpe</li>
       <li>PRON: aʔepe, Maʔepe, Maʔenpete, aipope, akwezpe, parupi, pawpe</li>
     </ul>
   </li>
@@ -266,7 +275,8 @@ The development of this treebank is supported by the by European Research Counci
 <ul>
   <li>Ref
     <ul>
-      <li>PRON: Aʔeà, Aʔeá, Aʔeʔi</li>
+      <li>CCONJ: taʔei</li>
+      <li>PRON: Aʔea, Aʔeʔi</li>
     </ul>
   </li>
 </ul>
@@ -274,7 +284,7 @@ The development of this treebank is supported by the by European Research Counci
 <ul>
   <li>Tem
     <ul>
-      <li>NOUN: tueharupi, Ikuʔegwepe, Tuweharupi</li>
+      <li>NOUN: Ikuʔegwepe</li>
       <li>PRON: aʔere</li>
     </ul>
   </li>
@@ -284,7 +294,7 @@ The development of this treebank is supported by the by European Research Counci
   <li>Tra
     <ul>
       <li>ADP: ipiaromo, apɨteromo, iruramo</li>
-      <li>NOUN: Azeharomoete, azeharomoeteahɨ</li>
+      <li>NOUN: Azeharomoete</li>
     </ul>
   </li>
 </ul>
@@ -302,11 +312,11 @@ The development of this treebank is supported by the by European Research Counci
 <ul>
   <li>Neg
     <ul>
-      <li>ADV: nan, ʔɨmaz, Nakwehetetekwaw</li>
-      <li>INTJ: Nan, nankwaw</li>
-      <li>NOUN: pixikwaw, nahetakwaw, Naʔikatu, naʔikatukwaw, naʔima, numaʔe, Naheta, Nahuhagkwaw, Naxig, Naʔikatuaʔukwaw</li>
-      <li>NUM: naʔiruz, nàpɨtàʔikwaw</li>
-      <li>VERB: numukamukwaw, nuʔukwaw, nuexakwaw, nukwawkwaw, nuzukakwaw, Napunerkwaw, Nerexakwawkwez, nakwawkwaw, nuhemkwaw, nukwawkatukwaw</li>
+      <li>ADV: ʔɨmaz, Nakwehetetekwaw</li>
+      <li>NOUN: nahetakwaw, naʔikatukwaw, Naheta, Nahuhagkwaw, Naxig, Naʔikatuaʔukwaw, Naʔikatupixikwaw, Naʔimaʔuhezpixikwaw, Naʔipurageteahɨkwaw, atukwaw</li>
+      <li>NUM: naʔiruz, napɨtaʔikwaw</li>
+      <li>PART: nan, nankwaw</li>
+      <li>VERB: numukamukwaw, nuʔukwaw, nuexakwaw, nukwawkwaw, nuzukakwaw, Napunerkwaw, Nerexakwaw, nakwawkwaw, nuhemkwaw, nukwawkatukwaw</li>
     </ul>
   </li>
 </ul>
@@ -338,8 +348,8 @@ The development of this treebank is supported by the by European Research Counci
 <ul>
   <li>Prog
     <ul>
-      <li>AUX: iko, waiko, uk, iteko, ukw, wàiko</li>
-      <li>VERB: waiko, Wikuwe</li>
+      <li>AUX: iko, waiko, uk, iteko, ukw</li>
+      <li>VERB: waiko, Wikuwe, iko</li>
     </ul>
   </li>
 </ul>
@@ -359,8 +369,8 @@ The development of this treebank is supported by the by European Research Counci
 <ul>
   <li>Des
     <ul>
-      <li>NOUN: ʔuhez, ipuruʔuwer, Hurɨweteweraʔu, Hepuruʔuwer, ikatuahɨweraʔu, imaʔuhez, nepuruexakwer</li>
-      <li>VERB: uzuhez, namonowerkwaw, ʔuhezkwaw</li>
+      <li>NOUN: imaʔuhez, ipuruʔuwer, Hurɨweteweraʔu, Hepuruʔuwer, Naʔimaʔuhezpixikwaw, ikatuahɨweraʔu, nepuruexakwer</li>
+      <li>VERB: uzuhez, Naʔimaʔuhezkwaw, namonowerkwaw</li>
     </ul>
   </li>
 </ul>
@@ -377,7 +387,7 @@ The development of this treebank is supported by the by European Research Counci
 <ul>
   <li>Prp
     <ul>
-      <li>VERB: turkwez, Toromokon, tazukakutu</li>
+      <li>VERB: tur, Toromokon, tazukakutu</li>
     </ul>
   </li>
 </ul>
@@ -389,9 +399,9 @@ The development of this treebank is supported by the by European Research Counci
 <ul>
   <li>Fut
     <ul>
-      <li>NOUN: wemiʔuram, hetaputar, wemiʔuràm, Hurɨweteahɨputar, hemiʔuram, hereruʔarputar, hetawàm, heʔuputar, hɨruràm, imeʔegkarpɨràm</li>
+      <li>NOUN: wemiʔuram, hetaputar, Hurɨweteahɨputar, hemiʔuram, hereruʔarputar, hetawam, heʔuputar, hɨruram, imeʔegkarpɨram, imihirpɨram</li>
       <li>PART: nehe</li>
-      <li>VERB: ahaputar, ohoputar, ʔurputar, Umeʔegkarputar, azukaputar, umumeʔuputar, upɨhɨkràm, Arahaputar, Aʔuputar, Umànoputar</li>
+      <li>VERB: ahaputar, ohoputar, ʔurputar, Umeʔegkarputar, azukaputar, umumeʔuputar, upɨhɨkram, Arahaputar, Aʔuputar, Umanoputar</li>
     </ul>
   </li>
 </ul>
@@ -399,10 +409,10 @@ The development of this treebank is supported by the by European Research Counci
 <ul>
   <li>Past
     <ul>
-      <li>ADV: kwez, kwehe, kwàz, rakwez, arer, zekwehe</li>
-      <li>NOUN: iàkàgwer, roʔokwer, zeʔegawkwez, àkàgwer, hurkwer, ipuxikwer, kuzwer, kàxigwer, pegwer, waneixeawer</li>
-      <li>PART: raʔe, roko, kakwez</li>
-      <li>VERB: Nerexakwawkwez, turkwez, Uhewikàzxi, aʔukwez, uurkwez, uʔarkwez</li>
+      <li>ADV: kwehetete, kwaz, arer, zekwehe</li>
+      <li>NOUN: iakagwer, akagwer, roʔokwer, hurkwer, ipuxikwer, kaxigwer, kuzwer, pegwer, waneixeawer, wazewɨrawer</li>
+      <li>PART: raʔe, kwez, roko, kakwez, rakwez</li>
+      <li>VERB: tur, Uhewikazxi, aʔu, uurkwez, uʔarkwez</li>
     </ul>
   </li>
 </ul>
@@ -412,12 +422,21 @@ The development of this treebank is supported by the by European Research Counci
 </ul>
 
 <ul>
+  <li>Antip
+    <ul>
+      <li>NOUN: ipuruʔuwer, Hepuruʔuwer, nepuruexakwer, purukutukaw, purukutukawer, puruxiʔuhaw</li>
+      <li>VERB: Upurukutuk, umaiʔuteteaʔu</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Cau
     <ul>
       <li>AUX: omonokar</li>
-      <li>NOUN: muhàg, imono, imomorhaw, hemurɨpar, imomor, Pemɨrɨpar, hemurɨparpe, hexakar, imeʔegkarpɨràm, imonokwez</li>
-      <li>VERB: momor, Omono, omomor, numukamukwaw, umeʔegkar, ukwawkar, uzapokar, uzemiʔikar, uzemonoʔog, Omowok</li>
-      <li>VERB-Ger: imugwawpa, Imomorpa, Uzemonoʔonoʔogatupa, imonopa, imugwerawpa, imukàgkarpa, imuzeʔazna, uzemononoʔogatupa, uzepiamiapopa</li>
+      <li>NOUN: muhag, imono, imomorhaw, hemurɨpar, imomor, Pemɨrɨpar, hemurɨparpe, hexakar, imeʔegkarpɨram, imuiʔeʔehaw</li>
+      <li>VERB: momor, Omono, numukamukwaw, omomor, umeʔegkar, ukwawkar, uzapokar, uzemiʔikar, uzemonoʔog, Omowok</li>
+      <li>VERB-Ger: imugwawpa, Imomorpa, Uzemonoʔonoʔogatupa, imonopa, imugwerawpa, imukagkarpa, imuzeʔazna, uzemononoʔogatupa, uzepiamiapopa</li>
     </ul>
   </li>
 </ul>
@@ -425,9 +444,9 @@ The development of this treebank is supported by the by European Research Counci
 <ul>
   <li>Com
     <ul>
-      <li>NOUN: heraha, hereraha, Herur, hereko, hereruʔarputar, herurawer, nereraha, rerurawer</li>
-      <li>VERB: weraha, reko, werur, rekokwaw, wenuhem, weruwewe, Arahaputar, Eraha, Erur, Toromokon</li>
-      <li>VERB-Ger: heruwa, heruwà</li>
+      <li>NOUN: heraha, hererahae, Herur, hereko, hereraha, hereruʔarputar, herurawer, nererahae, rerurawer</li>
+      <li>VERB: weraha, werur, umaʔereko, erupuze, heruwa, numaʔerekokwaw, wenuhem, weruwewe, Arahaputar, Eraha</li>
+      <li>VERB-Ger: heruwa</li>
     </ul>
   </li>
 </ul>
@@ -448,7 +467,7 @@ The development of this treebank is supported by the by European Research Counci
 <ul>
   <li>Nfh
     <ul>
-      <li>ADV: zekaipo, zekwehe, Nàzewe, Seze, zeiakpo, zeikaipo</li>
+      <li>ADV: zekaipo, zekwehe, Seze, zeiakpo, zeikaipo</li>
     </ul>
   </li>
 </ul>
@@ -465,7 +484,7 @@ The development of this treebank is supported by the by European Research Counci
     <ul>
       <li>DET: aʔe, kwez, akwez, ʔaw, agwer, Aikwez, Aiʔaw, aipo, amo, ko</li>
       <li>NOUN: aʔepehar</li>
-      <li>PRON: aʔe, aʔepe, kwez, ʔaw, Agwer, Aiʔaw, Aiʔàg, Aʔeae, akwez, haikwez</li>
+      <li>PRON: aʔe, aʔepe, kwez, aʔewi, ʔaw, Agwer, Aikwez, Aiʔag, Aiʔaw, Aʔea</li>
     </ul>
   </li>
 </ul>
@@ -474,8 +493,7 @@ The development of this treebank is supported by the by European Research Counci
   <li>Ind
     <ul>
       <li>DET: amo, omo, amoae, omogwer</li>
-      <li>NOUN: amogwer</li>
-      <li>PRON: amo, omogwer, omo, amogwer, omokatupe</li>
+      <li>PRON: amo, amogwer, omogwer, omo, omokatupe</li>
     </ul>
   </li>
 </ul>
@@ -483,7 +501,7 @@ The development of this treebank is supported by the by European Research Counci
 <ul>
   <li>Int
     <ul>
-      <li>PRON: Maʔepe, Maʔe, Mon, Marazawe, Marazawen, Mo, Màràzàwe, màrà, zàwe, Maʔenpete</li>
+      <li>PRON: Maʔe, Maʔepe, Marazawe, Mon, Maiʔin, Marazawen, Mo, mara, maʔin, zawe</li>
     </ul>
   </li>
 </ul>
@@ -491,7 +509,7 @@ The development of this treebank is supported by the by European Research Counci
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: ihe, zane, aʔe, ne, aʔeae, ere, hawe, nepa</li>
+      <li>PRON: ihe, zane, ne, aʔe, aʔeae, ere, hawe, nepa, zanewi</li>
     </ul>
   </li>
 </ul>
@@ -500,6 +518,7 @@ The development of this treebank is supported by the by European Research Counci
   <li>Tot
     <ul>
       <li>DET: paw</li>
+      <li>NOUN: pawhaw</li>
       <li>PRON: paw, pa, parupi, pawpe</li>
     </ul>
   </li>
@@ -513,8 +532,9 @@ The development of this treebank is supported by the by European Research Counci
 <ul>
   <li>Yes
     <ul>
-      <li>ADP: wanupe, wanuwi, ihewe, newe, peme, wanupi, wazawe, zanewi</li>
-      <li>NOUN: wanekohaw, wanekon, wemiʔuram, Zanekuʔem, hereraha, wako, wamumeʔuhaw, Zanekaruk, hehɨ, hemaʔe</li>
+      <li>ADP: wanupe, wanuwi, ihewe, newe, peme, wanupi, wazawe</li>
+      <li>NOUN: wanekohaw, wanekon, wemiʔuram, Zanekuʔem, wako, wamumeʔuhaw, Zanekaruk, hehɨ, hemurɨpar, hererahae</li>
+      <li>PRON: hemaʔe, nemaʔe</li>
     </ul>
   </li>
 </ul>
@@ -526,8 +546,8 @@ The development of this treebank is supported by the by European Research Counci
 <ul>
   <li>Yes
     <ul>
-      <li>ADP: uzeupe, uzeupeupe, uzehezehe, uzepupe, uzeupiupi</li>
-      <li>NOUN: uzepi, izeupe, uzeapomaʔe, uzeapomaʔekwer, uzeputupɨkhaw, wazehuhaw, wazewenugar, zeapo</li>
+      <li>ADP: uzeupe, uzeupeupe, uzehezehe, izeupe, uzepupe, uzeupiupi</li>
+      <li>NOUN: uzepi, uzeaka, uzeapomaʔe, uzeapomaʔekwer, uzeputupɨkhaw, uzepɨʔa, wazehuhaw, wazewenugar, zeapo</li>
       <li>VERB: uzɨpɨrog, uzepɨrog, uzeapo, uzemiʔikar, uzemonoʔog, Uzemurɨparkatu, uzemugakwaw, uzemugakwawaʔi, uzemukuhem, Uzeapɨz</li>
       <li>VERB-Ger: Uzemonoʔonoʔogatupa, imuzeʔazna, uzemononoʔogatupa, uzepiamiapopa, uzeupirpa, uzeʔazna</li>
     </ul>
@@ -542,9 +562,8 @@ The development of this treebank is supported by the by European Research Counci
   <li>1
     <ul>
       <li>AUX: iteko</li>
-      <li>NOUN: hemaʔe</li>
       <li>PART: ihe</li>
-      <li>PRON: ihe, zane, zanewe</li>
+      <li>PRON: ihe, zane, hemaʔe, zanewe, zanewi</li>
       <li>VERB: urezur</li>
     </ul>
   </li>
@@ -565,9 +584,9 @@ The development of this treebank is supported by the by European Research Counci
     <ul>
       <li>ADP: wanupe</li>
       <li>AUX: iko, waiko</li>
-      <li>PART: wà</li>
-      <li>PRON: aʔe, aʔeae, Aʔeà, Aʔeá, Aʔeʔi</li>
-      <li>VERB: uʔu, wexak, Uimur, Upuranu, Wekar, oho, umàno, uzeʔeg, wenu, Umeʔegatu</li>
+      <li>PART: wa</li>
+      <li>PRON: aʔeae, Aʔea</li>
+      <li>VERB: uʔu, wexak, Uimur, Upuranu, Wekar, oho, umano, uzeʔeg, wenu, Umeʔegatu</li>
     </ul>
   </li>
 </ul>
@@ -588,10 +607,9 @@ The development of this treebank is supported by the by European Research Counci
       </li>
       <li>In
         <ul>
-          <li>ADP: zanewi</li>
           <li>AUX: zaha</li>
           <li>NOUN: Zanekuʔem, Zaneru, Zanekaruk, zanekɨhaw, zanepɨtuhem, zanerekohawpe, zanexiʔu, zanezegar, zanezuka</li>
-          <li>PRON: zane, zanewe</li>
+          <li>PRON: zane, zanewe, zanewi</li>
           <li>VERB: Zaha, Zaixe, xiapɨz, Nazaikokwaw, Nazanepɨtuhemkwaw, Xixak, xiagaw, ximono, xiraha, xiu</li>
         </ul>
       </li>
@@ -616,8 +634,9 @@ The development of this treebank is supported by the by European Research Counci
     <ul>
       <li>Ind
         <ul>
-          <li>NOUN: ipuruʔuwer, Hepuruʔuwer, nepuruexakwer, purukutukaw, purukutukawer, purumukatuhaw, puruxiʔuhaw</li>
-          <li>VERB: Upurukutuk</li>
+          <li>NOUN: imaʔuhez, maʔemumeʔuhaw, Imaʔenukwaw, Naʔimaʔuhezpixikwaw, maiʔuhawpe, maʔemumeʔuhawkwez, wamaiʔuhaw</li>
+          <li>VERB: umaiʔu, umaʔereko, numaʔerekokwaw, Naʔimaʔuhezkwaw, Umaʔemumeʔu, umaiʔuaʔipa, umaiʔukatu</li>
+          <li>VERB-Ger: umaiʔuaʔipa</li>
         </ul>
       </li>
     </ul>
@@ -629,12 +648,12 @@ The development of this treebank is supported by the by European Research Counci
     <ul>
       <li>Yes
         <ul>
-          <li>ADP: huakeaʔi</li>
-          <li>ADV: Taritɨkaʔi, aʔi</li>
-          <li>NOUN: ipiraʔi, Karuketeaʔi, Mairaʔi, Pixikaʔi, inemuʔi, memɨraʔi, tahɨwai, werotaʔi, wiràmiri, zutɨkaʔe</li>
-          <li>NUM: nàpɨtàʔikwaw</li>
+          <li>ADP: huakeaʔi, rupiaʔi</li>
+          <li>ADV: Taritɨkaʔi</li>
+          <li>NOUN: wiramiri, ipiraʔi, Karuketeaʔi, inemuʔi, memɨraʔi, tahɨwai, werotaʔi, zutɨkaʔe, zutɨkaʔi, Imemɨraʔi</li>
+          <li>NUM: napɨtaʔikwaw</li>
           <li>PROPN: Mairaʔi</li>
-          <li>VERB: uʔuaʔi</li>
+          <li>VERB: ukwawewer, ohoaʔi, uʔuaʔi</li>
         </ul>
       </li>
     </ul>
@@ -646,15 +665,27 @@ The development of this treebank is supported by the by European Research Counci
     <ul>
       <li>Yes
         <ul>
-          <li>ADP: huwakete</li>
-          <li>ADV: teteaʔu, tue, tete, katu, naʔarewahɨ, ɨwate, katete, Awɨze, Mewekatu, Nèzewegatete</li>
+          <li>ADP: huwakete, omoeteahɨ</li>
+          <li>ADV: naʔarewahɨ, kwehetete, Awɨze, Nezewegatete, Nakwehetetekwaw</li>
           <li>DET: amoae</li>
-          <li>NOUN: katu, ikatuahɨ, hetateteaʔu, hurɨwete, uhuuhuaʔi, inemahɨ, tuaʔu, uhuaʔu, Hakuahɨ, Hurɨweteweraʔu</li>
-          <li>PART: tue, e, tuen, zoae, zogatu</li>
-          <li>PRON: aʔeae, omokatupe, pawete</li>
+          <li>NOUN: ɨwate, ikatuahɨ, hetateteaʔu, hurɨwete, karateteaʔu, uhuuhuaʔi, inemahɨ, ipirateteaʔu, kwarahɨtete, tuaʔu</li>
+          <li>PART: tue, tuwe, e, tuen, zoae, zogatu</li>
+          <li>PRON: aʔeae, maʔeteteaʔu, omokatupe, pawete</li>
           <li>PROPN: Tupanae</li>
-          <li>VERB: Ukwawkatu, Umeʔegatu, Uzemurɨparkatu, nukwawkatukwaw, uzapɨpɨkahɨ, uzemugakwawaʔi, ʔukatu, Exakatu, Nawizeahɨkwaw, Oporaʔu</li>
-          <li>VERB-Ger: Uzemonoʔonoʔogatupa, uzemononoʔogatupa, ʔuaʔipa</li>
+          <li>VERB: Ukwawkatu, ʔuteteaʔu, Umeʔegatu, Uzemurɨparkatu, nukwawkatukwaw, uzapɨpɨkahɨ, uzemugakwawaʔi, Exakatu, Naixepixikwaw, Nawizeahɨkwaw</li>
+          <li>VERB-Ger: Uzemonoʔonoʔogatupa, umaiʔuaʔipa, uzemononoʔogatupa</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>False</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>NOUN: iʔimuaʔu</li>
         </ul>
       </li>
     </ul>
@@ -678,11 +709,10 @@ The development of this treebank is supported by the by European Research Counci
     <ul>
       <li>Yes
         <ul>
-          <li>ADP: te, atè</li>
+          <li>ADP: te, ate</li>
           <li>CCONJ: ni, u</li>
           <li>NOUN: muite, kirom, mamaz, março, newioraw, uwioraw, hewioraw, wioraw</li>
-          <li>PART: Te, Ni</li>
-          <li>SCONJ: te</li>
+          <li>PART: te, Ate</li>
         </ul>
       </li>
     </ul>
@@ -694,8 +724,8 @@ The development of this treebank is supported by the by European Research Counci
     <ul>
       <li>Yes
         <ul>
-          <li>ADV: aipo</li>
-          <li>PART: ruʔu, aipo, te</li>
+          <li>ADV: zekaipo</li>
+          <li>PART: aipo, ruʔu, te</li>
           <li>PRON: Maʔe, Maʔenpete</li>
         </ul>
       </li>
@@ -708,30 +738,30 @@ The development of this treebank is supported by the by European Research Counci
     <ul>
       <li>Abs
         <ul>
-          <li>NOUN: ipɨahumaʔe, urmaʔe, xigmaʔe, ikatuahɨmaʔe, inemahɨmaʔe, izapomaʔe, katu, katumaʔe, pixikaʔimaʔe, turhaw</li>
+          <li>NOUN: ipɨahumaʔe, urmaʔe, xigmaʔe, ikatuahɨmaʔe, inemahɨmaʔe, izapomaʔe, katumaʔe, pixikaʔimaʔe, turhaw, ukuzmaʔepe</li>
         </ul>
       </li>
       <li>Ag
         <ul>
           <li>ADP: iwɨrhar</li>
           <li>ADV: har, arer</li>
-          <li>NOUN: ɨwatehar, ɨpehar, iʔuhar, kopehar, tueha, tueharupi, Azeharomoete, Pemɨrɨpar, amumeʔutar, azeharomoeteahɨ</li>
+          <li>NOUN: tueha, ɨpehar, ɨwatehar, Tuweha, azehar, iʔuhar, kopehar, Azeharomoete, Pemɨrɨpar, amumeʔutar</li>
         </ul>
       </li>
       <li>Circ
         <ul>
-          <li>ADV: haw, paw</li>
-          <li>NOUN: pɨhaw, ʔahaw, tueharupi, wanekohaw, imumeʔuhaw, mumeʔuhaw, wekohawpe, wamumeʔuhaw, hekarhaw, hekohaw</li>
+          <li>ADV: paw</li>
+          <li>NOUN: pɨhaw, ʔahaw, imumeʔuhaw, wanekohaw, wekohawpe, maʔemumeʔuhaw, wamumeʔuhaw, hekarhaw, hekohaw, wanekohawpe</li>
         </ul>
       </li>
       <li>DevPass
         <ul>
-          <li>NOUN: ɨrɨhupe, wemiʔuram, temiʔu, wemirekope, hemireko, hemiʔu, wemiʔuràm, hemiapo, hemiapokwer, hemiriko</li>
+          <li>NOUN: ɨrɨhupe, wemiʔuram, wemirekope, temiʔu, hemireko, hemiʔu, hemiapo, hemiapokwer, hemiriko, hemixakwer</li>
         </ul>
       </li>
       <li>Pas
         <ul>
-          <li>NOUN: tɨkwer, zeʔegwer, hexakpɨr, imeʔegkarpɨràm, imihirpɨràm, izapopɨràm, iziwàpɨrer, iziwàziwàpɨr, izuhawpɨrer, iʔupɨr</li>
+          <li>NOUN: tɨkwer, zeʔegwer, hexakpɨr, imeʔegkarpɨram, imihirpɨram, izapopɨram, iziwapɨrer, iziwaziwapɨr, izuhawpɨrer, iʔupɨr</li>
         </ul>
       </li>
     </ul>
@@ -779,15 +809,16 @@ The development of this treebank is supported by the by European Research Counci
     <ul>
       <li>1
         <ul>
-          <li>ADP: ihewe, zanewi</li>
-          <li>NOUN: hereraha, Zanekuʔem, Zanekaruk, hehɨ, hemurɨpar, hereitɨk, zanekɨhaw, Hepuruʔuwer, Heàkàg, hekatu</li>
-          <li>PRON: hawe</li>
+          <li>ADP: ihewe</li>
+          <li>NOUN: Zanekuʔem, hererahae, Zanekaruk, hehɨ, hemurɨpar, hereitɨk, heru, zanekɨhaw, Heakag, Hepuruʔuwer</li>
+          <li>PRON: hawe, hemaʔe</li>
         </ul>
       </li>
       <li>2
         <ul>
           <li>ADP: newe, peme</li>
-          <li>NOUN: nemono, nerukaz, newioraw, Nexixirogwer, Pemɨrɨpar, nekutuk, nekutukawer, nekwa, nemaʔe, nememɨrae</li>
+          <li>NOUN: nemono, nerukaz, newioraw, Nexixirogwer, Pemɨrɨpar, nekutuk, nekutukawer, nekwa, nememɨrae, nepepo</li>
+          <li>PRON: nemaʔe</li>
           <li>VERB: Epɨhɨk</li>
         </ul>
       </li>
@@ -808,7 +839,7 @@ The development of this treebank is supported by the by European Research Counci
     <ul>
       <li>1
         <ul>
-          <li>AUX: aha, tekoko, zaha</li>
+          <li>AUX: aha, tekoko, tanaʔag, zaha</li>
           <li>NOUN: Zaneru, amumeʔutar, zanepɨtuhem</li>
           <li>VERB: ahaputar, azur, Aexak, Zaha, aputar, Aha, Azapo, Zaixe, aiko, azukaputar</li>
         </ul>
@@ -816,15 +847,28 @@ The development of this treebank is supported by the by European Research Counci
       <li>2
         <ul>
           <li>AUX: eho</li>
-          <li>VERB: ereiko, Ezur, erezur, Eapɨk, Eho, Emururapiʔez, Ezapo, Nerexakwawkwez, Peixe, erezapo</li>
+          <li>VERB: ereiko, Ezur, erezur, Eapɨk, Eho, Emururapiʔez, Ezapo, Nerexakwaw, Peixe, erezapo</li>
         </ul>
       </li>
       <li>3
         <ul>
-          <li>AUX: oho, iko, waiko, ʔam, omonokar, in, ini, uk, upa, wiko</li>
-          <li>NOUN: umai, umaʔe, wanekon, iʔi, uʔɨ, wanekohawpe, Opo, heta, iʔu, naʔima</li>
-          <li>VERB: oho, uʔu, uhem, upɨhɨk, ukwaw, uzeʔeg, upaw, uker, uzuka, wexak</li>
-          <li>VERB-Ger: watapa, uhapukazta, ukwawpa, hexakpa, pekapa, uhempa, ukerpa</li>
+          <li>AUX: oho, waiko, iko, ʔam, omonokar, in, ini, uk, upa, wiko</li>
+          <li>NOUN: uʔɨ, wanekon, iʔi, opo, upina, upira, uzakag, uzuru, wanekohawpe, heta</li>
+          <li>VERB: oho, uʔu, uhem, upɨhɨk, uzeʔeg, ukwaw, upaw, wexak, uker, uzuka</li>
+          <li>VERB-Ger: watapa, uhapukazta, ukwawpa, hexakpa, pekapa, uhempa, ukerpa, umaiʔuaʔipa</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Prp</a>
+    <ul>
+      <li>False
+        <ul>
+          <li>NOUN: hererahae, nererahae</li>
+          <li>VERB: Azukae</li>
         </ul>
       </li>
     </ul>
@@ -837,7 +881,8 @@ The development of this treebank is supported by the by European Research Counci
       <li>Di
         <ul>
           <li>ADP: uzeupeupe, uzehezehe, uzeupiupi</li>
-          <li>NOUN: toʔotoʔom, uhuuhuaʔi, maʔemaʔe, toʔoʔtoʔom, uhuuhu, imemɨmemɨr, ipekwepekwer, ipuipu, iziwàziwà, iziwàziwàpɨr</li>
+          <li>NOUN: toʔotoʔom, uhuuhuaʔi, toʔoʔtoʔom, uhuuhu, imemɨmemɨr, ipekwepekwer, ipuipu, iziwaziwa, iziwaziwapɨr, toʔotoʔomteteaʔu</li>
+          <li>PRON: maʔemaʔe</li>
           <li>VERB: Utɨrɨtɨrɨk, kopokok, Exiroxiro, Upukapuka, Upuzepuze, Uzapoapo, Uzemonoʔonoʔogatupa, Wenuneʔoneʔo, Wexaexak, epupepupe</li>
           <li>VERB-Ger: Uzemonoʔonoʔogatupa</li>
         </ul>
@@ -860,15 +905,15 @@ The development of this treebank is supported by the by European Research Counci
     <ul>
       <li>Abs
         <ul>
-          <li>NOUN: teko, tu, tɨ, tɨkɨʔɨr, ipira, tukaz, tɨwɨr, ipiraʔi, tamuz, tuaʔu</li>
+          <li>NOUN: teko, tu, tɨ, tukaz, tɨkɨʔɨr, tɨwɨr, tamuz, tuaʔu, temiʔu, turhaw</li>
           <li>PRON: tomo</li>
         </ul>
       </li>
       <li>Cont
         <ul>
-          <li>ADP: rupi, rehe, mehe, pupe, romo, wanupe, wi, me, upi, re</li>
-          <li>NOUN: katu, wanekon, hu, mozuhu, wanekohaw, reme, gatu, kurer, pihun, ràpuz</li>
-          <li>PRON: parupi, pawete</li>
+          <li>ADP: rupi, rehe, mehe, pupe, romo, wanupe, me, upi, ʔaromo, re</li>
+          <li>NOUN: katu, wanekon, mozuhu, wanekohaw, reme, ahɨ, gatu, kurer, pihun, rapuz</li>
+          <li>PRON: hemaʔe, parupi, paw, pawete</li>
           <li>VERB: kwawpa, puranupa, urezur</li>
           <li>VERB-Ger: kwawpa, puranupa</li>
         </ul>
@@ -876,22 +921,49 @@ The development of this treebank is supported by the by European Research Counci
       <li>Corf
         <ul>
           <li>ADP: uzeupe, uzeupeupe, uwɨr, uzehezehe, uzupe, uzuwi, wapɨr, uzepupe, uzeupiupi</li>
-          <li>NOUN: uhɨ, uhɨpe, wahɨ, umaʔe, umemɨr, wanam, u, ukwar, umukaw, uxi</li>
+          <li>NOUN: uhɨ, wanam, uhɨpe, wahɨ, waʔɨr, umemɨr, wapuz, u, ukwar, umukaw</li>
           <li>PART: uzuraʔa</li>
+          <li>PRON: umaʔe</li>
           <li>VERB: upuranupa, wiwe, Uzemonoʔonoʔogatupa, imuzeʔazna, uzemononoʔogatupa, uzepiamiapopa, uzeupirpa, uzeʔazna, uzeʔegpa, uʔupa</li>
           <li>VERB-Ger: upuranupa, Uzemonoʔonoʔogatupa, imuzeʔazna, uzemononoʔogatupa, uzepiamiapopa, uzeupirpa, uzeʔazna, uzeʔegpa, uʔupa, watapa</li>
         </ul>
       </li>
       <li>NCont
         <ul>
-          <li>ADP: izupe, izuwi, hehe, hupi, ipiaromo, iwɨr, huake, iʔaromo, haikwer, ire</li>
-          <li>ADV: izahɨk</li>
+          <li>ADP: izupe, izuwi, hehe, hupi, ipiaromo, iwɨr, iʔaromo, huake, ire, huakeaʔi</li>
           <li>AUX: imuwa</li>
-          <li>NOUN: iʔi, heta, ihɨ, ipira, ikatuahɨ, imemɨr, ipɨpor, ipɨtuhem, iʔu, Hete</li>
+          <li>NOUN: iʔi, heta, ihɨ, ipira, iʔu, hete, iakag, ikatuahɨ, imemɨr, ipɨpor</li>
           <li>NUM: naʔiruz</li>
-          <li>PRON: haikwez, haikwer</li>
-          <li>VERB: hexakpa, hekarpa, haropa, iputukapa, izukapa, iʔupa, haku, imugwawpa, ipukuaʔu, Imomorpa</li>
-          <li>VERB-Ger: hexakpa, hekarpa, haropa, iputukapa, izukapa, iʔupa, imugwawpa, Imomorpa, henupa, heruwa</li>
+          <li>PRON: haikwez, imaʔe</li>
+          <li>VERB: hexakpa, hekarpa, haropa, iputukapa, izukapa, iʔupa, haku, heruwa, imugwawpa, ipukuaʔu</li>
+          <li>VERB-Ger: hexakpa, hekarpa, haropa, iputukapa, izukapa, iʔupa, heruwa, imugwawpa, Imomorpa, henupa</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Speech</a>
+    <ul>
+      <li>FF
+        <ul>
+          <li>PART: kɨn</li>
+        </ul>
+      </li>
+      <li>Fem
+        <ul>
+          <li>PART: ʔɨ, ma</li>
+        </ul>
+      </li>
+      <li>MM
+        <ul>
+          <li>PART: tɨ, xe</li>
+        </ul>
+      </li>
+      <li>Masc
+        <ul>
+          <li>PART: pa</li>
         </ul>
       </li>
     </ul>
@@ -923,14 +995,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (313)</li>
+      <li>VERB--NOUN (321)</li>
       <li>VERB--NOUN-ADP(ehe) (1)</li>
       <li>VERB--NOUN-ADP(upi) (1)</li>
       <li>VERB--NOUN-Abe (1)</li>
       <li>VERB--NOUN-Dat (1)</li>
       <li>VERB--NOUN-Loc (1)</li>
-      <li>VERB--PRON (5)</li>
-      <li>VERB-Ger--NOUN (23)</li>
+      <li>VERB--PRON (26)</li>
+      <li>VERB-Ger--NOUN (18)</li>
+      <li>VERB-Ger--PRON (4)</li>
     </ul>
   </li>
 </ul>
@@ -950,7 +1023,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 8 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: ʔi uzeupe, ʔi uzeupeupe, por uzepi, kwaw uzeapomaʔekwer, mumeʔu uzeapomaʔe, pɨrog uzeputupɨkhaw, zeʔeg uzeupe, ʔi izeupe</li>
+  <li>This corpus contains 11 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: ʔi uzeupe, ʔi uzeupeupe, por uzepi, hɨw uzepɨʔa, kwaw uzeapomaʔekwer, meʔeg uzeupe, muguz uzeaka, mumeʔu uzeapomaʔe, pɨrog uzeputupɨkhaw, zeʔeg uzeupe, ʔi izeupe</li>
 </ul>
 
 <h3>Relations Overview</h3>

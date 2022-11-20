@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.5 release.
 The following people have contributed to making this treebank part of UD: Colin Batchelor.
 
 Repository: [UD_Scottish_Gaelic-ARCOSG](https://github.com/UniversalDependencies/UD_Scottish_Gaelic-ARCOSG)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgd_arcosg210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgd_arcosg211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-SA 4.0
 
@@ -147,13 +147,13 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
 
 ## Relations
 
-[acl](gd_arcosg-dep-acl.html) – [acl:relcl](gd_arcosg-dep-acl-relcl.html) – [advcl](gd_arcosg-dep-advcl.html) – [advmod](gd_arcosg-dep-advmod.html) – [amod](gd_arcosg-dep-amod.html) – [appos](gd_arcosg-dep-appos.html) – [case](gd_arcosg-dep-case.html) – [case:voc](gd_arcosg-dep-case-voc.html) – [cc](gd_arcosg-dep-cc.html) – [ccomp](gd_arcosg-dep-ccomp.html) – [compound](gd_arcosg-dep-compound.html) – [conj](gd_arcosg-dep-conj.html) – [cop](gd_arcosg-dep-cop.html) – [csubj:cleft](gd_arcosg-dep-csubj-cleft.html) – [csubj:cop](gd_arcosg-dep-csubj-cop.html) – [dep](gd_arcosg-dep-dep.html) – [det](gd_arcosg-dep-det.html) – [discourse](gd_arcosg-dep-discourse.html) – [dislocated](gd_arcosg-dep-dislocated.html) – [fixed](gd_arcosg-dep-fixed.html) – [flat](gd_arcosg-dep-flat.html) – [flat:foreign](gd_arcosg-dep-flat-foreign.html) – [flat:name](gd_arcosg-dep-flat-name.html) – [mark](gd_arcosg-dep-mark.html) – [mark:prt](gd_arcosg-dep-mark-prt.html) – [nmod](gd_arcosg-dep-nmod.html) – [nmod:poss](gd_arcosg-dep-nmod-poss.html) – [nsubj](gd_arcosg-dep-nsubj.html) – [nummod](gd_arcosg-dep-nummod.html) – [obj](gd_arcosg-dep-obj.html) – [obl](gd_arcosg-dep-obl.html) – [obl:smod](gd_arcosg-dep-obl-smod.html) – [obl:tmod](gd_arcosg-dep-obl-tmod.html) – [orphan](gd_arcosg-dep-orphan.html) – [parataxis](gd_arcosg-dep-parataxis.html) – [punct](gd_arcosg-dep-punct.html) – [reparandum](gd_arcosg-dep-reparandum.html) – [root](gd_arcosg-dep-root.html) – [vocative](gd_arcosg-dep-vocative.html) – [xcomp](gd_arcosg-dep-xcomp.html) – [xcomp:pred](gd_arcosg-dep-xcomp-pred.html)
+[acl](gd_arcosg-dep-acl.html) – [acl:relcl](gd_arcosg-dep-acl-relcl.html) – [advcl](gd_arcosg-dep-advcl.html) – [advmod](gd_arcosg-dep-advmod.html) – [amod](gd_arcosg-dep-amod.html) – [appos](gd_arcosg-dep-appos.html) – [aux](gd_arcosg-dep-aux.html) – [aux:pass](gd_arcosg-dep-aux-pass.html) – [case](gd_arcosg-dep-case.html) – [case:voc](gd_arcosg-dep-case-voc.html) – [cc](gd_arcosg-dep-cc.html) – [ccomp](gd_arcosg-dep-ccomp.html) – [compound](gd_arcosg-dep-compound.html) – [conj](gd_arcosg-dep-conj.html) – [cop](gd_arcosg-dep-cop.html) – [csubj:cleft](gd_arcosg-dep-csubj-cleft.html) – [csubj:cop](gd_arcosg-dep-csubj-cop.html) – [csubj:outer](gd_arcosg-dep-csubj-outer.html) – [dep](gd_arcosg-dep-dep.html) – [det](gd_arcosg-dep-det.html) – [discourse](gd_arcosg-dep-discourse.html) – [dislocated](gd_arcosg-dep-dislocated.html) – [fixed](gd_arcosg-dep-fixed.html) – [flat](gd_arcosg-dep-flat.html) – [flat:foreign](gd_arcosg-dep-flat-foreign.html) – [flat:name](gd_arcosg-dep-flat-name.html) – [mark](gd_arcosg-dep-mark.html) – [mark:prt](gd_arcosg-dep-mark-prt.html) – [nmod](gd_arcosg-dep-nmod.html) – [nmod:poss](gd_arcosg-dep-nmod-poss.html) – [nsubj](gd_arcosg-dep-nsubj.html) – [nsubj:outer](gd_arcosg-dep-nsubj-outer.html) – [nsubj:pass](gd_arcosg-dep-nsubj-pass.html) – [nummod](gd_arcosg-dep-nummod.html) – [obj](gd_arcosg-dep-obj.html) – [obl](gd_arcosg-dep-obl.html) – [obl:smod](gd_arcosg-dep-obl-smod.html) – [obl:tmod](gd_arcosg-dep-obl-tmod.html) – [orphan](gd_arcosg-dep-orphan.html) – [parataxis](gd_arcosg-dep-parataxis.html) – [punct](gd_arcosg-dep-punct.html) – [reparandum](gd_arcosg-dep-reparandum.html) – [root](gd_arcosg-dep-root.html) – [vocative](gd_arcosg-dep-vocative.html) – [xcomp](gd_arcosg-dep-xcomp.html) – [xcomp:pred](gd_arcosg-dep-xcomp-pred.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 4739 sentences, 86089 tokens and 89958 syntactic words.</li>
+<li>This corpus contains 4741 sentences, 86089 tokens and 89958 syntactic words.</li>
 </ul>
 
 <ul>
@@ -186,22 +186,23 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
 </ul>
 
 <ul>
-<li>This corpus contains 81 lemmas tagged as pronouns (PRON): 'd, 'n, a, a-chèile, a-seo, a-sin, a-siud, aige, an, ann, aon, ar, b'e, bith, brith, bè, c'à, car, carson, ceithir, cia, ciamar, co, cuin, cuin', cuine, cà, cà', càil, càit, càit', càite, cáit, cèile, céile, cò, có, dhà, diamar, do, dà, dè, dé, e, fein, fèin, féin, gar, ge, gu, i, iad, mar, mheud, mi, mis', mo, péin, sean, seo, seothach, shean, shin, sib', sibh, sibh-se, sin, sineach, sinn, siod, siodach, siud, siudach, son, thu, thus', trì, ur, àsan, è, ì</li>
+<li>This corpus contains 82 lemmas tagged as pronouns (PRON): 'd, 'n, a, a-chèile, a-seo, a-sin, a-siud, aige, an, ann, aon, ar, b'e, bith, brith, bè, c'à, car, carson, ceithir, cia, ciamar, co, cuin, cuin', cuine, cà, cà', càil, càit, càit', càite, cáit, cèile, céile, cò, có, dhà, diamar, do, dà, dè, dé, e, fein, fèin, féin, gar, ge, gu, i, iad, mar, mheud, mi, mis', mo, na, péin, sean, seo, seothach, shean, shin, sib', sibh, sibh-se, sin, sineach, sinn, siod, siodach, siud, siudach, son, thu, thus', trì, ur, àsan, è, ì</li>
 </ul>
 
 <ul>
-<li>This corpus contains 20 lemmas tagged as determiners (DET): 'sa, a, a', an, ar, do, eile, gach, mo, sa, san, seo, sin, sineach, siud, siudach, the, ud, uile, ur</li>
+<li>This corpus contains 19 lemmas tagged as determiners (DET): 'sa, a, a', an, ar, do, eile, gach, mo, sa, san, seo, sin, sineach, siud, the, ud, uile, ur</li>
 </ul>
 
 <ul>
-<li>Out of the above, 11 lemmas occurred sometimes as PRON and sometimes as DET: a, an, ar, do, mo, seo, sin, sineach, siud, siudach, ur</li>
+<li>Out of the above, 10 lemmas occurred sometimes as PRON and sometimes as DET: a, an, ar, do, mo, seo, sin, sineach, siud, ur</li>
 </ul>
 
 <ul>
-<li>This corpus contains 1 lemmas tagged as auxiliaries (AUX): is</li>
+<li>This corpus contains 2 lemmas tagged as auxiliaries (AUX): is, rach</li>
 </ul>
 
 <ul>
+<li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: rach</li>
 </ul>
 
 <ul>
@@ -399,7 +400,8 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
 <ul>
   <li>Cnd
     <ul>
-      <li>VERB: bhiodh, biodh, faigheadh, dh’fhaodadh, rachadh, dhèanadh, thigeadh, dèanadh, bheireadh, canadh</li>
+      <li>AUX: rachadh</li>
+      <li>VERB: bhiodh, biodh, faigheadh, dh’fhaodadh, dhèanadh, thigeadh, dèanadh, bheireadh, rachadh, canadh</li>
     </ul>
   </li>
 </ul>
@@ -427,7 +429,8 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
 <ul>
   <li>Fut
     <ul>
-      <li>VERB: bidh, feumaidh, bhios, bi, gheibh, thèid, tèid, nì, faodaidh, bheir</li>
+      <li>AUX: thèid, tèid</li>
+      <li>VERB: bidh, feumaidh, bhios, bi, gheibh, nì, faodaidh, bheir, bhi, thèid</li>
     </ul>
   </li>
 </ul>
@@ -435,7 +438,7 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
 <ul>
   <li>Past
     <ul>
-      <li>AUX: b', bu, b’</li>
+      <li>AUX: b', chaidh, bu, b’, deach</li>
       <li>PART: do, d’, d'</li>
       <li>VERB: bha, robh, chaidh, fhuair, thuirt, ars’, chuir, thàinig, bh', rinn</li>
     </ul>
@@ -482,7 +485,8 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
   <li>Rel
     <ul>
       <li>AUX: as, is, 's</li>
-      <li>PART: a, nach, na, a'</li>
+      <li>PART: a, nach, a'</li>
+      <li>PRON: na</li>
     </ul>
   </li>
 </ul>
@@ -521,6 +525,7 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
 <ul>
   <li>0
     <ul>
+      <li>AUX: Rachadh</li>
       <li>VERB: rinneadh, thathar, thugadh, chuireadh, thathas, dh'fhaoidte, faodar, feumar, fhuaras, rugadh</li>
     </ul>
   </li>
@@ -571,7 +576,7 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
           <li>CCONJ: so</li>
           <li>DET: the</li>
           <li>INTJ: Well, okay, right, so, no, really, sorry, thanks</li>
-          <li>NOUN: tug-of-war, Shir, contract, vet, Radio, council, point, terrorists, tribunal, van</li>
+          <li>NOUN: tug-of-war, Shir, contract, council, vet, Radio, point, terrorists, tribunal, van</li>
           <li>NUM: and, eighteen, eighty, fifty, five, forty-thousand, hundred, nineteen, ninety, one</li>
           <li>PROPN: Sir, Dad, the, Airways, Apprentice, Aquaculture, Backpackers, Boys, British, Bus</li>
           <li>VERB: dhifferentiates, sublet, test</li>
@@ -666,7 +671,8 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
 </ul>
 
 <ul>
-<li>This corpus does not contain auxiliaries.</li>
+<li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: rach.</li>
+<li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: rach.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -675,12 +681,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (87)</li>
-      <li>VERB--NOUN-Dat (12)</li>
-      <li>VERB--NOUN-Dat-ADP(air) (2)</li>
-      <li>VERB--NOUN-Gen (3)</li>
-      <li>VERB--NOUN-Nom (2524)</li>
-      <li>VERB--PRON (4117)</li>
+      <li>VERB--NOUN (88)</li>
+      <li>VERB--NOUN-Dat (11)</li>
+      <li>VERB--NOUN-Dat-ADP(air) (1)</li>
+      <li>VERB--NOUN-Gen (2)</li>
+      <li>VERB--NOUN-Nom (2469)</li>
+      <li>VERB--NOUN-Nom-ADP(mu) (1)</li>
+      <li>VERB--PRON (4038)</li>
     </ul>
   </li>
 </ul>
@@ -690,8 +697,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN (30)</li>
       <li>VERB--NOUN-Dat (4)</li>
-      <li>VERB--NOUN-Nom (834)</li>
-      <li>VERB--PRON (344)</li>
+      <li>VERB--NOUN-Nom (861)</li>
+      <li>VERB--PRON (366)</li>
     </ul>
   </li>
 </ul>
@@ -709,7 +716,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 11 relation subtypes: <a>acl:relcl</a>, <a>case:voc</a>, <a>csubj:cleft</a>, <a>csubj:cop</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>mark:prt</a>, <a>nmod:poss</a>, <a>obl:smod</a>, <a>obl:tmod</a>, <a>xcomp:pred</a></li>
+<li>This corpus uses 15 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>case:voc</a>, <a>csubj:cleft</a>, <a>csubj:cop</a>, <a>csubj:outer</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>mark:prt</a>, <a>nmod:poss</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:smod</a>, <a>obl:tmod</a>, <a>xcomp:pred</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>csubj</a></li>
-<li>The following 6 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>aux</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a></li>
+<li>The following 5 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a></li>
 </ul>

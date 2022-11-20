@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.9 release.
 The following people have contributed to making this treebank part of UD: Mai Omura, Yusuke Miyao, Hiroshi Kanayama, Hiroshi Matsuda, Aya Wakasa, Kayo Yamashita, Masayuki Asahara, Takaaki Tanaka, Yugo Murawaki, Yuji Matsumoto, Kaoru Ito, Taishi Chika, Shinsuke Mori, Sumire Uematsu, Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Atsuko Shimada, Anna Trukhina, Martin Popel, Daniel Zeman.
 
 Repository: [UD_Japanese-PUDLUW](https://github.com/UniversalDependencies/UD_Japanese-PUDLUW)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udja_pudluw210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udja_pudluw211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-SA 3.0
 
@@ -93,7 +93,7 @@ Unit Word**; LUW) version of UD_Japanese-PUD.
 
 ## Relations
 
-[acl](ja_pudluw-dep-acl.html) – [advcl](ja_pudluw-dep-advcl.html) – [advmod](ja_pudluw-dep-advmod.html) – [amod](ja_pudluw-dep-amod.html) – [appos](ja_pudluw-dep-appos.html) – [aux](ja_pudluw-dep-aux.html) – [case](ja_pudluw-dep-case.html) – [cc](ja_pudluw-dep-cc.html) – [ccomp](ja_pudluw-dep-ccomp.html) – [compound](ja_pudluw-dep-compound.html) – [cop](ja_pudluw-dep-cop.html) – [csubj](ja_pudluw-dep-csubj.html) – [dep](ja_pudluw-dep-dep.html) – [det](ja_pudluw-dep-det.html) – [discourse](ja_pudluw-dep-discourse.html) – [dislocated](ja_pudluw-dep-dislocated.html) – [fixed](ja_pudluw-dep-fixed.html) – [mark](ja_pudluw-dep-mark.html) – [nmod](ja_pudluw-dep-nmod.html) – [nsubj](ja_pudluw-dep-nsubj.html) – [nummod](ja_pudluw-dep-nummod.html) – [obj](ja_pudluw-dep-obj.html) – [obl](ja_pudluw-dep-obl.html) – [parataxis](ja_pudluw-dep-parataxis.html) – [punct](ja_pudluw-dep-punct.html) – [root](ja_pudluw-dep-root.html)
+[acl](ja_pudluw-dep-acl.html) – [advcl](ja_pudluw-dep-advcl.html) – [advmod](ja_pudluw-dep-advmod.html) – [amod](ja_pudluw-dep-amod.html) – [appos](ja_pudluw-dep-appos.html) – [aux](ja_pudluw-dep-aux.html) – [case](ja_pudluw-dep-case.html) – [cc](ja_pudluw-dep-cc.html) – [ccomp](ja_pudluw-dep-ccomp.html) – [compound](ja_pudluw-dep-compound.html) – [cop](ja_pudluw-dep-cop.html) – [csubj](ja_pudluw-dep-csubj.html) – [dep](ja_pudluw-dep-dep.html) – [det](ja_pudluw-dep-det.html) – [discourse](ja_pudluw-dep-discourse.html) – [fixed](ja_pudluw-dep-fixed.html) – [mark](ja_pudluw-dep-mark.html) – [nmod](ja_pudluw-dep-nmod.html) – [nsubj](ja_pudluw-dep-nsubj.html) – [nsubj:outer](ja_pudluw-dep-nsubj-outer.html) – [nummod](ja_pudluw-dep-nummod.html) – [obj](ja_pudluw-dep-obj.html) – [obl](ja_pudluw-dep-obl.html) – [punct](ja_pudluw-dep-punct.html) – [root](ja_pudluw-dep-root.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -218,12 +218,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN-ADP(が) (367)</li>
-      <li>VERB--NOUN-ADP(は) (357)</li>
-      <li>VERB--NOUN-ADP(も) (32)</li>
+      <li>VERB--NOUN-ADP(が) (356)</li>
+      <li>VERB--NOUN-ADP(は) (352)</li>
+      <li>VERB--NOUN-ADP(も) (28)</li>
       <li>VERB--PRON-ADP(が) (31)</li>
-      <li>VERB--PRON-ADP(は) (145)</li>
-      <li>VERB--PRON-ADP(も) (5)</li>
+      <li>VERB--PRON-ADP(は) (139)</li>
+      <li>VERB--PRON-ADP(も) (4)</li>
     </ul>
   </li>
 </ul>
@@ -234,9 +234,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-ADP(だけ)-ADP(を) (1)</li>
       <li>VERB--NOUN-ADP(など)-ADP(を) (1)</li>
       <li>VERB--NOUN-ADP(など)-ADP(を通じて) (1)</li>
-      <li>VERB--NOUN-ADP(を) (723)</li>
+      <li>VERB--NOUN-ADP(を) (725)</li>
       <li>VERB--NOUN-ADP(を)-ADP(も) (1)</li>
-      <li>VERB--NOUN-ADP(をはじめ) (1)</li>
       <li>VERB--NOUN-ADP(をもって) (1)</li>
       <li>VERB--NOUN-ADP(を通じて) (1)</li>
       <li>VERB--PRON-ADP(を) (23)</li>
@@ -257,6 +256,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus does not use relation subtypes.</li>
-<li>The following 11 relation types are not used in this corpus at all: <a>iobj</a>, <a>xcomp</a>, <a>vocative</a>, <a>expl</a>, <a>clf</a>, <a>conj</a>, <a>flat</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>This corpus uses 1 relation subtypes: <a>nsubj:outer</a></li>
+<li>The following 13 relation types are not used in this corpus at all: <a>iobj</a>, <a>xcomp</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>conj</a>, <a>flat</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

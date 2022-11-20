@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-555 nodes (0%) are attached to their parents as `nummod`.
+556 nodes (0%) are attached to their parents as `nummod`.
 
-484 instances of `nummod` (87%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.70990990990991.
+485 instances of `nummod` (87%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.70323741007194.
 
-The following 6 pairs of parts of speech are connected with `nummod`: <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (537; 97% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (8; 1% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (2; 0% instances).
+The following 6 pairs of parts of speech are connected with `nummod`: <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (538; 97% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (8; 1% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -23,19 +23,19 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 13	fgColor:white
 # visual-style 13 12 nummod	color:blue
 1	#	#	X	_	_	3	dep	_	AlignBegin=27115|AlignEnd=27579|Gloss=PUNCT
-2	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	AlignBegin=27579|AlignEnd=27670|Gloss=NOM.SG.1|SyllableCount=1|WordContour=X
-3	dey	dey	VERB	_	VerbType=Cop	0	root	_	AlignBegin=27670|AlignEnd=27840|Gloss=be|SyllableCount=1|WordContour=lm
-4	dere	dere	ADV	_	_	3	xcomp	_	AlignBegin=27840|AlignEnd=27980|Gloss=there|SyllableCount=2|WordContour=mm
-5	o	o	PART	_	PartType=Disc	4	advmod	_	AlignBegin=27980|AlignEnd=28240|Gloss=EMPH|SyllableCount=1|WordContour=mm
-6	//=	//=	X	_	_	8	dep	_	AlignBegin=28240|AlignEnd=28270|Gloss=PUNCT
-7	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	AlignBegin=28270|AlignEnd=28450|Gloss=NOM.SG.1|SyllableCount=1|WordContour=ml
-8	school	school	VERB	_	_	3	parataxis:conj	_	AlignBegin=28450|AlignEnd=28830|Gloss=school|SyllableCount=1|WordContour=lmh2
-9	o	o	PART	_	PartType=Disc	8	advmod	_	AlignBegin=28830|AlignEnd=29030|Gloss=EMPH|SyllableCount=1|WordContour=mm
+2	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	AlignBegin=27579|AlignEnd=27670|Gloss=NOM.SG.1|LeftOverlap=False|RightOverlap=False|Syl1=X|SyllableCount=1|WordContour=X
+3	dey	dey	VERB	_	VerbType=Cop	0	root	_	AlignBegin=27670|AlignEnd=27840|Gloss=be|LeftOverlap=False|RightOverlap=False|Syl1=mh|SyllableCount=1|WordContour=lm
+4	dere	dere	ADV	_	_	3	xcomp	_	AlignBegin=27840|AlignEnd=27980|Gloss=there|LeftOverlap=False|RightOverlap=False|Syl1=mm|SyllableCount=2|WordContour=mm
+5	o	o	PART	_	PartType=Disc	4	advmod	_	AlignBegin=27980|AlignEnd=28270|Gloss=EMPH|LeftOverlap=False|RightOverlap=False|Syl1=mm|SyllableCount=1|WordContour=mm
+6	//=	//=	X	_	_	8	dep	_	AlignBegin=28270|AlignEnd=28270|Gloss=PUNCT
+7	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	AlignBegin=28270|AlignEnd=28450|Gloss=NOM.SG.1|LeftOverlap=False|RightOverlap=False|Syl1=mm|SyllableCount=1|WordContour=ml
+8	school	school	VERB	_	_	3	parataxis:conj	_	AlignBegin=28450|AlignEnd=28830|Gloss=school|LeftOverlap=False|RightOverlap=False|Syl1=hm|SyllableCount=1|WordContour=lmh2
+9	o	o	PART	_	PartType=Disc	8	advmod	_	AlignBegin=28830|AlignEnd=29030|Gloss=EMPH|LeftOverlap=False|RightOverlap=False|Syl1=ll|SyllableCount=1|WordContour=mm
 10	//=	//=	X	_	_	11	dep	_	AlignBegin=28830|AlignEnd=29030|Gloss=PUNCT
-11	setay	sotay	ADV	_	_	8	parataxis:conj	_	AlignBegin=29060|AlignEnd=29610|Gloss=such_that|SyllableCount=2|WordContour=mm
-12	four	four	NUM	_	NumType=Card	13	nummod	_	AlignBegin=29610|AlignEnd=29950|Gloss=four.CARD|SyllableCount=1|WordContour=mm
-13	years	year	NOUN	_	Number=Plur	11	obl:mod	_	AlignBegin=29950|AlignEnd=30270|Gloss=year.PL|SyllableCount=1|WordContour=ml
-14	//	//	X	_	_	3	dep	_	AlignBegin=30270|AlignEnd=30300|Gloss=PUNCT
+11	setay	sotay	ADV	_	_	8	parataxis:conj	_	AlignBegin=29060|AlignEnd=29610|Gloss=such_that|LeftOverlap=False|RightOverlap=False|Syl1=mm|Syl2=mm|SyllableCount=2|WordContour=mm
+12	four	four	NUM	_	NumType=Card	13	nummod	_	AlignBegin=29610|AlignEnd=29950|Gloss=four.CARD|LeftOverlap=False|RightOverlap=False|Syl1=mm|SyllableCount=1|WordContour=mm
+13	years	year	NOUN	_	Number=Plur	11	obl:mod	_	AlignBegin=29950|AlignEnd=30300|Gloss=year.PL|LeftOverlap=False|RightOverlap=False|Syl1=mm|SyllableCount=1|WordContour=ml
+14	//	//	X	_	_	3	dep	_	AlignBegin=30300|AlignEnd=30300|Gloss=PUNCT
 
 ~~~
 
@@ -47,18 +47,18 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 12	fgColor:white
 # visual-style 12 11 nummod	color:blue
 1	#	#	X	_	_	7	dep	_	AlignBegin=287862|AlignEnd=289080|Gloss=PUNCT
-2	and	and	CCONJ	_	_	7	discourse	_	AlignBegin=289080|AlignEnd=289150|Gloss=and|SyllableCount=1|WordContour=Ll
-3	after	after	ADP	_	_	7	dep	_	AlignBegin=289150|AlignEnd=289340|Gloss=after|SyllableCount=2|WordContour=lh
-4	<	<	X	_	_	3	dep	_	AlignBegin=289340|AlignEnd=289370|Gloss=PUNCT
-5	de	dem	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	AlignBegin=289370|AlignEnd=289454|Gloss=NOM.PL.3|SyllableCount=1|WordContour=mm
-6	go	go	AUX	_	Aspect=Prosp	7	aux	_	AlignBegin=289454|AlignEnd=289542|Gloss=PROSP|SyllableCount=1|WordContour=ml
-7	say	say	VERB	_	_	0	root	_	AlignBegin=289542|AlignEnd=289720|Gloss=say|SyllableCount=1|WordContour=hh
-8	[	[	X	_	_	12	dep	_	AlignBegin=289542|AlignEnd=289720|Gloss=PUNCT
-9	we	we	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	12	nsubj	_	AlignBegin=289750|AlignEnd=289840|Gloss=NOM.PL.1|Lang=en|SyllableCount=1|WordContour=hm
-10	are	be	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	12	cop	_	AlignBegin=289840|AlignEnd=289950|Gloss=be.IND.PRS.FIN|Lang=en|SyllableCount=1|WordContour=mm
-11	one	one	NUM	_	NumType=Card	12	nummod	_	AlignBegin=289950|AlignEnd=290080|Gloss=one|Lang=en|SyllableCount=1|WordContour=mh
-12	Nigeria	Nigeria	PROPN	_	_	7	parataxis	_	AlignBegin=290080|AlignEnd=290680|Gloss=Nigeria|Lang=en|SyllableCount=4|WordContour=hl
-13	//]	//]	X	_	_	12	dep	_	AlignBegin=290680|AlignEnd=290710|Gloss=PUNCT
+2	and	and	CCONJ	_	_	7	discourse	_	AlignBegin=289080|AlignEnd=289150|Gloss=and|LeftOverlap=False|RightOverlap=True|Syl1=LL|Syl2=lh|SyllableCount=1|WordContour=Ll
+3	after	after	ADP	_	_	7	dep	_	AlignBegin=289150|AlignEnd=289370|Gloss=after|LeftOverlap=True|RightOverlap=False|Syl1=lh|Syl2=hh|SyllableCount=2|WordContour=lh
+4	<	<	X	_	_	3	dep	_	AlignBegin=289370|AlignEnd=289370|Gloss=PUNCT
+5	de	dem	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	AlignBegin=289370|AlignEnd=289454|Gloss=NOM.PL.3|LeftOverlap=False|RightOverlap=False|Syl1=mm|SyllableCount=1|WordContour=mm
+6	go	go	AUX	_	Aspect=Prosp	7	aux	_	AlignBegin=289454|AlignEnd=289542|Gloss=PROSP|LeftOverlap=False|RightOverlap=False|Syl1=mm|SyllableCount=1|WordContour=ml
+7	say	say	VERB	_	_	0	root	_	AlignBegin=289542|AlignEnd=289750|Gloss=say|LeftOverlap=False|RightOverlap=False|Syl1=hh|SyllableCount=1|WordContour=hh
+8	[	[	X	_	_	12	dep	_	AlignBegin=289750|AlignEnd=289750|Gloss=PUNCT
+9	we	we	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	12	nsubj	_	AlignBegin=289750|AlignEnd=289840|Gloss=NOM.PL.1|Lang=en|LeftOverlap=False|RightOverlap=False|Syl1=hh|SyllableCount=1|WordContour=hm
+10	are	be	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	12	cop	_	AlignBegin=289840|AlignEnd=289950|Gloss=be.IND.PRS.FIN|Lang=en|LeftOverlap=False|RightOverlap=False|Syl1=mm|SyllableCount=1|WordContour=mm
+11	one	one	NUM	_	NumType=Card	12	nummod	_	AlignBegin=289950|AlignEnd=290080|Gloss=one|Lang=en|LeftOverlap=False|RightOverlap=False|Syl1=mm|SyllableCount=1|WordContour=mh
+12	Nigeria	Nigeria	PROPN	_	_	7	parataxis	_	AlignBegin=290080|AlignEnd=290710|Gloss=Nigeria|Lang=en|LeftOverlap=False|RightOverlap=False|Syl1=hm|Syl2=mm|Syl3=ml|SyllableCount=4|WordContour=hl
+13	//]	//]	X	_	_	12	dep	_	AlignBegin=290710|AlignEnd=290710|Gloss=PUNCT
 14	//	//	X	_	_	7	dep	_	AlignBegin=290680|AlignEnd=290710|Gloss=PUNCT
 
 ~~~

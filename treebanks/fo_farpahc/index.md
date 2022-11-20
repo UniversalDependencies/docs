@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.7 release.
 The following people have contributed to making this treebank part of UD: Þórunn Arnardóttir, Hinrik Hafsteinsson, Einar Freyr Sigurðsson, Anton Karl Ingason, Eiríkur Rögnvaldsson, Joel C. Wallenberg.
 
 Repository: [UD_Faroese-FarPaHC](https://github.com/UniversalDependencies/UD_Faroese-FarPaHC)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfo_farpahc210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfo_farpahc211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-SA 4.0
 
@@ -503,7 +503,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--PRON-Acc (6)</li>
       <li>VERB--PRON-Dat (8)</li>
       <li>VERB--PRON-Gen (12)</li>
-      <li>VERB--PRON-Nom (1484)</li>
+      <li>VERB--PRON-Nom (1483)</li>
       <li>VERB-Inf--NOUN-Acc (23)</li>
       <li>VERB-Inf--NOUN-Nom (54)</li>
       <li>VERB-Inf--PRON-Acc (43)</li>
@@ -515,7 +515,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--NOUN-Nom (115)</li>
       <li>VERB-Part--PRON-Acc (8)</li>
       <li>VERB-Part--PRON-Dat (17)</li>
-      <li>VERB-Part--PRON-Nom (395)</li>
+      <li>VERB-Part--PRON-Nom (394)</li>
     </ul>
   </li>
 </ul>

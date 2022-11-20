@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1042 nodes (8%) are attached to their parents as `obj`.
+1044 nodes (8%) are attached to their parents as `obj`.
 
-1041 instances of `obj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.17754318618042.
+1043 instances of `obj` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.17816091954023.
 
-The following 7 pairs of parts of speech are connected with `obj`: <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> (517; 50% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-PRON.html">PRON</a></tt> (500; 48% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-PROPN.html">PROPN</a></tt> (15; 1% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-NUM.html">NUM</a></tt> (6; 1% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `obj`: <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> (517; 50% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-PRON.html">PRON</a></tt> (501; 48% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-PROPN.html">PROPN</a></tt> (16; 2% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-NUM.html">NUM</a></tt> (6; 1% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

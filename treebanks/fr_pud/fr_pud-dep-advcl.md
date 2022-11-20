@@ -69,7 +69,7 @@ The following 13 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 10	fgColor:white
 # visual-style 10 1 advcl	color:blue
 1	Quelles	quel	ADJ	WP	Gender=Fem|Number=Plur	10	advcl	_	wordform=quelles
-2	que	que	SCONJ	IN	Number=Plur	1	mark	_	_
+2	que	que	SCONJ	IN	_	1	mark	_	_
 3	fussent	être	AUX	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
 4	les	le	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
 5	règles	règle	NOUN	NN	Gender=Fem|Number=Plur	1	nsubj	_	SpaceAfter=No

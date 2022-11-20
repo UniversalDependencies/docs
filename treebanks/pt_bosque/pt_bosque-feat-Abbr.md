@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-226 tokens (0%) have a non-empty value of `Abbr`.
-62 types (0%) occur at least once with a non-empty value of `Abbr`.
-60 lemmas (0%) occur at least once with a non-empty value of `Abbr`.
-The feature is used with 3 part-of-speech tags: <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (145; 0% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (79; 0% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> (2; 0% instances).
+228 tokens (0%) have a non-empty value of `Abbr`.
+64 types (0%) occur at least once with a non-empty value of `Abbr`.
+62 lemmas (0%) occur at least once with a non-empty value of `Abbr`.
+The feature is used with 3 part-of-speech tags: <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (147; 0% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (79; 0% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> (2; 0% instances).
 
 ### `NOUN`
 
-145 <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Abbr`.
+147 <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (132; 91%), <tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (84; 58%).
+The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (133; 90%), <tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (85; 58%).
 
 `NOUN` tokens may have the following values of `Abbr`:
 
-* `Yes` (145; 100% of non-empty `Abbr`): <em>p., R., nº, dr., tel., TV, sr., art., pág., ed.</em>
-* `EMPTY` (41234): <em>anos, presidente, ano, dia, país, pessoas, estado, parte, tempo, contos</em>
+* `Yes` (147; 100% of non-empty `Abbr`): <em>p., R., nº, dr., tel., TV, sr., art., pág., ed.</em>
+* `EMPTY` (41239): <em>anos, presidente, ano, dia, país, pessoas, estado, parte, tempo, contos</em>
 
-`Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (31) occur only with one value of `Abbr`.
+`Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (33) occur only with one value of `Abbr`.
 
 ### `PROPN`
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 `PROPN` tokens may have the following values of `Abbr`:
 
 * `Yes` (79; 100% of non-empty `Abbr`): <em>S., D., Jr., A., av., C., F., G., J., Art.</em>
-* `EMPTY` (18702): <em>Paulo, São, Portugal, Brasil, José, Porto, Governo, Lisboa, João, Nacional</em>
+* `EMPTY` (18682): <em>Paulo, São, Portugal, Brasil, José, Porto, Governo, Lisboa, João, Nacional</em>
 
 `Abbr` seems to be **lexical feature** of `PROPN`. 100% lemmas (33) occur only with one value of `Abbr`.
 
@@ -49,7 +49,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (2; 100% of non-empty `Abbr`): <em>Inc.</em>
-* `EMPTY` (11386): <em>maior, primeiro, grande, primeira, novo, nova, mesmo, nacional, grandes, melhor</em>
+* `EMPTY` (11394): <em>maior, primeiro, grande, primeira, novo, nova, mesmo, nacional, grandes, melhor</em>
 
 ## Relations with Agreement in `Abbr`
 

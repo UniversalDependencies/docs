@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-22 nodes (1%) are attached to their parents as `iobj`.
+23 nodes (1%) are attached to their parents as `iobj`.
 
-12 instances of `iobj` (55%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.40909090909091.
+13 instances of `iobj` (57%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.47826086956522.
 
-The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (16; 73% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (6; 27% instances).
+The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (16; 70% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (7; 30% instances).
 
 
 ~~~ conllu

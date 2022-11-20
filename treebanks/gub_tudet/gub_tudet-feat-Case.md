@@ -7,62 +7,62 @@ udver: '2'
 ## Treebank Statistics: UD_Guajajara-TuDeT: Features: `Case`
 
 This feature is universal but the values `Equ`, `Ref` are language-specific.
-It occurs with 8 different values: `Abe`, `All`, `Dat`, `Equ`, `Loc`, `Ref`, `Tem`, `Tra`.
+It occurs with 9 different values: `Abe`, `Abl`, `All`, `Dat`, `Equ`, `Loc`, `Ref`, `Tem`, `Tra`.
 
-429 tokens (5%) have a non-empty value of `Case`.
-139 types (11%) occur at least once with a non-empty value of `Case`.
-96 lemmas (16%) occur at least once with a non-empty value of `Case`.
-The feature is used with 4 part-of-speech tags: <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (309; 3% instances), <tt><a href="gub_tudet-pos-PRON.html">PRON</a></tt> (72; 1% instances), <tt><a href="gub_tudet-pos-ADP.html">ADP</a></tt> (34; 0% instances), <tt><a href="gub_tudet-pos-PROPN.html">PROPN</a></tt> (14; 0% instances).
+434 tokens (5%) have a non-empty value of `Case`.
+149 types (11%) occur at least once with a non-empty value of `Case`.
+93 lemmas (16%) occur at least once with a non-empty value of `Case`.
+The feature is used with 5 part-of-speech tags: <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (305; 3% instances), <tt><a href="gub_tudet-pos-PRON.html">PRON</a></tt> (79; 1% instances), <tt><a href="gub_tudet-pos-ADP.html">ADP</a></tt> (34; 0% instances), <tt><a href="gub_tudet-pos-PROPN.html">PROPN</a></tt> (15; 0% instances), <tt><a href="gub_tudet-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-309 <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> tokens (12% of all `NOUN` tokens) have a non-empty value of `Case`.
+305 <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> tokens (12% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="gub_tudet-feat-Nomzr.html">Nomzr</a></tt><tt>=EMPTY</tt> (240; 78%), <tt><a href="gub_tudet-feat-Rel.html">Rel</a></tt><tt>=EMPTY</tt> (207; 67%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="gub_tudet-feat-Nomzr.html">Nomzr</a></tt><tt>=EMPTY</tt> (248; 81%), <tt><a href="gub_tudet-feat-Rel.html">Rel</a></tt><tt>=EMPTY</tt> (207; 68%).
 
 `NOUN` tokens may have the following values of `Case`:
 
 * `Abe` (2; 1% of non-empty `Case`): <em>kwawparʔɨm, retanawʔɨm</em>
-* `All` (39; 13% of non-empty `Case`): <em>kope, tawpe, ʔɨpe, kaʔape, ɨrɨhupe, tuzukpe, rekohawpe, ʔuhawpe</em>
-* `Dat` (99; 32% of non-empty `Case`): <em>kwarerpe, zuʔipe, uhɨpe, hokope, zakarepe, wemirekope, apitawpe, ipekupe, uhupe, upe</em>
-* `Loc` (153; 50% of non-empty `Case`): <em>ɨpe, kaʔape, ɨʔaromo, ʔɨwɨr, kope, tawpe, ʔɨpe, reme, wekohawpe, ɨrɨhupe</em>
-* `Tem` (14; 5% of non-empty `Case`): <em>tueharupi, Ikuʔegwepe, Tuweharupi</em>
-* `Tra` (2; 1% of non-empty `Case`): <em>Azeharomoete, azeharomoeteahɨ</em>
-* `EMPTY` (2197): <em>iʔi, maʔe, kwarer, ɨ, heta, zakare, katu, miar, hoko, ihɨ</em>
+* `Abl` (19; 6% of non-empty `Case`): <em>kaʔawi, tawi, zumenwi, Awi, ikupewi, pinowi, toʔomwi, uhɨwi, wɨrakawi, ɨwi</em>
+* `All` (39; 13% of non-empty `Case`): <em>kope, tawpe, ʔɨpe, kaʔape, ɨrɨhupe, tuzukpe, maiʔuhawpe, rekohawpe</em>
+* `Dat` (98; 32% of non-empty `Case`): <em>kwarerpe, zuʔipe, uhɨpe, hokope, zakarepe, upe, apitawpe, ipekupe, uhupe, wemirekope</em>
+* `Loc` (145; 48% of non-empty `Case`): <em>ɨpe, kaʔape, ʔɨwɨr, kope, tawpe, ʔɨpe, reme, wekohawpe, pepe, wanekohawpe</em>
+* `Tem` (1; 0% of non-empty `Case`): <em>Ikuʔegwepe</em>
+* `Tra` (1; 0% of non-empty `Case`): <em>Azeharomoete</em>
+* `EMPTY` (2243): <em>iʔi, ɨ, kwarer, awa, heta, katu, zakare, miar, hoko, ihɨ</em>
 
 <table>
-  <tr><th>Paradigm <i>eko</i></th><th><tt>Dat</tt></th><th><tt>Loc</tt></th><th><tt>All</tt></th></tr>
-  <tr><td><tt>_</tt></td><td><em>wemirekope</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="gub_tudet-feat-Clusivity.html">Clusivity</a></tt><tt>=In</tt>|<tt><a href="gub_tudet-feat-Nomzr.html">Nomzr</a></tt><tt>=Circ</tt>|<tt><a href="gub_tudet-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="gub_tudet-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt>|<tt><a href="gub_tudet-feat-Rel.html">Rel</a></tt><tt>=Cont</tt></tt></td><td></td><td><em>zanerekohawpe</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="gub_tudet-feat-Nomzr.html">Nomzr</a></tt><tt>=Circ</tt>|<tt><a href="gub_tudet-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="gub_tudet-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="gub_tudet-feat-Rel.html">Rel</a></tt><tt>=Cont</tt></tt></td><td></td><td><em>wanekohawpe</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="gub_tudet-feat-Nomzr.html">Nomzr</a></tt><tt>=Circ</tt>|<tt><a href="gub_tudet-feat-Rel.html">Rel</a></tt><tt>=Cont</tt></tt></td><td></td><td><em>rekohawpe</em></td><td><em>rekohawpe</em></td></tr>
-  <tr><td><tt><tt><a href="gub_tudet-feat-Nomzr.html">Nomzr</a></tt><tt>=Circ</tt>|<tt><a href="gub_tudet-feat-Rel.html">Rel</a></tt><tt>=Corf</tt></tt></td><td></td><td><em>wekohawpe</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="gub_tudet-feat-Nomzr.html">Nomzr</a></tt><tt>=DevPass</tt>|<tt><a href="gub_tudet-feat-Rel.html">Rel</a></tt><tt>=Corf</tt></tt></td><td><em>wemirekope</em></td><td></td><td></td></tr>
+  <tr><th>Paradigm <i>ʔɨ</i></th><th><tt>Loc</tt></th><th><tt>All</tt></th><th><tt>Abl</tt></th></tr>
+  <tr><td><tt>_</tt></td><td><em>ɨpe, ʔɨwɨr, ʔɨpe, ɨ, ɨp, ɨpupe, ɨwɨr</em></td><td><em>ʔɨpe</em></td><td><em>ɨwi, ʔɨwi</em></td></tr>
+  <tr><td><tt><tt><a href="gub_tudet-feat-Dimin.html">Dimin</a></tt><tt>=Yes</tt></tt></td><td><em>ɨwɨraʔi</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="gub_tudet-feat-Emph.html">Emph</a></tt><tt>=Yes</tt></tt></td><td><em>ɨwɨraʔu</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="gub_tudet-feat-Nomzr.html">Nomzr</a></tt><tt>=Ag</tt></tt></td><td><em>ɨpehar, ʔɨpehar</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="gub_tudet-feat-Rel.html">Rel</a></tt><tt>=Cont</tt></tt></td><td><em>reme, rɨme</em></td><td></td><td></td></tr>
 </table>
 
 ### `PRON`
 
-72 <tt><a href="gub_tudet-pos-PRON.html">PRON</a></tt> tokens (10% of all `PRON` tokens) have a non-empty value of `Case`.
+79 <tt><a href="gub_tudet-pos-PRON.html">PRON</a></tt> tokens (9% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="gub_tudet-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (67; 93%), <tt><a href="gub_tudet-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (45; 63%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="gub_tudet-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (51; 65%).
 
 `PRON` tokens may have the following values of `Case`:
 
+* `Abl` (7; 9% of non-empty `Case`): <em>aʔewi, Maʔewi, zanewi</em>
 * `All` (3; 4% of non-empty `Case`): <em>Maʔepe</em>
 * `Dat` (6; 8% of non-empty `Case`): <em>aʔepe, hawe, nepa, newe, omokatupe, zanewe</em>
-* `Equ` (8; 11% of non-empty `Case`): <em>Marazawe, Marazawen, Màràzàwe</em>
-* `Loc` (51; 71% of non-empty `Case`): <em>aʔepe, Maʔepe, Maʔenpete, aipope, akwezpe, parupi, pawpe</em>
-* `Ref` (3; 4% of non-empty `Case`): <em>Aʔeà, Aʔeá, Aʔeʔi</em>
+* `Equ` (8; 10% of non-empty `Case`): <em>Marazawe, Marazawen</em>
+* `Loc` (51; 65% of non-empty `Case`): <em>aʔepe, Maʔepe, Maʔenpete, aipope, akwezpe, parupi, pawpe</em>
+* `Ref` (3; 4% of non-empty `Case`): <em>Aʔea, Aʔeʔi</em>
 * `Tem` (1; 1% of non-empty `Case`): <em>aʔere</em>
-* `EMPTY` (681): <em>aʔe, ihe, paw, zane, aʔeae, Maʔe, amo, ne, Mon, kwez</em>
+* `EMPTY` (806): <em>aʔe, maʔe, ihe, paw, zane, amogwer, aʔeae, amo, ne, umaʔe</em>
 
 <table>
-  <tr><th>Paradigm <i>aʔe</i></th><th><tt>Dat</tt></th><th><tt>Loc</tt></th><th><tt>Tem</tt></th><th><tt>Ref</tt></th></tr>
-  <tr><td><tt>_</tt></td><td></td><td><em>aʔepe</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="gub_tudet-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td></td><td></td><td><em>Aʔeʔi</em></td></tr>
-  <tr><td><tt><tt><a href="gub_tudet-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="gub_tudet-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td></td><td></td><td></td><td><em>Aʔeà, Aʔeá</em></td></tr>
-  <tr><td><tt><tt><a href="gub_tudet-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>aʔepe</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="gub_tudet-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>aʔepe</em></td><td><em>aʔepe</em></td><td><em>aʔere</em></td><td></td></tr>
+  <tr><th>Paradigm <i>aʔe</i></th><th><tt>Dat</tt></th><th><tt>Loc</tt></th><th><tt>Abl</tt></th><th><tt>Tem</tt></th><th><tt>Ref</tt></th></tr>
+  <tr><td><tt>_</tt></td><td></td><td><em>aʔepe</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="gub_tudet-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="gub_tudet-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td></td><td></td><td></td><td></td><td><em>Aʔea</em></td></tr>
+  <tr><td><tt><tt><a href="gub_tudet-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>aʔepe</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="gub_tudet-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>aʔepe</em></td><td><em>aʔepe</em></td><td><em>aʔewi</em></td><td><em>aʔere</em></td><td><em>Aʔeʔi</em></td></tr>
 </table>
 
 ### `ADP`
@@ -76,7 +76,7 @@ The most frequent other feature values with which `ADP` and `Case` co-occurred: 
 * `Dat` (16; 47% of non-empty `Case`): <em>izupe, newe, wanehe, hehe, uzeupe, wanuwi, wanupe</em>
 * `Loc` (1; 3% of non-empty `Case`): <em>izuwi</em>
 * `Tra` (17; 50% of non-empty `Case`): <em>ipiaromo, apɨteromo, iruramo</em>
-* `EMPTY` (664): <em>rupi, izupe, rehe, mehe, pupe, wanupe, romo, izuwi, wi, uzeupe</em>
+* `EMPTY` (677): <em>rupi, rehe, izupe, mehe, pupe, wanupe, romo, izuwi, uzeupe, me</em>
 
 <table>
   <tr><th>Paradigm <i>zuwi</i></th><th><tt>Dat</tt></th><th><tt>Loc</tt></th></tr>
@@ -86,17 +86,26 @@ The most frequent other feature values with which `ADP` and `Case` co-occurred: 
 
 ### `PROPN`
 
-14 <tt><a href="gub_tudet-pos-PROPN.html">PROPN</a></tt> tokens (8% of all `PROPN` tokens) have a non-empty value of `Case`.
+15 <tt><a href="gub_tudet-pos-PROPN.html">PROPN</a></tt> tokens (9% of all `PROPN` tokens) have a non-empty value of `Case`.
 
 `PROPN` tokens may have the following values of `Case`:
 
-* `Dat` (14; 100% of non-empty `Case`): <em>Maripe, Karipe, Zuzepe, maizupe</em>
-* `EMPTY` (153): <em>Zuze, Mari, Kari, Mair, Tupan, Fábio, Pedro, Purutu, Siba, Tupanae</em>
+* `Dat` (15; 100% of non-empty `Case`): <em>Maripe, Karipe, Zuzepe, maizupe</em>
+* `EMPTY` (154): <em>Zuze, Mari, Kari, Mair, Tupan, Fábio, Mairaʔi, Pedro, Purutu, Siba</em>
+
+### `CCONJ`
+
+1 <tt><a href="gub_tudet-pos-CCONJ.html">CCONJ</a></tt> tokens (1% of all `CCONJ` tokens) have a non-empty value of `Case`.
+
+`CCONJ` tokens may have the following values of `Case`:
+
+* `Ref` (1; 100% of non-empty `Case`): <em>taʔei</em>
+* `EMPTY` (101): <em>naʔe, taʔe, ni, u</em>
 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>PRON --[<tt><a href="gub_tudet-dep-appos.html">appos</a></tt>]--> NOUN</tt> (4; 100%),
+<tt>PRON --[<tt><a href="gub_tudet-dep-appos.html">appos</a></tt>]--> NOUN</tt> (3; 75%),
 <tt>NOUN --[<tt><a href="gub_tudet-dep-appos.html">appos</a></tt>]--> NOUN</tt> (2; 100%),
 <tt>NOUN --[<tt><a href="gub_tudet-dep-appos.html">appos</a></tt>]--> PROPN</tt> (2; 100%).
 

@@ -32,4 +32,4 @@ participle form. The present participle is written in -ысь.
 #### References
 
 
-<!-- Interlanguage links updated So kvě 14 19:02:28 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:52 CET 2022 -->

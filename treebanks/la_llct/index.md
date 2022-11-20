@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.6 release.
 The following people have contributed to making this treebank part of UD: Timo Korkiakangas, Flavio Massimiliano Cecchini, Marco Passarotti.
 
 Repository: [UD_Latin-LLCT](https://github.com/UniversalDependencies/UD_Latin-LLCT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_llct210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_llct211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-SA 4.0
 
@@ -67,17 +67,17 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
 
 ## Features
 
-[Aspect](la_llct-feat-Aspect.html) – [Case](la_llct-feat-Case.html) – [Degree](la_llct-feat-Degree.html) – [Gender](la_llct-feat-Gender.html) – [Mood](la_llct-feat-Mood.html) – [Number](la_llct-feat-Number.html) – [Number[psor]](la_llct-feat-Number-psor.html) – [NumType](la_llct-feat-NumType.html) – [Person](la_llct-feat-Person.html) – [Person[psor]](la_llct-feat-Person-psor.html) – [Polarity](la_llct-feat-Polarity.html) – [Poss](la_llct-feat-Poss.html) – [PronType](la_llct-feat-PronType.html) – [Proper](la_llct-feat-Proper.html) – [Reflex](la_llct-feat-Reflex.html) – [Tense](la_llct-feat-Tense.html) – [VerbForm](la_llct-feat-VerbForm.html) – [VerbType](la_llct-feat-VerbType.html) – [Voice](la_llct-feat-Voice.html)
+[AdvType](la_llct-feat-AdvType.html) – [Aspect](la_llct-feat-Aspect.html) – [Case](la_llct-feat-Case.html) – [Degree](la_llct-feat-Degree.html) – [Form](la_llct-feat-Form.html) – [Gender](la_llct-feat-Gender.html) – [InflClass](la_llct-feat-InflClass.html) – [Mood](la_llct-feat-Mood.html) – [NameType](la_llct-feat-NameType.html) – [Number](la_llct-feat-Number.html) – [Number[psor]](la_llct-feat-Number-psor.html) – [NumType](la_llct-feat-NumType.html) – [NumValue](la_llct-feat-NumValue.html) – [Person](la_llct-feat-Person.html) – [Person[psor]](la_llct-feat-Person-psor.html) – [Polarity](la_llct-feat-Polarity.html) – [Poss](la_llct-feat-Poss.html) – [PronType](la_llct-feat-PronType.html) – [Proper](la_llct-feat-Proper.html) – [Reflex](la_llct-feat-Reflex.html) – [Tense](la_llct-feat-Tense.html) – [VerbForm](la_llct-feat-VerbForm.html) – [Voice](la_llct-feat-Voice.html)
 
 ## Relations
 
-[acl](la_llct-dep-acl.html) – [acl:relcl](la_llct-dep-acl-relcl.html) – [advcl](la_llct-dep-advcl.html) – [advcl:cmpr](la_llct-dep-advcl-cmpr.html) – [advmod](la_llct-dep-advmod.html) – [advmod:emph](la_llct-dep-advmod-emph.html) – [amod](la_llct-dep-amod.html) – [appos](la_llct-dep-appos.html) – [aux](la_llct-dep-aux.html) – [aux:pass](la_llct-dep-aux-pass.html) – [case](la_llct-dep-case.html) – [cc](la_llct-dep-cc.html) – [ccomp](la_llct-dep-ccomp.html) – [compound](la_llct-dep-compound.html) – [conj](la_llct-dep-conj.html) – [conj:expl](la_llct-dep-conj-expl.html) – [cop](la_llct-dep-cop.html) – [csubj](la_llct-dep-csubj.html) – [csubj:pass](la_llct-dep-csubj-pass.html) – [det](la_llct-dep-det.html) – [dislocated](la_llct-dep-dislocated.html) – [dislocated:csubj](la_llct-dep-dislocated-csubj.html) – [dislocated:nsubj](la_llct-dep-dislocated-nsubj.html) – [dislocated:obj](la_llct-dep-dislocated-obj.html) – [fixed](la_llct-dep-fixed.html) – [flat](la_llct-dep-flat.html) – [iobj](la_llct-dep-iobj.html) – [mark](la_llct-dep-mark.html) – [nmod](la_llct-dep-nmod.html) – [nsubj](la_llct-dep-nsubj.html) – [nsubj:pass](la_llct-dep-nsubj-pass.html) – [nummod](la_llct-dep-nummod.html) – [obj](la_llct-dep-obj.html) – [obl](la_llct-dep-obl.html) – [obl:arg](la_llct-dep-obl-arg.html) – [orphan](la_llct-dep-orphan.html) – [orphan:missing](la_llct-dep-orphan-missing.html) – [parataxis](la_llct-dep-parataxis.html) – [punct](la_llct-dep-punct.html) – [reparandum](la_llct-dep-reparandum.html) – [root](la_llct-dep-root.html) – [vocative](la_llct-dep-vocative.html) – [xcomp](la_llct-dep-xcomp.html) – [xcomp:pred](la_llct-dep-xcomp-pred.html)
+[acl](la_llct-dep-acl.html) – [acl:relcl](la_llct-dep-acl-relcl.html) – [advcl](la_llct-dep-advcl.html) – [advcl:abs](la_llct-dep-advcl-abs.html) – [advcl:cmp](la_llct-dep-advcl-cmp.html) – [advcl:pred](la_llct-dep-advcl-pred.html) – [advcl:relcl](la_llct-dep-advcl-relcl.html) – [advmod](la_llct-dep-advmod.html) – [advmod:emph](la_llct-dep-advmod-emph.html) – [advmod:lmod](la_llct-dep-advmod-lmod.html) – [advmod:neg](la_llct-dep-advmod-neg.html) – [advmod:tmod](la_llct-dep-advmod-tmod.html) – [amod](la_llct-dep-amod.html) – [appos](la_llct-dep-appos.html) – [aux](la_llct-dep-aux.html) – [aux:pass](la_llct-dep-aux-pass.html) – [case](la_llct-dep-case.html) – [cc](la_llct-dep-cc.html) – [ccomp](la_llct-dep-ccomp.html) – [ccomp:relcl](la_llct-dep-ccomp-relcl.html) – [compound](la_llct-dep-compound.html) – [conj](la_llct-dep-conj.html) – [conj:expl](la_llct-dep-conj-expl.html) – [cop](la_llct-dep-cop.html) – [csubj](la_llct-dep-csubj.html) – [csubj:pass](la_llct-dep-csubj-pass.html) – [csubj:relcl](la_llct-dep-csubj-relcl.html) – [dep](la_llct-dep-dep.html) – [det](la_llct-dep-det.html) – [discourse](la_llct-dep-discourse.html) – [dislocated](la_llct-dep-dislocated.html) – [dislocated:csubj](la_llct-dep-dislocated-csubj.html) – [dislocated:nsubj](la_llct-dep-dislocated-nsubj.html) – [dislocated:obj](la_llct-dep-dislocated-obj.html) – [dislocated:obl](la_llct-dep-dislocated-obl.html) – [fixed](la_llct-dep-fixed.html) – [flat](la_llct-dep-flat.html) – [iobj](la_llct-dep-iobj.html) – [mark](la_llct-dep-mark.html) – [nmod](la_llct-dep-nmod.html) – [nsubj](la_llct-dep-nsubj.html) – [nsubj:pass](la_llct-dep-nsubj-pass.html) – [nummod](la_llct-dep-nummod.html) – [obj](la_llct-dep-obj.html) – [obl](la_llct-dep-obl.html) – [obl:agent](la_llct-dep-obl-agent.html) – [obl:arg](la_llct-dep-obl-arg.html) – [obl:lmod](la_llct-dep-obl-lmod.html) – [obl:tmod](la_llct-dep-obl-tmod.html) – [orphan](la_llct-dep-orphan.html) – [orphan:missing](la_llct-dep-orphan-missing.html) – [parataxis](la_llct-dep-parataxis.html) – [punct](la_llct-dep-punct.html) – [reparandum](la_llct-dep-reparandum.html) – [root](la_llct-dep-root.html) – [vocative](la_llct-dep-vocative.html) – [xcomp](la_llct-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 9023 sentences and 242411 tokens.</li>
+<li>This corpus contains 9023 sentences, 242410 tokens and 242411 syntactic words.</li>
 </ul>
 
 <ul>
@@ -93,6 +93,8 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
 </ul>
 
 <ul>
+<li>This corpus contains 1 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 1 types of multi-word tokens. Examples: eiusque.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -105,19 +107,19 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
 </ul>
 
 <ul>
-<li>This corpus contains 2 word types tagged as particles (PART): ne, non</li>
+<li>This corpus contains 6 word types tagged as particles (PART): autem, enim, nam, ne, non, quidem</li>
 </ul>
 
 <ul>
-<li>This corpus contains 17 lemmas tagged as pronouns (PRON): aliqui, aliquis, ceterus, ego, egometipse, is, nihil, nos, nosmetipse, qui, quis, quisquis, se, totus, tu, tumetipse, uos</li>
+<li>This corpus contains 16 lemmas tagged as pronouns (PRON): _, aliquis, ego, egometipse, is, nihil, nos, nosmetipse, quandoque, qui, quis, quisquis, se, tu, tumetipse, uos</li>
 </ul>
 
 <ul>
-<li>This corpus contains 38 lemmas tagged as determiners (DET): aliquantus, alius, alter, ambo, ceterus, cunctus, hic, idem, ille, ipse, iste, meus, multus, nonnullus, noster, nullus, omnis, praedictus, praefatus, qualis, qualiscumque, quantus, qui, quicumque, quidam, quilibet, quisque, reliquus, suprascriptus, suus, talis, tantus, totus, tuus, uester, ullus, unusquisque, uterque</li>
+<li>This corpus contains 40 lemmas tagged as determiners (DET): aliquantus, aliqui, alius, alter, ambo, ceterus, cunctus, hic, idem, ille, ipse, iste, meus, multus, nonnullus, noster, nullus, omnis, praedictus, praefatus, qualis, qualiscumque, quantus, qui, quicumque, quidam, quilibet, quisque, reliquus, suprascriptus, suus, talis, tantus, totus, tuus, uester, ullus, unus, unusquisque, uterque</li>
 </ul>
 
 <ul>
-<li>Out of the above, 3 lemmas occurred sometimes as PRON and sometimes as DET: ceterus, qui, totus</li>
+<li>Out of the above, 1 lemmas occurred sometimes as PRON and sometimes as DET: qui</li>
 </ul>
 
 <ul>
@@ -125,34 +127,18 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
 </ul>
 
 <ul>
-<li>Out of the above, 2 lemmas occurred sometimes as AUX and sometimes as VERB: habeo, sum</li>
+<li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: habeo</li>
 </ul>
 
 <ul>
-<li>There are 5 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
 </ul>
 
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: est, fuerit, sum, fuit, fuerint, sunt, fui, sumus, es, fuisset</li>
-    <li>VERB: subscripsi, debeamus, dedi, est, dedisti, legitur, tenet, conplevi, rogavimus, dicitur</li>
-  </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Gdv
-  <ul>
-    <li>VERB: deliberandas, audiendas, conservandam, adquirenda, concinnanda, dandum, dedicandam, deliverandas, descernendas, distribuendas</li>
-  </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Ger
-  <ul>
-    <li>VERB: faciendum, abendi, usufructuandi, faciendi, gubernandi, perexolvendum, abitandum, meliorandum, gubernandum, inperandi</li>
+    <li>AUX: est, fuerit, sum, fuit, fuerint, fui, sunt, sit, sint, sumus</li>
+    <li>VERB: subscripsi, debeamus, dedi, dedisti, legitur, tenet, conplevi, rogavimus, dicitur, spondeo</li>
   </ul>
   </li>
 </ul>
@@ -160,8 +146,7 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
 <ul>
   <li>Inf
   <ul>
-    <li>AUX: esse, esset, essed, fuisset, essem, essere, fuissent, phore</li>
-    <li>VERB: scribere, conponere, fieri, reddere, dare, abere, venire, gubernare, facere, meliorare</li>
+    <li>AUX: esse, esset, essed, essem, essere, fuisset, phore, ese, fuisse, fuissent</li>
   </ul>
   </li>
 </ul>
@@ -169,7 +154,16 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
 <ul>
   <li>Part
   <ul>
-    <li>VERB: rogatus, actum, regnante, pertenentes, traditam, facta, sita, conservata, pegiorata, pertinentes</li>
+    <li>AUX: futura</li>
+    <li>VERB: rogatus, actum, regnante, pertenentes, traditam, facta, faciendum, sita, conservata, pegiorata</li>
+  </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Vnoun
+  <ul>
+    <li>VERB: scribere, conponere, fieri, reddere, dare, abere, venire, gubernare, facere, meliorare</li>
   </ul>
   </li>
 </ul>
@@ -185,13 +179,12 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
   <li>Fem
     <ul>
       <li>ADJ: sancte, bone, Lucane, decima, tertia, publica, quinta, cultis, incultis, Lucense</li>
-      <li>DET: ipsa, mea, suprascripta, hanc, illa, suprascripte, ipsius, omnibus, huius, predicta</li>
+      <li>AUX-Part: futura</li>
+      <li>DET: ipsa, mea, suprascripta, hanc, illa, suprascripte, ipsius, una, omnibus, huius</li>
       <li>NOUN: ecclesie, manus, casa, terra, res, cartula, rebus, ecclesia, indictione, memorie</li>
-      <li>NUM: duas, una, tres, unam, due, dua, duae, duabus, dues, tre</li>
+      <li>NUM: duas, tres, due, dua, duae, duabus, dues, tre, tris</li>
       <li>PRON: quas, eas, que, eam, quam, tibi, eius, ea, qua, ego</li>
       <li>PROPN: Luca, Marie, Italia, Langubardiam, Lunata, Langobardiam, Langubardia, Mariae, Verriana, Piscia</li>
-      <li>VERB-Gdv: deliberandas, audiendas, conservandam, adquirenda, dedicandam, deliverandas, descernendas, distribuendas, elevandas, faciendas</li>
-      <li>VERB-Ger: reddendam</li>
       <li>VERB-Part: traditam, pertenentes, facta, sita, pegiorata, tradita, pertinentes, tenente, dicta, circumdata</li>
     </ul>
   </li>
@@ -203,10 +196,9 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
       <li>ADJ: sancti, singulos, manifestu, decimo, vigisimo, bonos, humilis, tertio, sexto, propitio</li>
       <li>DET: qui, nostro, tuis, meis, vestro, ipsius, ipso, ipse, suprascripto, tali</li>
       <li>NOUN: teste, filio, loco, notarius, presbitero, anno, domno, episcopus, presbiter, testis</li>
-      <li>NUM: duo, uno, tres, unum, duos, ducentos, tricentos, unus, duocentos, duobus</li>
+      <li>NUM: duo, tres, duos, ducentos, tricentos, duocentos, duobus, quatringentos, quingentos, ducentus</li>
       <li>PRON: ego, me, nos, qui, tibi, eius, mihi, vobis, nobis, tu</li>
       <li>PROPN: Dei, Martini, Deo, Petri, Gherardus, Petrus, domini, Adalfridi, Fridiani, Andreas</li>
-      <li>VERB-Gdv: dandum</li>
       <li>VERB-Part: rogatus, regnante, ingressus, coronatus, abitantes, facto, gubernans, dante, ordinatus, visu</li>
     </ul>
   </li>
@@ -216,14 +208,13 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
   <li>Neut
     <ul>
       <li>ADJ: integrum, livellario, duplum, prefinito, manifestum, cultum, incultum, Romanum, recto, purum</li>
-      <li>DET: omnia, alio, hec, omnibus, vestro, quolibet, suo, ipso, ipsum, omni</li>
+      <li>AUX-Part: futura</li>
+      <li>DET: omnia, uno, alio, hec, omnibus, vestro, quolibet, suo, ipso, ipsum</li>
       <li>NOUN: signum, nomine, argentum, lato, caput, regni, imperii, tempore, mandato, capo</li>
-      <li>NUM: uno, unum, duo, milia, duobus, tria</li>
+      <li>NUM: duo, milia, duobus, tria</li>
       <li>PRON: id, quod, que, aliquo, quibus, aliquid, quot, eo, quit, nihil</li>
       <li>PROPN: Sexto, Castronovo, Vuamo, Suborbano, Feruniano, Paterno, Sugrominio, Tempaniano, Asulari, Turingo</li>
-      <li>VERB-Gdv: concinnanda</li>
-      <li>VERB-Ger: faciendum, abendi, usufructuandi, faciendi, gubernandi, perexolvendum, abitandum, meliorandum, gubernandum, inperandi</li>
-      <li>VERB-Part: actum, conservata, designatas, adimpleta, adinpleta, factum, privatum, sito, privato, dictum</li>
+      <li>VERB-Part: actum, faciendum, conservata, designatas, abendi, usufructuandi, faciendi, adimpleta, gubernandi, adinpleta</li>
     </ul>
   </li>
 </ul>
@@ -237,14 +228,14 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
   <li>Plur
     <ul>
       <li>ADJ: singulos, bonos, expendiviles, cultis, incultis, incultas, septembris, massariciis, manifesti, novembris</li>
-      <li>AUX-Fin: fuerint, sunt, fuerit, sumus, fuerunt, essent, fuissent, sint, fueritis, fuisserunt</li>
+      <li>AUX-Fin: fuerint, sunt, fuerit, sint, sumus, fuerunt, essent, fuissent, fueritis, fuisserunt</li>
+      <li>AUX-Part: futura</li>
       <li>DET: tuis, omnia, meis, omnibus, hec, suis, suas, suprascripti, ipsis, ipse</li>
       <li>NOUN: rebus, annos, heredes, casis, soledos, res, cartulas, subcessoribus, successoribus, kalendas</li>
       <li>NUM: duas, duo, tres, duos, ducentos, tricentos, due, dua, duobus, duocentos</li>
       <li>PRON: nos, vobis, quas, nobis, eas, qui, vos, eorum, que, eos</li>
       <li>PROPN: Capannule, Vaccule, domini, Interacchule, Capelle, Casule, Saxi, Subsilvule, Vallibus, Viniole</li>
-      <li>VERB-Fin: debeamus, rogavimus, quesierimus, relaxaverimus, intentionaverimus, spondimus, potuerimus, sint, adimpleverimus, faciamus</li>
-      <li>VERB-Gdv: deliberandas, audiendas, concinnanda, deliverandas, descernendas, distribuendas, elevandas, faciendas, rovorandas</li>
+      <li>VERB-Fin: debeamus, rogavimus, quesierimus, relaxaverimus, intentionaverimus, spondimus, potuerimus, adimpleverimus, faciamus, dederimus</li>
       <li>VERB-Part: pertenentes, conservata, designatas, adimpleta, adinpleta, pertinentes, abitantes, pertenentibus, circumdate, pertinentibus</li>
     </ul>
   </li>
@@ -254,16 +245,14 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
   <li>Sing
     <ul>
       <li>ADJ: sancti, integrum, sancte, bone, manifestu, livellario, decimo, Lucane, vigisimo, humilis</li>
-      <li>AUX-Fin: est, sum, fuerit, fuit, fui, es, fuisset, sit, erat, fuere</li>
-      <li>DET: ipsa, qui, mea, nostro, ipsius, suprascripta, hanc, vestro, alio, illa</li>
+      <li>AUX-Fin: est, fuerit, sum, fuit, fui, sit, es, fuisset, erat, fuerint</li>
+      <li>AUX-Part: futura</li>
+      <li>DET: ipsa, qui, mea, nostro, ipsius, suprascripta, hanc, uno, vestro, alio</li>
       <li>NOUN: teste, ecclesie, filio, manus, casa, loco, terra, signum, notarius, nomine</li>
-      <li>NUM: uno, una, unum, unam, unus, unu</li>
       <li>PRON: ego, me, tibi, qui, eius, mihi, id, tu, quod, que</li>
       <li>PROPN: Dei, Luca, Martini, Deo, Petri, Gherardus, Petrus, Marie, domini, Italia</li>
-      <li>VERB-Fin: subscripsi, dedi, est, dedisti, legitur, tenet, conplevi, dicitur, spondeo, convenit</li>
-      <li>VERB-Gdv: conservandam, adquirenda, dandum, dedicandam, possidendam, restaurandam, rovoranda, rovorandam</li>
-      <li>VERB-Ger: faciendum, abendi, usufructuandi, faciendi, gubernandi, perexolvendum, abitandum, meliorandum, gubernandum, inperandi</li>
-      <li>VERB-Part: rogatus, actum, regnante, traditam, facta, sita, pertenentes, pegiorata, ingressus, tradita</li>
+      <li>VERB-Fin: subscripsi, dedi, dedisti, legitur, tenet, conplevi, dicitur, spondeo, convenit, rogavit</li>
+      <li>VERB-Part: rogatus, actum, regnante, traditam, facta, faciendum, sita, pertenentes, pegiorata, ingressus</li>
     </ul>
   </li>
 </ul>
@@ -276,13 +265,12 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
   <li>Abl
     <ul>
       <li>ADJ: livellario, decimo, vigisimo, tertio, propitio, sexto, decima, septimo, quarto, ferquidem</li>
+      <li>AUX-Part: futura</li>
       <li>DET: mea, nostro, tuis, meis, omnibus, ipsa, omni, tali, ipso, suprascripta</li>
       <li>NOUN: teste, loco, terra, nomine, anno, rebus, domno, indictione, casis, casa</li>
-      <li>NUM: uno, una, duobus, unam, duabus, unum</li>
+      <li>NUM: duobus, duabus</li>
       <li>PRON: me, te, quo, nobis, eo, aliquo, quibus, qua, eis, ea</li>
       <li>PROPN: Luca, Deo, Christo, Carulo, Hlothario, Italia, Pippino, Pipino, Sexto, Hludovuico</li>
-      <li>VERB-Gdv: dandum</li>
-      <li>VERB-Ger: faciendo, gubernandum, levando, ordinando, persolvendo, proclamandum, recipiendo, serbiendum, serviendo</li>
       <li>VERB-Part: regnante, faventem, pertenentibus, privato, pertinentibus, calcata, vinata, dicta, coronato, dicto</li>
     </ul>
   </li>
@@ -292,14 +280,13 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
   <li>Acc
     <ul>
       <li>ADJ: integrum, singulos, manifestu, bonos, expendiviles, duplum, Lucense, incultas, iusta, septembris</li>
-      <li>DET: ipsa, hanc, omnia, alio, suprascripta, vestro, illa, mea, suas, quolibet</li>
+      <li>AUX-Part: futura</li>
+      <li>DET: ipsa, hanc, uno, omnia, alio, suprascripta, vestro, illa, mea, una</li>
       <li>NOUN: filio, res, casa, cartula, annos, argentum, notarium, lato, soledos, heredes</li>
-      <li>NUM: uno, duas, una, duo, unum, tres, duos, unam, ducentos, tricentos</li>
+      <li>NUM: duas, duo, tres, duos, ducentos, tricentos, dua, duocentos, milia, quatringentos</li>
       <li>PRON: nos, quas, eas, me, eam, quam, que, quod, vos, quem</li>
       <li>PROPN: Luca, Italia, Eriteo, Lopo, Langubardiam, Deum, Petrum, Cunimundo, Lamberto, Petro</li>
-      <li>VERB-Gdv: deliberandas, audiendas, conservandam, adquirenda, concinnanda, dedicandam, deliverandas, descernendas, distribuendas, elevandas</li>
-      <li>VERB-Ger: faciendum, perexolvendum, abitandum, meliorandum, gubernandum, abendum, lavorandum, levandum, fruendum, regendum</li>
-      <li>VERB-Part: traditam, pertenentes, facta, sita, designatas, tradita, pertinentes, tenente, dicta, tenentes</li>
+      <li>VERB-Part: traditam, pertenentes, faciendum, facta, sita, designatas, tradita, pertinentes, tenente, perexolvendum</li>
     </ul>
   </li>
 </ul>
@@ -323,10 +310,9 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
       <li>ADJ: sancti, sancte, bone, Lucane, beati, omnipotentis, beate, Lucanem, gloriosissimi, beatissimi</li>
       <li>DET: ipsius, huius, suprascripte, nostri, vestri, suprascripti, vestre, meae, mee, predicte</li>
       <li>NOUN: ecclesie, manus, testis, memorie, episcopatui, regni, imperii, filii, clerici, domni</li>
-      <li>PRON: eius, eorum, earum, cuius, Toti, chorum, nostris</li>
+      <li>PRON: eius, eorum, earum, cuius, chorum, nostris</li>
       <li>PROPN: Dei, Martini, Petri, Marie, domini, Fridiani, Christi, Andree, Salvatoris, Angeli</li>
-      <li>VERB-Ger: abendi, usufructuandi, faciendi, gubernandi, inperandi, regendi, meliorandi, usumfructuandi, dispensandi, possidendi</li>
-      <li>VERB-Part: dicte, dicti, consentientis, sitae, interdicti, memorate, negutianti, consentientes, dictae, affeduciati</li>
+      <li>VERB-Part: abendi, usufructuandi, faciendi, gubernandi, inperandi, regendi, meliorandi, dicte, usumfructuandi, dicti</li>
     </ul>
   </li>
 </ul>
@@ -334,6 +320,7 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
 <ul>
   <li>Loc
     <ul>
+      <li>ADV: hic, hinc, ic</li>
       <li>PROPN: Lucae</li>
     </ul>
   </li>
@@ -345,10 +332,9 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
       <li>ADJ: humilis, magnus, pacificus, serenissimus, manifestum, manifesti, boni, manifestus, tertia, umilis</li>
       <li>DET: qui, ipse, hec, omnia, ille, ipsa, ipsi, suprascripta, quales, meis</li>
       <li>NOUN: signum, notarius, episcopus, presbiter, clericus, imperator, pars, missus, germani, schabinus</li>
-      <li>NUM: una, duo, tres, due, unus, unam, duae, dues, quatringenti, tricenti</li>
+      <li>NUM: duo, tres, due, duae, dues, quatringenti, tricenti, tris</li>
       <li>PRON: ego, qui, nos, id, tu, quod, que, vos, quis, quot</li>
       <li>PROPN: Gherardus, Petrus, Andreas, Leo, Hludovuicus, Iohannes, Adalfridi, Alpertus, Teufridi, Ambrosius</li>
-      <li>VERB-Ger: adimplendum, dispensandum, offerendum, ponendum, tollendum</li>
       <li>VERB-Part: rogatus, actum, conservata, pegiorata, ingressus, coronatus, adimpleta, circumdata, adinpleta, factum</li>
     </ul>
   </li>
@@ -395,14 +381,26 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
 </ul>
 
 <ul>
+  <li>Dim
+    <ul>
+      <li>ADJ: aliquantulo, aliquantula, aliquantolis, masculi, masculos, masculum</li>
+      <li>NOUN: cartula, cartulam, cartulas, libellum, libello, cartule, ancilla, libelli, casella, livello</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Polarity</a></li>
 </ul>
 
 <ul>
   <li>Neg
     <ul>
+      <li>ADV: nihil, numquam, numqua, nunquam</li>
       <li>CCONJ: necnon</li>
+      <li>DET: nulla, nulli, nullum, nullo, nullus, nonnulli, nullam, nonnullis</li>
       <li>PART: non, ne</li>
+      <li>PRON: nihil, nihel</li>
     </ul>
   </li>
 </ul>
@@ -418,13 +416,12 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
 <ul>
   <li>Imp
     <ul>
-      <li>AUX-Fin: erat, essent, esse, esset, essemus, aberent, erant, sunt</li>
-      <li>AUX-Inf: esse</li>
-      <li>VERB-Fin: debeamus, est, legitur, tenet, dicitur, spondeo, videtur, videor, tene, sit</li>
-      <li>VERB-Gdv: deliberandas, audiendas, conservandam, adquirenda, concinnanda, dandum, dedicandam, deliverandas, descernendas, distribuendas</li>
-      <li>VERB-Ger: faciendum, abendi, usufructuandi, faciendi, gubernandi, perexolvendum, abitandum, meliorandum, gubernandum, inperandi</li>
-      <li>VERB-Inf: scribere, conponere, fieri, reddere, dare, abere, venire, gubernare, facere, meliorare</li>
+      <li>AUX-Fin: est, sit, sint, sunt, erat, essent, esse, esset, es, sum</li>
+      <li>AUX-Inf: esse, esset, ese, essem</li>
+      <li>AUX-Part: futura</li>
+      <li>VERB-Fin: debeamus, legitur, tenet, dicitur, spondeo, videtur, videor, tene, abeo, offero</li>
       <li>VERB-Part: regnante, pertenentes, pertinentes, tenente, abitantes, tenentes, faventem, pertenens, dante, pertenentibus</li>
+      <li>VERB-Vnoun: scribere, conponere, fieri, reddere, dare, abere, venire, gubernare, facere, meliorare</li>
     </ul>
   </li>
 </ul>
@@ -432,11 +429,19 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
 <ul>
   <li>Perf
     <ul>
-      <li>AUX-Fin: fuerit, fuit, fuerint, fui, fuisset, fuerunt, fuere, fuerat, fueret, fuisse</li>
-      <li>AUX-Inf: fuisset, fuissent</li>
+      <li>AUX-Fin: fuerit, fuit, fuerint, fui, fuisset, fuerunt, fuere, fuerat, fueret, fuissent</li>
+      <li>AUX-Inf: fuisset, fuisse, fuissent</li>
       <li>VERB-Fin: subscripsi, dedi, dedisti, conplevi, rogavimus, convenit, rogavit, rogavi, quesierimus, recepi</li>
-      <li>VERB-Inf: firmasse, fuisse, procedisset, recepisset, tradedisse, vidisset, vindedisse</li>
       <li>VERB-Part: rogatus, actum, traditam, facta, sita, conservata, pegiorata, ingressus, tradita, designatas</li>
+      <li>VERB-Vnoun: firmasse, procedisset, recepisset, tradedisse, vidisset, vindedisse</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Prosp
+    <ul>
+      <li>VERB-Part: faciendum, abendi, usufructuandi, faciendi, gubernandi, perexolvendum, abitandum, meliorandum, gubernandum, inperandi</li>
     </ul>
   </li>
 </ul>
@@ -456,8 +461,8 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
 <ul>
   <li>Ind
     <ul>
-      <li>AUX-Fin: est, fuerit, sum, fuit, fuerint, sunt, fui, sumus, es, fuerunt</li>
-      <li>VERB-Fin: subscripsi, dedi, est, dedisti, legitur, tenet, conplevi, rogavimus, dicitur, spondeo</li>
+      <li>AUX-Fin: est, fuerit, sum, fuit, fuerint, fui, sunt, sumus, es, fuerunt</li>
+      <li>VERB-Fin: subscripsi, dedi, dedisti, legitur, tenet, conplevi, rogavimus, dicitur, spondeo, convenit</li>
     </ul>
   </li>
 </ul>
@@ -465,8 +470,8 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
 <ul>
   <li>Sub
     <ul>
-      <li>AUX-Fin: fuisset, sit, essent, sint, fuisse, fuissent, esse, fuisserunt, esset, siit</li>
-      <li>VERB-Fin: debeamus, sit, debeam, permaneat, sint, faciamus, debeas, dedissemus, debeatis, permaneant</li>
+      <li>AUX-Fin: sit, sint, fuisset, essent, esse, fuissent, fuisse, esset, fuisserunt, siit</li>
+      <li>VERB-Fin: debeamus, debeam, permaneat, faciamus, debeas, dedissemus, debeatis, permaneant, deberemus, debeat</li>
     </ul>
   </li>
 </ul>
@@ -478,10 +483,8 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
 <ul>
   <li>Fut
     <ul>
-      <li>AUX-Fin: fuerit, fuerint, fuere, fueret, fueri, fueritis, abuerimus, abueritis, fuerimus, fuero</li>
-      <li>AUX-Inf: phore</li>
-      <li>VERB-Fin: quesierimus, fuerit, relaxaverimus, intentionaverimus, potuerimus, adimpleverimus, dederimus, abueritis, dederitis, relassaverimus</li>
-      <li>VERB-Part: venturi, conponiturus, conponituru, venturo, componiturus, conponituri, futura, componituri, conponituris, conposituros</li>
+      <li>AUX-Fin: fuerit, fuerint, fuere, fueret, fueri, fueritis, fuerent, abuerimus, abueritis, fuerimus</li>
+      <li>VERB-Fin: quesierimus, relaxaverimus, intentionaverimus, potuerimus, adimpleverimus, dederimus, abueritis, dederitis, relassaverimus, exierimus</li>
     </ul>
   </li>
 </ul>
@@ -489,11 +492,8 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
 <ul>
   <li>Past
     <ul>
-      <li>AUX-Fin: fuit, fui, fuerunt, erat, essent, esse, abuit, esset, essemus, fuemus</li>
-      <li>AUX-Inf: fuisset, fuissent</li>
+      <li>AUX-Fin: fuit, fui, fuerunt, erat, essent, esse, esset, abuit, fuet, erant</li>
       <li>VERB-Fin: subscripsi, dedi, dedisti, conplevi, rogavimus, convenit, rogavit, rogavi, recepi, abuit</li>
-      <li>VERB-Inf: firmasse, fuisse, procedisset, recepisset, tradedisse, vidisset, vindedisse</li>
-      <li>VERB-Part: rogatus, actum, traditam, facta, sita, conservata, pegiorata, ingressus, tradita, designatas</li>
     </ul>
   </li>
 </ul>
@@ -501,7 +501,7 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
 <ul>
   <li>Pqp
     <ul>
-      <li>AUX-Fin: fuisset, fuerat, fuisse, fuissent, fuisserunt, fuerant, abuisset</li>
+      <li>AUX-Fin: fuisset, fuerat, fuissent, fuisse, fuisserunt, fuerant, abuisset</li>
       <li>VERB-Fin: dedissemus, voluisset, potuisset, dixisset, recipisset, abuisset, dedissetis, recepisset, offeruerat, recipissem</li>
     </ul>
   </li>
@@ -510,13 +510,8 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
 <ul>
   <li>Pres
     <ul>
-      <li>AUX-Fin: est, sum, sunt, sumus, es, sit, sint, siit, is, simus</li>
-      <li>AUX-Inf: esse, esset, essed, essem, essere</li>
-      <li>VERB-Fin: debeamus, est, legitur, tenet, dicitur, spondeo, videtur, videor, tene, sit</li>
-      <li>VERB-Gdv: deliberandas, audiendas, conservandam, adquirenda, concinnanda, dandum, dedicandam, deliverandas, descernendas, distribuendas</li>
-      <li>VERB-Ger: faciendum, abendi, usufructuandi, faciendi, gubernandi, perexolvendum, abitandum, meliorandum, gubernandum, inperandi</li>
-      <li>VERB-Inf: scribere, conponere, fieri, reddere, dare, abere, venire, gubernare, facere, meliorare</li>
-      <li>VERB-Part: regnante, pertenentes, pertinentes, tenente, abitantes, tenentes, faventem, pertenens, dante, pertenentibus</li>
+      <li>AUX-Fin: est, sum, sunt, sit, sint, sumus, es, siit, is, simus</li>
+      <li>VERB-Fin: debeamus, legitur, tenet, dicitur, spondeo, videtur, videor, tene, abeo, offero</li>
     </ul>
   </li>
 </ul>
@@ -528,11 +523,10 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
 <ul>
   <li>Act
     <ul>
-      <li>AUX-Fin: est, fuerit, sum, fuit, fuerint, sunt, fui, sumus, es, fuisset</li>
-      <li>AUX-Inf: esse, esset, essed, fuisset, essem, essere, fuissent, phore</li>
-      <li>VERB-Fin: subscripsi, debeamus, dedi, est, dedisti, tenet, conplevi, rogavimus, spondeo, convenit</li>
-      <li>VERB-Inf: scribere, conponere, reddere, dare, abere, venire, gubernare, facere, meliorare, laborare</li>
+      <li>AUX-Fin: abuit, abuerimus, abueritis, abuisset, abemus, aberent, abetis, abuerit, habemus</li>
+      <li>VERB-Fin: subscripsi, debeamus, dedi, dedisti, tenet, conplevi, rogavimus, spondeo, convenit, rogavit</li>
       <li>VERB-Part: regnante, pertenentes, pertinentes, tenente, abitantes, tenentes, faventem, pertenens, dante, pertenentibus</li>
+      <li>VERB-Vnoun: scribere, conponere, reddere, dare, abere, venire, gubernare, facere, meliorare, laborare</li>
     </ul>
   </li>
 </ul>
@@ -541,10 +535,8 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
   <li>Pass
     <ul>
       <li>VERB-Fin: legitur, dicitur, videtur, videor, vocitatur, regitur, vocatur, pegioretur, melioretur, agitur</li>
-      <li>VERB-Gdv: deliberandas, audiendas, conservandam, adquirenda, concinnanda, dandum, dedicandam, deliverandas, descernendas, distribuendas</li>
-      <li>VERB-Ger: faciendum, abendi, usufructuandi, faciendi, gubernandi, perexolvendum, abitandum, meliorandum, gubernandum, inperandi</li>
-      <li>VERB-Inf: fieri, subtragi, retolli, retragi, fierit, legi, suptragi, relegi, adduci, disrumpi</li>
-      <li>VERB-Part: rogatus, actum, traditam, facta, sita, conservata, pegiorata, ingressus, tradita, designatas</li>
+      <li>VERB-Part: rogatus, actum, traditam, facta, faciendum, sita, conservata, pegiorata, ingressus, tradita</li>
+      <li>VERB-Vnoun: fieri, subtragi, retolli, retragi, fierit, legi, suptragi, relegi, adduci, disrumpi</li>
     </ul>
   </li>
 </ul>
@@ -558,26 +550,20 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
 </ul>
 
 <ul>
+  <li>Con
+    <ul>
+      <li>ADV: aliter</li>
+      <li>DET: alio, alia, aliis, alie, alii, alios, aliam, aliud, utraque, alium</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Dem
     <ul>
-      <li>ADV: taliter, tantum, hic, ita, tam, ecce, tantu, hecce, hinc, ic</li>
+      <li>ADV: taliter, tam, tantum, hic, ita, ecce, hecce, tantu, hinc, ic</li>
+      <li>CCONJ: tam</li>
       <li>DET: ipsa, suprascripta, ipsius, hanc, ipse, illa, ipso, suprascripte, suprascripto, hec</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Dem,Ind
-    <ul>
-      <li>DET: tanta, tantas, tantum</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Dem,Prs
-    <ul>
-      <li>PRON: eius, id, eas, eam, eorum, eos, eo, ei, ea, eum</li>
     </ul>
   </li>
 </ul>
@@ -585,36 +571,9 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
 <ul>
   <li>Ind
     <ul>
-      <li>ADV: aliquantum</li>
-      <li>DET: qui, alio, alia, quolibet, aliis, cuius, qualibet, aliquantis, quas, alie</li>
-      <li>PRON: aliquo, aliquid, quit, quid, aliquit, aliquis, aliquod, quis, alico, aliqua</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Ind,Neg
-    <ul>
-      <li>ADV: nihil</li>
-      <li>DET: nulla, nulli, nullum, nullo, nullus, nullam</li>
-      <li>PRON: nihil, nihel</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Ind,Rel
-    <ul>
-      <li>DET: quales, quale, quantas, qualis, quanta, quali, quante, qualem, qualecumque, qualex</li>
-      <li>PRON: quidquid, quicquid, quicquit, quitquid, quidquit, quiquid</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Int
-    <ul>
-      <li>ADV: cur, quando</li>
+      <li>ADV: nihil, aliquantum</li>
+      <li>DET: qui, uno, una, quolibet, unum, unam, cuius, qualibet, aliquantis, quas</li>
+      <li>PRON: aliquo, aliquid, quis, quit, nihil, quid, aliquit, aliquis, alico, nihel</li>
     </ul>
   </li>
 </ul>
@@ -631,7 +590,7 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
   <li>Prs
     <ul>
       <li>DET: mea, nostro, tuis, meis, vestro, suis, meo, suas, nostri, vestre</li>
-      <li>PRON: ego, me, nos, tibi, mihi, vobis, nobis, tu, te, vos</li>
+      <li>PRON: ego, me, nos, tibi, eius, mihi, vobis, id, eas, nobis</li>
     </ul>
   </li>
 </ul>
@@ -639,10 +598,11 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
 <ul>
   <li>Rel
     <ul>
-      <li>ADV: ubi, unde, ibi, quantum, ubicumque, qualiter, ut, quamvis, quantu, huvi</li>
-      <li>DET: quiscunque, quecumque, quicumquem, quicunque, quiscumque, cocumque, cuicunque, quicumque, quocunquen</li>
+      <li>ADV: ubi, ibi, quantum, unde, ubicumque, qualiter, ut, quamvis, quandoque, quantu</li>
+      <li>CCONJ: ut, ud</li>
+      <li>DET: quales, quale, quantas, qualis, quanta, quali, quante, quiscunque, qualem, quecumque</li>
       <li>PRON: qui, quas, que, quod, cui, quam, quo, quem, quibus, qua</li>
-      <li>SCONJ: qualiter, quam</li>
+      <li>SCONJ: ut, quam, quando, ud, cum, quandoque, u, aut, cu, qualiter</li>
     </ul>
   </li>
 </ul>
@@ -651,7 +611,6 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
   <li>Tot
     <ul>
       <li>DET: omnia, omnibus, omni, omnem, omnes, ambas, omne, omnis, ambo, homnia</li>
-      <li>PRON: Toti</li>
     </ul>
   </li>
 </ul>
@@ -663,7 +622,9 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
 <ul>
   <li>Card
     <ul>
-      <li>NUM: uno, duas, una, viginti, triginta, quinquaginta, duo, decem, sex, quattuor</li>
+      <li>ADV: tantum, tantu</li>
+      <li>DET: uno, una, unum, ambas, unam, ambo, quantas, quanta, plures, unus</li>
+      <li>NUM: duas, viginti, triginta, quinquaginta, duo, decem, sex, quattuor, quinque, duodecim</li>
     </ul>
   </li>
 </ul>
@@ -735,7 +696,7 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
 <ul>
   <li>2
     <ul>
-      <li>AUX-Fin: est, fueritis, es, abueritis, is, abetis, estis, his</li>
+      <li>AUX-Fin: est, es, fueritis, abueritis, is, abetis, estis, his</li>
       <li>PRON: tibi, vobis, tu, te, vos, tivi, vovis, temetipsum</li>
       <li>VERB-Fin: dedisti, firmasti, abueritis, debeatis, dederitis, debeas, veneritis, decreveritis, volueritis, direxisti</li>
     </ul>
@@ -745,9 +706,9 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
 <ul>
   <li>3
     <ul>
-      <li>AUX-Fin: est, fuerit, fuit, fuerint, sunt, fuisset, es, sit, fuerunt, erat</li>
+      <li>AUX-Fin: est, fuerit, fuit, fuerint, sunt, sit, sint, es, fuisset, fuerunt</li>
       <li>PRON: eius, id, eas, eam, eorum, se, eos, eo, ei, ea</li>
-      <li>VERB-Fin: est, legitur, tenet, dicitur, convenit, videtur, rogavit, tene, sit, fuerit</li>
+      <li>VERB-Fin: legitur, tenet, dicitur, convenit, videtur, rogavit, tene, permaneat, abuit, coepit</li>
     </ul>
   </li>
 </ul>
@@ -776,6 +737,82 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
 
 <h3>Other Features</h3>
 
+
+<ul>
+  <li><a>AdvType</a>
+    <ul>
+      <li>Loc
+        <ul>
+          <li>ADV: unde, hic, exinde, ubique, alibi, foras, foris, ibidem, hinc, ic</li>
+        </ul>
+      </li>
+      <li>Tim
+        <ul>
+          <li>ADV: iam, semper, nunc, iterum, iteru, quandoque, senper, aduc, exinde, ia</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Form</a>
+    <ul>
+      <li>Emp
+        <ul>
+          <li>ADV: tamen, tame, ubique</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>InflClass</a>
+    <ul>
+      <li>IndEurO
+        <ul>
+          <li>DET: quantum</li>
+        </ul>
+      </li>
+      <li>LatPron
+        <ul>
+          <li>DET: uno, una, unum, unam, quacumque, unus, quiscumque, quocumque, quiscunque, quecumque</li>
+          <li>PRON: aliquo, aliquid, quidquid, aliquit, aliquis, quicquid, alico, quicquit, quitquid, quidquit</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>NameType</a>
+    <ul>
+      <li>Nat
+        <ul>
+          <li>ADJ: Romanum, Romanus, Romana</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>NumValue</a>
+    <ul>
+      <li>1
+        <ul>
+          <li>DET: uno, una, unum, unam, unus, unu</li>
+        </ul>
+      </li>
+      <li>2
+        <ul>
+          <li>DET: ambas, ambo, anbas, ambes, ambe, ambi, amborum, amba, ambae, ambarum</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 <ul>
   <li><a>Person[psor]</a>
@@ -811,20 +848,6 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
   </li>
 </ul>
 
-<ul>
-  <li><a>VerbType</a>
-    <ul>
-      <li>Mod
-        <ul>
-          <li>VERB-Fin: debeamus, quesierimus, debeam, potuerimus, debeas, debeatis, deberemus, debeat, meruero, deberimus</li>
-          <li>VERB-Inf: nolle, querere, nollet</li>
-          <li>VERB-Part: dignatus, ausi, dignati</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-</ul>
-
 <h2>Syntax</h2>
 
 <h3>Auxiliary Verbs and Copula</h3>
@@ -846,29 +869,31 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN-Acc (1)</li>
       <li>VERB--NOUN-Nom (7)</li>
-      <li>VERB--PRON-Nom (58)</li>
+      <li>VERB--PRON-Nom (55)</li>
       <li>VERB-Fin--NOUN (1)</li>
-      <li>VERB-Fin--NOUN-Abl (17)</li>
-      <li>VERB-Fin--NOUN-Acc (111)</li>
-      <li>VERB-Fin--NOUN-Gen (3)</li>
-      <li>VERB-Fin--NOUN-Nom (520)</li>
+      <li>VERB-Fin--NOUN-Abl (13)</li>
+      <li>VERB-Fin--NOUN-Acc (101)</li>
+      <li>VERB-Fin--NOUN-Gen (1)</li>
+      <li>VERB-Fin--NOUN-Nom (325)</li>
+      <li>VERB-Fin--NOUN-Voc (2)</li>
       <li>VERB-Fin--PRON-Abl (1)</li>
-      <li>VERB-Fin--PRON-Acc (96)</li>
-      <li>VERB-Fin--PRON-Nom (5516)</li>
-      <li>VERB-Inf--NOUN-Abl (2)</li>
-      <li>VERB-Inf--NOUN-Acc (15)</li>
-      <li>VERB-Inf--NOUN-Dat (3)</li>
-      <li>VERB-Inf--NOUN-Nom (4)</li>
-      <li>VERB-Inf--PRON-Acc (91)</li>
-      <li>VERB-Inf--PRON-Nom (7)</li>
-      <li>VERB-Part--NOUN-Abl (542)</li>
+      <li>VERB-Fin--PRON-Acc (70)</li>
+      <li>VERB-Fin--PRON-Dat (1)</li>
+      <li>VERB-Fin--PRON-Nom (1537)</li>
+      <li>VERB-Part--NOUN-Abl (543)</li>
       <li>VERB-Part--NOUN-Abl-ADP(de) (1)</li>
       <li>VERB-Part--NOUN-Acc (6)</li>
       <li>VERB-Part--NOUN-Gen (1)</li>
       <li>VERB-Part--NOUN-Nom (71)</li>
       <li>VERB-Part--PRON-Abl (4)</li>
-      <li>VERB-Part--PRON-Acc (13)</li>
-      <li>VERB-Part--PRON-Nom (135)</li>
+      <li>VERB-Part--PRON-Acc (9)</li>
+      <li>VERB-Part--PRON-Nom (132)</li>
+      <li>VERB-Vnoun--NOUN-Abl (2)</li>
+      <li>VERB-Vnoun--NOUN-Acc (13)</li>
+      <li>VERB-Vnoun--NOUN-Dat (3)</li>
+      <li>VERB-Vnoun--NOUN-Nom (4)</li>
+      <li>VERB-Vnoun--PRON-Acc (83)</li>
+      <li>VERB-Vnoun--PRON-Nom (6)</li>
     </ul>
   </li>
 </ul>
@@ -879,22 +904,18 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-Acc (4)</li>
       <li>VERB--PRON-Acc (1)</li>
       <li>VERB-Fin--NOUN-Abl (2)</li>
-      <li>VERB-Fin--NOUN-Acc (2012)</li>
+      <li>VERB-Fin--NOUN-Acc (2018)</li>
       <li>VERB-Fin--NOUN-Gen (1)</li>
       <li>VERB-Fin--NOUN-Nom (105)</li>
-      <li>VERB-Fin--PRON-Acc (1129)</li>
+      <li>VERB-Fin--PRON-Acc (1094)</li>
       <li>VERB-Fin--PRON-Nom (14)</li>
-      <li>VERB-Gdv--NOUN-Acc (4)</li>
-      <li>VERB-Ger--NOUN-Acc (464)</li>
-      <li>VERB-Ger--NOUN-Nom (8)</li>
-      <li>VERB-Ger--PRON-Acc (75)</li>
-      <li>VERB-Inf--NOUN-Acc (1525)</li>
-      <li>VERB-Inf--NOUN-Nom (98)</li>
-      <li>VERB-Inf--PRON-Acc (334)</li>
-      <li>VERB-Inf--PRON-Nom (11)</li>
-      <li>VERB-Part--NOUN-Acc (353)</li>
-      <li>VERB-Part--NOUN-Nom (3)</li>
-      <li>VERB-Part--PRON-Acc (15)</li>
+      <li>VERB-Part--NOUN-Acc (820)</li>
+      <li>VERB-Part--NOUN-Nom (11)</li>
+      <li>VERB-Part--PRON-Acc (89)</li>
+      <li>VERB-Vnoun--NOUN-Acc (1530)</li>
+      <li>VERB-Vnoun--NOUN-Nom (98)</li>
+      <li>VERB-Vnoun--PRON-Acc (322)</li>
+      <li>VERB-Vnoun--PRON-Nom (11)</li>
     </ul>
   </li>
 </ul>
@@ -904,9 +925,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB-Fin--NOUN-Nom (6)</li>
       <li>VERB-Fin--PRON-Nom (1)</li>
-      <li>VERB-Ger--NOUN-Nom (1)</li>
-      <li>VERB-Inf--NOUN-Nom (3)</li>
-      <li>VERB-Inf--PRON-Nom (2)</li>
+      <li>VERB-Part--NOUN-Nom (1)</li>
+      <li>VERB-Vnoun--NOUN-Nom (3)</li>
+      <li>VERB-Vnoun--PRON-Nom (1)</li>
     </ul>
   </li>
 </ul>
@@ -925,6 +946,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 13 relation subtypes: <a>acl:relcl</a>, <a>advcl:cmpr</a>, <a>advmod:emph</a>, <a>aux:pass</a>, <a>conj:expl</a>, <a>csubj:pass</a>, <a>dislocated:csubj</a>, <a>dislocated:nsubj</a>, <a>dislocated:obj</a>, <a>nsubj:pass</a>, <a>obl:arg</a>, <a>orphan:missing</a>, <a>xcomp:pred</a></li>
-<li>The following 6 relation types are not used in this corpus at all: <a>expl</a>, <a>discourse</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>dep</a></li>
+<li>This corpus uses 24 relation subtypes: <a>acl:relcl</a>, <a>advcl:abs</a>, <a>advcl:cmp</a>, <a>advcl:pred</a>, <a>advcl:relcl</a>, <a>advmod:emph</a>, <a>advmod:lmod</a>, <a>advmod:neg</a>, <a>advmod:tmod</a>, <a>aux:pass</a>, <a>ccomp:relcl</a>, <a>conj:expl</a>, <a>csubj:pass</a>, <a>csubj:relcl</a>, <a>dislocated:csubj</a>, <a>dislocated:nsubj</a>, <a>dislocated:obj</a>, <a>dislocated:obl</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:lmod</a>, <a>obl:tmod</a>, <a>orphan:missing</a></li>
+<li>The following 4 relation types are not used in this corpus at all: <a>expl</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a></li>
 </ul>

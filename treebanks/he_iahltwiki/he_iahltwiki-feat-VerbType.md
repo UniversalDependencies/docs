@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="he_iahltwiki-pos-AU
 
 340 <tt><a href="he_iahltwiki-pos-AUX.html">AUX</a></tt> tokens (36% of all `AUX` tokens) have a non-empty value of `VerbType`.
 
-The most frequent other feature values with which `AUX` and `VerbType` co-occurred: <tt><a href="he_iahltwiki-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (314; 92%), <tt><a href="he_iahltwiki-feat-Person.html">Person</a></tt><tt>=3</tt> (295; 87%), <tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt><tt>=Sing</tt> (239; 70%), <tt><a href="he_iahltwiki-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (229; 67%), <tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (203; 60%), <tt><a href="he_iahltwiki-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (182; 54%).
+The most frequent other feature values with which `AUX` and `VerbType` co-occurred: <tt><a href="he_iahltwiki-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (314; 92%), <tt><a href="he_iahltwiki-feat-Person.html">Person</a></tt><tt>=3</tt> (295; 87%), <tt><a href="he_iahltwiki-feat-HebBinyan.html">HebBinyan</a></tt><tt>=PAAL</tt> (261; 77%), <tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt><tt>=Sing</tt> (239; 70%), <tt><a href="he_iahltwiki-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (229; 67%), <tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (203; 60%), <tt><a href="he_iahltwiki-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (182; 54%).
 
 `AUX` tokens may have the following values of `VerbType`:
 
@@ -31,7 +31,7 @@ The most frequent other feature values with which `AUX` and `VerbType` co-occurr
 
 65 <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `VerbType`.
 
-The most frequent other feature values with which `VERB` and `VerbType` co-occurred: <tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (43; 66%), <tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt><tt>=Sing</tt> (42; 65%), <tt><a href="he_iahltwiki-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (40; 62%), <tt><a href="he_iahltwiki-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (37; 57%), <tt><a href="he_iahltwiki-feat-HebBinyan.html">HebBinyan</a></tt><tt>=EMPTY</tt> (36; 55%), <tt><a href="he_iahltwiki-feat-Person.html">Person</a></tt><tt>=3</tt> (34; 52%), <tt><a href="he_iahltwiki-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (34; 52%).
+The most frequent other feature values with which `VERB` and `VerbType` co-occurred: <tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (43; 66%), <tt><a href="he_iahltwiki-feat-Person.html">Person</a></tt><tt>=3</tt> (43; 66%), <tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt><tt>=Sing</tt> (42; 65%), <tt><a href="he_iahltwiki-feat-HebBinyan.html">HebBinyan</a></tt><tt>=NIFAL</tt> (41; 63%), <tt><a href="he_iahltwiki-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (39; 60%), <tt><a href="he_iahltwiki-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (37; 57%), <tt><a href="he_iahltwiki-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (36; 55%).
 
 `VERB` tokens may have the following values of `VerbType`:
 

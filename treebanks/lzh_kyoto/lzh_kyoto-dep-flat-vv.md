@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="lzh_kyoto-dep-flat.html">flat</a></tt>.
 There are also 1 other language-specific subtypes of `flat`: <tt><a href="lzh_kyoto-dep-flat-foreign.html">flat:foreign</a></tt>.
 
-4453 nodes (2%) are attached to their parents as `flat:vv`.
+4920 nodes (2%) are attached to their parents as `flat:vv`.
 
-4453 instances of `flat:vv` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.00157197395015.
+4920 instances of `flat:vv` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.00121951219512.
 
-The following 14 pairs of parts of speech are connected with `flat:vv`: <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (4128; 93% instances), <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (225; 5% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (32; 1% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (23; 1% instances), <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt>-<tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> (13; 0% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> (10; 0% instances), <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt>-<tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `flat:vv`: <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (4594; 93% instances), <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (273; 6% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (24; 0% instances), <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt>-<tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> (15; 0% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> (10; 0% instances), <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -46,15 +46,23 @@ The following 14 pairs of parts of speech are connected with `flat:vv`: <tt><a h
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 flat:vv	color:blue
-1	賞	賞	VERB	v,動詞,行為,交流	_	3	nsubj	_	Gloss=reward|SpaceAfter=No
-2	罰	罰	NOUN	n,名詞,制度,儀礼	_	1	flat:vv	_	Gloss=punishment|SpaceAfter=No
-3	盡	盡	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=exhaust|SpaceAfter=No
-4	公	公	NOUN	n,名詞,人,役割	_	3	obj	_	Gloss=duke|SpaceAfter=No
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 12 flat:vv	color:blue
+1	卿	卿	NOUN	n,名詞,人,役割	_	10	nsubj	_	Gloss=minister|SpaceAfter=No
+2	勿	勿	ADV	v,副詞,否定,禁止	Polarity=Neg	10	advmod	_	Gloss=don't|SpaceAfter=No
+3	以	以	VERB	v,動詞,行為,動作	_	10	advcl	_	Gloss=use|SpaceAfter=No
+4	王	王	PROPN	n,名詞,人,姓氏	NameType=Sur	6	nsubj	_	Gloss=[surname]|SpaceAfter=No
+5	夷甫	夷甫	PROPN	n,名詞,人,名	NameType=Giv	4	flat	_	Gloss=[given-name]|SpaceAfter=No
+6	識	識	VERB	v,動詞,行為,動作	_	3	ccomp	_	Gloss=recognize|SpaceAfter=No
+7	石	石	PROPN	n,名詞,人,姓氏	NameType=Sur	6	obj	_	Gloss=[surname]|SpaceAfter=No
+8	勒	勒	PROPN	n,名詞,人,名	NameType=Giv	7	flat	_	Gloss=[given-name]|SpaceAfter=No
+9	枉	枉	ADV	v,動詞,行為,動作	VerbForm=Conv	10	advmod	_	Gloss=bent|SpaceAfter=No
+10	害	害	VERB	v,動詞,行為,態度	_	0	root	_	Gloss=injure|SpaceAfter=No
+11	忠	忠	NOUN	n,名詞,描写,態度	_	10	obj	_	Gloss=loyal|SpaceAfter=No
+12	良	良	VERB	v,動詞,描写,形質	Degree=Pos	11	flat:vv	_	Gloss=good|SpaceAfter=No
 
 ~~~
 

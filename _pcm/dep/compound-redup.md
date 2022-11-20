@@ -34,4 +34,4 @@ The `compound:redup` relation is used for reduplicated compounds. There is a red
 
 ~~~
 
-<!-- Interlanguage links updated So kvě 14 19:03:17 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:16 CET 2022 -->

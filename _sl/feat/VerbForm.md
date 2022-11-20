@@ -65,4 +65,4 @@ The converb, also called adverbial participle, is a non-finite verb form that sh
 All verbs with feature VForm=present, VForm=future, VForm=conditional and VForm=imperative are converted to UD `VerbForm=Fin`. All verbs with VForm=Infinitive are converted to UD `VerbForm=Inf`, all verbs with VForm=Supine are converted to UD `VerbForm=Sup`, and all verbs with VForm=Participle are converted to UD `VerbForm=Part`. Additionally, all adjectives with Type=participle are converted to UD `VerbForm=Part` and all adverbs with Type=participle are converted to UD `VerbForm=Conv`.
 
 Note that `gerunds` are currently marked as [nouns](NOUN) and do not have a special `VerbForm` feature to distinguish them from other common nouns.
-<!-- Interlanguage links updated So kvě 14 19:02:44 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:00 CET 2022 -->

@@ -34,4 +34,4 @@ The `det:nummod` relation is used in the Polish [PDB-UD](http://universaldepende
 9	up	_	_	_	_	_	_	_	_
 10	.	_	_	_	_	_	_	_	_
 ~~~
-<!-- Interlanguage links updated So kvě 14 19:03:29 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:22 CET 2022 -->

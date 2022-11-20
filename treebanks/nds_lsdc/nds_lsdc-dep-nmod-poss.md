@@ -38,8 +38,8 @@ The following 3 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 14	wår	wår	ADV	_	_	19	advmod	_	lemma[gml]=wôr(e)
 15	in	in	ADP	_	AdpType=Prep	18	case	_	lemma[gml]=in²
 16	'	'	PUNCT	_	_	17	punct	_	_
-17	en	de	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	Case[regional]=Acc|lemma[gml]=dê¹
-18	sommer	soamer	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	19	obl	_	Case[regional]=Acc|lemma[gml]=sōmer²
+17	en	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	lemma[gml]=dê¹
+18	sommer	soamer	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	19	obl	_	lemma[gml]=sōmer²
 19	giaten	eaten	VERB	_	Aspect=Perf|VerbForm=Part	12	acl	_	lemma[gml]=ēten
 20	word	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|VerbType=Aux	19	aux:pass	_	lemma[gml]=wērden¹|SpaceAfter=No
 21	.	.	PUNCT	_	_	9	punct	_	_

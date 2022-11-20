@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-17 nodes (0%) are attached to their parents as `csubj`.
+16 nodes (0%) are attached to their parents as `csubj`.
 
-17 instances of `csubj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 6.05882352941176.
+16 instances of `csubj` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.3125.
 
-The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (8; 47% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (4; 24% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (1; 6% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (1; 6% instances), <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (1; 6% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (1; 6% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> (1; 6% instances).
+The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (7; 44% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (4; 25% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (1; 6% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (1; 6% instances), <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (1; 6% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (1; 6% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
@@ -94,33 +94,33 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 2 csubj	color:blue
-1	無論	_	SCONJ	_	_	6	mark	_	SpaceAfter=No
-2	錯	_	ADJ	_	_	6	csubj	_	SpaceAfter=No
-3	與	_	CCONJ	_	_	4	cc	_	SpaceAfter=No
-4	對	_	ADJ	_	_	2	conj	_	SpaceAfter=No
-5	都	_	ADV	_	_	6	advmod	_	SpaceAfter=No
-6	好	_	ADJ	_	_	17	advcl	_	SpaceAfter=No
-7	呢	_	PART	_	_	2	discourse:sp	_	SpaceAfter=No
-8	，	_	PUNCT	_	_	17	punct	_	SpaceAfter=No
-9	今日	_	NOUN	_	_	17	obl:tmod	_	SpaceAfter=No
-10	我	_	PRON	_	_	12	reparandum	_	SpaceAfter=No
-11	-	_	PUNCT	_	_	10	punct	_	SpaceAfter=No
-12	我	_	PRON	_	_	17	nsubj	_	SpaceAfter=No
-13	唔	_	ADV	_	_	17	advmod	_	SpaceAfter=No
-14	會	_	AUX	_	_	17	aux	_	SpaceAfter=No
-15	同	_	VERB	_	_	17	advcl:coverb	_	SpaceAfter=No
-16	你	_	PRON	_	_	15	obj	_	SpaceAfter=No
-17	爭論	_	VERB	_	_	0	root	_	SpaceAfter=No
-18	嘅	_	PART	_	_	17	discourse:sp	_	SpaceAfter=No
-19	，	_	PUNCT	_	_	25	punct	_	SpaceAfter=No
-20	我	_	PRON	_	_	25	nsubj	_	SpaceAfter=No
-21	唔	_	ADV	_	_	25	advmod	_	SpaceAfter=No
-22	會	_	AUX	_	_	25	aux	_	SpaceAfter=No
-23	同	_	VERB	_	_	25	advcl:coverb	_	SpaceAfter=No
-24	你	_	PRON	_	_	23	obj	_	SpaceAfter=No
-25	爭論	_	VERB	_	_	17	parataxis	_	SpaceAfter=No
-26	嘅	_	PART	_	_	25	discourse:sp	_	SpaceAfter=No
-27	。	_	PUNCT	_	_	17	punct	_	SpaceAfter=No
+1	無論	無論	SCONJ	_	_	6	mark	_	SpaceAfter=No
+2	錯	錯	ADJ	_	_	6	csubj	_	SpaceAfter=No
+3	與	與	CCONJ	_	_	4	cc	_	SpaceAfter=No
+4	對	對	ADJ	_	_	2	conj	_	SpaceAfter=No
+5	都	都	ADV	_	_	6	advmod	_	SpaceAfter=No
+6	好	好	ADJ	_	_	17	advcl	_	SpaceAfter=No
+7	呢	呢	PART	_	_	2	discourse:sp	_	SpaceAfter=No
+8	，	，	PUNCT	_	_	17	punct	_	SpaceAfter=No
+9	今日	今日	NOUN	_	_	17	obl:tmod	_	SpaceAfter=No
+10	我	我	PRON	_	_	12	reparandum	_	SpaceAfter=No
+11	-	-	PUNCT	_	_	10	punct	_	SpaceAfter=No
+12	我	我	PRON	_	_	17	nsubj	_	SpaceAfter=No
+13	唔	唔	ADV	_	_	17	advmod	_	SpaceAfter=No
+14	會	會	AUX	_	_	17	aux	_	SpaceAfter=No
+15	同	同	VERB	_	_	17	advcl:coverb	_	SpaceAfter=No
+16	你	你	PRON	_	_	15	obj	_	SpaceAfter=No
+17	爭論	爭論	VERB	_	_	0	root	_	SpaceAfter=No
+18	嘅	嘅	PART	_	_	17	discourse:sp	_	SpaceAfter=No
+19	，	，	PUNCT	_	_	25	punct	_	SpaceAfter=No
+20	我	我	PRON	_	_	25	nsubj	_	SpaceAfter=No
+21	唔	唔	ADV	_	_	25	advmod	_	SpaceAfter=No
+22	會	會	AUX	_	_	25	aux	_	SpaceAfter=No
+23	同	同	VERB	_	_	25	advcl:coverb	_	SpaceAfter=No
+24	你	你	PRON	_	_	23	obj	_	SpaceAfter=No
+25	爭論	爭論	VERB	_	_	17	parataxis	_	SpaceAfter=No
+26	嘅	嘅	PART	_	_	25	discourse:sp	_	SpaceAfter=No
+27	。	。	PUNCT	_	_	17	punct	_	SpaceAfter=No
 
 ~~~
 

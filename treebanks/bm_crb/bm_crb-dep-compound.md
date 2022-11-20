@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `compound`: <tt><a href="bm_crb-dep-compound-redup.html">compound:redup</a></tt>.
 
-1 nodes (0%) are attached to their parents as `compound`.
+2 nodes (0%) are attached to their parents as `compound`.
 
-1 instances of `compound` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.
+2 instances of `compound` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.5.
 
-The following 1 pairs of parts of speech are connected with `compound`: <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> (1; 100% instances).
+The following 2 pairs of parts of speech are connected with `compound`: <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> (1; 50% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> (1; 50% instances).
 
 
 ~~~ conllu
@@ -46,6 +46,36 @@ The following 1 pairs of parts of speech are connected with `compound`: <tt><a h
 21	taw	taw	NOUN	n	Number=Plur	18	obl	_	Gloss=propriété|Morf=propriété,PL
 22	la	lá	ADP	pp	_	21	case	_	Gloss=dans|SpaceAfter=No
 23	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+~~~
+
+
+~~~ conllu
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 14 15 compound	color:blue
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
+2	bè	bɛ́	VERB	cop	Polarity=Pos	14	acl	_	Gloss=BE
+3	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	4	nmod:poss	_	Gloss=3SG
+4	kò	kɔ́	NOUN	n	_	2	obl	_	Gloss=dos
+5	la	lá	ADP	pp	_	4	case	_	Gloss=dans
+6	tuma	tùma	NOUN	n	_	2	obl	_	Gloss=moment
+7	min	mín	DET	prn	PronType=Rel	6	det:rel	_	Gloss=REL|SpaceAfter=No
+8	,	,	PUNCT	_	_	2	punct	_	Gloss=,
+9	o	ò	PRON	prn	_	10	nmod:poss	_	Gloss=ce
+10	kò	kɔ́	NOUN	n	_	13	nmod:poss	_	Gloss=dos
+11	kotò	kotɔ	VERB	ptcp	Aspect=Prog|VerbForm=Part	10	amod	_	Gloss=laver|Morf=laver,PTCP.PROG
+12	bawo	báwò	X	conj	_	13	dep	_	Gloss=puisque
+13	kòfara	kɔfara	NOUN	n	_	14	nsubj	_	Gloss=dos|Morf=dos,écorce
+14	bòlen	bɔlen	VERB	ptcp	Aspect=Perf|VerbForm=Part	0	root	_	Gloss=sortir|Morf=sortir,PTCP.RES
+15	dòn	dòn	VERB	cop	_	14	compound	_	Gloss=PRES
+16	iko	íko	ADP	conj	_	18	case	_	Gloss=comme
+17	disirifè	dí.sìrife	NOUN	n	_	18	nmod:poss	_	Gloss=rasoir.de.coiffeur|Morf=rasoir.de.coiffeur,raser,rasoir
+18	cogo	cógo	NOUN	n	_	14	obl	_	Gloss=manière
+19	min	mín	DET	prn	PronType=Rel	18	det:rel	_	Gloss=REL|SpaceAfter=No
+20	.	.	PUNCT	_	_	14	punct	_	Gloss=.
 
 ~~~
 

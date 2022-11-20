@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2671 nodes (0%) are attached to their parents as `ccomp`.
+2670 nodes (0%) are attached to their parents as `ccomp`.
 
-2671 instances of `ccomp` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.52938974166979.
+2670 instances of `ccomp` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.52808988764045.
 
-The following 5 pairs of parts of speech are connected with `ccomp`: <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt> (1954; 73% instances), <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt> (521; 20% instances), <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt> (183; 7% instances), <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt> (9; 0% instances), <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt> (4; 0% instances).
+The following 5 pairs of parts of speech are connected with `ccomp`: <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt> (1953; 73% instances), <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt> (521; 20% instances), <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt> (183; 7% instances), <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt> (9; 0% instances), <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt> (4; 0% instances).
 
 
 ~~~ conllu

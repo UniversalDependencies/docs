@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-59188 nodes (20%) are attached to their parents as `root`.
+63079 nodes (20%) are attached to their parents as `root`.
 
-59188 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.05563627762384.
+63079 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.07070498898207.
 
-The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (51695; 87% instances), -<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (4207; 7% instances), -<tt><a href="lzh_kyoto-pos-SYM.html">SYM</a></tt> (1257; 2% instances), -<tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt> (1040; 2% instances), -<tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> (440; 1% instances), -<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (239; 0% instances), -<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (153; 0% instances), -<tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt> (84; 0% instances), -<tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> (57; 0% instances), -<tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> (14; 0% instances), -<tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt> (1; 0% instances), -<tt><a href="lzh_kyoto-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (54791; 87% instances), -<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (4602; 7% instances), -<tt><a href="lzh_kyoto-pos-SYM.html">SYM</a></tt> (1257; 2% instances), -<tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt> (1108; 2% instances), -<tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> (765; 1% instances), -<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (240; 0% instances), -<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (155; 0% instances), -<tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt> (85; 0% instances), -<tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> (59; 0% instances), -<tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> (15; 0% instances), -<tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt> (1; 0% instances), -<tt><a href="lzh_kyoto-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

@@ -10,7 +10,7 @@ This feature is universal but the values `Prp` are language-specific.
 It occurs with 3 different values: `Des`, `Imp`, `Prp`.
 
 54 tokens (1%) have a non-empty value of `Mood`.
-35 types (3%) occur at least once with a non-empty value of `Mood`.
+36 types (3%) occur at least once with a non-empty value of `Mood`.
 19 lemmas (3%) occur at least once with a non-empty value of `Mood`.
 The feature is used with 3 part-of-speech tags: <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt> (38; 0% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (14; 0% instances), <tt><a href="gub_tudet-pos-AUX.html">AUX</a></tt> (2; 0% instances).
 
@@ -22,10 +22,10 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 `VERB` tokens may have the following values of `Mood`:
 
-* `Des` (7; 18% of non-empty `Mood`): <em>uzuhez, namonowerkwaw, ʔuhezkwaw</em>
+* `Des` (7; 18% of non-empty `Mood`): <em>uzuhez, Naʔimaʔuhezkwaw, namonowerkwaw</em>
 * `Imp` (27; 71% of non-empty `Mood`): <em>Epɨhɨk, Ezur, Eapɨk, Eho, Emururapiʔez, Ezapo, Peixe, Eixekutu, Emeʔe, Emur</em>
-* `Prp` (4; 11% of non-empty `Mood`): <em>turkwez, Toromokon, tazukakutu</em>
-* `EMPTY` (971): <em>oho, uʔu, uhem, upɨhɨk, uzeʔeg, wexak, ukwaw, upaw, waiko, uker</em>
+* `Prp` (4; 11% of non-empty `Mood`): <em>tur, Toromokon, tazukakutu</em>
+* `EMPTY` (1022): <em>oho, uʔu, uhem, upɨhɨk, wexak, uzeʔeg, ukwaw, upaw, waiko, uker</em>
 
 <table>
   <tr><th>Paradigm <i>ho</i></th><th><tt>Imp</tt></th><th><tt>Des</tt></th></tr>
@@ -38,12 +38,12 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 14 <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `NOUN` and `Mood` co-occurred: <tt><a href="gub_tudet-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (14; 100%), <tt><a href="gub_tudet-feat-Nomzr.html">Nomzr</a></tt><tt>=EMPTY</tt> (14; 100%), <tt><a href="gub_tudet-feat-Rel.html">Rel</a></tt><tt>=NCont</tt> (8; 57%).
+The most frequent other feature values with which `NOUN` and `Mood` co-occurred: <tt><a href="gub_tudet-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (14; 100%), <tt><a href="gub_tudet-feat-Nomzr.html">Nomzr</a></tt><tt>=EMPTY</tt> (14; 100%), <tt><a href="gub_tudet-feat-Rel.html">Rel</a></tt><tt>=NCont</tt> (12; 86%).
 
 `NOUN` tokens may have the following values of `Mood`:
 
-* `Des` (14; 100% of non-empty `Mood`): <em>ʔuhez, ipuruʔuwer, Hurɨweteweraʔu, Hepuruʔuwer, ikatuahɨweraʔu, imaʔuhez, nepuruexakwer</em>
-* `EMPTY` (2492): <em>iʔi, maʔe, kwarer, ɨ, heta, zakare, katu, miar, kope, hoko</em>
+* `Des` (14; 100% of non-empty `Mood`): <em>imaʔuhez, ipuruʔuwer, Hurɨweteweraʔu, Hepuruʔuwer, Naʔimaʔuhezpixikwaw, ikatuahɨweraʔu, nepuruexakwer</em>
+* `EMPTY` (2534): <em>iʔi, ɨ, kwarer, awa, heta, katu, zakare, miar, kope, hoko</em>
 
 ### `AUX`
 

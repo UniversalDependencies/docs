@@ -85,7 +85,7 @@ The following 5 pairs of parts of speech are connected with `amod`: <tt><a href=
 2	に	に	ADP	助詞-格助詞	_	1	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,に,に,に,ニ,,,ニ,ニ,に
 3	登っ	上る	VERB	動詞-一般-五段-ラ行	_	5	acl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=,上る,登っ,登る,ノボッ,,,ノボル,ノボル,上る
 4	た	た	AUX	助動詞-助動詞-タ	_	3	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,た,た,た,タ,,,タ,タ,た
-5	1頭	1頭	NUM	名詞-数詞	_	22	nsubj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=;,一;頭,1;頭,1;頭,イッ;トー,;,;,イチ;トウ,イットウ,1頭
+5	1頭	1頭	NUM	名詞-数詞	_	22	nsubj:outer	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=;,一;頭,1;頭,1;頭,イッ;トー,;,;,イチ;トウ,イットウ,1頭
 6	は	は	ADP	助詞-係助詞	_	5	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,は,は,は,ワ,,,ハ,ハ,は
 7	やや	やや	ADV	副詞	_	8	advmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=,やや,やや,やや,ヤヤ,,,ヤヤ,ヤヤ,やや
 8	小型	小型	ADJ	形状詞-一般	_	10	acl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=,小型,小型,小型,コガタ,,,コガタ,コガタ,小型

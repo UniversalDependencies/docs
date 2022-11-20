@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Japanese-GSDLUW: POS Tags: `AUX`
 
-There are 79 `AUX` lemmas (0%), 269 `AUX` types (1%) and 18388 `AUX` tokens (12%).
+There are 79 `AUX` lemmas (0%), 269 `AUX` types (1%) and 18393 `AUX` tokens (12%).
 Out of 17 observed tags, the rank of `AUX` is: 7 in number of lemmas, 7 in number of types and 4 in number of tokens.
 
 The 10 most frequent `AUX` lemmas: た, だ, ている, れる, ます, である, です, ない, られる, のだ
 
 The 10 most frequent `AUX` types:  た, れ, ている, な, てい, に, ます, です, である, まし
 
-The 10 most frequent ambiguous lemmas: ている (<tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> 2072, <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> 4), 様 (<tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> 252, <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> 142), そう (<tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> 57, <tt><a href="ja_gsdluw-pos-ADV.html">ADV</a></tt> 30), つう (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 18, <tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> 7, <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 6), たり (<tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 78, <tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 4, <tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> 4), や (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 608, <tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> 2, <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 1)
+The 10 most frequent ambiguous lemmas: ている (<tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> 2072, <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> 4), 様 (<tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> 257, <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> 137), そう (<tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> 57, <tt><a href="ja_gsdluw-pos-ADV.html">ADV</a></tt> 30), つう (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 18, <tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> 7, <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 6), たり (<tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 78, <tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 4, <tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> 4), や (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 608, <tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> 2, <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 1)
 
-The 10 most frequent ambiguous types:  ている (<tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> 1193, <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> 2), な (<tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> 973, <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 28), てい (<tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> 814, <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> 2), に (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 5333, <tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> 804, <tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt> 32, <tt><a href="ja_gsdluw-pos-X.html">X</a></tt> 1), ない (<tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> 411, <tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> 156), で (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 2583, <tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> 403, <tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt> 62, <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> 2, <tt><a href="ja_gsdluw-pos-CCONJ.html">CCONJ</a></tt> 1), よう (<tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> 251, <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> 133), せ (<tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> 127, <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> 6), ん (<tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> 110, <tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt> 3), なかっ (<tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> 101, <tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> 26)
+The 10 most frequent ambiguous types:  ている (<tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> 1193, <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> 2), な (<tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> 973, <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> 28), てい (<tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> 814, <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> 2), に (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 5333, <tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> 804, <tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt> 32, <tt><a href="ja_gsdluw-pos-X.html">X</a></tt> 1), ない (<tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> 411, <tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> 156), で (<tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> 2583, <tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> 403, <tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt> 62, <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> 2, <tt><a href="ja_gsdluw-pos-CCONJ.html">CCONJ</a></tt> 1), よう (<tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> 256, <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> 128), せ (<tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> 127, <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> 6), ん (<tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> 110, <tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt> 3), なかっ (<tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> 101, <tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> 26)
 
 
 * ている
@@ -42,8 +42,8 @@ The 10 most frequent ambiguous types:  ている (<tt><a href="ja_gsdluw-pos-AUX
   * <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> 2: 渋谷駅 を <b>で</b> て すぐ な ので 、 行く の に も 楽 でし た 。
   * <tt><a href="ja_gsdluw-pos-CCONJ.html">CCONJ</a></tt> 1: <b>で</b> , どんな 顔 だっ た ?
 * よう
-  * <tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> 251: これら が 順 に 収縮する こと で 食物 を 胃 に 送り出す <b>よう</b> な 動き を する 。
-  * <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> 133: 以上 の 操作 を 再帰的 に 繰り返す と 以下 の <b>よう</b> な 決定木 が 出力さ れる 。
+  * <tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> 256: これら が 順 に 収縮する こと で 食物 を 胃 に 送り出す <b>よう</b> な 動き を する 。
+  * <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> 128: 以上 の 操作 を 再帰的 に 繰り返す と 以下 の <b>よう</b> な 決定木 が 出力さ れる 。
 * せ
   * <tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> 127: 出演者 も 特有 の 風 と 降りしきる 雨 に 悩ま <b>せ</b> られ た 。
   * <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> 6: 診療時間 ギリギリ で も 嫌 な 顔 <b>せ</b> ず に 対応し ていただける ので また 次 も 行こう と言う 気持ち に なり ます 。
@@ -69,27 +69,27 @@ The 3rd highest number of forms (10) was observed with the lemma “ていただ
 `AUX` occurs with 1 feature-value pairs: `Polarity=Neg`
 
 `AUX` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (17525 tokens).
+The most frequent feature combination is `_` (17530 tokens).
 Examples: た, れ, ている, な, てい, に, ます, です, である, まし
 
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 4 different relations: <tt><a href="ja_gsdluw-dep-aux.html">aux</a></tt> (17158; 93% instances), <tt><a href="ja_gsdluw-dep-cop.html">cop</a></tt> (1213; 7% instances), <tt><a href="ja_gsdluw-dep-fixed.html">fixed</a></tt> (10; 0% instances), <tt><a href="ja_gsdluw-dep-root.html">root</a></tt> (7; 0% instances)
+`AUX` nodes are attached to their parents using 4 different relations: <tt><a href="ja_gsdluw-dep-aux.html">aux</a></tt> (17151; 93% instances), <tt><a href="ja_gsdluw-dep-cop.html">cop</a></tt> (1212; 7% instances), <tt><a href="ja_gsdluw-dep-fixed.html">fixed</a></tt> (22; 0% instances), <tt><a href="ja_gsdluw-dep-root.html">root</a></tt> (8; 0% instances)
 
-Parents of `AUX` nodes belong to 10 different parts of speech: <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (13555; 74% instances), <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> (2361; 13% instances), <tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> (2194; 12% instances), <tt><a href="ja_gsdluw-pos-NUM.html">NUM</a></tt> (106; 1% instances), <tt><a href="ja_gsdluw-pos-PROPN.html">PROPN</a></tt> (72; 0% instances), <tt><a href="ja_gsdluw-pos-ADV.html">ADV</a></tt> (47; 0% instances), <tt><a href="ja_gsdluw-pos-PRON.html">PRON</a></tt> (35; 0% instances), <tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> (10; 0% instances),  (7; 0% instances), <tt><a href="ja_gsdluw-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
+Parents of `AUX` nodes belong to 10 different parts of speech: <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (13545; 74% instances), <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> (2361; 13% instances), <tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> (2194; 12% instances), <tt><a href="ja_gsdluw-pos-NUM.html">NUM</a></tt> (106; 1% instances), <tt><a href="ja_gsdluw-pos-PROPN.html">PROPN</a></tt> (74; 0% instances), <tt><a href="ja_gsdluw-pos-ADV.html">ADV</a></tt> (47; 0% instances), <tt><a href="ja_gsdluw-pos-PRON.html">PRON</a></tt> (35; 0% instances), <tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> (22; 0% instances),  (8; 0% instances), <tt><a href="ja_gsdluw-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
 
-18381 (100%) `AUX` nodes are leaves.
+18369 (100%) `AUX` nodes are leaves.
 
-0 (0%) `AUX` nodes have one child.
+9 (0%) `AUX` nodes have one child.
 
-0 (0%) `AUX` nodes have two children.
+3 (0%) `AUX` nodes have two children.
 
-7 (0%) `AUX` nodes have three or more children.
+12 (0%) `AUX` nodes have three or more children.
 
 The highest child degree of a `AUX` node is 5.
 
-Children of `AUX` nodes are attached using 8 different relations: <tt><a href="ja_gsdluw-dep-fixed.html">fixed</a></tt> (10; 31% instances), <tt><a href="ja_gsdluw-dep-nmod.html">nmod</a></tt> (7; 22% instances), <tt><a href="ja_gsdluw-dep-punct.html">punct</a></tt> (7; 22% instances), <tt><a href="ja_gsdluw-dep-advcl.html">advcl</a></tt> (2; 6% instances), <tt><a href="ja_gsdluw-dep-advmod.html">advmod</a></tt> (2; 6% instances), <tt><a href="ja_gsdluw-dep-nsubj.html">nsubj</a></tt> (2; 6% instances), <tt><a href="ja_gsdluw-dep-mark.html">mark</a></tt> (1; 3% instances), <tt><a href="ja_gsdluw-dep-obl.html">obl</a></tt> (1; 3% instances)
+Children of `AUX` nodes are attached using 8 different relations: <tt><a href="ja_gsdluw-dep-fixed.html">fixed</a></tt> (28; 43% instances), <tt><a href="ja_gsdluw-dep-punct.html">punct</a></tt> (21; 32% instances), <tt><a href="ja_gsdluw-dep-nmod.html">nmod</a></tt> (7; 11% instances), <tt><a href="ja_gsdluw-dep-advcl.html">advcl</a></tt> (3; 5% instances), <tt><a href="ja_gsdluw-dep-advmod.html">advmod</a></tt> (2; 3% instances), <tt><a href="ja_gsdluw-dep-nsubj.html">nsubj</a></tt> (2; 3% instances), <tt><a href="ja_gsdluw-dep-mark.html">mark</a></tt> (1; 2% instances), <tt><a href="ja_gsdluw-dep-obl.html">obl</a></tt> (1; 2% instances)
 
-Children of `AUX` nodes belong to 8 different parts of speech: <tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> (10; 31% instances), <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> (8; 25% instances), <tt><a href="ja_gsdluw-pos-PUNCT.html">PUNCT</a></tt> (7; 22% instances), <tt><a href="ja_gsdluw-pos-ADV.html">ADV</a></tt> (2; 6% instances), <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (2; 6% instances), <tt><a href="ja_gsdluw-pos-NUM.html">NUM</a></tt> (1; 3% instances), <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> (1; 3% instances), <tt><a href="ja_gsdluw-pos-PROPN.html">PROPN</a></tt> (1; 3% instances)
+Children of `AUX` nodes belong to 10 different parts of speech: <tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> (22; 34% instances), <tt><a href="ja_gsdluw-pos-PUNCT.html">PUNCT</a></tt> (21; 32% instances), <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> (8; 12% instances), <tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt> (4; 6% instances), <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (3; 5% instances), <tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> (2; 3% instances), <tt><a href="ja_gsdluw-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="ja_gsdluw-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> (1; 2% instances), <tt><a href="ja_gsdluw-pos-PROPN.html">PROPN</a></tt> (1; 2% instances)
 

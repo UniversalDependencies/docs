@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ro_simonero-dep-aux.html">aux</a></tt>.
 
-1077 nodes (1%) are attached to their parents as `aux:pass`.
+1076 nodes (1%) are attached to their parents as `aux:pass`.
 
-1071 instances of `aux:pass` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.11142061281337.
+1071 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.10780669144981.
 
-The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_simonero-pos-AUX.html">AUX</a></tt> (1013; 94% instances), <tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_simonero-pos-AUX.html">AUX</a></tt> (58; 5% instances), <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_simonero-pos-AUX.html">AUX</a></tt> (6; 1% instances).
+The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_simonero-pos-AUX.html">AUX</a></tt> (1012; 94% instances), <tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_simonero-pos-AUX.html">AUX</a></tt> (58; 5% instances), <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_simonero-pos-AUX.html">AUX</a></tt> (6; 1% instances).
 
 
 ~~~ conllu

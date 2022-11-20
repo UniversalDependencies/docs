@@ -11,7 +11,7 @@ It occurs with 1 different values: `Neg`.
 
 162 tokens (1%) have a non-empty value of `Polarity`.
 6 types (0%) occur at least once with a non-empty value of `Polarity`.
-9 lemmas (0%) occur at least once with a non-empty value of `Polarity`.
+6 lemmas (0%) occur at least once with a non-empty value of `Polarity`.
 The feature is used with 1 part-of-speech tags: <tt><a href="ar_pud-pos-PART.html">PART</a></tt> (162; 1% instances).
 
 ### `PART`
@@ -21,5 +21,5 @@ The feature is used with 1 part-of-speech tags: <tt><a href="ar_pud-pos-PART.htm
 `PART` tokens may have the following values of `Polarity`:
 
 * `Neg` (162; 100% of non-empty `Polarity`): لم، لا، غير، لن، ليس، ما
-* `EMPTY` (405): و، س، قد، ما، ف، لكن، إن، أن، كما، لا
+* `EMPTY` (404): و، س، قد، ما، ف، لكن، إن، أن، كما، لا
 

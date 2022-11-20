@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2 nodes (1%) are attached to their parents as `punct`.
+3 nodes (2%) are attached to their parents as `punct`.
 
-2 instances of `punct` (100%) are left-to-right (parent precedes child).
+3 instances of `punct` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 1 pairs of parts of speech are connected with `punct`: <tt><a href="mpu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="mpu_tudet-pos-PUNCT.html">PUNCT</a></tt> (2; 100% instances).
+The following 1 pairs of parts of speech are connected with `punct`: <tt><a href="mpu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="mpu_tudet-pos-PUNCT.html">PUNCT</a></tt> (3; 100% instances).
 
 
 ~~~ conllu

@@ -13,4 +13,4 @@ text_en: "I sheltered for a long time and when thist rain decreased slowly, a ma
 conj:redup(moːk, moːk) ("take_shelter", "take_shelter")
 ~~~
 
-<!-- Interlanguage links updated So kvě 14 19:03:19 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:18 CET 2022 -->

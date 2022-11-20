@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>etcétera</em> (<tt><a href="es_ancor
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.058824 (the average of all parts of speech is 1.501603).
+The form / lemma ratio of `PUNCT` is 1.058824 (the average of all parts of speech is 1.503003).
 
 The 1st highest number of forms (2) was observed with the lemma “etcétera”: <em>etc, etcétera</em>.
 

@@ -36,4 +36,4 @@ An object is compared to as a set of other objects on the basis of an attribute.
 
 
 Note : most adjectives and adverbs in Naija do not have a `Degree` feature because comparatives and superlatives are based on [serial verb constructions](pcm-dep/compound:svc), e.g. _fine pass_, _fine pass all_. 
-<!-- Interlanguage links updated So kvě 14 19:02:10 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:43 CET 2022 -->

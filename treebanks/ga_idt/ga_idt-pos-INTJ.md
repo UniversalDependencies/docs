@@ -15,11 +15,11 @@ The 10 most frequent `INTJ` types:  <em>ó, Bhail, haló, á, Bhal, Bhoil, Bhuel
 
 The 10 most frequent ambiguous lemmas: <em>ó</em> (<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> 575, <tt><a href="ga_idt-pos-PART.html">PART</a></tt> 110, <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> 27, <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> 6, <tt><a href="ga_idt-pos-INTJ.html">INTJ</a></tt> 6), <em>bí</em> (<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> 3697, <tt><a href="ga_idt-pos-INTJ.html">INTJ</a></tt> 1), <em>de</em> (<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> 1338, <tt><a href="ga_idt-pos-PART.html">PART</a></tt> 20, <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="ga_idt-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> 1), <em>sin</em> (<tt><a href="ga_idt-pos-DET.html">DET</a></tt> 425, <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> 414, <tt><a href="ga_idt-pos-INTJ.html">INTJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>ó</em> (<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> 304, <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> 17, <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> 6, <tt><a href="ga_idt-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="ga_idt-pos-PART.html">PART</a></tt> 1), <em>á</em> (<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> 201, <tt><a href="ga_idt-pos-DET.html">DET</a></tt> 1, <tt><a href="ga_idt-pos-INTJ.html">INTJ</a></tt> 1), <em>Sin</em> (<tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> 16, <tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> 3, <tt><a href="ga_idt-pos-INTJ.html">INTJ</a></tt> 1), <em>de</em> (<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> 742, <tt><a href="ga_idt-pos-PART.html">PART</a></tt> 18, <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="ga_idt-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>ó</em> (<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> 305, <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> 17, <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> 6, <tt><a href="ga_idt-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="ga_idt-pos-PART.html">PART</a></tt> 1), <em>á</em> (<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> 201, <tt><a href="ga_idt-pos-DET.html">DET</a></tt> 1, <tt><a href="ga_idt-pos-INTJ.html">INTJ</a></tt> 1), <em>Sin</em> (<tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> 16, <tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> 3, <tt><a href="ga_idt-pos-INTJ.html">INTJ</a></tt> 1), <em>de</em> (<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> 742, <tt><a href="ga_idt-pos-PART.html">PART</a></tt> 18, <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="ga_idt-pos-INTJ.html">INTJ</a></tt> 1)
 
 
 * <em>ó</em>
-  * <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> 304: <em>Duaisdhráma <b>ó</b> Oireachtas 1955 is ea Moloney .</em>
+  * <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> 305: <em>Duaisdhráma <b>ó</b> Oireachtas 1955 is ea Moloney .</em>
   * <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> 17: <em>Ach ní dheachaigh an dóiteoir bocht siar ansin , <b>ó</b> labhair an fear seo .</em>
   * <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> 6: <em>Agus ar an drochuair thit sí féin as a seasamh i bproinnteach agus iad ar a mbealach <b>ó</b> dheas .</em>
   * <tt><a href="ga_idt-pos-INTJ.html">INTJ</a></tt> 1: <em>A Mháire Áine , a iníon <b>ó</b> , tá scéala agam duit , d' fhógair sí uirthi nuair a d' airigh sí a coisméig éadrom ag teannadh le doras an tí a bhí le taobh dhoras an agaird .</em>
@@ -40,7 +40,7 @@ The 10 most frequent ambiguous types:  <em>ó</em> (<tt><a href="ga_idt-pos-ADP.
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.047619 (the average of all parts of speech is 1.643911).
+The form / lemma ratio of `INTJ` is 1.047619 (the average of all parts of speech is 1.643807).
 
 The 1st highest number of forms (2) was observed with the lemma “dhera”: <em>Dheara, Dhera</em>.
 

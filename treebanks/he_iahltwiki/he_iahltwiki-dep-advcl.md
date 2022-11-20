@@ -30,7 +30,7 @@ The following 29 pairs of parts of speech are connected with `advcl`: <tt><a hre
 6	יש	יש	VERB	VERB	Polarity=Pos	0	root	_	_
 7	לבדוק	בדק	VERB	VERB	HebBinyan=PAAL|VerbForm=Inf|Voice=Act	6	csubj	_	_
 8	תאימות	תאימות	NOUN	NOUN	Gender=Fem|Number=Sing	7	obj	_	_
-9	של	של	ADP	ADP	_	10	case	_	_
+9	של	של	ADP	ADP	Case=Gen	10	case	_	_
 10	נוגדנים	נוגדן	NOUN	NOUN	Gender=Masc|Number=Plur	8	nmod:poss	_	_
 11	אצל	אצל	ADP	ADP	_	13	case	_	_
 12	ה	ה	DET	DET	Definite=Def|PronType=Art	13	det	_	_
@@ -47,7 +47,7 @@ The following 29 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 4	fgColor:white
 # visual-style 4 13 advcl	color:blue
 1	קריו	קריו	NOUN	NOUN	Gender=Masc|Number=Sing	4	nsubj	_	_
-2	הוא	הוא	PRON	PRON	Gender=Masc|Number=Sing|Person=3|Polarity=Pos	4	cop	_	_
+2	הוא	הוא	PRON	PRON	Gender=Masc|Number=Sing|Person=3|Polarity=Pos|PronType=Prs	4	cop	_	_
 3	ה	ה	DET	DET	Definite=Def|PronType=Art	4	det	_	_
 4	טיפול	טיפול	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	_
 5	ה	ה	DET	DET	Definite=Def|PronType=Art	6	det	_	_

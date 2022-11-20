@@ -11,12 +11,12 @@ It occurs with 4 different values: `Geo`, `Giv`, `Pat`, `Sur`.
 
 56 tokens (2%) have a non-empty value of `NameType`.
 53 types (3%) occur at least once with a non-empty value of `NameType`.
-50 lemmas (5%) occur at least once with a non-empty value of `NameType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> (51; 2% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (5; 0% instances).
+50 lemmas (4%) occur at least once with a non-empty value of `NameType`.
+The feature is used with 2 part-of-speech tags: <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> (51; 1% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (5; 0% instances).
 
 ### `PROPN`
 
-51 <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> tokens (93% of all `PROPN` tokens) have a non-empty value of `NameType`.
+51 <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> tokens (78% of all `PROPN` tokens) have a non-empty value of `NameType`.
 
 The most frequent other feature values with which `PROPN` and `NameType` co-occurred: <tt><a href="mdf_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (42; 82%), <tt><a href="mdf_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (38; 75%), <tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (36; 71%), <tt><a href="mdf_jr-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (36; 71%), <tt><a href="mdf_jr-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (35; 69%).
 

@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Urdu-UDTB: POS Tags: `SCONJ`
 
 There are 43 `SCONJ` lemmas (0%), 34 `SCONJ` types (0%) and 2673 `SCONJ` tokens (2%).
-Out of 16 observed tags, the rank of `SCONJ` is: 12 in number of lemmas, 12 in number of types and 11 in number of tokens.
+Out of 16 observed tags, the rank of `SCONJ` is: 11 in number of lemmas, 12 in number of types and 11 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: کہ، تو، اگر، کیونکہ، تاکہ، بلکہ، حالانکہ، چنانچہ، ,، کیوں
 
@@ -61,7 +61,7 @@ The 10 most frequent ambiguous types:  کہ (<tt><a href="ur_udtb-pos-SCONJ.html
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 0.790698 (the average of all parts of speech is 1.101903).
+The form / lemma ratio of `SCONJ` is 0.790698 (the average of all parts of speech is 1.103404).
 
 The 1st highest number of forms (2) was observed with the lemma “تب”: تب, تو.
 
@@ -80,17 +80,17 @@ Examples: کہ، تو، اگر، کیونکہ، تاکہ، بلکہ، حالان
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 7 different relations: <tt><a href="ur_udtb-dep-mark.html">mark</a></tt> (2611; 98% instances), <tt><a href="ur_udtb-dep-cc.html">cc</a></tt> (50; 2% instances), <tt><a href="ur_udtb-dep-aux.html">aux</a></tt> (5; 0% instances), <tt><a href="ur_udtb-dep-punct.html">punct</a></tt> (3; 0% instances), <tt><a href="ur_udtb-dep-conj.html">conj</a></tt> (2; 0% instances), <tt><a href="ur_udtb-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="ur_udtb-dep-compound.html">compound</a></tt> (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 4 different relations: <tt><a href="ur_udtb-dep-mark.html">mark</a></tt> (2612; 98% instances), <tt><a href="ur_udtb-dep-cc.html">cc</a></tt> (51; 2% instances), <tt><a href="ur_udtb-dep-compound.html">compound</a></tt> (8; 0% instances), <tt><a href="ur_udtb-dep-conj.html">conj</a></tt> (2; 0% instances)
 
-Parents of `SCONJ` nodes belong to 11 different parts of speech: <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (2295; 86% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (214; 8% instances), <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> (109; 4% instances), <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> (20; 1% instances), <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> (19; 1% instances), <tt><a href="ur_udtb-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ur_udtb-pos-DET.html">DET</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 10 different parts of speech: <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (2300; 86% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (215; 8% instances), <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> (109; 4% instances), <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> (20; 1% instances), <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> (19; 1% instances), <tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="ur_udtb-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ur_udtb-pos-DET.html">DET</a></tt> (1; 0% instances)
 
-2666 (100%) `SCONJ` nodes are leaves.
+2670 (100%) `SCONJ` nodes are leaves.
 
-7 (0%) `SCONJ` nodes have one child.
+3 (0%) `SCONJ` nodes have one child.
 
 The highest child degree of a `SCONJ` node is 1.
 
-Children of `SCONJ` nodes are attached using 3 different relations: <tt><a href="ur_udtb-dep-punct.html">punct</a></tt> (3; 43% instances), <tt><a href="ur_udtb-dep-advmod.html">advmod</a></tt> (2; 29% instances), <tt><a href="ur_udtb-dep-conj.html">conj</a></tt> (2; 29% instances)
+Children of `SCONJ` nodes are attached using 2 different relations: <tt><a href="ur_udtb-dep-conj.html">conj</a></tt> (2; 67% instances), <tt><a href="ur_udtb-dep-advmod.html">advmod</a></tt> (1; 33% instances)
 
-Children of `SCONJ` nodes belong to 2 different parts of speech: <tt><a href="ur_udtb-pos-SCONJ.html">SCONJ</a></tt> (6; 86% instances), <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (1; 14% instances)
+Children of `SCONJ` nodes belong to 2 different parts of speech: <tt><a href="ur_udtb-pos-SCONJ.html">SCONJ</a></tt> (2; 67% instances), <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (1; 33% instances)
 

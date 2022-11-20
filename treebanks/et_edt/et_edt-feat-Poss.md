@@ -18,12 +18,12 @@ The feature is used with 5 part-of-speech tags: <tt><a href="et_edt-pos-PRON.htm
 
 1591 <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> tokens (7% of all `PRON` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="et_edt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1591; 100%), <tt><a href="et_edt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1591; 100%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1574; 99%), <tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Gen</tt> (1435; 90%).
+The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="et_edt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1591; 100%), <tt><a href="et_edt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1591; 100%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1573; 99%), <tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Gen</tt> (1434; 90%).
 
 `PRON` tokens may have the following values of `Poss`:
 
 * `Yes` (1591; 100% of non-empty `Poss`): <em>oma, omal, omad, omaks, omast, omaenda, omaga, omalt, omas, omadega</em>
-* `EMPTY` (21426): <em>ta, see, mis, ma, kes, seda, tema, mida, nad, nende</em>
+* `EMPTY` (21427): <em>ta, see, mis, ma, kes, seda, tema, mida, nad, nende</em>
 
 ### `NOUN`
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `NOUN` and `Poss` co-occurred:
 `NOUN` tokens may have the following values of `Poss`:
 
 * `Yes` (4; 100% of non-empty `Poss`): <em>oma</em>
-* `EMPTY` (115515): <em>aasta, aastal, aastat, raha, osa, krooni, korda, ajal, sissetulekute, mõju</em>
+* `EMPTY` (115447): <em>aasta, aastal, aastat, raha, osa, krooni, korda, ajal, sissetulekute, mõju</em>
 
 ### `ADJ`
 
@@ -45,7 +45,7 @@ The most frequent other feature values with which `ADJ` and `Poss` co-occurred: 
 `ADJ` tokens may have the following values of `Poss`:
 
 * `Yes` (1; 100% of non-empty `Poss`): <em>oma</em>
-* `EMPTY` (36770): <em>suur, hea, võimalik, eesti, suurem, uue, suure, raske, oluline, esimene</em>
+* `EMPTY` (36764): <em>suur, hea, võimalik, eesti, suurem, uue, suure, raske, oluline, esimene</em>
 
 ### `ADV`
 
@@ -54,7 +54,7 @@ The most frequent other feature values with which `ADJ` and `Poss` co-occurred: 
 `ADV` tokens may have the following values of `Poss`:
 
 * `Yes` (1; 100% of non-empty `Poss`): <em>oma</em>
-* `EMPTY` (42042): <em>ka, siis, nii, kas, juba, välja, aga, veel, väga, mitte</em>
+* `EMPTY` (42046): <em>ka, siis, nii, kas, juba, välja, aga, veel, väga, mitte</em>
 
 ### `DET`
 
@@ -65,7 +65,7 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 `DET` tokens may have the following values of `Poss`:
 
 * `Yes` (1; 100% of non-empty `Poss`): <em>Oma</em>
-* `EMPTY` (6885): <em>see, kõik, kogu, selle, üks, iga, need, seda, sel, ühe</em>
+* `EMPTY` (6884): <em>see, kõik, kogu, selle, üks, iga, need, seda, sel, ühe</em>
 
 ## Relations with Agreement in `Poss`
 

@@ -35,7 +35,7 @@ Perfective verbs denote an action/event with an internal telic point.
 * _prédadom_ "[to] sell [once]"  
 * _píšom_ "[to] write [once]" 
 
-The following combinations of tense and aspect features are available for Pomak:
+
 
 In Pomak, iteration of an event in the past may be described from both an atelic and a telic point of view, as follows:  
 
@@ -62,4 +62,4 @@ Telic point of view: the description focuses on the telic events in the iteratio
 * _píšašo_ "[he] was writing [once]" 
 
 
-<!-- Interlanguage links updated So kvě 14 19:02:04 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:40 CET 2022 -->

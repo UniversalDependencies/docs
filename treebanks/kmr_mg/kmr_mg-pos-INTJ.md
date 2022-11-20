@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Kurmanji-MG: POS Tags: `INTJ`
 
 There are 3 `INTJ` lemmas (0%), 3 `INTJ` types (0%) and 17 `INTJ` tokens (0%).
-Out of 17 observed tags, the rank of `INTJ` is: 14 in number of lemmas, 16 in number of types and 16 in number of tokens.
+Out of 17 observed tags, the rank of `INTJ` is: 15 in number of lemmas, 15 in number of types and 16 in number of tokens.
 
 The 10 most frequent `INTJ` lemmas: <em>belê, na, heyhat</em>
 
@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>Belê</em> (<tt><a href="kmr_mg-pos-I
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.508997).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.511556).
 
 The 1st highest number of forms (1) was observed with the lemma “belê”: <em>Belê</em>.
 
@@ -39,7 +39,7 @@ The 3rd highest number of forms (1) was observed with the lemma “na”: <em>No
 
 `INTJ` nodes are attached to their parents using 3 different relations: <tt><a href="kmr_mg-dep-discourse.html">discourse</a></tt> (15; 88% instances), <tt><a href="kmr_mg-dep-parataxis.html">parataxis</a></tt> (1; 6% instances), <tt><a href="kmr_mg-dep-root.html">root</a></tt> (1; 6% instances)
 
-Parents of `INTJ` nodes belong to 5 different parts of speech: <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt> (10; 59% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (4; 24% instances), <tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt> (1; 6% instances), <tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt> (1; 6% instances),  (1; 6% instances)
+Parents of `INTJ` nodes belong to 4 different parts of speech: <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt> (11; 65% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (4; 24% instances), <tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt> (1; 6% instances),  (1; 6% instances)
 
 11 (65%) `INTJ` nodes are leaves.
 

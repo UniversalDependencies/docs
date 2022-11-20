@@ -57,7 +57,7 @@ The following 3 pairs of parts of speech are connected with `advmod`: <tt><a hre
 3	আসে	আসা	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	2	compound	_	Translit=āse|LTranslit=āsā
 4	মাঝে	মাঝ	ADV	_	PronType=Ind	6	advmod	_	Translit=mājhe|LTranslit=mājha
 5	মাঝে	মাঝ	ADV	_	PronType=Ind	4	fixed	_	Translit=mājhe|LTranslit=mājha
-6	বাবা	বাবা	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	Translit=bābā|LTranslit=bābā
+6	বাবা	বাবা	NOUN	_	Case=Nom|Number=Sing	2	obj	_	Translit=bābā|LTranslit=bābā
 7	।	।	PUNCT	।	_	2	punct	_	Translit=.|LTranslit=.
 
 ~~~

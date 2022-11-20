@@ -18,7 +18,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="aqz_tudet-pos-VERB.
 
 2 <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Redup`.
 
-The most frequent other feature values with which `VERB` and `Redup` co-occurred: <tt><a href="aqz_tudet-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `VERB` and `Redup` co-occurred: <tt><a href="aqz_tudet-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="aqz_tudet-feat-Trans.html">Trans</a></tt><tt>=EMPTY</tt> (2; 100%).
 
 `VERB` tokens may have the following values of `Redup`:
 

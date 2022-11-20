@@ -21,7 +21,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="ja_pud-pos-AUX.html
 `AUX` tokens may have the following values of `Polarity`:
 
 * `Neg` (144; 100% of non-empty `Polarity`): ない, なかっ, ず, ん, なけれ, なく
-* `EMPTY` (3176): た, し, で, れ, な, さ, する, に, だ, ます
+* `EMPTY` (3178): た, し, で, れ, な, さ, する, に, だ, ます
 
 ### `NOUN`
 

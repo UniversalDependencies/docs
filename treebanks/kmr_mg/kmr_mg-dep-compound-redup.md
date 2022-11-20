@@ -35,7 +35,7 @@ The following 1 pairs of parts of speech are connected with `compound:redup`: <t
 10	li	li	ADP	pr	AdpType=Prep	12	case	_	_
 11	her	her	DET	det	Gender=Fem,Masc|Number=Sing|PronType=Ind	12	det	_	_
 12	zimanê	ziman	NOUN	n	Case=Con|Definite=Def|Gender=Masc|Number=Sing	14	nmod	_	_
-13	hatiye	hatin	VERB	vblex	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	aux	_	_
+13	hatiye	hatin	AUX	vblex	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	aux	_	_
 14	wergerandin	wergerandin	VERB	vblex	VerbForm=Inf	0	root	_	SpaceAfter=No
 15	.	.	PUNCT	sent	_	14	punct	_	_
 

@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Card`, `Frac`, `Ord`.
 
-11648 tokens (2%) have a non-empty value of `NumType`.
+11657 tokens (2%) have a non-empty value of `NumType`.
 1835 types (5%) occur at least once with a non-empty value of `NumType`.
-1725 lemmas (7%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 5 part-of-speech tags: <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (8744; 2% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (1960; 0% instances), <tt><a href="es_ancora-pos-DET.html">DET</a></tt> (496; 0% instances), <tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> (270; 0% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (178; 0% instances).
+1724 lemmas (7%) occur at least once with a non-empty value of `NumType`.
+The feature is used with 5 part-of-speech tags: <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (8744; 2% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (1960; 0% instances), <tt><a href="es_ancora-pos-DET.html">DET</a></tt> (496; 0% instances), <tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> (279; 0% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (178; 0% instances).
 
 ### `NUM`
 
@@ -58,16 +58,16 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 
 ### `SYM`
 
-270 <tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> tokens (70% of all `SYM` tokens) have a non-empty value of `NumType`.
+279 <tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> tokens (72% of all `SYM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `SYM` and `NumType` co-occurred: <tt><a href="es_ancora-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (270; 100%).
+The most frequent other feature values with which `SYM` and `NumType` co-occurred: <tt><a href="es_ancora-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (279; 100%).
 
 `SYM` tokens may have the following values of `NumType`:
 
-* `Frac` (270; 100% of non-empty `NumType`): <em>50%, 10%, 30%, 60%, 20%, 80%, 25%, 5%, 3%, 2%</em>
-* `EMPTY` (117): <em>%, 20%, 25%, 0,2%, 10%, 15%, 2,2%, 3,1%, 3,9%, 40%</em>
+* `Frac` (279; 100% of non-empty `NumType`): <em>50%, 60%, 10%, 20%, 30%, 80%, 25%, 5%, 3%, 2%</em>
+* `EMPTY` (108): <em>%, 20%, 25%, 0,2%, 10%, 15%, 2,2%, 3,1%, 3,9%, 40%</em>
 
-`NumType` seems to be **lexical feature** of `SYM`. 100% lemmas (154) occur only with one value of `NumType`.
+`NumType` seems to be **lexical feature** of `SYM`. 100% lemmas (151) occur only with one value of `NumType`.
 
 ### `PRON`
 
@@ -87,8 +87,8 @@ The 10 most frequent relations where parent and child node agree in `NumType`:
 <tt>NUM --[<tt><a href="es_ancora-dep-conj.html">conj</a></tt>]--> NUM</tt> (195; 100%),
 <tt>NUM --[<tt><a href="es_ancora-dep-appos.html">appos</a></tt>]--> NUM</tt> (29; 100%),
 <tt>ADJ --[<tt><a href="es_ancora-dep-conj.html">conj</a></tt>]--> ADJ</tt> (16; 73%),
+<tt>SYM --[<tt><a href="es_ancora-dep-conj.html">conj</a></tt>]--> SYM</tt> (15; 100%),
 <tt>NUM --[<tt><a href="es_ancora-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (13; 100%),
-<tt>SYM --[<tt><a href="es_ancora-dep-conj.html">conj</a></tt>]--> SYM</tt> (13; 93%),
 <tt>NUM --[<tt><a href="es_ancora-dep-list.html">list</a></tt>]--> NUM</tt> (10; 100%),
 <tt>NUM --[<tt><a href="es_ancora-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (6; 100%),
 <tt>ADJ --[<tt><a href="es_ancora-dep-list.html">list</a></tt>]--> ADJ</tt> (3; 100%),

@@ -9,10 +9,20 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-3 tokens (0%) have a non-empty value of `Typo`.
-3 types (0%) occur at least once with a non-empty value of `Typo`.
-3 lemmas (0%) occur at least once with a non-empty value of `Typo`.
-The feature is used with 3 part-of-speech tags: <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (1; 0% instances).
+5 tokens (0%) have a non-empty value of `Typo`.
+5 types (0%) occur at least once with a non-empty value of `Typo`.
+5 lemmas (0%) occur at least once with a non-empty value of `Typo`.
+The feature is used with 4 part-of-speech tags: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (1; 0% instances).
+
+### `NOUN`
+
+2 <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Typo`.
+
+The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2; 100%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%).
+
+`NOUN` tokens may have the following values of `Typo`:
+
+* `Yes` (2; 100% of non-empty `Typo`): <em>подать, сухарем</em>
 
 ### `ADJ`
 
@@ -38,7 +48,7 @@ The most frequent other feature values with which `ADV` and `Typo` co-occurred: 
 
 1 <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `DET` and `Typo` co-occurred: <tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Gen</tt> (1; 100%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (1; 100%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="orv_rnc-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (1; 100%), <tt><a href="orv_rnc-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1; 100%), <tt><a href="orv_rnc-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (1; 100%).
+The most frequent other feature values with which `DET` and `Typo` co-occurred: <tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Gen</tt> (1; 100%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (1; 100%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="orv_rnc-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (1; 100%), <tt><a href="orv_rnc-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1; 100%).
 
 `DET` tokens may have the following values of `Typo`:
 

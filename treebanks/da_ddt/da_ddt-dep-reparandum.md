@@ -26,7 +26,7 @@ The following 2 pairs of parts of speech are connected with `reparandum`: <tt><a
 2	...	...	PUNCT	_	_	1	punct	_	_
 3	åh	åh	INTJ	_	_	10	discourse	_	_
 4	Gud	gud	NOUN	_	Definite=Ind|Gender=Com|Number=Sing	3	nmod	_	SpaceAfter=No
-5	,	,	PUNCT	_	_	7	punct	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
 6	jeg	jeg	PRON	_	Case=Nom|Gender=Com|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
 7	elsker	elske	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
 8	dig	du	PRON	_	Case=Acc|Gender=Com|Number=Sing|Person=2|PronType=Prs	7	obj	_	SpaceAfter=No
@@ -57,7 +57,7 @@ The following 2 pairs of parts of speech are connected with `reparandum`: <tt><a
 7	dig	du	PRON	_	Case=Acc|Gender=Com|Number=Sing|Person=2|PronType=Prs	6	obj	_	_
 8	med	med	ADP	_	AdpType=Prep	9	case	_	_
 9	mig	jeg	PRON	_	Case=Acc|Gender=Com|Number=Sing|Person=1|PronType=Prs	6	obl	_	SpaceAfter=No
-10	,	,	PUNCT	_	_	6	punct	_	_
+10	,	,	PUNCT	_	_	11	punct	_	_
 11	Trine	Trine	PROPN	_	_	6	vocative	_	SpaceAfter=No
 12	?	?	PUNCT	_	_	6	punct	_	_
 

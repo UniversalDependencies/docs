@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Italian-ISDT: POS Tags: `ADJ`
 
-There are 3350 `ADJ` lemmas (16%), 5214 `ADJ` types (17%) and 19779 `ADJ` tokens (7%).
+There are 3349 `ADJ` lemmas (16%), 5214 `ADJ` types (17%) and 19779 `ADJ` tokens (7%).
 Out of 17 observed tags, the rank of `ADJ` is: 3 in number of lemmas, 4 in number of types and 6 in number of tokens.
 
 The 10 most frequent `ADJ` lemmas: <em>primo, altro, nuovo, italiano, stesso, grande, pubblico, ultimo, maggiore, europeo</em>
@@ -59,7 +59,7 @@ The 10 most frequent ambiguous types:  <em>prima</em> (<tt><a href="it_isdt-pos-
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.556418 (the average of all parts of speech is 1.481058).
+The form / lemma ratio of `ADJ` is 1.556883 (the average of all parts of speech is 1.481130).
 
 The 1st highest number of forms (10) was observed with the lemma “bello”: <em>bei, bel, bell', bella, belle, belli, bellissima, bellissimi, bellissimo, bello</em>.
 
@@ -67,11 +67,11 @@ The 2nd highest number of forms (7) was observed with the lemma “alto”: <em>
 
 The 3rd highest number of forms (7) was observed with the lemma “duro”: <em>dura, dure, duri, durissima, durissimi, durissimo, duro</em>.
 
-`ADJ` occurs with 6 features: <tt><a href="it_isdt-feat-Number.html">Number</a></tt> (19427; 98% instances), <tt><a href="it_isdt-feat-Gender.html">Gender</a></tt> (12632; 64% instances), <tt><a href="it_isdt-feat-NumType.html">NumType</a></tt> (1055; 5% instances), <tt><a href="it_isdt-feat-Degree.html">Degree</a></tt> (443; 2% instances), <tt><a href="it_isdt-feat-Poss.html">Poss</a></tt> (1; 0% instances), <tt><a href="it_isdt-feat-PronType.html">PronType</a></tt> (1; 0% instances)
+`ADJ` occurs with 7 features: <tt><a href="it_isdt-feat-Number.html">Number</a></tt> (19427; 98% instances), <tt><a href="it_isdt-feat-Gender.html">Gender</a></tt> (12632; 64% instances), <tt><a href="it_isdt-feat-NumType.html">NumType</a></tt> (1055; 5% instances), <tt><a href="it_isdt-feat-Degree.html">Degree</a></tt> (443; 2% instances), <tt><a href="it_isdt-feat-Poss.html">Poss</a></tt> (1; 0% instances), <tt><a href="it_isdt-feat-PronType.html">PronType</a></tt> (1; 0% instances), <tt><a href="it_isdt-feat-Typo.html">Typo</a></tt> (1; 0% instances)
 
-`ADJ` occurs with 9 feature-value pairs: `Degree=Abs`, `Degree=Cmp`, `Gender=Fem`, `Gender=Masc`, `NumType=Ord`, `Number=Plur`, `Number=Sing`, `Poss=Yes`, `PronType=Prs`
+`ADJ` occurs with 10 feature-value pairs: `Degree=Abs`, `Degree=Cmp`, `Gender=Fem`, `Gender=Masc`, `NumType=Ord`, `Number=Plur`, `Number=Sing`, `Poss=Yes`, `PronType=Prs`, `Typo=Yes`
 
-`ADJ` occurs with 23 feature combinations.
+`ADJ` occurs with 24 feature combinations.
 The most frequent feature combination is `Number=Sing` (4225 tokens).
 Examples: <em>grande, presente, primo, comune, mondiale, prima, internazionale, nazionale, possibile, sociale</em>
 

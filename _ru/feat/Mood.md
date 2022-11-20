@@ -48,4 +48,4 @@ because it can also be used in past indicative.
 
 * _Если <b>бы</b> я был умным, учился <b>бы</b> в университете.&nbsp;_ “If I <b>were</b> smart I <b>would</b> study at the
   university.”
-<!-- Interlanguage links updated So kvě 14 19:02:21 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:48 CET 2022 -->

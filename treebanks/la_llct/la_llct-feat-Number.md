@@ -11,10 +11,10 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="la_llct-feat-Number.html">Number</a></tt>, <tt><a href="la_llct-feat-Number-psor.html">Number[psor]</a></tt>.
 
-150914 tokens (62%) have a non-empty value of `Number`.
-8767 types (94%) occur at least once with a non-empty value of `Number`.
+150915 tokens (62%) have a non-empty value of `Number`.
+8768 types (94%) occur at least once with a non-empty value of `Number`.
 3246 lemmas (93%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt> (51206; 21% instances), <tt><a href="la_llct-pos-VERB.html">VERB</a></tt> (25494; 11% instances), <tt><a href="la_llct-pos-PROPN.html">PROPN</a></tt> (20149; 8% instances), <tt><a href="la_llct-pos-DET.html">DET</a></tt> (19077; 8% instances), <tt><a href="la_llct-pos-PRON.html">PRON</a></tt> (18327; 8% instances), <tt><a href="la_llct-pos-ADJ.html">ADJ</a></tt> (12372; 5% instances), <tt><a href="la_llct-pos-AUX.html">AUX</a></tt> (2744; 1% instances), <tt><a href="la_llct-pos-NUM.html">NUM</a></tt> (1545; 1% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt> (51206; 21% instances), <tt><a href="la_llct-pos-VERB.html">VERB</a></tt> (24318; 10% instances), <tt><a href="la_llct-pos-PROPN.html">PROPN</a></tt> (20149; 8% instances), <tt><a href="la_llct-pos-DET.html">DET</a></tt> (20013; 8% instances), <tt><a href="la_llct-pos-PRON.html">PRON</a></tt> (18308; 8% instances), <tt><a href="la_llct-pos-ADJ.html">ADJ</a></tt> (12372; 5% instances), <tt><a href="la_llct-pos-AUX.html">AUX</a></tt> (3920; 2% instances), <tt><a href="la_llct-pos-NUM.html">NUM</a></tt> (629; 0% instances).
 
 ### `NOUN`
 
@@ -24,7 +24,7 @@ The feature is used with 8 part-of-speech tags: <tt><a href="la_llct-pos-NOUN.ht
 
 * `Plur` (10212; 20% of non-empty `Number`): <em>rebus, annos, heredes, casis, soledos, res, cartulas, subcessoribus, successoribus, kalendas</em>
 * `Sing` (40994; 80% of non-empty `Number`): <em>teste, ecclesie, filio, manus, casa, loco, terra, signum, notarius, nomine</em>
-* `EMPTY` (7): <em>[noun], [pronoun], [--]</em>
+* `EMPTY` (6): <em>[noun], [--], [pronoun]</em>
 
 <table>
   <tr><th>Paradigm <i>testis</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -37,28 +37,28 @@ The feature is used with 8 part-of-speech tags: <tt><a href="la_llct-pos-NOUN.ht
 
 ### `VERB`
 
-25494 <tt><a href="la_llct-pos-VERB.html">VERB</a></tt> tokens (85% of all `VERB` tokens) have a non-empty value of `Number`.
+24318 <tt><a href="la_llct-pos-VERB.html">VERB</a></tt> tokens (85% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="la_llct-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (15913; 62%), <tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (15738; 62%), <tt><a href="la_llct-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (15738; 62%), <tt><a href="la_llct-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (15738; 62%), <tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (15500; 61%), <tt><a href="la_llct-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (13849; 54%), <tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (13572; 53%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (15211; 63%), <tt><a href="la_llct-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (14732; 61%), <tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (14564; 60%), <tt><a href="la_llct-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (14564; 60%), <tt><a href="la_llct-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (14564; 60%), <tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (12636; 52%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (4820; 19% of non-empty `Number`): <em>debeamus, rogavimus, pertenentes, conservata, quesierimus, designatas, relaxaverimus, intentionaverimus, spondimus, potuerimus</em>
-* `Sing` (20674; 81% of non-empty `Number`): <em>subscripsi, rogatus, dedi, est, dedisti, legitur, actum, tenet, conplevi, regnante</em>
-* `EMPTY` (4494): <em>scribere, conponere, fieri, reddere, dare, abere, venire, gubernare, facere, meliorare</em>
+* `Plur` (4695; 19% of non-empty `Number`): <em>debeamus, rogavimus, pertenentes, conservata, quesierimus, designatas, relaxaverimus, intentionaverimus, spondimus, potuerimus</em>
+* `Sing` (19623; 81% of non-empty `Number`): <em>subscripsi, rogatus, dedi, dedisti, legitur, actum, tenet, conplevi, regnante, traditam</em>
+* `EMPTY` (4405): <em>scribere, conponere, fieri, reddere, dare, abere, venire, gubernare, facere, meliorare</em>
 
 <table>
   <tr><th>Paradigm <i>rogo</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt><tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_llct-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="la_llct-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="la_llct-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>rogatu, rogato</em></td><td></td></tr>
   <tr><td><tt><tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_llct-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="la_llct-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="la_llct-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>rogito</em></td><td></td></tr>
   <tr><td><tt><tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_llct-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="la_llct-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="la_llct-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>rogatus, roghatus, rocatus, roggatus, rogitus</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="la_llct-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="la_llct-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>rogavi, rogavit, rocavit, rogabi</em></td><td><em>rogavimus</em></td></tr>
-  <tr><td><tt><tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_llct-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="la_llct-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>rogavit, rogavet, rogavi, rogave, rogabi</em></td><td><em>rogaverunt</em></td></tr>
+  <tr><td><tt><tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="la_llct-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="la_llct-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="la_llct-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>rogavi, rogavit, rocavit, rogabi</em></td><td><em>rogavimus</em></td></tr>
+  <tr><td><tt><tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_llct-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="la_llct-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="la_llct-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>rogavit, rogavet, rogavi, rogave, rogabi</em></td><td><em>rogaverunt</em></td></tr>
 </table>
 
 ### `PROPN`
 
-20149 <tt><a href="la_llct-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Number`.
+20149 <tt><a href="la_llct-pos-PROPN.html">PROPN</a></tt> tokens (99% of all `PROPN` tokens) have a non-empty value of `Number`.
 
 The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="la_llct-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (17382; 86%).
 
@@ -66,7 +66,7 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 
 * `Plur` (119; 1% of non-empty `Number`): <em>Capannule, Vaccule, domini, Interacchule, Capelle, Casule, Saxi, Subsilvule, Vallibus, Viniole</em>
 * `Sing` (20030; 99% of non-empty `Number`): <em>Dei, Luca, Martini, Deo, Petri, Gherardus, Petrus, Marie, domini, Italia</em>
-* `EMPTY` (2): <em>[Propn]</em>
+* `EMPTY` (102): <em>[Propn]</em>
 
 <table>
   <tr><th>Paradigm <i>Dominus</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -82,14 +82,14 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 
 ### `DET`
 
-19077 <tt><a href="la_llct-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
+20013 <tt><a href="la_llct-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="la_llct-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (13850; 73%), <tt><a href="la_llct-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (13148; 69%), <tt><a href="la_llct-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (13148; 69%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="la_llct-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (14786; 74%), <tt><a href="la_llct-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (14084; 70%), <tt><a href="la_llct-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (14084; 70%).
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (5343; 28% of non-empty `Number`): <em>tuis, omnia, meis, omnibus, hec, suis, suas, suprascripti, ipsis, ipse</em>
-* `Sing` (13734; 72% of non-empty `Number`): <em>ipsa, qui, mea, nostro, ipsius, suprascripta, hanc, vestro, alio, illa</em>
+* `Plur` (5346; 27% of non-empty `Number`): <em>tuis, omnia, meis, omnibus, hec, suis, suas, suprascripti, ipsis, ipse</em>
+* `Sing` (14667; 73% of non-empty `Number`): <em>ipsa, qui, mea, nostro, ipsius, suprascripta, hanc, uno, vestro, alio</em>
 
 <table>
   <tr><th>Paradigm <i>ipse</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -111,14 +111,15 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 ### `PRON`
 
-18327 <tt><a href="la_llct-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Number`.
+18308 <tt><a href="la_llct-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="la_llct-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (15329; 84%), <tt><a href="la_llct-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (12640; 69%), <tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=1</tt> (9732; 53%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="la_llct-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (15326; 84%), <tt><a href="la_llct-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (15009; 82%), <tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=1</tt> (9732; 53%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (4496; 25% of non-empty `Number`): <em>nos, vobis, quas, nobis, eas, qui, vos, eorum, que, eos</em>
-* `Sing` (13831; 75% of non-empty `Number`): <em>ego, me, tibi, qui, eius, mihi, id, tu, quod, que</em>
+* `Plur` (4493; 25% of non-empty `Number`): <em>nos, vobis, quas, nobis, eas, qui, vos, eorum, que, eos</em>
+* `Sing` (13815; 75% of non-empty `Number`): <em>ego, me, tibi, qui, eius, mihi, id, tu, quod, que</em>
+* `EMPTY` (2): <em>[pronoun], quandoque</em>
 
 <table>
   <tr><th>Paradigm <i>qui</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -132,7 +133,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
   <tr><td><tt><tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="la_llct-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>cui</em></td><td></td></tr>
   <tr><td><tt><tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="la_llct-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>cui</em></td><td><em>quibus</em></td></tr>
   <tr><td><tt><tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_llct-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>cuius</em></td><td><em>chorum</em></td></tr>
-  <tr><td><tt><tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_llct-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>qui, quis, quit</em></td><td><em>qui</em></td></tr>
+  <tr><td><tt><tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_llct-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>qui, quit</em></td><td><em>qui</em></td></tr>
   <tr><td><tt><tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_llct-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>que, quem, quae, qua</em></td><td><em>que, quem, quae</em></td></tr>
   <tr><td><tt><tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_llct-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>quod, quot, cod, quo</em></td><td><em>que, quem</em></td></tr>
 </table>
@@ -166,59 +167,63 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 ### `AUX`
 
-2744 <tt><a href="la_llct-pos-AUX.html">AUX</a></tt> tokens (96% of all `AUX` tokens) have a non-empty value of `Number`.
+3920 <tt><a href="la_llct-pos-AUX.html">AUX</a></tt> tokens (95% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="la_llct-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2744; 100%), <tt><a href="la_llct-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2744; 100%), <tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2649; 97%), <tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=3</tt> (2178; 79%), <tt><a href="la_llct-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1615; 59%), <tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (1614; 59%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="la_llct-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3918; 100%), <tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3585; 91%), <tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=3</tt> (3275; 84%), <tt><a href="la_llct-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2489; 63%).
 
 `AUX` tokens may have the following values of `Number`:
 
-* `Plur` (569; 21% of non-empty `Number`): <em>fuerint, sunt, fuerit, sumus, fuerunt, essent, fuissent, sint, fueritis, fuisserunt</em>
-* `Sing` (2175; 79% of non-empty `Number`): <em>est, sum, fuerit, fuit, fui, es, fuisset, sit, erat, fuere</em>
-* `EMPTY` (118): <em>esse, esset, essed, fuisset, essem, essere, fuissent, phore</em>
+* `Plur` (694; 18% of non-empty `Number`): <em>fuerint, sunt, fuerit, sint, sumus, fuerunt, essent, fuissent, fueritis, fuisserunt</em>
+* `Sing` (3226; 82% of non-empty `Number`): <em>est, fuerit, sum, fuit, fui, sit, es, fuisset, erat, fuerint</em>
+* `EMPTY` (207): <em>esse, esset, essed, essem, fuisset, ese, essere, fuisse, fuissent, phore</em>
 
 <table>
   <tr><th>Paradigm <i>sum</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_llct-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>erat</em></td><td><em>erat, erant</em></td></tr>
-  <tr><td><tt><tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_llct-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>sunt</em></td></tr>
-  <tr><td><tt><tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="la_llct-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td><em>essemus</em></td></tr>
-  <tr><td><tt><tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_llct-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>esse, esset</em></td><td><em>essent, esse</em></td></tr>
-  <tr><td><tt><tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="la_llct-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>fuero</em></td><td><em>fuerimus</em></td></tr>
-  <tr><td><tt><tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="la_llct-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>fui, fuit</em></td><td><em>fuemus, fuimus</em></td></tr>
-  <tr><td><tt><tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="la_llct-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td></td><td><em>fueritis</em></td></tr>
-  <tr><td><tt><tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_llct-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>fuerit, fuere, fueret, fueri, fuerint, fueris, furit</em></td><td><em>fuerint, fuerit, fuerent, fueret</em></td></tr>
-  <tr><td><tt><tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_llct-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>fuit, fui, fuet, fue</em></td><td><em>fuerunt</em></td></tr>
-  <tr><td><tt><tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_llct-feat-Tense.html">Tense</a></tt><tt>=Pqp</tt></tt></td><td><em>fuerat</em></td><td><em>fuerant</em></td></tr>
-  <tr><td><tt><tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_llct-feat-Tense.html">Tense</a></tt><tt>=Pqp</tt></tt></td><td><em>fuisset, fuisse</em></td><td><em>fuissent, fuisserunt</em></td></tr>
-  <tr><td><tt><tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="la_llct-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>sum, sunt</em></td><td><em>sumus, summus</em></td></tr>
-  <tr><td><tt><tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="la_llct-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>est, es, is, his</em></td><td><em>estis</em></td></tr>
-  <tr><td><tt><tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_llct-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>est, es, et</em></td><td><em>sunt</em></td></tr>
-  <tr><td><tt><tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="la_llct-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>simus</em></td></tr>
-  <tr><td><tt><tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_llct-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>sit, sint, siit, sia</em></td><td><em>sint</em></td></tr>
+  <tr><td><tt><tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_llct-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="la_llct-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>futura</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_llct-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="la_llct-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>futura</em></td></tr>
+  <tr><td><tt><tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="la_llct-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="la_llct-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>sum</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="la_llct-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="la_llct-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>es</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_llct-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="la_llct-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>erat</em></td><td><em>erant, erat</em></td></tr>
+  <tr><td><tt><tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_llct-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="la_llct-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>est, es</em></td><td><em>sunt</em></td></tr>
+  <tr><td><tt><tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="la_llct-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="la_llct-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>essemus</em></td></tr>
+  <tr><td><tt><tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_llct-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="la_llct-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>esse, esset</em></td><td><em>essent, esse</em></td></tr>
+  <tr><td><tt><tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_llct-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="la_llct-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>sit, sint, siit, sin</em></td><td><em>sint, sit</em></td></tr>
+  <tr><td><tt><tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="la_llct-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="la_llct-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>fuero</em></td><td><em>fuerimus</em></td></tr>
+  <tr><td><tt><tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="la_llct-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="la_llct-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>fui, fuit, foi</em></td><td><em>fuemus, fuimus</em></td></tr>
+  <tr><td><tt><tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="la_llct-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="la_llct-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>fueritis</em></td></tr>
+  <tr><td><tt><tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_llct-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="la_llct-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>fuerit, fuerint, fuere, fueret, fueri, fuerent, fueris, furit</em></td><td><em>fuerint, fuerit, fuerent, fueret</em></td></tr>
+  <tr><td><tt><tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_llct-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="la_llct-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>fuit, fui, fuet, fue</em></td><td><em>fuerunt</em></td></tr>
+  <tr><td><tt><tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_llct-feat-Tense.html">Tense</a></tt><tt>=Pqp</tt>|<tt><a href="la_llct-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>fuerat</em></td><td><em>fuerant</em></td></tr>
+  <tr><td><tt><tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_llct-feat-Tense.html">Tense</a></tt><tt>=Pqp</tt>|<tt><a href="la_llct-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>fuisset, fuisse</em></td><td><em>fuissent, fuisserunt</em></td></tr>
+  <tr><td><tt><tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="la_llct-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="la_llct-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>sum, sunt</em></td><td><em>sumus, summus</em></td></tr>
+  <tr><td><tt><tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="la_llct-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="la_llct-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>est, es, is, his</em></td><td><em>estis</em></td></tr>
+  <tr><td><tt><tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_llct-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="la_llct-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>est, es, et</em></td><td><em>sunt</em></td></tr>
+  <tr><td><tt><tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="la_llct-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="la_llct-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>simus</em></td></tr>
+  <tr><td><tt><tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_llct-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="la_llct-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>sit, sint, siit, sia</em></td><td><em>sint</em></td></tr>
 </table>
 
 ### `NUM`
 
-1545 <tt><a href="la_llct-pos-NUM.html">NUM</a></tt> tokens (64% of all `NUM` tokens) have a non-empty value of `Number`.
+629 <tt><a href="la_llct-pos-NUM.html">NUM</a></tt> tokens (42% of all `NUM` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="la_llct-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (1545; 100%), <tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=Acc</tt> (1287; 83%).
+The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="la_llct-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (629; 100%), <tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=Acc</tt> (551; 88%), <tt><a href="la_llct-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (387; 62%).
 
 `NUM` tokens may have the following values of `Number`:
 
-* `Plur` (629; 41% of non-empty `Number`): <em>duas, duo, tres, duos, ducentos, tricentos, due, dua, duobus, duocentos</em>
-* `Sing` (916; 59% of non-empty `Number`): <em>uno, una, unum, unam, unus, unu</em>
+* `Plur` (629; 100% of non-empty `Number`): <em>duas, duo, tres, duos, ducentos, tricentos, due, dua, duobus, duocentos</em>
 * `EMPTY` (872): <em>viginti, triginta, quinquaginta, decem, sex, quattuor, quinque, duodecim, centum, octo</em>
 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="la_llct-dep-det.html">det</a></tt>]--> DET</tt> (15030; 100%),
-<tt>VERB --[<tt><a href="la_llct-dep-obl.html">obl</a></tt>]--> NOUN</tt> (7429; 58%),
-<tt>PROPN --[<tt><a href="la_llct-dep-appos.html">appos</a></tt>]--> NOUN</tt> (6798; 96%),
-<tt>NOUN --[<tt><a href="la_llct-dep-amod.html">amod</a></tt>]--> ADJ</tt> (6332; 99%),
+<tt>NOUN --[<tt><a href="la_llct-dep-det.html">det</a></tt>]--> DET</tt> (15828; 100%),
+<tt>VERB --[<tt><a href="la_llct-dep-obl.html">obl</a></tt>]--> NOUN</tt> (7012; 58%),
+<tt>PROPN --[<tt><a href="la_llct-dep-appos.html">appos</a></tt>]--> NOUN</tt> (6799; 96%),
+<tt>NOUN --[<tt><a href="la_llct-dep-amod.html">amod</a></tt>]--> ADJ</tt> (6345; 99%),
 <tt>NOUN --[<tt><a href="la_llct-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (6225; 77%),
-<tt>NOUN --[<tt><a href="la_llct-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (5785; 96%),
-<tt>VERB --[<tt><a href="la_llct-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (5493; 93%),
-<tt>PRON --[<tt><a href="la_llct-dep-appos.html">appos</a></tt>]--> PROPN</tt> (4778; 98%),
-<tt>NOUN --[<tt><a href="la_llct-dep-conj.html">conj</a></tt>]--> NOUN</tt> (4387; 78%),
-<tt>VERB --[<tt><a href="la_llct-dep-conj.html">conj</a></tt>]--> VERB</tt> (3926; 85%).
+<tt>NOUN --[<tt><a href="la_llct-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (5786; 95%),
+<tt>PROPN --[<tt><a href="la_llct-dep-det.html">det</a></tt>]--> PRON</tt> (4782; 98%),
+<tt>NOUN --[<tt><a href="la_llct-dep-conj.html">conj</a></tt>]--> NOUN</tt> (4326; 78%),
+<tt>VERB --[<tt><a href="la_llct-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (4117; 85%),
+<tt>VERB --[<tt><a href="la_llct-dep-conj.html">conj</a></tt>]--> VERB</tt> (3827; 85%).
 

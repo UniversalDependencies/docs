@@ -11,7 +11,7 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 13894 tokens (60%) have a non-empty value of `Number`.
 5387 types (91%) occur at least once with a non-empty value of `Number`.
-2945 lemmas (83%) occur at least once with a non-empty value of `Number`.
+2950 lemmas (83%) occur at least once with a non-empty value of `Number`.
 The feature is used with 7 part-of-speech tags: <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (4817; 21% instances), <tt><a href="es_pud-pos-DET.html">DET</a></tt> (3315; 14% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (1650; 7% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (1475; 6% instances), <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> (1222; 5% instances), <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (747; 3% instances), <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> (668; 3% instances).
 
 ### `NOUN`
@@ -31,7 +31,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
   <tr><td><tt></tt></td><td><em>año</em></td><td><em>años</em></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `NOUN`. 98% lemmas (1498) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `NOUN`. 98% lemmas (1500) occur only with one value of `Number`.
 
 ### `DET`
 
@@ -75,7 +75,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 * `Sing` (1033; 70% of non-empty `Number`): <em>gran, primera, mayor, nueva, nacional, primer, británica, segunda, Unido, mismo</em>
 * `EMPTY` (5): <em>austro, co, ex, franco, multi</em>
 
-`Number` seems to be **lexical feature** of `ADJ`. 98% lemmas (376) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `ADJ`. 98% lemmas (377) occur only with one value of `Number`.
 
 ### `PROPN`
 

@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="it_postwita-dep-det.html">det</a></tt>.
 There are also 1 other language-specific subtypes of `det`: <tt><a href="it_postwita-dep-det-poss.html">det:poss</a></tt>.
 
-145 nodes (0%) are attached to their parents as `det:predet`.
+146 nodes (0%) are attached to their parents as `det:predet`.
 
-145 instances of `det:predet` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.12413793103448.
+146 instances of `det:predet` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.12328767123288.
 
-The following 7 pairs of parts of speech are connected with `det:predet`: <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_postwita-pos-DET.html">DET</a></tt> (124; 86% instances), <tt><a href="it_postwita-pos-SYM.html">SYM</a></tt>-<tt><a href="it_postwita-pos-DET.html">DET</a></tt> (7; 5% instances), <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_postwita-pos-DET.html">DET</a></tt> (5; 3% instances), <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt>-<tt><a href="it_postwita-pos-DET.html">DET</a></tt> (3; 2% instances), <tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_postwita-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt>-<tt><a href="it_postwita-pos-DET.html">DET</a></tt> (2; 1% instances).
+The following 7 pairs of parts of speech are connected with `det:predet`: <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_postwita-pos-DET.html">DET</a></tt> (125; 86% instances), <tt><a href="it_postwita-pos-SYM.html">SYM</a></tt>-<tt><a href="it_postwita-pos-DET.html">DET</a></tt> (7; 5% instances), <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_postwita-pos-DET.html">DET</a></tt> (5; 3% instances), <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt>-<tt><a href="it_postwita-pos-DET.html">DET</a></tt> (3; 2% instances), <tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_postwita-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt>-<tt><a href="it_postwita-pos-DET.html">DET</a></tt> (2; 1% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 7 pairs of parts of speech are connected with `det:predet`: <tt><a
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 7 det:predet	color:blue
-1	@user	@user	SYM	SYM	_	6	vocative:mention	_	_
+1	@user	@user	SYM	SYM	_	6	vocative	_	_
 2	ma	ma	CCONJ	CC	_	6	cc	_	_
 3	per	per	ADP	E	_	4	case	_	_
 4	lui	lui	PRON	PE	Number=Sing|Person=3|PronType=Prs	6	obl	_	_
@@ -78,7 +78,7 @@ The following 7 pairs of parts of speech are connected with `det:predet`: <tt><a
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 8 det:predet	color:blue
-1	@user1	@user1	SYM	SYM	_	2	vocative:mention	_	_
+1	@user1	@user1	SYM	SYM	_	2	vocative	_	_
 2	lassa	lassare	X	SW	_	0	root	_	_
 3	Peddere	perdere	X	SW	_	2	flat:foreign	_	_
 4	Rocco	rocco	PROPN	SP	_	2	obj	_	_
@@ -88,7 +88,7 @@ The following 7 pairs of parts of speech are connected with `det:predet`: <tt><a
 8	tutti	tutto	DET	DI	PronType=Ind	10	det:predet	_	_
 9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
 10	Tweet	Tweet	PROPN	SP	_	7	obj	_	_
-11	@user2	@user2	SYM	SYM	_	2	vocative:mention	_	_
+11	@user2	@user2	SYM	SYM	_	2	vocative	_	_
 
 ~~~
 

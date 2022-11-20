@@ -8,45 +8,48 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="pt_bosque-dep-expl.html">expl</a></tt>.
 
-3 nodes (0%) are attached to their parents as `expl:pass`.
+4 nodes (0%) are attached to their parents as `expl:pass`.
 
-2 instances of `expl:pass` (67%) are left-to-right (parent precedes child).
+3 instances of `expl:pass` (75%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 1 pairs of parts of speech are connected with `expl:pass`: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (3; 100% instances).
+The following 1 pairs of parts of speech are connected with `expl:pass`: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (4; 100% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 expl:pass	color:blue
-1	Mas	mas	CCONJ	_	_	3	cc	_	_
-2	eu	eu	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
-3	imagino	imaginar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	que	que	SCONJ	_	_	5	mark	_	_
-5	deveria	dever	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	3	ccomp	_	_
-6	se	se	PRON	_	Case=Acc|PronType=Prs	7	expl:pass	_	_
-7	dotar	dotar	VERB	_	Number=Sing|Person=3|VerbForm=Inf	5	xcomp	_	SpaceAfter=No
-8	,	,	PUNCT	_	_	7	punct	_	_
-9	por	por	ADP	_	_	13	advmod	_	_
-10	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	fixed	_	_
-11	menos	menos	ADV	_	Gender=Masc|Number=Plur	9	fixed	_	_
-12	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
-13	Judiciário	Judiciário	PROPN	_	Gender=Masc|Number=Sing	5	nsubj	_	SpaceAfter=No
-14	,	,	PUNCT	_	_	16	punct	_	_
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 13 expl:pass	color:blue
+1	Em	em	ADP	_	_	4	case	_	_
+2	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+3	últimos	último	ADJ	_	Gender=Masc|Number=Plur|NumType=Ord	4	amod	_	_
+4	dias	dia	NOUN	_	Gender=Masc|Number=Plur	7	obl	_	_
+5	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	ritmo	ritmo	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
+7	tornou	tornar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+8	se	se	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
+9	frenético	frenético	ADJ	_	Gender=Masc|Number=Sing	7	xcomp	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	12	punct	_	_
+11	«	«	PUNCT	_	_	12	punct	_	SpaceAfter=No
+12	manipularam	manipular	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	24	parataxis	_	_
+13	se	se	PRON	_	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	12	expl:pass	_	_
+14	mais	mais	ADV	_	_	16	advmod	_	_
 15	de	de	ADP	_	_	16	case	_	_
-16	medidas	medida	NOUN	_	Gender=Fem|Number=Plur	7	obl	_	_
-17	que	que	PRON	_	Gender=Fem|Number=Plur|PronType=Rel	18	nsubj	_	_
-18	possibilitassem	possibilitar	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	16	acl:relcl	_	_
-19	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
-20	concessão	concessão	NOUN	_	Gender=Fem|Number=Sing	18	obj	_	_
-21	de	de	ADP	_	_	23	case	_	_
-22	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
-23	perdão	perdão	NOUN	_	Gender=Masc|Number=Sing	20	nmod	_	_
-24	judicial	judicial	ADJ	_	Gender=Masc|Number=Sing	23	amod	_	SpaceAfter=No
-25	.	.	PUNCT	_	_	3	punct	_	_
+16	uma	uma	NUM	_	Gender=Masc|Number=Plur	17	nummod	_	_
+17	centena	centena	NOUN	_	Gender=Fem|Number=Plur	12	nsubj	_	_
+18	de	de	ADP	_	_	19	case	_	_
+19	documentos	documento	NOUN	_	Gender=Masc|Number=Plur	17	nmod	_	_
+20	e	e	CCONJ	_	_	21	cc	_	_
+21	mapas	mapa	NOUN	_	Gender=Masc|Number=Plur	19	conj	_	SpaceAfter=No
+22	»	»	PUNCT	_	_	12	punct	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	12	punct	_	_
+24	garante	garantir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	parataxis	_	_
+25	de	de	PROPN	_	Number=Sing	24	nsubj	_	_
+26	la	la	PROPN	_	Number=Sing	25	flat:name	_	_
+27	Peña	Peña	PROPN	_	Number=Sing	25	flat:name	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	7	punct	_	_
 
 ~~~
 

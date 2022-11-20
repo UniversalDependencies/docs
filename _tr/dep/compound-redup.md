@@ -29,4 +29,4 @@ compound:redup(Araba, maraba)
 ~~~
 
 For lexicalized multi-word items with repetition where one or more of the words are not free lexemes, (e.g. _paldır küldür_, _ufak tefek_), we use [fixed]().
-<!-- Interlanguage links updated So kvě 14 19:03:17 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:16 CET 2022 -->

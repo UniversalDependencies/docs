@@ -11,7 +11,7 @@ This relation is universal.
 16613 nodes (12%) are attached to their parents as `punct`.
 
 9150 instances of `punct` (55%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.5562511286342.
+Average distance between parent and child is 8.55631132245832.
 
 The following 15 pairs of parts of speech are connected with `punct`: <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> (6621; 40% instances), <tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> (4548; 27% instances), <tt><a href="he_iahltwiki-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> (2701; 16% instances), <tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> (805; 5% instances), <tt><a href="he_iahltwiki-pos-ADV.html">ADV</a></tt>-<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> (447; 3% instances), <tt><a href="he_iahltwiki-pos-ADP.html">ADP</a></tt>-<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> (426; 3% instances), <tt><a href="he_iahltwiki-pos-NUM.html">NUM</a></tt>-<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> (298; 2% instances), <tt><a href="he_iahltwiki-pos-PRON.html">PRON</a></tt>-<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> (254; 2% instances), <tt><a href="he_iahltwiki-pos-X.html">X</a></tt>-<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> (196; 1% instances), <tt><a href="he_iahltwiki-pos-DET.html">DET</a></tt>-<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> (181; 1% instances), <tt><a href="he_iahltwiki-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> (60; 0% instances), <tt><a href="he_iahltwiki-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> (33; 0% instances), <tt><a href="he_iahltwiki-pos-AUX.html">AUX</a></tt>-<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> (21; 0% instances), <tt><a href="he_iahltwiki-pos-SYM.html">SYM</a></tt>-<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> (21; 0% instances), <tt><a href="he_iahltwiki-pos-INTJ.html">INTJ</a></tt>-<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
@@ -30,7 +30,7 @@ The following 15 pairs of parts of speech are connected with `punct`: <tt><a hre
 6	יש	יש	VERB	VERB	Polarity=Pos	0	root	_	_
 7	לבדוק	בדק	VERB	VERB	HebBinyan=PAAL|VerbForm=Inf|Voice=Act	6	csubj	_	_
 8	תאימות	תאימות	NOUN	NOUN	Gender=Fem|Number=Sing	7	obj	_	_
-9	של	של	ADP	ADP	_	10	case	_	_
+9	של	של	ADP	ADP	Case=Gen	10	case	_	_
 10	נוגדנים	נוגדן	NOUN	NOUN	Gender=Masc|Number=Plur	8	nmod:poss	_	_
 11	אצל	אצל	ADP	ADP	_	13	case	_	_
 12	ה	ה	DET	DET	Definite=Def|PronType=Art	13	det	_	_
@@ -50,7 +50,7 @@ The following 15 pairs of parts of speech are connected with `punct`: <tt><a hre
 2	ה	ה	DET	DET	Definite=Def|PronType=Art	3	det	_	_
 3	לוואי	לוואי	NOUN	NOUN	Gender=Fem|Number=Plur	1	compound	_	_
 4	עלולות	עלול	AUX	AUX	Gender=Fem|Number=Plur	6	aux	_	_
-5	להיות	היה	AUX	AUX	Polarity=Pos|VerbForm=Inf	6	cop	_	_
+5	להיות	היה	AUX	AUX	HebBinyan=PAAL|Polarity=Pos|VerbForm=Inf	6	cop	_	_
 6	בחילות	בחילה	NOUN	NOUN	Gender=Fem|Number=Plur	0	root	_	_
 7	ו	ו	CCONJ	CCONJ	_	8	cc	_	_
 8	תחושת	תחושה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	6	conj	_	_

@@ -35,9 +35,9 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 ## Relations with Agreement in `Voice`
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
-<tt>VERB --[<tt><a href="id_gsd-dep-conj.html">conj</a></tt>]--> VERB</tt> (697; 67%),
+<tt>VERB --[<tt><a href="id_gsd-dep-conj.html">conj</a></tt>]--> VERB</tt> (699; 67%),
 <tt>VERB --[<tt><a href="id_gsd-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (602; 52%),
-<tt>VERB --[<tt><a href="id_gsd-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (174; 55%),
+<tt>VERB --[<tt><a href="id_gsd-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (173; 55%),
 <tt>VERB --[<tt><a href="id_gsd-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (132; 53%),
 <tt>VERB --[<tt><a href="id_gsd-dep-dep.html">dep</a></tt>]--> VERB</tt> (129; 50%),
 <tt>VERB --[<tt><a href="id_gsd-dep-compound.html">compound</a></tt>]--> VERB</tt> (1; 100%),

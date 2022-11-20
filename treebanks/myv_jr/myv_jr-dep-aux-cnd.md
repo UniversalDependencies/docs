@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="myv_jr-dep-aux.html">aux</a></tt>.
 There are also 6 other language-specific subtypes of `aux`: <tt><a href="myv_jr-dep-aux-aspect.html">aux:aspect</a></tt>, <tt><a href="myv_jr-dep-aux-imp.html">aux:imp</a></tt>, <tt><a href="myv_jr-dep-aux-nec.html">aux:nec</a></tt>, <tt><a href="myv_jr-dep-aux-neg.html">aux:neg</a></tt>, <tt><a href="myv_jr-dep-aux-opt.html">aux:opt</a></tt>, <tt><a href="myv_jr-dep-aux-q.html">aux:q</a></tt>.
 
-8 nodes (0%) are attached to their parents as `aux:cnd`.
+12 nodes (0%) are attached to their parents as `aux:cnd`.
 
-6 instances of `aux:cnd` (75%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.875.
+9 instances of `aux:cnd` (75%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.75.
 
-The following 1 pairs of parts of speech are connected with `aux:cnd`: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (8; 100% instances).
+The following 1 pairs of parts of speech are connected with `aux:cnd`: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (12; 100% instances).
 
 
 ~~~ conllu

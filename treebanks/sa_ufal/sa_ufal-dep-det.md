@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-61 nodes (3%) are attached to their parents as `det`.
+62 nodes (3%) are attached to their parents as `det`.
 
-58 instances of `det` (95%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.45901639344262.
+58 instances of `det` (94%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.45161290322581.
 
-The following 5 pairs of parts of speech are connected with `det`: <tt><a href="sa_ufal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sa_ufal-pos-DET.html">DET</a></tt> (53; 87% instances), <tt><a href="sa_ufal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sa_ufal-pos-PRON.html">PRON</a></tt> (4; 7% instances), <tt><a href="sa_ufal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sa_ufal-pos-DET.html">DET</a></tt> (2; 3% instances), <tt><a href="sa_ufal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sa_ufal-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="sa_ufal-pos-PRON.html">PRON</a></tt>-<tt><a href="sa_ufal-pos-PRON.html">PRON</a></tt> (1; 2% instances).
+The following 5 pairs of parts of speech are connected with `det`: <tt><a href="sa_ufal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sa_ufal-pos-DET.html">DET</a></tt> (53; 85% instances), <tt><a href="sa_ufal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sa_ufal-pos-PRON.html">PRON</a></tt> (5; 8% instances), <tt><a href="sa_ufal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sa_ufal-pos-DET.html">DET</a></tt> (2; 3% instances), <tt><a href="sa_ufal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sa_ufal-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="sa_ufal-pos-PRON.html">PRON</a></tt>-<tt><a href="sa_ufal-pos-PRON.html">PRON</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

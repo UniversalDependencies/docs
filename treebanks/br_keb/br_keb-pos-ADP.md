@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Breton-KEB: POS Tags: `ADP`
 
-There are 63 `ADP` lemmas (3%), 82 `ADP` types (3%) and 1102 `ADP` tokens (11%).
+There are 63 `ADP` lemmas (3%), 82 `ADP` types (3%) and 1104 `ADP` tokens (11%).
 Out of 17 observed tags, the rank of `ADP` is: 7 in number of lemmas, 8 in number of types and 5 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>da, e, gant, evit, war, eus, a, ouzh, dre, e-pad</em>
@@ -15,7 +15,7 @@ The 10 most frequent `ADP` types:  <em>e, gant, da, evit, d', war, eus, a, en, d
 
 The 10 most frequent ambiguous lemmas: <em>da</em> (<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> 246, <tt><a href="br_keb-pos-X.html">X</a></tt> 10, <tt><a href="br_keb-pos-DET.html">DET</a></tt> 3), <em>e</em> (<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> 244, <tt><a href="br_keb-pos-AUX.html">AUX</a></tt> 214, <tt><a href="br_keb-pos-DET.html">DET</a></tt> 37), <em>evit</em> (<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> 73, <tt><a href="br_keb-pos-SCONJ.html">SCONJ</a></tt> 5), <em>a</em> (<tt><a href="br_keb-pos-AUX.html">AUX</a></tt> 303, <tt><a href="br_keb-pos-ADP.html">ADP</a></tt> 57, <tt><a href="br_keb-pos-DET.html">DET</a></tt> 6, <tt><a href="br_keb-pos-PRON.html">PRON</a></tt> 5, <tt><a href="br_keb-pos-X.html">X</a></tt> 2), <em>dre</em> (<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> 12, <tt><a href="br_keb-pos-SCONJ.html">SCONJ</a></tt> 1), <em>a-benn</em> (<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> 7, <tt><a href="br_keb-pos-ADV.html">ADV</a></tt> 1), <em>kalz</em> (<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> 6, <tt><a href="br_keb-pos-ADV.html">ADV</a></tt> 2, <tt><a href="br_keb-pos-X.html">X</a></tt> 2), <em>dindan</em> (<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> 5, <tt><a href="br_keb-pos-ADV.html">ADV</a></tt> 2), <em>nemet</em> (<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> 4, <tt><a href="br_keb-pos-ADV.html">ADV</a></tt> 2, <tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> 1), <em>ouzhpenn</em> (<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> 4, <tt><a href="br_keb-pos-ADV.html">ADV</a></tt> 2)
 
-The 10 most frequent ambiguous types:  <em>e</em> (<tt><a href="br_keb-pos-AUX.html">AUX</a></tt> 208, <tt><a href="br_keb-pos-ADP.html">ADP</a></tt> 173, <tt><a href="br_keb-pos-DET.html">DET</a></tt> 33, <tt><a href="br_keb-pos-PRON.html">PRON</a></tt> 2), <em>gant</em> (<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> 114, <tt><a href="br_keb-pos-NUM.html">NUM</a></tt> 1), <em>da</em> (<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> 116, <tt><a href="br_keb-pos-X.html">X</a></tt> 6, <tt><a href="br_keb-pos-DET.html">DET</a></tt> 3), <em>evit</em> (<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> 62, <tt><a href="br_keb-pos-SCONJ.html">SCONJ</a></tt> 5), <em>d'</em> (<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> 61, <tt><a href="br_keb-pos-X.html">X</a></tt> 4), <em>eus</em> (<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> 56, <tt><a href="br_keb-pos-AUX.html">AUX</a></tt> 2), <em>a</em> (<tt><a href="br_keb-pos-AUX.html">AUX</a></tt> 296, <tt><a href="br_keb-pos-ADP.html">ADP</a></tt> 55, <tt><a href="br_keb-pos-DET.html">DET</a></tt> 6, <tt><a href="br_keb-pos-PRON.html">PRON</a></tt> 5, <tt><a href="br_keb-pos-X.html">X</a></tt> 2), <em>en</em> (<tt><a href="br_keb-pos-AUX.html">AUX</a></tt> 25, <tt><a href="br_keb-pos-ADP.html">ADP</a></tt> 23), <em>dre</em> (<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> 7, <tt><a href="br_keb-pos-SCONJ.html">SCONJ</a></tt> 1), <em>a-benn</em> (<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> 5, <tt><a href="br_keb-pos-ADV.html">ADV</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>e</em> (<tt><a href="br_keb-pos-AUX.html">AUX</a></tt> 208, <tt><a href="br_keb-pos-ADP.html">ADP</a></tt> 173, <tt><a href="br_keb-pos-DET.html">DET</a></tt> 33, <tt><a href="br_keb-pos-PRON.html">PRON</a></tt> 2), <em>gant</em> (<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> 114, <tt><a href="br_keb-pos-NUM.html">NUM</a></tt> 1), <em>da</em> (<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> 116, <tt><a href="br_keb-pos-X.html">X</a></tt> 6, <tt><a href="br_keb-pos-DET.html">DET</a></tt> 3), <em>evit</em> (<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> 62, <tt><a href="br_keb-pos-SCONJ.html">SCONJ</a></tt> 5), <em>d'</em> (<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> 61, <tt><a href="br_keb-pos-X.html">X</a></tt> 4), <em>eus</em> (<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> 56, <tt><a href="br_keb-pos-AUX.html">AUX</a></tt> 2), <em>a</em> (<tt><a href="br_keb-pos-AUX.html">AUX</a></tt> 296, <tt><a href="br_keb-pos-ADP.html">ADP</a></tt> 55, <tt><a href="br_keb-pos-DET.html">DET</a></tt> 6, <tt><a href="br_keb-pos-PRON.html">PRON</a></tt> 5, <tt><a href="br_keb-pos-X.html">X</a></tt> 2), <em>en</em> (<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> 25, <tt><a href="br_keb-pos-AUX.html">AUX</a></tt> 25), <em>dre</em> (<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> 7, <tt><a href="br_keb-pos-SCONJ.html">SCONJ</a></tt> 1), <em>a-benn</em> (<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> 5, <tt><a href="br_keb-pos-ADV.html">ADV</a></tt> 1)
 
 
 * <em>e</em>
@@ -46,8 +46,8 @@ The 10 most frequent ambiguous types:  <em>e</em> (<tt><a href="br_keb-pos-AUX.h
   * <tt><a href="br_keb-pos-PRON.html">PRON</a></tt> 5: <em>Sellit ouzh an tikedennoù eta da c'houzout petra zo e-barzh ar pezh <b>a</b> brenit .</em>
   * <tt><a href="br_keb-pos-X.html">X</a></tt> 2: <em>Kalz <b>a</b> drouz evit netra a lavarfen -me .</em>
 * <em>en</em>
+  * <tt><a href="br_keb-pos-ADP.html">ADP</a></tt> 25: <em>Ur film a roio levenez d' an holl <b>en</b> desped da bep tra .</em>
   * <tt><a href="br_keb-pos-AUX.html">AUX</a></tt> 25: <em>C’hwitellat a ra <b>en</b> ur labourat .</em>
-  * <tt><a href="br_keb-pos-ADP.html">ADP</a></tt> 23: <em>Ur film a roio levenez d' an holl <b>en</b> desped da bep tra .</em>
 * <em>dre</em>
   * <tt><a href="br_keb-pos-ADP.html">ADP</a></tt> 7: <em>E gwerzh e r stalioù levrioù a ginnig danvez Breizh , pe <b>dre</b> goumanant .</em>
   * <tt><a href="br_keb-pos-SCONJ.html">SCONJ</a></tt> 1: <em>Kement-se a zegasas un diskar e n dregantad a gembraegerien e r rannvroioù -se , <b>dre</b> ma oa kresket ar boblañs eno en un taol .</em>
@@ -70,19 +70,19 @@ The 3rd highest number of forms (4) was observed with the lemma “gant”: <em>
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 6 different relations: <tt><a href="br_keb-dep-case.html">case</a></tt> (972; 88% instances), <tt><a href="br_keb-dep-mark.html">mark</a></tt> (122; 11% instances), <tt><a href="br_keb-dep-dep.html">dep</a></tt> (4; 0% instances), <tt><a href="br_keb-dep-fixed.html">fixed</a></tt> (2; 0% instances), <tt><a href="br_keb-dep-cc.html">cc</a></tt> (1; 0% instances), <tt><a href="br_keb-dep-det.html">det</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 6 different relations: <tt><a href="br_keb-dep-case.html">case</a></tt> (972; 88% instances), <tt><a href="br_keb-dep-mark.html">mark</a></tt> (122; 11% instances), <tt><a href="br_keb-dep-dep.html">dep</a></tt> (4; 0% instances), <tt><a href="br_keb-dep-fixed.html">fixed</a></tt> (4; 0% instances), <tt><a href="br_keb-dep-cc.html">cc</a></tt> (1; 0% instances), <tt><a href="br_keb-dep-det.html">det</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 10 different parts of speech: <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt> (669; 61% instances), <tt><a href="br_keb-pos-VERB.html">VERB</a></tt> (132; 12% instances), <tt><a href="br_keb-pos-PRON.html">PRON</a></tt> (121; 11% instances), <tt><a href="br_keb-pos-PROPN.html">PROPN</a></tt> (95; 9% instances), <tt><a href="br_keb-pos-NUM.html">NUM</a></tt> (59; 5% instances), <tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> (14; 1% instances), <tt><a href="br_keb-pos-DET.html">DET</a></tt> (6; 1% instances), <tt><a href="br_keb-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="br_keb-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="br_keb-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `ADP` nodes belong to 11 different parts of speech: <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt> (670; 61% instances), <tt><a href="br_keb-pos-VERB.html">VERB</a></tt> (132; 12% instances), <tt><a href="br_keb-pos-PRON.html">PRON</a></tt> (120; 11% instances), <tt><a href="br_keb-pos-PROPN.html">PROPN</a></tt> (95; 9% instances), <tt><a href="br_keb-pos-NUM.html">NUM</a></tt> (59; 5% instances), <tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> (14; 1% instances), <tt><a href="br_keb-pos-DET.html">DET</a></tt> (6; 1% instances), <tt><a href="br_keb-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="br_keb-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="br_keb-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="br_keb-pos-X.html">X</a></tt> (1; 0% instances)
 
-1086 (99%) `ADP` nodes are leaves.
+1086 (98%) `ADP` nodes are leaves.
 
-14 (1%) `ADP` nodes have one child.
+15 (1%) `ADP` nodes have one child.
 
-2 (0%) `ADP` nodes have two children.
+3 (0%) `ADP` nodes have two children.
 
 The highest child degree of a `ADP` node is 2.
 
-Children of `ADP` nodes are attached using 3 different relations: <tt><a href="br_keb-dep-fixed.html">fixed</a></tt> (15; 83% instances), <tt><a href="br_keb-dep-dep.html">dep</a></tt> (2; 11% instances), <tt><a href="br_keb-dep-advmod.html">advmod</a></tt> (1; 6% instances)
+Children of `ADP` nodes are attached using 3 different relations: <tt><a href="br_keb-dep-fixed.html">fixed</a></tt> (18; 86% instances), <tt><a href="br_keb-dep-dep.html">dep</a></tt> (2; 10% instances), <tt><a href="br_keb-dep-advmod.html">advmod</a></tt> (1; 5% instances)
 
-Children of `ADP` nodes belong to 3 different parts of speech: <tt><a href="br_keb-pos-X.html">X</a></tt> (15; 83% instances), <tt><a href="br_keb-pos-VERB.html">VERB</a></tt> (2; 11% instances), <tt><a href="br_keb-pos-ADV.html">ADV</a></tt> (1; 6% instances)
+Children of `ADP` nodes belong to 5 different parts of speech: <tt><a href="br_keb-pos-X.html">X</a></tt> (15; 71% instances), <tt><a href="br_keb-pos-ADP.html">ADP</a></tt> (2; 10% instances), <tt><a href="br_keb-pos-VERB.html">VERB</a></tt> (2; 10% instances), <tt><a href="br_keb-pos-ADV.html">ADV</a></tt> (1; 5% instances), <tt><a href="br_keb-pos-PRON.html">PRON</a></tt> (1; 5% instances)
 

@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Frisian_Dutch-Fame: POS Tags: `INTJ`
 
-There are 1 `INTJ` lemmas (8%), 13 `INTJ` types (1%) and 189 `INTJ` tokens (5%).
-Out of 13 observed tags, the rank of `INTJ` is: 7 in number of lemmas, 11 in number of types and 9 in number of tokens.
+There are 1 `INTJ` lemmas (7%), 13 `INTJ` types (1%) and 189 `INTJ` tokens (5%).
+Out of 14 observed tags, the rank of `INTJ` is: 7 in number of lemmas, 11 in number of types and 9 in number of tokens.
 
 The 10 most frequent `INTJ` lemmas: <em>_</em>
 
 The 10 most frequent `INTJ` types:  <em>eh, ja, no, nee, hin, au, hear, hè, nou, o</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="qfn_fame-pos-NOUN.html">NOUN</a></tt> 483, <tt><a href="qfn_fame-pos-ADV.html">ADV</a></tt> 454, <tt><a href="qfn_fame-pos-PRON.html">PRON</a></tt> 442, <tt><a href="qfn_fame-pos-ADP.html">ADP</a></tt> 441, <tt><a href="qfn_fame-pos-VERB.html">VERB</a></tt> 399, <tt><a href="qfn_fame-pos-DET.html">DET</a></tt> 358, <tt><a href="qfn_fame-pos-PROPN.html">PROPN</a></tt> 305, <tt><a href="qfn_fame-pos-ADJ.html">ADJ</a></tt> 215, <tt><a href="qfn_fame-pos-INTJ.html">INTJ</a></tt> 189, <tt><a href="qfn_fame-pos-AUX.html">AUX</a></tt> 163, <tt><a href="qfn_fame-pos-CCONJ.html">CCONJ</a></tt> 159, <tt><a href="qfn_fame-pos-SCONJ.html">SCONJ</a></tt> 61, <tt><a href="qfn_fame-pos-NUM.html">NUM</a></tt> 60)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="qfn_fame-pos-NOUN.html">NOUN</a></tt> 482, <tt><a href="qfn_fame-pos-ADV.html">ADV</a></tt> 455, <tt><a href="qfn_fame-pos-ADP.html">ADP</a></tt> 441, <tt><a href="qfn_fame-pos-PRON.html">PRON</a></tt> 441, <tt><a href="qfn_fame-pos-VERB.html">VERB</a></tt> 399, <tt><a href="qfn_fame-pos-DET.html">DET</a></tt> 358, <tt><a href="qfn_fame-pos-PROPN.html">PROPN</a></tt> 305, <tt><a href="qfn_fame-pos-ADJ.html">ADJ</a></tt> 214, <tt><a href="qfn_fame-pos-INTJ.html">INTJ</a></tt> 189, <tt><a href="qfn_fame-pos-AUX.html">AUX</a></tt> 163, <tt><a href="qfn_fame-pos-CCONJ.html">CCONJ</a></tt> 159, <tt><a href="qfn_fame-pos-SCONJ.html">SCONJ</a></tt> 61, <tt><a href="qfn_fame-pos-NUM.html">NUM</a></tt> 60, <tt><a href="qfn_fame-pos-X.html">X</a></tt> 2)
 
 The 10 most frequent ambiguous types:  <em>eh</em> (<tt><a href="qfn_fame-pos-INTJ.html">INTJ</a></tt> 129, <tt><a href="qfn_fame-pos-NUM.html">NUM</a></tt> 1), <em>no</em> (<tt><a href="qfn_fame-pos-ADV.html">ADV</a></tt> 19, <tt><a href="qfn_fame-pos-INTJ.html">INTJ</a></tt> 9), <em>hin</em> (<tt><a href="qfn_fame-pos-INTJ.html">INTJ</a></tt> 4, <tt><a href="qfn_fame-pos-ADP.html">ADP</a></tt> 2, <tt><a href="qfn_fame-pos-AUX.html">AUX</a></tt> 1, <tt><a href="qfn_fame-pos-PRON.html">PRON</a></tt> 1, <tt><a href="qfn_fame-pos-VERB.html">VERB</a></tt> 1), <em>hear</em> (<tt><a href="qfn_fame-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="qfn_fame-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="qfn_fame-pos-VERB.html">VERB</a></tt> 1), <em>toch</em> (<tt><a href="qfn_fame-pos-ADV.html">ADV</a></tt> 16, <tt><a href="qfn_fame-pos-INTJ.html">INTJ</a></tt> 1)
 
@@ -40,7 +40,7 @@ The 10 most frequent ambiguous types:  <em>eh</em> (<tt><a href="qfn_fame-pos-IN
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 13.000000 (the average of all parts of speech is 105.000000).
+The form / lemma ratio of `INTJ` is 13.000000 (the average of all parts of speech is 97.571429).
 
 The 1st highest number of forms (13) was observed with the lemma “_”: <em>au, eh, hear, hin, hè, ja, nee, no, nou, o, och, oh, toch</em>.
 
@@ -51,7 +51,7 @@ The 1st highest number of forms (13) was observed with the lemma “_”: <em>au
 
 `INTJ` nodes are attached to their parents using 3 different relations: <tt><a href="qfn_fame-dep-discourse.html">discourse</a></tt> (180; 95% instances), <tt><a href="qfn_fame-dep-fixed.html">fixed</a></tt> (8; 4% instances), <tt><a href="qfn_fame-dep-reparandum.html">reparandum</a></tt> (1; 1% instances)
 
-Parents of `INTJ` nodes belong to 12 different parts of speech: <tt><a href="qfn_fame-pos-VERB.html">VERB</a></tt> (109; 58% instances), <tt><a href="qfn_fame-pos-NOUN.html">NOUN</a></tt> (33; 17% instances), <tt><a href="qfn_fame-pos-ADJ.html">ADJ</a></tt> (11; 6% instances), <tt><a href="qfn_fame-pos-ADV.html">ADV</a></tt> (11; 6% instances), <tt><a href="qfn_fame-pos-INTJ.html">INTJ</a></tt> (5; 3% instances), <tt><a href="qfn_fame-pos-PRON.html">PRON</a></tt> (5; 3% instances), <tt><a href="qfn_fame-pos-PROPN.html">PROPN</a></tt> (5; 3% instances), <tt><a href="qfn_fame-pos-CCONJ.html">CCONJ</a></tt> (4; 2% instances), <tt><a href="qfn_fame-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="qfn_fame-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="qfn_fame-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="qfn_fame-pos-NUM.html">NUM</a></tt> (1; 1% instances)
+Parents of `INTJ` nodes belong to 12 different parts of speech: <tt><a href="qfn_fame-pos-VERB.html">VERB</a></tt> (110; 58% instances), <tt><a href="qfn_fame-pos-NOUN.html">NOUN</a></tt> (33; 17% instances), <tt><a href="qfn_fame-pos-ADJ.html">ADJ</a></tt> (11; 6% instances), <tt><a href="qfn_fame-pos-ADV.html">ADV</a></tt> (10; 5% instances), <tt><a href="qfn_fame-pos-INTJ.html">INTJ</a></tt> (5; 3% instances), <tt><a href="qfn_fame-pos-PRON.html">PRON</a></tt> (5; 3% instances), <tt><a href="qfn_fame-pos-PROPN.html">PROPN</a></tt> (5; 3% instances), <tt><a href="qfn_fame-pos-CCONJ.html">CCONJ</a></tt> (4; 2% instances), <tt><a href="qfn_fame-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="qfn_fame-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="qfn_fame-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="qfn_fame-pos-NUM.html">NUM</a></tt> (1; 1% instances)
 
 180 (95%) `INTJ` nodes are leaves.
 

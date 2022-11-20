@@ -7,12 +7,12 @@ udver: '2'
 ## Treebank Statistics: UD_Ancient_Hebrew-PTNK: Features: `PronType`
 
 This feature is universal.
-It occurs with 3 different values: `Dem`, `Int`, `Prs`.
+It occurs with 4 different values: `Art`, `Dem`, `Int`, `Prs`.
 
-4300 tokens (11%) have a non-empty value of `PronType`.
-167 types (4%) occur at least once with a non-empty value of `PronType`.
-22 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="hbo_ptnk-pos-PRON.html">PRON</a></tt> (4300; 11% instances).
+6168 tokens (16%) have a non-empty value of `PronType`.
+188 types (3%) occur at least once with a non-empty value of `PronType`.
+23 lemmas (1%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 2 part-of-speech tags: <tt><a href="hbo_ptnk-pos-PRON.html">PRON</a></tt> (4300; 11% instances), <tt><a href="hbo_ptnk-pos-DET.html">DET</a></tt> (1868; 5% instances).
 
 ### `PRON`
 
@@ -22,11 +22,19 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 `PRON` tokens may have the following values of `PronType`:
 
-* `Dem` (243; 6% of non-empty `PronType`): <em>_, אֵ֣לֶּה, אֵ֖לֶּה, אֵ֚לֶּה, זֹ֑את, זֹ֣את, זֶ֖ה, זֶ֛ה, זֶ֣ה, אֵ֨לֶּה֙</em>
-* `Int` (63; 1% of non-empty `PronType`): <em>מַה, _, מִי, מִ֥י, מָ֣ה, מִֽי, מִ֣י, מֶ֣ה, מָ֥ה, מָֽה</em>
-* `Prs` (3994; 93% of non-empty `PronType`): <em>_, ה֖וּא, ה֣וּא, ה֥וּא, אָנֹכִ֖י, הִ֖וא, הֽוּא, ה֑וּא, אֲנִ֣י, אַתָּ֥ה</em>
+* `Dem` (243; 6% of non-empty `PronType`): <em>זה, אלה, זאת, אֵ֣לֶּה, אֵ֖לֶּה, אֵ֚לֶּה, זֹ֑את, זֹ֣את, זֶ֖ה, אל</em>
+* `Int` (63; 1% of non-empty `PronType`): <em>מַה, מִי, מִ֥י, מָ֣ה, מה, מי, מִֽי, מִ֣י, מֶ֣ה, מָ֥ה</em>
+* `Prs` (3994; 93% of non-empty `PronType`): <em>הוא, אני, אתה, הם, היא, אתם, אנחנו, את, הן, ה֖וּא</em>
 
 `PronType` seems to be **lexical feature** of `PRON`. 100% lemmas (22) occur only with one value of `PronType`.
+
+### `DET`
+
+1868 <tt><a href="hbo_ptnk-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+
+`DET` tokens may have the following values of `PronType`:
+
+* `Art` (1868; 100% of non-empty `PronType`): <em>ה</em>
 
 ## Relations with Agreement in `PronType`
 

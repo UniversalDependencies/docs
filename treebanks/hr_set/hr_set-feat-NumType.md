@@ -53,7 +53,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (1172; 100% of non-empty `NumType`): <em>1., 2004., 2008., 2007., 2009., 2006., 2., 2005., 2010., 21.</em>
-* `EMPTY` (22965): <em>novi, prvi, drugi, sve, svi, vanjskih, glavni, novih, nove, prošle</em>
+* `EMPTY` (22966): <em>novi, prvi, drugi, sve, svi, vanjskih, glavni, novih, nove, prošle</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (189) occur only with one value of `NumType`.
 
@@ -71,10 +71,10 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 ## Relations with Agreement in `NumType`
 
 The 10 most frequent relations where parent and child node agree in `NumType`:
-<tt>NUM --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> NUM</tt> (73; 100%),
+<tt>NUM --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> NUM</tt> (70; 100%),
 <tt>ADJ --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> ADJ</tt> (44; 98%),
-<tt>NUM --[<tt><a href="hr_set-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (5; 83%),
-<tt>NUM --[<tt><a href="hr_set-dep-flat.html">flat</a></tt>]--> NUM</tt> (4; 100%),
+<tt>NUM --[<tt><a href="hr_set-dep-flat.html">flat</a></tt>]--> NUM</tt> (11; 92%),
+<tt>NUM --[<tt><a href="hr_set-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (3; 100%),
 <tt>NUM --[<tt><a href="hr_set-dep-list.html">list</a></tt>]--> NUM</tt> (2; 100%),
 <tt>NUM --[<tt><a href="hr_set-dep-orphan.html">orphan</a></tt>]--> NUM</tt> (2; 100%),
 <tt>ADJ --[<tt><a href="hr_set-dep-flat.html">flat</a></tt>]--> ADJ</tt> (1; 100%),

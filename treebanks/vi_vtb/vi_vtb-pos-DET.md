@@ -6,77 +6,85 @@ udver: '2'
 
 ## Treebank Statistics: UD_Vietnamese-VTB: POS Tags: `DET`
 
-There are 26 `DET` lemmas (0%), 26 `DET` types (0%) and 691 `DET` tokens (2%).
-Out of 14 observed tags, the rank of `DET` is: 10 in number of lemmas, 10 in number of types and 10 in number of tokens.
+There are 30 `DET` lemmas (0%), 30 `DET` types (0%) and 703 `DET` tokens (2%).
+Out of 17 observed tags, the rank of `DET` is: 12 in number of lemmas, 12 in number of types and 12 in number of tokens.
 
-The 10 most frequent `DET` lemmas: <em>những, các, mọi, mấy, mỗi, một số, vài, toàn bộ, tất cả, nửa</em>
+The 10 most frequent `DET` lemmas: <em>những, các, mọi, mấy, mỗi, một số, vài, toàn bộ, tất cả, cả</em>
 
-The 10 most frequent `DET` types:  <em>những, các, mọi, mấy, mỗi, một số, vài, toàn bộ, tất cả, nửa</em>
+The 10 most frequent `DET` types:  <em>những, các, mọi, mấy, mỗi, một số, vài, toàn bộ, tất cả, cả</em>
 
-The 10 most frequent ambiguous lemmas: <em>mọi</em> (<tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 31, <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> 2), <em>mấy</em> (<tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 27, <tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> 1), <em>mỗi</em> (<tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> 20, <tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 18), <em>toàn bộ</em> (<tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 5, <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> 1), <em>tất cả</em> (<tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt> 17, <tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 3, <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> 1), <em>nửa</em> (<tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> 6, <tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 2), <em>phần lớn</em> (<tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 2, <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> 1), <em>chút</em> (<tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 2, <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> 1), <em>hầu hết</em> (<tt><a href="vi_vtb-pos-X.html">X</a></tt> 3, <tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 1), <em>một chút</em> (<tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 1, <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>mọi</em> (<tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 44, <tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> 1), <em>mấy</em> (<tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 30, <tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> 1), <em>mỗi</em> (<tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> 25, <tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 22), <em>tất cả</em> (<tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt> 25, <tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 5, <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> 1), <em>cả</em> (<tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt> 64, <tt><a href="vi_vtb-pos-PART.html">PART</a></tt> 19, <tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt> 3, <tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 3, <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> 1), <em>nửa</em> (<tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> 6, <tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 3), <em>phần lớn</em> (<tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 3, <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> 1), <em>chút</em> (<tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 2, <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> 1), <em>toàn</em> (<tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt> 10, <tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt> 8, <tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt> 3, <tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 2, <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> 1), <em>từng</em> (<tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt> 28, <tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt> 13, <tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 2, <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> 2)
 
-The 10 most frequent ambiguous types:  <em>mọi</em> (<tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 31, <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> 2), <em>mấy</em> (<tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 27, <tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> 1), <em>mỗi</em> (<tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> 20, <tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 18), <em>toàn bộ</em> (<tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 5, <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> 1), <em>tất cả</em> (<tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt> 17, <tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 3, <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> 1), <em>nửa</em> (<tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> 6, <tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 2), <em>phần lớn</em> (<tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 2, <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> 1), <em>chút</em> (<tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 2, <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> 1), <em>hầu hết</em> (<tt><a href="vi_vtb-pos-X.html">X</a></tt> 3, <tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 1), <em>một chút</em> (<tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 1, <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>mọi</em> (<tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 34, <tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> 1), <em>mấy</em> (<tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 26, <tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> 1), <em>mỗi</em> (<tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> 20, <tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 18), <em>tất cả</em> (<tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt> 16, <tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 3, <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> 1), <em>cả</em> (<tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt> 47, <tt><a href="vi_vtb-pos-PART.html">PART</a></tt> 19, <tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt> 3, <tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 2, <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> 1), <em>nửa</em> (<tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> 6, <tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 2), <em>phần lớn</em> (<tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 2, <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> 1), <em>chút</em> (<tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 2, <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> 1), <em>toàn</em> (<tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt> 8, <tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt> 3, <tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 2, <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> 1), <em>từng</em> (<tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt> 28, <tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt> 13, <tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 2, <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> 2)
 
 
 * <em>mọi</em>
-  * <tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 31: <em>hải và chị Hằng tìm <b>mọi</b> cơ hội để xây dựng tình cảm cho hai thanh niên .</em>
-  * <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> 3: <em>Nhưng Lan phải thành thật kể hết <b>mọi</b> chuyện cho anh nghe .</em>
-  * <tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> 2: <em>ông Nguyễn Thế Khanh , chi cục phó , cho biết đây là những mặt hàng điện tử cũ đã có qui định cấm nhập khẩu dưới <b>mọi</b> hình thức .</em>
+  * <tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 34: <em>Đám cháy từ đây lan đi <b>mọi</b> hướng .</em>
+  * <tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> 1: <em>Lúc này <b>mọi</b> người mới thở phào nhẹ nhõm khi Anh là người sau cùng trồi lên khỏi mặt nước thông báo chiếc bù loong cuối cùng đã được siết chặt .</em>
 * <em>mấy</em>
-  * <tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 27: <em>như dự đoán của Thanh , <b>mấy</b> hôm sau Hùng gặp bà Loan thưa chuyện .</em>
-  * <tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> 1: <em>văn phòng đăng ký quyền sử dụng đất : nên <b>mấy</b> loại ?</em>
+  * <tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 26: <em>Khi cho mượn chút tiền , lúc gói tặng <b>mấy</b> trái cam .</em>
+  * <tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> 1: <em>Văn phòng đăng ký quyền sử dụng đất : nên <b>mấy</b> loại ?</em>
 * <em>mỗi</em>
   * <tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> 20: <em>Đó như một lời nhắn nhủ : chú hổ Lâm Nhi là " tài sản " của <b>mỗi</b> người .</em>
-  * <tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 18: <em>Như vậy <b>mỗi</b> tổ đào <b>mỗi</b> bên 5 m .</em>
-* <em>toàn bộ</em>
-  * <tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 5: <em>theo hợp đồng , họ sẽ được nhận <b>toàn bộ</b> số tiền bảo hiểm từ hãng bảo hiểm .</em>
-  * <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> 1: <em><b>toàn bộ</b> các kcn đã được tỉnh giao hết cho các nhà đầu tư và các công ty phát triển kinh doanh hạ tầng .</em>
+  * <tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 18: <em>Và <b>mỗi</b> đêm chỉ bấm hai , ba lần , <b>mỗi</b> lần cách nhau một tiếng .</em>
 * <em>tất cả</em>
-  * <tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt> 17: <em>Bác Hồ là hiện thân <b>tất cả</b> những gì tốt đẹp nhất .</em>
+  * <tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt> 16: <em>Nhưng , mất <b>tất cả</b> !</em>
   * <tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 3: <em>Mới hay <b>tất cả</b> chúng tôi đã được hai ông bà người Tàu mua đi bán lại từ người khác như những món hàng .</em>
-  * <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> 1: <em>già trẻ gái trai , nam phụ lão ấu , <b>tất cả</b> không phân biệt thành phần đều rùng rùng lao vào trận mới .</em>
+  * <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> 1: <em>Già trẻ gái trai , nam phụ lão ấu , <b>tất cả</b> không phân biệt thành phần đều rùng rùng lao vào trận mới .</em>
+* <em>cả</em>
+  * <tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt> 47: <em>Họ mang theo không chỉ nỗi nhớ nhà , nhớ quê mà <b>cả</b> lòng người xa xứ ...</em>
+  * <tt><a href="vi_vtb-pos-PART.html">PART</a></tt> 19: <em>Một hợp đồng được ký kết , giá trị một năm lên tới <b>cả</b> ngàn usd .</em>
+  * <tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt> 3: <em>Mà ông không thể <b>cả</b> ngày không nói .</em>
+  * <tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 2: <em>Thật ra lần trước khi thử nhà hàng xóm , Hùng đã dặn ông Chương giấu Kim vì đó cũng đồng thời là thử <b>cả</b> kim .</em>
+  * <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> 1: <em>Em út theo anh <b>cả</b> vào miền Nam .</em>
 * <em>nửa</em>
   * <tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> 6: <em>Nhưng chưa đến <b>nửa</b> tuần thì ông Chương đã vội vã cầu cứu Hùng .</em>
   * <tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 2: <em>Viện bị bại liệt <b>nửa</b> người .</em>
 * <em>phần lớn</em>
-  * <tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 2: <em>Các đối tác <b>phần lớn</b> không ở Hà Nội và số còn lại không có khả năng xung đột quyền lợi ...</em>
+  * <tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 2: <em>Qua tìm hiểu , Thanh mới biết thời kỳ đó <b>phần lớn</b> dân VN sang Đức từ một nước châu Âu khác .</em>
   * <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> 1: <em>Tuy nhiên , nhiều người dân đi chợ cho biết <b>phần lớn</b> đều là nông sản , thực phẩm Trung Quốc .</em>
 * <em>chút</em>
-  * <tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 2: <em>khi cho mượn <b>chút</b> tiền , lúc gói tặng mấy trái cam .</em>
-  * <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> 1: <em>cứ thế các đoạn địa đạo được nối rộng ra , mỗi ngày một <b>chút</b> .</em>
-* <em>hầu hết</em>
-  * <tt><a href="vi_vtb-pos-X.html">X</a></tt> 3: <em>Các phương tiện vận chuyển <b>hầu hết</b> là đặc chủng hoặc giấy phép đặc biệt .</em>
-  * <tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 1: <em>dân trong ngõ này <b>hầu hết</b> là giới lao động và tiểu thương .</em>
-* <em>một chút</em>
-  * <tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 1: <em>đứa nào có bạn thì " chát chít " ... ngoài phố <b>một chút</b> rồi về .</em>
-  * <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> 1: <em>Riêng việc học đại học tuy thiếu chính xác <b>một chút</b> LBKT vì đang học chứ không phải đã tốt nghiệp RBKT , nhưng có thể thông cảm .</em>
+  * <tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 2: <em>Khi cho mượn <b>chút</b> tiền , lúc gói tặng mấy trái cam .</em>
+  * <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> 1: <em>Cứ thế các đoạn địa đạo được nối rộng ra , mỗi ngày một <b>chút</b> .</em>
+* <em>toàn</em>
+  * <tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt> 8: <em>Nhưng khi kiểm tra thì <b>toàn</b> là ... bột ximăng .</em>
+  * <tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt> 3: <em>Một khuôn mặt dính đầy dầu và bụi đá , trên <b>toàn</b> khuôn mặt ấy duy nhất chỉ có đôi mắt là sáng .</em>
+  * <tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 2: <em>Sự kiện của ông đã làm <b>toàn</b> dân Pháp càng phẫn nộ với cuộc chiến chết chóc này .</em>
+  * <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> 1: <em>Tờ mờ sáng , địch đổ quân trên <b>toàn</b> tuyến .</em>
+* <em>từng</em>
+  * <tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt> 28: <em>Máu nhuộm <b>từng</b> đoạn hào , <b>từng</b> khúc địa đạo .</em>
+  * <tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt> 13: <em>Sau nữa là đường dây điện chạy vào <b>từng</b> gia đình .</em>
+  * <tt><a href="vi_vtb-pos-DET.html">DET</a></tt> 2: <em>Ông Ngọc bảo vấn đề chỉ còn là dư luận và điều kiện <b>từng</b> gia đình thôi .</em>
+  * <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> 2: <em>Rồi tui rang gạo lấy nước pha sữa bò , bón cho nó <b>từng</b> muỗng .</em>
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.000000).
+The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.001785).
 
-The 1st highest number of forms (1) was observed with the lemma “Bấy nhiêu”: <em>Bấy nhiêu</em>.
+The 1st highest number of forms (1) was observed with the lemma “bấy nhiêu”: <em>Bấy nhiêu</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “Các”: <em>Các</em>.
+The 2nd highest number of forms (1) was observed with the lemma “chút”: <em>chút</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “L”: <em>L</em>.
+The 3rd highest number of forms (1) was observed with the lemma “các”: <em>các</em>.
 
 `DET` does not occur with any features.
 
 
 ## Relations
 
-`DET` nodes are attached to their parents using 4 different relations: <tt><a href="vi_vtb-dep-det.html">det</a></tt> (687; 99% instances), <tt><a href="vi_vtb-dep-nsubj.html">nsubj</a></tt> (2; 0% instances), <tt><a href="vi_vtb-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="vi_vtb-dep-obj.html">obj</a></tt> (1; 0% instances)
+`DET` nodes are attached to their parents using 8 different relations: <tt><a href="vi_vtb-dep-det.html">det</a></tt> (695; 99% instances), <tt><a href="vi_vtb-dep-clf-det.html">clf:det</a></tt> (2; 0% instances), <tt><a href="vi_vtb-dep-advmod-adj.html">advmod:adj</a></tt> (1; 0% instances), <tt><a href="vi_vtb-dep-discourse.html">discourse</a></tt> (1; 0% instances), <tt><a href="vi_vtb-dep-nmod-poss.html">nmod:poss</a></tt> (1; 0% instances), <tt><a href="vi_vtb-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="vi_vtb-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="vi_vtb-dep-obl-tmod.html">obl:tmod</a></tt> (1; 0% instances)
 
-Parents of `DET` nodes belong to 4 different parts of speech: <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (673; 97% instances), <tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt> (9; 1% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (6; 1% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> (3; 0% instances)
+Parents of `DET` nodes belong to 5 different parts of speech: <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (680; 97% instances), <tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt> (7; 1% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (6; 1% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> (5; 1% instances), <tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt> (5; 1% instances)
 
-689 (100%) `DET` nodes are leaves.
+656 (93%) `DET` nodes are leaves.
 
-2 (0%) `DET` nodes have one child.
+44 (6%) `DET` nodes have one child.
 
-The highest child degree of a `DET` node is 1.
+3 (0%) `DET` nodes have two children.
 
-Children of `DET` nodes are attached using 2 different relations: <tt><a href="vi_vtb-dep-case.html">case</a></tt> (1; 50% instances), <tt><a href="vi_vtb-dep-compound.html">compound</a></tt> (1; 50% instances)
+The highest child degree of a `DET` node is 2.
 
-Children of `DET` nodes belong to 2 different parts of speech: <tt><a href="vi_vtb-pos-ADP.html">ADP</a></tt> (1; 50% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (1; 50% instances)
+Children of `DET` nodes are attached using 6 different relations: <tt><a href="vi_vtb-dep-clf.html">clf</a></tt> (41; 82% instances), <tt><a href="vi_vtb-dep-case.html">case</a></tt> (2; 4% instances), <tt><a href="vi_vtb-dep-clf-det.html">clf:det</a></tt> (2; 4% instances), <tt><a href="vi_vtb-dep-fixed.html">fixed</a></tt> (2; 4% instances), <tt><a href="vi_vtb-dep-nummod.html">nummod</a></tt> (2; 4% instances), <tt><a href="vi_vtb-dep-discourse.html">discourse</a></tt> (1; 2% instances)
+
+Children of `DET` nodes belong to 4 different parts of speech: <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (44; 88% instances), <tt><a href="vi_vtb-pos-ADP.html">ADP</a></tt> (3; 6% instances), <tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> (2; 4% instances), <tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt> (1; 2% instances)
 

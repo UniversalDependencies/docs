@@ -38,11 +38,11 @@ The following 3 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 3	fgColor:white
 # visual-style 3 2 acl	color:blue
 1	ɨβakɨpe	ok	NOUN	n	Case=Loc|Int=Yes	2	obl	_	_
-2	ojkoβaʔe	ikó	NOUN	n	Nomzr=Rel|Person=3	3	acl	_	_
+2	ojkoβaʔe	iko	NOUN	n	Nomzr=Rel|Person=3	3	acl	_	_
 3	moete	ete	VERB	v	Voice=Cau	4	obl	_	_
 4	jaβepe	jaβe	SCONJ	sconj	Int=Yes	7	advcl	_	_
 5	ase	ase	PRON	pro	PronType=Prs	7	nsubj	_	_
-6	saʔangaβa	aʔang	NOUN	n	Case=Ref|Nomzr=Circ	7	obj	_	_
+6	saʔaŋaβa	aʔaŋ	NOUN	n	Case=Ref|Nomzr=Circ	7	obj	_	_
 7	moetew	ete	NOUN	n	NonFoc=Yes|Voice=Cau	0	root	_	_
 8	?	?	PUNCT	punct	_	7	punct	_	_
 
@@ -55,7 +55,7 @@ The following 3 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 acl	color:blue
-1	kujãangaturama	kujãangaturama	NOUN	n	Case=Ref|Tense=Fut	6	nmod	_	_
+1	kujãaŋaturama	kujãaŋaturama	NOUN	n	Case=Ref|Tense=Fut	6	nmod	_	_
 2	aβa	aβa	NOUN	n	_	3	nmod	_	_
 3	βɨkawereʔɨma	βɨ	NOUN	n	Case=Ref|Polarity=Neg|Tense=Past	1	appos	_	_
 4	SantaMaria	SantaMaria	PROPN	propn	_	1	appos	_	_

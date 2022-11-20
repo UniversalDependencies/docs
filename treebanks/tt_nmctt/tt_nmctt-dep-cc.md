@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-39 nodes (3%) are attached to their parents as `cc`.
+57 nodes (3%) are attached to their parents as `cc`.
 
-38 instances of `cc` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.02564102564103.
+56 instances of `cc` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.75438596491228.
 
-The following 6 pairs of parts of speech are connected with `cc`: <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-CCONJ.html">CCONJ</a></tt> (17; 44% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-CCONJ.html">CCONJ</a></tt> (10; 26% instances), <tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tt_nmctt-pos-CCONJ.html">CCONJ</a></tt> (7; 18% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-SCONJ.html">SCONJ</a></tt> (3; 8% instances), <tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tt_nmctt-pos-SCONJ.html">SCONJ</a></tt> (1; 3% instances), <tt><a href="tt_nmctt-pos-ADV.html">ADV</a></tt>-<tt><a href="tt_nmctt-pos-CCONJ.html">CCONJ</a></tt> (1; 3% instances).
+The following 6 pairs of parts of speech are connected with `cc`: <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-CCONJ.html">CCONJ</a></tt> (29; 51% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-CCONJ.html">CCONJ</a></tt> (16; 28% instances), <tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tt_nmctt-pos-CCONJ.html">CCONJ</a></tt> (7; 12% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-SCONJ.html">SCONJ</a></tt> (3; 5% instances), <tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tt_nmctt-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances), <tt><a href="tt_nmctt-pos-ADV.html">ADV</a></tt>-<tt><a href="tt_nmctt-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

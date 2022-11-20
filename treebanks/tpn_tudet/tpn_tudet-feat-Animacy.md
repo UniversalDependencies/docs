@@ -23,7 +23,7 @@ The most frequent other feature values with which `VERB` and `Animacy` co-occurr
 `VERB` tokens may have the following values of `Animacy`:
 
 * `Hum` (2; 100% of non-empty `Animacy`): <em>oporomoʔeβo, toporepejan</em>
-* `EMPTY` (647): <em>eʔi, ojaβo, eʔipe, aso, oso, rawsupa, Ejori, Ojaoβok, ajmono, jori</em>
+* `EMPTY` (690): <em>eʔi, ojaβo, eʔipe, aimono, aso, neʔi, oso, rawsupa, witekoβo, Ejori</em>
 
 ### `NOUN`
 
@@ -34,5 +34,5 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
 `NOUN` tokens may have the following values of `Animacy`:
 
 * `Hum` (1; 100% of non-empty `Animacy`): <em>moroepjakape</em>
-* `EMPTY` (1328): <em>aβa, janejara, taβa, maʔe, paʔi, Tupã, apɨaβa, cruz, seko, teko</em>
+* `EMPTY` (1435): <em>aβa, janejara, maʔe, taβa, paʔi, Tupã, apɨaβa, cruz, seko, teko</em>
 

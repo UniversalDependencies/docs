@@ -11,7 +11,7 @@ This relation is universal.
 888 nodes (9%) are attached to their parents as `root`.
 
 888 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.81644144144144.
+Average distance between parent and child is 3.81756756756757.
 
 The following 8 pairs of parts of speech are connected with `root`: -<tt><a href="br_keb-pos-VERB.html">VERB</a></tt> (644; 73% instances), -<tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt> (121; 14% instances), -<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> (77; 9% instances), -<tt><a href="br_keb-pos-ADV.html">ADV</a></tt> (16; 2% instances), -<tt><a href="br_keb-pos-PRON.html">PRON</a></tt> (16; 2% instances), -<tt><a href="br_keb-pos-PROPN.html">PROPN</a></tt> (8; 1% instances), -<tt><a href="br_keb-pos-NUM.html">NUM</a></tt> (5; 1% instances), -<tt><a href="br_keb-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
 

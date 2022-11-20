@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-48 nodes (0%) are attached to their parents as `csubj`.
+54 nodes (0%) are attached to their parents as `csubj`.
 
-32 instances of `csubj` (67%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.6875.
+37 instances of `csubj` (69%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.88888888888889.
 
-The following 6 pairs of parts of speech are connected with `csubj`: <tt><a href="it_markit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_markit-pos-VERB.html">VERB</a></tt> (28; 58% instances), <tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_markit-pos-VERB.html">VERB</a></tt> (12; 25% instances), <tt><a href="it_markit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_markit-pos-VERB.html">VERB</a></tt> (5; 10% instances), <tt><a href="it_markit-pos-ADV.html">ADV</a></tt>-<tt><a href="it_markit-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="it_markit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_markit-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="it_markit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
+The following 6 pairs of parts of speech are connected with `csubj`: <tt><a href="it_markit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_markit-pos-VERB.html">VERB</a></tt> (30; 56% instances), <tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_markit-pos-VERB.html">VERB</a></tt> (14; 26% instances), <tt><a href="it_markit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_markit-pos-VERB.html">VERB</a></tt> (6; 11% instances), <tt><a href="it_markit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_markit-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="it_markit-pos-ADV.html">ADV</a></tt>-<tt><a href="it_markit-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="it_markit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

@@ -11,20 +11,20 @@ It occurs with 2 different values: `Fem`, `Masc`.
 
 109124 tokens (48%) have a non-empty value of `Gender`.
 18847 types (73%) occur at least once with a non-empty value of `Gender`.
-14482 lemmas (80%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 13 part-of-speech tags: <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (41214; 18% instances), <tt><a href="pt_bosque-pos-DET.html">DET</a></tt> (34573; 15% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (11542; 5% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> (11328; 5% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (6715; 3% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (3537; 2% instances), <tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (165; 0% instances), <tt><a href="pt_bosque-pos-X.html">X</a></tt> (17; 0% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (14; 0% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (9; 0% instances), <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="pt_bosque-pos-PART.html">PART</a></tt> (1; 0% instances).
+14467 lemmas (80%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 13 part-of-speech tags: <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (41219; 18% instances), <tt><a href="pt_bosque-pos-DET.html">DET</a></tt> (34573; 15% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (11532; 5% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> (11334; 5% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (6713; 3% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (3537; 2% instances), <tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (166; 0% instances), <tt><a href="pt_bosque-pos-X.html">X</a></tt> (17; 0% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (14; 0% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (9; 0% instances), <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="pt_bosque-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-41214 <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Gender`.
+41219 <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (29540; 72%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (29541; 72%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
-* `Fem` (18806; 46% of non-empty `Gender`): <em>pessoas, parte, semana, vez, empresa, forma, empresas, casa, cidade, vida</em>
-* `Masc` (22408; 54% of non-empty `Gender`): <em>anos, presidente, ano, dia, país, estado, tempo, contos, grupo, governo</em>
-* `EMPTY` (165): <em>partir, especialistas, representantes, jornalistas, jovens, estudantes, habitantes, par, visitantes, Aveiro</em>
+* `Fem` (18805; 46% of non-empty `Gender`): <em>pessoas, parte, semana, vez, empresa, forma, empresas, cidade, casa, vida</em>
+* `Masc` (22414; 54% of non-empty `Gender`): <em>anos, presidente, ano, dia, país, estado, tempo, contos, grupo, governo</em>
+* `EMPTY` (167): <em>partir, especialistas, representantes, jornalistas, jovens, estudantes, habitantes, par, visitantes, Aveiro</em>
 
 <table>
   <tr><th>Paradigm <i>dia</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -32,7 +32,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
   <tr><td><tt><tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>dias</em></td><td></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 97% lemmas (6578) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 98% lemmas (6592) occur only with one value of `Gender`.
 
 ### `DET`
 
@@ -63,15 +63,15 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 ### `PROPN`
 
-11542 <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> tokens (61% of all `PROPN` tokens) have a non-empty value of `Gender`.
+11532 <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> tokens (61% of all `PROPN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PROPN` and `Gender` co-occurred: <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11124; 96%), <tt><a href="pt_bosque-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (7645; 66%).
+The most frequent other feature values with which `PROPN` and `Gender` co-occurred: <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11116; 96%), <tt><a href="pt_bosque-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (7641; 66%).
 
 `PROPN` tokens may have the following values of `Gender`:
 
-* `Fem` (3761; 33% of non-empty `Gender`): <em>Lisboa, Folha, Câmara, Alemanha, França, Comissão, Espanha, Europa, Rússia, Itália</em>
-* `Masc` (7781; 67% of non-empty `Gender`): <em>São, Portugal, Brasil, José, Governo, EUA, Rio, Estados, João, PÚBLICO</em>
-* `EMPTY` (7239): <em>Paulo, Nacional, Unidos, Silva, Porto, Henrique, Lisboa, Sul, Costa, República</em>
+* `Fem` (3757; 33% of non-empty `Gender`): <em>Lisboa, Folha, Câmara, Alemanha, França, Comissão, Espanha, Europa, Rússia, Itália</em>
+* `Masc` (7775; 67% of non-empty `Gender`): <em>São, Portugal, Brasil, José, Governo, EUA, Rio, Estados, João, PÚBLICO</em>
+* `EMPTY` (7229): <em>Paulo, Nacional, Unidos, Silva, Porto, Henrique, Lisboa, Sul, Costa, República</em>
 
 <table>
   <tr><th>Paradigm <i>São</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -82,19 +82,19 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
   <tr><td><tt><tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>São</em></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `PROPN`. 95% lemmas (4384) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `PROPN`. 95% lemmas (4385) occur only with one value of `Gender`.
 
 ### `ADJ`
 
-11328 <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Gender`.
+11334 <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8172; 72%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8180; 72%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
-* `Fem` (5195; 46% of non-empty `Gender`): <em>primeira, nova, maior, grande, última, mesma, segunda, boa, política, passada</em>
-* `Masc` (6133; 54% of non-empty `Gender`): <em>primeiro, novo, mesmo, passado, último, segundo, últimos, bom, maior, grande</em>
-* `EMPTY` (60): <em>melhor, capaz, Nacional, contente, especial, favorável, inconvenientes, jovens, mole, Aérea</em>
+* `Fem` (5209; 46% of non-empty `Gender`): <em>primeira, nova, maior, grande, última, mesma, boa, segunda, política, passada</em>
+* `Masc` (6125; 54% of non-empty `Gender`): <em>primeiro, novo, mesmo, passado, último, segundo, últimos, bom, maior, grande</em>
+* `EMPTY` (62): <em>melhor, capaz, Aérea, Nacional, contente, especial, favorável, inconvenientes, jovens, mole</em>
 
 <table>
   <tr><th>Paradigm <i>grande</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -106,14 +106,14 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 ### `PRON`
 
-6715 <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> tokens (90% of all `PRON` tokens) have a non-empty value of `Gender`.
+6713 <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> tokens (90% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4951; 74%), <tt><a href="pt_bosque-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4724; 70%), <tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4572; 68%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4951; 74%), <tt><a href="pt_bosque-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4722; 70%), <tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4570; 68%).
 
 `PRON` tokens may have the following values of `Gender`:
 
-* `Fem` (1962; 29% of non-empty `Gender`): <em>que, se, a, ela, onde, as, elas, esta, lhe, eu</em>
-* `Masc` (4753; 71% of non-empty `Gender`): <em>que, se, o, ele, isso, tudo, eles, os, lhe, onde</em>
+* `Fem` (1961; 29% of non-empty `Gender`): <em>que, se, a, ela, onde, as, elas, esta, lhe, eu</em>
+* `Masc` (4752; 71% of non-empty `Gender`): <em>que, se, o, ele, isso, tudo, eles, os, lhe, onde</em>
 * `EMPTY` (753): <em>se, quem, me, nos, que, eu, você, nós, si, onde</em>
 
 <table>
@@ -151,17 +151,17 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 
 ### `NUM`
 
-165 <tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> tokens (4% of all `NUM` tokens) have a non-empty value of `Gender`.
+166 <tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> tokens (4% of all `NUM` tokens) have a non-empty value of `Gender`.
 
 The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="pt_bosque-feat-NumType.html">NumType</a></tt><tt>=Mult</tt> (131; 79%).
 
 `NUM` tokens may have the following values of `Gender`:
 
 * `Fem` (5; 3% of non-empty `Gender`): <em>dezenas, 13, 16, 4ª</em>
-* `Masc` (160; 97% of non-empty `Gender`): <em>cento, milhões, meia, dúzia, milhares, 1, 1., 14,667, 185/60, Mil</em>
+* `Masc` (161; 97% of non-empty `Gender`): <em>cento, milhões, meia, dúzia, milhares, 1, 1., 14,667, 185/60, Mil</em>
 * `EMPTY` (4494): <em>um, dois, três, mil, milhões, uma, duas, quatro, cinco, 15</em>
 
-`Gender` seems to be **lexical feature** of `NUM`. 100% lemmas (20) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NUM`. 100% lemmas (21) occur only with one value of `Gender`.
 
 ### `X`
 
@@ -205,7 +205,7 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 `AUX` tokens may have the following values of `Gender`:
 
 * `Masc` (9; 100% of non-empty `Gender`): <em>sido</em>
-* `EMPTY` (5017): <em>é, foi, ser, são, está, foram, vai, era, ter, será</em>
+* `EMPTY` (5018): <em>é, foi, ser, são, está, foram, vai, era, ter, será</em>
 
 ### `SCONJ`
 
@@ -215,7 +215,7 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 
 * `Fem` (3; 50% of non-empty `Gender`): <em>Uma, que, uns</em>
 * `Masc` (3; 50% of non-empty `Gender`): <em>que</em>
-* `EMPTY` (5351): <em>que, a, de, para, se, porque, como, por, em, quando</em>
+* `EMPTY` (5352): <em>que, a, de, para, se, porque, como, por, em, quando</em>
 
 <table>
   <tr><th>Paradigm <i>que</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -230,7 +230,7 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 `ADP` tokens may have the following values of `Gender`:
 
 * `Masc` (3; 100% of non-empty `Gender`): <em>de, que</em>
-* `EMPTY` (33779): <em>de, em, a, por, com, para, como, entre, sobre, até</em>
+* `EMPTY` (33781): <em>de, em, a, por, com, para, como, entre, sobre, até</em>
 
 ### `PART`
 
@@ -246,14 +246,14 @@ The most frequent other feature values with which `PART` and `Gender` co-occurre
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="pt_bosque-dep-det.html">det</a></tt>]--> DET</tt> (28278; 100%),
-<tt>NOUN --[<tt><a href="pt_bosque-dep-amod.html">amod</a></tt>]--> ADJ</tt> (8989; 100%),
-<tt>PROPN --[<tt><a href="pt_bosque-dep-det.html">det</a></tt>]--> DET</tt> (4459; 81%),
+<tt>NOUN --[<tt><a href="pt_bosque-dep-det.html">det</a></tt>]--> DET</tt> (28279; 100%),
+<tt>NOUN --[<tt><a href="pt_bosque-dep-amod.html">amod</a></tt>]--> ADJ</tt> (8996; 100%),
+<tt>PROPN --[<tt><a href="pt_bosque-dep-det.html">det</a></tt>]--> DET</tt> (4456; 81%),
 <tt>NOUN --[<tt><a href="pt_bosque-dep-acl.html">acl</a></tt>]--> VERB</tt> (1597; 67%),
-<tt>NOUN --[<tt><a href="pt_bosque-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1384; 61%),
-<tt>NOUN --[<tt><a href="pt_bosque-dep-appos.html">appos</a></tt>]--> PROPN</tt> (1216; 89%),
+<tt>NOUN --[<tt><a href="pt_bosque-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1383; 60%),
+<tt>NOUN --[<tt><a href="pt_bosque-dep-appos.html">appos</a></tt>]--> PROPN</tt> (1215; 90%),
 <tt>PROPN --[<tt><a href="pt_bosque-dep-conj.html">conj</a></tt>]--> PROPN</tt> (811; 75%),
 <tt>VERB --[<tt><a href="pt_bosque-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (572; 79%),
-<tt>ADJ --[<tt><a href="pt_bosque-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (434; 96%),
+<tt>ADJ --[<tt><a href="pt_bosque-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (435; 97%),
 <tt>ADJ --[<tt><a href="pt_bosque-dep-conj.html">conj</a></tt>]--> ADJ</tt> (385; 98%).
 

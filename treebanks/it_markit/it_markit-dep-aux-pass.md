@@ -29,7 +29,7 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 5	a	a	ADP	E	_	8	mark	_	_
 6	dover	dovere	AUX	VM	VerbForm=Inf	8	aux	_	_
 7	essere	essere	AUX	VA	VerbForm=Inf	8	aux:pass	_	_
-8	arrabbiati	arrabbiare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	4	acl	_	_
+8	arrabbiati	arrabbiare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	4	xcomp	_	_
 9	?	?	PUNCT	FS	_	4	punct	_	_
 
 ~~~
@@ -89,19 +89,19 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 20	bgColor:blue
 # visual-style 20	fgColor:white
 # visual-style 20 19 aux:pass	color:blue
-1	Ma	ma	CCONJ	CC	_	8	cc	_	_
-2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+1	Ma	ma	CCONJ	CC	_	11	cc	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
 3	proprio	proprio	ADV	B	_	8	advmod	_	_
 4	a	a	ADP	E	_	8	case	_	_
 5	seguito	seguito	NOUN	S	Gender=Masc|Number=Sing	4	fixed	_	_
 6	di	di	ADP	E	_	8	case	_	_
 7	queste	questo	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	8	det	_	_
-8	scoperte	scoperta	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+8	scoperte	scoperta	NOUN	S	Gender=Fem|Number=Plur	11	obl	_	_
 9	che	che	SCONJ	CS	_	11	mark	_	_
 10	ci	ci	PRON	PC	Clitic=Yes|Gender=Fem|Number=Plur|Person=1|PronType=Prs	11	expl	_	_
-11	viene	venire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl	_	_
+11	viene	venire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 12	automatico	automatico	ADJ	A	Gender=Masc|Number=Sing	11	xcomp	_	_
-13	chieder	chiedere	VERB	V	VerbForm=Inf	12	acl	_	_
+13	chieder	chiedere	VERB	V	VerbForm=Inf	11	csubj	_	_
 14	ci	ci	PRON	PC	Clitic=Yes|Gender=Fem|Number=Plur|Person=1|PronType=Prs	13	iobj	_	_
 15	fino	fino	ADV	B	_	18	case	_	_
 16	a	a	ADP	E	_	15	fixed	_	_
@@ -115,7 +115,7 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 24	in	in	ADP	E	_	26	case	_	_
 25	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	26	det	_	_
 26	direzione	direzione	NOUN	S	Gender=Fem|Number=Sing	20	obl	_	_
-27	?	?	PUNCT	FS	_	8	punct	_	_
+27	?	?	PUNCT	FS	_	11	punct	_	_
 
 ~~~
 

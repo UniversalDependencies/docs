@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Anim`, `Inan`.
 
-98490 tokens (32%) have a non-empty value of `Animacy`.
+98494 tokens (32%) have a non-empty value of `Animacy`.
 28328 types (55%) occur at least once with a non-empty value of `Animacy`.
 14064 lemmas (48%) occur at least once with a non-empty value of `Animacy`.
-The feature is used with 10 part-of-speech tags: <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (71307; 23% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> (18880; 6% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (3174; 1% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (3036; 1% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt> (1386; 0% instances), <tt><a href="be_hse-pos-NUM.html">NUM</a></tt> (534; 0% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (162; 0% instances), <tt><a href="be_hse-pos-SYM.html">SYM</a></tt> (8; 0% instances), <tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The feature is used with 10 part-of-speech tags: <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (71307; 23% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> (18880; 6% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (3174; 1% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (3039; 1% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt> (1387; 0% instances), <tt><a href="be_hse-pos-NUM.html">NUM</a></tt> (534; 0% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (162; 0% instances), <tt><a href="be_hse-pos-SYM.html">SYM</a></tt> (8; 0% instances), <tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -94,15 +94,15 @@ The most frequent other feature values with which `PRON` and `Animacy` co-occurr
 
 ### `ADJ`
 
-3036 <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> tokens (11% of all `ADJ` tokens) have a non-empty value of `Animacy`.
+3039 <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> tokens (11% of all `ADJ` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `ADJ` and `Animacy` co-occurred: <tt><a href="be_hse-feat-Case.html">Case</a></tt><tt>=Acc</tt> (3034; 100%), <tt><a href="be_hse-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (2991; 99%), <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1761; 58%).
+The most frequent other feature values with which `ADJ` and `Animacy` co-occurred: <tt><a href="be_hse-feat-Case.html">Case</a></tt><tt>=Acc</tt> (3037; 100%), <tt><a href="be_hse-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (2994; 99%), <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1764; 58%).
 
 `ADJ` tokens may have the following values of `Animacy`:
 
 * `Anim` (282; 9% of non-empty `Animacy`): <em>беларускіх, былога, маладых, новага, неабыякавых, 3-месячнага, альтэрнатыўных, беларускага, беларускамоўных, блізкіх</em>
-* `Inan` (2754; 91% of non-empty `Animacy`): <em>новы, першы, апошнія, новыя, беларускія, другі, розныя, апошні, вялікі, наступны</em>
-* `EMPTY` (23775): <em>беларускай, надзвычайных, беларускіх, беларускую, беларуская, беларускі, беларускага, 2019, новы, вядома</em>
+* `Inan` (2757; 91% of non-empty `Animacy`): <em>новы, першы, апошнія, новыя, беларускія, другі, розныя, апошні, вялікі, наступны</em>
+* `EMPTY` (23772): <em>беларускай, надзвычайных, беларускіх, беларускую, беларуская, беларускі, беларускага, 2019, новы, вядома</em>
 
 <table>
   <tr><th>Paradigm <i>беларускі</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -115,15 +115,15 @@ The most frequent other feature values with which `ADJ` and `Animacy` co-occurre
 
 ### `DET`
 
-1386 <tt><a href="be_hse-pos-DET.html">DET</a></tt> tokens (21% of all `DET` tokens) have a non-empty value of `Animacy`.
+1387 <tt><a href="be_hse-pos-DET.html">DET</a></tt> tokens (21% of all `DET` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `DET` and `Animacy` co-occurred: <tt><a href="be_hse-feat-Case.html">Case</a></tt><tt>=Acc</tt> (1385; 100%), <tt><a href="be_hse-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (1065; 77%), <tt><a href="be_hse-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (844; 61%), <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (836; 60%).
+The most frequent other feature values with which `DET` and `Animacy` co-occurred: <tt><a href="be_hse-feat-Case.html">Case</a></tt><tt>=Acc</tt> (1386; 100%), <tt><a href="be_hse-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (1066; 77%), <tt><a href="be_hse-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (845; 61%), <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (837; 60%).
 
 `DET` tokens may have the following values of `Animacy`:
 
 * `Anim` (172; 12% of non-empty `Animacy`): <em>сваіх, свайго, усіх, тых, нашага, аднаго, нашых, іншых, кожнага, ўсіх</em>
-* `Inan` (1214; 88% of non-empty `Animacy`): <em>свой, гэты, свае, наш, той, сваё, іншыя, гэтыя, ўсе, кожны</em>
-* `EMPTY` (5345): <em>яго, яе, наш, сваю, іх, тым, сваёй, нашай, гэтым, іншых</em>
+* `Inan` (1215; 88% of non-empty `Animacy`): <em>свой, гэты, свае, наш, той, сваё, іншыя, гэтыя, ўсе, кожны</em>
+* `EMPTY` (5344): <em>яго, яе, наш, сваю, іх, тым, сваёй, нашай, гэтым, іншых</em>
 
 <table>
   <tr><th>Paradigm <i>наш</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -200,10 +200,10 @@ The 10 most frequent relations where parent and child node agree in `Animacy`:
 <tt>NOUN --[<tt><a href="be_hse-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (13828; 74%),
 <tt>NOUN --[<tt><a href="be_hse-dep-conj.html">conj</a></tt>]--> NOUN</tt> (4433; 92%),
 <tt>PROPN --[<tt><a href="be_hse-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (3636; 97%),
-<tt>NOUN --[<tt><a href="be_hse-dep-appos.html">appos</a></tt>]--> PROPN</tt> (1986; 84%),
+<tt>NOUN --[<tt><a href="be_hse-dep-appos.html">appos</a></tt>]--> PROPN</tt> (1987; 84%),
 <tt>NOUN --[<tt><a href="be_hse-dep-appos.html">appos</a></tt>]--> NOUN</tt> (1065; 86%),
 <tt>PROPN --[<tt><a href="be_hse-dep-conj.html">conj</a></tt>]--> PROPN</tt> (996; 95%),
-<tt>NOUN --[<tt><a href="be_hse-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (607; 74%),
+<tt>NOUN --[<tt><a href="be_hse-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (606; 74%),
 <tt>NOUN --[<tt><a href="be_hse-dep-parataxis.html">parataxis</a></tt>]--> NOUN</tt> (381; 73%),
 <tt>NOUN --[<tt><a href="be_hse-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (286; 59%),
 <tt>PROPN --[<tt><a href="be_hse-dep-appos.html">appos</a></tt>]--> NOUN</tt> (237; 93%).

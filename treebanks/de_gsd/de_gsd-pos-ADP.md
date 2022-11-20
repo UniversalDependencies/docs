@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_German-GSD: POS Tags: `ADP`
 
-There are 143 `ADP` lemmas (0%), 146 `ADP` types (0%) and 32104 `ADP` tokens (11%).
+There are 142 `ADP` lemmas (0%), 145 `ADP` types (0%) and 32104 `ADP` tokens (11%).
 Out of 17 observed tags, the rank of `ADP` is: 8 in number of lemmas, 9 in number of types and 4 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>in, von, mit, zu, an, auf, für, als, nach, bei</em>
@@ -67,7 +67,7 @@ The 10 most frequent ambiguous types:  <em>in</em> (<tt><a href="de_gsd-pos-ADP.
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.020979 (the average of all parts of speech is 1.187208).
+The form / lemma ratio of `ADP` is 1.021127 (the average of all parts of speech is 1.187276).
 
 The 1st highest number of forms (2) was observed with the lemma “anläßlich”: <em>anlässlich, anläßlich</em>.
 

@@ -64,14 +64,14 @@ The following 10 pairs of parts of speech are connected with `dislocated`: <tt><
 3	однакові	однаковий	ADJ	Ao--pns	Case=Nom|Number=Plur	0	root	0:root	Id=1k4a|LTranslit=odnakovyj|Promoted=Yes|SpaceAfter=No|Translit=odnakovi
 4	,	,	PUNCT	U	_	6	punct	6:punct	Id=1k4b|LTranslit=,|Translit=,
 5	і	і	CCONJ	Ccs	_	6	cc	6:cc	Id=1k4c|LTranslit=i|Translit=i
-6	ті	той	DET	Pd----pna	Case=Nom|Number=Plur|PronType=Dem	3	dislocated	3:dislocated|10:nsubj:rel	Id=1k4d|LTranslit=toj|SpaceAfter=No|Translit=ti
+6	ті	той	DET	Pd----pna	Case=Nom|Number=Plur|PronType=Dem	3	dislocated	3:dislocated|10:nsubj	Id=1k4d|LTranslit=toj|SpaceAfter=No|Translit=ti
 7	,	,	PUNCT	U	_	10	punct	10:punct	Id=1k4e|LTranslit=,|Translit=,
 8	що	що	SCONJ	Css	_	10	mark	10:mark	Id=1k4f|LTranslit=ščo|Translit=ščo
 9	УНР	УНР	PROPN	Y	Abbr=Yes|Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing|Uninflect=Yes	10	obj	10:obj	Id=1k4g|LTranslit=UNR|Translit=UNR
 10	будували	будувати	VERB	Vmpis-p	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	6	acl:relcl	6:acl:relcl	Id=1k4h|LTranslit=buduvaty|SpaceAfter=No|Translit=buduvaly
 11	,	,	PUNCT	U	_	13	punct	13:punct	Id=1k4i|LTranslit=,|Translit=,
 12	і	і	CCONJ	Ccs	_	13	cc	13:cc	Id=1k4j|LTranslit=i|Translit=i
-13	ті	той	DET	Pd----pna	Case=Nom|Number=Plur|PronType=Dem	6	conj	3:dislocated|6:conj|10:nsubj:rel|19:nsubj:rel	Id=1k4k|LTranslit=toj|SpaceAfter=No|Translit=ti
+13	ті	той	DET	Pd----pna	Case=Nom|Number=Plur|PronType=Dem	6	conj	3:dislocated|6:conj|10:nsubj|19:nsubj	Id=1k4k|LTranslit=toj|SpaceAfter=No|Translit=ti
 14	,	,	PUNCT	U	_	19	punct	19:punct	Id=1k4l|LTranslit=,|Translit=,
 15	що	що	SCONJ	Css	_	19	mark	19:mark	Id=1k4m|LTranslit=ščo|Translit=ščo
 16	до	до	ADP	Spsg	Case=Gen	17	case	17:case	Id=1k4n|LTranslit=do|Translit=do

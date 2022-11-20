@@ -43,7 +43,7 @@ The following 3 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 10	fgColor:white
 # visual-style 10 12 orphan	color:blue
 1	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	SpaceAfter=No
-2	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux:tense	_	_
 3	été	être	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 4	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	an	an	NOUN	_	Gender=Masc|Number=Sing	3	obl:mod	_	_
@@ -55,25 +55,25 @@ The following 3 pairs of parts of speech are connected with `orphan`: <tt><a hre
 11	à	à	ADP	_	_	12	case	_	_
 12	Porto	Porto	PROPN	_	_	10	orphan	_	_
 13	dans	dans	ADP	_	_	14	dep:comp	_	_
-14	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	3	dep	_	SpaceAfter=No
+14	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	18	reparandum	_	SpaceAfter=No
 15	,	,	PUNCT	_	_	18	punct	_	_
 16	dans	dans	ADP	_	_	18	case	_	_
 17	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	18	det	_	_
-18	collèges	collège	NOUN	_	Gender=Masc|Number=Plur	14	reparandum	_	_
+18	collèges	collège	NOUN	_	Gender=Masc|Number=Plur	3	obl:mod	_	_
 19	et	et	CCONJ	_	_	21	cc	_	_
 20	dans	dans	ADP	_	_	21	dep:comp	_	_
-21	des	un	DET	de	Definite=Ind|Number=Plur|PronType=Art	18	conj	_	SpaceAfter=No
+21	des	un	DET	de	Definite=Ind|Number=Plur|PronType=Art	25	reparandum	_	SpaceAfter=No
 22	,	,	PUNCT	_	_	25	punct	_	_
 23	dans	dans	ADP	_	_	25	case	_	_
 24	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	25	det	_	_
-25	primaires	primaire	NOUN	_	Gender=Fem|Number=Plur	21	reparandum	_	_
-26	portu~	portu~	ADJ	_	_	25	amod	_	SpaceAfter=No
+25	primaires	primaire	NOUN	_	Gender=Fem|Number=Plur	18	conj	_	_
+26	portu~	portu~	ADJ	_	_	32	reparandum	_	SpaceAfter=No
 27	,	,	PUNCT	_	_	28	punct	_	_
 28	euh	euh	INTJ	_	_	26	discourse	_	SpaceAfter=No
 29	,	,	PUNCT	_	_	30	punct	_	_
 30	enfin	enfin	ADV	_	_	26	discourse	_	SpaceAfter=No
 31	,	,	PUNCT	_	_	32	punct	_	_
-32	françaises	français	ADJ	conj:reform	Gender=Fem|Number=Plur	26	reparandum	_	SpaceAfter=No
+32	françaises	français	ADJ	conj:reform	Gender=Fem|Number=Plur	25	amod	_	SpaceAfter=No
 33	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~

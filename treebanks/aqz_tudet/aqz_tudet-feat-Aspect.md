@@ -9,20 +9,20 @@ udver: '2'
 This feature is universal but the values `Hab`, `Iter` are language-specific.
 It occurs with 2 different values: `Hab`, `Iter`.
 
-4 tokens (0%) have a non-empty value of `Aspect`.
-4 types (1%) occur at least once with a non-empty value of `Aspect`.
-4 lemmas (1%) occur at least once with a non-empty value of `Aspect`.
-The feature is used with 1 part-of-speech tags: <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> (4; 0% instances).
+11 tokens (1%) have a non-empty value of `Aspect`.
+7 types (1%) occur at least once with a non-empty value of `Aspect`.
+6 lemmas (2%) occur at least once with a non-empty value of `Aspect`.
+The feature is used with 1 part-of-speech tags: <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> (11; 1% instances).
 
 ### `VERB`
 
-4 <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> tokens (2% of all `VERB` tokens) have a non-empty value of `Aspect`.
+11 <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> tokens (4% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="aqz_tudet-feat-Tv.html">Tv</a></tt><tt>=Yes</tt> (3; 75%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="aqz_tudet-feat-Trans.html">Trans</a></tt><tt>=EMPTY</tt> (10; 91%), <tt><a href="aqz_tudet-feat-Tv.html">Tv</a></tt><tt>=Yes</tt> (9; 82%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
-* `Hab` (3; 75% of non-empty `Aspect`): <em>kitʃetara, koara, oetara</em>
-* `Iter` (1; 25% of non-empty `Aspect`): <em>ikiramkwatekwa</em>
-* `EMPTY` (201): <em>koa, ata, teita, tʃopa, at, put, aj, ko, mãpara, apeka</em>
+* `Hab` (10; 91% of non-empty `Aspect`): <em>koara, oetara, mira, etʃetara, kitʃetara, teipara</em>
+* `Iter` (1; 9% of non-empty `Aspect`): <em>ikiramkwatekwa</em>
+* `EMPTY` (267): <em>koa, ata, teita, tʃopa, at, ka, put, õkwa, aj, ikoa</em>
 

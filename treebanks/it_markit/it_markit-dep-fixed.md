@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-193 nodes (0%) are attached to their parents as `fixed`.
+192 nodes (0%) are attached to their parents as `fixed`.
 
-193 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.02072538860104.
+192 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.015625.
 
-The following 19 pairs of parts of speech are connected with `fixed`: <tt><a href="it_markit-pos-ADV.html">ADV</a></tt>-<tt><a href="it_markit-pos-ADP.html">ADP</a></tt> (68; 35% instances), <tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_markit-pos-ADP.html">ADP</a></tt> (40; 21% instances), <tt><a href="it_markit-pos-ADV.html">ADV</a></tt>-<tt><a href="it_markit-pos-SCONJ.html">SCONJ</a></tt> (24; 12% instances), <tt><a href="it_markit-pos-ADP.html">ADP</a></tt>-<tt><a href="it_markit-pos-ADP.html">ADP</a></tt> (22; 11% instances), <tt><a href="it_markit-pos-ADP.html">ADP</a></tt>-<tt><a href="it_markit-pos-ADV.html">ADV</a></tt> (10; 5% instances), <tt><a href="it_markit-pos-ADP.html">ADP</a></tt>-<tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt> (8; 4% instances), <tt><a href="it_markit-pos-ADP.html">ADP</a></tt>-<tt><a href="it_markit-pos-SCONJ.html">SCONJ</a></tt> (5; 3% instances), <tt><a href="it_markit-pos-ADV.html">ADV</a></tt>-<tt><a href="it_markit-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="it_markit-pos-ADP.html">ADP</a></tt>-<tt><a href="it_markit-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="it_markit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_markit-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="it_markit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_markit-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="it_markit-pos-ADP.html">ADP</a></tt>-<tt><a href="it_markit-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="it_markit-pos-ADV.html">ADV</a></tt>-<tt><a href="it_markit-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="it_markit-pos-ADV.html">ADV</a></tt>-<tt><a href="it_markit-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_markit-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="it_markit-pos-PRON.html">PRON</a></tt>-<tt><a href="it_markit-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="it_markit-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="it_markit-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="it_markit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 19 pairs of parts of speech are connected with `fixed`: <tt><a href="it_markit-pos-ADV.html">ADV</a></tt>-<tt><a href="it_markit-pos-ADP.html">ADP</a></tt> (67; 35% instances), <tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_markit-pos-ADP.html">ADP</a></tt> (40; 21% instances), <tt><a href="it_markit-pos-ADV.html">ADV</a></tt>-<tt><a href="it_markit-pos-SCONJ.html">SCONJ</a></tt> (23; 12% instances), <tt><a href="it_markit-pos-ADP.html">ADP</a></tt>-<tt><a href="it_markit-pos-ADP.html">ADP</a></tt> (22; 11% instances), <tt><a href="it_markit-pos-ADP.html">ADP</a></tt>-<tt><a href="it_markit-pos-ADV.html">ADV</a></tt> (10; 5% instances), <tt><a href="it_markit-pos-ADP.html">ADP</a></tt>-<tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt> (8; 4% instances), <tt><a href="it_markit-pos-ADP.html">ADP</a></tt>-<tt><a href="it_markit-pos-SCONJ.html">SCONJ</a></tt> (6; 3% instances), <tt><a href="it_markit-pos-ADV.html">ADV</a></tt>-<tt><a href="it_markit-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="it_markit-pos-ADP.html">ADP</a></tt>-<tt><a href="it_markit-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="it_markit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_markit-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="it_markit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_markit-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="it_markit-pos-ADP.html">ADP</a></tt>-<tt><a href="it_markit-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="it_markit-pos-ADV.html">ADV</a></tt>-<tt><a href="it_markit-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="it_markit-pos-ADV.html">ADV</a></tt>-<tt><a href="it_markit-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_markit-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="it_markit-pos-PRON.html">PRON</a></tt>-<tt><a href="it_markit-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="it_markit-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="it_markit-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="it_markit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -41,11 +41,11 @@ The following 19 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 fixed	color:blue
-1	È	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+1	È	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
 2	grazie	grazie	NOUN	S	Gender=Masc|Number=Sing	5	case	_	_
 3	a	a	ADP	E	_	2	fixed	_	_
 4	degli	dei	DET	RI	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
-5	scienziati	scienziato	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+5	scienziati	scienziato	NOUN	S	Gender=Masc|Number=Plur	15	obl	_	_
 6	come	come	ADP	E	_	7	case	_	_
 7	Galileo	Galileo	PROPN	SP	_	5	nmod	_	_
 8	che	che	SCONJ	CS	_	15	mark	_	_
@@ -55,11 +55,11 @@ The following 19 pairs of parts of speech are connected with `fixed`: <tt><a hre
 12	d'	di	ADP	E	_	13	case	_	_
 13	oggi	oggi	ADV	B	_	11	advmod	_	_
 14	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
-15	possibile	possibile	ADJ	A	Gender=Masc|Number=Sing	5	acl	_	_
+15	possibile	possibile	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
 16	parlare	parlare	VERB	V	VerbForm=Inf	15	csubj	_	_
 17	di	di	ADP	E	_	18	case	_	_
 18	scienza	scienza	NOUN	S	Gender=Fem|Number=Sing	16	obl	_	_
-19	;	;	PUNCT	FC	_	5	punct	_	_
+19	;	;	PUNCT	FC	_	15	punct	_	_
 
 ~~~
 

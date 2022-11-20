@@ -32,9 +32,7 @@ The following 7 pairs of parts of speech are connected with `discourse`: <tt><a 
 8	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
 9	in	in	ADP	E	_	10	case	_	_
 10	caserma	caserma	NOUN	S	Gender=Fem|Number=Sing	6	conj	_	_
-11	da	da	ADP	E	_	12	mark	_	_
-12	riempire	riempire	VERB	V	VerbForm=Inf	10	advcl	_	SpaceAfter=No
-13	.	.	PUNCT	FS	_	6	punct	_	_
+11	...	...	PUNCT	FS	_	6	punct	_	_
 
 ~~~
 

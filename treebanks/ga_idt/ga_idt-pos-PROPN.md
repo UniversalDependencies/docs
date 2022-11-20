@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>Bhaile</em> (<tt><a href="ga_idt-pos-
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.155977 (the average of all parts of speech is 1.643911).
+The form / lemma ratio of `PROPN` is 1.155977 (the average of all parts of speech is 1.643807).
 
 The 1st highest number of forms (9) was observed with the lemma “Gaeltacht”: <em>Gaeltacha, Gaeltacht, Gaeltachta, Gaeltachtaí, Ghaeltacht, Ghaeltachta, Ghaeltachtaí, nGaeltacht, nGaeltachtaí</em>.
 

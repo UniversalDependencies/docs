@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-17 nodes (1%) are attached to their parents as `xcomp`.
+18 nodes (1%) are attached to their parents as `xcomp`.
 
-17 instances of `xcomp` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.47058823529412.
+18 instances of `xcomp` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.44444444444444.
 
-The following 2 pairs of parts of speech are connected with `xcomp`: <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (11; 65% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt> (6; 35% instances).
+The following 2 pairs of parts of speech are connected with `xcomp`: <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (11; 61% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt> (7; 39% instances).
 
 
 ~~~ conllu
@@ -40,7 +40,7 @@ The following 2 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 2	fgColor:white
 # visual-style 2 1 xcomp	color:blue
 1	Ихтыяҗ	ихтыяҗ	ADJ	_	_	2	xcomp	_	LangID=TT
-2	булса	бул	VERB	_	Mood=Cnd|Person=3	6	advcl	_	LangID=TT|SpaceAfter=No
+2	булса	бул	VERB	_	Mood=Cnd|Person=3|VerbForm=Conv	6	advcl	_	LangID=TT|SpaceAfter=No
 3	,	,	PUNCT	_	_	6	punct	_	LangID=OTHER
 4	аларның	ул	PRON	_	Case=Gen|Number=Plur|PronType=Prs	5	nmod	_	LangID=TT
 5	саны	сан	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	6	nsubj	_	LangID=TT

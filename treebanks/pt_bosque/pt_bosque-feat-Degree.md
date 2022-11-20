@@ -24,7 +24,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 * `Abs` (6; 46% of non-empty `Degree`): <em>ótimo</em>
 * `Cmp` (7; 54% of non-empty `Degree`): <em>melhor, mais, Pior, maior</em>
-* `EMPTY` (11375): <em>maior, primeiro, grande, primeira, novo, nova, mesmo, nacional, grandes, passado</em>
+* `EMPTY` (11383): <em>maior, primeiro, grande, primeira, novo, nova, mesmo, nacional, grandes, passado</em>
 
 <table>
   <tr><th>Paradigm <i>bom</i></th><th><tt>Cmp</tt></th><th><tt>Abs</tt></th></tr>

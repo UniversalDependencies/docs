@@ -22,30 +22,30 @@ The following 3 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 22	bgColor:blue
 # visual-style 22	fgColor:white
 # visual-style 22 23 flat	color:blue
-1	誒	_	INTJ	_	_	3	discourse	_	SpaceAfter=No
-2	……	_	PUNCT	_	_	1	punct	_	SpaceAfter=No
-3	好	_	ADJ	_	_	0	root	_	SpaceAfter=No
-4	，	_	PUNCT	_	_	3	punct	_	SpaceAfter=No
-5	而家	_	NOUN	_	_	22	obl:tmod	_	SpaceAfter=No
-6	呢	_	PART	_	_	5	discourse:sp	_	SpaceAfter=No
-7	，	_	PUNCT	_	_	5	punct	_	SpaceAfter=No
-8	喺	_	ADP	_	_	13	case	_	SpaceAfter=No
-9	秘書	_	NOUN	_	_	10	nsubj	_	SpaceAfter=No
-10	畀	_	VERB	_	_	13	acl	_	SpaceAfter=No
-11	我	_	PRON	_	_	10	obj	_	SpaceAfter=No
-12	嘅	_	PART	_	_	10	mark:rel	_	SpaceAfter=No
-13	名單	_	NOUN	_	_	22	obl	_	SpaceAfter=No
-14	裏便	_	NOUN	_	_	13	case:loc	_	SpaceAfter=No
-15	呢	_	PART	_	_	13	discourse:sp	_	SpaceAfter=No
-16	，	_	PUNCT	_	_	22	punct	_	SpaceAfter=No
-17	第一	_	ADJ	_	_	19	amod	_	SpaceAfter=No
-18	位	_	NOUN	_	NounType=Clf	22	nsubj	_	SpaceAfter=No
-19	就	_	ADV	_	_	22	advmod	_	SpaceAfter=No
-20	係	_	AUX	_	_	22	cop	_	SpaceAfter=No
-21	阿	_	PART	_	_	22	compound	_	SpaceAfter=No
-22	毛孟靜	_	PROPN	_	_	3	parataxis	_	SpaceAfter=No
-23	議員	_	NOUN	_	_	22	flat	_	SpaceAfter=No
-24	。	_	PUNCT	_	_	3	punct	_	SpaceAfter=No
+1	誒	誒	INTJ	_	_	3	discourse	_	SpaceAfter=No
+2	……	……	PUNCT	_	_	1	punct	_	SpaceAfter=No
+3	好	好	ADJ	_	_	0	root	_	SpaceAfter=No
+4	，	，	PUNCT	_	_	3	punct	_	SpaceAfter=No
+5	而家	而家	NOUN	_	_	22	obl:tmod	_	SpaceAfter=No
+6	呢	呢	PART	_	_	5	discourse:sp	_	SpaceAfter=No
+7	，	，	PUNCT	_	_	5	punct	_	SpaceAfter=No
+8	喺	喺	ADP	_	_	13	case	_	SpaceAfter=No
+9	秘書	秘書	NOUN	_	_	10	nsubj	_	SpaceAfter=No
+10	畀	畀	VERB	_	_	13	acl	_	SpaceAfter=No
+11	我	我	PRON	_	_	10	obj	_	SpaceAfter=No
+12	嘅	嘅	PART	_	_	10	mark:rel	_	SpaceAfter=No
+13	名單	名單	NOUN	_	_	22	obl	_	SpaceAfter=No
+14	裏便	裏便	NOUN	_	_	13	case:loc	_	SpaceAfter=No
+15	呢	呢	PART	_	_	13	discourse:sp	_	SpaceAfter=No
+16	，	，	PUNCT	_	_	22	punct	_	SpaceAfter=No
+17	第一	第一	ADJ	_	_	19	amod	_	SpaceAfter=No
+18	位	位	NOUN	_	NounType=Clf	22	nsubj	_	SpaceAfter=No
+19	就	就	ADV	_	_	22	advmod	_	SpaceAfter=No
+20	係	係	AUX	_	_	22	cop	_	SpaceAfter=No
+21	阿	阿	PART	_	_	22	compound	_	SpaceAfter=No
+22	毛孟靜	毛孟靜	PROPN	_	_	3	parataxis	_	SpaceAfter=No
+23	議員	議員	NOUN	_	_	22	flat	_	SpaceAfter=No
+24	。	。	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
 ~~~
 

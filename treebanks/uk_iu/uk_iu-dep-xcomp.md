@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `xcomp`: <tt><a href="uk_iu-dep-xcomp-pred.html">xcomp:pred</a></tt>.
 
-1030 nodes (1%) are attached to their parents as `xcomp`.
+1033 nodes (1%) are attached to their parents as `xcomp`.
 
-991 instances of `xcomp` (96%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.65145631067961.
+994 instances of `xcomp` (96%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.64956437560503.
 
-The following 11 pairs of parts of speech are connected with `xcomp`: <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (892; 87% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (69; 7% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (36; 3% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (18; 2% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-INTJ.html">INTJ</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `xcomp`: <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (894; 87% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (70; 7% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (36; 3% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (18; 2% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-INTJ.html">INTJ</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -30,7 +30,7 @@ The following 11 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 5	вчили	вчити	VERB	Vmpis-p	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	0	root	0:root	Id=11ug|LTranslit=včyty|Translit=včyly
 6	літати	літати	VERB	Vmpn	Aspect=Imp|VerbForm=Inf	5	xcomp	5:xcomp	Id=11uh|LTranslit=litaty|Translit=litaty
 7	нашу	наш	DET	Pps1f-saa	Case=Acc|Gender=Fem|Number=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	8:det	Id=11ui|LTranslit=naš|Translit=našu
-8	ворону	ворона	NOUN	Ncfsay	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	5	obj	5:obj|6:nsubj:x	Id=11uj|LTranslit=vorona|Translit=voronu
+8	ворону	ворона	NOUN	Ncfsay	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	5	obj	5:obj|6:nsubj:xsubj	Id=11uj|LTranslit=vorona|Translit=voronu
 9	Галю	Галя	PROPN	Npfsay	Animacy=Anim|Case=Acc|Gender=Fem|NameType=Giv|Number=Sing	8	flat:title	8:flat:title	Id=11uk|LTranslit=Haľа|SpaceAfter=No|Translit=Haľu
 10	.	.	PUNCT	U	_	5	punct	5:punct	Id=11ul|LTranslit=.|Translit=.
 
@@ -45,7 +45,7 @@ The following 11 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 4 6 xcomp	color:blue
 1	Для	для	ADP	Spsg	Case=Gen	2	case	2:case	Id=36kq|LTranslit=dľа|Translit=Dľа
 2	цього	це	PRON	Pd--nnsgn	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	4	obl	4:obl	Id=36kr|LTranslit=ce|Translit=ćoho
-3	агенти	агент	NOUN	Ncmpny	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	4:nsubj|6:nsubj:x	Id=36ks|LTranslit=ahent|Translit=ahenty
+3	агенти	агент	NOUN	Ncmpny	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	4:nsubj|6:nsubj:xsubj	Id=36ks|LTranslit=ahent|Translit=ahenty
 4	повинні	повинний	ADJ	Ao--pns	Case=Nom|Number=Plur	0	root	0:root	Id=36kt|LTranslit=povynnyj|Translit=povynni
 5	були	бути	AUX	Vapis-p	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	4	cop	4:cop	Id=36ku|LTranslit=buty|Translit=buly
 6	забезпечити	забезпечити	VERB	Vmen	Aspect=Perf|VerbForm=Inf	4	xcomp	4:xcomp	Id=36kv|LTranslit=zabezpečyty|Translit=zabezpečyty
@@ -64,7 +64,7 @@ The following 11 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 3	fgColor:white
 # visual-style 3 5 xcomp	color:blue
 1	Отже	отже	SCONJ	Css	_	3	mark	3:mark	Id=2tks|LTranslit=otže|Translit=Otže
-2	вони	вони	PRON	Pp-3--pnn	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	3:nsubj|5:nsubj:x	Id=2tkt|LTranslit=vony|Translit=vony
+2	вони	вони	PRON	Pp-3--pnn	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	3:nsubj|5:nsubj:xsubj	Id=2tkt|LTranslit=vony|Translit=vony
 3	мали	мати	VERB	Vmpis-p	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	0	root	0:root	Id=2tku|LTranslit=maty|Translit=maly
 4	бути	бути	AUX	Vapn	Aspect=Imp|VerbForm=Inf	5	cop	5:cop	Id=2tkv|LTranslit=buty|Translit=buty
 5	вироблені	вироблений	ADJ	Ap--pns-ep	Aspect=Perf|Case=Nom|Number=Plur|VerbForm=Part|Voice=Pass	3	xcomp	3:xcomp	Id=2tkw|LTranslit=vyroblenyj|Translit=vyrobleni

@@ -24,8 +24,8 @@ The following 14 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 4 2 advmod	color:blue
 1	ሰው	ሰው	NOUN	NOUN	_	4	obj	_	Translit=säwə|LTranslit=säwə
 2	ኣል	ኣል	PART	NEG	Polarity=Neg	4	advmod	_	Translit='alə|LTranslit='alə
-3	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	4	nsubj	_	Translit=jə|LTranslit=jə
-4	ኣስወጣ	ኣስወጣ	VERB	VERB	Voice=Cau	0	root	_	Translit='asəwäţa|LTranslit='asəwäţa
+3	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	LTranslit='əsu|Translit=jə
+4	ኣስወጣ	ኣስወጣ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Cau	0	root	_	Translit='asəwäţa|LTranslit='asəwäţa
 5	ም	ም	PART	NCM	_	4	discourse	_	Translit=mə|LTranslit=mə
 6	።	።	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=.
 
@@ -39,14 +39,14 @@ The following 14 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 7	fgColor:white
 # visual-style 7 4 advmod	color:blue
 1	ሥራ	ሥራ	NOUN	NOUN	_	7	obj	_	Translit=śəra|LTranslit=śəra
-2	ኤ	ኤ	PRON	POSM	Number=Sing|Person=1|Poss=Yes	1	nmod	_	Translit='e|LTranslit='e
+2	ኤ	እኔ	PRON	POSM	Number=Sing|Person=1|Poss=Yes|PronType=Prs	1	nmod	_	LTranslit='əne|Translit='e
 3	ን	ን	PART	ACC	_	1	case	_	Translit=nə|LTranslit=nə
 4	ለምን	ለምን	ADV	ADV	_	7	advmod	_	Translit=lämənə|LTranslit=lämənə
 5	ኣል	ኣል	PART	NEG	Polarity=Neg	7	advmod	_	Translit='alə|LTranslit='alə
-6	ት	ት	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	7	expl	_	Translit=tə|LTranslit=tə
-7	ኣሰራ	ኣሰራ	VERB	VERB	Voice=Cau	0	root	_	Translit='asära|LTranslit='asära
-8	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	7	nsubj	_	Translit='ă|LTranslit='ă
-9	ኝ	ኝ	PRON	OBJC	Number=Sing|Person=1	7	iobj	_	Translit=ňə|LTranslit=ňə
+6	ት	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl	_	LTranslit='əsu|Translit=tə
+7	ኣሰራ	ኣሰራ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Cau	0	root	_	Translit='asära|LTranslit='asära
+8	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	LTranslit='əsu|Translit='ă
+9	ኝ	እኔ	PRON	OBJC	Number=Sing|Person=1|PronType=Prs	7	iobj	_	LTranslit='əne|Translit=ňə
 10	ም	ም	PART	NCM	_	7	discourse	_	Translit=mə|LTranslit=mə
 11	?	?	PUNCT	PUNCT	_	7	punct	_	Translit=?|LTranslit=?
 
@@ -65,9 +65,9 @@ The following 14 pairs of parts of speech are connected with `advmod`: <tt><a hr
 4	በ	በ	ADP	ADP	_	6	case	_	Translit=bä|LTranslit=bä
 5	ኣለ	ኣለ	PART	NEG	Polarity=Neg	6	advmod	_	Translit='alä|LTranslit='alä
 6	መምጣት	መምጣት	NOUN	NOUN	VerbForm=Vnoun	8	csubj	_	Translit=mäməţatə|LTranslit=mäməţatə
-7	ኤ	ኤ	PRON	POSM	Number=Sing|Person=1|Poss=Yes	6	nmod	_	Translit='e|LTranslit='e
-8	ተቀየም	ተቀየም	VERB	VERB	Voice=Pass	0	root	_	Translit=täqäjämə|LTranslit=täqäjämə
-9	ኧኝ	ኧኝ	PRON	SUBJC	Number=Sing|Person=1	8	expl	_	Translit='ăňə|LTranslit='ăňə
+7	ኤ	እኔ	PRON	POSM	Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nmod	_	LTranslit='əne|Translit='e
+8	ተቀየም	ተቀየም	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Pass	0	root	_	Translit=täqäjämə|LTranslit=täqäjämə
+9	ኧኝ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	8	expl	_	LTranslit='əne|Translit='ăňə
 10	።	።	PUNCT	PUNCT	_	8	punct	_	Translit=.|LTranslit=.
 
 ~~~

@@ -25,7 +25,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Dem` (18; 0% of non-empty `PronType`): اس، ان، اسی، ایسے، جہاں، وہی، یہ
 * `Int` (65; 1% of non-empty `PronType`): کیوں، کیا، کہاں، آیا، کس، کیسے، کون، کب، کتنا، کونسی
 * `Prs` (5293; 98% of non-empty `PronType`): اس، وہ، ان، انہوں، اپنے، جس، جو، یہ، اپنی، انہیں
-* `EMPTY` (220): جو، سب، تو، جب، اب، دیگر، کچھ، جہاں، اُس، اُن
+* `EMPTY` (221): جو، سب، تو، جب، اب، دیگر، کچھ، جہاں، اُس، اُن
 
 <table>
   <tr><th>Paradigm <i>یہ</i></th><th><tt>Prs</tt></th><th><tt>Dem</tt></th></tr>
@@ -106,14 +106,14 @@ The most frequent other feature values with which `PART` and `PronType` co-occur
 ## Relations with Agreement in `PronType`
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
-<tt>PRON --[<tt><a href="ur_udtb-dep-case.html">case</a></tt>]--> PRON</tt> (13; 72%),
+<tt>PRON --[<tt><a href="ur_udtb-dep-det.html">det</a></tt>]--> PRON</tt> (19; 76%),
 <tt>PRON --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (12; 92%),
-<tt>PRON --[<tt><a href="ur_udtb-dep-compound.html">compound</a></tt>]--> PRON</tt> (8; 100%),
+<tt>PRON --[<tt><a href="ur_udtb-dep-compound.html">compound</a></tt>]--> PRON</tt> (10; 100%),
 <tt>PRON --[<tt><a href="ur_udtb-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (6; 67%),
-<tt>PRON --[<tt><a href="ur_udtb-dep-mark.html">mark</a></tt>]--> PRON</tt> (4; 100%),
 <tt>PRON --[<tt><a href="ur_udtb-dep-obl.html">obl</a></tt>]--> PRON</tt> (4; 80%),
 <tt>PRON --[<tt><a href="ur_udtb-dep-conj.html">conj</a></tt>]--> PRON</tt> (3; 100%),
+<tt>DET --[<tt><a href="ur_udtb-dep-compound.html">compound</a></tt>]--> DET</tt> (2; 67%),
 <tt>DET --[<tt><a href="ur_udtb-dep-conj.html">conj</a></tt>]--> DET</tt> (2; 100%),
-<tt>PRON --[<tt><a href="ur_udtb-dep-aux.html">aux</a></tt>]--> PRON</tt> (2; 67%),
-<tt>PRON --[<tt><a href="ur_udtb-dep-dep.html">dep</a></tt>]--> PRON</tt> (2; 100%).
+<tt>PRON --[<tt><a href="ur_udtb-dep-dep.html">dep</a></tt>]--> PRON</tt> (2; 100%),
+<tt>PRON --[<tt><a href="ur_udtb-dep-obj.html">obj</a></tt>]--> PRON</tt> (2; 100%).
 

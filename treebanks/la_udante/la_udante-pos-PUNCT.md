@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 2.119676).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 2.128289).
 
 The 1st highest number of forms (1) was observed with the lemma “!”: <em>!</em>.
 
@@ -36,7 +36,7 @@ The 3rd highest number of forms (1) was observed with the lemma “)”: <em>)</
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="la_udante-dep-punct.html">punct</a></tt> (8612; 100% instances)
 
-Parents of `PUNCT` nodes belong to 15 different parts of speech: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (4619; 54% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (1518; 18% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (696; 8% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt> (335; 4% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (300; 3% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (237; 3% instances), <tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt> (231; 3% instances), <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> (191; 2% instances), <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (188; 2% instances), <tt><a href="la_udante-pos-X.html">X</a></tt> (121; 1% instances), <tt><a href="la_udante-pos-PART.html">PART</a></tt> (71; 1% instances), <tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (50; 1% instances), <tt><a href="la_udante-pos-NUM.html">NUM</a></tt> (32; 0% instances), <tt><a href="la_udante-pos-INTJ.html">INTJ</a></tt> (15; 0% instances), <tt><a href="la_udante-pos-ADP.html">ADP</a></tt> (8; 0% instances)
+Parents of `PUNCT` nodes belong to 15 different parts of speech: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (4747; 55% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (1505; 17% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (695; 8% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt> (351; 4% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (257; 3% instances), <tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt> (232; 3% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (218; 3% instances), <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (178; 2% instances), <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> (164; 2% instances), <tt><a href="la_udante-pos-X.html">X</a></tt> (121; 1% instances), <tt><a href="la_udante-pos-PART.html">PART</a></tt> (80; 1% instances), <tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (30; 0% instances), <tt><a href="la_udante-pos-NUM.html">NUM</a></tt> (16; 0% instances), <tt><a href="la_udante-pos-INTJ.html">INTJ</a></tt> (10; 0% instances), <tt><a href="la_udante-pos-ADP.html">ADP</a></tt> (8; 0% instances)
 
 8612 (100%) `PUNCT` nodes are leaves.
 

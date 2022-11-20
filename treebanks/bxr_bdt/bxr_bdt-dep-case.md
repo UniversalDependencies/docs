@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-148 nodes (1%) are attached to their parents as `case`.
+153 nodes (2%) are attached to their parents as `case`.
 
-142 instances of `case` (96%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.14189189189189.
+142 instances of `case` (93%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.18300653594771.
 
-The following 8 pairs of parts of speech are connected with `case`: <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> (108; 73% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> (18; 12% instances), <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt>-<tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> (7; 5% instances), <tt><a href="bxr_bdt-pos-PRON.html">PRON</a></tt>-<tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> (6; 4% instances), <tt><a href="bxr_bdt-pos-NUM.html">NUM</a></tt>-<tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> (4; 3% instances), <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="bxr_bdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 8 pairs of parts of speech are connected with `case`: <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> (110; 72% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> (18; 12% instances), <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt>-<tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> (7; 5% instances), <tt><a href="bxr_bdt-pos-PRON.html">PRON</a></tt>-<tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> (6; 4% instances), <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> (4; 3% instances), <tt><a href="bxr_bdt-pos-NUM.html">NUM</a></tt>-<tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> (4; 3% instances), <tt><a href="bxr_bdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> (3; 2% instances), <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -41,7 +41,7 @@ The following 8 pairs of parts of speech are connected with `case`: <tt><a href=
 2	нютагаа	нютаг	NOUN	_	Case=Nom|Reflex=Yes	3	nmod	_	_
 3	бусажа	буса	VERB	_	VerbForm=Inf	4	compound	_	_
 4	ерээ	ерэ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-5	юм	юм	AUX	_	Evident=Fh	4	discourse	_	SpaceAfter=No
+5	юм	юм	PART	_	Evident=Fh	4	discourse	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~

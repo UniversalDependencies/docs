@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-29710 nodes (12%) are attached to their parents as `punct`.
+29709 nodes (12%) are attached to their parents as `punct`.
 
-20826 instances of `punct` (70%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.82521036687984.
+20801 instances of `punct` (70%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.7957857888182.
 
-The following 17 pairs of parts of speech are connected with `punct`: <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> (15010; 51% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> (6907; 23% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> (2907; 10% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> (2661; 9% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> (832; 3% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> (374; 1% instances), <tt><a href="en_ewt-pos-X.html">X</a></tt>-<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> (262; 1% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> (252; 1% instances), <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt>-<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> (187; 1% instances), <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> (152; 1% instances), <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt>-<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> (62; 0% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt>-<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> (42; 0% instances), <tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> (24; 0% instances), <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt>-<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> (13; 0% instances), <tt><a href="en_ewt-pos-PART.html">PART</a></tt>-<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> (11; 0% instances), <tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> (10; 0% instances), <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances).
+The following 17 pairs of parts of speech are connected with `punct`: <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> (14922; 50% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> (6968; 23% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> (2948; 10% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> (2657; 9% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> (833; 3% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> (383; 1% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> (266; 1% instances), <tt><a href="en_ewt-pos-X.html">X</a></tt>-<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> (226; 1% instances), <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt>-<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> (187; 1% instances), <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> (152; 1% instances), <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt>-<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> (63; 0% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt>-<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> (42; 0% instances), <tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> (24; 0% instances), <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt>-<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> (13; 0% instances), <tt><a href="en_ewt-pos-PART.html">PART</a></tt>-<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> (11; 0% instances), <tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> (10; 0% instances), <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances).
 
 
 ~~~ conllu
@@ -55,7 +55,7 @@ The following 17 pairs of parts of speech are connected with `punct`: <tt><a hre
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	3:cop	_
 3	right	right	ADJ	JJ	Degree=Pos	0	root	0:root	SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	3:punct	_
-5	folks	folks	NOUN	UH	_	3	parataxis	3:parataxis	SpaceAfter=No
+5	folks	folk	NOUN	NNS	Number=Plur	3	vocative	3:vocative	SpaceAfter=No
 6	.	.	PUNCT	.	_	3	punct	3:punct	_
 
 ~~~

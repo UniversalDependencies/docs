@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-10 nodes (2%) are attached to their parents as `nsubj`.
+30 nodes (4%) are attached to their parents as `nsubj`.
 
-8 instances of `nsubj` (80%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.6.
+26 instances of `nsubj` (87%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.9.
 
-The following 4 pairs of parts of speech are connected with `nsubj`: <tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt>-<tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt> (6; 60% instances), <tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt>-<tt><a href="xum_ikuvina-pos-PRON.html">PRON</a></tt> (2; 20% instances), <tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xum_ikuvina-pos-PRON.html">PRON</a></tt> (1; 10% instances), <tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt>-<tt><a href="xum_ikuvina-pos-PROPN.html">PROPN</a></tt> (1; 10% instances).
+The following 7 pairs of parts of speech are connected with `nsubj`: <tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt>-<tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt> (16; 53% instances), <tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt>-<tt><a href="xum_ikuvina-pos-PRON.html">PRON</a></tt> (6; 20% instances), <tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xum_ikuvina-pos-PRON.html">PRON</a></tt> (3; 10% instances), <tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt> (2; 7% instances), <tt><a href="xum_ikuvina-pos-ADV.html">ADV</a></tt>-<tt><a href="xum_ikuvina-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="xum_ikuvina-pos-AUX.html">AUX</a></tt>-<tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt>-<tt><a href="xum_ikuvina-pos-PROPN.html">PROPN</a></tt> (1; 3% instances).
 
 
 ~~~ conllu

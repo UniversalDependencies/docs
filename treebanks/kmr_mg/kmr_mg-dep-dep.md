@@ -8,54 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-154 nodes (2%) are attached to their parents as `dep`.
+35 nodes (0%) are attached to their parents as `dep`.
 
-145 instances of `dep` (94%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.2012987012987.
+26 instances of `dep` (74%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.57142857142857.
 
-The following 10 pairs of parts of speech are connected with `dep`: <tt><a href="kmr_mg-pos-ADP.html">ADP</a></tt>-<tt><a href="kmr_mg-pos-X.html">X</a></tt> (92; 60% instances), <tt><a href="kmr_mg-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="kmr_mg-pos-X.html">X</a></tt> (26; 17% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-X.html">X</a></tt> (14; 9% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-ADP.html">ADP</a></tt> (6; 4% instances), <tt><a href="kmr_mg-pos-ADV.html">ADV</a></tt>-<tt><a href="kmr_mg-pos-X.html">X</a></tt> (5; 3% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-X.html">X</a></tt> (5; 3% instances), <tt><a href="kmr_mg-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="kmr_mg-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt> (1; 1% instances).
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 dep	color:blue
-1	Baniwê	banû	NOUN	n	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	2	nsubj	_	_
-2	got	gotin	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
-3	:	:	PUNCT	sent	_	9	punct	_	_
-4	Ne	ne	ADV	adv	Polarity=Neg	9	advmod	_	_
-5	ji	ji	X	x	_	6	dep	_	_
-6	ber	ber	ADP	pr	AdpType=Prep	7	case	_	_
-7	sermayê	serma	NOUN	n	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	9	nmod	_	_
-8	ez	ez	PRON	prn	Case=Nom|Gender=Fem,Masc|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
-9	direcifim	reciftin	VERB	vblex	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 dep	color:blue
-1	Piştre	piştre	ADV	adv	_	4	advmod	_	_
-2	dîsa	dîsa	ADV	adv	_	4	advmod	_	_
-3	gewr	gewr	NOUN	n	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	4	xcomp	_	_
-4	dibin	bûn	AUX	vbcop	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-5	ta	ta	X	x	_	6	dep	_	_
-6	ku	ku	SCONJ	cnjsub	_	8	mark	_	_
-7	zivistan	zivistan	NOUN	n	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	8	nsubj	_	_
-8	tê	hatin	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	advcl	_	_
-9	careke	car	NOUN	n	Case=Con|Gender=Fem|Number=Sing|PronType=Ind	12	nmod	_	_
-10	din	din	ADJ	adj	_	9	amod	_	_
-11	winda	winda	ADJ	adj	Degree=Pos	12	compound:lvc	_	_
-12	dibin	bûn	AUX	vbcop	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	SpaceAfter=No
-13	.	.	PUNCT	sent	_	12	punct	_	_
-
-~~~
+The following 8 pairs of parts of speech are connected with `dep`: <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-X.html">X</a></tt> (14; 40% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-ADP.html">ADP</a></tt> (6; 17% instances), <tt><a href="kmr_mg-pos-ADV.html">ADV</a></tt>-<tt><a href="kmr_mg-pos-X.html">X</a></tt> (5; 14% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-X.html">X</a></tt> (5; 14% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt> (2; 6% instances), <tt><a href="kmr_mg-pos-ADP.html">ADP</a></tt>-<tt><a href="kmr_mg-pos-X.html">X</a></tt> (1; 3% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -72,6 +30,50 @@ The following 10 pairs of parts of speech are connected with `dep`: <tt><a href=
 6	bû	bûn	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_
 7	bûm	bûn	AUX	vaux	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux	_	SpaceAfter=No
 8	.	.	PUNCT	sent	_	6	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 10 dep	color:blue
+1	Ez	ez	PRON	prn	Case=Nom|Gender=Fem,Masc|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	Şerlok	Şerlok	PROPN	np	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+3	Holmes	Holmes	PROPN	np	Case=Nom|Gender=Masc|Number=Sing	2	flat	_	_
+4	im	bûn	AUX	vbcop	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	SpaceAfter=No
+5	;	;	PUNCT	sent	_	8	punct	_	_
+6	ev	ev	PRON	prn	Case=Nom|Gender=Fem,Masc|Number=Plur,Sing|PronType=Dem	8	nsubj	_	_
+7	jî	jî	PART	emph	_	8	discourse	_	_
+8	hevalê	heval	NOUN	n	Case=Con|Definite=Def|Gender=Masc|Number=Sing	2	parataxis	_	_
+9	min	ez	PRON	prn	Case=Acc|Gender=Fem,Masc|Number=Sing|Person=1|PronType=Prs	8	nmod:poss	_	_
+10	ê	yê	ADP	con	AdpType=Post|Gender=Masc|Number=Sing	8	dep	_	_
+11	ezîz	ezîz	PROPN	np	Case=Acc|Gender=Masc|Number=Sing	8	nmod:poss	_	_
+12	Wetsin	Wetsin	PROPN	np	Case=Nom|Gender=Masc|Number=Sing	8	appos	_	_
+13	e	bûn	AUX	vbcop	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	SpaceAfter=No
+14	.	.	PUNCT	sent	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 dep	color:blue
+1	Gelek	gelek	X	x	_	2	dep	_	_
+2	caran	caran	ADV	adv	_	9	advmod	_	_
+3	jî	jî	PART	emph	_	9	advmod	_	_
+4	bi	bi	ADP	pr	AdpType=Prep	5	case	_	_
+5	şêwazê	şêwaz	NOUN	n	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	9	nmod	_	_
+6	vegotina	vegotin	NOUN	n	Case=Con|Definite=Def|Gender=Fem|Number=Sing	9	nsubj	_	_
+7	nivîskar	nivîskar	NOUN	n	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	6	nmod:poss	_	_
+8	derbas	derbas	NOUN	n	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	9	compound:lvc	_	_
+9	dibe	bûn	AUX	vbcop	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	sent	_	9	punct	_	_
 
 ~~~
 

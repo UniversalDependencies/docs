@@ -23,11 +23,11 @@ The following 1 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 3	fgColor:white
 # visual-style 3 4 xcomp	color:blue
 1	Marazawe	maran	PRON	pro	Case=Equ|PronType=Int	3	obl	_	_
-2	tue	tue	ADV	adv	Emph=Yes	3	advmod	_	_
+2	tue	tue	PART	pcl	Emph=Yes	1	discourse	_	_
 3	ukwaw	kwaw	VERB	vt	Person[subj]=3	0	root	_	_
 4	uzeʔeg	zeʔeg	VERB	vi	Person[subj]=3	3	xcomp	_	_
 5	ɨpe	ʔɨ	NOUN	n	Case=Loc	4	obl	_	_
-6	aʔe	aʔe	PRON	pro	Person=3|PronType=Dem	4	discourse	_	_
+6	aʔe	aʔe	PRON	pro	PronType=Dem	4	discourse	_	_
 7	wa	wa	PART	pcl	Number=Plur	4	discourse	_	_
 8	no	no	PART	pcl	_	4	discourse	_	_
 9	?	?	PUNCT	punct	_	3	punct	_	_

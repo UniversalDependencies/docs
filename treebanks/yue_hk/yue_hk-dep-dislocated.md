@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-15 nodes (0%) are attached to their parents as `dislocated`.
+17 nodes (0%) are attached to their parents as `dislocated`.
 
-15 instances of `dislocated` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.46666666666667.
+17 instances of `dislocated` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.70588235294118.
 
-The following 9 pairs of parts of speech are connected with `dislocated`: <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (5; 33% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> (2; 13% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> (2; 13% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (1; 7% instances), <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt>-<tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> (1; 7% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (1; 7% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (1; 7% instances), <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (1; 7% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> (1; 7% instances).
+The following 9 pairs of parts of speech are connected with `dislocated`: <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (7; 41% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> (2; 12% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> (2; 12% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt>-<tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> (1; 6% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (1; 6% instances), <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
@@ -25,7 +25,7 @@ The following 9 pairs of parts of speech are connected with `dislocated`: <tt><a
 1	愾	愾	INTJ	_	_	7	discourse	_	SpaceAfter=No
 2	！	！	PUNCT	_	_	1	punct	_	SpaceAfter=No
 3	你哋	你哋	PRON	_	_	5	nmod	_	SpaceAfter=No
-4	啲	啲	NOUN	_	_	5	det	_	SpaceAfter=No
+4	啲	啲	NOUN	_	NounType=Clf	5	clf:det	_	SpaceAfter=No
 5	嘢	嘢	NOUN	_	_	7	dislocated	_	SpaceAfter=No
 6	邊個	邊個	PRON	_	_	7	nsubj	_	SpaceAfter=No
 7	打	打	VERB	_	_	11	ccomp	_	SpaceAfter=No
@@ -85,7 +85,7 @@ The following 9 pairs of parts of speech are connected with `dislocated`: <tt><a
 21	到	到	VERB	_	_	19	compound:vv	_	SpaceAfter=No
 22	，	，	PUNCT	_	_	19	punct	_	SpaceAfter=No
 23	搵	搵	VERB	_	_	12	parataxis	_	SpaceAfter=No
-24	啲	啲	NOUN	_	NounType=Clf	25	det	_	SpaceAfter=No
+24	啲	啲	NOUN	_	NounType=Clf	25	clf:det	_	SpaceAfter=No
 25	工人	工人	NOUN	_	_	23	obj	_	SpaceAfter=No
 26	拉	拉	VERB	_	_	23	xcomp	_	SpaceAfter=No
 27	。	。	PUNCT	_	_	23	punct	_	SpaceAfter=No

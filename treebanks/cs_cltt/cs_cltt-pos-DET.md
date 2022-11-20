@@ -23,7 +23,7 @@ The 10 most frequent ambiguous types:  <em>jejich</em> (<tt><a href="cs_cltt-pos
   * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 6: <em>O dospělých zvířatech a jejich skupinách s dobou použitelnosti delší než jeden rok nevykázaných v položce „ B.II.5. Dospělá zvířata a <b>jejich</b> skupiny “ se účtuje jako o zásobách .</em>
 * <em>to</em>
   * <tt><a href="cs_cltt-pos-PART.html">PART</a></tt> 33: <em>(6) Konsolidační celek tvoří účetní jednotky uvedené v odstavcích 2 a 3 písm._a) , a <b>to</b> za podmínek stanovených §_22a a prováděcími právními předpisy .</em>
-  * <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 19: <em>(4) Postup podle odstavců 2 a 3 se použije , pokud <b>to</b> neodporuje přímo použitelnému předpisu Evropské unie nebo zvláštnímu právnímu předpisu .</em>
+  * <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 19: <em>Dotací se rovněž rozumí prominutí části poplatků , pokud <b>to</b> právní předpis umožňuje a příslušný orgán stanovil prominutou část poplatků za dotaci .</em>
 * <em>tuto</em>
   * <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 11: <em>(7) Není - li objektivně možné stanovit reálnou hodnotu , považuje se za <b>tuto</b> hodnotu ocenění způsoby podle §_25 .</em>
   * <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> 7: <em>Účetní jednotka popíše <b>tuto</b> skutečnost v příloze v účetní závěrce .</em>

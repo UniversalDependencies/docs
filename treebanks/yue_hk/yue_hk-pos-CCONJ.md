@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Cantonese-HK: POS Tags: `CCONJ`
 
-There are 12 `CCONJ` lemmas (1%), 19 `CCONJ` types (1%) and 123 `CCONJ` tokens (1%).
-Out of 15 observed tags, the rank of `CCONJ` is: 14 in number of lemmas, 13 in number of types and 14 in number of tokens.
+There are 19 `CCONJ` lemmas (1%), 19 `CCONJ` types (1%) and 123 `CCONJ` tokens (1%).
+Out of 15 observed tags, the rank of `CCONJ` is: 13 in number of lemmas, 13 in number of types and 14 in number of tokens.
 
-The 10 most frequent `CCONJ` lemmas: _、 或者、 但係、 不過、 而、 而家、 同埋、 但、 加、 或者話
+The 10 most frequent `CCONJ` lemmas: 或者、 而、 但係、 同埋、 不過、 但、 而家、 與、 同、 以至
 
 The 10 most frequent `CCONJ` types:  或者、 而、 但係、 同埋、 不過、 但、 而家、 與、 同、 以至
 
-The 10 most frequent ambiguous lemmas: _ (<tt><a href="yue_hk-pos-PUNCT.html">PUNCT</a></tt> 1377, <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 1352, <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> 1283, <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> 853, <tt><a href="yue_hk-pos-PART.html">PART</a></tt> 764, <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> 662, <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> 335, <tt><a href="yue_hk-pos-DET.html">DET</a></tt> 217, <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> 209, <tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> 140, <tt><a href="yue_hk-pos-NUM.html">NUM</a></tt> 124, <tt><a href="yue_hk-pos-SCONJ.html">SCONJ</a></tt> 101, <tt><a href="yue_hk-pos-CCONJ.html">CCONJ</a></tt> 93, <tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> 92, <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> 52), 或者 (<tt><a href="yue_hk-pos-CCONJ.html">CCONJ</a></tt> 7, <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> 1), 不過 (<tt><a href="yue_hk-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> 1), 而 (<tt><a href="yue_hk-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> 2), 而家 (<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> 10, <tt><a href="yue_hk-pos-CCONJ.html">CCONJ</a></tt> 3), 加 (<tt><a href="yue_hk-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 1)
+The 10 most frequent ambiguous lemmas: 或者 (<tt><a href="yue_hk-pos-CCONJ.html">CCONJ</a></tt> 30, <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> 1), 而 (<tt><a href="yue_hk-pos-CCONJ.html">CCONJ</a></tt> 22, <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> 4), 但係 (<tt><a href="yue_hk-pos-CCONJ.html">CCONJ</a></tt> 20, <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> 8), 同埋 (<tt><a href="yue_hk-pos-CCONJ.html">CCONJ</a></tt> 16, <tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> 1), 不過 (<tt><a href="yue_hk-pos-CCONJ.html">CCONJ</a></tt> 13, <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> 9), 但 (<tt><a href="yue_hk-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> 2), 而家 (<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> 38, <tt><a href="yue_hk-pos-CCONJ.html">CCONJ</a></tt> 3), 同 (<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 43, <tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> 4, <tt><a href="yue_hk-pos-CCONJ.html">CCONJ</a></tt> 2), 以至 (<tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> 1, <tt><a href="yue_hk-pos-CCONJ.html">CCONJ</a></tt> 1), 加 (<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 2, <tt><a href="yue_hk-pos-CCONJ.html">CCONJ</a></tt> 1)
 
 The 10 most frequent ambiguous types:  或者 (<tt><a href="yue_hk-pos-CCONJ.html">CCONJ</a></tt> 30, <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> 1), 而 (<tt><a href="yue_hk-pos-CCONJ.html">CCONJ</a></tt> 22, <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> 4), 但係 (<tt><a href="yue_hk-pos-CCONJ.html">CCONJ</a></tt> 20, <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> 8), 同埋 (<tt><a href="yue_hk-pos-CCONJ.html">CCONJ</a></tt> 16, <tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> 1), 不過 (<tt><a href="yue_hk-pos-CCONJ.html">CCONJ</a></tt> 13, <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> 9), 但 (<tt><a href="yue_hk-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> 2), 而家 (<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> 38, <tt><a href="yue_hk-pos-CCONJ.html">CCONJ</a></tt> 3), 同 (<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 43, <tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> 4, <tt><a href="yue_hk-pos-CCONJ.html">CCONJ</a></tt> 2), 以至 (<tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> 1, <tt><a href="yue_hk-pos-CCONJ.html">CCONJ</a></tt> 1), 加 (<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 2, <tt><a href="yue_hk-pos-CCONJ.html">CCONJ</a></tt> 1)
 
@@ -52,11 +52,11 @@ The 10 most frequent ambiguous types:  或者 (<tt><a href="yue_hk-pos-CCONJ.htm
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.583333 (the average of all parts of speech is 1.624294).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.001746).
 
-The 1st highest number of forms (14) was observed with the lemma “_”: 不過, 以至, 但, 但係, 同, 同埋, 定, 定係, 或, 或者, 況且, 而, 與, 與及.
+The 1st highest number of forms (1) was observed with the lemma “不過”: 不過.
 
-The 2nd highest number of forms (1) was observed with the lemma “不過”: 不過.
+The 2nd highest number of forms (1) was observed with the lemma “以至”: 以至.
 
 The 3rd highest number of forms (1) was observed with the lemma “但”: 但.
 

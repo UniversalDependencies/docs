@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Imp`, `Perf`.
 
-10151 tokens (7%) have a non-empty value of `Aspect`.
-510 types (5%) occur at least once with a non-empty value of `Aspect`.
-263 lemmas (3%) occur at least once with a non-empty value of `Aspect`.
-The feature is used with 11 part-of-speech tags: <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (6330; 5% instances), <tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> (3791; 3% instances), <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> (11; 0% instances), <tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="ur_udtb-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ur_udtb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+10146 tokens (7%) have a non-empty value of `Aspect`.
+507 types (5%) occur at least once with a non-empty value of `Aspect`.
+244 lemmas (3%) occur at least once with a non-empty value of `Aspect`.
+The feature is used with 11 part-of-speech tags: <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (7067; 5% instances), <tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> (3049; 2% instances), <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> (11; 0% instances), <tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="ur_udtb-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ur_udtb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-6330 <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> tokens (53% of all `VERB` tokens) have a non-empty value of `Aspect`.
+7067 <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> tokens (56% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="ur_udtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (6330; 100%), <tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (6292; 99%), <tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5754; 91%), <tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5258; 83%), <tt><a href="ur_udtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4474; 71%), <tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (4354; 69%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="ur_udtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (7067; 100%), <tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (7021; 99%), <tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6381; 90%), <tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5851; 83%), <tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (4871; 69%), <tt><a href="ur_udtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4474; 63%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
-* `Imp` (1176; 19% of non-empty `Aspect`): کرتے، ہوتا، دیتے، ہوتی، رکھتے، ہوتے، کرتا، کرتی، رہتے، رکھتا
-* `Perf` (5154; 81% of non-empty `Aspect`): کیا، کہا، کی، بتایا، دیا، دی، کیے، ہوا، ہوئی، ہوئے
-* `EMPTY` (5532): کر، کرنے، ہو، ہے، ہونے، کرنا، کریں، ہوگا، دینے، رکھنے
+* `Imp` (1231; 17% of non-empty `Aspect`): کرتے، ہوتا، دیتے، ہوتی، رکھتے، ہوتے، کرتا، کرتی، چاہتے، رہتے
+* `Perf` (5836; 83% of non-empty `Aspect`): کیا، کہا، کی، دیا، دی، بتایا، لیا، کیے، ہوا، ہوئی
+* `EMPTY` (5628): کر، کرنے، ہو، ہے، ہونے، کرنا، کریں، دینے، ہوگا، رکھنے
 
 <table>
   <tr><th>Paradigm <i>کر</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>
@@ -78,15 +78,15 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 ### `AUX`
 
-3791 <tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> tokens (38% of all `AUX` tokens) have a non-empty value of `Aspect`.
+3049 <tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> tokens (33% of all `AUX` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="ur_udtb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (3791; 100%), <tt><a href="ur_udtb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (3791; 100%), <tt><a href="ur_udtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (3791; 100%), <tt><a href="ur_udtb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (3779; 100%), <tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3209; 85%), <tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2694; 71%), <tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2101; 55%).
+The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="ur_udtb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (3049; 100%), <tt><a href="ur_udtb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (3049; 100%), <tt><a href="ur_udtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (3049; 100%), <tt><a href="ur_udtb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (3037; 100%), <tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2582; 85%), <tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2096; 69%), <tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1580; 52%).
 
 `AUX` tokens may have the following values of `Aspect`:
 
-* `Imp` (450; 12% of non-empty `Aspect`): سکتا، جاتا، سکتے، سکتی، جاتی، جاتے، تھی، چاہتی، کرتے، تھے
-* `Perf` (3341; 88% of non-empty `Aspect`): ہوئے، گیا، گئی، گئے، دیا، رہی، رہے، رہا، لیا، دی
-* `EMPTY` (6198): ہے، ہیں، تھا، ہےں، جا، تھی، کر، تھے، جانے، جائے
+* `Imp` (395; 13% of non-empty `Aspect`): سکتا، جاتا، سکتے، سکتی، جاتی، جاتے، تھی، کرتے، تھے، تھا
+* `Perf` (2654; 87% of non-empty `Aspect`): ہوئے، گیا، گئی، گئے، رہی، رہے، رہا، سکے، جائے، ہوئی
+* `EMPTY` (6072): ہے، ہیں، تھا، ہےں، جا، تھی، کر، تھے، جانے، جائے
 
 <table>
   <tr><th>Paradigm <i>جا</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>
@@ -101,8 +101,8 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
   <tr><td><tt><tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>جاتا, جاتے</td><td>گیا</td></tr>
   <tr><td><tt><tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td>جاتا</td><td>جائے, گیا, گئے</td></tr>
   <tr><td><tt><tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ur_udtb-feat-Polite.html">Polite</a></tt><tt>=Form</tt></tt></td><td></td><td>گئیں</td></tr>
-  <tr><td><tt><tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>جاتی</td><td>گئی, گئیں</td></tr>
-  <tr><td><tt><tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>جاتی</td><td>گئی, جانی, تھی, جائے, گئیں, گیا, ہے</td></tr>
+  <tr><td><tt><tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>جاتی</td><td>گئی, جائی, گئیں</td></tr>
+  <tr><td><tt><tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>جاتی</td><td>گئی, جانی, تھی, جائے, گئیں, گیا</td></tr>
   <tr><td><tt><tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>گئیں</td></tr>
   <tr><td><tt><tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td>جاتی</td><td></td></tr>
   <tr><td><tt><tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td>جائے, گئے</td></tr>
@@ -118,13 +118,13 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 
 11 <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `ADJ` and `Aspect` co-occurred: <tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (10; 91%), <tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (6; 55%).
+The most frequent other feature values with which `ADJ` and `Aspect` co-occurred: <tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (10; 91%), <tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7; 64%), <tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (6; 55%).
 
 `ADJ` tokens may have the following values of `Aspect`:
 
 * `Imp` (2; 18% of non-empty `Aspect`): برساتی، دکھتی
 * `Perf` (9; 82% of non-empty `Aspect`): بھرے، بڑی، بھری، رنگے، سمجھے، سوچے، لکھی، پڑھی
-* `EMPTY` (10108): جاری، شامل، دیگر، سابق، موجود، ریاستی، پیدا، ہلاک، منعقد، سرکاری
+* `EMPTY` (10504): والے، جاری، شامل، دیگر، سابق، موجود، ریاستی، پیدا، ہلاک، والی
 
 ### `ADP`
 
@@ -135,7 +135,7 @@ The most frequent other feature values with which `ADP` and `Aspect` co-occurred
 `ADP` tokens may have the following values of `Aspect`:
 
 * `Perf` (6; 100% of non-empty `Aspect`): کی، گئے
-* `EMPTY` (28158): کے، کی، نے، سے، مےں، کو، کا، پر، میں، لیے
+* `EMPTY` (27800): کے، کی، نے، سے، مےں، کو، کا، پر، میں، لیے
 
 ### `NOUN`
 
@@ -168,7 +168,7 @@ The most frequent other feature values with which `PRON` and `Aspect` co-occurre
 `PRON` tokens may have the following values of `Aspect`:
 
 * `Perf` (2; 100% of non-empty `Aspect`): آیا، کیا
-* `EMPTY` (5594): اس، وہ، ان، انہوں، اپنے، جو، جس، یہ، اپنی، انہیں
+* `EMPTY` (5595): اس، وہ، ان، انہوں، اپنے، جو، جس، یہ، اپنی، انہیں
 
 ### `ADV`
 
@@ -210,14 +210,13 @@ The most frequent other feature values with which `PROPN` and `Aspect` co-occurr
 `PROPN` tokens may have the following values of `Aspect`:
 
 * `Imp` (1; 100% of non-empty `Aspect`): آتے
-* `EMPTY` (17136): پی، سی، آئی، ایس، کانگریس، بی، ہندوستان، ریڈی، اے، سنگھ
+* `EMPTY` (17134): پی، سی، آئی، ایس، کانگریس، بی، ہندوستان، ریڈی، اے، سنگھ
 
 ## Relations with Agreement in `Aspect`
 
 The 10 most frequent relations where parent and child node agree in `Aspect`:
-<tt>VERB --[<tt><a href="ur_udtb-dep-conj.html">conj</a></tt>]--> VERB</tt> (415; 51%),
-<tt>VERB --[<tt><a href="ur_udtb-dep-case.html">case</a></tt>]--> VERB</tt> (3; 60%),
-<tt>VERB --[<tt><a href="ur_udtb-dep-case.html">case</a></tt>]--> AUX</tt> (2; 67%),
-<tt>ADJ --[<tt><a href="ur_udtb-dep-nsubj.html">nsubj</a></tt>]--> ADJ</tt> (1; 100%),
-<tt>PRON --[<tt><a href="ur_udtb-dep-advmod.html">advmod</a></tt>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<tt><a href="ur_udtb-dep-conj.html">conj</a></tt>]--> VERB</tt> (423; 51%),
+<tt>ADJ --[<tt><a href="ur_udtb-dep-compound.html">compound</a></tt>]--> ADJ</tt> (2; 67%),
+<tt>PRON --[<tt><a href="ur_udtb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1; 100%),
+<tt>VERB --[<tt><a href="ur_udtb-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1; 100%).
 

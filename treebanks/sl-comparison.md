@@ -630,7 +630,7 @@ udver: '2'
             <li>DET: to, vse, svoje, svojo, svoj, ta, vsak, te, ves, njegovo</li>
             <li>NOUN: leto, primer, delo, dan, življenje, čas, način, mesto, vlogo, voljo</li>
             <li>NUM: eno, dve, tri, dva, štiri, tisoč, pet, deset, en, enega</li>
-            <li>PRON: ga, jih, jo, kaj, kar, me, nas, nekaj, vas, ju</li>
+            <li>PRON: ga, jih, jo, kaj, me, kar, nas, nekaj, vas, ju</li>
             <li>PROPN: Slovenijo, EU, Evropo, Ljubljano, Jugoslavijo, Slovence, Francijo, Nemčijo, Japonsko, Rusijo</li>
           </ul>
         </li>
@@ -1998,23 +1998,24 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
+            <li>VERB-Fin--NOUN-Acc (1)</li>
             <li>VERB-Fin--NOUN-Gen (258)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(do) (4)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(okoli) (2)</li>
-            <li>VERB-Fin--NOUN-Nom (3323)</li>
+            <li>VERB-Fin--NOUN-Nom (3322)</li>
             <li>VERB-Fin--PRON-Acc (1)</li>
-            <li>VERB-Fin--PRON-Gen (27)</li>
+            <li>VERB-Fin--PRON-Gen (28)</li>
             <li>VERB-Fin--PRON-Nom (297)</li>
             <li>VERB-Inf--NOUN-Acc (1)</li>
             <li>VERB-Inf--NOUN-Gen (2)</li>
-            <li>VERB-Inf--NOUN-Nom (48)</li>
+            <li>VERB-Inf--NOUN-Nom (47)</li>
             <li>VERB-Inf--PRON-Nom (4)</li>
             <li>VERB-Part--NOUN-Gen (174)</li>
             <li>VERB-Part--NOUN-Gen-ADP(do) (2)</li>
             <li>VERB-Part--NOUN-Loc (1)</li>
             <li>VERB-Part--NOUN-Nom (3133)</li>
             <li>VERB-Part--PRON-Acc (7)</li>
-            <li>VERB-Part--PRON-Gen (20)</li>
+            <li>VERB-Part--PRON-Gen (21)</li>
             <li>VERB-Part--PRON-Nom (242)</li>
           </ul>
         </li>
@@ -2046,36 +2047,36 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB-Fin--NOUN-Acc (2742)</li>
+            <li>VERB-Fin--NOUN-Acc (2743)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(za) (1)</li>
             <li>VERB-Fin--NOUN-Dat (128)</li>
-            <li>VERB-Fin--NOUN-Gen (553)</li>
+            <li>VERB-Fin--NOUN-Gen (554)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(do) (1)</li>
             <li>VERB-Fin--NOUN-Nom (9)</li>
             <li>VERB-Fin--PRON (16)</li>
             <li>VERB-Fin--PRON-Acc (777)</li>
             <li>VERB-Fin--PRON-Dat (227)</li>
-            <li>VERB-Fin--PRON-Gen (52)</li>
+            <li>VERB-Fin--PRON-Gen (50)</li>
             <li>VERB-Fin--PRON-Nom (7)</li>
             <li>VERB-Inf--NOUN-Acc (689)</li>
             <li>VERB-Inf--NOUN-Dat (46)</li>
             <li>VERB-Inf--NOUN-Gen (221)</li>
             <li>VERB-Inf--NOUN-Nom (3)</li>
             <li>VERB-Inf--PRON (8)</li>
-            <li>VERB-Inf--PRON-Acc (174)</li>
+            <li>VERB-Inf--PRON-Acc (175)</li>
             <li>VERB-Inf--PRON-Dat (34)</li>
             <li>VERB-Inf--PRON-Gen (49)</li>
             <li>VERB-Inf--PRON-Nom (2)</li>
-            <li>VERB-Part--NOUN-Acc (3019)</li>
-            <li>VERB-Part--NOUN-Dat (146)</li>
+            <li>VERB-Part--NOUN-Acc (3020)</li>
+            <li>VERB-Part--NOUN-Dat (145)</li>
             <li>VERB-Part--NOUN-Gen (562)</li>
             <li>VERB-Part--NOUN-Gen-ADP(do) (3)</li>
             <li>VERB-Part--NOUN-Ins (1)</li>
             <li>VERB-Part--NOUN-Nom (1)</li>
             <li>VERB-Part--PRON (45)</li>
-            <li>VERB-Part--PRON-Acc (1027)</li>
-            <li>VERB-Part--PRON-Dat (303)</li>
-            <li>VERB-Part--PRON-Gen (69)</li>
+            <li>VERB-Part--PRON-Acc (1029)</li>
+            <li>VERB-Part--PRON-Dat (304)</li>
+            <li>VERB-Part--PRON-Gen (68)</li>
             <li>VERB-Part--PRON-Nom (2)</li>
             <li>VERB-Sup--NOUN-Acc (7)</li>
             <li>VERB-Sup--NOUN-Gen (1)</li>
@@ -2132,13 +2133,13 @@ udver: '2'
             <li>VERB-Inf--NOUN-Gen (1)</li>
             <li>VERB-Inf--PRON (1)</li>
             <li>VERB-Inf--PRON-Acc (2)</li>
-            <li>VERB-Inf--PRON-Dat (44)</li>
+            <li>VERB-Inf--PRON-Dat (45)</li>
             <li>VERB-Inf--PRON-Gen (1)</li>
             <li>VERB-Part--NOUN-Acc (19)</li>
-            <li>VERB-Part--NOUN-Dat (143)</li>
+            <li>VERB-Part--NOUN-Dat (145)</li>
             <li>VERB-Part--PRON (4)</li>
-            <li>VERB-Part--PRON-Acc (31)</li>
-            <li>VERB-Part--PRON-Dat (296)</li>
+            <li>VERB-Part--PRON-Acc (27)</li>
+            <li>VERB-Part--PRON-Dat (295)</li>
             <li>VERB-Sup--PRON-Acc (1)</li>
           </ul>
         </li>
@@ -2184,7 +2185,7 @@ udver: '2'
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
-        <li>This corpus contains 149 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: predstaviti se, izbrati si, zagotoviti si, poiskati si, privoščiti si, pridobiti si, kupiti si, narediti si, pomagati si, sleči se, vpisati se, nadeti si, obdati se, obleči si, obremenjevati se, poviteziti se, poškodovati se, preživljati se, prijaviti se, pripeljati se, priskrbeti si, reči si, rešiti se, služiti si, umiti se, uničiti si, zaščititi se, zlomiti si, želeti si, biti se, bičati se, braniti se, darovati sebe, delati si, določiti si, doživeti svojo, financirati se, hraniti se, identificirati se, iskati si, iskati svojo, izboljšati si, izboriti si, izbrizgati si, izdelati si, izničiti se, izprositi si, karikirati sebe, kaznovati sebe, kopati si</li>
+        <li>This corpus contains 150 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: predstaviti se, izbrati si, zagotoviti si, poiskati si, privoščiti si, pridobiti si, kupiti si, narediti si, pomagati si, sleči se, vpisati se, nadeti si, obdati se, obleči si, obremenjevati se, poviteziti se, poškodovati se, preživljati se, prijaviti se, pripeljati se, priskrbeti si, reči si, rešiti se, služiti si, umiti se, uničiti si, zaščititi se, zlomiti si, želeti si, biti se, bičati se, braniti se, darovati sebe, delati si, določiti si, doživeti svojo, financirati se, hraniti se, identificirati se, iskati si, iskati svojo, izboljšati si, izboriti si, izbrizgati si, izdelati si, izničiti se, izprositi si, karikirati sebe, kaznovati sebe, kopati si</li>
           <ul>
             <li>Out of those, 3 lemmas occurred more than once, but never without a reflexive dependent. Examples: obleči, poviteziti, preobleči</li>
           </ul>

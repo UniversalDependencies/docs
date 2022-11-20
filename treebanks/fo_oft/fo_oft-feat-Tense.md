@@ -11,38 +11,38 @@ It occurs with 3 different values: `Imp`, `Past`, `Pres`.
 
 1348 tokens (13%) have a non-empty value of `Tense`.
 217 types (7%) occur at least once with a non-empty value of `Tense`.
-149 lemmas (6%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="fo_oft-pos-AUX.html">AUX</a></tt> (961; 10% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt> (387; 4% instances).
+148 lemmas (6%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 2 part-of-speech tags: <tt><a href="fo_oft-pos-AUX.html">AUX</a></tt> (949; 9% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt> (399; 4% instances).
 
 ### `AUX`
 
-961 <tt><a href="fo_oft-pos-AUX.html">AUX</a></tt> tokens (98% of all `AUX` tokens) have a non-empty value of `Tense`.
+949 <tt><a href="fo_oft-pos-AUX.html">AUX</a></tt> tokens (98% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="fo_oft-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (961; 100%), <tt><a href="fo_oft-feat-Number.html">Number</a></tt><tt>=Sing</tt> (716; 75%), <tt><a href="fo_oft-feat-Person.html">Person</a></tt><tt>=3</tt> (711; 74%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="fo_oft-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (949; 100%), <tt><a href="fo_oft-feat-Number.html">Number</a></tt><tt>=Sing</tt> (706; 74%), <tt><a href="fo_oft-feat-Person.html">Person</a></tt><tt>=3</tt> (701; 74%).
 
 `AUX` tokens may have the following values of `Tense`:
 
-* `Past` (161; 17% of non-empty `Tense`): <em>var, vóru, varð, skuldi, máttu, vórðu, hevði, kom</em>
-* `Pres` (800; 83% of non-empty `Tense`): <em>er, eru, verður, hevur, kann, skal, hava, kunnu, skulu, havi</em>
+* `Past` (152; 16% of non-empty `Tense`): <em>var, vóru, varð, skuldi, máttu, hevði</em>
+* `Pres` (797; 84% of non-empty `Tense`): <em>er, eru, hevur, verður, kann, skal, hava, kunnu, skulu, havi</em>
 * `EMPTY` (18): <em>verið, vera</em>
 
 <table>
   <tr><th>Paradigm <i>vera</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
-  <tr><td><tt><tt><a href="fo_oft-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fo_oft-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>er</em></td><td><em>var</em></td></tr>
+  <tr><td><tt><tt><a href="fo_oft-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fo_oft-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>er, varir</em></td><td><em>var</em></td></tr>
   <tr><td><tt><tt><a href="fo_oft-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>eru</em></td><td><em>vóru</em></td></tr>
 </table>
 
 ### `VERB`
 
-387 <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt> tokens (69% of all `VERB` tokens) have a non-empty value of `Tense`.
+399 <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt> tokens (70% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="fo_oft-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (371; 96%), <tt><a href="fo_oft-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (371; 96%), <tt><a href="fo_oft-feat-Number.html">Number</a></tt><tt>=Sing</tt> (307; 79%), <tt><a href="fo_oft-feat-Person.html">Person</a></tt><tt>=3</tt> (229; 59%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="fo_oft-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (383; 96%), <tt><a href="fo_oft-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (383; 96%), <tt><a href="fo_oft-feat-Number.html">Number</a></tt><tt>=Sing</tt> (317; 79%), <tt><a href="fo_oft-feat-Person.html">Person</a></tt><tt>=3</tt> (239; 60%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Imp` (16; 4% of non-empty `Tense`): <em>Sí, Drívið, Les, end</em>
-* `Past` (163; 42% of non-empty `Tense`): <em>kom, fór, tók, gjørdist, hevði, vann, bleiv, spældi, byrjaði, doyðu</em>
-* `Pres` (208; 54% of non-empty `Tense`): <em>býr, hevur, liggur, eru, fer, er, stendur, eitur, fæst, nevnist</em>
+* `Past` (172; 43% of non-empty `Tense`): <em>kom, varð, fór, tók, gjørdist, hevði, vann, bleiv, spældi, byrjaði</em>
+* `Pres` (211; 53% of non-empty `Tense`): <em>býr, hevur, liggur, eru, fer, er, stendur, eitur, fæst, nevnist</em>
 * `EMPTY` (174): <em>síggja, sæst, fáa, gera, koma, byggja, eta, gjørt, hava, kent</em>
 
 <table>

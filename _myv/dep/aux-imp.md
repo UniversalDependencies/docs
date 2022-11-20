@@ -18,4 +18,4 @@ we use `aux:imp` for all forms and uses of the highly suppletive optative auxili
 aux:imp(ярстанок, давай)
 ~~~
 
-<!-- Interlanguage links updated So kvě 14 19:03:05 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:10 CET 2022 -->

@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="gub_tudet-pos-PART.
 
 1 <tt><a href="gub_tudet-pos-PART.html">PART</a></tt> tokens (0% of all `PART` tokens) have a non-empty value of `Foc`.
 
-The most frequent other feature values with which `PART` and `Foc` co-occurred: <tt><a href="gub_tudet-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `PART` and `Foc` co-occurred: <tt><a href="gub_tudet-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="gub_tudet-feat-Speech.html">Speech</a></tt><tt>=EMPTY</tt> (1; 100%).
 
 `PART` tokens may have the following values of `Foc`:
 

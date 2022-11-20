@@ -10,7 +10,7 @@ This feature is language-specific.
 It occurs with 2 different values: `Dict`, `Incp`.
 
 44 tokens (1%) have a non-empty value of `InfForm`.
-30 types (3%) occur at least once with a non-empty value of `InfForm`.
+35 types (3%) occur at least once with a non-empty value of `InfForm`.
 29 lemmas (4%) occur at least once with a non-empty value of `InfForm`.
 The feature is used with 1 part-of-speech tags: <tt><a href="mr_ufal-pos-VERB.html">VERB</a></tt> (44; 1% instances).
 
@@ -22,12 +22,12 @@ The most frequent other feature values with which `VERB` and `InfForm` co-occurr
 
 `VERB` tokens may have the following values of `InfForm`:
 
-* `Dict` (22; 50% of non-empty `InfForm`): <em>_, कळविण्यात, उडवण्यात, उभारण्यात, करण्यात, ठेवण्यात, देणे, देण्यात, पाठविण्यात, बोलावणे</em>
-* `Incp` (22; 50% of non-empty `InfForm`): <em>होऊ, ऐकू, करू, चालू, येऊ, _, खेळू, चालवू, जाऊ, देऊ</em>
+* `Dict` (22; 50% of non-empty `InfForm`): <em>कळविण्यात, उडवण्यात, उभारण्यात, करण्यात, ठेवण्यात, देणे, देण्यात, नेण्या, पाठविण्यात, फेडण्या</em>
+* `Incp` (22; 50% of non-empty `InfForm`): <em>होऊ, ऐकू, करू, चालू, येऊ, खेळू, चालवू, जाऊ, देऊ, बोलू</em>
 
 <table>
   <tr><th>Paradigm <i>येणे</i></th><th><tt>Dict</tt></th><th><tt>Incp</tt></th></tr>
-  <tr><td><tt><tt><a href="mr_ufal-feat-Case.html">Case</a></tt><tt>=Abs</tt></tt></td><td><em>_</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="mr_ufal-feat-Case.html">Case</a></tt><tt>=Abs</tt></tt></td><td><em>येण्या</em></td><td></td></tr>
   <tr><td><tt></tt></td><td></td><td><em>येऊ</em></td></tr>
 </table>
 

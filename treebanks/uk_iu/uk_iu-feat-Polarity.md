@@ -9,19 +9,19 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Neg`.
 
-1580 tokens (1%) have a non-empty value of `Polarity`.
+1583 tokens (1%) have a non-empty value of `Polarity`.
 14 types (0%) occur at least once with a non-empty value of `Polarity`.
 6 lemmas (0%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 3 part-of-speech tags: <tt><a href="uk_iu-pos-PART.html">PART</a></tt> (1444; 1% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (88; 0% instances), <tt><a href="uk_iu-pos-CCONJ.html">CCONJ</a></tt> (48; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="uk_iu-pos-PART.html">PART</a></tt> (1447; 1% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (88; 0% instances), <tt><a href="uk_iu-pos-CCONJ.html">CCONJ</a></tt> (48; 0% instances).
 
 ### `PART`
 
-1444 <tt><a href="uk_iu-pos-PART.html">PART</a></tt> tokens (41% of all `PART` tokens) have a non-empty value of `Polarity`.
+1447 <tt><a href="uk_iu-pos-PART.html">PART</a></tt> tokens (41% of all `PART` tokens) have a non-empty value of `Polarity`.
 
 `PART` tokens may have the following values of `Polarity`:
 
-* `Neg` (1444; 100% of non-empty `Polarity`): <em>не, ні, ані</em>
-* `EMPTY` (2080): <em>й, і, ж, то, навіть, тільки, лише, саме, чи, от</em>
+* `Neg` (1447; 100% of non-empty `Polarity`): <em>не, ні, ані</em>
+* `EMPTY` (2095): <em>й, і, ж, то, навіть, тільки, лише, чи, саме, от</em>
 
 ### `VERB`
 
@@ -32,7 +32,7 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (88; 100% of non-empty `Polarity`): <em>немає, нема, незважаючи, ні, немаю, неприсідає</em>
-* `EMPTY` (12754): <em>є, може, має, було, каже, можуть, мав, міг, мають, був</em>
+* `EMPTY` (12813): <em>є, може, має, було, каже, можуть, мав, міг, мають, був</em>
 
 ### `CCONJ`
 
@@ -41,7 +41,7 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 `CCONJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (48; 100% of non-empty `Polarity`): <em>ні, ані</em>
-* `EMPTY` (4734): <em>і, та, а, але, й, або, чи, проте, то, однак</em>
+* `EMPTY` (4750): <em>і, та, а, але, й, або, чи, проте, то, однак</em>
 
 ## Relations with Agreement in `Polarity`
 

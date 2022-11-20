@@ -11,7 +11,7 @@ This relation is universal.
 3708 nodes (1%) are attached to their parents as `expl`.
 
 3386 instances of `expl` (91%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.86299892125135.
+Average distance between parent and child is 2.86272923408846.
 
 The following 4 pairs of parts of speech are connected with `expl`: <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt> (3683; 99% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt> (22; 1% instances), <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt>-<tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt>-<tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 

@@ -13,16 +13,16 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 
 119690 tokens (60%) have a non-empty value of `Number`.
 34629 types (97%) occur at least once with a non-empty value of `Number`.
-16328 lemmas (88%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (48387; 24% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (22931; 11% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (14004; 7% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (12826; 6% instances), <tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (12027; 6% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt> (7332; 4% instances), <tt><a href="hr_set-pos-PRON.html">PRON</a></tt> (1589; 1% instances), <tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (594; 0% instances).
+16327 lemmas (88%) occur at least once with a non-empty value of `Number`.
+The feature is used with 8 part-of-speech tags: <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (48386; 24% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (22932; 11% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (14004; 7% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (12826; 6% instances), <tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (12027; 6% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt> (7332; 4% instances), <tt><a href="hr_set-pos-PRON.html">PRON</a></tt> (1589; 1% instances), <tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (594; 0% instances).
 
 ### `NOUN`
 
-48387 <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
+48386 <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (13859; 29% of non-empty `Number`): <em>godina, milijuna, eura, ljudi, kuna, zemalja, poslova, dana, zemlje, prava</em>
+* `Plur` (13858; 29% of non-empty `Number`): <em>godina, milijuna, eura, ljudi, kuna, zemalja, poslova, dana, zemlje, prava</em>
 * `Sing` (34528; 71% of non-empty `Number`): <em>godine, predsjednik, vrijeme, način, ministar, dio, ponedjeljak, tjedna, premijer, broj</em>
 * `EMPTY` (191): <em>dr., kg, GB, prof., m, km, g., kn, cm, mil.</em>
 
@@ -37,13 +37,13 @@ The feature is used with 8 part-of-speech tags: <tt><a href="hr_set-pos-NOUN.htm
 
 ### `ADJ`
 
-22931 <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> tokens (95% of all `ADJ` tokens) have a non-empty value of `Number`.
+22932 <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> tokens (95% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="hr_set-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (21823; 95%), <tt><a href="hr_set-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (20684; 90%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="hr_set-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (21824; 95%), <tt><a href="hr_set-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (20684; 90%).
 
 `ADJ` tokens may have the following values of `Number`:
 
-* `Plur` (7830; 34% of non-empty `Number`): <em>svi, sve, vanjskih, novih, svih, drugih, unutarnjih, mnogi, nove, drugi</em>
+* `Plur` (7831; 34% of non-empty `Number`): <em>svi, sve, vanjskih, novih, svih, drugih, unutarnjih, mnogi, nove, drugi</em>
 * `Sing` (15101; 66% of non-empty `Number`): <em>prvi, novi, glavni, prošle, drugi, novog, bivši, prošlog, potrebno, najveći</em>
 * `EMPTY` (1206): <em>1., 2004., 2008., 2007., 2009., 2006., 2., 2005., 2010., 21.</em>
 
@@ -228,7 +228,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 * `Plur` (776; 49% of non-empty `Number`): <em>ih, im, njih, mi, nam, vam, nas, oni, njima, vas</em>
 * `Sing` (813; 51% of non-empty `Number`): <em>ga, mu, on, ona, mi, joj, ono, ja, je, njega</em>
-* `EMPTY` (3745): <em>se, što, ništa, tko, nešto, nitko, čime, čega, sebe, sebi</em>
+* `EMPTY` (3713): <em>se, što, ništa, tko, nešto, nitko, čime, čega, sebe, sebi</em>
 
 `Number` seems to be **lexical feature** of `PRON`. 100% lemmas (11) occur only with one value of `Number`.
 
@@ -267,14 +267,14 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="hr_set-dep-amod.html">amod</a></tt>]--> ADJ</tt> (17182; 95%),
-<tt>NOUN --[<tt><a href="hr_set-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (9324; 62%),
+<tt>NOUN --[<tt><a href="hr_set-dep-amod.html">amod</a></tt>]--> ADJ</tt> (17180; 95%),
+<tt>NOUN --[<tt><a href="hr_set-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (9184; 62%),
 <tt>VERB --[<tt><a href="hr_set-dep-aux.html">aux</a></tt>]--> AUX</tt> (5315; 82%),
-<tt>VERB --[<tt><a href="hr_set-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (4898; 85%),
-<tt>VERB --[<tt><a href="hr_set-dep-obl.html">obl</a></tt>]--> NOUN</tt> (3830; 51%),
-<tt>NOUN --[<tt><a href="hr_set-dep-det.html">det</a></tt>]--> DET</tt> (3210; 98%),
+<tt>VERB --[<tt><a href="hr_set-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (4897; 85%),
+<tt>VERB --[<tt><a href="hr_set-dep-obl.html">obl</a></tt>]--> NOUN</tt> (3829; 51%),
+<tt>NOUN --[<tt><a href="hr_set-dep-det.html">det</a></tt>]--> DET</tt> (3213; 98%),
 <tt>NOUN --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2864; 78%),
 <tt>PROPN --[<tt><a href="hr_set-dep-flat.html">flat</a></tt>]--> PROPN</tt> (2390; 99%),
-<tt>NOUN --[<tt><a href="hr_set-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (2093; 74%),
-<tt>VERB --[<tt><a href="hr_set-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (1772; 88%).
+<tt>NOUN --[<tt><a href="hr_set-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (2092; 74%),
+<tt>VERB --[<tt><a href="hr_set-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (1769; 88%).
 

@@ -100,4 +100,4 @@ The relation is also used for most MWEs that function as proper nouns, such as p
 ~~~
 
 In Naija the [nmod:appos]() relation is used instead of `flat` when part of the expression serves to define, name, or describe the rest.
-<!-- Interlanguage links updated So kvě 14 19:03:36 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:26 CET 2022 -->

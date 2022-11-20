@@ -10,7 +10,7 @@ This feature is universal.
 It occurs with 1 different values: `Neg`.
 
 277 tokens (1%) have a non-empty value of `Polarity`.
-16 types (0%) occur at least once with a non-empty value of `Polarity`.
+17 types (0%) occur at least once with a non-empty value of `Polarity`.
 2 lemmas (0%) occur at least once with a non-empty value of `Polarity`.
 The feature is used with 1 part-of-speech tags: <tt><a href="hbo_ptnk-pos-ADV.html">ADV</a></tt> (277; 1% instances).
 
@@ -20,6 +20,6 @@ The feature is used with 1 part-of-speech tags: <tt><a href="hbo_ptnk-pos-ADV.ht
 
 `ADV` tokens may have the following values of `Polarity`:
 
-* `Neg` (277; 100% of non-empty `Polarity`): <em>_, אַל, לֹ֣א, לֹ֥א, לֹֽא, לֹא, לֹ֤א, לֹ֨א, לֹ֕א, אַֽל</em>
-* `EMPTY` (553): <em>_, גַּם, שָׁ֖ם, גַם, כֵּ֥ן, מְאֹֽד, גַּ֣ם, שָׁ֔ם, שָֽׁם, כֵֽן</em>
+* `Neg` (277; 100% of non-empty `Polarity`): <em>לא, אַל, לֹ֣א, לֹ֥א, לֹֽא, לֹא, לֹ֤א, לֹ֨א, אל, לֹ֕א</em>
+* `EMPTY` (553): <em>גַּם, גם, עתה, שׁם, שָׁ֖ם, גַם, עוד, כֵּ֥ן, מְאֹֽד, גַּ֣ם</em>
 

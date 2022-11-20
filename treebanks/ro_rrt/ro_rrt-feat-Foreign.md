@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-119 tokens (0%) have a non-empty value of `Foreign`.
-113 types (0%) occur at least once with a non-empty value of `Foreign`.
-113 lemmas (1%) occur at least once with a non-empty value of `Foreign`.
-The feature is used with 7 part-of-speech tags: <tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt> (59; 0% instances), <tt><a href="ro_rrt-pos-X.html">X</a></tt> (29; 0% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (22; 0% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+121 tokens (0%) have a non-empty value of `Foreign`.
+114 types (0%) occur at least once with a non-empty value of `Foreign`.
+114 lemmas (1%) occur at least once with a non-empty value of `Foreign`.
+The feature is used with 7 part-of-speech tags: <tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt> (59; 0% instances), <tt><a href="ro_rrt-pos-X.html">X</a></tt> (31; 0% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (22; 0% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 ### `PROPN`
 
@@ -21,22 +21,20 @@ The feature is used with 7 part-of-speech tags: <tt><a href="ro_rrt-pos-PROPN.ht
 `PROPN` tokens may have the following values of `Foreign`:
 
 * `Yes` (59; 100% of non-empty `Foreign`): <em>Act, Albion, Award, Awards, Beauty, Book, Boyer, Breisgau, Bromwich, Carlo</em>
-* `EMPTY` (5830): <em>România, Winston, României, București, Timișoara, Iași, Ion, Paris, Alexandru, O'Brien</em>
+* `EMPTY` (5827): <em>România, Winston, României, București, Timișoara, Iași, Ion, Paris, Alexandru, O'Brien</em>
 
 `Foreign` seems to be **lexical feature** of `PROPN`. 100% lemmas (59) occur only with one value of `Foreign`.
 
 ### `X`
 
-29 <tt><a href="ro_rrt-pos-X.html">X</a></tt> tokens (37% of all `X` tokens) have a non-empty value of `Foreign`.
-
-The most frequent other feature values with which `X` and `Foreign` co-occurred: <tt><a href="ro_rrt-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (29; 100%).
+31 <tt><a href="ro_rrt-pos-X.html">X</a></tt> tokens (19% of all `X` tokens) have a non-empty value of `Foreign`.
 
 `X` tokens may have the following values of `Foreign`:
 
-* `Yes` (29; 100% of non-empty `Foreign`): <em>A­, Book, IN, LEARNING, Mode, OUT, Records, Road, Sybir, alia</em>
-* `EMPTY` (50): <em>mp, 5a, American, K., inter, -a, ACTIVE, Awards, English, Guiness</em>
+* `Yes` (31; 100% of non-empty `Foreign`): <em>alia, A­, Book, IN, LEARNING, Mode, OUT, Records, Road, Sybir</em>
+* `EMPTY` (130): <em>000, 500, 100, mp, 0, 2, 5a, American, K., dată</em>
 
-`Foreign` seems to be **lexical feature** of `X`. 100% lemmas (29) occur only with one value of `Foreign`.
+`Foreign` seems to be **lexical feature** of `X`. 100% lemmas (30) occur only with one value of `Foreign`.
 
 ### `NOUN`
 
@@ -47,7 +45,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (22; 100% of non-empty `Foreign`): <em>of, Flag, goldies, mail, Corner, Design, Deum, End, Forum, Play</em>
-* `EMPTY` (54248): <em>ani, timp, cazul, conformitate, loc, timpul, membre, mod, statele, acord</em>
+* `EMPTY` (54234): <em>ani, timp, cazul, conformitate, loc, timpul, membre, mod, statele, acord</em>
 
 `Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (19) occur only with one value of `Foreign`.
 
@@ -60,7 +58,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (6; 100% of non-empty `Foreign`): <em>Dance, Felin, Industrial, admirari, normal, poetica</em>
-* `EMPTY` (15292): <em>mare, asemenea, europene, prezentul, nou, necesare, prezenta, europeană, mari, european</em>
+* `EMPTY` (15293): <em>mare, asemenea, europene, prezentul, nou, necesare, prezenta, europeană, mari, european</em>
 
 ### `ADP`
 
@@ -71,7 +69,7 @@ The most frequent other feature values with which `ADP` and `Foreign` co-occurre
 `ADP` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>de</em>
-* `EMPTY` (30624): <em>de, în, la, cu, din, pe, pentru, prin, după, într-</em>
+* `EMPTY` (31054): <em>de, în, la, cu, din, pe, pentru, prin, după, ca</em>
 
 ### `NUM`
 
@@ -82,7 +80,7 @@ The most frequent other feature values with which `NUM` and `Foreign` co-occurre
 `NUM` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>II</em>
-* `EMPTY` (5604): <em>1, 2, 3, două, 4, trei, 5, 6, primul, doi</em>
+* `EMPTY` (5548): <em>1, 2, 3, două, 4, trei, 5, 6, primul, doi</em>
 
 ### `VERB`
 

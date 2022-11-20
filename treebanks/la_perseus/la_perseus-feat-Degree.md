@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Latin-Perseus: Features: `Degree`
 
 This feature is universal.
-It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
+It occurs with 3 different values: `Abs`, `Cmp`, `Pos`.
 
 267 tokens (1%) have a non-empty value of `Degree`.
 186 types (2%) occur at least once with a non-empty value of `Degree`.
@@ -22,13 +22,13 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 `ADJ` tokens may have the following values of `Degree`:
 
+* `Abs` (73; 37% of non-empty `Degree`): <em>extremo, summa, extrema, maximus, proxima, proximam, proximis, summo, taeterrima, ultima</em>
 * `Cmp` (112; 56% of non-empty `Degree`): <em>amplius, maiore, melior, plura, maior, maiora, maiores, minor, minores, minus</em>
 * `Pos` (14; 7% of non-empty `Degree`): <em>Aliam, Augustalia, Capenam, Hadriano, Marcia, Martiales, Narbonensi, Reducis, Romani, Romanorum</em>
-* `Sup` (73; 37% of non-empty `Degree`): <em>extremo, summa, extrema, maximus, proxima, proximam, proximis, summo, taeterrima, ultima</em>
 * `EMPTY` (2580): <em>magna, omnia, omnes, omnis, omnium, publicae, suo, publicam, suis, duo</em>
 
 <table>
-  <tr><th>Paradigm <i>magnus</i></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
+  <tr><th>Paradigm <i>magnus</i></th><th><tt>Cmp</tt></th><th><tt>Abs</tt></th></tr>
   <tr><td><tt><tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_perseus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>maiore</em></td><td></td></tr>
   <tr><td><tt><tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_perseus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>maioribus</em></td><td></td></tr>
   <tr><td><tt><tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_perseus-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>maiore</em></td><td></td></tr>
@@ -51,12 +51,12 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 `ADV` tokens may have the following values of `Degree`:
 
+* `Abs` (16; 25% of non-empty `Degree`): <em>Novissime, maxime, plurimum, seuerissime, aegerrime, familiarissime, minime, minimum, parcissime, pertinacissime</em>
 * `Cmp` (48; 75% of non-empty `Degree`): <em>magis, prius, minus, diutius, potius, facilius, plus, saepius, validius, acerbius</em>
-* `Sup` (16; 25% of non-empty `Degree`): <em>Novissime, maxime, plurimum, seuerissime, aegerrime, familiarissime, minime, minimum, parcissime, pertinacissime</em>
-* `EMPTY` (2139): <em>non, iam, ne, tamen, quam, sic, nunc, ita, modo, etiam</em>
+* `EMPTY` (2149): <em>non, iam, ne, tamen, quam, sic, nunc, ita, modo, etiam</em>
 
 <table>
-  <tr><th>Paradigm <i>parvus</i></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
+  <tr><th>Paradigm <i>parvus</i></th><th><tt>Cmp</tt></th><th><tt>Abs</tt></th></tr>
   <tr><td><tt></tt></td><td><em>minus</em></td><td><em>minime, minimum</em></td></tr>
 </table>
 
@@ -72,7 +72,7 @@ The most frequent other feature values with which `VERB` and `Degree` co-occurre
 
 * `Cmp` (2; 50% of non-empty `Degree`): <em>audentior, doctior</em>
 * `Pos` (2; 50% of non-empty `Degree`): <em>apsenti, natus</em>
-* `EMPTY` (6160): <em>est, esse, habet, inquit, erat, dixit, fuit, vidi, coepit, dedit</em>
+* `EMPTY` (5793): <em>habet, inquit, dixit, vidi, coepit, dedit, audivi, fecit, habere, dicere</em>
 
 ## Relations with Agreement in `Degree`
 

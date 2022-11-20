@@ -34,7 +34,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (43; 100% of non-empty `Abbr`): <em>esim., jne, mm., n., yms., jne., jnk, tms., ed., edell.</em>
-* `EMPTY` (1933): <em>myös, niin, hyvin, nyt, ok, kuitenkin, jo, vain, hieman, paljon</em>
+* `EMPTY` (1935): <em>myös, niin, hyvin, nyt, ok, kuitenkin, jo, vain, hieman, paljon</em>
 
 `Abbr` seems to be **lexical feature** of `ADV`. 100% lemmas (23) occur only with one value of `Abbr`.
 

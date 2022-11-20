@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-285 nodes (1%) are attached to their parents as `fixed`.
+299 nodes (1%) are attached to their parents as `fixed`.
 
-285 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.04912280701754.
+299 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.04682274247492.
 
-The following 12 pairs of parts of speech are connected with `fixed`: <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt>-<tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> (217; 76% instances), <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt>-<tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> (33; 12% instances), <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt>-<tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (9; 3% instances), <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt>-<tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> (6; 2% instances), <tt><a href="cop_scriptorium-pos-X.html">X</a></tt>-<tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (6; 2% instances), <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt>-<tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt>-<tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt>-<tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `fixed`: <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt>-<tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> (226; 76% instances), <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt>-<tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> (34; 11% instances), <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt>-<tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (13; 4% instances), <tt><a href="cop_scriptorium-pos-X.html">X</a></tt>-<tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (7; 2% instances), <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt>-<tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> (6; 2% instances), <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt>-<tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt>-<tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt>-<tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -64,32 +64,19 @@ The following 12 pairs of parts of speech are connected with `fixed`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 fixed	color:blue
-1	ⲁⲛⲟⲛ	ⲁⲛⲟⲛ	PRON	PPERI	Definite=Def|Number=Plur|Person=1|PronType=Prs	6	dislocated	_	_
-2	ⲅⲁⲣ	ⲅⲁⲣ	PART	PTC	Foreign=Yes	6	advmod	_	OrigLang=grc
-3	ⲉⲓⲥ	ⲉⲓⲥ	PART	PTC	_	6	advmod	_	_
-4	ϩⲏⲏⲧⲉ	ϩⲏⲏⲧⲉ	PART	PTC	_	3	fixed	_	_
-5	ⲧⲛ	ⲁⲛⲟⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	Orig=ⲧⲛ̅
-6	ⲛⲁⲩ	ⲛⲁⲩ	VERB	V	VerbForm=Fin	0	root	_	_
-7	ⲉ	ⲉ	ADP	PREP	_	9	case	_	_
-8	ⲛⲉⲛ	ⲡⲉⲛ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
-9	ⲉⲣⲏⲩ	ⲉⲣⲏⲩ	NOUN	N	PronType=Rcp	6	obl	_	_
-10	ⲙ	ⲛ	ADP	PREP	_	11	case	_	Orig=ⲙ̅
-11	ⲙⲏⲛⲉ	ⲙⲏⲛⲉ	NOUN	N	_	6	obl	_	Orig=ⲙⲏⲏⲛⲉ
-12	·	·	PUNCT	PUNCT	_	15	punct	_	_
-13	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	15	cc	_	_
-14	ⲧⲛ	ⲁⲛⲟⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=1|PronType=Prs	15	nsubj	_	Orig=ⲧⲛ̅
-15	ⲥⲟⲟⲩϩ	ⲥⲱⲟⲩϩ	VERB	VSTAT	VerbForm=Fin	6	advcl	_	_
-16	ⲛ	ⲛ	ADP	PREP	_	17	case	_	Orig=ⲛ̅
-17	ⲥⲩⲛⲁⲝⲓⲥ	ⲥⲩⲛⲁⲝⲓⲥ	NOUN	N	Foreign=Yes	15	obl	_	Entity=(abstract)|OrigLang=grc
-18	ϩⲓ	ϩⲓ	ADP	PREP	_	20	case	_	_
-19	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	20	det	_	_
-20	ⲥⲟⲡ	ⲥⲟⲡ	NOUN	N	_	15	obl	_	_
-21	·	·	PUNCT	PUNCT	_	6	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 fixed	color:blue
+1	ⲉⲓⲥ	ⲉⲓⲥ	PART	PTC	_	4	advmod	_	_
+2	ϩⲏⲏⲧⲉ	ϩⲏⲏⲧⲉ	PART	PTC	_	1	fixed	_	_
+3	ϯ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+4	ϭⲱϣⲧ	ϭⲱϣⲧ	VERB	V	VerbForm=Fin	0	root	_	Orig=ϭⲱϣⲧ̅
+5	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	4	advmod	_	_
+6	ϩⲏⲧ	ϩⲏⲧ	NOUN	N	_	4	obj	_	_
+7	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	6	det	_	Orig=ⲕ̅
+8	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
 ~~~
 

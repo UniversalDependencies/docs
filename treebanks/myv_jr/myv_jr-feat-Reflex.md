@@ -9,30 +9,30 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-88 tokens (1%) have a non-empty value of `Reflex`.
-26 types (0%) occur at least once with a non-empty value of `Reflex`.
+108 tokens (1%) have a non-empty value of `Reflex`.
+33 types (1%) occur at least once with a non-empty value of `Reflex`.
 8 lemmas (0%) occur at least once with a non-empty value of `Reflex`.
-The feature is used with 2 part-of-speech tags: <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (71; 0% instances), <tt><a href="myv_jr-pos-DET.html">DET</a></tt> (17; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (84; 0% instances), <tt><a href="myv_jr-pos-DET.html">DET</a></tt> (24; 0% instances).
 
 ### `PRON`
 
-71 <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> tokens (7% of all `PRON` tokens) have a non-empty value of `Reflex`.
+84 <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> tokens (7% of all `PRON` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (71; 100%), <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (71; 100%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (56; 79%), <tt><a href="myv_jr-feat-Person.html">Person</a></tt><tt>=3</tt> (55; 77%), <tt><a href="myv_jr-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (41; 58%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (39; 55%).
+The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (84; 100%), <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (84; 100%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (63; 75%), <tt><a href="myv_jr-feat-Person.html">Person</a></tt><tt>=3</tt> (61; 73%), <tt><a href="myv_jr-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (47; 56%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (45; 54%).
 
 `PRON` tokens may have the following values of `Reflex`:
 
-* `Yes` (71; 100% of non-empty `Reflex`): <em>сонсь, эсензэ, эстензэ, сонськак, эсест, миньсинек, минсенек, монсь, сынсь, тонсь</em>
-* `EMPTY` (885): <em>сон, весе, те, мон, сонзэ, мезе, минь, тензэ, сынь, минек</em>
+* `Yes` (84; 100% of non-empty `Reflex`): <em>сонсь, эсензэ, эсест, эстензэ, сонськак, миньсинек, монсь, тонсь, минсенек, сынстемест</em>
+* `EMPTY` (1076): <em>сон, весе, те, мон, сонзэ, тон, мезе, минь, минек, сынь</em>
 
 ### `DET`
 
-17 <tt><a href="myv_jr-pos-DET.html">DET</a></tt> tokens (8% of all `DET` tokens) have a non-empty value of `Reflex`.
+24 <tt><a href="myv_jr-pos-DET.html">DET</a></tt> tokens (10% of all `DET` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `DET` and `Reflex` co-occurred: <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (17; 100%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (17; 100%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (17; 100%), <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (14; 82%).
+The most frequent other feature values with which `DET` and `Reflex` co-occurred: <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (24; 100%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (24; 100%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (24; 100%), <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (14; 58%).
 
 `DET` tokens may have the following values of `Reflex`:
 
-* `Yes` (17; 100% of non-empty `Reflex`): <em>эсь</em>
-* `EMPTY` (184): <em>те, эрьва, се, ве, ламо, лия, кона, истямо, не, зяро</em>
+* `Yes` (24; 100% of non-empty `Reflex`): <em>эсь</em>
+* `EMPTY` (227): <em>те, эрьва, ламо, се, истямо, лия, ве, кона, не, зяро</em>
 

@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Korean-Kaist: POS Tags: `INTJ`
 
 There are 23 `INTJ` lemmas (0%), 23 `INTJ` types (0%) and 56 `INTJ` tokens (0%).
-Out of 17 observed tags, the rank of `INTJ` is: 15 in number of lemmas, 15 in number of types and 17 in number of tokens.
+Out of 17 observed tags, the rank of `INTJ` is: 14 in number of lemmas, 15 in number of types and 17 in number of tokens.
 
 The 10 most frequent `INTJ` lemmas: 말입니다, 말이다, 아니, 자, 아, 여보, 안녕, 어디, 젊은이+여, 검+이여
 
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  말입니다 (<tt><a href="ko_kaist-pos-I
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 0.995275).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 0.998034).
 
 The 1st highest number of forms (1) was observed with the lemma “검+이여”: 검이여.
 
@@ -69,17 +69,17 @@ The 3rd highest number of forms (1) was observed with the lemma “도구+들+�
 
 `INTJ` nodes are attached to their parents using 4 different relations: <tt><a href="ko_kaist-dep-discourse.html">discourse</a></tt> (47; 84% instances), <tt><a href="ko_kaist-dep-vocative.html">vocative</a></tt> (5; 9% instances), <tt><a href="ko_kaist-dep-root.html">root</a></tt> (3; 5% instances), <tt><a href="ko_kaist-dep-conj.html">conj</a></tt> (1; 2% instances)
 
-Parents of `INTJ` nodes belong to 8 different parts of speech: <tt><a href="ko_kaist-pos-VERB.html">VERB</a></tt> (31; 55% instances), <tt><a href="ko_kaist-pos-SCONJ.html">SCONJ</a></tt> (8; 14% instances), <tt><a href="ko_kaist-pos-ADV.html">ADV</a></tt> (4; 7% instances), <tt><a href="ko_kaist-pos-AUX.html">AUX</a></tt> (3; 5% instances), <tt><a href="ko_kaist-pos-NOUN.html">NOUN</a></tt> (3; 5% instances),  (3; 5% instances), <tt><a href="ko_kaist-pos-ADJ.html">ADJ</a></tt> (2; 4% instances), <tt><a href="ko_kaist-pos-CCONJ.html">CCONJ</a></tt> (2; 4% instances)
+Parents of `INTJ` nodes belong to 7 different parts of speech: <tt><a href="ko_kaist-pos-VERB.html">VERB</a></tt> (34; 61% instances), <tt><a href="ko_kaist-pos-SCONJ.html">SCONJ</a></tt> (8; 14% instances), <tt><a href="ko_kaist-pos-ADV.html">ADV</a></tt> (4; 7% instances), <tt><a href="ko_kaist-pos-NOUN.html">NOUN</a></tt> (3; 5% instances),  (3; 5% instances), <tt><a href="ko_kaist-pos-ADJ.html">ADJ</a></tt> (2; 4% instances), <tt><a href="ko_kaist-pos-CCONJ.html">CCONJ</a></tt> (2; 4% instances)
 
-8 (14%) `INTJ` nodes are leaves.
+9 (16%) `INTJ` nodes are leaves.
 
-40 (71%) `INTJ` nodes have one child.
+39 (70%) `INTJ` nodes have one child.
 
 6 (11%) `INTJ` nodes have two children.
 
 2 (4%) `INTJ` nodes have three or more children.
 
-The highest child degree of a `INTJ` node is 4.
+The highest child degree of a `INTJ` node is 5.
 
 Children of `INTJ` nodes are attached using 6 different relations: <tt><a href="ko_kaist-dep-punct.html">punct</a></tt> (50; 85% instances), <tt><a href="ko_kaist-dep-amod.html">amod</a></tt> (2; 3% instances), <tt><a href="ko_kaist-dep-cc.html">cc</a></tt> (2; 3% instances), <tt><a href="ko_kaist-dep-dep.html">dep</a></tt> (2; 3% instances), <tt><a href="ko_kaist-dep-nmod.html">nmod</a></tt> (2; 3% instances), <tt><a href="ko_kaist-dep-compound.html">compound</a></tt> (1; 2% instances)
 

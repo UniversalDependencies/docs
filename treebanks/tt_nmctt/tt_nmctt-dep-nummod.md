@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-14 nodes (1%) are attached to their parents as `nummod`.
+30 nodes (1%) are attached to their parents as `nummod`.
 
-14 instances of `nummod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.71428571428571.
+30 instances of `nummod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.4.
 
-The following 3 pairs of parts of speech are connected with `nummod`: <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-NUM.html">NUM</a></tt> (9; 64% instances), <tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tt_nmctt-pos-NUM.html">NUM</a></tt> (3; 21% instances), <tt><a href="tt_nmctt-pos-SYM.html">SYM</a></tt>-<tt><a href="tt_nmctt-pos-NUM.html">NUM</a></tt> (2; 14% instances).
+The following 3 pairs of parts of speech are connected with `nummod`: <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-NUM.html">NUM</a></tt> (22; 73% instances), <tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tt_nmctt-pos-NUM.html">NUM</a></tt> (6; 20% instances), <tt><a href="tt_nmctt-pos-SYM.html">SYM</a></tt>-<tt><a href="tt_nmctt-pos-NUM.html">NUM</a></tt> (2; 7% instances).
 
 
 ~~~ conllu
@@ -38,23 +38,22 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 
 
 ~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 nummod	color:blue
-1	Әлегә	әле	ADV	_	_	11	advmod	_	LangID=TT
-2	билгесез	билгесез	ADJ	_	_	3	amod	_	LangID=TT
-3	кеше	кеше	NOUN	_	Case=Nom|Number=Sing	11	nsubj	_	LangID=TT
-4	27	27	NUM	_	NumType=Card	5	nummod	_	LangID=TT
-5	яшьлек	яшьлек	ADJ	_	_	6	amod	_	LangID=TT
-6	ир-атны	ир-ат	NOUN	_	Case=Acc|Number=Sing	11	obj	_	LangID=TT
-7	Skoda	Skoda	NOUN	_	Case=Nom|Foreign=Yes|Number=Sing	8	nmod	_	LangID=OTHER
-8	автомобиле	автомобиль	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	9	nmod	_	CSPoint=автомобил§е|LangID=MIXED[RU§TT]
-9	тәгәрмәче	тәгәрмәч	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	10	nmod	_	LangID=TT
-10	астына	ас	NOUN	_	Case=Dat|Number=Sing|Person[psor]=3	11	obl	_	LangID=TT
-11	эткән	эт	VERB	_	Number=Sing|Person=3|Tense=Past|VerbForm=Part	0	root	_	LangID=TT|SpaceAfter=No
-12	.	.	PUNCT	_	_	11	punct	_	LangID=OTHER
+# visual-style 4 3 nummod	color:blue
+1	Бәлки	бәлки	ADV	_	_	10	advmod	_	LangID=TT|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	LangID=OTHER
+3	ике	ике	NUM	_	NumType=Card	4	nummod	_	LangID=TT
+4	төрлесен	төрле	ADJ	_	Case=Acc|Number=Sing|Person[psor]=3	6	obj	_	LangID=TT
+5	дә	дә	ADV	_	_	4	advmod:emph	_	LangID=TT
+6	күрсәтеп	күрсәт	VERB	_	VerbForm=Conv	9	advcl	_	LangID=TT|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	punct	_	LangID=OTHER
+8	комбинация	комбинация	NOUN	_	Case=Nom|Number=Sing	9	obj	_	LangID=RU
+9	ясау	яса	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	10	nsubj	_	LangID=TT
+10	кирәктер	кирәк	ADJ	_	Mood=Irr	0	root	_	LangID=TT|SpaceAfter=No
+11	.	.	PUNCT	_	_	10	punct	_	LangID=OTHER
 
 ~~~
 

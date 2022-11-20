@@ -47,13 +47,7 @@ The 2nd highest number of forms (3) was observed with the lemma “que”: <em>q
 
 The 3rd highest number of forms (1) was observed with the lemma “puisque”: <em>puisqu'</em>.
 
-`SCONJ` occurs with 1 features: <tt><a href="fr_pud-feat-Number.html">Number</a></tt> (1; 0% instances)
-
-`SCONJ` occurs with 1 feature-value pairs: `Number=Plur`
-
-`SCONJ` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (218 tokens).
-Examples: <em>que, qu', quand, lorsque, qu’, lorsqu’, lorsqu', puisqu'</em>
+`SCONJ` does not occur with any features.
 
 
 ## Relations

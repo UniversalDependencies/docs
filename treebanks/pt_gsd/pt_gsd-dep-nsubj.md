@@ -23,7 +23,7 @@ The following 53 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 2 nsubj	color:blue
-1	O	o	DET	DET	_	2	det	_	_
+1	O	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	couro	couro	NOUN	NOUN	_	7	nsubj	_	_
 3	de	de	ADP	ADP	_	5	case	_	_
 4	o	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
@@ -46,7 +46,7 @@ The following 53 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 9 7 nsubj	color:blue
 1	Ver	ver	VERB	VERB	_	0	root	_	_
 2	também	também	ADV	ADV	_	1	advmod	_	_
-3	a	o	DET	DET	_	4	det	_	_
+3	a	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	lista	lista	NOUN	NOUN	_	1	obj	_	_
 5	de	de	ADP	ADP	_	6	case	_	_
 6	entidades	entidade	NOUN	NOUN	_	4	nmod	_	_
@@ -69,7 +69,7 @@ The following 53 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 1	Ou	_	CCONJ	CONJ	_	9	cc	_	_
 2	seja	ser	VERB	VERB	_	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	.	_	1	punct	_	_
-4	a	o	DET	DET	_	5	det	_	_
+4	a	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	Justiça	_	PROPN	PNOUN	_	9	nsubj	_	SpaceAfter=No
 6	,	,	PUNCT	.	_	7	punct	_	_
 7	futuramente	futuramente	ADV	ADV	_	9	advmod	_	SpaceAfter=No

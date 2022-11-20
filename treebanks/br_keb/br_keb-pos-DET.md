@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Breton-KEB: POS Tags: `DET`
 
-There are 15 `DET` lemmas (1%), 29 `DET` types (1%) and 1205 `DET` tokens (12%).
+There are 15 `DET` lemmas (1%), 29 `DET` types (1%) and 1206 `DET` tokens (12%).
 Out of 17 observed tags, the rank of `DET` is: 11 in number of lemmas, 11 in number of types and 3 in number of tokens.
 
 The 10 most frequent `DET` lemmas: <em>an, un, ho, e, ma, o, he, holl, bep, hon</em>
 
 The 10 most frequent `DET` types:  <em>ar, an, ur, al, r, un, e, ho, n, o</em>
 
-The 10 most frequent ambiguous lemmas: <em>an</em> (<tt><a href="br_keb-pos-DET.html">DET</a></tt> 863, <tt><a href="br_keb-pos-X.html">X</a></tt> 2), <em>e</em> (<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> 244, <tt><a href="br_keb-pos-AUX.html">AUX</a></tt> 214, <tt><a href="br_keb-pos-DET.html">DET</a></tt> 37), <em>ma</em> (<tt><a href="br_keb-pos-DET.html">DET</a></tt> 27, <tt><a href="br_keb-pos-SCONJ.html">SCONJ</a></tt> 17, <tt><a href="br_keb-pos-X.html">X</a></tt> 8), <em>o</em> (<tt><a href="br_keb-pos-AUX.html">AUX</a></tt> 40, <tt><a href="br_keb-pos-DET.html">DET</a></tt> 22, <tt><a href="br_keb-pos-INTJ.html">INTJ</a></tt> 2), <em>holl</em> (<tt><a href="br_keb-pos-DET.html">DET</a></tt> 15, <tt><a href="br_keb-pos-PRON.html">PRON</a></tt> 8, <tt><a href="br_keb-pos-ADV.html">ADV</a></tt> 1), <em>a</em> (<tt><a href="br_keb-pos-AUX.html">AUX</a></tt> 303, <tt><a href="br_keb-pos-ADP.html">ADP</a></tt> 57, <tt><a href="br_keb-pos-DET.html">DET</a></tt> 6, <tt><a href="br_keb-pos-PRON.html">PRON</a></tt> 5, <tt><a href="br_keb-pos-X.html">X</a></tt> 2), <em>pep</em> (<tt><a href="br_keb-pos-DET.html">DET</a></tt> 5, <tt><a href="br_keb-pos-X.html">X</a></tt> 3), <em>da</em> (<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> 246, <tt><a href="br_keb-pos-X.html">X</a></tt> 10, <tt><a href="br_keb-pos-DET.html">DET</a></tt> 3), <em>kement</em> (<tt><a href="br_keb-pos-DET.html">DET</a></tt> 2, <tt><a href="br_keb-pos-SCONJ.html">SCONJ</a></tt> 1), <em>peseurt</em> (<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="br_keb-pos-DET.html">DET</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>an</em> (<tt><a href="br_keb-pos-DET.html">DET</a></tt> 864, <tt><a href="br_keb-pos-X.html">X</a></tt> 2), <em>e</em> (<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> 244, <tt><a href="br_keb-pos-AUX.html">AUX</a></tt> 214, <tt><a href="br_keb-pos-DET.html">DET</a></tt> 37), <em>ma</em> (<tt><a href="br_keb-pos-DET.html">DET</a></tt> 27, <tt><a href="br_keb-pos-SCONJ.html">SCONJ</a></tt> 17, <tt><a href="br_keb-pos-X.html">X</a></tt> 8), <em>o</em> (<tt><a href="br_keb-pos-AUX.html">AUX</a></tt> 40, <tt><a href="br_keb-pos-DET.html">DET</a></tt> 22, <tt><a href="br_keb-pos-INTJ.html">INTJ</a></tt> 2), <em>holl</em> (<tt><a href="br_keb-pos-DET.html">DET</a></tt> 15, <tt><a href="br_keb-pos-PRON.html">PRON</a></tt> 8, <tt><a href="br_keb-pos-ADV.html">ADV</a></tt> 1), <em>a</em> (<tt><a href="br_keb-pos-AUX.html">AUX</a></tt> 303, <tt><a href="br_keb-pos-ADP.html">ADP</a></tt> 57, <tt><a href="br_keb-pos-DET.html">DET</a></tt> 6, <tt><a href="br_keb-pos-PRON.html">PRON</a></tt> 5, <tt><a href="br_keb-pos-X.html">X</a></tt> 2), <em>pep</em> (<tt><a href="br_keb-pos-DET.html">DET</a></tt> 5, <tt><a href="br_keb-pos-X.html">X</a></tt> 3), <em>da</em> (<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> 246, <tt><a href="br_keb-pos-X.html">X</a></tt> 10, <tt><a href="br_keb-pos-DET.html">DET</a></tt> 3), <em>kement</em> (<tt><a href="br_keb-pos-DET.html">DET</a></tt> 2, <tt><a href="br_keb-pos-SCONJ.html">SCONJ</a></tt> 1), <em>peseurt</em> (<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="br_keb-pos-DET.html">DET</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>ar</em> (<tt><a href="br_keb-pos-DET.html">DET</a></tt> 382, <tt><a href="br_keb-pos-X.html">X</a></tt> 13), <em>an</em> (<tt><a href="br_keb-pos-DET.html">DET</a></tt> 256, <tt><a href="br_keb-pos-X.html">X</a></tt> 4), <em>ur</em> (<tt><a href="br_keb-pos-DET.html">DET</a></tt> 62, <tt><a href="br_keb-pos-X.html">X</a></tt> 9), <em>e</em> (<tt><a href="br_keb-pos-AUX.html">AUX</a></tt> 208, <tt><a href="br_keb-pos-ADP.html">ADP</a></tt> 173, <tt><a href="br_keb-pos-DET.html">DET</a></tt> 33, <tt><a href="br_keb-pos-PRON.html">PRON</a></tt> 2), <em>o</em> (<tt><a href="br_keb-pos-AUX.html">AUX</a></tt> 34, <tt><a href="br_keb-pos-DET.html">DET</a></tt> 22, <tt><a href="br_keb-pos-PRON.html">PRON</a></tt> 17), <em>he</em> (<tt><a href="br_keb-pos-DET.html">DET</a></tt> 16, <tt><a href="br_keb-pos-PRON.html">PRON</a></tt> 2), <em>ma</em> (<tt><a href="br_keb-pos-DET.html">DET</a></tt> 14, <tt><a href="br_keb-pos-SCONJ.html">SCONJ</a></tt> 8, <tt><a href="br_keb-pos-X.html">X</a></tt> 8), <em>holl</em> (<tt><a href="br_keb-pos-DET.html">DET</a></tt> 15, <tt><a href="br_keb-pos-PRON.html">PRON</a></tt> 8, <tt><a href="br_keb-pos-ADV.html">ADV</a></tt> 1), <em>a</em> (<tt><a href="br_keb-pos-AUX.html">AUX</a></tt> 296, <tt><a href="br_keb-pos-ADP.html">ADP</a></tt> 55, <tt><a href="br_keb-pos-DET.html">DET</a></tt> 6, <tt><a href="br_keb-pos-PRON.html">PRON</a></tt> 5, <tt><a href="br_keb-pos-X.html">X</a></tt> 2), <em>pep</em> (<tt><a href="br_keb-pos-DET.html">DET</a></tt> 4, <tt><a href="br_keb-pos-X.html">X</a></tt> 3)
 
@@ -72,17 +72,17 @@ The 3rd highest number of forms (4) was observed with the lemma “un”: <em>'n
 `DET` occurs with 6 feature-value pairs: `Gender[psor]=Fem`, `Gender[psor]=Masc`, `Number=Plur`, `Number=Sing`, `Poss=Yes`, `PronType=Int`
 
 `DET` occurs with 7 feature combinations.
-The most frequent feature combination is `_` (1031 tokens).
+The most frequent feature combination is `_` (1032 tokens).
 Examples: <em>ar, an, ur, al, r, un, n, holl, ul, 'n</em>
 
 
 ## Relations
 
-`DET` nodes are attached to their parents using 2 different relations: <tt><a href="br_keb-dep-det.html">det</a></tt> (1204; 100% instances), <tt><a href="br_keb-dep-nmod.html">nmod</a></tt> (1; 0% instances)
+`DET` nodes are attached to their parents using 2 different relations: <tt><a href="br_keb-dep-det.html">det</a></tt> (1205; 100% instances), <tt><a href="br_keb-dep-nmod.html">nmod</a></tt> (1; 0% instances)
 
-Parents of `DET` nodes belong to 6 different parts of speech: <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt> (1163; 97% instances), <tt><a href="br_keb-pos-PROPN.html">PROPN</a></tt> (11; 1% instances), <tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> (9; 1% instances), <tt><a href="br_keb-pos-NUM.html">NUM</a></tt> (9; 1% instances), <tt><a href="br_keb-pos-PRON.html">PRON</a></tt> (9; 1% instances), <tt><a href="br_keb-pos-VERB.html">VERB</a></tt> (4; 0% instances)
+Parents of `DET` nodes belong to 6 different parts of speech: <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt> (1163; 96% instances), <tt><a href="br_keb-pos-PROPN.html">PROPN</a></tt> (12; 1% instances), <tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> (9; 1% instances), <tt><a href="br_keb-pos-NUM.html">NUM</a></tt> (9; 1% instances), <tt><a href="br_keb-pos-PRON.html">PRON</a></tt> (9; 1% instances), <tt><a href="br_keb-pos-VERB.html">VERB</a></tt> (4; 0% instances)
 
-1190 (99%) `DET` nodes are leaves.
+1191 (99%) `DET` nodes are leaves.
 
 15 (1%) `DET` nodes have one child.
 

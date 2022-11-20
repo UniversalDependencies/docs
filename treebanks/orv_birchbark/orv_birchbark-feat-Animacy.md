@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
 `NOUN` tokens may have the following values of `Animacy`:
 
 * `Anim` (3; 100% of non-empty `Animacy`): <em>(с)[н҃а], сиротокъ, хрѣстьꙗнъ</em>
-* `EMPTY` (4850): <em>ржи, поклонъ, гн҃е, поклоно, кѹно, покланѧние, соли, кѹнъ, грамота, жита</em>
+* `EMPTY` (4862): <em>ржи, поклонъ, гн҃е, поклоно, кѹно, покланѧние, соли, кѹнъ, грамота, жита</em>
 
 ### `DET`
 
@@ -45,7 +45,7 @@ The most frequent other feature values with which `PROPN` and `Animacy` co-occur
 `PROPN` tokens may have the following values of `Animacy`:
 
 * `Anim` (2; 100% of non-empty `Animacy`): <em>глѧденцевъ, зуба</em>
-* `EMPTY` (2751): <em>ивана, петра, бориса, евана, мариѧ, степана, павла, смена, завида, лѹкѣ</em>
+* `EMPTY` (2762): <em>ивана, петра, бориса, евана, мариѧ, степана, павла, смена, завида, лѹкѣ</em>
 
 ### `ADJ`
 
@@ -56,7 +56,7 @@ The most frequent other feature values with which `ADJ` and `Animacy` co-occurre
 `ADJ` tokens may have the following values of `Animacy`:
 
 * `Anim` (1; 100% of non-empty `Animacy`): <em>смирного</em>
-* `EMPTY` (937): <em>добро, проста, велика, ст҃ѣ, гнѣд, добра, здорово, пѧта, ст҃го, трьтиѧ</em>
+* `EMPTY` (939): <em>добро, проста, велика, ст҃ѣ, гнѣд, добра, здорово, пѧта, ст҃го, трьтиѧ</em>
 
 ## Relations with Agreement in `Animacy`
 

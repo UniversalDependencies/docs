@@ -33,7 +33,7 @@ The following 1 pairs of parts of speech are connected with `iobj`: <tt><a href=
 9	Évian	Évian	PROPN	place	Gender=Masc|Number=Sing	8	nmod	_	_
 10	ym	yn	ADP	prep	_	11	case	_	_
 11	Mai	Mai	NOUN	noun	Gender=Masc|Number=Sing	1	obl	_	_
-12	1961	1961	NUM	num	_	11	nummod	_	SpaceAfter=No
+12	1961	1961	NUM	num	NumForm=Digit|NumType=Card	11	nummod	_	SpaceAfter=No
 13	,	,	PUNCT	punct	_	14	punct	_	_
 14	ond	ond	CCONJ	cconj	_	38	cc	_	_
 15	oherwydd	oherwydd	ADP	prep	_	17	case	_	_

@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="da_ddt-pos-PRON.htm
 
 ### `PRON`
 
-4801 <tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> tokens (71% of all `PRON` tokens) have a non-empty value of `Person`.
+4801 <tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> tokens (67% of all `PRON` tokens) have a non-empty value of `Person`.
 
 The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="da_ddt-feat-PartType.html">PartType</a></tt><tt>=EMPTY</tt> (4801; 100%), <tt><a href="da_ddt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (4801; 100%), <tt><a href="da_ddt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3396; 71%), <tt><a href="da_ddt-feat-Gender.html">Gender</a></tt><tt>=Com</tt> (2727; 57%), <tt><a href="da_ddt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (2484; 52%).
 
@@ -25,7 +25,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (1247; 26% of non-empty `Person`): <em>jeg, vi, mig, os, min, mit, vore</em>
 * `2` (233; 5% of non-empty `Person`): <em>du, dig, De, I, Dem, jer, Deres</em>
 * `3` (3321; 69% of non-empty `Person`): <em>det, han, de, sig, hun, den, ham, dem, hende, dét</em>
-* `EMPTY` (1999): <em>der, man, som, hvad, noget, selv, en, andre, hver, andet</em>
+* `EMPTY` (2401): <em>der, man, som, hvad, noget, selv, en, andre, hver, andet</em>
 
 <table>
   <tr><th>Paradigm <i>de</i></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>

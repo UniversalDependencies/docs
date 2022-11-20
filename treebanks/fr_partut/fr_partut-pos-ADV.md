@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_French-ParTUT: POS Tags: `ADV`
 
-There are 182 `ADV` lemmas (6%), 184 `ADV` types (4%) and 1001 `ADV` tokens (4%).
+There are 182 `ADV` lemmas (6%), 184 `ADV` types (4%) and 1006 `ADV` tokens (4%).
 Out of 17 observed tags, the rank of `ADV` is: 4 in number of lemmas, 4 in number of types and 8 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: <em>pas, plus, également, tout, ainsi, très, donc, lors, moins, bien</em>
@@ -15,7 +15,7 @@ The 10 most frequent `ADV` types:  <em>pas, plus, également, tout, ainsi, très
 
 The 10 most frequent ambiguous lemmas: <em>pas</em> (<tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> 126, <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> 2), <em>tout</em> (<tt><a href="fr_partut-pos-DET.html">DET</a></tt> 123, <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> 26, <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> 15, <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> 1), <em>lors</em> (<tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> 20, <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> 1), <em>bien</em> (<tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> 19, <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> 1), <em>que</em> (<tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> 338, <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> 60, <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> 29, <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> 18, <tt><a href="fr_partut-pos-CCONJ.html">CCONJ</a></tt> 7), <em>y</em> (<tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> 39, <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> 15), <em>même</em> (<tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> 17, <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> 12), <em>parce</em> (<tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> 12, <tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> 1), <em>dehors</em> (<tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> 5, <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> 1), <em>outre</em> (<tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> 5, <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>pas</em> (<tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> 125, <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> 2), <em>tout</em> (<tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> 24, <tt><a href="fr_partut-pos-DET.html">DET</a></tt> 23, <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> 3), <em>lors</em> (<tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> 18, <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> 1), <em>bien</em> (<tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> 17, <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> 1), <em>y</em> (<tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> 39, <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> 15), <em>même</em> (<tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> 11, <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> 9), <em>parce</em> (<tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> 11, <tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> 1), <em>comment</em> (<tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> 5, <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> 1), <em>qu'</em> (<tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> 85, <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> 18, <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> 11, <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> 5, <tt><a href="fr_partut-pos-CCONJ.html">CCONJ</a></tt> 4), <em>que</em> (<tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> 253, <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> 42, <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> 24, <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> 7, <tt><a href="fr_partut-pos-CCONJ.html">CCONJ</a></tt> 3)
+The 10 most frequent ambiguous types:  <em>pas</em> (<tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> 125, <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> 2), <em>tout</em> (<tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> 24, <tt><a href="fr_partut-pos-DET.html">DET</a></tt> 23, <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> 3), <em>lors</em> (<tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> 18, <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> 1), <em>bien</em> (<tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> 17, <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> 1), <em>y</em> (<tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> 39, <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> 15), <em>même</em> (<tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> 11, <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> 9), <em>parce</em> (<tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> 11, <tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> 1), <em>qu'</em> (<tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> 85, <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> 18, <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> 11, <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> 5, <tt><a href="fr_partut-pos-CCONJ.html">CCONJ</a></tt> 4), <em>que</em> (<tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> 253, <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> 42, <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> 24, <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> 7, <tt><a href="fr_partut-pos-CCONJ.html">CCONJ</a></tt> 3), <em>dehors</em> (<tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> 5, <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> 1)
 
 
 * <em>pas</em>
@@ -40,9 +40,6 @@ The 10 most frequent ambiguous types:  <em>pas</em> (<tt><a href="fr_partut-pos-
 * <em>parce</em>
   * <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> 11: <em>Je suis amoureux de les forêts anciennes , et je suis un patriote américain <b>parce</b> que nous en avons .</em>
   * <tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> 1: <em>Ma c' est aussi une tragédie pour les gens qui les mangent <b>parce</b> qu' ils ne savent pas que c' est de la viande toxique .</em>
-* <em>comment</em>
-  * <tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> 5: <em><b>comment</b> pouvons -nous faire en sorte que la politique de l' union s' articule avec les politiques nationales subsidiaires d' aménagement de le territoire .</em>
-  * <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> 1: <em>Madame la présidente , <b>comment</b> se fait -il que le parlement ne se conforme pas à la réglementation en matière de santé et de sécurité qu' il vote ?</em>
 * <em>qu'</em>
   * <tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> 85: <em>Comment se fait -il <b>qu'</b> il n' y ait pas de consignes en cas d' incendie ?</em>
   * <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> 18: <em>Mais savez -vous ce <b>qu'</b> ils disaient en sortant ?</em>
@@ -55,10 +52,13 @@ The 10 most frequent ambiguous types:  <em>pas</em> (<tt><a href="fr_partut-pos-
   * <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> 24: <em>En fait , nous sommes plus proches de les champignons <b>que</b> de tout autre règne .</em>
   * <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> 7: <em>Ces mesures n' entrent en vigueur <b>que</b> sous réserve et à la date de l' entrée en vigueur de le présent traité .</em>
   * <tt><a href="fr_partut-pos-CCONJ.html">CCONJ</a></tt> 3: <em>En conséquence , le caractère transnational et pluridisciplinaire exigé par l' article 3 de la décision Pericles a été respecté , puisqu' il est recherché tant sur le plan de l' expérience professionnelle de les participants <b>que</b> de le contenu de les actions .</em>
+* <em>dehors</em>
+  * <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> 5: <em>Il n' existe aucun élément annexe , accord supplémentaire ou mandat portant sur cette oeuvre en <b>dehors</b> de les éléments mentionnés ici .</em>
+  * <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> 1: <em>Ce sont les jeunes qui disparaissent , qui acquièrent une formation et trouvent un emploi en <b>dehors</b> de les zones rurales , ce qui a une incidence défavorable sur ces zones .</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.010989 (the average of all parts of speech is 1.431974).
+The form / lemma ratio of `ADV` is 1.010989 (the average of all parts of speech is 1.431648).
 
 The 1st highest number of forms (2) was observed with the lemma “là”: <em>-là, là</em>.
 
@@ -71,17 +71,17 @@ The 3rd highest number of forms (1) was observed with the lemma “activement”
 `ADV` occurs with 2 feature-value pairs: `Polarity=Neg`, `PronType=Neg`
 
 `ADV` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (859 tokens).
+The most frequent feature combination is `_` (864 tokens).
 Examples: <em>plus, également, tout, ainsi, très, donc, lors, moins, bien, aussi</em>
 
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 14 different relations: <tt><a href="fr_partut-dep-advmod.html">advmod</a></tt> (864; 86% instances), <tt><a href="fr_partut-dep-fixed.html">fixed</a></tt> (36; 4% instances), <tt><a href="fr_partut-dep-mark.html">mark</a></tt> (29; 3% instances), <tt><a href="fr_partut-dep-case.html">case</a></tt> (26; 3% instances), <tt><a href="fr_partut-dep-cc.html">cc</a></tt> (22; 2% instances), <tt><a href="fr_partut-dep-discourse.html">discourse</a></tt> (6; 1% instances), <tt><a href="fr_partut-dep-conj.html">conj</a></tt> (5; 0% instances), <tt><a href="fr_partut-dep-nmod.html">nmod</a></tt> (4; 0% instances), <tt><a href="fr_partut-dep-ccomp.html">ccomp</a></tt> (3; 0% instances), <tt><a href="fr_partut-dep-obl.html">obl</a></tt> (2; 0% instances), <tt><a href="fr_partut-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="fr_partut-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="fr_partut-dep-orphan.html">orphan</a></tt> (1; 0% instances), <tt><a href="fr_partut-dep-root.html">root</a></tt> (1; 0% instances)
+`ADV` nodes are attached to their parents using 14 different relations: <tt><a href="fr_partut-dep-advmod.html">advmod</a></tt> (869; 86% instances), <tt><a href="fr_partut-dep-fixed.html">fixed</a></tt> (36; 4% instances), <tt><a href="fr_partut-dep-mark.html">mark</a></tt> (29; 3% instances), <tt><a href="fr_partut-dep-case.html">case</a></tt> (26; 3% instances), <tt><a href="fr_partut-dep-cc.html">cc</a></tt> (22; 2% instances), <tt><a href="fr_partut-dep-discourse.html">discourse</a></tt> (6; 1% instances), <tt><a href="fr_partut-dep-conj.html">conj</a></tt> (5; 0% instances), <tt><a href="fr_partut-dep-nmod.html">nmod</a></tt> (4; 0% instances), <tt><a href="fr_partut-dep-ccomp.html">ccomp</a></tt> (3; 0% instances), <tt><a href="fr_partut-dep-obl.html">obl</a></tt> (2; 0% instances), <tt><a href="fr_partut-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="fr_partut-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="fr_partut-dep-orphan.html">orphan</a></tt> (1; 0% instances), <tt><a href="fr_partut-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `ADV` nodes belong to 12 different parts of speech: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (523; 52% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (200; 20% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (162; 16% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (58; 6% instances), <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> (32; 3% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (13; 1% instances), <tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="fr_partut-pos-DET.html">DET</a></tt> (1; 0% instances),  (1; 0% instances), <tt><a href="fr_partut-pos-SYM.html">SYM</a></tt> (1; 0% instances)
+Parents of `ADV` nodes belong to 12 different parts of speech: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (527; 52% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (201; 20% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (162; 16% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (58; 6% instances), <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> (32; 3% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (13; 1% instances), <tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="fr_partut-pos-DET.html">DET</a></tt> (1; 0% instances),  (1; 0% instances), <tt><a href="fr_partut-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 
-733 (73%) `ADV` nodes are leaves.
+738 (73%) `ADV` nodes are leaves.
 
 229 (23%) `ADV` nodes have one child.
 

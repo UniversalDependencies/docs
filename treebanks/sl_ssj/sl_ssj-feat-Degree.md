@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-38828 tokens (15%) have a non-empty value of `Degree`.
+38830 tokens (15%) have a non-empty value of `Degree`.
 14793 types (30%) occur at least once with a non-empty value of `Degree`.
 6537 lemmas (26%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 3 part-of-speech tags: <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt> (27066; 10% instances), <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt> (11760; 4% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (2; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt> (27066; 10% instances), <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt> (11762; 4% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (2; 0% instances).
 
 ### `ADJ`
 
@@ -76,12 +76,12 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 ### `ADV`
 
-11760 <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt> tokens (100% of all `ADV` tokens) have a non-empty value of `Degree`.
+11762 <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt> tokens (100% of all `ADV` tokens) have a non-empty value of `Degree`.
 
 `ADV` tokens may have the following values of `Degree`:
 
 * `Cmp` (667; 6% of non-empty `Degree`): <em>bolj, prej, pozneje, bolje, večkrat, kasneje, raje, dlje, hitreje, laže</em>
-* `Pos` (10769; 92% of non-empty `Degree`): <em>lahko, tako, zelo, kako, vedno, potem, zdaj, kar, treba, danes</em>
+* `Pos` (10771; 92% of non-empty `Degree`): <em>lahko, tako, zelo, kako, vedno, potem, zdaj, kar, treba, danes</em>
 * `Sup` (324; 3% of non-empty `Degree`): <em>najbolj, najprej, najmanj, najbolje, največkrat, najpogosteje, najverjetneje, najraje, najpozneje, najkasneje</em>
 * `EMPTY` (41): <em>rekoč, sodeč, molče, nehote, nevede, stoje, upoštevaje, držeč, hote, jokaje</em>
 
@@ -106,7 +106,7 @@ The most frequent other feature values with which `DET` and `Degree` co-occurred
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
-<tt>ADJ --[<tt><a href="sl_ssj-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (1721; 80%),
+<tt>ADJ --[<tt><a href="sl_ssj-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (1720; 80%),
 <tt>ADJ --[<tt><a href="sl_ssj-dep-conj.html">conj</a></tt>]--> ADJ</tt> (1219; 94%),
 <tt>ADV --[<tt><a href="sl_ssj-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (380; 73%),
 <tt>ADV --[<tt><a href="sl_ssj-dep-conj.html">conj</a></tt>]--> ADV</tt> (132; 92%),

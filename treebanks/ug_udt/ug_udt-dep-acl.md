@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-742 nodes (2%) are attached to their parents as `acl`.
+745 nodes (2%) are attached to their parents as `acl`.
 
-740 instances of `acl` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.03234501347709.
+741 instances of `acl` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.97181208053691.
 
-The following 13 pairs of parts of speech are connected with `acl`: <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (631; 85% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (44; 6% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (25; 3% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (13; 2% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> (13; 2% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (6; 1% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="ug_udt-pos-NUM.html">NUM</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ug_udt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-ADP.html">ADP</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-ADV.html">ADV</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `acl`: <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (632; 85% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (44; 6% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (29; 4% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> (13; 2% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (12; 2% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (6; 1% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="ug_udt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-ADP.html">ADP</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-ADV.html">ADV</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-NUM.html">NUM</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -66,8 +66,8 @@ The following 13 pairs of parts of speech are connected with `acl`: <tt><a href=
 6	قورقۇنچلۇق	قورقۇنچلۇق	ADJ	A	_	7	amod	_	Translit=qorqunchluq
 7	ئىش	ئىش	VERB	N	Mood=Imp|VerbForm=Fin	0	root	_	Translit=ish
 8	بولدى	بول	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	SpaceAfter=No|Translit=boldi
-9	.	.	PUNCT	Y	_	8	punct	_	SpaceAfter=No|Translit=.
-10	»	»	PUNCT	Y	_	8	punct	_	Translit=»
+9	.	.	PUNCT	Y	_	7	punct	_	SpaceAfter=No|Translit=.
+10	»	»	PUNCT	Y	_	7	punct	_	Translit=»
 
 ~~~
 

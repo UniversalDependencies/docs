@@ -11,56 +11,36 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="tr_imst-feat-Person.html">Person</a></tt>, <tt><a href="tr_imst-feat-Person-psor.html">Person[psor]</a></tt>.
 
-30323 tokens (52%) have a non-empty value of `Person`.
-14574 types (85%) occur at least once with a non-empty value of `Person`.
-4874 lemmas (83%) occur at least once with a non-empty value of `Person`.
-The feature is used with 8 part-of-speech tags: <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> (15558; 27% instances), <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> (6392; 11% instances), <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> (2417; 4% instances), <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> (2276; 4% instances), <tt><a href="tr_imst-pos-PROPN.html">PROPN</a></tt> (2211; 4% instances), <tt><a href="tr_imst-pos-AUX.html">AUX</a></tt> (1024; 2% instances), <tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> (349; 1% instances), <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> (96; 0% instances).
+30095 tokens (52%) have a non-empty value of `Person`.
+14456 types (85%) occur at least once with a non-empty value of `Person`.
+4847 lemmas (83%) occur at least once with a non-empty value of `Person`.
+The feature is used with 8 part-of-speech tags: <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> (15520; 27% instances), <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> (6249; 11% instances), <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> (2414; 4% instances), <tt><a href="tr_imst-pos-PROPN.html">PROPN</a></tt> (2174; 4% instances), <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> (2148; 4% instances), <tt><a href="tr_imst-pos-AUX.html">AUX</a></tt> (1075; 2% instances), <tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> (318; 1% instances), <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> (197; 0% instances).
 
 ### `NOUN`
 
-15558 <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Person`.
+15520 <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `NOUN` and `Person` co-occurred: <tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (13246; 85%), <tt><a href="tr_imst-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (10573; 68%), <tt><a href="tr_imst-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (10573; 68%), <tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=Nom</tt> (8507; 55%).
+The most frequent other feature values with which `NOUN` and `Person` co-occurred: <tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (13216; 85%), <tt><a href="tr_imst-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (10558; 68%), <tt><a href="tr_imst-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (10558; 68%), <tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=Nom</tt> (8430; 54%).
 
 `NOUN` tokens may have the following values of `Person`:
 
-* `2` (1; 0% of non-empty `Person`): <em>düşünce</em>
-* `3` (15557; 100% of non-empty `Person`): <em>şey, zaman, gün, adam, gece, yıl, bilim, ev, evet, önem</em>
-* `EMPTY` (2): <em>ilişkileriyle, şeyler</em>
+* `3` (15520; 100% of non-empty `Person`): <em>şey, zaman, gün, adam, gece, yıl, bilim, ev, evet, önem</em>
+* `EMPTY` (3): <em>ilişkileriyle, üzre, şeyler</em>
 
-<table>
-  <tr><th>Paradigm <i>düşünce</i></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>düşünceleri</em></td></tr>
-  <tr><td><tt><tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_imst-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>düşüncelerimi</em></td></tr>
-  <tr><td><tt><tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_imst-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>düşüncelerinizi, düşüncelerini</em></td></tr>
-  <tr><td><tt><tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>düşünceye</em></td></tr>
-  <tr><td><tt><tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>düşüncelere</em></td></tr>
-  <tr><td><tt><tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_imst-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>düşüncelerine</em></td></tr>
-  <tr><td><tt><tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>düşüncenin</em></td></tr>
-  <tr><td><tt><tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_imst-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>düşüncenizin</em></td></tr>
-  <tr><td><tt><tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>düşüncelerin</em></td></tr>
-  <tr><td><tt><tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_imst-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>düşüncesiyle</em></td></tr>
-  <tr><td><tt><tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>düşüncede</em></td></tr>
-  <tr><td><tt><tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>düşünce</em></td><td><em>düşünce</em></td></tr>
-  <tr><td><tt><tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_imst-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>düşüncesi</em></td></tr>
-  <tr><td><tt><tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>düşünceler</em></td></tr>
-  <tr><td><tt><tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_imst-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>düşünceleri</em></td></tr>
-</table>
-
-`Person` seems to be **lexical feature** of `NOUN`. 100% lemmas (2962) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `NOUN`. 100% lemmas (2947) occur only with one value of `Person`.
 
 ### `VERB`
 
-6392 <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> tokens (58% of all `VERB` tokens) have a non-empty value of `Person`.
+6249 <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> tokens (57% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="tr_imst-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (6387; 100%), <tt><a href="tr_imst-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (6387; 100%), <tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (6308; 99%), <tt><a href="tr_imst-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (6216; 97%), <tt><a href="tr_imst-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (5597; 88%), <tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (5563; 87%), <tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5346; 84%), <tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5092; 80%), <tt><a href="tr_imst-feat-Polite.html">Polite</a></tt><tt>=EMPTY</tt> (5031; 79%), <tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (3877; 61%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (6249; 100%), <tt><a href="tr_imst-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (6249; 100%), <tt><a href="tr_imst-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (6249; 100%), <tt><a href="tr_imst-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (6158; 99%), <tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (5475; 88%), <tt><a href="tr_imst-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (5461; 87%), <tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5256; 84%), <tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4970; 80%), <tt><a href="tr_imst-feat-Polite.html">Polite</a></tt><tt>=EMPTY</tt> (4888; 78%), <tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (3734; 60%).
 
 `VERB` tokens may have the following values of `Person`:
 
-* `1` (1463; 23% of non-empty `Person`): <em>dedim, bilmiyorum, biliyorum, ettim, sordum, gördüm, bakalım, istiyorum, değilim, gidiyoruz</em>
-* `2` (659; 10% of non-empty `Person`): <em>var, bakın, bak, anlattın, biliyorsunuz, gerek, gel, geldiniz, al, at</em>
-* `3` (4270; 67% of non-empty `Person`): <em>dedi, oldu, söyledi, olur, etti, değil, geldi, verdi, diyor, baktı</em>
-* `EMPTY` (4603): <em>olan, olduğunu, olduğu, gelen, demek, yapılan, eden, olması, olmadığını, olmak</em>
+* `1` (1457; 23% of non-empty `Person`): <em>dedim, bilmiyorum, biliyorum, ettim, sordum, gördüm, bakalım, istiyorum, gidiyoruz, anlattım</em>
+* `2` (656; 10% of non-empty `Person`): <em>var, bakın, bak, anlattın, biliyorsunuz, gerek, gel, geldiniz, al, at</em>
+* `3` (4136; 66% of non-empty `Person`): <em>dedi, oldu, söyledi, olur, etti, geldi, verdi, diyor, baktı, olacak</em>
+* `EMPTY` (4693): <em>olan, olduğunu, olduğu, gelen, eden, demek, yapılan, olması, olmadığını, yapan</em>
 
 <table>
   <tr><th>Paradigm <i>ol</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -77,26 +57,18 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
   <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Pot</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>olamam</em></td><td><em>olamazsın</em></td><td><em>olamaz</em></td></tr>
   <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Pot</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>olabilirdi</em></td></tr>
   <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Pot</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>olabilirim</em></td><td><em>olabilirsin</em></td><td><em>olabilir</em></td></tr>
-  <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="tr_imst-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>olandan</em></td></tr>
-  <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="tr_imst-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>olanı</em></td></tr>
-  <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="tr_imst-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>olanları</em></td></tr>
-  <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="tr_imst-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>olmayana</em></td></tr>
-  <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="tr_imst-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>olana</em></td></tr>
-  <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="tr_imst-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>olanların</em></td></tr>
-  <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_imst-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="tr_imst-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>olanı</em></td></tr>
-  <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="tr_imst-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>olanlar</em></td></tr>
   <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_imst-feat-Evident.html">Evident</a></tt><tt>=Nfh</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>olmuşlarsa</em></td></tr>
   <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_imst-feat-Evident.html">Evident</a></tt><tt>=Nfh</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Gen</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>olmuştur</em></td></tr>
   <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_imst-feat-Evident.html">Evident</a></tt><tt>=Nfh</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Gen</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>olmuşlardır</em></td></tr>
   <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_imst-feat-Evident.html">Evident</a></tt><tt>=Nfh</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>olmamış</em></td></tr>
   <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_imst-feat-Evident.html">Evident</a></tt><tt>=Nfh</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>olmuş</em></td></tr>
   <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_imst-feat-Evident.html">Evident</a></tt><tt>=Nfh</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>olmuşlar</em></td></tr>
-  <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>olmasam</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td></td><td></td><td><em>olacaksa</em></td></tr>
-  <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>olsaydım</em></td><td></td><td><em>olsaydı, olduysa</em></td></tr>
-  <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>olsam</em></td><td></td><td><em>olsa</em></td></tr>
-  <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>olmasanız</em></td><td><em>olmasalar</em></td></tr>
-  <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Des</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>olsa</em></td></tr>
+  <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>olduysa</em></td></tr>
+  <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Des</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>olmasam</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Des</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>olsaydım</em></td><td></td><td><em>olsaydı</em></td></tr>
+  <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Des</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>olsam</em></td><td></td><td><em>olsa</em></td></tr>
+  <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Des</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>olmasanız</em></td><td><em>olmasalar</em></td></tr>
   <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=GenNec</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>olmalıdır</em></td></tr>
   <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Gen</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td></td><td></td><td><em>olacaktır</em></td></tr>
   <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>olmasın</em></td></tr>
@@ -129,51 +101,46 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
   <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Prog</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="tr_imst-feat-Polite.html">Polite</a></tt><tt>=Infm</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>oluyorlardı</em></td></tr>
   <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Prog</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="tr_imst-feat-Polite.html">Polite</a></tt><tt>=Infm</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>oluyoruz</em></td><td><em>oluyorsunuz</em></td><td><em>oluyorlar</em></td></tr>
   <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Prog</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Pot</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="tr_imst-feat-Polite.html">Polite</a></tt><tt>=Infm</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>olabiliyorsun</em></td><td><em>olabiliyor</em></td></tr>
-  <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Prosp</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Fut,Past</tt></tt></td><td></td><td></td><td><em>olmayacaktı</em></td></tr>
-  <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Prosp</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Fut,Past</tt></tt></td><td></td><td></td><td><em>olacaktı</em></td></tr>
+  <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Prosp</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>olmayacaktı</em></td></tr>
+  <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Prosp</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>olacaktı</em></td></tr>
 </table>
 
 ### `ADJ`
 
-2417 <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> tokens (43% of all `ADJ` tokens) have a non-empty value of `Person`.
+2414 <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> tokens (42% of all `ADJ` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `ADJ` and `Person` co-occurred: <tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2093; 87%), <tt><a href="tr_imst-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1486; 61%), <tt><a href="tr_imst-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (1486; 61%).
+The most frequent other feature values with which `ADJ` and `Person` co-occurred: <tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2091; 87%), <tt><a href="tr_imst-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1484; 61%), <tt><a href="tr_imst-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (1484; 61%).
 
 `ADJ` tokens may have the following values of `Person`:
 
-* `2` (2; 0% of non-empty `Person`): <em>Kadınlar, erkeği</em>
-* `3` (2415; 100% of non-empty `Person`): <em>içinde, kadın, var, arasında, kız, yok, ortaya, arada, içine, yanında</em>
-* `EMPTY` (3185): <em>var, yeni, büyük, iyi, aynı, son, başka, bütün, çok, yok</em>
+* `3` (2414; 100% of non-empty `Person`): <em>içinde, kadın, var, arasında, kız, yok, ortaya, arada, içine, yanında</em>
+* `EMPTY` (3270): <em>var, yeni, büyük, iyi, aynı, son, başka, bütün, yok, uzun</em>
 
-<table>
-  <tr><th>Paradigm <i>kadın</i></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>kadınlardan</em></td></tr>
-  <tr><td><tt><tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>kadını</em></td></tr>
-  <tr><td><tt><tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>kadınları</em></td></tr>
-  <tr><td><tt><tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>kadına</em></td></tr>
-  <tr><td><tt><tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>kadınlara</em></td></tr>
-  <tr><td><tt><tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>kadının</em></td></tr>
-  <tr><td><tt><tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>kadınların</em></td></tr>
-  <tr><td><tt><tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_imst-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>kadınlarının</em></td></tr>
-  <tr><td><tt><tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>kadınla</em></td></tr>
-  <tr><td><tt><tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>kadın</em></td></tr>
-  <tr><td><tt><tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>Kadınlar</em></td><td><em>kadınlar</em></td></tr>
-  <tr><td><tt><tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_imst-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>kadınları</em></td></tr>
-</table>
+`Person` seems to be **lexical feature** of `ADJ`. 100% lemmas (418) occur only with one value of `Person`.
 
-`Person` seems to be **lexical feature** of `ADJ`. 100% lemmas (416) occur only with one value of `Person`.
+### `PROPN`
+
+2174 <tt><a href="tr_imst-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Person`.
+
+The most frequent other feature values with which `PROPN` and `Person` co-occurred: <tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2165; 100%), <tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1512; 70%).
+
+`PROPN` tokens may have the following values of `Person`:
+
+* `3` (2174; 100% of non-empty `Person`): <em>Kerem, Türkiye, Ayhan, Kemal, Ramiz, Recep, Türkiye'nin, Mebrure, Gül, Naci</em>
+
+`Person` seems to be **lexical feature** of `PROPN`. 100% lemmas (809) occur only with one value of `Person`.
 
 ### `PRON`
 
-2276 <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Person`.
+2148 <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="tr_imst-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1919; 84%), <tt><a href="tr_imst-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (1919; 84%), <tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1818; 80%), <tt><a href="tr_imst-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1189; 52%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="tr_imst-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1802; 84%), <tt><a href="tr_imst-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (1802; 84%), <tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1695; 79%), <tt><a href="tr_imst-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1189; 55%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (643; 28% of non-empty `Person`): <em>ben, bana, beni, benim, biz, bize, bizim, bence, bizi, kendimi</em>
-* `2` (257; 11% of non-empty `Person`): <em>sen, sana, senin, siz, seni, size, sizi, seninle, sizin, kendini</em>
-* `3` (1376; 60% of non-empty `Person`): <em>ne, o, bu, onu, onun, ona, kendi, bunu, burada, bunlar</em>
+* `1` (643; 30% of non-empty `Person`): <em>ben, bana, beni, benim, biz, bize, bizim, bence, bizi, kendimi</em>
+* `2` (257; 12% of non-empty `Person`): <em>sen, sana, senin, siz, seni, size, sizi, seninle, sizin, kendini</em>
+* `3` (1248; 58% of non-empty `Person`): <em>o, ne, bu, onu, onun, ona, kendi, bunu, bunlar, biri</em>
 
 <table>
   <tr><th>Paradigm <i>kendi</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -192,81 +159,74 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
   <tr><td><tt><tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_imst-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>kendiniz</em></td><td><em>kendileri</em></td></tr>
 </table>
 
-### `PROPN`
-
-2211 <tt><a href="tr_imst-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Person`.
-
-The most frequent other feature values with which `PROPN` and `Person` co-occurred: <tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2202; 100%), <tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1542; 70%).
-
-`PROPN` tokens may have the following values of `Person`:
-
-* `3` (2211; 100% of non-empty `Person`): <em>Kerem, Türkiye, Ayhan, Kemal, Ramiz, Recep, Türkiye'nin, Mebrure, Gül, Naci</em>
-
-`Person` seems to be **lexical feature** of `PROPN`. 100% lemmas (817) occur only with one value of `Person`.
-
 ### `AUX`
 
-1024 <tt><a href="tr_imst-pos-AUX.html">AUX</a></tt> tokens (93% of all `AUX` tokens) have a non-empty value of `Person`.
+1075 <tt><a href="tr_imst-pos-AUX.html">AUX</a></tt> tokens (96% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (1018; 99%), <tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (932; 91%), <tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (730; 71%), <tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (663; 65%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (1070; 100%), <tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (979; 91%), <tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (963; 90%), <tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (770; 72%), <tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (707; 66%).
 
 `AUX` tokens may have the following values of `Person`:
 
-* `1` (139; 14% of non-empty `Person`): <em>im, yim, yım, ydim, ım, mıyım, ız, yız, değilim, iz</em>
-* `2` (69; 7% of non-empty `Person`): <em>musun, musunuz, sınız, misin, ydin, sin, siniz, sın, mısın, misiniz</em>
-* `3` (816; 80% of non-empty `Person`): <em>dir, mi, mı, dır, ydi, dı, ydı, değil, tu, mu</em>
-* `EMPTY` (82): <em>ise, ken, yken</em>
+* `1` (146; 14% of non-empty `Person`): <em>im, yim, yım, ydim, değilim, ım, mıyım, ız, yız, iz</em>
+* `2` (71; 7% of non-empty `Person`): <em>musun, musunuz, sınız, misin, sın, erdeydin, imsiniz, mısın, misiniz, sin</em>
+* `3` (858; 80% of non-empty `Person`): <em>mi, mı, dır, dir, değil, ydi, dı, ydı, tu, mu</em>
+* `EMPTY` (46): <em>ise, ken, yken, değil, irerken, okurken, olan</em>
 
 <table>
   <tr><th>Paradigm <i>i</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="tr_imst-feat-VerbForm.html">VerbForm</a></tt><tt>=Conv</tt></tt></td><td></td><td></td><td><em>girerken</em></td></tr>
-  <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_imst-feat-Evident.html">Evident</a></tt><tt>=Nfh</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>ymışım</em></td><td><em>mışsın</em></td><td><em>ymiş, mış, miş, ymış, ymuş, 'miş, muş, müş</em></td></tr>
+  <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_imst-feat-Evident.html">Evident</a></tt><tt>=Nfh</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>değilmiş</em></td></tr>
+  <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_imst-feat-Evident.html">Evident</a></tt><tt>=Nfh</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>ymışım</em></td><td><em>mışsın</em></td><td><em>mış, ymiş, ymış, eymiş, miş, ymuş, ayoşmuş, edenmiş, immiş, müş, ostakoviç'miş</em></td></tr>
   <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_imst-feat-Evident.html">Evident</a></tt><tt>=Nfh</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="tr_imst-feat-VerbForm.html">VerbForm</a></tt><tt>=Conv</tt></tt></td><td></td><td></td><td><em>ymişçesine</em></td></tr>
   <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_imst-feat-Evident.html">Evident</a></tt><tt>=Nfh</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>ymışız</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>sem</em></td><td></td><td><em>sa, se, yse, siyse, ysa</em></td></tr>
-  <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Gen</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>dir, dır, dur, tir, tur, tır, dür, tür, 'dır, ledir, ir, üdür</em></td></tr>
-  <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Gen</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>sinizdir</em></td><td><em>lardır, lerdir, dırlar, durlar</em></td></tr>
-  <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>ydim, ydım, tum, dim, dım, ydum, dum, düm, tım</em></td><td><em>ydin, din</em></td><td><em>ydi, dı, ydı, tu, ydu, tı, di, ti, du, dü, 'di, 'dı, 'tı, 'ydi, 'ydı, tü, ydü</em></td></tr>
-  <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>im, yim, yım, ım, yum, üm</em></td><td><em>sin, sın, sun</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>sem</em></td><td></td><td><em>sa, se, yse, imse, siyse, ysa</em></td></tr>
+  <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Gen</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>değildir</em></td></tr>
+  <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Gen</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>dır, dir, dur, tir, tur, tır, dür, edir, tür, 'dır, ledir, edendir, ir, üdür</em></td></tr>
+  <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Gen</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>sinizdir</em></td><td><em>lerdir, lardır, dırlar, durlar, etinlerdir</em></td></tr>
+  <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>değildi</em></td></tr>
+  <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>değilim</em></td><td></td><td><em>değil</em></td></tr>
+  <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>ydim, ydım, tum, dim, dım, ydum, dum, düm, tım</em></td><td><em>erdeydin, ydin, din</em></td><td><em>ydi, dı, ydı, tu, ydu, tı, di, ti, du, dü, eydi, 'di, 'dı, 'tı, 'ydi, 'ydı, eredeydi, tü, ydü</em></td></tr>
+  <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>im, yim, yım, ım, yum, akutistan'dayım, üm</em></td><td><em>sın, sin, eredesin, s'ın, sun, usevisin</em></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>ydik, ydık, dik, duk</em></td><td><em>ydınız</em></td><td><em>tılar, ydiler, ydılar, dular</em></td></tr>
-  <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ız, yız, iz, yiz, yuz, yüz</em></td><td><em>sınız, siniz, sunuz</em></td><td><em>lar, ler</em></td></tr>
+  <tr><td><tt><tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ız, yız, iz, yiz, yuz, yüz</em></td><td><em>sınız, imsiniz, sunuz, eredesiniz, lırsınız</em></td><td><em>lar, ler</em></td></tr>
   <tr><td><tt><tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>ise</em></td></tr>
   <tr><td><tt><tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>idi</em></td></tr>
 </table>
 
 ### `NUM`
 
-349 <tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> tokens (31% of all `NUM` tokens) have a non-empty value of `Person`.
+318 <tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> tokens (30% of all `NUM` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `NUM` and `Person` co-occurred: <tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (337; 97%), <tt><a href="tr_imst-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (299; 86%), <tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=Nom</tt> (210; 60%).
+The most frequent other feature values with which `NUM` and `Person` co-occurred: <tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (305; 96%), <tt><a href="tr_imst-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (298; 94%), <tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=Nom</tt> (179; 56%).
 
 `NUM` tokens may have the following values of `Person`:
 
-* `3` (349; 100% of non-empty `Person`): <em>yüzde, bir, ikinci, biri, birinci, iki, ikibiniki, onlarla, otuz, bin</em>
-* `EMPTY` (766): <em>bir, iki, üç, bin, dört, on, beş, altı, kaç, milyon</em>
+* `3` (318; 100% of non-empty `Person`): <em>yüzde, bir, biri, onlarla, iki, ikibiniki, otuz, bin, birincisi, on</em>
+* `EMPTY` (757): <em>bir, iki, üç, bin, on, dört, beş, altı, milyon, elli</em>
 
-`Person` seems to be **lexical feature** of `NUM`. 100% lemmas (99) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `NUM`. 100% lemmas (101) occur only with one value of `Person`.
 
 ### `ADP`
 
-96 <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> tokens (5% of all `ADP` tokens) have a non-empty value of `Person`.
+197 <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> tokens (9% of all `ADP` tokens) have a non-empty value of `Person`.
 
 `ADP` tokens may have the following values of `Person`:
 
-* `3` (96; 100% of non-empty `Person`): <em>lık, lik, ki, kiler, 'lik, kilerin, kadarını, kileri, kinden, 'lilerin</em>
-* `EMPTY` (1945): <em>ki, için, gibi, diye, kadar, li, lı, olarak, sonra, önce</em>
+* `3` (197; 100% of non-empty `Person`): <em>lık, lik, lar, a, ler, ki, ları, ların, ı, e</em>
+* `EMPTY` (2056): <em>ki, için, gibi, diye, kadar, li, lı, olarak, sonra, önce</em>
+
+`Person` seems to be **lexical feature** of `ADP`. 100% lemmas (10) occur only with one value of `Person`.
 
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>NOUN --[<tt><a href="tr_imst-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (1700; 100%),
-<tt>NOUN --[<tt><a href="tr_imst-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1388; 100%),
-<tt>VERB --[<tt><a href="tr_imst-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1010; 76%),
-<tt>NOUN --[<tt><a href="tr_imst-dep-conj.html">conj</a></tt>]--> NOUN</tt> (719; 100%),
-<tt>VERB --[<tt><a href="tr_imst-dep-conj.html">conj</a></tt>]--> VERB</tt> (451; 61%),
-<tt>VERB --[<tt><a href="tr_imst-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (375; 87%),
-<tt>NOUN --[<tt><a href="tr_imst-dep-compound.html">compound</a></tt>]--> NOUN</tt> (352; 100%),
-<tt>ADJ --[<tt><a href="tr_imst-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (345; 100%),
-<tt>NOUN --[<tt><a href="tr_imst-dep-nmod-poss.html">nmod:poss</a></tt>]--> PROPN</tt> (312; 100%),
-<tt>NOUN --[<tt><a href="tr_imst-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (293; 100%).
+<tt>NOUN --[<tt><a href="tr_imst-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (1895; 100%),
+<tt>VERB --[<tt><a href="tr_imst-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1094; 65%),
+<tt>NOUN --[<tt><a href="tr_imst-dep-conj.html">conj</a></tt>]--> NOUN</tt> (726; 100%),
+<tt>NOUN --[<tt><a href="tr_imst-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (698; 100%),
+<tt>VERB --[<tt><a href="tr_imst-dep-conj.html">conj</a></tt>]--> VERB</tt> (416; 67%),
+<tt>VERB --[<tt><a href="tr_imst-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (390; 81%),
+<tt>ADJ --[<tt><a href="tr_imst-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (367; 98%),
+<tt>NOUN --[<tt><a href="tr_imst-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (366; 100%),
+<tt>NOUN --[<tt><a href="tr_imst-dep-amod.html">amod</a></tt>]--> NOUN</tt> (340; 100%),
+<tt>NOUN --[<tt><a href="tr_imst-dep-nmod-poss.html">nmod:poss</a></tt>]--> PROPN</tt> (333; 100%).
 

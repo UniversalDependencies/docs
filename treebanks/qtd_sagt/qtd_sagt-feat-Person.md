@@ -94,7 +94,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (1503; 54% of non-empty `Person`): <em>ich, ben, wir, mir, mich, benim, bana, bizim, biz, uns</em>
 * `2` (436; 16% of non-empty `Person`): <em>du, dir, sen, ihr, dich, sana, dein, seni, senin, sende</em>
 * `3` (832; 30% of non-empty `Person`): <em>es, o, ondan, sie, er, onun, onu, sich, ona, onlar</em>
-* `EMPTY` (1383): <em>das, die, man, was, orada, ne, bu, alles, der, burada</em>
+* `EMPTY` (1384): <em>das, die, man, was, orada, ne, bu, der, alles, burada</em>
 
 <table>
   <tr><th>Paradigm <i>ihr</i></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>

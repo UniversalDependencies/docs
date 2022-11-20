@@ -9,26 +9,26 @@ udver: '2'
 This feature is universal.
 It occurs with 7 different values: `Dem`, `Ind`, `Int`, `Neg`, `Prs`, `Rel`, `Tot`.
 
-11368 tokens (9%) have a non-empty value of `PronType`.
+11427 tokens (9%) have a non-empty value of `PronType`.
 711 types (2%) occur at least once with a non-empty value of `PronType`.
 173 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 5 part-of-speech tags: <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (5046; 4% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt> (4649; 4% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (1665; 1% instances), <tt><a href="uk_iu-pos-PART.html">PART</a></tt> (7; 0% instances), <tt><a href="uk_iu-pos-X.html">X</a></tt> (1; 0% instances).
+The feature is used with 5 part-of-speech tags: <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (5074; 4% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt> (4672; 4% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (1673; 1% instances), <tt><a href="uk_iu-pos-PART.html">PART</a></tt> (7; 0% instances), <tt><a href="uk_iu-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `PRON`
 
-5046 <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+5074 <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="uk_iu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3549; 70%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="uk_iu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3571; 70%).
 
 `PRON` tokens may have the following values of `PronType`:
 
-* `Dem` (820; 16% of non-empty `PronType`): <em>це, те, того, цього, тим, цьому, то, тому, таке, цим</em>
-* `Ind` (149; 3% of non-empty `PronType`): <em>щось, хтось, що, чого, інше, когось, чимось, дехто, кому, комусь</em>
+* `Dem` (826; 16% of non-empty `PronType`): <em>це, те, того, цього, тим, цьому, то, тому, таке, цим</em>
+* `Ind` (150; 3% of non-empty `PronType`): <em>щось, хтось, що, чого, інше, когось, чимось, дехто, кому, комусь</em>
 * `Int` (91; 2% of non-empty `PronType`): <em>що, хто, чим, кого, чого, кому, Шо, ким, чому</em>
 * `Neg` (104; 2% of non-empty `PronType`): <em>ніхто, нічого, нікого, нікому, ніщо, ніким, нічим, нічо́го, нічому</em>
-* `Prs` (3524; 70% of non-empty `PronType`): <em>він, я, ми, вона, його, вони, їх, мене, нас, її</em>
-* `Rel` (239; 5% of non-empty `PronType`): <em>що, хто, чого, чим, кого, ким, кому, чому, віщо, чім</em>
-* `Tot` (119; 2% of non-empty `PronType`): <em>все, усе, всього, всьому, усього, усім, всьо, всякого</em>
+* `Prs` (3539; 70% of non-empty `PronType`): <em>він, я, ми, вона, його, вони, їх, мене, нас, її</em>
+* `Rel` (243; 5% of non-empty `PronType`): <em>що, хто, чого, чим, кого, ким, кому, чому, віщо, чім</em>
+* `Tot` (121; 2% of non-empty `PronType`): <em>все, усе, всього, всьому, усього, усім, всьо, всякого</em>
 
 <table>
   <tr><th>Paradigm <i>що</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th><th><tt>Ind</tt></th></tr>
@@ -40,23 +40,23 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
   <tr><td><tt><tt><a href="uk_iu-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>що</em></td><td><em>що</em></td><td><em>що</em></td></tr>
 </table>
 
-`PronType` seems to be **lexical feature** of `PRON`. 92% lemmas (33) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `PRON`. 92% lemmas (34) occur only with one value of `PronType`.
 
 ### `DET`
 
-4649 <tt><a href="uk_iu-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+4672 <tt><a href="uk_iu-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="uk_iu-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (4117; 89%), <tt><a href="uk_iu-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3996; 86%), <tt><a href="uk_iu-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3867; 83%), <tt><a href="uk_iu-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (3501; 75%), <tt><a href="uk_iu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2981; 64%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="uk_iu-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (4138; 89%), <tt><a href="uk_iu-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4015; 86%), <tt><a href="uk_iu-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3887; 83%), <tt><a href="uk_iu-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (3519; 75%), <tt><a href="uk_iu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2994; 64%).
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Dem` (1212; 26% of non-empty `PronType`): <em>той, цей, цього, ці, ті, того, такі, ця, таких, цих</em>
-* `Ind` (835; 18% of non-empty `PronType`): <em>кілька, інших, багато, один, інші, одного, якийсь, іншого, одна, деякі</em>
+* `Dem` (1220; 26% of non-empty `PronType`): <em>той, цей, цього, ці, ті, того, такі, ця, таких, цих</em>
+* `Ind` (840; 18% of non-empty `PronType`): <em>кілька, інших, багато, один, інші, одного, якийсь, іншого, деякі, одна</em>
 * `Int` (14; 0% of non-empty `PronType`): <em>яка, які, якої, Якого, який</em>
-* `Neg` (59; 1% of non-empty `PronType`): <em>жодного, жодних, ніяких, жодному, жодної, ніякої, жодна, жоден, ніяка, ніякого</em>
-* `Prs` (1316; 28% of non-empty `PronType`): <em>його, її, свою, свого, сам, свої, свій, своїх, їх, мій</em>
-* `Rel` (662; 14% of non-empty `PronType`): <em>які, який, яка, яких, яку, якого, яке, яким, якої, якій</em>
-* `Tot` (551; 12% of non-empty `PronType`): <em>всі, всіх, усі, усіх, все, кожен, кожного, весь, всю, кожному</em>
+* `Neg` (60; 1% of non-empty `PronType`): <em>жодного, жодних, ніяких, жодному, жодної, ніякої, жодна, жоден, ніяка, ніякого</em>
+* `Prs` (1321; 28% of non-empty `PronType`): <em>його, її, свою, свого, сам, свої, свій, своїх, наші, їх</em>
+* `Rel` (663; 14% of non-empty `PronType`): <em>які, який, яка, яких, яку, якого, яке, яким, якої, якій</em>
+* `Tot` (554; 12% of non-empty `PronType`): <em>всі, всіх, усі, усіх, все, кожен, кожного, весь, всю, кожному</em>
 
 <table>
   <tr><th>Paradigm <i>який</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th><th><tt>Ind</tt></th></tr>
@@ -87,24 +87,24 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
   <tr><td><tt><tt><a href="uk_iu-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="uk_iu-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>які</em></td><td><em>які</em></td><td></td></tr>
 </table>
 
-`PronType` seems to be **lexical feature** of `DET`. 95% lemmas (59) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `DET`. 95% lemmas (60) occur only with one value of `PronType`.
 
 ### `ADV`
 
-1665 <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> tokens (26% of all `ADV` tokens) have a non-empty value of `PronType`.
+1673 <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> tokens (26% of all `ADV` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="uk_iu-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1665; 100%).
+The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="uk_iu-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1673; 100%).
 
 `ADV` tokens may have the following values of `PronType`:
 
-* `Dem` (877; 53% of non-empty `PronType`): <em>так, тут, тоді, там, тому, потім, тепер, зараз, туди, досі</em>
+* `Dem` (882; 53% of non-empty `PronType`): <em>так, тут, тоді, там, тому, потім, тепер, зараз, туди, досі</em>
 * `Ind` (138; 8% of non-empty `PronType`): <em>якось, десь, колись, іноді, дещо, чомусь, інколи, як, інакше, де-не-де</em>
-* `Int` (78; 5% of non-empty `PronType`): <em>як, чого, чому, де, коли, навіщо, куди, звідки, скільки, чом</em>
-* `Neg` (75; 5% of non-empty `PronType`): <em>ніколи, ніяк, ніде, нікуди, ніко́ли, нізащо, нізвідки</em>
+* `Int` (79; 5% of non-empty `PronType`): <em>як, чого, чому, де, коли, навіщо, куди, звідки, скільки, чом</em>
+* `Neg` (75; 4% of non-empty `PronType`): <em>ніколи, ніяк, ніде, нікуди, ніко́ли, нізащо, нізвідки</em>
 * `Prs` (2; 0% of non-empty `PronType`): <em>по-моєму, по-нашому</em>
-* `Rel` (439; 26% of non-empty `PronType`): <em>коли, де, як, куди, поки, чому, доки, скільки, відколи, звідки</em>
+* `Rel` (441; 26% of non-empty `PronType`): <em>коли, де, як, куди, поки, чому, доки, скільки, відколи, звідки</em>
 * `Tot` (56; 3% of non-empty `PronType`): <em>завжди, скрізь, всюди, всього, звідусіль, повсюди, усюди</em>
-* `EMPTY` (4793): <em>ще, вже, можна, дуже, також, треба, більше, далі, добре, зовсім</em>
+* `EMPTY` (4818): <em>ще, вже, можна, дуже, також, треба, більше, далі, добре, зовсім</em>
 
 <table>
   <tr><th>Paradigm <i>як</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th><th><tt>Dem</tt></th><th><tt>Ind</tt></th></tr>
@@ -120,7 +120,7 @@ The most frequent other feature values with which `PART` and `PronType` co-occur
 `PART` tokens may have the following values of `PronType`:
 
 * `Prs` (7; 100% of non-empty `PronType`): <em>де, Дю, Ле, да, фон, хан</em>
-* `EMPTY` (3517): <em>не, й, і, ж, то, навіть, тільки, лише, саме, чи</em>
+* `EMPTY` (3535): <em>не, й, і, ж, то, навіть, тільки, лише, чи, саме</em>
 
 ### `X`
 
@@ -131,7 +131,7 @@ The most frequent other feature values with which `X` and `PronType` co-occurred
 `X` tokens may have the following values of `PronType`:
 
 * `Prs` (1; 100% of non-empty `PronType`): <em>ю</em>
-* `EMPTY` (595): <em>Office, the, Windows, Amazon, DITIB, cyanus, Centaurea, GFP, mneme, n</em>
+* `EMPTY` (601): <em>Office, the, Windows, Amazon, DITIB, cyanus, Centaurea, GFP, mneme, n</em>
 
 ## Relations with Agreement in `PronType`
 

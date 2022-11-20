@@ -10,21 +10,21 @@ This feature is universal.
 It occurs with 2 different values: `Fem`, `Masc`.
 Some words have combined values of the feature; 1 combinations have been observed: `Fem|Masc`.
 
-4210 tokens (41%) have a non-empty value of `Gender`.
-1859 types (67%) occur at least once with a non-empty value of `Gender`.
-1230 lemmas (68%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 5 part-of-speech tags: <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (2622; 26% instances), <tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt> (865; 8% instances), <tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt> (441; 4% instances), <tt><a href="kmr_mg-pos-DET.html">DET</a></tt> (180; 2% instances), <tt><a href="kmr_mg-pos-ADP.html">ADP</a></tt> (102; 1% instances).
+4206 tokens (41%) have a non-empty value of `Gender`.
+1854 types (66%) occur at least once with a non-empty value of `Gender`.
+1229 lemmas (68%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 5 part-of-speech tags: <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (2621; 26% instances), <tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt> (862; 8% instances), <tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt> (441; 4% instances), <tt><a href="kmr_mg-pos-DET.html">DET</a></tt> (180; 2% instances), <tt><a href="kmr_mg-pos-ADP.html">ADP</a></tt> (102; 1% instances).
 
 ### `NOUN`
 
-2622 <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Gender`.
+2621 <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="kmr_mg-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (2317; 88%), <tt><a href="kmr_mg-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2312; 88%), <tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2151; 82%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="kmr_mg-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (2316; 88%), <tt><a href="kmr_mg-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2311; 88%), <tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2150; 82%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
 * `Fem` (1643; 63% of non-empty `Gender`): <em>sala, oda, xweha, kurdî, banû, caran, dema, odê, qesirê, salên</em>
-* `Masc` (979; 37% of non-empty `Gender`): <em>zirbavê, gund, navê, serê, zimanê, nav, derî, mirov, dengê, dest</em>
+* `Masc` (978; 37% of non-empty `Gender`): <em>zirbavê, gund, navê, serê, zimanê, nav, derî, mirov, dengê, dest</em>
 * `EMPTY` (32): <em>Dr., km, hwd, GAP</em>
 
 <table>
@@ -42,21 +42,21 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 ### `PRON`
 
-865 <tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt> tokens (98% of all `PRON` tokens) have a non-empty value of `Gender`.
+862 <tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt> tokens (98% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="kmr_mg-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (759; 88%), <tt><a href="kmr_mg-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (646; 75%), <tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (455; 53%), <tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Acc</tt> (436; 50%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="kmr_mg-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (759; 88%), <tt><a href="kmr_mg-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (643; 75%), <tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (453; 53%), <tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Acc</tt> (435; 50%).
 
 `PRON` tokens may have the following values of `Gender`:
 
-* `Fem` (61; 7% of non-empty `Gender`): <em>wê, _, vê, we, ve</em>
-* `Fem,Masc` (718; 83% of non-empty `Gender`): <em>xwe, min, me, em, ew, ez, te, wan, _, ev</em>
+* `Fem` (60; 7% of non-empty `Gender`): <em>wê, _, vê, we, ve</em>
+* `Fem,Masc` (716; 83% of non-empty `Gender`): <em>xwe, min, me, em, ez, ew, te, wan, _, tu</em>
 * `Masc` (86; 10% of non-empty `Gender`): <em>wî, _, ewî, Gelek, gelekê, wi</em>
 * `EMPTY` (14): <em>çi, Kî, heryekê, hevûdin</em>
 
 <table>
   <tr><th>Paradigm <i>ew</i></th><th><tt>Fem,Masc</tt></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
   <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="kmr_mg-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kmr_mg-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>_</em></td><td><em>wî, ewî, wi</em></td><td><em>wê, we, _</em></td></tr>
-  <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="kmr_mg-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>_</em></td><td><em>_</em></td><td><em>_</em></td></tr>
+  <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="kmr_mg-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>_, ew</em></td><td><em>_</em></td><td><em>_</em></td></tr>
   <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="kmr_mg-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kmr_mg-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>wan</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="kmr_mg-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>wan</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="kmr_mg-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kmr_mg-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>ew, Eve</em></td><td></td><td></td></tr>
@@ -118,7 +118,7 @@ The most frequent other feature values with which `ADP` and `Gender` co-occurred
 * `Fem` (61; 60% of non-empty `Gender`): <em>ya, a, Stêrên</em>
 * `Fem,Masc` (23; 23% of non-empty `Gender`): <em>yên, ên, en</em>
 * `Masc` (18; 18% of non-empty `Gender`): <em>yê, ê, ye</em>
-* `EMPTY` (1489): <em>di, de, bi, ji, li, re, ve, ser, bo, ber</em>
+* `EMPTY` (1589): <em>di, de, ji, li, bi, re, ve, ser, bo, ber</em>
 
 <table>
   <tr><th>Paradigm <i>yê</i></th><th><tt>Fem,Masc</tt></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -129,7 +129,7 @@ The most frequent other feature values with which `ADP` and `Gender` co-occurred
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="kmr_mg-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (243; 53%),
+<tt>NOUN --[<tt><a href="kmr_mg-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (245; 53%),
 <tt>NOUN --[<tt><a href="kmr_mg-dep-conj.html">conj</a></tt>]--> NOUN</tt> (88; 67%),
 <tt>NOUN --[<tt><a href="kmr_mg-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (72; 52%),
 <tt>NOUN --[<tt><a href="kmr_mg-dep-nmod-poss.html">nmod:poss</a></tt>]--> PROPN</tt> (52; 55%),

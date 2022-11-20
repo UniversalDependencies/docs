@@ -11,10 +11,10 @@ It occurs with 3 different values: `Fem`, `Masc`, `Neut`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="sr_set-feat-Gender.html">Gender</a></tt>, <tt><a href="sr_set-feat-Gender-psor.html">Gender[psor]</a></tt>.
 
-50406 tokens (52%) have a non-empty value of `Gender`.
+50383 tokens (52%) have a non-empty value of `Gender`.
 16569 types (90%) occur at least once with a non-empty value of `Gender`.
 8064 lemmas (84%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 8 part-of-speech tags: <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (23811; 24% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (10967; 11% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (7408; 8% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt> (3490; 4% instances), <tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (3352; 3% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (772; 1% instances), <tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (304; 0% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (302; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (23811; 24% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (10967; 11% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (7408; 8% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt> (3490; 4% instances), <tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (3352; 3% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (749; 1% instances), <tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (304; 0% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (302; 0% instances).
 
 ### `NOUN`
 
@@ -155,15 +155,15 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 
 ### `PRON`
 
-772 <tt><a href="sr_set-pos-PRON.html">PRON</a></tt> tokens (32% of all `PRON` tokens) have a non-empty value of `Gender`.
+749 <tt><a href="sr_set-pos-PRON.html">PRON</a></tt> tokens (31% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="sr_set-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (772; 100%), <tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Nom</tt> (540; 70%), <tt><a href="sr_set-feat-Person.html">Person</a></tt><tt>=3</tt> (480; 62%), <tt><a href="sr_set-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (480; 62%), <tt><a href="sr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (416; 54%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="sr_set-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (749; 100%), <tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Nom</tt> (518; 69%), <tt><a href="sr_set-feat-Person.html">Person</a></tt><tt>=3</tt> (480; 64%), <tt><a href="sr_set-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (480; 64%), <tt><a href="sr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (416; 56%).
 
 `PRON` tokens may have the following values of `Gender`:
 
 * `Fem` (98; 13% of non-empty `Gender`): <em>ona, je, joj, one, nje, ju, njoj, njom, nju</em>
-* `Masc` (423; 55% of non-empty `Gender`): <em>on, oni, ga, njega, ko, mu, niko, neko, njemu, koga</em>
-* `Neut` (251; 33% of non-empty `Gender`): <em>što, šta, ništa, ono, nešto, čime, čega, čemu, ona, kome</em>
+* `Masc` (423; 56% of non-empty `Gender`): <em>on, oni, ga, njega, ko, mu, niko, neko, njemu, koga</em>
+* `Neut` (228; 30% of non-empty `Gender`): <em>što, šta, ništa, ono, nešto, čime, čega, čemu, ona, kome</em>
 * `EMPTY` (1654): <em>se, mi, ih, im, njih, nam, nas, njima, sebe, ja</em>
 
 <table>
@@ -234,5 +234,5 @@ The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="sr_set-dep-acl.html">acl</a></tt>]--> ADJ</tt> (378; 83%),
 <tt>PROPN --[<tt><a href="sr_set-dep-conj.html">conj</a></tt>]--> PROPN</tt> (338; 72%),
 <tt>ADJ --[<tt><a href="sr_set-dep-conj.html">conj</a></tt>]--> ADJ</tt> (297; 87%),
-<tt>VERB --[<tt><a href="sr_set-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (240; 56%).
+<tt>VERB --[<tt><a href="sr_set-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (240; 58%).
 

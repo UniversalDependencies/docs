@@ -25,7 +25,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 * `Acc` (1; 0% of non-empty `Case`): <em>nuptiam</em>
 * `Gen` (984; 4% of non-empty `Case`): <em>äktenskapets, kvinnans, världens, barnens, familjens, års, dagens, samhällets, jordens, slags</em>
 * `Nom` (21444; 96% of non-empty `Case`): <em>år, barn, del, äktenskapet, procent, barnen, människor, tid, sätt, samhället</em>
-* `EMPTY` (568): <em>kr, %, dr, s., kap., proc, KPI, milj, mån, kl</em>
+* `EMPTY` (566): <em>kr, %, dr, s., kap., proc, KPI, milj, mån, kl</em>
 
 <table>
   <tr><th>Paradigm <i>barn</i></th><th><tt>Nom</tt></th><th><tt>Gen</tt></th></tr>
@@ -127,14 +127,14 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="sv_talbanken-dep-amod.html">amod</a></tt>]--> ADJ</tt> (5654; 97%),
+<tt>NOUN --[<tt><a href="sv_talbanken-dep-amod.html">amod</a></tt>]--> ADJ</tt> (5655; 97%),
 <tt>NOUN --[<tt><a href="sv_talbanken-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2788; 95%),
 <tt>NOUN --[<tt><a href="sv_talbanken-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1916; 92%),
 <tt>NOUN --[<tt><a href="sv_talbanken-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (940; 81%),
 <tt>ADJ --[<tt><a href="sv_talbanken-dep-obl.html">obl</a></tt>]--> NOUN</tt> (502; 97%),
 <tt>ADJ --[<tt><a href="sv_talbanken-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (484; 100%),
 <tt>ADJ --[<tt><a href="sv_talbanken-dep-conj.html">conj</a></tt>]--> ADJ</tt> (381; 100%),
-<tt>NOUN --[<tt><a href="sv_talbanken-dep-appos.html">appos</a></tt>]--> NOUN</tt> (259; 90%),
+<tt>NOUN --[<tt><a href="sv_talbanken-dep-appos.html">appos</a></tt>]--> NOUN</tt> (260; 90%),
 <tt>NOUN --[<tt><a href="sv_talbanken-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (252; 93%),
 <tt>NOUN --[<tt><a href="sv_talbanken-dep-obl.html">obl</a></tt>]--> NOUN</tt> (240; 91%).
 

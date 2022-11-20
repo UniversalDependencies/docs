@@ -23,7 +23,7 @@ The following 9 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 3	fgColor:white
 # visual-style 3 1 vocative	color:blue
 1	nympha	nympha	NOUN	n-s---fv-	Case=Voc|Gender=Fem|Number=Sing	3	vocative	_	SpaceAfter=No|LId=nympha1
-2	,	,	PUNCT	u--------	_	3	punct	_	LId=comma1
+2	,	,	PUNCT	u--------	_	1	punct	_	LId=comma1
 3	mane	maneo	VERB	v2spma---	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|LId=maneo1
 4	!	!	PUNCT	u--------	_	3	punct	_	LId=punc1
 
@@ -43,7 +43,7 @@ The following 9 pairs of parts of speech are connected with `vocative`: <tt><a h
 5	nescis	nescio	VERB	v2spia---	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	LId=nescio1
 6	quem	qui	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing	7	obj	_	LId=qui1
 7	fugias	fugio	VERB	v2spsa---	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	5	ccomp	_	SpaceAfter=No|LId=fugio1
-8	,	,	PUNCT	u--------	_	1	punct	_	LId=comma1
+8	,	,	PUNCT	u--------	_	9	punct	_	LId=comma1
 9	que	que	CCONJ	c--------	_	1	cc	_	LId=que1
 10	ideo	ideo	ADV	d--------	_	11	advmod	_	LId=ideo1
 11	fugis	fugio	VERB	v2spia---	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	SpaceAfter=No|LId=fugio1

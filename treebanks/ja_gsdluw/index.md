@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.9 release.
 The following people have contributed to making this treebank part of UD: Mai Omura, Yusuke Miyao, Hiroshi Kanayama, Hiroshi Matsuda, Aya Wakasa, Kayo Yamashita, Masayuki Asahara, Takaaki Tanaka, Yugo Murawaki, Yuji Matsumoto, Shinsuke Mori, Sumire Uematsu, Ryan McDonald, Joakim Nivre, Daniel Zeman.
 
 Repository: [UD_Japanese-GSDLUW](https://github.com/UniversalDependencies/UD_Japanese-GSDLUW)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udja_gsdluw210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udja_gsdluw211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-SA 4.0
 
@@ -93,7 +93,7 @@ through annotation, discussion and validation with
 
 ## Relations
 
-[acl](ja_gsdluw-dep-acl.html) – [advcl](ja_gsdluw-dep-advcl.html) – [advmod](ja_gsdluw-dep-advmod.html) – [amod](ja_gsdluw-dep-amod.html) – [aux](ja_gsdluw-dep-aux.html) – [case](ja_gsdluw-dep-case.html) – [cc](ja_gsdluw-dep-cc.html) – [ccomp](ja_gsdluw-dep-ccomp.html) – [compound](ja_gsdluw-dep-compound.html) – [cop](ja_gsdluw-dep-cop.html) – [csubj](ja_gsdluw-dep-csubj.html) – [dep](ja_gsdluw-dep-dep.html) – [det](ja_gsdluw-dep-det.html) – [discourse](ja_gsdluw-dep-discourse.html) – [dislocated](ja_gsdluw-dep-dislocated.html) – [fixed](ja_gsdluw-dep-fixed.html) – [mark](ja_gsdluw-dep-mark.html) – [nmod](ja_gsdluw-dep-nmod.html) – [nsubj](ja_gsdluw-dep-nsubj.html) – [nummod](ja_gsdluw-dep-nummod.html) – [obj](ja_gsdluw-dep-obj.html) – [obl](ja_gsdluw-dep-obl.html) – [punct](ja_gsdluw-dep-punct.html) – [root](ja_gsdluw-dep-root.html)
+[acl](ja_gsdluw-dep-acl.html) – [advcl](ja_gsdluw-dep-advcl.html) – [advmod](ja_gsdluw-dep-advmod.html) – [amod](ja_gsdluw-dep-amod.html) – [aux](ja_gsdluw-dep-aux.html) – [case](ja_gsdluw-dep-case.html) – [cc](ja_gsdluw-dep-cc.html) – [ccomp](ja_gsdluw-dep-ccomp.html) – [compound](ja_gsdluw-dep-compound.html) – [cop](ja_gsdluw-dep-cop.html) – [csubj](ja_gsdluw-dep-csubj.html) – [csubj:outer](ja_gsdluw-dep-csubj-outer.html) – [dep](ja_gsdluw-dep-dep.html) – [det](ja_gsdluw-dep-det.html) – [discourse](ja_gsdluw-dep-discourse.html) – [fixed](ja_gsdluw-dep-fixed.html) – [mark](ja_gsdluw-dep-mark.html) – [nmod](ja_gsdluw-dep-nmod.html) – [nsubj](ja_gsdluw-dep-nsubj.html) – [nsubj:outer](ja_gsdluw-dep-nsubj-outer.html) – [nummod](ja_gsdluw-dep-nummod.html) – [obj](ja_gsdluw-dep-obj.html) – [obl](ja_gsdluw-dep-obl.html) – [punct](ja_gsdluw-dep-punct.html) – [root](ja_gsdluw-dep-root.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -219,12 +219,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN-ADP(が) (2493)</li>
-      <li>VERB--NOUN-ADP(は) (1592)</li>
-      <li>VERB--NOUN-ADP(も) (558)</li>
-      <li>VERB--PRON-ADP(が) (52)</li>
-      <li>VERB--PRON-ADP(は) (106)</li>
-      <li>VERB--PRON-ADP(も) (54)</li>
+      <li>VERB--NOUN-ADP(が) (2474)</li>
+      <li>VERB--NOUN-ADP(は) (1532)</li>
+      <li>VERB--NOUN-ADP(も) (527)</li>
+      <li>VERB--PRON-ADP(が) (51)</li>
+      <li>VERB--PRON-ADP(は) (105)</li>
+      <li>VERB--PRON-ADP(も) (50)</li>
     </ul>
   </li>
 </ul>
@@ -269,6 +269,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus does not use relation subtypes.</li>
-<li>The following 13 relation types are not used in this corpus at all: <a>iobj</a>, <a>xcomp</a>, <a>vocative</a>, <a>expl</a>, <a>appos</a>, <a>clf</a>, <a>conj</a>, <a>flat</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>This corpus uses 2 relation subtypes: <a>csubj:outer</a>, <a>nsubj:outer</a></li>
+<li>The following 14 relation types are not used in this corpus at all: <a>iobj</a>, <a>xcomp</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>appos</a>, <a>clf</a>, <a>conj</a>, <a>flat</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

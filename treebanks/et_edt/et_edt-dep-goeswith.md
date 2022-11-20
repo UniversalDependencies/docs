@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-172 nodes (0%) are attached to their parents as `goeswith`.
+234 nodes (0%) are attached to their parents as `goeswith`.
 
-172 instances of `goeswith` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.07558139534884.
+234 instances of `goeswith` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.06410256410256.
 
-The following 5 pairs of parts of speech are connected with `goeswith`: <tt><a href="et_edt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_edt-pos-X.html">X</a></tt> (147; 85% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-X.html">X</a></tt> (16; 9% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-X.html">X</a></tt> (7; 4% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_edt-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_edt-pos-X.html">X</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `goeswith`: <tt><a href="et_edt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_edt-pos-X.html">X</a></tt> (209; 89% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-X.html">X</a></tt> (16; 7% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-X.html">X</a></tt> (7; 3% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_edt-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_edt-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,11 +23,11 @@ The following 5 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 2	fgColor:white
 # visual-style 2 3 goeswith	color:blue
 1	Üks	üks	NUM	N	Case=Nom|Number=Sing|NumForm=Word|NumType=Card	7	nummod	7:nummod	_
-2	40	40000	NUM	N	Case=Ela|Number=Sing|NumForm=Digit|NumType=Card|Typo=Yes	7	nummod	7:nummod	CorrectForm=40000st
+2	40	40000	NUM	N	NumForm=Digit|NumType=Card|Typo=Yes	7	nummod	7:nummod	CorrectForm=40000st
 3	000st	_	X	_	_	2	goeswith	2:goeswith	_
-4	Shveitsi	Shveits	PROPN	S	Case=Add|Number=Sing	5	obl	5:obl	_
+4	Shveitsi	Šveits	PROPN	S	Case=Add|Number=Sing	5	obl	5:obl	NE=B-Loc
 5	pagenud	page=nud	ADJ	A	Degree=Pos|Tense=Past|VerbForm=Part|Voice=Act	7	acl	7:acl	_
-6	Kosovo	Kosovo	PROPN	S	Case=Gen|Number=Sing	7	nmod	7:nmod	_
+6	Kosovo	Kosovo	PROPN	S	Case=Gen|Number=Sing	7	nmod	7:nmod	NE=B-Gep
 7	albaanlasest	albaanlane	NOUN	S	Case=Ela|Number=Sing	0	root	0:root	SpaceAfter=No
 8	.	.	PUNCT	Z	_	7	punct	7:punct	_
 
@@ -42,9 +42,9 @@ The following 5 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 1 2 goeswith	color:blue
 1	50	50000_naeleane	ADJ	A	Case=All|Degree=Pos|Number=Sing|Typo=Yes	5	amod	5:amod	CorrectForm=50000-naelasele
 2	000-naelasele	_	X	_	_	1	goeswith	1:goeswith	_
-3	Man	Man	PROPN	S	Case=Nom|Number=Sing	5	nmod	5:nmod	_
-4	Bookeri	Booker	PROPN	S	Case=Gen|Number=Sing	3	flat	3:flat	_
-5	auhinnale	au_hind	NOUN	S	Case=All|Number=Sing	6	obl	6:obl	_
+3	Man	Man	PROPN	S	Case=Nom|Number=Sing	5	nmod	5:nmod	NE=B-Muu
+4	Bookeri	Booker	PROPN	S	Case=Gen|Number=Sing	3	flat	3:flat	NE=I-Muu
+5	auhinnale	au_hind	NOUN	S	Case=All|Number=Sing	6	obl	6:obl	NE=I-Muu
 6	kandideerivad	kandideerima	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
 7	:	:	PUNCT	Z	_	6	punct	6:punct	_
 

@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Latin-PROIEL: Features: `Degree`
 
 This feature is universal.
-It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
+It occurs with 3 different values: `Abs`, `Cmp`, `Pos`.
 
 12715 tokens (6%) have a non-empty value of `Degree`.
 4150 types (14%) occur at least once with a non-empty value of `Degree`.
@@ -22,13 +22,13 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 `ADJ` tokens may have the following values of `Degree`:
 
+* `Abs` (452; 4% of non-empty `Degree`): <em>maximum, maxima, plurimum, maximo, carissimi, optimo, optimum, maximam, maximas, maximis</em>
 * `Cmp` (886; 8% of non-empty `Degree`): <em>maior, plus, seniores, plures, senioribus, maiores, plura, pluribus, certiorem, maius</em>
 * `Pos` (9234; 87% of non-empty `Degree`): <em>multa, magna, multi, multis, magno, publica, bonum, magnum, romani, publicae</em>
-* `Sup` (452; 4% of non-empty `Degree`): <em>maximum, maxima, plurimum, maximo, carissimi, optimo, optimum, maximam, maximas, maximis</em>
 * `EMPTY` (6257): <em>haec, illi, hoc, illis, nihil, illum, omnia, his, omnes, ille</em>
 
 <table>
-  <tr><th>Paradigm <i>magnus</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
+  <tr><th>Paradigm <i>magnus</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Abs</tt></th></tr>
   <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt>|<tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>magno</em></td><td></td><td><em>maximo</em></td></tr>
   <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>magno</em></td><td><em>maiori</em></td><td><em>maximo</em></td></tr>
   <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>magnis</em></td><td><em>maioribus</em></td><td></td></tr>
@@ -78,13 +78,13 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 
 `ADV` tokens may have the following values of `Degree`:
 
+* `Abs` (259; 12% of non-empty `Degree`): <em>maxime, minime, diligentissime, plurimum, optime, proxime, latissime, novissime, facillime, saepissime</em>
 * `Cmp` (614; 29% of non-empty `Degree`): <em>magis, minus, amplius, prius, plus, longius, facilius, melius, diutius, abundantius</em>
 * `Pos` (1270; 59% of non-empty `Degree`): <em>saepe, valde, longe, satis, bene, facile, similiter, prope, celeriter, vere</em>
-* `Sup` (259; 12% of non-empty `Degree`): <em>maxime, minime, diligentissime, plurimum, optime, proxime, latissime, novissime, facillime, saepissime</em>
 * `EMPTY` (19048): <em>non, autem, enim, ne, et, quam, ergo, etiam, ut, sicut</em>
 
 <table>
-  <tr><th>Paradigm <i>longe</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
+  <tr><th>Paradigm <i>longe</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Abs</tt></th></tr>
   <tr><td><tt></tt></td><td><em>longe</em></td><td><em>longius</em></td><td><em>longissime</em></td></tr>
 </table>
 

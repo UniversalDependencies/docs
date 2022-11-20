@@ -25,5 +25,5 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 * `Cnd` (9; 13% of non-empty `Mood`): <em>mana</em>
 * `Imp` (13; 18% of non-empty `Mood`): <em>kana, ye</em>
 * `Sub` (50; 69% of non-empty `Mood`): <em>ka</em>
-* `EMPTY` (1349): <em>ka, ye, bè, tè, ma, tun, be, bɛ, diye, k'</em>
+* `EMPTY` (1329): <em>ka, ye, bè, tè, ma, tun, be, bɛ, k', y'</em>
 

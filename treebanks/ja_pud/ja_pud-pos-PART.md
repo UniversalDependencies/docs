@@ -56,7 +56,7 @@ The 3rd highest number of forms (1) was observed with the lemma “がかる”:
 
 ## Relations
 
-`PART` nodes are attached to their parents using 2 different relations: <tt><a href="ja_pud-dep-mark.html">mark</a></tt> (209; 100% instances), <tt><a href="ja_pud-dep-fixed.html">fixed</a></tt> (1; 0% instances)
+`PART` nodes are attached to their parents using 1 different relations: <tt><a href="ja_pud-dep-mark.html">mark</a></tt> (210; 100% instances)
 
 Parents of `PART` nodes belong to 5 different parts of speech: <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (117; 56% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (69; 33% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (21; 10% instances), <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances)
 

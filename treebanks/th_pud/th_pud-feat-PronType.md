@@ -52,5 +52,5 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 `DET` tokens may have the following values of `PronType`:
 
 * `Int` (1; 100% of non-empty `PronType`): อะไร
-* `EMPTY` (1039): ที่, นี้, ซึ่ง, นั้น, หลาย, ทั้ง, อีก, ทุก, บาง, ทั้งหมด
+* `EMPTY` (1025): ที่, นี้, ซึ่ง, นั้น, หลาย, อีก, ทุก, ทั้ง, บาง, ทั้งหมด
 

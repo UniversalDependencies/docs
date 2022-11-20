@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Djamé Seddah, Marie Candito, Bruno Guillaume.
 
 Repository: [UD_French-FQB](https://github.com/UniversalDependencies/UD_French-FQB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_fqb210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_fqb211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: LGPL-LR
 
@@ -561,10 +561,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB-Fin--NOUN (343)</li>
-      <li>VERB-Fin--PRON (291)</li>
+      <li>VERB-Fin--PRON (290)</li>
       <li>VERB-Inf--NOUN (2)</li>
       <li>VERB-Part--NOUN (109)</li>
-      <li>VERB-Part--PRON (141)</li>
+      <li>VERB-Part--PRON (140)</li>
     </ul>
   </li>
 </ul>

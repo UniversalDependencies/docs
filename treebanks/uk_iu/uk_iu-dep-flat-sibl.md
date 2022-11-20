@@ -12,7 +12,7 @@ There are also 6 other language-specific subtypes of `flat`: <tt><a href="uk_iu-
 69 nodes (0%) are attached to their parents as `flat:sibl`.
 
 69 instances of `flat:sibl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.7536231884058.
+Average distance between parent and child is 4.69565217391304.
 
 The following 14 pairs of parts of speech are connected with `flat:sibl`: <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (20; 29% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (13; 19% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (10; 14% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (6; 9% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (6; 9% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (3; 4% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (3; 4% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_iu-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
@@ -67,7 +67,7 @@ The following 14 pairs of parts of speech are connected with `flat:sibl`: <tt><a
 9	у	у	ADP	Spsg	Case=Gen	10	case	10:case	Id=1f5k|LTranslit=u|Translit=u
 10	неї	вона	PRON	Pp-3f-sgn	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	obl	8:obl	Id=1f5l|LTranslit=vona|Translit=neji
 11	надзвичайна	надзвичайний	ADJ	Ao-fsns	Case=Nom|Gender=Fem|Number=Sing	12	amod	12:amod	Id=1f5m|LTranslit=nadzvyčajnyj|Translit=nadzvyčajna
-12	вразливість	вразливість	NOUN	Ncfsnn	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	nsubj	8:nsubj|15:nsubj:rel	Id=1f5n|LTranslit=vrazlyvisť|SpaceAfter=No|Translit=vrazlyvisť
+12	вразливість	вразливість	NOUN	Ncfsnn	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	nsubj	8:nsubj|15:nsubj	Id=1f5n|LTranslit=vrazlyvisť|SpaceAfter=No|Translit=vrazlyvisť
 13	,	,	PUNCT	U	_	15	punct	15:punct	Id=1f5o|LTranslit=,|Translit=,
 14	що	що	SCONJ	Css	_	15	mark	15:mark	Id=1f5p|LTranslit=ščo|Translit=ščo
 15	триває	тривати	VERB	Vmpip3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	12:acl:relcl	Id=1f5q|LTranslit=tryvaty|Translit=tryvaě

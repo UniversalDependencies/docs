@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-212 nodes (2%) are attached to their parents as `det`.
+213 nodes (2%) are attached to their parents as `det`.
 
-212 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.06132075471698.
+213 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.05633802816901.
 
-The following 5 pairs of parts of speech are connected with `det`: <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-DET.html">DET</a></tt> (199; 94% instances), <tt><a href="kmr_mg-pos-NUM.html">NUM</a></tt>-<tt><a href="kmr_mg-pos-DET.html">DET</a></tt> (10; 5% instances), <tt><a href="kmr_mg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kmr_mg-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="kmr_mg-pos-ADP.html">ADP</a></tt>-<tt><a href="kmr_mg-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `det`: <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-DET.html">DET</a></tt> (200; 94% instances), <tt><a href="kmr_mg-pos-NUM.html">NUM</a></tt>-<tt><a href="kmr_mg-pos-DET.html">DET</a></tt> (10; 5% instances), <tt><a href="kmr_mg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kmr_mg-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

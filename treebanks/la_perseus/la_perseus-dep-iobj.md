@@ -29,7 +29,7 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 5	suis	suus	PRON	p-p---fd-	Case=Dat|Gender=Fem|Number=Plur	1	nmod	_	_
 6	et	et	CCONJ	c--------	_	3	cc	_	LId=et1
 7	conde	condo	VERB	v2spma---	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	LId=condo1
-8	sepulchro	sepulcrum	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	7	advmod	_	SpaceAfter=No|LId=sepulcrum1
+8	sepulchro	sepulcrum	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	7	obl	_	SpaceAfter=No|LId=sepulcrum1
 9	.	.	PUNCT	u--------	_	3	punct	_	LId=punc1
 
 ~~~

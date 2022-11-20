@@ -91,7 +91,7 @@ The following 14 pairs of parts of speech are connected with `reparandum`: <tt><
 7	או"ם	או"ם	PROPN	PROPN	Abbr=Yes	5	compound	_	_
 8	ל	ל	ADP	ADP	_	9	case	_	_
 9	פליטים	פליט	NOUN	NOUN	Gender=Masc|Number=Plur	5	nmod	_	_
-10	היא	הוא	PRON	PRON	Gender=Fem|Number=Sing|Person=3	11	cop	_	_
+10	היא	הוא	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	cop	_	_
 11	שילוב	שילוב	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	0	root	_	_
 12	ה	ה	DET	DET	Definite=Def|PronType=Art	13	det	_	_
 13	פליטים	פליט	NOUN	NOUN	Gender=Masc|Number=Plur	11	compound	_	_

@@ -7,14 +7,40 @@ udver: '2'
 ## Treebank Statistics: UD_French-ParisStories: Relations: `obl`
 
 This relation is universal.
-There are 2 language-specific subtypes of `obl`: <tt><a href="fr_parisstories-dep-obl-arg.html">obl:arg</a></tt>, <tt><a href="fr_parisstories-dep-obl-mod.html">obl:mod</a></tt>.
+There are 3 language-specific subtypes of `obl`: <tt><a href="fr_parisstories-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="fr_parisstories-dep-obl-arg.html">obl:arg</a></tt>, <tt><a href="fr_parisstories-dep-obl-mod.html">obl:mod</a></tt>.
 
-3 nodes (0%) are attached to their parents as `obl`.
+11 nodes (0%) are attached to their parents as `obl`.
 
-2 instances of `obl` (67%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.
+10 instances of `obl` (91%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.81818181818182.
 
-The following 2 pairs of parts of speech are connected with `obl`: <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (2; 67% instances), <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (1; 33% instances).
+The following 4 pairs of parts of speech are connected with `obl`: <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (6; 55% instances), <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (3; 27% instances), <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (1; 9% instances), <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (1; 9% instances).
+
+
+~~~ conllu
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 14 obl	color:blue
+1	donc	donc	ADV	_	_	3	advmod	_	_
+2	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	SpaceAfter=No
+3	avais	avoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	énormément	énormément	ADV	_	_	3	obj	_	_
+5	de	de	ADP	_	_	8	reparandum	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	lacunes	lacune	NOUN	_	Gender=Fem|Number=Plur	4	obl:arg	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	12	punct	_	_
+10	dans	dans	ADP	_	_	12	case	_	_
+11	pas	pas	ADV	_	_	12	advmod	_	_
+12	mal	mal	ADV	_	Gender=Masc|Number=Sing	8	advmod	_	_
+13	de	de	ADP	_	_	14	case	_	_
+14	matières	matières	NOUN	_	Gender=Fem|Number=Plur	12	obl	_	_
+15	littéraires	littéraires	ADJ	_	Number=Plur	14	amod	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	3	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -45,9 +71,9 @@ The following 2 pairs of parts of speech are connected with `obl`: <tt><a href="
 # visual-style 15	bgColor:blue
 # visual-style 15	fgColor:white
 # visual-style 15 19 obl	color:blue
-1	donc	donc	ADV	_	_	6	discourse	_	_
+1	donc	donc	ADV	_	_	6	advmod	_	_
 2	que	que	SCONJ	_	_	1	dep	_	Scrap=Yes
-3	ouais	ouais	ADV	_	_	6	discourse	_	_
+3	ouais	ouais	INTJ	_	_	6	discourse	_	_
 4	euh	euh	INTJ	_	_	6	discourse	_	_
 5	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
 6	pense	penser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -58,8 +84,8 @@ The following 2 pairs of parts of speech are connected with `obl`: <tt><a href="
 11	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	truc	truc	NOUN	_	Gender=Masc|Number=Sing	6	ccomp	_	_
 13	sympa	sympa	ADJ	_	Gender=Masc|Number=Sing	12	amod	_	_
-14	à	à	ADP	_	_	12	dep	_	_
-15	à	à	ADP	_	_	14	reparandum	_	ExtPos=ADV|Idiom=Yes
+14	à	à	ADP	_	_	15	reparandum	_	_
+15	à	à	ADP	_	_	12	advmod	_	ExtPos=ADV|Idiom=Yes
 16	côté	côté	NOUN	_	Gender=Masc|Number=Sing	15	fixed	_	InIdiom=Yes
 17	de	de	ADP	_	_	19	case	_	_
 18	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	19	det	_	SpaceAfter=No

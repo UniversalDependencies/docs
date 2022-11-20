@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Fem`, `Masc`.
 
-25772 tokens (29%) have a non-empty value of `Gender`.
+25773 tokens (29%) have a non-empty value of `Gender`.
 4438 types (58%) occur at least once with a non-empty value of `Gender`.
 3070 lemmas (55%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 5 part-of-speech tags: <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (13612; 15% instances), <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (5044; 6% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (4710; 5% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (1441; 2% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (965; 1% instances).
+The feature is used with 5 part-of-speech tags: <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (13612; 15% instances), <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (5045; 6% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (4710; 5% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (1441; 2% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (965; 1% instances).
 
 ### `NOUN`
 
@@ -24,7 +24,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 * `Fem` (4905; 36% of non-empty `Gender`): <em>bliadhna, buille, bhliadhna, obair, cuid, Gàidhlig, tè, aghaidh, dòigh, leithid</em>
 * `Masc` (8707; 64% of non-empty `Gender`): <em>duine, fear, fhios, taobh, rud, daoine, latha, àite, taigh, leth</em>
-* `EMPTY` (5244): <em>bhith, dol, ràdh, chur, ais, dhèanamh, feuchainn, tighinn, thoirt, cur</em>
+* `EMPTY` (5249): <em>bhith, dol, ràdh, chur, ais, dhèanamh, feuchainn, tighinn, thoirt, cur</em>
 
 <table>
   <tr><th>Paradigm <i>dèan</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -37,15 +37,15 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 ### `DET`
 
-5044 <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> tokens (77% of all `DET` tokens) have a non-empty value of `Gender`.
+5045 <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> tokens (77% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="gd_arcosg-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4541; 90%), <tt><a href="gd_arcosg-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (4541; 90%), <tt><a href="gd_arcosg-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (4487; 89%), <tt><a href="gd_arcosg-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (4487; 89%), <tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4118; 82%), <tt><a href="gd_arcosg-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3811; 76%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="gd_arcosg-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4542; 90%), <tt><a href="gd_arcosg-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (4542; 90%), <tt><a href="gd_arcosg-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (4487; 89%), <tt><a href="gd_arcosg-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (4487; 89%), <tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4119; 82%), <tt><a href="gd_arcosg-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3812; 76%).
 
 `DET` tokens may have the following values of `Gender`:
 
 * `Fem` (1757; 35% of non-empty `Gender`): <em>na, an, a’, a, a', 'n, nan, nam, ‘n, am</em>
-* `Masc` (3287; 65% of non-empty `Gender`): <em>an, na, a’, a, am, nan, a', 'n, nam, 'm</em>
-* `EMPTY` (1496): <em>an, sin, seo, a, h-uile, am, mo, a', na, do</em>
+* `Masc` (3288; 65% of non-empty `Gender`): <em>an, na, a’, a, am, nan, a', 'n, nam, 'm</em>
+* `EMPTY` (1494): <em>an, sin, seo, a, h-uile, am, mo, a', na, do</em>
 
 <table>
   <tr><th>Paradigm <i>an</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -68,7 +68,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 * `Fem` (994; 21% of non-empty `Gender`): <em>i, a, ise, h-i, h-ì</em>
 * `Masc` (3716; 79% of non-empty `Gender`): <em>e, esan, a, h-e, ise, è, aige, mise, sinne</em>
-* `EMPTY` (4897): <em>iad, mi, thu, sin, sinn, fhèin, seo, dè, sibh, mise</em>
+* `EMPTY` (4960): <em>iad, mi, thu, sin, sinn, fhèin, seo, dè, sibh, mise</em>
 
 <table>
   <tr><th>Paradigm <i>i</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -86,7 +86,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 * `Fem` (503; 35% of non-empty `Gender`): <em>eile, mhòr, ùr, àrd, shaor, mhath, bheag, mhór, beaga, Buidhe</em>
 * `Masc` (938; 65% of non-empty `Gender`): <em>eile, beag, ùr, mòr, math, mór, òg, dubh, ghoirid, ùra</em>
-* `EMPTY` (1975): <em>bith, sam, cinnteach, math, faisg, thall, seann, fhearr, droch, coltach</em>
+* `EMPTY` (1976): <em>bith, sam, cinnteach, math, faisg, thall, seann, fhearr, droch, coltach</em>
 
 <table>
   <tr><th>Paradigm <i>eile</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -123,13 +123,13 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="gd_arcosg-dep-det.html">det</a></tt>]--> DET</tt> (4240; 85%),
-<tt>NOUN --[<tt><a href="gd_arcosg-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1273; 67%),
-<tt>NOUN --[<tt><a href="gd_arcosg-dep-conj.html">conj</a></tt>]--> NOUN</tt> (299; 51%),
+<tt>NOUN --[<tt><a href="gd_arcosg-dep-det.html">det</a></tt>]--> DET</tt> (4243; 85%),
+<tt>NOUN --[<tt><a href="gd_arcosg-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1274; 67%),
+<tt>NOUN --[<tt><a href="gd_arcosg-dep-conj.html">conj</a></tt>]--> NOUN</tt> (300; 51%),
 <tt>NOUN --[<tt><a href="gd_arcosg-dep-appos.html">appos</a></tt>]--> NOUN</tt> (61; 59%),
 <tt>NOUN --[<tt><a href="gd_arcosg-dep-appos.html">appos</a></tt>]--> PROPN</tt> (55; 60%),
 <tt>PROPN --[<tt><a href="gd_arcosg-dep-amod.html">amod</a></tt>]--> ADJ</tt> (49; 96%),
-<tt>PROPN --[<tt><a href="gd_arcosg-dep-appos.html">appos</a></tt>]--> NOUN</tt> (29; 73%),
+<tt>PROPN --[<tt><a href="gd_arcosg-dep-appos.html">appos</a></tt>]--> NOUN</tt> (29; 71%),
 <tt>PROPN --[<tt><a href="gd_arcosg-dep-conj.html">conj</a></tt>]--> PROPN</tt> (28; 65%),
 <tt>NOUN --[<tt><a href="gd_arcosg-dep-compound.html">compound</a></tt>]--> NOUN</tt> (19; 100%),
 <tt>ADJ --[<tt><a href="gd_arcosg-dep-conj.html">conj</a></tt>]--> ADJ</tt> (16; 84%).

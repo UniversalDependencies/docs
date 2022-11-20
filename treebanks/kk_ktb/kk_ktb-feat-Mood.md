@@ -12,23 +12,23 @@ It occurs with 6 different values: `Cnd`, `Des`, `Imp`, `Ind`, `Opt`, `Pot`.
 1069 tokens (10%) have a non-empty value of `Mood`.
 577 types (13%) occur at least once with a non-empty value of `Mood`.
 263 lemmas (11%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt> (767; 7% instances), <tt><a href="kk_ktb-pos-AUX.html">AUX</a></tt> (302; 3% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt> (816; 8% instances), <tt><a href="kk_ktb-pos-AUX.html">AUX</a></tt> (253; 2% instances).
 
 ### `VERB`
 
-767 <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt> tokens (48% of all `VERB` tokens) have a non-empty value of `Mood`.
+816 <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt> tokens (50% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="kk_ktb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (766; 100%), <tt><a href="kk_ktb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (717; 93%), <tt><a href="kk_ktb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (660; 86%), <tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=3</tt> (619; 81%), <tt><a href="kk_ktb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (619; 81%), <tt><a href="kk_ktb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (495; 65%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="kk_ktb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (815; 100%), <tt><a href="kk_ktb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (765; 94%), <tt><a href="kk_ktb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (704; 86%), <tt><a href="kk_ktb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (668; 82%), <tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=3</tt> (665; 81%), <tt><a href="kk_ktb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (536; 66%), <tt><a href="kk_ktb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (420; 51%).
 
 `VERB` tokens may have the following values of `Mood`:
 
-* `Cnd` (29; 4% of non-empty `Mood`): <em>берсе, десең, жатса, Сүйсем, алмаса, ашылса, барса, болса, білсе, білсең</em>
+* `Cnd` (30; 4% of non-empty `Mood`): <em>берсе, десең, жатса, Сүйсем, алмаса, ашылса, барса, болса, білсе, білсең</em>
 * `Des` (13; 2% of non-empty `Mood`): <em>Тарағысы, айтқым, айтқысы, алсам екен, аңдысам екен, білмек, кеңейтілмек, көздемек, Қарағысы, қайтқысы</em>
-* `Imp` (28; 4% of non-empty `Mood`): <em>алыңыз, же, Аттан, айт, аяма, бер, берме, беріңіз, жасаңыздар, жинаңыз</em>
-* `Ind` (664; 87% of non-empty `Mood`): <em>деді, біледі, болды, келді, өтті, береді, шықты, алды, ашылды, болады</em>
-* `Opt` (21; 3% of non-empty `Mood`): <em>білейік, білсін, аяйын, барайын, барсын, берейік, білдірсін, жалынсын, жейік, жисын</em>
-* `Pot` (12; 2% of non-empty `Mood`): <em>айтарлықтай, айтушы, алаңдарлықтай, атқарушы, басқарушы, деуші, жетелеуші, шығарушы, қабылдаушы, қорқушы</em>
-* `EMPTY` (820): <em>деп, алып, бастап, болған, басып, деген, барып, беріп, дами, шығып</em>
+* `Imp` (30; 4% of non-empty `Mood`): <em>алыңыз, же, Аттан, айт, аяма, бер, берме, беріңіз, гөр, жасаңыздар</em>
+* `Ind` (710; 87% of non-empty `Mood`): <em>бастады, кетті, деді, біледі, болды, келді, шықты, өтті, береді, түседі</em>
+* `Opt` (21; 3% of non-empty `Mood`): <em>білейік, білсін, аяйын, барайын, барсын, білдірсін, жалынсын, жейік, жисын, сенсін</em>
+* `Pot` (12; 1% of non-empty `Mood`): <em>айтарлықтай, айтушы, алаңдарлықтай, атқарушы, басқарушы, деуші, жетелеуші, шығарушы, қабылдаушы, қорқушы</em>
+* `EMPTY` (827): <em>деп, алып, бастап, басып, болған, деген, бара, барып, беріп, дами</em>
 
 <table>
   <tr><th>Paradigm <i>ал</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th><th><tt>Des</tt></th></tr>
@@ -47,19 +47,19 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `AUX`
 
-302 <tt><a href="kk_ktb-pos-AUX.html">AUX</a></tt> tokens (72% of all `AUX` tokens) have a non-empty value of `Mood`.
+253 <tt><a href="kk_ktb-pos-AUX.html">AUX</a></tt> tokens (70% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="kk_ktb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (302; 100%), <tt><a href="kk_ktb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (289; 96%), <tt><a href="kk_ktb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (270; 89%), <tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=3</tt> (254; 84%), <tt><a href="kk_ktb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (220; 73%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="kk_ktb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (253; 100%), <tt><a href="kk_ktb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (241; 95%), <tt><a href="kk_ktb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (226; 89%), <tt><a href="kk_ktb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (222; 88%), <tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=3</tt> (208; 82%), <tt><a href="kk_ktb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (179; 71%).
 
 `AUX` tokens may have the following values of `Mood`:
 
-* `Cnd` (12; 4% of non-empty `Mood`): <em>болса, болмаса, берсек, болсам, болсаң, жатса, кетпесем</em>
+* `Cnd` (11; 4% of non-empty `Mood`): <em>болса, болмаса, берсек, болсам, болсаң, жатса</em>
 * `Des` (3; 1% of non-empty `Mood`): <em>бермек, болмақ</em>
-* `Imp` (4; 1% of non-empty `Mood`): <em>бер, гөр, көрме, қал</em>
-* `Ind` (273; 90% of non-empty `Mood`): <em>болды, еді, жатыр, бастады, кетті, емес, келеді, отыр, екен, болады</em>
-* `Opt` (9; 3% of non-empty `Mood`): <em>болсын, алсын, берсін, болайын, тұрайық, қойсын</em>
+* `Imp` (2; 1% of non-empty `Mood`): <em>бер, қал</em>
+* `Ind` (227; 90% of non-empty `Mood`): <em>болды, еді, жатыр, емес, келеді, отыр, екен, болады, қалды, алды</em>
+* `Opt` (9; 4% of non-empty `Mood`): <em>болсын, алсын, берейік, берсін, болайын, тұрайық</em>
 * `Pot` (1; 0% of non-empty `Mood`): <em>болушы</em>
-* `EMPTY` (115): <em>болып, жатқан, бола, екенін, болуы, болу, болуға, болған, келе, алмай</em>
+* `EMPTY` (108): <em>болып, жатқан, бола, екенін, болуы, болған, болу, болуға, келе, алмай</em>
 
 <table>
   <tr><th>Paradigm <i>бол</i></th><th><tt>Ind</tt></th><th><tt>Cnd</tt></th><th><tt>Pot</tt></th><th><tt>Opt</tt></th><th><tt>Des</tt></th></tr>
@@ -81,7 +81,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="kk_ktb-dep-conj.html">conj</a></tt>]--> VERB</tt> (46; 82%),
+<tt>VERB --[<tt><a href="kk_ktb-dep-conj.html">conj</a></tt>]--> VERB</tt> (47; 82%),
 <tt>VERB --[<tt><a href="kk_ktb-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (25; 76%),
 <tt>VERB --[<tt><a href="kk_ktb-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (1; 100%).
 

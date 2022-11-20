@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2680 nodes (3%) are attached to their parents as `mark`.
+3045 nodes (3%) are attached to their parents as `mark`.
 
-2672 instances of `mark` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.34701492537313.
+3037 instances of `mark` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.32085385878489.
 
-The following 18 pairs of parts of speech are connected with `mark`: <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt> (1538; 57% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt> (346; 13% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (272; 10% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt> (200; 7% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt> (89; 3% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt> (76; 3% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt> (42; 2% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (37; 1% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (28; 1% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (18; 1% instances), <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt> (15; 1% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="et_ewt-pos-SYM.html">SYM</a></tt>-<tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="et_ewt-pos-AUX.html">AUX</a></tt>-<tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="et_ewt-pos-X.html">X</a></tt>-<tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="et_ewt-pos-AUX.html">AUX</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 19 pairs of parts of speech are connected with `mark`: <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt> (1742; 57% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt> (402; 13% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (318; 10% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt> (217; 7% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt> (99; 3% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt> (84; 3% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt> (46; 2% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (43; 1% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (31; 1% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (24; 1% instances), <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt> (15; 0% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="et_ewt-pos-AUX.html">AUX</a></tt>-<tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="et_ewt-pos-SYM.html">SYM</a></tt>-<tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="et_ewt-pos-X.html">X</a></tt>-<tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="et_ewt-pos-AUX.html">AUX</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -41,12 +41,12 @@ The following 18 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 2	fgColor:white
 # visual-style 2 1 mark	color:blue
 1	Nagu	nagu	SCONJ	J	_	2	mark	2:mark	_
-2	filmis	film	NOUN	S	Case=Ine|Number=Sing	0	root	0:root	_
-3	"	"	PUNCT	Z	_	6	punct	6:punct	SpaceAfter=No
-4	Madissoni	Madisson	PROPN	S	Case=Gen|Number=Sing	5	nmod	5:nmod	_
-5	maakonna	maakond	NOUN	S	Case=Gen|Number=Sing	6	nmod	6:nmod	_
-6	sillad	sild	NOUN	S	Case=Nom|Number=Plur	2	appos	2:appos	SpaceAfter=No
-7	"	"	PUNCT	Z	_	6	punct	6:punct	_
+2	filmis	film	NOUN	S	Case=Ine|Number=Sing	0	root	0:root	NE=B-Prod
+3	"	"	PUNCT	Z	_	6	punct	6:punct	NE=I-Prod|SpaceAfter=No
+4	Madissoni	Madisson	PROPN	S	Case=Gen|Number=Sing	5	nmod	5:nmod	NE=I-Prod
+5	maakonna	maakond	NOUN	S	Case=Gen|Number=Sing	6	nmod	6:nmod	NE=I-Prod
+6	sillad	sild	NOUN	S	Case=Nom|Number=Plur	2	appos	2:appos	NE=I-Prod|SpaceAfter=No
+7	"	"	PUNCT	Z	_	6	punct	6:punct	NE=I-Prod
 8	...	...	PUNCT	Z	_	2	punct	2:punct	_
 
 ~~~

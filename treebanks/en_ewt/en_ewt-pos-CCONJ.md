@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_English-EWT: POS Tags: `CCONJ`
 
-There are 14 `CCONJ` lemmas (0%), 25 `CCONJ` types (0%) and 8207 `CCONJ` tokens (3%).
+There are 14 `CCONJ` lemmas (0%), 25 `CCONJ` types (0%) and 8202 `CCONJ` tokens (3%).
 Out of 17 observed tags, the rank of `CCONJ` is: 16 in number of lemmas, 16 in number of types and 11 in number of tokens.
 
-The 10 most frequent `CCONJ` lemmas: <em>and, but, or, &, both, either, yet, nor, plus, neither</em>
+The 10 most frequent `CCONJ` lemmas: <em>and, but, or, &, both, either, nor, plus, yet, neither</em>
 
-The 10 most frequent `CCONJ` types:  <em>and, but, or, &, both, either, yet, nor, plus, neither</em>
+The 10 most frequent `CCONJ` types:  <em>and, but, or, &, both, either, nor, plus, yet, neither</em>
 
-The 10 most frequent ambiguous lemmas: <em>and</em> (<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> 6111, <tt><a href="en_ewt-pos-X.html">X</a></tt> 6), <em>but</em> (<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> 900, <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> 14, <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 4, <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> 2), <em>or</em> (<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> 880, <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> 1), <em>&</em> (<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> 139, <tt><a href="en_ewt-pos-X.html">X</a></tt> 4), <em>both</em> (<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> 61, <tt><a href="en_ewt-pos-DET.html">DET</a></tt> 55, <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 11), <em>either</em> (<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> 35, <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 13, <tt><a href="en_ewt-pos-DET.html">DET</a></tt> 9), <em>yet</em> (<tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 52, <tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> 22), <em>plus</em> (<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> 20, <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 1), <em>neither</em> (<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> 9, <tt><a href="en_ewt-pos-DET.html">DET</a></tt> 2), <em>for</em> (<tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> 2089, <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> 194, <tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="en_ewt-pos-X.html">X</a></tt> 3)
+The 10 most frequent ambiguous lemmas: <em>and</em> (<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> 6111, <tt><a href="en_ewt-pos-X.html">X</a></tt> 6), <em>but</em> (<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> 900, <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> 14, <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 4, <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> 2), <em>or</em> (<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> 881, <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> 1), <em>&</em> (<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> 139, <tt><a href="en_ewt-pos-X.html">X</a></tt> 4), <em>both</em> (<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> 58, <tt><a href="en_ewt-pos-DET.html">DET</a></tt> 55, <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 14), <em>either</em> (<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> 35, <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 13, <tt><a href="en_ewt-pos-DET.html">DET</a></tt> 9), <em>plus</em> (<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> 20, <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 1), <em>yet</em> (<tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 54, <tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> 20), <em>neither</em> (<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> 9, <tt><a href="en_ewt-pos-DET.html">DET</a></tt> 2), <em>for</em> (<tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> 2089, <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> 194, <tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="en_ewt-pos-X.html">X</a></tt> 3)
 
-The 10 most frequent ambiguous types:  <em>and</em> (<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> 5915, <tt><a href="en_ewt-pos-X.html">X</a></tt> 6, <tt><a href="en_ewt-pos-DET.html">DET</a></tt> 5, <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> 2), <em>but</em> (<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> 745, <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> 13, <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 4, <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> 1), <em>or</em> (<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> 858, <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> 1), <em>&</em> (<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> 139, <tt><a href="en_ewt-pos-X.html">X</a></tt> 4), <em>both</em> (<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> 54, <tt><a href="en_ewt-pos-DET.html">DET</a></tt> 43, <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 11), <em>either</em> (<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> 32, <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 12, <tt><a href="en_ewt-pos-DET.html">DET</a></tt> 7), <em>yet</em> (<tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 51, <tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> 17), <em>plus</em> (<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> 12, <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 1), <em>neither</em> (<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> 5, <tt><a href="en_ewt-pos-DET.html">DET</a></tt> 1), <em>for</em> (<tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> 2020, <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> 192, <tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> 5, <tt><a href="en_ewt-pos-X.html">X</a></tt> 5)
+The 10 most frequent ambiguous types:  <em>and</em> (<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> 5915, <tt><a href="en_ewt-pos-X.html">X</a></tt> 6, <tt><a href="en_ewt-pos-DET.html">DET</a></tt> 5, <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> 2), <em>but</em> (<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> 745, <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> 13, <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 4, <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> 1), <em>or</em> (<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> 858, <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> 1), <em>&</em> (<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> 139, <tt><a href="en_ewt-pos-X.html">X</a></tt> 4), <em>both</em> (<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> 51, <tt><a href="en_ewt-pos-DET.html">DET</a></tt> 43, <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 14), <em>either</em> (<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> 32, <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 12, <tt><a href="en_ewt-pos-DET.html">DET</a></tt> 7), <em>plus</em> (<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> 12, <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 1), <em>yet</em> (<tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 53, <tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> 15), <em>neither</em> (<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> 5, <tt><a href="en_ewt-pos-DET.html">DET</a></tt> 1), <em>for</em> (<tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> 2020, <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> 192, <tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> 5, <tt><a href="en_ewt-pos-X.html">X</a></tt> 5)
 
 
 * <em>and</em>
@@ -36,20 +36,20 @@ The 10 most frequent ambiguous types:  <em>and</em> (<tt><a href="en_ewt-pos-CCO
   * <tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> 139: <em>Make sure he is n't trapped somewhere <b>&</b> put a bowl of food out .</em>
   * <tt><a href="en_ewt-pos-X.html">X</a></tt> 4: <em><< Stipulation -ECT-KEDNE re IGTS <b>&</b> Tennessee Cap Releases -FINAL.doc >></em>
 * <em>both</em>
-  * <tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> 54: <em>you know that <b>both</b> o'neal and matt are out ?</em>
+  * <tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> 51: <em>you know that <b>both</b> o'neal and matt are out ?</em>
   * <tt><a href="en_ewt-pos-DET.html">DET</a></tt> 43: <em>If you want to be sure , it is best to do <b>both</b> .</em>
-  * <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 11: <em>They are <b>both</b> excellent and speed up the phone quite a bit .</em>
+  * <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 14: <em>Daniel and his assistant <b>both</b> did a great job .</em>
 * <em>either</em>
   * <tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> 32: <em>Expect <b>either</b> undercooked or mushy food and lackluster service .</em>
   * <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 12: <em>I did n't <b>either</b> until I clicked on the down button and they popped up .</em>
   * <tt><a href="en_ewt-pos-DET.html">DET</a></tt> 7: <em>NCL is a notch below <b>either</b> , in terms of quality and service .</em>
-* <em>yet</em>
-  * <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 51: <em>not sure <b>yet</b></em>
-  * <tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> 17: <em>You charge SO MUCH , <b>yet</b> you use the same grounds over and over again .</em>
 * <em>plus</em>
   * <tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> 12: <em><b>plus</b> we can be outside watching it .</em>
   * <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> 3: <em>The well - equipped , clean gym is a <b>plus</b> !</em>
   * <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 1: <em>I have been growing my hair out for 1 year <b>plus</b> and went in to get 1 inch taken off .</em>
+* <em>yet</em>
+  * <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 53: <em>not sure <b>yet</b></em>
+  * <tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> 15: <em>You charge SO MUCH , <b>yet</b> you use the same grounds over and over again .</em>
 * <em>neither</em>
   * <tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> 5: <em>Please note that <b>neither</b> the e-mail address nor name of the sender have been verified .</em>
   * <tt><a href="en_ewt-pos-DET.html">DET</a></tt> 1: <em>He was In his 30s divorced and Had 2 kids .. but we both flirted Horribly with each other .. but <b>neither</b> one of us took the chance and Asked to other on a date . :(</em>
@@ -61,7 +61,7 @@ The 10 most frequent ambiguous types:  <em>and</em> (<tt><a href="en_ewt-pos-CCO
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.785714 (the average of all parts of speech is 1.228673).
+The form / lemma ratio of `CCONJ` is 1.785714 (the average of all parts of speech is 1.233118).
 
 The 1st highest number of forms (11) was observed with the lemma “and”: <em>'n, a, ad=nd, adn, afnd, amd, an, and, ans, at, n</em>.
 
@@ -74,17 +74,17 @@ The 3rd highest number of forms (1) was observed with the lemma “&”: <em>&</
 `CCONJ` occurs with 2 feature-value pairs: `Abbr=Yes`, `Typo=Yes`
 
 `CCONJ` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (8188 tokens).
-Examples: <em>and, but, or, &, both, either, yet, nor, plus, neither</em>
+The most frequent feature combination is `_` (8183 tokens).
+Examples: <em>and, but, or, &, both, either, nor, plus, yet, neither</em>
 
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 8 different relations: <tt><a href="en_ewt-dep-cc.html">cc</a></tt> (8085; 99% instances), <tt><a href="en_ewt-dep-cc-preconj.html">cc:preconj</a></tt> (102; 1% instances), <tt><a href="en_ewt-dep-fixed.html">fixed</a></tt> (10; 0% instances), <tt><a href="en_ewt-dep-conj.html">conj</a></tt> (6; 0% instances), <tt><a href="en_ewt-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="en_ewt-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="en_ewt-dep-obl.html">obl</a></tt> (1; 0% instances), <tt><a href="en_ewt-dep-root.html">root</a></tt> (1; 0% instances)
+`CCONJ` nodes are attached to their parents using 8 different relations: <tt><a href="en_ewt-dep-cc.html">cc</a></tt> (8083; 99% instances), <tt><a href="en_ewt-dep-cc-preconj.html">cc:preconj</a></tt> (99; 1% instances), <tt><a href="en_ewt-dep-fixed.html">fixed</a></tt> (10; 0% instances), <tt><a href="en_ewt-dep-conj.html">conj</a></tt> (6; 0% instances), <tt><a href="en_ewt-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="en_ewt-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="en_ewt-dep-obl.html">obl</a></tt> (1; 0% instances), <tt><a href="en_ewt-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 17 different parts of speech: <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (3564; 43% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (2380; 29% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (990; 12% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (727; 9% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (162; 2% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (157; 2% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (80; 1% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt> (34; 0% instances), <tt><a href="en_ewt-pos-PART.html">PART</a></tt> (23; 0% instances), <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (21; 0% instances), <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (18; 0% instances), <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> (18; 0% instances), <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> (14; 0% instances), <tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (7; 0% instances), <tt><a href="en_ewt-pos-X.html">X</a></tt> (7; 0% instances), <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> (4; 0% instances),  (1; 0% instances)
+Parents of `CCONJ` nodes belong to 17 different parts of speech: <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (3552; 43% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (2387; 29% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (992; 12% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (724; 9% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (162; 2% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (160; 2% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (79; 1% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt> (34; 0% instances), <tt><a href="en_ewt-pos-PART.html">PART</a></tt> (23; 0% instances), <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (22; 0% instances), <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (18; 0% instances), <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> (18; 0% instances), <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> (13; 0% instances), <tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (7; 0% instances), <tt><a href="en_ewt-pos-X.html">X</a></tt> (6; 0% instances), <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> (4; 0% instances),  (1; 0% instances)
 
-8173 (100%) `CCONJ` nodes are leaves.
+8168 (100%) `CCONJ` nodes are leaves.
 
 32 (0%) `CCONJ` nodes have one child.
 

@@ -16,4 +16,4 @@ nsubj(misstänktes, hon)
 obl:agent(misstänktes, alla)
 case(alla, av)
 ~~~
-<!-- Interlanguage links updated So kvě 14 19:03:24 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:20 CET 2022 -->

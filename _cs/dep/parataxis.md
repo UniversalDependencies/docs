@@ -86,4 +86,4 @@ parataxis(extended, concerns)
 
 At present the PDT data converted to UD use `parataxis` only for interjected parentheticals.
 The other examples above are analyzed differently (legacy PDT structure).
-<!-- Interlanguage links updated So kvě 14 19:04:09 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:42 CET 2022 -->

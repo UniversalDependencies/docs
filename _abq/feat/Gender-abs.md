@@ -30,3 +30,4 @@ This feature marks gender agreement of the verb with the absolutive argument (su
 #### Examples
 
 * [abq] _<b>йы</b>-з-б-И-тӏ_ [<b>3N.ABS</b>-1SG.ERG-see-PRS-DLC] ‘I see <b>it</b>’ `Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|Tense=Pres`
+<!-- Interlanguage links updated Po lis 14 15:34:46 CET 2022 -->

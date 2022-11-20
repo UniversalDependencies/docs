@@ -16,14 +16,14 @@ The feature is used with 2 part-of-speech tags: <tt><a href="hr_set-pos-PRON.htm
 
 ### `PRON`
 
-2899 <tt><a href="hr_set-pos-PRON.html">PRON</a></tt> tokens (54% of all `PRON` tokens) have a non-empty value of `Reflex`.
+2899 <tt><a href="hr_set-pos-PRON.html">PRON</a></tt> tokens (55% of all `PRON` tokens) have a non-empty value of `Reflex`.
 
 The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2899; 100%), <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2899; 100%), <tt><a href="hr_set-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2899; 100%), <tt><a href="hr_set-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2899; 100%), <tt><a href="hr_set-feat-Case.html">Case</a></tt><tt>=Acc</tt> (2834; 98%).
 
 `PRON` tokens may have the following values of `Reflex`:
 
 * `Yes` (2899; 100% of non-empty `Reflex`): <em>se, sebe, sebi, sobom, si</em>
-* `EMPTY` (2435): <em>što, ih, mi, ga, im, mu, on, njih, nam, vam</em>
+* `EMPTY` (2403): <em>što, ih, mi, ga, im, mu, on, njih, nam, vam</em>
 
 ### `DET`
 

@@ -25,7 +25,7 @@ The following 6 pairs of parts of speech are connected with `vocative`: <tt><a h
 1	Débutants	débutant	NOUN	_	Gender=Masc|Number=Plur	3	vocative	_	SpaceAfter=No|wordform=débutants
 2	,	,	PUNCT	_	_	1	punct	_	_
 3	allez	aller	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	voir	voir	VERB	_	VerbForm=Inf	3	xcomp	_	_
+4	voir	voir	VERB	_	VerbForm=Inf	3	xcomp	_	Subject=SubjRaising
 5	ailleurs	ailleurs	ADV	_	_	4	advmod	_	_
 6	:)	:)	SYM	_	_	4	parataxis	_	ExtPos=ADV
 

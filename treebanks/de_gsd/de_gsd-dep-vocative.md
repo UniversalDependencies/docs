@@ -56,7 +56,7 @@ The following 5 pairs of parts of speech are connected with `vocative`: <tt><a h
 6	bis	bis	ADP	APPR	_	10	case	_	_
 7	zu	zu	ADP	APPR	_	10	case	_	_
 8	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
-9	nächsten	nah	ADJ	ADJA	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+9	nächsten	nah	ADJ	ADJA	Case=Dat|Degree=Sup|Gender=Masc|Number=Sing	10	amod	_	_
 10	Termin	Termin	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	2	conj	_	SpaceAfter=No
 11	.	.	PUNCT	$.	_	2	punct	_	_
 

@@ -9,72 +9,72 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="la_udante-dep-advmod.html">advmod</a></tt>.
 There are also 3 other language-specific subtypes of `advmod`: <tt><a href="la_udante-dep-advmod-emph.html">advmod:emph</a></tt>, <tt><a href="la_udante-dep-advmod-lmod.html">advmod:lmod</a></tt>, <tt><a href="la_udante-dep-advmod-neg.html">advmod:neg</a></tt>.
 
-3 nodes (0%) are attached to their parents as `advmod:tmod`.
+241 nodes (0%) are attached to their parents as `advmod:tmod`.
 
-3 instances of `advmod:tmod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.66666666666667.
+195 instances of `advmod:tmod` (81%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.03734439834025.
 
-The following 1 pairs of parts of speech are connected with `advmod:tmod`: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (3; 100% instances).
+The following 7 pairs of parts of speech are connected with `advmod:tmod`: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (200; 83% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (17; 7% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (14; 6% instances), <tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (5; 2% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 42	bgColor:blue
-# visual-style 42	fgColor:white
-# visual-style 44	bgColor:blue
-# visual-style 44	fgColor:white
-# visual-style 44 42 advmod:tmod	color:blue
-1	Sed	sed	CCONJ	co	_	21	cc	_	_
-2	si	si	SCONJ	co	_	7	mark	_	_
-3	ve	ue	CCONJ	co	Clitic=Yes	7	cc	_	_
-4	advene	aduena	NOUN	smp1n	Case=Nom|Gender=Masc|InflClass=IndEurA|Number=Plur	7	nsubj	_	_
-5	tunc	tunc	ADV	r	AdvType=Tim|PronType=Dem	7	advmod:tmod	_	_
-6	primitus	primitus	ADV	r	Degree=Pos	7	advmod	_	_
-7	advenissent	aduenio	VERB	va4c+p3	Aspect=Perf|InflClass=LatI|Mood=Sub|Number=Plur|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	21	advcl	_	SpaceAfter=No
-8	,	,	PUNCT	Pu	_	14	punct	_	_
-9	si	si	SCONJ	co	_	14	mark	_	_
-10	ve	ue	CCONJ	co	Clitic=Yes	14	cc	_	_
-11	ad	ad	ADP	e	AdpType=Prep	12	case	_	_
-12	Europam	europa	PROPN	Sfs1a	Case=Acc|Gender=Fem|InflClass=IndEurA|NameType=Geo|Number=Sing	14	obl:arg	_	_
-13	indigene	indigena	NOUN	smp1n	Case=Nom|Gender=Masc|InflClass=IndEurA|Number=Plur	14	nsubj	_	_
-14	repedassent	repedo	VERB	va1xc+p3	Aspect=Perf|InflClass=LatA|Mood=Sub|Number=Plur|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	7	conj	_	SpaceAfter=No
-15	,	,	PUNCT	Pu	_	14	punct	_	_
-16	ydioma	idioma	NOUN	sns3a	Case=Acc|Gender=Neut|InflClass=IndEurX|Number=Sing	21	obj	_	_
-17	se	sui	PRON	ppp3pmb	Case=Abl|InflClass=LatAnom|Person=3|PronType=Prs|Reflex=Yes	21	obl	_	_
-18	cum	cum	ADP	e9	AdpType=Post|Clitic=Yes	17	case	_	_
-19	tripharium	tripharius	ADJ	ans1a	Case=Acc|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	16	amod	_	_
-20	homines	homo	NOUN	smp3n	Case=Nom|Gender=Masc|InflClass=IndEurX|Number=Plur	21	nsubj	_	_
-21	actulerunt	affero	VERB	va5irp3	Aspect=Perf|InflClass=LatAnom|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
-22	;	;	PUNCT	Pu	_	21	punct	_	_
-23	et	et	CCONJ	co	_	26	cc	_	_
-24	afferentium	affero	VERB	v5pppmg	Aspect=Imp|Case=Gen|Degree=Pos|Gender=Masc|InflClass=LatAnom|InflClass[nominal]=IndEurI|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	26	acl	_	_
-25	hoc	hic	DET	r	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Dem	24	obj	_	_
-26	alii	alius	DET	dpmpn	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Plur|PronType=Con	21	conj	_	_
-27	meridionalem	meridionalis	ADJ	afs2a	Case=Acc|Degree=Pos|Gender=Fem|InflClass=IndEurI|Number=Sing	26	orphan	_	SpaceAfter=No
-28	,	,	PUNCT	Pu	_	35	punct	_	_
-29	alii	alius	DET	dpmpn	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Plur|PronType=Con	35	nsubj	_	_
-30	septentrionalem	septentrionalis	ADJ	afs2a	Case=Acc|Degree=Pos|Gender=Fem|InflClass=IndEurI|Number=Sing	31	amod	_	_
-31	regionem	regio	NOUN	sfs3a	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Sing	35	obj	_	_
-32	in	in	ADP	e	AdpType=Prep	33	case	_	_
-33	Europa	europa	PROPN	Sfs1b	Case=Abl|Gender=Fem|InflClass=IndEurA|NameType=Geo|Number=Sing	31	nmod	_	_
-34	sibi	sui	PRON	ppp3pmd	Case=Dat|InflClass=LatAnom|Person=3|PronType=Prs|Reflex=Yes	35	obl:arg	_	_
-35	sortiti	sortior	VERB	v4irp3	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|InflClass=LatI|InflClass[nominal]=IndEurO|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	26	conj	_	_
-36	sunt	sum	AUX	va5ipp3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	35	aux:pass	_	SpaceAfter=No
-37	;	;	PUNCT	Pu	_	35	punct	_	_
-38	et	et	CCONJ	co	_	51	cc	_	_
-39	tertii	tertius	ADJ	aump1n	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Plur|NumType=Ord	51	nsubj	_	SpaceAfter=No
-40	,	,	PUNCT	Pu	_	44	punct	_	_
-41	quos	qui	PRON	prepma	Case=Acc|Gender=Masc|InflClass=LatPron|Number=Plur|PronType=Rel	44	obj	_	_
-42	nunc	nunc	ADV	r	AdvType=Tim	44	advmod:tmod	_	_
-43	Grecos	graecus	ADJ	Smp2a	Case=Acc|Gender=Masc|InflClass=IndEurO|NameType=Nat|Number=Plur	44	xcomp:pred	_	_
-44	vocamus	uoco	VERB	va1ipp1	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	39	acl:relcl	_	SpaceAfter=No
-45	,	,	PUNCT	Pu	_	44	punct	_	_
-46	partim	pars	NOUN	r	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Sing	51	obj	_	_
-47	Europe	europa	PROPN	Sfs1g	Case=Gen|Gender=Fem|InflClass=IndEurA|NameType=Geo|Number=Sing	46	nmod	_	SpaceAfter=No
-48	,	,	PUNCT	Pu	_	47	punct	_	_
-49	partim	pars	NOUN	r	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Sing	46	conj	_	_
-50	Asye	asia	PROPN	Sfs1g	Case=Gen|Gender=Fem|InflClass=IndEurA|NameType=Geo|Number=Sing	49	nmod	_	_
-51	occuparunt	occupo	VERB	va1xirp3	Aspect=Perf|InflClass=LatA|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	26	conj	_	SpaceAfter=No
-52	.	.	PUNCT	Pu	_	21	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 7 advmod:tmod	color:blue
+1	O	o	PART	i	PartType=Emp	4	advmod:emph	_	_
+2	miserrima	miser	ADJ	afs1vs	Case=Voc|Degree=Abs|Gender=Fem|InflClass=IndEurA|Number=Sing	4	amod	_	_
+3	Fesulanorum	fesulanus	ADJ	Smp2g	Case=Gen|Gender=Masc|InflClass=IndEurO|NameType=Nat|Number=Plur	4	nmod	_	_
+4	propago	propago	NOUN	sfs3v	Case=Voc|Gender=Fem|InflClass=IndEurX|Number=Sing	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	Pu	_	10	punct	_	_
+6	et	et	CCONJ	co	_	10	cc	_	_
+7	iterum	iterum	ADV	r	AdvType=Tim|Degree=Cmp	9	advmod:tmod	_	_
+8	iam	iam	ADV	r	AdvType=Tim	9	advmod:tmod	_	_
+9	punita	punio	VERB	vp4prsfv	Aspect=Perf|Case=Voc|Gender=Fem|InflClass=LatI|InflClass[nominal]=IndEurA|Number=Sing|VerbForm=Part|Voice=Pass	10	acl	_	TraditionalMood=Participium|TraditionalTense=Perfectum
+10	barbaries	barbaries	NOUN	sfs5n	Case=Nom|Gender=Fem|InflClass=IndEurE|Number=Sing	4	conj	_	SpaceAfter=No
+11	!	!	PUNCT	Pu	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 2 advmod:tmod	color:blue
+1	O	o	PART	i	PartType=Emp	3	advmod:emph	_	_
+2	semper	semper	ADV	r	AdvType=Tim	5	advmod:tmod	_	_
+3	natura	natura	NOUN	sfs1v	Case=Voc|Gender=Fem|InflClass=IndEurA|Number=Sing|VerbForm=Part	0	root	_	_
+4	nostra	noster	DET	dsfsv	Case=Voc|Gender=Fem|InflClass=IndEurA|Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs	3	det	_	_
+5	prona	pronus	ADJ	afs1v	Case=Voc|Gender=Fem|InflClass=IndEurA|Number=Sing	3	amod	_	_
+6	peccatis	peccatum	NOUN	snp2d	Case=Dat|Gender=Neut|InflClass=IndEurO|Number=Plur|VerbForm=Part	5	obl:arg	_	SpaceAfter=No
+7	!	!	PUNCT	Pu	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 advmod:tmod	color:blue
+1	«	«	PUNCT	Pu	_	4	punct	_	SpaceAfter=No
+2	Ecce	ecce	PART	r	Form=Emp|PartType=Emp|PronType=Dem	4	advmod:emph	_	_
+3	nunc	nunc	ADV	r	AdvType=Tim	4	advmod:tmod	_	_
+4	tempus	tempus	NOUN	sns3n	Case=Nom|Gender=Neut|InflClass=IndEurX|Number=Sing	0	root	_	_
+5	acceptabile	acceptabilis	ADJ	ans2n	Case=Nom|Gender=Neut|InflClass=IndEurI|Number=Sing	4	amod	_	SpaceAfter=No
+6	»	»	PUNCT	Pu	_	4	punct	_	SpaceAfter=No
+7	,	,	PUNCT	Pu	_	10	punct	_	_
+8	quo	qui	PRON	presnb	Case=Abl|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Rel	10	obl	_	_
+9	signa	signum	NOUN	snp2n	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Plur	10	nsubj	_	_
+10	surgunt	surgo	VERB	va3ipp3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl:relcl	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
+11	consolationis	consolatio	NOUN	sfs3g	Case=Gen|Gender=Fem|InflClass=IndEurX|Number=Sing	10	nmod	_	_
+12	et	et	CCONJ	co	_	13	cc	_	_
+13	pacis	pax	NOUN	sfs3g	Case=Gen|Gender=Fem|InflClass=IndEurX|Number=Sing	11	conj	_	SpaceAfter=No
+14	.	.	PUNCT	Pu	_	4	punct	_	_
 
 ~~~
 

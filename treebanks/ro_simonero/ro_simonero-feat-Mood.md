@@ -25,7 +25,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 * `Imp` (11; 0% of non-empty `Mood`): <em>vezi, consultați, Contactați, simțiți, spune-, sunați, Învățați</em>
 * `Ind` (4618; 95% of non-empty `Mood`): <em>poate, pot, are, trebuie, există, au, reprezintă, prezintă, privește, determină</em>
 * `Sub` (215; 4% of non-empty `Mood`): <em>aibă, facă, țină, apară, crească, explice, moară, poată, scadă, ia</em>
-* `EMPTY` (5365): <em>arătat, putea, demonstrat, având, asociată, efectuat, avut, dovedit, avea, legate</em>
+* `EMPTY` (5364): <em>arătat, putea, demonstrat, având, asociată, efectuat, avut, dovedit, avea, legate</em>
 
 <table>
   <tr><th>Paradigm <i>spune</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th></tr>
@@ -45,7 +45,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 
 * `Ind` (2023; 97% of non-empty `Mood`): <em>este, sunt, era, e, erau, au, suntem, sunteți, esti, i</em>
 * `Sub` (73; 3% of non-empty `Mood`): <em>fie, fii, fim, ﬁe</em>
-* `EMPTY` (2861): <em>a, au, fost, fi, fiind, ar, va, am, vor, nefiind</em>
+* `EMPTY` (2862): <em>a, au, fost, fi, fiind, ar, va, am, vor, nefiind</em>
 
 <table>
   <tr><th>Paradigm <i>fi</i></th><th><tt>Ind</tt></th><th><tt>Sub</tt></th></tr>
@@ -75,8 +75,8 @@ The most frequent other feature values with which `PART` and `Mood` co-occurred:
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="ro_simonero-dep-conj.html">conj</a></tt>]--> VERB</tt> (357; 67%),
+<tt>VERB --[<tt><a href="ro_simonero-dep-conj.html">conj</a></tt>]--> VERB</tt> (356; 67%),
 <tt>VERB --[<tt><a href="ro_simonero-dep-mark.html">mark</a></tt>]--> PART</tt> (214; 75%),
-<tt>AUX --[<tt><a href="ro_simonero-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (1; 100%),
+<tt>AUX --[<tt><a href="ro_simonero-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (2; 100%),
 <tt>VERB --[<tt><a href="ro_simonero-dep-dep.html">dep</a></tt>]--> VERB</tt> (1; 100%).
 

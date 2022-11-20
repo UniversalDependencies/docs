@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-50 nodes (2%) are attached to their parents as `det`.
+57 nodes (2%) are attached to their parents as `det`.
 
-48 instances of `det` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.16.
+55 instances of `det` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.15789473684211.
 
-The following 3 pairs of parts of speech are connected with `det`: <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (43; 86% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> (6; 12% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt>-<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (1; 2% instances).
+The following 3 pairs of parts of speech are connected with `det`: <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (50; 88% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> (6; 11% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt>-<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

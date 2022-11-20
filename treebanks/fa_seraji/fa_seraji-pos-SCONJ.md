@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Persian-Seraji: POS Tags: `SCONJ`
 
-There are 55 `SCONJ` lemmas (1%), 59 `SCONJ` types (0%) and 5160 `SCONJ` tokens (3%).
-Out of 15 observed tags, the rank of `SCONJ` is: 8 in number of lemmas, 10 in number of types and 9 in number of tokens.
+There are 57 `SCONJ` lemmas (0%), 59 `SCONJ` types (0%) and 5160 `SCONJ` tokens (3%).
+Out of 15 observed tags, the rank of `SCONJ` is: 8 in number of lemmas, 10 in number of types and 8 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: که، هم، نیز، اگر، تا، یعنی، وقتی، چون، آیا، همچنین
 
@@ -58,32 +58,32 @@ The 10 most frequent ambiguous types:  که (<tt><a href="fa_seraji-pos-SCONJ.ht
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.072727 (the average of all parts of speech is 1.920334).
+The form / lemma ratio of `SCONJ` is 1.035088 (the average of all parts of speech is 1.409222).
 
-The 1st highest number of forms (6) was observed with the lemma “_”: اگه, بخصوص, به‌خصوص, در‌نتیجه, والا, ولو.
+The 1st highest number of forms (2) was observed with the lemma “اگر”: اگر, گر.
 
-The 2nd highest number of forms (2) was observed with the lemma “اگر”: اگر, گر.
+The 2nd highest number of forms (2) was observed with the lemma “مثلاً”: مثلا, مثلاً.
 
-The 3rd highest number of forms (2) was observed with the lemma “مثلاً”: مثلا, مثلاً.
+The 3rd highest number of forms (1) was observed with the lemma “آیا”: آیا.
 
 `SCONJ` does not occur with any features.
 
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 9 different relations: <tt><a href="fa_seraji-dep-mark.html">mark</a></tt> (3931; 76% instances), <tt><a href="fa_seraji-dep-advmod.html">advmod</a></tt> (1147; 22% instances), <tt><a href="fa_seraji-dep-cc-preconj.html">cc:preconj</a></tt> (47; 1% instances), <tt><a href="fa_seraji-dep-dep.html">dep</a></tt> (28; 1% instances), <tt><a href="fa_seraji-dep-fixed.html">fixed</a></tt> (3; 0% instances), <tt><a href="fa_seraji-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="fa_seraji-dep-compound-lvc.html">compound:lvc</a></tt> (1; 0% instances), <tt><a href="fa_seraji-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="fa_seraji-dep-nmod-poss.html">nmod:poss</a></tt> (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 8 different relations: <tt><a href="fa_seraji-dep-mark.html">mark</a></tt> (5078; 98% instances), <tt><a href="fa_seraji-dep-cc-preconj.html">cc:preconj</a></tt> (47; 1% instances), <tt><a href="fa_seraji-dep-dep.html">dep</a></tt> (28; 1% instances), <tt><a href="fa_seraji-dep-fixed.html">fixed</a></tt> (3; 0% instances), <tt><a href="fa_seraji-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="fa_seraji-dep-compound-lvc.html">compound:lvc</a></tt> (1; 0% instances), <tt><a href="fa_seraji-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="fa_seraji-dep-nmod-poss.html">nmod:poss</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 9 different parts of speech: <tt><a href="fa_seraji-pos-VERB.html">VERB</a></tt> (3430; 66% instances), <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> (853; 17% instances), <tt><a href="fa_seraji-pos-ADJ.html">ADJ</a></tt> (777; 15% instances), <tt><a href="fa_seraji-pos-ADV.html">ADV</a></tt> (38; 1% instances), <tt><a href="fa_seraji-pos-ADP.html">ADP</a></tt> (27; 1% instances), <tt><a href="fa_seraji-pos-NUM.html">NUM</a></tt> (14; 0% instances), <tt><a href="fa_seraji-pos-PRON.html">PRON</a></tt> (13; 0% instances), <tt><a href="fa_seraji-pos-AUX.html">AUX</a></tt> (7; 0% instances), <tt><a href="fa_seraji-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 9 different parts of speech: <tt><a href="fa_seraji-pos-VERB.html">VERB</a></tt> (3625; 70% instances), <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> (787; 15% instances), <tt><a href="fa_seraji-pos-ADJ.html">ADJ</a></tt> (668; 13% instances), <tt><a href="fa_seraji-pos-ADV.html">ADV</a></tt> (35; 1% instances), <tt><a href="fa_seraji-pos-ADP.html">ADP</a></tt> (16; 0% instances), <tt><a href="fa_seraji-pos-NUM.html">NUM</a></tt> (13; 0% instances), <tt><a href="fa_seraji-pos-PRON.html">PRON</a></tt> (13; 0% instances), <tt><a href="fa_seraji-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="fa_seraji-pos-X.html">X</a></tt> (1; 0% instances)
 
-5074 (98%) `SCONJ` nodes are leaves.
+5083 (99%) `SCONJ` nodes are leaves.
 
-72 (1%) `SCONJ` nodes have one child.
+69 (1%) `SCONJ` nodes have one child.
 
-14 (0%) `SCONJ` nodes have two children.
+8 (0%) `SCONJ` nodes have two children.
 
 The highest child degree of a `SCONJ` node is 2.
 
-Children of `SCONJ` nodes are attached using 7 different relations: <tt><a href="fa_seraji-dep-punct.html">punct</a></tt> (55; 55% instances), <tt><a href="fa_seraji-dep-fixed.html">fixed</a></tt> (32; 32% instances), <tt><a href="fa_seraji-dep-nmod-poss.html">nmod:poss</a></tt> (8; 8% instances), <tt><a href="fa_seraji-dep-det.html">det</a></tt> (2; 2% instances), <tt><a href="fa_seraji-dep-case.html">case</a></tt> (1; 1% instances), <tt><a href="fa_seraji-dep-cc.html">cc</a></tt> (1; 1% instances), <tt><a href="fa_seraji-dep-nmod.html">nmod</a></tt> (1; 1% instances)
+Children of `SCONJ` nodes are attached using 4 different relations: <tt><a href="fa_seraji-dep-punct.html">punct</a></tt> (51; 60% instances), <tt><a href="fa_seraji-dep-fixed.html">fixed</a></tt> (32; 38% instances), <tt><a href="fa_seraji-dep-case.html">case</a></tt> (1; 1% instances), <tt><a href="fa_seraji-dep-cc.html">cc</a></tt> (1; 1% instances)
 
-Children of `SCONJ` nodes belong to 6 different parts of speech: <tt><a href="fa_seraji-pos-PUNCT.html">PUNCT</a></tt> (55; 55% instances), <tt><a href="fa_seraji-pos-CCONJ.html">CCONJ</a></tt> (26; 26% instances), <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> (11; 11% instances), <tt><a href="fa_seraji-pos-PRON.html">PRON</a></tt> (6; 6% instances), <tt><a href="fa_seraji-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="fa_seraji-pos-ADV.html">ADV</a></tt> (1; 1% instances)
+Children of `SCONJ` nodes belong to 6 different parts of speech: <tt><a href="fa_seraji-pos-PUNCT.html">PUNCT</a></tt> (51; 60% instances), <tt><a href="fa_seraji-pos-CCONJ.html">CCONJ</a></tt> (26; 31% instances), <tt><a href="fa_seraji-pos-PRON.html">PRON</a></tt> (4; 5% instances), <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="fa_seraji-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="fa_seraji-pos-ADV.html">ADV</a></tt> (1; 1% instances)
 

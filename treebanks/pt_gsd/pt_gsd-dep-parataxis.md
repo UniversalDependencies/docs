@@ -48,7 +48,7 @@ The following 28 pairs of parts of speech are connected with `parataxis`: <tt><a
 2	--	_	PUNCT	.	_	4	punct	_	_
 3	Como	como	ADV	ADV	_	4	advmod	_	_
 4	acontecia	acontecer	VERB	VERB	_	0	root	_	_
-5	a	o	DET	DET	_	6	det	_	_
+5	a	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	intervenção	intervenção	NOUN	NOUN	_	4	nsubj	_	_
 7	em	em	ADP	ADP	_	9	case	_	_
 8	as	o	DET	DET	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_

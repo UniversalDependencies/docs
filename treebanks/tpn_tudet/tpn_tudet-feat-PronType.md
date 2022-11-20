@@ -9,32 +9,32 @@ udver: '2'
 This feature is universal.
 It occurs with 6 different values: `Dem`, `Ind`, `Int`, `Prs`, `Rcp`, `Tot`.
 
-133 tokens (3%) have a non-empty value of `PronType`.
-54 types (3%) occur at least once with a non-empty value of `PronType`.
+146 tokens (3%) have a non-empty value of `PronType`.
+55 types (3%) occur at least once with a non-empty value of `PronType`.
 34 lemmas (3%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="tpn_tudet-pos-PRON.html">PRON</a></tt> (131; 3% instances), <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="tpn_tudet-pos-PART.html">PART</a></tt> (1; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="tpn_tudet-pos-PRON.html">PRON</a></tt> (144; 3% instances), <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="tpn_tudet-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 ### `PRON`
 
-131 <tt><a href="tpn_tudet-pos-PRON.html">PRON</a></tt> tokens (73% of all `PRON` tokens) have a non-empty value of `PronType`.
+144 <tt><a href="tpn_tudet-pos-PRON.html">PRON</a></tt> tokens (71% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="tpn_tudet-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (116; 89%), <tt><a href="tpn_tudet-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (98; 75%), <tt><a href="tpn_tudet-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (97; 74%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="tpn_tudet-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (124; 86%), <tt><a href="tpn_tudet-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (103; 72%), <tt><a href="tpn_tudet-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (102; 71%).
 
 `PRON` tokens may have the following values of `PronType`:
 
-* `Dem` (6; 5% of non-empty `PronType`): <em>aʔe, Ajpo, amoae, ikó, ko</em>
-* `Ind` (26; 20% of non-empty `PronType`): <em>amõ, Ojepeĩome, paβẽ, amõamõ</em>
-* `Int` (23; 18% of non-empty `PronType`): <em>marã, aβa, Aβape, Maʔemaʔe, Umã, Umãβaʔe, maʔepe, sumarã, ʃesumarã, Abatepe</em>
-* `Prs` (68; 52% of non-empty `PronType`): <em>ase, iʃe, ene, eneβe, eneβo, ʃe, ne, Aʔe, aseβe, iʃeβo</em>
-* `Tot` (8; 6% of non-empty `PronType`): <em>opa, opaβejẽ, paβẽ, Opaβĩ, opakatu</em>
-* `EMPTY` (49): <em>jepe, opa, jane, maʔepe, o, Marã, ase, oreβo, Aʔete, Aβa</em>
+* `Dem` (6; 4% of non-empty `PronType`): <em>aʔe, Ajpo, amoae, iko, ko</em>
+* `Ind` (27; 19% of non-empty `PronType`): <em>amõ, Ojepeĩome, amõamõ</em>
+* `Int` (18; 13% of non-empty `PronType`): <em>marã, aβa, Maʔemaʔe, Umã, Umãβaʔe, sumarã, ʃesumarã, Abatepe, Maʔerama, Maʔetepe</em>
+* `Prs` (71; 49% of non-empty `PronType`): <em>ase, ise, ene, eneβe, eneβo, ʃe, ne, peẽβe, Aʔe, aseβe</em>
+* `Tot` (22; 15% of non-empty `PronType`): <em>opa, opaβejẽ, paβẽ, opamejẽ, opaβĩ, paβi, opakatu</em>
+* `EMPTY` (58): <em>jepe, maʔepe, ase, o, opakatu, opaβejẽ, Aβaaβape, Marã, iseβe, jane</em>
 
 <table>
   <tr><th>Paradigm <i>aʔe</i></th><th><tt>Prs</tt></th><th><tt>Dem</tt></th></tr>
   <tr><td><tt></tt></td><td><em>Aʔe</em></td><td><em>aʔe</em></td></tr>
 </table>
 
-`PronType` seems to be **lexical feature** of `PRON`. 94% lemmas (31) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `PRON`. 97% lemmas (32) occur only with one value of `PronType`.
 
 ### `NOUN`
 
@@ -44,8 +44,8 @@ The most frequent other feature values with which `NOUN` and `PronType` co-occur
 
 `NOUN` tokens may have the following values of `PronType`:
 
-* `Rcp` (1; 100% of non-empty `PronType`): <em>joapiʃaβa</em>
-* `EMPTY` (1328): <em>aβa, janejara, taβa, maʔe, paʔi, Tupã, apɨaβa, cruz, seko, teko</em>
+* `Rcp` (1; 100% of non-empty `PronType`): <em>joapisaβa</em>
+* `EMPTY` (1435): <em>aβa, janejara, maʔe, taβa, paʔi, Tupã, apɨaβa, cruz, seko, teko</em>
 
 ### `PART`
 
@@ -53,8 +53,8 @@ The most frequent other feature values with which `NOUN` and `PronType` co-occur
 
 `PART` tokens may have the following values of `PronType`:
 
-* `Prs` (1; 100% of non-empty `PronType`): <em>ʃenhõ</em>
-* `EMPTY` (173): <em>e, jẽ, ɨβɨa, je, ae, aʔepe, rõ, ã, jẽpe, teʔe</em>
+* `Prs` (1; 100% of non-empty `PronType`): <em>ʃejõ</em>
+* `EMPTY` (183): <em>e, jẽ, ɨβɨa, je, ã, ae, aʔepe, rõ, ajẽ, jẽpe</em>
 
 ## Relations with Agreement in `PronType`
 

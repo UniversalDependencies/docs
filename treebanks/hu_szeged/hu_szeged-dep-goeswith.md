@@ -13,7 +13,7 @@ This relation is universal.
 5 instances of `goeswith` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt>-<tt><a href="hu_szeged-pos-CCONJ.html">CCONJ</a></tt> (2; 40% instances), <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt>-<tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> (1; 20% instances), <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt>-<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (1; 20% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> (1; 20% instances).
+The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a href="hu_szeged-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="hu_szeged-pos-X.html">X</a></tt> (2; 40% instances), <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hu_szeged-pos-X.html">X</a></tt> (1; 20% instances), <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt>-<tt><a href="hu_szeged-pos-X.html">X</a></tt> (1; 20% instances), <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt>-<tt><a href="hu_szeged-pos-X.html">X</a></tt> (1; 20% instances).
 
 
 ~~~ conllu
@@ -30,8 +30,8 @@ The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a h
 6	a	a	DET	_	Definite=Def|PronType=Art	7	det	_	_
 7	házhoz	ház	NOUN	_	Case=All|Number=Sing	5	obl	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	11	punct	_	_
-9	nem	nem	ADV	_	PronType=Neg	11	cc	_	_
-10	csak	csak	CCONJ	_	_	9	goeswith	_	_
+9	nem	nemcsak	CCONJ	_	Typo=Yes	11	cc	_	_
+10	csak	_	X	_	_	9	goeswith	_	_
 11	nekem	én	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	5	obl	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	15	punct	_	_
 13	hanem	hanem	CCONJ	_	_	15	cc	_	_
@@ -79,8 +79,8 @@ The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a h
 28	és	és	CCONJ	_	_	29	cc	_	_
 29	mondandójával	mondandó	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	27	conj	_	_
 30	a	a	DET	_	Definite=Def|PronType=Art	33	det	_	_
-31	jól	jól	ADV	_	Degree=Pos	33	amod:att	_	_
-32	szituált	szituált	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	31	goeswith	_	_
+31	jól	jólszituált	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|Typo=Yes	33	amod:att	_	_
+32	szituált	_	X	_	_	31	goeswith	_	_
 33	nőket	nő	NOUN	_	Case=Acc|Number=Plur	34	obj	_	_
 34	megcélzó	megcélzó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	40	amod:att	_	_
 35	Oxygen	Oxygen	PROPN	_	Case=Nom|Number=Sing	40	nmod:att	_	_
@@ -103,8 +103,8 @@ The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 goeswith	color:blue
-1	Ugyan	ugyan	ADV	_	_	4	amod:att	_	_
-2	ilyen	ilyen	ADV	_	PronType=Dem	1	goeswith	_	_
+1	Ugyan	ugyanilyen	ADV	_	PronType=Dem|Typo=Yes	4	amod:att	_	_
+2	ilyen	_	X	_	_	1	goeswith	_	_
 3	konkrét	konkrét	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	4	amod:att	_	_
 4	eset	eset	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
 5	ismert	ismert	ADJ	_	Case=Nom|Number=Sing|VerbForm=PartPast	0	root	_	_

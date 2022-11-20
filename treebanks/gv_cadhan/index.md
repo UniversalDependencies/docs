@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.7 release.
 The following people have contributed to making this treebank part of UD: Kevin Scannell.
 
 Repository: [UD_Manx-Cadhan](https://github.com/UniversalDependencies/UD_Manx-Cadhan)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgv_cadhan210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgv_cadhan211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: GNU GPL 3.0
 
@@ -49,14 +49,14 @@ created by Kevin Scannell.
 
 
 
-The sentences in the treebank all come from a large web-crawled
+The sentences in the original treebank (UD v2.7) came from a large web-crawled
 corpus of Manx consisting of more than 8M words of text.
 This corpus was segmented by sentences, shuffled, and then
 300 random sentences were chosen to be tagged.
 I believe that the web corpus is nearly comprehensive, which is to say
 it contains virtually all non-trivial Manx language texts on the open web.
-Therefore, the UD corpus is as close as possible to a “random sample”
-of Manx on the web. As such,
+Therefore, the initial release of the UD corpus was as close as possible
+to a “random sample” of Manx on the web. As such,
 [the Bible](http://bible.learnmanx.com/) is heavily represented,
 but there are also quite a few sentences from modern sources such as the
 [Manx Wikipedia](https://gv.wikipedia.org/),
@@ -69,10 +69,19 @@ All POS tags and dependency annotations in the initial release
 were added manually. The upstream source code and datasets supporting
 the treebank can be found [here](https://github.com/kscanne/gaelg).
 
-Since there are only about 6k words total, we have not
-performed a split into train/dev/test sets, following
-[the recommendation](https://universaldependencies.org/release_checklist.html#data-split)
-of the UD maintainers.
+The treebank was expanded greatly for UD v2.8, released in May 2021.
+Most of the new sentences in this release came from Phil Kelly's Manx
+"usage file", taken from example sentences in various Manx-English
+dictionaries. Full morphological features were added to this release as
+well.
+
+Only a test file was provided for releases 2.7 through 2.10.
+With v2.11 (November 2022), we randomly resplit the corpus into
+test and train files with about 10k tokens each,
+following
+[the recommendation](https://universaldependencies.org/release_checklist.html#data-split) of the UD maintainers. This means that any experiments
+run on earlier versions of the treebank would need to be rerun
+with the new split.
 
 ## Acknowledgments
 
@@ -89,6 +98,10 @@ Thanks also to Teresa Lynn and Colin Batchelor for their work on the
 Irish and Scottish Gaelic treebanks, respectively. Since all three
 Goidelic languages are grammatically very similar, I was able to
 consult their work when deciding how to resolve tricky annotation problems.
+
+## References
+
+* Scannell, Kevin P., [_Universal Dependencies for Manx Gaelic_](https://cs.slu.edu/~scannell/pub/ud-final.pdf), Proceedings of the Universal Dependencies Workshop at COLING 2020, 13 December 2020, pp. 152–157.
 
 
 # Statistics of UD Manx Cadhan
@@ -109,11 +122,11 @@ consult their work when deciding how to resolve tricky annotation problems.
 
 
 <ul>
-<li>This corpus contains 2319 sentences, 18502 tokens and 20630 syntactic words.</li>
+<li>This corpus contains 2336 sentences, 18580 tokens and 20725 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 2936 tokens (16%) that are not followed by a space.</li>
+<li>This corpus contains 2953 tokens (16%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -121,12 +134,12 @@ consult their work when deciding how to resolve tricky annotation problems.
 </ul>
 
 <ul>
-<li>This corpus contains 178 types of words that contain both letters and punctuation. Examples: t', 'n, v', n', s', d', dt', 'er, m', 'ockle, Far-Ligganagh, mast', ard-valley, bee-jee, neu-ghlen, s'gilley, s'messey, 'neen, B', ard-er, bee'm, co-earroo, drogh-ourys, insh-jee, nee'm, s'keoiey, s'odjey, ver-ym, yn-ee, çheu-sthie, 'akin, 'eanishagh, 'eeacklyn, 'eill, 'er-ynsee, 'leih, 'nneen, 'oaid, 'reggyrt, 'uill, 'yss, Ard-whaiyl, Ben-hadad, Bun-towshanagh, C.F., D'aasmooinee, Ettyl-jee, Fer-ny-gherjagh, GAELIC-L, Iu-jee</li>
+<li>This corpus contains 178 types of words that contain both letters and punctuation. Examples: t', 'n, v', n', s', d', dt', 'er, m', 'ockle, Far-Ligganagh, mast', ard-valley, bee-jee, neu-ghlen, s'gilley, s'messey, 'neen, 'oaid, B', ard-er, bee'm, co-earroo, drogh-ourys, insh-jee, lieh-hooillagh, nee'm, s'keoiey, s'odjey, ver-ym, yn-ee, çheu-sthie, 'akin, 'eanishagh, 'eeacklyn, 'eill, 'er-ynsee, 'leih, 'nneen, 'reggyrt, 'uill, 'yss, Ard-whaiyl, Ben-hadad, Bun-towshanagh, C.F., D'aasmooinee, Ettyl-jee, Fer-ny-gherjagh, GAELIC-L</li>
 </ul>
 
 <ul>
-<li>This corpus contains 2079 multi-word tokens. On average, one multi-word token consists of 2.02 syntactic words.</li>
-<li>There are 242 types of multi-word tokens. Examples: t'eh, echey, er, da, 'sy, ta'n, jeh, v'eh, da'n, orrym, dou, jeh'n, ayn, 'syn, lesh, rish, ayd, t'ad, va'n, urree, orroo, aym, t'ee, t'ou, veih'n, lhiam, ersyn, jeu, n'gholl, oc, cre'n, j'ee, ass, eck, eu, fo'n, roish, sy, d'eash, daue, dhyt, dooin, lhiat, orrin, ort, r'ee, ain, rhym, s'mie, shen-y-fa.</li>
+<li>This corpus contains 2096 multi-word tokens. On average, one multi-word token consists of 2.02 syntactic words.</li>
+<li>There are 242 types of multi-word tokens. Examples: t'eh, echey, er, da, 'sy, ta'n, jeh, v'eh, da'n, orrym, dou, jeh'n, ayn, 'syn, lesh, rish, ayd, t'ad, va'n, urree, orroo, aym, t'ee, t'ou, veih'n, lhiam, ersyn, jeu, n'gholl, oc, cre'n, fo'n, j'ee, ass, eck, eu, roish, sy, d'eash, daue, dhyt, dooin, lhiat, orrin, ort, r'ee, ain, rhym, s'mie, shen-y-fa.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -432,7 +445,7 @@ consult their work when deciding how to resolve tricky annotation problems.
       <li>Ecl
         <ul>
           <li>NOUN: jeet, goyrt, vakin, dhost, droggal, drostey, duittym, garraghey, ghing, gionnaghey</li>
-          <li>VERB: vel, nod, dug, ver, vod, daink, naik, Verym, darragh, dooar</li>
+          <li>VERB: vel, nod, dug, ver, vod, naik, daink, Verym, darragh, dooar</li>
         </ul>
       </li>
       <li>Ecl,Emp
@@ -533,8 +546,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (641)</li>
-      <li>VERB--PRON (1682)</li>
+      <li>VERB--NOUN (648)</li>
+      <li>VERB--PRON (1692)</li>
       <li>VERB--PRON-ADP(er) (1)</li>
     </ul>
   </li>
@@ -543,8 +556,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (567)</li>
-      <li>VERB--PRON (154)</li>
+      <li>VERB--NOUN (569)</li>
+      <li>VERB--PRON (156)</li>
     </ul>
   </li>
 </ul>

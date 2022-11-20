@@ -55,7 +55,7 @@ The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 5 4 cop	color:blue
 1	Пукавны	пукавны	VERB	V	VerbForm=Inf	5	csubj	_	_
 2	вадорын	вадор	NOUN	N	Case=Ine|Number=Sing	1	obl:lmod	_	_
-3	водзӧ	водз	ADV	Adv	Case=Ill	5	advmod:lto	_	_
+3	водзӧ	водз	ADV	Adv	Case=Ill	5	advmod:lmod	_	_
 4	вӧлі	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	cop	_	_
 5	весьшӧрӧ	весьшӧрӧ	ADV	Adv	Case=Ill	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	CLB	_	5	punct	_	_

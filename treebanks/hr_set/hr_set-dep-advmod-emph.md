@@ -11,9 +11,9 @@ This relation is a language-specific subtype of <tt><a href="hr_set-dep-advmod.h
 42 nodes (0%) are attached to their parents as `advmod:emph`.
 
 42 instances of `advmod:emph` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.02380952380952.
+Average distance between parent and child is 1.07142857142857.
 
-The following 4 pairs of parts of speech are connected with `advmod:emph`: <tt><a href="hr_set-pos-NUM.html">NUM</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (39; 93% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="hr_set-pos-SYM.html">SYM</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (1; 2% instances).
+The following 5 pairs of parts of speech are connected with `advmod:emph`: <tt><a href="hr_set-pos-NUM.html">NUM</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (38; 90% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="hr_set-pos-SYM.html">SYM</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

@@ -16,11 +16,11 @@ Family: Indo-European, Romance
 
 This treebank has been part of Universal Dependencies since the UD v1.3 release.
 
-The following people have contributed to making this treebank part of UD: Alexandre Rademaker, Ryan McDonald, Joakim Nivre, Daniel Zeman, Fabricio Chalub, Carlos Ramisch.
+The following people have contributed to making this treebank part of UD: Alexandre Rademaker, Ryan McDonald, Joakim Nivre, Daniel Zeman, Fabricio Chalub, Carlos Ramisch, Juan Belieni, Vanessa Berwanger Wille, Rodrigo Pintucci.
 
 Repository: [UD_Portuguese-GSD](https://github.com/UniversalDependencies/UD_Portuguese-GSD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpt_gsd210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpt_gsd211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-SA 4.0
 
@@ -56,7 +56,7 @@ Treebank v2.0 (legacy)](https://github.com/ryanmcd/uni-dep-tb).
 
 ## Features
 
-[Abbr](pt_gsd-feat-Abbr.html) – [Definite](pt_gsd-feat-Definite.html) – [Foreign](pt_gsd-feat-Foreign.html) – [Gender](pt_gsd-feat-Gender.html) – [Mood](pt_gsd-feat-Mood.html) – [Number](pt_gsd-feat-Number.html) – [NumType](pt_gsd-feat-NumType.html) – [Person](pt_gsd-feat-Person.html) – [Polarity](pt_gsd-feat-Polarity.html) – [Poss](pt_gsd-feat-Poss.html) – [PronType](pt_gsd-feat-PronType.html) – [Tense](pt_gsd-feat-Tense.html) – [VerbForm](pt_gsd-feat-VerbForm.html) – [Voice](pt_gsd-feat-Voice.html)
+[Abbr](pt_gsd-feat-Abbr.html) – [Case](pt_gsd-feat-Case.html) – [Definite](pt_gsd-feat-Definite.html) – [ExtPos](pt_gsd-feat-ExtPos.html) – [Foreign](pt_gsd-feat-Foreign.html) – [Gender](pt_gsd-feat-Gender.html) – [Mood](pt_gsd-feat-Mood.html) – [Number](pt_gsd-feat-Number.html) – [NumType](pt_gsd-feat-NumType.html) – [Person](pt_gsd-feat-Person.html) – [Polarity](pt_gsd-feat-Polarity.html) – [Poss](pt_gsd-feat-Poss.html) – [PronType](pt_gsd-feat-PronType.html) – [Tense](pt_gsd-feat-Tense.html) – [VerbForm](pt_gsd-feat-VerbForm.html) – [Voice](pt_gsd-feat-Voice.html)
 
 ## Relations
 
@@ -66,11 +66,11 @@ Treebank v2.0 (legacy)](https://github.com/ryanmcd/uni-dep-tb).
 
 
 <ul>
-<li>This corpus contains 12019 sentences, 297057 tokens and 318922 syntactic words.</li>
+<li>This corpus contains 12019 sentences, 297045 tokens and 318916 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 38080 tokens (13%) that are not followed by a space.</li>
+<li>This corpus contains 38083 tokens (13%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -82,8 +82,8 @@ Treebank v2.0 (legacy)](https://github.com/ryanmcd/uni-dep-tb).
 </ul>
 
 <ul>
-<li>This corpus contains 21865 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 45 types of multi-word tokens. Examples: do, da, no, na, dos, ao, das, à, pelo, pela, nos, aos, nas, às, dum, duma, pelos, num, numa, pelas, doutros, nalguns, dalguns, noutras, dalgumas, doutra, noutros, nalgumas, doutras, noutro, donde, doutro, noutra, dalguma, comigo, dalgum, deste, Concentre-se, Estende-se, Tornando-se, dalguém, dali, dele, demonstrou-se, tornar-se.</li>
+<li>This corpus contains 21871 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 51 types of multi-word tokens. Examples: do, da, no, na, dos, ao, das, à, pelo, pela, nos, aos, nas, às, dum, duma, pelos, num, numa, pelas, doutros, nalguns, dalguns, noutras, dalgumas, doutra, noutros, nalgumas, doutras, noutro, donde, doutro, noutra, dalguma, comigo, dalgum, deste, Ajudou-o, Concentre-se, Estende-se, Registre-se, Reutilizá-los, Tornando-se, casaram-se, dalguém, dali, dele, demonstrou-se, encontra-se, fechando-se.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -100,11 +100,11 @@ Treebank v2.0 (legacy)](https://github.com/ryanmcd/uni-dep-tb).
 </ul>
 
 <ul>
-<li>This corpus contains 3 lemmas tagged as pronouns (PRON): _, ele, eu</li>
+<li>This corpus contains 4 lemmas tagged as pronouns (PRON): _, ele, eu, se</li>
 </ul>
 
 <ul>
-<li>This corpus contains 6 lemmas tagged as determiners (DET): _, a, este, o, seu, um</li>
+<li>This corpus contains 7 lemmas tagged as determiners (DET): _, a, este, o, seu, the, um</li>
 </ul>
 
 <ul>
@@ -120,13 +120,14 @@ Treebank v2.0 (legacy)](https://github.com/ryanmcd/uni-dep-tb).
 </ul>
 
 <ul>
-<li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
 </ul>
 
 <ul>
   <li>Fin
   <ul>
-    <li>VERB: virou</li>
+    <li>AUX: é</li>
+    <li>VERB: termina, virou</li>
   </ul>
   </li>
 </ul>
@@ -134,7 +135,15 @@ Treebank v2.0 (legacy)](https://github.com/ryanmcd/uni-dep-tb).
 <ul>
   <li>Ger
   <ul>
-    <li>VERB: tornando</li>
+    <li>VERB: fechando, tornando</li>
+  </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Inf
+  <ul>
+    <li>VERB: morrer, viver</li>
   </ul>
   </li>
 </ul>
@@ -159,7 +168,8 @@ Treebank v2.0 (legacy)](https://github.com/ryanmcd/uni-dep-tb).
     <ul>
       <li>ADJ: Metropolitana</li>
       <li>DET: a, as, uma</li>
-      <li>NOUN: segunda-feira, área</li>
+      <li>NOUN: cidade, conversão, restrição, salvação, segunda-feira, área</li>
+      <li>PROPN: Athol</li>
     </ul>
   </li>
 </ul>
@@ -169,7 +179,8 @@ Treebank v2.0 (legacy)](https://github.com/ryanmcd/uni-dep-tb).
     <ul>
       <li>ADJ: marginais</li>
       <li>DET: o, os, a, seu</li>
-      <li>NOUN: amigo, amigos, fã, km²</li>
+      <li>NOUN: Condado, amigo, amigos, arrependimento, fã, km²</li>
+      <li>PRON: se</li>
       <li>VERB-Part: considerados</li>
     </ul>
   </li>
@@ -184,7 +195,7 @@ Treebank v2.0 (legacy)](https://github.com/ryanmcd/uni-dep-tb).
   <li>Plur
     <ul>
       <li>ADJ: marginais</li>
-      <li>DET: os, as</li>
+      <li>DET: as, os</li>
       <li>NOUN: amigos</li>
       <li>VERB-Part: considerados</li>
     </ul>
@@ -195,14 +206,27 @@ Treebank v2.0 (legacy)](https://github.com/ryanmcd/uni-dep-tb).
   <li>Sing
     <ul>
       <li>ADJ: Metropolitana</li>
+      <li>AUX-Fin: é</li>
       <li>DET: o, a, uma, seu</li>
-      <li>NOUN: amigo, fã, km², segunda-feira, área</li>
-      <li>PRON: mim</li>
-      <li>VERB-Fin: virou</li>
+      <li>NOUN: Condado, amigo, arrependimento, cidade, conversão, fã, km², restrição, salvação, segunda-feira</li>
+      <li>PRON: mim, se</li>
+      <li>PROPN: Athol</li>
+      <li>VERB-Fin: termina, virou</li>
     </ul>
   </li>
 </ul>
 
+<ul>
+  <li><a>Case</a></li>
+</ul>
+
+<ul>
+  <li>Acc
+    <ul>
+      <li>PRON: se</li>
+    </ul>
+  </li>
+</ul>
 
 
 <ul>
@@ -212,7 +236,7 @@ Treebank v2.0 (legacy)](https://github.com/ryanmcd/uni-dep-tb).
 <ul>
   <li>Def
     <ul>
-      <li>DET: o, a, os, as</li>
+      <li>DET: o, a, as, os</li>
     </ul>
   </li>
 </ul>
@@ -247,7 +271,8 @@ Treebank v2.0 (legacy)](https://github.com/ryanmcd/uni-dep-tb).
 <ul>
   <li>Ind
     <ul>
-      <li>VERB-Fin: virou</li>
+      <li>AUX-Fin: é</li>
+      <li>VERB-Fin: termina, virou</li>
     </ul>
   </li>
 </ul>
@@ -260,6 +285,15 @@ Treebank v2.0 (legacy)](https://github.com/ryanmcd/uni-dep-tb).
   <li>Past
     <ul>
       <li>VERB-Fin: virou</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Pres
+    <ul>
+      <li>AUX-Fin: é</li>
+      <li>VERB-Fin: termina</li>
     </ul>
   </li>
 </ul>
@@ -287,7 +321,7 @@ Treebank v2.0 (legacy)](https://github.com/ryanmcd/uni-dep-tb).
 <ul>
   <li>Art
     <ul>
-      <li>DET: o, a, os, as</li>
+      <li>DET: o, a, as, os</li>
     </ul>
   </li>
 </ul>
@@ -296,7 +330,7 @@ Treebank v2.0 (legacy)](https://github.com/ryanmcd/uni-dep-tb).
   <li>Prs
     <ul>
       <li>DET: seu</li>
-      <li>PRON: mim</li>
+      <li>PRON: mim, se</li>
     </ul>
   </li>
 </ul>
@@ -341,7 +375,9 @@ Treebank v2.0 (legacy)](https://github.com/ryanmcd/uni-dep-tb).
 <ul>
   <li>3
     <ul>
-      <li>VERB-Fin: virou</li>
+      <li>AUX-Fin: é</li>
+      <li>PRON: se</li>
+      <li>VERB-Fin: termina, virou</li>
     </ul>
   </li>
 </ul>
@@ -365,13 +401,28 @@ Treebank v2.0 (legacy)](https://github.com/ryanmcd/uni-dep-tb).
 </ul>
 
 <ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>PROPN
+        <ul>
+          <li>NOUN: Condado</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Foreign</a>
     <ul>
       <li>Yes
         <ul>
-          <li>DET: A, the</li>
+          <li>ADP: at, in</li>
+          <li>DET: the, A</li>
+          <li>NOUN: Crowd, Evening, Gay, Life</li>
           <li>NUM: 1940s</li>
-          <li>PROPN: 's, Crowd, Evening, Gay, Kirmser, Life, The, at, in</li>
+          <li>PART: 's</li>
+          <li>PROPN: Kirmser</li>
         </ul>
       </li>
     </ul>
@@ -387,7 +438,7 @@ Treebank v2.0 (legacy)](https://github.com/ryanmcd/uni-dep-tb).
 </ul>
 
 <ul>
-<li>This corpus uses 32 lemmas as auxiliaries (<a>aux</a>). Examples: _, ter, ir, estar, dever, poder, haver, vir, acabar, passar, começar, continuar, voltar, chegar, deixar, costumar, ficar, ser, seguir, parar, precisar, cansar, conseguir, tentar, terminar, andar, botar, iniciar, parecer, persistir, tocar, tornar.</li>
+<li>This corpus uses 32 lemmas as auxiliaries (<a>aux</a>). Examples: _, ter, ir, estar, dever, poder, haver, vir, acabar, passar, começar, continuar, voltar, chegar, deixar, costumar, ficar, ser, seguir, parar, precisar, cansar, conseguir, tentar, andar, botar, iniciar, parecer, persistir, terminar, tocar, tornar.</li>
 <li>This corpus uses 7 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: ser, _, ficar, arar, estar, poder, ter.</li>
 </ul>
 
@@ -416,7 +467,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-ADP(em) (1)</li>
       <li>VERB--NOUN-ADP(por) (1)</li>
       <li>VERB--NOUN-ADP(rede) (1)</li>
-      <li>VERB--PRON (1301)</li>
+      <li>VERB--PRON (1300)</li>
       <li>VERB--PRON-ADP(_) (3)</li>
       <li>VERB-Ger--NOUN (1)</li>
     </ul>

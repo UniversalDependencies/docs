@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Portuguese-Bosque: POS Tags: `ADP`
 
-There are 83 `ADP` lemmas (0%), 83 `ADP` types (0%) and 33782 `ADP` tokens (15%).
+There are 83 `ADP` lemmas (0%), 83 `ADP` types (0%) and 33784 `ADP` tokens (15%).
 Out of 17 observed tags, the rank of `ADP` is: 8 in number of lemmas, 11 in number of types and 3 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>de, em, a, por, com, para, como, entre, sobre, até</em>
@@ -72,7 +72,7 @@ The 10 most frequent ambiguous types:  <em>de</em> (<tt><a href="pt_bosque-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.421073).
+The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.423132).
 
 The 1st highest number of forms (2) was observed with the lemma “a”: <em>a, e</em>.
 
@@ -80,22 +80,22 @@ The 2nd highest number of forms (2) was observed with the lemma “com”: <em>c
 
 The 3rd highest number of forms (2) was observed with the lemma “de”: <em>d', de</em>.
 
-`ADP` occurs with 4 features: <tt><a href="pt_bosque-feat-ExtPos.html">ExtPos</a></tt> (418; 1% instances), <tt><a href="pt_bosque-feat-Number.html">Number</a></tt> (5; 0% instances), <tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt> (3; 0% instances), <tt><a href="pt_bosque-feat-PronType.html">PronType</a></tt> (1; 0% instances)
+`ADP` occurs with 4 features: <tt><a href="pt_bosque-feat-ExtPos.html">ExtPos</a></tt> (418; 1% instances), <tt><a href="pt_bosque-feat-Number.html">Number</a></tt> (6; 0% instances), <tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt> (3; 0% instances), <tt><a href="pt_bosque-feat-PronType.html">PronType</a></tt> (1; 0% instances)
 
 `ADP` occurs with 10 feature-value pairs: `ExtPos=ADJ`, `ExtPos=ADP`, `ExtPos=ADV`, `ExtPos=CCONJ`, `ExtPos=NOUN`, `ExtPos=PROPN`, `ExtPos=SCONJ`, `Gender=Masc`, `Number=Sing`, `PronType=Rel`
 
 `ADP` occurs with 11 feature combinations.
-The most frequent feature combination is `_` (33361 tokens).
+The most frequent feature combination is `_` (33362 tokens).
 Examples: <em>de, em, a, por, com, para, como, entre, sobre, até</em>
 
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 21 different relations: <tt><a href="pt_bosque-dep-case.html">case</a></tt> (32691; 97% instances), <tt><a href="pt_bosque-dep-fixed.html">fixed</a></tt> (533; 2% instances), <tt><a href="pt_bosque-dep-cc.html">cc</a></tt> (97; 0% instances), <tt><a href="pt_bosque-dep-compound.html">compound</a></tt> (93; 0% instances), <tt><a href="pt_bosque-dep-obl.html">obl</a></tt> (83; 0% instances), <tt><a href="pt_bosque-dep-advmod.html">advmod</a></tt> (81; 0% instances), <tt><a href="pt_bosque-dep-mark.html">mark</a></tt> (75; 0% instances), <tt><a href="pt_bosque-dep-nmod.html">nmod</a></tt> (57; 0% instances), <tt><a href="pt_bosque-dep-flat-name.html">flat:name</a></tt> (16; 0% instances), <tt><a href="pt_bosque-dep-obj.html">obj</a></tt> (15; 0% instances), <tt><a href="pt_bosque-dep-nsubj.html">nsubj</a></tt> (10; 0% instances), <tt><a href="pt_bosque-dep-appos.html">appos</a></tt> (9; 0% instances), <tt><a href="pt_bosque-dep-conj.html">conj</a></tt> (8; 0% instances), <tt><a href="pt_bosque-dep-xcomp.html">xcomp</a></tt> (3; 0% instances), <tt><a href="pt_bosque-dep-acl-relcl.html">acl:relcl</a></tt> (2; 0% instances), <tt><a href="pt_bosque-dep-amod.html">amod</a></tt> (2; 0% instances), <tt><a href="pt_bosque-dep-nsubj-pass.html">nsubj:pass</a></tt> (2; 0% instances), <tt><a href="pt_bosque-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="pt_bosque-dep-discourse.html">discourse</a></tt> (1; 0% instances), <tt><a href="pt_bosque-dep-flat.html">flat</a></tt> (1; 0% instances), <tt><a href="pt_bosque-dep-orphan.html">orphan</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 21 different relations: <tt><a href="pt_bosque-dep-case.html">case</a></tt> (32697; 97% instances), <tt><a href="pt_bosque-dep-fixed.html">fixed</a></tt> (531; 2% instances), <tt><a href="pt_bosque-dep-cc.html">cc</a></tt> (97; 0% instances), <tt><a href="pt_bosque-dep-compound.html">compound</a></tt> (93; 0% instances), <tt><a href="pt_bosque-dep-obl.html">obl</a></tt> (83; 0% instances), <tt><a href="pt_bosque-dep-advmod.html">advmod</a></tt> (81; 0% instances), <tt><a href="pt_bosque-dep-mark.html">mark</a></tt> (75; 0% instances), <tt><a href="pt_bosque-dep-nmod.html">nmod</a></tt> (57; 0% instances), <tt><a href="pt_bosque-dep-obj.html">obj</a></tt> (15; 0% instances), <tt><a href="pt_bosque-dep-flat-name.html">flat:name</a></tt> (14; 0% instances), <tt><a href="pt_bosque-dep-nsubj.html">nsubj</a></tt> (10; 0% instances), <tt><a href="pt_bosque-dep-appos.html">appos</a></tt> (9; 0% instances), <tt><a href="pt_bosque-dep-conj.html">conj</a></tt> (8; 0% instances), <tt><a href="pt_bosque-dep-xcomp.html">xcomp</a></tt> (3; 0% instances), <tt><a href="pt_bosque-dep-acl-relcl.html">acl:relcl</a></tt> (2; 0% instances), <tt><a href="pt_bosque-dep-amod.html">amod</a></tt> (2; 0% instances), <tt><a href="pt_bosque-dep-nsubj-pass.html">nsubj:pass</a></tt> (2; 0% instances), <tt><a href="pt_bosque-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="pt_bosque-dep-discourse.html">discourse</a></tt> (1; 0% instances), <tt><a href="pt_bosque-dep-flat.html">flat</a></tt> (1; 0% instances), <tt><a href="pt_bosque-dep-orphan.html">orphan</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 16 different parts of speech: <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (23096; 68% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (7152; 21% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (1024; 3% instances), <tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (823; 2% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (688; 2% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (320; 1% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (211; 1% instances), <tt><a href="pt_bosque-pos-SYM.html">SYM</a></tt> (209; 1% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> (180; 1% instances), <tt><a href="pt_bosque-pos-X.html">X</a></tt> (39; 0% instances), <tt><a href="pt_bosque-pos-DET.html">DET</a></tt> (27; 0% instances), <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> (8; 0% instances),  (2; 0% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-PART.html">PART</a></tt> (1; 0% instances)
+Parents of `ADP` nodes belong to 16 different parts of speech: <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (23105; 68% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (7143; 21% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (1024; 3% instances), <tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (824; 2% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (687; 2% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (320; 1% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (211; 1% instances), <tt><a href="pt_bosque-pos-SYM.html">SYM</a></tt> (209; 1% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> (182; 1% instances), <tt><a href="pt_bosque-pos-X.html">X</a></tt> (39; 0% instances), <tt><a href="pt_bosque-pos-DET.html">DET</a></tt> (27; 0% instances), <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> (8; 0% instances),  (2; 0% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-PART.html">PART</a></tt> (1; 0% instances)
 
-33226 (98%) `ADP` nodes are leaves.
+33228 (98%) `ADP` nodes are leaves.
 
 84 (0%) `ADP` nodes have one child.
 

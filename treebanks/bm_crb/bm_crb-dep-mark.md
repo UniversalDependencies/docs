@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-180 nodes (1%) are attached to their parents as `mark`.
+195 nodes (1%) are attached to their parents as `mark`.
 
-167 instances of `mark` (93%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.24444444444444.
+182 instances of `mark` (93%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.12307692307692.
 
-The following 6 pairs of parts of speech are connected with `mark`: <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-SCONJ.html">SCONJ</a></tt> (174; 97% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bm_crb-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bm_crb-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="bm_crb-pos-PRON.html">PRON</a></tt>-<tt><a href="bm_crb-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `mark`: <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-SCONJ.html">SCONJ</a></tt> (174; 89% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-PART.html">PART</a></tt> (17; 9% instances), <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bm_crb-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bm_crb-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="bm_crb-pos-PRON.html">PRON</a></tt>-<tt><a href="bm_crb-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -40,29 +40,27 @@ The following 6 pairs of parts of speech are connected with `mark`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 6 mark	color:blue
-1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
-2	ko	kó	VERB	cop	_	0	root	_	Gloss=
-3	bara	bàra	NOUN	n	_	5	nsubj	_	Gloss=calebasse
-4	nin	nìn	DET	prn/dtm	Definite=Def|PronType=Dem	3	det	_	Gloss=DEM
-5	ko	kó	VERB	cop	_	2	parataxis:obj	_	Gloss=
-6	ko	kó	PART	cop	_	9	mark	_	Gloss=
-7	ni	ní	SCONJ	conj	_	9	mark	_	Gloss=si
-8	aw	áw	PRON	pers	Number=Plur|Person=2|PronType=Emp	9	nsubj	_	Gloss=2PL.EMPH
-9	donna	donna	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	17	advcl	_	Gloss=entrer|Morf=entrer,PFV.INTR
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 15 14 mark	color:blue
+1	ko	kó	PART	cop	_	6	discourse	_	Gloss=
+2	e	é	PRON	pers	Number=Sing|Person=2|PronType=Emp	3	nmod:poss	_	Gloss=2SG.EMPH
+3	bamuso	bá.muso	NOUN	n	_	6	nsubj	_	Gloss=mère|Morf=mère,mère,femme
+4	tun	tùn	AUX	prt	Tense=Past	6	aux	_	Gloss=PST
+5	bè	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	6	aux	_	Gloss=IPFV.AFF
+6	to	tó	VERB	v	_	0	root	_	Gloss=rester
+7	ka	ka	AUX	pm	_	9	aux	_	Gloss=INF
+8	mun	mùn	PRON	prn	_	9	obj	_	Gloss=quoi
+9	di	dí	VERB	v	_	6	xcomp	_	Gloss=donner
 10	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	9	obl	_	Gloss=3SG
-11	kònò	kɔ́nɔ	ADP	pp	_	10	case	_	Gloss=à.l’intérieur|SpaceAfter=No
-12	,	,	PUNCT	_	_	9	punct	_	Gloss=,
-13	ko	kó	PART	cop	_	17	discourse	_	Gloss=
-14	aw	áw	PRON	pers	Number=Plur|Person=2|PronType=Emp	17	nsubj	_	Gloss=2PL.EMPH
-15	tè	tɛ	AUX	pm	Aspect=Imp|Polarity=Neg	17	aux	_	Gloss=IPFV.NEG
-16	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	17	obj	_	Gloss=3SG
-17	fa	fá	VERB	v	_	5	parataxis:obj	_	Gloss=remplir|SpaceAfter=No
-18	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+11	ma	mà	ADP	pp	_	10	case	_	Gloss=à|SpaceAfter=No
+12	,	,	PUNCT	_	_	15	punct	_	Gloss=,
+13	e	é	PRON	pers	Number=Sing|Person=2|PronType=Emp	15	nsubj	_	Gloss=2SG.EMPH
+14	diye	dìyé	PART	pm	_	15	mark	_	Gloss=SEQ
+15	sunògò	sùnɔgɔ	VERB	v	_	9	parataxis	_	Gloss=dormir
+16	?	?	PUNCT	_	_	6	punct	_	Gloss=?
 
 ~~~
 

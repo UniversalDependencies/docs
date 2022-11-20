@@ -22,16 +22,16 @@ The following 7 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 7 root	color:blue
-1	ข้อ	_	NOUN	NN	_	7	nsubj	_	SpaceAfter=No
-2	กำหนด	_	VERB	VV	_	1	acl	_	SpaceAfter=No
-3	เรื่อง	_	NOUN	NN	_	1	compound	_	SpaceAfter=No
-4	การแต่ง	_	VERB	VV	_	3	compound	_	SpaceAfter=No
-5	กาย	_	NOUN	NN	_	4	obj	_	SpaceAfter=No
-6	อาจ	_	AUX	MD	_	7	aux	_	SpaceAfter=No
-7	ล้า	_	VERB	VV	_	0	root	_	SpaceAfter=No
-8	สมัย	_	NOUN	NN	_	7	obl	_	SpaceAfter=No
-9	ไป	_	PART	RP	_	7	compound:prt	_	SpaceAfter=No
-10	หน่อย	_	ADV	RB	_	7	advmod	_	_
+1	ข้อ	_	NOUN	NN	_	7	nsubj	_	SpaceAfter=No|Translit=kʰ²'
+2	กำหนด	_	VERB	VV	_	1	acl	_	SpaceAfter=No|Translit=kãhnd
+3	เรื่อง	_	NOUN	NN	_	1	compound	_	SpaceAfter=No|Translit=rűá¹ŋ
+4	การแต่ง	_	VERB	VV	_	3	compound	_	SpaceAfter=No|Translit=kártǽ¹ŋ
+5	กาย	_	NOUN	NN	_	4	obj	_	SpaceAfter=No|Translit=káy
+6	อาจ	_	AUX	MD	_	7	aux	_	SpaceAfter=No|Translit='áč
+7	ล้า	_	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=lá²
+8	สมัย	_	NOUN	NN	_	7	obl	_	SpaceAfter=No|Translit=smây
+9	ไป	_	PART	RP	_	7	compound:prt	_	SpaceAfter=No|Translit=pai
+10	หน่อย	_	ADV	RB	_	7	advmod	_	Translit=hn¹'y
 
 ~~~
 
@@ -42,16 +42,16 @@ The following 7 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 2 root	color:blue
-1	5,000	_	NUM	CD	_	2	nummod	_	_
-2	ดอลลาร์	_	NOUN	NNB	_	0	root	_	SpaceAfter=No
-3	ต่อ	_	ADP	IN	_	4	case	_	SpaceAfter=No
-4	คน	_	NOUN	NN	_	2	nmod	_	_
-5	สูง	_	ADJ	JJ	_	2	conj	_	SpaceAfter=No
-6	สุด	_	ADV	RB	_	5	advmod	_	SpaceAfter=No
-7	ตาม	_	ADP	IN	_	10	case	_	SpaceAfter=No
-8	ที่	_	DET	WDT	_	10	nsubj	_	SpaceAfter=No
-9	ได้รับ	_	AUX	MD	Voice=Pass	10	aux	_	SpaceAfter=No
-10	อนุญาต	_	VERB	VV	_	5	xcomp	_	_
+1	5,000	_	NUM	CD	_	2	nummod	_	Translit=5,000
+2	ดอลลาร์	_	NOUN	NNB	_	0	root	_	SpaceAfter=No|Translit=dɔːllár
+3	ต่อ	_	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=t¹'
+4	คน	_	NOUN	NN	_	2	nmod	_	Translit=gʰn
+5	สูง	_	ADJ	JJ	_	2	conj	_	SpaceAfter=No|Translit=súŋ
+6	สุด	_	ADV	RB	_	5	advmod	_	SpaceAfter=No|Translit=sud
+7	ตาม	_	ADP	IN	_	10	case	_	SpaceAfter=No|Translit=tám
+8	ที่	_	DET	WDT	_	10	nsubj	_	SpaceAfter=No|Translit=dʰí¹
+9	ได้รับ	_	AUX	MD	Voice=Pass	10	aux	_	SpaceAfter=No|Translit=dai²râb
+10	อนุญาต	_	VERB	VV	_	5	xcomp	_	Translit='nuŷát
 
 ~~~
 
@@ -62,10 +62,10 @@ The following 7 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 3 root	color:blue
-1	นี่	_	PRON	PRD	_	3	obl	_	SpaceAfter=No
-2	มัน	_	PRON	PRP	Person=3	3	nsubj	_	SpaceAfter=No
-3	น่าสยดสยอง	_	ADJ	JJ	_	0	root	_	SpaceAfter=No
-4	ทีเดียว	_	ADV	RB	_	3	advmod	_	_
+1	นี่	_	PRON	PRD	_	3	obl	_	SpaceAfter=No|Translit=ní¹
+2	มัน	_	PRON	PRP	Person=3	3	nsubj	_	SpaceAfter=No|Translit=mân
+3	น่าสยดสยอง	_	ADJ	JJ	_	0	root	_	SpaceAfter=No|Translit=ná¹sydsyɔːŋ
+4	ทีเดียว	_	ADV	RB	_	3	advmod	_	Translit=dʰídíáw
 
 ~~~
 

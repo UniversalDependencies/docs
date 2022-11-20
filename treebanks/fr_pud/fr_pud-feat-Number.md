@@ -11,10 +11,10 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="fr_pud-feat-Number.html">Number</a></tt>, <tt><a href="fr_pud-feat-Number-psor.html">Number[psor]</a></tt>.
 
-14869 tokens (60%) have a non-empty value of `Number`.
-5151 types (86%) occur at least once with a non-empty value of `Number`.
-3903 lemmas (85%) occur at least once with a non-empty value of `Number`.
-The feature is used with 11 part-of-speech tags: <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (4672; 19% instances), <tt><a href="fr_pud-pos-DET.html">DET</a></tt> (3874; 16% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (1739; 7% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (1623; 7% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> (1221; 5% instances), <tt><a href="fr_pud-pos-AUX.html">AUX</a></tt> (974; 4% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (725; 3% instances), <tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> (26; 0% instances), <tt><a href="fr_pud-pos-X.html">X</a></tt> (10; 0% instances), <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="fr_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+14868 tokens (60%) have a non-empty value of `Number`.
+5150 types (86%) occur at least once with a non-empty value of `Number`.
+3902 lemmas (85%) occur at least once with a non-empty value of `Number`.
+The feature is used with 10 part-of-speech tags: <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (4672; 19% instances), <tt><a href="fr_pud-pos-DET.html">DET</a></tt> (3874; 16% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (1739; 7% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (1623; 7% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> (1221; 5% instances), <tt><a href="fr_pud-pos-AUX.html">AUX</a></tt> (974; 4% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (725; 3% instances), <tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> (26; 0% instances), <tt><a href="fr_pud-pos-X.html">X</a></tt> (10; 0% instances), <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> (4; 0% instances).
 
 ### `NOUN`
 
@@ -199,15 +199,6 @@ The most frequent other feature values with which `X` and `Number` co-occurred: 
 
 * `Sing` (4; 100% of non-empty `Number`): <em>1er, premier</em>
 * `EMPTY` (447): <em>deux, trois, quatre, 1, 3, 10, II, III, dix, milliards</em>
-
-### `SCONJ`
-
-1 <tt><a href="fr_pud-pos-SCONJ.html">SCONJ</a></tt> tokens (0% of all `SCONJ` tokens) have a non-empty value of `Number`.
-
-`SCONJ` tokens may have the following values of `Number`:
-
-* `Plur` (1; 100% of non-empty `Number`): <em>que</em>
-* `EMPTY` (218): <em>que, qu', quand, lorsque, qu’, lorsqu’, lorsqu', puisqu'</em>
 
 ## Relations with Agreement in `Number`
 

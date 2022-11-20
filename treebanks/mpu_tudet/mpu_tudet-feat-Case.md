@@ -9,19 +9,19 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Gen`.
 
-7 tokens (5%) have a non-empty value of `Case`.
-5 types (6%) occur at least once with a non-empty value of `Case`.
-5 lemmas (6%) occur at least once with a non-empty value of `Case`.
-The feature is used with 1 part-of-speech tags: <tt><a href="mpu_tudet-pos-NOUN.html">NOUN</a></tt> (7; 5% instances).
+8 tokens (4%) have a non-empty value of `Case`.
+6 types (6%) occur at least once with a non-empty value of `Case`.
+6 lemmas (7%) occur at least once with a non-empty value of `Case`.
+The feature is used with 1 part-of-speech tags: <tt><a href="mpu_tudet-pos-NOUN.html">NOUN</a></tt> (8; 4% instances).
 
 ### `NOUN`
 
-7 <tt><a href="mpu_tudet-pos-NOUN.html">NOUN</a></tt> tokens (22% of all `NOUN` tokens) have a non-empty value of `Case`.
+8 <tt><a href="mpu_tudet-pos-NOUN.html">NOUN</a></tt> tokens (21% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="mpu_tudet-feat-Rel.html">Rel</a></tt><tt>=Cont</tt> (7; 100%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="mpu_tudet-feat-Rel.html">Rel</a></tt><tt>=Cont</tt> (7; 88%).
 
 `NOUN` tokens may have the following values of `Case`:
 
-* `Gen` (7; 100% of non-empty `Case`): <em>urot, xiaret, oxepngoret, worawiget, xauwet</em>
-* `EMPTY` (25): <em>ngot, kito, arimot, kux, moke, ama, etxekup, etyenkuax, mawo, moat</em>
+* `Gen` (8; 100% of non-empty `Case`): <em>mokaraet, urot, xiaret, oxepngoret, worawiget, xauwet</em>
+* `EMPTY` (30): <em>ngot, kito, arimot, kux, moke, pe, ama, etxekup, etyenkuax, kupngaporet</em>
 

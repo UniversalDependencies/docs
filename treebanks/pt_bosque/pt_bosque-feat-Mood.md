@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Cnd`, `Imp`, `Ind`, `Sub`.
 
-15850 tokens (7%) have a non-empty value of `Mood`.
+15851 tokens (7%) have a non-empty value of `Mood`.
 4089 types (16%) occur at least once with a non-empty value of `Mood`.
 1307 lemmas (7%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (11741; 5% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (4109; 2% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (11741; 5% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (4110; 2% instances).
 
 ### `VERB`
 
@@ -57,15 +57,15 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `AUX`
 
-4109 <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> tokens (82% of all `AUX` tokens) have a non-empty value of `Mood`.
+4110 <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> tokens (82% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="pt_bosque-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4109; 100%), <tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt> (3948; 96%), <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3109; 76%), <tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2450; 60%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="pt_bosque-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4110; 100%), <tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt> (3949; 96%), <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3110; 76%), <tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2450; 60%).
 
 `AUX` tokens may have the following values of `Mood`:
 
 * `Cnd` (128; 3% of non-empty `Mood`): <em>seria, teria, seriam, iria, estaria, teriam, estariam, iriam, ia</em>
 * `Imp` (3; 0% of non-empty `Mood`): <em>Sê</em>
-* `Ind` (3760; 92% of non-empty `Mood`): <em>é, foi, são, está, foram, vai, era, será, estão, tem</em>
+* `Ind` (3761; 92% of non-empty `Mood`): <em>é, foi, são, está, foram, vai, era, será, estão, tem</em>
 * `Sub` (218; 5% of non-empty `Mood`): <em>seja, for, tenha, fosse, sejam, esteja, estejam, fossem, forem, tenham</em>
 * `EMPTY` (917): <em>ser, ter, sido, estar, sendo, é, tendo, serem, terem, ir</em>
 
@@ -81,7 +81,8 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
   <tr><td><tt><tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>era</em></td><td></td><td></td><td><em>fosse</em></td></tr>
   <tr><td><tt><tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>foi, foram</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Pqp</tt></tt></td><td><em>fora</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>é, eis, Sou, çe</em></td><td></td><td></td><td><em>seja</em></td></tr>
+  <tr><td><tt><tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="pt_bosque-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>çe</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>é, eis, Sou</em></td><td></td><td></td><td><em>seja</em></td></tr>
   <tr><td><tt><tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td></td><td><em>seria</em></td><td></td></tr>
   <tr><td><tt><tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>era</em></td><td></td><td></td><td><em>fosse</em></td></tr>
   <tr><td><tt><tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>seremos</em></td><td></td><td></td><td></td></tr>

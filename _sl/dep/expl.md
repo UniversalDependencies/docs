@@ -12,22 +12,27 @@ In Slovene treebanks, this relation is mostly used for the clitic forms of the r
 If, on the other hand, the reflexive functions as a nominal with a clearly identifiable semantic role, it is analyzed as direct ([obj]()) or indirect ([iobj]()) object.
 
 ~~~ sdparse
-Vse so se veselo smejale .
+Vse so se veselo smejale . \n All-of-them they-aux-PAST REFLEX happily laughed .
 expl(smejale,se)
+expl(laughed,REFLEX)
 ~~~
 ~~~ sdparse
-Pogosto se omenja planinski turizem .
+Pogosto se omenja planinski turizem . \n Often REFLEX mentions alpine tourism .
 expl(omenja,se)
+expl(mentions,REFLEX)
 ~~~
 
 In addition to the reflexive pronoun, the `expl` relation is also used with accusative clitic forms of the personal pronouns _ga_ 'him' and _jo_ 'her' in verbal idiomatic expressions like in the examples below, where the pronoun lies outside the predicate-argument structure.
 
 
 ~~~ sdparse
-Celo noč so ga žurali .
+Celo noč so ga žurali . \n All night they-aux-PAST him-CLITIC partied .
 expl(žurali,ga)
+expl(partied,him-CLITIC)
 ~~~
 ~~~ sdparse
-Zagodla jim jo je bolezen .
+Zagodla jim jo je bolezen . \n Ruined-their-plans them her-CLITIC aux-PAST illness .
 expl(Zagodla,jo)
+expl(Ruined-their-plans,her-CLITIC)
 ~~~
+<!-- Interlanguage links updated Po lis 14 15:35:25 CET 2022 -->

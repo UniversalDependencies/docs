@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.10 release
 The following people have contributed to making this treebank part of UD: Erik Andersen, Ben Rozonoyer.
 
 Repository: [UD_Hittite-HitTB](https://github.com/UniversalDependencies/UD_Hittite-HitTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhit_hittb210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhit_hittb211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-SA 4.0
 
@@ -81,7 +81,7 @@ Brandeis University, for offering his excellent course on Hittite in Spring 2020
 
 
 <ul>
-<li>This corpus contains 136 sentences, 970 tokens and 1309 syntactic words.</li>
+<li>This corpus contains 136 sentences, 971 tokens and 1309 syntactic words.</li>
 </ul>
 
 <ul>
@@ -97,8 +97,8 @@ Brandeis University, for offering his excellent course on Hittite in Spring 2020
 </ul>
 
 <ul>
-<li>This corpus contains 256 multi-word tokens. On average, one multi-word token consists of 2.32 syntactic words.</li>
-<li>There are 205 types of multi-word tokens. Examples: nu=kán, nu=mu, n=a-aš, d-UTU-uš, n=a-an, URU-Ḫa-at-tu-ši, d-UTU-Š=I, n=a-at=mu, nu-u=š-ša-an, A-BU=YA, BE-LÍ=NI=wa-a=n-na-aš, DUG-ḫar-ši-ya-al-li, GIŠ-BANŠUR, GIŠ-BANŠUR-i, LUGAL-š=a, LÚ-SANGA, URU-A-ri-ip-ša-a, URU-Ne-e-ša, URU-Za-a-al-pu-wa, d-U-aš, d-UTU, ke-e-et-t=a, ki-nu-n=a, n=a-an=kán, n=a-at, n=a-aš-ta, nu-u=š-ma-aš, nu=uš, nu=wa, nu=wa-a=n-na-aš=za, nu=wa-a=š-ma-aš, A-BI=ŠU, A-BU=ŠU, A.ŠÀ.ḪI.A=ŠU, BURU14=ma-a=z, DINGIR-LIM-ni=wa-a=t-ta, DINGIR=YA, DUMU.NAM.LÚ.U19.LU-aš, DUMU.NAM.LÚ.U19.LU=pát=kán, DUMU=KA, DUMU=ŠU, EN=YA, GAL, GAŠAN=YA, GEŠTIN=ya=kán, GIŠ-AB-ya, GIŠ-BANŠUR.GAL, GIŠ-TUKUL-aš, GIŠ-ŠÚ.A-ki, GIŠ-ḫa-tal-ki-iš-na-aš.</li>
+<li>This corpus contains 255 multi-word tokens. On average, one multi-word token consists of 2.33 syntactic words.</li>
+<li>There are 204 types of multi-word tokens. Examples: nu=kán, nu=mu, n=a-aš, d-UTU-uš, n=a-an, URU-Ḫa-at-tu-ši, d-UTU-Š=I, n=a-at=mu, nu-u=š-ša-an, A-BU=YA, BE-LÍ=NI=wa-a=n-na-aš, DUG-ḫar-ši-ya-al-li, GIŠ-BANŠUR, GIŠ-BANŠUR-i, LUGAL-š=a, LÚ-SANGA, URU-A-ri-ip-ša-a, URU-Ne-e-ša, URU-Za-a-al-pu-wa, d-U-aš, d-UTU, ke-e-et-t=a, ki-nu-n=a, n=a-an=kán, n=a-at, n=a-aš-ta, nu-u=š-ma-aš, nu=uš, nu=wa, nu=wa-a=n-na-aš=za, nu=wa-a=š-ma-aš, A-BI=ŠU, A-BU=ŠU, A.ŠÀ.ḪI.A=ŠU, BURU14=ma-a=z, DINGIR-LIM-ni=wa-a=t-ta, DINGIR=YA, DUMU.NAM.LÚ.U19.LU-aš, DUMU.NAM.LÚ.U19.LU=pát=kán, DUMU=KA, DUMU=ŠU, EN=YA, GAŠAN=YA, GEŠTIN=ya=kán, GIŠ-AB-ya, GIŠ-BANŠUR.GAL, GIŠ-TUKUL-aš, GIŠ-ŠÚ.A-ki, GIŠ-ḫa-tal-ki-iš-na-aš, GUD-un=aš-ta.</li>
 </ul>
 
 <h2>Morphology</h2>

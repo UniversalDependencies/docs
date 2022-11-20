@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Moksha-JR: Relations: `obl:inst`
 
 This relation is a language-specific subtype of <tt><a href="mdf_jr-dep-obl.html">obl</a></tt>.
-There are also 9 other language-specific subtypes of `obl`: <tt><a href="mdf_jr-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="mdf_jr-dep-obl-cau.html">obl:cau</a></tt>, <tt><a href="mdf_jr-dep-obl-comp.html">obl:comp</a></tt>, <tt><a href="mdf_jr-dep-obl-freq.html">obl:freq</a></tt>, <tt><a href="mdf_jr-dep-obl-lfrom.html">obl:lfrom</a></tt>, <tt><a href="mdf_jr-dep-obl-lmod.html">obl:lmod</a></tt>, <tt><a href="mdf_jr-dep-obl-lmp.html">obl:lmp</a></tt>, <tt><a href="mdf_jr-dep-obl-lto.html">obl:lto</a></tt>, <tt><a href="mdf_jr-dep-obl-tmod.html">obl:tmod</a></tt>.
+There are also 6 other language-specific subtypes of `obl`: <tt><a href="mdf_jr-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="mdf_jr-dep-obl-cau.html">obl:cau</a></tt>, <tt><a href="mdf_jr-dep-obl-cmp.html">obl:cmp</a></tt>, <tt><a href="mdf_jr-dep-obl-freq.html">obl:freq</a></tt>, <tt><a href="mdf_jr-dep-obl-lmod.html">obl:lmod</a></tt>, <tt><a href="mdf_jr-dep-obl-tmod.html">obl:tmod</a></tt>.
 
-15 nodes (0%) are attached to their parents as `obl:inst`.
+16 nodes (0%) are attached to their parents as `obl:inst`.
 
-13 instances of `obl:inst` (87%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.4.
+14 instances of `obl:inst` (88%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.375.
 
-The following 3 pairs of parts of speech are connected with `obl:inst`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (13; 87% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (1; 7% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (1; 7% instances).
+The following 3 pairs of parts of speech are connected with `obl:inst`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (14; 88% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
@@ -65,12 +65,12 @@ The following 3 pairs of parts of speech are connected with `obl:inst`: <tt><a h
 5	маштсь	маштомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	2	conj	_	GTtags=Ind,Prt1,ScSg3|SpaceAfter=No
 6	:	:	PUNCT	PUNCT	_	7	punct	_	_
 7	каннель	каннемс	VERB	V	Aspect=Hab|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	2	parataxis	_	GTtags=Ind,Prt2,ScSg3
-8	библиотекста	библиотека	NOUN	N	Case=Ela|Definite=Ind|Number=Plur,Sing	7	obl:lfrom	_	GTtags=Err/Orth,SP,Ela,Indef
+8	библиотекста	библиотека	NOUN	N	Case=Ela|Definite=Ind|Number=Plur,Sing	7	obl:lmod	_	GTtags=Err/Orth,SP,Ela,Indef
 9	книгат	книга	NOUN	N	Case=Nom|Definite=Ind|Number=Plur	7	obj	_	GTtags=Pl,Nom,Indef|SpaceAfter=No
 10	,	,	PUNCT	PUNCT	_	11	punct	_	_
 11	нолязень	нолямс	VERB	V	Mood=Ind|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Past	7	conj	_	GTtags=Ind,Prt1,ScSg3,OcPl3
 12	почтовай	почтовай	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	13	amod	_	GTtags=Sg,Nom,Indef
-13	ящикс	ящик	NOUN	N	Case=Ill|Definite=Ind|Number=Plur,Sing	11	obl:lto	_	GTtags=SP,Ill,Indef
+13	ящикс	ящик	NOUN	N	Case=Ill|Definite=Ind|Number=Plur,Sing	11	obl:lmod	_	GTtags=SP,Ill,Indef
 14	сёрманзон	сёрма	NOUN	N	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	11	obj	_	GTtags=Pl,Gen,PxSg3|SpaceAfter=No
 15	.	.	PUNCT	PUNCT	_	2	punct	_	_
 

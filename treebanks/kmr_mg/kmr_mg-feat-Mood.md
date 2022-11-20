@@ -12,21 +12,21 @@ It occurs with 4 different values: `Imp`, `Ind`, `Opt`, `Sub`.
 1314 tokens (13%) have a non-empty value of `Mood`.
 503 types (18%) occur at least once with a non-empty value of `Mood`.
 146 lemmas (8%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt> (976; 10% instances), <tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt> (338; 3% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt> (902; 9% instances), <tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt> (412; 4% instances).
 
 ### `VERB`
 
-976 <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt> tokens (88% of all `VERB` tokens) have a non-empty value of `Mood`.
+902 <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt> tokens (87% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="kmr_mg-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (976; 100%), <tt><a href="kmr_mg-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (858; 88%), <tt><a href="kmr_mg-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (827; 85%), <tt><a href="kmr_mg-feat-Person.html">Person</a></tt><tt>=3</tt> (816; 84%), <tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (760; 78%), <tt><a href="kmr_mg-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (535; 55%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="kmr_mg-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (902; 100%), <tt><a href="kmr_mg-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (774; 86%), <tt><a href="kmr_mg-feat-Person.html">Person</a></tt><tt>=3</tt> (741; 82%), <tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (702; 78%), <tt><a href="kmr_mg-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (482; 53%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Imp` (13; 1% of non-empty `Mood`): <em>meke, bikin, Rahêje, berdin, bike, bikelînin, binêre, ke, rûne, werbigirin</em>
-* `Ind` (848; 87% of non-empty `Mood`): <em>tê, da, kir, hatiye, gote, hat, dike, hate, got, hatine</em>
-* `Opt` (6; 1% of non-empty `Mood`): <em>bikira, bidîta, bigota, bihata, bistandana</em>
-* `Sub` (109; 11% of non-empty `Mood`): <em>bike, bikin, bidî, bêje, herin, bibêje, herî, berde, bibînin, bidin</em>
-* `EMPTY` (139): <em>kirin, bikaranîn, çêkirin, gotin, avakirin, dîtin, girêdan, weşandin, zanîn, amadekirin</em>
+* `Ind` (776; 86% of non-empty `Mood`): <em>da, kir, gote, dike, got, hebû, kiriye, heye, divêt, hene</em>
+* `Opt` (5; 1% of non-empty `Mood`): <em>bikira, bidîta, bigota, bistandana</em>
+* `Sub` (108; 12% of non-empty `Mood`): <em>bike, bikin, bidî, bêje, herin, bibêje, hebe, herî, berde, bibînin</em>
+* `EMPTY` (140): <em>kirin, bikaranîn, çêkirin, gotin, avakirin, dîtin, girêdan, weşandin, zanîn, amadekirin</em>
 
 <table>
   <tr><th>Paradigm <i>kirin</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th><th><tt>Opt</tt></th></tr>
@@ -58,16 +58,17 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `AUX`
 
-338 <tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `Mood`.
+412 <tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt> tokens (96% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="kmr_mg-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (338; 100%), <tt><a href="kmr_mg-feat-Person.html">Person</a></tt><tt>=3</tt> (305; 90%), <tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (274; 81%), <tt><a href="kmr_mg-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (212; 63%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="kmr_mg-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (412; 100%), <tt><a href="kmr_mg-feat-Person.html">Person</a></tt><tt>=3</tt> (380; 92%), <tt><a href="kmr_mg-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (368; 89%), <tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (332; 81%), <tt><a href="kmr_mg-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (230; 56%).
 
 `AUX` tokens may have the following values of `Mood`:
 
-* `Imp` (2; 1% of non-empty `Mood`): <em>nebe</em>
-* `Ind` (318; 94% of non-empty `Mood`): <em>e, ye, bû, bûn, dibe, hebû, bûye, heye, hene, in</em>
-* `Sub` (18; 5% of non-empty `Mood`): <em>be, hebe, bibe, bibim, bibin, bibî, bin, bit, nebe, nebit</em>
-* `EMPTY` (1): <em>hebin</em>
+* `Imp` (2; 0% of non-empty `Mood`): <em>nebe</em>
+* `Ind` (390; 95% of non-empty `Mood`): <em>e, ye, bû, tê, hatiye, bûn, dibe, bûye, hate, hat</em>
+* `Opt` (1; 0% of non-empty `Mood`): <em>bihata</em>
+* `Sub` (19; 5% of non-empty `Mood`): <em>be, bibe, bibim, bibin, bibî, bidî, bin, bit, bê, bên</em>
+* `EMPTY` (19): <em>dê, de, ê</em>
 
 <table>
   <tr><th>Paradigm <i>bûn</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th></tr>
@@ -92,14 +93,14 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="kmr_mg-dep-conj.html">conj</a></tt>]--> VERB</tt> (175; 92%),
-<tt>VERB --[<tt><a href="kmr_mg-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (26; 57%),
-<tt>VERB --[<tt><a href="kmr_mg-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (7; 54%),
-<tt>VERB --[<tt><a href="kmr_mg-dep-conj.html">conj</a></tt>]--> AUX</tt> (7; 100%),
-<tt>AUX --[<tt><a href="kmr_mg-dep-conj.html">conj</a></tt>]--> VERB</tt> (6; 75%),
-<tt>VERB --[<tt><a href="kmr_mg-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (4; 80%),
-<tt>AUX --[<tt><a href="kmr_mg-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (3; 100%),
-<tt>AUX --[<tt><a href="kmr_mg-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (2; 100%),
+<tt>VERB --[<tt><a href="kmr_mg-dep-conj.html">conj</a></tt>]--> VERB</tt> (182; 91%),
+<tt>VERB --[<tt><a href="kmr_mg-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (28; 57%),
+<tt>VERB --[<tt><a href="kmr_mg-dep-conj.html">conj</a></tt>]--> AUX</tt> (5; 100%),
+<tt>VERB --[<tt><a href="kmr_mg-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (5; 83%),
+<tt>AUX --[<tt><a href="kmr_mg-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (2; 100%),
+<tt>AUX --[<tt><a href="kmr_mg-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1; 100%),
 <tt>AUX --[<tt><a href="kmr_mg-dep-conj.html">conj</a></tt>]--> AUX</tt> (1; 100%),
+<tt>AUX --[<tt><a href="kmr_mg-dep-conj.html">conj</a></tt>]--> VERB</tt> (1; 100%),
+<tt>AUX --[<tt><a href="kmr_mg-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="kmr_mg-dep-acl.html">acl</a></tt>]--> VERB</tt> (1; 100%).
 

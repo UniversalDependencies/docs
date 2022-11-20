@@ -13,7 +13,7 @@ The 10 most frequent `SYM` lemmas: <em>b, c</em>
 
 The 10 most frequent `SYM` types:  <em>b, c</em>
 
-The 10 most frequent ambiguous lemmas: <em>b</em> (<tt><a href="en_atis-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="en_atis-pos-SYM.html">SYM</a></tt> 1), <em>c</em> (<tt><a href="en_atis-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="en_atis-pos-SYM.html">SYM</a></tt> 1)
+The 10 most frequent ambiguous lemmas: 
 
 The 10 most frequent ambiguous types:  <em>b</em> (<tt><a href="en_atis-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="en_atis-pos-SYM.html">SYM</a></tt> 1), <em>c</em> (<tt><a href="en_atis-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="en_atis-pos-SYM.html">SYM</a></tt> 1)
 
@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>b</em> (<tt><a href="en_atis-pos-PROP
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.150056).
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.143493).
 
 The 1st highest number of forms (1) was observed with the lemma “b”: <em>b</em>.
 

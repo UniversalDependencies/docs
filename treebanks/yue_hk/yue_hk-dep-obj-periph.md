@@ -11,9 +11,9 @@ This relation is a language-specific subtype of <tt><a href="yue_hk-dep-obj.html
 28 nodes (0%) are attached to their parents as `obj:periph`.
 
 26 instances of `obj:periph` (93%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.39285714285714.
+Average distance between parent and child is 4.35714285714286.
 
-The following 4 pairs of parts of speech are connected with `obj:periph`: <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (18; 64% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> (8; 29% instances), <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-PART.html">PART</a></tt> (1; 4% instances).
+The following 3 pairs of parts of speech are connected with `obj:periph`: <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (19; 68% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> (8; 29% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-PART.html">PART</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -25,7 +25,7 @@ The following 4 pairs of parts of speech are connected with `obj:periph`: <tt><a
 1	姐姐	姐姐	NOUN	_	_	8	vocative	_	SpaceAfter=No
 2	呀	呀	PART	_	_	1	discourse:sp	_	SpaceAfter=No
 3	，	，	PUNCT	_	_	1	punct	_	SpaceAfter=No
-4	啲	啲	NOUN	_	NounType=Clf	5	det	_	SpaceAfter=No
+4	啲	啲	NOUN	_	NounType=Clf	5	clf:det	_	SpaceAfter=No
 5	錢	錢	NOUN	_	_	6	obj:periph	_	SpaceAfter=No
 6	畀	畀	VERB	_	_	8	advcl	_	SpaceAfter=No
 7	我	我	PRON	_	_	6	obj	_	SpaceAfter=No
@@ -57,22 +57,21 @@ The following 4 pairs of parts of speech are connected with `obj:periph`: <tt><a
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 7 obj:periph	color:blue
-1	我	我	PRON	_	_	4	nsubj	_	SpaceAfter=No
-2	就	就	ADV	_	_	4	advmod	_	SpaceAfter=No
-3	要	要	AUX	_	_	4	aux	_	SpaceAfter=No
-4	搞	搞	VERB	_	_	0	root	_	SpaceAfter=No
-5	卡拉ＯＫ	卡拉ＯＫ	NOUN	_	_	4	obj	_	SpaceAfter=No
-6	，	，	PUNCT	_	_	4	punct	_	SpaceAfter=No
-7	琴師	琴師	NOUN	_	_	10	obj:periph	_	SpaceAfter=No
-8	都	都	ADV	_	_	10	advmod	_	SpaceAfter=No
-9	唔	唔	ADV	_	_	10	advmod	_	SpaceAfter=No
-10	使	使	AUX	_	_	4	parataxis	_	SpaceAfter=No
-11	。	。	PUNCT	_	_	10	punct	_	SpaceAfter=No
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 5 obj:periph	color:blue
+1	哎唷	哎唷	INTJ	_	_	7	discourse	_	SpaceAfter=No
+2	，	，	PUNCT	_	_	1	punct	_	SpaceAfter=No
+3	哎吔	哎吔	INTJ	_	_	7	discourse	_	SpaceAfter=No
+4	，	，	PUNCT	_	_	3	punct	_	SpaceAfter=No
+5	呢個	呢個	PART	_	_	8	obj:periph	_	SpaceAfter=No
+6	冇	冇	VERB	_	_	0	root	_	SpaceAfter=No
+7	人	人	NOUN	_	_	6	obj	_	SpaceAfter=No
+8	贊成	贊成	VERB	_	_	7	acl	_	SpaceAfter=No
+9	嘅	嘅	PART	_	_	6	discourse:sp	_	SpaceAfter=No
+10	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 ~~~
 

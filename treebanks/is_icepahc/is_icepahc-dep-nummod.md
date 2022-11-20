@@ -11,7 +11,7 @@ This relation is universal.
 3243 nodes (0%) are attached to their parents as `nummod`.
 
 2427 instances of `nummod` (75%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.23003391921061.
+Average distance between parent and child is 1.22972556275054.
 
 The following 13 pairs of parts of speech are connected with `nummod`: <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> (2532; 78% instances), <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> (200; 6% instances), <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt>-<tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> (198; 6% instances), <tt><a href="is_icepahc-pos-X.html">X</a></tt>-<tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> (149; 5% instances), <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt>-<tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> (48; 1% instances), <tt><a href="is_icepahc-pos-DET.html">DET</a></tt>-<tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> (45; 1% instances), <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> (26; 1% instances), <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt>-<tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> (19; 1% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt>-<tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> (17; 1% instances), <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt>-<tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="is_icepahc-pos-X.html">X</a></tt>-<tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
@@ -28,7 +28,7 @@ The following 13 pairs of parts of speech are connected with `nummod`: <tt><a hr
 4	verið	vera	AUX	BEN	VerbForm=Sup|Voice=Act	2	cop	_	IFD_tag=ssg
 5	utan	utan	ADV	ADV	_	2	advmod	_	IFD_tag=aa
 6	tólf	tólf	NUM	NUM-A	Case=Acc|Gender=Masc|Number=Plur|NumType=Card	7	nummod	_	IFD_tag=tfkfo
-7	vetur	vetur	NOUN	NS-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	2	obl	_	IFD_tag=nkeo|SpaceAfter=No
+7	vetur	vetur	NOUN	NS-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur	2	obl	_	IFD_tag=nkfo|SpaceAfter=No
 8	.	.	PUNCT	.	_	7	punct	_	IFD_tag=.
 
 ~~~
@@ -46,8 +46,8 @@ The following 13 pairs of parts of speech are connected with `nummod`: <tt><a hr
 4	Kaldeos	kaldeos	PROPN	NPR-D	Foreign=Yes	2	obl	_	IFD_tag=e
 5	eins	eins	ADV	ADVR	_	2	advmod	_	IFD_tag=aa
 6	og	og	ADP	P	_	7	case	_	IFD_tag=c
-7	Jeremias	jeremias	PROPN	NPR-N	Foreign=Yes	5	obl	_	IFD_tag=e|SpaceAfter=No
-8	,	,	PUNCT	,	_	7	punct	_	IFD_tag=
+7	Jeremias	jeremías	PROPN	NPR-N	Foreign=Yes	5	obl	_	IFD_tag=e|SpaceAfter=No
+8	,	,	PUNCT	,	_	7	punct	_	IFD_tag
 9	Jer.	jer.	PROPN	NPR-N	_	7	dep	_	IFD_tag=x
 10	37	37	NUM	NUM-N	NumType=Card	9	nummod	_	IFD_tag=ta|SpaceAfter=No
 11	.	.	PUNCT	.	_	10	punct	_	IFD_tag=.

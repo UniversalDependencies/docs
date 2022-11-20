@@ -21,4 +21,4 @@ Hvis Ola synger , ler Kari \n If Ola sings , Kari laughs
 punct(synger,,)
 ~~~
  
-<!-- Interlanguage links updated So kvě 14 19:04:13 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:44 CET 2022 -->

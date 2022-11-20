@@ -22,9 +22,9 @@ The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 8 iobj	color:blue
-1	Өліп	өл	VERB	v	Aspect=Perf|VerbForm=Inf	4	ccomp	_	_
-2	бара	бар	AUX	vaux	Aspect=Imp|VerbForm=Inf	1	aux	_	_
-3	жатырмын	жат	AUX	vaux	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	aux	_	_
+1	Өліп	өл	VERB	v	Aspect=Perf|VerbForm=Inf	2	xcomp	_	_
+2	бара	бар	VERB	vaux	Aspect=Imp|VerbForm=Inf	4	ccomp	_	_
+3	жатырмын	жат	AUX	vaux	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
 4	десең	де	VERB	v	Mood=Cnd|Number=Sing|Person=2|VerbForm=Conv	9	advcl	_	SpaceAfter=No
 5	,	,	PUNCT	cm	_	4	punct	_	_
 6	қойға	қой	NOUN	n	Case=Dat	9	obl	_	_

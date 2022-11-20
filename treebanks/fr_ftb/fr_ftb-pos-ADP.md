@@ -76,9 +76,9 @@ The 2nd highest number of forms (2) was observed with the lemma “de”: <em>d'
 
 The 3rd highest number of forms (2) was observed with the lemma “depuis”: <em>DEPUIS, Depuis</em>.
 
-`ADP` occurs with 3 features: <tt><a href="fr_ftb-feat-Gender.html">Gender</a></tt> (89; 0% instances), <tt><a href="fr_ftb-feat-Number.html">Number</a></tt> (89; 0% instances), <tt><a href="fr_ftb-feat-Person.html">Person</a></tt> (89; 0% instances)
+`ADP` occurs with 2 features: <tt><a href="fr_ftb-feat-Gender.html">Gender</a></tt> (89; 0% instances), <tt><a href="fr_ftb-feat-Number.html">Number</a></tt> (89; 0% instances)
 
-`ADP` occurs with 5 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Person=3`
+`ADP` occurs with 4 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`
 
 `ADP` occurs with 4 feature combinations.
 The most frequent feature combination is `_` (92507 tokens).

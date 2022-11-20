@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal but the values `Con` are language-specific.
 It occurs with 4 different values: `Acc`, `Con`, `Nom`, `Voc`.
 
-3910 tokens (38%) have a non-empty value of `Case`.
-1887 types (68%) occur at least once with a non-empty value of `Case`.
-1267 lemmas (70%) occur at least once with a non-empty value of `Case`.
-The feature is used with 7 part-of-speech tags: <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (2622; 26% instances), <tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt> (634; 6% instances), <tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt> (441; 4% instances), <tt><a href="kmr_mg-pos-DET.html">DET</a></tt> (104; 1% instances), <tt><a href="kmr_mg-pos-NUM.html">NUM</a></tt> (97; 1% instances), <tt><a href="kmr_mg-pos-ADJ.html">ADJ</a></tt> (11; 0% instances), <tt><a href="kmr_mg-pos-X.html">X</a></tt> (1; 0% instances).
+3908 tokens (38%) have a non-empty value of `Case`.
+1884 types (68%) occur at least once with a non-empty value of `Case`.
+1266 lemmas (70%) occur at least once with a non-empty value of `Case`.
+The feature is used with 7 part-of-speech tags: <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (2621; 26% instances), <tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt> (633; 6% instances), <tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt> (441; 4% instances), <tt><a href="kmr_mg-pos-DET.html">DET</a></tt> (104; 1% instances), <tt><a href="kmr_mg-pos-NUM.html">NUM</a></tt> (97; 1% instances), <tt><a href="kmr_mg-pos-ADJ.html">ADJ</a></tt> (11; 0% instances), <tt><a href="kmr_mg-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-2622 <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Case`.
+2621 <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="kmr_mg-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (2317; 88%), <tt><a href="kmr_mg-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2312; 88%), <tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2151; 82%), <tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (1643; 63%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="kmr_mg-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (2316; 88%), <tt><a href="kmr_mg-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2311; 88%), <tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2150; 82%), <tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (1643; 63%).
 
 `NOUN` tokens may have the following values of `Case`:
 
 * `Acc` (822; 31% of non-empty `Case`): <em>gund, kurdan, caran, derî, odê, qesirê, dest, cih, salan, demê</em>
-* `Con` (1242; 47% of non-empty `Case`): <em>sala, oda, xweha, zirbavê, navê, serê, zimanê, dema, dengê, aliyê</em>
+* `Con` (1241; 47% of non-empty `Case`): <em>sala, oda, xweha, zirbavê, navê, serê, zimanê, dema, dengê, aliyê</em>
 * `Nom` (557; 21% of non-empty `Case`): <em>kurdî, banû, mirov, nav, tişt, gor, gorî, hûr, mar, seh</em>
 * `Voc` (1; 0% of non-empty `Case`): <em>zanyariyên</em>
 * `EMPTY` (32): <em>Dr., km, hwd, GAP</em>
@@ -39,22 +39,22 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `PRON`
 
-634 <tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt> tokens (72% of all `PRON` tokens) have a non-empty value of `Case`.
+633 <tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt> tokens (72% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="kmr_mg-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (634; 100%), <tt><a href="kmr_mg-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (540; 85%), <tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt> (487; 77%), <tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (448; 71%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="kmr_mg-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (633; 100%), <tt><a href="kmr_mg-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (540; 85%), <tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt> (487; 77%), <tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (447; 71%).
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Acc` (437; 69% of non-empty `Case`): <em>min, me, wî, _, wê, te, wan, we, vê, ewî</em>
-* `Nom` (197; 31% of non-empty `Case`): <em>em, ew, ez, ev, tu, emê, ezê, Honê, hûn, Eve</em>
-* `EMPTY` (245): <em>xwe, hev, çi, tukesî, Kî, kû, yekî, Herçî, Heçî, _</em>
+* `Acc` (436; 69% of non-empty `Case`): <em>min, me, wî, _, wê, te, wan, we, ew, vê</em>
+* `Nom` (197; 31% of non-empty `Case`): <em>em, ez, ew, tu, ev, hûn, Eve, Gelek, emê, hon</em>
+* `EMPTY` (243): <em>xwe, hev, çi, tukesî, Kî, kû, yekî, Herçî, _, gelekê</em>
 
 <table>
   <tr><th>Paradigm <i>ew</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
   <tr><td><tt><tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="kmr_mg-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kmr_mg-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>wî, ewî, wi</em></td></tr>
   <tr><td><tt><tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="kmr_mg-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td></td><td><em>_</em></td></tr>
   <tr><td><tt><tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt>|<tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="kmr_mg-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kmr_mg-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>ew, Eve</em></td><td><em>_</em></td></tr>
-  <tr><td><tt><tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt>|<tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="kmr_mg-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td></td><td><em>_</em></td></tr>
+  <tr><td><tt><tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt>|<tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="kmr_mg-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td></td><td><em>_, ew</em></td></tr>
   <tr><td><tt><tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt>|<tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt>|<tt><a href="kmr_mg-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kmr_mg-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>ew</em></td><td></td></tr>
   <tr><td><tt><tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt>|<tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="kmr_mg-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kmr_mg-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>ew</em></td><td><em>wan</em></td></tr>
   <tr><td><tt><tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt>|<tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="kmr_mg-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td></td><td><em>wan</em></td></tr>
@@ -134,12 +134,12 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 ### `X`
 
-1 <tt><a href="kmr_mg-pos-X.html">X</a></tt> tokens (1% of all `X` tokens) have a non-empty value of `Case`.
+1 <tt><a href="kmr_mg-pos-X.html">X</a></tt> tokens (3% of all `X` tokens) have a non-empty value of `Case`.
 
 `X` tokens may have the following values of `Case`:
 
 * `Con` (1; 100% of non-empty `Case`): <em>mûrên</em>
-* `EMPTY` (148): <em>li, ji, ber, bi, dema, gelek, hişyar, alfabeya, berdewam, dayîk</em>
+* `EMPTY` (29): <em>gelek, hişyar, alfabeya, berdewam, dayîk, ji, pêşkêş, Li, bi, binav</em>
 
 ## Relations with Agreement in `Case`
 

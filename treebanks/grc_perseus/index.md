@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Giuseppe G. A. Celano, Daniel Zeman.
 
 Repository: [UD_Ancient_Greek-Perseus](https://github.com/UniversalDependencies/UD_Ancient_Greek-Perseus)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgrc_perseus210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgrc_perseus211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-NC-SA 2.5
 
@@ -129,7 +129,7 @@ Further details can be found at:
 
 ## POS Tags
 
-[ADJ](grc_perseus-pos-ADJ.html) – [ADP](grc_perseus-pos-ADP.html) – [ADV](grc_perseus-pos-ADV.html) – [CCONJ](grc_perseus-pos-CCONJ.html) – [DET](grc_perseus-pos-DET.html) – [INTJ](grc_perseus-pos-INTJ.html) – [NOUN](grc_perseus-pos-NOUN.html) – [NUM](grc_perseus-pos-NUM.html) – [PART](grc_perseus-pos-PART.html) – [PRON](grc_perseus-pos-PRON.html) – [PUNCT](grc_perseus-pos-PUNCT.html) – [SCONJ](grc_perseus-pos-SCONJ.html) – [VERB](grc_perseus-pos-VERB.html) – [X](grc_perseus-pos-X.html)
+[ADJ](grc_perseus-pos-ADJ.html) – [ADP](grc_perseus-pos-ADP.html) – [ADV](grc_perseus-pos-ADV.html) – [AUX](grc_perseus-pos-AUX.html) – [CCONJ](grc_perseus-pos-CCONJ.html) – [DET](grc_perseus-pos-DET.html) – [INTJ](grc_perseus-pos-INTJ.html) – [NOUN](grc_perseus-pos-NOUN.html) – [NUM](grc_perseus-pos-NUM.html) – [PART](grc_perseus-pos-PART.html) – [PRON](grc_perseus-pos-PRON.html) – [PUNCT](grc_perseus-pos-PUNCT.html) – [SCONJ](grc_perseus-pos-SCONJ.html) – [VERB](grc_perseus-pos-VERB.html) – [X](grc_perseus-pos-X.html)
 
 ## Features
 
@@ -137,7 +137,7 @@ Further details can be found at:
 
 ## Relations
 
-[acl](grc_perseus-dep-acl.html) – [advcl](grc_perseus-dep-advcl.html) – [advmod](grc_perseus-dep-advmod.html) – [amod](grc_perseus-dep-amod.html) – [appos](grc_perseus-dep-appos.html) – [aux](grc_perseus-dep-aux.html) – [case](grc_perseus-dep-case.html) – [cc](grc_perseus-dep-cc.html) – [ccomp](grc_perseus-dep-ccomp.html) – [conj](grc_perseus-dep-conj.html) – [cop](grc_perseus-dep-cop.html) – [csubj](grc_perseus-dep-csubj.html) – [det](grc_perseus-dep-det.html) – [iobj](grc_perseus-dep-iobj.html) – [mark](grc_perseus-dep-mark.html) – [nmod](grc_perseus-dep-nmod.html) – [nsubj](grc_perseus-dep-nsubj.html) – [nummod](grc_perseus-dep-nummod.html) – [obj](grc_perseus-dep-obj.html) – [obl](grc_perseus-dep-obl.html) – [parataxis](grc_perseus-dep-parataxis.html) – [punct](grc_perseus-dep-punct.html) – [root](grc_perseus-dep-root.html) – [vocative](grc_perseus-dep-vocative.html) – [xcomp](grc_perseus-dep-xcomp.html)
+[acl](grc_perseus-dep-acl.html) – [advcl](grc_perseus-dep-advcl.html) – [advmod](grc_perseus-dep-advmod.html) – [amod](grc_perseus-dep-amod.html) – [appos](grc_perseus-dep-appos.html) – [aux](grc_perseus-dep-aux.html) – [case](grc_perseus-dep-case.html) – [cc](grc_perseus-dep-cc.html) – [ccomp](grc_perseus-dep-ccomp.html) – [conj](grc_perseus-dep-conj.html) – [cop](grc_perseus-dep-cop.html) – [csubj](grc_perseus-dep-csubj.html) – [det](grc_perseus-dep-det.html) – [discourse](grc_perseus-dep-discourse.html) – [iobj](grc_perseus-dep-iobj.html) – [mark](grc_perseus-dep-mark.html) – [nmod](grc_perseus-dep-nmod.html) – [nsubj](grc_perseus-dep-nsubj.html) – [nummod](grc_perseus-dep-nummod.html) – [obj](grc_perseus-dep-obj.html) – [obl](grc_perseus-dep-obl.html) – [parataxis](grc_perseus-dep-parataxis.html) – [punct](grc_perseus-dep-punct.html) – [root](grc_perseus-dep-root.html) – [vocative](grc_perseus-dep-vocative.html) – [xcomp](grc_perseus-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -166,8 +166,8 @@ Further details can be found at:
 <h3>Tags</h3>
 
 <ul>
-<li>This corpus uses 14 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
-<li>This corpus does not use the following tags: PROPN, AUX, SYM</li>
+<li>This corpus uses 15 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
+<li>This corpus does not use the following tags: PROPN, SYM</li>
 </ul>
 
 <ul>
@@ -187,10 +187,11 @@ Further details can be found at:
 </ul>
 
 <ul>
-<li>This corpus contains 0 lemmas tagged as auxiliaries (AUX): </li>
+<li>This corpus contains 2 lemmas tagged as auxiliaries (AUX): εἰμί, ἔχω</li>
 </ul>
 
 <ul>
+<li>Out of the above, 2 lemmas occurred sometimes as AUX and sometimes as VERB: εἰμί, ἔχω</li>
 </ul>
 
 <ul>
@@ -200,7 +201,8 @@ Further details can be found at:
 <ul>
   <li>Fin
   <ul>
-    <li>VERB: ἦν, προσέφη, ἔφη, ἔχει, φησιν, ἦσαν, φάτο, ἐστὶ, προσηύδα, ἐστι</li>
+    <li>AUX: ἦν, ἦσαν, ἐστὶ, ἐστι, ἐστιν, εἴη, ἐστὶν, ἐστί, ἔσται, ἦεν</li>
+    <li>VERB: προσέφη, ἔφη, ἔχει, φησιν, φάτο, προσηύδα, ἔφατ̓, ἐγένετο, φησι, βῆ</li>
     <li>X: ξύμβληντο, φύεν, ἔσχεθον</li>
   </ul>
   </li>
@@ -209,7 +211,8 @@ Further details can be found at:
 <ul>
   <li>Inf
   <ul>
-    <li>VERB: εἶναι, γενέσθαι, ἔχειν, μάχεσθαι, λέγειν, ἰέναι, εἰπεῖν, ἔμμεναι, φέρειν, λαβεῖν</li>
+    <li>AUX: εἶναι, ἔμμεναι, ἔμεναι, ἔσεσθαι, εἶναί, ἔμεν, ἔσσεσθ̓, ἔμμεν, ἔσσεσθαι</li>
+    <li>VERB: γενέσθαι, ἔχειν, μάχεσθαι, λέγειν, ἰέναι, εἰπεῖν, φέρειν, λαβεῖν, ἰδεῖν, πολεμίζειν</li>
   </ul>
   </li>
 </ul>
@@ -217,7 +220,8 @@ Further details can be found at:
 <ul>
   <li>Part
   <ul>
-    <li>VERB: ἔχων, ἰδὼν, εἰπὼν, ἔχοντες, ὢν, λέγων, ἐόντα, ἐὼν, φωνήσας, ἀπαμειβόμενος</li>
+    <li>AUX: ὢν, ἐόντα, ἐὼν, οὖσαν, ὄντα, ὄντας, ἐὸν, ὄντες, οὖσα, ἐοῦσα</li>
+    <li>VERB: ἔχων, ἰδὼν, εἰπὼν, ἔχοντες, λέγων, φωνήσας, ἀπαμειβόμενος, λαβὼν, ἐλθὼν, γενομένης</li>
   </ul>
   </li>
 </ul>
@@ -233,12 +237,13 @@ Further details can be found at:
   <li>Fem
     <ul>
       <li>ADJ: πᾶσαν, ταύτην, πότνια, αὐτὴν, μεγάλην, ταύτης, πᾶσα, πολλὴν, αὐτῇ, αὕτη</li>
+      <li>AUX: οὖσαν, οὖσα, ἐοῦσα, οὔσης, ἐούσης, ἐοῦσαν, οὖσαι, ἐσομένην, οὔσας, ἐουσέων</li>
+      <li>AUX-Part: οὖσαν, οὖσα, ἐοῦσα, οὔσης, ἐούσης, ἐοῦσαν, οὖσαι, ἐσομένην, οὔσας, ἐουσέων</li>
       <li>DET: τὴν, τῆς, τὰς, τῇ, ἡ, τῶν, ταῖς, αἱ, τήν, ἣ</li>
       <li>NOUN: πόλιν, νῆας, μάχης, χεῖρας, Ἥρη, χερσὶν, Ἀθήνη, μήτηρ, δύναμιν, νηυσὶν</li>
       <li>PRON: τὴν, ἣ, μοι, ἣν, ἐγὼ, αὐτὴν, αὐτῆς, αἳ, ἥ, τῇ</li>
-      <li>VERB: γενομένης, οὖσαν, ἔχουσα, γενομένην, ἔχουσαι, ἱσταμένη, λαβοῦσα, οὖσα, φωνήσασα, ἐοῦσα</li>
       <li>VERB-Fin: πειρασόμεθα</li>
-      <li>VERB-Part: γενομένης, οὖσαν, ἔχουσα, γενομένην, ἔχουσαι, ἱσταμένη, λαβοῦσα, οὖσα, φωνήσασα, ἐοῦσα</li>
+      <li>VERB-Part: γενομένης, ἔχουσα, γενομένην, ἔχουσαι, ἱσταμένη, λαβοῦσα, φωνήσασα, ἔχουσαν, ἰδοῦσα, λισσομένη</li>
       <li>X: τάς</li>
     </ul>
   </li>
@@ -248,13 +253,14 @@ Further details can be found at:
   <li>Masc
     <ul>
       <li>ADJ: Ἀχαιῶν, αὐτὸς, πάντες, πάντας, πάντων, αὐτῷ, αὐτὸν, μέγας, οὗτος, ἄλλοι</li>
+      <li>AUX-Part: ὢν, ἐὼν, ἐόντα, ὄντας, ὄντες, ὄντα, ἐόντες, ὄντων, ὤν, ἐόντι</li>
       <li>DET: τῶν, ὁ, τὸν, τοὺς, οἱ, τοῦ, τοῖς, τῷ, ὃ, τοῖσι</li>
       <li>NOUN: θεῶν, ἀνδρῶν, Ἕκτωρ, Διὸς, θυμὸν, ἵππους, Ζεὺς, πόλεμον, θυμῷ, ἀνθρώπων</li>
       <li>NUM: τρισὶ, τρεισκαίδεκα</li>
       <li>PRON: οἱ, τὸν, ὃ, μοι, οἳ, μιν, τις, ἐγὼ, με, μ̓</li>
-      <li>VERB: ἔχων, ἰδὼν, εἰπὼν, ἔχοντες, ὢν, λέγων, ἐὼν, ἐόντα, φωνήσας, ἀπαμειβόμενος</li>
+      <li>VERB: ἔχων, ἰδὼν, εἰπὼν, ἔχοντες, λέγων, φωνήσας, ἀπαμειβόμενος, λαβὼν, ἐλθὼν, φέρων</li>
       <li>VERB-Fin: εἶπας, μηχανώμενος, παρέχων, ποιέων</li>
-      <li>VERB-Part: ἔχων, ἰδὼν, εἰπὼν, ἔχοντες, ὢν, λέγων, ἐὼν, ἐόντα, φωνήσας, ἀπαμειβόμενος</li>
+      <li>VERB-Part: ἔχων, ἰδὼν, εἰπὼν, ἔχοντες, λέγων, φωνήσας, ἀπαμειβόμενος, λαβὼν, ἐλθὼν, φέρων</li>
       <li>X: Λάϊον</li>
     </ul>
   </li>
@@ -264,12 +270,13 @@ Further details can be found at:
   <li>Neut
     <ul>
       <li>ADJ: μέγα, πάντα, πολλὰ, πρῶτον, ταῦτα, πολὺ, πᾶν, τοῦτο, πρότερον, κακὸν</li>
+      <li>AUX-Part: ἐὸν, ἐόντα, ὄντα, ἐόν, ὂν, οὖσι, ἐόντος, ὄν, ὄντι, ὄντος</li>
       <li>DET: τὸ, τὰ, τῶν, τοῦ, τῷ, τοῖς, τά, τό, τοῖσι, τὼ</li>
       <li>NOUN: μένος, ἔγχος, τεῖχος, δουρὶ, ἔπος, ἄστυ, ἔπεα, ἔργα, ἔργον, κῦδος</li>
       <li>NUM: τρία</li>
       <li>PRON: τι, τί, ταῦτα, τάδε, τοῦτο, τὰ, ὅ, τούτων, τὸ, ὧν</li>
-      <li>VERB: ἐὸν, τετελεσμένον, αἰθομένοιο, ἐόντα, ὄντα, παμφανόωντα, πραττομένοις, γενόμενον, μαρμαίροντα, παρόντων</li>
-      <li>VERB-Part: ἐὸν, τετελεσμένον, αἰθομένοιο, ἐόντα, ὄντα, παμφανόωντα, πραττομένοις, γενόμενον, μαρμαίροντα, παρόντων</li>
+      <li>VERB: τετελεσμένον, αἰθομένοιο, παμφανόωντα, πραττομένοις, γενόμενον, μαρμαίροντα, παρόντων, ἔχον, γενόμενα, δέον</li>
+      <li>VERB-Part: τετελεσμένον, αἰθομένοιο, παμφανόωντα, πραττομένοις, γενόμενον, μαρμαίροντα, παρόντων, ἔχον, γενόμενα, δέον</li>
       <li>X: τί, τέκμαρ, τὰ</li>
     </ul>
   </li>
@@ -284,6 +291,8 @@ Further details can be found at:
   <li>Dual
     <ul>
       <li>ADJ: ἄμφω, ἀέκοντε, ἀμφοτέρω, αὐτὼ, δυοῖν, δοιὼ, τούτω, αὐτώ, πρώτω, δυεῖν</li>
+      <li>AUX-Fin: ἐστὸν, ἐστόν, ἤστην</li>
+      <li>AUX-Part: ἐόντ̓, ἐόντε</li>
       <li>DET: τὼ, τοῖν</li>
       <li>NOUN: ὄσσε, Αἴαντε, χεροῖν, ὤμοιιν, τένοντε, δοῦρε, ποδοῖιν, χεῖρε, ἵππω, παῖδε</li>
       <li>PRON: τὼ, νῶϊ, τώ, σφῶϊν, σφὼ, σφῶϊ, νῷν, σφωϊν, σφῷν, νὼ</li>
@@ -297,13 +306,15 @@ Further details can be found at:
   <li>Plur
     <ul>
       <li>ADJ: Ἀχαιῶν, πάντα, πάντες, πολλὰ, πάντων, πάντας, ταῦτα, ἄλλων, ἄλλοι, πτερόεντα</li>
+      <li>AUX-Fin: ἦσαν, εἰσὶ, ἔσαν, εἰσι, εἰσιν, εἰσὶν, ἔασιν, εἰσί, εἶεν, ἔστε</li>
+      <li>AUX-Part: ὄντας, ὄντες, ἐόντες, ὄντων, ὄντα, ἐόντα, ἐόντας, ἐόντων, οὖσαι, οὖσι</li>
       <li>DET: τῶν, τοὺς, οἱ, τοῖς, τὰ, τὰς, ταῖς, αἱ, τοῖσι, οἳ</li>
       <li>NOUN: θεῶν, ἀνδρῶν, ἵππους, Τρώων, νῆας, ἀνθρώπων, θεοὶ, Ἀθηναῖοι, Ἀθηναίων, Ἑλλήνων</li>
       <li>NUM: τρισὶ, τρία, τρεισκαίδεκα</li>
       <li>PRON: οἳ, ταῦτα, τάδε, αὐτῶν, ὧν, αὐτοῖς, τῶν, τούτων, τὰ, σφι</li>
-      <li>VERB-Fin: ἦσαν, ἐγένοντο, εἶχον, ἔχον, λέγουσι, ἕποντο, εἰσὶ, φέρον, κατέστησαν, ἦλθον</li>
+      <li>VERB-Fin: ἐγένοντο, εἶχον, ἔχον, λέγουσι, ἕποντο, φέρον, κατέστησαν, ἦλθον, φασὶ, ἔχουσιν</li>
       <li>VERB-Inf: πεῖραν, ἐνδῦσαι</li>
-      <li>VERB-Part: ἔχοντες, ὁρῶντες, βουλόμενοι, φέροντες, ὄντας, ἔχοντας, ἔχουσαι, ὄντες, ἰόντες, γενομένων</li>
+      <li>VERB-Part: ἔχοντες, ὁρῶντες, βουλόμενοι, φέροντες, ἔχοντας, ἔχουσαι, ἰόντες, γενομένων, λέγοντες, ποιησάμενοι</li>
       <li>X: τοῖσι, ξύμβληντο, τάς, τὰ, ἔσχεθον</li>
       <li>X-Fin: ξύμβληντο, ἔσχεθον</li>
     </ul>
@@ -314,13 +325,16 @@ Further details can be found at:
   <li>Sing
     <ul>
       <li>ADJ: μέγα, αὐτὸς, πρῶτον, φίλον, αὐτῷ, κακὸν, αὐτὸν, πολὺ, πᾶν, μέγας</li>
+      <li>AUX: ἦν, ἐστὶ, ἐστι, ἐστιν, ὢν, εἴη, ἐὼν, ἐόντα, ἐστὶν, ἐστί</li>
+      <li>AUX-Fin: ἦν, ἐστὶ, ἐστι, ἐστιν, εἴη, ἐστὶν, ἐστί, ἔσται, ἦεν, ἐσσι</li>
+      <li>AUX-Part: ὢν, ἐὼν, ἐόντα, οὖσαν, ἐὸν, ὄντα, οὖσα, ἐοῦσα, οὔσης, ἐόντος</li>
       <li>DET: τὴν, ὁ, τὸν, τὸ, τῆς, τοῦ, τῷ, τῇ, ἡ, ὃ</li>
       <li>NOUN: Ἕκτωρ, Διὸς, θυμὸν, πόλιν, Ζεὺς, μένος, πόλεμον, θυμῷ, ἔγχος, ἀνὴρ</li>
       <li>PRON: οἱ, τὸν, μοι, ὃ, μιν, ἐγὼ, τι, τις, τί, σὺ</li>
-      <li>VERB: ἦν, ἔχων, προσέφη, ἔφη, ἔχει, φησιν, φάτο, ἐστὶ, προσηύδα, ἰδὼν</li>
-      <li>VERB-Fin: ἦν, προσέφη, ἔφη, ἔχει, φησιν, φάτο, ἐστὶ, προσηύδα, ἐστι, ἔφατ̓</li>
+      <li>VERB: ἔχων, προσέφη, ἔφη, ἔχει, φησιν, φάτο, προσηύδα, ἰδὼν, εἰπὼν, ἔφατ̓</li>
+      <li>VERB-Fin: προσέφη, ἔφη, ἔχει, φησιν, φάτο, προσηύδα, ἔφατ̓, ἐγένετο, φησι, βῆ</li>
       <li>VERB-Inf: γεννᾶν, γυμνοῦν, κηρύξαι, ἐπιγελᾶν</li>
-      <li>VERB-Part: ἔχων, ἰδὼν, εἰπὼν, ὢν, λέγων, ἐὼν, ἐόντα, φωνήσας, ἀπαμειβόμενος, λαβὼν</li>
+      <li>VERB-Part: ἔχων, ἰδὼν, εἰπὼν, λέγων, φωνήσας, ἀπαμειβόμενος, λαβὼν, ἐλθὼν, γενομένης, φέρων</li>
       <li>X: τί, Λάϊον, τέκμαρ, φύεν</li>
       <li>X-Fin: φύεν</li>
     </ul>
@@ -335,10 +349,11 @@ Further details can be found at:
   <li>Acc
     <ul>
       <li>ADJ: μέγα, πάντα, πρῶτον, πολλὰ, πάντας, αὐτὸν, πολὺ, ταῦτα, κακὸν, φίλον</li>
+      <li>AUX-Part: ἐόντα, οὖσαν, ὄντα, ὄντας, ἐοῦσαν, ἐὸν, ἐόντας, ἐσομένην, ἐόν, ὂν</li>
       <li>DET: τὴν, τὸν, τοὺς, τὸ, τὰ, τὰς, τήν, τά, τόν, τούς</li>
       <li>NOUN: ἵππους, θυμὸν, πόλιν, νῆας, πόλεμον, μῦθον, μένος, ἄνδρα, χρόνον, ἔγχος</li>
       <li>PRON: τὸν, μιν, τι, τί, με, ταῦτα, σε, μ̓, σ̓, αὐτὸν</li>
-      <li>VERB-Part: ἐόντα, οὖσαν, ἔχοντα, μεμαῶτα, ὄντα, γενομένην, ὄντας, ἔχοντας, γενόμενον, κείμενον</li>
+      <li>VERB-Part: ἔχοντα, μεμαῶτα, γενομένην, ἔχοντας, γενόμενον, κείμενον, φέροντα, ἑσταότ̓, ἔχουσαν, ἐπιόντα</li>
       <li>X: τί, Λάϊον, τάς, τέκμαρ</li>
     </ul>
   </li>
@@ -348,12 +363,13 @@ Further details can be found at:
   <li>Dat
     <ul>
       <li>ADJ: αὐτῷ, πᾶσιν, πᾶσι, πολλῷ, ἀθανάτοισι, μεγάλῳ, ὀξέϊ, αὐτοῖς, αὐτῇ, τούτῳ</li>
+      <li>AUX-Part: ἐόντι, ὄντι, οὖσι, οὖσιν, οὔσαις</li>
       <li>DET: τοῖς, τῷ, τῇ, ταῖς, τοῖσι, τῇσι, οἱ, τοῖσιν, τὸ, τᾷ</li>
       <li>NOUN: θυμῷ, δουρὶ, χαλκῷ, χερσὶν, Τρώεσσι, νηυσὶν, χειρὶ, Ἕκτορι, νηυσὶ, φρεσὶ</li>
       <li>NUM: τρισὶ</li>
       <li>PRON: οἱ, μοι, τοι, τῷ, αὐτῷ, αὐτοῖς, ἐμοὶ, σοὶ, σφι, σοι</li>
-      <li>VERB: θανόντι, ἔχοντι, βουλομένοις, παρόντι, ἐπιγραφομένῳ, πραττομένοις, ἐόντι, ὄντι, γενομένοις, θανοῦσιν</li>
-      <li>VERB-Part: θανόντι, ἔχοντι, βουλομένοις, παρόντι, ἐπιγραφομένῳ, πραττομένοις, ἐόντι, ὄντι, γενομένοις, θανοῦσιν</li>
+      <li>VERB: θανόντι, ἔχοντι, βουλομένοις, παρόντι, ἐπιγραφομένῳ, πραττομένοις, γενομένοις, θανοῦσιν, κατατεθνηῶτι, μεμαῶτι</li>
+      <li>VERB-Part: θανόντι, ἔχοντι, βουλομένοις, παρόντι, ἐπιγραφομένῳ, πραττομένοις, γενομένοις, θανοῦσιν, κατατεθνηῶτι, μεμαῶτι</li>
       <li>X: τοῖσι</li>
     </ul>
   </li>
@@ -363,6 +379,7 @@ Further details can be found at:
   <li>Gen
     <ul>
       <li>ADJ: Ἀχαιῶν, πάντων, ἄλλων, πολλῶν, αὐτοῦ, αὐτῶν, κακῶν, τούτων, Ἀργείων, ἁπάντων</li>
+      <li>AUX-Part: ὄντων, οὔσης, ἐόντος, ὄντος, ἐούσης, ἐόντων, ἐουσέων, οὐσῶν</li>
       <li>DET: τῶν, τῆς, τοῦ, τᾶς, τοῖο, τοῖν, τῇ, τᾶν, τῶ</li>
       <li>NOUN: θεῶν, ἀνδρῶν, Διὸς, Τρώων, ἀνθρώπων, Ἀθηναίων, Ἑλλήνων, μάχης, ἵππων, πατρὸς</li>
       <li>PRON: αὐτοῦ, αὐτῶν, τοῦ, ὧν, τῶν, τούτων, αὐτῆς, οὗ, τούτου, ἐμοῦ</li>
@@ -383,13 +400,15 @@ Further details can be found at:
   <li>Nom
     <ul>
       <li>ADJ: αὐτὸς, πάντες, μέγας, ἄλλοι, δῖος, οὗτος, ἕκαστος, πρῶτος, Ἀχαιοὶ, αὐτοὶ</li>
+      <li>AUX: ὢν, ἐὼν, ὄντες, οὖσα, ἐοῦσα, ἐόντες, ἐὸν, ὤν, ἐών, ἐόντα</li>
+      <li>AUX-Part: ὢν, ἐὼν, ὄντες, οὖσα, ἐοῦσα, ἐόντες, ἐὸν, ὤν, ἐών, ἐόντα</li>
       <li>DET: ὁ, οἱ, ἡ, τὸ, τὰ, ὃ, αἱ, οἳ, ἣ, οἵ</li>
       <li>NOUN: Ἕκτωρ, Ζεὺς, ἀνὴρ, Ἀθηναῖοι, θεοὶ, Ἀπόλλων, Ἀχιλλεύς, Αἴας, Τρῶες, πατὴρ</li>
       <li>NUM: τρία</li>
       <li>PRON: ὃ, ἐγὼ, τις, οἳ, σὺ, ὃς, τίς, ἣ, ὅς, ὅ</li>
-      <li>VERB: ἔχων, ἰδὼν, εἰπὼν, ἔχοντες, ὢν, λέγων, ἐὼν, φωνήσας, ἀπαμειβόμενος, λαβὼν</li>
+      <li>VERB: ἔχων, ἰδὼν, εἰπὼν, ἔχοντες, λέγων, φωνήσας, ἀπαμειβόμενος, λαβὼν, ἐλθὼν, φέρων</li>
       <li>VERB-Fin: εἶπας, μηχανώμενος, παρέχων, ποιέων</li>
-      <li>VERB-Part: ἔχων, ἰδὼν, εἰπὼν, ἔχοντες, ὢν, λέγων, ἐὼν, φωνήσας, ἀπαμειβόμενος, λαβὼν</li>
+      <li>VERB-Part: ἔχων, ἰδὼν, εἰπὼν, ἔχοντες, λέγων, φωνήσας, ἀπαμειβόμενος, λαβὼν, ἐλθὼν, φέρων</li>
       <li>X: τὰ</li>
     </ul>
   </li>
@@ -446,7 +465,8 @@ Further details can be found at:
 <ul>
   <li>Imp
     <ul>
-      <li>VERB-Fin: ἦν, προσέφη, ἔφη, ἦσαν, προσηύδα, ἔφατ̓, ἦ, ἔφαθ̓, ἠμείβετ̓, εἶχε</li>
+      <li>AUX-Fin: ἦν, ἦσαν, ἦεν, ἔην, ἔσαν, ἔσκε, ἦσθα, ἔσκον, ἦ, ἦμεν</li>
+      <li>VERB-Fin: προσέφη, ἔφη, προσηύδα, ἔφατ̓, ἦ, ἔφαθ̓, ἠμείβετ̓, εἶχε, εἶχον, ἔχον</li>
       <li>X-Fin: φύεν</li>
     </ul>
   </li>
@@ -469,6 +489,7 @@ Further details can be found at:
 <ul>
   <li>Imp
     <ul>
+      <li>AUX-Fin: ἔστω, ἔστε, ἔστων, ἔστωσαν, ἔχε</li>
       <li>VERB-Fin: δὸς, ἴθι, ἴτω, ἔα, ἴθ̓, εἰπὲ, θάρσει, βάλλεο, δέξαι, λέγ̓</li>
     </ul>
   </li>
@@ -477,7 +498,8 @@ Further details can be found at:
 <ul>
   <li>Ind
     <ul>
-      <li>VERB-Fin: ἦν, προσέφη, ἔφη, ἔχει, φησιν, ἦσαν, φάτο, ἐστὶ, προσηύδα, ἐστι</li>
+      <li>AUX-Fin: ἦν, ἦσαν, ἐστὶ, ἐστι, ἐστιν, ἐστὶν, ἐστί, ἔσται, ἦεν, εἰσὶ</li>
+      <li>VERB-Fin: προσέφη, ἔφη, ἔχει, φησιν, φάτο, προσηύδα, ἔφατ̓, ἐγένετο, φησι, βῆ</li>
       <li>X-Fin: ξύμβληντο, φύεν, ἔσχεθον</li>
     </ul>
   </li>
@@ -486,7 +508,8 @@ Further details can be found at:
 <ul>
   <li>Opt
     <ul>
-      <li>VERB-Fin: εἴη, γένοιτο, γένοιτ̓, ἔχοι, ἴδοι, εἴην, εἴποι, λάβοι, μέλλοι, ἵκοιτο</li>
+      <li>AUX-Fin: εἴη, εἴην, εἶεν, εἴης, εἴησαν</li>
+      <li>VERB-Fin: γένοιτο, γένοιτ̓, ἔχοι, ἴδοι, εἴποι, λάβοι, μέλλοι, ἵκοιτο, φέροι, ἐθέλοιμι</li>
     </ul>
   </li>
 </ul>
@@ -494,7 +517,8 @@ Further details can be found at:
 <ul>
   <li>Sub
     <ul>
-      <li>VERB-Fin: γένηται, εἴπω, ᾖ, πειθώμεθα, δώῃ, ἴομεν, ἔλθῃ, ἵκηται, εἴπῃς, τύχῃ</li>
+      <li>AUX-Fin: ᾖ, ὦσιν, ἔω, ἔωσι, ἔωσιν, ἔῃ, ὦ, ᾖς, ᾖσιν</li>
+      <li>VERB-Fin: γένηται, εἴπω, πειθώμεθα, δώῃ, ἴομεν, ἔλθῃ, ἵκηται, εἴπῃς, τύχῃ, ἐθέλῃσθα</li>
     </ul>
   </li>
 </ul>
@@ -506,9 +530,12 @@ Further details can be found at:
 <ul>
   <li>Fut
     <ul>
-      <li>VERB-Fin: ἔσται, ἐρέω, δώσω, ἔσσεται, ἐρεῖς, φράσω, ἐξερέω, πείσομαι, δείξω, εἰσόμεσθα</li>
-      <li>VERB-Inf: δώσειν, ἔσεσθαι, βαλέειν, ποιήσειν, ἵξεσθαι, ῥέξειν, ἕξειν, ὄψεσθαι, αἱρήσειν, καταλύσειν</li>
-      <li>VERB-Part: καλουμένην, ἀγγελέουσα, καλουμένας, καλουμένων, ἐρέων, ἐσομένην, βοηθήσοντα, δεησομένους, κακκείοντες, καλεόμενον</li>
+      <li>AUX-Fin: ἔσται, ἔσσεται, ἔσει, ἔσονται, ἔσσομαι, ἔσῃ, ἐσσεῖται, ἔσεσθε, ἔσσεαι, ἐσσόμεσθα</li>
+      <li>AUX-Inf: ἔσεσθαι, ἔσσεσθ̓, ἔσσεσθαι</li>
+      <li>AUX-Part: ἐσομένην, ἐσομένους</li>
+      <li>VERB-Fin: ἐρέω, δώσω, ἐρεῖς, φράσω, ἐξερέω, πείσομαι, δείξω, εἰσόμεσθα, λέξεις, λύσω</li>
+      <li>VERB-Inf: δώσειν, βαλέειν, ποιήσειν, ἵξεσθαι, ῥέξειν, ἕξειν, ὄψεσθαι, αἱρήσειν, καταλύσειν, καταπαυσέμεν</li>
+      <li>VERB-Part: καλουμένην, ἀγγελέουσα, καλουμένας, καλουμένων, ἐρέων, βοηθήσοντα, δεησομένους, κακκείοντες, καλεόμενον, καλεόμενος</li>
     </ul>
   </li>
 </ul>
@@ -516,8 +543,9 @@ Further details can be found at:
 <ul>
   <li>Past
     <ul>
-      <li>VERB: ἦν, προσέφη, ἔφη, γενέσθαι, ἦσαν, φάτο, προσηύδα, ἰδὼν, εἰπὼν, ἔφατ̓</li>
-      <li>VERB-Fin: ἦν, προσέφη, ἔφη, ἦσαν, φάτο, προσηύδα, ἔφατ̓, ἐγένετο, βῆ, ἦ</li>
+      <li>AUX-Fin: ἦν, ἦσαν, ἦεν, ἔην, ἔσαν, ἔσκε, ἦσθα, ἔσκον, ἦ, ἦμεν</li>
+      <li>VERB: προσέφη, ἔφη, γενέσθαι, φάτο, προσηύδα, ἰδὼν, εἰπὼν, ἔφατ̓, ἐγένετο, βῆ</li>
+      <li>VERB-Fin: προσέφη, ἔφη, φάτο, προσηύδα, ἔφατ̓, ἐγένετο, βῆ, ἦ, εἶπε, ἐγένοντο</li>
       <li>VERB-Inf: γενέσθαι, εἰπεῖν, λαβεῖν, ἰδεῖν, θανεῖν, ἐλθεῖν, γεγονέναι, δοῦναι, μαχέσασθαι, μαθεῖν</li>
       <li>VERB-Part: ἰδὼν, εἰπὼν, φωνήσας, λαβὼν, ἐλθὼν, γενομένης, γενόμενος, πεσών, ἑλὼν, εἰδὼς</li>
       <li>X-Fin: ξύμβληντο, φύεν, ἔσχεθον</li>
@@ -537,10 +565,14 @@ Further details can be found at:
 <ul>
   <li>Pres
     <ul>
-      <li>VERB: εἶναι, ἔχων, ἔχει, φησιν, ἐστὶ, ἐστι, ἔχειν, ἐστιν, ἔχοντες, φησι</li>
-      <li>VERB-Fin: ἔχει, φησιν, ἐστὶ, ἐστι, ἐστιν, φησι, χρὴ, φησὶν, εἴη, ἔχω</li>
-      <li>VERB-Inf: εἶναι, ἔχειν, μάχεσθαι, λέγειν, ἰέναι, ἔμμεναι, φέρειν, πολεμίζειν, φρονεῖν, νέεσθαι</li>
-      <li>VERB-Part: ἔχων, ἔχοντες, ὢν, λέγων, ἐόντα, ἐὼν, ἀπαμειβόμενος, φέρων, ἄγων, ἔχοντα</li>
+      <li>AUX: εἶναι, ἐστὶ, ἐστι, ἐστιν, ὢν, ἐόντα, εἴη, ἐὼν, ἐστὶν, ἐστί</li>
+      <li>AUX-Fin: ἐστὶ, ἐστι, ἐστιν, εἴη, ἐστὶν, ἐστί, εἰσὶ, ἐσσι, ἔστι, ἔστ̓</li>
+      <li>AUX-Inf: εἶναι, ἔμμεναι, ἔμεναι, εἶναί, ἔμεν, ἔμμεν</li>
+      <li>AUX-Part: ὢν, ἐόντα, ἐὼν, οὖσαν, ὄντα, ὄντας, ἐὸν, ὄντες, οὖσα, ἐοῦσα</li>
+      <li>VERB: ἔχων, ἔχει, φησιν, ἔχειν, ἔχοντες, φησι, μάχεσθαι, χρὴ, λέγων, φησὶν</li>
+      <li>VERB-Fin: ἔχει, φησιν, φησι, χρὴ, φησὶν, λέγει, ἔχω, λέγω, φησίν, ἱστορεῖ</li>
+      <li>VERB-Inf: ἔχειν, μάχεσθαι, λέγειν, ἰέναι, φέρειν, πολεμίζειν, φρονεῖν, νέεσθαι, ἴμεν, ὁρᾶν</li>
+      <li>VERB-Part: ἔχων, ἔχοντες, λέγων, ἀπαμειβόμενος, φέρων, ἄγων, ἔχοντα, εὐχόμενος, ἔχουσα, ἄρχοντος</li>
     </ul>
   </li>
 </ul>
@@ -552,10 +584,14 @@ Further details can be found at:
 <ul>
   <li>Act
     <ul>
-      <li>VERB: ἦν, εἶναι, ἔχων, προσέφη, ἔφη, ἔχει, φησιν, ἦσαν, ἐστὶ, προσηύδα</li>
-      <li>VERB-Fin: ἦν, προσέφη, ἔφη, ἔχει, φησιν, ἦσαν, ἐστὶ, προσηύδα, ἐστι, ἐστιν</li>
-      <li>VERB-Inf: εἶναι, ἔχειν, λέγειν, ἰέναι, εἰπεῖν, ἔμμεναι, φέρειν, λαβεῖν, ἰδεῖν, πολεμίζειν</li>
-      <li>VERB-Part: ἔχων, ἰδὼν, εἰπὼν, ἔχοντες, ὢν, λέγων, ἐόντα, ἐὼν, φωνήσας, λαβὼν</li>
+      <li>AUX: ἦν, εἶναι, ἦσαν, ἐστὶ, ἐστι, ἐστιν, ὢν, εἴη, ἐόντα, ἐὼν</li>
+      <li>AUX-Fin: ἦν, ἦσαν, ἐστὶ, ἐστι, ἐστιν, εἴη, ἐστὶν, ἐστί, ἦεν, εἰσὶ</li>
+      <li>AUX-Inf: εἶναι, ἔμμεναι, ἔμεναι, εἶναί, ἔμεν, ἔμμεν</li>
+      <li>AUX-Part: ὢν, ἐόντα, ἐὼν, οὖσαν, ὄντα, ὄντας, ἐὸν, ὄντες, ἐοῦσα, ἐόντες</li>
+      <li>VERB: ἔχων, προσέφη, ἔφη, ἔχει, φησιν, προσηύδα, ἰδὼν, εἰπὼν, ἔχειν, ἔχοντες</li>
+      <li>VERB-Fin: προσέφη, ἔφη, ἔχει, φησιν, προσηύδα, φησι, βῆ, χρὴ, ἦ, εἶπε</li>
+      <li>VERB-Inf: ἔχειν, λέγειν, ἰέναι, εἰπεῖν, φέρειν, λαβεῖν, ἰδεῖν, πολεμίζειν, θανεῖν, φρονεῖν</li>
+      <li>VERB-Part: ἔχων, ἰδὼν, εἰπὼν, ἔχοντες, λέγων, φωνήσας, λαβὼν, ἐλθὼν, φέρων, ἀκούσας</li>
       <li>X-Fin: φύεν, ἔσχεθον</li>
     </ul>
   </li>
@@ -564,7 +600,10 @@ Further details can be found at:
 <ul>
   <li>Mid
     <ul>
-      <li>VERB-Fin: φάτο, ἔφατ̓, ἐγένετο, ἐγένοντο, ἔφαθ̓, ἠμείβετ̓, ἕποντο, ἔσται, λέγεται, γένηται</li>
+      <li>AUX-Fin: ἔσται, ἔσσεται, ἔσει, ἔσκε, ἔσσομαι, ἐσσεῖται, ἔσεσθε, ἔσονται, ἔσσεαι, ἔσῃ</li>
+      <li>AUX-Inf: ἔσεσθαι, ἔσσεσθ̓, ἔσσεσθαι</li>
+      <li>AUX-Part: ἐσομένην, οὖσα, ἐσομένους</li>
+      <li>VERB-Fin: φάτο, ἔφατ̓, ἐγένετο, ἐγένοντο, ἔφαθ̓, ἠμείβετ̓, ἕποντο, λέγεται, γένηται, κεῖται</li>
       <li>VERB-Inf: γενέσθαι, μάχεσθαι, νέεσθαι, ποιεῖσθαι, χρῆσθαι, γίνεσθαι, μαχέσασθαι, ἕπεσθαι, κεῖσθαι, ἀρέσθαι</li>
       <li>VERB-Part: ἀπαμειβόμενος, γενομένης, γενόμενος, εὐχόμενος, βουλόμενος, βουλόμενοι, γενομένην, γενόμενον, κείμενον, ἱσταμένη</li>
       <li>X-Fin: ξύμβληντο</li>
@@ -598,6 +637,7 @@ Further details can be found at:
 <ul>
   <li>1
     <ul>
+      <li>AUX-Fin: εἰμι, εἰμὶ, εἴην, εἰμ̓, εἰμί, εἰμεν, εἰμὲν, εἴμ̓, ἔσσομαι, ἔχω</li>
       <li>PRON: ἐγὼ, μοι, με, ἡμᾶς, ἡμῖν, ἡμῶν, ἡμεῖς, ἐμὲ, ἐμοὶ, ἐγώ</li>
       <li>VERB: ἔχω, λέγω, οἶδα, ἐρέω, ὀΐω, οἶδ̓, δοκῶ, φημι, ὁρῶ, εἶμι</li>
       <li>VERB-Fin: ἔχω, λέγω, οἶδα, ἐρέω, ὀΐω, οἶδ̓, δοκῶ, φημι, ὁρῶ, εἶμι</li>
@@ -608,9 +648,10 @@ Further details can be found at:
 <ul>
   <li>2
     <ul>
+      <li>AUX-Fin: ἐσσι, εἶ, ἔστε, ἔχεις, ἦσθα, ἐστε, ἔσει, εἰς, ἐσσί, ἔσῃ</li>
       <li>PRON: σε, σὺ, σοι, ὑμῖν, σὲ, σοὶ, σύ, τοι, σου, ὑμεῖς</li>
-      <li>VERB: λέγεις, ἔχεις, ἔειπες, ἐσσι, οἶσθα, εἶ, δὸς, ἐθέλεις, εἶπας, ἴθι</li>
-      <li>VERB-Fin: λέγεις, ἔχεις, ἔειπες, ἐσσι, οἶσθα, εἶ, δὸς, ἐθέλεις, εἶπας, ἴθι</li>
+      <li>VERB: λέγεις, ἔειπες, ἔχεις, οἶσθα, δὸς, ἐθέλεις, εἶπας, ἴθι, φής, ἀγορεύεις</li>
+      <li>VERB-Fin: λέγεις, ἔειπες, ἔχεις, οἶσθα, δὸς, ἐθέλεις, εἶπας, ἴθι, φής, ἀγορεύεις</li>
     </ul>
   </li>
 </ul>
@@ -618,8 +659,9 @@ Further details can be found at:
 <ul>
   <li>3
     <ul>
+      <li>AUX-Fin: ἦν, ἦσαν, ἐστὶ, ἐστι, ἐστιν, εἴη, ἐστὶν, ἐστί, ἔσται, ἦεν</li>
       <li>PRON: μιν</li>
-      <li>VERB-Fin: ἦν, προσέφη, ἔφη, ἔχει, φησιν, ἦσαν, φάτο, ἐστὶ, προσηύδα, ἐστι</li>
+      <li>VERB-Fin: προσέφη, ἔφη, ἔχει, φησιν, φάτο, προσηύδα, ἔφατ̓, ἐγένετο, φησι, βῆ</li>
       <li>VERB-Inf: κηρύξαι, πεῖραν</li>
       <li>X-Fin: ξύμβληντο, φύεν, ἔσχεθον</li>
     </ul>
@@ -641,7 +683,7 @@ Further details can be found at:
 </ul>
 
 <ul>
-<li>This corpus uses 9 lemmas as auxiliaries (<a>aux</a>). Examples: δέ, ἔχω, καί, γάρ, τε, μέν, εἶτα, οὐ, οὖν.</li>
+<li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: ἔχω.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -656,10 +698,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Acc-ADP(μετά) (1)</li>
       <li>VERB-Fin--NOUN-Dat (3)</li>
       <li>VERB-Fin--NOUN-Gen (5)</li>
-      <li>VERB-Fin--NOUN-Nom (6796)</li>
+      <li>VERB-Fin--NOUN-Nom (6786)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(ἔνερθε) (1)</li>
       <li>VERB-Fin--PRON-Acc (15)</li>
       <li>VERB-Fin--PRON-Dat (3)</li>
-      <li>VERB-Fin--PRON-Nom (2861)</li>
+      <li>VERB-Fin--PRON-Nom (2859)</li>
       <li>VERB-Inf--NOUN-Acc (396)</li>
       <li>VERB-Inf--NOUN-Dat (5)</li>
       <li>VERB-Inf--NOUN-Gen (2)</li>
@@ -669,12 +712,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Gen (1)</li>
       <li>VERB-Inf--PRON-Nom (22)</li>
       <li>VERB-Part--NOUN-Acc (61)</li>
-      <li>VERB-Part--NOUN-Gen (441)</li>
-      <li>VERB-Part--NOUN-Nom (51)</li>
+      <li>VERB-Part--NOUN-Gen (440)</li>
+      <li>VERB-Part--NOUN-Nom (52)</li>
       <li>VERB-Part--PRON-Acc (26)</li>
       <li>VERB-Part--PRON-Dat (1)</li>
       <li>VERB-Part--PRON-Gen (103)</li>
-      <li>VERB-Part--PRON-Nom (44)</li>
+      <li>VERB-Part--PRON-Nom (45)</li>
     </ul>
   </li>
 </ul>
@@ -683,14 +726,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB--NOUN-Acc (2)</li>
-      <li>VERB-Fin--NOUN-Acc (5475)</li>
-      <li>VERB-Fin--NOUN-Dat (612)</li>
-      <li>VERB-Fin--NOUN-Gen (730)</li>
+      <li>VERB-Fin--NOUN-Acc (5477)</li>
+      <li>VERB-Fin--NOUN-Dat (614)</li>
+      <li>VERB-Fin--NOUN-Gen (731)</li>
       <li>VERB-Fin--NOUN-Nom (51)</li>
       <li>VERB-Fin--NOUN-Voc (8)</li>
       <li>VERB-Fin--PRON (5)</li>
-      <li>VERB-Fin--PRON-Acc (2409)</li>
-      <li>VERB-Fin--PRON-Dat (516)</li>
+      <li>VERB-Fin--PRON-Acc (2410)</li>
+      <li>VERB-Fin--PRON-Dat (515)</li>
       <li>VERB-Fin--PRON-Gen (226)</li>
       <li>VERB-Fin--PRON-Nom (13)</li>
       <li>VERB-Inf--NOUN-Acc (1048)</li>
@@ -702,7 +745,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Dat (73)</li>
       <li>VERB-Inf--PRON-Gen (42)</li>
       <li>VERB-Inf--PRON-Nom (3)</li>
-      <li>VERB-Part--NOUN-Acc (1987)</li>
+      <li>VERB-Part--NOUN-Acc (1988)</li>
       <li>VERB-Part--NOUN-Dat (433)</li>
       <li>VERB-Part--NOUN-Gen (311)</li>
       <li>VERB-Part--NOUN-Loc (1)</li>
@@ -736,5 +779,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus does not use relation subtypes.</li>
-<li>The following 12 relation types are not used in this corpus at all: <a>expl</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>compound</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+<li>The following 11 relation types are not used in this corpus at all: <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>compound</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

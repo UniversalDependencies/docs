@@ -8,67 +8,88 @@ udver: '2'
 
 This relation is universal.
 
-182 nodes (0%) are attached to their parents as `dep`.
+9 nodes (0%) are attached to their parents as `dep`.
 
-110 instances of `dep` (60%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.15934065934066.
+9 instances of `dep` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.22222222222222.
 
-The following 20 pairs of parts of speech are connected with `dep`: <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-X.html">X</a></tt> (72; 40% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-X.html">X</a></tt> (51; 28% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-PUNCT.html">PUNCT</a></tt> (11; 6% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> (10; 5% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (7; 4% instances), <tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (6; 3% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-X.html">X</a></tt> (4; 2% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> (4; 2% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt>-<tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="vi_vtb-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt>-<tt><a href="vi_vtb-pos-PUNCT.html">PUNCT</a></tt> (1; 1% instances), <tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt>-<tt><a href="vi_vtb-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="vi_vtb-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="vi_vtb-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="vi_vtb-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="vi_vtb-pos-X.html">X</a></tt>-<tt><a href="vi_vtb-pos-X.html">X</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `dep`: <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (4; 44% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (2; 22% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-ADP.html">ADP</a></tt> (1; 11% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt> (1; 11% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> (1; 11% instances).
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 7 dep	color:blue
-1	đánh	đánh	VERB	V	_	0	root	_	_
-2	bóng bàn	bóng bàn	NOUN	N	_	1	obj	_	_
-3	thì	thì	CCONJ	C	_	1	cc	_	_
-4	luyện	luyện	VERB	V	_	1	ccomp	_	_
-5	mắt	mắt	NOUN	N	_	4	obj	_	_
-6	tinh anh	tinh anh	ADJ	A	_	5	amod	_	_
-7	như thế nào	như thế nào	X	X	_	4	dep	_	SpaceAfter=No
-8	?	?	PUNCT	?	_	1	punct	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 10 dep	color:blue
+1	Gần	gần	ADJ	Adj	_	3	advmod	_	_
+2	2	2	NUM	Num	_	3	nummod	_	_
+3	giờ	giờ	NOUN	Nu	_	12	obl:tmod	_	_
+4	sáng	sáng	NOUN	N	_	3	acl:tmod	_	_
+5	9	9	NUM	Num	_	4	nummod	_	_
+6	-	-	SYM	-	_	5	flat:date	_	_
+7	8	8	NUM	Num	_	5	flat:date	_	_
+8	,	,	PUNCT	,	_	3	punct	_	_
+9	kiềng	kiềng	NOUN	N	_	12	nsubj:pass	_	_
+10	ống	ống	NOUN	N	_	9	dep	_	_
+11	được	được	AUX	AUX	_	12	aux:pass	_	_
+12	đưa	đưa	VERB	V	_	0	root	_	_
+13	đến	đến	ADV	Adv	_	12	advmod	_	_
+14	.	.	PUNCT	.	_	12	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 8 dep	color:blue
-1	đời	đời	NOUN	N	_	0	root	_	_
-2	tư	tư	ADJ	A	_	1	amod	_	_
-3	vận động viên	vận động viên	NOUN	N	_	1	compound	_	_
-4	bóng bàn	bóng bàn	NOUN	N	_	3	compound	_	_
-5	giỏi	giỏi	VERB	V	_	6	xcomp	_	_
-6	nhất	nhất	ADJ	A	_	3	amod	_	_
-7	Trung Quốc	Trung Quốc	NOUN	Np	_	6	obj	_	_
-8	ra sao	ra sao	X	X	_	1	dep	_	SpaceAfter=No
-9	?	?	PUNCT	?	_	1	punct	_	SpaceAfter=No
-10	...	...	PUNCT	...	_	1	punct	_	_
+# visual-style 1 3 dep	color:blue
+1	Bỏ	bỏ	VERB	V	_	8	advcl	_	_
+2	con	con	NOUN	N	_	3	clf:det	_	_
+3	cá	cá	NOUN	N	_	1	dep	_	_
+4	làm	làm	VERB	V	_	3	acl	_	_
+5	dở	dở	ADJ	Adj	_	4	xcomp	_	_
+6	,	,	PUNCT	,	_	1	punct	_	_
+7	Thu	Thu	PROPN	NNP	_	8	nsubj	_	_
+8	đọc	đọc	VERB	V	_	0	root	_	_
+9	mẩu	mẩu	NOUN	N	_	8	obj	_	_
+10	tin	tin	NOUN	N	_	9	nmod	_	_
+11	,	,	PUNCT	,	_	13	punct	_	_
+12	mặt	mặt	NOUN	N	_	13	nsubj	_	_
+13	tái mét	tái mét	ADJ	Adj	_	8	conj	_	_
+14	,	,	PUNCT	,	_	16	punct	_	_
+15	tay	tay	NOUN	N	_	16	nsubj	_	_
+16	run	run	VERB	V	_	8	conj	_	_
+17	như	như	SCONJ	SC	_	18	case	_	_
+18	người	người	NOUN	N	_	16	obl	_	_
+19	cảm	cảm	VERB	V	_	18	compound:vmod	_	_
+20	lạnh	lạnh	ADJ	Adj	_	19	compound:verbnoun	_	_
+21	.	.	PUNCT	.	_	8	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 dep	color:blue
-1	giá	giá	NOUN	N	_	0	root	_	_
-2	tại	tại	ADP	E	_	3	case	_	_
-3	nồi	nồi	NOUN	N	_	1	nmod	_	_
-4	3 , 34 triệu	3 , 34 triệu	NUM	M	NumType=Card	5	nummod	_	_
-5	đồng	đồng	NOUN	Nu	_	1	compound	_	_
-6	/	/	PUNCT	NP	_	5	dep	_	_
-7	lạng	lạng	NOUN	Nu	_	5	compound	_	_
-8	cao	cao	NOUN	N	_	7	compound	_	SpaceAfter=No
-9	.	.	PUNCT	.	_	1	punct	_	_
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 12 dep	color:blue
+1	Đợi	đợi	VERB	V	_	8	advcl	_	_
+2	lúc	lúc	NOUN	N	_	1	obl:tmod	_	_
+3	chồng	chồng	NOUN	N	_	4	nsubj	_	_
+4	ngủ	ngủ	VERB	V	_	2	acl:tmod	_	_
+5	,	,	PUNCT	,	_	1	punct	_	_
+6	Nhi	Nhi	PROPN	NNP	_	8	nsubj	_	_
+7	đã	đã	ADV	Adv	_	8	advmod	_	_
+8	chép	chép	VERB	V	_	0	root	_	_
+9	được	được	ADV	Adv	_	8	advmod	_	_
+10	số	số	NOUN	N	_	8	obj	_	_
+11	điện thoại	điện thoại	NOUN	N	_	10	compound	_	_
+12	của	của	ADP	Pre	_	10	dep	_	_
+13	.	.	PUNCT	.	_	8	punct	_	_
 
 ~~~
 

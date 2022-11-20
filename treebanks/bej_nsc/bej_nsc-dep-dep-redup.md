@@ -23,9 +23,9 @@ The following 1 pairs of parts of speech are connected with `dep:redup`: <tt><a 
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 dep:redup	color:blue
-1	moːkeː	_	NOUN	V1	_	2	dep:redup	_	AlignBegin=23859|AlignEnd=24177|GE=take_shelter\[INT]-[CVB].[SMLT]|Gloss=take_shelter|MGloss=take_shelter\[INT]-CVB.SMLT|MSeg=moːk-eː|RX=[V1].[DER]|TokenType=Stem
-2	moːkeː	_	NOUN	V1	_	3	dep:redup	_	AlignBegin=24177|AlignEnd=24495|GE=take_shelter\[INT]-[CVB].[SMLT]|Gloss=take_shelter|MGloss=take_shelter\[INT]-CVB.SMLT|MSeg=moːk-eː|RX=[V1].[DER]|TokenType=Stem
-3	moːkeː	_	NOUN	V1	_	9	obl:mod	_	AlignBegin=24495|AlignEnd=24813|GE=take_shelter\[INT]-[CVB].[SMLT]|Gloss=take_shelter|MGloss=take_shelter\[INT]-CVB.SMLT|MSeg=moːk-eː|RX=[V1].[DER]|TokenType=Stem
+1	moːkeː	_	NOUN	V1	_	2	dep:redup	_	AlignBegin=23859|AlignEnd=24177|GE=take_shelter\[INT]-[CVB].[SMLT]|Gloss=take_shelter|MGloss=take_shelter\INT-CVB.SMLT|MSeg=moːk-eː|RX=[V1].[DER]|TokenType=Stem
+2	moːkeː	_	NOUN	V1	_	3	dep:redup	_	AlignBegin=24177|AlignEnd=24495|GE=take_shelter\[INT]-[CVB].[SMLT]|Gloss=take_shelter|MGloss=take_shelter\INT-CVB.SMLT|MSeg=moːk-eː|RX=[V1].[DER]|TokenType=Stem
+3	moːkeː	_	NOUN	V1	_	9	obl:mod	_	AlignBegin=24495|AlignEnd=24813|GE=take_shelter\[INT]-[CVB].[SMLT]|Gloss=take_shelter|MGloss=take_shelter\INT-CVB.SMLT|MSeg=moːk-eː|RX=[V1].[DER]|TokenType=Stem
 4	uːn	_	DET	DEM	Case=Nom|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	AlignBegin=24813|AlignEnd=25131|GE=[PROX].[SG].[M].[NOM]|RX=[DEM]|TokenType=Stem
 5	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	6	det	_	AlignBegin=25131|AlignEnd=25290|GE=[DEF].[SG].[M].[NOM]=|RX=[DET]=|TokenType=Clit
 6	biri	_	NOUN	N	Gender=Masc	9	nsubj	_	AlignBegin=25290|AlignEnd=25449|GE=rain|Gloss=rain|RX=[SBJ].[N].[M]|TokenType=Stem
@@ -37,7 +37,7 @@ The following 1 pairs of parts of speech are connected with `dep:redup`: <tt><a 
 12	tak	_	NOUN	N	Gender=Masc	13	nsubj	_	AlignBegin=28033|AlignEnd=28250|GE=man|Gloss=man|RX=[SBJ].[N].[M]|TokenType=Stem
 13	eːja	_	VERB	V2,IRG	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbClass=2	15	parataxis	_	AlignBegin=28250|AlignEnd=28359|GE=come\[PFV].[3SG].[M]|Gloss=come|ReportedSpeech=Yes|RX=[V2].[IRG]|TokenType=Stem
 14	=heːb	_	PRON	PRO	Number=Sing|Person=1	13	obj	_	AlignBegin=28359|AlignEnd=28468|GE==[OBJ].[1SG]|RX==[PRO]|TokenType=Clit
-15	ini	_	VERB	V1,IRG	Aspect=Perf|Gender=Masc|Number=Sing|VerbClass=1	0	root	_	AlignBegin=28468|AlignEnd=28686|GE=[3SG].[M]-say\[PFV]|Gloss=say|MGloss=3SG.M-say\[PFV]|MSeg=i-ni|RX=[PNG]-[V1].[IRG]|TokenType=Stem
+15	ini	_	VERB	V1,IRG	Aspect=Perf|Gender=Masc|Number=Sing|VerbClass=1	0	root	_	AlignBegin=28468|AlignEnd=28686|GE=[3SG].[M]-say\[PFV]|Gloss=say|MGloss=3SG.M-say\PFV|MSeg=i-ni|RX=[PNG]-[V1].[IRG]|TokenType=Stem
 16	//	_	PUNCT	PUNCT	_	15	punct	_	AlignBegin=28686|AlignEnd=30643|TokenType=Break
 
 ~~~

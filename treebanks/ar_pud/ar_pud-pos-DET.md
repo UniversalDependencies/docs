@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Arabic-PUD: POS Tags: `DET`
 
-There are 26 `DET` lemmas (1%), 26 `DET` types (0%) and 166 `DET` tokens (1%).
-Out of 16 observed tags, the rank of `DET` is: 11 in number of lemmas, 11 in number of types and 13 in number of tokens.
+There are 25 `DET` lemmas (0%), 26 `DET` types (0%) and 166 `DET` tokens (1%).
+Out of 16 observed tags, the rank of `DET` is: 9 in number of lemmas, 10 in number of types and 14 in number of tokens.
 
-The 10 most frequent `DET` lemmas: kul~_1، >aHad_1، baEoD_1، >ay~_1، Eid~ap_1، muEoZam_1، jamiyE_1، |xir_1، $iboh_1، |xar_1
+The 10 most frequent `DET` lemmas: كُلّ، أَحَد، بَعض، أَيّ، عِدَّة، مُعظَم، آخِر، جَمِيع، آخَر، شِبه
 
 The 10 most frequent `DET` types:  كل، أحد، بعض، إحدى، أي، عدة، آخر، معظم، جميع، شبه
 
-The 10 most frequent ambiguous lemmas: kul~_1 (<tt><a href="ar_pud-pos-DET.html">DET</a></tt> 43, <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> 12), >aHad_1 (<tt><a href="ar_pud-pos-DET.html">DET</a></tt> 33, <tt><a href="ar_pud-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="ar_pud-pos-PRON.html">PRON</a></tt> 1), baEoD_1 (<tt><a href="ar_pud-pos-DET.html">DET</a></tt> 18, <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> 4), >ay~_1 (<tt><a href="ar_pud-pos-DET.html">DET</a></tt> 13, <tt><a href="ar_pud-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="ar_pud-pos-ADV.html">ADV</a></tt> 1, <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="ar_pud-pos-X.html">X</a></tt> 1), Eid~ap_1 (<tt><a href="ar_pud-pos-DET.html">DET</a></tt> 12, <tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt> 1), jamiyE_1 (<tt><a href="ar_pud-pos-DET.html">DET</a></tt> 5, <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> 1), |xir_1 (<tt><a href="ar_pud-pos-DET.html">DET</a></tt> 5, <tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> 1), $iboh_1 (<tt><a href="ar_pud-pos-DET.html">DET</a></tt> 4, <tt><a href="ar_pud-pos-PRON.html">PRON</a></tt> 1, <tt><a href="ar_pud-pos-PROPN.html">PROPN</a></tt> 1), |xar_1 (<tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt> 10, <tt><a href="ar_pud-pos-DET.html">DET</a></tt> 4, <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="ar_pud-pos-PRON.html">PRON</a></tt> 1), >akovar_2 (<tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt> 38, <tt><a href="ar_pud-pos-ADV.html">ADV</a></tt> 3, <tt><a href="ar_pud-pos-DET.html">DET</a></tt> 2)
+The 10 most frequent ambiguous lemmas: كُلّ (<tt><a href="ar_pud-pos-DET.html">DET</a></tt> 43, <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> 12), أَحَد (<tt><a href="ar_pud-pos-DET.html">DET</a></tt> 33, <tt><a href="ar_pud-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="ar_pud-pos-PRON.html">PRON</a></tt> 1), بَعض (<tt><a href="ar_pud-pos-DET.html">DET</a></tt> 18, <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> 4), أَيّ (<tt><a href="ar_pud-pos-DET.html">DET</a></tt> 14, <tt><a href="ar_pud-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="ar_pud-pos-ADV.html">ADV</a></tt> 1, <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> 1), عِدَّة (<tt><a href="ar_pud-pos-DET.html">DET</a></tt> 12, <tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt> 1), آخِر (<tt><a href="ar_pud-pos-DET.html">DET</a></tt> 5, <tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> 1), جَمِيع (<tt><a href="ar_pud-pos-DET.html">DET</a></tt> 5, <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> 1), آخَر (<tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt> 27, <tt><a href="ar_pud-pos-DET.html">DET</a></tt> 4, <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="ar_pud-pos-PRON.html">PRON</a></tt> 1), شِبه (<tt><a href="ar_pud-pos-DET.html">DET</a></tt> 4, <tt><a href="ar_pud-pos-PRON.html">PRON</a></tt> 1, <tt><a href="ar_pud-pos-PROPN.html">PROPN</a></tt> 1), أَكثَر (<tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt> 39, <tt><a href="ar_pud-pos-ADV.html">ADV</a></tt> 5, <tt><a href="ar_pud-pos-DET.html">DET</a></tt> 2)
 
 The 10 most frequent ambiguous types:  كل (<tt><a href="ar_pud-pos-DET.html">DET</a></tt> 43, <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> 2), أحد (<tt><a href="ar_pud-pos-DET.html">DET</a></tt> 19, <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="ar_pud-pos-PRON.html">PRON</a></tt> 1), أي (<tt><a href="ar_pud-pos-DET.html">DET</a></tt> 13, <tt><a href="ar_pud-pos-PART.html">PART</a></tt> 2), عدة (<tt><a href="ar_pud-pos-DET.html">DET</a></tt> 12, <tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt> 1), آخر (<tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt> 9, <tt><a href="ar_pud-pos-DET.html">DET</a></tt> 9, <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="ar_pud-pos-PRON.html">PRON</a></tt> 1), شبه (<tt><a href="ar_pud-pos-DET.html">DET</a></tt> 4, <tt><a href="ar_pud-pos-PRON.html">PRON</a></tt> 1, <tt><a href="ar_pud-pos-PROPN.html">PROPN</a></tt> 1), أكثر (<tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt> 32, <tt><a href="ar_pud-pos-ADV.html">ADV</a></tt> 5, <tt><a href="ar_pud-pos-DET.html">DET</a></tt> 2), غالبية (<tt><a href="ar_pud-pos-DET.html">DET</a></tt> 2, <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> 1), كامل (<tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="ar_pud-pos-DET.html">DET</a></tt> 2), منتصف (<tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="ar_pud-pos-DET.html">DET</a></tt> 2)
 
@@ -56,13 +56,13 @@ The 10 most frequent ambiguous types:  كل (<tt><a href="ar_pud-pos-DET.html">D
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.409765).
+The form / lemma ratio of `DET` is 1.040000 (the average of all parts of speech is 1.381137).
 
-The 1st highest number of forms (2) was observed with the lemma “>aHad_1”: أحد, إحدى.
+The 1st highest number of forms (2) was observed with the lemma “أَحَد”: أحد, إحدى.
 
-The 2nd highest number of forms (2) was observed with the lemma “>ay~_1”: أي, أية.
+The 2nd highest number of forms (2) was observed with the lemma “أَيّ”: أي, أية.
 
-The 3rd highest number of forms (1) was observed with the lemma “$iboh_1”: شبه.
+The 3rd highest number of forms (1) was observed with the lemma “آخَر”: آخر.
 
 `DET` occurs with 1 features: <tt><a href="ar_pud-feat-Case.html">Case</a></tt> (162; 98% instances)
 

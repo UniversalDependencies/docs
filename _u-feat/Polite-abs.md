@@ -38,4 +38,4 @@ Examples: [eu] _ezan, ezak_ `Polite[erg]=Inf`
 ### <a name="Form">`Form`</a>: polite, formal absolutive argument
 
 Examples: [eu] _ezazu_ `Polite[erg]=Pol` (politeness-neutral form is _ezazue_)
-<!-- Interlanguage links updated So kvě 14 19:02:33 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:55 CET 2022 -->

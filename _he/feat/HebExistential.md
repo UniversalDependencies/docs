@@ -21,4 +21,4 @@ or past/future inflections such as היה ‘there was’ תהיה ‘there will
 
 * <b>יש</b> _yeš_ “there is/are”
 
-<!-- Interlanguage links updated So kvě 14 19:02:17 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:47 CET 2022 -->

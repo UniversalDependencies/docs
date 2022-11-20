@@ -9,20 +9,20 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Def`, `Ind`.
 
-1493 tokens (4%) have a non-empty value of `Definite`.
+1492 tokens (4%) have a non-empty value of `Definite`.
 43 types (1%) occur at least once with a non-empty value of `Definite`.
 17 lemmas (0%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 1 part-of-speech tags: <tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> (1493; 4% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> (1492; 4% instances).
 
 ### `DET`
 
-1493 <tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> tokens (86% of all `DET` tokens) have a non-empty value of `Definite`.
+1492 <tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> tokens (86% of all `DET` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="qtd_sagt-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (956; 64%), <tt><a href="qtd_sagt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (873; 58%).
+The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="qtd_sagt-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (955; 64%), <tt><a href="qtd_sagt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (872; 58%).
 
 `DET` tokens may have the following values of `Definite`:
 
-* `Def` (945; 63% of non-empty `Definite`): <em>dem, die, o, der, her, das, bu, den, hangi, şu</em>
+* `Def` (944; 63% of non-empty `Definite`): <em>dem, die, o, der, her, das, bu, den, hangi, şu</em>
 * `Ind` (548; 37% of non-empty `Definite`): <em>bir, ein, eine, einen, keine, birkaç, einem, kein, einer, hiçbir</em>
 * `EMPTY` (245): <em>böyle, çok, viele, öyle, jeden, dieses, bir, eine, viel, alles</em>
 

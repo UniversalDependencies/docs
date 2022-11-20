@@ -24,7 +24,7 @@ The following 37 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 7 10 advmod	color:blue
 1	מדליון	מדליון	NOUN	NOUN	Gender=Masc|Number=Sing	5	nsubj	_	_
 2	זה	זה	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Dem	1	det	_	_
-3	הוא	הוא	PRON	PRON	Gender=Masc|Number=Sing|Person=3	5	cop	_	_
+3	הוא	הוא	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	cop	_	_
 4	ה	ה	DET	DET	Definite=Def|PronType=Art	5	det	_	_
 5	יחיד	יחיד	ADJ	ADJ	Gender=Masc|Number=Sing	0	root	_	_
 6	ה	ה	SCONJ	SCONJ	_	7	mark	_	_

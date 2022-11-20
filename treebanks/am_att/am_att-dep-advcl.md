@@ -26,11 +26,11 @@ The following 12 pairs of parts of speech are connected with `advcl`: <tt><a hre
 2	ሱቅ	ሱቅ	NOUN	NOUN	_	6	obl	_	Translit=suqə|LTranslit=suqə
 3	ሱቅ	ሱቅ	NOUN	NOUN	_	6	obl	_	Translit=suqə|LTranslit=suqə
 4	ስ	ስ	SCONJ	SCONJ	_	6	mark	_	Translit=sə|LTranslit=sə
-5	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	6	nsubj	_	Translit=jə|LTranslit=jə
-6	ዞር	ዞር	VERB	VERB	_	7	advcl	_	Translit=zorə|LTranslit=zorə
-7	አስመሽ	አስመሽ	VERB	VERB	Voice=Cau	0	root	_	Translit='äsəmäšə|LTranslit='äsəmäšə
-8	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	7	nsubj	_	Translit='ă|LTranslit='ă
-9	ኝ	ኝ	PRON	OBJC	Number=Sing|Person=1	7	obj	_	Translit=ňə|LTranslit=ňə
+5	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	LTranslit='əsu|Translit=jə
+6	ዞር	ዞር	VERB	VERB	Mood=Ind|VerbForm=Fin	7	advcl	_	Translit=zorə|LTranslit=zorə
+7	አስመሽ	አስመሽ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Cau	0	root	_	Translit='äsəmäšə|LTranslit='äsəmäšə
+8	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	LTranslit='əsu|Translit='ă
+9	ኝ	እኔ	PRON	OBJC	Number=Sing|Person=1|PronType=Prs	7	obj	_	LTranslit='əne|Translit=ňə
 10	።	።	PUNCT	PUNCT	_	7	punct	_	Translit=.|LTranslit=.
 
 ~~~
@@ -43,19 +43,19 @@ The following 12 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 10	fgColor:white
 # visual-style 10 7 advcl	color:blue
 1	ከ	ከ	ADP	ADP	_	2	mark	_	Translit=kä|LTranslit=kä
-2	መጣ	መጣ	VERB	VERB	_	13	advcl	_	Translit=mäţa|LTranslit=mäţa
-3	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	2	expl	_	Translit='ă|LTranslit='ă
+2	መጣ	መጣ	VERB	VERB	Mood=Ind|VerbForm=Fin	13	advcl	_	Translit=mäţa|LTranslit=mäţa
+3	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl	_	LTranslit='əsu|Translit='ă
 4	ኣል	ኣል	PART	NEG	Polarity=Neg	6	advmod	_	Translit='alə|LTranslit='alə
-5	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	6	expl	_	Translit=jə|LTranslit=jə
-6	ቀር	ቀር	VERB	VERB	_	2	xcomp	_	Translit=qärə|LTranslit=qärə
+5	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl	_	LTranslit='əsu|Translit=jə
+6	ቀር	ቀር	VERB	VERB	Mood=Ind|VerbForm=Fin	2	xcomp	_	Translit=qärə|LTranslit=qärə
 7	ጓዝ	ጓዝ	NOUN	NOUN	_	10	advcl	_	Translit=gwazə|LTranslit=gwazə
-8	ኡ	ኡ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes	7	nmod	_	Translit='u|LTranslit='u
+8	ኡ	እሱ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	nmod	_	LTranslit='əsu|Translit='u
 9	ን	ን	PART	ACC	_	7	case	_	Translit=nə|LTranslit=nə
-10	ይዝ	ይዝ	VERB	VERB	_	13	advcl	_	Translit=jəzə|LTranslit=jəzə
-11	ኦ	ኦ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	10	expl	_	Translit='o|LTranslit='o
-12	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	13	expl	_	Translit=jə|LTranslit=jə
-13	ምጣ	ምጣ	VERB	VERB	_	0	root	_	Translit=məţa|LTranslit=məţa
-14	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	13	nsubj	_	Translit='ă|LTranslit='ă
+10	ይዝ	ይዝ	VERB	VERB	Mood=Ind|VerbForm=Fin	13	advcl	_	Translit=jəzə|LTranslit=jəzə
+11	ኦ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	expl	_	LTranslit='əsu|Translit='o
+12	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	expl	_	LTranslit='əsu|Translit=jə
+13	ምጣ	ምጣ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=məţa|LTranslit=məţa
+14	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	LTranslit='əsu|Translit='ă
 15	።	።	PUNCT	PUNCT	_	13	punct	_	Translit=.|LTranslit=.
 
 ~~~
@@ -71,12 +71,12 @@ The following 12 pairs of parts of speech are connected with `advcl`: <tt><a hre
 2	መናገር	መናገር	NOUN	NOUN	VerbForm=Vnoun	8	advcl	_	Translit=mänagärə|LTranslit=mänagärə
 3	ላይ	ላይ	ADP	ADP	_	2	case	_	Translit=lajə|LTranslit=lajə
 4	እየ	እየ	SCONJ	SCONJ	_	5	mark	_	Translit='əjä|LTranslit='əjä
-5	ኣለ	ኣለ	VERB	VERB	_	2	advcl	_	Translit='alä|LTranslit='alä
-6	ሁ	ሁ	PRON	SUBJC	Gender=Com|Number=Sing|Person=1	5	nsubj	_	Translit=hu|LTranslit=hu
+5	ኣለ	ኣለ	VERB	VERB	Mood=Ind|VerbForm=Fin	2	advcl	_	Translit='alä|LTranslit='alä
+6	ሁ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	LTranslit='əne|Translit=hu
 7	መልስ	መልስ	NOUN	NOUN	_	8	obj	_	Translit=mäləsə|LTranslit=mäləsə
-8	ሰጥ	ሰጥ	VERB	VERB	_	0	root	_	Translit=säţə|LTranslit=säţə
-9	ኧች	ኧች	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3	8	nsubj	_	Translit='ăčə|LTranslit='ăčə
-10	ኝ	ኝ	PRON	OBJC	Gender=Com|Number=Sing|Person=1	8	iobj	_	Translit=ňə|LTranslit=ňə
+8	ሰጥ	ሰጥ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=säţə|LTranslit=säţə
+9	ኧች	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	LTranslit='əsu|Translit='ăčə
+10	ኝ	እኔ	PRON	OBJC	Number=Sing|Person=1|PronType=Prs	8	iobj	_	LTranslit='əne|Translit=ňə
 11	።	።	PUNCT	PUNCT	_	8	punct	_	Translit=.|LTranslit=.
 
 ~~~

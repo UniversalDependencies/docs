@@ -11,9 +11,9 @@ This relation is universal.
 126 nodes (1%) are attached to their parents as `mark`.
 
 122 instances of `mark` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.46031746031746.
+Average distance between parent and child is 1.47619047619048.
 
-The following 8 pairs of parts of speech are connected with `mark`: <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt>-<tt><a href="fo_oft-pos-PART.html">PART</a></tt> (77; 61% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt>-<tt><a href="fo_oft-pos-SCONJ.html">SCONJ</a></tt> (19; 15% instances), <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_oft-pos-SCONJ.html">SCONJ</a></tt> (16; 13% instances), <tt><a href="fo_oft-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fo_oft-pos-SCONJ.html">SCONJ</a></tt> (8; 6% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt>-<tt><a href="fo_oft-pos-ADP.html">ADP</a></tt> (3; 2% instances), <tt><a href="fo_oft-pos-ADV.html">ADV</a></tt>-<tt><a href="fo_oft-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_oft-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="fo_oft-pos-PRON.html">PRON</a></tt>-<tt><a href="fo_oft-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances).
+The following 9 pairs of parts of speech are connected with `mark`: <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt>-<tt><a href="fo_oft-pos-PART.html">PART</a></tt> (77; 61% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt>-<tt><a href="fo_oft-pos-SCONJ.html">SCONJ</a></tt> (17; 13% instances), <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_oft-pos-SCONJ.html">SCONJ</a></tt> (16; 13% instances), <tt><a href="fo_oft-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fo_oft-pos-SCONJ.html">SCONJ</a></tt> (8; 6% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt>-<tt><a href="fo_oft-pos-ADP.html">ADP</a></tt> (3; 2% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt>-<tt><a href="fo_oft-pos-X.html">X</a></tt> (2; 2% instances), <tt><a href="fo_oft-pos-ADV.html">ADV</a></tt>-<tt><a href="fo_oft-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_oft-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="fo_oft-pos-PRON.html">PRON</a></tt>-<tt><a href="fo_oft-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -64,13 +64,13 @@ The following 8 pairs of parts of speech are connected with `mark`: <tt><a href=
 # visual-style 7	fgColor:white
 # visual-style 7 6 mark	color:blue
 1	Í	í	ADP	Pr	_	2	case	_	_
-2	2011	2011	NUM	Num	Case=Dat	5	obl	_	_
-3	varð	verða	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	cop	_	_
-4	hann	hann	PRON	Pron	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
-5	útbúgvin	útbúgvin	ADJ	A	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+2	2011	2011	NUM	Num	Case=Dat	3	obl	_	_
+3	varð	verða	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+4	hann	hann	PRON	Pron	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+5	útbúgvin	útbúgvin	ADJ	A	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	3	xcomp	_	_
 6	sum	sum	SCONJ	CS	_	7	mark	_	_
-7	lærari	lærari	NOUN	N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	5	advcl	_	SpaceAfter=No
-8	.	.	PUNCT	CLB	_	5	punct	_	_
+7	lærari	lærari	NOUN	N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	3	advcl	_	SpaceAfter=No
+8	.	.	PUNCT	CLB	_	3	punct	_	_
 
 ~~~
 

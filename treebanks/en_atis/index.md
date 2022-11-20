@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.9 release.
 The following people have contributed to making this treebank part of UD: Aslı Kuzgun, Neslihan Cesur, Olcay Taner Yıldız.
 
 Repository: [UD_English-Atis](https://github.com/UniversalDependencies/UD_English-Atis)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_atis210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_atis211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-SA 4.0
 
@@ -67,11 +67,11 @@ The ATIS corpus: https://github.com/howl-anderson/ATIS_dataset/blob/master/READM
 
 ## Features
 
-[Degree](en_atis-feat-Degree.html) – [Mood](en_atis-feat-Mood.html) – [Number](en_atis-feat-Number.html) – [NumType](en_atis-feat-NumType.html) – [Person](en_atis-feat-Person.html) – [Poss](en_atis-feat-Poss.html) – [PronType](en_atis-feat-PronType.html) – [Tense](en_atis-feat-Tense.html) – [VerbForm](en_atis-feat-VerbForm.html)
+[Case](en_atis-feat-Case.html) – [Degree](en_atis-feat-Degree.html) – [Gender](en_atis-feat-Gender.html) – [Mood](en_atis-feat-Mood.html) – [Number](en_atis-feat-Number.html) – [NumType](en_atis-feat-NumType.html) – [Person](en_atis-feat-Person.html) – [Poss](en_atis-feat-Poss.html) – [PronType](en_atis-feat-PronType.html) – [Tense](en_atis-feat-Tense.html) – [VerbForm](en_atis-feat-VerbForm.html)
 
 ## Relations
 
-[acl](en_atis-dep-acl.html) – [acl:relcl](en_atis-dep-acl-relcl.html) – [advcl](en_atis-dep-advcl.html) – [advmod](en_atis-dep-advmod.html) – [amod](en_atis-dep-amod.html) – [appos](en_atis-dep-appos.html) – [aux](en_atis-dep-aux.html) – [aux:pass](en_atis-dep-aux-pass.html) – [case](en_atis-dep-case.html) – [cc](en_atis-dep-cc.html) – [cc:preconj](en_atis-dep-cc-preconj.html) – [ccomp](en_atis-dep-ccomp.html) – [compound](en_atis-dep-compound.html) – [compound:prt](en_atis-dep-compound-prt.html) – [conj](en_atis-dep-conj.html) – [cop](en_atis-dep-cop.html) – [csubj](en_atis-dep-csubj.html) – [dep](en_atis-dep-dep.html) – [det](en_atis-dep-det.html) – [det:predet](en_atis-dep-det-predet.html) – [discourse](en_atis-dep-discourse.html) – [dislocated](en_atis-dep-dislocated.html) – [expl](en_atis-dep-expl.html) – [fixed](en_atis-dep-fixed.html) – [flat](en_atis-dep-flat.html) – [iobj](en_atis-dep-iobj.html) – [list](en_atis-dep-list.html) – [mark](en_atis-dep-mark.html) – [nmod](en_atis-dep-nmod.html) – [nmod:poss](en_atis-dep-nmod-poss.html) – [nmod:tmod](en_atis-dep-nmod-tmod.html) – [nsubj](en_atis-dep-nsubj.html) – [nummod](en_atis-dep-nummod.html) – [obj](en_atis-dep-obj.html) – [obl](en_atis-dep-obl.html) – [obl:tmod](en_atis-dep-obl-tmod.html) – [parataxis](en_atis-dep-parataxis.html) – [reparandum](en_atis-dep-reparandum.html) – [root](en_atis-dep-root.html) – [xcomp](en_atis-dep-xcomp.html)
+[acl](en_atis-dep-acl.html) – [acl:relcl](en_atis-dep-acl-relcl.html) – [advcl](en_atis-dep-advcl.html) – [advmod](en_atis-dep-advmod.html) – [amod](en_atis-dep-amod.html) – [appos](en_atis-dep-appos.html) – [aux](en_atis-dep-aux.html) – [aux:pass](en_atis-dep-aux-pass.html) – [case](en_atis-dep-case.html) – [cc](en_atis-dep-cc.html) – [cc:preconj](en_atis-dep-cc-preconj.html) – [ccomp](en_atis-dep-ccomp.html) – [compound](en_atis-dep-compound.html) – [compound:prt](en_atis-dep-compound-prt.html) – [conj](en_atis-dep-conj.html) – [cop](en_atis-dep-cop.html) – [csubj](en_atis-dep-csubj.html) – [dep](en_atis-dep-dep.html) – [det](en_atis-dep-det.html) – [det:predet](en_atis-dep-det-predet.html) – [discourse](en_atis-dep-discourse.html) – [dislocated](en_atis-dep-dislocated.html) – [expl](en_atis-dep-expl.html) – [fixed](en_atis-dep-fixed.html) – [flat](en_atis-dep-flat.html) – [iobj](en_atis-dep-iobj.html) – [list](en_atis-dep-list.html) – [mark](en_atis-dep-mark.html) – [nmod](en_atis-dep-nmod.html) – [nmod:poss](en_atis-dep-nmod-poss.html) – [nmod:tmod](en_atis-dep-nmod-tmod.html) – [nsubj](en_atis-dep-nsubj.html) – [nsubj:outer](en_atis-dep-nsubj-outer.html) – [nummod](en_atis-dep-nummod.html) – [obj](en_atis-dep-obj.html) – [obl](en_atis-dep-obl.html) – [obl:tmod](en_atis-dep-obl-tmod.html) – [parataxis](en_atis-dep-parataxis.html) – [reparandum](en_atis-dep-reparandum.html) – [root](en_atis-dep-root.html) – [xcomp](en_atis-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -109,19 +109,19 @@ The ATIS corpus: https://github.com/howl-anderson/ATIS_dataset/blob/master/READM
 </ul>
 
 <ul>
-<li>This corpus contains 14 lemmas tagged as pronouns (PRON): be, each, i, it, one, that, there, they, this, we, what, which, who, you</li>
+<li>This corpus contains 14 lemmas tagged as pronouns (PRON): I, be, each, it, one, that, there, they, this, we, what, which, who, you</li>
 </ul>
 
 <ul>
-<li>This corpus contains 20 lemmas tagged as determiners (DET): I, a, all, an, another, any, both, each, either, like, no, some, that, the, these, they, this, what, which, you</li>
+<li>This corpus contains 19 lemmas tagged as determiners (DET): I, a, all, another, any, both, each, either, like, no, some, that, the, these, they, this, what, which, you</li>
 </ul>
 
 <ul>
-<li>Out of the above, 7 lemmas occurred sometimes as PRON and sometimes as DET: each, that, they, this, what, which, you</li>
+<li>Out of the above, 8 lemmas occurred sometimes as PRON and sometimes as DET: I, each, that, they, this, what, which, you</li>
 </ul>
 
 <ul>
-<li>This corpus contains 8 lemmas tagged as auxiliaries (AUX): be, can, do, have, may, must, should, will</li>
+<li>This corpus contains 9 lemmas tagged as auxiliaries (AUX): be, can, do, have, may, must, should, will, would</li>
 </ul>
 
 <ul>
@@ -162,6 +162,17 @@ The ATIS corpus: https://github.com/howl-anderson/ATIS_dataset/blob/master/READM
 <h3>Nominal Features</h3>
 
 
+<ul>
+  <li><a>Gender</a></li>
+</ul>
+
+<ul>
+  <li>Neut
+    <ul>
+      <li>PRON: it</li>
+    </ul>
+  </li>
+</ul>
 
 
 <ul>
@@ -171,7 +182,9 @@ The ATIS corpus: https://github.com/howl-anderson/ATIS_dataset/blob/master/READM
 <ul>
   <li>Plur
     <ul>
+      <li>DET: their</li>
       <li>NOUN: flights, fares, airlines, dollars, airports, cities, meals, times, prices, types</li>
+      <li>PRON: we, they, them</li>
       <li>PROPN: airlines, tuesdays, mondays, sundays, thursdays, fridays, sunday</li>
     </ul>
   </li>
@@ -181,13 +194,34 @@ The ATIS corpus: https://github.com/howl-anderson/ATIS_dataset/blob/master/READM
   <li>Sing
     <ul>
       <li>AUX-Fin: is, does, 's, 're</li>
-      <li>NOUN: flight, pm, morning, fare, trip, ground, round, transportation, class, afternoon</li>
+      <li>DET: your, my</li>
+      <li>NOUN: flight, pm, morning, wednesday, fare, trip, ground, round, transportation, class</li>
+      <li>PRON: me, i, you, it</li>
       <li>PROPN: san, boston, denver, francisco, atlanta, pittsburgh, dallas, baltimore, philadelphia, washington</li>
       <li>VERB-Fin: is, leaves, arrives, serves, goes, has, flies, stops, makes, uses</li>
     </ul>
   </li>
 </ul>
 
+<ul>
+  <li><a>Case</a></li>
+</ul>
+
+<ul>
+  <li>Acc
+    <ul>
+      <li>PRON: me, them</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Nom
+    <ul>
+      <li>PRON: i, you, it, we</li>
+    </ul>
+  </li>
+</ul>
 
 
 
@@ -210,8 +244,8 @@ The ATIS corpus: https://github.com/howl-anderson/ATIS_dataset/blob/master/READM
 <ul>
   <li>Pos
     <ul>
-      <li>ADJ: first, available, next, seventh, early, like, many, expensive, daily, last</li>
-      <li>ADV: o'clock, now, first, much, back, also, early, then, only, again</li>
+      <li>ADJ: available, first, next, early, like, many, expensive, daily, seventh, last</li>
+      <li>ADV: o'clock, now, much, back, also, early, then, only, first, again</li>
     </ul>
   </li>
 </ul>
@@ -307,7 +341,7 @@ The ATIS corpus: https://github.com/howl-anderson/ATIS_dataset/blob/master/READM
   <li>Prs
     <ul>
       <li>DET: your, my, their</li>
-      <li>PRON: me, i, you, it, 's, one, we, they, this, each</li>
+      <li>PRON: me, i, you, it, 's, one, this, we, each, that</li>
     </ul>
   </li>
 </ul>
@@ -320,6 +354,15 @@ The ATIS corpus: https://github.com/howl-anderson/ATIS_dataset/blob/master/READM
   <li>Card
     <ul>
       <li>NUM: one, twenty, 5, 6, 10, 8, 7, 12, 4, 9</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ord
+    <ul>
+      <li>ADJ: first, seventh, second, eighth, third, fifth, sixth, fourth, ninth, tenth</li>
+      <li>ADV: first</li>
     </ul>
   </li>
 </ul>
@@ -342,9 +385,26 @@ The ATIS corpus: https://github.com/howl-anderson/ATIS_dataset/blob/master/READM
 </ul>
 
 <ul>
+  <li>1
+    <ul>
+      <li>PRON: me, i, we</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>2
+    <ul>
+      <li>PRON: you</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>3
     <ul>
       <li>AUX-Fin: is, does, 's, 're</li>
+      <li>PRON: it, they, them</li>
       <li>VERB-Fin: is, leaves, arrives, serves, goes, has, flies, stops, makes, uses</li>
     </ul>
   </li>
@@ -365,7 +425,7 @@ The ATIS corpus: https://github.com/howl-anderson/ATIS_dataset/blob/master/READM
 </ul>
 
 <ul>
-<li>This corpus uses 8 lemmas as auxiliaries (<a>aux</a>). Examples: will, do, can, be, may, should, have, must.</li>
+<li>This corpus uses 9 lemmas as auxiliaries (<a>aux</a>). Examples: will, do, would, can, be, may, should, have, must.</li>
 <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: be.</li>
 </ul>
 
@@ -376,13 +436,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB-Fin--NOUN (333)</li>
-      <li>VERB-Fin--PRON (543)</li>
+      <li>VERB-Fin--PRON (36)</li>
+      <li>VERB-Fin--PRON-Nom (507)</li>
       <li>VERB-Inf--NOUN (234)</li>
       <li>VERB-Inf--NOUN-ADP(of) (2)</li>
-      <li>VERB-Inf--PRON (662)</li>
+      <li>VERB-Inf--PRON (32)</li>
+      <li>VERB-Inf--PRON-Nom (629)</li>
       <li>VERB-Part--NOUN (50)</li>
       <li>VERB-Part--NOUN-ADP(for) (1)</li>
-      <li>VERB-Part--PRON (59)</li>
+      <li>VERB-Part--PRON (3)</li>
+      <li>VERB-Part--PRON-Nom (56)</li>
     </ul>
   </li>
 </ul>
@@ -392,8 +455,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB-Fin--NOUN (640)</li>
       <li>VERB-Fin--NOUN-ADP(about) (1)</li>
-      <li>VERB-Fin--PRON (20)</li>
+      <li>VERB-Fin--PRON (15)</li>
       <li>VERB-Fin--PRON-ADP(for) (1)</li>
+      <li>VERB-Fin--PRON-Nom (5)</li>
       <li>VERB-Inf--NOUN (2244)</li>
       <li>VERB-Inf--NOUN-ADP(about) (23)</li>
       <li>VERB-Inf--NOUN-ADP(if) (1)</li>
@@ -401,8 +465,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-ADP(out)-ADP(about) (1)</li>
       <li>VERB-Inf--NOUN-ADP(than) (1)</li>
       <li>VERB-Inf--NOUN-ADP(with) (2)</li>
-      <li>VERB-Inf--PRON (39)</li>
-      <li>VERB-Part--NOUN (23)</li>
+      <li>VERB-Inf--PRON (35)</li>
+      <li>VERB-Inf--PRON-Acc (3)</li>
+      <li>VERB-Inf--PRON-Nom (1)</li>
+      <li>VERB-Part--NOUN (24)</li>
       <li>VERB-Part--NOUN-ADP(for) (10)</li>
       <li>VERB-Part--NOUN-ADP(in) (3)</li>
       <li>VERB-Part--NOUN-ADP(on) (1)</li>
@@ -413,9 +479,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--PRON (164)</li>
-      <li>VERB-Inf--PRON (1075)</li>
-      <li>VERB-Inf--PRON-ADP(for) (1)</li>
+      <li>VERB-Fin--PRON-Acc (164)</li>
+      <li>VERB-Inf--PRON-Acc (1073)</li>
+      <li>VERB-Inf--PRON-Acc-ADP(for) (1)</li>
+      <li>VERB-Inf--PRON-Nom (2)</li>
     </ul>
   </li>
 </ul>
@@ -426,6 +493,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 8 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>det:predet</a>, <a>nmod:poss</a>, <a>nmod:tmod</a>, <a>obl:tmod</a></li>
+<li>This corpus uses 9 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>det:predet</a>, <a>nmod:poss</a>, <a>nmod:tmod</a>, <a>nsubj:outer</a>, <a>obl:tmod</a></li>
 <li>The following 5 relation types are not used in this corpus at all: <a>vocative</a>, <a>clf</a>, <a>orphan</a>, <a>goeswith</a>, <a>punct</a></li>
 </ul>

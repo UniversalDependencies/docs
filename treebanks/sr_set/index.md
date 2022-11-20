@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Tanja Samardžić, Nikola Ljubešić.
 
 Repository: [UD_Serbian-SET](https://github.com/UniversalDependencies/UD_Serbian-SET)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsr_set210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsr_set211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-SA 4.0
 
@@ -781,18 +781,18 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN-Acc (29)</li>
+      <li>VERB-Fin--NOUN-Acc (28)</li>
       <li>VERB-Fin--NOUN-Dat (1)</li>
-      <li>VERB-Fin--NOUN-Gen (72)</li>
+      <li>VERB-Fin--NOUN-Gen (71)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(od) (7)</li>
-      <li>VERB-Fin--NOUN-Nom (1429)</li>
-      <li>VERB-Fin--PRON-Acc (4)</li>
+      <li>VERB-Fin--NOUN-Nom (1428)</li>
+      <li>VERB-Fin--PRON-Acc (2)</li>
       <li>VERB-Fin--PRON-Gen-ADP(od) (1)</li>
-      <li>VERB-Fin--PRON-Nom (162)</li>
+      <li>VERB-Fin--PRON-Nom (154)</li>
       <li>VERB-Inf--NOUN-Acc (4)</li>
       <li>VERB-Inf--NOUN-Gen (1)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(od) (1)</li>
-      <li>VERB-Inf--NOUN-Nom (185)</li>
+      <li>VERB-Inf--NOUN-Nom (184)</li>
       <li>VERB-Inf--PRON-Acc (5)</li>
       <li>VERB-Inf--PRON-Nom (24)</li>
       <li>VERB-Part--NOUN-Acc (5)</li>
@@ -806,7 +806,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--PRON-Gen-ADP(od) (1)</li>
       <li>VERB-Part--PRON-Ins (1)</li>
       <li>VERB-Part--PRON-Loc-ADP(o) (1)</li>
-      <li>VERB-Part--PRON-Nom (259)</li>
+      <li>VERB-Part--PRON-Nom (251)</li>
     </ul>
   </li>
 </ul>
@@ -814,23 +814,23 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN-Acc (1259)</li>
+      <li>VERB-Fin--NOUN-Acc (1260)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(oko) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(za) (1)</li>
       <li>VERB-Fin--NOUN-Dat (3)</li>
-      <li>VERB-Fin--NOUN-Gen (93)</li>
+      <li>VERB-Fin--NOUN-Gen (94)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(do) (1)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(od) (7)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(preko) (1)</li>
       <li>VERB-Fin--NOUN-Ins (3)</li>
-      <li>VERB-Fin--NOUN-Nom (37)</li>
+      <li>VERB-Fin--NOUN-Nom (38)</li>
       <li>VERB-Fin--PRON-Acc (80)</li>
       <li>VERB-Fin--PRON-Gen (2)</li>
       <li>VERB-Fin--PRON-Nom (7)</li>
       <li>VERB-Inf--NOUN-Acc (225)</li>
       <li>VERB-Inf--NOUN-Gen (15)</li>
       <li>VERB-Inf--NOUN-Ins-ADP(pod) (1)</li>
-      <li>VERB-Inf--NOUN-Nom (5)</li>
+      <li>VERB-Inf--NOUN-Nom (6)</li>
       <li>VERB-Inf--PRON-Acc (17)</li>
       <li>VERB-Part--NOUN-Acc (977)</li>
       <li>VERB-Part--NOUN-Acc-ADP(na) (1)</li>

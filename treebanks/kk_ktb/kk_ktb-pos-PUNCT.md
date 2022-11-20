@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Kazakh-KTB: POS Tags: `PUNCT`
 
-There are 17 `PUNCT` lemmas (1%), 18 `PUNCT` types (0%) and 2096 `PUNCT` tokens (20%).
+There are 17 `PUNCT` lemmas (1%), 17 `PUNCT` types (0%) and 2096 `PUNCT` tokens (20%).
 Out of 17 observed tags, the rank of `PUNCT` is: 12 in number of lemmas, 13 in number of types and 2 in number of tokens.
 
 The 10 most frequent `PUNCT` lemmas: <em>., ,, —, ?, -, (, ), !, –, "</em>
@@ -21,13 +21,13 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.058824 (the average of all parts of speech is 1.743774).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.746869).
 
-The 1st highest number of forms (2) was observed with the lemma “.”: <em>., _</em>.
+The 1st highest number of forms (1) was observed with the lemma “!”: <em>!</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “!”: <em>!</em>.
+The 2nd highest number of forms (1) was observed with the lemma “"”: <em>"</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “"”: <em>"</em>.
+The 3rd highest number of forms (1) was observed with the lemma “(”: <em>(</em>.
 
 `PUNCT` does not occur with any features.
 
@@ -36,7 +36,7 @@ The 3rd highest number of forms (1) was observed with the lemma “"”: <em>"</
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="kk_ktb-dep-punct.html">punct</a></tt> (2096; 100% instances)
 
-Parents of `PUNCT` nodes belong to 13 different parts of speech: <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt> (1140; 54% instances), <tt><a href="kk_ktb-pos-NOUN.html">NOUN</a></tt> (436; 21% instances), <tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> (216; 10% instances), <tt><a href="kk_ktb-pos-PROPN.html">PROPN</a></tt> (97; 5% instances), <tt><a href="kk_ktb-pos-NUM.html">NUM</a></tt> (83; 4% instances), <tt><a href="kk_ktb-pos-PRON.html">PRON</a></tt> (42; 2% instances), <tt><a href="kk_ktb-pos-ADV.html">ADV</a></tt> (30; 1% instances), <tt><a href="kk_ktb-pos-INTJ.html">INTJ</a></tt> (28; 1% instances), <tt><a href="kk_ktb-pos-AUX.html">AUX</a></tt> (9; 0% instances), <tt><a href="kk_ktb-pos-CCONJ.html">CCONJ</a></tt> (8; 0% instances), <tt><a href="kk_ktb-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="kk_ktb-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="kk_ktb-pos-DET.html">DET</a></tt> (1; 0% instances)
+Parents of `PUNCT` nodes belong to 13 different parts of speech: <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt> (1144; 55% instances), <tt><a href="kk_ktb-pos-NOUN.html">NOUN</a></tt> (436; 21% instances), <tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> (215; 10% instances), <tt><a href="kk_ktb-pos-PROPN.html">PROPN</a></tt> (97; 5% instances), <tt><a href="kk_ktb-pos-NUM.html">NUM</a></tt> (83; 4% instances), <tt><a href="kk_ktb-pos-PRON.html">PRON</a></tt> (41; 2% instances), <tt><a href="kk_ktb-pos-ADV.html">ADV</a></tt> (31; 1% instances), <tt><a href="kk_ktb-pos-INTJ.html">INTJ</a></tt> (28; 1% instances), <tt><a href="kk_ktb-pos-CCONJ.html">CCONJ</a></tt> (9; 0% instances), <tt><a href="kk_ktb-pos-AUX.html">AUX</a></tt> (7; 0% instances), <tt><a href="kk_ktb-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="kk_ktb-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="kk_ktb-pos-DET.html">DET</a></tt> (1; 0% instances)
 
 2096 (100%) `PUNCT` nodes are leaves.
 

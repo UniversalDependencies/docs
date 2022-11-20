@@ -11,32 +11,33 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="koi_uh-feat-Person.html">Person</a></tt>, <tt><a href="koi_uh-feat-Person-psor.html">Person[psor]</a></tt>.
 
-63 tokens (7%) have a non-empty value of `Person[psor]`.
-51 types (10%) occur at least once with a non-empty value of `Person[psor]`.
-46 lemmas (12%) occur at least once with a non-empty value of `Person[psor]`.
-The feature is used with 4 part-of-speech tags: <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (57; 6% instances), <tt><a href="koi_uh-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+71 tokens (7%) have a non-empty value of `Person[psor]`.
+58 types (11%) occur at least once with a non-empty value of `Person[psor]`.
+52 lemmas (12%) occur at least once with a non-empty value of `Person[psor]`.
+The feature is used with 4 part-of-speech tags: <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (65; 6% instances), <tt><a href="koi_uh-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-57 <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> tokens (27% of all `NOUN` tokens) have a non-empty value of `Person[psor]`.
+65 <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> tokens (29% of all `NOUN` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `NOUN` and `Person[psor]` co-occurred: <tt><a href="koi_uh-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (57; 100%), <tt><a href="koi_uh-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (51; 89%), <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt> (51; 89%).
+The most frequent other feature values with which `NOUN` and `Person[psor]` co-occurred: <tt><a href="koi_uh-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (65; 100%), <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt> (58; 89%), <tt><a href="koi_uh-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (57; 88%).
 
 `NOUN` tokens may have the following values of `Person[psor]`:
 
 
 <table>
-  <tr><th>Paradigm <i>ай</i></th><th><tt>1</tt></th><th><tt>2</tt></th></tr>
-  <tr><td><tt><tt><a href="koi_uh-feat-Case.html">Case</a></tt><tt>=Cmp</tt>|<tt><a href="koi_uh-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt></tt></td><td></td><td><em>айытся</em></td></tr>
-  <tr><td><tt><tt><a href="koi_uh-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="koi_uh-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt></tt></td><td><em>айӧ</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="koi_uh-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="koi_uh-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt></tt></td><td></td><td><em>айыт</em></td></tr>
+  <tr><th>Paradigm <i>ай</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
+  <tr><td><tt><tt><a href="koi_uh-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="koi_uh-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="koi_uh-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td></td><td><em>айыс</em></td></tr>
+  <tr><td><tt><tt><a href="koi_uh-feat-Case.html">Case</a></tt><tt>=Cmp</tt>|<tt><a href="koi_uh-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt></tt></td><td></td><td><em>айытся</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="koi_uh-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="koi_uh-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt></tt></td><td><em>айӧ</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="koi_uh-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="koi_uh-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt></tt></td><td></td><td><em>айыт</em></td><td></td></tr>
 </table>
 
-`Person[psor]` seems to be **lexical feature** of `NOUN`. 95% lemmas (38) occur only with one value of `Person[psor]`.
+`Person[psor]` seems to be **lexical feature** of `NOUN`. 96% lemmas (44) occur only with one value of `Person[psor]`.
 
 ### `ADP`
 
-3 <tt><a href="koi_uh-pos-ADP.html">ADP</a></tt> tokens (19% of all `ADP` tokens) have a non-empty value of `Person[psor]`.
+3 <tt><a href="koi_uh-pos-ADP.html">ADP</a></tt> tokens (18% of all `ADP` tokens) have a non-empty value of `Person[psor]`.
 
 The most frequent other feature values with which `ADP` and `Person[psor]` co-occurred: <tt><a href="koi_uh-feat-AdpType.html">AdpType</a></tt><tt>=Post</tt> (3; 100%), <tt><a href="koi_uh-feat-Case.html">Case</a></tt><tt>=Ill</tt> (3; 100%), <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 100%), <tt><a href="koi_uh-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (3; 100%), <tt><a href="koi_uh-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (2; 67%).
 

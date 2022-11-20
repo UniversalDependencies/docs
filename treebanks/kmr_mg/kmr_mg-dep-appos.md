@@ -76,8 +76,8 @@ The following 7 pairs of parts of speech are connected with `appos`: <tt><a href
 7	,	,	PUNCT	cm	_	8	punct	_	_
 8	jina	jin	NOUN	n	Case=Con|Definite=Def|Gender=Fem|Number=Sing	6	appos	_	_
 9	xwe	xwe	PRON	prn	Gender=Fem,Masc|Number=Plur,Sing|PronType=Prs|Reflex=Yes	8	nmod:poss	_	_
-10	ya	yê	ADP	con	AdpType=Post|Gender=Fem|Number=Sing	8	case	_	_
-11	pêşerojê	pêşeroj	NOUN	n	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	10	nmod:poss	_	SpaceAfter=No
+10	ya	yê	ADP	con	AdpType=Post|Gender=Fem|Number=Sing	11	case	_	_
+11	pêşerojê	pêşeroj	NOUN	n	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	8	nmod:poss	_	SpaceAfter=No
 12	,	,	PUNCT	cm	_	6	punct	_	_
 13	nas kir	naskirin	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 14	.	.	PUNCT	sent	_	13	punct	_	_

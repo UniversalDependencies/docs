@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.6 release.
 The following people have contributed to making this treebank part of UD: Siyao Peng, Amir Zeldes.
 
 Repository: [UD_English-GUMReddit](https://github.com/UniversalDependencies/UD_English-GUMReddit)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_gumreddit210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_gumreddit211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY 4.0. The underlying text is not included; the user must obtain it separately and then merge with the UD annotation using a script distributed with UD
 
@@ -110,7 +110,7 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
 
 ## Relations
 
-[acl](en_gumreddit-dep-acl.html) – [acl:relcl](en_gumreddit-dep-acl-relcl.html) – [advcl](en_gumreddit-dep-advcl.html) – [advmod](en_gumreddit-dep-advmod.html) – [amod](en_gumreddit-dep-amod.html) – [appos](en_gumreddit-dep-appos.html) – [aux](en_gumreddit-dep-aux.html) – [aux:pass](en_gumreddit-dep-aux-pass.html) – [case](en_gumreddit-dep-case.html) – [cc](en_gumreddit-dep-cc.html) – [cc:preconj](en_gumreddit-dep-cc-preconj.html) – [ccomp](en_gumreddit-dep-ccomp.html) – [compound](en_gumreddit-dep-compound.html) – [compound:prt](en_gumreddit-dep-compound-prt.html) – [conj](en_gumreddit-dep-conj.html) – [cop](en_gumreddit-dep-cop.html) – [csubj](en_gumreddit-dep-csubj.html) – [csubj:pass](en_gumreddit-dep-csubj-pass.html) – [dep](en_gumreddit-dep-dep.html) – [det](en_gumreddit-dep-det.html) – [det:predet](en_gumreddit-dep-det-predet.html) – [discourse](en_gumreddit-dep-discourse.html) – [dislocated](en_gumreddit-dep-dislocated.html) – [expl](en_gumreddit-dep-expl.html) – [fixed](en_gumreddit-dep-fixed.html) – [flat](en_gumreddit-dep-flat.html) – [goeswith](en_gumreddit-dep-goeswith.html) – [iobj](en_gumreddit-dep-iobj.html) – [mark](en_gumreddit-dep-mark.html) – [nmod](en_gumreddit-dep-nmod.html) – [nmod:poss](en_gumreddit-dep-nmod-poss.html) – [nmod:tmod](en_gumreddit-dep-nmod-tmod.html) – [nsubj](en_gumreddit-dep-nsubj.html) – [nsubj:pass](en_gumreddit-dep-nsubj-pass.html) – [nummod](en_gumreddit-dep-nummod.html) – [obj](en_gumreddit-dep-obj.html) – [obl](en_gumreddit-dep-obl.html) – [obl:agent](en_gumreddit-dep-obl-agent.html) – [obl:npmod](en_gumreddit-dep-obl-npmod.html) – [obl:tmod](en_gumreddit-dep-obl-tmod.html) – [parataxis](en_gumreddit-dep-parataxis.html) – [punct](en_gumreddit-dep-punct.html) – [reparandum](en_gumreddit-dep-reparandum.html) – [root](en_gumreddit-dep-root.html) – [vocative](en_gumreddit-dep-vocative.html) – [xcomp](en_gumreddit-dep-xcomp.html)
+[acl](en_gumreddit-dep-acl.html) – [acl:relcl](en_gumreddit-dep-acl-relcl.html) – [advcl](en_gumreddit-dep-advcl.html) – [advcl:relcl](en_gumreddit-dep-advcl-relcl.html) – [advmod](en_gumreddit-dep-advmod.html) – [amod](en_gumreddit-dep-amod.html) – [appos](en_gumreddit-dep-appos.html) – [aux](en_gumreddit-dep-aux.html) – [aux:pass](en_gumreddit-dep-aux-pass.html) – [case](en_gumreddit-dep-case.html) – [cc](en_gumreddit-dep-cc.html) – [cc:preconj](en_gumreddit-dep-cc-preconj.html) – [ccomp](en_gumreddit-dep-ccomp.html) – [compound](en_gumreddit-dep-compound.html) – [compound:prt](en_gumreddit-dep-compound-prt.html) – [conj](en_gumreddit-dep-conj.html) – [cop](en_gumreddit-dep-cop.html) – [csubj](en_gumreddit-dep-csubj.html) – [csubj:pass](en_gumreddit-dep-csubj-pass.html) – [dep](en_gumreddit-dep-dep.html) – [det](en_gumreddit-dep-det.html) – [det:predet](en_gumreddit-dep-det-predet.html) – [discourse](en_gumreddit-dep-discourse.html) – [dislocated](en_gumreddit-dep-dislocated.html) – [expl](en_gumreddit-dep-expl.html) – [fixed](en_gumreddit-dep-fixed.html) – [flat](en_gumreddit-dep-flat.html) – [goeswith](en_gumreddit-dep-goeswith.html) – [iobj](en_gumreddit-dep-iobj.html) – [mark](en_gumreddit-dep-mark.html) – [nmod](en_gumreddit-dep-nmod.html) – [nmod:poss](en_gumreddit-dep-nmod-poss.html) – [nmod:tmod](en_gumreddit-dep-nmod-tmod.html) – [nsubj](en_gumreddit-dep-nsubj.html) – [nsubj:outer](en_gumreddit-dep-nsubj-outer.html) – [nsubj:pass](en_gumreddit-dep-nsubj-pass.html) – [nummod](en_gumreddit-dep-nummod.html) – [obj](en_gumreddit-dep-obj.html) – [obl](en_gumreddit-dep-obl.html) – [obl:agent](en_gumreddit-dep-obl-agent.html) – [obl:npmod](en_gumreddit-dep-obl-npmod.html) – [obl:tmod](en_gumreddit-dep-obl-tmod.html) – [parataxis](en_gumreddit-dep-parataxis.html) – [punct](en_gumreddit-dep-punct.html) – [reparandum](en_gumreddit-dep-reparandum.html) – [root](en_gumreddit-dep-root.html) – [vocative](en_gumreddit-dep-vocative.html) – [xcomp](en_gumreddit-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -285,6 +285,14 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
 </ul>
 
 <ul>
+  <li>Gen
+    <ul>
+      <li>PRON: _</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Nom
     <ul>
       <li>PRON: _</li>
@@ -361,6 +369,7 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
       <li>INTJ: _</li>
       <li>NOUN: _</li>
       <li>PART: _</li>
+      <li>PRON: _</li>
     </ul>
   </li>
 </ul>
@@ -377,6 +386,7 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
 <ul>
   <li>Imp
     <ul>
+      <li>AUX-Fin: _</li>
       <li>VERB-Fin: _</li>
     </ul>
   </li>
@@ -458,6 +468,7 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
   <li>Ind
     <ul>
       <li>DET: _</li>
+      <li>PRON: _</li>
     </ul>
   </li>
 </ul>
@@ -469,6 +480,14 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
       <li>DET: _</li>
       <li>PRON: _</li>
       <li>SCONJ: _</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Neg
+    <ul>
+      <li>PRON: _</li>
     </ul>
   </li>
 </ul>
@@ -495,6 +514,7 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
   <li>Tot
     <ul>
       <li>DET: _</li>
+      <li>PRON: _</li>
     </ul>
   </li>
 </ul>
@@ -628,6 +648,8 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
       </li>
       <li>Word
         <ul>
+          <li>ADV: _</li>
+          <li>NOUN: _</li>
           <li>NUM: _</li>
           <li>PROPN: _</li>
         </ul>
@@ -684,18 +706,18 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (223)</li>
-      <li>VERB-Fin--PRON (77)</li>
-      <li>VERB-Fin--PRON-Nom (378)</li>
-      <li>VERB-Ger--NOUN (6)</li>
-      <li>VERB-Ger--PRON (2)</li>
+      <li>VERB-Fin--NOUN (200)</li>
+      <li>VERB-Fin--PRON (95)</li>
+      <li>VERB-Fin--PRON-Nom (376)</li>
+      <li>VERB-Ger--NOUN (5)</li>
+      <li>VERB-Ger--PRON (1)</li>
       <li>VERB-Ger--PRON-Nom (1)</li>
-      <li>VERB-Inf--NOUN (69)</li>
-      <li>VERB-Inf--PRON (26)</li>
-      <li>VERB-Inf--PRON-Nom (190)</li>
-      <li>VERB-Part--NOUN (33)</li>
-      <li>VERB-Part--PRON (9)</li>
-      <li>VERB-Part--PRON-Nom (121)</li>
+      <li>VERB-Inf--NOUN (57)</li>
+      <li>VERB-Inf--PRON (33)</li>
+      <li>VERB-Inf--PRON-Nom (187)</li>
+      <li>VERB-Part--NOUN (23)</li>
+      <li>VERB-Part--PRON (14)</li>
+      <li>VERB-Part--PRON-Nom (120)</li>
     </ul>
   </li>
 </ul>
@@ -703,17 +725,18 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (248)</li>
-      <li>VERB-Fin--PRON (28)</li>
-      <li>VERB-Fin--PRON-Acc (48)</li>
+      <li>VERB-Fin--NOUN (243)</li>
+      <li>VERB-Fin--PRON (33)</li>
+      <li>VERB-Fin--PRON-Acc (47)</li>
       <li>VERB-Ger--NOUN (57)</li>
       <li>VERB-Ger--PRON (5)</li>
       <li>VERB-Ger--PRON-Acc (12)</li>
-      <li>VERB-Inf--NOUN (221)</li>
-      <li>VERB-Inf--PRON (30)</li>
+      <li>VERB-Inf--NOUN (213)</li>
+      <li>VERB-Inf--PRON (37)</li>
       <li>VERB-Inf--PRON-Acc (57)</li>
-      <li>VERB-Part--NOUN (58)</li>
-      <li>VERB-Part--PRON (5)</li>
+      <li>VERB-Inf--PRON-Gen (1)</li>
+      <li>VERB-Part--NOUN (55)</li>
+      <li>VERB-Part--PRON (8)</li>
       <li>VERB-Part--PRON-Acc (11)</li>
     </ul>
   </li>
@@ -723,13 +746,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>iobj</a>
     <ul>
       <li>VERB-Fin--NOUN (5)</li>
-      <li>VERB-Fin--PRON (1)</li>
       <li>VERB-Fin--PRON-Acc (20)</li>
+      <li>VERB-Fin--PRON-Gen (1)</li>
       <li>VERB-Ger--NOUN (2)</li>
       <li>VERB-Ger--PRON-Acc (4)</li>
-      <li>VERB-Inf--NOUN (3)</li>
+      <li>VERB-Inf--NOUN (1)</li>
+      <li>VERB-Inf--PRON (2)</li>
       <li>VERB-Inf--PRON-Acc (8)</li>
-      <li>VERB-Part--NOUN (4)</li>
+      <li>VERB-Part--NOUN (3)</li>
+      <li>VERB-Part--PRON (1)</li>
       <li>VERB-Part--PRON-Acc (1)</li>
     </ul>
   </li>
@@ -746,6 +771,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 12 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>det:predet</a>, <a>nmod:poss</a>, <a>nmod:tmod</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:npmod</a>, <a>obl:tmod</a></li>
+<li>This corpus uses 14 relation subtypes: <a>acl:relcl</a>, <a>advcl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>det:predet</a>, <a>nmod:poss</a>, <a>nmod:tmod</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:npmod</a>, <a>obl:tmod</a></li>
 <li>The following 3 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>orphan</a></li>
 </ul>

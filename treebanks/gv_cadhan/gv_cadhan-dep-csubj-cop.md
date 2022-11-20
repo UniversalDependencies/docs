@@ -18,19 +18,19 @@ The following 4 pairs of parts of speech are connected with `csubj:cop`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 4 csubj:cop	color:blue
-1	S'	she	AUX	_	_	2	cop	_	_
-2	messey	olk	ADJ	_	Degree=Cmp,Sup	0	root	_	_
-3	e	e	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	4	nmod:poss	_	_
-4	vaggyrt	baggyrt	NOUN	_	Form=Len	2	csubj:cop	_	_
-5	na	na	ADP	_	_	7	case	_	_
-6	e	e	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	7	nmod:poss	_	_
-7	vuilley	builley	NOUN	_	Form=Len	2	obl	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	2	punct	_	_
+# visual-style 2 5 csubj:cop	color:blue
+1	By	she	AUX	_	_	2	cop	_	_
+2	vie	mie	ADJ	_	Form=Len	0	root	_	_
+3	lesh	lesh	ADP	_	_	4	case	_	_
+4	oo	oo	PRON	_	Number=Sing|Person=2	2	obl	_	_
+5	cappan	cappan	NOUN	_	_	2	csubj:cop	_	_
+6	dy	dy	ADP	_	_	7	case	_	_
+7	hey	tey	NOUN	_	Form=Len	5	nmod	_	SpaceAfter=No
+8	?	?	PUNCT	_	_	2	punct	_	_
 
 ~~~
 

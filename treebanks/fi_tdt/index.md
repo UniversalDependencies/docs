@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.0 release.
 The following people have contributed to making this treebank part of UD: Filip Ginter, Jenna Kanerva, Veronika Laippala, Niko Miekka, Anna Missilä, Stina Ojala, Sampo Pyysalo.
 
 Repository: [UD_Finnish-TDT](https://github.com/UniversalDependencies/UD_Finnish-TDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfi_tdt210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfi_tdt211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-SA 4.0
 
@@ -77,7 +77,7 @@ We thank all the authors who kindly allowed us to include their texts into the t
 
 ## Relations
 
-[acl](fi_tdt-dep-acl.html) – [acl:relcl](fi_tdt-dep-acl-relcl.html) – [advcl](fi_tdt-dep-advcl.html) – [advmod](fi_tdt-dep-advmod.html) – [amod](fi_tdt-dep-amod.html) – [appos](fi_tdt-dep-appos.html) – [aux](fi_tdt-dep-aux.html) – [aux:pass](fi_tdt-dep-aux-pass.html) – [case](fi_tdt-dep-case.html) – [cc](fi_tdt-dep-cc.html) – [cc:preconj](fi_tdt-dep-cc-preconj.html) – [ccomp](fi_tdt-dep-ccomp.html) – [compound](fi_tdt-dep-compound.html) – [compound:nn](fi_tdt-dep-compound-nn.html) – [compound:prt](fi_tdt-dep-compound-prt.html) – [conj](fi_tdt-dep-conj.html) – [cop](fi_tdt-dep-cop.html) – [cop:own](fi_tdt-dep-cop-own.html) – [csubj](fi_tdt-dep-csubj.html) – [csubj:cop](fi_tdt-dep-csubj-cop.html) – [dep](fi_tdt-dep-dep.html) – [det](fi_tdt-dep-det.html) – [discourse](fi_tdt-dep-discourse.html) – [fixed](fi_tdt-dep-fixed.html) – [flat](fi_tdt-dep-flat.html) – [flat:foreign](fi_tdt-dep-flat-foreign.html) – [flat:name](fi_tdt-dep-flat-name.html) – [goeswith](fi_tdt-dep-goeswith.html) – [mark](fi_tdt-dep-mark.html) – [nmod](fi_tdt-dep-nmod.html) – [nmod:gobj](fi_tdt-dep-nmod-gobj.html) – [nmod:gsubj](fi_tdt-dep-nmod-gsubj.html) – [nmod:poss](fi_tdt-dep-nmod-poss.html) – [nsubj](fi_tdt-dep-nsubj.html) – [nsubj:cop](fi_tdt-dep-nsubj-cop.html) – [nummod](fi_tdt-dep-nummod.html) – [obj](fi_tdt-dep-obj.html) – [obl](fi_tdt-dep-obl.html) – [orphan](fi_tdt-dep-orphan.html) – [parataxis](fi_tdt-dep-parataxis.html) – [punct](fi_tdt-dep-punct.html) – [root](fi_tdt-dep-root.html) – [vocative](fi_tdt-dep-vocative.html) – [xcomp](fi_tdt-dep-xcomp.html) – [xcomp:ds](fi_tdt-dep-xcomp-ds.html)
+[acl](fi_tdt-dep-acl.html) – [acl:relcl](fi_tdt-dep-acl-relcl.html) – [advcl](fi_tdt-dep-advcl.html) – [advmod](fi_tdt-dep-advmod.html) – [amod](fi_tdt-dep-amod.html) – [appos](fi_tdt-dep-appos.html) – [aux](fi_tdt-dep-aux.html) – [aux:pass](fi_tdt-dep-aux-pass.html) – [case](fi_tdt-dep-case.html) – [cc](fi_tdt-dep-cc.html) – [cc:preconj](fi_tdt-dep-cc-preconj.html) – [ccomp](fi_tdt-dep-ccomp.html) – [compound](fi_tdt-dep-compound.html) – [compound:nn](fi_tdt-dep-compound-nn.html) – [compound:prt](fi_tdt-dep-compound-prt.html) – [conj](fi_tdt-dep-conj.html) – [cop](fi_tdt-dep-cop.html) – [cop:own](fi_tdt-dep-cop-own.html) – [csubj](fi_tdt-dep-csubj.html) – [csubj:cop](fi_tdt-dep-csubj-cop.html) – [dep](fi_tdt-dep-dep.html) – [det](fi_tdt-dep-det.html) – [discourse](fi_tdt-dep-discourse.html) – [dislocated](fi_tdt-dep-dislocated.html) – [fixed](fi_tdt-dep-fixed.html) – [flat](fi_tdt-dep-flat.html) – [flat:foreign](fi_tdt-dep-flat-foreign.html) – [flat:name](fi_tdt-dep-flat-name.html) – [goeswith](fi_tdt-dep-goeswith.html) – [mark](fi_tdt-dep-mark.html) – [nmod](fi_tdt-dep-nmod.html) – [nmod:gobj](fi_tdt-dep-nmod-gobj.html) – [nmod:gsubj](fi_tdt-dep-nmod-gsubj.html) – [nmod:poss](fi_tdt-dep-nmod-poss.html) – [nsubj](fi_tdt-dep-nsubj.html) – [nsubj:cop](fi_tdt-dep-nsubj-cop.html) – [nsubj:outer](fi_tdt-dep-nsubj-outer.html) – [nummod](fi_tdt-dep-nummod.html) – [obj](fi_tdt-dep-obj.html) – [obl](fi_tdt-dep-obl.html) – [orphan](fi_tdt-dep-orphan.html) – [parataxis](fi_tdt-dep-parataxis.html) – [punct](fi_tdt-dep-punct.html) – [root](fi_tdt-dep-root.html) – [vocative](fi_tdt-dep-vocative.html) – [xcomp](fi_tdt-dep-xcomp.html) – [xcomp:ds](fi_tdt-dep-xcomp-ds.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -1202,14 +1202,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Gen (27)</li>
       <li>VERB-Fin--NOUN-Ill (1)</li>
       <li>VERB-Fin--NOUN-Ins (1)</li>
-      <li>VERB-Fin--NOUN-Nom (4138)</li>
+      <li>VERB-Fin--NOUN-Nom (4137)</li>
       <li>VERB-Fin--NOUN-Par (389)</li>
-      <li>VERB-Fin--PRON-Gen (5)</li>
+      <li>VERB-Fin--PRON-Gen (4)</li>
       <li>VERB-Fin--PRON-Nom (2136)</li>
-      <li>VERB-Fin--PRON-Par (52)</li>
+      <li>VERB-Fin--PRON-Par (51)</li>
       <li>VERB-Inf--NOUN-Gen (232)</li>
       <li>VERB-Inf--NOUN-Ins (1)</li>
-      <li>VERB-Inf--NOUN-Nom (345)</li>
+      <li>VERB-Inf--NOUN-Nom (344)</li>
       <li>VERB-Inf--NOUN-Par (106)</li>
       <li>VERB-Inf--PRON-Acc (29)</li>
       <li>VERB-Inf--PRON-Gen (137)</li>
@@ -1217,7 +1217,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Par (32)</li>
       <li>VERB-Part--NOUN-Gen (454)</li>
       <li>VERB-Part--NOUN-Ins (1)</li>
-      <li>VERB-Part--NOUN-Nom (654)</li>
+      <li>VERB-Part--NOUN-Nom (652)</li>
       <li>VERB-Part--NOUN-Par (100)</li>
       <li>VERB-Part--PRON-Acc (1)</li>
       <li>VERB-Part--PRON-Gen (152)</li>
@@ -1241,7 +1241,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-All (1)</li>
       <li>VERB-Fin--PRON-Gen (200)</li>
       <li>VERB-Fin--PRON-Nom (145)</li>
-      <li>VERB-Fin--PRON-Par (565)</li>
+      <li>VERB-Fin--PRON-Par (566)</li>
       <li>VERB-Inf--NOUN-Ela (1)</li>
       <li>VERB-Inf--NOUN-Gen (329)</li>
       <li>VERB-Inf--NOUN-Ill (1)</li>
@@ -1282,6 +1282,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 14 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:nn</a>, <a>compound:prt</a>, <a>cop:own</a>, <a>csubj:cop</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nmod:gobj</a>, <a>nmod:gsubj</a>, <a>nmod:poss</a>, <a>nsubj:cop</a>, <a>xcomp:ds</a></li>
-<li>The following 6 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>reparandum</a></li>
+<li>This corpus uses 15 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:nn</a>, <a>compound:prt</a>, <a>cop:own</a>, <a>csubj:cop</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nmod:gobj</a>, <a>nmod:gsubj</a>, <a>nmod:poss</a>, <a>nsubj:cop</a>, <a>nsubj:outer</a>, <a>xcomp:ds</a></li>
+<li>The following 5 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>clf</a>, <a>list</a>, <a>reparandum</a></li>
 </ul>

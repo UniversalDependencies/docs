@@ -25,66 +25,82 @@ advmod(poročali,že)
 advmod(reported,already)
 ~~~
 ~~~ sdparse
-še pes ima rad mir pri jedi
+še pes ima rad mir pri jedi \n even dogs have preference-for peace while eating
 advmod(ima,rad)
+advmod(have,preference-for)
 ~~~
 
 The `advmod` relation is also used for non-core elements of complex verb phrases expressing negation or modality. In particular, this refers to the adverb (`ADV`) _**lahko**_ and the particles (`PART`) _**ne**_ and _**naj**_.
 
 
 ~~~ sdparse
-Rupla ne skrbi usoda slovenskega jezika v EU . \n Rupel not worries the-faith of-Slovenian language in EU .
+Rupla ne skrbi usoda slovenskega jezika v EU . \n Rupel not worries the-fate of-Slovenian language in EU .
 advmod(skrbi,ne)
 advmod(worries,not)
 ~~~
 ~~~ sdparse
-Po tej poti so lahko konji vlekli vprege . 
+Po tej poti so lahko konji vlekli vprege . \n On this road they-aux-PAST could horses draw carriages . 
 advmod(vlekli,lahko)
+advmod(draw,could)
 ~~~
 ~~~ sdparse
-Le zakaj naj bi ju porinila ven ?
+Le zakaj naj bi ju porinila ven ? \n Truly why would she-aux-COND them push out ?
 advmod(porinila,naj)
+advmod(push,would)
 ~~~
 
 The second group of expressions typically marked as `advmod` are adverbs acting as modifiers to other modifier words such as adjectives or adverbs. 
 
 ~~~ sdparse
-normalno delujoče mišice
+normalno delujoče mišice \n normally functioning muscles
 advmod(delujoče,normalno)
 amod(mišice,delujoče)
+advmod(functioning,normally)
+amod(muscles,functioning)
 ~~~
 ~~~ sdparse
-dogodki so se odvijali bistveno drugače
+dogodki so se odvijali bistveno drugače \n events they-aux-PAST REFLEX unfolded quite differently
 advmod(drugače,bistveno)
 advmod(odvijali,drugače)
+advmod(differently,quite)
+advmod(unfold,differently)
 ~~~
 ~~~ sdparse
-farmarjem ne prav ljubi časopisi
+farmarjem ne prav ljubi časopisi \n with-farmers not very popular newspapers
 advmod(ljubi,ne)
 advmod(ljubi,prav)
 amod(časopisi,ljubi)
+advmod(popular,not)
+advmod(popular,very)
+amod(newspapers,popular)
 ~~~
 
 The `advmod` relation is also used for emphasizing or intensifying adverbs, such as _celo, zlasti, samo, tudi, niti, predvsem ..._, which modify noun phrases, including prepositional phrases.
 
 
 ~~~ sdparse
-največji uspeh doslej
+največji uspeh doslej \n greatest achievement yet
 advmod(uspeh,doslej)
+advmod(achievement,yet)
 ~~~
 
 ~~~ sdparse
-v torek zvečer
+v torek zvečer \n on Tuesday evening
 advmod(torek,zvečer)
+advmod(Tuesday,evening)
 ~~~
 
 ~~~ sdparse
-popke takoj ob začetku sušenja hitro segrejejo
+popke takoj ob začetku sušenja hitro segrejejo \n buds immediately at start of-drying quickly they-warm-up
 advmod(začetku,takoj)
 case(začetku,ob)
+advmod(start,immediately)
+case(start,at)
 ~~~
 
 ~~~ sdparse
- vložki iz krp, spletene volne, gobe in celo trave
+vložki iz krp , spletene volne , gobe in celo trave \n inserts made-of cloth, knitted wool , sponge and even grass
 advmod(trave,celo)
+advmod(even,grass)
 ~~~
+<!-- Interlanguage links updated Po lis 14 15:35:05 CET 2022 -->

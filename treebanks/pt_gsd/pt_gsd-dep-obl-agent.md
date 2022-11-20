@@ -35,11 +35,11 @@ The following 1 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 11	que	_	PRON	PRON	_	17	nsubj	_	SpaceAfter=No
 12	,	,	PUNCT	.	_	15	punct	_	_
 13	em	em	ADP	ADP	_	15	case	_	_
-14	15	_	NUM	NUM	NumType=Card	15	nummod	_	_
+14	15	15	NUM	NUM	NumType=Card	15	nummod	_	_
 15	minutos	minuto	NOUN	NOUN	_	17	obl	_	SpaceAfter=No
 16	,	,	PUNCT	.	_	15	punct	_	_
 17	tentou	tentar	VERB	VERB	_	8	acl:relcl	_	_
-18	10	_	NUM	NUM	NumType=Card	19	nummod	_	_
+18	10	10	NUM	NUM	NumType=Card	19	nummod	_	_
 19	arremessos	arremesso	NOUN	NOUN	_	17	obj	_	_
 20	de	de	ADP	ADP	_	21	case	_	_
 21	quadra	quadra	NOUN	NOUN	_	19	nmod	_	_

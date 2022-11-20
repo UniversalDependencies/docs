@@ -22,4 +22,4 @@ udver: '2'
 #### Examples
 
 * _שׁומר_ "guarding"
-<!-- Interlanguage links updated So kvě 14 19:02:44 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:00 CET 2022 -->

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.1 release.
 The following people have contributed to making this treebank part of UD: Ryan McDonald, Joakim Nivre, Daniel Zeman, Septina Dian Larasati, Ika Alfina.
 
 Repository: [UD_Indonesian-GSD](https://github.com/UniversalDependencies/UD_Indonesian-GSD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udid_gsd210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udid_gsd211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-SA 4.0
 
@@ -85,11 +85,11 @@ The Indonesian-GSD treebank was originally converted from the content head versi
 
 
 <ul>
-<li>This corpus contains 5598 sentences, 119832 tokens and 122021 syntactic words.</li>
+<li>This corpus contains 5598 sentences, 119830 tokens and 122019 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 16339 tokens (14%) that are not followed by a space.</li>
+<li>This corpus contains 16340 tokens (14%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -518,16 +518,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (1601)</li>
+      <li>VERB--NOUN (1588)</li>
       <li>VERB--NOUN-ADP(dalam) (1)</li>
       <li>VERB--NOUN-ADP(di) (1)</li>
       <li>VERB--NOUN-ADP(karena) (1)</li>
       <li>VERB--NOUN-ADP(saat) (1)</li>
       <li>VERB--NOUN-ADP(seperti) (1)</li>
       <li>VERB--NOUN-ADP(untuk) (1)</li>
-      <li>VERB--PRON (2114)</li>
+      <li>VERB--PRON (2094)</li>
       <li>VERB--PRON-ADP(di) (1)</li>
-      <li>VERB--PRON-ADP(karena) (1)</li>
     </ul>
   </li>
 </ul>
@@ -551,11 +550,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-ADP(sebesar) (1)</li>
       <li>VERB--NOUN-ADP(secara) (1)</li>
       <li>VERB--NOUN-ADP(selama) (1)</li>
-      <li>VERB--NOUN-ADP(seluas) (1)</li>
       <li>VERB--NOUN-ADP(seperti) (4)</li>
       <li>VERB--NOUN-ADP(untuk) (2)</li>
       <li>VERB--NOUN-ADP(yaitu) (1)</li>
-      <li>VERB--PRON (536)</li>
+      <li>VERB--PRON (537)</li>
     </ul>
   </li>
 </ul>

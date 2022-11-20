@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="it_markit-dep-expl.html">expl</a></tt>.
 There are also 1 other language-specific subtypes of `expl`: <tt><a href="it_markit-dep-expl-pass.html">expl:pass</a></tt>.
 
-85 nodes (0%) are attached to their parents as `expl:impers`.
+84 nodes (0%) are attached to their parents as `expl:impers`.
 
-85 instances of `expl:impers` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.65882352941176.
+84 instances of `expl:impers` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.6547619047619.
 
-The following 3 pairs of parts of speech are connected with `expl:impers`: <tt><a href="it_markit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_markit-pos-PRON.html">PRON</a></tt> (83; 98% instances), <tt><a href="it_markit-pos-AUX.html">AUX</a></tt>-<tt><a href="it_markit-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_markit-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 3 pairs of parts of speech are connected with `expl:impers`: <tt><a href="it_markit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_markit-pos-PRON.html">PRON</a></tt> (82; 98% instances), <tt><a href="it_markit-pos-AUX.html">AUX</a></tt>-<tt><a href="it_markit-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="it_markit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_markit-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -96,14 +96,14 @@ The following 3 pairs of parts of speech are connected with `expl:impers`: <tt><
 5	quando	quando	SCONJ	CS	_	8	mark	_	_
 6	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	expl:impers	_	_
 7	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
-8	bisogno	bisogno	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+8	bisogno	bisogno	NOUN	S	Gender=Masc|Number=Sing	15	obl	_	_
 9	di	di	ADP	E	_	10	case	_	_
 10	aiuto	aiuto	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	_
 11	che	che	SCONJ	CS	_	15	mark	_	_
 12	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 13	persona	persona	NOUN	S	Gender=Fem|Number=Sing	15	nsubj	_	_
 14	deve	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
-15	avere	avere	VERB	V	VerbForm=Inf	8	acl	_	_
+15	avere	avere	VERB	V	VerbForm=Inf	0	root	_	_
 16	accanto	accanto	ADV	B	_	15	advmod	_	_
 17	un	uno	DET	RI	_	18	det	_	_
 18	amico	amico	NOUN	S	Gender=Masc|Number=Sing	15	obj	_	_
@@ -130,7 +130,7 @@ The following 3 pairs of parts of speech are connected with `expl:impers`: <tt><
 39	con	con	ADP	E	_	41	case	_	_
 40	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	41	det	_	_
 41	debolezze	debolezza	NOUN	S	Gender=Fem|Number=Plur	37	conj	_	_
-42	.	.	PUNCT	FS	_	8	punct	_	_
+42	.	.	PUNCT	FS	_	15	punct	_	_
 
 ~~~
 

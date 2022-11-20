@@ -62,7 +62,7 @@ The 3rd highest number of forms (26) was observed with the lemma “multus”: <
 
 `ADJ` occurs with 4 features: <tt><a href="la_proiel-feat-Case.html">Case</a></tt> (16814; 100% instances), <tt><a href="la_proiel-feat-Number.html">Number</a></tt> (16814; 100% instances), <tt><a href="la_proiel-feat-Gender.html">Gender</a></tt> (16046; 95% instances), <tt><a href="la_proiel-feat-Degree.html">Degree</a></tt> (10572; 63% instances)
 
-`ADJ` occurs with 17 feature-value pairs: `Case=Abl`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Case=Voc`, `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `Gender=Fem`, `Gender=Fem,Masc`, `Gender=Fem,Neut`, `Gender=Masc`, `Gender=Masc,Neut`, `Gender=Neut`, `Number=Plur`, `Number=Sing`
+`ADJ` occurs with 17 feature-value pairs: `Case=Abl`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Case=Voc`, `Degree=Abs`, `Degree=Cmp`, `Degree=Pos`, `Gender=Fem`, `Gender=Fem,Masc`, `Gender=Fem,Neut`, `Gender=Masc`, `Gender=Masc,Neut`, `Gender=Neut`, `Number=Plur`, `Number=Sing`
 
 `ADJ` occurs with 190 feature combinations.
 The most frequent feature combination is `Case=Nom|Degree=Pos|Gender=Masc|Number=Sing` (870 tokens).

@@ -21,5 +21,5 @@ The feature is used with 1 part-of-speech tags: <tt><a href="pt_gsd-pos-PROPN.ht
 `PROPN` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>S.</em>
-* `EMPTY` (32816): <em>feira, Brasil, São, Paulo, rio, Estado, Nacional, Federal, janeiro, quinta</em>
+* `EMPTY` (32806): <em>feira, Brasil, São, Paulo, rio, Estado, Nacional, Federal, janeiro, quinta</em>
 

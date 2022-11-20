@@ -9,22 +9,46 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-155 tokens (0%) have a non-empty value of `Typo`.
-110 types (1%) occur at least once with a non-empty value of `Typo`.
-94 lemmas (1%) occur at least once with a non-empty value of `Typo`.
-The feature is used with 15 part-of-speech tags: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (34; 0% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (21; 0% instances), <tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (18; 0% instances), <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (16; 0% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (13; 0% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (12; 0% instances), <tt><a href="en_gum-pos-DET.html">DET</a></tt> (9; 0% instances), <tt><a href="en_gum-pos-PART.html">PART</a></tt> (7; 0% instances), <tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="en_gum-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+247 tokens (0%) have a non-empty value of `Typo`.
+175 types (1%) occur at least once with a non-empty value of `Typo`.
+153 lemmas (1%) occur at least once with a non-empty value of `Typo`.
+The feature is used with 14 part-of-speech tags: <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (56; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (40; 0% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (28; 0% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (21; 0% instances), <tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (19; 0% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (18; 0% instances), <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (16; 0% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (14; 0% instances), <tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> (10; 0% instances), <tt><a href="en_gum-pos-DET.html">DET</a></tt> (9; 0% instances), <tt><a href="en_gum-pos-PART.html">PART</a></tt> (7; 0% instances), <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (2; 0% instances).
+
+### `NOUN`
+
+56 <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Typo`.
+
+The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=Sing</tt> (45; 80%).
+
+`NOUN` tokens may have the following values of `Typo`:
+
+* `Yes` (56; 100% of non-empty `Typo`): <em>etc, lotos, dodge, fisherman, kind, order, per, thing, type, F</em>
+
+`Typo` seems to be **lexical feature** of `NOUN`. 100% lemmas (43) occur only with one value of `Typo`.
 
 ### `VERB`
 
-34 <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Typo`.
+40 <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (19; 56%), <tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (19; 56%), <tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (19; 56%).
+The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (23; 57%), <tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (23; 57%), <tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (23; 57%).
 
 `VERB` tokens may have the following values of `Typo`:
 
-* `Yes` (34; 100% of non-empty `Typo`): <em>set, 's, Pre, address, be, been, begun, breath, cause, completed</em>
+* `Yes` (40; 100% of non-empty `Typo`): <em>set, 's, Pre, United, Untied, address, be, been, begun, breath</em>
 
-`Typo` seems to be **lexical feature** of `VERB`. 100% lemmas (26) occur only with one value of `Typo`.
+`Typo` seems to be **lexical feature** of `VERB`. 100% lemmas (31) occur only with one value of `Typo`.
+
+### `PRON`
+
+28 <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Typo`.
+
+The most frequent other feature values with which `PRON` and `Typo` co-occurred: <tt><a href="en_gum-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (25; 89%), <tt><a href="en_gum-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (22; 79%), <tt><a href="en_gum-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (21; 75%), <tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=3</tt> (19; 68%).
+
+`PRON` tokens may have the following values of `Typo`:
+
+* `Yes` (28; 100% of non-empty `Typo`): <em>em, it, it's, we, Who, he, i, me, which, wish</em>
+
+`Typo` seems to be **lexical feature** of `PRON`. 100% lemmas (11) occur only with one value of `Typo`.
 
 ### `ADV`
 
@@ -40,13 +64,25 @@ The most frequent other feature values with which `ADV` and `Typo` co-occurred: 
 
 ### `AUX`
 
-18 <tt><a href="en_gum-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Typo`.
+19 <tt><a href="en_gum-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `AUX` and `Typo` co-occurred: <tt><a href="en_gum-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (17; 94%), <tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (12; 67%), <tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=3</tt> (12; 67%).
+The most frequent other feature values with which `AUX` and `Typo` co-occurred: <tt><a href="en_gum-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (18; 95%), <tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (13; 68%), <tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=3</tt> (13; 68%).
 
 `AUX` tokens may have the following values of `Typo`:
 
-* `Yes` (18; 100% of non-empty `Typo`): <em>are, can, is, was, be, has, ll, s, were, where</em>
+* `Yes` (19; 100% of non-empty `Typo`): <em>are, is, can, was, be, has, ll, s, were, where</em>
+
+### `ADJ`
+
+18 <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Typo`.
+
+The most frequent other feature values with which `ADJ` and `Typo` co-occurred: <tt><a href="en_gum-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (16; 89%).
+
+`ADJ` tokens may have the following values of `Typo`:
+
+* `Yes` (18; 100% of non-empty `Typo`): <em>residential, I.=, Water, first, flashest, luxerious, non-Muslim, northeastern, online, others</em>
+
+`Typo` seems to be **lexical feature** of `ADJ`. 100% lemmas (16) occur only with one value of `Typo`.
 
 ### `ADP`
 
@@ -58,27 +94,25 @@ The most frequent other feature values with which `AUX` and `Typo` co-occurred: 
 
 `Typo` seems to be **lexical feature** of `ADP`. 100% lemmas (10) occur only with one value of `Typo`.
 
-### `NOUN`
+### `PROPN`
 
-13 <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Typo`.
+14 <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11; 85%).
+The most frequent other feature values with which `PROPN` and `Typo` co-occurred: <tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11; 79%).
 
-`NOUN` tokens may have the following values of `Typo`:
+`PROPN` tokens may have the following values of `Typo`:
 
-* `Yes` (13; 100% of non-empty `Typo`): <em>lotos, dodge, per, F, bag, break, nation, self</em>
+* `Yes` (14; 100% of non-empty `Typo`): <em>sea, skittles, Chatnam, Hell, Hutter, Tale, Trump, bd, june, petri</em>
 
-### `ADJ`
+`Typo` seems to be **lexical feature** of `PROPN`. 100% lemmas (10) occur only with one value of `Typo`.
 
-12 <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Typo`.
+### `PUNCT`
 
-The most frequent other feature values with which `ADJ` and `Typo` co-occurred: <tt><a href="en_gum-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (12; 100%).
+10 <tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> tokens (0% of all `PUNCT` tokens) have a non-empty value of `Typo`.
 
-`ADJ` tokens may have the following values of `Typo`:
+`PUNCT` tokens may have the following values of `Typo`:
 
-* `Yes` (12; 100% of non-empty `Typo`): <em>I.=, first, non-Muslim, northeastern, online, others, philippine, signifcant, substantial, successfully</em>
-
-`Typo` seems to be **lexical feature** of `ADJ`. 100% lemmas (12) occur only with one value of `Typo`.
+* `Yes` (10; 100% of non-empty `Typo`): <em>", -, ., [, |, ’</em>
 
 ### `DET`
 
@@ -100,51 +134,13 @@ The most frequent other feature values with which `PART` and `Typo` co-occurred:
 
 * `Yes` (7; 100% of non-empty `Typo`): <em>s, 's, do, the, not</em>
 
-### `PUNCT`
-
-6 <tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> tokens (0% of all `PUNCT` tokens) have a non-empty value of `Typo`.
-
-`PUNCT` tokens may have the following values of `Typo`:
-
-* `Yes` (6; 100% of non-empty `Typo`): <em>", ., [, |</em>
-
 ### `SCONJ`
 
 5 <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> tokens (0% of all `SCONJ` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `SCONJ` and `Typo` co-occurred: <tt><a href="en_gum-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (5; 100%).
-
 `SCONJ` tokens may have the following values of `Typo`:
 
 * `Yes` (5; 100% of non-empty `Typo`): <em>cuz, despite, that</em>
-
-### `PRON`
-
-4 <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Typo`.
-
-The most frequent other feature values with which `PRON` and `Typo` co-occurred: <tt><a href="en_gum-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="en_gum-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="en_gum-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3; 75%), <tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3; 75%).
-
-`PRON` tokens may have the following values of `Typo`:
-
-* `Yes` (4; 100% of non-empty `Typo`): <em>it, which, wish, ya</em>
-
-### `PROPN`
-
-4 <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `Typo`.
-
-The most frequent other feature values with which `PROPN` and `Typo` co-occurred: <tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 100%).
-
-`PROPN` tokens may have the following values of `Typo`:
-
-* `Yes` (4; 100% of non-empty `Typo`): <em>Chatnam, Hell, Tale, petri</em>
-
-### `X`
-
-3 <tt><a href="en_gum-pos-X.html">X</a></tt> tokens (1% of all `X` tokens) have a non-empty value of `Typo`.
-
-`X` tokens may have the following values of `Typo`:
-
-* `Yes` (3; 100% of non-empty `Typo`): <em>etc</em>
 
 ### `INTJ`
 
@@ -156,17 +152,18 @@ The most frequent other feature values with which `PROPN` and `Typo` co-occurred
 
 ### `NUM`
 
-1 <tt><a href="en_gum-pos-NUM.html">NUM</a></tt> tokens (0% of all `NUM` tokens) have a non-empty value of `Typo`.
+2 <tt><a href="en_gum-pos-NUM.html">NUM</a></tt> tokens (0% of all `NUM` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `NUM` and `Typo` co-occurred: <tt><a href="en_gum-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (1; 100%), <tt><a href="en_gum-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (1; 100%).
+The most frequent other feature values with which `NUM` and `Typo` co-occurred: <tt><a href="en_gum-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (2; 100%), <tt><a href="en_gum-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (2; 100%).
 
 `NUM` tokens may have the following values of `Typo`:
 
-* `Yes` (1; 100% of non-empty `Typo`): <em>five</em>
+* `Yes` (2; 100% of non-empty `Typo`): <em>five, one</em>
 
 ## Relations with Agreement in `Typo`
 
 The 10 most frequent relations where parent and child node agree in `Typo`:
+<tt>PROPN --[<tt><a href="en_gum-dep-conj.html">conj</a></tt>]--> PROPN</tt> (2; 100%),
 <tt>ADV --[<tt><a href="en_gum-dep-parataxis.html">parataxis</a></tt>]--> ADV</tt> (1; 100%),
 <tt>PROPN --[<tt><a href="en_gum-dep-case.html">case</a></tt>]--> PART</tt> (1; 100%),
 <tt>VERB --[<tt><a href="en_gum-dep-compound.html">compound</a></tt>]--> NOUN</tt> (1; 100%).

@@ -23,7 +23,7 @@ The following 9 pairs of parts of speech are connected with `det:poss`: <tt><a h
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 det:poss	color:blue
-1	@user	@user	SYM	SYM	_	5	vocative:mention	_	_
+1	@user	@user	SYM	SYM	_	5	vocative	_	_
 2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 3	tuo	tuo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	4	det:poss	_	_
 4	moroso	moroso	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	_
@@ -54,7 +54,7 @@ The following 9 pairs of parts of speech are connected with `det:poss`: <tt><a h
 7	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
 8	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	acl	_	_
 9	#Belhanda	#Belhanda	SYM	SYM	_	8	nsubj	_	_
-10	😲😲😱😲😱	😲😲😱😲😱	SYM	SYM	_	6	discourse:emo	_	_
+10	😲😲😱😲😱	😲😲😱😲😱	SYM	SYM	_	6	discourse	_	_
 
 ~~~
 

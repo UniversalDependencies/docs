@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="myv_jr-dep-flat.html">flat</a></tt>.
 
-20 nodes (0%) are attached to their parents as `flat:name`.
+34 nodes (0%) are attached to their parents as `flat:name`.
 
-20 instances of `flat:name` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.1.
+34 instances of `flat:name` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.08823529411765.
 
-The following 4 pairs of parts of speech are connected with `flat:name`: <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt>-<tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (8; 40% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (5; 25% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (5; 25% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (2; 10% instances).
+The following 4 pairs of parts of speech are connected with `flat:name`: <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt>-<tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (15; 44% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (7; 21% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (6; 18% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (6; 18% instances).
 
 
 ~~~ conllu
@@ -32,6 +32,23 @@ The following 4 pairs of parts of speech are connected with `flat:name`: <tt><a 
 
 
 ~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 flat:name	color:blue
+1	—	—	PUNCT	CLB	_	3	punct	_	_
+2	Иля	а	AUX	AUX	Mood=Proh|Number[subj]=Sing|Person[subj]=2	3	aux:neg	_	GTtags=Proh,ScSg2
+3	сова	совамс	VERB	V	Connegative=Yes|Valency=1	0	root	_	GTtags=IV,ConNeg|SpaceAfter=No
+4	,	,	PUNCT	CLB	_	5	punct	_	_
+5	Рамко	Рамко	PROPN	N	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	3	vocative	_	GTtags=Prop,Ant_Mal,Sg,Nom,Indef
+6	лелякай	лелякай	NOUN	N	Derivation=VocKaj	5	flat:name	_	GTtags=Sem/Kin,Der/кай,Voc|SpaceAfter=No
+7	.	.	PUNCT	CLB	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 3	bgColor:blue
@@ -44,23 +61,6 @@ The following 4 pairs of parts of speech are connected with `flat:name`: <tt><a 
 5	ёнов	ён	NOUN	N	Case=Lat|Definite=Ind|Number=Plur,Sing	1	obl	_	GTtags=Relator,SP,Lat,Indef
 6	эрязасто	эрязасто	ADV	Adv	AdvType=Man|Case=Ela	1	advmod	_	GTtags=Manner,Ela|SpaceAfter=No
 7	.	.	PUNCT	CLB	_	1	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 flat:name	color:blue
-1	—	—	PUNCT	PUNCT	_	4	punct	_	_
-2	Эх	эх	INTJ	Interj	_	4	discourse	_	GTtags=|SpaceAfter=No
-3	,	,	PUNCT	CLB	_	2	punct	_	_
-4	жаль	жаль	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	0	root	_	GTtags=Sg,Nom,Indef
-5	Каряз	каряз	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	4	nsubj	_	GTtags=Sg,Nom,Indef
-6	Иван	Иван	PROPN	N	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	5	flat:name	_	GTtags=Prop,Ant_Mal,Sg,Nom,Indef|SpaceAfter=No
-7	.	.	PUNCT	CLB	_	4	punct	_	_
 
 ~~~
 

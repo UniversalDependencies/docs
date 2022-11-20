@@ -32,7 +32,7 @@ The following 9 pairs of parts of speech are connected with `nummod`: <tt><a hre
 8	התפתח	התפתח	VERB	VERB	Gender=Masc|HebBinyan=HITPAEL|Number=Sing|Person=3|Tense=Past|Voice=Mid	0	root	_	_
 9	במשך	במשך	ADP	ADP	_	10	case	_	_
 10	תקופה	תקופה	NOUN	NOUN	Gender=Fem|Number=Sing	8	obl	_	_
-11	של	של	ADP	ADP	_	13	case	_	_
+11	של	של	ADP	ADP	Case=Gen	13	case	_	_
 12	ארבעה	ארבע	NUM	NUM	Gender=Masc|NumType=Card	13	nummod	_	_
 13	עשורים	עשור	NOUN	NOUN	Gender=Masc|Number=Plur	10	nmod:poss	_	SpaceAfter=No
 14	.	.	PUNCT	PUNCT	_	8	punct	_	_
@@ -82,7 +82,7 @@ The following 9 pairs of parts of speech are connected with `nummod`: <tt><a hre
 11	גלוקוז	גלוקוז	NOUN	NOUN	Gender=Masc|Number=Sing	10	compound	_	_
 12	ב	ב	ADP	ADP	Definite=Def|PronType=Art	13	case	_	_
 13	דם	דם	NOUN	NOUN	Gender=Masc|Number=Sing	10	nmod	_	_
-14	של	של	ADP	ADP	_	16	case	_	_
+14	של	של	ADP	ADP	Case=Gen	16	case	_	_
 15	154	154	NUM	NUM	_	16	nummod	_	_
 16	gl/dl	gl/dl	NOUN	NOUN	_	10	nmod:poss	_	_
 17	)	)	PUNCT	PUNCT	_	10	punct	_	_

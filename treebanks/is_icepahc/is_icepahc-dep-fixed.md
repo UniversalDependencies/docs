@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-707 nodes (0%) are attached to their parents as `fixed`.
+712 nodes (0%) are attached to their parents as `fixed`.
 
-707 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.001414427157.
+712 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.00280898876405.
 
-The following 3 pairs of parts of speech are connected with `fixed`: <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt>-<tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt> (531; 75% instances), <tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt> (173; 24% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt>-<tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances).
+The following 7 pairs of parts of speech are connected with `fixed`: <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt>-<tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt> (530; 74% instances), <tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt> (173; 24% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt>-<tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt> (4; 1% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt>-<tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt>-<tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt>-<tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt>-<tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -45,11 +45,11 @@ The following 3 pairs of parts of speech are connected with `fixed`: <tt><a href
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 fixed	color:blue
-1	Ríki	ríki	ADJ	ADJ-N	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	2	amod	_	IFD_tag=nhen
-2	Guðs	guð	PROPN	NPR-G	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	4	nsubj	_	IFD_tag=nkee-s
+1	Ríki	ríki	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	4	nsubj	_	IFD_tag=nhen
+2	Guðs	guð	PROPN	NPR-G	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	1	nmod:poss	_	IFD_tag=nkee-s
 3	mun	munu	AUX	MDPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	IFD_tag=sfg3en
 4	koma	koma	VERB	VB	VerbForm=Inf|Voice=Act	0	root	_	IFD_tag=sng|SpaceAfter=No
-5	,	,	PUNCT	,	_	4	punct	_	IFD_tag=
+5	,	,	PUNCT	,	_	4	punct	_	IFD_tag
 6	hvort	hvort	SCONJ	WQ	_	9	mark	_	IFD_tag=c
 7	sem	sem	SCONJ	C	_	6	fixed	_	IFD_tag=c
 8	vér	ég	PRON	PRO-N	Case=Nom|Number=Plur|Person=1|PronType=Prs	9	nsubj	_	IFD_tag=fp1fn
@@ -75,7 +75,7 @@ The following 3 pairs of parts of speech are connected with `fixed`: <tt><a href
 5	var	vera	AUX	BEDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	_	IFD_tag=sfg3eþ
 6	þessa	þessi	DET	D-G	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	10	obl	_	IFD_tag=fakee
 7	heims	heimur	NOUN	N-G	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	6	xcomp	_	IFD_tag=nkee|SpaceAfter=No
-8	,	,	PUNCT	,	_	10	punct	_	IFD_tag=
+8	,	,	PUNCT	,	_	10	punct	_	IFD_tag
 9	þá	þá	ADV	ADV	_	10	advmod	_	IFD_tag=aa
 10	fylgdi	fylgja	VERB	VBDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	IFD_tag=sfg3eþ
 11	María	maría	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	10	nsubj	_	IFD_tag=nven-s
@@ -88,7 +88,7 @@ The following 3 pairs of parts of speech are connected with `fixed`: <tt><a href
 18	speki	speki	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	14	obj	_	IFD_tag=nveo
 19	og	og	CCONJ	CONJ	_	20	cc	_	IFD_tag=c
 20	gæsku	gæska	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	18	conj	_	IFD_tag=nveo|SpaceAfter=No
-21	,	,	PUNCT	,	_	20	punct	_	IFD_tag=
+21	,	,	PUNCT	,	_	20	punct	_	IFD_tag
 22	svo	svo	ADP	P	_	27	case	_	IFD_tag=aa
 23	sem	sem	SCONJ	C	_	22	fixed	_	IFD_tag=c
 24	maður	maður	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	27	nsubj	_	IFD_tag=nken
@@ -97,7 +97,7 @@ The following 3 pairs of parts of speech are connected with `fixed`: <tt><a href
 27	nema	nema	VERB	VB	_	32	obl	_	IFD_tag=c
 28	eða	eða	CCONJ	CONJ	_	27	cc	_	IFD_tag=c
 29	vita	vita	VERB	VB	VerbForm=Inf|Voice=Act	27	dep	_	IFD_tag=sng|SpaceAfter=No
-30	,	,	PUNCT	,	_	32	punct	_	IFD_tag=
+30	,	,	PUNCT	,	_	32	punct	_	IFD_tag
 31	og	og	CCONJ	CONJ	_	32	cc	_	IFD_tag=c
 32	framar	framar	ADV	ADVR	Degree=Cmp	14	obl	_	IFD_tag=aam
 33	miklu	miklu	ADV	ADV	Case=Dat|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	32	advmod	_	IFD_tag=lheþsf

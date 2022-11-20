@@ -6,22 +6,22 @@ udver: '2'
 
 ## Treebank Statistics: UD_Persian-Seraji: POS Tags: `INTJ`
 
-There are 10 `INTJ` lemmas (0%), 22 `INTJ` types (0%) and 69 `INTJ` tokens (0%).
-Out of 15 observed tags, the rank of `INTJ` is: 14 in number of lemmas, 13 in number of types and 15 in number of tokens.
+There are 22 `INTJ` lemmas (0%), 22 `INTJ` types (0%) and 69 `INTJ` tokens (0%).
+Out of 15 observed tags, the rank of `INTJ` is: 12 in number of lemmas, 13 in number of types and 15 in number of tokens.
 
-The 10 most frequent `INTJ` lemmas: ای، _، بله، خیر، آری، هی، نه، خب، فر، هیچ
+The 10 most frequent `INTJ` lemmas: ای، بله، خیر، آره، آری، ا، هی، نه، وای، آ
 
 The 10 most frequent `INTJ` types:  ای، بله، خیر، آره، آری، ا، هی، نه، وای، آ
 
-The 10 most frequent ambiguous lemmas: ای (<tt><a href="fa_seraji-pos-INTJ.html">INTJ</a></tt> 26, <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> 12), _ (<tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> 4861, <tt><a href="fa_seraji-pos-VERB.html">VERB</a></tt> 1388, <tt><a href="fa_seraji-pos-ADJ.html">ADJ</a></tt> 1371, <tt><a href="fa_seraji-pos-ADV.html">ADV</a></tt> 194, <tt><a href="fa_seraji-pos-NUM.html">NUM</a></tt> 152, <tt><a href="fa_seraji-pos-AUX.html">AUX</a></tt> 98, <tt><a href="fa_seraji-pos-X.html">X</a></tt> 92, <tt><a href="fa_seraji-pos-PUNCT.html">PUNCT</a></tt> 90, <tt><a href="fa_seraji-pos-PRON.html">PRON</a></tt> 35, <tt><a href="fa_seraji-pos-ADP.html">ADP</a></tt> 32, <tt><a href="fa_seraji-pos-INTJ.html">INTJ</a></tt> 19, <tt><a href="fa_seraji-pos-SCONJ.html">SCONJ</a></tt> 12, <tt><a href="fa_seraji-pos-CCONJ.html">CCONJ</a></tt> 5, <tt><a href="fa_seraji-pos-DET.html">DET</a></tt> 4), خیر (<tt><a href="fa_seraji-pos-INTJ.html">INTJ</a></tt> 5, <tt><a href="fa_seraji-pos-ADV.html">ADV</a></tt> 4, <tt><a href="fa_seraji-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> 1), هی (<tt><a href="fa_seraji-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> 1), نه (<tt><a href="fa_seraji-pos-ADV.html">ADV</a></tt> 122, <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="fa_seraji-pos-NUM.html">NUM</a></tt> 3, <tt><a href="fa_seraji-pos-INTJ.html">INTJ</a></tt> 2), خب (<tt><a href="fa_seraji-pos-ADV.html">ADV</a></tt> 8, <tt><a href="fa_seraji-pos-INTJ.html">INTJ</a></tt> 1), فر (<tt><a href="fa_seraji-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> 1), هیچ (<tt><a href="fa_seraji-pos-ADV.html">ADV</a></tt> 134, <tt><a href="fa_seraji-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous lemmas: ای (<tt><a href="fa_seraji-pos-INTJ.html">INTJ</a></tt> 26, <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> 12), خیر (<tt><a href="fa_seraji-pos-INTJ.html">INTJ</a></tt> 5, <tt><a href="fa_seraji-pos-ADV.html">ADV</a></tt> 4, <tt><a href="fa_seraji-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> 1), ا (<tt><a href="fa_seraji-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> 2), هی (<tt><a href="fa_seraji-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> 1), نه (<tt><a href="fa_seraji-pos-ADV.html">ADV</a></tt> 122, <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="fa_seraji-pos-NUM.html">NUM</a></tt> 3, <tt><a href="fa_seraji-pos-INTJ.html">INTJ</a></tt> 2), آ (<tt><a href="fa_seraji-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> 1), آخ (<tt><a href="fa_seraji-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> 1), خب (<tt><a href="fa_seraji-pos-ADV.html">ADV</a></tt> 8, <tt><a href="fa_seraji-pos-INTJ.html">INTJ</a></tt> 1), فر (<tt><a href="fa_seraji-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> 1), ها (<tt><a href="fa_seraji-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> 1)
 
-The 10 most frequent ambiguous types:  ای (<tt><a href="fa_seraji-pos-INTJ.html">INTJ</a></tt> 26, <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> 12, <tt><a href="fa_seraji-pos-AUX.html">AUX</a></tt> 4), خیر (<tt><a href="fa_seraji-pos-INTJ.html">INTJ</a></tt> 5, <tt><a href="fa_seraji-pos-ADV.html">ADV</a></tt> 4, <tt><a href="fa_seraji-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> 1), ا (<tt><a href="fa_seraji-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> 2), هی (<tt><a href="fa_seraji-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> 1), نه (<tt><a href="fa_seraji-pos-ADV.html">ADV</a></tt> 122, <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="fa_seraji-pos-NUM.html">NUM</a></tt> 3, <tt><a href="fa_seraji-pos-INTJ.html">INTJ</a></tt> 2), آ (<tt><a href="fa_seraji-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> 1), آخ (<tt><a href="fa_seraji-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> 1), خب (<tt><a href="fa_seraji-pos-ADV.html">ADV</a></tt> 8, <tt><a href="fa_seraji-pos-INTJ.html">INTJ</a></tt> 1), فر (<tt><a href="fa_seraji-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> 1), ها (<tt><a href="fa_seraji-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous types:  ای (<tt><a href="fa_seraji-pos-INTJ.html">INTJ</a></tt> 26, <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> 12, <tt><a href="fa_seraji-pos-VERB.html">VERB</a></tt> 4), خیر (<tt><a href="fa_seraji-pos-INTJ.html">INTJ</a></tt> 5, <tt><a href="fa_seraji-pos-ADV.html">ADV</a></tt> 4, <tt><a href="fa_seraji-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> 1), ا (<tt><a href="fa_seraji-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> 2), هی (<tt><a href="fa_seraji-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> 1), نه (<tt><a href="fa_seraji-pos-ADV.html">ADV</a></tt> 122, <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="fa_seraji-pos-NUM.html">NUM</a></tt> 3, <tt><a href="fa_seraji-pos-INTJ.html">INTJ</a></tt> 2), آ (<tt><a href="fa_seraji-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> 1), آخ (<tt><a href="fa_seraji-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> 1), خب (<tt><a href="fa_seraji-pos-ADV.html">ADV</a></tt> 8, <tt><a href="fa_seraji-pos-INTJ.html">INTJ</a></tt> 1), فر (<tt><a href="fa_seraji-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> 1), ها (<tt><a href="fa_seraji-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> 1)
 
 
 * ای
   * <tt><a href="fa_seraji-pos-INTJ.html">INTJ</a></tt> 26: معاویه گفت : <b>ای</b> اباظریف !
   * <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> 12: مواد آنتی‌اکسیدان طبیعی در مرکبات ، هویج ، زردآلو و میوه‌های حاوی ویتامین <b>ای</b> نیز یافت می‌شود .
-  * <tt><a href="fa_seraji-pos-AUX.html">AUX</a></tt> 4: روزه‌ <b>ای</b> ؟
+  * <tt><a href="fa_seraji-pos-VERB.html">VERB</a></tt> 4: روزه‌ <b>ای</b> ؟
 * خیر
   * <tt><a href="fa_seraji-pos-INTJ.html">INTJ</a></tt> 5: با تعجب گفتم : <b>خیر</b> ؟
   * <tt><a href="fa_seraji-pos-ADV.html">ADV</a></tt> 4: این دو گروه ، از ریاست هاشمی رفسنجانی بر مجلس ششم دفاع می‌کنند اما هنوز معلوم نیست که آیا شخص وی برای بر عهده گرفتن مجدد این سمت اعلام آمادگی خواهد کرد یا <b>خیر</b> ؟
@@ -56,22 +56,28 @@ The 10 most frequent ambiguous types:  ای (<tt><a href="fa_seraji-pos-INTJ.htm
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 2.200000 (the average of all parts of speech is 1.920334).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.409222).
 
-The 1st highest number of forms (13) was observed with the lemma “_”: آ, آخ, آره, آهان, آوه, ا, دا, زهی, سبحان‌الله, نخیر, ها, هوی, وای.
+The 1st highest number of forms (1) was observed with the lemma “آ”: آ.
 
-The 2nd highest number of forms (1) was observed with the lemma “آری”: آری.
+The 2nd highest number of forms (1) was observed with the lemma “آخ”: آخ.
 
-The 3rd highest number of forms (1) was observed with the lemma “ای”: ای.
+The 3rd highest number of forms (1) was observed with the lemma “آره”: آره.
 
-`INTJ` does not occur with any features.
+`INTJ` occurs with 1 features: <tt><a href="fa_seraji-feat-Case.html">Case</a></tt> (26; 38% instances)
+
+`INTJ` occurs with 1 feature-value pairs: `Case=Voc`
+
+`INTJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (43 tokens).
+Examples: بله، خیر، آره، آری، ا، هی، نه، وای، آ، آخ
 
 
 ## Relations
 
-`INTJ` nodes are attached to their parents using 10 different relations: <tt><a href="fa_seraji-dep-det.html">det</a></tt> (26; 38% instances), <tt><a href="fa_seraji-dep-dep.html">dep</a></tt> (18; 26% instances), <tt><a href="fa_seraji-dep-parataxis.html">parataxis</a></tt> (12; 17% instances), <tt><a href="fa_seraji-dep-root.html">root</a></tt> (4; 6% instances), <tt><a href="fa_seraji-dep-conj.html">conj</a></tt> (3; 4% instances), <tt><a href="fa_seraji-dep-advmod.html">advmod</a></tt> (2; 3% instances), <tt><a href="fa_seraji-dep-amod.html">amod</a></tt> (1; 1% instances), <tt><a href="fa_seraji-dep-ccomp.html">ccomp</a></tt> (1; 1% instances), <tt><a href="fa_seraji-dep-obj.html">obj</a></tt> (1; 1% instances), <tt><a href="fa_seraji-dep-obl.html">obl</a></tt> (1; 1% instances)
+`INTJ` nodes are attached to their parents using 10 different relations: <tt><a href="fa_seraji-dep-case.html">case</a></tt> (26; 38% instances), <tt><a href="fa_seraji-dep-dep.html">dep</a></tt> (18; 26% instances), <tt><a href="fa_seraji-dep-parataxis.html">parataxis</a></tt> (12; 17% instances), <tt><a href="fa_seraji-dep-root.html">root</a></tt> (4; 6% instances), <tt><a href="fa_seraji-dep-conj.html">conj</a></tt> (3; 4% instances), <tt><a href="fa_seraji-dep-discourse.html">discourse</a></tt> (2; 3% instances), <tt><a href="fa_seraji-dep-amod.html">amod</a></tt> (1; 1% instances), <tt><a href="fa_seraji-dep-ccomp.html">ccomp</a></tt> (1; 1% instances), <tt><a href="fa_seraji-dep-obj.html">obj</a></tt> (1; 1% instances), <tt><a href="fa_seraji-dep-obl.html">obl</a></tt> (1; 1% instances)
 
-Parents of `INTJ` nodes belong to 6 different parts of speech: <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> (38; 55% instances), <tt><a href="fa_seraji-pos-VERB.html">VERB</a></tt> (18; 26% instances), <tt><a href="fa_seraji-pos-ADJ.html">ADJ</a></tt> (6; 9% instances),  (4; 6% instances), <tt><a href="fa_seraji-pos-X.html">X</a></tt> (2; 3% instances), <tt><a href="fa_seraji-pos-ADV.html">ADV</a></tt> (1; 1% instances)
+Parents of `INTJ` nodes belong to 6 different parts of speech: <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> (37; 54% instances), <tt><a href="fa_seraji-pos-VERB.html">VERB</a></tt> (19; 28% instances), <tt><a href="fa_seraji-pos-ADJ.html">ADJ</a></tt> (6; 9% instances),  (4; 6% instances), <tt><a href="fa_seraji-pos-X.html">X</a></tt> (2; 3% instances), <tt><a href="fa_seraji-pos-ADV.html">ADV</a></tt> (1; 1% instances)
 
 37 (54%) `INTJ` nodes are leaves.
 

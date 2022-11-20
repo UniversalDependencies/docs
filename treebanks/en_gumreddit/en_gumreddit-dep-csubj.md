@@ -32,7 +32,7 @@ The following 12 pairs of parts of speech are connected with `csubj`: <tt><a hre
 7	_	_	NOUN	NN	Number=Sing	4	obl	4:obl:with	Lem=_|Len=4
 8	_	_	SCONJ	IN	_	9	mark	9:mark	Discourse=elaboration-attribute:87->86:0|Lem=_|Len=4
 9	_	_	VERB	VBG	VerbForm=Ger	16	csubj	16:csubj	Lem=raise|Len=7
-10	_	_	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	11	nmod:poss	11:nmod:poss	Entity=(91-person-new-cf3-2-sgl(2-person-giv:inact-cf2-1-ana)|Lem=_|Len=3
+10	_	_	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	11	nmod:poss	11:nmod:poss	Entity=(91-person-new-cf3-2-sgl(2-person-giv:inact-cf2-1-ana)|Lem=_|Len=3
 11	_	_	NOUN	NN	Number=Sing	9	obj	9:obj	Entity=91)|Lem=_|Len=9
 12	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	16:cop	Lem=be|Len=2
 13	_	_	NOUN	NN	Number=Sing	16	compound	16:compound	Entity=(92-abstract-new-cf6-1-sgl)|Lem=_|Len=5
@@ -77,7 +77,7 @@ The following 12 pairs of parts of speech are connected with `csubj`: <tt><a hre
 # visual-style 14	bgColor:blue
 # visual-style 14	fgColor:white
 # visual-style 14 5 csubj	color:blue
-1	_	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	nsubj	14:nsubj	Discourse=explanation-justify:10->9:1|Entity=(16-abstract-new-cf1-1-cata)|Lem=*LOWER*|Len=2
+1	_	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	nsubj:outer	14:nsubj:outer	Discourse=explanation-justify:10->9:1|Entity=(16-abstract-new-cf1-1-cata)|Lem=*LOWER*|Len=2
 2	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	14:cop	Lem=be|Len=2
 3	_	_	ADV	RB	_	14	advmod	14:advmod	Lem=_|Len=4
 4	_	_	SCONJ	IN	_	14	mark	14:mark	Lem=_|Len=4
@@ -93,9 +93,9 @@ The following 12 pairs of parts of speech are connected with `csubj`: <tt><a hre
 14	_	_	NOUN	NN	Number=Sing	0	root	0:root	Entity=19)16)|Lem=_|Len=9|SpaceAfter=No
 15	_	_	PUNCT	,	_	28	punct	28:punct	Lem=_|Len=1
 16	_	_	ADV	RB	_	28	advmod	28:advmod	Discourse=causal-result:11->10:0|Lem=_|Len=2
-17	_	_	PRON	DT	Number=Sing|PronType=Dem	28	nsubj	28:nsubj	Entity=(16-abstract-giv:act-cf1-1-coref)|Lem=_|Len=4
+17	_	_	PRON	DT	Number=Sing|PronType=Dem	28	nsubj:outer	28:nsubj:outer	Entity=(16-abstract-giv:act-cf1-1-coref)|Lem=_|Len=4
 18	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	cop	28:cop	Lem=be|Len=2
-19	_	_	SCONJ	WRB	PronType=Int	28	mark	28:mark	Lem=_|Len=3
+19	_	_	ADV	WRB	PronType=Int	28	advmod	28:advmod	Lem=_|Len=3
 20	_	_	VERB	VBG	VerbForm=Ger	28	csubj	28:csubj	Entity=(20-abstract-new-cf3-1-disc|Lem=get|Len=7
 21	_	_	NOUN	NNS	Number=Plur	20	obj	20:obj|25:nsubj:xsubj	Bridge=7<21|Entity=(21-animal-acc:inf-cf4-1-sgl|Lem=panda|Len=6
 22	_	_	ADP	IN	_	23	case	23:case	Lem=_|Len=2

@@ -50,4 +50,4 @@ The quality of one object is compared to the same quality of all other objects w
 * _<b>naj húbbe</b> so naspávom u dumá_ "the best / more good sleep I have at my home" 
 * _dečjáta so vórnaho <b>naj bóržo</b> ad vritsǽh_ "the children returned earlier /most early than all" 
 
-<!-- Interlanguage links updated So kvě 14 19:02:10 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:43 CET 2022 -->

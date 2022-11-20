@@ -31,7 +31,7 @@ The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 7	como	como	ADP	_	_	9	case	_	_
 8	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
 9	kumanos	kumano	NOUN	_	Gender=Masc|Number=Plur	5	nmod	_	SpaceAfter=No
-10	,	,	PUNCT	_	_	11	punct	_	_
+10	,	,	PUNCT	_	_	5	punct	_	_
 11	hace	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 12	aproximadamente	aproximadamente	ADV	_	_	11	advmod	_	_
 13	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
@@ -60,7 +60,7 @@ The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 5	jugadores	jugador	NOUN	_	Gender=Masc|Number=Plur	11	nsubj	_	_
 6	de	de	ADP	_	_	7	case	_	_
 7	fútbol	fútbol	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
-8	no	no	ADV	_	Polarity=Neg	9	advmod	_	_
+8	no	no	ADV	_	Polarity=Neg	11	advmod	_	_
 9	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
 10	demasiado	demasiado	PRON	_	NumType=Card|PronType=Ind	11	nmod	_	_
 11	inteligentes	inteligente	ADJ	_	Number=Plur	1	csubj:pass	_	_
@@ -70,7 +70,7 @@ The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 15	sabrán	saber	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	1	conj	_	_
 16	de	de	ADP	_	_	17	case	_	_
 17	gastronomía	gastronomía	NOUN	_	Gender=Fem|Number=Sing	15	obl	_	SpaceAfter=No
-18	,	,	PUNCT	_	_	15	punct	_	_
+18	,	,	PUNCT	_	_	25	punct	_	_
 19	de	de	ADP	_	_	21	case	_	_
 20	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	21	det	_	_
 21	único	único	NOUN	_	Gender=Masc|Number=Sing	25	obl	_	_

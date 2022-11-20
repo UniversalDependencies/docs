@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-5010 tokens (12%) have a non-empty value of `Degree`.
-2180 types (16%) occur at least once with a non-empty value of `Degree`.
+5009 tokens (12%) have a non-empty value of `Degree`.
+2179 types (16%) occur at least once with a non-empty value of `Degree`.
 1886 lemmas (21%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 2 part-of-speech tags: <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> (4708; 11% instances), <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (302; 1% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> (4708; 11% instances), <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (301; 1% instances).
 
 ### `ADJ`
 
@@ -37,16 +37,16 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 ### `ADV`
 
-302 <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> tokens (10% of all `ADV` tokens) have a non-empty value of `Degree`.
+301 <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> tokens (10% of all `ADV` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="hu_szeged-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (295; 98%).
+The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="hu_szeged-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (294; 98%).
 
 `ADV` tokens may have the following values of `Degree`:
 
 * `Cmp` (31; 10% of non-empty `Degree`): <em>korábban, inkább, továbbra, előbb, jobban, kevésbé, közelebb, utóbb</em>
-* `Pos` (269; 89% of non-empty `Degree`): <em>ki, fel, be, le, elő, vissza, végül, össze, jól, először</em>
+* `Pos` (268; 89% of non-empty `Degree`): <em>ki, fel, be, le, elő, vissza, végül, össze, először, jól</em>
 * `Sup` (2; 1% of non-empty `Degree`): <em>leginkább, legjobban</em>
-* `EMPTY` (2813): <em>nem, már, még, csak, el, sem, is, úgy, például, akkor</em>
+* `EMPTY` (2810): <em>nem, már, még, csak, el, sem, is, úgy, például, akkor</em>
 
 <table>
   <tr><th>Paradigm <i>jól</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -58,10 +58,9 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
-<tt>ADJ --[<tt><a href="hu_szeged-dep-amod-att.html">amod:att</a></tt>]--> ADJ</tt> (109; 68%),
-<tt>ADJ --[<tt><a href="hu_szeged-dep-conj.html">conj</a></tt>]--> ADJ</tt> (107; 79%),
-<tt>ADJ --[<tt><a href="hu_szeged-dep-obl.html">obl</a></tt>]--> ADJ</tt> (38; 70%),
-<tt>ADJ --[<tt><a href="hu_szeged-dep-orphan.html">orphan</a></tt>]--> ADJ</tt> (6; 100%),
+<tt>ADJ --[<tt><a href="hu_szeged-dep-conj.html">conj</a></tt>]--> ADJ</tt> (110; 79%),
+<tt>ADJ --[<tt><a href="hu_szeged-dep-amod-att.html">amod:att</a></tt>]--> ADJ</tt> (108; 68%),
+<tt>ADJ --[<tt><a href="hu_szeged-dep-obl.html">obl</a></tt>]--> ADJ</tt> (39; 71%),
 <tt>ADJ --[<tt><a href="hu_szeged-dep-csubj.html">csubj</a></tt>]--> ADJ</tt> (2; 100%),
 <tt>ADJ --[<tt><a href="hu_szeged-dep-nsubj.html">nsubj</a></tt>]--> ADJ</tt> (2; 100%),
 <tt>ADJ --[<tt><a href="hu_szeged-dep-parataxis.html">parataxis</a></tt>]--> ADJ</tt> (2; 100%),

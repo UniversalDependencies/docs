@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-73 nodes (1%) are attached to their parents as `amod`.
+74 nodes (1%) are attached to their parents as `amod`.
 
-73 instances of `amod` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.06849315068493.
+73 instances of `amod` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.06756756756757.
 
-The following 5 pairs of parts of speech are connected with `amod`: <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bm_crb-pos-ADJ.html">ADJ</a></tt> (64; 88% instances), <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> (4; 5% instances), <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> (3; 4% instances), <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bm_crb-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="bm_crb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `amod`: <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bm_crb-pos-ADJ.html">ADJ</a></tt> (65; 88% instances), <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> (4; 5% instances), <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> (3; 4% instances), <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bm_crb-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="bm_crb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

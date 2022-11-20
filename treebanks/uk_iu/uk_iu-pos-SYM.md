@@ -13,13 +13,13 @@ The 10 most frequent `SYM` lemmas: <em>), :), #, )), +, ;), *, ))), ;)), :rolley
 
 The 10 most frequent `SYM` types:  <em>), :), #, )), +, ;), *, ))), ;)), :rolleyes:</em>
 
-The 10 most frequent ambiguous lemmas: <em>)</em> (<tt><a href="uk_iu-pos-PUNCT.html">PUNCT</a></tt> 594, <tt><a href="uk_iu-pos-SYM.html">SYM</a></tt> 17), <em>#</em> (<tt><a href="uk_iu-pos-SYM.html">SYM</a></tt> 12, <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> 2), <em>+</em> (<tt><a href="uk_iu-pos-SYM.html">SYM</a></tt> 7, <tt><a href="uk_iu-pos-CCONJ.html">CCONJ</a></tt> 2), <em>$</em> (<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> 16, <tt><a href="uk_iu-pos-SYM.html">SYM</a></tt> 1), <em>(</em> (<tt><a href="uk_iu-pos-PUNCT.html">PUNCT</a></tt> 582, <tt><a href="uk_iu-pos-SYM.html">SYM</a></tt> 1), <em>-</em> (<tt><a href="uk_iu-pos-PUNCT.html">PUNCT</a></tt> 858, <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="uk_iu-pos-SYM.html">SYM</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>)</em> (<tt><a href="uk_iu-pos-PUNCT.html">PUNCT</a></tt> 605, <tt><a href="uk_iu-pos-SYM.html">SYM</a></tt> 17), <em>#</em> (<tt><a href="uk_iu-pos-SYM.html">SYM</a></tt> 12, <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> 2), <em>+</em> (<tt><a href="uk_iu-pos-SYM.html">SYM</a></tt> 7, <tt><a href="uk_iu-pos-CCONJ.html">CCONJ</a></tt> 2), <em>$</em> (<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> 16, <tt><a href="uk_iu-pos-SYM.html">SYM</a></tt> 1), <em>(</em> (<tt><a href="uk_iu-pos-PUNCT.html">PUNCT</a></tt> 593, <tt><a href="uk_iu-pos-SYM.html">SYM</a></tt> 1), <em>-</em> (<tt><a href="uk_iu-pos-PUNCT.html">PUNCT</a></tt> 862, <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="uk_iu-pos-SYM.html">SYM</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>)</em> (<tt><a href="uk_iu-pos-PUNCT.html">PUNCT</a></tt> 594, <tt><a href="uk_iu-pos-SYM.html">SYM</a></tt> 17), <em>#</em> (<tt><a href="uk_iu-pos-SYM.html">SYM</a></tt> 12, <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> 2), <em>+</em> (<tt><a href="uk_iu-pos-SYM.html">SYM</a></tt> 7, <tt><a href="uk_iu-pos-CCONJ.html">CCONJ</a></tt> 2), <em>$</em> (<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> 16, <tt><a href="uk_iu-pos-SYM.html">SYM</a></tt> 1), <em>(</em> (<tt><a href="uk_iu-pos-PUNCT.html">PUNCT</a></tt> 582, <tt><a href="uk_iu-pos-SYM.html">SYM</a></tt> 1), <em>-</em> (<tt><a href="uk_iu-pos-PUNCT.html">PUNCT</a></tt> 858, <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="uk_iu-pos-SYM.html">SYM</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>)</em> (<tt><a href="uk_iu-pos-PUNCT.html">PUNCT</a></tt> 605, <tt><a href="uk_iu-pos-SYM.html">SYM</a></tt> 17), <em>#</em> (<tt><a href="uk_iu-pos-SYM.html">SYM</a></tt> 12, <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> 2), <em>+</em> (<tt><a href="uk_iu-pos-SYM.html">SYM</a></tt> 7, <tt><a href="uk_iu-pos-CCONJ.html">CCONJ</a></tt> 2), <em>$</em> (<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> 16, <tt><a href="uk_iu-pos-SYM.html">SYM</a></tt> 1), <em>(</em> (<tt><a href="uk_iu-pos-PUNCT.html">PUNCT</a></tt> 593, <tt><a href="uk_iu-pos-SYM.html">SYM</a></tt> 1), <em>-</em> (<tt><a href="uk_iu-pos-PUNCT.html">PUNCT</a></tt> 862, <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="uk_iu-pos-SYM.html">SYM</a></tt> 1)
 
 
 * <em>)</em>
-  * <tt><a href="uk_iu-pos-PUNCT.html">PUNCT</a></tt> 594: <em>При цьому ( при збірці <b>)</b> належить вияснити цілі нашої боротьби .</em>
+  * <tt><a href="uk_iu-pos-PUNCT.html">PUNCT</a></tt> 605: <em>При цьому ( при збірці <b>)</b> належить вияснити цілі нашої боротьби .</em>
   * <tt><a href="uk_iu-pos-SYM.html">SYM</a></tt> 17: <em>весело <b>)</b></em>
 * <em>#</em>
   * <tt><a href="uk_iu-pos-SYM.html">SYM</a></tt> 12: <em>Дивіться <b>#</b> ГолосКраїни на 1 + 1 та трансляцію на нашій сторінці .</em>
@@ -31,16 +31,16 @@ The 10 most frequent ambiguous types:  <em>)</em> (<tt><a href="uk_iu-pos-PUNCT.
   * <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> 16: <em>У 2016 році ця сума становила <b>$</b> 300 млн .</em>
   * <tt><a href="uk_iu-pos-SYM.html">SYM</a></tt> 1: <em>Для того щоб посилання було абсолютним , потрібно перед номером стовпця та перед номером рядка ввести символ <b>$</b> .</em>
 * <em>(</em>
-  * <tt><a href="uk_iu-pos-PUNCT.html">PUNCT</a></tt> 582: <em>При цьому <b>(</b> при збірці ) належить вияснити цілі нашої боротьби .</em>
+  * <tt><a href="uk_iu-pos-PUNCT.html">PUNCT</a></tt> 593: <em>При цьому <b>(</b> при збірці ) належить вияснити цілі нашої боротьби .</em>
   * <tt><a href="uk_iu-pos-SYM.html">SYM</a></tt> 1: <em>А на фоні видних кісток ребер і грудини , то тим явно груди виглядають неприродно <b>(</b></em>
 * <em>-</em>
-  * <tt><a href="uk_iu-pos-PUNCT.html">PUNCT</a></tt> 858: <em>Вибір медико <b>-</b> технологічних документів</em>
+  * <tt><a href="uk_iu-pos-PUNCT.html">PUNCT</a></tt> 862: <em>Вибір медико <b>-</b> технологічних документів</em>
   * <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> 1: <em>Найменше , один раз , зустрічаються символи « щ » , « б » , « з » , « <b>-</b> » , « . » .</em>
   * <tt><a href="uk_iu-pos-SYM.html">SYM</a></tt> 1: <em>У 13-ти середні зарплати навіть з урахуванням інфляції вже відновилися до рівня 2014-го ( сім регіонів із показником від <b>-</b> 0 , 8 % до + 0 , 6 % ) чи навіть перевищили його ( ще шість регіонів із приростом від 2 % до 9 % ) .</em>
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.738445).
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.738999).
 
 The 1st highest number of forms (1) was observed with the lemma “#”: <em>#</em>.
 
@@ -53,9 +53,9 @@ The 3rd highest number of forms (1) was observed with the lemma “$”: <em>$</
 
 ## Relations
 
-`SYM` nodes are attached to their parents using 11 different relations: <tt><a href="uk_iu-dep-discourse.html">discourse</a></tt> (49; 45% instances), <tt><a href="uk_iu-dep-root.html">root</a></tt> (23; 21% instances), <tt><a href="uk_iu-dep-compound.html">compound</a></tt> (17; 16% instances), <tt><a href="uk_iu-dep-flat-title.html">flat:title</a></tt> (5; 5% instances), <tt><a href="uk_iu-dep-conj.html">conj</a></tt> (3; 3% instances), <tt><a href="uk_iu-dep-parataxis.html">parataxis</a></tt> (3; 3% instances), <tt><a href="uk_iu-dep-appos.html">appos</a></tt> (2; 2% instances), <tt><a href="uk_iu-dep-flat.html">flat</a></tt> (2; 2% instances), <tt><a href="uk_iu-dep-nmod.html">nmod</a></tt> (2; 2% instances), <tt><a href="uk_iu-dep-amod.html">amod</a></tt> (1; 1% instances), <tt><a href="uk_iu-dep-obl.html">obl</a></tt> (1; 1% instances)
+`SYM` nodes are attached to their parents using 11 different relations: <tt><a href="uk_iu-dep-discourse.html">discourse</a></tt> (50; 46% instances), <tt><a href="uk_iu-dep-root.html">root</a></tt> (22; 20% instances), <tt><a href="uk_iu-dep-compound.html">compound</a></tt> (17; 16% instances), <tt><a href="uk_iu-dep-flat-title.html">flat:title</a></tt> (5; 5% instances), <tt><a href="uk_iu-dep-conj.html">conj</a></tt> (3; 3% instances), <tt><a href="uk_iu-dep-parataxis.html">parataxis</a></tt> (3; 3% instances), <tt><a href="uk_iu-dep-appos.html">appos</a></tt> (2; 2% instances), <tt><a href="uk_iu-dep-flat.html">flat</a></tt> (2; 2% instances), <tt><a href="uk_iu-dep-nmod.html">nmod</a></tt> (2; 2% instances), <tt><a href="uk_iu-dep-amod.html">amod</a></tt> (1; 1% instances), <tt><a href="uk_iu-dep-obl.html">obl</a></tt> (1; 1% instances)
 
-Parents of `SYM` nodes belong to 10 different parts of speech: <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (29; 27% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (23; 21% instances),  (23; 21% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (10; 9% instances), <tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (7; 6% instances), <tt><a href="uk_iu-pos-X.html">X</a></tt> (7; 6% instances), <tt><a href="uk_iu-pos-SYM.html">SYM</a></tt> (5; 5% instances), <tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="uk_iu-pos-INTJ.html">INTJ</a></tt> (1; 1% instances)
+Parents of `SYM` nodes belong to 10 different parts of speech: <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (29; 27% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (24; 22% instances),  (22; 20% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (10; 9% instances), <tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (7; 6% instances), <tt><a href="uk_iu-pos-X.html">X</a></tt> (7; 6% instances), <tt><a href="uk_iu-pos-SYM.html">SYM</a></tt> (5; 5% instances), <tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="uk_iu-pos-INTJ.html">INTJ</a></tt> (1; 1% instances)
 
 96 (89%) `SYM` nodes are leaves.
 

@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 15 different values: `Abe`, `Abl`, `Acc`, `Ade`, `All`, `Com`, `Ela`, `Ess`, `Gen`, `Ill`, `Ine`, `Ins`, `Nom`, `Par`, `Tra`.
 
-106590 tokens (53%) have a non-empty value of `Case`.
+106588 tokens (53%) have a non-empty value of `Case`.
 47527 types (88%) occur at least once with a non-empty value of `Case`.
 22166 lemmas (85%) occur at least once with a non-empty value of `Case`.
-The feature is used with 8 part-of-speech tags: <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> (56392; 28% instances), <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt> (13478; 7% instances), <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> (13279; 7% instances), <tt><a href="fi_tdt-pos-PROPN.html">PROPN</a></tt> (12110; 6% instances), <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (9466; 5% instances), <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (1285; 1% instances), <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> (578; 0% instances), <tt><a href="fi_tdt-pos-SYM.html">SYM</a></tt> (2; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> (56392; 28% instances), <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt> (13476; 7% instances), <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> (13279; 7% instances), <tt><a href="fi_tdt-pos-PROPN.html">PROPN</a></tt> (12110; 6% instances), <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (9466; 5% instances), <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (1285; 1% instances), <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> (578; 0% instances), <tt><a href="fi_tdt-pos-SYM.html">SYM</a></tt> (2; 0% instances).
 
 ### `NOUN`
 
@@ -50,9 +50,9 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `PRON`
 
-13478 <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
+13476 <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (10689; 79%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10162; 75%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (10687; 79%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10160; 75%).
 
 `PRON` tokens may have the following values of `Case`:
 
@@ -65,7 +65,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 * `Ess` (101; 1% of non-empty `Case`): <em>tänä, samana, eräänä, jona, sinä, jonakin, yhtenä, jokaisena, muuna, niinä</em>
 * `Gen` (2668; 20% of non-empty `Case`): <em>sen, tämän, hänen, jonka, niiden, meidän, heidän, minun, joiden, muiden</em>
 * `Ill` (550; 4% of non-empty `Case`): <em>siihen, tähän, johon, samaan, mihin, joihin, niihin, toiseen, muihin, näihin</em>
-* `Ine` (895; 7% of non-empty `Case`): <em>jossa, tässä, siinä, joissa, missä, kaikissa, jossain, niissä, näissä, jossakin</em>
+* `Ine` (893; 7% of non-empty `Case`): <em>jossa, tässä, siinä, joissa, missä, kaikissa, jossain, niissä, näissä, jossakin</em>
 * `Ins` (11; 0% of non-empty `Case`): <em>monin, samoin, kaikin, molemmin, minkä</em>
 * `Nom` (4994; 37% of non-empty `Case`): <em>se, hän, joka, tämä, ne, jotka, kaikki, minä, he, mikä</em>
 * `Par` (1982; 15% of non-empty `Case`): <em>sitä, mitä, tätä, niitä, mitään, joita, jota, jotain, muita, minua</em>
@@ -290,13 +290,13 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 
 The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="fi_tdt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (9215; 94%),
-<tt>NOUN --[<tt><a href="fi_tdt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3449; 87%),
+<tt>NOUN --[<tt><a href="fi_tdt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3451; 87%),
 <tt>NOUN --[<tt><a href="fi_tdt-dep-det.html">det</a></tt>]--> PRON</tt> (3061; 96%),
 <tt>NOUN --[<tt><a href="fi_tdt-dep-acl.html">acl</a></tt>]--> VERB</tt> (2987; 88%),
 <tt>PROPN --[<tt><a href="fi_tdt-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (1819; 73%),
-<tt>PROPN --[<tt><a href="fi_tdt-dep-conj.html">conj</a></tt>]--> PROPN</tt> (819; 93%),
+<tt>PROPN --[<tt><a href="fi_tdt-dep-conj.html">conj</a></tt>]--> PROPN</tt> (818; 93%),
 <tt>PROPN --[<tt><a href="fi_tdt-dep-compound-nn.html">compound:nn</a></tt>]--> NOUN</tt> (609; 85%),
 <tt>ADJ --[<tt><a href="fi_tdt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (496; 98%),
-<tt>ADJ --[<tt><a href="fi_tdt-dep-nsubj-cop.html">nsubj:cop</a></tt>]--> NOUN</tt> (449; 54%),
+<tt>ADJ --[<tt><a href="fi_tdt-dep-nsubj-cop.html">nsubj:cop</a></tt>]--> NOUN</tt> (448; 55%),
 <tt>NOUN --[<tt><a href="fi_tdt-dep-nsubj-cop.html">nsubj:cop</a></tt>]--> PRON</tt> (284; 56%).
 

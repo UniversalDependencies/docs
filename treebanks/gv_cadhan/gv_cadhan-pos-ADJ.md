@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Manx-Cadhan: POS Tags: `ADJ`
 
-There are 361 `ADJ` lemmas (15%), 405 `ADJ` types (13%) and 996 `ADJ` tokens (5%).
+There are 361 `ADJ` lemmas (15%), 405 `ADJ` types (13%) and 999 `ADJ` tokens (5%).
 Out of 17 observed tags, the rank of `ADJ` is: 2 in number of lemmas, 2 in number of types and 7 in number of tokens.
 
 The 10 most frequent `ADJ` lemmas: <em>mie, mooar, erbee, beg, elley, olk, drogh, currit, jeant, ennagh</em>
@@ -22,31 +22,31 @@ The 10 most frequent ambiguous types:  <em>mie</em> (<tt><a href="gv_cadhan-pos-
   * <tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 63: <em>“ S' <b>mie</b> , v' eh toilçhin eh .</em>
   * <tt><a href="gv_cadhan-pos-NOUN.html">NOUN</a></tt> 1: <em>Cha jig <b>mie</b> erbee ass eh .</em>
 * <em>kiart</em>
-  * <tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 8: <em>Vel symm <b>kiart</b> ec oo ?</em>
-  * <tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> 3: <em>Ren eh <b>kiart</b> ayns shen eh .</em>
+  * <tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 8: <em>T' eh ny youyll <b>kiart</b> .</em>
+  * <tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> 3: <em>Hooar eh lhieggey olk <b>kiart</b> roish y Nollick .</em>
 * <em>kinjagh</em>
-  * <tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 7: <em>T' eh dy <b>kinjagh</b> roie .</em>
+  * <tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 7: <em>T' eh ny ghooinney <b>kinjagh</b> .</em>
   * <tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> 2: <em>Ta 'n gheay goll lesh y jiass , as chyndaa mygeayrt gys y twoaie , t' ee <b>kinjagh</b> cassey mygeayrt , as chyndaa reesht rere e combaaseyn .</em>
 * <em>noa</em>
   * <tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 7: <em>Ta skeab <b>noa</b> skeabey dy glen .</em>
   * <tt><a href="gv_cadhan-pos-NOUN.html">NOUN</a></tt> 1: <em>Jean ass y <b>noa</b> eh .</em>
 * <em>olk</em>
-  * <tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 6: <em>Ayns e chree cha nel eh ro <b>olk</b> .</em>
+  * <tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 6: <em>Hooar eh lhieggey <b>olk</b> kiart roish y Nollick .</em>
   * <tt><a href="gv_cadhan-pos-NOUN.html">NOUN</a></tt> 4: <em>Ta chengey ny host ny share na <b>olk</b> y ghra .</em>
 * <em>ard</em>
   * <tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 4: <em>Ta 'n <b>ard</b> vlaa ny jei .</em>
-  * <tt><a href="gv_cadhan-pos-NOUN.html">NOUN</a></tt> 4: <em>Deam eh magh er <b>ard</b> .</em>
+  * <tt><a href="gv_cadhan-pos-NOUN.html">NOUN</a></tt> 4: <em>Haink ad voish dagh ooilley <b>ard</b> dy akin eh .</em>
 * <em>ching</em>
-  * <tt><a href="gv_cadhan-pos-NOUN.html">NOUN</a></tt> 5: <em>Huitt eh gour e <b>ching</b> .</em>
+  * <tt><a href="gv_cadhan-pos-NOUN.html">NOUN</a></tt> 5: <em>Ta chingys <b>ching</b> er eh .</em>
   * <tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 4: <em>Vel oo <b>ching</b> ?</em>
 * <em>foddey</em>
-  * <tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> 7: <em>Vel oo goll <b>foddey</b> ?</em>
-  * <tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 4: <em>Ren fer y faasaag gearaghtee mooar <b>foddey</b> booie .</em>
+  * <tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> 7: <em>Cha jagh moylley ghooinney hene rieau <b>foddey</b> voish eh .</em>
+  * <tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 4: <em>Cha dannee shin ayns shen rish feer <b>foddey</b> .</em>
 * <em>jeeragh</em>
   * <tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 4: <em>Foddee dy screeuym mychione nyn ngoair , ny smoo <b>jeeragh</b> , goair my ven .</em>
   * <tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> 3: <em>Roie eh <b>jeeragh</b> stiagh ayns eddin y voalley .</em>
 * <em>lane</em>
-  * <tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 4: <em>T' eh <b>lane</b> dy chreeaght .</em>
+  * <tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> 4: <em>T' eh <b>lane</b> dy vree .</em>
   * <tt><a href="gv_cadhan-pos-NOUN.html">NOUN</a></tt> 3: <em>Hug eh <b>lane</b> e ghoarn da eh .</em>
 
 ## Morphology
@@ -64,17 +64,17 @@ The 3rd highest number of forms (4) was observed with the lemma “mooar”: <em
 `ADJ` occurs with 3 feature-value pairs: `Degree=Cmp,Sup`, `Form=Len`, `Number=Plur`
 
 `ADJ` occurs with 5 feature combinations.
-The most frequent feature combination is `_` (818 tokens).
+The most frequent feature combination is `_` (821 tokens).
 Examples: <em>mie, erbee, mooar, elley, beg, currit, drogh, jeant, ennagh, shickyr</em>
 
 
 ## Relations
 
-`ADJ` nodes are attached to their parents using 10 different relations: <tt><a href="gv_cadhan-dep-amod.html">amod</a></tt> (549; 55% instances), <tt><a href="gv_cadhan-dep-xcomp-pred.html">xcomp:pred</a></tt> (266; 27% instances), <tt><a href="gv_cadhan-dep-advmod.html">advmod</a></tt> (126; 13% instances), <tt><a href="gv_cadhan-dep-root.html">root</a></tt> (26; 3% instances), <tt><a href="gv_cadhan-dep-conj.html">conj</a></tt> (17; 2% instances), <tt><a href="gv_cadhan-dep-xcomp.html">xcomp</a></tt> (7; 1% instances), <tt><a href="gv_cadhan-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="gv_cadhan-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="gv_cadhan-dep-obl.html">obl</a></tt> (1; 0% instances), <tt><a href="gv_cadhan-dep-orphan.html">orphan</a></tt> (1; 0% instances)
+`ADJ` nodes are attached to their parents using 10 different relations: <tt><a href="gv_cadhan-dep-amod.html">amod</a></tt> (552; 55% instances), <tt><a href="gv_cadhan-dep-xcomp-pred.html">xcomp:pred</a></tt> (266; 27% instances), <tt><a href="gv_cadhan-dep-advmod.html">advmod</a></tt> (126; 13% instances), <tt><a href="gv_cadhan-dep-root.html">root</a></tt> (26; 3% instances), <tt><a href="gv_cadhan-dep-conj.html">conj</a></tt> (17; 2% instances), <tt><a href="gv_cadhan-dep-xcomp.html">xcomp</a></tt> (7; 1% instances), <tt><a href="gv_cadhan-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="gv_cadhan-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="gv_cadhan-dep-obl.html">obl</a></tt> (1; 0% instances), <tt><a href="gv_cadhan-dep-orphan.html">orphan</a></tt> (1; 0% instances)
 
-Parents of `ADJ` nodes belong to 8 different parts of speech: <tt><a href="gv_cadhan-pos-NOUN.html">NOUN</a></tt> (598; 60% instances), <tt><a href="gv_cadhan-pos-VERB.html">VERB</a></tt> (315; 32% instances),  (26; 3% instances), <tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> (25; 3% instances), <tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt> (16; 2% instances), <tt><a href="gv_cadhan-pos-PRON.html">PRON</a></tt> (10; 1% instances), <tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="gv_cadhan-pos-NUM.html">NUM</a></tt> (3; 0% instances)
+Parents of `ADJ` nodes belong to 8 different parts of speech: <tt><a href="gv_cadhan-pos-NOUN.html">NOUN</a></tt> (601; 60% instances), <tt><a href="gv_cadhan-pos-VERB.html">VERB</a></tt> (315; 32% instances),  (26; 3% instances), <tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> (25; 3% instances), <tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt> (16; 2% instances), <tt><a href="gv_cadhan-pos-PRON.html">PRON</a></tt> (10; 1% instances), <tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="gv_cadhan-pos-NUM.html">NUM</a></tt> (3; 0% instances)
 
-617 (62%) `ADJ` nodes are leaves.
+620 (62%) `ADJ` nodes are leaves.
 
 268 (27%) `ADJ` nodes have one child.
 

@@ -13,7 +13,7 @@ This relation is universal.
 138 instances of `nummod` (68%) are right-to-left (child precedes parent).
 Average distance between parent and child is 2.04950495049505.
 
-The following 8 pairs of parts of speech are connected with `nummod`: <tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt> (183; 91% instances), <tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt> (8; 4% instances), <tt><a href="grc_perseus-pos-DET.html">DET</a></tt>-<tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="grc_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="grc_perseus-pos-ADP.html">ADP</a></tt>-<tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt>-<tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="grc_perseus-pos-X.html">X</a></tt>-<tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `nummod`: <tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt> (183; 91% instances), <tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt> (8; 4% instances), <tt><a href="grc_perseus-pos-DET.html">DET</a></tt>-<tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="grc_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="grc_perseus-pos-ADP.html">ADP</a></tt>-<tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="grc_perseus-pos-ADV.html">ADV</a></tt>-<tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt>-<tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -24,7 +24,7 @@ The following 8 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 3 4 nummod	color:blue
 1	ἐβασίλευσε	βασιλεύω	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	δὲ	δέ	ADV	d--------	_	1	advmod	_	_
-3	μῆνας	μείς	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	1	advmod	_	_
+3	μῆνας	μείς	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	1	obl	_	_
 4	ὀκτὼ	ὀκτώ	NUM	m--------	_	3	nummod	_	_
 5	τὸ	ὁ	DET	l-s---na-	Case=Acc|Gender=Neut|Number=Sing	6	det	_	_
 6	σύμπαν	σύμπας	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	1	advmod	_	SpaceAfter=No
@@ -67,7 +67,7 @@ The following 8 pairs of parts of speech are connected with `nummod`: <tt><a hre
 9	ὅπως	ὅπως	SCONJ	c--------	_	13	mark	_	_
 10	οἱ	ὁ	DET	l-p---mn-	Case=Nom|Gender=Masc|Number=Plur	11	det	_	_
 11	πάντες	πᾶς	ADJ	a-p---mn-	Case=Nom|Gender=Masc|Number=Plur	13	nsubj	_	_
-12	εἶεν	εἰμί	VERB	v3ppoa---	Mood=Opt|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	cop	_	_
+12	εἶεν	εἰμί	AUX	v3ppoa---	Mood=Opt|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	cop	_	_
 13	τριάκοντα	τριάκοντα	NUM	m--------	_	5	advcl	_	SpaceAfter=No
 14	,	,	PUNCT	u--------	_	22	punct	_	_
 15	τοῖς	ὁ	DET	l-p---md-	Case=Dat|Gender=Masc|Number=Plur	22	det	_	_
@@ -77,7 +77,7 @@ The following 8 pairs of parts of speech are connected with `nummod`: <tt><a hre
 19	τοῖν	ὁ	DET	l-d---mg-	Case=Gen|Gender=Masc|Number=Dual	21	det	_	_
 20	δυοῖν	δύο	ADJ	a-d---mg-	Case=Gen|Gender=Masc|Number=Dual	21	nmod	_	_
 21	βασιλέοιν	βασιλεύς	NOUN	n-d---mg-	Case=Gen|Gender=Masc|Number=Dual	22	nsubj	_	_
-22	προστιθεμένοιν	προστίθημι	VERB	v-dppemg-	Case=Gen|Gender=Masc|Number=Dual|Tense=Pres|VerbForm=Part|Voice=Mid	13	advmod	_	SpaceAfter=No
+22	προστιθεμένοιν	προστίθημι	VERB	v-dppemg-	Case=Gen|Gender=Masc|Number=Dual|Tense=Pres|VerbForm=Part|Voice=Mid	13	advcl	_	SpaceAfter=No
 23	.	.	PUNCT	u--------	_	3	punct	_	_
 
 ~~~

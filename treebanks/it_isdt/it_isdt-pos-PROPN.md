@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>San</em> (<tt><a href="it_isdt-pos-PR
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.007565 (the average of all parts of speech is 1.481058).
+The form / lemma ratio of `PROPN` is 1.007565 (the average of all parts of speech is 1.481130).
 
 The 1st highest number of forms (2) was observed with the lemma “Aids”: <em>AIDS, Aids</em>.
 

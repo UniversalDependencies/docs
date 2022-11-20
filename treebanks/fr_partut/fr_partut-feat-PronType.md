@@ -77,7 +77,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 `ADV` tokens may have the following values of `PronType`:
 
 * `Neg` (17; 100% of non-empty `PronType`): <em>non</em>
-* `EMPTY` (984): <em>pas, plus, également, tout, ainsi, très, donc, lors, moins, bien</em>
+* `EMPTY` (989): <em>pas, plus, également, tout, ainsi, très, donc, lors, moins, bien</em>
 
 ## Relations with Agreement in `PronType`
 

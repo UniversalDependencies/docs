@@ -45,10 +45,9 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 The 10 most frequent relations where parent and child node agree in `NumType`:
 <tt>NUM --[<tt><a href="hu_szeged-dep-compound.html">compound</a></tt>]--> NUM</tt> (105; 73%),
-<tt>NUM --[<tt><a href="hu_szeged-dep-conj.html">conj</a></tt>]--> NUM</tt> (17; 89%),
+<tt>NUM --[<tt><a href="hu_szeged-dep-conj.html">conj</a></tt>]--> NUM</tt> (22; 92%),
 <tt>NUM --[<tt><a href="hu_szeged-dep-amod-att.html">amod:att</a></tt>]--> NUM</tt> (12; 80%),
 <tt>NUM --[<tt><a href="hu_szeged-dep-nmod-obl.html">nmod:obl</a></tt>]--> NUM</tt> (4; 80%),
 <tt>NUM --[<tt><a href="hu_szeged-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (2; 67%),
-<tt>NUM --[<tt><a href="hu_szeged-dep-advcl.html">advcl</a></tt>]--> NUM</tt> (1; 100%),
-<tt>NUM --[<tt><a href="hu_szeged-dep-orphan.html">orphan</a></tt>]--> NUM</tt> (1; 100%).
+<tt>NUM --[<tt><a href="hu_szeged-dep-advcl.html">advcl</a></tt>]--> NUM</tt> (1; 100%).
 

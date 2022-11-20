@@ -93,5 +93,6 @@ The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>VERB --[<tt><a href="bej_nsc-dep-compound-svc.html">compound:svc</a></tt>]--> VERB</tt> (2; 100%),
 <tt>NOUN --[<tt><a href="bej_nsc-dep-acl-relcl.html">acl:relcl</a></tt>]--> SCONJ</tt> (1; 100%),
 <tt>NOUN --[<tt><a href="bej_nsc-dep-appos.html">appos</a></tt>]--> NOUN</tt> (1; 100%),
-<tt>NOUN --[<tt><a href="bej_nsc-dep-dep-conj.html">dep:conj</a></tt>]--> NOUN</tt> (1; 100%).
+<tt>NOUN --[<tt><a href="bej_nsc-dep-dep-conj.html">dep:conj</a></tt>]--> NOUN</tt> (1; 100%),
+<tt>NOUN --[<tt><a href="bej_nsc-dep-reparandum.html">reparandum</a></tt>]--> NOUN</tt> (1; 100%).
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-31 nodes (2%) are attached to their parents as `advcl`.
+42 nodes (2%) are attached to their parents as `advcl`.
 
-30 instances of `advcl` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.54838709677419.
+41 instances of `advcl` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.07142857142857.
 
-The following 5 pairs of parts of speech are connected with `advcl`: <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt> (21; 68% instances), <tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt> (5; 16% instances), <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt> (3; 10% instances), <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt> (1; 3% instances).
+The following 5 pairs of parts of speech are connected with `advcl`: <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt> (31; 74% instances), <tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt> (6; 14% instances), <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt> (3; 7% instances), <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 5 pairs of parts of speech are connected with `advcl`: <tt><a href
 # visual-style 6	fgColor:white
 # visual-style 6 2 advcl	color:blue
 1	Ихтыяҗ	ихтыяҗ	ADJ	_	_	2	xcomp	_	LangID=TT
-2	булса	бул	VERB	_	Mood=Cnd|Person=3	6	advcl	_	LangID=TT|SpaceAfter=No
+2	булса	бул	VERB	_	Mood=Cnd|Person=3|VerbForm=Conv	6	advcl	_	LangID=TT|SpaceAfter=No
 3	,	,	PUNCT	_	_	6	punct	_	LangID=OTHER
 4	аларның	ул	PRON	_	Case=Gen|Number=Plur|PronType=Prs	5	nmod	_	LangID=TT
 5	саны	сан	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	6	nsubj	_	LangID=TT
@@ -34,24 +34,19 @@ The following 5 pairs of parts of speech are connected with `advcl`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 11 advcl	color:blue
-1	Татарстанда	Татарстан	PROPN	_	Case=Loc|Number=Sing	3	obl	_	LangID=TT
-2	томан	томан	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	LangID=TT
-3	төшәчәк	төш	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Part	0	root	_	LangID=TT|SpaceAfter=No
-4	,	,	PUNCT	_	_	12	punct	_	LangID=OTHER
-5	күз	күз	NOUN	_	Case=Nom|Number=Sing	6	nmod	_	LangID=TT
-6	күреме	күрем	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3	11	nsubj	_	LangID=TT
-7	500	500	NUM	_	NumType=Card	8	nummod	_	LangID=TT
-8	метр	метр	NOUN	_	Case=Nom|Number=Sing	11	xcomp	_	LangID=RU
-9	яки	яки	CCONJ	_	_	10	cc	_	LangID=TT
-10	кимрәк	ким	ADJ	_	Degree=Cmp	8	conj	_	LangID=TT
-11	булырга	бул	VERB	_	VerbForm=Inf	12	advcl	_	LangID=TT
-12	мөмкин	мөмкин	ADJ	_	_	3	parataxis	_	LangID=TT|SpaceAfter=No
-13	.	.	PUNCT	_	_	12	punct	_	LangID=OTHER
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 4 advcl	color:blue
+1	Гади	гади	ADJ	_	_	2	amod	_	LangID=TT
+2	сүз	сүз	NOUN	_	Case=Nom|Number=Sing	4	obl	_	LangID=TT
+3	белән	белән	ADP	_	_	2	case	_	LangID=TT
+4	әйткәндә	әйт	VERB	_	Case=Loc|Number=Sing|Tense=Past|VerbForm=Part	7	advcl	_	LangID=TT
+5	суда	су	NOUN	_	Case=Loc|Number=Sing	7	obl	_	LangID=TT
+6	тутык	тутык	NOUN	_	Case=Nom|Number=Sing	7	nsubj	_	LangID=TT
+7	бар	бар	ADJ	_	_	0	root	_	LangID=TT|SpaceAfter=No
+8	.	.	PUNCT	_	_	7	punct	_	LangID=OTHER
 
 ~~~
 

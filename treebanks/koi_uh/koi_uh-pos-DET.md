@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Permyak-UH: POS Tags: `DET`
 
 There are 4 `DET` lemmas (1%), 4 `DET` types (1%) and 4 `DET` tokens (0%).
-Out of 15 observed tags, the rank of `DET` is: 13 in number of lemmas, 13 in number of types and 13 in number of tokens.
+Out of 15 observed tags, the rank of `DET` is: 13 in number of lemmas, 13 in number of types and 14 in number of tokens.
 
 The 10 most frequent `DET` lemmas: <em>быд, кык, мукӧд, эта</em>
 
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.228365).
+The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.250569).
 
 The 1st highest number of forms (1) was observed with the lemma “быд”: <em>Быд</em>.
 
@@ -34,8 +34,8 @@ The 3rd highest number of forms (1) was observed with the lemma “мукӧд”
 `DET` occurs with 3 feature-value pairs: `Case=Nom`, `Number=Sing`, `PronType=Tot`
 
 `DET` occurs with 4 feature combinations.
-The most frequent feature combination is `Case=Nom|Number=Sing|PronType=Tot` (1 tokens).
-Examples: <em>Быд</em>
+The most frequent feature combination is `_` (1 tokens).
+Examples: <em>эта</em>
 
 
 ## Relations

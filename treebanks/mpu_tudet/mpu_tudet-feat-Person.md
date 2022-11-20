@@ -9,36 +9,36 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-27 tokens (18%) have a non-empty value of `Person`.
-17 types (22%) occur at least once with a non-empty value of `Person`.
-16 lemmas (21%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="mpu_tudet-pos-VERB.html">VERB</a></tt> (17; 12% instances), <tt><a href="mpu_tudet-pos-PRON.html">PRON</a></tt> (8; 5% instances), <tt><a href="mpu_tudet-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="mpu_tudet-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+30 tokens (17%) have a non-empty value of `Person`.
+18 types (19%) occur at least once with a non-empty value of `Person`.
+17 lemmas (18%) occur at least once with a non-empty value of `Person`.
+The feature is used with 4 part-of-speech tags: <tt><a href="mpu_tudet-pos-VERB.html">VERB</a></tt> (19; 11% instances), <tt><a href="mpu_tudet-pos-PRON.html">PRON</a></tt> (9; 5% instances), <tt><a href="mpu_tudet-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="mpu_tudet-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 ### `VERB`
 
-17 <tt><a href="mpu_tudet-pos-VERB.html">VERB</a></tt> tokens (35% of all `VERB` tokens) have a non-empty value of `Person`.
+19 <tt><a href="mpu_tudet-pos-VERB.html">VERB</a></tt> tokens (33% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="mpu_tudet-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (15; 88%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="mpu_tudet-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (17; 89%).
 
 `VERB` tokens may have the following values of `Person`:
 
-* `1` (1; 6% of non-empty `Person`): <em>opũãtemwã</em>
-* `3` (16; 94% of non-empty `Person`): <em>etera, eapītera, ekuwaora, eya, kana, nã, oen, papīknga, xok, xoknga</em>
-* `EMPTY` (31): <em>kurux, amang, korop, toa, keya, pukpuga, ten, eta, kixa, ngarap</em>
+* `1` (2; 11% of non-empty `Person`): <em>opũãtemwã, ouga</em>
+* `3` (17; 89% of non-empty `Person`): <em>etera, eapītera, ekuwaora, eya, kana, nã, oen, papīknga, xok, xoknga</em>
+* `EMPTY` (39): <em>kurux, amang, korop, toa, eta, keya, pukpuga, ten, kixa, ngarap</em>
 
-`Person` seems to be **lexical feature** of `VERB`. 100% lemmas (10) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `VERB`. 100% lemmas (11) occur only with one value of `Person`.
 
 ### `PRON`
 
-8 <tt><a href="mpu_tudet-pos-PRON.html">PRON</a></tt> tokens (73% of all `PRON` tokens) have a non-empty value of `Person`.
+9 <tt><a href="mpu_tudet-pos-PRON.html">PRON</a></tt> tokens (75% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="mpu_tudet-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="mpu_tudet-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (8; 100%), <tt><a href="mpu_tudet-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7; 88%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="mpu_tudet-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="mpu_tudet-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8; 89%), <tt><a href="mpu_tudet-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (8; 89%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (6; 75% of non-empty `Person`): <em>on, õn</em>
-* `2` (1; 13% of non-empty `Person`): <em>en</em>
-* `3` (1; 13% of non-empty `Person`): <em>xeke</em>
+* `1` (7; 78% of non-empty `Person`): <em>on, õn</em>
+* `2` (1; 11% of non-empty `Person`): <em>en</em>
+* `3` (1; 11% of non-empty `Person`): <em>xeke</em>
 * `EMPTY` (3): <em>pit</em>
 
 ### `AUX`
@@ -59,5 +59,5 @@ The most frequent other feature values with which `NOUN` and `Person` co-occurre
 `NOUN` tokens may have the following values of `Person`:
 
 * `1` (1; 100% of non-empty `Person`): <em>oxepngoret</em>
-* `EMPTY` (31): <em>ngot, kito, arimot, kux, moke, urot, xiaret, ama, etxekup, etyenkuax</em>
+* `EMPTY` (37): <em>ngot, kito, arimot, kux, moke, pe, urot, xiaret, ama, etxekup</em>
 

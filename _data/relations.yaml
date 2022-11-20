@@ -26,6 +26,7 @@
   - label: 'pt/dep'
   - label: 'ro/dep'
   - label: 'ru/dep'
+  - label: 'sl/dep'
   - label: 'sv/dep'
   - label: 'swl/dep'
   - label: 'tr/dep'
@@ -44,18 +45,12 @@
   - label: 'no/dep'
   - label: 'pcm/dep'
   - label: 'sv/dep'
-- label: 'acl:cmpr'
-  languages:
-  - label: 'la/dep'
 - label: 'acl:fixed'
   languages:
   - label: 'bej/dep'
 - label: 'acl:inf'
   languages:
   - label: 'pt/dep'
-- label: 'acl:pass'
-  languages:
-  - label: 'la/dep'
 - label: 'acl:relat'
   languages:
   - label: 'ckt/dep'
@@ -82,6 +77,16 @@
   - label: 'swl/dep'
   - label: 'u/dep'
   - label: 'urj/dep'
+  - label: 'vi/dep'
+- label: 'acl:subj'
+  languages:
+  - label: 'vi/dep'
+- label: 'acl:tmod'
+  languages:
+  - label: 'vi/dep'
+- label: 'acl:tonp'
+  languages:
+  - label: 'vi/dep'
 - label: 'advcl'
   languages:
   - label: 'bej/dep'
@@ -111,6 +116,7 @@
   - label: 'pt/dep'
   - label: 'ro/dep'
   - label: 'ru/dep'
+  - label: 'sl/dep'
   - label: 'sv/dep'
   - label: 'swl/dep'
   - label: 'tpn/dep'
@@ -129,9 +135,12 @@
   languages:
   - label: 'fr/dep'
   - label: 'pcm/dep'
-- label: 'advcl:cmpr'
+- label: 'advcl:cmp'
   languages:
   - label: 'la/dep'
+  - label: 'myv/dep'
+- label: 'advcl:cmpr'
+  languages:
   - label: 'pl/dep'
 - label: 'advcl:cond'
   languages:
@@ -145,26 +154,31 @@
 - label: 'advcl:eval'
   languages:
   - label: 'kpv/dep'
+  - label: 'myv/dep'
 - label: 'advcl:lcl'
   languages:
   - label: 'koi/dep'
+  - label: 'kpv/dep'
 - label: 'advcl:lto'
   languages:
   - label: 'kpv/dep'
 - label: 'advcl:mcl'
   languages:
   - label: 'koi/dep'
+- label: 'advcl:objective'
+  languages:
+  - label: 'vi/dep'
 - label: 'advcl:pred'
   languages:
   - label: 'la/dep'
+  - label: 'uk/dep'
 - label: 'advcl:relcl'
   languages:
+  - label: 'en/dep'
   - label: 'hy/dep'
   - label: 'hyw/dep'
+  - label: 'la/dep'
   - label: 'pl/dep'
-- label: 'advcl:pred'
-  languages:
-  - label: 'uk/dep'
 - label: 'advcl:svc'
   languages:
   - label: 'uk/dep'
@@ -203,6 +217,7 @@
   - label: 'pt/dep'
   - label: 'ro/dep'
   - label: 'ru/dep'
+  - label: 'sl/dep'
   - label: 'sv/dep'
   - label: 'swl/dep'
   - label: 'tr/dep'
@@ -210,6 +225,9 @@
   - label: 'vi/dep'
   - label: 'yue/dep'
   - label: 'zh/dep'
+- label: 'advmod:adj'
+  languages:
+  - label: 'vi/dep'
 - label: 'advmod:arg'
   languages:
   - label: 'pl/dep'
@@ -218,8 +236,9 @@
   - label: 'kpv/dep'
   - label: 'mdf/dep'
   - label: 'myv/dep'
-- label: 'advmod:comp'
+- label: 'advmod:cmp'
   languages:
+  - label: 'mdf/dep'
   - label: 'myv/dep'
 - label: 'advmod:deg'
   languages:
@@ -235,6 +254,9 @@
   languages:
   - label: 'yue/dep'
   - label: 'zh/dep'
+- label: 'advmod:dir'
+  languages:
+  - label: 'vi/dep'
 - label: 'advmod:emph'
   languages:
   - label: 'cs/dep'
@@ -308,9 +330,11 @@
   - label: 'kmr/dep'
   - label: 'la/dep'
   - label: 'mt/dep'
+  - label: 'nhi/dep'
   - label: 'pl/dep'
   - label: 'quc/dep'
   - label: 'sms/dep'
+  - label: 'vi/dep'
 - label: 'advmod:obl'
   languages:
   - label: 'fro/dep'
@@ -366,6 +390,7 @@
   - label: 'pt/dep'
   - label: 'ro/dep'
   - label: 'ru/dep'
+  - label: 'sl/dep'
   - label: 'sv/dep'
   - label: 'swl/dep'
   - label: 'tr/dep'
@@ -408,14 +433,19 @@
   - label: 'pt/dep'
   - label: 'ro/dep'
   - label: 'ru/dep'
+  - label: 'sl/dep'
   - label: 'sv/dep'
   - label: 'swl/dep'
   - label: 'tr/dep'
+  - label: 'tt/dep'
   - label: 'u/dep'
   - label: 'urj/dep'
   - label: 'vi/dep'
   - label: 'yue/dep'
   - label: 'zh/dep'
+- label: 'appos:nmod'
+  languages:
+  - label: 'vi/dep'
 - label: 'appos:trans'
   languages:
   - label: 'qtd/dep'
@@ -448,6 +478,7 @@
   - label: 'pt/dep'
   - label: 'ro/dep'
   - label: 'ru/dep'
+  - label: 'sl/dep'
   - label: 'sv/dep'
   - label: 'swl/dep'
   - label: 'tr/dep'
@@ -512,10 +543,8 @@
   - label: 'myv/dep'
 - label: 'aux:part'
   languages:
+  - label: 'aln/dep'
   - label: 'mt/dep'
-- label: 'auxpass'
-  languages:
-  - label: 'tr/dep'
 - label: 'aux:pass'
   languages:
   - label: 'cs/dep'
@@ -524,6 +553,7 @@
   - label: 'es/dep'
   - label: 'fi/dep'
   - label: 'fr/dep'
+  - label: 'gd/dep'
   - label: 'gsw/dep'
   - label: 'it/dep'
   - label: 'no/dep'
@@ -538,6 +568,7 @@
   - label: 'zh/dep'
 - label: 'aux:pot'
   languages:
+  - label: 'koi/dep'
   - label: 'kpv/dep'
 - label: 'aux:q'
   languages:
@@ -574,6 +605,7 @@
   - label: 'pt/dep'
   - label: 'ro/dep'
   - label: 'ru/dep'
+  - label: 'sl/dep'
   - label: 'sv/dep'
   - label: 'swl/dep'
   - label: 'tr/dep'
@@ -639,6 +671,7 @@
   - label: 'pt/dep'
   - label: 'ro/dep'
   - label: 'ru/dep'
+  - label: 'sl/dep'
   - label: 'sv/dep'
   - label: 'swl/dep'
   - label: 'tr/dep'
@@ -678,6 +711,7 @@
   - label: 'pt/dep'
   - label: 'ro/dep'
   - label: 'ru/dep'
+  - label: 'sl/dep'
   - label: 'sv/dep'
   - label: 'swl/dep'
   - label: 'tr/dep'
@@ -686,9 +720,6 @@
   - label: 'vi/dep'
   - label: 'yue/dep'
   - label: 'zh/dep'
-- label: 'ccomp:cau'
-  languages:
-  - label: 'tr/dep'
 - label: 'ccomp:cleft'
   languages:
   - label: 'pcm/dep'
@@ -706,12 +737,19 @@
 - label: 'ccomp:pred'
   languages:
   - label: 'hu/dep'
+- label: 'ccomp:relcl'
+  languages:
+  - label: 'la/dep'
+- label: 'ccomp:reported'
+  languages:
+  - label: 'la/dep'
 - label: 'cc:preconj'
   languages:
   - label: 'en/dep'
   - label: 'fi/dep'
   - label: 'id/dep'
   - label: 'kpv/dep'
+  - label: 'sl/dep'
   - label: 'u/dep'
 - label: 'clf'
   languages:
@@ -720,6 +758,10 @@
   - label: 'u/dep'
   - label: 'yue/dep'
   - label: 'zh/dep'
+- label: 'clf:det'
+  languages:
+  - label: 'vi/dep'
+  - label: 'yue/dep'
 - label: 'compound'
   languages:
   - label: 'bej/dep'
@@ -755,11 +797,24 @@
 - label: 'compound:a'
   languages:
   - label: 'id/dep'
+- label: 'compound:adj'
+  languages:
+  - label: 'vi/dep'
 - label: 'compound:affix'
   languages:
   - label: 'he/dep'
+- label: 'compound:amod'
+  languages:
+  - label: 'vi/dep'
+- label: 'compound:apr'
+  languages:
+  - label: 'vi/dep'
+- label: 'compound:atov'
+  languages:
+  - label: 'vi/dep'
 - label: 'compound:dir'
   languages:
+  - label: 'vi/dep'
   - label: 'yue/dep'
   - label: 'zh/dep'
 - label: 'compound:ext'
@@ -781,6 +836,9 @@
 - label: 'compound:preverb'
   languages:
   - label: 'hu/dep'
+- label: 'compound:pron'
+  languages:
+  - label: 'vi/dep'
 - label: 'compound:prt'
   languages:
   - label: 'de/dep'
@@ -793,6 +851,7 @@
   - label: 'sv/dep'
   - label: 'swl/dep'
   - label: 'u/dep'
+  - label: 'vi/dep'
 - label: 'compound:quant'
   languages:
   - label: 'yue/dep'
@@ -804,6 +863,7 @@
   - label: 'pcm/dep'
   - label: 'tr/dep'
   - label: 'u/dep'
+  - label: 'vi/dep'
 - label: 'compound:smixut'
   languages:
   - label: 'hbo/dep'
@@ -816,6 +876,13 @@
   - label: 'pcm/dep'
   - label: 'swl/dep'
   - label: 'u/dep'
+  - label: 'vi/dep'
+- label: 'compound:verbnoun'
+  languages:
+  - label: 'vi/dep'
+- label: 'compound:vmod'
+  languages:
+  - label: 'vi/dep'
 - label: 'compound:vo'
   languages:
   - label: 'yue/dep'
@@ -824,6 +891,9 @@
   languages:
   - label: 'yue/dep'
   - label: 'zh/dep'
+- label: 'compound:z'
+  languages:
+  - label: 'vi/dep'
 - label: 'conj'
   languages:
   - label: 'bg/dep'
@@ -850,6 +920,7 @@
   - label: 'pt/dep'
   - label: 'ro/dep'
   - label: 'ru/dep'
+  - label: 'sl/dep'
   - label: 'sv/dep'
   - label: 'swl/dep'
   - label: 'tr/dep'
@@ -899,6 +970,7 @@
   - label: 'pt/dep'
   - label: 'ro/dep'
   - label: 'ru/dep'
+  - label: 'sl/dep'
   - label: 'sv/dep'
   - label: 'swl/dep'
   - label: 'tr/dep'
@@ -913,6 +985,9 @@
 - label: 'cop:locat'
   languages:
   - label: 'pl/dep'
+- label: 'cop:outer'
+  languages:
+  - label: 'la/dep'
 - label: 'cop:own'
   languages:
   - label: 'fi/dep'
@@ -946,6 +1021,7 @@
   - label: 'pt/dep'
   - label: 'ro/dep'
   - label: 'ru/dep'
+  - label: 'sl/dep'
   - label: 'sv/dep'
   - label: 'swl/dep'
   - label: 'tr/dep'
@@ -953,6 +1029,9 @@
   - label: 'vi/dep'
   - label: 'yue/dep'
   - label: 'zh/dep'
+- label: 'csubj:asubj'
+  languages:
+  - label: 'vi/dep'
 - label: 'csubj:cleft'
   languages:
   - label: 'ga/dep'
@@ -974,10 +1053,9 @@
 - label: 'csubj:outer'
   languages:
   - label: 'en/dep'
+  - label: 'gd/dep'
+  - label: 'ru/dep'
   - label: 'u/dep'
-- label: 'csubjpass'
-  languages:
-  - label: 'tr/dep'
 - label: 'csubj:pass'
   languages:
   - label: 'bg/dep'
@@ -997,9 +1075,23 @@
   - label: 'ro/dep'
   - label: 'ru/dep'
   - label: 'sv/dep'
+  - label: 'tr/dep'
   - label: 'u/dep'
+  - label: 'vi/dep'
   - label: 'yue/dep'
   - label: 'zh/dep'
+- label: 'csubj:pred'
+  languages:
+  - label: 'uk/dep'
+- label: 'csubj:relcl'
+  languages:
+  - label: 'la/dep'
+- label: 'csubj:reported'
+  languages:
+  - label: 'la/dep'
+- label: 'csubj:vsubj'
+  languages:
+  - label: 'vi/dep'
 - label: 'dep'
   languages:
   - label: 'cop/dep'
@@ -1010,6 +1102,7 @@
   - label: 'it/dep'
   - label: 'pt/dep'
   - label: 'ru/dep'
+  - label: 'sl/dep'
   - label: 'swl/dep'
   - label: 'tr/dep'
   - label: 'u/dep'
@@ -1038,6 +1131,9 @@
 - label: 'dep:cop'
   languages:
   - label: 'ess/dep'
+- label: 'dep:der'
+  languages:
+  - label: 'tr/dep'
 - label: 'dep:emo'
   languages:
   - label: 'ess/dep'
@@ -1056,6 +1152,9 @@
 - label: 'dep:redup'
   languages:
   - label: 'bej/dep'
+- label: 'dep:repeat'
+  languages:
+  - label: 'abq/dep'
 - label: 'dep:ss'
   languages:
   - label: 'quc/dep'
@@ -1086,6 +1185,7 @@
   - label: 'pt/dep'
   - label: 'ro/dep'
   - label: 'ru/dep'
+  - label: 'sl/dep'
   - label: 'sv/dep'
   - label: 'swl/dep'
   - label: 'tr/dep'
@@ -1096,6 +1196,9 @@
 - label: 'det:adj'
   languages:
   - label: 'sq/dep'
+- label: 'det:clf'
+  languages:
+  - label: 'vi/dep'
 - label: 'det:noun'
   languages:
   - label: 'sq/dep'
@@ -1109,6 +1212,9 @@
   - label: 'cs/dep'
   - label: 'pl/dep'
   - label: 'u/dep'
+- label: 'det:pmod'
+  languages:
+  - label: 'vi/dep'
 - label: 'det:poss'
   languages:
   - label: 'de/dep'
@@ -1149,6 +1255,7 @@
   - label: 'pcm/dep'
   - label: 'pt/dep'
   - label: 'ru/dep'
+  - label: 'sl/dep'
   - label: 'sv/dep'
   - label: 'swl/dep'
   - label: 'tr/dep'
@@ -1171,6 +1278,9 @@
 - label: 'discourse:intj'
   languages:
   - label: 'pl/dep'
+- label: 'discourse:q'
+  languages:
+  - label: 'tr/dep'
 - label: 'discourse:sp'
   languages:
   - label: 'lzh/dep'
@@ -1194,12 +1304,19 @@
   - label: 'pcm/dep'
   - label: 'pt/dep'
   - label: 'ru/dep'
+  - label: 'sl/dep'
   - label: 'sv/dep'
   - label: 'tr/dep'
   - label: 'u/dep'
   - label: 'vi/dep'
   - label: 'yue/dep'
   - label: 'zh/dep'
+- label: 'dislocated:advcl'
+  languages:
+  - label: 'la/dep'
+- label: 'dislocated:ccomp'
+  languages:
+  - label: 'la/dep'
 - label: 'dislocated:cleft'
   languages:
   - label: 'gun/dep'
@@ -1212,6 +1329,9 @@
 - label: 'dislocated:obj'
   languages:
   - label: 'la/dep'
+- label: 'dislocated:obl'
+  languages:
+  - label: 'la/dep'
 - label: 'dislocated:subj'
   languages:
   - label: 'bej/dep'
@@ -1219,9 +1339,6 @@
   languages:
   - label: 'yue/dep'
   - label: 'zh/dep'
-- label: 'dobj:cau'
-  languages:
-  - label: 'tr/dep'
 - label: 'expl'
   languages:
   - label: 'bg/dep'
@@ -1236,8 +1353,8 @@
   - label: 'pt/dep'
   - label: 'ro/dep'
   - label: 'ru/dep'
+  - label: 'sl/dep'
   - label: 'sv/dep'
-  - label: 'tr/dep'
   - label: 'u/dep'
   - label: 'yue/dep'
 - label: 'expl:comp'
@@ -1289,6 +1406,7 @@
   - label: 'pcm/dep'
   - label: 'pt/dep'
   - label: 'ru/dep'
+  - label: 'sl/dep'
   - label: 'sv/dep'
   - label: 'tr/dep'
   - label: 'u/dep'
@@ -1315,11 +1433,15 @@
   - label: 'swl/dep'
   - label: 'tr/dep'
   - label: 'u/dep'
+  - label: 'vi/dep'
   - label: 'yue/dep'
   - label: 'zh/dep'
 - label: 'flat:abs'
   languages:
   - label: 'uk/dep'
+- label: 'flat:date'
+  languages:
+  - label: 'vi/dep'
 - label: 'flat:dist'
   languages:
   - label: 'hy/dep'
@@ -1337,6 +1459,7 @@
   - label: 'ru/dep'
   - label: 'tr/dep'
   - label: 'u/dep'
+  - label: 'vi/dep'
 - label: 'flat:frac'
   languages:
   - label: 'hyw/dep'
@@ -1353,21 +1476,31 @@
   - label: 'ru/dep'
   - label: 'sv/dep'
   - label: 'u/dep'
+  - label: 'vi/dep'
 - label: 'flat:num'
   languages:
   - label: 'fa/dep'
   - label: 'kpv/dep'
+- label: 'flat:number'
+  languages:
+  - label: 'vi/dep'
 - label: 'flat:range'
   languages:
   - label: 'hy/dep'
   - label: 'hyw/dep'
   - label: 'uk/dep'
+- label: 'flat:redup'
+  languages:
+  - label: 'vi/dep'
 - label: 'flat:repeat'
   languages:
   - label: 'uk/dep'
 - label: 'flat:sibl'
   languages:
   - label: 'uk/dep'
+- label: 'flat:time'
+  languages:
+  - label: 'vi/dep'
 - label: 'flat:title'
   languages:
   - label: 'uk/dep'
@@ -1410,6 +1543,7 @@
   - label: 'it/dep'
   - label: 'ja/dep'
   - label: 'kk/dep'
+  - label: 'la/dep'
   - label: 'no/dep'
   - label: 'pcm/dep'
   - label: 'pt/dep'
@@ -1495,6 +1629,9 @@
 - label: 'mark:aff'
   languages:
   - label: 'bej/dep'
+- label: 'mark:pcomp'
+  languages:
+  - label: 'vi/dep'
 - label: 'mark:plur'
   languages:
   - label: 'sjo/dep'
@@ -1514,7 +1651,6 @@
 - label: 'neg'
   languages:
   - label: 'et/dep'
-  - label: 'tr/dep'
 - label: 'nmod'
   languages:
   - label: 'bej/dep'
@@ -1574,7 +1710,6 @@
   - label: 'mdf/dep'
 - label: 'nmod:cau'
   languages:
-  - label: 'tr/dep'
   - label: 'ug/dep'
 - label: 'nmod:comp'
   languages:
@@ -1626,9 +1761,6 @@
   languages:
   - label: 'tr/dep'
   - label: 'ug/dep'
-- label: 'nmod:pass'
-  languages:
-  - label: 'tr/dep'
 - label: 'nmod:poss'
   languages:
   - label: 'apu/dep'
@@ -1651,6 +1783,7 @@
   - label: 'swl/dep'
   - label: 'tr/dep'
   - label: 'u/dep'
+  - label: 'vi/dep'
 - label: 'nmod:pred'
   languages:
   - label: 'pl/dep'
@@ -1695,6 +1828,7 @@
   - label: 'fr/dep'
   - label: 'fro/dep'
   - label: 'ga/dep'
+  - label: 'gd/dep'
   - label: 'gsw/dep'
   - label: 'hy/dep'
   - label: 'it/dep'
@@ -1713,6 +1847,7 @@
   - label: 'swl/dep'
   - label: 'tr/dep'
   - label: 'u/dep'
+  - label: 'vi/dep'
   - label: 'yue/dep'
   - label: 'zh/dep'
 - label: 'nsubj:advmod'
@@ -1765,16 +1900,19 @@
   - label: 'fa/dep'
   - label: 'ta/dep'
   - label: 'te/dep'
+- label: 'nsubj:nn'
+  languages:
+  - label: 'vi/dep'
 - label: 'nsubj:obj'
   languages:
   - label: 'fro/dep'
 - label: 'nsubj:outer'
   languages:
   - label: 'en/dep'
+  - label: 'gd/dep'
+  - label: 'it/dep'
+  - label: 'ru/dep'
   - label: 'u/dep'
-- label: 'nsubjpass'
-  languages:
-  - label: 'tr/dep'
 - label: 'nsubj:pass'
   languages:
   - label: 'bg/dep'
@@ -1784,6 +1922,7 @@
   - label: 'en/dep'
   - label: 'es/dep'
   - label: 'fr/dep'
+  - label: 'gd/dep'
   - label: 'gsw/dep'
   - label: 'he/dep'
   - label: 'hy/dep'
@@ -1796,21 +1935,26 @@
   - label: 'ro/dep'
   - label: 'ru/dep'
   - label: 'sv/dep'
+  - label: 'tr/dep'
   - label: 'u/dep'
+  - label: 'vi/dep'
   - label: 'yue/dep'
   - label: 'zh/dep'
 - label: 'nsubj:periph'
   languages:
   - label: 'yue/dep'
-- label: 'nsubj:quasi'
-  languages:
-  - label: 'pcm/dep'
 - label: 'nsubj:pred'
   languages:
   - label: 'uk/dep'
+- label: 'nsubj:quasi'
+  languages:
+  - label: 'pcm/dep'
 - label: 'nsubj:x'
   languages:
   - label: 'uk/dep'
+- label: 'nsubj:xsubj'
+  languages:
+  - label: 'vi/dep'
 - label: 'nummod'
   languages:
   - label: 'bg/dep'
@@ -1909,6 +2053,9 @@
 - label: 'obj:appl'
   languages:
   - label: 'wo/dep'
+- label: 'obj:cau'
+  languages:
+  - label: 'tr/dep'
 - label: 'obj:caus'
   languages:
   - label: 'wo/dep'
@@ -1931,6 +2078,7 @@
   - label: 'cop/dep'
   - label: 'cs/dep'
   - label: 'de/dep'
+  - label: 'en/dep'
   - label: 'ess/dep'
   - label: 'fr/dep'
   - label: 'fro/dep'
@@ -1949,11 +2097,21 @@
   - label: 'swl/dep'
   - label: 'tr/dep'
   - label: 'u/dep'
+  - label: 'vi/dep'
   - label: 'yue/dep'
   - label: 'zh/dep'
+- label: 'obl:about'
+  languages:
+  - label: 'vi/dep'
 - label: 'obl:ad'
   languages:
   - label: 'pcm/dep'
+- label: 'obl:adj'
+  languages:
+  - label: 'vi/dep'
+- label: 'obl:adv'
+  languages:
+  - label: 'vi/dep'
 - label: 'obl:advmod'
   languages:
   - label: 'fro/dep'
@@ -1969,7 +2127,9 @@
   - label: 'pa/dep'
   - label: 'ru/dep'
   - label: 'sv/dep'
+  - label: 'tr/dep'
   - label: 'u/dep'
+  - label: 'vi/dep'
   - label: 'yue/dep'
   - label: 'zh/dep'
 - label: 'obl:appl'
@@ -1988,20 +2148,22 @@
   - label: 'mdf/dep'
   - label: 'myv/dep'
   - label: 'te/dep'
+  - label: 'tr/dep'
 - label: 'obl:cmp'
   languages:
+  - label: 'kpv/dep'
+  - label: 'la/dep'
+  - label: 'mdf/dep'
+  - label: 'myv/dep'
   - label: 'te/dep'
 - label: 'obl:cmpr'
   languages:
-  - label: 'la/dep'
   - label: 'pl/dep'
   - label: 'ta/dep'
 - label: 'obl:comp'
   languages:
-  - label: 'kpv/dep'
-  - label: 'mdf/dep'
-  - label: 'myv/dep'
   - label: 'pcm/dep'
+  - label: 'vi/dep'
 - label: 'obl:dat'
   languages:
   - label: 'kmr/dep'
@@ -2013,6 +2175,9 @@
   - label: 'mdf/dep'
   - label: 'myv/dep'
   - label: 'ta/dep'
+- label: 'obl:iobj'
+  languages:
+  - label: 'vi/dep'
 - label: 'obl:lfrom'
   languages:
   - label: 'kpv/dep'
@@ -2064,6 +2229,7 @@
 - label: 'obl:own'
   languages:
   - label: 'kk/dep'
+  - label: 'myv/dep'
 - label: 'obl:patient'
   languages:
   - label: 'yue/dep'
@@ -2102,6 +2268,9 @@
   - label: 'ug/dep'
   - label: 'yue/dep'
   - label: 'zh/dep'
+- label: 'obl:with'
+  languages:
+  - label: 'vi/dep'
 - label: 'orphan'
   languages:
   - label: 'bm/dep'
@@ -2163,6 +2332,7 @@
 - label: 'parataxis:appos'
   languages:
   - label: 'it/dep'
+  - label: 'uk/dep'
 - label: 'parataxis:conj'
   languages:
   - label: 'pcm/dep'
@@ -2218,6 +2388,9 @@
   languages:
   - label: 'ckt/dep'
   - label: 'gun/dep'
+  - label: 'la/dep'
+- label: 'parataxis:reporting'
+  languages:
   - label: 'la/dep'
 - label: 'parataxis:restart'
   languages:
@@ -2362,6 +2535,7 @@
   - label: 'hy/dep'
   - label: 'it/dep'
   - label: 'kk/dep'
+  - label: 'la/dep'
   - label: 'no/dep'
   - label: 'pa/dep'
   - label: 'pcm/dep'
@@ -2371,11 +2545,18 @@
   - label: 'swl/dep'
   - label: 'tr/dep'
   - label: 'u/dep'
+  - label: 'vi/dep'
   - label: 'yue/dep'
   - label: 'zh/dep'
+- label: 'xcomp:adj'
+  languages:
+  - label: 'vi/dep'
 - label: 'xcomp:cleft'
   languages:
   - label: 'pl/dep'
+- label: 'xcomp:dir'
+  languages:
+  - label: 'vi/dep'
 - label: 'xcomp:ds'
   languages:
   - label: 'fi/dep'
@@ -2392,12 +2573,15 @@
   - label: 'ga/dep'
   - label: 'gd/dep'
   - label: 'gv/dep'
-  - label: 'la/dep'
   - label: 'pl/dep'
   - label: 'sme/dep'
-- label: 'xcomp:pred'
-  languages:
   - label: 'uk/dep'
+- label: 'xcomp:relcl'
+  languages:
+  - label: 'la/dep'
 - label: 'xcomp:subj'
   languages:
   - label: 'pl/dep'
+- label: 'xcomp:vcomp'
+  languages:
+  - label: 'vi/dep'

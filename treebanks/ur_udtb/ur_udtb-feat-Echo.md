@@ -30,7 +30,7 @@ The most frequent other feature values with which `NOUN` and `Echo` co-occurred:
 
 12 <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Echo`.
 
-The most frequent other feature values with which `ADJ` and `Echo` co-occurred: <tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (9; 75%), <tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7; 58%).
+The most frequent other feature values with which `ADJ` and `Echo` co-occurred: <tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (9; 75%), <tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (8; 67%), <tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7; 58%).
 
 `ADJ` tokens may have the following values of `Echo`:
 

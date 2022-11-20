@@ -32,5 +32,5 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 `ADV` tokens may have the following values of `Degree`:
 
 * `Cmp` (1; 100% of non-empty `Degree`): <em>Кейінірек</em>
-* `EMPTY` (302): <em>да, де, қайда, бүгін, енді, тағы, ғана, қазір, қайдан, өте</em>
+* `EMPTY` (303): <em>да, де, қайда, бүгін, енді, тағы, ғана, қазір, қайдан, өте</em>
 

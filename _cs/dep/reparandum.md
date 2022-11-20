@@ -13,4 +13,4 @@ Jděte dopra- doleva . \n Go to-the-righ- to-the-left .
 reparandum(doleva, dopra-)
 reparandum(to-the-left, to-the-righ-)
 ~~~
-<!-- Interlanguage links updated So kvě 14 19:04:14 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:44 CET 2022 -->

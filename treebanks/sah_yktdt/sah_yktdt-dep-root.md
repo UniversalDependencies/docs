@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-96 nodes (19%) are attached to their parents as `root`.
+289 nodes (21%) are attached to their parents as `root`.
 
-96 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.73958333333333.
+289 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.72664359861592.
 
-The following 5 pairs of parts of speech are connected with `root`: -<tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt> (80; 83% instances), -<tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt> (9; 9% instances), -<tt><a href="sah_yktdt-pos-ADJ.html">ADJ</a></tt> (4; 4% instances), -<tt><a href="sah_yktdt-pos-ADV.html">ADV</a></tt> (2; 2% instances), -<tt><a href="sah_yktdt-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `root`: -<tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt> (228; 79% instances), -<tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt> (50; 17% instances), -<tt><a href="sah_yktdt-pos-ADJ.html">ADJ</a></tt> (5; 2% instances), -<tt><a href="sah_yktdt-pos-ADV.html">ADV</a></tt> (2; 1% instances), -<tt><a href="sah_yktdt-pos-PRON.html">PRON</a></tt> (2; 1% instances), -<tt><a href="sah_yktdt-pos-AUX.html">AUX</a></tt> (1; 0% instances), -<tt><a href="sah_yktdt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 5 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 2 root	color:blue
-1	Кинилэр	кинилэр	PRON	pron	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
+1	Кинилэр	кини	PRON	pron	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
 2	кэллилэр	кэл	VERB	v	Number=Plur|Person=3|Tense=NearPast	0	root	_	_
 
 ~~~
@@ -34,10 +34,9 @@ The following 5 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 3 root	color:blue
-1	Бу	бу	DET	det	_	2	det	_	_
-2	кыыл	кыыл	NOUN	n	Case=Nom|Number=Sing	3	nsubj	_	_
-3	таба	таба	NOUN	n	Case=Nom|Number=Sing	0	root	_	_
-4	буолбатах	буол	AUX	aux	Polarity=Neg|Tense=Pres	3	cop	_	_
+1	Кини	кини	PRON	pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nmod	_	_
+2	доҕотторо	доҕор	NOUN	n	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	3	nsubj	_	_
+3	нууччалар	нуучча	NOUN	n	Case=Nom|Number=Plur	0	root	_	_
 
 ~~~
 

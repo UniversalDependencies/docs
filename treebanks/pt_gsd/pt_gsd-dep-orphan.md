@@ -29,9 +29,9 @@ The following 1 pairs of parts of speech are connected with `orphan`: <tt><a hre
 5	o	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	português	português	NOUN	NOUN	_	3	obl	_	_
 7	para	para	ADP	ADP	_	9	case	_	_
-8	o	o	DET	DET	_	9	det	_	_
+8	o	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	inglês	inglês	NOUN	NOUN	_	3	obl	_	_
-10	as	o	DET	DET	_	11	det	_	_
+10	as	o	DET	DET	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
 11	perguntas	pergunta	NOUN	NOUN	_	3	obj	_	_
 12	(	(	PUNCT	.	_	19	punct	_	SpaceAfter=No
 13	e	e	CCONJ	CONJ	_	19	cc	_	_
@@ -39,7 +39,7 @@ The following 1 pairs of parts of speech are connected with `orphan`: <tt><a hre
 15	inglês	inglês	NOUN	NOUN	_	19	orphan	_	_
 16	para	para	ADP	ADP	_	17	case	_	_
 17	português	português	NOUN	NOUN	_	19	orphan	_	_
-18	as	o	DET	DET	_	19	det	_	_
+18	as	o	DET	DET	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	19	det	_	_
 19	respostas	resposta	NOUN	NOUN	_	3	conj	_	SpaceAfter=No
 20	)	)	PUNCT	.	_	19	punct	_	_
 21	de	de	ADP	ADP	_	23	case	_	_

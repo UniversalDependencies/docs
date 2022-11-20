@@ -20,4 +20,4 @@ Ukrainian uses `flat:repeat` for repetitions.
 
 ~~~
 
-<!-- Interlanguage links updated So kvě 14 19:03:39 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:27 CET 2022 -->

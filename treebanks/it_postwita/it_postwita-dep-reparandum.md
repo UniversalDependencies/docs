@@ -13,43 +13,46 @@ This relation is universal.
 1 instances of `reparandum` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 1 pairs of parts of speech are connected with `reparandum`: <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_postwita-pos-PUNCT.html">PUNCT</a></tt> (1; 100% instances).
+The following 1 pairs of parts of speech are connected with `reparandum`: <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt>-<tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> (1; 100% instances).
 
 
 ~~~ conllu
-# visual-style 21	bgColor:blue
-# visual-style 21	fgColor:white
-# visual-style 20	bgColor:blue
-# visual-style 20	fgColor:white
-# visual-style 20 21 reparandum	color:blue
-1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
-2	ministri	ministro	NOUN	S	Gender=Masc|Number=Plur	8	nsubj	_	_
-3	di	di	ADP	E	_	5	case	_	_
-4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
-5	Governo	governo	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
-6	Monti	Monti	PROPN	SP	_	5	nmod	_	_
-7	saranno	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	8	cop	_	_
-8	12	12	NUM	N	NumType=Card	0	root	_	SpaceAfter=No
-9	,	,	PUNCT	FF	_	8	punct	_	_
-10	tutti	tutto	DET	DI	PronType=Ind	11	det	_	_
-11	tecnici	tecnico	ADJ	A	Gender=Masc|Number=Plur	8	appos	_	SpaceAfter=No
-12	.	.	PUNCT	FS	_	8	punct	_	_
-13	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
-14	sottosegretari	sottosegretario	NOUN	S	Gender=Masc|Number=Plur	20	nsubj	_	SpaceAfter=No
-15	,	,	PUNCT	FF	_	16	punct	_	_
-16	invece	invece	ADV	B	_	20	advmod	_	SpaceAfter=No
-17	,	,	PUNCT	FF	_	16	punct	_	_
-18	saranno	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	20	cop	_	_
-19	tutti	tutto	DET	DI	PronType=Ind	20	det	_	_
-20	politici	politico	NOUN	S	Gender=Masc|Number=Plur	8	parataxis	_	SpaceAfter=No
-21	.	.	PUNCT	FS	_	20	reparandum	_	_
-22	E	e	CCONJ	CC	_	24	cc	_	_
-23	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	24	expl	_	_
-24	sará	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	8	parataxis	_	_
-25	anche	anche	ADV	B	_	26	advmod	_	_
-26	qualcuno	qualcuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	24	nsubj	_	_
-27	di	di	ADP	E	_	28	case	_	_
-28	FLI	FLI	PROPN	SP	_	26	nmod	_	_
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 15 16 reparandum	color:blue
+1	@user1	@user1	SYM	SYM	_	2	vocative	_	_
+2	dici	dire	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
+4	per	per	ADP	E	_	5	case	_	_
+5	primo	primo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	2	advmod	_	_
+6	che	che	SCONJ	CS	_	8	mark	_	_
+7	“	“	PUNCT	FB	_	8	punct	_	_
+8	può	potere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+9	“	“	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	2	punct	_	_
+11	Chi	chi	PRON	PR	PronType=Rel	2	parataxis	_	_
+12	sei	essere	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	11	cop	_	_
+13	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	11	nsubj	_	_
+14	per	per	ADP	E	_	15	mark	_	_
+15	dire	dire	VERB	V	VerbForm=Inf	11	advcl	_	_
+16	che	che	SCONJ	CS	_	15	reparandum	_	_
+17	ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	15	obj	_	_
+18	che	che	PRON	PR	PronType=Rel	21	obj	_	_
+19	qualcuno	qualcuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	21	nsubj	_	_
+20	“	“	PUNCT	FB	_	21	punct	_	_
+21	deve	dovere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	acl:relcl	_	_
+22	“	“	PUNCT	FB	_	24	punct	_	_
+23	(	(	PUNCT	FB	_	24	punct	_	SpaceAfter=No
+24	accettare	accettare	VERB	V	VerbForm=Inf	21	parataxis	_	SpaceAfter=No
+25	,	,	PUNCT	FF	_	26	punct	_	_
+26	voler	volere	VERB	V	VerbForm=Inf	24	conj	_	_
+27	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	26	expl	_	_
+28	ecc	eccetera	ADV	B	_	24	advmod	_	SpaceAfter=No
+29	.	.	PUNCT	FS	_	24	punct	_	SpaceAfter=No
+30	)	)	PUNCT	FB	_	24	punct	_	_
+31	@user2	@user2	SYM	SYM	_	2	vocative	_	_
 
 ~~~
 

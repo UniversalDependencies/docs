@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Persian-Seraji: POS Tags: `ADP`
 
-There are 86 `ADP` lemmas (1%), 108 `ADP` types (1%) and 17415 `ADP` tokens (11%).
-Out of 15 observed tags, the rank of `ADP` is: 6 in number of lemmas, 8 in number of types and 2 in number of tokens.
+There are 103 `ADP` lemmas (1%), 108 `ADP` types (1%) and 17415 `ADP` tokens (11%).
+Out of 15 observed tags, the rank of `ADP` is: 7 in number of lemmas, 8 in number of types and 2 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: در، به، از، با، برای، بر، تا، درباره، مورد، رو
 
@@ -55,13 +55,13 @@ The 10 most frequent ambiguous types:  در (<tt><a href="fa_seraji-pos-ADP.html
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.255814 (the average of all parts of speech is 1.920334).
+The form / lemma ratio of `ADP` is 1.048544 (the average of all parts of speech is 1.409222).
 
-The 1st highest number of forms (22) was observed with the lemma “_”: باضافهٔ, بجز, بدانها, برا, برایت, برطبق, برعلیه, برغم, بنظر, بهش, به‌, به‌زعم, بی‌آنکه, دربارهٔ, در‌, روبه‌روی, رودرروی, رویاروی, ظرف, فرا, فرو, نبش.
+The 1st highest number of forms (4) was observed with the lemma “درباره”: درباره, دربارهٔ, دربارهٔٔ, درباره‌.
 
-The 2nd highest number of forms (4) was observed with the lemma “درباره”: درباره, دربارهٔ, دربارهٔٔ, درباره‌.
+The 2nd highest number of forms (2) was observed with the lemma “از”: از, ز.
 
-The 3rd highest number of forms (2) was observed with the lemma “از”: از, ز.
+The 3rd highest number of forms (2) was observed with the lemma “به”: ب, به.
 
 `ADP` does not occur with any features.
 
@@ -70,19 +70,19 @@ The 3rd highest number of forms (2) was observed with the lemma “از”: از
 
 `ADP` nodes are attached to their parents using 9 different relations: <tt><a href="fa_seraji-dep-case.html">case</a></tt> (16463; 95% instances), <tt><a href="fa_seraji-dep-fixed.html">fixed</a></tt> (683; 4% instances), <tt><a href="fa_seraji-dep-mark.html">mark</a></tt> (154; 1% instances), <tt><a href="fa_seraji-dep-compound-prt.html">compound:prt</a></tt> (100; 1% instances), <tt><a href="fa_seraji-dep-advmod.html">advmod</a></tt> (7; 0% instances), <tt><a href="fa_seraji-dep-conj.html">conj</a></tt> (3; 0% instances), <tt><a href="fa_seraji-dep-compound-lvc.html">compound:lvc</a></tt> (2; 0% instances), <tt><a href="fa_seraji-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="fa_seraji-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 12 different parts of speech: <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> (15001; 86% instances), <tt><a href="fa_seraji-pos-PRON.html">PRON</a></tt> (1027; 6% instances), <tt><a href="fa_seraji-pos-ADP.html">ADP</a></tt> (560; 3% instances), <tt><a href="fa_seraji-pos-VERB.html">VERB</a></tt> (282; 2% instances), <tt><a href="fa_seraji-pos-ADJ.html">ADJ</a></tt> (262; 2% instances), <tt><a href="fa_seraji-pos-ADV.html">ADV</a></tt> (164; 1% instances), <tt><a href="fa_seraji-pos-NUM.html">NUM</a></tt> (90; 1% instances), <tt><a href="fa_seraji-pos-CCONJ.html">CCONJ</a></tt> (19; 0% instances), <tt><a href="fa_seraji-pos-X.html">X</a></tt> (7; 0% instances), <tt><a href="fa_seraji-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="fa_seraji-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="fa_seraji-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Parents of `ADP` nodes belong to 12 different parts of speech: <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> (14999; 86% instances), <tt><a href="fa_seraji-pos-PRON.html">PRON</a></tt> (1026; 6% instances), <tt><a href="fa_seraji-pos-ADP.html">ADP</a></tt> (559; 3% instances), <tt><a href="fa_seraji-pos-VERB.html">VERB</a></tt> (290; 2% instances), <tt><a href="fa_seraji-pos-ADJ.html">ADJ</a></tt> (258; 1% instances), <tt><a href="fa_seraji-pos-ADV.html">ADV</a></tt> (164; 1% instances), <tt><a href="fa_seraji-pos-NUM.html">NUM</a></tt> (90; 1% instances), <tt><a href="fa_seraji-pos-CCONJ.html">CCONJ</a></tt> (19; 0% instances), <tt><a href="fa_seraji-pos-X.html">X</a></tt> (7; 0% instances), <tt><a href="fa_seraji-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="fa_seraji-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="fa_seraji-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
-16445 (94%) `ADP` nodes are leaves.
+16536 (95%) `ADP` nodes are leaves.
 
-771 (4%) `ADP` nodes have one child.
+699 (4%) `ADP` nodes have one child.
 
-175 (1%) `ADP` nodes have two children.
+158 (1%) `ADP` nodes have two children.
 
-24 (0%) `ADP` nodes have three or more children.
+22 (0%) `ADP` nodes have three or more children.
 
 The highest child degree of a `ADP` node is 4.
 
-Children of `ADP` nodes are attached using 19 different relations: <tt><a href="fa_seraji-dep-fixed.html">fixed</a></tt> (889; 74% instances), <tt><a href="fa_seraji-dep-conj.html">conj</a></tt> (165; 14% instances), <tt><a href="fa_seraji-dep-advmod.html">advmod</a></tt> (43; 4% instances), <tt><a href="fa_seraji-dep-nummod.html">nummod</a></tt> (18; 2% instances), <tt><a href="fa_seraji-dep-nmod.html">nmod</a></tt> (15; 1% instances), <tt><a href="fa_seraji-dep-cc-preconj.html">cc:preconj</a></tt> (14; 1% instances), <tt><a href="fa_seraji-dep-nmod-poss.html">nmod:poss</a></tt> (11; 1% instances), <tt><a href="fa_seraji-dep-punct.html">punct</a></tt> (10; 1% instances), <tt><a href="fa_seraji-dep-cc.html">cc</a></tt> (6; 1% instances), <tt><a href="fa_seraji-dep-dep.html">dep</a></tt> (6; 1% instances), <tt><a href="fa_seraji-dep-obj.html">obj</a></tt> (4; 0% instances), <tt><a href="fa_seraji-dep-acl-relcl.html">acl:relcl</a></tt> (2; 0% instances), <tt><a href="fa_seraji-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="fa_seraji-dep-case.html">case</a></tt> (2; 0% instances), <tt><a href="fa_seraji-dep-compound-lvc.html">compound:lvc</a></tt> (2; 0% instances), <tt><a href="fa_seraji-dep-mark.html">mark</a></tt> (2; 0% instances), <tt><a href="fa_seraji-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="fa_seraji-dep-compound-prt.html">compound:prt</a></tt> (1; 0% instances), <tt><a href="fa_seraji-dep-flat.html">flat</a></tt> (1; 0% instances)
+Children of `ADP` nodes are attached using 9 different relations: <tt><a href="fa_seraji-dep-fixed.html">fixed</a></tt> (884; 82% instances), <tt><a href="fa_seraji-dep-conj.html">conj</a></tt> (165; 15% instances), <tt><a href="fa_seraji-dep-cc-preconj.html">cc:preconj</a></tt> (14; 1% instances), <tt><a href="fa_seraji-dep-punct.html">punct</a></tt> (7; 1% instances), <tt><a href="fa_seraji-dep-cc.html">cc</a></tt> (6; 1% instances), <tt><a href="fa_seraji-dep-case.html">case</a></tt> (2; 0% instances), <tt><a href="fa_seraji-dep-compound-lvc.html">compound:lvc</a></tt> (2; 0% instances), <tt><a href="fa_seraji-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="fa_seraji-dep-mark.html">mark</a></tt> (1; 0% instances)
 
-Children of `ADP` nodes belong to 13 different parts of speech: <tt><a href="fa_seraji-pos-ADP.html">ADP</a></tt> (560; 47% instances), <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> (296; 25% instances), <tt><a href="fa_seraji-pos-CCONJ.html">CCONJ</a></tt> (154; 13% instances), <tt><a href="fa_seraji-pos-PRON.html">PRON</a></tt> (56; 5% instances), <tt><a href="fa_seraji-pos-ADV.html">ADV</a></tt> (43; 4% instances), <tt><a href="fa_seraji-pos-SCONJ.html">SCONJ</a></tt> (27; 2% instances), <tt><a href="fa_seraji-pos-NUM.html">NUM</a></tt> (23; 2% instances), <tt><a href="fa_seraji-pos-ADJ.html">ADJ</a></tt> (12; 1% instances), <tt><a href="fa_seraji-pos-PUNCT.html">PUNCT</a></tt> (10; 1% instances), <tt><a href="fa_seraji-pos-VERB.html">VERB</a></tt> (7; 1% instances), <tt><a href="fa_seraji-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="fa_seraji-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="fa_seraji-pos-X.html">X</a></tt> (1; 0% instances)
+Children of `ADP` nodes belong to 13 different parts of speech: <tt><a href="fa_seraji-pos-ADP.html">ADP</a></tt> (559; 52% instances), <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> (262; 24% instances), <tt><a href="fa_seraji-pos-CCONJ.html">CCONJ</a></tt> (154; 14% instances), <tt><a href="fa_seraji-pos-PRON.html">PRON</a></tt> (54; 5% instances), <tt><a href="fa_seraji-pos-SCONJ.html">SCONJ</a></tt> (16; 1% instances), <tt><a href="fa_seraji-pos-ADJ.html">ADJ</a></tt> (10; 1% instances), <tt><a href="fa_seraji-pos-ADV.html">ADV</a></tt> (9; 1% instances), <tt><a href="fa_seraji-pos-PUNCT.html">PUNCT</a></tt> (7; 1% instances), <tt><a href="fa_seraji-pos-VERB.html">VERB</a></tt> (6; 1% instances), <tt><a href="fa_seraji-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="fa_seraji-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="fa_seraji-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="fa_seraji-pos-X.html">X</a></tt> (1; 0% instances)
 

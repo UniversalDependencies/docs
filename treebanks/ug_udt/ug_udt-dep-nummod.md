@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-755 nodes (2%) are attached to their parents as `nummod`.
+748 nodes (2%) are attached to their parents as `nummod`.
 
-752 instances of `nummod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.18145695364238.
+743 instances of `nummod` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.17647058823529.
 
-The following 20 pairs of parts of speech are connected with `nummod`: <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-NUM.html">NUM</a></tt> (597; 79% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (36; 5% instances), <tt><a href="ug_udt-pos-DET.html">DET</a></tt>-<tt><a href="ug_udt-pos-NUM.html">NUM</a></tt> (33; 4% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-NUM.html">NUM</a></tt> (21; 3% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ug_udt-pos-NUM.html">NUM</a></tt> (17; 2% instances), <tt><a href="ug_udt-pos-ADV.html">ADV</a></tt>-<tt><a href="ug_udt-pos-NUM.html">NUM</a></tt> (14; 2% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> (10; 1% instances), <tt><a href="ug_udt-pos-NUM.html">NUM</a></tt>-<tt><a href="ug_udt-pos-NUM.html">NUM</a></tt> (6; 1% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="ug_udt-pos-DET.html">DET</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="ug_udt-pos-ADV.html">ADV</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="ug_udt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ug_udt-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-ADV.html">ADV</a></tt>-<tt><a href="ug_udt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-AUX.html">AUX</a></tt>-<tt><a href="ug_udt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-NUM.html">NUM</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt>-<tt><a href="ug_udt-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `nummod`: <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-NUM.html">NUM</a></tt> (596; 80% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (34; 5% instances), <tt><a href="ug_udt-pos-DET.html">DET</a></tt>-<tt><a href="ug_udt-pos-NUM.html">NUM</a></tt> (33; 4% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ug_udt-pos-NUM.html">NUM</a></tt> (25; 3% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-NUM.html">NUM</a></tt> (23; 3% instances), <tt><a href="ug_udt-pos-ADV.html">ADV</a></tt>-<tt><a href="ug_udt-pos-NUM.html">NUM</a></tt> (15; 2% instances), <tt><a href="ug_udt-pos-NUM.html">NUM</a></tt>-<tt><a href="ug_udt-pos-NUM.html">NUM</a></tt> (6; 1% instances), <tt><a href="ug_udt-pos-DET.html">DET</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt>-<tt><a href="ug_udt-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ug_udt-pos-ADV.html">ADV</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ug_udt-pos-AUX.html">AUX</a></tt>-<tt><a href="ug_udt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-NUM.html">NUM</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ug_udt-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -46,8 +46,8 @@ The following 20 pairs of parts of speech are connected with `nummod`: <tt><a hr
 1	ئۇ	ئۇ	PRON	P	Case=Nom|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	Translit=u
 2	بىرەر	بىرەر	NOUN	M	Case=Nom	4	nummod	_	Translit=birer
 3	قول	قول	NOUN	N	Case=Nom	4	nmod:poss	_	Translit=qol
-4	ئىشارىسىمۇ	ئىشارە	NOUN	V	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3	9	nsubj	_	SpaceAfter=No|Translit=isharisimu
-5	،	،	PUNCT	Y	_	4	punct	_	Translit=,
+4	ئىشارىسىمۇ	ئىشارە	NOUN	V	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3	9	obj	_	SpaceAfter=No|Translit=isharisimu
+5	،	،	PUNCT	Y	_	8	punct	_	Translit=,
 6	بىرەر	بىرەر	NOUN	M	Case=Nom	7	nummod	_	Translit=birer
 7	ئېغىز	ئېغىز	NOUN	N	Case=Nom	8	amod	_	Translit=ëghiz
 8	گەپمۇ	گەپ	NOUN	N	Case=Nom	4	conj	_	Translit=gepmu
@@ -70,7 +70,7 @@ The following 20 pairs of parts of speech are connected with `nummod`: <tt><a hr
 5	قانىتى	قانات	NOUN	N	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3	6	nsubj	_	Translit=qaniti
 6	بار	بار	VERB	A	Mood=Imp|VerbForm=Fin	0	root	_	Translit=bar
 7	ئىكەن	_	AUX	V	_	6	cop	_	SpaceAfter=No|Translit=iken|Morf=Unknown
-8	،	،	PUNCT	Y	_	7	punct	_	Translit=,
+8	،	،	PUNCT	Y	_	6	punct	_	Translit=,
 
 ~~~
 

@@ -10,8 +10,8 @@ This relation is universal.
 
 79 nodes (1%) are attached to their parents as `cc`.
 
-59 instances of `cc` (75%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.18987341772152.
+57 instances of `cc` (72%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.13924050632911.
 
 The following 9 pairs of parts of speech are connected with `cc`: <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> (32; 41% instances), <tt><a href="bxr_bdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> (19; 24% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> (10; 13% instances), <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> (8; 10% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bxr_bdt-pos-SCONJ.html">SCONJ</a></tt> (6; 8% instances), <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bxr_bdt-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="bxr_bdt-pos-NUM.html">NUM</a></tt>-<tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="bxr_bdt-pos-PRON.html">PRON</a></tt>-<tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances).
 
@@ -35,18 +35,18 @@ The following 9 pairs of parts of speech are connected with `cc`: <tt><a href="b
 ~~~ conllu
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 6 cc	color:blue
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 cc	color:blue
 1	Туркада	Турка	PROPN	_	Case=Dat	2	nmod	_	_
 2	куполдо	купол	NOUN	_	Case=Dat	3	nmod	_	_
 3	аяншалга	аяншалга	NOUN	_	Case=Nom	4	nsubj	_	_
 4	болоо	боло	VERB	_	Mood=Des|Number=Sing|Person=3	0	root	_	SpaceAfter=No
-5	,	,	PUNCT	_	_	6	punct	_	_
-6	харин	харин	CCONJ	_	_	1	cc	_	_
-7	Хеэльсинкидэ	Хеэльсинки	PROPN	_	Case=Dat	1	orphan	_	_
-8	–	–	PUNCT	_	_	7	punct	_	_
-9	оперо	оперо	NOUN	_	Case=Nom	2	orphan	_	_
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	харин	харин	CCONJ	_	_	7	cc	_	_
+7	Хеэльсинкидэ	Хеэльсинки	PROPN	_	Case=Dat	4	conj	_	_
+8	–	–	PUNCT	_	_	9	punct	_	_
+9	оперо	оперо	NOUN	_	Case=Nom	7	orphan	_	_
 10	руу	руу	ADP	_	_	9	case	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	4	punct	_	_
 

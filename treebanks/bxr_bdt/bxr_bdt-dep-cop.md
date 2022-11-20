@@ -8,26 +8,28 @@ udver: '2'
 
 This relation is universal.
 
-78 nodes (1%) are attached to their parents as `cop`.
+54 nodes (1%) are attached to their parents as `cop`.
 
-77 instances of `cop` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.37179487179487.
+53 instances of `cop` (98%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.33333333333333.
 
-The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> (43; 55% instances), <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> (27; 35% instances), <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt>-<tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> (4; 5% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> (2; 3% instances), <tt><a href="bxr_bdt-pos-PRON.html">PRON</a></tt>-<tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="bxr_bdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> (32; 59% instances), <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> (16; 30% instances), <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt>-<tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> (3; 6% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> (2; 4% instances), <tt><a href="bxr_bdt-pos-PRON.html">PRON</a></tt>-<tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 cop	color:blue
-1	Хартаабхын	хартаабха	NOUN	_	Case=Gen	2	nmod	_	_
-2	ургалта	ургалта	NOUN	_	Case=Nom	4	nsubj	_	_
-3	саашадаа	саашадаа	ADV	_	_	4	advmod	_	_
-4	хомор	хомор	ADJ	_	_	0	root	_	_
-5	болоо	боло	AUX	_	Mood=Des|Number=Sing|Person=3	4	cop	_	SpaceAfter=No
-6	.	.	PUNCT	_	_	5	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 7 cop	color:blue
+1	Үдын	yда	NOUN	_	_	3	nmod	_	Morf=Unknown
+2	хоолтой	хоол	NOUN	_	Case=Com	1	fixed	_	_
+3	таһаг	таһаг	NOUN	_	Case=Nom	0	root	_	_
+4	амтатай	амтатай	ADJ	_	_	5	amod	_	_
+5	эдеэгээр	эдеэн	NOUN	_	_	6	obj	_	_
+6	элбэг	элбэг	ADJ	_	_	3	amod	_	_
+7	байгаа	бай	AUX	_	_	6	cop	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 
@@ -48,16 +50,18 @@ The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 cop	color:blue
-1	Театр	театр	NOUN	_	Case=Nom	2	nmod	_	_
-2	ошолго	ошолго	NOUN	_	Case=Nom	3	nsubj	_	_
-3	хүхюутэйгөөр	хүхюутэйгөөр	ADV	_	_	0	root	_	_
-4	үнгэрөө	үнгэр	AUX	_	Mood=Des|Number=Sing|Person=3	3	cop	_	SpaceAfter=No
-5	.	.	PUNCT	_	_	3	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 cop	color:blue
+1	Тэрэнэй	тэрэ	PRON	_	Case=Gen|PronType=Dem	2	nsubj	_	_
+2	ерэхэдэнь	ерэ	VERB	_	Case=Dat|Number[psor]=Sing|Person[psor]=3|VerbForm=Ger	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	гэртэ	гэр	NOUN	_	Case=Dat	5	nsubj	_	_
+5	дуугай	дуугай	ADV	_	_	2	advcl	_	_
+6	байгаа	бай	AUX	_	_	5	cop	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 

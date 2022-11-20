@@ -32,7 +32,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="ko_gsd-pos-NUM.html
 `PUNCT` tokens may have the following values of `NumType`:
 
 * `Card` (16; 100% of non-empty `NumType`): ', ), ", 15
-* `EMPTY` (10346): ., ,, ', (, ), ", %, ?, !, •
+* `EMPTY` (10395): ., ,, ', (, ), ", %, ?, !, •
 
 ### `DET`
 

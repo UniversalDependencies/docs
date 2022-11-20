@@ -34,7 +34,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 `NOUN` tokens may have the following values of `VerbForm`:
 
 * `Vnoun` (20; 100% of non-empty `VerbForm`): <em>kanliba, falennò, tobili, nyininkali, FURULI, foli, furakèli, nyinini</em>
-* `EMPTY` (2121): <em>ba, den, tuma, so, dennin, dugu, muso, tògò, fa, yòrò</em>
+* `EMPTY` (2124): <em>ba, den, tuma, so, dennin, dugu, muso, tògò, fa, yòrò</em>
 
 ### `ADJ`
 

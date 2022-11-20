@@ -26,17 +26,17 @@ The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 2	ው	ው	DET	DET	_	1	det	_	Translit=wə|LTranslit=wə
 3	ን	ን	PART	ACC	_	1	case	_	Translit=nə|LTranslit=nə
 4	ል	ል	SCONJ	SCONJ	_	6	mark	_	Translit=lə|LTranslit=lə
-5	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	6	expl	_	Translit=jə|LTranslit=jə
-6	ጨርስ	ጨርስ	VERB	VERB	_	9	csubj:pass	_	Translit=ćärəsə|LTranslit=ćärəsə
+5	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl	_	LTranslit='əsu|Translit=jə
+6	ጨርስ	ጨርስ	VERB	VERB	Mood=Ind|VerbForm=Fin	9	csubj:pass	_	Translit=ćärəsə|LTranslit=ćärəsə
 7	ስ	ስ	CCONJ	CCONJ	_	9	mark	_	Translit=sə|LTranslit=sə
-8	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	9	expl	_	Translit=jə|LTranslit=jə
-9	ል	ል	VERB	VERB	_	14	xcomp	_	Translit=lə|LTranslit=lə
+8	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	expl	_	LTranslit='əsu|Translit=jə
+9	ል	ል	VERB	VERB	Mood=Ind|VerbForm=Fin	14	xcomp	_	Translit=lə|LTranslit=lə
 10	ስሕተት	ስሕተት	NOUN	NOUN	_	11	obj	_	Translit=səħətätə|LTranslit=səħətätə
 11	መሥራት	መሥራት	NOUN	NOUN	VerbForm=Vnoun	14	nsubj	_	Translit=mäśəratə|LTranslit=mäśəratə
 12	ኡ	ኡ	DET	DET	_	11	det	_	Translit='u|LTranslit='u
 13	ን	ን	PART	ACC	_	11	case	_	Translit=nə|LTranslit=nə
-14	ተገነዘብ	ተገነዘብ	VERB	VERB	Voice=Pass	0	root	_	Translit=tägänäzäbə|LTranslit=tägänäzäbə
-15	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	14	nsubj:pass	_	Translit='ă|LTranslit='ă
+14	ተገነዘብ	ተገነዘብ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Pass	0	root	_	Translit=tägänäzäbə|LTranslit=tägänäzäbə
+15	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj:pass	_	LTranslit='əsu|Translit='ă
 16	።	።	PUNCT	PUNCT	_	14	punct	_	Translit=.|LTranslit=.
 
 ~~~

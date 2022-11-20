@@ -121,19 +121,19 @@ The most frequent other feature values with which `VERB` and `Definite` co-occur
 
 * `Def` (2; 29% of non-empty `Definite`): <em>Sameindu, samlaða</em>
 * `Ind` (5; 71% of non-empty `Definite`): <em>flettir, kendastur, keyptir, nevndar, prentaðir</em>
-* `EMPTY` (554): <em>býr, hevur, liggur, Sí, kom, eru, fer, fór, er, stendur</em>
+* `EMPTY` (566): <em>býr, hevur, kom, liggur, Sí, eru, fer, varð, fór, er</em>
 
 ## Relations with Agreement in `Definite`
 
 The 10 most frequent relations where parent and child node agree in `Definite`:
 <tt>NOUN --[<tt><a href="fo_oft-dep-amod.html">amod</a></tt>]--> ADJ</tt> (452; 75%),
 <tt>NOUN --[<tt><a href="fo_oft-dep-conj.html">conj</a></tt>]--> NOUN</tt> (136; 91%),
-<tt>NOUN --[<tt><a href="fo_oft-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (92; 57%),
-<tt>NOUN --[<tt><a href="fo_oft-dep-obl.html">obl</a></tt>]--> NOUN</tt> (60; 50%),
+<tt>NOUN --[<tt><a href="fo_oft-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (92; 56%),
 <tt>NOUN --[<tt><a href="fo_oft-dep-parataxis.html">parataxis</a></tt>]--> NOUN</tt> (36; 80%),
 <tt>NOUN --[<tt><a href="fo_oft-dep-nmod-poss.html">nmod:poss</a></tt>]--> PROPN</tt> (23; 52%),
 <tt>ADJ --[<tt><a href="fo_oft-dep-conj.html">conj</a></tt>]--> ADJ</tt> (21; 95%),
-<tt>ADJ --[<tt><a href="fo_oft-dep-obl.html">obl</a></tt>]--> NOUN</tt> (19; 66%),
+<tt>ADJ --[<tt><a href="fo_oft-dep-obl.html">obl</a></tt>]--> NOUN</tt> (17; 63%),
 <tt>PROPN --[<tt><a href="fo_oft-dep-conj.html">conj</a></tt>]--> PROPN</tt> (12; 80%),
-<tt>NOUN --[<tt><a href="fo_oft-dep-appos.html">appos</a></tt>]--> NOUN</tt> (7; 78%).
+<tt>NOUN --[<tt><a href="fo_oft-dep-appos.html">appos</a></tt>]--> NOUN</tt> (7; 78%),
+<tt>ADJ --[<tt><a href="fo_oft-dep-conj.html">conj</a></tt>]--> NOUN</tt> (5; 100%).
 

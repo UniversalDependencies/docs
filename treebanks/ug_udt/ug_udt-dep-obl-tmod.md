@@ -11,7 +11,7 @@ This relation is a language-specific subtype of <tt><a href="ug_udt-dep-obl.html
 4 nodes (0%) are attached to their parents as `obl:tmod`.
 
 4 instances of `obl:tmod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 7.25.
+Average distance between parent and child is 7.5.
 
 The following 1 pairs of parts of speech are connected with `obl:tmod`: <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (4; 100% instances).
 

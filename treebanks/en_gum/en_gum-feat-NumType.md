@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Card`, `Frac`, `Mult`, `Ord`.
 
-3710 tokens (2%) have a non-empty value of `NumType`.
+3703 tokens (2%) have a non-empty value of `NumType`.
 684 types (4%) occur at least once with a non-empty value of `NumType`.
 655 lemmas (5%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 6 part-of-speech tags: <tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (3182; 2% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (368; 0% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (107; 0% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (44; 0% instances), <tt><a href="en_gum-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (2; 0% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (3175; 2% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (368; 0% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (107; 0% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (44; 0% instances), <tt><a href="en_gum-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (2; 0% instances).
 
 ### `NUM`
 
-3182 <tt><a href="en_gum-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
+3175 <tt><a href="en_gum-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="en_gum-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (2184; 69%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="en_gum-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (2193; 69%).
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (3100; 97% of non-empty `NumType`): <em>one, two, 1, 2, three, 3, four, 6, 4, 10</em>
-* `Frac` (82; 3% of non-empty `NumType`): <em>1.5, 2.3, half, 1.3, 1.4, 1.6, 1.75, 15.16, 15.17, 2.0</em>
+* `Card` (3094; 97% of non-empty `NumType`): <em>one, two, 1, 2, three, 3, four, 6, 4, 10</em>
+* `Frac` (81; 3% of non-empty `NumType`): <em>1.5, 2.3, half, 1.3, 1.4, 1.6, 1.75, 15.16, 15.17, 2.0</em>
 
 `NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (588) occur only with one value of `NumType`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (368; 100% of non-empty `NumType`): <em>first, second, third, 19th, fourth, 20th, fifth, 30th, 10th, 17th</em>
-* `EMPTY` (10632): <em>other, many, new, good, little, different, last, more, such, own</em>
+* `EMPTY` (10648): <em>other, many, new, good, little, different, last, more, such, own</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (60) occur only with one value of `NumType`.
 
@@ -51,7 +51,7 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 * `Frac` (2; 2% of non-empty `NumType`): <em>half</em>
 * `Mult` (35; 33% of non-empty `NumType`): <em>once, twice</em>
 * `Ord` (70; 65% of non-empty `NumType`): <em>first, second, 135th, third, 15th, sixth</em>
-* `EMPTY` (7123): <em>so, just, also, then, now, more, how, very, here, there</em>
+* `EMPTY` (7401): <em>so, when, just, also, then, now, more, very, here, there</em>
 
 ### `NOUN`
 
@@ -62,7 +62,7 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 `NOUN` tokens may have the following values of `NumType`:
 
 * `Frac` (44; 100% of non-empty `NumType`): <em>half, quarter, third, millionth, quarters, tenth, thirds</em>
-* `EMPTY` (28576): <em>people, time, city, day, years, way, world, year, life, today</em>
+* `EMPTY` (28359): <em>people, time, city, day, years, way, world, year, life, today</em>
 
 ### `DET`
 
@@ -73,7 +73,7 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 `DET` tokens may have the following values of `NumType`:
 
 * `Frac` (7; 100% of non-empty `NumType`): <em>half</em>
-* `EMPTY` (13607): <em>the, a, this, an, all, some, these, that, no, any</em>
+* `EMPTY` (13610): <em>the, a, this, an, all, some, these, that, no, any</em>
 
 ### `PROPN`
 
@@ -84,7 +84,7 @@ The most frequent other feature values with which `PROPN` and `NumType` co-occur
 `PROPN` tokens may have the following values of `NumType`:
 
 * `Card` (2; 100% of non-empty `NumType`): <em>EIGHT, One</em>
-* `EMPTY` (10406): <em>States, New, University, York, President, Scientology, north, America, figure, Warhol</em>
+* `EMPTY` (10401): <em>States, New, University, York, President, Scientology, north, America, figure, Warhol</em>
 
 ## Relations with Agreement in `NumType`
 

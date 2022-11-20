@@ -22,7 +22,7 @@ The following 20 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 2 cc	color:blue
-1	@user	@user	SYM	SYM	_	6	vocative:mention	_	_
+1	@user	@user	SYM	SYM	_	6	vocative	_	_
 2	ma	ma	CCONJ	CC	_	6	cc	_	_
 3	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
 4	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	aux	_	_
@@ -51,7 +51,7 @@ The following 20 pairs of parts of speech are connected with `cc`: <tt><a href="
 6	e	e	CCONJ	CC	_	8	cc	_	_
 7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	democrazia	democrazia	NOUN	S	Gender=Fem|Number=Sing	1	conj	_	_
-9	http://t.co/mwe3kJAe	http://t.co/mwe3kJAe	SYM	X	_	1	dep	_	_
+9	http://t.co/mwe3kJAe	http://t.co/mwe3kJAe	SYM	X	_	1	parataxis	_	_
 
 ~~~
 
@@ -62,7 +62,7 @@ The following 20 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 2 cc	color:blue
-1	@user	@user	SYM	SYM	_	6	vocative:mention	_	_
+1	@user	@user	SYM	SYM	_	6	vocative	_	_
 2	ma	ma	CCONJ	CC	_	6	cc	_	_
 3	per	per	ADP	E	_	4	case	_	_
 4	lui	lui	PRON	PE	Number=Sing|Person=3|PronType=Prs	6	obl	_	_

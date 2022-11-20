@@ -30,9 +30,11 @@ This is an overview only. For a more detailed discussion and examples, see the l
 	* The strong types of possessive pronouns (_moj, tvoj, tógav, tójin, naš, vaš, tǽhan_) and all other pronouns are assigned the PoS tag [DET](pos/DET.md).
 	* The adjective _adín/edín/idín_ is assigned the PoS tag [DET](pos/DET.md) when it is used as an indefinite article.
 
-* Pomak has only one auxiliary verb ([AUX](pos/AUX_.md)), _som_ (“to be”), but lemmas such as _býdom_ are also possible.
-* Τhe auxiliary verb šom / štom (δυνητικό θα) is assigned the PoS tag [AUX](pos/AUX_.md).
-* Auxiliary particles _še / ša_ ("will, shall") and _da_ ("to") are assigned the PoS tag [AUX](pos/AUX_.md).
+* The PoS tag [AUX](pos/AUX_.md) is assigned to the following lemmas (and their clitic paradigms, where it applies): 
+ 	* _som_ "to be" -but lemmas such as _býdom_ are also possible-
+	* _šom_ / _štom_ (it expresses possibility, very similartly to the Greek _θα_)  
+	*  _še / ša_ "will, shall", _da_ "to" 
+	
 * Modal verbs are assigned the PoS tag [VERB](pos/VERB.md).
 * The  PoS tag [ADJ](pos/ADJ.md) is assigned to adjectives, ordinal numerals, adjectives derived from family names and ethnonyms.
 * The  PoS tag  [VERB](pos/VERB.md) is assigned to personal and impersonal verbs, participles, infinitives and converbs.
@@ -47,11 +49,11 @@ This is an overview only. For a more detailed discussion and examples, see the l
 
 * Common nouns ([NOUN](pos/NOUN.md)) and proper nouns ([PROPN](pos/PROPN.md)) have inherent gender ([Gender](feat/Gender.md)) that receives one of the following values: `Masc`, `Fem` ή `Neut`.
 * [Animacy](feat/Animacy.md) is a grammatical feature of pronouns, adjectives, participles and some of the numerals. The opposition  `Human vs. Non-human` is overt with  masculine plural and rarely  with masculine singular.
-*  [ADJ](pos/ADJ.md), [DET](pos/DET.md), [NUM](pos/NUM.md), the participles that are assigned the PoS tag [VERB](pos/VERB.md) και [PRON](pos/PRON.md) inflect for [Case](feat/Case.md), gender [Gender](feat/Gender.md) and number [Number](feat/Number.md) and agree with the nouns that they modify.
+*  [ADJ](pos/ADJ.md), [DET](pos/DET.md), [NUM](pos/NUM.md), the participles that are assigned the PoS tag [VERB](pos/VERB.md) and [PRON](pos/PRON.md) inflect for [Case](feat/Case.md), gender [Gender](feat/Gender.md) and number [Number](feat/Number.md) and agree with the nouns that they modify.
 	* <b><u>Note</u></b>: Certain adjectives (of turkish origins mainly) do not inflect.
 * Pomak has four cases: Nominative, Genitive, Accusative and Vocative.
 * Pomak nouns, adjectives, certain numerals, passive participles and the strong types of pronouns may be marked for the feature [Definite](feat/Definite.md).  When an article is attached to them they are assigned the value `Def` else the value `Ind`.
-* Pomak has a triple enclitic definite artile (-s, -t, -n) that occurs with nouns, adjectives, pronouns and passive participles.  Για τη σήμανση του χρησιμοποιούνται τα features [Deixis](feat/Deixis.md) και [DeixisRef](feat/DeixisRef.md) ως εξής:
+* Pomak has a triple enclitic definite artile (-s, -t, -n) that occurs with nouns, adjectives, pronouns and passive participles and denotes deixis and definiteness.  The features [Deixis](feat/Deixis.md) and [DeixisRef](feat/DeixisRef.md) are used to tag deixis as follows:
 	* Proximity to the speaker is denoted with the values  `Prox` and `1` respectively (e.g., _čulǽk<u>os</u>, žaná<u>sa</u>, déte<u>so</u>_).
 	* Proximity to the listener is denoted with the values  `Prox` and `2` respectively (e.g., _čulǽk<u>ot</u>, žaná<u>ta</u>, déte<u>to</u>_).
 	* Distance from both the speaker and the listener is denoted with the value `Remt` (e.g., _čulǽk<u>on</u>, žaná<u>na</u>, déte<u>no</u>_).
@@ -76,7 +78,7 @@ This is an overview only. For a more detailed discussion and examples, see the l
 * [PronType](feat/PronType.md) is used with pronouns ([PRON](pos/PRON.md)), determiners ([DET](pos/DET.md)) and adverbs ([ADV](pos/ADV.md)).
 * [NumType](feat/NumType.md) is used with numerals ([NUM](pos/NUM.md)), adjectives ([ADJ](pos/ADJ.md)).
 * The [Poss](feat/Poss.md) feature marks possessive personal determiners (e.g. _moj_ “my”), possessive interrogative (indefinite or negative) determiners (e.g., _číjje_ “whose”), possessive relative determiners (e.g., _číjjeso, číjjeto, číjjeno_ “whose”) and possessive adjectives (e.g., _májčin_ “mother's”).
-	* <b><u>Note</u></b>: Indefinite, negative and universal pronouns  (e.g., _ní kutrí_ "no one") and indefinite, negative and universal adjectives (e.g., _ní kadé_ "no where") are formed with the particles `nǽ / nó, ní, sǽ` and the corresponding interogative pronoun. The particles precede the pronouns and retain both their word status and the feature `PronType=Int`.
+	* <b><u>Note</u></b>: Indefinite, negative and universal pronouns  (e.g., _ní kutrí_ "no one") and indefinite, negative and universal adverbs (e.g., _ní kadé_ "no where") are formed with the particles `nǽ / nó, ní, sǽ` and the corresponding interogative pronoun. The particles precede the pronouns and retain both their word status and the feature `PronType=Int`.
 * The [Reflex](feat/Reflex.md) feature is assigned to reflexive pronouns _`sá, sé, só`_ and possesive clitic pronoun _`sí`_.
 * [Person](feat/Person.md) is a lexical feature of personal pronouns ([PRON](pos/PRON.md)) and personal determiners ([DET](pos/DET.md)) and has three values: `1`, `2` and `3`.
 * There is one [layered feature](../../u/overview/feat-layers.md), namely [Number[psor]](feat/Number-psor.md).
@@ -87,11 +89,11 @@ This is an overview only. For a more detailed discussion and examples, see the l
 
 * Language-specific features of Pomak:
 
-  * Diminutive and augmentative forms of nouns, adjectives, adverbs and certain passive participles are assigned the feature [qpm-DegreeMod](feat/qpm-DegreeMod.md) and onee of the values `Dim` ή `Mag` respectively.
+  * Diminutive and augmentative forms of nouns, adjectives, adverbs and certain passive participles are assigned the feature [qpm-DegreeMod](feat/qpm-DegreeMod.md) and one of the values `Dim` ή `Mag` respectively.
 
   * Τhe feature [Variant](feat/Variant.md) with the value `Short` is assigned to the weak types of personal and possessive pronouns to set them apart from their corresponding strong types.  
 
-  * Τhe particles `nǽ` / `nó`, `ní`, `sǽ`, which are used to form the indefinite, negative and universal pronouns and adverbs, are assigned the PoS tag  [PART](pos/PART.md) and the feature [qpm-PartType](feat/qpm-PartType.md) with one of the following values `Ind`, `Neg` ή `Tot` respectively.
+  * Τhe particles `nǽ` / `nó`, `ní`, `sǽ`, which are used to form the indefinite, negative and universal pronouns and adverbs, are assigned the PoS tag  [PART](pos/PART.md) and the feature [qpm-PartType](feat/qpm-PartType.md) with one of the following values `Ind`, `Neg` or `Tot` respectively.
 
 ## Syntax
 
@@ -114,4 +116,4 @@ is estimated to be uploaded at the end of 2022.
 
 There is 1 Pomak UD treebank:
 
-  * [Pomak-Philotis](index.md)
+  * [Pomak-Philotis](../treebanks/qpm/index.md)

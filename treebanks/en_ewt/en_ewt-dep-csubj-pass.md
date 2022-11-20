@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_English-EWT: Relations: `csubj:pass`
 
 This relation is a language-specific subtype of <tt><a href="en_ewt-dep-csubj.html">csubj</a></tt>.
+There are also 1 other language-specific subtypes of `csubj`: <tt><a href="en_ewt-dep-csubj-outer.html">csubj:outer</a></tt>.
 
-7 nodes (0%) are attached to their parents as `csubj:pass`.
+8 nodes (0%) are attached to their parents as `csubj:pass`.
 
-4 instances of `csubj:pass` (57%) are left-to-right (parent precedes child).
-Average distance between parent and child is 10.2857142857143.
+5 instances of `csubj:pass` (63%) are left-to-right (parent precedes child).
+Average distance between parent and child is 9.75.
 
-The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (6; 86% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (1; 14% instances).
+The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (7; 88% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (1; 13% instances).
 
 
 ~~~ conllu
@@ -44,7 +45,7 @@ The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 20	as	as	ADP	IN	_	21	case	21:case	_
 21	part	part	NOUN	NN	Number=Sing	18	obl	18:obl:as	_
 22	of	of	ADP	IN	_	25	case	25:case	_
-23	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	25	nmod:poss	25:nmod:poss	_
+23	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	25	nmod:poss	25:nmod:poss	_
 24	professional	professional	ADJ	JJ	Degree=Pos	25	amod	25:amod	_
 25	life	life	NOUN	NN	Number=Sing	21	nmod	21:nmod:of	SpaceAfter=No
 26	.	.	PUNCT	.	_	4	punct	4:punct	_
@@ -76,7 +77,7 @@ The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 16	,	,	PUNCT	,	_	14	punct	14:punct	_
 17	because	because	ADP	IN	_	21	case	21:case	_
 18	of	of	ADP	IN	_	17	fixed	17:fixed	_
-19	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	21	nmod:poss	21:nmod:poss	_
+19	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	21	nmod:poss	21:nmod:poss	_
 20	solid	solid	ADJ	JJ	Degree=Pos	21	amod	21:amod	_
 21	strategies	strategy	NOUN	NNS	Number=Plur	14	obl	14:obl:because_of	_
 22	and	and	CCONJ	CC	_	32	cc	32:cc	_

@@ -75,7 +75,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Ind` (2; 1% of non-empty `PronType`): <em>tutti</em>
 * `Neg` (299; 99% of non-empty `PronType`): <em>non, nn, neanche, no, Mica, nemmeno, neppure</em>
 * `Prs` (1; 0% of non-empty `PronType`): <em>proprio</em>
-* `EMPTY` (1107): <em>anche, più, ora, solo, poi, ancora, così, bene, già, come</em>
+* `EMPTY` (1108): <em>anche, più, ora, solo, poi, ancora, così, bene, già, come</em>
 
 ## Relations with Agreement in `PronType`
 

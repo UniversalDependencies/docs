@@ -156,7 +156,7 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 * `Fem` (2; 29% of non-empty `Gender`): <em>Sameindu, nevndar</em>
 * `Masc` (4; 57% of non-empty `Gender`): <em>flettir, kendastur, keyptir, prentaðir</em>
 * `Neut` (1; 14% of non-empty `Gender`): <em>samlaða</em>
-* `EMPTY` (554): <em>býr, hevur, liggur, Sí, kom, eru, fer, fór, er, stendur</em>
+* `EMPTY` (566): <em>býr, hevur, kom, liggur, Sí, eru, fer, varð, fór, er</em>
 
 ### `ADV`
 
@@ -166,7 +166,7 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 
 * `Masc` (1; 25% of non-empty `Gender`): <em>vanliga</em>
 * `Neut` (3; 75% of non-empty `Gender`): <em>størsta, vanliga, veldiga</em>
-* `EMPTY` (411): <em>eisini, ikki, har, nú, so, enn, tó, tá, fyrr, ofta</em>
+* `EMPTY` (422): <em>eisini, ikki, har, nú, so, enn, tó, tá, fyrr, ofta</em>
 
 <table>
   <tr><th>Paradigm <i>vanligur</i></th><th><tt>Masc</tt></th><th><tt>Neut</tt></th></tr>
@@ -177,13 +177,13 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="fo_oft-dep-amod.html">amod</a></tt>]--> ADJ</tt> (558; 92%),
-<tt>NOUN --[<tt><a href="fo_oft-dep-det.html">det</a></tt>]--> DET</tt> (178; 98%),
+<tt>NOUN --[<tt><a href="fo_oft-dep-det.html">det</a></tt>]--> DET</tt> (180; 98%),
 <tt>NOUN --[<tt><a href="fo_oft-dep-conj.html">conj</a></tt>]--> NOUN</tt> (86; 57%),
-<tt>ADJ --[<tt><a href="fo_oft-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (65; 86%),
-<tt>NOUN --[<tt><a href="fo_oft-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (50; 53%),
+<tt>ADJ --[<tt><a href="fo_oft-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (64; 85%),
+<tt>NOUN --[<tt><a href="fo_oft-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (50; 56%),
 <tt>NOUN --[<tt><a href="fo_oft-dep-parataxis.html">parataxis</a></tt>]--> NOUN</tt> (23; 51%),
 <tt>ADJ --[<tt><a href="fo_oft-dep-conj.html">conj</a></tt>]--> ADJ</tt> (20; 91%),
-<tt>ADJ --[<tt><a href="fo_oft-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (13; 100%),
-<tt>NOUN --[<tt><a href="fo_oft-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (6; 55%),
-<tt>ADJ --[<tt><a href="fo_oft-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (4; 80%).
+<tt>ADJ --[<tt><a href="fo_oft-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (12; 100%),
+<tt>ADJ --[<tt><a href="fo_oft-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (4; 80%),
+<tt>ADJ --[<tt><a href="fo_oft-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (4; 67%).
 

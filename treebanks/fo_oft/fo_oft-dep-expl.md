@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-18 nodes (0%) are attached to their parents as `expl`.
+19 nodes (0%) are attached to their parents as `expl`.
 
-18 instances of `expl` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.5.
+19 instances of `expl` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.57894736842105.
 
-The following 4 pairs of parts of speech are connected with `expl`: <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_oft-pos-PRON.html">PRON</a></tt> (11; 61% instances), <tt><a href="fo_oft-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fo_oft-pos-PRON.html">PRON</a></tt> (3; 17% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt>-<tt><a href="fo_oft-pos-PRON.html">PRON</a></tt> (3; 17% instances), <tt><a href="fo_oft-pos-ADV.html">ADV</a></tt>-<tt><a href="fo_oft-pos-PRON.html">PRON</a></tt> (1; 6% instances).
+The following 4 pairs of parts of speech are connected with `expl`: <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_oft-pos-PRON.html">PRON</a></tt> (12; 63% instances), <tt><a href="fo_oft-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fo_oft-pos-PRON.html">PRON</a></tt> (3; 16% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt>-<tt><a href="fo_oft-pos-PRON.html">PRON</a></tt> (3; 16% instances), <tt><a href="fo_oft-pos-ADV.html">ADV</a></tt>-<tt><a href="fo_oft-pos-PRON.html">PRON</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -28,7 +28,7 @@ The following 4 pairs of parts of speech are connected with `expl`: <tt><a href=
 4	býir	býur	NOUN	N	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	9	nsubj	_	_
 5	og	og	CCONJ	CC	_	6	cc	_	_
 6	bygdir	bygd	NOUN	N	Case=Nom|Definite=Ind|Gender=Fem|Number=Plur	4	conj	_	_
-7	í	í	ADP	Pr	_	8	case	_	_
+7	í	í	ADP	Pr	_	9	case	_	_
 8	Hultsfreds	Hultsfred	PROPN	N	Case=Gen|Number=Sing	9	nmod:poss	_	_
 9	kommunu	kommuna	NOUN	N	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 10	.	.	PUNCT	CLB	_	9	punct	_	_

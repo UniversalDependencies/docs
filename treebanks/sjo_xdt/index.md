@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.9 release.
 The following people have contributed to making this treebank part of UD: He Zhou, Juyeon Chung, Elena Klyachko, Francis Tyers, Sandra Kübler.
 
 Repository: [UD_Xibe-XDT](https://github.com/UniversalDependencies/UD_Xibe-XDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsjo_xdt210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsjo_xdt211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -86,7 +86,7 @@ year={2020}
 
 
 <ul>
-<li>This corpus contains 810 sentences, 15282 tokens and 15401 syntactic words.</li>
+<li>This corpus contains 810 sentences and 15401 tokens.</li>
 </ul>
 
 <ul>
@@ -102,8 +102,6 @@ year={2020}
 </ul>
 
 <ul>
-<li>This corpus contains 88 multi-word tokens. On average, one multi-word token consists of 2.35 syntactic words.</li>
-<li>There are 35 types of multi-word tokens. Examples: ᠸᡝᡞ, ᠴᡞ, ᠪᠣ, ᡞᠣ, ᠴᠠᡢ, ᡨᠠᡞ, ᠯᠠ, ᡤᡠᡢ, ᠠᡞ, ᡥᡝ, ᡨᡞᠶᠣᠣ, ᡩᡞᠶᠠᠨ, ᡪᡠᡢ, ᠠᠪᡣᠠᡞ, ᠪᠠᠷᡥᠠ, ᠪᠠᡞ, ᠪᠣᠣ, ᠪᡝᠶᡝ, ᠪᡞᠶᠠᠨ, ᠯᡝᠣᠯᡝᠨ, ᠰᠠᡥᠠᠯᡞᠶᠠᠨ, ᠴᠣᡥᠣᠷ, ᠶᠠᠨ, ᡤᡠᠸᠠᡢ, ᡥᠣ, ᡦᠣᠣ, ᡧᡝᠣ, ᡨᠠᠴᡞᠨ, ᡩᠠ, ᡩᠠᡢ, ᡪᡞᠨ, ᡪᡞᡢ, ᡪᡠᡢᡤᡠᡢ, ᡫᠠᠯᡤᠠ, ᡬᠣ.</li>
 </ul>
 
 <h2>Morphology</h2>

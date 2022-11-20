@@ -61,5 +61,5 @@ The most frequent other feature values with which `PRON` and `Person[psor]` co-o
 ## Relations with Agreement in `Person[psor]`
 
 The 10 most frequent relations where parent and child node agree in `Person[psor]`:
-<tt>DET --[<tt><a href="fr_rhapsodie-dep-reparandum.html">reparandum</a></tt>]--> DET</tt> (10; 77%).
+<tt>DET --[<tt><a href="fr_rhapsodie-dep-reparandum.html">reparandum</a></tt>]--> DET</tt> (10; 71%).
 

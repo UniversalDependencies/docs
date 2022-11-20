@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="tt_nmctt-dep-compound.html">compound</a></tt>.
 
-21 nodes (1%) are attached to their parents as `compound:lvc`.
+36 nodes (2%) are attached to their parents as `compound:lvc`.
 
-21 instances of `compound:lvc` (100%) are right-to-left (child precedes parent).
+36 instances of `compound:lvc` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.
 
-The following 2 pairs of parts of speech are connected with `compound:lvc`: <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (20; 95% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-ADV.html">ADV</a></tt> (1; 5% instances).
+The following 2 pairs of parts of speech are connected with `compound:lvc`: <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt> (35; 97% instances), <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-ADV.html">ADV</a></tt> (1; 3% instances).
 
 
 ~~~ conllu

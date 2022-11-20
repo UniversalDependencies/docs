@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_English-Atis: POS Tags: `AUX`
 
-There are 8 `AUX` lemmas (1%), 20 `AUX` types (2%) and 2254 `AUX` tokens (4%).
+There are 9 `AUX` lemmas (1%), 20 `AUX` types (2%) and 2254 `AUX` tokens (4%).
 Out of 14 observed tags, the rank of `AUX` is: 10 in number of lemmas, 9 in number of types and 7 in number of tokens.
 
-The 10 most frequent `AUX` lemmas: <em>be, will, do, can, may, should, have, must</em>
+The 10 most frequent `AUX` lemmas: <em>be, will, do, would, can, may, should, have, must</em>
 
 The 10 most frequent `AUX` types:  <em>is, are, would, 'd, does, can, do, 's, could, 'm</em>
 
-The 10 most frequent ambiguous lemmas: <em>be</em> (<tt><a href="en_atis-pos-AUX.html">AUX</a></tt> 1161, <tt><a href="en_atis-pos-VERB.html">VERB</a></tt> 208, <tt><a href="en_atis-pos-PART.html">PART</a></tt> 15, <tt><a href="en_atis-pos-PRON.html">PRON</a></tt> 5), <em>do</em> (<tt><a href="en_atis-pos-AUX.html">AUX</a></tt> 309, <tt><a href="en_atis-pos-VERB.html">VERB</a></tt> 5), <em>may</em> (<tt><a href="en_atis-pos-PROPN.html">PROPN</a></tt> 39, <tt><a href="en_atis-pos-AUX.html">AUX</a></tt> 14), <em>have</em> (<tt><a href="en_atis-pos-VERB.html">VERB</a></tt> 216, <tt><a href="en_atis-pos-AUX.html">AUX</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>be</em> (<tt><a href="en_atis-pos-AUX.html">AUX</a></tt> 1161, <tt><a href="en_atis-pos-VERB.html">VERB</a></tt> 208, <tt><a href="en_atis-pos-PART.html">PART</a></tt> 15, <tt><a href="en_atis-pos-PRON.html">PRON</a></tt> 5), <em>do</em> (<tt><a href="en_atis-pos-AUX.html">AUX</a></tt> 309, <tt><a href="en_atis-pos-VERB.html">VERB</a></tt> 5), <em>have</em> (<tt><a href="en_atis-pos-VERB.html">VERB</a></tt> 216, <tt><a href="en_atis-pos-AUX.html">AUX</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>is</em> (<tt><a href="en_atis-pos-AUX.html">AUX</a></tt> 606, <tt><a href="en_atis-pos-VERB.html">VERB</a></tt> 93), <em>are</em> (<tt><a href="en_atis-pos-AUX.html">AUX</a></tt> 379, <tt><a href="en_atis-pos-VERB.html">VERB</a></tt> 111), <em>do</em> (<tt><a href="en_atis-pos-AUX.html">AUX</a></tt> 93, <tt><a href="en_atis-pos-VERB.html">VERB</a></tt> 5), <em>'s</em> (<tt><a href="en_atis-pos-AUX.html">AUX</a></tt> 91, <tt><a href="en_atis-pos-PART.html">PART</a></tt> 15, <tt><a href="en_atis-pos-PRON.html">PRON</a></tt> 5), <em>be</em> (<tt><a href="en_atis-pos-AUX.html">AUX</a></tt> 22, <tt><a href="en_atis-pos-VERB.html">VERB</a></tt> 5), <em>may</em> (<tt><a href="en_atis-pos-PROPN.html">PROPN</a></tt> 39, <tt><a href="en_atis-pos-AUX.html">AUX</a></tt> 14), <em>am</em> (<tt><a href="en_atis-pos-NOUN.html">NOUN</a></tt> 133, <tt><a href="en_atis-pos-AUX.html">AUX</a></tt> 8)
+The 10 most frequent ambiguous types:  <em>is</em> (<tt><a href="en_atis-pos-AUX.html">AUX</a></tt> 606, <tt><a href="en_atis-pos-VERB.html">VERB</a></tt> 93), <em>are</em> (<tt><a href="en_atis-pos-AUX.html">AUX</a></tt> 379, <tt><a href="en_atis-pos-VERB.html">VERB</a></tt> 111), <em>do</em> (<tt><a href="en_atis-pos-AUX.html">AUX</a></tt> 93, <tt><a href="en_atis-pos-VERB.html">VERB</a></tt> 5), <em>'s</em> (<tt><a href="en_atis-pos-AUX.html">AUX</a></tt> 91, <tt><a href="en_atis-pos-PART.html">PART</a></tt> 15, <tt><a href="en_atis-pos-PRON.html">PRON</a></tt> 5), <em>be</em> (<tt><a href="en_atis-pos-AUX.html">AUX</a></tt> 22, <tt><a href="en_atis-pos-VERB.html">VERB</a></tt> 5), <em>may</em> (<tt><a href="en_atis-pos-NOUN.html">NOUN</a></tt> 39, <tt><a href="en_atis-pos-AUX.html">AUX</a></tt> 14), <em>am</em> (<tt><a href="en_atis-pos-NOUN.html">NOUN</a></tt> 133, <tt><a href="en_atis-pos-AUX.html">AUX</a></tt> 8)
 
 
 * <em>is</em>
@@ -35,7 +35,7 @@ The 10 most frequent ambiguous types:  <em>is</em> (<tt><a href="en_atis-pos-AUX
   * <tt><a href="en_atis-pos-AUX.html">AUX</a></tt> 22: <em>what would <b>be</b> cost of a round trip from pittsburgh to san francisco</em>
   * <tt><a href="en_atis-pos-VERB.html">VERB</a></tt> 5: <em>i want to travel from kansas city to st. paul and <b>be</b> there by dinnertime</em>
 * <em>may</em>
-  * <tt><a href="en_atis-pos-PROPN.html">PROPN</a></tt> 39: <em>what are the flights from las vegas to burbank on saturday <b>may</b> twenty two</em>
+  * <tt><a href="en_atis-pos-NOUN.html">NOUN</a></tt> 39: <em>what are the flights from las vegas to burbank on saturday <b>may</b> twenty two</em>
   * <tt><a href="en_atis-pos-AUX.html">AUX</a></tt> 14: <em><b>may</b> i see all nonstop flights from st. petersburg to charlotte</em>
 * <em>am</em>
   * <tt><a href="en_atis-pos-NOUN.html">NOUN</a></tt> 133: <em>flights from pittsburgh to baltimore between 10 <b>am</b> and 2 pm</em>
@@ -43,11 +43,11 @@ The 10 most frequent ambiguous types:  <em>is</em> (<tt><a href="en_atis-pos-AUX
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 2.500000 (the average of all parts of speech is 1.150056).
+The form / lemma ratio of `AUX` is 2.222222 (the average of all parts of speech is 1.143493).
 
 The 1st highest number of forms (8) was observed with the lemma “be”: <em>'m, 're, 's, am, are, be, being, is</em>.
 
-The 2nd highest number of forms (4) was observed with the lemma “will”: <em>'d, 'll, will, would</em>.
+The 2nd highest number of forms (3) was observed with the lemma “will”: <em>'ll, will, would</em>.
 
 The 3rd highest number of forms (2) was observed with the lemma “can”: <em>can, could</em>.
 
@@ -78,5 +78,5 @@ The highest child degree of a `AUX` node is 6.
 
 Children of `AUX` nodes are attached using 12 different relations: <tt><a href="en_atis-dep-nsubj.html">nsubj</a></tt> (37; 42% instances), <tt><a href="en_atis-dep-expl.html">expl</a></tt> (30; 34% instances), <tt><a href="en_atis-dep-obl.html">obl</a></tt> (8; 9% instances), <tt><a href="en_atis-dep-advmod.html">advmod</a></tt> (4; 4% instances), <tt><a href="en_atis-dep-mark.html">mark</a></tt> (2; 2% instances), <tt><a href="en_atis-dep-obl-tmod.html">obl:tmod</a></tt> (2; 2% instances), <tt><a href="en_atis-dep-advcl.html">advcl</a></tt> (1; 1% instances), <tt><a href="en_atis-dep-case.html">case</a></tt> (1; 1% instances), <tt><a href="en_atis-dep-conj.html">conj</a></tt> (1; 1% instances), <tt><a href="en_atis-dep-nmod-tmod.html">nmod:tmod</a></tt> (1; 1% instances), <tt><a href="en_atis-dep-parataxis.html">parataxis</a></tt> (1; 1% instances), <tt><a href="en_atis-dep-xcomp.html">xcomp</a></tt> (1; 1% instances)
 
-Children of `AUX` nodes belong to 8 different parts of speech: <tt><a href="en_atis-pos-NOUN.html">NOUN</a></tt> (38; 43% instances), <tt><a href="en_atis-pos-PRON.html">PRON</a></tt> (32; 36% instances), <tt><a href="en_atis-pos-PROPN.html">PROPN</a></tt> (8; 9% instances), <tt><a href="en_atis-pos-ADV.html">ADV</a></tt> (3; 3% instances), <tt><a href="en_atis-pos-VERB.html">VERB</a></tt> (3; 3% instances), <tt><a href="en_atis-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="en_atis-pos-ADP.html">ADP</a></tt> (2; 2% instances), <tt><a href="en_atis-pos-PART.html">PART</a></tt> (1; 1% instances)
+Children of `AUX` nodes belong to 8 different parts of speech: <tt><a href="en_atis-pos-NOUN.html">NOUN</a></tt> (39; 44% instances), <tt><a href="en_atis-pos-PRON.html">PRON</a></tt> (32; 36% instances), <tt><a href="en_atis-pos-PROPN.html">PROPN</a></tt> (7; 8% instances), <tt><a href="en_atis-pos-ADV.html">ADV</a></tt> (3; 3% instances), <tt><a href="en_atis-pos-VERB.html">VERB</a></tt> (3; 3% instances), <tt><a href="en_atis-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="en_atis-pos-ADP.html">ADP</a></tt> (2; 2% instances), <tt><a href="en_atis-pos-PART.html">PART</a></tt> (1; 1% instances)
 

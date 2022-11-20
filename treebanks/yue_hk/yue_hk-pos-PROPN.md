@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Cantonese-HK: POS Tags: `PROPN`
 
-There are 66 `PROPN` lemmas (6%), 82 `PROPN` types (5%) and 167 `PROPN` tokens (1%).
+There are 82 `PROPN` lemmas (5%), 82 `PROPN` types (5%) and 167 `PROPN` tokens (1%).
 Out of 15 observed tags, the rank of `PROPN` is: 5 in number of lemmas, 5 in number of types and 13 in number of tokens.
 
-The 10 most frequent `PROPN` lemmas: _、 廟街、 香港、 Eason、 豪仔、 陳奕迅、 Yes!、 九零三、 龍珠、 千嬅
+The 10 most frequent `PROPN` lemmas: 梁君彥、 香港、 廟街、 Eason、 毛孟靜、 豪仔、 陳奕迅、 Yes!、 九零三、 英國
 
 The 10 most frequent `PROPN` types:  梁君彥、 香港、 廟街、 Eason、 毛孟靜、 豪仔、 陳奕迅、 Yes!、 九零三、 英國
 
-The 10 most frequent ambiguous lemmas: _ (<tt><a href="yue_hk-pos-PUNCT.html">PUNCT</a></tt> 1377, <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 1352, <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> 1283, <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> 853, <tt><a href="yue_hk-pos-PART.html">PART</a></tt> 764, <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> 662, <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> 335, <tt><a href="yue_hk-pos-DET.html">DET</a></tt> 217, <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> 209, <tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> 140, <tt><a href="yue_hk-pos-NUM.html">NUM</a></tt> 124, <tt><a href="yue_hk-pos-SCONJ.html">SCONJ</a></tt> 101, <tt><a href="yue_hk-pos-CCONJ.html">CCONJ</a></tt> 93, <tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> 92, <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> 52), 多多 (<tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> 1)
+The 10 most frequent ambiguous lemmas: 多多 (<tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> 1), 明 (<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> 2), 七十一 (<tt><a href="yue_hk-pos-NUM.html">NUM</a></tt> 1, <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> 1)
 
 The 10 most frequent ambiguous types:  多多 (<tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> 1), 明 (<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> 2), 七十一 (<tt><a href="yue_hk-pos-NUM.html">NUM</a></tt> 1, <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> 1)
 
@@ -30,13 +30,13 @@ The 10 most frequent ambiguous types:  多多 (<tt><a href="yue_hk-pos-PROPN.htm
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.242424 (the average of all parts of speech is 1.624294).
+The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.001746).
 
-The 1st highest number of forms (19) was observed with the lemma “_”: 塗謹申, 姚松炎, 明, 李慧瓊, 梁, 梁君彥, 梁天琦, 梁美芬, 梁耀忠, 梁頌恆, 梁頌恒, 毛孟靜, 英國, 許智峰, 謝偉俊, 陳志全, 陳直, 陳維安, 香港.
+The 1st highest number of forms (1) was observed with the lemma “Beyond”: Beyond.
 
-The 2nd highest number of forms (1) was observed with the lemma “Beyond”: Beyond.
+The 2nd highest number of forms (1) was observed with the lemma “Eason”: Eason.
 
-The 3rd highest number of forms (1) was observed with the lemma “Eason”: Eason.
+The 3rd highest number of forms (1) was observed with the lemma “Philip”: Philip.
 
 `PROPN` does not occur with any features.
 
@@ -57,7 +57,7 @@ Parents of `PROPN` nodes belong to 8 different parts of speech: <tt><a href="yue
 
 The highest child degree of a `PROPN` node is 8.
 
-Children of `PROPN` nodes are attached using 24 different relations: <tt><a href="yue_hk-dep-punct.html">punct</a></tt> (73; 34% instances), <tt><a href="yue_hk-dep-flat.html">flat</a></tt> (25; 12% instances), <tt><a href="yue_hk-dep-case.html">case</a></tt> (16; 7% instances), <tt><a href="yue_hk-dep-advmod.html">advmod</a></tt> (12; 6% instances), <tt><a href="yue_hk-dep-discourse-sp.html">discourse:sp</a></tt> (12; 6% instances), <tt><a href="yue_hk-dep-conj.html">conj</a></tt> (11; 5% instances), <tt><a href="yue_hk-dep-cop.html">cop</a></tt> (10; 5% instances), <tt><a href="yue_hk-dep-det.html">det</a></tt> (9; 4% instances), <tt><a href="yue_hk-dep-compound.html">compound</a></tt> (8; 4% instances), <tt><a href="yue_hk-dep-nsubj.html">nsubj</a></tt> (8; 4% instances), <tt><a href="yue_hk-dep-cc.html">cc</a></tt> (6; 3% instances), <tt><a href="yue_hk-dep-discourse.html">discourse</a></tt> (6; 3% instances), <tt><a href="yue_hk-dep-reparandum.html">reparandum</a></tt> (5; 2% instances), <tt><a href="yue_hk-dep-acl.html">acl</a></tt> (3; 1% instances), <tt><a href="yue_hk-dep-case-loc.html">case:loc</a></tt> (3; 1% instances), <tt><a href="yue_hk-dep-amod.html">amod</a></tt> (2; 1% instances), <tt><a href="yue_hk-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="yue_hk-dep-aux.html">aux</a></tt> (1; 0% instances), <tt><a href="yue_hk-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="yue_hk-dep-csubj.html">csubj</a></tt> (1; 0% instances), <tt><a href="yue_hk-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="yue_hk-dep-obl.html">obl</a></tt> (1; 0% instances), <tt><a href="yue_hk-dep-obl-tmod.html">obl:tmod</a></tt> (1; 0% instances), <tt><a href="yue_hk-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
+Children of `PROPN` nodes are attached using 25 different relations: <tt><a href="yue_hk-dep-punct.html">punct</a></tt> (73; 34% instances), <tt><a href="yue_hk-dep-flat.html">flat</a></tt> (25; 12% instances), <tt><a href="yue_hk-dep-case.html">case</a></tt> (16; 7% instances), <tt><a href="yue_hk-dep-advmod.html">advmod</a></tt> (12; 6% instances), <tt><a href="yue_hk-dep-discourse-sp.html">discourse:sp</a></tt> (12; 6% instances), <tt><a href="yue_hk-dep-conj.html">conj</a></tt> (11; 5% instances), <tt><a href="yue_hk-dep-cop.html">cop</a></tt> (10; 5% instances), <tt><a href="yue_hk-dep-compound.html">compound</a></tt> (8; 4% instances), <tt><a href="yue_hk-dep-nsubj.html">nsubj</a></tt> (8; 4% instances), <tt><a href="yue_hk-dep-cc.html">cc</a></tt> (6; 3% instances), <tt><a href="yue_hk-dep-discourse.html">discourse</a></tt> (6; 3% instances), <tt><a href="yue_hk-dep-det.html">det</a></tt> (5; 2% instances), <tt><a href="yue_hk-dep-reparandum.html">reparandum</a></tt> (5; 2% instances), <tt><a href="yue_hk-dep-clf-det.html">clf:det</a></tt> (4; 2% instances), <tt><a href="yue_hk-dep-acl.html">acl</a></tt> (3; 1% instances), <tt><a href="yue_hk-dep-case-loc.html">case:loc</a></tt> (3; 1% instances), <tt><a href="yue_hk-dep-amod.html">amod</a></tt> (2; 1% instances), <tt><a href="yue_hk-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="yue_hk-dep-aux.html">aux</a></tt> (1; 0% instances), <tt><a href="yue_hk-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="yue_hk-dep-csubj.html">csubj</a></tt> (1; 0% instances), <tt><a href="yue_hk-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="yue_hk-dep-obl.html">obl</a></tt> (1; 0% instances), <tt><a href="yue_hk-dep-obl-tmod.html">obl:tmod</a></tt> (1; 0% instances), <tt><a href="yue_hk-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
 Children of `PROPN` nodes belong to 13 different parts of speech: <tt><a href="yue_hk-pos-PUNCT.html">PUNCT</a></tt> (73; 34% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (41; 19% instances), <tt><a href="yue_hk-pos-PART.html">PART</a></tt> (29; 13% instances), <tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> (12; 6% instances), <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> (12; 6% instances), <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> (11; 5% instances), <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> (10; 5% instances), <tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> (7; 3% instances), <tt><a href="yue_hk-pos-DET.html">DET</a></tt> (6; 3% instances), <tt><a href="yue_hk-pos-CCONJ.html">CCONJ</a></tt> (5; 2% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (5; 2% instances), <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> (4; 2% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (2; 1% instances)
 

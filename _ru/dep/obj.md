@@ -48,4 +48,4 @@ objects, one of them should be `obj` and the others should be
 [iobj](). In such cases it is necessary to decide what is the most
 directly affected object _(patient)._ The one exception is when there is a clausal complement: 
 then the clausal complement is regarded as a “clausal object” and an object nominal will be an iobj.
-<!-- Interlanguage links updated So kvě 14 19:03:59 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:37 CET 2022 -->

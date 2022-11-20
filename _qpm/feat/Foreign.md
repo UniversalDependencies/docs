@@ -20,4 +20,4 @@ This feature may occur with any POS tag. If the original part of speech is not k
 - *"Naj parátikane kanúna za da zǿme badín ajlýka, poj da prekára faf <b>vulíno</b> hükümétes, víka müdǘren ad <b>ergatikó</b> <b>kéntro</b> faf Ksánti.* "The state is about to pass at the parliament the worst pension law ever, said the chairman of the Working Center in Xanthi [lit: The worst law for people to get a pension is about to pass from the parliament by the state, said the chairman of the Working Center in Xanthi]"
 - *"Mlózi stári i samí insán čákot ad žǽhne rábatøt faf '<b>voítia</b> <b>sto</b> <b>spíti</b>' da mí stóret rábatyne faf kóštono, da gi atkárot na annók daktóra íli da mí kúpet lækovéne."* "Many eldery and lonely people wait for those who work for 'Help at Home' to make for them the works at the house, to take them to a doctor or to buy them the medication"  
 
-<!-- Interlanguage links updated So kvě 14 19:02:15 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:46 CET 2022 -->

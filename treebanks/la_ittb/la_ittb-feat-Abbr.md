@@ -23,7 +23,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (538; 100% of non-empty `Abbr`): <em>cor., ult., rom., metaph., philipp., hebr., physic., eccli., metaphys., ephes.</em>
-* `EMPTY` (28658): <em>diuina, impossibile, diuinae, diuinam, christi, prima, primum, humana, manifestum, necesse</em>
+* `EMPTY` (28066): <em>diuina, impossibile, diuinae, diuinam, christi, prima, primum, humana, manifestum, necesse</em>
 
 `Abbr` seems to be **lexical feature** of `ADJ`. 100% lemmas (20) occur only with one value of `Abbr`.
 
@@ -31,12 +31,12 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 
 404 <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (404; 100%), <tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=EMPTY</tt> (404; 100%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (404; 100%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (403; 100%).
+The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (404; 100%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (404; 100%), <tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=EMPTY</tt> (404; 100%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (404; 100%).
 
 `NOUN` tokens may have the following values of `Abbr`:
 
-* `Yes` (404; 100% of non-empty `Abbr`): <em>cap., gen., dist., sap., art., lib., trin., prouerb., act., nom.</em>
-* `EMPTY` (89913): <em>forma, esse, intellectus, formam, formae, materia, anima, potentia, homo, corpus</em>
+* `Yes` (404; 100% of non-empty `Abbr`): <em>cap., gen., dist., sap., lib., trin., prouerb., act., nom., apoc.</em>
+* `EMPTY` (89877): <em>forma, esse, intellectus, formam, formae, materia, anima, potentia, homo, corpus</em>
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (43) occur only with one value of `Abbr`.
 
@@ -44,7 +44,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 
 331 <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> tokens (6% of all `PROPN` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `PROPN` and `Abbr` co-occurred: <tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (331; 100%), <tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=EMPTY</tt> (331; 100%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (331; 100%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (330; 100%).
+The most frequent other feature values with which `PROPN` and `Abbr` co-occurred: <tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (331; 100%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (331; 100%), <tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=EMPTY</tt> (331; 100%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (331; 100%).
 
 `PROPN` tokens may have the following values of `Abbr`:
 
@@ -68,10 +68,12 @@ The most frequent other feature values with which `X` and `Abbr` co-occurred: <t
 
 2 <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Abbr`.
 
+The most frequent other feature values with which `ADV` and `Abbr` co-occurred: <tt><a href="la_ittb-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="la_ittb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (2; 100%).
+
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (2; 100% of non-empty `Abbr`): <em>iacob., met</em>
-* `EMPTY` (30940): <em>igitur, enim, etiam, unde, sic, ergo, et, tamen, ita, supra</em>
+* `EMPTY` (25746): <em>igitur, etiam, unde, sic, ergo, tamen, ita, supra, magis, solum</em>
 
 ### `VERB`
 
@@ -82,7 +84,7 @@ The most frequent other feature values with which `VERB` and `Abbr` co-occurred:
 `VERB` tokens may have the following values of `Abbr`:
 
 * `Yes` (2; 100% of non-empty `Abbr`): <em>antec., praeced.</em>
-* `EMPTY` (59822): <em>potest, oportet, dicitur, habet, ostensum, patet, dicit, uidetur, dicendum, fit</em>
+* `EMPTY` (59823): <em>potest, oportet, dicitur, habet, ostensum, patet, dicit, uidetur, dicendum, fit</em>
 
 ## Relations with Agreement in `Abbr`
 

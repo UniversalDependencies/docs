@@ -56,7 +56,7 @@ The following 9 pairs of parts of speech are connected with `list`: <tt><a href=
 9	:	:	PUNCT	:	_	8	punct	8:punct	_
 10	1	1	NUM	CD	NumForm=Digit|NumType=Card	1	list	1:list	Discourse=elaboration-additional:70->69:0|Entity=(109-abstract-giv:act-cf1-1,2,3-coref
 11	201	201	NUM	CD	NumForm=Digit|NumType=Card	10	flat	10:flat	_
-12	944-3737	944-3737	NUM	CD	NumForm=Word|NumType=Card	10	flat	10:flat	Entity=109)|SpaceAfter=No
+12	944-3737	944-3737	NUM	CD	NumForm=Digit|NumType=Card	10	flat	10:flat	Entity=109)|SpaceAfter=No
 13	.	.	PUNCT	.	_	1	punct	1:punct	_
 
 ~~~
@@ -87,7 +87,7 @@ The following 9 pairs of parts of speech are connected with `list`: <tt><a href=
 17	berths	berth	NOUN	NNS	Number=Plur	4	list	4:list	Entity=221)
 18	at	at	ADP	IN	_	20	case	20:case	SpaceAfter=No
 19	?	?	SYM	SYM	_	20	nummod	20:nummod	Entity=(222-abstract-new-cf9-2-sgl
-20	DKK	DKK	SYM	SYM	_	17	nmod	17:nmod:at	Entity=222)|SpaceAfter=No
+20	DKK	DKK	SYM	$	_	17	nmod	17:nmod:at	Entity=222)|SpaceAfter=No
 21	;	;	PUNCT	:	_	22	punct	22:punct	_
 22	Depth	depth	NOUN	NN	Number=Sing	25	nsubj	25:nsubj	Discourse=organization-preparation:150->151:0|Entity=(223-abstract-new-cf1-1-sgl)|SpaceAfter=No|XML=<w>
 23	:	:	PUNCT	:	_	22	punct	22:punct	SpaceAfter=No

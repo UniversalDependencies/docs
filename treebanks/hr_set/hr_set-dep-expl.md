@@ -43,7 +43,7 @@ The following 9 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 5	fgColor:white
 # visual-style 5 4 expl	color:blue
 1	Poslije	poslije	ADP	Sg	Case=Gen	2	case	_	_
-2	0:03	0:03	NUM	Mdm	NumType=Mult	5	nummod	_	_
+2	0:03	0:03	NUM	Mdm	NumType=Mult	5	obl	_	_
 3	bilo	biti	AUX	Vap-sn	Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	5	aux	_	_
 4	se	sebe	PRON	Px--sa	Case=Acc|PronType=Prs|Reflex=Yes	5	expl	_	_
 5	teško	teško	ADV	Rgp	Degree=Pos	0	root	_	_

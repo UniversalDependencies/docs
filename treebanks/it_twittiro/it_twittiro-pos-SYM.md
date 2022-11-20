@@ -58,7 +58,7 @@ The 10 most frequent ambiguous types:  <em>@user</em> (<tt><a href="it_twittiro-
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.274574).
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.274821).
 
 The 1st highest number of forms (1) was observed with the lemma “#1000giorni”: <em>#1000giorni</em>.
 

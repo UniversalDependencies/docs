@@ -11,9 +11,9 @@ This relation is universal.
 3456 nodes (9%) are attached to their parents as `root`.
 
 3456 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 9.86603009259259.
+Average distance between parent and child is 9.89554398148148.
 
-The following 14 pairs of parts of speech are connected with `root`: -<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (2878; 83% instances), -<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (378; 11% instances), -<tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> (154; 4% instances), -<tt><a href="ug_udt-pos-ADV.html">ADV</a></tt> (12; 0% instances), -<tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> (8; 0% instances), -<tt><a href="ug_udt-pos-AUX.html">AUX</a></tt> (6; 0% instances), -<tt><a href="ug_udt-pos-NUM.html">NUM</a></tt> (5; 0% instances), -<tt><a href="ug_udt-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), -<tt><a href="ug_udt-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), -<tt><a href="ug_udt-pos-X.html">X</a></tt> (3; 0% instances), -<tt><a href="ug_udt-pos-ADP.html">ADP</a></tt> (2; 0% instances), -<tt><a href="ug_udt-pos-DET.html">DET</a></tt> (2; 0% instances), -<tt><a href="ug_udt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), -<tt><a href="ug_udt-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `root`: -<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (2884; 83% instances), -<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (354; 10% instances), -<tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> (168; 5% instances), -<tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> (16; 0% instances), -<tt><a href="ug_udt-pos-ADV.html">ADV</a></tt> (11; 0% instances), -<tt><a href="ug_udt-pos-AUX.html">AUX</a></tt> (6; 0% instances), -<tt><a href="ug_udt-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), -<tt><a href="ug_udt-pos-NUM.html">NUM</a></tt> (3; 0% instances), -<tt><a href="ug_udt-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), -<tt><a href="ug_udt-pos-X.html">X</a></tt> (3; 0% instances), -<tt><a href="ug_udt-pos-DET.html">DET</a></tt> (2; 0% instances), -<tt><a href="ug_udt-pos-ADP.html">ADP</a></tt> (1; 0% instances), -<tt><a href="ug_udt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), -<tt><a href="ug_udt-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -49,7 +49,7 @@ The following 14 pairs of parts of speech are connected with `root`: -<tt><a hre
 4	تام	تام	NOUN	N	Case=Nom	5	nmod	_	Translit=tam
 5	قوشنا	قوشنا	NOUN	N	Case=Nom	0	root	_	Translit=qoshna
 6	ئىدى	ئى	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	SpaceAfter=No|Translit=idi
-7	.	.	PUNCT	Y	_	6	punct	_	Translit=.
+7	.	.	PUNCT	Y	_	5	punct	_	Translit=.
 
 ~~~
 
@@ -68,7 +68,7 @@ The following 14 pairs of parts of speech are connected with `root`: -<tt><a hre
 6	كۆرگۈم	_	VERB	V	_	7	acl	_	Translit=körgüm|Morf=Unknown
 7	يوق	يوق	ADJ	A	_	0	root	_	Translit=yoq
 8	ئىدى	ئى	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	SpaceAfter=No|Translit=idi
-9	.	.	PUNCT	Y	_	8	punct	_	Translit=.
+9	.	.	PUNCT	Y	_	7	punct	_	Translit=.
 
 ~~~
 

@@ -54,4 +54,4 @@ Sie nennt ihren Hund Waldi . \n She calls her dog Waldi .
 xcomp(nennt, Waldi)
 ~~~
 
-<!-- Interlanguage links updated So kvě 14 19:04:17 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:45 CET 2022 -->

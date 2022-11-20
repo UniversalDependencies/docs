@@ -23,12 +23,12 @@ The following 1 pairs of parts of speech are connected with `compound:redup`: <t
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 compound:redup	color:blue
-1	अर्धा	अर्धा	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	2	compound:redup	_	_
-2	अर्धा	अर्धा	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	3	amod	_	_
-3	लाडू	लाडू	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	_
-4	दोघांनी	दोघे	PRON	_	Case=Erg|Gender=Masc|Number=Plur|Person=3	5	nsubj	_	_
-5	खाल्ला	खाल्ला	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Fin	0	root	_	SpaceAfter=No
-6	.	.	PUNCT	_	_	5	punct	_	_
+1	अर्धा	अर्धा	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	2	compound:redup	_	Translit=ardhā|LTranslit=ardhā
+2	अर्धा	अर्धा	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	3	amod	_	Translit=ardhā|LTranslit=ardhā
+3	लाडू	लाडू	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	Translit=lāḍū|LTranslit=lāḍū
+4	दोघांनी	दोघे	PRON	_	Case=Erg|Gender=Masc|Number=Plur|Person=3|PronType=Dem	5	nsubj	_	Translit=doghāṁnī|LTranslit=doghe
+5	खाल्ला	खाल्ला	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=khāllā|LTranslit=khāllā
+6	.	.	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

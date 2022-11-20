@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>қой</em> (<tt><a href="kk_ktb-pos-
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.666667 (the average of all parts of speech is 1.743774).
+The form / lemma ratio of `PART` is 1.666667 (the average of all parts of speech is 1.746869).
 
 The 1st highest number of forms (5) was observed with the lemma “ма”: <em>ба, бе, ер, ма, ме</em>.
 

@@ -105,7 +105,7 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>VERB --[<tt><a href="bej_nsc-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (19; 83%),
 <tt>VERB --[<tt><a href="bej_nsc-dep-dep-conj.html">dep:conj</a></tt>]--> VERB</tt> (12; 80%),
 <tt>VERB --[<tt><a href="bej_nsc-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (6; 75%),
-<tt>PRON --[<tt><a href="bej_nsc-dep-det.html">det</a></tt>]--> DET</tt> (3; 60%),
+<tt>PRON --[<tt><a href="bej_nsc-dep-det.html">det</a></tt>]--> DET</tt> (3; 75%),
 <tt>VERB --[<tt><a href="bej_nsc-dep-compound-svc.html">compound:svc</a></tt>]--> VERB</tt> (3; 100%),
 <tt>VERB --[<tt><a href="bej_nsc-dep-obl-arg.html">obl:arg</a></tt>]--> PRON</tt> (3; 75%),
 <tt>VERB --[<tt><a href="bej_nsc-dep-parataxis-coord.html">parataxis:coord</a></tt>]--> VERB</tt> (2; 100%),

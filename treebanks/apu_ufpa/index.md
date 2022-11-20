@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.7 release.
 The following people have contributed to making this treebank part of UD: Marília Fernanda, Sidney Facundes, Bruna Lima Padovani, Jack Rueter, Niko Partanen.
 
 Repository: [UD_Apurina-UFPA](https://github.com/UniversalDependencies/UD_Apurina-UFPA)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udapu_ufpa210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udapu_ufpa211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-SA 4.0
 
@@ -89,11 +89,11 @@ Finite-State Transistor development:
 
 
 <ul>
-<li>This corpus contains 115 sentences, 773 tokens and 776 syntactic words.</li>
+<li>This corpus contains 133 sentences, 862 tokens and 865 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 165 tokens (21%) that are not followed by a space.</li>
+<li>This corpus contains 182 tokens (21%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -123,7 +123,7 @@ Finite-State Transistor development:
 </ul>
 
 <ul>
-<li>This corpus contains 11 lemmas tagged as pronouns (PRON): Pitha, Ywã, atha, kiripa, nuta, nynuwa, uwa, ykyny, ykynyk, ykynypuku, ywa</li>
+<li>This corpus contains 12 lemmas tagged as pronouns (PRON): Ywã, atha, kiripa, nuta, nynuwa, pitha, pithe, uwa, ykyny, ykynyk, ykynypuku, ywa</li>
 </ul>
 
 <ul>
@@ -138,6 +138,7 @@ Finite-State Transistor development:
 </ul>
 
 <ul>
+<li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: txa</li>
 </ul>
 
 <ul>
@@ -156,7 +157,7 @@ Finite-State Transistor development:
   <li>Vnoun
   <ul>
     <li>NOUN: iũkatsupatinhi, ysãkirawatinhi</li>
-    <li>VERB: makinhi, faltatinhi, fawtatinhi, iatinhi, ivinitinhi, mitekatinhi</li>
+    <li>VERB: makinhi, faltatinhi, fawtatinhi, iatinhi, ivinitinhi, mitekatinhi, nykaminhi</li>
   </ul>
   </li>
 </ul>
@@ -182,7 +183,7 @@ Finite-State Transistor development:
   <li>Masc
     <ul>
       <li>DET: iia, iie, kaiãapukury</li>
-      <li>NOUN: kyky, kãkity, ximaky, awiri, kãkiti, yky, ãkiti, ithupa, iãkynytikinhi, pupỹkary</li>
+      <li>NOUN: awiri, ximaky, yky, kyky, kãkity, kãkiti, ãkiti, ithupa, iãkynytikinhi, pupỹkary</li>
       <li>NUM: ãty</li>
       <li>PRON: ywa, Ywã, ywamunhi</li>
     </ul>
@@ -197,7 +198,7 @@ Finite-State Transistor development:
 <ul>
   <li>Plur
     <ul>
-      <li>NOUN: Pupĩkaryny, Sytuwakuru, amarynyky, imiakurykata, ypyrawakury, ũimiakury</li>
+      <li>NOUN: Pupĩkaryny, Sytuwakuru, amarynyky, amarytane, imiakurykata, ypyrawakury, ũimiakury</li>
       <li>PRON: nynuwa</li>
     </ul>
   </li>
@@ -206,7 +207,7 @@ Finite-State Transistor development:
 <ul>
   <li>Sing
     <ul>
-      <li>NOUN: kyky, ximaky, awiri, yky, ãkiti, awinhi, Tukury, Yẽrẽkatikinhi, aapuku, apy</li>
+      <li>NOUN: awiri, ximaky, yky, kyky, ãkiti, ãputa, ũty, awinhi, Tukury, Utukuryte</li>
       <li>PRON: ywa, uwa, Nuta, Pitha, Ywã, ywamunhi</li>
     </ul>
   </li>
@@ -238,7 +239,7 @@ Finite-State Transistor development:
   <li>Loc
     <ul>
       <li>ADV: Ywã</li>
-      <li>NOUN: kananeã, aapukutxiã, kawãryã, makiã, awinhinã, ãawinhinhĩã</li>
+      <li>NOUN: kananeã, aapukutxiã, kawãryã, makiã, nytukarẽã, awinhinã, ukinhiã, ãawinhinhĩã</li>
       <li>PRON: Ywã</li>
       <li>VERB: atamarakitinhitã, mitharyã</li>
     </ul>
@@ -248,7 +249,8 @@ Finite-State Transistor development:
 <ul>
   <li>Nom
     <ul>
-      <li>NOUN: kyky, ximaky, awiri, yky, ãkiti, tiitxi, tiwitxi, awinhi, Pupỹkary, Sytuwakuru</li>
+      <li>NOUN: awiri, ximaky, yky, kyky, ãkiti, tiitxi, tiwitxi, ãputa, ũty, awinhi</li>
+      <li>NUM: Ãty</li>
       <li>PRON: ywa, nynuwa, uwa, Nuta, Pitha</li>
     </ul>
   </li>
@@ -344,7 +346,7 @@ Finite-State Transistor development:
 <ul>
   <li>Fem
     <ul>
-      <li>NOUN: Ukywyxikeru, uparĩka, ũaapuku, ũimiakury, ũtanyrykata</li>
+      <li>NOUN: Ukywyxikeru, Utukuryte, ukinhiã, uparĩka, ũaapuku, ũimiakury, ũtanyrykata</li>
     </ul>
   </li>
 </ul>
@@ -352,7 +354,7 @@ Finite-State Transistor development:
 <ul>
   <li>Masc
     <ul>
-      <li>NOUN: iãkynytikinhi, Yẽrẽkatikinhi, aapukutxiã, apy, arẽka, awinhi, iserẽkana, iãkynykata, uky, ykyynyrytena</li>
+      <li>NOUN: iãkynytikinhi, Yẽrẽkatikinhi, aapukutxiã, apy, arẽka, awinhi, iserẽkana, iãkynykata, uky, yky</li>
     </ul>
   </li>
 </ul>
@@ -372,7 +374,7 @@ Finite-State Transistor development:
 <ul>
   <li>Sing
     <ul>
-      <li>NOUN: Ukywyxikeru, Yẽrẽkatikinhi, aapukutxiã, apy, awinhi, iãkynykata, iãkynytikinhi, uky, uparĩka, ymata</li>
+      <li>NOUN: Ukywyxikeru, Utukuryte, Yẽrẽkatikinhi, aapukutxiã, apy, awinhi, iãkynykata, iãkynytikinhi, pytukara, ukinhiã</li>
     </ul>
   </li>
 </ul>
@@ -410,7 +412,7 @@ Finite-State Transistor development:
       <li>Masc
         <ul>
           <li>CCONJ: txamary</li>
-          <li>VERB: awary, amutary, 'awary, kamary, Makamary, apukary, atamatary, ithupytymary, kaiãapukury, mawakynỹãty</li>
+          <li>VERB: awary, amutary, kamary, 'awary, kaiapukury, Makamary, Nymapuruĩtary, aiatary, apukary, atamatary</li>
         </ul>
       </li>
     </ul>
@@ -422,7 +424,7 @@ Finite-State Transistor development:
     <ul>
       <li>Fem
         <ul>
-          <li>VERB: Naãtyru</li>
+          <li>VERB: Naãtyru, ukamary, usa</li>
         </ul>
       </li>
       <li>Masc
@@ -431,7 +433,7 @@ Finite-State Transistor development:
           <li>ADV: myrykynyty</li>
           <li>AUX: itxa</li>
           <li>NOUN: myramanery</li>
-          <li>VERB: sary, Kaiãũry, Kuaxary, Kunakamunyry, apukary, awana, inhinhiãwa, iputurĩ, kasunakyry, kaxinhiry</li>
+          <li>VERB: sary, Kaiãũry, Kuaxary, Kunakamunyry, Naãtyry, apukary, awa, awamaãtary, awana, awapeka</li>
           <li>VERB-Conv: Ĩkanapyryãkasaaky</li>
         </ul>
       </li>
@@ -444,13 +446,13 @@ Finite-State Transistor development:
     <ul>
       <li>Plur,Sing
         <ul>
-          <li>VERB: apukary</li>
+          <li>VERB: apukary, kamary</li>
         </ul>
       </li>
       <li>Sing
         <ul>
           <li>CCONJ: txamary</li>
-          <li>VERB: awary, amutary, 'awary, apukary, atamatary, kamary, Makamary, araũkytary, ithupytymary, kaiãapukury</li>
+          <li>VERB: awary, amutary, 'awary, apukary, atamatary, kaiapukury, kamary, pysykanu, Makamary, Nymapuruĩtary</li>
         </ul>
       </li>
     </ul>
@@ -471,7 +473,7 @@ Finite-State Transistor development:
           <li>ADV: myrykynyty</li>
           <li>AUX: itxa</li>
           <li>NOUN: myramanery</li>
-          <li>VERB: sary, Kaiãũry, Kuaxary, Kunakamunyry, Naãtyru, apukary, inhinhiãwa, iputurĩ, kasunakyry, kaxinhiry</li>
+          <li>VERB: sary, pysykanu, Kaiãũry, Kuaxary, Kunakamunyry, Naãtyru, Naãtyry, apukary, awa, awamaãtary</li>
           <li>VERB-Conv: Ĩkanapyryãkasaaky</li>
         </ul>
       </li>
@@ -490,7 +492,7 @@ Finite-State Transistor development:
       <li>3
         <ul>
           <li>CCONJ: txamary</li>
-          <li>VERB: awary, amutary, apukary, 'awary, atamatary, kamary, Makamary, araũkytary, ithupytymary, kaiãapukury</li>
+          <li>VERB: awary, amutary, apukary, kamary, 'awary, atamatary, kaiapukury, Makamary, Nymapuruĩtary, aiatary</li>
         </ul>
       </li>
     </ul>
@@ -505,9 +507,14 @@ Finite-State Transistor development:
           <li>NOUN: ãawinhinhĩã, ãawinhipuku</li>
         </ul>
       </li>
+      <li>2
+        <ul>
+          <li>NOUN: pytukara</li>
+        </ul>
+      </li>
       <li>3
         <ul>
-          <li>NOUN: Ukywyxikeru, Yẽrẽkatikinhi, aapukutxiã, apy, iserẽkana, iãkynykata, iãkynytikinhi, uky, uparĩka, ykyynyrytena</li>
+          <li>NOUN: Ukywyxikeru, Utukuryte, Yẽrẽkatikinhi, aapukutxiã, apy, iserẽkana, iãkynykata, iãkynytikinhi, ukinhiã, uky</li>
         </ul>
       </li>
     </ul>
@@ -528,7 +535,7 @@ Finite-State Transistor development:
           <li>ADV: myrykynyty</li>
           <li>AUX: itxa</li>
           <li>NOUN: myramanery</li>
-          <li>VERB: sary, Kaiãũry, Kuaxary, Kunakamunyry, Naãtyru, apukary, awana, inhinhiãwa, iputurĩ, kasunakyry</li>
+          <li>VERB: sary, Kaiãũry, Kuaxary, Kunakamunyry, Naãtyru, Naãtyry, apukary, awa, awamaãtary, awana</li>
           <li>VERB-Conv: Ĩkanapyryãkasaaky</li>
         </ul>
       </li>
@@ -541,13 +548,13 @@ Finite-State Transistor development:
     <ul>
       <li>No
         <ul>
-          <li>NOUN: kyky, tiwitxi, aapukutxi, awiri, mãkatxi, nhipukury, ximaky, yky, tiitxi, aapukutxiã</li>
+          <li>NOUN: awiri, kyky, tiwitxi, ximaky, aapukutxi, mãkatxi, nhipukury, yky, tiitxi, ãputa</li>
           <li>VERB: nhipukury</li>
         </ul>
       </li>
       <li>Yes
         <ul>
-          <li>NOUN: aapuku, Ukywyxikeru, Yẽrẽkatikinhi, amarute, apy, awinhi, awinhinã, iserẽkana, iãkynytikinhi, kikiute</li>
+          <li>NOUN: aapuku, yky, Ukywyxikeru, Utukuryte, Yẽrẽkatikinhi, amarute, amarytane, apy, awinhi, awinhinã</li>
         </ul>
       </li>
     </ul>
@@ -587,10 +594,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (44)</li>
-      <li>VERB--NOUN-Nom (16)</li>
+      <li>VERB--NOUN (48)</li>
+      <li>VERB--NOUN-Nom (20)</li>
       <li>VERB--PRON (8)</li>
-      <li>VERB--PRON-Nom (41)</li>
+      <li>VERB--PRON-Nom (46)</li>
     </ul>
   </li>
 </ul>
@@ -598,8 +605,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (47)</li>
-      <li>VERB--NOUN-Nom (21)</li>
+      <li>VERB--NOUN (50)</li>
+      <li>VERB--NOUN-Nom (25)</li>
       <li>VERB--PRON (2)</li>
       <li>VERB--PRON-Nom (1)</li>
       <li>VERB-Conv--NOUN-Nom (1)</li>

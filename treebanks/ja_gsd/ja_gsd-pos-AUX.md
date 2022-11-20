@@ -79,21 +79,21 @@ Examples: た, し, で, れ, さ, する, な, に, ます, です
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 5 different relations: <tt><a href="ja_gsd-dep-aux.html">aux</a></tt> (17243; 81% instances), <tt><a href="ja_gsd-dep-cop.html">cop</a></tt> (2438; 12% instances), <tt><a href="ja_gsd-dep-fixed.html">fixed</a></tt> (1462; 7% instances), <tt><a href="ja_gsd-dep-acl.html">acl</a></tt> (8; 0% instances), <tt><a href="ja_gsd-dep-root.html">root</a></tt> (7; 0% instances)
+`AUX` nodes are attached to their parents using 5 different relations: <tt><a href="ja_gsd-dep-aux.html">aux</a></tt> (17235; 81% instances), <tt><a href="ja_gsd-dep-cop.html">cop</a></tt> (2441; 12% instances), <tt><a href="ja_gsd-dep-fixed.html">fixed</a></tt> (1467; 7% instances), <tt><a href="ja_gsd-dep-acl.html">acl</a></tt> (8; 0% instances), <tt><a href="ja_gsd-dep-root.html">root</a></tt> (7; 0% instances)
 
-Parents of `AUX` nodes belong to 13 different parts of speech: <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (14660; 69% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (3194; 15% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (1707; 8% instances), <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> (582; 3% instances), <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (562; 3% instances), <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (202; 1% instances), <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> (110; 1% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt> (51; 0% instances), <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt> (39; 0% instances), <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> (29; 0% instances), <tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> (12; 0% instances),  (7; 0% instances), <tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances)
+Parents of `AUX` nodes belong to 13 different parts of speech: <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (14646; 69% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (3200; 15% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (1707; 8% instances), <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> (582; 3% instances), <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (562; 3% instances), <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (207; 1% instances), <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> (110; 1% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt> (53; 0% instances), <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt> (40; 0% instances), <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> (29; 0% instances), <tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> (12; 0% instances),  (7; 0% instances), <tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances)
 
-20190 (95%) `AUX` nodes are leaves.
+20188 (95%) `AUX` nodes are leaves.
 
-794 (4%) `AUX` nodes have one child.
+790 (4%) `AUX` nodes have one child.
 
-136 (1%) `AUX` nodes have two children.
+140 (1%) `AUX` nodes have two children.
 
-38 (0%) `AUX` nodes have three or more children.
+40 (0%) `AUX` nodes have three or more children.
 
 The highest child degree of a `AUX` node is 5.
 
-Children of `AUX` nodes are attached using 8 different relations: <tt><a href="ja_gsd-dep-fixed.html">fixed</a></tt> (1183; 98% instances), <tt><a href="ja_gsd-dep-nmod.html">nmod</a></tt> (7; 1% instances), <tt><a href="ja_gsd-dep-punct.html">punct</a></tt> (7; 1% instances), <tt><a href="ja_gsd-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="ja_gsd-dep-advmod.html">advmod</a></tt> (2; 0% instances), <tt><a href="ja_gsd-dep-nsubj.html">nsubj</a></tt> (2; 0% instances), <tt><a href="ja_gsd-dep-mark.html">mark</a></tt> (1; 0% instances), <tt><a href="ja_gsd-dep-obl.html">obl</a></tt> (1; 0% instances)
+Children of `AUX` nodes are attached using 8 different relations: <tt><a href="ja_gsd-dep-fixed.html">fixed</a></tt> (1196; 98% instances), <tt><a href="ja_gsd-dep-nmod.html">nmod</a></tt> (7; 1% instances), <tt><a href="ja_gsd-dep-punct.html">punct</a></tt> (7; 1% instances), <tt><a href="ja_gsd-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="ja_gsd-dep-advmod.html">advmod</a></tt> (2; 0% instances), <tt><a href="ja_gsd-dep-nsubj.html">nsubj</a></tt> (2; 0% instances), <tt><a href="ja_gsd-dep-mark.html">mark</a></tt> (1; 0% instances), <tt><a href="ja_gsd-dep-obl.html">obl</a></tt> (1; 0% instances)
 
-Children of `AUX` nodes belong to 8 different parts of speech: <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (811; 67% instances), <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (202; 17% instances), <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (160; 13% instances), <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> (12; 1% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (10; 1% instances), <tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt> (7; 1% instances), <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> (1; 0% instances)
+Children of `AUX` nodes belong to 8 different parts of speech: <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (817; 67% instances), <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (207; 17% instances), <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (160; 13% instances), <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> (14; 1% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (10; 1% instances), <tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt> (7; 1% instances), <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> (1; 0% instances)
 

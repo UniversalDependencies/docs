@@ -12,7 +12,7 @@ Some words have combined values of the feature; 2 combinations have been observe
 
 529 tokens (2%) have a non-empty value of `Case`.
 34 types (1%) occur at least once with a non-empty value of `Case`.
-6 lemmas (0%) occur at least once with a non-empty value of `Case`.
+5 lemmas (0%) occur at least once with a non-empty value of `Case`.
 The feature is used with 1 part-of-speech tags: <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (529; 2% instances).
 
 ### `PRON`

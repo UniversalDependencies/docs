@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-9130 nodes (6%) are attached to their parents as `root`.
+9124 nodes (6%) are attached to their parents as `root`.
 
-9130 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.57590361445783.
+9124 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.57507672073652.
 
-The following 15 pairs of parts of speech are connected with `root`: -<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (6095; 67% instances), -<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (1288; 14% instances), -<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (660; 7% instances), -<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (444; 5% instances), -<tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (260; 3% instances), -<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (143; 2% instances), -<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (95; 1% instances), -<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (83; 1% instances), -<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (15; 0% instances), -<tt><a href="en_gum-pos-DET.html">DET</a></tt> (14; 0% instances), -<tt><a href="en_gum-pos-X.html">X</a></tt> (14; 0% instances), -<tt><a href="en_gum-pos-CCONJ.html">CCONJ</a></tt> (7; 0% instances), -<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (6; 0% instances), -<tt><a href="en_gum-pos-PART.html">PART</a></tt> (4; 0% instances), -<tt><a href="en_gum-pos-SYM.html">SYM</a></tt> (2; 0% instances).
+The following 15 pairs of parts of speech are connected with `root`: -<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (6086; 67% instances), -<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (1280; 14% instances), -<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (662; 7% instances), -<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (444; 5% instances), -<tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (261; 3% instances), -<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (145; 2% instances), -<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (93; 1% instances), -<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (91; 1% instances), -<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (15; 0% instances), -<tt><a href="en_gum-pos-DET.html">DET</a></tt> (14; 0% instances), -<tt><a href="en_gum-pos-X.html">X</a></tt> (14; 0% instances), -<tt><a href="en_gum-pos-CCONJ.html">CCONJ</a></tt> (7; 0% instances), -<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (6; 0% instances), -<tt><a href="en_gum-pos-PART.html">PART</a></tt> (4; 0% instances), -<tt><a href="en_gum-pos-SYM.html">SYM</a></tt> (2; 0% instances).
 
 
 ~~~ conllu

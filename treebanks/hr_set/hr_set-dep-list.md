@@ -91,7 +91,7 @@ The following 11 pairs of parts of speech are connected with `list`: <tt><a href
 11	su	biti	AUX	Var3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	_
 12	krakovi	krak	NOUN	Ncmpn	Case=Nom|Gender=Masc|Number=Plur	19	nsubj	_	_
 13	bili	biti	AUX	Vap-pm	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	19	cop	_	_
-14	12,5	12	NUM	Mdc	NumType=Card	19	nummod	_	_
+14	12,5	12	NUM	Mdc	NumType=Card	19	nummod:gov	_	_
 15	x	x	X	Xf	Foreign=Yes	14	fixed	_	_
 16	12,5	12	NUM	Mdc	NumType=Card	14	list	_	_
 17	x	x	X	Xf	Foreign=Yes	16	fixed	_	_

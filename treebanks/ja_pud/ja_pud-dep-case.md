@@ -11,7 +11,7 @@ This relation is universal.
 6496 nodes (23%) are attached to their parents as `case`.
 
 6496 instances of `case` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.20797413793103.
+Average distance between parent and child is 1.21274630541872.
 
 The following 8 pairs of parts of speech are connected with `case`: <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (4969; 76% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (781; 12% instances), <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (369; 6% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (223; 3% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (86; 1% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (37; 1% instances), <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (27; 0% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (4; 0% instances).
 

@@ -16,12 +16,12 @@ The feature is used with 1 part-of-speech tags: <tt><a href="en_ewt-pos-X.html">
 
 ### `X`
 
-42 <tt><a href="en_ewt-pos-X.html">X</a></tt> tokens (4% of all `X` tokens) have a non-empty value of `Foreign`.
+42 <tt><a href="en_ewt-pos-X.html">X</a></tt> tokens (5% of all `X` tokens) have a non-empty value of `Foreign`.
 
 `X` tokens may have the following values of `Foreign`:
 
 * `Yes` (42; 100% of non-empty `Foreign`): <em>la, a, de, del, guerre, hoc, non, Acedraz, Déjà, Hochrenaissance</em>
-* `EMPTY` (946): <em>etc, etc., .doc, carol.st.clair@enron.com, -, (, ), Access, Analysis_0712, COMMUNICATIONS</em>
+* `EMPTY` (876): <em>.doc, carol.st.clair@enron.com, -, (, ), Access, Analysis_0712, COMMUNICATIONS, Oct, Pricing</em>
 
 `Foreign` seems to be **lexical feature** of `X`. 100% lemmas (34) occur only with one value of `Foreign`.
 

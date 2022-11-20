@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="uk_iu-dep-nummod.html">nummod</a></tt>.
 
-431 nodes (0%) are attached to their parents as `nummod:gov`.
+522 nodes (0%) are attached to their parents as `nummod:gov`.
 
-415 instances of `nummod:gov` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.584686774942.
+500 instances of `nummod:gov` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.62452107279693.
 
-The following 4 pairs of parts of speech are connected with `nummod:gov`: <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (422; 98% instances), <tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (2; 0% instances).
+The following 6 pairs of parts of speech are connected with `nummod:gov`: <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (455; 87% instances), <tt><a href="uk_iu-pos-NUM.html">NUM</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (57; 11% instances), <tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -34,6 +34,28 @@ The following 4 pairs of parts of speech are connected with `nummod:gov`: <tt><a
 
 
 ~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 4 nummod:gov	color:blue
+1	Ви	ви	PRON	Pp-2-ypnn	Animacy=Anim|Case=Nom|Number=Plur|Person=2|PronType=Prs	2	nsubj	2:nsubj	Id=28b3|LTranslit=vy|Translit=Vy
+2	казали	казати	VERB	Vmpis-p	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	0	root	0:root	Id=28b4|LTranslit=kazaty|Translit=kazaly
+3	про	про	ADP	Spsa	Case=Acc	11	case	11:case	Id=28b5|LTranslit=pro|Translit=pro
+4	1	1	NUM	Mlc-pa	Case=Acc|Number=Plur|NumType=Card|Uninflect=Yes	7	nummod:gov	7:nummod:gov	Id=28b6|LTranslit=1|SpaceAfter=No|Translit=1
+5	,	,	PUNCT	U	_	6	punct	6:punct	Id=2eqm|LTranslit=,|SpaceAfter=No|Translit=,
+6	2	2	NUM	Mlc-pa	Case=Acc|Number=Plur|NumType=Card|Uninflect=Yes	4	compound	4:compound	Id=2eqn|LTranslit=2|Translit=2
+7	тис	тис.	NUM	Y	Abbr=Yes|Case=Gen|NumType=Card|Uninflect=Yes	11	nummod:gov	11:nummod:gov	Id=28b7|LTranslit=tys.|SpaceAfter=No|Translit=tys
+8	.	.	PUNCT	U	_	7	punct	7:punct	Id=28b8|LTranslit=.|Translit=.
+9	проданих	проданий	ADJ	Ap--pgf-ep	Aspect=Perf|Case=Gen|Number=Plur|VerbForm=Part|Voice=Pass	11	amod	11:amod	Id=28b9|LTranslit=prodanyj|Translit=prodanych
+10	електричних	електричний	ADJ	Ao--pgf	Case=Gen|Number=Plur	11	amod	11:amod	Id=28ba|LTranslit=elektryčnyj|Translit=elektryčnych
+11	авто	авто	NOUN	Ncnpgn	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur|Uninflect=Yes	2	obl	2:obl	Id=28bb|LTranslit=avto|SpaceAfter=No|Translit=avto
+12	.	.	PUNCT	U	_	2	punct	2:punct	Id=28bc|LTranslit=.|Translit=.
+
+~~~
+
+
+~~~ conllu
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 11	bgColor:blue
@@ -48,28 +70,9 @@ The following 4 pairs of parts of speech are connected with `nummod:gov`: <tt><a
 7	з	з	ADP	Spsg	Case=Gen	8	case	8:case	Id=3bi9|LTranslit=z|Translit=z
 8	розуму	розум	NOUN	Ncmsgn	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	obl	6:obl	Id=3bia|LTranslit=rozum|Translit=rozumu
 9	пів	пів	NUM	Mlc-a	Case=Acc|NumType=Card|Orth=Alt|Uninflect=Yes	11	nummod:gov	11:nummod:gov	Id=3bib|LTranslit=piv|SpaceAfter=No|Translit=piv
-10	-	-	PUNCT	U	PunctType=Dash	9	punct	9:punct	Id=3bic|LTranslit=-|SpaceAfter=No|Translit=-
+10	-	-	PUNCT	U	PunctType=Hyph	9	punct	9:punct	Id=3bic|LTranslit=-|SpaceAfter=No|Translit=-
 11	Хрещатика	Хрещатик	PROPN	Npmsgn	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	obj	6:obj	Id=3bid|LTranslit=Chreščatyk|SpaceAfter=No|Translit=Chreščatyka
 12	...	...	PUNCT	U	_	6	punct	6:punct	Id=3bie|LTranslit=...|Translit=...
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 nummod:gov	color:blue
-1	Четверо	четверо	NUM	Mlc-a	Case=Acc|NumType=Card	2	nummod:gov	2:nummod:gov	Id=1z2i|LTranslit=četvero|Translit=Četvero
-2	малознайомих	малознайомий	ADJ	Ao--pgf	Case=Gen|Number=Plur	3	obj	3:obj	Id=1z2j|LTranslit=maloznajomyj|Promoted=Yes|Translit=maloznajomych
-3	видалив	видалити	VERB	Vmeis-sm	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	0:root	Id=1z2k|LTranslit=vydalyty|SpaceAfter=No|Translit=vydalyv
-4	,	,	PUNCT	U	_	5	punct	5:punct	Id=1z2l|LTranslit=,|Translit=,
-5	лишив	лишити	VERB	Vmeis-sm	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	3	conj	0:root|3:conj	Id=1z2m|LTranslit=lyšyty|Translit=lyšyv
-6	тільки	тільки	PART	Q	_	8	discourse	8:discourse	Id=1z2n|LTranslit=tiľky|Translit=tiľky
-7	знайомих	знайомий	ADJ	Ao--pafy	Animacy=Anim|Case=Acc|Number=Plur	8	amod	8:amod	Id=1z2o|LTranslit=znajomyj|Translit=znajomych
-8	улибанів	улибан	NOUN	Ncmpay	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	5	obj	5:obj	Id=1z2p|LTranslit=ulyban|SpaceAfter=No|Translit=ulybaniv
-9	:)))	:)))	SYM	X	_	3	discourse	3:discourse	Id=1z2q|LTranslit=:)))|Translit=:)))
 
 ~~~
 

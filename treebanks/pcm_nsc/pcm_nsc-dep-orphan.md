@@ -31,9 +31,9 @@ The following 2 pairs of parts of speech are connected with `orphan`: <tt><a hre
 7	#	#	X	_	_	14	dep	_	AlignBegin=353240|AlignEnd=354000|Gloss=PUNCT
 8	{	{	X	_	_	14	dep	_	AlignBegin=353970|AlignEnd=354000|Gloss=PUNCT
 9	{	{	X	_	_	10	dep	_	AlignBegin=353970|AlignEnd=354000|Gloss=PUNCT
-10	o~	X	NUM	_	_	14	nummod	_	AlignBegin=354000|AlignEnd=354261|Gloss=X|SyllableCount=1|WordContour=mmh2
+10	o~	X	NUM	_	_	12	reparandum	_	AlignBegin=354000|AlignEnd=354261|Gloss=X|SyllableCount=1|WordContour=mmh2
 11	||	||	X	_	_	12	dep	_	AlignBegin=354261|AlignEnd=354291|Gloss=PUNCT
-12	hundred	hundred	NUM	_	NumType=Card	10	reparandum	_	AlignBegin=354291|AlignEnd=354660|Gloss=hundred.CARD|SyllableCount=2|WordContour=mmh3
+12	hundred	hundred	NUM	_	NumType=Card	14	nummod	_	AlignBegin=354291|AlignEnd=354660|Gloss=hundred.CARD|SyllableCount=2|WordContour=mmh3
 13	}	}	X	_	_	10	dep	_	AlignBegin=354660|AlignEnd=354690|Gloss=PUNCT
 14	naira	naira	NOUN	_	_	2	xcomp	_	AlignBegin=354690|AlignEnd=354980|Gloss=naira|SyllableCount=2|WordContour=ml
 15	|c	|c	X	_	_	17	dep	_	AlignBegin=354980|AlignEnd=355010|Gloss=PUNCT
@@ -54,9 +54,9 @@ The following 2 pairs of parts of speech are connected with `orphan`: <tt><a hre
 30	#	#	X	_	_	33	dep	_	AlignBegin=358300|AlignEnd=358720|Gloss=PUNCT
 31	|c	|c	X	_	_	33	dep	_	AlignBegin=358664|AlignEnd=358720|Gloss=PUNCT
 32	{	{	X	_	_	33	dep	_	AlignBegin=358664|AlignEnd=358720|Gloss=PUNCT
-33	hip~	X	X	_	_	6	conj	_	AlignBegin=358720|AlignEnd=358980|Gloss=X|SyllableCount=1|WordContour=ml
+33	hip~	X	X	_	_	35	reparandum	_	AlignBegin=358720|AlignEnd=358980|Gloss=X|SyllableCount=1|WordContour=ml
 34	||	||	X	_	_	35	dep	_	AlignBegin=358980|AlignEnd=359010|Gloss=PUNCT
-35	spinach	spinach	NOUN	_	_	33	reparandum	_	AlignBegin=359010|AlignEnd=359589|Gloss=spinach|SyllableCount=2|WordContour=hl
+35	spinach	spinach	NOUN	_	_	6	conj	_	AlignBegin=359010|AlignEnd=359589|Gloss=spinach|SyllableCount=2|WordContour=hl
 36	}	}	X	_	_	33	dep	_	AlignBegin=359589|AlignEnd=359619|Gloss=PUNCT
 37	fifty	fifty	NUM	_	NumType=Card	38	nummod	_	AlignBegin=359619|AlignEnd=359950|Gloss=fifty.CARD|SyllableCount=2|WordContour=hh
 38	naira	naira	NOUN	_	_	35	orphan	_	AlignBegin=359950|AlignEnd=360380|Gloss=naira|SyllableCount=2|WordContour=hL
@@ -64,7 +64,7 @@ The following 2 pairs of parts of speech are connected with `orphan`: <tt><a hre
 40	|c	|c	X	_	_	43	dep	_	AlignBegin=360590|AlignEnd=360620|Gloss=PUNCT
 41	di	di	DET	_	Definite=Def|PronType=Art	43	det	_	AlignBegin=360620|AlignEnd=360728|Gloss=DEF.ART|SyllableCount=1|WordContour=hl
 42	oder	oder	ADJ	_	_	43	amod	_	AlignBegin=360728|AlignEnd=360970|Gloss=other|SyllableCount=2|WordContour=lm
-43	leaves	leaves	NOUN	_	_	35	conj	_	AlignBegin=360970|AlignEnd=361250|Gloss=leaves|SyllableCount=1|WordContour=ml
+43	leaves	leaves	NOUN	_	_	6	conj	_	AlignBegin=360970|AlignEnd=361250|Gloss=leaves|SyllableCount=1|WordContour=ml
 44	}	}	X	_	_	6	dep	_	AlignBegin=361250|AlignEnd=361280|Gloss=PUNCT
 45	//	//	X	_	_	2	dep	_	AlignBegin=361250|AlignEnd=361280|Gloss=PUNCT
 

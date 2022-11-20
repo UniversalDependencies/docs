@@ -48,7 +48,7 @@ The following 7 pairs of parts of speech are connected with `mark:rel`: <tt><a h
 3	我	我	PRON	_	_	4	nsubj	_	SpaceAfter=No
 4	拎	拎	VERB	_	_	0	root	_	SpaceAfter=No
 5	住	住	AUX	_	_	4	aux	_	SpaceAfter=No
-6	本	本	NOUN	_	NounType=Clf	9	det	_	SpaceAfter=No
+6	本	本	NOUN	_	NounType=Clf	9	clf:det	_	SpaceAfter=No
 7	爛吓爛吓	爛吓爛吓	ADJ	_	_	9	amod	_	SpaceAfter=No
 8	嘅	嘅	PART	_	_	7	mark:rel	_	SpaceAfter=No
 9	Yes!	Yes!	PROPN	_	_	4	obj	_	SpaceAfter=No
@@ -70,27 +70,27 @@ The following 7 pairs of parts of speech are connected with `mark:rel`: <tt><a h
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 8 mark:rel	color:blue
-1	佢	_	PRON	_	_	4	nsubj	_	SpaceAfter=No
-2	一定	_	ADV	_	_	4	advmod	_	SpaceAfter=No
-3	要	_	AUX	_	_	4	aux	_	SpaceAfter=No
-4	有	_	VERB	_	_	0	root	_	SpaceAfter=No
-5	一	_	NUM	_	_	20	nummod	_	SpaceAfter=No
-6	份	_	NOUN	_	NounType=Clf	5	clf	_	SpaceAfter=No
-7	噉樣	_	ADV	_	_	20	amod	_	SpaceAfter=No
-8	嘅	_	PART	_	_	7	mark:rel	_	SpaceAfter=No
-9	，	_	PUNCT	_	_	7	punct	_	SpaceAfter=No
-10	呀	_	INTJ	_	_	7	discourse	_	SpaceAfter=No
-11	，	_	PUNCT	_	_	10	punct	_	SpaceAfter=No
-12	正正式式	_	ADJ	_	_	13	advmod	_	SpaceAfter=No
-13	係	_	VERB	_	_	20	acl	_	SpaceAfter=No
-14	放棄	_	VERB	_	_	13	ccomp	_	SpaceAfter=No
-15	英國	_	PROPN	_	_	16	compound	_	SpaceAfter=No
-16	國籍	_	NOUN	_	_	18	nmod	_	SpaceAfter=No
-17	嘅	_	PART	_	_	16	case	_	SpaceAfter=No
-18	聲明	_	NOUN	_	_	20	nmod	_	SpaceAfter=No
-19	嘅	_	PART	_	_	18	case	_	SpaceAfter=No
-20	文件	_	NOUN	_	_	4	obj	_	SpaceAfter=No
-21	。	_	PUNCT	_	_	4	punct	_	SpaceAfter=No
+1	佢	佢	PRON	_	_	4	nsubj	_	SpaceAfter=No
+2	一定	一定	ADV	_	_	4	advmod	_	SpaceAfter=No
+3	要	要	AUX	_	_	4	aux	_	SpaceAfter=No
+4	有	有	VERB	_	_	0	root	_	SpaceAfter=No
+5	一	一	NUM	_	_	20	nummod	_	SpaceAfter=No
+6	份	份	NOUN	_	NounType=Clf	5	clf	_	SpaceAfter=No
+7	噉樣	噉樣	ADV	_	_	20	amod	_	SpaceAfter=No
+8	嘅	嘅	PART	_	_	7	mark:rel	_	SpaceAfter=No
+9	，	，	PUNCT	_	_	7	punct	_	SpaceAfter=No
+10	呀	呀	INTJ	_	_	7	discourse	_	SpaceAfter=No
+11	，	，	PUNCT	_	_	10	punct	_	SpaceAfter=No
+12	正正式式	正正式式	ADJ	_	_	13	advmod	_	SpaceAfter=No
+13	係	係	VERB	_	_	20	acl	_	SpaceAfter=No
+14	放棄	放棄	VERB	_	_	13	ccomp	_	SpaceAfter=No
+15	英國	英國	PROPN	_	_	16	compound	_	SpaceAfter=No
+16	國籍	國籍	NOUN	_	_	18	nmod	_	SpaceAfter=No
+17	嘅	嘅	PART	_	_	16	case	_	SpaceAfter=No
+18	聲明	聲明	NOUN	_	_	20	nmod	_	SpaceAfter=No
+19	嘅	嘅	PART	_	_	18	case	_	SpaceAfter=No
+20	文件	文件	NOUN	_	_	4	obj	_	SpaceAfter=No
+21	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 ~~~
 

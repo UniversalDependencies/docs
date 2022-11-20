@@ -10,10 +10,10 @@ This relation is a language-specific subtype of .
 
 12786 nodes (1%) are attached to their parents as `compound:prt`.
 
-8161 instances of `compound:prt` (64%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.80955732832786.
+8162 instances of `compound:prt` (64%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.80752385421555.
 
-The following 15 pairs of parts of speech are connected with `compound:prt`: <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (9807; 77% instances), <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (1744; 14% instances), <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (314; 2% instances), <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (258; 2% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (204; 2% instances), <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (138; 1% instances), <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (113; 1% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (77; 1% instances), <tt><a href="is_icepahc-pos-DET.html">DET</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (68; 1% instances), <tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (26; 0% instances), <tt><a href="is_icepahc-pos-PART.html">PART</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (23; 0% instances), <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt>-<tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), <tt><a href="is_icepahc-pos-X.html">X</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="is_icepahc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `compound:prt`: <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (9806; 77% instances), <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (1744; 14% instances), <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (313; 2% instances), <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (258; 2% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (205; 2% instances), <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (138; 1% instances), <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (113; 1% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (77; 1% instances), <tt><a href="is_icepahc-pos-DET.html">DET</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (69; 1% instances), <tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (26; 0% instances), <tt><a href="is_icepahc-pos-PART.html">PART</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (23; 0% instances), <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt>-<tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), <tt><a href="is_icepahc-pos-X.html">X</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="is_icepahc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -65,13 +65,13 @@ The following 15 pairs of parts of speech are connected with `compound:prt`: <tt
 2	gjör	gera	VERB	DOI	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	IFD_tag=sbg2en
 3	þú	þú	PRON	PRO-N	Case=Nom|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	IFD_tag=fp2en
 4	mig	ég	PRON	PRO-A	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	ccomp	_	IFD_tag=fp1eo|SpaceAfter=No
-5	,	,	PUNCT	,	_	4	punct	_	IFD_tag=
+5	,	,	PUNCT	,	_	4	punct	_	IFD_tag
 6	sem	sem	SCONJ	C	_	10	mark	_	IFD_tag=ct
 7	fram	fram	ADP	RP	_	9	compound:prt	_	IFD_tag=aa
 8	fyrir	fyrir	ADP	P	_	9	case	_	IFD_tag=ao
 9	þig	þú	PRON	PRO-A	Case=Acc|Number=Sing|Person=2|PronType=Prs	10	obl	_	IFD_tag=fp2eo
 10	kem	koma	VERB	VBPI	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl:relcl	_	IFD_tag=sfg1en
-11	fordæmdur	fordæmdur	ADJ	ADJ-N	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	IFD_tag=lkensf|SpaceAfter=No
+11	fordæmdur	fordæma	VERB	VAN	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	IFD_tag=lkensf|SpaceAfter=No
 12	.	.	PUNCT	.	_	11	punct	_	IFD_tag=.
 
 ~~~

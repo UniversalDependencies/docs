@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Latin-Perseus: POS Tags: `INTJ`
 
 There are 14 `INTJ` lemmas (0%), 15 `INTJ` types (0%) and 43 `INTJ` tokens (0%).
-Out of 13 observed tags, the rank of `INTJ` is: 11 in number of lemmas, 11 in number of types and 12 in number of tokens.
+Out of 14 observed tags, the rank of `INTJ` is: 11 in number of lemmas, 12 in number of types and 12 in number of tokens.
 
 The 10 most frequent `INTJ` lemmas: <em>Hercules, o, ah, vae, heu!, ecce, hei, heu, heus!, io</em>
 
@@ -40,7 +40,7 @@ The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="la_perseus-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.071429 (the average of all parts of speech is 2.099410).
+The form / lemma ratio of `INTJ` is 1.071429 (the average of all parts of speech is 2.099614).
 
 The 1st highest number of forms (3) was observed with the lemma “Hercules”: <em>hercle, mehercule, mehercules</em>.
 
@@ -53,7 +53,7 @@ The 3rd highest number of forms (1) was observed with the lemma “ah”: <em>a<
 
 ## Relations
 
-`INTJ` nodes are attached to their parents using 3 different relations: <tt><a href="la_perseus-dep-advmod.html">advmod</a></tt> (31; 72% instances), <tt><a href="la_perseus-dep-vocative.html">vocative</a></tt> (11; 26% instances), <tt><a href="la_perseus-dep-obj.html">obj</a></tt> (1; 2% instances)
+`INTJ` nodes are attached to their parents using 3 different relations: <tt><a href="la_perseus-dep-discourse.html">discourse</a></tt> (31; 72% instances), <tt><a href="la_perseus-dep-vocative.html">vocative</a></tt> (11; 26% instances), <tt><a href="la_perseus-dep-obj.html">obj</a></tt> (1; 2% instances)
 
 Parents of `INTJ` nodes belong to 5 different parts of speech: <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (27; 63% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (8; 19% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (5; 12% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (2; 5% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (1; 2% instances)
 

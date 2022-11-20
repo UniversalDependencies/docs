@@ -71,7 +71,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (372; 23% of non-empty `Person`): <em>mi, nam, nas, ja, me, nama, mene, meni, mnom</em>
 * `2` (155; 10% of non-empty `Person`): <em>vam, vas, ti, vi, vama, te, tebe, tebi</em>
 * `3` (1061; 67% of non-empty `Person`): <em>ih, ga, im, mu, on, njih, ona, joj, oni, ono</em>
-* `EMPTY` (3746): <em>se, što, ništa, tko, nešto, nitko, čime, čega, sebe, sebi</em>
+* `EMPTY` (3714): <em>se, što, ništa, tko, nešto, nitko, čime, čega, sebe, sebi</em>
 
 `Person` seems to be **lexical feature** of `PRON`. 100% lemmas (10) occur only with one value of `Person`.
 

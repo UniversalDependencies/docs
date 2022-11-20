@@ -10,10 +10,10 @@ This relation is universal.
 
 32 nodes (0%) are attached to their parents as `vocative`.
 
-19 instances of `vocative` (59%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.5.
+18 instances of `vocative` (56%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.625.
 
-The following 15 pairs of parts of speech are connected with `vocative`: <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-PROPN.html">PROPN</a></tt> (12; 38% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt> (5; 16% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt> (2; 6% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> (2; 6% instances), <tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="da_ddt-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="da_ddt-pos-ADP.html">ADP</a></tt>-<tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="da_ddt-pos-ADV.html">ADV</a></tt>-<tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="da_ddt-pos-ADV.html">ADV</a></tt>-<tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="da_ddt-pos-ADV.html">ADV</a></tt>-<tt><a href="da_ddt-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="da_ddt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="da_ddt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="da_ddt-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="da_ddt-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="da_ddt-pos-X.html">X</a></tt>-<tt><a href="da_ddt-pos-PROPN.html">PROPN</a></tt> (1; 3% instances).
+The following 13 pairs of parts of speech are connected with `vocative`: <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-PROPN.html">PROPN</a></tt> (12; 38% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt> (5; 16% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt> (3; 9% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> (3; 9% instances), <tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="da_ddt-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="da_ddt-pos-ADV.html">ADV</a></tt>-<tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="da_ddt-pos-ADV.html">ADV</a></tt>-<tt><a href="da_ddt-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="da_ddt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="da_ddt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="da_ddt-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="da_ddt-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="da_ddt-pos-X.html">X</a></tt>-<tt><a href="da_ddt-pos-PROPN.html">PROPN</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -41,7 +41,7 @@ The following 15 pairs of parts of speech are connected with `vocative`: <tt><a 
 2	sku'	skulle	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	3	aux	_	SpaceAfter=No
 3	prøve	prøve	VERB	_	VerbForm=Inf|Voice=Act	0	root	_	_
 4	det	det	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	obj	_	SpaceAfter=No
-5	,	,	PUNCT	_	_	3	punct	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
 6	knægt	knægt	NOUN	_	Definite=Ind|Gender=Com|Number=Sing	3	vocative	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	3	punct	_	_
 
@@ -65,7 +65,7 @@ The following 15 pairs of parts of speech are connected with `vocative`: <tt><a 
 9	proteiner	protein	NOUN	_	Definite=Ind|Gender=Neut|Number=Plur	5	obl	_	_
 10	hvis	hvis	SCONJ	_	_	12	mark	_	_
 11	jeg	jeg	PRON	_	Case=Nom|Gender=Com|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	_
-12	får	få	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	5	advmod	_	_
+12	får	få	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	5	advcl	_	_
 13	lyst	lyst	NOUN	_	Definite=Ind|Gender=Com|Number=Sing	12	obj	_	_
 14	til	til	ADP	_	AdpType=Prep	16	mark	_	_
 15	at	at	PART	_	PartType=Inf	16	mark	_	_

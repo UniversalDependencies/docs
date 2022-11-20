@@ -15,4 +15,4 @@ nsubj:cop(кият-3, тон-2)
 ~~~
 
 
-<!-- Interlanguage links updated So kvě 14 19:03:53 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:34 CET 2022 -->

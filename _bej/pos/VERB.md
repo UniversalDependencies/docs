@@ -15,4 +15,4 @@ The tag `VERB` is reserved for full lexical verbs, while auxiliary verbs are tag
 
 - _weːr_ "do"
 - _giːg_ "leave"
-<!-- Interlanguage links updated So kvě 14 19:01:58 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:37 CET 2022 -->

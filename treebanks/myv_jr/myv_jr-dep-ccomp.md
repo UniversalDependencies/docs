@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-104 nodes (1%) are attached to their parents as `ccomp`.
+109 nodes (1%) are attached to their parents as `ccomp`.
 
-102 instances of `ccomp` (98%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.625.
+107 instances of `ccomp` (98%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.55045871559633.
 
-The following 9 pairs of parts of speech are connected with `ccomp`: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (81; 78% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (6; 6% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (4; 4% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (4; 4% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (3; 3% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (3; 3% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 12 pairs of parts of speech are connected with `ccomp`: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (82; 75% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (6; 6% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (6; 6% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (3; 3% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (3; 3% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (3; 3% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -38,25 +38,6 @@ The following 9 pairs of parts of speech are connected with `ccomp`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 6 ccomp	color:blue
-1	Седеем	седей	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	4	nsubj	_	GTtags=Sg,Nom,PxSg1|Gloss[eng]=heart
-2	тень	мон	PRON	Pron	Case=Dat|Number=Sing|Person=1|PronType=Prs|Variant=Short	4	obl	_	GTtags=Pers,Sg1,Dat,Short|Gloss[eng]=to.me
-3	истя	истя	ADV	Adv	AdvType=Man	4	advmod	_	GTtags=Manner|Gloss[eng]=like.that
-4	тошкси	тошксемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	0	root	_	GTtags=IV,Ind,Prs,ScSg3|Gloss[eng]=whisper|SpaceAfter=No
-5	:	:	PUNCT	CLB	_	6	punct	_	_
-6	майстэ	май	NOUN	N	Case=Ela|Definite=Ind|Number=Plur,Sing	4	ccomp	_	GTtags=SP,Ela,Indef|Gloss[eng]=May|SpaceAfter=No
-7	,	,	PUNCT	CLB	_	8	punct	_	_
-8	майстэ	май	NOUN	N	Case=Ela|Definite=Ind|Number=Plur,Sing	6	conj	_	GTtags=SP,Ela,Indef|Gloss[eng]=May|SpaceAfter=No
-9	...	...	PUNCT	CLB	_	4	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 3	bgColor:blue
@@ -74,6 +55,25 @@ The following 9 pairs of parts of speech are connected with `ccomp`: <tt><a href
 10	истят	истямо	PRON	Pron	Case=Nom|Definite=Ind|Number=Plur|PronType=Dem	11	det	_	GTtags=Dem,Pl,Nom,Indef
 11	уцяскавт	уцяскав	ADJ	A	Case=Nom|Definite=Ind|Number=Plur	3	ccomp	_	GTtags=Pl,Nom,Indef|SpaceAfter=No
 12	.	.	PUNCT	CLB	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 6 ccomp	color:blue
+1	Седеем	седей	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	4	nsubj	_	GTtags=Sg,Nom,PxSg1|Gloss[eng]=heart
+2	тень	мон	PRON	Pron	Case=Dat|Number=Sing|Person=1|PronType=Prs|Variant=Short	4	obl	_	GTtags=Pers,Sg1,Dat,Short|Gloss[eng]=to.me
+3	истя	истя	ADV	Adv	AdvType=Man	4	advmod	_	GTtags=Manner|Gloss[eng]=like.that
+4	тошкси	тошксемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	0	root	_	GTtags=IV,Ind,Prs,ScSg3|Gloss[eng]=whisper|SpaceAfter=No
+5	:	:	PUNCT	CLB	_	6	punct	_	_
+6	майстэ	май	NOUN	N	Case=Ela|Definite=Ind|Number=Plur,Sing	4	ccomp	_	GTtags=SP,Ela,Indef|Gloss[eng]=May|SpaceAfter=No
+7	,	,	PUNCT	CLB	_	8	punct	_	_
+8	майстэ	май	NOUN	N	Case=Ela|Definite=Ind|Number=Plur,Sing	6	conj	_	GTtags=SP,Ela,Indef|Gloss[eng]=May|SpaceAfter=No
+9	...	...	PUNCT	CLB	_	4	punct	_	_
 
 ~~~
 

@@ -25,7 +25,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (236; 13% of non-empty `Person`): <em>n, ne, an</em>
 * `2` (145; 8% of non-empty `Person`): <em>e, i, aw, a</em>
 * `3` (1372; 78% of non-empty `Person`): <em>a, u, ale, ele, e, à</em>
-* `EMPTY` (759): <em>o, n, i, nin, olu, a, mun, min, nyògòn, bèè</em>
+* `EMPTY` (753): <em>o, n, i, nin, olu, a, mun, nyògòn, min, bèè</em>
 
 <table>
   <tr><th>Paradigm <i>é</i></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>

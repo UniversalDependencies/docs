@@ -23,7 +23,7 @@ The most frequent other feature values with which `PRON` and `Poss` co-occurred:
 `PRON` tokens may have the following values of `Poss`:
 
 * `Yes` (1930; 100% of non-empty `Poss`): <em>my, your, our, deir, her, im, una, we, dem, e</em>
-* `EMPTY` (16432): <em>I, you, e, we, am, de, me, dem, im, wetin</em>
+* `EMPTY` (16431): <em>I, you, e, we, am, de, me, dem, im, wetin</em>
 
 ### `ADJ`
 
@@ -32,11 +32,11 @@ The most frequent other feature values with which `PRON` and `Poss` co-occurred:
 `ADJ` tokens may have the following values of `Poss`:
 
 * `Yes` (36; 100% of non-empty `Poss`): <em>your, its</em>
-* `EMPTY` (3504): <em>small, own, good, kind, different, better, many, first, plenty, big</em>
+* `EMPTY` (3503): <em>small, own, good, kind, different, better, many, first, plenty, big</em>
 
 ## Relations with Agreement in `Poss`
 
 The 10 most frequent relations where parent and child node agree in `Poss`:
-<tt>PRON --[<tt><a href="pcm_nsc-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (21; 84%),
-<tt>PRON --[<tt><a href="pcm_nsc-dep-reparandum.html">reparandum</a></tt>]--> ADJ</tt> (3; 75%).
+<tt>PRON --[<tt><a href="pcm_nsc-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (22; 81%),
+<tt>ADJ --[<tt><a href="pcm_nsc-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (3; 100%).
 

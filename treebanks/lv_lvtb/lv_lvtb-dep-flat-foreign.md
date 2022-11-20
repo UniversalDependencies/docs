@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="lv_lvtb-dep-flat.html">flat</a></tt>.
 There are also 1 other language-specific subtypes of `flat`: <tt><a href="lv_lvtb-dep-flat-name.html">flat:name</a></tt>.
 
-129 nodes (0%) are attached to their parents as `flat:foreign`.
+130 nodes (0%) are attached to their parents as `flat:foreign`.
 
-129 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.46511627906977.
+130 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.44615384615385.
 
-The following 9 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (115; 89% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (4; 3% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (3; 2% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (2; 2% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (1; 1% instances).
+The following 8 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (116; 89% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (4; 3% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (3; 2% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (2; 2% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (2; 2% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -85,8 +85,8 @@ The following 9 pairs of parts of speech are connected with `flat:foreign`: <tt>
 37	Armstrong	Armstrong	X	xf	Foreign=Yes	36	flat:name	36:flat:name	LvtbNodeId=a-p8931-p4s2w37|SpaceAfter=No
 38	)	)	PUNCT	zb	_	36	punct	36:punct	LvtbNodeId=a-p8931-p4s2w38|SpaceAfter=No
 39	,	,	PUNCT	zc	_	43	punct	43:punct	LvtbNodeId=a-p8931-p4s2w39
-40	kuru	kurš	PRON	pr0msan	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	43	obj	43:obj	LvtbNodeId=a-p8931-p4s2w40
-41	noteikti	noteikti	ADV	r0m	_	43	advmod	43:advmod	LvtbNodeId=a-p8931-p4s2w41
+40	kuru	kura	PRON	pr0fsan	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	43	obj	43:obj	LvtbNodeId=a-p8931-p4s2w40
+41	noteikti	noteikti	ADV	rpm	Degree=Pos	43	advmod	43:advmod	LvtbNodeId=a-p8931-p4s2w41
 42	esiet	būt	AUX	vcnm0ii2pan	Mood=Imp|Number=Plur|Person=2|Polarity=Pos|VerbForm=Fin|Voice=Act	43	aux	43:aux	LvtbNodeId=a-p8931-p4s2w42
 43	ievērojuši	ievērot	VERB	vmnpdmpnasnpn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	33	acl	33:acl	LvtbNodeId=a-p8931-p4s2w43
 44	tādos	tāds	DET	pd0mpln	Case=Loc|Gender=Masc|Number=Plur|PronType=Dem	45	det	45:det	LvtbNodeId=a-p8931-p4s2w44

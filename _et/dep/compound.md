@@ -19,4 +19,4 @@ compound(kaks, tuhat)
 compound(two, thousand)
 ~~~
 
-<!-- Interlanguage links updated So kvě 14 19:03:14 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:15 CET 2022 -->

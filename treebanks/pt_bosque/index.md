@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Alexandre Rademaker, Cláudia Freitas, Elvis de Souza, Aline Silveira, Tatiana Cavalcanti, Wograine Evelyn, Luisa Rocha, Isabela Soares-Bastos, Eckhard Bick, Fabricio Chalub, Guilherme Paulino-Passos, Livy Real, Valeria de Paiva, Daniel Zeman, Martin Popel, David Mareček, Natalia Silveira, André Martins.
 
 Repository: [UD_Portuguese-Bosque](https://github.com/UniversalDependencies/UD_Portuguese-Bosque)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpt_bosque210)<br />
-Download all treebanks: [UD 2.10](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpt_bosque211)<br />
+Download all treebanks: [UD 2.11](/#download)
 
 License: CC BY-SA 4.0
 
@@ -137,7 +137,7 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
 
 
 <ul>
-<li>This corpus contains 9357 sentences, 210959 tokens and 227828 syntactic words.</li>
+<li>This corpus contains 9357 sentences, 210958 tokens and 227827 syntactic words.</li>
 </ul>
 
 <ul>
@@ -149,7 +149,7 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
 </ul>
 
 <ul>
-<li>This corpus contains 769 types of words that contain both letters and punctuation. Examples: sexta-feira, norte-americano, p., segunda-feira, R., primeiro-ministro, norte-americana, terça-feira, quarta-feira, quinta-feira, S., ex-presidente, vice-presidente, porta-voz, Grã-Bretanha, cessar-fogo, ex-ministro, fim-de-semana, norte-americanos, secretário-geral, d., etc., art., dr., meio-campo, tel., av., director-geral, mão-de-obra, pára-quedas, sr., Guiné-Bissau, Jr., dia-a-dia, ex-jogador, pág., social-democrata, A., CD-ROM, Timor-Leste, co-produção, d', ex-governador, IPC-r, Jean-Pierre, auto-estrada, dom., ed., ex-secretário, infra-estrutura</li>
+<li>This corpus contains 768 types of words that contain both letters and punctuation. Examples: sexta-feira, norte-americano, p., segunda-feira, R., primeiro-ministro, norte-americana, terça-feira, quarta-feira, quinta-feira, S., ex-presidente, vice-presidente, porta-voz, Grã-Bretanha, cessar-fogo, fim-de-semana, ex-ministro, norte-americanos, secretário-geral, d., etc., art., dr., meio-campo, tel., av., director-geral, mão-de-obra, pára-quedas, sr., Guiné-Bissau, Jr., dia-a-dia, ex-jogador, pág., social-democrata, A., CD-ROM, Timor-Leste, co-produção, d', ex-governador, IPC-r, Jean-Pierre, auto-estrada, dom., ed., ex-secretário, infra-estrutura</li>
 </ul>
 
 <ul>
@@ -240,10 +240,10 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
 <ul>
   <li>Fem
     <ul>
-      <li>ADJ: primeira, nova, maior, grande, última, mesma, segunda, boa, política, passada</li>
+      <li>ADJ: primeira, nova, maior, grande, última, mesma, boa, segunda, política, passada</li>
       <li>ADV: quanto, tal</li>
       <li>DET: a, as, uma, sua, esta, suas, essa, toda, outras, algumas</li>
-      <li>NOUN: pessoas, parte, semana, vez, empresa, forma, empresas, casa, cidade, vida</li>
+      <li>NOUN: pessoas, parte, semana, vez, empresa, forma, empresas, cidade, casa, vida</li>
       <li>NUM: dezenas, 13, 16, 4ª</li>
       <li>PRON: que, se, a, ela, onde, as, elas, esta, lhe, eu</li>
       <li>PROPN: Lisboa, Folha, Câmara, Alemanha, França, Comissão, Espanha, Europa, Rússia, Itália</li>
@@ -291,8 +291,8 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
       <li>AUX-Fin: são, foram, estão, vão, serão, têm, eram, estavam, estamos, sejam</li>
       <li>AUX-Inf: serem, terem, estarem, estarmos, haverem, irem, sermos</li>
       <li>DET: os, as, seus, suas, todos, outros, outras, alguns, algumas, todas</li>
-      <li>NOUN: anos, pessoas, contos, dias, pontos, empresas, meses, vezes, países, problemas</li>
-      <li>NUM: milhões, milhares, dezenas, 13, 16, 24, bilhões</li>
+      <li>NOUN: anos, pessoas, contos, dias, pontos, empresas, meses, países, vezes, problemas</li>
+      <li>NUM: milhões, milhares, dezenas, 13, 16, 24, bilhões, uma</li>
       <li>PRON: que, se, eles, os, nos, as, outros, todos, elas, nós</li>
       <li>PROPN: EUA, Estados, Assuntos, Nações, Antas, Açores, Comandos, Encontros, Forças, Misericórdias</li>
       <li>VERB-Fin: têm, podem, estão, devem, existem, fizeram, dizem, temos, querem, chegaram</li>
@@ -307,7 +307,7 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
   <li>Sing
     <ul>
       <li>ADJ: maior, primeiro, grande, primeira, novo, nova, mesmo, nacional, melhor, passado</li>
-      <li>ADP: de, Primeira, que</li>
+      <li>ADP: de, Primeira, sem, que</li>
       <li>ADV: quanto, entanto, inteligente-, não, ontem, tal, teatral, um</li>
       <li>AUX-Fin: é, foi, está, vai, era, será, tem, seria, estava, seja</li>
       <li>AUX-Inf: ser, ter, estar, ir, haver</li>
@@ -818,10 +818,10 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
       </li>
       <li>NOUN
         <ul>
-          <li>ADJ: bom, boa</li>
+          <li>ADJ: bom</li>
           <li>ADP: por</li>
           <li>ADV: bem, sem, mal</li>
-          <li>NOUN: ponto, mercado, guerra, ser, campanha, ensino, opinião, pano, fim, luz</li>
+          <li>NOUN: ponto, mercado, guerra, ser, campanha, ensino, pano, fim, luz, opinião</li>
           <li>NUM: meia, quinta</li>
           <li>PART: pré</li>
           <li>PROPN: Câmara, Dívida, Estados, Meio, por, Assembleia, Direcção, Ensino, Guerra, Lei</li>
@@ -835,11 +835,11 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
       </li>
       <li>PROPN
         <ul>
-          <li>ADJ: Real, Sózinhos</li>
+          <li>ADJ: Alta, Real, Social, Sózinhos</li>
           <li>ADP: Em, Por</li>
           <li>ADV: Hoje, logo</li>
           <li>DET: The, As, O, Os</li>
-          <li>NOUN: Assembléia, Associação, Comissão, Conselho, Força, Volta, Álcool, Assembleia, Avenida, Biblioteca</li>
+          <li>NOUN: Assembléia, Associação, Comissão, Força, União, Conselho, Volta, Álcool, Assembleia, Autoridade</li>
           <li>NUM: Mil, VIII, X</li>
           <li>PROPN: São, José, João, Fernando, Pedro, Carlos, Manuel, Nova, Banco, Paulo</li>
           <li>X: Adventure, Journey, So, The, Body, Insight, MacMillan</li>
@@ -879,10 +879,11 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
         <ul>
           <li>ADJ: Sózinhos, acompanhados, brasileira, contíguas, domésticos, europeu, grande, pardo-suíço, permanente, poluidores</li>
           <li>ADV: asim, inteligente-</li>
+          <li>AUX-Fin: çe</li>
           <li>DET: a, o, um, As, Outra, os, uma</li>
           <li>NOUN: campanha, cidades, mãos, pais, prazo, presidenta, produtividades, propietários, queixa, setença</li>
           <li>PRON: qu</li>
-          <li>PROPN: datafolha</li>
+          <li>PROPN: atlética, datafolha</li>
           <li>SCONJ: uns</li>
           <li>VERB-Fin: cumprimimos, deveria, disfrutam, faconteceu, saiem</li>
           <li>VERB-Ger: pasando</li>
@@ -913,25 +914,25 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (3868)</li>
+      <li>VERB-Fin--NOUN (3861)</li>
       <li>VERB-Fin--NOUN-ADP(de) (2)</li>
       <li>VERB-Fin--NOUN-ADP(sem) (1)</li>
-      <li>VERB-Fin--PRON (1865)</li>
+      <li>VERB-Fin--PRON (1861)</li>
       <li>VERB-Fin--PRON-ADP(além) (1)</li>
       <li>VERB-Fin--PRON-ADP(em) (1)</li>
-      <li>VERB-Fin--PRON-Acc (225)</li>
+      <li>VERB-Fin--PRON-Acc (223)</li>
       <li>VERB-Fin--PRON-Nom (362)</li>
       <li>VERB-Ger--NOUN (66)</li>
       <li>VERB-Ger--PRON (20)</li>
       <li>VERB-Ger--PRON-Acc (16)</li>
       <li>VERB-Ger--PRON-Nom (7)</li>
-      <li>VERB-Inf--NOUN (252)</li>
-      <li>VERB-Inf--PRON (65)</li>
-      <li>VERB-Inf--PRON-Acc (57)</li>
+      <li>VERB-Inf--NOUN (257)</li>
+      <li>VERB-Inf--PRON (64)</li>
+      <li>VERB-Inf--PRON-Acc (58)</li>
       <li>VERB-Inf--PRON-Nom (30)</li>
       <li>VERB-Part--NOUN (184)</li>
       <li>VERB-Part--NOUN-ADP(de) (4)</li>
-      <li>VERB-Part--PRON (55)</li>
+      <li>VERB-Part--PRON (54)</li>
       <li>VERB-Part--PRON-Acc (2)</li>
       <li>VERB-Part--PRON-Nom (12)</li>
       <li>VERB-Part--PRON-Nom-ADP(de) (1)</li>
@@ -943,16 +944,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB--NOUN (1)</li>
-      <li>VERB-Fin--NOUN (3724)</li>
+      <li>VERB-Fin--NOUN (3725)</li>
       <li>VERB-Fin--NOUN-ADP(a) (210)</li>
       <li>VERB-Fin--NOUN-ADP(com) (92)</li>
       <li>VERB-Fin--NOUN-ADP(contra) (2)</li>
       <li>VERB-Fin--NOUN-ADP(de) (221)</li>
       <li>VERB-Fin--NOUN-ADP(em) (105)</li>
       <li>VERB-Fin--NOUN-ADP(para) (31)</li>
-      <li>VERB-Fin--NOUN-ADP(por) (29)</li>
+      <li>VERB-Fin--NOUN-ADP(por) (30)</li>
       <li>VERB-Fin--NOUN-ADP(sobre) (8)</li>
-      <li>VERB-Fin--PRON (478)</li>
+      <li>VERB-Fin--PRON (479)</li>
       <li>VERB-Fin--PRON-ADP(a) (22)</li>
       <li>VERB-Fin--PRON-ADP(com) (4)</li>
       <li>VERB-Fin--PRON-ADP(de) (23)</li>
@@ -960,7 +961,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-ADP(para) (3)</li>
       <li>VERB-Fin--PRON-ADP(por) (2)</li>
       <li>VERB-Fin--PRON-ADP(sobre) (3)</li>
-      <li>VERB-Fin--PRON-Acc (324)</li>
+      <li>VERB-Fin--PRON-Acc (325)</li>
       <li>VERB-Fin--PRON-Dat (3)</li>
       <li>VERB-Fin--PRON-Nom (3)</li>
       <li>VERB-Ger--NOUN (381)</li>
@@ -975,12 +976,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Ger--PRON-ADP(por) (1)</li>
       <li>VERB-Ger--PRON-Acc (22)</li>
       <li>VERB-Ger--PRON-Dat (1)</li>
-      <li>VERB-Inf--NOUN (2111)</li>
+      <li>VERB-Inf--NOUN (2113)</li>
       <li>VERB-Inf--NOUN-ADP(a) (65)</li>
       <li>VERB-Inf--NOUN-ADP(com) (39)</li>
       <li>VERB-Inf--NOUN-ADP(como) (1)</li>
       <li>VERB-Inf--NOUN-ADP(de) (57)</li>
-      <li>VERB-Inf--NOUN-ADP(em) (47)</li>
+      <li>VERB-Inf--NOUN-ADP(em) (46)</li>
       <li>VERB-Inf--NOUN-ADP(para) (11)</li>
       <li>VERB-Inf--NOUN-ADP(por) (12)</li>
       <li>VERB-Inf--NOUN-ADP(sobre) (5)</li>
@@ -992,7 +993,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-ADP(por) (1)</li>
       <li>VERB-Inf--PRON-ADP(sobre) (1)</li>
       <li>VERB-Inf--PRON-Acc (131)</li>
-      <li>VERB-Part--NOUN (186)</li>
+      <li>VERB-Part--NOUN (187)</li>
       <li>VERB-Part--NOUN-ADP(a) (143)</li>
       <li>VERB-Part--NOUN-ADP(com) (30)</li>
       <li>VERB-Part--NOUN-ADP(de) (68)</li>
@@ -1063,7 +1064,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Reflexive Passive</h3>
 
 <ul>
-  <li>This corpus contains 3 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: dar se, dotar se, ver se</li>
+  <li>This corpus contains 4 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: dar se, dotar se, manipular se, ver se</li>
 </ul>
 
 <h3>Verbs with Reflexive Core Objects</h3>

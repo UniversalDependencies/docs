@@ -44,7 +44,7 @@ The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href=
 4	,	,	PUNCT	_	_	3	punct	_	_
 5	тиигэжэ	тиигэжэ	ADV	_	_	6	obj	_	_
 6	хэлэхэ	хэлэ	VERB	_	_	0	root	_	_
-7	хэрэггүй	хэрэг	ADJ	_	_	6	aux	_	_
+7	хэрэггүй	хэрэг	ADJ	_	_	6	xcomp	_	_
 8	байгаа	бай	AUX	_	_	6	aux	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	6	punct	_	_
 

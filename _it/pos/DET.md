@@ -49,4 +49,4 @@ AP:	Possessive adjective
 - indefinite determiners: _ogni_ "any", _tutti_ "all", _alcuni_ "some", _nessuno, nessuna_ "no", e.g. _Non abbiamo <b>nessuna</b> macchina disponibile_ "We have <b>no</b> car available"
 - exclamative determiners: _quale_ in _<b>Quale</b> disastro!_ "What a mess!"
 
-<!-- Interlanguage links updated So kvě 14 19:01:47 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:31 CET 2022 -->

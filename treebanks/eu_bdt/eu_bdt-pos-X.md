@@ -6,24 +6,22 @@ udver: '2'
 
 ## Treebank Statistics: UD_Basque-BDT: POS Tags: `X`
 
-There are 20 `X` lemmas (0%), 20 `X` types (0%) and 173 `X` tokens (0%).
-Out of 16 observed tags, the rank of `X` is: 12 in number of lemmas, 13 in number of types and 14 in number of tokens.
+There are 19 `X` lemmas (0%), 19 `X` types (0%) and 99 `X` tokens (0%).
+Out of 17 observed tags, the rank of `X` is: 13 in number of lemmas, 14 in number of types and 14 in number of tokens.
 
-The 10 most frequent `X` lemmas: <em>baino, de, ohi, del, ea, el, ezta, la, gehi, Las</em>
+The 10 most frequent `X` lemmas: <em>de, baino, del, ea, el, ezta, ohi, la, gehi, Las</em>
 
-The 10 most frequent `X` types:  <em>baino, de, ohi, del, ea, el, ezta, la, gehi, Enfin</em>
+The 10 most frequent `X` types:  <em>de, baino, del, ea, el, ezta, ohi, la, gehi, Las</em>
 
-The 10 most frequent ambiguous lemmas: <em>baino</em> (<tt><a href="eu_bdt-pos-X.html">X</a></tt> 84, <tt><a href="eu_bdt-pos-CCONJ.html">CCONJ</a></tt> 5), <em>ohi</em> (<tt><a href="eu_bdt-pos-ADJ.html">ADJ</a></tt> 43, <tt><a href="eu_bdt-pos-X.html">X</a></tt> 11), <em>ea</em> (<tt><a href="eu_bdt-pos-X.html">X</a></tt> 8, <tt><a href="eu_bdt-pos-INTJ.html">INTJ</a></tt> 2), <em>ezta</em> (<tt><a href="eu_bdt-pos-X.html">X</a></tt> 4, <tt><a href="eu_bdt-pos-CCONJ.html">CCONJ</a></tt> 3), <em>la</em> (<tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="eu_bdt-pos-X.html">X</a></tt> 2), <em>gehi</em> (<tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="eu_bdt-pos-X.html">X</a></tt> 2), <em>Las</em> (<tt><a href="eu_bdt-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="eu_bdt-pos-X.html">X</a></tt> 1), <em>non</em> (<tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> 16, <tt><a href="eu_bdt-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>baino</em> (<tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> 66, <tt><a href="eu_bdt-pos-X.html">X</a></tt> 18, <tt><a href="eu_bdt-pos-CCONJ.html">CCONJ</a></tt> 5), <em>ea</em> (<tt><a href="eu_bdt-pos-X.html">X</a></tt> 8, <tt><a href="eu_bdt-pos-INTJ.html">INTJ</a></tt> 2), <em>ezta</em> (<tt><a href="eu_bdt-pos-X.html">X</a></tt> 4, <tt><a href="eu_bdt-pos-CCONJ.html">CCONJ</a></tt> 3), <em>ohi</em> (<tt><a href="eu_bdt-pos-ADJ.html">ADJ</a></tt> 43, <tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> 7, <tt><a href="eu_bdt-pos-X.html">X</a></tt> 4), <em>la</em> (<tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="eu_bdt-pos-X.html">X</a></tt> 2), <em>gehi</em> (<tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="eu_bdt-pos-X.html">X</a></tt> 2), <em>Las</em> (<tt><a href="eu_bdt-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="eu_bdt-pos-X.html">X</a></tt> 1), <em>non</em> (<tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> 16, <tt><a href="eu_bdt-pos-X.html">X</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>baino</em> (<tt><a href="eu_bdt-pos-X.html">X</a></tt> 84, <tt><a href="eu_bdt-pos-CCONJ.html">CCONJ</a></tt> 5), <em>ohi</em> (<tt><a href="eu_bdt-pos-X.html">X</a></tt> 10, <tt><a href="eu_bdt-pos-ADJ.html">ADJ</a></tt> 7), <em>ea</em> (<tt><a href="eu_bdt-pos-X.html">X</a></tt> 8, <tt><a href="eu_bdt-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="eu_bdt-pos-CCONJ.html">CCONJ</a></tt> 1), <em>ezta</em> (<tt><a href="eu_bdt-pos-X.html">X</a></tt> 4, <tt><a href="eu_bdt-pos-CCONJ.html">CCONJ</a></tt> 3), <em>la</em> (<tt><a href="eu_bdt-pos-X.html">X</a></tt> 2, <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> 1), <em>Las</em> (<tt><a href="eu_bdt-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="eu_bdt-pos-X.html">X</a></tt> 1), <em>non</em> (<tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> 13, <tt><a href="eu_bdt-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>baino</em> (<tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> 66, <tt><a href="eu_bdt-pos-X.html">X</a></tt> 18, <tt><a href="eu_bdt-pos-CCONJ.html">CCONJ</a></tt> 5), <em>ea</em> (<tt><a href="eu_bdt-pos-X.html">X</a></tt> 8, <tt><a href="eu_bdt-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="eu_bdt-pos-CCONJ.html">CCONJ</a></tt> 1), <em>ezta</em> (<tt><a href="eu_bdt-pos-X.html">X</a></tt> 4, <tt><a href="eu_bdt-pos-CCONJ.html">CCONJ</a></tt> 3), <em>ohi</em> (<tt><a href="eu_bdt-pos-ADJ.html">ADJ</a></tt> 7, <tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> 7, <tt><a href="eu_bdt-pos-X.html">X</a></tt> 3), <em>la</em> (<tt><a href="eu_bdt-pos-X.html">X</a></tt> 2, <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> 1), <em>Las</em> (<tt><a href="eu_bdt-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="eu_bdt-pos-X.html">X</a></tt> 1), <em>non</em> (<tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> 13, <tt><a href="eu_bdt-pos-X.html">X</a></tt> 1)
 
 
 * <em>baino</em>
-  * <tt><a href="eu_bdt-pos-X.html">X</a></tt> 84: <em>Ez dut Australia lehen ezagutzen nuena <b>baino</b> gehiago ezagutzen orain .</em>
+  * <tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> 66: <em>Ez dut Australia lehen ezagutzen nuena <b>baino</b> gehiago ezagutzen orain .</em>
+  * <tt><a href="eu_bdt-pos-X.html">X</a></tt> 18: <em>( Goian dagoena behera jaistea igotzea <b>baino</b> errazago delako , agian ) .</em>
   * <tt><a href="eu_bdt-pos-CCONJ.html">CCONJ</a></tt> 5: <em>Bi kolpetan , irabazlearen erdia <b>baino</b> gehixeagoa jaso zuen timortarrak :</em>
-* <em>ohi</em>
-  * <tt><a href="eu_bdt-pos-X.html">X</a></tt> 10: <em>Gehiegizko hezetasunaren ondorio izan <b>ohi</b> da .</em>
-  * <tt><a href="eu_bdt-pos-ADJ.html">ADJ</a></tt> 7: <em>PSE-EEko zinegotzi <b>ohi</b> baten etxeari eraso diote Sopelan , koktelak jaurtiz .</em>
 * <em>ea</em>
   * <tt><a href="eu_bdt-pos-X.html">X</a></tt> 8: <em>Orain erlojupekoa dator , <b>ea</b> denbora ateratzerik dudan " .</em>
   * <tt><a href="eu_bdt-pos-INTJ.html">INTJ</a></tt> 2: <em>- Piztu zinta , <b>ea</b> zer gertatu den bigarren saioan .</em>
@@ -31,6 +29,10 @@ The 10 most frequent ambiguous types:  <em>baino</em> (<tt><a href="eu_bdt-pos-X
 * <em>ezta</em>
   * <tt><a href="eu_bdt-pos-X.html">X</a></tt> 4: <em>Baina interes handiak daude hori hala izan ez dadin , <b>ezta</b> ?</em>
   * <tt><a href="eu_bdt-pos-CCONJ.html">CCONJ</a></tt> 3: <em>Nirvana budistarik ez du inork eraiki munduan , <b>ezta</b> utopia komunistarik .</em>
+* <em>ohi</em>
+  * <tt><a href="eu_bdt-pos-ADJ.html">ADJ</a></tt> 7: <em>PSE-EEko zinegotzi <b>ohi</b> baten etxeari eraso diote Sopelan , koktelak jaurtiz .</em>
+  * <tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> 7: <em>Gehiegizko hezetasunaren ondorio izan <b>ohi</b> da .</em>
+  * <tt><a href="eu_bdt-pos-X.html">X</a></tt> 3: <em>Sydneyn lortutako emaitzei begiratuz gero , faborito beraiek ziren , eta ez , <b>ohi</b> bezala , EEBB .</em>
 * <em>la</em>
   * <tt><a href="eu_bdt-pos-X.html">X</a></tt> 2: <em>Ivan de <b>la</b> Peña Bartzelonarekin entrenatzen ari da jada .</em>
   * <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> 1: <em>Urte haietan Carabanchel , Alcala , Herrera de <b>la</b> Mancha , Daroca , Malaga eta Valladolideko kartzeletan izan zen .</em>
@@ -43,7 +45,7 @@ The 10 most frequent ambiguous types:  <em>baino</em> (<tt><a href="eu_bdt-pos-X
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 2.172787).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 2.170820).
 
 The 1st highest number of forms (1) was observed with the lemma “El”: <em>El</em>.
 
@@ -56,21 +58,21 @@ The 3rd highest number of forms (1) was observed with the lemma “Las”: <em>L
 
 ## Relations
 
-`X` nodes are attached to their parents using 16 different relations: <tt><a href="eu_bdt-dep-advmod.html">advmod</a></tt> (69; 40% instances), <tt><a href="eu_bdt-dep-flat.html">flat</a></tt> (48; 28% instances), <tt><a href="eu_bdt-dep-obl.html">obl</a></tt> (15; 9% instances), <tt><a href="eu_bdt-dep-nmod.html">nmod</a></tt> (9; 5% instances), <tt><a href="eu_bdt-dep-ccomp.html">ccomp</a></tt> (6; 3% instances), <tt><a href="eu_bdt-dep-discourse.html">discourse</a></tt> (6; 3% instances), <tt><a href="eu_bdt-dep-aux.html">aux</a></tt> (5; 3% instances), <tt><a href="eu_bdt-dep-advcl.html">advcl</a></tt> (3; 2% instances), <tt><a href="eu_bdt-dep-conj.html">conj</a></tt> (3; 2% instances), <tt><a href="eu_bdt-dep-cc.html">cc</a></tt> (2; 1% instances), <tt><a href="eu_bdt-dep-root.html">root</a></tt> (2; 1% instances), <tt><a href="eu_bdt-dep-appos.html">appos</a></tt> (1; 1% instances), <tt><a href="eu_bdt-dep-dep.html">dep</a></tt> (1; 1% instances), <tt><a href="eu_bdt-dep-mark.html">mark</a></tt> (1; 1% instances), <tt><a href="eu_bdt-dep-nsubj.html">nsubj</a></tt> (1; 1% instances), <tt><a href="eu_bdt-dep-xcomp.html">xcomp</a></tt> (1; 1% instances)
+`X` nodes are attached to their parents using 15 different relations: <tt><a href="eu_bdt-dep-flat.html">flat</a></tt> (48; 48% instances), <tt><a href="eu_bdt-dep-obl.html">obl</a></tt> (15; 15% instances), <tt><a href="eu_bdt-dep-nmod.html">nmod</a></tt> (8; 8% instances), <tt><a href="eu_bdt-dep-ccomp.html">ccomp</a></tt> (6; 6% instances), <tt><a href="eu_bdt-dep-discourse.html">discourse</a></tt> (6; 6% instances), <tt><a href="eu_bdt-dep-advcl.html">advcl</a></tt> (3; 3% instances), <tt><a href="eu_bdt-dep-conj.html">conj</a></tt> (3; 3% instances), <tt><a href="eu_bdt-dep-cc.html">cc</a></tt> (2; 2% instances), <tt><a href="eu_bdt-dep-root.html">root</a></tt> (2; 2% instances), <tt><a href="eu_bdt-dep-advmod.html">advmod</a></tt> (1; 1% instances), <tt><a href="eu_bdt-dep-appos.html">appos</a></tt> (1; 1% instances), <tt><a href="eu_bdt-dep-dep.html">dep</a></tt> (1; 1% instances), <tt><a href="eu_bdt-dep-mark.html">mark</a></tt> (1; 1% instances), <tt><a href="eu_bdt-dep-nsubj.html">nsubj</a></tt> (1; 1% instances), <tt><a href="eu_bdt-dep-xcomp.html">xcomp</a></tt> (1; 1% instances)
 
-Parents of `X` nodes belong to 11 different parts of speech: <tt><a href="eu_bdt-pos-VERB.html">VERB</a></tt> (71; 41% instances), <tt><a href="eu_bdt-pos-PROPN.html">PROPN</a></tt> (46; 27% instances), <tt><a href="eu_bdt-pos-AUX.html">AUX</a></tt> (32; 18% instances), <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> (10; 6% instances), <tt><a href="eu_bdt-pos-ADJ.html">ADJ</a></tt> (3; 2% instances), <tt><a href="eu_bdt-pos-CCONJ.html">CCONJ</a></tt> (3; 2% instances), <tt><a href="eu_bdt-pos-ADP.html">ADP</a></tt> (2; 1% instances),  (2; 1% instances), <tt><a href="eu_bdt-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt> (1; 1% instances)
+Parents of `X` nodes belong to 8 different parts of speech: <tt><a href="eu_bdt-pos-PROPN.html">PROPN</a></tt> (48; 48% instances), <tt><a href="eu_bdt-pos-VERB.html">VERB</a></tt> (27; 27% instances), <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> (13; 13% instances), <tt><a href="eu_bdt-pos-ADJ.html">ADJ</a></tt> (5; 5% instances),  (2; 2% instances), <tt><a href="eu_bdt-pos-X.html">X</a></tt> (2; 2% instances), <tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt> (1; 1% instances)
 
-21 (12%) `X` nodes are leaves.
+13 (13%) `X` nodes are leaves.
 
-130 (75%) `X` nodes have one child.
+67 (68%) `X` nodes have one child.
 
-20 (12%) `X` nodes have two children.
+12 (12%) `X` nodes have two children.
 
-2 (1%) `X` nodes have three or more children.
+7 (7%) `X` nodes have three or more children.
 
-The highest child degree of a `X` node is 4.
+The highest child degree of a `X` node is 5.
 
-Children of `X` nodes are attached using 14 different relations: <tt><a href="eu_bdt-dep-flat.html">flat</a></tt> (55; 31% instances), <tt><a href="eu_bdt-dep-nsubj.html">nsubj</a></tt> (44; 25% instances), <tt><a href="eu_bdt-dep-nmod.html">nmod</a></tt> (27; 15% instances), <tt><a href="eu_bdt-dep-advcl.html">advcl</a></tt> (10; 6% instances), <tt><a href="eu_bdt-dep-cc.html">cc</a></tt> (9; 5% instances), <tt><a href="eu_bdt-dep-punct.html">punct</a></tt> (7; 4% instances), <tt><a href="eu_bdt-dep-dep.html">dep</a></tt> (6; 3% instances), <tt><a href="eu_bdt-dep-csubj.html">csubj</a></tt> (4; 2% instances), <tt><a href="eu_bdt-dep-obj.html">obj</a></tt> (4; 2% instances), <tt><a href="eu_bdt-dep-xcomp.html">xcomp</a></tt> (4; 2% instances), <tt><a href="eu_bdt-dep-conj.html">conj</a></tt> (3; 2% instances), <tt><a href="eu_bdt-dep-iobj.html">iobj</a></tt> (2; 1% instances), <tt><a href="eu_bdt-dep-advmod.html">advmod</a></tt> (1; 1% instances), <tt><a href="eu_bdt-dep-cop.html">cop</a></tt> (1; 1% instances)
+Children of `X` nodes are attached using 14 different relations: <tt><a href="eu_bdt-dep-flat.html">flat</a></tt> (50; 43% instances), <tt><a href="eu_bdt-dep-punct.html">punct</a></tt> (20; 17% instances), <tt><a href="eu_bdt-dep-cc.html">cc</a></tt> (9; 8% instances), <tt><a href="eu_bdt-dep-nsubj.html">nsubj</a></tt> (8; 7% instances), <tt><a href="eu_bdt-dep-advcl.html">advcl</a></tt> (7; 6% instances), <tt><a href="eu_bdt-dep-nmod.html">nmod</a></tt> (6; 5% instances), <tt><a href="eu_bdt-dep-dep.html">dep</a></tt> (5; 4% instances), <tt><a href="eu_bdt-dep-csubj.html">csubj</a></tt> (4; 3% instances), <tt><a href="eu_bdt-dep-advmod.html">advmod</a></tt> (1; 1% instances), <tt><a href="eu_bdt-dep-conj.html">conj</a></tt> (1; 1% instances), <tt><a href="eu_bdt-dep-cop.html">cop</a></tt> (1; 1% instances), <tt><a href="eu_bdt-dep-fixed.html">fixed</a></tt> (1; 1% instances), <tt><a href="eu_bdt-dep-obl.html">obl</a></tt> (1; 1% instances), <tt><a href="eu_bdt-dep-xcomp.html">xcomp</a></tt> (1; 1% instances)
 
-Children of `X` nodes belong to 12 different parts of speech: <tt><a href="eu_bdt-pos-PROPN.html">PROPN</a></tt> (62; 35% instances), <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> (47; 27% instances), <tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> (25; 14% instances), <tt><a href="eu_bdt-pos-VERB.html">VERB</a></tt> (16; 9% instances), <tt><a href="eu_bdt-pos-PUNCT.html">PUNCT</a></tt> (7; 4% instances), <tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt> (5; 3% instances), <tt><a href="eu_bdt-pos-PRON.html">PRON</a></tt> (5; 3% instances), <tt><a href="eu_bdt-pos-ADJ.html">ADJ</a></tt> (4; 2% instances), <tt><a href="eu_bdt-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="eu_bdt-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="eu_bdt-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="eu_bdt-pos-DET.html">DET</a></tt> (1; 1% instances)
+Children of `X` nodes belong to 11 different parts of speech: <tt><a href="eu_bdt-pos-PROPN.html">PROPN</a></tt> (47; 41% instances), <tt><a href="eu_bdt-pos-PUNCT.html">PUNCT</a></tt> (20; 17% instances), <tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> (15; 13% instances), <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> (11; 10% instances), <tt><a href="eu_bdt-pos-VERB.html">VERB</a></tt> (10; 9% instances), <tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt> (4; 3% instances), <tt><a href="eu_bdt-pos-PART.html">PART</a></tt> (2; 2% instances), <tt><a href="eu_bdt-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="eu_bdt-pos-X.html">X</a></tt> (2; 2% instances), <tt><a href="eu_bdt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="eu_bdt-pos-AUX.html">AUX</a></tt> (1; 1% instances)
 

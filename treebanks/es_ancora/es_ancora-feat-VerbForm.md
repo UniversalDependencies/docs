@@ -11,7 +11,7 @@ It occurs with 4 different values: `Fin`, `Ger`, `Inf`, `Part`.
 
 68260 tokens (12%) have a non-empty value of `VerbForm`.
 13005 types (33%) occur at least once with a non-empty value of `VerbForm`.
-3749 lemmas (14%) occur at least once with a non-empty value of `VerbForm`.
+3740 lemmas (14%) occur at least once with a non-empty value of `VerbForm`.
 The feature is used with 4 part-of-speech tags: <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (47499; 8% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (14249; 3% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (6501; 1% instances), <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (11; 0% instances).
 
 ### `VERB`
@@ -121,7 +121,7 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 * `Part` (6501; 100% of non-empty `VerbForm`): <em>pasado, pasada, previsto, abierta, abierto, dispuesto, hecho, privado, fallecido, llamado</em>
 * `EMPTY` (29922): <em>primer, gran, nuevo, primera, mayor, próximo, nueva, últimos, mejor, general</em>
 
-`VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (1322) occur only with one value of `VerbForm`.
+`VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (1319) occur only with one value of `VerbForm`.
 
 ### `NOUN`
 

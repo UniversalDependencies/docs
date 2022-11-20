@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Buryat-BDT: POS Tags: `SCONJ`
 
-There are 3 `SCONJ` lemmas (0%), 3 `SCONJ` types (0%) and 21 `SCONJ` tokens (0%).
-Out of 16 observed tags, the rank of `SCONJ` is: 15 in number of lemmas, 15 in number of types and 14 in number of tokens.
+There are 4 `SCONJ` lemmas (0%), 4 `SCONJ` types (0%) and 22 `SCONJ` tokens (0%).
+Out of 16 observed tags, the rank of `SCONJ` is: 14 in number of lemmas, 15 in number of types and 14 in number of tokens.
 
-The 10 most frequent `SCONJ` lemmas: <em>тиимэһээ, теэд, гэбэл</em>
+The 10 most frequent `SCONJ` lemmas: <em>тиимэһээ, теэд, гэбэл, хэрбэ</em>
 
-The 10 most frequent `SCONJ` types:  <em>тиимэһээ, Теэд, гэбэл</em>
+The 10 most frequent `SCONJ` types:  <em>тиимэһээ, Теэд, Хэрбээ, гэбэл</em>
 
-The 10 most frequent ambiguous lemmas: 
+The 10 most frequent ambiguous lemmas: <em>хэрбэ</em> (<tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> 1, <tt><a href="bxr_bdt-pos-SCONJ.html">SCONJ</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>гэбэл</em> (<tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> 2, <tt><a href="bxr_bdt-pos-SCONJ.html">SCONJ</a></tt> 1)
 
@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>гэбэл</em> (<tt><a href="bxr_bdt
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.633129).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.638355).
 
 The 1st highest number of forms (1) was observed with the lemma “гэбэл”: <em>гэбэл</em>.
 
@@ -37,13 +37,13 @@ The 3rd highest number of forms (1) was observed with the lemma “тиимэһ�
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 3 different relations: <tt><a href="bxr_bdt-dep-advmod.html">advmod</a></tt> (13; 62% instances), <tt><a href="bxr_bdt-dep-cc.html">cc</a></tt> (7; 33% instances), <tt><a href="bxr_bdt-dep-mark.html">mark</a></tt> (1; 5% instances)
+`SCONJ` nodes are attached to their parents using 2 different relations: <tt><a href="bxr_bdt-dep-mark.html">mark</a></tt> (15; 68% instances), <tt><a href="bxr_bdt-dep-cc.html">cc</a></tt> (7; 32% instances)
 
-Parents of `SCONJ` nodes belong to 3 different parts of speech: <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (19; 90% instances), <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt> (1; 5% instances), <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> (1; 5% instances)
+Parents of `SCONJ` nodes belong to 3 different parts of speech: <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (20; 91% instances), <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt> (1; 5% instances), <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> (1; 5% instances)
 
-19 (90%) `SCONJ` nodes are leaves.
+20 (91%) `SCONJ` nodes are leaves.
 
-2 (10%) `SCONJ` nodes have one child.
+2 (9%) `SCONJ` nodes have one child.
 
 The highest child degree of a `SCONJ` node is 1.
 

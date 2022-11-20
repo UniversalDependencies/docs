@@ -12,7 +12,7 @@ It occurs with 2 different values: `Form`, `Infm`.
 6201 tokens (2%) have a non-empty value of `Polite`.
 409 types (2%) occur at least once with a non-empty value of `Polite`.
 171 lemmas (1%) occur at least once with a non-empty value of `Polite`.
-The feature is used with 8 part-of-speech tags: <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (2881; 1% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (1552; 0% instances), <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (1490; 0% instances), <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> (261; 0% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (11; 0% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (1; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (2881; 1% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (1666; 0% instances), <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (1362; 0% instances), <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> (248; 0% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (38; 0% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 ### `PRON`
 
@@ -27,15 +27,15 @@ The most frequent other feature values with which `PRON` and `Polite` co-occurre
 
 ### `VERB`
 
-1552 <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> tokens (5% of all `VERB` tokens) have a non-empty value of `Polite`.
+1666 <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> tokens (5% of all `VERB` tokens) have a non-empty value of `Polite`.
 
-The most frequent other feature values with which `VERB` and `Polite` co-occurred: <tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1545; 100%), <tt><a href="hi_hdtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1534; 99%), <tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt> (1429; 92%), <tt><a href="hi_hdtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1407; 91%), <tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1042; 67%), <tt><a href="hi_hdtb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (959; 62%).
+The most frequent other feature values with which `VERB` and `Polite` co-occurred: <tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1659; 100%), <tt><a href="hi_hdtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1648; 99%), <tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt> (1531; 92%), <tt><a href="hi_hdtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1407; 84%), <tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1119; 67%), <tt><a href="hi_hdtb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (990; 59%).
 
 `VERB` tokens may have the following values of `Polite`:
 
-* `Form` (1542; 99% of non-empty `Polite`): कर, करेंगे, चाहते, हो, आए, करते, रहे, हैं, दे, पहुंचे
-* `Infm` (10; 1% of non-empty `Polite`): करो, बताओ, जाओ, दो, बचाओ, लो
-* `EMPTY` (32201): कहा, किया, कर, करने, की, हो, है, बताया, होने, हुई
+* `Form` (1655; 99% of non-empty `Polite`): कर, करेंगे, चाहते, चुके, आए, हो, करते, रहे, पहुंचे, हैं
+* `Infm` (11; 1% of non-empty `Polite`): करो, दो, बताओ, जाओ, बचाओ, लो
+* `EMPTY` (34293): कहा, किया, कर, करने, की, दिया, हो, है, बताया, दी
 
 <table>
   <tr><th>Paradigm <i>कर</i></th><th><tt>Infm</tt></th><th><tt>Form</tt></th></tr>
@@ -64,57 +64,42 @@ The most frequent other feature values with which `VERB` and `Polite` co-occurre
   <tr><td><tt><tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_hdtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td>कर</td></tr>
 </table>
 
-`Polite` seems to be **lexical feature** of `VERB`. 96% lemmas (143) occur only with one value of `Polite`.
+`Polite` seems to be **lexical feature** of `VERB`. 96% lemmas (145) occur only with one value of `Polite`.
 
 ### `AUX`
 
-1490 <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> tokens (6% of all `AUX` tokens) have a non-empty value of `Polite`.
+1362 <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> tokens (6% of all `AUX` tokens) have a non-empty value of `Polite`.
 
-The most frequent other feature values with which `AUX` and `Polite` co-occurred: <tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1488; 100%), <tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt> (1392; 93%), <tt><a href="hi_hdtb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1252; 84%), <tt><a href="hi_hdtb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (973; 65%), <tt><a href="hi_hdtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (958; 64%), <tt><a href="hi_hdtb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (926; 62%).
+The most frequent other feature values with which `AUX` and `Polite` co-occurred: <tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1360; 100%), <tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt> (1276; 94%), <tt><a href="hi_hdtb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1124; 83%), <tt><a href="hi_hdtb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (928; 68%), <tt><a href="hi_hdtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (928; 68%), <tt><a href="hi_hdtb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (914; 67%), <tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (690; 51%).
 
 `AUX` tokens may have the following values of `Polite`:
 
-* `Form` (1489; 100% of non-empty `Polite`): हैं, थे, रहे, गए, सकते, चुके, थीं, हुए, रही, वाले
-* `Infm` (1; 0% of non-empty `Polite`): दो
-* `EMPTY` (24540): है, हैं, गया, था, गई, हुए, थी, गए, जा, दिया
-
-<table>
-  <tr><th>Paradigm <i>दे</i></th><th><tt>Infm</tt></th><th><tt>Form</tt></th></tr>
-  <tr><td><tt><tt><a href="hi_hdtb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_hdtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td>देते</td></tr>
-  <tr><td><tt><tt><a href="hi_hdtb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_hdtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td>देतीं</td></tr>
-  <tr><td><tt><tt><a href="hi_hdtb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_hdtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td>दिए</td></tr>
-  <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_hdtb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_hdtb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="hi_hdtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td>देंगे</td></tr>
-  <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hi_hdtb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_hdtb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="hi_hdtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td>देंगी</td></tr>
-  <tr><td><tt><tt><a href="hi_hdtb-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="hi_hdtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td>दो</td><td></td></tr>
-  <tr><td><tt><tt><a href="hi_hdtb-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="hi_hdtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td>दीजिए, दें</td></tr>
-  <tr><td><tt><tt><a href="hi_hdtb-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_hdtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td>दें</td></tr>
-</table>
-
-`Polite` seems to be **lexical feature** of `AUX`. 95% lemmas (19) occur only with one value of `Polite`.
+* `Form` (1362; 100% of non-empty `Polite`): हैं, थे, रहे, गए, सकते, थीं, हुए, रही, जाएंगे, है
+* `EMPTY` (22394): है, हैं, गया, था, गई, हुए, थी, गए, जा, रही
 
 ### `ADP`
 
-261 <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Polite`.
+248 <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Polite`.
 
-The most frequent other feature values with which `ADP` and `Polite` co-occurred: <tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (261; 100%), <tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (261; 100%), <tt><a href="hi_hdtb-feat-AdpType.html">AdpType</a></tt><tt>=Post</tt> (260; 100%), <tt><a href="hi_hdtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (247; 95%).
+The most frequent other feature values with which `ADP` and `Polite` co-occurred: <tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (248; 100%), <tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (248; 100%), <tt><a href="hi_hdtb-feat-AdpType.html">AdpType</a></tt><tt>=Post</tt> (247; 100%), <tt><a href="hi_hdtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (238; 96%).
 
 `ADP` tokens may have the following values of `Polite`:
 
-* `Form` (261; 100% of non-empty `Polite`): के, वाले
-* `EMPTY` (73884): के, में, की, को, ने, से, का, पर, लिए, तक
+* `Form` (248; 100% of non-empty `Polite`): के
+* `EMPTY` (72967): के, में, की, को, ने, से, का, पर, लिए, तक
 
 ### `ADJ`
 
-11 <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Polite`.
+38 <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Polite`.
 
-The most frequent other feature values with which `ADJ` and `Polite` co-occurred: <tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (11; 100%), <tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11; 100%), <tt><a href="hi_hdtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (7; 64%).
+The most frequent other feature values with which `ADJ` and `Polite` co-occurred: <tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (38; 100%), <tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (37; 97%).
 
 `ADJ` tokens may have the following values of `Polite`:
 
-* `Form` (11; 100% of non-empty `Polite`): कुंवारे, अकेले, अच्छे, खड़े, जन्मे, जाने, तीसरे, पहले, बड़े, माने
-* `EMPTY` (20635): शामिल, अन्य, जारी, पिछले, पूर्व, भारतीय, तैयार, स्थित, पूरी, वरिष्ठ
+* `Form` (38; 100% of non-empty `Polite`): वाले, कुंवारे, अकेले, अच्छे, खड़े, जन्मे, जाने, तीसरे, पहले, बड़े
+* `EMPTY` (21607): वाले, शामिल, अन्य, वाली, जारी, पिछले, पूर्व, भारतीय, तैयार, स्थित
 
-`Polite` seems to be **lexical feature** of `ADJ`. 100% lemmas (10) occur only with one value of `Polite`.
+`Polite` seems to be **lexical feature** of `ADJ`. 100% lemmas (11) occur only with one value of `Polite`.
 
 ### `PROPN`
 
@@ -126,7 +111,7 @@ The most frequent other feature values with which `PROPN` and `Polite` co-occurr
 
 * `Form` (1; 33% of non-empty `Polite`): तुसी
 * `Infm` (2; 67% of non-empty `Polite`): बताओ
-* `EMPTY` (42938): सिंह, भारत, प्रधानमंत्री, कांग्रेस, पाकिस्तान, दिल्ली, मंत्री, भाजपा, सरकार, कश्मीर
+* `EMPTY` (42937): सिंह, भारत, प्रधानमंत्री, कांग्रेस, पाकिस्तान, दिल्ली, मंत्री, भाजपा, सरकार, कश्मीर
 
 ### `NOUN`
 
@@ -153,9 +138,11 @@ The most frequent other feature values with which `DET` and `Polite` co-occurred
 ## Relations with Agreement in `Polite`
 
 The 10 most frequent relations where parent and child node agree in `Polite`:
-<tt>VERB --[<tt><a href="hi_hdtb-dep-aux.html">aux</a></tt>]--> AUX</tt> (832; 96%),
-<tt>VERB --[<tt><a href="hi_hdtb-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (416; 100%),
-<tt>VERB --[<tt><a href="hi_hdtb-dep-mark.html">mark</a></tt>]--> ADP</tt> (16; 94%),
-<tt>ADJ --[<tt><a href="hi_hdtb-dep-punct.html">punct</a></tt>]--> ADJ</tt> (1; 100%),
+<tt>VERB --[<tt><a href="hi_hdtb-dep-aux.html">aux</a></tt>]--> AUX</tt> (706; 97%),
+<tt>VERB --[<tt><a href="hi_hdtb-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (409; 98%),
+<tt>VERB --[<tt><a href="hi_hdtb-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (65; 90%),
+<tt>VERB --[<tt><a href="hi_hdtb-dep-compound.html">compound</a></tt>]--> VERB</tt> (48; 87%),
+<tt>VERB --[<tt><a href="hi_hdtb-dep-mark.html">mark</a></tt>]--> ADP</tt> (3; 75%),
+<tt>ADJ --[<tt><a href="hi_hdtb-dep-compound.html">compound</a></tt>]--> ADJ</tt> (1; 100%),
 <tt>AUX --[<tt><a href="hi_hdtb-dep-conj.html">conj</a></tt>]--> AUX</tt> (1; 100%).
 

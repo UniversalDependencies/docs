@@ -9,73 +9,119 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Past`, `Pres`.
 
-22762 tokens (14%) have a non-empty value of `Tense`.
-1656 types (17%) occur at least once with a non-empty value of `Tense`.
-558 lemmas (10%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 3 part-of-speech tags: <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (12868; 8% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (9866; 6% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (28; 0% instances).
+9636 tokens (12%) have a non-empty value of `Tense`.
+1259 types (12%) occur at least once with a non-empty value of `Tense`.
+468 lemmas (8%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 6 part-of-speech tags: <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (4944; 6% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (4672; 6% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (14; 0% instances), <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-12868 <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> tokens (70% of all `VERB` tokens) have a non-empty value of `Tense`.
+4944 <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> tokens (53% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (9412; 73%), <tt><a href="is_modern-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (8080; 63%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4608; 93%), <tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4167; 84%), <tt><a href="is_modern-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4084; 83%), <tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3364; 68%), <tt><a href="is_modern-feat-Person.html">Person</a></tt><tt>=3</tt> (3184; 64%).
 
 `VERB` tokens may have the following values of `Tense`:
 
-* `Past` (5714; 44% of non-empty `Tense`): <em>gert, sagði, sagt, farið, tekið, kom, komið, ætti, gripið, orðið</em>
-* `Pres` (7154; 56% of non-empty `Tense`): <em>hringir, held, kemur, á, varðandi, þakka, finnst, þarf, verður, eigum</em>
-* `EMPTY` (5494): <em>gera, fara, taka, koma, segja, vinna, sjá, fá, ræða, spyrja</em>
+* `Past` (1422; 29% of non-empty `Tense`): <em>sagði, kom, ætti, fór, tók, vann, varð, átti, velti, nefndi</em>
+* `Pres` (3522; 71% of non-empty `Tense`): <em>held, hringir, kemur, á, þakka, finnst, þarf, verður, eigum, verði</em>
+* `EMPTY` (4353): <em>gera, fara, taka, koma, varðandi, segja, gert, vinna, sjá, fá</em>
 
 <table>
   <tr><th>Paradigm <i>koma</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
   <tr><td><tt><tt><a href="is_modern-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>komandi</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="is_modern-feat-Mood.html">Mood</a></tt><tt>=Ind</tt></tt></td><td><em>kemur, koma, kemst, komast, kem</em></td><td><em>kom, komu, komst, komust, komum, komumst</em></td></tr>
-  <tr><td><tt><tt><a href="is_modern-feat-Mood.html">Mood</a></tt><tt>=Sub</tt></tt></td><td><em>komi, komist</em></td><td><em>kæmi, kæmist, kæmu, komum, kæmum, kæmust</em></td></tr>
-  <tr><td><tt><tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>komandi</em></td><td><em>komið, komin, kominn, komnir, komist, komnar</em></td></tr>
+  <tr><td><tt><tt><a href="is_modern-feat-Mood.html">Mood</a></tt><tt>=Ind</tt></tt></td><td><em>kemst, kemur, koma</em></td><td><em>komu</em></td></tr>
+  <tr><td><tt><tt><a href="is_modern-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="is_modern-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>kem</em></td><td><em>kom</em></td></tr>
+  <tr><td><tt><tt><a href="is_modern-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="is_modern-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td><em>kemst</em></td><td><em>komst</em></td></tr>
+  <tr><td><tt><tt><a href="is_modern-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="is_modern-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>kemur</em></td><td><em>kom</em></td></tr>
+  <tr><td><tt><tt><a href="is_modern-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="is_modern-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td><em>komist, kemst</em></td><td><em>komst</em></td></tr>
+  <tr><td><tt><tt><a href="is_modern-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="is_modern-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>komum</em></td><td><em>komum</em></td></tr>
+  <tr><td><tt><tt><a href="is_modern-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="is_modern-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td></td><td><em>komumst</em></td></tr>
+  <tr><td><tt><tt><a href="is_modern-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="is_modern-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>koma</em></td><td><em>komu</em></td></tr>
+  <tr><td><tt><tt><a href="is_modern-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="is_modern-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td><em>komast</em></td><td><em>komust</em></td></tr>
+  <tr><td><tt><tt><a href="is_modern-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="is_modern-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>komi</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="is_modern-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="is_modern-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>komi</em></td><td><em>kæmi</em></td></tr>
+  <tr><td><tt><tt><a href="is_modern-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="is_modern-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td><em>komist</em></td><td><em>kæmist</em></td></tr>
+  <tr><td><tt><tt><a href="is_modern-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="is_modern-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>kæmum</em></td></tr>
+  <tr><td><tt><tt><a href="is_modern-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="is_modern-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>komi, komum</em></td><td><em>kæmu</em></td></tr>
+  <tr><td><tt><tt><a href="is_modern-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="is_modern-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td><em>komist</em></td><td><em>kæmust</em></td></tr>
 </table>
 
 ### `AUX`
 
-9866 <tt><a href="is_modern-pos-AUX.html">AUX</a></tt> tokens (94% of all `AUX` tokens) have a non-empty value of `Tense`.
+4672 <tt><a href="is_modern-pos-AUX.html">AUX</a></tt> tokens (88% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (9220; 93%), <tt><a href="is_modern-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (7282; 74%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4600; 98%), <tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4600; 98%), <tt><a href="is_modern-feat-Person.html">Person</a></tt><tt>=3</tt> (3819; 82%), <tt><a href="is_modern-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3684; 79%), <tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3513; 75%).
 
 `AUX` tokens may have the following values of `Tense`:
 
-* `Past` (2472; 25% of non-empty `Tense`): <em>var, verið, væri, hefði, voru, mundi, gæti, hafði, haft, væru</em>
-* `Pres` (7394; 75% of non-empty `Tense`): <em>er, eru, sé, hefur, hafa, hafi, erum, vil, hef, höfum</em>
-* `EMPTY` (586): <em>vera, hafa, geta, verða, vilja</em>
+* `Past` (934; 20% of non-empty `Tense`): <em>var, væri, hefði, voru, mundi, gæti, hafði, væru, hefðu, vildi</em>
+* `Pres` (3738; 80% of non-empty `Tense`): <em>er, eru, sé, hefur, hafi, hafa, erum, vil, hef, má</em>
+* `EMPTY` (632): <em>verið, vera, hafa, haft, geta, verða, viljað, vilja, getað, mátt</em>
 
 <table>
   <tr><th>Paradigm <i>vera</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
-  <tr><td><tt><tt><a href="is_modern-feat-Mood.html">Mood</a></tt><tt>=Ind</tt></tt></td><td><em>er, eru, erum, e.</em></td><td><em>var, voru, vorum, varst</em></td></tr>
-  <tr><td><tt><tt><a href="is_modern-feat-Mood.html">Mood</a></tt><tt>=Sub</tt></tt></td><td><em>sé, séu, séum, séuð</em></td><td><em>væri, væru, værum</em></td></tr>
+  <tr><td><tt><tt><a href="is_modern-feat-Mood.html">Mood</a></tt><tt>=Ind</tt></tt></td><td><em>er, e., eru</em></td><td><em>var, voru</em></td></tr>
+  <tr><td><tt><tt><a href="is_modern-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="is_modern-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>er, sé</em></td><td><em>var</em></td></tr>
+  <tr><td><tt><tt><a href="is_modern-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="is_modern-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>varst</em></td></tr>
+  <tr><td><tt><tt><a href="is_modern-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="is_modern-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>er</em></td><td><em>var</em></td></tr>
+  <tr><td><tt><tt><a href="is_modern-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="is_modern-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>erum</em></td><td><em>vorum</em></td></tr>
+  <tr><td><tt><tt><a href="is_modern-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="is_modern-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>eru</em></td><td><em>voru</em></td></tr>
+  <tr><td><tt><tt><a href="is_modern-feat-Mood.html">Mood</a></tt><tt>=Sub</tt></tt></td><td><em>séu, sé</em></td><td><em>væri, væru</em></td></tr>
+  <tr><td><tt><tt><a href="is_modern-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="is_modern-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>sé</em></td><td><em>væri</em></td></tr>
+  <tr><td><tt><tt><a href="is_modern-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="is_modern-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>sé</em></td><td><em>væri</em></td></tr>
+  <tr><td><tt><tt><a href="is_modern-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="is_modern-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>séum</em></td><td><em>værum</em></td></tr>
+  <tr><td><tt><tt><a href="is_modern-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="is_modern-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>séuð</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="is_modern-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="is_modern-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>séu</em></td><td><em>væru</em></td></tr>
   <tr><td><tt><tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>verið</em></td></tr>
 </table>
 
 ### `ADV`
 
-28 <tt><a href="is_modern-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Tense`.
+14 <tt><a href="is_modern-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `ADV` and `Tense` co-occurred: <tt><a href="is_modern-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (28; 100%).
+The most frequent other feature values with which `ADV` and `Tense` co-occurred: <tt><a href="is_modern-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (14; 100%).
 
 `ADV` tokens may have the following values of `Tense`:
 
-* `Past` (2; 7% of non-empty `Tense`): <em>útfært</em>
-* `Pres` (26; 93% of non-empty `Tense`): <em>varðar, kunna, líkar, lýtur, tekur, telji, verður, viðkemur</em>
-* `EMPTY` (13746): <em>ekki, þá, svo, hér, bara, eins, þar, nú, þannig, mjög</em>
+* `Past` (1; 7% of non-empty `Tense`): <em>útfært</em>
+* `Pres` (13; 93% of non-empty `Tense`): <em>varðar, kunna, líkar, lýtur, tekur, telji, verður, viðkemur</em>
+* `EMPTY` (6946): <em>ekki, þá, svo, hér, bara, eins, þar, nú, þannig, mjög</em>
+
+### `NOUN`
+
+3 <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Tense`.
+
+The most frequent other feature values with which `NOUN` and `Tense` co-occurred: <tt><a href="is_modern-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="is_modern-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="is_modern-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 67%).
+
+`NOUN` tokens may have the following values of `Tense`:
+
+* `Pres` (3; 100% of non-empty `Tense`): <em>Innheimtu, bönnum, leiðir</em>
+* `EMPTY` (13642): <em>forseti, menn, þingmaður, mál, ráðherra, fólk, tíma, máli, m, frú</em>
+
+### `ADP`
+
+2 <tt><a href="is_modern-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Tense`.
+
+`ADP` tokens may have the following values of `Tense`:
+
+* `Pres` (2; 100% of non-empty `Tense`): <em>á</em>
+* `EMPTY` (10380): <em>í, á, til, um, með, fyrir, við, af, að, fram</em>
+
+### `SCONJ`
+
+1 <tt><a href="is_modern-pos-SCONJ.html">SCONJ</a></tt> tokens (0% of all `SCONJ` tokens) have a non-empty value of `Tense`.
+
+`SCONJ` tokens may have the following values of `Tense`:
+
+* `Pres` (1; 100% of non-empty `Tense`): <em>er</em>
+* `EMPTY` (3675): <em>að, sem, ef, þegar, hvort, nema, þó, þótt, er, og</em>
 
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="is_modern-dep-conj.html">conj</a></tt>]--> VERB</tt> (996; 64%),
-<tt>VERB --[<tt><a href="is_modern-dep-dep.html">dep</a></tt>]--> VERB</tt> (128; 50%),
-<tt>VERB --[<tt><a href="is_modern-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (50; 54%),
-<tt>VERB --[<tt><a href="is_modern-dep-obl.html">obl</a></tt>]--> AUX</tt> (32; 73%),
-<tt>AUX --[<tt><a href="is_modern-dep-conj.html">conj</a></tt>]--> VERB</tt> (14; 70%),
-<tt>VERB --[<tt><a href="is_modern-dep-amod.html">amod</a></tt>]--> VERB</tt> (10; 83%),
-<tt>VERB --[<tt><a href="is_modern-dep-dep.html">dep</a></tt>]--> AUX</tt> (10; 63%),
-<tt>AUX --[<tt><a href="is_modern-dep-dep.html">dep</a></tt>]--> VERB</tt> (8; 80%),
-<tt>AUX --[<tt><a href="is_modern-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (4; 67%),
-<tt>AUX --[<tt><a href="is_modern-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (4; 100%).
+<tt>VERB --[<tt><a href="is_modern-dep-conj.html">conj</a></tt>]--> VERB</tt> (387; 54%),
+<tt>AUX --[<tt><a href="is_modern-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 100%),
+<tt>VERB --[<tt><a href="is_modern-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (2; 100%),
+<tt>AUX --[<tt><a href="is_modern-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (1; 100%),
+<tt>AUX --[<tt><a href="is_modern-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (1; 100%).
 

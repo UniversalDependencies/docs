@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Amharic-ATT: POS Tags: `NUM`
 
 There are 17 `NUM` lemmas (1%), 17 `NUM` types (1%) and 40 `NUM` tokens (0%).
-Out of 15 observed tags, the rank of `NUM` is: 11 in number of lemmas, 11 in number of types and 15 in number of tokens.
+Out of 16 observed tags, the rank of `NUM` is: 11 in number of lemmas, 11 in number of types and 15 in number of tokens.
 
 The 10 most frequent `NUM` lemmas: አንድ, ሁለት, ሦስት, ብዙ, አስር, 1.85, መቶዎች, ስምንት, ሶስት, ሺህ
 
@@ -32,7 +32,7 @@ The 10 most frequent ambiguous types:  አንድ (<tt><a href="am_att-pos-NUM.ht
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.000000).
+The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.029841).
 
 The 1st highest number of forms (1) was observed with the lemma “1.85”: 1.85.
 

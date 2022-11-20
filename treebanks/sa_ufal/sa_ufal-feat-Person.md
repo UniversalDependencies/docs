@@ -96,6 +96,7 @@ The most frequent other feature values with which `ADJ` and `Person` co-occurred
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
+<tt>VERB --[<tt><a href="sa_ufal-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> PRON</tt> (2; 67%),
 <tt>ADJ --[<tt><a href="sa_ufal-dep-iobj.html">iobj</a></tt>]--> PRON</tt> (1; 100%),
 <tt>AUX --[<tt><a href="sa_ufal-dep-conj.html">conj</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="sa_ufal-dep-nsubj-cop.html">nsubj:cop</a></tt>]--> DET</tt> (1; 100%),

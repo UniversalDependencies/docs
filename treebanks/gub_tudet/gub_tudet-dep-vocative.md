@@ -25,7 +25,7 @@ The following 3 pairs of parts of speech are connected with `vocative`: <tt><a h
 1	Hemurɨpar	urɨw	NOUN	n	Nomzr=Circ|Number=Sing|Person[psor]=1|Poss=Yes|Voice=Cau	2	vocative	_	_
 2	nerehokwaw	ho	VERB	vi	Number=Sing|Person[subj]=2|Polarity=Neg	5	ccomp	_	_
 3	mɨnɨkawpe	mɨnɨk	NOUN	n	Case=Loc|Nomzr=Circ	2	obl	_	_
-4	tɨ	tɨ	PART	pcl	_	2	discourse	_	_
+4	tɨ	tɨ	PART	pcl	Speech=MM	2	discourse	_	_
 5	iʔi	ʔi	NOUN	n	Rel=NCont	0	root	_	_
 6	zekwehe	kwehe	ADV	adv	Evident=Nfh	5	advmod	_	_
 7	izupe	upe	ADP	posp	Rel=NCont	5	iobj	_	_
@@ -59,10 +59,10 @@ The following 3 pairs of parts of speech are connected with `vocative`: <tt><a h
 3	kunumi	kunumi	NOUN	n	_	2	vocative	_	_
 4	,	,	PUNCT	punct	_	2	punct	_	_
 5	iʔi	ʔi	NOUN	n	Rel=NCont	0	root	_	_
-6	zekaipo	kwehe	ADV	adv	Evident=Nfh	5	advmod	_	_
+6	zekaipo	kwehe	ADV	adv	Evident=Nfh|Int=Yes	5	advmod	_	_
 7	zakare	zakare	NOUN	n	_	5	nmod	_	_
 8	kwarerpe	kwarer	NOUN	n	Case=Dat	5	obl	_	_
-9	aʔe	aʔe	PRON	pro	Person=3|PronType=Dem	5	discourse	_	_
+9	aʔe	aʔe	PRON	pro	PronType=Dem	5	discourse	_	_
 10	kurɨ	kurɨ	PART	pcl	_	5	discourse	_	_
 11	.	.	PUNCT	punct	_	5	punct	_	_
 

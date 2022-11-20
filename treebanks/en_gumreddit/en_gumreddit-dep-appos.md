@@ -33,11 +33,11 @@ The following 10 pairs of parts of speech are connected with `appos`: <tt><a hre
 9	_	_	NOUN	NN	Number=Sing	7	nmod	7:nmod:of	Lem=_|Len=5
 10	_	_	PRON	WDT	PronType=Rel	11	nsubj	7:ref	Discourse=elaboration-attribute:99->98:0|Lem=_|Len=4
 11	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	7:acl:relcl	Lem=mean|Len=5
-12	_	_	NOUN	NN	Number=Sing|Polarity=Neg	11	obj	11:obj	Entity=(91-abstract-new-cf3-1-sgl|Lem=_|Len=7
+12	_	_	PRON	NN	Number=Sing|Polarity=Neg|PronType=Neg	11	obj	11:obj	Entity=(91-abstract-new-cf3-1-sgl|Lem=_|Len=7
 13	_	_	ADP	IN	_	14	case	14:case	Discourse=adversative-antithesis:100->99:0|Lem=_|Len=6
 14	_	_	PRON	WP	PronType=Rel	12	nmod	7:ref	Lem=_|Len=4
 15	_	_	DET	DT	Definite=Def|PronType=Art	16	det	16:det	Discourse=attribution-positive:101->102:0|Entity=(23-organization-giv:inact-cf2-2-coref|Lem=_|Len=3
-16	_	_	NOUN	NN	Number=Sing	17	nsubj	17:nsubj	CorrectForm=government|Entity=23)|Lem=government|Len=5|XML=<sic ana:::"government"></sic>
+16	_	_	NOUN	NN	Number=Sing|Typo=Yes	17	nsubj	17:nsubj	CorrectForm=government|Entity=23)|Lem=government|Len=5|XML=<sic ana:::"government"></sic>
 17	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	acl:relcl	14:acl:relcl	Lem=say|Len=4
 18	_	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	19	nsubj	19:nsubj	Discourse=same-unit_m:102->100:0|Entity=(16-abstract-giv:act-cf1-1-ana)|Lem=_|Len=2
 19	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	ccomp	17:ccomp	Entity=91)16)|Lem=mean|Len=5|SpaceAfter=No

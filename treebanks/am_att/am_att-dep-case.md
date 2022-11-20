@@ -26,14 +26,14 @@ The following 18 pairs of parts of speech are connected with `case`: <tt><a href
 2	ኡ	ኡ	DET	DET	_	1	det	_	Translit='u|LTranslit='u
 3	ን	ን	PART	ACC	_	1	case	_	Translit=nə|LTranslit=nə
 4	ጠርተ	ጠርተ	VERB	VERB	VerbForm=Conv	11	compound:svc	_	Translit=ţärətä|LTranslit=ţärətä
-5	ህ	ህ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=2	4	nsubj	_	Translit=hə|LTranslit=hə
+5	ህ	አንተ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	LTranslit='änətä|Translit=hə
 6	እህል	እህል	NOUN	NOUN	_	11	obj	_	Translit='əhələ|LTranslit='əhələ
 7	ኡ	ኡ	DET	DET	_	6	det	_	Translit='u|LTranslit='u
 8	ን	ን	PART	ACC	_	6	case	_	Translit=nə|LTranslit=nə
 9	እ	እ	ADP	ADP	Case=Loc	10	case	_	Translit='ə|LTranslit='ə
 10	ጎተራ	ጎተራ	NOUN	NOUN	_	11	obl	_	Translit=gotära|LTranslit=gotära
-11	አስገባ	አስገባ	VERB	VERB	Voice=Cau	0	root	_	Translit='äsəgäba|LTranslit='äsəgäba
-12	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	11	expl	_	Translit='ă|LTranslit='ă
+11	አስገባ	አስገባ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Cau	0	root	_	Translit='äsəgäba|LTranslit='äsəgäba
+12	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	expl	_	LTranslit='əsu|Translit='ă
 13	።	።	PUNCT	PUNCT	_	11	punct	_	Translit=.|LTranslit=.
 
 ~~~
@@ -48,9 +48,9 @@ The following 18 pairs of parts of speech are connected with `case`: <tt><a href
 1	መጽሐፍ	መጽሐፍ	NOUN	NOUN	_	4	obj	_	Translit=mäcəħäfə|LTranslit=mäcəħäfə
 2	ኡ	ኡ	DET	DET	_	1	det	_	Translit='u|LTranslit='u
 3	ን	ን	PART	ACC	_	1	case	_	Translit=nə|LTranslit=nə
-4	አስያዝ	አስያዝ	VERB	VERB	Voice=Cau	0	root	_	Translit='äsəjazə|LTranslit='äsəjazə
-5	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	4	nsubj	_	Translit='ă|LTranslit='ă
-6	ኣት	ኣት	PRON	OBJC	Gender=Fem|Number=Sing|Person=3	4	iobj	_	Translit='atə|LTranslit='atə
+4	አስያዝ	አስያዝ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Cau	0	root	_	Translit='äsəjazə|LTranslit='äsəjazə
+5	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	LTranslit='əsu|Translit='ă
+6	ኣት	እሱ	PRON	OBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	iobj	_	LTranslit='əsu|Translit='atə
 7	።	።	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=.
 
 ~~~
@@ -69,18 +69,18 @@ The following 18 pairs of parts of speech are connected with `case`: <tt><a href
 5	ማድረግ	ማድረግ	NOUN	NOUN	VerbForm=Vnoun	9	obl	_	Translit=madərägə|LTranslit=madərägə
 6	የ	የ	PART	RLP	_	9	mark	_	Translit=jä|LTranslit=jä
 7	እም	እም	PART	IRLP	_	9	mark	_	Translit='əmə|LTranslit='əmə
-8	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	9	expl	_	Translit=jə|LTranslit=jə
-9	ችል	ችል	VERB	VERB	_	13	acl	_	Translit=čələ|LTranslit=čələ
+8	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	expl	_	LTranslit='əsu|Translit=jə
+9	ችል	ችል	VERB	VERB	Mood=Ind|VerbForm=Fin	13	acl	_	Translit=čələ|LTranslit=čələ
 10	በ	በ	ADP	ADP	_	9	case	_	Translit=bä|LTranslit=bä
-11	ት	ት	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3	9	nsubj	_	Translit=tə|LTranslit=tə
+11	ት	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	LTranslit='əsu|Translit=tə
 12	ን	ን	PART	ACC	_	9	case	_	Translit=nə|LTranslit=nə
 13	ዘዴ	ዘዴ	NOUN	NOUN	_	15	obj	_	Translit=zäde|LTranslit=zäde
 14	ብ	ብ	ADP	ADP	_	15	mark	_	Translit=bə|LTranslit=bə
-15	ኣገኝ	ኣገኝ	VERB	VERB	_	16	advcl	_	Translit='agäňə|LTranslit='agäňə
-16	ብል	ብል	VERB	VERB	_	18	advcl	_	Translit=bələ|LTranslit=bələ
-17	ኦ	ኦ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	16	expl	_	Translit='o|LTranslit='o
-18	ተመኝ	ተመኝ	VERB	VERB	Voice=Pass	0	root	_	Translit=tämäňə|LTranslit=tämäňə
-19	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	18	nsubj	_	Translit='ă|LTranslit='ă
+15	ኣገኝ	ኣገኝ	VERB	VERB	Mood=Ind|VerbForm=Fin	16	advcl	_	Translit='agäňə|LTranslit='agäňə
+16	ብል	ብል	VERB	VERB	Mood=Ind|VerbForm=Fin	18	advcl	_	Translit=bələ|LTranslit=bələ
+17	ኦ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	expl	_	LTranslit='əsu|Translit='o
+18	ተመኝ	ተመኝ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Pass	0	root	_	Translit=tämäňə|LTranslit=tämäňə
+19	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	LTranslit='əsu|Translit='ă
 20	።	።	PUNCT	PUNCT	_	18	punct	_	Translit=.|LTranslit=.
 
 ~~~

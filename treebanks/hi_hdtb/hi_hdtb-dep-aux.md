@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="hi_hdtb-dep-aux-pass.html">aux:pass</a></tt>.
 
-11419 nodes (3%) are attached to their parents as `aux`.
+9624 nodes (3%) are attached to their parents as `aux`.
 
-11405 instances of `aux` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.00919520098082.
+9624 instances of `aux` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.00945552784705.
 
-The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (11403; 100% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt>-<tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt>-<tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt>-<tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_hdtb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 2 pairs of parts of speech are connected with `aux`: <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (9623; 100% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt>-<tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -43,65 +43,26 @@ The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 10 aux	color:blue
-1	सरकार	सरकार	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	21	nsubj	_	Vib=0_ने|Tam=0|ChunkId=NP|ChunkType=head|Translit=sarakāra
-2	ने	ने	ADP	PSP	AdpType=Post	1	case	_	ChunkId=NP|ChunkType=child|Translit=ne
-3	गोधरा	गोधरा	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nmod	_	Vib=0|Tam=0|ChunkId=NP2|ChunkType=child|Translit=godharā
-4	ट्रेन	ट्रेन	NOUN	NNC	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	compound	_	Vib=0|Tam=0|ChunkId=NP2|ChunkType=child|Translit=ṭrena
-5	कांड	कांड	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	7	nmod	_	Vib=0_का|Tam=0|ChunkId=NP2|ChunkType=head|Translit=kāṁḍa
-6	की	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Fem|Number=Sing	5	case	_	ChunkId=NP2|ChunkType=child|Translit=kī
-7	जांच	जांच	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	compound	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=head|Translit=jāṁca
-8	कर	कर	VERB	VM	Number=Sing	12	acl	_	Vib=0_रह+या|Tam=0|ChunkId=VGNF|ChunkType=head|Translit=kara
-9	रही	रह	AUX	VAUX	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	8	aux	_	Vib=या|Tam=yA|ChunkId=VGNF|ChunkType=child|Translit=rahī
-10	उच्च	उच्च	ADJ	JJC	_	11	aux	_	ChunkId=NP4|ChunkType=child|Translit=ucca
-11	स्तरीय	स्तरीय	ADJ	JJ	Case=Acc	12	amod	_	ChunkId=NP4|ChunkType=child|Translit=starīya
-12	समिति	समिति	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	14	nmod	_	Vib=0_का|Tam=0|ChunkId=NP4|ChunkType=head|Translit=samiti
-13	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	12	case	_	ChunkId=NP4|ChunkType=child|Translit=ke
-14	कार्यकाल	कार्यकाल	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	18	obj	_	Vib=0_को|Tam=0|ChunkId=NP5|ChunkType=head|Translit=kāryakāla
-15	को	को	ADP	PSP	AdpType=Post	14	case	_	ChunkId=NP5|ChunkType=child|Translit=ko
-16	तीन	तीन	NUM	QC	NumType=Card	17	nummod	_	ChunkId=NP6|ChunkType=child|Translit=tīna
-17	माह	माह	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	18	obl	_	Vib=0|Tam=0|ChunkId=NP6|ChunkType=head|Translit=māha
-18	बढ़ाने	बढ़ा	VERB	VM	Case=Acc|Number=Sing|VerbForm=Inf	20	nmod	_	Vib=ना_का|Tam=nA|ChunkId=VGNN|ChunkType=head|Translit=baṛhāne
-19	का	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing	18	mark	_	ChunkId=VGNN|ChunkType=child|Translit=kā
-20	फैसला	फैसला	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	21	compound	_	Vib=0|Tam=0|ChunkId=NP7|ChunkType=head|Translit=phaisalā
-21	किया	कर	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act	0	root	_	ChunkId=VGF|ChunkType=head|Stype=declarative|Tam=yA|Translit=kiyā|Vib=या_है
-22	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	aux	_	Vib=है|Tam=hE|ChunkId=VGF|ChunkType=child|Translit=hai
-23	।	।	PUNCT	SYM	_	21	punct	_	ChunkId=BLK|ChunkType=head|Translit=.
-
-~~~
-
-
-~~~ conllu
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 17 16 aux	color:blue
-1	सरकार	सरकार	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	19	nsubj	_	Vib=0_ने|Tam=0|ChunkId=NP|ChunkType=head|Translit=sarakāra
-2	ने	ने	ADP	PSP	AdpType=Post	1	case	_	ChunkId=NP|ChunkType=child|Translit=ne
-3	पिछले	पिछला	ADJ	JJ	Case=Acc|Gender=Masc|Number=Sing	4	amod	_	ChunkId=NP2|ChunkType=child|Translit=pichale
-4	साल	साल	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	8	nmod	_	Vib=0_का|Tam=0|ChunkId=NP2|ChunkType=head|Translit=sāla
-5	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	4	case	_	ChunkId=NP2|ChunkType=child|Translit=ke
-6	१६,९०६	१६९०६	NUM	QCC	NumType=Card	7	case	_	ChunkId=NP3|ChunkType=child|Translit=16,906
-7	करोड़	करोड	NUM	QC	NumType=Card	8	nummod	_	ChunkId=NP3|ChunkType=child|Translit=karoṛa
-8	रुपये	रुपया	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	11	nmod	_	Vib=0_का|Tam=0|ChunkId=NP3|ChunkType=head|Translit=rupaye
-9	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	8	case	_	ChunkId=NP3|ChunkType=child|Translit=ke
-10	पूँजी	पूँजी	NOUN	NNC	Case=Nom|Gender=Fem|Number=Sing|Person=3	11	compound	_	Vib=0|Tam=0|ChunkId=NP4|ChunkType=child|Translit=pūm̃jī
-11	प्रावधान	प्रावधान	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	14	obj	_	Vib=0_को|Tam=0|ChunkId=NP4|ChunkType=head|Translit=prāvadhāna
-12	को	को	ADP	PSP	AdpType=Post	11	case	_	ChunkId=NP4|ChunkType=child|Translit=ko
-13	दोगुना	दोगुना	ADJ	QF	Gender=Masc|Number=Sing	14	compound	_	ChunkId=JJP|ChunkType=head|Translit=dogunā
-14	करते	कर	VERB	VM	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	19	advcl	_	Vib=ता_हो+या|Tam=wA|ChunkId=VGNF|ChunkType=head|Translit=karate
-15	हुए	हो	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	14	aux	_	Vib=या|Tam=yA|ChunkId=VGNF|ChunkType=child|Translit=hue
-16	३३,४८२	३३४८२	NUM	QCC	NumType=Card	17	aux	_	ChunkId=NP5|ChunkType=child|Translit=33,482
-17	करोड़	करोड	NUM	QC	NumType=Card	18	nummod	_	ChunkId=NP5|ChunkType=child|Translit=karoṛa
-18	रुपये	रुपया	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	19	obj	_	Vib=0|Tam=0|ChunkId=NP5|ChunkType=head|Translit=rupaye
-19	किया	कर	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act	0	root	_	ChunkId=VGF|ChunkType=head|Stype=declarative|Tam=yA|Translit=kiyā|Vib=या_है
-20	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	Vib=है|Tam=hE|ChunkId=VGF|ChunkType=child|Translit=hai
-21	।	।	PUNCT	SYM	_	19	punct	_	ChunkId=BLK|ChunkType=head|Translit=.
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 13 aux	color:blue
+1	इसलिए	इसलिये	PRON	PRP	PronType=Prs	0	root	_	ChunkId=NP|ChunkType=head|Translit=isalie
+2	अगर	अगर	SCONJ	CC	_	8	mark	_	AltTag=SCONJ-CONJ|ChunkId=CCP|ChunkType=head|Translit=agara
+3	दोनों	दो	NUM	QC	Number=Plur|NumType=Card	4	nummod	_	ChunkId=NP2|ChunkType=child|Translit=donoṁ
+4	देश	देश	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	1	nsubj	_	Vib=0|Tam=0|ChunkId=NP2|ChunkType=head|Translit=deśa
+5	मिल	मिल	VERB	VM	_	8	advcl	_	Vib=0_कर|Tam=0|ChunkId=VGNF|ChunkType=head|Translit=mila
+6	कर	कर	AUX	VAUX	_	5	aux	_	Vib=0|Tam=0|ChunkId=VGNF|ChunkType=child|Translit=kara
+7	काम	काम	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	obj	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=head|Translit=kāma
+8	करें	कर	VERB	VM	Mood=Sub|Number=Plur|Person=3|VerbForm=Fin|Voice=Act	1	advcl	_	ChunkId=VGF|ChunkType=head|Stype=declarative|Tam=eM|Translit=kareṁ|Vib=एं
+9	तो	तो	SCONJ	CC	_	1	mark	_	AltTag=SCONJ-CONJ|ChunkId=CCP2|ChunkType=head|Translit=to
+10	बहुत	बहुत	DET	QF	PronType=Ind	11	det	_	ChunkId=NP4|ChunkType=child|Translit=bahuta
+11	आगे	आगे	ADV	NST	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing|Person=3	12	obl	_	AltTag=ADV-NOUN|ChunkId=NP4|ChunkType=head|Translit=āge
+12	जा	जा	VERB	VM	Gender=Masc|Number=Plur|Person=3|Voice=Act	1	mark	_	ChunkId=VGF2|ChunkType=head|Stype=declarative|Tam=0|Translit=jā|Vib=0_सक+ता_है
+13	सकते	सक	AUX	VAUX	Aspect=Imp|Gender=Masc|Number=Plur|VerbForm=Part	1	aux	_	Vib=ता|Tam=wA|ChunkId=VGF2|ChunkType=child|Translit=sakate
+14	हैं	है	AUX	VAUX	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	aux:pass	_	Vib=है|Tam=hE|ChunkId=VGF2|ChunkType=child|Translit=haiṁ
+15	।	।	PUNCT	SYM	_	1	punct	_	ChunkId=BLK|ChunkType=head|Translit=.
 
 ~~~
 

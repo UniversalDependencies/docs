@@ -29,7 +29,7 @@ udver: '2'
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 5039 sentences, 103388 tokens and 140949 syntactic words.</li>
+      <li>This corpus contains 5039 sentences, 103390 tokens and 140950 syntactic words.</li>
       </ul>
     </td>
   </tr>
@@ -78,8 +78,8 @@ udver: '2'
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 34687 multi-word tokens. On average, one multi-word token consists of 2.08 syntactic words.</li>
-      <li>There are 13069 types of multi-word tokens. Examples: המשפט, בשנת, העליון, הראשון, בו, בישראל, בבית, הוועדה, הבנקים, הכנסת, באופן, המדינה, באותה, בשם, המנדט, במהלך, הכנסייה, האלבום, מסוג, היהודי, וכן, השיר, בדם, הברית, בארץ, הקבר, הממשלה, החוק, העולם, שלא, באזור, בה, ושומרון, הבריטי, המאה, שבו, ולא, הארץ, שלו, אותו, הבנק, הבריטים, החולים, הראשונה, השופט, לכך, באלבום, בסוף, ועל, לו.</li>
+      <li>This corpus contains 34686 multi-word tokens. On average, one multi-word token consists of 2.08 syntactic words.</li>
+      <li>There are 13067 types of multi-word tokens. Examples: המשפט, בשנת, העליון, הראשון, בו, בישראל, בבית, הוועדה, הבנקים, הכנסת, באופן, המדינה, באותה, בשם, המנדט, במהלך, הכנסייה, האלבום, מסוג, היהודי, וכן, השיר, בדם, הברית, בארץ, הקבר, הממשלה, החוק, העולם, שלא, באזור, בה, ושומרון, הבריטי, המאה, שבו, ולא, הארץ, שלו, אותו, הבנק, הבריטים, החולים, הראשונה, השופט, לכך, באלבום, בסוף, ועל, לו.</li>
       </ul>
     </td>
   </tr>
@@ -123,7 +123,7 @@ udver: '2'
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 34 lemmas tagged as pronouns (PRON): You, Your, ַזֶּה, אותה, אותו, איזה, אילו, אלה, אנוכי, דם, דנן, ה, הוא, הלה, הללו, ו, זה, זהו, כולו, כך, כלשהו, כמה, כן, לה, מה, מי, מישהו, משהו, נאום, ספר, עלי, עצמו, ערך, רובן</li>
+      <li>This corpus contains 33 lemmas tagged as pronouns (PRON): You, Your, ַזֶּה, אותה, אותו, איזה, אילו, אלה, אנוכי, דם, דנן, ה, הוא, הלה, הללו, ו, זה, זהו, כולו, כך, כלשהו, כמה, כן, לה, מה, מי, מישהו, משהו, נאום, ספר, עלי, עצמו, ערך</li>
       </ul>
     </td>
   </tr>
@@ -877,7 +877,7 @@ udver: '2'
             <li>AUX-Part: יכולה, יכולים, מוכנה, צפויה</li>
             <li>VERB: ניתן, כולל, מדובר, מהווה, מכונה, נמצא, נראה, עולה, גורם, נמצאים</li>
             <li>VERB-Inf: נוגע</li>
-            <li>VERB-Part: כולל, ניתן, מדובר, מהווה, מכונה, נמצא, נראה, עולה, גורם, נמצאים</li>
+            <li>VERB-Part: ניתן, כולל, מדובר, מהווה, מכונה, נמצא, נראה, עולה, גורם, נמצאים</li>
           </ul>
         </li>
       </ul>
@@ -1285,7 +1285,7 @@ udver: '2'
           <ul>
             <li>AUX: אינך</li>
             <li>PRON: ך, אתה, את, ה, ךָ, כם, עצמך</li>
-            <li>VERB: סע, ראו, נחתם, ניתן, באת, צא, בוכה, הכניסי, ירשת, נתן</li>
+            <li>VERB: סע, ראו, נחתם, באת, צא, בוכה, הכניסי, ירשת, נתן, עוף</li>
             <li>VERB-Part: בוכה, דורכת, הולכת, יודעת, יכולה, מופקדת, מורכבת, עושה, קם</li>
           </ul>
         </li>
@@ -1313,7 +1313,7 @@ udver: '2'
             <li>AUX: היה, היו, הייתה, אינו, אינם, אינה, יהיה, יכול, תהיה, יהיו</li>
             <li>AUX-Part: יכול, יכולה, אינה, אינו, אינם, יכולים, מוכנה, צפויה, תוכל</li>
             <li>PRON: ו, ה, הם, ם, הוא, זה, היא, זו, הן, זאת</li>
-            <li>VERB: כתב, ניתן, הלחין, יצא, זכה, החל, היו, החלו, כולל, כלל</li>
+            <li>VERB: ניתן, כתב, הלחין, יצא, זכה, החל, היו, החלו, כולל, כלל</li>
             <li>VERB-Inf: נוגע</li>
             <li>VERB-Part: ניתן, כולל, מדובר, מהווה, מכונה, נמצא, נראה, עולה, גורם, נמצאים</li>
           </ul>
@@ -1506,8 +1506,10 @@ udver: '2'
             </li>
             <li>PAAL
               <ul>
-                <li>VERB: כתב, יצא, זכה, כולל, כלל, היו, שר, אמר, טען, היה</li>
-                <li>VERB-Inf: לגרום, למנוע, ליצור, לתת, למצוא, לדון, לעמוד, לעשות, לכתוב, לפגוע</li>
+                <li>AUX: היה, היו, הייתה, להיות, יהיה, תהיה, הייתי, יהיו, היות, תהא</li>
+                <li>AUX-Inf: להיות</li>
+                <li>VERB: כתב, יצא, זכה, היו, כולל, כלל, היה, שר, אמר, טען</li>
+                <li>VERB-Inf: לגרום, למנוע, ליצור, לתת, למצוא, לדון, להיות, לעמוד, לעשות, לכתוב</li>
                 <li>VERB-Part: כולל, עולה, גורם, כוללים, סובלים, פוגע, גורמת, טוענים, קובע, חוזר</li>
               </ul>
             </li>
@@ -1718,14 +1720,14 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN (2288)</li>
+            <li>VERB--NOUN (2265)</li>
             <li>VERB--NOUN-ADP(מ) (1)</li>
             <li>VERB--NOUN-ADP(משום) (1)</li>
-            <li>VERB--PRON (219)</li>
-            <li>VERB-Inf--NOUN (135)</li>
+            <li>VERB--PRON (217)</li>
+            <li>VERB-Inf--NOUN (115)</li>
             <li>VERB-Inf--PRON (19)</li>
-            <li>VERB-Part--NOUN (843)</li>
-            <li>VERB-Part--PRON (163)</li>
+            <li>VERB-Part--NOUN (820)</li>
+            <li>VERB-Part--PRON (159)</li>
           </ul>
         </li>
       </ul>
@@ -1852,7 +1854,7 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 9 relation subtypes: <a>acl:relcl</a>, <a>compound:affix</a>, <a>csubj:pass</a>, <a>nmod:npmod</a>, <a>nmod:poss</a>, <a>nmod:tmod</a>, <a>nsubj:pass</a>, <a>obl:npmod</a>, <a>obl:tmod</a></li>
+      <li>This corpus uses 11 relation subtypes: <a>acl:relcl</a>, <a>compound:affix</a>, <a>csubj:outer</a>, <a>csubj:pass</a>, <a>nmod:npmod</a>, <a>nmod:poss</a>, <a>nmod:tmod</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:npmod</a>, <a>obl:tmod</a></li>
       <li>The following 2 relation types are not used in this corpus at all: <a>iobj</a>, <a>clf</a></li>
       </ul>
     </td>

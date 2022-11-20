@@ -13,7 +13,7 @@ The 10 most frequent `SYM` lemmas: <em>_</em>
 
 The 10 most frequent `SYM` types:  <em>%, $, &, ~</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt> 32806, <tt><a href="pt_gsd-pos-ADP.html">ADP</a></tt> 9506, <tt><a href="pt_gsd-pos-NUM.html">NUM</a></tt> 8462, <tt><a href="pt_gsd-pos-PRON.html">PRON</a></tt> 7364, <tt><a href="pt_gsd-pos-DET.html">DET</a></tt> 4461, <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> 3563, <tt><a href="pt_gsd-pos-AUX.html">AUX</a></tt> 2298, <tt><a href="pt_gsd-pos-CCONJ.html">CCONJ</a></tt> 1840, <tt><a href="pt_gsd-pos-PUNCT.html">PUNCT</a></tt> 1596, <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt> 1247, <tt><a href="pt_gsd-pos-SYM.html">SYM</a></tt> 1008, <tt><a href="pt_gsd-pos-PART.html">PART</a></tt> 746, <tt><a href="pt_gsd-pos-ADJ.html">ADJ</a></tt> 703, <tt><a href="pt_gsd-pos-X.html">X</a></tt> 526, <tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt> 231, <tt><a href="pt_gsd-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt> 32793, <tt><a href="pt_gsd-pos-ADP.html">ADP</a></tt> 9503, <tt><a href="pt_gsd-pos-PRON.html">PRON</a></tt> 7363, <tt><a href="pt_gsd-pos-DET.html">DET</a></tt> 4460, <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> 3563, <tt><a href="pt_gsd-pos-NUM.html">NUM</a></tt> 2792, <tt><a href="pt_gsd-pos-AUX.html">AUX</a></tt> 2298, <tt><a href="pt_gsd-pos-CCONJ.html">CCONJ</a></tt> 1840, <tt><a href="pt_gsd-pos-PUNCT.html">PUNCT</a></tt> 1595, <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt> 1247, <tt><a href="pt_gsd-pos-SYM.html">SYM</a></tt> 1008, <tt><a href="pt_gsd-pos-PART.html">PART</a></tt> 747, <tt><a href="pt_gsd-pos-ADJ.html">ADJ</a></tt> 703, <tt><a href="pt_gsd-pos-X.html">X</a></tt> 526, <tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt> 231, <tt><a href="pt_gsd-pos-SCONJ.html">SCONJ</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>&</em> (<tt><a href="pt_gsd-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="pt_gsd-pos-SYM.html">SYM</a></tt> 1)
 
@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>&</em> (<tt><a href="pt_gsd-pos-CCONJ
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 4.000000 (the average of all parts of speech is 3.372737).
+The form / lemma ratio of `SYM` is 4.000000 (the average of all parts of speech is 3.034474).
 
 The 1st highest number of forms (4) was observed with the lemma “_”: <em>$, %, &, ~</em>.
 

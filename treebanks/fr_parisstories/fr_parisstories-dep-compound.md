@@ -8,26 +8,25 @@ udver: '2'
 
 This relation is universal.
 
-13 nodes (0%) are attached to their parents as `compound`.
+14 nodes (0%) are attached to their parents as `compound`.
 
-13 instances of `compound` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.
+14 instances of `compound` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.07142857142857.
 
-The following 4 pairs of parts of speech are connected with `compound`: <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (4; 31% instances), <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (3; 23% instances), <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> (3; 23% instances), <tt><a href="fr_parisstories-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_parisstories-pos-PROPN.html">PROPN</a></tt> (3; 23% instances).
+The following 4 pairs of parts of speech are connected with `compound`: <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (5; 36% instances), <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (3; 21% instances), <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> (3; 21% instances), <tt><a href="fr_parisstories-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_parisstories-pos-PROPN.html">PROPN</a></tt> (3; 21% instances).
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 5 compound	color:blue
-1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	nsubj	_	_
-2	faisait	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
-3	des	des	DET	_	Definite=Ind|Number=Plur|PronType=Art	4	det	_	_
-4	shootings	shootings	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
-5	photos	photo	NOUN	_	Gender=Fem|Number=Plur	4	compound	_	SpaceAfter=No
-6	.	.	PUNCT	_	_	2	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 compound	color:blue
+1	dans	dans	ADP	_	_	3	case	_	AlignBegin=84155|AlignEnd=84447
+2	ses	son	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	3	det	_	AlignBegin=84447|AlignEnd=84739
+3	albums	album	NOUN	_	Gender=Masc|Number=Plur	0	root	_	AlignBegin=84739|AlignEnd=85032
+4	photos	photo	NOUN	_	Gender=Fem|Number=Plur	3	compound	_	AlignBegin=85032|AlignEnd=85324|SpaceAfter=No
+5	.	.	PUNCT	_	_	3	punct	_	AlignBegin=84250|AlignEnd=84250
 
 ~~~
 
@@ -49,7 +48,7 @@ The following 4 pairs of parts of speech are connected with `compound`: <tt><a h
 9	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
 10	commence	commencer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 11	à	à	ADP	_	_	12	mark	_	_
-12	aller	aller	VERB	_	VerbForm=Inf	10	xcomp	_	_
+12	aller	aller	VERB	_	VerbForm=Inf	10	xcomp	_	Subject=SubjRaising
 13	à	à	ADP	_	_	15	case	_	_
 14	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 15	salle	salle	NOUN	_	Gender=Fem|Number=Sing	12	obl:arg	_	_
@@ -59,7 +58,7 @@ The following 4 pairs of parts of speech are connected with `compound`: <tt><a h
 19	donc	donc	ADV	_	_	22	discourse	_	SpaceAfter=No
 20	,	,	PUNCT	_	_	19	punct	_	_
 21	à	à	ADP	_	_	22	mark	_	_
-22	prendre	prendre	VERB	_	VerbForm=Inf	12	conj	_	_
+22	prendre	prendre	VERB	_	VerbForm=Inf	12	conj	_	Subject=SubjRaising
 23	mes	son	DET	_	Number[psor]=Plur|Person[psor]=1|PronType=Prs	24	det	_	_
 24	marques	marque	NOUN	_	Gender=Fem|Number=Plur	22	obj	_	_
 25	etc	etc	ADV	_	_	24	conj	_	SpaceAfter=No|wordform=etcétéra
@@ -85,7 +84,7 @@ The following 4 pairs of parts of speech are connected with `compound`: <tt><a h
 9	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
 10	commence	commencer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 11	à	à	ADP	_	_	12	mark	_	_
-12	aller	aller	VERB	_	VerbForm=Inf	10	xcomp	_	_
+12	aller	aller	VERB	_	VerbForm=Inf	10	xcomp	_	Subject=SubjRaising
 13	à	à	ADP	_	_	15	case	_	_
 14	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 15	salle	salle	NOUN	_	Gender=Fem|Number=Sing	12	obl:arg	_	_
@@ -95,7 +94,7 @@ The following 4 pairs of parts of speech are connected with `compound`: <tt><a h
 19	donc	donc	ADV	_	_	22	discourse	_	SpaceAfter=No
 20	,	,	PUNCT	_	_	19	punct	_	_
 21	à	à	ADP	_	_	22	mark	_	_
-22	prendre	prendre	VERB	_	VerbForm=Inf	12	conj	_	_
+22	prendre	prendre	VERB	_	VerbForm=Inf	12	conj	_	Subject=SubjRaising
 23	mes	son	DET	_	Number[psor]=Plur|Person[psor]=1|PronType=Prs	24	det	_	_
 24	marques	marque	NOUN	_	Gender=Fem|Number=Plur	22	obj	_	_
 25	etc	etc	ADV	_	_	24	conj	_	SpaceAfter=No|wordform=etcétéra

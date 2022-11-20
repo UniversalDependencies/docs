@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Arabic-PUD: POS Tags: `NUM`
 
-There are 203 `NUM` lemmas (4%), 217 `NUM` types (3%) and 371 `NUM` tokens (2%).
+There are 217 `NUM` lemmas (4%), 217 `NUM` types (3%) and 371 `NUM` tokens (2%).
 Out of 16 observed tags, the rank of `NUM` is: 5 in number of lemmas, 5 in number of types and 11 in number of tokens.
 
-The 10 most frequent `NUM` lemmas: valAv_1، Ea$ar_1، miloyuwn_1، 10_0، 1_0، >arobaE_1، miloyAr_1، xamos_1، 2014_0، 2015_0
+The 10 most frequent `NUM` lemmas: 1، 10، عشر، ثلاث، مليون، 3، 2014، 2015، أربعة، عشرة
 
 The 10 most frequent `NUM` types:  1، 10، عشر، ثلاث، مليون، 3، 2014، 2015، أربعة، عشرة
 
-The 10 most frequent ambiguous lemmas: Ea$ar_1 (<tt><a href="ar_pud-pos-NUM.html">NUM</a></tt> 12, <tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> 1), miloyuwn_1 (<tt><a href="ar_pud-pos-NUM.html">NUM</a></tt> 12, <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> 2), miloyAr_1 (<tt><a href="ar_pud-pos-NUM.html">NUM</a></tt> 7, <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> 1), sit~_1 (<tt><a href="ar_pud-pos-NUM.html">NUM</a></tt> 5, <tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="ar_pud-pos-PROPN.html">PROPN</a></tt> 1), >alof_1 (<tt><a href="ar_pud-pos-NUM.html">NUM</a></tt> 4, <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="ar_pud-pos-PROPN.html">PROPN</a></tt> 1), saboE_1 (<tt><a href="ar_pud-pos-NUM.html">NUM</a></tt> 3, <tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt> 2), Ea$or_1 (<tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="ar_pud-pos-NUM.html">NUM</a></tt> 2), Ei$oruwn_1 (<tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="ar_pud-pos-NUM.html">NUM</a></tt> 2, <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> 1), mi}ap_1 (<tt><a href="ar_pud-pos-NUM.html">NUM</a></tt> 2, <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> 1), valAvuwn_1 (<tt><a href="ar_pud-pos-NUM.html">NUM</a></tt> 2, <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous lemmas: 16 (<tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="ar_pud-pos-NUM.html">NUM</a></tt> 1)
 
 The 10 most frequent ambiguous types:  عشر (<tt><a href="ar_pud-pos-NUM.html">NUM</a></tt> 9, <tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt> 3), عشرة (<tt><a href="ar_pud-pos-NUM.html">NUM</a></tt> 5, <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> 1), ملايين (<tt><a href="ar_pud-pos-NUM.html">NUM</a></tt> 3, <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> 1), ألف (<tt><a href="ar_pud-pos-NUM.html">NUM</a></tt> 2, <tt><a href="ar_pud-pos-VERB.html">VERB</a></tt> 2, <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> 1), الثلاثين (<tt><a href="ar_pud-pos-NUM.html">NUM</a></tt> 2, <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> 1), 16 (<tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="ar_pud-pos-NUM.html">NUM</a></tt> 1), آلاف (<tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="ar_pud-pos-NUM.html">NUM</a></tt> 1), العشرين (<tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="ar_pud-pos-NUM.html">NUM</a></tt> 1)
 
@@ -47,13 +47,13 @@ The 10 most frequent ambiguous types:  عشر (<tt><a href="ar_pud-pos-NUM.html"
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.068966 (the average of all parts of speech is 1.409765).
+The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.381137).
 
-The 1st highest number of forms (3) was observed with the lemma “>alof_1”: آلاف, ألف, ألفي.
+The 1st highest number of forms (1) was observed with the lemma “1”: 1.
 
-The 2nd highest number of forms (3) was observed with the lemma “miloyAr_1”: المليارات, مليار, ملياري.
+The 2nd highest number of forms (1) was observed with the lemma “1,165”: 1,165.
 
-The 3rd highest number of forms (3) was observed with the lemma “miloyuwn_1”: الملايين, ملايين, مليون.
+The 3rd highest number of forms (1) was observed with the lemma “1,335”: 1,335.
 
 `NUM` occurs with 3 features: <tt><a href="ar_pud-feat-Case.html">Case</a></tt> (163; 44% instances), <tt><a href="ar_pud-feat-Number.html">Number</a></tt> (88; 24% instances), <tt><a href="ar_pud-feat-Gender.html">Gender</a></tt> (78; 21% instances)
 
@@ -80,7 +80,7 @@ Parents of `NUM` nodes belong to 6 different parts of speech: <tt><a href="ar_pu
 
 The highest child degree of a `NUM` node is 4.
 
-Children of `NUM` nodes are attached using 11 different relations: <tt><a href="ar_pud-dep-case.html">case</a></tt> (37; 18% instances), <tt><a href="ar_pud-dep-nmod.html">nmod</a></tt> (31; 15% instances), <tt><a href="ar_pud-dep-advmod.html">advmod</a></tt> (24; 12% instances), <tt><a href="ar_pud-dep-nummod.html">nummod</a></tt> (24; 12% instances), <tt><a href="ar_pud-dep-punct.html">punct</a></tt> (24; 12% instances), <tt><a href="ar_pud-dep-dep.html">dep</a></tt> (20; 10% instances), <tt><a href="ar_pud-dep-obl-tmod.html">obl:tmod</a></tt> (20; 10% instances), <tt><a href="ar_pud-dep-cc.html">cc</a></tt> (11; 5% instances), <tt><a href="ar_pud-dep-conj.html">conj</a></tt> (9; 4% instances), <tt><a href="ar_pud-dep-det.html">det</a></tt> (2; 1% instances), <tt><a href="ar_pud-dep-compound-prt.html">compound:prt</a></tt> (1; 0% instances)
+Children of `NUM` nodes are attached using 12 different relations: <tt><a href="ar_pud-dep-case.html">case</a></tt> (37; 18% instances), <tt><a href="ar_pud-dep-nmod.html">nmod</a></tt> (30; 15% instances), <tt><a href="ar_pud-dep-nummod.html">nummod</a></tt> (24; 12% instances), <tt><a href="ar_pud-dep-punct.html">punct</a></tt> (24; 12% instances), <tt><a href="ar_pud-dep-advmod.html">advmod</a></tt> (23; 11% instances), <tt><a href="ar_pud-dep-dep.html">dep</a></tt> (20; 10% instances), <tt><a href="ar_pud-dep-obl-tmod.html">obl:tmod</a></tt> (20; 10% instances), <tt><a href="ar_pud-dep-cc.html">cc</a></tt> (11; 5% instances), <tt><a href="ar_pud-dep-conj.html">conj</a></tt> (9; 4% instances), <tt><a href="ar_pud-dep-det.html">det</a></tt> (2; 1% instances), <tt><a href="ar_pud-dep-compound-prt.html">compound:prt</a></tt> (1; 0% instances), <tt><a href="ar_pud-dep-obl.html">obl</a></tt> (1; 0% instances)
 
-Children of `NUM` nodes belong to 11 different parts of speech: <tt><a href="ar_pud-pos-ADP.html">ADP</a></tt> (36; 18% instances), <tt><a href="ar_pud-pos-NUM.html">NUM</a></tt> (36; 18% instances), <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> (28; 14% instances), <tt><a href="ar_pud-pos-PUNCT.html">PUNCT</a></tt> (24; 12% instances), <tt><a href="ar_pud-pos-ADV.html">ADV</a></tt> (23; 11% instances), <tt><a href="ar_pud-pos-PROPN.html">PROPN</a></tt> (20; 10% instances), <tt><a href="ar_pud-pos-SYM.html">SYM</a></tt> (20; 10% instances), <tt><a href="ar_pud-pos-CCONJ.html">CCONJ</a></tt> (11; 5% instances), <tt><a href="ar_pud-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="ar_pud-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="ar_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances)
+Children of `NUM` nodes belong to 11 different parts of speech: <tt><a href="ar_pud-pos-ADP.html">ADP</a></tt> (36; 18% instances), <tt><a href="ar_pud-pos-NUM.html">NUM</a></tt> (36; 18% instances), <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> (27; 13% instances), <tt><a href="ar_pud-pos-PUNCT.html">PUNCT</a></tt> (24; 12% instances), <tt><a href="ar_pud-pos-ADV.html">ADV</a></tt> (23; 11% instances), <tt><a href="ar_pud-pos-PROPN.html">PROPN</a></tt> (20; 10% instances), <tt><a href="ar_pud-pos-SYM.html">SYM</a></tt> (20; 10% instances), <tt><a href="ar_pud-pos-CCONJ.html">CCONJ</a></tt> (11; 5% instances), <tt><a href="ar_pud-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="ar_pud-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="ar_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances)
 

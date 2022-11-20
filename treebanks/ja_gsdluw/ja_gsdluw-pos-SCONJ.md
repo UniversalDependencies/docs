@@ -71,11 +71,21 @@ The 3rd highest number of forms (2) was observed with the lemma “けれど”:
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 1 different relations: <tt><a href="ja_gsdluw-dep-mark.html">mark</a></tt> (3228; 100% instances)
+`SCONJ` nodes are attached to their parents using 3 different relations: <tt><a href="ja_gsdluw-dep-mark.html">mark</a></tt> (3199; 99% instances), <tt><a href="ja_gsdluw-dep-dep.html">dep</a></tt> (25; 1% instances), <tt><a href="ja_gsdluw-dep-fixed.html">fixed</a></tt> (4; 0% instances)
 
-Parents of `SCONJ` nodes belong to 8 different parts of speech: <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (2659; 82% instances), <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> (273; 8% instances), <tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> (246; 8% instances), <tt><a href="ja_gsdluw-pos-PROPN.html">PROPN</a></tt> (14; 0% instances), <tt><a href="ja_gsdluw-pos-ADV.html">ADV</a></tt> (11; 0% instances), <tt><a href="ja_gsdluw-pos-NUM.html">NUM</a></tt> (11; 0% instances), <tt><a href="ja_gsdluw-pos-PRON.html">PRON</a></tt> (10; 0% instances), <tt><a href="ja_gsdluw-pos-SYM.html">SYM</a></tt> (4; 0% instances)
+Parents of `SCONJ` nodes belong to 9 different parts of speech: <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (2655; 82% instances), <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> (271; 8% instances), <tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> (248; 8% instances), <tt><a href="ja_gsdluw-pos-PROPN.html">PROPN</a></tt> (14; 0% instances), <tt><a href="ja_gsdluw-pos-ADV.html">ADV</a></tt> (11; 0% instances), <tt><a href="ja_gsdluw-pos-NUM.html">NUM</a></tt> (11; 0% instances), <tt><a href="ja_gsdluw-pos-PRON.html">PRON</a></tt> (10; 0% instances), <tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="ja_gsdluw-pos-SYM.html">SYM</a></tt> (4; 0% instances)
 
-3228 (100%) `SCONJ` nodes are leaves.
+3203 (99%) `SCONJ` nodes are leaves.
 
-The highest child degree of a `SCONJ` node is 0.
+16 (0%) `SCONJ` nodes have one child.
+
+7 (0%) `SCONJ` nodes have two children.
+
+2 (0%) `SCONJ` nodes have three or more children.
+
+The highest child degree of a `SCONJ` node is 3.
+
+Children of `SCONJ` nodes are attached using 5 different relations: <tt><a href="ja_gsdluw-dep-advcl.html">advcl</a></tt> (21; 58% instances), <tt><a href="ja_gsdluw-dep-punct.html">punct</a></tt> (8; 22% instances), <tt><a href="ja_gsdluw-dep-fixed.html">fixed</a></tt> (3; 8% instances), <tt><a href="ja_gsdluw-dep-acl.html">acl</a></tt> (2; 6% instances), <tt><a href="ja_gsdluw-dep-nmod.html">nmod</a></tt> (2; 6% instances)
+
+Children of `SCONJ` nodes belong to 5 different parts of speech: <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (21; 58% instances), <tt><a href="ja_gsdluw-pos-PUNCT.html">PUNCT</a></tt> (8; 22% instances), <tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> (3; 8% instances), <tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> (2; 6% instances), <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> (2; 6% instances)
 

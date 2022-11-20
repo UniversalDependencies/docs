@@ -43,7 +43,7 @@ The following 4 pairs of parts of speech are connected with `flat:foreign`: <tt>
 3	oli	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	cop	2:cop	_
 4	sojaõli	soja_õli	NOUN	S	Case=Nom|Number=Sing	2	nsubj:cop	2:nsubj	_
 5	(	(	PUNCT	Z	_	6	punct	6:punct	SpaceAfter=No
-6	Scaife	Scaife	PROPN	S	Case=Nom|Number=Sing	4	parataxis	4:parataxis	_
+6	Scaife	Scaife	PROPN	S	Case=Nom|Number=Sing	4	parataxis	4:parataxis	NE=B-Per
 7	et	et	X	T	Foreign=Yes	6	flat	6:flat	_
 8	al.	al	X	T	Abbr=Yes|Foreign=Yes	6	flat:foreign	6:flat	SpaceAfter=No
 9	,	,	PUNCT	Z	_	6	punct	6:punct	_

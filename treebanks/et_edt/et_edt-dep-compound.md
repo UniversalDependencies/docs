@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `compound`: <tt><a href="et_edt-dep-compound-prt.html">compound:prt</a></tt>.
 
-518 nodes (0%) are attached to their parents as `compound`.
+434 nodes (0%) are attached to their parents as `compound`.
 
-489 instances of `compound` (94%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.07915057915058.
+405 instances of `compound` (93%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.08294930875576.
 
-The following 9 pairs of parts of speech are connected with `compound`: <tt><a href="et_edt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (460; 89% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt>-<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (28; 5% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (14; 3% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (7; 1% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `compound`: <tt><a href="et_edt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (377; 87% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt>-<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (26; 6% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (14; 3% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (7; 2% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -25,15 +25,15 @@ The following 9 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 5 6 compound	color:blue
 1	Teie	sina	PRON	P	Case=Gen|Number=Plur|Person=2|PronType=Prs	3	nmod	3:nmod	_
 2	uus	uus	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	3	amod	3:amod	_
-3	film	film	NOUN	S	Case=Nom|Number=Sing	10	nsubj:cop	10:nsubj	_
-4	"	"	PUNCT	Z	_	7	punct	5:punct	SpaceAfter=No
-5	8	8	NUM	N	NumForm=Digit|NumType=Card	7	nummod	3:appos	_
-6	½	½	NUM	N	NumForm=Digit|NumType=Frac	5	compound	5:compound	_
-7	naist	naine	NOUN	S	Case=Par|Number=Sing	3	appos	3:appos	SpaceAfter=No
-8	"	"	PUNCT	Z	_	7	punct	5:punct	_
+3	film	film	NOUN	S	Case=Nom|Number=Sing	10	nsubj:cop	10:nsubj	NE=B-Prod
+4	"	"	PUNCT	Z	_	7	punct	5:punct	NE=I-Prod|SpaceAfter=No
+5	8	8	NUM	N	NumForm=Digit|NumType=Card	7	nummod	3:appos	NE=I-Prod
+6	½	½	NUM	N	NumForm=Digit|NumType=Frac	5	compound	5:compound	NE=I-Prod
+7	naist	naine	NOUN	S	Case=Par|Number=Sing	3	appos	3:appos	NE=I-Prod|SpaceAfter=No
+8	"	"	PUNCT	Z	_	7	punct	5:punct	NE=I-Prod
 9	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	10:cop	_
 10	austusavaldus	austus_avaldus	NOUN	S	Case=Nom|Number=Sing	0	root	0:root	_
-11	Fellinile	Fellini	PROPN	S	Case=All|Number=Sing	10	nmod	10:nmod	SpaceAfter=No
+11	Fellinile	Fellini	PROPN	S	Case=All|Number=Sing	10	nmod	10:nmod	NE=B-Per|SpaceAfter=No
 12	.	.	PUNCT	Z	_	10	punct	10:punct	_
 
 ~~~
@@ -52,7 +52,7 @@ The following 9 pairs of parts of speech are connected with `compound`: <tt><a h
 5	1,5	1,5	NUM	N	NumForm=Digit|NumType=Card	6	compound	6:compound	_
 6	%	%	SYM	X	_	0	root	0:root	_
 7	(	(	PUNCT	Z	_	8	punct	8:punct	SpaceAfter=No
-8	Tulisalo	Tulisalo	PROPN	S	Case=Nom|Number=Sing	6	parataxis	6:parataxis	SpaceAfter=No
+8	Tulisalo	Tulisalo	PROPN	S	Case=Nom|Number=Sing	6	parataxis	6:parataxis	NE=B-Per|SpaceAfter=No
 9	,	,	PUNCT	Z	_	8	punct	8:punct	_
 10	1984	1984	NUM	N	NumForm=Digit|NumType=Card	8	parataxis	8:parataxis	SpaceAfter=No
 11	)	)	PUNCT	Z	_	8	punct	8:punct	SpaceAfter=No

@@ -27,13 +27,13 @@ The following 31 pairs of parts of speech are connected with `fixed`: <tt><a hre
 3	de	_	ADP	ADP	_	2	fixed	_	_
 4	ter	ter	AUX	AUX	_	5	aux	_	_
 5	entregue	entregar	VERB	VERB	_	0	root	_	_
-6	o	o	DET	DET	_	7	det	_	_
+6	o	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	governo	governo	NOUN	NOUN	_	5	obj	_	_
 8	de	de	ADP	ADP	_	10	case	_	_
 9	o	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	Paraná	_	PROPN	PNOUN	_	7	nmod	_	SpaceAfter=No
 11	,	,	PUNCT	.	_	13	punct	_	_
-12	o	o	DET	DET	_	13	det	_	_
+12	o	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	dr	dr	NOUN	NOUN	_	5	dep	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	5	punct	_	_
 
@@ -73,13 +73,13 @@ The following 31 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 5	fgColor:white
 # visual-style 5 7 fixed	color:blue
 1	Resultado	resultado	NOUN	NOUN	_	0	root	_	_
-2	4	_	NUM	NUM	NumType=Card	3	nummod	_	_
+2	4	4	NUM	NUM	NumType=Card	3	nummod	_	_
 3	%	_	SYM	SYM	_	4	nmod	_	_
 4	maior	maior	ADJ	ADJ	_	1	amod	_	_
 5	de	de	ADP	ADP	_	9	case	_	_
 6	o	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 7	que	_	ADP	ADP	_	5	fixed	_	_
-8	o	o	DET	DET	_	9	det	_	_
+8	o	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	índice	índice	NOUN	NOUN	_	4	nmod	_	_
 10	obtido	obter	VERB	VERB	_	9	acl	_	_
 11	em	em	ADP	ADP	_	13	case	_	_

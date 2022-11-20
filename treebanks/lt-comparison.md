@@ -1960,7 +1960,7 @@ udver: '2'
             <li>VERB-Fin--NOUN-Acc (1)</li>
             <li>VERB-Fin--NOUN-Dat (1)</li>
             <li>VERB-Fin--NOUN-Gen (10)</li>
-            <li>VERB-Fin--NOUN-Nom (99)</li>
+            <li>VERB-Fin--NOUN-Nom (98)</li>
             <li>VERB-Fin--PRON (8)</li>
             <li>VERB-Fin--PRON-Acc (1)</li>
             <li>VERB-Fin--PRON-Gen (2)</li>
@@ -2130,7 +2130,7 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 5 relation subtypes: <a>acl:relcl</a>, <a>advmod:emph</a>, <a>aux:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a></li>
+      <li>This corpus uses 6 relation subtypes: <a>acl:relcl</a>, <a>advmod:emph</a>, <a>aux:pass</a>, <a>nsubj:outer</a>, <a>nummod:gov</a>, <a>obl:agent</a></li>
       <li>The following 5 relation types are not used in this corpus at all: <a>expl</a>, <a>clf</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
       </ul>
     </td>

@@ -24,7 +24,7 @@ The most frequent other feature values with which `NOUN` and `Definite` co-occur
 
 * `Def` (7690; 34% of non-empty `Definite`): <em>äktenskapet, barnen, samhället, familjen, kvinnan, barnet, mannen, kvinnorna, världen, föräldrarna</em>
 * `Ind` (14738; 66% of non-empty `Definite`): <em>år, barn, del, procent, människor, tid, sätt, arbete, fall, kvinnor</em>
-* `EMPTY` (569): <em>kr, %, dr, s., kap., proc, KPI, milj, mån, kl</em>
+* `EMPTY` (567): <em>kr, %, dr, s., kap., proc, KPI, milj, mån, kl</em>
 
 <table>
   <tr><th>Paradigm <i>barn</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
@@ -130,7 +130,7 @@ The 10 most frequent relations where parent and child node agree in `Definite`:
 <tt>NOUN --[<tt><a href="sv_talbanken-dep-det.html">det</a></tt>]--> DET</tt> (3736; 82%),
 <tt>NOUN --[<tt><a href="sv_talbanken-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1821; 88%),
 <tt>NOUN --[<tt><a href="sv_talbanken-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1727; 59%),
-<tt>NOUN --[<tt><a href="sv_talbanken-dep-appos.html">appos</a></tt>]--> NOUN</tt> (193; 67%),
+<tt>NOUN --[<tt><a href="sv_talbanken-dep-appos.html">appos</a></tt>]--> NOUN</tt> (194; 67%),
 <tt>ADJ --[<tt><a href="sv_talbanken-dep-det.html">det</a></tt>]--> DET</tt> (163; 59%),
 <tt>ADJ --[<tt><a href="sv_talbanken-dep-conj.html">conj</a></tt>]--> ADJ</tt> (153; 78%),
 <tt>NOUN --[<tt><a href="sv_talbanken-dep-obl.html">obl</a></tt>]--> NOUN</tt> (149; 57%),

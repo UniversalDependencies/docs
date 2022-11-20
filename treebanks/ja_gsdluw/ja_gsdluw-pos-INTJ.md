@@ -56,15 +56,15 @@ Parents of `INTJ` nodes belong to 4 different parts of speech: <tt><a href="ja_g
 
 1 (7%) `INTJ` nodes are leaves.
 
-5 (33%) `INTJ` nodes have one child.
+6 (40%) `INTJ` nodes have one child.
 
-3 (20%) `INTJ` nodes have two children.
+2 (13%) `INTJ` nodes have two children.
 
 6 (40%) `INTJ` nodes have three or more children.
 
 The highest child degree of a `INTJ` node is 5.
 
-Children of `INTJ` nodes are attached using 10 different relations: <tt><a href="ja_gsdluw-dep-punct.html">punct</a></tt> (15; 45% instances), <tt><a href="ja_gsdluw-dep-case.html">case</a></tt> (8; 24% instances), <tt><a href="ja_gsdluw-dep-advcl.html">advcl</a></tt> (2; 6% instances), <tt><a href="ja_gsdluw-dep-nsubj.html">nsubj</a></tt> (2; 6% instances), <tt><a href="ja_gsdluw-dep-acl.html">acl</a></tt> (1; 3% instances), <tt><a href="ja_gsdluw-dep-aux.html">aux</a></tt> (1; 3% instances), <tt><a href="ja_gsdluw-dep-cc.html">cc</a></tt> (1; 3% instances), <tt><a href="ja_gsdluw-dep-discourse.html">discourse</a></tt> (1; 3% instances), <tt><a href="ja_gsdluw-dep-mark.html">mark</a></tt> (1; 3% instances), <tt><a href="ja_gsdluw-dep-nmod.html">nmod</a></tt> (1; 3% instances)
+Children of `INTJ` nodes are attached using 10 different relations: <tt><a href="ja_gsdluw-dep-punct.html">punct</a></tt> (18; 51% instances), <tt><a href="ja_gsdluw-dep-case.html">case</a></tt> (8; 23% instances), <tt><a href="ja_gsdluw-dep-nsubj.html">nsubj</a></tt> (2; 6% instances), <tt><a href="ja_gsdluw-dep-acl.html">acl</a></tt> (1; 3% instances), <tt><a href="ja_gsdluw-dep-advcl.html">advcl</a></tt> (1; 3% instances), <tt><a href="ja_gsdluw-dep-aux.html">aux</a></tt> (1; 3% instances), <tt><a href="ja_gsdluw-dep-cc.html">cc</a></tt> (1; 3% instances), <tt><a href="ja_gsdluw-dep-discourse.html">discourse</a></tt> (1; 3% instances), <tt><a href="ja_gsdluw-dep-mark.html">mark</a></tt> (1; 3% instances), <tt><a href="ja_gsdluw-dep-nmod.html">nmod</a></tt> (1; 3% instances)
 
-Children of `INTJ` nodes belong to 9 different parts of speech: <tt><a href="ja_gsdluw-pos-PUNCT.html">PUNCT</a></tt> (15; 45% instances), <tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> (8; 24% instances), <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> (3; 9% instances), <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (2; 6% instances), <tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> (1; 3% instances), <tt><a href="ja_gsdluw-pos-CCONJ.html">CCONJ</a></tt> (1; 3% instances), <tt><a href="ja_gsdluw-pos-INTJ.html">INTJ</a></tt> (1; 3% instances), <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> (1; 3% instances)
+Children of `INTJ` nodes belong to 9 different parts of speech: <tt><a href="ja_gsdluw-pos-PUNCT.html">PUNCT</a></tt> (18; 51% instances), <tt><a href="ja_gsdluw-pos-ADP.html">ADP</a></tt> (8; 23% instances), <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> (3; 9% instances), <tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt> (1; 3% instances), <tt><a href="ja_gsdluw-pos-CCONJ.html">CCONJ</a></tt> (1; 3% instances), <tt><a href="ja_gsdluw-pos-INTJ.html">INTJ</a></tt> (1; 3% instances), <tt><a href="ja_gsdluw-pos-PART.html">PART</a></tt> (1; 3% instances), <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (1; 3% instances)
 

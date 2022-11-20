@@ -36,4 +36,4 @@ The key difference here is that, while it is possible to interpret the first
 sentence to mean that the general will not be leaving, in the second
 sentence it is clear that the subject of __writing__ can only be __we__. This is
 what distinguishes `ccomp` and `xcomp`.
-<!-- Interlanguage links updated So kvě 14 19:03:12 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:14 CET 2022 -->

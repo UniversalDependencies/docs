@@ -10,8 +10,8 @@ This feature is language-specific.
 It occurs with 2 different values: `Post`, `Prep`.
 
 9209 tokens (2%) have a non-empty value of `AdpType`.
-214 types (0%) occur at least once with a non-empty value of `AdpType`.
-188 lemmas (0%) occur at least once with a non-empty value of `AdpType`.
+215 types (0%) occur at least once with a non-empty value of `AdpType`.
+189 lemmas (0%) occur at least once with a non-empty value of `AdpType`.
 The feature is used with 1 part-of-speech tags: <tt><a href="et_edt-pos-ADP.html">ADP</a></tt> (9209; 2% instances).
 
 ### `ADP`

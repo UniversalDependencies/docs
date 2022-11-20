@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 7 language-specific subtypes of `aux`: <tt><a href="myv_jr-dep-aux-aspect.html">aux:aspect</a></tt>, <tt><a href="myv_jr-dep-aux-cnd.html">aux:cnd</a></tt>, <tt><a href="myv_jr-dep-aux-imp.html">aux:imp</a></tt>, <tt><a href="myv_jr-dep-aux-nec.html">aux:nec</a></tt>, <tt><a href="myv_jr-dep-aux-neg.html">aux:neg</a></tt>, <tt><a href="myv_jr-dep-aux-opt.html">aux:opt</a></tt>, <tt><a href="myv_jr-dep-aux-q.html">aux:q</a></tt>.
 
-24 nodes (0%) are attached to their parents as `aux`.
+42 nodes (0%) are attached to their parents as `aux`.
 
-23 instances of `aux` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.375.
+40 instances of `aux` (95%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.57142857142857.
 
-The following 2 pairs of parts of speech are connected with `aux`: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (23; 96% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt>-<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (1; 4% instances).
+The following 2 pairs of parts of speech are connected with `aux`: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (41; 98% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt>-<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -62,7 +62,7 @@ The following 2 pairs of parts of speech are connected with `aux`: <tt><a href="
 21	,	,	PUNCT	CLB	_	27	punct	_	_
 22	конатненень	кона	PRON	Pron	Case=Dat|Definite=Def|Number=Plur|PronType=Rel	27	obl	_	GTtags=Rel,Pl,Dat,Def
 23	пачкодемс	пачкодемс	VERB	V	VerbForm=Inf	27	csubj	_	GTtags=Inf
-24	тов	тов	ADV	Adv	AdvType=Loc|Case=Lat	23	advmod:lto	_	GTtags=Spat,Lat
+24	тов	тов	ADV	Adv	AdvType=Loc|Case=Lat	23	advmod:lmod	_	GTtags=Spat,Lat
 25	истя	истя	ADV	Adv	_	27	advmod	_	_
 26	жо	жо	PART	Pcle	_	25	discourse	_	GTtags=Emph
 27	стака	стака	ADJ	A	_	4	ccomp	_	GTtags=|SpaceAfter=No

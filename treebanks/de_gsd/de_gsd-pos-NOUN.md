@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>Jahre</em> (<tt><a href="de_gsd-pos-N
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 1.151801 (the average of all parts of speech is 1.187208).
+The form / lemma ratio of `NOUN` is 1.151801 (the average of all parts of speech is 1.187276).
 
 The 1st highest number of forms (6) was observed with the lemma “Band”: <em>Band, Bands, Bände, Bänden, Bänder, Bändern</em>.
 

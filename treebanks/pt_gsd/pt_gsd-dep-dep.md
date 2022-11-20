@@ -23,7 +23,7 @@ The following 51 pairs of parts of speech are connected with `dep`: <tt><a href=
 # visual-style 5	fgColor:white
 # visual-style 5 4 dep	color:blue
 1	Segundo	_	ADP	ADP	_	3	case	_	_
-2	a	o	DET	DET	_	3	det	_	_
+2	a	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	tradição	tradição	NOUN	NOUN	_	5	nmod	_	_
 4	que	_	PRON	PRON	_	5	dep	_	_
 5	tinha	ter	VERB	VERB	_	0	root	_	_
@@ -65,13 +65,13 @@ The following 51 pairs of parts of speech are connected with `dep`: <tt><a href=
 3	de	_	ADP	ADP	_	2	fixed	_	_
 4	ter	ter	AUX	AUX	_	5	aux	_	_
 5	entregue	entregar	VERB	VERB	_	0	root	_	_
-6	o	o	DET	DET	_	7	det	_	_
+6	o	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	governo	governo	NOUN	NOUN	_	5	obj	_	_
 8	de	de	ADP	ADP	_	10	case	_	_
 9	o	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	Paraná	_	PROPN	PNOUN	_	7	nmod	_	SpaceAfter=No
 11	,	,	PUNCT	.	_	13	punct	_	_
-12	o	o	DET	DET	_	13	det	_	_
+12	o	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	dr	dr	NOUN	NOUN	_	5	dep	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	5	punct	_	_
 

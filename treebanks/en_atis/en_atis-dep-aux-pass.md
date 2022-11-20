@@ -32,9 +32,9 @@ The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 8	a	a	DET	_	PronType=Art	9	det	_	_
 9	flight	flight	NOUN	_	Number=Sing	6	obl	_	_
 10	from	from	ADP	_	_	11	case	_	_
-11	cleveland	cleveland	PROPN	_	Number=Sing	9	nmod	_	_
+11	cleveland	Cleveland	PROPN	_	Number=Sing	9	nmod	_	_
 12	to	to	ADP	_	_	13	case	_	_
-13	dallas	dallas	PROPN	_	Number=Sing	9	nmod	_	_
+13	dallas	Dallas	PROPN	_	Number=Sing	9	nmod	_	_
 
 ~~~
 

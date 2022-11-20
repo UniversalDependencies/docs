@@ -11,23 +11,23 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="aqz_tudet-feat-Person.html">Person</a></tt>, <tt><a href="aqz_tudet-feat-Person-psor.html">Person[psor]</a></tt>, <tt><a href="aqz_tudet-feat-Person-subj.html">Person[subj]</a></tt>.
 
-197 tokens (18%) have a non-empty value of `Person`.
-127 types (31%) occur at least once with a non-empty value of `Person`.
-89 lemmas (32%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> (73; 7% instances), <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (65; 6% instances), <tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt> (53; 5% instances), <tt><a href="aqz_tudet-pos-AUX.html">AUX</a></tt> (6; 1% instances).
+255 tokens (19%) have a non-empty value of `Person`.
+153 types (32%) occur at least once with a non-empty value of `Person`.
+104 lemmas (33%) occur at least once with a non-empty value of `Person`.
+The feature is used with 4 part-of-speech tags: <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> (104; 8% instances), <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (74; 6% instances), <tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt> (68; 5% instances), <tt><a href="aqz_tudet-pos-AUX.html">AUX</a></tt> (9; 1% instances).
 
 ### `VERB`
 
-73 <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> tokens (36% of all `VERB` tokens) have a non-empty value of `Person`.
+104 <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> tokens (37% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="aqz_tudet-feat-Tv.html">Tv</a></tt><tt>=EMPTY</tt> (44; 60%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="aqz_tudet-feat-Trans.html">Trans</a></tt><tt>=EMPTY</tt> (79; 76%), <tt><a href="aqz_tudet-feat-Tv.html">Tv</a></tt><tt>=EMPTY</tt> (64; 62%).
 
 `VERB` tokens may have the following values of `Person`:
 
-* `1` (19; 26% of non-empty `Person`): <em>oerekwa, opera, opip, itet, kipera, kitʃet, kitʃetara, oatʃoa, obaja, oetara</em>
-* `2` (10; 14% of non-empty `Person`): <em>eeta, epekã, koara, eata, eerekkwa, eimi, eipa, eõa</em>
-* `3` (44; 60% of non-empty `Person`): <em>teita, ikora, taot, ikoa, iat, ijã, ikɨta, ima, ipoka, ita</em>
-* `EMPTY` (132): <em>koa, ata, tʃopa, at, put, aj, ko, mãpara, apeka, dow</em>
+* `1` (25; 24% of non-empty `Person`): <em>oerekwa, oetara, opera, opip, itet, kipera, kitʃet, kitʃetara, oaawkwa, oatʃinokwa</em>
+* `2` (13; 13% of non-empty `Person`): <em>koara, eeta, eneme, epekã, eata, eerekkwa, eimi, eipa, etʃetara, eõa</em>
+* `3` (66; 63% of non-empty `Person`): <em>teita, ikora, ikoa, taot, iat, iata, iekɨj, ijã, ikɨta, ima</em>
+* `EMPTY` (174): <em>koa, ata, tʃopa, at, ka, put, õkwa, aj, ko, mãpara</em>
 
 <table>
   <tr><th>Paradigm <i>ko</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -38,14 +38,14 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `NOUN`
 
-65 <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> tokens (19% of all `NOUN` tokens) have a non-empty value of `Person`.
+74 <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> tokens (19% of all `NOUN` tokens) have a non-empty value of `Person`.
 
 `NOUN` tokens may have the following values of `Person`:
 
-* `1` (33; 51% of non-empty `Person`): <em>omepit, oatap, oko, okɨp, okɨpi, otak, itet, oike, ojẽ, okere</em>
-* `2` (10; 15% of non-empty `Person`): <em>eape, eboro, ekem, ekoro, epi, epo, eti, eanampe, eiat, emenna</em>
-* `3` (22; 34% of non-empty `Person`): <em>ikɨp, iiw, imen, imepit, iten, itoap, itʃobe, itʃoke, tajtʃi, tokwajet</em>
-* `EMPTY` (274): <em>ɨkɨ, pi, aramĩra, aparapia, ek, etɨ, kɨ, õjpe, kɨp, okwaj</em>
+* `1` (39; 53% of non-empty `Person`): <em>omepit, oike, oatap, oko, okɨp, okɨpi, otak, otʃipap, opo, itet</em>
+* `2` (11; 15% of non-empty `Person`): <em>epo, eape, eboro, ekem, ekoro, epi, eti, eanampe, eiat, emenna</em>
+* `3` (24; 32% of non-empty `Person`): <em>ikɨp, iiw, imen, imepit, iten, itoap, itʃobe, itʃoke, tajtʃi, teetɨ</em>
+* `EMPTY` (317): <em>ɨkɨ, pi, aramĩra, pero, aparapia, õjpe, ek, etɨ, kɨ, kɨp</em>
 
 <table>
   <tr><th>Paradigm <i>kɨp</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
@@ -54,16 +54,16 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `PRON`
 
-53 <tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt> tokens (71% of all `PRON` tokens) have a non-empty value of `Person`.
+68 <tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt> tokens (74% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="aqz_tudet-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (46; 87%), <tt><a href="aqz_tudet-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (44; 83%), <tt><a href="aqz_tudet-feat-Number.html">Number</a></tt><tt>=Sing</tt> (43; 81%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="aqz_tudet-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (59; 87%), <tt><a href="aqz_tudet-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (58; 85%), <tt><a href="aqz_tudet-feat-Number.html">Number</a></tt><tt>=Sing</tt> (56; 82%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (22; 42% of non-empty `Person`): <em>on, kitʃe, orẽ, orẽbõ</em>
-* `2` (26; 49% of non-empty `Person`): <em>en, erẽ, erẽbõ, ebõ, enõ, on</em>
-* `3` (5; 9% of non-empty `Person`): <em>i, te, tebõ</em>
-* `EMPTY` (22): <em>no, tara, arop, aroperi, en, erẽ, ẽromri</em>
+* `1` (29; 43% of non-empty `Person`): <em>on, kitʃe, orẽbõ, orẽ</em>
+* `2` (33; 49% of non-empty `Person`): <em>en, erẽ, erẽbõ, on, ebõ, enõ</em>
+* `3` (6; 9% of non-empty `Person`): <em>i, te, tebõ</em>
+* `EMPTY` (24): <em>no, tara, arop, erẽ, aroperi, en, ẽromri</em>
 
 <table>
   <tr><th>Paradigm <i>on</i></th><th><tt>1</tt></th><th><tt>2</tt></th></tr>
@@ -73,25 +73,24 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 ### `AUX`
 
-6 <tt><a href="aqz_tudet-pos-AUX.html">AUX</a></tt> tokens (55% of all `AUX` tokens) have a non-empty value of `Person`.
+9 <tt><a href="aqz_tudet-pos-AUX.html">AUX</a></tt> tokens (45% of all `AUX` tokens) have a non-empty value of `Person`.
 
 `AUX` tokens may have the following values of `Person`:
 
-* `1` (2; 33% of non-empty `Person`): <em>ojã, otoa</em>
-* `2` (2; 33% of non-empty `Person`): <em>ejã, etoa</em>
-* `3` (2; 33% of non-empty `Person`): <em>iko, tejã</em>
-* `EMPTY` (5): <em>ka, ojã, piro, tʃe</em>
+* `1` (3; 33% of non-empty `Person`): <em>otoa, ojã</em>
+* `2` (2; 22% of non-empty `Person`): <em>ejã, etoa</em>
+* `3` (4; 44% of non-empty `Person`): <em>iko, tejãkwa, tejã</em>
+* `EMPTY` (11): <em>ka, tʃe, koa, ojã, piro</em>
 
 <table>
   <tr><th>Paradigm <i>jã</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt>_</tt></td><td><em>ojã</em></td><td><em>ejã</em></td><td></td></tr>
+  <tr><td><tt>_</tt></td><td><em>ojã</em></td><td><em>ejã</em></td><td><em>tejãkwa</em></td></tr>
   <tr><td><tt><tt><a href="aqz_tudet-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td></td><td></td><td><em>tejã</em></td></tr>
 </table>
 
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="aqz_tudet-dep-aux.html">aux</a></tt>]--> AUX</tt> (3; 60%),
 <tt>AUX --[<tt><a href="aqz_tudet-dep-obj.html">obj</a></tt>]--> NOUN</tt> (1; 100%),
 <tt>NOUN --[<tt><a href="aqz_tudet-dep-dep.html">dep</a></tt>]--> NOUN</tt> (1; 100%),
 <tt>VERB --[<tt><a href="aqz_tudet-dep-discourse.html">discourse</a></tt>]--> PRON</tt> (1; 100%),

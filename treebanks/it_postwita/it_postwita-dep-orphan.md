@@ -22,7 +22,7 @@ The following 29 pairs of parts of speech are connected with `orphan`: <tt><a hr
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
 # visual-style 13 11 orphan	color:blue
-1	@user	@user	SYM	SYM	_	5	vocative:mention	_	_
+1	@user	@user	SYM	SYM	_	5	vocative	_	_
 2	Non	non	ADV	BN	PronType=Neg	5	advmod	_	_
 3	posso	potere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
 4	tanto	tanto	ADV	B	_	5	advmod	_	_
@@ -46,7 +46,7 @@ The following 29 pairs of parts of speech are connected with `orphan`: <tt><a hr
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 16 orphan	color:blue
-1	@user	@user	SYM	SYM	_	4	vocative:mention	_	_
+1	@user	@user	SYM	SYM	_	4	vocative	_	_
 2	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	4	obl	_	_
 3	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
 4	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_

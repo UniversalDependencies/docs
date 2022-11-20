@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="hu_szeged-dep-advmod.html">advmod</a></tt>.
 There are also 6 other language-specific subtypes of `advmod`: <tt><a href="hu_szeged-dep-advmod-mode.html">advmod:mode</a></tt>, <tt><a href="hu_szeged-dep-advmod-que.html">advmod:que</a></tt>, <tt><a href="hu_szeged-dep-advmod-tfrom.html">advmod:tfrom</a></tt>, <tt><a href="hu_szeged-dep-advmod-tlocy.html">advmod:tlocy</a></tt>, <tt><a href="hu_szeged-dep-advmod-to.html">advmod:to</a></tt>, <tt><a href="hu_szeged-dep-advmod-tto.html">advmod:tto</a></tt>.
 
-89 nodes (0%) are attached to their parents as `advmod:locy`.
+86 nodes (0%) are attached to their parents as `advmod:locy`.
 
-78 instances of `advmod:locy` (88%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.60674157303371.
+76 instances of `advmod:locy` (88%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.52325581395349.
 
-The following 6 pairs of parts of speech are connected with `advmod:locy`: <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt>-<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (68; 76% instances), <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (15; 17% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (3; 3% instances), <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt>-<tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt>-<tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 3 pairs of parts of speech are connected with `advmod:locy`: <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt>-<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (68; 79% instances), <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (15; 17% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (3; 3% instances).
 
 
 ~~~ conllu
@@ -32,7 +32,7 @@ The following 6 pairs of parts of speech are connected with `advmod:locy`: <tt><
 7	6.	6.	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	8	amod:att	_	_
 8	helyét	hely	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	9	obj	_	_
 9	jelentette	jelent	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-10	számára	számára	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	9	advmod:mode	_	SpaceAfter=No
+10	számára	számára	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	9	obl	_	orig_deprel=advmod:mode|SpaceAfter=No
 11	.	.	PUNCT	_	_	9	punct	_	_
 
 ~~~

@@ -63,7 +63,7 @@ The following 6 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 6 aux:pass	color:blue
-1	O	o	DET	DET	_	2	det	_	_
+1	O	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	texto	texto	NOUN	NOUN	_	3	nsubj	_	_
 3	determina	determinar	VERB	VERB	_	0	root	_	_
 4	que	que	CCONJ	CONJ	_	8	mark	_	_

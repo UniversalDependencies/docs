@@ -30,7 +30,7 @@ The following 1 pairs of parts of speech are connected with `det:predet`: <tt><a
 6	flights	flight	NOUN	_	Number=Plur	1	obj	_	_
 7	arriving	arrive	VERB	_	Tense=Pres|VerbForm=Part	6	acl:relcl	_	_
 8	in	in	ADP	_	_	9	case	_	_
-9	denver	denver	PROPN	_	Number=Sing	7	obl	_	_
+9	denver	Denver	PROPN	_	Number=Sing	7	obl	_	_
 10	from	from	ADP	_	_	11	case	_	_
 11	8	8	NUM	_	NumType=Card	14	nummod	_	_
 12	to	to	ADP	_	_	13	case	_	_

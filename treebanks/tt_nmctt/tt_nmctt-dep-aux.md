@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-30 nodes (2%) are attached to their parents as `aux`.
+43 nodes (2%) are attached to their parents as `aux`.
 
-30 instances of `aux` (100%) are left-to-right (parent precedes child).
+43 instances of `aux` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 2 pairs of parts of speech are connected with `aux`: <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-AUX.html">AUX</a></tt> (29; 97% instances), <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-AUX.html">AUX</a></tt> (1; 3% instances).
+The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="tt_nmctt-pos-VERB.html">VERB</a></tt>-<tt><a href="tt_nmctt-pos-AUX.html">AUX</a></tt> (41; 95% instances), <tt><a href="tt_nmctt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tt_nmctt-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="tt_nmctt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tt_nmctt-pos-AUX.html">AUX</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -34,6 +34,28 @@ The following 2 pairs of parts of speech are connected with `aux`: <tt><a href="
 
 
 ~~~ conllu
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 11 aux	color:blue
+1	Әлбәттә	әлбәттә	ADV	_	_	10	advmod	_	LangID=TT|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	LangID=OTHER
+3	бер	бер	NUM	_	NumType=Card	4	nummod	_	LangID=TT
+4	ел	ел	NOUN	_	Case=Nom|Number=Sing	5	nmod	_	LangID=TT
+5	эчендә	эч	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	8	obl	_	LangID=TT
+6	барысын	барысы	PRON	_	Case=Acc|Number=Sing|PronType=Tot	8	obj	_	LangID=TT
+7	да	да	ADV	_	_	6	advmod	_	LangID=TT
+8	эшләп	эшлә	VERB	_	VerbForm=Conv	10	nsubj	_	LangID=TT
+9	бетерү	бетер	AUX	_	Case=Nom|Number=Sing|VerbForm=Vnoun	8	aux	_	LangID=TT
+10	мөмкин	мөмкин	ADJ	_	_	0	root	_	LangID=TT
+11	түгел	түгел	AUX	_	_	10	aux	_	LangID=TT|SpaceAfter=No
+12	.	.	PUNCT	_	_	10	punct	_	LangID=OTHER
+
+~~~
+
+
+~~~ conllu
 # visual-style 16	bgColor:blue
 # visual-style 16	fgColor:white
 # visual-style 15	bgColor:blue
@@ -41,7 +63,7 @@ The following 2 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 15 16 aux	color:blue
 1	«	«	PUNCT	_	_	19	punct	_	LangID=OTHER|SpaceAfter=No
 2	Курскта	Курск	NOUN	_	Case=Loc|Number=Sing	3	obl	_	CSPoint=Курск§та|LangID=MIXED[RU§TT]
-3	яшәүчеләр	яшә	VERB	_	Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part	17	nmod	_	LangID=TT
+3	яшәүчеләр	яшә	VERB	_	Case=Nom|Number=Plur|VerbForm=NomAg	17	nmod	_	LangID=TT
 4	дә	да	ADV	_	_	3	advmod	_	LangID=TT|SpaceAfter=No
 5	,	,	PUNCT	_	_	8	punct	_	LangID=OTHER
 6	бөтен	бөтен	ADJ	_	_	7	amod	_	LangID=TT

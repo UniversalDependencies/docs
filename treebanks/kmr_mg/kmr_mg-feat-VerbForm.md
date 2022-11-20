@@ -12,20 +12,20 @@ It occurs with 3 different values: `Fin`, `Inf`, `Part`.
 1450 tokens (14%) have a non-empty value of `VerbForm`.
 560 types (20%) occur at least once with a non-empty value of `VerbForm`.
 172 lemmas (9%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt> (1112; 11% instances), <tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt> (338; 3% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt> (1038; 10% instances), <tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt> (412; 4% instances).
 
 ### `VERB`
 
-1112 <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+1038 <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="kmr_mg-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (994; 89%), <tt><a href="kmr_mg-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (963; 87%), <tt><a href="kmr_mg-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (848; 76%), <tt><a href="kmr_mg-feat-Person.html">Person</a></tt><tt>=3</tt> (816; 73%), <tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (760; 68%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="kmr_mg-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (910; 88%), <tt><a href="kmr_mg-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (776; 75%), <tt><a href="kmr_mg-feat-Person.html">Person</a></tt><tt>=3</tt> (741; 71%), <tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (702; 68%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (976; 88% of non-empty `VerbForm`): <em>tê, da, kir, hatiye, gote, hat, dike, hate, got, hatine</em>
-* `Inf` (123; 11% of non-empty `VerbForm`): <em>kirin, bikaranîn, çêkirin, gotin, avakirin, dîtin, girêdan, weşandin, zanîn, amadekirin</em>
+* `Fin` (902; 87% of non-empty `VerbForm`): <em>da, kir, gote, dike, got, hebû, kiriye, heye, divêt, hene</em>
+* `Inf` (123; 12% of non-empty `VerbForm`): <em>kirin, bikaranîn, çêkirin, gotin, avakirin, dîtin, girêdan, weşandin, zanîn, amadekirin</em>
 * `Part` (13; 1% of non-empty `VerbForm`): <em>mirî, qewimî, bû, dagirtî, daliqandî, diyarkirî, dîti, girtî, keti, parastî</em>
-* `EMPTY` (3): <em>divê, xwendiye</em>
+* `EMPTY` (4): <em>divê, hebin, xwendiye</em>
 
 <table>
   <tr><th>Paradigm <i>dîtin</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>
@@ -49,26 +49,26 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-338 <tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+412 <tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt> tokens (96% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="kmr_mg-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (318; 94%), <tt><a href="kmr_mg-feat-Person.html">Person</a></tt><tt>=3</tt> (305; 90%), <tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (274; 81%), <tt><a href="kmr_mg-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (212; 63%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="kmr_mg-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (390; 95%), <tt><a href="kmr_mg-feat-Person.html">Person</a></tt><tt>=3</tt> (380; 92%), <tt><a href="kmr_mg-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (368; 89%), <tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (332; 81%), <tt><a href="kmr_mg-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (230; 56%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Fin` (338; 100% of non-empty `VerbForm`): <em>e, ye, bû, bûn, dibe, hebû, bûye, heye, hene, in</em>
-* `EMPTY` (1): <em>hebin</em>
+* `Fin` (412; 100% of non-empty `VerbForm`): <em>e, ye, bû, tê, hatiye, bûn, dibe, bûye, hate, hat</em>
+* `EMPTY` (19): <em>dê, de, ê</em>
 
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="kmr_mg-dep-conj.html">conj</a></tt>]--> VERB</tt> (186; 96%),
-<tt>VERB --[<tt><a href="kmr_mg-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (72; 91%),
-<tt>VERB --[<tt><a href="kmr_mg-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (39; 81%),
-<tt>VERB --[<tt><a href="kmr_mg-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (12; 92%),
-<tt>AUX --[<tt><a href="kmr_mg-dep-conj.html">conj</a></tt>]--> VERB</tt> (8; 100%),
-<tt>VERB --[<tt><a href="kmr_mg-dep-conj.html">conj</a></tt>]--> AUX</tt> (7; 100%),
-<tt>VERB --[<tt><a href="kmr_mg-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (5; 83%),
-<tt>AUX --[<tt><a href="kmr_mg-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (3; 100%),
-<tt>AUX --[<tt><a href="kmr_mg-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (3; 100%),
-<tt>AUX --[<tt><a href="kmr_mg-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (2; 100%).
+<tt>VERB --[<tt><a href="kmr_mg-dep-conj.html">conj</a></tt>]--> VERB</tt> (195; 96%),
+<tt>VERB --[<tt><a href="kmr_mg-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (82; 92%),
+<tt>VERB --[<tt><a href="kmr_mg-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (42; 82%),
+<tt>VERB --[<tt><a href="kmr_mg-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (6; 86%),
+<tt>VERB --[<tt><a href="kmr_mg-dep-conj.html">conj</a></tt>]--> AUX</tt> (5; 100%),
+<tt>VERB --[<tt><a href="kmr_mg-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (4; 80%),
+<tt>AUX --[<tt><a href="kmr_mg-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (2; 100%),
+<tt>AUX --[<tt><a href="kmr_mg-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1; 100%),
+<tt>AUX --[<tt><a href="kmr_mg-dep-conj.html">conj</a></tt>]--> AUX</tt> (1; 100%),
+<tt>AUX --[<tt><a href="kmr_mg-dep-conj.html">conj</a></tt>]--> VERB</tt> (1; 100%).
 

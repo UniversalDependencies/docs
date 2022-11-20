@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="ko_pud-pos-VERB.htm
 
 ### `VERB`
 
-105 <tt><a href="ko_pud-pos-VERB.html">VERB</a></tt> tokens (6% of all `VERB` tokens) have a non-empty value of `Voice`.
+105 <tt><a href="ko_pud-pos-VERB.html">VERB</a></tt> tokens (7% of all `VERB` tokens) have a non-empty value of `Voice`.
 
 The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="ko_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (82; 78%), <tt><a href="ko_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (81; 77%), <tt><a href="ko_pud-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (58; 55%).
 
@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 * `Cau` (42; 40% of non-empty `Voice`): 남겨, 남긴, 덧붙였다, 보였다, 세웠다, 태우고, 끝냈으며, 날리게, 낮추거나, 낮추는
 * `Pass` (63; 60% of non-empty `Voice`): 열린, 보인다, 낮아지게, 놓여, 되었고, 만들어졌다, 보였던, 걸러졌고, 걸린, 꾸며져
-* `EMPTY` (1520): 대한, 있다, 되었다, 대해, 한다, 있는, 위해, 통해, 위한, 된
+* `EMPTY` (1334): 대한, 되었다, 대해, 있다, 위해, 통해, 한다, 위한, 된, 라는
 
 ### `PART`
 
@@ -36,5 +36,5 @@ The most frequent other feature values with which `PART` and `Voice` co-occurred
 
 * `Cau` (2; 67% of non-empty `Voice`): 보였다고, 없앤다고
 * `Pass` (1; 33% of non-empty `Voice`): 나뉘어졌는가를
-* `EMPTY` (493): 는, 의, 고, 에, 도, 라고, 가, 와, 에서, 이
+* `EMPTY` (475): 는, 의, 고, 에, 도, 라고, 가, 와, 에서, 이
 

@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>%</em> (<tt><a href="tr_penn-pos-NUM.
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.046389 (the average of all parts of speech is 2.011905).
+The form / lemma ratio of `NUM` is 1.046389 (the average of all parts of speech is 2.011961).
 
 The 1st highest number of forms (5) was observed with the lemma “1”: <em>1, 1., 1/2, 1/8, 100</em>.
 
@@ -77,7 +77,7 @@ Examples: <em>milyon, milyar, iki, bir, 1, üç, 10, 30, 2, 3</em>
 
 `NUM` nodes are attached to their parents using 19 different relations: <tt><a href="tr_penn-dep-nummod.html">nummod</a></tt> (6566; 77% instances), <tt><a href="tr_penn-dep-nmod.html">nmod</a></tt> (722; 8% instances), <tt><a href="tr_penn-dep-compound.html">compound</a></tt> (475; 6% instances), <tt><a href="tr_penn-dep-obl.html">obl</a></tt> (163; 2% instances), <tt><a href="tr_penn-dep-conj.html">conj</a></tt> (128; 2% instances), <tt><a href="tr_penn-dep-list.html">list</a></tt> (81; 1% instances), <tt><a href="tr_penn-dep-amod.html">amod</a></tt> (79; 1% instances), <tt><a href="tr_penn-dep-root.html">root</a></tt> (69; 1% instances), <tt><a href="tr_penn-dep-nsubj.html">nsubj</a></tt> (66; 1% instances), <tt><a href="tr_penn-dep-obj.html">obj</a></tt> (55; 1% instances), <tt><a href="tr_penn-dep-appos.html">appos</a></tt> (43; 1% instances), <tt><a href="tr_penn-dep-flat.html">flat</a></tt> (19; 0% instances), <tt><a href="tr_penn-dep-parataxis.html">parataxis</a></tt> (10; 0% instances), <tt><a href="tr_penn-dep-xcomp.html">xcomp</a></tt> (10; 0% instances), <tt><a href="tr_penn-dep-advcl.html">advcl</a></tt> (6; 0% instances), <tt><a href="tr_penn-dep-discourse.html">discourse</a></tt> (4; 0% instances), <tt><a href="tr_penn-dep-clf.html">clf</a></tt> (1; 0% instances), <tt><a href="tr_penn-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="tr_penn-dep-iobj.html">iobj</a></tt> (1; 0% instances)
 
-Parents of `NUM` nodes belong to 11 different parts of speech: <tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt> (4535; 53% instances), <tt><a href="tr_penn-pos-NUM.html">NUM</a></tt> (2078; 24% instances), <tt><a href="tr_penn-pos-ADJ.html">ADJ</a></tt> (680; 8% instances), <tt><a href="tr_penn-pos-VERB.html">VERB</a></tt> (423; 5% instances), <tt><a href="tr_penn-pos-PROPN.html">PROPN</a></tt> (369; 4% instances), <tt><a href="tr_penn-pos-ADV.html">ADV</a></tt> (333; 4% instances),  (69; 1% instances), <tt><a href="tr_penn-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="tr_penn-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="tr_penn-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="tr_penn-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
+Parents of `NUM` nodes belong to 10 different parts of speech: <tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt> (4536; 53% instances), <tt><a href="tr_penn-pos-NUM.html">NUM</a></tt> (2078; 24% instances), <tt><a href="tr_penn-pos-ADJ.html">ADJ</a></tt> (680; 8% instances), <tt><a href="tr_penn-pos-VERB.html">VERB</a></tt> (423; 5% instances), <tt><a href="tr_penn-pos-PROPN.html">PROPN</a></tt> (369; 4% instances), <tt><a href="tr_penn-pos-ADV.html">ADV</a></tt> (333; 4% instances),  (69; 1% instances), <tt><a href="tr_penn-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="tr_penn-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="tr_penn-pos-ADP.html">ADP</a></tt> (2; 0% instances)
 
 5556 (65%) `NUM` nodes are leaves.
 

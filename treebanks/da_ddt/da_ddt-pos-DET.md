@@ -13,15 +13,17 @@ The 10 most frequent `DET` lemmas: <em>en, den, sin, anden, denne, nogen, min, d
 
 The 10 most frequent `DET` types:  <em>en, den, de, et, det, sin, deres, hans, andre, denne</em>
 
-The 10 most frequent ambiguous lemmas: <em>en</em> (<tt><a href="da_ddt-pos-DET.html">DET</a></tt> 2186, <tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> 105, <tt><a href="da_ddt-pos-X.html">X</a></tt> 7), <em>den</em> (<tt><a href="da_ddt-pos-DET.html">DET</a></tt> 1961, <tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> 241), <em>sin</em> (<tt><a href="da_ddt-pos-DET.html">DET</a></tt> 283, <tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> 5), <em>anden</em> (<tt><a href="da_ddt-pos-DET.html">DET</a></tt> 154, <tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> 112, <tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt> 29), <em>denne</em> (<tt><a href="da_ddt-pos-DET.html">DET</a></tt> 143, <tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> 33, <tt><a href="da_ddt-pos-X.html">X</a></tt> 1), <em>nogen</em> (<tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> 144, <tt><a href="da_ddt-pos-DET.html">DET</a></tt> 133), <em>min</em> (<tt><a href="da_ddt-pos-DET.html">DET</a></tt> 118, <tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> 3), <em>deres</em> (<tt><a href="da_ddt-pos-DET.html">DET</a></tt> 112, <tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> 1), <em>hans</em> (<tt><a href="da_ddt-pos-DET.html">DET</a></tt> 99, <tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> 3), <em>vores</em> (<tt><a href="da_ddt-pos-DET.html">DET</a></tt> 77, <tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>en</em> (<tt><a href="da_ddt-pos-DET.html">DET</a></tt> 2186, <tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> 103, <tt><a href="da_ddt-pos-X.html">X</a></tt> 5, <tt><a href="da_ddt-pos-ADV.html">ADV</a></tt> 2, <tt><a href="da_ddt-pos-NUM.html">NUM</a></tt> 2), <em>den</em> (<tt><a href="da_ddt-pos-DET.html">DET</a></tt> 1961, <tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> 241), <em>sin</em> (<tt><a href="da_ddt-pos-DET.html">DET</a></tt> 283, <tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> 5), <em>anden</em> (<tt><a href="da_ddt-pos-DET.html">DET</a></tt> 154, <tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> 112, <tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt> 29), <em>denne</em> (<tt><a href="da_ddt-pos-DET.html">DET</a></tt> 143, <tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> 33, <tt><a href="da_ddt-pos-ADV.html">ADV</a></tt> 1), <em>nogen</em> (<tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> 144, <tt><a href="da_ddt-pos-DET.html">DET</a></tt> 133), <em>min</em> (<tt><a href="da_ddt-pos-DET.html">DET</a></tt> 118, <tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> 3), <em>deres</em> (<tt><a href="da_ddt-pos-DET.html">DET</a></tt> 112, <tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> 1), <em>hans</em> (<tt><a href="da_ddt-pos-DET.html">DET</a></tt> 99, <tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> 3), <em>vores</em> (<tt><a href="da_ddt-pos-DET.html">DET</a></tt> 77, <tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>en</em> (<tt><a href="da_ddt-pos-DET.html">DET</a></tt> 1395, <tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> 49, <tt><a href="da_ddt-pos-X.html">X</a></tt> 7), <em>den</em> (<tt><a href="da_ddt-pos-DET.html">DET</a></tt> 668, <tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> 173), <em>de</em> (<tt><a href="da_ddt-pos-DET.html">DET</a></tt> 579, <tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> 325, <tt><a href="da_ddt-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="da_ddt-pos-X.html">X</a></tt> 1), <em>et</em> (<tt><a href="da_ddt-pos-DET.html">DET</a></tt> 605, <tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> 23), <em>det</em> (<tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> 823, <tt><a href="da_ddt-pos-DET.html">DET</a></tt> 414), <em>sin</em> (<tt><a href="da_ddt-pos-DET.html">DET</a></tt> 163, <tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> 2), <em>deres</em> (<tt><a href="da_ddt-pos-DET.html">DET</a></tt> 109, <tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> 1), <em>hans</em> (<tt><a href="da_ddt-pos-DET.html">DET</a></tt> 84, <tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> 3), <em>andre</em> (<tt><a href="da_ddt-pos-DET.html">DET</a></tt> 85, <tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> 44), <em>denne</em> (<tt><a href="da_ddt-pos-DET.html">DET</a></tt> 67, <tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> 2, <tt><a href="da_ddt-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>en</em> (<tt><a href="da_ddt-pos-DET.html">DET</a></tt> 1395, <tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> 48, <tt><a href="da_ddt-pos-X.html">X</a></tt> 5, <tt><a href="da_ddt-pos-ADV.html">ADV</a></tt> 2, <tt><a href="da_ddt-pos-NUM.html">NUM</a></tt> 1), <em>den</em> (<tt><a href="da_ddt-pos-DET.html">DET</a></tt> 668, <tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> 173), <em>de</em> (<tt><a href="da_ddt-pos-DET.html">DET</a></tt> 579, <tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> 325, <tt><a href="da_ddt-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="da_ddt-pos-X.html">X</a></tt> 1), <em>et</em> (<tt><a href="da_ddt-pos-DET.html">DET</a></tt> 605, <tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> 23), <em>det</em> (<tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> 823, <tt><a href="da_ddt-pos-DET.html">DET</a></tt> 414), <em>sin</em> (<tt><a href="da_ddt-pos-DET.html">DET</a></tt> 163, <tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> 2), <em>deres</em> (<tt><a href="da_ddt-pos-DET.html">DET</a></tt> 109, <tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> 1), <em>hans</em> (<tt><a href="da_ddt-pos-DET.html">DET</a></tt> 84, <tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> 3), <em>andre</em> (<tt><a href="da_ddt-pos-DET.html">DET</a></tt> 85, <tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> 44), <em>denne</em> (<tt><a href="da_ddt-pos-DET.html">DET</a></tt> 67, <tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> 2, <tt><a href="da_ddt-pos-ADV.html">ADV</a></tt> 1)
 
 
 * <em>en</em>
   * <tt><a href="da_ddt-pos-DET.html">DET</a></tt> 1395: <em>H.L. Hansen var <b>en</b> udsædvanlig og frodig personlighed .</em>
-  * <tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> 49: <em>Mit hus er et lille skovløberhus bag <b>en</b> af de røde låger .</em>
-  * <tt><a href="da_ddt-pos-X.html">X</a></tt> 7: <em>" Afghanerne er <b>en</b> fantastisk folk .</em>
+  * <tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> 48: <em>Mit hus er et lille skovløberhus bag <b>en</b> af de røde låger .</em>
+  * <tt><a href="da_ddt-pos-X.html">X</a></tt> 5: <em>Jeg tror , jeg er blevet mødt med mere <b>en</b> nysgerrig velvillighed . "</em>
+  * <tt><a href="da_ddt-pos-ADV.html">ADV</a></tt> 2: <em>" Afghanerne er <b>en</b> fantastisk folk .</em>
+  * <tt><a href="da_ddt-pos-NUM.html">NUM</a></tt> 1: <em>Bestyrelsesformanden fik halvandet års fængsel og en bøde på <b>en</b> million kroner for mandagsvig , skattesvig af særlig grov karakter og overtrædelse af aktieselskabsloven og bank- og sparekasseloven .</em>
 * <em>den</em>
   * <tt><a href="da_ddt-pos-DET.html">DET</a></tt> 668: <em>Det ligger ikke klart , hvornår han skal tiltræde <b>den</b> ny stilling .</em>
   * <tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> 173: <em>Men er <b>den</b> nu også det ?</em>
@@ -51,11 +53,11 @@ The 10 most frequent ambiguous types:  <em>en</em> (<tt><a href="da_ddt-pos-DET.
 * <em>denne</em>
   * <tt><a href="da_ddt-pos-DET.html">DET</a></tt> 67: <em>Men det lod sig ikke vurdere , hvor repræsentativ <b>denne</b> stemning var .</em>
   * <tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> 2: <em>Og kendere af den skotske sækkepibe ( ikke uden grund kaldet warpipes ) vil ikke forbavses over , at <b>denne</b> i volumenmæssig henseende var i stand til at holde guitaristerne stangen .</em>
-  * <tt><a href="da_ddt-pos-X.html">X</a></tt> 1: <em>Fastspændt i et seletøj til <b>denne</b> spil blev den 22-årige redder Søren Hansen hejst 25 meter ned i dybet for at undsætte den hårdt kvæstede dreng</em>
+  * <tt><a href="da_ddt-pos-ADV.html">ADV</a></tt> 1: <em>Fastspændt i et seletøj til <b>denne</b> spil blev den 22-årige redder Søren Hansen hejst 25 meter ned i dybet for at undsætte den hårdt kvæstede dreng</em>
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 2.260870 (the average of all parts of speech is 1.355946).
+The form / lemma ratio of `DET` is 2.260870 (the average of all parts of speech is 1.355884).
 
 The 1st highest number of forms (6) was observed with the lemma “en”: <em>een, en, ens, et, én, ét</em>.
 
@@ -76,17 +78,19 @@ Examples: <em>en, ingen, anden, nogen, én, hvert, enhver, hver, een</em>
 
 `DET` nodes are attached to their parents using 2 different relations: <tt><a href="da_ddt-dep-det.html">det</a></tt> (5476; 99% instances), <tt><a href="da_ddt-dep-fixed.html">fixed</a></tt> (28; 1% instances)
 
-Parents of `DET` nodes belong to 4 different parts of speech: <tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt> (4977; 90% instances), <tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt> (341; 6% instances), <tt><a href="da_ddt-pos-PROPN.html">PROPN</a></tt> (158; 3% instances), <tt><a href="da_ddt-pos-ADP.html">ADP</a></tt> (28; 1% instances)
+Parents of `DET` nodes belong to 6 different parts of speech: <tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt> (4976; 90% instances), <tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt> (335; 6% instances), <tt><a href="da_ddt-pos-PROPN.html">PROPN</a></tt> (158; 3% instances), <tt><a href="da_ddt-pos-ADP.html">ADP</a></tt> (28; 1% instances), <tt><a href="da_ddt-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="da_ddt-pos-X.html">X</a></tt> (1; 0% instances)
 
-5497 (100%) `DET` nodes are leaves.
+5489 (100%) `DET` nodes are leaves.
 
-4 (0%) `DET` nodes have one child.
+10 (0%) `DET` nodes have one child.
 
-3 (0%) `DET` nodes have two children.
+2 (0%) `DET` nodes have two children.
 
-The highest child degree of a `DET` node is 2.
+3 (0%) `DET` nodes have three or more children.
 
-Children of `DET` nodes are attached using 5 different relations: <tt><a href="da_ddt-dep-acl-relcl.html">acl:relcl</a></tt> (3; 30% instances), <tt><a href="da_ddt-dep-conj.html">conj</a></tt> (2; 20% instances), <tt><a href="da_ddt-dep-nmod.html">nmod</a></tt> (2; 20% instances), <tt><a href="da_ddt-dep-punct.html">punct</a></tt> (2; 20% instances), <tt><a href="da_ddt-dep-nummod.html">nummod</a></tt> (1; 10% instances)
+The highest child degree of a `DET` node is 3.
 
-Children of `DET` nodes belong to 6 different parts of speech: <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt> (3; 30% instances), <tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt> (2; 20% instances), <tt><a href="da_ddt-pos-PUNCT.html">PUNCT</a></tt> (2; 20% instances), <tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt> (1; 10% instances), <tt><a href="da_ddt-pos-NUM.html">NUM</a></tt> (1; 10% instances), <tt><a href="da_ddt-pos-PROPN.html">PROPN</a></tt> (1; 10% instances)
+Children of `DET` nodes are attached using 5 different relations: <tt><a href="da_ddt-dep-punct.html">punct</a></tt> (15; 65% instances), <tt><a href="da_ddt-dep-acl-relcl.html">acl:relcl</a></tt> (3; 13% instances), <tt><a href="da_ddt-dep-conj.html">conj</a></tt> (2; 9% instances), <tt><a href="da_ddt-dep-nmod.html">nmod</a></tt> (2; 9% instances), <tt><a href="da_ddt-dep-nummod.html">nummod</a></tt> (1; 4% instances)
+
+Children of `DET` nodes belong to 6 different parts of speech: <tt><a href="da_ddt-pos-PUNCT.html">PUNCT</a></tt> (15; 65% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt> (3; 13% instances), <tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt> (2; 9% instances), <tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="da_ddt-pos-NUM.html">NUM</a></tt> (1; 4% instances), <tt><a href="da_ddt-pos-PROPN.html">PROPN</a></tt> (1; 4% instances)
 

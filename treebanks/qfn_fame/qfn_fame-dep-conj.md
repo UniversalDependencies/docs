@@ -26,7 +26,7 @@ The following 15 pairs of parts of speech are connected with `conj`: <tt><a href
 2	we	_	PRON	_	_	3	nsubj	_	Lang=fy
 3	hewwe	_	VERB	_	_	0	root	_	Lang=fy
 4	hjir	_	ADV	_	_	3	case	_	Lang=fy
-5	boven	_	ADP	_	_	4	goeswith	_	Lang=nl
+5	boven	_	ADP	_	_	4	obl	_	Lang=nl
 6	in	_	DET	_	_	7	det	_	Lang=fy
 7	kunstatelier	_	NOUN	_	_	3	obj	_	Lang=nl
 8	en	_	CCONJ	_	_	11	cc	_	Lang=fy

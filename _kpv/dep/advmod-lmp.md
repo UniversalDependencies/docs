@@ -14,4 +14,4 @@ advmod:lmp(сулалысь, гӧгӧр)
 
 ~~~
 
-<!-- Interlanguage links updated So kvě 14 19:02:57 CEST 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:35:07 CET 2022 -->

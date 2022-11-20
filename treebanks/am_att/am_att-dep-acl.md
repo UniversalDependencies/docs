@@ -23,17 +23,17 @@ The following 9 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 5	fgColor:white
 # visual-style 5 2 acl	color:blue
 1	የ	የ	PART	RLP	_	2	mark	_	Translit=jä|LTranslit=jä
-2	ደከም	ደከም	VERB	VERB	_	5	acl	_	Translit=däkämə|LTranslit=däkämə
-3	ኡ	ኡ	PRON	SUBJC	Number=Plur|Person=3	2	nsubj	_	Translit='u|LTranslit='u
-4	ት	ት	PRON	OBJC	Gender=Masc|Number=Sing|Person=3	2	obj	_	Translit=tə|LTranslit=tə
+2	ደከም	ደከም	VERB	VERB	Mood=Ind|VerbForm=Fin	5	acl	_	Translit=däkämə|LTranslit=däkämə
+3	ኡ	እሱ	PRON	SUBJC	Number=Plur|Person=3|PronType=Prs	2	nsubj	_	LTranslit='əsu|Translit='u
+4	ት	እሱ	PRON	OBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	LTranslit='əsu|Translit=tə
 5	አይኖች	አይኖች	NOUN	NOUN	Number=Plur	10	nsubj	_	Translit='äjənočə|LTranslit='äjənočə
-6	ኡ	ኡ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes	5	nmod	_	Translit='u|LTranslit='u
+6	ኡ	እሱ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	nmod	_	LTranslit='əsu|Translit='u
 7	ብዙ	ብዙ	ADV	ADV	_	10	advmod	_	Translit=bəzu|LTranslit=bəzu
 8	ኣል	ኣል	PART	NEG	Polarity=Neg	10	advmod	_	Translit='alə|LTranslit='alə
-9	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	10	expl	_	Translit=jə|LTranslit=jə
-10	ኣስነብ	ኣስነብ	VERB	VERB	Voice=Cau	0	root	_	Translit='asənäbə|LTranslit='asənäbə
-11	ኡ	ኡ	PRON	SUBJC	Number=Plur|Person=3	10	expl	_	Translit='u|LTranslit='u
-12	ት	ት	PRON	OBJC	Gender=Masc|Number=Sing|Person=3	10	obj	_	Translit=tə|LTranslit=tə
+9	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	expl	_	LTranslit='əsu|Translit=jə
+10	ኣስነብ	ኣስነብ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Cau	0	root	_	Translit='asənäbə|LTranslit='asənäbə
+11	ኡ	እሱ	PRON	SUBJC	Number=Plur|Person=3|PronType=Prs	10	expl	_	LTranslit='əsu|Translit='u
+12	ት	እሱ	PRON	OBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obj	_	LTranslit='əsu|Translit=tə
 13	ም	ም	PART	NCM	_	10	discourse	_	Translit=mə|LTranslit=mə
 14	።	።	PUNCT	PUNCT	_	10	punct	_	Translit=.|LTranslit=.
 
@@ -51,9 +51,9 @@ The following 9 pairs of parts of speech are connected with `acl`: <tt><a href="
 3	ኤ	ኤ	DET	DET	_	2	det	_	Translit='e|LTranslit='e
 4	ን	ን	PART	ACC	_	2	case	_	Translit=nə|LTranslit=nə
 5	ጣሪያ	ጣሪያ	NOUN	NOUN	_	6	obj	_	Translit=ţarija|LTranslit=ţarija
-6	አነስ	አነስ	VERB	VERB	_	0	root	_	Translit='änäsə|LTranslit='änäsə
-7	ኣሁ	ኣሁ	PRON	SUBJC	Number=Sing|Person=1	6	nsubj	_	Translit='ahu|LTranslit='ahu
-8	ት	ት	PRON	OBJC	Gender=Fem|Number=Sing|Person=3	6	expl	_	Translit=tə|LTranslit=tə
+6	አነስ	አነስ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit='änäsə|LTranslit='änäsə
+7	ኣሁ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	LTranslit='əne|Translit='ahu
+8	ት	እሱ	PRON	OBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	expl	_	LTranslit='əsu|Translit=tə
 9	።	።	PUNCT	PUNCT	_	6	punct	_	Translit=.|LTranslit=.
 
 ~~~
@@ -66,23 +66,23 @@ The following 9 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 9	fgColor:white
 # visual-style 9 6 acl	color:blue
 1	ምሳ	ምሳ	NOUN	NOUN	_	6	obj	_	Translit=məsa|LTranslit=məsa
-2	ው	ው	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes	1	nmod	_	Translit=wə|LTranslit=wə
+2	ው	እሱ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	1	nmod	_	LTranslit='əsu|Translit=wə
 3	ን	ን	PART	ACC	_	1	case	_	Translit=nə|LTranslit=nə
 4	የ	የ	PART	RLP	_	6	mark	_	Translit=jä|LTranslit=jä
 5	ኣል	ኣል	PART	NEG	Polarity=Neg	6	advmod	_	Translit='alə|LTranslit='alə
-6	በላ	በላ	VERB	VERB	_	9	acl	_	Translit=bäla|LTranslit=bäla
-7	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	6	nsubj	_	Translit='ă|LTranslit='ă
+6	በላ	በላ	VERB	VERB	Mood=Ind|VerbForm=Fin	9	acl	_	Translit=bäla|LTranslit=bäla
+7	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	LTranslit='əsu|Translit='ă
 8	እንደ	እንደ	SCONJ	SCONJ	_	9	mark	_	Translit='ənədä|LTranslit='ənədä
-9	ሆን	ሆን	VERB	VERB	_	16	advcl	_	Translit=honə|LTranslit=honə
-10	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	9	nsubj	_	Translit='ă|LTranslit='ă
+9	ሆን	ሆን	VERB	VERB	Mood=Ind|VerbForm=Fin	16	advcl	_	Translit=honə|LTranslit=honə
+10	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	LTranslit='əsu|Translit='ă
 11	እንድ	እንድ	SCONJ	SCONJ	_	13	mark	_	Translit='ənədə|LTranslit='ənədə
-12	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	13	nsubj	_	Translit=jə|LTranslit=jə
-13	ጫወት	ጫወት	VERB	VERB	_	16	xcomp	_	Translit=ćawätə|LTranslit=ćawätə
+12	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	LTranslit='əsu|Translit=jə
+13	ጫወት	ጫወት	VERB	VERB	Mood=Ind|VerbForm=Fin	16	xcomp	_	Translit=ćawätə|LTranslit=ćawätə
 14	ኣል	ኣል	PART	NEG	Polarity=Neg	16	advmod	_	Translit='alə|LTranslit='alə
-15	ት	ት	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3	16	nsubj	_	Translit=tə|LTranslit=tə
-16	ፍቀድ	ፍቀድ	VERB	VERB	_	0	root	_	Translit=fəqädə|LTranslit=fəqädə
+15	ት	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	LTranslit='əsu|Translit=tə
+16	ፍቀድ	ፍቀድ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=fəqädə|LTranslit=fəqädə
 17	ል	ል	ADP	ADP	Case=Mal	16	case	_	Translit=lə|LTranslit=lə
-18	ኧት	ኧት	PRON	OBJC	Gender=Masc|Number=Sing|Person=3	16	expl	_	Translit='ătə|LTranslit='ătə
+18	ኧት	እሱ	PRON	OBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	expl	_	LTranslit='əsu|Translit='ătə
 19	።	።	PUNCT	PUNCT	_	16	punct	_	Translit=.|LTranslit=.
 
 ~~~

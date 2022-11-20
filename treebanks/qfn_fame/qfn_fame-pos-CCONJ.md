@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Frisian_Dutch-Fame: POS Tags: `CCONJ`
 
-There are 1 `CCONJ` lemmas (8%), 6 `CCONJ` types (0%) and 159 `CCONJ` tokens (4%).
-Out of 13 observed tags, the rank of `CCONJ` is: 5 in number of lemmas, 13 in number of types and 11 in number of tokens.
+There are 1 `CCONJ` lemmas (7%), 6 `CCONJ` types (0%) and 159 `CCONJ` tokens (4%).
+Out of 14 observed tags, the rank of `CCONJ` is: 5 in number of lemmas, 13 in number of types and 11 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>_</em>
 
 The 10 most frequent `CCONJ` types:  <em>en, mar, want, dus, of, maar</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="qfn_fame-pos-NOUN.html">NOUN</a></tt> 483, <tt><a href="qfn_fame-pos-ADV.html">ADV</a></tt> 454, <tt><a href="qfn_fame-pos-PRON.html">PRON</a></tt> 442, <tt><a href="qfn_fame-pos-ADP.html">ADP</a></tt> 441, <tt><a href="qfn_fame-pos-VERB.html">VERB</a></tt> 399, <tt><a href="qfn_fame-pos-DET.html">DET</a></tt> 358, <tt><a href="qfn_fame-pos-PROPN.html">PROPN</a></tt> 305, <tt><a href="qfn_fame-pos-ADJ.html">ADJ</a></tt> 215, <tt><a href="qfn_fame-pos-INTJ.html">INTJ</a></tt> 189, <tt><a href="qfn_fame-pos-AUX.html">AUX</a></tt> 163, <tt><a href="qfn_fame-pos-CCONJ.html">CCONJ</a></tt> 159, <tt><a href="qfn_fame-pos-SCONJ.html">SCONJ</a></tt> 61, <tt><a href="qfn_fame-pos-NUM.html">NUM</a></tt> 60)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="qfn_fame-pos-NOUN.html">NOUN</a></tt> 482, <tt><a href="qfn_fame-pos-ADV.html">ADV</a></tt> 455, <tt><a href="qfn_fame-pos-ADP.html">ADP</a></tt> 441, <tt><a href="qfn_fame-pos-PRON.html">PRON</a></tt> 441, <tt><a href="qfn_fame-pos-VERB.html">VERB</a></tt> 399, <tt><a href="qfn_fame-pos-DET.html">DET</a></tt> 358, <tt><a href="qfn_fame-pos-PROPN.html">PROPN</a></tt> 305, <tt><a href="qfn_fame-pos-ADJ.html">ADJ</a></tt> 214, <tt><a href="qfn_fame-pos-INTJ.html">INTJ</a></tt> 189, <tt><a href="qfn_fame-pos-AUX.html">AUX</a></tt> 163, <tt><a href="qfn_fame-pos-CCONJ.html">CCONJ</a></tt> 159, <tt><a href="qfn_fame-pos-SCONJ.html">SCONJ</a></tt> 61, <tt><a href="qfn_fame-pos-NUM.html">NUM</a></tt> 60, <tt><a href="qfn_fame-pos-X.html">X</a></tt> 2)
 
 The 10 most frequent ambiguous types:  <em>mar</em> (<tt><a href="qfn_fame-pos-CCONJ.html">CCONJ</a></tt> 26, <tt><a href="qfn_fame-pos-ADV.html">ADV</a></tt> 5), <em>dus</em> (<tt><a href="qfn_fame-pos-ADV.html">ADV</a></tt> 10, <tt><a href="qfn_fame-pos-CCONJ.html">CCONJ</a></tt> 7), <em>of</em> (<tt><a href="qfn_fame-pos-CCONJ.html">CCONJ</a></tt> 7, <tt><a href="qfn_fame-pos-ADP.html">ADP</a></tt> 2, <tt><a href="qfn_fame-pos-SCONJ.html">SCONJ</a></tt> 1), <em>maar</em> (<tt><a href="qfn_fame-pos-ADV.html">ADV</a></tt> 2, <tt><a href="qfn_fame-pos-CCONJ.html">CCONJ</a></tt> 2)
 
@@ -34,7 +34,7 @@ The 10 most frequent ambiguous types:  <em>mar</em> (<tt><a href="qfn_fame-pos-C
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 6.000000 (the average of all parts of speech is 105.000000).
+The form / lemma ratio of `CCONJ` is 6.000000 (the average of all parts of speech is 97.571429).
 
 The 1st highest number of forms (6) was observed with the lemma “_”: <em>dus, en, maar, mar, of, want</em>.
 

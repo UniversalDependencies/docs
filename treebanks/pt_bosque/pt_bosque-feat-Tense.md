@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 5 different values: `Fut`, `Imp`, `Past`, `Pqp`, `Pres`.
 
-15138 tokens (7%) have a non-empty value of `Tense`.
+15139 tokens (7%) have a non-empty value of `Tense`.
 3872 types (15%) occur at least once with a non-empty value of `Tense`.
 1279 lemmas (7%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (11239; 5% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (3899; 2% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (11239; 5% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (3900; 2% instances).
 
 ### `VERB`
 
@@ -50,15 +50,15 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-3899 <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> tokens (78% of all `AUX` tokens) have a non-empty value of `Tense`.
+3900 <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> tokens (78% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="pt_bosque-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3898; 100%), <tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt> (3742; 96%), <tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3679; 94%), <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3002; 77%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="pt_bosque-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3899; 100%), <tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt> (3743; 96%), <tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3680; 94%), <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3003; 77%).
 
 `AUX` tokens may have the following values of `Tense`:
 
 * `Fut` (293; 8% of non-empty `Tense`): <em>será, serão, terá, for, irá, estará, estarão, forem, irão, estiver</em>
 * `Imp` (424; 11% of non-empty `Tense`): <em>era, estava, tinha, eram, estavam, fosse, havia, haviam, ia, tinham</em>
-* `Past` (720; 18% of non-empty `Tense`): <em>foi, foram, esteve, fui, estiveram, fomos, teve, tiveram, estivemos, teria</em>
+* `Past` (721; 18% of non-empty `Tense`): <em>foi, foram, esteve, fui, estiveram, fomos, teve, tiveram, estivemos, teria</em>
 * `Pqp` (12; 0% of non-empty `Tense`): <em>fora, foram, tiveram</em>
 * `Pres` (2450; 63% of non-empty `Tense`): <em>é, são, está, vai, estão, tem, seja, vão, têm, tenha</em>
 * `EMPTY` (1127): <em>ser, ter, sido, foram, seria, estar, sendo, é, tendo, serem</em>
@@ -66,7 +66,8 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 <table>
   <tr><th>Paradigm <i>ser</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th><th><tt>Imp</tt></th><th><tt>Pqp</tt></th></tr>
   <tr><td><tt><tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="pt_bosque-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>sou, sô</em></td><td><em>serei</em></td><td><em>fui</em></td><td><em>era</em></td><td><em>fora</em></td></tr>
-  <tr><td><tt><tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pt_bosque-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>é, eis, Sou, çe</em></td><td><em>será</em></td><td><em>foi, foram</em></td><td><em>era</em></td><td><em>fora</em></td></tr>
+  <tr><td><tt><tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pt_bosque-feat-Typo.html">Typo</a></tt><tt>=Yes</tt>|<tt><a href="pt_bosque-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>çe</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pt_bosque-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>é, eis, Sou</em></td><td><em>será</em></td><td><em>foi, foram</em></td><td><em>era</em></td><td><em>fora</em></td></tr>
   <tr><td><tt><tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_bosque-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td></td><td></td><td><em>era</em></td><td></td></tr>
   <tr><td><tt><tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="pt_bosque-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>somos</em></td><td><em>seremos</em></td><td><em>fomos</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pt_bosque-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>são</em></td><td><em>serão</em></td><td><em>foram</em></td><td><em>eram</em></td><td><em>foram</em></td></tr>

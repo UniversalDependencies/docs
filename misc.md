@@ -881,6 +881,82 @@ Used in Hindi HDTB and Urdu UDTB.
     6	था	था	AUX     _   _   5   aux        _   Vib=था|Tam=WA|ChunkId=VGF|ChunkType=child|Translit=thā
     7	।	।	PUNCT   _   _   5   punct      _   ChunkId=BLK|ChunkType=head|Translit=.
 
+### TraditionalMood
+
+This feature is used in three Latin treebanks (IT-TB, LLCT, UDante), and together with [TraditionalTense](#TraditionalTense) supplies the traditional denominations of verb forms, in particular of "mood". This is made for convenience, as the typologically-driven decomposition of tenses in UD features can be different from language-specific terminology and sometimes follows different logics. 
+
+First and foremost, we note that "mood", in traditional literature about Latin, does not correspond only to UD's [`Mood`](u-feat/Mood), but also covers so-called nonfinite [`VerbForm`](la-feat/VerbForm)s. This is possible because of the complementarity of `Mood`'s distribution in Latin: finite forms express it (`Imp`, `Ind`, `Sub`), while nonfinite forms do not. So, the values for `TraditionalMood` are, with their "translations" in UD:
+
+* `Gerundium`
+    * `Aspect=Prosp|Case=Neut|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass` (`VerbForm=Ger`)
+* `Gerundivum`
+    * `Aspect=Prosp|VerbForm=Part|Voice=Pass` (`VerbForm=Gdv`)
+* `Imperativus`
+    * `Mood=Imp`
+* `Indicativus`
+    * `Mood=Ind`
+* `Infinitivus`
+    * `VerbForm=VNoun` (`VerbForm=Inf`)
+* `Participium`
+    * `VerbForm=Part`
+* `Subiunctivus`
+    * `Mood=Sub`
+* `Supinum`
+    * "active": `Aspect=Prosp|VerbForm=Conv|Voice=Act`
+    * "passive": `NOUN` with `Case=Abl|Gender=Masc|InflClass=IndEurU|Number=Sing|VerbForm=VNoun`  (`VerbForm=Sup`)
+
+They are marked only on [`VERB`](la-upos/VERB)s and [`AUX`](la-upos/AUX)s, apart from the passive supine ([`NOUN`](la-upos/NOUN)). For further explanations about the correspondences from a morphological and syntactic point of view, see the documentation page about [`VerbForm`](la-feat/VerbForm).
+
+Traditional moods and tenses are currently annotated only for single forms, and not for periphrastic constructions.
+
+
+```CoNLL-U
+9	impressit	imprimo	VERB	_	Aspect=Perf|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl:relcl	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
+```
+
+```CoNLL-U
+31	ostensum	ostendo	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|InflClass=LatX|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass	26	advcl:cmp	_	TraditionalMood=Participium|TraditionalTense=Perfectum
+32	est	sum	AUX	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	aux:pass	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
+```
+
+
+### TraditionalTense
+
+This feature is used in three Latin treebanks (IT-TB, LLCT, UDante), and together with [TraditionalMood](#TraditionalMood) supplies the traditional denominations of verb forms, in particular of "tense". This is made for convenience, as the typologically-driven decomposition of tenses in UD features can be different from language-specific terminology and sometimes follows different logics. 
+
+In Latin linguistics, the term "tense" is more general than UD's [`Tense`](u-feat/Tense), in that it can mean or encompass also [Aspect](la-feat/Aspect), or be used to refer to a whole periphrastic construction, not just to a single form. The notion of "tense" is extendend with the same terminology also to nonfinite forms, as these do not express `Tense`, and so language-internally no ambiguity arises.
+
+
+* `Imperfectum`
+    * `Aspect=Imp|Tense=Past`
+* `Futurum`
+    * finite: `Aspect=Imp|Tense=Fut`
+    * nonfinite: `Aspect=Prosp`
+* `FuturumExactum`
+    * `Aspect=Perf|Tense=Fut`
+* `Perfectum`
+    * finite: `Aspect=Perf|Tense=Past` (or in some accounts: `Tense=Pres`)
+    * nonfinite: `Aspect=Perf`
+* `Plusquamperfectum`
+    * `Aspect=Perf|Tense=Pqp` (or `Aspect=Perf|Tense=Past` if Perfectum has `Tense=Pres`)
+* `Praesens`
+    * finite: `Aspect=Imp|Tense=Pres`
+    * nonfinite: `Aspect=Imp`
+
+They are marked only on [`VERB`](la-upos/VERB)s and [`AUX`](la-upos/AUX)s. Gerunds and gerundives are not assigned a tense. For further explanations about the correspondences from a morphological point of view, see the documentation page about [`Aspect`](la-feat/Aspect).
+
+Traditional moods and tenses are currently annotated only for single forms, and not for periphrastic constructions.
+
+
+```CoNLL-U
+20	feci	facio	VERB	_	Aspect=Perf|InflClass=LatI2|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	26	advcl:cmp	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
+```
+
+```CoNLL-U
+22	facturo	facio	VERB	_	Aspect=Prosp|Case=Dat|Gender=Masc|InflClass=LatI2|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Act	15	obl:arg	_	TraditionalMood=Participium|TraditionalTense=Futurum
+```
+
+
 ### Translit
 
 See also [LTranslit](#ltranslit), [Gloss](#gloss) and [Vform](#vform).

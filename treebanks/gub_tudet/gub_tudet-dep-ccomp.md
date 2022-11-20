@@ -11,9 +11,9 @@ This relation is universal.
 156 nodes (2%) are attached to their parents as `ccomp`.
 
 155 instances of `ccomp` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.53205128205128.
+Average distance between parent and child is 4.49358974358974.
 
-The following 10 pairs of parts of speech are connected with `ccomp`: <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt> (90; 58% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (44; 28% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-INTJ.html">INTJ</a></tt> (6; 4% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-PART.html">PART</a></tt> (5; 3% instances), <tt><a href="gub_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="gub_tudet-pos-PART.html">PART</a></tt>-<tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 10 pairs of parts of speech are connected with `ccomp`: <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt> (92; 59% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (43; 28% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-PART.html">PART</a></tt> (8; 5% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-PRON.html">PRON</a></tt> (4; 3% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-INTJ.html">INTJ</a></tt> (3; 2% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="gub_tudet-pos-ADP.html">ADP</a></tt>-<tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="gub_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -23,9 +23,9 @@ The following 10 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 6	fgColor:white
 # visual-style 6 1 ccomp	color:blue
 1	Emeʔe	meʔe	VERB	vi	Mood=Imp|Person[subj]=2	6	ccomp	_	_
-2	ɨwate	ɨwak	ADV	adv	_	1	advmod	_	_
-3	nehe	nehe	PART	pcl	_	1	discourse	_	_
-4	tɨ	tɨ	PART	pcl	_	1	discourse	_	_
+2	ɨwate	ɨwak	NOUN	n	Emph=Yes	1	obl	_	_
+3	nehe	nehe	PART	pcl	Tense=Fut	1	discourse	_	_
+4	tɨ	tɨ	PART	pcl	Speech=MM	1	discourse	_	_
 5	,	,	PUNCT	punct	_	1	punct	_	_
 6	iʔi	ʔi	NOUN	n	Rel=NCont	0	root	_	_
 7	Zuze	Zuze	PROPN	pn	_	6	nmod	_	_
@@ -56,15 +56,18 @@ The following 10 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 1 ccomp	color:blue
-1	Heʔe	heʔe	INTJ	intj	Polarity=Pos	3	ccomp	_	_
-2	,	,	PUNCT	punct	_	1	punct	_	_
-3	iʔi	ʔi	NOUN	n	Rel=NCont	0	root	_	_
-4	Mari	Mari	PROPN	pn	_	3	obl:subj	_	_
-5	umenpe	men	NOUN	n	Case=Dat|Rel=Corf	4	obl	_	_
-6	.	.	PUNCT	punct	_	3	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 1 ccomp	color:blue
+1	Aze	aze	PART	pcl	_	4	ccomp	_	_
+2	kɨn	kɨn	PART	pcl	Speech=FF	1	discourse	_	_
+3	,	,	PUNCT	punct	_	1	punct	_	_
+4	iʔi	ʔi	NOUN	n	Rel=NCont	0	root	_	_
+5	Kari	Kari	PROPN	pn	_	4	nmod	_	_
+6	izupe	upe	ADP	posp	Rel=NCont	4	iobj	_	_
+7	,	,	PUNCT	punct	_	8	punct	_	_
+8	uhɨpe	hɨ	NOUN	n	Case=Dat|Rel=Corf	6	appos	_	_
+9	.	.	PUNCT	punct	_	8	punct	_	_
 
 ~~~
 

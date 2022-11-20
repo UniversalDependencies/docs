@@ -25,12 +25,12 @@ The following 16 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 23 19 cc	color:blue
 1	_	_	DET	DT	Definite=Def|PronType=Art	3	det	3:det	Discourse=evaluation-comment:29->16:4|Entity=(34-abstract-new-cf5-3-sgl|Lem=*LOWER*|Len=3
 2	_	_	ADJ	JJ	Degree=Pos	3	amod	3:amod	Lem=_|Len=4
-3	_	_	NOUN	NN	Number=Sing	17	nsubj	17:nsubj	Lem=_|Len=6
+3	_	_	NOUN	NN	Number=Sing	17	nsubj:outer	17:nsubj:outer	Lem=_|Len=6
 4	_	_	SCONJ	IN	_	6	mark	6:mark	Discourse=elaboration-attribute:30->29:0|Lem=_|Len=4
 5	_	_	PRON	DT	Number=Sing|PronType=Dem	6	nsubj	6:nsubj	Entity=(28-event-giv:act-cf1*-1-coref)|Lem=_|Len=4
 6	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl	3:acl:that	Lem=result|Len=7
 7	_	_	ADP	IN	_	8	case	8:case	Lem=_|Len=2
-8	_	_	NOUN	NN	Number=Sing	6	obl	6:obl:in	Entity=(35-abstract-new-cf8-1-sgl|Lem=_|Len=8
+8	_	_	PRON	NN	Number=Sing|PronType=Ind	6	obl	6:obl:in	Entity=(35-abstract-new-cf8-1-sgl|Lem=_|Len=8
 9	_	_	ADJ	JJ	Degree=Pos	8	amod	8:amod	Entity=35)34)|Lem=_|Len=9
 10	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	17:cop	Discourse=same-unit_m:31->29:1|Lem=be|Len=2
 11	_	_	SCONJ	IN	_	17	mark	17:mark	Lem=_|Len=7
@@ -52,7 +52,7 @@ The following 16 pairs of parts of speech are connected with `cc`: <tt><a href="
 27	_	_	ADJ	JJ	Degree=Pos	28	amod	28:amod	Entity=(40-abstract-new-cf9-2-sgl|Lem=_|Len=3
 28	_	_	NOUN	NNS	Number=Plur	25	conj	23:obj|25:conj	Entity=40)|Lem=asset|Len=6|SpaceAfter=No
 29	_	_	PUNCT	,	_	30	punct	30:punct	Lem=_|Len=1
-30	_	_	X	FW	Abbr=Yes	25	conj	23:obj|25:conj	Lem=_|Len=4
+30	_	_	NOUN	FW	Abbr=Yes	25	conj	23:obj|25:conj	Lem=_|Len=4
 
 ~~~
 
@@ -66,7 +66,7 @@ The following 16 pairs of parts of speech are connected with `cc`: <tt><a href="
 1	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	3:nsubj	Discourse=elaboration-additional:77->71:3|Entity=(74-person-giv:inact-cf3-1-ana)|Lem=*LOWER*|Len=3
 2	_	_	AUX	MD	VerbForm=Fin	3	aux	3:aux	Lem=_|Len=3
 3	_	_	VERB	VB	VerbForm=Inf	0	root	0:root	Lem=_|Len=3
-4	_	_	NOUN	NN	Number=Sing	6	compound	6:compound	CorrectForm=government|Entity=(83-abstract-new-cf5-4,6-sgl(23-organization-giv:act-cf1*-1-coref)|Lem=government|Len=5|SpaceAfter=No|XML=<w><sic ana:::"government"></sic>
+4	_	_	NOUN	NN	Number=Sing|Typo=Yes	6	compound	6:compound	CorrectForm=government|Entity=(83-abstract-new-cf5-4,6-sgl(23-organization-giv:act-cf1*-1-coref)|Lem=government|Len=5|SpaceAfter=No|XML=<w><sic ana:::"government"></sic>
 5	_	_	PUNCT	HYPH	_	4	punct	4:punct	Lem=_|Len=1|SpaceAfter=No
 6	_	_	ADJ	JJ	Degree=Pos	7	amod	7:amod	Lem=_|Len=7|XML=</w>
 7	_	_	NOUN	NNS	Number=Plur	3	obj	3:obj	Lem=fee|Len=4
@@ -80,7 +80,7 @@ The following 16 pairs of parts of speech are connected with `cc`: <tt><a href="
 15	_	_	CCONJ	CC	_	25	cc	25:cc	Discourse=joint-list_m:79->77:1|Lem=_|Len=3
 16	_	_	SCONJ	IN	_	22	mark	22:mark	Discourse=causal-cause:80->81:0|Lem=_|Len=7
 17	_	_	DET	DT	Definite=Def|PronType=Art	18	det	18:det	Entity=(23-organization-giv:act-cf1*-2-coref|Lem=_|Len=3
-18	_	_	NOUN	NN	Number=Sing	22	nsubj	22:nsubj	CorrectForm=government|Entity=23)|Lem=government|Len=5|XML=<sic ana:::"government"></sic>
+18	_	_	NOUN	NN	Number=Sing|Typo=Yes	22	nsubj:outer	22:nsubj:outer	CorrectForm=government|Entity=23)|Lem=government|Len=5|XML=<sic ana:::"government"></sic>
 19	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	cop	22:cop	Lem=be|Len=2
 20	_	_	ADV	RB	Degree=Pos	22	advmod	22:advmod	Lem=_|Len=4|SpaceAfter=No|XML=<w>
 21	_	_	PUNCT	HYPH	_	20	punct	20:punct	Lem=_|Len=1|SpaceAfter=No
@@ -102,7 +102,7 @@ The following 16 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 28 24 cc	color:blue
 1	_	_	DET	DT	Definite=Def|PronType=Art	3	det	3:det	Discourse=joint-other_m:145->133:5|Entity=(138-abstract-new-cf2-3-coref|Lem=*LOWER*|Len=3
 2	_	_	NUM	CD	NumForm=Word|NumType=Card	3	nummod	3:nummod	Lem=*LOWER*|Len=3|XML=<hi rend:::"bold"></hi>
-3	_	_	NOUN	NN	Number=Sing	15	nsubj	15:nsubj|30:nsubj:xsubj	Lem=_|Len=10
+3	_	_	NOUN	NN	Number=Sing	15	nsubj:outer	15:nsubj:outer|30:nsubj:xsubj	Lem=_|Len=10
 4	_	_	ADP	IN	_	6	case	6:case	Lem=_|Len=7
 5	_	_	NOUN	NN	Number=Sing	6	compound	6:compound	Entity=(139-object-new-cf5-2-sgl|Lem=_|Len=5
 6	_	_	NOUN	NN	Number=Sing	3	nmod	3:nmod:between	Entity=139)|Lem=_|Len=8
@@ -110,7 +110,7 @@ The following 16 pairs of parts of speech are connected with `cc`: <tt><a href="
 8	_	_	NOUN	NN	Number=Sing	6	conj	3:nmod:between|6:conj:and	Entity=(98-substance-giv:act-cf1*-1-coref)138)|Lem=_|Len=4
 9	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	15:cop	Lem=be|Len=2
 10	_	_	SCONJ	IN	_	15	mark	15:mark	Entity=(138-abstract-giv:act-cf2-6,19-coref|Lem=_|Len=4
-11	_	_	SYM	SYM	_	15	nsubj	15:nsubj|30:nsubj:xsubj	Entity=(140-object-new-cf3-1-sgl|Lem=_|Len=1
+11	_	_	SYM	$	_	15	nsubj	15:nsubj|30:nsubj:xsubj	Entity=(140-object-new-cf3-1-sgl|Lem=_|Len=1
 12	_	_	NUM	CD	NumForm=Digit|NumType=Card	11	nummod	11:nummod	Lem=100000|Len=7
 13	_	_	ADP	IN	_	14	case	14:case	Lem=_|Len=2
 14	_	_	NOUN	NN	Number=Sing	11	nmod	11:nmod:in	Entity=(141-object-new-cf6-1-sgl)140)|Lem=_|Len=4
@@ -119,7 +119,7 @@ The following 16 pairs of parts of speech are connected with `cc`: <tt><a href="
 17	_	_	NOUN	NN	Number=Sing	18	obl:npmod	18:obl:npmod	Lem=_|Len=3
 18	_	_	ADV	RBR	Degree=Cmp	21	advmod	21:advmod	Lem=_|Len=4
 19	_	_	ADP	IN	_	18	fixed	18:fixed	Lem=_|Len=4
-20	_	_	SYM	SYM	_	15	obj	15:obj	Entity=(142-substance-new-cf4-1-sgl|Lem=_|Len=1
+20	_	_	SYM	$	_	15	obj	15:obj	Entity=(142-substance-new-cf4-1-sgl|Lem=_|Len=1
 21	_	_	NUM	CD	NumForm=Digit|NumType=Card	20	nummod	20:nummod	Lem=100000|Len=7
 22	_	_	ADP	IN	_	23	case	23:case	Lem=_|Len=2
 23	_	_	NOUN	NN	Number=Sing	20	nmod	20:nmod:in	Entity=(98-substance-giv:act-cf1*-1-coref)142)|Lem=_|Len=4
