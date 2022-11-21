@@ -42,6 +42,16 @@ xcomp(keep, calm)
 
 The clausal counterpart of this relation is [csubj:outer]().
 
+Only subjects are required to be distinguished in this way. There may, for example, be inner and outer copulas, both attaching as [cop]():
+
+~~~ sdparse
+The important thing is to be calm .
+nsubj:outer(keep, thing)
+cop(calm, is)
+mark(calm, to)
+cop(calm, be)
+~~~
+
 The `:outer` subtype is *not* intended for most nominal subjects of copular clauses—only those where the predicate is itself a clause. 
 Plain [nsubj]() (or another subtype) will be appropriate if the copular clause predicate is a nominal, adjective, etc.:
 
