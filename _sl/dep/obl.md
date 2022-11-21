@@ -59,6 +59,27 @@ obl(visele,same)
 obl(hung,by-themselves)
 ~~~
 
+Similarly, this relation is applied to the adjectives *drug*, *ves*, *prvi* and *zadnji* when they do not perform the role of grammatical subject. The subject in such sentences is usually explicitly expressed. 
+~~~ sdparse
+Kandidata pa zato obtožujeta drug drugega . \n The-candidates CONJ therefore blame each other .
+obl(obtožujeta,drug)
+obj(obtožujeta,drugega)
+obl(blame,each)
+obj(blame,other)
+~~~
+~~~ sdparse
+Odmerki deksametazona so , kot se zdi , vsi enako učinkoviti . \n Doses of-dexamethasone are , as it seems , all equally effective .
+obl(učinkoviti,vsi)
+cop(učinkoviti,so)
+obl(effective,all)
+cop(effective,are)
+~~~
+~~~ sdparse
+Zdravnik John Langdon Down je leta 1866 ta sindrom prvi opisal . \n Doctor John Langdon Down aux-PAST in-the-year 1866 this syndrome for-the-first-time described .
+obl(opisal,prvi)
+obl(described,for-the-first-time)
+~~~
+
 The `obl` relation is currently also used for comparative constructions that are realized by nominal phrases. This includes independent arguments of the predicate in the form of adjuncts of manner, that take the predicate as their head (the first two examples below), as well as actual comparatives, that take the property being compared as their head (the last two examples below).
 ~~~ sdparse
 kot prva drsalka je nastopila v filmih \n as first ice-skater she appeared in films
