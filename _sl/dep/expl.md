@@ -35,4 +35,13 @@ Zagodla jim jo je bolezen . \n Ruined-their-plans them her-CLITIC aux-PAST illne
 expl(Zagodla,jo)
 expl(Ruined-their-plans,her-CLITIC)
 ~~~
+
+This relation is also applied to **genitive pronouns** in cases where the pronoun and subject **refer to the same participant**. This often happens in negated sentences. 
+~~~ sdparse
+Je ni substance pri kateri bi bila raziskovalna dejavnost tako silovita . \n She-GEN does-not-exist substance for which would be research activities so vigorous .
+expl(ni,Je)
+nsubj(ni,substance-3)
+expl(does-not-exist,She-GEN)
+nsubj(does-not-exist,substance-16)
+~~~
 <!-- Interlanguage links updated Po lis 14 15:35:25 CET 2022 -->
