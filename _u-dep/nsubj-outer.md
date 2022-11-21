@@ -46,7 +46,7 @@ Only subjects are required to be distinguished in this way. There may, for examp
 
 ~~~ sdparse
 The important thing is to be calm .
-nsubj:outer(keep, thing)
+nsubj:outer(calm, thing)
 cop(calm, is)
 mark(calm, to)
 cop(calm, be)
