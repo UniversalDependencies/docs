@@ -46,7 +46,7 @@ cc(bojijo,A)
 cc(they-be-afraid,But)
 ~~~
 
-In case of multi-word coordinating conjunctions, such as **_tako-kot_** (_both-and_), **_niti-niti_**, **_ne-ne_** (_neither-nor_), **_ali-ali_** (_either-or_), only the second word is considered to be `cc`, while the first word is analysed as a preconjunct ([cc:preconj]()).
+In case of multi-word coordinating conjunctions, such as **_tako-kot_** (_both-and_), **_niti-niti_**, **_ne-ne_** (_neither-nor_), **_ali-ali_** (_either-or_), **_bodisi-bodisi_**, **_ne le-ampak tudi_**, **_ne-temveč_** only the second word is considered to be `cc`, while the first word is analysed as a preconjunct ([cc:preconj]()).
 
 ~~~ sdparse
 Tudi zato s tovrstnim nasiljem ne ravnatelji ne učitelji nimajo izkušenj . \n Also because-of-this with such violence neither principals nor teachers have experience .
