@@ -48,7 +48,7 @@ parataxis(victims,it-seems)
 cop(victims,will-be)
 ~~~
 
-The `parataxis` relation is also used for linking together the reported clause and the reporting clause in **reported speech**. Regardless of the order in which the reported clause and the reporting clause appear, the head of the relation is always the first clause in the sequence. The only exception to this are cases where the reporting clause is inserted between two separated parts of the reported clause: in such cases the head of the relation is the head of the reporting clause. 
+The `parataxis` relation is also used for linking together the reported clause and the reporting clause in **reported speech**. Regardless of the order in which the reported clause and the reporting clause appear, the head of the relation is always the first clause in the sequence. 
 ~~~ sdparse
 Takole se je glasil : " Ali mora kmet res vedno le ubogati ? " \n This REFLEX aux-PAST it-said : " Does have-to a-farmer really always only obey ? "
 parataxis(glasil,mora)
@@ -61,9 +61,9 @@ parataxis(Victor-16,explained)
 ~~~
 ~~~ sdparse
 " Nimam časa , " sem butasto bleknila , " ker moram na postajo . \n " I-do-not-have time , " aux-PAST stupidly I-said , " because I-have-to-go to station .
-parataxis(bleknila,Nimam)
+parataxis(Nimam,bleknila)
 advcl(Nimam,moram)
-parataxis(I-said,I-do-not-have)
+parataxis(I-do-not-have,I-said)
 advcl(I-do-not-have,I-have-to-go)
 ~~~
 
