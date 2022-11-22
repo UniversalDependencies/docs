@@ -155,12 +155,12 @@ as well as Czech-specific examples scattered across the documentation of constru
   or prepositional phrases in accusative, dative, genitive, locative or instrumental.
   For the purpose of UD the objects are divided to core objects, labeled [obj]() or [iobj](),
   and oblique objects, labeled [obl:arg]().
-  * Bare accusative, dative, genitive and instrumental objects are considered core.
+  * Bare accusative objects are considered core.
+  * Bare dative, genitive and instrumental objects are considered oblique. <!-- Since UD 2.6, UD_Czech-PDT commit 00ff168f52eb769aa15570b00c1801a7a7151082 on 7.12.2019. -->
   * All prepositional objects are considered oblique.
   * Accusative objects of some verbs alternate with finite clausal complements, which are labeled [ccomp]().
   * If a verb subcategorizes for the infinitive (e.g. modal verbs or verbs of control), the infinitival complement is labeled [xcomp]().
-  * If a verb subcategorizes for two core objects, one of them accusative (or `ccomp`) and the other non-accusative,
-    then the non-accusative object is labeled [iobj]().
+  * If a verb subcategorizes for two accusative objects (which is quite rare), one of them should be labeled [iobj]().
     Core nominal objects in other situations are labeled just [obj]().
 * Adjuncts (or, following the Czech grammar, adverbial modifiers realized as noun phrases) are usually
   prepositional phrases, but they can be bare noun phrases as well. They are labeled [obl]():
