@@ -56,6 +56,7 @@ For more information, see the list of [Swedish features](feat/index.html).
 * The following subtypes are used in Swedish:
   * [acl:cleft]() for cleft sentences
   * [acl:relcl]() for relative clauses
+  * [advcl:relcl]() for relative clauses modifying a clause
   * [aux:pass]() for passive auxiliaries
   * [compound:prt]() for verb particles
   * [csubj:pass]() for clausal subjects of passive verbs
