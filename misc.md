@@ -46,11 +46,15 @@ for you. It is thus safer to avoid such practices.
 MISC attributes already attested in UD treebanks are listed here in alphabetical order
 together with brief documentation (and possibly with links to additional information).
 
+<a href="http://tables.grew.fr/?data=ud_feats/MISC"><button title="Large table listing MISC attributes and Treebanks">Table for MISC attributes</button></a>
+
 ### Analysis
 
 See [Morf](#morf). Used currently in Yupik, the `Analysis` attribute conveys the kind of
 information that other treebanks store in the `Morf` attribute.
 **The two names should be merged across treebanks and languages!**
+
+<a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^Analysis$"><button>Table for <code>Analysis</code> feature</button></a>
 
 ### Bridge
 
@@ -97,6 +101,7 @@ Used in conjunction with [Entity](#Entity) to indicate bridging anaphora, by cre
 
 Here "the first" (entity number 144) and "the second" (entity number 146) are volumes of a "translation" (entity number 142), hence we have `Bridge=142<144` and `Bridge=142<146`, indicating that the identity of 144 and 146 is resolvable by reference to entity 142. See more information in the [Entity](#Entity) notation section and the documentation from the [Universal Anaphora format specifications](https://github.com/UniversalAnaphora/UniversalAnaphora/blob/main/documents/UA_CONLL_U_proposal_compact.md)
 
+<a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^Bridge$"><button>Table for <code>Bridge</code> feature</button></a>
 ### Correct{FEATURE}
 
 For instance: `CorrectCase`, `CorrectDegree`, `CorrectGender`, `CorrectMood`, `CorrectNumber`,
@@ -118,6 +123,8 @@ should correspond to the actual form that appears in the text, as described in t
     6   Detroit    Detroit   PROPN   _   Number=Sing                                             4   obl     _   SpaceAfter=No
     7   .          .         PUNCT   _   _                                                       4   punct   _   _
 
+<a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^Correct"><button>Table for <code>Correct{FEATURE}</code> feature</button></a>
+
 ### CorrectForm
 
 See also [Correct{FEATURE}](#correctfeature), [CorrectSpaceAfter](#correctspaceafter) and [ModernForm](#modernform).
@@ -133,6 +140,7 @@ column contains `Typo=Yes`, as described in the [guidelines for typos](u/overvie
     4	kats	cat	NOUN	_	Typo=Yes	2	obj	_	CorrectForm=cats|SpaceAfter=No
     5	.	.	PUNCT	_	_	2	punct	_	_
 
+<a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^CorrectForm$"><button>Table for <code>CorrectForm</code> feature</button></a>
 ### CorrectSpaceAfter
 
 See also [CorrectForm](#correctform), [Correct{FEATURE}](#correctfeature) and [SpaceAfter](#spaceafter).
@@ -149,6 +157,8 @@ More details are discussed in the [guidelines for typos](u/overview/typos.html).
     3	is	be	AUX	_	_	4	cop	_	_
     4	wrong	wrong	ADJ	_	_	0	root	_	CorrectSpaceAfter=No
     5	.	.	PUNCT	_	_	4	punct	_	_
+
+<a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^CorrectSpaceAfter$"><button>Table for <code>CorrectSpaceAfter</code> feature</button></a>
 
 ### Discourse
 
@@ -189,6 +199,8 @@ For instance, Discourse=purpose:105->104:0 at token 21 in the example below mean
 ```
 
 The unique ROOT node of the discourse tree has no arrow notation, e.g. `Discourse=ROOT:2:0` means that this token begins unit 2, which is the Central Discourse Unit (or discourse root) of the current document. 
+
+<a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^Discourse$"><button>Table for <code>Discourse</code> feature</button></a>
 
 ### Entity
 
@@ -242,6 +254,8 @@ In this example, each Entity annotation again contains possibly multiple opening
 
 For more details and use case of the `Entity` annotation, see the [Universal Anaphora documentation](https://github.com/UniversalAnaphora/UniversalAnaphora/blob/main/documents/UA_CONLL_U_proposal_compact.md)
 
+<a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^Entity$"><button>Table for <code>Entity</code> feature</button></a>
+
 ### Gloss
 
 See also [Translit](#translit), [MGloss](#mgloss) and [LGloss](#lgloss).
@@ -262,6 +276,8 @@ directly from fieldwork.
     2   karnta        karnta    NOUN    _   Case=Abs     3   obj     _   Gloss=woman
     3   nyangu        nyangu    VERB    _   Mood=Ind|…   0   root    _   Gloss=saw|SpaceAfter=No
     4   .             .         PUNCT   _   _            3   punct   _   Gloss=.
+
+<a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^Gloss$"><button>Table for <code>Gloss</code> feature</button></a>
 
 ### Lang
 
@@ -302,6 +318,8 @@ particular UPOS tags will be validated as in language `xx`, with one exception: 
 `Foreign=Yes` should be present and it says that the word is foreign in the main language of
 the treebank, not in language `xx`.
 
+<a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^Lang$"><button>Table for <code>Lang</code> feature</button></a>
+
 ### LDeriv
 
 See also [LId](#lid), [LGloss](#lgloss), [LNumValue](#lnumvalue) and [Root](#root).
@@ -328,6 +346,8 @@ it would be visible on a line where the adjective occurs in the corpus).
     7   ročně      ročně      ADV     _   _   3   advmod   _   SpaceAfter=No|LDeriv=roční
     8   .          .          PUNCT   _   _   3   punct    _   _
 
+<a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^LDeriv$"><button>Table for <code>LDeriv</code> feature</button></a>
+
 ### LGloss
 
 See also [LId](#lid), [Gloss](#gloss), [LNumValue](#lnumvalue) and [LDeriv](#lderiv).
@@ -353,6 +373,8 @@ describe or illustrate the usage of the word.
     7   ročně      ročně      ADV     _   _   3   advmod   _   SpaceAfter=No|LDeriv=roční
     8   .          .          PUNCT   _   _   3   punct    _   _
 
+<a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^LGloss$"><button>Table for <code>LGloss</code> feature</button></a>
+
 ### LId
 
 See also [LGloss](#lgloss), [LNumValue](#lnumvalue) and [LDeriv](#lderiv).
@@ -376,6 +398,8 @@ in MISC. Attested e.g. in Czech or Ancient Greek.
     7   ročně      ročně      ADV     _   _   3   advmod   _   SpaceAfter=No|LDeriv=roční
     8   .          .          PUNCT   _   _   3   punct    _   _
 
+<a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^LId$"><button>Table for <code>LId</code> feature</button></a>
+
 ### LNumValue
 
 See also [LId](#lid), [LGloss](#lgloss) and [LDeriv](#lderiv).
@@ -396,6 +420,8 @@ form of the lexeme.
     6   miliardu   miliarda   NOUN    _   _   3   obj      _   LNumValue=1000000000
     7   ročně      ročně      ADV     _   _   3   advmod   _   SpaceAfter=No|LDeriv=roční
     8   .          .          PUNCT   _   _   3   punct    _   _
+
+<a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^LNumValue$"><button>Table for <code>LNumValue</code> feature</button></a>
 
 ### LTranslit
 
@@ -419,6 +445,8 @@ e.g. in Ukrainian, Armenian, Sanskrit, Telugu, and Tamil.
     2     यथा	यथा	ADV     _   PronType=Rel              3   advmod   _   Translit=yathā|LTranslit=yathā|Gloss=how
     3     अनुश्रूयते   अनु-श्रु	VERB    _   Mood=Ind|…|Voice=Pass     0   root     _   Translit=anuśrūyate|LTranslit=anu-śru|Gloss=it-is-heard
     4     ।      	।	PUNCT   _   _                         3   punct    _   Translit=.|LTranslit=.|Gloss=.
+
+<a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^Translit$"><button>Table for <code>Translit</code> feature</button></a>
 
 ### MGloss
 
@@ -445,6 +473,8 @@ This attribute is used e.g. in the Tagalog and Warlpiri treebanks.
     3   nyangu        nyangu    VERB    _   Mood=Ind|…   0   root    _   Gloss=saw|SpaceAfter=No
     4   .             .         PUNCT   _   _            3   punct   _   Gloss=.
 
+<a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^MGloss$"><button>Table for <code>MGloss</code> feature</button></a>
+
 ### ModernForm
 
 See also [CorrectForm](#correctform).
@@ -465,6 +495,8 @@ that this is an archaic form. In the MISC column, we can add `ModernForm=sein` (
     5    philosophisches    philosophisch    ADJ     _    _    6    amod      _    _
     6    Institut           Institut         NOUN    _    _    0    root      _    _
     7    seyn               sein             AUX     _    _    6    cop       _    ModernForm=sein
+
+<a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^ModernForm$"><button>Table for <code>ModernForm</code> feature</button></a>
 
 ### Morf
 
@@ -490,6 +522,8 @@ of the [MorphInd](http://septinalarasati.com/morphind/) morphological analyzer, 
 In Yupik, this attribute seems to be called `Analysis`; **the two names should be merged across
 treebanks and languages!** Example: `Analysis=pagunghagh*(N)^[Abl_Mod.Sg]` (for the word _pagunghaghmeng_).
 
+<a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^Morf$"><button>Table for <code>Morf</code> feature</button></a>
+
 ### MSeg
 
 See also [MGloss](#mgloss), [Morf](#morf) and [Root](#root).
@@ -512,6 +546,8 @@ The Coptic attribute `Morphs` seems to do the same thing; if so, then
     2   karnta        karnta    NOUN    _   Case=Abs     3   obj     _   Gloss=woman
     3   nyangu        nyangu    VERB    _   Mood=Ind|…   0   root    _   Gloss=saw|SpaceAfter=No
     4   .             .         PUNCT   _   _            3   punct   _   Gloss=.
+
+<a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^MSeg$"><button>Table for <code>MSeg</code> feature</button></a>
 
 ### MWE
 
@@ -543,6 +579,8 @@ It is attested in Catalan AnCora, Portuguese Bosque (as _MWE), Spanish AnCora.
     8	confirmat   confirmar   VERB    _   _   0    root    _   _
     9	la          el          DET     _   _   10   det     _   _
     10	condemna    condemna    NOUN    _   _   8    obj     _   _
+
+<a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^MWE$"><button>Table for <code>Morf</code> feature</button></a>
 
 ### MWEPOS
 
@@ -585,6 +623,8 @@ It appears in Beja NSC, various French treebanks, and Naija NSC, as well as in i
     9	la          el          DET     _   _   10   det     _   _
     10	condemna    condemna    NOUN    _   _   8    obj     _   _
 
+<a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^MWEPOS$"><button>Table for <code>MWEPOS</code> feature</button></a>
+
 ### NamedEntity
 
 See also [MWE](#mwe), [MWEPOS](#mwepos), [Proper](#proper) and [Entity](#entity).
@@ -610,6 +650,8 @@ Attested in German GSD and Irish IDT.
     7   Sand         Sand         NOUN   _   _   5   appos   _   NamedEntity=Yes
     8   war          sein         AUX    _   _   9   cop     _   _
     9   einmalig     einmalig     ADJ    _   _   0   root    _   _
+
+<a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^NamedEntity$"><button>Table for <code>NamedEntity</code> feature</button></a>
 
 ### NewPar
 
@@ -653,6 +695,8 @@ and is attested in Swedish and Ukrainian.
     23   *               *              PUNCT   _   _   24   punct    _   NewPar=Yes
     24   konst           konst          NOUN    _   _   13   conj     _   _
 
+<a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^NewPar$"><button>Table for <code>NewPar</code> feature</button></a>
+
 ### OrigLang
 
 See also [Lang](#lang).
@@ -685,6 +729,8 @@ Attested e.g. in Coptic or Komi Zyrian.
     11	ⲭⲣⲉⲓⲥⲧⲓⲁⲛⲟⲥ	ⲭⲣⲉⲓⲥⲧⲓⲁⲛⲟⲥ	NOUN	_	Foreign=Yes	8	obl	_	Entity=person)person-Jesus)|Orig=ⲭⲣⲉⲓⲥⲧⲓⲁⲛⲟⲥ⳿|OrigLang=grc
     12	.	.	PUNCT	_	_	4	punct	_	_
 
+<a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^OrigLang$"><button>Table for <code>OrigLang</code> feature</button></a>
+
 ### Proper
 
 See also [MWE](#mwe), [MWEPOS](#mwepos), [NamedEntity](#namedentity) and [Entity](#entity).
@@ -711,6 +757,8 @@ Italian, Korean, Portuguese, Russian, Spanish, Thai, Turkish.
     4   Колумбии     Колумбия     PROPN   _   _   1    nmod    _   _
     5   сказала      сказать      VERB    _   _   0    root    _   SpaceAfter=No
     6   ,            ,            PUNCT   _   _   15   punct   _   _
+
+<a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^Proper$"><button>Table for <code>Proper</code> feature</button></a>
 
 ### Ref
 
@@ -740,6 +788,8 @@ Old East Slavic TOROT, Romanian Nonstandard, Yoruba YTB.
     10   ayé      ayé      NOUN    _   _   8    conj    _   Gloss=earth|Ref=GEN_1.1|SpaceAfter=No
     11   .        .        PUNCT   _   _   6    punct   _   Gloss=.|Ref=GEN_1.1
 
+<a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^Ref$"><button>Table for <code>Ref</code> feature</button></a>
+
 ### Root
 
 See also [MSeg](#mseg) and [LDeriv](#lderiv).
@@ -764,6 +814,8 @@ Used e.g. in Arabic PADT and Assyrian AS.
     12	"	"	PUNCT	_	_	11	punct	_	Vform="|Translit="
     13	الالمانية	أَلمَانِيّ	ADJ	_	_	9	amod	_	Vform=اَلأَلمَانِيَّةِ|Gloss=German|Root='almAn|Translit=al-ʾalmānīyati|LTranslit=ʾalmānīy
 
+<a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^Root$"><button>Table for <code>Root</code> feature</button></a>
+
 ### SpaceAfter
 
 See also [SpacesAfter](#spacesafter) and [SpacesBefore](#spacesbefore).
@@ -784,6 +836,8 @@ are annotated in the file).
     4   clue    clue    NOUN    _   _   2   obj     _   SpaceAfter=No
     5   .       .       PUNCT   _   _   2   punct   _   _
 
+<a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^SpaceAfter$"><button>Table for <code>SpaceAfter</code> feature</button></a>
+
 ### SpacesAfter
 
 See also [SpaceAfter](#spaceafter), [SpacesBefore](#spacesbefore), [CorrectSpaceAfter](#correctspaceafter) and [NewPar](#newpar).
@@ -798,6 +852,8 @@ Note that `SpacesAfter` should not occur together with `SpaceAfter=No` on the sa
 This attribute was proposed in [issue #332](https://github.com/UniversalDependencies/docs/issues/332).
 It is generated by the [UDPipe](https://ufal.mff.cuni.cz/udpipe) software and occurs in some
 UD treebanks, e.g., Belarusian HSE, Bhojpuri BHTB or Classical Chinese Kyoto.
+
+<a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^SpacesAfter$"><button>Table for <code>SpacesAfter</code> feature</button></a>
 
 ### SpacesBefore
 
@@ -817,6 +873,8 @@ In the value, the following C-like escape sequences are used:
 This attribute was proposed in [issue #332](https://github.com/UniversalDependencies/docs/issues/332).
 It is generated by the [UDPipe](https://ufal.mff.cuni.cz/udpipe) software and occurs in some
 UD treebanks, e.g., Belarusian HSE.
+
+<a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^SpacesBefore$"><button>Table for <code>SpacesBefore</code> feature</button></a>
 
 ### Split
 
@@ -842,6 +900,8 @@ Used in conjunction with [Entity](#Entity) to indicate split antecedent anaphora
 
 Here "their" (entity number 192) refers to both Padalecki (entity number 1) and Jensen Ackles (entity number 97). We therefore have `Split=1<192,97<192`, indicating that the identity of 192 is resolvable by joint reference to entities 1 and 97. See more information in the [Entity](#Entity) notation section and the documentation from the [Universal Anaphora format specifications](https://github.com/UniversalAnaphora/UniversalAnaphora/blob/main/documents/UA_CONLL_U_proposal_compact.md)
 
+<a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^Split$"><button>Table for <code>Split</code> feature</button></a>
+
 ### Stype
 
 Sentence type (modality). It is annotated at the head of the sentence or the clause. The following
@@ -860,6 +920,8 @@ Used in Hindi HDTB and Urdu UDTB.
     5	बनवाया	बनवा	VERB    _   _   0   root       _   Vib=या_था|Tam=yA|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=banavāyā
     6	था	था	AUX     _   _   5   aux        _   Vib=था|Tam=WA|ChunkId=VGF|ChunkType=child|Translit=thā
     7	।	।	PUNCT   _   _   5   punct      _   ChunkId=BLK|ChunkType=head|Translit=.
+
+<a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^Stype$"><button>Table for <code>Stype</code> feature</button></a>
 
 ### Tam
 
@@ -880,6 +942,8 @@ Used in Hindi HDTB and Urdu UDTB.
     5	बनवाया	बनवा	VERB    _   _   0   root       _   Vib=या_था|Tam=yA|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=banavāyā
     6	था	था	AUX     _   _   5   aux        _   Vib=था|Tam=WA|ChunkId=VGF|ChunkType=child|Translit=thā
     7	।	।	PUNCT   _   _   5   punct      _   ChunkId=BLK|ChunkType=head|Translit=.
+
+<a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^Tam$"><button>Table for <code>Tam</code> feature</button></a>
 
 ### TraditionalMood
 
@@ -919,6 +983,8 @@ Traditional moods and tenses are currently annotated only for single forms, and 
 32	est	sum	AUX	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	aux:pass	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 ```
 
+<a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^TraditionalMood$"><button>Table for <code>TraditionalMood</code> feature</button></a>
+
 
 ### TraditionalTense
 
@@ -956,6 +1022,7 @@ Traditional moods and tenses are currently annotated only for single forms, and 
 22	facturo	facio	VERB	_	Aspect=Prosp|Case=Dat|Gender=Masc|InflClass=LatI2|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Act	15	obl:arg	_	TraditionalMood=Participium|TraditionalTense=Futurum
 ```
 
+<a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^TraditionalTense$"><button>Table for <code>TraditionalTense</code> feature</button></a>
 
 ### Translit
 
@@ -978,6 +1045,8 @@ e.g. in Ukrainian, Armenian, Sanskrit, Telugu, and Tamil.
     2     यथा	यथा	ADV     _   PronType=Rel              3   advmod   _   Translit=yathā|LTranslit=yathā|Gloss=how
     3     अनुश्रूयते   अनु-श्रु	VERB    _   Mood=Ind|…|Voice=Pass     0   root     _   Translit=anuśrūyate|LTranslit=anu-śru|Gloss=it-is-heard
     4     ।      	।	PUNCT   _   _                         3   punct    _   Translit=.|LTranslit=.|Gloss=.
+
+<a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^Translit$"><button>Table for <code>Translit</code> feature</button></a>
 
 ### Vform
 
@@ -1004,6 +1073,8 @@ Used e.g. in Arabic PADT.
     12	"	"	PUNCT	_	_	11	punct	_	Vform="|Translit="
     13	الالمانية	أَلمَانِيّ	ADJ	_	_	9	amod	_	Vform=اَلأَلمَانِيَّةِ|Gloss=German|Root='almAn|Translit=al-ʾalmānīyati|LTranslit=ʾalmānīy
 
+<a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^Vform$"><button>Table for <code>Vform</code> feature</button></a>
+
 ### Vib
 
 See also [Tam](#tam).
@@ -1028,6 +1099,8 @@ Used in Hindi HDTB and Urdu UDTB.
     5	बनवाया	बनवा	VERB    _   _   0   root       _   Vib=या_था|Tam=yA|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=banavāyā
     6	था	था	AUX     _   _   5   aux        _   Vib=था|Tam=WA|ChunkId=VGF|ChunkType=child|Translit=thā
     7	।	।	PUNCT   _   _   5   punct      _   ChunkId=BLK|ChunkType=head|Translit=.
+
+<a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^Vib$"><button>Table for <code>Vib</code> feature</button></a>
 
 ### XML
 
@@ -1070,3 +1143,4 @@ The annotation `XML` is used to encode opening and closing XML/HTML tags in sour
 
 This example illustrates several types of tags found in the source data for this document: hyperlinks, resolved date annotations, and rendering markup, such as bold font weight. The convention for the XML annotations is to indicate all opening tags opening before a token on its line's MISC field, in order of opening, and all closing tags on the line of the token after which the tag closes (in the reverse order). As a result, XML markup around a single token will have both the opening and closing elements on the same line (see token 30 in the example, a single-token hyperlink). The XML elements are represented canonically including their attributes, except that the equals sign is escaped as `:::`, to avoid confusion with the MISC field's own `=` sign. If pipes occur in the value, they must also be escaped using an XML escape (e.g. `&#124;`).
 
+<a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^XML$"><button>Table for <code>XML</code> feature</button></a>
