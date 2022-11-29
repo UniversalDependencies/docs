@@ -396,6 +396,8 @@ collections:
     output: true
   ml:
     output: true
+  bor:
+    output: true
 # End of language collections (do not remove this comment, addlanguage.sh looks for it)
 
 
