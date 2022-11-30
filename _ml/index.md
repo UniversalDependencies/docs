@@ -30,21 +30,21 @@ udver: '2'
     character, may in Malayalam actually result in a half vowel _ŭ_, especially at the end of a word. To signal that
     there is really no vowel, some consonants in the Malayalam script have so-called _chillu_ variants, which have
     their own Unicode position. However, there is an older alternative of signalling that the chillu glyph should be
-    rendered: using the standard code of the consonant, followed by viram (U+0D4D) and zero width joiner (U+200D).
-    For example, കമ്യൂണിക്കേഷന്‍സ് / _kamyūṇikkēṣans_ “communications”, has viram and zero width joiner between ന / _na_ and സ / _sa_.
+    rendered: using the standard code of the consonant, followed by a viram (U+0D4D) and a zero width joiner (U+200D).
+    For example, കമ്യൂണിക്കേഷന്‍സ് / _kamyūṇikkēṣans_ “communications”, has a viram and a zero width joiner between ന / _na_ and സ / _sa_.
     Without these two characters, but using _chillu na_ (U+0D7B) instead of _na_ (U+0D28), the resulting glyphs should
-    look the same: കമ്യൂണിക്കേഷൻസ്. On the other hand, with standard _na_, viram, and without the zero width joiner,
+    look the same: കമ്യൂണിക്കേഷൻസ്. On the other hand, with the standard _na_, viram, and without the zero width joiner,
     the string will look different: കമ്യൂണിക്കേഷന്സ്. When annotating text that originally used the zero width joiner,
-    we have two options: 1. Keep the original encoding but annotate it with the `Typo=Yes` feature and indicating
+    we have two options: 1. Keep the original encoding but annotate it with the `Typo=Yes` feature and indicate
     the preferred encoding using a `CorrectForm` attribute in MISC. Models could learn the normalization and be able
     to process texts that contain this encoding. 2. Normalize the text to the encoding that uses the _chillu_
     consonants, just like we apply standard NFC Unicode normalization. Parsers and other tools that process new text
     would have to apply the same normalization before using trained models. It has yet to be decided which option we
     will choose.
-* In addition, zero width non-joiner (U+200C) may be used to signal that two consecutive consonants should not be
+* In addition, a zero width non-joiner (U+200C) may be used to signal that two consecutive consonants should not be
   rendered as a ligature. This is is a rare phenomenon but it is not an obsolete thing, so no normalization is applied.
   For example: സ്‌കോര്‍പിയോ / _skōrpiyō_ has a viram and a zero width non-joiner between the initial സ / _sa_ and ക / _ka_.
-  Without the zero width non-joiner, the word would look like this: സ്കോര്പിയോ (the ligature may or may not be visible
+  Without the zero width non-joiner, the word would look like this: സ്കോർപിയോ (the ligature _sk_ may or may not be visible
   depending on the rendering algorithm used by your browser). Note that the first variant of the word also has a zero
   width joiner after ര _ra_, which is converted in the second variant using ർ / _chillu rra_, as described above.
 
