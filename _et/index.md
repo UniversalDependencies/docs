@@ -29,9 +29,7 @@ udver: '2'
 This is an overview only.
 
 * Estonian uses 16 universal POS categories (all UD catecories except PART).
-* The pronoun ([PRON]()) vs. determiner ([DET]()) distinction is based on word lists because the traditional grammar does not define determiners.
-  In general, pronouns which agree with a modified noun, are tagged [DET](), pronominal quantifiers are [DET]() as well.
-* Estonian has following auxiliary verbs: _olema_ ("to be"), _ei_, _ära_ ("not"), _võima_, _saama_, _pidama_, _tohtima_, _näima_, _paistma_, _tunduma_ (modal verbs)
+* Estonian has following auxiliary verbs: _olema_ ("to be"), _ei_, _ära_ ("not"), _võima_, _saama_, _pidama_, _tohtima_, _näima_, _paistma_, _tunduma_ (modal verbs). Modal verbs, except _võima_ and _tohtima_, can also be used as main verbs, depending on the context.
   The auxiliary verbs are used in several types of constructions:
   1. _ei_, _ära_:
    * negation of verb
