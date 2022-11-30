@@ -19,6 +19,22 @@ udver: '2'
 
 ### Tags
 
+## Person indexes
+
+Person  |       Before consonant       | Before vowel          |
+--------------------|------------------|-----------------------|
+1S      | _i-_      | _it-_, _in-_, _ik-_  |
+2S      | _a-_     | _ak-_              |
+3S      |_∅_, _u-_     |
+3Anaf   |_tu-_, _pu-_ |_t-_, _tud-_, _pud-_,    |
+1PL.EX  | _ce-_ | _ced-_, _cen-_, _ceg-_  |
+1PL.IN  | _pa-_   | _pag-_   |
+2PL     | _ta-_   | _tag-_   |
+3PL     | _e-_    | _et-_, _en-_, _ek-_       |
+3Anaf   |_tu-_, _pu-_ |_t-_, _tud-_, _pud-_,    |
+
+The first plural of person indexes distinguish between the values `Ex` (exclusive) and `In` (inclusive) for the feature `Clusivity`
+
 *
 
 ---
@@ -37,7 +53,7 @@ udver: '2'
 
 ## Syntax
 
-*
+* The only argument of an intransitive verb is marked by agreement on the verb. For transitive verbs, the only agreement marker on the verb is that of the patient argument.
 
 ---
 **Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
