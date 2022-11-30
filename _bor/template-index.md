@@ -8,6 +8,8 @@ udver: '2'
 
 ## Tokenization and Word Segmentation
 
+Bororo uses all 18 tags. Words are delimited by a space.
+
 *
 
 ---
