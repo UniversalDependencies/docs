@@ -14,9 +14,9 @@ udver: '2'
 </tr>
 </table>
 
-`Ass` Assertivr 
+`Ass` Assertive 
 
-### <a name="Ass">`Ass`</a>: Ass
+### <a name="Ass">`Ass`</a>: Assertive
 
 
 #### Example
