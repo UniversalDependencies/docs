@@ -14,9 +14,9 @@ udver: '2'
 </tr>
 </table>
 
-`Rel` (relativizer) indicates a  
+`Yes` (relativizer) indicates a  
 
-### <a name="Rel">`Rel`</a>: Relativizer
+### <a name="Yes">`Yes`</a>: Yes
 
 The Relativizer
 
