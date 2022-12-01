@@ -37,7 +37,15 @@ Person  |       Before consonant       | Before vowel          |
 
 The first plural of person indexes distinguish between the values `Ex` (exclusive) and `In` (inclusive) for the feature `Clusivity`
 
-*
+* Nouns are either possessed or unpossessed. Possessed nouns are either alienably o inalienably possessed and this distinction is morphologically marked, with inalienably possessed nouns being marked by agreement with the possessor.
+
+```
+Imi iia
+imi i-ia
+I 1SG-mouth
+my mouth
+```
+
 
 ---
 **Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
@@ -55,7 +63,22 @@ The first plural of person indexes distinguish between the values `Ex` (exclusiv
 
 ## Syntax
 
-* The only argument of an intransitive verb is marked by agreement on the verb. For transitive verbs, the only agreement marker on the verb is that of the patient argument.
+The only argument of an intransitive verb is marked by agreement on the verb. 
+
+```
+Imaragodure
+i-maragodu-re
+1SG-work-ASS
+```
+
+For transitive verbs, the only agreement marker on the verb is that of the patient argument.
+
+```
+adugore emage ewido
+adugo-re e-mage e-bito
+jaguar-ASS they 3PL-kill
+The jaguar killed them
+```
 
 ---
 **Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
