@@ -1,7 +1,7 @@
 ---
 layout: feature
-title: 'Evid'
-shortdef: 'Evid'
+title: 'Evident'
+shortdef: 'Evident'
 udver: '2'
 ---
 
