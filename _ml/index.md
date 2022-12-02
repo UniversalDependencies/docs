@@ -97,6 +97,16 @@ udver: '2'
   [Inan](https://universaldependencies.org/u/feat/Animacy.html#Inan).
   Animacy is grammatically relevant because inanimate nouns may occur without accusative marking when used ad direct
   objects. Animates include nouns denoting persons, animals, or trees.
+  * Animacy aligns with gender only partially. Masculine and feminine third person pronouns refer to persons and are
+    perceived as animate. Neuter pronouns can be animate if referring to animals or plants, and inanimate otherwise.
+    For inanimates, the accusative form is equal to the nominative (അത്  / _at_ “it”), while for animates it uses
+    a separate form (അതിനെ / _atine_ “it”).
+    <!--
+      https://profilpelajar.com/article/Malayalam_grammar
+      http://quest.ms.mff.cuni.cz/cgi-bin/zeman/translit/translit.pl?url=https%3A%2F%2Fpacchapuuccha.tumblr.com%2Fpost%2F172703961315%2Fmalayalam-lesson-7-the-accusative-case&jazyk=ml&submit=Submit
+      https://pacchapuuccha.tumblr.com/post/172703961315/malayalam-lesson-7-the-accusative-case
+    -->
+  * We annotate the animacy of third person neuter pronouns but we omit the feature for other pronouns.
 * The two values of [Number]() are
   [Sing](https://universaldependencies.org/u/feat/Number.html#Sing) and
   [Plur](https://universaldependencies.org/u/feat/Number.html#Plur).
