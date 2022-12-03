@@ -35,12 +35,9 @@ udver: '2'
     Without these two characters, but using _chillu na_ (U+0D7B) instead of _na_ (U+0D28), the resulting glyphs should
     look the same: കമ്യൂണിക്കേഷൻസ്. On the other hand, with the standard _na_, viram, and without the zero width joiner,
     the string will look different: കമ്യൂണിക്കേഷന്സ്. When annotating text that originally used the zero width joiner,
-    we have two options: 1. Keep the original encoding but annotate it with the `Typo=Yes` feature and indicate
-    the preferred encoding using a `CorrectForm` attribute in MISC. Models could learn the normalization and be able
-    to process texts that contain this encoding. 2. Normalize the text to the encoding that uses the _chillu_
-    consonants, just like we apply standard NFC Unicode normalization. Parsers and other tools that process new text
-    would have to apply the same normalization before using trained models. It has yet to be decided which option we
-    will choose.
+    we normalize the text to the encoding that uses the _chillu_ letters, provided the corresponding _chillu_ letter
+    exists. If the viram and zero width joiner follow a consonant that lacks the corresponding _chillu_ letter, the
+    string is left as is.
 * In addition, a zero width non-joiner (U+200C) may be used to signal that two consecutive consonants should not be
   rendered as a ligature. This is is a rare phenomenon but it is not an obsolete thing, so no normalization is applied.
   For example: സ്‌കോര്‍പിയോ / _skōrpiyō_ has a viram and a zero width non-joiner between the initial സ / _sa_ and ക / _ka_.
