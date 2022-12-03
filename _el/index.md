@@ -40,16 +40,16 @@ udver: '2'
 ### Tags
 
 * GUD uses 17 universal POS categories. 
+* 
 * The negative particles *δεν*, *μην* and  *όχι* (the last one, only in limited contexts) are tagged [PART](). Οther words assigned the tag [PART]() are *ας*, 
 	*καν*, *μπας (και)*,	*μην*, *να* (limited contexts),	 *πάρα*, *μακάρι*.
-
 * The current set of auxiliary words ([AUX]()) include:
-  * the copula *είμαι* (be)
-  * the auxiliary verb *έχω* (have), which combines with the infinitive to form perfect tenses
-  * the impersonal verb *πρέπει* (must)
-  * the indeclinable future marker *θα*
-  * the indeclinable subjunctive particle *να*
-  * the indeclinable subjunctive particle *ας*
+  * *είμαι* "to be" when it is used to assign a property to an entity; typically, properties are denoted with adjectives, e.g., *είμαι ψηλός* "I am tall".
+  * the auxiliary verb *έχω* (have), in periphrastic verb tenses, both active and passive ones.
+  * the indeclinable *θα*, in periphrastic verb tenses, both active and passive ones.
+  * the indeclinable subjunctive particle *να* when:	
+	*It introduces the verb (or the auxiliary "to be") of a main clause, e.g., <b>Να</b>.[AUX]()  *έρθεις*.[root]() *γρήγορα* "Come early.",  *Ούτε* <b>να</b>.[AUX]()   *τ' ακούσει*.[root]() "He would not even hear it."  *Ούτε βουλευτής.[root]() να.[AUX]() ήσουν.[AUX]()!* "Imagine what would happen if you were an MP!"
+	*It  occurs in relative clauses after the relativisers *που*, *o οποίος*, e.g.,  *Δεν υπάρχει τίποτα παραπάνω* <b>που</b>.[PRON]() <b>να</b>.[AUX]() έχει ανακαλύψει η άλλη δυάδα "there is nothing more that.[PRON]()  the other couple would have discovered",  *Στη συνέχεια γράψτε μια συνάρτηση* <b>η οποία</b>. [PRON]() <b>να</b>.[AUX]()  *τυπώνει αυτά τα δεδομένα* "Next, write a function that.[PRON]() will print the data." 
 *  The tag [DET]() is used for the definite and the indefinite article. The tag [PRON]() is used for pronouns occurring as the head of a noun phrase, for pronouns preceding or following their nominal head with which they agree in gender, number and case,  or for possessives in the genitive following their head
 *  Past participles used adjectivally are  mostly tagged  [ADJ]()
 
