@@ -18,7 +18,7 @@ adverbials realized by noun phrases or adpositional phrases
 
 ~~~ sdparse
 ιδιαίτερα καλή τοποθέτηση
-advmod(ιδιαίτερα, καλή)
+advmod(καλή, ιδιαίτερα)
 ~~~
 
 ~~~ sdparse
