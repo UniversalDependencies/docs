@@ -24,6 +24,7 @@ Also, *είμαι* "to be" is assigned the tag [AUX]() when it is used to assign
 ### Examples
 -	Tense auxiliaries: *έχει φύγει* / *echi figi* "he/she/it is gone", *θα φύγει* / *tha figi* "he/she/it will go"
 -	Auxiliaries with passive verb forms: *έχει γραφτεί* / *echi grafti* "he/she/it has been written", *θα γραφτεί* / *tha grafti* "he/she/it  will be written" 
+-	Auxiliary use of *είμαι*: *το τριαντάφυλο είναι  λουλούδι"* / *to triantafilo ine louloudi* "a rose is a flower", *ο Αλέξανδρος είναι ψηλός* / *o Alexandros ine psilos* "Alexandros is tall"
 -	Auxiliary use of *να*: *Να προσέχεις* "Βe careful.", *Θέλω κάποιον που να ξέρει από υπολογιστές.* "Ι  need a person who is fluent with computers."
 
 ### References
