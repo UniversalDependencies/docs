@@ -17,14 +17,13 @@ udver: '2'
 * Abbreviations are treated as single words and may contain punctuation: *ΕΕ*, *χλμ.*, *π.Χ.*
 * There is one group of contractions that are treated as multi-word tokens and are segmented to individual syntactic words, namely combinations of the preposition *σε* and types of the definite article: *στον = σ + τον* “in/to/on the”.
 
-<b>GUD and GUT follow the same tokenization and word segmentation guidelines</b>
+<b>GDT and GUD have adopted the same tokenization and word segmentation guidelines</b>
 
-## Morphology
-
+## Morphology-GDT
 
 ### Tags
 
-* Greek uses 16 universal POS categories, including particles ([PART]()). No interjections ([INTJ]()) exist in the current dataset.
+* GDT uses 16 universal POS categories, including particles ([PART]()). No interjections ([INTJ]()) exist in the current dataset.
 * Words tagged [PART]() are the negative particles *δεν* and *μην*.
 * The current set of auxiliary words ([AUX]()) include:
   * the copula *είμαι* (be)
@@ -36,6 +35,23 @@ udver: '2'
 *  The tag [DET]() is used for the definite and the indefinite article. The tag [PRON]() is used for pronouns occurring as the head of a noun phrase, for pronouns preceding or following their nominal head with which they agree in gender, number and case,  or for possessives in the genitive following their head
 *  Past participles used adjectivally are  mostly tagged  [ADJ]()
 
+## Morphology-GUD
+
+### Tags
+
+* GUD uses 17 universal POS categories. 
+* The negative particles *δεν*, *μην* and  *όχι* (the last one, only in limited contexts) are tagged [PART](). Οther words assigned the tag [PART]() are *ας*, 
+	*καν*, *μπας (και)*,	*μην*, *να* (limited contexts),	 *πάρα*, *μακάρι*.
+
+* The current set of auxiliary words ([AUX]()) include:
+  * the copula *είμαι* (be)
+  * the auxiliary verb *έχω* (have), which combines with the infinitive to form perfect tenses
+  * the impersonal verb *πρέπει* (must)
+  * the indeclinable future marker *θα*
+  * the indeclinable subjunctive particle *να*
+  * the indeclinable subjunctive particle *ας*
+*  The tag [DET]() is used for the definite and the indefinite article. The tag [PRON]() is used for pronouns occurring as the head of a noun phrase, for pronouns preceding or following their nominal head with which they agree in gender, number and case,  or for possessives in the genitive following their head
+*  Past participles used adjectivally are  mostly tagged  [ADJ]()
 
 ### Features
 
