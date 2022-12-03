@@ -17,6 +17,7 @@ udver: '2'
 * Abbreviations are treated as single words and may contain punctuation: *ΕΕ*, *χλμ.*, *π.Χ.*
 * There is one group of contractions that are treated as multi-word tokens and are segmented to individual syntactic words, namely combinations of the preposition *σε* and types of the definite article: *στον = σ + τον* “in/to/on the”.
 
+<b>GUD and GUT follow the same tokenization and word segmentation guidelines</b>
 
 ## Morphology
 
