@@ -21,7 +21,7 @@ udver: '2'
 
 ## Morphology-GDT
 
-### Tags
+### Tags-GDT
 
 * GDT uses 16 universal POS categories, including particles ([PART]()). No interjections ([INTJ]()) exist in the current dataset.
 * Words tagged [PART]() are the negative particles *δεν* and *μην*.
@@ -35,9 +35,18 @@ udver: '2'
 *  The tag [DET]() is used for the definite and the indefinite article. The tag [PRON]() is used for pronouns occurring as the head of a noun phrase, for pronouns preceding or following their nominal head with which they agree in gender, number and case,  or for possessives in the genitive following their head
 *  Past participles used adjectivally are  mostly tagged  [ADJ]()
 
+### Features-GDT
+
+* Nouns have inherent [Gender]() and inflect for [Number]() (singular or plural), and [Case]() (nominative, genitive, accusative and vocative). Remnants of the dative case also exist in set phrases.
+* Finite verbs of the [Ind]() mood have one of two values of [Voice](): `Act` and `Pass`; one of two values of [Tense](): `Past` and `Pres`; one of two values of [Number](): `Sing` and `Plur`; and one of three values of [Person](): `1`, `2` and `3`.   Finite verbs of the [Imp]() mood have only `2`nd [Person]().  The [Aspect]() feature has `Imp` and `Perf` values. There are three types of nonfinite forms: infinitives used to form perfect tenses, passive voice `-μένος` participles, and active voice `-[ώο]ντας` converbs.
+* Adjectives agree with nouns (in both attributive and predicate position) with respect to the [Gender](), [Number]() and [Case]() features.
+* Pronouns inflect for [Gender](), [Number](), [Case]() like nouns and adjectives.
+* [Degree]() applies to adjectives ([ADJ]()) and adverbs ([ADV]()) and has one of three possible values: `Pos`, `Cmp`, `Sup`
+
+
 ## Morphology-GUD
 
-### Tags
+### Tags-GUD
 
 * GUD uses 17 universal POS categories. 
 * 
@@ -53,7 +62,7 @@ udver: '2'
 *  The tag [DET]() is used for the definite and the indefinite article. The tag [PRON]() is used for pronouns occurring as the head of a noun phrase, for pronouns preceding or following their nominal head with which they agree in gender, number and case,  or for possessives in the genitive following their head
 *  Past participles used adjectivally are  mostly tagged  [ADJ]()
 
-### Features
+### Features-GUD
 
 * Nouns have inherent [Gender]() and inflect for [Number]() (singular or plural), and [Case]() (nominative, genitive, accusative and vocative). Remnants of the dative case also exist in set phrases.
 * Finite verbs of the [Ind]() mood have one of two values of [Voice](): `Act` and `Pass`; one of two values of [Tense](): `Past` and `Pres`; one of two values of [Number](): `Sing` and `Plur`; and one of three values of [Person](): `1`, `2` and `3`.   Finite verbs of the [Imp]() mood have only `2`nd [Person]().  The [Aspect]() feature has `Imp` and `Perf` values. There are three types of nonfinite forms: infinitives used to form perfect tenses, passive voice `-μένος` participles, and active voice `-[ώο]ντας` converbs.
