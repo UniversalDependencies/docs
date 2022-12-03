@@ -61,6 +61,7 @@ udver: '2'
 
 ## Treebanks
 
-There is one Greek UD treebank:
+There are two Modern Greed UD treebanks: UD_Greek-GDT and UD_Greek-GUD.
 
   * [Greek-GDT](../treebanks/el_gdt/index.html)
+  * Greek-GUD will be uploaded soon. 
