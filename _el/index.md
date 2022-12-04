@@ -47,13 +47,19 @@ There are two  UD treebanks of Modern Greek (EL): UD_Greek-GDT, UD_Greek-GUD. GD
 
 
 ## Morphology-GUD
-Major differences at  PoS level between GDT and GUD are the treatement of  *να* and the system of determiners [DET]() as GUD adheres to UD.v2 morphological guidelines quite closely.
+Major differences at  PoS level between GDT and GUD are the treatement of  *να* and the system of determiners [DET]() as GUD adheres to UD.v2 morphological guidelines quite closely. Other differences also exist, e.g., the treatment of participles, *που*, etc.
 
 ### Tags-GUD
 
 
 * GUD uses 17 universal POS categories. [INT]() is used for words such as *αμήν* "amen", *ναι* / *ne* "yes",  [INTJ]() with [Polarity=Pos](), *όχι* /*ochi* "no/not", [INTJ]() with [Polarity=Neg](), *καλημέρα* / *kalimera* "goodmorning", *καληνύχτα* / *kalinichta* "goodnight", etc.
-*  Past participles used adjectivally are  mostly tagged  [ADJ]()
+* The tag [ADJ]() is assigned to:
+  *  ordinary adjectives and ordinal numerals
+  *    nationalities, , e.g., _Έλληνας_ / *Elinas*  "Greek"
+  *  professions, e.g.,  *αστυνομικός* / astinomikos "policeman"
+  * some Ancient Greek adverbs that are still in use in EL: *νυν* / *nin* "current", *τέως* / *teos* "past" 
+  *  pieces of phrases received from older forms of the language: *καθωσπρέπει* / *kathosprepi* "proper" (originally two words written as one word nowadays).
+  *  formations in *-μένος* that are not related to a verb in use in EL, e.g. *χιλιοτραγουδισμένος* / chiliotragoudismenos “storied”, *ξακουσμένος* / ksakousmenos “famous”, etc; these are assigned the  tag ADJ.  
 * As auxiliary words ([AUX]()) are considered:
   * *είμαι* "be" when it is used to assign a property to an entity; typically, properties are denoted with adjectives, e.g., *είμαι ψηλός* "I am tall".
   *  *έχω* "have", in verb complexes, both active and passive ones; when *έχω* is used as a content verb it is assigned the tag [VERB]().
