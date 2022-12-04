@@ -47,9 +47,10 @@ There are two  UD treebanks of Modern Greek (EL): UD_Greek-GDT, UD_Greek-GUD. GD
 
 
 ## Morphology-GUD
+Major differences at  PoS level between GDT and GUD are the treatement of  *να* and the system of determiners [DET]() as GUD adheres to UD.v2 morphological guidelines quite closely.
 
 ### Tags-GUD
-Major differences between GDT and GUD are the treatement of  *να* and the system of determiners [DET]() as GUD adheres to UD.v2 morphological guidelines quite closely. 
+
 
 * GUD uses 17 universal POS categories. [INT]() is used for words such as *αμήν* "amen", *ναι* / *ne* "yes",  [INTJ]() with [Polarity=Pos](), *όχι* /*ochi* "no/not", [INTJ]() with [Polarity=Neg](), *καλημέρα* / *kalimera* "goodmorning", *καληνύχτα* / *kalinichta* "goodnight", etc.
 * The negative particles *δεν*, *μην* and  *όχι* (the last one, is considered a particle only in limited contexts) are tagged as [PART](). Οther words assigned the tag [PART]() are *ας*, *καν*, *μπας (και)*,	*μην*, *να* (limited contexts),	 *πάρα*, *μακάρι*.
@@ -61,7 +62,7 @@ Major differences between GDT and GUD are the treatement of  *να* and the syst
 	- it introduces the verb of a main clause, e.g., <b>Να</b>.[AUX]()  *έρθεις*.[root]() *γρήγορα* "Come early."
 	- it  occurs in relative clauses after the relativisers *που*, *o οποίος*, e.g.,  *Στη συνέχεια γράψτε μια συνάρτηση* <b>η οποία</b>. [PRON]() <b>να</b>.[AUX]()  *τυπώνει αυτά τα δεδομένα* "Next, write a function that.[PRON]() will print the data." 
 *  *να* is mainly used as a subordinating conjunction and is assigned the tag [SCONJ](); the clauses it introduces function as	verb arguments, clausal nominal modifiers, goal denoting clauses where *να* or  *για να* introduce the clause, and adverbial modifiers where *να* co-occurs with other uniflected words, e.g.,  *αντί να, δίχως να, που να, πριν να, σαν να, χωρίς να, ώσπου να,  ώστε να*. 
-*  The tag [DET]() is used for the definite and the indefinite article. 
+*  The tag  [DET]() is assigned to the two articles, certain traditional adjectives (and their comparatives) and to a set of pronouns, namely: definite and indefinite article, adjectives denoting quantities and their comparatives, demonstrative and indefinite pronouns. [DET]() is also assigned to interrogative and relative pronouns when they are followed by a noun.
 *  The tag [PRON]() is used for pronouns occurring as the head of a noun phrase, for pronouns preceding or following their nominal head with which they agree in gender, number and case,  or for possessives in the genitive following their head
 *  Past participles used adjectivally are  mostly tagged  [ADJ]()
 
