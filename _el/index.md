@@ -65,7 +65,7 @@ Major differences at  PoS level between GDT and GUD are the treatement of  *να
   *  *έχω* "have", in verb complexes, both active and passive ones; when *έχω* is used as a content verb it is assigned the tag [VERB]().
   * the indeclinable *θα*, in verb complexes, both active and passive ones.
   * the indeclinable *να* when:	
-	- it introduces the verb of a main clause, e.g., <b>Να</b>.[AUX]()  *έρθεις*.[root]() *γρήγορα* "Come early."
+	- it introduces the verb of a main clause, e.g., *Να*.[AUX]()  *έρθεις*.[root]() *γρήγορα* "Come early."
 	- it  occurs in relative clauses after the relativisers *που*, *o οποίος*, e.g.,  *Στη συνέχεια γράψτε μια συνάρτηση η οποία*. [PRON]() *να*.[AUX]()   _τυπώνει αυτά τα δεδομένα_ "Next, write a function that.[PRON]() will print the data." 
 * As coordinating conjunctions [CCONJ]() are considered words like _και_ "and", _ή_ "or" or _αλλά_ "but". In correlative (paired) coordinating conjuctions such as _είτε - είτε_ or _ή - ή_ "either - or", both words are annotated as [CCONJ](). *που* is assigned the tag [CCONJ]() when it introduces an etiological clause  (cdiagnostic:  it can be replaced with the word *γιατί* resulting into different style probably)."
 *  The tag  [DET]() is assigned to the two articles, certain traditional adjectives (and their comparatives) and to a set of pronouns, namely: definite and indefinite article, adjectives denoting quantities and their comparatives, demonstrative and indefinite pronouns. [DET]() is also assigned to interrogative and relative pronouns when they are followed by a noun.
