@@ -14,13 +14,13 @@ The  UD documentation for EL syntax  [syntactic structures](../overview/syntax.h
 
 GDT is a resource for Modern Greek manually annotated for morphology, syntax and semantics. It is an ongoing project led by researchers at the [Institute for Language and Speech Processing](http://www.ilsp.gr/) (ILSP/Athena Research Centre), with the help of students from the Technoglossia postgraduate program and the University of Athens. The texts include transcripts of European parliamentary sessions, articles from the Greek Wikipedia, and web documents pertaining the politics, health, and travel domains. The annotation scheme used for the original syntactic layer of the GDT is based on an adaptation of the guidelines for the Prague Dependency Treebank.
 
-GUD is a resource for EL manually annotated for morphology and syntax. It is an ongoing project led by researchers at the [Institute for Language and Speech Processing](http://www.ilsp.gr/) (ILSP/Athena Research Centre), with the help of students from the [Language Technology](https://www.di.uoa.gr/en/studies/graduate/lg) (MSc program organised by the University of Athens and ILSP). The texts include extracts of Modern Greek fiction.  The annotation scheme used for the original syntactic layer of the GDT is based on an adaptation of the guidelines for the Prague Dependency Treebank.
+GUD is a resource for EL manually annotated for morphology and syntax. It is an ongoing project led by Stella Markantonatou and Vivian Stamou (hereinafter: the GUD team), both researchers at the [Institute for Language and Speech Processing](http://www.ilsp.gr/) (ILSP/Athena Research Centre), with the help of students from the [Language Technology](https://www.di.uoa.gr/en/studies/graduate/lg) (MSc program organised by the University of Athens and ILSP). The texts include extracts of Modern Greek fiction.  The annotation scheme used for the original syntactic layer of the GDT is based on an adaptation of the guidelines for the Prague Dependency Treebank.
 
 ## Acknowledgments
 
 The GDT team wish to thank ILSP researchers Haris Papageorgiou and Maria Koutsombogera, as well as all student annotators for their contributions to the GDT effort.
 
-The GDT team wish to thank ILSP researchers Haris Papageorgiou and Maria Koutsombogera, as well as all student annotators for their contributions to the GDT effort.
+The GUD team ows special thanks to Socratis Vakirtzian (NKUA). Thanks are also expressed to the NKUA students Fei Poulou, Georgia Apostolopoulou, Antonis Balas and Maria Panagiotopoulou, as well as the 2020-2022 students of [Language Technology](https://www.di.uoa.gr/en/studies/graduate/lg) for their contribution to the morphological annotation of the treebank.   
 
 ## References
 
