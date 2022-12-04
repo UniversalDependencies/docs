@@ -7,7 +7,9 @@ udver: '2'
 
 # UD for Greek <span class="flagspan"><img class="flag" src="../../flags/svg/GR.svg" /></span>
 
-## Tokenization and Word Segmentation
+There are two  UD treebanks of Modern Greek (EL): UD_Greek-GDT, UD_Greek-GUD. GDT and GUD have adopted the same tokenization and word segmentation guidelines. The two treebanks present notable differences as regards morphological annotation. The current UD documentation of EL morphology describes the choices adopted in GUD. The editing of the syntactic annotation of the GUD is an ongoing project, so the current UD documentation of EL syntax describes the choices adopted in GDT only. 
+
+## Tokenization and Word Segmentation-GDT,GUD
 
 * Words are generally delimited by whitespace or punctuation. Exceptions:
 * Numerical expressions are treated as single words and may contain punctuation or symbols:
@@ -17,7 +19,7 @@ udver: '2'
 * Abbreviations are treated as single words and may contain punctuation: *ΕΕ*, *χλμ.*, *π.Χ.*
 * There is one group of contractions that are treated as multi-word tokens and are segmented to individual syntactic words, namely combinations of the preposition *σε* and types of the definite article: *στον = σ + τον* “in/to/on the”.
 
-<b>GDT and GUD have adopted the same tokenization and word segmentation guidelines</b>
+
 
 ## Morphology-GDT
 
