@@ -74,19 +74,20 @@ Major differences at  PoS level between GDT and GUD are the treatement of  *να
 *  The tag [SCONJ]() is assigned to the indeclinable words *να* and  *που* as described below:
 	*  *να* is mainly used as a subordinating conjunction and is assigned the tag [SCONJ](); the clauses it introduces function as	verb arguments, clausal nominal modifiers, goal denoting clauses where *να* or  *για να* introduce the clause, and adverbial modifiers where *να* co-occurs with other uniflected words, e.g.,  *αντί να, δίχως να, που να, πριν να, σαν να, χωρίς να, ώσπου να,  ώστε να*. 
 	*   *που* is assigned the tag [SCONJ]() when it introduces a  complement of saying or sense verbs  (diagnostic: it can be replaced with the word *ότι* with somewhat different implications) or a temporal clause together with the [ADP]() *μετά*  (diagnostic: the multiword conjunction *μετά που* can be replaced with the [ADP]() *αφο΄ύ* resulting into different style probably).
-
-
+* The tag [VERB]() is assigned to:
+   *  verbs, including  *είμαι* "be" and *έχω* "have" when they are used as content verbs (not auxiliaries)  
+   *  participles ending in *-μένος* and *-θείς*. Ηowever, formations in *-μένος* not related to a verb in use, e.g., *χιλιοτραγουδισμένος* / *chiliotragoudismenos* “storied”, *ξακουσμένος* / _ksakousmenos_ “famous”, are assigned the  tag [ADJ]().
+   *  non-inflecting verb forms ending in *-όντας, -ώντας* (adverbial participles) that share properties and usage of adverbs and verbs  
 
 ### Features-GUD
 
-* Nouns have inherent [Gender]() and inflect for [Number]() (singular or plural), and [Case]() (nominative, genitive, accusative and vocative). Remnants of the dative case also exist in set phrases.
-* Finite verbs of the [Ind]() mood have one of two values of [Voice](): `Act` and `Pass`; one of two values of [Tense](): `Past` and `Pres`; one of two values of [Number](): `Sing` and `Plur`; and one of three values of [Person](): `1`, `2` and `3`.   Finite verbs of the [Imp]() mood have only `2`nd [Person]().  The [Aspect]() feature has `Imp` and `Perf` values. There are three types of nonfinite forms: infinitives used to form perfect tenses, passive voice `-μένος` participles, and active voice `-[ώο]ντας` converbs.
 * Adjectives agree with nouns (in both attributive and predicate position) with respect to the [Gender](), [Number]() and [Case]() features.
-* Pronouns inflect for [Gender](), [Number](), [Case]() like nouns and adjectives.
 * [Degree]() applies to adjectives ([ADJ]()) and adverbs ([ADV]()) and has one of three possible values: `Pos`, `Cmp`, `Sup`
+* * Nouns have inherent [Gender]() and inflect for [Number]() (singular or plural), and [Case]() (nominative, genitive, accusative and vocative). Remnants of the dative case also exist in set phrases.
+* Pronouns inflect for [Gender](), [Number](), [Case]() like nouns and adjectives.
+* Finite verbs of the [Ind]() mood have one of two values of [Voice](): `Act` and `Pass`; one of two values of [Tense](): `Past` and `Pres`; one of two values of [Number](): `Sing` and `Plur`; and one of three values of [Person](): `1`, `2` and `3`.   Finite verbs of the [Imp]() mood have only `2`nd [Person]().  The [Aspect]() feature has `Imp` and `Perf` values. There are three types of nonfinite forms: infinitives used to form perfect tenses, passive voice `-μένος` participles, and active voice `-[ώο]ντας` converbs.
 
-
-## Syntax
+## Syntax-GDT
 
 * Nominal subjects ([nsubj]()) are in the nominative case, without adpositions.
 * Objects occur in the accusative case (direct objects) or in the genitive (indirect objects). 
