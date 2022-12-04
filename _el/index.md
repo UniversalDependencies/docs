@@ -53,18 +53,23 @@ Major differences at  PoS level between GDT and GUD are the treatement of  *να
 
 
 * GUD uses 17 universal POS categories. [INT]() is used for words such as *αμήν* "amen", *ναι* / *ne* "yes",  [INTJ]() with [Polarity=Pos](), *όχι* /*ochi* "no/not", [INTJ]() with [Polarity=Neg](), *καλημέρα* / *kalimera* "goodmorning", *καληνύχτα* / *kalinichta* "goodnight", etc.
-* The negative particles *δεν*, *μην* and  *όχι* (the last one, is considered a particle only in limited contexts) are tagged as [PART](). Οther words assigned the tag [PART]() are *ας*, *καν*, *μπας (και)*,	*μην*, *να* (limited contexts),	 *πάρα*, *μακάρι*.
+*  Past participles used adjectivally are  mostly tagged  [ADJ]()
 * As auxiliary words ([AUX]()) are considered:
   * *είμαι* "be" when it is used to assign a property to an entity; typically, properties are denoted with adjectives, e.g., *είμαι ψηλός* "I am tall".
   *  *έχω* "have", in verb complexes, both active and passive ones; when *έχω* is used as a content verb it is assigned the tag [VERB]().
   * the indeclinable *θα*, in verb complexes, both active and passive ones.
   * the indeclinable *να* when:	
 	- it introduces the verb of a main clause, e.g., <b>Να</b>.[AUX]()  *έρθεις*.[root]() *γρήγορα* "Come early."
-	- it  occurs in relative clauses after the relativisers *που*, *o οποίος*, e.g.,  *Στη συνέχεια γράψτε μια συνάρτηση* <b>η οποία</b>. [PRON]() <b>να</b>.[AUX]()  *τυπώνει αυτά τα δεδομένα* "Next, write a function that.[PRON]() will print the data." 
-*  *να* is mainly used as a subordinating conjunction and is assigned the tag [SCONJ](); the clauses it introduces function as	verb arguments, clausal nominal modifiers, goal denoting clauses where *να* or  *για να* introduce the clause, and adverbial modifiers where *να* co-occurs with other uniflected words, e.g.,  *αντί να, δίχως να, που να, πριν να, σαν να, χωρίς να, ώσπου να,  ώστε να*. 
+	- it  occurs in relative clauses after the relativisers *που*, *o οποίος*, e.g.,  _Στη συνέχεια γράψτε μια συνάρτηση_ <b>η οποία</b>. [PRON]() <b>να</b>.[AUX]()   _τυπώνει αυτά τα δεδομένα_ "Next, write a function that.[PRON]() will print the data." 
+* As coordinating conjunctions [CCONJ]() are considered words like _και_ "and", _ή_ "or" or_αλλά_ "but". In correlative (paired) coordinating conjuctions such as _είτε - είτε_ or _ή - ή_ "either - or", both words are annotated as [CCONJ](). *που* is assigned the tag [CCONJ]() when it introduces an etiological clause  (cdiagnostic:  it can be replaced with the word *γιατί* resulting into different style probably)."
 *  The tag  [DET]() is assigned to the two articles, certain traditional adjectives (and their comparatives) and to a set of pronouns, namely: definite and indefinite article, adjectives denoting quantities and their comparatives, demonstrative and indefinite pronouns. [DET]() is also assigned to interrogative and relative pronouns when they are followed by a noun.
-*  The tag [PRON]() is used for pronouns occurring as the head of a noun phrase, for pronouns preceding or following their nominal head with which they agree in gender, number and case,  or for possessives in the genitive following their head
-*  Past participles used adjectivally are  mostly tagged  [ADJ]()
+* The negative particles *δεν*, *μην* and  *όχι* (the last one, is considered a particle only in limited contexts) are tagged as [PART](). Οther words assigned the tag [PART]() are *ας*, *καν*, *μπας (και)*,	*μην*, *να* (limited contexts),	 *πάρα*, *μακάρι*.
+*   The tag [PRON]() is used for pronouns occurring as the head of a noun phrase, for pronouns preceding or following their nominal head with which they agree in gender, number and case,  or for possessives in the genitive following their head. The indeclinable word *που* που is assigned the tag [PRON]() if it refers to a noun, otherwise it is considered a CCONJ or an SCONJ.
+*  The tag [SCONJ]() is assigned to the indeclinable words *να* and  *που* as described below:
+	*  *να* is mainly used as a subordinating conjunction and is assigned the tag [SCONJ](); the clauses it introduces function as	verb arguments, clausal nominal modifiers, goal denoting clauses where *να* or  *για να* introduce the clause, and adverbial modifiers where *να* co-occurs with other uniflected words, e.g.,  *αντί να, δίχως να, που να, πριν να, σαν να, χωρίς να, ώσπου να,  ώστε να*. 
+	*   *που* is assigned the tag [SCONJ]() when it introduces a  complement of saying or sense verbs  (diagnostic: it can be replaced with the word *ότι* with somewhat different implications) or a temporal clause together with the [ADP]() *μετά*  (diagnostic: the multiword conjunction *μετά που* can be replaced with the [ADP]() *αφο΄ύ* resulting into different style probably).
+
+
 
 ### Features-GUD
 
