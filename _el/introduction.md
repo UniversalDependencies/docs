@@ -6,7 +6,7 @@ permalink: el/overview/introduction.html
 
 # Introduction
 
-There are two  UD treebanks of Modern Greek (EL): UD_Greek-GDT, UD_Greek-GUD. GDT and GUD have adopted the same tokenization and word segmentation guidelines. The two treebanks present notable differences as regards morphological annotation which are detailed in 
+There are two  UD treebanks of Modern Greek (EL): UD_Greek-GDT, UD_Greek-GUD. GDT and GUD have adopted the same tokenization and word segmentation guidelines. The two treebanks present notable differences as regards morphological annotation which are detailed in [index]().
 
 The current UD documentation of EL morphology describes the choices adopted in GUD. 
 
