@@ -7,7 +7,7 @@ udver: '2'
 
 # UD for Greek <span class="flagspan"><img class="flag" src="../../flags/svg/GR.svg" /></span>
 
-There are two  UD treebanks of Modern Greek (EL): UD_Greek-GDT, UD_Greek-GUD. GDT and GUD have adopted the same tokenization and word segmentation guidelines. The two treebanks present notable differences as regards morphological annotation. The current UD documentation of EL morphology describes the choices adopted in GUD. The editing of the syntactic annotation of the GUD is an ongoing project, so the current UD documentation of EL syntax describes the choices adopted in GDT only. 
+There are two  UD treebanks of Modern Greek (EL): UD_Greek-GDT, UD_Greek-GUD. GDT and GUD have adopted the same tokenization and word segmentation guidelines. The two treebanks present notable differences as regards morphological annotation. The current UD documentation of EL morphology describes the choices adopted in GUD. The editing of the syntactic annotation in GUD is an ongoing project, so the current UD documentation of EL syntax describes the choices adopted in GDT only. 
 
 ## Tokenization and Word Segmentation-GDT,GUD
 
@@ -50,15 +50,14 @@ There are two  UD treebanks of Modern Greek (EL): UD_Greek-GDT, UD_Greek-GUD. GD
 
 ### Tags-GUD
 
-* GUD uses 17 universal POS categories. 
-* The negative particles *δεν*, *μην* and  *όχι* (the last one, only in limited contexts) are tagged [PART](). Οther words assigned the tag [PART]() are *ας*, 
-	*καν*, *μπας (και)*,	*μην*, *να* (limited contexts),	 *πάρα*, *μακάρι*.
+* GUD uses 17 universal POS categories. [INT]() is used for words such as *αμήν* "amen", *ναι* / *ne* "yes",  [INTJ]() with [Polarity=Pos](), *όχι* /*ochi* "no/not", [INTJ]() with [Polarity=Neg](), *καλημέρα* / *kalimera* "goodmorning", *καληνύχτα* / *kalinichta* "goodnight", etc.
+* The negative particles *δεν*, *μην* and  *όχι* (the last one, is considered a particle only in limited contexts) are tagged as [PART](). Οther words assigned the tag [PART]() are *ας*, *καν*, *μπας (και)*,	*μην*, *να* (limited contexts),	 *πάρα*, *μακάρι*.
 * The current set of auxiliary words ([AUX]()) include:
-  * *είμαι* "to be" when it is used to assign a property to an entity; typically, properties are denoted with adjectives, e.g., *είμαι ψηλός* "I am tall".
-  * the auxiliary verb *έχω* (have), in periphrastic verb tenses, both active and passive ones.
-  * the indeclinable *θα*, in periphrastic verb tenses, both active and passive ones.
-  * the indeclinable subjunctive particle *να* when:	
-	- It introduces the verb (or the auxiliary "to be") of a main clause, e.g., <b>Να</b>.[AUX]()  *έρθεις*.[root]() *γρήγορα* "Come early.",  *Ούτε* <b>να</b>.[AUX]()   *τ' ακούσει*.[root]() "He would not even hear it."  *Ούτε βουλευτής.[root]() να.[AUX]() ήσουν.[AUX]()!* "Imagine what would happen if you were an MP!"
+  * *είμαι* "be" when it is used to assign a property to an entity; typically, properties are denoted with adjectives, e.g., *είμαι ψηλός* "I am tall".
+  * the auxiliary verb *έχω* (have), in verb complexes, both active and passive ones.
+  * the indeclinable *θα*, in verb complexes, both active and passive ones.
+  * the indeclinable *να* when:	
+	- It introduces the verb of a main clause, e.g., <b>Να</b>.[AUX]()  *έρθεις*.[root]() *γρήγορα* "Come early.",  *Ούτε* <b>να</b>.[AUX]()   *τ' ακούσει*.[root]() "He would not even hear it."  *Ούτε βουλευτής.[root]() να.[AUX]() ήσουν.[AUX]()!* "Imagine what would happen if you were an MP!"
 	- It  occurs in relative clauses after the relativisers *που*, *o οποίος*, e.g.,  *Δεν υπάρχει τίποτα παραπάνω* <b>που</b>.[PRON]() <b>να</b>.[AUX]() έχει ανακαλύψει η άλλη δυάδα "there is nothing more that.[PRON]()  the other couple would have discovered",  *Στη συνέχεια γράψτε μια συνάρτηση* <b>η οποία</b>. [PRON]() <b>να</b>.[AUX]()  *τυπώνει αυτά τα δεδομένα* "Next, write a function that.[PRON]() will print the data." 
 *  The tag [DET]() is used for the definite and the indefinite article. The tag [PRON]() is used for pronouns occurring as the head of a noun phrase, for pronouns preceding or following their nominal head with which they agree in gender, number and case,  or for possessives in the genitive following their head
 *  Past participles used adjectivally are  mostly tagged  [ADJ]()
