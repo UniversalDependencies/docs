@@ -103,7 +103,8 @@ udver: '2'
       http://quest.ms.mff.cuni.cz/cgi-bin/zeman/translit/translit.pl?url=https%3A%2F%2Fpacchapuuccha.tumblr.com%2Fpost%2F172703961315%2Fmalayalam-lesson-7-the-accusative-case&jazyk=ml&submit=Submit
       https://pacchapuuccha.tumblr.com/post/172703961315/malayalam-lesson-7-the-accusative-case
     -->
-  * We annotate the animacy of third person neuter pronouns but we omit the feature for other pronouns.
+  * We annotate the animacy of third person neuter pronouns but we omit the feature for other personal pronouns.
+    We annotate the animacy of interrogative pronouns.
 * The two values of [Number]() are
   [Sing](https://universaldependencies.org/u/feat/Number.html#Sing) and
   [Plur](https://universaldependencies.org/u/feat/Number.html#Plur).
@@ -154,6 +155,12 @@ udver: '2'
 * [Polarity]() has two values:
   [Pos](https://universaldependencies.org/u/feat/Polarity.html#Pos) and
   [Neg](https://universaldependencies.org/u/feat/Polarity.html#Neg).
+* [Polite]()ness must be distinguished in the imperative and has two values:
+  [Infm](https://universaldependencies.org/u/feat/Polite.html#Infm) and
+  [Form](https://universaldependencies.org/u/feat/Polite.html#Form).
+  The verb stem serves as an informal imperative: തുറ / _tuṟa_ “open”.
+  The citation form may serve as a formal imperative: തുറക്കുക / _tuṟakkūka_ “open”.
+  Finally, there is another formal imperative with _-kkū_: തുറക്കൂ / _tuṟakkū_ “open”.
 
 ### Pronouns, Determiners, Quantifiers
 
