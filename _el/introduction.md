@@ -6,15 +6,17 @@ permalink: el/overview/introduction.html
 
 # Introduction
 
-There are two  UD treebanks of Modern Greek (EL): UD_Greek-GDT, UD_Greek-GUD. GDT and GUD have adopted the same tokenization and word segmentation guidelines. The two treebanks present notable differences as regards morphological annotation; these differences are presented in [index]().
+There are two  UD treebanks of Modern Greek (EL): UD_Greek-GDT, UD_Greek-GUD. 
+  * GDT and GUD have adopted the same tokenization and word segmentation guidelines. 
+  * The two treebanks present notable differences as regards morphological annotation; these differences are presented in [index]().
 
-The current UD documentation of EL morphology describes the choices adopted in GUD. 
+The  UD documentation for EL morphology  [syntactic structures](../overview/syntax.html) is based on research in the context of the GUD. 
 
 The  UD documentation for EL syntax  [syntactic structures](../overview/syntax.html) is based on research in the context of the [Greek Dependency Treebank](http://gdt.ilsp.gr/) (GDT). On the other hand, in GUD, the syntactic guidelines of GDT are taken as a baseline but they are being edited with an ongoing project whose results will be reported in due time. 
 
-GDT is a resource for Modern Greek manually annotated for morphology, syntax and semantics. It is an ongoing project led by researchers at the [Institute for Language and Speech Processing](http://www.ilsp.gr/) (ILSP/Athena Research Centre), with the help of students from the Technoglossia postgraduate program and the University of Athens. The texts include transcripts of European parliamentary sessions, articles from the Greek Wikipedia, and web documents pertaining the politics, health, and travel domains. The annotation scheme used for the original syntactic layer of the GDT is based on an adaptation of the guidelines for the Prague Dependency Treebank.
+GDT is a resource for Modern Greek manually annotated for morphology, syntax and semantics. It is an ongoing project led by researchers at the [Institute for Language and Speech Processing](http://www.ilsp.gr/) (ILSP/Athena Research Centre), with the help of students from the Technoglossia postgraduate program and the National and Kapodistrian University of Athens. The texts include transcripts of European parliamentary sessions, articles from the Greek Wikipedia, and web documents pertaining the politics, health, and travel domains. The annotation scheme used for the original syntactic layer of the GDT is based on an adaptation of the guidelines for the Prague Dependency Treebank.
 
-GUD is a resource for EL manually annotated for morphology and syntax. It is an ongoing project led by Stella Markantonatou and Vivian Stamou (hereinafter: the GUD team), both researchers at the [Institute for Language and Speech Processing](http://www.ilsp.gr/) (ILSP/Athena Research Centre), with the help of students from the [Language Technology](https://www.di.uoa.gr/en/studies/graduate/lg) (MSc program organised by the University of Athens and ILSP). The texts include randomly selected extracts of Modern Greek fiction.  The annotation scheme used for the morphological annotation of GUD is based on UD.v2.
+GUD is a resource for EL manually annotated for morphology and syntax. It is an ongoing project led by Stella Markantonatou and Vivian Stamou (hereinafter: the GUD team), both researchers at the [Institute for Language and Speech Processing](http://www.ilsp.gr/) (ILSP/Athena Research Centre), with the contribution of students of [Language Technology](https://www.di.uoa.gr/en/studies/graduate/lg), an MSc program co-organised by the National and Kapodistrian University of Athens (NKUA) and ILSP. The texts include randomly selected extracts of Modern Greek fiction.  The annotation scheme used for the morphological annotation of GUD is based on UD.v2.
 
 ## Acknowledgments
 
