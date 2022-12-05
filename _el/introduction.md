@@ -10,7 +10,7 @@ There are two  UD treebanks of Modern Greek (EL): UD_Greek-GDT, UD_Greek-GUD.
   * GDT and GUD have adopted the same tokenization and word segmentation guidelines. 
   * The two treebanks present notable differences as regards morphological annotation; these differences are presented in [index]().
 
-The  UD documentation for EL morphology [el_pos](https://github.com/UniversalDependencies/docs/tree/pages-source/_el/pos) is based on research in the context of the GUD. 
+The  UD documentation for EL morphology [el_pos](https://github.com/UniversalDependencies/docs/tree/pages-source/_el/pos) and [el_feat](https://github.com/UniversalDependencies/docs/tree/pages-source/_el/feat) is based on research in the context of the GUD. 
 
 The  UD documentation for EL syntax  [syntactic structures](../overview/syntax.html) is based on research in the context of the [Greek Dependency Treebank](http://gdt.ilsp.gr/) (GDT). On the other hand, in GUD, the syntactic guidelines of GDT are taken as a baseline but they are being edited with an ongoing project whose results will be reported in due time. 
 
