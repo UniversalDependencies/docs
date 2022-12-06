@@ -30,11 +30,11 @@ Non-inflecting verb forms ending in *-όντας, -ώντας* (adverbial partic
 
 *μετά* and *εντός* may appear with a noun in the genitive case: the first denotes accompaniment, e.g.,  *μετά ληστείας* / meta listias "together with a robbery" while both are structures inherited from older versions of the language, e.g. *εντός δευτερολέπτων* / entos defterolepton "within minutes". In all these cases *μετά* and *εντός* are assigned the tag [ADV]().
 
-The structure consisting of a pair of identical adverbs is a degree modification one, e.g., *πάνω πάνω* Lit. up up ‘on the very top', *πίσω πίσω* Lit. back back "at the very back", *σιγά σιγά* Lit. slowly slowly "very very slowly", *πονηρά πονηρά* Lit. cuningly cuningly "very very cunningly". Each adverb is assigned the tag [ADV]() and the second adverb depends on the first one with the <code>Compound:redup</code> relation. 
+The structure consisting of a pair of identical adverbs is a degree modification one, e.g., *πάνω πάνω* Lit. up up "on the very top", *πίσω πίσω* Lit. back back "at the very back", *σιγά σιγά* Lit. slowly slowly "very very slowly", *πονηρά πονηρά* Lit. cuningly cuningly "very very cunningly". Each adverb is assigned the tag [ADV]() and the second adverb depends on the first one with the [Compound:redup]() dependency.
 
 Multiword adverbs such as *καλού-κακού* Lit. of good-of bad "just to make sure": both words are  assigned the tag [ADV]() and the second adverb depends on the first one with the <code>fixed</code> relation.  
 
-Adverbs may be specified for the feature [Degree](el-feat/Degree), e.g. _καλύτερα_ "better",  and for the feature [NumType](el-feat/NumType), e.g. *άπαξ* / *apaks* ‘once'. They may form diminutives in which case they are assigned the lemma of the original adverb and the feature [Degree]() receives the value [Dim](), e.g., *φτωχούτσικα* / *ftohoutsika* "somewhat poorely", *καλούτσικα* / *kaloutsika* "somewhat good".
+Adverbs may be specified for the feature [Degree](el-feat/Degree), e.g. _καλύτερα_ "better",  and for the feature [NumType](el-feat/NumType), e.g. *άπαξ* / *apaks* ‘once'. They may exhibit degree modification phenomena in which case they are assigned the lemma of the original adverb and the feature [Degree]() receives the value [Dim](), e.g., *φτωχούτσικα* / *ftohoutsika* "somewhat poorely", *καλούτσικα* / *kaloutsika* "somewhat good".
 
 ### Examples
 -	locative adverbs: *απέξω* / *apekso* ‘outside’, *εδώ* / *edo*  ‘here’, *εκεί* / *eki* ‘there’, *πάνω* / *pano* ‘up’, *κάτω* / *kato* ‘down’, *δεξιά* / *deksia* ‘right’, *αριστερά* / *aristera* ‘left’, *κάπου* / *kapou* ‘somewhere’, *παντού* / *pantou* ‘everywhere’, *πουθενά* / *pouthena* ‘nowhere’, *πού* / *pou* ‘where’
