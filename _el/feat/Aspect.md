@@ -36,7 +36,7 @@ information whether and when it was / will be completed.
 
 ### <a name="Perf">`Perf`</a>: perfect aspect
 
-The event is viewed as a whole. It is available for past and future tenses. 
+The event is viewed as a (completed) whole. It is available for past and future tenses. 
 
 #### Examples
 * _έγραψα_ "I wrote"
