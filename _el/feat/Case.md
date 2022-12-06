@@ -23,7 +23,7 @@ Case helps specify the role of the noun phrase in the sentence.
 For example,  in Modern Greek nominative  is the case of nominal subjects and contrasts with the accusative case that typically marks objects. However, the accusative is also used to mark nouns/proper nouns used as adverbs such as day names.
 
 Modern Greek morphology distinguishes four cases:
-`Nom`, `Gen`,  `Acc`, `Voc`. Dative was a case used in classical Greek; in Modern Greek it  occurs only in fixed expressions inherited from classical Creek, e.g. γη _πυρί_ μιχθήτω 'let earth be mixed with fire". We have decided not to use the label 'Dat' in fixed expressions. 
+`Nom`, `Gen`,  `Acc`, `Voc`. Dative was used in older forms of the Greek language; in Modern Greek it  occurs only in fixed expressions inherited from older Creek, e.g. γαία _πυρί_ μιχθήτω 'let earth be mixed with fire". 
 
 #### Examples
 
