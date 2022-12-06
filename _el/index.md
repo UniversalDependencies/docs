@@ -23,7 +23,7 @@ There are two  UD treebanks of Modern Greek (EL): UD_Greek-GDT, UD_Greek-GUD. GD
 
 ## Morphology-GDT
 
-### Tags-GDT
+### PoS-GDT
 
 * GDT uses 16 universal POS categories, including particles ([PART]()). No interjections ([INTJ]()) exist in the current dataset.
 * Words tagged [PART]() are the negative particles *δεν* and *μην*.
@@ -49,7 +49,7 @@ There are two  UD treebanks of Modern Greek (EL): UD_Greek-GDT, UD_Greek-GUD. GD
 ## Morphology-GUD
 Major differences at  PoS level between GDT and GUD are the treatement of  *να* and the system of determiners [DET]() as GUD adheres to UD.v2 morphological guidelines quite closely. Other differences also exist, e.g., the treatment of participles, *που*, etc.
 
-### Tags-GUD
+### PoS-GUD
 
 
 * GUD uses 17 universal POS categories. [INT]() is used for words such as *αμήν* "amen", *ναι* / *ne* "yes",  [INTJ]() with [Polarity=Pos](), *όχι* /*ochi* "no/not", [INTJ]() with [Polarity=Neg](), *καλημέρα* / *kalimera* "goodmorning", *καληνύχτα* / *kalinichta* "goodnight", etc.
@@ -91,6 +91,8 @@ Major differences at  PoS level between GDT and GUD are the treatement of  *να
 *  Gender is a lexical feature of [nouns](el-pos/NOUN), [proper nouns](el-pos/PROPN), [adjectives](el-pos/ADJ), [determiners](el-pos/DET), [pronouns](el-pos/PRON),  [numerals ](el-pos/NUM) and [verbs](el-pos/VERB)(participles). There are three values of gender: masculine, feminine, and neuter.  EL gender is grammatical  although, in the case of annimates, it is more likely that  grammatical gender denotes the sex. 
 * Nouns have lexical [Gender]()  and inflect for [Number]() (singular or plural), and [Case]().
 * Pronouns inflect for [Gender](), [Number](), [Case]() like nouns and adjectives.
+* The feature [PronType]() applies to EL pronouns, determiners and adverbs. The following values have been used: [Art](): article, [Dem](): demonstrative pronoun, determiner or adverb, [Emp](): emphatic determiner, [Ind](): indefinite pronoun, determiner or adverb, [Int](): interrogative pronoun, determiner or adverb, [Neg](): negative pronoun, determiner or adverb, [Prs](): personal pronoun or determiner, [Rel](): relative pronoun, determiner or adverb, [Tot](): total (collective) pronoun, determiner or adverb.
+
 * Finite verbs of the [Ind]() mood have one of two values of [Voice](): `Act` and `Pass`; one of two values of [Tense](): `Past` and `Pres`; one of two values of [Number](): `Sing` and `Plur`; and one of three values of [Person](): `1`, `2` and `3`.   Finite verbs of the [Imp]() mood have only `2`nd [Person]().  The [Aspect]() feature has `Imp` and `Perf` values. There are three types of nonfinite forms: infinitives, passive voice  participles ending in `-μένος`, and active voice  converbs ending in `-[ώ/ο]ντας`. The so-called infinitives are received from the perfective form of the verb and are used with the auxiliary _έχω_ "have" to form certain composite tenses. It has no other usage in the language and it is not used as the lemma form (as infinitives are traditionally used).
 
 ## Syntax-GDT
