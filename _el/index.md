@@ -82,7 +82,7 @@ Major differences at  PoS level between GDT and GUD are the treatement of  *να
 ### Features-GUD
 
 * Adjectives agree with nouns (in both attributive and predicate position) with respect to the [Gender](), [Number]() and [Case]() features.
-* [Degree]() applies to nouns ([NOUN](), adjectives ([ADJ]()) and adverbs ([ADV]()):
+* [Degree]() applies to nouns ([NOUN]()), adjectives ([ADJ]()) and adverbs ([ADV]()):
    *  _Degree of comparison_ is an inflectional feature of 
 [adjectives](el-pos/ADJ) and some [adverbs](el-pos/ADV). EL marks morphologically the positive, comparative and absolute superlative degree  while the superlative degree of adjectives is composite (definite article + comparative degree). 
    *  EL expresses _degree modification_ of nouns, adjectives, past participles and adverbs with a set of prefixes and suffixes (and a set of syntactic means). All affixation cases are assigned the feature [el-DegreeMod]()  with one of the two available values, [Dim]() or [Aug](). 
