@@ -31,7 +31,7 @@ for determiners and [NUM]() for cardinal numerals.
 
 Nationalities are assigned the tag [ADJ](), e.g., _Έλληνας_ / *Elinas*  "Greek", _Ευρωπαίος_ / *Evropeos* "European", _Ασιάτης_/ *Asiatis* "Asian" etc
 
-Certain adjectives, which are assigned the tag [NOUN]() or [PROPN](), do not form comparatives (of course, there are adjectives that do not allow for comparatives, such as *νεκρός* / *nekros* "dead"). These include:
+Certain words that are assigned the tags [NOUN]() or [PROPN]() are derived from adjectives and do not form comparatives (of course, there are adjectives that do not allow for comparatives, such as *νεκρός* / *nekros* "dead"). These include:
 -	Languages, such as *ελληνικά* / *elinika* "Greek", *πομακικά* / *pomakika* "Pomak" (and the lemma is *ελληνικά*.PL etc) are assigned the tag [NOUN]().
 -	Professions such as *αστυνομικός* / astinomikos "policeman", *στρατιωτικός* / stratiotikos "military officer". When the same words cooccur with another noun, such as *αστυνομικός σκύλος* / *astinomikos skilos* "police dog", they are assigned the tag ADJ.
 -	*ακουστικό* / *akoustiko* "head phone/hearing aid", *κινητό* / *kinito* "mobile phone", *ενδότερα* / *endotera* "inner parts", *πρωϊνό* / *proino* "breakfast", *μεσημεριανό* / *mesimeriano* "lunch", *βραδινό* / *vradino* "dinner", *λαδερά* / *ladera* "vegetable dishes cooked in olive oil", etc.
