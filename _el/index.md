@@ -83,9 +83,9 @@ Major differences at  PoS level between GDT and GUD are the treatement of  *να
 
 * Adjectives agree with nouns (in both attributive and predicate position) with respect to the [Gender](), [Number]() and [Case]() features.
 * [Degree]() applies to nouns ([NOUN](), adjectives ([ADJ]()) and adverbs ([ADV]()):
-   *  Degree of comparison is typically an inflectional feature of some
-[adjectives](el-pos/ADJ) and [adverbs](el-pos/ADV). EL marks morphologically the positive, comparative and absolute superlative degree  while the superlative degree of adjectives is composite (definite article + comparative degree). 
-   *  Modern Greek expresses degree modification of nouns, adjectives, past participles and adverbs with a set of prefixes and suffixes (and a set of syntactic means);  suffixation may change the gender of the noun, e.g., _χέρι_ "hand" (neutral) vs. _χερούκλα_ "large hand" (feminine), _άντρας_ "man" (masculine) vs. _αντράκι_ "little/insignificant/bully man" (neuter). All affixation cases are assigned the lemma of the original word and the feature <code>el-DegreeMod</code>  takes one of the two available values, namely Dim or Aug. 
+   *  _Degree of comparison_ is an inflectional feature of 
+[adjectives](el-pos/ADJ) and some [adverbs](el-pos/ADV). EL marks morphologically the positive, comparative and absolute superlative degree  while the superlative degree of adjectives is composite (definite article + comparative degree). 
+   *  EL expresses _degree modification_ of nouns, adjectives, past participles and adverbs with a set of prefixes and suffixes (and a set of syntactic means);  suffixation may change the gender of the noun, e.g., _χέρι_ "hand" (neutral) vs. _χερούκλα_ "large hand" (feminine), _άντρας_ "man" (masculine) vs. _αντράκι_ "little/insignificant/bully man" (neuter). All affixation cases are assigned the feature [el-DegreeMod]()  with one of the two available values, [Dim]() or [Aug](). 
 
 * * Nouns have inherent [Gender]() and inflect for [Number]() (singular or plural), and [Case]() (nominative, genitive, accusative and vocative). Remnants of the dative case also exist in set phrases.
 * Pronouns inflect for [Gender](), [Number](), [Case]() like nouns and adjectives.
