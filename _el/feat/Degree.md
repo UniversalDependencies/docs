@@ -51,7 +51,7 @@ object. The adverbs express a comparison of manners.
 
 ### <a name="Sup">`Sup`</a>: superlative, third degree
 
-The quality of one object is compared to the same quality of all other
+The quality of an object is compared to the same quality of all other
 objects within a set. It is formed periphrastically with the definite article and the comparative form of the adjective or with the adverb  _πιο_ "more" and the positive form of the adjective; no second entity introduced with the preposition _από_ "than" is introduced, instead the group in which the comparison is valid is expressed in some other way, e.g. a noun phrase marked with the genitive case.
 
 #### Examples
