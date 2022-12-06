@@ -29,7 +29,7 @@ for determiners and [NUM]() for cardinal numerals.
 - _πρώτος, δεύτερος, τρίτος_, "first, second, third"
 
 
-Nationalities are assigned the tag ADJ, e.g., _Έλληνας_ / *Elinas*  "Greek", _Ευρωπαίος_ / *Evropeos* "European", _Ασιάτης_/ *Asiatis* "Asian" etc
+Nationalities are assigned the tag [ADJ](), e.g., _Έλληνας_ / *Elinas*  "Greek", _Ευρωπαίος_ / *Evropeos* "European", _Ασιάτης_/ *Asiatis* "Asian" etc
 
 Certain adjectives, which are assigned the tag [NOUN]() or [PROPN](), do not form comparatives (of course, there are adjectives that do not allow for comparatives, such as *νεκρός* / *nekros* "dead"). These include:
 -	Languages, such as *ελληνικά* / *elinika* "Greek", *πομακικά* / *pomakika* "Pomak" (and the lemma is *ελληνικά*.PL etc) are assigned the tag [NOUN]().
