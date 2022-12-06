@@ -31,33 +31,35 @@ for determiners and [NUM]() for cardinal numerals.
 
 Nationalities are assigned the tag [ADJ](), e.g., _Έλληνας_ / *Elinas*  "Greek", _Ευρωπαίος_ / *Evropeos* "European", _Ασιάτης_/ *Asiatis* "Asian" etc
 
-Certain words that are assigned the tags [NOUN]() or [PROPN]() are derived from adjectives and do not form comparatives (of course, there are adjectives that do not allow for comparatives, such as *νεκρός* / *nekros* "dead"). These include:
--	Languages, such as *ελληνικά* / *elinika* "Greek", *πομακικά* / *pomakika* "Pomak" (and the lemma is *ελληνικά*.PL etc) are assigned the tag [NOUN]().
+Certain words that are assigned the tag [NOUN]()  are directly related with adjectives and do not form comparatives (of course, there are adjectives that do not allow for comparatives, such as *νεκρός* / *nekros* "dead"):
 -	Professions such as *αστυνομικός* / astinomikos "policeman", *στρατιωτικός* / stratiotikos "military officer". When the same words cooccur with another noun, such as *αστυνομικός σκύλος* / *astinomikos skilos* "police dog", they are assigned the tag ADJ.
 -	*ακουστικό* / *akoustiko* "head phone/hearing aid", *κινητό* / *kinito* "mobile phone", *ενδότερα* / *endotera* "inner parts", *πρωϊνό* / *proino* "breakfast", *μεσημεριανό* / *mesimeriano* "lunch", *βραδινό* / *vradino* "dinner", *λαδερά* / *ladera* "vegetable dishes cooked in olive oil", etc.
 
 Certain proper nouns [PROPN]() are directly related with adjectives:
+-	Languages, such as *ελληνικά* / *elinika* "Greek", *πομακικά* / *pomakika* "Pomak" (and the lemma is *ελληνικά*.PL etc) are assigned the tag [NOUN]().
 -	Names of days such as *Τρίτη* / *Triti* "Tuesday
 -	Public bodies such as *Δημόσιο* / *Dimosio* "Public Domain", *Ναυτικό* / *Naftiko* "Navy" etc.
 	
-Ancient Greek adverbs are used as adjectives in Modern Greek: *νυν* / *nin* "current", *τέως* / *teos* "past"; also, pieces of phrases received from older forms of the language: *καθωσπρέπει* / *kathosprepi* "proper" (these are originally two words written as one word nowadays).
+Ancient Greek adverbs that are used as adjectives in EL: *νυν* / *nin* "current", *τέως* / *teos* "past"; also, pieces of phrases received from older forms of the language: *καθωσπρέπει* / *kathosprepi* "proper" (these are originally two words written as one word nowadays).
 
-Non-periphrastic comparative and absolute superlative degrees [Degree](el-feat/Degree) of Greek adjectives are formed with a small set of suffixes or they have irregular forms:
+Degree of comparison is an inflectional feature of adjectives and some adverbs. EL marks morphologically the positive, comparative and absolute superlative degree.  Non-periphrastic comparative and absolute superlative degrees [Degree](el-feat/Degree) of Greek adjectives are formed with a small set of suffixes or they have irregular forms:
 -	(regular) *ταχύς – ταχύτερος – ταχύτατος* / *tachis - tachiteros - tachitatos* "fast - faster -fastest"
 -	(regular) *ακριβής – ακριβέστερος – ακριβέστατος* / *akrivis - akrivesteros - akrivestatos* "exact - more extact - most exact"
 -	(irregular) *μεγάλος – μεγαλύτερος – μέγιστος* / *megalos - megaliteros - megistos* "big - bigger - biggest"
 
-Participles of verbs in use in Modern Greek ending in *-μένος*  and *-θείς* are assigned the tag [VERB], the lemma in *-μένος*  and *-θείς*   and the relevant features Case=...|Gender=...|Number=...VerbForm=Part|Voice=Αct or Pass. 
-Ηowever, there are formations in *-μένος* not related to a verb in use in Modern Greek, e.g. *χιλιοτραγουδισμένος* / chiliotragoudismenos “storied”, *ξακουσμένος* / ksakousmenos “famous”, etc; these are assigned the  tag ADJ.  
-
-
-When a participle depends on the verb *είμαι* /ime “to be”, the tag <code>AUX</code> is assigned to *είμαι*  “to be”. The participle is assigned the tag <code>VERB</code> and bears values for the feature <code>Voice</code>.
-
+The comparative (most of the times) and the superlative degree (always) of adjectives is composite:
+-	_Ο Γιάννης είναι πιο ψηλός/ψηλότερος από τον Κώστα_ / _o Gianis ine pio psilos/psiloteros apo ton Kosta_ "Giannis is taller than Kostas"
+-	_το πιο ψηλό/ψηλότερο παιδί της γειτονιάς_ / _to pio psilo/psilotero pedi tis gitonias_ "the tallest boy in the neighborhood"
+	
 Modern Greek expresses degree modification of adjectives with a variety of morphological (and syntactic) means:
 
 * Diminutives (*υποκοριστικά* / *ipokoristika*) productively formed with suffixes such as  *–ούτσικος* / *-outsikos*,  *–ούλης* / *-oulis*,  like *μικρούτσικος* / *mikroutsikos* "smallish", *κιτρινούλης* / *kitrinoulis* "a bit yellow": they are assigned the lemma of the original adjective and the feature [Degree]() takes the value [Dim](). 
-
 * Augmentatives may be formed with prefixes such as *κατά-* / *kata-*, *ολό-* / *olo-*, e.g., *κατά-μαυρος, ολό-μαυρος* / *katamavros, olomavros* "stark black": they are assigned the lemma of the original adjective and the feature [Degree]()  takes the value [Aug]().
+
+Participles of verbs in use in Modern Greek ending in *-μένος*  and *-θείς* are assigned the tag [VERB](), the lemma ending in *-μένος*  and *-θείς*   and the relevant features Case=...|Gender=...|Number=...VerbForm=Part|Voice=Αct or Pass. 
+Ηowever, there are formations ending in *-μένος* not related with a verb in use in Modern Greek, e.g. *χιλιοτραγουδισμένος* / _chiliotragoudismenos_ “storied”, *ξακουσμένος* / _ksakousmenos_ “famous”, etc; these are assigned the  tag [ADJ]().  
+
+
 
 
 Greek adjectives inflect for 
