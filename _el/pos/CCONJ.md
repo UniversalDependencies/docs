@@ -10,8 +10,6 @@ A coordinating conjunction is a word that links words or larger
 constituents without syntactically subordinating one to the other and
 expresses a semantic relationship between them.
 
-*που* is assigned the tag <code>PRON</code> if it refers to a noun, e.g. *Έχουμε πολλές πληροφορίες, που*.PRON *δεν οδηγούν όμως πουθενά* "we have much information that, however, leads to nowhere". However,  it is assigned the tag <code>CCONJ</code> when it introduces an etiological clause  (criterion: in this case, it can be replaced with the word *γιατί* resulting into different style probably), e.g., *Δεν σε χωνεύει που έρχεσαι τακτικά στο Μοναστήρι.* "He does not like you because you are regular to the Monastery."
-
 In correlative (paired) coordinating conjuctions such as _είτε - είτε_ or 
 _ή - ή_ "either - or", both words are annotated `CCONJ'.
 
