@@ -11,7 +11,7 @@ udver: '2'
 
 Particles are function words that must be associated with another word or phrase to impart meaning and that do not satisfy definitions of other universal parts of speech (e.g. adpositions <code>ADP</code>, coordinating conjunctions, subordinating conjunctions or auxiliary verbs). Particles may encode grammatical categories such as negation, mood, tense etc. Particles are normally not inflected, although exceptions may occur.
 
-Hint: *όχι" / *ochi* "no/not" should be tagged as [PART]() and <code>Polarity=Neg</code> if it is used like the English particle *not*, e.g., *φέρε τον αναπτήρα, όχι τα σπίρτα* / *fere ton anaptira, ochi ta spirta* "fetch the lighter, not the matches". *Όχι* / *ochi* "no/not" is typically used as an interjection <code>INTJ</code> with <code>Polarity=Neg</code>.
+Hint: *όχι" / *ohi* "no/not" should be tagged as [PART]() and [Polarity=Neg]() if it is used like the English particle *not*, e.g., *φέρε τον αναπτήρα, όχι τα σπίρτα* / *fere ton anaptira, ochi ta spirta* "fetch the lighter, not the matches". *Όχι* / *ochi* "no/not" is typically used as an interjection [INTJ]() with [Polarity=Neg]().
 
 ### Examples
 -	*ας* 
