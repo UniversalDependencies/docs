@@ -14,7 +14,7 @@ Nouns typically denote entities such as persons, places, things, animals or idea
 
 The tag <code>NOUN</code>  is intended for common nouns only. See <code>PROPN</code> for proper nouns and <code>PRON</code> for pronouns.
 
-Certain adjectives are considered nouns. As such they disallow the formation of comparatives (but not all adjectives allow for comparatives anyway).
+Certain nouns are strongly related with adjectives. Being nouns, they disallow the formation of comparatives (but not all adjectives allow for comparatives anyway).
 
 
 Modern Greek expresses degree modification of nouns with a variety of morphological (and syntactic) means:
