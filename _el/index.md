@@ -61,7 +61,10 @@ Major differences at  PoS level between GDT and GUD are the treatement of  *να
   *  pieces of phrases received from older forms of the language: *καθωσπρέπει* / *kathosprepi* "proper" (originally two words written as one word nowadays).
   *  formations in *-μένος* that are not related to a verb in use in EL, e.g. *χιλιοτραγουδισμένος* / chiliotragoudismenos “storied”, *ξακουσμένος* / ksakousmenos “famous”, etc; these are assigned the  tag ADJ.  
 * [AUX]() is not specified for the feature [Aspect](). As auxiliary words ([AUX]()) are considered:
-  * *είμαι* "be" when it is used to assign a property to an entity; typically, properties are denoted with adjectives, e.g., *είμαι ψηλός* "I am tall".
+  * *είμαι* "be" when: 
+    * when a participle depends on it; the participle is assigned the tag [VERB]() and bears values for the feature [Voice](). 
+    * when it is used to assign a property to an entity; typically, properties are denoted with adjectives, e.g., *είμαι ψηλός* "I am tall". 
+Otherwise,  *είμαι* "to be"  is assigned the tag [VERB](), e.g., *είμαι στο σπίτι μου* "I am at my place". 
   *  *έχω* "have", in verb complexes, both active and passive ones; when *έχω* is used as a content verb it is assigned the tag [VERB]().
   * the indeclinable *θα*, in verb complexes, both active and passive ones.
   * the indeclinable *να* when:	
