@@ -6,7 +6,7 @@ udver: '2'
 ---
 
 ### Definition
-An auxiliary is a function word that accompanies the lexical verb of a verb phrase and expresses grammatical distinctions not carried by the lexical verb, such as person, number, tense, mood, voice or evidentiality. 
+An auxiliary is a function word that accompanies the lexical verb of a verb phrase and expresses grammatical distinctions not carried by the lexical verb. In Modern Greek these may be, depending on the auxiliary, person, number, tense and mood. In periphrastic verb tenses, aspect is contributed by the content verb form.
 
 The verb *έχω* / *echo* "have" and the particle *θα* are assigned the tag [AUX]() in periphrastic verb tenses, both active and passive ones. 
 
