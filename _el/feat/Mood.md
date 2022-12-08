@@ -37,9 +37,9 @@ Modern Greek verbs morphologically mark the imperfective and perfective  singula
 #### Examples
 
 * Imperfective: _Γράφε το γράμμα!_ “_Write (2nd, singular)_  the letter!”
-* Imperfective: _Γράφετε το γράμμα!_ “_Write (2nd, plural)_ the letter!”
+* Imperfective: _Γράφ(ε)τε το γράμμα!_ “_Write (2nd, plural)_ the letter!”
 * Perfective: _Γράψε το γράμμα!_ “_Write (2nd, singular) )_ the letter!”
-* Perfective: _Γράψετε το γράμμα!_ “_Write (2nd, plural)_ the letter!”
+* Perfective: _Γράψ(ε)τε το γράμμα!_ “_Write (2nd, plural)_ the letter!”
 * Perfective: _Ντύσου!_ "_Get dressed (2nd, singular)_".
 * Perfective: _Ντυθείτε!_  "_Get dressed (2nd, plural)_".
 
