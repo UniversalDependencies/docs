@@ -36,16 +36,16 @@ information whether and when it was / will be completed.
 
 ### <a name="Perf">`Perf`</a>: perfect aspect
 
-The event is viewed as a (completed) whole. It is available for past and future tenses. 
+The event is viewed as a (completed) whole. The verb form that combines perfect aspect and past tense is independent. All other verb forms that bear the feature-value pair [Aspect=Perf]() should be supported by an auxiliary, namely _έχω_ or _θα_.
 
 #### Examples
-* _έγραψα_ "I wrote"
+* _έγραψα_ "I wrote" (past, perfect)
 * _θα γράψω_ "I will write"
 * _έχω γράψει_ "I have written"
-* _κοιμήθηκα_ "I slept"
+* _κοιμήθηκα_ "I slept" (past, perfect)
 * _θα κοιμηθώ_ "I will sleep"
 * _έχω κοιμηθεί_ "I have slept"
-* _ψήθηκα_  "I was baked"
+* _ψήθηκα_  "I was baked" (past, perfect)
 * _θα ψηθώ_ "I will be baked"
 * _έχω ψηθεί_ "I have been baked"
 <!-- Interlanguage links updated Po lis 14 15:34:40 CET 2022 -->
