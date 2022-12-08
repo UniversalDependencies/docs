@@ -37,12 +37,12 @@ Article is a special case of <b>determiner</b> that bears the feature of
 
 #### Examples
 
-* definite article: _ο,του, τον, η, της, την, το, οι, των, τους, τα_
-* indefinitie article _ένας, ενός, ένα, μία, μίας_ 
+* definite article (the various cases in the two numbers and the three genders): _ο, του, τον, η, της, την, το, οι, των, τους, τα_
+* indefinitie article (the various cases in the three genders, singular only): _ένας, ενός, ένα, μία, μίας_ 
 
 ### <a name="Dem">`Dem`</a>: demonstrative pronoun, determiner or adverb
 
-They are understood as determiners when they are followed by a noun. 
+They are understood as determiners when they are followed by a noun.
 
 #### Examples
   
@@ -62,7 +62,7 @@ They are understood as determiners when they are followed by a noun.
   
 ### <a name="Emp">`Emp`</a>: emphatic determiner
 
-Emphatic pro-adjectives (determiners) emphasize the nominal they depend on.
+Emphatic determiners emphasize the nominal they depend on.
 There are similarities with reflexive and demonstrative pronouns / determiners.
 
 #### Examples
@@ -108,7 +108,7 @@ They introduce direct or indirect questions.
 
 Negative pronominal words are distinguished from negating [particles](u-pos/PART)
 and from words that inflect for polarity (verbs, adjectives etc.) Those words
-do not use `PronType=Neg`, they use `Polarity=Neg` instead. See the
+do not use `PronType=Neg`, instead they use `Polarity=Neg`. See the
 [Polarity]() feature for further details.
 
 #### Examples: 
@@ -116,7 +116,7 @@ do not use `PronType=Neg`, they use `Polarity=Neg` instead. See the
 <b>Pronouns, Determiners</b>
 - _κανείς, κανένας, καμιά_ "nobody"
 - _τίποτα, κανένα_ "nothing"
-- κανενός, καμιανής "no one's (negative possessive)
+- _κανενός, καμιανής_ "no one's (negative possessive)
   
 <b>Negative adverbs</b>
 - *πουθενά* / *pouthena* ‘nowhere', *ποτέ* / *pote* ‘never'
