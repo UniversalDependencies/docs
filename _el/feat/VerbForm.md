@@ -31,7 +31,7 @@ In Modern Greek this applies to indicative and imperative forms.
 
 ### <a name="Inf">`Inf`</a>: infinitive
 
-As "Infinitive" is marked a verb form of Modern Greek that is received from the perfective form of the verb and is used with the auxiliary _έχω_
+As "Infinitive" is marked a verb form of Modern Greek that is received from the _perfective_ form of the verb and is used with the auxiliary _έχω_
  "have" to form certain composite tenses. It has no other usage in the language and it is not  used as the lemma form (as infinitives are traditionally used).
 
 #### Examples
