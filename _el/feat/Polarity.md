@@ -16,9 +16,9 @@ udver: '2'
 
 
 
-Modern Greek response [interjection](el-pos/INTJ) *όχι* / *ochi* "no/not" is assigned the feature-value pair with [Polarity=Neg](). 
+Modern Greek response [interjection](el-pos/INTJ) *όχι* / *ohi* "no/not" is assigned the feature-value pair  [Polarity=Neg](). 
 When it is used like the English 
-particle *not*, e.g., *φέρε τον αναπτήρα, όχι τα σπίρτα* / *fere ton anaptira, ochi ta spirta* "fetch the lighter, not the matches"*όχι" / *ochi* "no/not" it is  tagged as [PART](el-pos/PART) and <code>Polarity=Neg</code>.
+particle *not*, e.g., *φέρε τον αναπτήρα, όχι τα σπίρτα* / *fere ton anaptira, ohi ta spirta* "fetch the lighter, not the matches", *όχι" / *ohi* "no/not" is  assigned the tags [PART](el-pos/PART) and [Polarity=Neg]().
 
 
 ### <a name="Pos">`Pos`</a>: positive, affirmative
