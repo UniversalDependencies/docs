@@ -16,7 +16,7 @@ udver: '2'
 Voice in Modern Greek is a feature of verbs that highlights the role of a certain participant in an event; the highlighted participant is related to the  syntactic subject of the verb. So, the active voice relates the "doer" with the subject and the passive voice relates the "affected" with the subject. However, these are strong tendencies only.
 
 
-All Modern Greek finite verb forms and the participles are tagged for Voice.
+All Modern Greek finite verb forms, the infinitive and the participles are tagged for Voice.
 
 ### <a name="Act">`Act`</a>: active voice
 
