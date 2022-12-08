@@ -26,12 +26,12 @@ is affected or controlled (patient).
 
 #### Examples
 
-- _Ο Όμηρος έγραψε την Οδύσσεια._ "Homer wrote the Odyssey." (Homer is the doer/controller of the writing event and surfaces as the subject of the active verb. Odyssey is created, therefore affected by the writing event and surfaces as the object of the active verb.)
+- _Ο Όμηρος έγραψε την Οδύσσεια._ "Homer wrote the Odyssey." (Homer is the doer/controller of the writing event and surfaces as the subject of the active verb. Odyssey is created, therefore it is affected by the writing event and surfaces as the object of the active verb.)
 
 ### <a name="Pass">`Pass`</a>: passive voice
 
 The subject of the verb is affected by the event (patient). The doer
-(agent) is either unexpressed or is introduced by the preposition από.
+(agent) is either unexpressed or is introduced with the preposition _από_.
 
 
 #### Examples
