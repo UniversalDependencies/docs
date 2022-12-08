@@ -13,13 +13,13 @@ udver: '2'
 A subordinating conjunction is a conjunction that links constructions by making one of them a constituent of the other. The subordinating conjunction typically marks the incorporated constituent which has the status of a (subordinate) clause.
 
 *που* and *να* are used in several ways:
-- *που* is assigned the tag <code>PRON</code> if it refers to a noun, e.g. *Έχουμε πολλές πληροφορίες, που*.PRON *δεν οδηγούν όμως πουθενά* "we have much information that, however, leads to nowhere". 
-  - it is assigned the tag <code>SCONJ</code> when: 
-    	- it introduces a  complement of saying or sense verbs  (criterion: in this case, it can be replaced with the word *ότι* with somewhat different implications), e.g., *Σε είδα που τον κοίταζες.* "I saw that you watched him.",  *Δεν άκουσες που είπε: «Ευχαριστώ, ωραία μου κυρία»;* "Haven't you heard him saying "Thanks my fair lady"?"  
-    	- it introduces a temporal clause together with the [ADP]() *μετά*  (criterion: in this case, the multiword conjunction *μετά που* can be replaced with the [ADP]() *αφο΄ύ* resulting into different style probably), e.g., *Τον είδα μετά που χώρισε.* "I met him after he got divorced." *μετά* depends on *που* with the dependency relation [fixed]().
-    	- it  introduces an etiological clause  (criterion: in this case, it can be replaced with the word *γιατί* resulting into different style probably), e.g., *Δεν σε χωνεύει που έρχεσαι τακτικά στο Μοναστήρι.* "He does not like you because you are regular to the Monastery."
+* *που* is assigned the tag <code>PRON</code> if it refers to a noun, e.g. *Έχουμε πολλές πληροφορίες, που*.PRON *δεν οδηγούν όμως πουθενά* "we have much information that, however, leads to nowhere". 
+* it is assigned the tag <code>SCONJ</code> when: 
+  * it introduces a  complement of saying or sense verbs  (criterion: in this case, it can be replaced with the word *ότι* with somewhat different implications), e.g., *Σε είδα που τον κοίταζες.* "I saw that you watched him.",  *Δεν άκουσες που είπε: «Ευχαριστώ, ωραία μου κυρία»;* "Haven't you heard him saying "Thanks my fair lady"?"  
+  * it introduces a temporal clause together with the [ADP]() *μετά*  (criterion: in this case, the multiword conjunction *μετά που* can be replaced with the [ADP]() *αφο΄ύ* resulting into different style probably), e.g., *Τον είδα μετά που χώρισε.* "I met him after he got divorced." *μετά* depends on *που* with the dependency relation [fixed]().
+  * it  introduces an etiological clause  (criterion: in this case, it can be replaced with the word *γιατί* resulting into different style probably), e.g., *Δεν σε χωνεύει που έρχεσαι τακτικά στο Μοναστήρι.* "He does not like you because you are regular to the Monastery."
     	
-- *να* is assigned the tag <code>SCONJ</code> when it introduces  subordinate clauses that  function as:
+*  *να* is assigned the tag [SCONJ]() when it introduces  subordinate clauses that  function as:
    -	verb arguments, e.g., *Του είπα <b>να</b> έρθει*.[ccomp]() *εδώ΄* "I told him <b>to</b> come.[ccomp]()  here",   *Το Λιμενικό είναι και το μόνο ικανό <b>να</b> ξεδιαλύνει.*[xcomp]() *την υπόθεση* "Only Maritime Police is able <b>to</b> shed.[xcomp]() light on this case",    *Έτυχε <b>να</b> τον συναντήσετε.*[csubj]() *ποτέ μόνο του;* Lit. happened to him meet ever on his own.
    -	clausal nominal modifiers e.g. *Η μόνη δυνατότητα <b>να</b> πλευρίσει.*[acl]() *σκάφος στην περιοχή είναι η Σκάλα Ωρωπού.*  "The only possibility <b>that</b> a boat docks.[acl]() in this area is the port of Skala Oropou"
 	-  goal denoting clauses where *να* or  *για να* introduce the clause; *για* is tagged <code>ADP</code> and depends on *να* with the [fixed]() dependency, e.g., *Σηκώνεται <b>για</b>*.<code>ADP</code> *<b>να</b> με υποδεχτεί.* [advcl]() "He rises <b>to</b> welcome.[advcl]() me". 
