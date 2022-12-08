@@ -57,7 +57,7 @@ objects within a set. It is formed periphrastically with the definite article an
 #### Examples
 
 <b>Adjectives</b>
-- _το ωραιότερο σπίτι του χωριού είναι της Ελένης_ / - _το πιο ωραίο σπίτι του χωριού είναι της Ελένης_"the most nice house in the village is that of Helen's"
+- _το ωραιότερο σπίτι του χωριού είναι της Ελένης_ /  _το πιο ωραίο σπίτι του χωριού είναι της Ελένης_"the most nice house in the village is that of Helen's"
 - _το ψηλότερο βουνό της Ελλάδας είναι ο Όλυμπος_ / _το πιο ψηλό βουνό της Ελλάδας είναι ο Όλυμπος_ "Olympus is the highest mountain in Greece"
 
 ### <a name="Abs">`Abs`</a>: absolute superlative
@@ -73,7 +73,7 @@ set of objects. The adverbs express the highest degree of a manner.
 - _Η Ελένη ήταν ωραιότατη._ "Helen was _indescribely beautiful_." 
 
 <b>Adverbs</b>
-- _ωραι-ότατα, κάλλιστα_(irregular) "best"
+- _ωραιότατα_ "best", _ευγενέστατα_ "most politely"
 
 Modern Greek expresses degree modification of nouns, adjectives, past participles and adverbs with a set of prefixes and suffixes (and a set of syntactic means);  suffixation may 
  change the gender of the noun, e.g., _χέρι_ "hand" (neutral) vs. _χερούκλα_ "large hand" (feminine), _άντρας_ "man" (masculine) vs. _αντράκι_ "little/insignificant/bully man" (neuter).
