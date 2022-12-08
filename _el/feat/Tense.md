@@ -36,7 +36,7 @@ Modern Greek also forms composite tenses describing situations occurring before 
 * _είχα.PAST γράψει.INF_ "I had written"
 
 * _είμαι.PRES γραμμένος.(VerbForm=Part)_ "I am written"
-* _ήμουν.PAST γραμμένος.(VerbForm=Part)_ "I wa written"
+* _ήμουν.PAST γραμμένος.(VerbForm=Part)_ "I was written"
 
 
 
@@ -54,8 +54,8 @@ usually happen.
 ### <a name="Fut">`Fut`</a>: future tense
 
 The future tense denotes actions that will happen after the current
-moment. In Modern Greek, the feature future 'Fut' is always assigned to the auxiliarry θα that combines with all
-the finite verbal formations of Modern Greek that preserve their normal taggs. θα is often argued to express potentiality rather than the future tense per se.
+moment. In Modern Greek, the feature future 'Fut' is always assigned to the auxiliarry _θα_ that combines with all
+the finite verbal formations of Modern Greek; the latter preserve their normal taggs. _θα_ is often argued to express potentiality rather than the future tense per se.
 
 
 #### Examples
@@ -63,6 +63,8 @@ the finite verbal formations of Modern Greek that preserve their normal taggs. �
 * _θα γράψω_ "Ι will write"* _θα είχα γράψει.INF_ "Ι would have written"
 * _θα έχω γράψει.INF_ "Ι will have written"
 * _θα έγραφα_ "Ι would write"
+
+
 * _θα έγραψα_ "Ι would have written"
 * _θα γράφομαι_ "Ι will be being written"
 *  _θα γραφτώ_ "Ι will be written"
