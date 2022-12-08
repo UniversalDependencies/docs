@@ -31,31 +31,32 @@ In Modern Greek this applies to indicative and imperative forms.
 
 ### <a name="Inf">`Inf`</a>: infinitive
 
-As Infinitive is marked a verb form of Modern Greek that is received from the perfective form of the verb and is used with the auxiliary έχω "have" to form certain composite tenses. It has no other usage in the language and it is not  used as the lemma form (as infinitives are traditionally used).
+As "Infinitive" is marked a verb form of Modern Greek that is received from the perfective form of the verb and is used with the auxiliary _έχω_
+ "have" to form certain composite tenses. It has no other usage in the language and it is not  used as the lemma form (as infinitives are traditionally used).
 
 #### Examples
 
 - _έχω γράψει_ “Ι have written”
 - _είχα γράψει_ “Ι had written”
-- _έχω γραφτεί_ "I have been written"
-- _είχα γραφτεί_ "I had been written"
+- _έχω γραφτεί_ "I have been written" (passive morphology)
+- _είχα γραφτεί_ "I had been written" (passive morphology)
 
 
 ### <a name="Part">`Part`</a>: participle
 
 Participle is a non-finite verb form that shares properties of verbs
-and adjectives. Modern Greek has a medio-/passive (or deponent) participle ending in -μένος/-μένη/-μένο that corresponds to the classic Greek present tense medio-/passive participle.  In limited use are some participles  ending in -θεις, -θείσα, -θεν inherited from classical Greek in the  medio-/passive past tense. 
+and adjectives. Modern Greek has a medio-/passive (or deponent) participle ending in _-μένος/-μένη/-μένο_ that corresponds to the Ancient Greek present tense medio-/passive participle.  In limited use are some participles  ending in _-θεις, -θείσα, -θεν_ inherited from classical Greek in the  medio-/passive past tense. 
 
 Participles inflect for [Gender](el-feat/Gender), [Case](el-feat/Case) and [Number](el-feat/Number) and are marked for [Voice](el-feat/Voice) but not [Tense](el-feat/Tense) and [Mood](el-feat/Mood). 
 
 #### Examples
 
 - _γραμμένος, γραμμένη, γραμμένο_; “written” (medio-/passive (or deponent) participle lemma in the three genders)
-- _προαναφερθείς, προαναφερθεία, προαναφερθέν_ (past medio-/passive participle (or deponent) lemma in the three genders)
+- _προαναφερθείς, προαναφερθείσα, προαναφερθέν_ (past medio-/passive participle (or deponent) lemma in the three genders)
 
 ### <a name="Conv">`Conv`</a>: converb, transgressive
 
-Non-inflecting verb forms ending in *-όντας, -ώντας* (adverbial participles) are non-finite forms that share properties of adverbs and verbs. They are assigned the tag [VERB]() or [AUX](), a lemma in *-όντας, -ώντας*, the specification <code>VerbForm=Conv</code> and are tagged for <code>Aspect</code> and <code>Voice</code>. 
+Non-inflecting verb forms ending in *-όντας, -ώντας* (adverbial participles) are non-finite forms that share properties of adverbs and verbs. They are assigned the tag [VERB](), a lemma in *-όντας, -ώντας*, the specification [VerbForm=Conv] and are tagged for [Aspect]() and [Voice](). 
 
 
 #### Examples
