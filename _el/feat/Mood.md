@@ -14,7 +14,7 @@ udver: '2'
 </table>
 
 Mood  expresses modality and subclassifies _finite_
-verb forms. Modern Greek morphologically distinguishes between two moods, Indicative and Imperative. 
+verb and auxiliary forms. Modern Greek morphologically distinguishes between two moods, Indicative and Imperative. 
 
 Participles and the so-called Infinitive of Modern Greek are assigned the tag [Verb]() but are not defined for the Mood feature.
 
