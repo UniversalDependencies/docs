@@ -28,15 +28,15 @@ Modern Greek morphology distinguishes four cases:
 #### Examples
 
 * singular nominative _μητέρα_ “mother”, genitive _μητέρας_ 
-  accusative _μητ΄έρα_ vocative _μητέρα_ 
-* plural nominative μητέρες_ genitive _μητέρων_ 
+  accusative _μητέρα_ vocative _μητέρα_ 
+* plural nominative _μητέρες_ genitive _μητέρων_ 
  accusative _μητ΄έρες_ vocative _μητέρες_ 
 
 
 
 ### <a name="Nom">`Nom`</a>: nominative
 
-The base form of the noun, also used as citation form (lemma).
+The base form of the noun (normally in the singular number), also used as citation form (lemma).
 This is the word form typically used for nominal subjects of clauses.
 
 #### Examples
@@ -46,7 +46,7 @@ This is the word form typically used for nominal subjects of clauses.
 
 ### <a name="Gen">`Gen`</a>: genitive
 
-Genitives prototypically mark possessors and arguments of deverbal nominals. In Modern Greek it is the case of the indirect object (typically with verbs of giving and saying). A handful of verbs and adverbs require a direct object in the genitive case.
+Genitives prototypically mark possessors and arguments of deverbal nominals. In Modern Greek, it is the case of the indirect object (typically with verbs of giving and saying). A handful of verbs and adverbs require a direct object in the genitive case.
 
 
 #### Examples
@@ -59,7 +59,7 @@ Genitives prototypically mark possessors and arguments of deverbal nominals. In 
 
 ### <a name="Dat">`Dat`</a>: dative
 
-Modern Greek does not mark the dative case morphologically. Datives occur only in fixed expressions inherited from older versions of the Greek language.
+Modern Greek does not mark the dative case morphologically; depending on the dialect, several of its functions, in particular that of the indirect object, have been taken up by the genitive case (Standard Modern Greek) or the accusative case (Northern dialects of Modern Greek). Morphological datives occur only in fixed expressions inherited from older versions of the Greek language.
 
 
 #### Examples
