@@ -14,7 +14,8 @@ udver: '2'
 </table>
 
 
-Aspect in Modern Greek  specifies the point of view the speaker adopts, that is, whether he views the event as  a whole or whether he adopts a view from within the event. Modern Greek verbs do not provide different lemmas for their two morphologically distinct aspectual types.
+Aspect in Modern Greek  specifies the point of view the speaker adopts, that is, whether he views the event as  a completed whole or  he focues on the temporal structure of the event (continuation, duration, iteration). Modern Greek verbs do not provide different lemmas for their two morphologically distinct aspectual types.
+
 
 ### <a name="Imp">`Imp`</a>: imperfect aspect
 
@@ -48,4 +49,11 @@ The event is viewed as a (completed) whole. The verb form that combines perfect 
 * _ψήθηκα_  "I was baked" (past, perfect)
 * _θα ψηθώ_ "I will be baked"
 * _έχω ψηθεί_ "I have been baked"
+
+
+### References 
+Georgios I. Xydopoulos. 1996. _Tense, aspect, and adverbials in Modern Greek_. PhD Thesis. 
+University College London
 <!-- Interlanguage links updated Po lis 14 15:34:40 CET 2022 -->
+
+
