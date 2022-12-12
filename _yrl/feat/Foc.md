@@ -1,6 +1,6 @@
 ---
 layout: feature
-title: 'Focus'
+title: 'Foc'
 shortdef: 'focus particle'
 udver: '2'
 ---
