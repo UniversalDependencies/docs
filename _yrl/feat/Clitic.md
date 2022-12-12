@@ -23,7 +23,7 @@ The postposition *upé* and the adverb *nhuntu* have the clitic variants *pe* an
 
 #### Examples
 
-Cltic forms attested by Avila (2021):
+Clitic forms attested by Avila (2021):
 
 * _<b>Amaãntu.</b>&nbsp;_ “I'm just looking.” (*a-maã=ntu* 1sg-see-only)
 * _<b>kupixá-pe</b>&nbsp;_ “in the plantation” (*kupixá=pe* plantation-LOC)
