@@ -11,7 +11,6 @@ udver: '2'
   <td><a href="#Fut">Fut</a></td>
   <td><a href="#Imm">Imm</a></td>
   <td><a href="#Rec">Rec</a></td>
-  <td><a href="#Rec">Rec</a></td>
   <td><a href="#Rem">Rem</a></td>
 </tr>
 </table>
