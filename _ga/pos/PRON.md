@@ -12,7 +12,7 @@ In Irish, third person pronouns (both singular and plural) have two forms, rough
 Irish pronouns also have emphatic forms  (e.g. _seisean_ and _eisean_) . 
 Pronouns are often incorporated through inflection in synthetic verb forms and prepositions.
 
-Augment pronouns appear in copula constructions when the subject is 3rd person singular or plural. The pronoun precedes the subject.
+Pronominal augments or subpredicates appear in copula constructions when the subject is 3rd person singular or plural. The pronoun precedes the subject.
 
 Irish demonstratives are either post-determiners (see [DET]()), when modifying a noun, or simply demonstrative pronouns (_siúd, seo, sin_), tagged as PRON.
 
@@ -50,7 +50,7 @@ Irish demonstratives are either post-determiners (see [DET]()), when modifying a
 * _iadsan_ "them"
 
 
-##### augment pronouns
+##### Pronominal augments or subpredicates
 
 * _An <b>é</b> Mairtín an múinteoir?_ "Is Martin the teacher?
 * _An <b>í</b> Máire an múinteoir?_ "Is Mary the teacher?
