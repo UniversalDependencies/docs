@@ -6,7 +6,7 @@ udver: '2'
 ---
 A clausal subject is a clausal syntactic subject of a clause, i.e., the subject is itself a clause. In the following example, *dia duit* is the subject.
 ~~~ sdparse
-@user @user ta 'dia dhuit' iomlán ceart. Tá sé níos foirmiúla s Cloisfidh tu 'conas ta' 'haigh' nios minice.
+ta ' dia dhuit ' iomlán ceart. \n is 'hello' completely correct.
 csubj(ta, dia)
 ~~~
 We use [csubj:cop]() for clausal subjects in copular constructions when the clause contains its own subject.
