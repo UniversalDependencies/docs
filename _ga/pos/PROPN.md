@@ -16,7 +16,7 @@ In the case of counties (Co. Chiarraí), _Co._ is tagged as X (abbreviation), an
 
 When initial mutation occurs with proper nouns in Irish, the inflection is lowercase, while the main form retains the initial capitalisation (e.g. _i mBaile Átha Cliath_ "in Dublin"). Similarly, some titles can have lower-case prefixes (e.g. _an t-iar-Ghobharnóir_ "the former Governor").
 
-Note that days of the week and months of the year in Irish, while capitialised, are not marked as proper nouns but common nouns instead.
+Days of the week and months of the year ar marked as proper nouns.
 
 Some abreviations are also marked as proper nouns. 
 
