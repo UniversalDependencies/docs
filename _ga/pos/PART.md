@@ -32,7 +32,7 @@ There are many different particles in Irish:
 * _<b>is</b> mó_ "biggest" (superlative)
 * _<b>a</b> dhéanamh_ "to do"  (infinitive marker) 
  
-See additional information in the Features section of the documentation. \ 
+See additional information in the Features section of the documentation.
 Morphological features are important for the specification of particle types. Irish makes use of a broad range of particles. It is important to differentiate these particles, because in some cases they share the same form, yet have different functions. For
 example, _a_ can be a vocative particle, relative particle, infinitive particle or quantifier particle, and trigger a variety of different spelling changes (e.g. eclipsis, h-prefix or lenition).
 
