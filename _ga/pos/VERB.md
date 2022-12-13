@@ -44,7 +44,7 @@ The substantive verb is also used in conjunction with a verbal noun to form  pro
 * _Imímid_ "We leave"
 * _Imeoidh mé_ "I will leave"
 * _Imeoimid_ "We will leave"
-* _Cuirtear an leabhar ar an mbord_ "the book was put on the table"
+* _Cuirtear an leabhar ar an mbord_ "the book is put on the table"
 
 
 
