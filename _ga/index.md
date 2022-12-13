@@ -220,7 +220,7 @@ through noun inflection. For example, _páipéar_ "paper" is a masculine noun in
 * _an dochtúir_ "the doctor"
 * _cóta an dochtúra_ "the doctor's coat"
 * _an fheoil_ "the meat"
-* _boladh an feola_ "the smell of the meat"
+* _boladh na feola_ "the smell of the meat"
 * _an coinín_ "the rabbit"
 * _eireaball an choinín_ "the rabbit's tail"
 * _an siopa_ "the shop"
