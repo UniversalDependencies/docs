@@ -1,22 +1,24 @@
 ---
 layout: feature
-title: 'Anaph'
-shortdef: 'Anaph'
+title: 'PronType'
+shortdef: 'PronType'
 udver: '2'
 ---
 
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Anaph">Anaph</a></td>
+  <td><a href="#Bi">Bi</a></td>
   
   
 </tr>
 </table>
 
-`Anaph` Anaphoric 
+`PronType`  
 
-### <a name="Yes">`Yes`</a>: Yes
+### <a name="Bi">`Bi`</a>: Bi
+
+Bi (bound index) refers to a set of person index which is neither an agreement marker nor an independent pronoun. It combines with tense, illocutionary force markers.
 
 
 #### Example
