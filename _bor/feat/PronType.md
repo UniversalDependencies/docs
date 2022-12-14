@@ -10,7 +10,7 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Bi">Bi</a></td>
   <td><a href="#Prs">Prs</a></td>
-  
+  <td><a href="#Int">Int</a></td>
   
 </tr>
 </table>
@@ -28,6 +28,13 @@ Bi (bound index) refers to a set of person index which is neither an agreement i
 ### <a name="Prs">`Prs`</a>: Prs
 
 Prs (personal) refers to an independent person index.
+
+
+#### Example
+
+### <a name="Int">`Int`</a>: Prs
+
+Int (iterrogative) refers to a question word that is of of the arguments of the predicate.
 
 
 #### Example
