@@ -17,4 +17,12 @@ obj(gibt, Apfel)
 obl(gibt, Kind)
 ~~~
 
+In a rare case however, a verb may take two accusative objects:
+
+~~~ sdparse
+Die Nachrichten kosteten den Vorstandsvorsitzenden seinen Job . \n The news cost the CEO his job .
+iobj(kosteten, Vorstandsvorsitzenden)
+obj(kosteten, Job)
+~~~
+
 <!-- Interlanguage links updated Po lis 14 15:35:28 CET 2022 -->
