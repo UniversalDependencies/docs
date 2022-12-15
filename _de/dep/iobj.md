@@ -13,14 +13,8 @@ nominal can be attached as neither `iobj` nor [obj](); it must be [obl]().
 
 ~~~ sdparse
 Die Frau gibt dem Kind einen Apfel . \n The woman gives the child an apple .
-obj (gibt, Apfel)
-iobj(gibt, Kind)
+obj(gibt, Apfel)
+obl(gibt, Kind)
 ~~~
 
-In general, if there is just one object, it should be labeled [obj](), regardless of the morphological case or semantic role.
-
-~~~ sdparse
-Sie hilft ihrem Mann . \n She helps her husband .
-obj(hilft, Mann)
-~~~
 <!-- Interlanguage links updated Po lis 14 15:35:28 CET 2022 -->
