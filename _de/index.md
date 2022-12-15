@@ -4,10 +4,6 @@ title:  'German UD'
 udver: '2'
 ---
 
-<!-- Inspired by an old proposal for language-specific documentation here: http://universaldependencies.org/v2/minimaldoc.html
-     If we agree on a scheme like this, the old proposal should be updated and made visible in the “How to Contribute” section;
-     right now it is probably not linked from anywhere. -->
-
 # UD for German <span class="flagspan"><img class="flag" src="../../flags/svg/DE.svg" /></span> <span class="flagspan" style="padding-left:1em"><img class="flag" src="../../flags/svg/AT.svg" /></span> <span class="flagspan" style="padding-left:1em"><img class="flag" src="../../flags/svg/LI.svg" /></span> <span class="flagspan" style="padding-left:1em"><img class="flag" src="../../flags/svg/CH.svg" /></span> <span class="flagspan" style="padding-left:1em"><img class="flag" src="../../flags/svg/LU.svg" /></span>
 
 ## Tokenization and Word Segmentation
@@ -111,26 +107,23 @@ udver: '2'
     thus it is labeled `nsubj`.
 * Objects defined in the German grammar may be bare noun phrases in accusative, dative or genitive,
   or prepositional phrases in accusative, dative or genitive.
-  For the purpose of UD the objects are divided to core objects, labeled [obj]() or [iobj](),
+  For the purpose of UD the objects are divided to core objects, labeled [obj](),
   and oblique objects, labeled [obl:arg]().
-  * Bare accusative, dative and genitive objects are considered core.
-  * All prepositional objects are considered oblique.
+  * Bare accusative objects are considered core.
+  * Bare dative and genitive objects, and all prepositional objects are considered oblique.
   * Accusative objects of some verbs alternate with finite clausal complements, which are labeled [ccomp]().
   * If a verb subcategorizes for the infinitive (e.g. phasal verbs or verbs of control), the infinitival complement is labeled [xcomp]().
-  * If a verb subcategorizes for two core objects, one of them accusative (or `ccomp`) and the other non-accusative,
-    then the non-accusative object is labeled [iobj]().
-    Core nominal objects in other situations are labeled just [obj]().
 * Adjuncts (or, following the German grammar, adverbial modifiers realized as noun phrases) are usually
   prepositional phrases, but they can be bare noun phrases as well. They are labeled [obl]():
   * Temporal modifiers realized as accusative noun phrases: _ich arbeite jeden Tag_ “I work every day.”
   * All prepositional phrases that are not prepositional objects (i.e., their role and form is not defined lexically by the predicate)
     are adjuncts.
 * Extra attention has to be paid to the reflexive pronoun _sich_. It can function as:
-  * Core object ([obj]() or [iobj]()): _er sah sich im Spiegel_ “he sighted himself in the mirror.”
-  * Reciprocal core objects (`obj` or `iobj`): _sie küssten sich_ “they were kissing each other.”
+  * Core object ([obj]()): _er sah sich im Spiegel_ “he sighted himself in the mirror.”
+  * Reciprocal core objects (`obj`): _sie küssten sich_ “they were kissing each other.”
   * Inherently reflexive verb, cannot exist without the reflexive clitic, and the clitic cannot be substituted by an irreflexive pronoun
     or a noun phrase.
-    In accord with the current UD guidelines, we label the relation
+    In accord with the UD guidelines, we label the relation
     between the verb and the clitic as [expl:pv](), not `compound`. Example: _wir müssen uns beeilen_ “we must hurry.”
 * In passive clauses, the subject is labeled with [nsubj:pass]() or [csubj:pass](), respectively.
   * The auxiliary verb in periphrastic passive is labeled [aux:pass]().
@@ -153,6 +146,8 @@ udver: '2'
   * [compound:prt]() for separable verb prefixes
   * [det:poss]() for possessive determiners
   * [nmod:poss]() for possessive modifier phrases
+  * [acl:relcl]() for adnominal relative clauses
+  * [advcl:relcl]() for relative clauses whose antecedent is a clause
 * The following relation types are not used in German at all:
   [clf](), [dislocated]()
 
