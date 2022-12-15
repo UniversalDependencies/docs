@@ -1,8 +1,8 @@
 ---
 udver: '2'
 layout: relation
-title: 'dobj'
-shortdef: 'direct object'
+title: 'obj'
+shortdef: 'object'
 ---
 
 `obj` marks a noun phrase that is the direct object of a verb. The direct object is in accusative case.
