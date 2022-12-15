@@ -17,7 +17,7 @@ Der Saal befindet sich unten . \n The hall is downstairs .
 expl:pv(befindet, sich)
 ~~~
 
-Note that if a reflexive pronoun can be otherwise replaced by a direct / indirect object, then it should be marked accordingly.
+Note that if a reflexive pronoun can be otherwise replaced by a direct object or oblique, then it should be marked accordingly.
 
 ~~~ sdparse
 Ich freue mich sehr . \n I am very pleased .
@@ -26,6 +26,7 @@ obj(freue, mich)
 
 ~~~ sdparse
 Ich wasche mir dir Hände . \n I wash my hands .
-iobj(wasche, mir)
+obl(wasche, mir)
 ~~~
+
 <!-- Interlanguage links updated Po lis 14 15:35:25 CET 2022 -->
