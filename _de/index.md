@@ -98,6 +98,8 @@ udver: '2'
 
 ## Syntax
 
+This is an overview only. For more detailed discussion and examples, see the list of [German relations](dep/index.html).
+
 ### Core Arguments, Oblique Arguments and Adjuncts
 
 * Nominal subject ([nsubj]()) is a noun phrase in the nominative case, without preposition.
