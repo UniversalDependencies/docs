@@ -113,6 +113,8 @@ This is an overview only. For more detailed discussion and examples, see the lis
   and oblique objects, labeled [obl:arg]().
   * Bare accusative objects are considered core.
   * Bare dative and genitive objects, and all prepositional objects are considered oblique.
+    * This means that verbs of giving are not ditransitive predicates in German UD, as they have one oblique dative argument and only one core object.
+    * In rare cases a verb may license two accusative objects and then the relation [iobj]() will be used for one of them.
   * Accusative objects of some verbs alternate with finite clausal complements, which are labeled [ccomp]().
   * If a verb subcategorizes for the infinitive (e.g. phasal verbs or verbs of control), the infinitival complement is labeled [xcomp]().
 * Adjuncts (or, following the German grammar, adverbial modifiers realized as noun phrases) are usually
