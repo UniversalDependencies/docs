@@ -152,6 +152,7 @@ This is an overview only. For more detailed discussion and examples, see the lis
   * [advcl:relcl]() for relative clauses whose antecedent is a clause
 * The following relation types are not used in German at all:
   [clf](), [dislocated]()
+  (`dislocated` could be used but it does not occur in the current data).
 
 ## Treebanks
 
