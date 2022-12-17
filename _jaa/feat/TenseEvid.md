@@ -9,24 +9,12 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#FutF">FutF</a></td>
-  
-  </tr>
-</table>
-
-
-<table class="typeindex" border="1">
-<tr>
-  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#IPastFhF">IPastFhF</a></td>
   
-  
-
 </tr>
 </table>
 
 
-</tr>
-</table>
 
 `TenseEvid`  
 
