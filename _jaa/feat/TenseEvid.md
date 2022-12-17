@@ -32,6 +32,30 @@ The future tense (always non-attested) feminine gender
 </table>
 
 
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#IPastFhF">IPastFhF</a></td>
+  
+  
+
+</tr>
+</table>
+
+`TenseEvid`  
+
+### <a name="IPastFhF">`IPastFhF`</a>: Immediate Past First Hand Feminine 
+
+The immediate past tense (attested) feminine gender 
+
+#### Examples
+
+  
+</tr>
+
+
+</tr>
+</table>
 
 
 ## Diffs
