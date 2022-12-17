@@ -10,7 +10,20 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#FutF">FutF</a></td>
   
+  </tr>
+</table>
+
+
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#IPastFhF">IPastFhF</a></td>
   
+  
+
+</tr>
+</table>
+
 
 </tr>
 </table>
@@ -28,19 +41,6 @@ The future tense (always non-attested) feminine gender
 </tr>
 
 
-</tr>
-</table>
-
-
-<table class="typeindex" border="1">
-<tr>
-  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#IPastFhF">IPastFhF</a></td>
-  
-  
-
-</tr>
-</table>
 
 `TenseEvid`  
 
