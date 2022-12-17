@@ -14,18 +14,18 @@ udver: '2'
 </tr>
 </table>
 
-`Deontic`  
+`Mood`  
 
-### <a name="DeclF">`DeclF`</a>: Yes 
+### <a name="DeclF">`DeclF`</a>: Declarative Feminine 
 
 
 
 #### Examples
 * _<b></b>&nbsp;_ “"
 
-`Deontic`  
+`Mood`  
 
-### <a name="DeclM">`DeclM`</a>: Yes 
+### <a name="DeclM">`DeclM`</a>: Declarative Feminine
 
 
 
