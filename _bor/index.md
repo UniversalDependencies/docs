@@ -63,6 +63,8 @@ my mouth
 
 ## Syntax
 
+Bororo is an ergative language.
+
 The only argument of an intransitive verb is marked by agreement on the verb. 
 
 ```
