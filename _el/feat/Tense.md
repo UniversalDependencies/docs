@@ -18,6 +18,9 @@ Tense is a feature pertaining to finite verb and auxiliary forms and participles
 takes / will take place, in relation to the current moment or to
 another action in the utterance.
 
+In Modern Greek tenses are formed periphrastically mainly (composite tenses). There are three stand-alone verb forms, i.e., not supported by auxiliaries, that bear Tense: one that, arguably, is not marked for tense and is classified  as "Pres" although it is also used in the so-called Future tense formations, and two forms marked for "Past" that differ in terms of aspect (perfect, imperfect). There is no verb form marked for Future; instead, there is the particle _θα_ that is considered an auxiliary in the Greek treebanks and is assigned the tense feature "Fut" but see the comment in the documentation of Future tense. 
+
+<b>All verb and auxiliary forms in composite tenses preserve their tense and mood features, if they are defined for them.</b>
 
 ### <a name="Past">`Past`</a>: past tense
 
@@ -28,7 +31,7 @@ moment. Modern Greek morphologically distinguishes between a perfective past ten
 * Perfective past tense: _έγραψα_ "I wrote"
 * Imperfective past tense: _έγραφα_ "I was writing"
 
-Modern Greek also forms composite tenses describing situations occurring before a specified point in time, now, in the past or the future, with the use of auxiliaries, namely the verbs 'have' and 'be'. In these cases, each form (the auxiliary and the verb) are assigned their own tense features. Certain composite tenses are formed with a form of the content verb  that is tagged as 'infinitive' [VerbForm](el-feature/VerbForm) and is not specified for tense and mood.
+Periphrasticalloy formed tenses (composite tenses) describe situations occurring before a specified point in time, now, in the past or the future, with the use of auxiliaries, namely the verbs 'have' and 'be'. In these cases, each form (the auxiliary and the verb) are assigned their own tense features. Certain composite tenses are formed with a form of the content verb  that is tagged as 'infinitive' [VerbForm](el-feature/VerbForm) and is not specified for tense and mood.
 
 #### Examples
 
@@ -54,8 +57,8 @@ usually happen.
 ### <a name="Fut">`Fut`</a>: future tense
 
 The future tense denotes actions that will happen after the current
-moment. In Modern Greek, the feature future 'Fut' is always assigned to the auxiliarry _θα_ that combines with all
-the finite verbal formations of Modern Greek; the latter preserve their normal taggs. _θα_ is often argued to express potentiality rather than the future tense per se.
+moment. In Modern Greek, the feature future 'Fut' is always assigned to the auxiliarry _θα_ that, however, combines with all
+the finite verbal formations of Modern Greek; the latter preserve their normal taggs. So _θα_ combines with verb forms that bear Past or Present Tense features or no Tense features at all. It is important to note here that _θα_ is often argued to express potentiality rather than the future tense per se. 
 
 
 #### Examples
