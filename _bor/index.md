@@ -21,6 +21,12 @@ Bororo uses all 18 tags. Words are delimited by a whitespace.
 
 ### Nouns
 
+#### Gender
+
+The gender of nouns in Bororo follow the natural gender of the animate nouns, i.e., males take masculine gender and females take feminine gender. Inanimate nouns are genderless but morphologically they follow the masculine pattern.
+
+#### Number
+
 There are different ways of forming the `plural` of nouns in Bororo: deleting the last syllables of nouns ending in -\textit{edu}, substituting the last vowel by \textit{e}, adding \textit{e} to the singular form, adding -\textit{doge} to the stem, adding -\textit{ge} to nouns ending in -\textit{reu}, -\textit{wu}, -\textit{epa}, -\textit{are}. There are also instances of irregular plural forms, ablaut with change of final vowel, and some forms that do not vary in the plural.
 
 ### Tags
