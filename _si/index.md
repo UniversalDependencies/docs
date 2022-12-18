@@ -16,21 +16,23 @@ STB 2.11 contains 100 sentences taken from various sources.
 ## Morphology
 
 ### Tags
+
 * XPOS are not used in STB 2.11
 * The following UPOS are used in STB 2.11
 
-* VERB
-* PUNCT
-* PART
-* ADJ
-* PRON
-* AUX
-* PROPN
-* ADV
-* ADP
-* DET
-* CCONJ
-* NUM
+* [NOUN]()
+* [PROPN]()
+* [PRON]()
+* [DET]()
+* [NUM]()
+* [ADJ]()
+* [VERB]()
+* [AUX]()
+* [ADV]()
+* [ADP]()
+* [CCONJ]()
+* [PART]()
+* [PUNCT]()
 
 ## Features
 
@@ -48,6 +50,7 @@ STB 2.11 contains 100 sentences taken from various sources.
   * Nom - e.g. ඔහු, ආර්ථික, එය, මහතා, දේශපාලන, අද, ඒ, තත්ත්වය, යුද, අය
 
 ## Syntax
+
 The STB 2.11 has the following three types of contructions:
 
 1. with non-complex predicates - 26 constructions
