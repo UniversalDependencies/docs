@@ -72,6 +72,8 @@ advcl(έφυγε, θυμωμένος)
 advcl(στέκεται, αμίλητος)
 ~~~
 
+*που* may introduce ascriptive relative clauses  with a clause as antecedent (rather than a nominal): *Πρέπει να κοιμήθηκα ένα δεκάωρο περίπου,* <b>που</b> *για μένα είναι το απόλυτο θαύμα.* "It is likely that I slept for about 10 hours --- which  is an absolute miracle in my case." Here, the clause introduced by *που* depends with the relation [advcl:relcl]() on the clause headed by *κοιμήθηκα* "slept".
+
 
 
 <!---
