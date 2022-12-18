@@ -19,6 +19,10 @@ Bororo uses all 18 tags. Words are delimited by a whitespace.
 
 ## Morphology
 
+### Nouns
+
+There are different ways of forming the `plural` of nouns in Bororo: deleting the last syllables of nouns ending in -\textit{edu}, substituting the last vowel by \textit{e}, adding \textit{e} to the singular form, adding -\textit{doge} to the stem, adding -\textit{ge} to nouns ending in -\textit{reu}, -\textit{wu}, -\textit{epa}, -\textit{are}. There are also instances of irregular plural forms, ablaut with change of final vowel, and some forms that do not vary in the plural.
+
 ### Tags
 
 ## Person indexes
@@ -63,9 +67,7 @@ my mouth
 
 ## Syntax
 
-Bororo is an ergative language.
-
-The only argument of an intransitive verb is marked by agreement on the verb. 
+Bororo is an ergative language. The only argument of an intransitive verb (absolutive) is marked by agreement on the verb. 
 
 ```
 Imaragodure
@@ -73,7 +75,7 @@ i-maragodu-re
 1SG-work-ASS
 ```
 
-For transitive verbs, the only agreement marker on the verb is that of the patient argument.
+For transitive verbs, the only agreement marker on the verb is that of the patient (absolutive) argument.
 
 ```
 adugore emage ewido
