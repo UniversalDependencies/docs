@@ -7,7 +7,7 @@ udver: '2'
 
 An adverbial clause modifier is a clause which modifies a verb or other predicate (adjective, etc.),
 as a modifier not as a core complement. This includes things such as a temporal, consequence, purpose, conditional
-clauses, etc. The dependent must be clausal (or else it is an [advmod]()) and the dependent is the main predicate of the clause.
+clauses, etc. The dependent must be clausal (or else it is an [advmod]()) and the antecedent is the main predicate of the clause.
 
 ~~~ sdparse
 Το ατύχημα συνέβη καθώς έπεφτε η νύχτα
