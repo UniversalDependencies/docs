@@ -62,36 +62,36 @@ The 100 sentences contain the following relations.
 * [acl]()
 * [advcl]()
 * [advmod]()
-* [advmod:emph]()
-* [advmod:lmod]()
+* [advmod:emph]() for emphasizing adverbials attached to nominals
+* [advmod:lmod]() for locative adverbs
 * [amod]()
 * [aux]()
-* [aux:pass]()
+* [aux:pass]() for passive auxiliaries
 * [case]()
 * [cc]()
 * [ccomp]()
 * [compound]()
-* [compound:lvc]()
-* [compound:prt]()
-* [compound:svc]()
+* [compound:lvc]() for light verb constructions
+* [compound:prt]() for verb particles
+* [compound:svc]() for serial verb constructions
 * [conj]()
 * [cop]()
 * [csubj]()
 * [dep]()
 * [det]()
-* [det:poss]()
+* [det:poss]() for possessive determiners
 * [flat]()
-* [flat:name]()
+* [flat:name]() for parts of headless names
 * [mark]()
 * [nmod]()
-* [nmod:poss]()
-* [nmod:tmod]()
+* [nmod:poss]() for possessive/genitive nominal modifiers
+* [nmod:tmod]() for temporal modifiers of nominals
 * [nsubj]()
 * [nummod]()
 * [obj]()
 * [obl]()
-* [obl:lmod]()
-* [obl:tmod]()
+* [obl:lmod]() for locative oblique modifiers of clauses
+* [obl:tmod]() for temporal oblique modifiers of clauses
 * [punct]()
 * [root]()
 * [xcomp]()
