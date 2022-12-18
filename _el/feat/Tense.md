@@ -18,7 +18,7 @@ Tense is a feature pertaining to finite verb and auxiliary forms and participles
 takes / will take place, in relation to the current moment or to
 another action in the utterance.
 
-In Modern Greek tenses are formed periphrastically mainly (composite tenses). There are three stand-alone verb forms, i.e., not supported by auxiliaries, that bear Tense: one that, arguably, is not marked for tense and is classified  as "Pres" although it is also used in the so-called Future tense formations, and two forms marked for "Past" that differ in terms of aspect (perfect, imperfect). There is no verb form marked for Future; instead, there is the particle _θα_ that is considered an auxiliary in the Greek UD treebanks and is assigned the tense feature "Fut" but see the comment in the documentation of Future tense. 
+Modern Greek verb tenses are formed periphrastically mainly (composite tenses). In the GUD treebanks there are three stand-alone verb forms, i.e., not supported by auxiliaries, that bear Tense: one that is classified  as "Pres" but it is also used in the so-called Future tense formations, and two forms marked for "Past" that differ in terms of aspect (perfect, imperfect). There is no verb form marked for Future; instead, there is the particle _θα_ that is considered an auxiliary in the Greek UD treebanks and is assigned the tense feature "Fut" (but it would be probably more accurate to consider it a marker of potentiality and drop the feature 'Fut' from the Greek UD treebanks). 
 
 <b>All verb and auxiliary forms in composite tenses preserve their tense and mood features, if they are defined for them.</b>
 
