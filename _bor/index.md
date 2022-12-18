@@ -23,7 +23,7 @@ Bororo uses all 18 tags. Words are delimited by a whitespace.
 
 #### Gender
 
-The gender of nouns in Bororo follow the natural gender of the animate nouns, i.e., males take masculine gender and females take feminine gender. Inanimate nouns are genderless but morphologically they follow the masculine pattern.
+The `gender of nouns in Bororo follow the natural gender of the animate nouns, i.e., males take masculine gender and females take feminine gender. Inanimate nouns are genderless but morphologically they follow the masculine pattern.
 
 #### Number
 
