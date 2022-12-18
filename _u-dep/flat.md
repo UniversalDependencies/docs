@@ -15,7 +15,7 @@ Flat MWEs are annotated with a flat structure, where all subsequent words in the
 first one using the `flat` label. The assumption is that in these expressions, the `flat` relations
 are not syntactic head-modifier relations, and that the structural annotation is in principle arbitrary. 
 For consistency, UD specifies that the first word of the expression shall be the head of all `flat` 
-dependents. These dependents may have other modifiers so long as they are not `flat`.
+dependents. These dependents may have other modifiers, including nested `flat` structures.
 
 Below we describe some of the most common uses of [flat]() across languages. Note that semantically
 equivalent expressions in different languages (or even in the same language) may require a different analysis if sometimes
@@ -207,16 +207,15 @@ nmod(Paulo, Silva)
 case(Silva, da)
 ~~~
 
-But a flat structure cannot be nested immediately under another flat structure. For example, 
-the words of an embedded nickname would be treated as top-level parts of the flat expression:
+A flat structure can even be nested under another flat structure. For example, the words of an embedded nickname would be treated as a nested flat expression:
 
 ~~~ sdparse
 Denise " Dee Dee " Bridgewater
 flat(Denise, Dee-3)
-flat(Denise, Dee-4)
+flat(Dee-3, Dee-4)
 flat(Denise, Bridgewater)
 punct(Dee-3, "-2)
-punct(Dee-4, "-5)
+punct(Dee-3, "-5)
 ~~~
 
 ### Some further notes on relations for names
