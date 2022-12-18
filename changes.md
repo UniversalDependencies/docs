@@ -24,6 +24,7 @@ But some updates have been necessary to clarify how they should be applied to pa
 
 | &nbsp;&nbsp;#&nbsp;&nbsp; | Date<br>Decided | Effective<Br>Release | Type                     | Title                                         |
 |:-:|:------------:|:-----------------:|--------------------------|-----------------------------------------------|
+| 6 | 2022-Dec     | 2.12              | AMENDMENT                | [Nested `flat`](#nested-flat)                 |
 | 5 | 2022-May     | 2.10              | AMENDMENT, VALIDATOR     | [Multiple Subjects](#multiple-subjects)       |
 | 4 | 2022-May     | 2.10              | AMENDMENT                | [Optional Depictives](#optional-depictives)   |
 | 3 | 2022-Feb     | 2.10              | AMENDMENT                | [Reported Speech](#reported-speech)           |
@@ -31,6 +32,15 @@ But some updates have been necessary to clarify how they should be applied to pa
 | 1 | 2021-Dec     | 2.10              | CLARIFICATION, VALIDATOR | [Deverbal Connectives](#deverbal-connectives) |
 
 
+### Nested `flat`
+  
+In May 2021, the [flat]() guidelines were revised to clarify that nested expressions were allowed under a `flat` dependent, 
+so long as the nested expression was not itself a flat expression. 
+This constraint [is now lifted](https://github.com/UniversalDependencies/docs/commit/42023bd) (in fact, it was never enforced): 
+if a flat name, for example, has a part which is itself a flat name, it may be indicated with a nested flat expression. 
+The only constraint on `flat` edges is that they must point forward in the sentence: 
+the first word of the expression is always the technical head, though linguistically speaking, the expression is considered headless.
+  
 ### Multiple Subjects
 
 In general, UD prohibits multiple subjects (i.e. a word may have at most one [nsubj]() or [csubj]() dependent), 
