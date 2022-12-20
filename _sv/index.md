@@ -59,9 +59,11 @@ For more information, see the list of [Swedish features](feat/index.html).
   * [advcl:relcl]() for relative clauses modifying a clause
   * [aux:pass]() for passive auxiliaries
   * [compound:prt]() for verb particles
+  * [csubj:outer]() for external clausal subjects of predicative clauses
   * [csubj:pass]() for clausal subjects of passive verbs
   * [flat:name]() for exocentric complex names
   * [nmod:poss]() for possessive/genitive modifiers
+  * [nsubj:outer]() for external nominal subjects of predicative clauses
   * [nsubj:pass]() for nominal subjects of passive verbs
   * [obl:agent]() for agents of passive verbs
 
