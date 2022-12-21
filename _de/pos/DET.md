@@ -61,12 +61,14 @@ case(women, of)
 
 What has been said above about _kein_ would apply to most of the other determiners, including the indefinite article
 _ein_. However, there is the question of the subclass normally encoded by the [PronType]() feature: as an article,
-_ein_ would be `PronType=Art`, as a self-standing nominal it should get `PronType=Ind` (note that _kein_ receives
-`PronType=Neg` in both contexts). TODO: Decide what to do here!
+_ein_ would be `PronType=Art`, as a self-standing pronoun it would get `PronType=Ind` (note that _kein_ receives
+`PronType=Neg` in both contexts). To be consistent, we treat the `PronType` subclass as lexical (i.e. not changing
+with context) and always keep _ein_ in the same subclass: `PronType=Art`. It thus receives a treatment analogous
+to the treatment of _kein, mein, dein_.
 
 The situation is even more complicated with the definite article _der_. A homonymous word functions as a relative
 pronoun. Not only do we want to use `PronType=Rel` to recognize relative pronouns; some of the forms in the paradigm
-are actually not homonymous (the paradigm of the relative pronoun includes forms _dessen_, _deren_, _denen_, which
+are actually not homonymous (the paradigm of the relative pronoun includes the forms _dessen_, _deren_, _denen_, which
 cannot be used as definite articles). Therefore, _der_ as a relative pronoun is considered a separate lexeme and its
 UPOS tag is [PRON]().
 

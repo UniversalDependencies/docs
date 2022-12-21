@@ -24,7 +24,7 @@ udver: '2'
 * The following words are particles in German: _nicht_ “not”, and the infinitive marker _zu_ “to”.
 * The pronoun ([PRON]()) vs. determiner ([DET]()) distinction is based on word lists because the traditional grammar does not define determiners.
   In general, words that inflect for gender, to be able to agree with a modified noun, are tagged [DET](), even if they
-  act independently in a given sentence; that includes possessives.
+  act independently in a given sentence; that includes possessives. There is more discussion on the page on [DET]().
 * German auxiliary verbs ([AUX]()) are:
   * _sein_ for perfect tenses of some verbs (_ich bin gekommen_ “I have come”) and as copula (_er ist alt_ “he is old”)
   * _haben_ for perfect tenses of the remaining verbs (_ich habe gegessen_ “I have eaten”)
