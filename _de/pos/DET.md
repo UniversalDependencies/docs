@@ -40,7 +40,7 @@ Finally, in the third example, the accusative _keine_ is the head of the direct 
 nominal dependent _von beiden Frauen_ “of the two women”.
 
 ~~~ sdparse
-Er sagt , dass er keine/DET von/ADP beiden Frauen/NOUN heiraten wolle . \n He says , that he none.Fem.Sing.Acc of the-two women marry wants .
+Er sagt , dass er keine/DET von/ADP beiden Frauen/NOUN heiraten/VERB wolle . \n He says , that he none.Fem.Sing.Acc of the-two women marry wants .
 obj(heiraten, keine)
 obj(marry, none.Fem.Sing.Acc)
 nmod(keine, Frauen)
@@ -82,6 +82,21 @@ note that the word form _eins_ “one” is treated as an independent lemma in t
 numeral that does not accompany a counted noun (e.g. it can be the answer to the question “How many pieces do you
 have?”) and it is different from all forms of the determiner _ein_.
 
+The word _beide_ “both” is also semantically a numeral, but unlike other cardinal numerals in German (including
+_zwei_ “two”) it has the adjective-like declension paradigm and fits in the here-defined class of determiners.
+It has the total subclass (`PronType=Tot`), as it refers to all members of a previously mentioned two-member set.
+However, it also receives `NumType=Card` to mark the numeric component of its meaning.
+
 ### Determiners vs. Adjectives
 
-TBA: Is _anderer_ a determiner, or an adjective?
+Since we defined determiners as sharing properties of pronouns and adjectives, there is naturally also the question
+of the borderline between determiners and adjectives; “being pronominal” is a vague term especially when it comes to
+indefinite pronouns.
+
+TBD: Is _anderer_ “other” a determiner, or an adjective? In the meaning of "not this one", it is more like an indefinite
+determiner (but it still needs to be accompanied by an article). In the meaning of "not the same, not like this one",
+it is closer to an adjective. Traditional grammar does not seem to include it under pronouns/determiners.
+
+When used attributively, a German determiner usually does not occur together with another determiner in the same
+nominal, although this is not a hard constraint. In contrast, an attributively used adjective is often accompanied
+by a determiner (but this is not a requirement either).
