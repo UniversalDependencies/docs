@@ -21,7 +21,7 @@ So the negative determiner _kein_ “no” acts attributively (i.e., as a syntac
 and is attached to the modified noun via the [det]() relation.
 
 ~~~ sdparse
-Der Inhaber würdigt dem Kunden keines Blickes . \n The owner pays the customer no.Masc.Sing.Gen attention.Masc.Sing.Gen .
+Der Inhaber würdigt dem Kunden keines/DET Blickes/NOUN . \n The owner pays the customer no.Masc.Sing.Gen attention.Masc.Sing.Gen .
 det(Blickes, keines)
 det(attention.Masc.Sing.Gen, no.Masc.Sing.Gen)
 ~~~
@@ -31,7 +31,7 @@ but it is attached via the [nsubj]() relation. We note that the same annotation 
 phrase _kein Mensch_ “no man”, in which the noun _Mensch_ has been elided.
 
 ~~~ sdparse
-Keiner interessierte sich für das auffällig ratlose Verhalten der Kunden . \n Nobody.Masc.Sing.Nom was-interested REFL in the conspicuously helpless behavior of-the customers .
+Keiner/DET interessierte/VERB sich für das auffällig ratlose Verhalten der Kunden . \n Nobody.Masc.Sing.Nom was-interested REFL in the conspicuously helpless behavior of-the customers .
 nsubj(interessierte, Keiner)
 nsubj(was-interested, Nobody.Masc.Sing.Nom)
 ~~~
@@ -40,7 +40,7 @@ Finally, in the third example, the accusative _keine_ is the head of the direct 
 nominal dependent _von beiden Frauen_ “of the two women”.
 
 ~~~ sdparse
-Er sagt , dass er keine von beiden Frauen heiraten wolle . \n He says , that he none.Fem.Sing.Acc of the-two women marry wants .
+Er sagt , dass er keine/DET von/ADP beiden Frauen/NOUN heiraten wolle . \n He says , that he none.Fem.Sing.Acc of the-two women marry wants .
 obj(heiraten, keine)
 obj(marry, none.Fem.Sing.Acc)
 nmod(keine, Frauen)
