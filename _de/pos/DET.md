@@ -100,3 +100,28 @@ it is closer to an adjective. Traditional grammar does not seem to include it un
 When used attributively, a German determiner usually does not occur together with another determiner in the same
 nominal, although this is not a hard constraint. In contrast, an attributively used adjective is often accompanied
 by a determiner (but this is not a requirement either).
+
+### Indefinite Quantifiers
+
+The quantifiers _viel_ “much/many”, _mehr_ “more”, _wenig_ “little/few”, _weniger_ “less/fewer” are tagged `DET`,
+although their behavior partially differs from that of the other determiners. But it differs from other word classes,
+too. They are not tagged [NUM](), as this category is reserved for defnite cardinal numerals.
+
+With countable nouns, the quantifier takes a suffix that signals agreement in gender, number and case:
+_Religion ist die Erbin <b>vieler</b> Namen._ “Religion is the heir to many.Plur.Masc.Gen names.”
+_Wir sind seit <b>vielen</b> Jahren Mandanten der Rechtsanwälte Ruland._ “We have been clients of Lawyers Ruland for many.Plur.Neut.Dat years.”
+_Es gibt <b>viele</b> Banken._ “There are many.Plur.Fem.Acc banks.”
+These occur normally in plural, but there are singular instances too, for example the fixed expression _Vielen Dank!_
+“Many thanks!” (lit. Many.Sing.Masc.Acc thank!)
+
+With mass nouns the quantifier occurs without the agreement suffix. This is similar to the short (adverbial,
+predicative) form of adjectives:
+_Man kann dort <b>viel</b> Geld lassen._ “You can leave a lot of money.Sing.Neut.Acc there.”
+Mass nouns have only the singular form. Depending on their syntactic position, they can still distinguish [Case]().
+If they were accompanied by another determiner, such as the definite article, the case (and gender) would be reflected
+by the form of that determiner; but the quantifiers _viel, mehr, wenig, weniger_ do not inflect in such a situation.
+
+Finally, the uninflected form can be also used adverbially to denote degree of a property or predication:
+_Jede Jugendherberge ist sehr <b>viel</b> besser und günstiger als dieses "Hotel"._ “Any youth hostel is much better and cheaper than this "hotel".”
+_Parkplätze gibt es in unmittelbarer Nähe ausreichend <b>viel</b>._ “There are plenty of parking spaces in the immediate vicinity.”
+They are tagged [ADV]() at present but this may be revised in the future.
