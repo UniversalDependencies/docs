@@ -111,7 +111,7 @@ With countable nouns, the quantifier takes a suffix that signals agreement in ge
 _Religion ist die Erbin <b>vieler</b> Namen._ “Religion is the heir to many.Plur.Masc.Gen names.”
 _Wir sind seit <b>vielen</b> Jahren Mandanten der Rechtsanwälte Ruland._ “We have been clients of Lawyers Ruland for many.Plur.Neut.Dat years.”
 _Es gibt <b>viele</b> Banken._ “There are many.Plur.Fem.Acc banks.”
-These occur normally in plural, but there are singular instances too, for example the fixed expression _Vielen Dank!_
+These occur normally in plural, but there are singular instances too, for example the fixed expression _<b>Vielen</b> Dank!_
 “Many thanks!” (lit. Many.Sing.Masc.Acc thank!)
 
 With mass nouns the quantifier occurs without the agreement suffix. This is similar to the short (adverbial,
