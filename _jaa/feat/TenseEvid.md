@@ -9,11 +9,11 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#FutF">FutF</a></td>
-  <td><a href="#IPastFhF">IPastFhF</a></td>
+  <td><a href="#IPastNfHF">IPastNfHF</a></td>
+  <td><a href="#IPastNfHF">IPastNfHF</a></td>
   
 </tr>
 </table>
-
 
 
 `TenseEvid`  
@@ -40,6 +40,18 @@ The immediate past tense (attested) feminine gender
 
   
 </tr>
+
+`TenseEvid`  
+
+### <a name="IPastNfHF">`IPastNfHF`</a>: Immediate Past Non-First Hand Feminine 
+
+The immediate past tense (non-attested) feminine gender 
+
+#### Examples
+
+  
+</tr>
+
 
 
 </tr>
