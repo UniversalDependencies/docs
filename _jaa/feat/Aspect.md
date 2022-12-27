@@ -9,7 +9,7 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Hab">Hab</a></td>
-  <td><a href="#Bla">Bla</a></td>
+  <td><a href="#Cont">Cont</a></td>
  
   
   
@@ -29,7 +29,7 @@ udver: '2'
 
 `Aspect`
 
-### <a name="Bla">`Bla`</a>: Bla Aspect
+### <a name="Cont">`Cont`</a>: Continuous Aspect
 
 
 
