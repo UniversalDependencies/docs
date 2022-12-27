@@ -1,7 +1,7 @@
 ---
 layout: feature
 title: 'AC'
-shortdef: 'A-Construction'
+shortdef: 'AC'
 udver: '2'
 ---
 
@@ -13,10 +13,10 @@ udver: '2'
 </tr>
 </table>
 
-`AC` 
+`AC` AC indicates the so called A-Construction
 
 
-### <a name="Yes">`Yes`</a>: A-Construction
+### <a name="Yes">`Yes`</a>: Yes
 
 
 
