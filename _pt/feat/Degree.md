@@ -35,7 +35,7 @@ The suffixes mostly used for diminutives are "inho(a)", "zinho(a)". Others are "
 *  _Peça para a picanha vir bem passada se não vem bem <b>palidazinha</b>._ ADJ
 
 
-### <a name="Augm">`Augm`</a>: augmentative
+### <a name="Aug">`Aug`</a>: augmentative
 
 This feature is used to express that something exceeds normal proportion in terms of size, intensity or excellence. The suffixes mostly used for augmentatives are "ão", "ona", "aço(a)".
 
