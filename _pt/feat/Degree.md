@@ -5,49 +5,48 @@ shortdef: 'degree of comparison'
 udver: '2'
 ---
 
-Degree of comparison is typically an inflectional feature of some
-[adjectives](u-pos/ADJ) and [adverbs](u-pos/ADV).
+For the purposes of annotation, we acknowledge three values: absolute superlative, augmentative and diminutive.
 
-### <a name="Pos">`Pos`</a>: positive, first degree
-
-This is the base form that merely states a quality of something,
-without comparing it to qualities of others. Note that although this
-degree is traditionally called "positive", negative properties can be
-compared, too.
-
-#### Examples
-
-* _homem <b>jovem</b>_
-* _<b>criança</b> esperta_
-
-### <a name="Cmp">`Cmp`</a>: comparative, second degree
-
-The quality of one object is compared to the same quality of another
-object.
-
-#### Examples
-
-* _o homem é <b>melhor</b> que eu_
-* _o homem é <b>mais</b> alto que eu_
-
-### <a name="Sup">`Sup`</a>: superlative, third degree
-
-The quality of one object is compared to the same quality of all other
-objects within a set.
-
-#### Examples
-
-*  _ele é o <b>mais</b> alto do nosso grupo_
+Besides Absolute Superlative for [adjectives](u-pos/ADJ) and [adverbs](u-pos/ADV), Portuguese can express diminutive and augmentative meanings by adding suffixes to words with the POS tags: [nouns](u-pos/NOUN), [proper nouns](u-pos/PROPN), [pronouns](u-pos/PRON), [adjectives](u-pos/ADJ), [adverbs](u-pos/ADV), and [verbs](u-pos/VERB) (non-finite forms).
 
 ### <a name="Abs">`Abs`</a>: absolute superlative
 
-Some languages, as Portuguese, can express morphologically that the studied quality of
-the given object is so strong that there is hardly any other object
-exceeding it. The quality is not actually compared to any particular
-set of objects.
+In Portuguese, suffixes "íssimo(a)", "érrimo(a)", "ésimo(a)" added to the ADJ and ADV tags indicate that the quality of an object or an action is very strong in terms of size, intensity or excellence. This is called Absolute Superlative .
 
 #### Examples
 
-* _lindo_ "handsome"; _<b>lindíssimo</b>_ "<b>indescribably
-  handsome</b>"
+*  _ela é <b>poderosíssima</b> na empresa_
+*  _o bebê é <b>lindésimo</b>_
+*  _deram uma festa <b>chiquérrima</b>_
+*  _correu <b>rapidíssimo</b>_
+
+
+### <a name="Dim">`Dim`</a>: diminutive
+
+The suffixes mostly used for diminutives are "inho(a)", "zinho(a)". Others are "ito(a)", "ulo(a)", "culo(a)", "ote"', "im". These suffixes are used to construe meanings, not only of smallness of an object or quality, but also of intimacy or endearment. They can also construe pejorative meanings. 
+
+#### Examples
+
+*  _<b>Risquinho</b> na sobrancelha cresce depois?_ NOUN
+*  _Conheça a história de <b>Joãozinho</b> e Maria._ PROPN
+*  _Assobiava <b>baixinho</b>._  ADV
+*  _Festa com café da manhã incluso, tudo <b>organizadinho</b> pela nossa equipe._ VERB (past participle)
+*  _Aumentei o som e sai <b>dançandinho</b>._ VERB (gerund)
+*  _Peça para a picanha vir bem passada se não vem bem <b>palidazinha</b>._ ADJ
+
+
+### <a name="Augm">`Augm`</a>: augmentative
+
+This feature is used to express that something exceeds normal proportion in terms of size, intensity or excellence. The suffixes mostly used for augmentatives are "ão", "ona", "aço(a)".
+
+#### Examples
+
+*  _João comprou um <b>apartamentão</b>._ NOUN
+*  _A casa da minha avó tinha um <b>varandão</b> imenso._ NOUN
+*  _O filme foi <b>ignoradaço</b> pela turma._ VERB (past participle)
+*  _Me lembro que foi <b>comentadaço</b> pela net afora._  VERB (past participle)
+*  _Deu certo e foi <b>rapidaço</b>._ ADJ
+*  _Tomo um banho <b>rapidão</b>._ ADV
+*  _Uma doença rara, com um nome <b>complicadão</b>._ ADJ
+
 <!-- Interlanguage links updated Po lis 14 15:34:43 CET 2022 -->
