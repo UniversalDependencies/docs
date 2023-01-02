@@ -60,7 +60,7 @@ The immediate past tense (non-attested) masculine gender
 
 #### Examples
 
-* _<b>Me yoro na me , E towakamaba ereke</b>&nbsp;_ “They were standing there . Let's go back.”
+
   
 </tr>
 
