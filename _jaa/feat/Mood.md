@@ -10,7 +10,8 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#DeclF">DeclF</a></td>
   <td><a href="#DeclM">DeclM</a></td>
-
+  <td><a href="#ImpF">ImpF</a></td>
+  
 </tr>
 </table>
 
@@ -31,6 +32,18 @@ udver: '2'
 
 #### Examples
 * _<b></b>&nbsp;_ “"
+
+
+`Mood`  
+
+### <a name="ImpF">`ImpF`</a>: Imperative Feminine 
+
+
+
+#### Examples
+* _<b></b>&nbsp;_ “"
+
+
 
 
 ## Diffs
