@@ -11,6 +11,7 @@ udver: '2'
   <td><a href="#DeclF">DeclF</a></td>
   <td><a href="#DeclM">DeclM</a></td>
   <td><a href="#ImpF">ImpF</a></td>
+  <td><a href="#ImpF">ImmF</a></td>
   
 </tr>
 </table>
@@ -43,6 +44,14 @@ udver: '2'
 #### Examples
 * _<b></b>&nbsp;_ “"
 
+`Mood`  
+
+### <a name="ImmF">`ImmF`</a>: Immediate Feminine 
+
+
+
+#### Examples
+* _<b></b>&nbsp;_ “"
 
 
 
