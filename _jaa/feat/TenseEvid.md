@@ -12,11 +12,12 @@ udver: '2'
   <td><a href="#IPastNfHF">IPastNfHF</a></td>
   <td><a href="#IPastNfHF">IPastNfHF</a></td>
   <td><a href="#IPastNfHM">IPastNfHM</a></td>
+  <td><a href="#FPastFhM">FPastFhM</a></td>
   
 </tr>
 </table>
 
-`TenseEvid`  
+`TenseEvid` Tense and Evidentiality
 
 ### <a name="FutF">`FutF`</a>: Future Feminine 
 
@@ -30,7 +31,7 @@ The future tense (always non-attested) feminine gender
 
 
 
-`TenseEvid`  
+`TenseEvid`  Tense and Evidentiality
 
 ### <a name="IPastFhF">`IPastFhF`</a>: Immediate Past First Hand Feminine 
 
@@ -41,7 +42,7 @@ The immediate past tense (attested) feminine gender
   
 </tr>
 
-`TenseEvid`  
+`TenseEvid`  Tense and Evidentiality
 
 ### <a name="IPastNfHF">`IPastNfHF`</a>: Immediate Past Non-First Hand Feminine 
 
@@ -52,7 +53,7 @@ The immediate past tense (non-attested) feminine gender
   
 </tr>
 
-`TenseEvid`  
+`TenseEvid`  Tense and Evidentiality
 
 ### <a name="IPastNfHM">`IPastNfHM`</a>: Immediate Past Non-First Hand Masculine 
 
@@ -63,6 +64,16 @@ The immediate past tense (non-attested) masculine gender
 
   
 </tr>
+
+`TenseEvid`  Tense and Evidentiality
+
+### <a name="FPastFhM">`FPastFhM`</a>: Far Past First Hand Masculine 
+
+The far past tense (attested) masculine gender 
+
+#### Examples
+
+
 
 </tr>
 </table>
