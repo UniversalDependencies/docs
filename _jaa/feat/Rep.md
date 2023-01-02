@@ -17,7 +17,7 @@ udver: '2'
 `Rep` reported
 
 
-### <a name=F">`F`</a>: Feminine
+### <a name="F">`F`</a>: Feminine
 
 
 
@@ -30,7 +30,7 @@ udver: '2'
 `Rep` reported
 
 
-### <a name=M">`M`</a>: Masculine
+### <a name="M">`M`</a>: Masculine
 
 
 
