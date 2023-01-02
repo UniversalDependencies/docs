@@ -12,6 +12,7 @@ udver: '2'
   <td><a href="#DeclM">DeclM</a></td>
   <td><a href="#ImpF">ImpF</a></td>
   <td><a href="#ImpF">ImmF</a></td>
+  <td><a href="#IntF">IntF</a></td>
   
 </tr>
 </table>
@@ -53,6 +54,14 @@ udver: '2'
 #### Examples
 * _<b></b>&nbsp;_ “"
 
+`Mood`  
+
+### <a name="IntF">`IntF`</a>: Intentative Feminine 
+
+
+
+#### Examples
+* _<b></b>&nbsp;_ “"
 
 
 ## Diffs
