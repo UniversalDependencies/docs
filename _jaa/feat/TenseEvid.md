@@ -11,10 +11,10 @@ udver: '2'
   <td><a href="#FutF">FutF</a></td>
   <td><a href="#IPastNfHF">IPastNfHF</a></td>
   <td><a href="#IPastNfHF">IPastNfHF</a></td>
+  <td><a href="#IPastNfHM">IPastNfHM</a></td>
   
 </tr>
 </table>
-
 
 `TenseEvid`  
 
@@ -52,7 +52,17 @@ The immediate past tense (non-attested) feminine gender
   
 </tr>
 
+`TenseEvid`  
 
+### <a name="IPastNfHM">`IPastNfHM`</a>: Immediate Past Non-First Hand Masculine 
+
+The immediate past tense (non-attested) masculine gender 
+
+#### Examples
+
+* _<b>Me yoro na me , E towakamaba ereke</b>&nbsp;_ “They were standing there . Let's go back.”
+  
+</tr>
 
 </tr>
 </table>
