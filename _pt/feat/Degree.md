@@ -1,7 +1,7 @@
 ---
 layout: feature
 title: 'Degree'
-shortdef: 'degree of comparison'
+shortdef: 'degree'
 udver: '2'
 ---
 
