@@ -14,6 +14,7 @@ udver: '2'
   <td><a href="#IPastNfHF">IPastNfHF</a></td>
   <td><a href="#IPastNfHM">IPastNfHM</a></td>
   <td><a href="#FPastFhM">FPastFhM</a></td>
+  <td><a href="#FPastNfhM">FPastNfhM</a></td>
   <td><a href="#FPastFhF">FPastFhF</a></td>
   <td><a href="#FPastNfhF">FPastNfhF</a></td>
   
@@ -88,6 +89,20 @@ The immediate past tense (non-attested) masculine gender
 The far past tense (attested) masculine gender 
 
 #### Examples
+
+
+
+`TenseEvid`  Tense and Evidentiality
+
+### <a name="FPastNfhM">`FPastNfhM`</a>: Far Past Non-First Hand Masculine
+
+The far past tense (non-attested) masculine gender 
+
+#### Examples
+
+
+
+</tr>
 
 
 
