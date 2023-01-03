@@ -9,11 +9,12 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#FutF">FutF</a></td>
-  <td><a href="#IPastNfHF">IPastNfHF</a></td>
+  <td><a href="#IPastFhF">IPastNfHF</a></td>
   <td><a href="#IPastNfHF">IPastNfHF</a></td>
   <td><a href="#IPastNfHM">IPastNfHM</a></td>
   <td><a href="#FPastFhM">FPastFhM</a></td>
   <td><a href="#FPastFhF">FPastFhF</a></td>
+  <td><a href="#FPastNfhF">FPastFhF</a></td>
   
 </tr>
 </table>
@@ -90,6 +91,18 @@ The far past tense (attested) feminine gender
 
 </tr>
 
+
+`TenseEvid`  Tense and Evidentiality
+
+### <a name="FPastNfhF">`FPastNfhF`</a>: Far Past Non-First Hand Feminine
+
+The far past tense (non-attested) feminine gender 
+
+#### Examples
+
+
+
+</tr>
 
 
 
