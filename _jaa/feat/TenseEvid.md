@@ -9,6 +9,7 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#FutF">FutF</a></td>
+  <td><a href="#FutM">FuM</a></td>
   <td><a href="#IPastFhF">IPastFhF</a></td>
   <td><a href="#IPastNfHF">IPastNfHF</a></td>
   <td><a href="#IPastNfHM">IPastNfHM</a></td>
@@ -24,6 +25,19 @@ udver: '2'
 ### <a name="FutF">`FutF`</a>: Future Feminine 
 
 The future tense (always non-attested) feminine gender 
+
+#### Examples
+
+* _<b>Me yoro na me , E towakamaba ereke</b>&nbsp;_ “They were standing there . Let's go back.”
+  
+</tr>
+
+
+`TenseEvid` Tense and Evidentiality 
+
+### <a name="FutM">`FutM`</a>: Future Masculine 
+
+The future tense (always non-attested) masculine gender 
 
 #### Examples
 
