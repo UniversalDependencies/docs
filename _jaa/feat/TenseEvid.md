@@ -9,7 +9,7 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#FutF">FutF</a></td>
-  <td><a href="#IPastFhF">IPastNfHF</a></td>
+  <td><a href="#IPastFhF">IPastFhF</a></td>
   <td><a href="#IPastNfHF">IPastNfHF</a></td>
   <td><a href="#IPastNfHM">IPastNfHM</a></td>
   <td><a href="#FPastFhM">FPastFhM</a></td>
