@@ -18,3 +18,14 @@ mark(പെയ്യുകയാണ്, എന്ന്)
 nsubj(കരുതുന്നു, ഞാൻ)
 punct(കരുതുന്നു, .)
 ~~~
+
+~~~ sdparse
+ആര് ആണ് എഴുതിയത് എന്ന് അവർക്ക് അറിയില്ല . \n Who is wrote that they know-not .
+nsubj(എഴുതിയത്, ആര്)
+cop:emph(എഴുതിയത്, ആണ്)
+ccomp(അറിയില്ല, എഴുതിയത്)
+ccomp(know-not,wrote)
+mark(എഴുതിയത്, എന്ന്)
+nsubj(അറിയില്ല, അവർക്ക്)
+punct(അറിയില്ല, .)
+~~~
