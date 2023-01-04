@@ -132,3 +132,9 @@ Finally, the uninflected form can be also used adverbially to denote the degree 
 _Jede Jugendherberge ist sehr <b>viel</b> besser und günstiger als dieses "Hotel"._ “Any youth hostel is much better and cheaper than this "hotel".”
 _Parkplätze gibt es in unmittelbarer Nähe ausreichend <b>viel</b>._ “There are plenty of parking spaces in the immediate vicinity.”
 They are tagged [ADV]() at present but this may be revised in the future.
+
+### To Be Decided
+
+* _die <b>allermeisten</b>_ “the vast majority”
+* _anderer_ “other”
+* _ausreichend_ “sufficient(ly)” => [ADJ]() (it can be used also as [advmod]()) (it is similar to the indefinite quantifiers mentioned above only when combined with uncountable nouns; as an inflected adjective with countable nouns it denotes quality (“good enough”) rather than quantity)
