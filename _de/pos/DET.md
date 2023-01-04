@@ -137,4 +137,10 @@ They are tagged [ADV]() at present but this may be revised in the future.
 
 * _die <b>allermeisten</b>_ “the vast majority”
 * _anderer_ “other”
-* _ausreichend_ “sufficient(ly)” => [ADJ]() (it can be used also as [advmod]()) (it is similar to the indefinite quantifiers mentioned above only when combined with uncountable nouns; as an inflected adjective with countable nouns it denotes quality (“good enough”) rather than quantity)
+* _ausreichend_ “sufficient(ly)” => [ADJ]() (it can be used also as [advmod]()) (it is similar to the indefinite
+  quantifiers mentioned above only when combined with uncountable nouns; as an inflected adjective with countable
+  nouns it denotes quality (“good enough”) rather than quantity)
+* _ein <b>bisschen</b>_ “a little bit” => etymologically a diminutive noun (with an indefinite article), but it is
+  spelled with a lowercase “b”, indicating that it is no longer considered a noun; together the fixed expression works
+  like a degree adverb or an indeclinable quantifier for uncountable nouns => we tentatively tag _bisschen_ as [ADV]()
+  with `PronType=Ind`
