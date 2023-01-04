@@ -55,13 +55,13 @@ case(women, of)
 * Possessive personal determiners: _mein_ “my”, _dein_ “your”, _sein_ “his, its”, _ihr_ “her, their”, _unser_ “our”, _euer_ “your”
 * Demonstratives: _dieser_ “this”, _jener_ “that”
 * Interrogative determiners: _welcher_ “which”
-* Total determiners: _jeder_ “every”, _alle_ “all”
+* Total determiners: _jeder_ “every”, _alle_ “all”, _beide_ “both”
 * Negative determiners: _kein_ “no”
 * Indefinite quantifiers: _viel_ “much/many”, _mehr_ “more”, _wenig_ “little/few”, _weniger_ “less/fewer”
 
 As a predeterminer before the definite article, _all_ occurs without the inflectional suffix, but it is still kept
 as a form of the lexeme _alle_: _In <b>all</b> den Jahren waren wir mit den Ergebnissen sehr zufrieden._
-“Over the years we have been very happy with the results.” Nevertheless, the inflected form are also not excluded:
+“Over the years we have been very happy with the results.” Nevertheless, the inflected forms are also not excluded:
 _<b>Alle</b> diese Linien verkehrten zum Bahnhof._ “All of these lines went to the station.”
 
 ### Determiners vs. Pronouns
