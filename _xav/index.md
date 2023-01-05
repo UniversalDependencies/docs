@@ -72,7 +72,8 @@ CORR | ti-     |
 #### Bound indexes (series II)
 
 Person  |  Form  |
-1     | ∅- |
+:-----: | :-----:|
+1      | ∅- |
 2     |ĩ-  |
 3     |ĩ-  |
 
@@ -81,6 +82,7 @@ Person  |  Form  |
 This is the bound index for the frist person object when the subject is second person.
 
 Person  |  Form  |
+:-----: | :-----:|
 1.DU     | ĩwa- |
 1.PL   | ĩwa- |
 
