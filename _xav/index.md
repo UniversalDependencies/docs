@@ -61,21 +61,21 @@ Members of this set are used as possessor markers, subject of intransitive verbs
 
 Person  |  Form  |
 :-----: | :-----:|
-1.SG | ĩĩ-, ∅-  |
-2.SG | a(i)-   |
-3 |  ĩ-, ∅-    |
-1.DU | wa-     |
-2.DU | wa-     |
-CORR | ti-     |
+1.SG | _ĩĩ_-, ∅-  |
+2.SG | _a(i)_-   |
+3    |  _ĩ_-, ∅-    |
+1.DU | _wa_-     |
+2.DU | _wa_-     |
+CORR | _ti_-     |
 
 
 #### Bound indexes (series II)
 
 Person  |  Form  |
 :-----: | :-----:|
-1      | ∅- |
-2     |ĩ-  |
-3     |ĩ-  |
+1     |  ∅-   |
+2     | _ĩ_-  |
+3     | _ĩ_-  |
 
 #### Bound indexes (series III)
 
@@ -83,8 +83,8 @@ This is the bound index for the first person dual and plural object when the sub
 
 Person  |  Form  |
 :-----: | :-----:|
-1.DU     | ĩwa- |
-1.PL   | ĩwa- |
+1.DU     | _ĩwa_- |
+1.PL   | _ĩwa_- |
 
 #### Personal pronouns
 
@@ -100,9 +100,9 @@ Person  |  Form  |
 
 Marker  |  Form  | Aspect
 :-----: | :-----:| :-----:
-Egophorique | wa |
-Heterophorique | te | imperfective
-Heterophorique | ma | perfective
+Egophorique | _wa_ |
+Heterophorique | _te_ | imperfective
+Heterophorique | _ma_ | perfective
 
 * Xavante has postpositions 
 
