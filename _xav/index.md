@@ -91,6 +91,19 @@ Person  |  Form  |
 Person  |  Form  |
 :-----: | :-----:|
 
+#### Emphatic pronouns
+
+Person  |  Form  |
+:-----: | :-----:|
+
+### Egophorique and heterphorique markers
+
+Marker  |  Form  | Aspect
+:-----: | :-----:| :-----:
+Egophorique | wa |
+Heterophorique | te | imperfective
+Heterophorique | ma | perfective
+
 * Xavante has postpositions 
 
 
