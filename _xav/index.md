@@ -57,16 +57,34 @@ Xavante has a complicated system of indexation, using many different sets of mar
 
 #### Bound indexes (series I)
 
-Person | Form |
-:----: | :------:|
-1.SG | ĩĩ-, ∅- |
-2.SG | a(i)-  |
-3 |  ĩ-, ∅-  |
-1.DU | wa-   |
-2.DU | wa-   |
-CORR | ti-  |
+Members of this set are used as possessor markers, subject of intransitive verbs, object of transitive verbs, subject of non-verbal predicates, object of postpositions
+
+Person  |  Form  |
+:-----: | :-----:|
+1.SG | ĩĩ-, ∅-  |
+2.SG | a(i)-   |
+3 |  ĩ-, ∅-    |
+1.DU | wa-     |
+2.DU | wa-     |
+CORR | ti-     |
 
 
+#### Bound indexes (series II)
+
+Person  |  Form  |
+1     | ∅- |
+2     |ĩ-  |
+3     |ĩ-  |
+
+#### Bound indexes (series III)
+
+This is the bound index for the frist person object when the subject is second person.
+
+Person  |  Form  |
+1.DU     | ĩwa- |
+1.PL   | ĩwa- |
+
+#### Personal pronouns
 
 * Xavante has postpositions 
 
