@@ -1,1 +1,8 @@
+---
+layout: relation
+title: 'cop:emph'
+shortdef: 'emphasizing copula'
+udver: '2'
+---
 
+It is a special relation which captures the 'Focus' in a phrase. In interrogative clauses, the copula is postposed to the focused element.
