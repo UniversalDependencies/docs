@@ -42,7 +42,7 @@ Certain proper nouns [PROPN]() are directly related with adjectives:
 	
 Ancient Greek adverbs that are used as adjectives in EL: *νυν* / *nin* "current", *τέως* / *teos* "past"; also, pieces of phrases received from older forms of the language: *καθωσπρέπει* / *kathosprepi* "proper" (these are originally two words written as one word nowadays).
 
-Degree of comparison is an inflectional feature of adjectives and some adverbs. EL marks morphologically the positive, comparative and absolute superlative degree.  Non-periphrastic comparative and absolute superlative degrees [Degree](el-feat/Degree) of Greek adjectives are formed with a small set of suffixes or they have irregular forms:
+Degree of comparison is an inflectional feature of adjectives and some adverbs. EL marks morphologically the positive, comparative and absolute superlative degree.  Non-periphrastic comparative and absolute superlative degrees  of Greek adjectives are formed with a small set of suffixes or they have irregular forms [Degree](el-feat/Degree):
 -	(regular) *ταχύς – ταχύτερος – ταχύτατος* / *tachis - tachiteros - tachitatos* "fast - faster -fastest"
 -	(regular) *ακριβής – ακριβέστερος – ακριβέστατος* / *akrivis - akrivesteros - akrivestatos* "exact - more extact - most exact"
 -	(irregular) *μεγάλος – μεγαλύτερος – μέγιστος* / *megalos - megaliteros - megistos* "big - bigger - biggest"
