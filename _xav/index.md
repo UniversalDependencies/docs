@@ -79,7 +79,7 @@ Person  |  Form  |
 
 #### Bound indexes (series III)
 
-This is the bound index for the frist person object when the subject is second person.
+This is the bound index for the first person dual and plural object when the subject is second person.
 
 Person  |  Form  |
 :-----: | :-----:|
@@ -87,6 +87,9 @@ Person  |  Form  |
 1.PL   | ĩwa- |
 
 #### Personal pronouns
+
+Person  |  Form  |
+:-----: | :-----:|
 
 * Xavante has postpositions 
 
@@ -102,7 +105,7 @@ VERBAL FEATURE
 
 * Verbal Reduplication: it assigns aspectual function in verbs, as in *ãbi-bi* ‘to pull successively.ʼ As in the nouns, it can be monosyllabic (involving the first or the second syllable of the stem) or dissyllabic. Reduplication is associated with the feature-value `Redup`.
 
-* Nominalization: there are two productive nominalizer affixes in this language: -ap `Nomzr=Circ`and i- `Nomlzr=Obj`. 
+* Nominalization: there are two productive nominalizer affixes in this language: -ap `Nmzr=Circ`and i- `Nmzr=Obj`. 
 
 
 ### Wh-words
