@@ -219,6 +219,21 @@ udver: '2'
    punct(വിദ്യാർത്ഥി, ?)
    ~~~
    'Are you a student?'
+ * [cop:emph]() for the copula used for emphasis or focus shift.
+   ~~~sdparse
+   ഇന്ന് ഇരുവര ഉം ഒന്നിച്ചുള്ള ആദ്യ ചിത്രമ് ആണ് നസ്രിയ പങ്കു വച്ചിരിക്കുന്നത് .
+   advmod(വച്ചിരിക്കുന്നത്, ഇന്ന്)
+   nmod(ചിത്രമ്, ഇരുവര)
+   advmod:emph(ഇരുവര, ഉം)
+   amod(ആദ്യ, ഒന്നിച്ചുള്ള)
+   compound(ചിത്രമ്, ആദ്യ)
+   obj(വച്ചിരിക്കുന്നത്, ചിത്രമ്)
+   cop:emph(ചിത്രമ്, ആണ്)
+   nsubj(വച്ചിരിക്കുന്നത്, നസ്രിയ)
+   compound(വച്ചിരിക്കുന്നത്, പങ്കു)
+   punct(വച്ചിരിക്കുന്നത്, .)
+   ~~~
+   'Today Nazriya has shared the first picture of the two together'
  * [cc]() for coordinating conjunctions.
    ~~~sdparse
    അവൻ പുകവലി ഉം മദ്യപാനം _ഉം നിർത്താൻ ശ്രമിച്ചു .
