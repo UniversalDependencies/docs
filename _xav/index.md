@@ -51,6 +51,22 @@ NOMINAL FEATURE
 * The two main values of the Number feature are Sing and Plural.
 * The notion of plural is expressed through numerals, particles or through reduplication:
 
+### Person indexes
+
+Xavante has a complicated system of indexation, using many different sets of markers. These are given in the tables below.
+
+#### Bound indexes (series I)
+
+Person | Form |
+:----: | :------:|
+1.SG | ĩĩ-, ∅- |
+2.SG | a(i)-  |
+3 |  ĩ-, ∅-  |
+1.DU | wa-   |
+2.DU | wa-   |
+CORR | ti-  |
+
+
 
 * Xavante has postpositions 
 
