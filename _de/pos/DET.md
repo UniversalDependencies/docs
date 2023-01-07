@@ -73,7 +73,7 @@ they replace the article. They are tagged `DET`, too.
 
 ### Examples
 
-* Total determiners: _allerlei_ “all kinds of”
+* Total determiners: _allerlei_ “all kinds of”, _allerhand_ “all sorts”
 
 ### Determiners vs. Pronouns
 
