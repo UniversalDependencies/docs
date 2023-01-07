@@ -66,6 +66,15 @@ as a form of the lexeme _alle_: _In <b>all</b> den Jahren waren wir mit den Erge
 “Over the years we have been very happy with the results.” Nevertheless, the inflected forms are also not excluded:
 _<b>Alle</b> diese Linien verkehrten zum Bahnhof._ “All of these lines went to the station.”
 
+### Uninflected Determiners
+
+Some words do not inflect in the manner described above but they still occur mostly in determiner position, i.e.,
+they replace the article. They are tagged `DET`, too.
+
+### Examples
+
+* Total determiners: _allerlei_ “all kinds of”
+
 ### Determiners vs. Pronouns
 
 What has been said above about _kein_ would apply to most of the other determiners, including the indefinite article
