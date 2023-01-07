@@ -40,13 +40,15 @@ Finally, in the third example, the accusative _keine_ is the head of the direct 
 nominal dependent _von beiden Frauen_ “of the two women”.
 
 ~~~ sdparse
-Er sagt , dass er keine/DET von/ADP beiden Frauen/NOUN heiraten/VERB wolle . \n He says , that he none.Fem.Sing.Acc of the-two women marry wants .
+Er sagt , dass er keine/DET von/ADP beiden/DET Frauen/NOUN heiraten/VERB wolle . \n He says , that he none.Fem.Sing.Acc of the-two women marry wants .
 obj(heiraten, keine)
 obj(marry, none.Fem.Sing.Acc)
 nmod(keine, Frauen)
 nmod(none.Fem.Sing.Acc, women)
 case(Frauen, von)
 case(women, of)
+det(Frauen, beiden)
+det(women, the-two)
 ~~~
 
 ### Examples
