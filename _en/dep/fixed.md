@@ -27,7 +27,6 @@ At present, this relation is used inside the following expressions, semantically
 | [Exemplification](#exemplification) | *such as* |
 | [Reciprocal Pronouns](#reciprocal-pronouns) | *each other*, *one another* |
 | [Pragmatic/miscellaneous](#pragmaticmiscellaneous-markers) | *all but*, *as for*, *as if*, *as opposed to*, *as to*, *at least* (non-quantity), *in that*, *kind/sort of* (hedge), *not to mention*, *of course*, *that is* |
-| [NEEDS DISCUSSION](#needs-discussion) | *had better* |
 
 Below the description of `fixed` expressions are a few idiomatic combinations that are [analyzed without `fixed`](#not-fixed). These are summarized as follows:
 
