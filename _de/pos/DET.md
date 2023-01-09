@@ -55,7 +55,7 @@ det(women, the-two)
 
 * Articles: _ein_ “a”, _der_ “the”
 * Possessive personal determiners: _mein_ “my”, _dein_ “your”, _sein_ “his, its”, _ihr_ “her, their”, _unser_ “our”, _euer_ “your”
-* Demonstratives: _dieser_ “this”, _jener_ “that”
+* Demonstratives: _dieser_ “this”, _jener_ “that”, _derselbe_ “the same”
 * Interrogative determiners: _welcher_ “which”
 * Total determiners: _jeder_ “every”, _alle_ “all”, _beide_ “both”
 * Negative determiners: _kein_ “no”
