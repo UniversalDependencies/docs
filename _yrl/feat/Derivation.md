@@ -19,5 +19,17 @@ Derivations attested in Avila (2021:321)
 * [yrl] _ximirikú-ima_ "spouseless"
 * [yrl] _kiinha-ima_ "pepperless"
 
+### <a name="Coll">`Coll`</a>: derivation with suffix -tiwa
+
+Given a noun base *X*, *Xtiwa* is the corresponding collective noun, meaning "set of things of type X".
+
+#### Examples
+
+Derivations attested in Avila (2021:763)
+
+* [yrl] _kanatiwa_ "cane plantation"
+* [yrl] _puturatiwa_ "garden" (_putira_ 'flower')
+* [yrl] _awatitiwa_ "maize field"
+
 
 <!-- Interlanguage links updated So kvě 14 19:02:12 CEST 2022 -->
