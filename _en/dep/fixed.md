@@ -33,7 +33,7 @@ Below the description of `fixed` expressions are a few idiomatic combinations th
 | Non-`fixed` Expressions |
 |-------------------------|
 | Double spatial prepositions: *out of*, *off of*, etc. |
-| *as soon/long as*; *at all*, *at best/worst*, *by far*; *at most/least* (with quantities); *compared to/with*; *nothing/anything but*; *so long*; *what about*, *what if* |
+| *as soon/long as*; *at all*, *at best/worst*, *by far*; *at most/least* (with quantities); *compared to/with*; *had better*; *nothing/anything but*; *so long*; *what about*, *what if* |
 
 ## `fixed` expressions
 
@@ -404,19 +404,6 @@ fixed(that, is)
 advmod(trained, that)
 ~~~
 
-### NEEDS DISCUSSION
-
-*had better* (and *'d better*)
-
-** Disputed—see [issue #803](https://github.com/UniversalDependencies/docs/issues/803) **
-
-~~~ sdparse
-You had better apologize
-fixed(had, better)
-aux(apologize, had)
-~~~
-
-
 ## Not `fixed`
 The following are **not** annotated as `fixed`, but are instead labeled according to their apparent internal structure.
 
@@ -532,4 +519,13 @@ advcl(soon, ends)
 mark(ends, as-6)
 nsubj(ends, it)
 ~~~
+
+*had better* (and *'d better*) ([issue #803](https://github.com/UniversalDependencies/docs/issues/803))
+
+~~~ sdparse
+You had better apologize
+aux(apologize, had)
+advmod(apologize, better)
+~~~
+
 <!-- Interlanguage links updated Po lis 14 15:35:26 CET 2022 -->
