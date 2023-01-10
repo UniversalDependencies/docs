@@ -259,7 +259,7 @@ udver: '2'
    compound:svc(came, increased)
    punct(വരുന്നുണ്ട്, .)
    ~~~
-  'Arguments to legalize cannabis are also emerging in India.' 
+   'Arguments to legalize cannabis are also emerging in India.' 
 
 ## Treebanks
 
