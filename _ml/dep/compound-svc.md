@@ -11,7 +11,7 @@ last verb of the sequence. The verbs in these constructions are
 not separated by any overt marker of coordination or subordination.
 
 In most of the cases, the verbs are lexicalized and cannot be separated
-by any intervening material. The final verb is finite and the preceeding verbs 
+by any intervening material. The final verb is usually finite and the preceeding verbs 
 are non-finite and resemble the past participle forms. 
 
 ~~~sdparse
