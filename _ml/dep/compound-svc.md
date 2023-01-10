@@ -32,6 +32,6 @@ In the above mentioned example, the series of the verbs 'to increase' and 'to co
 have been lexicalized together to form the meaning 'to emerge'. 
 
 If the preceeding verb or V1 has an aspectual marking, then it licenses
-a lexical subject and in other cases only a PRO subject is possible. This
-points out that the verbs have their own clauses in contrast to the popular 
+a lexical subject and in other cases only a PRO subject is possible. And the serial verb (V1)
+is the verb of a non-finite adverbial clausal adjunct in contrast to the popular 
 belief that serial verb constructions are monoclausal. 
