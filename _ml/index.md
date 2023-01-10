@@ -246,6 +246,20 @@ udver: '2'
    punct(ശ്രമിച്ചു, .)
    ~~~
    'He tried to quit smoking and drinking'
+ * [compound:svc]() for serial verb constructions with shared arguments.
+   ~~~sdparse
+   ഇന്ത്യയിൽ ഉം കഞ്ചാവ് നിയമവിധേയമാക്കണം എന്ന വാദങ്ങൾ ഉയർന്നു വരുന്നുണ്ട് . \n India-in-also cannabis legalize-should that arguments increased came.
+   obl(നിയമവിധേയമാക്കണം, ഇന്ത്യയിൽ)
+   advmod:emph(ഇന്ത്യയിൽ, ഉം)
+   nsubj(നിയമവിധേയമാക്കണം, കഞ്ചാവ്)
+   acl:relcl(വാദങ്ങൾ, നിയമവിധേയമാക്കണം)
+   mark(നിയമവിധേയമാക്കണം, എന്ന)
+   nsubj(വരുന്നുണ്ട്, വാദങ്ങൾ)
+   compound:svc(വരുന്നുണ്ട്, ഉയർന്നു)
+   compound:svc(came, increased)
+   punct(വരുന്നുണ്ട്, .)
+   ~~~
+  'Arguments to legalize cannabis are also emerging in India.' 
 
 ## Treebanks
 
