@@ -15,7 +15,7 @@ by any intervening material. The final verb is finite and the preceeding verbs
 are non-finite and resemble the past participle forms. 
 
 ~~~sdparse
-ഇന്ത്യയിൽ ഉം കഞ്ചാവ് നിയമവിധേയമാക്കണം എന്ന വാദങ്ങൾ ഉയർന്നു വരുന്നുണ്ട് . \n India-in-also cannabis legalize-should that arguments increased came.
+ഇന്ത്യയിൽ ഉം കഞ്ചാവ് നിയമവിധേയമാക്കണം എന്ന വാദങ്ങൾ ഉയർന്നു വരുന്നുണ്ട് . \n India-in-also cannabis legalize-should that arguments increased came .
 obl(നിയമവിധേയമാക്കണം, ഇന്ത്യയിൽ)
 advmod:emph(ഇന്ത്യയിൽ, ഉം)
 nsubj(നിയമവിധേയമാക്കണം, കഞ്ചാവ്)
