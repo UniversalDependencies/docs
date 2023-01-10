@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'compound:svc'
-shortdef: 'serial verb constructions'
+shortdef: 'serial verb construction'
 udver: '2'
 ---
 
