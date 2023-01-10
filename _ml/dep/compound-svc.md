@@ -6,7 +6,7 @@ udver: '2'
 ---
 
 Serial verb constructions are the succession of verbs and their
-(shared) complements having one subject and a finite tense on the 
+(shared) complements and a finite tense on the 
 last verb of the sequence. The verbs in these constructions are
 not separated by any overt marker of coordination or subordination.
 
@@ -30,3 +30,8 @@ punct(വരുന്നുണ്ട്, .)
 
 In the above mentioned example, the series of the verbs 'to increase' and 'to come'
 have been lexicalized together to form the meaning 'to emerge'. 
+
+If the preceeding verb or V1 has an aspectual marking, then it licenses
+a lexical subject and in other cases only a PRO subject is possible. This
+points out that the verbs have their own clauses in contrast to the popular 
+belief that serial verb constructions are monoclausal. 
