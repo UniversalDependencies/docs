@@ -28,8 +28,9 @@ Given a noun base *X*, *Xtiwa* is the corresponding collective noun, meaning "se
 Derivations attested in Avila (2021:763)
 
 * [yrl] _kanatiwa_ "cane plantation"
-* [yrl] _puturatiwa_ "garden" (_putira_ 'flower')
+* [yrl] _putiratiwa_ "garden" (_putira_ 'flower')
 * [yrl] _awatitiwa_ "maize field"
+* [yrl] _itatiwa_ "pebble ground"
 
 
 <!-- Interlanguage links updated So kvě 14 19:02:12 CEST 2022 -->
