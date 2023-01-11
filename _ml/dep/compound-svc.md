@@ -64,7 +64,7 @@ compound:svc(ചെയ്തത്, ചുമത്തി)
 compound:svc(did, imposed)
 cop:emph(ചുമത്തി, ആണ്)
 nsubj(ചെയ്തത്, പോലീസ്)
-compound(ചെയ്തത്, അറസ്റ്റു)
+compound:lvc(ചെയ്തത്, അറസ്റ്റു)
 punct(ചെയ്തത്, .)
 ~~~
 'He was arrested by the police on a POCSO case.'
