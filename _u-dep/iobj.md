@@ -7,7 +7,7 @@ udver: '2'
 
 | | WARNING |
 |-----------|--------|
-| :warning: | The traditional term "indirect object", associated with morphosyntactic encoding of certain types of arguments (especially datives/recipients) in a clause, has a wide range of interpretations across languages and linguistic frameworks. In UD, universal-level relations do not distinguish arguments and adjuncts; rather, the distinction is between [core arguments and oblique modifiers](/u/overview/syntax.html#core-arguments-vs-oblique-modifiers). `iobj` must only be used for core arguments, never for obliques, as described below. The naming of this relation may be changed in the next major revision of the UD guidelines. |
+| ⚠️ | The traditional term "indirect object", associated with morphosyntactic encoding of certain types of arguments (especially datives/recipients) in a clause, has a wide range of interpretations across languages and linguistic frameworks. In UD, universal-level relations do not distinguish arguments and adjuncts; rather, the distinction is between [core arguments and oblique modifiers](/u/overview/syntax.html#core-arguments-vs-oblique-modifiers). `iobj` must only be used for core arguments, never for obliques, as described below. The naming of this relation may be changed in the next major revision of the UD guidelines. |
 
 
 In UD, the indirect object of a verb is any nominal phrase that is a core
