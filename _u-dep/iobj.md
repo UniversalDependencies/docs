@@ -50,10 +50,14 @@ obj(teaches, maths.Acc)
 iobj(teaches, daughter.Acc)
 ~~~
 
-In general, if there is just one object, it should be labeled
-[obj](), regardless of the morphological case or semantic role.
-For example, in English, _teach_ can take either the subject matter or the recipient as the only object,
-and in both cases it would be analyzed as the [obj]():
+If there is just one object, it may be labeled [iobj]() if another (direct) object could be inserted, or if a complement clause takes the place of a direct object.[^1]
+For example, in English, the verb _teach_ may occur with just one of [obj]() or [iobj]():
+
+~~~ sdparse
+She teaches the students introductory logic .
+iobj(teaches, students)
+obj(teaches, logic)
+~~~
 
 ~~~ sdparse
 She teaches introductory logic .
@@ -62,34 +66,29 @@ obj(teaches, logic)
 
 ~~~ sdparse
 She teaches the first-year students .
-obj(teaches, students)
-~~~
-
-This is consistent with the analysis of Huddleston and Pullum (2002) “The Cambridge Grammar of the English Language”,
-chapter 4 section 4 (p. 251).  As they note, it is no different to the same semantic role being sometimes the subject
-and sometimes the object in intransitive/transitive alternations.
-
-<!--The one exception is when there is a clausal complement.
-Then the clausal complement is regarded as a “clausal object” and an object nominal will be an iobj, parallel to
-the simple ditransitive case:
-
-~~~ sdparse
-She told the students that they needed to study this evening
-iobj(told, students)
-ccomp(told, needed)
+iobj(teaches, students)
 ~~~
 
 ~~~ sdparse
-She told the students the plan
-iobj(told, students)
-obj(told, plan)
+She teaches her students that good writing is important .
+iobj(teaches, students)
+ccomp(teaches, important)
 ~~~
 
-If there are two or
-more objects, one of them should be [obj]() and the others should be
-`iobj`. In such cases it is necessary to decide what is the
-most directly affected object _(patient)._ If possible,
-language-specific documentation should help identify direct and
-indirect objects.
--->
+~~~ sdparse
+She teaches her students to write well .
+iobj(teaches, students)
+xcomp(teaches, write)
+~~~
+
+However, not all verbs license two objects, in which case the sole object should be plain [obj]() even if it has recipient-like semantics:
+
+~~~ sdparse
+She questions her students about their interests .
+obj(questions, students)
+obl(questions, interests)
+~~~
+
+[^1]: This is an amended policy. An explanation of the change will be posted.
+
 <!-- Interlanguage links updated Po lis 14 15:35:28 CET 2022 -->
