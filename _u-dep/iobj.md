@@ -50,8 +50,14 @@ obj(teaches, maths.Acc)
 iobj(teaches, daughter.Acc)
 ~~~
 
-If there is just one object, it may be labeled [iobj]() if another (direct) object could be inserted, or if a complement clause takes the place of a direct object.[^1]
-For example, in English, the verb _teach_ may occur with just one of [obj]() or [iobj]():
+If the language has a prototypical `iobj` (occurring in a double object construction with [obj]()), 
+then morphosyntactic criteria need to be established for when a sole object is [obj]() and when it is `iobj`.[^1]
+Depending on the language, potential reasons to consider a sole object in a clause as an `iobj` include:
+- It has case marking distinct from that of a prototypical [obj](), e.g. dative rather than accusative
+- Another, more patient-like object may be inserted into the clause without affecting the morphosyntax of the object in question
+- The verb licenses the object in combination with a [ccomp]() (the [ccomp]() may be analyzed as taking the place of an [obj]())
+
+For example, in English, the verb _teach_ may occur with [obj](), [iobj](), or both:
 
 ~~~ sdparse
 She teaches the students introductory logic .
@@ -81,12 +87,18 @@ iobj(teaches, students)
 xcomp(teaches, write)
 ~~~
 
-However, not all verbs license two objects, in which case the sole object should be plain [obj]() even if it has recipient-like semantics:
+However, not all verbs license two objects (or an object plus [ccomp]()), in which case the sole object should be plain [obj]() even if it has recipient-like semantics:
 
 ~~~ sdparse
 She questions her students about their interests .
 obj(questions, students)
 obl(questions, interests)
+~~~
+
+~~~ sdparse
+She helps her students to succeed .
+obj(helps, students)
+xcomp(helps, succeed)
 ~~~
 
 [^1]: This is an amended policy. An explanation of the change will be posted.
