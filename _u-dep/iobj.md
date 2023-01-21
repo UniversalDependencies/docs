@@ -95,12 +95,30 @@ punct(given, .-9)
 
 ~~~ sdparse
 Liburua/Case=Abs eman nion . \n Book given I-have-her-it .
-obj(eman, liburua)
+obj(eman, Liburua)
 aux(eman, nion)
 punct(eman, .-4)
-obj(given, book)
+obj(given, Book)
 aux(given, I-have-her-it)
 punct(given, .-9)
+~~~
+
+Nevertheless, Basque has also a class of verbs that license only two core arguments, one ergative and
+one dative. Here the ergative has the A function and the dative the P function (Zúñiga and Fernández 2014),
+meaning that the dative is [obj]() rather than `iobj`, as in “The teacher has looked angrily at the students.”
+
+~~~ sdparse
+Irakasleak/Case=Erg haserre begiratu die ikasleei/Case=Dat . \n Teacher angrily looked he-has-them to-students .
+nsubj(begiratu, Irakasleak)
+advmod(begiratu, haserre)
+aux(begiratu, die)
+obj(begiratu, ikasleei)
+punct(begiratu, .-6)
+nsubj(looked, Teacher)
+advmod(looked, angrily)
+aux(looked, he-has-them)
+obj(looked, to-students)
+punct(looked, .-13)
 ~~~
 
 If the language has a prototypical `iobj` (occurring in a double object construction with [obj]()),
@@ -155,5 +173,10 @@ xcomp(helps, succeed)
 ~~~
 
 [^1]: This is an amended policy. An explanation of the change will be posted.
+
+## References
+
+* Fernando Zúñiga, Beatriz Fernández (draft 26.6.2014): [Grammatical relations in Basque](http://basdisyn.net/pdf/Zuniga%20&%20Fernandez%202014%20Basque%20GRs%20270614.pdf)
+
 
 <!-- Interlanguage links updated Po lis 14 15:35:28 CET 2022 -->
