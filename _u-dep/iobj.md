@@ -194,6 +194,8 @@ cross-referenced by the verb, the theme has to be `iobj` (if it is a core argume
 it would have to be [obl](); but real oblique nominals in Plains Cree take a locative case affix,
 which is not present here).
 
+* _Nikī-miyāw anima masinahikan._ “I gave him that book.”
+
 ~~~ conllu
 # text = Nikī-miyāw anima masinahikan.
 # text_en = I gave him/her that book.
