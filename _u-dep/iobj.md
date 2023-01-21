@@ -121,6 +121,24 @@ obj(looked, to-students)
 punct(looked, .-13)
 ~~~
 
+Another class of transitive verbs in Basque license one dative and one absolutive argument. Here the
+dative has the A function and the absolutive the P function, meaning that the dative is [nsubj]() and
+the absolutive is [obj](), as in “The boy likes the soup very much.”
+
+~~~ sdparse
+Zopa/Case=Abs izugarri gustatzen zaio mutilari/Case=Dat . \n Soup greatly pleasing it-is-him to-boy .
+obj(gustatzen, Zopa)
+advmod(gustatzen, izugarri)
+aux(gustatzen, zaio)
+nsubj(gustatzen, mutilari)
+punct(gustatzen, .-6)
+obj(pleasing, Soup)
+advmod(pleasing, greatly)
+aux(pleasing, it-is-him)
+nsubj(pleasing, to-boy)
+punct(pleasing, .-13)
+~~~
+
 If the language has a prototypical `iobj` (occurring in a double object construction with [obj]()),
 then morphosyntactic criteria need to be established for when a sole object is [obj]() and when it is `iobj`.[^1]
 Depending on the language, potential reasons to consider a sole object in a clause as an `iobj` include:
