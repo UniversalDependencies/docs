@@ -139,6 +139,54 @@ nsubj(pleasing, to-boy)
 punct(pleasing, .-13)
 ~~~
 
+In Tagalog, core arguments are marked by the prepositions _ang_ and _ng_ (or by corresponding inflection
+of personal pronouns), while oblique dependents are typically marked by the preposition _sa_ (sometimes
+glossed as the dative). Giving somebody something is a (mono)transitive predicate.
+
+* _Nagbigay ang lalaki ng libro sa babae._ “The man gave a book to the woman.” (agent voice)
+
+~~~ conllu
+# text = Nagbigay ang lalaki ng libro sa babae.
+# text_en = The man gave a book to the woman.
+1	Nagbigay	bigay	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Act	0	root	_	Gloss=gave
+2	ang	ang	ADP	_	Case=Nom	3	case	_	Gloss=the
+3	lalaki	lalaki	NOUN	_	_	1	nsubj	_	Gloss=man
+4	ng	ng	ADP	_	Case=Gen	5	case	_	_
+5	libro	libro	NOUN	_	_	1	obj	_	Gloss=book
+6	sa	sa	ADP	_	Case=Dat	7	case	_	Gloss=DIR
+7	babae	babae	NOUN	_	_	1	obl	_	Gloss=woman|SpaceAfter=No
+8	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+
+~~~
+
+However, locative dependents can be topicalized if the verb morphology signals
+the “locative voice”. Then the locative noun phrase switches to nominative,
+it becomes a core argument, while the original two core arguments keep core
+coding, too. Therefore we have a ditransitive clause with three core arguments,
+even for verbs that are not associated with ditransitives in other languages:
+
+* _Aalisan ng babae ng bigas ang sako para sa bata._ “A/the woman will take some rice out of the sack for a/the child.” (locative voice)
+
+~~~ conllu
+# sent_id = 3.111c/tl
+# text = Aalisan ng babae ng bigas ang sako para sa bata.
+# gloss = FUT-take.out-DP ACT woman OBJ rice PIV sack BEN child
+# text_en = A/the woman will take some rice out of the sack for a/the child.
+# DP = directional pivot; PIV = pivot marker
+1	Aalisan	alis	VERB	_	Aspect=Prog|Mood=Ind|VerbForm=Fin|Voice=Lfoc	0	root	_	Gloss=will-take-out|MSeg=a-alis-an|MGloss=FUT-take.out-DP
+2	ng	ng	ADP	_	Case=Gen	3	case	_	_
+3	babae	babae	NOUN	_	_	1	iobj:agent	_	Gloss=woman
+4	ng	ng	ADP	_	Case=Gen	5	case	_	_
+5	bigas	bigas	NOUN	_	_	1	obj:patient	_	Gloss=rice
+6	ang	ang	ADP	_	Case=Nom	7	case	_	Gloss=the
+7	sako	sako	NOUN	_	_	1	nsubj:loc	_	Gloss=sack
+8	para	para	ADP	_	_	10	case	_	Gloss=for
+9	sa	sa	ADP	_	Case=Dat	10	case	_	Gloss=BEN
+10	bata	bata	NOUN	_	_	1	obl	_	Gloss=child|SpaceAfter=No
+11	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+
+~~~
+
 If the language has a prototypical `iobj` (occurring in a double object construction with [obj]()),
 then morphosyntactic criteria need to be established for when a sole object is [obj]() and when it is `iobj`.[^1]
 Depending on the language, potential reasons to consider a sole object in a clause as an `iobj` include:

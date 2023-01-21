@@ -541,12 +541,12 @@ oblique dependent.
 ~~~ conllu
 # text = Nagbigay ang lalaki ng libro sa babae.
 # text_en = The man gave a book to the woman.
-1	Nagbigay	bigay	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Agf	0	root	_	Gloss=gave
-2	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	3	det	_	Gloss=the
+1	Nagbigay	bigay	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Act	0	root	_	Gloss=gave
+2	ang	ang	ADP	_	Case=Nom	3	case	_	Gloss=the
 3	lalaki	lalaki	NOUN	_	_	1	nsubj	_	Gloss=man
-4	ng	ng	DET	_	Case=Acc|PronType=Art	5	det	_	Gloss=DET
-5	libro	libro	NOUN	_	_	1	obj	_	Gloss=libro
-6	sa	sa	DET	_	Case=Loc|PronType=Art	7	det	_	Gloss=DIR
+4	ng	ng	ADP	_	Case=Gen	5	case	_	_
+5	libro	libro	NOUN	_	_	1	obj	_	Gloss=book
+6	sa	sa	ADP	_	Case=Dat	7	case	_	Gloss=DIR
 7	babae	babae	NOUN	_	_	1	obl	_	Gloss=woman|SpaceAfter=No
 8	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
@@ -568,15 +568,15 @@ even for verbs that are not associated with ditransitives in other languages:
 # gloss = FUT-take.out-DP ACT woman OBJ rice PIV sack BEN child
 # text_en = A/the woman will take some rice out of the sack for a/the child.
 # DP = directional pivot; PIV = pivot marker
-1	Aalisan	alis	VERB	_	Aspect=Prog|Mood=Ind|VerbForm=Fin|Voice=Locf	0	root	_	Gloss=will-take-out|MSeg=a-alis-an|MGloss=FUT-take.out-DP
-2	ng	ng	DET	_	Case=Acc|PronType=Art	3	det	_	Gloss=DET
-3	babae	babae	NOUN	_	_	1	obj:agent	_	Gloss=woman
-4	ng	ng	DET	_	Case=Acc|PronType=Art	5	det	_	Gloss=DET
+1	Aalisan	alis	VERB	_	Aspect=Prog|Mood=Ind|VerbForm=Fin|Voice=Lfoc	0	root	_	Gloss=will-take-out|MSeg=a-alis-an|MGloss=FUT-take.out-DP
+2	ng	ng	ADP	_	Case=Gen	3	case	_	_
+3	babae	babae	NOUN	_	_	1	iobj:agent	_	Gloss=woman
+4	ng	ng	ADP	_	Case=Gen	5	case	_	_
 5	bigas	bigas	NOUN	_	_	1	obj:patient	_	Gloss=rice
-6	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	7	det	_	Gloss=the
+6	ang	ang	ADP	_	Case=Nom	7	case	_	Gloss=the
 7	sako	sako	NOUN	_	_	1	nsubj:loc	_	Gloss=sack
 8	para	para	ADP	_	_	10	case	_	Gloss=for
-9	sa	sa	DET	_	Case=Loc|PronType=Art	10	det	_	Gloss=BEN
+9	sa	sa	ADP	_	Case=Dat	10	case	_	Gloss=BEN
 10	bata	bata	NOUN	_	_	1	obl	_	Gloss=child|SpaceAfter=No
 11	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
