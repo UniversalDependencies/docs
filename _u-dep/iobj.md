@@ -187,6 +187,28 @@ even for verbs that are not associated with ditransitives in other languages:
 
 ~~~
 
+In Plains Cree (Wolvengrey 2011), transitive verbs cross-reference subjects and animate objects but not
+inanimate objects. With a verb of giving, the theme is typically inanimate while the recipient is
+typically animate. Assuming that [nsubj]() and [obj]() are reserved for the two core arguments
+cross-referenced by the verb, the theme has to be `iobj` (if it is a core argument at all; otherwise
+it would have to be [obl](); but real oblique nominals in Plains Cree take a locative case affix,
+which is not present here).
+
+~~~ conllu
+# text = Nikī-miyāw anima masinahikan.
+# text_en = I gave him/her that book.
+1	Nikī-miyāw	miy	VERB	_	Animacy=Anim|Mood=Ind|Number[high]=Sing|Number[low]=Sing|Person[high]=1|Person[low]=3|Tense=Past|Voice=Dir	0	root	_	Gloss=I-gave-him/her|MSeg=ni-kī-miy-ā-w|MGloss=1-PAST-give.to-DIR-3SG
+2	anima	anima	DET	_	Animacy=Inan|Number=Sing|PronType=Dem	3	det	_	Gloss=that|MGloss=DEM.0's
+3	masinahikan	masinahikan	NOUN	_	Animacy=Inan|Number=Sing	1	iobj	_	Gloss=book|SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+
+~~~
+
+In the above example, the verb stem used is for animate objects, while
+_masinahikan_ “book” is inanimate. That is a proof that the 3rd person singular
+cross-reference on the verb does not refer to the book but to an animate
+recipient that is not overtly represented in the sentence.
+
 If the language has a prototypical `iobj` (occurring in a double object construction with [obj]()),
 then morphosyntactic criteria need to be established for when a sole object is [obj]() and when it is `iobj`.[^1]
 Depending on the language, potential reasons to consider a sole object in a clause as an `iobj` include:
@@ -243,6 +265,8 @@ xcomp(helps, succeed)
 ## References
 
 * Fernando Zúñiga, Beatriz Fernández (draft 26.6.2014): [Grammatical relations in Basque](http://basdisyn.net/pdf/Zuniga%20&%20Fernandez%202014%20Basque%20GRs%20270614.pdf)
-
+* Arok Elessar Wolvengrey (2011):
+  [Semantic and pragmatic functions in Plains Cree syntax](https://dare.uva.nl/search?identifier=153f3405-f029-4046-8d95-9f2a087b4123)
+  (PhD thesis). Utrecht: LOT. ISBN 978-94-6093-051-5.
 
 <!-- Interlanguage links updated Po lis 14 15:35:28 CET 2022 -->
