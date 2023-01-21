@@ -50,7 +50,60 @@ obj(teaches, maths.Acc)
 iobj(teaches, daughter.Acc)
 ~~~
 
-If the language has a prototypical `iobj` (occurring in a double object construction with [obj]()), 
+Predicates in Basque can cross-reference (by morphological agreement on the auxiliary verb) up to three arguments
+in different morphological cases: ergative, absolutive, and dative. The morphological cross-reference is a strong
+indicator that all three are core arguments. Therefore, if all three are present, we have a double-object situation
+and the dative argument will be `iobj` (while the ergative argument will be [nsubj]() and the absolutive [obj]()).
+Even if the absolutive argument is omitted for a verb which licenses three arguments, the dative argument is still
+`iobj`.
+
+~~~ sdparse
+(Nik)/Case=Erg (zuri)/Case=Dat liburua/Case=Abs eman dizut . \n (I) (you) book given I-have-you-it .
+nsubj(eman, (Nik))
+iobj(eman, (zuri))
+obj(eman, liburua)
+aux(eman, dizut)
+punct(eman, .-6)
+nsubj(given, (I))
+iobj(given, (you))
+obj(given, book)
+aux(given, I-have-you-it)
+punct(given, .-13)
+~~~
+
+~~~ sdparse
+Mariari/Case=Dat eman nion liburua/Case=Abs . \n To-Maria given I-have-her-it book .
+iobj(eman, Mariari)
+obj(eman, liburua)
+aux(eman, nion)
+punct(eman, .-5)
+iobj(given, To-Maria)
+obj(given, book)
+aux(given, I-have-her-it)
+punct(given, .-11)
+~~~
+
+~~~ sdparse
+Mariari/Case=Dat eman nion . \n To-Maria given I-have-her-it .
+iobj(eman, Mariari)
+aux(eman, nion)
+punct(eman, .-4)
+iobj(given, To-Maria)
+aux(given, I-have-her-it)
+punct(given, .-9)
+~~~
+
+~~~ sdparse
+Liburua/Case=Abs eman nion . \n Book given I-have-her-it .
+obj(eman, liburua)
+aux(eman, nion)
+punct(eman, .-4)
+obj(given, book)
+aux(given, I-have-her-it)
+punct(given, .-9)
+~~~
+
+If the language has a prototypical `iobj` (occurring in a double object construction with [obj]()),
 then morphosyntactic criteria need to be established for when a sole object is [obj]() and when it is `iobj`.[^1]
 Depending on the language, potential reasons to consider a sole object in a clause as an `iobj` include:
 - It has case marking distinct from that of a prototypical [obj](), e.g. dative rather than accusative
