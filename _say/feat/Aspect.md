@@ -38,7 +38,7 @@ Zaar: In narrations, the concomitant marks an unbounded process functioning as a
 
 #### Example
 
-* _<b>myáːnaː</b> tul gìp Kìmsə́ < káwây màːʃîn < fi mə́kə́p //_  "<b>we had just entered Kimse when</b> the motorcycle stopped."
+* _<b>myáːnaː</b> tul gìp Kìmsə́ < káwây màːʃîn < fi mə́kə́p //_  "<b>I had just entered Kimse when</b> the motorcycle stopped."
 
 ### <a name="Inch">`Inch`</a>: inchoative
 
