@@ -259,7 +259,19 @@ udver: '2'
    punct(വരുന്നുണ്ട്, .)
    ~~~
    'Arguments to legalize cannabis are also emerging in India.' 
-
+ * [advcl]() for adverbial clauses.
+   ~~~ sdparse
+   രാഷ്ട്രപതി അംഗീകരിച്ചില്ലെങ്കിൽ സുപ്രീം കോടതിയെ സമീപിക്കാന ഉം തീരുമാനം . \n The President agree-does-not-if the Supreme Court to approach-too decision .
+   nsubj(അംഗീകരിച്ചില്ലെങ്കിൽ, രാഷ്ട്രപതി)
+   advcl(തീരുമാനം, അംഗീകരിച്ചില്ലെങ്കിൽ)
+   nmod(കോടതിയെ, സുപ്രീം)
+   obj(സമീപിക്കാന, കോടതിയെ)
+   xcomp(തീരുമാനം, സമീപിക്കാന)
+   advmod(സമീപിക്കാന, ഉം)
+   punct(തീരുമാനം, .)
+   ~~~
+   'Decision to approach the Supreme Court if the President does not agree.'
+   
 ## Treebanks
 
 There is [1](../treebanks/ml-comparison.html) Malayalam UD treebank:
