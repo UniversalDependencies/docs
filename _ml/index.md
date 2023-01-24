@@ -261,7 +261,7 @@ udver: '2'
    'Arguments to legalize cannabis are also emerging in India.' 
  * [advcl]() for adverbial clauses.
    ~~~ sdparse
-   രാഷ്ട്രപതി അംഗീകരിച്ചില്ലെങ്കിൽ സുപ്രീം കോടതിയെ സമീപിക്കാന ഉം തീരുമാനം . \n The President agree-does-not-if the Supreme Court to approach-too decision .
+   രാഷ്ട്രപതി അംഗീകരിച്ചില്ലെങ്കിൽ സുപ്രീം കോടതിയെ സമീപിക്കാന ഉം തീരുമാനം .
    nsubj(അംഗീകരിച്ചില്ലെങ്കിൽ, രാഷ്ട്രപതി)
    advcl(തീരുമാനം, അംഗീകരിച്ചില്ലെങ്കിൽ)
    nmod(കോടതിയെ, സുപ്രീം)
