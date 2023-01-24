@@ -39,12 +39,12 @@ punct(ചെയ്തത്, .)
 For a consequence adverbial clause a nominalized verb form with the suffix _-āl_ "because" is the dependent. In other cases,
 the postposition കൊണ്ട് _koṇṭ_ can be found. 
 ~~~sdparse
-അവൻ വളരെ വേഗത്തിൽ ഓടിയതിനാൽ എനിക്ക് പിടിച്ചുനിൽക്കാൻ കഴിഞ്ഞില്ല . \n He very fast-in ran-because me to-hold on could-not .
+അവൻ വളരെ വേഗത്തിൽ ഓടിയതിനാൽ എനിക്ക് പിടിച്ചുനിൽക്കാൻ കഴിഞ്ഞില്ല . \n He very fast-in ran-because me to-hold-on could-not .
 nsubj(ഓടിയതിനാൽ, അവൻ)
 advmod(വേഗത്തിൽ, വളരെ)
 advmod(ഓടിയതിനാൽ, വേഗത്തിൽ)
 advcl(പിടിച്ചുനിൽക്കാൻ, ഓടിയതിനാൽ)
-advcl(to-hold on, ran-because) 
+advcl(to-hold-on, ran-because) 
 nsubj(പിടിച്ചുനിൽക്കാൻ, എനിക്ക്)
 aux(പിടിച്ചുനിൽക്കാൻ, കഴിഞ്ഞില്ല)
 punct(പിടിച്ചുനിൽക്കാൻ, .)
