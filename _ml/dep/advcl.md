@@ -10,7 +10,7 @@ as a modifier not as a core complement. This includes things such as a temporal 
 clause, etc. The dependent must be clausal (or else it is an [advmod]()) and the dependent is the main predicate of the clause. 
 The adverbial clauses have their own verb and subject.
 
-A conditional adverbial clause in Malayalam is headed by a finite verb suffixed with -eṅkil or -āl 'if'.  
+A conditional adverbial clause in Malayalam is headed by a finite verb suffixed with _-eṅkil_ or _-āl_ "if".  
 ~~~ sdparse
 രാഷ്ട്രപതി അംഗീകരിച്ചില്ലെങ്കിൽ സുപ്രീം കോടതിയെ സമീപിക്കാന ഉം തീരുമാനം . \n The President agree-does-not-if the Supreme Court to approach-too decision .
 nsubj(അംഗീകരിച്ചില്ലെങ്കിൽ, രാഷ്ട്രപതി)
