@@ -19,7 +19,7 @@ advcl(decision, agree-does-not-if)
 nmod(കോടതിയെ, സുപ്രീം)
 obj(സമീപിക്കാന, കോടതിയെ)
 xcomp(തീരുമാനം, സമീപിക്കാന)
-advmod(സമീപിക്കാന, ഉം)
+advmod:emph(സമീപിക്കാന, ഉം)
 punct(തീരുമാനം, .)
 ~~~
 A nominalized verb form is the dependent for a manner adverbial clause.
