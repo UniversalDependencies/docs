@@ -267,7 +267,7 @@ udver: '2'
    nmod(കോടതിയെ, സുപ്രീം)
    obj(സമീപിക്കാന, കോടതിയെ)
    xcomp(തീരുമാനം, സമീപിക്കാന)
-   advmod(സമീപിക്കാന, ഉം)
+   advmod:emph(സമീപിക്കാന, ഉം)
    punct(തീരുമാനം, .)
    ~~~
    'Decision to approach the Supreme Court if the President does not agree.'
