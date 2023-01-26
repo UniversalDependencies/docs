@@ -10,7 +10,7 @@ UD Portuguese contains data from multiple treebanks created by different teams a
 
 ## Tokenization and Word Segmentation
 
-Words are generally delimited by whitespace or punctuation. No tokens in any of the UD Portuguese corpora currently contain whitespace. Most corpora do use multiword tokens, since contractions in Portuguese are uniquitous, from verbs to prepositions. For example forms like `do` = `de`+`o` (of+the)  or `fi-lo` = `fiz`+`o` (did+it).
+Words are generally delimited by whitespace or punctuation. No tokens in any of the UD Portuguese corpora currently contain whitespace. Most corpora do use multiword tokens, since contractions in Portuguese are ubiquitous, from verbs to prepositions. For example forms like `do` = `de`+`o` (of+the)  or `fi-lo` = `fiz`+`o` (did+it).
 
 Units that are generally tokenized apart include:
 
