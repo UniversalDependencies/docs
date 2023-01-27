@@ -203,7 +203,7 @@ xcomp(wanted, accept)
 
 ~~~ sdparse
 Sue asked Fred to accept the job.
-obj(asked, Fred)
+iobj(asked, Fred)
 mark(accept, to)
 xcomp(asked, accept)
 ~~~
