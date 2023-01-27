@@ -192,13 +192,20 @@ xcomp(started, digging)
 The key difference here is that, in the first sentence, who will be starting to do the digging is a question of anaphora (it may be some contextually relevant individual or group, which may or may not include the boss), while in both sentences, the person or persons who are starting to do something are necessarily the same people who are digging (i.e., in the second sentence, the subject of __digging__ can only be __we__).
 This is what distinguishes `ccomp` and `xcomp`.
 
-The controlled subject of the [xcomp]() can also be an [obj]() – indeed, it is usually the [obj]() when one is present (Visser's generalization). UD adopts an object with infinitive (or "raising to object") analysis of such constructions (rather than the "small clause" or "exceptional case marking" analyses that are prominent in many recent strands of generative grammar). So UD uses analyses like the following for cases where there is obligatory control between an object and the subject of a subordinate clause:
+The controlled subject of the [xcomp]() can also be an object ([obj]() or [iobj]()) – indeed, it is usually the object when one is present (Visser's generalization). UD adopts an object with infinitive (or "raising to object") analysis of such constructions (rather than the "small clause" or "exceptional case marking" analyses that are prominent in many recent strands of generative grammar). So UD uses analyses like the following for cases where there is obligatory control between an object and the subject of a subordinate clause:
 
 ~~~ sdparse
-Sue persuaded Fred to accept the job.
-obj(persuaded, Fred)
+Sue wanted Fred to accept the job.
+obj(wanted, Fred)
 mark(accept, to)
-xcomp(persuaded, accept)
+xcomp(wanted, accept)
+~~~
+
+~~~ sdparse
+Sue asked Fred to accept the job.
+obj(asked, Fred)
+mark(accept, to)
+xcomp(asked, accept)
 ~~~
 
 ~~~ sdparse
