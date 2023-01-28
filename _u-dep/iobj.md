@@ -262,7 +262,7 @@ obj(helps, students)
 xcomp(helps, succeed)
 ~~~
 
-[^1]: This is an amended policy. An explanation of the change will be posted.
+[^1]: This is an amended policy as described [on the changes page](/changes.html#sole-iobj).
 
 ## References
 
