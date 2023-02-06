@@ -55,54 +55,7 @@ NOMINAL FEATURE
 
 Xavante has a complicated system of indexation, using many different sets of markers. These are given in the tables below.
 
-#### Bound indexes (series I)
 
-Members of this set are used as possessor markers, subject of intransitive verbs, object of transitive verbs, subject of non-verbal predicates, object of postpositions
-
-Person  |  Form  |
-:-----: | :-----:|
-1.SG | _ĩĩ_-, ∅-  |
-2.SG | _a(i)_-   |
-3    |  _ĩ_-, ∅-    |
-1.DU | _wa_-     |
-2.DU | _wa_-     |
-CORR | _ti_-     |
-
-
-#### Bound indexes (series II)
-
-Person  |  Form  |
-:-----: | :-----:|
-1     |  ∅-   |
-2     | _ĩ_-  |
-3     | _ĩ_-  |
-
-#### Bound indexes (series III)
-
-This is the bound index for the first person dual and plural object when the subject is second person.
-
-Person  |  Form  |
-:-----: | :-----:|
-1.DU     | _ĩwa_- |
-1.PL   | _ĩwa_- |
-
-#### Personal pronouns
-
-Person  |  Form  |
-:-----: | :-----:|
-
-#### Emphatic pronouns
-
-Person  |  Form  |
-:-----: | :-----:|
-
-### Egophorique and heterphorique markers
-
-Marker  |  Form  | Aspect
-:-----: | :-----:| :-----:
-Egophorique | _wa_ |
-Heterophorique | _te_ | imperfective
-Heterophorique | _ma_ | perfective
 
 * Xavante has postpositions 
 
