@@ -252,6 +252,9 @@ xcomp(wanted, live)
 obl(live, in)
 ~~~
 
+The same treatment applies to a preposition stranded in a [free relative](#free-relatives).
+In the Enhanced Dependencies representation, however, the stranded preposition attaches to the relativized element.
+
 ## Prepositional Relatives
 
 As an alternative to stranding, the preposition may occur before the relativizer (for some relativizers, particularly *which*, *whom*, and *whose*):
