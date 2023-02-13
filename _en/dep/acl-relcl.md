@@ -242,7 +242,8 @@ case(that, in)
 ~~~
 
 In a reduced RC, however, there is no nominal to fill the role in the RC, 
-so the preposition gets promoted to the head of the phrase (similar to the treatment of [Ellipsis]()):
+so the preposition gets promoted to the head of the phrase (similar to the treatment of [Ellipsis]()). 
+If the stranded preposition belongs to a copular predicate, it assumes the role of that predicate:
 
 ~~~ sdparse
 the house you said you wanted to live in
@@ -252,8 +253,18 @@ xcomp(wanted, live)
 obl(live, in)
 ~~~
 
+
+~~~ sdparse
+the problem the question is about
+acl:relcl(problem, about)
+nsubj(about, question)
+cop(about, is)
+~~~
+
 The same treatment applies to a preposition stranded in a [free relative](#free-relatives).
-In the Enhanced Dependencies representation, however, the stranded preposition attaches to the relativized element.
+
+In the Enhanced Dependencies representation, the stranded preposition attaches to the relativized element 
+unless the preposition has been promoted to function as the predicate.
 
 ## Prepositional Relatives
 
