@@ -451,6 +451,8 @@ We adopt a simple rule that [advcl:relcl]() (rather than [acl:relcl]()) applies 
 
 Free relatives are subtly different from **interrogative clauses**, where the WH-word making it interrogative is inside the clause.
 Verbs such as *wonder*, *know*, and *tell* license interrogative complement clauses (including ones beginning with *whether*).
+With verbs like *know* and *tell* that license either a complement clauses or a direct object, disambiguating between the two types of WH-complements can be difficult.
+
 According to *CGEL* (Huddleston and Pullum 2002, pp. 1070–1079), in contrast to interrogative clauses, free relatives 
 - are always finite;
 - are never marked by *whether*; 
@@ -459,6 +461,12 @@ According to *CGEL* (Huddleston and Pullum 2002, pp. 1070–1079), in contrast t
   * Free relative: *He bought what I was selling* → *\*I was selling something (he bought what!).*
   * cf. interrogative: *He wondered what I was selling* → *I was selling something (he wondered what!).*;
 - never license *else* after a non-*ever* head (*\*He bought what else I was selling*) [this test is from *SIEG*, Huddleston et al. 2021, p. 291].
+
+An example where they correspond to clearly distinct readings is *I asked what he asked*:
+- Free relative reading: 'I asked that thing that he asked (the same question that he asked)'
+- Interrogative reading: 'I asked about the content of his question (I know he asked something but I don't know what)'
+
+A subtler case is *Alice doesn't know what Kim said* (the interrogative reading, 'Alice doesn't know what the content of Kim's statement was', is more likely, but the free relative reading 'Alice isn't familiar with the set of facts that Kim shared' is also possible). In general, with predicates of cognition and communication that permit clausal complements, we take the interrogative interpretation to be the default reading if both readings are plausible.
 
 The following contain interrogative complement clauses, not free relatives, and thus use [ccomp]():
 
