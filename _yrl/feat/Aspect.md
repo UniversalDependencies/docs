@@ -15,6 +15,7 @@ udver: '2'
   <td><a href="#Prog">Prog</a></td>
   <td><a href="#Prosp">Prosp</a></td>
   <td><a href="#Frus">Frus</a></td>
+  <td><a href="#Freq">Frus</a></td>
 </tr>
 </table>
 
@@ -151,5 +152,21 @@ Examples cited by Avila (2021) (our English translations):
 
 * [yrl] _Indé rewewé <b>yepé</b> kutara [...]&nbsp;_  “You were flying fast in vain [...]” (Casasnovas, 93)
 * [yrl] _Apurakí-putari <b>yepé</b>, ixé se maraari. &nbsp;_  “I wanted to work, but I'm tired.” (Magalhães, 96, adap.)
+
+### <a name="Freq">`Freq`</a>: frequentative aspect
+
+The frequentative aspect is marked in Nheengatu with the suffix *-wara*, which attaches to verbs or nouns, adverbs, etc. conveying the clause predicate (cf. Avila 2021, p. 809-810). It expresses that a state or event holds on continually or occurs repeatedely with a very high frequency. Tipically, it translates as *always* in English.   
+
+#### References
+
+van Geenhoven, Veerle. 2005. Atelicity, pluractionality, and adverbial quantification. In H. J. Verkuyl, H. de Swart & A. van Ho out (Eds.), *Perspectives on Aspect* (Studies In Theoretical Psycholinguistics, pp. 107-124). Dordrecht: Springer.
+
+#### Examples
+
+Examples cited by Avila (2021) (our English translations):
+
+* [yrl] _<b>Ikewara</b> aikú, reyuri ramé, resika se piri.&nbsp;_  “I'm always here, when you come, come visit me."
+* [yrl] _<b>Amanduariwara</b> ne resé. &nbsp;_  “I always remember you.”
+* [yrl] _Ixé se <b>rukawara</b> aikú, ti xinga asemu kwá suí. &nbsp;_  “I'm always at home, I hardly leave here.”
 
 <!-- Interlanguage links updated Po lis 14 15:34:40 CET 2022 -->
