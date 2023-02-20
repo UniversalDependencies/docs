@@ -122,7 +122,7 @@ by a determiner (but this is not a requirement either).
 
 The quantifiers _viel_ “much/many”, _mehr_ “more”, _wenig_ “little/few”, _weniger_ “less/fewer” are tagged `DET`,
 although their behavior partially differs from that of the other determiners. But it differs from other word classes,
-too. They are not tagged [NUM](), as this category is reserved for defnite cardinal numerals. In addition to the `DET`
+too. They are not tagged [NUM](), as this category is reserved for definite cardinal numerals. In addition to the `DET`
 UPOS tag, they have [PronType]()`=Ind`.
 
 With countable nouns, the quantifier takes a suffix that signals agreement in gender, number and case:
