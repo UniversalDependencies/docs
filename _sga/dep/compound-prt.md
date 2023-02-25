@@ -1,7 +1,7 @@
 ---
 layout: relation
 title:  'compound:prt'
-shortdef : 'phrasal particles'
+shortdef : 'preverbs'
 udver: '2'
 ---
 
