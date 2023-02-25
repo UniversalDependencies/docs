@@ -64,16 +64,19 @@ repository.
 ## Language-Specific Features
 
 All feature values used in UD treebanks must be documented. If they are defined in the current
-version of the UD guidelines, they are already documented and no action is needed.
+version of the UD guidelines, they are already documented and you do not need to write any
+documentation. Nevertheless, in order to use them in your data, you must register them for your language
+[at the validation server](https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_feature.pl);
+the registration includes saying which of the documented values can be used with which UPOS tags.
+
 If you decide to provide their language-specific documentation anyway, note that the global
 documentation will be ignored by the system, and if there are errors in your page, the given
 universal feature will be undocumented and unavailable in your language.
-Some other
-features are not officially part of the UD guidelines (so technically they are in the
+Some other features are not officially part of the UD guidelines (so technically they are in the
 language-specific domain), yet they have been used in multiple treebanks and their documentation
-is accessible globally. No action is needed for them either (if you are unsure whether
-a particular feature is in this category, try using it; if the validator complains, you will
-know you have to provide documentation). Any other language-specific feature
+is accessible globally. If you are unsure whether a particular feature is in this category, try
+registering it at the validation server. If it is not available there, you will know you have
+to provide documentation. Any other language-specific feature
 must have a documentation page in the folder of the given language (regardless of whether this
 feature is or is not documented in another language). Similarly, if a language needs an extra
 value of an otherwise universal feature, there must be a language-specific documentation page
@@ -146,7 +149,7 @@ documentation of a subtype is accessible globally, no action is needed either. A
 language-specific relation subtype must have a documentation page in the folder of the given
 language (regardless of whether this subtype is or is not documented in another language).
 In addition, all relation types must be
-[registered with the on-line validator](https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_deprel.pl)
+[registered at the validation server](https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_deprel.pl)
 before they can be used in a language (go to the registration page, select your language,
 click on the relation type and make sure the check box is checked to permit the relation
 in the language).
