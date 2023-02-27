@@ -27,7 +27,7 @@ If you're new to UD, you should start by reading the first part of the Short Int
 * [Download UD treebanks](#download)
 
 If you want to receive news about Universal Dependencies, you can subscribe to the
-[UD mailing list](http://stp.lingfil.uu.se/mailman/listinfo/ud).
+[UD mailing list]([819003](https://lists.uu.se/sympa/info/lingfil-ud).
 If you want to discuss individual annotation questions, use the
 [Github issue tracker](https://github.com/universaldependencies/docs/issues).
 
