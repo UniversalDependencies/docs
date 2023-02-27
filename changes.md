@@ -36,7 +36,7 @@ But some updates have been necessary to clarify how they should be applied to pa
  
 The restriction that [iobj]() can only be used if there is also an overt [obj]() in the same clause is hereby [removed](https://github.com/UniversalDependencies/docs/issues/916). 
 It is preferable not to have a relation whose label depends on the presence or absence of a sister phrase 
-when its interpretation remains the same (like *them* in *teach them* vs. *teach them reading* vs. *teach them to read*).
+when its interpretation remains the same (like *them* in *tell them* vs. *tell them a story* vs. *tell them that the party is canceled*).
 See [iobj]() for examples (note that specific criteria for identifying indirect objects will vary by language).
 
 ### Nested `flat`
