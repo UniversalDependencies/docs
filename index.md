@@ -19,15 +19,15 @@ If you're new to UD, you should start by reading the first part of the Short Int
   * [Changes to the UD guidelines](changes.html)
   * [UD-related events](events.html)
 * Query UD treebanks online:
-  * [SETS treebank search](http://depsearch-depsearch.rahtiapp.fi/ds_demo/) maintained by the University of Turku
   * [PML Tree Query](http://lindat.mff.cuni.cz/services/pmltq/) maintained by the Charles University in Prague
   * [Kontext](http://lindat.mff.cuni.cz/services/kontext/corpora/corplist) maintained by the Charles University in Prague
+  * [TEITOK](http://lindat.mff.cuni.cz/services/teitok/ud211/) maintained by the Charles University in Prague
   * [Grew-match](http://match.grew.fr) maintained by Inria in Nancy
   * [INESS](http://clarino.uib.no/iness) maintained by the University of Bergen
 * [Download UD treebanks](#download)
 
 If you want to receive news about Universal Dependencies, you can subscribe to the
-[UD mailing list](http://stp.lingfil.uu.se/mailman/listinfo/ud).
+[UD mailing list](https://lists.uu.se/sympa/info/lingfil-ud).
 If you want to discuss individual annotation questions, use the
 [Github issue tracker](https://github.com/universaldependencies/docs/issues).
 
