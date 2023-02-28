@@ -9,13 +9,13 @@ Several types of particle exist in Old Irish, many of which may take the same fo
 
 ### <a name="Aug">`Aug`</a>: augment
 
-This particle is used within the verbal complex. It’s most frequent form is _<b>ro</b>_.
+The augment is a particle which is used within the verbal complex. It serves a variety of grammatical purposes, for example, giving perfective force to a verb. It’s most frequent form is _<b>ro</b>_.
 
 #### Examples
 
 * _<b>ro</b>scríb_ “that has written”
-* _<b>rocinnius</b>cinnius_ “I have defined”
-* _<b>robae</b>bae_ “has been”
+* _<b>ro</b>cinnius_ “I have defined”
+* _<b>ro</b>bae_ “has been”
 
 ### <a name="Dct">`Dct`</a>: deictic
 
