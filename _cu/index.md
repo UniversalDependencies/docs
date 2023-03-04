@@ -10,7 +10,7 @@ udver: '2'
 
 * In general, words are delimited by whitespace characters.
 * Punctuation such as commas and periods is not included in the data.
-  Occasionally a punctuation symbol (typically a hyphen) is part of a word, as in _at-gaf, þat-ain, ga-seƕi_.
+  Occasionally a punctuation symbol (typically a hyphen) is part of a word, as in _вꙑ-инѫ_.
 * There are no multi-word tokens.
 * There are no words with spaces.
 
@@ -18,12 +18,14 @@ udver: '2'
 
 ### Tags
 
-*
-
----
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
-
----
+* Old Church Slavonic uses 14 universal POS categories. There are no particles, punctuation and other symbols in the data.
+* The only auxiliary verb ([AUX]()) in Old Church Slavonic is _бꙑти_ “to be”. It is used as copula (_съ ними <b>естъ</b> женихъ_ “the bridegroom is with them”).
+* There are five main (de)verbal forms, distinguished by the value of the [VerbForm]() feature:
+  * Infinitive `Inf`, tagged [VERB]() or [AUX]().
+  * Finite verb `Fin`, tagged [VERB]() or [AUX]().
+  * Participle `Part`, tagged [VERB]() or [AUX]().
+  * Resultative participle `PartRes`, tagged [VERB]() or [AUX]().
+  * Supine `Sup`, tagged [VERB]() or [AUX]().
 
 ### Features
 
