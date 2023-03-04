@@ -45,7 +45,7 @@ udver: '2'
 ### Verbal Features
 
 * Finite verbs always have one of three values of [Mood](): `Ind`, `Imp` or `Opt`.
-* Indicative and verbs always have one of two values of [Tense](): `Past`, `Pres`.
+* Indicative verbs always have one of two values of [Tense](): `Past`, `Pres`.
 * The feature [Aspect]() is used with perfect participles, i.e., the only value is `Perf`.
 * There are two values of [Voice](): `Act`, `Pass`.
 

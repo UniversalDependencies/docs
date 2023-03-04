@@ -38,6 +38,19 @@ udver: '2'
   It occurs with the nominal words, i.e., [NOUN](), [PROPN](), [PRON](), [ADJ](), [DET](), [NUM]().
   For verbs ([VERB]()) and auxiliaries ([AUX]()) it occurs with participles (`VerbForm=Part`).
 
+### Degree and Polarity
+
+* [Degree]() applies to adjectives ([ADJ]()) and adverbs ([ADV]()) and has one of two possible values: `Pos`, `Cmp`.
+* [Polarity]() is used to mark the negative adverbs _не, ни, нѣ,_ and the negative forms of the auxiliary _нѣстъ, нѣсмъ, нѣсте, нѣси, нѣсмь, нѣсть,_ i.e., only the `Neg` value is used.
+
+### Verbal Features
+
+* Finite verbs always have one of three values of [Mood](): `Ind`, `Imp` or `Sub`.
+* Indicative verbs always have one of three values of [Tense](): `Past`, `Pres`, `Fut`.
+  The future tense is only annotated on the future forms of the auxiliary verb.
+* There are two values of [Aspect](): `Imp`, `Perf`.
+* There are two values of [Voice](): `Act`, `Pass`.
+
 ## Syntax
 
 *
