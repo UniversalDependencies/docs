@@ -59,6 +59,14 @@ udver: '2'
   Person is not marked on other types of pronouns and on nouns, although they can be almost always interpreted as the 3rd person.
   * As a cross-reference to subject, person is also marked on finite verbs ([VERB](), [AUX]()).
 
+### Other Features
+
+* There is one language-specific feature:
+  * [Strength]() with two values, `Strong` and `Weak`, is used with adjectives and participles to distinguish
+    forms of the [strong vs. weak declension](https://en.wikipedia.org/wiki/Gothic_declension#Adjectives).
+    For example, masculine singular nom-gen-dat-acc strong _blinds, blindis, blindamma, blindana_ “blind”;
+    weak _blinda, blindins, blindin, blindan_ “blind”.
+
 ## Syntax
 
 *
