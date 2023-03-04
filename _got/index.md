@@ -37,6 +37,28 @@ udver: '2'
   It occurs with the nominal words, i.e., [NOUN](), [PROPN](), [PRON](), [ADJ](), [DET](), [NUM]().
   For verbs ([VERB]()) and auxiliaries ([AUX]()) it occurs with participles (`VerbForm=Part`).
 
+### Degree and Polarity
+
+* [Degree]() applies to adjectives ([ADJ]()) and adverbs ([ADV]()) and has one of three possible values: `Pos`, `Cmp`, `Sup`.
+* [Polarity]() is used to mark the negative adverbs _ni, nih, niþ, nis, nibai, nei,_ i.e., only the `Neg` value is used.
+
+### Verbal Features
+
+* Finite verbs always have one of three values of [Mood](): `Ind`, `Imp` or `Opt`.
+* Indicative and verbs always have one of two values of [Tense](): `Past`, `Pres`.
+* The feature [Aspect]() is used with perfect participles, i.e., the only value is `Perf`.
+* There are two values of [Voice](): `Act`, `Pass`.
+
+### Pronouns, Determiners, Quantifiers
+
+* [PronType]() is used with pronouns ([PRON]()) and adverbs ([ADV]()): `Prs`, `Rcp`, `Int`, `Rel`.
+* The [Poss]() feature marks possessive personal adjectives (e.g. _meins_ “my”).
+* The [Reflex]() feature is always used together with `PronType=Prs` and it marks reflexive pronouns _(sik)_ and reflexive possessive adjectives _(seins)_.
+* [Person]() is a lexical feature of personal pronouns ([PRON]()) and has three values, `1`, `2` and `3`.
+  With personal possessive adjectives ([ADJ]()), the feature actually encodes the person of the possessor.
+  Person is not marked on other types of pronouns and on nouns, although they can be almost always interpreted as the 3rd person.
+  * As a cross-reference to subject, person is also marked on finite verbs ([VERB](), [AUX]()).
+
 ## Syntax
 
 *
