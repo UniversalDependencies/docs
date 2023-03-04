@@ -8,12 +8,11 @@ udver: '2'
 
 ## Tokenization and Word Segmentation
 
-*
-
----
-**Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
-
----
+* In general, words are delimited by whitespace characters.
+* Punctuation such as commas and periods is not included in the data.
+  Occasionally a punctuation symbol (typically a hyphen) is part of a word, as in _at-gaf, þat-ain, ga-seƕi_.
+* There are no multi-word tokens.
+* There are no words with spaces.
 
 ## Morphology
 
