@@ -70,12 +70,24 @@ udver: '2'
 
 ## Syntax
 
-*
+### Core Arguments, Oblique Arguments and Adjuncts
 
----
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
+* Nominal subject ([nsubj]()) is a noun phrase in the nominative case, without preposition.
+  * A subordinate clause may serve as the subject and is labeled `csubj`.
+* Nominal direct object ([obj]()) is a noun phrase in the accusative case, without preposition.
+* Nominal indirect object ([iobj]()) is a noun phrase in the dative case, without preposition.
+* Other nominal dependents of a predicate are labeled as oblique ([obl]()).
+* In passive clauses, the subject is labeled with [nsubj:pass]() or [csubj:pass](), respectively.
+  * If the demoted agent is present, its relation is labeled [obl:agent]().
 
----
+### Relations Overview
+
+* The following relation subtypes are used in Gothic:
+  * [nsubj:pass]() for nominal subjects of passive verbs
+  * [csubj:pass]() for clausal subjects of passive verbs
+  * [obl:agent]() for agents of passive verbs
+  * [aux:pass]() for the passive auxiliary
+  * [flat:name]() for parts of a personal name
 
 ## Treebanks
 
