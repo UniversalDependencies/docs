@@ -61,6 +61,13 @@ udver: '2'
   Person is not marked on other types of pronouns and on nouns, although they can be almost always interpreted as the 3rd person.
   * As a cross-reference to subject, person is also marked on finite verbs ([VERB](), [AUX]()).
 
+### Other Features
+
+* There is one language-specific feature:
+  * [Variant]() with one value, `Short`, is used with adjectives and participles to mark the short or
+    _nominal_ forms (as opposed to the long or _pronominal_ forms).
+    For example, masculine singular nominative short _золъ_ “bad”; long _зълꙑ_ “bad”.
+
 ## Syntax
 
 *
