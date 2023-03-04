@@ -18,12 +18,12 @@ udver: '2'
 
 ### Tags
 
-*
-
----
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
-
----
+* Gothic uses 14 universal POS categories. There are no particles, punctuation and other symbols in the data.
+* The only auxiliary verb ([AUX]()) in Gothic is _wisan_ “to be”. It is used as copula (_ni aiw swa uskunþ <b>was</b> in Israela_ “it was never so seen in Israel”).
+* There are three main (de)verbal forms, distinguished by the value of the [VerbForm]() feature:
+  * Infinitive `Inf`, tagged [VERB]() or [AUX]().
+  * Finite verb `Fin`, tagged [VERB]() or [AUX]().
+  * Participle `Part`, tagged [VERB]() or [AUX]().
 
 ### Features
 
