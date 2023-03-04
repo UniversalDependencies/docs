@@ -25,14 +25,17 @@ udver: '2'
   * Finite verb `Fin`, tagged [VERB]() or [AUX]().
   * Participle `Part`, tagged [VERB]() or [AUX]().
 
-### Features
+### Nominal Features
 
-*
-
----
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
-
----
+* Nominal words ([NOUN](), [PROPN]() and [PRON]()) have an inherent [Gender]() feature with one of three values: `Masc`, `Fem` or `Neut`.
+  * The following parts of speech inflect for `Gender` because they must agree with nouns: [ADJ](), [DET](), [NUM](),
+    [VERB](), [AUX](). For verbs (including auxiliaries), only participles can inflect for gender. Finite verbs don't.
+* The three values of the [Number]() feature are `Sing`, `Dual`, and `Plur`. The following parts of speech inflect for number:
+  [NOUN](), [PROPN](), [PRON](), [ADJ](), [DET](), [NUM](), [VERB](), [AUX]() (finite and participles).
+  The dual number is distinguished for pronouns and verbs (including auxiliary) but not for nouns, adjectives or determiners.
+* [Case]() has 5 possible values: `Nom`, `Gen`, `Dat`, `Acc`, `Voc`.
+  It occurs with the nominal words, i.e., [NOUN](), [PROPN](), [PRON](), [ADJ](), [DET](), [NUM]().
+  For verbs ([VERB]()) and auxiliaries ([AUX]()) it occurs with participles (`VerbForm=Part`).
 
 ## Syntax
 
