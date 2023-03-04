@@ -51,6 +51,16 @@ udver: '2'
 * There are two values of [Aspect](): `Imp`, `Perf`.
 * There are two values of [Voice](): `Act`, `Pass`.
 
+### Pronouns, Determiners, Quantifiers
+
+* [PronType]() is used with pronouns ([PRON]()) and adverbs ([ADV]()): `Prs`, `Rcp`, `Int`, `Rel`.
+* The [Poss]() feature marks possessive personal adjectives (e.g. _мои_ “my”).
+* The [Reflex]() feature is always used together with `PronType=Prs` and it marks reflexive pronouns _(сѧ)_ and reflexive possessive adjectives _(свои)_.
+* [Person]() is a lexical feature of personal pronouns ([PRON]()) and has three values, `1`, `2` and `3`.
+  With personal possessive adjectives ([ADJ]()), the feature actually encodes the person of the possessor.
+  Person is not marked on other types of pronouns and on nouns, although they can be almost always interpreted as the 3rd person.
+  * As a cross-reference to subject, person is also marked on finite verbs ([VERB](), [AUX]()).
+
 ## Syntax
 
 *
