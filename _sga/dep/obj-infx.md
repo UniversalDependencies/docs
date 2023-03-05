@@ -19,28 +19,28 @@ _do<b>m</b>beir_ "he gives <b>me</b> (to ...)"
 
 ~~~ sdparse
 do m beir \n to me he_bears
-compound:prt(do, m)
+obj:infx(do, m)
 ~~~
 
 _d<b>a</b>beir_ "he gives <b>it</b> (to ...)"
 
 ~~~ sdparse
 d a beir \n to it he_bears
-compound:prt(d, a)
+obj:infx(d, a)
 ~~~
 
 _fo<b>t</b>gaib_ "he finds <b>you</b> (sg.)"
 
 ~~~ sdparse
 fo t gaib \n under you (sg.) he_bears
-compound:prt(fo, t)
+obj:infx(fo, t)
 ~~~
 
 _a<b>tob</b>cíu_ "I see <b>you</b> (pl.)"
 
 ~~~ sdparse
 a tob cíu \n towards you (pl.) I_look
-compound:prt(a, tob)
+obj:infx(a, tob)
 ~~~
 
 ### Further Examples
