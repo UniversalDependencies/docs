@@ -25,6 +25,6 @@ compound:prt(beir, as)
 
 ### Further Examples
 
-* _<b>ad</b>cí_  "he sees"
-* _<b>do</b>beir_  "he gives"
-* _<b>fo</b>gaib_  "he finds"
+* _<b>ad</b>cí_ "he sees"
+* _<b>do</b>beir_ "he gives"
+* _<b>fo</b>gaib_ "he finds"

@@ -5,7 +5,7 @@ shortdef : 'prepositional pronouns'
 udver: '2'
 ---
 
-The subtype `obl:prep`, used for prepositional pronouns (conjugated prepositions), in Old Irish treebanks.
+The subtype `obl:prep`, is used for prepositional pronouns (conjugated prepositions), in Old Irish treebanks.
 
 ### Justification
 
