@@ -22,3 +22,10 @@ _a<b>con</b>mír_ "the <b>dog's</b> morsel"
 a con mír \n the dog's morsel
 nmod:pre(mír, con)
 ~~~
+
+_<b>fidbaidae</b> fál_ "a hedge <b>of trees</b>"
+
+~~~ sdparse
+fidbaidae fál \n of_trees a_hedge
+nmod:pre(fál, fidbaidae)
+~~~
