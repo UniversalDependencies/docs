@@ -45,3 +45,13 @@ A variety of preverbs are treated as verbal particles, including the "empty" pre
 * _<b>do</b>gní_ “it makes/does”
 * _<b>at</b>tá di ṡeirc_ “it is for love”
 * _ce<b>nu</b>d sluindi_ “although it signifies”
+
+### <a name="Voc">`Voc`</a>: vocative
+
+The vocative particle, _<b>a</b>_, is used to directly address a person or thing.
+
+#### Examples
+
+* _<b>a</b>nóibingen_ "O Holy Virgin"
+* _<b>a</b> rómanu_ "Romans!"
+* _<b>a</b>thusu_ "You!"
