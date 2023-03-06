@@ -5,9 +5,9 @@ shortdef: 'temporal oblique argument'
 udver: '2'
 ---
 
+`obl:tmod`  (temporal modifier): If the modifier is specifying a time.
 
 ~~~ sdparse
-`obl:tmod`  (temporal modifier): If the modifier is specifying a time.
 
       in the morining    I went  to   the sea
             sabáhlajinto hódih   na   denízane
