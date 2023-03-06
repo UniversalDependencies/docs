@@ -5,7 +5,7 @@ shortdef : 'clausal passive subject'
 udver: '2'
 ---
 
-csubj:pass (clausal passive subject): The clausal syntactic subject of a passive clause.
+`csubj:pass` (clausal passive subject): The clausal syntactic subject of a passive clause.
 
 ~~~ sdparse
                           whatever she says is forgotten
