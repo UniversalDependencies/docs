@@ -5,7 +5,7 @@ shortdef : 'clausal subject'
 udver: '2'
 ---
 
-csubj (clausal syntactic subject): The subject as a clause.
+`csubj` (clausal syntactic subject): The subject as a clause.
 
 ~~~ sdparse
  whatever she says is right
