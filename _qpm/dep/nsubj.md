@@ -1,7 +1,7 @@
 ---
 layout: relation
-title:  'nmod'
-shortdef : 'nominal modifier'
+title:  'nsubj'
+shortdef : 'nominal subject'
 udver: '2'
 ---
 
