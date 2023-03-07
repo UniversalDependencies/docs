@@ -5,12 +5,11 @@ shortdef : 'clausal subject'
 udver: '2'
 ---
 
-`csubj` (clausal syntactic subject): The subject as a clause.
+The relation `csubj` (clausal syntactic subject) is a clausal syntactic subject of a clause. Usually the governor of this relation is a verb:
 
 ~~~ sdparse
- whatever she says is right
- lit: right is           whatever she says                   
- právo je              kakná tja víka            
-   |____________csubj____________|            
-                  →
+právo je kakná tja víka 
+whatever she says is right 
+lit: right is whatever she says                   
+csubj (právo, víka)
 ~~~
