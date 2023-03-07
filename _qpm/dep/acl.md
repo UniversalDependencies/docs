@@ -13,7 +13,7 @@ In Pomak this relation appears in accordance to the above mentioned, as seen in 
 
 ~~~ sdparse
 tja néma háka  da so sme 
-she has no right   to laugh
+she has no right to laugh
 ~~~
 
 ~~~ sdparse
