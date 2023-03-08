@@ -59,7 +59,7 @@ det(women, the-two)
 * Interrogative determiners: _welcher_ “which”
 * Total determiners: _jeder_ “every”, _alle_ “all”, _beide_ “both”
 * Negative determiners: _kein_ “no”
-* Indefinite determiners: _einige_ “some”, _etliche_ “several”, _irgendein_ “any”, _irgendwelcher_ “any”
+* Indefinite determiners: _einige_ “some”, _etliche_ “several”, _irgendein_ “any”, _irgendwelcher_ “any”, _jeglicher_ “any, every”
 * Indefinite quantifiers: _viel_ “much/many”, _ebensoviel_ “just as much/many”, _mehr_ “more”, _wenig_ “little/few”, _weniger_ “less/fewer”
 
 As a predeterminer before the definite article, _all_ occurs without the inflectional suffix, but it is still kept
