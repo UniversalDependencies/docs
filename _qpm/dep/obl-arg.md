@@ -5,12 +5,12 @@ shortdef : 'oblique argument'
 udver: '2'
 ---
 
-`obl:arg` (oblique argument): Distinguishes them from adjuncts, which use the plain obl relation.
+
+The sub-type relation named oblique argument `obl:arg` is used to distinguish them from adjuncts, which use the plain obl relation. In Pomak annotating, an oblique argument seems to bare the semantic notion of an object, which is expressed by prepositional phrases in accusative case:
 
 ~~~ sdparse
-              I  rely     on       my        brother
-    lit: (I) rely (myself)    on     the by me  brother
-             gǘvendisom so    na     mókse      bráta
-                  |____________obl:arg___________|
-                                  →
+gǘvendisom so na mókse bráta 
+I rely on my brother 
+lit: rely-I  myself  on by-me brother-the
+obl:arg (gǘvendisom, bráta)  
 ~~~ 
