@@ -18,7 +18,8 @@ If the subject of the clausal complement is somehow not uncertain or ambiguous, 
 ~~~ sdparse
 čulǽkon tórnal je da vídi kadé nahode    
 the man started to see where he is going  
-(it is uncertain if he looked where somebody else went or if he is looking where he himslef is going).                                                     ~~~                                                                                
+(it is uncertain if he looked where somebody else went or if he is looking where he himslef is going). 
+~~~  
 
 Another case that the xcomp label is used in constructions called “secondary predicates”:
    
