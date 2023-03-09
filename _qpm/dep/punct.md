@@ -41,7 +41,7 @@ The punct reltion applies also to nominals linked by a dush [ - ] as well as to 
 paminól je inagáne prez 'tam i vídel je Hamdí-stárok
 he passed then from there and saw ol' Hamdi
 lit: passed-he then from there and saw-he Hamdi-old
-punct (tam, ')                          note: [ ' ] apostrophe / “ 'tam” is a colloquial form of “itam”
+punct (tam, ')                      note: [ ' ] apostrophe / “ 'tam” is a colloquial form of “itam”
 punct (Hamdi, - )                   note: [ - ] dush
 flat:name (Hamdi, stárok)
 ~~~
