@@ -5,11 +5,13 @@ shortdef : 'agent modifier'
 udver: '2'
 ---
 
-~~~ sdparse
-obl: agent (agent modifier): It is used for agents of passive verbs
 
-        he     is (being) paid    from three places - three    men
-        toj        so pláštašo      at tri mestá    - trimína  čülǽkove
-                        |____________________obl:agent __________|
-                                                 →
+The label obl:agent (agent modifier) is used for agents of passive verbs. Typically agents are animate, but there are inanimate agents, too, which are difficult to distinguish from instrumentals:
+
+~~~ sdparse
+toj so pláštašo at tri mestá - trimína čülǽkove 
+he was (being) paid from three places -  by three men
+obl: agent (pláštašo, mestá)
+conj (pláštašo, čülǽkove)
+cc (pláštašo, - dush)
 ~~~

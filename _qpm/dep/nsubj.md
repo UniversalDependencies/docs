@@ -5,20 +5,16 @@ shortdef : 'nominal subject'
 udver: '2'
 ---
 
-`nsubj` (nominal subject): A syntactic subject of proto-agent of clause.
+A nominal subject `nsubj` is a nominal which is the syntactic subject and the proto-agent of a clause. In more simple words, it is the element that carries out an action, the “doer” of the clause. Therefore, it is the main core argument of the verb. This nominal may be headed by either a noun, a pronoun or a relative pronoun, or even an adjective, in ellipsis context:  
 
 ~~~ sdparse
-the police caught a man
-astinomíjeta fáti annók čulǽka
-|__nsubj|
-← those who have this oil
-žíne ímot isók zejtíne |___nsubj_| ←
+astinomíjeta fáti annók čulǽka 
+the police caught a man                              
+nsubj (fáti, astinomíjeta)
 ~~~
 
-`nsubj:pass` (nominal subject): A syntactic subject of a passive verb.
 ~~~ sdparse
-  the road is closed
-
-lit: closed is the road
-zatvóren je poten |____nsubj:pass____| ←
-~~~
+žíne ímot isók zejtíne
+those who have this oil                       
+nsubj (ímot, žíne)
+~~~ 

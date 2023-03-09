@@ -5,15 +5,10 @@ shortdef : 'locative oblique argument'
 udver: '2'
 ---
 
-
-`obl:lmod` (locative modifier): If the modifier is specifying a location.
+The label `obl:lmod` (locative modifier), a sub-type of oblique obl, denotes the modifier that is specifying a location:
 
 ~~~ sdparse
-
-
-
-                      I swim     in      the sea
-                      plývom     faf     denízane
-                         |__obl:lmod______|
-                                →
-~~~                                
+plývom faf denízane 
+I swim in the sea
+obl:lmod (plývom, denízane)  
+~~~ 
