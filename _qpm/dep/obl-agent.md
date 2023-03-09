@@ -10,8 +10,8 @@ The label obl:agent (agent modifier) is used for agents of passive verbs. Typica
 
 ~~~ sdparse
 
-    • toj so pláštašo at tri mestá - trimína čülǽkove 
-          he was (being) paid from three places -  by three men
+toj so pláštašo at tri mestá - trimína čülǽkove 
+he was (being) paid from three places -  by three men
 obl: agent (pláštašo, mestá)
 conj (pláštašo, čülǽkove)
 cc (pláštašo, - dush)
