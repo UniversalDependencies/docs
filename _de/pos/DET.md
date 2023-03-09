@@ -76,6 +76,7 @@ they replace the article. They are tagged `DET`, too.
 
 * Demonstratives: _derlei_ “such”
 * Total determiners: _allerlei_ “all kinds of”, _allerhand_ “all sorts”
+* Negative determiners: _keinerlei_ “none at all”
 
 ### Determiners vs. Pronouns
 
