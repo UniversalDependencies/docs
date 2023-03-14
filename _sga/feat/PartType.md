@@ -27,6 +27,16 @@ The deictic particle, _í_, refers back to a previously mentioned person or thin
 * _isnaib <b>hí</b>_ “in those (aforementioned thing)”
 * _dond <b>í</b>_ “to that (thing)”
 
+### <a name="Nas">`Nas`</a>: nasal
+
+Many instances occur in manuscripts where a nasal, _<b>ṅ</b>_ or _<b>ṁ</b>_, will stand apart from both the following and preceding words. These can be sparated by spacing, or by enclosing puncta. While such nasals normally form the anlaut of the following word, this orthographic separation forces them to be treated as discrete tokens which are POS-tagged as particles.
+
+#### Examples
+
+* _conducaid etargne <b>ṅ</b> dǽ_ “that you might understand the knowledge of God”
+* _doairchet allaa <b>ṁ</b> brithemnacte_ “the day of judgement has been foretold”
+* _in tan <b>·m·</b> bís_ “when there is”
+
 ### <a name="Num">`Num`</a>: numeric
 
 These precede cardinal numbers when counting.
