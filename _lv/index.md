@@ -153,4 +153,4 @@ Following `MISC` values can be used to annotate errors in the source text interf
 
 There is [1](../treebanks/lv-comparison.html) Latvian UD treebank:
 
-  * [Latvian-LVTB](../treebanks/lv-lvtb/index.html)
+  * [Latvian-LVTB](https://github.com/UniversalDependencies/UD_Latvian-LVTB)
