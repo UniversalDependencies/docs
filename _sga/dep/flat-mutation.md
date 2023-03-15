@@ -1,11 +1,13 @@
 ---
 layout: relation
-title:  'mutation'
+title:  'flat:mutation'
 shortdef : 'initial mutation'
 udver: '2'
 ---
 
-Many instances occur in manuscripts where a nasal, _<b>ṅ</b>_ or _<b>ṁ</b>_, will stand apart from both the following and preceding words. These can be sparated by spacing, or by enclosing puncta. While such nasals normally form the anlaut of the following word, this orthographic separation forces them to be treated as discrete tokens which are POS-tagged as particles. In these cases these particles will have a this `nasal particle` relation to the following word.
+Many instances occur in manuscripts where a nasal, _<b>ṅ</b>_ or _<b>ṁ</b>_, will stand apart from both the following and preceding words. These can be sparated by spacing, or by enclosing puncta. While such nasals normally form the anlaut of the following word, this orthographic separation forces them to be treated as discrete tokens which are POS-tagged as particles. The `flat:mutation` relation is used in these cases.
+
+Unlike ordinary `flat` relations, with `flat:mutation` the nasal is the dependent governed by the following word.
 
 ### Examples
 
