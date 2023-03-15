@@ -1,7 +1,7 @@
 ---
 layout: relation
-title:  'part:nas'
-shortdef : 'nasal particle'
+title:  'mutation'
+shortdef : 'initial mutation'
 udver: '2'
 ---
 
