@@ -1,6 +1,8 @@
 ---
 layout: relation
-title:  'nsubj'
+title:   //SS[descendant::*[@rel="nsubj"]]
+
+'
 shortdef : 'nominal subject'
 udver: '2'
 ---
