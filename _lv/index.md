@@ -22,7 +22,7 @@ Paragraph borders from the original text is indicated by comment line `# newpar`
 
 ### Tags
 
-Latvian uses all 17 universal POS categories. 
+Latvian uses all 17 universal POS categories.
 
 #### Particles
 
@@ -49,9 +49,9 @@ Effectively distinguishing [PRON]() and [DET]() categories in Latvian is very ha
 
 #### Nominal Features
 
-* Nominal words ([NOUN](), [PROPN]() and [PRON]()) have an inherent [Gender]() feature with one of two values: `Masc` or `Fem`. 
+* Nominal words ([NOUN](), [PROPN]() and [PRON]()) have an inherent [Gender]() feature with one of two values: `Masc` or `Fem`.
 * The following parts of speech inflect for `Gender` as they must agree with nouns: [ADJ](), [DET](), [NUM](), [VERB](), [AUX](). For verbs (including auxiliaries), only participles inflect for `Gender`. Finite verbs don’t.
-* The two main values of the [Number]() feature are `Sing` and `Plur`. The following parts of speech inflect for number: `NOUN`, `PROPN`, `PRON`, `ADJ`, `DET`, `VERB`and `AUX` (finite, participles and verbal nouns), marginally `NUM`. Selected nouns are plurale tantum `Ptan` or singulare tantum `Coll`. 
+* The two main values of the [Number]() feature are `Sing` and `Plur`. The following parts of speech inflect for number: `NOUN`, `PROPN`, `PRON`, `ADJ`, `DET`, `VERB`and `AUX` (finite, participles and verbal nouns), marginally `NUM`. Selected nouns are plurale tantum `Ptan` or singulare tantum `Coll`.
 * [Case]() has 6 possible values: `Nom`, `Gen`, `Dat`, `Acc`, `Loc`, `Voc`. It occurs with the nominal words, i.e., `NOUN`, `PROPN`, `PRON`, `ADJ`, `DET`, `NUM`, `VERB` and `AUX` (participles and verbal nouns).
 * [Definite]() has 2 possible values: `Ind` and `Def`. The following parts of speech inflect for definitnes: `ADJ`, `VERB` and `AUX` (participles).
 
@@ -72,12 +72,12 @@ Effectively distinguishing [PRON]() and [DET]() categories in Latvian is very ha
     * Participle `Part`, tagged `VERB` or `AUX`.
     * Converb `Conv`, tagged `VERB` or `AUX`.
     * Verbal noun `Vnoun`, tagged `NOUN`.
-* [Aspect]() applies only to part of participles (`VERB`, `AUX`) and is either imperfective `Imp` or perfective `Perf`. 
+* [Aspect]() applies only to part of participles (`VERB`, `AUX`) and is either imperfective `Imp` or perfective `Perf`.
 * Finite verbs always have one of five values of [Mood](): `Ind`, `Imp`, `Cnd`, `Qot` or `Nec`.
 * [Tense]() is used for verbs and participles:
-    * Verbs in the indicative mood always have one of three `Tense` values: `Past`, `Pres` or `Fut`. 
+    * Verbs in the indicative mood always have one of three `Tense` values: `Past`, `Pres` or `Fut`.
     * Infinitive, imperative, conditional, quotative, and necessitative forms do not have the `Tense` feature.
-    * The `Tense` feature is also used to distinguish declinable participles (tagged `VERB` or `AUX`) into two groups: present participles (_ziedošs_ "[it is] flowering" and _lasāms_ "[it is] readable") and past participles (_darījis_ "[he has] been doing" and _pateikts_ “[it is] said”).  
+    * The `Tense` feature is also used to distinguish declinable participles (tagged `VERB` or `AUX`) into two groups: present participles (_ziedošs_ "[it is] flowering" and _lasāms_ "[it is] readable") and past participles (_darījis_ "[he has] been doing" and _pateikts_ “[it is] said”).
 * There are two values used for the [Voice() feature: `Act` and `Pass`:
     * Passive participles (_lasāms_ "[it is] readable" and _pateikts_ “[it is] said”) has `Voice=Pass`.
     * Finite verb forms and active participles (_ziedošs_ "[it is] flowering" and _darījis_ "[he has] been doing") have `Voice=Act`.
@@ -91,13 +91,13 @@ Effectively distinguishing [PRON]() and [DET]() categories in Latvian is very ha
     * Adverbs _vienreiz_ "once", _divreiz_ "twice", _trīsreiz_ "thrice", _četreiz_, _piecreiz_, _sešreiz_, _septiņreiz_, _astoņreiz_, _deviņreiz_, _desmitreiz_ "ten times", _pusotrreiz_ "one and a half times" has `NumType=Mult`.
 * The [Poss]() feature marks possessive personal pronouns and determiners (e.g., _mans_ "my") and possessive adjectives (e.g., _tavējais_ "yours") with value `Yes`.
 * The [Reflex]() feature marks reflexive pronoun _sevis_.
-    * Reflexivity is also marked on reflexive verbs and participles ([VERB](), e.g., _mazgāties_, _pusapģērbusies_). 
+    * Reflexivity is also marked on reflexive verbs and participles ([VERB](), e.g., _mazgāties_, _pusapģērbusies_).
 * [Person]() is marked for pronouns and finite verbs and has three values: `1`, `2` and `3`.
     * It is a lexical feature of personal pronouns `PRON` like _es_ "I", _tu_ "you", _viņš_ "he", _viņa_ "she", _viņi_ "they" (plural, masculine), _viņas_ "they" (plural, feminine).
     * It is a lexical feature of personal possessives `DET`/`PRON` _mans_, _manējais_ "my/mine", _tavs_, _tavējais_ "your/yours" (singular), _mūsējais_ "our/ours", _jūsējais_ "your/yours" (plural), _viņējais_ "his/hers/theirs".
-    * `Person` is also marked on some demonstrative pronouns with value `3`. 
+    * `Person` is also marked on some demonstrative pronouns with value `3`.
     * As a cross-reference to subject, person is also marked on finite verbs (`VERB`, [AUX]()).
-* [Foreign]() is annotated `Yes` for foreign words [X](). 
+* [Foreign]() is annotated `Yes` for foreign words [X]().
 * [Abbr]() is annotated `Yes` for abbreviations, which can be nouns [NOUN]() (_DJ_), [PROPN]() (_NATO_), `ADJ` (_god._ "honored"), `VERB` (_skat._ "see"), `ADV` (_v.j.l._ "above sea level"), `SYM` (_utt._ "etc.").
 
 #### Unused Features
@@ -153,4 +153,4 @@ Following `MISC` values can be used to annotate errors in the source text interf
 
 There is [1](../treebanks/lv-comparison.html) Latvian UD treebank:
 
-  * [Latvian-LVTB](../treebanks/lv-lvtb/index.html)
+  * [Latvian-LVTB](../treebanks/lv_lvtb/index.html)
