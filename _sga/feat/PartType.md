@@ -46,6 +46,20 @@ These precede cardinal numbers when counting.
 * _<b>a</b> tri_ “three”
 * _<b>a</b> noi_ “nine”
 
+### <a name="Rel">`Rel`</a>: relative
+
+The relative particle, _a_, is used syntactically between a preposition and a verb.
+
+Negative relative particles, _nád_, also occur, however, these are not preceded by prepositions.
+
+#### Examples
+
+* _hu<b>a</b> nainmnigter_ “from which is named”
+* _as<b>a</b> nairberar_ “out of which is drawn”
+* _di<b>a</b> nacomlatar_ “to which they are added”
+* _<b>nad</b> fodlaiter_ “which are not derived”
+* _<b>nad</b> ṁbíet_ “which will not be”
+
 ### <a name="Vb">`Vb`</a>: verbal
 
 A variety of preverbs are treated as verbal particles, including the "empty" preverb, _no_, used to infix pronouns where no preverb or conjunct particle would otherwise be present.
