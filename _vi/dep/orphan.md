@@ -1,11 +1,11 @@
 ---
 layout: relation
-title: 'remnant'
-shortdef: 'remnant: remnant in ellipsis'
+title: 'orphan'
+shortdef: 'orphan: orphan in ellipsis'
 udver: '2'
 ---
 
-remnant: remnant in ellipsis 
+remnant: orphan in ellipsis 
 
 ~~~ sdparse
 Tôi có hai cái bánh, em một.
@@ -13,8 +13,8 @@ nsubj(có, Tôi)
 nummod(bánh, hai)
 clf(bánh, cái)
 punct(em, ,)
-remnant(Tôi, em)
-remnant(hai, một)
+orphan(Tôi, em)
+orphan(hai, một)
 punct(có, 。)
 ~~~
 
