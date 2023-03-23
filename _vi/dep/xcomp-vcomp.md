@@ -8,7 +8,7 @@ udver: '2'
 The xcomp:adj relation is used for clausal complements of adjective which function like objects.
 
 ~~~ sdparse
-Anh ấy đi đánh nhau.
+Anh ấy giỏi đánh nhau.
 compound:pron(Anh, ấy)
 nsubj(đi, anh)
 xcomp:vcomp(giỏi, đánh)
