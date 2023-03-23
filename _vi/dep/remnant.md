@@ -5,7 +5,7 @@ shortdef: 'remnant: remnant in ellipsis'
 udver: '2'
 ---
 
-remnant: remnant in ellipsis
+remnant: remnant in ellipsis 
 
 ~~~ sdparse
 Tôi có hai cái bánh, em một.
