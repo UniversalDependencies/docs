@@ -24,7 +24,7 @@ The same rule applies for prepositions when they are governed by nouns, proper n
 ### Tags
 
 * All universal POS categories except SYM are used. Arabic Negation particles (both in MSA and Algerian Arabic) such as *ma* and *la*, and the restrictive particle *ghir* are tagged as PART.
-* The following ferbs are tagged as AUX when they are used for composed tense and aspect constructions:
+* The following verbs are tagged as AUX when they are used for composed tense and aspect constructions:
   * the French auxiliairies *être* et *avoir*
   * The Arabic auxiliary *kan*
   * The Algerian Arabic auxiliary *rah*
