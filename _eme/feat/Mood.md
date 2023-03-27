@@ -13,6 +13,7 @@ udver: '2'
   <td><a href="#Imp">Imp</a></td>
   <td><a href="#Irr">Irr</a></td>
   <td><a href="#Dub">Dub</a></td>
+  <td><a href="#Jus">Dub</a></td>
 </tr>
 </table>
 
@@ -60,6 +61,14 @@ The permissive mood is marked with a prefix _`t-`_/_`ta-`_/_`te-`_.
 #### Examples
 
 * _kʷi<b>enã</b> oronekomuwe perupi orohotaruwe_&nbsp; “One day, perhaps, we will go there.”
+
+### <a name="Jus">`Jus`</a>: Jussive
+
+`Jus` is a directive mood that expreses ordering, commanding, or exhorting. In Tekó, it is marked with _`-ko`_ (appears together with imperative particles) , _`-nane`_ (appears together with permissive particles), _`-na`_ (with both imperative and permissive particles). 
+
+#### Examples
+
+* _derapɨdʒ<b>nane</b> _&nbsp; “Have a house then.”
 
 ## Diffs
 
