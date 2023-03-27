@@ -68,7 +68,7 @@ The permissive mood is marked with a prefix _`t-`_/_`ta-`_/_`te-`_.
 
 #### Examples
 
-* _derapɨdʒ<b>nane</b> _&nbsp; “Have a house then.”
+* _derapɨdʒ<b>nane</b>_&nbsp; “Have a house then.”
 
 ## Diffs
 
