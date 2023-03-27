@@ -5,7 +5,7 @@ shortdef: 'coordinating conjunction'
 udver: '2'
 ---
 
-For more on coordination, see the [conj]() relation.
+
 [cc]() is the dependency relation between  a coordinating conjunction  like _και_ or _αλλά_ and the predicate it introduces.
 
 <!--
@@ -36,4 +36,6 @@ cc(εφαρμόστηκε, όμως)
 cc(πέρασε, όμως)
 cc(εφαρμόστηκε, και)
 ~~~
+
+For more on coordination, see the [conj]() relation.
 <!-- Interlanguage links updated Po lis 14 15:35:13 CET 2022 -->
