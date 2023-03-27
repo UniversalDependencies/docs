@@ -6,7 +6,7 @@ udver: '2'
 ---
 
 For more on coordination, see the [conj]() relation.
-A `cc` is the relation between the first conjunct and
+A `cc` is the relation between the second conjunct and
 <!--
 TODO
 a [coordinating conjunction](../pos/CCONJ)
@@ -15,7 +15,7 @@ a coordinating conjunction like _και_ or _αλλά_ delimiting another conjun
 
 ~~~ sdparse
 Ο οδηγός ενοχλήθηκε και άρχισε να κορνάρει .
-cc(ενοχλήθηκε, και)
+cc(άρχισε, και)
 ~~~
 
 A coordinating conjunction may also appear at the beginning
@@ -29,8 +29,10 @@ Thus we attach it to the first conjunct available in the current sentence: its m
 Το σύστημα , όμως , δεν εφαρμόστηκε .
 cc(εφαρμόστηκε, όμως)
 ~~~
-<!--
-TODO
+
+~~~ sdparse
 Όμως πέρασε ένας χρόνος και το σύστημα δεν εφαρμόστηκε
--->
+cc(πέρασε, όμως)
+cc(εφαρμόστηκε, και)
+~~~
 <!-- Interlanguage links updated Po lis 14 15:35:13 CET 2022 -->
