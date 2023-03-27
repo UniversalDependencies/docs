@@ -18,7 +18,7 @@ a [coordinating conjunction](../pos/CCONJ)
 cc(άρχισε, και)
 ~~~
 
-A coordinating conjunction may be used to introduce a single sentence. Again, the [cc]() dependency is used.  
+A coordinating conjunction may be used to introduce a main sentence. Again, the [cc]() dependency is used.  
 
 <!--
 and it depends on the root predicate of the sentence.
