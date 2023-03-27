@@ -6,7 +6,7 @@ udver: '2'
 ---
 
 For more on coordination, see the [conj]() relation.
-A `cc` is the relation between the second conjunct anda coordinating conjunction like _και_ or _αλλά_ delimiting another conjunct.
+A `cc` is the relation between  a coordinating conjunction  like _και_ or _αλλά_ and the predicate it introduces.
 
 <!--
 TODO
@@ -18,9 +18,7 @@ a [coordinating conjunction](../pos/CCONJ)
 cc(άρχισε, και)
 ~~~
 
-A coordinating conjunction may also appear at the beginning
-or close to the beginning of a sentence. This is also called
-a `cc`.
+A coordinating conjunction may be used to introduce a single sentence. Again, the 'cc' dependency is used.  
 
 <!--
 and it depends on the root predicate of the sentence.
