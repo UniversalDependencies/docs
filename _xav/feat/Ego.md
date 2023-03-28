@@ -16,7 +16,7 @@ udver: '2'
 
 ### <a name="Yes">`Yes`</a>: Yes
 
-Egophoricity is expressed by particles _`wa`_.
+Egophoricity is marked by a particle _`wa`_.
 
 #### Examples
 
