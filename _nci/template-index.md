@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Maghrebi Arabic French UD'
+title:  'Classical Nahuatl UD'
 udver: '2'
 ---
 
-# UD for Code-Switching Maghrebi Arabic-French <span class="flagspan"><img class="flag" src="../../flags/svg/MA.svg" /> <span class="flagspan" style="padding-left:1em"><img class="flag" src="../../flags/svg/DZ.svg" /></span> <span class="flagspan" style="padding-left:1em"><img class="flag" src="../../flags/svg/TN.svg" /></span></span>
+# UD for Classical Nahuatl <span class="flagspan"><img class="flag" src="../../flags/svg/MX-NEWSPAIN.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
@@ -46,10 +46,10 @@ udver: '2'
 
 ## Treebanks
 
-There are [N](../treebanks/LCODE-comparison.html) LANGUAGE UD treebanks:
+There are [N](../treebanks/nci-comparison.html) Classical Nahuatl UD treebanks:
 
-  * [LANGUAGE-A](../treebanks/LCODE_a/index.html)
-  * [LANGUAGE-B](../treebanks/LCODE_b/index.html)
+  * [Classical Nahuatl-A](../treebanks/nci_a/index.html)
+  * [Classical Nahuatl-B](../treebanks/nci_b/index.html)
 
 ---
 **Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
