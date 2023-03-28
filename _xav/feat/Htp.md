@@ -20,7 +20,7 @@ Heterophoricity is expressed by particles _`ma`_ (indicates the event taking pla
 
 #### Examples
 
-* Aibõ, <b>ma</b> wei wi ._&nbsp; “Yes I work.”
+* Aibõ, <b>ma</b> wei wi ._&nbsp; “A man came.”
 * _Aibö <b>te</b> mo buru u ._&nbsp; “A man goes to the fields.”
 
 
