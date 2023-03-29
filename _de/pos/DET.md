@@ -61,7 +61,7 @@ det(women, the-two)
 * Total determiners: _jeder_ “every”, _alle_ “all”, _beide_ “both”
 * Negative determiners: _kein_ “no”
 * Indefinite determiners: _einige_ “some”, _etliche_ “several”, _irgendein_ “any”, _irgendwelcher_ “any”, _jedweder_ “any”, _jeglicher_ “any, every”, _mancher_ “some”
-* Indefinite quantifiers: _viel_ “much/many”, _ebensoviel_ “just as much/many”, _mehr_ “more”, _meist_ “most”<!--but this one may be different from viel because it probably does not occur (so much?) with uncountables-->, _wenig_ “little/few”, _weniger_ “less/fewer”
+* Indefinite quantifiers: _viel_ “much/many”, _soviel_ “so much/many”, _ebensoviel_ “just as much/many”, _mehr_ “more”, _meist_ “most”<!--but this one may be different from viel because it probably does not occur (so much?) with uncountables-->, _wenig_ “little/few”, _weniger_ “less/fewer”
 
 As a predeterminer before the definite article, _all_ occurs without the inflectional suffix, but it is still kept
 as a form of the lexeme _alle_: _In <b>all</b> den Jahren waren wir mit den Ergebnissen sehr zufrieden._
