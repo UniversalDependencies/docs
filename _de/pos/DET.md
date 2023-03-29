@@ -78,7 +78,7 @@ they replace the article. They are tagged `DET`, too.
 * Demonstratives: _derlei_ “such”, _solcherlei_ “such”
 * Total determiners: _allerlei_ “all kinds of”, _allerhand_ “all sorts”
 * Negative determiners: _keinerlei_ “none at all”
-* Indefinite determiners: _mancherlei_ “various”, _tausenderlei_ “thousands”
+* Indefinite determiners: _mancherlei_ “various”, _vielerlei_ “many”, _tausenderlei_ “thousands”
 
 ### Determiners vs. Pronouns
 
