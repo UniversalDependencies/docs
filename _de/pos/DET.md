@@ -58,7 +58,7 @@ det(women, the-two)
 * Demonstratives: _dieser_ “this”, _jener_ “that”, _ebendieser_ “this”, _dergleiche_ “the same”, _derjenige_ “the (one)”, _derselbe_ “the same”, _selbig_ “same”, _solcher_ “such”
 * Emphatic determiners: _selber_ “oneself, same”
 * Interrogative determiners: _welcher_ “which”
-* Total determiners: _jeder_ “every”, _alle_ “all”, _beide_ “both”
+* Total determiners: _jeder_ “every”, _alle_ “all”, _beide_ “both”, _sämtlich_ “all”
 * Negative determiners: _kein_ “no”
 * Indefinite determiners: _einige_ “some”, _etliche_ “several”, _irgendein_ “any”, _irgendwelcher_ “any”, _jedweder_ “any”, _jeglicher_ “any, every”, _mancher_ “some”
 * Indefinite quantifiers: _viel_ “much/many”, _soviel_ “so much/many”, _ebensoviel_ “just as much/many”, _mehr_ “more”, _meist_ “most”<!--but this one may be different from viel because it probably does not occur (so much?) with uncountables-->, _wenig_ “little/few”, _weniger_ “less/fewer”
