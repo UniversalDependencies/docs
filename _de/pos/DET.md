@@ -75,7 +75,7 @@ they replace the article. They are tagged `DET`, too.
 
 ### Examples
 
-* Demonstratives: _derlei_ “such”
+* Demonstratives: _derlei_ “such”, _solcherlei_ “such”
 * Total determiners: _allerlei_ “all kinds of”, _allerhand_ “all sorts”
 * Negative determiners: _keinerlei_ “none at all”
 * Indefinite determiners: _mancherlei_ “various”
