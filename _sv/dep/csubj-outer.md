@@ -23,15 +23,15 @@ det(smula, en)
 The nominal counterpart of this relation is [nsubj:outer](). When the subject clause is an independent relative clause the wh-head of that clause may be taken as the head of the predicate clause.
 
 ~~~ sdparse
--ROOT- Vad hon sa var att han varit sjuk \n What she said was that he has been ill
+-ROOT- Vad hon sa var att han varit sjuk \n What she said was that he had been ill
 root(-ROOT-, sjuk)
 nsubj:outer(sjuk, vad)
-acl:relcl(vad, sa)
-nsubj(sa, hon)
 cop(sjuk, var)
 mark(sjuk, att)
 nsubj(sjuk, han)
 cop(sjuk, varit)
+acl:relcl(vad, sa)
+nsubj(sa, hon)
 ~~~
 
 The `:outer` subtype is *not* intended for most clausal subjects of copular clauses—only those where the predicate is itself a clause. 
