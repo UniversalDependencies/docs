@@ -25,12 +25,12 @@ The nominal counterpart of this relation is [nsubj:outer](). When the subject cl
 ~~~ sdparse
 -ROOT- Vad hon sa var att han varit sjuk \n What she said was that he had been ill
 root(-ROOT-, sjuk)
-nsubj:outer(sjuk, vad)
+nsubj:outer(sjuk, Vad)
 cop(sjuk, var)
 mark(sjuk, att)
 nsubj(sjuk, han)
 cop(sjuk, varit)
-acl:relcl(vad, sa)
+acl:relcl(Vad, sa)
 nsubj(sa, hon)
 ~~~
 
