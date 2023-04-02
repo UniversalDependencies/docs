@@ -99,7 +99,33 @@ empty node in the analysis of the sentence _Sue likes coffee and Bill tea_:
     5.1    likes     like
     6      tea       tea
 
-Empty nodes must have non-empty ID and DEPS fields and empty fields (i.e. underscores) for HEAD and DEPREL, because they are only part of the enhanced dependency graph. All other fields may contain either underscores or values: for example, they can optionally have a word form and lemma as in the example above.
+Empty nodes must have non-empty ID and DEPS fields and empty fields (i.e. underscores) for HEAD and DEPREL, because
+they are only part of the enhanced dependency graph. All other fields may contain either underscores or values: for
+example, they can optionally have a word form and lemma as in the example above.
+
+It is possible for an empty node to be positioned linearly between two syntactic words that are part of (the same)
+multiword token. It does not mean that the empty node is part of the multiword token, too. Multiword tokens are things
+that exist only in the surface sentence, while empty nodes are things that exist in the syntactic structure but not
+on the surface. Therefore empty nodes cannot be members of multiword tokens. Specifically, a multiword token range
+cannot be defined using an empty node ID (4-5.1 or 4.1-5 would be illegal).
+
+If an empty node is positioned before the first word of a multiword token, it must also occur before the multiword
+token range line. Hence, the sequence 7 7.1 8-9 8 9 in the following example is valid, but 7 8-9 7.1 8 9 would be
+invalid (and so would be 7 8-9 8.1 8 9).
+
+    1      nosotros   nosotros
+    2      vamos      ir
+    3-4    al         _
+    3      a          a
+    4      el         el
+    5      mar        mar
+    6      y          y
+    7      vosotros   vosotros
+    7.1    vais       ir
+    8-9    al         _
+    8      a          a
+    9      el         el
+    10     parque     parque
 
 # Morphological Annotation
 
