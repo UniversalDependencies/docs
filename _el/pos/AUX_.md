@@ -21,7 +21,6 @@ Otherwise,  *είμαι* "to be"  is assigned the tag [VERB](), e.g., *είμα�
 
 
 
-
 ### Examples
 -	Tense auxiliaries: *έχει φύγει* / *echi figi* "he/she/it is gone", *θα φύγει* / *tha figi* "he/she/it will go"
 -	Auxiliaries with passive verb forms: *έχει γραφτεί* / *echi grafti* "he/she/it has been written", *θα γραφτεί* / *tha grafti* "he/she/it  will be written" 
