@@ -446,7 +446,7 @@ e.g. in Ukrainian, Armenian, Sanskrit, Telugu, and Tamil.
     3     अनुश्रूयते   अनु-श्रु	VERB    _   Mood=Ind|…|Voice=Pass     0   root     _   Translit=anuśrūyate|LTranslit=anu-śru|Gloss=it-is-heard
     4     ।      	।	PUNCT   _   _                         3   punct    _   Translit=.|LTranslit=.|Gloss=.
 
-<a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^Translit$"><button>Table for <code>Translit</code> feature</button></a>
+<a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^LTranslit$"><button>Table for <code>LTranslit</code> feature</button></a>
 
 ### MGloss
 
@@ -580,7 +580,7 @@ It is attested in Catalan AnCora, Portuguese Bosque (as _MWE), Spanish AnCora.
     9	la          el          DET     _   _   10   det     _   _
     10	condemna    condemna    NOUN    _   _   8    obj     _   _
 
-<a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^MWE$"><button>Table for <code>Morf</code> feature</button></a>
+<a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^MWE$"><button>Table for <code>MWE</code> feature</button></a>
 
 ### MWEPOS
 
