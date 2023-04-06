@@ -8,11 +8,11 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Dist">Yes</a></td>
+  <td><a href="#Dist">Dist</a></td>
 </tr>
 </table>
 
-`Ego` 
+`NumType` 
 
 ### <a name="Dist">`Dist`</a>:  Distributive Numeral
 
