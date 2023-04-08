@@ -12,7 +12,7 @@ relative word, or it may not be overtly realized at all). The `acl:relcl`
 relation points from the head of the modified nominal to the head of the
 relative clause.
 
-In Pomak relative clauses appear mostly to be finite; they are introduced either by a relative determiner (e.g. žýjen-žána-žóno), or by a relative pronoun (e.g. déno-déna-déno):
+ Pomak relative clauses are finite clauses; they are introduced either by a relative determiner (e.g. žýjen-žána-žóno), or by a relative pronoun (e.g. déno-déna-déno):
 
 
 ~~~ sdparse
