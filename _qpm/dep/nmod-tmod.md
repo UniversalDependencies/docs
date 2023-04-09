@@ -5,15 +5,16 @@ shortdef : 'temporal modifier'
 udver: '2'
 ---
 
-A temporal nominal nmod:tmod modifier of another nominal is a sub-type of the nmod relation: if the modifier specifies time, it is labeled as tmod:
+The [nmod:tmod]() dependency is used for temporal nominal modifiers of another nominal:
 
 ~~~ sdparse
 kládaho gi faf Četfórtak ad pláden 
-they were placing them on Thursday at  noon 
 lit: were-they placing them on Thursday at noon
+"they were placing them on Thursday at  noon" 
 nmod:tmod (Četfórtak, pláden)     
 ~~~ 
          
+<!--
 However, in Pomak, it is not rare that a temporal nominal is attached to the head of a clause, no matter if it is a nominal or not:
 
 ~~~ sdparse
@@ -27,3 +28,4 @@ rabátašo cǽla déne
 he/she was working all day
 nmod:tmod (rabátašo, déne)
 ~~~ 
+-->
