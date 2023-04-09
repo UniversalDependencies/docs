@@ -7,7 +7,7 @@ udver: '2'
 
 The [ccomp]() dependency (clausal complement of a verb or adjective) is assigned to the head of a dependent clause, which is a core argument and functions as an object of a verb or an adjective. Such clausal complements may be finite or non-finite. [ccomp]() is also used for the case of reported speech. 
 
-Hint: [ccomp]() is similar to open clausal complement [xcomp](), but they differ in that ccomp models a situation where the subject of the main predicate and subject of the clausal complement are not always the same, while xcomp models a situation where the subject of both the main predicate and the clausal complement are always the same and has to be omitted. 
+Hint: [ccomp]() is similar to open clausal complement [xcomp](), but they differ in that ccomp models a situation where the subject of the main predicate and the subject of the clausal complement are not always the same, while xcomp models a situation where the subject of both the main predicate and the clausal complement are always the same (the subject of clausal complement has to be omitted in this case). 
 
 Examples of the application of the above in the Pomak treebank follow:
  
