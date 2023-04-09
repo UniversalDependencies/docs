@@ -19,7 +19,7 @@ aux (so, predávali)
 
 ~~~ sdparse
 tja je húbbava 
-she is good
+"she is good"
 root (húbbava)
 aux (je, húbbava)
 nsubj (tja, húbbava)
@@ -31,7 +31,7 @@ in such cases, *som* is assigned the PoS [VERB]() and is considered the head of 
 
 ~~~ sdparse
 je górmon ad pó napréš itám  
-a forest is nearby 
+"a forest is nearby" 
 root (je)
 nsubj (je, górmon)
 ~~~
@@ -39,8 +39,8 @@ nsubj (je, górmon)
 
 ~~~ sdparse
 tébe tí je jálnis da rečéš krívo 
-all you can do is to speak the wicked 
 lit:  to-you it is only to speak wicked 
+"all you can do is to speak the wicked" 
 root(je)
 csubj(je, rečéš)
 ~~~
