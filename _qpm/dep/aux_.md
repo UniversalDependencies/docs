@@ -12,11 +12,10 @@ In Pomak the main auxiliary is the verb *som* "I am", whose various morphologica
 
 ~~~ sdparse
 fátiho trimína ad Bagladés óti so predávali  pres ádje 
-they caught three (people) from Bangladesh because they were selling without (a) permit
+"they caught three (people) from Bangladesh because they were selling without (a) permit"
 aux (so, predávali)  
 ~~~
 
-In accordance to the above mentioned, in the Pomak treebanak, *som* has been assigned the PoS [AUX]() and the dependency [aux](), therefore it has not been treated as  a  verbt:  
 
 ~~~ sdparse
 tja je húbbava 
