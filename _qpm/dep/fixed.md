@@ -107,24 +107,24 @@ fixed(nadól, nagóre)
 <!--je imǽl faf tóga za pródan tütǘne
 lit: (he) has had on him for selling tobacco
 "he had on him tobacco for selling"                           
-fixed (za, pródan)
-obl (tütǘne, za)
+fixed(za, pródan)
+obl(tütǘne, za)
 -->
 
 mú dadót bir kač mésecy 
 lit: (they) to him give one how-much months
 "they give him several months" 
-fixed (bir, kač)
-advmod (mésecy, bir)
-obl:tmod (dadót, mésecy)
+fixed(bir, kač)
+advmod(mésecy, bir)
+obl:tmod(dadót, mésecy)
 
 <!--
 to rábatøt éšte bir kač godíny 
 lit: they work even one how-many years
 "they work even several years"
-fixed (bir, kač)
-advmod (godíny, bir)
-obl:tmod (rábatot, godíny)
+fixed(bir, kač)
+advmod(godíny, bir)
+obl:tmod(rábatot, godíny)
 -->
 ~~~ 
 
@@ -132,57 +132,58 @@ obl:tmod (rábatot, godíny)
 
 
 ~~~ sdparse
-za da idéme na denízane 
- in order for us to go to the sea 
+za da idéme na denízane
 lit: for to go to sea-the
-fixed (za, da)
-mark (idéme, za)
+"in order for us to go to the sea" 
+fixed(za, da)
+mark(idéme, za)
 
-tórnala je za na hárpane 
-she has set off to war                                                      
+tórnala je za na hárpane                                               
 lit: has-she started for to war-the
-fixed (za, na)
-case (hárpene, za)
+"she has set off to war"   
+fixed(za, na)
+case(hárpene, za)
 
 za to anní víkot ....
-that is why some say.... 
 lit: for that some say...
-fixed (za, to)
-mark (víkot, za)
+"that is why some say...." 
+fixed(za, to)
+mark(víkot, za)
 
 za málko go je izkáral na peskáne 
-in a little while he brought it to the sand
 lit: for little it he brought to the sand
-fixed (za, málko)
-advmod (za, izkáral)
+"in a little while he brought it to the sand"
+fixed(za, málko)
+advmod(za, izkáral)
 
-paminéme vrítsi za mífko 
-we all pass by for a short time
-lit: pass-we all for little
 
 še só platǿt za dvaš i ne za annóš 
-they will be paid twice and not once 
 lit: they will be paid for twice and not for once
-fixed (za, dvaš)
-advmod (platǿt, za)
-fixed (za, annóš)
-advmod (platǿt, za)
+"they will be paid twice and not once" 
+fixed(za, dvaš)
+advmod(platǿt, za)
+fixed(za, annóš)
+advmod(platǿt, za)
 
 na ennóš gulémijen puískal da íde da rábuti 
-at once the big one asked to go to work
-fixed (na, ennóš)
-advmod (puískal, na)
+"at once the big one asked to go to work"
+fixed(na, ennóš)
+advmod(puískal, na)
 
+<!--
 kadéta vídiš na drúziš múho udrívyj jé 
-wherever see-you next time (a) fly strike her
-fixed (na, drúziš)
-advmod (vídiš, na)
+"wherever see-you next time (a) fly strike her"
+fixed(na, drúziš)
+advmod(vídiš, na)
+-->
 
 kakná še stáne pó na sétne     
-what will happen a little more later
 lit: what will happen more to later
-fixed (na, sétne)
-advmod (stáne, na)
+"what will happen a little more later"
+fixed(na, sétne)
+advmod(stáne, na)
+
+UP TO THIS POINT
 
 óti da so na predáva? 
 what for it is not sold? 
