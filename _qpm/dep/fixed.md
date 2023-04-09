@@ -25,7 +25,7 @@ fixed (kak, da)
 fixed (kak, je)
 ~~~ 
 
-Below, a set of fixed expressions observed in the Pomak treebank are shown: 
+Below, a set of fixed expressions observed in the Pomak treebank are listed: 
 
 <!--In the Pomak treebank, there are several  fixed expressions. Usually, they are  attached directly to the head of the sentence.  There exist also Pomak “compound conjunctions” or rather “prepositional adverb phrases”, which may form a special sub-type of the fixed label, which are attached to the “head” of the phrase in a chain form. Generally, it appears that Pomak multi word epressions may be grouped as following: --> 
 
@@ -102,22 +102,25 @@ je imǽlo 60 vodeníce nadól nagóre
 lit: there have been 60 water-mils up and down
 "there have been 60 water-mills more or less" 
 advmod(60, nadól)
-fixed(nadól, nagóre)  
+fixed(nadól, nagóre) 
+~~~ 
      
-<!--je imǽl faf tóga za pródan tütǘne
+<!--
+je imǽl faf tóga za pródan tütǘne
 lit: (he) has had on him for selling tobacco
 "he had on him tobacco for selling"                           
 fixed(za, pródan)
 obl(tütǘne, za)
 -->
 
+~~~ sdparse
 mú dadót bir kač mésecy 
 lit: (they) to him give one how-much months
 "they give him several months" 
 fixed(bir, kač)
 advmod(mésecy, bir)
 obl:tmod(dadót, mésecy)
-
+~~~ 
 <!--
 to rábatøt éšte bir kač godíny 
 lit: they work even one how-many years
@@ -126,9 +129,8 @@ fixed(bir, kač)
 advmod(godíny, bir)
 obl:tmod(rábatot, godíny)
 -->
-~~~ 
 
-4. In pomak there also exist a category (that could be considered as a sub-type of the latter above), which functions as “prepositional adverb phrases”, consisting of two or more tokens that function as a unit. When they form a pair, they may include an adposition, an adjunction, an adverb, or even a pronoun; there is also a rare case, where the pair consists of two adpositions. When they form multi word units, they usually include an adposition and several adjunctions or adverbs. Such units usually are labeled as mark to the head of the sentence (whereas a pair of adpositions is labeled as case to the dependent nominal), while the consisting words are labeled in a chain mode as fixed to the “head” of the complex, i.e the first token. The most often used such complexes are the following:
+Certain fixed expressions depend on a predicate with the [mark]() dependency:
 
 
 ~~~ sdparse
@@ -149,41 +151,6 @@ lit: for that some say...
 "that is why some say...." 
 fixed(za, to)
 mark(víkot, za)
-
-za málko go je izkáral na peskáne 
-lit: for little it he brought to the sand
-"in a little while he brought it to the sand"
-fixed(za, málko)
-advmod(za, izkáral)
-
-
-še só platǿt za dvaš i ne za annóš 
-lit: they will be paid for twice and not for once
-"they will be paid twice and not once" 
-fixed(za, dvaš)
-advmod(platǿt, za)
-fixed(za, annóš)
-advmod(platǿt, za)
-
-na ennóš gulémijen puískal da íde da rábuti 
-"at once the big one asked to go to work"
-fixed(na, ennóš)
-advmod(puískal, na)
-
-<!--
-kadéta vídiš na drúziš múho udrívyj jé 
-"wherever see-you next time (a) fly strike her"
-fixed(na, drúziš)
-advmod(vídiš, na)
--->
-
-kakná še stáne pó na sétne     
-lit: what will happen more to later
-"what will happen a little more later"
-fixed(na, sétne)
-advmod(stáne, na)
-
-UP TO THIS POINT
 
 óti da so na predáva? 
 what for it is not sold? 
@@ -219,11 +186,52 @@ lit: not liberate her before till to darkens-it
 fixed (dur,durgá)
 fixed (dur, da)
 mark (smračí, dur)
+~~~ 
 
+
+~~~ sdparse
 ága kákna varvǿt... 
 mean-while (they) walk...
 fixed (ága, kákna)
 mark (varvǿt, ága)
+za málko go je izkáral na peskáne 
+lit: for little it he brought to the sand
+"in a little while he brought it to the sand"
+fixed(za, málko)
+advmod(za, izkáral)
+
+
+še só platǿt za dvaš i ne za annóš 
+lit: they will be paid for twice and not for once
+"they will be paid twice and not once" 
+fixed(za, dvaš)
+advmod(platǿt, za)
+fixed(za, annóš)
+advmod(platǿt, za)
+
+na ennóš gulémijen puískal da íde da rábuti 
+"at once the big one asked to go to work"
+fixed(na, ennóš)
+advmod(puískal, na)
+~~~ 
+
+<!--
+kadéta vídiš na drúziš múho udrívyj jé 
+"wherever see-you next time (a) fly strike her"
+fixed(na, drúziš)
+advmod(vídiš, na)
+-->
+
+~~~ sdparse
+kakná še stáne pó na sétne     
+lit: what will happen more to later
+"what will happen a little more later"
+fixed(na, sétne)
+advmod(stáne, na)
+
+UP TO THIS POINT
+
+
 
 ad sétno so vídeli óti je matóron ne bul tǽhan  
 afterwards they saw that the motor was not theirs
