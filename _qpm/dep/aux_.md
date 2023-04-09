@@ -8,7 +8,7 @@ shortdef: 'auxiliary'
 
 An [AUX]() (auxiliary) of a clause is a function word associated with a verbal predicate; the auxiliary expresses categories such as tense, mood, aspect, voice or evidentiality. It is often a verb (which may have non-auxiliary uses as well). The [aux]() dependency is established between the verb head and the auxiliary and it is directed from the verb to the auxiliary. 
 
-In Pomak the main auxiliary is the verb *som* "I am", whose various morphological types help form the perfect tenses (Present Perfect, Past Perfect, Future Perfect - both Simple and Continuous, both Active and Passive Voice):
+The main auxiliary of Pomak is the verb *som* "I am", whose various morphological types help form the perfect tenses (Present Perfect, Past Perfect, Future Perfect - both Simple and Continuous, both Active and Passive Voice):
 
 ~~~ sdparse
 fátiho trimína ad Bagladés óti so predávali  pres ádje 
@@ -25,7 +25,7 @@ aux (je, húbbava)
 nsubj (tja, húbbava)
 ~~~
 
-Yet, there are two exceptions, when *som* has the meaning "to exist" and when it functions as an impersonal verb with a clausal subject ; 
+Yet, there are two exceptions, when *som* has the meaning "to exist" and when it functions as an impersonal verb with a clausal subject; 
 in such cases, *som* is assigned the PoS [VERB]() and is considered the head of its clause:
 
 
@@ -45,8 +45,7 @@ root(je)
 csubj(je, rečéš)
 ~~~
 
-Another auxiliary of Pomak is *šom*, most frequently occuring in the type *še* "will";  
-*še*  is used to form the Future Tense (both Simple and Continuous, Active and Passive Voice):
+Another auxiliary of Pomak is *šom*. *še* "will" is it's most frequent type and  is used to form the Future Tense (both Simple and Continuous, Active and Passive Voice):
 
 ~~~ sdparse
 ja še tí dam halvá 
