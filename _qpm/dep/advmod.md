@@ -31,5 +31,6 @@ In the same maner, the indefinite negative particle *nó* or *no* also depends o
 ~~~ sdparse
 inýj so žyváli trimínana brátje nó kólko godíny   
 "thus lived three brothers for unknown years"
+advmod (kólko, nó)
 ~~~ 
 
