@@ -6,27 +6,27 @@ udver: '2'
 ---
 
 
-The relation `fixed` is one of the three tags labeling multiword expressions: It is used for certain fixed grammaticized expressions that behave like function words or short adverbials. Usually fixed multi-word expressions are annotated in a flat structure, where all subsequent words in the expression are attached to the first one, using the label fixed, while they should not have any internal modification: 
+ [fixed]() dependency is one of the three relations used for multiword expressions. More particularly, it  is used for certain fixed grammaticized expressions that behave like function words or short adverbials. Usually fixed multi-word expressions are annotated in a flat structure, where all subsequent words in the expression are attached to the first one, using the label fixed, while they should not have any internal modification: 
    
    
 ~~~ sdparse  
 kakvóto da je,  dójde sas námi  
-whatever the situation, come to us  
 lit: whatever that it is, come with us  
+"whatever the situation, come to us" 
 fixed (kakvóto, da)
 fixed (kakvóto, je)
 ~~~ 
 
 ~~~ sdparse
 kak še da je, meselǽna víka...
-anyhow it will be, the tale says...
 lit: as will-it to be, tale-the says
+"anyhow it will be, the tale says..."
 fixed (kak, še)
 fixed (kak, da)
 fixed (kak, je)
 ~~~ 
 
-However, in Pomak syntactic annotation there are several forms of multiword expressions labeled as fixed, depending on their type and function. Usually, they are all attached directly to the head of the sentence and labeled as fixed, or the fixed dependents are attached in a chain form to the “head” of the phrase, i.e. the first token, which is then attached to the head of the sentence under an other label. These categories either consist of several words or just pairs, even of antonymic significance. There exist also Pomak “compound conjunctions” or rather “prepositional adverb phrases”, which may form a special sub-type of the fixed label, which are attached to the “head” of the phrase in a chain form. Generally, it appears that Pomak multi word epressions may be grouped as following:  
+In the Pomak treebank, there are several forms of multiword expressions labeled as fixed, depending on their type and function. Usually, they are all attached directly to the head of the sentence and labeled as fixed, or the fixed dependents are attached in a chain form to the “head” of the phrase, i.e. the first token, which is then attached to the head of the sentence under an other label. These categories either consist of several words or just pairs, even of antonymic significance. There exist also Pomak “compound conjunctions” or rather “prepositional adverb phrases”, which may form a special sub-type of the fixed label, which are attached to the “head” of the phrase in a chain form. Generally, it appears that Pomak multi word epressions may be grouped as following:  
 
 
 1. Standard many word phrases that function as a unit, which are depended word-by-word directly from the head of the sentence and labeled as fixed:
