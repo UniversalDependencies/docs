@@ -5,7 +5,7 @@ shortdef : 'indirect object'
 udver: '2'
 ---
 
-iobj (indirect object): A nominal phrase core argument of verb but not its subject.
+The [iobj]() dependency holds between the head of a nominal expression and a verb when the expression is a core argument of the predicate but not its subject or direct object. 
 
 ~~~ sdparse
   the police took the car (from him) 
