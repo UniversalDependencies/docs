@@ -49,4 +49,4 @@ lit: pleases to-me old things, nice and stone
 amod(rabaty, stáry)
 conj(stáry, kámatny)
 conj(stáry, kaménøvy)
-~~~ 
+~~~    
