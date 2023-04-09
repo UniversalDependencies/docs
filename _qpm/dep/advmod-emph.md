@@ -6,7 +6,7 @@ udver: '2'
 ---
 
 The [advmod:emph]() tag denotes a sub-relation of [advmod](), which is a special class of adverbial modifiers.
-In Pomak this adverbial modifier is used usually to modify  adjectives, adverbs and numerals:
+In the Pomak corpus, an emphatic adverbial modifier occurs with  adjectives, adverbs and numerals:
 
 ~~~ sdparse
 jálnys irmí dúšy 
