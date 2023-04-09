@@ -6,8 +6,7 @@ udver: '2'
 ---
 
 
- [fixed]() dependency is one of the three relations used for multiword expressions. More particularly, it  is used for certain fixed grammaticized expressions that behave like function words or short adverbials. Usually fixed multi-word expressions are annotated in a flat structure, where all subsequent words in the expression are attached to the first one, using the label fixed, while they should not have any internal modification: 
-   
+The  [fixed]() dependency   is used for certain fixed grammaticized expressions (they can be considered multiword expressions) that behave like function words or short adverbials. Usually fixed multi-word expressions are annotated in a flat structure, where all subsequent words in the expression are attached to the first one with the relation [fixed]().  
    
 ~~~ sdparse  
 kakvóto da je,  dójde sas námi  
@@ -26,58 +25,62 @@ fixed (kak, da)
 fixed (kak, je)
 ~~~ 
 
-In the Pomak treebank, there are several forms of multiword expressions labeled as fixed, depending on their type and function. Usually, they are all attached directly to the head of the sentence and labeled as fixed, or the fixed dependents are attached in a chain form to the “head” of the phrase, i.e. the first token, which is then attached to the head of the sentence under an other label. These categories either consist of several words or just pairs, even of antonymic significance. There exist also Pomak “compound conjunctions” or rather “prepositional adverb phrases”, which may form a special sub-type of the fixed label, which are attached to the “head” of the phrase in a chain form. Generally, it appears that Pomak multi word epressions may be grouped as following:  
+Below, a set of fixed expressions observed in the Pomak treebank are shown: 
+
+<!--In the Pomak treebank, there are several  fixed expressions. Usually, they are  attached directly to the head of the sentence.  There exist also Pomak “compound conjunctions” or rather “prepositional adverb phrases”, which may form a special sub-type of the fixed label, which are attached to the “head” of the phrase in a chain form. Generally, it appears that Pomak multi word epressions may be grouped as following: --> 
 
 
+<!--
 1. Standard many word phrases that function as a unit, which are depended word-by-word directly from the head of the sentence and labeled as fixed:
 
 ~~~ sdparse
 namój da sí gubíš   
-you cannot disappear 
-lit: it is not possible to yourself disappear      
+lit:  not  to yourself disappear   
+"you cannot disappear" 
 fixed (gubíš, namój)
 fixed (gubíš, da) 
 
 stóri mí ennó líra, nimó ma právi rezíl     
-give me one golden pound, so as not to make a fool of me
-lit:  give me one golden pound, so as not to of myself make fool     
+lit:  give me one golden pound, so as not to of myself make fool  
+"give me one golden pound, so as not to make a fool of me"
 fixed (právi, nimó)                    note: “nimó” is a dialectic variant of “namój”
 fixed (právi, ma)                
 ~~~ 
 
+-->
 
-2. Standard many word phrases that function as a unit, or lexicalized multi word expressions even of antonymic significance that consist a pair, which are depended in a chain form word-by-word from the “head” of the fixed phrase, i.e. the first token, which, in its turn, is depended from the head of the sentence and labeled under various relations:
+<!--2. Standard many word phrases that function as a unit, or lexicalized multi word expressions even of antonymic significance that consist a pair, which are depended in a chain form word-by-word from the “head” of the fixed phrase, i.e. the first token, which, in its turn, is depended from the head of the sentence and labeled under various relations:-->
 
 ~~~ sdparse
 íšte na íšte astáve gi faf kavenǿno 
-willing or not willing he leaves them at the café
+"willing or not willing he leaves them at the café"
 advmod (astáve, íšte)
-fixed (íšte, na)     
-fixed (íšte, íšte)                        
+fixed(íšte, na)     
+fixed(íšte, íšte)                        
 
-kaná so razhóždaš nacýj - nasám ?  
-why do you stroll back and forth ? 
-lit: what yourself stroll that way - this way ?
-advmod (razhóždaš, nacýj)
-fixed (nacýj, nasám)
+kaná so razhóždaš nacýj - nasám?  
+lit: what yourself stroll that way - this way?
+"why do you stroll back and forth?" 
+advmod(razhóždaš, nacýj)
+fixed(nacýj, nasám)
 
  
 na ennóš i ennó vréme enná májka iméšo ennó déte
-once upon a time a mother had a child
 lit: in once and one time a mother had a child
-fixed (na, ennóš)
-fixed (ennóš, i)
-fixed (i, ennó)
-fixed (ennó, vréme)
-advmod (iméšo, na)
+"once upon a time a mother had a child"
+fixed(na, ennóš)
+fixed(ennóš, i)
+fixed(i, ennó)
+fixed(ennó, vréme)
+advmod(iméšo, na)
 
 bir vakýt bir zamán imǽl je adín čülǽk 
-once upon a time there was a man 
 lit: one time one era has been a man
-fixed (bir, zamán)
-fixed (bir, bir) 
-fixed (bir, vakýt)
-advmod (imǽl, bir)
+"once upon a time there was a man" 
+fixed(bir, zamán)
+fixed(bir, bir) 
+fixed(bir, vakýt)
+advmod(imǽl, bir)
 
 bir kač gün sétne umrǽla sí je annómu čulǽku žanána 
 several days later died a man's wife 
@@ -94,37 +97,35 @@ fixed (bir, kač)
 fixed (bir, déne)
 fixed (bir, sétne)
 advmod (tornála, bir)
-~~~ 
 
-
-3. Standard many word phrases that function as a unit, or lexicalaized multi word epressions even of antonymic significance that consist a pair, which are depended word-by-word from the token, they define and labeled under various relations:
-
-~~~ sdparse
 je imǽlo 60 vodeníce nadól nagóre  
-there have been 60 water-mills more or less 
 lit: there have been 60 water-mils up and down
-advmod (60, nadól)
-fixed (nadól, nagóre)  
+"there have been 60 water-mills more or less" 
+advmod(60, nadól)
+fixed(nadól, nagóre)  
      
-je imǽl faf tóga za pródan tütǘne  
-he had on him tobacco for selling                           
+<!--je imǽl faf tóga za pródan tütǘne
 lit: (he) has had on him for selling tobacco
+"he had on him tobacco for selling"                           
 fixed (za, pródan)
 obl (tütǘne, za)
+-->
 
 mú dadót bir kač mésecy 
-they give him several months / 
 lit: (they) to him give one how-much months
+"they give him several months" 
 fixed (bir, kač)
 advmod (mésecy, bir)
 obl:tmod (dadót, mésecy)
 
+<!--
 to rábatøt éšte bir kač godíny 
-they work even several years
-lit: the work even one how-many yeras
+lit: they work even one how-many years
+"they work even several years"
 fixed (bir, kač)
 advmod (godíny, bir)
 obl:tmod (rábatot, godíny)
+-->
 ~~~ 
 
 4. In pomak there also exist a category (that could be considered as a sub-type of the latter above), which functions as “prepositional adverb phrases”, consisting of two or more tokens that function as a unit. When they form a pair, they may include an adposition, an adjunction, an adverb, or even a pronoun; there is also a rare case, where the pair consists of two adpositions. When they form multi word units, they usually include an adposition and several adjunctions or adverbs. Such units usually are labeled as mark to the head of the sentence (whereas a pair of adpositions is labeled as case to the dependent nominal), while the consisting words are labeled in a chain mode as fixed to the “head” of the complex, i.e the first token. The most often used such complexes are the following:
