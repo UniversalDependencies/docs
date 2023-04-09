@@ -5,7 +5,7 @@ shortdef : 'passive auxiliary'
 udver: '2'
 ---
 
-In the Pomak treebank, the [aux:pass]()(auxialiary passive) dependency connects the auxiliary verb *som* "I am" with the verb head when the former is used to construct the periphrastic passive voice, in any tense:
+In the Pomak treebank, the [aux:pass]() (auxialiary passive) dependency connects the auxiliary verb *som* "I am" with the verb head of the clause when the former is used to construct the periphrastic passive voice, in any tense:
 
 ~~~ sdparse
 prebrajího so vrit réhyse faf Ksánti 
