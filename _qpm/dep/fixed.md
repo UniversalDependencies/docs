@@ -50,7 +50,7 @@ fixed (právi, ma)
 -->
 
 
-1. Fixed multiword phrases that function as a unit and  depend on the head of the sentence with the [advmod]() dependency:
+1. Fixed multiword phrases that function as a unit and  depend  with the [advmod]() dependency on a verb or an adjective:
 
 ~~~ sdparse
 íšte na íšte astáve gi faf kavenǿno 
@@ -98,22 +98,16 @@ fixed(bir, déne)
 fixed(bir, sétne)
 advmod(tornála, bir)
 
-je imǽlo 60 vodeníce nadól nagóre  
-lit: there have been 60 water-mils up and down
-"there have been 60 water-mills more or less" 
-fixed(nadól, nagóre) 
-advmod(60, nadól)
-
 i at 'tám nacýj i bángana daržý parýne éšte dva déne 
 lit: and from there onwards and bank-the keeps money-the more two days
 "and from then on and the bank keeps the money an other two days" 
-fixed(at, 'tam)                          note: *'tam* is a colloquial form of *itam*
+fixed(at, 'tam)                          note: “'tam” is a colloquial form of “itam”
 fixed(at, nacýj)
 advmod(daržý, at)    
 
 béki víkaš ta si da 'tam kuvvetlí?  
 "maybe you say that you are so much strong?" 
-fixed(da, 'tam)                        note: *'tam* is a colloquial form of *itam*
+fixed(da, 'tam)                          note: “'tam” is a colloquial form of “itam”
 advmod(kuvvetlí, da)   
 
 blíze pa itám je žyvál adín čulǽček  
@@ -122,41 +116,97 @@ fixed(blíze, pa)
 fixed(blíze, itám)
 advmod(žyvál, blíze)     
 
-togáva ofčéren sa je vórnol blíze pri ofcéne 
-"then the sheppard returned near by the sheep" 
-fixed(blíze, pri)
-advmod(ofcéne, blíze)
-obl(vórnol, ofcéne)      
-
-A be, Ahmét, ty še pánneš at 'túka
-"Oh, Ahmet, you will fall from there"
-fixed(at, 'túka)                       note: *'túka* is the colloquial form of *itúka*
-obl:arg(pánneš, at)    
 
 pódila je nah kadéna tíje  
-she went towards them 
 lit: went-she to some place them 
+"she went towards them" 
 fixed(nah, kadéna)     
 advmod(pódila, nah)
 
 sas tüfékane ódi na ávo etám blíze do zmijójne kóšono  
-with his gun he went hunting there near the serpent's house 
 lit: with gun-the went-he to hunt there near to serpent's house-the
-fixed(etám, blíze)     note: “etám” is a dialectic variant of “itám”
+"with his gun he went hunting there near the serpent's house" 
+fixed(etám, blíze)                      note: "etám” is a dialectic variant of "itám”
 case(kóšono, do) 
 advmod(kóšono, etám)
 
 podíla je mífko pó itám blíze do kópeløtu kóštono 
 lit: went-she a-little more there near to boy's home-the
 "she went a little more near towards the boy's home" 
-
 advmod(mífko, pó)
 advmod(pó, itám)
 fixed(itám, blíze)
 case(kóštono, do)
+
+A be, Ahmét, ty še pánneš at 'túka
+"Oh, Ahmet, you will fall from there"
+fixed(at, 'túka)                       note: "'túka” is the colloquial form of "itúka”
+obl:arg(pánneš, at)    
+
+kadéta vídiš na drúziš múho udrívyj jé 
+"wherever see-you next time (a) fly strike it"
+fixed(na, drúziš)
+advmod(vídiš, na)
+
+ága kákna varvǿt... 
+"meanwhile (they) walk..."
+fixed(ága, kákna)
+mark(varvǿt, ága)
+
+za málko go je izkáral na peskáne 
+lit: for little it he brought to the sand
+"in a little while he brought it to the sand"
+fixed(za, málko)
+advmod(za, izkáral)
+
+še só platǿt za dvaš i ne za annóš 
+lit: they will be paid for twice and not for once
+"they will be paid twice and not once" 
+fixed(za, dvaš)
+advmod(platǿt, za)
+fixed(za, annóš)
+advmod(platǿt, za)
+
+na ennóš gulémijen puískal da íde da rábuti 
+"at once the big one asked to go to work"
+fixed(na, ennóš)
+advmod(puískal, na)
+
+kakná še stáne pó na sétne     
+lit: what will happen more to later
+"what will happen a little more later"
+fixed(na, sétne)
+advmod(stáne, na)
+
+ad sétno so vídeli óti je matóron ne bul tǽhan  
+"afterwards they saw that the motor was not theirs"
+fixed(ad, sétno)
+advmod(vídeli, ad)
+
+só naučíme ad blísko kólko i kakvý rábaty izlízot faf Tráki 
+"we learn near by how many and which products are produced in Thrace"
+fixed(ad, blísko)
+advmod(naučíme, ad)
+
+ad kadé uméme da gi kupóvame
+lit: from where can-we them-to buy
+"where from can we buy them"
+fixed(ad, kadé)
+advmod(uméme, ad)
+
+paminól je inagáne prez 'tam 
+lit: passed-he then from there
+"he then passed from that place"
+fixed(prez, 'tám)                      note: “'tam” is a colloquial form of “itam”
+advmod(paminól, prez)
+
+izlél je ut ajtám  
+"he came out for there"    
+fixed(ut, ajtám)                       note: “ajtám” and “ut” are dialectic forms for “itám” and “at”
+advmod (izlél, ut)
 ~~~
      
-2. Fixed phrases that function as adverbials with nominals.
+2. Fixed phrases that function as adverbials with nominals and numerals.
 
 ~~~ sdparse
 mú dadót bir kač mésecy 
@@ -172,6 +222,19 @@ lit: they work even one how-many years
 fixed(bir, kač)
 advmod(godíny, bir)
 obl:tmod(rábatot, godíny)
+
+je imǽlo 60 vodeníce nadól nagóre  
+lit: there have been 60 water-mils up and down
+"there have been 60 water-mills more or less" 
+nsubj(imǽlo, vodeníce)
+fixed(nadól, nagóre) 
+advmod(60, nadól)
+
+togáva ofčéren sa je vórnol blíze pri ofcéne 
+"then the sheppard returned near by the sheep" 
+fixed(blíze, pri)
+advmod(ofcéne, blíze)
+obl(vórnol, ofcéne)      
 ~~~ 
 
 3. Certain fixed expressions get into the [mark]() relation  with a predicate:
@@ -232,80 +295,11 @@ mark(smračí, dur)
 ~~~ 
 
 
-~~~ sdparse
-ága kákna varvǿt... 
-mean-while (they) walk...
-fixed (ága, kákna)
-mark (varvǿt, ága)
-za málko go je izkáral na peskáne 
-lit: for little it he brought to the sand
-"in a little while he brought it to the sand"
-fixed(za, málko)
-advmod(za, izkáral)
-
-
-še só platǿt za dvaš i ne za annóš 
-lit: they will be paid for twice and not for once
-"they will be paid twice and not once" 
-fixed(za, dvaš)
-advmod(platǿt, za)
-fixed(za, annóš)
-advmod(platǿt, za)
-
-na ennóš gulémijen puískal da íde da rábuti 
-"at once the big one asked to go to work"
-fixed(na, ennóš)
-advmod(puískal, na)
-~~~ 
-
-<!--
-kadéta vídiš na drúziš múho udrívyj jé 
-"wherever see-you next time (a) fly strike her"
-fixed(na, drúziš)
-advmod(vídiš, na)
--->
-
-~~~ sdparse
-kakná še stáne pó na sétne     
-lit: what will happen more to later
-"what will happen a little more later"
-fixed(na, sétne)
-advmod(stáne, na)
-
-UP TO THIS POINT
 
 
 
-ad sétno so vídeli óti je matóron ne bul tǽhan  
-afterwards they saw that the motor was not theirs
-fixed (ad, sétno)
-advmod (vídeli, ad)
-
-só naučíme ad blísko kólko i kakvý rábaty izlízot faf Tráki 
-we learn near by how much and what products are produced in Thrace
-fixed (ad, blísko)
-advmod (naučíme, ad)
-
-ad kadé uméme da gi kupóvame
-where from can we buy them
-lit: from where can-we them-to buy
-fixed (ad, kadé)
-advmod (uméme, ad)
-
-paminól je inagáne prez 'tam 
-he then passed from that place
-lit: passed-he then from there
-fixed (prez, 'tám)      note: “ 'tam” is a colloquial form of “itam”
-advmod (paminól, prez)
-
-izlél je ut ajtám  
-he came out for there    
-fixed (ut, ajtám)      note: “ajtám” and “ut” are dialectic forms for “itám” and “at”
-advmod (izlél, ut)
 
 
-
-HERENEW
 <!--
 je imǽl faf tóga za pródan tütǘne
 lit: (he) has had on him for selling tobacco
