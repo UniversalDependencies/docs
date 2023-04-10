@@ -9,25 +9,25 @@ The [obj]() dependency (object) is used to relate the second core argument of a 
 
 ~~~ sdparse
 žíne ímot isók zejtíne 
-those who have this oil
-obj (ímot, zejtíne)   note:  “zejtíne” is in accusative case
+"those who have this oil"
+obj(ímot, zejtíne)   note:  “zejtíne” is in accusative case
 ~~~
 
 In Pomak the object is predominantly in the accusative case. Certain verbs select objects in the genitive/dative case:
 
 ~~~ sdparse
 sélana zǿli da pamógnat mómajne i kópeløtune 
-the villagers started to help the girl and the boy
-obj (pamógnat, mómajne)                note:   “mómajne” is in genetive/dative case
-obj (pamógnat, kópeløune)              note:   “kópeløtune” is in genetive/dative case
-conj (mómajne, kópeløtune)
-cc (mómajne, i)
+"the villagers started to help the girl and the boy"
+obj(pamógnat, mómajne)                note:   *mómajne* is in genetive/dative case
+obj(pamógnat, kópeløune)              note:   *kópeløtune* is in genetive/dative case
+conj(mómajne, kópeløtune)
+cc(mómajne, i)
 ~~~
 
 Do note that indirect objects are marked with the [iobj]() dependency and are always marked with the genetive/dative case: 
 ~~~ sdparse
 daj mómajne parý 
-give  the girl money  
-obj (daj, parý)  note:   “parý” is in accusative case
-iobj (daj, mómajne) note:   “mómajne” is in genetive/dative case 
+"give the girl money"  
+obj(daj, parý)     note:   *parý* is in accusative case
+iobj(daj, mómajne) note:   *mómajne* is in genetive/dative case 
 ~~~
