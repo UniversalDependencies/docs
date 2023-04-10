@@ -11,6 +11,6 @@ The [nummod]() dependency (numeric modifier of a noun) is any number phrase that
 faf tóga so našlíli tri kompjúter 
 lit: on him were found three computers   
 "they found three computers on him" 
-nummod (kompjúter, tri) 
+nummod(kompjúter, tri) 
 ~~~
 
