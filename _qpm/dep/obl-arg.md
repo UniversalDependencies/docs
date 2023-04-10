@@ -6,7 +6,7 @@ udver: '2'
 ---
 
 
-The [obl:arg]() dependency (oblique argument)  is used to distinguish clear oblique arguments from adjuncts for which the plain [obl]() dependency is used. 
+The [obl:arg]() dependency (oblique argument)  is used to distinguish clearly oblique arguments from adjuncts for which the plain [obl]() dependency is used. 
 
 In the Pomak treebank, an oblique argument seems to semantically function as  an object that, however, is expressed with a prepositional phrase:
 
