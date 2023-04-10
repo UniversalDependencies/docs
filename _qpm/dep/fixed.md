@@ -6,7 +6,7 @@ udver: '2'
 ---
 
 
-The  [fixed]() dependency   is used for certain fixed grammaticized expressions (they can be considered multiword expressions) that behave like function words or short adverbials. Usually fixed multi-word expressions are annotated in a flat structure, where all subsequent words in the expression are attached to the first one with the relation [fixed]().  
+The  [fixed]() dependency   is used for certain fixed grammaticized expressions (they can be considered multiword expressions) that behave like function words or short adverbials. Fixed multi-word expressions are annotated in a flat structure, where all subsequent words in the expression are attached to the first one with the relation [fixed]().  
    
 ~~~ sdparse  
 kakvóto da je,  dójde sas námi  
@@ -30,9 +30,8 @@ Below, a set of fixed expressions observed in the Pomak treebank are listed:
 <!--In the Pomak treebank, there are several  fixed expressions. Usually, they are  attached directly to the head of the sentence.  There exist also Pomak “compound conjunctions” or rather “prepositional adverb phrases”, which may form a special sub-type of the fixed label, which are attached to the “head” of the phrase in a chain form. Generally, it appears that Pomak multi word epressions may be grouped as following: --> 
 
 
-<!--
-1. Standard many word phrases that function as a unit, which are depended word-by-word directly from the head of the sentence and labeled as fixed:
 
+<!--
 ~~~ sdparse
 namój da sí gubíš   
 lit:  not  to yourself disappear   
@@ -47,23 +46,24 @@ fixed (právi, nimó)                    note: “nimó” is a dialectic varian
 fixed (právi, ma)                
 ~~~ 
 
+2. Standard many word phrases that function as a unit, or lexicalized multi word expressions even of antonymic significance that consist a pair, which are depended in a chain form word-by-word from the “head” of the fixed phrase, i.e. the first token, which, in its turn, is depended from the head of the sentence and labeled under various relations:
 -->
 
-<!--2. Standard many word phrases that function as a unit, or lexicalized multi word expressions even of antonymic significance that consist a pair, which are depended in a chain form word-by-word from the “head” of the fixed phrase, i.e. the first token, which, in its turn, is depended from the head of the sentence and labeled under various relations:-->
+
+1. Fixed multiword phrases that function as a unit and  depend on the head of the sentence with the [advmod]() dependency:
 
 ~~~ sdparse
 íšte na íšte astáve gi faf kavenǿno 
 "willing or not willing he leaves them at the café"
-advmod (astáve, íšte)
 fixed(íšte, na)     
 fixed(íšte, íšte)                        
+advmod(astáve, íšte)
 
 kaná so razhóždaš nacýj - nasám?  
 lit: what yourself stroll that way - this way?
 "why do you stroll back and forth?" 
-advmod(razhóždaš, nacýj)
 fixed(nacýj, nasám)
-
+advmod(razhóždaš, nacýj)
  
 na ennóš i ennó vréme enná májka iméšo ennó déte
 lit: in once and one time a mother had a child
@@ -83,35 +83,80 @@ fixed(bir, vakýt)
 advmod(imǽl, bir)
 
 bir kač gün sétne umrǽla sí je annómu čulǽku žanána 
-several days later died a man's wife 
 lit: one how-many day later died a man's wife
-fixed (bir, kač)
-fixed (bir, gün)
-fixed (bir, sétne)
-advmod (umrǽla, bir)
+"several days later died a man's wife" 
+fixed(bir, kač)
+fixed(bir, gün)
+fixed(bir, sétne)
+advmod(umrǽla, bir)
 
 bir kač déne sétno tórnala je za na hárpane 
-several days later she set off to war 
 lit: one how-many days later she has started for to war-the
-fixed (bir, kač)
-fixed (bir, déne)
-fixed (bir, sétne)
-advmod (tornála, bir)
+"several days later she set off to war" 
+fixed(bir, kač)
+fixed(bir, déne)
+fixed(bir, sétne)
+advmod(tornála, bir)
 
 je imǽlo 60 vodeníce nadól nagóre  
 lit: there have been 60 water-mils up and down
 "there have been 60 water-mills more or less" 
-advmod(60, nadól)
 fixed(nadól, nagóre) 
-~~~ 
+advmod(60, nadól)
+
+i at 'tám nacýj i bángana daržý parýne éšte dva déne 
+lit: and from there onwards and bank-the keeps money-the more two days
+"and from then on and the bank keeps the money an other two days" 
+fixed(at, 'tam)                          note: *'tam* is a colloquial form of *itam*
+fixed(at, nacýj)
+advmod(daržý, at)    
+
+béki víkaš ta si da 'tam kuvvetlí?  
+"maybe you say that you are so much strong?" 
+fixed(da, 'tam)                        note: *'tam* is a colloquial form of *itam*
+advmod(kuvvetlí, da)   
+
+blíze pa itám je žyvál adín čulǽček  
+"somewhere near there, lived a man"
+fixed(blíze, pa)
+fixed(blíze, itám)
+advmod(žyvál, blíze)     
+
+togáva ofčéren sa je vórnol blíze pri ofcéne 
+"then the sheppard returned near by the sheep" 
+fixed(blíze, pri)
+advmod(ofcéne, blíze)
+obl(vórnol, ofcéne)      
+
+A be, Ahmét, ty še pánneš at 'túka
+"Oh, Ahmet, you will fall from there"
+fixed(at, 'túka)                       note: *'túka* is the colloquial form of *itúka*
+obl:arg(pánneš, at)    
+
+pódila je nah kadéna tíje  
+she went towards them 
+lit: went-she to some place them 
+fixed(nah, kadéna)     
+advmod(pódila, nah)
+
+sas tüfékane ódi na ávo etám blíze do zmijójne kóšono  
+with his gun he went hunting there near the serpent's house 
+lit: with gun-the went-he to hunt there near to serpent's house-the
+fixed(etám, blíze)     note: “etám” is a dialectic variant of “itám”
+case(kóšono, do) 
+advmod(kóšono, etám)
+
+podíla je mífko pó itám blíze do kópeløtu kóštono 
+lit: went-she a-little more there near to boy's home-the
+"she went a little more near towards the boy's home" 
+
+advmod(mífko, pó)
+advmod(pó, itám)
+fixed(itám, blíze)
+case(kóštono, do)
+~~~
      
-<!--
-je imǽl faf tóga za pródan tütǘne
-lit: (he) has had on him for selling tobacco
-"he had on him tobacco for selling"                           
-fixed(za, pródan)
-obl(tütǘne, za)
--->
+2. Fixed phrases that function as adverbials with nominals.
 
 ~~~ sdparse
 mú dadót bir kač mésecy 
@@ -120,17 +165,16 @@ lit: (they) to him give one how-much months
 fixed(bir, kač)
 advmod(mésecy, bir)
 obl:tmod(dadót, mésecy)
-~~~ 
-<!--
+
 to rábatøt éšte bir kač godíny 
 lit: they work even one how-many years
 "they work even several years"
 fixed(bir, kač)
 advmod(godíny, bir)
 obl:tmod(rábatot, godíny)
--->
+~~~ 
 
-Certain fixed expressions depend on a predicate with the [mark]() dependency:
+3. Certain fixed expressions get into the [mark]() relation  with a predicate:
 
 
 ~~~ sdparse
@@ -153,39 +197,38 @@ fixed(za, to)
 mark(víkot, za)
 
 óti da so na predáva? 
-what for it is not sold? 
 lit: why to itself not sold?
-fixed (óti, da)
-mark (predáva, óti)
+"what for it is not sold? 
+fixed(óti, da)
+mark(predáva, óti)
 
 ága da atvóri vratána...  
-instead of opening the door... 
 lit: instead to open the door...
-fixed (ága, da)
-mark (atvóri, ága)
+"instead of opening the door..." 
+fixed(ága, da)
+mark(atvóri, ága)
 
 mečkána, bez da paglé čulǽkane.... 
-the bear, without looking at man-the...
-fixed (bez, da)
-mark (paglé, bez)
+"the bear, without looking at man-the..."
+fixe(bez, da)
+mark(paglé, bez)
 
 da tó je ne strah ad hajvánkovete mi!  
-so as not to have fear of my annimals !
+""so as not to have fear of my annimals !
 fixed (da, to)
 mark (strah, da)
 
 durgá da mú só navóršot denéne 
-until his days are completed 
 lit: till to him-to himself complete days-the
-fixed (durgá, da)
-mark (navóršot, durgá)
+"until his days are completed" 
+fixed(durgá, da)
+mark(navóršot, durgá)
 
 na púsna jé dur durgá da só smračí 
-he did not liberate her until it got dark
-lit: not liberate her before till to darkens-it
-fixed (dur,durgá)
-fixed (dur, da)
-mark (smračí, dur)
+"he did not liberate her until it got dark"
+fixed(dur,durgá)
+fixed(dur, da)
+mark(smračí, dur)
 ~~~ 
 
 
@@ -260,55 +303,13 @@ he came out for there
 fixed (ut, ajtám)      note: “ajtám” and “ut” are dialectic forms for “itám” and “at”
 advmod (izlél, ut)
 
-i at 'tám nacýj i bángana daržý parýne éšte dva déne 
-and from then on and the bank keeps the money an other two days  
-lit: and from there onwards and bank-the keeps money-the more two days
-fixed (at, 'tam)                          note: “ 'tam” is a colloquial form of “itam”
-fixed (at, nacýj)
-advmod (daržý, at)    
-
-béki víkaš ta si da 'tam kuvvetlí?  
-maybe you say that you are so much strong? 
-fixed (da, 'tam)     note: “ 'tam” is a colloquial form of “itam”
-advmod (kuvvetlí, da)   
-
-blíze pa itám je žyvál adín čulǽček  
-somewhere near there, lived a man
-fixed (blíze, pa)
-fixed (blíze, itám)
-advmod (žyvál, blíze)     
-
-togáva ofčéren sa je vórnol blíze pri ofcéne 
-then the sheppard returned near by the sheep 
-fixed (blíze, pri)
-advmod (ofcéne, blíze)
-obl (vórnol, ofcéne)      
-
-«A be, Ahmét, ty še pánneš at 'túka» 
-“Oh, Ahmet, you will fall from there”
-fixed (at, 'túka)        note: “ 'túka” is the colloquial form of “itúka”
-obl:arg (pánneš, at)    
-
-pódila je nah kadéna tíje  
-she went towards them 
-lit: went-she to some place them 
-fixed (nah, kadéna)     
-advmod (pódila, nah)
-
-sas tüfékane ódi na ávo etám blíze do zmijójne kóšono  
-with his gun he went hunting there near the serpent's house 
-lit: with gun-the went-he to hunt there near to serpent's house-the
-fixed (etám, blíze)     note: “etám” is a dialectic variant of “itám”
-case (kóšono, do) 
-advmod (kóšono, etám)
-
-podíla je mífko pó itám blíze do kópeløtu kóštono 
-she went a little more near towards the boy's home 
-lit: went-she a-little more there near to boy's home-the
-advmod (mífko, pó)
-advmod (pó, itám)
-fixed (itám, blíze)
-case (kóštono, do)
-~~~
 
 
+HERENEW
+<!--
+je imǽl faf tóga za pródan tütǘne
+lit: (he) has had on him for selling tobacco
+"he had on him tobacco for selling"                           
+fixed(za, pródan)
+obl(tütǘne, za)
+-->
