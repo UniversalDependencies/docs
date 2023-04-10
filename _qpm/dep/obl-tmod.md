@@ -5,11 +5,11 @@ shortdef: 'temporal oblique argument'
 udver: '2'
 ---
 
-The label `obl:tmod` (temporal modifier), a sub-type of oblique obl, is used when the modifier is specifying a time:
+The [obl:tmod]() dependency (temporal modifier), a sub-type of the [obl]() dependency, is used for a modifier that specifies a time:
 
 ~~~ sdparse
 korf še zbírot faf Srǽdo
-they will be gathering blood on Wednesday
 lit: blood will be-gathering-they on Wednesday
-obl:tmod (zbírot, Srǽdo)
+"they will be gathering blood on Wednesday"
+obl:tmod(zbírot, Srǽdo)
 ~~~
