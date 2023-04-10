@@ -10,5 +10,5 @@ The [vocative]() dependency (vocative) is used to mark a dialogue participant ad
 ~~~ sdparse
 Ahmét, kakná íma na drúgono düņó?  
 "Ahmet, what exists in the other world?"       
-vocative (íma, Ahmét)
+vocative(íma, Ahmét)
 ~~~ 
