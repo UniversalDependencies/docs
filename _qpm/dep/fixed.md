@@ -141,17 +141,12 @@ case(kóštono, do)
 A be, Ahmét, ty še pánneš at 'túka
 "Oh, Ahmet, you will fall from there"
 fixed(at, 'túka)                       note: "'túka” is the colloquial form of "itúka”
-obl:arg(pánneš, at)    
+advmod(pánneš, at)    
 
 kadéta vídiš na drúziš múho udrívyj jé 
 "wherever see-you next time (a) fly strike it"
 fixed(na, drúziš)
 advmod(vídiš, na)
-
-ága kákna varvǿt... 
-"meanwhile (they) walk..."
-fixed(ága, kákna)
-mark(varvǿt, ága)
 
 za málko go je izkáral na peskáne 
 lit: for little it he brought to the sand
@@ -241,17 +236,16 @@ obl(vórnol, ofcéne)
 
 
 ~~~ sdparse
+ága kákna varvǿt... 
+"meanwhile (they) walk..."
+fixed(ága, kákna)
+mark(varvǿt, ága)
+
 za da idéme na denízane
 lit: for to go to sea-the
 "in order for us to go to the sea" 
 fixed(za, da)
 mark(idéme, za)
-
-tórnala je za na hárpane                                               
-lit: has-she started for to war-the
-"she has set off to war"   
-fixed(za, na)
-case(hárpene, za)
 
 za to anní víkot ....
 lit: for that some say...
@@ -294,16 +288,16 @@ fixed(dur, da)
 mark(smračí, dur)
 ~~~ 
 
-
-
-
-
-
-
 <!--
 je imǽl faf tóga za pródan tütǘne
 lit: (he) has had on him for selling tobacco
 "he had on him tobacco for selling"                           
 fixed(za, pródan)
 obl(tütǘne, za)
+
+tórnala je za na hárpane                                               
+lit: has-she started for to war-the
+"she has set off to war"   
+fixed(za, na)
+case(hárpene, za)
 -->
