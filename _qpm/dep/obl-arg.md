@@ -6,11 +6,16 @@ udver: '2'
 ---
 
 
-The sub-type relation named oblique argument `obl:arg` is used to distinguish them from adjuncts, which use the plain obl relation. In Pomak annotating, an oblique argument seems to bare the semantic notion of an object, which is expressed by prepositional phrases in accusative case:
+The [obl:arg]() dependency (oblique argument)  is used to distinguish clear oblique arguments from adjuncts for which the plain [obl]() dependency is used. 
+
+In the Pomak treebank, an oblique argument seems to semantically function as  an object that, however, is expressed with a prepositional phrase:
 
 ~~~ sdparse
 gǘvendisom so na mókse bráta 
-I rely on my brother 
 lit: rely-I  myself  on by-me brother-the
+"I rely on my brother" 
 obl:arg (gǘvendisom, bráta)  
 ~~~ 
+
+
+
