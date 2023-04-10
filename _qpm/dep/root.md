@@ -21,8 +21,8 @@ Copula constructions have been discussed in [cop]():
 ~~~ sdparse
 magáreno je stáro 
 "the donkey is old"
-root (stáro)
-nsubj (stáro, magáreno)     
+root(stáro)
+nsubj(stáro, magáreno)     
 ~~~ 
 
 If the main predicate is not present (due to ellipsis) and there are multiple orphaned dependents, 
