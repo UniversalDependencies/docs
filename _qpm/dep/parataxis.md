@@ -45,7 +45,7 @@ In the Pomak treebank, [parataxis]()  has also been used to mark the narrating p
 ~~~ sdparse
 Jurké : Ne préče mí játse da sme nannó ! 
 Yurke: It does not matter to be together!
-parataxis (préče, Jurké)
+parataxis(préče, Jurké)
 ~~~
 
 
