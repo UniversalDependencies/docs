@@ -11,5 +11,5 @@ The [nsubj:pass]() dependency (passive nominal subject) is used to express the r
 zatvóren je poten 
 the road is closed 
 lit:  closed is road-the   
-nsubj:pass (zatvóren, póten)
+nsubj:pass(zatvóren, póten)
 ~~~
