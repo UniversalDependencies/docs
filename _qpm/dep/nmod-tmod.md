@@ -11,7 +11,7 @@ The [nmod:tmod]() dependency is used for temporal nominal modifiers of another n
 kládaho gi faf Četfórtak ad pláden 
 lit: were-they placing them on Thursday at noon
 "they were placing them on Thursday at  noon" 
-nmod:tmod (Četfórtak, pláden)     
+nmod:tmod(Četfórtak, pláden)     
 ~~~ 
          
 <!--
