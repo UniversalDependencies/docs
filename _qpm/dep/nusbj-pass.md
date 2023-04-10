@@ -5,7 +5,7 @@ shortdef : 'passive nominal subject'
 udver: '2'
 ---
 
-The label passive nominal subject nsubj:pass refers to a noun phrase which is the syntactic subject of a passive verb or a passive clause:
+The [nsubj:pass]() dependency (passive nominal subject) is used to express the relation of a noun phrase which is the syntactic subject of a passive verb:
 
 ~~~ sdparse
 zatvóren je poten 
