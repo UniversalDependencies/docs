@@ -9,12 +9,12 @@ The [nsubj]() dependency (nominal subject) is used to express the relation of a 
 
 ~~~ sdparse
 astinomíjeta fáti annók čulǽka 
-the police caught a man                              
-nsubj (fáti, astinomíjeta)
+"the police caught a man"                              
+nsubj(fáti, astinomíjeta)
 ~~~
 
 ~~~ sdparse
 žíne ímot isók zejtíne
-those.who have this oil                       
-nsubj (ímot, žíne)
+"those.who have this oil"                       
+nsubj(ímot, žíne)
 ~~~ 
