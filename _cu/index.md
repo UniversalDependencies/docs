@@ -82,7 +82,7 @@ udver: '2'
 
 ### Relations Overview
 
-* The following relation subtypes are used in Gothic:
+* The following relation subtypes are used in Old Church Slavonic:
   * [nsubj:pass]() for nominal subjects of passive verbs
   * [csubj:pass]() for clausal subjects of passive verbs
   * [obl:agent]() for agents of passive verbs
