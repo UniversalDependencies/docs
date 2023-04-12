@@ -146,12 +146,12 @@ udver: '2'
 ~~~conllu
 # text = Jorge mató al dragón.
 # text_en = George killed the dragon.
-1	Jorge	Jorge	PROPN	_	Gender=Masc|Number=Sing	2	nsubj	_	_
-2	mató	matar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+1	Jorge	Jorge	PROPN	_	Gender=Masc|Number=Sing	2	nsubj	_	Gloss=George
+2	mató	matar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=killed
 3-4	al	_	_	_	_	_	_	_	_
-3	a	a	ADP	_	_	5	case	_	_
-4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
-5	dragón	dragón	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	SpaceAfter=No
+3	a	a	ADP	_	_	5	case	_	Gloss=to
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Gloss=the
+5	dragón	dragón	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	Gloss=dragon|SpaceAfter=No
 6	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
@@ -159,9 +159,9 @@ udver: '2'
 ~~~conllu
 # text = Jorge lo mató.
 # text_en = George killed it.
-1	Jorge	Jorge	PROPN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
-2	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
-3	mató	matar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+1	Jorge	Jorge	PROPN	_	Gender=Masc|Number=Sing	3	nsubj	_	Gloss=George
+2	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	Gloss=him
+3	mató	matar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=killed|SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
@@ -169,12 +169,12 @@ udver: '2'
 ~~~conllu
 # text = El límite sur lo forma la costa.
 # text_en = The southern border is formed by the coast.
-1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
-2	límite	límite	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_
-3	sur	sur	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
-4	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
-5	forma	formar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Gloss=the
+2	límite	límite	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	Gloss=border
+3	sur	sur	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	Gloss=south
+4	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	Gloss=him
+5	forma	formar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=forms|SpaceAfter=No
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	Gloss=coast
 7	costa	costa	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	5	punct	_	_
 
@@ -183,15 +183,15 @@ udver: '2'
 ~~~conllu
 # text = Mi padre no alquilará su tierra a los irlandeses.
 # text_en = My father won't rent his land to the Irish.
-1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
-2	padre	padre	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
-3	no	no	PART	_	Polarity=Neg	4	advmod	_	_
-4	alquilará	alquilar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
-5	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	det	_	_
-6	tierra	tierra	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
-7	a	a	ADP	_	_	9	case	_	_
-8	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
-9	irlandeses	irlandés	NOUN	_	Gender=Masc|Number=Plur	4	obl:arg	_	SpaceAfter=No
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	Gloss=my
+2	padre	padre	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	Gloss=father
+3	no	no	PART	_	Polarity=Neg	4	advmod	_	Gloss=not
+4	alquilará	alquilar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	Gloss=will.rent
+5	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	det	_	Gloss=his
+6	tierra	tierra	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	Gloss=land
+7	a	a	ADP	_	_	9	case	_	Gloss=to
+8	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	Gloss=the
+9	irlandeses	irlandés	NOUN	_	Gender=Masc|Number=Plur	4	obl:arg	_	Gloss=Irish|SpaceAfter=No
 10	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
@@ -199,13 +199,13 @@ udver: '2'
 ~~~conllu
 # text = Mi padre no les alquilará su tierra.
 # text_en = My father won't rent his land to them.
-1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
-2	padre	padre	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
-3	no	no	PART	_	Polarity=Neg	5	advmod	_	_
-4	les	él	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	5	obl:arg	_	_
-5	alquilará	alquilar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
-6	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	det	_	_
-7	tierra	tierra	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	SpaceAfter=No
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	Gloss=my
+2	padre	padre	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	Gloss=father
+3	no	no	PART	_	Polarity=Neg	5	advmod	_	Gloss=not
+4	les	él	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	5	obl:arg	_	Gloss=them
+5	alquilará	alquilar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	Gloss=will.rent
+6	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	det	_	Gloss=his
+7	tierra	tierra	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	Gloss=land|SpaceAfter=No
 8	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
@@ -213,13 +213,13 @@ udver: '2'
 ~~~conllu
 # text = Pedro le dio un libro a María.
 # text_en = Pedro gave a book to María.
-1	Pedro	Pedro	PROPN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
-2	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
-3	dio	dar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-4	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
-5	libro	libro	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
-6	a	a	ADP	_	_	7	case	_	_
-7	María	María	PROPN	_	Gender=Fem|Number=Sing	3	obl:arg	_	SpaceAfter=No
+1	Pedro	Pedro	PROPN	_	Gender=Masc|Number=Sing	3	nsubj	_	Gloss=Pedro
+2	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	3	expl	_	Gloss=her
+3	dio	dar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=gave
+4	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Gloss=a
+5	libro	libro	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	Gloss=book
+6	a	a	ADP	_	_	7	case	_	Gloss=to
+7	María	María	PROPN	_	Gender=Fem|Number=Sing	3	obl:arg	_	Gloss=María|SpaceAfter=No
 8	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
