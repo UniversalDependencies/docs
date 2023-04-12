@@ -133,12 +133,53 @@ udver: '2'
     or subjunctive, it occurs immediately before the verb and is written as a separate word. With imperatives,
     infinitives and gerunds, it occurs immediately after the verb (or after a dative clitic, if both are present),
     and is written together with the verb as one multiword token; we still treat it as a separate syntactic word.
-  * TO DO: CLITIC DOUBLING.
+  * The accusative clitic may occur even together with the object noun; this construction is called clitic doubling.
+    Both the noun and the clitic are attached directly to the verb. However, the clitic is labeled as the object
+    only if the noun is absent. In case of clitic doubling, the noun is attached as [obj]() and the clitic as [expl]()
+    (expletive).
 * The term ‘indirect object’ is traditionally used in Spanish grammar for the argument that represents the
   recipient or beneficiary of an action. However, these participants are not core arguments (they use oblique
   marking, either a preposition or a dative pronoun), hence they cannot be called indirect objects in UD
   and the relation [iobj]() has no use in Spanish. To distinguish them from temporal and local adjuncts, we
   use the relation [obl:arg]() for the recipients.
+
+~~~conllu
+# text = Jorge mató al dragón.
+# text_en = George killed the dragon.
+1	Jorge	Jorge	PROPN	_	Gender=Masc|Number=Sing	2	nsubj	_	_
+2	mató	matar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3-4	al	_	_	_	_	_	_	_	_
+3	a	a	ADP	_	_	5	case	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	dragón	dragón	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+~~~
+
+~~~conllu
+# text = Jorge lo mató.
+# text_en = George killed it.
+1	Jorge	Jorge	PROPN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+2	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+3	mató	matar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+~~~
+
+~~~conllu
+# text = El límite sur lo forma la costa.
+# text_en = The southern border is formed by the coast.
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	límite	límite	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_
+3	sur	sur	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+4	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
+5	forma	formar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	costa	costa	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+~~~
+
 * Extra attention has to be paid to the reflexive pronoun _se_. It can function as:
   * Core object ([obj]()): _él <b>se</b> vio en el espejo_ “he sighted himself in the mirror.”
   * Dative oblique argument ([obl:arg]()): _ella <b>se</b> dio un regalo_ “she gave herself a gift.”
