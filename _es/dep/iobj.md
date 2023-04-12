@@ -10,7 +10,7 @@ indirect object is not compatible with what is traditionally understood as indir
 In UD the relation can be used only for core arguments. In Spanish, the recipient or beneficiary roles are
 encoded either as a prepositional phrase with the preposition _a_ “to”, or as a dative pronoun. Both of these
 strategies are oblique markings. Consequently, the corresponding nominals are not core arguments; they are oblique
-dependents. To distinguish them form temporal and local adjuncts, we label them [obl:arg]().
+dependents. To distinguish them from temporal and local adjuncts, we label them [obl:arg]().
 
 While the relation `iobj` has no use in Spanish, it can occur in the Spanish data in case of code switching with
 a language that has indirect objects, such as English:
