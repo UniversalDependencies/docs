@@ -180,6 +180,50 @@ udver: '2'
 
 ~~~
 
+~~~conllu
+# text = Mi padre no alquilará su tierra a los irlandeses.
+# text_en = My father won't rent his land to the Irish.
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	padre	padre	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	no	no	PART	_	Polarity=Neg	4	advmod	_	_
+4	alquilará	alquilar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+5	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	det	_	_
+6	tierra	tierra	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
+7	a	a	ADP	_	_	9	case	_	_
+8	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	irlandeses	irlandés	NOUN	_	Gender=Masc|Number=Plur	4	obl:arg	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+~~~
+
+~~~conllu
+# text = Mi padre no les alquilará su tierra.
+# text_en = My father won't rent his land to them.
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	padre	padre	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	no	no	PART	_	Polarity=Neg	5	advmod	_	_
+4	les	él	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	5	obl:arg	_	_
+5	alquilará	alquilar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+6	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	det	_	_
+7	tierra	tierra	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+~~~
+
+~~~conllu
+# text = Pedro le dio un libro a María.
+# text_en = Pedro gave a book to María.
+1	Pedro	Pedro	PROPN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+2	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
+3	dio	dar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	libro	libro	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+6	a	a	ADP	_	_	7	case	_	_
+7	María	María	PROPN	_	Gender=Fem|Number=Sing	3	obl:arg	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+~~~
+
 * Extra attention has to be paid to the reflexive pronoun _se_. It can function as:
   * Core object ([obj]()): _él <b>se</b> vio en el espejo_ “he sighted himself in the mirror.”
   * Dative oblique argument ([obl:arg]()): _ella <b>se</b> dio un regalo_ “she gave herself a gift.”
