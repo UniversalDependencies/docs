@@ -114,6 +114,15 @@ udver: '2'
   The morphology of a finite verb (or auxiliary) cross-references the person and number of its subject.
 * Direct nominal object ([obj]()) is either a bare noun phrase
   or a personal pronoun in the accusative form.
+  * The accusative pronoun is a clitic and its position in the word order is fixed. With finite verbs in indicative
+    or subjunctive, it occurs immediately before the verb and is written as a separate word. With imperatives,
+    infinitives and gerunds, it occurs immediately after the verb (or after a dative clitic, if both are present),
+    and is written together with the verb as one multiword token; we still treat it as a separate syntactic word.
+* The term ‘indirect object’ is traditionally used in Catalan grammar for the argument that represents the
+  recipient or beneficiary of an action. However, these participants are not core arguments (they use oblique
+  marking, either a preposition or a dative pronoun), hence they cannot be called indirect objects in UD
+  and the relation [iobj]() has no use in Catalan. To distinguish them from temporal and local adjuncts, we
+  use the relation [obl:arg]() for the recipients.
 
 ~~~conllu
 # text = Jordi va matar el drac.
@@ -135,6 +144,22 @@ udver: '2'
 3	va	anar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	Gloss=PAST
 4	matar	matar	VERB	_	VerbForm=Inf	0	root	_	Gloss=kill|SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
+
+~~~
+
+~~~conllu
+# text = En Pere va regalar un llibre a la Maria.
+# text_en = Pere gave a book to Maria.
+1	En	en	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Gloss=the
+2	Pere	Pere	PROPN	_	Gender=Masc|Number=Sing	4	nsubj	_	Gloss=Pere
+3	va	anar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	Gloss=PAST
+4	regalar	regalar	VERB	_	VerbForm=Inf	0	root	_	Gloss=give
+5	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	Gloss=a
+6	llibre	llibre	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	Gloss=book
+7	a	a	ADP	_	_	9	case	_	Gloss=to
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	Gloss=the
+9	Maria	Maria	PROPN	_	Gender=Fem|Number=Sing	4	obl:arg	_	Gloss=Maria|SpaceAfter=No
+10	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
 
