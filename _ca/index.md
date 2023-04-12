@@ -163,7 +163,7 @@ udver: '2'
   * [csubj:pass]() for clausal subjects of passive verbs
   * [aux:pass]() for passive auxiliaries
 * The following relation types are not used in Catalan at all:
-  [clf](), [dislocated]()
+  [clf](), [dislocated](), [iobj]()
 
 ## Treebanks
 

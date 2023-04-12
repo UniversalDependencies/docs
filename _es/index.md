@@ -252,7 +252,7 @@ udver: '2'
   * [csubj:pass]() for clausal subjects of passive verbs
   * [aux:pass]() for passive auxiliaries
 * The following relation types are not used in Spanish at all:
-  [clf](), [dislocated]()
+  [clf](), [dislocated](), [iobj]()
 
 ## Treebanks
 
