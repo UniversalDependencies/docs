@@ -106,22 +106,24 @@ udver: '2'
 
 ### Core Arguments, Oblique Arguments and Adjuncts
 
+* The dominant word order in Catalan is SVO, but other word orders, especially SOV and OVS, are also possible.
 * Nominal subject ([nsubj]()) is a bare noun phrase without preposition.
   If it is a personal pronoun, it must be in the nominative form
   (note however that Catalan is a pro-drop language, where pronominal subjects can be omitted).
-* Direct nominal object ([obj]()) is either a bare noun phrase (for inanimate objects)
-  or a prepositional phrase with the preposition _a_ (for animate objects)
+  It typically occurs preverbally, but it can occur after the verb as well.
+  The morphology of a finite verb (or auxiliary) cross-references the person and number of its subject.
+* Direct nominal object ([obj]()) is either a bare noun phrase
   or a personal pronoun in the accusative form.
 * Extra attention has to be paid to the reflexive pronoun _es_. It can function as:
-  * Core object ([obj]() or [iobj]()): _es va veure al mirall_ “he sighted himself in the mirror.”
-  * Reciprocal core objects (`obj` or `iobj`): _es van besar_ “they kissed each other.”
-  * Reflexive passive ([expl:pass]()): _s'ha ofert una atenció psicològica a les persones afectades_ “psychological attention has been offered to the people affected” (lit.  “offered itself”).
+  * Core object ([obj]()): _<b>es</b> va veure al mirall_ “he sighted himself in the mirror.”
+  * Reciprocal core objects (`obj`): _<b>es</b> van besar_ “they kissed each other.”
+  * Reflexive passive ([expl:pass]()): _<b>s'</b>ha ofert una atenció psicològica a les persones afectades_ “psychological attention has been offered to the people affected” (lit.  “offered itself”).
   * Inherently reflexive verb, cannot exist without the reflexive clitic, and the clitic cannot be substituted by an irreflexive pronoun
     or a noun phrase. In many cases, an irreflexive counterpart of the verb actually exists but its meaning is different because it
     denotes a different action performed by the agent.
     In accord with the current UD guidelines, we label the relation
-    between the verb and the clitic as [expl:pv](), not `compound`. Example: _es tracta d'una immigració_ “the matter is immigration;”
-    _s'havia de riure_ “he had to laugh.”
+    between the verb and the clitic as [expl:pv](), not `compound`. Example: _<b>es</b> tracta d'una immigració_ “the matter is immigration;”
+    _<b>s'</b>havia de riure_ “he had to laugh.”
 * In passive clauses, the subject is labeled with [nsubj:pass]() or [csubj:pass](), respectively.
   * The auxiliary verb in periphrastic passive is labeled [aux:pass]().
 
