@@ -140,15 +140,16 @@ udver: '2'
   and the relation [iobj]() has no use in Spanish. To distinguish them from temporal and local adjuncts, we
   use the relation [obl:arg]() for the recipients.
 * Extra attention has to be paid to the reflexive pronoun _se_. It can function as:
-  * Core object ([obj]()): _él se vio en el espejo_ “he sighted himself in the mirror.”
-  * Reciprocal core objects (`obj`): _se besaron_ “they kissed each other.”
-  * Reflexive passive ([expl:pass]()): _se celebran los cien años del club_ “hundred years of the club are celebrated” (lit.  “celebrate themselves”);
-    _se dice que la escribió en París_ “it is said that he wrote it in Paris.”
+  * Core object ([obj]()): _él <b>se</b> vio en el espejo_ “he sighted himself in the mirror.”
+  * Dative oblique argument ([obl:arg]()): _ella <b>se</b> dio un regalo_ “she gave herself a gift.”
+  * Reciprocal core objects (`obj`): _<b>se</b> besaron_ “they kissed each other.”
+  * Reflexive passive ([expl:pass]()): _<b>se</b> celebran los cien años del club_ “hundred years of the club are celebrated” (lit.  “celebrate themselves”);
+    _<b>se</b> dice que la escribió en París_ “it is said that he wrote it in Paris.”
   * Inherently reflexive verb, cannot exist without the reflexive clitic, and the clitic cannot be substituted by an irreflexive pronoun
     or a noun phrase. In many cases, an irreflexive counterpart of the verb actually exists but its meaning is different because it
     denotes a different action performed by the agent.
     In accord with the current UD guidelines, we label the relation
-    between the verb and the clitic as [expl:pv](), not `compound`. Example: _se trataba de un negocio nuevo_ “the matter is a new contract.”
+    between the verb and the clitic as [expl:pv](), not `compound`. Example: _<b>se</b> trataba de un negocio nuevo_ “the matter is a new contract.”
 * In passive clauses, the subject is labeled with [nsubj:pass]() or [csubj:pass](), respectively.
   * The auxiliary verb in periphrastic passive is labeled [aux:pass]().
 
