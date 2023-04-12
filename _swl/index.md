@@ -8,6 +8,9 @@ udver: '2'
 
 ## Tokenization and Word Segmentation
 
+* The Swedish Sign Language Corpus (SSLC) treebank depends on the sign glosses
+  provided in the SSLC source material, so the source text is already
+  tokenized.
 * Sign glosses are always delimited by whitespace.
 * There is no punctuation.
 * Multiword tokens are not used.
@@ -36,13 +39,24 @@ udver: '2'
 
 ### Features
 
-* No morphological features are used for Swedish Sign Language.
+* No UD morphological features are used for Swedish Sign Language.
+* Note that linearizing and transcribing or glossing a signed language is not
+  trivial, and results in some degree of information loss. If data in Swedish
+  Sign Language, or some other sign language, using a different convention
+  than the Swedish Sign Language Corpus (glossing of manual signs) is to be
+  included in UD, this may be different.
+* Negated verbs have glosses that end with `-INTE` (semantically negative) or
+  `*INTE` (non-manual negation marking).
+* Lemmas are not used.
 
 ## Syntax
 
-* Subjects have the following characteristics: ...
-* Objects have the following characteristics: ...
-* Copula constructions in nonverbal clauses are used for: ...
+* Subjects may occur on either side of the verb, and often subjects are
+  repeated and may occur on both sides of the verb. In this case, the [conj]()
+  relation holds between the second and the first sign, and the first sign has
+  an [nsubj]() relation to the verb.
+* Objects generally follow the verb, without preposition.
+* Copula constructions in nonverbal clauses are used for ...
 * The following subtypes are used in Swedish Sign Language:
   * [acl:relcl]() for relative clauses
   * [compound:prt]() for verb particles
@@ -51,7 +65,7 @@ udver: '2'
 
 ## Treebanks
 
-There is [1](../treebanks/Swedish_Sign_Language-comparison.html) Swedish Sign Language UD treebank:
+There is one Swedish Sign Language UD treebank:
 
-  * [Swedish_Sign_Language-SSLC](../treebanks/swl_sslc/index.html)
+  * [Swedish_Sign_Language-SSLC](https://github.com/UniversalDependencies/docs/blob/pages-source/treebanks/swl_sslc/index.html)
 
