@@ -163,6 +163,20 @@ udver: '2'
 
 ~~~
 
+~~~conllu
+# text = En Pere li va regalar un llibre.
+# text_en = Pere gave her a book.
+1	En	en	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Gloss=the
+2	Pere	Pere	PROPN	_	Gender=Masc|Number=Sing	5	nsubj	_	Gloss=Pere
+3	li	ell	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	5	obl:arg	_	Gloss=her
+4	va	anar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	Gloss=PAST
+5	regalar	regalar	VERB	_	VerbForm=Inf	0	root	_	Gloss=give
+6	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	Gloss=a
+7	llibre	llibre	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	Gloss=book|SpaceAfter=No
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+~~~
+
 * Extra attention has to be paid to the reflexive pronoun _es_. It can function as:
   * Core object ([obj]()): _<b>es</b> va veure al mirall_ “he sighted himself in the mirror.”
   * Reciprocal core objects (`obj`): _<b>es</b> van besar_ “they kissed each other.”
