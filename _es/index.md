@@ -116,16 +116,34 @@ udver: '2'
 
 ### Core Arguments, Oblique Arguments and Adjuncts
 
+* The dominant word order in Spanish is SVO, but other word orders, especially OVS and SOV, are also possible.
 * Nominal subject ([nsubj]()) is a bare noun phrase without preposition.
   If it is a personal pronoun, it must be in the nominative form
   (note however that Spanish is a pro-drop language, where pronominal subjects can be omitted).
+  It typically occurs preverbally, but it can occur after the verb as well.
+  The morphology of a finite verb (or auxiliary) cross-references the person and number of its subject.
 * Direct nominal object ([obj]()) is either a bare noun phrase (for inanimate objects)
   or a prepositional phrase with the preposition _a_ (for animate objects)
   or a personal pronoun in the accusative form.
+  Note that the preposition _a_ is otherwise used to mark a range of oblique dependents.
+  A nominal with that preposition counts as a core argument only if it is animate and it can be substituted by
+  an accusative third-person pronoun _(lo, la, los, las)._ If it would be substituted by a dative pronoun _(le, les)_
+  in the context of the given verb, then it is not core, it is oblique.
+  * The accusative pronoun is a clitic and its position in the word order is fixed. With finite verbs in indicative
+    or subjunctive, it occurs immediately before the verb and is written as a separate word. With imperatives,
+    infinitives and gerunds, it occurs immediately after the verb (or after a dative clitic, if both are present),
+    and is written together with the verb as one multiword token; we still treat it as a separate syntactic word.
+  * TO DO: CLITIC DOUBLING.
+* The term ‘indirect object’ is traditionally used in Spanish grammar for the argument that represents the
+  recipient or beneficiary of an action. However, these participants are not core arguments (they use oblique
+  marking, either a preposition or a dative pronoun), hence they cannot be called indirect objects in UD
+  and the relation [iobj]() has no use in Spanish. To distinguish them from temporal and local adjuncts, we
+  use the relation [obl:arg]() for the recipients.
 * Extra attention has to be paid to the reflexive pronoun _se_. It can function as:
-  * Core object ([obj]() or [iobj]()): _él se vio en el espejo_ “he sighted himself in the mirror.”
-  * Reciprocal core objects (`obj` or `iobj`): _se besaron_ “they kissed each other.”
-  * Reflexive passive ([expl:pass]()): _se celebran los cien años del club_ “hundred years of the club are celebrated” (lit.  “celebrate themselves”); _se dice que la escribió en París_ “it is said that he wrote it in Paris.”
+  * Core object ([obj]()): _él se vio en el espejo_ “he sighted himself in the mirror.”
+  * Reciprocal core objects (`obj`): _se besaron_ “they kissed each other.”
+  * Reflexive passive ([expl:pass]()): _se celebran los cien años del club_ “hundred years of the club are celebrated” (lit.  “celebrate themselves”);
+    _se dice que la escribió en París_ “it is said that he wrote it in Paris.”
   * Inherently reflexive verb, cannot exist without the reflexive clitic, and the clitic cannot be substituted by an irreflexive pronoun
     or a noun phrase. In many cases, an irreflexive counterpart of the verb actually exists but its meaning is different because it
     denotes a different action performed by the agent.
