@@ -116,21 +116,125 @@ udver: '2'
 
 ### Core Arguments, Oblique Arguments and Adjuncts
 
+* The dominant word order in Spanish is SVO, but other word orders, especially OVS and SOV, are also possible.
 * Nominal subject ([nsubj]()) is a bare noun phrase without preposition.
   If it is a personal pronoun, it must be in the nominative form
   (note however that Spanish is a pro-drop language, where pronominal subjects can be omitted).
+  It typically occurs preverbally, but it can occur after the verb as well.
+  The morphology of a finite verb (or auxiliary) cross-references the person and number of its subject.
 * Direct nominal object ([obj]()) is either a bare noun phrase (for inanimate objects)
   or a prepositional phrase with the preposition _a_ (for animate objects)
   or a personal pronoun in the accusative form.
+  Note that the preposition _a_ is otherwise used to mark a range of oblique dependents.
+  A nominal with that preposition counts as a core argument only if it is animate and it can be substituted by
+  an accusative third-person pronoun _(lo, la, los, las)._ If it would be substituted by a dative pronoun _(le, les)_
+  in the context of the given verb, then it is not core, it is oblique.
+  * The accusative pronoun is a clitic and its position in the word order is fixed. With finite verbs in indicative
+    or subjunctive, it occurs immediately before the verb and is written as a separate word. With imperatives,
+    infinitives and gerunds, it occurs immediately after the verb (or after a dative clitic, if both are present),
+    and is written together with the verb as one multiword token; we still treat it as a separate syntactic word.
+  * The accusative clitic may occur even together with the object noun; this construction is called clitic doubling.
+    Both the noun and the clitic are attached directly to the verb. However, the clitic is labeled as the object
+    only if the noun is absent. In case of clitic doubling, the noun is attached as [obj]() and the clitic as [expl]()
+    (expletive).
+* The term ‘indirect object’ is traditionally used in Spanish grammar for the argument that represents the
+  recipient or beneficiary of an action. However, these participants are not core arguments (they use oblique
+  marking, either a preposition or a dative pronoun), hence they cannot be called indirect objects in UD
+  and the relation [iobj]() has no use in Spanish. To distinguish them from temporal and local adjuncts, we
+  use the relation [obl:arg]() for the recipients.
+
+~~~conllu
+# text = Jorge mató al dragón.
+# text_en = George killed the dragon.
+1	Jorge	Jorge	PROPN	_	Gender=Masc|Number=Sing	2	nsubj	_	Gloss=George
+2	mató	matar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=killed
+3-4	al	_	_	_	_	_	_	_	_
+3	a	a	ADP	_	_	5	case	_	Gloss=to
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Gloss=the
+5	dragón	dragón	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	Gloss=dragon|SpaceAfter=No
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+~~~
+
+~~~conllu
+# text = Jorge lo mató.
+# text_en = George killed it.
+1	Jorge	Jorge	PROPN	_	Gender=Masc|Number=Sing	3	nsubj	_	Gloss=George
+2	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	Gloss=him
+3	mató	matar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=killed|SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+~~~
+
+~~~conllu
+# text = El límite sur lo forma la costa.
+# text_en = The southern border is formed by the coast.
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Gloss=the
+2	límite	límite	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	Gloss=border
+3	sur	sur	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	Gloss=south
+4	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	Gloss=him
+5	forma	formar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=forms|SpaceAfter=No
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	Gloss=coast
+7	costa	costa	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+~~~
+
+~~~conllu
+# text = Mi padre no alquilará su tierra a los irlandeses.
+# text_en = My father won't rent his land to the Irish.
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	Gloss=my
+2	padre	padre	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	Gloss=father
+3	no	no	PART	_	Polarity=Neg	4	advmod	_	Gloss=not
+4	alquilará	alquilar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	Gloss=will.rent
+5	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	det	_	Gloss=his
+6	tierra	tierra	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	Gloss=land
+7	a	a	ADP	_	_	9	case	_	Gloss=to
+8	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	Gloss=the
+9	irlandeses	irlandés	NOUN	_	Gender=Masc|Number=Plur	4	obl:arg	_	Gloss=Irish|SpaceAfter=No
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+~~~
+
+~~~conllu
+# text = Mi padre no les alquilará su tierra.
+# text_en = My father won't rent his land to them.
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	Gloss=my
+2	padre	padre	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	Gloss=father
+3	no	no	PART	_	Polarity=Neg	5	advmod	_	Gloss=not
+4	les	él	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	5	obl:arg	_	Gloss=them
+5	alquilará	alquilar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	Gloss=will.rent
+6	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	det	_	Gloss=his
+7	tierra	tierra	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	Gloss=land|SpaceAfter=No
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+~~~
+
+~~~conllu
+# text = Pedro le dio un libro a María.
+# text_en = Pedro gave a book to María.
+1	Pedro	Pedro	PROPN	_	Gender=Masc|Number=Sing	3	nsubj	_	Gloss=Pedro
+2	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	3	expl	_	Gloss=her
+3	dio	dar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=gave
+4	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Gloss=a
+5	libro	libro	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	Gloss=book
+6	a	a	ADP	_	_	7	case	_	Gloss=to
+7	María	María	PROPN	_	Gender=Fem|Number=Sing	3	obl:arg	_	Gloss=María|SpaceAfter=No
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+~~~
+
 * Extra attention has to be paid to the reflexive pronoun _se_. It can function as:
-  * Core object ([obj]() or [iobj]()): _él se vio en el espejo_ “he sighted himself in the mirror.”
-  * Reciprocal core objects (`obj` or `iobj`): _se besaron_ “they kissed each other.”
-  * Reflexive passive ([expl:pass]()): _se celebran los cien años del club_ “hundred years of the club are celebrated” (lit.  “celebrate themselves”); _se dice que la escribió en París_ “it is said that he wrote it in Paris.”
+  * Core object ([obj]()): _él <b>se</b> vio en el espejo_ “he sighted himself in the mirror.”
+  * Dative oblique argument ([obl:arg]()): _ella <b>se</b> dio un regalo_ “she gave herself a gift.”
+  * Reciprocal core objects (`obj`): _<b>se</b> besaron_ “they kissed each other.”
+  * Reflexive passive ([expl:pass]()): _<b>se</b> celebran los cien años del club_ “hundred years of the club are celebrated” (lit.  “celebrate themselves”);
+    _<b>se</b> dice que la escribió en París_ “it is said that he wrote it in Paris.”
   * Inherently reflexive verb, cannot exist without the reflexive clitic, and the clitic cannot be substituted by an irreflexive pronoun
     or a noun phrase. In many cases, an irreflexive counterpart of the verb actually exists but its meaning is different because it
     denotes a different action performed by the agent.
     In accord with the current UD guidelines, we label the relation
-    between the verb and the clitic as [expl:pv](), not `compound`. Example: _se trataba de un negocio nuevo_ “the matter is a new contract.”
+    between the verb and the clitic as [expl:pv](), not `compound`. Example: _<b>se</b> trataba de un negocio nuevo_ “the matter is a new contract.”
 * In passive clauses, the subject is labeled with [nsubj:pass]() or [csubj:pass](), respectively.
   * The auxiliary verb in periphrastic passive is labeled [aux:pass]().
 
@@ -148,7 +252,7 @@ udver: '2'
   * [csubj:pass]() for clausal subjects of passive verbs
   * [aux:pass]() for passive auxiliaries
 * The following relation types are not used in Spanish at all:
-  [clf](), [dislocated]()
+  [clf](), [dislocated](), [iobj]()
 
 ## Treebanks
 
