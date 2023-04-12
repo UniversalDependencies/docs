@@ -45,8 +45,8 @@ udver: '2'
   Sign Language, or some other sign language, using a different convention
   than the Swedish Sign Language Corpus (glossing of manual signs) is to be
   included in UD, this may be different.
-* Negated verbs have glosses that end with `-INTE` (semantically negative) or
-  `*INTE` (non-manual negation marking).
+* Negated verbs have glosses that end with `-INTE` (lexically negative; suppletive) or
+  `*INTE` (cliticized manual negation marking).
 * Lemmas are not used.
 
 ## Syntax
