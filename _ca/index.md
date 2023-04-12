@@ -114,6 +114,30 @@ udver: '2'
   The morphology of a finite verb (or auxiliary) cross-references the person and number of its subject.
 * Direct nominal object ([obj]()) is either a bare noun phrase
   or a personal pronoun in the accusative form.
+
+~~~conllu
+# text = Jordi va matar el drac.
+# text_en = George killed the dragon.
+1	Jordi	Jordi	PROPN	_	Gender=Masc|Number=Sing	3	nsubj	_	Gloss=George
+2	va	anar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	Gloss=PAST
+3	matar	matar	VERB	_	VerbForm=Inf	0	root	_	Gloss=kill
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Gloss=the
+5	drac	drac	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	Gloss=dragon|SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+~~~
+
+~~~conllu
+# text = Jordi el va matar.
+# text_en = George killed it.
+1	Jordi	Jordi	PROPN	_	Gender=Masc|Number=Sing	4	nsubj	_	Gloss=George
+2	el	ell	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	Gloss=him
+3	va	anar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	Gloss=PAST
+4	matar	matar	VERB	_	VerbForm=Inf	0	root	_	Gloss=kill|SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+~~~
+
 * Extra attention has to be paid to the reflexive pronoun _es_. It can function as:
   * Core object ([obj]()): _<b>es</b> va veure al mirall_ “he sighted himself in the mirror.”
   * Reciprocal core objects (`obj`): _<b>es</b> van besar_ “they kissed each other.”
