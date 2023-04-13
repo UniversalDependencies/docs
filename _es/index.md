@@ -174,8 +174,8 @@ udver: '2'
 3	sur	sur	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	Gloss=south
 4	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	Gloss=him
 5	forma	formar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=forms|SpaceAfter=No
-6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	Gloss=coast
-7	costa	costa	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	SpaceAfter=No
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	Gloss=the
+7	costa	costa	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	Gloss=coast|SpaceAfter=No
 8	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~

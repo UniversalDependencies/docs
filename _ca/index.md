@@ -118,6 +118,10 @@ udver: '2'
     or subjunctive, it occurs immediately before the verb and is written as a separate word. With imperatives,
     infinitives and gerunds, it occurs immediately after the verb (or after a dative clitic, if both are present),
     and is written together with the verb as one multiword token; we still treat it as a separate syntactic word.
+  * The accusative clitic may occur even together with the object noun; this construction is called clitic doubling.
+    Both the noun and the clitic are attached directly to the verb. However, the clitic is labeled as the object
+    only if the noun is absent. In case of clitic doubling, the noun is attached as [obj]() and the clitic as [expl]()
+    (expletive).
 * The term ‘indirect object’ is traditionally used in Catalan grammar for the argument that represents the
   recipient or beneficiary of an action. However, these participants are not core arguments (they use oblique
   marking, either a preposition or a dative pronoun), hence they cannot be called indirect objects in UD
@@ -146,6 +150,19 @@ udver: '2'
 4	va	anar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	Gloss=PAST
 5	matar	matar	VERB	_	VerbForm=Inf	0	root	_	Gloss=kill|SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
+
+~~~
+
+~~~conllu
+# text = Els perjudicis els pateixen els compradors.
+# text_en = Damages are borne by the buyers.
+1	Els	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	Gloss=the
+2	perjudicis	perjudici	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	Gloss=damages
+3	els	ell	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	4	expl	_	Gloss=them
+4	pateixen	patir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=suffer|SpaceAfter=No
+5	els	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	Gloss=the
+6	compradors	comprador	NOUN	_	Gender=Masc|Number=Plur	4	nsubj	_	Gloss=buyers|SpaceAfter=No
+7	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
 
