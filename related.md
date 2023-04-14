@@ -15,6 +15,7 @@ layers.
   * [Deep Universal Dependencies](https://ufal.mff.cuni.cz/deep-universal-dependencies)
   * [Universal PropBank](https://universalpropositions.github.io/)
   * [CorefUD: Coreference in Universal Dependencies](https://ufal.mff.cuni.cz/corefud)
+  * [UNER: Universal Named Entity Recognition](https://www.universalner.org/)
   * [UMR: Uniform Meaning Representation](https://umr4nlp.github.io/web/)
   * [UniMorph](https://unimorph.github.io/)
   * [UDer: Universal Derivations](https://ufal.mff.cuni.cz/universal-derivations)
