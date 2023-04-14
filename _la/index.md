@@ -58,8 +58,7 @@ udver: '2'
 
 * PROIEL uses 14 universal POS categories. Punctuation ([`PUNCT`](la-pos/PUNCT)), Particles ([`PART`](la-pos/PART)) and Symbols ([`SYM`](la-pos/SYM)) are not used.
 * Among the traditional pronouns of Latin grammar, those that can occur adnominally are treated as detererminers [`DET`](la-pos/DET).
-* The only intended auxiliary verb ([`AUX`](la-pos/AUX)) is _sum_ ("to be"), although in a few cases other verbs have ended up as auxiliaries due to errors in the conversion.
-
+* The only common auxiliary verb ([`AUX`](la-pos/AUX)) is _sum_ ("to be"), although there are a few cases of _eo_ as used in the periphrastic future passive infinitive.
 
 **Perseus**
 
