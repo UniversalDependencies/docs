@@ -17,8 +17,9 @@ There is a closed subclass of _pronominal adverbs_ that refer to circumstances i
 - _exactamente_ "exactly"
 - _mañana_ "tomorrow"
 - _arriba, abajo_ "up, down"
-- interrogative or exclamative adverbs: _dónde, cuándo, cómo, por qué_ "where, when, how, why"
 - demonstrative adverbs: _aquí, allí, ahora, después_ "here, there, now, then"
 - totality adverbs: _siempre_ "always"
 - negative adverbs: _nunca_ "never"
+
+In Spanish adverbs can be derived from adjectives using the suffix  _{-mente}_, such as _<b>lentamente</b>_ ("slowly") or _<b>rápidamente</b>_ ("quickly"), or without any formal modification, where many adjectives in masculine singular form are used as adverbs, such as _hablar <b>alto</b>_ ("speak loud") or _trabajar <b>duro</b>_ ("work hard"). There are also adverbialized nouns, which are nominal forms used as adverbs, such as _pasarlo <b>bomba</b>_ ("have a blast").
 <!-- Interlanguage links updated Po lis 14 15:34:29 CET 2022 -->
