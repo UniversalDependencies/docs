@@ -388,7 +388,7 @@ advmod(resigned, when)
 acl(headlines, resigned)
 ~~~
 
-However, it should be considered a relative construction if the WH-adverb can be paraphrased by *in which* or similar, or if the head noun reifies the kind of relation (*the time when*, *the place where*, *the reason why*).[^5]
+However, it should be considered a relative construction if the WH-adverb can be paraphrased by *in which* or similar, or if the head noun reifies the kind of relation (*the time when*, *the place where*, *the reason why*).
 
 ~~~sdparse
 the time when the pizza exploded
@@ -396,13 +396,15 @@ acl:relcl(time, exploded)
 advmod(exploded, when)
 ~~~
 
-Some phrases are ambiguous. *The ceremony where we became citizens* can be interpreted as an RC if the bestowal of citizenship happened during the ceremony (*in which* interpretation[^2], thus `acl:relcl`). In that interpretation, the ceremony serves as the setting for the bestowal of citizenship. But there is another interpretation, in which the ceremony need not be a naturalization ceremony: if *where we became citizens* helps identify the place of a separate ceremony, we treat this as a free relative attaching to the nominal as `advmod`, akin to *here*. Finally, for *The ceremony when we became citizens*, we take *when we became citizens* to be locating the ceremony in time, designated with `acl` (but other readings might be possible). Fronting the WH-clause in a matrix clause may help distinguish the readings: *Where/when we became citizens, there was a nice ceremony* suggests the WH-clause is providing the place or time setting for the ceremony, not the reverse.
+Some phrases are ambiguous. *The ceremony where we became citizens* can be interpreted as an RC if the bestowal of citizenship happened during the ceremony (*in which* interpretation,[^2] thus `acl:relcl`). In that interpretation, the ceremony serves as the setting for the bestowal of citizenship. But there is another interpretation, in which the ceremony need not be a naturalization ceremony: if *where we became citizens* helps identify the place of a separate ceremony, we treat this as a [free relative](#free-relatives) attaching to the nominal as `advmod`, akin to *here*. Finally, for *the ceremony when we became citizens*, we take *when we became citizens* to be locating the ceremony in time, designated with `acl` (but other readings might be possible). Fronting the WH-clause in a matrix clause may help distinguish the readings: *Where/when we became citizens, there was a nice ceremony* suggests the WH-clause is providing the place or time setting for the ceremony, not the reverse.
 
 [^2]: Or, formally, *wherein*.
 
 ### Testing whether WH-adverb is a Relativizer
 
-Modifier clauses marked with *when* or *where* can be hard to classify as relative or non-relative. *CGEL* presents arguments that two structures are possible in some cases (pp. 1078-1079). We use the following heuristics:
+Given that modifier clauses marked with *when* or *where* can be hard to classify as relative or non-relative,[^5] we use the following heuristics:
+
+[^5]: *CGEL* presents arguments that two structures are possible in some cases (pp. 1078-1079).
 
 1. A *where*-clause that modifies a reference to (broadly speaking) a place/situation/arrangement, or a *when*-clause that modifies a reference to a time, is a relative clause.
 
@@ -416,7 +418,7 @@ Modifier clauses marked with *when* or *where* can be hard to classify as relati
    * a situation where/in which nobody wins
    * a journey where/on which you get to experience different cultures
 
-2. If it is a *where*-clause and *where* has a locative meaning, treat it as a free relative.
+2. If it is a *where*-clause and *where* has a locative meaning, treat it as a [free relative](#free-relatives).
 
    * Where I had lunch yesterday, it was very windy.
    * Where I was \_\_ yesterday, it was very windy.
