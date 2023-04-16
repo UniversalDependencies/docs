@@ -14,7 +14,7 @@ The head is said to be "extracted" from the RC.
 
 Most RCs are adnominal, hence the relation `acl:relcl`. Adverbial RCs attach as [advcl:relcl](), as discussed [below](#adverbial-relative-clauses).
 
-RCs are usually finite (*people who live in glass houses*), but may also be [infinitival](#infinitival-relatives) (*I found a house in which to live*, *I found a house (for my mother) to live in*). Gerund-participial and past-participial clauses (*people living in glass houses*, *students given high marks*) are never considered relative clauses.
+RCs are usually finite (*people who live in glass houses*), but may also be [infinitival](#infinitival-relatives) (*I found a house in which to live*, *I found a house (for my mother) to live in*). Gerund-participial and past-participial clauses (*people living in glass houses*, *students given high marks*) are never considered relative clauses in the approach described here.
 
 In the Basic Dependencies representation, the main predicate of the RC attaches to the head as `acl:relcl`. This is shown in the example on the left.
 
