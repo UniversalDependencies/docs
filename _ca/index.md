@@ -229,7 +229,7 @@ udver: '2'
 6	que	que	SCONJ	cs	_	11	mark	_	Gloss=that
 7	l'	el	DET	da0cs0	Definite=Def|Number=Sing|PronType=Art	8	det	_	SpaceAfter=No|Gloss=the
 8	individu	individu	NOUN	ncms000	Gender=Masc|Number=Sing	11	nsubj	_	ArgTem=arg1:tem|Gloss=individual
-9	no	no	ADV	rn	Polarity=Neg	11	advmod	_	Gloss=not
+9	no	no	PART	rn	Polarity=Neg	11	advmod	_	Gloss=not
 10	hi	hi	PRON	pp3cn000	Case=Loc|Person=3|PronType=Prs	11	obl	_	Gloss=there
 11	tocava	tocar	VERB	vmii3s0	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	csubj	_	ArgTem=arg1:tem|Gloss=was.playing
 12	gens	gens	ADV	rg	_	11	advmod	_	SpaceAfter=No|ArgTem=argM:adv|Gloss=at.all
