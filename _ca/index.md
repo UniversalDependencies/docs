@@ -225,12 +225,12 @@ udver: '2'
 2	entrada	entrada	NOUN	ncfs000	Gender=Fem|Number=Sing	4	obl	_	Gloss=outset
 3	va	anar	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	Gloss=PAST
 4	quedar	quedar	VERB	vmn0000	VerbForm=Inf	0	root	_	Gloss=remain
-5	clar	clar	ADJ	aq0ms0	Gender=Masc|Number=Sing	4	obj	_	ArgTem=arg2:atr|Gloss=clear
+5	clar	clar	ADJ	aq0ms0	Gender=Masc|Number=Sing	4	xcomp	_	ArgTem=arg2:atr|Gloss=clear
 6	que	que	SCONJ	cs	_	11	mark	_	Gloss=that
 7	l'	el	DET	da0cs0	Definite=Def|Number=Sing|PronType=Art	8	det	_	SpaceAfter=No|Gloss=the
 8	individu	individu	NOUN	ncms000	Gender=Masc|Number=Sing	11	nsubj	_	ArgTem=arg1:tem|Gloss=individual
 9	no	no	ADV	rn	Polarity=Neg	11	advmod	_	Gloss=not
-10	hi	hi	PRON	pp3cn000	Case=Loc|Person=3|PronType=Prs	11	obj	_	Gloss=there
+10	hi	hi	PRON	pp3cn000	Case=Loc|Person=3|PronType=Prs	11	obl	_	Gloss=there
 11	tocava	tocar	VERB	vmii3s0	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	csubj	_	ArgTem=arg1:tem|Gloss=was.playing
 12	gens	gens	ADV	rg	_	11	advmod	_	SpaceAfter=No|ArgTem=argM:adv|Gloss=at.all
 13	.	.	PUNCT	fp	PunctType=Peri	4	punct	_	Gloss=.
@@ -287,7 +287,28 @@ udver: '2'
 7	duri	durar	VERB	vmsp3s0	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	ArgTem=argM:tmp|Gloss=lasts
 8	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	Gloss=the
 9	urbanització	urbanització	NOUN	ncfs000	Gender=Fem|Number=Sing	7	nsubj	_	SpaceAfter=No|ArgTem=arg1:tem|Gloss=development
-10	.	.	PUNCT	fp	PunctType=Peri	5	punct	_	_
+10	.	.	PUNCT	fp	PunctType=Peri	5	punct	_	Gloss=.
+
+~~~
+
+* Clauses that modify nominals are called adnominal ([acl]()). They are clausal counterparts of [nmod]()
+  and [amod]().
+
+~~~conllu
+# text = La UdG ha manifestat la voluntat que els premis tinguin continuïtat.
+# text_en = The UdG has expressed its desire for the awards to have continuity.
+1	La	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	Gloss=the
+2	UdG	UdG	PROPN	np0000o	_	4	nsubj	_	ArgTem=arg0:agt|Gloss=UdG
+3	ha	haver	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	Gloss=has
+4	manifestat	manifestar	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Gloss=expressed
+5	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	Gloss=the
+6	voluntat	voluntat	NOUN	ncfs000	Gender=Fem|Number=Sing	4	obj	_	ArgTem=arg1:pat|Gloss=desire
+7	que	que	SCONJ	cs	_	10	mark	_	Gloss=that
+8	els	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	Gloss=the
+9	premis	premi	NOUN	ncmp000	Gender=Masc|Number=Plur	10	nsubj	_	ArgTem=arg1:tem|Gloss=awards
+10	tinguin	tenir	VERB	vmsp3p0	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	acl	_	Gloss=have
+11	continuïtat	continuïtat	NOUN	ncfs000	Gender=Fem|Number=Sing	10	obj	_	SpaceAfter=No|ArgTem=arg2:atr|Gloss=continuity
+12	.	.	PUNCT	fp	PunctType=Peri	4	punct	_	Gloss=.
 
 ~~~
 
