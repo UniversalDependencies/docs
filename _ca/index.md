@@ -312,6 +312,29 @@ udver: '2'
 
 ~~~
 
+* A special type of an adnominal clause is a relative clause. It contains the relative pronoun _que_
+  (that is, _que_ is not a subordinating conjunction here), which has the same referent as the nominal
+  modified by the clause. The relation subtype [acl:relcl]() is used for relative clauses.
+
+~~~conllu
+# text = Els grans blocs que uneixen els pilons han estat fabricats a Cadis.
+# text_en = The large blocks that join the pylons have been manufactured in Cádiz.
+1	Els	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	Gloss=the
+2	grans	gran	ADJ	aq0cp0	Number=Plur	3	amod	_	Gloss=large
+3	blocs	bloc	NOUN	ncmp000	Gender=Masc|Number=Plur	10	nsubj	_	ArgTem=arg1:pat|Gloss=blocks
+4	que	que	PRON	pr0cn000	PronType=Rel	5	nsubj	_	ArgTem=arg0:agt|Gloss=that
+5	uneixen	unir	VERB	vmip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	Gloss=join
+6	els	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	Gloss=the
+7	pilons	piló	NOUN	ncmp000	Gender=Masc|Number=Plur	5	obj	_	ArgTem=arg1:tem|Gloss=pylons
+8	han	haver	AUX	vaip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	Gloss=have
+9	estat	ser	AUX	vsp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	aux	_	Gloss=been
+10	fabricats	fabricar	VERB	vmp00pm	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	Gloss=manufactured
+11	a	a	ADP	sps00	_	12	case	_	Gloss=in
+12	Cadis	Cadis	PROPN	np0000l	_	10	obl	_	SpaceAfter=No|ArgTem=argM:loc|Gloss=Cádiz
+13	.	.	PUNCT	fp	PunctType=Peri	10	punct	_	Gloss=.
+
+~~~
+
 ### Relations Overview
 
 * The following relation subtypes are used in Catalan:
