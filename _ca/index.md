@@ -271,6 +271,26 @@ udver: '2'
 
 ~~~
 
+* Clauses that modify other clauses but do not correspond to core arguments are called adverbial ([advcl]()),
+  although the class is broader than what non-UD theories may recognize as adverbial clauses. They are clausal
+  counterparts of oblique nominals and of adverbs.
+
+~~~conllu
+# text = Els arbres existents es traslladaran mentre duri la urbanització.
+# text_en = The existing trees will be moved for the duration of the development.
+1	Els	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	Gloss=the
+2	arbres	arbre	NOUN	ncmp000	Gender=Masc|Number=Plur	5	nsubj	_	ArgTem=arg1:pat|Gloss=trees
+3	existents	existent	ADJ	aq0cp0	Number=Plur	2	amod	_	Gloss=existing
+4	es	ell	PRON	p0000000	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	expl:pass	_	Gloss=themselves
+5	traslladaran	traslladar	VERB	vmif3p0	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	Gloss=will.move
+6	mentre	mentre	SCONJ	cs	_	7	mark	_	Gloss=while
+7	duri	durar	VERB	vmsp3s0	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	ArgTem=argM:tmp|Gloss=lasts
+8	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	Gloss=the
+9	urbanització	urbanització	NOUN	ncfs000	Gender=Fem|Number=Sing	7	nsubj	_	SpaceAfter=No|ArgTem=arg1:tem|Gloss=development
+10	.	.	PUNCT	fp	PunctType=Peri	5	punct	_	_
+
+~~~
+
 ### Relations Overview
 
 * The following relation subtypes are used in Catalan:
