@@ -272,8 +272,8 @@ udver: '2'
 ~~~
 
 * Clauses that modify other clauses but do not correspond to core arguments are called adverbial ([advcl]()),
-  although the class is broader than what non-UD theories may recognize as adverbial clauses. They are clausal
-  counterparts of oblique nominals and of adverbs.
+  but the class is broader than what non-UD theories may recognize as adverbial clauses. They are clausal
+  counterparts of oblique nominals and adverbs.
 
 ~~~conllu
 # text = Els arbres existents es traslladaran mentre duri la urbanització.
@@ -312,7 +312,7 @@ udver: '2'
 
 ~~~
 
-* A special type of an adnominal clause is a relative clause. It contains the relative pronoun _que_
+* A special type of adnominal clause is the relative clause. It contains the relative pronoun _que_
   (that is, _que_ is not a subordinating conjunction here), which has the same referent as the nominal
   modified by the clause. The relation subtype [acl:relcl]() is used for relative clauses.
 
