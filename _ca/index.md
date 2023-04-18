@@ -213,6 +213,42 @@ udver: '2'
 
 * The copula verbs _ser_ and _estar_ (be) are used in equational, attributional, locative, possessive and benefactory nonverbal clauses.
 
+### Subordination
+
+* Some verbs take clauses as complements and these clauses alternate with direct objects (nouns or pronouns).
+  Such clausal complements are attached as [ccomp]():
+
+~~~conllu
+# text = La professora ha reiterat que considera que Arola i Igual van prevaricar.
+# text_en = The teacher has reiterated that she considers that Arola and Igual committed fraud.
+1	La	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	Gloss=the
+2	professora	professora	NOUN	ncfs000	Gender=Fem|Number=Sing	4	nsubj	_	ArgTem=arg0:agt|Gloss=teacher
+3	ha	haver	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	Gloss=has
+4	reiterat	reiterar	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Gloss=reiterated
+5	que	que	SCONJ	cs	_	6	mark	_	Gloss=that
+6	considera	considerar	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	ArgTem=arg1:pat|Gloss=considers
+7	que	que	SCONJ	cs	_	12	mark	_	Gloss=that
+8	Arola	Arola	PROPN	np0000p	_	12	nsubj	_	ArgTem=arg0:agt|Gloss=Arola
+9	i	i	CCONJ	cc	_	10	cc	_	Gloss=and
+10	Igual	Igual	PROPN	np0000p	_	8	conj	_	Gloss=Igual
+11	van	anar	AUX	vaip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	Gloss=PAST
+12	prevaricar	prevaricar	VERB	vmn0000	VerbForm=Inf	6	xcomp	_	SpaceAfter=No|ArgTem=arg1:pat|Gloss=commit.fraud
+13	.	.	PUNCT	fp	PunctType=Peri	4	punct	_	Gloss=.
+
+~~~
+
+~~~conllu
+# text = La professora ho ha reiterat.
+# text_en = The teacher has reiterated it.
+1	La	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	Gloss=the
+2	professora	professora	NOUN	ncfs000	Gender=Fem|Number=Sing	5	nsubj	_	ArgTem=arg0:agt|Gloss=teacher
+3	ho	ell	PRON	pp3nn000	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	obj	_	ArgTem=arg2:pat|Gloss=it
+4	ha	haver	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	Gloss=has
+5	reiterat	reiterar	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|Gloss=reiterated
+6	.	.	PUNCT	fp	PunctType=Peri	5	punct	_	Gloss=.
+
+~~~
+
 ### Relations Overview
 
 * The following relation subtypes are used in Catalan:
