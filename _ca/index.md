@@ -215,6 +215,28 @@ udver: '2'
 
 ### Subordination
 
+* Instead of a nominal, a clause may act as the subject of another clause.
+  Such clausal subjects are attached as [csubj]():
+
+~~~conllu
+# text = D'entrada va quedar clar que l'individu no hi tocava gens.
+# text_en = From the outset it was clear that the individual was not involved at all.
+1	D'	de	ADP	sps00	_	2	case	_	SpaceAfter=No|Gloss=from
+2	entrada	entrada	NOUN	ncfs000	Gender=Fem|Number=Sing	4	obl	_	Gloss=outset
+3	va	anar	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	Gloss=PAST
+4	quedar	quedar	VERB	vmn0000	VerbForm=Inf	0	root	_	Gloss=remain
+5	clar	clar	ADJ	aq0ms0	Gender=Masc|Number=Sing	4	obj	_	ArgTem=arg2:atr|Gloss=clear
+6	que	que	SCONJ	cs	_	11	mark	_	Gloss=that
+7	l'	el	DET	da0cs0	Definite=Def|Number=Sing|PronType=Art	8	det	_	SpaceAfter=No|Gloss=the
+8	individu	individu	NOUN	ncms000	Gender=Masc|Number=Sing	11	nsubj	_	ArgTem=arg1:tem|Gloss=individual
+9	no	no	ADV	rn	Polarity=Neg	11	advmod	_	Gloss=not
+10	hi	hi	PRON	pp3cn000	Case=Loc|Person=3|PronType=Prs	11	obj	_	Gloss=there
+11	tocava	tocar	VERB	vmii3s0	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	csubj	_	ArgTem=arg1:tem|Gloss=was.playing
+12	gens	gens	ADV	rg	_	11	advmod	_	SpaceAfter=No|ArgTem=argM:adv|Gloss=at.all
+13	.	.	PUNCT	fp	PunctType=Peri	4	punct	_	Gloss=.
+
+~~~
+
 * Some verbs take clauses as complements and these clauses alternate with direct objects (nouns or pronouns).
   Such clausal complements are attached as [ccomp]():
 
@@ -232,7 +254,7 @@ udver: '2'
 9	i	i	CCONJ	cc	_	10	cc	_	Gloss=and
 10	Igual	Igual	PROPN	np0000p	_	8	conj	_	Gloss=Igual
 11	van	anar	AUX	vaip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	Gloss=PAST
-12	prevaricar	prevaricar	VERB	vmn0000	VerbForm=Inf	6	xcomp	_	SpaceAfter=No|ArgTem=arg1:pat|Gloss=commit.fraud
+12	prevaricar	prevaricar	VERB	vmn0000	VerbForm=Inf	6	ccomp	_	SpaceAfter=No|ArgTem=arg1:pat|Gloss=commit.fraud
 13	.	.	PUNCT	fp	PunctType=Peri	4	punct	_	Gloss=.
 
 ~~~
