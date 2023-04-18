@@ -335,6 +335,30 @@ udver: '2'
 
 ~~~
 
+* There is a productive construction in which an article governs a relative clause. Together they
+  fill any slot in the superordinate clause that allows a nominal. Formally the slot is filled by
+  the article, hence if the slot corresponds to an object of a verb, the article is attached as [obj]()
+  but the clause is not attached as [ccomp](). The clause formally modifies a nominal (the article),
+  in the same way in which relative clauses are constructed, so the relation between the article and
+  the subordinate clause is [acl:relcl](). If the governing article is definite _(el, la, els, les),_
+  it corresponds to English “the one”; if it is indefinite _(un, una),_ it corresponds to “one”.
+
+~~~conllu
+# text = També afavoreix els que procedeixen de les excolònies espanyoles.
+# text_en = It also favors those who come from the former Spanish colonies.
+1	També	també	ADV	rg	_	2	advmod	_	Gloss=also
+2	afavoreix	afavorir	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=favors
+3	els	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	obj	_	Gloss=those
+4	que	que	PRON	pr0cn000	PronType=Rel	5	nsubj	_	ArgTem=arg1:tem|Gloss=who
+5	procedeixen	procedir	VERB	vmip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	Gloss=come
+6	de	de	ADP	sps00	_	8	case	_	Gloss=from
+7	les	el	DET	da0fp0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	Gloss=the
+8	excolònies	excolònia	NOUN	nc00000	Gender=Fem|Number=Plur	5	obl:arg	_	ArgTem=arg2:loc|Gloss=former-colonies
+9	espanyoles	espanyol	ADJ	aq0fp0	Gender=Fem|Number=Plur	8	amod	_	Gloss=Spanish
+10	.	.	PUNCT	fp	PunctType=Peri	2	punct	_	Gloss=.
+
+~~~
+
 ### Relations Overview
 
 * The following relation subtypes are used in Catalan:
