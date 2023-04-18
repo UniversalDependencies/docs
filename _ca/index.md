@@ -342,6 +342,9 @@ udver: '2'
   in the same way in which relative clauses are constructed, so the relation between the article and
   the subordinate clause is [acl:relcl](). If the governing article is definite _(el, la, els, les),_
   it corresponds to English “the one”; if it is indefinite _(un, una),_ it corresponds to “one”.
+  Note that the same analysis would also arise if we posited an elided noun and the promotion of the
+  article to the head position; in the example below, the article in fact represents the nominal
+  _els futbolistes_ “the footballers”, which can be inferred from the preceding sentence in the corpus.
 
 ~~~conllu
 # text = També afavoreix els que procedeixen de les excolònies espanyoles.
