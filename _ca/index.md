@@ -362,6 +362,34 @@ udver: '2'
 
 ~~~
 
+* If a verb expects another predicate (i.e., clause) as complement and the subject of the subordinate
+  clause is obligatorily coreferential with an argument (subject or object) of the main verb, then the
+  relation between the two verbs is [xcomp](). The subordinate verb is typically (but not necessarily)
+  infinitive, sometimes accompanied with a preposition selected by the main verb. Such complements are
+  considered core arguments but they do not necessarily alternate with a direct nominal object; in fact,
+  for certain main verbs they occur together with an object, which is the argument that the subject of
+  the `xcomp` clause is coreferential with.
+
+~~~conllu
+# text = La víctima va aconseguir fer-lo desistir en oposar resistència a mossegades.
+# text_en = The victim managed to make him give up by resisting bites.
+1	La	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	Gloss=the
+2	víctima	víctima	NOUN	ncfs000	Gender=Fem|Number=Sing	4	nsubj	_	ArgTem=arg0:agt|Gloss=victim
+3	va	anar	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	Gloss=PAST
+4	aconseguir	aconseguir	VERB	vmn0000	VerbForm=Inf	0	root	_	Gloss=manage
+5-6	fer-lo	_	_	_	_	_	_	_	_
+5	fer	fer	VERB	vmn0000	VerbForm=Inf	4	xcomp	_	ArgTem=arg1:pat|Gloss=make
+6	lo	ell	PRON	pp3msa00	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	ArgTem=arg1:pat|Gloss=him
+7	desistir	desistir	VERB	vmn0000	VerbForm=Inf	5	xcomp	_	Gloss=give.up
+8	en	en	ADP	sps00	_	9	mark	_	Gloss=by
+9	oposar	oposar	VERB	vmn0000	VerbForm=Inf	4	advcl	_	ArgTem=argM:adv|Gloss=put.up
+10	resistència	resistència	NOUN	ncfs000	Gender=Fem|Number=Sing	9	obj	_	ArgTem=arg1:pat|Gloss=resistence
+11	a	a	ADP	sps00	_	12	case	_	Gloss=to
+12	mossegades	mossegada	NOUN	ncfp000	Gender=Fem|Number=Plur	9	obl	_	SpaceAfter=No|ArgTem=argM:mnr|Gloss=bites
+13	.	.	PUNCT	fp	PunctType=Peri	4	punct	_	Gloss=.
+
+~~~
+
 ### Relations Overview
 
 * The following relation subtypes are used in Catalan:
