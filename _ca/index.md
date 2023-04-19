@@ -369,6 +369,8 @@ udver: '2'
   considered core arguments but they do not necessarily alternate with a direct nominal object; in fact,
   for certain main verbs they occur together with an object, which is the argument that the subject of
   the `xcomp` clause is coreferential with.
+  * In some cases the traditional grammar may list a verb as auxiliary but it does not fit in the more
+    narrow definition of auxiliaries in UD and is analyzed as the main verb of an `xcomp` construction.
 
 ~~~conllu
 # text = La víctima va aconseguir fer-lo desistir en oposar resistència a mossegades.
@@ -387,6 +389,23 @@ udver: '2'
 11	a	a	ADP	sps00	_	12	case	_	Gloss=to
 12	mossegades	mossegada	NOUN	ncfp000	Gender=Fem|Number=Plur	9	obl	_	SpaceAfter=No|ArgTem=argM:mnr|Gloss=bites
 13	.	.	PUNCT	fp	PunctType=Peri	4	punct	_	Gloss=.
+
+~~~
+
+~~~conllu
+# text = L'any 1966 va començar a treballar a la Diputació.
+# text_en = In 1966 he started working at the Provincial Council.
+1	L'	el	DET	da0cs0	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No|Gloss=the
+2	any	any	NOUN	_	_	5	obl	_	ArgTem=argM:tmp|Gloss=year
+3	1966	1966	NUM	_	NumForm=Digit|NumType=Card	2	nmod	_	Gloss=1966
+4	va	anar	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	Gloss=PAST
+5	començar	començar	VERB	vmn0000	VerbForm=Inf	0	root	_	Gloss=start
+6	a	a	ADP	sps00	_	7	mark	_	Gloss=to
+7	treballar	treballar	VERB	vmn0000	VerbForm=Inf	5	xcomp	_	Gloss=work
+8	a	a	ADP	sps00	_	10	case	_	Gloss=at
+9	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	Gloss=the
+10	Diputació	Diputació	PROPN	np0000o	_	5	obl	_	SpaceAfter=No|ArgTem=argM:loc|Gloss=Provincial.Council
+11	.	.	PUNCT	fp	PunctType=Peri	5	punct	_	Gloss=.
 
 ~~~
 
