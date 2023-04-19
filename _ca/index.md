@@ -371,6 +371,13 @@ udver: '2'
   the `xcomp` clause is coreferential with.
   * In some cases the traditional grammar may list a verb as auxiliary but it does not fit in the more
     narrow definition of auxiliaries in UD and is analyzed as the main verb of an `xcomp` construction.
+  * The `xcomp` relation is also used for certain cases of secondary predication (except for optional
+    depictives, for which [advcl]() is used). Secondary predication is often realized using a nominal
+    or an adjective that makes additional claims about the subject (how it looked during the main
+    action, what it became as a result of the action etc.)
+  * In some cases the traditional grammar may list a verb as a (pseudo-)copula but it cannot be a copula
+    in UD (where only _ser_ and _estar_ have the copula status). Instead, the putative copula is analyzed
+    as the main verb in an `xcomp` construction.
 
 ~~~conllu
 # text = La víctima va aconseguir fer-lo desistir en oposar resistència a mossegades.
@@ -406,6 +413,23 @@ udver: '2'
 9	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	Gloss=the
 10	Diputació	Diputació	PROPN	np0000o	_	5	obl	_	SpaceAfter=No|ArgTem=argM:loc|Gloss=Provincial.Council
 11	.	.	PUNCT	fp	PunctType=Peri	5	punct	_	Gloss=.
+
+~~~
+
+~~~conllu
+# text = La frontera entre una cosa i l'altra sembla clara.
+# text_en = The border between one thing and the other seems clear.
+1	La	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	Gloss=the
+2	frontera	frontera	NOUN	ncfs000	Gender=Fem|Number=Sing	9	nsubj	_	ArgTem=arg1:tem|Gloss=border
+3	entre	entre	ADP	sps00	_	5	case	_	Gloss=between
+4	una	un	DET	di0fs0	Gender=Fem|Number=Sing|PronType=Ind	5	det	_	Gloss=one
+5	cosa	cosa	NOUN	ncfs000	Gender=Fem|Number=Sing	2	nmod	_	Gloss=thing
+6	i	i	CCONJ	cc	_	8	cc	_	Gloss=and
+7	l'	el	DET	da0cs0	Definite=Def|Number=Sing|PronType=Art	8	det	_	SpaceAfter=No|Gloss=the
+8	altra	altre	PRON	pi0fs000	Gender=Fem|Number=Sing|PronType=Ind	5	conj	_	Gloss=other
+9	sembla	semblar	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=seems
+10	clara	clar	ADJ	aq0fs0	Gender=Fem|Number=Sing	9	xcomp	_	SpaceAfter=No|ArgTem=arg2:atr|Gloss=clear
+11	.	.	PUNCT	fp	PunctType=Peri	9	punct	_	Gloss=.
 
 ~~~
 
