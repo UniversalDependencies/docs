@@ -411,7 +411,7 @@ udver: '2'
 7	treballar	treballar	VERB	vmn0000	VerbForm=Inf	5	xcomp	_	Gloss=work
 8	a	a	ADP	sps00	_	10	case	_	Gloss=at
 9	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	Gloss=the
-10	Diputació	Diputació	PROPN	np0000o	_	5	obl	_	SpaceAfter=No|ArgTem=argM:loc|Gloss=Provincial.Council
+10	Diputació	Diputació	PROPN	np0000o	_	7	obl	_	SpaceAfter=No|ArgTem=argM:loc|Gloss=Provincial.Council
 11	.	.	PUNCT	fp	PunctType=Peri	5	punct	_	Gloss=.
 
 ~~~
