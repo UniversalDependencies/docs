@@ -58,6 +58,16 @@ The Nomen Agensis is derived from a verb with an agent or performer, and it repr
 
 * [mdf] _— Вов вдь мянь коза пачфти тяфтама <b>ётафтысь</b>._ "— So, you even see where this kind of <b>conductor</b> will get you.."
 
+### <a name="Part">`Part`</a>: Participle
+
+Words in participle forms are assigned the `VerbForm` value `Part`.
+Participle forms are further differentiated using the feature
+[PartForm]().
+
+#### Examples
+
+* [mdf] _— колмоцьке танкатне ульсть <b>путфт</b> вастоваст_ "— all three of the tanks were <b>put</b> in their places"
+
 ### <a name="Sup">`Sup`</a>: supine aka second/nominative/locative infinitive
 
 The second infinitive in /-Omo-/, /-Oma/ aka the
