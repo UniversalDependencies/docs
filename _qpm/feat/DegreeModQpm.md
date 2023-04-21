@@ -9,7 +9,7 @@ udver: '2'
 
 Pomak expresses degree modification of nouns, adjectives, past participles and adverbs with a variety of morphological (and syntactic) means:
 
-### <a name="Degree=Dim">`Dim`</a>: diminutive
+### <a name="Degree">`Dim`</a>: diminutive
 
 #### Examples
 
