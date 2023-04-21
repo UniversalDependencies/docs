@@ -58,6 +58,14 @@ Produces pronoun-like nominals from nearly any words that can take an indefinite
 
 * [mdf] _а ульцясь июленнекс пси._ "but the street is hot like July"
 
+### <a name="Protas">`Protas`</a>: protasis marker, aka conditional -Ондеря-
+
+Marks the protasis verb, which may be in the the so-called subjunctive (presumably this conditional) and indicative non-past and past (quite infrequent).
+
+#### Examples
+
+* [mdf] _А <b>кадондярясак</b> тяфтак,._ "And <b>if you leave it</b> like this,."
+
 ### <a name="Wife">`Wife`</a>: derivation with suffix -эря
 
 Produces wife address name based on husband's name/nick name.
