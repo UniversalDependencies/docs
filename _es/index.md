@@ -27,6 +27,8 @@ udver: '2'
 
 ### Tags
 
+This is an overview only. For more detailed discussion and examples, see the list of [Spanish POS tags](pos/index.html).
+
 * Spanish uses all 17 universal POS categories, including particles ([PART]()).
 * The only word to be tagged as particle is _no_ “not”.
 * TODO: rules for the PRON vs. DET distinction.
@@ -113,6 +115,8 @@ udver: '2'
 * The following universal features are not used in Spanish: [Animacy](), [Evident]().
 
 ## Syntax
+
+This is an overview only. For more detailed discussion and examples, see the list of [Spanish relations](dep/index.html).
 
 ### Core Arguments, Oblique Arguments and Adjuncts
 
