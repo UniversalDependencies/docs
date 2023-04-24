@@ -2,6 +2,7 @@
 layout: postag
 title: 'PROPN'
 shortdef: 'proper_noun'
+udver: '2'
 ---
 
 ### Definition
