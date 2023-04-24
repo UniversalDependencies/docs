@@ -2,6 +2,7 @@
 layout: postag
 title: 'ADJ'
 shortdef: 'adjective'
+udver: '2'
 ---
 
 ### Definition
@@ -22,13 +23,13 @@ Adjectives in Spanish agree in number and gender with the noun they modify, e.g.
 * _incomprensible_ “incomprehensible”
 * _primero_ "first", _segundo_ "second", _tercero_ "third"
 
-The class of adjectives in Spanish UD also includes ordinal numbers and participles. Ordinal numbers can function in different contexts, as adverbs (ADV) when modifying a verb (VERB), as adjectives (ADJ) when modifying a noun (NOUN). Note that participles are word forms that may share properties and usage of adjectives and verbs. Depending on context, they may be classified as either [VERB]() or ADJ. In the case of participial adjectives, the lemma is not the verb in the infinitive form, but rather the masculine singular form of the participle.
+The class of adjectives in Spanish UD also includes ordinal numbers and participles. Ordinal numbers can function in different contexts, as adverbs (ADV) when modifying a verb (VERB), as adjectives (ADJ) when modifying a noun (NOUN). They are tagged `ADJ` in both situations (while the dependency relation will distinguish [amod]() from [advmod]()). Note that participles are word forms that may share properties and usage of adjectives and verbs. Depending on context, they may be classified as either [VERB]() or ADJ. In the case of participial adjectives, the lemma is not the verb in the infinitive form, but rather the masculine singular form of the participle.
 
 ### For example:
 
 form: _moderada_; lemma: _moderado_ "moderated"
 form: _organizadas_; lemma: _organizado_ "organized"
 
-In Spanish, there are two types of possessive adjectives: unstressed (mi, tu, su, nuestro, vuestro) and stressed (mío, tuyo, suyo, nuestro, vuestro).These possessive adjectives agree in gender and number with the noun they modify and are treated as [DET]() within the UD framework.
+In Spanish, there are two types of possessive adjectives: unstressed (mi, tu, su, nuestro, vuestro) and stressed (mío, tuyo, suyo, nuestro, vuestro). These possessive adjectives agree in gender and number with the noun they modify and are treated as [DET]() within the UD framework.
 
 <!-- Interlanguage links updated Po lis 14 15:34:28 CET 2022 -->
