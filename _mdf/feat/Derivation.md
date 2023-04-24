@@ -66,6 +66,14 @@ Marks the protasis verb, which may be in the the so-called subjunctive (presumab
 
 * [mdf] _А <b>кадондярясак</b> тяфтак,._ "And <b>if you leave it</b> like this,."
 
+### <a name="Voc">`Voc`</a>: vocative derivation with suffix -й or кай
+
+Used with proper nouns and kinship terms ending in vowels.
+
+#### Examples
+
+* [mdf] _ялгай_ "friend"
+
 ### <a name="Wife">`Wife`</a>: derivation with suffix -эря
 
 Produces wife address name based on husband's name/nick name.
