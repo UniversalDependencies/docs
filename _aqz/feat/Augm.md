@@ -16,9 +16,6 @@ udver: '2'
 
 `Augm` the Augmentative 'atʃo'
 
-### <a name="Yes">`Yes`</a>: Yes
-
-
 #### Example
 
 * _<b>awawaʧo</b>&nbsp;_ “Many bees”
