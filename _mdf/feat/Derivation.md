@@ -34,6 +34,18 @@ Produces indefinite genitive-like modifiers from adverbs
 
 * [mdf] _озадонь_ "sitting"
 
+### <a name="OvOms">`OvOms`</a>: derivation with suffix -ОвОмс
+
+Produces a verb form with epistemic modality and an inherent telicity but no volition.
+With derivations from transitive verbs this may be close to a "get" passive, whereas the
+intransitive derivation seems closer to a "manage to/happen to" reading.
+
+#### Examples
+
+* [mdf] _шарькодевомс_ "to be comprehensible/to get understood"
+* [mdf] _содавомс_ "to get recognized"
+* [mdf] _ярхцавомс_ "to happen/manage to eat (too much)"
+
 ### <a name="Ozj">`Ozj`</a>: derivation with suffix -Озь
 
 Produces converb.

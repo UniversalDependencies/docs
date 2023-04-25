@@ -61,11 +61,15 @@ Produces deverbal nouns that generally indicate an instrument.
 
 ### <a name="OvOms">`OvOms`</a>: derivation with suffix -ОвОмс
 
-Produces converb.
+Produces a verb form with epistemic modality and an inherent telicity but no volition.
+With derivations from transitive verbs this may be close to a "get" passive, whereas the
+intransitive derivation seems closer to a "manage to/happen to" reading.
 
 #### Examples
 
 * [myv] _содавомс_ "to get recognized"
+* [myv] _удовомс_ "to manage to sleep (too much)"
+* [myv] _ярсавомс_ "to eat (too much)"
 
 ### <a name="Ovt">`Ovt`</a>: derivation with suffix -Овт/-Овть
 
