@@ -34,5 +34,13 @@ It contributes in past and non-past tense to Moksha aspect.
 
 * [mdf] _Тишка каязе пиджаконц и <b>кармась</b> работама ёфси маласа._ "Tishka took off his jacket and <b>began</b> working right close by."
 
+### <a name="Perf">`Perf`</a>: Perfective
+
+The perfective aspect is typical of the past participle in -ф 
+
+#### Examples
+
+* [mdf] _Митричень пингста <b>тиф</b> тя мастерскойсь._ "This workshop was <b>made</b> in Mitrich's time."
+
 
 <!-- Interlanguage links updated Po lis 14 15:34:40 CET 2022 -->

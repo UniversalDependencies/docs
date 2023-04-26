@@ -32,7 +32,7 @@ It contributes in past and non-past tense to Erzya aspect.
 
 #### Examples
 
-* [myv] _Кизэнь тюстнэ <b>кармасть</b> оламо._ "The	summer colors began to fade."
+* [myv] _Кизэнь тюстнэ <b>кармасть</b> оламо._ "The summer colors <b>began</b> to fade."
 
 
 <!-- Interlanguage links updated Po lis 14 15:34:40 CET 2022 -->
