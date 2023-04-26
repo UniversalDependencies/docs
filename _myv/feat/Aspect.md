@@ -25,14 +25,14 @@ Is used in regular indicative conjugation for indicating past habitual and past 
 
 * [myv] _Секс сёрмадомань техникась <b>кадовиль</b> яла удалов._ "For this reason, writing [his] writing technique would not keep up."
 
-### <a name="Inch">`Inch`</a>: inchoative derivation with suffix -Озевемс
+### <a name="Inch">`Inch`</a>: inchoative 
 
-Produces deverbal verbs with inchoative sense.
+The inchoative is typically expressed by the verb кармамс
+It contributes in past and non-past tense to Erzya aspect.
 
 #### Examples
 
-* [myv] _потазевемс_ "suddenly step back"
-* [myv] _кортазевемс_ "unexpectedly begin to speak"
+* [myv] _Кизэнь тюстнэ <b>кармасть</b> оламо._ "The	summer colors began to fade."
 
 
 <!-- Interlanguage links updated Po lis 14 15:34:40 CET 2022 -->
