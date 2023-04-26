@@ -70,7 +70,7 @@ Produces pronoun-like nominals from nearly any words that can take an indefinite
 
 * [mdf] _а ульцясь июленнекс пси._ "but the street is hot like July"
 
-### <a name="Protas">`Protas`</a>: protasis marker, aka conditional -Ондеря-
+### <a name="Cond">`Cond`</a>: protasis marker, aka conditional -Ондеря-
 
 Marks the protasis verb, which may be in the the so-called subjunctive (presumably this conditional) and indicative non-past and past (quite infrequent).
 

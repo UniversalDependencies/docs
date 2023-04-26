@@ -100,13 +100,14 @@ Produces indefinite pronouns, adverbs.
 * [myv] _мезеяк_ "anything"
 * [myv] _косояк_ "anywhere"
 
-### <a name="Protas">`Protas`</a>: protasis marker, aka conditional -Ондеря-
+### <a name="Cond">`Cond`</a>: protasis marker, aka conditional -Ондеря-
 
 Marks the protasis verb, which may be in the the so-called subjunctive (presumably this conditional) and indicative non-past and past (quite infrequent).
 
 #### Examples
 
 * [myv] _<b>Мериндеряволь</b> исяк — саевлинек эйкакшонть мартонок..._ "<b>if he/she/it had said</b> yesterday, we would have taken the child with us."
+
 
 ### <a name="VSj">`VSj`</a>: derivation with suffix -сь
 
