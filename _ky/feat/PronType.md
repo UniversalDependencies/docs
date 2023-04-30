@@ -69,4 +69,14 @@ _Бир_.
 
 * _Бир_ "a"
 
-<!-- Interlanguage links updated Po lis 14 15:34:56 CET 2022 -->
+### <a name="Ind">`Ind`</a>: indefinite pronoun, determiner, numeral or adverb
+
+Note that some tagsets might further subclassify this category to distinguish “some” from “any” etc.
+
+_баары_.
+
+#### Examples:
+
+* _Баарын ыргытам._ "I throw everything away."
+
+ 
