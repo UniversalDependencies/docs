@@ -5,21 +5,22 @@ shortdef: 'reduplicated compound'
 udver: '2'
 ---
 
-The label `compound:redup` (reduplicated compounds) is a sub-type of compound relation that covers a range of reduplicated forms.
-Reduplication is a common process, especially with adverbs and adjectives. The reduplication typically involves two identical words, but some morpho-phonological alternations  are possible.
-Usually, the head is the last word. This dependency is traced in Pomak, too:  
+The [compound:redup]() dependency  is a subtype of the [compound]() dependency that models a range of reduplicated forms.
+Reduplication is a common process, especially with adverbs and adjectives and typically involves two identical words although some morpho-phonological alternations  are possible.
+Usually, the head is the last word. The [compound:redup]() dependency is traced in Pomak:  
 
 ~~~ sdparse
 adín sítan sítan dožd letǽšo  
-a very soft rain was raining 
 lit: a soft soft rain was raining
-compound:redup (sítan, sítan)
+"a very soft rain was raining" 
+compound:redup(sítan, sítan)
 ~~~
 
 It also appears in loans from Turkish:
 
 ~~~ sdparse
 déteno javáš javáš narášte
-the child slowly slowly grows up
+lit: the child slowly slowly grows up
+"the child grows up very slowly"
 compound:redup (javáš, javáš)
 ~~~

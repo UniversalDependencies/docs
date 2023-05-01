@@ -162,9 +162,9 @@ More details are discussed in the [guidelines for typos](u/overview/typos.html).
 
 ### Discourse
 
-This annotation is used to indicate discourse relations between discourse units, which may or may not span whole sentences. At the beginning of each elementary discourse unit (EDU), the annotation `Discourse` gives the discourse function of the unit beginning with that token, followed by a colon, the ID of the current unit, and an arrow pointing to the ID of the parent unit in the discourse parse. 
+This annotation is used to indicate discourse relations between discourse units, which may or may not span whole sentences. At the beginning of each elementary discourse unit (EDU), the annotation `Discourse` gives the discourse function of the unit beginning with that token, followed by a colon, the ID of the current unit, and an arrow pointing to the ID of the parent unit in the discourse parse.
 
-For instance, Discourse=purpose:105->104:0 at token 21 in the example below means that this token begins discourse unit 105, which functions as a purpose to unit 104, which begins at token 1 in this sentence ("Padalecki partnered with co-star Jensen Ackles --purpose-> to release a shirt..."). In relations derived from hierarchical discourse trees, as in UD_English-GUM, we also have an added number after a colon - the final :0 indicates that the attachment has a depth of 0, without an intervening span in the original RST constituent tree (this information allows deterministic reconstruction of the RST constituent discourse tree from the conllu file). 
+For instance, Discourse=purpose:105->104:0 at token 21 in the example below means that this token begins discourse unit 105, which functions as a purpose to unit 104, which begins at token 1 in this sentence ("Padalecki partnered with co-star Jensen Ackles --purpose-> to release a shirt..."). In relations derived from hierarchical discourse trees, as in UD_English-GUM, we also have an added number after a colon - the final :0 indicates that the attachment has a depth of 0, without an intervening span in the original RST constituent tree (this information allows deterministic reconstruction of the RST constituent discourse tree from the conllu file).
 
 ```CoNLL-U
 1	For	for	ADP	IN	_	4	case	4:case	Discourse=sequence_m:104->98:2
@@ -198,7 +198,7 @@ For instance, Discourse=purpose:105->104:0 at token 21 in the example below mean
 29	faces	face	NOUN	NNS	Number=Plur	26	nmod	26:nmod:of	SpaceAfter=No
 ```
 
-The unique ROOT node of the discourse tree has no arrow notation, e.g. `Discourse=ROOT:2:0` means that this token begins unit 2, which is the Central Discourse Unit (or discourse root) of the current document. 
+The unique ROOT node of the discourse tree has no arrow notation, e.g. `Discourse=ROOT:2:0` means that this token begins unit 2, which is the Central Discourse Unit (or discourse root) of the current document.
 
 <a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^Discourse$"><button>Table for <code>Discourse</code> feature</button></a>
 
@@ -250,7 +250,7 @@ Note that key-value annotations aside from the group ID are not repeated at clos
 13	.	.	PUNCT	.	_	3	punct	3:punct	_
 ```
 
-In this example, each Entity annotation again contains possibly multiple opening or closing entities (see token 11, which begins both "his" and "his father", i.e. we have [[his] father] as a nested entity). There are six segments to each opening bracket, separated by hyphen, including entity, GRP and identity as before, but also infstat (information status), MIN (the minimal span for fuzzy entity matching, indicating running token numbers inside the entity span) and coref_type, for example 'ana' for pronominal anaphora. 
+In this example, each Entity annotation again contains possibly multiple opening or closing entities (see token 11, which begins both "his" and "his father", i.e. we have [[his] father] as a nested entity). There are six segments to each opening bracket, separated by hyphen, including entity, GRP and identity as before, but also infstat (information status), MIN (the minimal span for fuzzy entity matching, indicating running token numbers inside the entity span) and coref_type, for example 'ana' for pronominal anaphora.
 
 For more details and use case of the `Entity` annotation, see the [Universal Anaphora documentation](https://github.com/UniversalAnaphora/UniversalAnaphora/blob/main/documents/UA_CONLL_U_proposal_compact.md)
 
@@ -446,7 +446,7 @@ e.g. in Ukrainian, Armenian, Sanskrit, Telugu, and Tamil.
     3     अनुश्रूयते   अनु-श्रु	VERB    _   Mood=Ind|…|Voice=Pass     0   root     _   Translit=anuśrūyate|LTranslit=anu-śru|Gloss=it-is-heard
     4     ।      	।	PUNCT   _   _                         3   punct    _   Translit=.|LTranslit=.|Gloss=.
 
-<a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^Translit$"><button>Table for <code>Translit</code> feature</button></a>
+<a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^LTranslit$"><button>Table for <code>LTranslit</code> feature</button></a>
 
 ### MGloss
 
@@ -580,7 +580,7 @@ It is attested in Catalan AnCora, Portuguese Bosque (as _MWE), Spanish AnCora.
     9	la          el          DET     _   _   10   det     _   _
     10	condemna    condemna    NOUN    _   _   8    obj     _   _
 
-<a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^MWE$"><button>Table for <code>Morf</code> feature</button></a>
+<a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^MWE$"><button>Table for <code>MWE</code> feature</button></a>
 
 ### MWEPOS
 
@@ -923,6 +923,38 @@ Used in Hindi HDTB and Urdu UDTB.
 
 <a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^Stype$"><button>Table for <code>Stype</code> feature</button></a>
 
+### Subject
+
+The guidelines normally allow at most one subject attached to the same predicate. However, since
+UD 2.10 (May 2022), [multiple subjects are exceptionally allowed](https://universaldependencies.org/changes.html#multiple-subjects)
+when a clause acts as the predicate of an outer clause. It is recommended (and by default expected)
+that the outer subject(s) is (are) then labeled with the relation subtype [nsubj:outer]() or
+[csubj:outer](). However, relation subtypes are optional and there may be a good reason to not
+use the subtype (e.g., there would be only one instance of the outer subject in the whole corpus,
+and it would occur in the test data, so no parser would have a chance to learn how to predict it).
+In such cases the treebank maintainer can opt out of using the `:outer` subtype. They still need
+to mark each instance as verified and legitimate, otherwise the UD validator would report it as
+an error. This is done by adding `Subject=Outer` to the MISC column on the line where `nsubj:outer`
+would be if the subtype were used.
+
+```CoNLL-U
+# sent_id = sahidica_1corinthians-1Cor_03_s0004
+# text_en = For when one says, 'I follow Paul,' and another, 'I follow Apollos,' aren't you fleshly?
+# text = ϩⲟⲧⲁⲛ ⲅⲁⲣ ⲉⲣϣⲁⲛⲟⲩⲁ ϫⲟⲟⲥ ϫⲉⲁⲛⲟⲕ ⲙⲉⲛ ⲁⲛⲅⲡⲁⲡⲁⲩⲗⲟⲥ . ⲕⲉⲟⲩⲁ ⲇⲉ ϫⲉⲁⲛⲅⲡⲁⲁⲡⲟⲗⲗⲱ . ⲙⲏ ⲛⲧⲉⲧⲛ ϩⲉⲛⲣⲱⲙⲉ ⲁⲛ .
+14-15	ⲕⲉⲟⲩⲁ	_	_	_	_	_	_	_	_
+14	ⲕⲉ	ⲕⲉ	DET	ART	PronType=Art	15	det	_	_
+15	ⲟⲩⲁ	ⲟⲩⲁ	NUM	NUM	NumType=Card	20	nsubj	_	Entity=(person)|Subject=Outer
+16	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	20	advmod	_	OrigLang=grc
+17-20	ϫⲉⲁⲛⲅⲡⲁⲁⲡⲟⲗⲗⲱ	_	_	_	_	_	_	_	_
+17	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	20	mark	_	_
+18	ⲁⲛⲅ	ⲁⲛⲟⲕ	PRON	PPERI	Definite=Def|Number=Sing|Person=1|PronType=Prs	20	nsubj	_	_
+19	ⲡⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	20	det	_	Entity=(person
+20	ⲁⲡⲟⲗⲗⲱ	ⲁⲡⲟⲗⲗⲱ	PROPN	NPROP	Foreign=Yes	12	parataxis	_	Entity=(person-Apollos)person)|OrigLang=grc
+21	.	.	PUNCT	PUNCT	_	5	punct	_	_
+```
+
+<a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^Subject$"><button>Table for <code>Subject</code> feature</button></a>
+
 ### Tam
 
 See also [Vib](#vib).
@@ -947,7 +979,7 @@ Used in Hindi HDTB and Urdu UDTB.
 
 ### TraditionalMood
 
-This feature is used in three Latin treebanks (IT-TB, LLCT, UDante), and together with [TraditionalTense](#TraditionalTense) supplies the traditional denominations of verb forms, in particular of "mood". This is made for convenience, as the typologically-driven decomposition of tenses in UD features can be different from language-specific terminology and sometimes follows different logics. 
+This feature is used in three Latin treebanks (IT-TB, LLCT, UDante), and together with [TraditionalTense](#TraditionalTense) supplies the traditional denominations of verb forms, in particular of "mood". This is made for convenience, as the typologically-driven decomposition of tenses in UD features can be different from language-specific terminology and sometimes follows different logics.
 
 First and foremost, we note that "mood", in traditional literature about Latin, does not correspond only to UD's [`Mood`](u-feat/Mood), but also covers so-called nonfinite [`VerbForm`](la-feat/VerbForm)s. This is possible because of the complementarity of `Mood`'s distribution in Latin: finite forms express it (`Imp`, `Ind`, `Sub`), while nonfinite forms do not. So, the values for `TraditionalMood` are, with their "translations" in UD:
 
@@ -988,7 +1020,7 @@ Traditional moods and tenses are currently annotated only for single forms, and 
 
 ### TraditionalTense
 
-This feature is used in three Latin treebanks (IT-TB, LLCT, UDante), and together with [TraditionalMood](#TraditionalMood) supplies the traditional denominations of verb forms, in particular of "tense". This is made for convenience, as the typologically-driven decomposition of tenses in UD features can be different from language-specific terminology and sometimes follows different logics. 
+This feature is used in three Latin treebanks (IT-TB, LLCT, UDante), and together with [TraditionalMood](#TraditionalMood) supplies the traditional denominations of verb forms, in particular of "tense". This is made for convenience, as the typologically-driven decomposition of tenses in UD features can be different from language-specific terminology and sometimes follows different logics.
 
 In Latin linguistics, the term "tense" is more general than UD's [`Tense`](u-feat/Tense), in that it can mean or encompass also [Aspect](la-feat/Aspect), or be used to refer to a whole periphrastic construction, not just to a single form. The notion of "tense" is extendend with the same terminology also to nonfinite forms, as these do not express `Tense`, and so language-internally no ambiguity arises.
 

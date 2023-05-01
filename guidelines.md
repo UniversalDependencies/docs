@@ -7,7 +7,6 @@ udver: '2'
 
 # UD Guidelines
 
-
 * Basic principles
   * [Tokenization and word segmentation](u/overview/tokenization.html)
   * [Morphology](u/overview/morphology.html)
@@ -33,3 +32,8 @@ udver: '2'
 * Incubator for [Construction-Oriented Documentation](/workgroups/newdoc/index.html) (it will be moved here when it is mature enough)
 
 This is the online documentation of UD guidelines v2 (launched 2016-12-01 with subsequent revisions). For change history, see [Guidelines Changes](changes.html).
+
+# Language-specific Guidelines
+
+<!-- Re-generate: docs-automation\list_lang_spec_docs.pl > docs\_includes\lang_spec_docs.html -->
+{% include lang_spec_docs.html %}

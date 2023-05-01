@@ -24,6 +24,7 @@ But some updates have been necessary to clarify how they should be applied to pa
 
 | &nbsp;&nbsp;#&nbsp;&nbsp; | Date<br>Decided | Effective<Br>Release | Type                     | Title                                         |
 |:-:|:------------:|:-----------------:|--------------------------|-----------------------------------------------|
+| 8 | 2023-Mar     | 2.12              | AMENDMENT, VALIDATOR     | [Typos in Multiword Tokens](#typos-in-multiword-tokens)  |
 | 7 | 2023-Jan     | 2.12              | AMENDMENT                | [Sole `iobj`](#sole-iobj)                     |
 | 6 | 2022-Dec     | 2.12              | AMENDMENT                | [Nested `flat`](#nested-flat)                 |
 | 5 | 2022-May     | 2.10              | AMENDMENT, VALIDATOR     | [Multiple Subjects](#multiple-subjects)       |
@@ -32,8 +33,14 @@ But some updates have been necessary to clarify how they should be applied to pa
 | 2 | 2022-Jan     | 2.10              | AMENDMENT, VALIDATOR     | [Typos and `goeswith`](#typos-and-goeswith)   |
 | 1 | 2021-Dec     | 2.10              | CLARIFICATION, VALIDATOR | [Deverbal Connectives](#deverbal-connectives) |
 
+### Typos in Multiword Tokens
+
+The rule that multiword tokens must not have features in the FEATS column has been [relaxed](https://github.com/UniversalDependencies/docs/commit/609ddf20d5afb080d8feb2595231231137073097) to permit [Typo]()`=Yes`, as this is a surface feature and not every typo can be localized to a single syntactic word.
+However, if a multiword token bears `Typo=Yes`, the feature cannot simultaneously appear on any of its component words.
+See [discussion of typos](/u/overview/typos.html#misspelled-multiword-token).
+
 ### Sole `iobj`
- 
+
 The restriction that [iobj]() can only be used if there is also an overt [obj]() in the same clause is hereby [removed](https://github.com/UniversalDependencies/docs/issues/916). 
 It is preferable not to have a relation whose label depends on the presence or absence of a sister phrase 
 when its interpretation remains the same (like *them* in *tell them* vs. *tell them a story* vs. *tell them that the party is canceled*).

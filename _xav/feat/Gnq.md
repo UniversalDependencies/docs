@@ -1,7 +1,7 @@
 ---
 layout: feature
-title: 'Dimin'
-shortdef: 'diminutive'
+title: 'Gnq'
+shortdef: 'Genericity'
 udver: '2'
 ---
 
@@ -10,26 +10,18 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Yes">Yes</a></td>
   
-  
-
 </tr>
 </table>
 
-`Dimin`  
+`Gnq` 
 
-### <a name="Yes">`Yes`</a>: Yes 
+### <a name="Yes">`Yes`</a>: Yes
 
-The diminutive is expressed with the noun modifier *a'i*, always bound to its host.
 
 #### Examples
 
-* _<b>Pixik-a'i a'e taw</b>&nbsp;_ “That village is very small” (small-DIM PRON village)
-  
-</tr>
-</table>
 
-
-
+* _Pi'õ ma tãma titsõ <b>da</b>tsa hã .;_ “A woman gave him food.”
 
 ## Diffs
 

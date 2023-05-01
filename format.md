@@ -79,8 +79,17 @@ We extract the raw token sequence by skipping all integer IDs that are included 
     3-4    al        _
     5      mar       mar
 
+Although multiword tokens normally cannot have any annotation in other columns than ID, FORM and MISC, there is one
+exception: The FEATS column may contain the feature `Typo=Yes`. For more information, see the page about
+[Typos](/u/overview/typos.html).
+
 To accommodate the use of empty nodes for the analysis of ellipsis in the enhanced dependency representation, we adopt
-a further extension of the indexing scheme from v2. It is possible to insert one or more empty nodes indexed _i_.1, _i_.2, etc. immediately after a word with index _i_ (where _i_ = 0 for sentence-initial empty nodes). Note that the the numbers after the decimal point must form a sequence starting at 1, i.e. it is not allowed to skip _i_.1 and use _i_.2. In the unlikely case that there are ten or more empty nodes between two real tokens, _i_.10 comes after _i_.9, that is, the entire ID is not ordered numerically as a decimal number. Here is an example showing the use of an empty node in the analysis of the sentence _Sue likes coffee and Bill tea_:
+a further extension of the indexing scheme from v2. It is possible to insert one or more empty nodes indexed
+_i_.1, _i_.2, etc. immediately after a word with index _i_ (where _i_ = 0 for sentence-initial empty nodes). Note that
+the the numbers after the decimal point must form a sequence starting at 1, i.e. it is not allowed to skip _i_.1 and
+use _i_.2. In the unlikely case that there are ten or more empty nodes between two real tokens, _i_.10 comes after
+_i_.9, that is, the entire ID is not ordered numerically as a decimal number. Here is an example showing the use of an
+empty node in the analysis of the sentence _Sue likes coffee and Bill tea_:
 
     1      Sue       Sue
     2      likes     like
@@ -90,7 +99,33 @@ a further extension of the indexing scheme from v2. It is possible to insert one
     5.1    likes     like
     6      tea       tea
 
-Empty nodes must have non-empty ID and DEPS fields and empty fields (i.e. underscores) for HEAD and DEPREL, because they are only part of the enhanced dependency graph. All other fields may contain either underscores or values: for example, they can optionally have a word form and lemma as in the example above.
+Empty nodes must have non-empty ID and DEPS fields and empty fields (i.e. underscores) for HEAD and DEPREL, because
+they are only part of the enhanced dependency graph. All other fields may contain either underscores or values: for
+example, they can optionally have a word form and lemma as in the example above.
+
+It is possible for an empty node to be positioned linearly between two syntactic words that are part of (the same)
+multiword token. It does not mean that the empty node is part of the multiword token, too. Multiword tokens are things
+that exist only in the surface sentence, while empty nodes are things that exist in the syntactic structure but not
+on the surface. Therefore empty nodes cannot be members of multiword tokens. Specifically, a multiword token range
+cannot be defined using an empty node ID (4-5.1 or 4.1-5 would be illegal).
+
+If an empty node is positioned before the first word of a multiword token, it must also occur before the multiword
+token range line. Hence, the sequence 7 7.1 8-9 8 9 in the following example is valid, but 7 8-9 7.1 8 9 would be
+invalid (and so would be 7 8-9 8.1 8 9).
+
+    1      nosotros   nosotros
+    2      vamos      ir
+    3-4    al         _
+    3      a          a
+    4      el         el
+    5      mar        mar
+    6      y          y
+    7      vosotros   vosotros
+    7.1    vais       ir
+    8-9    al         _
+    8      a          a
+    9      el         el
+    10     parque     parque
 
 # Morphological Annotation
 
@@ -112,7 +147,9 @@ Swedish sentence _Då var han elva år_ (Then he was eleven years old):
     6    .       .      PUNCT    DL.MAD                _
 
 Morphological annotation is only provided for words.
-Tokens that are not words have an underscore in the UPOS, XPOS and FEATS fields.
+Tokens that are not words have an underscore in the UPOS, XPOS and FEATS fields, with one exception:
+The FEATS column may contain the feature `Typo=Yes`. For more information, see the page about
+[Typos](/u/overview/typos.html).
 
 # Syntactic Annotation
 

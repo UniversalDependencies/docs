@@ -67,6 +67,15 @@ happen, without adding any attitude of the speaker.
 
 * [mdf] _Сон <b>кошардозе</b> мирденц машинань штама._ "She <b>ordered</b> her husband to wash the car."
 
+### <a name="Nec">`Nec`</a>: necessative
+
+The necessative mood is equated with the use of the `-Ома` non-finite occuring in the predicate position.
+In Moksha, this is a homonym of the Vnoun.
+
+#### Examples
+
+* [mdf] _Лётчикне, <b>улема</b>, кядьса токсесазь коволнятнень._ "The pilots , <b>it must be</b>, touch the clouds with their hands."
+
 ### <a name="NegCndSub">`NegCndSub`</a>: negative conditional subjunctive
 
 The negative conditional subjunctive mood is used to express hypothetical negative conditions, i.e. protasis, for actions of the main clause.

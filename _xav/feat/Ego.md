@@ -1,7 +1,7 @@
 ---
 layout: feature
-title: 'Augm'
-shortdef: 'Augm'
+title: 'Ego'
+shortdef: 'ehophoricity'
 udver: '2'
 ---
 
@@ -9,20 +9,19 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Yes">Yes</a></td>
-   
 </tr>
 </table>
 
-`Augmentative` is a type of property modification in which the suffix _-(wa)usu_ is attached to a lexical root.
+`Ego` 
 
 ### <a name="Yes">`Yes`</a>: Yes
 
+Egophoricity is marked by a particle _`wa`_.
 
 #### Examples
 
-* _<b>kunumĩ-wasú</b>&nbsp;_ “big boy”
-
-
+* _Ĩhe, <b>wa</b> romhu_&nbsp; “Yes I work.”
+* _Ĩhe, <b>wa</b> norĩhã wa wapari dza'ra ni._&nbsp; “Yes, we heard.”
 
 
 ## Diffs
@@ -31,4 +30,4 @@ udver: '2'
 
 The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
 therefore this distinction is not being made in the converted data.
-<!-- Interlanguage links updated Po lis 14 15:34:40 CET 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:47 CET 2022 -->

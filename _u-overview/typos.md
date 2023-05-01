@@ -36,9 +36,37 @@ Finally, neither the lemma nor the morphological features tell the user what the
 
 </pre>
 
-`Typo=Yes` is not intended for all typographical errors in a text, only those that are internal to (the rendering of) a single word in the language, 
-including wrongly split words as described below. 
+`Typo=Yes` is not intended for all typographical errors in a text, only those that are internal to (the rendering of) a single word in the language,
+including wrongly split words as described below.
 Errors in spacing *around* words, or erroneous insertion or deletion of words, are represented via other means (see below).
+
+### Misspelled Multiword Token
+
+A typo is a surface feature: In case of a multiword surface token, there can be a typo in the token form which does not appear in the
+reconstructed forms of the corresponding syntactic words. For example, the Spanish words _vamos_ and _nos_ may be merged into one token.
+In isolation, none of the two words is spelled with a stress-marking accent. However, when merged, the resulting token has stress on the
+third syllable from the end, which requires adding an acute accent over that syllable: _vámonos_. If the accent is omitted, it is a typo
+in the surface token while the reconstructed syntactic words are spelled correctly. Therefore, the feature `Typo=Yes` is exceptionally
+allowed to occur on the MWT line, although normally the FEATS column must be empty there. See the example below.
+
+If a language has solely concatenative multiword tokens (that is, the form of the MWT is always identical to the concatenation of the
+forms of the syntactic words), then the language-specific guidelines may rule that `Typo=Yes` should be placed on the line of the
+misspelled word as usual. However, in such cases `Typo=Yes` must not occur also on the MWT line. (Allowing both could lead to confusion
+about the redundancy.)
+
+<pre>
+# text = Vamonos al mar.
+# text_en = Let's go to the sea.
+1-2    Vamonos   _          _       _   Typo=Yes                                                _   _         _   CorrectForm=Vámonos
+1      Vamos     ir         VERB    _   Mood=Imp|Number=Plur|Person=1|VerbForm=Fin              0   root      _   _
+2      nos       nosotros   PRON    _   Case=Acc|Number=Plur|Person=1|PronType=Prs|Reflex=Yes   1   expl:pv   _   _
+3-4    al        _          _       _   _                                                       _   _         _   _
+3      a         a          ADP     _   _                                                       5   case      _   _
+4      el        el         DET     _   Definite=Def|Gender=Masc|Number=Sing|PronType=Art       5   det       _   _
+5      mar       mar        NOUN    _   Gender=Masc|Number=Sing                                 1   obl       _   SpaceAfter=No
+6      .         .          PUNCT   _   _                                                       1   punct     _   _
+
+</pre>
 
 ### Intentionally Noncanonical Spellings
 
@@ -52,7 +80,7 @@ Parts attaching as `goeswith` should not themselves have any dependents.
 If the treebank provides [Enhanced Dependencies](), `goeswith` relations should be the same as in Basic Dependencies, and `goeswith` dependents should not participate in any additional enhanced relations.
 
 The head should bear the part-of-speech tag, lemma, and morphological annotation of the entire word. Beginning with UD release 2.10, any treebank that uses the `Typo` feature must apply it to all words with `goeswith` dependents, as an extra space within a word is a misrendering of that word.
-<!-- OLD POLICY: It is not necessary to add the `Typo` feature and `CorrectForm` in MISC, unless there is a “normal” typo too, i.e. if simple concatenation of the parts does not yield the correct form. --> 
+<!-- OLD POLICY: It is not necessary to add the `Typo` feature and `CorrectForm` in MISC, unless there is a “normal” typo too, i.e. if simple concatenation of the parts does not yield the correct form. -->
 Example:
 
 <pre>
@@ -112,7 +140,7 @@ Here is a more complex example with several error types:
 
 </pre>
 
-The following contains two errors as well as a multi-word token. 
+The following contains two errors as well as a multi-word token.
 Note that the second word of the multi-word token is headed by the beginning of the erroneously split word, which is outside of the multi-word token:
 
 <pre>

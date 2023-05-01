@@ -11,8 +11,8 @@ This label includes relations of time, consequence, condition, purpose etc.:
 
 ~~~ sdparse
 itám so so krýli sélenine kugána je imǽlo hárpa 
-it is there where the villagers had  hidden during war-time 
 lit: there themselves have hidden villagers-the when there was war
+"it is there where the villagers had  hidden during war-time" 
 advcl (krýli, imǽlo)
 ~~~
 

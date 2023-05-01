@@ -86,6 +86,7 @@ udver: '2'
   * [csubj:pass]() for clausal subjects of passive verbs
   * [obl:agent]() for agents of passive verbs
   * [flat:name]() for parts of a personal name
+  * [advcl:cmp]() for adverbial clauses of comparison
 
 ## Treebanks
 

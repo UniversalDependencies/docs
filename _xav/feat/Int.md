@@ -1,7 +1,7 @@
 ---
 layout: feature
-title: 'Dim'
-shortdef: 'diminutive'
+title: 'Int'
+shortdef: 'interrogative'
 udver: '2'
 ---
 
@@ -9,19 +9,21 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Yes">Yes</a></td>
+  
+
+  
 </tr>
 </table>
 
-`Dim` indicates the smallness of the object or quality. It is expressed with a suffix _`-ũwĩ`_/_`-wĩ`_.
+`Int` indicates interrogation and is defined in Xavante as the particle _`-e`_.
 
 ### <a name="Yes">`Yes`</a>: Yes
 
 
-
 #### Examples
 
-* _emõdura<b>wĩ</b> duriam epe_&nbsp; “Give me a bit of rice.”
-* _takuru<b>ũwĩ</b> otuiomãʔẽrehe owur_&nbsp; “He climbs on a small rock that is there.”
+* _<b>E</b> marĩ dzô ma wei wi?_&nbsp; “What did he come for?”
+* _<b>E</b> te dza apö mo?_&nbsp; “Will he come back?”
 
 
 ## Diffs
@@ -30,4 +32,4 @@ udver: '2'
 
 The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
 therefore this distinction is not being made in the converted data.
-<!-- Interlanguage links updated Po lis 14 15:34:44 CET 2022 -->
+<!-- Interlanguage links updated Po lis 14 15:34:47 CET 2022 -->

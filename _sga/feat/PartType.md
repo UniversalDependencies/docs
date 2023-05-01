@@ -27,6 +27,16 @@ The deictic particle, _í_, refers back to a previously mentioned person or thin
 * _isnaib <b>hí</b>_ “in those (aforementioned thing)”
 * _dond <b>í</b>_ “to that (thing)”
 
+### <a name="Nas">`Nas`</a>: nasal
+
+Many instances occur in manuscripts where a nasal, _<b>ṅ</b>_ or _<b>ṁ</b>_, will stand apart from both the following and preceding words. These can be sparated by spacing, or by enclosing puncta. While such nasals normally form the anlaut of the following word, this orthographic separation forces them to be treated as discrete tokens which are POS-tagged as particles.
+
+#### Examples
+
+* _conducaid etargne <b>ṅ</b> dǽ_ “that you might understand the knowledge of God”
+* _doairchet allaa <b>ṁ</b> brithemnacte_ “the day of judgement has been foretold”
+* _in tan <b>·m·</b> bís_ “when there is”
+
 ### <a name="Num">`Num`</a>: numeric
 
 These precede cardinal numbers when counting.
@@ -35,6 +45,20 @@ These precede cardinal numbers when counting.
 
 * _<b>a</b> tri_ “three”
 * _<b>a</b> noi_ “nine”
+
+### <a name="Rel">`Rel`</a>: relative
+
+The relative particle, _a_, is used syntactically between a preposition and a verb.
+
+Negative relative particles, _nád_, also occur, however, these are not preceded by prepositions.
+
+#### Examples
+
+* _hu<b>a</b> nainmnigter_ “from which is named”
+* _as<b>a</b> nairberar_ “out of which is drawn”
+* _di<b>a</b> nacomlatar_ “to which they are added”
+* _<b>nad</b> fodlaiter_ “which are not derived”
+* _<b>nad</b> ṁbíet_ “which will not be”
 
 ### <a name="Vb">`Vb`</a>: verbal
 

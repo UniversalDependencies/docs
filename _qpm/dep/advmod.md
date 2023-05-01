@@ -6,30 +6,31 @@ shortdef: 'adverbial modifier'
 ---
 
 
-The advmod label (adverbial modifiers of a word) is a non-clausal adverb or an adverbial phrase that is modifying a predicate or a modifier word. 
-The same applies in Pomak, too:
+The [advmod]() dependency (adverbial modifiers of a word) is used when a non-clausal adverb or an adverbial phrase modifies a predicate or a modifier word. 
+The same applies in Pomak:
 
 ~~~ sdparse
 húbbe patkοváto kóne 
-a well shod horse 
 lit: well shod (a) horse
+"a well shod horse" 
 advmod (patkοváto, húbbe)   
 ~~~ 
 
-In Pomak annotating, this label is also applied to the relation between a negation word and the word it modifies. Thus, Pomak negation particles  such as  ni, ne, na, (that are morphologically labeled as PART) are marked as advmod instead of the neg tag used by former UD versions:
+In the Pomak treebank, the [advmod]() dependency is used between a negation word and the word it modifies (directed from the modified word to the negation word). As negative words are used in Pomak the negation particles, e.g. *ni, ne, na*, (that are morphologically labeled as PART):
 
 ~~~ sdparse
 tja je ne reklála ni kaná 
-she did not say anything 
 lit: she did not say  no thing
+"she did not say anything" 
 advmod (reklála, ne)
 advmod (kaná, ni)
 ~~~ 
 
-In the same maner, the indefinite negative particle nó or no is also marked as advmod
+In the same maner, the indefinite negative particle *nó* or *no* also depends on the word it modifies with the [advmod]() dependency:
 
 ~~~ sdparse
 inýj so žyváli trimínana brátje nó kólko godíny   
-thus lived three brothers for unknown years
+"thus lived three brothers for unknown years"
+advmod (kólko, nó)
 ~~~ 
 

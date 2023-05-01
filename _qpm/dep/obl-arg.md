@@ -5,12 +5,17 @@ shortdef : 'oblique argument'
 udver: '2'
 ---
 
-`obl:arg` (oblique argument): Distinguishes them from adjuncts, which use the plain obl relation.
+
+The [obl:arg]() dependency (oblique argument)  is used to distinguish clearly oblique arguments from adjuncts for which the plain [obl]() dependency is used. 
+
+In the Pomak treebank, an oblique argument seems to semantically function as  an object that, however, is expressed with a prepositional phrase:
 
 ~~~ sdparse
-              I  rely     on       my        brother
-    lit: (I) rely (myself)    on     the by me  brother
-             gǘvendisom so    na     mókse      bráta
-                  |____________obl:arg___________|
-                                  →
+gǘvendisom so na mókse bráta 
+lit: rely-I  myself  on by-me brother-the
+"I rely on my brother" 
+obl:arg (gǘvendisom, bráta)  
 ~~~ 
+
+
+

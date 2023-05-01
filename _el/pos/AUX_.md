@@ -21,12 +21,10 @@ Otherwise,  *είμαι* "to be"  is assigned the tag [VERB](), e.g., *είμα�
 
 
 
-
 ### Examples
 -	Tense auxiliaries: *έχει φύγει* / *echi figi* "he/she/it is gone", *θα φύγει* / *tha figi* "he/she/it will go"
 -	Auxiliaries with passive verb forms: *έχει γραφτεί* / *echi grafti* "he/she/it has been written", *θα γραφτεί* / *tha grafti* "he/she/it  will be written" 
 -	Auxiliary use of *είμαι*: *το τριαντάφυλο είναι  λουλούδι"* / *to triantafilo ine louloudi* "a rose is a flower", *ο Αλέξανδρος είναι ψηλός* / *o Alexandros ine psilos* "Alexandros is tall", *το γράμμα είναι γραμμένο με σκούρο μελάνι* / *to grama ine grameno me skouro melani* "the letter has been written with dark ink"
--	Auxiliary use of *να*: *Να προσέχεις* "Βe careful.", *Θέλω κάποιον που να ξέρει από υπολογιστές.* "Ι  need a person who is fluent with computers."
-
+-	Auxiliary use of *να*: *Να προσέχεις* "Βe careful."
 ### References
 <!-- Interlanguage links updated Po lis 14 15:34:30 CET 2022 -->

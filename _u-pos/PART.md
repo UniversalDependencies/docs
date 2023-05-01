@@ -28,7 +28,7 @@ _ni,_ の / _no_) are parallel to adpositions in other languages and
 should thus be tagged [ADP]().
 
 In general, the `PART` tag should be used restrictively and only when
-no other tag is possible. The the language-specific documentation
+no other tag is possible. The language-specific documentation
 should list the words classified as `PART` in the given language.
 
 ### Examples

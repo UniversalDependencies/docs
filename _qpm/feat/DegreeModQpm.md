@@ -5,11 +5,11 @@ shortdef: 'DegreeModQpm'
 udver: '2'
 ---
 
-## qpm-DegreeMod
+## DegreeModQpm
 
 Pomak expresses degree modification of nouns, adjectives, past participles and adverbs with a variety of morphological (and syntactic) means:
 
-### <a name="Dim">`Dim`</a>: diminutive
+### <a name="Degree">`Degree`</a>: Dim
 
 #### Examples
 

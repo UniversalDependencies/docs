@@ -18,6 +18,7 @@ If you're new to UD, you should start by reading the first part of the Short Int
   * [Tools for working with UD](tools.html)
   * [Changes to the UD guidelines](changes.html)
   * [UD-related events](events.html)
+  * [Projects related to UD](related.html)
 * Query UD treebanks online:
   * [PML Tree Query](http://lindat.mff.cuni.cz/services/pmltq/) maintained by the Charles University in Prague
   * [Kontext](http://lindat.mff.cuni.cz/services/kontext/corpora/corplist) maintained by the Charles University in Prague

@@ -5,20 +5,16 @@ shortdef : 'nominal subject'
 udver: '2'
 ---
 
-`nsubj` (nominal subject): A syntactic subject of proto-agent of clause.
+The [nsubj]() dependency (nominal subject) is used to express the relation of a nominal which is the syntactic subject  of a clause with the head predicate of the clause. This nominal subject may be headed by a noun, a pronoun or a relative pronoun, or even an adjective, in ellipsis context:  
 
 ~~~ sdparse
-the police caught a man
-astinomíjeta fáti annók čulǽka
-|__nsubj|
-← those who have this oil
-žíne ímot isók zejtíne |___nsubj_| ←
+astinomíjeta fáti annók čulǽka 
+"the police caught a man"                              
+nsubj(fáti, astinomíjeta)
 ~~~
 
-`nsubj:pass` (nominal subject): A syntactic subject of a passive verb.
 ~~~ sdparse
-  the road is closed
-
-lit: closed is the road
-zatvóren je poten |____nsubj:pass____| ←
-~~~
+žíne ímot isók zejtíne
+"those.who have this oil"                       
+nsubj(ímot, žíne)
+~~~ 

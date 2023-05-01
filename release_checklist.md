@@ -51,7 +51,7 @@ save them for the documentation, and avoid them in the repository name.
 
 While you are waiting for your repository, read the instructions below. They explain what you need to do
 so that your treebank works well with our infrastructure and can be released.
-And do not forget to subscribe to the [UD mailing list](http://stp.lingfil.uu.se/mailman/listinfo/ud).
+And do not forget to subscribe to the [UD mailing list](https://lists.uu.se/sympa/info/lingfil-ud).
 Important announcements for the data providers are circulated through this list.
 
 # Executive summary
