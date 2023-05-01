@@ -15,7 +15,7 @@ udver: '2'
   <td><a href="#Prog">Prog</a></td>
   <td><a href="#Prosp">Prosp</a></td>
   <td><a href="#Frus">Frus</a></td>
-  <td><a href="#Freq">Frus</a></td>
+  <td><a href="#Freq">Freq</a></td>
 </tr>
 </table>
 
@@ -135,8 +135,7 @@ as language-specific for Hungarian, though it was called _frequentative_ there
 
 "The frustrative is a functional element found in a number of languages which expresses, in its typical use, that an action did not have its intended consequences [...]" (Salanova)
 
-'The frustrative particle in Kimaragang marks unrealized expectations or intentions, counter-
-factuals, etc." (Kroeger 2017)
+'The frustrative particle in Kimaragang marks unrealized expectations or intentions, counter-actuals, etc." (Kroeger 2017)
 
 #### References
 
@@ -155,7 +154,7 @@ Examples cited by Avila (2021) (our English translations):
 
 ### <a name="Freq">`Freq`</a>: frequentative aspect
 
-The frequentative aspect is marked in Nheengatu with the suffix *-wara*, which attaches to verbs or nouns, adverbs, etc. conveying the clause predicate (cf. Avila 2021, p. 809-810). It expresses that a state or event holds on continually or occurs repeatedely with a very high frequency. Tipically, it translates as *always* in English.   
+The frequentative aspect is marked in Nheengatu with the suffixes *-wara* and *-wera*. These suffixes attach to verbs or nouns, adverbs, etc. conveying the clause predicate, see Avila (2021, p. 809-810 and p. 824-825). They express that a state or event holds on continually or occurs repeatedely with a very high frequency.  While *-wara* applies to predicates denoting present events, *-wera* specify that the event is located in the past. Tipically, *-wara* translates as *always* in English.
 
 #### References
 
@@ -168,5 +167,6 @@ Examples cited by Avila (2021) (our English translations):
 * [yrl] _<b>Ikewara</b> aikú, reyuri ramé, resika se piri.&nbsp;_  “I'm always here, when you come, come visit me."
 * [yrl] _<b>Amanduariwara</b> ne resé. &nbsp;_  “I always remember you.”
 * [yrl] _Ixé se <b>rukawara</b> aikú, ti xinga asemu kwá suí. &nbsp;_  “I'm always at home, I hardly leave here.”
+* [yrl] _Ta <b>upukawera</b> tẽ paá, ma ti ta umaã tá resé. &nbsp;_  “They actually laughed, but didn't look at them.”
 
 <!-- Interlanguage links updated Po lis 14 15:34:40 CET 2022 -->

@@ -19,7 +19,7 @@ Boolean feature signaling morphological reduplication.
 
 ### <a name="Yes">`Yes`</a>: Yes
 
-In Nheengatu, part of a verb root may be repeated, expressing iterativity in case of active (dynamic) verbs or intensity of the property or state denoted by an active (static) verb (also analyzed as adjectives).
+In Nheengatu, part of a verb root may be repeated, expressing, according to Cruz (2011), iterativity in case of active (dynamic) verbs or intensity of the property or state denoted by an active (static) verb (also analyzed as adjectives).
 
 #### Examples
 

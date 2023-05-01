@@ -15,7 +15,7 @@ udver: '2'
 </tr>
 </table>
 
-`Person[grnd]` encodes the person of the internal argument of a postpostion, i.e., the reference object, *relatum*  or *ground* (also *landmark* in cognitive grammar), which is realized in Nheengatu in certain circunstances by the non-contiguity prefix *s-*. These postpostion forms correspond to a prepositional phrase formed by a preposition and a personal pronoun in languages such as English.
+`Person[grnd]` encodes the person of the internal argument of a postpostion, i.e., the reference object, *relatum*  or *ground* (also *landmark* in cognitive grammar), which is realized in Nheengatu in certain circunstances by the non-contiguity prefix *s-*. These postposition forms correspond to a prepositional phrase formed by a preposition and a personal pronoun in languages such as English.
 
 ### <a name="1">`1`</a>: first person ground
 
