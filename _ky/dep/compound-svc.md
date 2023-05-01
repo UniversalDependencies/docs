@@ -15,7 +15,14 @@ So We  use the `compound:svc`.
 The dependency label indicates their use (auxiliary, copula or content verb).
 
 ### Examples
+~~~ sdparse
+мектептердин курулушу кандай жүрүп жатат? \n How is the construction of schools going?.
+compound:svc(жүрүп, жатат )
+~~~
 
-* _мектептердин курулушу кандай жүрүп жатат? "
-* _Жамгыр жаап жатат деп ойлойм."
-* _Караколдо жашы жете элек 12 бала эмгекке тартылган?"
+~~~ sdparse
+Караколдо жашы жете элек 12 бала эмгекке тартылган \n 12 underage children were forced to work in the police station
+compound:svc(жете, элек)
+~~~
+
+
