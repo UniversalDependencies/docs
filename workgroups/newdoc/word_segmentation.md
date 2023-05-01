@@ -77,7 +77,7 @@ The rules for word boundaries in languages like Chinese and Japanese must be def
 
 <!-- multi-word tokens are evil; avoid them :-) -->
 
-Word segementation with multi-word tokens should not be overused. It makes processing of the data more difficult, so you should think twice whether it is really justified and needed. Remember that UD annotates properties of (syntactic) words, not morphemes. Here are some guidelines:
+Word segmentation with multi-word tokens should not be overused. It makes processing of the data more difficult, so you should think twice whether it is really justified and needed. Remember that UD annotates properties of (syntactic) words, not morphemes. Here are some guidelines:
 
 * If there is no suitable UPOS tag for the surface token but we can split it to parts that have clear UPOS categories, split it.
 
