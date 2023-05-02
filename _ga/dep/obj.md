@@ -17,7 +17,7 @@ Bhailigh siad eolas \n Collected they information
 obj(Bhailigh, eolas)
 ~~~
 
-The object of a verb is the second most core argument of a verb after the subject, even in case where the subject is implicit. 
+The object of a verb is the second most core argument of a verb after the subject, even in cases where the subject is implicit. 
 
 _Dhíreofaí <b>aird</b> ar dhuine ar leith i ngach seisiún._  '<b>Attention</b> would be paid to one person in particular in each session'
 
