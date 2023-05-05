@@ -83,6 +83,8 @@ Word segmentation with multi-word tokens should not be overused. It makes proces
 
 A good example is the contraction of a preposition and an article, as observed e.g. in German or many Romance languages: [de] _am = an + dem, zur = zu + der,_ [es] _al = a + el._ While they may have a specialized POS tag in the native POS tagsets, UPOS tags cannot account for each contraction type in each language, so we have to split such contractions to two words, tagged [ADP]() and [DET]().
 
+Another example involves particles, affixes, or clitics in agglutinative languages like Japanese: _やめれば = やめれ + ば._ Such languages may lack (e.g., Japanese) or have inconsistent (e.g., Old Turkish ":" separator) orthographic word delimiters. In the context of Japanese, the preferred split in UD separates _やめれ_ into VERB and _<b>ば</b>_ into SCONJ, producing a closed class for SCONJ, i.e., having an enumerable number of SCONJ lemmas independent of the set size of NOUN or VERB tags (contrast making such cases a morphological feature: SCONJ tag would be absent). By splitting, we allow covering more UPOS tags and deeper syntax trees for cross-linguistic alignment without violating open-closed categories, even without standard syntactic word delimitation.
+
 * If the split would result in syntactic words that also occur independently in the language, split it.
 
 Looking again at the preposition-article contractions in German, we note that elsewhere prepositions and articles are spelled as independent words: _<b>an</b> einem See_ “at a lake”, _nach <b>dem</b> Konzert_ “after the concert” etc.
