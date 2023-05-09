@@ -264,7 +264,7 @@ udver: '2'
   <tr>
     <td width="16%" valign="top">
       <ul>
-      <li>This corpus contains 11 word types tagged as particles (PART): 。, 了, 吗, 吧, 呢, 和, 啊, 嗬, 地, 得, 的</li>
+      <li>This corpus contains 11 word types tagged as particles (PART): 了, 吗, 吧, 呢, 和, 啊, 嗬, 地, 得, 没, 的</li>
       </ul>
     </td>
     <td width="16%" valign="top">
@@ -279,12 +279,12 @@ udver: '2'
     </td>
     <td width="16%" valign="top">
       <ul>
-      <li>This corpus contains 23 word types tagged as particles (PART): 丫, 中, 之, 了, 來, 個, 吧, 呀, 呢, 啊, 啦, 喇, 嗎, 嘛, 地, 好了, 就, 得, 所, 的, 的話, 等, 而已</li>
+      <li>This corpus contains 25 word types tagged as particles (PART): 丫, 中, 之, 了, 來, 個, 吧, 呀, 呢, 啊, 啦, 喇, 嗎, 嘛, 地, 好了, 就, 得, 所, 沒, 無, 的, 的話, 等, 而已</li>
       </ul>
     </td>
     <td width="16%" valign="top">
       <ul>
-      <li>This corpus contains 29 word types tagged as particles (PART): 之, 了, 人, 區, 呢, 嗎, 地, 家, 得, 河, 法, 的, 瞭, 緣, 罪, 者, 肺, 舟, 著, 處, 號, 街, 賽, 過, 配, 鎊, 體, 點, 黨</li>
+      <li>This corpus contains 26 word types tagged as particles (PART): 之, 了, 人, 區, 呢, 嗎, 地, 家, 得, 河, 法, 的, 緣, 罪, 者, 肺, 舟, 處, 號, 街, 賽, 配, 鎊, 體, 點, 黨</li>
       </ul>
     </td>
     <td width="16%" valign="top">
@@ -296,7 +296,7 @@ udver: '2'
   <tr>
     <td width="16%" valign="top">
       <ul>
-      <li>This corpus contains 44 lemmas tagged as pronouns (PRON): 一切, 为什么, 人, 人家, 什么, 他, 他们, 你, 你们, 其, 其中, 其他, 别, 别人, 到处, 另外, 各, 咱们, 哪个, 哪儿, 哪里, 大家, 女士们, 她, 她们, 它, 怎么样, 我, 我们, 我门, 所有, 有的, 每, 自己, 谁, 这, 这儿, 这样, 这里, 那, 那儿, 那样, 那里, 首先</li>
+      <li>This corpus contains 42 lemmas tagged as pronouns (PRON): 一切, 为什么, 人, 人家, 什么, 他, 你, 你们, 其, 其中, 其他, 别, 别人, 到处, 另外, 各, 咱们, 哪个, 哪儿, 哪里, 大家, 女士们, 她, 它, 怎么样, 我, 我们, 我门, 所有, 有的, 每, 自己, 谁, 这, 这儿, 这样, 这里, 那, 那儿, 那样, 那里, 首先</li>
       </ul>
     </td>
     <td width="16%" valign="top">
@@ -311,12 +311,12 @@ udver: '2'
     </td>
     <td width="16%" valign="top">
       <ul>
-      <li>This corpus contains 1 lemmas tagged as pronouns (PRON): _</li>
+      <li>This corpus contains 39 lemmas tagged as pronouns (PRON): 人人, 什麼, 他, 你, 你們, 你自己, 其, 別人, 各位, 哪, 哪個, 哪兒, 哪裏, 哪裡, 哪里, 多少, 大家, 她, 怎樣, 我, 我自己, 本人, 梁耀忠, 此, 甚麼, 自己, 誰, 這, 這些, 這個, 這樣, 這樣子, 這裏, 這裡, 這邊, 那, 那裡, 那邊, 閣下</li>
       </ul>
     </td>
     <td width="16%" valign="top">
       <ul>
-      <li>This corpus contains 1 lemmas tagged as pronouns (PRON): _</li>
+      <li>This corpus contains 33 lemmas tagged as pronouns (PRON): 之, 什麼, 他, 何, 你, 你們, 個人, 其, 哪, 哪兒, 大家, 她, 它, 對方, 怎麼, 您, 我, 此, 牠, 甚麽, 自己, 自身, 誰, 這, 這樣, 這裡, 這麼, 那, 那兒, 那樣, 那裡, 那里, 閣下</li>
       </ul>
     </td>
     <td width="16%" valign="top">
@@ -333,22 +333,22 @@ udver: '2'
     </td>
     <td width="16%" valign="top">
       <ul>
-      <li>This corpus contains 104 lemmas tagged as determiners (DET): 一切, 上, 下, 以上, 以下, 任, 任何, 何, 全, 全套, 全部, 全體, 其他, 其它, 其餘, 別, 前, 前任, 另, 另外, 各, 各個, 各州, 各式, 各種, 各種各樣, 各級, 各項, 各類, 同, 同年, 後, 所有, 整, 整個, 整場, 整塊, 整套, 整所, 整架, 整片, 整顆, 是次, 有的, 本, 本屆, 本班, 某, 某些, 某個, 某種, 此, 此套, 此次, 此種, 此等, 此項, 此類, 歷屆, 毎年, 每, 每位, 每個, 每元, 每卡, 每周, 每天, 每年, 每座, 每戶, 每所, 每日, 每枚, 每次, 每段, 每片, 每秒, 每組, 每週, 每邊, 每間, 每隊, 每集, 當屆, 眾, 該, 該屆, 該批, 該族, 該條, 該段, 該組, 該集, 諸, 這, 這些, 這次, 這種, 那, 那些, 首, 首任, 首條, 首部</li>
+      <li>This corpus contains 137 lemmas tagged as determiners (DET): $5,000, A330, AEG, AK-47, Activision, Advance, Android, CRH380C, Eve, Ghost, Google, JAXA, KKR, Kekal, Kilpatrick, M1, NDS, OROCHI, PSP, Rivers, The, WHO, Wheeler, g(x), iPhone, iPod, km/h, p, 一切, 上, 下, 以上, 以下, 任, 任何, 佔領, 何, 全, 全套, 全部, 全體, 其他, 其它, 其餘, 別, 前, 前任, 另, 另外, 各, 各個, 各州, 各式, 各種, 各種各樣, 各級, 各項, 各類, 同, 同年, 夕拾, 後, 所有, 整, 整個, 整場, 整塊, 整套, 整所, 整架, 整片, 整顆, 是次, 有的, 本, 本屆, 本班, 某, 某些, 某個, 某種, 此, 此套, 此次, 此種, 此等, 此項, 此類, 歷屆, 毎年, 每, 每位, 每個, 每元, 每卡, 每周, 每天, 每年, 每座, 每戶, 每所, 每日, 每枚, 每次, 每段, 每片, 每秒, 每組, 每週, 每邊, 每間, 每隊, 每集, 當屆, 發售, 眾, 該, 該屆, 該批, 該族, 該條, 該段, 該組, 該集, 諸, 近, 這, 這些, 這次, 這種, 那, 那些, 關於, 首, 首任, 首條, 首部</li>
       </ul>
     </td>
     <td width="16%" valign="top">
       <ul>
-      <li>This corpus contains 102 lemmas tagged as determiners (DET): 一切, 上, 下, 以上, 以下, 任, 任何, 众, 何, 全, 全体, 全套, 全部, 其他, 其余, 其它, 别, 前, 前任, 历届, 另, 另外, 各, 各个, 各州, 各式, 各种, 各种各样, 各类, 各级, 各项, 同, 同年, 后, 当届, 所有, 整, 整个, 整场, 整块, 整套, 整所, 整架, 整片, 整颗, 是次, 有的, 本, 本届, 本班, 某, 某个, 某些, 某种, 此, 此套, 此次, 此种, 此等, 此类, 此项, 每, 每个, 每位, 每元, 每卡, 每周, 每天, 每年, 每座, 每户, 每所, 每日, 每枚, 每次, 每段, 每片, 每秒, 每组, 每边, 每间, 每队, 每集, 该, 该届, 该批, 该族, 该条, 该段, 该组, 该集, 诸, 这, 这些, 这次, 这种, 那, 那些, 首, 首任, 首条, 首部</li>
+      <li>This corpus contains 135 lemmas tagged as determiners (DET): $5,000, A330, AEG, AK-47, Activision, Advance, Android, CRH380C, Eve, Ghost, Google, JAXA, KKR, Kekal, Kilpatrick, M1, NDS, OROCHI, PSP, Rivers, The, WHO, Wheeler, g(x), iPhone, iPod, km/h, p, 一切, 上, 下, 以上, 以下, 任, 任何, 众, 何, 全, 全体, 全套, 全部, 关于, 其他, 其余, 其它, 别, 前, 前任, 占领, 历届, 发售, 另, 另外, 各, 各个, 各州, 各式, 各种, 各种各样, 各类, 各级, 各项, 同, 同年, 后, 夕拾, 当届, 所有, 整, 整个, 整场, 整块, 整套, 整所, 整架, 整片, 整颗, 是次, 有的, 本, 本届, 本班, 某, 某个, 某些, 某种, 此, 此套, 此次, 此种, 此等, 此类, 此项, 每, 每个, 每位, 每元, 每卡, 每周, 每天, 每年, 每座, 每户, 每所, 每日, 每枚, 每次, 每段, 每片, 每秒, 每组, 每边, 每间, 每队, 每集, 该, 该届, 该批, 该族, 该条, 该段, 该组, 该集, 诸, 近, 这, 这些, 这次, 这种, 那, 那些, 首, 首任, 首条, 首部</li>
       </ul>
     </td>
     <td width="16%" valign="top">
       <ul>
-      <li>This corpus contains 1 lemmas tagged as determiners (DET): _</li>
+      <li>This corpus contains 38 lemmas tagged as determiners (DET): 一些, 上, 下, 什麼, 今, 任何, 全, 其, 其中, 其他, 別, 另, 各, 哪些, 多, 多少, 多次, 幾, 很多, 所有, 整, 整個, 數, 有些, 本, 某, 某些, 此, 歷, 每, 甚麼, 眾多, 這, 這些, 這個, 那, 那些, 首</li>
       </ul>
     </td>
     <td width="16%" valign="top">
       <ul>
-      <li>This corpus contains 1 lemmas tagged as determiners (DET): _</li>
+      <li>This corpus contains 44 lemmas tagged as determiners (DET): 上, 下, 任, 任何, 全, 全副, 全部, 其他, 其它, 其餘, 前, 另, 另外, 各, 各個, 各天, 各樣, 各種, 同, 後, 所有, 整個, 有的, 本, 某, 某些, 某種, 此, 此次, 每, 每位, 每個, 每天, 每幅, 每年, 每首, 該, 該項, 這, 這些, 那, 那些, 頭, 頭個</li>
       </ul>
     </td>
     <td width="16%" valign="top">
@@ -375,12 +375,12 @@ udver: '2'
     </td>
     <td width="16%" valign="top">
       <ul>
-      <li>Out of the above, 1 lemmas occurred sometimes as PRON and sometimes as DET: _</li>
+      <li>Out of the above, 9 lemmas occurred sometimes as PRON and sometimes as DET: 什麼, 其, 多少, 此, 甚麼, 這, 這些, 這個, 那</li>
       </ul>
     </td>
     <td width="16%" valign="top">
       <ul>
-      <li>Out of the above, 1 lemmas occurred sometimes as PRON and sometimes as DET: _</li>
+      <li>Out of the above, 3 lemmas occurred sometimes as PRON and sometimes as DET: 此, 這, 那</li>
       </ul>
     </td>
     <td width="16%" valign="top">
@@ -392,27 +392,27 @@ udver: '2'
   <tr>
     <td width="16%" valign="top">
       <ul>
-      <li>This corpus contains 30 lemmas tagged as auxiliaries (AUX): 不得, 了, 会, 似乎, 似的, 可以, 可能, 喜欢, 回, 好像, 宁愿, 希望, 应该, 得, 必须, 想, 愿意, 懒得, 敢, 是, 没, 没有, 爱, 着, 能, 要, 起来, 过, 这, 需要</li>
+      <li>This corpus contains 17 lemmas tagged as auxiliaries (AUX): 了, 会, 可以, 可能, 应该, 得, 必须, 想, 愿意, 敢, 是, 有, 着, 能, 要, 过, 需要</li>
       </ul>
     </td>
     <td width="16%" valign="top">
       <ul>
-      <li>This corpus contains 156 lemmas tagged as auxiliaries (AUX): 一爭, 上表, 不可, 不夠, 不得, 不想, 不應, 不是, 不會, 不準, 不肯, 不能, 不要, 不該, 不需, 不願, 且是, 並非, 也是, 了, 亦是, 亦為, 仍是, 仍算, 令, 以為, 以爲, 便是, 保存, 保級, 修復, 像, 出手, 分布, 則是, 則為, 努力, 包裹, 即, 卻是, 又是, 只是, 只能, 可, 可以, 可能, 喜, 執政, 增長, 夠, 如, 如同, 實屬, 對此, 就是, 差, 形容, 形成, 影響, 待, 得, 得寵, 必, 必須, 想, 愛, 感到, 感覺, 應, 應當, 應該, 或是, 才是, 排行, 接唱, 接觸, 控制, 推進, 損失, 敢, 日趨, 是, 是否, 是否是, 更是, 更為, 更趨, 會, 有, 有些, 未能, 染色, 欲, 正是, 沒有, 沒能, 治軍, 流沙, 涉世, 深感, 減慢, 準備, 為, 為人, 爲, 獲利, 當, 發展, 發育, 監管, 看, 看似, 看得, 私交, 突感, 而是, 而非, 肯, 能, 能否, 能夠, 著, 表現, 表示, 裝, 要, 要求, 覺得, 認為, 認識, 誤信, 請, 謂, 變, 變得, 負債, 趨, 趨於, 辦學, 連任, 過, 達到, 還是, 都是, 開口, 開始, 關心, 降解, 離開, 難過, 需, 需要, 非, 須, 願意, 顯得</li>
+      <li>This corpus contains 29 lemmas tagged as auxiliaries (AUX): 了, 可, 可以, 可能, 得, 必, 必須, 想, 應, 應當, 應該, 敢, 是, 會, 欲, 為, 肯, 能, 能夠, 著, 被, 要, 該, 過, 需, 需要, 須, 願, 願意</li>
       </ul>
     </td>
     <td width="16%" valign="top">
       <ul>
-      <li>This corpus contains 154 lemmas tagged as auxiliaries (AUX): 一争, 上表, 不会, 不准, 不可, 不够, 不应, 不得, 不想, 不愿, 不是, 不肯, 不能, 不要, 不该, 不需, 且是, 为, 为人, 也是, 了, 亦为, 亦是, 仍是, 仍算, 令, 以为, 会, 便是, 保存, 保级, 修复, 像, 关心, 准备, 减慢, 出手, 分布, 则为, 则是, 办学, 努力, 包裹, 即, 却是, 又是, 发展, 发育, 变, 变得, 只是, 只能, 可, 可以, 可能, 喜, 增长, 够, 如, 如同, 实属, 对此, 就是, 差, 并非, 应, 应当, 应该, 开口, 开始, 当, 形容, 形成, 影响, 待, 得, 得宠, 必, 必须, 想, 感到, 感觉, 愿意, 或是, 才是, 执政, 损失, 排行, 接唱, 接触, 控制, 推进, 敢, 日趋, 是, 是否, 是否是, 显得, 更为, 更是, 更趋, 有, 有些, 未能, 染色, 欲, 正是, 没有, 没能, 治军, 流沙, 涉世, 深感, 爱, 监管, 看, 看似, 看得, 着, 离开, 私交, 突感, 而是, 而非, 肯, 能, 能否, 能够, 获利, 表现, 表示, 装, 要, 要求, 觉得, 认为, 认识, 误信, 请, 谓, 负债, 趋, 趋于, 达到, 过, 还是, 连任, 都是, 降解, 难过, 需, 需要, 非, 须</li>
+      <li>This corpus contains 29 lemmas tagged as auxiliaries (AUX): 为, 了, 会, 可, 可以, 可能, 应, 应当, 应该, 得, 必, 必须, 想, 愿, 愿意, 敢, 是, 欲, 着, 肯, 能, 能够, 被, 要, 该, 过, 需, 需要, 须</li>
       </ul>
     </td>
     <td width="16%" valign="top">
       <ul>
-      <li>This corpus contains 1 lemmas tagged as auxiliaries (AUX): _</li>
+      <li>This corpus contains 30 lemmas tagged as auxiliaries (AUX): 了, 住, 係, 別, 可, 可以, 可能, 得, 必須, 想, 應, 應該, 敢, 是, 會, 有, 樂意, 為, 用, 着, 能, 能夠, 著, 被, 要, 該, 過, 需, 需要, 須</li>
       </ul>
     </td>
     <td width="16%" valign="top">
       <ul>
-      <li>This corpus contains 1 lemmas tagged as auxiliaries (AUX): _</li>
+      <li>This corpus contains 22 lemmas tagged as auxiliaries (AUX): 了, 可, 可以, 可能, 得, 必, 必須, 想, 應, 應該, 是, 會, 為, 能, 能夠, 著, 被, 要, 過, 需要, 願, 願意</li>
       </ul>
     </td>
     <td width="16%" valign="top">
@@ -424,27 +424,27 @@ udver: '2'
   <tr>
     <td width="16%" valign="top">
       <ul>
-      <li>Out of the above, 15 lemmas occurred sometimes as AUX and sometimes as VERB: 了, 会, 喜欢, 回, 好像, 希望, 得, 想, 是, 没有, 爱, 要, 起来, 过, 需要</li>
+      <li>Out of the above, 9 lemmas occurred sometimes as AUX and sometimes as VERB: 了, 会, 得, 想, 是, 有, 要, 过, 需要</li>
       </ul>
     </td>
     <td width="16%" valign="top">
       <ul>
-      <li>Out of the above, 89 lemmas occurred sometimes as AUX and sometimes as VERB: 上表, 不夠, 不得, 不是, 並非, 也是, 了, 亦為, 令, 以為, 保存, 保級, 修復, 像, 出手, 分布, 則是, 努力, 即, 卻是, 又是, 執政, 增長, 夠, 如, 如同, 對此, 就是, 形容, 形成, 影響, 待, 得, 得寵, 必須, 想, 愛, 感到, 排行, 接唱, 接觸, 控制, 推進, 損失, 是, 是否, 有, 有些, 染色, 正是, 沒有, 準備, 為, 爲, 獲利, 當, 發展, 發育, 監管, 看, 而是, 而非, 著, 表現, 表示, 裝, 要, 要求, 覺得, 認為, 認識, 誤信, 請, 謂, 變, 趨, 連任, 過, 達到, 都是, 開口, 開始, 關心, 降解, 離開, 需, 需要, 非, 顯得</li>
+      <li>Out of the above, 12 lemmas occurred sometimes as AUX and sometimes as VERB: 了, 得, 必須, 想, 敢, 是, 為, 著, 要, 過, 需, 需要</li>
       </ul>
     </td>
     <td width="16%" valign="top">
       <ul>
-      <li>Out of the above, 88 lemmas occurred sometimes as AUX and sometimes as VERB: 上表, 不够, 不得, 不是, 为, 也是, 了, 亦为, 令, 以为, 保存, 保级, 修复, 像, 关心, 准备, 出手, 分布, 则是, 努力, 即, 却是, 又是, 发展, 发育, 变, 增长, 够, 如, 如同, 对此, 就是, 并非, 开口, 开始, 当, 形容, 形成, 影响, 待, 得, 得宠, 必须, 想, 感到, 执政, 损失, 排行, 接唱, 接触, 控制, 推进, 是, 是否, 显得, 有, 有些, 染色, 正是, 没有, 爱, 监管, 看, 着, 离开, 而是, 而非, 获利, 表现, 表示, 装, 要, 要求, 觉得, 认为, 认识, 误信, 请, 谓, 趋, 达到, 过, 连任, 都是, 降解, 需, 需要, 非</li>
+      <li>Out of the above, 12 lemmas occurred sometimes as AUX and sometimes as VERB: 为, 了, 得, 必须, 想, 敢, 是, 着, 要, 过, 需, 需要</li>
       </ul>
     </td>
     <td width="16%" valign="top">
       <ul>
-      <li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: _</li>
+      <li>Out of the above, 14 lemmas occurred sometimes as AUX and sometimes as VERB: 了, 住, 可以, 得, 想, 是, 有, 樂意, 為, 用, 能夠, 要, 過, 需要</li>
       </ul>
     </td>
     <td width="16%" valign="top">
       <ul>
-      <li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: _</li>
+      <li>Out of the above, 9 lemmas occurred sometimes as AUX and sometimes as VERB: 可能, 得, 必須, 想, 是, 會, 為, 過, 需要</li>
       </ul>
     </td>
     <td width="16%" valign="top">
@@ -762,9 +762,6 @@ udver: '2'
   </tr>
   <tr>
     <td width="16%" valign="top">
-
-    </td>
-    <td width="16%" valign="top">
       <ul>
         <li><a>Polarity</a></li>
       </ul>
@@ -775,7 +772,14 @@ udver: '2'
       </ul>
     </td>
     <td width="16%" valign="top">
-
+      <ul>
+        <li><a>Polarity</a></li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
+      <ul>
+        <li><a>Polarity</a></li>
+      </ul>
     </td>
     <td width="16%" valign="top">
       <ul>
@@ -788,13 +792,23 @@ udver: '2'
   </tr>
   <tr>
     <td width="16%" valign="top">
-
+      <ul>
+        <li>Neg
+          <ul>
+            <li>AUX: 没有, 不得</li>
+            <li>PART: 没</li>
+            <li>VERB: 没有, 不好意思, 不见, 不通, 不顾</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="16%" valign="top">
       <ul>
         <li>Neg
           <ul>
             <li>ADV: 不, 未, 沒, 別, 無</li>
+            <li>AUX: 不是, 不會, 不能, 未能, 不可, 不得, 不應, 不願, 不想, 不需</li>
+            <li>VERB: 沒有, 不是, 不及, 不如, 不敵, 不滿, 沒收, 不停, 不受, 不合</li>
           </ul>
         </li>
       </ul>
@@ -804,18 +818,30 @@ udver: '2'
         <li>Neg
           <ul>
             <li>ADV: 不, 未, 没, 别, 无</li>
+            <li>AUX: 不会, 不是, 不能, 未能, 不可, 不得, 不应, 不愿, 不想, 不需</li>
+            <li>VERB: 没有, 不是, 不及, 不如, 不敌, 不满, 没收, 不停, 不受, 不变</li>
           </ul>
         </li>
       </ul>
     </td>
     <td width="16%" valign="top">
-
+      <ul>
+        <li>Neg
+          <ul>
+            <li>AUX: 不用, 不要, 沒有</li>
+            <li>PART: 沒, 無</li>
+            <li>VERB: 沒有, 沒空, 不用, 沒用</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="16%" valign="top">
       <ul>
         <li>Neg
           <ul>
             <li>ADV: 不, 未, 勿</li>
+            <li>AUX: 不會, 不能, 不得, 不是, 未能, 不要, 不可, 不想, 不願</li>
+            <li>VERB: 沒有, 不是, 不可思議, 不一而足, 不夠, 不慌不忙, 不朽, 不止, 不足為奇, 沒看</li>
           </ul>
         </li>
       </ul>
@@ -921,7 +947,7 @@ udver: '2'
       <ul>
         <li>Perf
           <ul>
-            <li>PART: 了, 過, 瞭</li>
+            <li>AUX: 了, 過</li>
           </ul>
         </li>
       </ul>
@@ -959,7 +985,7 @@ udver: '2'
       <ul>
         <li>Prog
           <ul>
-            <li>PART: 著</li>
+            <li>AUX: 著</li>
           </ul>
         </li>
       </ul>
@@ -982,7 +1008,35 @@ udver: '2'
 
     </td>
     <td width="16%" valign="top">
+      <ul>
+        <li><a>Mood</a></li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
 
+    </td>
+  </tr>
+  <tr>
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
+      <ul>
+        <li>Int
+          <ul>
+            <li>AUX: 會不會, 要不要</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="16%" valign="top">
 
@@ -1066,8 +1120,7 @@ udver: '2'
         <li>Cau
           <ul>
             <li>ADP: 把, 將</li>
-            <li>AUX: 將, 把</li>
-            <li>VERB: 讓, 使, 令, 導致, 以, 以至, 使得, 任命, 帶領, 敦促</li>
+            <li>VERB: 讓, 使, 令, 導致, 以, 以至, 使得, 將, 把, 任命</li>
           </ul>
         </li>
       </ul>
@@ -1084,8 +1137,7 @@ udver: '2'
       <ul>
         <li>Pass
           <ul>
-            <li>AUX: 為</li>
-            <li>VERB: 被, 為</li>
+            <li>AUX: 被, 為</li>
           </ul>
         </li>
       </ul>
@@ -1094,8 +1146,7 @@ udver: '2'
       <ul>
         <li>Pass
           <ul>
-            <li>AUX: 为</li>
-            <li>VERB: 被, 为</li>
+            <li>AUX: 被, 为</li>
           </ul>
         </li>
       </ul>
@@ -1249,6 +1300,7 @@ udver: '2'
       <ul>
         <li>Ord
           <ul>
+            <li>ADJ: 第16, 第一</li>
             <li>NUM: 第一, 第二, 第三, 首次, 第四, 第五, 第1, 第六, 第七, 首位</li>
           </ul>
         </li>
@@ -1258,6 +1310,7 @@ udver: '2'
       <ul>
         <li>Ord
           <ul>
+            <li>ADJ: 第16, 第一</li>
             <li>NUM: 第一, 第二, 第三, 首次, 第四, 第五, 第1, 第六, 第七, 首位</li>
           </ul>
         </li>
@@ -1646,7 +1699,7 @@ udver: '2'
       <h3>Auxiliary Verbs and Copula</h3>
       
       <ul>
-      <li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: 是、 就是.</li>
+      <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: 是.</li>
       </ul>
     </td>
     <td width="16%" valign="top">
@@ -1655,7 +1708,7 @@ udver: '2'
       <h3>Auxiliary Verbs and Copula</h3>
       
       <ul>
-      <li>This corpus uses 122 lemmas as copulas (<a>cop</a>). Examples: 是、 為、 也是、 就是、 不是、 即、 都是、 感到、 非、 則是、 亦是、 亦為、 而是、 並非、 則為、 發展、 而非、 影響、 表現、 還是、 顯得、 卻是、 夠、 如、 控制、 是否是、 為人、 爲、 獲利、 看似、 裝、 謂、 變得、 連任、 一爭、 上表、 不夠、 且是、 仍是、 仍算、 令、 以為、 以爲、 低、 便宜、 便是、 保存、 保級、 修復、 像.</li>
+      <li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: 是、 為.</li>
       </ul>
     </td>
     <td width="16%" valign="top">
@@ -1664,7 +1717,7 @@ udver: '2'
       <h3>Auxiliary Verbs and Copula</h3>
       
       <ul>
-      <li>This corpus uses 120 lemmas as copulas (<a>cop</a>). Examples: 是、 为、 也是、 就是、 不是、 即、 都是、 感到、 非、 则是、 亦为、 亦是、 而是、 则为、 发展、 并非、 而非、 影响、 显得、 表现、 还是、 为人、 以为、 却是、 变得、 够、 如、 控制、 是否是、 看似、 获利、 装、 谓、 连任、 一争、 上表、 不够、 且是、 仍是、 仍算、 令、 低、 便宜、 便是、 保存、 保级、 修复、 像、 关心、 兴奋.</li>
+      <li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: 是、 为.</li>
       </ul>
     </td>
     <td width="16%" valign="top">
@@ -1673,7 +1726,7 @@ udver: '2'
       <h3>Auxiliary Verbs and Copula</h3>
       
       <ul>
-      <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: _.</li>
+      <li>This corpus uses 3 lemmas as copulas (<a>cop</a>). Examples: 是、 為、 係.</li>
       </ul>
     </td>
     <td width="16%" valign="top">
@@ -1682,7 +1735,7 @@ udver: '2'
       <h3>Auxiliary Verbs and Copula</h3>
       
       <ul>
-      <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: _.</li>
+      <li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: 是、 為.</li>
       </ul>
     </td>
     <td width="16%" valign="top">
@@ -1698,31 +1751,31 @@ udver: '2'
   <tr>
     <td width="16%" valign="top">
       <ul>
-      <li>This corpus uses 30 lemmas as auxiliaries (<a>aux</a>). Examples: 了、 着、 要、 会、 能、 想、 过、 可以、 没、 应该、 爱、 得、 敢、 需要、 可能、 没有、 不得、 似乎、 似的、 喜欢、 回、 好像、 宁愿、 就、 希望、 必须、 愿意、 懒得、 起来、 这.</li>
+      <li>This corpus uses 16 lemmas as auxiliaries (<a>aux</a>). Examples: 了、 着、 要、 会、 能、 想、 过、 可以、 应该、 得、 敢、 需要、 可能、 有、 必须、 愿意.</li>
       </ul>
     </td>
     <td width="16%" valign="top">
       <ul>
-      <li>This corpus uses 43 lemmas as auxiliaries (<a>aux</a>). Examples: 了、 會、 可以、 著、 可、 能、 要、 過、 可能、 必須、 能夠、 不會、 不能、 想、 需要、 需、 應、 未能、 不可、 不得、 須、 不應、 不願、 應該、 欲、 願意、 不想、 必、 不需、 請、 不準、 不肯、 不要、 不該、 只能、 得、 愛、 應當、 敢、 沒能、 當、 肯、 能否.</li>
-      <li>This corpus uses 3 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: 被、 為、 把.</li>
+      <li>This corpus uses 26 lemmas as auxiliaries (<a>aux</a>). Examples: 了、 會、 可以、 著、 可、 能、 要、 過、 可能、 必須、 能夠、 想、 應、 需、 需要、 得、 須、 應該、 欲、 願、 願意、 必、 肯、 應當、 敢、 該.</li>
+      <li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: 被、 為.</li>
       </ul>
     </td>
     <td width="16%" valign="top">
       <ul>
-      <li>This corpus uses 43 lemmas as auxiliaries (<a>aux</a>). Examples: 了、 会、 可以、 着、 可、 能、 要、 过、 可能、 必须、 能够、 不会、 不能、 想、 需要、 需、 应、 未能、 不可、 不得、 须、 不应、 不愿、 应该、 愿意、 欲、 不想、 必、 不需、 请、 不准、 不肯、 不要、 不该、 只能、 应当、 当、 得、 敢、 没能、 爱、 肯、 能否.</li>
-      <li>This corpus uses 3 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: 被、 为、 把.</li>
+      <li>This corpus uses 26 lemmas as auxiliaries (<a>aux</a>). Examples: 了、 会、 可以、 着、 可、 能、 要、 过、 可能、 必须、 能够、 想、 应、 需、 需要、 得、 须、 应该、 愿、 愿意、 欲、 必、 肯、 应当、 敢、 该.</li>
+      <li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: 被、 为.</li>
       </ul>
     </td>
     <td width="16%" valign="top">
       <ul>
-      <li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: _.</li>
-      <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: _.</li>
+      <li>This corpus uses 27 lemmas as auxiliaries (<a>aux</a>). Examples: 要、 了、 能、 可以、 會、 想、 過、 能夠、 應該、 應、 有、 別、 著、 可、 用、 可能、 是、 該、 必須、 需要、 須、 着、 需、 住、 得、 敢、 樂意.</li>
+      <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: 被.</li>
       </ul>
     </td>
     <td width="16%" valign="top">
       <ul>
-      <li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: _.</li>
-      <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: _.</li>
+      <li>This corpus uses 19 lemmas as auxiliaries (<a>aux</a>). Examples: 了、 會、 能、 著、 可以、 可能、 要、 可、 過、 能夠、 必須、 想、 應該、 需要、 得、 必、 願意、 應、 願.</li>
+      <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: 被.</li>
       </ul>
     </td>
     <td width="16%" valign="top">
@@ -1753,28 +1806,47 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN (4063)</li>
+            <li>VERB--NOUN (4044)</li>
+            <li>VERB--NOUN-ADP(上) (6)</li>
+            <li>VERB--NOUN-ADP(下) (2)</li>
+            <li>VERB--NOUN-ADP(不) (1)</li>
+            <li>VERB--NOUN-ADP(中) (12)</li>
             <li>VERB--NOUN-ADP(主) (4)</li>
+            <li>VERB--NOUN-ADP(之間) (5)</li>
             <li>VERB--NOUN-ADP(以) (1)</li>
+            <li>VERB--NOUN-ADP(內) (2)</li>
             <li>VERB--NOUN-ADP(前) (3)</li>
             <li>VERB--NOUN-ADP(前)-ADP(副)-ADP(總) (1)</li>
             <li>VERB--NOUN-ADP(副) (2)</li>
             <li>VERB--NOUN-ADP(原) (5)</li>
+            <li>VERB--NOUN-ADP(和)-ADP(的) (1)</li>
+            <li>VERB--NOUN-ADP(在)-ADP(的) (6)</li>
             <li>VERB--NOUN-ADP(大) (18)</li>
             <li>VERB--NOUN-ADP(寬) (1)</li>
-            <li>VERB--NOUN-ADP(小) (8)</li>
+            <li>VERB--NOUN-ADP(對)-ADP(的) (9)</li>
+            <li>VERB--NOUN-ADP(對於)-ADP(的) (2)</li>
+            <li>VERB--NOUN-ADP(小) (9)</li>
             <li>VERB--NOUN-ADP(強) (1)</li>
             <li>VERB--NOUN-ADP(彎) (1)</li>
             <li>VERB--NOUN-ADP(微) (1)</li>
             <li>VERB--NOUN-ADP(新) (14)</li>
             <li>VERB--NOUN-ADP(暗) (1)</li>
+            <li>VERB--NOUN-ADP(有關)-ADP(的) (3)</li>
+            <li>VERB--NOUN-ADP(期間)-ADP(的) (1)</li>
             <li>VERB--NOUN-ADP(清) (1)</li>
             <li>VERB--NOUN-ADP(為) (1)</li>
             <li>VERB--NOUN-ADP(的) (1)</li>
+            <li>VERB--NOUN-ADP(經過)-ADP(的) (2)</li>
             <li>VERB--NOUN-ADP(總) (5)</li>
             <li>VERB--NOUN-ADP(老) (5)</li>
+            <li>VERB--NOUN-ADP(與)-ADP(的) (4)</li>
             <li>VERB--NOUN-ADP(舊) (2)</li>
-            <li>VERB--PRON (731)</li>
+            <li>VERB--NOUN-ADP(裡) (1)</li>
+            <li>VERB--NOUN-ADP(里) (1)</li>
+            <li>VERB--NOUN-ADP(間) (1)</li>
+            <li>VERB--NOUN-ADP(關於)-ADP(的) (3)</li>
+            <li>VERB--PRON (736)</li>
+            <li>VERB--PRON-ADP(之間) (2)</li>
           </ul>
         </li>
       </ul>
@@ -1786,17 +1858,29 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN (4063)</li>
+            <li>VERB--NOUN (4044)</li>
+            <li>VERB--NOUN-ADP(上) (6)</li>
+            <li>VERB--NOUN-ADP(下) (2)</li>
+            <li>VERB--NOUN-ADP(不) (1)</li>
+            <li>VERB--NOUN-ADP(与)-ADP(的) (4)</li>
+            <li>VERB--NOUN-ADP(中) (12)</li>
             <li>VERB--NOUN-ADP(为) (1)</li>
             <li>VERB--NOUN-ADP(主) (4)</li>
+            <li>VERB--NOUN-ADP(之间) (5)</li>
             <li>VERB--NOUN-ADP(以) (1)</li>
+            <li>VERB--NOUN-ADP(关于)-ADP(的) (3)</li>
+            <li>VERB--NOUN-ADP(内) (2)</li>
             <li>VERB--NOUN-ADP(前) (3)</li>
             <li>VERB--NOUN-ADP(前)-ADP(副)-ADP(总) (1)</li>
             <li>VERB--NOUN-ADP(副) (2)</li>
             <li>VERB--NOUN-ADP(原) (5)</li>
+            <li>VERB--NOUN-ADP(和)-ADP(的) (1)</li>
+            <li>VERB--NOUN-ADP(在)-ADP(的) (6)</li>
             <li>VERB--NOUN-ADP(大) (18)</li>
             <li>VERB--NOUN-ADP(宽) (1)</li>
-            <li>VERB--NOUN-ADP(小) (8)</li>
+            <li>VERB--NOUN-ADP(对)-ADP(的) (9)</li>
+            <li>VERB--NOUN-ADP(对于)-ADP(的) (2)</li>
+            <li>VERB--NOUN-ADP(小) (9)</li>
             <li>VERB--NOUN-ADP(弯) (1)</li>
             <li>VERB--NOUN-ADP(强) (1)</li>
             <li>VERB--NOUN-ADP(微) (1)</li>
@@ -1804,10 +1888,16 @@ udver: '2'
             <li>VERB--NOUN-ADP(新) (14)</li>
             <li>VERB--NOUN-ADP(旧) (2)</li>
             <li>VERB--NOUN-ADP(暗) (1)</li>
+            <li>VERB--NOUN-ADP(有关)-ADP(的) (3)</li>
+            <li>VERB--NOUN-ADP(期间)-ADP(的) (1)</li>
             <li>VERB--NOUN-ADP(清) (1)</li>
             <li>VERB--NOUN-ADP(的) (1)</li>
+            <li>VERB--NOUN-ADP(经过)-ADP(的) (2)</li>
             <li>VERB--NOUN-ADP(老) (5)</li>
-            <li>VERB--PRON (731)</li>
+            <li>VERB--NOUN-ADP(里) (2)</li>
+            <li>VERB--NOUN-ADP(间) (1)</li>
+            <li>VERB--PRON (736)</li>
+            <li>VERB--PRON-ADP(之间) (2)</li>
           </ul>
         </li>
       </ul>
@@ -1819,10 +1909,11 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN (173)</li>
-            <li>VERB--NOUN-ADP(_) (2)</li>
-            <li>VERB--PRON (503)</li>
-            <li>VERB--PRON-ADP(_) (1)</li>
+            <li>VERB--NOUN (174)</li>
+            <li>VERB--NOUN-ADP(在) (1)</li>
+            <li>VERB--NOUN-ADP(按照) (1)</li>
+            <li>VERB--PRON (506)</li>
+            <li>VERB--PRON-ADP(由) (1)</li>
           </ul>
         </li>
       </ul>
@@ -1834,8 +1925,8 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN (822)</li>
-            <li>VERB--PRON (336)</li>
+            <li>VERB--NOUN (838)</li>
+            <li>VERB--PRON (344)</li>
           </ul>
         </li>
       </ul>
@@ -1859,7 +1950,7 @@ udver: '2'
         <li><a>obj</a>
           <ul>
             <li>VERB--NOUN (394)</li>
-            <li>VERB--PRON (90)</li>
+            <li>VERB--PRON (91)</li>
           </ul>
         </li>
       </ul>
@@ -1868,42 +1959,72 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB--NOUN (5518)</li>
+            <li>VERB--NOUN (5407)</li>
+            <li>VERB--NOUN-ADP(上) (7)</li>
+            <li>VERB--NOUN-ADP(下) (1)</li>
             <li>VERB--NOUN-ADP(不) (2)</li>
-            <li>VERB--NOUN-ADP(中) (1)</li>
+            <li>VERB--NOUN-ADP(中) (13)</li>
             <li>VERB--NOUN-ADP(主) (1)</li>
+            <li>VERB--NOUN-ADP(之上) (1)</li>
+            <li>VERB--NOUN-ADP(之下) (1)</li>
+            <li>VERB--NOUN-ADP(之中) (4)</li>
+            <li>VERB--NOUN-ADP(之內) (2)</li>
+            <li>VERB--NOUN-ADP(之間) (2)</li>
             <li>VERB--NOUN-ADP(亞) (1)</li>
             <li>VERB--NOUN-ADP(今) (1)</li>
             <li>VERB--NOUN-ADP(代) (1)</li>
+            <li>VERB--NOUN-ADP(以上) (1)</li>
+            <li>VERB--NOUN-ADP(以下) (1)</li>
+            <li>VERB--NOUN-ADP(以外) (1)</li>
             <li>VERB--NOUN-ADP(低) (1)</li>
             <li>VERB--NOUN-ADP(偽) (1)</li>
+            <li>VERB--NOUN-ADP(像是)-ADP(的) (1)</li>
+            <li>VERB--NOUN-ADP(內) (6)</li>
             <li>VERB--NOUN-ADP(分) (1)</li>
             <li>VERB--NOUN-ADP(副) (8)</li>
             <li>VERB--NOUN-ADP(原) (4)</li>
             <li>VERB--NOUN-ADP(古) (1)</li>
+            <li>VERB--NOUN-ADP(向)-ADP(的) (1)</li>
+            <li>VERB--NOUN-ADP(在)-ADP(的) (14)</li>
             <li>VERB--NOUN-ADP(堂) (1)</li>
+            <li>VERB--NOUN-ADP(外) (1)</li>
             <li>VERB--NOUN-ADP(大) (34)</li>
             <li>VERB--NOUN-ADP(好) (1)</li>
             <li>VERB--NOUN-ADP(始) (1)</li>
             <li>VERB--NOUN-ADP(子) (2)</li>
             <li>VERB--NOUN-ADP(寬) (1)</li>
+            <li>VERB--NOUN-ADP(對)-ADP(的) (26)</li>
+            <li>VERB--NOUN-ADP(對)-ADP(的)-ADP(上) (1)</li>
+            <li>VERB--NOUN-ADP(對於)-ADP(的) (3)</li>
             <li>VERB--NOUN-ADP(小) (14)</li>
+            <li>VERB--NOUN-ADP(左右) (2)</li>
             <li>VERB--NOUN-ADP(彎) (1)</li>
+            <li>VERB--NOUN-ADP(後) (1)</li>
             <li>VERB--NOUN-ADP(快) (1)</li>
             <li>VERB--NOUN-ADP(新) (21)</li>
+            <li>VERB--NOUN-ADP(於)-ADP(的) (3)</li>
+            <li>VERB--NOUN-ADP(有關)-ADP(的) (6)</li>
             <li>VERB--NOUN-ADP(毒) (1)</li>
             <li>VERB--NOUN-ADP(濃) (1)</li>
             <li>VERB--NOUN-ADP(熱) (3)</li>
+            <li>VERB--NOUN-ADP(直到)-ADP(的) (1)</li>
             <li>VERB--NOUN-ADP(總) (8)</li>
-            <li>VERB--NOUN-ADP(老) (1)</li>
+            <li>VERB--NOUN-ADP(與)-ADP(的) (4)</li>
+            <li>VERB--NOUN-ADP(與)-ADP(的)-ADP(老) (1)</li>
             <li>VERB--NOUN-ADP(舊) (4)</li>
+            <li>VERB--NOUN-ADP(裡) (1)</li>
             <li>VERB--NOUN-ADP(親) (1)</li>
             <li>VERB--NOUN-ADP(超) (2)</li>
             <li>VERB--NOUN-ADP(躁) (1)</li>
             <li>VERB--NOUN-ADP(輕)-ADP(重) (1)</li>
+            <li>VERB--NOUN-ADP(里) (2)</li>
             <li>VERB--NOUN-ADP(重) (1)</li>
+            <li>VERB--NOUN-ADP(間) (1)</li>
+            <li>VERB--NOUN-ADP(關於)-ADP(的) (4)</li>
+            <li>VERB--NOUN-ADP(離)-ADP(的) (1)</li>
             <li>VERB--NOUN-ADP(鮮) (1)</li>
-            <li>VERB--PRON (97)</li>
+            <li>VERB--PRON (98)</li>
+            <li>VERB--PRON-ADP(之中) (1)</li>
           </ul>
         </li>
       </ul>
@@ -1912,42 +2033,71 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB--NOUN (5519)</li>
+            <li>VERB--NOUN (5408)</li>
+            <li>VERB--NOUN-ADP(上) (7)</li>
+            <li>VERB--NOUN-ADP(下) (1)</li>
             <li>VERB--NOUN-ADP(不) (2)</li>
-            <li>VERB--NOUN-ADP(中) (1)</li>
+            <li>VERB--NOUN-ADP(与)-ADP(的) (4)</li>
+            <li>VERB--NOUN-ADP(与)-ADP(的)-ADP(老) (1)</li>
+            <li>VERB--NOUN-ADP(中) (13)</li>
             <li>VERB--NOUN-ADP(主) (1)</li>
+            <li>VERB--NOUN-ADP(之上) (1)</li>
+            <li>VERB--NOUN-ADP(之下) (1)</li>
+            <li>VERB--NOUN-ADP(之中) (4)</li>
+            <li>VERB--NOUN-ADP(之内) (2)</li>
+            <li>VERB--NOUN-ADP(之间) (2)</li>
+            <li>VERB--NOUN-ADP(于)-ADP(的) (3)</li>
             <li>VERB--NOUN-ADP(亚) (1)</li>
             <li>VERB--NOUN-ADP(亲) (1)</li>
             <li>VERB--NOUN-ADP(今) (1)</li>
             <li>VERB--NOUN-ADP(代) (1)</li>
+            <li>VERB--NOUN-ADP(以上) (1)</li>
+            <li>VERB--NOUN-ADP(以下) (1)</li>
+            <li>VERB--NOUN-ADP(以外) (1)</li>
             <li>VERB--NOUN-ADP(伪) (1)</li>
             <li>VERB--NOUN-ADP(低) (1)</li>
+            <li>VERB--NOUN-ADP(像是)-ADP(的) (1)</li>
+            <li>VERB--NOUN-ADP(关于)-ADP(的) (4)</li>
+            <li>VERB--NOUN-ADP(内) (6)</li>
             <li>VERB--NOUN-ADP(分) (1)</li>
             <li>VERB--NOUN-ADP(副) (8)</li>
             <li>VERB--NOUN-ADP(原) (4)</li>
             <li>VERB--NOUN-ADP(古) (1)</li>
+            <li>VERB--NOUN-ADP(后) (1)</li>
+            <li>VERB--NOUN-ADP(向)-ADP(的) (1)</li>
+            <li>VERB--NOUN-ADP(在)-ADP(的) (14)</li>
             <li>VERB--NOUN-ADP(堂) (1)</li>
+            <li>VERB--NOUN-ADP(外) (1)</li>
             <li>VERB--NOUN-ADP(大) (34)</li>
             <li>VERB--NOUN-ADP(好) (1)</li>
             <li>VERB--NOUN-ADP(始) (1)</li>
             <li>VERB--NOUN-ADP(子) (2)</li>
             <li>VERB--NOUN-ADP(宽) (1)</li>
+            <li>VERB--NOUN-ADP(对)-ADP(的) (26)</li>
+            <li>VERB--NOUN-ADP(对)-ADP(的)-ADP(上) (1)</li>
+            <li>VERB--NOUN-ADP(对于)-ADP(的) (3)</li>
             <li>VERB--NOUN-ADP(小) (14)</li>
+            <li>VERB--NOUN-ADP(左右) (2)</li>
             <li>VERB--NOUN-ADP(弯) (1)</li>
             <li>VERB--NOUN-ADP(快) (1)</li>
             <li>VERB--NOUN-ADP(总) (8)</li>
             <li>VERB--NOUN-ADP(新) (21)</li>
             <li>VERB--NOUN-ADP(旧) (4)</li>
+            <li>VERB--NOUN-ADP(有关)-ADP(的) (6)</li>
             <li>VERB--NOUN-ADP(毒) (1)</li>
             <li>VERB--NOUN-ADP(浓) (1)</li>
             <li>VERB--NOUN-ADP(热) (3)</li>
-            <li>VERB--NOUN-ADP(老) (1)</li>
+            <li>VERB--NOUN-ADP(直到)-ADP(的) (1)</li>
+            <li>VERB--NOUN-ADP(离)-ADP(的) (1)</li>
             <li>VERB--NOUN-ADP(超) (2)</li>
             <li>VERB--NOUN-ADP(躁) (1)</li>
             <li>VERB--NOUN-ADP(轻)-ADP(重) (1)</li>
+            <li>VERB--NOUN-ADP(里) (3)</li>
             <li>VERB--NOUN-ADP(重) (1)</li>
+            <li>VERB--NOUN-ADP(间) (1)</li>
             <li>VERB--NOUN-ADP(鲜) (1)</li>
-            <li>VERB--PRON (97)</li>
+            <li>VERB--PRON (98)</li>
+            <li>VERB--PRON-ADP(之中) (1)</li>
           </ul>
         </li>
       </ul>
@@ -1956,9 +2106,11 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB--NOUN (588)</li>
-            <li>VERB--PRON (137)</li>
-            <li>VERB--PRON-ADP(_) (2)</li>
+            <li>VERB--NOUN (589)</li>
+            <li>VERB--NOUN-ADP(在) (1)</li>
+            <li>VERB--PRON (138)</li>
+            <li>VERB--PRON-ADP(在) (1)</li>
+            <li>VERB--PRON-ADP(的) (1)</li>
           </ul>
         </li>
       </ul>
@@ -1967,8 +2119,8 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB--NOUN (1126)</li>
-            <li>VERB--PRON (48)</li>
+            <li>VERB--NOUN (1129)</li>
+            <li>VERB--PRON (49)</li>
           </ul>
         </li>
       </ul>
@@ -2001,7 +2153,9 @@ udver: '2'
       <ul>
         <li><a>iobj</a>
           <ul>
-            <li>VERB--NOUN (48)</li>
+            <li>VERB--NOUN (45)</li>
+            <li>VERB--NOUN-ADP(上) (1)</li>
+            <li>VERB--NOUN-ADP(中) (2)</li>
             <li>VERB--NOUN-ADP(主) (1)</li>
             <li>VERB--PRON (8)</li>
           </ul>
@@ -2012,7 +2166,9 @@ udver: '2'
       <ul>
         <li><a>iobj</a>
           <ul>
-            <li>VERB--NOUN (47)</li>
+            <li>VERB--NOUN (44)</li>
+            <li>VERB--NOUN-ADP(上) (1)</li>
+            <li>VERB--NOUN-ADP(中) (2)</li>
             <li>VERB--NOUN-ADP(主) (1)</li>
             <li>VERB--PRON (8)</li>
           </ul>
@@ -2112,7 +2268,7 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 13 relation subtypes: <a>advmod:df</a>, <a>case:loc</a>, <a>compound:dir</a>, <a>compound:ext</a>, <a>compound:vo</a>, <a>compound:vv</a>, <a>discourse:sp</a>, <a>mark:adv</a>, <a>mark:rel</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:patient</a>, <a>obl:tmod</a></li>
+      <li>This corpus uses 14 relation subtypes: <a>advmod:df</a>, <a>case:loc</a>, <a>compound:dir</a>, <a>compound:ext</a>, <a>compound:vo</a>, <a>compound:vv</a>, <a>discourse:sp</a>, <a>mark:adv</a>, <a>mark:rel</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:patient</a>, <a>obl:tmod</a></li>
       <li>The following 5 relation types are not used in this corpus at all: <a>expl</a>, <a>fixed</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a></li>
       </ul>
     </td>
@@ -2138,7 +2294,7 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 15 relation subtypes: <a>advmod:df</a>, <a>aux:pass</a>, <a>case:loc</a>, <a>compound:dir</a>, <a>compound:ext</a>, <a>compound:vo</a>, <a>compound:vv</a>, <a>discourse:sp</a>, <a>mark:adv</a>, <a>mark:rel</a>, <a>nsubj:pass</a>, <a>obj:periph</a>, <a>obl:agent</a>, <a>obl:patient</a>, <a>obl:tmod</a></li>
+      <li>This corpus uses 14 relation subtypes: <a>aux:pass</a>, <a>case:loc</a>, <a>compound:dir</a>, <a>compound:ext</a>, <a>compound:vo</a>, <a>compound:vv</a>, <a>discourse:sp</a>, <a>mark:adv</a>, <a>mark:rel</a>, <a>nsubj:pass</a>, <a>obj:periph</a>, <a>obl:agent</a>, <a>obl:patient</a>, <a>obl:tmod</a></li>
       <li>The following 6 relation types are not used in this corpus at all: <a>expl</a>, <a>fixed</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>dep</a></li>
       </ul>
     </td>
@@ -2155,7 +2311,7 @@ udver: '2'
       
       <ul>
       <li>This corpus uses 1 relation subtypes: <a>obl:arg</a></li>
-      <li>The following 15 relation types are not used in this corpus at all: <a>xcomp</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>discourse</a>, <a>aux</a>, <a>cop</a>, <a>det</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>compound</a>, <a>list</a>, <a>orphan</a>, <a>reparandum</a></li>
+      <li>The following 16 relation types are not used in this corpus at all: <a>iobj</a>, <a>xcomp</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>discourse</a>, <a>aux</a>, <a>cop</a>, <a>det</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>compound</a>, <a>list</a>, <a>orphan</a>, <a>reparandum</a></li>
       </ul>
     </td>
   </tr>

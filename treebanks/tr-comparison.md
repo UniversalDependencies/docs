@@ -96,7 +96,7 @@ udver: '2'
     </td>
     <td width="11%" valign="top">
       <ul>
-      <li>This corpus contains 1000 sentences, 16536 tokens and 16882 syntactic words.</li>
+      <li>This corpus contains 1000 sentences, 16535 tokens and 16881 syntactic words.</li>
       </ul>
     </td>
     <td width="11%" valign="top">
@@ -906,7 +906,7 @@ udver: '2'
       <ul>
         <li>Part
         <ul>
-          <li>VERB: inanılmaz, gerçekleştirilen, edecek, edilemez, gerçekleşen, tartışmalı, uygulanabilir, Birleşmiş, Seçmeli, Yenilenebilir</li>
+          <li>VERB: inanılmaz, gerçekleştirilen, edecek, edilemez, tartışmalı, uygulanabilir, Birleşmiş, Seçmeli, Yenilenebilir, adanmış</li>
         </ul>
         </li>
       </ul>
@@ -1253,7 +1253,7 @@ udver: '2'
             <li>PRON: bunlar, bunların, bunlardan, bazıları, diğerlerinin, kendilerini, şeyler, şunları, Kendilerine, bazılarını</li>
             <li>PROPN: Romalılar, Çinliler, Alpler, Atinalılar, Fenikeliler, Francisco'luların, Malenezyalıların, Meksikalılar, Spartalılar, Aborijinleri</li>
             <li>VERB: vurgular, verdiler, alacaklar, düşünüyoruz, ediyorlar, etkilenmişlerdir, ettiler, kalmışlardır, olursak, raporlar</li>
-            <li>VERB-Part: beklenmedik</li>
+            <li>VERB-Part: beklenmedik, gerçekleşenlerin</li>
             <li>VERB-Vnoun: soyun</li>
             <li>X: lerin</li>
           </ul>
@@ -1412,7 +1412,7 @@ udver: '2'
             <li>PROPN: İngiliz, Çin, Alman, Amerika, ABD, Hong, Akdeniz, Avrupa, Fransız, Hint</li>
             <li>VERB: dedi, etti, başladı, söyledi, çıktı, edildi, verdi, ediyor, geldi, aldı</li>
             <li>VERB-Conv: ederken, akarken, görünürken, çekerken</li>
-            <li>VERB-Part: inanılmaz, gerçekleştirilen, edecek, edilemez, gerçekleşen, tartışmalı, uygulanabilir, Birleşmiş, Seçmeli, Yenilenebilir</li>
+            <li>VERB-Part: inanılmaz, gerçekleştirilen, edecek, edilemez, tartışmalı, uygulanabilir, Birleşmiş, Seçmeli, Yenilenebilir, adanmış</li>
             <li>VERB-Vnoun: yapmak, etmek, yana, görmek, oluşturmak, almak, dönmek, geçmek, izlemek, kurtarmak</li>
             <li>X: Go, H, Son, in, 'da, Buck, Golden, Her, Knuck</li>
           </ul>
@@ -2016,6 +2016,7 @@ udver: '2'
             <li>NOUN: savaşın, yatırımcıların, yüzyılın, bölgenin, Savaşı'nın, alanlarının, bankanın, devletin, dönemin, dünyanın</li>
             <li>PRON: bunun, onun, bunların, birinin, Bizim, benim, diğerlerinin, hangisinin, hepsinin, kendisinin</li>
             <li>PROPN: Çin'in, Avrupa'nın, Fransa'nın, Meksika'nın, Moğolistan'ın, Rona'nın, Trump'ın, ABD'nin, Alvarez'in, Amerika'nın</li>
+            <li>VERB-Part: gerçekleşenlerin</li>
             <li>VERB-Vnoun: alınmasının, atılmasının, basmasının, edilmesinin, etmenin, etmesinin, geçirmesinin, kalmasının, saldırmanın, sevmelerinin</li>
             <li>X: Anyway"in, lerin</li>
           </ul>
@@ -3474,7 +3475,7 @@ udver: '2'
             <li>AUX-Vnoun: olmasına, olma, olmakla, olması, olmasının, olmaya, olmak, itmeye, olmaktan, olmaları</li>
             <li>VERB: dedi, etti, başladı, söyledi, çıktı, edildi, verdi, etmek, geldi, yapmak</li>
             <li>VERB-Conv: olmadan, bulunmadan, durmadan, düşünmeden, etkilenmeden, İyileşerek</li>
-            <li>VERB-Part: edecek, gerçekleşen, gerçekleştirilen, Birleşmiş, adanmış, alacak, alışılmamış, beklenmedik, biçilmiş, cevaplanamamış</li>
+            <li>VERB-Part: edecek, gerçekleştirilen, Birleşmiş, adanmış, alacak, alışılmamış, beklenmedik, biçilmiş, cevaplanamamış, donatılmış</li>
             <li>VERB-Vnoun: yapmak, etmek, büyüme, savunma, edilmesi, soruşturma, çalışma, çıkmaya, etmeye, görmek</li>
           </ul>
         </li>
@@ -4682,7 +4683,7 @@ udver: '2'
             <li>AUX-Vnoun: olmasına, olma, olmakla, olması, olmasının, olmaya, olmak, itmeye, olmaktan, olmaları</li>
             <li>VERB: dedi, etti, başladı, söyledi, çıktı, edildi, verdi, ediyor, etmek, geldi</li>
             <li>VERB-Conv: olmadan, ederken, akarken, bulunmadan, durmadan, düşünmeden, etkilenmeden, görünürken, çekerken, İyileşerek</li>
-            <li>VERB-Part: edecek, gerçekleşen, gerçekleştirilen, Birleşmiş, adanmış, alacak, alışılmamış, beklenmedik, biçilmiş, donatılmış</li>
+            <li>VERB-Part: edecek, gerçekleştirilen, Birleşmiş, adanmış, alacak, alışılmamış, beklenmedik, biçilmiş, destekleyen, donatılmış</li>
             <li>VERB-Vnoun: yapmak, etmek, büyüme, savunma, edilmesi, soruşturma, çalışma, çıkmaya, etmeye, görmek</li>
           </ul>
         </li>
@@ -5522,7 +5523,7 @@ udver: '2'
             <li>AUX-Vnoun: olmasına, olma, olmakla, olması, olmasının, olmaya, olmak, itmeye, olmaktan, olmaları</li>
             <li>VERB: ediyor, büyüme, değil, inanılmaz, savunma, söylüyor, edilmesi, geliyor, gerekiyor, görünüyor</li>
             <li>VERB-Conv: olmadan, ederken, akarken, bulunmadan, durmadan, düşünmeden, etkilenmeden, görünürken, çekerken, İyileşerek</li>
-            <li>VERB-Part: inanılmaz, gerçekleştirilen, edilemez, gerçekleşen, tartışmalı, uygulanabilir, Seçmeli, Yenilenebilir, almaz, evcilleştirilenleştirilen</li>
+            <li>VERB-Part: inanılmaz, gerçekleştirilen, edilemez, tartışmalı, uygulanabilir, Seçmeli, Yenilenebilir, almaz, destekleyen, evcilleştirilenleştirilen</li>
             <li>VERB-Vnoun: büyüme, savunma, edilmesi, soruşturma, çalışma, çıkmaya, etmeye, yana, alma, etmesi</li>
           </ul>
         </li>
@@ -8915,7 +8916,17 @@ udver: '2'
 
     </td>
     <td width="11%" valign="top">
-
+      <ul>
+        <li><a>Typo</a>
+          <ul>
+            <li>Yes
+              <ul>
+                <li>DET: hiç</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="11%" valign="top">
 
@@ -9352,6 +9363,7 @@ udver: '2'
             <li>VERB--PRON-Nom (30)</li>
             <li>VERB-Conv--NOUN-Nom (4)</li>
             <li>VERB-Conv--PRON-Nom (1)</li>
+            <li>VERB-Part--NOUN (1)</li>
             <li>VERB-Part--NOUN-Gen (1)</li>
             <li>VERB-Part--NOUN-Nom (3)</li>
             <li>VERB-Vnoun--NOUN (3)</li>
@@ -10066,7 +10078,7 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 9 relation subtypes: <a>advmod:emph</a>, <a>aux:q</a>, <a>compound:redup</a>, <a>csubj:cop</a>, <a>nmod:comp</a>, <a>nmod:part</a>, <a>nsubj:cop</a>, <a>obl:agent</a>, <a>obl:tmod</a></li>
+      <li>This corpus uses 11 relation subtypes: <a>advmod:emph</a>, <a>aux:q</a>, <a>compound:redup</a>, <a>csubj:cop</a>, <a>csubj:outer</a>, <a>nmod:comp</a>, <a>nmod:part</a>, <a>nsubj:cop</a>, <a>nsubj:outer</a>, <a>obl:agent</a>, <a>obl:tmod</a></li>
       <li>The following 6 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>clf</a>, <a>list</a>, <a>reparandum</a>, <a>dep</a></li>
       </ul>
     </td>
@@ -10091,7 +10103,7 @@ udver: '2'
       
       <ul>
       <li>This corpus uses 6 relation subtypes: <a>advmod:emph</a>, <a>aux:q</a>, <a>cc:preconj</a>, <a>compound:lvc</a>, <a>compound:redup</a>, <a>nmod:poss</a></li>
-      <li>The following 4 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>list</a>, <a>reparandum</a></li>
+      <li>The following 5 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
     </td>
     <td width="11%" valign="top">

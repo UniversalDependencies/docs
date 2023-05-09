@@ -155,7 +155,7 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 2 lemmas tagged as auxiliaries (AUX): estar, ser</li>
+      <li>This corpus contains 12 lemmas tagged as auxiliaries (AUX): acabar, deber, deixar, estar, haber, ir, levar, poder, seguir, ser, ter, vir</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -167,7 +167,7 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>Out of the above, 2 lemmas occurred sometimes as AUX and sometimes as VERB: estar, ser</li>
+      <li>Out of the above, 12 lemmas occurred sometimes as AUX and sometimes as VERB: acabar, deber, deixar, estar, haber, ir, levar, poder, seguir, ser, ter, vir</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -1150,9 +1150,9 @@ udver: '2'
                 <li>NUM: 1, 10, 20, 23, 70, -11,86, -36,03, -42,43, 105, 11</li>
                 <li>PART: non</li>
                 <li>PRON: como</li>
-                <li>PROPN: 1979a, BOE, Benson, Brassington, CV, Covarrubias, Exponse, Isla, Lim, Lin</li>
+                <li>PROPN: 1979a, BOE, Benson, Brassington, CV, Covarrubias, Exponse, Hannan, Isla, Lim</li>
                 <li>SYM: +</li>
-                <li>VERB: di, Brooman, Cíes, FA+U, Hannan, IPa, MECACAR, Pasa, autoinmune, cae</li>
+                <li>VERB: di, Brooman, FA+U, IPa, MECACAR, Pasa, autoinmune, cae, chega, conforme</li>
               </ul>
             </li>
           </ul>
@@ -1186,7 +1186,7 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus uses 89 lemmas as auxiliaries (<a>aux</a>). Examples: poder, deber, ser, haber, estar, ter, ir, seguir, chegar, continuar, deixar, tender, vir, como, empezar, acabar, axudar, pasar, facer, tratar, comezar, adoitar, dar, proceder, a, caber, comenzar, contribuír, corresponder, custar, falar, interesar, necesitar, obrigar, outro, repartir, ver, volver, 16, abster, acceder, aceptar, acostumbrarse, analizar, apabulladas, aprender, aquel, bloquear, buscar, calquera.</li>
+      <li>This corpus uses 12 lemmas as auxiliaries (<a>aux</a>). Examples: poder, deber, ser, haber, estar, ter, ir, seguir, deixar, vir, acabar, levar.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -1204,7 +1204,7 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN (3121)</li>
+            <li>VERB--NOUN (3101)</li>
             <li>VERB--NOUN-ADP(a) (2)</li>
             <li>VERB--NOUN-ADP(ata) (2)</li>
             <li>VERB--NOUN-ADP(aínda)-ADP(xa) (1)</li>
@@ -1213,7 +1213,7 @@ udver: '2'
             <li>VERB--NOUN-ADP(en) (4)</li>
             <li>VERB--NOUN-ADP(entre) (1)</li>
             <li>VERB--NOUN-ADP(sobre) (1)</li>
-            <li>VERB--PRON (1826)</li>
+            <li>VERB--PRON (1822)</li>
             <li>VERB--PRON-ADP(de) (2)</li>
           </ul>
         </li>
@@ -1256,23 +1256,21 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB--NOUN (4434)</li>
+            <li>VERB--NOUN (4398)</li>
             <li>VERB--NOUN-ADP(a) (1)</li>
-            <li>VERB--NOUN-ADP(como) (7)</li>
+            <li>VERB--NOUN-ADP(como) (6)</li>
             <li>VERB--NOUN-ADP(con) (2)</li>
-            <li>VERB--NOUN-ADP(de) (17)</li>
+            <li>VERB--NOUN-ADP(de) (19)</li>
             <li>VERB--NOUN-ADP(en) (3)</li>
-            <li>VERB--NOUN-ADP(falar) (1)</li>
             <li>VERB--NOUN-ADP(historicamente) (1)</li>
             <li>VERB--NOUN-ADP(investir) (1)</li>
-            <li>VERB--NOUN-ADP(medio) (1)</li>
             <li>VERB--NOUN-ADP(mentres) (1)</li>
-            <li>VERB--NOUN-ADP(precisamente)-ADP(superior) (1)</li>
+            <li>VERB--NOUN-ADP(precisamente) (1)</li>
             <li>VERB--NOUN-ADP(segundo) (1)</li>
             <li>VERB--NOUN-ADP(sobre) (1)</li>
             <li>VERB--NOUN-ADP(só) (1)</li>
-            <li>VERB--PRON (1608)</li>
-            <li>VERB--PRON-ADP(como) (1)</li>
+            <li>VERB--NOUN-ADP(xa)-ADP(falar) (1)</li>
+            <li>VERB--PRON (1603)</li>
             <li>VERB--PRON-ADP(para) (1)</li>
           </ul>
         </li>
@@ -1316,7 +1314,7 @@ udver: '2'
       <ul>
         <li><a>iobj</a>
           <ul>
-            <li>VERB--PRON (276)</li>
+            <li>VERB--PRON (274)</li>
           </ul>
         </li>
       </ul>
@@ -1371,7 +1369,7 @@ udver: '2'
       
       <ul>
       <li>This corpus does not use relation subtypes.</li>
-      <li>The following 13 relation types are not used in this corpus at all: <a>csubj</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>fixed</a>, <a>compound</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+      <li>The following 8 relation types are not used in this corpus at all: <a>csubj</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
     </td>
     <td width="50%" valign="top">
