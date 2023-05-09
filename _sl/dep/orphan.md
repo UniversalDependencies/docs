@@ -19,3 +19,4 @@ orphan(Anglo-Saxons-28,H.-31)
 ~~~
 
 If there was no ellipsis in the second clause of the above example (*pač pa so Anglosasi nekaj prevzeli od H.*), *nekaj* would be marked as the direct object (`obj`) and *od H.* as an oblique argument of the predicate (`obl`). Since it would be misleading to mark these elements as dependents of the promoted head *Anglosasi* via the `obj` and `obl` relations, it is instead better to mark them with the `orphan` relation. 
+<!-- Interlanguage links updated Út 9. května 2023, 20:04:30 CEST -->

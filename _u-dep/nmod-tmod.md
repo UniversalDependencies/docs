@@ -13,4 +13,4 @@ Are you free for lunch some day this week ?
 nmod:tmod(day, week)
 ~~~
 
-<!-- Interlanguage links updated Po lis 14 15:35:33 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:04:22 CEST -->

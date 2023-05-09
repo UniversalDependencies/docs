@@ -53,4 +53,4 @@ If the agent is unknown or unspecified, the noun 人 / _jan4_ 'person' is used. 
 ~~~
 
 However, due to Mandarin and standard written Chinese influence, the Mandarin 被 / _bèi_ (_bei6_ in Cantonese) is sometimes used in formal registers such as in newscasts, in which case if it is followed by an agent noun, it is treated the same way as the Cantonese 畀 / _bei2_ here, as a prepositional noun marker. Otherwise, if it is used singly without an agent noun, it is treated as a passive auxiliary (see [AUX]() and [aux]().
-<!-- Interlanguage links updated Po lis 14 15:35:38 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:04:27 CEST -->

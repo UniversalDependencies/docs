@@ -23,4 +23,4 @@ Tebi gre najbrž drugače, rdečečopek , kajne ? \n To-you it-goes probably dif
 discourse(gre,kajne)
 discourse(it-goes, right)
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:23 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:04:13 CEST -->

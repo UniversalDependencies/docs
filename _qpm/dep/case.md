@@ -17,3 +17,4 @@ Ahmét,  kakná íma na drúgono dünó?
 "Ahmet, what is there in the other world?"
 case (dünó, na)
 ~~~
+<!-- Interlanguage links updated Út 9. května 2023, 20:04:02 CEST -->

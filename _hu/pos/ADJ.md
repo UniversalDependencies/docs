@@ -6,4 +6,4 @@ shortdef: 'adjective'
 
 Present, past and future participles are marked as ADJ, marked by the feature VerbForm. They are not comparable, thus their Degree feature is None, as opposed to normal adjectives.
 Common features for adjectives and participles are: Number, Case, Number[psor], Person[psor], Number[psed]. Non-participial adjectives also bear the feature NumType.
-<!-- Interlanguage links updated Po lis 14 15:34:28 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:22 CEST -->

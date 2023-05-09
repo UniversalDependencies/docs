@@ -16,4 +16,4 @@ amod(Fleisch, rohes)
 die Rheintaler Bauern \n the farmers from the Rhine valley
 amod(Bauern, Rheintaler)
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:08 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:58 CEST -->

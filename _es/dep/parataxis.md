@@ -12,4 +12,4 @@ for `parataxis`.
 Ya sé lo que llevaré a la fiesta: fruta y vino . \n I already know what I will bring to the party : fruit and wine .
 parataxis(llevaré, fruta)
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:42 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:04:30 CEST -->

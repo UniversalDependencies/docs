@@ -25,4 +25,4 @@ En social gemenskap existerar inte \n A social community doesn't exist
 advmod(existerar, inte)
 ~~~
 
-<!-- Interlanguage links updated Po lis 14 15:35:05 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:56 CEST -->

@@ -23,3 +23,4 @@ compound(миллион, 500 )
 compound(млн , 35 )
 nummod(сом,млн  )
 ~~~
+<!-- Interlanguage links updated Út 9. května 2023, 20:04:05 CEST -->

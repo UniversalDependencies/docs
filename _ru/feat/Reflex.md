@@ -30,4 +30,4 @@ column. (Which means that empty value has the `No` meaning.)
 
 * reflexive personal pronouns: _себя, себе, себя, собой, себе_ (occurs in various cases but not in nominative; does not distinguish [Number]())
 * reflexive possessive pronoun: _свой_
-<!-- Interlanguage links updated Po lis 14 15:34:57 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:48 CEST -->

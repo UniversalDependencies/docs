@@ -17,4 +17,4 @@ nsubj:lfoc(Given, student)
 
 “The teacher gave the student a prize.”
 
-<!-- Interlanguage links updated Po lis 14 15:35:34 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:04:23 CEST -->

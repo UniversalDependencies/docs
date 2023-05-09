@@ -72,4 +72,4 @@ The relative pronoun in Irish is _<b>a</b>_ (or _ná_), and is used to introduce
 * _<b>a</b> dúirt sí_ “she said”
 * _File <b>ab</b> ea Dónall Ó Muláin_ “(lit. it was a poet <b>that</b> Dónall Ó Muláin was)”
 * _seanáiteanna <b>atá</b> luaite sa leabhar_ “old places <b>that are</b> mentioned in the book”
-<!-- Interlanguage links updated Po lis 14 15:34:56 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:47 CEST -->

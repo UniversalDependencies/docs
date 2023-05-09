@@ -5,4 +5,4 @@ shortdef: 'other'
 ---
 
 The English tag `X` is used for the PTB tags FW, LS, XX, ADD, AFX, and GW. Some things tagged AFX would be candidates for retagging with other tags, but that has not been attempted.
-<!-- Interlanguage links updated Po lis 14 15:34:38 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:30 CEST -->

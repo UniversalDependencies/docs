@@ -14,4 +14,4 @@ A seca que atingiu as áreas produtoras de grãos não deve causar grandes estra
 acl:relcl(seca, atingiu)
 ~~~
 
-<!-- Interlanguage links updated Po lis 14 15:35:03 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:53 CEST -->

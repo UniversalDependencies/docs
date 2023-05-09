@@ -110,4 +110,4 @@ The conjunctive is also used to express volition in both proclamations and quest
 
 * [myv] _<b>молевлинек</b> кинов_ "we <b>would like to go</b> to the movies"
 
-<!-- Interlanguage links updated Po lis 14 15:34:48 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:40 CEST -->

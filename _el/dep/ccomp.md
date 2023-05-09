@@ -22,4 +22,4 @@ corefers with an argument (subject or object) of the higher clause, see `xcomp`.
 ccomp(θέλει, αρχίσουν)
 xcomp(αρχίσουν, γράφουν)
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:13 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:04:03 CEST -->

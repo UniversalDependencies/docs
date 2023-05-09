@@ -32,4 +32,4 @@ The speaker has indirect evidence for the statement. The `Nfh` marker is also ca
 
 * Aikhenvald, Alexandra Y. 2004. Evidentiality. Oxford: Oxford University Press.
 * Ganenkov, Dmitry. Reported speech in Dargwa: an overview. Workshop on Reported speech in East Caucasian languages. Lyon, 22 September 2010. [PDF](http://dag-languages.org/download/Reported_speech_Dargwa.pdf)
-<!-- Interlanguage links updated Po lis 14 15:34:45 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:36 CEST -->

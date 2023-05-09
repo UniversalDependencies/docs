@@ -48,4 +48,4 @@ The `xcomp:pred` relation is used in the Polish [PDB-UD](http://universaldepende
 
 ~~~	
 
-<!-- Interlanguage links updated Po lis 14 15:35:46 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:04:35 CEST -->

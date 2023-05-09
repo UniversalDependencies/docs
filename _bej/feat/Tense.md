@@ -34,4 +34,4 @@ the sentence.
 
 - _niraːkʷhoːk ni- <b>jad</b> =ej //_ "we will be terrified of you" 
 
-<!-- Interlanguage links updated Po lis 14 15:34:58 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:49 CEST -->

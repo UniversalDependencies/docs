@@ -43,4 +43,4 @@ Gerund is a non-finite verb form that shares properties of verbs and nouns. In E
 * _I look forward to <b>seeing</b> you._
 * _She turns a blind eye to my <b>being</b> late._
 
-<!-- Interlanguage links updated Po lis 14 15:35:00 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:51 CEST -->

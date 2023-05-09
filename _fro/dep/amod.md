@@ -37,4 +37,4 @@ An adjectival modifier of a noun, `amod`, is any adjectival phrase that serves t
 5	oz	_	NOUN	NOMcom	_	2	nsubj	_	_
 
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:08 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:58 CEST -->

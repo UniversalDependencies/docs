@@ -13,4 +13,4 @@ We currently do not use the `dep` label.
 a. Oraya gitmiş olabilir. \n a. S/he may have gone there .
 dep(a, gitmiş)
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:21 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:04:10 CEST -->

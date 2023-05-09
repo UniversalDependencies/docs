@@ -61,4 +61,4 @@ Sam took out  a $ 3 million loan
 amod(loan, $)
 ~~~
 -->
-<!-- Interlanguage links updated Po lis 14 15:35:08 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:58 CEST -->

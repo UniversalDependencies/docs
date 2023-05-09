@@ -17,4 +17,4 @@ For _subordinating conjunctions,_ see [SCONJ]().
 - and : You dey use phone <b>and</b> you dey drive.
 - or : If you want drink and drive drink wata <b>or</b> drink coke.
 - but : Some people no go die <b>but</b> for di rest of deir life dey no go fit waka  again.
-<!-- Interlanguage links updated Po lis 14 15:34:31 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:24 CEST -->

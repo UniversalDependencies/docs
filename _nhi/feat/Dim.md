@@ -21,4 +21,4 @@ udver: '2'
 
 * _notskwin<b>tsitsin</b>_ “My little/lovey dogs.”
 * _yeh moawi<b>tsin</b>_ “She is your aunt (reverence).”
-<!-- Interlanguage links updated Po lis 14 15:34:45 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:36 CEST -->

@@ -26,4 +26,4 @@ Number agreement in Spanish nouns involves adding a plural suffix, typically "-s
 
 In spoken Spanish the /s/ sound is sometimes elided, meaning it is not pronounced. This phenomenon occurs mainly in the Caribbean, some parts of South America, and some regions of Spain, such as the Canary Islands and Andalusia. When elision occurs, it can affect the form of the word and, consequently, the features assigned to it. For instance, the word  _ustedes_ "you all" can be phonologically transcribed as _ustede_ [usteðe]. If elision occurs and its represented in transcription, it is crucial to maintain concordance in the feature tags assigned to the word. In this case it should still be tagged as plural (Number=Plur) to maintain concordance with the rest of the sentence.
 
-<!-- Interlanguage links updated Po lis 14 15:34:33 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:25 CEST -->

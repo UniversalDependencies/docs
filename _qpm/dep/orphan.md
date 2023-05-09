@@ -17,3 +17,4 @@ conj(paračíh, žanáta)
 orphan(žanáta, kahvǿ)      
 cc(žanáta, pak)
 ~~~
+<!-- Interlanguage links updated Út 9. května 2023, 20:04:30 CEST -->

@@ -18,4 +18,4 @@ pagungha ligh naq a qa . \n crowberry to-put-N-in to-be-going-to-V Ind.Trns 1Sg.
 nmod:arg(ligh, pagungha)
 nmod:arg(to-put-N-in, crowberry)
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:31 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:04:20 CEST -->

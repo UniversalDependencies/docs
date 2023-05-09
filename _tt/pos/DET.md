@@ -21,4 +21,4 @@ Demonstrative pronouns are marked as `PRON` with the morphological feature speci
 - interrogative determiners: _кайсы_ "which"
 - quantity/quantifier determiners: _берничә_ "some", _һич_ "none"
 
-<!-- Interlanguage links updated Po lis 14 15:34:32 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:24 CEST -->

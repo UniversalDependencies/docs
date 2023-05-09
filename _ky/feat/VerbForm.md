@@ -70,3 +70,4 @@ verb. Nevertheless, we annotate them as `VerbForm=Vnoun`, not `Inf`.
 - _<b>Бүттү</b>деп ойлогом._ "I thought you were finished"
 - _Мен ал жерден <b>өткүм</b> келген жок._ "I didn’t want to pass there"
 
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:51 CEST -->

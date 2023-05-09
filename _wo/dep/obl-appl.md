@@ -21,4 +21,4 @@ det(waañ, wi-7)
 punct(togge, .-8)
 ~~~
 
-<!-- Interlanguage links updated Po lis 14 15:35:39 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:04:27 CEST -->

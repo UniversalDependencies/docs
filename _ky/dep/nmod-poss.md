@@ -20,3 +20,4 @@ nmod:poss(көйнөктүн,текчедеги)
 nmod:poss(системасын, Кыргызстандын)
 ~~~
 
+<!-- Interlanguage links updated Út 9. května 2023, 20:04:21 CEST -->

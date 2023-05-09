@@ -102,3 +102,4 @@ case(dela,od)
 obl(larger,part)
 case(part,than)
 ~~~
+<!-- Interlanguage links updated Út 9. května 2023, 20:04:27 CEST -->

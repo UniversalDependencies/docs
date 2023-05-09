@@ -21,4 +21,4 @@ context.
 - Indefinite pronouns: _nogen_ "someone/anybody", _noget_ "something/anything"
 - Totality pronouns:  _alting_ "everything"
 - Negative pronouns: _ingen_ "no/none" as in _ingen af os_ "none of us"
-<!-- Interlanguage links updated Po lis 14 15:34:34 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:27 CEST -->

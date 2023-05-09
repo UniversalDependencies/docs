@@ -13,4 +13,4 @@ oːn hallaːn hasara t= ʔabaː =t =iːb kirif -aː =b =u //
 text_en: but I have met them in the valley."
 obl:arg(kirif, ʔabaː) ("cut_off", "river_branch")
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:39 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:04:27 CEST -->
