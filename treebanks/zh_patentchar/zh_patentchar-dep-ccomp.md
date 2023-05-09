@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-75 nodes (3%) are attached to their parents as `ccomp`.
+79 nodes (4%) are attached to their parents as `ccomp`.
 
-70 instances of `ccomp` (93%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.50666666666667.
+73 instances of `ccomp` (92%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.60759493670886.
 
-The following 6 pairs of parts of speech are connected with `ccomp`: <tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt> (45; 60% instances), <tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_patentchar-pos-AUX.html">AUX</a></tt> (21; 28% instances), <tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt> (4; 5% instances), <tt><a href="zh_patentchar-pos-ADV.html">ADV</a></tt>-<tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt> (3; 4% instances), <tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_patentchar-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="zh_patentchar-pos-PART.html">PART</a></tt>-<tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `ccomp`: <tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt> (48; 61% instances), <tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_patentchar-pos-AUX.html">AUX</a></tt> (21; 27% instances), <tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt> (4; 5% instances), <tt><a href="zh_patentchar-pos-ADV.html">ADV</a></tt>-<tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt> (3; 4% instances), <tt><a href="zh_patentchar-pos-PART.html">PART</a></tt>-<tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_patentchar-pos-AUX.html">AUX</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

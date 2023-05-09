@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.8 release.
 The following people have contributed to making this treebank part of UD: Lorena Martín Rodríguez, Fabrício Ferraz Gerardi.
 
 Repository: [UD_Guajajara-TuDeT](https://github.com/UniversalDependencies/UD_Guajajara-TuDeT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgub_tudet211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgub_tudet212)<br />
+Download all treebanks: [UD 2.12](/#download)
 
 License: CC BY-SA 4.0
 
@@ -93,7 +93,7 @@ The development of this treebank is supported by the by European Research Counci
 
 ## Features
 
-[Aspect](gub_tudet-feat-Aspect.html) – [Case](gub_tudet-feat-Case.html) – [Clusivity](gub_tudet-feat-Clusivity.html) – [Deo](gub_tudet-feat-Deo.html) – [Detrans](gub_tudet-feat-Detrans.html) – [Dimin](gub_tudet-feat-Dimin.html) – [Emph](gub_tudet-feat-Emph.html) – [Evident](gub_tudet-feat-Evident.html) – [False](gub_tudet-feat-False.html) – [Foc](gub_tudet-feat-Foc.html) – [Foreign](gub_tudet-feat-Foreign.html) – [Int](gub_tudet-feat-Int.html) – [Mood](gub_tudet-feat-Mood.html) – [Nomzr](gub_tudet-feat-Nomzr.html) – [NonFoc](gub_tudet-feat-NonFoc.html) – [Number](gub_tudet-feat-Number.html) – [Number[obj]](gub_tudet-feat-Number-obj.html) – [Person](gub_tudet-feat-Person.html) – [Person[obj]](gub_tudet-feat-Person-obj.html) – [Person[psor]](gub_tudet-feat-Person-psor.html) – [Person[subj]](gub_tudet-feat-Person-subj.html) – [Polarity](gub_tudet-feat-Polarity.html) – [Poss](gub_tudet-feat-Poss.html) – [PronType](gub_tudet-feat-PronType.html) – [Prp](gub_tudet-feat-Prp.html) – [Red](gub_tudet-feat-Red.html) – [Reflex](gub_tudet-feat-Reflex.html) – [Rel](gub_tudet-feat-Rel.html) – [Speech](gub_tudet-feat-Speech.html) – [Tense](gub_tudet-feat-Tense.html) – [VerbForm](gub_tudet-feat-VerbForm.html) – [Voice](gub_tudet-feat-Voice.html)
+[Aspect](gub_tudet-feat-Aspect.html) – [Case](gub_tudet-feat-Case.html) – [Clusivity](gub_tudet-feat-Clusivity.html) – [Degree](gub_tudet-feat-Degree.html) – [Deo](gub_tudet-feat-Deo.html) – [Detrans](gub_tudet-feat-Detrans.html) – [Emph](gub_tudet-feat-Emph.html) – [Evident](gub_tudet-feat-Evident.html) – [False](gub_tudet-feat-False.html) – [Foc](gub_tudet-feat-Foc.html) – [Foreign](gub_tudet-feat-Foreign.html) – [Int](gub_tudet-feat-Int.html) – [Mood](gub_tudet-feat-Mood.html) – [Nomzr](gub_tudet-feat-Nomzr.html) – [NonFoc](gub_tudet-feat-NonFoc.html) – [Number](gub_tudet-feat-Number.html) – [Number[obj]](gub_tudet-feat-Number-obj.html) – [Person](gub_tudet-feat-Person.html) – [Person[obj]](gub_tudet-feat-Person-obj.html) – [Person[psor]](gub_tudet-feat-Person-psor.html) – [Person[subj]](gub_tudet-feat-Person-subj.html) – [Polarity](gub_tudet-feat-Polarity.html) – [Poss](gub_tudet-feat-Poss.html) – [PronType](gub_tudet-feat-PronType.html) – [Prp](gub_tudet-feat-Prp.html) – [Red](gub_tudet-feat-Red.html) – [Reflex](gub_tudet-feat-Reflex.html) – [Rel](gub_tudet-feat-Rel.html) – [Speech](gub_tudet-feat-Speech.html) – [Tense](gub_tudet-feat-Tense.html) – [VerbForm](gub_tudet-feat-VerbForm.html) – [Voice](gub_tudet-feat-Voice.html)
 
 ## Relations
 
@@ -235,15 +235,6 @@ The development of this treebank is supported by the by European Research Counci
 </ul>
 
 <ul>
-  <li>All
-    <ul>
-      <li>NOUN: kope, tawpe, ʔɨpe, kaʔape, ɨrɨhupe, tuzukpe, maiʔuhawpe, rekohawpe</li>
-      <li>PRON: Maʔepe</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
   <li>Dat
     <ul>
       <li>ADP: izupe, newe, wanehe, hehe, uzeupe, wanuwi, wanupe</li>
@@ -266,7 +257,7 @@ The development of this treebank is supported by the by European Research Counci
   <li>Loc
     <ul>
       <li>ADP: izuwi</li>
-      <li>NOUN: ɨpe, kaʔape, ʔɨwɨr, kope, tawpe, ʔɨpe, reme, wekohawpe, pepe, wanekohawpe</li>
+      <li>NOUN: kope, ɨpe, kaʔape, tawpe, ʔɨpe, ʔɨwɨr, reme, ɨrɨhupe, wekohawpe, pepe</li>
       <li>PRON: aʔepe, Maʔepe, Maʔenpete, aipope, akwezpe, parupi, pawpe</li>
     </ul>
   </li>
@@ -304,6 +295,22 @@ The development of this treebank is supported by the by European Research Counci
 <h3>Degree and Polarity</h3>
 
 
+<ul>
+  <li><a>Degree</a></li>
+</ul>
+
+<ul>
+  <li>Dim
+    <ul>
+      <li>ADP: huakeaʔi, rupiaʔi</li>
+      <li>ADV: Taritɨkaʔi</li>
+      <li>NOUN: wiramiri, ipiraʔi, Karuketeaʔi, inemuʔi, memɨraʔi, tahɨwai, werotaʔi, zutɨkaʔe, zutɨkaʔi, Imemɨraʔi</li>
+      <li>NUM: napɨtaʔikwaw</li>
+      <li>PROPN: Mairaʔi</li>
+      <li>VERB: ukwawewer, ohoaʔi, uʔuaʔi</li>
+    </ul>
+  </li>
+</ul>
 
 <ul>
   <li><a>Polarity</a></li>
@@ -637,23 +644,6 @@ The development of this treebank is supported by the by European Research Counci
           <li>NOUN: imaʔuhez, maʔemumeʔuhaw, Imaʔenukwaw, Naʔimaʔuhezpixikwaw, maiʔuhawpe, maʔemumeʔuhawkwez, wamaiʔuhaw</li>
           <li>VERB: umaiʔu, umaʔereko, numaʔerekokwaw, Naʔimaʔuhezkwaw, Umaʔemumeʔu, umaiʔuaʔipa, umaiʔukatu</li>
           <li>VERB-Ger: umaiʔuaʔipa</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li><a>Dimin</a>
-    <ul>
-      <li>Yes
-        <ul>
-          <li>ADP: huakeaʔi, rupiaʔi</li>
-          <li>ADV: Taritɨkaʔi</li>
-          <li>NOUN: wiramiri, ipiraʔi, Karuketeaʔi, inemuʔi, memɨraʔi, tahɨwai, werotaʔi, zutɨkaʔe, zutɨkaʔi, Imemɨraʔi</li>
-          <li>NUM: napɨtaʔikwaw</li>
-          <li>PROPN: Mairaʔi</li>
-          <li>VERB: ukwawewer, ohoaʔi, uʔuaʔi</li>
         </ul>
       </li>
     </ul>

@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Turkish-GB: Relations: `nsubj`
 
 This relation is universal.
-There are 1 language-specific subtypes of `nsubj`: <tt><a href="tr_gb-dep-nsubj-cop.html">nsubj:cop</a></tt>.
+There are 2 language-specific subtypes of `nsubj`: <tt><a href="tr_gb-dep-nsubj-cop.html">nsubj:cop</a></tt>, <tt><a href="tr_gb-dep-nsubj-outer.html">nsubj:outer</a></tt>.
 
 1630 nodes (9%) are attached to their parents as `nsubj`.
 

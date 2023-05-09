@@ -52,9 +52,9 @@ Parents of `ADJ` nodes belong to 2 different parts of speech: <tt><a href="en_pr
 
 10 (50%) `ADJ` nodes have three or more children.
 
-The highest child degree of a `ADJ` node is 3.
+The highest child degree of a `ADJ` node is 4.
 
-Children of `ADJ` nodes are attached using 4 different relations: <tt><a href="en_pronouns-dep-cop.html">cop</a></tt> (10; 33% instances), <tt><a href="en_pronouns-dep-nsubj.html">nsubj</a></tt> (10; 33% instances), <tt><a href="en_pronouns-dep-csubj.html">csubj</a></tt> (5; 17% instances), <tt><a href="en_pronouns-dep-punct.html">punct</a></tt> (5; 17% instances)
+Children of `ADJ` nodes are attached using 4 different relations: <tt><a href="en_pronouns-dep-cop.html">cop</a></tt> (10; 29% instances), <tt><a href="en_pronouns-dep-nsubj.html">nsubj</a></tt> (10; 29% instances), <tt><a href="en_pronouns-dep-punct.html">punct</a></tt> (10; 29% instances), <tt><a href="en_pronouns-dep-advcl.html">advcl</a></tt> (5; 14% instances)
 
-Children of `ADJ` nodes belong to 4 different parts of speech: <tt><a href="en_pronouns-pos-AUX.html">AUX</a></tt> (10; 33% instances), <tt><a href="en_pronouns-pos-PRON.html">PRON</a></tt> (10; 33% instances), <tt><a href="en_pronouns-pos-PUNCT.html">PUNCT</a></tt> (5; 17% instances), <tt><a href="en_pronouns-pos-VERB.html">VERB</a></tt> (5; 17% instances)
+Children of `ADJ` nodes belong to 4 different parts of speech: <tt><a href="en_pronouns-pos-AUX.html">AUX</a></tt> (10; 29% instances), <tt><a href="en_pronouns-pos-PRON.html">PRON</a></tt> (10; 29% instances), <tt><a href="en_pronouns-pos-PUNCT.html">PUNCT</a></tt> (10; 29% instances), <tt><a href="en_pronouns-pos-VERB.html">VERB</a></tt> (5; 14% instances)
 

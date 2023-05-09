@@ -7,13 +7,13 @@ udver: '2'
 ## Treebank Statistics: UD_Chinese-CFL: POS Tags: `PROPN`
 
 There are 44 `PROPN` lemmas (3%), 44 `PROPN` types (3%) and 144 `PROPN` tokens (2%).
-Out of 15 observed tags, the rank of `PROPN` is: 7 in number of lemmas, 7 in number of types and 10 in number of tokens.
+Out of 15 observed tags, the rank of `PROPN` is: 6 in number of lemmas, 7 in number of types and 10 in number of tokens.
 
 The 10 most frequent `PROPN` lemmas: 中国、 西安、 麦加、 北京、 商洛、 韩国、 天池、 日本、 香港、 加拿大
 
 The 10 most frequent `PROPN` types:  中国、 西安、 麦加、 北京、 商洛、 韩国、 天池、 日本、 香港、 加拿大
 
-The 10 most frequent ambiguous lemmas: 他们 (<tt><a href="zh_cfl-pos-PRON.html">PRON</a></tt> 37, <tt><a href="zh_cfl-pos-PROPN.html">PROPN</a></tt> 1)
+The 10 most frequent ambiguous lemmas: 他 (<tt><a href="zh_cfl-pos-PRON.html">PRON</a></tt> 104, <tt><a href="zh_cfl-pos-PROPN.html">PROPN</a></tt> 1)
 
 The 10 most frequent ambiguous types:  他们 (<tt><a href="zh_cfl-pos-PRON.html">PRON</a></tt> 37, <tt><a href="zh_cfl-pos-PROPN.html">PROPN</a></tt> 1)
 
@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  他们 (<tt><a href="zh_cfl-pos-PRON.html
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.001198).
+The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.009709).
 
 The 1st highest number of forms (1) was observed with the lemma “KTV”: KTV.
 

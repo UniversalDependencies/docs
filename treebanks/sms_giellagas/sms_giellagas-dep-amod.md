@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-21 nodes (1%) are attached to their parents as `amod`.
+23 nodes (1%) are attached to their parents as `amod`.
 
-21 instances of `amod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.14285714285714.
+23 instances of `amod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.1304347826087.
 
-The following 2 pairs of parts of speech are connected with `amod`: <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> (20; 95% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> (1; 5% instances).
+The following 2 pairs of parts of speech are connected with `amod`: <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> (22; 96% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 2 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 3 amod	color:blue
-1	Lij-a	leeʹd	AUX	V	Clitic=QstA|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Valency=1	6	cop	_	GTtags=IV,Ind,Prs,Sg3,Qst/a
+1	Lij-a	leeʹd	AUX	V	Clitic=QstA|Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	cop	_	GTtags=IV,Ind,Prs,Sg3,Qst/a
 2	Iguazu	Iguazu	NOUN	N	Case=Nom|Number=Sing	6	nsubj	_	GTtags=Prop,Sg,Nom
 3	jõnn	jõnn	ADJ	A	_	6	amod	_	GTtags=Attr
 4	avi	avi	CCONJ	CC	_	5	cc	_	_

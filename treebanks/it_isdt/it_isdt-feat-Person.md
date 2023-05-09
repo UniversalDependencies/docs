@@ -12,17 +12,17 @@ It occurs with 3 different values: `1`, `2`, `3`.
 25444 tokens (9%) have a non-empty value of `Person`.
 3799 types (14%) occur at least once with a non-empty value of `Person`.
 1330 lemmas (7%) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> (10513; 4% instances), <tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> (10272; 3% instances), <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (4659; 2% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> (10514; 4% instances), <tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> (10271; 3% instances), <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (4659; 2% instances).
 
 ### `VERB`
 
-10513 <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> tokens (42% of all `VERB` tokens) have a non-empty value of `Person`.
+10514 <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> tokens (42% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="it_isdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (10513; 100%), <tt><a href="it_isdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (10512; 100%), <tt><a href="it_isdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9629; 92%), <tt><a href="it_isdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (8145; 77%), <tt><a href="it_isdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7418; 71%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="it_isdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (10514; 100%), <tt><a href="it_isdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (10513; 100%), <tt><a href="it_isdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9630; 92%), <tt><a href="it_isdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (8146; 77%), <tt><a href="it_isdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7418; 71%).
 
 `VERB` tokens may have the following values of `Person`:
 
-* `1` (809; 8% of non-empty `Person`): <em>credo, abbiamo, vediamo, so, ho, faccio, mettiamo, facciamo, metto, sappiamo</em>
+* `1` (810; 8% of non-empty `Person`): <em>credo, abbiamo, vediamo, so, ho, faccio, mettiamo, facciamo, metto, sappiamo</em>
 * `2` (452; 4% of non-empty `Person`): <em>v., Nomina, Dimmi, vedi, fai, Elenca, hai, ricevi, Dammi, crei</em>
 * `3` (9252; 88% of non-empty `Person`): <em>ha, è, hanno, trova, sono, fa, chiama, fanno, dice, morì</em>
 * `EMPTY` (14735): <em>fare, fatto, far, visto, vinto, vedere, avere, avuto, tenuto, detto</em>
@@ -46,13 +46,13 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `AUX`
 
-10272 <tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> tokens (88% of all `AUX` tokens) have a non-empty value of `Person`.
+10271 <tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> tokens (88% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="it_isdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (10272; 100%), <tt><a href="it_isdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9319; 91%), <tt><a href="it_isdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (8825; 86%), <tt><a href="it_isdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7331; 71%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="it_isdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (10271; 100%), <tt><a href="it_isdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9318; 91%), <tt><a href="it_isdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (8824; 86%), <tt><a href="it_isdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7331; 71%).
 
 `AUX` tokens may have the following values of `Person`:
 
-* `1` (516; 5% of non-empty `Person`): <em>ho, abbiamo, possiamo, siamo, sono, vorrei, dobbiamo, devo, stiamo, posso</em>
+* `1` (515; 5% of non-empty `Person`): <em>ho, abbiamo, possiamo, siamo, sono, vorrei, dobbiamo, devo, stiamo, posso</em>
 * `2` (87; 1% of non-empty `Person`): <em>puoi, devi, sei, hai, avete, siete, vuoi, volete, Dovevi, abbiate</em>
 * `3` (9669; 94% of non-empty `Person`): <em>è, sono, ha, può, hanno, era, possono, deve, sia, fu</em>
 * `EMPTY` (1433): <em>essere, stato, stata, stati, aver, state, poter, potuto, dovuto, esser</em>
@@ -87,7 +87,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (568; 12% of non-empty `Person`): <em>ci, mi, noi, io, me, ce, I, m'</em>
 * `2` (159; 3% of non-empty `Person`): <em>ti, vi, te, tu, voi, ve</em>
 * `3` (3932; 84% of non-empty `Person`): <em>si, lo, la, li, gli, lui, le, l', loro, se</em>
-* `EMPTY` (6636): <em>che, chi, cui, ne, qual, ci, quanto, c', quale, quello</em>
+* `EMPTY` (6654): <em>che, chi, cui, ne, qual, ci, quanto, c', quale, quello</em>
 
 `Person` seems to be **lexical feature** of `PRON`. 100% lemmas (42) occur only with one value of `Person`.
 

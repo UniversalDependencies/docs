@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `flat`: <tt><a href="lv_lvtb-dep-flat-foreign.html">flat:foreign</a></tt>, <tt><a href="lv_lvtb-dep-flat-name.html">flat:name</a></tt>.
 
-106 nodes (0%) are attached to their parents as `flat`.
+108 nodes (0%) are attached to their parents as `flat`.
 
-106 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.63207547169811.
+108 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.74074074074074.
 
-The following 22 pairs of parts of speech are connected with `flat`: <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt>-<tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (50; 47% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (16; 15% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (5; 5% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (5; 5% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (4; 4% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt>-<tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (4; 4% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (3; 3% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt>-<tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> (2; 2% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 20 pairs of parts of speech are connected with `flat`: <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt>-<tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (50; 46% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (16; 15% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (5; 5% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (5; 5% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (4; 4% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (4; 4% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt>-<tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (4; 4% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (3; 3% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt>-<tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> (2; 2% instances), <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -47,8 +47,8 @@ The following 22 pairs of parts of speech are connected with `flat`: <tt><a href
 9	3	3	NUM	xn	NumType=Card	7	flat	7:flat	LvtbNodeId=a-p3516-p18s4w9
 10	vai	vai	CCONJ	cc	_	13	cc	13:cc	LvtbNodeId=a-p3516-p18s4w10
 11	pat	pat	PART	q	_	13	discourse	13:discourse	LvtbNodeId=a-p3516-p18s4w11
-12	vēl	vēl	ADV	r0q	_	13	advmod	13:advmod	LvtbNodeId=a-p3516-p18s4w12
-13	vairāk	daudz	ADV	rcq	Degree=Cmp	7	conj	5:advmod|7:conj	LvtbNodeId=a-p3516-p18s4w13|SpaceAfter=No
+12	vēl	vēl	ADV	r0qn	_	13	advmod	13:advmod	LvtbNodeId=a-p3516-p18s4w12
+13	vairāk	daudz	ADV	rcqn	Degree=Cmp	7	conj	5:advmod|7:conj	LvtbNodeId=a-p3516-p18s4w13|SpaceAfter=No
 14	.	.	PUNCT	zs	_	4	punct	4:punct	LvtbNodeId=a-p3516-p18s4w14
 
 ~~~
@@ -76,7 +76,7 @@ The following 22 pairs of parts of speech are connected with `flat`: <tt><a href
 14	4	4	NUM	xn	NumType=Card	10	flat	10:flat	LvtbNodeId=a-s126-p14s7w14|SpaceAfter=No
 15	,	,	PUNCT	zc	_	10	punct	10.1:punct	LvtbNodeId=a-s126-p14s7w15
 16	un	un	CCONJ	cc	_	19	cc	19:cc	LvtbNodeId=a-s126-p14s7w16
-17	kā	kā	ADV	r0m	PronType=Int	19	advmod	19:advmod	LvtbNodeId=a-s126-p14s7w17
+17	kā	kā	ADV	r0mn	PronType=Int	19	advmod	19:advmod	LvtbNodeId=a-s126-p14s7w17
 18	tas	tas	PRON	pd3msnn	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	19	nsubj	19:nsubj	LvtbNodeId=a-s126-p14s7w18
 19	izskatīsies	izskatīties	VERB	vmyift330an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Reflex=Yes|Tense=Fut|VerbForm=Fin|Voice=Act	7	conj	3:ccomp|7:conj	LvtbNodeId=a-s126-p14s7w19|SpaceAfter=No
 20	,	,	PUNCT	zc	_	29	punct	29:punct	LvtbNodeId=a-s126-p14s7w20

@@ -50,7 +50,7 @@ The 10 most frequent ambiguous types:  <em>ni</em> (<tt><a href="yo_ytb-pos-PART
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.006112).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.007344).
 
 The 1st highest number of forms (3) was observed with the lemma “ni”: <em>ni, nì, ní</em>.
 

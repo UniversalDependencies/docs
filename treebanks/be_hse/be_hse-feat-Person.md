@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-17731 tokens (6%) have a non-empty value of `Person`.
-4242 types (8%) occur at least once with a non-empty value of `Person`.
-2128 lemmas (7%) occur at least once with a non-empty value of `Person`.
-The feature is used with 5 part-of-speech tags: <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (11764; 4% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (5242; 2% instances), <tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (721; 0% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (2; 0% instances).
+17728 tokens (6%) have a non-empty value of `Person`.
+4239 types (8%) occur at least once with a non-empty value of `Person`.
+2126 lemmas (7%) occur at least once with a non-empty value of `Person`.
+The feature is used with 4 part-of-speech tags: <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (11764; 4% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (5241; 2% instances), <tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (721; 0% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (2; 0% instances).
 
 ### `VERB`
 
@@ -36,18 +36,18 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `PRON`
 
-5242 <tt><a href="be_hse-pos-PRON.html">PRON</a></tt> tokens (51% of all `PRON` tokens) have a non-empty value of `Person`.
+5241 <tt><a href="be_hse-pos-PRON.html">PRON</a></tt> tokens (51% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5242; 100%), <tt><a href="be_hse-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (5235; 100%), <tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3743; 71%), <tt><a href="be_hse-feat-Case.html">Case</a></tt><tt>=Nom</tt> (2865; 55%), <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Plur</tt> (2693; 51%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5241; 100%), <tt><a href="be_hse-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (5238; 100%), <tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3742; 71%), <tt><a href="be_hse-feat-Case.html">Case</a></tt><tt>=Nom</tt> (2865; 55%), <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Plur</tt> (2692; 51%).
 
 `PRON` tokens may have the following values of `Person`:
 
 * `1` (2095; 40% of non-empty `Person`): <em>мы, я, нас, нам, мяне, мне, намі, мной, мною, адносінамі</em>
 * `2` (915; 17% of non-empty `Person`): <em>вы, вас, ты, вам, цябе, табе, вамі, табой, ☑️Вы, тебя</em>
-* `3` (2232; 43% of non-empty `Person`): <em>ён, яны, яго, іх, яна, яе, ім, яму, ёй, імі</em>
-* `EMPTY` (5085): <em>гэта, што, якія, які, хто, якая, тое, таго, сябе, якіх</em>
+* `3` (2231; 43% of non-empty `Person`): <em>ён, яны, яго, іх, яна, яе, ім, яму, ёй, імі</em>
+* `EMPTY` (5082): <em>гэта, што, якія, які, хто, якая, тое, таго, сябе, якіх</em>
 
-`Person` seems to be **lexical feature** of `PRON`. 100% lemmas (22) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `PRON`. 100% lemmas (21) occur only with one value of `Person`.
 
 ### `AUX`
 
@@ -74,17 +74,6 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
   <tr><td><tt><tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>будзем</em></td><td><em>будзеце, будзьце</em></td><td><em>ёсць, будуць</em></td></tr>
 </table>
 
-### `DET`
-
-2 <tt><a href="be_hse-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Person`.
-
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (2; 100%), <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%), <tt><a href="be_hse-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="be_hse-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2; 100%), <tt><a href="be_hse-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (2; 100%).
-
-`DET` tokens may have the following values of `Person`:
-
-* `3` (2; 100% of non-empty `Person`): <em>усёй, ўсёй</em>
-* `EMPTY` (6729): <em>яго, гэты, наш, яе, свой, сваю, іх, той, тым, свае</em>
-
 ### `NOUN`
 
 2 <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Person`.
@@ -94,7 +83,7 @@ The most frequent other feature values with which `NOUN` and `Person` co-occurre
 `NOUN` tokens may have the following values of `Person`:
 
 * `3` (2; 100% of non-empty `Person`): <em>iмi, падкастаў</em>
-* `EMPTY` (72551): <em>дзень, людзей, чалавек, арт, годзе, гадоў, час, людзі, года, год</em>
+* `EMPTY` (72684): <em>дзень, людзей, чалавек, арт, годзе, гадоў, час, людзі, года, год</em>
 
 ## Relations with Agreement in `Person`
 

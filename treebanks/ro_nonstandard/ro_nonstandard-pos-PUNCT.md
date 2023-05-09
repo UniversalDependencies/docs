@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>veni</em> (<tt><a href="ro_nonstandar
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.041667 (the average of all parts of speech is 2.492163).
+The form / lemma ratio of `PUNCT` is 1.041667 (the average of all parts of speech is 2.491875).
 
 The 1st highest number of forms (4) was observed with the lemma “.”: <em>,, ., :, ;</em>.
 

@@ -45,8 +45,8 @@ The following 11 pairs of parts of speech are connected with `dislocated`: <tt><
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 1 dislocated	color:blue
-1	[Name]	[Name]	PROPN	Nn	_	4	dislocated	_	_
-2	[Name]	[Name]	PROPN	Nn	_	1	flat:name	_	_
+1	[Name]	[Name]	PROPN	Nn	_	4	dislocated	_	Anonymised=Yes
+2	[Name]	[Name]	PROPN	Nn	_	1	flat:name	_	Anonymised=Yes
 3	a	a	PART	Q-r	PartType=Vb|PronType=Rel	4	nsubj	_	_
 4	thug	toir	VERB	V-s	Tense=Past	0	root	_	_
 5	an	an	DET	Tdsm	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_

@@ -11,8 +11,8 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 281771 tokens (56%) have a non-empty value of `Number`.
 28024 types (83%) occur at least once with a non-empty value of `Number`.
-16897 lemmas (78%) occur at least once with a non-empty value of `Number`.
-The feature is used with 10 part-of-speech tags: <tt><a href="fa_perdt-pos-NOUN.html">NOUN</a></tt> (167690; 33% instances), <tt><a href="fa_perdt-pos-VERB.html">VERB</a></tt> (51995; 10% instances), <tt><a href="fa_perdt-pos-PROPN.html">PROPN</a></tt> (22238; 4% instances), <tt><a href="fa_perdt-pos-PRON.html">PRON</a></tt> (20256; 4% instances), <tt><a href="fa_perdt-pos-AUX.html">AUX</a></tt> (19030; 4% instances), <tt><a href="fa_perdt-pos-NUM.html">NUM</a></tt> (517; 0% instances), <tt><a href="fa_perdt-pos-ADP.html">ADP</a></tt> (41; 0% instances), <tt><a href="fa_perdt-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="fa_perdt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="fa_perdt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+16687 lemmas (78%) occur at least once with a non-empty value of `Number`.
+The feature is used with 10 part-of-speech tags: <tt><a href="fa_perdt-pos-NOUN.html">NOUN</a></tt> (167690; 33% instances), <tt><a href="fa_perdt-pos-VERB.html">VERB</a></tt> (54276; 11% instances), <tt><a href="fa_perdt-pos-PROPN.html">PROPN</a></tt> (22238; 4% instances), <tt><a href="fa_perdt-pos-PRON.html">PRON</a></tt> (20256; 4% instances), <tt><a href="fa_perdt-pos-AUX.html">AUX</a></tt> (16749; 3% instances), <tt><a href="fa_perdt-pos-NUM.html">NUM</a></tt> (517; 0% instances), <tt><a href="fa_perdt-pos-ADP.html">ADP</a></tt> (41; 0% instances), <tt><a href="fa_perdt-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="fa_perdt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="fa_perdt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -31,39 +31,41 @@ The feature is used with 10 part-of-speech tags: <tt><a href="fa_perdt-pos-NOUN.
 
 ### `VERB`
 
-51995 <tt><a href="fa_perdt-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Number`.
+54276 <tt><a href="fa_perdt-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (50981; 98%), <tt><a href="fa_perdt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (46422; 89%), <tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=3</tt> (38924; 75%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (50981; 94%), <tt><a href="fa_perdt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (48634; 90%), <tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=3</tt> (40708; 75%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (16822; 32% of non-empty `Number`): کنید، می‌کنند، کرده‌اند، کردند، کنند، می‌کنیم، می‌کردند، کنیم، می‌کنید، نکنید
-* `Sing` (35173; 68% of non-empty `Number`): کرد، کرده، می‌کند، شد، کند، می‌کرد، شده، می‌شود، داد، داشت
-* `EMPTY` (32): باید، نباید، می‌توان، نمی‌شود، آید، بایست، بایستی، سنجید، می‌بایست، می‌توانی
+* `Plur` (17642; 33% of non-empty `Number`): کنید، می‌کنند، کرده‌اند، کردند، کنند، می‌کنیم، می‌کردند، هستند، کنیم، می‌کنید
+* `Sing` (36634; 67% of non-empty `Number`): کرد، کرده، می‌کند، شد، کند، شده، می‌کرد، می‌شود، داد، داشت
+* `EMPTY` (45): باید، نمی‌شود، می‌شود، می‌شد، نباید، می‌توان، نمی‌شد، آید، بایست، بایستی
 
 <table>
-  <tr><th>Paradigm <i>کرد#کن</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><th>Paradigm <i>کرد</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt><tt><a href="fa_perdt-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="fa_perdt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="fa_perdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>نکن</td><td>نکنیم</td></tr>
   <tr><td><tt><tt><a href="fa_perdt-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="fa_perdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td>کنیم</td></tr>
   <tr><td><tt><tt><a href="fa_perdt-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="fa_perdt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="fa_perdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>نکن, نشو</td><td>نکنید</td></tr>
-  <tr><td><tt><tt><a href="fa_perdt-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="fa_perdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>کن, بکن, مکن, کرده, شو, مشو, کنید</td><td>کنید, بکنید, کرده, مکنید</td></tr>
+  <tr><td><tt><tt><a href="fa_perdt-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="fa_perdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>کن, بکن, مکن, کرده, برمکن, شو, مشو, کنید</td><td>کنید, بکنید, کرده, برشوید, درکنید, مکنید</td></tr>
   <tr><td><tt><tt><a href="fa_perdt-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fa_perdt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="fa_perdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>نکند</td><td></td></tr>
   <tr><td><tt><tt><a href="fa_perdt-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fa_perdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>کن, کرده</td><td>کنند</td></tr>
   <tr><td><tt><tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="fa_perdt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="fa_perdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>نکردم</td><td>نکردیم</td></tr>
   <tr><td><tt><tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="fa_perdt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="fa_perdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>نمی‌کنم, نکنم</td><td>نمی‌کنیم</td></tr>
   <tr><td><tt><tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="fa_perdt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="fa_perdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>نکرده‌ام, نکرده</td><td>نکرده‌ایم</td></tr>
   <tr><td><tt><tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="fa_perdt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>نمی‌کردم, نکنم</td><td>نکنیم, نمی‌کردیم</td></tr>
-  <tr><td><tt><tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="fa_perdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>کردم, شدم, کرد, کرده</td><td>کردیم, کرده, شدیم</td></tr>
+  <tr><td><tt><tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="fa_perdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>کردم, شدم, کرد, کرده</td><td>کردیم, کرده, شدیم, درکردیم, فروکردیم</td></tr>
   <tr><td><tt><tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="fa_perdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>می‌کنم, کنم, می‌شوم, کردم, کرده</td><td>می‌کنیم, کرده, می‌شویم</td></tr>
+  <tr><td><tt><tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="fa_perdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td>فرومی‌شویم</td></tr>
   <tr><td><tt><tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="fa_perdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>کرده‌ام, کرده</td><td>کرده‌ایم, کرده, کرده‌ام</td></tr>
   <tr><td><tt><tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>کنم, می‌کردم, بکنم, شوم, کرده</td><td>کنیم, می‌کردیم, بکنیم, کرده, شویم</td></tr>
+  <tr><td><tt><tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td>فرومی‌شدیم</td></tr>
   <tr><td><tt><tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="fa_perdt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="fa_perdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>نکردی</td><td>نکردید</td></tr>
   <tr><td><tt><tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="fa_perdt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="fa_perdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>نمی‌کنی</td><td>نمی‌کنید, نکنید</td></tr>
   <tr><td><tt><tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="fa_perdt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="fa_perdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>نکرده‌ای</td><td>نکرده‌اید</td></tr>
   <tr><td><tt><tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="fa_perdt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>نکنی</td><td>نکنید, نمی‌کردید</td></tr>
   <tr><td><tt><tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="fa_perdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>کردی</td><td>کردید, شدید, کرده, کردیم</td></tr>
   <tr><td><tt><tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="fa_perdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>می‌کنی, کن</td><td>می‌کنید, کنید, بکنید, می‌کنند, کرده</td></tr>
-  <tr><td><tt><tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="fa_perdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>کرده‌ای</td><td>کرده‌اید, کرده</td></tr>
+  <tr><td><tt><tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="fa_perdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>کرده‌ای, برکرده‌ای</td><td>کرده‌اید, کرده, درکرده‌اید</td></tr>
   <tr><td><tt><tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>کنی, بکنی, می‌کردی, شوی, کرده</td><td>کنید, بکنید, می‌کردید, کرده, بشوید, بکنیم, کنند, کنیم</td></tr>
   <tr><td><tt><tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fa_perdt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="fa_perdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="fa_perdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>نکرده</td><td></td></tr>
   <tr><td><tt><tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fa_perdt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="fa_perdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>نکرده, نکرد, نمی‌کرده, نکردی</td><td>نکردند, نکردیم</td></tr>
@@ -73,15 +75,15 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
   <tr><td><tt><tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fa_perdt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>نکند, نمی‌کرد, نکرده, نکنم</td><td>نکنند, نمی‌کردند, نشوند, نکرده</td></tr>
   <tr><td><tt><tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fa_perdt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td>نشود</td><td></td></tr>
   <tr><td><tt><tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fa_perdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td>شد</td><td></td></tr>
-  <tr><td><tt><tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fa_perdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="fa_perdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>کرده, شده</td><td></td></tr>
-  <tr><td><tt><tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fa_perdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>کرد, کرده, شد, می‌کرده, کردم, شده, کند</td><td>کردند, می‌کرده‌اند, کرده, شدند, کردیم, می‌شده‌اند, کرد</td></tr>
+  <tr><td><tt><tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fa_perdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="fa_perdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>کرده, شده, فروکرده</td><td></td></tr>
+  <tr><td><tt><tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fa_perdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>کرد, کرده, شد, می‌کرده, کردم, شده, فروکرده, کند, درکرده, برکرد, برکرده, فروکرد</td><td>کردند, می‌کرده‌اند, کرده, شدند, کردیم, فروشدند, می‌شده‌اند, کرد</td></tr>
   <tr><td><tt><tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fa_perdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td>شد</td><td></td></tr>
-  <tr><td><tt><tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fa_perdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>می‌کند, کرده, می‌شود, می‌کنم, شده, می‌شوند, می‌گردد</td><td>می‌کنند, کرده, می‌کنیم, می‌شوند, کنند, می‌کنید</td></tr>
+  <tr><td><tt><tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fa_perdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>می‌کند, کرده, می‌شود, می‌کنم, شده, فرومی‌کند, می‌شوند, می‌گردد</td><td>می‌کنند, کرده, می‌کنیم, می‌شوند, کنند, برمی‌کنند, فرومی‌کنند, می‌کنید</td></tr>
   <tr><td><tt><tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fa_perdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td>می‌شود</td><td></td></tr>
   <tr><td><tt><tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fa_perdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>کرده, شده, کرده‌اند, کرده‌است</td><td>کرده‌اند, کرده, کرده‌ایم, شده‌اند, می‌شده‌اند, کرده‌اید</td></tr>
-  <tr><td><tt><tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fa_perdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td>شده</td><td></td></tr>
-  <tr><td><tt><tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>کند, می‌کرد, بکند, کرده, کنم, شود, می‌کند, بکنید, شده, می‌شد, می‌کردم, کنی</td><td>کنند, می‌کردند, بکنند, کرده, کنیم, می‌کنند, کنید, بشوند, بکنیم</td></tr>
-  <tr><td><tt><tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td>شود, می‌شد</td><td></td></tr>
+  <tr><td><tt><tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fa_perdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td>شده, فروکرده</td><td></td></tr>
+  <tr><td><tt><tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>کند, می‌کرد, بکند, کرده, کنم, شود, می‌کند, برمی‌شد, برمی‌شود, بکنید, دربکند, درمی‌کرد, شده, فروکند, می‌شد, می‌کردم, کنی</td><td>کنند, می‌کردند, بکنند, کرده, کنیم, می‌کنند, کنید, بشوند, بکنیم, فرومی‌کردند</td></tr>
+  <tr><td><tt><tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td>شود, می‌شد</td><td>فرومی‌شدند</td></tr>
   <tr><td><tt><tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>کنم</td><td></td></tr>
 </table>
 
@@ -123,18 +125,18 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `AUX`
 
-19030 <tt><a href="fa_perdt-pos-AUX.html">AUX</a></tt> tokens (92% of all `AUX` tokens) have a non-empty value of `Number`.
+16749 <tt><a href="fa_perdt-pos-AUX.html">AUX</a></tt> tokens (91% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=3</tt> (15827; 83%), <tt><a href="fa_perdt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (14348; 75%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=3</tt> (14043; 84%), <tt><a href="fa_perdt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (12136; 72%).
 
 `AUX` tokens may have the following values of `Number`:
 
-* `Plur` (4797; 25% of non-empty `Number`): خواهند، بودند، باشند، خواهیم، هستند، باشید، بودیم، خواهید، ند، باشیم
-* `Sing` (14233; 75% of non-empty `Number`): است، بود، خواهد، باشد، خواهم، نیست، ست، بودم، شد، می‌شود
-* `EMPTY` (1760): باید، می‌توان، نباید، نمی‌توان، بایستی، بتوان، می‌بایست، می‌شود، می‌باید، نمی‌شود
+* `Plur` (3977; 24% of non-empty `Number`): خواهند، بودند، باشند، خواهیم، باشید، بودیم، خواهید، باشیم، بودید، نخواهند
+* `Sing` (12772; 76% of non-empty `Number`): است، بود، خواهد، باشد، خواهم، ست، بودم، نبود، باشم، نخواهد
+* `EMPTY` (1747): باید، می‌توان، نباید، نمی‌توان، بایستی، بتوان، می‌بایست، می‌شود، می‌باید، نتوان
 
 <table>
-  <tr><th>Paradigm <i>بود#باش</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><th>Paradigm <i>بود</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt><tt><a href="fa_perdt-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="fa_perdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td>باشم</td><td>باشیم</td></tr>
   <tr><td><tt><tt><a href="fa_perdt-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="fa_perdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td>باشی</td><td>باشید</td></tr>
   <tr><td><tt><tt><a href="fa_perdt-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fa_perdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td>باشد</td><td>باشند</td></tr>
@@ -205,14 +207,14 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="fa_perdt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (28204; 70%),
-<tt>VERB --[<tt><a href="fa_perdt-dep-compound-lvc.html">compound:lvc</a></tt>]--> NOUN</tt> (20340; 67%),
-<tt>VERB --[<tt><a href="fa_perdt-dep-obl.html">obl</a></tt>]--> NOUN</tt> (15601; 65%),
-<tt>VERB --[<tt><a href="fa_perdt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (12702; 83%),
-<tt>VERB --[<tt><a href="fa_perdt-dep-obj.html">obj</a></tt>]--> NOUN</tt> (10121; 59%),
-<tt>NOUN --[<tt><a href="fa_perdt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (8267; 88%),
-<tt>VERB --[<tt><a href="fa_perdt-dep-obl-arg.html">obl:arg</a></tt>]--> NOUN</tt> (8139; 61%),
-<tt>VERB --[<tt><a href="fa_perdt-dep-aux.html">aux</a></tt>]--> AUX</tt> (7765; 61%),
-<tt>VERB --[<tt><a href="fa_perdt-dep-conj.html">conj</a></tt>]--> VERB</tt> (7105; 87%),
+<tt>NOUN --[<tt><a href="fa_perdt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (28203; 70%),
+<tt>VERB --[<tt><a href="fa_perdt-dep-compound-lvc.html">compound:lvc</a></tt>]--> NOUN</tt> (20344; 67%),
+<tt>VERB --[<tt><a href="fa_perdt-dep-obl.html">obl</a></tt>]--> NOUN</tt> (15695; 65%),
+<tt>VERB --[<tt><a href="fa_perdt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (13197; 83%),
+<tt>VERB --[<tt><a href="fa_perdt-dep-obj.html">obj</a></tt>]--> NOUN</tt> (10118; 59%),
+<tt>NOUN --[<tt><a href="fa_perdt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (8254; 88%),
+<tt>VERB --[<tt><a href="fa_perdt-dep-obl-arg.html">obl:arg</a></tt>]--> NOUN</tt> (8244; 61%),
+<tt>VERB --[<tt><a href="fa_perdt-dep-aux.html">aux</a></tt>]--> AUX</tt> (7763; 61%),
+<tt>VERB --[<tt><a href="fa_perdt-dep-conj.html">conj</a></tt>]--> VERB</tt> (7199; 87%),
 <tt>PROPN --[<tt><a href="fa_perdt-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (6167; 78%).
 

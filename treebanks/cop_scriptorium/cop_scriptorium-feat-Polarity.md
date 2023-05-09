@@ -11,7 +11,7 @@ It occurs with 1 different values: `Neg`.
 
 936 tokens (2%) have a non-empty value of `Polarity`.
 27 types (1%) occur at least once with a non-empty value of `Polarity`.
-20 lemmas (1%) occur at least once with a non-empty value of `Polarity`.
+19 lemmas (1%) occur at least once with a non-empty value of `Polarity`.
 The feature is used with 8 part-of-speech tags: <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (503; 1% instances), <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (278; 0% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (71; 0% instances), <tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> (65; 0% instances), <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (10; 0% instances), <tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (7; 0% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `ADV`
@@ -54,7 +54,7 @@ The most frequent other feature values with which `CCONJ` and `Polarity` co-occu
 `CCONJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (65; 100% of non-empty `Polarity`): ⲟⲩⲇⲉ
-* `EMPTY` (1252): ⲁⲩⲱ, ⲁⲗⲗⲁ, ⲏ, ϫⲉ, ⲉⲓⲧⲉ, ⲙⲏ, ⲡⲗⲏⲛ, ⲕⲁⲓ, ⲟⲩⲧⲉ, ⲕⲁⲛ
+* `EMPTY` (1251): ⲁⲩⲱ, ⲁⲗⲗⲁ, ⲏ, ϫⲉ, ⲉⲓⲧⲉ, ⲙⲏ, ⲡⲗⲏⲛ, ⲕⲁⲓ, ⲟⲩⲧⲉ, ⲕⲁⲛ
 
 ### `PART`
 
@@ -65,7 +65,7 @@ The most frequent other feature values with which `PART` and `Polarity` co-occur
 `PART` tokens may have the following values of `Polarity`:
 
 * `Neg` (10; 100% of non-empty `Polarity`): ⲙⲙⲟⲛ, ⲟⲩⲇⲉ
-* `EMPTY` (1958): ⲉ, ⲇⲉ, ⲛϭⲓ, ⲅⲁⲣ, ⲛⲧ, ϭⲉ, ⲱ, ⲉⲓⲥ, ⲉⲣⲉ, ⲙⲉⲛ
+* `EMPTY` (1959): ⲉ, ⲇⲉ, ⲛϭⲓ, ⲅⲁⲣ, ⲛⲧ, ϭⲉ, ⲱ, ⲉⲓⲥ, ⲉⲣⲉ, ⲙⲉⲛ
 
 ### `X`
 
@@ -87,7 +87,7 @@ The most frequent other feature values with which `PRON` and `Polarity` co-occur
 `PRON` tokens may have the following values of `Polarity`:
 
 * `Neg` (1; 100% of non-empty `Polarity`): ⲙⲡⲉ
-* `EMPTY` (9168): ϥ, ⲩ, ⲥ, ⲟⲩ, ⲓ, ⲕ, ⲛ, ⲡⲉ, ⲧⲛ, ⲧⲉⲧⲛ
+* `EMPTY` (9169): ϥ, ⲩ, ⲥ, ⲟⲩ, ⲓ, ⲕ, ⲛ, ⲡⲉ, ⲧⲛ, ⲧⲉⲧⲛ
 
 ### `SCONJ`
 

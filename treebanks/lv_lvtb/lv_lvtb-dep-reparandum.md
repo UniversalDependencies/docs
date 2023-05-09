@@ -26,7 +26,7 @@ The following 7 pairs of parts of speech are connected with `reparandum`: <tt><a
 2	bija	būt	AUX	vcnisii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	4	reparandum	4:reparandum	LvtbNodeId=a-p980-p2s2w2
 3	aizņemas	aizņemt	VERB	vmnpdfpnpsnpn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Past|Typo=Yes|VerbForm=Part|Voice=Pass	0	root	0:root	CorrectForm=aizņemtas|CorrectionType=Spelling|LvtbNodeId=a-p980-p2s2w3
 4	bija	būt	AUX	vcnisii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	3	aux:pass	3:aux:pass	LvtbNodeId=a-p980-p2s2w4
-5	gandrīz	gandrīz	ADV	r0q	_	6	advmod	6:advmod	LvtbNodeId=a-p980-p2s2w5
+5	gandrīz	gandrīz	ADV	r0qn	_	6	advmod	6:advmod	LvtbNodeId=a-p980-p2s2w5
 6	visas	visa	DET	pg0fpnn	Case=Nom|Gender=Fem|Number=Plur|PronType=Tot	7	det	7:det	LvtbNodeId=a-p980-p2s2w6
 7	sēdvietas	sēdvieta	NOUN	ncfpn4	Case=Nom|Gender=Fem|Number=Plur	3	nsubj:pass	3:nsubj:pass	LvtbNodeId=a-p980-p2s2w7|SpaceAfter=No
 8	.	.	PUNCT	zs	_	3	punct	3:punct	LvtbNodeId=a-p980-p2s2w8

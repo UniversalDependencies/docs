@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Chinese-GSD: POS Tags: `ADV`
 
-There are 510 `ADV` lemmas (2%), 510 `ADV` types (2%) and 5748 `ADV` tokens (5%).
+There are 513 `ADV` lemmas (2%), 513 `ADV` types (2%) and 5752 `ADV` tokens (5%).
 Out of 15 observed tags, the rank of `ADV` is: 8 in number of lemmas, 8 in number of types and 7 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: 也、 並、 而、 但、 不、 所、 都、 曾、 則、 就
@@ -53,40 +53,40 @@ The 10 most frequent ambiguous types:  也 (<tt><a href="zh_gsd-pos-ADV.html">AD
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.000000 (the average of all parts of speech is 1.000266).
+The form / lemma ratio of `ADV` is 1.000000 (the average of all parts of speech is 1.004821).
 
-The 1st highest number of forms (1) was observed with the lemma “一併”: 一併.
+The 1st highest number of forms (1) was observed with the lemma “Radzymin”: Radzymin.
 
-The 2nd highest number of forms (1) was observed with the lemma “一共”: 一共.
+The 2nd highest number of forms (1) was observed with the lemma “e”: e.
 
-The 3rd highest number of forms (1) was observed with the lemma “一同”: 一同.
+The 3rd highest number of forms (1) was observed with the lemma “一併”: 一併.
 
 `ADV` occurs with 1 features: <tt><a href="zh_gsd-feat-Polarity.html">Polarity</a></tt> (244; 4% instances)
 
 `ADV` occurs with 1 feature-value pairs: `Polarity=Neg`
 
 `ADV` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (5504 tokens).
+The most frequent feature combination is `_` (5508 tokens).
 Examples: 也、 並、 而、 但、 所、 都、 曾、 則、 就、 還
 
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 12 different relations: <tt><a href="zh_gsd-dep-advmod.html">advmod</a></tt> (3050; 53% instances), <tt><a href="zh_gsd-dep-mark.html">mark</a></tt> (2671; 46% instances), <tt><a href="zh_gsd-dep-advcl.html">advcl</a></tt> (6; 0% instances), <tt><a href="zh_gsd-dep-nmod-tmod.html">nmod:tmod</a></tt> (6; 0% instances), <tt><a href="zh_gsd-dep-amod.html">amod</a></tt> (4; 0% instances), <tt><a href="zh_gsd-dep-root.html">root</a></tt> (3; 0% instances), <tt><a href="zh_gsd-dep-ccomp.html">ccomp</a></tt> (2; 0% instances), <tt><a href="zh_gsd-dep-parataxis.html">parataxis</a></tt> (2; 0% instances), <tt><a href="zh_gsd-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="zh_gsd-dep-cc.html">cc</a></tt> (1; 0% instances), <tt><a href="zh_gsd-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="zh_gsd-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
+`ADV` nodes are attached to their parents using 12 different relations: <tt><a href="zh_gsd-dep-advmod.html">advmod</a></tt> (3053; 53% instances), <tt><a href="zh_gsd-dep-mark.html">mark</a></tt> (2671; 46% instances), <tt><a href="zh_gsd-dep-advcl.html">advcl</a></tt> (6; 0% instances), <tt><a href="zh_gsd-dep-nmod-tmod.html">nmod:tmod</a></tt> (6; 0% instances), <tt><a href="zh_gsd-dep-amod.html">amod</a></tt> (4; 0% instances), <tt><a href="zh_gsd-dep-root.html">root</a></tt> (3; 0% instances), <tt><a href="zh_gsd-dep-ccomp.html">ccomp</a></tt> (2; 0% instances), <tt><a href="zh_gsd-dep-conj.html">conj</a></tt> (2; 0% instances), <tt><a href="zh_gsd-dep-parataxis.html">parataxis</a></tt> (2; 0% instances), <tt><a href="zh_gsd-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="zh_gsd-dep-cc.html">cc</a></tt> (1; 0% instances), <tt><a href="zh_gsd-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
 
-Parents of `ADV` nodes belong to 15 different parts of speech: <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (4780; 83% instances), <tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt> (519; 9% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (277; 5% instances), <tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt> (53; 1% instances), <tt><a href="zh_gsd-pos-NUM.html">NUM</a></tt> (36; 1% instances), <tt><a href="zh_gsd-pos-PART.html">PART</a></tt> (33; 1% instances), <tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> (21; 0% instances), <tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt> (12; 0% instances), <tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> (7; 0% instances), <tt><a href="zh_gsd-pos-DET.html">DET</a></tt> (3; 0% instances),  (3; 0% instances), <tt><a href="zh_gsd-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `ADV` nodes belong to 14 different parts of speech: <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (4845; 84% instances), <tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt> (477; 8% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (274; 5% instances), <tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt> (52; 1% instances), <tt><a href="zh_gsd-pos-NUM.html">NUM</a></tt> (36; 1% instances), <tt><a href="zh_gsd-pos-PART.html">PART</a></tt> (33; 1% instances), <tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt> (12; 0% instances), <tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> (7; 0% instances), <tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="zh_gsd-pos-DET.html">DET</a></tt> (4; 0% instances),  (3; 0% instances), <tt><a href="zh_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-X.html">X</a></tt> (1; 0% instances)
 
-5669 (99%) `ADV` nodes are leaves.
+5593 (97%) `ADV` nodes are leaves.
 
-56 (1%) `ADV` nodes have one child.
+135 (2%) `ADV` nodes have one child.
 
-14 (0%) `ADV` nodes have two children.
+8 (0%) `ADV` nodes have two children.
 
-9 (0%) `ADV` nodes have three or more children.
+16 (0%) `ADV` nodes have three or more children.
 
-The highest child degree of a `ADV` node is 6.
+The highest child degree of a `ADV` node is 5.
 
-Children of `ADV` nodes are attached using 14 different relations: <tt><a href="zh_gsd-dep-advmod.html">advmod</a></tt> (49; 41% instances), <tt><a href="zh_gsd-dep-case.html">case</a></tt> (13; 11% instances), <tt><a href="zh_gsd-dep-xcomp.html">xcomp</a></tt> (10; 8% instances), <tt><a href="zh_gsd-dep-punct.html">punct</a></tt> (9; 8% instances), <tt><a href="zh_gsd-dep-ccomp.html">ccomp</a></tt> (8; 7% instances), <tt><a href="zh_gsd-dep-obj.html">obj</a></tt> (6; 5% instances), <tt><a href="zh_gsd-dep-mark.html">mark</a></tt> (5; 4% instances), <tt><a href="zh_gsd-dep-mark-adv.html">mark:adv</a></tt> (5; 4% instances), <tt><a href="zh_gsd-dep-nsubj.html">nsubj</a></tt> (5; 4% instances), <tt><a href="zh_gsd-dep-advcl.html">advcl</a></tt> (3; 3% instances), <tt><a href="zh_gsd-dep-cc.html">cc</a></tt> (2; 2% instances), <tt><a href="zh_gsd-dep-nmod.html">nmod</a></tt> (2; 2% instances), <tt><a href="zh_gsd-dep-csubj.html">csubj</a></tt> (1; 1% instances), <tt><a href="zh_gsd-dep-nmod-tmod.html">nmod:tmod</a></tt> (1; 1% instances)
+Children of `ADV` nodes are attached using 15 different relations: <tt><a href="zh_gsd-dep-punct.html">punct</a></tt> (102; 49% instances), <tt><a href="zh_gsd-dep-advmod.html">advmod</a></tt> (47; 23% instances), <tt><a href="zh_gsd-dep-case.html">case</a></tt> (11; 5% instances), <tt><a href="zh_gsd-dep-xcomp.html">xcomp</a></tt> (10; 5% instances), <tt><a href="zh_gsd-dep-ccomp.html">ccomp</a></tt> (6; 3% instances), <tt><a href="zh_gsd-dep-obj.html">obj</a></tt> (6; 3% instances), <tt><a href="zh_gsd-dep-mark.html">mark</a></tt> (5; 2% instances), <tt><a href="zh_gsd-dep-mark-adv.html">mark:adv</a></tt> (5; 2% instances), <tt><a href="zh_gsd-dep-nsubj.html">nsubj</a></tt> (5; 2% instances), <tt><a href="zh_gsd-dep-advcl.html">advcl</a></tt> (3; 1% instances), <tt><a href="zh_gsd-dep-nmod.html">nmod</a></tt> (3; 1% instances), <tt><a href="zh_gsd-dep-cc.html">cc</a></tt> (2; 1% instances), <tt><a href="zh_gsd-dep-csubj.html">csubj</a></tt> (1; 0% instances), <tt><a href="zh_gsd-dep-nmod-tmod.html">nmod:tmod</a></tt> (1; 0% instances), <tt><a href="zh_gsd-dep-obl.html">obl</a></tt> (1; 0% instances)
 
-Children of `ADV` nodes belong to 10 different parts of speech: <tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt> (53; 45% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (18; 15% instances), <tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> (13; 11% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (13; 11% instances), <tt><a href="zh_gsd-pos-PUNCT.html">PUNCT</a></tt> (9; 8% instances), <tt><a href="zh_gsd-pos-PART.html">PART</a></tt> (6; 5% instances), <tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt> (3; 3% instances), <tt><a href="zh_gsd-pos-CCONJ.html">CCONJ</a></tt> (2; 2% instances), <tt><a href="zh_gsd-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
+Children of `ADV` nodes belong to 10 different parts of speech: <tt><a href="zh_gsd-pos-PUNCT.html">PUNCT</a></tt> (102; 49% instances), <tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt> (52; 25% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (16; 8% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (14; 7% instances), <tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> (11; 5% instances), <tt><a href="zh_gsd-pos-PART.html">PART</a></tt> (6; 3% instances), <tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="zh_gsd-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="zh_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
 

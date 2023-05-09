@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.0 release.
 The following people have contributed to making this treebank part of UD: Marie Candito, Djamé Seddah, Guy Perrier, Bruno Guillaume.
 
 Repository: [UD_French-Sequoia](https://github.com/UniversalDependencies/UD_French-Sequoia)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_sequoia211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_sequoia212)<br />
+Download all treebanks: [UD 2.12](/#download)
 
 License: LGPL-LR
 
@@ -43,24 +43,24 @@ Do not submit pull requests against the UD repository.
 | Relations | annotated manually in non-UD style, automatically converted to UD |
 
 ## Description
-**UD_French-Sequoia** is an automatic conversion of the Sequoia Treebank corpus [French Sequoia corpus](http://deep-sequoia.inria.fr).
+**UD_French-Sequoia** is an automatic conversion of the [SUD_French-Sequoia](https://github.com/surfacesyntacticud/SUD_French-Sequoia) treebank, which comes from the former corpus [French Sequoia corpus](http://deep-sequoia.inria.fr).
 
 
-**UD_French-Sequoia** is an automatic conversion of the Sequoia Treebank corpus [French Sequoia corpus](http://deep-sequoia.inria.fr).
-The conversion was done with the [Grew software](http://grew.fr) and the Graph Rewriting System [described here](https://gitlab.inria.fr/grew/SSQ_UD).
-See [here](http://deep-sequoia.inria.fr/process) for more info about the conversion process.
+**UD_French-Sequoia** is an automatic conversion of the [SUD_French-Sequoia](https://github.com/surfacesyntacticud/SUD_French-Sequoia) treebank, which comes from the former corpus [French Sequoia corpus](http://deep-sequoia.inria.fr).
+The French Sequoia corpus was converted in April 2023 to SUD with the Grew rewriting system [described here](https://gitlab.inria.fr/grew/DSQ_SUD).
+Since this date, the corpus is maintained in SUD and converted to UD.
 
 ## Origin
 The first version of the Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-diderot.archives-ouvertes.fr/hal-00698938/).
 
 ## Splitting
-The whole corpus contains 70,567 tokens in 3,099 sentences.
+The whole corpus contains 70,546 tokens in 3,099 sentences.
 
 In **UD_French-Sequoia**, data were randomly split into:
 
-* `fr_sequoia-ud-test.conllu`: 10,048 tokens in 456 sentences
-* `fr_sequoia-ud-dev.conllu`: 10,002 tokens in 412 sentences
-* `fr_sequoia-ud-train.conllu`: 50,517 tokens in 2,231 sentences
+* `fr_sequoia-ud-test.conllu`: 10,044 tokens in 456 sentences
+* `fr_sequoia-ud-dev.conllu`: 9,999 tokens in 412 sentences
+* `fr_sequoia-ud-train.conllu`: 50,503 tokens in 2,231 sentences
 
 ## Genres
 The original sentences of the corpus are taken from:
@@ -72,11 +72,9 @@ The original sentences of the corpus are taken from:
 
 ## Acknowledgments
 
-The conversion has been performed by Bruno Guillaume with the Graph Rewriting System [described here](https://gitlab.inria.fr/grew/SSQ_UD) developed by Bruno Guillaume and Guy Perrier.
+The conversion has been performed by Bruno Guillaume with the Graph Rewriting System [described here](https://gitlab.inria.fr/grew/DSQtoSUD) developed by Bruno Guillaume and Guy Perrier.
 
 The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-diderot.archives-ouvertes.fr/hal-00698938/) and revised later, notably during the project of deep annotation described in [(Candito & al. 2014)](http://hal.inria.fr/docs/00/97/15/74/PDF/deep_sequoia.final_with_keywords.pdf) and [(Perrier & al. 2014)](http://talc2.loria.fr/deep-sequoia/papers/syntaxe_profonde.pdf).
-
-The conversion process to UD is described in [(Bonfante & al. 2018)](https://hal.inria.fr/hal-01814386), chapter 3.
 
 
 # Statistics of UD French Sequoia
@@ -87,17 +85,17 @@ The conversion process to UD is described in [(Bonfante & al. 2018)](https://hal
 
 ## Features
 
-[Definite](fr_sequoia-feat-Definite.html) – [Foreign](fr_sequoia-feat-Foreign.html) – [Gender](fr_sequoia-feat-Gender.html) – [Mood](fr_sequoia-feat-Mood.html) – [Number](fr_sequoia-feat-Number.html) – [NumType](fr_sequoia-feat-NumType.html) – [Person](fr_sequoia-feat-Person.html) – [Polarity](fr_sequoia-feat-Polarity.html) – [Poss](fr_sequoia-feat-Poss.html) – [PronType](fr_sequoia-feat-PronType.html) – [Reflex](fr_sequoia-feat-Reflex.html) – [Tense](fr_sequoia-feat-Tense.html) – [Typo](fr_sequoia-feat-Typo.html) – [VerbForm](fr_sequoia-feat-VerbForm.html) – [Voice](fr_sequoia-feat-Voice.html)
+[Definite](fr_sequoia-feat-Definite.html) – [Foreign](fr_sequoia-feat-Foreign.html) – [Gender](fr_sequoia-feat-Gender.html) – [Mood](fr_sequoia-feat-Mood.html) – [Number](fr_sequoia-feat-Number.html) – [Number[psor]](fr_sequoia-feat-Number-psor.html) – [NumType](fr_sequoia-feat-NumType.html) – [Person](fr_sequoia-feat-Person.html) – [Person[psor]](fr_sequoia-feat-Person-psor.html) – [Polarity](fr_sequoia-feat-Polarity.html) – [Poss](fr_sequoia-feat-Poss.html) – [PronType](fr_sequoia-feat-PronType.html) – [Reflex](fr_sequoia-feat-Reflex.html) – [Tense](fr_sequoia-feat-Tense.html) – [Typo](fr_sequoia-feat-Typo.html) – [VerbForm](fr_sequoia-feat-VerbForm.html) – [Voice](fr_sequoia-feat-Voice.html)
 
 ## Relations
 
-[acl](fr_sequoia-dep-acl.html) – [acl:relcl](fr_sequoia-dep-acl-relcl.html) – [advcl](fr_sequoia-dep-advcl.html) – [advcl:cleft](fr_sequoia-dep-advcl-cleft.html) – [advmod](fr_sequoia-dep-advmod.html) – [amod](fr_sequoia-dep-amod.html) – [appos](fr_sequoia-dep-appos.html) – [aux:caus](fr_sequoia-dep-aux-caus.html) – [aux:pass](fr_sequoia-dep-aux-pass.html) – [aux:tense](fr_sequoia-dep-aux-tense.html) – [case](fr_sequoia-dep-case.html) – [cc](fr_sequoia-dep-cc.html) – [ccomp](fr_sequoia-dep-ccomp.html) – [conj](fr_sequoia-dep-conj.html) – [cop](fr_sequoia-dep-cop.html) – [csubj](fr_sequoia-dep-csubj.html) – [csubj:pass](fr_sequoia-dep-csubj-pass.html) – [dep](fr_sequoia-dep-dep.html) – [det](fr_sequoia-dep-det.html) – [discourse](fr_sequoia-dep-discourse.html) – [dislocated](fr_sequoia-dep-dislocated.html) – [expl:comp](fr_sequoia-dep-expl-comp.html) – [expl:pass](fr_sequoia-dep-expl-pass.html) – [expl:subj](fr_sequoia-dep-expl-subj.html) – [fixed](fr_sequoia-dep-fixed.html) – [flat:foreign](fr_sequoia-dep-flat-foreign.html) – [flat:name](fr_sequoia-dep-flat-name.html) – [goeswith](fr_sequoia-dep-goeswith.html) – [iobj](fr_sequoia-dep-iobj.html) – [iobj:agent](fr_sequoia-dep-iobj-agent.html) – [mark](fr_sequoia-dep-mark.html) – [nmod](fr_sequoia-dep-nmod.html) – [nsubj](fr_sequoia-dep-nsubj.html) – [nsubj:caus](fr_sequoia-dep-nsubj-caus.html) – [nsubj:pass](fr_sequoia-dep-nsubj-pass.html) – [nummod](fr_sequoia-dep-nummod.html) – [obj](fr_sequoia-dep-obj.html) – [obj:agent](fr_sequoia-dep-obj-agent.html) – [obl:agent](fr_sequoia-dep-obl-agent.html) – [obl:arg](fr_sequoia-dep-obl-arg.html) – [obl:mod](fr_sequoia-dep-obl-mod.html) – [orphan](fr_sequoia-dep-orphan.html) – [parataxis](fr_sequoia-dep-parataxis.html) – [punct](fr_sequoia-dep-punct.html) – [root](fr_sequoia-dep-root.html) – [vocative](fr_sequoia-dep-vocative.html) – [xcomp](fr_sequoia-dep-xcomp.html)
+[acl](fr_sequoia-dep-acl.html) – [acl:relcl](fr_sequoia-dep-acl-relcl.html) – [advcl](fr_sequoia-dep-advcl.html) – [advcl:cleft](fr_sequoia-dep-advcl-cleft.html) – [advmod](fr_sequoia-dep-advmod.html) – [amod](fr_sequoia-dep-amod.html) – [appos](fr_sequoia-dep-appos.html) – [aux](fr_sequoia-dep-aux.html) – [aux:caus](fr_sequoia-dep-aux-caus.html) – [aux:pass](fr_sequoia-dep-aux-pass.html) – [aux:tense](fr_sequoia-dep-aux-tense.html) – [case](fr_sequoia-dep-case.html) – [cc](fr_sequoia-dep-cc.html) – [ccomp](fr_sequoia-dep-ccomp.html) – [conj](fr_sequoia-dep-conj.html) – [cop](fr_sequoia-dep-cop.html) – [csubj](fr_sequoia-dep-csubj.html) – [csubj:pass](fr_sequoia-dep-csubj-pass.html) – [dep](fr_sequoia-dep-dep.html) – [dep:comp](fr_sequoia-dep-dep-comp.html) – [det](fr_sequoia-dep-det.html) – [discourse](fr_sequoia-dep-discourse.html) – [dislocated](fr_sequoia-dep-dislocated.html) – [expl:comp](fr_sequoia-dep-expl-comp.html) – [expl:pass](fr_sequoia-dep-expl-pass.html) – [expl:pv](fr_sequoia-dep-expl-pv.html) – [expl:subj](fr_sequoia-dep-expl-subj.html) – [fixed](fr_sequoia-dep-fixed.html) – [flat:foreign](fr_sequoia-dep-flat-foreign.html) – [flat:name](fr_sequoia-dep-flat-name.html) – [goeswith](fr_sequoia-dep-goeswith.html) – [iobj](fr_sequoia-dep-iobj.html) – [iobj:agent](fr_sequoia-dep-iobj-agent.html) – [mark](fr_sequoia-dep-mark.html) – [nmod](fr_sequoia-dep-nmod.html) – [nsubj](fr_sequoia-dep-nsubj.html) – [nsubj:caus](fr_sequoia-dep-nsubj-caus.html) – [nsubj:outer](fr_sequoia-dep-nsubj-outer.html) – [nsubj:pass](fr_sequoia-dep-nsubj-pass.html) – [nummod](fr_sequoia-dep-nummod.html) – [obj](fr_sequoia-dep-obj.html) – [obj:agent](fr_sequoia-dep-obj-agent.html) – [obj:lvc](fr_sequoia-dep-obj-lvc.html) – [obl:agent](fr_sequoia-dep-obl-agent.html) – [obl:arg](fr_sequoia-dep-obl-arg.html) – [obl:mod](fr_sequoia-dep-obl-mod.html) – [orphan](fr_sequoia-dep-orphan.html) – [parataxis](fr_sequoia-dep-parataxis.html) – [parataxis:insert](fr_sequoia-dep-parataxis-insert.html) – [punct](fr_sequoia-dep-punct.html) – [root](fr_sequoia-dep-root.html) – [vocative](fr_sequoia-dep-vocative.html) – [xcomp](fr_sequoia-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 3099 sentences, 68596 tokens and 70548 syntactic words.</li>
+<li>This corpus contains 3099 sentences, 68594 tokens and 70546 syntactic words.</li>
 </ul>
 
 <ul>
@@ -105,7 +103,7 @@ The conversion process to UD is described in [(Bonfante & al. 2018)](https://hal
 </ul>
 
 <ul>
-<li>This corpus contains 40 types of words with spaces. Examples: 50 000, 125 000, 1 000, 1 500, 10 000, 1 200, 13 819, 15 000, 2 000, 2 127, 3 852, 3 862, 6 000, 7 736, 80 000, 1 062, 1 065, 1 246, 100 000, 108 000, 111 547, 14 000, 17 600, 19 000, 190 500, 2 914571 14 3, 20 000, 25 000, 260 000, 3 092, 4 000, 46 000, 5 000, 500 000, 67 025, 7 000, 70 000, 8 000, 800 000, 850 000</li>
+<li>This corpus contains 40 types of words with spaces. Examples: 50 000, 1 000, 10 000, 125 000, 1 500, 1 200, 13 819, 15 000, 2 000, 2 127, 3 852, 3 862, 6 000, 7 736, 80 000, 1 062, 1 065, 1 246, 100 000, 108 000, 111 547, 14 000, 17 600, 19 000, 190 500, 2 914571 14 3, 20 000, 25 000, 260 000, 3 092, 4 000, 46 000, 5 000, 500 000, 67 025, 7 000, 70 000, 8 000, 800 000, 850 000</li>
 </ul>
 
 <ul>
@@ -130,7 +128,7 @@ The conversion process to UD is described in [(Bonfante & al. 2018)](https://hal
 </ul>
 
 <ul>
-<li>This corpus contains 88 lemmas tagged as pronouns (PRON): 0,24, 000, 1, 1 000, 1 062, 1 065, 1.000, 1/10, 1/100, 1/1000, 10, 10 000, 100, 11, 139, 14, 15, 150, 17, 19, 19 000, 2, 200, 22, 23, 29, 3, 3 852, 3 862, 34, 40, 41, 4603, 4604, 4612, 5, 50, 51, 6, 60, 69, 75, 8, 80, 92, 96, aucun, autre, beaucoup, ce, ceci, cela, celui, celui-ci, cent, certain, chacun, cinq, deux, dont, en, il, le, lequel, lui, lui-même, moi, nul, nôtre, onze, où, personne, peu, plusieurs, que, quelques-uns, qui, quiconque, quoi, rien, se, six, soi, tout, trois, un, y, ça</li>
+<li>This corpus contains 39 lemmas tagged as pronouns (PRON): aucun, autre, ce, ceci, cela, celui, celui-ci, certain, chacun, dont, en, eux, eux-mêmes, lequel, lui, lui-même, moi, moi-même, nous, nul, nôtre, on, où, personne, plusieurs, que, quelqu'un, qui, quiconque, quoi, rien, soi, toi, tout, un, vous, vous-même, y, ça</li>
 </ul>
 
 <ul>
@@ -138,15 +136,15 @@ The conversion process to UD is described in [(Bonfante & al. 2018)](https://hal
 </ul>
 
 <ul>
-<li>Out of the above, 9 lemmas occurred sometimes as PRON and sometimes as DET: 1 000, 10 000, aucun, ce, certain, le, plusieurs, tout, un</li>
+<li>Out of the above, 6 lemmas occurred sometimes as PRON and sometimes as DET: aucun, ce, certain, plusieurs, tout, un</li>
 </ul>
 
 <ul>
-<li>This corpus contains 3 lemmas tagged as auxiliaries (AUX): avoir, faire, être</li>
+<li>This corpus contains 4 lemmas tagged as auxiliaries (AUX): avoir, faire, voir, être</li>
 </ul>
 
 <ul>
-<li>Out of the above, 3 lemmas occurred sometimes as AUX and sometimes as VERB: avoir, faire, être</li>
+<li>Out of the above, 4 lemmas occurred sometimes as AUX and sometimes as VERB: avoir, faire, voir, être</li>
 </ul>
 
 <ul>
@@ -157,7 +155,7 @@ The conversion process to UD is described in [(Bonfante & al. 2018)](https://hal
   <li>Fin
   <ul>
     <li>AUX: est, a, ont, sont, était, avait, sera, fut, étaient, ai</li>
-    <li>VERB: doit, a, peut, est, doivent, faut, peuvent, voudrais, pense, agit</li>
+    <li>VERB: doit, a, peut, doivent, faut, est, peuvent, voudrais, pense, agit</li>
   </ul>
   </li>
 </ul>
@@ -191,10 +189,9 @@ The conversion process to UD is described in [(Bonfante & al. 2018)](https://hal
   <li>Fem
     <ul>
       <li>ADJ: européenne, première, rénale, française, toutes, nouvelle, intraveineuse, nationale, seule, osseuse</li>
-      <li>ADV: faute</li>
       <li>DET: la, une, cette, sa, aucune, certaines, toute, ma, quelles, toutes</li>
       <li>NOUN: affaire, bivalirudine, commission, perfusion, administration, solution, dose, étude, fois, guerre</li>
-      <li>PRON: elle, laquelle, elles, la, lesquelles, une, celle-ci, chacune, celles, celle</li>
+      <li>PRON: elle, laquelle, elles, la, lesquelles, une, celle-ci, celles, celle, chacune</li>
       <li>PROPN: France, Paget, Europe, Christine, Denise, Afrique, Chine, Jean, Blanche, Société</li>
       <li>VERB-Part: observée, recommandée, administrée, destinée, maintenue, menée, rapportées, traitées, versées, liée</li>
     </ul>
@@ -206,10 +203,10 @@ The conversion process to UD is described in [(Bonfante & al. 2018)](https://hal
     <ul>
       <li>ADJ: français, tous, ancien, osseux, zolédronique, premier, nombreux, dernier, compris, faux</li>
       <li>AUX-Part: fait</li>
-      <li>DET: le, un, ce, cet, les, aucun, tout, du, certains, quel</li>
+      <li>DET: le, un, ce, cet, aucun, tout, du, certains, quel, tous</li>
       <li>NOUN: %, patients, mg, ans, cas, traitement, président, effets, M., cours</li>
       <li>NUM: neuf</li>
-      <li>PRON: il, ils, un, le, -il, lui, eux, ceux, chacun, lequel</li>
+      <li>PRON: il, ce, ils, un, le, -il, lui, eux, ceux, lequel</li>
       <li>PROPN: paris, Jacques, Chirac, Taïwan, Michel, Hauts-de-Seine, Didier, Alain, Maupas, François</li>
       <li>VERB-Part: mis, eu, traités, utilisé, atteints, administré, reçu, pris, fait, présenté</li>
     </ul>
@@ -240,14 +237,13 @@ The conversion process to UD is described in [(Bonfante & al. 2018)](https://hal
   <li>Sing
     <ul>
       <li>ADJ: autre, politique, même, clinique, ancien, zolédronique, européenne, jeune, première, rénale</li>
-      <li>ADV: faute</li>
       <li>AUX-Fin: est, a, était, avait, sera, fut, ai, soit, aurait, suis</li>
       <li>AUX-Part: fait</li>
       <li>DET: le, la, l', une, un, cette, ce, son, votre, sa</li>
       <li>NOUN: affaire, bivalirudine, commission, perfusion, traitement, président, M., conseil, administration, solution</li>
-      <li>PRON: il, je, elle, c', j', cela, on, un, le, l'</li>
+      <li>PRON: il, je, elle, ce, c', j', cela, on, un, le</li>
       <li>PROPN: Paris, Union, Jacques, France, Chirac, Taïwan, Francis, Michel, Paget, Didier</li>
-      <li>VERB-Fin: doit, a, peut, est, faut, voudrais, pense, agit, concerne, contient</li>
+      <li>VERB-Fin: doit, a, peut, faut, est, voudrais, pense, agit, concerne, contient</li>
       <li>VERB-Part: eu, utilisé, administré, reçu, fait, observée, présenté, recommandé, recommandée, administrée</li>
     </ul>
   </li>
@@ -286,7 +282,8 @@ The conversion process to UD is described in [(Bonfante & al. 2018)](https://hal
 <ul>
   <li>Neg
     <ul>
-      <li>ADV: pas, n', ne, plus, jamais, guère</li>
+      <li>ADV: pas, n', ne, non, plus, jamais, guère, que</li>
+      <li>DET: aucune, aucun</li>
     </ul>
   </li>
 </ul>
@@ -303,7 +300,7 @@ The conversion process to UD is described in [(Bonfante & al. 2018)](https://hal
 <ul>
   <li>Cnd
     <ul>
-      <li>AUX-Fin: aurait, auraient, serait, seraient, serais</li>
+      <li>AUX-Fin: aurait, serait, auraient, seraient, serais</li>
       <li>VERB-Fin: voudrais, pourrait, devrait, devrions, pourraient, devraient, devrais, souhaiterais, deviendrait, retrouverait</li>
     </ul>
   </li>
@@ -321,7 +318,7 @@ The conversion process to UD is described in [(Bonfante & al. 2018)](https://hal
   <li>Ind
     <ul>
       <li>AUX-Fin: est, a, ont, sont, était, avait, sera, fut, étaient, ai</li>
-      <li>VERB-Fin: doit, a, peut, est, doivent, faut, peuvent, agit, pense, devons</li>
+      <li>VERB-Fin: doit, a, peut, doivent, faut, est, peuvent, agit, pense, devons</li>
     </ul>
   </li>
 </ul>
@@ -342,7 +339,7 @@ The conversion process to UD is described in [(Bonfante & al. 2018)](https://hal
 <ul>
   <li>Fut
     <ul>
-      <li>AUX-Fin: sera, seront, aura, auront, aurons, fera</li>
+      <li>AUX-Fin: sera, seront, aura, auront, aurons, fera, verront</li>
       <li>VERB-Fin: devra, pourra, aura, pourront, aurons, auront, durera, déterminera, informera, aurai</li>
     </ul>
   </li>
@@ -373,7 +370,7 @@ The conversion process to UD is described in [(Bonfante & al. 2018)](https://hal
     <ul>
       <li>AUX-Fin: est, a, ont, sont, ai, soit, avez, avons, aurait, soient</li>
       <li>AUX-Part: ayant, étant, faisant</li>
-      <li>VERB-Fin: doit, a, peut, est, doivent, faut, peuvent, voudrais, pense, devons</li>
+      <li>VERB-Fin: doit, a, peut, doivent, faut, est, peuvent, voudrais, pense, devons</li>
       <li>VERB-Part: concernant, suivant, présentant, ayant, souffrant, subissant, correspondant, recevant, résultant, portant</li>
     </ul>
   </li>
@@ -386,7 +383,7 @@ The conversion process to UD is described in [(Bonfante & al. 2018)](https://hal
 <ul>
   <li>Pass
     <ul>
-      <li>VERB-Part: utilisé, administré, mis, observée, recommandé, traités, condamné, arrêté, observé, présentés</li>
+      <li>VERB-Part: traités, utilisé, atteints, administré, mis, observée, recommandée, administrée, destinée, suivi</li>
     </ul>
   </li>
 </ul>
@@ -411,7 +408,15 @@ The conversion process to UD is described in [(Bonfante & al. 2018)](https://hal
   <li>Dem
     <ul>
       <li>DET: cette, ce, ces, cet</li>
-      <li>PRON: cela, ceci, ceux, celle-ci, celles, celle, celui, celui-ci, ça, celles-ci</li>
+      <li>PRON: ce, c', cela, ceci, ceux, -ce, celle-ci, celles, celle, celui</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ind
+    <ul>
+      <li>PRON: on, un, l'on, une, tout, autre, certains, chacun, tous, chacune</li>
     </ul>
   </li>
 </ul>
@@ -419,9 +424,17 @@ The conversion process to UD is described in [(Bonfante & al. 2018)](https://hal
 <ul>
   <li>Int
     <ul>
-      <li>ADV: comment, pourquoi, où, combien</li>
+      <li>ADV: comment, pourquoi, combien</li>
       <li>DET: quel, quelles, quelle, quels</li>
-      <li>PRON: Qu', Que, qui, quoi, QU'</li>
+      <li>PRON: Qu', Que, où, qui, quoi, QU'</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Neg
+    <ul>
+      <li>PRON: rien, aucun, personne, Nul</li>
     </ul>
   </li>
 </ul>
@@ -429,7 +442,7 @@ The conversion process to UD is described in [(Bonfante & al. 2018)](https://hal
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: lui, eux, moi, elle, vous, elles, nous, Toi</li>
+      <li>PRON: il, nous, se, je, s', vous, elle, ils, y, j'</li>
     </ul>
   </li>
 </ul>
@@ -437,7 +450,7 @@ The conversion process to UD is described in [(Bonfante & al. 2018)](https://hal
 <ul>
   <li>Rel
     <ul>
-      <li>PRON: qui, que, dont, où, qu', laquelle, lequel, lesquelles, lesquels, quoi</li>
+      <li>PRON: qui, dont, que, où, qu', laquelle, lequel, lesquelles, lesquels, quoi</li>
     </ul>
   </li>
 </ul>
@@ -450,8 +463,7 @@ The conversion process to UD is described in [(Bonfante & al. 2018)](https://hal
   <li>Card
     <ul>
       <li>NOUN: millions, milliards, 1/10, 2006-08-07, 1/100, milliard, 1/1000, million, -1,5, -2,5</li>
-      <li>NUM: deux, 5, 2006, trois, 2, 10, 30, 4, 3, 1</li>
-      <li>PRON: 1, deux, 100, 1/10, 1/100, 10, 6, 96, six, trois</li>
+      <li>NUM: deux, 5, trois, 2, 2006, 10, 1, 30, 3, 4</li>
     </ul>
   </li>
 </ul>
@@ -472,6 +484,7 @@ The conversion process to UD is described in [(Bonfante & al. 2018)](https://hal
   <li>Yes
     <ul>
       <li>DET: son, ses, votre, sa, leur, leurs, notre, nos, mon, mes</li>
+      <li>PRON: nôtres</li>
     </ul>
   </li>
 </ul>
@@ -495,7 +508,7 @@ The conversion process to UD is described in [(Bonfante & al. 2018)](https://hal
 <ul>
   <li>1
     <ul>
-      <li>AUX-Fin: ai, avons, suis, sommes, aurons, avions, serais, sois, soyons, étais</li>
+      <li>AUX-Fin: ai, avons, suis, sommes, étais, aurons, avais, avions, serais, sois</li>
       <li>PRON: nous, je, j', me, m', moi, -nous, -je, -moi</li>
       <li>VERB-Fin: voudrais, devons, pense, crois, dois, avons, devrions, remercie, voulons, espère</li>
     </ul>
@@ -505,7 +518,7 @@ The conversion process to UD is described in [(Bonfante & al. 2018)](https://hal
 <ul>
   <li>2
     <ul>
-      <li>AUX-Fin: avez, êtes, avais, ayez, étais</li>
+      <li>AUX-Fin: avez, êtes, ayez</li>
       <li>PRON: vous, -vous, Toi</li>
       <li>VERB-Fin: avez, veuillez, devez, demandez, pouvez, remarquez, allaitez, prenez, présentez, suivez</li>
     </ul>
@@ -516,14 +529,25 @@ The conversion process to UD is described in [(Bonfante & al. 2018)](https://hal
   <li>3
     <ul>
       <li>AUX-Fin: est, a, ont, sont, était, avait, sera, fut, étaient, soit</li>
-      <li>PRON: il, se, y, s', en, elle, ils, c', on, le</li>
-      <li>VERB-Fin: doit, a, peut, est, doivent, faut, peuvent, agit, concerne, contient</li>
+      <li>PRON: il, se, s', elle, ce, ils, y, c', en, on</li>
+      <li>VERB-Fin: doit, a, peut, doivent, faut, est, peuvent, agit, concerne, contient</li>
     </ul>
   </li>
 </ul>
 
 
 
+<ul>
+  <li><a>Number[psor]</a></li>
+</ul>
+
+<ul>
+  <li>Plur
+    <ul>
+      <li>PRON: nôtres</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Other Features</h3>
 
@@ -534,6 +558,18 @@ The conversion process to UD is described in [(Bonfante & al. 2018)](https://hal
       <li>Yes
         <ul>
           <li>X: the, van, en, in, Medicines, and, Company, UK, a, devils</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Person[psor]</a>
+    <ul>
+      <li>1
+        <ul>
+          <li>PRON: nôtres</li>
         </ul>
       </li>
     </ul>
@@ -562,6 +598,7 @@ The conversion process to UD is described in [(Bonfante & al. 2018)](https://hal
 </ul>
 
 <ul>
+<li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: voir.</li>
 <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: être.</li>
 </ul>
 
@@ -571,10 +608,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (794)</li>
-      <li>VERB-Fin--PRON (881)</li>
-      <li>VERB-Part--NOUN (306)</li>
-      <li>VERB-Part--PRON (213)</li>
+      <li>VERB-Fin--NOUN (779)</li>
+      <li>VERB-Fin--NOUN-ADP(que) (1)</li>
+      <li>VERB-Fin--PRON (873)</li>
+      <li>VERB-Inf--NOUN (10)</li>
+      <li>VERB-Inf--PRON (2)</li>
+      <li>VERB-Part--NOUN (289)</li>
+      <li>VERB-Part--PRON (211)</li>
     </ul>
   </li>
 </ul>
@@ -582,15 +622,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (648)</li>
-      <li>VERB-Fin--NOUN-ADP(jusque)-ADP(à) (2)</li>
-      <li>VERB-Fin--PRON (146)</li>
-      <li>VERB-Inf--NOUN (689)</li>
-      <li>VERB-Inf--NOUN-ADP(de) (1)</li>
-      <li>VERB-Inf--NOUN-ADP(jusque)-ADP(à) (1)</li>
+      <li>VERB-Fin--NOUN (624)</li>
+      <li>VERB-Fin--PRON (139)</li>
+      <li>VERB-Inf--NOUN (687)</li>
       <li>VERB-Inf--NOUN-ADP(à) (1)</li>
-      <li>VERB-Inf--PRON (76)</li>
-      <li>VERB-Part--NOUN (494)</li>
+      <li>VERB-Inf--PRON (74)</li>
+      <li>VERB-Part--NOUN (492)</li>
       <li>VERB-Part--PRON (61)</li>
     </ul>
   </li>
@@ -599,13 +636,18 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--PRON (106)</li>
-      <li>VERB-Inf--PRON (33)</li>
-      <li>VERB-Part--PRON (72)</li>
+      <li>VERB-Fin--PRON (64)</li>
+      <li>VERB-Inf--PRON (25)</li>
+      <li>VERB-Part--PRON (43)</li>
     </ul>
   </li>
 </ul>
 
+<h3>Reflexive Verbs</h3>
+
+<ul>
+  <li>This corpus contains 133 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: agir s', produire se, dérouler se, trouver se, intéresser s', rendre se, avérer s', exprimer s', occuper s', traduire se, adonner s', apprêter s', réunir se, situer se, élever s', apercevoir s', assurer s', attendre s', avérer se, comporter se, demander me, demander nous, devoir se, dérouler s', engager s', heurter se, jeter se, lever se, monter se, montrer se, opposer s', passer s', passer se, pencher se, poser me, poursuivre se, promener se, prononcer se, présenter se, ranger se, rendre vous, réjouir me, résorber se, réunir s', souvenir me, souvenir se, voir se, éteindre s', abstenir m', abstenir me</li>
+</ul>
 
 <h3>Reflexive Passive</h3>
 
@@ -616,16 +658,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 30 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: fracturer s', lier se, défendre se, déclarer se, frotter se, réserver se, sentir se, apprécier se, attendre se, comprendre me, compromettre se, confier se, croire se, dessaisir se, dire se, entraîner s', faire se, fracturer se, inscrire s', inscrire se, persuader se, rassurer se, remarquer s', rembourser se, rendre se, restructurer se, retrouver s', retrouver se, réchauffer se, voiler se</li>
-    <ul>
-      <li>Out of those, 2 lemmas occurred more than once, but never without a reflexive dependent. Examples: fracturer, frotter</li>
-    </ul>
+  <li>This corpus contains 26 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: lier se, défendre se, déclarer se, réserver se, sentir se, apprécier se, attendre se, comprendre me, compromettre se, confier se, croire se, dessaisir se, dire se, entraîner s', faire se, inscrire s', inscrire se, persuader se, rassurer se, remarquer s', rembourser se, rendre se, restructurer se, retrouver s', retrouver se, réchauffer se</li>
 </ul>
 
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 18 relation subtypes: <a>acl:relcl</a>, <a>advcl:cleft</a>, <a>aux:caus</a>, <a>aux:pass</a>, <a>aux:tense</a>, <a>csubj:pass</a>, <a>expl:comp</a>, <a>expl:pass</a>, <a>expl:subj</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>iobj:agent</a>, <a>nsubj:caus</a>, <a>nsubj:pass</a>, <a>obj:agent</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:mod</a></li>
-<li>The following 4 main types are not used alone, they are always subtyped: <a>aux</a>, <a>expl</a>, <a>flat</a>, <a>obl</a></li>
+<li>This corpus uses 23 relation subtypes: <a>acl:relcl</a>, <a>advcl:cleft</a>, <a>aux:caus</a>, <a>aux:pass</a>, <a>aux:tense</a>, <a>csubj:pass</a>, <a>dep:comp</a>, <a>expl:comp</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>expl:subj</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>iobj:agent</a>, <a>nsubj:caus</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obj:agent</a>, <a>obj:lvc</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:mod</a>, <a>parataxis:insert</a></li>
+<li>The following 3 main types are not used alone, they are always subtyped: <a>expl</a>, <a>flat</a>, <a>obl</a></li>
 <li>The following 4 relation types are not used in this corpus at all: <a>clf</a>, <a>compound</a>, <a>list</a>, <a>reparandum</a></li>
 </ul>

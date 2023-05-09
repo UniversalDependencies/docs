@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-128 nodes (2%) are attached to their parents as `clf`.
+141 nodes (2%) are attached to their parents as `clf`.
 
-127 instances of `clf` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.0078125.
+127 instances of `clf` (90%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.07801418439716.
 
-The following 5 pairs of parts of speech are connected with `clf`: <tt><a href="zh_cfl-pos-NUM.html">NUM</a></tt>-<tt><a href="zh_cfl-pos-NOUN.html">NOUN</a></tt> (90; 70% instances), <tt><a href="zh_cfl-pos-DET.html">DET</a></tt>-<tt><a href="zh_cfl-pos-NOUN.html">NOUN</a></tt> (33; 26% instances), <tt><a href="zh_cfl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_cfl-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="zh_cfl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_cfl-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="zh_cfl-pos-DET.html">DET</a></tt>-<tt><a href="zh_cfl-pos-DET.html">DET</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `clf`: <tt><a href="zh_cfl-pos-NUM.html">NUM</a></tt>-<tt><a href="zh_cfl-pos-NOUN.html">NOUN</a></tt> (90; 64% instances), <tt><a href="zh_cfl-pos-DET.html">DET</a></tt>-<tt><a href="zh_cfl-pos-NOUN.html">NOUN</a></tt> (33; 23% instances), <tt><a href="zh_cfl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_cfl-pos-NOUN.html">NOUN</a></tt> (14; 10% instances), <tt><a href="zh_cfl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_cfl-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="zh_cfl-pos-DET.html">DET</a></tt>-<tt><a href="zh_cfl-pos-DET.html">DET</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -22,24 +22,24 @@ The following 5 pairs of parts of speech are connected with `clf`: <tt><a href="
 # visual-style 15	bgColor:blue
 # visual-style 15	fgColor:white
 # visual-style 15 16 clf	color:blue
-1	2012年	2012年	NOUN	_	_	6	obl:tmod	_	SpaceAfter=No
-2	12月	12月	NOUN	_	_	1	flat	_	SpaceAfter=No
-3	我	我	PRON	_	_	6	nsubj	_	SpaceAfter=No
-4	在	在	ADP	_	_	5	case	_	SpaceAfter=No
-5	韩国	韩国	PROPN	_	_	6	obl	_	SpaceAfter=No
-6	留学	留学	VERB	_	_	8	acl	_	SpaceAfter=No
-7	的	的	PART	_	_	6	mark:rel	_	SpaceAfter=No
-8	时候	时候	NOUN	_	_	13	obl:tmod	_	SpaceAfter=No
-9	，	，	PUNCT	_	_	8	punct	_	SpaceAfter=No
-10	有	有	VERB	_	_	13	advcl	_	SpaceAfter=No
-11	一	一	NUM	_	_	12	nummod	_	SpaceAfter=No
-12	天	天	NOUN	_	_	10	obj	_	SpaceAfter=No
-13	接	接	VERB	_	_	0	root	_	SpaceAfter=No
-14	到	到	VERB	_	_	13	compound:vv	_	SpaceAfter=No
-15	一	一	NUM	_	_	17	nummod	_	SpaceAfter=No
-16	个	个	NOUN	_	_	15	clf	_	SpaceAfter=No
-17	通知	通知	NOUN	_	_	13	obj	_	SpaceAfter=No
-18	。	。	PUNCT	_	_	13	punct	_	SpaceAfter=No
+1	2012年	2012年	NOUN	_	_	6	obl:tmod	_	SpaceAfter=No|Translit=2012nián|LTranslit=2012nián
+2	12月	12月	NOUN	_	_	1	flat	_	SpaceAfter=No|Translit=12yuè|LTranslit=12yuè
+3	我	我	PRON	_	_	6	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
+4	在	在	ADP	_	_	5	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
+5	韩国	韩国	PROPN	_	_	6	obl	_	SpaceAfter=No|Translit=hánguó|LTranslit=hánguó
+6	留学	留学	VERB	_	_	8	acl	_	SpaceAfter=No|Translit=liúxué|LTranslit=liúxué
+7	的	的	PART	_	_	6	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
+8	时候	时候	NOUN	_	_	13	obl:tmod	_	SpaceAfter=No|Translit=shíhou|LTranslit=shíhou
+9	，	，	PUNCT	_	_	8	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
+10	有	有	VERB	_	_	13	advcl	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
+11	一	一	NUM	_	_	12	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+12	天	天	NOUN	_	_	10	obj	_	SpaceAfter=No|Translit=tiān|LTranslit=tiān
+13	接	接	VERB	_	_	0	root	_	SpaceAfter=No|Translit=jiē|LTranslit=jiē
+14	到	到	VERB	_	_	13	compound:vv	_	SpaceAfter=No|Translit=dào|LTranslit=dào
+15	一	一	NUM	_	_	17	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+16	个	个	NOUN	_	_	15	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+17	通知	通知	NOUN	_	_	13	obj	_	SpaceAfter=No|Translit=tōngzhī|LTranslit=tōngzhī
+18	。	。	PUNCT	_	_	13	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 ~~~
 
@@ -50,52 +50,37 @@ The following 5 pairs of parts of speech are connected with `clf`: <tt><a href="
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 clf	color:blue
-1	那	那	DET	_	_	4	det	_	SpaceAfter=No
-2	次	次	NOUN	_	_	1	clf	_	SpaceAfter=No
-3	的	的	PART	_	_	1	case	_	SpaceAfter=No
-4	旅行	旅行	NOUN	_	_	7	nsubj	_	SpaceAfter=No
-5	很	很	ADV	_	_	7	advmod	_	SpaceAfter=No
-6	不	不	ADV	_	_	7	advmod	_	SpaceAfter=No
-7	寻常	寻常	ADJ	_	_	0	root	_	SpaceAfter=No
-8	。	。	PUNCT	_	_	7	punct	_	SpaceAfter=No
+1	那	那	DET	_	_	4	det	_	SpaceAfter=No|Translit=nà|LTranslit=nà
+2	次	次	NOUN	_	_	1	clf	_	SpaceAfter=No|Translit=cì|LTranslit=cì
+3	的	的	PART	_	_	1	case	_	SpaceAfter=No|Translit=de|LTranslit=de
+4	旅行	旅行	NOUN	_	_	7	nsubj	_	SpaceAfter=No|Translit=lǚxíng|LTranslit=lǚxíng
+5	很	很	ADV	_	_	7	advmod	_	SpaceAfter=No|Translit=hěn|LTranslit=hěn
+6	不	不	ADV	_	_	7	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
+7	寻常	寻常	ADJ	_	_	0	root	_	SpaceAfter=No|Translit=xúncháng|LTranslit=xúncháng
+8	。	。	PUNCT	_	_	7	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 10 clf	color:blue
-1	我	我	PRON	_	_	3	nsubj	_	SpaceAfter=No
-2	一直	一直	ADV	_	_	3	advmod	_	SpaceAfter=No
-3	尝试	尝试	VERB	_	_	0	root	_	SpaceAfter=No
-4	用	用	ADP	_	_	7	case	_	SpaceAfter=No
-5	各	各	PRON	_	_	6	det	_	SpaceAfter=No
-6	种	种	NOUN	_	_	7	nmod	_	SpaceAfter=No
-7	方法	方法	NOUN	_	_	8	obl	_	SpaceAfter=No
-8	联系	联系	VERB	_	_	3	conj	_	SpaceAfter=No
-9	第一	第一	ADJ	_	_	11	amod	_	SpaceAfter=No
-10	个	个	NOUN	_	_	9	clf	_	SpaceAfter=No
-11	女朋友	女朋友	NOUN	_	_	8	obj	_	SpaceAfter=No
-12	，	，	PUNCT	_	_	19	punct	_	SpaceAfter=No
-13	总算	总算	ADV	_	_	19	advmod	_	SpaceAfter=No
-14	从	从	ADP	_	_	18	case	_	SpaceAfter=No
-15	她	她	PRON	_	_	17	nmod	_	SpaceAfter=No
-16	好	好	ADJ	_	_	17	amod	_	SpaceAfter=No
-17	朋友	朋友	NOUN	_	_	18	nmod	_	SpaceAfter=No
-18	那里	那里	NOUN	_	_	19	obl	_	SpaceAfter=No
-19	得	得	VERB	_	_	3	parataxis	_	SpaceAfter=No
-20	到	到	VERB	_	_	19	compound:vv	_	SpaceAfter=No
-21	了	了	AUX	_	_	19	aux	_	SpaceAfter=No
-22	她	她	PRON	_	_	26	nmod	_	SpaceAfter=No
-23	最	最	ADV	_	_	24	advmod	_	SpaceAfter=No
-24	新	新	ADJ	_	_	26	amod	_	SpaceAfter=No
-25	的	的	PART	_	_	24	mark:rel	_	SpaceAfter=No
-26	联系	联系	NOUN	_	_	19	obj	_	SpaceAfter=No
-27	方式	方式	NOUN	_	_	26	compound	_	SpaceAfter=No
-28	。	。	PUNCT	_	_	3	punct	_	SpaceAfter=No
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 7 clf	color:blue
+1	我	我	PRON	_	_	3	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
+2	没	没	PART	_	Polarity=Neg	3	advmod	_	SpaceAfter=No|Translit=méi|LTranslit=méi
+3	告诉	告诉	VERB	_	_	0	root	_	SpaceAfter=No|Translit=gàosu|LTranslit=gàosu
+4	父母	父母	NOUN	_	_	3	obj	_	SpaceAfter=No|Translit=fùmǔ|LTranslit=fùmǔ
+5	而	而	CCONJ	_	_	9	cc	_	SpaceAfter=No|Translit='ér|LTranslit='ér
+6	把	把	ADP	_	_	8	case	_	SpaceAfter=No|Translit=bǎ|LTranslit=bǎ
+7	本	本	NOUN	_	_	8	clf	_	SpaceAfter=No|Translit=běn|LTranslit=běn
+8	信	信	NOUN	_	_	9	obl:patient	_	SpaceAfter=No|Translit=xìn|LTranslit=xìn
+9	送	送	VERB	_	_	3	conj	_	SpaceAfter=No|Translit=sòng|LTranslit=sòng
+10	给	给	ADP	_	_	12	mark	_	SpaceAfter=No|Translit=gěi|LTranslit=gěi
+11	总统	总统	NOUN	_	_	12	nsubj	_	SpaceAfter=No|Translit=zǒngtǒng|LTranslit=zǒngtǒng
+12	看	看	VERB	_	_	9	advcl	_	SpaceAfter=No|Translit=kàn|LTranslit=kàn
+13	。	。	PUNCT	_	_	3	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 ~~~
 

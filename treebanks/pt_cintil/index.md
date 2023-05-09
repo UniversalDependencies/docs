@@ -16,15 +16,15 @@ Family: Indo-European, Romance
 
 This treebank has been part of Universal Dependencies since the UD v2.11 release.
 
-The following people have contributed to making this treebank part of UD: João Ricardo Silva.
+The following people have contributed to making this treebank part of UD: Mariana Avelãs, António Branco, Marisa Campos, Catarina Carvalheiro, Rita Carvalho, Sérgio Castro, Francisco Costa, Cláudia Martins, Rita Pereira, Sílvia Pereira, Clara Pinto, Andreia Querido, Joana Ramos, João Silva, Sara Silveira.
 
 Repository: [UD_Portuguese-CINTIL](https://github.com/UniversalDependencies/UD_Portuguese-CINTIL)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpt_cintil211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpt_cintil212)<br />
+Download all treebanks: [UD 2.12](/#download)
 
 License: CC BY-NC-ND 4.0
 
-Genre: news, fiction
+Genre: news, fiction, nonfiction, grammar-examples
 
 Questions, comments?
 General annotation questions (either Portuguese-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
@@ -36,9 +36,9 @@ Do not submit pull requests against the UD repository.
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | assigned by a program, with some manual corrections, but not a full manual verification |
+| Lemmas | annotated manually in non-UD style, automatically converted to UD |
 | UPOS | annotated manually in non-UD style, automatically converted to UD |
-| XPOS | assigned by a program, with some manual corrections, but not a full manual verification |
+| XPOS | annotated manually |
 | Features | annotated manually in non-UD style, automatically converted to UD |
 | Relations | annotated manually in non-UD style, automatically converted to UD |
 
@@ -63,6 +63,8 @@ For more details, refer to (Branco _et al._, 2022), the canonical reference give
 
 This work was partly supported by [PORTULAN CLARIN Research Infrastructure for the Science and Technology of Language](https://portulanclarin.net), funded by Lisboa 2020, Alentejo 2020, and FCT-Fundação para a Ciência e Tecnologia under the grant PINFRA/22117/2016; by FCT-Fundação para a Ciência e Tecnologia through the Portuguese project DP4LT (PTDC/EEI-SII/1940/2012); and by the European Commission through the European project QTLeap (EC/FP7/610516).
 
+Several people have contributed to the creation of this treebank, from devising annotation guidelines and developing supporting tools, to manually annotating the text and data curation: Andreia Querido, António Branco, Catarina Carvalheiro, Clara Pinto, Cláudia Martins, Francisco Costa, Joana Ramos, João Silva, Mariana Avelãs, Marisa Campos, Rita Carvalho, Rita Pereira, Sara Silveira, Sérgio Castro, and Sílvia Pereira.
+
 
 # Statistics of UD Portuguese CINTIL
 
@@ -72,7 +74,7 @@ This work was partly supported by [PORTULAN CLARIN Research Infrastructure for t
 
 ## Features
 
-[Degree](pt_cintil-feat-Degree.html) – [Gender](pt_cintil-feat-Gender.html) – [Mood](pt_cintil-feat-Mood.html) – [Number](pt_cintil-feat-Number.html) – [Person](pt_cintil-feat-Person.html) – [Tense](pt_cintil-feat-Tense.html) – [VerbForm](pt_cintil-feat-VerbForm.html)
+[Abbr](pt_cintil-feat-Abbr.html) – [Definite](pt_cintil-feat-Definite.html) – [Degree](pt_cintil-feat-Degree.html) – [Gender](pt_cintil-feat-Gender.html) – [Mood](pt_cintil-feat-Mood.html) – [Number](pt_cintil-feat-Number.html) – [NumType](pt_cintil-feat-NumType.html) – [Person](pt_cintil-feat-Person.html) – [PronType](pt_cintil-feat-PronType.html) – [Tense](pt_cintil-feat-Tense.html) – [VerbForm](pt_cintil-feat-VerbForm.html)
 
 ## Relations
 
@@ -82,7 +84,7 @@ This work was partly supported by [PORTULAN CLARIN Research Infrastructure for t
 
 
 <ul>
-<li>This corpus contains 38400 sentences and 475860 tokens.</li>
+<li>This corpus contains 38400 sentences, 441991 tokens and 475860 syntactic words.</li>
 </ul>
 
 <ul>
@@ -94,10 +96,12 @@ This work was partly supported by [PORTULAN CLARIN Research Infrastructure for t
 </ul>
 
 <ul>
-<li>This corpus contains 1196 types of words that contain both letters and punctuation. Examples: de_, em_, a_, por_, -se, -me, -lhe, primeiro-ministro, -o, segunda-feira, -lo, sexta-feira, -a, porta-voz, terça-feira, R., quinta-feira, vice-presidente, P., secretário-geral, fim-de-semana, -no, norte-americana, quarta-feira, Grã-Bretanha, norte-americano, -os, Timor-Leste, norte-americanos, sociais-democratas, Inc., com_, cessar-fogo, -los, -la, -nos, social-democrata, pré-escolar, guarda-redes, -na, Corp., Co., direcção-geral, ex-presidente, braço-de-ferro, projecto-lei, -as, D., procurador-geral, quartos-de-final</li>
+<li>This corpus contains 1197 types of words that contain both letters and punctuation. Examples: de_, em_, a_, por_, -se, -me, -lhe, primeiro-ministro, -o, segunda-feira, -lo, sexta-feira, -a, porta-voz, terça-feira, R., quinta-feira, vice-presidente, P., secretário-geral, fim-de-semana, -no, norte-americana, quarta-feira, Grã-Bretanha, norte-americano, -os, Timor-Leste, norte-americanos, sociais-democratas, Inc., com_, cessar-fogo, -los, -la, -nos, social-democrata, pré-escolar, guarda-redes, -na, Corp., Co., direcção-geral, ex-presidente, braço-de-ferro, projecto-lei, -as, D., procurador-geral, quartos-de-final</li>
 </ul>
 
 <ul>
+<li>This corpus contains 33865 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 1113 types of multi-word tokens. Examples: do, da, na, no, dos, ao, das, à, nos, pela, pelo, nas, aos, num, às, numa, neste, pelos, deste, desta, nesta, nesse, pelas, trata-se, disso, nessa, deles, destes, dessa, daí, desse, desses, destas, dele, delas, dessas, disto, nestes, nestas, naquela, naquele, dela, daquele, fala-se, seguiu-se, tratou-se, noutros, daqueles, diz-se, daquela.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -113,7 +117,7 @@ This work was partly supported by [PORTULAN CLARIN Research Infrastructure for t
 </ul>
 
 <ul>
-<li>This corpus contains 96 lemmas tagged as pronouns (PRON): -a, -as, -la, -las, -lhe, -lhes, -lo, -los, -me, -me_, -na, -nas, -no, -nos, -o, -os, -se, -te, -vos, a, algo, alguém, as, certa, certas, certo, como, cuja, cujas, cujo, cujos, determinadas, determinado, determinados, ela, elas, ele, eles, eu, lhe, lhes, me, me_, meu, meus, mim, minha, minhas, nada, niente, ninguém, nos, nossa, nossas, nosso, nossos, nós, o, onde, os, outra, outras, outro, outros, porque, porquê, pouco, quais, qual, quando, quantas, quanto, que, quem, quê, se, seu, seus, si, sua, suas, te, teu, teus, ti, tu, tua, tuas, tudo, você, vocês, vossa, vossas, vosso, vossos, vós</li>
+<li>This corpus contains 97 lemmas tagged as pronouns (PRON): -a, -as, -la, -las, -lhe, -lhe_, -lhes, -lo, -los, -me, -me_, -na, -nas, -no, -nos, -o, -os, -se, -te, -vos, a, algo, alguém, as, certa, certas, certo, como, cuja, cujas, cujo, cujos, determinadas, determinado, determinados, ela, elas, ele, eles, eu, lhe, lhes, me, me_, meu, meus, mim, minha, minhas, nada, niente, ninguém, nos, nossa, nossas, nosso, nossos, nós, o, onde, os, outra, outras, outro, outros, porque, porquê, pouco, quais, qual, quando, quantas, quanto, que, quem, quê, se, seu, seus, si, sua, suas, te, teu, teus, ti, tu, tua, tuas, tudo, você, vocês, vossa, vossas, vosso, vossos, vós</li>
 </ul>
 
 <ul>
@@ -133,7 +137,16 @@ This work was partly supported by [PORTULAN CLARIN Research Infrastructure for t
 </ul>
 
 <ul>
-<li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
+<ul>
+  <li>Fin
+  <ul>
+    <li>AUX: é, foi, são, está, era, foram, estão, será, estava, seria</li>
+    <li>VERB: há, tem, vai, pode, disse, é, diz, quer, têm, vão</li>
+  </ul>
+  </li>
 </ul>
 
 <ul>
@@ -158,7 +171,7 @@ This work was partly supported by [PORTULAN CLARIN Research Infrastructure for t
   <li>Part
   <ul>
     <li>AUX: sido, estado</li>
-    <li>VERB: tido, feito, havido, recebido, começado, ficado, ido, visto, acontecido, chegado</li>
+    <li>VERB: feito, passado, feita, tido, feitas, marcada, entregue, passada, visto, apresentado</li>
   </ul>
   </li>
 </ul>
@@ -178,7 +191,7 @@ This work was partly supported by [PORTULAN CLARIN Research Infrastructure for t
       <li>NOUN: pessoas, empresa, vida, situação, parte, vez, questão, casa, acções, história</li>
       <li>NUM: duas, três, cinco, mil, quatro, Ambas, meia, seis, sete, vinte</li>
       <li>PRON: sua, suas, minha, ela, nossa, elas, -a, a, cuja, minhas</li>
-      <li>VERB: feita, feitas, marcada, passada, apresentada, sediada, prevista, anunciada, dada, tomada</li>
+      <li>VERB-Part: feita, feitas, marcada, passada, apresentada, sediada, prevista, anunciada, dada, tomada</li>
     </ul>
   </li>
 </ul>
@@ -192,7 +205,7 @@ This work was partly supported by [PORTULAN CLARIN Research Infrastructure for t
       <li>NUM: dois, cento, duzentos, milhões, três, mil, quatro, cinco, sete, dez</li>
       <li>PRON: seu, ele, tudo, seus, eles, meu, o, nosso, meus, nada</li>
       <li>PROPN: Presidente</li>
-      <li>VERB: passado, feito, divulgados, apresentado, aprovado, preso, divulgado, apresentados, dado, feitos</li>
+      <li>VERB-Part: passado, feito, divulgados, apresentado, aprovado, preso, divulgado, apresentados, dado, feitos</li>
     </ul>
   </li>
 </ul>
@@ -207,13 +220,15 @@ This work was partly supported by [PORTULAN CLARIN Research Infrastructure for t
     <ul>
       <li>ADJ: grandes, outros, outras, novos, diferentes, últimos, novas, principais, primeiros, nacionais</li>
       <li>AUX: são, foram, estão, serão, eram, estamos, estavam, têm, somos, estiveram</li>
+      <li>AUX-Fin: são, foram, estão, serão, eram, estamos, estavam, somos, estiveram, sejam</li>
       <li>AUX-Inf: serem, terem, estarem, estarmos, sermos, terão</li>
       <li>DET: os, as, todos, alguns, estes, muitos, todas, estas, algumas, muitas</li>
       <li>NOUN: anos, pessoas, contos, dias, acções, empresas, computadores, problemas, meses, coisas</li>
-      <li>NUM: mil, três, dois, quatro, cinco, vinte, duas, seis, sete, dez</li>
-      <li>PRON: seus, eles, suas, nós, meus, elas, quais, nossos, outros, os</li>
-      <li>VERB: têm, vão, podem, temos, vamos, chegaram, querem, dizem, viram, são</li>
+      <li>NUM: dois, mil, três, duas, quatro, cinco, vinte, duzentos, seis, sete</li>
+      <li>PRON: seus, eles, suas, nós, meus, elas, nossos, outros, os, quais</li>
+      <li>VERB-Fin: têm, vão, podem, temos, vamos, chegaram, querem, dizem, viram, são</li>
       <li>VERB-Inf: continuarem, fazerem, poderem, terem, começarem, conhecerem, criarem, estarem, ficarem, formarem</li>
+      <li>VERB-Part: feitas, divulgados, apresentados, feitos, publicados, entregues, conhecidos, elevados, pagos, mortos</li>
     </ul>
   </li>
 </ul>
@@ -221,22 +236,43 @@ This work was partly supported by [PORTULAN CLARIN Research Infrastructure for t
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: grande, novo, outro, nova, primeira, diferente, primeiro, outra, bom, importante</li>
+      <li>ADJ: grande, novo, outro, nova, primeira, diferente, primeiro, outra, bom, maior</li>
       <li>AUX: é, foi, está, era, será, estava, tem, seria, tinha, esteve</li>
+      <li>AUX-Fin: é, foi, está, era, será, estava, seria, esteve, estou, sou</li>
       <li>AUX-Inf: ter, ser, estar</li>
-      <li>DET: o, a, um, uma, este, esta, qualquer, isso, esse, essa</li>
+      <li>DET: o, a, um, uma, este, esta, isso, esse, essa, qualquer</li>
       <li>NOUN: ano, presidente, dia, mercado, caso, lado, país, empresa, vida, fim</li>
       <li>NUM: cento, um, %, meia, terço, meio, milhão, uma, duzentas, quinto</li>
       <li>PRON: sua, seu, ele, tudo, se, -se, eu, minha, ela, meu</li>
       <li>PROPN: Presidente</li>
-      <li>VERB: há, tem, vai, pode, disse, é, diz, quer, tinha, fez</li>
+      <li>VERB-Fin: há, tem, vai, pode, disse, é, diz, quer, tinha, fez</li>
       <li>VERB-Inf: fazer, ter, manter, poder, tornar, concretizar, evitar, ser, aceitar, apoiar</li>
+      <li>VERB-Part: passado, feita, feito, marcada, passada, entregue, apresentado, aprovado, apresentada, preso</li>
     </ul>
   </li>
 </ul>
 
 
 
+<ul>
+  <li><a>Definite</a></li>
+</ul>
+
+<ul>
+  <li>Def
+    <ul>
+      <li>DET: o, a, os, as</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ind
+    <ul>
+      <li>DET: um, uma, uns, umas</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Degree and Polarity</h3>
 
@@ -249,14 +285,6 @@ This work was partly supported by [PORTULAN CLARIN Research Infrastructure for t
   <li>Abs
     <ul>
       <li>ADJ: mínima, máximo, máxima, maior, melhor, mínimo, mínimos, mínimas, pior, contentíssimo</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Cmp
-    <ul>
-      <li>ADJ: maior, melhor, superior, melhores, maiores, menor, pior, superiores, menores, piores</li>
     </ul>
   </li>
 </ul>
@@ -275,7 +303,8 @@ This work was partly supported by [PORTULAN CLARIN Research Infrastructure for t
   <li>Cnd
     <ul>
       <li>AUX: seria, teria, seriam, estaria, teriam, Seríamos, estariam</li>
-      <li>VERB: poderia, iria, deveria, teria, poderiam, deveriam, diria, iriam, seria, haveria</li>
+      <li>AUX-Fin: seria, seriam, estaria, Seríamos, estariam</li>
+      <li>VERB-Fin: poderia, iria, deveria, teria, poderiam, deveriam, diria, iriam, seria, haveria</li>
     </ul>
   </li>
 </ul>
@@ -283,7 +312,7 @@ This work was partly supported by [PORTULAN CLARIN Research Infrastructure for t
 <ul>
   <li>Imp
     <ul>
-      <li>VERB: vem, Experimenta, Imagina, pede, Come, DIZ, Diverte, Faz, Justifica, Menciona</li>
+      <li>VERB-Fin: vem, Experimenta, Imagina, pede, Come, DIZ, Diverte, Faz, Justifica, Menciona</li>
     </ul>
   </li>
 </ul>
@@ -292,7 +321,8 @@ This work was partly supported by [PORTULAN CLARIN Research Infrastructure for t
   <li>Ind
     <ul>
       <li>AUX: é, foi, são, está, era, foram, estão, será, estava, tem</li>
-      <li>VERB: há, tem, vai, pode, disse, é, diz, quer, têm, vão</li>
+      <li>AUX-Fin: é, foi, são, está, era, foram, estão, será, estava, serão</li>
+      <li>VERB-Fin: há, tem, vai, pode, disse, é, diz, quer, têm, vão</li>
     </ul>
   </li>
 </ul>
@@ -301,7 +331,8 @@ This work was partly supported by [PORTULAN CLARIN Research Infrastructure for t
   <li>Sub
     <ul>
       <li>AUX: seja, fosse, for, sejam, tenha, forem, fossem, estejam, tivesse, esteja</li>
-      <li>VERB: tenha, possa, haja, quiser, possam, houver, houvesse, pudesse, tiver, tivesse</li>
+      <li>AUX-Fin: seja, fosse, for, sejam, forem, fossem, estejam, esteja, estivesse, estiver</li>
+      <li>VERB-Fin: tenha, possa, haja, quiser, possam, houver, houvesse, pudesse, tiver, tivesse</li>
     </ul>
   </li>
 </ul>
@@ -314,7 +345,8 @@ This work was partly supported by [PORTULAN CLARIN Research Infrastructure for t
   <li>Fut
     <ul>
       <li>AUX: será, serão, terá, estará, for, estarão, forem, estaremos, estiver, seremos</li>
-      <li>VERB: poderá, deverá, terá, haverá, irá, deverão, poderão, terão, ficará, será</li>
+      <li>AUX-Fin: será, serão, estará, for, estarão, forem, estaremos, estiver, seremos, estiverem</li>
+      <li>VERB-Fin: poderá, deverá, terá, haverá, irá, deverão, poderão, terão, ficará, será</li>
     </ul>
   </li>
 </ul>
@@ -323,7 +355,8 @@ This work was partly supported by [PORTULAN CLARIN Research Infrastructure for t
   <li>Imp
     <ul>
       <li>AUX: era, estava, eram, tinha, estavam, fosse, estávamos, fossem, havia, tivesse</li>
-      <li>VERB: tinha, havia, podia, tinham, queria, era, ia, devia, dizia, sabia</li>
+      <li>AUX-Fin: era, estava, eram, estavam, fosse, estávamos, fossem, estivesse, éramos, estivessem</li>
+      <li>VERB-Fin: tinha, havia, podia, tinham, queria, era, ia, devia, dizia, sabia</li>
     </ul>
   </li>
 </ul>
@@ -332,7 +365,8 @@ This work was partly supported by [PORTULAN CLARIN Research Infrastructure for t
   <li>Past
     <ul>
       <li>AUX: foi, foram, esteve, estiveram, fui, estive, estivemos, Estiveste, fomos</li>
-      <li>VERB: disse, fez, teve, houve, ficou, comprei, começou, chegou, foi, acabou</li>
+      <li>AUX-Fin: foi, foram, esteve, estiveram, fui, estive, estivemos, Estiveste, fomos</li>
+      <li>VERB-Fin: disse, fez, teve, houve, ficou, comprei, começou, chegou, foi, acabou</li>
     </ul>
   </li>
 </ul>
@@ -340,8 +374,8 @@ This work was partly supported by [PORTULAN CLARIN Research Infrastructure for t
 <ul>
   <li>Pqp
     <ul>
-      <li>AUX: fora, estivera</li>
-      <li>VERB: acabara, acontecera, fizera, tivera, vira, Tocara, chegara, ficara, perdera, resolvera</li>
+      <li>AUX-Fin: fora, estivera</li>
+      <li>VERB-Fin: acabara, acontecera, fizera, tivera, vira, Tocara, chegara, ficara, perdera, resolvera</li>
     </ul>
   </li>
 </ul>
@@ -350,7 +384,8 @@ This work was partly supported by [PORTULAN CLARIN Research Infrastructure for t
   <li>Pres
     <ul>
       <li>AUX: é, são, está, estão, tem, estamos, estou, sou, seja, têm</li>
-      <li>VERB: há, tem, vai, pode, é, diz, quer, têm, vão, podem</li>
+      <li>AUX-Fin: é, são, está, estão, estamos, estou, sou, seja, somos, sejam</li>
+      <li>VERB-Fin: há, tem, vai, pode, é, diz, quer, têm, vão, podem</li>
     </ul>
   </li>
 </ul>
@@ -360,7 +395,86 @@ This work was partly supported by [PORTULAN CLARIN Research Infrastructure for t
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
 
+<ul>
+  <li><a>PronType</a></li>
+</ul>
 
+<ul>
+  <li>Art
+    <ul>
+      <li>DET: o, a, os, as, um, uma, uns, umas</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Dem
+    <ul>
+      <li>DET: este, esta, isso, esse, essa, isto, estes, estas, esses, aquela</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ind
+    <ul>
+      <li>DET: todos, alguns, qualquer, muitos, toda, todas, algumas, cada, todo, muitas</li>
+      <li>PRON: tudo, nada, algo, outro, outros, ninguém, outras, outra, alguém, determinado</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Int
+    <ul>
+      <li>PRON: quem, que, como, Quando, onde, porquê, qual, quantas, quanto, quê</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Prs
+    <ul>
+      <li>PRON: -se, se, sua, seu, ele, seus, eles, eu, suas, minha</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Rel
+    <ul>
+      <li>PRON: que, onde, quem, qual, como, cuja, quais, cujo, cujos, cujas</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>NumType</a></li>
+</ul>
+
+<ul>
+  <li>Card
+    <ul>
+      <li>NUM: dois, mil, três, duas, quatro, 30, cinco, 20, vinte, duzentos</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Frac
+    <ul>
+      <li>NUM: cento, %, meia, quartos, terço, terços, meio, quinto</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ord
+    <ul>
+      <li>ADJ: primeira, primeiro, segunda, segundo, primeiros, terceiro, terceira, primeiras, quarto, quarta</li>
+    </ul>
+  </li>
+</ul>
 
 
 
@@ -372,9 +486,10 @@ This work was partly supported by [PORTULAN CLARIN Research Infrastructure for t
   <li>1
     <ul>
       <li>AUX: estamos, estou, sou, somos, fui, estávamos, fomos, estive, temos, tenho</li>
+      <li>AUX-Fin: estamos, estou, sou, somos, fui, estávamos, fomos, estive, éramos, estaremos</li>
       <li>AUX-Inf: estarmos, ser, sermos, ter</li>
       <li>PRON: eu, nós, -me, me, mim, -nos, nos, -me_, me_</li>
-      <li>VERB: comprei, temos, tenho, vamos, vejo, quero, posso, vou, sei, podemos</li>
+      <li>VERB-Fin: comprei, temos, tenho, vamos, vejo, quero, posso, vou, sei, podemos</li>
       <li>VERB-Inf: ganharmos, ir, perdermos, poder, ter, aceitar, assumirmos, começarmos, compreendermos, concretizar</li>
     </ul>
   </li>
@@ -383,9 +498,9 @@ This work was partly supported by [PORTULAN CLARIN Research Infrastructure for t
 <ul>
   <li>2
     <ul>
-      <li>AUX: és, estás, Estiveste, estavas, serás</li>
+      <li>AUX-Fin: és, estás, Estiveste, estavas, serás</li>
       <li>PRON: tu, ti, -te, te, vós, -vos</li>
-      <li>VERB: tens, vais, quiseres, sabes, vem, podes, vês, Experimenta, Imagina, dizes</li>
+      <li>VERB-Fin: tens, vais, quiseres, sabes, vem, podes, vês, Experimenta, Imagina, dizes</li>
       <li>VERB-Inf: tentar</li>
     </ul>
   </li>
@@ -395,9 +510,10 @@ This work was partly supported by [PORTULAN CLARIN Research Infrastructure for t
   <li>3
     <ul>
       <li>AUX: é, foi, são, está, era, foram, estão, será, estava, tem</li>
+      <li>AUX-Fin: é, foi, são, está, era, foram, estão, será, estava, seria</li>
       <li>AUX-Inf: ter, ser, serem, terem, estar, estarem, terão</li>
       <li>PRON: -se, se, ele, eles, ela, o, -lhe, elas, -o, -lo</li>
-      <li>VERB: há, tem, vai, pode, disse, é, diz, quer, têm, vão</li>
+      <li>VERB-Fin: há, tem, vai, pode, disse, é, diz, quer, têm, vão</li>
       <li>VERB-Inf: fazer, continuarem, manter, evitar, fazerem, poderem, ser, ter, terem, tornar</li>
     </ul>
   </li>
@@ -408,6 +524,18 @@ This work was partly supported by [PORTULAN CLARIN Research Infrastructure for t
 
 <h3>Other Features</h3>
 
+
+<ul>
+  <li><a>Abbr</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>NOUN: etc</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 <h2>Syntax</h2>
 
@@ -427,20 +555,25 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (11496)</li>
-      <li>VERB--NOUN-ADP(como) (1)</li>
-      <li>VERB--NOUN-ADP(de) (8)</li>
-      <li>VERB--NOUN-ADP(de_) (104)</li>
-      <li>VERB--NOUN-ADP(em) (2)</li>
-      <li>VERB--NOUN-ADP(em_) (1)</li>
-      <li>VERB--PRON (3612)</li>
-      <li>VERB--PRON-ADP(de) (3)</li>
-      <li>VERB--PRON-ADP(de_) (25)</li>
+      <li>VERB-Fin--NOUN (9085)</li>
+      <li>VERB-Fin--NOUN-ADP(como) (1)</li>
+      <li>VERB-Fin--NOUN-ADP(de) (6)</li>
+      <li>VERB-Fin--NOUN-ADP(de_) (73)</li>
+      <li>VERB-Fin--NOUN-ADP(em) (2)</li>
+      <li>VERB-Fin--NOUN-ADP(em_) (1)</li>
+      <li>VERB-Fin--PRON (3424)</li>
+      <li>VERB-Fin--PRON-ADP(de) (3)</li>
+      <li>VERB-Fin--PRON-ADP(de_) (20)</li>
       <li>VERB-Ger--PRON (5)</li>
       <li>VERB-Inf--NOUN (350)</li>
       <li>VERB-Inf--NOUN-ADP(de_) (2)</li>
       <li>VERB-Inf--PRON (112)</li>
       <li>VERB-Inf--PRON-ADP(de_) (1)</li>
+      <li>VERB-Part--NOUN (2411)</li>
+      <li>VERB-Part--NOUN-ADP(de) (2)</li>
+      <li>VERB-Part--NOUN-ADP(de_) (31)</li>
+      <li>VERB-Part--PRON (188)</li>
+      <li>VERB-Part--PRON-ADP(de_) (5)</li>
     </ul>
   </li>
 </ul>
@@ -448,18 +581,19 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (11620)</li>
-      <li>VERB--NOUN-ADP(a_) (1)</li>
-      <li>VERB--NOUN-ADP(com) (2)</li>
-      <li>VERB--NOUN-ADP(como) (1)</li>
-      <li>VERB--NOUN-ADP(de) (5)</li>
-      <li>VERB--NOUN-ADP(de_) (46)</li>
-      <li>VERB--NOUN-ADP(em) (3)</li>
-      <li>VERB--NOUN-ADP(em_) (5)</li>
-      <li>VERB--NOUN-ADP(para) (2)</li>
-      <li>VERB--NOUN-ADP(sobre) (3)</li>
-      <li>VERB--PRON (2341)</li>
-      <li>VERB--PRON-ADP(de_) (3)</li>
+      <li>VERB--NOUN (1)</li>
+      <li>VERB-Fin--NOUN (11609)</li>
+      <li>VERB-Fin--NOUN-ADP(a_) (1)</li>
+      <li>VERB-Fin--NOUN-ADP(com) (2)</li>
+      <li>VERB-Fin--NOUN-ADP(como) (1)</li>
+      <li>VERB-Fin--NOUN-ADP(de) (5)</li>
+      <li>VERB-Fin--NOUN-ADP(de_) (46)</li>
+      <li>VERB-Fin--NOUN-ADP(em) (3)</li>
+      <li>VERB-Fin--NOUN-ADP(em_) (5)</li>
+      <li>VERB-Fin--NOUN-ADP(para) (2)</li>
+      <li>VERB-Fin--NOUN-ADP(sobre) (3)</li>
+      <li>VERB-Fin--PRON (2331)</li>
+      <li>VERB-Fin--PRON-ADP(de_) (3)</li>
       <li>VERB-Ger--NOUN (194)</li>
       <li>VERB-Ger--NOUN-ADP(de_) (1)</li>
       <li>VERB-Ger--PRON (30)</li>
@@ -467,8 +601,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-ADP(de) (1)</li>
       <li>VERB-Inf--NOUN-ADP(de_) (10)</li>
       <li>VERB-Inf--PRON (350)</li>
-      <li>VERB-Part--NOUN (218)</li>
-      <li>VERB-Part--PRON (7)</li>
+      <li>VERB-Part--NOUN (228)</li>
+      <li>VERB-Part--PRON (17)</li>
     </ul>
   </li>
 </ul>

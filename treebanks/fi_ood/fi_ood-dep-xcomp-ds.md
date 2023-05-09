@@ -44,7 +44,7 @@ The following 7 pairs of parts of speech are connected with `xcomp:ds`: <tt><a h
 5	sitten	sitten	ADV	_	_	6	advmod	_	_
 6	juttelee	jutella	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
 7	😉	😉	SYM	_	_	1	discourse	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=\s\s
+8	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\s\s
 
 ~~~
 

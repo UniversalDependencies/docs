@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="ca_ancora-pos-PRON.
 
 6841 <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> tokens (29% of all `PRON` tokens) have a non-empty value of `PrepCase`.
 
-The most frequent other feature values with which `PRON` and `PrepCase` co-occurred: <tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6841; 100%), <tt><a href="ca_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (6841; 100%), <tt><a href="ca_ancora-feat-Case.html">Case</a></tt><tt>=Acc,Dat</tt> (6790; 99%), <tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (6615; 97%), <tt><a href="ca_ancora-feat-Person.html">Person</a></tt><tt>=3</tt> (6615; 97%), <tt><a href="ca_ancora-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (6615; 97%).
+The most frequent other feature values with which `PRON` and `PrepCase` co-occurred: <tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6841; 100%), <tt><a href="ca_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (6841; 100%), <tt><a href="ca_ancora-feat-Case.html">Case</a></tt><tt>=Acc,Dat</tt> (6687; 98%), <tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (6615; 97%), <tt><a href="ca_ancora-feat-Person.html">Person</a></tt><tt>=3</tt> (6615; 97%), <tt><a href="ca_ancora-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (6615; 97%).
 
 `PRON` tokens may have the following values of `PrepCase`:
 
@@ -27,7 +27,8 @@ The most frequent other feature values with which `PRON` and `PrepCase` co-occur
 
 <table>
   <tr><th>Paradigm <i>ell</i></th><th><tt>Npr</tt></th><th><tt>Pre</tt></th></tr>
-  <tr><td><tt><tt><a href="ca_ancora-feat-Case.html">Case</a></tt><tt>=Acc,Dat</tt></tt></td><td><em>es, s', se, s, 's, -se</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ca_ancora-feat-Case.html">Case</a></tt><tt>=Acc,Dat</tt></tt></td><td><em>es, s', se, s, -se, 's</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ca_ancora-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td></td><td><em>si</em></td></tr>
+  <tr><td><tt><tt><a href="ca_ancora-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>es, s', se, 's</em></td><td></td></tr>
 </table>
 

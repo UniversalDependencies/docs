@@ -32,7 +32,7 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (35; 100% of non-empty `Polarity`): <em>нет, нѣтъ, нетъ, нельзя, не, негде, нелѕа, неноково, нѣт, нету</em>
-* `EMPTY` (4108): <em>смерено, взято, принето, велѣно, привез, велѣлъ, сказал, велено, бьет, велет(ь)</em>
+* `EMPTY` (4107): <em>смерено, взято, принето, велѣно, привез, велѣлъ, сказал, велено, бьет, велет(ь)</em>
 
 ### `CCONJ`
 

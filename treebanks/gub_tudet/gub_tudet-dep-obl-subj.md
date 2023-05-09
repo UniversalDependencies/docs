@@ -24,7 +24,7 @@ The following 15 pairs of parts of speech are connected with `obl:subj`: <tt><a 
 # visual-style 2 1 obl:subj	color:blue
 1	Awakwer	awa	NOUN	n	Number=Coll	2	obl:subj	_	_
 2	oho	ho	VERB	vi	Person[subj]=3	0	root	_	_
-3	kope	ko	NOUN	n	Case=All	2	obl	_	_
+3	kope	ko	NOUN	n	Case=Loc	2	obl	_	_
 4	wa	wa	PART	pcl	Number=Plur	1	discourse	_	_
 
 ~~~

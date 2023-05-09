@@ -22,16 +22,16 @@ The following 21 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 2 advmod	color:blue
-1	И	и	CCONJ	_	_	4	cc	_	wf="И"|SpaceAfter=Yes
-2	всего	всего	ADV	_	Degree=Pos	4	advmod	_	wf="всего"|SpaceAfter=Yes
-3	овса	овесъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	wf="овса"|SpaceAfter=Yes
-4	принето	приняти	VERB	_	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	wf="принето"|SpaceAfter=Yes
-5	с	съ	ADP	_	_	7	case	_	wf="с"|SpaceAfter=Yes
-6	пяти	пять	NUM	_	Case=Gen|NumForm=Word|NumType=Card	7	nummod	_	wf="пяти"|SpaceAfter=Yes
-7	возов	возъ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	4	obl	_	wf="возов"|SpaceAfter=Yes
-8	20	20	NUM	_	Case=Nom|NumForm=Digit|NumType=Card	9	nummod:gov	_	wf="20"|SpaceAfter=Yes
+1	И	и	CCONJ	_	_	4	cc	_	wf="И"|_
+2	всего	всего	ADV	_	Degree=Pos	4	advmod	_	wf="всего"|_
+3	овса	овесъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	wf="овса"|_
+4	принето	приняти	VERB	_	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	wf="принето"|_
+5	с	съ	ADP	_	_	7	case	_	wf="с"|_
+6	пяти	пять	NUM	_	Case=Gen|NumForm=Word|NumType=Card	7	nummod	_	wf="пяти"|_
+7	возов	возъ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	4	obl	_	wf="возов"|_
+8	20	20	NUM	_	Case=Nom|NumForm=Digit|NumType=Card	9	nummod:gov	_	wf="20"|_
 9	чети	четь	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	4	nsubj:pass	_	wf="чети"|SpaceAfter=No
-10	.	.	PUNCT	_	_	4	punct	_	wf="."|SpaceAfter=Yes
+10	.	.	PUNCT	_	_	4	punct	_	wf="."|_
 
 ~~~
 
@@ -42,16 +42,16 @@ The following 21 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 advmod	color:blue
-1	И	и	CCONJ	_	_	7	cc	_	wf="И"|SpaceAfter=Yes
-2	тои	тотъ	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	wf="тои"|SpaceAfter=Yes
-3	меди	мѣдь	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	7	obl	_	wf="меди"|SpaceAfter=Yes
-4	у	у	ADP	_	_	5	case	_	wf="у"|SpaceAfter=Yes
-5	Сидара	Сидоръ	PROPN	_	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	7	obl	_	wf="Сидара"|SpaceAfter=Yes
-6	не	не	PART	_	Polarity=Neg	7	advmod	_	wf="не"|SpaceAfter=Yes
-7	дашло	доити	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	wf="дашло"|SpaceAfter=Yes
-8	полчетверты	полчетверта	NUM	_	Case=Nom|Gender=Fem|NumForm=Word|NumType=Frac	9	nummod:gov	_	wf="полчетверты"|SpaceAfter=Yes
+1	И	и	CCONJ	_	_	7	cc	_	wf="И"|_
+2	тои	тотъ	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	wf="тои"|_
+3	меди	мѣдь	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	7	obl	_	wf="меди"|_
+4	у	у	ADP	_	_	5	case	_	wf="у"|_
+5	Сидара	Сидоръ	PROPN	_	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	7	obl	_	wf="Сидара"|_
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	wf="не"|_
+7	дашло	доити	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	wf="дашло"|_
+8	полчетверты	полчетверта	NUM	_	Case=Nom|Gender=Fem|NumForm=Word|NumType=Frac	9	nummod:gov	_	wf="полчетверты"|_
 9	гривенки	гривенка	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	7	nsubj	_	wf="гривенки"|SpaceAfter=No
-10	.	.	PUNCT	_	_	7	punct	_	wf="."|SpaceAfter=Yes
+10	.	.	PUNCT	_	_	7	punct	_	wf="."|_
 
 ~~~
 

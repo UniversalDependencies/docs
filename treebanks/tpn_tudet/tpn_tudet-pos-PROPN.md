@@ -48,9 +48,9 @@ The 2nd highest number of forms (2) was observed with the lemma “Mawea”: <em
 
 The 3rd highest number of forms (2) was observed with the lemma “Sarawaia”: <em>Sarawai, Sarawaiusu</em>.
 
-`PROPN` occurs with 2 features: <tt><a href="tpn_tudet-feat-Case.html">Case</a></tt> (2; 1% instances), <tt><a href="tpn_tudet-feat-Augm.html">Augm</a></tt> (1; 1% instances)
+`PROPN` occurs with 2 features: <tt><a href="tpn_tudet-feat-Case.html">Case</a></tt> (2; 1% instances), <tt><a href="tpn_tudet-feat-Degree.html">Degree</a></tt> (1; 1% instances)
 
-`PROPN` occurs with 2 feature-value pairs: `Augm=Yes`, `Case=Loc`
+`PROPN` occurs with 2 feature-value pairs: `Case=Loc`, `Degree=Aug`
 
 `PROPN` occurs with 3 feature combinations.
 The most frequent feature combination is `_` (158 tokens).

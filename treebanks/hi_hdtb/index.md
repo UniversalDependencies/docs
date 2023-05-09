@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Riyaz Ahmad Bhat, Daniel Zeman.
 
 Repository: [UD_Hindi-HDTB](https://github.com/UniversalDependencies/UD_Hindi-HDTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhi_hdtb211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhi_hdtb212)<br />
+Download all treebanks: [UD 2.12](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -94,13 +94,13 @@ year={2009}
 
 ## Relations
 
-[acl](hi_hdtb-dep-acl.html) – [acl:relcl](hi_hdtb-dep-acl-relcl.html) – [advcl](hi_hdtb-dep-advcl.html) – [advmod](hi_hdtb-dep-advmod.html) – [amod](hi_hdtb-dep-amod.html) – [aux](hi_hdtb-dep-aux.html) – [aux:pass](hi_hdtb-dep-aux-pass.html) – [case](hi_hdtb-dep-case.html) – [cc](hi_hdtb-dep-cc.html) – [compound](hi_hdtb-dep-compound.html) – [conj](hi_hdtb-dep-conj.html) – [cop](hi_hdtb-dep-cop.html) – [dep](hi_hdtb-dep-dep.html) – [det](hi_hdtb-dep-det.html) – [dislocated](hi_hdtb-dep-dislocated.html) – [iobj](hi_hdtb-dep-iobj.html) – [mark](hi_hdtb-dep-mark.html) – [nmod](hi_hdtb-dep-nmod.html) – [nsubj](hi_hdtb-dep-nsubj.html) – [nsubj:pass](hi_hdtb-dep-nsubj-pass.html) – [nummod](hi_hdtb-dep-nummod.html) – [obj](hi_hdtb-dep-obj.html) – [obl](hi_hdtb-dep-obl.html) – [punct](hi_hdtb-dep-punct.html) – [root](hi_hdtb-dep-root.html) – [vocative](hi_hdtb-dep-vocative.html) – [xcomp](hi_hdtb-dep-xcomp.html)
+[acl](hi_hdtb-dep-acl.html) – [acl:relcl](hi_hdtb-dep-acl-relcl.html) – [advcl](hi_hdtb-dep-advcl.html) – [advmod](hi_hdtb-dep-advmod.html) – [amod](hi_hdtb-dep-amod.html) – [aux](hi_hdtb-dep-aux.html) – [aux:pass](hi_hdtb-dep-aux-pass.html) – [case](hi_hdtb-dep-case.html) – [cc](hi_hdtb-dep-cc.html) – [ccomp](hi_hdtb-dep-ccomp.html) – [compound](hi_hdtb-dep-compound.html) – [conj](hi_hdtb-dep-conj.html) – [cop](hi_hdtb-dep-cop.html) – [dep](hi_hdtb-dep-dep.html) – [det](hi_hdtb-dep-det.html) – [dislocated](hi_hdtb-dep-dislocated.html) – [iobj](hi_hdtb-dep-iobj.html) – [mark](hi_hdtb-dep-mark.html) – [nmod](hi_hdtb-dep-nmod.html) – [nsubj](hi_hdtb-dep-nsubj.html) – [nsubj:pass](hi_hdtb-dep-nsubj-pass.html) – [nummod](hi_hdtb-dep-nummod.html) – [obj](hi_hdtb-dep-obj.html) – [obl](hi_hdtb-dep-obl.html) – [punct](hi_hdtb-dep-punct.html) – [root](hi_hdtb-dep-root.html) – [vocative](hi_hdtb-dep-vocative.html) – [xcomp](hi_hdtb-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 16647 sentences and 351704 tokens.</li>
+<li>This corpus contains 16649 sentences and 351704 tokens.</li>
 </ul>
 
 <ul>
@@ -1137,5 +1137,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 3 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>nsubj:pass</a></li>
-<li>The following 13 relation types are not used in this corpus at all: <a>csubj</a>, <a>ccomp</a>, <a>expl</a>, <a>discourse</a>, <a>appos</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>The following 12 relation types are not used in this corpus at all: <a>csubj</a>, <a>expl</a>, <a>discourse</a>, <a>appos</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

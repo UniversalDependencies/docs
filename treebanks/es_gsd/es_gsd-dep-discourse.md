@@ -37,7 +37,7 @@ The following 2 pairs of parts of speech are connected with `discourse`: <tt><a 
 13	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
 14	tarea	tarea	NOUN	_	Gender=Fem|Number=Sing	28	nsubj	_	_
 15	que	que	SCONJ	_	_	17	mark	_	_
-16	nos	yo	PRON	_	Case=Acc,Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	17	iobj	_	_
+16	nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	17	obl:arg	_	_
 17	queda	quedar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	_
 18	de	de	ADP	_	_	19	case	_	_
 19	reflexión	reflexión	NOUN	_	Gender=Fem|Number=Sing	17	obl	_	SpaceAfter=No
@@ -54,7 +54,7 @@ The following 2 pairs of parts of speech are connected with `discourse`: <tt><a 
 30	no	no	ADV	_	Polarity=Neg	32	advmod	_	_
 31	debemos	deber	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	32	aux	_	_
 32	dejar	dejar	VERB	_	VerbForm=Inf	27	advcl	_	_
-33	nos	yo	PRON	_	Case=Acc,Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	32	iobj	_	_
+33	nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	32	obl:arg	_	_
 34	distraer	distraer	VERB	_	VerbForm=Inf	32	xcomp	_	_
 35	por	por	ADP	_	_	37	case	_	_
 36	otras	otro	DET	_	Gender=Fem|Number=Plur|PronType=Ind	37	det	_	_

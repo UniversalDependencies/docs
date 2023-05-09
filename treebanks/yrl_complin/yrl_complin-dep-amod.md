@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-12 nodes (1%) are attached to their parents as `amod`.
+57 nodes (1%) are attached to their parents as `amod`.
 
-11 instances of `amod` (92%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.
+49 instances of `amod` (86%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.05263157894737.
 
-The following 1 pairs of parts of speech are connected with `amod`: <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (12; 100% instances).
+The following 1 pairs of parts of speech are connected with `amod`: <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (57; 100% instances).
 
 
 ~~~ conllu
@@ -28,7 +28,7 @@ The following 1 pairs of parts of speech are connected with `amod`: <tt><a href=
 4	yandé	yandé	PRON	PRON	Number=Plur|Person=1|PronType=Prs	2	obj	_	TokenRange=18:23
 5	yaú	ú	VERB	V	Number=Plur|Person=1|VerbForm=Fin	2	advcl	_	TokenRange=24:27
 6	ramé	ramé	SCONJ	SCONJ	_	5	mark	_	TokenRange=28:32
-7	timbiú	timbiú	NOUN	N	Number=Sing	5	obj	_	TokenRange=33:39
+7	timbiú	timbiú	NOUN	N	Number=Sing|Rel=Abs	5	obj	_	TokenRange=33:39
 8	irusanga	irusanga	ADJ	A	_	7	amod	_	SpaceAfter=No|TokenRange=40:48
 9	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=48:49
 

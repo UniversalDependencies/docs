@@ -28,7 +28,7 @@ The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a h
 4	будуць	быць	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	5	aux:pass	5:aux:pass	_
 5	узнятыя	узняць	VERB	VBNH	Aspect=Perf|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	1	acl:relcl	1:acl:relcl	_
 6	пад	падчас	ADP	IN	Typo=Yes	9	case	9:case	comment="пад,ADP+час,NOUN,Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing"
-7	час	_	X	_	_	6	goeswith	6:goeswith	_
+7	час	_	X	X	_	6	goeswith	6:goeswith	_
 8	двухдзённых	двухдзённы	ADJ	JJL	Case=Gen|Degree=Pos|Number=Plur	9	amod	9:amod	_
 9	інтэнсіваў	інтэнсіў	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	obl	5:obl:падчас:gen	SpaceAfter=No
 10	:	:	PUNCT	PUNCT	_	12	punct	12:punct	_

@@ -14,7 +14,7 @@ There are also 1 other language-specific subtypes of `compound`: <tt><a href="he
 222 instances of `compound:affix` (94%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.83829787234043.
 
-The following 5 pairs of parts of speech are connected with `compound:affix`: <tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_htb-pos-ADV.html">ADV</a></tt> (115; 49% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-ADV.html">ADV</a></tt> (73; 31% instances), <tt><a href="he_htb-pos-AUX.html">AUX</a></tt>-<tt><a href="he_htb-pos-ADV.html">ADV</a></tt> (23; 10% instances), <tt><a href="he_htb-pos-VERB.html">VERB</a></tt>-<tt><a href="he_htb-pos-ADV.html">ADV</a></tt> (22; 9% instances), <tt><a href="he_htb-pos-ADV.html">ADV</a></tt>-<tt><a href="he_htb-pos-ADV.html">ADV</a></tt> (2; 1% instances).
+The following 4 pairs of parts of speech are connected with `compound:affix`: <tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_htb-pos-ADV.html">ADV</a></tt> (115; 49% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-ADV.html">ADV</a></tt> (73; 31% instances), <tt><a href="he_htb-pos-ADV.html">ADV</a></tt>-<tt><a href="he_htb-pos-ADV.html">ADV</a></tt> (25; 11% instances), <tt><a href="he_htb-pos-VERB.html">VERB</a></tt>-<tt><a href="he_htb-pos-ADV.html">ADV</a></tt> (22; 9% instances).
 
 
 ~~~ conllu
@@ -45,11 +45,11 @@ The following 5 pairs of parts of speech are connected with `compound:affix`: <t
 2	היה	היה	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbType=Cop	3	cop	_	_
 3	קורבן	קורבן	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	_
 4	של	של	ADP	ADP	Case=Gen	7	case:gen	_	_
-5	אי	אי	ADV	ADV	Prefix=Yes	7	compound:affix	_	HebSource=ConvUncertainHead|SpaceAfter=No
-6	-	-	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No
+5	אי	אי	ADV	ADV	Prefix=Yes	7	compound:affix	_	SpaceAfter=No|HebSource=ConvUncertainHead
+6	-	-	PUNCT	PUNCT	_	7	punct	_	SpaceAfter=No
 7	התאמה	התאמה	NOUN	NOUN	Gender=Fem|Number=Sing	3	nmod:poss	_	_
 8	כ	כ	ADP	ADP	_	10	case	_	_
-9	ה_	ה	DET	DET	Definite=Def|PronType=Art	10	det	_	_
+9	ה_	ה	DET	DET	PronType=Art	10	det	_	_
 10	זאת	זאת	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Dem	7	nmod	_	_
 11	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
@@ -57,20 +57,27 @@ The following 5 pairs of parts of speech are connected with `compound:affix`: <t
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 compound:affix	color:blue
-1	אי	אי	ADV	ADV	Prefix=Yes	2	compound:affix	_	_
-2	אפשר	אפשר	AUX	AUX	VerbType=Mod	3	aux	_	_
-3	לקלוט	קלט	VERB	VERB	HebBinyan=PAAL|VerbForm=Inf|Voice=Act	0	root	_	_
-4	עולים	עולה	NOUN	NOUN	Gender=Masc|Number=Plur	3	obj	_	_
-5	ו	ו	CCONJ	CCONJ	_	6	cc	_	_
-6	ענפים	ענף	NOUN	NOUN	Gender=Masc|Number=Plur	4	conj	_	_
-7	בלי	בלי	ADP	ADP	_	8	case	_	_
-8	כסף	כסף	NOUN	NOUN	Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
-9	.	.	PUNCT	PUNCT	_	3	punct	_	_
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 13 compound:affix	color:blue
+1	סילבר	סילבר	PROPN	PROPN	_	2	nsubj	_	_
+2	חזר	חזר	VERB	VERB	Gender=Masc|Number=Sing|Person=3|Tense=Past	0	root	_	_
+3	השבוע	השבוע	ADV	ADV	_	2	advmod	_	_
+4	ל	ל	ADP	ADP	_	6	case	_	_
+5	ה_	ה	DET	DET	PronType=Art	6	det	_	_
+6	אוניברסיטה	אוניברסיטה	NOUN	NOUN	Gender=Fem|Number=Sing	2	obl	_	_
+7	,	,	PUNCT	PUNCT	_	2	punct	_	_
+8	כועס	כעס	VERB	VERB	Gender=Masc|HebBinyan=PAAL|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	2	xcomp	_	HebSource=ConvUncertainLabel
+9	ו	ו	CCONJ	CCONJ	_	10	cc	_	_
+10	מתוסכל	מתוסכל	ADJ	ADJ	Gender=Masc|Number=Sing	8	conj	_	_
+11	יותר	יותר	ADV	ADV	_	8	advmod	_	_
+12	מ	מ	ADP	ADP	_	11	dep	_	HebSource=ConvUncertainHead
+13	אי	אי	ADV	ADV	Prefix=Yes	11	compound:affix	_	HebSource=ConvUncertainHead
+14	-	-	PUNCT	PUNCT	_	13	punct	_	SpaceAfter=No
+15	פעם	פעם	ADV	ADV	_	13	fixed	_	SpaceAfter=No
+16	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 ~~~
 

@@ -38,13 +38,7 @@ The 3rd highest number of forms (1) was observed with the lemma “mostly”: <e
 
 Parents of `ADV` nodes belong to 2 different parts of speech: <tt><a href="en_pronouns-pos-VERB.html">VERB</a></tt> (45; 69% instances), <tt><a href="en_pronouns-pos-PRON.html">PRON</a></tt> (20; 31% instances)
 
-55 (85%) `ADV` nodes are leaves.
+65 (100%) `ADV` nodes are leaves.
 
-10 (15%) `ADV` nodes have one child.
-
-The highest child degree of a `ADV` node is 1.
-
-Children of `ADV` nodes are attached using 1 different relations: <tt><a href="en_pronouns-dep-punct.html">punct</a></tt> (10; 100% instances)
-
-Children of `ADV` nodes belong to 1 different parts of speech: <tt><a href="en_pronouns-pos-PUNCT.html">PUNCT</a></tt> (10; 100% instances)
+The highest child degree of a `ADV` node is 0.
 

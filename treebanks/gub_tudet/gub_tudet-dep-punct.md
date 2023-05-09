@@ -25,7 +25,7 @@ The following 11 pairs of parts of speech are connected with `punct`: <tt><a hre
 1	Oho	ho	VERB	vi	Person[subj]=3	0	root	_	_
 2	Zuze	Zuze	PROPN	pn	_	3	nmod	_	_
 3	ihɨ	hɨ	NOUN	n	Rel=NCont	1	obl:subj	_	_
-4	kope	ko	NOUN	n	Case=All	1	obl	_	_
+4	kope	ko	NOUN	n	Case=Loc	1	obl	_	_
 5	kara	kara	NOUN	n	_	1	obl	_	_
 6	ipiaromo	piar	ADP	posp	Case=Tra|Rel=NCont	1	case	_	_
 7	.	.	PUNCT	punct	_	1	punct	_	_

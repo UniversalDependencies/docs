@@ -32,7 +32,7 @@ The following 2 pairs of parts of speech are connected with `flat:name`: <tt><a 
 7	سمت	سمت	NOUN	N_IANM	Number=Sing	10	obl:arg	_	_
 8	خود	خود	PRON	PR_CREFX	_	7	nmod	_	_
 9	ابقا	ابقا	NOUN	N_IANM	Number=Sing	10	compound:lvc	_	_
-10	شد	شد#شو	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	SpaceAfter=No
+10	شد	شد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	OrigLemma=شد#شو|SpaceAfter=No
 11	.	.	PUNCT	PUNC	_	10	punct	_	_
 
 ~~~
@@ -72,8 +72,8 @@ The following 2 pairs of parts of speech are connected with `flat:name`: <tt><a 
 26	مسجد	مسجد	PROPN	N_IANM	Number=Sing	29	obl:arg	_	_
 27	جامع	جامع	PROPN	ADJ_AJP	_	26	flat:name	_	_
 28	اجتماع	اجتماع	NOUN	N_IANM	Number=Sing	29	compound:lvc	_	_
-29	کرده	کرد#کن	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
-30	بودند	بود#باش	AUX	AUX	Number=Plur|Person=3|Tense=Past	29	aux	_	SpaceAfter=No
+29	کرده	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	OrigLemma=کرد#کن
+30	بودند	بود	AUX	AUX	Number=Plur|Person=3|Tense=Past	29	aux	_	OrigLemma=بود#باش|SpaceAfter=No
 31	.	.	PUNCT	PUNC	_	29	punct	_	_
 
 ~~~

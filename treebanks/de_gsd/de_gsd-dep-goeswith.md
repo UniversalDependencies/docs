@@ -22,7 +22,7 @@ The following 1 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 10 goeswith	color:blue
-1	Die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+1	Die	der	DET	ART	Case=Nom|Definite=Def|Number=Plur|PronType=Art	7	det	_	_
 2	großen	groß	ADJ	ADJA	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	7	amod	_	_
 3	Ist	sein	AUX	VAINF	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	compound	_	NamedEntity=Yes|SpaceAfter=No
 4	-	-	PUNCT	$(	_	5	punct	_	SpaceAfter=No
@@ -33,11 +33,11 @@ The following 1 pairs of parts of speech are connected with `goeswith`: <tt><a h
 9	-	_	X	$(	_	8	goeswith	_	_
 10	den	_	X	ART	_	8	goeswith	_	_
 11	durch	durch	ADP	APPR	_	13	case	_	_
-12	eine	ein	DET	ART	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+12	eine	ein	DET	ART	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|NumType=Card|PronType=Art	13	det	_	_
 13	Balkenanzeige	Balkenanzeige	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	14	obl	_	_
 14	unterstützt	unterstützen	VERB	VVPP	VerbForm=Part	0	root	_	SpaceAfter=No
 15	,	,	PUNCT	$,	_	23	punct	_	_
-16	die	der	PRON	PRELS	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	23	nsubj	_	_
+16	die	der	PRON	PRELS	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem,Rel	23	nsubj	_	_
 17	zusätzlich	zusätzlich	ADJ	ADJD	Degree=Pos	23	advmod	_	_
 18	farblich	farblich	ADJ	ADJD	Degree=Pos	23	advmod	_	_
 19	das	der	DET	ART	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	20	det	_	_

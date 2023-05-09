@@ -22,14 +22,14 @@ The following 42 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 7 nsubj	color:blue
-1	torej	torej	CCONJ	Cc	_	4	cc	_	word=torej|msd=Vp
-2	za	za	ADP	Si	Case=Ins	3	case	_	word=za|msd=Do
-3	istrabenzom	Istrabenz	PROPN	Npmsi	Case=Ins|Gender=Masc|Number=Sing	4	obl	_	word=Istrabenzom|msd=Slmeo
-4	je	biti	VERB	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	word=je|msd=Gp-ste-n
-5	eno	en	NUM	Mlpnsn	Case=Nom|Gender=Neut|Number=Sing|NumForm=Word|NumType=Card	7	nummod	_	word=eno|msd=Kbzsei
-6	eee	eee	INTJ	I	_	7	discourse:filler	_	word=eee|msd=M
-7	obdobje	obdobje	NOUN	Ncnsn	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	word=obdobje|msd=Sosei
-8	rasti	rast	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	word=rasti|msd=Sozer
+1	torej	torej	CCONJ	Cc	_	4	cc	_	pronunciation=torej
+2	za	za	ADP	Si	Case=Ins	3	case	_	pronunciation=za
+3	istrabenzom	Istrabenz	PROPN	Npmsi	Case=Ins|Gender=Masc|Number=Sing	4	obl	_	pronunciation=Istrabenzom
+4	je	biti	VERB	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=je
+5	eno	en	NUM	Mlpnsn	Case=Nom|Gender=Neut|Number=Sing|NumForm=Word|NumType=Card	7	nummod	_	pronunciation=eno
+6	eee	eee	INTJ	I	_	7	discourse:filler	_	pronunciation=eee
+7	obdobje	obdobje	NOUN	Ncnsn	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	pronunciation=obdobje
+8	rasti	rast	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	pronunciation=rasti
 
 ~~~
 
@@ -40,17 +40,17 @@ The following 42 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 4 nsubj	color:blue
-1	in	in	CCONJ	Cc	_	10	cc	_	word=in|msd=Vp
-2	tako	tako	ADV	Rgp	Degree=Pos	6	advmod	_	word=tako|msd=Rsn
-3	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	aux	_	word=so|msd=Gp-stm-n
-4	oni	on	PRON	Pp3mpn	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	word=oni|msd=Zotmmi
-5	nekako	nekako	ADV	Rgp	Degree=Pos	6	advmod	_	word=nekako|msd=Rsn
-6	izvabili	izvabiti	VERB	Vmep-pm	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	word=izvabili|msd=Ggdd-mm
-7	ven	ven	ADV	Rgp	Degree=Pos	6	advmod	_	word=ven|msd=Rsn
-8	resnico	resnica	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	word=resnico|msd=Sozet
-9	oziroma	oziroma	CCONJ	Cc	_	10	cc	_	word=oziroma|msd=Vp
-10	odkrili	odkriti	VERB	Vmep-pm	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	6	conj	_	word=odkrili|msd=Ggdd-mm
-11	laž	laž	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	10	obj	_	word=laž|msd=Sozet
+1	in	in	CCONJ	Cc	_	10	cc	_	pronunciation=in
+2	tako	tako	ADV	Rgp	Degree=Pos	6	advmod	_	pronunciation=tako
+3	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	aux	_	pronunciation=so
+4	oni	on	PRON	Pp3mpn	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	pronunciation=oni
+5	nekako	nekako	ADV	Rgp	Degree=Pos	6	advmod	_	pronunciation=nekako
+6	izvabili	izvabiti	VERB	Vmep-pm	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	pronunciation=izvabili
+7	ven	ven	ADV	Rgp	Degree=Pos	6	advmod	_	pronunciation=ven
+8	resnico	resnica	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	pronunciation=resnico
+9	oziroma	oziroma	CCONJ	Cc	_	10	cc	_	pronunciation=oziroma
+10	odkrili	odkriti	VERB	Vmep-pm	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	6	conj	_	pronunciation=odkrili
+11	laž	laž	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	10	obj	_	pronunciation=laž
 
 ~~~
 
@@ -61,8 +61,8 @@ The following 42 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 nsubj	color:blue
-1	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	_	word=to|msd=Zk-sei
-2	bo	biti	VERB	Va-f3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	0	root	_	word=bo|msd=Gp-pte-n
+1	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	_	pronunciation=to
+2	bo	biti	VERB	Va-f3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	0	root	_	pronunciation=bo
 
 ~~~
 

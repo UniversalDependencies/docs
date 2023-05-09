@@ -11,8 +11,8 @@ There are also 2 other language-specific subtypes of `csubj`: <tt><a href="vi_vt
 
 10 nodes (0%) are attached to their parents as `csubj:pass`.
 
-8 instances of `csubj:pass` (80%) are right-to-left (child precedes parent).
-Average distance between parent and child is 7.2.
+9 instances of `csubj:pass` (90%) are right-to-left (child precedes parent).
+Average distance between parent and child is 7.4.
 
 The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (5; 50% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (4; 40% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt> (1; 10% instances).
 

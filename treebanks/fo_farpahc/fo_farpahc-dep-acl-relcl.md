@@ -23,7 +23,7 @@ The following 45 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 # visual-style 2	fgColor:white
 # visual-style 2 5 acl:relcl	color:blue
 1	Og	_	CCONJ	CONJ	_	10	cc	_	_
-2	fólkið	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	10	obj	_	_
+2	fólkið	_	NOUN	N-A	Case=Acc|Definite=Def|Number=Sing	10	obj	_	_
 3	sum	_	SCONJ	C	_	5	mark	_	_
 4	teir	_	PRON	PRO-N	Case=Nom	5	nsubj	_	_
 5	træla	_	VERB	VBPI	Mood=Ind|Tense=Pres	2	acl:relcl	_	_
@@ -73,7 +73,7 @@ The following 45 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 2	var	_	VERB	BEDI	Mood=Ind|Tense=Past	0	root	_	_
 3	tann	_	DET	D-N	Case=Nom	2	nsubj	_	_
 4	av	_	ADP	P	_	5	case	_	_
-5	profetunum	_	NOUN	NS-D	Case=Dat|Definite=Ind|Number=Plur	3	obl	_	SpaceAfter=No
+5	profetunum	_	NOUN	NS-D	Case=Dat|Definite=Def|Number=Plur	3	obl	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	5	punct	_	_
 7	sum	_	SCONJ	C	_	11	mark	_	_
 8	fedrar	_	NOUN	NS-N	Case=Nom|Definite=Ind|Number=Plur	11	nsubj	_	_

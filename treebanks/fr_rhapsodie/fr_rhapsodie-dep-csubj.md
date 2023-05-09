@@ -23,7 +23,7 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 12 csubj	color:blue
-1	XXX	XXX	X	_	_	3	dep	_	Overlap=Rhap_D2007-84|Scrap=Yes|SpaceAfter=No
+1	XXX	XXX	X	_	_	3	dep	_	ExtPos=X|Overlap=Rhap_D2007-84|Scrap=Yes|SpaceAfter=No
 2	,	,	PUNCT	_	_	3	punct	_	Overlap=Rhap_D2007-84
 3	ah	ah	INTJ	_	_	8	discourse	_	Overlap=Rhap_D2007-84|SpaceAfter=No
 4	,	,	PUNCT	_	_	8	punct	_	Overlap=Rhap_D2007-84

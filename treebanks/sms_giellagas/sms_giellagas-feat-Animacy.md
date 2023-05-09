@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Skolt_Sami-Giellagas: Features: `Animacy`
 
-This feature is universal but the values `Hum` are language-specific.
+This feature is universal.
 It occurs with 1 different values: `Hum`.
 
 115 tokens (4%) have a non-empty value of `Animacy`.
@@ -16,14 +16,14 @@ The feature is used with 2 part-of-speech tags: <tt><a href="sms_giellagas-pos-N
 
 ### `NOUN`
 
-105 <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> tokens (27% of all `NOUN` tokens) have a non-empty value of `Animacy`.
+105 <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> tokens (26% of all `NOUN` tokens) have a non-empty value of `Animacy`.
 
 The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (96; 91%), <tt><a href="sms_giellagas-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (82; 78%), <tt><a href="sms_giellagas-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (82; 78%), <tt><a href="sms_giellagas-feat-Case.html">Case</a></tt><tt>=Nom</tt> (74; 70%).
 
 `NOUN` tokens may have the following values of `Animacy`:
 
 * `Hum` (105; 100% of non-empty `Animacy`): <em>ooumaž, nijdd, ääkka, eččad, niõđ, kaavân, kåʹddpäärnaž, ääkkaž, jeäʹnn, jeäʹnnes</em>
-* `EMPTY` (289): <em>tueʹllj, mieʹccest, heävaš, stäʹlmmstääll, niõđâž, vuâra, Peʹll, källsaž, muõrid, tieʹrmes</em>
+* `EMPTY` (296): <em>tueʹllj, mieʹccest, heävaš, stäʹlmmstääll, vuâra, niõđâž, Peʹll, källsaž, muõrid, tieʹrmes</em>
 
 `Animacy` seems to be **lexical feature** of `NOUN`. 100% lemmas (18) occur only with one value of `Animacy`.
 

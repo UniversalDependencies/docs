@@ -67,7 +67,7 @@ The 10 most frequent ambiguous types:  <em>și</em> (<tt><a href="ro_nonstandard
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.675000 (the average of all parts of speech is 2.492163).
+The form / lemma ratio of `CCONJ` is 1.675000 (the average of all parts of speech is 2.491875).
 
 The 1st highest number of forms (17) was observed with the lemma “și”: <em>$i, -Și, S, Si-, i, s-, si, Şî, ş-, şi, şi-, Șî, ș, ș-, și, și-, șâ</em>.
 

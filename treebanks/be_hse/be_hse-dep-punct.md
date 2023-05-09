@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-56994 nodes (19%) are attached to their parents as `punct`.
+56997 nodes (19%) are attached to their parents as `punct`.
 
-30546 instances of `punct` (54%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.6699126223813.
+30547 instances of `punct` (54%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.66980718283418.
 
-The following 17 pairs of parts of speech are connected with `punct`: <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> (25243; 44% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> (16385; 29% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> (4245; 7% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> (3656; 6% instances), <tt><a href="be_hse-pos-X.html">X</a></tt>-<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> (3286; 6% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> (1413; 2% instances), <tt><a href="be_hse-pos-NUM.html">NUM</a></tt>-<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> (1212; 2% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> (674; 1% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt>-<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> (281; 0% instances), <tt><a href="be_hse-pos-PART.html">PART</a></tt>-<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> (181; 0% instances), <tt><a href="be_hse-pos-SYM.html">SYM</a></tt>-<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> (135; 0% instances), <tt><a href="be_hse-pos-INTJ.html">INTJ</a></tt>-<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> (98; 0% instances), <tt><a href="be_hse-pos-AUX.html">AUX</a></tt>-<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> (73; 0% instances), <tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> (44; 0% instances), <tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> (34; 0% instances), <tt><a href="be_hse-pos-ADP.html">ADP</a></tt>-<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> (19; 0% instances), <tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> (15; 0% instances).
+The following 17 pairs of parts of speech are connected with `punct`: <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> (25246; 44% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> (16427; 29% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> (4206; 7% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> (3656; 6% instances), <tt><a href="be_hse-pos-X.html">X</a></tt>-<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> (3286; 6% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> (1411; 2% instances), <tt><a href="be_hse-pos-NUM.html">NUM</a></tt>-<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> (1213; 2% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> (674; 1% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt>-<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> (279; 0% instances), <tt><a href="be_hse-pos-PART.html">PART</a></tt>-<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> (181; 0% instances), <tt><a href="be_hse-pos-SYM.html">SYM</a></tt>-<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> (135; 0% instances), <tt><a href="be_hse-pos-INTJ.html">INTJ</a></tt>-<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> (98; 0% instances), <tt><a href="be_hse-pos-AUX.html">AUX</a></tt>-<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> (73; 0% instances), <tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> (44; 0% instances), <tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> (34; 0% instances), <tt><a href="be_hse-pos-ADP.html">ADP</a></tt>-<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> (19; 0% instances), <tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> (15; 0% instances).
 
 
 ~~~ conllu
@@ -22,13 +22,13 @@ The following 17 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 2 punct	color:blue
-1	Эштан	Эштан	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	SpaceAfter=No
+1	Эштан	Эштан	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Sur|Number=Sing	0	root	0:root	SpaceAfter=No
 2	:	:	PUNCT	PUNCT	_	4	punct	4:punct	_
-3	ЕС	ЕС	PROPN	NNP	Abbr=Yes	4	nsubj	4:nsubj	_
+3	ЕС	ЕС	PROPN	NNP	Abbr=Yes|NameType=Com	4	nsubj	4:nsubj	_
 4	пасылае	пасылаць	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	1:parataxis	_
 5	ясны	ясны	ADJ	JJL	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	6	amod	6:amod	_
 6	сігнал	сігнал	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	4:obj	_
-7	Беларусі	Беларусь	PROPN	NNP	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	4	iobj	4:iobj	_
+7	Беларусі	Беларусь	PROPN	NNP	Animacy=Inan|Case=Dat|Gender=Fem|NameType=Geo|Number=Sing	4	iobj	4:iobj	_
 
 ~~~
 
@@ -61,7 +61,7 @@ The following 17 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 punct	color:blue
-1	Менск	Менск	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	SpaceAfter=No
+1	Менск	Менск	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Geo|Number=Sing	0	root	0:root	SpaceAfter=No
 2	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
 
 ~~~

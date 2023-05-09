@@ -17,47 +17,53 @@ The following 28 pairs of parts of speech are connected with `fixed`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 fixed	color:blue
-1	e	e	CCONJ	_	_	3	cc	_	_
-2	São	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
-3	constantes	constante	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
-4	em	em	ADP	_	_	8	case	_	MWEPOS=ADP
-5	função	função	NOUN	_	Gender=Fem|Number=Sing	4	fixed	_	_
-6	de	de	ADP	_	_	4	fixed	_	_
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 12 fixed	color:blue
+1	Em	em	ADP	_	_	3	case	_	_
+2	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	Figura	figura	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+4	4.15	4.15	NUM	_	NumType=Card	3	nummod	_	_
+5	tem	ter	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Se=impers
+6	se	se	PRON	_	PronType=Prs	5	expl:impers	_	_
 7	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
-8	viscosidade	viscosidade	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
-9	de	de	ADP	_	_	11	case	_	_
-10	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
-11	fluido	fluido	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	3	punct	_	_
+8	invasão	invasão	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	fluido	fluido	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	_
+11	em	em	ADP	_	_	15	case	_	MWEPOS=ADP
+12	função	função	NOUN	_	Gender=Fem|Number=Sing	11	fixed	_	_
+13	de	de	ADP	_	_	11	fixed	_	_
+14	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	tempo	tempo	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 10 fixed	color:blue
-1	É	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
-2	visível	visível	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
-3	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
-4	queda	queda	NOUN	_	Gender=Fem|Number=Sing	2	nsubj	_	_
-5	de	de	ADP	_	_	7	case	_	_
-6	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
-7	produção	produção	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
-8	a	a	ADP	_	_	12	case	_	MWEPOS=ADP
-9	partir	partir	VERB	_	VerbForm=Inf	8	fixed	_	_
-10	de	de	ADP	_	_	8	fixed	_	_
-11	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
-12	ano	ano	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
-13	2002	2002	NUM	_	NumType=Card	12	nummod	_	SpaceAfter=No
-14	.	.	PUNCT	_	_	2	punct	_	_
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 13 fixed	color:blue
+1	Em	em	ADP	_	_	3	case	_	_
+2	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	Figura	figura	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+4	4.15	4.15	NUM	_	NumType=Card	3	nummod	_	_
+5	tem	ter	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Se=impers
+6	se	se	PRON	_	PronType=Prs	5	expl:impers	_	_
+7	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	invasão	invasão	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	fluido	fluido	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	_
+11	em	em	ADP	_	_	15	case	_	MWEPOS=ADP
+12	função	função	NOUN	_	Gender=Fem|Number=Sing	11	fixed	_	_
+13	de	de	ADP	_	_	11	fixed	_	_
+14	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	tempo	tempo	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
 

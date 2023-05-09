@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Romanian-Nonstandard: POS Tags: `AUX`
 
 There are 6 `AUX` lemmas (0%), 226 `AUX` types (1%) and 31926 `AUX` tokens (6%).
-Out of 16 observed tags, the rank of `AUX` is: 15 in number of lemmas, 10 in number of types and 8 in number of tokens.
+Out of 16 observed tags, the rank of `AUX` is: 16 in number of lemmas, 10 in number of types and 8 in number of tokens.
 
 The 10 most frequent `AUX` lemmas: <em>avea, fi, vrea, putea, trebui, ști</em>
 
@@ -62,7 +62,7 @@ The 10 most frequent ambiguous types:  <em>au</em> (<tt><a href="ro_nonstandard-
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 37.666667 (the average of all parts of speech is 2.492163).
+The form / lemma ratio of `AUX` is 37.666667 (the average of all parts of speech is 2.491875).
 
 The 1st highest number of forms (98) was observed with the lemma “fi”: <em>-e, -i, -s, -su, -ă, E-, Nefiindu, e, easte, era, erai, eram, erau, erați, erea, eream, este, esti, estă, eşti, ești, fi, fi-, fie, fie-, fii, fiie, fiind, fiindu, fim, fimu, fir-, fire, fire-, fireți, fiu, fiţi, fiț, fiți, fost, fostu, fu, fui, fuiu, fum, fură, fuse, fuses-, fusese, fusesem, fusesie, fusesă, fuset, fuseș, fuseși, fusăsă, fîindu, hi, hie, hii, hiind, him, hire, hiu, hiț, hiți, i, i-, iaste, iaște, iera, ieste, ii, nefiind, nefind, s, sem, simtem, simteți, sint, sintem, sinteți, sintu, sunt, suntem, sunteți, suntu, sânt, sântem, sânteți, sînt, sîntem, sînteț, sînteți, sîntu, îi, îs, еrа</em>.
 

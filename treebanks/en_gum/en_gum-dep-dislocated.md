@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-34 nodes (0%) are attached to their parents as `dislocated`.
+48 nodes (0%) are attached to their parents as `dislocated`.
 
-24 instances of `dislocated` (71%) are right-to-left (child precedes parent).
-Average distance between parent and child is 8.11764705882353.
+36 instances of `dislocated` (75%) are right-to-left (child precedes parent).
+Average distance between parent and child is 9.25.
 
-The following 16 pairs of parts of speech are connected with `dislocated`: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (8; 24% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (4; 12% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (4; 12% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (2; 6% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-DET.html">DET</a></tt> (2; 6% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (2; 6% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (2; 6% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (2; 6% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (1; 3% instances).
+The following 18 pairs of parts of speech are connected with `dislocated`: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (13; 27% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (5; 10% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (4; 8% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (4; 8% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (4; 8% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-DET.html">DET</a></tt> (3; 6% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (2; 4% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (2; 4% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (2; 4% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -47,15 +47,15 @@ The following 16 pairs of parts of speech are connected with `dislocated`: <tt><
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 2 dislocated	color:blue
-1	Or	or	CCONJ	CC	_	2	cc	2:cc	Discourse=joint-disjunction_m:240->239:2
-2	ponies	pony	NOUN	NNS	Number=Plur	9	dislocated	9:dislocated	Entity=(119-animal-new-cf1-1-coref)|SpaceAfter=No
+1	Or	or	CCONJ	CC	_	2	cc	2:cc	Discourse=joint-disjunction_m:239->238:2
+2	ponies	pony	NOUN	NNS	Number=Plur	9	dislocated	9:dislocated	Entity=(118-animal-new-cf1-1-coref)|SpaceAfter=No
 3	,	,	PUNCT	,	_	2	punct	2:punct	_
-4	that	that	PRON	DT	Number=Sing|PronType=Dem	9	nsubj	9:nsubj	Entity=(119-animal-giv:act-cf1-1-ana)
+4	that	that	PRON	DT	Number=Sing|PronType=Dem	9	nsubj	9:nsubj	Entity=(118-animal-giv:act-cf1-1-ana)
 5	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	9:cop	_
-6	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	9:det	Entity=(119-animal-giv:act-cf1-4-coref
+6	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	9:det	Entity=(118-animal-giv:act-cf1-4-coref
 7	whole	whole	ADJ	JJ	Degree=Pos	9	amod	9:amod	_
 8	different	different	ADJ	JJ	Degree=Pos	9	amod	9:amod	_
-9	thing	thing	NOUN	NN	Number=Sing	0	root	0:root	Entity=119)|SpaceAfter=No
+9	thing	thing	NOUN	NN	Number=Sing	0	root	0:root	Entity=118)|SpaceAfter=No
 10	.	.	PUNCT	.	_	9	punct	9:punct	_
 
 ~~~
@@ -67,12 +67,12 @@ The following 16 pairs of parts of speech are connected with `dislocated`: <tt><
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 dislocated	color:blue
-1	Method	method	NOUN	NN	Number=Sing	0	root	0:root	Discourse=organization-preparation:13->14:0|Entity=(14-abstract-new-cf2-1-sgl
+1	Method	method	NOUN	NN	Number=Sing	0	root	0:root	Discourse=organization-preparation:15->16:0|Entity=(14-abstract-new-cf2-1-sgl
 2	One	one	NUM	CD	NumForm=Word|NumType=Card	1	dislocated	1:dislocated	_
 3	of	of	ADP	IN	_	4	case	4:case	_
 4	Two	two	NUM	CD	NumForm=Word|NumType=Card	1	nmod	1:nmod:of	Entity=(15-abstract-new-cf3-1-coref)14)|SpaceAfter=No
 5	:	:	PUNCT	:	_	6	punct	6:punct	_
-6	Hypnotizing	hypnotize	VERB	VBG	VerbForm=Ger	1	appos	1:appos	Discourse=organization-heading:14->15:4|XML=<hi rend:::"bold">
+6	Hypnotizing	hypnotize	VERB	VBG	VerbForm=Ger	1	appos	1:appos	Discourse=organization-heading:16->17:4|XML=<hi rend:::"bold">
 7	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	8:det	Entity=(2-animal-giv:inact-cf1-2-coref
 8	Chicken	chicken	NOUN	NN	Number=Sing	6	obj	6:obj	Entity=2)|XML=</hi>
 

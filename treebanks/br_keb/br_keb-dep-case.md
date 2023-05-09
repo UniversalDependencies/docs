@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-974 nodes (10%) are attached to their parents as `case`.
+973 nodes (10%) are attached to their parents as `case`.
 
-973 instances of `case` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.56878850102669.
+972 instances of `case` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.56628982528263.
 
-The following 11 pairs of parts of speech are connected with `case`: <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> (665; 68% instances), <tt><a href="br_keb-pos-PRON.html">PRON</a></tt>-<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> (120; 12% instances), <tt><a href="br_keb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> (95; 10% instances), <tt><a href="br_keb-pos-NUM.html">NUM</a></tt>-<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> (54; 6% instances), <tt><a href="br_keb-pos-VERB.html">VERB</a></tt>-<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> (16; 2% instances), <tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> (12; 1% instances), <tt><a href="br_keb-pos-DET.html">DET</a></tt>-<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> (6; 1% instances), <tt><a href="br_keb-pos-ADV.html">ADV</a></tt>-<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="br_keb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="br_keb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="br_keb-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="br_keb-pos-SYM.html">SYM</a></tt>-<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `case`: <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> (664; 68% instances), <tt><a href="br_keb-pos-PRON.html">PRON</a></tt>-<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> (120; 12% instances), <tt><a href="br_keb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> (94; 10% instances), <tt><a href="br_keb-pos-NUM.html">NUM</a></tt>-<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> (54; 6% instances), <tt><a href="br_keb-pos-VERB.html">VERB</a></tt>-<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> (16; 2% instances), <tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> (12; 1% instances), <tt><a href="br_keb-pos-DET.html">DET</a></tt>-<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> (7; 1% instances), <tt><a href="br_keb-pos-ADV.html">ADV</a></tt>-<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="br_keb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="br_keb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="br_keb-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="br_keb-pos-SYM.html">SYM</a></tt>-<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

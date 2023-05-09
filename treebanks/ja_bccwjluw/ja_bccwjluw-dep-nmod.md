@@ -22,7 +22,7 @@ The following 64 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 5 nmod	color:blue
-1	_	_	NOUN	_	_	9	dep	_	BBIL=B|BPT=4|SpaceAfter=Yes|UI=29306
+1	_	_	NOUN	_	_	9	dep	_	BBIL=B|BPT=4|UI=29306
 2	_	_	NOUN	_	_	4	obl	_	BBIL=B|BPT=0|SpaceAfter=No|UI=3524
 3	_	_	ADP	_	_	2	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=5
 4	_	_	VERB	_	_	9	acl	_	BBIL=B|BPT=0|SpaceAfter=No|UI=514

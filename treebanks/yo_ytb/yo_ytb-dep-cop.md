@@ -53,7 +53,7 @@ The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="
 12	àpẹẹrẹ	àpẹẹrẹ	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	9	nmod	_	_
 13	òòṣà	òòṣà	NOUN	_	_	12	nmod	_	_
 14	Olokun	Olokun	NOUN	_	_	13	nmod	_	SpaceAfter=No
-15	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\s\n\n
+15	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 
@@ -86,7 +86,7 @@ The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="
 20	to	to	ADV	_	_	22	advmod	_	_
 21	jẹ	jẹ́	AUX	_	_	22	cop	_	_
 22	2	2	NUM	_	NumType=Card	16	conj	_	SpaceAfter=No
-23	.	.	PUNCT	_	_	8	punct	_	SpacesAfter=\n\n
+23	.	.	PUNCT	_	_	8	punct	_	_
 
 ~~~
 

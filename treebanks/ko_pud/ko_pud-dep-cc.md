@@ -36,7 +36,7 @@ The following 3 pairs of parts of speech are connected with `cc`: <tt><a href="k
 12	있는	_	ADJ	JJ	Form=Adn	13	dep	_	Translit=.iss.neun
 13	것	_	NOUN	NNB	_	14	obl	_	Translit=.geos
 14	같지	_	ADJ	JJ	Form=Aux	16	advcl	_	Translit=.gat.ji
-15	않다고	_	AUX	JX+QP	Mood=Ind|VerbForm=Fin	14	aux	_	MSeg=않다-고|Translit=.anh.da.go
+15	않다고	않	AUX	JX+QP	Mood=Ind|VerbForm=Fin	14	aux	_	MSeg=않다-고|Translit=.anh.da.go|LTranslit=.anh
 16	말했다	_	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=.mal.haess.da
 17	.	.	PUNCT	.	_	16	punct	_	Translit=.|LTranslit=.
 

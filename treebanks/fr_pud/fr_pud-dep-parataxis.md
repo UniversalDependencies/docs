@@ -47,7 +47,7 @@ The following 11 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 3	fgColor:white
 # visual-style 3 10 parataxis	color:blue
 1	D’	de	ADP	IN	_	2	case	_	SpaceAfter=No|wordform=d'
-2	où	où	ADV	WRB	_	3	obl	_	_
+2	où	où	PRON	WP	PronType=Int	3	obl	_	_
 3	vient	venir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	toute	tout	ADJ	PDT	Gender=Fem|Number=Sing	6	amod	_	_
 5	son	son	DET	DTP$	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Poss=Yes|PronType=Prs	6	det	_	_

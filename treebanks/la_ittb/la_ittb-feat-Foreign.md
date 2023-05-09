@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (2; 100% of non-empty `Foreign`): <em>alpha, omega</em>
-* `EMPTY` (90279): <em>forma, esse, intellectus, formam, formae, materia, anima, potentia, homo, corpus</em>
+* `EMPTY` (90247): <em>forma, esse, intellectus, formam, formae, materia, anima, potentia, homo, corpus</em>
 
 ## Relations with Agreement in `Foreign`
 

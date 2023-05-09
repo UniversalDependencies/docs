@@ -13,7 +13,7 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 
 1448 tokens (14%) have a non-empty value of `Number`.
 491 types (20%) occur at least once with a non-empty value of `Number`.
-387 lemmas (24%) occur at least once with a non-empty value of `Number`.
+386 lemmas (24%) occur at least once with a non-empty value of `Number`.
 The feature is used with 5 part-of-speech tags: <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (1129; 11% instances), <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> (252; 2% instances), <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt> (52; 1% instances), <tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt> (11; 0% instances), <tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt> (4; 0% instances).
 
 ### `NOUN`

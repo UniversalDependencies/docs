@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fut`, `Past`, `Pres`.
 
-1342 tokens (13%) have a non-empty value of `Tense`.
+1339 tokens (13%) have a non-empty value of `Tense`.
 435 types (18%) occur at least once with a non-empty value of `Tense`.
 194 lemmas (11%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="br_keb-pos-AUX.html">AUX</a></tt> (686; 7% instances), <tt><a href="br_keb-pos-VERB.html">VERB</a></tt> (656; 7% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="br_keb-pos-AUX.html">AUX</a></tt> (684; 7% instances), <tt><a href="br_keb-pos-VERB.html">VERB</a></tt> (655; 7% instances).
 
 ### `AUX`
 
-686 <tt><a href="br_keb-pos-AUX.html">AUX</a></tt> tokens (52% of all `AUX` tokens) have a non-empty value of `Tense`.
+684 <tt><a href="br_keb-pos-AUX.html">AUX</a></tt> tokens (51% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="br_keb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (618; 90%), <tt><a href="br_keb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (560; 82%), <tt><a href="br_keb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (557; 81%), <tt><a href="br_keb-feat-Person.html">Person</a></tt><tt>=3</tt> (531; 77%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="br_keb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (617; 90%), <tt><a href="br_keb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (559; 82%), <tt><a href="br_keb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (556; 81%), <tt><a href="br_keb-feat-Person.html">Person</a></tt><tt>=3</tt> (530; 77%).
 
 `AUX` tokens may have the following values of `Tense`:
 
 * `Fut` (94; 14% of non-empty `Tense`): <em>vo, rin, raio, ranko, c'hellin, c'helloc'h, he do, raint, reoc'h, reot</em>
-* `Past` (188; 27% of non-empty `Tense`): <em>oa, bet, voe, reas, veze, en doa, o doa, graet, raent, oant</em>
-* `Pres` (404; 59% of non-empty `Tense`): <em>eo, zo, vez, ra, en deus, emañ, ran, he deus, o deus, am eus</em>
-* `EMPTY` (646): <em>a, e, o, en, bezañ, na, vefe, ', ez, vezañ</em>
+* `Past` (187; 27% of non-empty `Tense`): <em>oa, bet, voe, reas, veze, en doa, o doa, graet, raent, oant</em>
+* `Pres` (403; 59% of non-empty `Tense`): <em>eo, zo, vez, ra, en deus, emañ, ran, he deus, o deus, am eus</em>
+* `EMPTY` (645): <em>a, e, o, en, bezañ, na, vefe, ', ez, vezañ</em>
 
 <table>
   <tr><th>Paradigm <i>bezañ</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th></tr>
@@ -46,16 +46,16 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 ### `VERB`
 
-656 <tt><a href="br_keb-pos-VERB.html">VERB</a></tt> tokens (60% of all `VERB` tokens) have a non-empty value of `Tense`.
+655 <tt><a href="br_keb-pos-VERB.html">VERB</a></tt> tokens (60% of all `VERB` tokens) have a non-empty value of `Tense`.
 
 The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="br_keb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (397; 61%), <tt><a href="br_keb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (383; 58%), <tt><a href="br_keb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (366; 56%), <tt><a href="br_keb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (366; 56%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Fut` (69; 11% of non-empty `Tense`): <em>zeuy, gavo, yelo, gavint, teuio, kavo, chomo, in, vo, brenin</em>
-* `Past` (423; 64% of non-empty `Tense`): <em>kinniget, graet, gouestlet, lennet, aozet, kavet, deuet, lakaet, savet, aet</em>
-* `Pres` (164; 25% of non-empty `Tense`): <em>ra, lennont, wel, ya, c'haller, eo, fell, labour, sav, blij</em>
-* `EMPTY` (446): <em>dont, ober, labourat, vont, kinnig, chom, debriñ, gwelout, kanañ, Kerzhout</em>
+* `Past` (423; 65% of non-empty `Tense`): <em>kinniget, graet, gouestlet, lennet, aozet, kavet, deuet, gwelet, lakaet, savet</em>
+* `Pres` (163; 25% of non-empty `Tense`): <em>ra, wel, ya, c'haller, eo, fell, labour, lennont, sav, blij</em>
+* `EMPTY` (442): <em>dont, ober, labourat, vont, kinnig, chom, debriñ, kanañ, Kerzhout, gwelet</em>
 
 <table>
   <tr><th>Paradigm <i>dont</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th></tr>

@@ -44,7 +44,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (3; 23% of non-empty `Person`): <em>ihẽ, jane</em>
 * `2` (2; 15% of non-empty `Person`): <em>neke, nekeã</em>
 * `3` (8; 62% of non-empty `Person`): <em>aʔe, ipe, ngā, ngã</em>
-* `EMPTY` (50): <em>ihẽ, ihē, ihẽke, aʔe, ne, neke, aʔeke, a’eta, Peteĩ, a’etake</em>
+* `EMPTY` (49): <em>ihẽ, ihē, ihẽke, aʔe, ne, neke, aʔeke, a’eta, a’etake, nde</em>
 
 ### `NOUN`
 
@@ -73,8 +73,9 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="urb_tudet-dep-compound.html">compound</a></tt>]--> VERB</tt> (2; 100%),
-<tt>VERB --[<tt><a href="urb_tudet-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (2; 100%),
+<tt>VERB --[<tt><a href="urb_tudet-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (2; 100%),
+<tt>VERB --[<tt><a href="urb_tudet-dep-compound.html">compound</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="urb_tudet-dep-conj.html">conj</a></tt>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<tt><a href="urb_tudet-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<tt><a href="urb_tudet-dep-dep.html">dep</a></tt>]--> VERB</tt> (1; 100%),
+<tt>VERB --[<tt><a href="urb_tudet-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (1; 100%).
 

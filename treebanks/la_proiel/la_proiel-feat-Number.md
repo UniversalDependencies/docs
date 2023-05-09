@@ -9,42 +9,42 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-134281 tokens (67%) have a non-empty value of `Number`.
-26977 types (92%) occur at least once with a non-empty value of `Number`.
-7512 lemmas (89%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt> (40361; 20% instances), <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (36189; 18% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (18506; 9% instances), <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> (16814; 8% instances), <tt><a href="la_proiel-pos-DET.html">DET</a></tt> (7861; 4% instances), <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (7094; 4% instances), <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt> (6422; 3% instances), <tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> (1034; 1% instances).
+137720 tokens (67%) have a non-empty value of `Number`.
+27476 types (92%) occur at least once with a non-empty value of `Number`.
+7614 lemmas (89%) occur at least once with a non-empty value of `Number`.
+The feature is used with 8 part-of-speech tags: <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt> (41197; 20% instances), <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (37026; 18% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (25410; 12% instances), <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> (11415; 6% instances), <tt><a href="la_proiel-pos-DET.html">DET</a></tt> (7688; 4% instances), <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (7284; 4% instances), <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt> (6643; 3% instances), <tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> (1057; 1% instances).
 
 ### `NOUN`
 
-40361 <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
+41197 <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Number`.
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (12344; 31% of non-empty `Number`): <em>fratres, rebus, homines, hominum, diebus, discipuli, dies, litteras, locis, castra</em>
-* `Sing` (28017; 69% of non-empty `Number`): <em>dei, deus, die, deo, domini, filius, re, deum, dominus, causa</em>
-* `EMPTY` (76): <em>pascha, rabbi, semis, fas, manna, Alpha, Omega, caracter, instar, rabboni</em>
+* `Plur` (12556; 30% of non-empty `Number`): <em>rebus, fratres, homines, hominum, diebus, discipuli, litteras, dies, locis, hominibus</em>
+* `Sing` (28641; 70% of non-empty `Number`): <em>dei, deus, die, deo, re, domini, filius, causa, deum, dominus</em>
+* `EMPTY` (304): <em>pascha, rabbi, semis, τὸ, fas, manna, τὸν, Alpha, Omega, κέρας</em>
 
 <table>
   <tr><th>Paradigm <i>deus</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Abl</tt></tt></td><td><em>Deo</em></td><td><em>dis</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Abl</tt></tt></td><td><em>deo</em></td><td><em>dis</em></td></tr>
   <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>deum</em></td><td><em>deos</em></td></tr>
   <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>deo</em></td><td><em>dis</em></td></tr>
   <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>dei</em></td><td><em>deorum</em></td></tr>
-  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>deus</em></td><td><em>dii, di</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>deus</em></td><td><em>di, dii</em></td></tr>
   <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Voc</tt></tt></td><td><em>Deus</em></td><td><em>di</em></td></tr>
 </table>
 
 ### `VERB`
 
-36189 <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> tokens (89% of all `VERB` tokens) have a non-empty value of `Number`.
+37026 <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> tokens (89% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (27181; 75%), <tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (27133; 75%), <tt><a href="la_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (27133; 75%), <tt><a href="la_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (27049; 75%), <tt><a href="la_proiel-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (19981; 55%), <tt><a href="la_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (19675; 54%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (27821; 75%), <tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (27772; 75%), <tt><a href="la_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (27772; 75%), <tt><a href="la_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (27624; 75%), <tt><a href="la_proiel-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (20531; 55%), <tt><a href="la_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (20087; 54%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (12367; 34% of non-empty `Number`): <em>dicentes, dixerunt, nolite, venerunt, dicebant, habent, dicunt, possent, habentes, possunt</em>
-* `Sing` (23822; 66% of non-empty `Number`): <em>dixit, ait, dicit, dico, venit, dicens, factum, habet, misit, potest</em>
-* `EMPTY` (4503): <em>facere, fieri, posse, dicere, habere, venire, videre, scire, dare, loqui</em>
+* `Plur` (12542; 34% of non-empty `Number`): <em>dicentes, dixerunt, nolite, venerunt, dicebant, habent, dicunt, possent, habentes, possunt</em>
+* `Sing` (24484; 66% of non-empty `Number`): <em>dixit, ait, dicit, venit, dico, dicens, factum, habet, potest, misit</em>
+* `EMPTY` (4800): <em>facere, fieri, posse, habere, dicere, venire, videre, scire, dare, loqui</em>
 
 <table>
   <tr><th>Paradigm <i>dico</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -110,14 +110,15 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `PRON`
 
-18506 <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Number`.
+25410 <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (13472; 73%), <tt><a href="la_proiel-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (11718; 63%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (17342; 68%), <tt><a href="la_proiel-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (12989; 51%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (6207; 34% of non-empty `Number`): <em>qui, quae, vobis, vos, nos, eos, eis, eorum, nobis, se</em>
-* `Sing` (12299; 66% of non-empty `Number`): <em>qui, me, eum, eius, quod, te, ego, mihi, quid, se</em>
+* `Plur` (9042; 36% of non-empty `Number`): <em>qui, quae, vobis, vos, nos, eos, illis, haec, eis, eorum</em>
+* `Sing` (16368; 64% of non-empty `Number`): <em>qui, me, eum, quod, te, eius, quid, ego, mihi, se</em>
+* `EMPTY` (1): <em>nihil</em>
 
 <table>
   <tr><th>Paradigm <i>qui</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -128,18 +129,21 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
   <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt>|<tt><a href="la_proiel-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td></td><td><em>quibus</em></td></tr>
   <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="la_proiel-feat-PronType.html">PronType</a></tt><tt>=Int</tt></tt></td><td><em>qua</em></td><td><em>quibus</em></td></tr>
   <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="la_proiel-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td><em>qua</em></td><td><em>quibus</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>quo</em></td><td></td></tr>
   <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="la_proiel-feat-PronType.html">PronType</a></tt><tt>=Int</tt></tt></td><td><em>quo</em></td><td><em>quibus</em></td></tr>
   <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="la_proiel-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td><em>quo</em></td><td><em>quibus</em></td></tr>
   <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_proiel-feat-PronType.html">PronType</a></tt><tt>=Int</tt></tt></td><td></td><td><em>quibus</em></td></tr>
   <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_proiel-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td></td><td><em>quibus</em></td></tr>
   <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="la_proiel-feat-PronType.html">PronType</a></tt><tt>=Int</tt></tt></td><td><em>quem</em></td><td><em>quos</em></td></tr>
-  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="la_proiel-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td><em>quem</em></td><td><em>quos</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="la_proiel-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td><em>quem</em></td><td><em>quos, quae</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>quam</em></td><td><em>quas</em></td></tr>
   <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="la_proiel-feat-PronType.html">PronType</a></tt><tt>=Int</tt></tt></td><td><em>quam</em></td><td><em>quas</em></td></tr>
-  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="la_proiel-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td><em>quam, quae, quem</em></td><td><em>quas, quae</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="la_proiel-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td><em>quam, quem, quae</em></td><td><em>quas, quae</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>quod</em></td><td><em>qua</em></td></tr>
   <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="la_proiel-feat-PronType.html">PronType</a></tt><tt>=Int</tt></tt></td><td><em>quod</em></td><td><em>quae</em></td></tr>
   <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="la_proiel-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td><em>quod, quae</em></td><td><em>quae</em></td></tr>
-  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="la_proiel-feat-PronType.html">PronType</a></tt><tt>=Int</tt></tt></td><td><em>quo</em></td><td><em>quibus</em></td></tr>
-  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="la_proiel-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td><em>cui, quoi, quo</em></td><td><em>quibus</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="la_proiel-feat-PronType.html">PronType</a></tt><tt>=Int</tt></tt></td><td><em>quo, quoi</em></td><td><em>quibus</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="la_proiel-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td><em>cui, quoi, cuique, quo</em></td><td><em>quibus</em></td></tr>
   <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="la_proiel-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td><em>cui, quoi</em></td><td><em>quibus</em></td></tr>
   <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="la_proiel-feat-PronType.html">PronType</a></tt><tt>=Int</tt></tt></td><td><em>cui</em></td><td></td></tr>
   <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="la_proiel-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td><em>cui</em></td><td><em>quibus</em></td></tr>
@@ -152,58 +156,96 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
   <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="la_proiel-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td><em>cuius</em></td><td><em>quorum</em></td></tr>
   <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_proiel-feat-PronType.html">PronType</a></tt><tt>=Int</tt></tt></td><td><em>cuius</em></td><td></td></tr>
   <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_proiel-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td><em>cuius, quoius</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>qui</em></td><td></td></tr>
   <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="la_proiel-feat-PronType.html">PronType</a></tt><tt>=Int</tt></tt></td><td><em>qui</em></td><td><em>qui</em></td></tr>
   <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="la_proiel-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td><em>qui</em></td><td><em>qui</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>quae</em></td><td></td></tr>
   <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem,Neut</tt>|<tt><a href="la_proiel-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td></td><td><em>quae</em></td></tr>
   <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="la_proiel-feat-PronType.html">PronType</a></tt><tt>=Int</tt></tt></td><td><em>quae</em></td><td><em>quae</em></td></tr>
   <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="la_proiel-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td><em>quae</em></td><td><em>quae</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td></td><td><em>qua</em></td></tr>
   <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="la_proiel-feat-PronType.html">PronType</a></tt><tt>=Int</tt></tt></td><td><em>quod</em></td><td><em>quae</em></td></tr>
   <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="la_proiel-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td><em>quod, quae</em></td><td><em>quae, QVAE</em></td></tr>
 </table>
 
 ### `ADJ`
 
-16814 <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Number`.
+11415 <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="la_proiel-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (9234; 55%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="la_proiel-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (9511; 83%).
 
 `ADJ` tokens may have the following values of `Number`:
 
-* `Plur` (6583; 39% of non-empty `Number`): <em>illis, haec, omnia, his, omnes, illos, illi, omnibus, multa, multi</em>
-* `Sing` (10231; 61% of non-empty `Number`): <em>hoc, nihil, illum, illi, ille, hic, illo, nemo, magna, illud</em>
-* `EMPTY` (15): <em>nequam, frugi</em>
+* `Plur` (4299; 38% of non-empty `Number`): <em>multa, multi, multis, mortuis, ceteris, multos, reliquis, cetera, paucis, seniores</em>
+* `Sing` (7116; 62% of non-empty `Number`): <em>magna, magno, publica, bonum, publicae, magnum, totum, maior, multa, Romani</em>
+* `EMPTY` (60): <em>nequam, frugi, Γυρέων, Εὐμολπιδῶν, Κύρου, Πολυκλέους, Τηλέπυλον, βοώπιδος, βοῶπιδος, γυμνασιώδη</em>
 
 <table>
-  <tr><th>Paradigm <i>ille</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>illo</em></td><td><em>illis</em></td></tr>
-  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt></tt></td><td><em>illo</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>illa</em></td><td><em>illis</em></td></tr>
-  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt></tt></td><td></td><td><em>illis</em></td></tr>
-  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>illo</em></td><td><em>illis</em></td></tr>
-  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>illum, illud</em></td><td><em>illos</em></td></tr>
-  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>illam</em></td><td><em>illas</em></td></tr>
-  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>illud</em></td><td><em>illa</em></td></tr>
-  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>illi, illo</em></td><td><em>illis</em></td></tr>
-  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>illi</em></td><td><em>illis</em></td></tr>
-  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>illi</em></td><td><em>illis</em></td></tr>
-  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>illius</em></td><td><em>illorum</em></td></tr>
-  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td></td><td><em>illarum</em></td></tr>
-  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td></td><td><em>illorum</em></td></tr>
-  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>ille</em></td><td><em>illi</em></td></tr>
-  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>illa</em></td><td><em>illae</em></td></tr>
-  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>illud</em></td><td><em>illa</em></td></tr>
+  <tr><th>Paradigm <i>magnus</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_proiel-feat-Degree.html">Degree</a></tt><tt>=Pos</tt></tt></td><td></td><td><em>magnis</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_proiel-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>magno</em></td><td><em>magnis</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_proiel-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt></tt></td><td><em>magno</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_proiel-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>magna</em></td><td><em>magnis</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_proiel-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>magno</em></td><td><em>magnis</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_proiel-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt></tt></td><td><em>maiore</em></td><td><em>maioribus</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_proiel-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>maiori</em></td><td><em>maioribus</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_proiel-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>maiore</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_proiel-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>maiori</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_proiel-feat-Degree.html">Degree</a></tt><tt>=Sup</tt></tt></td><td></td><td><em>maximis</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_proiel-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>maximo</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_proiel-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt></tt></td><td><em>maximo</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_proiel-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>maxima</em></td><td><em>maximis</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_proiel-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td></td><td><em>maximis</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_proiel-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>magnum</em></td><td><em>magnos</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_proiel-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt></tt></td><td><em>magnum</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_proiel-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>magnam</em></td><td><em>magnas, Maiores</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_proiel-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>magnum</em></td><td><em>magna</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_proiel-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>maiorem</em></td><td><em>maiores</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_proiel-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>maiorem</em></td><td><em>maiores</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_proiel-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt></tt></td><td><em>maiorem</em></td><td><em>maiores</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_proiel-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>maius</em></td><td><em>maiora</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_proiel-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>maximum</em></td><td><em>maximos</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_proiel-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt></tt></td><td><em>maximum</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_proiel-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>maximam</em></td><td><em>maximas</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_proiel-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>maximum</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="la_proiel-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>magno</em></td><td><em>magnis</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="la_proiel-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt></tt></td><td><em>magno</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="la_proiel-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt></tt></td><td><em>maiori</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="la_proiel-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>maiori</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="la_proiel-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt></tt></td><td><em>maximo</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="la_proiel-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>maximae</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_proiel-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>magni</em></td><td><em>magnorum</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_proiel-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt></tt></td><td><em>magni</em></td><td><em>magnorum</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_proiel-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>magnae</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_proiel-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>magni</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_proiel-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td><em>maiorum</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_proiel-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>maioris</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_proiel-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt></tt></td><td><em>maximi</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_proiel-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>magnus</em></td><td><em>magni</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_proiel-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>magna</em></td><td><em>magnae</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_proiel-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt></tt></td><td><em>magnum</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_proiel-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>magnum</em></td><td><em>magna</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_proiel-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>maior</em></td><td><em>maiores</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_proiel-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>maior</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_proiel-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt></tt></td><td><em>maior</em></td><td><em>maiores</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_proiel-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>maius</em></td><td><em>maiora</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_proiel-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>maximus</em></td><td><em>maximi</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_proiel-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>maxima</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_proiel-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>maximum</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Voc</tt>|<tt><a href="la_proiel-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td><em>magni</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Voc</tt>|<tt><a href="la_proiel-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>magna</em></td><td></td></tr>
 </table>
 
 ### `DET`
 
-7861 <tt><a href="la_proiel-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
+7688 <tt><a href="la_proiel-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="la_proiel-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (6834; 87%), <tt><a href="la_proiel-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4318; 55%), <tt><a href="la_proiel-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (4318; 55%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="la_proiel-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (6758; 88%), <tt><a href="la_proiel-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4422; 58%), <tt><a href="la_proiel-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (4422; 58%).
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (2612; 33% of non-empty `Number`): <em>omnes, omnibus, suis, his, omnia, suos, omnium, nostris, meis, nostri</em>
-* `Sing` (5249; 67% of non-empty `Number`): <em>hoc, omni, suam, meum, omnis, suum, ipsum, tuum, tua, meo</em>
+* `Plur` (2416; 31% of non-empty `Number`): <em>omnes, omnibus, suis, his, omnia, omnium, suos, meis, nostris, tuis</em>
+* `Sing` (5272; 69% of non-empty `Number`): <em>hoc, omni, suam, meum, omnis, ipsum, tuum, tua, suum, meo</em>
 * `EMPTY` (13): <em>aliquot</em>
 
 <table>
@@ -215,9 +257,9 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
   <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt></tt></td><td></td><td><em>omnibus</em></td></tr>
   <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem,Neut</tt></tt></td><td></td><td><em>omnibus</em></td></tr>
   <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>omni</em></td><td><em>omnibus</em></td></tr>
-  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>omnem, omnis</em></td><td><em>omnes</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>omnem, omnis</em></td><td><em>omnes, omnis</em></td></tr>
   <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt></tt></td><td><em>omnem</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>omnem</em></td><td><em>omnes</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>omnem</em></td><td><em>omnes, omnis</em></td></tr>
   <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt></tt></td><td><em>omnem, omnis</em></td><td><em>omnes, omnis</em></td></tr>
   <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>omne</em></td><td><em>omnia</em></td></tr>
   <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>omni</em></td><td><em>omnibus</em></td></tr>
@@ -226,7 +268,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
   <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt></tt></td><td></td><td><em>omnibus</em></td></tr>
   <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>omnis</em></td><td><em>omnium</em></td></tr>
   <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td><em>omnium</em></td></tr>
-  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>omnis</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>omnis</em></td><td><em>omnium</em></td></tr>
   <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td></td><td><em>omnium</em></td></tr>
   <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>omnis</em></td><td></td></tr>
   <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>omnis</em></td><td><em>omnes</em></td></tr>
@@ -240,15 +282,15 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 ### `AUX`
 
-7094 <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> tokens (90% of all `AUX` tokens) have a non-empty value of `Number`.
+7284 <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> tokens (90% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="la_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7094; 100%), <tt><a href="la_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7042; 99%), <tt><a href="la_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5997; 85%), <tt><a href="la_proiel-feat-Person.html">Person</a></tt><tt>=3</tt> (5961; 84%), <tt><a href="la_proiel-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (5522; 78%), <tt><a href="la_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5019; 71%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="la_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7284; 100%), <tt><a href="la_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7228; 99%), <tt><a href="la_proiel-feat-Person.html">Person</a></tt><tt>=3</tt> (6131; 84%), <tt><a href="la_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (6117; 84%), <tt><a href="la_proiel-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (5671; 78%), <tt><a href="la_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5160; 71%).
 
 `AUX` tokens may have the following values of `Number`:
 
-* `Plur` (1971; 28% of non-empty `Number`): <em>sunt, erant, estis, sumus, sint, essent, erunt, fuerunt, sitis, estote</em>
-* `Sing` (5123; 72% of non-empty `Number`): <em>est, erat, sit, sum, esset, fuit, erit, es, fuerit, fuerat</em>
-* `EMPTY` (751): <em>esse, fore, fuisse</em>
+* `Plur` (2009; 28% of non-empty `Number`): <em>sunt, erant, estis, sumus, sint, essent, erunt, fuerunt, sitis, estote</em>
+* `Sing` (5275; 72% of non-empty `Number`): <em>est, erat, sit, sum, esset, fuit, erit, es, fuerit, sis</em>
+* `EMPTY` (817): <em>esse, fore, fuisse, iri</em>
 
 <table>
   <tr><th>Paradigm <i>sum</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -295,14 +337,14 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 ### `PROPN`
 
-6422 <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt> tokens (91% of all `PROPN` tokens) have a non-empty value of `Number`.
+6643 <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt> tokens (91% of all `PROPN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (5035; 78%).
+The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (5189; 78%).
 
 `PROPN` tokens may have the following values of `Number`:
 
-* `Plur` (145; 2% of non-empty `Number`): <em>Hierosolymis, Hierosolyma, Athenas, Athenis, Philippis, Alpes, Cicerones, Sardis, Sodomis, Catulis</em>
-* `Sing` (6277; 98% of non-empty `Number`): <em>Iesus, Iesu, Caesar, Christi, Iesum, Christo, Petrus, Christus, Paulus, Christum</em>
+* `Plur` (149; 2% of non-empty `Number`): <em>Hierosolymis, Hierosolyma, Athenas, Athenis, Cicerones, Philippis, Alpes, Sardis, Sodomis, Catulis</em>
+* `Sing` (6494; 98% of non-empty `Number`): <em>Iesus, Iesu, Caesar, Christi, Iesum, Christo, Petrus, Christus, Paulus, Caesarem</em>
 * `EMPTY` (630): <em>Hierusalem, Israhel, David, Ioseph, Abraham, Iacob, Capharnaum, Isaac, Nazareth, Elisabeth</em>
 
 <table>
@@ -317,17 +359,17 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
   <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>Hierosolyma</em></td><td></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `PROPN`. 98% lemmas (891) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `PROPN`. 98% lemmas (918) occur only with one value of `Number`.
 
 ### `NUM`
 
-1034 <tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> tokens (62% of all `NUM` tokens) have a non-empty value of `Number`.
+1057 <tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> tokens (62% of all `NUM` tokens) have a non-empty value of `Number`.
 
 `NUM` tokens may have the following values of `Number`:
 
-* `Plur` (542; 52% of non-empty `Number`): <em>duo, milia, duos, tribus, tres, duobus, duas, milibus, milium, duabus</em>
-* `Sing` (492; 48% of non-empty `Number`): <em>unum, unus, una, uno, unam, unius, uni, Vni, Vna, Vnam</em>
-* `EMPTY` (645): <em>septem, duodecim, quattuor, quinque, decem, sex, triginta, centum, viginti, octo</em>
+* `Plur` (552; 52% of non-empty `Number`): <em>duo, milia, duos, tribus, tres, duobus, duas, milibus, duabus, milium</em>
+* `Sing` (505; 48% of non-empty `Number`): <em>unum, unus, una, uno, unam, unius, uni, Vni, Vna, Vnam</em>
+* `EMPTY` (655): <em>septem, duodecim, quattuor, quinque, decem, sex, triginta, centum, viginti, octo</em>
 
 <table>
   <tr><th>Paradigm <i>unus</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -356,14 +398,14 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="la_proiel-dep-det.html">det</a></tt>]--> DET</tt> (6441; 97%),
-<tt>VERB --[<tt><a href="la_proiel-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (5406; 72%),
-<tt>VERB --[<tt><a href="la_proiel-dep-obl.html">obl</a></tt>]--> NOUN</tt> (4682; 51%),
-<tt>NOUN --[<tt><a href="la_proiel-dep-amod.html">amod</a></tt>]--> ADJ</tt> (4508; 98%),
-<tt>VERB --[<tt><a href="la_proiel-dep-conj.html">conj</a></tt>]--> VERB</tt> (4011; 88%),
-<tt>VERB --[<tt><a href="la_proiel-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (3671; 92%),
-<tt>NOUN --[<tt><a href="la_proiel-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (3504; 68%),
-<tt>VERB --[<tt><a href="la_proiel-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (3355; 87%),
-<tt>VERB --[<tt><a href="la_proiel-dep-obj.html">obj</a></tt>]--> NOUN</tt> (3243; 51%),
-<tt>NOUN --[<tt><a href="la_proiel-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2683; 82%).
+<tt>NOUN --[<tt><a href="la_proiel-dep-det.html">det</a></tt>]--> DET</tt> (6574; 97%),
+<tt>VERB --[<tt><a href="la_proiel-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (5484; 73%),
+<tt>NOUN --[<tt><a href="la_proiel-dep-amod.html">amod</a></tt>]--> ADJ</tt> (4874; 97%),
+<tt>VERB --[<tt><a href="la_proiel-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (4793; 88%),
+<tt>VERB --[<tt><a href="la_proiel-dep-obl.html">obl</a></tt>]--> NOUN</tt> (4728; 51%),
+<tt>VERB --[<tt><a href="la_proiel-dep-conj.html">conj</a></tt>]--> VERB</tt> (4115; 88%),
+<tt>VERB --[<tt><a href="la_proiel-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (3712; 92%),
+<tt>NOUN --[<tt><a href="la_proiel-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (3512; 68%),
+<tt>VERB --[<tt><a href="la_proiel-dep-obj.html">obj</a></tt>]--> NOUN</tt> (3319; 51%),
+<tt>VERB --[<tt><a href="la_proiel-dep-obj.html">obj</a></tt>]--> PRON</tt> (2950; 52%).
 

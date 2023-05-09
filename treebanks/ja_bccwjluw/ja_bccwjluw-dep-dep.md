@@ -22,7 +22,7 @@ The following 120 pairs of parts of speech are connected with `dep`: <tt><a href
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 dep	color:blue
-1	_	_	NUM	_	_	27	dep	_	BBIL=B|BPT=4|SpaceAfter=Yes|UI=95
+1	_	_	NUM	_	_	27	dep	_	BBIL=B|BPT=4|UI=95
 2	_	_	VERB	_	_	4	acl	_	BBIL=B|BPT=0|SpaceAfter=No|UI=3757
 3	_	_	AUX	_	_	2	aux	_	BBIL=I|BPT=1|SpaceAfter=No|UI=7
 4	_	_	NOUN	_	_	27	dep	_	BBIL=B|BPT=4|SpaceAfter=No|UI=84208
@@ -61,7 +61,7 @@ The following 120 pairs of parts of speech are connected with `dep`: <tt><a href
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 1 dep	color:blue
-1	_	_	NUM	_	_	4	dep	_	BBIL=B|BPT=4|SpaceAfter=Yes|UI=3651
+1	_	_	NUM	_	_	4	dep	_	BBIL=B|BPT=4|UI=3651
 2	_	_	NOUN	_	_	4	nmod	_	BBIL=B|BPT=0|SpaceAfter=No|UI=27184
 3	_	_	ADP	_	_	2	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=0
 4	_	_	NOUN	_	_	0	root	_	BBIL=B|BPT=4|SpaceAfter=No|UI=4780

@@ -26,7 +26,7 @@ The following 18 pairs of parts of speech are connected with `obl:lmod`: <tt><a 
 1	Велень	веле	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	2	nmod:poss	_	GTtags=Sem/Plc,SP,Gen,Indef
 2	росась	роса	NOUN	N	Case=Nom|Definite=Def|Number=Sing	4	nsubj	_	GTtags=Sg,Nom,Def
 3	эзь	а	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Polarity=Neg|Tense=Past|VerbType=Aux	4	aux:neg	_	_
-4	костявт	костявомс	VERB	V	Connegative=Yes|Mood=Ind|Valency=1	0	root	_	GTtags=IV,Ind,ConNeg
+4	костявт	костявомс	VERB	V	Connegative=Yes|Mood=Ind	0	root	_	GTtags=IV,Ind,ConNeg
 5	валске	валске	NOUN	N	AdvType=Tim|Case=Nom|Definite=Ind|Number=Sing	6	compound	_	GTtags=Temp,Sg,Nom,Indef
 6	мартонь	марто	NOUN	N	Case=Gen|Definite=Ind|NounType=Relat|Number=Plur,Sing	7	nmod	_	GTtags=Der/MWN,N,SP,Gen,Indef
 7	чипайсэнть	чипай	NOUN	N	Case=Ine|Definite=Def|Number=Sing	4	obl:lmod	_	GTtags=Sg,Ine,Def|SpaceAfter=No
@@ -58,7 +58,7 @@ The following 18 pairs of parts of speech are connected with `obl:lmod`: <tt><a 
 # visual-style 2	fgColor:white
 # visual-style 2 1 obl:lmod	color:blue
 1	Икелень	икеле	ADP	Adp	Case=Loc|Number[psor]=Sing|Person[psor]=1	2	obl:lmod	_	CGdephead=#1-&gt;2|CGdeprel=@ADVL&gt;|GTtags=Loc,PxSg1
-2	аштесь	аштемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	0	root	_	CGdephead=#2-&gt;2|CGdeprel=@FMV|GTtags=IV,Ind,Prt1,ScSg3
+2	аштесь	аштемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	CGdephead=#2-&gt;2|CGdeprel=@FMV|GTtags=IV,Ind,Prt1,ScSg3
 3	эрзянь	эрзя	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	5	nmod	_	CGdephead=#3-&gt;4|CGdeprel=@&gt;N|GTtags=SP,Gen,Indef
 4	тиринь	тири	ADJ	A	Case=Gen|Definite=Ind|Number=Plur,Sing	5	amod	_	CGdephead=#4-&gt;5|CGdeprel=@&gt;N|GTtags=Der/MWN,N,SP,Gen,Indef
 5	велем	веле	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=1	2	nsubj	_	CGdephead=#5-&gt;5|CGdeprel=@OBJ|GTtags=Sg,Gen,PxSg1|SpaceAfter=No

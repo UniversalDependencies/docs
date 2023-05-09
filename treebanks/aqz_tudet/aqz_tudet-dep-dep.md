@@ -52,12 +52,12 @@ The following 4 pairs of parts of speech are connected with `dep`: <tt><a href="
 13	weren	weren	VERB	n	_	11	parataxis	_	_
 14	ato	ato	NOUN	n	_	13	nsubj	_	_
 15	.	.	PUNCT	punct	_	13	punct	_	_
-16	awawaʧo	awawaʧo	NOUN	n	Augm=Yes	18	parataxis	_	_
-17	awawaʧo	awawaʧo	NOUN	n	Augm=Yes	18	dep	_	_
+16	awawaʧo	awawaʧo	NOUN	n	Degree=Aug	18	parataxis	_	_
+17	awawaʧo	awawaʧo	NOUN	n	Degree=Aug	18	dep	_	_
 18	pen	pen	VERB	v	_	13	parataxis	_	_
 19	baj	baj	VERB	v	_	18	parataxis	_	_
 20	,	,	PUNCT	punct	_	19	punct	_	_
-21	awawaʧo	awawaʧo	NOUN	n	Augm=Yes	22	dep	_	_
+21	awawaʧo	awawaʧo	NOUN	n	Degree=Aug	22	dep	_	_
 22	pen	pen	VERB	v	_	19	parataxis	_	_
 23	baj	baj	VERB	v	_	22	parataxis	_	_
 24	.	.	PUNCT	punct	_	23	punct	_	_

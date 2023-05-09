@@ -29,7 +29,7 @@ The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href
 5	vo	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	aux	_	_
 6	digoret	digoriñ	VERB	vblex	Tense=Past|VerbForm=Part	1	ccomp	_	_
 7	an	an	DET	det	_	8	det	_	_
-8	nor	dor	NOUN	n	Gender=Fem|Number=Sing	6	obj	_	_
+8	nor	dor	NOUN	n	Gender=Fem|Number=Sing	6	obj	_	SpaceAfter=No
 9	.	.	PUNCT	sent	_	6	punct	_	_
 
 ~~~

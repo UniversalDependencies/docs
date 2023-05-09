@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Def`, `Ind`.
 
-2792 tokens (7%) have a non-empty value of `Definite`.
+2786 tokens (7%) have a non-empty value of `Definite`.
 12 types (0%) occur at least once with a non-empty value of `Definite`.
 9 lemmas (0%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 1 part-of-speech tags: <tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (2792; 7% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (2786; 7% instances).
 
 ### `DET`
 
-2792 <tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> tokens (80% of all `DET` tokens) have a non-empty value of `Definite`.
+2786 <tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> tokens (80% of all `DET` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="fr_parisstories-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (2792; 100%), <tt><a href="fr_parisstories-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (2792; 100%), <tt><a href="fr_parisstories-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (2786; 100%), <tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2244; 80%).
+The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="fr_parisstories-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (2786; 100%), <tt><a href="fr_parisstories-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (2786; 100%), <tt><a href="fr_parisstories-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (2780; 100%), <tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2239; 80%).
 
 `DET` tokens may have the following values of `Definite`:
 
-* `Def` (1903; 68% of non-empty `Definite`): <em>le, la, les, l'</em>
-* `Ind` (889; 32% of non-empty `Definite`): <em>un, une, des, du, d', de, le, les</em>
+* `Def` (1898; 68% of non-empty `Definite`): <em>le, la, les, l'</em>
+* `Ind` (888; 32% of non-empty `Definite`): <em>un, une, des, du, d', de, le, les</em>
 * `EMPTY` (690): <em>mon, ma, mes, cette, ce, son, ses, nos, sa, le</em>
 
 <table>

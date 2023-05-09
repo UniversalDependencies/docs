@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Estonian-EDT: POS Tags: `X`
 
-There are 400 `X` lemmas (1%), 473 `X` types (1%) and 1018 `X` tokens (0%).
+There are 397 `X` lemmas (1%), 470 `X` types (1%) and 1017 `X` tokens (0%).
 Out of 16 observed tags, the rank of `X` is: 7 in number of lemmas, 8 in number of types and 14 in number of tokens.
 
 The 10 most frequent `X` lemmas: <em>_, et, al, of, in, the, drive, i, a, ceteris</em>
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>000</em> (<tt><a href="et_edt-pos-X.h
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.182500 (the average of all parts of speech is 1.914326).
+The form / lemma ratio of `X` is 1.183879 (the average of all parts of speech is 1.914345).
 
 The 1st highest number of forms (75) was observed with the lemma “_”: <em>'is, -1,0, -1,5, -2, -27,5, -3-rasvhapete, -42,8, -45,8, -5, -6,5, -9,9, -aastased, -aastaselt, -grammine, -kilobaidine, /1995, 000, 000-100, 000-l, 000-naelasele, 000-objektise, 000kroonine, 000ni, 000st, 02, 04, 083*1012, 100, 150, 17, 17.00, 2, 20, 203, 257, 357, 371, 400, 44, 479, 496, 500, 50aastased, 522, 60, 600, 690, 692, 700, 756, 780, 782, 800, 83, 892, 90, 900, 914, 930, 950, 950-kroonise, 951, 981, 996, Angeles-klassi, Angeles-klassile, aastased, arhitektuurides, e, keelsessegi, kroonine, mehelises, o, trulli, °C</em>.
 
@@ -62,32 +62,32 @@ The 2nd highest number of forms (2) was observed with the lemma “al”: <em>al
 
 The 3rd highest number of forms (2) was observed with the lemma “et”: <em>et, et.</em>.
 
-`X` occurs with 4 features: <tt><a href="et_edt-feat-Foreign.html">Foreign</a></tt> (642; 63% instances), <tt><a href="et_edt-feat-Abbr.html">Abbr</a></tt> (171; 17% instances), <tt><a href="et_edt-feat-Case.html">Case</a></tt> (10; 1% instances), <tt><a href="et_edt-feat-Number.html">Number</a></tt> (10; 1% instances)
+`X` occurs with 2 features: <tt><a href="et_edt-feat-Foreign.html">Foreign</a></tt> (657; 65% instances), <tt><a href="et_edt-feat-Abbr.html">Abbr</a></tt> (164; 16% instances)
 
-`X` occurs with 5 feature-value pairs: `Abbr=Yes`, `Case=Gen`, `Case=Nom`, `Foreign=Yes`, `Number=Sing`
+`X` occurs with 2 feature-value pairs: `Abbr=Yes`, `Foreign=Yes`
 
-`X` occurs with 6 feature combinations.
-The most frequent feature combination is `Foreign=Yes` (556 tokens).
+`X` occurs with 4 feature combinations.
+The most frequent feature combination is `Foreign=Yes` (571 tokens).
 Examples: <em>et, al., the, of, drive, in, ceteris, de, key, paribus</em>
 
 
 ## Relations
 
-`X` nodes are attached to their parents using 19 different relations: <tt><a href="et_edt-dep-flat-foreign.html">flat:foreign</a></tt> (303; 30% instances), <tt><a href="et_edt-dep-flat.html">flat</a></tt> (242; 24% instances), <tt><a href="et_edt-dep-goeswith.html">goeswith</a></tt> (234; 23% instances), <tt><a href="et_edt-dep-appos.html">appos</a></tt> (73; 7% instances), <tt><a href="et_edt-dep-parataxis.html">parataxis</a></tt> (50; 5% instances), <tt><a href="et_edt-dep-conj.html">conj</a></tt> (37; 4% instances), <tt><a href="et_edt-dep-root.html">root</a></tt> (26; 3% instances), <tt><a href="et_edt-dep-nmod.html">nmod</a></tt> (22; 2% instances), <tt><a href="et_edt-dep-ccomp.html">ccomp</a></tt> (6; 1% instances), <tt><a href="et_edt-dep-obl.html">obl</a></tt> (6; 1% instances), <tt><a href="et_edt-dep-dep.html">dep</a></tt> (4; 0% instances), <tt><a href="et_edt-dep-nsubj-cop.html">nsubj:cop</a></tt> (4; 0% instances), <tt><a href="et_edt-dep-nsubj.html">nsubj</a></tt> (3; 0% instances), <tt><a href="et_edt-dep-discourse.html">discourse</a></tt> (2; 0% instances), <tt><a href="et_edt-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="et_edt-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="et_edt-dep-csubj.html">csubj</a></tt> (1; 0% instances), <tt><a href="et_edt-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="et_edt-dep-orphan.html">orphan</a></tt> (1; 0% instances)
+`X` nodes are attached to their parents using 19 different relations: <tt><a href="et_edt-dep-flat-foreign.html">flat:foreign</a></tt> (303; 30% instances), <tt><a href="et_edt-dep-flat.html">flat</a></tt> (245; 24% instances), <tt><a href="et_edt-dep-goeswith.html">goeswith</a></tt> (234; 23% instances), <tt><a href="et_edt-dep-appos.html">appos</a></tt> (74; 7% instances), <tt><a href="et_edt-dep-parataxis.html">parataxis</a></tt> (46; 5% instances), <tt><a href="et_edt-dep-conj.html">conj</a></tt> (34; 3% instances), <tt><a href="et_edt-dep-root.html">root</a></tt> (27; 3% instances), <tt><a href="et_edt-dep-nmod.html">nmod</a></tt> (22; 2% instances), <tt><a href="et_edt-dep-ccomp.html">ccomp</a></tt> (6; 1% instances), <tt><a href="et_edt-dep-obl.html">obl</a></tt> (6; 1% instances), <tt><a href="et_edt-dep-dep.html">dep</a></tt> (4; 0% instances), <tt><a href="et_edt-dep-nsubj.html">nsubj</a></tt> (4; 0% instances), <tt><a href="et_edt-dep-nsubj-cop.html">nsubj:cop</a></tt> (4; 0% instances), <tt><a href="et_edt-dep-discourse.html">discourse</a></tt> (2; 0% instances), <tt><a href="et_edt-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="et_edt-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="et_edt-dep-csubj.html">csubj</a></tt> (1; 0% instances), <tt><a href="et_edt-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="et_edt-dep-orphan.html">orphan</a></tt> (1; 0% instances)
 
-Parents of `X` nodes belong to 11 different parts of speech: <tt><a href="et_edt-pos-X.html">X</a></tt> (295; 29% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (263; 26% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (217; 21% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (150; 15% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (30; 3% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (26; 3% instances),  (26; 3% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (5; 0% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (2; 0% instances)
+Parents of `X` nodes belong to 11 different parts of speech: <tt><a href="et_edt-pos-X.html">X</a></tt> (296; 29% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (263; 26% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (217; 21% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (150; 15% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (31; 3% instances),  (27; 3% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (26; 3% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 
-796 (78%) `X` nodes are leaves.
+799 (79%) `X` nodes are leaves.
 
-36 (4%) `X` nodes have one child.
+38 (4%) `X` nodes have one child.
 
-45 (4%) `X` nodes have two children.
+40 (4%) `X` nodes have two children.
 
-141 (14%) `X` nodes have three or more children.
+140 (14%) `X` nodes have three or more children.
 
 The highest child degree of a `X` node is 13.
 
-Children of `X` nodes are attached using 22 different relations: <tt><a href="et_edt-dep-punct.html">punct</a></tt> (355; 48% instances), <tt><a href="et_edt-dep-flat-foreign.html">flat:foreign</a></tt> (180; 24% instances), <tt><a href="et_edt-dep-flat.html">flat</a></tt> (110; 15% instances), <tt><a href="et_edt-dep-conj.html">conj</a></tt> (20; 3% instances), <tt><a href="et_edt-dep-parataxis.html">parataxis</a></tt> (15; 2% instances), <tt><a href="et_edt-dep-nmod.html">nmod</a></tt> (9; 1% instances), <tt><a href="et_edt-dep-cc.html">cc</a></tt> (8; 1% instances), <tt><a href="et_edt-dep-nummod.html">nummod</a></tt> (6; 1% instances), <tt><a href="et_edt-dep-advmod.html">advmod</a></tt> (5; 1% instances), <tt><a href="et_edt-dep-cop.html">cop</a></tt> (5; 1% instances), <tt><a href="et_edt-dep-appos.html">appos</a></tt> (4; 1% instances), <tt><a href="et_edt-dep-amod.html">amod</a></tt> (3; 0% instances), <tt><a href="et_edt-dep-nsubj-cop.html">nsubj:cop</a></tt> (3; 0% instances), <tt><a href="et_edt-dep-obl.html">obl</a></tt> (3; 0% instances), <tt><a href="et_edt-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="et_edt-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="et_edt-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="et_edt-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="et_edt-dep-cc-preconj.html">cc:preconj</a></tt> (1; 0% instances), <tt><a href="et_edt-dep-csubj-cop.html">csubj:cop</a></tt> (1; 0% instances), <tt><a href="et_edt-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="et_edt-dep-obj.html">obj</a></tt> (1; 0% instances)
+Children of `X` nodes are attached using 22 different relations: <tt><a href="et_edt-dep-punct.html">punct</a></tt> (345; 47% instances), <tt><a href="et_edt-dep-flat-foreign.html">flat:foreign</a></tt> (180; 25% instances), <tt><a href="et_edt-dep-flat.html">flat</a></tt> (113; 16% instances), <tt><a href="et_edt-dep-conj.html">conj</a></tt> (21; 3% instances), <tt><a href="et_edt-dep-parataxis.html">parataxis</a></tt> (12; 2% instances), <tt><a href="et_edt-dep-cc.html">cc</a></tt> (8; 1% instances), <tt><a href="et_edt-dep-nmod.html">nmod</a></tt> (8; 1% instances), <tt><a href="et_edt-dep-cop.html">cop</a></tt> (6; 1% instances), <tt><a href="et_edt-dep-nummod.html">nummod</a></tt> (6; 1% instances), <tt><a href="et_edt-dep-advmod.html">advmod</a></tt> (5; 1% instances), <tt><a href="et_edt-dep-appos.html">appos</a></tt> (4; 1% instances), <tt><a href="et_edt-dep-nsubj-cop.html">nsubj:cop</a></tt> (4; 1% instances), <tt><a href="et_edt-dep-amod.html">amod</a></tt> (3; 0% instances), <tt><a href="et_edt-dep-obl.html">obl</a></tt> (3; 0% instances), <tt><a href="et_edt-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="et_edt-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="et_edt-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="et_edt-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="et_edt-dep-cc-preconj.html">cc:preconj</a></tt> (1; 0% instances), <tt><a href="et_edt-dep-csubj-cop.html">csubj:cop</a></tt> (1; 0% instances), <tt><a href="et_edt-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="et_edt-dep-obj.html">obj</a></tt> (1; 0% instances)
 
-Children of `X` nodes belong to 13 different parts of speech: <tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> (355; 48% instances), <tt><a href="et_edt-pos-X.html">X</a></tt> (295; 40% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (31; 4% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (18; 2% instances), <tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt> (8; 1% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (7; 1% instances), <tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (5; 1% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (4; 1% instances), <tt><a href="et_edt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (1; 0% instances)
+Children of `X` nodes belong to 13 different parts of speech: <tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> (345; 47% instances), <tt><a href="et_edt-pos-X.html">X</a></tt> (296; 41% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (29; 4% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (18; 2% instances), <tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt> (8; 1% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (7; 1% instances), <tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (6; 1% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (6; 1% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (4; 1% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 

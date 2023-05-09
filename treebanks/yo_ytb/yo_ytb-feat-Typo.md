@@ -9,10 +9,18 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-32 tokens (0%) have a non-empty value of `Typo`.
-26 types (2%) occur at least once with a non-empty value of `Typo`.
-24 lemmas (2%) occur at least once with a non-empty value of `Typo`.
-The feature is used with 13 part-of-speech tags: <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="yo_ytb-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="yo_ytb-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-X.html">X</a></tt> (1; 0% instances).
+36 tokens (0%) have a non-empty value of `Typo`.
+30 types (2%) occur at least once with a non-empty value of `Typo`.
+27 lemmas (2%) occur at least once with a non-empty value of `Typo`.
+The feature is used with 12 part-of-speech tags: <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="yo_ytb-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="yo_ytb-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+
+### `NOUN`
+
+6 <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Typo`.
+
+`NOUN` tokens may have the following values of `Typo`:
+
+* `Yes` (6; 100% of non-empty `Typo`): <em>ayọ, bẹ́, iye, lọ́wọ́, osọ́nà, ẹṣẹ̀</em>
 
 ### `ADP`
 
@@ -22,13 +30,13 @@ The feature is used with 13 part-of-speech tags: <tt><a href="yo_ytb-pos-ADP.htm
 
 * `Yes` (5; 100% of non-empty `Typo`): <em>kòsí, ni, si, sí, ẹba</em>
 
-### `NOUN`
+### `AUX`
 
-5 <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Typo`.
+5 <tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> tokens (1% of all `AUX` tokens) have a non-empty value of `Typo`.
 
-`NOUN` tokens may have the following values of `Typo`:
+`AUX` tokens may have the following values of `Typo`:
 
-* `Yes` (5; 100% of non-empty `Typo`): <em>ayọ, iye, lọ́wọ́, osọ́nà, ẹṣẹ̀</em>
+* `Yes` (5; 100% of non-empty `Typo`): <em>má, tí, le</em>
 
 ### `PRON`
 
@@ -40,13 +48,13 @@ The most frequent other feature values with which `PRON` and `Typo` co-occurred:
 
 * `Yes` (5; 100% of non-empty `Typo`): <em>rẹ, kín, o, ti</em>
 
-### `AUX`
+### `ADV`
 
-3 <tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> tokens (1% of all `AUX` tokens) have a non-empty value of `Typo`.
+3 <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Typo`.
 
-`AUX` tokens may have the following values of `Typo`:
+`ADV` tokens may have the following values of `Typo`:
 
-* `Yes` (3; 100% of non-empty `Typo`): <em>tí, le</em>
+* `Yes` (3; 100% of non-empty `Typo`): <em>sá, tẹ̀lẹ̀, ṣá</em>
 
 ### `CCONJ`
 
@@ -80,14 +88,6 @@ The most frequent other feature values with which `PRON` and `Typo` co-occurred:
 
 * `Yes` (1; 100% of non-empty `Typo`): <em>ẹṣẹ</em>
 
-### `ADV`
-
-1 <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Typo`.
-
-`ADV` tokens may have the following values of `Typo`:
-
-* `Yes` (1; 100% of non-empty `Typo`): <em>tẹ̀lẹ̀</em>
-
 ### `DET`
 
 1 <tt><a href="yo_ytb-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Typo`.
@@ -114,18 +114,9 @@ The most frequent other feature values with which `DET` and `Typo` co-occurred: 
 
 * `Yes` (1; 100% of non-empty `Typo`): <em>bi</em>
 
-### `X`
-
-1 <tt><a href="yo_ytb-pos-X.html">X</a></tt> tokens (11% of all `X` tokens) have a non-empty value of `Typo`.
-
-`X` tokens may have the following values of `Typo`:
-
-* `Yes` (1; 100% of non-empty `Typo`): <em>è</em>
-
 ## Relations with Agreement in `Typo`
 
 The 10 most frequent relations where parent and child node agree in `Typo`:
 <tt>ADJ --[<tt><a href="yo_ytb-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (1; 100%),
-<tt>AUX --[<tt><a href="yo_ytb-dep-goeswith.html">goeswith</a></tt>]--> X</tt> (1; 100%),
 <tt>NOUN --[<tt><a href="yo_ytb-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (1; 100%).
 

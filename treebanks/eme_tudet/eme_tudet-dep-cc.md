@@ -8,12 +8,31 @@ udver: '2'
 
 This relation is universal.
 
-4 nodes (0%) are attached to their parents as `cc`.
+7 nodes (0%) are attached to their parents as `cc`.
 
-3 instances of `cc` (75%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.25.
+6 instances of `cc` (86%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.28571428571429.
 
-The following 2 pairs of parts of speech are connected with `cc`: <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-CCONJ.html">CCONJ</a></tt> (3; 75% instances), <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eme_tudet-pos-CCONJ.html">CCONJ</a></tt> (1; 25% instances).
+The following 2 pairs of parts of speech are connected with `cc`: <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eme_tudet-pos-CCONJ.html">CCONJ</a></tt> (4; 57% instances), <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-CCONJ.html">CCONJ</a></tt> (3; 43% instances).
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 8 cc	color:blue
+1	aʔenam	aʔe	ADV	adv	Subord=Yes	3	advmod	_	_
+2	dati	dati	AUX	aux	Polarity=Neg	3	cop	_	_
+3	docteur	docteur	NOUN	n	_	0	root	_	_
+4	,	,	PUNCT	punct	_	3	punct	_	_
+5	aipo	aipo	ADV	adv	_	7	advmod	_	_
+6	kob	kob	AUX	aux	_	7	cop	_	_
+7	docteur	docteur	NOUN	n	_	3	parataxis	_	_
+8	oʔoramte	oʔoram	CCONJ	cc	Foc=Yes	7	cc	_	_
+9	infirmier	infirmier	NOUN	n	_	7	conj	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -26,25 +45,6 @@ The following 2 pairs of parts of speech are connected with `cc`: <tt><a href="e
 2	oʔar	ʔar	VERB	v	Person=3	0	root	_	_
 3	oʔoram	oʔoram	CCONJ	cc	_	4	cc	_	_
 4	oho	ho	VERB	v	Person=3	2	dep	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 8 cc	color:blue
-1	aʔenam	aʔe	ADV	adv	_	3	advmod	_	_
-2	dati	dati	AUX	aux	Polarity=Neg	3	cop	_	_
-3	docteur	docteur	NOUN	n	_	0	root	_	_
-4	,	,	PUNCT	punct	_	3	punct	_	_
-5	aipo	aipo	ADV	adv	_	7	advmod	_	_
-6	kob	kob	AUX	aux	_	7	cop	_	_
-7	docteur	docteur	NOUN	n	_	3	parataxis	_	_
-8	oʔoramte	oʔoram	CCONJ	cc	Foc=Yes	7	cc	_	_
-9	infirmier	infirmier	NOUN	n	_	7	conj	_	_
 
 ~~~
 

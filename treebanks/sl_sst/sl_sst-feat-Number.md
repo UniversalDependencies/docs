@@ -11,10 +11,10 @@ It occurs with 3 different values: `Dual`, `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="sl_sst-feat-Number.html">Number</a></tt>, <tt><a href="sl_sst-feat-Number-psor.html">Number[psor]</a></tt>.
 
-14476 tokens (49%) have a non-empty value of `Number`.
-5268 types (87%) occur at least once with a non-empty value of `Number`.
+14475 tokens (49%) have a non-empty value of `Number`.
+5267 types (86%) occur at least once with a non-empty value of `Number`.
 3299 lemmas (84%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (3662; 12% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (3626; 12% instances), <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (1790; 6% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (1664; 6% instances), <tt><a href="sl_sst-pos-DET.html">DET</a></tt> (1613; 5% instances), <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> (1178; 4% instances), <tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> (499; 2% instances), <tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt> (444; 2% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (3662; 12% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (3626; 12% instances), <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (1790; 6% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (1664; 6% instances), <tt><a href="sl_sst-pos-DET.html">DET</a></tt> (1611; 5% instances), <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> (1179; 4% instances), <tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> (499; 2% instances), <tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt> (444; 2% instances).
 
 ### `VERB`
 
@@ -52,7 +52,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 3626 <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="sl_sst-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3246; 90%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="sl_sst-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3245; 89%).
 
 `NOUN` tokens may have the following values of `Number`:
 
@@ -136,16 +136,16 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 ### `DET`
 
-1613 <tt><a href="sl_sst-pos-DET.html">DET</a></tt> tokens (87% of all `DET` tokens) have a non-empty value of `Number`.
+1611 <tt><a href="sl_sst-pos-DET.html">DET</a></tt> tokens (87% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="sl_sst-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (1055; 65%), <tt><a href="sl_sst-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (835; 52%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="sl_sst-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (1055; 65%), <tt><a href="sl_sst-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (833; 52%).
 
 `DET` tokens may have the following values of `Number`:
 
 * `Dual` (14; 1% of non-empty `Number`): <em>obe, oba, obeh, moja, obadva, ona, onih, takšni, ti</em>
 * `Plur` (265; 16% of non-empty `Number`): <em>te, teh, vsi, take, ti, tistih, vse, naših, vseh, kakšne</em>
-* `Sing` (1334; 83% of non-empty `Number`): <em>to, ta, vse, tem, tega, nič, tisto, nekaj, tole, tisti</em>
-* `EMPTY` (231): <em>malo, nekaj, več, koliko, dosti, toliko, veliko, pol, manj, preveč</em>
+* `Sing` (1332; 83% of non-empty `Number`): <em>to, ta, vse, tem, tega, nič, tisto, nekaj, tole, tisti</em>
+* `EMPTY` (233): <em>malo, nekaj, več, koliko, dosti, toliko, veliko, pol, manj, preveč</em>
 
 <table>
   <tr><th>Paradigm <i>ta</i></th><th><tt>Sing</tt></th><th><tt>Dual</tt></th><th><tt>Plur</tt></th></tr>
@@ -171,15 +171,15 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 ### `PRON`
 
-1178 <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> tokens (72% of all `PRON` tokens) have a non-empty value of `Number`.
+1179 <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> tokens (72% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="sl_sst-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (894; 76%), <tt><a href="sl_sst-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (822; 70%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="sl_sst-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (1179; 100%), <tt><a href="sl_sst-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (894; 76%), <tt><a href="sl_sst-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (823; 70%).
 
 `PRON` tokens may have the following values of `Number`:
 
 * `Dual` (17; 1% of non-empty `Number`): <em>midve, onadva, vidva, midva, nama, vidve, njima, vaju</em>
 * `Plur` (261; 22% of non-empty `Number`): <em>jih, mi, nas, vi, vam, jim, vas, oni, nam, nami</em>
-* `Sing` (900; 76% of non-empty `Number`): <em>kaj, jaz, ti, mi, ga, jo, kar, kdo, on, ona</em>
+* `Sing` (901; 76% of non-empty `Number`): <em>kaj, jaz, ti, mi, ga, jo, kar, kdo, on, ona</em>
 * `EMPTY` (462): <em>se, si, sabo, sebi, sebe, seboj, zase</em>
 
 <table>
@@ -259,6 +259,6 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>VERB --[<tt><a href="sl_sst-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (351; 96%),
 <tt>VERB --[<tt><a href="sl_sst-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (319; 70%),
 <tt>ADJ --[<tt><a href="sl_sst-dep-cop.html">cop</a></tt>]--> AUX</tt> (302; 96%),
-<tt>VERB --[<tt><a href="sl_sst-dep-obj.html">obj</a></tt>]--> PRON</tt> (248; 62%),
+<tt>VERB --[<tt><a href="sl_sst-dep-obj.html">obj</a></tt>]--> PRON</tt> (249; 62%),
 <tt>NOUN --[<tt><a href="sl_sst-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (244; 65%).
 

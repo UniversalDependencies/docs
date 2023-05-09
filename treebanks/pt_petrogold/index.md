@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.11 release
 The following people have contributed to making this treebank part of UD: Elvis de Souza, Cláudia Freitas, Aline Silveira, Tatiana Cavalcanti, Maria Clara Castro, Wograine Evelyn.
 
 Repository: [UD_Portuguese-PetroGold](https://github.com/UniversalDependencies/UD_Portuguese-PetroGold)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpt_petrogold211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpt_petrogold212)<br />
+Download all treebanks: [UD 2.12](/#download)
 
 License: CC BY-SA 4.0
 
@@ -30,15 +30,17 @@ Questions, comments?
 General annotation questions (either Portuguese-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Portuguese-PetroGold/issues).
 If you want to collaborate, please contact [elvis&nbsp;•&nbsp;desouza99&nbsp;(æt)&nbsp;gmail&nbsp;•&nbsp;com].
-Development of the treebank happens directly in the UD repository, so you may submit bug fixes as pull requests against the dev branch.
+Development of the treebank happens in the UD repository but not directly in the final CoNLL-U files.
+You may submit bug fixes as pull requests against the dev branch but you have to go to the folder called `not-to-release` and locate the source files there.
+Contact the treebank maintainers if in doubt.
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | assigned by a program, with some manual corrections, but not a full manual verification |
-| UPOS | assigned by a program, with some manual corrections, but not a full manual verification |
+| Lemmas | annotated manually |
+| UPOS | annotated manually, natively in UD style |
 | XPOS | not available |
-| Features | assigned by a program, with some manual corrections, but not a full manual verification |
-| Relations | assigned by a program, with some manual corrections, but not a full manual verification |
+| Features | annotated manually, natively in UD style |
+| Relations | annotated manually, natively in UD style |
 
 ## Description
 
@@ -54,12 +56,16 @@ The corpus was created as part of the Petrolês Project (http://petroles.puc-rio
 
 We want to thank everyone from ICA/PUC-Rio who assisted in the process of gathering the text from originally PDF files. We also want to thank Petrobras researchers and geoscientists for making the Petrolês corpus publicly available, for their technical assistance and funding.
 
+## How to contribute
+
+Changes should be made via pull request directly to `not-to-release/petrogold.conllu` in the `dev` branch.
+
 ## How to cite
 
 ```
 @inproceedings{souza2022polishing,
 title={Polishing the gold--how much revision do we need in treebanks?},
-author={de Souza, Elvis and Freitas, Cl{\'a}udia},
+author={De Souza, Elvis and Freitas, Cl{\'a}udia},
 booktitle={Procedings of the Universal Dependencies Brazilian Festival},
 pages={1--11},
 year={2022}
@@ -87,7 +93,7 @@ year={2022}
 
 ## Relations
 
-[acl](pt_petrogold-dep-acl.html) – [acl:relcl](pt_petrogold-dep-acl-relcl.html) – [advcl](pt_petrogold-dep-advcl.html) – [advmod](pt_petrogold-dep-advmod.html) – [amod](pt_petrogold-dep-amod.html) – [appos](pt_petrogold-dep-appos.html) – [aux](pt_petrogold-dep-aux.html) – [aux:pass](pt_petrogold-dep-aux-pass.html) – [case](pt_petrogold-dep-case.html) – [cc](pt_petrogold-dep-cc.html) – [ccomp](pt_petrogold-dep-ccomp.html) – [compound](pt_petrogold-dep-compound.html) – [conj](pt_petrogold-dep-conj.html) – [cop](pt_petrogold-dep-cop.html) – [csubj](pt_petrogold-dep-csubj.html) – [det](pt_petrogold-dep-det.html) – [discourse](pt_petrogold-dep-discourse.html) – [expl](pt_petrogold-dep-expl.html) – [expl:impers](pt_petrogold-dep-expl-impers.html) – [expl:pass](pt_petrogold-dep-expl-pass.html) – [expl:pv](pt_petrogold-dep-expl-pv.html) – [fixed](pt_petrogold-dep-fixed.html) – [flat](pt_petrogold-dep-flat.html) – [flat:foreign](pt_petrogold-dep-flat-foreign.html) – [flat:name](pt_petrogold-dep-flat-name.html) – [goeswith](pt_petrogold-dep-goeswith.html) – [iobj](pt_petrogold-dep-iobj.html) – [mark](pt_petrogold-dep-mark.html) – [nmod](pt_petrogold-dep-nmod.html) – [nsubj](pt_petrogold-dep-nsubj.html) – [nsubj:pass](pt_petrogold-dep-nsubj-pass.html) – [nummod](pt_petrogold-dep-nummod.html) – [obj](pt_petrogold-dep-obj.html) – [obl](pt_petrogold-dep-obl.html) – [obl:agent](pt_petrogold-dep-obl-agent.html) – [obl:arg](pt_petrogold-dep-obl-arg.html) – [orphan](pt_petrogold-dep-orphan.html) – [parataxis](pt_petrogold-dep-parataxis.html) – [punct](pt_petrogold-dep-punct.html) – [root](pt_petrogold-dep-root.html) – [xcomp](pt_petrogold-dep-xcomp.html)
+[acl](pt_petrogold-dep-acl.html) – [acl:relcl](pt_petrogold-dep-acl-relcl.html) – [advcl](pt_petrogold-dep-advcl.html) – [advmod](pt_petrogold-dep-advmod.html) – [amod](pt_petrogold-dep-amod.html) – [appos](pt_petrogold-dep-appos.html) – [aux](pt_petrogold-dep-aux.html) – [aux:pass](pt_petrogold-dep-aux-pass.html) – [case](pt_petrogold-dep-case.html) – [cc](pt_petrogold-dep-cc.html) – [ccomp](pt_petrogold-dep-ccomp.html) – [conj](pt_petrogold-dep-conj.html) – [cop](pt_petrogold-dep-cop.html) – [csubj](pt_petrogold-dep-csubj.html) – [det](pt_petrogold-dep-det.html) – [discourse](pt_petrogold-dep-discourse.html) – [expl](pt_petrogold-dep-expl.html) – [expl:impers](pt_petrogold-dep-expl-impers.html) – [expl:pass](pt_petrogold-dep-expl-pass.html) – [expl:pv](pt_petrogold-dep-expl-pv.html) – [fixed](pt_petrogold-dep-fixed.html) – [flat](pt_petrogold-dep-flat.html) – [flat:foreign](pt_petrogold-dep-flat-foreign.html) – [flat:name](pt_petrogold-dep-flat-name.html) – [goeswith](pt_petrogold-dep-goeswith.html) – [iobj](pt_petrogold-dep-iobj.html) – [mark](pt_petrogold-dep-mark.html) – [nmod](pt_petrogold-dep-nmod.html) – [nsubj](pt_petrogold-dep-nsubj.html) – [nsubj:pass](pt_petrogold-dep-nsubj-pass.html) – [nummod](pt_petrogold-dep-nummod.html) – [obj](pt_petrogold-dep-obj.html) – [obl](pt_petrogold-dep-obl.html) – [obl:agent](pt_petrogold-dep-obl-agent.html) – [obl:arg](pt_petrogold-dep-obl-arg.html) – [orphan](pt_petrogold-dep-orphan.html) – [parataxis](pt_petrogold-dep-parataxis.html) – [punct](pt_petrogold-dep-punct.html) – [root](pt_petrogold-dep-root.html) – [xcomp](pt_petrogold-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -126,11 +132,11 @@ year={2022}
 </ul>
 
 <ul>
-<li>This corpus contains 34 lemmas tagged as pronouns (PRON): algum, ambos, aquele, demais, ela, elas, ele, eles, esse, este, eu, isso, isto, mesmo, muito, nenhum, nos, nós, o, o/o, onde, outro, pouco, qual, quanto, que, se, si, tal, todo, um, várias, ηapp, </li>
+<li>This corpus contains 33 lemmas tagged as pronouns (PRON): algum, ambos, aquele, demais, ela, elas, ele, eles, esse, este, eu, isso, isto, mesmo, muito, nenhum, nos, nós, o, o/o, onde, outro, pouco, qual, quanto, que, se, si, tal, todo, um, várias, ηapp</li>
 </ul>
 
 <ul>
-<li>This corpus contains 39 lemmas tagged as determiners (DET): Do, algum, ambos, aquele, bastante, cada, certo, cujo, dado, demais, determinado, diverso, esse, essse, este, mais, muito, nenhum, nosso, o, outro, pouco, próprio, qual, qualquer, quanto, que, seu, sua, tais, tal, tanto, todo, um, vário, vários, µ, , </li>
+<li>This corpus contains 38 lemmas tagged as determiners (DET): Do, algum, ambos, aquele, bastante, cada, certo, cujo, dado, demais, determinado, diverso, esse, essse, este, mais, muito, nenhum, nosso, o, outro, pouco, próprio, qual, qualquer, quanto, que, seu, sua, tais, tal, tanto, todo, um, vário, vários, µ, </li>
 </ul>
 
 <ul>
@@ -284,7 +290,7 @@ year={2022}
 <ul>
   <li>Acc
     <ul>
-      <li>PRON: o, a, lo, los, la, las, as, os, nos, </li>
+      <li>PRON: o, a, lo, los, la, las, as, os, nos, O/A</li>
     </ul>
   </li>
 </ul>
@@ -313,7 +319,7 @@ year={2022}
 <ul>
   <li>Def
     <ul>
-      <li>DET: a, o, os, as, esta, , , Do, µ, á</li>
+      <li>DET: a, o, os, as, esta, , Do, µ, á</li>
       <li>PRON: o</li>
     </ul>
   </li>
@@ -461,7 +467,7 @@ year={2022}
 <ul>
   <li>Art
     <ul>
-      <li>DET: a, o, os, as, um, uma, , , Do, uns</li>
+      <li>DET: a, o, os, as, um, uma, , Do, uns, µ</li>
     </ul>
   </li>
 </ul>
@@ -504,7 +510,7 @@ year={2022}
   <li>Prs
     <ul>
       <li>DET: sua, seu, suas, seus, Essse, nosso, nossos</li>
-      <li>PRON: eles, elas, ele, ela, si, a, o, lo, los, la</li>
+      <li>PRON: se, eles, elas, ele, ela, si, a, o, lo, los</li>
     </ul>
   </li>
 </ul>
@@ -648,7 +654,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB--NOUN (3)</li>
-      <li>VERB-Fin--NOUN (3545)</li>
+      <li>VERB-Fin--NOUN (3547)</li>
       <li>VERB-Fin--NOUN-ADP(a) (4)</li>
       <li>VERB-Fin--NOUN-ADP(como) (1)</li>
       <li>VERB-Fin--NOUN-ADP(desde) (1)</li>
@@ -657,9 +663,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON (1452)</li>
       <li>VERB-Fin--PRON-ADP(a) (3)</li>
       <li>VERB-Fin--PRON-ADP(em) (1)</li>
-      <li>VERB-Fin--PRON-Acc (2)</li>
+      <li>VERB-Fin--PRON-Acc (1)</li>
       <li>VERB-Fin--PRON-Nom (48)</li>
-      <li>VERB-Ger--NOUN (21)</li>
+      <li>VERB-Ger--NOUN (22)</li>
       <li>VERB-Ger--NOUN-ADP(a) (1)</li>
       <li>VERB-Ger--NOUN-ADP(com) (1)</li>
       <li>VERB-Ger--NOUN-ADP(de) (1)</li>
@@ -667,7 +673,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN (95)</li>
       <li>VERB-Inf--PRON (11)</li>
       <li>VERB-Inf--PRON-Nom (1)</li>
-      <li>VERB-Part--NOUN (78)</li>
+      <li>VERB-Part--NOUN (79)</li>
       <li>VERB-Part--PRON (22)</li>
       <li>VERB-Part--PRON-Nom (1)</li>
     </ul>
@@ -677,10 +683,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (2907)</li>
+      <li>VERB-Fin--NOUN (2906)</li>
       <li>VERB-Fin--NOUN-ADP(sobre) (1)</li>
       <li>VERB-Fin--PRON (43)</li>
-      <li>VERB-Fin--PRON-Acc (48)</li>
+      <li>VERB-Fin--PRON-Acc (47)</li>
       <li>VERB-Ger--NOUN (928)</li>
       <li>VERB-Ger--PRON (6)</li>
       <li>VERB-Ger--PRON-Acc (13)</li>
@@ -709,13 +715,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Reflexive Verbs</h3>
 
 <ul>
-  <li>This corpus contains 143 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: encontrar se, tornar se, estender se, basear se, dar se, dever se, apresentar se, localizar se, associar se, destacar se, comportar se, caracterizar se, fazer se, desenvolver se, referir se, manter se, mostrar se, relacionar se, concentrar se, depositar se, situar se, ajustar se, dissolver se, aprofundar se, aproximar se, dividir se, formar se, acumular se, constituir se, deslocar se, unir se, desprender se, transformar se, dissociar se, distribuir se, hidratar se, horizontalizar se, iniciar se, manifestar se, originar se, assentar se, chamar se, demonstrar se, dispersar se, espalhar se, estabilizar se, misturar se, orientar se, prolongar se, restringir se</li>
+  <li>This corpus contains 143 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: encontrar se, tornar se, estender se, basear se, dar se, dever se, apresentar se, localizar se, tratar se, associar se, destacar se, comportar se, caracterizar se, fazer se, desenvolver se, referir se, manter se, mostrar se, relacionar se, concentrar se, depositar se, situar se, ajustar se, dissolver se, aprofundar se, aproximar se, dividir se, formar se, acumular se, constituir se, deslocar se, unir se, desprender se, transformar se, dissociar se, distribuir se, hidratar se, horizontalizar se, iniciar se, manifestar se, originar se, assentar se, chamar se, demonstrar se, dispersar se, espalhar se, estabilizar se, misturar se, orientar se, prolongar se</li>
 </ul>
 
 <h3>Reflexive Passive</h3>
 
 <ul>
-  <li>This corpus contains 155 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: observar se, utilizar se, perceber se, obter se, usar se, analisar se, verificar se, adicionar se, considerar se, realizar se, esperar se, notar se, iniciar se, fazer se, colocar se, estimar se, variar se, aplicar se, calcular se, concluir se, pesar se, injetar se, adotar se, assumir se, aumentar se, construir se, medir se, sugerir se, acionar se, constatar se, inferir se, preparar se, apresentar se, atribuir se, comparar se, desenvolver se, destacar se, fechar se, produzir se, recomendar se, retirar se, seguir se, ver se, adelgaçar se, citar se, dar se, definir se, desejar se, empregar se, encontrar se</li>
+  <li>This corpus contains 153 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: observar se, utilizar se, perceber se, obter se, usar se, analisar se, verificar se, adicionar se, considerar se, realizar se, esperar se, notar se, iniciar se, fazer se, colocar se, estimar se, variar se, aplicar se, calcular se, concluir se, pesar se, injetar se, adotar se, assumir se, aumentar se, construir se, medir se, sugerir se, acionar se, constatar se, inferir se, preparar se, apresentar se, atribuir se, comparar se, desenvolver se, destacar se, fechar se, produzir se, recomendar se, retirar se, seguir se, ver se, adelgaçar se, citar se, dar se, definir se, desejar se, empregar se, encontrar se</li>
 </ul>
 
 
@@ -723,5 +729,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 10 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>expl:impers</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:arg</a></li>
-<li>The following 6 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>reparandum</a>, <a>dep</a></li>
+<li>The following 7 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

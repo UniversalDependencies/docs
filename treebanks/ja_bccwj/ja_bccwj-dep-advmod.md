@@ -62,7 +62,7 @@ The following 14 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 8 advmod	color:blue
-1	_	_	NUM	_	_	27	dep	_	BBIL=B|BPT=4|LBIL=B|LPOS=4|SpaceAfter=Yes|UI=476
+1	_	_	NUM	_	_	27	dep	_	BBIL=B|BPT=4|LBIL=B|LPOS=4|UI=476
 2	_	_	NOUN	_	_	6	compound	_	BBIL=B|BPT=0|LBIL=B|LPOS=0|SpaceAfter=No|UI=59568
 3	_	_	NOUN	_	_	6	compound	_	BBIL=I|BPT=0|LBIL=I|LPOS=0|SpaceAfter=No|UI=62399
 4	_	_	NOUN	_	_	6	compound	_	BBIL=I|BPT=0|LBIL=I|LPOS=0|SpaceAfter=No|UI=62145

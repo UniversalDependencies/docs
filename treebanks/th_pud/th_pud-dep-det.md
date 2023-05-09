@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-413 nodes (2%) are attached to their parents as `det`.
+414 nodes (2%) are attached to their parents as `det`.
 
-243 instances of `det` (59%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.65859564164649.
+244 instances of `det` (59%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.67149758454106.
 
-The following 6 pairs of parts of speech are connected with `det`: <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="th_pud-pos-DET.html">DET</a></tt> (371; 90% instances), <tt><a href="th_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="th_pud-pos-DET.html">DET</a></tt> (27; 7% instances), <tt><a href="th_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="th_pud-pos-DET.html">DET</a></tt> (7; 2% instances), <tt><a href="th_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="th_pud-pos-DET.html">DET</a></tt> (5; 1% instances), <tt><a href="th_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="th_pud-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="th_pud-pos-DET.html">DET</a></tt>-<tt><a href="th_pud-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `det`: <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="th_pud-pos-DET.html">DET</a></tt> (371; 90% instances), <tt><a href="th_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="th_pud-pos-DET.html">DET</a></tt> (27; 7% instances), <tt><a href="th_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="th_pud-pos-DET.html">DET</a></tt> (7; 2% instances), <tt><a href="th_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="th_pud-pos-DET.html">DET</a></tt> (5; 1% instances), <tt><a href="th_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="th_pud-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="th_pud-pos-DET.html">DET</a></tt>-<tt><a href="th_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="th_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

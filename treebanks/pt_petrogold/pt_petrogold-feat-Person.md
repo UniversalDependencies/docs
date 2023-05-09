@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-13313 tokens (5%) have a non-empty value of `Person`.
-1630 types (11%) occur at least once with a non-empty value of `Person`.
-624 lemmas (6%) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt> (7462; 3% instances), <tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> (5428; 2% instances), <tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> (423; 0% instances).
+13311 tokens (5%) have a non-empty value of `Person`.
+1629 types (11%) occur at least once with a non-empty value of `Person`.
+623 lemmas (6%) occur at least once with a non-empty value of `Person`.
+The feature is used with 3 part-of-speech tags: <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt> (7462; 3% instances), <tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> (5428; 2% instances), <tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> (421; 0% instances).
 
 ### `VERB`
 
@@ -51,22 +51,22 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 ### `PRON`
 
-423 <tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> tokens (8% of all `PRON` tokens) have a non-empty value of `Person`.
+421 <tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> tokens (8% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="pt_petrogold-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (325; 77%), <tt><a href="pt_petrogold-feat-Number.html">Number</a></tt><tt>=Sing</tt> (266; 63%), <tt><a href="pt_petrogold-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (217; 51%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="pt_petrogold-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (323; 77%), <tt><a href="pt_petrogold-feat-Number.html">Number</a></tt><tt>=Sing</tt> (264; 63%), <tt><a href="pt_petrogold-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (217; 52%).
 
 `PRON` tokens may have the following values of `Person`:
 
 * `1` (5; 1% of non-empty `Person`): <em>nos, EU, nós</em>
-* `3` (418; 99% of non-empty `Person`): <em>a, eles, elas, ele, ela, si, as, o, lo, los</em>
-* `EMPTY` (4976): <em>se, que, o, isso, isto, este, qual, um, uma, esta</em>
+* `3` (416; 99% of non-empty `Person`): <em>a, eles, elas, ele, ela, si, as, o, lo, los</em>
+* `EMPTY` (4977): <em>se, que, o, isso, isto, este, qual, um, uma, esta</em>
 
-`Person` seems to be **lexical feature** of `PRON`. 100% lemmas (12) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `PRON`. 100% lemmas (11) occur only with one value of `Person`.
 
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="pt_petrogold-dep-conj.html">conj</a></tt>]--> VERB</tt> (435; 57%),
+<tt>VERB --[<tt><a href="pt_petrogold-dep-conj.html">conj</a></tt>]--> VERB</tt> (434; 57%),
 <tt>VERB --[<tt><a href="pt_petrogold-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (259; 53%),
 <tt>VERB --[<tt><a href="pt_petrogold-dep-iobj.html">iobj</a></tt>]--> PRON</tt> (8; 62%),
 <tt>VERB --[<tt><a href="pt_petrogold-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (1; 100%),

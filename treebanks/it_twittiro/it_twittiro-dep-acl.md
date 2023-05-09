@@ -12,7 +12,7 @@ There are 1 language-specific subtypes of `acl`: <tt><a href="it_twittiro-dep-ac
 116 nodes (0%) are attached to their parents as `acl`.
 
 113 instances of `acl` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.87068965517241.
+Average distance between parent and child is 2.86206896551724.
 
 The following 10 pairs of parts of speech are connected with `acl`: <tt><a href="it_twittiro-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_twittiro-pos-VERB.html">VERB</a></tt> (96; 83% instances), <tt><a href="it_twittiro-pos-SYM.html">SYM</a></tt>-<tt><a href="it_twittiro-pos-VERB.html">VERB</a></tt> (4; 3% instances), <tt><a href="it_twittiro-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_twittiro-pos-ADJ.html">ADJ</a></tt> (3; 3% instances), <tt><a href="it_twittiro-pos-PRON.html">PRON</a></tt>-<tt><a href="it_twittiro-pos-VERB.html">VERB</a></tt> (3; 3% instances), <tt><a href="it_twittiro-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_twittiro-pos-VERB.html">VERB</a></tt> (3; 3% instances), <tt><a href="it_twittiro-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_twittiro-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="it_twittiro-pos-VERB.html">VERB</a></tt>-<tt><a href="it_twittiro-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="it_twittiro-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_twittiro-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="it_twittiro-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_twittiro-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="it_twittiro-pos-NUM.html">NUM</a></tt>-<tt><a href="it_twittiro-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
@@ -67,7 +67,7 @@ The following 10 pairs of parts of speech are connected with `acl`: <tt><a href=
 15	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	16	det	_	SpaceAfter=No
 16	Italia	Italia	PROPN	SP	_	14	obj	_	SpaceAfter=No
 17	.	.	PUNCT	FS	_	12	punct	_	_
-18	http://t.co/p77BUUmVRI	http://t.co/p77BUUmVRI	SYM	X	_	4	dep	_	SpaceAfter=\n
+18	http://t.co/p77BUUmVRI	http://t.co/p77BUUmVRI	SYM	X	_	4	dep	_	SpacesAfter=\n
 
 ~~~
 

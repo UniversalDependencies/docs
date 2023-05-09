@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="en_gumreddit-pos-PR
 
 ### `PRON`
 
-1489 <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> tokens (77% of all `PRON` tokens) have a non-empty value of `Case`.
+1489 <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> tokens (76% of all `PRON` tokens) have a non-empty value of `Case`.
 
 The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="en_gumreddit-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1489; 100%), <tt><a href="en_gumreddit-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1219; 82%), <tt><a href="en_gumreddit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1195; 80%), <tt><a href="en_gumreddit-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1066; 72%).
 
@@ -25,7 +25,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 * `Acc` (289; 19% of non-empty `Case`): <em>_</em>
 * `Gen` (268; 18% of non-empty `Case`): <em>_</em>
 * `Nom` (932; 63% of non-empty `Case`): <em>_</em>
-* `EMPTY` (442): <em>_</em>
+* `EMPTY` (471): <em>_</em>
 
 ## Relations with Agreement in `Case`
 

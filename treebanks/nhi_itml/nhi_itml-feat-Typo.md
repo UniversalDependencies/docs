@@ -22,7 +22,7 @@ The most frequent other feature values with which `VERB` and `Typo` co-occurred:
 
 `VERB` tokens may have the following values of `Typo`:
 
-* `Yes` (10; 100% of non-empty `Typo`): <em>in, Inkakiltia, iktlajmachiotiyaj, ittalpachosqueh, kinuij, monquis, ompoliwia, ik, nimomochilia</em>
+* `Yes` (10; 100% of non-empty `Typo`): <em>in, cnamiqia, ittalpachosqueh, ixtzitzqui, kinuij, monquis, ompoliwia, ik, nimomochilia</em>
 
 `Typo` seems to be **lexical feature** of `VERB`. 100% lemmas (10) occur only with one value of `Typo`.
 

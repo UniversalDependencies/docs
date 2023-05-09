@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Kaapor-TuDeT: Features: `Animacy`
 
-This feature is universal but the values `Hum` are language-specific.
+This feature is universal.
 It occurs with 2 different values: `Anim`, `Hum`.
 
 10 tokens (3%) have a non-empty value of `Animacy`.
@@ -35,7 +35,7 @@ The most frequent other feature values with which `PRON` and `Animacy` co-occurr
 `PRON` tokens may have the following values of `Animacy`:
 
 * `Hum` (2; 100% of non-empty `Animacy`): <em>aʔe</em>
-* `EMPTY` (61): <em>ihẽ, ihē, ihẽke, aʔe, neke, ne, aʔeke, a’eta, ipe, ngā</em>
+* `EMPTY` (60): <em>ihẽ, ihē, ihẽke, aʔe, neke, ne, aʔeke, a’eta, ipe, ngā</em>
 
 ### `PROPN`
 

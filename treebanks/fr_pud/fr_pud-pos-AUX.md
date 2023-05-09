@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_French-PUD: POS Tags: `AUX`
 
 There are 3 `AUX` lemmas (0%), 40 `AUX` types (1%) and 1028 `AUX` tokens (4%).
-Out of 15 observed tags, the rank of `AUX` is: 15 in number of lemmas, 10 in number of types and 10 in number of tokens.
+Out of 15 observed tags, the rank of `AUX` is: 15 in number of lemmas, 10 in number of types and 9 in number of tokens.
 
 The 10 most frequent `AUX` lemmas: <em>être, avoir, faire</em>
 
@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="fr_pud-pos-AUX.h
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 13.333333 (the average of all parts of speech is 1.298345).
+The form / lemma ratio of `AUX` is 13.333333 (the average of all parts of speech is 1.299644).
 
 The 1st highest number of forms (20) was observed with the lemma “être”: <em>est, furent, fussent, fut, sera, serais, serait, seront, soient, soit, sommes, sont, suis, étaient, étais, était, étant, étions, été, être</em>.
 

@@ -65,13 +65,13 @@ The following 30 pairs of parts of speech are connected with `fixed`: <tt><a hre
 2	te	tu	PRON	Pp2-sa--------w	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Weak	3	obj	_	_
 3	țin	ține	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	părinții	părinte	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	3	nsubj	_	_
-5	rău	rău	ADV	Rg	_	3	advmod	_	|SpaceAfter=No
+5	rău	rău	ADV	Rg	_	3	advmod	_	SpaceAfter=No
 6	,	,	PUNCT	COMMA	_	10	punct	_	_
 7	Pentru	pentru	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	10	mark	_	_
 8	că	că	SCONJ	Csssp	Polarity=Pos	7	fixed	_	_
 9	te	tu	PRON	Pp2-sa--------w	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Weak	10	obj	_	_
 10	iubesc	iubi	VERB	Vmip1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	advcl	_	_
-11	eu	eu	PRON	Pp1-sr	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	|SpaceAfter=No
+11	eu	eu	PRON	Pp1-sr	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	SpaceAfter=No
 12	.	.	PUNCT	PERIOD	_	3	punct	_	_
 
 ~~~

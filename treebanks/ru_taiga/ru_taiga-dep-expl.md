@@ -61,7 +61,7 @@ The following 12 pairs of parts of speech are connected with `expl`: <tt><a href
 3	это	это	PART	_	_	5	expl	_	_
 4	не	не	PART	_	Polarity=Neg	5	advmod	_	_
 5	нормально	нормальный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	SpaceAfter=No
-6	.	.	PUNCT	_	_	5	punct	_	_~
+6	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
 

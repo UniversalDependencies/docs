@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Yoruba-YTB: POS Tags: `X`
 
-There are 5 `X` lemmas (0%), 5 `X` types (0%) and 9 `X` tokens (0%).
+There are 2 `X` lemmas (0%), 5 `X` types (0%) and 9 `X` tokens (0%).
 Out of 17 observed tags, the rank of `X` is: 15 in number of lemmas, 15 in number of types and 15 in number of tokens.
 
-The 10 most frequent `X` lemmas: <em>ha, a, à, è, ẹ̀</em>
+The 10 most frequent `X` lemmas: <em>_, ha</em>
 
 The 10 most frequent `X` types:  <em>ha, a, à, è, ẹ̀</em>
 
-The 10 most frequent ambiguous lemmas: <em>a</em> (<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 57, <tt><a href="yo_ytb-pos-X.html">X</a></tt> 2, <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> 1, <tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> 1), <em>à</em> (<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 3, <tt><a href="yo_ytb-pos-X.html">X</a></tt> 2, <tt><a href="yo_ytb-pos-DET.html">DET</a></tt> 1), <em>ẹ̀</em> (<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="yo_ytb-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous lemmas: 
 
 The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 55, <tt><a href="yo_ytb-pos-X.html">X</a></tt> 2, <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> 1, <tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> 1), <em>à</em> (<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 2, <tt><a href="yo_ytb-pos-X.html">X</a></tt> 2), <em>ẹ̀</em> (<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="yo_ytb-pos-X.html">X</a></tt> 1)
 
@@ -32,21 +32,13 @@ The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="yo_ytb-pos-PRON.
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.006112).
+The form / lemma ratio of `X` is 2.500000 (the average of all parts of speech is 1.007344).
 
-The 1st highest number of forms (1) was observed with the lemma “a”: <em>a</em>.
+The 1st highest number of forms (4) was observed with the lemma “_”: <em>a, à, è, ẹ̀</em>.
 
 The 2nd highest number of forms (1) was observed with the lemma “ha”: <em>ha</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “à”: <em>à</em>.
-
-`X` occurs with 1 features: <tt><a href="yo_ytb-feat-Typo.html">Typo</a></tt> (1; 11% instances)
-
-`X` occurs with 1 feature-value pairs: `Typo=Yes`
-
-`X` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (8 tokens).
-Examples: <em>ha, a, à, ẹ̀</em>
+`X` does not occur with any features.
 
 
 ## Relations

@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Italian-VIT: POS Tags: `INTJ`
 
 There are 27 `INTJ` lemmas (0%), 27 `INTJ` types (0%) and 80 `INTJ` tokens (0%).
-Out of 17 observed tags, the rank of `INTJ` is: 13 in number of lemmas, 14 in number of types and 15 in number of tokens.
+Out of 17 observed tags, the rank of `INTJ` is: 13 in number of lemmas, 14 in number of types and 16 in number of tokens.
 
 The 10 most frequent `INTJ` lemmas: <em>no, sì, basta, addio, avanti, bè, ecco, macché, oh, ah</em>
 
@@ -61,7 +61,7 @@ The 10 most frequent ambiguous types:  <em>no</em> (<tt><a href="it_vit-pos-INTJ
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.498207).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.501634).
 
 The 1st highest number of forms (1) was observed with the lemma “addio”: <em>addio</em>.
 

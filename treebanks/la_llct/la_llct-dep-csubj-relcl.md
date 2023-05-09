@@ -26,7 +26,7 @@ The following 6 pairs of parts of speech are connected with `csubj:relcl`: <tt><
 1	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	10	cc	_	_
 2	qui	qui	PRON	p|p|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	5	nsubj	_	_
 3	hoc	hic	DET	p|p|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	4	obj	_	_
-4	facere	facio	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	5	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+4	facere	facio	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	5	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 5	neclexerit	neglego	VERB	v|v|3|s|t|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	10	csubj:relcl	_	TraditionalMood=Indicativus|TraditionalTense=FuturumExactum
 6	a	ab	ADP	r|r|-|-|-|-|-|-|-|-	_	7	case	_	_
 7	Deo	Deus	PROPN	Propn|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	10	obl:arg	_	_
@@ -58,11 +58,11 @@ The following 6 pairs of parts of speech are connected with `csubj:relcl`: <tt><
 8	hanc	hic	DET	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	10	det	_	_
 9	dotalis	dotale	NOUN	n|n|-|s|-|-|-|n|g|-	Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	_
 10	paginam	pagina	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	11	obl	_	_
-11	agere	ago	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	16	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+11	agere	ago	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	16	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 12	aut	aut	CCONJ	c|c|-|-|-|-|-|-|-|-	_	13	cc	_	_
-13	causare	causor	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	11	conj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+13	causare	causor	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	11	conj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 14	vel	uel	CCONJ	c|c|-|-|-|-|-|-|-|-	_	15	cc	_	_
-15	disrumpere	disrumpo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	11	conj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+15	disrumpere	disrumpo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	11	conj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 16	presumserit	praesumo	VERB	v|v|3|s|t|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=FuturumExactum
 17	per	per	ADP	r|r|-|-|-|-|-|-|-|-	_	19	case	_	_
 18	quolibet	quilibet	DET	p|p|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	19	det	_	_
@@ -77,7 +77,7 @@ The following 6 pairs of parts of speech are connected with `csubj:relcl`: <tt><
 27	sic	sic	ADV	d|d|-|-|-|-|-|-|-|-	_	30	advmod	_	_
 28	non	non	PART	d|d|-|-|-|-|-|-|-|-	Polarity=Neg	30	advmod:neg	_	_
 29	permiserit	permitto	VERB	v|v|3|s|t|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	16	conj	_	TraditionalMood=Indicativus|TraditionalTense=FuturumExactum
-30	permanere	permaneo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	29	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+30	permanere	permaneo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	29	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 31	sicut	sicut	SCONJ	c|c|-|-|-|-|-|-|-|-	_	33	mark	_	_
 32	ego	ego	PRON	p|p|1|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	33	nsubj	_	_
 33	disposui	dispono	VERB	v|v|1|s|r|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	30	advcl	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Perfectum
@@ -175,7 +175,7 @@ The following 6 pairs of parts of speech are connected with `csubj:relcl`: <tt><
 39	ab	ab	ADP	r|r|-|-|-|-|-|-|-|-	_	41	case	_	_
 40	omni	omnis	DET	a|a|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing|PronType=Tot	41	det	_	_
 41	homine	homo	NOUN	n|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	42	obl	_	_
-42	defendere	defendo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	44	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+42	defendere	defendo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	44	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 43	non	non	PART	d|d|-|-|-|-|-|-|-|-	Polarity=Neg	44	advmod:neg	_	_
 44	potuerimus	possum	VERB	v|v|1|p|t|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	30	conj	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=FuturumExactum
 45	,	,	PUNCT	Punc	_	30	punct	_	_
@@ -187,7 +187,7 @@ The following 6 pairs of parts of speech are connected with `csubj:relcl`: <tt><
 51	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	52	cc	_	_
 52	successoribus	successor	NOUN	n|n|-|p|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Plur	50	conj	_	_
 53	tuis	tuus	DET	a|a|2|p|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Plur|Number[psor]=Sing|Person[psor]=2|Poss=Yes|PronType=Prs	52	det	_	_
-54	conpone	compono	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	46	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+54	conpone	compono	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	46	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 55	omnia	omnis	DET	a|a|-|p|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Plur|PronType=Tot	58	nmod	_	_
 56	suprascripta	suprascriptus	DET	a|a|-|p|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Plur|PronType=Dem	58	nmod	_	_
 57	mea	meus	DET	a|a|1|p|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Plur|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	58	nmod	_	_

@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Norwegian-Bokmaal: POS Tags: `INTJ`
 
 There are 50 `INTJ` lemmas (0%), 50 `INTJ` types (0%) and 224 `INTJ` tokens (0%).
-Out of 17 observed tags, the rank of `INTJ` is: 10 in number of lemmas, 12 in number of types and 16 in number of tokens.
+Out of 17 observed tags, the rank of `INTJ` is: 9 in number of lemmas, 11 in number of types and 16 in number of tokens.
 
 The 10 most frequent `INTJ` lemmas: <em>ja, nei, jo, å, he-he, piiip, ha-ha, hei, herregud, oi</em>
 
@@ -48,7 +48,7 @@ The 10 most frequent ambiguous types:  <em>ja</em> (<tt><a href="no_bokmaal-pos-
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.381903).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.381699).
 
 The 1st highest number of forms (1) was observed with the lemma “Gud”: <em>Gud</em>.
 
@@ -61,21 +61,21 @@ The 3rd highest number of forms (1) was observed with the lemma “Jaaa”: <em>
 
 ## Relations
 
-`INTJ` nodes are attached to their parents using 4 different relations: <tt><a href="no_bokmaal-dep-discourse.html">discourse</a></tt> (140; 63% instances), <tt><a href="no_bokmaal-dep-root.html">root</a></tt> (75; 33% instances), <tt><a href="no_bokmaal-dep-conj.html">conj</a></tt> (7; 3% instances), <tt><a href="no_bokmaal-dep-parataxis.html">parataxis</a></tt> (2; 1% instances)
+`INTJ` nodes are attached to their parents using 5 different relations: <tt><a href="no_bokmaal-dep-discourse.html">discourse</a></tt> (140; 63% instances), <tt><a href="no_bokmaal-dep-root.html">root</a></tt> (72; 32% instances), <tt><a href="no_bokmaal-dep-conj.html">conj</a></tt> (7; 3% instances), <tt><a href="no_bokmaal-dep-ccomp.html">ccomp</a></tt> (3; 1% instances), <tt><a href="no_bokmaal-dep-parataxis.html">parataxis</a></tt> (2; 1% instances)
 
-Parents of `INTJ` nodes belong to 9 different parts of speech: <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (77; 34% instances),  (75; 33% instances), <tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> (22; 10% instances), <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> (18; 8% instances), <tt><a href="no_bokmaal-pos-INTJ.html">INTJ</a></tt> (15; 7% instances), <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt> (10; 4% instances), <tt><a href="no_bokmaal-pos-ADV.html">ADV</a></tt> (4; 2% instances), <tt><a href="no_bokmaal-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="no_bokmaal-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
+Parents of `INTJ` nodes belong to 9 different parts of speech: <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (80; 36% instances),  (72; 32% instances), <tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> (22; 10% instances), <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> (18; 8% instances), <tt><a href="no_bokmaal-pos-INTJ.html">INTJ</a></tt> (15; 7% instances), <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt> (10; 4% instances), <tt><a href="no_bokmaal-pos-ADV.html">ADV</a></tt> (4; 2% instances), <tt><a href="no_bokmaal-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="no_bokmaal-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
 
 18 (8%) `INTJ` nodes are leaves.
 
 134 (60%) `INTJ` nodes have one child.
 
-46 (21%) `INTJ` nodes have two children.
+48 (21%) `INTJ` nodes have two children.
 
-26 (12%) `INTJ` nodes have three or more children.
+24 (11%) `INTJ` nodes have three or more children.
 
-The highest child degree of a `INTJ` node is 5.
+The highest child degree of a `INTJ` node is 4.
 
-Children of `INTJ` nodes are attached using 10 different relations: <tt><a href="no_bokmaal-dep-punct.html">punct</a></tt> (258; 83% instances), <tt><a href="no_bokmaal-dep-advmod.html">advmod</a></tt> (13; 4% instances), <tt><a href="no_bokmaal-dep-conj.html">conj</a></tt> (13; 4% instances), <tt><a href="no_bokmaal-dep-discourse.html">discourse</a></tt> (9; 3% instances), <tt><a href="no_bokmaal-dep-parataxis.html">parataxis</a></tt> (9; 3% instances), <tt><a href="no_bokmaal-dep-obl.html">obl</a></tt> (5; 2% instances), <tt><a href="no_bokmaal-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="no_bokmaal-dep-cc.html">cc</a></tt> (1; 0% instances), <tt><a href="no_bokmaal-dep-cop.html">cop</a></tt> (1; 0% instances), <tt><a href="no_bokmaal-dep-nsubj.html">nsubj</a></tt> (1; 0% instances)
+Children of `INTJ` nodes are attached using 10 different relations: <tt><a href="no_bokmaal-dep-punct.html">punct</a></tt> (257; 84% instances), <tt><a href="no_bokmaal-dep-advmod.html">advmod</a></tt> (15; 5% instances), <tt><a href="no_bokmaal-dep-conj.html">conj</a></tt> (13; 4% instances), <tt><a href="no_bokmaal-dep-discourse.html">discourse</a></tt> (9; 3% instances), <tt><a href="no_bokmaal-dep-parataxis.html">parataxis</a></tt> (6; 2% instances), <tt><a href="no_bokmaal-dep-obl.html">obl</a></tt> (3; 1% instances), <tt><a href="no_bokmaal-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="no_bokmaal-dep-cc.html">cc</a></tt> (1; 0% instances), <tt><a href="no_bokmaal-dep-cop.html">cop</a></tt> (1; 0% instances), <tt><a href="no_bokmaal-dep-nsubj.html">nsubj</a></tt> (1; 0% instances)
 
-Children of `INTJ` nodes belong to 11 different parts of speech: <tt><a href="no_bokmaal-pos-PUNCT.html">PUNCT</a></tt> (258; 83% instances), <tt><a href="no_bokmaal-pos-INTJ.html">INTJ</a></tt> (15; 5% instances), <tt><a href="no_bokmaal-pos-ADV.html">ADV</a></tt> (8; 3% instances), <tt><a href="no_bokmaal-pos-PROPN.html">PROPN</a></tt> (8; 3% instances), <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (8; 3% instances), <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> (5; 2% instances), <tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="no_bokmaal-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="no_bokmaal-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="no_bokmaal-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances)
+Children of `INTJ` nodes belong to 10 different parts of speech: <tt><a href="no_bokmaal-pos-PUNCT.html">PUNCT</a></tt> (257; 84% instances), <tt><a href="no_bokmaal-pos-INTJ.html">INTJ</a></tt> (15; 5% instances), <tt><a href="no_bokmaal-pos-ADV.html">ADV</a></tt> (10; 3% instances), <tt><a href="no_bokmaal-pos-PROPN.html">PROPN</a></tt> (8; 3% instances), <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> (5; 2% instances), <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (5; 2% instances), <tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="no_bokmaal-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="no_bokmaal-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="no_bokmaal-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances)
 

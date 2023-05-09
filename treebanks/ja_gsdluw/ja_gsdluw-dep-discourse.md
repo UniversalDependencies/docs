@@ -43,7 +43,7 @@ The following 3 pairs of parts of speech are connected with `discourse`: <tt><a 
 19	のです	のです	AUX	助動詞-助動詞-デス	_	17	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|SpaceAfter=No|UnidicInfo=;,の;です,の;です,の;です,ノ;デス,;,;,ノ;デス,ノデス,のです
 20	か	か	PART	助詞-終助詞	_	17	mark	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|SpaceAfter=No|UnidicInfo=,か,か,か,カ,,,カ,カ,か
 21	?	?	PUNCT	補助記号-句点	_	17	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=No|UnidicInfo=,？,?,?,,,,,,？
-22	”	”	PUNCT	補助記号-括弧閉	_	17	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=Yes|UnidicInfo=,”,”,”,,,,,,”
+22	”	”	PUNCT	補助記号-括弧閉	_	17	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|UnidicInfo=,”,”,”,,,,,,”
 
 ~~~
 
@@ -69,7 +69,7 @@ The following 3 pairs of parts of speech are connected with `discourse`: <tt><a 
 13	掛け声	掛け声	NOUN	名詞-普通名詞-一般	_	15	obl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=,掛け声,掛け声,掛け声,カケゴエ,,,カケゴエ,カケゴエ,掛け声
 14	で	で	ADP	助詞-格助詞	_	13	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,で,で,で,デ,,,デ,デ,で
 15	進む	進む	VERB	動詞-一般-五段-マ行	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|SpaceAfter=No|UnidicInfo=,進む,進む,進む,ススム,,,ススム,ススム,進む
-16	。	。	PUNCT	補助記号-句点	_	15	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=Yes|UnidicInfo=,。,。,。,,,,,,。
+16	。	。	PUNCT	補助記号-句点	_	15	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|UnidicInfo=,。,。,。,,,,,,。
 
 ~~~
 
@@ -95,7 +95,7 @@ The following 3 pairs of parts of speech are connected with `discourse`: <tt><a 
 13	掛け声	掛け声	NOUN	名詞-普通名詞-一般	_	15	obl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=,掛け声,掛け声,掛け声,カケゴエ,,,カケゴエ,カケゴエ,掛け声
 14	で	で	ADP	助詞-格助詞	_	13	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,で,で,で,デ,,,デ,デ,で
 15	進む	進む	VERB	動詞-一般-五段-マ行	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|SpaceAfter=No|UnidicInfo=,進む,進む,進む,ススム,,,ススム,ススム,進む
-16	。	。	PUNCT	補助記号-句点	_	15	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=Yes|UnidicInfo=,。,。,。,,,,,,。
+16	。	。	PUNCT	補助記号-句点	_	15	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|UnidicInfo=,。,。,。,,,,,,。
 
 ~~~
 

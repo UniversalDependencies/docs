@@ -36,5 +36,5 @@ The most frequent other feature values with which `ADJ` and `Voice` co-occurred:
 `ADJ` tokens may have the following values of `Voice`:
 
 * `Pass` (1; 100% of non-empty `Voice`): <em>elevado</em>
-* `EMPTY` (17080): <em>maior, grande, menor, possível, magnético, diferentes, total, natural, magnética, presente</em>
+* `EMPTY` (17079): <em>maior, grande, menor, possível, magnético, diferentes, total, natural, magnética, presente</em>
 

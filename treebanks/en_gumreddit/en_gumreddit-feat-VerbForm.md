@@ -9,23 +9,24 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Fin`, `Ger`, `Inf`, `Part`.
 
-3228 tokens (20%) have a non-empty value of `VerbForm`.
+3227 tokens (20%) have a non-empty value of `VerbForm`.
 1 types (0) occur at least once with a non-empty value of `VerbForm`.
 1 lemmas (0) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (2082; 13% instances), <tt><a href="en_gumreddit-pos-AUX.html">AUX</a></tt> (1146; 7% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (2081; 13% instances), <tt><a href="en_gumreddit-pos-AUX.html">AUX</a></tt> (1146; 7% instances).
 
 ### `VERB`
 
-2082 <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+2081 <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="en_gumreddit-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1273; 61%), <tt><a href="en_gumreddit-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1207; 58%), <tt><a href="en_gumreddit-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1190; 57%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="en_gumreddit-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1272; 61%), <tt><a href="en_gumreddit-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1206; 58%), <tt><a href="en_gumreddit-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1189; 57%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Fin` (875; 42% of non-empty `VerbForm`): <em>_</em>
-* `Ger` (179; 9% of non-empty `VerbForm`): <em>_</em>
+* `Ger` (178; 9% of non-empty `VerbForm`): <em>_</em>
 * `Inf` (679; 33% of non-empty `VerbForm`): <em>_</em>
 * `Part` (349; 17% of non-empty `VerbForm`): <em>_</em>
+* `EMPTY` (1): <em>_</em>
 
 ### `AUX`
 

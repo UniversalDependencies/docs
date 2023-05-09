@@ -16,16 +16,16 @@ The feature is used with 2 part-of-speech tags: <tt><a href="got_proiel-pos-ADJ.
 
 ### `ADJ`
 
-2309 <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> tokens (48% of all `ADJ` tokens) have a non-empty value of `Degree`.
+2309 <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="got_proiel-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2309; 100%), <tt><a href="got_proiel-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (2309; 100%), <tt><a href="got_proiel-feat-Strength.html">Strength</a></tt><tt>=Strong</tt> (1581; 68%), <tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1415; 61%), <tt><a href="got_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1319; 57%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="got_proiel-feat-Strength.html">Strength</a></tt><tt>=Strong</tt> (1581; 68%), <tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1415; 61%), <tt><a href="got_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1319; 57%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Cmp` (113; 5% of non-empty `Degree`): <em>managizo, maiza, fruma, sutizo, azetizo, iftumin, batizo, frumin, hleidumein, maizo</em>
 * `Pos` (2080; 90% of non-empty `Degree`): <em>managai, anþar, silba, dauþaim, silban, anþara, silbans, leitil, goþ, managans</em>
 * `Sup` (116; 5% of non-empty `Degree`): <em>auhumistans, frumista, spedistin, sinistam, hauhistins, sinistans, auhumista, auhumistins, auhumistam, frumistin</em>
-* `EMPTY` (2471): <em>þata, sa, þo, ƕas, all, seinamma, sumai, meina, izwara, meinamma</em>
+* `EMPTY` (30): <em>þridjin, niundon, ·a·, ·b·, þridjan, þridjo, þridja, ahtudin, fimftataihundin, saihsta</em>
 
 <table>
   <tr><th>Paradigm <i>manags</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -84,9 +84,14 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
-<tt>ADJ --[<tt><a href="got_proiel-dep-conj.html">conj</a></tt>]--> ADJ</tt> (93; 93%),
-<tt>ADJ --[<tt><a href="got_proiel-dep-amod.html">amod</a></tt>]--> ADJ</tt> (20; 77%),
-<tt>ADJ --[<tt><a href="got_proiel-dep-advmod.html">advmod</a></tt>]--> ADJ</tt> (12; 80%),
-<tt>ADJ --[<tt><a href="got_proiel-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (5; 71%),
-<tt>ADJ --[<tt><a href="got_proiel-dep-fixed.html">fixed</a></tt>]--> ADJ</tt> (1; 100%).
+<tt>ADJ --[<tt><a href="got_proiel-dep-conj.html">conj</a></tt>]--> ADJ</tt> (84; 97%),
+<tt>ADJ --[<tt><a href="got_proiel-dep-amod.html">amod</a></tt>]--> ADJ</tt> (18; 90%),
+<tt>ADJ --[<tt><a href="got_proiel-dep-advmod.html">advmod</a></tt>]--> ADJ</tt> (12; 100%),
+<tt>ADJ --[<tt><a href="got_proiel-dep-nsubj.html">nsubj</a></tt>]--> ADJ</tt> (6; 100%),
+<tt>ADJ --[<tt><a href="got_proiel-dep-orphan.html">orphan</a></tt>]--> ADJ</tt> (3; 100%),
+<tt>ADJ --[<tt><a href="got_proiel-dep-dislocated.html">dislocated</a></tt>]--> ADJ</tt> (2; 100%),
+<tt>ADJ --[<tt><a href="got_proiel-dep-obl.html">obl</a></tt>]--> ADJ</tt> (2; 100%),
+<tt>ADJ --[<tt><a href="got_proiel-dep-ccomp.html">ccomp</a></tt>]--> ADJ</tt> (1; 100%),
+<tt>ADJ --[<tt><a href="got_proiel-dep-fixed.html">fixed</a></tt>]--> ADJ</tt> (1; 100%),
+<tt>ADJ --[<tt><a href="got_proiel-dep-nmod.html">nmod</a></tt>]--> ADJ</tt> (1; 100%).
 

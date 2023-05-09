@@ -28,7 +28,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="gd_arcosg-pos-VERB.
 <table>
   <tr><th>Paradigm <i>bi</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th></tr>
   <tr><td><tt>_</tt></td><td><em>tha, eil, bheil, th', thà, th’, 'eil, 'l, h-eil, bha, ‘eil</em></td><td><em>bidh, bhios, bi, bhi, bhitheas</em></td><td><em>bha, robh, bh', bhà, bh’, tha, bitheadh</em></td></tr>
-  <tr><td><tt><tt><a href="gd_arcosg-feat-Person.html">Person</a></tt><tt>=0</tt></tt></td><td><em>thathar, thathas, bheileas</em></td><td></td><td><em>robhar</em></td></tr>
+  <tr><td><tt><tt><a href="gd_arcosg-feat-Person.html">Person</a></tt><tt>=0</tt></tt></td><td><em>thathar, thathas, bheileas</em></td><td></td><td><em>robhar, robhas</em></td></tr>
 </table>
 
 ### `AUX`
@@ -69,8 +69,8 @@ The most frequent other feature values with which `PART` and `Tense` co-occurred
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="gd_arcosg-dep-conj.html">conj</a></tt>]--> VERB</tt> (872; 72%),
-<tt>VERB --[<tt><a href="gd_arcosg-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (273; 63%),
+<tt>VERB --[<tt><a href="gd_arcosg-dep-conj.html">conj</a></tt>]--> VERB</tt> (873; 72%),
+<tt>VERB --[<tt><a href="gd_arcosg-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (272; 63%),
 <tt>VERB --[<tt><a href="gd_arcosg-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (50; 98%),
 <tt>VERB --[<tt><a href="gd_arcosg-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (30; 52%),
 <tt>VERB --[<tt><a href="gd_arcosg-dep-discourse.html">discourse</a></tt>]--> VERB</tt> (15; 83%),

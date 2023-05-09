@@ -37,7 +37,7 @@ The following 5 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 12	veneritis	uenio	VERB	v|v|2|p|t|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	16	advcl:relcl	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=FuturumExactum
 13	,	,	PUNCT	Punc	_	12	punct	_	_
 14	bene	bene	ADV	d|d|-|-|-|-|-|-|-|-	_	15	advmod	_	_
-15	gubernare	guberno	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	16	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+15	gubernare	guberno	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	16	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 16	debeamus	debeo	VERB	v|v|1|p|p|s|a|-|-|-	Aspect=Imp|Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|TraditionalMood=Subiunctivus|TraditionalTense=Praesens
 17	.	.	PUNCT	Punc	_	16	punct	_	_
 
@@ -82,7 +82,7 @@ The following 5 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 30	cum	cum	ADP	r|r|-|-|-|-|-|-|-|-	_	31	case	_	_
 31	rebus	res	NOUN	n|n|-|p|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Plur	29	nmod	_	_
 32	eorum	is	PRON	p|p|-|p|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	31	nmod	_	_
-33	abere	habeo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	34	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+33	abere	habeo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	34	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 34	deberent	debeo	VERB	v|v|3|s|i|s|a|-|-|-	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	16	ccomp	_	TraditionalMood=Subiunctivus|TraditionalTense=Imperfectum
 35	partem	pars	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	34	nsubj	_	_
 36	ecclesie	ecclesia	NOUN	n|n|-|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing	35	nmod	_	_

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.0 release.
 The following people have contributed to making this treebank part of UD: Cristina Bosco, Alessandro Lenci, Simonetta Montemagni, Maria Simi.
 
 Repository: [UD_Italian-ISDT](https://github.com/UniversalDependencies/UD_Italian-ISDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_isdt211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_isdt212)<br />
+Download all treebanks: [UD 2.12](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -79,11 +79,11 @@ We wish to thank all of the contributors to the original annotation efforts, as 
 
 
 <ul>
-<li>This corpus contains 14167 sentences, 278429 tokens and 298343 syntactic words.</li>
+<li>This corpus contains 14167 sentences, 278423 tokens and 298337 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 39876 tokens (14%) that are not followed by a space.</li>
+<li>This corpus contains 39870 tokens (14%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -91,7 +91,7 @@ We wish to thank all of the contributors to the original annotation efforts, as 
 </ul>
 
 <ul>
-<li>This corpus contains 209 types of words that contain both letters and punctuation. Examples: l', d', un', l’, art., c', quest', cos', d’, po', v., quest’, n., e', s', dov', 's, l., c’, un’, anch', att., quell', check-up, S., Sant', e-mail, tutt', ss., R.E.M., cinquant', Cost., F., artt., ecc., n', trent', com', dell', distr., s.p.a., sett., vent', Civ., Cod., H., Proc., T., W., al.</li>
+<li>This corpus contains 209 types of words that contain both letters and punctuation. Examples: l', d', un', l’, art., c', quest', cos', d’, po', v., quest’, n., e', s', dov', 's, l., c’, un’, anch', att., quell', check-up, S., Sant', e-mail, tutt', ss., R.E.M., cinquant', es., Cost., F., artt., ecc., n', trent', com', dell', distr., s.p.a., sett., vent', Civ., Cod., H., Proc., T., W.</li>
 </ul>
 
 <ul>
@@ -644,8 +644,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (3773)</li>
-      <li>VERB-Fin--PRON (1880)</li>
+      <li>VERB-Fin--NOUN (3772)</li>
+      <li>VERB-Fin--PRON (1881)</li>
       <li>VERB-Ger--NOUN (46)</li>
       <li>VERB-Ger--PRON (21)</li>
       <li>VERB-Inf--NOUN (611)</li>
@@ -660,13 +660,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (3542)</li>
-      <li>VERB-Fin--PRON (767)</li>
+      <li>VERB-Fin--NOUN (3532)</li>
+      <li>VERB-Fin--PRON (778)</li>
       <li>VERB-Ger--NOUN (360)</li>
       <li>VERB-Ger--PRON (53)</li>
-      <li>VERB-Inf--NOUN (2883)</li>
+      <li>VERB-Inf--NOUN (2879)</li>
       <li>VERB-Inf--NOUN-ADP(in) (1)</li>
-      <li>VERB-Inf--PRON (446)</li>
+      <li>VERB-Inf--PRON (450)</li>
       <li>VERB-Part--NOUN (1334)</li>
       <li>VERB-Part--PRON (317)</li>
     </ul>

@@ -68,7 +68,7 @@ The following 5 pairs of parts of speech are connected with `parataxis:nsubj`: <
 16	.	.	PUNCT	FS	_	15	punct	_	_
 17	[	[	PUNCT	FB	_	18	punct	_	SpaceAfter=No
 18	@user	@user	SYM	SYM	_	2	vocative:mention	_	SpaceAfter=No
-19	]	]	PUNCT	FB	_	18	punct	_	SpaceAfter=\n
+19	]	]	PUNCT	FB	_	18	punct	_	SpacesAfter=\n
 
 ~~~
 

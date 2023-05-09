@@ -9,34 +9,31 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `clf`: <tt><a href="vi_vtb-dep-clf-det.html">clf:det</a></tt>.
 
-205 nodes (0%) are attached to their parents as `clf`.
+250 nodes (0%) are attached to their parents as `clf`.
 
-145 instances of `clf` (71%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.03414634146341.
+207 instances of `clf` (83%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.024.
 
-The following 6 pairs of parts of speech are connected with `clf`: <tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (99; 48% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (62; 30% instances), <tt><a href="vi_vtb-pos-DET.html">DET</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (41; 20% instances), <tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `clf`: <tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (133; 53% instances), <tt><a href="vi_vtb-pos-DET.html">DET</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (68; 27% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (44; 18% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 8 9 clf	color:blue
-1	Hai	hai	NUM	Num	_	2	nummod	_	_
-2	chị	chị	NOUN	N	_	3	nsubj	_	_
-3	lấy	lấy	VERB	V	_	0	root	_	_
-4	từ	từ	ADP	Pre	_	6	case	_	_
-5	trong	trong	ADP	Pre	_	6	case	_	_
-6	túi xách	túi xách	NOUN	N	_	3	obl:comp	_	_
-7	ra	ra	ADV	Adv	_	3	advmod:dir	_	_
-8	một	một	NUM	Num	_	10	nummod	_	_
-9	cuốn	cuốn	NOUN	Nc	_	8	clf	_	_
-10	nhật ký	nhật ký	NOUN	N	_	3	obj	_	_
-11	đã	đã	ADV	Adv	_	12	advmod	_	_
-12	ố	ố	ADJ	Adj	_	10	acl:subj	_	_
-13	vàng	vàng	ADJ	Adj	_	12	compound:adj	_	_
-14	.	.	PUNCT	.	_	3	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 8 clf	color:blue
+1	Nhà	nhà	NOUN	N	_	5	nsubj	_	_
+2	anh	anh	NOUN	N	_	3	clf:det	_	_
+3	Diên	Diên	PROPN	NNP	_	1	nmod	_	_
+4	cũng	cũng	ADV	ADV	_	5	advmod	_	_
+5	ở	ở	VERB	V	_	0	root	_	_
+6	trên	trên	ADP	PRE	_	9	case	_	_
+7	một	một	NUM	NUM	_	9	nummod	_	_
+8	con	con	NOUN	N	_	7	clf	_	_
+9	đường	đường	NOUN	N	_	5	obl:comp	_	_
+10	đẹp	đẹp	ADJ	ADJ	_	9	amod	_	_
+11	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
 ~~~
 
@@ -44,35 +41,39 @@ The following 6 pairs of parts of speech are connected with `clf`: <tt><a href="
 ~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 clf	color:blue
-1	Nhưng	nhưng	SCONJ	SC	_	6	mark	_	_
-2	đó	đó	PRON	Pro	_	6	nsubj	_	_
-3	là	là	AUX	V	_	6	cop	_	_
-4	những	những	DET	Det	_	6	det	_	_
-5	thằng	thằng	NOUN	Nc	_	6	clf	_	_
-6	giặc	giặc	NOUN	N	_	0	root	_	_
-7	may mắn	may mắn	ADJ	Adj	_	6	amod	_	_
-8	.	.	PUNCT	.	_	6	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 clf	color:blue
+1	Thế là	thế là	SCONJ	C	_	3	cc	_	_
+2	lại	lại	ADV	ADV	_	3	advmod	_	_
+3	thêm	thêm	VERB	V	_	0	root	_	_
+4	những	những	DET	DET	_	6	det	_	_
+5	chú	chú	NOUN	N	_	4	clf	_	_
+6	chim	chim	NOUN	N	_	3	obj	_	_
+7	vô tội	vô tội	ADJ	ADJ	_	6	amod	_	_
+8	nữa	nữa	ADV	ADV	_	6	advmod	_	_
+9	sa	sa	VERB	V	_	6	acl:subj	_	_
+10	lưới	lưới	NOUN	N	_	9	compound:verbnoun	_	_
+11	...	...	PUNCT	PUNCT	_	3	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 4 clf	color:blue
-1	Kia	kia	PRON	Pro	_	5	nsubj	_	_
-2	là	là	AUX	V	_	5	cop	_	_
-3	những	những	DET	Det	_	5	det	_	_
-4	ngôi	ngôi	NOUN	Nc	_	3	clf	_	_
-5	nhà	nhà	NOUN	N	_	0	root	_	_
-6	vách	vách	NOUN	N	_	5	nmod	_	_
-7	đất	đất	NOUN	N	_	6	compound	_	_
-8	.	.	PUNCT	.	_	5	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 clf	color:blue
+1	Đổi	đổi	VERB	V	_	0	root	_	_
+2	những	những	DET	Det	_	4	det	_	_
+3	giọt	giọt	NOUN	Nc	_	4	clf	_	_
+4	nước mắt	nước mắt	NOUN	N	_	1	obj	_	_
+5	lấy	lấy	VERB	V	_	1	xcomp	_	_
+6	một	một	NUM	Num	_	7	nummod	_	_
+7	nụ	nụ	NOUN	N	_	5	obj	_	_
+8	cười	cười	VERB	V	_	7	compound:vmod	_	_
+9	.	.	PUNCT	.	_	1	punct	_	_
 
 ~~~
 

@@ -25,7 +25,7 @@ The following 5 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 1	JA@ub@z	_	INTJ	INTERJ	_	9	discourse	_	_
 2	POJKE	_	NOUN	NN	_	9	nsubj	_	_
 3	LITEN-PERSON@kl	_	NOUN	NNKL	_	2	clf	_	_
-4	SE-UT	_	VERB	VB	_	2	cop	_	_
+4	SE-UT	_	AUX	VB	_	2	cop	_	_
 5	SJU_ÅTTA	_	NUM	RG	_	6	nummod	_	_
 6	ÅR@b	_	NOUN	NN	_	2	acl:relcl	_	_
 7	HUND	_	NOUN	NN	_	2	conj	_	_
@@ -74,11 +74,11 @@ The following 5 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 7	HEJ-DÅ@g@z	_	X	G	_	3	conj	_	_
 8	EN-TILL	_	NUM	RG	_	9	nummod	_	_
 9	UNGE	_	NOUN	NN	_	11	nsubj	_	_
-10	BAKOM	_	ADP	PP	_	11	advmod	_	_
+10	BAKOM	_	ADV	AB	_	11	advmod	_	_
 11	SITTA(Vb)	_	VERB	VBAV	_	3	conj	_	_
-12	SYNS	_	VERB	VB	_	13	cop	_	_
+12	SYNS	_	AUX	VB	_	13	cop	_	_
 13	TJOCK	_	ADJ	JJ	_	9	acl:relcl	_	_
-14	OMÖJLIG	_	ADV	AB	_	16	aux	_	_
+14	OMÖJLIG	_	AUX	VB	_	16	aux	_	_
 15	SITTA(Vb)@hd	_	VERB	VBAV	_	3	conj	_	_
 16	VARELSE(Vb)+HOPPA-UPP@p	_	VERB	VBAV	_	3	conj	_	_
 17	PASSIVERAD@z	_	ADJ	JJ	_	3	conj	_	_

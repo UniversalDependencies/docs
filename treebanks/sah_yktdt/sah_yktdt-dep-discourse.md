@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-36 nodes (3%) are attached to their parents as `discourse`.
+37 nodes (3%) are attached to their parents as `discourse`.
 
-29 instances of `discourse` (81%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.77777777777778.
+30 instances of `discourse` (81%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.75675675675676.
 
-The following 4 pairs of parts of speech are connected with `discourse`: <tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sah_yktdt-pos-PART.html">PART</a></tt> (15; 42% instances), <tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sah_yktdt-pos-PART.html">PART</a></tt> (13; 36% instances), <tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sah_yktdt-pos-INTJ.html">INTJ</a></tt> (7; 19% instances), <tt><a href="sah_yktdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sah_yktdt-pos-PART.html">PART</a></tt> (1; 3% instances).
+The following 4 pairs of parts of speech are connected with `discourse`: <tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sah_yktdt-pos-PART.html">PART</a></tt> (16; 43% instances), <tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sah_yktdt-pos-PART.html">PART</a></tt> (13; 35% instances), <tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sah_yktdt-pos-INTJ.html">INTJ</a></tt> (7; 19% instances), <tt><a href="sah_yktdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sah_yktdt-pos-PART.html">PART</a></tt> (1; 3% instances).
 
 
 ~~~ conllu

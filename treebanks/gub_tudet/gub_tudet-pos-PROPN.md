@@ -38,9 +38,9 @@ The 2nd highest number of forms (2) was observed with the lemma “Mair”: <em>
 
 The 3rd highest number of forms (2) was observed with the lemma “Mari”: <em>Mari, Maripe</em>.
 
-`PROPN` occurs with 3 features: <tt><a href="gub_tudet-feat-Case.html">Case</a></tt> (15; 9% instances), <tt><a href="gub_tudet-feat-Dimin.html">Dimin</a></tt> (2; 1% instances), <tt><a href="gub_tudet-feat-Emph.html">Emph</a></tt> (2; 1% instances)
+`PROPN` occurs with 3 features: <tt><a href="gub_tudet-feat-Case.html">Case</a></tt> (15; 9% instances), <tt><a href="gub_tudet-feat-Degree.html">Degree</a></tt> (2; 1% instances), <tt><a href="gub_tudet-feat-Emph.html">Emph</a></tt> (2; 1% instances)
 
-`PROPN` occurs with 3 feature-value pairs: `Case=Dat`, `Dimin=Yes`, `Emph=Yes`
+`PROPN` occurs with 3 feature-value pairs: `Case=Dat`, `Degree=Dim`, `Emph=Yes`
 
 `PROPN` occurs with 4 feature combinations.
 The most frequent feature combination is `_` (150 tokens).

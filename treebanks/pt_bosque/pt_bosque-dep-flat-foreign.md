@@ -119,7 +119,7 @@ The following 3 pairs of parts of speech are connected with `flat:foreign`: <tt>
 31	(	(	PUNCT	_	_	33	punct	_	SpaceAfter=No
 32	talvez	talvez	ADV	_	_	33	advmod	_	_
 33	haja	haver	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	_
-34	melhor	bom	ADJ	_	Gender=Fem|Number=Sing	35	amod	_	_
+34	melhor	melhor	ADJ	_	Gender=Fem|Number=Sing	35	amod	_	_
 35	tradução	tradução	NOUN	_	Gender=Fem|Number=Sing	33	obj	_	_
 36	para	para	ADP	_	_	38	case	_	_
 37	«	«	PUNCT	_	_	38	punct	_	SpaceAfter=No

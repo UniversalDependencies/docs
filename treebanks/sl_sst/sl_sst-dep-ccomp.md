@@ -22,11 +22,11 @@ The following 13 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 5 ccomp	color:blue
-1	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	2	aux	_	word=je|msd=Gp-ste-n
-2	videl	videti	VERB	Vmbp-sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	word=vidu|msd=Ggvd-em
-3	kakšne	kakšen	DET	Pq-fpa	Case=Acc|Gender=Fem|Number=Plur|PronType=Int	4	det	_	word=kakšne|msd=Zv-zmt
-4	barve	barva	NOUN	Ncfpa	Case=Acc|Gender=Fem|Number=Plur	5	obj	_	word=barve|msd=Sozmt
-5	mešajo	mešati	VERB	Vmpr3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	word=mešajo|msd=Ggnstm
+1	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	2	aux	_	pronunciation=je
+2	videl	videti	VERB	Vmbp-sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	pronunciation=vidu
+3	kakšne	kakšen	DET	Pq-fpa	Case=Acc|Gender=Fem|Number=Plur|PronType=Int	4	det	_	pronunciation=kakšne
+4	barve	barva	NOUN	Ncfpa	Case=Acc|Gender=Fem|Number=Plur	5	obj	_	pronunciation=barve
+5	mešajo	mešati	VERB	Vmpr3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	pronunciation=mešajo
 
 ~~~
 
@@ -37,12 +37,12 @@ The following 13 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 6 ccomp	color:blue
-1	mislim	misliti	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	word=mislim|msd=Ggnspe
-2	da	da	SCONJ	Cs	_	6	mark	_	word=da|msd=Vd
-3	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	cop	_	word=je|msd=Gp-ste-n
-4	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	nsubj	_	word=to|msd=Zk-sei
-5	velik	velik	ADJ	Agpmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	word=velik|msd=Ppnmein
-6	problem	problem	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	1	ccomp	_	word=problem|msd=Somei
+1	mislim	misliti	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=mislim
+2	da	da	SCONJ	Cs	_	6	mark	_	pronunciation=da
+3	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	cop	_	pronunciation=je
+4	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	nsubj	_	pronunciation=to
+5	velik	velik	ADJ	Agpmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	pronunciation=velik
+6	problem	problem	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	1	ccomp	_	pronunciation=problem
 
 ~~~
 
@@ -53,15 +53,15 @@ The following 13 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 7 ccomp	color:blue
-1	sony	Sony	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	word=soni|msd=Slmei
-2	mislim	misliti	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	word=mislm|msd=Ggnspe
-3	pa	pa	CCONJ	Cc	_	2	advmod	_	word=pa|msd=Vp
-4	da	da	SCONJ	Cs	_	7	mark	_	word=da|msd=Vd
-5	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	cop	_	word=je|msd=Gp-ste-n
-6	malo	malo	DET	Rgp	PronType=Ind	7	advmod	_	word=mal|msd=Rsn
-7	dražji	drag	ADJ	Agcmsny	Case=Nom|Definite=Def|Degree=Cmp|Gender=Masc|Number=Sing	2	ccomp	_	word=dražji|msd=Pppmeid
-8	ne	ne	PART	Q	_	2	discourse	_	word=ne|msd=L
-9	?	?	PUNCT	Z	_	2	punct	_	word=?|msd=U
+1	sony	Sony	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	pronunciation=soni
+2	mislim	misliti	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=mislm
+3	pa	pa	CCONJ	Cc	_	2	advmod	_	pronunciation=pa
+4	da	da	SCONJ	Cs	_	7	mark	_	pronunciation=da
+5	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	cop	_	pronunciation=je
+6	malo	malo	DET	Rgp	PronType=Ind	7	advmod	_	pronunciation=mal
+7	dražji	drag	ADJ	Agcmsny	Case=Nom|Definite=Def|Degree=Cmp|Gender=Masc|Number=Sing	2	ccomp	_	pronunciation=dražji
+8	ne	ne	PART	Q	Polarity=Neg	2	discourse	_	pronunciation=ne
+9	?	?	PUNCT	Z	_	2	punct	_	pronunciation=?
 
 ~~~
 

@@ -26,7 +26,7 @@ The following 9 pairs of parts of speech are connected with `acl`: <tt><a href="
 1	El	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	máximo	máximo	NOUN	NN	Gender=Masc|Number=Sing	4	nsubj	_	_
 3	permitido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	_
-4	es	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	es	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	de	de	ADP	IN	_	7	case	_	_
 6	5 000	5 000	NUM	CD	Gender=Masc|NumType=Card	7	nummod	_	_
 7	$	_	NOUN	NN	Gender=Masc|Number=Plur	4	obl	_	_
@@ -49,7 +49,7 @@ The following 9 pairs of parts of speech are connected with `acl`: <tt><a href="
 4	película	película	NOUN	NN	Gender=Fem|Number=Sing	0	root	_	_
 5	más	_	ADV	RBR	Degree=Cmp	6	advmod	_	_
 6	exitosa	_	ADJ	JJ	Gender=Fem|Number=Sing	4	amod	_	_
-7	fue	ser	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	_
+7	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	_
 8	"	"	PUNCT	``	_	10	punct	_	SpaceAfter=No
 9	El	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	Proper=True
 10	Greco	Greco	PROPN	NNP	Gender=Masc|Number=Sing	4	nsubj	_	SpaceAfter=No
@@ -57,7 +57,7 @@ The following 9 pairs of parts of speech are connected with `acl`: <tt><a href="
 12	,	,	PUNCT	,	_	13	punct	_	_
 13	dirigida	_	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	10	acl	_	_
 14	por	por	ADP	IN	_	15	case	_	_
-15	Yannis	Yannis	PROPN	NNP	Gender=Masc|Number=Sing	13	obl	_	_
+15	Yannis	Yannis	PROPN	NNP	Gender=Masc|Number=Sing	13	obl:agent	_	_
 16	Smaragdis	Smaragdis	PROPN	NNP	Gender=Masc|Number=Sing	15	flat:name	_	SpaceAfter=No
 17	.	.	PUNCT	.	_	4	punct	_	_
 
@@ -72,11 +72,11 @@ The following 9 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 11 9 acl	color:blue
 1	No	no	ADV	RB	Polarity=Neg	3	advmod	_	_
 2	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl:pass	_	_
-3	sabe	saber	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	sabe	saber	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	de	de	ADP	IN	_	6	case	_	_
-5	que	que	DET	WDT	Gender=Masc|Number=Sing|PronType=Int,Rel	6	det	_	_
+5	que	que	DET	WDT	Gender=Masc|Number=Sing|PronType=Rel	6	det	_	_
 6	modo	modo	NOUN	NN	Gender=Masc|Number=Sing	8	obl	_	_
-7	han	haber	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	aux	_	_
+7	han	haber	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	8	aux	_	_
 8	trabajado	trabajar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	csubj:pass	_	_
 9	juntos	junto	ADJ	JJ	Gender=Masc|Number=Plur	11	acl	_	_
 10	ambos	ambo	DET	DT	Gender=Masc|Number=Plur|NumType=Card|PronType=Tot	11	det	_	_

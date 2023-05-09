@@ -11,9 +11,9 @@ This relation is universal.
 320 nodes (19%) are attached to their parents as `punct`.
 
 310 instances of `punct` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.4375.
+Average distance between parent and child is 2.5.
 
-The following 5 pairs of parts of speech are connected with `punct`: <tt><a href="en_pronouns-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pronouns-pos-PUNCT.html">PUNCT</a></tt> (225; 70% instances), <tt><a href="en_pronouns-pos-PRON.html">PRON</a></tt>-<tt><a href="en_pronouns-pos-PUNCT.html">PUNCT</a></tt> (70; 22% instances), <tt><a href="en_pronouns-pos-ADV.html">ADV</a></tt>-<tt><a href="en_pronouns-pos-PUNCT.html">PUNCT</a></tt> (10; 3% instances), <tt><a href="en_pronouns-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pronouns-pos-PUNCT.html">PUNCT</a></tt> (10; 3% instances), <tt><a href="en_pronouns-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_pronouns-pos-PUNCT.html">PUNCT</a></tt> (5; 2% instances).
+The following 4 pairs of parts of speech are connected with `punct`: <tt><a href="en_pronouns-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pronouns-pos-PUNCT.html">PUNCT</a></tt> (230; 72% instances), <tt><a href="en_pronouns-pos-PRON.html">PRON</a></tt>-<tt><a href="en_pronouns-pos-PUNCT.html">PUNCT</a></tt> (70; 22% instances), <tt><a href="en_pronouns-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_pronouns-pos-PUNCT.html">PUNCT</a></tt> (10; 3% instances), <tt><a href="en_pronouns-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pronouns-pos-PUNCT.html">PUNCT</a></tt> (10; 3% instances).
 
 
 ~~~ conllu
@@ -48,19 +48,15 @@ The following 5 pairs of parts of speech are connected with `punct`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 8 punct	color:blue
-1	Hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
-2	and	and	CCONJ	CC	_	4	cc	_	_
-3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
-4	dealer	dealer	NOUN	NN	Number=Sing	1	conj	_	SpaceAfter=No
-5	's	's	PART	POS	_	4	case	_	_
-6	sold	sell	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-7	quickly	quickly	ADV	RB	_	6	advmod	_	SpaceAfter=No
-8	.	.	PUNCT	.	_	7	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 punct	color:blue
+1	Hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nsubj	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	nice	nice	ADJ	JJ	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	.	_	3	punct	_	_
 
 ~~~
 

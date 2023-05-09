@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 2 different values: `Post`, `Prep`.
 
-1429 tokens (2%) have a non-empty value of `AdpType`.
+1423 tokens (2%) have a non-empty value of `AdpType`.
 139 types (1%) occur at least once with a non-empty value of `AdpType`.
 118 lemmas (1%) occur at least once with a non-empty value of `AdpType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="et_ewt-pos-ADP.html">ADP</a></tt> (1423; 2% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (6; 0% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="et_ewt-pos-ADP.html">ADP</a></tt> (1423; 2% instances).
 
 ### `ADP`
 
@@ -27,13 +27,4 @@ The feature is used with 2 part-of-speech tags: <tt><a href="et_ewt-pos-ADP.html
   <tr><th>Paradigm <i>peale</i></th><th><tt>Post</tt></th><th><tt>Prep</tt></th></tr>
   <tr><td><tt></tt></td><td><em>peale</em></td><td><em>peale</em></td></tr>
 </table>
-
-### `ADV`
-
-6 <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `AdpType`.
-
-`ADV` tokens may have the following values of `AdpType`:
-
-* `Post` (3; 50% of non-empty `AdpType`): <em>ette, peale, üle</em>
-* `Prep` (3; 50% of non-empty `AdpType`): <em>enne, mööda, pärast</em>
 

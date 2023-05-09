@@ -58,7 +58,7 @@ The following 9 pairs of parts of speech are connected with `obl:cmp`: <tt><a hr
 11	imperium	imperium	NOUN	sns2n	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	4	obl:cmp	_	SpaceAfter=No
 12	”	”	PUNCT	Pu	_	11	punct	_	_
 13	poterat	possum	VERB	va5iis3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Imperfectum
-14	nominari	nomino	VERB	vp1fp	Aspect=Imp|VerbForm=Vnoun|Voice=Pass	13	csubj:pass	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Praesens
+14	nominari	nomino	VERB	vp1fp	Aspect=Imp|VerbForm=Inf|Voice=Pass	13	csubj:pass	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Praesens
 15	»	»	PUNCT	Pu	_	13	punct	_	SpaceAfter=No
 16	.	.	PUNCT	Pu	_	13	punct	_	_
 

@@ -25,7 +25,7 @@ The following 31 pairs of parts of speech are connected with `advcl`: <tt><a hre
 1	Og	_	CCONJ	CONJ	_	3	cc	_	_
 2	hon	_	PRON	PRO-N	Case=Nom	3	nsubj	_	_
 3	læt	_	VERB	VBDI	Mood=Ind|Tense=Past	0	root	_	_
-4	eyguni	_	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	3	obj	_	_
+4	eyguni	_	NOUN	NS-A	Case=Acc|Definite=Def|Number=Plur	3	obj	_	_
 5	upp	_	ADP	RP	_	3	compound:prt	_	SpaceAfter=No
 6	,	,	PUNCT	.	_	5	punct	_	_
 7	og	_	CCONJ	CONJ	_	14	cc	_	_

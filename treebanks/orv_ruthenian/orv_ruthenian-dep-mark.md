@@ -8,36 +8,28 @@ udver: '2'
 
 This relation is universal.
 
-68 nodes (2%) are attached to their parents as `mark`.
+176 nodes (2%) are attached to their parents as `mark`.
 
-68 instances of `mark` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 9.67647058823529.
+175 instances of `mark` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.94886363636364.
 
-The following 4 pairs of parts of speech are connected with `mark`: <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-SCONJ.html">SCONJ</a></tt> (57; 84% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-SCONJ.html">SCONJ</a></tt> (5; 7% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-SCONJ.html">SCONJ</a></tt> (3; 4% instances), <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_ruthenian-pos-SCONJ.html">SCONJ</a></tt> (3; 4% instances).
+The following 7 pairs of parts of speech are connected with `mark`: <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-SCONJ.html">SCONJ</a></tt> (138; 78% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-SCONJ.html">SCONJ</a></tt> (18; 10% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-SCONJ.html">SCONJ</a></tt> (8; 5% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> (7; 4% instances), <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_ruthenian-pos-SCONJ.html">SCONJ</a></tt> (3; 2% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 15 12 mark	color:blue
-1	Яко	_	SCONJ	IN	_	3	mark	_	_
-2	Цыцеро	_	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	3	nsubj	_	_
-3	поведилъ	_	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
-4	,	_	PUNCT	PUNCT	_	7	punct	_	_
-5	ижъ	_	SCONJ	IN	_	7	mark	_	_
-6	естесмо	_	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	_
-7	невольниками	_	NOUN	NN	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	3	ccomp	_	_
-8	правъ	_	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	7	nmod	_	_
-9	для	_	ADP	IN	_	10	case	_	_
-10	того	_	PRON	DT	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	7	obl	_	SpaceAfter=No
-11	,	_	PUNCT	PUNCT	_	15	punct	_	_
-12	абысьмы	_	SCONJ	IN	Analyt=Yes|Mood=Cnd|Number=Plur|Person=1	15	mark	_	_
-13	вольности	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	14	obj	_	_
-14	уживати	_	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Act	15	xcomp	_	_
-15	могли	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	10	acl	_	SpaceAfter=No
-16	.	_	PUNCT	PUNCT	_	3	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 mark	color:blue
+1	А	а	CCONJ	_	_	4	cc	_	wf="А"
+2	нынѣ	нынѣ	ADV	_	Degree=Pos	4	advmod	_	wf="нынѣ"
+3	абысте	абы	SCONJ	_	Analyt=Yes|Mood=Cnd|Number=Plur|Person=2	4	mark	_	wf="абысте"
+4	пустили	пустити	VERB	_	Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	wf="пустили"
+5	жито	жити	VERB	_	VerbForm=Inf|Voice=Act	4	xcomp	_	wf="жито"
+6	оу	въ	ADP	_	_	7	case	_	wf="оу"
+7	Полотеско	Полотескъ	PROPN	_	Case=Acc|Gender=Masc|NameType=Geo|Number=Sing	4	obl	_	wf="Полотеско"|SpaceAfter=No
+8	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
 
@@ -48,60 +40,44 @@ The following 4 pairs of parts of speech are connected with `mark`: <tt><a href=
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 5 mark	color:blue
-1	Яко	_	SCONJ	IN	_	3	mark	_	_
-2	Цыцеро	_	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	3	nsubj	_	_
-3	поведилъ	_	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
-4	,	_	PUNCT	PUNCT	_	7	punct	_	_
-5	ижъ	_	SCONJ	IN	_	7	mark	_	_
-6	естесмо	_	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	_
-7	невольниками	_	NOUN	NN	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	3	ccomp	_	_
-8	правъ	_	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	7	nmod	_	_
-9	для	_	ADP	IN	_	10	case	_	_
-10	того	_	PRON	DT	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	7	obl	_	SpaceAfter=No
-11	,	_	PUNCT	PUNCT	_	15	punct	_	_
-12	абысьмы	_	SCONJ	IN	Analyt=Yes|Mood=Cnd|Number=Plur|Person=1	15	mark	_	_
-13	вольности	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	14	obj	_	_
-14	уживати	_	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Act	15	xcomp	_	_
-15	могли	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	10	acl	_	SpaceAfter=No
-16	.	_	PUNCT	PUNCT	_	3	punct	_	_
+1	Яко	яко	SCONJ	IN	_	3	mark	_	_
+2	Цыцеро	Цыцеро	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	3	nsubj	_	_
+3	поведилъ	поведети	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	PUNCT	_	7	punct	_	_
+5	ижъ	ижъ	SCONJ	IN	_	7	mark	_	_
+6	естесмо	быти	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	_
+7	невольниками	невольникъ	NOUN	NN	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	3	ccomp	_	_
+8	правъ	право	NOUN	NN	Case=Gen|Gender=Neut|Number=Plur	7	nmod	_	_
+9	для	для	ADP	IN	_	10	case	_	_
+10	того	то	PRON	DT	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	7	obl	_	SpaceAfter=No
+11	,	,	PUNCT	PUNCT	_	15	punct	_	_
+12	абысьмы	абымъ	SCONJ	IN	Analyt=Yes|Mood=Cnd|Number=Plur|Person=1	15	mark	_	_
+13	вольности	вольность	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	14	obj	_	_
+14	уживати	уживати	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Act	15	xcomp	_	_
+15	могли	мочи	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	10	acl	_	SpaceAfter=No
+16	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 18	bgColor:blue
-# visual-style 18	fgColor:white
-# visual-style 18 10 mark	color:blue
-1	Але	_	CCONJ	CC	_	3	cc	_	_
-2	вже	_	PART	UH	_	3	advmod	_	_
-3	мало	_	ADV	RB	Degree=Pos	0	root	_	_
-4	бы	_	AUX	RP	Mood=Cnd	3	aux	_	_
-5	и	_	PART	UH	_	7	advmod	_	_
-6	на	_	ADP	IN	_	7	case	_	_
-7	томъ	_	PRON	DT	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	3	obl	_	_
-8	было	_	AUX	VBC	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	SpaceAfter=No
-9	,	_	PUNCT	PUNCT	_	18	punct	_	_
-10	ижъбы	_	SCONJ	IN	Mood=Cnd	18	mark	_	_
-11	чоловекъ	_	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	_
-12	з	_	ADP	IN	_	13	case	_	_
-13	неволи	_	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	18	obl	_	_
-14	от	_	ADP	IN	_	16	case	_	_
-15	посторонного	_	ADJ	JJL	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	_
-16	неприятеля	_	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	_
-17	былъ	_	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	18	cop	_	_
-18	воленъ	_	ADJ	JJH	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	7	acl	_	SpaceAfter=No
-19	,	_	PUNCT	PUNCT	_	27	punct	_	_
-20	кгды	_	SCONJ	IN	_	27	mark	_	_
-21	бы	_	AUX	RP	Mood=Cnd	27	aux	_	_
-22	домового	_	ADJ	JJL	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	23	amod	_	_
-23	неприятеля	_	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	26	obj	_	_
-24	надъ	_	ADP	IN	_	25	case	_	_
-25	собою	_	PRON	_	Case=Ins|PronType=Prs|Reflex=Yes	26	obl	_	_
-26	терьпети	_	VERB	NN	Aspect=Imp|VerbForm=Inf|Voice=Act	27	xcomp	_	_
-27	муселъ	_	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	advcl	_	SpaceAfter=No
-28	.	_	PUNCT	PUNCT	_	3	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 8 mark	color:blue
+1	Молюс(ь)	молитися	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	wf="Молюсь"
+2	Б(ог)у	богъ	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	1	iobj	_	wf="Богу"
+3	и	и	CCONJ	_	_	6	cc	_	wf="и"
+4	Пр(е)ч(и)стои	пречистый	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	wf="Пречистои"
+5	его	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	det	_	wf="его"
+6	М(а)т(е)ри	мать	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	2	conj	_	wf="Матери"|SpaceAfter=No
+7	,	,	PUNCT	_	_	11	punct	_	_
+8	яко	яко	SCONJ	_	_	11	mark	_	wf="яко"
+9	да	да	CCONJ	_	_	11	advmod	_	wf="да"
+10	будетѣ	быти	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	11	cop	_	wf="будетѣ"
+11	здрави	здравый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Variant=Short	1	ccomp	_	wf="здрави"|SpaceAfter=No
+12	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~
 

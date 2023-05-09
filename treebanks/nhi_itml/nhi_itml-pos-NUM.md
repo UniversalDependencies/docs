@@ -35,7 +35,7 @@ The 10 most frequent ambiguous types:  <em>ce</em> (<tt><a href="nhi_itml-pos-DE
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.064516 (the average of all parts of speech is 1.484055).
+The form / lemma ratio of `NUM` is 1.064516 (the average of all parts of speech is 1.484900).
 
 The 1st highest number of forms (3) was observed with the lemma “yeyi”: <em>yeyen, yeyi, yeyin</em>.
 

@@ -56,7 +56,7 @@ The following 3 pairs of parts of speech are connected with `nmod`: <tt><a href=
 # visual-style 5	fgColor:white
 # visual-style 5 4 nmod	color:blue
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
-2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	SpaceAfter=No
+2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
 3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	all	all	DET	DT	Case=Nom	5	nmod	_	_
 5	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No

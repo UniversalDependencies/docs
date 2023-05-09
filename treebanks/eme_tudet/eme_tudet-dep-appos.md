@@ -8,7 +8,7 @@ udver: '2'
 
 This relation is universal.
 
-7 nodes (1%) are attached to their parents as `appos`.
+7 nodes (0%) are attached to their parents as `appos`.
 
 7 instances of `appos` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.28571428571429.
@@ -27,7 +27,7 @@ The following 1 pairs of parts of speech are connected with `appos`: <tt><a href
 3	baʔe	baʔe	NOUN	n	_	1	obj	_	_
 4	:	:	PUNCT	punct	_	6	punct	_	_
 5	panaĩsĩ	panaĩsĩ	NOUN	n	_	6	nmod	_	_
-6	wãĩwĩam	wãĩwĩam	NOUN	n	Case=Tra	3	appos	_	_
+6	wãĩwĩam	wãĩwĩ	NOUN	n	Case=Tra	3	appos	_	_
 
 ~~~
 

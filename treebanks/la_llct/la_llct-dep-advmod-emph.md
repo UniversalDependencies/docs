@@ -58,7 +58,7 @@ The following 18 pairs of parts of speech are connected with `advmod:emph`: <tt>
 3	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	4	case	_	_
 4	ea	is	PRON	p|p|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	obl	_	_
 5	partem	pars	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	_
-6	abere	habeo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	7	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+6	abere	habeo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	7	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 7	debeo	debeo	VERB	v|v|1|s|p|i|a|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 8	sicut	sicut	SCONJ	c|c|-|-|-|-|-|-|-|-	_	9	mark	_	_
 9	[verb]	_	VERB	Punc	_	6	advcl	_	_
@@ -83,11 +83,11 @@ The following 18 pairs of parts of speech are connected with `advmod:emph`: <tt>
 6	et	et	CCONJ	d|d|-|-|-|-|-|-|-|-	_	7	advmod:emph	_	_
 7	res	res	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	14	advcl:cmp	_	_
 8	bene	bene	ADV	d|d|-|-|-|-|-|-|-|-	_	9	advmod	_	_
-9	lavorare	laboro	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	4	conj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+9	lavorare	laboro	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	4	conj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 10	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	11	cc	_	_
-11	gubernare	guberno	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	4	conj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+11	gubernare	guberno	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	4	conj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 12	seo	seu	CCONJ	c|c|-|-|-|-|-|-|-|-	_	13	cc	_	_
-13	meliorare	melioro	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	4	conj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+13	meliorare	melioro	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	4	conj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 14	debeamus	debeo	VERB	v|v|1|p|p|s|a|-|-|-	Aspect=Imp|Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|TraditionalMood=Subiunctivus|TraditionalTense=Praesens
 15	.	.	PUNCT	Punc	_	14	punct	_	_
 

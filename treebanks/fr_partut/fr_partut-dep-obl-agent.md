@@ -58,7 +58,7 @@ The following 2 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 12	toxiques	toxique	ADJ	A	Number=Plur	11	amod	_	_
 13	que	que	ADP	E	_	15	case	_	_
 14	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	15	det	_	_
-15	taux	taux	NOUN	S	Gender=Masc	8	nmod	_	_
+15	taux	taux	NOUN	S	Gender=Masc|Number=Plur	8	nmod	_	_
 16	autorisés	autoriser	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	15	acl	_	_
 17	par	par	ADP	E	_	19	case	_	_
 18	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_

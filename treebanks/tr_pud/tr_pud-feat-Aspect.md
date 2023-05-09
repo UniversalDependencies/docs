@@ -10,7 +10,7 @@ This feature is universal but the values `Hab`, `Prosp` are language-specific.
 It occurs with 4 different values: `Hab`, `Perf`, `Prog`, `Prosp`.
 
 1849 tokens (11%) have a non-empty value of `Aspect`.
-1184 types (16%) occur at least once with a non-empty value of `Aspect`.
+1185 types (16%) occur at least once with a non-empty value of `Aspect`.
 547 lemmas (12%) occur at least once with a non-empty value of `Aspect`.
 The feature is used with 3 part-of-speech tags: <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> (1612; 10% instances), <tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> (236; 1% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
@@ -18,7 +18,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="tr_pud-pos-VERB.htm
 
 1612 <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> tokens (95% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="tr_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1409; 87%), <tt><a href="tr_pud-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (1408; 87%), <tt><a href="tr_pud-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (1407; 87%), <tt><a href="tr_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1292; 80%), <tt><a href="tr_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1255; 78%), <tt><a href="tr_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1204; 75%), <tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1095; 68%), <tt><a href="tr_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1085; 67%), <tt><a href="tr_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (996; 62%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="tr_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1409; 87%), <tt><a href="tr_pud-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (1408; 87%), <tt><a href="tr_pud-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (1407; 87%), <tt><a href="tr_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1292; 80%), <tt><a href="tr_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1255; 78%), <tt><a href="tr_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1203; 75%), <tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1094; 68%), <tt><a href="tr_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1085; 67%), <tt><a href="tr_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (996; 62%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
@@ -26,7 +26,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 * `Perf` (1253; 78% of non-empty `Aspect`): <em>dedi, etti, başladı, söyledi, çıktı, edildi, verdi, etmek, geldi, yapmak</em>
 * `Prog` (195; 12% of non-empty `Aspect`): <em>ediyor, söylüyor, geliyor, gerekiyor, görünüyor, gösteriyor, alıyor, bulunmaktadır, diyor, içeriyor</em>
 * `Prosp` (4; 0% of non-empty `Aspect`): <em>okuyacaktı, olacaklardı, yaratacaktı, üretecekti</em>
-* `EMPTY` (81): <em>değil, olsa, yana, alan, göre, ise, tartışmalı, vurgular, Seçmeli, ahdet</em>
+* `EMPTY` (82): <em>değil, olsa, yana, alan, göre, ise, tartışmalı, vurgular, Seçmeli, ahdet</em>
 
 <table>
   <tr><th>Paradigm <i>et</i></th><th><tt>Perf</tt></th><th><tt>Prog</tt></th><th><tt>Hab</tt></th></tr>
@@ -138,7 +138,7 @@ The 10 most frequent relations where parent and child node agree in `Aspect`:
 <tt>VERB --[<tt><a href="tr_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (85; 81%),
 <tt>VERB --[<tt><a href="tr_pud-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (54; 61%),
 <tt>VERB --[<tt><a href="tr_pud-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (38; 69%),
-<tt>VERB --[<tt><a href="tr_pud-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (23; 74%),
-<tt>VERB --[<tt><a href="tr_pud-dep-obj.html">obj</a></tt>]--> VERB</tt> (12; 71%),
+<tt>VERB --[<tt><a href="tr_pud-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (23; 72%),
+<tt>VERB --[<tt><a href="tr_pud-dep-obj.html">obj</a></tt>]--> VERB</tt> (13; 72%),
 <tt>VERB --[<tt><a href="tr_pud-dep-iobj.html">iobj</a></tt>]--> VERB</tt> (11; 69%).
 

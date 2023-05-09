@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `flat`: <tt><a href="ga_twittirish-dep-flat-foreign.html">flat:foreign</a></tt>, <tt><a href="ga_twittirish-dep-flat-name.html">flat:name</a></tt>.
 
-114 nodes (1%) are attached to their parents as `flat`.
+241 nodes (1%) are attached to their parents as `flat`.
 
-114 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.48245614035088.
+241 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.59336099585062.
 
-The following 16 pairs of parts of speech are connected with `flat`: <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt> (32; 28% instances), <tt><a href="ga_twittirish-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_twittirish-pos-NUM.html">NUM</a></tt> (30; 26% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (19; 17% instances), <tt><a href="ga_twittirish-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (7; 6% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt> (6; 5% instances), <tt><a href="ga_twittirish-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt> (5; 4% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-DET.html">DET</a></tt> (3; 3% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-NUM.html">NUM</a></tt> (3; 3% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-NUM.html">NUM</a></tt> (2; 2% instances), <tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="ga_twittirish-pos-X.html">X</a></tt>-<tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="ga_twittirish-pos-X.html">X</a></tt>-<tt><a href="ga_twittirish-pos-X.html">X</a></tt> (1; 1% instances).
+The following 21 pairs of parts of speech are connected with `flat`: <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt> (71; 29% instances), <tt><a href="ga_twittirish-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_twittirish-pos-NUM.html">NUM</a></tt> (56; 23% instances), <tt><a href="ga_twittirish-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt> (29; 12% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (22; 9% instances), <tt><a href="ga_twittirish-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (13; 5% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt> (11; 5% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-NUM.html">NUM</a></tt> (11; 5% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-NUM.html">NUM</a></tt> (7; 3% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-DET.html">DET</a></tt> (4; 2% instances), <tt><a href="ga_twittirish-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_twittirish-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="ga_twittirish-pos-X.html">X</a></tt>-<tt><a href="ga_twittirish-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="ga_twittirish-pos-X.html">X</a></tt>-<tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-X.html">X</a></tt>-<tt><a href="ga_twittirish-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -61,23 +61,18 @@ The following 16 pairs of parts of speech are connected with `flat`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 flat	color:blue
-1	DÉ	Dé	NOUN	_	_	5	obl:tmod	_	Lang=ga
-2	LUAIN	Luan	NOUN	_	_	1	flat	_	Lang=ga
-3	-	-	PUNCT	_	_	5	punct	_	_
-4	Is	is	AUX	_	_	5	cop	_	Lang=ga
-5	breá	breá	ADJ	_	_	0	root	_	Lang=ga
-6	liom	le	ADP	_	_	5	obl:prep	_	Lang=ga
-7	an	an	DET	_	_	8	det	_	Lang=ga
-8	tamhrán	amhrán	NOUN	_	_	5	nsubj	_	Lang=ga
-9	seo	seo	DET	_	_	8	det	_	Lang=ga
-10	ó	ó	ADP	_	_	11	case	_	Lang=ga
-11	@HeathersTunes	@HeathersTunes	PROPN	_	_	8	nmod	_	_
-12	http://t.co/3V6wHqvJJa	http://t.co/3V6wHqvJJa	SYM	_	_	1	parataxis:url	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 flat	color:blue
+1	Oíche	oíche	NOUN	_	_	0	root	_	Lang=ga
+2	Bhriotánaise	Bhriotánais	PROPN	_	_	1	nmod	_	Lang=ga
+3	i	i	ADP	_	_	4	case	_	Lang=ga
+4	nGaillimh	Gaillimh	PROPN	_	_	1	nmod	_	Lang=ga
+5	26	26	NUM	_	_	1	obl:tmod	_	Lang=ga
+6	Samhain	Samhain	PROPN	_	_	5	flat	_	Lang=ga
+7	https://t.co/xWjikRQQJ5	https://t.co/xWjikRQQJ5	SYM	_	_	1	parataxis:url	_	_
 
 ~~~
 

@@ -8,78 +8,66 @@ udver: '2'
 
 This relation is universal.
 
-2330 nodes (5%) are attached to their parents as `case`.
+3146 nodes (5%) are attached to their parents as `case`.
 
-2317 instances of `case` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.26223175965665.
+3132 instances of `case` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.25492689129053.
 
-The following 23 pairs of parts of speech are connected with `case`: <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-ADP.html">ADP</a></tt> (1680; 72% instances), <tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="vi_vtb-pos-ADP.html">ADP</a></tt> (241; 10% instances), <tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt>-<tt><a href="vi_vtb-pos-ADP.html">ADP</a></tt> (162; 7% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-SCONJ.html">SCONJ</a></tt> (64; 3% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-ADP.html">ADP</a></tt> (55; 2% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-ADP.html">ADP</a></tt> (31; 1% instances), <tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt>-<tt><a href="vi_vtb-pos-SCONJ.html">SCONJ</a></tt> (20; 1% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-SCONJ.html">SCONJ</a></tt> (19; 1% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (15; 1% instances), <tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt>-<tt><a href="vi_vtb-pos-ADP.html">ADP</a></tt> (9; 0% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (7; 0% instances), <tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="vi_vtb-pos-SCONJ.html">SCONJ</a></tt> (7; 0% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="vi_vtb-pos-DET.html">DET</a></tt>-<tt><a href="vi_vtb-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="vi_vtb-pos-X.html">X</a></tt>-<tt><a href="vi_vtb-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt>-<tt><a href="vi_vtb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt>-<tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 28 pairs of parts of speech are connected with `case`: <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-ADP.html">ADP</a></tt> (2313; 74% instances), <tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="vi_vtb-pos-ADP.html">ADP</a></tt> (281; 9% instances), <tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt>-<tt><a href="vi_vtb-pos-ADP.html">ADP</a></tt> (194; 6% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-SCONJ.html">SCONJ</a></tt> (100; 3% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-ADP.html">ADP</a></tt> (59; 2% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-ADP.html">ADP</a></tt> (32; 1% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (32; 1% instances), <tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt>-<tt><a href="vi_vtb-pos-SCONJ.html">SCONJ</a></tt> (31; 1% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-SCONJ.html">SCONJ</a></tt> (20; 1% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (19; 1% instances), <tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt>-<tt><a href="vi_vtb-pos-ADP.html">ADP</a></tt> (16; 1% instances), <tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="vi_vtb-pos-SCONJ.html">SCONJ</a></tt> (15; 0% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), <tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="vi_vtb-pos-DET.html">DET</a></tt>-<tt><a href="vi_vtb-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt>-<tt><a href="vi_vtb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt>-<tt><a href="vi_vtb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt>-<tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="vi_vtb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 case	color:blue
-1	Đêm	đêm	NOUN	N	_	7	obl:tmod	_	_
-2	,	,	PUNCT	,	_	1	punct	_	_
-3	đội	đội	NOUN	N	_	7	nsubj	_	_
-4	quân	quân	NOUN	N	_	3	compound	_	_
-5	từ	từ	ADP	Pre	_	6	case	_	_
-6	mặt đất	mặt đất	NOUN	N	_	7	obl:comp	_	_
-7	tỏa	tỏa	VERB	V	_	0	root	_	_
-8	lên	lên	ADV	Adv	_	7	compound:prt	_	_
-9	đặt	đặt	VERB	V	_	7	xcomp	_	_
-10	mìn	mìn	NOUN	N	_	9	obj	_	_
-11	gạt	gạt	VERB	V	_	10	compound:vmod	_	_
-12	,	,	PUNCT	,	_	13	punct	_	_
-13	gài	gài	VERB	V	_	9	conj	_	_
-14	chông	chông	NOUN	N	_	13	obj	_	_
-15	.	.	PUNCT	.	_	7	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 8 case	color:blue
+1	Thưa	thưa	VERB	V	_	7	vocative	_	_
+2	ông	ông	NOUN	N	_	1	obj	_	_
+3	,	,	PUNCT	PUNCT	_	7	punct	_	_
+4	sổ đỏ	sổ đỏ	NOUN	N	_	7	nsubj:pass	_	_
+5	đã	đã	ADV	ADV	_	7	advmod	_	_
+6	được	được	AUX	AUX	_	7	aux:pass	_	_
+7	giao	giao	VERB	V	_	0	root	_	_
+8	cho	cho	ADP	PRE	_	9	case	_	_
+9	người	người	NOUN	N	_	7	obl:iobj	_	_
+10	dân	dân	NOUN	N	_	9	compound	_	_
+11	.	.	PUNCT	PUNCT	_	7	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 case	color:blue
-1	Ông	ông	NOUN	N	_	3	nsubj	_	_
-2	cũng	cũng	ADV	Adv	_	3	advmod	_	_
-3	thú nhận	thú nhận	VERB	V	_	0	root	_	_
-4	với	với	ADP	Pre	_	5	case	_	_
-5	Kim	Kim	PROPN	NNP	_	3	obl:with	_	_
-6	là	là	SCONJ	SC	_	9	mark	_	_
-7	mình	mình	PRON	Pro	_	9	nsubj	_	_
-8	đã	đã	ADV	Adv	_	9	advmod	_	_
-9	có	có	VERB	V	_	3	ccomp	_	_
-10	vợ	vợ	NOUN	N	_	9	obj	_	_
-11	.	.	PUNCT	.	_	3	punct	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 10 case	color:blue
+1	Vừa	vừa	ADV	ADV	_	2	advmod	_	_
+2	may	may	ADJ	ADJ	_	8	advcl	_	_
+3	lúc	lúc	NOUN	N	_	8	obl:tmod	_	_
+4	đó	đó	PRON	PRO	_	3	det:pmod	_	_
+5	anh	anh	NOUN	N	_	6	clf:det	_	_
+6	Ba Duẩn	Ba Duẩn	PROPN	NNP	_	8	nsubj	_	_
+7	đang	đang	ADV	ADV	_	8	advmod	_	_
+8	đi	đi	VERB	V	_	0	root	_	_
+9	công tác	công tác	VERB	V	_	8	xcomp	_	_
+10	ở	ở	ADP	PRE	_	11	case	_	_
+11	Quảng Bình	Quảng Bình	PROPN	NNP	_	9	obl	_	_
+12	.	.	PUNCT	PUNCT	_	8	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 case	color:blue
-1	Cô	cô	NOUN	N	_	2	nsubj	_	_
-2	chỉ	chỉ	VERB	V	_	0	root	_	_
-3	cho	cho	ADP	Pre	_	4	case	_	_
-4	tôi	tôi	PRON	Pro	_	2	obl:iobj	_	_
-5	biết	biết	VERB	V	_	4	acl:subj	_	_
-6	làm	làm	VERB	V	_	5	xcomp	_	_
-7	thế nào	thế nào	PRON	Pro	_	6	obl	_	_
-8	để	để	ADP	Pre	_	10	mark:pcomp	_	_
-9	được	được	AUX	AUX	_	10	aux:pass	_	_
-10	yên ổn	yên ổn	ADJ	Adj	_	6	advcl:objective	_	_
-11	?	?	PUNCT	?	_	6	punct	_	_
-12	.	.	PUNCT	.	_	2	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 case	color:blue
+1	Ở	ở	ADP	PRE	_	2	case	_	_
+2	đâu	đâu	PRON	PRO	_	0	root	_	_
+3	?	?	PUNCT	PUNCT	_	2	punct	_	_
 
 ~~~
 

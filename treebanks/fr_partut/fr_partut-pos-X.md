@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_French-ParTUT: POS Tags: `X`
 
 There are 10 `X` lemmas (0%), 10 `X` types (0%) and 10 `X` tokens (0%).
-Out of 17 observed tags, the rank of `X` is: 11 in number of lemmas, 13 in number of types and 16 in number of tokens.
+Out of 17 observed tags, the rank of `X` is: 11 in number of lemmas, 14 in number of types and 16 in number of tokens.
 
 The 10 most frequent `X` lemmas: <em>217a, 4d, X, a, ad, b, capital, hoc, risk, social</em>
 
@@ -26,7 +26,7 @@ The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="fr_partut-pos-AU
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.431648).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.452949).
 
 The 1st highest number of forms (1) was observed with the lemma “217a”: <em>217a</em>.
 

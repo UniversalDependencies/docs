@@ -16,11 +16,11 @@ Family: Uralic, Mordvin
 
 This treebank has been part of Universal Dependencies since the UD v2.5 release.
 
-The following people have contributed to making this treebank part of UD: Jack Rueter, Maria Levina, Nadezhda Kabaeva, Judit Molnár.
+The following people have contributed to making this treebank part of UD: Jack Rueter, Maria Levina, Nadezhda Kabaeva, Judit Molnár, Khalid Alnajjar.
 
 Repository: [UD_Moksha-JR](https://github.com/UniversalDependencies/UD_Moksha-JR)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udmdf_jr211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udmdf_jr212)<br />
+Download all treebanks: [UD 2.12](/#download)
 
 License: CC BY-SA 4.0
 
@@ -103,21 +103,21 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
 
 ## Features
 
-[Abbr](mdf_jr-feat-Abbr.html) – [AdpType](mdf_jr-feat-AdpType.html) – [AdvType](mdf_jr-feat-AdvType.html) – [Animacy](mdf_jr-feat-Animacy.html) – [Aspect](mdf_jr-feat-Aspect.html) – [Case](mdf_jr-feat-Case.html) – [Clitic](mdf_jr-feat-Clitic.html) – [Connegative](mdf_jr-feat-Connegative.html) – [Definite](mdf_jr-feat-Definite.html) – [Degree](mdf_jr-feat-Degree.html) – [Derivation](mdf_jr-feat-Derivation.html) – [Gender](mdf_jr-feat-Gender.html) – [Mood](mdf_jr-feat-Mood.html) – [NameType](mdf_jr-feat-NameType.html) – [NounType](mdf_jr-feat-NounType.html) – [Number](mdf_jr-feat-Number.html) – [Number[obj]](mdf_jr-feat-Number-obj.html) – [Number[psor]](mdf_jr-feat-Number-psor.html) – [Number[subj]](mdf_jr-feat-Number-subj.html) – [NumForm](mdf_jr-feat-NumForm.html) – [NumType](mdf_jr-feat-NumType.html) – [Person](mdf_jr-feat-Person.html) – [Person[obj]](mdf_jr-feat-Person-obj.html) – [Person[psor]](mdf_jr-feat-Person-psor.html) – [Person[subj]](mdf_jr-feat-Person-subj.html) – [Polarity](mdf_jr-feat-Polarity.html) – [PronType](mdf_jr-feat-PronType.html) – [Reflex](mdf_jr-feat-Reflex.html) – [Style](mdf_jr-feat-Style.html) – [Tense](mdf_jr-feat-Tense.html) – [Typo](mdf_jr-feat-Typo.html) – [Valency](mdf_jr-feat-Valency.html) – [Variant](mdf_jr-feat-Variant.html) – [VerbForm](mdf_jr-feat-VerbForm.html) – [VerbType](mdf_jr-feat-VerbType.html)
+[Abbr](mdf_jr-feat-Abbr.html) – [AdpType](mdf_jr-feat-AdpType.html) – [AdvType](mdf_jr-feat-AdvType.html) – [Animacy](mdf_jr-feat-Animacy.html) – [Aspect](mdf_jr-feat-Aspect.html) – [Case](mdf_jr-feat-Case.html) – [Clitic](mdf_jr-feat-Clitic.html) – [Connegative](mdf_jr-feat-Connegative.html) – [Definite](mdf_jr-feat-Definite.html) – [Degree](mdf_jr-feat-Degree.html) – [Derivation](mdf_jr-feat-Derivation.html) – [Gender](mdf_jr-feat-Gender.html) – [Mood](mdf_jr-feat-Mood.html) – [NameType](mdf_jr-feat-NameType.html) – [NounType](mdf_jr-feat-NounType.html) – [Number](mdf_jr-feat-Number.html) – [Number[obj]](mdf_jr-feat-Number-obj.html) – [Number[psor]](mdf_jr-feat-Number-psor.html) – [Number[subj]](mdf_jr-feat-Number-subj.html) – [NumForm](mdf_jr-feat-NumForm.html) – [NumType](mdf_jr-feat-NumType.html) – [PartForm](mdf_jr-feat-PartForm.html) – [Person](mdf_jr-feat-Person.html) – [Person[obj]](mdf_jr-feat-Person-obj.html) – [Person[psor]](mdf_jr-feat-Person-psor.html) – [Person[subj]](mdf_jr-feat-Person-subj.html) – [Polarity](mdf_jr-feat-Polarity.html) – [PronType](mdf_jr-feat-PronType.html) – [PunctSide](mdf_jr-feat-PunctSide.html) – [Reflex](mdf_jr-feat-Reflex.html) – [Style](mdf_jr-feat-Style.html) – [Tense](mdf_jr-feat-Tense.html) – [Typo](mdf_jr-feat-Typo.html) – [Variant](mdf_jr-feat-Variant.html) – [VerbForm](mdf_jr-feat-VerbForm.html) – [VerbType](mdf_jr-feat-VerbType.html)
 
 ## Relations
 
-[acl](mdf_jr-dep-acl.html) – [acl:relcl](mdf_jr-dep-acl-relcl.html) – [advcl](mdf_jr-dep-advcl.html) – [advcl:cau](mdf_jr-dep-advcl-cau.html) – [advcl:tcl](mdf_jr-dep-advcl-tcl.html) – [advmod](mdf_jr-dep-advmod.html) – [advmod:cau](mdf_jr-dep-advmod-cau.html) – [advmod:cmp](mdf_jr-dep-advmod-cmp.html) – [advmod:deg](mdf_jr-dep-advmod-deg.html) – [advmod:eval](mdf_jr-dep-advmod-eval.html) – [advmod:foc](mdf_jr-dep-advmod-foc.html) – [advmod:freq](mdf_jr-dep-advmod-freq.html) – [advmod:lmod](mdf_jr-dep-advmod-lmod.html) – [advmod:mmod](mdf_jr-dep-advmod-mmod.html) – [advmod:tmod](mdf_jr-dep-advmod-tmod.html) – [amod](mdf_jr-dep-amod.html) – [appos](mdf_jr-dep-appos.html) – [aux](mdf_jr-dep-aux.html) – [aux:cnd](mdf_jr-dep-aux-cnd.html) – [aux:nec](mdf_jr-dep-aux-nec.html) – [aux:neg](mdf_jr-dep-aux-neg.html) – [aux:opt](mdf_jr-dep-aux-opt.html) – [aux:q](mdf_jr-dep-aux-q.html) – [case](mdf_jr-dep-case.html) – [cc](mdf_jr-dep-cc.html) – [cc:preconj](mdf_jr-dep-cc-preconj.html) – [ccomp](mdf_jr-dep-ccomp.html) – [compound](mdf_jr-dep-compound.html) – [conj](mdf_jr-dep-conj.html) – [cop](mdf_jr-dep-cop.html) – [csubj](mdf_jr-dep-csubj.html) – [csubj:cop](mdf_jr-dep-csubj-cop.html) – [dep](mdf_jr-dep-dep.html) – [det](mdf_jr-dep-det.html) – [discourse](mdf_jr-dep-discourse.html) – [dislocated](mdf_jr-dep-dislocated.html) – [expl](mdf_jr-dep-expl.html) – [fixed](mdf_jr-dep-fixed.html) – [flat](mdf_jr-dep-flat.html) – [flat:name](mdf_jr-dep-flat-name.html) – [list](mdf_jr-dep-list.html) – [mark](mdf_jr-dep-mark.html) – [nmod](mdf_jr-dep-nmod.html) – [nmod:appos](mdf_jr-dep-nmod-appos.html) – [nmod:bahuv](mdf_jr-dep-nmod-bahuv.html) – [nmod:lmod](mdf_jr-dep-nmod-lmod.html) – [nmod:poss](mdf_jr-dep-nmod-poss.html) – [nmod:tmod](mdf_jr-dep-nmod-tmod.html) – [nsubj](mdf_jr-dep-nsubj.html) – [nsubj:cop](mdf_jr-dep-nsubj-cop.html) – [nsubj:pass](mdf_jr-dep-nsubj-pass.html) – [nummod](mdf_jr-dep-nummod.html) – [obj](mdf_jr-dep-obj.html) – [obl](mdf_jr-dep-obl.html) – [obl:agent](mdf_jr-dep-obl-agent.html) – [obl:cau](mdf_jr-dep-obl-cau.html) – [obl:cmp](mdf_jr-dep-obl-cmp.html) – [obl:freq](mdf_jr-dep-obl-freq.html) – [obl:inst](mdf_jr-dep-obl-inst.html) – [obl:lmod](mdf_jr-dep-obl-lmod.html) – [obl:tmod](mdf_jr-dep-obl-tmod.html) – [orphan](mdf_jr-dep-orphan.html) – [parataxis](mdf_jr-dep-parataxis.html) – [punct](mdf_jr-dep-punct.html) – [root](mdf_jr-dep-root.html) – [vocative](mdf_jr-dep-vocative.html) – [xcomp](mdf_jr-dep-xcomp.html)
+[acl](mdf_jr-dep-acl.html) – [acl:relcl](mdf_jr-dep-acl-relcl.html) – [advcl](mdf_jr-dep-advcl.html) – [advcl:cau](mdf_jr-dep-advcl-cau.html) – [advcl:eval](mdf_jr-dep-advcl-eval.html) – [advcl:tcl](mdf_jr-dep-advcl-tcl.html) – [advmod](mdf_jr-dep-advmod.html) – [advmod:cau](mdf_jr-dep-advmod-cau.html) – [advmod:cmp](mdf_jr-dep-advmod-cmp.html) – [advmod:deg](mdf_jr-dep-advmod-deg.html) – [advmod:eval](mdf_jr-dep-advmod-eval.html) – [advmod:foc](mdf_jr-dep-advmod-foc.html) – [advmod:freq](mdf_jr-dep-advmod-freq.html) – [advmod:lmod](mdf_jr-dep-advmod-lmod.html) – [advmod:mmod](mdf_jr-dep-advmod-mmod.html) – [advmod:tmod](mdf_jr-dep-advmod-tmod.html) – [amod](mdf_jr-dep-amod.html) – [appos](mdf_jr-dep-appos.html) – [aux](mdf_jr-dep-aux.html) – [aux:cnd](mdf_jr-dep-aux-cnd.html) – [aux:nec](mdf_jr-dep-aux-nec.html) – [aux:neg](mdf_jr-dep-aux-neg.html) – [aux:opt](mdf_jr-dep-aux-opt.html) – [aux:q](mdf_jr-dep-aux-q.html) – [case](mdf_jr-dep-case.html) – [cc](mdf_jr-dep-cc.html) – [cc:preconj](mdf_jr-dep-cc-preconj.html) – [ccomp](mdf_jr-dep-ccomp.html) – [compound](mdf_jr-dep-compound.html) – [conj](mdf_jr-dep-conj.html) – [cop](mdf_jr-dep-cop.html) – [csubj](mdf_jr-dep-csubj.html) – [csubj:cop](mdf_jr-dep-csubj-cop.html) – [dep](mdf_jr-dep-dep.html) – [det](mdf_jr-dep-det.html) – [discourse](mdf_jr-dep-discourse.html) – [dislocated](mdf_jr-dep-dislocated.html) – [expl](mdf_jr-dep-expl.html) – [fixed](mdf_jr-dep-fixed.html) – [flat](mdf_jr-dep-flat.html) – [flat:name](mdf_jr-dep-flat-name.html) – [list](mdf_jr-dep-list.html) – [mark](mdf_jr-dep-mark.html) – [nmod](mdf_jr-dep-nmod.html) – [nmod:appos](mdf_jr-dep-nmod-appos.html) – [nmod:bahuv](mdf_jr-dep-nmod-bahuv.html) – [nmod:gobj](mdf_jr-dep-nmod-gobj.html) – [nmod:lmod](mdf_jr-dep-nmod-lmod.html) – [nmod:poss](mdf_jr-dep-nmod-poss.html) – [nmod:tmod](mdf_jr-dep-nmod-tmod.html) – [nsubj](mdf_jr-dep-nsubj.html) – [nsubj:cop](mdf_jr-dep-nsubj-cop.html) – [nsubj:pass](mdf_jr-dep-nsubj-pass.html) – [nummod](mdf_jr-dep-nummod.html) – [obj](mdf_jr-dep-obj.html) – [obl](mdf_jr-dep-obl.html) – [obl:agent](mdf_jr-dep-obl-agent.html) – [obl:cau](mdf_jr-dep-obl-cau.html) – [obl:cmp](mdf_jr-dep-obl-cmp.html) – [obl:freq](mdf_jr-dep-obl-freq.html) – [obl:inst](mdf_jr-dep-obl-inst.html) – [obl:lmod](mdf_jr-dep-obl-lmod.html) – [obl:tmod](mdf_jr-dep-obl-tmod.html) – [orphan](mdf_jr-dep-orphan.html) – [parataxis](mdf_jr-dep-parataxis.html) – [punct](mdf_jr-dep-punct.html) – [root](mdf_jr-dep-root.html) – [vocative](mdf_jr-dep-vocative.html) – [xcomp](mdf_jr-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 369 sentences, 3425 tokens and 3431 syntactic words.</li>
+<li>This corpus contains 446 sentences, 4075 tokens and 4081 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 631 tokens (18%) that are not followed by a space.</li>
+<li>This corpus contains 763 tokens (19%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -125,7 +125,7 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
 </ul>
 
 <ul>
-<li>This corpus contains 33 types of words that contain both letters and punctuation. Examples: кати-коста, кодама-кодама, кой-кие, кой-кона, эрямань-ащемань, Алда-баба, Васток-васток, И., Кой-кинди, Коса-бди, Н., Панчк-ка, Пилсесь-лаксесь, кати-мезе, кодама-бъди, кой-коста, кядьта-пильгта, лиендихть-тиихть, лийфнесамазь-тисамазь, мезе-бди, мезень-бъди, обедамста-ужнамста, однек-сиренек, ризфсь-пичефкссь, саднек-мезнек, тиеда-арада, трнаты-вачкаты, тядяфтома-аляфтома, тяшнесь-нарнесь, фкя-фкянь, шталезе-урядалезе, эряй-ащи, ётай-потай</li>
+<li>This corpus contains 40 types of words that contain both letters and punctuation. Examples: кати-коста, кодама-кодама, кой-кие, кой-кона, эрямань-ащемань, Алда-баба, Васток-васток, И., Кой-кинди, Коса-бди, Н., Панчк-ка, Пилсесь-лаксесь, Эрясть-ащесть, атят-бабат, видьмода-эрьгада, кати-мезе, кодама-бъди, кой-коста, кядьта-пильгта, лиендихть-тиихть, лийфнесамазь-тисамазь, мезе-бди, мезень-бъди, обедамста-ужнамста, однек-сиренек, ризфсь-пичефкссь, саднек-мезнек, стирьхне-цёратне, тиеда-арада, трнаты-вачкаты, тядяфтома-аляфтома, тяшнесь-нарнесь, фкя-фкянь, шинек-венек, шталезе-урядалезе, щафтама-каряфтама, эряй-ащи, ювандема-явондема, ётай-потай</li>
 </ul>
 
 <ul>
@@ -143,19 +143,19 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
 </ul>
 
 <ul>
-<li>This corpus contains 10 word types tagged as particles (PART): вдь, въдь, дяряй, нльне, нльня, сяда, улема, хоть, хуш, шять</li>
+<li>This corpus contains 10 word types tagged as particles (PART): вдь, въдь, дяряй, и, нльне, нльня, сяда, хоть, хуш, шять</li>
 </ul>
 
 <ul>
-<li>This corpus contains 25 lemmas tagged as pronouns (PRON): иля, кати-мезе, кивок, кие, кой-кие, кой-кона, кона, лия, мезе, мезе-бди, мезевок, мон, монць, ня, сембе, сон, сонць, ськамонза, ся, сяка, тон, тона, тонць, тя, фкя-фкя</li>
+<li>This corpus contains 28 lemmas tagged as pronouns (PRON): иля, кати-мезе, кафонест, кафцьке, ки, кивок, кие, кой-кие, кой-кона, кона, лия, мезе, мезе-бди, мезевок, мон, монць, ня, сембе, сон, сонць, ськамот, ся, сяка, тон, тона, тонць, тя, фкя-фкя</li>
 </ul>
 
 <ul>
-<li>This corpus contains 16 lemmas tagged as determiners (DET): иля, кодама-бди, кой-кона, лама, лия, мзяра, ня, сембе, сняра, ся, сяка, тя, тяка, тяфтама, эрь, эсь</li>
+<li>This corpus contains 17 lemmas tagged as determiners (DET): иля, кафцьке, кодама-бди, кой-кона, лама, лия, мзяра, ня, сембе, сняра, ся, сяка, тя, тяка, тяфтама, эрь, эсь</li>
 </ul>
 
 <ul>
-<li>Out of the above, 8 lemmas occurred sometimes as PRON and sometimes as DET: иля, кой-кона, лия, ня, сембе, ся, сяка, тя</li>
+<li>Out of the above, 9 lemmas occurred sometimes as PRON and sometimes as DET: иля, кафцьке, кой-кона, лия, ня, сембе, ся, сяка, тя</li>
 </ul>
 
 <ul>
@@ -167,13 +167,13 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
 </ul>
 
 <ul>
-<li>There are 5 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+<li>There are 8 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
 </ul>
 
 <ul>
   <li>Conv
   <ul>
-    <li>VERB: ласькозь, ётазь, Нолдазь, Тумстост, дивандазь, завтракамста, кенордазь, мадомста, обедамста-ужнамста, палозь</li>
+    <li>VERB: ласькозь, эцезь, ётазь, Нолдазь, Тумстост, дивандазь, завтракамста, кенордазь, мадомста, обедамста-ужнамста</li>
   </ul>
   </li>
 </ul>
@@ -187,9 +187,26 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
 </ul>
 
 <ul>
+  <li>Fin
+  <ul>
+    <li>AUX: ашень, ульсть, ульсь, Улень, ашезе, савсь, сашендовсь, ули, эряви</li>
+    <li>VERB: кармась, арась, кармасть, марявсь, морасть, сась, сувась, тусь, утцесь, ушедсь</li>
+  </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Inf
   <ul>
-    <li>VERB: куцема, работама, тиемс, тонафтомс, арамс, ваномс, ванфтомс, васетькшнемс, венцямс, корхнемс</li>
+    <li>VERB: стямс, тиемс, тонафтомс, ётамс, куцема, работама, Валдашкодомс, аделамс, анцемс, арамс</li>
+  </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>NomAg
+  <ul>
+    <li>VERB: ётафтысь</li>
   </ul>
   </li>
 </ul>
@@ -197,7 +214,15 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
 <ul>
   <li>Part
   <ul>
-    <li>VERB: анеляф, ацафоль, ащи, иретьфти, лиенди, максф, маскировандафт, моли, путфт, ранендаф</li>
+    <li>VERB: мяляфтан, анеляф, ацафоль, ащи, иретьфти, лиенди, максф, маскировандафт, моли, мяляфтат</li>
+  </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Sup
+  <ul>
+    <li>VERB: путькияма</li>
   </ul>
   </li>
 </ul>
@@ -205,7 +230,7 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
 <ul>
   <li>Vnoun
   <ul>
-    <li>VERB: Авардемать, Нумань, апрякама, ардомась, варьхмодема, видемда, кенярдема, ляцендемат, морамаснон, муськома</li>
+    <li>VERB: Авардемать, Нумань, апрякама, ардомась, варьхмодема, видемда, кельгомнян, кенярдема, куломозон, ляцендемат</li>
   </ul>
   </li>
 </ul>
@@ -220,7 +245,7 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
 <ul>
   <li>Fem
     <ul>
-      <li>PROPN: Васильевна, Николаевнань</li>
+      <li>PROPN: Петровна, Варвара, Васильевна, Ивановать, Людмила, Николаевнань, Светлана</li>
     </ul>
   </li>
 </ul>
@@ -228,7 +253,7 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
 <ul>
   <li>Masc
     <ul>
-      <li>PROPN: Вельдинонь, Голенков, Девинонь, Девятаев, Злобинонь, Келаськин, Кокоревонь, Кукушкинць, Пивкин, Покрышкинонь</li>
+      <li>PROPN: Вельдинонь, Голенков, Девинонь, Девятаев, Злобинонь, Келаськин, Кокоревонь, Кукушкинць, Михаил, Петр</li>
     </ul>
   </li>
 </ul>
@@ -241,7 +266,8 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
   <li>Hum
     <ul>
       <li>NOUN: тядяц</li>
-      <li>PROPN: Васильевна, Вельдинонь, Голенков, Девинонь, Девятаев, Елена, Злобинонь, Ивановать, Келаськин, Кокоревонь</li>
+      <li>PRON: Кинди</li>
+      <li>PROPN: Петровна, Варвара, Васильевна, Вельдинонь, Голенков, Девинонь, Девятаев, Елена, Злобинонь, Ивановать</li>
     </ul>
   </li>
 </ul>
@@ -253,10 +279,10 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: мазыхть, лямбот, малат, пяндрат</li>
+      <li>ADJ: мазыхть, весялат, лямбот, малат, пяндрат, ёнюфт</li>
       <li>DET: ня</li>
-      <li>NOUN: ломаттне, стирнятне, ломатть, валхнень, гулянятнень, досканят, жаворонкатне, кизотнень, коволнятнень, сельмонень</li>
-      <li>NUM: кемотть</li>
+      <li>NOUN: ломаттне, стирнятне, валхнень, ломатть, гулянятнень, досканят, жаворонкатне, кизотнень, коволнятнень, морот</li>
+      <li>NUM: Кафттне, кемотть</li>
       <li>PRON: синь, минь, тейст, Лиятнень, конат, синьге, сятка, теест, тейнть, тинь</li>
       <li>VERB: Лядыхне, кельгихть, ляцендемат, маскировандафт, путфт, шапфт, шнакшнематне</li>
       <li>VERB-Part: маскировандафт, путфт, шапфт</li>
@@ -268,14 +294,16 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
 <ul>
   <li>Plur,Sing
     <ul>
-      <li>ADJ: Ёмластокиге, Немойкс, аноконди, маластонь, оцюняснон, пародонга, роднойкс</li>
+      <li>ADJ: Ёмластокиге, Мокшень, Немойкс, аноконди, маластонь, оцюняснон, пародонга, роднойкс</li>
+      <li>ADV: ламос</li>
       <li>DET: ламос</li>
-      <li>NOUN: лангс, вирьса, кудса, лангса, паксянь, ульцяв, ярмакса, Марянь, Саввань, Тишкань</li>
+      <li>NOUN: лангс, каршес, паксянь, вирьса, кудса, лангса, сёксень, ульцяв, ярмакса, Марянь</li>
       <li>NUM: Кемоньшка, кеветиешка, нильгемоньшка</li>
-      <li>PRON: сембонь, конань, Кой-кинди, Конашка, Мезень, илянь, кинди, киньге, мезень-бъди, мезьса</li>
-      <li>PROPN: Архипонь, Ванянди, Вельдинонь, Веряскинонди, Девинонь, Злобинонь, Кокоревонь, Николаевнань, Парижса, Петянь</li>
-      <li>VERB: Нумань, видемда, морамаснон, покодемаснон, работаманкса, саманьконь, самозост, сяськоманкса, тумозонза, тушендомаснон</li>
-      <li>VERB-Vnoun: Нумань, видемда, морамаснон, покодемаснон, работаманкса, саманьконь, самозост, сяськоманкса, тумозонза, тушендомаснон</li>
+      <li>PRON: сембонь, Мезень, конань, Кой-кинди, Конашка, Мезьда, илянь, кинди, киньге, мезень-бъди</li>
+      <li>PROPN: Архипонь, Валентинонди, Ванянди, Вельдинонь, Веряскинонди, Витянь, Девинонь, Злобинонь, Кокоревонь, Николаевнань</li>
+      <li>VERB: мяляфтан, Нумань, видемда, куломозон, морамаснон, мяляфтат, покодемаснон, работаманкса, саманьконь, самозост</li>
+      <li>VERB-Part: мяляфтан, мяляфтат, сюдофокс, юкстафокс</li>
+      <li>VERB-Vnoun: Нумань, видемда, куломозон, морамаснон, покодемаснон, работаманкса, саманьконь, самозост, сяськоманкса, тумозонза</li>
     </ul>
   </li>
 </ul>
@@ -283,15 +311,18 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: оцю, од, акша, козя, пара, равжа, сенем, тяфтама, цебярь, васенце</li>
+      <li>ADJ: оцю, од, тяфтама, мазы, акша, кодама, козя, пара, пси, равжа</li>
       <li>DET: эрь, лама, сембе, Тя, ся, иля, кодама-бъди, кой-кона, лия, тяка</li>
-      <li>NOUN: шись, ава, Тишка, ланга, пингть, пря, цёранц, шамац, шиня, шить</li>
-      <li>NUM: кафта, фкя, колма, кафцьке, 225, 7, вете, колмоцьке, комсь, ниле</li>
-      <li>PRON: сон, мон, сонь, тя, ся, тейнза, монь, тон, кие, кона</li>
-      <li>PROPN: Петя, Марья, Алда-баба, Анна, Браун, Варвара, Василь, Васильевич, Васильевна, Васясь</li>
-      <li>VERB: Авардемать, анеляф, апрякама, ардомась, варьхмодема, кенярдема, кулхцонды, максф, муськома, работамась</li>
-      <li>VERB-Part: анеляф, максф, содафоль, тертьфоль, тиф, эйндаф</li>
-      <li>VERB-Vnoun: Авардемать, апрякама, ардомась, варьхмодема, кенярдема, муськома, работамась, саманцты, сувамац, тиемацка</li>
+      <li>NOUN: шись, ава, Тишка, ланга, ломань, пингть, пря, цёранц, шамац, шиня</li>
+      <li>NUM: кафта, фкя, колма, 225, 7, вете, колмоцьке, комсь, ниле</li>
+      <li>PRON: сон, мон, тя, сонь, ся, тон, мезевок, монь, тейнза, тонь</li>
+      <li>PROPN: Петя, Игорь, Марья, Петровна, Алда-баба, Алдуван, Анна, Браун, Варвара, Василь</li>
+      <li>VERB: Авардемать, азовомшка, анеляф, аноклайхть, аноклама, апрякама, ардомась, варьхмодема, кельгомнян, кенерь</li>
+      <li>VERB-Fin: туват</li>
+      <li>VERB-NomAg: ётафтысь</li>
+      <li>VERB-Part: анеляф, максф, праф, сафат, содафоль, тертьфоль, тиф, эйндаф, эцеф</li>
+      <li>VERB-Sup: путькияма</li>
+      <li>VERB-Vnoun: Авардемать, апрякама, ардомась, варьхмодема, кельгомнян, кенярдема, муськома, работамась, саманцты, сувамац</li>
     </ul>
   </li>
 </ul>
@@ -312,11 +343,12 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
   <li>Abl
     <ul>
       <li>ADJ: пародонга</li>
-      <li>ADP: эзда, фталда, ширде, эздонк, эздост</li>
-      <li>ADV: вярде</li>
+      <li>ADP: эзда, фталда, ширде, эздон, эздонк, эздост</li>
+      <li>ADV: вярде, ичкозде</li>
       <li>NOUN: ломаньда, ширде, Аннада, алда, алядот, вайгяльда, врьгазда, занятияда, иможда, класста</li>
-      <li>PRON: Тяда, мондедон, сембода</li>
-      <li>VERB-Inf: валдашкодомда, ванфтомода, видемда, корхтамда, крфамда, тиемда, шашнемда</li>
+      <li>PRON: Мезьда, Тяда, мондедон, сембода</li>
+      <li>VERB-Inf: валдашкодомда, ванфтомода, видемда, корхтамда, крфамда, лездомда, тиемда, шашнемда</li>
+      <li>VERB-Part: мяляфтан, мяляфтат</li>
       <li>VERB-Vnoun: видемда, ужнамда</li>
     </ul>
   </li>
@@ -347,7 +379,7 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
 <ul>
   <li>Com
     <ul>
-      <li>NOUN: куднек, саднек-мезнек, ульцянек</li>
+      <li>NOUN: куднек, саднек-мезнек, ульцянек, шинек-венек</li>
     </ul>
   </li>
 </ul>
@@ -356,9 +388,9 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
   <li>Dat
     <ul>
       <li>ADJ: аноконди</li>
-      <li>NOUN: Алязтиге, Дарюняти, Кепотьксонди, Луканди, Маринкати, Цёранянди, Ялгати, велетненди, кизоти, классти</li>
-      <li>PRON: тейнза, Тейне, теень, тейст, Кой-кинди, Мондейне, Сондеенза, Сондейнза, кинди, теенза</li>
-      <li>PROPN: Ванянди, Веряскинонди</li>
+      <li>NOUN: Алязтиге, Дарюняти, Кепотьксонди, Кинди, Луканди, Маринкати, Цёранянди, Ялгати, авардематненди, велетненди</li>
+      <li>PRON: тейнза, тейть, Тейне, кинди, теень, тейст, Кой-кинди, Мондейне, Сондеенза, Сондейнза</li>
+      <li>PROPN: Валентинонди, Ванянди, Веряскинонди</li>
       <li>VERB-Vnoun: саманцты, цяпамати</li>
     </ul>
   </li>
@@ -369,8 +401,9 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
     <ul>
       <li>ADJ: Ёмластокиге, маластонь</li>
       <li>ADP: пингста, ваксста</li>
-      <li>ADV: тоста, Тяста, кати-коста, кой-коста, курокста, эста</li>
-      <li>NOUN: велеста, комнатаста, кудста, онцтон, пингста, пингстонза, ёткста, Москуста, библиотекста, вальмаста</li>
+      <li>ADV: тоста, Тяста, кати-коста, кой-коста, курокста, эста, коста, тяза</li>
+      <li>NOUN: велеста, комнатаста, кудста, онцтон, пингста, пингстонза, ёткста, Вирьста, Москуста, базарста</li>
+      <li>VERB: лисемста, самста, Тумстост, завтракамста, мадомста, обедамста-ужнамста</li>
       <li>VERB-Conv: Тумстост, завтракамста, мадомста, обедамста-ужнамста</li>
     </ul>
   </li>
@@ -379,11 +412,12 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
 <ul>
   <li>Gen
     <ul>
-      <li>ADJ: Очижинь, омбоцеть, тячиень, Передовойть, главнайть, оцюняснон</li>
+      <li>ADJ: Очижинь, омбоцеть, тячиень, Мокшень, Передовойть, главнайть, моронц, оцюняснон</li>
       <li>ADV: кафтонь</li>
-      <li>NOUN: пингть, цёранц, шить, велеть, менельть, очконять, паксянь, Лугать, Марянь, Саввань</li>
-      <li>PRON: сонь, сембонь, монь, синь, тонь, конань, минь, тянь, Лиятнень, Мезень</li>
-      <li>PROPN: Архипонь, Вельдинонь, Девинонь, Злобинонь, Ивановать, Кокоревонь, Николаевнань, Петянь, Покрышкинонь, Родькинонь</li>
+      <li>NOUN: паксянь, пингть, цёранц, шить, валхнень, велеть, менельть, очконять, сёксень, Лугать</li>
+      <li>PRON: сонь, монь, сембонь, тонь, синь, минь, тянь, Мезень, конань, Лиятнень</li>
+      <li>PROPN: Архипонь, Вельдинонь, Витянь, Девинонь, Злобинонь, Ивановать, Кокоревонь, Мокшеть, Николаевнань, Петянь</li>
+      <li>VERB: Авардемать, Нумань, аноклайхть, морамаснон, покодемаснон, саманьконь, тушендомаснон, эводемать, эрямань-ащемань</li>
       <li>VERB-Vnoun: Авардемать, Нумань, морамаснон, покодемаснон, саманьконь, тушендомаснон, эводемать, эрямань-ащемань</li>
     </ul>
   </li>
@@ -393,11 +427,11 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
   <li>Ill
     <ul>
       <li>ADP: лангс, ваксс, коряс, малас, Корязост, корязон, корязонк, корязонт, эзонза</li>
-      <li>ADV: Мес, козовок, тяза</li>
+      <li>ADV: Коза, ламос, Мес, козовок, тяза</li>
       <li>DET: ламос</li>
-      <li>NOUN: лангс, вастс, каршес, кучкас, лангозонза, вастозонза, воляс, кудрядс, лафтубрязонза, мялезостка</li>
+      <li>NOUN: лангс, каршес, вастс, кучкас, лангозонза, вастозонза, вельхксс, воляс, кудрядс, лафтубрязонза</li>
       <li>PRON: эсезост</li>
-      <li>VERB-Vnoun: самозост, тумозонза</li>
+      <li>VERB-Vnoun: куломозон, самозост, тумозонза</li>
     </ul>
   </li>
 </ul>
@@ -406,8 +440,8 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
   <li>Ine
     <ul>
       <li>ADP: эса, ваксса, лангса, каршесонк, эсонза, эсост</li>
-      <li>ADV: тоса, тяса, маласа, Коса-бди, косовок, пяшксетольхть</li>
-      <li>NOUN: вирьса, кудса, лангса, ярмакса, больницяса, вайгяльса, кизоса, мяльса, тюсса, Заводса</li>
+      <li>ADV: тоса, тяса, коса, маласа, Коса-бди, косовок, пяшксетольхть</li>
+      <li>NOUN: вирьса, кудса, лангса, ярмакса, больницяса, вайгяльса, войнаса, кизоса, мяльса, тюсса</li>
       <li>PRON: мезьса</li>
       <li>PROPN: Парижса</li>
     </ul>
@@ -418,7 +452,7 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
   <li>Lat
     <ul>
       <li>ADP: алу, шири</li>
-      <li>ADV: вяри, алу, ичкози, оду, фталу</li>
+      <li>ADV: вяри, алу, ичкози, оду, фталу, меки</li>
       <li>NOUN: инголи, ульцяв, куду, шири, школав, Колхозу, Крыму, Мазы, Маманяв, Ошу</li>
     </ul>
   </li>
@@ -427,8 +461,8 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
 <ul>
   <li>Loc
     <ul>
-      <li>ADP: ала, Инголенк, Инголест</li>
-      <li>ADV: ичкозе, инголе, перьфпяле</li>
+      <li>ADP: ала, Инголенк, Инголест, пильгалот</li>
+      <li>ADV: ичкозе, инголе, перьфпяле, ичкозят</li>
       <li>AUX: аш</li>
       <li>VERB-Inf: куцема, работама, шурокстомома, азонкшнема, ванондома, ватксема, вятемонза, лувома, морама, мярьгома</li>
       <li>VERB-Vnoun: апрякама</li>
@@ -439,15 +473,18 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
 <ul>
   <li>Nom
     <ul>
-      <li>ADJ: оцю, од, акша, козя, пара, равжа, сенем, тяфтама, цебярь, васенце</li>
+      <li>ADJ: оцю, од, тяфтама, мазы, акша, кодама, козя, пара, пси, равжа</li>
       <li>DET: эрь, лама, сембе, Тя, ся, иля, кодама-бъди, кой-кона, лия, тяка</li>
-      <li>NOUN: ломаттне, шись, ава, Тишка, ланга, пря, стирнятне, шамац, визькс, карденя</li>
-      <li>NUM: кафта, фкя, колма, кафцьке, 225, 7, вете, кемотть, колмоцьке, комсь</li>
-      <li>PRON: сон, мон, тя, синь, ся, тон, кие, кона, мезевок, минь</li>
-      <li>PROPN: Петя, Марья, Алда-баба, Анна, Браун, Варвара, Василь, Васильевич, Васильевна, Васясь</li>
-      <li>VERB: Лядыхне, анеляф, ардомась, варьхмодема, кельгихть, кенярдема, кулхцонды, ляцендемат, максф, маскировандафт</li>
-      <li>VERB-Part: анеляф, максф, маскировандафт, путфт, содафоль, тертьфоль, тиф, шапфт, эйндаф</li>
-      <li>VERB-Vnoun: ардомась, варьхмодема, кенярдема, ляцендемат, муськома, работамась, сувамац, тиемацка, шнакшнематне</li>
+      <li>NOUN: ломаттне, шись, ава, Тишка, ланга, ломань, пря, стирнятне, шамац, визькс</li>
+      <li>NUM: кафта, фкя, колма, 225, 7, Кафттне, вете, кемотть, колмоцьке, комсь</li>
+      <li>PRON: сон, мон, тя, ся, тон, синь, мезевок, минь, кона, кивок</li>
+      <li>PROPN: Петя, Игорь, Марья, Петровна, Алда-баба, Алдуван, Анна, Браун, Варвара, Василь</li>
+      <li>VERB: Лядыхне, азовомшка, анеляф, аноклама, ардомась, варьхмодема, кельгихть, кельгомнян, кенерь, кенярдема</li>
+      <li>VERB-Fin: туват</li>
+      <li>VERB-NomAg: ётафтысь</li>
+      <li>VERB-Part: анеляф, максф, маскировандафт, праф, путфт, сафат, содафоль, тертьфоль, тиф, шапфт</li>
+      <li>VERB-Sup: путькияма</li>
+      <li>VERB-Vnoun: ардомась, варьхмодема, кельгомнян, кенярдема, ляцендемат, муськома, работамась, сувамац, тиемацка, шнакшнематне</li>
     </ul>
   </li>
 </ul>
@@ -455,9 +492,9 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
 <ul>
   <li>Prl
     <ul>
-      <li>ADP: мельгя, эзга, мельге</li>
+      <li>ADP: мельгя, эзга, Мельгат, лангаст, мельге</li>
       <li>ADV: перьфпяльге, Шобдава</li>
-      <li>NOUN: вальмава, морява, пандонява, вастоваст, велькска, вельхкска, вирьгя, вярьгя, ингольгя, киге</li>
+      <li>NOUN: вальмава, морява, пандонява, алга, вастоваст, ведьгя, велькска, вельхкска, вирьгя, вярьгя</li>
     </ul>
   </li>
 </ul>
@@ -465,7 +502,7 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
 <ul>
   <li>Tem
     <ul>
-      <li>NOUN: шиня</li>
+      <li>NOUN: шиня, Пиземня</li>
     </ul>
   </li>
 </ul>
@@ -476,7 +513,8 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
       <li>ADJ: Немойкс, роднойкс</li>
       <li>ADP: ланга</li>
       <li>NOUN: сторожкс, геройкс, депутатокс, июленнекс, кизоннекс, комендантокс, крайкс, лётчикокс, лётчикокска, мокшекс</li>
-      <li>VERB: юкставикс</li>
+      <li>VERB: сюдофокс, юкставикс, юкстафокс</li>
+      <li>VERB-Part: сюдофокс, юкстафокс</li>
     </ul>
   </li>
 </ul>
@@ -489,11 +527,13 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
 <ul>
   <li>Def
     <ul>
-      <li>ADJ: омбоцеть, Передовойть, главнайть</li>
-      <li>NOUN: ломаттне, шись, пингть, стирнятне, шить, велеть, менельть, очконять, Вармась, Лугать</li>
+      <li>ADJ: омбоцеть, Передовойть, главнайть, колмоцесь, коськсь</li>
+      <li>NOUN: ломаттне, шись, пингть, стирнятне, шить, валхнень, велеть, менельть, очконять, Вармась</li>
+      <li>NUM: Кафттне</li>
       <li>PRON: Лиятнень, Сембось</li>
-      <li>PROPN: Васясь, Ивановать, Игуазсь, Кукушкинць, Маринкась, Марясь, Млай, Парижсь, Тугановть, Франциять</li>
-      <li>VERB: Авардемать, Лядыхне, ардомась, работамась, цяпамати, шнакшнематне, эводемать, ётафтысь</li>
+      <li>PROPN: Васясь, Ивановать, Игуазсь, Кукушкинць, Маринкась, Марясь, Млай, Мокшеть, Парижсь, Тугановть</li>
+      <li>VERB: Авардемать, Лядыхне, аноклайхть, ардомась, работамась, сетьмось, цяпамати, шнакшнематне, эводемать, ётафтысь</li>
+      <li>VERB-NomAg: ётафтысь</li>
       <li>VERB-Vnoun: Авардемать, ардомась, работамась, цяпамати, шнакшнематне, эводемать</li>
     </ul>
   </li>
@@ -502,16 +542,18 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
 <ul>
   <li>Ind
     <ul>
-      <li>ADJ: оцю, од, акша, козя, пара, равжа, сенем, тяфтама, васенце, лямбе</li>
-      <li>ADV: кати-коста, Коса-бди, кафтонь, козовок, косовок</li>
+      <li>ADJ: оцю, од, тяфтама, мазы, акша, кодама, козя, пара, пси, равжа</li>
+      <li>ADV: кати-коста, ламос, Коса-бди, кафтонь, козовок, косовок</li>
       <li>DET: эрь, лама, сембе, кодама-бъди, кой-кона, ламос, лия, тяка, тяфтама, эсь</li>
-      <li>NOUN: лангс, ава, шиня, Тишка, ланга, пря, визькс, вирьса, карденя, кудса</li>
-      <li>NUM: кафта, фкя, колма, кафцьке, вете, кеветиешка, кемотть, комсь, ниле, нильгемоньшка</li>
-      <li>PRON: тя, сембонь, ся, кона, конань, мезевок, сяка, Конашка, Сянь, Тяда</li>
-      <li>PROPN: Петя, Марья, Алда-баба, Анна, Архипонь, Браун, Ванянди, Варвара, Василь, Васильевич</li>
-      <li>VERB: Нумань, анеляф, апрякама, варьхмодема, видемда, кельгихть, кенярдема, кулхцонды, ляцендемат, максф</li>
-      <li>VERB-Part: анеляф, максф, маскировандафт, путфт, содафоль, тертьфоль, тиф, шапфт, эйндаф</li>
-      <li>VERB-Vnoun: Нумань, апрякама, варьхмодема, видемда, кенярдема, ляцендемат, муськома, работаманкса, сяськоманкса, ужнамда</li>
+      <li>NOUN: лангс, ава, шиня, Тишка, каршес, ланга, ломань, паксянь, пря, визькс</li>
+      <li>NUM: кафта, фкя, колма, вете, кеветиешка, кемотть, комсь, ниле, нильгемоньшка</li>
+      <li>PRON: тя, ся, сембонь, кона, мезевок, конань, сяка, тянь, Конашка, Сянь</li>
+      <li>PROPN: Петя, Игорь, Марья, Петровна, Алда-баба, Алдуван, Анна, Архипонь, Браун, Валентинонди</li>
+      <li>VERB: мяляфтан, Нумань, азовомшка, анеляф, аноклама, апрякама, варьхмодема, видемда, кельгихть, кельгомнян</li>
+      <li>VERB-Fin: туват</li>
+      <li>VERB-Part: мяляфтан, анеляф, максф, маскировандафт, мяляфтат, праф, путфт, сафат, содафоль, сюдофокс</li>
+      <li>VERB-Sup: путькияма</li>
+      <li>VERB-Vnoun: Нумань, апрякама, варьхмодема, видемда, кельгомнян, кенярдема, ляцендемат, муськома, работаманкса, сяськоманкса</li>
     </ul>
   </li>
 </ul>
@@ -532,6 +574,16 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
 </ul>
 
 <ul>
+  <li>Dim
+    <ul>
+      <li>ADV: аруняста, саворне</li>
+      <li>NOUN: карденя, очконять, досканят, коволнятнень, ловнясь, пацяняц, стирнятне, Бабанять, Луганятне, Макарня</li>
+      <li>VERB-Vnoun: кельгомнян</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Sup
     <ul>
       <li>ADV: Сембода</li>
@@ -546,9 +598,11 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
 <ul>
   <li>Neg
     <ul>
-      <li>AUX: аф, ашезь, апак, ашень, афоль, аш, ашесть, изь, Афи, афолеть</li>
+      <li>ADV: аш</li>
+      <li>AUX: аф, ашезь, апак, ашень, ашеть, изь, афоль, аш, ашесть, тяк</li>
       <li>AUX-Conv,Part: апак</li>
-      <li>INTJ: Аф</li>
+      <li>AUX-Fin: ашень, ашезе</li>
+      <li>INTJ: аф</li>
     </ul>
   </li>
 </ul>
@@ -568,7 +622,7 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
 <ul>
   <li>Short
     <ul>
-      <li>PRON: тейнза, Тейне, теень, тейст, теенза, теест, тейнть, эсезост</li>
+      <li>PRON: тейнза, тейть, Тейне, теень, тейст, теенза, теест, тейнть, эсезост</li>
     </ul>
   </li>
 </ul>
@@ -583,7 +637,7 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
 <ul>
   <li>Hab
     <ul>
-      <li>VERB: каннель, лезнель</li>
+      <li>VERB-Fin: каннель, лезнель</li>
     </ul>
   </li>
 </ul>
@@ -601,24 +655,6 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
 </ul>
 
 <ul>
-  <li>Cnd
-    <ul>
-      <li>AUX: ба, савондяряй</li>
-      <li>VERB: Касондярян, матодовондяряй, кадондярясак, кизефтендярясамазь, кирдендярясы, лездондярятада, лядондяряй, мярьгондяряй, няендяряйхть, путондяряй</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>CndSub
-    <ul>
-      <li>AUX: Улендяряль</li>
-      <li>VERB: Путондяряльхть, Сандяряль, лисендяряль</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
   <li>Des
     <ul>
       <li>VERB: Молелексолеть</li>
@@ -629,7 +665,8 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
 <ul>
   <li>Imp
     <ul>
-      <li>VERB: архт, ярхцада, тиеда-арада, тик</li>
+      <li>AUX: тяк, Тят</li>
+      <li>VERB: архт, ярхцада, Эрясть-ащесть, кевонзасть, моледа, тиеда-арада, тик</li>
     </ul>
   </li>
 </ul>
@@ -637,8 +674,18 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
 <ul>
   <li>Ind
     <ul>
-      <li>AUX: ульсь, ашезь, ашень, эрявсь, ашесть, изь, ульсть, эряви, Эрявихть, ашезе</li>
-      <li>VERB: марявсь, сась, варжакстсь, кармась, лиссь, моли, мольсь, рамась, тусь, арась</li>
+      <li>AUX: ульсь, ашезь, ашень, ашеть, изь, ульсть, эрявсь, ашесть, ба, эряви</li>
+      <li>AUX-Fin: ашень, ульсть, ульсь, Улень, ашезе, савсь, сашендовсь, ули, эряви</li>
+      <li>VERB: марявсь, лиссь, сась, варжакстсь, кармась, моли, мольсь, рамась, тусь, арась</li>
+      <li>VERB-Fin: кармась, арась, кармасть, марявсь, морасть, сась, сувась, тусь, утцесь, ушедсь</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Nec
+    <ul>
+      <li>VERB: улема</li>
     </ul>
   </li>
 </ul>
@@ -655,7 +702,7 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
   <li>Opt
     <ul>
       <li>AUX: катк, савоза</li>
-      <li>VERB: кирдест, ванозазе</li>
+      <li>VERB: кирдест, ванозазе, шачфтозан</li>
     </ul>
   </li>
 </ul>
@@ -663,6 +710,7 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
 <ul>
   <li>Prec
     <ul>
+      <li>AUX: тята</li>
       <li>VERB: Варжалите, Панчк-ка, варжака</li>
     </ul>
   </li>
@@ -671,8 +719,8 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
 <ul>
   <li>Sub
     <ul>
-      <li>AUX: афоль, афолеть, улелеть</li>
-      <li>VERB: Рамаль, арьселень, келептелине, ладяль, ладяльхть, лиелень, лихтельхть, лоткаль, нолдалезе, озалень</li>
+      <li>AUX: афоль, ба, Улендяряль, афолензе, афолеть, улелеть</li>
+      <li>VERB: Видендярялеть, Лездолень, Путондяряльхть, Рамаль, Сандяряль, Таргафтолемайть, арьселень, келептелине, корхнельхть, курендакшнельхть</li>
     </ul>
   </li>
 </ul>
@@ -684,11 +732,13 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
 <ul>
   <li>Past
     <ul>
-      <li>ADJ: акшель, маниель, пароль, сятяволь, цебярель, эреколь, якстерель</li>
+      <li>ADJ: маниель, акшель, лямболь, пароль, сятяволь, цебярель, эреколь, якстерель</li>
       <li>ADV: пяшксетольхть</li>
-      <li>AUX: ульсь, ашезь, ашень, эрявсь, ашесть, изь, ульсть, ашезе, ашель, ашельхть</li>
+      <li>AUX: ульсь, ашезь, ашень, ашеть, изь, ульсть, эрявсь, ашесть, Улень, ашезе</li>
+      <li>AUX-Fin: ашень, ульсть, ульсь, Улень, ашезе, савсь, сашендовсь</li>
       <li>NOUN: мялецоль, порядкасоль</li>
-      <li>VERB: марявсь, сась, варжакстсь, кармась, лиссь, мольсь, рамась, тусь, арась, кармасть</li>
+      <li>VERB: марявсь, лиссь, сась, варжакстсь, кармась, мольсь, рамась, тусь, арась, кармасть</li>
+      <li>VERB-Fin: кармась, арась, кармасть, марявсь, морасть, сась, сувась, тусь, утцесь, ушедсь</li>
       <li>VERB-Part: ацафоль, содафоль, таргозьфтольхть, тертьфоль</li>
     </ul>
   </li>
@@ -697,11 +747,16 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
 <ul>
   <li>Pres
     <ul>
-      <li>ADJ: Шумбрат</li>
+      <li>ADJ: Валдонян, Тяконян, Шумбрат</li>
+      <li>ADV: ичкозят</li>
       <li>AUX: аш, эряви, Эрявихть, сашендови, ули, улян</li>
-      <li>NOUN: прясан</li>
-      <li>VERB: моли, ащи, касан, Арьсян, ванан, корхтай, корхтан, лиси, мярьгат, пели</li>
-      <li>VERB-Part: ащи, иретьфти, лиенди, моли, сай, ётай-потай</li>
+      <li>AUX-Fin: ули, эряви</li>
+      <li>NOUN: Маконян, ават, алят, прясан</li>
+      <li>PROPN: Алдуван</li>
+      <li>VERB: моли, ащи, касан, корхтай, Арьсян, ванан, корхтан, лисенди, лиси, мяляфтан</li>
+      <li>VERB-Fin: корхтан, лиси, моли, мярьгат, пели, содасак, тиян, туян, эрявихть, эряйхть</li>
+      <li>VERB-Part: мяляфтан, ащи, иретьфти, лиенди, моли, мяляфтат, сай, сафат, ётай-потай</li>
+      <li>VERB-Vnoun: кельгомнян</li>
     </ul>
   </li>
 </ul>
@@ -719,7 +774,8 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
   <li>Dem
     <ul>
       <li>ADJ: тяфтама</li>
-      <li>DET: Тя, ня, ся, тяка, тяфтама</li>
+      <li>ADV: тяза</li>
+      <li>DET: ня, Тя, ся, тяка, тяфтама</li>
       <li>PRON: тя, ся, тянь, Сянь, Тяда, сятка, тона</li>
     </ul>
   </li>
@@ -739,9 +795,9 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
   <li>Int
     <ul>
       <li>ADJ: кодама</li>
-      <li>ADV: Мес</li>
+      <li>ADV: Мес, коста</li>
       <li>DET: Мъзяра</li>
-      <li>PRON: кие, мезе, Мезень, кинди, мезьса</li>
+      <li>PRON: кие, кинди, мезе, Мезень, мезьса</li>
     </ul>
   </li>
 </ul>
@@ -749,7 +805,7 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: сон, мон, сонь, синь, минь, тейнза, монь, тон, тонь, Тейне</li>
+      <li>PRON: сон, мон, сонь, синь, минь, тон, монь, тейнза, тонь, тейть</li>
     </ul>
   </li>
 </ul>
@@ -771,6 +827,15 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
 </ul>
 
 <ul>
+  <li>Tot
+    <ul>
+      <li>DET: кафцьке</li>
+      <li>PRON: кафцьке</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>NumType</a></li>
 </ul>
 
@@ -778,7 +843,7 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
   <li>Card
     <ul>
       <li>ADV: кафтонь</li>
-      <li>NUM: фкя, кафта, колма, вете, кеветиешка, кемотть, комсь, ниле, нильгемоньшка</li>
+      <li>NUM: фкя, кафта, колма, вете, Кафттне, кеветиешка, кемотть, комсь, ниле, нильгемоньшка</li>
     </ul>
   </li>
 </ul>
@@ -786,7 +851,7 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
 <ul>
   <li>Coll
     <ul>
-      <li>NUM: кафцьке, колмоцьке</li>
+      <li>NUM: колмоцьке</li>
     </ul>
   </li>
 </ul>
@@ -810,7 +875,7 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
 <ul>
   <li>Ord
     <ul>
-      <li>ADJ: васенце, омбоце, омбоцеть, Нильгемонце, ветеце, кемонце, колмоце, сизьгемонце</li>
+      <li>ADJ: васенце, омбоце, омбоцеть, Нильгемонце, ветеце, кемонце, колмоце, колмоцесь, сизьгемонце</li>
     </ul>
   </li>
 </ul>
@@ -818,7 +883,10 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
 <ul>
   <li>Sets
     <ul>
+      <li>DET: кафцьке</li>
+      <li>NOUN: шинек-венек</li>
       <li>NUM: кафонц</li>
+      <li>PRON: кафонест, кафцьке</li>
     </ul>
   </li>
 </ul>
@@ -852,7 +920,7 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
 <ul>
   <li>2
     <ul>
-      <li>PRON: тон, тонь, тейнть, тинь, тонга, тондейть, тонцьке</li>
+      <li>PRON: тон, тонь, тейть, тейнть, тинь, тонга, тондейть, тонцьке</li>
     </ul>
   </li>
 </ul>
@@ -875,8 +943,9 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
   <li>Plur
     <ul>
       <li>ADJ: оцюняснон</li>
-      <li>ADP: корязост, Инголенк, Инголест, каршесонк, корязонк, корязонт, эздонк, эздост, эсост</li>
-      <li>NOUN: сельмосна, бабасновок, ваймоньконь, валсна, вастоваст, веленьконь, велесонк, дружбаснон, кисетснон, кудсна</li>
+      <li>ADP: корязост, Инголенк, Инголест, каршесонк, корязонк, корязонт, лангаст, эздонк, эздост, эсост</li>
+      <li>NOUN: сельмосна, Казарманьконь, Мотоциклантень, бабасновок, ваймоньконь, валсна, вастоваст, веленьконь, велесонк, дружбаснон</li>
+      <li>PRON: кафонест</li>
       <li>VERB-Conv: Тумстост</li>
       <li>VERB-Vnoun: морамаснон, покодемаснон, саманьконь, самозост, тушендомаснон</li>
     </ul>
@@ -886,13 +955,13 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: Нильгемонце</li>
-      <li>ADP: мархтонза, корязон, перьфканза, эзонза, эсонза</li>
+      <li>ADJ: Нильгемонце, моронц</li>
+      <li>ADP: мархтонза, Мельгат, корязон, перьфканза, пильгалот, эздон, эзонза, эсонза</li>
       <li>NOUN: цёранц, шамац, мялец, Алязе, брадозень, вазенц, лангозонза, мирденц, мялецоль, онцтон</li>
       <li>PRON: ськамот</li>
       <li>PROPN: Мишазе</li>
-      <li>VERB-Inf: вятемонза</li>
-      <li>VERB-Vnoun: саманцты, сувамац, тиемацка, тумозонза</li>
+      <li>VERB-Inf: вятемонза, учендомот, шнамонза</li>
+      <li>VERB-Vnoun: куломозон, саманцты, сувамац, тиемацка, тумозонза</li>
     </ul>
   </li>
 </ul>
@@ -917,7 +986,7 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
     <ul>
       <li>Post
         <ul>
-          <li>ADP: пачк, сюнеда, мельге, эшка</li>
+          <li>ADP: мархта, пачк, сюнеда, Мельгат, инкса, лангаст, мельге, пильгалот, фталда, эздон</li>
         </ul>
       </li>
     </ul>
@@ -934,17 +1003,27 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
       </li>
       <li>Loc
         <ul>
-          <li>ADV: тов, алу, тяза</li>
+          <li>ADV: тов, алу, меки, тяза</li>
         </ul>
       </li>
       <li>Man
         <ul>
-          <li>ADV: цебярьста, мазыста, весяласта, павазуста, хитрайста, цебярняста</li>
+          <li>ADV: цебярьста, мазыста, Тяфта, весяласта, вишкста, павазуста, хитрайста, цебярняста</li>
+        </ul>
+      </li>
+      <li>Mod
+        <ul>
+          <li>ADV: бта, пади, Стаки</li>
+        </ul>
+      </li>
+      <li>Sta
+        <ul>
+          <li>ADV: кяпе</li>
         </ul>
       </li>
       <li>Tim
         <ul>
-          <li>ADV: нинге, ни, эста, тага, рана, Кизонда, илять, шобдава, обедшкада, сёксенда</li>
+          <li>ADV: нинге, ни, эста, тага, кунара, меле, рана, Кизонда, илять, тяни</li>
           <li>NOUN: илять</li>
           <li>SCONJ: мъзярда</li>
         </ul>
@@ -956,6 +1035,12 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
 <ul>
   <li><a>Clitic</a>
     <ul>
+      <li>Add
+        <ul>
+          <li>NOUN: ульмоняцевок</li>
+          <li>PRON: мезевок</li>
+        </ul>
+      </li>
       <li>AddGA
         <ul>
           <li>ADV: вестенге</li>
@@ -979,7 +1064,7 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
       <li>AddVok
         <ul>
           <li>NOUN: бабасновок, самолётовок</li>
-          <li>VERB: поладывок</li>
+          <li>VERB-Fin: поладывок</li>
         </ul>
       </li>
       <li>I
@@ -998,7 +1083,7 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
     <ul>
       <li>Yes
         <ul>
-          <li>VERB: матодов, ана, ваймак, карма, лотксе, макса, няенде, пице, сёлгов, абонда</li>
+          <li>VERB: матодов, абонда, ана, атказа, ваймак, виде, кадонда, карма, кенере, кирде</li>
         </ul>
       </li>
     </ul>
@@ -1008,10 +1093,10 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
 <ul>
   <li><a>Derivation</a>
     <ul>
-      <li>Dimin
+      <li>Cond
         <ul>
-          <li>ADV: саворне</li>
-          <li>NOUN: карденя, очконять, досканят, коволнятнень, пацяняц, стирнятне, Бабанять, Луганятне, Макарня, Маманяв</li>
+          <li>AUX: ба, Улендяряль, савондяряй</li>
+          <li>VERB: Касондярян, матодовондяряй, Видендярялеть, Путондяряльхть, Сандяряль, кадондярясак, кизефтендярясамазь, кирдендярясы, лездондярятада, лисендяряль</li>
         </ul>
       </li>
       <li>F
@@ -1026,7 +1111,12 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
       </li>
       <li>NomAg
         <ul>
-          <li>VERB: Лядыхне, кельгихть, ётафтысь</li>
+          <li>VERB: Лядыхне, аноклайхть, кельгихть</li>
+        </ul>
+      </li>
+      <li>OvOms
+        <ul>
+          <li>VERB: азовомшка, вачкодеви, марявсь, шавовсь, шятяват</li>
         </ul>
       </li>
       <li>Ozj
@@ -1037,6 +1127,11 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
       <li>Poss
         <ul>
           <li>NOUN: зрняннеть, июленнекс, кизоннекс, сияннеть</li>
+        </ul>
+      </li>
+      <li>Voc
+        <ul>
+          <li>NOUN: Тядяй, атяй, кельгомняй</li>
         </ul>
       </li>
       <li>Wife
@@ -1058,18 +1153,18 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
       </li>
       <li>Giv
         <ul>
-          <li>PROPN: Петя, Марья, Алда-баба, Анна, Архипонь, Ванянди, Василь, Васясь, Володя, Джейн</li>
+          <li>PROPN: Петя, Марья, Алда-баба, Анна, Архипонь, Ванянди, Варвара, Василь, Васясь, Володя</li>
         </ul>
       </li>
       <li>Pat
         <ul>
-          <li>PROPN: Васильевич, Васильевна, Михайлович</li>
+          <li>PROPN: Петровна, Васильевич, Васильевна, Михайлович, Светлана, Степанович</li>
         </ul>
       </li>
       <li>Sur
         <ul>
           <li>NOUN: Канайкинонь, Ленинонь, Мазы, Малининонь, Тумкин</li>
-          <li>PROPN: Браун, Вельдинонь, Вельматов, Веряскинонди, Голенков, Девинонь, Девятаев, Злобинонь, Каргалов, Келаськин</li>
+          <li>PROPN: Браун, Вельдинонь, Вельматов, Веряскинонди, Голенков, Девинонь, Девятаев, Злобинонь, Ивановать, Каргалов</li>
         </ul>
       </li>
     </ul>
@@ -1082,7 +1177,7 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
       <li>Relat
         <ul>
           <li>ADP: лангс, ланга</li>
-          <li>NOUN: лангс, ланга, лангса, каршес, кучкас, лангозонза, шири, ёткста, Лангсонза, алда</li>
+          <li>NOUN: лангс, каршес, ланга, лангса, кучкас, лангозонза, шири, ёткста, Лангсонза, алга</li>
         </ul>
       </li>
     </ul>
@@ -1106,7 +1201,8 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
     <ul>
       <li>Plur
         <ul>
-          <li>VERB: Лихтезь, азондозень, азондыне, аноклазень, вадердасыне, ванфнезь, васьфтьсамазь, венепнесайне, келептелине, кельгсазь</li>
+          <li>VERB: Кельгсайне, Лихтезь, Эрясть-ащесть, азозь, азондозень, азондыне, аноклазень, вадердасыне, ванфнезь, васьфтьсамазь</li>
+          <li>VERB-Fin: Кельгсайне, азозь, аноклазень, вадердасыне, ванфнезь, васьфтьсамазь, кепсезь, крьвястезень, лемдеськ, нолязень</li>
         </ul>
       </li>
       <li>Plur,Sing
@@ -1116,8 +1212,10 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
       </li>
       <li>Sing
         <ul>
-          <li>AUX: ашезе</li>
-          <li>VERB: валхтозе, няезе, сявозе, сёрмадозе, Ладяйне, Няить, архтозе, валхтсамазь, ванозазе, вархцодезе</li>
+          <li>AUX: тяк, афолензе, ашезе</li>
+          <li>AUX-Fin: ашезе</li>
+          <li>VERB: валхтозе, кизефтезе, няезе, содасак, сявозе, сёрмадозе, Ладяйне, Няить, Таргафтолемайть, архтозе</li>
+          <li>VERB-Fin: валхтозе, кизефтезе, содасак, вархцодезе, дивандафтомань, кадозе, каязе, каяфтозе, кельксезе, кеподьсы</li>
         </ul>
       </li>
     </ul>
@@ -1130,18 +1228,43 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
       <li>Plur
         <ul>
           <li>ADV: пяшксетольхть</li>
-          <li>AUX: ашесть, ульсть, Эрявихть, ашельхть, исть, эрявсть</li>
-          <li>VERB: кармасть, морасть, кирдест, лиссть, работасть, тисть, уендихть, эряйхть, ярхцада, Лихтезь</li>
+          <li>AUX: ульсть, ашесть, Эрявихть, ашельхть, исть, эрявсть</li>
+          <li>AUX-Fin: ульсть</li>
+          <li>VERB: кармасть, морасть, кирдест, лиссть, работасть, тисть, уендихть, эрявихть, эряйхть, ярхцада</li>
+          <li>VERB-Fin: кармасть, морасть, работасть, эрявихть, эряйхть, Ушедоме, азозь, ардоме, ащесть, ванфнезь</li>
           <li>VERB-Part: таргозьфтольхть</li>
         </ul>
       </li>
       <li>Sing
         <ul>
-          <li>ADJ: Шумбрат, акшель, маниель, пароль, сятяволь, цебярель, эреколь, якстерель</li>
-          <li>AUX: ульсь, ашезь, ашень, эрявсь, афоль, аш, изь, эряви, Улендяряль, афолеть</li>
-          <li>NOUN: мялецоль, порядкасоль, прясан</li>
-          <li>VERB: марявсь, сась, варжакстсь, кармась, лиссь, моли, мольсь, рамась, тусь, арась</li>
-          <li>VERB-Part: ацафоль, содафоль, тертьфоль</li>
+          <li>ADJ: маниель, Валдонян, Муворуван, Тяконян, Шумбрат, акшель, лямболь, пароль, сятяволь, цебярель</li>
+          <li>ADV: ичкозят</li>
+          <li>AUX: ульсь, ашезь, ашень, ашеть, изь, эрявсь, афоль, аш, тяк, эряви</li>
+          <li>AUX-Fin: ашень, ульсь, Улень, ашезе, савсь, сашендовсь, ули, эряви</li>
+          <li>NOUN: мялецоль, Маконян, ават, алят, порядкасоль, прясан</li>
+          <li>PROPN: Алдуван</li>
+          <li>VERB: марявсь, лиссь, сась, варжакстсь, кармась, моли, мольсь, рамась, тусь, улема</li>
+          <li>VERB-Fin: кармась, арась, марявсь, сась, сувась, тусь, утцесь, ушедсь, ётась, аськолясь</li>
+          <li>VERB-Part: мяляфтан, ацафоль, мяляфтат, сафат, содафоль, тертьфоль</li>
+          <li>VERB-Vnoun: кельгомнян</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>PartForm</a>
+    <ul>
+      <li>NegConvPrc
+        <ul>
+          <li>AUX: апак</li>
+          <li>AUX-Conv,Part: апак</li>
+        </ul>
+      </li>
+      <li>Past
+        <ul>
+          <li>VERB-Part: мяляфтан, мяляфтат, праф, сафат, сюдофокс, эцеф, юкстафокс</li>
         </ul>
       </li>
     </ul>
@@ -1153,18 +1276,22 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
     <ul>
       <li>1
         <ul>
-          <li>VERB: валхтсамазь, васьфтьсамазь, дивандафтомань, кизефтендярясамазь, лийфнесамазь-тисамазь, няйсамасть, пиксомань, шачфтомань</li>
+          <li>VERB: Таргафтолемайть, валхтсамазь, васьфтьсамазь, дивандафтомань, кизефтендярясамазь, лийфнесамазь-тисамазь, няйсамак, няйсамасть, пиксомань, шачфтомань</li>
+          <li>VERB-Fin: васьфтьсамазь, дивандафтомань, лийфнесамазь-тисамазь, няйсамак, няйсамасть</li>
         </ul>
       </li>
       <li>2
         <ul>
+          <li>AUX: афолензе</li>
           <li>VERB: стардондярятанза</li>
         </ul>
       </li>
       <li>3
         <ul>
-          <li>AUX: ашезе</li>
-          <li>VERB: валхтозе, няезе, сявозе, сёрмадозе, Кончайне, Ладяйне, Лихтезь, Няить, азондозень, азондыне</li>
+          <li>AUX: тяк, ашезе</li>
+          <li>AUX-Fin: ашезе</li>
+          <li>VERB: валхтозе, кизефтезе, няезе, содасак, сявозе, сёрмадозе, Кельгсайне, Кончайне, Ладяйне, Лихтезь</li>
+          <li>VERB-Fin: валхтозе, кизефтезе, содасак, Кельгсайне, азозь, аноклазень, вадердасыне, ванфнезь, вархцодезе, кадозе</li>
         </ul>
       </li>
     </ul>
@@ -1176,27 +1303,29 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
     <ul>
       <li>1
         <ul>
-          <li>ADP: Инголенк, каршесонк, корязон, корязонк, эздонк</li>
-          <li>NOUN: Алязе, брадозень, онцтон, сельмонень, Алязтиге, алязень, арьсеманень, атязе, ваймоньконь, векозень</li>
+          <li>ADP: Инголенк, каршесонк, корязон, корязонк, эздон, эздонк</li>
+          <li>NOUN: Алязе, брадозень, онцтон, сельмонень, Алязтиге, Казарманьконь, алязень, арьсеманень, атязе, баняня</li>
           <li>PROPN: Мишазе</li>
-          <li>VERB-Vnoun: саманьконь</li>
+          <li>VERB-Vnoun: куломозон, саманьконь</li>
         </ul>
       </li>
       <li>2
         <ul>
           <li>ADJ: Нильгемонце</li>
-          <li>ADP: корязонт</li>
-          <li>NOUN: алядот, кице, мяльце, свадьбацень, сёрмаце, тевцень</li>
+          <li>ADP: Мельгат, корязонт, пильгалот</li>
+          <li>NOUN: Мотоциклантень, алядот, ваксстот, кице, мяльце, пряцень, свадьбацень, сёрмаце, тевцень, ульмоняцевок</li>
           <li>PRON: ськамот</li>
+          <li>VERB-Inf: учендомот</li>
         </ul>
       </li>
       <li>3
         <ul>
-          <li>ADJ: оцюняснон</li>
-          <li>ADP: мархтонза, корязост, Инголест, перьфканза, эздост, эзонза, эсонза, эсост</li>
+          <li>ADJ: моронц, оцюняснон</li>
+          <li>ADP: мархтонза, корязост, Инголест, лангаст, перьфканза, эздост, эзонза, эсонза, эсост</li>
           <li>NOUN: цёранц, шамац, мялец, вазенц, лангозонза, мирденц, мялецоль, пацяняц, пингстонза, сельмосна</li>
+          <li>PRON: кафонест</li>
           <li>VERB-Conv: Тумстост</li>
-          <li>VERB-Inf: вятемонза</li>
+          <li>VERB-Inf: вятемонза, шнамонза</li>
           <li>VERB-Vnoun: морамаснон, покодемаснон, саманцты, самозост, сувамац, тиемацка, тумозонза, тушендомаснон</li>
         </ul>
       </li>
@@ -1209,26 +1338,55 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
     <ul>
       <li>1
         <ul>
-          <li>AUX: ашень, улян</li>
-          <li>NOUN: прясан</li>
-          <li>VERB: касан, Арьсян, Касондярян, ванан, корхтан, сявонь, тунь, ёран, Арьсень, Варжакстонь</li>
+          <li>ADJ: Валдонян, Муворуван, Тяконян</li>
+          <li>AUX: ашень, Улень, улян</li>
+          <li>AUX-Fin: ашень, Улень</li>
+          <li>NOUN: Маконян, прясан</li>
+          <li>PROPN: Алдуван</li>
+          <li>VERB: касан, Арьсян, Касондярян, ванан, корхтан, мяляфтан, сявонь, тиень, тиян, тунь</li>
+          <li>VERB-Fin: корхтан, тиян, туян, Аськолянь, Кельгсайне, Удан, Ушедоме, ардоме, ванан, виздеме</li>
+          <li>VERB-Part: мяляфтан</li>
+          <li>VERB-Vnoun: кельгомнян</li>
         </ul>
       </li>
       <li>2
         <ul>
           <li>ADJ: Шумбрат</li>
-          <li>AUX: афолеть, улелеть</li>
-          <li>VERB: архт, мярьгат, ярхцада, Варжалите, Молелексолеть, Няить, Панчк-ка, арьсят, ащат, ванат</li>
+          <li>ADV: ичкозят</li>
+          <li>AUX: ашеть, тяк, Тят, афолеть, тята, улелеть</li>
+          <li>NOUN: ават, алят</li>
+          <li>VERB: архт, мярьгат, сать, содасак, ярхцада, ёрат, Варжалите, Видендярялеть, Молелексолеть, Няить</li>
+          <li>VERB-Fin: мярьгат, сать, содасак, ёрат, азондат, арать, ащат, каят, кизефнят, корхтазеват</li>
+          <li>VERB-Part: мяляфтат, сафат</li>
         </ul>
       </li>
       <li>3
         <ul>
-          <li>ADJ: акшель, маниель, пароль, сятяволь, цебярель, эреколь, якстерель</li>
+          <li>ADJ: маниель, акшель, лямболь, пароль, сятяволь, цебярель, эреколь, якстерель</li>
           <li>ADV: пяшксетольхть</li>
-          <li>AUX: ульсь, ашезь, эрявсь, афоль, аш, ашесть, изь, ульсть, эряви, Улендяряль</li>
+          <li>AUX: ульсь, ашезь, изь, ульсть, эрявсь, афоль, аш, ашесть, эряви, Улендяряль</li>
+          <li>AUX-Fin: ульсть, ульсь, ашезе, савсь, сашендовсь, ули, эряви</li>
           <li>NOUN: мялецоль, порядкасоль</li>
-          <li>VERB: марявсь, сась, варжакстсь, кармась, лиссь, моли, мольсь, рамась, тусь, арась</li>
+          <li>VERB: марявсь, лиссь, сась, варжакстсь, кармась, моли, мольсь, рамась, тусь, улема</li>
+          <li>VERB-Fin: кармась, арась, кармасть, марявсь, морасть, сась, сувась, тусь, утцесь, ушедсь</li>
           <li>VERB-Part: ацафоль, содафоль, таргозьфтольхть, тертьфоль</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>PunctSide</a>
+    <ul>
+      <li>Fin
+        <ul>
+          <li>PUNCT: »</li>
+        </ul>
+      </li>
+      <li>Ini
+        <ul>
+          <li>PUNCT: «</li>
         </ul>
       </li>
     </ul>
@@ -1264,37 +1422,12 @@ In release 2.7 additional example sentences used in the Moksha-language grammar 
 </ul>
 
 <ul>
-  <li><a>Valency</a>
-    <ul>
-      <li>1
-        <ul>
-          <li>AUX: ульсь, эрявсь, Эрявихть, савоза, сашендови, улелеть, ульсть, улян, эряви, эрявсть</li>
-          <li>VERB: касан, лиссь, моли, мольсь, ащи, кенярдсь, корхтай, лездсь, лиссть, марявсь</li>
-          <li>VERB-Conv: дивандазь, кенордазь, палозь</li>
-          <li>VERB-Inf: стямс, Валдашкодомс, валдашкодомда, кувондамс, лездомс, лиендемс, молемс, налхксемс, пеетькшнемс, работама</li>
-          <li>VERB-Part: ащи, иретьфти, лиенди, маскировандафт, моли, ранендаф, сай</li>
-          <li>VERB-Vnoun: ардомась, варьхмодема, кенярдема, морамаснон, покодемаснон, самозост</li>
-        </ul>
-      </li>
-      <li>2
-        <ul>
-          <li>VERB: Арьсян, варжакстсь, сявонь, ёран, Арьсень, Варжакстонь, Ладяйне, Лихтезь, Нумань, Няить</li>
-          <li>VERB-Conv: ётазь</li>
-          <li>VERB-Inf: анцемс, ватксема, дивандафтомс, кадомс, косьфтамс, лувома, нежедемс, петемс, рисовандама, сявондемс</li>
-          <li>VERB-Part: ацафоль, путфт, тертьфоль, шавф</li>
-          <li>VERB-Vnoun: Нумань, муськома</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
   <li><a>VerbType</a>
     <ul>
       <li>Aux
         <ul>
-          <li>AUX: аф, ашезь, аш, ашесть, ба, изь, Афоль, афолеть, ашель, ашельхть</li>
+          <li>ADV: аш</li>
+          <li>AUX: аф, ашезь, ба, ашеть, изь, аш, ашесть, тяк, Афоль, Тят</li>
         </ul>
       </li>
     </ul>
@@ -1320,11 +1453,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB--NOUN (1)</li>
-      <li>VERB--NOUN-Nom (169)</li>
-      <li>VERB--NOUN-Nom-ADP(мархта) (1)</li>
-      <li>VERB--PRON-Nom (69)</li>
+      <li>VERB--NOUN-Gen (1)</li>
+      <li>VERB--NOUN-Nom (82)</li>
+      <li>VERB--PRON (1)</li>
+      <li>VERB--PRON-Nom (46)</li>
+      <li>VERB-Fin--NOUN (1)</li>
+      <li>VERB-Fin--NOUN-Nom (113)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(мархта) (1)</li>
+      <li>VERB-Fin--PRON-Nom (31)</li>
       <li>VERB-Inf--NOUN-Nom (1)</li>
-      <li>VERB-Part--NOUN-Nom (3)</li>
+      <li>VERB-Part--NOUN-Nom (4)</li>
     </ul>
   </li>
 </ul>
@@ -1334,17 +1472,22 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN-Abl (1)</li>
       <li>VERB--NOUN-Ela (1)</li>
-      <li>VERB--NOUN-Gen (57)</li>
+      <li>VERB--NOUN-Gen (35)</li>
       <li>VERB--NOUN-Gen-ADP(эшка) (1)</li>
       <li>VERB--NOUN-Ine (1)</li>
-      <li>VERB--NOUN-Nom (51)</li>
-      <li>VERB--PRON-Gen (7)</li>
+      <li>VERB--NOUN-Nom (33)</li>
+      <li>VERB--PRON-Gen (3)</li>
       <li>VERB--PRON-Nom (2)</li>
       <li>VERB-Conv--NOUN-Gen (3)</li>
-      <li>VERB-Inf--NOUN-Gen (11)</li>
+      <li>VERB-Fin--NOUN-Gen (31)</li>
+      <li>VERB-Fin--NOUN-Nom (26)</li>
+      <li>VERB-Fin--PRON-Gen (5)</li>
+      <li>VERB-Fin--PRON-Nom (1)</li>
+      <li>VERB-Inf--NOUN-Gen (13)</li>
       <li>VERB-Inf--NOUN-Nom (8)</li>
-      <li>VERB-Inf--PRON-Gen (2)</li>
+      <li>VERB-Inf--PRON-Gen (3)</li>
       <li>VERB-Inf--PRON-Nom (1)</li>
+      <li>VERB-Part--PRON-Nom (1)</li>
     </ul>
   </li>
 </ul>
@@ -1362,6 +1505,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 34 relation subtypes: <a>acl:relcl</a>, <a>advcl:cau</a>, <a>advcl:tcl</a>, <a>advmod:cau</a>, <a>advmod:cmp</a>, <a>advmod:deg</a>, <a>advmod:eval</a>, <a>advmod:foc</a>, <a>advmod:freq</a>, <a>advmod:lmod</a>, <a>advmod:mmod</a>, <a>advmod:tmod</a>, <a>aux:cnd</a>, <a>aux:nec</a>, <a>aux:neg</a>, <a>aux:opt</a>, <a>aux:q</a>, <a>cc:preconj</a>, <a>csubj:cop</a>, <a>flat:name</a>, <a>nmod:appos</a>, <a>nmod:bahuv</a>, <a>nmod:lmod</a>, <a>nmod:poss</a>, <a>nmod:tmod</a>, <a>nsubj:cop</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:cau</a>, <a>obl:cmp</a>, <a>obl:freq</a>, <a>obl:inst</a>, <a>obl:lmod</a>, <a>obl:tmod</a></li>
+<li>This corpus uses 36 relation subtypes: <a>acl:relcl</a>, <a>advcl:cau</a>, <a>advcl:eval</a>, <a>advcl:tcl</a>, <a>advmod:cau</a>, <a>advmod:cmp</a>, <a>advmod:deg</a>, <a>advmod:eval</a>, <a>advmod:foc</a>, <a>advmod:freq</a>, <a>advmod:lmod</a>, <a>advmod:mmod</a>, <a>advmod:tmod</a>, <a>aux:cnd</a>, <a>aux:nec</a>, <a>aux:neg</a>, <a>aux:opt</a>, <a>aux:q</a>, <a>cc:preconj</a>, <a>csubj:cop</a>, <a>flat:name</a>, <a>nmod:appos</a>, <a>nmod:bahuv</a>, <a>nmod:gobj</a>, <a>nmod:lmod</a>, <a>nmod:poss</a>, <a>nmod:tmod</a>, <a>nsubj:cop</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:cau</a>, <a>obl:cmp</a>, <a>obl:freq</a>, <a>obl:inst</a>, <a>obl:lmod</a>, <a>obl:tmod</a></li>
 <li>The following 4 relation types are not used in this corpus at all: <a>iobj</a>, <a>clf</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

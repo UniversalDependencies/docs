@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Xavier Gómez Guinovart.
 
 Repository: [UD_Galician-CTG](https://github.com/UniversalDependencies/UD_Galician-CTG)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgl_ctg211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgl_ctg212)<br />
+Download all treebanks: [UD 2.12](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -71,7 +71,7 @@ The Galician UD treebank covers mainly technical texts of the fields of medicine
 
 ## Relations
 
-[acl](gl_ctg-dep-acl.html) – [advcl](gl_ctg-dep-advcl.html) – [advmod](gl_ctg-dep-advmod.html) – [amod](gl_ctg-dep-amod.html) – [appos](gl_ctg-dep-appos.html) – [aux](gl_ctg-dep-aux.html) – [case](gl_ctg-dep-case.html) – [cc](gl_ctg-dep-cc.html) – [ccomp](gl_ctg-dep-ccomp.html) – [conj](gl_ctg-dep-conj.html) – [cop](gl_ctg-dep-cop.html) – [dep](gl_ctg-dep-dep.html) – [det](gl_ctg-dep-det.html) – [flat](gl_ctg-dep-flat.html) – [iobj](gl_ctg-dep-iobj.html) – [mark](gl_ctg-dep-mark.html) – [nmod](gl_ctg-dep-nmod.html) – [nsubj](gl_ctg-dep-nsubj.html) – [nummod](gl_ctg-dep-nummod.html) – [obj](gl_ctg-dep-obj.html) – [obl](gl_ctg-dep-obl.html) – [punct](gl_ctg-dep-punct.html) – [root](gl_ctg-dep-root.html) – [xcomp](gl_ctg-dep-xcomp.html)
+[acl](gl_ctg-dep-acl.html) – [advcl](gl_ctg-dep-advcl.html) – [advmod](gl_ctg-dep-advmod.html) – [amod](gl_ctg-dep-amod.html) – [appos](gl_ctg-dep-appos.html) – [aux](gl_ctg-dep-aux.html) – [case](gl_ctg-dep-case.html) – [cc](gl_ctg-dep-cc.html) – [ccomp](gl_ctg-dep-ccomp.html) – [compound](gl_ctg-dep-compound.html) – [conj](gl_ctg-dep-conj.html) – [cop](gl_ctg-dep-cop.html) – [dep](gl_ctg-dep-dep.html) – [det](gl_ctg-dep-det.html) – [discourse](gl_ctg-dep-discourse.html) – [fixed](gl_ctg-dep-fixed.html) – [flat](gl_ctg-dep-flat.html) – [iobj](gl_ctg-dep-iobj.html) – [list](gl_ctg-dep-list.html) – [mark](gl_ctg-dep-mark.html) – [nmod](gl_ctg-dep-nmod.html) – [nsubj](gl_ctg-dep-nsubj.html) – [nummod](gl_ctg-dep-nummod.html) – [obj](gl_ctg-dep-obj.html) – [obl](gl_ctg-dep-obl.html) – [parataxis](gl_ctg-dep-parataxis.html) – [punct](gl_ctg-dep-punct.html) – [root](gl_ctg-dep-root.html) – [xcomp](gl_ctg-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -123,11 +123,11 @@ The Galician UD treebank covers mainly technical texts of the fields of medicine
 </ul>
 
 <ul>
-<li>This corpus contains 2 lemmas tagged as auxiliaries (AUX): estar, ser</li>
+<li>This corpus contains 12 lemmas tagged as auxiliaries (AUX): acabar, deber, deixar, estar, haber, ir, levar, poder, seguir, ser, ter, vir</li>
 </ul>
 
 <ul>
-<li>Out of the above, 2 lemmas occurred sometimes as AUX and sometimes as VERB: estar, ser</li>
+<li>Out of the above, 12 lemmas occurred sometimes as AUX and sometimes as VERB: acabar, deber, deixar, estar, haber, ir, levar, poder, seguir, ser, ter, vir</li>
 </ul>
 
 <ul>
@@ -195,9 +195,9 @@ The Galician UD treebank covers mainly technical texts of the fields of medicine
           <li>NUM: 1, 10, 20, 23, 70, -11,86, -36,03, -42,43, 105, 11</li>
           <li>PART: non</li>
           <li>PRON: como</li>
-          <li>PROPN: 1979a, BOE, Benson, Brassington, CV, Covarrubias, Exponse, Isla, Lim, Lin</li>
+          <li>PROPN: 1979a, BOE, Benson, Brassington, CV, Covarrubias, Exponse, Hannan, Isla, Lim</li>
           <li>SYM: +</li>
-          <li>VERB: di, Brooman, Cíes, FA+U, Hannan, IPa, MECACAR, Pasa, autoinmune, cae</li>
+          <li>VERB: di, Brooman, FA+U, IPa, MECACAR, Pasa, autoinmune, cae, chega, conforme</li>
         </ul>
       </li>
     </ul>
@@ -213,7 +213,7 @@ The Galician UD treebank covers mainly technical texts of the fields of medicine
 </ul>
 
 <ul>
-<li>This corpus uses 89 lemmas as auxiliaries (<a>aux</a>). Examples: poder, deber, ser, haber, estar, ter, ir, seguir, chegar, continuar, deixar, tender, vir, como, empezar, acabar, axudar, pasar, facer, tratar, comezar, adoitar, dar, proceder, a, caber, comenzar, contribuír, corresponder, custar, falar, interesar, necesitar, obrigar, outro, repartir, ver, volver, 16, abster, acceder, aceptar, acostumbrarse, analizar, apabulladas, aprender, aquel, bloquear, buscar, calquera.</li>
+<li>This corpus uses 12 lemmas as auxiliaries (<a>aux</a>). Examples: poder, deber, ser, haber, estar, ter, ir, seguir, deixar, vir, acabar, levar.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -222,7 +222,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (3121)</li>
+      <li>VERB--NOUN (3101)</li>
       <li>VERB--NOUN-ADP(a) (2)</li>
       <li>VERB--NOUN-ADP(ata) (2)</li>
       <li>VERB--NOUN-ADP(aínda)-ADP(xa) (1)</li>
@@ -231,7 +231,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-ADP(en) (4)</li>
       <li>VERB--NOUN-ADP(entre) (1)</li>
       <li>VERB--NOUN-ADP(sobre) (1)</li>
-      <li>VERB--PRON (1826)</li>
+      <li>VERB--PRON (1822)</li>
       <li>VERB--PRON-ADP(de) (2)</li>
     </ul>
   </li>
@@ -240,23 +240,21 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (4434)</li>
+      <li>VERB--NOUN (4398)</li>
       <li>VERB--NOUN-ADP(a) (1)</li>
-      <li>VERB--NOUN-ADP(como) (7)</li>
+      <li>VERB--NOUN-ADP(como) (6)</li>
       <li>VERB--NOUN-ADP(con) (2)</li>
-      <li>VERB--NOUN-ADP(de) (17)</li>
+      <li>VERB--NOUN-ADP(de) (19)</li>
       <li>VERB--NOUN-ADP(en) (3)</li>
-      <li>VERB--NOUN-ADP(falar) (1)</li>
       <li>VERB--NOUN-ADP(historicamente) (1)</li>
       <li>VERB--NOUN-ADP(investir) (1)</li>
-      <li>VERB--NOUN-ADP(medio) (1)</li>
       <li>VERB--NOUN-ADP(mentres) (1)</li>
-      <li>VERB--NOUN-ADP(precisamente)-ADP(superior) (1)</li>
+      <li>VERB--NOUN-ADP(precisamente) (1)</li>
       <li>VERB--NOUN-ADP(segundo) (1)</li>
       <li>VERB--NOUN-ADP(sobre) (1)</li>
       <li>VERB--NOUN-ADP(só) (1)</li>
-      <li>VERB--PRON (1608)</li>
-      <li>VERB--PRON-ADP(como) (1)</li>
+      <li>VERB--NOUN-ADP(xa)-ADP(falar) (1)</li>
+      <li>VERB--PRON (1603)</li>
       <li>VERB--PRON-ADP(para) (1)</li>
     </ul>
   </li>
@@ -265,7 +263,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB--PRON (276)</li>
+      <li>VERB--PRON (274)</li>
     </ul>
   </li>
 </ul>
@@ -277,5 +275,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus does not use relation subtypes.</li>
-<li>The following 13 relation types are not used in this corpus at all: <a>csubj</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>fixed</a>, <a>compound</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>The following 8 relation types are not used in this corpus at all: <a>csubj</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

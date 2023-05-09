@@ -60,20 +60,20 @@ The following 7 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 6 root	color:blue
-1	Alábùkún	Alábùkún	ADJ	_	_	6	nsubj	_	Ref=MATT_5.8|SpaceAfter=No|Gloss=blessed
-2	-	-	PUNCT	_	_	3	punct	_	Ref=MATT_5.8|SpaceAfter=No|Gloss=-
-3	fún	fún	ADP	_	_	1	compound	_	Ref=MATT_5.8|Gloss=unto
-4	ni	ni	PART	_	_	6	case	_	Ref=MATT_5.8|Gloss=is
-5	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	6	det	_	Ref=MATT_5.8|Gloss=the
-6	ọlọ́kàn	ọlọ́kàn	ADJ	_	_	0	root	_	Ref=MATT_5.8|Gloss=meek
-7	mímọ́	mímọ́	ADJ	_	_	6	amod	_	Ref=MATT_5.8|SpaceAfter=No|Gloss=pure
-8	,	,	PUNCT	_	_	6	punct	_	Ref=MATT_5.8|Gloss=,
-9	nítorí	nítorí	SCONJ	_	_	12	mark	_	Ref=MATT_5.8|Gloss=for
-10	wọn	wọn	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	Ref=MATT_5.8|Gloss=they
-11	yóò	yóò	AUX	_	_	12	aux	_	Ref=MATT_5.8|Gloss=shall
-12	rí	rí	VERB	_	_	1	conj	_	Ref=MATT_5.8|Gloss=see
-13	Ọlọ́run	Ọlọ́run	NOUN	_	_	12	obj	_	Ref=MATT_5.8|SpaceAfter=No|Gloss=god
-14	.	.	PUNCT	_	_	6	punct	_	Ref=MATT_5.8|Gloss=.
+1	Alábùkún	Alábùkún	ADJ	_	_	6	nsubj	_	Gloss=blessed|Ref=MATT_5.8|SpaceAfter=No
+2	-	-	PUNCT	_	_	3	punct	_	Gloss=-|Ref=MATT_5.8|SpaceAfter=No
+3	fún	fún	ADP	_	_	1	compound	_	Gloss=unto|Ref=MATT_5.8
+4	ni	ni	PART	_	_	6	case	_	Gloss=is|Ref=MATT_5.8
+5	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	6	det	_	Gloss=the|Ref=MATT_5.8
+6	ọlọ́kàn	ọlọ́kàn	ADJ	_	_	0	root	_	Gloss=meek|Ref=MATT_5.8
+7	mímọ́	mímọ́	ADJ	_	_	6	amod	_	Gloss=pure|Ref=MATT_5.8|SpaceAfter=No
+8	,	,	PUNCT	_	_	6	punct	_	Gloss=,|Ref=MATT_5.8
+9	nítorí	nítorí	SCONJ	_	_	12	mark	_	Gloss=for|Ref=MATT_5.8
+10	wọn	wọn	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	Gloss=they|Ref=MATT_5.8
+11	yóò	yóò	AUX	_	_	12	aux	_	Gloss=shall|Ref=MATT_5.8
+12	rí	rí	VERB	_	_	1	conj	_	Gloss=see|Ref=MATT_5.8
+13	Ọlọ́run	Ọlọ́run	NOUN	_	_	12	obj	_	Gloss=god|Ref=MATT_5.8|SpaceAfter=No
+14	.	.	PUNCT	_	_	6	punct	_	Gloss=.|Ref=MATT_5.8
 
 ~~~
 

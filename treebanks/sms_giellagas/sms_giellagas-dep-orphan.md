@@ -23,7 +23,7 @@ The following 11 pairs of parts of speech are connected with `orphan`: <tt><a hr
 # visual-style 6	fgColor:white
 # visual-style 6 5 orphan	color:blue
 1	Son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers,Sg3,Nom
-2	vueʹsti	vuäʹstted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=2	0	root	_	GTtags=Ind,Prt,Sg3
+2	vueʹsti	vuäʹstted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Sg3
 3	aaut	autt	NOUN	N	Case=Acc|Number=Sing	2	obj	_	GTtags=Sg,Acc
 4	da	da	CCONJ	CC	_	6	cc	_	_
 5	väʹst	väʹst	ADV	Adv	_	6	orphan	_	_
@@ -61,7 +61,7 @@ The following 11 pairs of parts of speech are connected with `orphan`: <tt><a hr
 # visual-style 6	fgColor:white
 # visual-style 6 8 orphan	color:blue
 1	Son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers,Sg3,Nom
-2	vueʹsti	vuäʹstted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=2	0	root	_	GTtags=Ind,Prt,Sg3
+2	vueʹsti	vuäʹstted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Sg3
 3	aaut	autt	NOUN	N	Case=Acc|Number=Sing	2	obj	_	GTtags=Sg,Acc
 4	da	da	CCONJ	CC	_	6	cc	_	_
 5	väʹst	väʹst	ADV	Adv	_	6	orphan	_	_

@@ -28,9 +28,9 @@ The following 20 pairs of parts of speech are connected with `appos`: <tt><a hre
 4	دشمن	دشمن	NOUN	N_ANM	Number=Sing	7	obj	_	_
 5	ش	او	PRON	PR_JOPER	Number=Sing|Person=3|PronType=Prs	4	nmod	_	_
 6	را	را	ADP	POSTP	_	4	case	_	_
-7	یافته	یافت#یاب	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
-8	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	7	aux	_	SpaceAfter=No
-9	:	:	PUNCT	PUNC	_	8	punct	_	_
+7	یافته	یافت	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=یافت#یاب
+8	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	7	aux	_	OrigLemma=#است|SpaceAfter=No
+9	:	:	PUNCT	PUNC	_	10	punct	_	_
 10	نظریه	نظریه	NOUN	N_IANM	Number=Sing	4	appos	_	SpaceAfter=No
 11	.	.	PUNCT	PUNC	_	10	punct	_	_
 
@@ -49,7 +49,7 @@ The following 20 pairs of parts of speech are connected with `appos`: <tt><a hre
 4	لیبیایی	لیبیایی	ADJ	ADJ_AJP	_	3	amod	_	_
 5	متولد	متولد	ADJ	ADJ_AJP	_	0	root	_	_
 6	1970	1970	NOUN	N_IANM	Number=Sing	5	obl:arg	_	_
-7	است	#است	AUX	AUX	Number=Sing|Person=3	5	cop	_	SpaceAfter=No
+7	است	است	AUX	AUX	Number=Sing|Person=3	5	cop	_	OrigLemma=#است|SpaceAfter=No
 8	.	.	PUNCT	PUNC	_	5	punct	_	_
 
 ~~~
@@ -66,13 +66,13 @@ The following 20 pairs of parts of speech are connected with `appos`: <tt><a hre
 3	به	به	ADP	PREP	_	4	case	_	_
 4	تذکر	تذکر	NOUN	N_IANM	Number=Sing	2	nmod	_	_
 5	یهوه	یهوه	NOUN	N_ANM	Number=Sing	4	nmod	_	_
-6	نکرد	کرد#کن	VERB	V_ACT	Number=Sing|Person=3|Polarity=Neg|Tense=Past|Voice=Act	0	root	_	_
+6	نکرد	کرد	VERB	V_ACT	Number=Sing|Person=3|Polarity=Neg|Tense=Past|Voice=Act	0	root	_	OrigLemma=کرد#کن
 7	و	و	CCONJ	CONJ	_	12	cc	_	_
 8	برادر	برادر	NOUN	N_ANM	Number=Sing	12	obj	_	_
 9	خود	خود	PRON	PR_CREFX	_	8	nmod	_	_
 10	هابیل	هابیل	PROPN	N_ANM	Number=Sing	8	appos	_	_
 11	را	را	ADP	POSTP	_	8	case	_	_
-12	کشت	کشت#کش	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	6	conj	_	SpaceAfter=No
+12	کشت	کشت	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	6	conj	_	OrigLemma=کشت#کش|SpaceAfter=No
 13	.	.	PUNCT	PUNC	_	12	punct	_	_
 
 ~~~

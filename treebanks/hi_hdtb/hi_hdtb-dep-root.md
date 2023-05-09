@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-16647 nodes (5%) are attached to their parents as `root`.
+16649 nodes (5%) are attached to their parents as `root`.
 
-16647 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 12.4914999699646.
+16649 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 12.4913808637155.
 
-The following 11 pairs of parts of speech are connected with `root`: -<tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (14503; 87% instances), -<tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (1249; 8% instances), -<tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (677; 4% instances), -<tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (79; 0% instances), -<tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (76; 0% instances), -<tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (23; 0% instances), -<tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> (23; 0% instances), -<tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> (13; 0% instances), -<tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (2; 0% instances), -<tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (1; 0% instances), -<tt><a href="hi_hdtb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `root`: -<tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (14504; 87% instances), -<tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (1250; 8% instances), -<tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (677; 4% instances), -<tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (79; 0% instances), -<tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (76; 0% instances), -<tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (23; 0% instances), -<tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> (23; 0% instances), -<tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> (13; 0% instances), -<tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (2; 0% instances), -<tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (1; 0% instances), -<tt><a href="hi_hdtb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

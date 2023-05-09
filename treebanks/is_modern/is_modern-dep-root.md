@@ -11,9 +11,9 @@ This relation is universal.
 3535 nodes (4%) are attached to their parents as `root`.
 
 3535 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.43734087694484.
+Average distance between parent and child is 4.43847241867044.
 
-The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (2423; 69% instances), -<tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (369; 10% instances), -<tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> (359; 10% instances), -<tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (189; 5% instances), -<tt><a href="is_modern-pos-DET.html">DET</a></tt> (96; 3% instances), -<tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (44; 1% instances), -<tt><a href="is_modern-pos-PROPN.html">PROPN</a></tt> (29; 1% instances), -<tt><a href="is_modern-pos-INTJ.html">INTJ</a></tt> (8; 0% instances), -<tt><a href="is_modern-pos-NUM.html">NUM</a></tt> (7; 0% instances), -<tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (6; 0% instances), -<tt><a href="is_modern-pos-X.html">X</a></tt> (3; 0% instances), -<tt><a href="is_modern-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), -<tt><a href="is_modern-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (2422; 69% instances), -<tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (370; 10% instances), -<tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> (359; 10% instances), -<tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (189; 5% instances), -<tt><a href="is_modern-pos-DET.html">DET</a></tt> (96; 3% instances), -<tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (44; 1% instances), -<tt><a href="is_modern-pos-PROPN.html">PROPN</a></tt> (29; 1% instances), -<tt><a href="is_modern-pos-INTJ.html">INTJ</a></tt> (8; 0% instances), -<tt><a href="is_modern-pos-NUM.html">NUM</a></tt> (7; 0% instances), -<tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (6; 0% instances), -<tt><a href="is_modern-pos-X.html">X</a></tt> (3; 0% instances), -<tt><a href="is_modern-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), -<tt><a href="is_modern-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -48,7 +48,7 @@ The following 13 pairs of parts of speech are connected with `root`: -<tt><a hre
 4	bara	bara	ADV	FP	_	6	advmod	_	IFD_tag=aa
 5	með	með	ADP	P	_	6	case	_	IFD_tag=ao
 6	getgátur	getgáta	NOUN	NS-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	0	root	_	IFD_tag=nvfo|SpaceAfter=No
-7	,	,	PUNCT	,	_	8	punct	_	IFD_tag=
+7	,	,	PUNCT	,	_	8	punct	_	IFD_tag
 8	er	vera	AUX	BEPI	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	IFD_tag=sfg1en
 9	bara	bara	ADV	FP	_	8	advmod	_	IFD_tag=aa
 10	að	að	PART	TO	_	11	mark	_	IFD_tag=cn
@@ -72,7 +72,7 @@ The following 13 pairs of parts of speech are connected with `root`: -<tt><a hre
 4	pent	penn	ADJ	ADJ-N	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	IFD_tag=lhensf
 5	og	og	CCONJ	CONJ	_	6	cc	_	IFD_tag=c
 6	huggulegt	huggulegur	ADJ	ADJ-N	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	IFD_tag=lhensf|SpaceAfter=No
-7	,	,	PUNCT	,	_	6	punct	_	IFD_tag=
+7	,	,	PUNCT	,	_	6	punct	_	IFD_tag
 8	takk	takk	INTJ	INTJ	_	10	discourse	_	IFD_tag=x
 9	fyrir	fyrir	ADP	P	_	10	case	_	IFD_tag=ao
 10	það	það	PRON	PRO-A	Case=Acc|Gender=Neut|Number=Sing|PronType=Prs	4	conj	_	IFD_tag=fpheo|OriginalHead=0|SpaceAfter=No

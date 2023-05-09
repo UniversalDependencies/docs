@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Imp`, `Ind`.
 
-34828 tokens (11%) have a non-empty value of `Mood`.
-2611 types (8%) occur at least once with a non-empty value of `Mood`.
-1439 lemmas (6%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (19377; 6% instances), <tt><a href="no_bokmaal-pos-AUX.html">AUX</a></tt> (15451; 5% instances).
+34830 tokens (11%) have a non-empty value of `Mood`.
+2612 types (8%) occur at least once with a non-empty value of `Mood`.
+1440 lemmas (6%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 2 part-of-speech tags: <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (19379; 6% instances), <tt><a href="no_bokmaal-pos-AUX.html">AUX</a></tt> (15451; 5% instances).
 
 ### `VERB`
 
-19377 <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> tokens (58% of all `VERB` tokens) have a non-empty value of `Mood`.
+19379 <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> tokens (58% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="no_bokmaal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (19377; 100%), <tt><a href="no_bokmaal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (13702; 71%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="no_bokmaal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (19377; 100%), <tt><a href="no_bokmaal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (13704; 71%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Imp` (230; 1% of non-empty `Mood`): <em>les, la, se, tenk, Ha, ta, send, gi, husk, kom</em>
-* `Ind` (19147; 99% of non-empty `Mood`): <em>har, sier, er, blir, kommer, går, mener, ble, får, hadde</em>
-* `EMPTY` (13974): <em>få, ha, bli, ta, gjøre, se, si, gå, fått, komme</em>
+* `Ind` (19149; 99% of non-empty `Mood`): <em>har, sier, er, blir, kommer, går, mener, ble, får, hadde</em>
+* `EMPTY` (13972): <em>få, ha, bli, ta, gjøre, se, si, gå, fått, komme</em>
 
 <table>
   <tr><th>Paradigm <i>ha</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th></tr>
@@ -33,7 +33,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
   <tr><td><tt></tt></td><td></td><td><em>Ha</em></td></tr>
 </table>
 
-`Mood` seems to be **lexical feature** of `VERB`. 95% lemmas (1364) occur only with one value of `Mood`.
+`Mood` seems to be **lexical feature** of `VERB`. 95% lemmas (1365) occur only with one value of `Mood`.
 
 ### `AUX`
 
@@ -57,7 +57,9 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="no_bokmaal-dep-conj.html">conj</a></tt>]--> VERB</tt> (1629; 70%),
-<tt>VERB --[<tt><a href="no_bokmaal-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (515; 60%),
-<tt>VERB --[<tt><a href="no_bokmaal-dep-csubj-pass.html">csubj:pass</a></tt>]--> VERB</tt> (4; 67%).
+<tt>VERB --[<tt><a href="no_bokmaal-dep-conj.html">conj</a></tt>]--> VERB</tt> (1631; 70%),
+<tt>VERB --[<tt><a href="no_bokmaal-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1251; 66%),
+<tt>VERB --[<tt><a href="no_bokmaal-dep-dislocated.html">dislocated</a></tt>]--> VERB</tt> (7; 58%),
+<tt>AUX --[<tt><a href="no_bokmaal-dep-conj.html">conj</a></tt>]--> VERB</tt> (1; 100%),
+<tt>VERB --[<tt><a href="no_bokmaal-dep-nsubj.html">nsubj</a></tt>]--> AUX</tt> (1; 100%).
 

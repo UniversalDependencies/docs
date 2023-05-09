@@ -12,19 +12,19 @@ It occurs with 2 different values: `Cmp`, `Sup`.
 298 tokens (0%) have a non-empty value of `Degree`.
 138 types (1%) occur at least once with a non-empty value of `Degree`.
 69 lemmas (1%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 2 part-of-speech tags: <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (231; 0% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (67; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (230; 0% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (68; 0% instances).
 
 ### `ADJ`
 
-231 <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> tokens (5% of all `ADJ` tokens) have a non-empty value of `Degree`.
+230 <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> tokens (5% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="el_gdt-feat-Case.html">Case</a></tt><tt>=Acc</tt> (124; 54%), <tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (120; 52%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="el_gdt-feat-Case.html">Case</a></tt><tt>=Acc</tt> (123; 53%), <tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (119; 52%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
-* `Cmp` (195; 84% of non-empty `Degree`): <em>μεγαλύτερο, μεγαλύτερη, περισσότερα, περισσότερες, καλύτερη, περισσότεροι, μικρότερες, μεγαλύτερες, σημαντικότερο, καλύτερο</em>
+* `Cmp` (194; 84% of non-empty `Degree`): <em>μεγαλύτερο, μεγαλύτερη, περισσότερα, περισσότερες, καλύτερη, περισσότεροι, μικρότερες, μεγαλύτερες, σημαντικότερο, καλύτερο</em>
 * `Sup` (36; 16% of non-empty `Degree`): <em>σοβαρότατες, ελάχιστες, ελάχιστο, Ανώτατο, ανώτατων, ελάχιστα, μέγιστη, Γαληνότατης, Δριμύτατη, άριστες</em>
-* `EMPTY` (4689): <em>ευρωπαϊκή, ευρωπαϊκό, νέα, σημαντικό, όλα, ευρωπαϊκής, όλες, μεγάλη, ευρωπαϊκού, πολλές</em>
+* `EMPTY` (4879): <em>ευρωπαϊκή, ευρωπαϊκό, νέα, σημαντικό, πρώτη, όλα, ευρωπαϊκής, όλες, μεγάλη, ευρωπαϊκού</em>
 
 <table>
   <tr><th>Paradigm <i>μεγάλος</i></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -42,13 +42,13 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 ### `ADV`
 
-67 <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> tokens (2% of all `ADV` tokens) have a non-empty value of `Degree`.
+68 <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> tokens (2% of all `ADV` tokens) have a non-empty value of `Degree`.
 
 `ADV` tokens may have the following values of `Degree`:
 
-* `Cmp` (63; 94% of non-empty `Degree`): <em>περισσότερο, αργότερα, νωρίτερα, καλύτερα, λιγότερο, ειδικότερα, παλαιότερα, Παλιότερα, αυστηρότερα, βορειότερα</em>
+* `Cmp` (64; 94% of non-empty `Degree`): <em>περισσότερο, αργότερα, νωρίτερα, καλύτερα, λιγότερο, ειδικότερα, παλαιότερα, Παλιότερα, αυστηρότερα, βορειότερα</em>
 * `Sup` (4; 6% of non-empty `Degree`): <em>πιθανότατα, ελάχιστα, πρώτιστα</em>
-* `EMPTY` (2708): <em>επίσης, όπως, ως, σχετικά, σήμερα, μόνο, εδώ, πολύ, σύμφωνα, πιο</em>
+* `EMPTY` (2669): <em>επίσης, όπως, ως, σχετικά, σήμερα, μόνο, εδώ, πολύ, σύμφωνα, πιο</em>
 
 <table>
   <tr><th>Paradigm <i>λίγο</i></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -60,6 +60,6 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
-<tt>ADJ --[<tt><a href="el_gdt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (6; 67%),
+<tt>ADJ --[<tt><a href="el_gdt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (6; 55%),
 <tt>ADJ --[<tt><a href="el_gdt-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (1; 100%).
 

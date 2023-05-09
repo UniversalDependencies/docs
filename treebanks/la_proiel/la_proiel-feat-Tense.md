@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Fut`, `Past`, `Pqp`, `Pres`.
 
-47474 tokens (24%) have a non-empty value of `Tense`.
-14287 types (49%) occur at least once with a non-empty value of `Tense`.
-2167 lemmas (26%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (39629; 20% instances), <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (7845; 4% instances).
+48661 tokens (24%) have a non-empty value of `Tense`.
+14542 types (49%) occur at least once with a non-empty value of `Tense`.
+2188 lemmas (25%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 2 part-of-speech tags: <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (40560; 20% instances), <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (8101; 4% instances).
 
 ### `VERB`
 
-39629 <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> tokens (97% of all `VERB` tokens) have a non-empty value of `Tense`.
+40560 <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> tokens (97% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (31360; 79%), <tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (31313; 79%), <tt><a href="la_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (30100; 76%), <tt><a href="la_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (27133; 68%), <tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (23309; 59%), <tt><a href="la_proiel-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (23106; 58%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (32163; 79%), <tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (32115; 79%), <tt><a href="la_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (30806; 76%), <tt><a href="la_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (27772; 68%), <tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (23920; 59%), <tt><a href="la_proiel-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (23735; 59%).
 
 `VERB` tokens may have the following values of `Tense`:
 
-* `Fut` (2993; 8% of non-empty `Tense`): <em>venerit, dabo, faciam, faciet, venturus, dabit, fiet, videbitis, poterit, scito</em>
-* `Past` (16036; 40% of non-empty `Tense`): <em>dixit, venit, factum, dixerunt, misit, facta, fecit, respondit, dedit, scriptum</em>
-* `Pqp` (1267; 3% of non-empty `Tense`): <em>venisset, vidisset, dixisset, fecisset, venissent, venerant, venerat, audissent, audisset, dixerat</em>
-* `Pres` (19333; 49% of non-empty `Tense`): <em>ait, dicit, dico, dicens, dicentes, habet, potest, facere, fieri, respondens</em>
-* `EMPTY` (1063): <em>faciendum, audiendi, dicendi, scribendo, agendum, serenda, adhibenda, cavendum, dicendum, iurando</em>
+* `Fut` (3064; 8% of non-empty `Tense`): <em>faciam, venerit, dabo, faciet, venturus, dabit, fiet, poterit, scito, videbitis</em>
+* `Past` (16330; 40% of non-empty `Tense`): <em>dixit, venit, factum, dixerunt, misit, facta, fecit, respondit, dedit, scriptum</em>
+* `Pqp` (1309; 3% of non-empty `Tense`): <em>venisset, vidisset, dixisset, fecisset, venissent, venerant, venerat, audissent, audisset, dixerat</em>
+* `Pres` (19857; 49% of non-empty `Tense`): <em>ait, dicit, dico, dicens, dicentes, habet, potest, facere, fieri, respondens</em>
+* `EMPTY` (1266): <em>faciendum, agendum, audiendi, dicendi, scribendo, adhibenda, cavendum, facienda, serenda, committendum</em>
 
 <table>
   <tr><th>Paradigm <i>dico</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th><th><tt>Pqp</tt></th></tr>
@@ -110,16 +110,16 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-7845 <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `Tense`.
+8101 <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="la_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7845; 100%), <tt><a href="la_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7042; 90%), <tt><a href="la_proiel-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (6227; 79%), <tt><a href="la_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5997; 76%), <tt><a href="la_proiel-feat-Person.html">Person</a></tt><tt>=3</tt> (5961; 76%), <tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5123; 65%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="la_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (8089; 100%), <tt><a href="la_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7228; 89%), <tt><a href="la_proiel-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (6441; 80%), <tt><a href="la_proiel-feat-Person.html">Person</a></tt><tt>=3</tt> (6131; 76%), <tt><a href="la_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (6117; 76%), <tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5275; 65%).
 
 `AUX` tokens may have the following values of `Tense`:
 
-* `Fut` (484; 6% of non-empty `Tense`): <em>erit, erunt, fuerit, estote, futurum, ero, erimus, eritis, eris, esto</em>
-* `Past` (1536; 20% of non-empty `Tense`): <em>erat, esset, erant, fuit, essent, fuisse, fuerunt, essem, fuerit, eram</em>
-* `Pqp` (101; 1% of non-empty `Tense`): <em>fuerat, fuisset, fuerant, fuissent, fuissemus, fuissem, fuisses, fueramus, fuissetis, reliquisset</em>
-* `Pres` (5724; 73% of non-empty `Tense`): <em>est, sunt, esse, sit, sum, estis, es, sumus, sint, fore</em>
+* `Fut` (498; 6% of non-empty `Tense`): <em>erit, fuerit, erunt, estote, futurum, ero, erimus, eritis, eris, esto</em>
+* `Past` (1573; 19% of non-empty `Tense`): <em>erat, esset, erant, fuit, essent, fuisse, fuerunt, essem, eram, fuerit</em>
+* `Pqp` (100; 1% of non-empty `Tense`): <em>fuerat, fuisset, fuerant, fuissent, fuissemus, fuissem, fuisses, fueramus, fuissetis</em>
+* `Pres` (5930; 73% of non-empty `Tense`): <em>est, sunt, esse, sit, sum, estis, es, sumus, sint, fore</em>
 
 <table>
   <tr><th>Paradigm <i>sum</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th><th><tt>Pqp</tt></th></tr>
@@ -181,14 +181,14 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="la_proiel-dep-conj.html">conj</a></tt>]--> VERB</tt> (4268; 86%),
-<tt>VERB --[<tt><a href="la_proiel-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1437; 52%),
-<tt>VERB --[<tt><a href="la_proiel-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (1094; 51%),
-<tt>VERB --[<tt><a href="la_proiel-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (205; 60%),
-<tt>VERB --[<tt><a href="la_proiel-dep-obj.html">obj</a></tt>]--> VERB</tt> (170; 54%),
-<tt>VERB --[<tt><a href="la_proiel-dep-csubj-pass.html">csubj:pass</a></tt>]--> VERB</tt> (98; 59%),
-<tt>VERB --[<tt><a href="la_proiel-dep-dislocated.html">dislocated</a></tt>]--> VERB</tt> (93; 52%),
-<tt>VERB --[<tt><a href="la_proiel-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (69; 71%),
-<tt>VERB --[<tt><a href="la_proiel-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (42; 53%),
-<tt>AUX --[<tt><a href="la_proiel-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (41; 52%).
+<tt>VERB --[<tt><a href="la_proiel-dep-conj.html">conj</a></tt>]--> VERB</tt> (4369; 86%),
+<tt>VERB --[<tt><a href="la_proiel-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1506; 53%),
+<tt>VERB --[<tt><a href="la_proiel-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (1130; 51%),
+<tt>VERB --[<tt><a href="la_proiel-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (206; 60%),
+<tt>VERB --[<tt><a href="la_proiel-dep-obj.html">obj</a></tt>]--> VERB</tt> (174; 54%),
+<tt>VERB --[<tt><a href="la_proiel-dep-dislocated.html">dislocated</a></tt>]--> VERB</tt> (95; 51%),
+<tt>VERB --[<tt><a href="la_proiel-dep-csubj-pass.html">csubj:pass</a></tt>]--> VERB</tt> (92; 57%),
+<tt>VERB --[<tt><a href="la_proiel-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (74; 72%),
+<tt>VERB --[<tt><a href="la_proiel-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (46; 52%),
+<tt>AUX --[<tt><a href="la_proiel-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (44; 52%).
 

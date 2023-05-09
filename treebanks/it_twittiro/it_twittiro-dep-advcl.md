@@ -49,7 +49,7 @@ The following 25 pairs of parts of speech are connected with `advcl`: <tt><a hre
 5	scuola	scuola	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
 6	“	“	PUNCT	FB	_	5	punct	_	_
 7	permettendo	permettire	VERB	V	VerbForm=Ger	5	advcl	_	SpaceAfter=No
-8	.	.	PUNCT	FS	_	5	punct	_	SpaceAfter=\n
+8	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
 
 ~~~
 

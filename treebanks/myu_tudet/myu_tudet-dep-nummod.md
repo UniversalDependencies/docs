@@ -25,7 +25,7 @@ The following 1 pairs of parts of speech are connected with `nummod`: <tt><a hre
 1	xepxep	xepxep	NUM	num	NumType=Card	2	nummod	_	_
 2	pa	ba	NOUN	n	Class=CilRig	3	nmod	_	_
 3	akoba	ako	NOUN	n	Class=CilRig	4	obl	_	_
-4	o'suba'o	'o	VERB	v	Class=CilRig|Person=3|Rel=NCont	0	root	_	gloss=3-RN-CLA-eat
+4	o'suba'o	'o	VERB	v	Class=CilRig|Person=3|Rel=NCont	0	root	_	3-RN-CLA-eat
 
 ~~~
 

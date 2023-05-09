@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Dag Haug.
 
 Repository: [UD_Latin-PROIEL](https://github.com/UniversalDependencies/UD_Latin-PROIEL)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_proiel211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_proiel212)<br />
+Download all treebanks: [UD 2.12](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -69,13 +69,13 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 
 ## Relations
 
-[acl](la_proiel-dep-acl.html) – [advcl](la_proiel-dep-advcl.html) – [advmod](la_proiel-dep-advmod.html) – [amod](la_proiel-dep-amod.html) – [appos](la_proiel-dep-appos.html) – [aux](la_proiel-dep-aux.html) – [aux:pass](la_proiel-dep-aux-pass.html) – [case](la_proiel-dep-case.html) – [cc](la_proiel-dep-cc.html) – [ccomp](la_proiel-dep-ccomp.html) – [conj](la_proiel-dep-conj.html) – [cop](la_proiel-dep-cop.html) – [csubj:pass](la_proiel-dep-csubj-pass.html) – [dep](la_proiel-dep-dep.html) – [det](la_proiel-dep-det.html) – [discourse](la_proiel-dep-discourse.html) – [dislocated](la_proiel-dep-dislocated.html) – [fixed](la_proiel-dep-fixed.html) – [flat:foreign](la_proiel-dep-flat-foreign.html) – [flat:name](la_proiel-dep-flat-name.html) – [iobj](la_proiel-dep-iobj.html) – [mark](la_proiel-dep-mark.html) – [nmod](la_proiel-dep-nmod.html) – [nsubj](la_proiel-dep-nsubj.html) – [nsubj:pass](la_proiel-dep-nsubj-pass.html) – [nummod](la_proiel-dep-nummod.html) – [obj](la_proiel-dep-obj.html) – [obl](la_proiel-dep-obl.html) – [obl:agent](la_proiel-dep-obl-agent.html) – [orphan](la_proiel-dep-orphan.html) – [parataxis](la_proiel-dep-parataxis.html) – [root](la_proiel-dep-root.html) – [vocative](la_proiel-dep-vocative.html) – [xcomp](la_proiel-dep-xcomp.html)
+[acl](la_proiel-dep-acl.html) – [advcl](la_proiel-dep-advcl.html) – [advcl:cmp](la_proiel-dep-advcl-cmp.html) – [advmod](la_proiel-dep-advmod.html) – [amod](la_proiel-dep-amod.html) – [appos](la_proiel-dep-appos.html) – [aux](la_proiel-dep-aux.html) – [aux:pass](la_proiel-dep-aux-pass.html) – [case](la_proiel-dep-case.html) – [cc](la_proiel-dep-cc.html) – [ccomp](la_proiel-dep-ccomp.html) – [conj](la_proiel-dep-conj.html) – [cop](la_proiel-dep-cop.html) – [csubj](la_proiel-dep-csubj.html) – [csubj:pass](la_proiel-dep-csubj-pass.html) – [dep](la_proiel-dep-dep.html) – [det](la_proiel-dep-det.html) – [discourse](la_proiel-dep-discourse.html) – [dislocated](la_proiel-dep-dislocated.html) – [fixed](la_proiel-dep-fixed.html) – [flat:foreign](la_proiel-dep-flat-foreign.html) – [flat:name](la_proiel-dep-flat-name.html) – [mark](la_proiel-dep-mark.html) – [nmod](la_proiel-dep-nmod.html) – [nsubj](la_proiel-dep-nsubj.html) – [nsubj:outer](la_proiel-dep-nsubj-outer.html) – [nsubj:pass](la_proiel-dep-nsubj-pass.html) – [nummod](la_proiel-dep-nummod.html) – [obj](la_proiel-dep-obj.html) – [obl](la_proiel-dep-obl.html) – [obl:agent](la_proiel-dep-obl-agent.html) – [obl:arg](la_proiel-dep-obl-arg.html) – [orphan](la_proiel-dep-orphan.html) – [parataxis](la_proiel-dep-parataxis.html) – [root](la_proiel-dep-root.html) – [vocative](la_proiel-dep-vocative.html) – [xcomp](la_proiel-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 18411 sentences and 200163 tokens.</li>
+<li>This corpus contains 18689 sentences and 205566 tokens.</li>
 </ul>
 
 <ul>
@@ -87,7 +87,7 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 </ul>
 
 <ul>
-<li>This corpus contains 47 types of words that contain both letters and punctuation. Examples: d., a., Kal., Non., a.d., Decembr., Kal.Ianuarias, Kal.Iunias, Pr., a.d.III, a.d.vi, A.d.III, C_X_X_X_I_I_I_I_ZZZ, Dec., Febr., K., Kal.Decembr, Kal.Maias, Kal.Octobr, Kal.Octobribus, Kal.Sextil, Kal.Sextilibus, Kalend., Maias., Nov., Novembr., Quint., Sext., Sextil., a.d.VII, a.d.quintum, a.d.x, a.d.xi, a.d.xiiii, a.d.xv, non.Iun., prid., Δήμητρα,, Φωκυλίδου., κατ’, μάλ’, πατέρ', σύκῳ,, ἀλλ", ἀνήνασθαι,, ὑποδέχθαι., †cIↃ†</li>
+<li>This corpus contains 49 types of words that contain both letters and punctuation. Examples: d., a., Kal., Non., a.d., Kalend., Decembr., Febr., Kal.Ianuarias, Kal.Iunias, Pr., a.d.III, a.d.vi, A.d.III, C_X_X_X_I_I_I_I_ZZZ, Dec., K., Kal.Decembr, Kal.Maias, Kal.Octobr, Kal.Octobribus, Kal.Sextil, Kal.Sextilibus, Maias., Nov., Novembr., Quint., Sext., Sextil., a.d.VII, a.d.quintum, a.d.x, a.d.xi, a.d.xiiii, a.d.xv, domino!, imitati!, non.Iun., prid., Δήμητρα,, Φωκυλίδου., κατ’, μάλ’, πατέρ', σύκῳ,, ἀλλ", ἀνήνασθαι,, ὑποδέχθαι., †cIↃ†</li>
 </ul>
 
 <ul>
@@ -106,23 +106,23 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 </ul>
 
 <ul>
-<li>This corpus contains 19 lemmas tagged as pronouns (PRON): alteruter, ecqui, ecquis, ego, ipse, is, nos, qualis, quantus, qui, quicumque, quis, quisnam, quisquis, quotus, se, tu, uter, vos</li>
+<li>This corpus contains 53 lemmas tagged as pronouns (PRON): aliquis, alius, alter, alteruter, cuique, ecqui, ecquis, ego, hic, idem, ille, ipse, is, iste, meus, nemo, nescio, neuter, nihil, nos, noster, nullus, omnis, qualis, quantuluscumque, quantus, quemque, qui, quicumque, quidam, quilibet, quis, quisnam, quispiam, quisquam, quisque, quisquis, quivis, quo, quotus, se, suus, talis, tantus, tu, tuus, ullus, unusquisque, uter, uterque, utervis, vester, vos</li>
 </ul>
 
 <ul>
-<li>This corpus contains 38 lemmas tagged as determiners (DET): aliqui, aliquis, aliquot, alius, hic, idem, ille, ipse, is, iste, meus, nemo, nescio, nescioquis, neuter, nihil, noster, nullus, omnis, qualiscumque, qui, quicumque, quidam, quilibet, quis, quispiam, quisquam, quisque, quisquis, quivis, suus, talis, tantus, tuus, ullus, unusquisque, uterque, vester</li>
+<li>This corpus contains 39 lemmas tagged as determiners (DET): aliqui, aliquis, aliquot, alius, hic, idem, ille, ipse, is, iste, meus, nemo, nescio, nescioquis, neuter, nihil, noster, nullus, omnis, qualiscumque, qui, quicumque, quidam, quilibet, quis, quispiam, quisquam, quisque, quisquis, quivis, suus, talis, tantus, tuus, ullus, unusquisque, uterque, vester, villa</li>
 </ul>
 
 <ul>
-<li>Out of the above, 6 lemmas occurred sometimes as PRON and sometimes as DET: ipse, is, qui, quicumque, quis, quisquis</li>
+<li>Out of the above, 34 lemmas occurred sometimes as PRON and sometimes as DET: aliquis, alius, hic, idem, ille, ipse, is, iste, meus, nemo, nescio, neuter, nihil, noster, nullus, omnis, qui, quicumque, quidam, quilibet, quis, quispiam, quisquam, quisque, quisquis, quivis, suus, talis, tantus, tuus, ullus, unusquisque, uterque, vester</li>
 </ul>
 
 <ul>
-<li>This corpus contains 4 lemmas tagged as auxiliaries (AUX): ago, nescio, relinquo, sum</li>
+<li>This corpus contains 2 lemmas tagged as auxiliaries (AUX): eo, sum</li>
 </ul>
 
 <ul>
-<li>Out of the above, 3 lemmas occurred sometimes as AUX and sometimes as VERB: ago, nescio, relinquo</li>
+<li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: eo</li>
 </ul>
 
 <ul>
@@ -133,7 +133,7 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
   <li>Fin
   <ul>
     <li>AUX: est, sunt, erat, sit, sum, esset, erant, fuit, erit, estis</li>
-    <li>VERB: dixit, ait, dicit, dico, venit, habet, dixerunt, misit, potest, fecit</li>
+    <li>VERB: dixit, ait, dicit, venit, dico, habet, dixerunt, potest, misit, fecit</li>
   </ul>
   </li>
 </ul>
@@ -141,7 +141,7 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Gdv
   <ul>
-    <li>VERB: faciendum, agendum, serenda, adhibenda, iurando, ponenda, cavendum, dicendum, facienda, fugienda</li>
+    <li>VERB: faciendum, agendum, adhibenda, facienda, serenda, cavendum, committendum, iurando, ponenda, videndum</li>
   </ul>
   </li>
 </ul>
@@ -149,7 +149,7 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Ger
   <ul>
-    <li>VERB: audiendi, dicendi, scribendo, pugnandi, manducandum, praedandi, scribendum, bellandi, navigandi, frumentandi</li>
+    <li>VERB: audiendi, dicendi, scribendo, pugnandi, manducandum, praedandi, scribendum, bellandi, navigandi, agendi</li>
   </ul>
   </li>
 </ul>
@@ -157,8 +157,8 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Inf
   <ul>
-    <li>AUX: esse, fore, fuisse</li>
-    <li>VERB: facere, fieri, posse, dicere, habere, venire, videre, scire, dare, loqui</li>
+    <li>AUX: esse, fore, fuisse, iri</li>
+    <li>VERB: facere, fieri, posse, habere, dicere, venire, videre, scire, dare, loqui</li>
   </ul>
   </li>
 </ul>
@@ -175,7 +175,7 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Sup
   <ul>
-    <li>VERB: factu, frumentatum, salutatum, gratulatum, nuptum, oratum, postulatum, potum, questum, redditum</li>
+    <li>VERB: factu, frumentatum, occisum, salutatum, absolutum, actum, exceptum, gratulatum, iugulatum, nuptum</li>
   </ul>
   </li>
 </ul>
@@ -190,15 +190,15 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Fem
     <ul>
-      <li>ADJ: magna, publica, haec, publicae, illam, illa, multa, magnam, tertia, summa</li>
+      <li>ADJ: magna, publica, publicae, magnam, multa, tertia, summa, tota, altera, prima</li>
       <li>AUX-Part: futuram, futura, futurae, futurarum</li>
-      <li>DET: suam, tua, mea, sua, meam, illa, nostra, hac, ea, tuam</li>
-      <li>NOUN: re, rebus, res, causa, domum, terram, terra, die, rem, gratia</li>
+      <li>DET: suam, tua, sua, mea, meam, illa, hac, ea, nostra, hanc</li>
+      <li>NOUN: re, rebus, causa, res, domum, terram, rem, rei, terra, die</li>
       <li>NUM: una, duas, unam, duabus, duae, tribus, tres, unius, duarum, ducentae</li>
-      <li>PRON: quae, quam, qua, eam, quas, eius, ea, se, quibus, eas</li>
+      <li>PRON: quae, quam, qua, eam, quas, eius, ea, haec, se, quibus</li>
       <li>PROPN: Romae, Galliae, Gallia, Maria, Romam, Galliam, Galilaeam, Galilaeae, Hierosolymam, Iudaea</li>
-      <li>VERB-Gdv: adhibenda, fugienda, ponenda, referenda, serenda, conficiendas, facienda, faciendae, reficiendas, seruanda</li>
-      <li>VERB-Part: facta, data, factae, datas, dicens, accepta, posita, mortua, secutae, cognita</li>
+      <li>VERB-Gdv: adhibenda, facienda, fugienda, habenda, ponenda, referenda, serenda, conficiendas, faciendae, reficiendas</li>
+      <li>VERB-Part: facta, data, factae, datas, dicens, accepta, posita, mortua, secutae, datae</li>
     </ul>
   </li>
 </ul>
@@ -206,11 +206,11 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Fem,Masc
     <ul>
-      <li>ADJ: nemo, certiorem, maior, neminem, certior, plures, maiores, fidelis, fortis, maiorem</li>
+      <li>ADJ: maior, certiorem, certior, plures, maiores, fidelis, fortis, maiorem, similes, communem</li>
       <li>DET: omnes, omnem, omnis, illis, talem, neminem, talis, eo, suis, omnibus</li>
       <li>NOUN: diebus, die, dies, diem, scrobibus, diei, scrobes, boues, dierum, scrobe</li>
       <li>NUM: tres, tribus, tris</li>
-      <li>PRON: vobis, me, ego, vos, tibi, te, mihi, nobis, nos, quis</li>
+      <li>PRON: vobis, me, nemo, ego, vos, tibi, te, mihi, nobis, neminem</li>
       <li>PROPN: Hercyniam, Hierosolyma</li>
       <li>VERB-Part: dicentem, ambulantem, stantem, habentem, loquentes, sedentes, audientes, consummatis, esurientem, faciens</li>
     </ul>
@@ -230,14 +230,14 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Masc
     <ul>
-      <li>ADJ: illi, illis, illum, omnes, ille, hic, his, illos, illo, quis</li>
+      <li>ADJ: multi, mortuis, multos, magnus, multis, alter, primus, sanctus, seniores, dignus</li>
       <li>AUX-Part: futurus, futuros, futurum, futuri</li>
-      <li>DET: suos, nostri, omnes, suis, ipsum, meus, noster, suum, tuus, meum</li>
+      <li>DET: omnes, suos, ipsum, nostri, meus, suis, noster, tuus, suum, meum</li>
       <li>NOUN: dei, deus, deo, domini, filius, fratres, deum, dominus, pater, spiritus</li>
       <li>NUM: unus, unum, duo, duos, duobus, tres, uno, unius, uni, duorum</li>
-      <li>PRON: qui, me, eum, te, eius, se, vobis, vos, mihi, ego</li>
-      <li>PROPN: Iesus, Iesu, Caesar, Christi, Iesum, Christo, Petrus, Christus, Paulus, Christum</li>
-      <li>VERB-Gdv: habendi, recipiendi, confirmandos, eligendus, faciendi, faciendis, horrendi, oppugnandum, pascendi, placando</li>
+      <li>PRON: qui, me, eum, te, eius, se, mihi, vos, vobis, ego</li>
+      <li>PROPN: Iesus, Iesu, Caesar, Christi, Iesum, Christo, Petrus, Christus, Paulus, Caesarem</li>
+      <li>VERB-Gdv: habendi, recipiendi, adhibendus, confirmandos, eligendus, faciendi, faciendis, horrendi, oppugnandum, pascendi</li>
       <li>VERB-Part: dicens, dicentes, respondens, factus, locutus, habens, profectus, mortuus, habentes, videns</li>
     </ul>
   </li>
@@ -246,12 +246,12 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Masc,Neut
     <ul>
-      <li>ADJ: magno, Romani, magnum, sancto, Romano, totum, summo, novissimo, sanctum, summum</li>
+      <li>ADJ: magno, Romani, magnum, sancto, totum, Romano, summo, novissimo, sanctum, summum</li>
       <li>AUX-Part: futurorum</li>
-      <li>DET: eo, hoc, meo, suo, tuo, ipso, tuum, eodem, suum, meum</li>
+      <li>DET: eo, hoc, meo, suo, ipso, tuo, tuum, eodem, suum, meum</li>
       <li>NOUN: locis, aequum, die, praeclarum, tumulum</li>
       <li>NUM: uno, unum, duobus, duorum, ducentorum, duo, quadringentorum</li>
-      <li>PRON: quo, quanto, eo, eorum, ipso, mei, quantum, quoquo, tui, ipsorum</li>
+      <li>PRON: quo, quanto, eo, mei, sui, tui, eorum, illo, ipso, meo</li>
       <li>PROPN: Danubii</li>
       <li>VERB-Gdv: iurando, aedificando, conferendum, ducendum, iurandi, potiundorum, transeundum</li>
       <li>VERB-Part: munitum, acceptum, adprobatum, apertum, aversum, clausum, coactum, concluso, confectum, eductis</li>
@@ -262,14 +262,14 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Neut
     <ul>
-      <li>ADJ: hoc, haec, nihil, omnia, illud, aliquid, multa, quid, his, bonum</li>
+      <li>ADJ: multa, bonum, medio, cetera, plus, totum, simile, malum, verum, novi</li>
       <li>AUX-Part: futurum, futura</li>
-      <li>DET: omnia, hoc, sua, meum, omne, aliud, mea, haec, tuo, illud</li>
-      <li>NOUN: nomine, verbum, regnum, tempore, caelo, tempus, testimonium, nomen, castra, opus</li>
+      <li>DET: omnia, hoc, meum, omne, aliud, sua, haec, tuo, mea, tuum</li>
+      <li>NOUN: nomine, verbum, tempore, regnum, caelo, tempus, nomen, testimonium, castra, opus</li>
       <li>NUM: unum, milia, duo, milibus, milium, tria, uno, duobus, ducenta, sescenta</li>
-      <li>PRON: quod, quae, quid, id, quo, ea, eo, quibus, quaecumque, se</li>
-      <li>PROPN: Hierosolymis, Hierosolyma, Anti, Brundisi, Brundisium, Antium, Brundisio, Cyzicum, Illyricum, Arcano</li>
-      <li>VERB-Gdv: faciendum, agendum, cavendum, dicendum, gerendi, utendum, videndum, committendum, dandum, gerendum</li>
+      <li>PRON: quod, quid, quae, hoc, nihil, haec, id, omnia, ea, quo</li>
+      <li>PROPN: Hierosolymis, Brundisium, Hierosolyma, Anti, Brundisi, Antium, Brundisio, Corfinio, Cyzicum, Illyricum</li>
+      <li>VERB-Gdv: faciendum, agendum, cavendum, committendum, videndum, dicendum, gerendi, utendum, considerandum, dandum</li>
       <li>VERB-Part: factum, scriptum, dictum, datum, scripta, facta, facto, visum, audito, positum</li>
     </ul>
   </li>
@@ -283,16 +283,16 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: illis, haec, omnia, his, omnes, illos, illi, omnibus, multa, multi</li>
+      <li>ADJ: multa, multi, multis, mortuis, ceteris, multos, reliquis, cetera, paucis, seniores</li>
       <li>AUX-Fin: sunt, erant, estis, sumus, sint, essent, erunt, fuerunt, sitis, estote</li>
       <li>AUX-Part: futura, futuros, futurorum, futurae, futurarum, futuri</li>
-      <li>DET: omnes, omnibus, suis, his, omnia, suos, omnium, nostris, meis, nostri</li>
-      <li>NOUN: fratres, rebus, homines, hominum, diebus, discipuli, dies, litteras, locis, castra</li>
-      <li>NUM: duo, milia, duos, tribus, tres, duobus, duas, milibus, milium, duabus</li>
-      <li>PRON: qui, quae, vobis, vos, nos, eos, eis, eorum, nobis, se</li>
-      <li>PROPN: Hierosolymis, Hierosolyma, Athenas, Athenis, Philippis, Alpes, Cicerones, Sardis, Sodomis, Catulis</li>
+      <li>DET: omnes, omnibus, suis, his, omnia, omnium, suos, meis, nostris, tuis</li>
+      <li>NOUN: rebus, fratres, homines, hominum, diebus, discipuli, litteras, dies, locis, hominibus</li>
+      <li>NUM: duo, milia, duos, tribus, tres, duobus, duas, milibus, duabus, milium</li>
+      <li>PRON: qui, quae, vobis, vos, nos, eos, illis, haec, eis, eorum</li>
+      <li>PROPN: Hierosolymis, Hierosolyma, Athenas, Athenis, Cicerones, Philippis, Alpes, Sardis, Sodomis, Catulis</li>
       <li>VERB-Fin: dixerunt, nolite, venerunt, dicebant, habent, dicunt, possent, possunt, habebant, coeperunt</li>
-      <li>VERB-Gdv: agenda, conficiendas, habendi, reficiendas, serenda, capiendis, cavenda, colenda, confirmandos, dandas</li>
+      <li>VERB-Gdv: habendi, agenda, conficiendas, eligenda, reficiendas, serenda, capiendis, cavenda, colenda, confirmandos</li>
       <li>VERB-Part: dicentes, habentes, videntes, facti, audientes, secuti, scripta, facta, factae, exeuntes</li>
     </ul>
   </li>
@@ -301,16 +301,16 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: hoc, nihil, illum, illi, ille, hic, illo, nemo, magna, illud</li>
-      <li>AUX-Fin: est, erat, sit, sum, esset, fuit, erit, es, fuerit, fuerat</li>
+      <li>ADJ: magna, magno, publica, bonum, publicae, magnum, totum, maior, multa, Romani</li>
+      <li>AUX-Fin: est, erat, sit, sum, esset, fuit, erit, es, fuerit, sis</li>
       <li>AUX-Part: futurum, futurus, futuram, futura</li>
-      <li>DET: hoc, omni, suam, meum, omnis, suum, ipsum, tuum, tua, meo</li>
-      <li>NOUN: dei, deus, die, deo, domini, filius, re, deum, dominus, causa</li>
+      <li>DET: hoc, omni, suam, meum, omnis, ipsum, tuum, tua, suum, meo</li>
+      <li>NOUN: dei, deus, die, deo, re, domini, filius, causa, deum, dominus</li>
       <li>NUM: unum, unus, una, uno, unam, unius, uni, Vni, Vna, Vnam</li>
-      <li>PRON: qui, me, eum, eius, quod, te, ego, mihi, quid, se</li>
-      <li>PROPN: Iesus, Iesu, Caesar, Christi, Iesum, Christo, Petrus, Christus, Paulus, Christum</li>
-      <li>VERB-Fin: dixit, ait, dicit, dico, venit, habet, misit, potest, fecit, respondit</li>
-      <li>VERB-Gdv: faciendum, agendum, adhibenda, iurando, cavendum, dicendum, gerendi, utendum, videndum, committendum</li>
+      <li>PRON: qui, me, eum, quod, te, eius, quid, ego, mihi, se</li>
+      <li>PROPN: Iesus, Iesu, Caesar, Christi, Iesum, Christo, Petrus, Christus, Paulus, Caesarem</li>
+      <li>VERB-Fin: dixit, ait, dicit, venit, dico, habet, potest, misit, fecit, respondit</li>
+      <li>VERB-Gdv: faciendum, agendum, adhibenda, cavendum, committendum, iurando, videndum, dicendum, facienda, gerendi</li>
       <li>VERB-Part: dicens, factum, respondens, facta, scriptum, factus, locutus, habens, data, videns</li>
     </ul>
   </li>
@@ -323,14 +323,14 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Abl
     <ul>
-      <li>ADJ: his, illo, illis, omnibus, hoc, magna, magno, multis, publica, mortuis</li>
-      <li>DET: omnibus, omni, suis, hoc, his, sua, meo, suo, eo, hac</li>
-      <li>NOUN: die, re, rebus, nomine, causa, tempore, caelo, diebus, loco, spiritu</li>
+      <li>ADJ: magna, magno, publica, multis, mortuis, medio, sancto, reliquis, paucis, primis</li>
+      <li>DET: omnibus, omni, hoc, suis, his, sua, meo, suo, eo, hac</li>
+      <li>NOUN: die, re, rebus, causa, nomine, tempore, caelo, diebus, loco, spiritu</li>
       <li>NUM: uno, una, tribus, duobus, milibus, duabus, ducentis, quingentis, sescentis, mille</li>
-      <li>PRON: quo, me, eo, vobis, quibus, qua, te, se, nobis, eis</li>
-      <li>PROPN: Christo, Iesu, Gallia, Caesare, Hierosolymis, Pompeio, Quinto, Galilaea, Iudaea, Marco</li>
+      <li>PRON: quo, me, eo, quibus, qua, vobis, te, his, illo, se</li>
+      <li>PROPN: Christo, Iesu, Gallia, Caesare, Pompeio, Hierosolymis, Quinto, Galilaea, Iudaea, Italia</li>
       <li>VERB-Gdv: iurando, capiendis, dandis, faciendis, inferenda, nutriendis, ornandis, placando, referenda, restituendo</li>
-      <li>VERB-Ger: scribendo, abrogando, accipiendo, cunctando, dando, dicendo, discendo, tribuendo, addendo, agendo</li>
+      <li>VERB-Ger: scribendo, abrogando, accipiendo, cunctando, dando, dicendo, discendo, tribuendo, abiciendo, addendo</li>
       <li>VERB-Part: facta, facto, acceptis, audito, convocatis, relictis, loquente, relicto, accepto, cognito</li>
       <li>VERB-Sup: factu</li>
     </ul>
@@ -340,17 +340,17 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Acc
     <ul>
-      <li>ADJ: illum, haec, nihil, hoc, omnia, illos, illud, aliquid, multa, omnes</li>
+      <li>ADJ: multa, magnam, magnum, bonum, multos, alterum, publicam, aeternam, totum, aeternum</li>
       <li>AUX-Part: futurum, futuram, futuros, futura</li>
-      <li>DET: suam, suum, ipsum, suos, meum, omnes, tuum, omnem, meam, omnia</li>
-      <li>NOUN: deum, domum, locum, terram, hominem, rem, patrem, verbum, litteras, diem</li>
+      <li>DET: suam, ipsum, suum, meum, omnes, tuum, omnem, meam, suos, omnia</li>
+      <li>NOUN: deum, locum, domum, terram, rem, hominem, litteras, patrem, verbum, diem</li>
       <li>NUM: unum, duos, milia, duas, duo, unam, tres, tria, ducentos, ducenta</li>
-      <li>PRON: me, eum, se, te, vos, quid, eos, quod, nos, quae</li>
-      <li>PROPN: Iesum, Christum, Caesarem, Rhenum, Iohannem, Paulum, Romam, Galliam, Pompeium, Galilaeam</li>
-      <li>VERB-Gdv: faciendum, gerendum, committendum, conficiendas, iurandum, reficiendas, timendum, accipiendam, cogitandum, colenda</li>
+      <li>PRON: me, eum, se, te, quid, vos, eos, quod, illum, nos</li>
+      <li>PROPN: Iesum, Caesarem, Christum, Rhenum, Iohannem, Paulum, Pompeium, Romam, Galliam, Galilaeam</li>
+      <li>VERB-Gdv: faciendum, committendum, gerendum, conficiendas, iurandum, reficiendas, timendum, accipiendam, cogitandum, colenda</li>
       <li>VERB-Ger: manducandum, scribendum, navigandum, ponendum, vivendum, audiendum, bibendum, dimicandum, faciendum, iudicandum</li>
-      <li>VERB-Part: dicentem, habentem, factum, sedentem, facturum, venientem, datas, stantem, descendentem, habentes</li>
-      <li>VERB-Sup: frumentatum, salutatum, gratulatum, nuptum, oratum, postulatum, potum, questum, redditum, rogatum</li>
+      <li>VERB-Part: dicentem, habentem, factum, sedentem, facturum, venientem, datas, stantem, profectum, descendentem</li>
+      <li>VERB-Sup: frumentatum, occisum, salutatum, absolutum, actum, exceptum, gratulatum, iugulatum, nuptum, oratum</li>
     </ul>
   </li>
 </ul>
@@ -358,13 +358,13 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Dat
     <ul>
-      <li>ADJ: illi, illis, his, huic, omnibus, publicae, aliis, nemini, ceteris, alii</li>
-      <li>DET: suis, huic, omnibus, suo, nostris, meo, nostro, omni, suae, ei</li>
-      <li>NOUN: deo, homini, domino, hominibus, rei, discipulis, populo, gentibus, fratri, patri</li>
-      <li>NUM: uni, duobus, Vni, Duabus, dementiae, quingentis, tribus, unis, uno</li>
-      <li>PRON: mihi, vobis, ei, tibi, eis, nobis, sibi, cui, quibus, iis</li>
+      <li>ADJ: publicae, ceteris, Romano, multis, omnibus, pauperibus, sanctis, singulis, magno, bonis</li>
+      <li>DET: suis, huic, omnibus, suo, meo, nostro, omni, suae, ei, illi</li>
+      <li>NOUN: deo, rei, domino, homini, hominibus, discipulis, populo, gentibus, fratri, patri</li>
+      <li>NUM: uni, duobus, Vni, duabus, dementiae, quingentis, tribus, unis, uno</li>
+      <li>PRON: mihi, vobis, ei, tibi, illi, illis, eis, nobis, sibi, cui</li>
       <li>PROPN: Caesari, Petro, Quinto, Iesu, Pompeio, Paulo, Christo, Crasso, Lucio, Mosi</li>
-      <li>VERB-Gdv: administrandis, conficiendae, conlocandis, ferendae, reiciendis, saginandis</li>
+      <li>VERB-Gdv: administrandis, conficiendae, conlocandis, ferendae, reiciendis, saginandis, violandis</li>
       <li>VERB-Ger: scribendo, cogitando</li>
       <li>VERB-Part: habenti, habitantibus, petentibus, victis, credenti, credentibus, petenti, sedentibus, nutrientibus, sedenti</li>
     </ul>
@@ -374,15 +374,15 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Gen
     <ul>
-      <li>ADJ: Romani, totius, publicae, novi, omnium, alterius, magni, sanctorum, mortuorum, bonorum</li>
+      <li>ADJ: Romani, totius, publicae, novi, alterius, magni, sanctorum, mortuorum, bonorum, mali</li>
       <li>AUX-Part: futurorum, futurarum</li>
-      <li>DET: omnium, eius, huius, nostri, illius, mei, illorum, sui, tui, suae</li>
-      <li>NOUN: dei, domini, hominis, hominum, populi, rerum, modi, sacerdotum, rei, vitae</li>
+      <li>DET: omnium, eius, huius, nostri, illius, illorum, mei, suae, sui, tui</li>
+      <li>NOUN: dei, domini, hominis, hominum, rerum, modi, populi, rei, sacerdotum, vitae</li>
       <li>NUM: unius, milium, trium, duorum, duarum, ducentorum, quadringentorum, ouorum, quinquaginta, sescentorum</li>
-      <li>PRON: eius, eorum, cuius, quorum, vestrum, ipsius, mei, ipsorum, quarum, earum</li>
-      <li>PROPN: Christi, Iesu, Romae, Caesaris, Galliae, Iohannis, Galilaeae, Pompei, Simonis, Mosi</li>
-      <li>VERB-Gdv: gerendi, colligendi, committendi, dimittendi, faciendae, horrendi, petendi, purgandi, recipiendi, retinendi</li>
-      <li>VERB-Ger: audiendi, dicendi, pugnandi, praedandi, bellandi, navigandi, frumentandi, iocandi, ludendi, transeundi</li>
+      <li>PRON: eius, eorum, cuius, quorum, ipsius, vestrum, mei, ipsorum, quarum, sui</li>
+      <li>PROPN: Christi, Iesu, Caesaris, Romae, Galliae, Iohannis, Galilaeae, Pompei, Simonis, Mosi</li>
+      <li>VERB-Gdv: gerendi, colligendi, recipiendi, committendi, dimittendi, faciendae, horrendi, petendi, purgandi, retinendi</li>
+      <li>VERB-Ger: audiendi, dicendi, pugnandi, praedandi, bellandi, navigandi, agendi, frumentandi, iocandi, ludendi</li>
       <li>VERB-Part: credentium, clamantis, dicentium, sedentis, dicentis, factorum, adpetentis, animantium, clamantium, colentium</li>
     </ul>
   </li>
@@ -391,14 +391,14 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Nom
     <ul>
-      <li>ADJ: ille, omnes, hic, haec, illi, nemo, nihil, quis, hoc, quidam</li>
+      <li>ADJ: multi, multa, magna, maior, magnus, alter, primus, bonum, sanctus, dignus</li>
       <li>AUX-Part: futurus, futurum, futura, futurae, futuri</li>
-      <li>DET: omnes, omnis, meus, tua, haec, mea, nostri, tuus, noster, ille</li>
-      <li>NOUN: deus, filius, dominus, homo, pater, res, discipuli, spiritus, dies, mulier</li>
+      <li>DET: omnes, omnis, meus, tua, haec, mea, noster, tuus, ille, quidam</li>
+      <li>NOUN: deus, filius, dominus, homo, res, pater, discipuli, spiritus, dies, mulier</li>
       <li>NUM: unus, duo, unum, milia, una, tres, duae, tria, ducentae, Vna</li>
-      <li>PRON: qui, quae, ego, quod, tu, vos, nos, ipse, quid, quis</li>
+      <li>PRON: qui, quae, ego, quod, tu, quis, ipse, vos, quid, ille</li>
       <li>PROPN: Iesus, Caesar, Petrus, Christus, Paulus, Iohannes, Pilatus, Moses, Maria, Pompeius</li>
-      <li>VERB-Gdv: faciendum, serenda, adhibenda, ponenda, agendum, facienda, fugienda, videndum, cavendum, dicendum</li>
+      <li>VERB-Gdv: faciendum, adhibenda, facienda, serenda, agendum, ponenda, videndum, cavendum, fugienda, considerandum</li>
       <li>VERB-Ger: cavendum</li>
       <li>VERB-Part: dicens, dicentes, factum, respondens, scriptum, facta, factus, locutus, habens, data</li>
     </ul>
@@ -408,10 +408,10 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Voc
     <ul>
-      <li>ADJ: carissimi, bone, caeci, immortales, optime, stulti, boni, fidelis, incredula, magna</li>
+      <li>ADJ: carissimi, bone, caeci, boni, immortales, optime, stulti, fidelis, incredula, magna</li>
       <li>DET: mi, mei, omnes, illa, meus, mea, meum, noster, omnis</li>
       <li>NOUN: domine, fratres, viri, magister, pater, fili, rex, hypocritae, mulier, Pharisaei</li>
-      <li>PRON: tu</li>
+      <li>PRON: tu, omnes</li>
       <li>PROPN: Iesu, Simon, Pomponi, Saule, Agrippa, Abba, Marce, Petre, Tite, Anania</li>
       <li>VERB-Part: veniens, deprecans, dilecti, excolantes, extollens, gluttientes, refulgens, signati, videns</li>
     </ul>
@@ -428,19 +428,10 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 </ul>
 
 <ul>
-  <li>Abs
-    <ul>
-      <li>ADJ: maximum, maxima, plurimum, maximo, carissimi, optimo, optimum, maximam, maximas, maximis</li>
-      <li>ADV: maxime, minime, diligentissime, plurimum, optime, proxime, latissime, novissime, facillime, saepissime</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
   <li>Cmp
     <ul>
       <li>ADJ: maior, plus, seniores, plures, senioribus, maiores, plura, pluribus, certiorem, maius</li>
-      <li>ADV: magis, minus, amplius, prius, plus, longius, facilius, melius, diutius, abundantius</li>
+      <li>ADV: magis, minus, amplius, prius, plus, facilius, longius, melius, diutius, abundantius</li>
     </ul>
   </li>
 </ul>
@@ -448,8 +439,17 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Pos
     <ul>
-      <li>ADJ: multa, magna, multi, multis, magno, publica, bonum, magnum, romani, publicae</li>
-      <li>ADV: saepe, valde, longe, satis, bene, facile, similiter, prope, celeriter, vere</li>
+      <li>ADJ: multa, magna, multi, multis, magno, publica, bonum, publicae, magnum, romani</li>
+      <li>ADV: valde, saepe, satis, longe, bene, facile, similiter, certe, celeriter, prope</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Sup
+    <ul>
+      <li>ADJ: maxima, maximum, plurimum, maximo, optimo, carissimi, maximis, maximas, optimum, maximam</li>
+      <li>ADV: maxime, minime, diligentissime, plurimum, proxime, optime, latissime, novissime, facillime, saepissime</li>
     </ul>
   </li>
 </ul>
@@ -477,7 +477,7 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Imp
     <ul>
-      <li>AUX-Fin: erat, esset, erant, essent, essem, eram, esses, essemus, eramus, essetis</li>
+      <li>AUX-Fin: erat, esset, erant, essent, essem, eram, essemus, esses, eramus, essetis</li>
       <li>VERB-Fin: dicebant, dicebat, posset, possent, habebat, habebant, fieret, diceret, poterat, sedebat</li>
     </ul>
   </li>
@@ -489,8 +489,8 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
       <li>AUX-Fin: fuit, fuerit, fuerunt, fuerint, fui, fuimus, fuero, fuistis, fueritis, fuisti</li>
       <li>AUX-Inf: fuisse</li>
       <li>VERB-Fin: dixit, venit, dixerunt, misit, fecit, respondit, dedit, venerunt, vidi, vidit</li>
-      <li>VERB-Inf: venisse, audisse, potuisse, dedisse, fecisse, nosse, accepisse, defuisse, accidisse, dixisse</li>
-      <li>VERB-Part: factum, facta, scriptum, factus, locutus, data, dictum, profectus, mortuus, facti</li>
+      <li>VERB-Inf: venisse, audisse, dedisse, fecisse, potuisse, nosse, scripsisse, accepisse, defuisse, accidisse</li>
+      <li>VERB-Part: factum, facta, scriptum, factus, locutus, data, profectus, dictum, mortuus, facti</li>
     </ul>
   </li>
 </ul>
@@ -503,7 +503,7 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
   <li>Imp
     <ul>
       <li>AUX-Fin: estote, esto</li>
-      <li>VERB-Fin: nolite, vade, videte, fac, noli, cura, surge, facite, ite, dic</li>
+      <li>VERB-Fin: nolite, vade, fac, videte, noli, cura, surge, facite, dic, ite</li>
     </ul>
   </li>
 </ul>
@@ -512,7 +512,7 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
   <li>Ind
     <ul>
       <li>AUX-Fin: est, sunt, erat, sum, erant, fuit, erit, estis, es, sumus</li>
-      <li>VERB-Fin: dixit, ait, dicit, dico, venit, habet, dixerunt, misit, potest, fecit</li>
+      <li>VERB-Fin: dixit, ait, dicit, venit, dico, habet, dixerunt, potest, misit, fecit</li>
     </ul>
   </li>
 </ul>
@@ -533,10 +533,10 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Fut
     <ul>
-      <li>AUX-Fin: erit, erunt, fuerit, estote, ero, erimus, eritis, eris, esto, fuerint</li>
+      <li>AUX-Fin: erit, fuerit, erunt, estote, ero, erimus, eritis, eris, esto, fuerint</li>
       <li>AUX-Part: futurum, futurus, futura, futuram, futuros, futurorum, futurae, futurarum, futuri</li>
-      <li>VERB-Fin: venerit, dabo, faciam, faciet, dabit, fiet, videbitis, poterit, scito, dabitur</li>
-      <li>VERB-Part: venturus, facturum, facturus, venturum, acturus, ventura, habiturum, visurus, curaturum, iturum</li>
+      <li>VERB-Fin: faciam, venerit, dabo, faciet, dabit, fiet, poterit, scito, videbitis, poteris</li>
+      <li>VERB-Part: venturus, facturum, acturus, facturus, venturum, ventura, habiturum, iturus, visurus, curaturum</li>
     </ul>
   </li>
 </ul>
@@ -544,11 +544,11 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Past
     <ul>
-      <li>AUX-Fin: erat, esset, erant, fuit, essent, fuerunt, essem, fuerit, eram, esses</li>
+      <li>AUX-Fin: erat, esset, erant, fuit, essent, fuerunt, essem, eram, fuerit, essemus</li>
       <li>AUX-Inf: fuisse</li>
-      <li>VERB-Fin: dixit, venit, dixerunt, misit, fecit, respondit, dedit, venerunt, dicebant, vidi</li>
-      <li>VERB-Inf: venisse, audisse, potuisse, dedisse, fecisse, nosse, accepisse, defuisse, accidisse, dixisse</li>
-      <li>VERB-Part: factum, facta, scriptum, factus, locutus, data, dictum, profectus, mortuus, facti</li>
+      <li>VERB-Fin: dixit, venit, dixerunt, misit, fecit, respondit, dedit, venerunt, vidi, dicebant</li>
+      <li>VERB-Inf: venisse, audisse, dedisse, fecisse, potuisse, nosse, scripsisse, accepisse, defuisse, accidisse</li>
+      <li>VERB-Part: factum, facta, scriptum, factus, locutus, data, profectus, dictum, mortuus, facti</li>
     </ul>
   </li>
 </ul>
@@ -556,7 +556,7 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Pqp
     <ul>
-      <li>AUX-Fin: fuerat, fuisset, fuerant, fuissent, fuissemus, fuissem, fuisses, fueramus, fuissetis, reliquisset</li>
+      <li>AUX-Fin: fuerat, fuisset, fuerant, fuissent, fuissemus, fuissem, fuisses, fueramus, fuissetis</li>
       <li>VERB-Fin: venisset, vidisset, dixisset, fecisset, venissent, venerant, venerat, audissent, audisset, dixerat</li>
     </ul>
   </li>
@@ -566,9 +566,9 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
   <li>Pres
     <ul>
       <li>AUX-Fin: est, sunt, sit, sum, estis, es, sumus, sint, sis, sim</li>
-      <li>AUX-Inf: esse, fore</li>
-      <li>VERB-Fin: ait, dicit, dico, habet, potest, nolite, velim, oportet, scribis, habent</li>
-      <li>VERB-Inf: facere, fieri, posse, dicere, habere, venire, videre, scire, dare, loqui</li>
+      <li>AUX-Inf: esse, fore, iri</li>
+      <li>VERB-Fin: ait, dicit, dico, habet, potest, velim, nolite, oportet, scribis, habent</li>
+      <li>VERB-Inf: facere, fieri, posse, habere, dicere, venire, videre, scire, dare, loqui</li>
       <li>VERB-Part: dicens, dicentes, respondens, habens, videns, habentes, dicentem, videntes, audientes, surgens</li>
     </ul>
   </li>
@@ -584,8 +584,8 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
       <li>AUX-Fin: est, sunt, erat, sit, sum, esset, erant, fuit, erit, estis</li>
       <li>AUX-Inf: esse, fore, fuisse</li>
       <li>AUX-Part: futurum, futurus, futura, futuram, futuros, futurorum, futurae, futurarum, futuri</li>
-      <li>VERB-Fin: dixit, ait, dicit, dico, venit, habet, dixerunt, misit, potest, fecit</li>
-      <li>VERB-Inf: facere, posse, dicere, habere, venire, videre, scire, dare, ire, transire</li>
+      <li>VERB-Fin: dixit, ait, dicit, venit, dico, habet, dixerunt, potest, misit, fecit</li>
+      <li>VERB-Inf: facere, posse, habere, dicere, venire, videre, scire, dare, ire, mittere</li>
       <li>VERB-Part: dicens, dicentes, respondens, habens, videns, habentes, dicentem, videntes, audientes, surgens</li>
     </ul>
   </li>
@@ -594,9 +594,10 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Pass
     <ul>
-      <li>VERB-Fin: videtur, dicitur, loquitur, loquebatur, operatur, vocatur, loquor, vereor, videntur, opinor</li>
-      <li>VERB-Inf: fieri, loqui, uti, proficisci, dari, pati, dici, sequi, mori, iri</li>
-      <li>VERB-Part: factum, facta, scriptum, factus, locutus, data, dictum, profectus, mortuus, facti</li>
+      <li>AUX-Inf: iri</li>
+      <li>VERB-Fin: videtur, dicitur, loquitur, loquebatur, loquor, operatur, vocatur, videbatur, vereor, videatur</li>
+      <li>VERB-Inf: fieri, loqui, uti, proficisci, dari, pati, dici, mori, sequi, videri</li>
+      <li>VERB-Part: factum, facta, scriptum, factus, locutus, data, profectus, dictum, mortuus, facti</li>
     </ul>
   </li>
 </ul>
@@ -613,7 +614,7 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
   <li>Int
     <ul>
       <li>ADV: quomodo, numquid, nonne, ubi, quam, quo, unde, quare, an, ne</li>
-      <li>PRON: quid, quis, quae, quo, qua, qui, quem, quibus, cuius, quanta</li>
+      <li>PRON: quid, quis, quae, quo, qua, qui, quem, quibus, cuius, quam</li>
     </ul>
   </li>
 </ul>
@@ -621,7 +622,7 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: me, eum, eius, te, se, vobis, vos, ego, mihi, ei</li>
+      <li>PRON: me, eum, te, eius, se, vobis, ego, vos, mihi, ei</li>
     </ul>
   </li>
 </ul>
@@ -637,8 +638,8 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Rel
     <ul>
-      <li>ADV: ut, sicut, ubi, cum, qua, quo, quando, re, quam, quantum</li>
-      <li>PRON: qui, quae, quod, quo, quem, quibus, quam, quos, qua, quas</li>
+      <li>ADV: ut, sicut, ubi, cum, qua, quo, quando, re, quam, quoad</li>
+      <li>PRON: qui, quae, quod, quo, quem, quibus, quam, qua, quos, quas</li>
     </ul>
   </li>
 </ul>
@@ -651,7 +652,8 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Yes
     <ul>
-      <li>DET: suis, suam, sua, mea, tua, meum, nostri, suum, tuum, meo</li>
+      <li>DET: suis, suam, sua, tua, mea, meum, tuum, suum, meo, suo</li>
+      <li>PRON: nostri, suos, nostros, nostris, sua, suis, mea, nostra, sui, tua</li>
     </ul>
   </li>
 </ul>
@@ -664,7 +666,7 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
   <li>Yes
     <ul>
       <li>DET: suis, suam, sua, suum, suo, suos, suae, suas, sui, suorum</li>
-      <li>PRON: se, sibi, sese, sui</li>
+      <li>PRON: se, sibi, sese, suos, sui, sua, suis, suum, suam, suo</li>
     </ul>
   </li>
 </ul>
@@ -676,10 +678,10 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>1
     <ul>
-      <li>AUX-Fin: sum, sumus, essem, sim, eram, simus, essemus, ero, erimus, fui</li>
-      <li>DET: mea, meum, nostri, meo, nostra, meam, nostris, meus, nostrum, mei</li>
-      <li>PRON: me, ego, mihi, nos, nobis, mei, nostri, nostrum, mi</li>
-      <li>VERB-Fin: dico, velim, vidi, scio, habeo, scripsi, dixi, faciam, veni, video</li>
+      <li>AUX-Fin: sum, sumus, essem, sim, eram, simus, essemus, ero, fui, erimus</li>
+      <li>DET: mea, meum, meo, nostri, nostra, meam, nostrum, meus, meis, mei</li>
+      <li>PRON: me, ego, mihi, nos, nobis, nostri, mei, nostros, nostris, mea</li>
+      <li>VERB-Fin: dico, velim, vidi, scio, scripsi, habeo, dixi, faciam, video, veni</li>
     </ul>
   </li>
 </ul>
@@ -688,9 +690,9 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
   <li>2
     <ul>
       <li>AUX-Fin: estis, es, sis, sitis, estote, esses, eritis, eris, esto, essetis</li>
-      <li>DET: tua, tuum, tuo, vestra, tuam, tuus, tuis, tui, tuae, vestrum</li>
-      <li>PRON: te, vobis, vos, tibi, tu, vestrum, tui, vestri</li>
-      <li>VERB-Fin: nolite, scribis, habes, vade, quaeris, scitis, habetis, videte, fac, noli</li>
+      <li>DET: tua, tuum, tuo, vestra, tuus, tuam, tuis, tuae, tui, vester</li>
+      <li>PRON: te, vobis, vos, tibi, tu, vestrum, tui, vestri, tua, tuis</li>
+      <li>VERB-Fin: nolite, scribis, habes, vade, quaeris, habetis, scitis, fac, videte, noli</li>
     </ul>
   </li>
 </ul>
@@ -701,7 +703,7 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
       <li>AUX-Fin: est, sunt, erat, sit, esset, erant, fuit, erit, sint, fuerit</li>
       <li>DET: suis, suam, sua, suum, suo, suos, suae, suas, sui, suorum</li>
       <li>PRON: eum, eius, se, ei, eos, eis, eorum, eo, id, ea</li>
-      <li>VERB-Fin: dixit, ait, dicit, venit, habet, dixerunt, misit, potest, fecit, respondit</li>
+      <li>VERB-Fin: dixit, ait, dicit, venit, habet, dixerunt, potest, misit, fecit, respondit</li>
     </ul>
   </li>
 </ul>
@@ -721,8 +723,8 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 </ul>
 
 <ul>
-<li>This corpus uses 4 lemmas as auxiliaries (<a>aux</a>). Examples: sum, nescio, ago, relinquo.</li>
-<li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: sum, eo.</li>
+<li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: sum, eo.</li>
+<li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: sum.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -731,52 +733,60 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (2)</li>
-      <li>VERB-Fin--NOUN-Abl (3)</li>
+      <li>VERB--NOUN (13)</li>
+      <li>VERB--NOUN-Nom (2)</li>
+      <li>VERB--PRON-Acc (2)</li>
+      <li>VERB--PRON-Nom (10)</li>
+      <li>VERB-Fin--NOUN (11)</li>
+      <li>VERB-Fin--NOUN-Abl (4)</li>
       <li>VERB-Fin--NOUN-Abl-ADP(ab) (1)</li>
       <li>VERB-Fin--NOUN-Abl-ADP(de) (1)</li>
       <li>VERB-Fin--NOUN-Abl-ADP(ex) (8)</li>
       <li>VERB-Fin--NOUN-Abl-ADP(in) (11)</li>
       <li>VERB-Fin--NOUN-Abl-ADP(sine) (1)</li>
-      <li>VERB-Fin--NOUN-Acc (3)</li>
+      <li>VERB-Fin--NOUN-Acc (2)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(secundum) (2)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(secus) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(super) (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(supra) (1)</li>
       <li>VERB-Fin--NOUN-Gen (5)</li>
-      <li>VERB-Fin--NOUN-Nom (3123)</li>
+      <li>VERB-Fin--NOUN-Nom (3140)</li>
       <li>VERB-Fin--PRON-Abl-ADP(cum) (2)</li>
-      <li>VERB-Fin--PRON-Acc (9)</li>
+      <li>VERB-Fin--PRON-Acc (12)</li>
       <li>VERB-Fin--PRON-Acc-ADP(circa) (1)</li>
-      <li>VERB-Fin--PRON-Gen (1)</li>
-      <li>VERB-Fin--PRON-Nom (3064)</li>
-      <li>VERB-Gdv--NOUN-Abl (56)</li>
-      <li>VERB-Gdv--NOUN-Acc (116)</li>
+      <li>VERB-Fin--PRON-Dat (1)</li>
+      <li>VERB-Fin--PRON-Gen (2)</li>
+      <li>VERB-Fin--PRON-Nom (4340)</li>
+      <li>VERB-Gdv--NOUN (1)</li>
+      <li>VERB-Gdv--NOUN-Abl (58)</li>
+      <li>VERB-Gdv--NOUN-Acc (118)</li>
       <li>VERB-Gdv--NOUN-Dat (5)</li>
-      <li>VERB-Gdv--NOUN-Gen (61)</li>
-      <li>VERB-Gdv--NOUN-Nom (125)</li>
-      <li>VERB-Gdv--PRON-Abl (3)</li>
-      <li>VERB-Gdv--PRON-Acc (18)</li>
-      <li>VERB-Gdv--PRON-Gen (8)</li>
-      <li>VERB-Gdv--PRON-Nom (32)</li>
+      <li>VERB-Gdv--NOUN-Gen (65)</li>
+      <li>VERB-Gdv--NOUN-Nom (141)</li>
+      <li>VERB-Gdv--PRON-Abl (7)</li>
+      <li>VERB-Gdv--PRON-Acc (37)</li>
+      <li>VERB-Gdv--PRON-Gen (11)</li>
+      <li>VERB-Gdv--PRON-Nom (62)</li>
       <li>VERB-Ger--NOUN-Acc (1)</li>
       <li>VERB-Ger--NOUN-Nom (1)</li>
-      <li>VERB-Ger--PRON-Acc (1)</li>
+      <li>VERB-Ger--PRON-Acc (2)</li>
       <li>VERB-Ger--PRON-Nom (1)</li>
+      <li>VERB-Inf--NOUN (2)</li>
       <li>VERB-Inf--NOUN-Abl-ADP(de) (1)</li>
-      <li>VERB-Inf--NOUN-Acc (220)</li>
+      <li>VERB-Inf--NOUN-Acc (222)</li>
       <li>VERB-Inf--NOUN-Gen (1)</li>
-      <li>VERB-Inf--NOUN-Nom (14)</li>
-      <li>VERB-Inf--PRON-Abl (1)</li>
-      <li>VERB-Inf--PRON-Acc (406)</li>
-      <li>VERB-Inf--PRON-Nom (7)</li>
-      <li>VERB-Part--NOUN-Abl (64)</li>
+      <li>VERB-Inf--NOUN-Nom (16)</li>
+      <li>VERB-Inf--PRON-Abl (2)</li>
+      <li>VERB-Inf--PRON-Acc (522)</li>
+      <li>VERB-Inf--PRON-Nom (17)</li>
+      <li>VERB-Part--NOUN (1)</li>
+      <li>VERB-Part--NOUN-Abl (65)</li>
       <li>VERB-Part--NOUN-Acc (17)</li>
-      <li>VERB-Part--NOUN-Nom (147)</li>
-      <li>VERB-Part--PRON-Abl (46)</li>
-      <li>VERB-Part--PRON-Acc (113)</li>
+      <li>VERB-Part--NOUN-Nom (148)</li>
+      <li>VERB-Part--PRON-Abl (107)</li>
+      <li>VERB-Part--PRON-Acc (131)</li>
       <li>VERB-Part--PRON-Dat (1)</li>
-      <li>VERB-Part--PRON-Nom (154)</li>
+      <li>VERB-Part--PRON-Nom (190)</li>
+      <li>VERB-Sup--NOUN-Acc (1)</li>
+      <li>VERB-Sup--PRON-Acc (8)</li>
     </ul>
   </li>
 </ul>
@@ -784,44 +794,51 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (16)</li>
+      <li>VERB--NOUN (12)</li>
+      <li>VERB--PRON-Acc (3)</li>
+      <li>VERB-Fin--NOUN (47)</li>
       <li>VERB-Fin--NOUN-Abl (2)</li>
       <li>VERB-Fin--NOUN-Abl-ADP(de) (18)</li>
       <li>VERB-Fin--NOUN-Abl-ADP(ex) (4)</li>
-      <li>VERB-Fin--NOUN-Acc (4771)</li>
+      <li>VERB-Fin--NOUN-Acc (4860)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(ad) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(secundum) (1)</li>
-      <li>VERB-Fin--NOUN-Gen (15)</li>
+      <li>VERB-Fin--NOUN-Gen (16)</li>
       <li>VERB-Fin--NOUN-Nom (8)</li>
       <li>VERB-Fin--PRON-Abl (3)</li>
-      <li>VERB-Fin--PRON-Abl-ADP(de) (2)</li>
-      <li>VERB-Fin--PRON-Abl-ADP(ex) (2)</li>
-      <li>VERB-Fin--PRON-Acc (3314)</li>
+      <li>VERB-Fin--PRON-Abl-ADP(de) (4)</li>
+      <li>VERB-Fin--PRON-Abl-ADP(ex) (3)</li>
+      <li>VERB-Fin--PRON-Acc (4570)</li>
       <li>VERB-Fin--PRON-Acc-ADP(circa) (3)</li>
       <li>VERB-Fin--PRON-Acc-ADP(post) (1)</li>
       <li>VERB-Fin--PRON-Gen (3)</li>
-      <li>VERB-Fin--PRON-Nom (10)</li>
-      <li>VERB-Gdv--NOUN-Abl (1)</li>
+      <li>VERB-Fin--PRON-Nom (20)</li>
+      <li>VERB-Gdv--NOUN-Abl (4)</li>
       <li>VERB-Gdv--NOUN-Acc (5)</li>
       <li>VERB-Gdv--PRON-Abl-ADP(de) (1)</li>
-      <li>VERB-Gdv--PRON-Acc (1)</li>
+      <li>VERB-Gdv--PRON-Acc (2)</li>
       <li>VERB-Ger--NOUN-Acc (12)</li>
-      <li>VERB-Ger--PRON-Acc (8)</li>
-      <li>VERB-Inf--NOUN (3)</li>
+      <li>VERB-Ger--PRON-Acc (11)</li>
+      <li>VERB-Inf--NOUN (8)</li>
       <li>VERB-Inf--NOUN-Abl-ADP(de) (3)</li>
-      <li>VERB-Inf--NOUN-Acc (819)</li>
+      <li>VERB-Inf--NOUN-Acc (850)</li>
       <li>VERB-Inf--NOUN-Dat (1)</li>
       <li>VERB-Inf--NOUN-Gen (4)</li>
-      <li>VERB-Inf--NOUN-Nom (1)</li>
-      <li>VERB-Inf--PRON-Acc (350)</li>
-      <li>VERB-Inf--PRON-Nom (1)</li>
+      <li>VERB-Inf--NOUN-Nom (2)</li>
+      <li>VERB-Inf--PRON-Acc (570)</li>
+      <li>VERB-Inf--PRON-Nom (3)</li>
+      <li>VERB-Part--NOUN (3)</li>
+      <li>VERB-Part--NOUN-Abl (1)</li>
       <li>VERB-Part--NOUN-Abl-ADP(ex) (1)</li>
-      <li>VERB-Part--NOUN-Acc (704)</li>
-      <li>VERB-Part--NOUN-Nom (1)</li>
+      <li>VERB-Part--NOUN-Acc (715)</li>
+      <li>VERB-Part--NOUN-Nom (2)</li>
       <li>VERB-Part--PRON-Abl-ADP(de) (1)</li>
       <li>VERB-Part--PRON-Abl-ADP(ex) (1)</li>
-      <li>VERB-Part--PRON-Acc (280)</li>
+      <li>VERB-Part--PRON-Acc (418)</li>
+      <li>VERB-Part--PRON-Acc-ADP(apud) (1)</li>
+      <li>VERB-Part--PRON-Nom (1)</li>
       <li>VERB-Sup--NOUN-Acc (2)</li>
+      <li>VERB-Sup--PRON-Acc (1)</li>
     </ul>
   </li>
 </ul>
@@ -829,37 +846,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--NOUN-Abl (212)</li>
-      <li>VERB-Fin--NOUN-Acc (24)</li>
-      <li>VERB-Fin--NOUN-Dat (677)</li>
-      <li>VERB-Fin--NOUN-Gen (17)</li>
-      <li>VERB-Fin--PRON-Abl (24)</li>
-      <li>VERB-Fin--PRON-Acc (5)</li>
-      <li>VERB-Fin--PRON-Dat (1708)</li>
-      <li>VERB-Fin--PRON-Gen (16)</li>
-      <li>VERB-Gdv--NOUN-Abl (4)</li>
-      <li>VERB-Gdv--NOUN-Dat (14)</li>
-      <li>VERB-Gdv--NOUN-Nom (1)</li>
-      <li>VERB-Gdv--PRON-Dat (12)</li>
-      <li>VERB-Ger--NOUN-Abl (1)</li>
-      <li>VERB-Ger--NOUN-Dat (3)</li>
-      <li>VERB-Ger--PRON-Dat (1)</li>
-      <li>VERB-Inf--NOUN-Abl (65)</li>
-      <li>VERB-Inf--NOUN-Acc (7)</li>
-      <li>VERB-Inf--NOUN-Dat (149)</li>
-      <li>VERB-Inf--NOUN-Gen (8)</li>
-      <li>VERB-Inf--PRON-Abl (7)</li>
-      <li>VERB-Inf--PRON-Acc (1)</li>
-      <li>VERB-Inf--PRON-Dat (152)</li>
-      <li>VERB-Inf--PRON-Gen (2)</li>
-      <li>VERB-Part--NOUN-Abl (101)</li>
-      <li>VERB-Part--NOUN-Acc (12)</li>
-      <li>VERB-Part--NOUN-Dat (163)</li>
-      <li>VERB-Part--NOUN-Gen (13)</li>
-      <li>VERB-Part--PRON-Abl (4)</li>
-      <li>VERB-Part--PRON-Dat (248)</li>
-      <li>VERB-Part--PRON-Gen (4)</li>
-      <li>VERB-Sup--PRON-Dat (1)</li>
     </ul>
   </li>
 </ul>
@@ -869,16 +855,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 269 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: recipio se, habeo se, dedo se, facio se, dico sibi, do sibi, sequor se, trado se, defendo se, do se, humilio se, licet sibi, sum sibi, calefacio se, confero se, coniungo se, contineo sese, dico se, facio sibi, inclino se, abdo se, abscondo se, abstineo se, commendo se, confero sua, coniungo sese, converto se, exalto se, gero se, iacto se, interficio se, mitto se, offero se, persuadeo sibi, placeo sibi, abnego se, accommodo se, adiungo sibi, aggrego se, alo se, ascisco sibi, asto sibi, cohortor suos, committo se, comparo sibi, confirmo sese, conicio se, conscisco sibi, contineo se, credo se</li>
+  <li>This corpus contains 174 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: recipio se, habeo se, dedo se, facio se, confero se, sequor se, trado se, defendo se, do se, humilio se, calefacio se, coniungo se, contineo sese, dico se, gero se, inclino se, abdo se, abscondo se, abstineo se, commendo se, confero sua, coniungo sese, converto se, exalto se, iacto se, interficio se, mitto se, offero se, praebeo se, abnego se, accommodo se, aggrego se, alo se, cohortor suos, committo se, confirmo sese, conicio se, contineo se, credo se, diligo se, erigo se, eripio se, incito se, mando sese, occulto se, paro se, permitto se, peto se, plango se, praecingo se</li>
     <ul>
-      <li>Out of those, 4 lemmas occurred more than once, but never without a reflexive dependent. Examples: calefacio, aggrego, ascisco, conscisco</li>
+      <li>Out of those, 2 lemmas occurred more than once, but never without a reflexive dependent. Examples: calefacio, aggrego</li>
     </ul>
 </ul>
 
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 6 relation subtypes: <a>aux:pass</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
-<li>The following 2 main types are not used alone, they are always subtyped: <a>csubj</a>, <a>flat</a></li>
-<li>The following 7 relation types are not used in this corpus at all: <a>expl</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>punct</a></li>
+<li>This corpus uses 9 relation subtypes: <a>advcl:cmp</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:arg</a></li>
+<li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
+<li>The following 8 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>punct</a></li>
 </ul>

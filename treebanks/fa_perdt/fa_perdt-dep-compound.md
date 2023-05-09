@@ -28,10 +28,10 @@ The following 2 pairs of parts of speech are connected with `compound`: <tt><a h
 3	جلسه	جلسه	NOUN	N_IANM	Number=Sing	9	obl	_	_
 4	که	که	SCONJ	SUBR	_	6	mark	_	_
 5	مرتب	مرتب	ADV	ADV_SADV	_	6	advmod	_	_
-6	بیایی	آمد#آ	VERB	V_ACT	Number=Sing|Person=2|Voice=Act	3	acl	_	_
+6	بیایی	آمد	VERB	V_ACT	Number=Sing|Person=2|Voice=Act	3	acl	_	OrigLemma=آمد#آ
 7	کاملاً	کاملاً	ADV	ADV_SADV	_	9	advmod	_	_
 8	حرفه‌ای	حرفه‌ای	ADJ	ADJ_AJP	_	9	xcomp	_	_
-9	می‌شوی	شد#شو	VERB	V_ACT	Number=Sing|Person=2|Tense=Pres|Voice=Act	0	root	_	SpaceAfter=No
+9	می‌شوی	شد	VERB	V_ACT	Number=Sing|Person=2|Tense=Pres|Voice=Act	0	root	_	OrigLemma=شد#شو|SpaceAfter=No
 10	.	.	PUNCT	PUNC	_	9	punct	_	_
 
 ~~~
@@ -50,7 +50,7 @@ The following 2 pairs of parts of speech are connected with `compound`: <tt><a h
 5	دو	دو	NUM	PRENUM	_	6	nummod	_	_
 6	بار	بار	NOUN	N_IANM	Number=Sing	8	obl	_	_
 7	سوراخ	سوراخ	NOUN	N_IANM	Number=Sing	8	xcomp	_	_
-8	کنید	کرد#کن	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	_
+8	کنید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	OrigLemma=کرد#کن
 9	تا	تا	SCONJ	SUBR	_	17	mark	_	_
 10	از	از	ADP	PREP	_	12	case	_	_
 11	هر	هر	DET	PREM_AMBAJ	_	12	nmod	_	_
@@ -59,7 +59,7 @@ The following 2 pairs of parts of speech are connected with `compound`: <tt><a h
 14	قطره	قطره	NOUN	N_IANM	Number=Sing	17	nsubj	_	_
 15	خون	خون	NOUN	N_IANM	Number=Sing	14	nmod	_	_
 16	خارج	خارج	ADJ	ADJ_AJP	_	17	xcomp	_	_
-17	شود	شد#شو	VERB	V_ACT	Number=Sing|Person=3|Voice=Act	8	advcl	_	SpaceAfter=No
+17	شود	شد	VERB	V_ACT	Number=Sing|Person=3|Voice=Act	8	advcl	_	OrigLemma=شد#شو|SpaceAfter=No
 18	.	.	PUNCT	PUNC	_	8	punct	_	_
 
 ~~~

@@ -24,9 +24,9 @@ The following 1 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 5 1 vocative	color:blue
 1	Mama	Mama	NOUN	n	_	5	vocative	_	_
 2	,	,	PUNCT	punct	_	5	punct	_	_
-3	orohotar	ho	VERB	v	Clusivity=Ex|Person=1|Tense=Fut	5	dep	_	_
+3	orohotar	ho	VERB	v	Clusivity=Ex|Number=Sing|Person=1|Tense=Fut	5	dep	_	_
 4	baipuri	baipuri	NOUN	n	_	5	obj	_	_
-5	orozopodʒ	zopodʒ	VERB	v	Clusivity=Ex|Person=1	0	root	_	_
+5	orozopodʒ	zopodʒ	VERB	v	Clusivity=Ex|Number=Sing|Person=1	0	root	_	_
 
 ~~~
 

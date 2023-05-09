@@ -51,7 +51,7 @@ The following 32 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 21	bgColor:blue
 # visual-style 21	fgColor:white
 # visual-style 21 18 obj	color:blue
-1	_	_	NUM	_	_	26	dep	_	BBIL=B|BPT=4|SpaceAfter=Yes|UI=150
+1	_	_	NUM	_	_	26	dep	_	BBIL=B|BPT=4|UI=150
 2	_	_	NOUN	_	_	4	nmod	_	BBIL=B|BPT=0|SpaceAfter=No|UI=12569
 3	_	_	ADP	_	_	2	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=0
 4	_	_	NOUN	_	_	26	obj	_	BBIL=B|BPT=0|SpaceAfter=No|UI=1448

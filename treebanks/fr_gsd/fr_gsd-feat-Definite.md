@@ -11,7 +11,7 @@ It occurs with 2 different values: `Def`, `Ind`.
 
 53496 tokens (13%) have a non-empty value of `Definite`.
 29 types (0%) occur at least once with a non-empty value of `Definite`.
-7 lemmas (0%) occur at least once with a non-empty value of `Definite`.
+5 lemmas (0%) occur at least once with a non-empty value of `Definite`.
 The feature is used with 1 part-of-speech tags: <tt><a href="fr_gsd-pos-DET.html">DET</a></tt> (53496; 13% instances).
 
 ### `DET`
@@ -22,9 +22,9 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 
 `DET` tokens may have the following values of `Definite`:
 
-* `Def` (43344; 81% of non-empty `Definite`): <em>le, la, les, l', l, ladite, là</em>
-* `Ind` (10152; 19% of non-empty `Definite`): <em>un, une, des, de, d', du, telle, in</em>
-* `EMPTY` (7640): <em>son, sa, cette, ses, ce, leur, ces, plusieurs, leurs, cet</em>
+* `Def` (43346; 81% of non-empty `Definite`): <em>le, la, les, l', l, ladite, là</em>
+* `Ind` (10150; 19% of non-empty `Definite`): <em>un, une, des, de, d', du, telle, in</em>
+* `EMPTY` (7637): <em>son, sa, cette, ses, ce, leur, ces, plusieurs, leurs, cet</em>
 
 ## Relations with Agreement in `Definite`
 

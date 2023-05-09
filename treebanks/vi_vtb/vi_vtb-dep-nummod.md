@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Vietnamese-VTB: Relations: `nummod`
 
 This relation is universal.
+There are 1 language-specific subtypes of `nummod`: <tt><a href="vi_vtb-dep-nummod-det.html">nummod:det</a></tt>.
 
-1094 nodes (2%) are attached to their parents as `nummod`.
+1407 nodes (2%) are attached to their parents as `nummod`.
 
-943 instances of `nummod` (86%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.18921389396709.
+1279 instances of `nummod` (91%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.181947405828.
 
-The following 9 pairs of parts of speech are connected with `nummod`: <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> (1053; 96% instances), <tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt>-<tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> (12; 1% instances), <tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> (8; 1% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> (6; 1% instances), <tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt>-<tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="vi_vtb-pos-DET.html">DET</a></tt>-<tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `nummod`: <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> (1369; 97% instances), <tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt>-<tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> (8; 1% instances), <tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> (8; 1% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt>-<tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="vi_vtb-pos-DET.html">DET</a></tt>-<tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="vi_vtb-pos-ADP.html">ADP</a></tt>-<tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,19 +23,16 @@ The following 9 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 nummod	color:blue
-1	Mục đích	mục đích	NOUN	N	_	5	nsubj	_	_
-2	của	của	ADP	Pre	_	4	case	_	_
-3	hai	hai	NUM	Num	_	4	nummod	_	_
-4	bà	bà	NOUN	N	_	1	nmod:poss	_	_
-5	là	là	AUX	V	_	0	root	_	_
-6	ông	ông	NOUN	Nc	_	7	clf:det	_	_
-7	Chương	Chương	PROPN	NNP	_	8	nsubj	_	_
-8	chán	chán	VERB	V	_	5	ccomp	_	_
-9	Hà Nội	Hà Nội	PROPN	NNP	_	8	obj	_	_
-10	,	,	PUNCT	,	_	11	punct	_	_
-11	xin	xin	VERB	V	_	8	conj	_	_
-12	về	về	VERB	V	_	11	compound:svc	_	_
-13	.	.	PUNCT	.	_	5	punct	_	_
+1	Ngồi	ngồi	VERB	V	_	6	advcl	_	_
+2	được	được	ADV	Adv	_	1	advmod	_	_
+3	một	một	NUM	NUM	_	4	nummod	_	_
+4	lúc	lúc	NOUN	N	_	1	obl:tmod	_	_
+5	thì	thì	SCONJ	C	_	6	mark	_	_
+6	có	có	VERB	V	_	0	root	_	_
+7	mấy	mấy	DET	DET	_	8	det	_	_
+8	thanh niên	thanh niên	NOUN	N	_	6	obj	_	_
+9	tới	tới	VERB	V	_	8	acl:subj	_	_
+10	.	.	PUNCT	PUNCT	_	6	punct	_	_
 
 ~~~
 

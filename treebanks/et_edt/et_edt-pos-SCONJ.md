@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>et</em> (<tt><a href="et_edt-pos-SCON
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 0.923077 (the average of all parts of speech is 1.914326).
+The form / lemma ratio of `SCONJ` is 0.923077 (the average of all parts of speech is 1.914345).
 
 The 1st highest number of forms (1) was observed with the lemma “ehkki”: <em>ehkki</em>.
 
@@ -68,7 +68,7 @@ The 3rd highest number of forms (1) was observed with the lemma “just-kui”: 
 
 `SCONJ` nodes are attached to their parents using 4 different relations: <tt><a href="et_edt-dep-mark.html">mark</a></tt> (8440; 97% instances), <tt><a href="et_edt-dep-fixed.html">fixed</a></tt> (280; 3% instances), <tt><a href="et_edt-dep-advcl.html">advcl</a></tt> (5; 0% instances), <tt><a href="et_edt-dep-conj.html">conj</a></tt> (2; 0% instances)
 
-Parents of `SCONJ` nodes belong to 12 different parts of speech: <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (5565; 64% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (1552; 18% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (728; 8% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (513; 6% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (193; 2% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (144; 2% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (16; 0% instances), <tt><a href="et_edt-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (5; 0% instances), <tt><a href="et_edt-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 12 different parts of speech: <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (5565; 64% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (1554; 18% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (728; 8% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (513; 6% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (192; 2% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (144; 2% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (16; 0% instances), <tt><a href="et_edt-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (4; 0% instances), <tt><a href="et_edt-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (1; 0% instances)
 
 8714 (100%) `SCONJ` nodes are leaves.
 

@@ -10,7 +10,7 @@ This feature is universal.
 It occurs with 2 different values: `Fut`, `Pres`.
 
 3948 tokens (13%) have a non-empty value of `Tense`.
-707 types (12%) occur at least once with a non-empty value of `Tense`.
+706 types (12%) occur at least once with a non-empty value of `Tense`.
 435 lemmas (11%) occur at least once with a non-empty value of `Tense`.
 The feature is used with 2 part-of-speech tags: <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (2290; 8% instances), <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (1658; 6% instances).
 

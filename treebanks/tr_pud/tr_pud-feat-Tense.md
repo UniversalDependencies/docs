@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Fut`, `Past`, `Pqp`, `Pres`.
 
-1928 tokens (11%) have a non-empty value of `Tense`.
-1219 types (17%) occur at least once with a non-empty value of `Tense`.
+1929 tokens (11%) have a non-empty value of `Tense`.
+1221 types (17%) occur at least once with a non-empty value of `Tense`.
 558 lemmas (13%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> (1650; 10% instances), <tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> (278; 2% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> (1651; 10% instances), <tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> (278; 2% instances).
 
 ### `VERB`
 
-1650 <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> tokens (97% of all `VERB` tokens) have a non-empty value of `Tense`.
+1651 <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> tokens (97% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="tr_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1446; 88%), <tt><a href="tr_pud-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (1445; 88%), <tt><a href="tr_pud-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (1445; 88%), <tt><a href="tr_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1302; 79%), <tt><a href="tr_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1291; 78%), <tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (1253; 76%), <tt><a href="tr_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1240; 75%), <tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1124; 68%), <tt><a href="tr_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1113; 67%), <tt><a href="tr_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1021; 62%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="tr_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1447; 88%), <tt><a href="tr_pud-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (1446; 88%), <tt><a href="tr_pud-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (1446; 88%), <tt><a href="tr_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1303; 79%), <tt><a href="tr_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1292; 78%), <tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (1253; 76%), <tt><a href="tr_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1240; 75%), <tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1123; 68%), <tt><a href="tr_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1113; 67%), <tt><a href="tr_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1021; 62%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Fut` (145; 9% of non-empty `Tense`): <em>etmek, yapmak, izlemek, görmek, oluşturmak, alacak, almak, dönmek, edecek, getirecektir</em>
 * `Past` (671; 41% of non-empty `Tense`): <em>dedi, etti, başladı, söyledi, çıktı, edildi, verdi, geldi, aldı, edilmiştir</em>
 * `Pqp` (32; 2% of non-empty `Tense`): <em>demişti, etmişti, girmişti, kalmıştı, kullanılmıştı, unutulmuştu, vermişti, açmıştı, başlamıştı, belirtmişti</em>
-* `Pres` (802; 49% of non-empty `Tense`): <em>ediyor, büyüme, değil, inanılmaz, savunma, söylüyor, edilmesi, geliyor, gerekiyor, görünüyor</em>
+* `Pres` (803; 49% of non-empty `Tense`): <em>ediyor, büyüme, değil, inanılmaz, savunma, söylüyor, edilmesi, geliyor, gerekiyor, görünüyor</em>
 * `EMPTY` (43): <em>alan, göre, ise, vurgular, alacaklar, aldığına, at, azaltılmasında, belirlenmiş, bilinen</em>
 
 <table>

@@ -64,8 +64,8 @@ The 3rd highest number of forms (8) was observed with the lemma “город”
 `NOUN` occurs with 15 feature-value pairs: `Abbr=Yes`, `Animacy=Anim`, `Animacy=Inan`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Foreign=Yes`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`
 
 `NOUN` occurs with 77 feature combinations.
-The most frequent feature combination is `Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing` (388 tokens).
-Examples: <em>войны, компании, жизни, партии, страны, власти, полиции, среды, стороны, воды</em>
+The most frequent feature combination is `Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing` (388 tokens).
+Examples: <em>года, века, города, октября, миллиона, мира, договора, полония, труда, апреля</em>
 
 
 ## Relations

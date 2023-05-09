@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Fabio Tamburini, Maria Simi, Cristina Bosco.
 
 Repository: [UD_Italian-VIT](https://github.com/UniversalDependencies/UD_Italian-VIT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_vit211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_vit212)<br />
+Download all treebanks: [UD 2.12](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -102,11 +102,11 @@ September 2017, 248-254.
 
 
 <ul>
-<li>This corpus contains 10087 sentences, 259108 tokens and 279628 syntactic words.</li>
+<li>This corpus contains 10087 sentences, 259625 tokens and 280145 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 36617 tokens (14%) that are not followed by a space.</li>
+<li>This corpus contains 37134 tokens (14%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -114,7 +114,7 @@ September 2017, 248-254.
 </ul>
 
 <ul>
-<li>This corpus contains 93 types of words that contain both letters and punctuation. Examples: l', d', n., un', art., c', quest', s', all', vent', L., anch', quell', trent', tutt', com', /ter, c-c, n', cos', dell', g-1, quarant', 14/a, baby-sitter, centro-sinistra, dev', g/1, joint-venture, po', senz', 1990-EQU-100, Banfield-tripcovich, Bèghin-say, Lehnigk-emden, Sant', bloc-notes, h-1, mezz', nient', null', qual', sessant', 's, /bis, 108/a, 12-mo, 38-ma, 5/h9/051, 500-EQU-250</li>
+<li>This corpus contains 93 types of words that contain both letters and punctuation. Examples: l', d', n., un', art., c', quest', s', all', vent', L., anch', quell', trent', tutt', com', /ter, c-c, n', cos', dell', g-1, quarant', 14/a, baby-sitter, centro-sinistra, dev', g/1, joint-venture, po', senz', 1990-EQU-100, Banfield-Tripcovich, Bèghin-Say, Lehnigk-Emden, Sant', bloc-notes, h-1, mezz', nient', null', qual', sessant', 's, /bis, 108/a, 12-mo, 38-ma, 5/h9/051, 500-EQU-250</li>
 </ul>
 
 <ul>
@@ -135,15 +135,15 @@ September 2017, 248-254.
 </ul>
 
 <ul>
-<li>This corpus contains 100 lemmas tagged as pronouns (PRON): Carlo, adattare, alcuno, altri, altro, ambedue, ce, certo, ch, che, chi, chiunque, ci, ciascuno, ciò, coloro, come, cosa, costoro, costui, cui, donde, dove, egli, entrambi, essa, esse, essi, esso, gli, granché, il, io, la, laddove, le, lei, li, lo, loro, lui, me, medesimo, meglio, meno, mi, mio, molto, ne, nessuno, niente, noi, nostro, nulla, ogni, ognuna, ognuno, ove, parecchio, parte, perché, più, poco, proprio, pò, qual, qualche, qualcosa, qualcuno, quale, qualunque, quando, quanto, quello, questo, s, se, si, stessi, stesso, suo, sé, tale, tanto, te, ti, troppo, tu, tuo, tutta, tutto, ultima, ultimi, ultimo, un, una, unico, uno, vi, voi</li>
+<li>This corpus contains 99 lemmas tagged as pronouns (PRON): Carlo, adattare, alcuno, altri, altro, ambedue, ce, certo, ch, che, chi, chiunque, ci, ciascuno, ciò, coloro, come, cosa, costoro, costui, cui, donde, dove, egli, entrambi, essa, esse, essi, esso, gli, granché, il, io, la, laddove, le, lei, li, lo, loro, lui, me, medesimo, meglio, meno, mi, mio, molto, ne, nessuno, niente, noi, nostro, nulla, ogni, ognuna, ognuno, ove, parecchio, parte, perché, più, poco, proprio, pò, qual, qualche, qualcosa, qualcuno, quale, qualunque, quando, quanto, quello, questo, s, se, si, stessi, stesso, suo, sé, tale, tanto, te, ti, troppo, tu, tuo, tutta, tutto, ultima, ultimi, ultimo, una, unico, uno, vi, voi</li>
 </ul>
 
 <ul>
-<li>This corpus contains 51 lemmas tagged as determiners (DET): alcuno, altrettanto, altro, ambedue, certo, che, ciascuno, codesto, cui, del, delle, determinato, diverso, entrambi, il, l, la, loro, mio, molto, nessuna, nessuno, niente, nostro, nulla, ogni, parecchio, più, poco, proprio, qualche, quale, qualsiasi, qualunque, quanta, quanto, quello, questo, sua, suo, tale, taluno, tanto, the, troppo, tuo, tutta, tutto, un, uno, vostro</li>
+<li>This corpus contains 50 lemmas tagged as determiners (DET): alcuno, altrettanto, altro, ambedue, certo, che, ciascuno, codesto, cui, del, delle, determinato, diverso, entrambi, il, l, la, loro, mio, molto, nessuna, nessuno, niente, nostro, nulla, ogni, parecchio, più, poco, proprio, qualche, quale, qualsiasi, qualunque, quanta, quanto, quello, questo, sua, suo, tale, taluno, tanto, the, troppo, tuo, tutta, tutto, uno, vostro</li>
 </ul>
 
 <ul>
-<li>Out of the above, 37 lemmas occurred sometimes as PRON and sometimes as DET: alcuno, altro, ambedue, certo, che, ciascuno, cui, entrambi, il, la, loro, mio, molto, nessuno, niente, nostro, nulla, ogni, parecchio, più, poco, proprio, qualche, quale, qualunque, quanto, quello, questo, suo, tale, tanto, troppo, tuo, tutta, tutto, un, uno</li>
+<li>Out of the above, 36 lemmas occurred sometimes as PRON and sometimes as DET: alcuno, altro, ambedue, certo, che, ciascuno, cui, entrambi, il, la, loro, mio, molto, nessuno, niente, nostro, nulla, ogni, parecchio, più, poco, proprio, qualche, quale, qualunque, quanto, quello, questo, suo, tale, tanto, troppo, tuo, tutta, tutto, uno</li>
 </ul>
 
 <ul>
@@ -584,7 +584,7 @@ September 2017, 248-254.
     <ul>
       <li>ADJ: prima</li>
       <li>NOUN: 6</li>
-      <li>NUM: due, tre, cento, 15, 1, 1973, 2, quattro, 30, 6</li>
+      <li>NUM: due, tre, cento, 15, 1, 5, 1973, 2, 20, 30</li>
     </ul>
   </li>
 </ul>
@@ -600,7 +600,7 @@ September 2017, 248-254.
 <ul>
   <li>Range
     <ul>
-      <li>NUM: 1975/1983, 1984/85, 1981/83, 24/25, 0,7-0,8%, 1964/73, 1964/74, 1974/83, 1975/84, 1983/84</li>
+      <li>NUM: 1975/1983, 1984/85, 1981/83, 24/25, 0,7-0,8, 1964/73, 1964/74, 1974/83, 1975/84, 1983/84</li>
     </ul>
   </li>
 </ul>
@@ -714,14 +714,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN (4)</li>
       <li>VERB--PRON (5)</li>
-      <li>VERB-Fin--NOUN (2811)</li>
-      <li>VERB-Fin--PRON (1670)</li>
+      <li>VERB-Fin--NOUN (2810)</li>
+      <li>VERB-Fin--PRON (1671)</li>
       <li>VERB-Ger--NOUN (42)</li>
-      <li>VERB-Ger--PRON (31)</li>
+      <li>VERB-Ger--PRON (32)</li>
       <li>VERB-Inf--NOUN (407)</li>
       <li>VERB-Inf--PRON (179)</li>
-      <li>VERB-Part--NOUN (1237)</li>
-      <li>VERB-Part--PRON (535)</li>
+      <li>VERB-Part--NOUN (1238)</li>
+      <li>VERB-Part--PRON (536)</li>
     </ul>
   </li>
 </ul>
@@ -729,16 +729,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (90)</li>
+      <li>VERB--NOUN (91)</li>
       <li>VERB--PRON (5)</li>
-      <li>VERB-Fin--NOUN (2225)</li>
-      <li>VERB-Fin--PRON (551)</li>
-      <li>VERB-Ger--NOUN (369)</li>
+      <li>VERB-Fin--NOUN (2229)</li>
+      <li>VERB-Fin--PRON (553)</li>
+      <li>VERB-Ger--NOUN (370)</li>
       <li>VERB-Ger--PRON (44)</li>
-      <li>VERB-Inf--NOUN (2210)</li>
-      <li>VERB-Inf--PRON (263)</li>
-      <li>VERB-Part--NOUN (1255)</li>
-      <li>VERB-Part--PRON (340)</li>
+      <li>VERB-Inf--NOUN (2213)</li>
+      <li>VERB-Inf--PRON (264)</li>
+      <li>VERB-Part--NOUN (1261)</li>
+      <li>VERB-Part--PRON (339)</li>
     </ul>
   </li>
 </ul>
@@ -747,7 +747,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>iobj</a>
     <ul>
       <li>VERB--PRON (2)</li>
-      <li>VERB-Fin--PRON (197)</li>
+      <li>VERB-Fin--PRON (199)</li>
       <li>VERB-Ger--PRON (21)</li>
       <li>VERB-Inf--NOUN (1)</li>
       <li>VERB-Inf--PRON (84)</li>

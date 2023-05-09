@@ -13,21 +13,21 @@ This relation is universal.
 9 instances of `xcomp` (90%) are left-to-right (parent precedes child).
 Average distance between parent and child is 2.5.
 
-The following 7 pairs of parts of speech are connected with `xcomp`: <tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt>-<tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt> (3; 30% instances), <tt><a href="swl_sslc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="swl_sslc-pos-NOUN.html">NOUN</a></tt> (2; 20% instances), <tt><a href="swl_sslc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt> (1; 10% instances), <tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt>-<tt><a href="swl_sslc-pos-ADV.html">ADV</a></tt> (1; 10% instances), <tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt>-<tt><a href="swl_sslc-pos-NOUN.html">NOUN</a></tt> (1; 10% instances), <tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt>-<tt><a href="swl_sslc-pos-PRON.html">PRON</a></tt> (1; 10% instances), <tt><a href="swl_sslc-pos-X.html">X</a></tt>-<tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt> (1; 10% instances).
+The following 6 pairs of parts of speech are connected with `xcomp`: <tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt>-<tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt> (4; 40% instances), <tt><a href="swl_sslc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="swl_sslc-pos-NOUN.html">NOUN</a></tt> (2; 20% instances), <tt><a href="swl_sslc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt> (1; 10% instances), <tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt>-<tt><a href="swl_sslc-pos-ADV.html">ADV</a></tt> (1; 10% instances), <tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt>-<tt><a href="swl_sslc-pos-NOUN.html">NOUN</a></tt> (1; 10% instances), <tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt>-<tt><a href="swl_sslc-pos-PRON.html">PRON</a></tt> (1; 10% instances).
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 5 xcomp	color:blue
-1	DÅ@b	_	ADV	AB	_	3	advmod	_	_
-2	PRO1	_	PRON	PN	_	3	nsubj	_	_
-3	BESTÄMMA-SIG	_	VERB	VB	_	0	root	_	_
-4	PRO1	_	PRON	PN	_	2	conj	_	_
-5	PLUGGA	_	VERB	VB	_	3	xcomp	_	_
-6	TECKENSPRÅK	_	NOUN	NN	_	5	obj	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 xcomp	color:blue
+1	SAMTALA	_	VERB	VB	_	2	xcomp	_	_
+2	TA	_	VERB	VB	_	0	root	_	_
+3	TOLK@rd	_	NOUN	NN	_	2	obj	_	_
+4	FÄRDIG	_	ADJ	JJ	_	5	advmod	_	_
+5	FÖLJA	_	VERB	VB	_	2	compound:svc	_	_
+6	HAND(Q)+HANTERA@p	_	VERB	VBAV	_	2	compound:svc	_	_
 
 ~~~
 
@@ -38,11 +38,11 @@ The following 7 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 13 xcomp	color:blue
-1	EN	_	NUM	RG	_	2	det	_	_
+1	EN	_	DET	DT	_	2	det	_	_
 2	DÖV	_	NOUN	NN	_	3	nsubj	_	_
 3	SÅG	_	VERB	VB	_	0	root	_	_
 4	PEK	_	PRON	PEK	_	3	obj	_	_
-5	PRO1	_	PRON	PN	_	3	nsubj	_	_
+5	PRO1	_	PRON	PN	_	6	nsubj	_	_
 6	HA	_	VERB	VB	_	3	ccomp	_	_
 7	HÅL@b	_	NOUN	NN	_	6	obj	_	_
 8	HÅL>öra	_	NOUN	NNKL	_	7	clf	_	_
@@ -63,7 +63,7 @@ The following 7 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 4 14 xcomp	color:blue
 1	PRO1	_	PRON	PN	_	2	nsubj	_	_
 2	VISUALISERA	_	VERB	VB	_	0	root	_	_
-3	EN	_	NUM	RG	_	4	det	_	_
+3	EN	_	DET	DT	_	4	det	_	_
 4	FILM	_	NOUN	NN	_	2	obj	_	_
 5	KORTVARIG(J)	_	ADJ	JJ	_	4	amod	_	_
 6	FILM	_	NOUN	NN	_	4	conj	_	_

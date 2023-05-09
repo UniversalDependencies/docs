@@ -34,7 +34,7 @@ The following 10 pairs of parts of speech are connected with `dislocated`: <tt><
 10	.	.	PUNCT	FS	_	8	punct	_	_
 11	[	[	PUNCT	FB	_	12	punct	_	SpaceAfter=No
 12	@user	@user	SYM	SYM	_	1	vocative:mention	_	SpaceAfter=No
-13	]	]	PUNCT	FB	_	12	punct	_	SpaceAfter=\n
+13	]	]	PUNCT	FB	_	12	punct	_	SpacesAfter=\n
 
 ~~~
 
@@ -62,7 +62,7 @@ The following 10 pairs of parts of speech are connected with `dislocated`: <tt><
 15	l'	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	dislocated	_	SpaceAfter=No
 16	apprezzano	apprezzare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	ccomp	_	_
 17	#labuonascuola	#labuonascuola	SYM	SYM	_	16	obj	_	SpaceAfter=No
-18	.	.	PUNCT	FS	_	13	punct	_	SpaceAfter=\n
+18	.	.	PUNCT	FS	_	13	punct	_	SpacesAfter=\n
 
 ~~~
 
@@ -93,7 +93,7 @@ The following 10 pairs of parts of speech are connected with `dislocated`: <tt><
 18	.	.	PUNCT	FS	_	14	punct	_	_
 19	[	[	PUNCT	FB	_	20	punct	_	SpaceAfter=No
 20	@user	@user	SYM	SYM	_	3	vocative:mention	_	SpaceAfter=No
-21	]	]	PUNCT	FB	_	20	punct	_	SpaceAfter=\n
+21	]	]	PUNCT	FB	_	20	punct	_	SpacesAfter=\n
 
 ~~~
 

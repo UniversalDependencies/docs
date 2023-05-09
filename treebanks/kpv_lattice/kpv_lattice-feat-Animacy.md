@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Komi_Zyrian-Lattice: Features: `Animacy`
 
-This feature is universal but the values `Hum` are language-specific.
+This feature is universal.
 It occurs with 1 different values: `Hum`.
 
 148 tokens (2%) have a non-empty value of `Animacy`.

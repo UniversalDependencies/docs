@@ -23,7 +23,7 @@ The following 10 pairs of parts of speech are connected with `flat:name`: <tt><a
 # visual-style 6	fgColor:white
 # visual-style 6 7 flat:name	color:blue
 1	Durán	Durán	PROPN	NNP	Gender=Masc|Number=Sing	2	nsubj	_	_
-2	ejerce	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	ejerce	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	de	de	ADP	IN	_	4	case	_	_
 4	portavoz	portavoz	NOUN	NN	Gender=Masc|Number=Sing	2	obl	_	_
 5	y	y	CCONJ	CC	_	6	cc	_	_
@@ -42,7 +42,7 @@ The following 10 pairs of parts of speech are connected with `flat:name`: <tt><a
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 flat:name	color:blue
-1	Habló	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+1	Habló	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 2	para	para	ADP	IN	_	3	case	_	_
 3	CNN	CNN	PROPN	NNP	Number=Sing	1	obl	_	_
 4	Style	style	NOUN	NN	Number=Sing	3	flat:name	_	Proper=True
@@ -71,7 +71,7 @@ The following 10 pairs of parts of speech are connected with `flat:name`: <tt><a
 8	1992	1992	NUM	CD	Gender=Masc|NumType=Card	1	appos	_	SpaceAfter=No
 9	)	)	PUNCT	)	_	8	punct	_	_
 10	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	11	obj	_	_
-11	reunió	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+11	reunió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 12	,	,	PUNCT	,	_	15	punct	_	_
 13	en	en	ADP	IN	_	15	case	_	_
 14	varias	_	DET	DT	Gender=Fem|Number=Plur|PronType=Ind	15	det	_	_

@@ -8,7 +8,7 @@ udver: '2'
 
 This relation is universal.
 
-51 nodes (4%) are attached to their parents as `nmod`.
+51 nodes (3%) are attached to their parents as `nmod`.
 
 48 instances of `nmod` (94%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.15686274509804.

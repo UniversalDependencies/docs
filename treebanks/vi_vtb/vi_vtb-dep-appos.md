@@ -9,53 +9,52 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `appos`: <tt><a href="vi_vtb-dep-appos-nmod.html">appos:nmod</a></tt>.
 
-108 nodes (0%) are attached to their parents as `appos`.
+190 nodes (0%) are attached to their parents as `appos`.
 
-108 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.18518518518519.
+190 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.12631578947368.
 
-The following 14 pairs of parts of speech are connected with `appos`: <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (37; 34% instances), <tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (16; 15% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt> (14; 13% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (10; 9% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (8; 7% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> (6; 6% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (5; 5% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> (3; 3% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> (3; 3% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt>-<tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 17 pairs of parts of speech are connected with `appos`: <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (75; 39% instances), <tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (50; 26% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt> (21; 11% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (10; 5% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (9; 5% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> (6; 3% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (5; 3% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> (3; 2% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt>-<tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt>-<tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 9 appos	color:blue
-1	Hành khách	hành khách	NOUN	N	_	7	nsubj	_	_
-2	trên	trên	ADP	Pre	_	3	case	_	_
-3	đó	đó	PRON	Pro	_	1	obl	_	_
-4	rất	rất	ADV	Adv	_	5	advmod	_	_
-5	đông	đông	ADJ	Adj	_	7	advmod:adj	_	_
-6	là	là	AUX	V	_	7	cop	_	_
-7	lao động	lao động	NOUN	N	_	0	root	_	_
-8	(	(	PUNCT	(	_	9	punct	_	_
-9	LĐ	lđ	NOUN	Ny	_	7	appos	_	_
-10	)	)	PUNCT	)	_	9	punct	_	_
-11	VN	vn	NOUN	Ny	_	7	nmod	_	_
-12	.	.	PUNCT	.	_	7	punct	_	_
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 11 appos	color:blue
+1	Ông	ông	NOUN	N	_	3	nsubj:pass	_	_
+2	được	được	AUX	AUX	_	3	aux:pass	_	_
+3	điều	điều	VERB	V	_	0	root	_	_
+4	về	về	ADP	Pre	_	5	case	_	_
+5	đơn vị	đơn vị	NOUN	N	_	3	obl:comp	_	_
+6	thông tin	thông tin	NOUN	N	_	5	compound	_	_
+7	thuộc	thuộc	VERB	V	_	5	acl:subj	_	_
+8	sư đoàn	sư đoàn	NOUN	N	_	7	obj	_	_
+9	2	2	NUM	Num	_	8	flat:name	_	_
+10	,	,	PUNCT	,	_	11	punct	_	_
+11	quân khu	quân khu	NOUN	N	_	8	appos	_	_
+12	5	5	NUM	Num	_	11	flat:name	_	_
+13	.	.	PUNCT	.	_	3	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 3 appos	color:blue
-1	Long	long	PROPN	NNP	_	6	nsubj	_	_
-2	,	,	PUNCT	,	_	3	punct	_	_
-3	nhân viên	nhân viên	NOUN	N	_	1	appos	_	_
-4	marketing	marketing	NOUN	Nb	_	3	nmod	_	_
-5	,	,	PUNCT	,	_	3	punct	_	_
-6	nhận	nhận	VERB	V	_	0	root	_	_
-7	điện thoại	điện thoại	NOUN	N	_	6	obj	_	_
-8	lên	lên	VERB	V	_	6	xcomp	_	_
-9	phòng	phòng	NOUN	N	_	8	obj	_	_
-10	giám đốc	giám đốc	NOUN	N	_	9	nmod	_	_
-11	.	.	PUNCT	.	_	6	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 6 appos	color:blue
+1	Người	người	NOUN	N	_	4	nsubj	_	_
+2	ấy	ấy	PRON	PRO	_	1	det:pmod	_	_
+3	là	là	AUX	AUX	_	4	cop	_	_
+4	nguyễn chơn	nguyễn chơn	PROPN	NNP	_	0	root	_	_
+5	,	,	PUNCT	PUNCT	_	6	punct	_	_
+6	tổng tham mưu	tổng tham mưu	NOUN	N	_	4	appos	_	_
+7	phó	phó	NOUN	N	_	6	compound:z	_	_
+8	hiện nay	hiện nay	NOUN	N	_	6	nmod	_	_
+9	...	...	PUNCT	PUNCT	_	4	punct	_	_
 
 ~~~
 

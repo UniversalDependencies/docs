@@ -45,7 +45,7 @@ The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 6 11 aux:pass	color:blue
 1	recte	recte	ADV	B1|grn1|casG	_	4	advmod	_	_
 2	igitur	igitur	ADV	O4	_	4	advmod	_	_
-3	dici	dico	VERB	N3|modQ|tem1	Aspect=Imp|InflClass=LatX|VerbForm=Vnoun|Voice=Pass	4	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+3	dici	dico	VERB	N3|modQ|tem1	Aspect=Imp|InflClass=LatX|VerbForm=Inf|Voice=Pass	4	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 4	potest	possum	VERB	N3|modA|tem1|gen6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 5	quod	quod	SCONJ	O4	_	6	mark	_	_
 6	uerbum	uerbum	NOUN	B1|grn1|casA|gen3|vgr1	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	4	nsubj	_	_

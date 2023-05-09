@@ -24,7 +24,7 @@ The following 17 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 4 1 advmod	color:blue
 1	taykit	taykit	PART	part	Polarity=Neg	4	advmod	_	_
 2	yaw	yaw	NOUN	n	_	4	nsubj	_	_
-3	be	peʔ	NOUN	n	Clas=Flat	4	nsubj	_	_
+3	be	peʔ	NOUN	n	Clas=Flat	2	compound	_	_
 4	bewĩa	wĩ	VERB	v	Person=0|VerbForm=Ger|Voice=Pass	0	root	_	_
 
 ~~~

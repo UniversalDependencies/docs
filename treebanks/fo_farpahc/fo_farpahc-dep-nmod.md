@@ -49,10 +49,10 @@ The following 8 pairs of parts of speech are connected with `nmod`: <tt><a href=
 5	eg	_	PRON	PRO-N	Case=Nom	1	xcomp	_	_
 6	eri	_	AUX	BEPI	Mood=Ind|Tense=Pres	5	cop	_	_
 7	í	_	ADP	P	_	8	case	_	_
-8	faðirinum	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	5	obl	_	SpaceAfter=No
+8	faðirinum	_	NOUN	N-D	Case=Dat|Definite=Def|Number=Sing	5	obl	_	SpaceAfter=No
 9	,	,	PUNCT	,	_	8	punct	_	_
 10	og	_	CCONJ	CONJ	_	11	cc	_	_
-11	faðirin	_	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	5	conj	_	_
+11	faðirin	_	NOUN	N-N	Case=Nom|Definite=Def|Number=Sing	5	conj	_	_
 12	í	_	ADP	P	_	13	case	_	_
 13	mær	_	PRON	PRO-D	Case=Dat	11	obl	_	SpaceAfter=No
 14	;	;	PUNCT	.	_	13	punct	_	_
@@ -65,7 +65,7 @@ The following 8 pairs of parts of speech are connected with `nmod`: <tt><a href=
 21	mær	_	PRON	PRO-D	Case=Dat	20	obj	_	_
 22	fyri	_	ADP	P	_	25	case	_	_
 23	sjálva	_	PRON	PRO-G	Case=Gen	24	nmod	_	_
-24	gerninganna	_	NOUN	NS-G	Case=Gen|Definite=Ind|Number=Plur	25	nmod:poss	_	_
+24	gerninganna	_	NOUN	NS-G	Case=Gen|Definite=Def|Number=Plur	25	nmod:poss	_	_
 25	skuld	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	20	obl	_	SpaceAfter=No
 26	!	!	PUNCT	.	_	25	punct	_	_
 

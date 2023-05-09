@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Vietnamese-VTB: Relations: `xcomp:vcomp`
 
 This relation is a language-specific subtype of <tt><a href="vi_vtb-dep-xcomp.html">xcomp</a></tt>.
-There are also 1 other language-specific subtypes of `xcomp`: <tt><a href="vi_vtb-dep-xcomp-adj.html">xcomp:adj</a></tt>.
+There are also 2 other language-specific subtypes of `xcomp`: <tt><a href="vi_vtb-dep-xcomp-adj.html">xcomp:adj</a></tt>, <tt><a href="vi_vtb-dep-xcomp-dir.html">xcomp:dir</a></tt>.
 
 3 nodes (0%) are attached to their parents as `xcomp:vcomp`.
 

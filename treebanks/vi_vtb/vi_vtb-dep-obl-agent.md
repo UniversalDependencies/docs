@@ -9,36 +9,60 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="vi_vtb-dep-obl.html">obl</a></tt>.
 There are also 7 other language-specific subtypes of `obl`: <tt><a href="vi_vtb-dep-obl-about.html">obl:about</a></tt>, <tt><a href="vi_vtb-dep-obl-adj.html">obl:adj</a></tt>, <tt><a href="vi_vtb-dep-obl-adv.html">obl:adv</a></tt>, <tt><a href="vi_vtb-dep-obl-comp.html">obl:comp</a></tt>, <tt><a href="vi_vtb-dep-obl-iobj.html">obl:iobj</a></tt>, <tt><a href="vi_vtb-dep-obl-tmod.html">obl:tmod</a></tt>, <tt><a href="vi_vtb-dep-obl-with.html">obl:with</a></tt>.
 
-37 nodes (0%) are attached to their parents as `obl:agent`.
+76 nodes (0%) are attached to their parents as `obl:agent`.
 
-35 instances of `obl:agent` (95%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.56756756756757.
+73 instances of `obl:agent` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.27631578947368.
 
-The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (33; 89% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt> (3; 8% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (1; 3% instances).
+The following 4 pairs of parts of speech are connected with `obl:agent`: <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (71; 93% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 10 obl:agent	color:blue
-1	Tiền	tiền	NOUN	N	_	13	nsubj	_	_
-2	các	các	DET	Det	_	3	det	_	_
-3	con gái	con gái	NOUN	N	_	4	nsubj	_	_
-4	gửi	gửi	VERB	V	_	1	acl	_	_
-5	về	về	ADV	Adv	_	4	compound:svc	_	_
-6	cho	cho	ADP	Pre	_	7	case	_	_
-7	ông	ông	NOUN	N	_	4	obl:iobj	_	_
-8	bao nhiêu	bao nhiêu	PRON	Pro	_	4	obj	_	_
-9	bị	bị	AUX	AUX	_	13	aux:pass	_	_
-10	con	con	NOUN	N	_	13	obl:agent	_	_
-11	út	út	ADJ	Adj	_	10	amod	_	_
-12	"	"	PUNCT	``	_	13	punct	_	_
-13	trấn	trấn	VERB	V	_	0	root	_	_
-14	"	"	PUNCT	``	_	13	punct	_	_
-15	hết	hết	ADV	Adv	_	13	compound:svc	_	_
-16	.	.	PUNCT	.	_	13	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 7 obl:agent	color:blue
+1	Nhưng	nhưng	SCONJ	C	_	5	mark	_	_
+2	khủng khiếp	khủng khiếp	ADJ	ADJ	_	5	csubj:asubj	_	_
+3	nhất	nhất	ADV	ADV	_	2	advmod	_	_
+4	là	là	AUX	AUX	_	5	cop	_	_
+5	lúc	lúc	NOUN	N	_	0	root	_	_
+6	bị	bị	AUX	AUX	_	9	aux:pass	_	_
+7	sóng	sóng	NOUN	N	_	9	obl:agent	_	_
+8	nhồi	nhồi	VERB	V	_	7	compound:vmod	_	_
+9	đập	đập	VERB	V	_	5	acl:tmod	_	_
+10	vào	vào	ADP	PRE	_	11	case	_	_
+11	thành	thành	NOUN	N	_	9	obl:comp	_	_
+12	tàu	tàu	NOUN	N	_	11	compound	_	_
+13	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 16 15 obl:agent	color:blue
+1	Loan	loan	PROPN	NNP	_	2	nsubj	_	_
+2	bảo	bảo	VERB	V	_	0	root	_	_
+3	ở	ở	VERB	V	_	16	advcl	_	_
+4	nhà	nhà	NOUN	N	_	3	obl:comp	_	_
+5	tên	tên	NOUN	N	_	4	nmod	_	_
+6	Hồng	Hồng	PROPN	NNP	_	5	compound	_	_
+7	một	một	NUM	NUM	_	8	nummod	_	_
+8	tuần	tuần	NOUN	N	_	3	obl:tmod	_	_
+9	thì	thì	SCONJ	C	_	16	mark	_	_
+10	hầu như	hầu như	ADV	ADV	_	11	advmod	_	_
+11	ngày	ngày	NOUN	N	_	16	obl:tmod	_	_
+12	nào	nào	PRON	PRO	_	11	nmod	_	_
+13	cũng	cũng	ADV	ADV	_	16	advmod	_	_
+14	bị	bị	AUX	AUX	_	16	aux:pass	_	_
+15	nó	nó	PRON	PRO	_	16	obl:agent	_	_
+16	cưỡng hiếp	cưỡng hiếp	VERB	V	_	2	ccomp	_	_
+17	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 ~~~
 
@@ -72,41 +96,6 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 21	khoanh	khoanh	VERB	V	_	20	acl:subj	_	_
 22	vùng	vùng	NOUN	N	_	21	obj	_	_
 23	.	.	PUNCT	.	_	19	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 8 obl:agent	color:blue
-1	Thưa	thưa	VERB	V	_	11	vocative	_	_
-2	ông	ông	NOUN	N	_	1	obj	_	_
-3	,	,	PUNCT	,	_	1	punct	_	_
-4	một	một	NUM	Num	_	5	nummod	_	_
-5	vấn đề	vấn đề	NOUN	N	_	9	nsubj	_	_
-6	được	được	AUX	AUX	_	9	aux:pass	_	_
-7	nhiều	nhiều	ADJ	Adj	_	8	amod	_	_
-8	nvơnn	nvơnn	NOUN	Ny	_	9	obl:agent	_	_
-9	băn khoăn	băn khoăn	ADJ	Adj	_	11	csubj	_	_
-10	là	là	AUX	V	_	11	cop	_	_
-11	tư cách pháp nhân	tư cách pháp nhân	NOUN	N	_	0	root	_	_
-12	của	của	ADP	Pre	_	13	case	_	_
-13	bà con	bà con	NOUN	N	_	11	nmod:poss	_	_
-14	tại	tại	ADP	Pre	_	15	case	_	_
-15	nước	nước	NOUN	N	_	13	advcl	_	_
-16	sở tại	sở tại	ADJ	Adj	_	15	amod	_	_
-17	để	để	ADP	Pre	_	20	mark:pcomp	_	_
-18	bà con	bà con	NOUN	N	_	20	nsubj	_	_
-19	có thể	có thể	AUX	AUX	_	20	aux	_	_
-20	cư trú	cư trú	VERB	V	_	11	advcl:objective	_	_
-21	và	và	CCONJ	CC	_	22	cc	_	_
-22	làm ăn	làm ăn	VERB	V	_	20	conj	_	_
-23	một cách	một cách	NOUN	N	_	22	obj	_	_
-24	chính đáng	chính đáng	ADJ	Adj	_	23	amod	_	_
-25	.	.	PUNCT	.	_	11	punct	_	_
 
 ~~~
 

@@ -55,11 +55,11 @@ The following 4 pairs of parts of speech are connected with `det`: <tt><a href="
 
 
 ~~~ conllu
+# visual-style 111	bgColor:blue
+# visual-style 111	fgColor:white
 # visual-style 110	bgColor:blue
 # visual-style 110	fgColor:white
-# visual-style 109	bgColor:blue
-# visual-style 109	fgColor:white
-# visual-style 109 110 det	color:blue
+# visual-style 110 111 det	color:blue
 1	ēkal	ēkallu	NOUN	N	Gender=Fem|NounBase=Bound|Number=Sing	0	root	_	E₂.GAL
 2	Aššur-naṣir-apli	Aššur-naṣir-apli_II	PROPN	RN	Gender=Masc	1	nmod:poss	_	{m}aš-šur-PAP-A
 3	iššak	iššiakku	NOUN	N	Gender=Masc|NounBase=Bound|Number=Sing	2	appos	_	ŠID
@@ -132,53 +132,54 @@ The following 4 pairs of parts of speech are connected with `det`: <tt><a href="
 70	īšû	išû	VERB	V	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Subordinative=Yes|Tense=Past|VerbForm=Fin|VerbStem=G	65	acl:relcl	_	_
 71	šar	šarru	NOUN	N	Gender=Masc|NounBase=Bound|Number=Sing	2	appos	_	MAN
 72	mušakniš	mušaknišu	NOUN	N	Gender=Masc|NounBase=Bound|Number=Sing	71	nmod:poss	_	mu-šak-niš
-73	lā kanšūte	lā|kanšu	NOUN	MOD|N	Gender=Masc|NounBase=Suffixal|Number=Plur	72	nmod:poss	_	la|kan-šu-te-šu₂
-74	šu	_	PRON	_	Gender=Masc|Number=Sing|Person=3	73	det:poss	_	_
-75	ša	ša	PRON	DET	_	79	nsubj	_	ša₂
-76	naphar	napharu	NOUN	N	Gender=Masc|NounBase=Bound|Number=Sing	79	obj	_	nap-har
-77	kiššat	kiššatu	NOUN	N	Gender=Fem|NounBase=Bound|Number=Sing	76	nmod:poss	_	kiš-šat
-78	nišī	nišu	NOUN	N	Gender=Fem|Number=Plur	77	nmod:poss	_	UN.MEŠ
-79	ipēlu	bêlu	VERB	V	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Subordinative=Yes|Tense=Past|VerbForm=Fin|VerbStem=G	71	acl:relcl	_	i-pe-lu
-80	zikaru	zikaru	NOUN	N	Case=Nom|Gender=Masc|NounBase=Free|Number=Sing	2	appos	_	_
-81	dannu	dannu	ADJ	AJ	Case=Nom|Gender=Masc|Number=Sing	80	amod	_	dan-nu
-82	mukabbis	mukabbisu	NOUN	N	Gender=Masc|NounBase=Bound|Number=Sing	2	appos	_	mu-kab-bi-is
-83	kišād	kišādu	NOUN	N	Gender=Masc|NounBase=Bound|Number=Sing	82	nmod:poss	_	GU₂
-84	ayyābī	ayyābu	NOUN	N	Gender=Masc|NounBase=Suffixal|Number=Plur	83	nmod:poss	_	a-a-bi-šu₂
-85	šu	_	PRON	_	Gender=Masc|Number=Sing|Person=3	84	det:poss	_	_
-86	dāʾiš	dāʾišu	NOUN	N	Gender=Masc|NounBase=Bound|Number=Sing	2	appos	_	da-a-iš
-87	kullat	kullatu	NOUN	N	Gender=Fem|NounBase=Bound|Number=Sing	86	nmod:poss	_	kul-lat
-88	nakirē	nakru	NOUN	N	Gender=Masc|Number=Plur	87	nmod:poss	_	KUR₂.MEŠ
-89	muparriru	muparriru	NOUN	N	Case=Nom|Gender=Masc|NounBase=Free|Number=Sing	2	appos	_	mu-pa-ri-ru
-90	kiṣir	kiṣru	NOUN	N	Gender=Masc|NounBase=Bound|Number=Sing	89	nmod:poss	_	ki-iṣ-ri
-91	multarhī	muštarhu	NOUN	N	Case=Gen|Gender=Masc|NounBase=Free|Number=Sing	90	nmod:poss	_	mul-tar-hi
-92	šarru	šarru	NOUN	N	Case=Nom|Gender=Masc|NounBase=Free|Number=Sing	2	appos	_	MAN
-93	ša	ša	PRON	REL	_	100	nsubj	_	ša₂
-94	ina	ina	ADP	PRP	_	95	case	_	ina
-95	tukulti	tukultu	NOUN	N	Case=Gen|Gender=Fem|NounBase=Bound|Number=Sing	100	obl	_	{GIŠ}tukul-ti
-96	ilāni	ilu	NOUN	N	Gender=Masc|Number=Plur	95	nmod:poss	_	DINGIR.MEŠ
-97	rabûti	rabû	ADJ	AJ	Gender=Masc|Number=Plur	96	amod	_	GAL.MEŠ
-98	bēlē	_	NOUN	_	Gender=Masc|NounBase=Suffixal|Number=Plur	96	appos	_	_
-99	šu	_	PRON	_	Gender=Masc|Number=Sing|Person=3	98	det:poss	_	_
-100	ittallaku	_	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Subordinative=Yes|Tense=Past|VerbForm=Fin|VerbStem=Gtn	92	acl:relcl	_	_
-101	ma	_	CCONJ	_	_	107	cc	_	_
-102	mātāti	mātu	NOUN	N	Gender=Fem|NounBase=Free|Number=Plur	107	obj	_	KUR.KUR.MEŠ
-103	kalî	kalû	DET	N	_	102	amod	_	DU₃-ši-na
-104	šina	_	PRON	_	Gender=Fem|Number=Plur|Person=3	103	det:poss	_	_
-105	qās	qātu	NOUN	N	Gender=Fem|NounBase=Suffixal|Number=Sing	107	nsubj	_	ŠU-su
-106	su	_	PRON	_	Gender=Masc|Number=Sing|Person=3	105	det:poss	_	_
-107	ikšud	kašādu	VERB	V	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|VerbStem=G	100	conj	_	_
-108	huršānī	huršānu	NOUN	N	Gender=Masc|Number=Plur	111	obj	_	hur-ša₂-ni
-109	kalû	kalû	DET	N	_	108	amod	_	DU₃-šu-nu
-110	šunu	_	PRON	_	Gender=Masc|Number=Plur|Person=3	109	det	_	_
-111	ipēlu	bêlu	VERB	V	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Subordinative=Yes|Tense=Past|VerbForm=Fin|VerbStem=G	100	conj	_	i-pe-lu-ma
-112	ma	_	CCONJ	_	_	115	cc	_	_
-113	bilat	biltu	NOUN	N	Gender=Fem|NounBase=Suffixal|Number=Sing	115	obj	_	bi-lat-su-nu
-114	sunu	_	PRON	_	Gender=Masc|Number=Plur|Person=3	113	det:poss	_	_
-115	imhuru	mahāru	VERB	V	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Subordinative=Yes|Tense=Past|VerbForm=Fin|VerbStem=G	111	conj	_	_
-116	ṣābit	ṣābitu	NOUN	N	Gender=Masc|NounBase=Bound|Number=Sing	92	appos	_	ṣa-bit
-117	līṭē	līṭu	NOUN	N	Gender=Masc|Number=Plur	116	nmod:poss	_	li-i-ṭi₂
-118	šākin	šākinu	NOUN	N	Gender=Masc|NounBase=Bound|Number=Sing	92	appos	_	ša₂-kin₂
-119	līte	lītu	NOUN	N	Case=Gen|Gender=Fem|NounBase=Free|Number=Sing	118	nmod:poss	_	_
+73	lā	lā	PART	MOD	_	74	advmod	_	la-a
+74	kanšūte	kanšu	NOUN	N	Gender=Masc|NounBase=Suffixal|Number=Plur	72	nmod:poss	_	kan-šu-te-šu₂
+75	šu	_	PRON	_	Gender=Masc|Number=Sing|Person=3	74	det:poss	_	_
+76	ša	ša	PRON	DET	_	80	nsubj	_	ša₂
+77	naphar	napharu	NOUN	N	Gender=Masc|NounBase=Bound|Number=Sing	80	obj	_	nap-har
+78	kiššat	kiššatu	NOUN	N	Gender=Fem|NounBase=Bound|Number=Sing	77	nmod:poss	_	kiš-šat
+79	nišī	nišu	NOUN	N	Gender=Fem|Number=Plur	78	nmod:poss	_	UN.MEŠ
+80	ipēlu	bêlu	VERB	V	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Subordinative=Yes|Tense=Past|VerbForm=Fin|VerbStem=G	71	acl:relcl	_	i-pe-lu
+81	zikaru	zikaru	NOUN	N	Case=Nom|Gender=Masc|NounBase=Free|Number=Sing	2	appos	_	_
+82	dannu	dannu	ADJ	AJ	Case=Nom|Gender=Masc|Number=Sing	81	amod	_	dan-nu
+83	mukabbis	mukabbisu	NOUN	N	Gender=Masc|NounBase=Bound|Number=Sing	2	appos	_	mu-kab-bi-is
+84	kišād	kišādu	NOUN	N	Gender=Masc|NounBase=Bound|Number=Sing	83	nmod:poss	_	GU₂
+85	ayyābī	ayyābu	NOUN	N	Gender=Masc|NounBase=Suffixal|Number=Plur	84	nmod:poss	_	a-a-bi-šu₂
+86	šu	_	PRON	_	Gender=Masc|Number=Sing|Person=3	85	det:poss	_	_
+87	dāʾiš	dāʾišu	NOUN	N	Gender=Masc|NounBase=Bound|Number=Sing	2	appos	_	da-a-iš
+88	kullat	kullatu	NOUN	N	Gender=Fem|NounBase=Bound|Number=Sing	87	nmod:poss	_	kul-lat
+89	nakirē	nakru	NOUN	N	Gender=Masc|Number=Plur	88	nmod:poss	_	KUR₂.MEŠ
+90	muparriru	muparriru	NOUN	N	Case=Nom|Gender=Masc|NounBase=Free|Number=Sing	2	appos	_	mu-pa-ri-ru
+91	kiṣir	kiṣru	NOUN	N	Gender=Masc|NounBase=Bound|Number=Sing	90	nmod:poss	_	ki-iṣ-ri
+92	multarhī	muštarhu	NOUN	N	Case=Gen|Gender=Masc|NounBase=Free|Number=Sing	91	nmod:poss	_	mul-tar-hi
+93	šarru	šarru	NOUN	N	Case=Nom|Gender=Masc|NounBase=Free|Number=Sing	2	appos	_	MAN
+94	ša	ša	PRON	REL	_	101	nsubj	_	ša₂
+95	ina	ina	ADP	PRP	_	96	case	_	ina
+96	tukulti	tukultu	NOUN	N	Case=Gen|Gender=Fem|NounBase=Bound|Number=Sing	101	obl	_	{GIŠ}tukul-ti
+97	ilāni	ilu	NOUN	N	Gender=Masc|Number=Plur	96	nmod:poss	_	DINGIR.MEŠ
+98	rabûti	rabû	ADJ	AJ	Gender=Masc|Number=Plur	97	amod	_	GAL.MEŠ
+99	bēlē	_	NOUN	_	Gender=Masc|NounBase=Suffixal|Number=Plur	97	appos	_	_
+100	šu	_	PRON	_	Gender=Masc|Number=Sing|Person=3	99	det:poss	_	_
+101	ittallaku	_	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Subordinative=Yes|Tense=Past|VerbForm=Fin|VerbStem=Gtn	93	acl:relcl	_	_
+102	ma	_	CCONJ	_	_	108	cc	_	_
+103	mātāti	mātu	NOUN	N	Gender=Fem|NounBase=Free|Number=Plur	108	obj	_	KUR.KUR.MEŠ
+104	kalî	kalû	DET	N	_	103	amod	_	DU₃-ši-na
+105	šina	_	PRON	_	Gender=Fem|Number=Plur|Person=3	104	det:poss	_	_
+106	qās	qātu	NOUN	N	Gender=Fem|NounBase=Suffixal|Number=Sing	108	nsubj	_	ŠU-su
+107	su	_	PRON	_	Gender=Masc|Number=Sing|Person=3	106	det:poss	_	_
+108	ikšud	kašādu	VERB	V	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|VerbStem=G	101	conj	_	_
+109	huršānī	huršānu	NOUN	N	Gender=Masc|Number=Plur	112	obj	_	hur-ša₂-ni
+110	kalû	kalû	DET	N	_	109	amod	_	DU₃-šu-nu
+111	šunu	_	PRON	_	Gender=Masc|Number=Plur|Person=3	110	det	_	_
+112	ipēlu	bêlu	VERB	V	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Subordinative=Yes|Tense=Past|VerbForm=Fin|VerbStem=G	101	conj	_	i-pe-lu-ma
+113	ma	_	CCONJ	_	_	116	cc	_	_
+114	bilat	biltu	NOUN	N	Gender=Fem|NounBase=Suffixal|Number=Sing	116	obj	_	bi-lat-su-nu
+115	sunu	_	PRON	_	Gender=Masc|Number=Plur|Person=3	114	det:poss	_	_
+116	imhuru	mahāru	VERB	V	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Subordinative=Yes|Tense=Past|VerbForm=Fin|VerbStem=G	112	conj	_	_
+117	ṣābit	ṣābitu	NOUN	N	Gender=Masc|NounBase=Bound|Number=Sing	93	appos	_	ṣa-bit
+118	līṭē	līṭu	NOUN	N	Gender=Masc|Number=Plur	117	nmod:poss	_	li-i-ṭi₂
+119	šākin	šākinu	NOUN	N	Gender=Masc|NounBase=Bound|Number=Sing	93	appos	_	ša₂-kin₂
+120	līte	lītu	NOUN	N	Case=Gen|Gender=Fem|NounBase=Free|Number=Sing	119	nmod:poss	_	_
 
 ~~~
 

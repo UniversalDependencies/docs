@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Afrikaans-AfriBooms: POS Tags: `PROPN`
 
-There are 309 `PROPN` lemmas (5%), 309 `PROPN` types (5%) and 590 `PROPN` tokens (1%).
+There are 308 `PROPN` lemmas (5%), 308 `PROPN` types (5%) and 590 `PROPN` tokens (1%).
 Out of 16 observed tags, the rank of `PROPN` is: 5 in number of lemmas, 5 in number of types and 13 in number of tokens.
 
 The 10 most frequent `PROPN` lemmas: <em>Suid-Afrika, Afrika, Februarie, Madiba, Crime, Mandela, of, Bafana, Maart, Tambo</em>
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>of</em> (<tt><a href="af_afribooms-po
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.122822).
+The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.120642).
 
 The 1st highest number of forms (1) was observed with the lemma “(SACU)-Mercusor”: <em>(SACU)-Mercusor</em>.
 

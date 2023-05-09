@@ -9,32 +9,32 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-998 tokens (1%) have a non-empty value of `Abbr`.
+994 tokens (1%) have a non-empty value of `Abbr`.
 152 types (1%) occur at least once with a non-empty value of `Abbr`.
-161 lemmas (2%) occur at least once with a non-empty value of `Abbr`.
-The feature is used with 8 part-of-speech tags: <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (596; 0% instances), <tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt> (379; 0% instances), <tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt> (10; 0% instances), <tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (7; 0% instances), <tt><a href="he_htb-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="he_htb-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="he_htb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+160 lemmas (2%) occur at least once with a non-empty value of `Abbr`.
+The feature is used with 8 part-of-speech tags: <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (595; 0% instances), <tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt> (376; 0% instances), <tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt> (10; 0% instances), <tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (7; 0% instances), <tt><a href="he_htb-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="he_htb-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="he_htb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-596 <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> tokens (2% of all `NOUN` tokens) have a non-empty value of `Abbr`.
+595 <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> tokens (2% of all `NOUN` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="he_htb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (542; 91%), <tt><a href="he_htb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (530; 89%), <tt><a href="he_htb-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (467; 78%).
+The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="he_htb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (542; 91%), <tt><a href="he_htb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (530; 89%), <tt><a href="he_htb-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (466; 78%).
 
 `NOUN` tokens may have the following values of `Abbr`:
 
-* `Yes` (596; 100% of non-empty `Abbr`): ש"ח, יו"ר, מנכ"ל, ח"כ, ד"ר, חו"ל, עו"ד, מ"ר, מד"א, מו"ם
-* `EMPTY` (37650): בית, יום, משרד, משטרה, %, ארץ, שר, משפט, ממשלה, חברה
+* `Yes` (595; 100% of non-empty `Abbr`): ש"ח, יו"ר, מנכ"ל, ח"כ, ד"ר, חו"ל, עו"ד, מ"ר, מד"א, מו"ם
+* `EMPTY` (37450): בית, יום, משרד, משטרה, %, שר, משפט, ארץ, ממשלה, חברה
 
-`Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (53) occur only with one value of `Abbr`.
+`Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (52) occur only with one value of `Abbr`.
 
 ### `PROPN`
 
-379 <tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt> tokens (5% of all `PROPN` tokens) have a non-empty value of `Abbr`.
+376 <tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt> tokens (5% of all `PROPN` tokens) have a non-empty value of `Abbr`.
 
 `PROPN` tokens may have the following values of `Abbr`:
 
-* `Yes` (379; 100% of non-empty `Abbr`): ארה"ב, צה"ל, בריה"ם, בית"ר, ת"א, או"ם, ראשל"ץ, אגו"י, אש"ף, ש"ס
-* `EMPTY` (7592): ישראל, ירושלים, כהנא, מכבי, עיראק, כנסת, ניו, יורק, גרמניה, חיפה
+* `Yes` (376; 100% of non-empty `Abbr`): ארה"ב, צה"ל, בית"ר, בריה"ם, ת"א, או"ם, ראשל"ץ, אגו"י, אש"ף, ש"ס
+* `EMPTY` (7537): ישראל, ירושלים, כהנא, מכבי, עיראק, כנסת, ניו, יורק, גרמניה, חיפה
 
 `Abbr` seems to be **lexical feature** of `PROPN`. 100% lemmas (97) occur only with one value of `Abbr`.
 
@@ -45,7 +45,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (10; 100% of non-empty `Abbr`): ז"ל, או"מי, בי"ל, בית"רי, בית"ריות, נ"ל, זצ"ל, תנ"כית
-* `EMPTY` (8022): אחרים, ראשון, גדול, לאומי, חדש, אחר, ראשונה, רבים, רב, טוב
+* `EMPTY` (8406): אחרים, ראשון, גדול, לאומי, חדש, אחר, קשה, ראשונה, צריך, רבים
 
 ### `ADP`
 
@@ -56,7 +56,7 @@ The most frequent other feature values with which `ADP` and `Abbr` co-occurred: 
 `ADP` tokens may have the following values of `Abbr`:
 
 * `Yes` (7; 100% of non-empty `Abbr`): ע"י, עפ"י
-* `EMPTY` (26766): ב, ל, _של_, של, את, מ, על, כ, עם, ל_
+* `EMPTY` (26579): ב, ל, _של_, של, את, מ, על, כ, עם, ל_
 
 ### `NUM`
 
@@ -67,7 +67,7 @@ The most frequent other feature values with which `NUM` and `Abbr` co-occurred: 
 `NUM` tokens may have the following values of `Abbr`:
 
 * `Yes` (2; 100% of non-empty `Abbr`): י"ד, ת"ק
-* `EMPTY` (3307): אחד, שני, אחת, שתי, 1, 0, מיליון, אלף, 2, שלושה
+* `EMPTY` (3286): אחד, שני, אחת, שתי, 1, 0, מיליון, אלף, 2, שלושה
 
 ### `X`
 
@@ -76,7 +76,7 @@ The most frequent other feature values with which `NUM` and `Abbr` co-occurred: 
 `X` tokens may have the following values of `Abbr`:
 
 * `Yes` (2; 100% of non-empty `Abbr`): י"ש, מנכ"ל
-* `EMPTY` (163): ה, קפידבין, ב, קפספבין, ה_, קפכות, קפספקו, ו, בנקים, יחסים
+* `EMPTY` (137): קפידבין, ב, ה, קפספבין, ה_, קפכות, קפספקו, ו, מ, קפתמונה1
 
 ### `ADV`
 
@@ -87,7 +87,7 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): רצ"ב
-* `EMPTY` (6336): לא, גם, רק, יותר, מה, עוד, כך, ביותר, אתמול, כבר
+* `EMPTY` (6550): לא, גם, רק, יותר, מה, עוד, כך, ביותר, אתמול, כבר
 
 ### `CCONJ`
 
@@ -96,5 +96,5 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 `CCONJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): ע"ף
-* `EMPTY` (5183): ו, או, אבל, אך, אלא, אף, אולם, אילו, עקב, מאשר
+* `EMPTY` (5120): ו, או, אבל, אך, אלא, אולם, אף, אילו, עקב, מאשר
 

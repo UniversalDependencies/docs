@@ -93,10 +93,10 @@ The most frequent other feature values with which `NOUN` and `Person` co-occurre
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="akk_riao-dep-conj.html">conj</a></tt>]--> VERB</tt> (945; 90%),
+<tt>VERB --[<tt><a href="akk_riao-dep-conj.html">conj</a></tt>]--> VERB</tt> (944; 90%),
 <tt>VERB --[<tt><a href="akk_riao-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (45; 96%),
 <tt>NOUN --[<tt><a href="akk_riao-dep-conj.html">conj</a></tt>]--> ADJ</tt> (30; 100%),
 <tt>NOUN --[<tt><a href="akk_riao-dep-conj.html">conj</a></tt>]--> NOUN</tt> (22; 100%),
 <tt>VERB --[<tt><a href="akk_riao-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (15; 79%),
-<tt>PRON --[<tt><a href="akk_riao-dep-conj.html">conj</a></tt>]--> VERB</tt> (1; 100%).
+<tt>PRON --[<tt><a href="akk_riao-dep-conj.html">conj</a></tt>]--> VERB</tt> (2; 100%).
 

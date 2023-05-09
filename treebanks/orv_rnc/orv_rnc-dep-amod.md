@@ -23,11 +23,11 @@ The following 23 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 3	fgColor:white
 # visual-style 3 2 amod	color:blue
 1	{л._167}	{л._167}	X	_	_	3	dep	_	wf="{л._167}"|before:<i>|after:</i>|NoIndex=Yes|SpaceAfter=No
-2	178-г(о)	178-й	ADJ	ANUM	Case=Gen|Gender=Masc|Number=Sing|NumForm=Combi|NumType=Ord	3	amod	_	wf="178-го"|SpaceAfter=Yes
-3	году	годъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	0	root	_	wf="году"|SpaceAfter=Yes
-4	ноября	ноябрь	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	wf="ноября"|SpaceAfter=Yes
-5	в	въ	ADP	_	_	7	case	_	wf="в"|SpaceAfter=Yes
-6	11	11	ADJ	ANUM	Case=Acc|Gender=Masc|Number=Sing|NumForm=Digit|NumType=Ord	7	amod	_	wf="11"|SpaceAfter=Yes
+2	178-г(о)	178-й	ADJ	ANUM	Case=Gen|Gender=Masc|Number=Sing|NumForm=Combi|NumType=Ord	3	amod	_	wf="178-го"|_
+3	году	годъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	0	root	_	wf="году"|_
+4	ноября	ноябрь	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	wf="ноября"|_
+5	в	въ	ADP	_	_	7	case	_	wf="в"|_
+6	11	11	ADJ	ANUM	Case=Acc|Gender=Masc|Number=Sing|NumForm=Digit|NumType=Ord	7	amod	_	wf="11"|_
 7	де[нь]	день	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	nmod	_	wf="день"|SpaceAfter=No
 8	.	.	PUNCT	_	_	3	punct	_	wf="."|SpaceAfter=No
 

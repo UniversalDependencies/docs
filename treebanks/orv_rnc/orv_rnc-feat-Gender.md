@@ -11,7 +11,7 @@ It occurs with 3 different values: `Fem`, `Masc`, `Neut`.
 
 24379 tokens (50%) have a non-empty value of `Gender`.
 9204 types (80%) occur at least once with a non-empty value of `Gender`.
-4401 lemmas (76%) occur at least once with a non-empty value of `Gender`.
+4413 lemmas (76%) occur at least once with a non-empty value of `Gender`.
 The feature is used with 9 part-of-speech tags: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (11120; 23% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (4263; 9% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (3467; 7% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (2022; 4% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (1537; 3% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (1355; 3% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (558; 1% instances), <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (56; 0% instances), <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
@@ -23,12 +23,13 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 `NOUN` tokens may have the following values of `Gender`:
 
 * `Fem` (3697; 33% of non-empty `Gender`): <em>чети, гривенок, гривенки, муки, д(е)р(е)вни, земли, осмухи, денги, роспис(ь), денегъ</em>
-* `Masc` (5836; 52% of non-empty `Gender`): <em>весу, году, воза, государь, государю, государя, де[нь], день, верх, людей</em>
-* `Neut` (1587; 14% of non-empty `Gender`): <em>челом, челомъ, числа, имя, уши, масла, лык, целованью, мочал, времꙗ</em>
+* `Masc` (5835; 52% of non-empty `Gender`): <em>весу, году, воза, государь, государю, государя, де[нь], день, верх, людей</em>
+* `Neut` (1588; 14% of non-empty `Gender`): <em>челом, челомъ, числа, имя, уши, масла, лык, целованью, мочал, времꙗ</em>
 * `EMPTY` (239): <em>г., х., л., об., де, алт., с., публ., д., пол-пол-полчети</em>
 
 <table>
   <tr><th>Paradigm <i>гривенка</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>хривенку</em></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Count</tt></tt></td><td></td><td><em>гривенки</em></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>гривенки, [гри]венки</em></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>гри<noindex><i>{л._140_об.}</i></noindex>венок</em></td><td><em>гривенок, гривенак, гр[и]венок, гри<noindex><i>{л._130_об.}</i></noindex>венок, грив[е]нак, гриве[но]к, гривен[ок], гривено[к]</em></td></tr>
@@ -36,7 +37,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
   <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Count</tt></tt></td><td></td><td><em>гривенки, гри[ве]нки, гривенак</em></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (1762) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (1770) occur only with one value of `Gender`.
 
 ### `ADJ`
 
@@ -93,7 +94,7 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
   <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Loc</tt></tt></td><td><em>Пскове, Пъскове, Пъсковѣ, Пьсковѣ</em></td><td></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `PROPN`. 99% lemmas (1063) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `PROPN`. 99% lemmas (1065) occur only with one value of `Gender`.
 
 ### `DET`
 
@@ -137,7 +138,7 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 * `Fem` (144; 9% of non-empty `Gender`): <em>дана, послана, учинилась, лужана, сказала, записаны, имѣла, отпущена, послала, стала</em>
 * `Masc` (825; 54% of non-empty `Gender`): <em>привез, велѣлъ, сказал, взят, послал, писал, поколол, приложил, битых, послалъ</em>
 * `Neut` (568; 37% of non-empty `Gender`): <em>смерено, взято, принето, велѣно, велено, дано, послано, написано, было, писано</em>
-* `EMPTY` (2606): <em>бьет, велет(ь), имати, есть, нет, платить, пожалуй, пожалꙋи, привезли, пришли</em>
+* `EMPTY` (2605): <em>бьет, велет(ь), имати, есть, нет, платить, пожалуй, пожалꙋи, привезли, пришли</em>
 
 <table>
   <tr><th>Paradigm <i>взяти</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -189,8 +190,8 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 
 `NUM` tokens may have the following values of `Gender`:
 
-* `Fem` (216; 39% of non-empty `Gender`): <em>две, обе, двои, три, 2, четыре, 3, дву, полсемы, двѣ</em>
-* `Masc` (303; 54% of non-empty `Gender`): <em>два, один, дву, полтора, три, 3, четырех, 1, трех, четыре</em>
+* `Fem` (215; 39% of non-empty `Gender`): <em>две, обе, двои, три, 2, четыре, 3, дву, полсемы, двѣ</em>
+* `Masc` (304; 54% of non-empty `Gender`): <em>два, один, дву, полтора, три, 3, четырех, 1, трех, четыре</em>
 * `Neut` (39; 7% of non-empty `Gender`): <em>два, едино, оба, однем, Три, двое, двои, дву, единеми, едино(м)</em>
 * `EMPTY` (1040): <em>3, 4, 2, 5, 10, 6, 8, 12, 20, 35</em>
 
@@ -218,7 +219,7 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 * `Fem` (5; 9% of non-empty `Gender`): <em>была</em>
 * `Masc` (23; 41% of non-empty `Gender`): <em>былъ, был, бывшіꙗ, сущу, сꙋщꙋ</em>
 * `Neut` (28; 50% of non-empty `Gender`): <em>было, была</em>
-* `EMPTY` (284): <em>бы, есть, б, были, будет, еси, есте, бысть, буди, будутъ</em>
+* `EMPTY` (285): <em>бы, есть, б, были, будет, еси, есте, бысть, буди, будутъ</em>
 
 <table>
   <tr><th>Paradigm <i>быти</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -247,7 +248,7 @@ The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="orv_rnc-dep-amod.html">amod</a></tt>]--> ADJ</tt> (3311; 96%),
 <tt>NOUN --[<tt><a href="orv_rnc-dep-det.html">det</a></tt>]--> DET</tt> (1570; 96%),
 <tt>PROPN --[<tt><a href="orv_rnc-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (1054; 100%),
-<tt>NOUN --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> NOUN</tt> (975; 58%),
+<tt>NOUN --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> NOUN</tt> (974; 58%),
 <tt>NOUN --[<tt><a href="orv_rnc-dep-appos.html">appos</a></tt>]--> PROPN</tt> (567; 93%),
 <tt>NOUN --[<tt><a href="orv_rnc-dep-appos.html">appos</a></tt>]--> NOUN</tt> (259; 78%),
 <tt>PROPN --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> PROPN</tt> (232; 88%),

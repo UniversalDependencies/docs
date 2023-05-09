@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.7 release.
 The following people have contributed to making this treebank part of UD: Þórunn Arnardóttir, Hinrik Hafsteinsson, Einar Freyr Sigurðsson, Anton Karl Ingason, Eiríkur Rögnvaldsson, Joel C. Wallenberg.
 
 Repository: [UD_Faroese-FarPaHC](https://github.com/UniversalDependencies/UD_Faroese-FarPaHC)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfo_farpahc211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfo_farpahc212)<br />
+Download all treebanks: [UD 2.12](/#download)
 
 License: CC BY-SA 4.0
 
@@ -342,11 +342,20 @@ This project is funded by The Icelandic Student Innovation Fund, grant no. 20645
 </ul>
 
 <ul>
+  <li>Def
+    <ul>
+      <li>NOUN: faðirin, fólkið, dagin, heiminum, orðið, heimin, heimurin, lærusveinarnir, halgidóminum, ljósið</li>
+      <li>PROPN: Harrans, Jödarnir, Harrin, Jödunum, Jödanna, Fariseararnir, Jödarnar, hvíludagin, Harranum, himmalin</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Ind
     <ul>
       <li>ADV: frímóðiga</li>
-      <li>NOUN: faðirin, orð, móti, faðir, menn, navni, stað, anda, lív, maður</li>
-      <li>PROPN: Jesus, Guð, Pætur, Guðs, Jerúsalem, Guði, Harrans, harri, Jödarnir, Símun</li>
+      <li>NOUN: orð, móti, faðir, menn, navni, stað, anda, lív, maður, lærusveinar</li>
+      <li>PROPN: Jesus, Guð, Pætur, Guðs, Jerúsalem, Guði, harri, Símun, Paulus, Jóhannes</li>
     </ul>
   </li>
 </ul>

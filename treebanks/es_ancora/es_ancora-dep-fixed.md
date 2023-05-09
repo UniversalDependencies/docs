@@ -23,10 +23,10 @@ The following 57 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 8	fgColor:white
 # visual-style 8 9 fixed	color:blue
 1	Estabas	estar	AUX	vmii2s0	Mood=Ind|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin	5	cop	5:cop	_
-2	arriba	arriba	ADV	rg	_	5	obj	5:obj	_
+2	arriba	arriba	ADV	rg	_	5	obj	5:obj	ArgTem=arg2:loc
 3	con	con	ADP	sps00	_	5	case	5:case	_
 4	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	5:det	_
-5	gozo	gozo	NOUN	ncms000	Gender=Masc|Number=Sing	0	root	0:root	_
+5	gozo	gozo	NOUN	ncms000	Gender=Masc|Number=Sing	0	root	0:root	ArgTem=arg2:atr
 6	puesto	puesto	ADJ	aq0msp	Gender=Masc|Number=Sing|VerbForm=Part	5	amod	5:amod	_
 7	y	y	CCONJ	cc	_	11	cc	11:cc	_
 8	a	a	ADP	sps00	_	11	mark	11:mark	MWE=a_punto_de|MWEPOS=ADP
@@ -45,10 +45,10 @@ The following 57 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 8	fgColor:white
 # visual-style 8 10 fixed	color:blue
 1	Estabas	estar	AUX	vmii2s0	Mood=Ind|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin	5	cop	5:cop	_
-2	arriba	arriba	ADV	rg	_	5	obj	5:obj	_
+2	arriba	arriba	ADV	rg	_	5	obj	5:obj	ArgTem=arg2:loc
 3	con	con	ADP	sps00	_	5	case	5:case	_
 4	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	5:det	_
-5	gozo	gozo	NOUN	ncms000	Gender=Masc|Number=Sing	0	root	0:root	_
+5	gozo	gozo	NOUN	ncms000	Gender=Masc|Number=Sing	0	root	0:root	ArgTem=arg2:atr
 6	puesto	puesto	ADJ	aq0msp	Gender=Masc|Number=Sing|VerbForm=Part	5	amod	5:amod	_
 7	y	y	CCONJ	cc	_	11	cc	11:cc	_
 8	a	a	ADP	sps00	_	11	mark	11:mark	MWE=a_punto_de|MWEPOS=ADP
@@ -69,7 +69,7 @@ The following 57 pairs of parts of speech are connected with `fixed`: <tt><a hre
 1	-	-	PUNCT	fg	PunctType=Dash	3	punct	3:punct	_
 2	No	no	ADV	rn	Polarity=Neg	3	advmod	3:advmod	_
 3	murió	morir	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
-4	en	en	ADP	rg	_	3	advmod	3:advmod	MWE=en_el_acto|MWEPOS=ADV
+4	en	en	ADP	rg	_	3	advmod	3:advmod	MWE=en_el_acto|MWEPOS=ADV|ArgTem=argM:tmp
 5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	fixed	4:fixed	_
 6	acto	acto	NOUN	_	_	4	fixed	4:fixed	SpaceAfter=No
 7	.	.	PUNCT	fp	PunctType=Peri	3	punct	3:punct	_

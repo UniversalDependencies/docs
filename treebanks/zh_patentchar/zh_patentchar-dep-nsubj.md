@@ -89,7 +89,7 @@ The following 6 pairs of parts of speech are connected with `nsubj`: <tt><a href
 7	值	_	NOUN	_	_	8	nsubj	_	ExtPos=NOUN|SpaceAfter=No
 8	是否	_	ADV	_	_	1	dep	_	SpaceAfter=No
 9	超过	_	VERB	_	_	8	ccomp	_	SpaceAfter=No
-10	了	_	PART	_	_	9	iobj	_	SpaceAfter=No
+10	了	_	PART	_	_	9	obl:arg	_	SpaceAfter=No
 11	预设	_	VERB	_	_	14	acl	_	SpaceAfter=No
 12	的	_	PART	_	_	11	mark	_	ExtPos=PART|SpaceAfter=No
 13	第一	_	NUM	_	_	14	nummod	_	SpaceAfter=No
@@ -103,7 +103,7 @@ The following 6 pairs of parts of speech are connected with `nsubj`: <tt><a href
 21	功率	_	NOUN	_	_	22	nsubj	_	SpaceAfter=No
 22	是否	_	ADV	_	_	17	dep	_	SpaceAfter=No
 23	超过	_	VERB	_	_	22	ccomp	_	SpaceAfter=No
-24	了	_	PART	_	_	23	iobj	_	SpaceAfter=No
+24	了	_	PART	_	_	23	obl:arg	_	SpaceAfter=No
 25	预设	_	VERB	_	_	28	acl	_	SpaceAfter=No
 26	的	_	PART	_	_	25	mark	_	ExtPos=PART|SpaceAfter=No
 27	第二	_	NUM	_	_	28	nummod	_	SpaceAfter=No

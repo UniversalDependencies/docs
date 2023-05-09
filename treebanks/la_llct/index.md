@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.6 release.
 The following people have contributed to making this treebank part of UD: Timo Korkiakangas, Flavio Massimiliano Cecchini, Marco Passarotti.
 
 Repository: [UD_Latin-LLCT](https://github.com/UniversalDependencies/UD_Latin-LLCT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_llct211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_llct212)<br />
+Download all treebanks: [UD 2.12](/#download)
 
 License: CC BY-SA 4.0
 
@@ -131,7 +131,7 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
 </ul>
 
 <ul>
-<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+<li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
 </ul>
 
 <ul>
@@ -147,6 +147,7 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
   <li>Inf
   <ul>
     <li>AUX: esse, esset, essed, essem, essere, fuisset, phore, ese, fuisse, fuissent</li>
+    <li>VERB: scribere, conponere, fieri, reddere, dare, abere, venire, gubernare, facere, meliorare</li>
   </ul>
   </li>
 </ul>
@@ -156,14 +157,6 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
   <ul>
     <li>AUX: futura</li>
     <li>VERB: rogatus, actum, regnante, pertenentes, traditam, facta, faciendum, sita, conservata, pegiorata</li>
-  </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Vnoun
-  <ul>
-    <li>VERB: scribere, conponere, fieri, reddere, dare, abere, venire, gubernare, facere, meliorare</li>
   </ul>
   </li>
 </ul>
@@ -420,8 +413,8 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
       <li>AUX-Inf: esse, esset, ese, essem</li>
       <li>AUX-Part: futura</li>
       <li>VERB-Fin: debeamus, legitur, tenet, dicitur, spondeo, videtur, videor, tene, abeo, offero</li>
+      <li>VERB-Inf: scribere, conponere, fieri, reddere, dare, abere, venire, gubernare, facere, meliorare</li>
       <li>VERB-Part: regnante, pertenentes, pertinentes, tenente, abitantes, tenentes, faventem, pertenens, dante, pertenentibus</li>
-      <li>VERB-Vnoun: scribere, conponere, fieri, reddere, dare, abere, venire, gubernare, facere, meliorare</li>
     </ul>
   </li>
 </ul>
@@ -432,8 +425,8 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
       <li>AUX-Fin: fuerit, fuit, fuerint, fui, fuisset, fuerunt, fuere, fuerat, fueret, fuissent</li>
       <li>AUX-Inf: fuisset, fuisse, fuissent</li>
       <li>VERB-Fin: subscripsi, dedi, dedisti, conplevi, rogavimus, convenit, rogavit, rogavi, quesierimus, recepi</li>
+      <li>VERB-Inf: firmasse, procedisset, recepisset, tradedisse, vidisset, vindedisse</li>
       <li>VERB-Part: rogatus, actum, traditam, facta, sita, conservata, pegiorata, ingressus, tradita, designatas</li>
-      <li>VERB-Vnoun: firmasse, procedisset, recepisset, tradedisse, vidisset, vindedisse</li>
     </ul>
   </li>
 </ul>
@@ -525,8 +518,8 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
     <ul>
       <li>AUX-Fin: abuit, abuerimus, abueritis, abuisset, abemus, aberent, abetis, abuerit, habemus</li>
       <li>VERB-Fin: subscripsi, debeamus, dedi, dedisti, tenet, conplevi, rogavimus, spondeo, convenit, rogavit</li>
+      <li>VERB-Inf: scribere, conponere, reddere, dare, abere, venire, gubernare, facere, meliorare, laborare</li>
       <li>VERB-Part: regnante, pertenentes, pertinentes, tenente, abitantes, tenentes, faventem, pertenens, dante, pertenentibus</li>
-      <li>VERB-Vnoun: scribere, conponere, reddere, dare, abere, venire, gubernare, facere, meliorare, laborare</li>
     </ul>
   </li>
 </ul>
@@ -535,8 +528,8 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
   <li>Pass
     <ul>
       <li>VERB-Fin: legitur, dicitur, videtur, videor, vocitatur, regitur, vocatur, pegioretur, melioretur, agitur</li>
+      <li>VERB-Inf: fieri, subtragi, retolli, retragi, fierit, legi, suptragi, relegi, adduci, disrumpi</li>
       <li>VERB-Part: rogatus, actum, traditam, facta, faciendum, sita, conservata, pegiorata, ingressus, tradita</li>
-      <li>VERB-Vnoun: fieri, subtragi, retolli, retragi, fierit, legi, suptragi, relegi, adduci, disrumpi</li>
     </ul>
   </li>
 </ul>
@@ -880,6 +873,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Acc (70)</li>
       <li>VERB-Fin--PRON-Dat (1)</li>
       <li>VERB-Fin--PRON-Nom (1537)</li>
+      <li>VERB-Inf--NOUN-Abl (2)</li>
+      <li>VERB-Inf--NOUN-Acc (13)</li>
+      <li>VERB-Inf--NOUN-Dat (3)</li>
+      <li>VERB-Inf--NOUN-Nom (4)</li>
+      <li>VERB-Inf--PRON-Acc (83)</li>
+      <li>VERB-Inf--PRON-Nom (6)</li>
       <li>VERB-Part--NOUN-Abl (543)</li>
       <li>VERB-Part--NOUN-Abl-ADP(de) (1)</li>
       <li>VERB-Part--NOUN-Acc (6)</li>
@@ -888,12 +887,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--PRON-Abl (4)</li>
       <li>VERB-Part--PRON-Acc (9)</li>
       <li>VERB-Part--PRON-Nom (132)</li>
-      <li>VERB-Vnoun--NOUN-Abl (2)</li>
-      <li>VERB-Vnoun--NOUN-Acc (13)</li>
-      <li>VERB-Vnoun--NOUN-Dat (3)</li>
-      <li>VERB-Vnoun--NOUN-Nom (4)</li>
-      <li>VERB-Vnoun--PRON-Acc (83)</li>
-      <li>VERB-Vnoun--PRON-Nom (6)</li>
     </ul>
   </li>
 </ul>
@@ -909,13 +902,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Nom (105)</li>
       <li>VERB-Fin--PRON-Acc (1094)</li>
       <li>VERB-Fin--PRON-Nom (14)</li>
+      <li>VERB-Inf--NOUN-Acc (1530)</li>
+      <li>VERB-Inf--NOUN-Nom (98)</li>
+      <li>VERB-Inf--PRON-Acc (322)</li>
+      <li>VERB-Inf--PRON-Nom (11)</li>
       <li>VERB-Part--NOUN-Acc (820)</li>
       <li>VERB-Part--NOUN-Nom (11)</li>
       <li>VERB-Part--PRON-Acc (89)</li>
-      <li>VERB-Vnoun--NOUN-Acc (1530)</li>
-      <li>VERB-Vnoun--NOUN-Nom (98)</li>
-      <li>VERB-Vnoun--PRON-Acc (322)</li>
-      <li>VERB-Vnoun--PRON-Nom (11)</li>
     </ul>
   </li>
 </ul>
@@ -925,9 +918,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB-Fin--NOUN-Nom (6)</li>
       <li>VERB-Fin--PRON-Nom (1)</li>
+      <li>VERB-Inf--NOUN-Nom (3)</li>
+      <li>VERB-Inf--PRON-Nom (1)</li>
       <li>VERB-Part--NOUN-Nom (1)</li>
-      <li>VERB-Vnoun--NOUN-Nom (3)</li>
-      <li>VERB-Vnoun--PRON-Nom (1)</li>
     </ul>
   </li>
 </ul>

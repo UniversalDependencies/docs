@@ -9,79 +9,74 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `csubj`: <tt><a href="ga_twittirish-dep-csubj-cleft.html">csubj:cleft</a></tt>, <tt><a href="ga_twittirish-dep-csubj-cop.html">csubj:cop</a></tt>.
 
-3 nodes (0%) are attached to their parents as `csubj`.
+5 nodes (0%) are attached to their parents as `csubj`.
 
-2 instances of `csubj` (67%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.33333333333333.
+3 instances of `csubj` (60%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.2.
 
-The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt> (1; 33% instances), <tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (1; 33% instances), <tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt> (1; 33% instances).
+The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt> (2; 40% instances), <tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (2; 40% instances), <tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt> (1; 20% instances).
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 14 5 csubj	color:blue
-1	RT	RT	SYM	_	_	4	parataxis:rt	_	_
-2	@rtebrodclub	@rtebrodclub	PROPN	_	_	4	vocative:mention	_	SpaceAfter=No
-3	:	:	PUNCT	_	_	4	punct	_	_
-4	Remember	Remember	VERB	_	_	0	root	_	CSType=Intra|Lang=en
-5	following	following	VERB	_	_	14	csubj	_	CSType=Intra|Lang=en
-6	ar	ar	ADP	_	_	7	case	_	Lang=ga
-7	Twitter	Twitter	PROPN	_	_	5	obl	_	_
-8	nó	nó	CCONJ	_	_	9	cc	_	Lang=ga
-9	liking	liking	VERB	_	_	5	conj	_	CSType=Intra|Lang=en
-10	ar	ar	ADP	_	_	11	case	_	CSType=Intra|Lang=ga
-11	Facebook	Facebook	PROPN	_	_	9	obl	_	_
-12	is	be	AUX	_	_	14	cop	_	CSType=Intra|Lang=en
-13	only	only	ADV	_	_	14	advmod	_	CSType=Intra|Lang=en
-14	half	half	NOUN	_	_	4	ccomp	_	CSType=Intra|Lang=en
-15	the	the	DET	_	_	16	det	_	CSType=Intra|Lang=en
-16	task	task	NOUN	_	_	14	nmod	_	CSType=Intra|Lang=en|SpaceAfter=No
-17	!	!	PUNCT	_	_	4	punct	_	_
-18	Sínigh	sínigh	VERB	_	_	4	parataxis:sentence	_	Lang=ga
-19	suas	suas	ADV	_	_	18	advmod	_	Lang=ga
-20	chomh	chomh	ADV	_	_	18	advmod	_	Lang=ga
-21	maith	maith	ADJ	_	_	20	fixed	_	Lang=ga|SpaceAfter=No
-22	!	!	PUNCT	_	_	18	punct	_	_
-23	Scaip	scaip	VERB	_	_	18	parataxis:sentence	_	Lang=ga
-24	an	an	DET	_	_	25	det	_	Lang=ga
-25	scéal	scéal	NOUN	_	_	23	obj	_	Lang=ga|SpaceAfter=No
-26	!	!	PUNCT	_	_	23	punct	_	_
-27	GRMA	GRMA	VERB	_	_	23	parataxis:sentence	_	Lang=ga|SpaceAfter=No
-28	!	!	PUNCT	_	_	27	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 2 csubj	color:blue
+1	@user48	@user48	PROPN	_	_	2	vocative:mention	_	_
+2	Missing	miss	VERB	_	_	6	csubj	_	Lang=en
+3	you	you	PRON	_	_	2	obj	_	Lang=en
+4	is	be	AUX	_	_	6	cop	_	Lang=en
+5	my	my	PRON	_	_	6	nmod:poss	_	Lang=en
+6	craic	craic	NOUN	_	_	0	root	_	Lang=ga|SpaceAfter=No
+7	!	!	PUNCT	_	_	6	punct	_	_
+8	Bhfuil	bí	VERB	_	_	6	parataxis:sentence	_	Lang=ga
+9	fóin	fón	NOUN	_	_	8	nsubj	_	Lang=ga
+10	agat	ag	ADP	_	_	8	obl:prep	_	Lang=ga
+11	go	go	ADP	_	_	12	case	_	Lang=ga
+12	foill	fóill	ADJ	_	_	8	advmod	_	SpaceAfter=No
+13	?	?	PUNCT	_	_	8	punct	_	_
+14	Ag	ag	ADP	_	_	15	case	_	Lang=ga
+15	dúil	dúil	NOUN	_	_	22	xcomp	_	Lang=ga
+16	go	go	PART	_	_	17	mark:prt	_	Lang=ga
+17	mór	mór	ADJ	_	_	15	advmod	_	Lang=ga
+18	le	le	ADP	_	_	19	case	_	Lang=ga
+19	fleadh	fleadh	PROPN	_	_	22	nmod	_	Lang=ga
+20	feirste	Fearsaid	PROPN	_	_	19	flat:name	_	Lang=ga|SpaceAfter=No
+21	,	,	PUNCT	_	_	22	punct	_	_
+22	cuma	cuma	NOUN	_	_	8	obj	_	Lang=ga
+23	maith	maith	ADJ	_	_	22	amod	_	CorrectForm=mhaith|Lang=ga
+24	air	ar	ADP	_	_	8	obl:prep	_	SpaceAfter=No
+25	!	!	PUNCT	_	_	8	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 13 csubj	color:blue
-1	@s	@s	PROPN	_	_	4	vocative:mention	_	_
-2	@iGael1	@iGael1	PROPN	_	_	4	vocative:mention	_	_
-3	ní	ní	PART	_	_	4	advmod	_	Lang=ga
-4	fhaca	feic	VERB	_	_	0	root	_	Lang=ga
-5	tú	tú	PRON	_	_	4	nsubj	_	Lang=ga
-6	é	é	PRON	_	_	4	obj	_	Lang=ga
-7	seo	seo	DET	_	_	6	det	_	Lang=ga
-8	ariamh	riamh	ADV	_	_	4	advmod	_	Lang=ga
-9	Des	Des	PROPN	_	_	4	vocative	_	SpaceAfter=No
-10	?	?	PUNCT	_	_	4	punct	_	_
-11	Caithfidh	caith	VERB	_	_	4	parataxis:sentence	_	Lang=ga
-12	nach	is	AUX	_	_	13	cop	_	Lang=ga
-13	duine	duine	NOUN	_	_	11	csubj	_	Lang=ga
-14	fiosrach	fiosrach	ADJ	_	_	13	amod	_	Lang=ga
-15	thú	tú	PRON	_	_	13	nsubj	_	Lang=ga|SpaceAfter=No
-16	!	!	PUNCT	_	_	11	punct	_	_
-17	Bhfaca	feic	VERB	_	_	11	parataxis:sentence	_	Lang=ga
-18	tú	tú	PRON	_	_	17	nsubj	_	Lang=ga
-19	ubh	ubh	NOUN	_	_	17	obj	_	Lang=ga
-20	reoite	reoite	ADJ	_	_	19	amod	_	Lang=ga
-21	?	?	PUNCT	_	_	17	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 6 csubj	color:blue
+1	@user963	@user963	PROPN	_	_	2	vocative:mention	_	_
+2	Teastaíonn	teastaigh	VERB	_	_	0	root	_	Lang=ga
+3	uaim	ó	ADP	_	_	2	obl:prep	_	Lang=ga
+4	RT	RT	NOUN	_	_	6	obj	_	Lang=ga
+5	a	a	PART	_	_	6	mark	_	Lang=ga
+6	thabhairt	tabhairt	NOUN	_	_	2	csubj	_	Lang=ga
+7	duit	do	ADP	_	_	6	obl:prep	_	Lang=ga
+8	ó	ó	ADP	_	_	9	case	_	Lang=ga
+9	chuntas	cuntas	NOUN	_	_	6	obl	_	Lang=ga
+10	bl.	bl	NOUN	_	_	9	nmod	_	FullForm=bliain|Lang=ga
+11	na	an	DET	_	_	13	det	_	Lang=ga
+12	G.	G	PROPN	_	_	10	nmod	_	FullForm=Gaeilge|Lang=ga
+13	Deacair	Deacair	ADJ	_	_	2	parataxis:sentence	_	Lang=ga
+14	smacht	smacht	NOUN	_	_	16	obj	_	Lang=ga
+15	a	a	PART	_	_	16	mark	_	Lang=ga
+16	choinneáil	coinneáil	NOUN	_	_	13	xcomp	_	Lang=ga
+17	orm	ar	ADP	_	_	16	obl:prep	_	Lang=ga
+18	féin	féin	PRON	_	_	17	nmod	_	Lang=ga|SpaceAfter=No
+19	.	.	PUNCT	_	_	13	punct	_	_
 
 ~~~
 
@@ -92,8 +87,8 @@ The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 5 csubj	color:blue
-1	@daithideb	@daithideb	PROPN	_	_	3	vocative:mention	_	_
-2	@aileendonegan	@aileendonegan	PROPN	_	_	3	vocative:mention	_	_
+1	@user1439	@user1439	PROPN	_	_	3	vocative:mention	_	_
+2	@user1168	@user1168	PROPN	_	_	3	vocative:mention	_	_
 3	ta	bí	VERB	_	_	0	root	_	CorrectForm=tá|Lang=ga
 4	'	'	PUNCT	_	_	5	punct	_	SpaceAfter=No
 5	dia	Dia	PROPN	_	_	3	csubj	_	Lang=ga

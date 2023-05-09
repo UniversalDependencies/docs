@@ -23,14 +23,14 @@ The following 4 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 5 flat	color:blue
-1	Лѣта	лѣто	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	0	root	_	Norm=Лѣта
-2	7206	7206	ADJ	_	NumForm=Digit	1	amod	_	Norm=7206|SpaceAfter=No
-3	,	,	PUNCT	_	_	2	punct	_	Norm=,
-4	же	же	PART	_	_	2	advmod	_	Norm=же
-5	февраля	февраль	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	flat	_	Norm=февраля
-6	въ	въ	ADP	_	_	7	case	_	Norm=въ
-7	день	день	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	nmod	_	Norm=день|SpaceAfter=No
-8	.	.	PUNCT	_	_	1	punct	_	Norm=.
+1	Лѣта	лѣто	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	0	root	_	Norm="Лѣта"
+2	7206	7206	ADJ	_	NumForm=Digit	1	amod	_	Norm="7206"|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	Norm=","
+4	же	же	PART	_	_	2	advmod	_	Norm="же"
+5	февраля	февраль	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	flat	_	Norm="февраля"
+6	въ	въ	ADP	_	_	7	case	_	Norm="въ"
+7	день	день	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	nmod	_	Norm="день"|SpaceAfter=No
+8	.	.	PUNCT	_	_	1	punct	_	Norm="."
 
 ~~~
 
@@ -70,20 +70,20 @@ The following 4 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 1	fgColor:white
 # visual-style 1 3 flat	color:blue
 1	148-го	148-й	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|NumForm=Digit	0	root	_	Norm=148-го|SpaceAfter=No
-2	,	,	PUNCT	_	_	3	punct	_	Norm=,|SpaceAfter=Yes
-3	ноября	ноябрь	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	flat	_	Norm=ноября|SpaceAfter=Yes
-4	въ	въ	ADP	_	_	6	case	_	Norm=въ|SpaceAfter=Yes
-5	3	3	ADJ	_	NumForm=Digit	6	amod	_	Norm=3|SpaceAfter=Yes
+2	,	,	PUNCT	_	_	3	punct	_	Norm=,|_
+3	ноября	ноябрь	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	flat	_	Norm=ноября|_
+4	въ	въ	ADP	_	_	6	case	_	Norm=въ|_
+5	3	3	ADJ	_	NumForm=Digit	6	amod	_	Norm=3|_
 6	день	день	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	nmod	_	Norm=день|SpaceAfter=No
-7	,	,	PUNCT	_	_	10	punct	_	Norm=,|SpaceAfter=Yes
-8	з	съ	ADP	_	_	10	case	_	Norm=з|SpaceAfter=Yes
-9	Донскою	донской	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	Norm=Донскою|SpaceAfter=Yes
+7	,	,	PUNCT	_	_	10	punct	_	Norm=,|_
+8	з	съ	ADP	_	_	10	case	_	Norm=з|_
+9	Донскою	донской	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	Norm=Донскою|_
 10	станицею	станица	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	1	orphan	_	Norm=станицею|SpaceAfter=No
-11	,	,	PUNCT	_	_	13	punct	_	Norm=,|SpaceAfter=Yes
-12	съ	съ	ADP	_	_	13	case	_	Norm=съ|SpaceAfter=Yes
-13	атаманомъ	атаманъ	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	10	conj	_	Norm=атаманомъ|SpaceAfter=Yes
-14	съ	съ	ADP	_	_	15	case	_	Norm=съ|SpaceAfter=Yes
-15	Сидоромъ	Сидоръ	PROPN	_	Case=Ins|Gender=Masc|Number=Sing	13	appos	_	Norm=Сидоромъ|SpaceAfter=Yes
+11	,	,	PUNCT	_	_	13	punct	_	Norm=,|_
+12	съ	съ	ADP	_	_	13	case	_	Norm=съ|_
+13	атаманомъ	атаманъ	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	10	conj	_	Norm=атаманомъ|_
+14	съ	съ	ADP	_	_	15	case	_	Norm=съ|_
+15	Сидоромъ	Сидоръ	PROPN	_	Case=Ins|Gender=Masc|Number=Sing	13	appos	_	Norm=Сидоромъ|_
 16	Олѳимовымъ	Олфимовъ	PROPN	_	Case=Ins|Gender=Masc|Number=Sing	15	flat:name	_	Norm=Олѳимовымъ|SpaceAfter=No
 17	.	.	PUNCT	_	_	1	punct	_	Norm=.
 

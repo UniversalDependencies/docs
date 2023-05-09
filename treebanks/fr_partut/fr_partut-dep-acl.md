@@ -25,7 +25,7 @@ The following 7 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 6 3 acl	color:blue
 1	Après	après	ADP	E	_	3	mark	_	_
 2	avoir	avoir	AUX	VA	VerbForm=Inf	3	aux	_	_
-3	sporulé	sporulé	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	acl	_	SpaceAfter=No
+3	sporulé	sporuler	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	acl	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	3	punct	_	_
 5	ils	il	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	_
 6	pourrissent	pourrissent	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No

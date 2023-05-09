@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Faroese-FarPaHC: Features: `Definite`
 
 This feature is universal.
-It occurs with 1 different values: `Ind`.
+It occurs with 2 different values: `Def`, `Ind`.
 
 5963 tokens (15%) have a non-empty value of `Definite`.
 1786 types (50%) occur at least once with a non-empty value of `Definite`.
@@ -18,11 +18,12 @@ The feature is used with 3 part-of-speech tags: <tt><a href="fo_farpahc-pos-NOUN
 
 4132 <tt><a href="fo_farpahc-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `NOUN` and `Definite` co-occurred: <tt><a href="fo_farpahc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3074; 74%).
+The most frequent other feature values with which `NOUN` and `Definite` co-occurred: <tt><a href="fo_farpahc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3075; 74%).
 
 `NOUN` tokens may have the following values of `Definite`:
 
-* `Ind` (4132; 100% of non-empty `Definite`): <em>faðirin, orð, móti, faðir, menn, navni, stað, anda, lív, maður</em>
+* `Def` (1462; 35% of non-empty `Definite`): <em>faðirin, fólkið, dagin, heiminum, orðið, heimin, heimurin, lærusveinarnir, halgidóminum, ljósið</em>
+* `Ind` (2670; 65% of non-empty `Definite`): <em>orð, móti, faðir, menn, navni, stað, anda, lív, maður, lærusveinar</em>
 
 ### `PROPN`
 
@@ -32,7 +33,8 @@ The most frequent other feature values with which `PROPN` and `Definite` co-occu
 
 `PROPN` tokens may have the following values of `Definite`:
 
-* `Ind` (1830; 100% of non-empty `Definite`): <em>Jesus, Guð, Pætur, Guðs, Jerúsalem, Guði, Harrans, harri, Jödarnir, Símun</em>
+* `Def` (197; 11% of non-empty `Definite`): <em>Harrans, Jödarnir, Harrin, Jödunum, Jödanna, Fariseararnir, Jödarnar, hvíludagin, Harranum, himmalin</em>
+* `Ind` (1633; 89% of non-empty `Definite`): <em>Jesus, Guð, Pætur, Guðs, Jerúsalem, Guði, harri, Símun, Paulus, Jóhannes</em>
 
 ### `ADV`
 
@@ -48,14 +50,14 @@ The most frequent other feature values with which `ADV` and `Definite` co-occurr
 ## Relations with Agreement in `Definite`
 
 The 10 most frequent relations where parent and child node agree in `Definite`:
-<tt>NOUN --[<tt><a href="fo_farpahc-dep-nmod-poss.html">nmod:poss</a></tt>]--> PROPN</tt> (199; 100%),
-<tt>NOUN --[<tt><a href="fo_farpahc-dep-obl.html">obl</a></tt>]--> NOUN</tt> (192; 100%),
-<tt>NOUN --[<tt><a href="fo_farpahc-dep-conj.html">conj</a></tt>]--> NOUN</tt> (143; 100%),
-<tt>NOUN --[<tt><a href="fo_farpahc-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (121; 100%),
-<tt>NOUN --[<tt><a href="fo_farpahc-dep-obl.html">obl</a></tt>]--> PROPN</tt> (72; 100%),
+<tt>NOUN --[<tt><a href="fo_farpahc-dep-nmod-poss.html">nmod:poss</a></tt>]--> PROPN</tt> (151; 76%),
+<tt>NOUN --[<tt><a href="fo_farpahc-dep-conj.html">conj</a></tt>]--> NOUN</tt> (123; 86%),
+<tt>NOUN --[<tt><a href="fo_farpahc-dep-obl.html">obl</a></tt>]--> NOUN</tt> (123; 64%),
 <tt>PROPN --[<tt><a href="fo_farpahc-dep-dep.html">dep</a></tt>]--> PROPN</tt> (64; 100%),
-<tt>PROPN --[<tt><a href="fo_farpahc-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (61; 100%),
-<tt>PROPN --[<tt><a href="fo_farpahc-dep-appos.html">appos</a></tt>]--> NOUN</tt> (54; 100%),
-<tt>PROPN --[<tt><a href="fo_farpahc-dep-conj.html">conj</a></tt>]--> PROPN</tt> (46; 100%),
-<tt>NOUN --[<tt><a href="fo_farpahc-dep-appos.html">appos</a></tt>]--> PROPN</tt> (37; 100%).
+<tt>PROPN --[<tt><a href="fo_farpahc-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (55; 90%),
+<tt>PROPN --[<tt><a href="fo_farpahc-dep-appos.html">appos</a></tt>]--> NOUN</tt> (49; 91%),
+<tt>PROPN --[<tt><a href="fo_farpahc-dep-conj.html">conj</a></tt>]--> PROPN</tt> (45; 98%),
+<tt>PROPN --[<tt><a href="fo_farpahc-dep-obl.html">obl</a></tt>]--> PROPN</tt> (32; 89%),
+<tt>NOUN --[<tt><a href="fo_farpahc-dep-appos.html">appos</a></tt>]--> PROPN</tt> (20; 54%),
+<tt>PROPN --[<tt><a href="fo_farpahc-dep-obl.html">obl</a></tt>]--> NOUN</tt> (16; 59%).
 

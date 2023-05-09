@@ -36,7 +36,7 @@ The 3rd highest number of forms (1) was observed with the lemma “.”: <em>.</
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="en_pronouns-dep-punct.html">punct</a></tt> (320; 100% instances)
 
-Parents of `PUNCT` nodes belong to 5 different parts of speech: <tt><a href="en_pronouns-pos-VERB.html">VERB</a></tt> (225; 70% instances), <tt><a href="en_pronouns-pos-PRON.html">PRON</a></tt> (70; 22% instances), <tt><a href="en_pronouns-pos-ADV.html">ADV</a></tt> (10; 3% instances), <tt><a href="en_pronouns-pos-NOUN.html">NOUN</a></tt> (10; 3% instances), <tt><a href="en_pronouns-pos-ADJ.html">ADJ</a></tt> (5; 2% instances)
+Parents of `PUNCT` nodes belong to 4 different parts of speech: <tt><a href="en_pronouns-pos-VERB.html">VERB</a></tt> (230; 72% instances), <tt><a href="en_pronouns-pos-PRON.html">PRON</a></tt> (70; 22% instances), <tt><a href="en_pronouns-pos-ADJ.html">ADJ</a></tt> (10; 3% instances), <tt><a href="en_pronouns-pos-NOUN.html">NOUN</a></tt> (10; 3% instances)
 
 320 (100%) `PUNCT` nodes are leaves.
 

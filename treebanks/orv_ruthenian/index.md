@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.11 release
 The following people have contributed to making this treebank part of UD: Olga Lyashevskaya, Dmitri Sitchinava, Maria Shvedova.
 
 Repository: [UD_Old_East_Slavic-Ruthenian](https://github.com/UniversalDependencies/UD_Old_East_Slavic-Ruthenian)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udorv_ruthenian211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udorv_ruthenian212)<br />
+Download all treebanks: [UD 2.12](/#download)
 
 License: CC BY-SA 4.0
 
@@ -36,7 +36,7 @@ Do not submit pull requests against the UD repository.
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | not available |
+| Lemmas | annotated manually |
 | UPOS | annotated manually, natively in UD style |
 | XPOS | not available |
 | Features | annotated manually, natively in UD style |
@@ -62,25 +62,25 @@ We are grateful to Maria Ermolova, Vladimir Shatin, and Natalia Iordani for comm
 
 ## POS Tags
 
-[ADJ](orv_ruthenian-pos-ADJ.html) – [ADP](orv_ruthenian-pos-ADP.html) – [ADV](orv_ruthenian-pos-ADV.html) – [AUX](orv_ruthenian-pos-AUX.html) – [CCONJ](orv_ruthenian-pos-CCONJ.html) – [DET](orv_ruthenian-pos-DET.html) – [NOUN](orv_ruthenian-pos-NOUN.html) – [NUM](orv_ruthenian-pos-NUM.html) – [PART](orv_ruthenian-pos-PART.html) – [PRON](orv_ruthenian-pos-PRON.html) – [PROPN](orv_ruthenian-pos-PROPN.html) – [PUNCT](orv_ruthenian-pos-PUNCT.html) – [SCONJ](orv_ruthenian-pos-SCONJ.html) – [VERB](orv_ruthenian-pos-VERB.html) – [X](orv_ruthenian-pos-X.html)
+[ADJ](orv_ruthenian-pos-ADJ.html) – [ADP](orv_ruthenian-pos-ADP.html) – [ADV](orv_ruthenian-pos-ADV.html) – [AUX](orv_ruthenian-pos-AUX.html) – [CCONJ](orv_ruthenian-pos-CCONJ.html) – [DET](orv_ruthenian-pos-DET.html) – [NOUN](orv_ruthenian-pos-NOUN.html) – [NUM](orv_ruthenian-pos-NUM.html) – [PART](orv_ruthenian-pos-PART.html) – [PRON](orv_ruthenian-pos-PRON.html) – [PROPN](orv_ruthenian-pos-PROPN.html) – [PUNCT](orv_ruthenian-pos-PUNCT.html) – [SCONJ](orv_ruthenian-pos-SCONJ.html) – [SYM](orv_ruthenian-pos-SYM.html) – [VERB](orv_ruthenian-pos-VERB.html) – [X](orv_ruthenian-pos-X.html)
 
 ## Features
 
-[Abbr](orv_ruthenian-feat-Abbr.html) – [Analyt](orv_ruthenian-feat-Analyt.html) – [Animacy](orv_ruthenian-feat-Animacy.html) – [Aspect](orv_ruthenian-feat-Aspect.html) – [Case](orv_ruthenian-feat-Case.html) – [Clitic](orv_ruthenian-feat-Clitic.html) – [Degree](orv_ruthenian-feat-Degree.html) – [Foreign](orv_ruthenian-feat-Foreign.html) – [Gender](orv_ruthenian-feat-Gender.html) – [Mood](orv_ruthenian-feat-Mood.html) – [NameType](orv_ruthenian-feat-NameType.html) – [Number](orv_ruthenian-feat-Number.html) – [NumForm](orv_ruthenian-feat-NumForm.html) – [NumType](orv_ruthenian-feat-NumType.html) – [Person](orv_ruthenian-feat-Person.html) – [Polarity](orv_ruthenian-feat-Polarity.html) – [Poss](orv_ruthenian-feat-Poss.html) – [PronType](orv_ruthenian-feat-PronType.html) – [Reflex](orv_ruthenian-feat-Reflex.html) – [Tense](orv_ruthenian-feat-Tense.html) – [Variant](orv_ruthenian-feat-Variant.html) – [VerbForm](orv_ruthenian-feat-VerbForm.html) – [Voice](orv_ruthenian-feat-Voice.html)
+[Abbr](orv_ruthenian-feat-Abbr.html) – [Analyt](orv_ruthenian-feat-Analyt.html) – [Animacy](orv_ruthenian-feat-Animacy.html) – [Aspect](orv_ruthenian-feat-Aspect.html) – [Case](orv_ruthenian-feat-Case.html) – [Clitic](orv_ruthenian-feat-Clitic.html) – [Degree](orv_ruthenian-feat-Degree.html) – [Foreign](orv_ruthenian-feat-Foreign.html) – [Gender](orv_ruthenian-feat-Gender.html) – [Mood](orv_ruthenian-feat-Mood.html) – [NameType](orv_ruthenian-feat-NameType.html) – [Number](orv_ruthenian-feat-Number.html) – [NumForm](orv_ruthenian-feat-NumForm.html) – [NumType](orv_ruthenian-feat-NumType.html) – [Person](orv_ruthenian-feat-Person.html) – [Polarity](orv_ruthenian-feat-Polarity.html) – [Poss](orv_ruthenian-feat-Poss.html) – [PronType](orv_ruthenian-feat-PronType.html) – [Reflex](orv_ruthenian-feat-Reflex.html) – [Tense](orv_ruthenian-feat-Tense.html) – [Typo](orv_ruthenian-feat-Typo.html) – [Variant](orv_ruthenian-feat-Variant.html) – [VerbForm](orv_ruthenian-feat-VerbForm.html) – [Voice](orv_ruthenian-feat-Voice.html)
 
 ## Relations
 
-[acl](orv_ruthenian-dep-acl.html) – [acl:relcl](orv_ruthenian-dep-acl-relcl.html) – [advcl](orv_ruthenian-dep-advcl.html) – [advmod](orv_ruthenian-dep-advmod.html) – [amod](orv_ruthenian-dep-amod.html) – [appos](orv_ruthenian-dep-appos.html) – [aux](orv_ruthenian-dep-aux.html) – [aux:pass](orv_ruthenian-dep-aux-pass.html) – [case](orv_ruthenian-dep-case.html) – [cc](orv_ruthenian-dep-cc.html) – [ccomp](orv_ruthenian-dep-ccomp.html) – [conj](orv_ruthenian-dep-conj.html) – [cop](orv_ruthenian-dep-cop.html) – [csubj](orv_ruthenian-dep-csubj.html) – [dep](orv_ruthenian-dep-dep.html) – [det](orv_ruthenian-dep-det.html) – [expl](orv_ruthenian-dep-expl.html) – [fixed](orv_ruthenian-dep-fixed.html) – [flat:name](orv_ruthenian-dep-flat-name.html) – [iobj](orv_ruthenian-dep-iobj.html) – [mark](orv_ruthenian-dep-mark.html) – [nmod](orv_ruthenian-dep-nmod.html) – [nsubj](orv_ruthenian-dep-nsubj.html) – [nsubj:pass](orv_ruthenian-dep-nsubj-pass.html) – [nummod](orv_ruthenian-dep-nummod.html) – [nummod:gov](orv_ruthenian-dep-nummod-gov.html) – [obj](orv_ruthenian-dep-obj.html) – [obl](orv_ruthenian-dep-obl.html) – [obl:tmod](orv_ruthenian-dep-obl-tmod.html) – [orphan](orv_ruthenian-dep-orphan.html) – [parataxis](orv_ruthenian-dep-parataxis.html) – [punct](orv_ruthenian-dep-punct.html) – [root](orv_ruthenian-dep-root.html) – [vocative](orv_ruthenian-dep-vocative.html) – [xcomp](orv_ruthenian-dep-xcomp.html)
+[acl](orv_ruthenian-dep-acl.html) – [acl:relcl](orv_ruthenian-dep-acl-relcl.html) – [advcl](orv_ruthenian-dep-advcl.html) – [advmod](orv_ruthenian-dep-advmod.html) – [amod](orv_ruthenian-dep-amod.html) – [appos](orv_ruthenian-dep-appos.html) – [aux](orv_ruthenian-dep-aux.html) – [aux:pass](orv_ruthenian-dep-aux-pass.html) – [case](orv_ruthenian-dep-case.html) – [cc](orv_ruthenian-dep-cc.html) – [ccomp](orv_ruthenian-dep-ccomp.html) – [compound](orv_ruthenian-dep-compound.html) – [conj](orv_ruthenian-dep-conj.html) – [cop](orv_ruthenian-dep-cop.html) – [csubj](orv_ruthenian-dep-csubj.html) – [dep](orv_ruthenian-dep-dep.html) – [det](orv_ruthenian-dep-det.html) – [discourse](orv_ruthenian-dep-discourse.html) – [dislocated](orv_ruthenian-dep-dislocated.html) – [expl](orv_ruthenian-dep-expl.html) – [fixed](orv_ruthenian-dep-fixed.html) – [flat:foreign](orv_ruthenian-dep-flat-foreign.html) – [flat:name](orv_ruthenian-dep-flat-name.html) – [iobj](orv_ruthenian-dep-iobj.html) – [mark](orv_ruthenian-dep-mark.html) – [nmod](orv_ruthenian-dep-nmod.html) – [nsubj](orv_ruthenian-dep-nsubj.html) – [nsubj:pass](orv_ruthenian-dep-nsubj-pass.html) – [nummod](orv_ruthenian-dep-nummod.html) – [nummod:gov](orv_ruthenian-dep-nummod-gov.html) – [obj](orv_ruthenian-dep-obj.html) – [obl](orv_ruthenian-dep-obl.html) – [obl:tmod](orv_ruthenian-dep-obl-tmod.html) – [orphan](orv_ruthenian-dep-orphan.html) – [parataxis](orv_ruthenian-dep-parataxis.html) – [punct](orv_ruthenian-dep-punct.html) – [reparandum](orv_ruthenian-dep-reparandum.html) – [root](orv_ruthenian-dep-root.html) – [vocative](orv_ruthenian-dep-vocative.html) – [xcomp](orv_ruthenian-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 46 sentences and 3069 tokens.</li>
+<li>This corpus contains 390 sentences and 10011 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 432 tokens (14%) that are not followed by a space.</li>
+<li>This corpus contains 1488 tokens (15%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -88,7 +88,7 @@ We are grateful to Maria Ermolova, Vladimir Shatin, and Natalia Iordani for comm
 </ul>
 
 <ul>
-<li>This corpus contains 29 types of words that contain both letters and punctuation. Examples: суд[ь]и, г[о]с[по]д[а]ру, г[о]с[по]д[а]ръ, м[и]л[о]сти, н.[айме], (н.[айме]), безп[е]чне, бож[ъ]ю, в[аши], власно[й], волност[ь], г[о]с[по]д[а]ръское, здоров[ъ]ю, зъехан[ь]ю, к[г]ды, княз[ь], м[и]л[о]сть, м[и]л[о]стью, м[илости], м[о]стей, маетност[ь], н[а], обелжен[ь], обывател[ь], по-руску, сознан[ь]я, укривжен[ь], уподобан[ь]я, ч[о]л[о]в[е]ку</li>
+<li>This corpus contains 338 types of words that contain both letters and punctuation. Examples: будет(ь), люд(и), кн(ѧ)зь, кн(ѧ)зю, торговат(и), Пол(о)цкꙋ, грамот(у), кнѧз(ѧ), полоцког(о), ег(о), кр(е)стъ, купит(и), чинит(и), д(е)нь, держат(и), кнѧз(ь), м(и)л(о)сть, послат(и), тог(о), ѡсп(о)д(а)рь, Б(о)жии, Б(ог)ъ, быс(ть), ехат(и), немецьком(у), полочан(е), ризког(о), ризьког(о), с(вя)т(о)го, суд[ь]и, ч(и)сто, ѡтступит(и), Иван(а), Тро(и)ци, грамот(а), держѧт(и), емлют(ь), извинитьс(ѧ), имат(и), лѣт(о), оузрит(ь), оузѧт(и), оучинит(и), продат(и), с(вѧ)тои, сторон(е), ходит(и), ц(е)ркви, ч(о)л(о)в(е)къ, ѡдног(о)</li>
 </ul>
 
 <ul>
@@ -99,43 +99,43 @@ We are grateful to Maria Ermolova, Vladimir Shatin, and Natalia Iordani for comm
 <h3>Tags</h3>
 
 <ul>
-<li>This corpus uses 15 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
-<li>This corpus does not use the following tags: INTJ, SYM</li>
+<li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
+<li>This corpus does not use the following tags: INTJ</li>
 </ul>
 
 <ul>
-<li>This corpus contains 14 word types tagged as particles (PART): вже, ж, же, жъ, и, колвекъ, кольвекъ, не, ни, теж, тежъ, то, толко, только</li>
+<li>This corpus contains 29 word types tagged as particles (PART): Ажо, С[е], алижь, вже, да, ж, же, жо, жъ, жь, жѣ, и, колвекъ, кольвекъ, ли, лише, любо, не, ни, нибудъ, нъ, нь, нѣ, пусть, се, си, то, толко, только</li>
 </ul>
 
 <ul>
-<li>This corpus contains 1 lemmas tagged as pronouns (PRON): _</li>
+<li>This corpus contains 29 lemmas tagged as pronouns (PRON): аже, азъ, весь, все, вы, и, который, кто, мы, никоторымь, никто, ништо, ны, она, они, оно, онъ, се, себе, себя, сие, ся, то, ты, хто, хто+бы, что, што, я</li>
 </ul>
 
 <ul>
-<li>This corpus contains 1 lemmas tagged as determiners (DET): _</li>
+<li>This corpus contains 30 lemmas tagged as determiners (DET): вашъ, весь, всякий, другий, другой, его, жадный, иной, инший, иный, ихъ, какой, кождый, который, мой, нашъ, никакой, никоторый, одинъ, оный, самъ, свой, сей, сесь, такий, таковый, твой, той, тотъ, який</li>
 </ul>
 
 <ul>
-<li>Out of the above, 1 lemmas occurred sometimes as PRON and sometimes as DET: _</li>
+<li>Out of the above, 2 lemmas occurred sometimes as PRON and sometimes as DET: весь, который</li>
 </ul>
 
 <ul>
-<li>This corpus contains 1 lemmas tagged as auxiliaries (AUX): _</li>
+<li>This corpus contains 3 lemmas tagged as auxiliaries (AUX): бъ, бы, быти</li>
 </ul>
 
 <ul>
-<li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: _</li>
+<li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: быти</li>
 </ul>
 
 <ul>
-<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+<li>There are 5 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
 </ul>
 
 <ul>
   <li>Conv
   <ul>
     <li>AUX: будучи</li>
-    <li>VERB: маючи, маючы, прикладаючи, уймуючы, боячисе, выбравшы, ждучи, фолькгуючы, боечыся, боячися</li>
+    <li>VERB: маючи, маючы, прикладаючи, уймуючы, боячисе, выбравшы, выемши, ждучи, фолькгуючы, боечыся</li>
   </ul>
   </li>
 </ul>
@@ -143,8 +143,8 @@ We are grateful to Maria Ermolova, Vladimir Shatin, and Natalia Iordani for comm
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: будеть, буду, были, естъ, будетъ, будуть, было, былъ, есть, суть</li>
-    <li>VERB: мають, маеть, присегаю, маемъ, мает, могъ, поможы, ведал, естъ, маем</li>
+    <li>AUX: будеть, есмо, будет(ь), есте, есмы, буду, быс(ть), есмь, есть, будетъ</li>
+    <li>VERB: мають, маеть, присегаю, маемъ, даемъ, тѧгнеть, хочем, хочемъ, будет(ь), дѣѥмъ</li>
   </ul>
   </li>
 </ul>
@@ -152,8 +152,8 @@ We are grateful to Maria Ermolova, Vladimir Shatin, and Natalia Iordani for comm
 <ul>
   <li>Inf
   <ul>
-    <li>AUX: быти, быть</li>
-    <li>VERB: быти, дати, обрати, ознаймити, писати, ведати, владнути, заховати, зложити, мети</li>
+    <li>AUX: быти, быть, бытъ</li>
+    <li>VERB: вѣсити, знати, дати, послати, торговат(и), блюсти, купит(и), чинит(и), быти, держат(и)</li>
   </ul>
   </li>
 </ul>
@@ -161,7 +161,16 @@ We are grateful to Maria Ermolova, Vladimir Shatin, and Natalia Iordani for comm
 <ul>
   <li>Part
   <ul>
-    <li>VERB: описано, писаного, вписованы, выбраные, обваровано, боящыхъсе, вделаного, выбираны, выбраныхъ, выдаными</li>
+    <li>VERB: описано, писана, писаного, вписованы, выбраные, написано, обваровано, оуставленъ, писано, псан</li>
+  </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>PartRes
+  <ul>
+    <li>AUX: было, былъ, была, были</li>
+    <li>VERB: дали, далъ, были, держалъ, тѧгло, велели, привѣсили, пустили, стало, стоѧло</li>
   </ul>
   </li>
 </ul>
@@ -176,13 +185,17 @@ We are grateful to Maria Ermolova, Vladimir Shatin, and Natalia Iordani for comm
 <ul>
   <li>Fem
     <ul>
-      <li>ADJ: светую, Жомоитской, великое, зложное, правдивое, Жимоитское, Жомоитъское, Жомоитъской, Хрестіянское, бож[ъ]ю</li>
-      <li>DET: своее, тую, кождой, нашой, оное, жадное, моее, наша, своей, свою</li>
-      <li>NOUN: земли, вазни, небытности, особъ, сторонъ, вольность, погрозокъ, справедливость, шляхты, боязни</li>
-      <li>PRON: которою, ее</li>
-      <li>PROPN: Вильни</li>
+      <li>ADJ: светую, с(вѧ)тои, Жомоитской, Лотыгольскаѧ, Рылова, великое, доброю, зложное, малое, правдивое</li>
+      <li>AUX: была, бꙋдѣт(ь), ѥсьми</li>
+      <li>AUX-PartRes: была</li>
+      <li>DET: свою, тую, всѧкоѧ, своее, свои, сию, всею, тая, тои, всѧ</li>
+      <li>NOUN: сторонѣ, земли, землѧ, стороне, дань, хитрости, грамот(у), правду, землею, землю</li>
+      <li>NUM: ѡбѣ, обѣ, ѡбою, ѡбе, обою, три, ѡдна</li>
+      <li>PRON: которою, ее, ю, ѥ</li>
+      <li>PROPN: Ризѣ, Ризе, Ригу, Вельи, Тро(и)ци, Березвячи, Андреѥвоѥ, Ваки, Ваку, Ваце</li>
       <li>VERB-Fin: заважала</li>
-      <li>VERB-Part: обварованую</li>
+      <li>VERB-Part: писана, напсана, обварованую, писан(а), псан(а), пѣчат(а)на, пѣчѧтана</li>
+      <li>VERB-PartRes: доспела, оуч(и)нила, оучинила, прилучила, ѡтлучила</li>
     </ul>
   </li>
 </ul>
@@ -190,15 +203,18 @@ We are grateful to Maria Ermolova, Vladimir Shatin, and Natalia Iordani for comm
 <ul>
   <li>Masc
     <ul>
-      <li>ADJ: богатого, кровного, вбогого, единому, заховалого, тутошнего, 1, великий, высокимъ, земскій</li>
+      <li>ADJ: старому, полоцког(о), богатого, великии, добрыи, кровного, немецьком(у), ризькии, ризькимъ, ризьког(о)</li>
+      <li>AUX: былъ, был, ме</li>
       <li>AUX-Fin: былъ, был</li>
-      <li>DET: того, тотъ, томъ, тымъ, который, кождого, кождый, нашъ, оного, самого</li>
-      <li>NOUN: бога, писаръ, боже, листы, богу, врядъ, повѣтѣ, листъ, пану, писара</li>
-      <li>NUM: одного</li>
-      <li>PRON: хто, его, ихъ, кому, который, никого, ему, кого, которого, которым</li>
-      <li>PROPN: Августъ, Бельску, Жикгимонтъ, Левъ, Сапега, Стефанъ, Цыцеро</li>
+      <li>AUX-PartRes: былъ</li>
+      <li>DET: тотъ, свои, того, тыи, весь, вси, томъ, которыи, своего, нашимъ</li>
+      <li>NOUN: товаръ, люди, колоколы, люд(и), бога, воскъ, полочаном, воску, вѣсы, закону</li>
+      <li>NUM: одного, полъдевѧта, ѡдног(о), 1000, 400, два, одног(о), однъ, полъторымъ, польтору</li>
+      <li>PRON: его, ему, имъ, хто, кто, ѥму, ег(о), ихъ, емꙋ, кому</li>
+      <li>PROPN: Полоцку, Пол(о)цкꙋ, Скирикгаилу, Витовтъ, Иван, Полотьсце, Іванъ, Чернѧта, Полтескъ, Витовта</li>
       <li>VERB-Fin: могъ, ведал, умеръ, важыломъсе, гамовалъ, кривдилъ, мел, мелъ, муселъ, пановал</li>
-      <li>VERB-Part: даного, зложоный, зложонымъ, обволанъ, обелжен[ь], объголошонъ, писаного, помененомъ, поправены, преплачон</li>
+      <li>VERB-Part: оуставленъ, псан, реченому, вызнаваемъ, даного, дѣржѧтъ, зложоный, зложонымъ, клѧтъ, обволанъ</li>
+      <li>VERB-PartRes: далъ, держалъ, гиблъ, дал, загиб, нѧлъсѧ, послалъ, привезлъ, присыловал, Билъ</li>
     </ul>
   </li>
 </ul>
@@ -206,14 +222,18 @@ We are grateful to Maria Ermolova, Vladimir Shatin, and Natalia Iordani for comm
 <ul>
   <li>Neut
     <ul>
-      <li>ADJ: великого, посполитое, литовского, судового, Литовъского, великому, великомъ, вольно, г[о]с[по]д[а]ръское, долъгого</li>
+      <li>ADJ: великого, посполитое, волно, литовского, старому, судового, Литовъского, Ризког(о), ведомо, велико</li>
+      <li>AUX: было, есва</li>
       <li>AUX-Fin: было</li>
-      <li>DET: того, свое, якого, всем, всякое, жадного, которым, нашомъ, своего, таким</li>
-      <li>NOUN: права, правъ, словы, князства, право, нагороженья, очима, баченья, имена, местъце</li>
-      <li>NUM: одно</li>
-      <li>PRON: то, томъ, того, ничого, што, его, том, все, всем, немъ</li>
+      <li>AUX-PartRes: было</li>
+      <li>DET: того, свое, тое, моимъ, всем, своему, то, всемъ, всѧкомъ, въсѧкомъ</li>
+      <li>NOUN: права, право, село, лѣт, праву, правъ, словы, князства, села, дѣтемъ</li>
+      <li>NUM: одно, 4, три, ѡдиног(о)</li>
+      <li>PRON: то, што, того, томъ, том, тое, ничого, все, тог(о), тому</li>
+      <li>PROPN: Ковна, Белое, Городна, Городно, Демьяного, Демьяное, Заборью, Заборья, Залесью, Залесья</li>
       <li>VERB-Fin: трафило, трвало</li>
-      <li>VERB-Part: описано, обваровано, писаного, вделаного, выменено, вынайдено, доложоно, записано, утвержоно</li>
+      <li>VERB-Part: описано, написано, обваровано, писано, писаного, вделаного, выложено, вымано, выменено, вынайдено</li>
+      <li>VERB-PartRes: тѧгло, стало, стоѧло, вышло, дошло, дѣѧло, оучинил(о), прилучило, створило</li>
     </ul>
   </li>
 </ul>
@@ -225,12 +245,12 @@ We are grateful to Maria Ermolova, Vladimir Shatin, and Natalia Iordani for comm
 <ul>
   <li>Anim
     <ul>
-      <li>ADJ: богатого, вбогого, кровного, тутошнего, въбогого, годныхъ, добрыхъ, заховалого, побожныхъ, тутошънего</li>
-      <li>DET: самого, таковыхъ, другого, которого, того</li>
+      <li>ADJ: богатого, вбогого, кровного, тутошнего, въбогого, годныхъ, доброго, добрыхъ, заховалого, побожныхъ</li>
+      <li>DET: самого, своѥго, таковыхъ, того, вашег(о), вашего, всех, всѣхъ, другого, которого</li>
       <li>NOUN: бога, писаръ, боже, богу, особъ, пану, писара, подсудокъ, судья, гостя</li>
       <li>NUM: одного, чотырохъ, трехъ, чотырох</li>
       <li>PRON: хто, кому, кого, которого, никого, хтобы</li>
-      <li>PROPN: Августъ, Жикгимонтъ, Левъ, Сапега, Стефанъ, Цыцеро</li>
+      <li>PROPN: Августъ, Еремеѧ, Ерѣмѣѧ, Жикгимонтъ, Иван(а), Исака, Левъ, Лишнѧна, Петра, Сапега</li>
     </ul>
   </li>
 </ul>
@@ -238,11 +258,10 @@ We are grateful to Maria Ermolova, Vladimir Shatin, and Natalia Iordani for comm
 <ul>
   <li>Inan
     <ul>
-      <li>ADJ: вечные, высокие, высокіе, вышъшый, земскій, земъские, зычливые, отворотные, певный, первей</li>
-      <li>DET: свои, тотъ, свой, вси, такий, тые, всякие, инший, кождый, которий</li>
-      <li>NOUN: права, земли, листы, правъ, словы, врядъ, князства, повѣтѣ, вазни, листъ</li>
-      <li>PRON: то, томъ, того, ничого, што, том, которые, никого, ничего, ничому</li>
-      <li>PROPN: Бельску, Вильни</li>
+      <li>ADJ: вечные, высокие, высокіе, вышъшый, земскій, земъские, зычливые, отворотные, певный, писарский</li>
+      <li>DET: свои, тотъ, свой, вси, такий, таковый, тые, всякие, инший, кождый</li>
+      <li>NOUN: листы, врядъ, часъ, вольность, дары, листъ, посулы, право, справедливость, права</li>
+      <li>PRON: то, тое, што</li>
       <li>VERB-Part: зложоный, прислухаючые</li>
     </ul>
   </li>
@@ -253,9 +272,20 @@ We are grateful to Maria Ermolova, Vladimir Shatin, and Natalia Iordani for comm
 </ul>
 
 <ul>
+  <li>Count
+    <ul>
+      <li>NOUN: гривны, дни, лѣ, места, рубли</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Dual
     <ul>
-      <li>NOUN: очима</li>
+      <li>AUX-Fin: есва</li>
+      <li>NOUN: стороне, сторон(е), сторону, очима</li>
+      <li>NUM: ѡбою</li>
+      <li>PRON: има, нама</li>
     </ul>
   </li>
 </ul>
@@ -263,15 +293,18 @@ We are grateful to Maria Ermolova, Vladimir Shatin, and Natalia Iordani for comm
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: добрыхъ, судовыхъ, земъские, земъскихъ, першыхъ, подлые, рускими, умеетныхъ, цнотливыхъ, великихъ</li>
-      <li>AUX: были, будуть, суть, бысмо, быхмо, естесмо</li>
-      <li>AUX-Fin: были, будуть, суть, бысмо, естесмо</li>
-      <li>DET: тыхъ, свои, тые, вси, которые, наших, своихъ, всихъ, своими, таковыхъ</li>
-      <li>NOUN: листы, правъ, словы, особъ, сторонъ, дары, людей, погрозокъ, посулы, споровъ</li>
-      <li>PRON: намъ, мы, ихъ, которые, насъ, им, нами, имъ, которие, нам</li>
+      <li>ADJ: добрыи, ризькии, ризькимъ, добрыхъ, судовыхъ, добрым, задвиньскии, земъские, земъскихъ, першыхъ</li>
+      <li>AUX: есмо, есте, есмы, были, будуть, суть, ѥсте, есме, ѥсмо, будетѣ</li>
+      <li>AUX-Fin: есмо, есте, есмы, будуть, были, суть, ѥсте, есме, ѥсмо, будетѣ</li>
+      <li>AUX-PartRes: были</li>
+      <li>DET: свои, вси, тыхъ, тыи, своихъ, тые, тыми, ваши, которые, нашимъ</li>
+      <li>NOUN: люди, колоколы, люд(и), вѣсы, лѣт, полочаном, листы, людми, полочѧном, правъ</li>
+      <li>PRON: мы, намъ, вамъ, имъ, нас, вам, нам, ихъ, нами, васъ</li>
+      <li>PROPN: Шатеевъ, Жеимовъ, Любошаны, Лѣпуны, Навиники, Попорти, Румшишки, Солчницехъ, Сомилишки, Стрѧвиники</li>
       <li>SCONJ: абысте, абысьмы</li>
-      <li>VERB-Fin: мають, маемъ, маем, мусели, обрали, уставуемъ, Обачывали, будуть, были, выберемъ</li>
+      <li>VERB-Fin: мають, маемъ, даемъ, хочем, хочемъ, дѣѥмъ, емлют(ь), изломѧтсѧ, можем, ѡсудѧт(ь)</li>
       <li>VERB-Part: вписованы, выбраные, боящыхъсе, выбираны, выбраныхъ, выдаными, злуплени, обираны, обраны, обраных</li>
+      <li>VERB-PartRes: дали, были, велели, привѣсили, пустили, ѡтступили, вчинили, писали, поимал(и), послали</li>
     </ul>
   </li>
 </ul>
@@ -279,16 +312,19 @@ We are grateful to Maria Ermolova, Vladimir Shatin, and Natalia Iordani for comm
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: великого, посполитое, богатого, кровного, светую, вбогого, единому, заховалого, литовского, судового</li>
-      <li>AUX-Fin: будеть, буду, естъ, будетъ, было, былъ, есть, будет, был, ест</li>
-      <li>DET: того, томъ, тотъ, своее, тымъ, который, кождого, кождый, нашъ, оного</li>
-      <li>NOUN: права, бога, земли, писаръ, богу, боже, врядъ, князства, повѣтѣ, вазни</li>
-      <li>NUM: одного, одно</li>
-      <li>PRON: то, того, томъ, я, ми, ничого, его, хто, што, кому</li>
-      <li>PROPN: Августъ, Бельску, Вильни, Жикгимонтъ, Левъ, Сапега, Стефанъ, Цыцеро</li>
+      <li>ADJ: старому, великого, полоцког(о), посполитое, Б(о)жии, богатого, великии, виноватъ, кровного, немецьком(у)</li>
+      <li>AUX: будеть, будет(ь), было, былъ, буду, быс(ть), есмь, есть, будетъ, была</li>
+      <li>AUX-Fin: будеть, будет(ь), буду, быс(ть), есмь, есть, будетъ, есми, естъ, будъ</li>
+      <li>AUX-PartRes: было, былъ, была</li>
+      <li>DET: того, тотъ, томъ, весь, свою, своего, тую, которыи, тот, наш</li>
+      <li>NOUN: сторонѣ, земли, товаръ, бога, воскъ, права, право, село, воску, закону</li>
+      <li>NUM: одного, ѡдног(о), одно, 1000, одног(о), однъ, ѡдиног(о), ѡдиного, ѡдна, ѡдного</li>
+      <li>PRON: то, его, што, ему, ми, того, хто, томъ, том, кто</li>
+      <li>PROPN: Ризѣ, Полоцку, Ризе, Ригу, Пол(о)цкꙋ, Скирикгаилу, Витовтъ, Иван, Полотьсце, Іванъ</li>
       <li>SCONJ: абыхъ</li>
-      <li>VERB-Fin: маеть, присегаю, мает, могъ, поможы, ведал, естъ, может, трафило, убий</li>
-      <li>VERB-Part: описано, писаного, обваровано, вделаного, выменено, вынайдено, даного, доложоно, записано, зложоный</li>
+      <li>VERB-Fin: маеть, присегаю, тѧгнеть, будет(ь), извинитьс(ѧ), иметь, мает, могъ, оузрит(ь), поможы</li>
+      <li>VERB-Part: описано, писана, писаного, написано, обваровано, оуставленъ, писано, псан, реченому, вделаного</li>
+      <li>VERB-PartRes: далъ, держалъ, тѧгло, стало, стоѧло, гиблъ, дал, загиб, нѧлъсѧ, послалъ</li>
     </ul>
   </li>
 </ul>
@@ -300,12 +336,14 @@ We are grateful to Maria Ermolova, Vladimir Shatin, and Natalia Iordani for comm
 <ul>
   <li>Acc
     <ul>
-      <li>ADJ: богатого, посполитое, светую, вбогого, кровного, тутошнего, вечные, въбогого, высокие, высокіе</li>
-      <li>DET: свои, тотъ, самого, свое, тую, свой, вси, свою, такий, таковыхъ</li>
-      <li>NOUN: листы, бога, врядъ, писара, часъ, вольность, гостя, дары, листъ, посулы</li>
-      <li>NUM: одного, чотырохъ, колко, трехъ, чотыри, чотырох</li>
-      <li>PRON: то, его, ихъ, все, ее, которого, которые, ме, мя, насъ</li>
-      <li>VERB-Part: зложоный, обварованую, прислухаючые, списаные</li>
+      <li>ADJ: богатого, посполитое, светую, вбогого, кровного, старыи, тутошнего, 14, будущии, восковыи</li>
+      <li>AUX: бꙋдѣт(ь)</li>
+      <li>DET: свои, тотъ, свою, тую, тыи, свое, сию, самого, которыи, свой</li>
+      <li>NOUN: товаръ, воскъ, грамот(у), правду, право, вѣсы, землю, колоколы, кр(е)стъ, листы</li>
+      <li>NUM: обѣ, одного, три, много, чотырохъ, ѡбе, 1000, 200, 4, 60</li>
+      <li>PRON: то, што, его, ихъ, тое, все, нас, себе, ѥго, вас</li>
+      <li>PROPN: Ригу, Полтескъ, Троковъ, Лепиниковъ, Немець, Белое, Ваку, Городно, Гривос, Демьяное</li>
+      <li>VERB-Part: зложоный, обварованую, поторгованыи, прислухаючые, списаные</li>
     </ul>
   </li>
 </ul>
@@ -313,10 +351,13 @@ We are grateful to Maria Ermolova, Vladimir Shatin, and Natalia Iordani for comm
 <ul>
   <li>Dat
     <ul>
-      <li>ADJ: единому, почъстивому, Жомоитскому, братеръской, великому, вернымъ, вшехмокгонцому, едыному, жомоитъскому, земскому</li>
-      <li>DET: кождому, тому, Всимъ, инъшому, которому, своему, своимъ, той</li>
-      <li>NOUN: богу, пану, г[о]с[по]д[а]ру, обывателемъ, подсудку, старосте, чоловеку, шляхте, шляхтѣ, Господарю</li>
-      <li>PRON: намъ, ми, им, кому, собе, ему, имъ, нам, ничому, себе</li>
+      <li>ADJ: старому, немецьком(у), ризькимъ, великому, единому, с(вѧ)тои, добрым, полоцкому, почъстивому, ризким</li>
+      <li>DET: нашему, нашимъ, своему, тому, всем, моимъ, всемъ, иному, кождому, нашим</li>
+      <li>NOUN: закону, полочаном, кн(ѧ)зю, праву, полочѧном, ратманомъ, богу, ратъманомъ, рижѧном, брату</li>
+      <li>NUM: ѡдъномꙋ</li>
+      <li>PRON: намъ, вамъ, ему, ми, имъ, вам, нам, ѥму, емꙋ, кому</li>
+      <li>PROPN: Ризѣ, Скирикгаилу, Пол(о)цкꙋ, Полоцку, Василю, Ивану, Петру, Полоцкꙋ, Скиригкаилу, Тимофею</li>
+      <li>VERB-Part: реченому</li>
     </ul>
   </li>
 </ul>
@@ -324,12 +365,14 @@ We are grateful to Maria Ermolova, Vladimir Shatin, and Natalia Iordani for comm
 <ul>
   <li>Gen
     <ul>
-      <li>ADJ: великого, литовского, судового, Литовъского, великое, добрыхъ, заховалого, земъского, зложное, змерълого</li>
-      <li>DET: того, тыхъ, своее, наших, кождого, оного, своего, оное, своихъ, якого</li>
-      <li>NOUN: права, правъ, князства, вазни, повѣту, сторонъ, бога, нагороженья, погрозокъ, споровъ</li>
-      <li>NUM: чотырохъ, дванадцати, трох</li>
-      <li>PRON: того, ничого, ихъ, насъ, себе, его, кого, мене, никого, них</li>
-      <li>VERB-Part: писаного, боящыхъсе, вделаного, выбраныхъ, даного, обраных, обраныхъ, седячихъ</li>
+      <li>ADJ: великого, полоцког(о), ризког(о), ризьког(о), с(вя)т(о)го, литовского, судового, Литовъского, С(вѧ)т(о)го, великог(о)</li>
+      <li>AUX: есва</li>
+      <li>DET: того, тыхъ, своего, своихъ, всѧкоѧ, своее, наших, тых, всихъ, кождого</li>
+      <li>NOUN: земли, права, лѣт, воску, хитрости, кнѧз(ѧ), правъ, князства, бога, вазни</li>
+      <li>NUM: чотырохъ, ѡбою, ѡдног(о), дванадцати, обою, одног(о), полъдевѧта, польтору, ста, трехъ</li>
+      <li>PRON: его, того, нас, ег(о), себе, ничого, васъ, их, ихъ, вас</li>
+      <li>PROPN: Витовта, Шатеевъ, Івана, Иван(а), Ковна, Немира, Полоцка, Ѧкова, […]цка, Андреѥвоѥ</li>
+      <li>VERB-Part: писаного, боящыхъсе, вделаного, выбраныхъ, даного, обраных, обраныхъ, св(ѧ)т(о)го, седячихъ</li>
     </ul>
   </li>
 </ul>
@@ -337,10 +380,13 @@ We are grateful to Maria Ermolova, Vladimir Shatin, and Natalia Iordani for comm
 <ul>
   <li>Ins
     <ul>
-      <li>ADJ: высокимъ, подлымъ, рускими, Жомоитскимъ, бож[ъ]ю, вечными, власнымъ, воеводиною, вольнымъ, вѣчными</li>
-      <li>DET: тымъ, своими, тыми, своимъ, жадною, иншимъ, иншыми, иншымъ, инъшими, которым</li>
-      <li>NOUN: словы, воеводою, обычаемъ, очима, старостою, кашталяномъ, литерами, печатьми, правомъ, привильями</li>
-      <li>PRON: которою, нами, собою, которым, тым, тымъ</li>
+      <li>ADJ: высокимъ, доброю, задвиньскимь, подлымъ, рускими, Б(ож)ьею, Б(ож)ьими, Вытовътовымъ, Жомоитскимъ, бож[ъ]ю</li>
+      <li>AUX: ѥсьми</li>
+      <li>DET: тыми, тымъ, всею, своими, нашимъ, своимъ, тым, вашим, всеми, всѧкою</li>
+      <li>NOUN: людми, словы, землею, данью, полочаны, братомъ, воеводою, дорогою, доходомъ, колоколы</li>
+      <li>NUM: полъторымъ</li>
+      <li>PRON: нами, собою, кимъ, которою, тымь, чимь, вам(и), вами, има, ими</li>
+      <li>PROPN: Олександромъ, Скирикгаиломъ, Васильѥмъ, Велью, Витенемь, Домонтом, Озерцом, Полоцкомъ, Семеномъ, Терешъком</li>
       <li>VERB-Part: выдаными, зложонымъ, описаными, седячимъ</li>
     </ul>
   </li>
@@ -349,11 +395,13 @@ We are grateful to Maria Ermolova, Vladimir Shatin, and Natalia Iordani for comm
 <ul>
   <li>Loc
     <ul>
-      <li>ADJ: судовыхъ, Жомоитской, першыхъ, Жомоитъской, великомъ, власно[й], воеводиной, вольномъ, доброй, здешнемъ</li>
-      <li>DET: томъ, кождой, нашой, тыхъ, кождомъ, своей, своихъ, всем, всихъ, иншихъ</li>
-      <li>NOUN: повѣтѣ, земли, небытности, повете, достойностяхъ, рокохъ, Троицы, врядехъ, мѣстце, паньстве</li>
-      <li>PRON: томъ, том, всем, нем, немъ, собе, чом</li>
-      <li>PROPN: Бельску, Вильни</li>
+      <li>ADJ: судовыхъ, Б(о)жии, Жомоитской, великомъ, першыхъ, торговом, Б(о)жьем, Б(о)жьемъ, Б(о)жьемь, Б(о)жью</li>
+      <li>AUX: ме</li>
+      <li>DET: томъ, тыхъ, всем, въсѧкомъ, кождой, нашой, всемъ, всѧком, всѧкомъ, кождомъ</li>
+      <li>NOUN: сторонѣ, повѣтѣ, земли, небытности, повете, достойностяхъ, дѣлѣ, рокохъ, скалвахъ, Троицы</li>
+      <li>NUM: ѡбѣ</li>
+      <li>PRON: томъ, том, семъ, нем, всем, всемъ, ком, немъ, себе, собе</li>
+      <li>PROPN: Полоцку, Ризе, Ризѣ, Полотьсце, Пол(о)цкꙋ, Иване, Могилевѣ, Чернѧтѣ, Бельску, Березвячи</li>
       <li>VERB-Part: помененомъ</li>
     </ul>
   </li>
@@ -362,13 +410,13 @@ We are grateful to Maria Ermolova, Vladimir Shatin, and Natalia Iordani for comm
 <ul>
   <li>Nom
     <ul>
-      <li>ADJ: 1, великий, Жомоитскій, ведомый, жомоитъский, земскій, земъские, земъский, литовский, литовъский</li>
-      <li>DET: которые, который, тые, вси, кождый, нашъ, тот, тотъ, наша, Которіе</li>
-      <li>NOUN: писаръ, подсудокъ, судья, староста, воевода, кашталянъ, врядники, г[о]с[по]д[а]ръ, король, люди</li>
-      <li>NUM: колько, одно</li>
-      <li>PRON: мы, то, я, хто, которые, который, што, которие, они, хтобы</li>
-      <li>PROPN: Августъ, Жикгимонтъ, Левъ, Сапега, Стефанъ, Цыцеро</li>
-      <li>VERB-Part: выбраные, обираны, объварованые, потверженые</li>
+      <li>ADJ: виноватъ, великии, великий, волно, 1, Лотыгольскаѧ, Рылова, ведомо, велико, великыи</li>
+      <li>DET: вси, весь, которыи, тотъ, которые, наш, тые, ваши, свои, тая</li>
+      <li>NOUN: люди, землѧ, люд(и), кн(ѧ)зь, писаръ, село, доходъ, воевода, волость, дань</li>
+      <li>NUM: 1000, 400, одно, 4-cта, 4-ри, 7, 9, 95, [6.], колько</li>
+      <li>PRON: мы, што, то, хто, кто, я, азъ, ѧ, ѧзъ, которые</li>
+      <li>PROPN: Витовтъ, Иван, Іванъ, Чернѧта, Ѡлександро, Скирикгаило, Артемеи, Колинъ, Тимофеи, Августъ</li>
+      <li>VERB-Part: писана, выбраные, написано, оуставленъ, писано, псан, вызнаваемъ, выложено, вымано, дано</li>
     </ul>
   </li>
 </ul>
@@ -376,7 +424,8 @@ We are grateful to Maria Ermolova, Vladimir Shatin, and Natalia Iordani for comm
 <ul>
   <li>Voc
     <ul>
-      <li>NOUN: боже</li>
+      <li>NOUN: боже, кнѧж(е), местерю</li>
+      <li>PROPN: Чернѧто</li>
     </ul>
   </li>
 </ul>
@@ -393,8 +442,8 @@ We are grateful to Maria Ermolova, Vladimir Shatin, and Natalia Iordani for comm
 <ul>
   <li>Cmp
     <ul>
-      <li>ADJ: большое</li>
-      <li>ADV: вышей, первей, найбольшей, наперъвей, нижей</li>
+      <li>ADJ: болши, бол(ь)ши, большьши, тѧжелѣи, тѧзелѣѧ, большое</li>
+      <li>ADV: вышей, боле, первей, болши, выше, дале, найбольшей, наперъвей, нижей, полѣпши</li>
     </ul>
   </li>
 </ul>
@@ -402,8 +451,8 @@ We are grateful to Maria Ermolova, Vladimir Shatin, and Natalia Iordani for comm
 <ul>
   <li>Pos
     <ul>
-      <li>ADJ: великого, посполитое, богатого, кровного, светую, вбогого, добрыхъ, единому, заховалого, литовского</li>
-      <li>ADV: справедливе, такъ, тогды, потомъ, тамъ, вжо, гдѣ, добре, кгды, добрѣ</li>
+      <li>ADJ: старому, великого, полоцког(о), посполитое, Б(о)жии, богатого, великии, виноватъ, добрыи, кровного</li>
+      <li>ADV: такъ, потомъ, какъ, тамъ, тако, тогды, справедливе, право, потом, вжо</li>
     </ul>
   </li>
 </ul>
@@ -423,9 +472,9 @@ We are grateful to Maria Ermolova, Vladimir Shatin, and Natalia Iordani for comm
 <ul>
   <li>Neg
     <ul>
-      <li>CCONJ: ани, ни</li>
-      <li>PART: не, ни</li>
-      <li>VERB: нетъ</li>
+      <li>CCONJ: ни, ани</li>
+      <li>PART: не, ни, нѣ, нъ, нь</li>
+      <li>VERB: нетъ, нѣтъ</li>
     </ul>
   </li>
 </ul>
@@ -437,9 +486,9 @@ We are grateful to Maria Ermolova, Vladimir Shatin, and Natalia Iordani for comm
 <ul>
   <li>Short
     <ul>
-      <li>ADJ: повиненъ, воленъ, вольно, годенъ, повинъни</li>
-      <li>DET: онъ</li>
-      <li>VERB-Part: описано, вписованы, обваровано, выбираны, выменено, вынайдено, доложоно, записано, злуплени, обволанъ</li>
+      <li>ADJ: виноватъ, волно, Б(о)жью, Рылова, ведомо, велико, мало, повиненъ, правъ, ч(и)стъ</li>
+      <li>DET: которъ, онъ</li>
+      <li>VERB-Part: описано, писана, вписованы, написано, обваровано, оуставленъ, писано, псан, выбираны, вызнаваемъ</li>
     </ul>
   </li>
 </ul>
@@ -458,9 +507,9 @@ We are grateful to Maria Ermolova, Vladimir Shatin, and Natalia Iordani for comm
       <li>AUX-Fin: естъ, было, былъ, есть, суть, был, были, бысмо, ест, естесмо</li>
       <li>AUX-Inf: быти, быть</li>
       <li>VERB-Conv: маючи, маючы, прикладаючи, уймуючы, боячисе, ждучи, фолькгуючы, боечыся, боячися, боячы</li>
-      <li>VERB-Fin: мають, маеть, присегаю, маемъ, мает, могъ, ведал, естъ, маем, может</li>
-      <li>VERB-Inf: быти, писати, ведати, владнути, мети, потребовати, радити, умети, видети, видѣти</li>
-      <li>VERB-Part: боящыхъсе, вписованы, выбираны, обираны, писаного, прислухаючые, седячимъ, седячихъ</li>
+      <li>VERB-Fin: мають, маеть, присегаю, маемъ, даемъ, емлют(ь), мает, могъ, можем, ѡсудѧт(ь)</li>
+      <li>VERB-Inf: быти, писати, ведати, владнути, знати, мети, потребовати, радити, умети, видети</li>
+      <li>VERB-Part: боящыхъсе, вписованы, выбираны, вызнаваемъ, обираны, писаного, прислухаючые, седячимъ, седячихъ</li>
     </ul>
   </li>
 </ul>
@@ -468,10 +517,11 @@ We are grateful to Maria Ermolova, Vladimir Shatin, and Natalia Iordani for comm
 <ul>
   <li>Perf
     <ul>
-      <li>VERB-Conv: выбравшы, зъехавшисе, зъѣхавшися, обобравшы, приславшы</li>
-      <li>VERB-Fin: поможы, обрали, трафило, убий, умеръ, выберемъ, выбравши, дадимъ, дамо, застали</li>
-      <li>VERB-Inf: дати, обрати, ознаймити, зложити, присегнути, установити, выбрати, заховати, змазати, зъедуть</li>
-      <li>VERB-Part: описано, выбраные, обваровано, писаного, вделаного, вписованы, выбраныхъ, выдаными, выменено, вынайдено</li>
+      <li>VERB-Conv: выбравшы, зъехавшисе, зъѣхавшися, обобравшы, приехав, приславшы</li>
+      <li>VERB-Fin: изломѧтсѧ, поможы, обрали, трафило, убий, умеръ, выберемъ, выбравши, дадимъ, дамо</li>
+      <li>VERB-Inf: послати, послат(и), поити, взѧти, дати, обрати, ознаймити, оучинит(и), вѣсити, зложити</li>
+      <li>VERB-Part: описано, выбраные, обваровано, оуставленъ, писаного, вделаного, вписованы, выбраныхъ, выдаными, выложено</li>
+      <li>VERB-PartRes: привѣсили, послали, послалъ, поставили, ѡтступили, вчинили, възѧли, выговорили, дошло, оучинил(о)</li>
     </ul>
   </li>
 </ul>
@@ -483,9 +533,9 @@ We are grateful to Maria Ermolova, Vladimir Shatin, and Natalia Iordani for comm
 <ul>
   <li>Cnd
     <ul>
-      <li>AUX: бы, быхмо</li>
+      <li>AUX: бы, бъ, быхмо</li>
       <li>PRON: хтобы</li>
-      <li>SCONJ: абы, ижъбы, ижбы, абысте, абысьмы, абыхъ</li>
+      <li>SCONJ: абы, штобы, ижъбы, абысте, ажбы, дабы, ижбы, абысьмы, абыхъ</li>
     </ul>
   </li>
 </ul>
@@ -493,7 +543,8 @@ We are grateful to Maria Ermolova, Vladimir Shatin, and Natalia Iordani for comm
 <ul>
   <li>Imp
     <ul>
-      <li>VERB-Fin: поможы, убий, выбравши, поможи, помози, рачъте</li>
+      <li>AUX-Fin: будъ, буди, будь</li>
+      <li>VERB-Fin: поможы, убий, бороните, возмите, выбравши, колупаи, поедь, поможи, помози, приимаи</li>
     </ul>
   </li>
 </ul>
@@ -501,8 +552,8 @@ We are grateful to Maria Ermolova, Vladimir Shatin, and Natalia Iordani for comm
 <ul>
   <li>Ind
     <ul>
-      <li>AUX-Fin: будеть, буду, были, естъ, будетъ, будуть, было, былъ, есть, суть</li>
-      <li>VERB-Fin: мають, маеть, присегаю, маемъ, мает, могъ, ведал, естъ, маем, может</li>
+      <li>AUX-Fin: будеть, есмо, будет(ь), есте, есмы, буду, быс(ть), есмь, есть, будетъ</li>
+      <li>VERB-Fin: мають, маеть, присегаю, маемъ, даемъ, тѧгнеть, хочем, хочемъ, будет(ь), дѣѥмъ</li>
     </ul>
   </li>
 </ul>
@@ -514,8 +565,8 @@ We are grateful to Maria Ermolova, Vladimir Shatin, and Natalia Iordani for comm
 <ul>
   <li>Fut
     <ul>
-      <li>AUX-Fin: будеть, буду, будетъ, будуть, будет</li>
-      <li>VERB-Fin: будуть, выберемъ, дадимъ, дамо, зостануть, зъѣдутъ, подадимъ, похочеть, ствердимъ</li>
+      <li>AUX-Fin: будеть, будет(ь), будетъ, буду, будуть, бꙋдет(ь), будет, будет[ъ], будетѣ, бꙋдем</li>
+      <li>VERB-Fin: будет(ь), извинитьс(ѧ), изломѧтсѧ, будуть, въизвинитцѧ, выберемъ, дадимъ, дамо, дамь, даст</li>
     </ul>
   </li>
 </ul>
@@ -523,10 +574,12 @@ We are grateful to Maria Ermolova, Vladimir Shatin, and Natalia Iordani for comm
 <ul>
   <li>Past
     <ul>
-      <li>AUX-Fin: были, было, былъ, был</li>
-      <li>VERB-Conv: выбравшы, зъехавшисе, зъѣхавшися, обобравшы, приславшы</li>
+      <li>AUX-Fin: быс(ть), были, было, былъ, был, быстъ</li>
+      <li>AUX-PartRes: было, былъ, была, были</li>
+      <li>VERB-Conv: выбравшы, выемши, зъехавшисе, зъѣхавшися, надѣючес(ѧ), обобравшы, приехав, приславшы, прочитаѧ</li>
       <li>VERB-Fin: могъ, ведал, мусели, обрали, трафило, умеръ, Обачывали, были, важыломъсе, выкручали</li>
-      <li>VERB-Part: описано, писаного, вписованы, выбраные, обваровано, вделаного, выбираны, выбраныхъ, выдаными, выменено</li>
+      <li>VERB-Part: описано, писана, писаного, вписованы, выбраные, написано, обваровано, оуставленъ, писано, псан</li>
+      <li>VERB-PartRes: дали, далъ, были, держалъ, тѧгло, велели, привѣсили, пустили, стало, стоѧло</li>
     </ul>
   </li>
 </ul>
@@ -535,10 +588,10 @@ We are grateful to Maria Ermolova, Vladimir Shatin, and Natalia Iordani for comm
   <li>Pres
     <ul>
       <li>AUX-Conv: будучи</li>
-      <li>AUX-Fin: буду, естъ, есть, суть, бысмо, ест, естесмо</li>
+      <li>AUX-Fin: есмо, есте, есмы, есмь, есть, буду, есва, есми, естъ, суть</li>
       <li>VERB-Conv: маючи, маючы, прикладаючи, уймуючы, боячисе, ждучи, фолькгуючы, боечыся, боячися, боячы</li>
-      <li>VERB-Fin: мають, маеть, присегаю, маемъ, мает, естъ, маем, может, уставуемъ, Прошу</li>
-      <li>VERB-Part: боящыхъсе, прислухаючые, седячимъ, седячихъ</li>
+      <li>VERB-Fin: мають, маеть, присегаю, маемъ, даемъ, тѧгнеть, хочем, хочемъ, дѣѥмъ, емлют(ь)</li>
+      <li>VERB-Part: боящыхъсе, вызнаваемъ, прислухаючые, седячимъ, седячихъ</li>
     </ul>
   </li>
 </ul>
@@ -551,12 +604,14 @@ We are grateful to Maria Ermolova, Vladimir Shatin, and Natalia Iordani for comm
   <li>Act
     <ul>
       <li>AUX-Conv: будучи</li>
-      <li>AUX-Fin: будеть, буду, были, естъ, будетъ, будуть, было, былъ, есть, суть</li>
-      <li>AUX-Inf: быти, быть</li>
-      <li>VERB-Conv: маючи, маючы, прикладаючи, уймуючы, выбравшы, ждучи, фолькгуючы, боячы, выдаючи, жалуючы</li>
-      <li>VERB-Fin: мають, маеть, присегаю, маемъ, мает, могъ, поможы, ведал, естъ, маем</li>
-      <li>VERB-Inf: быти, дати, обрати, ознаймити, писати, ведати, владнути, заховати, зложити, мети</li>
+      <li>AUX-Fin: будеть, есмо, будет(ь), есте, есмы, буду, быс(ть), есмь, есть, будетъ</li>
+      <li>AUX-Inf: быти, быть, бытъ</li>
+      <li>AUX-PartRes: было, былъ, была, были</li>
+      <li>VERB-Conv: маючи, маючы, прикладаючи, уймуючы, выбравшы, выемши, ждучи, фолькгуючы, боячы, выдаючи</li>
+      <li>VERB-Fin: мають, маеть, присегаю, маемъ, даемъ, тѧгнеть, хочем, хочемъ, будет(ь), дѣѥмъ</li>
+      <li>VERB-Inf: вѣсити, знати, дати, послати, торговат(и), блюсти, купит(и), чинит(и), быти, держат(и)</li>
       <li>VERB-Part: прислухаючые, седячимъ, седячихъ</li>
+      <li>VERB-PartRes: дали, далъ, были, держалъ, тѧгло, велели, привѣсили, пустили, стало, стоѧло</li>
     </ul>
   </li>
 </ul>
@@ -564,10 +619,11 @@ We are grateful to Maria Ermolova, Vladimir Shatin, and Natalia Iordani for comm
 <ul>
   <li>Mid
     <ul>
-      <li>VERB-Conv: боячисе, боечыся, боячися, зъехавшисе, зъѣхавшися, сподеваючисе, сподеваючися</li>
-      <li>VERB-Fin: важыломъсе, паствилъсе, справовалсе</li>
-      <li>VERB-Inf: зъѣхатися, паствитисе, справоватисе, справоватися</li>
+      <li>VERB-Conv: боячисе, боечыся, боячися, зъехавшисе, зъѣхавшися, надеючес(ѧ), надѣючес(ѧ), сподеваючисе, сподеваючися</li>
+      <li>VERB-Fin: извинитьс(ѧ), изломѧтсѧ, сотрутсѧ, Молюс(ь), важыломъсе, въизвинитсѧ, въизвинитцѧ, извинитсѧ, извинитьсѧ, кланѧетьс(ѧ)</li>
+      <li>VERB-Inf: въступатисѧ, оуступатисѧ, зъѣхатися, кланѧюсѧ, оуступапатисѧ, паствитисе, справоватисе, справоватися</li>
       <li>VERB-Part: боящыхъсе</li>
+      <li>VERB-PartRes: нѧлъсѧ, Жаловалсѧ, вступалсѧ, доспѣлсѧ, жаловалъсѧ, нѧлисѧ</li>
     </ul>
   </li>
 </ul>
@@ -575,7 +631,7 @@ We are grateful to Maria Ermolova, Vladimir Shatin, and Natalia Iordani for comm
 <ul>
   <li>Pass
     <ul>
-      <li>VERB-Part: описано, писаного, вписованы, выбраные, обваровано, вделаного, выбираны, выбраныхъ, выдаными, выменено</li>
+      <li>VERB-Part: описано, писана, писаного, вписованы, выбраные, написано, обваровано, оуставленъ, писано, псан</li>
     </ul>
   </li>
 </ul>
@@ -591,8 +647,8 @@ We are grateful to Maria Ermolova, Vladimir Shatin, and Natalia Iordani for comm
 <ul>
   <li>Dem
     <ul>
-      <li>DET: того, тыхъ, томъ, тотъ, тые, тымъ, оного, тую, оное, таковыхъ</li>
-      <li>PRON: то, того, томъ, том, тое, тым, тымъ</li>
+      <li>DET: того, тотъ, тыхъ, томъ, тыи, тую, тот, тые, тое, тыми</li>
+      <li>PRON: то, того, томъ, том, тое, тому, семъ, тог(о), тымь, томꙋ</li>
     </ul>
   </li>
 </ul>
@@ -617,7 +673,8 @@ We are grateful to Maria Ermolova, Vladimir Shatin, and Natalia Iordani for comm
 <ul>
   <li>Int
     <ul>
-      <li>PRON: хто, Што, чого</li>
+      <li>DET: какое, которыи</li>
+      <li>PRON: хто, Чому, Што, чого</li>
     </ul>
   </li>
 </ul>
@@ -625,8 +682,8 @@ We are grateful to Maria Ermolova, Vladimir Shatin, and Natalia Iordani for comm
 <ul>
   <li>Neg
     <ul>
-      <li>DET: жадного, жадное, жадною</li>
-      <li>PRON: ничого, никого, ничего, ничому</li>
+      <li>DET: жадного, жадное, никакого, никакое, никоторымъ, жадною</li>
+      <li>PRON: никому, ничого, никого, никомꙋ, никто, ничего, ничому</li>
     </ul>
   </li>
 </ul>
@@ -634,8 +691,8 @@ We are grateful to Maria Ermolova, Vladimir Shatin, and Natalia Iordani for comm
 <ul>
   <li>Prs
     <ul>
-      <li>DET: его, свои, своее, наших, своихъ, ихъ, нашъ, свое, своего, нашой</li>
-      <li>PRON: се, намъ, мы, я, ми, его, ихъ, себе, насъ, собе</li>
+      <li>DET: свои, свою, его, своего, нашимъ, своихъ, наш, нашему, ваши, своее</li>
+      <li>PRON: мы, его, намъ, вамъ, ему, ми, имъ, себе, нас, сѧ</li>
     </ul>
   </li>
 </ul>
@@ -643,8 +700,8 @@ We are grateful to Maria Ermolova, Vladimir Shatin, and Natalia Iordani for comm
 <ul>
   <li>Rel
     <ul>
-      <li>DET: которые, который, Которіе, которий, которого, которому, которым, которій, який, якого</li>
-      <li>PRON: которые, кому, которою, который, хто, што, которие, которого, которым, хтобы</li>
+      <li>DET: которыи, которые, который, котораѧ, которъ, Которіе, какии, како, какыи, которая</li>
+      <li>PRON: што, хто, кто, кому, кимъ, которые, которою, который, цего, чего</li>
     </ul>
   </li>
 </ul>
@@ -652,8 +709,8 @@ We are grateful to Maria Ermolova, Vladimir Shatin, and Natalia Iordani for comm
 <ul>
   <li>Tot
     <ul>
-      <li>DET: вси, кождого, кождый, всихъ, кождой, кождому, всякого, иншихъ, кождомъ, Всимъ</li>
-      <li>PRON: все, всем</li>
+      <li>DET: вси, весь, всем, всѧкоѧ, всемъ, всею, всѧ, кождого, кождый, всех</li>
+      <li>PRON: все, всего, всем, всемъ, въсемъ, оусем</li>
     </ul>
   </li>
 </ul>
@@ -665,7 +722,16 @@ We are grateful to Maria Ermolova, Vladimir Shatin, and Natalia Iordani for comm
 <ul>
   <li>Card
     <ul>
-      <li>NUM: чотырохъ, одного, дванадцати, колко, колько, одно, трехъ, трох, чотыри, чотырох</li>
+      <li>ADJ: 1387-е, 14</li>
+      <li>NUM: чотырохъ, 1000, 400, одного, три, ѡдног(о), много, одно, трехъ, 200</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Frac
+    <ul>
+      <li>NUM: полъдевѧта, полъторымъ, польтору</li>
     </ul>
   </li>
 </ul>
@@ -673,7 +739,15 @@ We are grateful to Maria Ermolova, Vladimir Shatin, and Natalia Iordani for comm
 <ul>
   <li>Ord
     <ul>
-      <li>ADJ: 1, першыхъ, первъшихъ, первымъ, перъших, третемъ, третихъ, четверътый</li>
+      <li>ADJ: 1, 14, першыхъ, 1-и, 13, 15, 2-и, 21, 3-и, 4</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Sets
+    <ul>
+      <li>NUM: ѡбѣ, обѣ, ѡбою, ѡбе, обою</li>
     </ul>
   </li>
 </ul>
@@ -685,7 +759,7 @@ We are grateful to Maria Ermolova, Vladimir Shatin, and Natalia Iordani for comm
 <ul>
   <li>Yes
     <ul>
-      <li>DET: его, свои, своее, наших, своихъ, ихъ, нашъ, свое, своего, нашой</li>
+      <li>DET: свои, свою, его, своего, нашимъ, своихъ, наш, нашему, ваши, своее</li>
     </ul>
   </li>
 </ul>
@@ -697,8 +771,8 @@ We are grateful to Maria Ermolova, Vladimir Shatin, and Natalia Iordani for comm
 <ul>
   <li>Yes
     <ul>
-      <li>DET: свои, своее, своихъ, свое, своего, своими, своимъ, свой, своей, свою</li>
-      <li>PRON: се, себе, собе, собою, ся</li>
+      <li>DET: свои, свою, своего, своихъ, своее, своему, своимъ, свое, своими, свой</li>
+      <li>PRON: себе, сѧ, се, собе, собою, собѣ, себѣ, себѧ, ся</li>
     </ul>
   </li>
 </ul>
@@ -710,11 +784,11 @@ We are grateful to Maria Ermolova, Vladimir Shatin, and Natalia Iordani for comm
 <ul>
   <li>1
     <ul>
-      <li>AUX: буду, бысмо, быхмо, естесмо</li>
-      <li>AUX-Fin: буду, бысмо, естесмо</li>
-      <li>PRON: намъ, мы, я, ми, насъ, нами, ме, мене, мя, нам</li>
+      <li>AUX: есмо, есмы, буду, есмь, есва, есми, есме, ѥсмо, бысмо, быхмо</li>
+      <li>AUX-Fin: есмо, есмы, буду, есмь, есва, есми, есме, ѥсмо, бысмо, бꙋдем</li>
+      <li>PRON: мы, намъ, ми, нас, нам, нами, я, азъ, ѧ, насъ</li>
       <li>SCONJ: абысьмы, абыхъ</li>
-      <li>VERB-Fin: присегаю, маемъ, маем, уставуемъ, Прошу, важыломъсе, выберемъ, дадимъ, дамо, можем</li>
+      <li>VERB-Fin: присегаю, маемъ, даемъ, хочем, хочемъ, дѣѥмъ, можем, прошю, бласловлѧю, маем</li>
     </ul>
   </li>
 </ul>
@@ -722,9 +796,10 @@ We are grateful to Maria Ermolova, Vladimir Shatin, and Natalia Iordani for comm
 <ul>
   <li>2
     <ul>
-      <li>PRON: мы</li>
+      <li>AUX-Fin: есте, ѥсте, будъ, будетѣ, буди, будь</li>
+      <li>PRON: вамъ, вам, васъ, вас, ты, вы, вам(и), вами, мы, тобе</li>
       <li>SCONJ: абысте</li>
-      <li>VERB-Fin: поможы, убий, выбравши, поможи, помози, рачъте</li>
+      <li>VERB-Fin: поможы, убий, бороните, возмите, выбравши, даите, колупаи, пишетѣ, поедь, поможи</li>
     </ul>
   </li>
 </ul>
@@ -732,9 +807,9 @@ We are grateful to Maria Ermolova, Vladimir Shatin, and Natalia Iordani for comm
 <ul>
   <li>3
     <ul>
-      <li>AUX-Fin: будеть, естъ, будетъ, будуть, есть, суть, будет, ест</li>
-      <li>PRON: его, ихъ, им, ее, ему, имъ, нем, немъ, них, нихъ</li>
-      <li>VERB-Fin: мають, маеть, мает, естъ, может, боитсе, будуть, допущает, жалують, зостануть</li>
+      <li>AUX-Fin: будеть, будет(ь), быс(ть), есть, будетъ, будуть, естъ, суть, бꙋдет(ь), будет</li>
+      <li>PRON: его, ему, имъ, ихъ, ѥму, ег(о), емꙋ, их, им, них</li>
+      <li>VERB-Fin: мають, маеть, тѧгнеть, будет(ь), емлют(ь), извинитьс(ѧ), изломѧтсѧ, иметь, мает, оузрит(ь)</li>
     </ul>
   </li>
 </ul>
@@ -750,7 +825,7 @@ We are grateful to Maria Ermolova, Vladimir Shatin, and Natalia Iordani for comm
     <ul>
       <li>Yes
         <ul>
-          <li>NOUN: (н.[айме]), н.[айме]</li>
+          <li>NOUN: н.[айме], (н.[айме])</li>
         </ul>
       </li>
     </ul>
@@ -762,7 +837,9 @@ We are grateful to Maria Ermolova, Vladimir Shatin, and Natalia Iordani for comm
     <ul>
       <li>Yes
         <ul>
+          <li>AUX: бы, бъ, бысмо</li>
           <li>AUX-Fin: бысмо</li>
+          <li>PRON: сѧ</li>
           <li>SCONJ: абысте, абысьмы, абыхъ</li>
         </ul>
       </li>
@@ -775,7 +852,7 @@ We are grateful to Maria Ermolova, Vladimir Shatin, and Natalia Iordani for comm
     <ul>
       <li>Yes
         <ul>
-          <li>PRON: се, ми, ме, мя, ся</li>
+          <li>PRON: ми, се, ме, мя, ся</li>
         </ul>
       </li>
     </ul>
@@ -787,7 +864,7 @@ We are grateful to Maria Ermolova, Vladimir Shatin, and Natalia Iordani for comm
     <ul>
       <li>Yes
         <ul>
-          <li>X: N</li>
+          <li>X: N, Θεοδώσιος, Πολότζκου, Ἀρχ(ιεπίσκοπος)</li>
         </ul>
       </li>
     </ul>
@@ -797,14 +874,39 @@ We are grateful to Maria Ermolova, Vladimir Shatin, and Natalia Iordani for comm
 <ul>
   <li><a>NameType</a>
     <ul>
+      <li>Geo
+        <ul>
+          <li>PROPN: Ризѣ, Полоцку, Ризе, Ригу, Пол(о)цкꙋ, Полотьсце, Полтескъ, Вельи, Троковъ, Шатеевъ</li>
+        </ul>
+      </li>
       <li>Giv
         <ul>
-          <li>PROPN: Левъ, Цыцеро</li>
+          <li>PROPN: Скирикгаилу, Витовтъ, Иван, Іванъ, Полоцку, Чернѧта, Чернѧтѣ, Ѡлександро, Витовта, Иван(а)</li>
+        </ul>
+      </li>
+      <li>Hus
+        <ul>
+          <li>PROPN: Андреѥвоѥ</li>
+        </ul>
+      </li>
+      <li>Oth
+        <ul>
+          <li>PROPN: Тро(и)ци, Тр(ои)ца, Тро(и)ца, Троици</li>
+        </ul>
+      </li>
+      <li>Pat
+        <ul>
+          <li>PROPN: Борисовичь, Данильѥвичь, Деменьтеѥвъ, Дмитреевич(а), Дмитреѥвич, Костѧнтинович, Лобьиничь, Мѧсникович, Никоновичь, Нѣмъчинович</li>
+        </ul>
+      </li>
+      <li>Prs
+        <ul>
+          <li>PROPN: Гривос, Иголка, Кольцу, Навиники, Озерец, Сомилишки, Стрѧвиники, Толковина</li>
         </ul>
       </li>
       <li>Sur
         <ul>
-          <li>PROPN: Сапега</li>
+          <li>PROPN: Колинъ, Могилевѣ, Василевѣ, Васильѥмъ, Виховичького, Друцкий, Забельский, Золотоверьхиі, Козегловьскии, Лишнѧна</li>
         </ul>
       </li>
     </ul>
@@ -814,15 +916,34 @@ We are grateful to Maria Ermolova, Vladimir Shatin, and Natalia Iordani for comm
 <ul>
   <li><a>NumForm</a>
     <ul>
+      <li>Combi
+        <ul>
+          <li>NUM: 4-cта</li>
+        </ul>
+      </li>
       <li>Digit
         <ul>
-          <li>ADJ: 1</li>
+          <li>ADJ: 14, 1, 1-и, 13, 1387-е, 15, 2-и, 21, 3-и, 4</li>
+          <li>NUM: 1000, 400, 200, 4, 4-ри, 60, 7, 9, 95, [1.]</li>
         </ul>
       </li>
       <li>Word
         <ul>
-          <li>ADJ: першыхъ, первъшихъ, первымъ, перъших, третемъ, третихъ, четверътый</li>
-          <li>NUM: чотырохъ, одного, дванадцати, колко, колько, одно, трехъ, трох, чотыри, чотырох</li>
+          <li>ADJ: першыхъ, дрꙋгомꙋ, етьи, перваѧ, первую, первъшихъ, первыи, первымъ, первыхъ, перъших</li>
+          <li>NUM: ѡбѣ, обѣ, чотырохъ, одного, полъдевѧта, три, ѡбою, ѡдног(о), много, одно</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Typo</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>NOUN: елеитовъ, судою</li>
+          <li>X: с</li>
         </ul>
       </li>
     </ul>
@@ -834,12 +955,12 @@ We are grateful to Maria Ermolova, Vladimir Shatin, and Natalia Iordani for comm
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: _.</li>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: быти.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: _.</li>
-<li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: _.</li>
+<li>This corpus uses 3 lemmas as auxiliaries (<a>aux</a>). Examples: быти, бы, бъ.</li>
+<li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: быти.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -848,15 +969,28 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN-Gen (1)</li>
+      <li>VERB--NOUN-Gen (2)</li>
+      <li>VERB--NOUN-Gen-ADP(у) (1)</li>
       <li>VERB--PRON-Gen (1)</li>
-      <li>VERB-Conv--NOUN-Acc (1)</li>
-      <li>VERB-Fin--NOUN-Nom (21)</li>
+      <li>VERB--PRON-Nom (1)</li>
+      <li>VERB-Conv--NOUN-Nom (1)</li>
+      <li>VERB-Fin--NOUN-Acc (2)</li>
+      <li>VERB-Fin--NOUN-Gen (1)</li>
+      <li>VERB-Fin--NOUN-Nom (67)</li>
       <li>VERB-Fin--NOUN-Voc (3)</li>
-      <li>VERB-Fin--PRON-Acc (1)</li>
-      <li>VERB-Fin--PRON-Nom (22)</li>
-      <li>VERB-Inf--PRON-Nom (5)</li>
-      <li>VERB-Part--PRON-Nom (3)</li>
+      <li>VERB-Fin--PRON-Nom (73)</li>
+      <li>VERB-Inf--NOUN-Acc (5)</li>
+      <li>VERB-Inf--NOUN-Gen (1)</li>
+      <li>VERB-Inf--NOUN-Ins (1)</li>
+      <li>VERB-Inf--NOUN-Nom (3)</li>
+      <li>VERB-Inf--PRON-Loc (1)</li>
+      <li>VERB-Inf--PRON-Nom (9)</li>
+      <li>VERB-Part--PRON-Nom (4)</li>
+      <li>VERB-PartRes--NOUN-Acc (1)</li>
+      <li>VERB-PartRes--NOUN-Gen (1)</li>
+      <li>VERB-PartRes--NOUN-Nom (39)</li>
+      <li>VERB-PartRes--PRON-Acc (1)</li>
+      <li>VERB-PartRes--PRON-Nom (28)</li>
     </ul>
   </li>
 </ul>
@@ -864,21 +998,32 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
+      <li>VERB--PRON-Acc (1)</li>
       <li>VERB--PRON-Gen (1)</li>
-      <li>VERB-Conv--NOUN-Acc (13)</li>
-      <li>VERB-Conv--NOUN-Gen (14)</li>
+      <li>VERB-Conv--NOUN-Acc (14)</li>
+      <li>VERB-Conv--NOUN-Gen (15)</li>
       <li>VERB-Conv--PRON-Acc (2)</li>
       <li>VERB-Conv--PRON-Gen (4)</li>
-      <li>VERB-Fin--NOUN-Acc (16)</li>
-      <li>VERB-Fin--NOUN-Gen (6)</li>
-      <li>VERB-Fin--PRON-Acc (5)</li>
-      <li>VERB-Fin--PRON-Gen (2)</li>
-      <li>VERB-Inf--NOUN-Acc (16)</li>
-      <li>VERB-Inf--NOUN-Gen (11)</li>
-      <li>VERB-Inf--NOUN-Ins (1)</li>
-      <li>VERB-Inf--PRON-Acc (8)</li>
-      <li>VERB-Inf--PRON-Gen (4)</li>
+      <li>VERB-Fin--NOUN-Acc (37)</li>
+      <li>VERB-Fin--NOUN-Gen (14)</li>
+      <li>VERB-Fin--NOUN-Loc (1)</li>
+      <li>VERB-Fin--PRON-Acc (18)</li>
+      <li>VERB-Fin--PRON-Gen (15)</li>
+      <li>VERB-Inf--NOUN-Acc (86)</li>
+      <li>VERB-Inf--NOUN-Dat (2)</li>
+      <li>VERB-Inf--NOUN-Gen (43)</li>
+      <li>VERB-Inf--NOUN-Ins (2)</li>
+      <li>VERB-Inf--NOUN-Nom (6)</li>
+      <li>VERB-Inf--NOUN-Nom-ADP(въ) (1)</li>
+      <li>VERB-Inf--PRON-Acc (15)</li>
+      <li>VERB-Inf--PRON-Gen (20)</li>
+      <li>VERB-Part--NOUN-Acc (2)</li>
       <li>VERB-Part--NOUN-Gen (1)</li>
+      <li>VERB-PartRes--NOUN-Acc (42)</li>
+      <li>VERB-PartRes--NOUN-Gen (10)</li>
+      <li>VERB-PartRes--NOUN-Nom (2)</li>
+      <li>VERB-PartRes--PRON-Acc (14)</li>
+      <li>VERB-PartRes--PRON-Gen (5)</li>
     </ul>
   </li>
 </ul>
@@ -886,23 +1031,29 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB--NOUN-Dat (2)</li>
-      <li>VERB--PRON-Dat (2)</li>
+      <li>VERB--NOUN-Dat (3)</li>
+      <li>VERB--PRON-Dat (7)</li>
       <li>VERB-Conv--NOUN-Acc (1)</li>
       <li>VERB-Conv--NOUN-Dat (4)</li>
       <li>VERB-Conv--NOUN-Ins (3)</li>
-      <li>VERB-Fin--NOUN-Dat (9)</li>
-      <li>VERB-Fin--NOUN-Ins (3)</li>
-      <li>VERB-Fin--PRON-Dat (14)</li>
+      <li>VERB-Fin--NOUN-Dat (18)</li>
+      <li>VERB-Fin--NOUN-Ins (5)</li>
+      <li>VERB-Fin--PRON-Acc (1)</li>
+      <li>VERB-Fin--PRON-Dat (27)</li>
       <li>VERB-Fin--PRON-Ins (2)</li>
-      <li>VERB-Inf--NOUN-Dat (5)</li>
-      <li>VERB-Inf--NOUN-Dat-ADP(_) (1)</li>
-      <li>VERB-Inf--NOUN-Ins (8)</li>
-      <li>VERB-Inf--NOUN-Ins-ADP(_) (1)</li>
-      <li>VERB-Inf--PRON-Dat (6)</li>
+      <li>VERB-Inf--NOUN-Dat (59)</li>
+      <li>VERB-Inf--NOUN-Dat-ADP(противъ) (1)</li>
+      <li>VERB-Inf--NOUN-Ins (14)</li>
+      <li>VERB-Inf--NOUN-Ins-ADP(по) (1)</li>
+      <li>VERB-Inf--PRON-Dat (79)</li>
       <li>VERB-Part--NOUN-Dat (2)</li>
-      <li>VERB-Part--NOUN-Ins (6)</li>
-      <li>VERB-Part--PRON-Dat (1)</li>
+      <li>VERB-Part--NOUN-Ins (7)</li>
+      <li>VERB-Part--PRON-Dat (3)</li>
+      <li>VERB-PartRes--NOUN-Dat (9)</li>
+      <li>VERB-PartRes--NOUN-Gen (1)</li>
+      <li>VERB-PartRes--NOUN-Ins (2)</li>
+      <li>VERB-PartRes--NOUN-Nom (1)</li>
+      <li>VERB-PartRes--PRON-Dat (15)</li>
     </ul>
   </li>
 </ul>
@@ -912,13 +1063,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 1 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: _ собе</li>
+  <li>This corpus contains 3 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: знати собѣ, мети собе, учинити собѣ</li>
 </ul>
 
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 6 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:tmod</a></li>
+<li>This corpus uses 7 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:tmod</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
-<li>The following 7 relation types are not used in this corpus at all: <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>The following 3 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>goeswith</a></li>
 </ul>

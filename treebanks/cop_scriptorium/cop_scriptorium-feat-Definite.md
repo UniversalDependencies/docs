@@ -9,35 +9,35 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Def`, `Ind`.
 
-15391 tokens (28%) have a non-empty value of `Definite`.
+15394 tokens (28%) have a non-empty value of `Definite`.
 122 types (4%) occur at least once with a non-empty value of `Definite`.
 67 lemmas (3%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 3 part-of-speech tags: <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (8325; 15% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (7053; 13% instances), <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (13; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (8326; 15% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (7055; 13% instances), <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (13; 0% instances).
 
 ### `PRON`
 
-8325 <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> tokens (91% of all `PRON` tokens) have a non-empty value of `Definite`.
+8326 <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> tokens (91% of all `PRON` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `PRON` and `Definite` co-occurred: <tt><a href="cop_scriptorium-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (8325; 100%), <tt><a href="cop_scriptorium-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5424; 65%), <tt><a href="cop_scriptorium-feat-Person.html">Person</a></tt><tt>=3</tt> (5254; 63%).
+The most frequent other feature values with which `PRON` and `Definite` co-occurred: <tt><a href="cop_scriptorium-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (8326; 100%), <tt><a href="cop_scriptorium-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5425; 65%), <tt><a href="cop_scriptorium-feat-Person.html">Person</a></tt><tt>=3</tt> (5255; 63%).
 
 `PRON` tokens may have the following values of `Definite`:
 
-* `Def` (8325; 100% of non-empty `Definite`): ϥ, ⲩ, ⲥ, ⲓ, ⲟⲩ, ⲕ, ⲛ, ⲧⲛ, ⲧⲉⲧⲛ, ⲥⲉ
+* `Def` (8326; 100% of non-empty `Definite`): ϥ, ⲩ, ⲥ, ⲓ, ⲟⲩ, ⲕ, ⲛ, ⲧⲛ, ⲧⲉⲧⲛ, ⲥⲉ
 * `EMPTY` (844): ⲡⲉ, ⲛⲓⲙ, ⲟⲩ, ⲧⲉ, ⲡ, ⲛⲉ, ⲁϣ, ⲛ, ⲟⲩⲏⲣ, ⲁ
 
 `Definite` seems to be **lexical feature** of `PRON`. 100% lemmas (45) occur only with one value of `Definite`.
 
 ### `DET`
 
-7053 <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> tokens (98% of all `DET` tokens) have a non-empty value of `Definite`.
+7055 <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> tokens (98% of all `DET` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="cop_scriptorium-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (5734; 81%), <tt><a href="cop_scriptorium-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5734; 81%), <tt><a href="cop_scriptorium-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (5689; 81%), <tt><a href="cop_scriptorium-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5644; 80%), <tt><a href="cop_scriptorium-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (5147; 73%).
+The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="cop_scriptorium-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (5735; 81%), <tt><a href="cop_scriptorium-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5735; 81%), <tt><a href="cop_scriptorium-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (5690; 81%), <tt><a href="cop_scriptorium-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5644; 80%), <tt><a href="cop_scriptorium-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (5148; 73%).
 
 `DET` tokens may have the following values of `Definite`:
 
-* `Def` (6125; 87% of non-empty `Definite`): ⲡ, ⲧ, ⲛ, ⲡⲉ, ⲡⲁ, ⲡⲉϥ, ⲛⲉ, ⲧⲉ, ⲡⲁⲓ, ⲛⲉϥ
+* `Def` (6127; 87% of non-empty `Definite`): ⲡ, ⲧ, ⲛ, ⲡⲉ, ⲡⲁ, ⲡⲉϥ, ⲛⲉ, ⲧⲉ, ⲡⲁⲓ, ⲛⲉϥ
 * `Ind` (928; 13% of non-empty `Definite`): ⲟⲩ, ϩⲉⲛ, ⲩ
-* `EMPTY` (136): ⲕⲉ, ϯ, ϭⲉ, ⲛⲁ, ⲛ, ⲙ, ⲧ, ϩⲛ, ⲛⲉ, ⲛⲉⲧⲛ
+* `EMPTY` (133): ⲕⲉ, ϯ, ϭⲉ, ⲛⲁ, ⲙ, ⲛ, ⲧ, ϩⲛ, ⲛⲉ, ⲛⲉⲧⲛ
 
 `Definite` seems to be **lexical feature** of `DET`. 100% lemmas (21) occur only with one value of `Definite`.
 

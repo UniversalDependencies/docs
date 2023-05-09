@@ -71,8 +71,8 @@ The 3rd highest number of forms (1) was observed with the lemma “alaq”: <em>
 `PRON` occurs with 12 feature-value pairs: `Animacy=Anim`, `Clitic=Yes`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Polite=Form`, `PronType=Dem`, `PronType=Int`, `PronType=Prs`, `PronType=Rel`
 
 `PRON` occurs with 18 feature combinations.
-The most frequent feature combination is `PronType=Int` (40 tokens).
-Examples: <em>jas, jachin, su, Jachike</em>
+The most frequent feature combination is `PronType=Dem` (40 tokens).
+Examples: <em>riʼ, laʼ, waʼ, weriʼ, we</em>
 
 
 ## Relations

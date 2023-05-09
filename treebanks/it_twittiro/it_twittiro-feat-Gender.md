@@ -10,7 +10,7 @@ This feature is universal.
 It occurs with 2 different values: `Fem`, `Masc`.
 
 9154 tokens (31%) have a non-empty value of `Gender`.
-2945 types (48%) occur at least once with a non-empty value of `Gender`.
+2946 types (48%) occur at least once with a non-empty value of `Gender`.
 2329 lemmas (48%) occur at least once with a non-empty value of `Gender`.
 The feature is used with 10 part-of-speech tags: <tt><a href="it_twittiro-pos-NOUN.html">NOUN</a></tt> (4195; 14% instances), <tt><a href="it_twittiro-pos-DET.html">DET</a></tt> (3006; 10% instances), <tt><a href="it_twittiro-pos-ADJ.html">ADJ</a></tt> (981; 3% instances), <tt><a href="it_twittiro-pos-VERB.html">VERB</a></tt> (505; 2% instances), <tt><a href="it_twittiro-pos-PRON.html">PRON</a></tt> (443; 1% instances), <tt><a href="it_twittiro-pos-AUX.html">AUX</a></tt> (19; 0% instances), <tt><a href="it_twittiro-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="it_twittiro-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="it_twittiro-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="it_twittiro-pos-X.html">X</a></tt> (1; 0% instances).
 
@@ -24,7 +24,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 * `Fem` (1848; 44% of non-empty `Gender`): <em>scuola, riforma, cosa, casa, crisi, vita, foto, volta, cit., fine</em>
 * `Masc` (2347; 56% of non-empty `Gender`): <em>governo, anni, lavoro, anno, italiani, mesi, mondo, tagli, merito, ministro</em>
-* `EMPTY` (260): <em>RT, docenti, grazie, spread, inglese, insegnanti, prof, rain, tweet, hashtag</em>
+* `EMPTY` (260): <em>RT, docenti, grazie, spread, inglese, insegnanti, rain, tweet, prof, hashtag</em>
 
 <table>
   <tr><th>Paradigm <i>ministro</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>

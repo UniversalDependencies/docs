@@ -9,16 +9,16 @@ udver: '2'
 This feature is universal but the values `CndGen`, `CndPot`, `Gen`, `GenNec`, `GenPot` are language-specific.
 It occurs with 11 different values: `Cnd`, `CndGen`, `CndPot`, `Gen`, `GenNec`, `GenPot`, `Imp`, `Ind`, `Nec`, `Opt`, `Pot`.
 
-1943 tokens (12%) have a non-empty value of `Mood`.
-1218 types (17%) occur at least once with a non-empty value of `Mood`.
+1944 tokens (12%) have a non-empty value of `Mood`.
+1220 types (17%) occur at least once with a non-empty value of `Mood`.
 558 lemmas (13%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> (1651; 10% instances), <tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> (292; 2% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> (1652; 10% instances), <tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> (292; 2% instances).
 
 ### `VERB`
 
-1651 <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> tokens (98% of all `VERB` tokens) have a non-empty value of `Mood`.
+1652 <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> tokens (98% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="tr_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1448; 88%), <tt><a href="tr_pud-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (1448; 88%), <tt><a href="tr_pud-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (1445; 88%), <tt><a href="tr_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1291; 78%), <tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (1252; 76%), <tt><a href="tr_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1242; 75%), <tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1125; 68%), <tt><a href="tr_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1114; 67%), <tt><a href="tr_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1023; 62%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="tr_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1449; 88%), <tt><a href="tr_pud-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (1449; 88%), <tt><a href="tr_pud-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (1446; 88%), <tt><a href="tr_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1292; 78%), <tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (1252; 76%), <tt><a href="tr_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1242; 75%), <tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1124; 68%), <tt><a href="tr_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1114; 67%), <tt><a href="tr_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1023; 62%).
 
 `VERB` tokens may have the following values of `Mood`:
 
@@ -29,7 +29,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 * `GenNec` (2; 0% of non-empty `Mood`): <em>kaçmamalıdır, oluşturulmalıdır</em>
 * `GenPot` (44; 3% of non-empty `Mood`): <em>açabilir, edilemez, görülebilir, sağlayabilir, uygulanabilir, verebilir, Yenilenebilir, anlaşılamaz, artırabilir, açabilirler</em>
 * `Imp` (7; 0% of non-empty `Mood`): <em>ahdet, at, atın, seçin, soyun, zorla, çekiçle</em>
-* `Ind` (1303; 79% of non-empty `Mood`): <em>dedi, etti, başladı, söyledi, çıktı, edildi, verdi, ediyor, etmek, geldi</em>
+* `Ind` (1304; 79% of non-empty `Mood`): <em>dedi, etti, başladı, söyledi, çıktı, edildi, verdi, ediyor, etmek, geldi</em>
 * `Nec` (5; 0% of non-empty `Mood`): <em>tartışmalı, Seçmeli, eğitmeliyiz, olmalı</em>
 * `Opt` (7; 0% of non-empty `Mood`): <em>yana, dönene, edelim, göre</em>
 * `Pot` (19; 1% of non-empty `Mood`): <em>alabildi, bilemiyorum, bulunamadı, cevaplanamamış, erişemiyordu, gidebilmemiz, girilebiliyordu, gönderebilmekten, hissedebiliyordu, kalabilmesi</em>
@@ -108,9 +108,9 @@ The 10 most frequent relations where parent and child node agree in `Mood`:
 <tt>VERB --[<tt><a href="tr_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (95; 90%),
 <tt>VERB --[<tt><a href="tr_pud-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (52; 59%),
 <tt>VERB --[<tt><a href="tr_pud-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (37; 67%),
-<tt>VERB --[<tt><a href="tr_pud-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (24; 77%),
-<tt>VERB --[<tt><a href="tr_pud-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (14; 67%),
-<tt>VERB --[<tt><a href="tr_pud-dep-obj.html">obj</a></tt>]--> VERB</tt> (14; 82%),
+<tt>VERB --[<tt><a href="tr_pud-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (25; 78%),
+<tt>VERB --[<tt><a href="tr_pud-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (14; 70%),
+<tt>VERB --[<tt><a href="tr_pud-dep-obj.html">obj</a></tt>]--> VERB</tt> (14; 78%),
 <tt>VERB --[<tt><a href="tr_pud-dep-iobj.html">iobj</a></tt>]--> VERB</tt> (11; 69%),
 <tt>VERB --[<tt><a href="tr_pud-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (5; 56%),
 <tt>VERB --[<tt><a href="tr_pud-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (2; 100%).

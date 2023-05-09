@@ -18,18 +18,25 @@ The following 8 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 7 obl:agent	color:blue
-1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
-2	maior	maior	ADJ	_	Gender=Fem|Number=Sing	3	amod	_	_
-3	área	área	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
-4	ocupada	ocupar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	3	acl	_	_
-5	por	por	ADP	_	_	7	case	_	_
-6	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
-7	domínio	domínio	NOUN	_	Gender=Masc|Number=Sing	4	obl:agent	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 9 obl:agent	color:blue
+1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	balanço	balanço	NOUN	_	Gender=Masc|Number=Sing	6	nsubj:pass	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	massa	massa	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+5	foi	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux:pass	_	_
+6	obtido	obter	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	_
+7	por	por	ADP	_	_	9	case	_	_
+8	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	Equação	equação	NOUN	_	Gender=Fem|Number=Sing	6	obl:agent	_	_
+10	9	9	NUM	_	NumType=Card	9	nummod	_	SpaceAfter=No
+11	:	:	PUNCT	_	_	13	punct	_	_
+12	(	(	PUNCT	_	_	13	punct	_	SpaceAfter=No
+13	9	9	NUM	_	NumType=Card	9	appos	_	SpaceAfter=No
+14	)	)	PUNCT	_	_	13	punct	_	_
 
 ~~~
 

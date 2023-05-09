@@ -23,23 +23,17 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Acc` (1249; 11% of non-empty `Case`): <em>ho, la, el, l', lo, les, mi, si, 'l, -ho</em>
-* `Acc,Dat` (7439; 68% of non-empty `Case`): <em>es, s', se, els, ens, los, em, m', 'ls, nos</em>
-* `Dat` (553; 5% of non-empty `Case`): <em>li</em>
+* `Acc` (1262; 11% of non-empty `Case`): <em>ho, la, el, l', lo, les, mi, si, els, 'l</em>
+* `Acc,Dat` (7298; 66% of non-empty `Case`): <em>es, s', se, els, ens, los, em, m', 'ls, nos</em>
+* `Dat` (681; 6% of non-empty `Case`): <em>li, es, s', ens, em, els, se, m', 's, et</em>
 * `Gen` (354; 3% of non-empty `Case`): <em>n', en, ne, 'n, -ne</em>
 * `Loc` (1317; 12% of non-empty `Case`): <em>hi</em>
 * `Nom` (86; 1% of non-empty `Case`): <em>jo, tu, hom</em>
 * `EMPTY` (12456): <em>que, un, tot, on, què, això, qual, qui, quals, ell</em>
 
 <table>
-  <tr><th>Paradigm <i>ell</i></th><th><tt>Acc,Dat</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th></tr>
-  <tr><td><tt><tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>el, lo, 'l, -lo, l</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt>|<tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>l'</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>la, -la</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>les</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>ho, -ho</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>li</em></td></tr>
-  <tr><td><tt><tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>els, los, 'ls</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ca_ancora-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td><em>es, s', se, s, 's, -se</em></td><td><em>si, se'n</em></td><td></td></tr>
+  <tr><th>Paradigm <i>jo</i></th><th><tt>Acc,Dat</tt></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th></tr>
+  <tr><td><tt><tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>em, m', me, 'm, m</em></td><td><em>jo</em></td><td><em>mi</em></td><td><em>em, m'</em></td></tr>
+  <tr><td><tt><tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>ens, nos, 'ns</em></td><td></td><td><em>ens</em></td><td><em>ens</em></td></tr>
 </table>
 

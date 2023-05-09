@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_German-PUD: POS Tags: `CCONJ`
 
 There are 22 `CCONJ` lemmas (0%), 22 `CCONJ` types (0%) and 743 `CCONJ` tokens (3%).
-Out of 16 observed tags, the rank of `CCONJ` is: 11 in number of lemmas, 12 in number of types and 11 in number of tokens.
+Out of 16 observed tags, the rank of `CCONJ` is: 10 in number of lemmas, 12 in number of types and 11 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>und, als, aber, wie, oder, doch, sowie, bis, bzw., sowohl</em>
 
@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>als</em> (<tt><a href="de_pud-pos-CCO
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.195641).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.198007).
 
 The 1st highest number of forms (1) was observed with the lemma “-”: <em>-</em>.
 
@@ -63,14 +63,20 @@ The 2nd highest number of forms (1) was observed with the lemma “aber”: <em>
 
 The 3rd highest number of forms (1) was observed with the lemma “als”: <em>als</em>.
 
-`CCONJ` does not occur with any features.
+`CCONJ` occurs with 1 features: <tt><a href="de_pud-feat-Foreign.html">Foreign</a></tt> (1; 0% instances)
+
+`CCONJ` occurs with 1 feature-value pairs: `Foreign=Yes`
+
+`CCONJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (742 tokens).
+Examples: <em>und, als, aber, wie, oder, doch, sowie, bis, bzw., sowohl</em>
 
 
 ## Relations
 
 `CCONJ` nodes are attached to their parents using 7 different relations: <tt><a href="de_pud-dep-cc.html">cc</a></tt> (722; 97% instances), <tt><a href="de_pud-dep-cc-preconj.html">cc:preconj</a></tt> (10; 1% instances), <tt><a href="de_pud-dep-compound.html">compound</a></tt> (3; 0% instances), <tt><a href="de_pud-dep-mark.html">mark</a></tt> (3; 0% instances), <tt><a href="de_pud-dep-fixed.html">fixed</a></tt> (2; 0% instances), <tt><a href="de_pud-dep-orphan.html">orphan</a></tt> (2; 0% instances), <tt><a href="de_pud-dep-dep.html">dep</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 10 different parts of speech: <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (320; 43% instances), <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (273; 37% instances), <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt> (73; 10% instances), <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (42; 6% instances), <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> (16; 2% instances), <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> (12; 2% instances), <tt><a href="de_pud-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="de_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="de_pud-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 11 different parts of speech: <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (319; 43% instances), <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (272; 37% instances), <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt> (73; 10% instances), <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (42; 6% instances), <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> (15; 2% instances), <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> (12; 2% instances), <tt><a href="de_pud-pos-DET.html">DET</a></tt> (5; 1% instances), <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="de_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="de_pud-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="de_pud-pos-X.html">X</a></tt> (1; 0% instances)
 
 736 (99%) `CCONJ` nodes are leaves.
 

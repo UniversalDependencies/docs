@@ -22,10 +22,10 @@ The following 69 pairs of parts of speech are connected with `dep`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 1 dep	color:blue
-1	…ъ	…ъ	X	_	_	4	dep	_	wf="…ъ"|addr="018:2"|line_id=2|SpaceAfter=Yes
-2	на	на	ADP	_	_	3	case	_	wf="на"|addr="018:2"|SpaceAfter=Yes
-3	дорѣ	доръ	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	4	obl	_	wf="дорѣ"|meaning="земля,_расчищенная_под_пашню"|addr="018:2"|SpaceAfter=Yes
-4	помѣ<lbr/>…	помѣстити	VERB	_	Voice=Act	0	root	_	wf="помѣ…"|comment=lemma_unsure|addr="018:2"|SpaceAfter=Yes
+1	…ъ	…ъ	X	_	_	4	dep	_	wf="…ъ"|addr="018:2"|line_id=2|_
+2	на	на	ADP	_	_	3	case	_	wf="на"|addr="018:2"|_
+3	дорѣ	доръ	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	4	obl	_	wf="дорѣ"|meaning="земля,_расчищенная_под_пашню"|addr="018:2"|_
+4	помѣ<lbr/>…	помѣстити	VERB	_	Voice=Act	0	root	_	wf="помѣ…"|comment=lemma_unsure|addr="018:2"|_
 
 ~~~
 
@@ -36,19 +36,19 @@ The following 69 pairs of parts of speech are connected with `dep`: <tt><a href=
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 9 dep	color:blue
-1	…	…	PUNCT	_	_	5	punct	_	wf="…"|line_id=2|SpaceAfter=Yes
-2	[г]сне	господинъ	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	wf="гсне"|addr="034:2"|SpaceAfter=Yes
-3	ни	ни	PART	_	_	5	cc	_	wf="ни"|addr="034:2"|SpaceAfter=Yes
-4	…	…	PUNCT	_	_	5	punct	_	wf="…"|SpaceAfter=Yes
-5	…оривъ	…оривъ	X	_	_	0	root	_	wf="…оривъ"|addr="034:3"|line_id=3|SpaceAfter=Yes
-6	…	…	PUNCT	_	_	5	punct	_	wf="…"|SpaceAfter=Yes
-7	…	…	PUNCT	_	_	8	punct	_	wf="…"|line_id=4|SpaceAfter=Yes
-8	(же)ребец…	жеребець	NOUN	_	Gender=Masc|Number=Sing	5	dep	_	wf="жеребец…"|addr="034:4"|SpaceAfter=Yes
-9	…ѧ	…ѧ	X	_	_	8	dep	_	wf="…ѧ"|addr="034:5"|line_id=5|SpaceAfter=Yes
-10	ѹ	у	ADP	_	_	11	case	_	wf="ѹ"|addr="034:5"|SpaceAfter=Yes
-11	се…	се…	X	_	_	5	dep	_	wf="се…"|addr="034:5"|SpaceAfter=Yes
-12	…литъ	…литъ	X	_	_	5	dep	_	wf="…литъ"|addr="034:6"|line_id=6|SpaceAfter=Yes
-13	…	…	PUNCT	_	_	5	punct	_	wf="…"|SpaceAfter=Yes
+1	…	…	PUNCT	_	_	5	punct	_	wf="…"|line_id=2|_
+2	[г]сне	господинъ	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	wf="гсне"|addr="034:2"|_
+3	ни	ни	PART	_	_	5	cc	_	wf="ни"|addr="034:2"|_
+4	…	…	PUNCT	_	_	5	punct	_	wf="…"|_
+5	…оривъ	…оривъ	X	_	_	0	root	_	wf="…оривъ"|addr="034:3"|line_id=3|_
+6	…	…	PUNCT	_	_	5	punct	_	wf="…"|_
+7	…	…	PUNCT	_	_	8	punct	_	wf="…"|line_id=4|_
+8	(же)ребец…	жеребець	NOUN	_	Gender=Masc|Number=Sing	5	dep	_	wf="жеребец…"|addr="034:4"|_
+9	…ѧ	…ѧ	X	_	_	8	dep	_	wf="…ѧ"|addr="034:5"|line_id=5|_
+10	ѹ	у	ADP	_	_	11	case	_	wf="ѹ"|addr="034:5"|_
+11	се…	се…	X	_	_	5	dep	_	wf="се…"|addr="034:5"|_
+12	…литъ	…литъ	X	_	_	5	dep	_	wf="…литъ"|addr="034:6"|line_id=6|_
+13	…	…	PUNCT	_	_	5	punct	_	wf="…"|_
 
 ~~~
 
@@ -59,19 +59,19 @@ The following 69 pairs of parts of speech are connected with `dep`: <tt><a href=
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 11 dep	color:blue
-1	…	…	PUNCT	_	_	5	punct	_	wf="…"|line_id=2|SpaceAfter=Yes
-2	[г]сне	господинъ	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	wf="гсне"|addr="034:2"|SpaceAfter=Yes
-3	ни	ни	PART	_	_	5	cc	_	wf="ни"|addr="034:2"|SpaceAfter=Yes
-4	…	…	PUNCT	_	_	5	punct	_	wf="…"|SpaceAfter=Yes
-5	…оривъ	…оривъ	X	_	_	0	root	_	wf="…оривъ"|addr="034:3"|line_id=3|SpaceAfter=Yes
-6	…	…	PUNCT	_	_	5	punct	_	wf="…"|SpaceAfter=Yes
-7	…	…	PUNCT	_	_	8	punct	_	wf="…"|line_id=4|SpaceAfter=Yes
-8	(же)ребец…	жеребець	NOUN	_	Gender=Masc|Number=Sing	5	dep	_	wf="жеребец…"|addr="034:4"|SpaceAfter=Yes
-9	…ѧ	…ѧ	X	_	_	8	dep	_	wf="…ѧ"|addr="034:5"|line_id=5|SpaceAfter=Yes
-10	ѹ	у	ADP	_	_	11	case	_	wf="ѹ"|addr="034:5"|SpaceAfter=Yes
-11	се…	се…	X	_	_	5	dep	_	wf="се…"|addr="034:5"|SpaceAfter=Yes
-12	…литъ	…литъ	X	_	_	5	dep	_	wf="…литъ"|addr="034:6"|line_id=6|SpaceAfter=Yes
-13	…	…	PUNCT	_	_	5	punct	_	wf="…"|SpaceAfter=Yes
+1	…	…	PUNCT	_	_	5	punct	_	wf="…"|line_id=2|_
+2	[г]сне	господинъ	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	wf="гсне"|addr="034:2"|_
+3	ни	ни	PART	_	_	5	cc	_	wf="ни"|addr="034:2"|_
+4	…	…	PUNCT	_	_	5	punct	_	wf="…"|_
+5	…оривъ	…оривъ	X	_	_	0	root	_	wf="…оривъ"|addr="034:3"|line_id=3|_
+6	…	…	PUNCT	_	_	5	punct	_	wf="…"|_
+7	…	…	PUNCT	_	_	8	punct	_	wf="…"|line_id=4|_
+8	(же)ребец…	жеребець	NOUN	_	Gender=Masc|Number=Sing	5	dep	_	wf="жеребец…"|addr="034:4"|_
+9	…ѧ	…ѧ	X	_	_	8	dep	_	wf="…ѧ"|addr="034:5"|line_id=5|_
+10	ѹ	у	ADP	_	_	11	case	_	wf="ѹ"|addr="034:5"|_
+11	се…	се…	X	_	_	5	dep	_	wf="се…"|addr="034:5"|_
+12	…литъ	…литъ	X	_	_	5	dep	_	wf="…литъ"|addr="034:6"|line_id=6|_
+13	…	…	PUNCT	_	_	5	punct	_	wf="…"|_
 
 ~~~
 

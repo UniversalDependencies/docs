@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>o</em> (<tt><a href="pt_cintil-pos-DE
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.389398).
+The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.389383).
 
 The 1st highest number of forms (1) was observed with the lemma “a”: <em>a</em>.
 
@@ -64,13 +64,13 @@ The 2nd highest number of forms (1) was observed with the lemma “algum”: <em
 
 The 3rd highest number of forms (1) was observed with the lemma “alguma”: <em>alguma</em>.
 
-`DET` occurs with 2 features: <tt><a href="pt_cintil-feat-Number.html">Number</a></tt> (77979; 100% instances), <tt><a href="pt_cintil-feat-Gender.html">Gender</a></tt> (77510; 99% instances)
+`DET` occurs with 4 features: <tt><a href="pt_cintil-feat-PronType.html">PronType</a></tt> (78065; 100% instances), <tt><a href="pt_cintil-feat-Number.html">Number</a></tt> (77979; 100% instances), <tt><a href="pt_cintil-feat-Gender.html">Gender</a></tt> (77510; 99% instances), <tt><a href="pt_cintil-feat-Definite.html">Definite</a></tt> (70597; 90% instances)
 
-`DET` occurs with 4 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`
+`DET` occurs with 9 feature-value pairs: `Definite=Def`, `Definite=Ind`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `PronType=Art`, `PronType=Dem`, `PronType=Ind`
 
-`DET` occurs with 7 feature combinations.
-The most frequent feature combination is `Gender=Masc|Number=Sing` (31361 tokens).
-Examples: <em>o, um, este, isso, esse, isto, todo, nenhum, aquele, algum</em>
+`DET` occurs with 22 feature combinations.
+The most frequent feature combination is `Definite=Def|Gender=Masc|Number=Sing|PronType=Art` (23789 tokens).
+Examples: <em>o</em>
 
 
 ## Relations

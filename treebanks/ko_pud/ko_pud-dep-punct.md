@@ -33,7 +33,7 @@ The following 11 pairs of parts of speech are connected with `punct`: <tt><a hre
 9	조금	_	ADV	RB	_	10	advmod	_	Translit=.jo.geum
 10	다를	_	ADJ	JJ	Form=Adn	11	dep	_	Translit=.da.reul
 11	것	_	NOUN	NNB	_	0	root	_	SpaceAfter=No|Translit=.geos
-12	이다	_	AUX	VC	Mood=Ind|VerbForm=Fin	11	cop	_	SpaceAfter=No|Translit=.i.da
+12	이다	이	AUX	VC	Mood=Ind|VerbForm=Fin	11	cop	_	SpaceAfter=No|Translit=.i.da|LTranslit=.i
 13	.	.	PUNCT	.	_	11	punct	_	Translit=.|LTranslit=.
 
 ~~~
@@ -76,7 +76,7 @@ The following 11 pairs of parts of speech are connected with `punct`: <tt><a hre
 7	근처에	근처	NOUN	NN+CM	Polite=Form	8	obl	_	MSeg=근처-에|Translit=.geun.cheo.e|LTranslit=.geun.cheo
 8	있는	_	ADJ	JJ	Form=Adn	9	acl:relcl	_	Translit=.iss.neun
 9	벨링햄	_	PROPN	NNP	_	0	root	_	SpaceAfter=No|Translit=.bel.ring.haem
-10	이었다	_	AUX	VC	Mood=Ind|Tense=Past|VerbForm=Fin	9	cop	_	SpaceAfter=No|Translit=.i.eoss.da
+10	이었다	이	AUX	VC	Mood=Ind|Tense=Past|VerbForm=Fin	9	cop	_	SpaceAfter=No|Translit=.i.eoss.da|LTranslit=.i
 11	.	.	PUNCT	.	_	9	punct	_	Translit=.|LTranslit=.
 
 ~~~

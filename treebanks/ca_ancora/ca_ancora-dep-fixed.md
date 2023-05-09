@@ -30,11 +30,11 @@ The following 47 pairs of parts of speech are connected with `fixed`: <tt><a hre
 6	seccions	secció	NOUN	ncfp000	Gender=Fem|Number=Plur	11	obl	11:obl	SpaceAfter=No
 7	,	,	PUNCT	fc	PunctType=Comm	6	punct	6:punct	_
 8	se	ell	PRON	p0000000	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	11	obj	11:obj	_
-9	n'	en	PRON	pp3cn000	Case=Gen|Person=3|PronType=Prs	11	nsubj	11:nsubj	SpaceAfter=No
+9	n'	en	PRON	pp3cn000	Case=Gen|Person=3|PronType=Prs	11	expl	11:expl	SpaceAfter=No|ArgTem=arg1:pat
 10	han	haver	AUX	vaip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	aux	11:aux	_
 11	creat	crear	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	0:root	_
 12	de	de	ADP	sps00	_	13	case	13:case	_
-13	noves	nou	ADJ	aq0fp0	Gender=Fem|Number=Plur	11	nsubj	11:nsubj	SpaceAfter=No
+13	noves	nou	ADJ	aq0fp0	Gender=Fem|Number=Plur	11	nsubj	11:nsubj	SpaceAfter=No|ArgTem=arg1:pat
 14	.	.	PUNCT	fp	PunctType=Peri	11	punct	11:punct	_
 
 ~~~
@@ -54,11 +54,11 @@ The following 47 pairs of parts of speech are connected with `fixed`: <tt><a hre
 6	seccions	secció	NOUN	ncfp000	Gender=Fem|Number=Plur	11	obl	11:obl	SpaceAfter=No
 7	,	,	PUNCT	fc	PunctType=Comm	6	punct	6:punct	_
 8	se	ell	PRON	p0000000	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	11	obj	11:obj	_
-9	n'	en	PRON	pp3cn000	Case=Gen|Person=3|PronType=Prs	11	nsubj	11:nsubj	SpaceAfter=No
+9	n'	en	PRON	pp3cn000	Case=Gen|Person=3|PronType=Prs	11	expl	11:expl	SpaceAfter=No|ArgTem=arg1:pat
 10	han	haver	AUX	vaip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	aux	11:aux	_
 11	creat	crear	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	0:root	_
 12	de	de	ADP	sps00	_	13	case	13:case	_
-13	noves	nou	ADJ	aq0fp0	Gender=Fem|Number=Plur	11	nsubj	11:nsubj	SpaceAfter=No
+13	noves	nou	ADJ	aq0fp0	Gender=Fem|Number=Plur	11	nsubj	11:nsubj	SpaceAfter=No|ArgTem=arg1:pat
 14	.	.	PUNCT	fp	PunctType=Peri	11	punct	11:punct	_
 
 ~~~
@@ -70,16 +70,16 @@ The following 47 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 9 fixed	color:blue
-1	Rivaldo	Rivaldo	PROPN	np0000p	_	2	nsubj	2:nsubj	Entity=(CESSCATAAP20000102106c1-person-1-CorefType:ident,gstype:spec)
+1	Rivaldo	Rivaldo	PROPN	np0000p	_	2	nsubj	2:nsubj	ArgTem=arg1:tem|Entity=(CESSCATAAP20000102106c1-person-1-CorefType:ident,gstype:spec)
 2	segueix	seguir	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-3	decidit	decidit	ADJ	aq0msp	Gender=Masc|Number=Sing|VerbForm=Part	2	obj	2:obj	_
+3	decidit	decidit	ADJ	aq0msp	Gender=Masc|Number=Sing|VerbForm=Part	2	obj	2:obj	ArgTem=arg2:atr
 4	a	a	ADP	sps00	_	6	mark	6:mark	_
 5	no	no	ADV	rn	Polarity=Neg	6	advmod	6:advmod	_
-6	jugar	jugar	VERB	vmn0000	VerbForm=Inf	3	xcomp	3:xcomp	_
-7	més	més	ADV	rg	Degree=Cmp	6	advmod	6:advmod	_
+6	jugar	jugar	VERB	vmn0000	VerbForm=Inf	3	xcomp	3:xcomp	ArgTem=arg2:tem
+7	més	més	ADV	rg	Degree=Cmp	6	advmod	6:advmod	ArgTem=argM:adv
 8	com	com	SCONJ	sps00	_	10	case	10:case	MWE=com_a|MWEPOS=ADP
 9	a	a	ADP	_	_	8	fixed	8:fixed	_
-10	extrem	extrem	NOUN	ncms000	Gender=Masc|Number=Sing	6	obj	6:obj	SpaceAfter=No
+10	extrem	extrem	NOUN	ncms000	Gender=Masc|Number=Sing	6	obl:arg	6:obl:arg	SpaceAfter=No|ArgTem=argM:atr
 11	.	.	PUNCT	fp	PunctType=Peri	2	punct	2:punct	_
 
 ~~~

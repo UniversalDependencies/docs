@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Gosse Bouma, Gertjan van Noord.
 
 Repository: [UD_Dutch-LassySmall](https://github.com/UniversalDependencies/UD_Dutch-LassySmall)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udnl_lassysmall211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udnl_lassysmall212)<br />
+Download all treebanks: [UD 2.12](/#download)
 
 License: CC BY-SA 4.0
 
@@ -49,7 +49,7 @@ Universal Dependency annotation was generated automatically from the original an
 
 
 
-The Lassy Small Treebank (https://www.let.rug.nl/~vannoord/Lassy/) is a manually verified treebank for Dutch, annotated with both phrasal nodes and dependency labels (as in the German Tiger treebanks and as in earlier treebank efforts for Dutch). The annotation was converted automatically to UD. The (XQuery) conversion script is available for download at https://github.com/gossebouma/lassy2ud. It can be used to convert additional material annotated according to Lassy/CGN guidelines or annotated automatically using the Alpino parser.
+The Lassy Small Treebank (https://www.let.rug.nl/~vannoord/Lassy/) is a manually verified treebank for Dutch, annotated with both phrasal nodes and dependency labels (as in the German Tiger treebanks and as in earlier treebank efforts for Dutch). The annotation was converted automatically to UD. The (Go and XQuery) conversion script is available for download at https://github.com/rug-compling/alud. It can be used to convert additional material annotated according to Lassy/CGN guidelines or annotated automatically using the Alpino parser.
 
 As not all material in the Lassy Small Treebank can be made freely available, only the material from the Wikipedia (wiki) section is included in UD_Dutch-LassySmall. The train, development, and test sections consist of 6641, 350, and 350 sentences, respectively, taken from a random shuffle of the original dataset.
 
@@ -70,7 +70,7 @@ Gosse Bouma is responsible for the conversion. Gertjan van Noord helped in sorti
 
 ## Relations
 
-[acl](nl_lassysmall-dep-acl.html) – [acl:relcl](nl_lassysmall-dep-acl-relcl.html) – [advcl](nl_lassysmall-dep-advcl.html) – [advmod](nl_lassysmall-dep-advmod.html) – [amod](nl_lassysmall-dep-amod.html) – [appos](nl_lassysmall-dep-appos.html) – [aux](nl_lassysmall-dep-aux.html) – [aux:pass](nl_lassysmall-dep-aux-pass.html) – [case](nl_lassysmall-dep-case.html) – [cc](nl_lassysmall-dep-cc.html) – [ccomp](nl_lassysmall-dep-ccomp.html) – [compound:prt](nl_lassysmall-dep-compound-prt.html) – [conj](nl_lassysmall-dep-conj.html) – [cop](nl_lassysmall-dep-cop.html) – [csubj](nl_lassysmall-dep-csubj.html) – [det](nl_lassysmall-dep-det.html) – [expl](nl_lassysmall-dep-expl.html) – [expl:pv](nl_lassysmall-dep-expl-pv.html) – [fixed](nl_lassysmall-dep-fixed.html) – [flat](nl_lassysmall-dep-flat.html) – [iobj](nl_lassysmall-dep-iobj.html) – [mark](nl_lassysmall-dep-mark.html) – [nmod](nl_lassysmall-dep-nmod.html) – [nmod:poss](nl_lassysmall-dep-nmod-poss.html) – [nsubj](nl_lassysmall-dep-nsubj.html) – [nsubj:pass](nl_lassysmall-dep-nsubj-pass.html) – [nummod](nl_lassysmall-dep-nummod.html) – [obj](nl_lassysmall-dep-obj.html) – [obl](nl_lassysmall-dep-obl.html) – [obl:agent](nl_lassysmall-dep-obl-agent.html) – [orphan](nl_lassysmall-dep-orphan.html) – [parataxis](nl_lassysmall-dep-parataxis.html) – [punct](nl_lassysmall-dep-punct.html) – [root](nl_lassysmall-dep-root.html) – [xcomp](nl_lassysmall-dep-xcomp.html)
+[acl](nl_lassysmall-dep-acl.html) – [acl:relcl](nl_lassysmall-dep-acl-relcl.html) – [advcl](nl_lassysmall-dep-advcl.html) – [advmod](nl_lassysmall-dep-advmod.html) – [amod](nl_lassysmall-dep-amod.html) – [appos](nl_lassysmall-dep-appos.html) – [aux](nl_lassysmall-dep-aux.html) – [aux:pass](nl_lassysmall-dep-aux-pass.html) – [case](nl_lassysmall-dep-case.html) – [cc](nl_lassysmall-dep-cc.html) – [cc:preconj](nl_lassysmall-dep-cc-preconj.html) – [ccomp](nl_lassysmall-dep-ccomp.html) – [compound:prt](nl_lassysmall-dep-compound-prt.html) – [conj](nl_lassysmall-dep-conj.html) – [cop](nl_lassysmall-dep-cop.html) – [csubj](nl_lassysmall-dep-csubj.html) – [det](nl_lassysmall-dep-det.html) – [expl](nl_lassysmall-dep-expl.html) – [expl:pv](nl_lassysmall-dep-expl-pv.html) – [fixed](nl_lassysmall-dep-fixed.html) – [flat](nl_lassysmall-dep-flat.html) – [iobj](nl_lassysmall-dep-iobj.html) – [mark](nl_lassysmall-dep-mark.html) – [nmod](nl_lassysmall-dep-nmod.html) – [nmod:poss](nl_lassysmall-dep-nmod-poss.html) – [nsubj](nl_lassysmall-dep-nsubj.html) – [nsubj:pass](nl_lassysmall-dep-nsubj-pass.html) – [nummod](nl_lassysmall-dep-nummod.html) – [obj](nl_lassysmall-dep-obj.html) – [obl](nl_lassysmall-dep-obl.html) – [obl:agent](nl_lassysmall-dep-obl-agent.html) – [orphan](nl_lassysmall-dep-orphan.html) – [parataxis](nl_lassysmall-dep-parataxis.html) – [punct](nl_lassysmall-dep-punct.html) – [root](nl_lassysmall-dep-root.html) – [xcomp](nl_lassysmall-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -111,11 +111,11 @@ Gosse Bouma is responsible for the conversion. Gertjan van Noord helped in sorti
 </ul>
 
 <ul>
-<li>This corpus contains 59 lemmas tagged as determiners (DET): +11,77, +46,29, +52,93, +64,68, 1/2, 1/4, 1/8, 26%, 3×, al, allerlei, anderhalf, beide, ca, dat, datzelfde, de, der, deze, dezelfde, die, diezelfde, dit, een, elk, enig, enkel, ettelijk, geen, haar, haast, het, hetzelfde, ieder, meerdere, menig, net, niet, nog, nogal, ongeveer, onvoldoende, sommig, steeds, te, tweederde, veel, voldoende, vrijwel, wat, weinig, wel, welk, wie, zeer, zijn, zo'n, zowat, zulk</li>
+<li>This corpus contains 56 lemmas tagged as determiners (DET): +11,77, +46,29, +52,93, +64,68, 1/2, 1/4, 1/8, 26%, 3×, al, allerlei, anderhalf, beide, bijna, dat, datzelfde, de, deze, dezelfde, die, diezelfde, dit, een, elk, enig, enkel, ettelijk, geen, haast, het, hetzelfde, ieder, meerdere, menig, net, niet, nog, nogal, ongeveer, onvoldoende, sommig, steeds, te, tweederde, veel, voldoende, vrijwel, wat, weinig, wel, welk, wie, zeer, zo'n, zowat, zulk</li>
 </ul>
 
 <ul>
-<li>Out of the above, 20 lemmas occurred sometimes as PRON and sometimes as DET: al, beide, dat, deze, die, dit, elk, enig, enkel, geen, haar, het, ieder, sommig, veel, wat, weinig, welk, wie, zijn</li>
+<li>Out of the above, 18 lemmas occurred sometimes as PRON and sometimes as DET: al, beide, dat, deze, die, dit, elk, enig, enkel, geen, het, ieder, sommig, veel, wat, weinig, welk, wie</li>
 </ul>
 
 <ul>
@@ -168,7 +168,7 @@ Gosse Bouma is responsible for the conversion. Gertjan van Noord helped in sorti
   <li>Com
     <ul>
       <li>NOUN: partij, stad, eeuw, naam, koning, regering, finale, provincie, politie, reeks</li>
-      <li>PROPN: juni, oktober, Ensor, Vandersteen, Kuifje, VLD, CVP, D66, november, Napoleon</li>
+      <li>PROPN: Wiske, Suske, juni, oktober, Ensor, Vandersteen, Kuifje, VLD, CVP, D66</li>
     </ul>
   </li>
 </ul>
@@ -176,7 +176,7 @@ Gosse Bouma is responsible for the conversion. Gertjan van Noord helped in sorti
 <ul>
   <li>Com,Neut
     <ul>
-      <li>NOUN: keer, soort, mout, Salon, boord, katoen, sorghum, tin, wort</li>
+      <li>NOUN: soort, mout, boord, katoen, krijtpoeder, sorghum, tin, wort</li>
       <li>PROPN: Spirit, Vivant, Parijs-Roubaix, Euronext, SPIRIT, Dexia, Fortis, Giroux, Mobistar, Prego</li>
     </ul>
   </li>
@@ -185,7 +185,7 @@ Gosse Bouma is responsible for the conversion. Gertjan van Noord helped in sorti
 <ul>
   <li>Neut
     <ul>
-      <li>NOUN: jaar, deel, aantal, werk, begin, museum, land, bier, centrum, gewest</li>
+      <li>NOUN: jaar, deel, aantal, werk, begin, land, bier, gewest, centrum, gebied</li>
       <li>PROPN: België, Brussel, Antwerpen, Vlaanderen, Hasselt, Nederland, Bel, Limburg, Luik, Gent</li>
     </ul>
   </li>
@@ -201,7 +201,7 @@ Gosse Bouma is responsible for the conversion. Gertjan van Noord helped in sorti
     <ul>
       <li>AUX-Fin: zijn, werden, waren, worden, hebben, kunnen, hadden, moeten, zouden, moesten</li>
       <li>NOUN: jaren, verkiezingen, gemeenten, partijen, inwoners, leden, links, zetels, verhalen, provincies</li>
-      <li>PROPN: Belgen, Nederlanden, Fransen, Vlamingen, Pruisen, Kempen, grenslandhallen, Ardennen, Brusselaars, Middeleeuwen</li>
+      <li>PROPN: Belgen, Nederlanden, Fransen, Vlamingen, Pruisen, Kempen, grenslandhallen, Brusselaars, Middeleeuwen, Ardennen</li>
       <li>VERB-Fin: zijn, hebben, kwamen, staan, vormen, verschenen, hadden, gaan, komen, bestaan</li>
     </ul>
   </li>
@@ -212,7 +212,7 @@ Gosse Bouma is responsible for the conversion. Gertjan van Noord helped in sorti
     <ul>
       <li>AUX-Fin: is, werd, was, wordt, zou, kan, had, heeft, kon, moest</li>
       <li>NOUN: partij, jaar, stad, eeuw, naam, koning, regering, finale, deel, provincie</li>
-      <li>PROPN: België, Brussel, Antwerpen, Vlaanderen, Hasselt, Nederland, Bel, juni, oktober, Vandersteen</li>
+      <li>PROPN: België, Brussel, Antwerpen, Vlaanderen, Hasselt, Wiske, Suske, Nederland, Bel, juni</li>
       <li>VERB-Fin: werd, zie, heeft, kwam, is, komt, telt, staat, was, wint</li>
     </ul>
   </li>
@@ -269,7 +269,7 @@ Gosse Bouma is responsible for the conversion. Gertjan van Noord helped in sorti
 <ul>
   <li>Cmp
     <ul>
-      <li>ADJ: later, verder, eerder, beter, vroeger, hogere, vroegere, latere, oudere, jongeren</li>
+      <li>ADJ: later, verder, eerder, vroeger, beter, hogere, vroegere, latere, oudere, jongeren</li>
     </ul>
   </li>
 </ul>
@@ -440,7 +440,7 @@ Gosse Bouma is responsible for the conversion. Gertjan van Noord helped in sorti
     <ul>
       <li>Yes
         <ul>
-          <li>X: ca., o.a., nr., v.Chr., lib, kath, o.m., blz., bv, dd</li>
+          <li>X: ca., o.a., nr., v.Chr., Ned, lib, kath, o.m., blz., bv</li>
         </ul>
       </li>
     </ul>
@@ -466,15 +466,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (1386)</li>
-      <li>VERB-Fin--PRON (657)</li>
+      <li>VERB-Fin--NOUN (1373)</li>
+      <li>VERB-Fin--PRON (658)</li>
       <li>VERB-Fin--PRON-Nom (418)</li>
       <li>VERB-Inf--NOUN (100)</li>
-      <li>VERB-Inf--PRON (59)</li>
+      <li>VERB-Inf--PRON (58)</li>
       <li>VERB-Inf--PRON-Nom (59)</li>
-      <li>VERB-Part--NOUN (100)</li>
+      <li>VERB-Part--NOUN (101)</li>
       <li>VERB-Part--PRON (56)</li>
-      <li>VERB-Part--PRON-Nom (33)</li>
+      <li>VERB-Part--PRON-Nom (35)</li>
     </ul>
   </li>
 </ul>
@@ -482,13 +482,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (1165)</li>
+      <li>VERB-Fin--NOUN (1164)</li>
       <li>VERB-Fin--PRON (85)</li>
       <li>VERB-Fin--PRON-Acc (50)</li>
-      <li>VERB-Inf--NOUN (359)</li>
+      <li>VERB-Inf--NOUN (358)</li>
       <li>VERB-Inf--PRON (26)</li>
-      <li>VERB-Inf--PRON-Acc (44)</li>
-      <li>VERB-Part--NOUN (73)</li>
+      <li>VERB-Inf--PRON-Acc (45)</li>
+      <li>VERB-Part--NOUN (74)</li>
       <li>VERB-Part--PRON (11)</li>
       <li>VERB-Part--PRON-Acc (3)</li>
     </ul>
@@ -503,7 +503,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Acc (10)</li>
       <li>VERB-Inf--NOUN (10)</li>
       <li>VERB-Inf--PRON (1)</li>
-      <li>VERB-Inf--PRON-Acc (4)</li>
+      <li>VERB-Inf--PRON-Acc (3)</li>
       <li>VERB-Part--NOUN (3)</li>
       <li>VERB-Part--PRON-Acc (5)</li>
     </ul>
@@ -529,7 +529,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 7 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>expl:pv</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
+<li>This corpus uses 8 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>expl:pv</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>compound</a></li>
 <li>The following 8 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Apurina-UFPA: POS Tags: `CCONJ`
 
 There are 2 `CCONJ` lemmas (1%), 2 `CCONJ` types (1%) and 8 `CCONJ` tokens (1%).
-Out of 15 observed tags, the rank of `CCONJ` is: 10 in number of lemmas, 11 in number of types and 9 in number of tokens.
+Out of 16 observed tags, the rank of `CCONJ` is: 10 in number of lemmas, 11 in number of types and 10 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>txamary, i</em>
 
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.201493).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.228873).
 
 The 1st highest number of forms (1) was observed with the lemma “i”: <em>i</em>.
 

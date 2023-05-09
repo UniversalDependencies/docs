@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="mdf_jr-pos-NUM.html
 
 ### `NUM`
 
-2 <tt><a href="mdf_jr-pos-NUM.html">NUM</a></tt> tokens (5% of all `NUM` tokens) have a non-empty value of `NumForm`.
+2 <tt><a href="mdf_jr-pos-NUM.html">NUM</a></tt> tokens (6% of all `NUM` tokens) have a non-empty value of `NumForm`.
 
 The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (2; 100%), <tt><a href="mdf_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="mdf_jr-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="mdf_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%).
 

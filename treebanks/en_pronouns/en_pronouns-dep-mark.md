@@ -44,8 +44,8 @@ The following 2 pairs of parts of speech are connected with `mark`: <tt><a href=
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	easy	easy	ADJ	JJ	Degree=Pos	0	root	_	_
 4	to	to	PART	TO	_	5	mark	_	_
-5	clean	clean	VERB	VB	VerbForm=Inf	3	csubj	_	SpaceAfter=No
-6	.	.	PUNCT	.	_	5	punct	_	_
+5	clean	clean	VERB	VB	VerbForm=Inf	3	advcl	_	SpaceAfter=No
+6	.	.	PUNCT	.	_	3	punct	_	_
 
 ~~~
 

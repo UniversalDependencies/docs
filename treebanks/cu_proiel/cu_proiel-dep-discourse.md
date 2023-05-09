@@ -8,33 +8,24 @@ udver: '2'
 
 This relation is universal.
 
-2035 nodes (4%) are attached to their parents as `discourse`.
+6881 nodes (3%) are attached to their parents as `discourse`.
 
-1443 instances of `discourse` (71%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.68550368550369.
+5224 instances of `discourse` (76%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.55253596860921.
 
-The following 13 pairs of parts of speech are connected with `discourse`: <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (1693; 83% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (107; 5% instances), <tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (79; 4% instances), <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (65; 3% instances), <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (28; 1% instances), <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (19; 1% instances), <tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (13; 1% instances), <tt><a href="cu_proiel-pos-INTJ.html">INTJ</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (10; 0% instances), <tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (9; 0% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-INTJ.html">INTJ</a></tt> (5; 0% instances), <tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cu_proiel-pos-INTJ.html">INTJ</a></tt> (2; 0% instances).
+The following 18 pairs of parts of speech are connected with `discourse`: <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (5054; 73% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-INTJ.html">INTJ</a></tt> (499; 7% instances), <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (360; 5% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (310; 5% instances), <tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (172; 2% instances), <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (153; 2% instances), <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (99; 1% instances), <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cu_proiel-pos-INTJ.html">INTJ</a></tt> (73; 1% instances), <tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (37; 1% instances), <tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (28; 0% instances), <tt><a href="cu_proiel-pos-INTJ.html">INTJ</a></tt>-<tt><a href="cu_proiel-pos-INTJ.html">INTJ</a></tt> (24; 0% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cu_proiel-pos-INTJ.html">INTJ</a></tt> (19; 0% instances), <tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="cu_proiel-pos-INTJ.html">INTJ</a></tt> (18; 0% instances), <tt><a href="cu_proiel-pos-INTJ.html">INTJ</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (12; 0% instances), <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="cu_proiel-pos-INTJ.html">INTJ</a></tt> (10; 0% instances), <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="cu_proiel-pos-INTJ.html">INTJ</a></tt> (6; 0% instances), <tt><a href="cu_proiel-pos-DET.html">DET</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (3; 0% instances).
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 2 discourse	color:blue
-1	аще	аще	SCONJ	G-	_	6	mark	_	Ref=MATT_5.29
-2	же	же	ADV	Df	_	8	discourse	_	Ref=MATT_5.29
-3	око	око	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	Ref=MATT_5.29
-4	твое	твои	ADJ	Ps	Case=Nom|Gender=Neut|Number=Sing|Person=2|Poss=Yes	3	nmod	_	Ref=MATT_5.29
-5	десное	деснъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	Ref=MATT_5.29
-6	съблажнаатъ	съблажнꙗти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	Ref=MATT_5.29
-7	тѧ	тꙑ	PRON	Pp	Case=Acc|Number=Sing|Person=2|PronType=Prs	6	obj	_	Ref=MATT_5.29
-8	ꙇзьми	изѧти	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_5.29
-9	е	и	PRON	Pp	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	obj	_	Ref=MATT_5.29
-10	и	и	CCONJ	C-	_	8	cc	_	Ref=MATT_5.29
-11	връзи	врѣщи	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	Ref=MATT_5.29
-12	отъ	отъ	ADP	R-	_	13	case	_	Ref=MATT_5.29
-13	тебе	тꙑ	PRON	Pp	Case=Gen|Number=Sing|Person=2|PronType=Prs	11	obl	_	Ref=MATT_5.29
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 1 discourse	color:blue
+1	їбо	ибо	ADV	Df	_	4	discourse	_	ref=76.18
+2	стрѣлꙑ	стрѣла	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	4	nsubj	_	ref=76.18
+3	твоѩ	твои	DET	Ps	Case=Nom|Gender=Fem|Number=Plur|Person=2|Poss=Yes	2	det	_	ref=76.18
+4	прѣходѩтъ	прѣходити	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=76.18
 
 ~~~
 
@@ -42,40 +33,30 @@ The following 13 pairs of parts of speech are connected with `discourse`: <tt><a
 ~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 2 discourse	color:blue
-1	бѫдѣте	бꙑти	AUX	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	Ref=MATT_5.48
-2	оубо	оубо	ADV	Df	_	4	discourse	_	Ref=MATT_5.48
-3	вꙑ	вꙑ	PRON	Pp	Case=Nom|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	Ref=MATT_5.48
-4	съвръшени	съврьшенъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Variant=Short	0	root	_	Ref=MATT_5.48
-5	ѣко	ꙗко	ADV	Dq	PronType=Rel	10	advmod	_	Ref=MATT_5.48
-6	и	и	ADV	Df	_	7	advmod	_	Ref=MATT_5.48
-7	отецъ	отьць	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	Ref=MATT_5.48
-8	вашъ	вашь	ADJ	Ps	Case=Nom|Gender=Masc|Number=Sing|Person=2|Poss=Yes	7	nmod	_	Ref=MATT_5.48
-9	н҃бскꙑ	небесьскъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	Ref=MATT_5.48
-10	съвръшенъ	съврьшенъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	4	advcl	_	Ref=MATT_5.48
-11	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	Ref=MATT_5.48
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 2 discourse	color:blue
+1	и҅	и	CCONJ	C-	_	6	cc	_	ref=8
+2	се	сь	INTJ	I-	_	6	discourse	_	ref=8
+3	лице	лице	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	ref=8
+4	ѥ҅го	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	det	_	ref=8
+5	о҅браꙁꙑ	образъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	6	obj	_	ref=8
+6	и҅ꙁмѣнꙗше	измѣнꙗти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=8
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 2 discourse	color:blue
-1	Се	сь	DET	Pd	Case=Nom|Gender=Neut|Number=Sing	3	det	_	Ref=MATT_21.4
-2	же	же	ADV	Df	_	4	discourse	_	Ref=MATT_21.4
-3	вьсе	вьсь	ADJ	Px	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	Ref=MATT_21.4
-4	бꙑстъ	бꙑти	AUX	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_21.4
-5	да	да	SCONJ	G-	_	6	mark	_	Ref=MATT_21.4
-6	събѫдетъ	събꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	advcl	_	Ref=MATT_21.4
-7	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	6	expl	_	Ref=MATT_21.4
-8	реченое	рещи	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	6	nsubj	_	Ref=MATT_21.4
-9	п҃ркмъ	пророкъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	8	obl:agent	_	Ref=MATT_21.4
-10	г҃лѭщемъ	глаголати	VERB	V-	Case=Ins|Gender=Masc,Neut|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	9	acl	_	Ref=MATT_21.4
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 discourse	color:blue
+1	Ѣко	ꙗко	ADV	Df	_	3	discourse	_	ref=105.1|LId=2
+2	вь	въ	ADP	R-	_	3	case	_	ref=105.1
+3	вѣкъ	вѣкъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	0	root	_	ref=105.1
+4	мілостъ	милость	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	ref=105.1
+5	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	det	_	ref=105.1
 
 ~~~
 

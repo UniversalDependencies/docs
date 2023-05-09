@@ -6,28 +6,32 @@ udver: '2'
 
 ## Treebank Statistics: UD_Latin-ITTB: POS Tags: `PART`
 
-There are 7 `PART` lemmas (0%), 8 `PART` types (0%) and 18832 `PART` tokens (4%).
-Out of 15 observed tags, the rank of `PART` is: 13 in number of lemmas, 13 in number of types and 12 in number of tokens.
+There are 8 `PART` lemmas (0%), 9 `PART` types (0%) and 18834 `PART` tokens (4%).
+Out of 15 observed tags, the rank of `PART` is: 12 in number of lemmas, 13 in number of types and 12 in number of tokens.
 
-The 10 most frequent `PART` lemmas: <em>non, autem, enim, nam, quidem, quoque, ne</em>
+The 10 most frequent `PART` lemmas: <em>non, autem, enim, nam, quidem, quoque, igitur, ne</em>
 
-The 10 most frequent `PART` types:  <em>non, autem, enim, nam, quidem, namque, quoque, ne</em>
+The 10 most frequent `PART` types:  <em>non, autem, enim, nam, quidem, namque, quoque, igitur, ne</em>
 
-The 10 most frequent ambiguous lemmas: <em>non</em> (<tt><a href="la_ittb-pos-PART.html">PART</a></tt> 9149, <tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> 1), <em>ne</em> (<tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> 92, <tt><a href="la_ittb-pos-PART.html">PART</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>non</em> (<tt><a href="la_ittb-pos-PART.html">PART</a></tt> 9149, <tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> 1), <em>igitur</em> (<tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> 3380, <tt><a href="la_ittb-pos-PART.html">PART</a></tt> 2, <tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> 2), <em>ne</em> (<tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> 92, <tt><a href="la_ittb-pos-PART.html">PART</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>non</em> (<tt><a href="la_ittb-pos-PART.html">PART</a></tt> 9149, <tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> 1), <em>ne</em> (<tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> 92, <tt><a href="la_ittb-pos-PART.html">PART</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>non</em> (<tt><a href="la_ittb-pos-PART.html">PART</a></tt> 9149, <tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> 1), <em>igitur</em> (<tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> 3380, <tt><a href="la_ittb-pos-PART.html">PART</a></tt> 2, <tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> 2), <em>ne</em> (<tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> 92, <tt><a href="la_ittb-pos-PART.html">PART</a></tt> 1)
 
 
 * <em>non</em>
   * <tt><a href="la_ittb-pos-PART.html">PART</a></tt> 9149: <em>quia uero <b>non</b> omnis ueritatis manifestandae modus est idem ;</em>
   * <tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> 1: <em>oportet igitur intellectum in habitu , qui est habitus scientiae , esse in intellectu possibili , <b>non</b> passiuo .</em>
+* <em>igitur</em>
+  * <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> 3380: <em>oportet <b>igitur</b> ultimum finem uniuersi esse bonum intellectus .</em>
+  * <tt><a href="la_ittb-pos-PART.html">PART</a></tt> 2: <em>exigit <b>igitur</b> diuinae prouidentiae perfectio quod sint causae mediae executrices ipsius .</em>
+  * <tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> 2: <em>non <b>igitur</b> possunt esse causa per se eorum quae sunt circa intellectum .</em>
 * <em>ne</em>
   * <tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> 92: <em>non tamen peccatum morale : <b>ne</b> cogamur in infinitum procedere .</em>
   * <tt><a href="la_ittb-pos-PART.html">PART</a></tt> 1: <em>utrum sint bene ordinata nec <b>ne</b> .</em>
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.142857 (the average of all parts of speech is 3.338645).
+The form / lemma ratio of `PART` is 1.125000 (the average of all parts of speech is 3.339343).
 
 The 1st highest number of forms (2) was observed with the lemma “nam”: <em>nam, namque</em>.
 
@@ -40,17 +44,17 @@ The 3rd highest number of forms (1) was observed with the lemma “enim”: <em>
 `PART` occurs with 2 feature-value pairs: `Form=Emp`, `Polarity=Neg`
 
 `PART` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (9678 tokens).
-Examples: <em>autem, enim, nam, quidem, namque</em>
+The most frequent feature combination is `_` (9680 tokens).
+Examples: <em>autem, enim, nam, quidem, namque, igitur</em>
 
 
 ## Relations
 
-`PART` nodes are attached to their parents using 9 different relations: <tt><a href="la_ittb-dep-discourse.html">discourse</a></tt> (9676; 51% instances), <tt><a href="la_ittb-dep-advmod-neg.html">advmod:neg</a></tt> (8994; 48% instances), <tt><a href="la_ittb-dep-conj.html">conj</a></tt> (72; 0% instances), <tt><a href="la_ittb-dep-orphan.html">orphan</a></tt> (41; 0% instances), <tt><a href="la_ittb-dep-root.html">root</a></tt> (33; 0% instances), <tt><a href="la_ittb-dep-advcl.html">advcl</a></tt> (13; 0% instances), <tt><a href="la_ittb-dep-advcl-relcl.html">advcl:relcl</a></tt> (1; 0% instances), <tt><a href="la_ittb-dep-mark.html">mark</a></tt> (1; 0% instances), <tt><a href="la_ittb-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
+`PART` nodes are attached to their parents using 9 different relations: <tt><a href="la_ittb-dep-discourse.html">discourse</a></tt> (9678; 51% instances), <tt><a href="la_ittb-dep-advmod-neg.html">advmod:neg</a></tt> (8994; 48% instances), <tt><a href="la_ittb-dep-conj.html">conj</a></tt> (72; 0% instances), <tt><a href="la_ittb-dep-orphan.html">orphan</a></tt> (41; 0% instances), <tt><a href="la_ittb-dep-root.html">root</a></tt> (33; 0% instances), <tt><a href="la_ittb-dep-advcl.html">advcl</a></tt> (13; 0% instances), <tt><a href="la_ittb-dep-advcl-relcl.html">advcl:relcl</a></tt> (1; 0% instances), <tt><a href="la_ittb-dep-mark.html">mark</a></tt> (1; 0% instances), <tt><a href="la_ittb-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
-Parents of `PART` nodes belong to 13 different parts of speech: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (11511; 61% instances), <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (2455; 13% instances), <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (1717; 9% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (1657; 9% instances), <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> (698; 4% instances), <tt><a href="la_ittb-pos-DET.html">DET</a></tt> (493; 3% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (167; 1% instances), <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> (58; 0% instances),  (33; 0% instances), <tt><a href="la_ittb-pos-PART.html">PART</a></tt> (28; 0% instances), <tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (12; 0% instances), <tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="la_ittb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances)
+Parents of `PART` nodes belong to 13 different parts of speech: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (11513; 61% instances), <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (2458; 13% instances), <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (1713; 9% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (1657; 9% instances), <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> (698; 4% instances), <tt><a href="la_ittb-pos-DET.html">DET</a></tt> (494; 3% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (167; 1% instances), <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> (58; 0% instances),  (33; 0% instances), <tt><a href="la_ittb-pos-PART.html">PART</a></tt> (28; 0% instances), <tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (12; 0% instances), <tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="la_ittb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances)
 
-18321 (97%) `PART` nodes are leaves.
+18323 (97%) `PART` nodes are leaves.
 
 276 (1%) `PART` nodes have one child.
 

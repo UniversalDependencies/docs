@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.7 release.
 The following people have contributed to making this treebank part of UD: Carolina Aragon, Fabrício Ferraz Gerardi.
 
 Repository: [UD_Akuntsu-TuDeT](https://github.com/UniversalDependencies/UD_Akuntsu-TuDeT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udaqz_tudet211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udaqz_tudet212)<br />
+Download all treebanks: [UD 2.12](/#download)
 
 License: CC BY-SA 4.0
 
@@ -74,7 +74,7 @@ The development of this treebank is supported by the European Research Council (
 
 ## Features
 
-[Aspect](aqz_tudet-feat-Aspect.html) – [Augm](aqz_tudet-feat-Augm.html) – [Case](aqz_tudet-feat-Case.html) – [Clusivity](aqz_tudet-feat-Clusivity.html) – [Deixis](aqz_tudet-feat-Deixis.html) – [Determ](aqz_tudet-feat-Determ.html) – [Foc](aqz_tudet-feat-Foc.html) – [Mood](aqz_tudet-feat-Mood.html) – [Nomzr](aqz_tudet-feat-Nomzr.html) – [Number](aqz_tudet-feat-Number.html) – [NumType](aqz_tudet-feat-NumType.html) – [Obl](aqz_tudet-feat-Obl.html) – [Person](aqz_tudet-feat-Person.html) – [Person[psor]](aqz_tudet-feat-Person-psor.html) – [Person[subj]](aqz_tudet-feat-Person-subj.html) – [Polarity](aqz_tudet-feat-Polarity.html) – [PronType](aqz_tudet-feat-PronType.html) – [Redup](aqz_tudet-feat-Redup.html) – [Reflex](aqz_tudet-feat-Reflex.html) – [Rel](aqz_tudet-feat-Rel.html) – [Tense](aqz_tudet-feat-Tense.html) – [Trans](aqz_tudet-feat-Trans.html) – [Tv](aqz_tudet-feat-Tv.html) – [Voice](aqz_tudet-feat-Voice.html)
+[Aspect](aqz_tudet-feat-Aspect.html) – [Case](aqz_tudet-feat-Case.html) – [Clusivity](aqz_tudet-feat-Clusivity.html) – [Degree](aqz_tudet-feat-Degree.html) – [Deixis](aqz_tudet-feat-Deixis.html) – [Determ](aqz_tudet-feat-Determ.html) – [Foc](aqz_tudet-feat-Foc.html) – [Mood](aqz_tudet-feat-Mood.html) – [Nomzr](aqz_tudet-feat-Nomzr.html) – [Number](aqz_tudet-feat-Number.html) – [NumType](aqz_tudet-feat-NumType.html) – [Obl](aqz_tudet-feat-Obl.html) – [Person](aqz_tudet-feat-Person.html) – [Person[psor]](aqz_tudet-feat-Person-psor.html) – [Person[subj]](aqz_tudet-feat-Person-subj.html) – [Polarity](aqz_tudet-feat-Polarity.html) – [PronType](aqz_tudet-feat-PronType.html) – [Redup](aqz_tudet-feat-Redup.html) – [Reflex](aqz_tudet-feat-Reflex.html) – [Rel](aqz_tudet-feat-Rel.html) – [Tense](aqz_tudet-feat-Tense.html) – [Trans](aqz_tudet-feat-Trans.html) – [Tv](aqz_tudet-feat-Tv.html) – [Voice](aqz_tudet-feat-Voice.html)
 
 ## Relations
 
@@ -84,7 +84,7 @@ The development of this treebank is supported by the European Research Council (
 
 
 <ul>
-<li>This corpus contains 309 sentences, 1305 tokens and 1324 syntactic words.</li>
+<li>This corpus contains 319 sentences, 1342 tokens and 1361 syntactic words.</li>
 </ul>
 
 <ul>
@@ -223,6 +223,17 @@ The development of this treebank is supported by the European Research Council (
 <h3>Degree and Polarity</h3>
 
 
+<ul>
+  <li><a>Degree</a></li>
+</ul>
+
+<ul>
+  <li>Aug
+    <ul>
+      <li>NOUN: awawaʧo</li>
+    </ul>
+  </li>
+</ul>
 
 <ul>
   <li><a>Polarity</a></li>
@@ -349,7 +360,7 @@ The development of this treebank is supported by the European Research Council (
   <li>Yes
     <ul>
       <li>AUX: tejã</li>
-      <li>NOUN: jen, pe, po, teten, epo, opo, teatap, teimaj, teimi, teip</li>
+      <li>NOUN: pe, jen, po, teten, epo, opo, teatap, teimaj, teimi, teip</li>
       <li>PRON: tebõ</li>
       <li>VERB: teita, teeta, teimaj, tekwata, teakata, teaota, teera, teipa, teipara, tejã</li>
     </ul>
@@ -400,18 +411,6 @@ The development of this treebank is supported by the European Research Council (
 
 
 <ul>
-  <li><a>Augm</a>
-    <ul>
-      <li>Yes
-        <ul>
-          <li>NOUN: awawaʧo</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
   <li><a>Clusivity</a>
     <ul>
       <li>In
@@ -434,7 +433,7 @@ The development of this treebank is supported by the European Research Council (
       </li>
       <li>Prox
         <ul>
-          <li>DET: jẽ, eme, ẽ, kebõ, jẽbõ</li>
+          <li>DET: jẽ, ẽ, eme, kebõ, jẽbõ</li>
         </ul>
       </li>
     </ul>
@@ -562,7 +561,7 @@ The development of this treebank is supported by the European Research Council (
       <li>Yes
         <ul>
           <li>NOUN: pɨtka, ipitka, iɨka</li>
-          <li>VERB: pɨtka, oerekwa, amkwa, apeka, atabaka, buhka, erekka, erekkwa, jãjka, kerẽka</li>
+          <li>VERB: erekka, jãjka, pɨtka, tʃãka, oerekwa, amkwa, apeka, atabaka, buhka, erekkwa</li>
         </ul>
       </li>
     </ul>
@@ -590,7 +589,7 @@ The development of this treebank is supported by the European Research Council (
 </ul>
 
 <ul>
-<li>This corpus uses 6 lemmas as auxiliaries (<a>aux</a>). Examples: jã, ka, tʃe, ko, toa, piro.</li>
+<li>This corpus uses 6 lemmas as auxiliaries (<a>aux</a>). Examples: tʃe, jã, ka, ko, toa, piro.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -599,7 +598,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (46)</li>
+      <li>VERB--NOUN (49)</li>
       <li>VERB--PRON (49)</li>
       <li>VERB--PRON-All (3)</li>
       <li>VERB--PRON-Dat (1)</li>
@@ -610,7 +609,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (108)</li>
+      <li>VERB--NOUN (114)</li>
       <li>VERB--NOUN-ADP(pabape) (1)</li>
       <li>VERB--NOUN-All (1)</li>
       <li>VERB--PRON (1)</li>

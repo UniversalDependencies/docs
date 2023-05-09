@@ -30,7 +30,7 @@ The following 9 pairs of parts of speech are connected with `flat`: <tt><a href=
 6	e	e	CCONJ	CJ	_	7	cc	_	_
 7	cenários	cenário	NOUN	CN	Gender=Masc|Number=Plur	2	conj	_	_
 8	de_	de_	ADP	PREP	_	10	case	_	_
-9	o	o	DET	DA	Gender=Masc|Number=Sing	10	det	_	_
+9	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	pintor	pintor	NOUN	CN	Gender=Masc|Number=Sing	7	obl	_	_
 11	Manuel	manuel	PROPN	PNM	_	10	obl	_	_
 12	Amado	amado	PROPN	PNM	_	11	flat	_	_
@@ -48,12 +48,12 @@ The following 9 pairs of parts of speech are connected with `flat`: <tt><a href=
 1	Dia	dia	PROPN	PNM	_	7	nsubj	_	_
 2	Mundial	mundial	PROPN	PNM	_	1	flat	_	_
 3	de_	de_	ADP	PREP	_	1	flat	_	_
-4	a	a	DET	DA	Gender=Fem|Number=Sing	1	flat	_	_
+4	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	1	flat	_	_
 5	Saúde	saúde	PROPN	PNM	_	1	flat	_	_
-6	foi	ser	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	7	cop	_	_
-7	dedicado	dedicar,dedicado	VERB	PPA	Gender=Masc|Number=Sing	0	root	_	_
+6	foi	ser	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	_
+7	dedicado	dedicar,dedicado	VERB	PPA	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
 8	a_	a_	ADP	PREP	_	10	case	_	_
-9	as	as	DET	DA	Gender=Fem|Number=Plur	10	det	_	_
+9	as	as	DET	DA	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
 10	mulheres	mulher	NOUN	CN	Gender=Fem|Number=Plur	7	obl	_	_
 
 ~~~
@@ -68,12 +68,12 @@ The following 9 pairs of parts of speech are connected with `flat`: <tt><a href=
 1	Dia	dia	PROPN	PNM	_	7	nsubj	_	_
 2	Mundial	mundial	PROPN	PNM	_	1	flat	_	_
 3	de_	de_	ADP	PREP	_	1	flat	_	_
-4	a	a	DET	DA	Gender=Fem|Number=Sing	1	flat	_	_
+4	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	1	flat	_	_
 5	Saúde	saúde	PROPN	PNM	_	1	flat	_	_
-6	foi	ser	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	7	cop	_	_
-7	dedicado	dedicar,dedicado	VERB	PPA	Gender=Masc|Number=Sing	0	root	_	_
+6	foi	ser	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	_
+7	dedicado	dedicar,dedicado	VERB	PPA	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
 8	a_	a_	ADP	PREP	_	10	case	_	_
-9	as	as	DET	DA	Gender=Fem|Number=Plur	10	det	_	_
+9	as	as	DET	DA	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
 10	mulheres	mulher	NOUN	CN	Gender=Fem|Number=Plur	7	obl	_	_
 
 ~~~

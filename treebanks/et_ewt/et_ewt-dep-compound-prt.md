@@ -62,8 +62,8 @@ The following 7 pairs of parts of speech are connected with `compound:prt`: <tt>
 # visual-style 6	fgColor:white
 # visual-style 6 5 compound:prt	color:blue
 1	Suured	suur	ADJ	A	Case=Nom|Degree=Pos|Number=Plur	2	amod	2:amod	_
-2	tänud	tä=nud	ADJ	A	Degree=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
-3	terviseametile	tervise_amet	NOUN	S	Case=All|Number=Sing	2	obl	2:obl	_
+2	tänud	tänu	NOUN	S	Case=Nom|Number=Plur	0	root	0:root	_
+3	terviseametile	tervise_amet	NOUN	S	Case=All|Number=Sing	2	obl	2:obl	NE=B-Org
 4	kriisi	kriis	NOUN	S	Case=Gen|Number=Sing	2	obl	2:obl	_
 5	ette	ette	ADV	D	_	6	compound:prt	6:compound	_
 6	nägemise	nägemine	NOUN	S	Case=Gen|Number=Sing	2	obl	2:obl	_

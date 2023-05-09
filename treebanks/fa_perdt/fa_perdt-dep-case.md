@@ -34,7 +34,7 @@ The following 29 pairs of parts of speech are connected with `case`: <tt><a href
 10	را	را	ADP	POSTP	_	8	case	_	_
 11	در	در	ADP	PREP	_	12	case	_	_
 12	کویر	کویر	NOUN	N_IANM	Number=Sing	13	obl:arg	_	_
-13	پاشیده‌ایم	پاشید#پاش	VERB	V_ACT	Number=Plur|Person=1|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No
+13	پاشیده‌ایم	پاشید	VERB	V_ACT	Number=Plur|Person=1|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=پاشید#پاش|SpaceAfter=No
 14	.	.	PUNCT	PUNC	_	13	punct	_	_
 
 ~~~
@@ -51,12 +51,12 @@ The following 29 pairs of parts of speech are connected with `case`: <tt><a href
 3	در	در	ADP	PREP	_	4	case	_	_
 4	مقابل	مقابل	NOUN	N_IANM	Number=Sing	6	obl:arg	_	_
 5	انقلاب	انقلاب	NOUN	N_IANM	Number=Sing	4	nmod	_	_
-6	ایستاد	ایستاد#ایست	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	11	advcl	_	_
+6	ایستاد	ایستاد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	11	advcl	_	OrigLemma=ایستاد#ایست
 7	انقلاب	انقلاب	NOUN	N_IANM	Number=Sing	11	nsubj	_	_
 8	با	با	ADP	PREP	_	9	case	_	_
 9	او	او	PRON	PR_SEPER	Number=Sing|Person=3	10	nmod	_	_
 10	شوخی	شوخی	NOUN	N_IANM	Number=Sing	11	obj	_	_
-11	ندارد	داشت#دار	VERB	V_ACT	Number=Sing|Person=3|Polarity=Neg|Tense=Pres|Voice=Act	0	root	_	SpaceAfter=No
+11	ندارد	داشت	VERB	V_ACT	Number=Sing|Person=3|Polarity=Neg|Tense=Pres|Voice=Act	0	root	_	OrigLemma=داشت#دار|SpaceAfter=No
 12	.	.	PUNCT	PUNC	_	11	punct	_	_
 
 ~~~
@@ -79,7 +79,7 @@ The following 29 pairs of parts of speech are connected with `case`: <tt><a href
 9	شهادت	شهادت	NOUN	N_IANM	Number=Sing	12	obl	_	_
 10	ش	او	PRON	PR_JOPER	Number=Sing|Person=3|PronType=Prs	9	nmod	_	_
 11	سوگواری	سوگواری	NOUN	N_IANM	Number=Sing	12	compound:lvc	_	_
-12	کرد	کرد#کن	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	SpaceAfter=No
+12	کرد	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	OrigLemma=کرد#کن|SpaceAfter=No
 13	.	.	PUNCT	PUNC	_	12	punct	_	_
 
 ~~~

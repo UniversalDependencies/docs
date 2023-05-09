@@ -33,7 +33,7 @@ The following 21 pairs of parts of speech are connected with `amod`: <tt><a href
 9	مطالعهٔ	مطالعه	NOUN	N_IANM	Number=Sing	7	conj	_	_
 10	زیاد	زیاد	ADJ	ADJ_AJP	_	7	amod	_	_
 11	نابینا	نابینا	ADJ	ADJ_AJP	_	12	xcomp	_	_
-12	شد	شد#شو	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	SpaceAfter=No
+12	شد	شد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	OrigLemma=شد#شو|SpaceAfter=No
 13	.	.	PUNCT	PUNC	_	12	punct	_	_
 
 ~~~
@@ -57,7 +57,7 @@ The following 21 pairs of parts of speech are connected with `amod`: <tt><a href
 10	10	10	NUM	POSNUM	_	8	flat:num	_	_
 11	آزمایش	آزمایش	NOUN	N_IANM	Number=Sing	7	nmod	_	_
 12	تخمک‌گذاری	تخمک‌گذاری	NOUN	N_IANM	Number=Sing	13	compound:lvc	_	_
-13	کرد	کرد#کن	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	SpaceAfter=No
+13	کرد	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	OrigLemma=کرد#کن|SpaceAfter=No
 14	.	.	PUNCT	PUNC	_	13	punct	_	_
 
 ~~~
@@ -69,15 +69,15 @@ The following 21 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 amod	color:blue
-1	پاندای	پاندا	PROPN	N_ANM	Number=Sing	7	nsubj:pass	_	_
+1	پاندای	پاندا	PROPN	N_ANM	Number=Sing	8	nsubj:pass	_	_
 2	موقرمز	موقرمز	ADJ	ADJ_AJP	_	1	amod	_	_
 3	از	از	ADP	PREP	_	4	case	_	_
-4	خطر	خطر	NOUN	N_IANM	Number=Sing	7	obl:arg	_	_
+4	خطر	خطر	NOUN	N_IANM	Number=Sing	8	obl:arg	_	_
 5	انقراض	انقراض	NOUN	N_IANM	Number=Sing	4	nmod	_	_
 6	نجات	نجات	NOUN	N_IANM	Number=Sing	7	compound:lvc	_	_
-7	داده	داد#ده	VERB	V_PASS	Number=Sing|Person=3|Tense=Past|Voice=Pass	0	root	_	_
-8	شد	شد#شو	AUX	AUX	Number=Sing|Person=3|Tense=Past	7	aux:pass	_	SpaceAfter=No
-9	.	.	PUNCT	PUNC	_	7	punct	_	_
+7	داده	داد	VERB	V_PASS	Number=Sing|Person=3|Tense=Past|Voice=Pass	8	xcomp	_	OrigLemma=داد#ده
+8	شد	شد	VERB	AUX	Number=Sing|Person=3|Tense=Past	0	root	_	OrigLemma=شد#شو|SpaceAfter=No
+9	.	.	PUNCT	PUNC	_	8	punct	_	_
 
 ~~~
 

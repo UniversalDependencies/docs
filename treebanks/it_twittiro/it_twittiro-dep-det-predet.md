@@ -64,7 +64,7 @@ The following 4 pairs of parts of speech are connected with `det:predet`: <tt><a
 18	aspetti	aspetto	NOUN	S	Gender=Masc|Number=Plur	2	conj	_	_
 19	meno	meno	ADV	B	_	20	advmod	_	_
 20	importanti	importante	ADJ	A	Number=Plur	18	amod	_	SpaceAfter=No
-21	.	.	PUNCT	FS	_	2	punct	_	SpaceAfter=\n
+21	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n
 
 ~~~
 
@@ -99,7 +99,7 @@ The following 4 pairs of parts of speech are connected with `det:predet`: <tt><a
 22	no	no	INTJ	I	_	23	nmod	_	_
 23	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	20	discourse	_	_
 24	no	no	INTJ	I	_	25	nmod	_	_
-25	money	money	INTJ	I	_	20	discourse	_	SpaceAfter=\n
+25	money	money	INTJ	I	_	20	discourse	_	SpacesAfter=\n
 
 ~~~
 

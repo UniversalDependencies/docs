@@ -39,7 +39,7 @@ Examples: <em>dh, geːb, =da, baːji, dh#, dhaːj, harʔiː, suːr, whiː</em>
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 3 different relations: <tt><a href="bej_nsc-dep-case.html">case</a></tt> (20; 80% instances), <tt><a href="bej_nsc-dep-iobj.html">iobj</a></tt> (4; 16% instances), <tt><a href="bej_nsc-dep-dep.html">dep</a></tt> (1; 4% instances)
+`ADP` nodes are attached to their parents using 3 different relations: <tt><a href="bej_nsc-dep-case.html">case</a></tt> (20; 80% instances), <tt><a href="bej_nsc-dep-obl-arg.html">obl:arg</a></tt> (4; 16% instances), <tt><a href="bej_nsc-dep-dep.html">dep</a></tt> (1; 4% instances)
 
 Parents of `ADP` nodes belong to 4 different parts of speech: <tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt> (15; 60% instances), <tt><a href="bej_nsc-pos-VERB.html">VERB</a></tt> (5; 20% instances), <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> (4; 16% instances), <tt><a href="bej_nsc-pos-PROPN.html">PROPN</a></tt> (1; 4% instances)
 

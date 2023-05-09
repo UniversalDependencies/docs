@@ -59,10 +59,10 @@ The 10 most frequent relations where parent and child node agree in `Voice`:
 <tt>VERB --[<tt><a href="cs_fictree-dep-aux.html">aux</a></tt>]--> AUX</tt> (2616; 66%),
 <tt>VERB --[<tt><a href="cs_fictree-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1387; 81%),
 <tt>VERB --[<tt><a href="cs_fictree-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1364; 87%),
-<tt>VERB --[<tt><a href="cs_fictree-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (163; 59%),
+<tt>VERB --[<tt><a href="cs_fictree-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (162; 59%),
 <tt>AUX --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> VERB</tt> (152; 98%),
 <tt>VERB --[<tt><a href="cs_fictree-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (131; 89%),
 <tt>VERB --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> AUX</tt> (104; 95%),
-<tt>VERB --[<tt><a href="cs_fictree-dep-dep.html">dep</a></tt>]--> VERB</tt> (77; 84%),
+<tt>VERB --[<tt><a href="cs_fictree-dep-dep.html">dep</a></tt>]--> VERB</tt> (78; 83%),
 <tt>AUX --[<tt><a href="cs_fictree-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (65; 96%).
 

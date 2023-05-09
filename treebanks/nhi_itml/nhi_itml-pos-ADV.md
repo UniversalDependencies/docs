@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>ya</em> (<tt><a href="nhi_itml-pos-AD
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.032558 (the average of all parts of speech is 1.484055).
+The form / lemma ratio of `ADV` is 1.032558 (the average of all parts of speech is 1.484900).
 
 The 1st highest number of forms (11) was observed with the lemma “_”: <em>aquí, icompa, micpa, más, nawateh, ohkóh, ompa, quemah, también, tleca, y</em>.
 

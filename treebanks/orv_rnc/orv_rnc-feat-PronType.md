@@ -134,7 +134,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>PRON --[<tt><a href="orv_rnc-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (9; 82%),
-<tt>PRON --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> PRON</tt> (4; 100%),
+<tt>PRON --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> PRON</tt> (5; 100%),
 <tt>PRON --[<tt><a href="orv_rnc-dep-dislocated.html">dislocated</a></tt>]--> PRON</tt> (3; 100%),
 <tt>DET --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> DET</tt> (1; 100%),
 <tt>DET --[<tt><a href="orv_rnc-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (1; 100%).

@@ -23,10 +23,10 @@ The following 3 pairs of parts of speech are connected with `flat:foreign`: <tt>
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 flat:foreign	color:blue
-1	gung	gung	X	Xf	Foreign=Yes	0	root	_	word=gung|msd=Nj
-2	haj	haj	X	Xf	Foreign=Yes	1	flat:foreign	_	word=haj|msd=Nj
-3	fa	fa	X	Xf	Foreign=Yes	1	flat:foreign	_	word=fa|msd=Nj
-4	čoj	čoj	X	Xf	Foreign=Yes	1	flat:foreign	_	word=čoj|msd=Nj
+1	gung	gung	X	Xf	Foreign=Yes	0	root	_	pronunciation=gung
+2	haj	haj	X	Xf	Foreign=Yes	1	flat:foreign	_	pronunciation=haj
+3	fa	fa	X	Xf	Foreign=Yes	1	flat:foreign	_	pronunciation=fa
+4	čoj	čoj	X	Xf	Foreign=Yes	1	flat:foreign	_	pronunciation=čoj
 
 ~~~
 
@@ -37,17 +37,17 @@ The following 3 pairs of parts of speech are connected with `flat:foreign`: <tt>
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 10 flat:foreign	color:blue
-1	aaa	aaa	INTJ	I	_	2	discourse:filler	_	word=aaa|msd=M
-2	spreminja	spreminjati	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	word=spreminja|msd=Ggnste
-3	pa	pa	CCONJ	Cc	_	2	advmod	_	word=pa|msd=Vp
-4	se	se	PRON	Px------y	PronType=Prs|Variant=Short	2	expl	_	word=se|msd=Zp------k
-5	vsebina	vsebina	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	word=vsebina|msd=Sozei
-6	operacije	operacija	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	word=operacije|msd=Sozer
-7	nato	Nato	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	6	nmod	_	word=Nejto|msd=Slmei
-8	training	Training	X	Xf	Foreign=Yes	7	flat:foreign	_	word=Trejning|msd=Nj
-9	mission	Mission	X	Xf	Foreign=Yes	7	flat:foreign	_	word=Mišn|msd=Nj
-10	in	in	X	Xf	Foreign=Yes	7	flat:foreign	_	word=in|msd=Nj
-11	irak	Irak	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	7	flat:foreign	_	word=Irak|msd=Slmei
+1	aaa	aaa	INTJ	I	_	2	discourse:filler	_	pronunciation=aaa
+2	spreminja	spreminjati	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=spreminja
+3	pa	pa	CCONJ	Cc	_	2	advmod	_	pronunciation=pa
+4	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	2	expl	_	pronunciation=se
+5	vsebina	vsebina	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	pronunciation=vsebina
+6	operacije	operacija	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	pronunciation=operacije
+7	nato	Nato	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	6	nmod	_	pronunciation=Nejto
+8	training	Training	X	Xf	Foreign=Yes	7	flat:foreign	_	pronunciation=Trejning
+9	mission	Mission	X	Xf	Foreign=Yes	7	flat:foreign	_	pronunciation=Mišn
+10	in	in	X	Xf	Foreign=Yes	7	flat:foreign	_	pronunciation=in
+11	irak	Irak	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	7	flat:foreign	_	pronunciation=Irak
 
 ~~~
 
@@ -58,17 +58,17 @@ The following 3 pairs of parts of speech are connected with `flat:foreign`: <tt>
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 11 flat:foreign	color:blue
-1	aaa	aaa	INTJ	I	_	2	discourse:filler	_	word=aaa|msd=M
-2	spreminja	spreminjati	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	word=spreminja|msd=Ggnste
-3	pa	pa	CCONJ	Cc	_	2	advmod	_	word=pa|msd=Vp
-4	se	se	PRON	Px------y	PronType=Prs|Variant=Short	2	expl	_	word=se|msd=Zp------k
-5	vsebina	vsebina	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	word=vsebina|msd=Sozei
-6	operacije	operacija	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	word=operacije|msd=Sozer
-7	nato	Nato	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	6	nmod	_	word=Nejto|msd=Slmei
-8	training	Training	X	Xf	Foreign=Yes	7	flat:foreign	_	word=Trejning|msd=Nj
-9	mission	Mission	X	Xf	Foreign=Yes	7	flat:foreign	_	word=Mišn|msd=Nj
-10	in	in	X	Xf	Foreign=Yes	7	flat:foreign	_	word=in|msd=Nj
-11	irak	Irak	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	7	flat:foreign	_	word=Irak|msd=Slmei
+1	aaa	aaa	INTJ	I	_	2	discourse:filler	_	pronunciation=aaa
+2	spreminja	spreminjati	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=spreminja
+3	pa	pa	CCONJ	Cc	_	2	advmod	_	pronunciation=pa
+4	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	2	expl	_	pronunciation=se
+5	vsebina	vsebina	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	pronunciation=vsebina
+6	operacije	operacija	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	pronunciation=operacije
+7	nato	Nato	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	6	nmod	_	pronunciation=Nejto
+8	training	Training	X	Xf	Foreign=Yes	7	flat:foreign	_	pronunciation=Trejning
+9	mission	Mission	X	Xf	Foreign=Yes	7	flat:foreign	_	pronunciation=Mišn
+10	in	in	X	Xf	Foreign=Yes	7	flat:foreign	_	pronunciation=in
+11	irak	Irak	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	7	flat:foreign	_	pronunciation=Irak
 
 ~~~
 

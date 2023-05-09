@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_French-GSD: POS Tags: `INTJ`
 
 There are 21 `INTJ` lemmas (0%), 22 `INTJ` types (0%) and 83 `INTJ` tokens (0%).
-Out of 16 observed tags, the rank of `INTJ` is: 13 in number of lemmas, 14 in number of types and 16 in number of tokens.
+Out of 16 observed tags, the rank of `INTJ` is: 12 in number of lemmas, 14 in number of types and 16 in number of tokens.
 
 The 10 most frequent `INTJ` lemmas: <em>merci, bref, attention, bravo, oui, dommage, non, bonjour, ah, eh</em>
 
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>merci</em> (<tt><a href="fr_gsd-pos-N
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.047619 (the average of all parts of speech is 1.306431).
+The form / lemma ratio of `INTJ` is 1.047619 (the average of all parts of speech is 1.307189).
 
 The 1st highest number of forms (2) was observed with the lemma “eh”: <em>Eh, Et</em>.
 
@@ -73,21 +73,21 @@ Examples: <em>merci, bref, attention, bravo, oui, dommage, Bonjour, Ah, enfin, A
 
 ## Relations
 
-`INTJ` nodes are attached to their parents using 6 different relations: <tt><a href="fr_gsd-dep-discourse.html">discourse</a></tt> (46; 55% instances), <tt><a href="fr_gsd-dep-root.html">root</a></tt> (29; 35% instances), <tt><a href="fr_gsd-dep-obj.html">obj</a></tt> (4; 5% instances), <tt><a href="fr_gsd-dep-conj.html">conj</a></tt> (2; 2% instances), <tt><a href="fr_gsd-dep-parataxis.html">parataxis</a></tt> (1; 1% instances), <tt><a href="fr_gsd-dep-xcomp.html">xcomp</a></tt> (1; 1% instances)
+`INTJ` nodes are attached to their parents using 6 different relations: <tt><a href="fr_gsd-dep-discourse.html">discourse</a></tt> (47; 57% instances), <tt><a href="fr_gsd-dep-root.html">root</a></tt> (28; 34% instances), <tt><a href="fr_gsd-dep-obj.html">obj</a></tt> (4; 5% instances), <tt><a href="fr_gsd-dep-conj.html">conj</a></tt> (2; 2% instances), <tt><a href="fr_gsd-dep-parataxis.html">parataxis</a></tt> (1; 1% instances), <tt><a href="fr_gsd-dep-xcomp.html">xcomp</a></tt> (1; 1% instances)
 
-Parents of `INTJ` nodes belong to 10 different parts of speech: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (32; 39% instances),  (29; 35% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (9; 11% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (4; 5% instances), <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> (2; 2% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
+Parents of `INTJ` nodes belong to 9 different parts of speech: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (33; 40% instances),  (28; 34% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (10; 12% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (4; 5% instances), <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> (2; 2% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
 
-11 (13%) `INTJ` nodes are leaves.
+13 (16%) `INTJ` nodes are leaves.
 
-40 (48%) `INTJ` nodes have one child.
+38 (46%) `INTJ` nodes have one child.
 
-16 (19%) `INTJ` nodes have two children.
+17 (20%) `INTJ` nodes have two children.
 
-16 (19%) `INTJ` nodes have three or more children.
+15 (18%) `INTJ` nodes have three or more children.
 
 The highest child degree of a `INTJ` node is 4.
 
-Children of `INTJ` nodes are attached using 12 different relations: <tt><a href="fr_gsd-dep-punct.html">punct</a></tt> (67; 54% instances), <tt><a href="fr_gsd-dep-obl-arg.html">obl:arg</a></tt> (26; 21% instances), <tt><a href="fr_gsd-dep-conj.html">conj</a></tt> (9; 7% instances), <tt><a href="fr_gsd-dep-advmod.html">advmod</a></tt> (5; 4% instances), <tt><a href="fr_gsd-dep-ccomp.html">ccomp</a></tt> (3; 2% instances), <tt><a href="fr_gsd-dep-fixed.html">fixed</a></tt> (3; 2% instances), <tt><a href="fr_gsd-dep-iobj.html">iobj</a></tt> (3; 2% instances), <tt><a href="fr_gsd-dep-case.html">case</a></tt> (2; 2% instances), <tt><a href="fr_gsd-dep-cc.html">cc</a></tt> (2; 2% instances), <tt><a href="fr_gsd-dep-cop.html">cop</a></tt> (1; 1% instances), <tt><a href="fr_gsd-dep-discourse.html">discourse</a></tt> (1; 1% instances), <tt><a href="fr_gsd-dep-obl-mod.html">obl:mod</a></tt> (1; 1% instances)
+Children of `INTJ` nodes are attached using 11 different relations: <tt><a href="fr_gsd-dep-punct.html">punct</a></tt> (67; 56% instances), <tt><a href="fr_gsd-dep-obl-arg.html">obl:arg</a></tt> (29; 24% instances), <tt><a href="fr_gsd-dep-conj.html">conj</a></tt> (6; 5% instances), <tt><a href="fr_gsd-dep-advmod.html">advmod</a></tt> (5; 4% instances), <tt><a href="fr_gsd-dep-ccomp.html">ccomp</a></tt> (3; 3% instances), <tt><a href="fr_gsd-dep-fixed.html">fixed</a></tt> (3; 3% instances), <tt><a href="fr_gsd-dep-case.html">case</a></tt> (2; 2% instances), <tt><a href="fr_gsd-dep-cc.html">cc</a></tt> (2; 2% instances), <tt><a href="fr_gsd-dep-cop.html">cop</a></tt> (1; 1% instances), <tt><a href="fr_gsd-dep-discourse.html">discourse</a></tt> (1; 1% instances), <tt><a href="fr_gsd-dep-obl-mod.html">obl:mod</a></tt> (1; 1% instances)
 
-Children of `INTJ` nodes belong to 13 different parts of speech: <tt><a href="fr_gsd-pos-PUNCT.html">PUNCT</a></tt> (67; 54% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (20; 16% instances), <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (7; 6% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (6; 5% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (5; 4% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (4; 3% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (3; 2% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (3; 2% instances), <tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> (2; 2% instances), <tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> (2; 2% instances), <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> (2; 2% instances), <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (1; 1% instances)
+Children of `INTJ` nodes belong to 13 different parts of speech: <tt><a href="fr_gsd-pos-PUNCT.html">PUNCT</a></tt> (67; 56% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (20; 17% instances), <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (7; 6% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (5; 4% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (4; 3% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (3; 3% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (3; 3% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (3; 3% instances), <tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> (2; 2% instances), <tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> (2; 2% instances), <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> (2; 2% instances), <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (1; 1% instances)
 

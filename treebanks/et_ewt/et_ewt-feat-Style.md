@@ -9,22 +9,34 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Slng`.
 
-53 tokens (0%) have a non-empty value of `Style`.
-45 types (0%) occur at least once with a non-empty value of `Style`.
-37 lemmas (0%) occur at least once with a non-empty value of `Style`.
-The feature is used with 4 part-of-speech tags: <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (33; 0% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (12; 0% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (2; 0% instances).
+61 tokens (0%) have a non-empty value of `Style`.
+52 types (0%) occur at least once with a non-empty value of `Style`.
+46 lemmas (0%) occur at least once with a non-empty value of `Style`.
+The feature is used with 4 part-of-speech tags: <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (25; 0% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (22; 0% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (12; 0% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (2; 0% instances).
+
+### `PROPN`
+
+25 <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> tokens (1% of all `PROPN` tokens) have a non-empty value of `Style`.
+
+The most frequent other feature values with which `PROPN` and `Style` co-occurred: <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (20; 80%).
+
+`PROPN` tokens may have the following values of `Style`:
+
+* `Slng` (25; 100% of non-empty `Style`): <em>bemmi, põmmi, sapikale, senale, Alekukke, Yugo, alekokki, bemari, bemm, bemme</em>
+
+`Style` seems to be **lexical feature** of `PROPN`. 100% lemmas (16) occur only with one value of `Style`.
 
 ### `NOUN`
 
-33 <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Style`.
+22 <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `NOUN` and `Style` co-occurred: <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (29; 88%).
+The most frequent other feature values with which `NOUN` and `Style` co-occurred: <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (20; 91%).
 
 `NOUN` tokens may have the following values of `Style`:
 
-* `Slng` (33; 100% of non-empty `Style`): <em>bemmi, põmmi, sapikale, bemari, bemii, bemm, bemme, bemmist, bena, bõmari</em>
+* `Slng` (22; 100% of non-empty `Style`): <em>matat, Venkude, bemii, bena, dolbajoob, eequ, füssa, inime, jalkas, jopa-kollaga</em>
 
-`Style` seems to be **lexical feature** of `NOUN`. 100% lemmas (22) occur only with one value of `Style`.
+`Style` seems to be **lexical feature** of `NOUN`. 100% lemmas (21) occur only with one value of `Style`.
 
 ### `ADV`
 
@@ -33,14 +45,6 @@ The most frequent other feature values with which `NOUN` and `Style` co-occurred
 `ADV` tokens may have the following values of `Style`:
 
 * `Slng` (12; 100% of non-empty `Style`): <em>aint, pohh, põmst, Pmst, Sitaks, nati, veits, imo</em>
-
-### `PROPN`
-
-6 <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `Style`.
-
-`PROPN` tokens may have the following values of `Style`:
-
-* `Slng` (6; 100% of non-empty `Style`): <em>senale, Alekukke, Venkude, alekokki, jeepudele</em>
 
 ### `VERB`
 

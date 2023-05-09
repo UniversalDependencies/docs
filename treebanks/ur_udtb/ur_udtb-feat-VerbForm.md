@@ -364,7 +364,7 @@ The most frequent other feature values with which `PART` and `VerbForm` co-occur
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
+<tt>VERB --[<tt><a href="ur_udtb-dep-obj.html">obj</a></tt>]--> VERB</tt> (613; 55%),
 <tt>VERB --[<tt><a href="ur_udtb-dep-conj.html">conj</a></tt>]--> VERB</tt> (557; 55%),
-<tt>VERB --[<tt><a href="ur_udtb-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="ur_udtb-dep-dislocated.html">dislocated</a></tt>]--> AUX</tt> (1; 100%).
 

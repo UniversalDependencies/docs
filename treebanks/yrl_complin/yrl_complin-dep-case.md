@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-134 nodes (6%) are attached to their parents as `case`.
+567 nodes (7%) are attached to their parents as `case`.
 
-132 instances of `case` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.11940298507463.
+558 instances of `case` (98%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.08112874779541.
 
-The following 6 pairs of parts of speech are connected with `case`: <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> (91; 68% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> (36; 27% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> (3; 2% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `case`: <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> (373; 66% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> (165; 29% instances), <tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> (18; 3% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> (9; 2% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -41,9 +41,9 @@ The following 6 pairs of parts of speech are connected with `case`: <tt><a href=
 # visual-style 2	fgColor:white
 # visual-style 2 3 case	color:blue
 1	Rembeú	mbeú	VERB	V	Number=Sing|Person=2|VerbForm=Fin	0	root	_	TokenRange=0:6
-2	aintá	aintá	PRON	PRON2	Case=Gen|Number=Plur|Person=3|PronType=Prs	1	obj	_	TokenRange=7:12
+2	aintá	aintá	PRON	PRON2	Case=Gen|Number=Plur|Person=3|PronType=Prs	1	iobj	_	TokenRange=7:12
 3	supé	supé	ADP	ADP	_	2	case	_	TokenRange=13:17
-4	puranga	puranga	VERB	A	_	1	ccomp	_	TokenRange=18:25
+4	puranga	puranga	ADJ	A	_	1	ccomp	_	TokenRange=18:25
 5	ixé	ixé	PRON	PRON	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	SpaceAfter=No|TokenRange=26:29
 6	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=29:30
 
@@ -51,18 +51,20 @@ The following 6 pairs of parts of speech are connected with `case`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 case	color:blue
-1	Ti	ti	PART	NEG	Polarity=Neg	2	advmod	_	TokenRange=0:2
-2	apitá	pitá	VERB	V	Number=Sing|Person=1|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=3:8
-3	,	,	PUNCT	PUNCT	_	4	punct	_	TokenRange=8:9
-4	ayuíri	yuíri	VERB	V	Number=Sing|Person=1|VerbForm=Fin	2	parataxis	_	TokenRange=10:16
-5	kwá	kwá	ADV	ADV	PronType=Dem	4	obl	_	TokenRange=17:20
-6	kití	kití	ADP	ADP	_	5	case	_	SpaceAfter=No|TokenRange=21:25
-7	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=25:26
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 8 case	color:blue
+1	Aé	aé	PRON	PRON	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	TokenRange=0:2
+2	upitá	pitá	VERB	V	Person=3|VerbForm=Fin	0	root	_	TokenRange=3:8
+3	yepé	yepé	DET	ART	Definite=Ind|PronType=Art	4	det	_	TokenRange=9:13
+4	igara	igara	NOUN	N	Number=Sing	2	obl	_	TokenRange=14:19
+5	mirĩ	mirĩ	ADJ	A	_	4	amod	_	TokenRange=20:24
+6	upé	upé	ADP	ADP	_	4	case	_	TokenRange=25:28
+7	Maria	maria	PROPN	PROPN	_	2	obl	_	TokenRange=29:34
+8	irũmu	irũmu	ADP	ADP	_	7	case	_	SpaceAfter=No|TokenRange=35:40
+9	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=40:41
 
 ~~~
 

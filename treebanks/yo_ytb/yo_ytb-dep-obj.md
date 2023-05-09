@@ -65,34 +65,34 @@ The following 19 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 18	bgColor:blue
 # visual-style 18	fgColor:white
 # visual-style 18 20 obj	color:blue
-1	Nítorí	Nítorí	SCONJ	_	_	4	mark	_	Ref=MARK_5.28|Gloss=because
-2	ti	tí	PRON	_	PronType=Rel|Typo=Yes	1	fixed	_	Ref=MARK_5.28|Gloss=
-3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Ref=MARK_5.28|Gloss=she
-4	rò	rò	VERB	_	_	0	root	_	Ref=MARK_5.28|Gloss=think
-5	ní	ní	ADP	_	_	6	case	_	Ref=MARK_5.28|Gloss=in
-6	ọkàn	ọkàn	NOUN	_	_	4	obl	_	Ref=MARK_5.28|Gloss=heart
-7	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	6	nmod	_	Ref=MARK_5.28|Gloss=her
-8	pé	pé	SCONJ	_	_	17	mark	_	Ref=MARK_5.28|SpaceAfter=No|Gloss=that
-9	,	,	PUNCT	_	_	17	punct	_	Ref=MARK_5.28|Gloss=,
-10	“	“	PUNCT	_	_	17	punct	_	Ref=MARK_5.28|SpaceAfter=No|Gloss=“
-11	Bí	Bí	SCONJ	_	_	17	mark	_	Ref=MARK_5.28|Gloss=if
-12	mo	mo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	17	nsubj	_	Ref=MARK_5.28|Gloss=i
-13	bá	bá	SCONJ	_	_	17	mark	_	Ref=MARK_5.28|Gloss=if
-14	ṣá	ṣá	ADV	_	_	17	advmod	_	Ref=MARK_5.28|Gloss=may
-15	à	à	X	_	_	14	goeswith	_	Ref=MARK_5.28|Gloss=
-16	lè	lè	AUX	_	_	17	aux	_	Ref=MARK_5.28|Gloss=can
-17	fi	fi	VERB	_	_	4	conj	_	Ref=MARK_5.28|Gloss=use
-18	ọwọ́	ọwọ́	NOUN	_	_	17	obj	_	Ref=MARK_5.28|Gloss=hand
-19	kan	kan	VERB	_	_	18	compound:svc	_	Ref=MARK_5.28|Gloss=touch
-20	aṣọ	aṣọ	NOUN	_	_	18	obj	_	Ref=MARK_5.28|Gloss=garments
-21	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	20	nmod	_	Ref=MARK_5.28|SpaceAfter=No|Gloss=his
-22	,	,	PUNCT	_	_	26	punct	_	Ref=MARK_5.28|Gloss=,
-23	ara	ara	PRON	_	PronType=Emp	26	nsubj	_	Ref=MARK_5.28|Gloss=self
-24	mi	mi	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	23	nmod	_	Ref=MARK_5.28|Gloss=my
-25	yóò	yóò	AUX	_	_	26	aux	_	Ref=MARK_5.28|Gloss=shall
-26	dá	dá	VERB	_	_	17	compound:svc	_	Ref=MARK_5.28|Gloss=heal|SpaceAfter=No
-27	.	.	PUNCT	_	_	17	punct	_	Ref=MARK_5.28|Gloss=.|SpaceAfter=No
-28	”	”	PUNCT	_	_	17	punct	_	Ref=MARK_5.28|Gloss=”
+1	Nítorí	Nítorí	SCONJ	_	_	4	mark	_	Gloss=because|Ref=MARK_5.28
+2	ti	tí	PRON	_	PronType=Rel|Typo=Yes	1	fixed	_	Gloss=|Ref=MARK_5.28
+3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Gloss=she|Ref=MARK_5.28
+4	rò	rò	VERB	_	_	0	root	_	Gloss=think|Ref=MARK_5.28
+5	ní	ní	ADP	_	_	6	case	_	Gloss=in|Ref=MARK_5.28
+6	ọkàn	ọkàn	NOUN	_	_	4	obl	_	Gloss=heart|Ref=MARK_5.28
+7	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	6	nmod	_	Gloss=her|Ref=MARK_5.28
+8	pé	pé	SCONJ	_	_	17	mark	_	Gloss=that|Ref=MARK_5.28|SpaceAfter=No
+9	,	,	PUNCT	_	_	17	punct	_	Gloss=,|Ref=MARK_5.28
+10	“	“	PUNCT	_	_	17	punct	_	Gloss=“|Ref=MARK_5.28|SpaceAfter=No
+11	Bí	Bí	SCONJ	_	_	17	mark	_	Gloss=if|Ref=MARK_5.28
+12	mo	mo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	17	nsubj	_	Gloss=i|Ref=MARK_5.28
+13	bá	bá	SCONJ	_	_	17	mark	_	Gloss=if|Ref=MARK_5.28
+14	ṣá	ṣáà	ADV	_	Typo=Yes	17	advmod	_	CorrectForm=ṣáà|Gloss=may|Ref=MARK_5.28
+15	à	_	X	_	_	14	goeswith	_	Gloss=|Ref=MARK_5.28
+16	lè	lè	AUX	_	_	17	aux	_	Gloss=can|Ref=MARK_5.28
+17	fi	fi	VERB	_	_	4	conj	_	Gloss=use|Ref=MARK_5.28
+18	ọwọ́	ọwọ́	NOUN	_	_	17	obj	_	Gloss=hand|Ref=MARK_5.28
+19	kan	kan	VERB	_	_	18	compound:svc	_	Gloss=touch|Ref=MARK_5.28
+20	aṣọ	aṣọ	NOUN	_	_	18	obj	_	Gloss=garments|Ref=MARK_5.28
+21	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	20	nmod	_	Gloss=his|Ref=MARK_5.28|SpaceAfter=No
+22	,	,	PUNCT	_	_	26	punct	_	Gloss=,|Ref=MARK_5.28
+23	ara	ara	PRON	_	PronType=Emp	26	nsubj	_	Gloss=self|Ref=MARK_5.28
+24	mi	mi	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	23	nmod	_	Gloss=my|Ref=MARK_5.28
+25	yóò	yóò	AUX	_	_	26	aux	_	Gloss=shall|Ref=MARK_5.28
+26	dá	dá	VERB	_	_	17	compound:svc	_	Gloss=heal|Ref=MARK_5.28|SpaceAfter=No
+27	.	.	PUNCT	_	_	17	punct	_	Gloss=.|Ref=MARK_5.28|SpaceAfter=No
+28	”	”	PUNCT	_	_	17	punct	_	Gloss=”|Ref=MARK_5.28
 
 ~~~
 

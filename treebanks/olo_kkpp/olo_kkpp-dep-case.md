@@ -72,12 +72,12 @@ The following 3 pairs of parts of speech are connected with `case`: <tt><a href=
 6	Vesläžetjoukon	Vesläžetjoukko	NOUN	NOUN	Case=Gen|Number=Sing	7	nmod:poss	_	_
 7	lapset	lapset	NOUN	NOUN	Case=Nom|Number=Plur	3	obj	_	SpaceAfter=No
 8	,	,	PUNCT	PUNCT	_	10	punct	_	_
-9	hyö	hyö	PRON	PRON	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	_
+9	hyö	hyö	PRON	PRON	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	obj	_	_
 10	ozutettih	ozuttua	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	_
 11	kui	kui	SCONJ	SCONJ	_	13	mark	_	_
 12	ennevahnas	ennevahnas	ADV	ADV	_	13	advmod	_	PronType=Temp
 13	nuoret	nuori	NOUN	NOUN	Case=Nom|Number=Plur	10	nsubj	_	_
-14	käydih	kävvä	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	xcomp	_	_
+14	käydih	kävvä	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	ccomp	_	_
 15	bes’odale	besʼodu	NOUN	NOUN	Case=All|Number=Sing	14	obl	_	SpaceAfter=No
 16	,	,	PUNCT	PUNCT	_	17	punct	_	_
 17	pajatettih	pajattua	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	14	conj	_	SpaceAfter=No

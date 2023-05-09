@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>весе</em> (<tt><a href="myv_jr-po
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 3.222222 (the average of all parts of speech is 2.080808).
+The form / lemma ratio of `PRON` is 3.222222 (the average of all parts of speech is 2.081114).
 
 The 1st highest number of forms (15) was observed with the lemma “мезе”: <em>мезде, мезе, мезекс, мезель, мезем, мезенек, мезень, мезес, мезесь, мезеть, мезть, мейсэ, мейсэль, мень, месть</em>.
 

@@ -8,28 +8,30 @@ udver: '2'
 
 This relation is a language-specific subtype of .
 
-31 nodes (0%) are attached to their parents as `flat:name`.
+136 nodes (0%) are attached to their parents as `flat:name`.
 
-31 instances of `flat:name` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.7741935483871.
+136 instances of `flat:name` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.26470588235294.
 
-The following 1 pairs of parts of speech are connected with `flat:name`: <tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt> (31; 100% instances).
+The following 1 pairs of parts of speech are connected with `flat:name`: <tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt> (136; 100% instances).
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 7 flat:name	color:blue
-1	сь	сь	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	Ref=MATT_21.11
-2	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	Ref=MATT_21.11
-3	и҃с	исоусъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=MATT_21.11
-4	пророкъ	пророкъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	appos	_	Ref=MATT_21.11
-5	ꙇже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	7	nsubj	_	Ref=MATT_21.11
-6	отъ	отъ	ADP	R-	_	7	case	_	Ref=MATT_21.11
-7	назарета	назаретъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	3	flat:name	_	Ref=MATT_21.11
-8	галилеискааго	галилеискъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc,Neut|Number=Sing	7	advmod	_	Ref=MATT_21.11
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 10 flat:name	color:blue
+1	потомʼ	потомь	ADV	Df	_	3	advmod	_	ref=2
+2	же	же	ADV	Df	_	3	discourse	_	ref=2
+3	придѫ	прити	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=2
+4	къ	къ	ADP	R-	_	6	case	_	ref=2
+5	и͑стинь͗ноуо̑умоу	истиньнъ	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	ref=2
+6	ѫ͑жицѣ	ѫжика	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	3	obl	_	ref=2
+7	го͆у	господь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	6	appos	_	ref=2
+8	моѥ͑моу	мои	DET	Ps	Case=Dat|Gender=Neut|Number=Sing|Person=1|Poss=Yes	7	det	_	ref=2
+9	їс͆	исоусъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	7	appos	_	ref=2
+10	хс͆оу	христ(ос)ъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	9	flat:name	_	ref=2
 
 ~~~
 

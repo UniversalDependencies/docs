@@ -52,7 +52,7 @@ The following 16 pairs of parts of speech are connected with `parataxis:hashtag`
 5	scuola	scuola	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
 6	“	“	PUNCT	FB	_	5	punct	_	_
 7	permettendo	permettire	VERB	V	VerbForm=Ger	5	advcl	_	SpaceAfter=No
-8	.	.	PUNCT	FS	_	5	punct	_	SpaceAfter=\n
+8	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n
 
 ~~~
 
@@ -70,7 +70,7 @@ The following 16 pairs of parts of speech are connected with `parataxis:hashtag`
 5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	tweet	tweet	NOUN	S	_	3	nmod	_	_
 7	di	di	ADP	E	_	8	case	_	_
-8	@user	@user	SYM	SYM	_	6	nmod	_	SpaceAfter=\n
+8	@user	@user	SYM	SYM	_	6	nmod	_	SpacesAfter=\n
 
 ~~~
 

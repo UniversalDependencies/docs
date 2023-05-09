@@ -11,10 +11,10 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="tr_pud-feat-Person.html">Person</a></tt>, <tt><a href="tr_pud-feat-Person-psor.html">Person[psor]</a></tt>.
 
-1509 tokens (9%) have a non-empty value of `Person`.
+1508 tokens (9%) have a non-empty value of `Person`.
 865 types (12%) occur at least once with a non-empty value of `Person`.
 401 lemmas (9%) occur at least once with a non-empty value of `Person`.
-The feature is used with 6 part-of-speech tags: <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> (1187; 7% instances), <tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> (267; 2% instances), <tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> (47; 0% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="tr_pud-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> (1187; 7% instances), <tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> (267; 2% instances), <tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> (47; 0% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="tr_pud-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `VERB`
 
@@ -27,7 +27,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 * `1` (58; 5% of non-empty `Person`): <em>bilmiyorum, döndüm, düşünüyorum, düşünüyoruz, ediyorum, olursak, Sanırım, alıyorum, anlıyorum, araştırıyoruz</em>
 * `2` (12; 1% of non-empty `Person`): <em>ahdet, at, atın, başlarsınız, biliyorsanız, erişebilirsiniz, ettiniz, isterseniz, seçin, soyun</em>
 * `3` (1117; 94% of non-empty `Person`): <em>dedi, etti, başladı, söyledi, çıktı, edildi, verdi, ediyor, geldi, aldı</em>
-* `EMPTY` (506): <em>büyüme, savunma, edilmesi, soruşturma, çalışma, çıkmaya, etmeye, olmadan, alma, etmesi</em>
+* `EMPTY` (507): <em>büyüme, savunma, edilmesi, soruşturma, çalışma, çıkmaya, etmeye, olmadan, alma, etmesi</em>
 
 <table>
   <tr><th>Paradigm <i>et</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -126,17 +126,6 @@ The most frequent other feature values with which `NOUN` and `Person` co-occurre
 * `3` (4; 80% of non-empty `Person`): <em>Kızları, alan, deneyimi, sistemi"ne</em>
 * `EMPTY` (5824): <em>arasında, tarafından, yıl, şekilde, kuzey, yılında, ortaya, güney, yer, konusunda</em>
 
-### `X`
-
-2 <tt><a href="tr_pud-pos-X.html">X</a></tt> tokens (2% of all `X` tokens) have a non-empty value of `Person`.
-
-The most frequent other feature values with which `X` and `Person` co-occurred: <tt><a href="tr_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt> (2; 100%), <tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt> (2; 100%).
-
-`X` tokens may have the following values of `Person`:
-
-* `3` (2; 100% of non-empty `Person`): <em>lerin</em>
-* `EMPTY` (103): <em>the, of, North, Association, My, News, Really, Uber, You, 'da</em>
-
 ### `PROPN`
 
 1 <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `Person`.
@@ -147,6 +136,17 @@ The most frequent other feature values with which `PROPN` and `Person` co-occurr
 
 * `3` (1; 100% of non-empty `Person`): <em>Gezer</em>
 * `EMPTY` (1524): <em>İngiliz, Çin, Alman, Amerika, ABD, Hong, Trump, Akdeniz, Avrupa, Avustralya</em>
+
+### `X`
+
+1 <tt><a href="tr_pud-pos-X.html">X</a></tt> tokens (1% of all `X` tokens) have a non-empty value of `Person`.
+
+The most frequent other feature values with which `X` and `Person` co-occurred: <tt><a href="tr_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt> (1; 100%).
+
+`X` tokens may have the following values of `Person`:
+
+* `3` (1; 100% of non-empty `Person`): <em>lerin</em>
+* `EMPTY` (103): <em>the, of, North, Association, My, News, Really, Uber, You, 'da</em>
 
 ## Relations with Agreement in `Person`
 

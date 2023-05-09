@@ -22,7 +22,7 @@ The following 57 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 2 obl	color:blue
-1	_	_	NOUN	_	_	9	dep	_	BBIL=B|BPT=4|SpaceAfter=Yes|UI=29306
+1	_	_	NOUN	_	_	9	dep	_	BBIL=B|BPT=4|UI=29306
 2	_	_	NOUN	_	_	4	obl	_	BBIL=B|BPT=0|SpaceAfter=No|UI=3524
 3	_	_	ADP	_	_	2	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=5
 4	_	_	VERB	_	_	9	acl	_	BBIL=B|BPT=0|SpaceAfter=No|UI=514
@@ -41,7 +41,7 @@ The following 57 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 10 obl	color:blue
-1	_	_	NUM	_	_	14	dep	_	BBIL=B|BPT=4|SpaceAfter=Yes|UI=65
+1	_	_	NUM	_	_	14	dep	_	BBIL=B|BPT=4|UI=65
 2	_	_	NOUN	_	_	4	nmod	_	BBIL=B|BPT=0|SpaceAfter=No|UI=5505
 3	_	_	ADP	_	_	2	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=0
 4	_	_	NOUN	_	_	8	nmod	_	BBIL=B|BPT=0|SpaceAfter=No|UI=6390

@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 7 different values: `Art`, `Dem`, `Ind`, `Int`, `Prs`, `Rcp`, `Tot`.
 
-16024 tokens (29%) have a non-empty value of `PronType`.
+16027 tokens (29%) have a non-empty value of `PronType`.
 132 types (5%) occur at least once with a non-empty value of `PronType`.
 77 lemmas (3%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 4 part-of-speech tags: <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (8643; 15% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (7155; 13% instances), <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (173; 0% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (53; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (8644; 15% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (7157; 13% instances), <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (173; 0% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (53; 0% instances).
 
 ### `PRON`
 
-8643 <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> tokens (94% of all `PRON` tokens) have a non-empty value of `PronType`.
+8644 <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> tokens (94% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="cop_scriptorium-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (8325; 96%), <tt><a href="cop_scriptorium-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5424; 63%), <tt><a href="cop_scriptorium-feat-Person.html">Person</a></tt><tt>=3</tt> (5254; 61%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="cop_scriptorium-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (8326; 96%), <tt><a href="cop_scriptorium-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5425; 63%), <tt><a href="cop_scriptorium-feat-Person.html">Person</a></tt><tt>=3</tt> (5255; 61%).
 
 `PRON` tokens may have the following values of `PronType`:
 
 * `Ind` (145; 2% of non-empty `PronType`): ⲛⲓⲙ, ⲟⲩ
 * `Int` (173; 2% of non-empty `PronType`): ⲟⲩ, ⲛⲓⲙ, ⲁϣ, ⲟⲩⲏⲣ, ⲁⲟⲩⲏⲣ, ⲡⲱⲥ
-* `Prs` (8325; 96% of non-empty `PronType`): ϥ, ⲩ, ⲥ, ⲓ, ⲟⲩ, ⲕ, ⲛ, ⲧⲛ, ⲧⲉⲧⲛ, ⲥⲉ
+* `Prs` (8326; 96% of non-empty `PronType`): ϥ, ⲩ, ⲥ, ⲓ, ⲟⲩ, ⲕ, ⲛ, ⲧⲛ, ⲧⲉⲧⲛ, ⲥⲉ
 * `EMPTY` (526): ⲡⲉ, ⲧⲉ, ⲡ, ⲛⲉ, ⲛ, ⲁ, ⲧ, ⲩ, ⲉⲓ, ⲉⲕⲉ
 
 <table>
@@ -36,16 +36,16 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 ### `DET`
 
-7155 <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+7157 <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="cop_scriptorium-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (6125; 86%), <tt><a href="cop_scriptorium-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (5836; 82%), <tt><a href="cop_scriptorium-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5836; 82%), <tt><a href="cop_scriptorium-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (5791; 81%), <tt><a href="cop_scriptorium-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5644; 79%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="cop_scriptorium-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (6127; 86%), <tt><a href="cop_scriptorium-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (5837; 82%), <tt><a href="cop_scriptorium-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5837; 82%), <tt><a href="cop_scriptorium-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (5792; 81%), <tt><a href="cop_scriptorium-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5644; 79%).
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Art` (5249; 73% of non-empty `PronType`): ⲡ, ⲧ, ⲛ, ⲟⲩ, ⲡⲉ, ϩⲉⲛ, ⲕⲉ, ⲛⲉ, ⲧⲉ, ⲩ
+* `Art` (5250; 73% of non-empty `PronType`): ⲡ, ⲧ, ⲛ, ⲟⲩ, ⲡⲉ, ϩⲉⲛ, ⲕⲉ, ⲛⲉ, ⲧⲉ, ⲩ
 * `Dem` (542; 8% of non-empty `PronType`): ⲡⲁⲓ, ⲛⲁⲓ, ⲡⲉⲓ, ⲧⲉⲓ, ⲧⲁⲓ, ⲛⲉⲓ, ⲡⲓ, ⲛⲓ, ⲡⲏ, ⲛⲏ
-* `Prs` (1364; 19% of non-empty `PronType`): ⲡⲁ, ⲡⲉϥ, ⲛⲉϥ, ⲧⲉϥ, ⲡⲉⲕ, ⲛⲁ, ⲡⲉⲛ, ⲧⲁ, ⲛⲉⲛ, ⲛⲉⲩ
-* `EMPTY` (34): ϯ, ⲛⲁ, ⲛ, ⲙ, ⲧ, ϩⲛ, ⲛⲉ, ⲛⲉⲧⲛ, ⲟⲩ, ⲡⲉⲓ
+* `Prs` (1365; 19% of non-empty `PronType`): ⲡⲁ, ⲡⲉϥ, ⲛⲉϥ, ⲧⲉϥ, ⲡⲉⲕ, ⲛⲁ, ⲡⲉⲛ, ⲧⲁ, ⲛⲉⲛ, ⲛⲉⲩ
+* `EMPTY` (31): ϯ, ⲛⲁ, ⲙ, ⲛ, ⲧ, ϩⲛ, ⲛⲉ, ⲛⲉⲧⲛ, ⲟⲩ, ⲡⲉⲓ
 
 <table>
   <tr><th>Paradigm <i>ⲡⲁ</i></th><th><tt>Prs</tt></th><th><tt>Dem</tt></th></tr>

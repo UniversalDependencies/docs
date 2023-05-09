@@ -60,7 +60,7 @@ The following 43 pairs of parts of speech are connected with `obj`: <tt><a href=
 4	bara	bara	ADV	FP	_	6	advmod	_	IFD_tag=aa
 5	með	með	ADP	P	_	6	case	_	IFD_tag=ao
 6	getgátur	getgáta	NOUN	NS-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	0	root	_	IFD_tag=nvfo|SpaceAfter=No
-7	,	,	PUNCT	,	_	8	punct	_	IFD_tag=
+7	,	,	PUNCT	,	_	8	punct	_	IFD_tag
 8	er	vera	AUX	BEPI	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	IFD_tag=sfg1en
 9	bara	bara	ADV	FP	_	8	advmod	_	IFD_tag=aa
 10	að	að	PART	TO	_	11	mark	_	IFD_tag=cn

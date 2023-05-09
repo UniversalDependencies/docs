@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal but the values `Emp` are language-specific.
 It occurs with 3 different values: `Emp`, `Ind`, `Prs`.
 
-73 tokens (6%) have a non-empty value of `PronType`.
+73 tokens (5%) have a non-empty value of `PronType`.
 10 types (2%) occur at least once with a non-empty value of `PronType`.
 8 lemmas (3%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt> (73; 6% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt> (73; 5% instances).
 
 ### `PRON`
 

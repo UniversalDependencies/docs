@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Spanish-PUD: Relations: `obl:tmod`
 
 This relation is a language-specific subtype of <tt><a href="es_pud-dep-obl.html">obl</a></tt>.
-There are also 1 other language-specific subtypes of `obl`: <tt><a href="es_pud-dep-obl-agent.html">obl:agent</a></tt>.
+There are also 2 other language-specific subtypes of `obl`: <tt><a href="es_pud-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="es_pud-dep-obl-arg.html">obl:arg</a></tt>.
 
 68 nodes (0%) are attached to their parents as `obl:tmod`.
 
@@ -23,12 +23,12 @@ The following 4 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 12 obl:tmod	color:blue
-1	Le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	2	iobj	_	_
-2	apasiona	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+1	Le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	2	obl:arg	_	_
+2	apasiona	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	guitarra	guitarra	NOUN	NN	Gender=Fem|Number=Sing	2	obj	_	_
 5	y	y	CCONJ	CC	_	6	cc	_	_
-6	dio	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
+6	dio	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
 7	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	concierto	concierto	NOUN	NN	Gender=Masc|Number=Sing	6	obj	_	_
 9	allí	allí	ADV	RB	_	6	advmod	_	_
@@ -49,7 +49,7 @@ The following 4 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 1	La	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 2	alegre	_	ADJ	JJ	Gender=Fem|Number=Sing	3	amod	_	_
 3	dedicatoria	dedicatoria	NOUN	NN	Gender=Fem|Number=Sing	4	nsubj	_	_
-4	tuvo	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	tuvo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	lugar	lugar	NOUN	NN	Gender=Masc|Number=Sing	4	obj	_	_
 6	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	30	30	NUM	CD	Gender=Masc|NumType=Card	4	obl:tmod	_	_
@@ -82,7 +82,7 @@ The following 4 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 12	tarde	tarde	ADV	RB	_	17	advmod	_	SpaceAfter=No
 13	,	,	PUNCT	,	_	12	punct	_	_
 14	Jutting	Jutting	PROPN	NNP	Gender=Masc|Number=Sing	17	nsubj	_	_
-15	apareció	_	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	17	cop	_	_
+15	apareció	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	cop	_	_
 16	mayormente	mayormente	ADV	RB	_	17	advmod	_	_
 17	compuesto	compuesto	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 18	.	.	PUNCT	.	_	17	punct	_	_

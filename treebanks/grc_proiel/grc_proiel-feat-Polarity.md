@@ -9,19 +9,19 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Neg`.
 
-3641 tokens (2%) have a non-empty value of `Polarity`.
+3638 tokens (2%) have a non-empty value of `Polarity`.
 40 types (0%) occur at least once with a non-empty value of `Polarity`.
 21 lemmas (0%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 1 part-of-speech tags: <tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt> (3641; 2% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt> (3638; 2% instances).
 
 ### `ADV`
 
-3641 <tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt> tokens (16% of all `ADV` tokens) have a non-empty value of `Polarity`.
+3638 <tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt> tokens (16% of all `ADV` tokens) have a non-empty value of `Polarity`.
 
 `ADV` tokens may have the following values of `Polarity`:
 
-* `Neg` (3641; 100% of non-empty `Polarity`): <em>οὐκ, μὴ, οὐ, οὐχ, οὐκέτι, οὐδὲ, μή, οὐχὶ, οὔ, οὔπω</em>
-* `EMPTY` (19441): <em>δὲ, γὰρ, καὶ, μὲν, ὡς, δὴ, οὖν, ἂν, δέ, τότε</em>
+* `Neg` (3638; 100% of non-empty `Polarity`): <em>οὐκ, μὴ, οὐ, οὐχ, οὐκέτι, οὐδὲ, μή, οὐχὶ, οὔ, οὔπω</em>
+* `EMPTY` (19444): <em>δὲ, γὰρ, καὶ, μὲν, ὡς, δὴ, οὖν, ἂν, δέ, τότε</em>
 
 `Polarity` seems to be **lexical feature** of `ADV`. 100% lemmas (21) occur only with one value of `Polarity`.
 

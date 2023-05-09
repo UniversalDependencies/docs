@@ -23,8 +23,8 @@ The following 1 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 8 flat	color:blue
-1	Il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl:subj	_	wordform=il
-2	s'	se	PRON	_	Person=3|PronType=Prs|Reflex=Yes	3	expl:pv	_	SpaceAfter=No
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl:subj	_	wordform=il
+2	s'	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	3	expl:pv	_	SpaceAfter=No
 3	agit	agir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	d'	de	ADP	_	_	5	case	_	SpaceAfter=No
 5	album	album	NOUN	_	Gender=Masc|Number=Sing	3	obl:arg	_	_
@@ -35,7 +35,7 @@ The following 1 pairs of parts of speech are connected with `flat`: <tt><a href=
 10	en	en	ADP	_	_	12	case	_	_
 11	grand	grand	ADJ	_	Gender=Masc|Number=Sing	12	amod	_	_
 12	format	format	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
-13	cartonné	cartonner	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	acl	_	SpaceAfter=No
+13	cartonné	cartonner	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	5	acl	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~

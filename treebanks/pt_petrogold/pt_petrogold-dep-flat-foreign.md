@@ -18,23 +18,30 @@ The following 2 pairs of parts of speech are connected with `flat:foreign`: <tt>
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 11 flat:foreign	color:blue
-1	Para	para	ADP	_	_	2	mark	_	_
-2	resolver	resolver	VERB	_	VerbForm=Inf	6	advcl	_	_
-3	estes	este	DET	_	Gender=Masc|Number=Plur|PronType=Dem	4	det	_	_
-4	problemas	problema	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
-5	foram	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	6	aux:pass	_	_
-6	desenvolvidos	desenvolver	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	_
-7	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
-8	chamados	chamar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	9	acl	_	_
-9	fluidos	fluido	NOUN	_	Gender=Masc|Number=Plur	6	nsubj:pass	_	_
-10	drill	drill	X	_	_	9	nmod	_	_
-11	n	n	X	_	_	10	flat:foreign	_	_
-12	.	.	PUNCT	_	_	6	punct	_	_
+# visual-style 17	bgColor:blue
+# visual-style 17	fgColor:white
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 16 17 flat:foreign	color:blue
+1	em	em	ADP	_	_	3	case	_	SpaceAfter=No
+2	:	:	PUNCT	_	_	3	punct	_	_
+3	VPL	VPL	PROPN	_	Gender=Masc|Number=Sing	0	root	_	_
+4	=	=	PUNCT	_	_	5	punct	_	_
+5	0	0	NUM	_	NumType=Card	3	nmod	_	_
+6	e	e	CCONJ	_	_	7	cc	_	_
+7	TIR	TIR	PROPN	_	Gender=Fem|Number=Sing	3	conj	_	_
+8	=	=	PUNCT	_	_	7	punct	_	_
+9	TMA	TMA	PROPN	_	Gender=Fem|Number=Sing	3	appos	_	_
+10	–	–	PUNCT	_	_	11	punct	_	_
+11	investimento	investimento	NOUN	_	Gender=Masc|Number=Sing	3	conj	_	_
+12	indiferente	indiferente	ADJ	_	Gender=Masc|Number=Sing	11	amod	_	_
+13	(	(	PUNCT	_	_	14	punct	_	SpaceAfter=No
+14	região	região	NOUN	_	Gender=Fem|Number=Sing	3	appos	_	_
+15	de	de	ADP	_	_	16	case	_	_
+16	break	break	X	_	_	14	nmod	_	_
+17	even	even	X	_	_	16	flat:foreign	_	SpaceAfter=No
+18	)	)	PUNCT	_	_	14	punct	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 
@@ -50,7 +57,7 @@ The following 2 pairs of parts of speech are connected with `flat:foreign`: <tt>
 3	tal	tal	DET	_	Gender=Fem|Number=Sing|PronType=Ind	4	det	_	_
 4	observação	observação	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
 5	plotou	plotar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Se=pass
-6	se	se	PRON	_	_	5	expl:pass	_	_
+6	se	se	PRON	_	PronType=Prs	5	expl:pass	_	_
 7	um	um	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	gráfico	gráfico	NOUN	_	Gender=Masc|Number=Sing	5	nsubj:pass	_	_
 9	log(	log(	X	_	_	8	flat:foreign	_	SpaceAfter=No

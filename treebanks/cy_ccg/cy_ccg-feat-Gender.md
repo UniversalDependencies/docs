@@ -119,7 +119,7 @@ The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="cy_ccg-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1797; 56%),
 <tt>NOUN --[<tt><a href="cy_ccg-dep-conj.html">conj</a></tt>]--> NOUN</tt> (405; 58%),
 <tt>NOUN --[<tt><a href="cy_ccg-dep-det.html">det</a></tt>]--> PRON</tt> (80; 54%),
-<tt>NOUN --[<tt><a href="cy_ccg-dep-appos.html">appos</a></tt>]--> NOUN</tt> (64; 62%),
+<tt>NOUN --[<tt><a href="cy_ccg-dep-appos.html">appos</a></tt>]--> NOUN</tt> (65; 62%),
 <tt>PRON --[<tt><a href="cy_ccg-dep-compound-redup.html">compound:redup</a></tt>]--> PRON</tt> (31; 100%),
 <tt>PROPN --[<tt><a href="cy_ccg-dep-appos.html">appos</a></tt>]--> NOUN</tt> (15; 54%),
 <tt>PROPN --[<tt><a href="cy_ccg-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (15; 56%),

@@ -32,7 +32,7 @@ The following 10 pairs of parts of speech are connected with `cop`: <tt><a href=
 8	vóru	_	AUX	BEPI	Mood=Ind|Tense=Pres	10	cop	_	_
 9	úr	_	ADP	P	_	10	case	_	_
 10	flokki	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	0	root	_	_
-11	Farisearanna	_	NOUN	NS-G	Case=Gen|Definite=Ind|Number=Plur	10	nmod:poss	_	SpaceAfter=No
+11	Farisearanna	_	NOUN	NS-G	Case=Gen|Definite=Def|Number=Plur	10	nmod:poss	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	11	punct	_	_
 
 ~~~

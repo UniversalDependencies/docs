@@ -72,7 +72,7 @@ The following 6 pairs of parts of speech are connected with `goeswith`: <tt><a h
 7	온화한	_	ADJ	JJ	Form=Adn	9	amod	_	Translit=.on.hwa.han
 8	지중해	_	PROPN	NNP	_	9	compound	_	Translit=.ji.jung.hae
 9	기후	_	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=.gi.hu
-10	이다	_	AUX	VC	Mood=Ind|VerbForm=Fin	9	cop	_	SpaceAfter=No|Translit=.i.da
+10	이다	이	AUX	VC	Mood=Ind|VerbForm=Fin	9	cop	_	SpaceAfter=No|Translit=.i.da|LTranslit=.i
 11	.	.	PUNCT	.	_	9	punct	_	Translit=.|LTranslit=.
 
 ~~~

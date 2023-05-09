@@ -10,36 +10,26 @@ This feature is language-specific.
 It occurs with 3 different values: `1`, `2`, `3`.
 Some words have combined values of the feature; 1 combinations have been observed: `1|2|3`.
 
-8080 tokens (1%) have a non-empty value of `NumValue`.
-90 types (0%) occur at least once with a non-empty value of `NumValue`.
-18 lemmas (0%) occur at least once with a non-empty value of `NumValue`.
-The feature is used with 2 part-of-speech tags: <tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt> (8050; 1% instances), <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> (30; 0% instances).
+1210 tokens (0%) have a non-empty value of `NumValue`.
+100 types (0%) occur at least once with a non-empty value of `NumValue`.
+41 lemmas (0%) occur at least once with a non-empty value of `NumValue`.
+The feature is used with 1 part-of-speech tags: <tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt> (1210; 0% instances).
 
 ### `NUM`
 
-8050 <tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt> tokens (19% of all `NUM` tokens) have a non-empty value of `NumValue`.
+1210 <tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt> tokens (14% of all `NUM` tokens) have a non-empty value of `NumValue`.
 
-The most frequent other feature values with which `NUM` and `NumValue` co-occurred: <tt><a href="cs_pdt-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (8050; 100%), <tt><a href="cs_pdt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (8050; 100%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (4885; 61%).
+The most frequent other feature values with which `NUM` and `NumValue` co-occurred: <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1210; 100%), <tt><a href="cs_pdt-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (1210; 100%), <tt><a href="cs_pdt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (1210; 100%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (671; 55%).
 
 `NUM` tokens may have the following values of `NumValue`:
 
-* `1,2,3` (8050; 100% of non-empty `NumValue`): <em>dva, tři, jeden, dvě, tisíc, dvou, čtyři, obou, jednoho, jedné</em>
+* `1,2,3` (1210; 100% of non-empty `NumValue`): <em>tři, čtyři, pět, šest, půl, deset, tří, pěti, šesti, dvacet</em>
 
-`NumValue` seems to be **lexical feature** of `NUM`. 100% lemmas (18) occur only with one value of `NumValue`.
-
-### `ADJ`
-
-30 <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `NumValue`.
-
-The most frequent other feature values with which `ADJ` and `NumValue` co-occurred: <tt><a href="cs_pdt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (30; 100%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (30; 100%), <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (30; 100%), <tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (30; 100%), <tt><a href="cs_pdt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (30; 100%), <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (19; 63%).
-
-`ADJ` tokens may have the following values of `NumValue`:
-
-* `1` (30; 100% of non-empty `NumValue`): <em>jedny, jedni, jedněch, jedněm, jedněmi</em>
+`NumValue` seems to be **lexical feature** of `NUM`. 100% lemmas (41) occur only with one value of `NumValue`.
 
 ## Relations with Agreement in `NumValue`
 
 The 10 most frequent relations where parent and child node agree in `NumValue`:
-<tt>NUM --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> NUM</tt> (99; 69%),
-<tt>NUM --[<tt><a href="cs_pdt-dep-orphan.html">orphan</a></tt>]--> NUM</tt> (3; 100%).
+<tt>NUM --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> NUM</tt> (35; 51%),
+<tt>NUM --[<tt><a href="cs_pdt-dep-compound.html">compound</a></tt>]--> NUM</tt> (9; 69%).
 

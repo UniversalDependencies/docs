@@ -22,19 +22,19 @@ The following 2 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 15	bgColor:blue
 # visual-style 15	fgColor:white
 # visual-style 15 1 discourse	color:blue
-1	Eh	eh	INTJ	_	_	15	discourse	_	ExtPos=INTJ
-2	bien	bien	ADV	_	_	1	fixed	_	SpaceAfter=No
-3	,	,	PUNCT	_	_	15	punct	_	_
+1	Eh	eh	INTJ	_	_	15	discourse	_	ExtPos=INTJ|Idiom=Yes
+2	bien	bien	ADV	_	_	1	fixed	_	InIdiom=Yes|SpaceAfter=No
+3	,	,	PUNCT	_	_	1	punct	_	_
 4	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 5	célèbre	célèbre	ADJ	_	Number=Sing	6	amod	_	_
 6	retraité	retraité	NOUN	_	Gender=Masc|Number=Sing	15	nsubj	_	_
 7	américain	américain	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	SpaceAfter=No
-8	,	,	PUNCT	_	_	6	punct	_	_
+8	,	,	PUNCT	_	_	10	punct	_	_
 9	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	10	det	_	SpaceAfter=No
 10	astronaute	astronaute	NOUN	_	Number=Sing	6	appos	_	_
-11	John	John	PROPN	_	Gender=Masc|Number=Sing	10	appos	_	_
+11	John	John	PROPN	_	Gender=Masc|Number=Sing	10	nmod	_	_
 12	Glenn	Glenn	PROPN	_	Gender=Masc|Number=Sing	11	flat:name	_	SpaceAfter=No
-13	,	,	PUNCT	_	_	15	punct	_	_
+13	,	,	PUNCT	_	_	10	punct	_	_
 14	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux:tense	_	_
 15	parti	partir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 16	dans	dans	ADP	_	_	18	case	_	_
@@ -58,7 +58,7 @@ The following 2 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 6	fgColor:white
 # visual-style 6 1 discourse	color:blue
 1	Hélas	hélas	INTJ	_	_	6	discourse	_	_
-2	ce	ce	PRON	_	Number=Sing|Person=3	6	nsubj	_	_
+2	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj	_	_
 3	n'	ne	ADV	_	Polarity=Neg	6	advmod	_	SpaceAfter=No
 4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
 5	pas	pas	ADV	_	Polarity=Neg	6	advmod	_	_

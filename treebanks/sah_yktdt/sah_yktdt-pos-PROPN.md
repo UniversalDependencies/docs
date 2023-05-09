@@ -6,10 +6,10 @@ udver: '2'
 
 ## Treebank Statistics: UD_Yakut-YKTDT: POS Tags: `PROPN`
 
-There are 13 `PROPN` lemmas (3%), 14 `PROPN` types (2%) and 28 `PROPN` tokens (2%).
+There are 14 `PROPN` lemmas (3%), 15 `PROPN` types (2%) and 29 `PROPN` tokens (2%).
 Out of 14 observed tags, the rank of `PROPN` is: 6 in number of lemmas, 6 in number of types and 12 in number of tokens.
 
-The 10 most frequent `PROPN` lemmas: <em>кэскил, Айаана, Сайаана, дьокуускай, Айтал, Коперник, Маша, Мичил, Сардана, миша</em>
+The 10 most frequent `PROPN` lemmas: <em>кэскил, Айаана, Сайаана, дьокуускай, Айтал, Коперник, Маша, Мичил, Петя, Сардана</em>
 
 The 10 most frequent `PROPN` types:  <em>Кэскил, Айаана, Дьокуускайга, Сайаана, Айталга, Коперник, Кэскилга, Маша, Мичил, Миша</em>
 
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.076923 (the average of all parts of speech is 1.506266).
+The form / lemma ratio of `PROPN` is 1.071429 (the average of all parts of speech is 1.502358).
 
 The 1st highest number of forms (2) was observed with the lemma “Кэскил”: <em>Кэскил, Кэскилга</em>.
 
@@ -34,21 +34,21 @@ The 3rd highest number of forms (1) was observed with the lemma “Айтал”
 `PROPN` occurs with 1 feature-value pairs: `Case=Dat`
 
 `PROPN` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (22 tokens).
-Examples: <em>Кэскил, Айаана, Сайаана, Коперник, Маша, Мичил, Миша, Сардана, Саша</em>
+The most frequent feature combination is `_` (23 tokens).
+Examples: <em>Кэскил, Айаана, Сайаана, Коперник, Маша, Мичил, Миша, Петя, Сардана, Саша</em>
 
 
 ## Relations
 
-`PROPN` nodes are attached to their parents using 8 different relations: <tt><a href="sah_yktdt-dep-nsubj.html">nsubj</a></tt> (11; 39% instances), <tt><a href="sah_yktdt-dep-vocative.html">vocative</a></tt> (7; 25% instances), <tt><a href="sah_yktdt-dep-obj.html">obj</a></tt> (3; 11% instances), <tt><a href="sah_yktdt-dep-nmod.html">nmod</a></tt> (2; 7% instances), <tt><a href="sah_yktdt-dep-obl.html">obl</a></tt> (2; 7% instances), <tt><a href="sah_yktdt-dep-conj.html">conj</a></tt> (1; 4% instances), <tt><a href="sah_yktdt-dep-iobj.html">iobj</a></tt> (1; 4% instances), <tt><a href="sah_yktdt-dep-root.html">root</a></tt> (1; 4% instances)
+`PROPN` nodes are attached to their parents using 8 different relations: <tt><a href="sah_yktdt-dep-nsubj.html">nsubj</a></tt> (12; 41% instances), <tt><a href="sah_yktdt-dep-vocative.html">vocative</a></tt> (7; 24% instances), <tt><a href="sah_yktdt-dep-obj.html">obj</a></tt> (3; 10% instances), <tt><a href="sah_yktdt-dep-nmod.html">nmod</a></tt> (2; 7% instances), <tt><a href="sah_yktdt-dep-obl.html">obl</a></tt> (2; 7% instances), <tt><a href="sah_yktdt-dep-conj.html">conj</a></tt> (1; 3% instances), <tt><a href="sah_yktdt-dep-iobj.html">iobj</a></tt> (1; 3% instances), <tt><a href="sah_yktdt-dep-root.html">root</a></tt> (1; 3% instances)
 
-Parents of `PROPN` nodes belong to 4 different parts of speech: <tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt> (24; 86% instances), <tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt> (2; 7% instances), <tt><a href="sah_yktdt-pos-PROPN.html">PROPN</a></tt> (1; 4% instances),  (1; 4% instances)
+Parents of `PROPN` nodes belong to 4 different parts of speech: <tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt> (25; 86% instances), <tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt> (2; 7% instances), <tt><a href="sah_yktdt-pos-PROPN.html">PROPN</a></tt> (1; 3% instances),  (1; 3% instances)
 
-20 (71%) `PROPN` nodes are leaves.
+21 (72%) `PROPN` nodes are leaves.
 
-7 (25%) `PROPN` nodes have one child.
+7 (24%) `PROPN` nodes have one child.
 
-1 (4%) `PROPN` nodes have two children.
+1 (3%) `PROPN` nodes have two children.
 
 The highest child degree of a `PROPN` node is 2.
 

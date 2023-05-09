@@ -13,7 +13,7 @@ The 10 most frequent `X` lemmas: _
 
 The 10 most frequent `X` types:  때, 달, 보았다, 사미, 중, of, 간, 갔는데, 꼴, 나라
 
-The 10 most frequent ambiguous lemmas: _ (<tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 4295, <tt><a href="ko_pud-pos-VERB.html">VERB</a></tt> 1439, <tt><a href="ko_pud-pos-PROPN.html">PROPN</a></tt> 1030, <tt><a href="ko_pud-pos-AUX.html">AUX</a></tt> 663, <tt><a href="ko_pud-pos-ADJ.html">ADJ</a></tt> 596, <tt><a href="ko_pud-pos-ADV.html">ADV</a></tt> 516, <tt><a href="ko_pud-pos-DET.html">DET</a></tt> 462, <tt><a href="ko_pud-pos-CCONJ.html">CCONJ</a></tt> 125, <tt><a href="ko_pud-pos-X.html">X</a></tt> 47, <tt><a href="ko_pud-pos-NUM.html">NUM</a></tt> 27, <tt><a href="ko_pud-pos-PRON.html">PRON</a></tt> 24, <tt><a href="ko_pud-pos-PUNCT.html">PUNCT</a></tt> 1)
+The 10 most frequent ambiguous lemmas: _ (<tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 4295, <tt><a href="ko_pud-pos-VERB.html">VERB</a></tt> 1439, <tt><a href="ko_pud-pos-PROPN.html">PROPN</a></tt> 1030, <tt><a href="ko_pud-pos-ADJ.html">ADJ</a></tt> 596, <tt><a href="ko_pud-pos-ADV.html">ADV</a></tt> 516, <tt><a href="ko_pud-pos-DET.html">DET</a></tt> 462, <tt><a href="ko_pud-pos-CCONJ.html">CCONJ</a></tt> 125, <tt><a href="ko_pud-pos-AUX.html">AUX</a></tt> 104, <tt><a href="ko_pud-pos-X.html">X</a></tt> 47, <tt><a href="ko_pud-pos-NUM.html">NUM</a></tt> 27, <tt><a href="ko_pud-pos-PRON.html">PRON</a></tt> 24, <tt><a href="ko_pud-pos-PUNCT.html">PUNCT</a></tt> 1)
 
 The 10 most frequent ambiguous types:  때 (<tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 17, <tt><a href="ko_pud-pos-X.html">X</a></tt> 5), 달 (<tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="ko_pud-pos-X.html">X</a></tt> 2), 중 (<tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 47, <tt><a href="ko_pud-pos-X.html">X</a></tt> 2), of (<tt><a href="ko_pud-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="ko_pud-pos-X.html">X</a></tt> 1), 간 (<tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="ko_pud-pos-X.html">X</a></tt> 1), 나라 (<tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="ko_pud-pos-X.html">X</a></tt> 1), 받은 (<tt><a href="ko_pud-pos-VERB.html">VERB</a></tt> 5, <tt><a href="ko_pud-pos-X.html">X</a></tt> 1), 섬 (<tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="ko_pud-pos-X.html">X</a></tt> 1), 없다 (<tt><a href="ko_pud-pos-ADJ.html">ADJ</a></tt> 6, <tt><a href="ko_pud-pos-X.html">X</a></tt> 1), 월 (<tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 44, <tt><a href="ko_pud-pos-X.html">X</a></tt> 1)
 
@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  때 (<tt><a href="ko_pud-pos-NOUN.html">N
 
 ## Morphology
 
-The form / lemma ratio of `X` is 39.000000 (the average of all parts of speech is 3.187571).
+The form / lemma ratio of `X` is 39.000000 (the average of all parts of speech is 3.181543).
 
 The 1st highest number of forms (39) was observed with the lemma “_”: of, 간, 갔는데, 꼴, 나라, 남았으며, 달, 두꺼비, 때, 멜라네시아인, 받으면서, 받은, 발, 별, 보셔야, 보았다, 사미, 상, 섬, 아홉, 알제리, 없다, 없어, 여겨, 월, 유럽, 이봐, 인도, 일어날, 입고, 있, 자리, 정사, 족, 줄기, 중, 차례, 한, 해.
 

@@ -9,24 +9,36 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-2700 tokens (2%) have a non-empty value of `Poss`.
-186 types (1%) occur at least once with a non-empty value of `Poss`.
+4268 tokens (2%) have a non-empty value of `Poss`.
+240 types (0%) occur at least once with a non-empty value of `Poss`.
 5 lemmas (0%) occur at least once with a non-empty value of `Poss`.
-The feature is used with 1 part-of-speech tags: <tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt> (2700; 2% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="orv_torot-pos-DET.html">DET</a></tt> (4106; 2% instances), <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt> (162; 0% instances).
 
-### `ADJ`
+### `DET`
 
-2700 <tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt> tokens (17% of all `ADJ` tokens) have a non-empty value of `Poss`.
+4106 <tt><a href="orv_torot-pos-DET.html">DET</a></tt> tokens (47% of all `DET` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `ADJ` and `Poss` co-occurred: <tt><a href="orv_torot-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (2700; 100%), <tt><a href="orv_torot-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (2700; 100%), <tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1924; 71%), <tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1513; 56%), <tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=3</tt> (1510; 56%).
+The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2962; 72%), <tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=3</tt> (2207; 54%), <tt><a href="orv_torot-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (2207; 54%), <tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2129; 52%).
 
-`ADJ` tokens may have the following values of `Poss`:
+`DET` tokens may have the following values of `Poss`:
 
-* `Yes` (2700; 100% of non-empty `Poss`): <em>своѥго, свои, свою, мои, своимъ, своя, нашь, своими, нашего, своего</em>
-* `EMPTY` (12931): <em>се, то, же, ст҃го, того, много, си, кто, ѡни, ѡн</em>
+* `Yes` (4106; 100% of non-empty `Poss`): <em>свою, своѥго, свои, мои, своего, своимъ, нашь, своими, своихъ, нашего</em>
+* `EMPTY` (4604): <em>всѧ, то, сего, вси, того, тож҃, все, всю, се, всѣхъ</em>
+
+### `PRON`
+
+162 <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Poss`.
+
+The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="orv_torot-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (162; 100%), <tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (92; 57%), <tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Plur</tt> (91; 56%), <tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=3</tt> (83; 51%), <tt><a href="orv_torot-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (83; 51%).
+
+`PRON` tokens may have the following values of `Poss`:
+
+* `Yes` (162; 100% of non-empty `Poss`): <em>наши, своя, своꙗ, своѥ, своихъ, твои, мои, нашь, свое, свои</em>
+* `EMPTY` (23989): <em>сѧ, его, ѥго, и, ся, ихъ, имъ, иже, что, ѥму</em>
 
 ## Relations with Agreement in `Poss`
 
 The 10 most frequent relations where parent and child node agree in `Poss`:
-<tt>ADJ --[<tt><a href="orv_torot-dep-conj.html">conj</a></tt>]--> ADJ</tt> (6; 67%).
+<tt>DET --[<tt><a href="orv_torot-dep-conj.html">conj</a></tt>]--> PRON</tt> (4; 100%),
+<tt>PRON --[<tt><a href="orv_torot-dep-conj.html">conj</a></tt>]--> PRON</tt> (4; 80%).
 

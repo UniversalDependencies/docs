@@ -19,16 +19,16 @@ The 10 most frequent ambiguous types:  <em>é</em> (<tt><a href="pt_petrogold-po
 
 
 * <em>é</em>
-  * <tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> 1805: <em>Geralmente o solvente utilizado <b>é</b> o querosene .</em>
+  * <tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> 1805: <em>O petróleo <b>é</b> descrito conforme suas propriedades físicas .</em>
   * <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt> 27: <em>Um detalhe importante de este modelo <b>é</b> que ele só é válido para escoamento laminar .</em>
 * <em>foi</em>
-  * <tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> 758: <em>Em o afloramento 206 <b>foi</b> reconhecida espessa zona de deformação .</em>
+  * <tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> 758: <em>O balanço de massa <b>foi</b> obtido por a Equação 9 : ( 9 )</em>
   * <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt> 2: <em>A especificação utilizada em esta etapa <b>foi</b> que a corrente de MEG rico que deixa a unidade tenha concentração de 89 % molar de o inibidor .</em>
 * <em>ser</em>
-  * <tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> 674: <em>Isto pode <b>ser</b> observado em o Gráfico 13 .</em>
+  * <tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> 674: <em>Os fluidos de perfuração podem <b>ser</b> conceituados de diversas maneiras .</em>
   * <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt> 1: <em>De maneira similar , devido a a pequena força capilar que geralmente existe em uma matriz de alta permeabilidade , preocupações com o aprisionamento de fase aquosa não se manifestam como um problema grave em esse tipo de rocha , a não <b>ser</b> que a saturação de água inicial seja extremamente baixa .</em>
 * <em>está</em>
-  * <tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> 200: <em>A composição mineralógica total de as argilas <b>está</b> em a Tabela IV.3 .</em>
+  * <tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> 200: <em>O espaço entre elas <b>está</b> preenchido com um fluido viscoso .</em>
   * <tt><a href="pt_petrogold-pos-DET.html">DET</a></tt> 1: <em>Não foi necessário o ensaio de rolamento para <b>está</b> análise , visto as argilas possuírem grande reatividade .</em>
   * <tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> 1: <em>Estas reações são , respectivamente , a conversão de o triglicerídeo em diglicerídeo , seguida por a conversão de o diglicerídeo em monoglicerídeo e por fim o monoglicerídeo é convertido em glicerídeo , sendo <b>está</b> ultima a etapa lenta .</em>
 * <em>era</em>
@@ -44,7 +44,7 @@ The 10 most frequent ambiguous types:  <em>é</em> (<tt><a href="pt_petrogold-po
   * <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt> 35: <em>Todas as energias que a luz possa <b>ter</b> são múltiplas de hf .</em>
   * <tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> 29: <em>Isso pode <b>ter</b> ocorrido devido o clorofórmio extrair também o tensoativo .</em>
 * <em>tem</em>
-  * <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt> 141: <em>Este ensaio <b>tem</b> por objetivo determinar o pH de as emulsões asfálticas .</em>
+  * <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt> 141: <em>Em a Figura 4.7 <b>tem</b> se o retorno de a vazão relativa de óleo vs. tempo .</em>
   * <tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> 27: <em>A rota de a ingressão marinha <b>tem</b> sido conjecturada por diversos autores .</em>
 * <em>for</em>
   * <tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> 25: <em>Quanto maior <b>for</b> o índice maior será o grau de sensibilidade ( BRASIL , 2005 ) .</em>
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>é</em> (<tt><a href="pt_petrogold-po
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 12.400000 (the average of all parts of speech is 1.452352).
+The form / lemma ratio of `AUX` is 12.400000 (the average of all parts of speech is 1.452220).
 
 The 1st highest number of forms (24) was observed with the lemma “ser”: <em>e, era, eram, foi, for, foram, forem, fosse, fossem, seja, sejam, sendo, ser, sera, serem, seria, seriam, será, serão, sido, são, È, é, Ǻ</em>.
 

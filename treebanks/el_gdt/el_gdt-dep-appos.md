@@ -29,9 +29,9 @@ The following 31 pairs of parts of speech are connected with `appos`: <tt><a hre
 5	,	,	PUNCT	PUNCT	_	4	punct	_	_
 6	το	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	det	_	_
 7	μήνυμα	μήνυμα	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	_
-8	αυτό	αυτός	PRON	PRON	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	det	_	_
-9	σ	σε	ADP	AsPpSp	_	11	case	_	_
-10	τον	ο	DET	AtDf	Case=Acc|Gender=Masc|Number=Sing	11	det	_	_
+8	αυτό	αυτός	DET	DET	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	det	_	_
+9	σ	σε	ADP	ADP	_	11	case	_	_
+10	τον	ο	DET	DET	Case=Acc|Gender=Masc|Number=Sing	11	det	_	_
 11	συνάδελφό	συνάδελφος	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	2	obl	_	_
 12	μου	μου	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs	11	nmod	_	SpaceAfter=No
 13	,	,	PUNCT	PUNCT	_	14	punct	_	_

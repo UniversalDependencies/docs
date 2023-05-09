@@ -131,7 +131,7 @@ The most frequent other feature values with which `ADJ` and `PronType` co-occurr
 * `Ind` (89; 31% of non-empty `PronType`): <em>jonkinlaista, samanlaisia, samanlainen, monenlaista, kaikenlaista, minkäänlaista, monenlaisia, kaikenlaisia, samanlaista, jonkinlainen</em>
 * `Int` (45; 16% of non-empty `PronType`): <em>millainen, minkälainen, millaisia, minkälaisen, millaisen, millaisena, millanen, mimmonen, minkälaisia, minkäslaista</em>
 * `Rel` (17; 6% of non-empty `PronType`): <em>jollainen, jollaisen, jollaista, jollaiseksi, jollaisia, jollaiset, jollaisissa</em>
-* `EMPTY` (10202): <em>koko, hyvä, viime, ensi, hyvää, uusi, oma, ensimmäinen, uutta, uuden</em>
+* `EMPTY` (10201): <em>koko, hyvä, viime, ensi, hyvää, uusi, oma, ensimmäinen, uutta, uuden</em>
 
 <table>
   <tr><th>Paradigm <i>millainen</i></th><th><tt>Int</tt></th><th><tt>Ind</tt></th></tr>

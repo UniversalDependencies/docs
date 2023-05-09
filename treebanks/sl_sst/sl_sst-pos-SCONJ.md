@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Slovenian-SST: POS Tags: `SCONJ`
 
-There are 19 `SCONJ` lemmas (0%), 19 `SCONJ` types (0%) and 1277 `SCONJ` tokens (4%).
-Out of 16 observed tags, the rank of `SCONJ` is: 13 in number of lemmas, 15 in number of types and 12 in number of tokens.
+There are 18 `SCONJ` lemmas (0%), 18 `SCONJ` types (0%) and 1277 `SCONJ` tokens (4%).
+Out of 16 observed tags, the rank of `SCONJ` is: 14 in number of lemmas, 15 in number of types and 12 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>da, ki, če, ker, ko, kot, ka, kakor, kjer, dokler</em>
 
 The 10 most frequent `SCONJ` types:  <em>da, ki, če, ker, ko, kot, ka, kakor, kjer, dokler</em>
 
-The 10 most frequent ambiguous lemmas: <em>da</em> (<tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 533, <tt><a href="sl_sst-pos-PART.html">PART</a></tt> 16, <tt><a href="sl_sst-pos-X.html">X</a></tt> 1), <em>če</em> (<tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 159, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 1), <em>kot</em> (<tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 91, <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 5), <em>ka</em> (<tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 22, <tt><a href="sl_sst-pos-X.html">X</a></tt> 3), <em>k</em> (<tt><a href="sl_sst-pos-ADP.html">ADP</a></tt> 10, <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>da</em> (<tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 533, <tt><a href="sl_sst-pos-PART.html">PART</a></tt> 16, <tt><a href="sl_sst-pos-X.html">X</a></tt> 1), <em>če</em> (<tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 159, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 1), <em>kot</em> (<tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 91, <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 5), <em>ka</em> (<tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 22, <tt><a href="sl_sst-pos-X.html">X</a></tt> 2)
 
-The 10 most frequent ambiguous types:  <em>da</em> (<tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 533, <tt><a href="sl_sst-pos-PART.html">PART</a></tt> 16, <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> 15, <tt><a href="sl_sst-pos-X.html">X</a></tt> 1), <em>če</em> (<tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 159, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 1), <em>kot</em> (<tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 91, <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 5), <em>ka</em> (<tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 22, <tt><a href="sl_sst-pos-X.html">X</a></tt> 8), <em>k</em> (<tt><a href="sl_sst-pos-X.html">X</a></tt> 10, <tt><a href="sl_sst-pos-ADP.html">ADP</a></tt> 8, <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>da</em> (<tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 533, <tt><a href="sl_sst-pos-PART.html">PART</a></tt> 16, <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> 15, <tt><a href="sl_sst-pos-X.html">X</a></tt> 1), <em>če</em> (<tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 159, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 1), <em>kot</em> (<tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 91, <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 5), <em>ka</em> (<tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 22, <tt><a href="sl_sst-pos-X.html">X</a></tt> 2)
 
 
 * <em>da</em>
@@ -28,19 +28,14 @@ The 10 most frequent ambiguous types:  <em>da</em> (<tt><a href="sl_sst-pos-SCON
   * <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 1: <em>in so se pač spraševali tudi ti znanstveniki ki so to proizvajali na vseh testih so dali zmeraj vprašanje kaj pa <b>če</b></em>
 * <em>kot</em>
   * <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 91: <em>ja če se vam zdi za za bolj za klasifikacijo nezasebno <b>kot</b> zasebno komot</em>
-  * <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 5: <em><b>kot</b> petinšestdeset eee petnš [gap] eee petnajst stopinj</em>
+  * <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 5: <em><b>kot</b> petinšestdeset eee petnš- [gap] eee petnajst stopinj</em>
 * <em>ka</em>
   * <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 22: <em><b>ka</b> so stopnjo više kakor ti [gap]</em>
-  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 8: <em>ta človek se tako pisal <b>ka</b> to fi ?</em>
-* <em>k</em>
-  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 10: <em>ne ta ta je taka eem <b>k</b> [gap] jaz temu pravim življenjska</em>
-  * <tt><a href="sl_sst-pos-ADP.html">ADP</a></tt> 8: <em>ja če imamo [gap] <b>k</b> analizam</em>
-  * <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 2: <em>jo pa ej sploh ne vem a so se pogledal oni mislim na teh slikah <b>k</b></em>
-  * <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 1: <em>eee ti in jaz čisto v dobri veri dajta mi malo za piti a veš pa me zebe sem šla se obleči in kostanj lepo lupimo tam <b>k</b> eee [name:personal] ga pa peče</em>
+  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 2: <em>ta človek se tako pisal <b>ka</b> to fi ?</em>
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.570645).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.573353).
 
 The 1st highest number of forms (1) was observed with the lemma “ako”: <em>ako</em>.
 

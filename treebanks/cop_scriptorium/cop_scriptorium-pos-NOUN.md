@@ -13,7 +13,7 @@ The 10 most frequent `NOUN` lemmas: ⲛⲟⲩⲧⲉ, ϩⲉ, ⲣⲱⲙⲉ, ⲙⲁ
 
 The 10 most frequent `NOUN` types:  ⲛⲟⲩⲧⲉ, ϩⲉ, ⲣⲱⲙⲉ, ⲙⲁ, ϫⲟⲉⲓⲥ, ϩⲏⲧ, ϣⲏⲣⲉ, ⲥⲟⲛ, ϣⲁϫⲉ, ϩⲟⲟⲩ
 
-The 10 most frequent ambiguous lemmas: ϩⲉ (<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 200, <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 38), ϩⲏⲧ (<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 141, <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> 2), ϩⲟⲟⲩ (<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 96, <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 16), ϣⲁϫⲉ (<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 94, <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 53), ⲙⲏⲏϣⲉ (<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 49, <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 1), ⲙⲉⲉⲩⲉ (<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 44, <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 23), ϭⲟⲙ (<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 41, <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 1), ⲡⲉ (<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> 487, <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 34, <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> 2, <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 1), ϫⲟⲉⲓ (<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 33, <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 1), ⲟⲩⲱⲧ (<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 33, <tt><a href="cop_scriptorium-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> 1)
+The 10 most frequent ambiguous lemmas: ϩⲉ (<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 200, <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 38), ϩⲟⲟⲩ (<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 96, <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 16), ϣⲁϫⲉ (<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 94, <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 53), ⲙⲏⲏϣⲉ (<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 49, <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 1), ⲙⲉⲉⲩⲉ (<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 44, <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 23), ϭⲟⲙ (<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 41, <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 1), ⲡⲉ (<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> 487, <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 34, <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> 2, <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 1), ϫⲟⲉⲓ (<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 33, <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 1), ⲟⲩⲱⲧ (<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 33, <tt><a href="cop_scriptorium-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> 1), ⲩⲛⲟⲩ (<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 28, <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> 1)
 
 The 10 most frequent ambiguous types:  ϩⲉ (<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 200, <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 38), ⲙⲁ (<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 170, <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 10, <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 4), ϣⲁϫⲉ (<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 94, <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 53), ϩⲟⲟⲩ (<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 91, <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 16), ⲙⲏⲏϣⲉ (<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 49, <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 1), ⲙⲉⲉⲩⲉ (<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 44, <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 23), ϭⲟⲙ (<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 40, <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 1), ⲩⲛⲟⲩ (<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 40, <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> 1), ⲟⲩⲱⲧ (<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 33, <tt><a href="cop_scriptorium-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> 1), ϫⲟⲉⲓ (<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 30, <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 1)
 
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  ϩⲉ (<tt><a href="cop_scriptorium-pos-N
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 1.030712 (the average of all parts of speech is 1.133621).
+The form / lemma ratio of `NOUN` is 1.030712 (the average of all parts of speech is 1.135660).
 
 The 1st highest number of forms (3) was observed with the lemma “ⲉⲓⲁ”: ⲉⲓⲁ, ⲉⲓⲁⲧ, ⲓⲁⲧ.
 
@@ -61,12 +61,12 @@ The 2nd highest number of forms (3) was observed with the lemma “ⲟⲩϣⲏ�
 
 The 3rd highest number of forms (3) was observed with the lemma “ⲡⲉ”: ⲡⲉ, ⲡⲏⲩ̣ⲉ, ⲡⲏⲩⲉ.
 
-`NOUN` occurs with 2 features: <tt><a href="cop_scriptorium-feat-Foreign.html">Foreign</a></tt> (1890; 24% instances), <tt><a href="cop_scriptorium-feat-PronType.html">PronType</a></tt> (53; 1% instances)
+`NOUN` occurs with 2 features: <tt><a href="cop_scriptorium-feat-Foreign.html">Foreign</a></tt> (1891; 24% instances), <tt><a href="cop_scriptorium-feat-PronType.html">PronType</a></tt> (53; 1% instances)
 
 `NOUN` occurs with 2 feature-value pairs: `Foreign=Yes`, `PronType=Rcp`
 
 `NOUN` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (5913 tokens).
+The most frequent feature combination is `_` (5912 tokens).
 Examples: ⲛⲟⲩⲧⲉ, ϩⲉ, ⲣⲱⲙⲉ, ⲙⲁ, ϫⲟⲉⲓⲥ, ϩⲏⲧ, ϣⲏⲣⲉ, ⲥⲟⲛ, ϣⲁϫⲉ, ϩⲟⲟⲩ
 
 

@@ -56,7 +56,7 @@ The following 23 pairs of parts of speech are connected with `fixed`: <tt><a hre
 11	an	an	ADV	Rs	_	6	advmod	_	_
 12	sin	sin	ADV	Rs	_	11	fixed	_	_
 13	a	a	PART	Uv	PartType=Voc	14	case:voc	_	_
-14	[Name]	[Name]	PROPN	Nn-mv	Case=Voc|Gender=Masc	6	vocative	_	SpaceAfter=No
+14	[Name]	[Name]	PROPN	Nn-mv	Case=Voc|Gender=Masc	6	vocative	_	Anonymised=Yes|SpaceAfter=No
 15	?	?	PUNCT	Fg	_	2	punct	_	_
 
 ~~~

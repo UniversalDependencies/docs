@@ -173,12 +173,12 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="sme_giella-dep-conj.html">conj</a></tt>]--> NOUN</tt> (320; 96%),
+<tt>NOUN --[<tt><a href="sme_giella-dep-conj.html">conj</a></tt>]--> NOUN</tt> (323; 96%),
 <tt>NOUN --[<tt><a href="sme_giella-dep-det.html">det</a></tt>]--> PRON</tt> (169; 93%),
 <tt>ADJ --[<tt><a href="sme_giella-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (118; 98%),
 <tt>ADJ --[<tt><a href="sme_giella-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (76; 100%),
 <tt>NOUN --[<tt><a href="sme_giella-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (74; 74%),
-<tt>NOUN --[<tt><a href="sme_giella-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (66; 77%),
+<tt>NOUN --[<tt><a href="sme_giella-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (65; 76%),
 <tt>PROPN --[<tt><a href="sme_giella-dep-conj.html">conj</a></tt>]--> PROPN</tt> (42; 84%),
 <tt>NOUN --[<tt><a href="sme_giella-dep-amod.html">amod</a></tt>]--> NUM</tt> (31; 97%),
 <tt>ADJ --[<tt><a href="sme_giella-dep-conj.html">conj</a></tt>]--> ADJ</tt> (13; 93%),

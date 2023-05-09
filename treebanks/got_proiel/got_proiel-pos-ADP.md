@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Gothic-PROIEL: POS Tags: `ADP`
 
 There are 29 `ADP` lemmas (1%), 33 `ADP` types (0%) and 4871 `ADP` tokens (9%).
-Out of 14 observed tags, the rank of `ADP` is: 6 in number of lemmas, 11 in number of types and 6 in number of tokens.
+Out of 12 observed tags, the rank of `ADP` is: 7 in number of lemmas, 10 in number of types and 6 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>in, du, bi, us, ana, miþ, fram, at, þairh, af</em>
 
@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>in</em> (<tt><a href="got_proiel-pos-
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.137931 (the average of all parts of speech is 2.637304).
+The form / lemma ratio of `ADP` is 1.137931 (the average of all parts of speech is 2.636364).
 
 The 1st highest number of forms (3) was observed with the lemma “us”: <em>ur, us, uz</em>.
 
@@ -64,21 +64,21 @@ The 3rd highest number of forms (2) was observed with the lemma “in”: <em>in
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 9 different relations: <tt><a href="got_proiel-dep-case.html">case</a></tt> (4731; 97% instances), <tt><a href="got_proiel-dep-mark.html">mark</a></tt> (99; 2% instances), <tt><a href="got_proiel-dep-obl.html">obl</a></tt> (32; 1% instances), <tt><a href="got_proiel-dep-conj.html">conj</a></tt> (3; 0% instances), <tt><a href="got_proiel-dep-amod.html">amod</a></tt> (2; 0% instances), <tt><a href="got_proiel-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="got_proiel-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="got_proiel-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="got_proiel-dep-root.html">root</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 10 different relations: <tt><a href="got_proiel-dep-case.html">case</a></tt> (4731; 97% instances), <tt><a href="got_proiel-dep-mark.html">mark</a></tt> (98; 2% instances), <tt><a href="got_proiel-dep-obl.html">obl</a></tt> (30; 1% instances), <tt><a href="got_proiel-dep-amod.html">amod</a></tt> (3; 0% instances), <tt><a href="got_proiel-dep-conj.html">conj</a></tt> (3; 0% instances), <tt><a href="got_proiel-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="got_proiel-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="got_proiel-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="got_proiel-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="got_proiel-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 10 different parts of speech: <tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt> (2717; 56% instances), <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> (1254; 26% instances), <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> (348; 7% instances), <tt><a href="got_proiel-pos-PROPN.html">PROPN</a></tt> (335; 7% instances), <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> (177; 4% instances), <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (18; 0% instances), <tt><a href="got_proiel-pos-NUM.html">NUM</a></tt> (17; 0% instances), <tt><a href="got_proiel-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="got_proiel-pos-DET.html">DET</a></tt> (1; 0% instances),  (1; 0% instances)
+Parents of `ADP` nodes belong to 9 different parts of speech: <tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt> (2714; 56% instances), <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> (1448; 30% instances), <tt><a href="got_proiel-pos-PROPN.html">PROPN</a></tt> (335; 7% instances), <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> (185; 4% instances), <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> (152; 3% instances), <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (18; 0% instances), <tt><a href="got_proiel-pos-NUM.html">NUM</a></tt> (17; 0% instances), <tt><a href="got_proiel-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
-4834 (99%) `ADP` nodes are leaves.
+4835 (99%) `ADP` nodes are leaves.
 
-35 (1%) `ADP` nodes have one child.
+33 (1%) `ADP` nodes have one child.
 
-1 (0%) `ADP` nodes have two children.
+2 (0%) `ADP` nodes have two children.
 
 1 (0%) `ADP` nodes have three or more children.
 
-The highest child degree of a `ADP` node is 4.
+The highest child degree of a `ADP` node is 3.
 
-Children of `ADP` nodes are attached using 10 different relations: <tt><a href="got_proiel-dep-ccomp.html">ccomp</a></tt> (25; 61% instances), <tt><a href="got_proiel-dep-advmod.html">advmod</a></tt> (4; 10% instances), <tt><a href="got_proiel-dep-obj.html">obj</a></tt> (3; 7% instances), <tt><a href="got_proiel-dep-obl.html">obl</a></tt> (3; 7% instances), <tt><a href="got_proiel-dep-advcl.html">advcl</a></tt> (1; 2% instances), <tt><a href="got_proiel-dep-cc.html">cc</a></tt> (1; 2% instances), <tt><a href="got_proiel-dep-cop.html">cop</a></tt> (1; 2% instances), <tt><a href="got_proiel-dep-discourse.html">discourse</a></tt> (1; 2% instances), <tt><a href="got_proiel-dep-nmod.html">nmod</a></tt> (1; 2% instances), <tt><a href="got_proiel-dep-nsubj.html">nsubj</a></tt> (1; 2% instances)
+Children of `ADP` nodes are attached using 7 different relations: <tt><a href="got_proiel-dep-ccomp.html">ccomp</a></tt> (25; 63% instances), <tt><a href="got_proiel-dep-advmod.html">advmod</a></tt> (4; 10% instances), <tt><a href="got_proiel-dep-cc.html">cc</a></tt> (3; 8% instances), <tt><a href="got_proiel-dep-obj.html">obj</a></tt> (3; 8% instances), <tt><a href="got_proiel-dep-advcl.html">advcl</a></tt> (2; 5% instances), <tt><a href="got_proiel-dep-obl.html">obl</a></tt> (2; 5% instances), <tt><a href="got_proiel-dep-nmod.html">nmod</a></tt> (1; 3% instances)
 
-Children of `ADP` nodes belong to 8 different parts of speech: <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> (21; 51% instances), <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> (7; 17% instances), <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (5; 12% instances), <tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt> (4; 10% instances), <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="got_proiel-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="got_proiel-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances), <tt><a href="got_proiel-pos-PROPN.html">PROPN</a></tt> (1; 2% instances)
+Children of `ADP` nodes belong to 5 different parts of speech: <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> (25; 63% instances), <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> (5; 13% instances), <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (4; 10% instances), <tt><a href="got_proiel-pos-CCONJ.html">CCONJ</a></tt> (3; 8% instances), <tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt> (3; 8% instances)
 

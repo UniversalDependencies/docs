@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-403 tokens (0%) have a non-empty value of `Foreign`.
-222 types (1%) occur at least once with a non-empty value of `Foreign`.
-222 lemmas (1%) occur at least once with a non-empty value of `Foreign`.
-The feature is used with 4 part-of-speech tags: <tt><a href="it_vit-pos-X.html">X</a></tt> (396; 0% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+400 tokens (0%) have a non-empty value of `Foreign`.
+219 types (1%) occur at least once with a non-empty value of `Foreign`.
+219 lemmas (1%) occur at least once with a non-empty value of `Foreign`.
+The feature is used with 4 part-of-speech tags: <tt><a href="it_vit-pos-X.html">X</a></tt> (393; 0% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 ### `X`
 
-396 <tt><a href="it_vit-pos-X.html">X</a></tt> tokens (98% of all `X` tokens) have a non-empty value of `Foreign`.
+393 <tt><a href="it_vit-pos-X.html">X</a></tt> tokens (98% of all `X` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `X` and `Foreign` co-occurred: <tt><a href="it_vit-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (337; 85%).
+The most frequent other feature values with which `X` and `Foreign` co-occurred: <tt><a href="it_vit-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (334; 85%).
 
 `X` tokens may have the following values of `Foreign`:
 
-* `Yes` (396; 100% of non-empty `Foreign`): <em>joint, venture, baby, cd, sitter, rom, condicio, par, est, facile</em>
-* `EMPTY` (10): <em>equ, 25%, a., e, m3, n., r., star, tu.</em>
+* `Yes` (393; 100% of non-empty `Foreign`): <em>joint, venture, baby, cd, sitter, rom, condicio, par, est, facile</em>
+* `EMPTY` (9): <em>equ, a., e, m3, n., r., star, tu.</em>
 
-`Foreign` seems to be **lexical feature** of `X`. 100% lemmas (216) occur only with one value of `Foreign`.
+`Foreign` seems to be **lexical feature** of `X`. 100% lemmas (213) occur only with one value of `Foreign`.
 
 ### `NOUN`
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (5; 100% of non-empty `Foreign`): <em>coalition, dogs, fascist, revolutions, structure</em>
-* `EMPTY` (57746): <em>anni, miliardi, anno, n., parte, legge, società, posti, presidente, art.</em>
+* `EMPTY` (57741): <em>anni, miliardi, anno, n., parte, legge, società, posti, presidente, art.</em>
 
 ### `ADJ`
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>scientific</em>
-* `EMPTY` (20123): <em>primo, precedente, altri, nuovo, grande, economico, stesso, altre, nuova, nuovi</em>
+* `EMPTY` (20122): <em>primo, precedente, altri, nuovo, grande, economico, stesso, altre, nuova, nuovi</em>
 
 ### `ADP`
 

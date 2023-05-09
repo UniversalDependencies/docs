@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Finnish-FTB: POS Tags: `CCONJ`
 
 There are 21 `CCONJ` lemmas (0%), 24 `CCONJ` types (0%) and 4776 `CCONJ` tokens (3%).
-Out of 17 observed tags, the rank of `CCONJ` is: 14 in number of lemmas, 15 in number of types and 10 in number of tokens.
+Out of 17 observed tags, the rank of `CCONJ` is: 13 in number of lemmas, 15 in number of types and 10 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>ja, mutta, tai, vai, vaan, sekä, eli, että, joko, kuin</em>
 
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>ja</em> (<tt><a href="fi_ftb-pos-CCON
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.142857 (the average of all parts of speech is 2.050767).
+The form / lemma ratio of `CCONJ` is 1.142857 (the average of all parts of speech is 2.049043).
 
 The 1st highest number of forms (3) was observed with the lemma “mutta”: <em>mut, mutt, mutta</em>.
 

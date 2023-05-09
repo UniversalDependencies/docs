@@ -10,10 +10,10 @@ This relation is universal.
 
 19999 nodes (4%) are attached to their parents as `obj`.
 
-19907 instances of `obj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.3753187659383.
+19903 instances of `obj` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.37761888094405.
 
-The following 22 pairs of parts of speech are connected with `obj`: <tt><a href="fa_perdt-pos-VERB.html">VERB</a></tt>-<tt><a href="fa_perdt-pos-NOUN.html">NOUN</a></tt> (17064; 85% instances), <tt><a href="fa_perdt-pos-VERB.html">VERB</a></tt>-<tt><a href="fa_perdt-pos-PRON.html">PRON</a></tt> (2209; 11% instances), <tt><a href="fa_perdt-pos-VERB.html">VERB</a></tt>-<tt><a href="fa_perdt-pos-PROPN.html">PROPN</a></tt> (628; 3% instances), <tt><a href="fa_perdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fa_perdt-pos-NOUN.html">NOUN</a></tt> (19; 0% instances), <tt><a href="fa_perdt-pos-VERB.html">VERB</a></tt>-<tt><a href="fa_perdt-pos-ADJ.html">ADJ</a></tt> (14; 0% instances), <tt><a href="fa_perdt-pos-AUX.html">AUX</a></tt>-<tt><a href="fa_perdt-pos-NOUN.html">NOUN</a></tt> (13; 0% instances), <tt><a href="fa_perdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fa_perdt-pos-NOUN.html">NOUN</a></tt> (12; 0% instances), <tt><a href="fa_perdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fa_perdt-pos-VERB.html">VERB</a></tt> (7; 0% instances), <tt><a href="fa_perdt-pos-VERB.html">VERB</a></tt>-<tt><a href="fa_perdt-pos-ADP.html">ADP</a></tt> (7; 0% instances), <tt><a href="fa_perdt-pos-VERB.html">VERB</a></tt>-<tt><a href="fa_perdt-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="fa_perdt-pos-ADP.html">ADP</a></tt>-<tt><a href="fa_perdt-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="fa_perdt-pos-VERB.html">VERB</a></tt>-<tt><a href="fa_perdt-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="fa_perdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fa_perdt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="fa_perdt-pos-VERB.html">VERB</a></tt>-<tt><a href="fa_perdt-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="fa_perdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fa_perdt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fa_perdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fa_perdt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="fa_perdt-pos-AUX.html">AUX</a></tt>-<tt><a href="fa_perdt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fa_perdt-pos-AUX.html">AUX</a></tt>-<tt><a href="fa_perdt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="fa_perdt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="fa_perdt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fa_perdt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="fa_perdt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fa_perdt-pos-PRON.html">PRON</a></tt>-<tt><a href="fa_perdt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fa_perdt-pos-VERB.html">VERB</a></tt>-<tt><a href="fa_perdt-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 20 pairs of parts of speech are connected with `obj`: <tt><a href="fa_perdt-pos-VERB.html">VERB</a></tt>-<tt><a href="fa_perdt-pos-NOUN.html">NOUN</a></tt> (17075; 85% instances), <tt><a href="fa_perdt-pos-VERB.html">VERB</a></tt>-<tt><a href="fa_perdt-pos-PRON.html">PRON</a></tt> (2209; 11% instances), <tt><a href="fa_perdt-pos-VERB.html">VERB</a></tt>-<tt><a href="fa_perdt-pos-PROPN.html">PROPN</a></tt> (630; 3% instances), <tt><a href="fa_perdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fa_perdt-pos-NOUN.html">NOUN</a></tt> (16; 0% instances), <tt><a href="fa_perdt-pos-VERB.html">VERB</a></tt>-<tt><a href="fa_perdt-pos-ADJ.html">ADJ</a></tt> (14; 0% instances), <tt><a href="fa_perdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fa_perdt-pos-NOUN.html">NOUN</a></tt> (11; 0% instances), <tt><a href="fa_perdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fa_perdt-pos-VERB.html">VERB</a></tt> (7; 0% instances), <tt><a href="fa_perdt-pos-VERB.html">VERB</a></tt>-<tt><a href="fa_perdt-pos-ADP.html">ADP</a></tt> (7; 0% instances), <tt><a href="fa_perdt-pos-AUX.html">AUX</a></tt>-<tt><a href="fa_perdt-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="fa_perdt-pos-VERB.html">VERB</a></tt>-<tt><a href="fa_perdt-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="fa_perdt-pos-ADP.html">ADP</a></tt>-<tt><a href="fa_perdt-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="fa_perdt-pos-VERB.html">VERB</a></tt>-<tt><a href="fa_perdt-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="fa_perdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fa_perdt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="fa_perdt-pos-VERB.html">VERB</a></tt>-<tt><a href="fa_perdt-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="fa_perdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fa_perdt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fa_perdt-pos-AUX.html">AUX</a></tt>-<tt><a href="fa_perdt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fa_perdt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="fa_perdt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fa_perdt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="fa_perdt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fa_perdt-pos-PRON.html">PRON</a></tt>-<tt><a href="fa_perdt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fa_perdt-pos-VERB.html">VERB</a></tt>-<tt><a href="fa_perdt-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -34,7 +34,7 @@ The following 22 pairs of parts of speech are connected with `obj`: <tt><a href=
 10	را	را	ADP	POSTP	_	8	case	_	_
 11	در	در	ADP	PREP	_	12	case	_	_
 12	کویر	کویر	NOUN	N_IANM	Number=Sing	13	obl:arg	_	_
-13	پاشیده‌ایم	پاشید#پاش	VERB	V_ACT	Number=Plur|Person=1|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No
+13	پاشیده‌ایم	پاشید	VERB	V_ACT	Number=Plur|Person=1|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=پاشید#پاش|SpaceAfter=No
 14	.	.	PUNCT	PUNC	_	13	punct	_	_
 
 ~~~
@@ -50,11 +50,11 @@ The following 22 pairs of parts of speech are connected with `obj`: <tt><a href=
 2	جا	جا	NOUN	N_IANM	Number=Sing	9	obl	_	_
 3	که	که	SCONJ	SUBR	_	5	mark	_	_
 4	لازم	لازم	ADJ	ADJ_AJP	_	5	xcomp	_	_
-5	می‌داند	دانست#دان	VERB	V_ACT	Number=Sing|Person=3|Tense=Pres|Voice=Act	2	acl	_	SpaceAfter=No
+5	می‌داند	دانست	VERB	V_ACT	Number=Sing|Person=3|Tense=Pres|Voice=Act	2	acl	_	OrigLemma=دانست#دان|SpaceAfter=No
 6	،	،	PUNCT	PUNC	_	5	punct	_	_
 7	پخش	پخش	NOUN	N_IANM	Number=Sing	9	compound:lvc	_	_
 8	ش	او	PRON	PR_JOPER	Number=Sing|Person=3	9	obj	_	_
-9	می‌کند	کرد#کن	VERB	V_ACT	Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	SpaceAfter=No
+9	می‌کند	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	OrigLemma=کرد#کن|SpaceAfter=No
 10	.	.	PUNCT	PUNC	_	9	punct	_	_
 
 ~~~
@@ -72,7 +72,7 @@ The following 22 pairs of parts of speech are connected with `obj`: <tt><a href=
 4	سفید	سفید	PROPN	ADJ_AJP	_	3	flat:name	_	_
 5	را	را	ADP	POSTP	_	3	case	_	_
 6	تحقیر	تحقیر	NOUN	N_IANM	Number=Sing	7	compound:lvc	_	_
-7	کرد	کرد#کن	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	SpaceAfter=No
+7	کرد	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	OrigLemma=کرد#کن|SpaceAfter=No
 8	.	.	PUNCT	PUNC	_	7	punct	_	_
 
 ~~~

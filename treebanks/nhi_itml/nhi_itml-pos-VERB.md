@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>katki</em> (<tt><a href="nhi_itml-pos
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 2.157343 (the average of all parts of speech is 1.484055).
+The form / lemma ratio of `VERB` is 2.157343 (the average of all parts of speech is 1.484900).
 
 The 1st highest number of forms (60) was observed with the lemma “_”: <em>Namechcuecuechosque, cahsicamatia, cchiuilsquiah, choloh, cholohca, cmatqueh, cmouilihqueh, copomeh, cpanmimilohqueh, cpiyayah, ctemotoh, ctihtixo, ctoquihtah, cualis, cyectlasouihqueh, cyolseuihqueh, cyoluihqueh, icchayotihtoc, icmihmilohtinimi, ictlamacasqueh, ictlamacatiueh, ictzahtzilihtinimih, inehmachpan, ito, kipantlatiwitih, kitsilinihkeh, kixtsakwilihto, kokotokayaj, melacatzohtiquisah, mixxacualohtiu, mokitztewtikis, monextis, mosotlau, moticipanohqueh, motlankwakitztiwitz, moweyilihtih, nacchiuah, nactlacamatih, namechicuxitisqueh, namechpix, namontetlachtikiliaj, nankimonchiwiliaj, nankonamapowtokej, nankontechiwiliaj, nechfelicitarohkeh, ntlatijtiwij, pahtitoya, queuatoh, quinnichicoh, quiualtihtixos, sekiniwiliya, sekipayah, semosintilito, timoqueh, tlakwalkantitok, totzin, ualimostic, ver, xitlatsiwi, yapahpanotiu</em>.
 

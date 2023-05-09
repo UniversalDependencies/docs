@@ -7,44 +7,44 @@ udver: '2'
 ## Treebank Statistics: UD_Classical_Chinese-Kyoto: POS Tags: `SYM`
 
 There are 8 `SYM` lemmas (0%), 8 `SYM` types (0%) and 1364 `SYM` tokens (0%).
-Out of 13 observed tags, the rank of `SYM` is: 11 in number of lemmas, 11 in number of types and 12 in number of tokens.
+Out of 14 observed tags, the rank of `SYM` is: 11 in number of lemmas, 11 in number of types and 12 in number of tokens.
 
 The 10 most frequent `SYM` lemmas: ○、 □、 井、 刀、 劉、 卯、 金、 項
 
 The 10 most frequent `SYM` types:  ○、 □、 井、 刀、 劉、 卯、 金、 項
 
-The 10 most frequent ambiguous lemmas: 井 (<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> 33, <tt><a href="lzh_kyoto-pos-SYM.html">SYM</a></tt> 1), 刀 (<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> 36, <tt><a href="lzh_kyoto-pos-SYM.html">SYM</a></tt> 1), 劉 (<tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> 230, <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="lzh_kyoto-pos-SYM.html">SYM</a></tt> 1), 卯 (<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt> 2, <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="lzh_kyoto-pos-SYM.html">SYM</a></tt> 1), 金 (<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> 156, <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> 134, <tt><a href="lzh_kyoto-pos-SYM.html">SYM</a></tt> 1), 項 (<tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> 31, <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="lzh_kyoto-pos-SYM.html">SYM</a></tt> 1)
+The 10 most frequent ambiguous lemmas: 井 (<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> 38, <tt><a href="lzh_kyoto-pos-SYM.html">SYM</a></tt> 1), 刀 (<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> 39, <tt><a href="lzh_kyoto-pos-SYM.html">SYM</a></tt> 1), 劉 (<tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> 230, <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="lzh_kyoto-pos-SYM.html">SYM</a></tt> 1), 卯 (<tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> 16, <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt> 2, <tt><a href="lzh_kyoto-pos-SYM.html">SYM</a></tt> 1), 金 (<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> 257, <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> 138, <tt><a href="lzh_kyoto-pos-SYM.html">SYM</a></tt> 1), 項 (<tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> 32, <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="lzh_kyoto-pos-SYM.html">SYM</a></tt> 1)
 
-The 10 most frequent ambiguous types:  井 (<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> 33, <tt><a href="lzh_kyoto-pos-SYM.html">SYM</a></tt> 1), 刀 (<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> 36, <tt><a href="lzh_kyoto-pos-SYM.html">SYM</a></tt> 1), 劉 (<tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> 230, <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="lzh_kyoto-pos-SYM.html">SYM</a></tt> 1), 卯 (<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt> 2, <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="lzh_kyoto-pos-SYM.html">SYM</a></tt> 1), 金 (<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> 156, <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> 134, <tt><a href="lzh_kyoto-pos-SYM.html">SYM</a></tt> 1), 項 (<tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> 31, <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="lzh_kyoto-pos-SYM.html">SYM</a></tt> 1)
+The 10 most frequent ambiguous types:  井 (<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> 38, <tt><a href="lzh_kyoto-pos-SYM.html">SYM</a></tt> 1), 刀 (<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> 39, <tt><a href="lzh_kyoto-pos-SYM.html">SYM</a></tt> 1), 劉 (<tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> 230, <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="lzh_kyoto-pos-SYM.html">SYM</a></tt> 1), 卯 (<tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> 16, <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt> 2, <tt><a href="lzh_kyoto-pos-SYM.html">SYM</a></tt> 1), 金 (<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> 257, <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> 138, <tt><a href="lzh_kyoto-pos-SYM.html">SYM</a></tt> 1), 項 (<tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> 32, <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="lzh_kyoto-pos-SYM.html">SYM</a></tt> 1)
 
 
 * 井
-  * <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> 33: <b>井</b> 有 仁 焉
+  * <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> 38: <b>井</b> 有 仁 焉
   * <tt><a href="lzh_kyoto-pos-SYM.html">SYM</a></tt> 1: 廢 <b>井</b> 田
 * 刀
-  * <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> 36: 人 謂 笑 中 有 <b>刀</b>
+  * <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> 39: 人 謂 笑 中 有 <b>刀</b>
   * <tt><a href="lzh_kyoto-pos-SYM.html">SYM</a></tt> 1: 以 劉 字 卯 金 <b>刀</b> 也
 * 劉
   * <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> 230: 與 晉陽 宮 監 裴 寂 晉陽 令 <b>劉</b> 文靜 相 結
   * <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> 5: 姓 <b>劉</b> 氏
   * <tt><a href="lzh_kyoto-pos-SYM.html">SYM</a></tt> 1: 以 <b>劉</b> 字 卯 金 刀 也
 * 卯
+  * <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> 16: 魏 王 因 使 孟 <b>卯</b> 致 溫 囿 於 周 君 而 許 之 戍 也
   * <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> 2: 子 <b>卯</b> 不 樂
   * <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt> 2: 子 <b>卯</b> 稷 食 菜 羹
-  * <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> 1: 七 日 而 誅 亂 政 大 夫 少正 <b>卯</b>
   * <tt><a href="lzh_kyoto-pos-SYM.html">SYM</a></tt> 1: 以 劉 字 <b>卯</b> 金 刀 也
 * 金
-  * <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> 156: <b>金</b> 重 於 羽 者
-  * <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> 134: 與 侍 中 <b>金</b> 敞 並 拾 遺 左 右
+  * <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> 257: <b>金</b> 重 於 羽 者
+  * <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> 138: 或 為 周 最 謂 <b>金</b> 投
   * <tt><a href="lzh_kyoto-pos-SYM.html">SYM</a></tt> 1: 以 劉 字 卯 <b>金</b> 刀 也
 * 項
-  * <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> 31: 乃 詐 稱 公 子 扶蘇 <b>項</b> 燕
+  * <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> 32: 乃 詐 稱 公 子 扶蘇 <b>項</b> 燕
   * <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> 3: 其 <b>項</b> 類 皋陶
   * <tt><a href="lzh_kyoto-pos-SYM.html">SYM</a></tt> 1: 廣漢 爲 缿 <b>項</b> 筩
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.013331).
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.012984).
 
 The 1st highest number of forms (1) was observed with the lemma “□”: □.
 

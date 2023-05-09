@@ -6,25 +6,25 @@ udver: '2'
 
 ## Treebank Statistics: UD_Galician-CTG: POS Tags: `PUNCT`
 
-There are 19 `PUNCT` lemmas (0%), 20 `PUNCT` types (0%) and 13160 `PUNCT` tokens (9%).
-Out of 16 observed tags, the rank of `PUNCT` is: 10 in number of lemmas, 11 in number of types and 4 in number of tokens.
+There are 28 `PUNCT` lemmas (0%), 29 `PUNCT` types (0%) and 13316 `PUNCT` tokens (10%).
+Out of 16 observed tags, the rank of `PUNCT` is: 9 in number of lemmas, 10 in number of types and 4 in number of tokens.
 
-The 10 most frequent `PUNCT` lemmas: <em>,, ., ), (, :, ", ;, /, _, ...</em>
+The 10 most frequent `PUNCT` lemmas: <em>,, ., ), (, :, ", _, ;, /, ...</em>
 
-The 10 most frequent `PUNCT` types:  <em>,, ., ), (, :, ", ;, /, -, ...</em>
+The 10 most frequent `PUNCT` types:  <em>,, ., ), (, :, ", _, ;, /, -</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="gl_ctg-pos-SYM.html">SYM</a></tt> 137, <tt><a href="gl_ctg-pos-PUNCT.html">PUNCT</a></tt> 87)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="gl_ctg-pos-PUNCT.html">PUNCT</a></tt> 222, <tt><a href="gl_ctg-pos-SYM.html">SYM</a></tt> 2)
 
-The 10 most frequent ambiguous types:  <em>_</em> (<tt><a href="gl_ctg-pos-SYM.html">SYM</a></tt> 137, <tt><a href="gl_ctg-pos-PUNCT.html">PUNCT</a></tt> 2)
+The 10 most frequent ambiguous types:  <em>_</em> (<tt><a href="gl_ctg-pos-PUNCT.html">PUNCT</a></tt> 137, <tt><a href="gl_ctg-pos-SYM.html">SYM</a></tt> 2)
 
 
 * <em>_</em>
-  * <tt><a href="gl_ctg-pos-SYM.html">SYM</a></tt> 137: <em>En España <b>_</b> aliñada con os estados mediterráneos e novos membros <b>_</b> a cifra descende até o 5%5 como se pode observar en a Figura 120 .</em>
-  * <tt><a href="gl_ctg-pos-PUNCT.html">PUNCT</a></tt> 2: <em>As pólas industriais que en a actualidade absorven maior poboación laboral - tamén galega- <b>_</b> en estas comarcas son a metalurxia , o téxtil , o coiro e o calzado , as químicas e a alimentación , bebidas e tabaco ( Institut Català d'Estadística , 2005 ) .</em>
+  * <tt><a href="gl_ctg-pos-PUNCT.html">PUNCT</a></tt> 137: <em>En España <b>_</b> aliñada con os estados mediterráneos e novos membros <b>_</b> a cifra descende até o 5%5 como se pode observar en a Figura 120 .</em>
+  * <tt><a href="gl_ctg-pos-SYM.html">SYM</a></tt> 2: <em>Esta é a vía para que os Gobernos autónomicos poidan <b>_</b> controlar _ o proceso de privatizacións que afecten a empresas establecidas en os sus territorios .</em>
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.052632 (the average of all parts of speech is 1.520215).
+The form / lemma ratio of `PUNCT` is 1.035714 (the average of all parts of speech is 1.523050).
 
 The 1st highest number of forms (2) was observed with the lemma “_”: <em>-, _</em>.
 
@@ -37,17 +37,19 @@ The 3rd highest number of forms (1) was observed with the lemma “"”: <em>"</
 
 ## Relations
 
-`PUNCT` nodes are attached to their parents using 10 different relations: <tt><a href="gl_ctg-dep-punct.html">punct</a></tt> (13130; 100% instances), <tt><a href="gl_ctg-dep-dep.html">dep</a></tt> (7; 0% instances), <tt><a href="gl_ctg-dep-det.html">det</a></tt> (6; 0% instances), <tt><a href="gl_ctg-dep-obj.html">obj</a></tt> (6; 0% instances), <tt><a href="gl_ctg-dep-nmod.html">nmod</a></tt> (3; 0% instances), <tt><a href="gl_ctg-dep-amod.html">amod</a></tt> (2; 0% instances), <tt><a href="gl_ctg-dep-case.html">case</a></tt> (2; 0% instances), <tt><a href="gl_ctg-dep-ccomp.html">ccomp</a></tt> (2; 0% instances), <tt><a href="gl_ctg-dep-cc.html">cc</a></tt> (1; 0% instances), <tt><a href="gl_ctg-dep-nsubj.html">nsubj</a></tt> (1; 0% instances)
+`PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="gl_ctg-dep-punct.html">punct</a></tt> (13316; 100% instances)
 
-Parents of `PUNCT` nodes belong to 15 different parts of speech: <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> (5430; 41% instances), <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> (4379; 33% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> (856; 7% instances), <tt><a href="gl_ctg-pos-NUM.html">NUM</a></tt> (752; 6% instances), <tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt> (644; 5% instances), <tt><a href="gl_ctg-pos-PROPN.html">PROPN</a></tt> (535; 4% instances), <tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt> (259; 2% instances), <tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt> (141; 1% instances), <tt><a href="gl_ctg-pos-SCONJ.html">SCONJ</a></tt> (90; 1% instances), <tt><a href="gl_ctg-pos-DET.html">DET</a></tt> (50; 0% instances), <tt><a href="gl_ctg-pos-PART.html">PART</a></tt> (12; 0% instances), <tt><a href="gl_ctg-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), <tt><a href="gl_ctg-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="gl_ctg-pos-SYM.html">SYM</a></tt> (3; 0% instances), <tt><a href="gl_ctg-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances)
+Parents of `PUNCT` nodes belong to 16 different parts of speech: <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> (4954; 37% instances), <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> (4357; 33% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> (807; 6% instances), <tt><a href="gl_ctg-pos-NUM.html">NUM</a></tt> (791; 6% instances), <tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt> (638; 5% instances), <tt><a href="gl_ctg-pos-PROPN.html">PROPN</a></tt> (547; 4% instances), <tt><a href="gl_ctg-pos-CCONJ.html">CCONJ</a></tt> (440; 3% instances), <tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt> (294; 2% instances), <tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt> (192; 1% instances), <tt><a href="gl_ctg-pos-DET.html">DET</a></tt> (148; 1% instances), <tt><a href="gl_ctg-pos-SCONJ.html">SCONJ</a></tt> (73; 1% instances), <tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> (39; 0% instances), <tt><a href="gl_ctg-pos-PART.html">PART</a></tt> (13; 0% instances), <tt><a href="gl_ctg-pos-SYM.html">SYM</a></tt> (11; 0% instances), <tt><a href="gl_ctg-pos-PUNCT.html">PUNCT</a></tt> (8; 0% instances), <tt><a href="gl_ctg-pos-INTJ.html">INTJ</a></tt> (4; 0% instances)
 
-13120 (100%) `PUNCT` nodes are leaves.
+13312 (100%) `PUNCT` nodes are leaves.
 
-40 (0%) `PUNCT` nodes have one child.
+0 (0%) `PUNCT` nodes have one child.
 
-The highest child degree of a `PUNCT` node is 1.
+4 (0%) `PUNCT` nodes have two children.
 
-Children of `PUNCT` nodes are attached using 3 different relations: <tt><a href="gl_ctg-dep-case.html">case</a></tt> (37; 93% instances), <tt><a href="gl_ctg-dep-punct.html">punct</a></tt> (2; 5% instances), <tt><a href="gl_ctg-dep-nmod.html">nmod</a></tt> (1; 3% instances)
+The highest child degree of a `PUNCT` node is 2.
 
-Children of `PUNCT` nodes belong to 3 different parts of speech: <tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt> (37; 93% instances), <tt><a href="gl_ctg-pos-PUNCT.html">PUNCT</a></tt> (2; 5% instances), <tt><a href="gl_ctg-pos-NUM.html">NUM</a></tt> (1; 3% instances)
+Children of `PUNCT` nodes are attached using 1 different relations: <tt><a href="gl_ctg-dep-punct.html">punct</a></tt> (8; 100% instances)
+
+Children of `PUNCT` nodes belong to 1 different parts of speech: <tt><a href="gl_ctg-pos-PUNCT.html">PUNCT</a></tt> (8; 100% instances)
 

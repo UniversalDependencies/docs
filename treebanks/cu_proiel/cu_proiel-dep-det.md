@@ -8,31 +8,27 @@ udver: '2'
 
 This relation is universal.
 
-1361 nodes (2%) are attached to their parents as `det`.
+10456 nodes (5%) are attached to their parents as `det`.
 
-805 instances of `det` (59%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.16164584864071.
+7341 instances of `det` (70%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.14910099464422.
 
-The following 11 pairs of parts of speech are connected with `det`: <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cu_proiel-pos-DET.html">DET</a></tt> (643; 47% instances), <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (540; 40% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cu_proiel-pos-DET.html">DET</a></tt> (73; 5% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-DET.html">DET</a></tt> (36; 3% instances), <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="cu_proiel-pos-DET.html">DET</a></tt> (23; 2% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (21; 2% instances), <tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cu_proiel-pos-DET.html">DET</a></tt> (15; 1% instances), <tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="cu_proiel-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="cu_proiel-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `det`: <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cu_proiel-pos-DET.html">DET</a></tt> (7525; 72% instances), <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (2007; 19% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cu_proiel-pos-DET.html">DET</a></tt> (288; 3% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-DET.html">DET</a></tt> (247; 2% instances), <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="cu_proiel-pos-DET.html">DET</a></tt> (205; 2% instances), <tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cu_proiel-pos-DET.html">DET</a></tt> (83; 1% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (61; 1% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (12; 0% instances), <tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="cu_proiel-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="cu_proiel-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="cu_proiel-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt>-<tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="cu_proiel-pos-DET.html">DET</a></tt>-<tt><a href="cu_proiel-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 det	color:blue
-1	аще	аще	SCONJ	G-	_	6	mark	_	Ref=MATT_6.22
-2	оубо	оубо	ADV	Df	_	10	discourse	_	Ref=MATT_6.22
-3	бѫдетъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	6	cop	_	Ref=MATT_6.22
-4	око	око	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	Ref=MATT_6.22
-5	твое	твои	ADJ	Ps	Case=Nom|Gender=Neut|Number=Sing|Person=2|Poss=Yes	4	nmod	_	Ref=MATT_6.22
-6	просто	простъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	10	advcl	_	Ref=MATT_6.22
-7	вьсе	вьсь	DET	Px	Case=Nom|Gender=Neut|Number=Sing	8	det	_	Ref=MATT_6.22
-8	тѣло	тѣло	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	Ref=MATT_6.22
-9	твое	твои	ADJ	Ps	Case=Nom|Gender=Neut|Number=Sing|Person=2|Poss=Yes	8	nmod	_	Ref=MATT_6.22
-10	свѣтъло	свѣтьлъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	Ref=MATT_6.22
-11	бѫдетъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	10	cop	_	Ref=MATT_6.22
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 det	color:blue
+1	МЬШѢ	мьша	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	0	root	_	ref=
+2	НА	на	ADP	R-	_	4	case	_	ref=
+3	ВЬСѦ	вьсь	DET	Px	Case=Acc|Gender=Masc|Number=Plur	4	det	_	ref=
+4	ДЬНꙆ	дьнь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	1	nmod	_	ref=
+5	ВСЕГО	вьсь	DET	Px	Case=Gen|Gender=Neut|Number=Sing	6	det	_	ref=
+6	ЛѢТА	лѣто	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	1	orphan	_	ref=
+7	ОБꙆДѪЦѢ	обити	VERB	V-	Case=Gen|Gender=Neut|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	6	acl	_	ref=|LId=1
 
 ~~~
 
@@ -40,32 +36,31 @@ The following 11 pairs of parts of speech are connected with `det`: <tt><a href=
 ~~~ conllu
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 det	color:blue
-1	аще	аще	SCONJ	G-	_	3	mark	_	Ref=MATT_5.46
-2	бо	бо	ADV	Df	_	8	discourse	_	Ref=MATT_5.46
-3	любите	любити	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	Ref=MATT_5.46
-4	любѧщѧѩ	любити	VERB	V-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	3	obj	_	Ref=MATT_5.46
-5	вꙑ	вꙑ	PRON	Pp	Case=Acc|Number=Plur|Person=2|PronType=Prs	4	obj	_	Ref=MATT_5.46
-6	кѫѭ҄	кꙑи	PRON	Pi	Case=Acc|Gender=Fem|Number=Sing|PronType=Int	7	det	_	Ref=MATT_5.46
-7	мъздѫ	мьзда	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	8	obj	_	Ref=MATT_5.46
-8	имате	имѣти	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_5.46
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 det	color:blue
+1	Не	не	ADV	Df	Polarity=Neg	2	advmod	_	ref=77.4
+2	оутаі	оутаити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=77.4
+3	сѩ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	expl:pv	_	ref=77.4
+4	отъ	отъ	ADP	R-	_	5	case	_	ref=77.4
+5	чѩдъ	чѧдо	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	2	obl	_	ref=77.4
+6	іхъ	и	PRON	Pp	Case=Gen|Gender=Fem,Masc|Number=Plur|Person=3|PronType=Prs	5	det	_	ref=77.4
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 1 det	color:blue
-1	вьсѣхъ	вьсь	DET	Px	Case=Gen|Gender=Neut|Number=Plur	3	det	_	Ref=MATT_6.32
-2	бо	бо	ADV	Df	_	5	discourse	_	Ref=MATT_6.32
-3	сихъ	сь	ADJ	Pd	Case=Gen|Gender=Neut|Number=Plur	5	iobj	_	Ref=MATT_6.32
-4	ѩ҃зци	ѩзꙑкъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	Ref=MATT_6.32
-5	ищѫтъ	искати	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.32
+# visual-style 3 4 det	color:blue
+1	Ї	и	CCONJ	C-	_	5	cc	_	ref=77.58
+2	въ	въ	ADP	R-	_	3	case	_	ref=77.58
+3	істоуканьнꙑхъ	истоуканьнꙑи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Neut|Number=Plur	5	advmod	_	ref=77.58
+4	своіхъ	свои	DET	Pt	Case=Loc|Gender=Neut|Number=Plur|Person=3|Poss=Yes|Reflex=Yes	3	det	_	ref=77.58
+5	раздражішѩ	раздражити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=77.58
+6	і	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	ref=77.58
 
 ~~~
 

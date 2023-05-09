@@ -23,8 +23,8 @@ The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 2	fgColor:white
 # visual-style 2 3 goeswith	color:blue
 1	So	so	ADV	RB	_	6	advmod	6:advmod	Discourse=adversative-concession:32->24:1
-2	before	beforehand	ADV	RB	Degree=Pos|Typo=Yes	6	advmod	6:advmod	CorrectForm=beforehand|XML=<sic ana:::"beforehand">
-3	hand	_	X	NN	_	2	goeswith	2:goeswith	CorrectForm=_|XML=</sic>
+2	before	beforehand	ADV	GW	Typo=Yes	6	advmod	6:advmod	CorrectForm=beforehand|XML=<sic ana:::"beforehand">
+3	hand	_	X	RB	_	2	goeswith	2:goeswith	CorrectForm=_|XML=</sic>
 4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	6:nsubj	Entity=(4-person-giv:act-cf1*-1-ana)
 5	kinda	kinda	ADV	RB	Degree=Pos	6	advmod	6:advmod	_
 6	knew	know	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	0:root	_
@@ -47,7 +47,7 @@ The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 12 goeswith	color:blue
-1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	Discourse=adversative-contrast_m:101->96:1|Entity=(101-abstract-new-cf2-3-sgl
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	Discourse=adversative-contrast_m:102->97:1|Entity=(101-abstract-new-cf2-3-sgl
 2	simplest	simple	ADJ	JJS	Degree=Sup	3	amod	3:amod	_
 3	way	way	NOUN	NN	Number=Sing	7	nsubj:outer	7:nsubj:outer	Entity=101)
 4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	7:cop	_
@@ -55,9 +55,9 @@ The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a h
 6	just	just	ADV	RB	_	7	advmod	7:advmod	_
 7	peg	peg	VERB	VB	VerbForm=Inf	0	root	0:root	_
 8	players	player	NOUN	NNS	Number=Plur	7	obj	7:obj	Entity=(24-person-giv:inact-cf1-1-coref)
-9	by	by	SCONJ	IN	_	10	mark	10:mark	Discourse=mode-means:102->101:0
+9	by	by	SCONJ	IN	_	10	mark	10:mark	Discourse=mode-means:103->102:0
 10	throwing	throw	VERB	VBG	VerbForm=Ger	7	advcl	7:advcl:by	_
-11	dodge	dodgeball	NOUN	NNS	Number=Plur|Typo=Yes	10	obj	10:obj	CorrectForm=dodgeballs|Entity=(102-object-new-cf3-1-sgl|XML=<sic ana:::"dodgeballs">
+11	dodge	dodgeball	NOUN	GW	Number=Plur|Typo=Yes	10	obj	10:obj	CorrectForm=dodgeballs|Entity=(102-object-new-cf3-1-sgl|XML=<sic ana:::"dodgeballs">
 12	balls	_	X	NNS	_	11	goeswith	11:goeswith	CorrectForm=_|Entity=102)|SpaceAfter=No|XML=</sic>
 13	.	.	PUNCT	.	_	7	punct	7:punct	_
 
@@ -86,10 +86,10 @@ The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a h
 14	choosing	choose	VERB	VBG	VerbForm=Ger	12	xcomp	12:xcomp	Entity=(104-event-new-cf1-1-disc
 15	a	a	DET	DT	Definite=Ind|PronType=Art	16	det	16:det	Entity=(105-object-new-cf3-2-coref
 16	lamp	lamp	NOUN	NN	Number=Sing	14	obj	14:obj	Entity=105)
-17	based	base	VERB	VBN	Tense=Past|VerbForm=Part	14	advcl	14:advcl	Discourse=elaboration-additional:64->63:0
+17	based	base	VERB	VBN	Tense=Past|VerbForm=Part	14	advcl	14:advcl	Discourse=mode-manner:64->63:0
 18	on	on	ADP	IN	_	21	case	21:case	_
-19	it	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs|Typo=Yes	21	nmod:poss	21:nmod:poss	CorrectForm=its|Entity=(106-abstract-new-cf6-3-sgl(105-object-giv:act-cf3-1-ana|XML=<sic ana:::"its">
-20	is	_	X	POS	_	19	goeswith	19:goeswith	CorrectForm=_|Entity=105)|XML=</sic>
+19	it	its	PRON	GW	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs|Typo=Yes	21	nmod:poss	21:nmod:poss	CorrectForm=its|Entity=(106-abstract-new-cf6-3-sgl(105-object-giv:act-cf3-1-ana|XML=<sic ana:::"its">
+20	is	_	X	PRP$	_	19	goeswith	19:goeswith	CorrectForm=_|Entity=105)|XML=</sic>
 21	price	price	NOUN	NN	Number=Sing	17	obl	17:obl:on	Entity=106)
 22	rather	rather	ADV	RB	_	25	cc	25:cc	_
 23	than	than	ADP	IN	_	22	fixed	22:fixed	_
@@ -98,7 +98,7 @@ The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a h
 26	and	and	CCONJ	CC	_	28	cc	28:cc	Discourse=elaboration-additional:65->61:1
 27	this	this	PRON	DT	Number=Sing|PronType=Dem	28	nsubj	28:nsubj	Entity=(104-event-giv:act-cf1-1-coref)
 28	cause	cause	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	12	conj	12:conj:and	CorrectForm=causes|XML=<sic ana:::"causes"></sic>
-29	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	28	obj	28:obj|31:nsubj:xsubj	Entity=(108-person-acc:com-cf2-1-ana)
+29	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	28	iobj	28:iobj|31:nsubj:xsubj	Entity=(108-person-acc:com-cf2-1-ana)
 30	to	to	PART	TO	_	31	mark	31:mark	_
 31	pay	pay	VERB	VB	VerbForm=Inf	28	xcomp	28:xcomp	_
 32	for	for	ADP	IN	_	34	case	34:case	_

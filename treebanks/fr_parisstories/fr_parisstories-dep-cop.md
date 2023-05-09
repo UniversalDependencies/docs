@@ -66,7 +66,7 @@ The following 12 pairs of parts of speech are connected with `cop`: <tt><a href=
 # visual-style 8	fgColor:white
 # visual-style 8 7 cop	color:blue
 1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
-2	me	se	PRON	_	_	4	expl	_	_
+2	me	se	PRON	_	_	4	expl:comp	_	_
 3	suis	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
 4	aperçue	apercevoir	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 5	que	que	SCONJ	_	_	8	mark	_	_

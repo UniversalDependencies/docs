@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Tommi A Pirinen.
 
 Repository: [UD_Karelian-KKPP](https://github.com/UniversalDependencies/UD_Karelian-KKPP)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkrl_kkpp211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkrl_kkpp212)<br />
+Download all treebanks: [UD 2.12](/#download)
 
 License: CC BY-SA 4.0
 
@@ -98,7 +98,7 @@ verkkosanakirja](http://kaino.kotus.fi/cgi-bin/kks/kks_etusivu.cgi)
 </ul>
 
 <ul>
-<li>This corpus contains 618 tokens (20%) that are not followed by a space.</li>
+<li>This corpus contains 619 tokens (20%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -371,7 +371,7 @@ verkkosanakirja](http://kaino.kotus.fi/cgi-bin/kks/kks_etusivu.cgi)
       <li>NOUN: ihmisie, hilluo, henkie, kulttuurie, lapšie, lauluja, muata, kaupunkie, kertua, kevätkuuta</li>
       <li>NUM: miljonie, kuutta, miljardie</li>
       <li>PRON: mitä, tätä, šitä, iččie, niitä, kumpaista, muuta, Milma, heitä, häntä</li>
-      <li>PROPN: Annua, Joukahaista, Vlasovua, Šeinua</li>
+      <li>PROPN: Annua, Joukahaista, Kalevala-, Vlasovua, Šeinua</li>
     </ul>
   </li>
 </ul>
@@ -717,6 +717,7 @@ verkkosanakirja](http://kaino.kotus.fi/cgi-bin/kks/kks_etusivu.cgi)
       <li>Yes
         <ul>
           <li>ADJ: alkuperaistä</li>
+          <li>PROPN: Kalevala-</li>
         </ul>
       </li>
     </ul>
@@ -744,7 +745,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN-Nom (1)</li>
       <li>VERB--PRON-Nom (1)</li>
-      <li>VERB-Fin--NOUN-Nom (72)</li>
+      <li>VERB-Fin--NOUN-Nom (71)</li>
       <li>VERB-Fin--NOUN-Par (2)</li>
       <li>VERB-Fin--PRON (1)</li>
       <li>VERB-Fin--PRON-Ela (1)</li>
@@ -766,7 +767,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--PRON-Par (1)</li>
       <li>VERB-Fin--NOUN-Gen (16)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(nimeltäh) (1)</li>
-      <li>VERB-Fin--NOUN-Nom (32)</li>
+      <li>VERB-Fin--NOUN-Nom (33)</li>
       <li>VERB-Fin--NOUN-Par (77)</li>
       <li>VERB-Fin--PRON-Acc (2)</li>
       <li>VERB-Fin--PRON-Gen (2)</li>

@@ -25,7 +25,7 @@ The following 3 pairs of parts of speech are connected with `dep`: <tt><a href="
 1	Нама	нама	ADV	Pcle	_	4	dep	_	CGdephead=#1-&gt;0|CGdeprel=@X|GTtags=|SpaceAfter=No
 2	,	,	PUNCT	CLB	_	1	punct	_	CGdephead=#2-&gt;1|CGdeprel=@CLB|GTtags=CLB
 3	а	а	AUX	V	Polarity=Neg|VerbType=Aux	4	aux:neg	_	CGdephead=#3-&gt;3|CGdeprel=@-FAUXV&gt;|GTtags=Aux,Neg
-4	удыть	удомс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Valency=1	0	root	_	CGdephead=#4-&gt;0|CGdeprel=@FMV|GTtags=IV,Ind,Prs,ScPl3
+4	удыть	удомс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres	0	root	_	CGdephead=#4-&gt;0|CGdeprel=@FMV|GTtags=IV,Ind,Prs,ScPl3
 5	ошонь	ош	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	6	nmod	_	CGdephead=#5-&gt;6|CGdeprel=@&gt;N|GTtags=SP,Gen,Indef
 6	пирявтонть	пирявт	NOUN	N	Case=Gen|Definite=Def|Number=Sing	7	nmod	_	CGdephead=#6-&gt;7|CGdeprel=@&gt;N|GTtags=Sg,Gen,Def
 7	прясо	пря	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	8	acl	_	CGdephead=#7-&gt;4|CGdeprel=@&lt;ADVL|GTtags=SP,Ine,Indef,Der/MWN,N,Pl,Nom,Def,Clt/Add
@@ -44,7 +44,7 @@ The following 3 pairs of parts of speech are connected with `dep`: <tt><a href="
 1	Пиже	пиже	ADJ	A	_	2	amod	_	_
 2	чекеренть	чекерь	NOUN	N	Case=Gen|Definite=Def|Number=Sing	4	obl	_	GTtags=Sg,Gen,Def
 3	алдо	алдо	ADP	Adp	AdvType=Loc|Case=Abl	2	case	_	GTtags=Relator,Spat,Abl
-4	содавсь	содавомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	0	root	_	GTtags=IV,Ind,Prt1,ScSg3
+4	содавсь	содавомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	GTtags=IV,Ind,Prt1,ScSg3
 5	ансяк	ансяк	ADV	Adv	_	4	advmod	_	GTtags=Exclusive
 6	(	(	PUNCT	PUNCT	_	7	punct	_	GTtags=LEFT|SpaceAfter=No
 7	сеяк	се	PRON	Pron	Case=Nom|Definite=Ind|Number=Sing|PronType=Dem	4	dep	_	GTtags=Dem,Sg,Nom,Indef
@@ -66,7 +66,7 @@ The following 3 pairs of parts of speech are connected with `dep`: <tt><a href="
 1	Эсест	сонсь	PRON	Pron	Case=Gen|Number=Plur|Person=3|PronType=Prs|Reflex=Yes|Variant=Short	2	det	_	CGdephead=#1-&gt;2|CGdeprel=@&gt;N|GTtags=Refl,Pl3,Gen,Short
 2	кудов	кудо	NOUN	N	Case=Lat|Definite=Ind|Number=Plur,Sing	4	obl:lmod	_	CGdephead=#2-&gt;4|CGdeprel=@ADVL&gt;|GTtags=SP,Lat,Indef
 3	Валдаж	Валдаж	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	4	dep	_	CGdephead=#3-&gt;0|CGdeprel=@X|GTtags=?
-4	пачкодсь	пачкодемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	0	root	_	CGdephead=#4-&gt;0|CGdeprel=@FMV|GTtags=IV,Ind,Prt1,ScSg3|SpaceAfter=No
+4	пачкодсь	пачкодемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	CGdephead=#4-&gt;0|CGdeprel=@FMV|GTtags=IV,Ind,Prt1,ScSg3|SpaceAfter=No
 5	...	...	PUNCT	CLB	_	4	punct	_	CGdephead=#5-&gt;4|CGdeprel=@CLB|GTtags=CLB
 
 ~~~

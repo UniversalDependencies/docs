@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-161 nodes (2%) are attached to their parents as `mark`.
+162 nodes (2%) are attached to their parents as `mark`.
 
-161 instances of `mark` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.36024844720497.
+162 instances of `mark` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.35802469135802.
 
-The following 8 pairs of parts of speech are connected with `mark`: <tt><a href="br_keb-pos-VERB.html">VERB</a></tt>-<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> (116; 72% instances), <tt><a href="br_keb-pos-VERB.html">VERB</a></tt>-<tt><a href="br_keb-pos-SCONJ.html">SCONJ</a></tt> (28; 17% instances), <tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="br_keb-pos-SCONJ.html">SCONJ</a></tt> (6; 4% instances), <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> (4; 2% instances), <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="br_keb-pos-SCONJ.html">SCONJ</a></tt> (3; 2% instances), <tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="br_keb-pos-NUM.html">NUM</a></tt>-<tt><a href="br_keb-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="br_keb-pos-VERB.html">VERB</a></tt>-<tt><a href="br_keb-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances).
+The following 8 pairs of parts of speech are connected with `mark`: <tt><a href="br_keb-pos-VERB.html">VERB</a></tt>-<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> (117; 72% instances), <tt><a href="br_keb-pos-VERB.html">VERB</a></tt>-<tt><a href="br_keb-pos-SCONJ.html">SCONJ</a></tt> (28; 17% instances), <tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="br_keb-pos-SCONJ.html">SCONJ</a></tt> (6; 4% instances), <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> (4; 2% instances), <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="br_keb-pos-SCONJ.html">SCONJ</a></tt> (3; 2% instances), <tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="br_keb-pos-NUM.html">NUM</a></tt>-<tt><a href="br_keb-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="br_keb-pos-VERB.html">VERB</a></tt>-<tt><a href="br_keb-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -45,7 +45,7 @@ The following 8 pairs of parts of speech are connected with `mark`: <tt><a href=
 5	vo	bezañ	AUX	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	aux	_	_
 6	digoret	digoriñ	VERB	vblex	Tense=Past|VerbForm=Part	1	ccomp	_	_
 7	an	an	DET	det	_	8	det	_	_
-8	nor	dor	NOUN	n	Gender=Fem|Number=Sing	6	obj	_	_
+8	nor	dor	NOUN	n	Gender=Fem|Number=Sing	6	obj	_	SpaceAfter=No
 9	.	.	PUNCT	sent	_	6	punct	_	_
 
 ~~~

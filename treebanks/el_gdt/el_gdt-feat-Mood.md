@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Imp`, `Ind`.
 
-6464 tokens (10%) have a non-empty value of `Mood`.
-2707 types (24%) occur at least once with a non-empty value of `Mood`.
+6462 tokens (10%) have a non-empty value of `Mood`.
+2705 types (24%) occur at least once with a non-empty value of `Mood`.
 879 lemmas (14%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (5400; 9% instances), <tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> (1064; 2% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (5398; 9% instances), <tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> (1064; 2% instances).
 
 ### `VERB`
 
-5400 <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> tokens (92% of all `VERB` tokens) have a non-empty value of `Mood`.
+5398 <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> tokens (92% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="el_gdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5400; 100%), <tt><a href="el_gdt-feat-Person.html">Person</a></tt><tt>=3</tt> (4277; 79%), <tt><a href="el_gdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3841; 71%), <tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3243; 60%), <tt><a href="el_gdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (2795; 52%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="el_gdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5398; 100%), <tt><a href="el_gdt-feat-Person.html">Person</a></tt><tt>=3</tt> (4276; 79%), <tt><a href="el_gdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3839; 71%), <tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3241; 60%), <tt><a href="el_gdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (2795; 52%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Imp` (20; 0% of non-empty `Mood`): <em>επιτρέψτε, Δώστε, Αφήστε, Δείτε, Επιλέξτε, Μιλήστε, καλλιεργείστε, λάβετε, περιορίστε</em>
-* `Ind` (5380; 100% of non-empty `Mood`): <em>μπορεί, αφορά, έχει, αποτελεί, έχουν, δήλωσε, υπάρχει, ήθελα, βρίσκεται, πρόκειται</em>
-* `EMPTY` (467): <em>λέγοντας, γίνει, λάβει, προκαλώντας, χτισμένη, έχοντας, ακολουθώντας, δημιουργήσει, επιτύχει, πει</em>
+* `Ind` (5378; 100% of non-empty `Mood`): <em>μπορεί, αφορά, έχει, αποτελεί, έχουν, δήλωσε, υπάρχει, ήθελα, βρίσκεται, πρόκειται</em>
+* `EMPTY` (468): <em>λέγοντας, γίνει, λάβει, προκαλώντας, χτισμένη, έχοντας, ακολουθώντας, δημιουργήσει, επιτύχει, πει</em>
 
 <table>
   <tr><th>Paradigm <i>δίνω</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th></tr>
@@ -65,12 +65,12 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
+<tt>VERB --[<tt><a href="el_gdt-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (503; 89%),
 <tt>VERB --[<tt><a href="el_gdt-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (497; 77%),
-<tt>VERB --[<tt><a href="el_gdt-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (490; 90%),
 <tt>VERB --[<tt><a href="el_gdt-dep-conj.html">conj</a></tt>]--> VERB</tt> (481; 94%),
 <tt>VERB --[<tt><a href="el_gdt-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (366; 95%),
 <tt>VERB --[<tt><a href="el_gdt-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (70; 92%),
-<tt>VERB --[<tt><a href="el_gdt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (43; 90%),
 <tt>VERB --[<tt><a href="el_gdt-dep-csubj-pass.html">csubj:pass</a></tt>]--> VERB</tt> (40; 95%),
+<tt>VERB --[<tt><a href="el_gdt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (28; 93%),
 <tt>VERB --[<tt><a href="el_gdt-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (6; 100%).
 

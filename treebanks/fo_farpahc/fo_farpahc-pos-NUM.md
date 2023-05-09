@@ -20,7 +20,7 @@ The 10 most frequent ambiguous types:  <em>hundrað</em> (<tt><a href="fo_farpah
 
 * <em>hundrað</em>
   * <tt><a href="fo_farpahc-pos-NUM.html">NUM</a></tt> 8: <em>Símun Pætur fór tá út og dró nótina á land , fulla av stórum fiskum , <b>hundrað</b> og fimmti og trimum .</em>
-  * <tt><a href="fo_farpahc-pos-NOUN.html">NOUN</a></tt> 1: <em>Og í hesum dögum stóð Pætur upp millum bröðranna og segði og har var komin saman ein flokkur av monnum okkurt um stórt <b>hundrað</b> í tali : " Góðu menn og bröður ! Tað skriftarorðið átti at ganga út , sum heilagur andi hevði talað framman þúndan við munni Dávids um Judas , sum gjördist leiðbeinari hjá teimum , ið tóku Jesus ; tí at hann var taldur við millum okkara og hevði fingið lut í hesi tænastu .</em>
+  * <tt><a href="fo_farpahc-pos-NOUN.html">NOUN</a></tt> 1: <em>Og í hesum dögum stóð Pætur upp millum bröðranna og segði og har var komin saman ein flokkur av monnum okkurt um stórt <b>hundrað</b> í tali : " Góðu menn og bröður ! Tað skriftarorðið átti at ganga út , sum heilagur andi hevði talað framman undan við munni Dávids um Judas , sum gjördist leiðbeinari hjá teimum , ið tóku Jesus ; tí at hann var taldur við millum okkara og hevði fingið lut í hesi tænastu .</em>
 
 ## Morphology
 

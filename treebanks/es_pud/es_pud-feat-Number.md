@@ -11,8 +11,8 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 13894 tokens (60%) have a non-empty value of `Number`.
 5387 types (91%) occur at least once with a non-empty value of `Number`.
-2950 lemmas (83%) occur at least once with a non-empty value of `Number`.
-The feature is used with 7 part-of-speech tags: <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (4817; 21% instances), <tt><a href="es_pud-pos-DET.html">DET</a></tt> (3315; 14% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (1650; 7% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (1475; 6% instances), <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> (1222; 5% instances), <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (747; 3% instances), <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> (668; 3% instances).
+2954 lemmas (83%) occur at least once with a non-empty value of `Number`.
+The feature is used with 7 part-of-speech tags: <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (4817; 21% instances), <tt><a href="es_pud-pos-DET.html">DET</a></tt> (3319; 14% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (1651; 7% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (1475; 6% instances), <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> (1222; 5% instances), <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (743; 3% instances), <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> (667; 3% instances).
 
 ### `NOUN`
 
@@ -31,18 +31,18 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
   <tr><td><tt></tt></td><td><em>año</em></td><td><em>años</em></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `NOUN`. 98% lemmas (1500) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `NOUN`. 98% lemmas (1499) occur only with one value of `Number`.
 
 ### `DET`
 
-3315 <tt><a href="es_pud-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
+3319 <tt><a href="es_pud-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="es_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (2983; 90%), <tt><a href="es_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2528; 76%), <tt><a href="es_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1972; 59%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="es_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (2983; 90%), <tt><a href="es_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2528; 76%), <tt><a href="es_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1975; 60%).
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (792; 24% of non-empty `Number`): <em>los, las, muchos, estos, muchas, otros, todas, varios, esos, unos</em>
-* `Sing` (2523; 76% of non-empty `Number`): <em>el, la, un, una, este, esta, esto, cada, ese, eso</em>
+* `Plur` (793; 24% of non-empty `Number`): <em>los, las, muchos, estos, muchas, otros, todas, varios, esos, unos</em>
+* `Sing` (2526; 76% of non-empty `Number`): <em>el, la, un, una, este, esta, esto, cada, ese, eso</em>
 * `EMPTY` (1): <em>un</em>
 
 <table>
@@ -53,14 +53,14 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 ### `VERB`
 
-1650 <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> tokens (75% of all `VERB` tokens) have a non-empty value of `Number`.
+1651 <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> tokens (75% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="es_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1271; 77%), <tt><a href="es_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1261; 76%), <tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1200; 73%), <tt><a href="es_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1174; 71%), <tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1164; 71%), <tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1081; 66%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="es_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1272; 77%), <tt><a href="es_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1262; 76%), <tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1201; 73%), <tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1165; 71%), <tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (889; 54%).
 
 `VERB` tokens may have the following values of `Number`:
 
 * `Plur` (424; 26% of non-empty `Number`): <em>tienen, están, incluyen, llegaron, tenían, tuvieron, afirman, dieron, corresponden, decidieron</em>
-* `Sing` (1226; 74% of non-empty `Number`): <em>dijo, es, tiene, hay, está, hace, debido, dice, afirmó, convirtió</em>
+* `Sing` (1227; 74% of non-empty `Number`): <em>dijo, es, tiene, hay, está, hace, debido, dice, afirmó, convirtió</em>
 * `EMPTY` (539): <em>hacer, tener, ver, establecer, ayudar, dejar, enviar, incluyendo, producir, asegurar</em>
 
 ### `ADJ`
@@ -75,7 +75,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 * `Sing` (1033; 70% of non-empty `Number`): <em>gran, primera, mayor, nueva, nacional, primer, británica, segunda, Unido, mismo</em>
 * `EMPTY` (5): <em>austro, co, ex, franco, multi</em>
 
-`Number` seems to be **lexical feature** of `ADJ`. 98% lemmas (377) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `ADJ`. 98% lemmas (378) occur only with one value of `Number`.
 
 ### `PROPN`
 
@@ -91,14 +91,14 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 ### `PRON`
 
-747 <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> tokens (70% of all `PRON` tokens) have a non-empty value of `Number`.
+743 <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> tokens (70% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="es_pud-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (742; 99%), <tt><a href="es_pud-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (623; 83%), <tt><a href="es_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (527; 71%), <tt><a href="es_pud-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (498; 67%), <tt><a href="es_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (464; 62%), <tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (415; 56%), <tt><a href="es_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (399; 53%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="es_pud-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (738; 99%), <tt><a href="es_pud-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (619; 83%), <tt><a href="es_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (523; 70%), <tt><a href="es_pud-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (498; 67%), <tt><a href="es_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (464; 62%), <tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (411; 55%), <tt><a href="es_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (396; 53%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (181; 24% of non-empty `Number`): <em>que, sus, ellos, les, cuales, nos, los, quienes, nuestras, nuestros</em>
-* `Sing` (566; 76% of non-empty `Number`): <em>su, que, lo, le, cual, me, él, ella, quien, la</em>
+* `Plur` (180; 24% of non-empty `Number`): <em>que, sus, ellos, les, cuales, nos, los, quienes, nuestras, nuestros</em>
+* `Sing` (563; 76% of non-empty `Number`): <em>su, que, lo, le, cual, me, él, ella, quien, la</em>
 * `EMPTY` (315): <em>se, qué, cuanto, sí, consigo</em>
 
 <table>
@@ -114,47 +114,41 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `AUX`
 
-668 <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> tokens (94% of all `AUX` tokens) have a non-empty value of `Number`.
+667 <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> tokens (94% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="es_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (649; 97%), <tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (616; 92%), <tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (578; 87%), <tt><a href="es_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (523; 78%), <tt><a href="es_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (385; 58%), <tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (365; 55%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="es_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (648; 97%), <tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (615; 92%), <tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (577; 87%).
 
 `AUX` tokens may have the following values of `Number`:
 
-* `Plur` (177; 26% of non-empty `Number`): <em>son, fueron, han, habían, pueden, estaban, están, eran, hayan, debemos</em>
-* `Sing` (491; 74% of non-empty `Number`): <em>es, fue, ha, había, está, era, puede, estaba, podría, sido</em>
+* `Plur` (177; 27% of non-empty `Number`): <em>son, fueron, han, habían, pueden, estaban, están, eran, hayan, debemos</em>
+* `Sing` (490; 73% of non-empty `Number`): <em>es, fue, ha, había, está, era, puede, estaba, podría, sido</em>
 * `EMPTY` (42): <em>ser, haber, siendo, estar, poder, Habiendo</em>
 
 <table>
   <tr><th>Paradigm <i>ser</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="es_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="es_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>sería</em></td><td><em>serían</em></td></tr>
-  <tr><td><tt><tt><a href="es_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="es_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="es_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>era</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="es_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="es_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="es_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>somos</em></td></tr>
-  <tr><td><tt><tt><a href="es_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="es_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="es_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>Tienes</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="es_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="es_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="es_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>será</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="es_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="es_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="es_pud-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>Será</em></td><td><em>serán</em></td></tr>
-  <tr><td><tt><tt><a href="es_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="es_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="es_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>era</em></td><td><em>eran</em></td></tr>
-  <tr><td><tt><tt><a href="es_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="es_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="es_pud-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>era</em></td><td><em>eran</em></td></tr>
-  <tr><td><tt><tt><a href="es_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="es_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="es_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>es</em></td><td><em>son</em></td></tr>
-  <tr><td><tt><tt><a href="es_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="es_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="es_pud-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>es, considera</em></td><td><em>son, consideran</em></td></tr>
-  <tr><td><tt><tt><a href="es_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="es_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="es_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>seamos</em></td></tr>
-  <tr><td><tt><tt><a href="es_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="es_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="es_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>fueran</em></td></tr>
-  <tr><td><tt><tt><a href="es_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="es_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="es_pud-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>fuera</em></td><td><em>fueran, pudieran</em></td></tr>
-  <tr><td><tt><tt><a href="es_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="es_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="es_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>sea</em></td><td><em>sean</em></td></tr>
-  <tr><td><tt><tt><a href="es_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="es_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="es_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>fue</em></td><td><em>fueron</em></td></tr>
-  <tr><td><tt><tt><a href="es_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="es_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="es_pud-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>fue</em></td><td><em>fueron</em></td></tr>
-  <tr><td><tt><tt><a href="es_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="es_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="es_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>hubiera</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="es_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="es_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="es_pud-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>hubiera</em></td><td></td></tr>
   <tr><td><tt><tt><a href="es_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="es_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>sido</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Imp</tt>|<tt><a href="es_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>sería</em></td><td><em>serían</em></td></tr>
+  <tr><td><tt><tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Imp</tt>|<tt><a href="es_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>era</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="es_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>somos</em></td></tr>
+  <tr><td><tt><tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="es_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>Tienes</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="es_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>será</em></td><td><em>serán</em></td></tr>
+  <tr><td><tt><tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Imp</tt>|<tt><a href="es_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>era</em></td><td><em>eran</em></td></tr>
+  <tr><td><tt><tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="es_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>fue</em></td><td><em>fueron</em></td></tr>
+  <tr><td><tt><tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="es_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>es, considera</em></td><td><em>son, consideran</em></td></tr>
+  <tr><td><tt><tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="es_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>seamos</em></td></tr>
+  <tr><td><tt><tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Imp</tt>|<tt><a href="es_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>fuera</em></td><td><em>fueran, pudieran</em></td></tr>
+  <tr><td><tt><tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="es_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>hubiera</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="es_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>sea</em></td><td><em>sean</em></td></tr>
 </table>
 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="es_pud-dep-det.html">det</a></tt>]--> DET</tt> (2960; 100%),
+<tt>NOUN --[<tt><a href="es_pud-dep-det.html">det</a></tt>]--> DET</tt> (2964; 100%),
 <tt>NOUN --[<tt><a href="es_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1246; 100%),
 <tt>NOUN --[<tt><a href="es_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (746; 59%),
 <tt>VERB --[<tt><a href="es_pud-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (511; 85%),
-<tt>NOUN --[<tt><a href="es_pud-dep-det.html">det</a></tt>]--> PRON</tt> (261; 100%),
+<tt>NOUN --[<tt><a href="es_pud-dep-det.html">det</a></tt>]--> PRON</tt> (257; 100%),
 <tt>NOUN --[<tt><a href="es_pud-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (243; 71%),
 <tt>NOUN --[<tt><a href="es_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (204; 77%),
 <tt>VERB --[<tt><a href="es_pud-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (173; 87%),

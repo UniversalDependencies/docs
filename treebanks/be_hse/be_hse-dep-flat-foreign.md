@@ -61,14 +61,14 @@ The following 15 pairs of parts of speech are connected with `flat:foreign`: <tt
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 9 flat:foreign	color:blue
-1	Джэк	Джэк	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	2:nsubj|3:nsubj	_
+1	Джэк	Джэк	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	2	nsubj	2:nsubj|3:nsubj	_
 2	стаў	стаць	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 3	легендай	легенда	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	2	xcomp	2:xcomp	_
 4	іншага	іншы	DET	DT	Case=Gen|Gender=Masc|Number=Sing|PronType=Tot	6	det	6:det	_
 5	англійскага	англійскі	ADJ	JJL	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	6	amod	6:amod	_
 6	клуба	клуб	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	3:nmod:gen	_
 7	«	«	PUNCT	PUNCT	_	8	punct	8:punct	SpaceAfter=No
-8	Лідс	Лідс	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	appos	6:appos	_
+8	Лідс	Лідс	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Com|Number=Sing	6	appos	6:appos	_
 9	Юнайтэд	юнайтэд	X	X	Foreign=Yes	8	flat:foreign	8:flat:foreign	SpaceAfter=No
 10	»	»	PUNCT	PUNCT	_	8	punct	8:punct	SpaceAfter=No
 11	.	.	PUNCT	PUNCT	_	2	punct	2:punct	_

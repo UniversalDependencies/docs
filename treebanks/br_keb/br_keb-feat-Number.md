@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-3687 tokens (37%) have a non-empty value of `Number`.
-1666 types (69%) occur at least once with a non-empty value of `Number`.
+3676 tokens (37%) have a non-empty value of `Number`.
+1664 types (69%) occur at least once with a non-empty value of `Number`.
 1150 lemmas (67%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt> (1960; 19% instances), <tt><a href="br_keb-pos-AUX.html">AUX</a></tt> (626; 6% instances), <tt><a href="br_keb-pos-VERB.html">VERB</a></tt> (330; 3% instances), <tt><a href="br_keb-pos-PROPN.html">PROPN</a></tt> (308; 3% instances), <tt><a href="br_keb-pos-NUM.html">NUM</a></tt> (222; 2% instances), <tt><a href="br_keb-pos-PRON.html">PRON</a></tt> (220; 2% instances), <tt><a href="br_keb-pos-DET.html">DET</a></tt> (20; 0% instances), <tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt> (1954; 20% instances), <tt><a href="br_keb-pos-AUX.html">AUX</a></tt> (625; 6% instances), <tt><a href="br_keb-pos-VERB.html">VERB</a></tt> (327; 3% instances), <tt><a href="br_keb-pos-PROPN.html">PROPN</a></tt> (307; 3% instances), <tt><a href="br_keb-pos-NUM.html">NUM</a></tt> (222; 2% instances), <tt><a href="br_keb-pos-PRON.html">PRON</a></tt> (220; 2% instances), <tt><a href="br_keb-pos-DET.html">DET</a></tt> (20; 0% instances), <tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-1960 <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Number`.
+1954 <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="br_keb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1348; 69%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="br_keb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1344; 69%).
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (504; 26% of non-empty `Number`): <em>dud, vugale, tud, traoù, preudeur, merc'hed, rannvroioù, skolioù, skeudennoù, wazed</em>
-* `Sing` (1456; 74% of non-empty `Number`): <em>levr, den, ti, brezhoneg, labour, yezh, vro, istor, rannvro, bro</em>
+* `Plur` (502; 26% of non-empty `Number`): <em>dud, vugale, tud, traoù, preudeur, merc'hed, rannvroioù, skolioù, skeudennoù, wazed</em>
+* `Sing` (1452; 74% of non-empty `Number`): <em>levr, den, ti, brezhoneg, labour, yezh, vro, istor, rannvro, bro</em>
 * `EMPTY` (30): <em>Ebrel, Even, sadorn, Meurzh, Sul, Genver, Gwengolo, Yaou, C'hwevrer, Gouhere</em>
 
 <table>
@@ -33,15 +33,15 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 ### `AUX`
 
-626 <tt><a href="br_keb-pos-AUX.html">AUX</a></tt> tokens (47% of all `AUX` tokens) have a non-empty value of `Number`.
+625 <tt><a href="br_keb-pos-AUX.html">AUX</a></tt> tokens (47% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="br_keb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (605; 97%), <tt><a href="br_keb-feat-Person.html">Person</a></tt><tt>=3</tt> (549; 88%), <tt><a href="br_keb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (547; 87%), <tt><a href="br_keb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (391; 62%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="br_keb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (604; 97%), <tt><a href="br_keb-feat-Person.html">Person</a></tt><tt>=3</tt> (548; 88%), <tt><a href="br_keb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (546; 87%), <tt><a href="br_keb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (390; 62%).
 
 `AUX` tokens may have the following values of `Number`:
 
 * `Plur` (48; 8% of non-empty `Number`): <em>o deus, o doa, emaint, hon eus, int, raent, reont, c'hellit, oant, rit</em>
-* `Sing` (578; 92% of non-empty `Number`): <em>eo, oa, vo, zo, vez, ra, en deus, voe, emañ, ran</em>
-* `EMPTY` (706): <em>a, e, bet, o, en, bezañ, na, ', ez, reer</em>
+* `Sing` (577; 92% of non-empty `Number`): <em>eo, oa, vo, zo, vez, ra, en deus, voe, emañ, ran</em>
+* `EMPTY` (704): <em>a, e, bet, o, en, bezañ, na, ', ez, reer</em>
 
 <table>
   <tr><th>Paradigm <i>bezañ</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -65,15 +65,15 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 ### `VERB`
 
-330 <tt><a href="br_keb-pos-VERB.html">VERB</a></tt> tokens (30% of all `VERB` tokens) have a non-empty value of `Number`.
+327 <tt><a href="br_keb-pos-VERB.html">VERB</a></tt> tokens (30% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="br_keb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (273; 83%), <tt><a href="br_keb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (242; 73%), <tt><a href="br_keb-feat-Person.html">Person</a></tt><tt>=3</tt> (236; 72%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="br_keb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (272; 83%), <tt><a href="br_keb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (241; 74%), <tt><a href="br_keb-feat-Person.html">Person</a></tt><tt>=3</tt> (235; 72%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (92; 28% of non-empty `Number`): <em>tennit, lennont, gavint, klaskit, meskit, Lakait, hoc'h eus, Ouzhpennit, Treuzit, garont</em>
-* `Sing` (238; 72% of non-empty `Number`): <em>ra, welas, zeuy, gavo, wel, ya, yelo, eo, fell, labour</em>
-* `EMPTY` (772): <em>kinniget, dont, ober, graet, gouestlet, gwelet, lennet, aozet, kavet, labourat</em>
+* `Plur` (89; 27% of non-empty `Number`): <em>tennit, gavint, klaskit, lennont, meskit, Lakait, hoc'h eus, Ouzhpennit, garont, klikit</em>
+* `Sing` (238; 73% of non-empty `Number`): <em>ra, welas, zeuy, gavo, wel, ya, yelo, eo, fell, labour</em>
+* `EMPTY` (770): <em>kinniget, dont, ober, graet, gwelet, gouestlet, lennet, aozet, kavet, labourat</em>
 
 <table>
   <tr><th>Paradigm <i>dont</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -87,14 +87,14 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `PROPN`
 
-308 <tt><a href="br_keb-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Number`.
+307 <tt><a href="br_keb-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="br_keb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (201; 65%).
+The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="br_keb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (200; 65%).
 
 `PROPN` tokens may have the following values of `Number`:
 
 * `Plur` (1; 0% of non-empty `Number`): <em>Stadoù-Unanet</em>
-* `Sing` (307; 100% of non-empty `Number`): <em>Breizh, Yann, Pariz, Frañs, Kembre, Yannig, Lenaig, Naoned, Brezhoneg, Europa</em>
+* `Sing` (306; 100% of non-empty `Number`): <em>Breizh, Yann, Pariz, Frañs, Kembre, Yannig, Lenaig, Naoned, Europa, Karaez</em>
 
 `Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (112) occur only with one value of `Number`.
 
@@ -108,7 +108,7 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 * `Plur` (203; 91% of non-empty `Number`): <em>daou, 2007, 4, 000, 1950, 20, 3, 30, 10, 2</em>
 * `Sing` (19; 9% of non-empty `Number`): <em>unan, 1, 1añ, 23e, 5e, IXvet, XVIIvet, 31añ</em>
-* `EMPTY` (11): <em>eil, 13vet, 150, X, c'hentañ, drede, kentañ, trede</em>
+* `EMPTY` (11): <em>eil, 13vet, 150, Xvet, c'hentañ, drede, kentañ, trede</em>
 
 `Number` seems to be **lexical feature** of `NUM`. 100% lemmas (117) occur only with one value of `Number`.
 
@@ -143,7 +143,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 * `Plur` (6; 30% of non-empty `Number`): <em>a</em>
 * `Sing` (14; 70% of non-empty `Number`): <em>bep, pep, kement</em>
-* `EMPTY` (1186): <em>ar, an, ur, al, r, un, e, ho, n, o</em>
+* `EMPTY` (1182): <em>ar, an, ur, r, al, un, e, ho, n, o</em>
 
 ### `ADJ`
 
@@ -157,11 +157,11 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="br_keb-dep-nmod-gen.html">nmod:gen</a></tt>]--> NOUN</tt> (177; 60%),
+<tt>NOUN --[<tt><a href="br_keb-dep-nmod-gen.html">nmod:gen</a></tt>]--> NOUN</tt> (176; 60%),
 <tt>NOUN --[<tt><a href="br_keb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (83; 75%),
 <tt>NOUN --[<tt><a href="br_keb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (65; 58%),
 <tt>NOUN --[<tt><a href="br_keb-dep-cop.html">cop</a></tt>]--> AUX</tt> (58; 73%),
-<tt>NOUN --[<tt><a href="br_keb-dep-nmod-gen.html">nmod:gen</a></tt>]--> PROPN</tt> (55; 83%),
+<tt>NOUN --[<tt><a href="br_keb-dep-nmod-gen.html">nmod:gen</a></tt>]--> PROPN</tt> (54; 83%),
 <tt>VERB --[<tt><a href="br_keb-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (33; 59%),
 <tt>NOUN --[<tt><a href="br_keb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (29; 88%),
 <tt>NOUN --[<tt><a href="br_keb-dep-obl.html">obl</a></tt>]--> NOUN</tt> (20; 95%),

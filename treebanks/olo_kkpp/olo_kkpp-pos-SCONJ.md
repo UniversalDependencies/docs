@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Livvi-KKPP: POS Tags: `SCONJ`
 
 There are 5 `SCONJ` lemmas (1%), 5 `SCONJ` types (1%) and 20 `SCONJ` tokens (1%).
-Out of 14 observed tags, the rank of `SCONJ` is: 13 in number of lemmas, 13 in number of types and 11 in number of tokens.
+Out of 14 observed tags, the rank of `SCONJ` is: 12 in number of lemmas, 13 in number of types and 11 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>ku, konzu, kui, ga, migu</em>
 
@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>kui</em> (<tt><a href="olo_kkpp-pos-S
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.333901).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.338462).
 
 The 1st highest number of forms (1) was observed with the lemma “Konzu”: <em>Konzu</em>.
 

@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: <tt><a href="en_gumreddit-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-137 nodes (1%) are attached to their parents as `acl`.
+136 nodes (1%) are attached to their parents as `acl`.
 
-132 instances of `acl` (96%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.09489051094891.
+131 instances of `acl` (96%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.11029411764706.
 
-The following 9 pairs of parts of speech are connected with `acl`: <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (97; 71% instances), <tt><a href="en_gumreddit-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (10; 7% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (8; 6% instances), <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (8; 6% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> (6; 4% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="en_gumreddit-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 10 pairs of parts of speech are connected with `acl`: <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (96; 71% instances), <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (10; 7% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (8; 6% instances), <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (8; 6% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> (5; 4% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="en_gumreddit-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -52,7 +52,7 @@ The following 9 pairs of parts of speech are connected with `acl`: <tt><a href="
 27	_	_	ADJ	JJ	Degree=Pos	28	amod	28:amod	Entity=(40-abstract-new-cf9-2-sgl|Lem=_|Len=3
 28	_	_	NOUN	NNS	Number=Plur	25	conj	23:obj|25:conj	Entity=40)|Lem=asset|Len=6|SpaceAfter=No
 29	_	_	PUNCT	,	_	30	punct	30:punct	Lem=_|Len=1
-30	_	_	NOUN	FW	Abbr=Yes	25	conj	23:obj|25:conj	Lem=_|Len=4
+30	_	_	NOUN	FW	Abbr=Yes|Number=Plur	25	conj	23:obj|25:conj	Lem=_|Len=4
 
 ~~~
 
@@ -63,35 +63,35 @@ The following 9 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 19	bgColor:blue
 # visual-style 19	fgColor:white
 # visual-style 19 21 acl	color:blue
-1	_	_	DET	DT	Definite=Def|PronType=Art	2	det	2:det	Discourse=causal-cause:11->15:1|Entity=(17-person-new-cf2-2-coref|Lem=*LOWER*|Len=3
+1	_	_	DET	DT	Definite=Def|PronType=Art	2	det	2:det	Discourse=causal-cause:11->15:1|Entity=(2-person-giv:inact-cf2-2-coref|Lem=*LOWER*|Len=3
 2	_	_	NOUN	NN	Number=Sing	11	nsubj	11:nsubj|16:nsubj|18:nsubj:xsubj	Lem=_|Len=5
 3	_	_	ADP	IN	_	4	case	4:case	Lem=_|Len=2
-4	_	_	NUM	CD	NumForm=Word|NumType=Card	2	nmod	2:nmod:of	Entity=(18-organization-new-cf7-1-sgl|Lem=_|Len=3
+4	_	_	NUM	CD	NumForm=Word|NumType=Card	2	nmod	2:nmod:of	Entity=(17-organization-new-cf7-1-sgl|Lem=_|Len=3
 5	_	_	ADP	IN	_	7	case	7:case	Lem=_|Len=2
-6	_	_	DET	DT	Definite=Def|PronType=Art	7	det	7:det	Entity=(19-organization-new-cf5-2-sgl|Lem=_|Len=3
-7	_	_	NOUN	NNS	Number=Plur	4	nmod	4:nmod:of	Entity=19)18)|Lem=business|Len=10
+6	_	_	DET	DT	Definite=Def|PronType=Art	7	det	7:det	Entity=(18-organization-new-cf5-2-sgl|Lem=_|Len=3
+7	_	_	NOUN	NNS	Number=Plur	4	nmod	4:nmod:of	Entity=18)17)|Lem=business|Len=10
 8	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	9:nsubj	Discourse=elaboration-attribute:12->11:0|Entity=(4-person-giv:act-cf1*-1-ana)|Lem=_|Len=1
-9	_	_	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	acl:relcl	7:acl:relcl	Entity=17)|Lem=_|Len=7
+9	_	_	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	acl:relcl	7:acl:relcl	Entity=2)|Lem=_|Len=7
 10	_	_	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	aux	11:aux	Discourse=same-unit_m:13->11:1|Lem=have|Len=3
 11	_	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	Lem=purchase|Len=9
-12	_	_	DET	DT	Definite=Ind|PronType=Art	14	det	14:det	Entity=(20-object-new-cf3-3-coref|Lem=_|Len=1
+12	_	_	DET	DT	Definite=Ind|PronType=Art	14	det	14:det	Entity=(19-object-new-cf3-3-coref|Lem=_|Len=1
 13	_	_	ADJ	JJ	Degree=Pos	14	amod	14:amod	Lem=_|Len=3
-14	_	_	NOUN	NN	Number=Sing	11	obj	11:obj	Entity=20)|Lem=_|Len=5
+14	_	_	NOUN	NN	Number=Sing	11	obj	11:obj	Entity=19)|Lem=_|Len=5
 15	_	_	CCONJ	CC	_	16	cc	16:cc	Discourse=joint-list_m:14->11:2|Lem=_|Len=3
 16	_	_	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	conj	11:conj:and	Lem=need|Len=6
 17	_	_	PART	TO	_	18	mark	18:mark	Lem=_|Len=2
 18	_	_	VERB	VB	VerbForm=Inf	16	xcomp	16:xcomp	Lem=_|Len=4
-19	_	_	SCONJ	WRB	PronType=Int	18	obj	18:obj	Lem=_|Len=3
+19	_	_	ADV	WRB	PronType=Int	18	obj	18:obj	Lem=_|Len=3
 20	_	_	PART	TO	_	21	mark	21:mark	Lem=_|Len=2
-21	_	_	VERB	VB	VerbForm=Inf	19	acl	19:acl:to	Entity=(21-event-new-cf8-1-disc|Lem=_|Len=8
+21	_	_	VERB	VB	VerbForm=Inf	19	acl	19:acl:to	Entity=(20-event-new-cf8-1-disc|Lem=_|Len=8
 22	_	_	ADJ	JJ	Degree=Pos	23	amod	23:amod	Entity=(3-abstract-giv:inact-cf4-2-coref|Lem=_|Len=9
 23	_	_	NOUN	NNS	Number=Plur	21	obj	21:obj	Entity=3)|Lem=datum|Len=4
 24	_	_	ADP	IN	_	25	case	25:case	Lem=_|Len=2
-25	_	_	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	21	obl	21:obl:to	Entity=(20-object-giv:act-cf3-1-ana)|Lem=_|Len=2
+25	_	_	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	21	obl	21:obl:to	Entity=(19-object-giv:act-cf3-1-ana)|Lem=_|Len=2
 26	_	_	ADP	IN	_	29	case	29:case	Lem=_|Len=4
-27	_	_	PRON	PRP$	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	29	nmod:poss	29:nmod:poss	Entity=(22-object-new-cf6-3-coref(17-person-giv:act-cf2-1-ana)|Lem=_|Len=3
+27	_	_	PRON	PRP$	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	29	nmod:poss	29:nmod:poss	Entity=(21-object-new-cf6-3-coref(2-person-giv:act-cf2-1-ana)|Lem=_|Len=3
 28	_	_	ADJ	JJ	Degree=Pos	29	amod	29:amod	Lem=_|Len=3
-29	_	_	NOUN	NN	Number=Sing	21	obl	21:obl:from	Entity=22)21)|Lem=_|Len=5|SpaceAfter=No
+29	_	_	NOUN	NN	Number=Sing	21	obl	21:obl:from	Entity=21)20)|Lem=_|Len=5|SpaceAfter=No
 30	_	_	PUNCT	.	_	11	punct	11:punct	Lem=_|Len=1
 
 ~~~
@@ -118,7 +118,7 @@ The following 9 pairs of parts of speech are connected with `acl`: <tt><a href="
 13	_	_	ADP	IN	_	14	case	14:case	Discourse=same-unit_m:4->2:1|Lem=_|Len=2
 14	_	_	NOUN	NN	Number=Sing	7	nmod	7:nmod:of	Entity=4)|Lem=_|Len=4|SpaceAfter=No
 15	_	_	PUNCT	,	_	7	punct	7:punct	Lem=_|Len=1
-16	_	_	SCONJ	WRB	PronType=Int	19	obl	19:obl:from	Discourse=topic-question:5->6:0|Lem=_|Len=5
+16	_	_	ADV	WRB	PronType=Int	19	obl	19:obl:from	Discourse=topic-question:5->6:0|Lem=_|Len=5
 17	_	_	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	aux	19:aux	Lem=be|Len=3
 18	_	_	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	19	nsubj	19:nsubj	Entity=(3-place-giv:act-cf1-1-ana)|Lem=_|Len=4
 19	_	_	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	Lem=borrow|Len=9

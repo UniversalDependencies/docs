@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-10 nodes (0%) are attached to their parents as `orphan`.
+11 nodes (0%) are attached to their parents as `orphan`.
 
-9 instances of `orphan` (90%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.
+9 instances of `orphan` (82%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.36363636363636.
 
-The following 6 pairs of parts of speech are connected with `orphan`: <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (4; 40% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (2; 20% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (1; 10% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (1; 10% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (1; 10% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (1; 10% instances).
+The following 7 pairs of parts of speech are connected with `orphan`: <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (4; 36% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (2; 18% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (1; 9% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (1; 9% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (1; 9% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (1; 9% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (1; 9% instances).
 
 
 ~~~ conllu
@@ -171,7 +171,7 @@ The following 6 pairs of parts of speech are connected with `orphan`: <tt><a hre
 127	den	de	ADP	Art	Number=Sing|PronType=Art	128	case	_	_
 128	Oireachtas	oireachtas	NOUN	Noun	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	125	nmod	_	_
 129	tar	tar	ADP	Cmpd	PrepForm=Cmpd	132	case	_	_
-130	éis	éis	NOUN	Cmpd	Case=Nom|Number=Sing|PrepForm=Cmpd	129	fixed	_	_
+130	éis	éis	NOUN	Cmpd	Case=Nom|Definite=Def|Number=Sing|PrepForm=Cmpd	129	fixed	_	_
 131	an	an	DET	Art	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	132	det	_	_
 132	dáta	dáta	NOUN	Noun	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	122	obl	_	_
 133	rite	rite	ADJ	Adj	VerbForm=Part	132	amod	_	_

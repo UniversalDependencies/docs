@@ -41,7 +41,7 @@ The most frequent other feature values with which `PRON` and `Definite` co-occur
 
 * `Def` (1; 50% of non-empty `Definite`): <em>her</em>
 * `Ind` (1; 50% of non-empty `Definite`): <em>nothing</em>
-* `EMPTY` (9626): <em>he, I, it, you, his, that, my, they, him, her</em>
+* `EMPTY` (9628): <em>he, I, it, you, his, that, my, they, him, her</em>
 
 ### `NOUN`
 
@@ -52,7 +52,7 @@ The most frequent other feature values with which `NOUN` and `Definite` co-occur
 `NOUN` tokens may have the following values of `Definite`:
 
 * `Ind` (1; 100% of non-empty `Definite`): <em>question</em>
-* `EMPTY` (16976): <em>data, man, time, field, way, people, father, page, eyes, file</em>
+* `EMPTY` (16977): <em>data, man, time, field, way, people, father, page, eyes, file</em>
 
 ## Relations with Agreement in `Definite`
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-25 nodes (2%) are attached to their parents as `dep`.
+26 nodes (3%) are attached to their parents as `dep`.
 
-18 instances of `dep` (72%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.96.
+19 instances of `dep` (73%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.92307692307692.
 
-The following 9 pairs of parts of speech are connected with `dep`: <tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="myu_tudet-pos-PART.html">PART</a></tt> (6; 24% instances), <tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt> (6; 24% instances), <tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt> (3; 12% instances), <tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myu_tudet-pos-PRON.html">PRON</a></tt> (2; 8% instances), <tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myu_tudet-pos-X.html">X</a></tt> (2; 8% instances), <tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt> (2; 8% instances), <tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="myu_tudet-pos-PRON.html">PRON</a></tt> (2; 8% instances), <tt><a href="myu_tudet-pos-AUX.html">AUX</a></tt>-<tt><a href="myu_tudet-pos-X.html">X</a></tt> (1; 4% instances), <tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="myu_tudet-pos-X.html">X</a></tt> (1; 4% instances).
+The following 9 pairs of parts of speech are connected with `dep`: <tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="myu_tudet-pos-PART.html">PART</a></tt> (6; 23% instances), <tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt> (6; 23% instances), <tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt> (3; 12% instances), <tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="myu_tudet-pos-PRON.html">PRON</a></tt> (3; 12% instances), <tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myu_tudet-pos-PRON.html">PRON</a></tt> (2; 8% instances), <tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myu_tudet-pos-X.html">X</a></tt> (2; 8% instances), <tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt> (2; 8% instances), <tt><a href="myu_tudet-pos-AUX.html">AUX</a></tt>-<tt><a href="myu_tudet-pos-X.html">X</a></tt> (1; 4% instances), <tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="myu_tudet-pos-X.html">X</a></tt> (1; 4% instances).
 
 
 ~~~ conllu

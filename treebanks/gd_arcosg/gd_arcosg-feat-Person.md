@@ -65,7 +65,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
   <tr><td><tt>_</tt></td><td></td><td></td><td><em>robhar</em></td></tr>
   <tr><td><tt><tt><a href="gd_arcosg-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt></tt></td><td><em>bhithinn</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="gd_arcosg-feat-Mood.html">Mood</a></tt><tt>=Imp</tt></tt></td><td><em>Bitheamaid</em></td><td><em>bi</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="gd_arcosg-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>robhar</em></td></tr>
+  <tr><td><tt><tt><a href="gd_arcosg-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>robhar, robhas</em></td></tr>
   <tr><td><tt><tt><a href="gd_arcosg-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>thathar, thathas, bheileas</em></td></tr>
 </table>
 

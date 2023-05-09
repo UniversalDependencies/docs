@@ -23,16 +23,16 @@ The following 9 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 9	fgColor:white
 # visual-style 9 10 xcomp	color:blue
 1	Роспись	роспись	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	wf="Роспись"|SpaceAfter=No
-2	,	,	PUNCT	_	_	3	punct	_	wf=","|SpaceAfter=Yes
-3	скол(ь)ко	сколько	NUM	_	Case=Nom|NumForm=Word|NumType=Card	1	acl	_	wf="сколько"|SpaceAfter=Yes
-4	судов	судъ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	3	nsubj	_	wf="судов"|SpaceAfter=Yes
-5	медных	мѣдный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	4	amod	_	wf="медных"|SpaceAfter=Yes
+2	,	,	PUNCT	_	_	3	punct	_	wf=","|_
+3	скол(ь)ко	сколько	NUM	_	Case=Nom|NumForm=Word|NumType=Card	1	acl	_	wf="сколько"|_
+4	судов	судъ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	3	nsubj	_	wf="судов"|_
+5	медных	мѣдный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	4	amod	_	wf="медных"|_
 6	худых	худой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	4	amod	_	wf="худых"|SpaceAfter=No
-7	,	,	PUNCT	_	_	9	punct	_	wf=","|SpaceAfter=Yes
-8	что	что	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	9	obj	_	wf="что"|SpaceAfter=Yes
-9	отдат(ь)	отдати	VERB	_	VerbForm=Inf|Voice=Act	4	acl:relcl	_	wf="отдать"|SpaceAfter=Yes
+7	,	,	PUNCT	_	_	9	punct	_	wf=","|_
+8	что	что	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	9	obj	_	wf="что"|_
+9	отдат(ь)	отдати	VERB	_	VerbForm=Inf|Voice=Act	4	acl:relcl	_	wf="отдать"|_
 10	делат(ь)	дѣлати	VERB	_	VerbForm=Inf|Voice=Act	9	xcomp	_	wf="делать"|SpaceAfter=No
-11	.	.	PUNCT	_	_	1	punct	_	wf="."|SpaceAfter=Yes
+11	.	.	PUNCT	_	_	1	punct	_	wf="."|_
 
 ~~~
 

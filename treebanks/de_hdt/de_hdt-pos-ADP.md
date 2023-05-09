@@ -59,7 +59,7 @@ The 10 most frequent ambiguous types:  <em>in</em> (<tt><a href="de_hdt-pos-ADP.
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 2.524629).
+The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 2.529657).
 
 The 1st highest number of forms (1) was observed with the lemma “Ab”: <em>Ab</em>.
 
@@ -80,7 +80,7 @@ Examples: <em>in, von, mit, zu, bei, an, auf, nach, aus, vor</em>
 
 `ADP` nodes are attached to their parents using 11 different relations: <tt><a href="de_hdt-dep-case.html">case</a></tt> (363871; 94% instances), <tt><a href="de_hdt-dep-compound-prt.html">compound:prt</a></tt> (20446; 5% instances), <tt><a href="de_hdt-dep-nmod.html">nmod</a></tt> (1323; 0% instances), <tt><a href="de_hdt-dep-conj.html">conj</a></tt> (24; 0% instances), <tt><a href="de_hdt-dep-obl.html">obl</a></tt> (17; 0% instances), <tt><a href="de_hdt-dep-reparandum.html">reparandum</a></tt> (16; 0% instances), <tt><a href="de_hdt-dep-advcl.html">advcl</a></tt> (12; 0% instances), <tt><a href="de_hdt-dep-root.html">root</a></tt> (12; 0% instances), <tt><a href="de_hdt-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="de_hdt-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="de_hdt-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 13 different parts of speech: <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (290070; 75% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> (48179; 12% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> (20289; 5% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (10645; 3% instances), <tt><a href="de_hdt-pos-X.html">X</a></tt> (5393; 1% instances), <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (5338; 1% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (2121; 1% instances), <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> (1999; 1% instances), <tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (1371; 0% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> (249; 0% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt> (53; 0% instances),  (12; 0% instances), <tt><a href="de_hdt-pos-INTJ.html">INTJ</a></tt> (5; 0% instances)
+Parents of `ADP` nodes belong to 13 different parts of speech: <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (290070; 75% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> (48179; 12% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> (20289; 5% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (5964; 2% instances), <tt><a href="de_hdt-pos-X.html">X</a></tt> (5392; 1% instances), <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (5302; 1% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt> (4863; 1% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (2028; 1% instances), <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> (2000; 1% instances), <tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (1371; 0% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> (249; 0% instances),  (12; 0% instances), <tt><a href="de_hdt-pos-INTJ.html">INTJ</a></tt> (5; 0% instances)
 
 384230 (100%) `ADP` nodes are leaves.
 

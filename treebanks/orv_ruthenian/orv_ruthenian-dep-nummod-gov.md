@@ -8,104 +8,130 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="orv_ruthenian-dep-nummod.html">nummod</a></tt>.
 
-1 nodes (0%) are attached to their parents as `nummod:gov`.
+13 nodes (0%) are attached to their parents as `nummod:gov`.
 
-1 instances of `nummod:gov` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.
+10 instances of `nummod:gov` (77%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.46153846153846.
 
-The following 1 pairs of parts of speech are connected with `nummod:gov`: <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (1; 100% instances).
+The following 3 pairs of parts of speech are connected with `nummod:gov`: <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (11; 85% instances), <tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (1; 8% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (1; 8% instances).
 
 
 ~~~ conllu
-# visual-style 82	bgColor:blue
-# visual-style 82	fgColor:white
-# visual-style 83	bgColor:blue
-# visual-style 83	fgColor:white
-# visual-style 83 82 nummod:gov	color:blue
-1	А	_	CCONJ	CC	_	6	cc	_	_
-2	за	_	ADP	IN	_	4	case	_	_
-3	таким	_	DET	DT	Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	_
-4	даньем	_	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	6	obl	_	_
-5	знать	_	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Act	4	nmod	_	_
-6	маемъ	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-7	мы	_	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	SpaceAfter=No
-8	,	_	PUNCT	PUNCT	_	9	punct	_	_
-9	г[о]с[по]д[а]ръ	_	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	vocative	_	SpaceAfter=No
-10	,	_	PUNCT	PUNCT	_	9	punct	_	_
-11	через	_	ADP	IN	_	12	case	_	_
-12	листъ	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	63	obl	_	_
-13	нашъ	_	DET	DT	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	12	det	_	_
-14	безъ	_	ADP	IN	_	16	case	_	_
-15	жадное	_	DET	DT	Case=Gen|Gender=Fem|Number=Sing|PronType=Neg	16	amod	_	_
-16	проволоки	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	63	obl	_	SpaceAfter=No
-17	,	_	PUNCT	PUNCT	_	22	punct	_	_
-18	а	_	CCONJ	CC	_	22	cc	_	_
-19	в	_	ADP	IN	_	20	case	_	_
-20	небытности	_	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	22	obl	_	_
-21	нашой	_	DET	PRP$	Case=Loc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	20	det	_	_
-22	маеть	_	VERB	NN	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	_
-23	воевода	_	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	22	nsubj	_	_
-24	або	_	CCONJ	CC	_	25	cc	_	_
-25	кашталянъ	_	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	23	conj	_	_
-26	через	_	ADP	IN	_	27	case	_	_
-27	листы	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	29	dep	_	_
-28	свои	_	DET	PRP$	Animacy=Inan|Case=Acc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	27	det	_	_
-29	старосте	_	NOUN	NN	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	22	xcomp	_	_
-30	поветовому	_	ADJ	JJL	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	29	amod	_	SpaceAfter=No
-31	,	_	PUNCT	PUNCT	_	32	punct	_	_
-32	врядникомъ	_	NOUN	NN	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	29	conj	_	_
-33	земъскимъ	_	ADJ	JJL	Case=Dat|Degree=Pos|Number=Plur	32	amod	_	_
-34	и	_	CCONJ	CC	_	35	cc	_	_
-35	шляхте	_	NOUN	NN	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	29	conj	_	_
-36	того	_	DET	DT	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	37	det	_	_
-37	повету	_	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	35	nmod	_	SpaceAfter=No
-38	,	_	PUNCT	PUNCT	_	40	punct	_	_
-39	а	_	CCONJ	CC	_	40	cc	_	_
-40	староста	_	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	conj	_	_
-41	жомоитъский	_	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	40	amod	_	_
-42	або	_	CCONJ	CC	_	44	cc	_	_
-43	тежъ	_	PART	UH	_	44	advmod	_	_
-44	кашталянъ	_	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	40	conj	_	_
-45	-	_	PUNCT	PUNCT	_	46	punct	_	_
-46	тивуномъ	_	NOUN	NN	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	40	orphan	_	SpaceAfter=No
-47	,	_	PUNCT	PUNCT	_	48	punct	_	_
-48	шляхте	_	NOUN	NN	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	46	conj	_	_
-49	и	_	CCONJ	CC	_	55	cc	_	_
-50	всякого	_	DET	DT	Case=Gen|Gender=Masc|Number=Sing|PronType=Tot	51	det	_	_
-51	стану	_	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	55	nmod	_	_
-52	оное	_	DET	DT	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	53	det	_	_
-53	земли	_	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	55	nmod	_	_
-54	Жомоитъское	_	ADJ	JJL	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	53	amod	_	_
-55	обывателемъ	_	NOUN	NN	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	46	conj	_	_
-56	также	_	ADV	RB	Degree=Pos	58	advmod	_	_
-57	через	_	ADP	IN	_	58	case	_	_
-58	листъ	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	40	orphan	_	_
-59	свой	_	DET	PRP$	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	58	det	_	_
-60	часъ	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	63	obj	_	_
-61	ку	_	ADP	IN	_	62	case	_	_
-62	зъехан[ь]ю	_	NOUN	NN	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	63	obl	_	_
-63	зложити	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	6	xcomp	_	SpaceAfter=No
-64	,	_	PUNCT	PUNCT	_	65	punct	_	_
-65	приславшы	_	VERB	VBG	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	63	advcl	_	_
-66	такий	_	DET	DT	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	67	det	_	_
-67	листъ	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	65	obj	_	_
-68	в	_	ADP	IN	_	70	case	_	_
-69	тотъ	_	DET	DT	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	70	det	_	_
-70	поветъ	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	65	obl	_	_
-71	до	_	ADP	IN	_	72	case	_	_
-72	вряду	_	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	65	obl	_	_
-73	кгродского	_	ADJ	JJL	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	72	amod	_	_
-74	передъ	_	ADP	IN	_	75	case	_	_
-75	часом	_	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	83	nmod	_	SpaceAfter=No
-76	,	_	PUNCT	PUNCT	_	79	punct	_	_
-77	на	_	ADP	IN	_	78	case	_	_
-78	то	_	PRON	DT	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	79	obl	_	_
-79	зложонымъ	_	VERB	JJL	Aspect=Perf|Case=Ins|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	75	acl	_	SpaceAfter=No
-80	,	_	PUNCT	PUNCT	_	79	punct	_	_
-81	за	_	ADP	IN	_	83	case	_	_
-82	чотыри	_	NUM	NN	Case=Acc|NumForm=Word|NumType=Card	83	nummod:gov	_	_
-83	недели	_	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	65	obl	_	SpaceAfter=No
-84	.	_	PUNCT	PUNCT	_	6	punct	_	SpacesAfter=\r\n
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 17	bgColor:blue
+# visual-style 17	fgColor:white
+# visual-style 17 16 nummod:gov	color:blue
+1	Ино	ино	CCONJ	_	_	2	cc	_	wf="Ино"
+2	възвесилъ	взвѣсити	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	wf="възвесилъ"
+3	Чернѧт(а)	Чернятъ	PROPN	_	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	2	nsubj	_	wf="Чернѧта"
+4	издес(е)	издѣсь	ADV	_	Degree=Pos	2	advmod	_	wf="издесе"
+5	тотъ	тотъ	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	wf="тотъ"
+6	воскъ	воскъ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	wf="воскъ"|SpaceAfter=No
+7	,	,	PUNCT	_	_	12	punct	_	_
+8	и	и	CCONJ	_	_	12	cc	_	wf="и"
+9	было	быти	AUX	_	Gender=Neut|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	12	cop	_	wf="было"
+10	оу	въ	ADP	_	_	12	case	_	wf="оу"
+11	томъ	тотъ	DET	_	Case=Loc|Gender=Masc|Number=Sing|PronType=Dem	12	det	_	wf="томъ"
+12	воску	воскъ	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	2	conj	_	wf="воску"
+13	лише	лише	PART	_	_	15	advmod	_	wf="лише"
+14	польтору	полтора	NUM	_	Case=Gen|Gender=Masc|NumForm=Word|NumType=Frac	15	nummod:gov	_	wf="польтору"
+15	беръковъска	берковскъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	12	nsubj	_	wf="беръковъска"
+16	полъдевѧта	полдевята	NUM	_	Case=Nom|Gender=Masc|NumForm=Word|NumType=Frac	17	nummod:gov	_	wf="полъдевѧта"
+17	пуду	пудъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	wf="пуду"|SpaceAfter=No
+18	.	.	PUNCT	_	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 23	bgColor:blue
+# visual-style 23	fgColor:white
+# visual-style 24	bgColor:blue
+# visual-style 24	fgColor:white
+# visual-style 24 23 nummod:gov	color:blue
+1	А	а	CCONJ	_	_	2	cc	_	wf="А"
+2	псан	писати	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	wf="псан"
+3	оу	въ	ADP	_	_	4	case	_	wf="оу"
+4	Полоцку	Полоцкъ	PROPN	_	Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	2	obl	_	wf="Полоцку"|SpaceAfter=No
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	оу	въ	ADP	_	_	7	case	_	wf="оу"
+7	четвергъ	четвергъ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	obl	_	wf="четвергъ"
+8	четвертоѣ	четвертый	ADJ	_	Case=Gen|Gender=Fem|Number=Sing|NumForm=Word|NumType=Ord	9	amod	_	wf="четвертоѣ"
+9	недли	недѣля	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	wf="недли"
+10	поста	постъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	wf="поста"
+11	марта	мартъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	wf="марта"
+12	оу	въ	ADP	_	_	14	case	_	wf="оу"
+13	шестыи	шестой	ADJ	_	Case=Acc|Gender=Masc|Number=Sing|NumForm=Word|NumType=Ord	14	amod	_	wf="шестыи"
+14	д(е)нь	день	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	nmod	_	wf="день"|SpaceAfter=No
+15	,	,	PUNCT	_	_	19	punct	_	_
+16	по	по	ADP	_	_	18	case	_	wf="по"
+17	Божьем	божий	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	18	amod	_	wf="Божьем"
+18	нароженьи	нарожение	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	19	obl	_	wf="нароженьи"
+19	вышло	выйти	VERB	_	Gender=Neut|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	2	conj	_	wf="вышло"
+20	лѣт	лѣто	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	19	nsubj	_	wf="лѣт"
+21	тисѧч(а)	тысяча	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	24	compound	_	wf="тисѧча"
+22	и	и	CCONJ	_	_	24	cc	_	wf="и"
+23	четыри	четыре	NUM	_	Case=Nom|Gender=Masc|NumForm=Word|NumType=Card	24	nummod:gov	_	wf="четыри"
+24	ста	сто	NUM	_	Case=Gen|NumForm=Word|NumType=Card	20	nummod:gov	_	wf="ста"
+25	безъ	безъ	ADP	_	_	27	case	_	wf="безъ"
+26	ѡдиног(о)	одиный	NUM	_	Case=Gen|Gender=Neut|Number=Sing|NumForm=Word|NumType=Card	27	nummod	_	wf="ѡдиного"
+27	лѣта	лѣто	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	24	nmod	_	wf="лѣта"|SpaceAfter=No
+28	.	.	PUNCT	_	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 nummod:gov	color:blue
+1	Б(ог)ъ	богъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	wf="Богъ"
+2	далъ	дати	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	wf="далъ"
+3	намъ	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	2	iobj	_	wf="намъ"
+4	всего	все	PRON	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Tot	2	obj	_	wf="всего"
+5	много	много	NUM	_	Case=Acc|NumForm=Word|NumType=Card	4	nummod:gov	_	wf="много"|SpaceAfter=No
+6	,	,	PUNCT	_	_	16	punct	_	_
+7	а	а	CCONJ	_	_	16	cc	_	wf="а"
+8	ныне	нынѣ	ADV	_	Degree=Pos	16	advmod	_	wf="ныне"
+9	язъ	азъ	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	16	nsubj	_	wf="язъ"
+10	и	и	CCONJ	_	_	12	cc	_	wf="и"
+11	своимъ	свой	DET	_	Case=Ins|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	12	det	_	wf="своимъ"
+12	братомъ	братъ	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	9	nmod	_	wf="братомъ"
+13	со	съ	ADP	_	_	14	case	_	wf="со"
+14	кн(ѧ)з(е)мъ	князь	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	12	appos	_	wf="кнѧземъ"
+15	Скирикгаиломъ	Скиригайло	PROPN	_	Case=Ins|Gender=Masc|NameType=Giv|Number=Sing	14	appos	_	wf="Скирикгаиломъ"
+16	оумыслили	умыслити	VERB	_	Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	2	conj	_	wf="оумыслили"
+17	есмы	быти	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	16	aux	_	wf="есмы"
+18	и	и	CCONJ	_	_	19	cc	_	wf="и"
+19	приимаемъ	приимати	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	16	conj	_	wf="приимаемъ"
+20	Б(ож)ии	божий	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	21	amod	_	wf="Божии"
+21	даръ	даръ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	19	obj	_	wf="даръ"
+22	ч(е)сно	честно	ADV	_	Degree=Pos	19	advmod	_	wf="чесно"
+23	по	по	ADP	_	_	25	case	_	wf="по"
+24	Б(ож)ью	божий	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	25	amod	_	wf="Божью"
+25	изволенью	изволение	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	19	obl	_	wf="изволенью"
+26	и	и	CCONJ	_	_	29	cc	_	wf="и"
+27	его	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	29	det	_	wf="его"
+28	тое	тотъ	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	29	det	_	wf="Пречистое"
+29	М(а)т(е)ри	мать	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	24	conj	_	wf="Матери"
+30	д(е)в(и)ци	дѣвица	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	29	appos	_	wf="девици"
+31	Б(огороди)ци	богородица	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	30	appos	_	wf="Богородици"
+32	М(а)рье	Марья	PROPN	_	Case=Dat|Gender=Fem|NameType=Giv|Number=Sing	31	appos	_	wf="Марье"|SpaceAfter=No
+33	,	,	PUNCT	_	_	38	punct	_	_
+34	ажь	аже	SCONJ	_	_	38	mark	_	wf="ажь"
+35	сѧ	ся	PRON	_	Analyt=Yes|PronType=Prs|Reflex=Yes	38	expl	_	wf="сѧ"
+36	намъ	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	38	iobj	_	wf="намъ"
+37	то	то	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	38	nsubj	_	wf="то"
+38	прилучило	прилучити	VERB	_	Gender=Neut|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	2	conj	_	wf="прилучило"
+39	тая	тотъ	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	40	det	_	wf="тая"
+40	вѣра	вѣра	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	41	obj	_	wf="вѣра"
+41	принѧти	приняти	VERB	_	VerbForm=Inf|Voice=Act	38	xcomp	_	wf="принѧти"
+42	и	и	CCONJ	_	_	43	cc	_	wf="и"
+43	держати	держати	VERB	_	VerbForm=Inf|Voice=Act	41	conj	_	wf="держати"|SpaceAfter=No
+44	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 

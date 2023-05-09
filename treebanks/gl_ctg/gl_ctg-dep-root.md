@@ -24,7 +24,7 @@ The following 10 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0 6 root	color:blue
 1	E	e	CCONJ	CC	_	6	cc	_	Treeler:et
 2	a	o	DET	DA0FS0	_	3	det	_	Treeler:spec
-3	quen	quen	PRON	PR0CC000	_	6	case	_	ToDo=case-upos|Treeler:cc
+3	quen	quen	PRON	PR0CC000	_	6	obl	_	ToDo=case-upos|Treeler:cc
 4	se	se	PRON	PP3CN000	_	6	iobj	_	Treeler:ci
 5	lle	lle	PRON	PP3CSD00	_	6	iobj	_	Treeler:ci
 6	pide	pedir	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
@@ -60,7 +60,7 @@ The following 10 pairs of parts of speech are connected with `root`: -<tt><a hre
 2	idea	idea	NOUN	NCFS000	_	4	nsubj	_	Treeler:suj
 3	é	ser	AUX	VSIP3S0	_	4	cop	_	Treeler:sentence
 4	boa	bo	ADJ	AQ0FS0	_	0	root	_	SpaceAfter=No|Treeler:atr
-5	,	,	PUNCT	Fc	_	4	punct	_	Treeler:f
+5	,	,	PUNCT	Fc	_	6	punct	_	Treeler:f
 6	pero	pero	CCONJ	CC	_	4	cc	_	ToDo=cc-without-conj|Treeler:coord
 7	é	ser	AUX	VSIP3S0	_	8	cop	_	Treeler:S
 8	difícil	difícil	ADJ	AQ0CS0	_	4	ccomp	_	Treeler:atr

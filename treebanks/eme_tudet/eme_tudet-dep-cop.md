@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-54 nodes (4%) are attached to their parents as `cop`.
+59 nodes (3%) are attached to their parents as `cop`.
 
-31 instances of `cop` (57%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.12962962962963.
+36 instances of `cop` (61%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.11864406779661.
 
-The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eme_tudet-pos-AUX.html">AUX</a></tt> (40; 74% instances), <tt><a href="eme_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="eme_tudet-pos-AUX.html">AUX</a></tt> (6; 11% instances), <tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="eme_tudet-pos-AUX.html">AUX</a></tt> (5; 9% instances), <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-AUX.html">AUX</a></tt> (2; 4% instances), <tt><a href="eme_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="eme_tudet-pos-AUX.html">AUX</a></tt> (1; 2% instances).
+The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eme_tudet-pos-AUX.html">AUX</a></tt> (43; 73% instances), <tt><a href="eme_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="eme_tudet-pos-AUX.html">AUX</a></tt> (7; 12% instances), <tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="eme_tudet-pos-AUX.html">AUX</a></tt> (5; 8% instances), <tt><a href="eme_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="eme_tudet-pos-AUX.html">AUX</a></tt> (2; 3% instances), <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-AUX.html">AUX</a></tt> (2; 3% instances).
 
 
 ~~~ conllu

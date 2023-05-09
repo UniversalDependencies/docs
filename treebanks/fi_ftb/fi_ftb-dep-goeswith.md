@@ -13,35 +13,23 @@ This relation is universal.
 7 instances of `goeswith` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (3; 43% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (2; 29% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (1; 14% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (1; 14% instances).
+The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ftb-pos-X.html">X</a></tt> (5; 71% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_ftb-pos-X.html">X</a></tt> (2; 29% instances).
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 10 goeswith	color:blue
-1	Kun	kun	SCONJ	Pcle,CS	_	12	mark	_	_
-2	tusina	tusina	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	4	nmod	_	_
-3	Chopinin	chopin	PROPN	N,Prop,Sg,Gen	Case=Gen|Number=Sing	4	nmod	_	_
-4	preludeja	preludi	NOUN	N,Pl,Par	Case=Par|Number=Plur	12	obj	_	_
-5	,	,	PUNCT	Pun	_	4	punct	_	FTB-rel=phrm
-6	pari	pari	NUM	Num,Card,Sg,Nom	Case=Nom|Number=Sing|NumType=Card	7	nummod	_	_
-7	valssia	valssi	NOUN	N,Sg,Par	Case=Par|Number=Sing	4	conj	_	_
-8	ja	ja	CCONJ	Pcle,CC	_	9	cc	_	Was18goes=cc:10
-9	b-molli	b-molli	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	4	conj	_	Alt=goeswith|Was18gor=10
-10	skertso	skertso	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	9	goeswith	_	Was18gow=4:conj
-11	oli	olla	AUX	V,Act,Ind,Past,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	aux	_	_
-12	singottu	singota	VERB	V,Pass,PcpNut,Sg,Nom	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Pass	19	advcl	_	_
-13	kirkkosaliin	kirkkosali	NOUN	N,Sg,Ill	Case=Ill|Number=Sing	12	nmod	_	_
-14	,	,	PUNCT	Pun	_	13	punct	_	_
-15	olokin	olo	NOUN	N,Sg,Nom,Kin	Case=Nom|Clitic=Kin|Number=Sing	19	nsubj:cop	_	_
-16	alkoi	alkaa	AUX	V,Act,Ind,Past,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	19	aux	_	_
-17	olla	olla	AUX	V,Act,InfA,Lat	Case=Lat|InfForm=1|VerbForm=Inf|Voice=Act	19	cop	_	_
-18	kiusallisen	kiusallinen	ADJ	A,Sg,Gen	Case=Gen|Number=Sing	19	amod	_	_
-19	mukava	mukava	ADJ	A,Sg,Nom	Case=Nom|Number=Sing	0	root	_	_
-20	.	.	PUNCT	Pun	_	19	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 goeswith	color:blue
+1	Favora	Favora-ihogeeli	NOUN	N,Prop,Sg,Nom	Case=Nom|Number=Sing|Typo=Yes	3	nsubj	_	Alt=goeswith|Was18gor=2
+2	ihogeeli	_	X	_	_	1	goeswith	_	Was18gow=3:nsubj
+3	levittyy	levittyä	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	keveästi	keveästi	ADV	Adv	_	3	advmod	_	_
+5	ja	ja	CCONJ	Pcle,CC	_	6	cc	_	_
+6	imeytyy	imeytyä	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+7	nopeasti	nopeasti	ADV	Adv	_	6	advmod	_	_
+8	.	.	PUNCT	Pun	_	7	punct	_	_
 
 ~~~
 
@@ -54,34 +42,9 @@ The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 3 4 goeswith	color:blue
 1	Siis	siis	PART	Pcle	_	3	advmod	_	Was18goes=advmod:4
 2	semmosta	semmoinen	DET	A,Dem,Sg,Par	Case=Par|Number=Sing|PronType=Dem	3	amod	_	Alt=DET|Was18goes=amod:4
-3	ruokaruoka	ruokaruoka	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	0	root	_	Alt=goeswith|Was18gor=4
-4	tyyppistä	tyyppinen	ADJ	A,Sg,Par	Case=Par|Number=Sing	3	goeswith	_	Was18gow=0:root
+3	ruokaruoka	ruokaruoka-tyyppinen	ADJ	A,Sg,Nom	Case=Par|Number=Sing|Typo=Yes	0	root	_	Alt=goeswith|Was18gor=4
+4	tyyppistä	_	X	_	_	3	goeswith	_	Was18gow=0:root
 5	.	.	PUNCT	Pun	_	3	punct	_	Was18goes=punct:4
-
-~~~
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 8 goeswith	color:blue
-1	Passissa	passi	NOUN	N,Sg,Ine	Case=Ine|Number=Sing	3	nmod	_	_
-2	hänellä	hän	PRON	Pron,Pers,Sg3,Ade	Case=Ade|Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
-3	lukee	lukea	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-4	syntymäpaikkana	syntymäpaikka	NOUN	N,Sg,Ess	Case=Ess|Number=Sing	3	nmod	_	_
-5	Wiipuri	wiipuri	PROPN	N,Prop,Sg,Nom	Case=Nom|Number=Sing	3	nsubj	_	_
-6	,	,	PUNCT	Pun	_	5	punct	_	_
-7	tupla	tupla	ADJ	A	_	5	nmod	_	Alt=goeswith|Was18gor=8
-8	veellä	vee	NOUN	N,Sg,Ade	Case=Ade|Number=Sing	7	goeswith	_	Was18gow=5:nmod
-9	,	,	PUNCT	Pun	_	7	punct	_	Was18goes=punct:8
-10	ja	ja	CCONJ	Pcle,CC	_	14	cc	_	_
-11	siitä	se	PRON	Pron,Dem,Sg,Ela	Case=Ela|Number=Sing|PronType=Dem	14	nmod	_	_
-12	hän	hän	PRON	Pron,Pers,Sg3,Nom	Case=Nom|Number=Sing|Person=3|PronType=Prs	14	nsubj:cop	_	_
-13	on	olla	AUX	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	cop	_	_
-14	ylpeä	ylpeä	ADJ	A,Sg,Nom	Case=Nom|Number=Sing	3	conj	_	_
-15	.	.	PUNCT	Pun	_	14	punct	_	_
 
 ~~~
 

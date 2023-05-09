@@ -30,7 +30,7 @@ The following 6 pairs of parts of speech are connected with `flat`: <tt><a href=
 6	qui	qui	PRON	p|p|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	10	nsubj	_	_
 7	hunc	hic	DET	p|p|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	8	det	_	_
 8	libellum	libellus	NOUN	n|n|-|s|-|-|-|m|a|-	Case=Acc|Degree=Dim|Gender=Masc|Number=Sing	9	nsubj:pass	_	_
-9	fieri	fio	VERB	v|v|-|-|p|n|p|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Pass	10	ccomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+9	fieri	fio	VERB	v|v|-|-|p|n|p|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Pass	10	ccomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 10	rogavit	rogo	VERB	v|v|3|s|r|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	acl:relcl	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Perfectum
 11	.	.	PUNCT	Punc	_	1	punct	_	_
 
@@ -87,7 +87,7 @@ The following 6 pairs of parts of speech are connected with `flat`: <tt><a href=
 11	tibi	tu	PRON	p|p|2|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	14	obl:arg	_	_
 12	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	13	case	_	_
 13	comutatione	commutatio	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	14	obl	_	_
-14	dare	do	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	15	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+14	dare	do	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	15	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 15	videor	uideo	VERB	v|v|1|s|p|i|p|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 16	.	.	PUNCT	Punc	_	15	punct	_	_
 

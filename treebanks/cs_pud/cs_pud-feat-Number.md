@@ -15,18 +15,18 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 10440 tokens (56%) have a non-empty value of `Number`.
 6631 types (88%) occur at least once with a non-empty value of `Number`.
 4303 lemmas (81%) occur at least once with a non-empty value of `Number`.
-The feature is used with 9 part-of-speech tags: <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (4321; 23% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (2231; 12% instances), <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (1427; 8% instances), <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> (903; 5% instances), <tt><a href="cs_pud-pos-DET.html">DET</a></tt> (700; 4% instances), <tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> (567; 3% instances), <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> (150; 1% instances), <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> (140; 1% instances), <tt><a href="cs_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The feature is used with 9 part-of-speech tags: <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (4322; 23% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (2230; 12% instances), <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (1428; 8% instances), <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> (903; 5% instances), <tt><a href="cs_pud-pos-DET.html">DET</a></tt> (700; 4% instances), <tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> (566; 3% instances), <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> (150; 1% instances), <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> (140; 1% instances), <tt><a href="cs_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-4321 <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> tokens (96% of all `NOUN` tokens) have a non-empty value of `Number`.
+4322 <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> tokens (96% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (4313; 100%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2412; 56%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (4314; 100%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2413; 56%).
 
 `NOUN` tokens may have the following values of `Number`:
 
 * `Dual` (1; 0% of non-empty `Number`): <em>ušima</em>
-* `Plur` (1231; 28% of non-empty `Number`): <em>let, letech, lidí, dolarů, eur, liber, lidé, voleb, obyvatel, dat</em>
+* `Plur` (1232; 29% of non-empty `Number`): <em>let, letech, lidí, dolarů, eur, liber, lidé, voleb, obyvatel, dat</em>
 * `Sing` (3089; 71% of non-empty `Number`): <em>roce, roku, století, době, oblasti, l, moře, války, území, místo</em>
 * `EMPTY` (161): <em>DNA, GCA, MPS, Pebe, Really, m, my, t, A, AIDS</em>
 
@@ -45,14 +45,14 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 ### `ADJ`
 
-2231 <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> tokens (98% of all `ADJ` tokens) have a non-empty value of `Number`.
+2230 <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> tokens (98% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (2062; 92%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1817; 81%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1817; 81%), <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1749; 78%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1363; 61%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (2061; 92%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1815; 81%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1815; 81%), <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1749; 78%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1362; 61%).
 
 `ADJ` tokens may have the following values of `Number`:
 
 * `Dual` (1; 0% of non-empty `Number`): <em>nastraženýma</em>
-* `Plur` (718; 32% of non-empty `Number`): <em>další, nové, posledních, Spojených, různých, dalších, jiných, malé, nových, první</em>
+* `Plur` (717; 32% of non-empty `Number`): <em>další, nové, posledních, Spojených, různých, dalších, jiných, malé, nových, první</em>
 * `Plur,Sing` (53; 2% of non-empty `Number`): <em>poražena, vytvořena, založena, chráněna, definována, dána, hlášena, kritizována, obviněna, odstraněna</em>
 * `Sing` (1459; 65% of non-empty `Number`): <em>první, druhé, jižní, severní, další, hlavní, velká, větší, nové, velké</em>
 * `EMPTY` (39): <em>The, National, El, New, Saint, San, a, American, Beverly, Canadian</em>
@@ -71,15 +71,15 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 ### `VERB`
 
-1427 <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> tokens (83% of all `VERB` tokens) have a non-empty value of `Number`.
+1428 <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> tokens (83% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1425; 100%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1338; 94%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1240; 87%), <tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (880; 62%), <tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (880; 62%), <tt><a href="cs_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (878; 62%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (877; 61%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1426; 100%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1339; 94%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1241; 87%), <tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (880; 62%), <tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (880; 62%), <tt><a href="cs_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (878; 61%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (877; 61%).
 
 `VERB` tokens may have the following values of `Number`:
 
 * `Plur` (368; 26% of non-empty `Number`): <em>mohou, mají, měly, existují, mohli, musíme, musíte, měli, můžou, poskytují</em>
 * `Plur,Sing` (201; 14% of non-empty `Number`): <em>stala, uvedla, mohla, vedla, měla, ukázala, vydala, začala, řekla, umožnila</em>
-* `Sing` (858; 60% of non-empty `Number`): <em>řekl, má, může, říká, mohl, měl, stal, lze, obsahuje, vedl</em>
+* `Sing` (859; 60% of non-empty `Number`): <em>řekl, má, může, říká, mohl, měl, stal, lze, obsahuje, vedl</em>
 * `EMPTY` (291): <em>mít, vidět, získat, najít, opustit, pokračovat, stát, vést, dělat, muset</em>
 
 <table>
@@ -156,15 +156,15 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 ### `AUX`
 
-567 <tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> tokens (83% of all `AUX` tokens) have a non-empty value of `Number`.
+566 <tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> tokens (83% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (563; 99%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (517; 91%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (307; 54%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (307; 54%), <tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (303; 53%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (562; 99%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (516; 91%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (306; 54%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (306; 54%), <tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (302; 53%).
 
 `AUX` tokens may have the following values of `Number`:
 
 * `Plur` (119; 21% of non-empty `Number`): <em>jsou, byly, byli, jsme, budou, nebyly, budeme, jste, nebudou, nejsou</em>
 * `Plur,Sing` (53; 9% of non-empty `Number`): <em>byla, nebyla</em>
-* `Sing` (395; 70% of non-empty `Number`): <em>je, byl, bylo, bude, jsem, není, nebude, nebyl, budu, bych</em>
+* `Sing` (394; 70% of non-empty `Number`): <em>je, byl, bylo, bude, jsem, není, nebude, nebyl, budu, bych</em>
 * `EMPTY` (117): <em>by, být</em>
 
 <table>
@@ -190,7 +190,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
   <tr><td><tt><tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_pud-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>nebude</em></td><td><em>nebudou</em></td></tr>
   <tr><td><tt><tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>není</em></td><td><em>nejsou</em></td></tr>
   <tr><td><tt><tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_pud-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>bude</em></td><td><em>budou</em></td></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>je, nese</em></td><td><em>jsou</em></td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>je</em></td><td><em>jsou</em></td></tr>
 </table>
 
 ### `PRON`
@@ -264,14 +264,14 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="cs_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1703; 99%),
+<tt>NOUN --[<tt><a href="cs_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1704; 99%),
 <tt>NOUN --[<tt><a href="cs_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (667; 60%),
-<tt>VERB --[<tt><a href="cs_pud-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (382; 73%),
+<tt>VERB --[<tt><a href="cs_pud-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (383; 73%),
 <tt>NOUN --[<tt><a href="cs_pud-dep-det.html">det</a></tt>]--> DET</tt> (321; 78%),
 <tt>NOUN --[<tt><a href="cs_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (192; 75%),
 <tt>VERB --[<tt><a href="cs_pud-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (175; 80%),
 <tt>NOUN --[<tt><a href="cs_pud-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (168; 55%),
 <tt>ADJ --[<tt><a href="cs_pud-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (146; 89%),
-<tt>VERB --[<tt><a href="cs_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (130; 78%),
+<tt>VERB --[<tt><a href="cs_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (131; 78%),
 <tt>ADJ --[<tt><a href="cs_pud-dep-cop.html">cop</a></tt>]--> AUX</tt> (128; 86%).
 

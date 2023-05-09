@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Turkish-GB: Relations: `nsubj:cop`
 
 This relation is a language-specific subtype of <tt><a href="tr_gb-dep-nsubj.html">nsubj</a></tt>.
+There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="tr_gb-dep-nsubj-outer.html">nsubj:outer</a></tt>.
 
-25 nodes (0%) are attached to their parents as `nsubj:cop`.
+23 nodes (0%) are attached to their parents as `nsubj:cop`.
 
-24 instances of `nsubj:cop` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.4.
+22 instances of `nsubj:cop` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.34782608695652.
 
-The following 10 pairs of parts of speech are connected with `nsubj:cop`: <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> (7; 28% instances), <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> (5; 20% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> (5; 20% instances), <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt> (2; 8% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt> (1; 4% instances), <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt> (1; 4% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-NUM.html">NUM</a></tt> (1; 4% instances).
+The following 10 pairs of parts of speech are connected with `nsubj:cop`: <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> (7; 30% instances), <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> (5; 22% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> (3; 13% instances), <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt> (2; 9% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt> (1; 4% instances), <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt> (1; 4% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-NUM.html">NUM</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -50,20 +51,16 @@ The following 10 pairs of parts of speech are connected with `nsubj:cop`: <tt><a
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 4 nsubj:cop	color:blue
-1	Bir	bir	DET	_	Definite=Ind|PronType=Art	4	det	_	_
-2	önemli	önemli	ADJ	_	_	4	amod	_	_
-3	toplumsal	toplumsal	ADJ	_	_	4	amod	_	_
-4	sorunumuz	sorun	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=1	7	nsubj:cop	_	_
-5	da	de	ADV	_	_	4	advmod:emph	_	_
-6	ailenin	aile	NOUN	_	Case=Gen|Number=Sing	7	nsubj	_	_
-7	dağılması	dağıl	VERB	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3|VerbForm=Vnoun	0	root	_	_
-8	dır	i	AUX	_	Mood=Gen|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
-9	.	.	PUNCT	_	_	7	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 nsubj:cop	color:blue
+1	Amaç	amaç	NOUN	_	Case=Nom|Number=Sing	3	nsubj:cop	_	_
+2	birbirimizi	birbir	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Rcp	3	obj	_	_
+3	görmek	gör	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	0	root	_	_
+4	ti	i	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
+5	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

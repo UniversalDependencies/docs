@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>because</em> (<tt><a href="pcm_nsc-po
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.523810 (the average of all parts of speech is 1.162888).
+The form / lemma ratio of `SCONJ` is 1.523810 (the average of all parts of speech is 1.162376).
 
 The 1st highest number of forms (8) was observed with the lemma “wey”: <em>meh, mey, sey, wah, weh, wen, wey, who</em>.
 

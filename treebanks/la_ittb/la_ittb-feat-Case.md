@@ -12,24 +12,24 @@ It occurs with 7 different values: `Abl`, `Acc`, `Dat`, `Gen`, `Loc`, `Nom`, `Vo
 189030 tokens (42%) have a non-empty value of `Case`.
 12475 types (63%) occur at least once with a non-empty value of `Case`.
 4050 lemmas (71%) occur at least once with a non-empty value of `Case`.
-The feature is used with 9 part-of-speech tags: <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (88403; 20% instances), <tt><a href="la_ittb-pos-DET.html">DET</a></tt> (28051; 6% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (27794; 6% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (22190; 5% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (16377; 4% instances), <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> (5463; 1% instances), <tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (387; 0% instances), <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (190; 0% instances), <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> (175; 0% instances).
+The feature is used with 9 part-of-speech tags: <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (88373; 20% instances), <tt><a href="la_ittb-pos-DET.html">DET</a></tt> (28048; 6% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (27818; 6% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (22193; 5% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (16384; 4% instances), <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> (5462; 1% instances), <tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (387; 0% instances), <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (190; 0% instances), <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> (175; 0% instances).
 
 ### `NOUN`
 
-88403 <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Case`.
+88373 <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (74181; 84%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (49120; 56%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (74157; 84%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (49105; 56%).
 
 `NOUN` tokens may have the following values of `Case`:
 
-* `Abl` (17638; 20% of non-empty `Case`): <em>actu, forma, modo, materia, potentia, rebus, ratione, intellectu, corpore, uirtute</em>
-* `Acc` (22299; 25% of non-empty `Case`): <em>formam, finem, naturam, modum, intellectum, materiam, rationem, speciem, animam, actum</em>
-* `Dat` (2937; 3% of non-empty `Case`): <em>corpori, homini, formae, rebus, hominibus, materiae, rei, corporibus, animae, naturae</em>
-* `Gen` (15468; 17% of non-empty `Case`): <em>hominis, formae, rerum, corporis, naturae, intellectus, rei, animae, materiae, speciei</em>
+* `Abl` (17633; 20% of non-empty `Case`): <em>actu, forma, modo, materia, potentia, rebus, ratione, intellectu, corpore, uirtute</em>
+* `Acc` (22289; 25% of non-empty `Case`): <em>formam, finem, naturam, modum, intellectum, materiam, rationem, speciem, animam, actum</em>
+* `Dat` (2936; 3% of non-empty `Case`): <em>corpori, homini, formae, rebus, hominibus, materiae, rei, corporibus, animae, naturae</em>
+* `Gen` (15474; 18% of non-empty `Case`): <em>hominis, formae, rerum, corporis, naturae, intellectus, rei, animae, materiae, speciei</em>
 * `Loc` (932; 1% of non-empty `Case`): <em>amplius, uero, similiter, primo, secundo, tertio, praecipue, forte, minus, prius</em>
-* `Nom` (29092; 33% of non-empty `Case`): <em>forma, intellectus, homo, anima, causa, materia, corpus, substantia, actus, finis</em>
+* `Nom` (29072; 33% of non-empty `Case`): <em>forma, intellectus, homo, anima, causa, materia, corpus, substantia, actus, finis</em>
 * `Voc` (37; 0% of non-empty `Case`): <em>domine, deus, israel, pater, anania, male, altitudo, angeli, ministri, plene</em>
-* `EMPTY` (1878): <em>esse, gen., sap., cap., trin., prouerb., act., dist., nom., apoc.</em>
+* `EMPTY` (1876): <em>esse, gen., sap., cap., trin., prouerb., act., dist., nom., apoc.</em>
 
 <table>
   <tr><th>Paradigm <i>uirtus</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Voc</tt></th><th><tt>Abl</tt></th></tr>
@@ -39,14 +39,14 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `DET`
 
-28051 <tt><a href="la_ittb-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `Case`.
+28048 <tt><a href="la_ittb-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="la_ittb-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (25142; 90%), <tt><a href="la_ittb-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (25118; 90%), <tt><a href="la_ittb-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (24689; 88%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (21256; 76%), <tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt> (21008; 75%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="la_ittb-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (25139; 90%), <tt><a href="la_ittb-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (25115; 90%), <tt><a href="la_ittb-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (24686; 88%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (21254; 76%), <tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt> (21005; 75%).
 
 `DET` tokens may have the following values of `Case`:
 
-* `Abl` (5557; 20% of non-empty `Case`): <em>hoc, his, ipso, alio, aliis, sua, omnibus, aliquo, uno, hac</em>
-* `Acc` (7901; 28% of non-empty `Case`): <em>hoc, suam, omnia, ipsum, aliquam, illud, suum, unum, alia, omnes</em>
+* `Abl` (5555; 20% of non-empty `Case`): <em>hoc, his, ipso, alio, aliis, sua, omnibus, aliquo, uno, hac</em>
+* `Acc` (7900; 28% of non-empty `Case`): <em>hoc, suam, omnia, ipsum, aliquam, illud, suum, unum, alia, omnes</em>
 * `Dat` (1004; 4% of non-empty `Case`): <em>aliis, omnibus, huic, alteri, his, illi, alicui, unicuique, suae, cuilibet</em>
 * `Gen` (3398; 12% of non-empty `Case`): <em>ipsius, omnium, huius, suae, alicuius, illius, alterius, totius, unius, sui</em>
 * `Loc` (57; 0% of non-empty `Case`): <em>solum, aliter, hic, plus, qualiter</em>
@@ -75,17 +75,17 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 
 ### `ADJ`
 
-27794 <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> tokens (97% of all `ADJ` tokens) have a non-empty value of `Case`.
+27818 <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> tokens (97% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (24808; 89%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (21108; 76%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (24831; 89%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (21129; 76%).
 
 `ADJ` tokens may have the following values of `Case`:
 
-* `Abl` (4328; 16% of non-empty `Case`): <em>diuina, primo, christo, naturali, diuersis, naturalibus, superioribus, nouo, inferioribus, humana</em>
-* `Acc` (5934; 21% of non-empty `Case`): <em>diuinam, humanam, ultimum, propriam, primum, infinitum, naturalem, proprium, sanctum, primam</em>
-* `Dat` (814; 3% of non-empty `Case`): <em>diuinae, humanae, sancto, christo, naturali, primo, diuersis, intellectualibus, singulis, humano</em>
-* `Gen` (3781; 14% of non-empty `Case`): <em>christi, diuinae, humanae, caelestium, uniuersi, primi, sancti, naturalis, sensibilium, intellectualis</em>
-* `Nom` (12930; 47% of non-empty `Case`): <em>impossibile, diuina, manifestum, prima, humana, possibile, possibilis, christus, necessarium, primum</em>
+* `Abl` (4332; 16% of non-empty `Case`): <em>diuina, primo, christo, naturali, diuersis, naturalibus, superioribus, nouo, inferioribus, humana</em>
+* `Acc` (5941; 21% of non-empty `Case`): <em>diuinam, humanam, ultimum, propriam, primum, infinitum, naturalem, proprium, sanctum, primam</em>
+* `Dat` (815; 3% of non-empty `Case`): <em>diuinae, humanae, sancto, christo, naturali, primo, diuersis, intellectualibus, singulis, humano</em>
+* `Gen` (3782; 14% of non-empty `Case`): <em>christi, diuinae, humanae, caelestium, uniuersi, primi, sancti, naturalis, sensibilium, intellectualis</em>
+* `Nom` (12941; 47% of non-empty `Case`): <em>impossibile, diuina, manifestum, prima, humana, possibile, possibilis, christus, necessarium, primum</em>
 * `Voc` (7; 0% of non-empty `Case`): <em>praecipue, maxime, immediate, manifeste</em>
 * `EMPTY` (810): <em>necesse, cor., rom., ult., metaph., philipp., hebr., physic., eccli., metaphys.</em>
 
@@ -114,18 +114,18 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 ### `PRON`
 
-22190 <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> tokens (98% of all `PRON` tokens) have a non-empty value of `Case`.
+22193 <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> tokens (98% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="la_ittb-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (19690; 89%), <tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt> (19001; 86%), <tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (17343; 78%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14202; 64%), <tt><a href="la_ittb-feat-PronType.html">PronType</a></tt><tt>=Rel</tt> (11316; 51%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="la_ittb-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (19693; 89%), <tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt> (19004; 86%), <tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (17346; 78%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14204; 64%), <tt><a href="la_ittb-feat-PronType.html">PronType</a></tt><tt>=Rel</tt> (11317; 51%).
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Abl` (3427; 15% of non-empty `Case`): <em>quo, eo, quibus, qua, se, nobis, eis, ea, aliquo, seipso</em>
-* `Acc` (5640; 25% of non-empty `Case`): <em>se, quod, aliquid, quam, quae, ea, seipsum, id, eam, eum</em>
+* `Abl` (3428; 15% of non-empty `Case`): <em>quo, eo, quibus, qua, se, nobis, eis, ea, aliquo, seipso</em>
+* `Acc` (5641; 25% of non-empty `Case`): <em>se, quod, aliquid, quam, quae, ea, seipsum, id, eam, eum</em>
 * `Dat` (1537; 7% of non-empty `Case`): <em>ei, sibi, nobis, eis, cui, alicui, quibus, uobis, mihi, tibi</em>
 * `Gen` (2513; 11% of non-empty `Case`): <em>eius, eorum, cuius, quorum, alicuius, earum, sui, quarum, aliquorum, earumque</em>
-* `Nom` (9073; 41% of non-empty `Case`): <em>quae, quod, qui, aliquid, aliquis, id, ea, quis, quid, ego</em>
-* `EMPTY` (504): <em>nihil, me, nil, quae, te</em>
+* `Nom` (9074; 41% of non-empty `Case`): <em>quae, quod, qui, aliquid, aliquis, id, ea, quis, quid, ego</em>
+* `EMPTY` (503): <em>nihil, me, quae, te, nil</em>
 
 <table>
   <tr><th>Paradigm <i>qui</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Abl</tt></th></tr>
@@ -145,18 +145,18 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 ### `VERB`
 
-16377 <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> tokens (27% of all `VERB` tokens) have a non-empty value of `Case`.
+16384 <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> tokens (27% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="la_ittb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (16377; 100%), <tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (16377; 100%), <tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (16377; 100%), <tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (16377; 100%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12229; 75%), <tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (11480; 70%), <tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (8889; 54%), <tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=LatX</tt> (8758; 53%), <tt><a href="la_ittb-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=IndEurO</tt> (8214; 50%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="la_ittb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (16384; 100%), <tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (16384; 100%), <tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (16384; 100%), <tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (16384; 100%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12233; 75%), <tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (11485; 70%), <tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (8894; 54%), <tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=LatX</tt> (8761; 53%), <tt><a href="la_ittb-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=IndEurO</tt> (8217; 50%).
 
 `VERB` tokens may have the following values of `Case`:
 
-* `Abl` (2791; 17% of non-empty `Case`): <em>dictis, praemissis, praedictis, agente, agendo, intelligendo, mediante, separatis, creatis, cognoscendo</em>
-* `Acc` (2986; 18% of non-empty `Case`): <em>separatas, consequens, agentem, mouens, praedictam, agendum, determinatum, factum, dicendum, determinatam</em>
+* `Abl` (2792; 17% of non-empty `Case`): <em>dictis, praemissis, praedictis, agente, agendo, intelligendo, mediante, separatis, creatis, cognoscendo</em>
+* `Acc` (2989; 18% of non-empty `Case`): <em>separatas, consequens, agentem, mouens, praedictam, agendum, determinatum, factum, dicendum, determinatam</em>
 * `Dat` (368; 2% of non-empty `Case`): <em>praedictae, praedictis, creatis, existenti, agenti, habenti, peccantibus, separatis, existentibus, creatae</em>
 * `Gen` (1781; 11% of non-empty `Case`): <em>separatae, agentis, mouentis, uiuendi, intelligentis, generantis, resurgentium, separatarum, existentis, mixti</em>
 * `Loc` (14; 0% of non-empty `Case`): <em>consequens, contingenter, deficienter, differenter, aperte, consequenter, diuisim, expressius, mediate, unite</em>
-* `Nom` (8434; 51% of non-empty `Case`): <em>ostensum, dicendum, dictum, probatum, agens, mouens, conueniens, separatae, separata, habens</em>
+* `Nom` (8437; 51% of non-empty `Case`): <em>ostensum, dicendum, dictum, probatum, agens, mouens, conueniens, separatae, separata, habens</em>
 * `Voc` (3; 0% of non-empty `Case`): <em>expresse, maledicti</em>
 * `EMPTY` (43448): <em>potest, oportet, dicitur, habet, patet, dicit, uidetur, fit, possunt, habent</em>
 
@@ -181,9 +181,9 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 
 ### `PROPN`
 
-5463 <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> tokens (93% of all `PROPN` tokens) have a non-empty value of `Case`.
+5462 <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> tokens (93% of all `PROPN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5446; 100%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (5397; 99%), <tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=IndEurO</tt> (4694; 86%).
+The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5445; 100%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (5396; 99%), <tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=IndEurO</tt> (4694; 86%).
 
 `PROPN` tokens may have the following values of `Case`:
 
@@ -191,8 +191,8 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 * `Acc` (663; 12% of non-empty `Case`): <em>deum, iesum, aristotelem, augustinum, moysen, platonem, socratem, gregorium, commentatorem, euangelium</em>
 * `Dat` (355; 6% of non-empty `Case`): <em>deo, isaiae, moysi, petro, lucae, salomoni, ezechiae, iesu, oseae, socrati</em>
 * `Gen` (1440; 26% of non-empty `Case`): <em>dei, aristotelis, platonis, isaiae, iesu, auicennae, exodi, ioannis, origenis, augustini</em>
-* `Nom` (2097; 38% of non-empty `Case`): <em>deus, aristoteles, dionysius, augustinus, plato, boetius, commentator, gregorius, auerroes, iesus</em>
-* `EMPTY` (406): <em>ioan., matth., iob, tim., ierem., luc., ierusalem, ezech., iac., petr.</em>
+* `Nom` (2096; 38% of non-empty `Case`): <em>deus, aristoteles, dionysius, augustinus, plato, boetius, commentator, gregorius, auerroes, iesus</em>
+* `EMPTY` (407): <em>ioan., matth., iob, tim., ierem., luc., ierusalem, ezech., iac., petr.</em>
 
 <table>
   <tr><th>Paradigm <i>deus</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Abl</tt></th></tr>
@@ -235,7 +235,7 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 * `Acc` (19; 10% of non-empty `Case`): <em>futuram, ens, futurum, esse, futura, entia, essendum, futuras, futuros</em>
 * `Gen` (141; 74% of non-empty `Case`): <em>essendi, futuri, entium, futurae</em>
 * `Nom` (14; 7% of non-empty `Case`): <em>ens, futura, entia, futurum, futurus</em>
-* `EMPTY` (23435): <em>est, esse, sit, sunt, esset, sint, erit, fuit, erat, fuerit</em>
+* `EMPTY` (23437): <em>est, esse, sit, sunt, esset, sint, erit, fuit, erat, fuerit</em>
 
 <table>
   <tr><th>Paradigm <i>sum</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Gen</tt></th><th><tt>Abl</tt></th></tr>
@@ -262,19 +262,19 @@ The most frequent other feature values with which `ADV` and `Case` co-occurred: 
 `ADV` tokens may have the following values of `Case`:
 
 * `Loc` (175; 100% of non-empty `Case`): <em>hinc, hic</em>
-* `EMPTY` (25573): <em>igitur, etiam, unde, sic, ergo, tamen, ita, supra, magis, solum</em>
+* `EMPTY` (25570): <em>igitur, etiam, unde, sic, ergo, tamen, ita, supra, magis, solum</em>
 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="la_ittb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (14799; 98%),
+<tt>NOUN --[<tt><a href="la_ittb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (14814; 98%),
 <tt>NOUN --[<tt><a href="la_ittb-dep-det.html">det</a></tt>]--> DET</tt> (13623; 97%),
-<tt>NOUN --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (5043; 92%),
-<tt>NOUN --[<tt><a href="la_ittb-dep-acl.html">acl</a></tt>]--> VERB</tt> (4304; 78%),
-<tt>NOUN --[<tt><a href="la_ittb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1774; 87%),
-<tt>ADJ --[<tt><a href="la_ittb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1473; 96%),
-<tt>ADJ --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> ADJ</tt> (992; 99%),
-<tt>NOUN --[<tt><a href="la_ittb-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (817; 84%),
+<tt>NOUN --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (5051; 92%),
+<tt>NOUN --[<tt><a href="la_ittb-dep-acl.html">acl</a></tt>]--> VERB</tt> (4309; 78%),
+<tt>NOUN --[<tt><a href="la_ittb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1775; 87%),
+<tt>ADJ --[<tt><a href="la_ittb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1472; 96%),
+<tt>ADJ --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> ADJ</tt> (995; 99%),
+<tt>NOUN --[<tt><a href="la_ittb-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (818; 84%),
 <tt>ADJ --[<tt><a href="la_ittb-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (730; 93%),
-<tt>VERB --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> VERB</tt> (603; 66%).
+<tt>VERB --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> VERB</tt> (604; 66%).
 

@@ -9,44 +9,46 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-21 tokens (2%) have a non-empty value of `Subord`.
-20 types (2%) occur at least once with a non-empty value of `Subord`.
-19 lemmas (5%) occur at least once with a non-empty value of `Subord`.
-The feature is used with 4 part-of-speech tags: <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt> (10; 1% instances), <tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="eme_tudet-pos-PART.html">PART</a></tt> (1; 0% instances).
-
-### `NOUN`
-
-10 <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt> tokens (2% of all `NOUN` tokens) have a non-empty value of `Subord`.
-
-The most frequent other feature values with which `NOUN` and `Subord` co-occurred: <tt><a href="eme_tudet-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (9; 90%), <tt><a href="eme_tudet-feat-Rel.html">Rel</a></tt><tt>=EMPTY</tt> (9; 90%), <tt><a href="eme_tudet-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (7; 70%), <tt><a href="eme_tudet-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (6; 60%).
-
-`NOUN` tokens may have the following values of `Subord`:
-
-* `Yes` (10; 100% of non-empty `Subord`): <em>2heuresanam, deuxheuresanam, sikãĩnam, 10heuresaʔenawe, ebotenam, idʒarɨdʒanam, munuʔaŋanamte, oronekarakurinam, oronekarakuriõwãnam, tarawadʒanam</em>
+33 tokens (1%) have a non-empty value of `Subord`.
+31 types (2%) occur at least once with a non-empty value of `Subord`.
+28 lemmas (5%) occur at least once with a non-empty value of `Subord`.
+The feature is used with 4 part-of-speech tags: <tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (12; 1% instances), <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt> (12; 1% instances), <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt> (8; 0% instances), <tt><a href="eme_tudet-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 ### `ADV`
 
-6 <tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> tokens (5% of all `ADV` tokens) have a non-empty value of `Subord`.
+12 <tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> tokens (6% of all `ADV` tokens) have a non-empty value of `Subord`.
 
 `ADV` tokens may have the following values of `Subord`:
 
-* `Yes` (6; 100% of non-empty `Subord`): <em>aʔenawe, ikemɨnanam, naninam, dikaruginam, en92anam</em>
+* `Yes` (12; 100% of non-empty `Subord`): <em>aʔenawe, aʔenam, en.92anam, ikemɨnanam, naninam, pɨanam, dikaruginam, dizeraʔenawe, en92anam, pɨanamara</em>
+
+### `NOUN`
+
+12 <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Subord`.
+
+The most frequent other feature values with which `NOUN` and `Subord` co-occurred: <tt><a href="eme_tudet-feat-Rel.html">Rel</a></tt><tt>=EMPTY</tt> (11; 92%), <tt><a href="eme_tudet-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (8; 67%), <tt><a href="eme_tudet-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8; 67%).
+
+`NOUN` tokens may have the following values of `Subord`:
+
+* `Yes` (12; 100% of non-empty `Subord`): <em>mɨdɨdʒunam, sikãĩnam, 10heuresaʔenawe, 2heuresanam, deuxheuresanam, ebotenam, idʒarɨdʒanam, munuʔaŋanamte, oronekarakurinam, oronekarakuriõwãnam</em>
+
+`Subord` seems to be **lexical feature** of `NOUN`. 100% lemmas (11) occur only with one value of `Subord`.
 
 ### `VERB`
 
-4 <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Subord`.
+8 <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Subord`.
 
-The most frequent other feature values with which `VERB` and `Subord` co-occurred: <tt><a href="eme_tudet-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="eme_tudet-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="eme_tudet-feat-Person.html">Person</a></tt><tt>=3</tt> (3; 75%).
+The most frequent other feature values with which `VERB` and `Subord` co-occurred: <tt><a href="eme_tudet-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (7; 88%), <tt><a href="eme_tudet-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (7; 88%), <tt><a href="eme_tudet-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (7; 88%), <tt><a href="eme_tudet-feat-Person.html">Person</a></tt><tt>=3</tt> (5; 63%).
 
 `VERB` tokens may have the following values of `Subord`:
 
-* `Yes` (4; 100% of non-empty `Subord`): <em>omomokoɲanam, ozikazepeŋ, oʔaranawe, zadʒapɨakanam</em>
+* `Yes` (8; 100% of non-empty `Subord`): <em>dosuʔutarinam, oiɲuŋbanam, omomokoɲanam, ozikazepeŋ, oʔaranawe, sidʒewɨranam, zadʒapɨakanam, zaikonam</em>
 
 ### `PART`
 
-1 <tt><a href="eme_tudet-pos-PART.html">PART</a></tt> tokens (9% of all `PART` tokens) have a non-empty value of `Subord`.
+1 <tt><a href="eme_tudet-pos-PART.html">PART</a></tt> tokens (4% of all `PART` tokens) have a non-empty value of `Subord`.
 
-The most frequent other feature values with which `PART` and `Subord` co-occurred: <tt><a href="eme_tudet-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="eme_tudet-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt> (1; 100%), <tt><a href="eme_tudet-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `PART` and `Subord` co-occurred: <tt><a href="eme_tudet-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="eme_tudet-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="eme_tudet-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt> (1; 100%), <tt><a href="eme_tudet-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1; 100%).
 
 `PART` tokens may have the following values of `Subord`:
 

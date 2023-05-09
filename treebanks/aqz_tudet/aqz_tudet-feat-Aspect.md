@@ -24,5 +24,5 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 * `Hab` (10; 91% of non-empty `Aspect`): <em>koara, oetara, mira, etʃetara, kitʃetara, teipara</em>
 * `Iter` (1; 9% of non-empty `Aspect`): <em>ikiramkwatekwa</em>
-* `EMPTY` (267): <em>koa, ata, teita, tʃopa, at, ka, put, õkwa, aj, ikoa</em>
+* `EMPTY` (277): <em>ata, koa, tʃopa, teita, at, ka, put, tʃe, õkwa, aj</em>
 

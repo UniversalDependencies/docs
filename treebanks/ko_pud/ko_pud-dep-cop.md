@@ -33,7 +33,7 @@ The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="
 9	조금	_	ADV	RB	_	10	advmod	_	Translit=.jo.geum
 10	다를	_	ADJ	JJ	Form=Adn	11	dep	_	Translit=.da.reul
 11	것	_	NOUN	NNB	_	0	root	_	SpaceAfter=No|Translit=.geos
-12	이다	_	AUX	VC	Mood=Ind|VerbForm=Fin	11	cop	_	SpaceAfter=No|Translit=.i.da
+12	이다	이	AUX	VC	Mood=Ind|VerbForm=Fin	11	cop	_	SpaceAfter=No|Translit=.i.da|LTranslit=.i
 13	.	.	PUNCT	.	_	11	punct	_	Translit=.|LTranslit=.
 
 ~~~
@@ -72,7 +72,7 @@ The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 2 3 cop	color:blue
 1	그들은	그들	PRON	PRP+CM	Case=Nom|Number=Plur|Person=3|Polite=Form	2	nsubj	_	MSeg=그들-은|Translit=.geu.deul.eun|LTranslit=.geu.deul
 2	누구	_	PRON	WP	_	0	root	_	SpaceAfter=No|Translit=.nu.gu
-3	인가	_	AUX	VC	PronType=Int|VerbForm=Fin	2	cop	_	SpaceAfter=No|Translit=.in.ga
+3	인가	이	AUX	VC	PronType=Int|VerbForm=Fin	2	cop	_	SpaceAfter=No|Translit=.in.ga|LTranslit=.i
 4	?	?	PUNCT	.	_	2	punct	_	Translit=?|LTranslit=?
 
 ~~~

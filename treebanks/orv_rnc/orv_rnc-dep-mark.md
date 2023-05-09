@@ -66,16 +66,16 @@ The following 14 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 7 mark	color:blue
-1	И	и	CCONJ	_	_	5	cc	_	Norm=И
-2	не	не	PART	_	Polarity=Neg	3	advmod	_	Norm=не
-3	вотще	вотще	ADV	_	Degree=Pos	5	advmod	_	Norm=вотще
-4	сіꙗ	сей	DET	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Dem	3	nsubj:pass	_	Norm=сіꙗ
-5	рекошасꙗ	рещи	VERB	Tense=Imp	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Reflex=Yes|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Norm=рекошасꙗ|SpaceAfter=No
-6	,	,	PUNCT	_	_	9	punct	_	Norm=,
-7	ꙗко	яко	SCONJ	_	_	9	mark	_	Norm=ꙗко
-8	всꙗ	весь	DET	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Tot	9	det	_	Norm=всꙗ
-9	стран(н)аꙗ	странный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	5	ccomp	_	Norm=страннаꙗ
-10	etc.	etc.	X	_	Foreign=Yes	9	dep	_	Norm=etc.
+1	И	и	CCONJ	_	_	5	cc	_	Norm="И"
+2	не	не	PART	_	Polarity=Neg	3	advmod	_	Norm="не"
+3	вотще	вотще	ADV	_	Degree=Pos	5	advmod	_	Norm="вотще"
+4	сіꙗ	сей	DET	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Dem	3	nsubj:pass	_	Norm="сіꙗ"
+5	рекошасꙗ	рещи	VERB	Tense=Imp	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Reflex=Yes|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Norm="рекошасꙗ"|SpaceAfter=No
+6	,	,	PUNCT	_	_	9	punct	_	Norm=","
+7	ꙗко	яко	SCONJ	_	_	9	mark	_	Norm="ꙗко"
+8	всꙗ	весь	DET	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Tot	9	det	_	Norm="всꙗ"
+9	стран(н)аꙗ	странный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	5	ccomp	_	Norm="страннаꙗ"
+10	etc.	etc.	X	_	Foreign=Yes	9	dep	_	Norm="etc."
 
 ~~~
 

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Lars Ahrenberg.
 
 Repository: [UD_Swedish-LinES](https://github.com/UniversalDependencies/UD_Swedish-LinES)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsv_lines211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsv_lines212)<br />
+Download all treebanks: [UD 2.12](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -78,7 +78,7 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 
 ## Relations
 
-[acl](sv_lines-dep-acl.html) – [acl:cleft](sv_lines-dep-acl-cleft.html) – [acl:relcl](sv_lines-dep-acl-relcl.html) – [advcl](sv_lines-dep-advcl.html) – [advmod](sv_lines-dep-advmod.html) – [amod](sv_lines-dep-amod.html) – [appos](sv_lines-dep-appos.html) – [aux](sv_lines-dep-aux.html) – [aux:pass](sv_lines-dep-aux-pass.html) – [case](sv_lines-dep-case.html) – [cc](sv_lines-dep-cc.html) – [ccomp](sv_lines-dep-ccomp.html) – [compound](sv_lines-dep-compound.html) – [compound:prt](sv_lines-dep-compound-prt.html) – [conj](sv_lines-dep-conj.html) – [cop](sv_lines-dep-cop.html) – [csubj](sv_lines-dep-csubj.html) – [csubj:pass](sv_lines-dep-csubj-pass.html) – [dep](sv_lines-dep-dep.html) – [det](sv_lines-dep-det.html) – [discourse](sv_lines-dep-discourse.html) – [dislocated](sv_lines-dep-dislocated.html) – [expl](sv_lines-dep-expl.html) – [fixed](sv_lines-dep-fixed.html) – [flat](sv_lines-dep-flat.html) – [iobj](sv_lines-dep-iobj.html) – [mark](sv_lines-dep-mark.html) – [nmod](sv_lines-dep-nmod.html) – [nmod:poss](sv_lines-dep-nmod-poss.html) – [nsubj](sv_lines-dep-nsubj.html) – [nsubj:pass](sv_lines-dep-nsubj-pass.html) – [nummod](sv_lines-dep-nummod.html) – [obj](sv_lines-dep-obj.html) – [obl](sv_lines-dep-obl.html) – [obl:agent](sv_lines-dep-obl-agent.html) – [orphan](sv_lines-dep-orphan.html) – [parataxis](sv_lines-dep-parataxis.html) – [punct](sv_lines-dep-punct.html) – [reparandum](sv_lines-dep-reparandum.html) – [root](sv_lines-dep-root.html) – [vocative](sv_lines-dep-vocative.html) – [xcomp](sv_lines-dep-xcomp.html)
+[acl](sv_lines-dep-acl.html) – [acl:cleft](sv_lines-dep-acl-cleft.html) – [acl:relcl](sv_lines-dep-acl-relcl.html) – [advcl](sv_lines-dep-advcl.html) – [advmod](sv_lines-dep-advmod.html) – [amod](sv_lines-dep-amod.html) – [appos](sv_lines-dep-appos.html) – [aux](sv_lines-dep-aux.html) – [aux:pass](sv_lines-dep-aux-pass.html) – [case](sv_lines-dep-case.html) – [cc](sv_lines-dep-cc.html) – [ccomp](sv_lines-dep-ccomp.html) – [compound](sv_lines-dep-compound.html) – [compound:prt](sv_lines-dep-compound-prt.html) – [conj](sv_lines-dep-conj.html) – [cop](sv_lines-dep-cop.html) – [csubj](sv_lines-dep-csubj.html) – [csubj:outer](sv_lines-dep-csubj-outer.html) – [csubj:pass](sv_lines-dep-csubj-pass.html) – [dep](sv_lines-dep-dep.html) – [det](sv_lines-dep-det.html) – [discourse](sv_lines-dep-discourse.html) – [dislocated](sv_lines-dep-dislocated.html) – [expl](sv_lines-dep-expl.html) – [fixed](sv_lines-dep-fixed.html) – [flat](sv_lines-dep-flat.html) – [iobj](sv_lines-dep-iobj.html) – [mark](sv_lines-dep-mark.html) – [nmod](sv_lines-dep-nmod.html) – [nmod:poss](sv_lines-dep-nmod-poss.html) – [nsubj](sv_lines-dep-nsubj.html) – [nsubj:outer](sv_lines-dep-nsubj-outer.html) – [nsubj:pass](sv_lines-dep-nsubj-pass.html) – [nummod](sv_lines-dep-nummod.html) – [obj](sv_lines-dep-obj.html) – [obl](sv_lines-dep-obl.html) – [obl:agent](sv_lines-dep-obl-agent.html) – [orphan](sv_lines-dep-orphan.html) – [parataxis](sv_lines-dep-parataxis.html) – [punct](sv_lines-dep-punct.html) – [reparandum](sv_lines-dep-reparandum.html) – [root](sv_lines-dep-root.html) – [vocative](sv_lines-dep-vocative.html) – [xcomp](sv_lines-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -142,7 +142,7 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
   <li>Fin
   <ul>
     <li>AUX: var, är, hade, kan, har, skulle, kunde, måste, vill, kommer</li>
-    <li>VERB: sa, var, hade, gick, kom, har, såg, sade, är, tog</li>
+    <li>VERB: sa, var, hade, gick, kom, har, såg, sade, tog, är</li>
   </ul>
   </li>
 </ul>
@@ -412,7 +412,7 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
       <li>ADJ-Part: dansande, framstående</li>
       <li>AUX-Fin: var, är, hade, kan, har, skulle, kunde, måste, vill, kommer</li>
       <li>AUX-Sup: velat</li>
-      <li>VERB-Fin: sa, var, hade, gick, har, kom, såg, sade, är, tog</li>
+      <li>VERB-Fin: sa, var, hade, gick, har, kom, såg, sade, tog, är</li>
       <li>VERB-Inf: lyckas, fyllt, inställd, klädd, avslutad, skuggad, dödade, fylld, kopplad, minnas</li>
       <li>VERB-Part: tvungen, taget, leende, tvungna, flåsande, gjort, sittande, svävande, tröstande, baserat</li>
       <li>VERB-Sup: lyckats, funnits, färdats, hoppats, misslyckats, ordats, träffats</li>
@@ -467,7 +467,7 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
       <li>AUX-Inf: vara, ha, kunna, få, bli, vilja, komma</li>
       <li>AUX-Sup: varit, kunnat, fått, blivit, velat, kommit</li>
       <li>VERB: sa, var, hade, gick, kom, har, såg, ta, göra, sade</li>
-      <li>VERB-Fin: sa, var, hade, gick, kom, har, såg, sade, är, tog</li>
+      <li>VERB-Fin: sa, var, hade, gick, kom, har, såg, sade, tog, är</li>
       <li>VERB-Inf: göra, ta, se, gå, komma, använda, få, bli, ha, säga</li>
       <li>VERB-Part: leende, flåsande, sittande, svävande, tröstande, dansande, dinglande, fastställande, flämtande, frågande</li>
       <li>VERB-Sup: kommit, gjort, fått, varit, sett, gått, blivit, sagt, hört, tagit</li>
@@ -666,25 +666,24 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--PRON-Nom (2)</li>
       <li>VERB-Fin--NOUN (8)</li>
       <li>VERB-Fin--NOUN-Gen (1)</li>
-      <li>VERB-Fin--NOUN-Nom (1248)</li>
+      <li>VERB-Fin--NOUN-Nom (1244)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(efter) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(för) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(i) (1)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(med) (2)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(om) (1)</li>
-      <li>VERB-Fin--PRON (888)</li>
-      <li>VERB-Fin--PRON-Nom (2489)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(med) (1)</li>
+      <li>VERB-Fin--PRON (885)</li>
+      <li>VERB-Fin--PRON-Nom (2485)</li>
       <li>VERB-Fin--PRON-Nom-ADP(framför) (1)</li>
       <li>VERB-Inf--NOUN (1)</li>
-      <li>VERB-Inf--NOUN-Nom (194)</li>
-      <li>VERB-Inf--PRON (111)</li>
+      <li>VERB-Inf--NOUN-Nom (193)</li>
+      <li>VERB-Inf--PRON (109)</li>
       <li>VERB-Inf--PRON-Nom (734)</li>
       <li>VERB-Part--NOUN-Nom (18)</li>
       <li>VERB-Part--PRON (9)</li>
       <li>VERB-Part--PRON-Nom (18)</li>
       <li>VERB-Sup--NOUN (1)</li>
       <li>VERB-Sup--NOUN-Nom (156)</li>
-      <li>VERB-Sup--PRON (129)</li>
+      <li>VERB-Sup--PRON (128)</li>
       <li>VERB-Sup--PRON-Nom (390)</li>
     </ul>
   </li>
@@ -703,17 +702,17 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Nom-ADP(för) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(om) (2)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(till) (1)</li>
-      <li>VERB-Fin--PRON (366)</li>
+      <li>VERB-Fin--PRON (365)</li>
       <li>VERB-Fin--PRON-ADP(med) (1)</li>
       <li>VERB-Fin--PRON-ADP(på) (1)</li>
       <li>VERB-Fin--PRON-Acc (589)</li>
       <li>VERB-Fin--PRON-Gen (11)</li>
       <li>VERB-Fin--PRON-Nom (2)</li>
       <li>VERB-Inf--NOUN (7)</li>
-      <li>VERB-Inf--NOUN-Nom (1021)</li>
+      <li>VERB-Inf--NOUN-Nom (1023)</li>
       <li>VERB-Inf--NOUN-Nom-ADP(för) (1)</li>
       <li>VERB-Inf--NOUN-Nom-ADP(på) (2)</li>
-      <li>VERB-Inf--PRON (194)</li>
+      <li>VERB-Inf--PRON (195)</li>
       <li>VERB-Inf--PRON-ADP(som) (1)</li>
       <li>VERB-Inf--PRON-Acc (293)</li>
       <li>VERB-Inf--PRON-Gen (15)</li>
@@ -758,6 +757,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 8 relation subtypes: <a>acl:cleft</a>, <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
+<li>This corpus uses 10 relation subtypes: <a>acl:cleft</a>, <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>csubj:outer</a>, <a>csubj:pass</a>, <a>nmod:poss</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
 <li>The following 3 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>goeswith</a></li>
 </ul>

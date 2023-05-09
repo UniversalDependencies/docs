@@ -23,7 +23,7 @@ The following 10 pairs of parts of speech are connected with `orphan`: <tt><a hr
 # visual-style 15	fgColor:white
 # visual-style 15 18 orphan	color:blue
 1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-2	maior	grande	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_
+2	maior	maior	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_
 3	aumento	aumento	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
 4	aconteceu	acontecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	em	em	ADP	_	_	6	case	_	_
@@ -35,7 +35,7 @@ The following 10 pairs of parts of speech are connected with `orphan`: <tt><a hr
 11	)	)	PUNCT	_	_	10	punct	_	_
 12	e	e	CCONJ	_	_	15	cc	_	_
 13	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
-14	maior	grande	ADJ	_	Gender=Fem|Number=Sing	15	amod	_	_
+14	maior	maior	ADJ	_	Gender=Fem|Number=Sing	15	amod	_	_
 15	queda	queda	NOUN	_	Gender=Fem|Number=Sing	4	conj	_	SpaceAfter=No
 16	,	,	PUNCT	_	_	15	punct	_	_
 17	em	em	ADP	_	_	18	case	_	_

@@ -22,12 +22,12 @@ The following 41 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 advmod	color:blue
-1	O	o	DET	DA	Gender=Masc|Number=Sing	2	det	_	_
+1	O	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	processo	processo	NOUN	CN	Gender=Masc|Number=Sing	7	nsubj	_	_
-3	que	que	PRON	REL	_	5	obj	_	_
+3	que	que	PRON	REL	PronType=Rel	5	obj	_	_
 4	agora	agora	ADV	ADV	_	5	advmod	_	_
-5	termina	terminar	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	amod	_	_
-6	foi	ser	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	7	cop	_	_
+5	termina	terminar	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	amod	_	_
+6	foi	ser	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	_
 7	longo	longo	ADJ	ADJ	Gender=Masc|Number=Sing	0	root	_	_
 8	.	.	PUNCT	PNT	_	7	punct	_	_
 
@@ -40,13 +40,13 @@ The following 41 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 3 advmod	color:blue
-1	Eles	eles	PRON	PRS	Gender=Masc|Number=Plur|Person=3	5	nsubj	_	_
-2	são	ser	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	5	cop	_	_
+1	Eles	eles	PRON	PRS	Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	_
+2	são	ser	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 3	também	também	ADV	ADV	_	5	advmod	_	_
 4	muito	muito	ADV	ADV	_	5	advmod	_	_
 5	graves	grave	ADJ	ADJ	Number=Plur	0	root	_	_
 6	em_	em_	ADP	PREP	_	8	case	_	_
-7	a	a	DET	DA	Gender=Fem|Number=Sing	8	det	_	_
+7	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	região	região	NOUN	CN	Gender=Fem|Number=Sing	5	obl	_	_
 9	espanhola	espanhol	ADJ	ADJ	Gender=Fem|Number=Sing	8	amod	_	_
 10	.	.	PUNCT	PNT	_	5	punct	_	_
@@ -62,12 +62,12 @@ The following 41 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 9 6 advmod	color:blue
 1	Alqueva	alqueva	PROPN	PNM	_	3	nsubj	_	_
 2	já	já	ADV	ADV	_	3	advmod	_	_
-3	dá	dar	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+3	dá	dar	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	trabalho	trabalho	NOUN	CN	Gender=Masc|Number=Sing	3	obj	_	_
 5	a	a	ADP	PREP	_	9	case	_	_
 6	cerca	cerca	ADV	ADV	_	9	advmod	_	_
 7	de	de	ADP	PREP	_	6	dep	_	_
-8	200	200	NUM	DGT	_	6	dep	_	_
+8	200	200	NUM	DGT	NumType=Card	6	dep	_	_
 9	pessoas	pessoa	NOUN	CN	Gender=Fem|Number=Plur	3	obl	_	_
 
 ~~~

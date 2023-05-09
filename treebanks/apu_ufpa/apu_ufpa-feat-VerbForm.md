@@ -10,8 +10,8 @@ This feature is universal but the values `Conv`, `Vnoun` are language-specific.
 It occurs with 2 different values: `Conv`, `Vnoun`.
 
 12 tokens (1%) have a non-empty value of `VerbForm`.
-11 types (4%) occur at least once with a non-empty value of `VerbForm`.
-12 lemmas (5%) occur at least once with a non-empty value of `VerbForm`.
+11 types (3%) occur at least once with a non-empty value of `VerbForm`.
+12 lemmas (4%) occur at least once with a non-empty value of `VerbForm`.
 The feature is used with 2 part-of-speech tags: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (10; 1% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (2; 0% instances).
 
 ### `VERB`
@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 * `Conv` (2; 20% of non-empty `VerbForm`): <em>sikasaaky, Ĩkanapyryãkasaaky</em>
 * `Vnoun` (8; 80% of non-empty `VerbForm`): <em>makinhi, faltatinhi, fawtatinhi, iatinhi, ivinitinhi, mitekatinhi, nykaminhi</em>
-* `EMPTY` (189): <em>awa, awary, amutary, kaiãapuku, sary, kaiãũpuku, apukary, awama, kaiãapukury, kamary</em>
+* `EMPTY` (194): <em>awa, awary, amutary, kaiãapuku, sary, kaiãũpuku, apukary, awama, kaiãapukury, kamary</em>
 
 `VerbForm` seems to be **lexical feature** of `VERB`. 100% lemmas (10) occur only with one value of `VerbForm`.
 
@@ -32,12 +32,12 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 2 <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `NOUN` and `VerbForm` co-occurred: <tt><a href="apu_ufpa-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="apu_ufpa-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="apu_ufpa-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="apu_ufpa-feat-Possessed.html">Possessed</a></tt><tt>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `NOUN` and `VerbForm` co-occurred: <tt><a href="apu_ufpa-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="apu_ufpa-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="apu_ufpa-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="apu_ufpa-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="apu_ufpa-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="apu_ufpa-feat-Possessed.html">Possessed</a></tt><tt>=EMPTY</tt> (2; 100%).
 
 `NOUN` tokens may have the following values of `VerbForm`:
 
 * `Vnoun` (2; 100% of non-empty `VerbForm`): <em>iũkatsupatinhi, ysãkirawatinhi</em>
-* `EMPTY` (263): <em>iãtã, awinhi, awiri, aapuku, maky, ximaky, yky, ywãtãa, kyky, sytu</em>
+* `EMPTY` (282): <em>iãtã, awinhi, ximaky, awiri, aapuku, maky, yky, ywãtãa, kyky, sytu</em>
 
 ## Relations with Agreement in `VerbForm`
 

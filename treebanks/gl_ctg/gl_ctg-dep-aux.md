@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1364 nodes (1%) are attached to their parents as `aux`.
+1198 nodes (1%) are attached to their parents as `aux`.
 
-1332 instances of `aux` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.51612903225806.
+1164 instances of `aux` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.62103505843072.
 
-The following 16 pairs of parts of speech are connected with `aux`: <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> (1214; 89% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> (57; 4% instances), <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> (54; 4% instances), <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt> (10; 1% instances), <tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt>-<tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> (9; 1% instances), <tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt>-<tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_ctg-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="gl_ctg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="gl_ctg-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt>-<tt><a href="gl_ctg-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt>-<tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="gl_ctg-pos-DET.html">DET</a></tt>-<tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_ctg-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt>-<tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt>-<tt><a href="gl_ctg-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `aux`: <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> (1091; 91% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> (57; 5% instances), <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> (34; 3% instances), <tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt>-<tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> (7; 1% instances), <tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt>-<tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="gl_ctg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="gl_ctg-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="gl_ctg-pos-DET.html">DET</a></tt>-<tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,10 +22,10 @@ The following 16 pairs of parts of speech are connected with `aux`: <tt><a href=
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 aux	color:blue
-1	Así	así	ADV	RG	_	2	det	_	Treeler:spec
+1	Así	así	ADV	RG	_	5	advmod	_	Treeler:spec
 2	mesmo	mesmo	ADV	RG	_	5	case	_	SpaceAfter=No|ToDo=case-upos|Treeler:cc
 3	,	,	PUNCT	Fc	_	2	punct	_	Treeler:f
-4	serán	ser	VERB	VSIF3P0	_	5	aux	_	Treeler:v
+4	serán	ser	AUX	VSIF3P0	_	5	aux	_	Treeler:v
 5	publicados	publicar	VERB	VMP00PM	_	0	root	_	Treeler:sentence
 6	en	en	ADP	SPS00	_	9	case	_	Treeler:cc
 7	o	o	DET	DA0MS0	_	9	det	_	Treeler:spec
@@ -50,8 +50,8 @@ The following 16 pairs of parts of speech are connected with `aux`: <tt><a href=
 1	Todos	todo	DET	DI0MP0	_	2	det	_	Treeler:d
 2	estes	este	DET	DD0MP0	_	3	det	_	Treeler:spec
 3	países	país	NOUN	NCMP000	_	8	nsubj	_	Treeler:suj
-4	deixaron	deixar	VERB	VMIS3P0	_	8	aux	_	Treeler:v
-5	de	de	ADP	SPS00	_	4	case	_	Treeler:creg
+4	deixaron	deixar	AUX	VMIS3P0	_	8	aux	_	Treeler:v
+5	de	de	ADP	SPS00	_	8	case	_	Treeler:creg
 6	ser	ser	AUX	VSN0000	_	8	cop	_	Treeler:sentence
 7	os	o	DET	DA0MP0	_	8	det	_	Treeler:spec
 8	principais	principal	ADJ	AQ0CP0	_	0	root	_	Treeler:atr
@@ -79,7 +79,7 @@ The following 16 pairs of parts of speech are connected with `aux`: <tt><a href=
 # visual-style 6	fgColor:white
 # visual-style 6 2 aux	color:blue
 1	Galiza	galiza	PROPN	NP00000	_	6	nsubj	_	Treeler:suj
-2	deixou	deixar	VERB	VMIS3S0	_	6	aux	_	Treeler:v
+2	deixou	deixar	AUX	VMIS3S0	_	6	aux	_	Treeler:v
 3	de	de	ADP	SPS00	_	6	case	_	Treeler:s
 4	ser	ser	AUX	VSN0000	_	6	cop	_	Treeler:sentence
 5	un	un	DET	DI0MS0	_	6	det	_	Treeler:spec

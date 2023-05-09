@@ -32,7 +32,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `CCONJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (17; 100% of non-empty `Polarity`): _
-* `EMPTY` (49141): _
+* `EMPTY` (49144): _
 
 ### `PART`
 
@@ -41,7 +41,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `PART` tokens may have the following values of `Polarity`:
 
 * `Neg` (17; 100% of non-empty `Polarity`): _
-* `EMPTY` (2502): _
+* `EMPTY` (2504): _
 
 ### `PROPN`
 
@@ -72,7 +72,7 @@ The most frequent other feature values with which `PRON` and `Polarity` co-occur
 `PRON` tokens may have the following values of `Polarity`:
 
 * `Neg` (3; 100% of non-empty `Polarity`): _
-* `EMPTY` (43490): _
+* `EMPTY` (43492): _
 
 ### `X`
 
@@ -94,7 +94,7 @@ The most frequent other feature values with which `ADP` and `Polarity` co-occurr
 `ADP` tokens may have the following values of `Polarity`:
 
 * `Neg` (1; 100% of non-empty `Polarity`): _
-* `EMPTY` (91741): _
+* `EMPTY` (91742): _
 
 ## Relations with Agreement in `Polarity`
 

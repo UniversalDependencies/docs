@@ -25,7 +25,7 @@ The following 20 pairs of parts of speech are connected with `nmod`: <tt><a href
 1	El	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	máximo	máximo	NOUN	NN	Gender=Masc|Number=Sing	4	nsubj	_	_
 3	permitido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	_
-4	es	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	es	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	de	de	ADP	IN	_	7	case	_	_
 6	5 000	5 000	NUM	CD	Gender=Masc|NumType=Card	7	nummod	_	_
 7	$	_	NOUN	NN	Gender=Masc|Number=Plur	4	obl	_	_
@@ -44,8 +44,8 @@ The following 20 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 6 8 nmod	color:blue
 1	¿	¿	PUNCT	.	_	6	punct	_	SpaceAfter=No
 2	Y	y	CCONJ	CC	_	6	discourse	_	_
-3	cuál	cuál	PRON	WP	Number=Sing|PronType=Int,Rel	6	nsubj	_	_
-4	es	ser	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	_
+3	cuál	cuál	PRON	WP	Number=Sing|PronType=Int	6	nsubj	_	_
+4	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
 5	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	postura	postura	NOUN	NN	Gender=Fem|Number=Sing	0	root	_	_
 7	de	de	ADP	IN	_	8	case	_	_
@@ -71,7 +71,7 @@ The following 20 pairs of parts of speech are connected with `nmod`: <tt><a href
 8	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	hambruna	hambruna	NOUN	NN	Gender=Fem|Number=Sing	11	nsubj	_	_
 10	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	11	compound:prt	_	_
-11	impuso	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+11	impuso	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 12	en	en	ADP	IN	_	13	case	_	_
 13	Sahel	Sahel	PROPN	NNP	Number=Sing	11	obl	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	11	punct	_	_

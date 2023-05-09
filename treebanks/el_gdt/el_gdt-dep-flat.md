@@ -13,7 +13,7 @@ This relation is universal.
 664 instances of `flat` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.34186746987952.
 
-The following 12 pairs of parts of speech are connected with `flat`: <tt><a href="el_gdt-pos-X.html">X</a></tt>-<tt><a href="el_gdt-pos-X.html">X</a></tt> (200; 30% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-X.html">X</a></tt> (197; 30% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt> (126; 19% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt> (107; 16% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_gdt-pos-X.html">X</a></tt> (12; 2% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (6; 1% instances), <tt><a href="el_gdt-pos-X.html">X</a></tt>-<tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt> (6; 1% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (5; 1% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="el_gdt-pos-X.html">X</a></tt>-<tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `flat`: <tt><a href="el_gdt-pos-X.html">X</a></tt>-<tt><a href="el_gdt-pos-X.html">X</a></tt> (200; 30% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-X.html">X</a></tt> (197; 30% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt> (126; 19% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt> (107; 16% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_gdt-pos-X.html">X</a></tt> (12; 2% instances), <tt><a href="el_gdt-pos-X.html">X</a></tt>-<tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt> (7; 1% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (6; 1% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -49,7 +49,7 @@ The following 12 pairs of parts of speech are connected with `flat`: <tt><a href
 5	Κοπτικής	κοπτικός	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	6	amod	_	_
 6	Εκκλησίας	εκκλησία	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
 7	Σενούντα	Σενούντα	X	X	Foreign=Yes	3	flat	_	_
-8	Γ'	Γ'	NUM	NUM	Case=Nom|Gender=Masc|Number=Sing|NumType=Card	7	amod	_	_
+8	Γ'	Γ'	ADJ	ADJ	Case=Acc|Gender=Masc|Number=Sing|NumType=Ord	7	amod	_	_
 
 ~~~
 
@@ -60,8 +60,8 @@ The following 12 pairs of parts of speech are connected with `flat`: <tt><a href
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 flat	color:blue
-1	Σ	σε	ADP	AsPpSp	_	3	case	_	_
-2	τη	ο	DET	AtDf	Case=Acc|Gender=Fem|Number=Sing	3	det	_	_
+1	Σ	σε	ADP	ADP	_	3	case	_	_
+2	τη	ο	DET	DET	Case=Acc|Gender=Fem|Number=Sing	3	det	_	_
 3	νησίδα	νησίδα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
 4	Βίδο	Βίδο	PROPN	PROPN	Case=Acc|Gender=Neut|Number=Sing	3	flat	_	SpaceAfter=No
 5	.	.	PUNCT	PUNCT	_	3	punct	_	_

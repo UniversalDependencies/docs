@@ -10,7 +10,7 @@ This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
 5187 tokens (18%) have a non-empty value of `Person`.
-864 types (14%) occur at least once with a non-empty value of `Person`.
+863 types (14%) occur at least once with a non-empty value of `Person`.
 464 lemmas (12%) occur at least once with a non-empty value of `Person`.
 The feature is used with 4 part-of-speech tags: <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (2498; 8% instances), <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (1662; 6% instances), <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> (894; 3% instances), <tt><a href="sl_sst-pos-DET.html">DET</a></tt> (133; 0% instances).
 
@@ -70,16 +70,16 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 ### `PRON`
 
-894 <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> tokens (55% of all `PRON` tokens) have a non-empty value of `Person`.
+894 <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> tokens (54% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="sl_sst-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (894; 100%), <tt><a href="sl_sst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (616; 69%), <tt><a href="sl_sst-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (538; 60%), <tt><a href="sl_sst-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (497; 56%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="sl_sst-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (894; 100%), <tt><a href="sl_sst-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (894; 100%), <tt><a href="sl_sst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (616; 69%), <tt><a href="sl_sst-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (538; 60%), <tt><a href="sl_sst-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (497; 56%).
 
 `PRON` tokens may have the following values of `Person`:
 
 * `1` (387; 43% of non-empty `Person`): <em>jaz, mi, nas, me, meni, mene, nam, nami, mano, midve</em>
 * `2` (195; 22% of non-empty `Person`): <em>ti, vi, vam, te, vas, vami, tebe, tebi, vidva, tabo</em>
 * `3` (312; 35% of non-empty `Person`): <em>ga, jih, jo, on, ona, jim, mu, ji, oni, njega</em>
-* `EMPTY` (746): <em>se, kaj, si, kar, kdo, sabo, česa, nekdo, sebi, koga</em>
+* `EMPTY` (747): <em>se, kaj, si, kar, kdo, sabo, česa, nekdo, sebi, koga</em>
 
 <table>
   <tr><th>Paradigm <i>zame</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>

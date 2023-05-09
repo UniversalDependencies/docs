@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-66 nodes (1%) are attached to their parents as `fixed`.
+65 nodes (1%) are attached to their parents as `fixed`.
 
-66 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.06060606060606.
+65 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.06153846153846.
 
-The following 10 pairs of parts of speech are connected with `fixed`: <tt><a href="br_keb-pos-AUX.html">AUX</a></tt>-<tt><a href="br_keb-pos-X.html">X</a></tt> (34; 52% instances), <tt><a href="br_keb-pos-ADP.html">ADP</a></tt>-<tt><a href="br_keb-pos-X.html">X</a></tt> (13; 20% instances), <tt><a href="br_keb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="br_keb-pos-X.html">X</a></tt> (10; 15% instances), <tt><a href="br_keb-pos-ADP.html">ADP</a></tt>-<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> (2; 3% instances), <tt><a href="br_keb-pos-ADP.html">ADP</a></tt>-<tt><a href="br_keb-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="br_keb-pos-ADP.html">ADP</a></tt>-<tt><a href="br_keb-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="br_keb-pos-ADV.html">ADV</a></tt>-<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="br_keb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="br_keb-pos-X.html">X</a></tt> (1; 2% instances), <tt><a href="br_keb-pos-NUM.html">NUM</a></tt>-<tt><a href="br_keb-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="br_keb-pos-X.html">X</a></tt>-<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> (1; 2% instances).
+The following 10 pairs of parts of speech are connected with `fixed`: <tt><a href="br_keb-pos-AUX.html">AUX</a></tt>-<tt><a href="br_keb-pos-X.html">X</a></tt> (33; 51% instances), <tt><a href="br_keb-pos-ADP.html">ADP</a></tt>-<tt><a href="br_keb-pos-X.html">X</a></tt> (13; 20% instances), <tt><a href="br_keb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="br_keb-pos-X.html">X</a></tt> (10; 15% instances), <tt><a href="br_keb-pos-ADP.html">ADP</a></tt>-<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> (2; 3% instances), <tt><a href="br_keb-pos-ADP.html">ADP</a></tt>-<tt><a href="br_keb-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="br_keb-pos-ADP.html">ADP</a></tt>-<tt><a href="br_keb-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="br_keb-pos-ADV.html">ADV</a></tt>-<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="br_keb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="br_keb-pos-X.html">X</a></tt> (1; 2% instances), <tt><a href="br_keb-pos-NUM.html">NUM</a></tt>-<tt><a href="br_keb-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="br_keb-pos-X.html">X</a></tt>-<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

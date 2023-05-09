@@ -22,17 +22,17 @@ The following 8 pairs of parts of speech are connected with `flat:name`: <tt><a 
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 12 flat:name	color:blue
-1	И	и	CCONJ	_	_	5	cc	_	wf="И"|SpaceAfter=Yes
-2	всего	всего	ADV	_	Degree=Pos	3	advmod	_	wf="всего"|SpaceAfter=Yes
-3	меди	мѣдь	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	5	nsubj	_	wf="меди"|SpaceAfter=Yes
-4	23	23	NUM	_	Case=Nom|NumForm=Digit|NumType=Card	5	nummod:gov	_	wf="23"|SpaceAfter=Yes
-5	фунта	фунтъ	NOUN	_	Case=Nom|Gender=Masc|Number=Count	0	root	_	wf="фунта"|SpaceAfter=Yes
-6	3	3	NUM	_	Case=Nom|NumForm=Digit|NumType=Card	7	nummod:gov	_	wf="3"|SpaceAfter=Yes
+1	И	и	CCONJ	_	_	5	cc	_	wf="И"|_
+2	всего	всего	ADV	_	Degree=Pos	3	advmod	_	wf="всего"|_
+3	меди	мѣдь	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	5	nsubj	_	wf="меди"|_
+4	23	23	NUM	_	Case=Nom|NumForm=Digit|NumType=Card	5	nummod:gov	_	wf="23"|_
+5	фунта	фунтъ	NOUN	_	Case=Nom|Gender=Masc|Number=Count	0	root	_	wf="фунта"|_
+6	3	3	NUM	_	Case=Nom|NumForm=Digit|NumType=Card	7	nummod:gov	_	wf="3"|_
 7	чети	четь	NOUN	_	Case=Nom|Gender=Fem|Number=Count	5	nmod	_	wf="чети"|SpaceAfter=No
-8	,	,	PUNCT	_	_	10	punct	_	wf=","|SpaceAfter=Yes
-9	оприч(ь)	опричь	ADP	_	_	10	case	_	wf="опричь"|SpaceAfter=Yes
-10	блюда	блюдо	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	wf="блюда"|SpaceAfter=Yes
-11	Федора	Федоръ	PROPN	_	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	10	nmod	_	wf="Федора"|SpaceAfter=Yes
+8	,	,	PUNCT	_	_	10	punct	_	wf=","|_
+9	оприч(ь)	опричь	ADP	_	_	10	case	_	wf="опричь"|_
+10	блюда	блюдо	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	wf="блюда"|_
+11	Федора	Федоръ	PROPN	_	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	10	nmod	_	wf="Федора"|_
 12	Ил(ь)ича	Ильичь	PROPN	_	Case=Gen|Gender=Masc|NameType=Pat|Number=Sing	11	flat:name	_	wf="Ильича"|SpaceAfter=No
 13	.	.	PUNCT	_	_	5	punct	_	wf="."|SpaceAfter=No
 
@@ -45,18 +45,18 @@ The following 8 pairs of parts of speech are connected with `flat:name`: <tt><a 
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 13 flat:name	color:blue
-1	Тово	тотъ	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	3	det	_	wf="Тово"|SpaceAfter=Yes
-2	ж	же	PART	_	_	1	advmod	_	wf="ж"|SpaceAfter=Yes
-3	числа	число	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	4	nsubj	_	wf="числа"|SpaceAfter=Yes
-4	отослано	отослати	VERB	_	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	wf="отослано"|SpaceAfter=Yes
-5	з	съ	ADP	_	_	6	case	_	wf="з"|SpaceAfter=Yes
-6	Григор(ь)ем	Григорей	PROPN	_	Case=Ins|Gender=Masc|NameType=Giv|Number=Sing	4	obl	_	wf="Григорьем"|SpaceAfter=Yes
-7	Матвеевым	Матвѣевъ	PROPN	_	Case=Ins|Gender=Masc|NameType=Sur|Number=Sing	6	flat:name	_	wf="Матвеевым"|SpaceAfter=Yes
-8	ко	къ	ADP	_	_	9	case	_	wf="ко"|SpaceAfter=Yes
-9	отцу	отецъ	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	obl	_	wf="отцу"|SpaceAfter=Yes
-10	д(у)ховному	духовный	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	wf="духовному"|SpaceAfter=Yes
-11	Ил(ь)и	Илья	PROPN	_	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	9	appos	_	wf="Ильи"|SpaceAfter=Yes
-12	Аврамьевича	Аврамьевичь	PROPN	_	Case=Gen|Gender=Masc|NameType=Pat|Number=Sing	11	flat:name	_	wf="Аврамьевича"|SpaceAfter=Yes
+1	Тово	тотъ	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	3	det	_	wf="Тово"|_
+2	ж	же	PART	_	_	1	advmod	_	wf="ж"|_
+3	числа	число	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	4	nsubj	_	wf="числа"|_
+4	отослано	отослати	VERB	_	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	wf="отослано"|_
+5	з	съ	ADP	_	_	6	case	_	wf="з"|_
+6	Григор(ь)ем	Григорей	PROPN	_	Case=Ins|Gender=Masc|NameType=Giv|Number=Sing	4	obl	_	wf="Григорьем"|_
+7	Матвеевым	Матвѣевъ	PROPN	_	Case=Ins|Gender=Masc|NameType=Sur|Number=Sing	6	flat:name	_	wf="Матвеевым"|_
+8	ко	къ	ADP	_	_	9	case	_	wf="ко"|_
+9	отцу	отецъ	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	obl	_	wf="отцу"|_
+10	д(у)ховному	духовный	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	wf="духовному"|_
+11	Ил(ь)и	Илья	PROPN	_	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	9	appos	_	wf="Ильи"|_
+12	Аврамьевича	Аврамьевичь	PROPN	_	Case=Gen|Gender=Masc|NameType=Pat|Number=Sing	11	flat:name	_	wf="Аврамьевича"|_
 13	баран	баранъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	11	flat:name	_	wf="баран"|SpaceAfter=No
 14	.	.	PUNCT	_	_	4	punct	_	wf="."|SpaceAfter=No
 

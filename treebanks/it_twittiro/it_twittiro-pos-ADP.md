@@ -59,7 +59,7 @@ The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="it_twittiro-pos-
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.108696 (the average of all parts of speech is 1.274821).
+The form / lemma ratio of `ADP` is 1.108696 (the average of all parts of speech is 1.274961).
 
 The 1st highest number of forms (4) was observed with the lemma “di”: <em>d, d', de, di</em>.
 

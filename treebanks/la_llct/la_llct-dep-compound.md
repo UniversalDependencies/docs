@@ -62,7 +62,7 @@ The following 2 pairs of parts of speech are connected with `compound`: <tt><a h
 10	unum	unus	DET	p|p|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|InflClass=LatPron|Number=Sing|NumType=Card|NumValue=1|PronType=Ind	8	compound	_	SpaceAfter=No
 11	,	,	PUNCT	Punc	_	8	punct	_	_
 12	eos	is	PRON	p|p|-|p|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	13	obj	_	_
-13	inquirere	inquiro	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	14	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+13	inquirere	inquiro	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	14	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 14	cepimus	coepi	VERB	v|v|1|p|r|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Perfectum
 15	.	.	PUNCT	Punc	_	14	punct	_	_
 

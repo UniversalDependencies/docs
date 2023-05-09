@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Card`, `Ord`.
 
-6659 tokens (5%) have a non-empty value of `NumType`.
-1254 types (6%) occur at least once with a non-empty value of `NumType`.
-1254 lemmas (6%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="zh_gsdsimp-pos-NUM.html">NUM</a></tt> (6659; 5% instances).
+6661 tokens (5%) have a non-empty value of `NumType`.
+1255 types (6%) occur at least once with a non-empty value of `NumType`.
+1255 lemmas (6%) occur at least once with a non-empty value of `NumType`.
+The feature is used with 2 part-of-speech tags: <tt><a href="zh_gsdsimp-pos-NUM.html">NUM</a></tt> (6659; 5% instances), <tt><a href="zh_gsdsimp-pos-ADJ.html">ADJ</a></tt> (2; 0% instances).
 
 ### `NUM`
 
@@ -30,6 +30,15 @@ The feature is used with 1 part-of-speech tags: <tt><a href="zh_gsdsimp-pos-NUM.
 </table>
 
 `NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (1252) occur only with one value of `NumType`.
+
+### `ADJ`
+
+2 <tt><a href="zh_gsdsimp-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `NumType`.
+
+`ADJ` tokens may have the following values of `NumType`:
+
+* `Ord` (2; 100% of non-empty `NumType`): 第16、 第一
+* `EMPTY` (3028): 不同、 一些、 重要、 主要、 一般、 最高、 最大、 唯一、 一样、 大量
 
 ## Relations with Agreement in `NumType`
 

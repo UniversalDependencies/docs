@@ -12,7 +12,7 @@ It occurs with 3 different values: `Dual`, `Plur`, `Sing`.
 477701 tokens (65%) have a non-empty value of `Number`.
 1 types (0) occur at least once with a non-empty value of `Number`.
 4838 lemmas (96%) occur at least once with a non-empty value of `Number`.
-The feature is used with 16 part-of-speech tags: <tt><a href="ar_nyuad-pos-NOUN.html">NOUN</a></tt> (221645; 30% instances), <tt><a href="ar_nyuad-pos-ADJ.html">ADJ</a></tt> (69179; 9% instances), <tt><a href="ar_nyuad-pos-VERB.html">VERB</a></tt> (55373; 7% instances), <tt><a href="ar_nyuad-pos-PROPN.html">PROPN</a></tt> (54272; 7% instances), <tt><a href="ar_nyuad-pos-PRON.html">PRON</a></tt> (43068; 6% instances), <tt><a href="ar_nyuad-pos-ADV.html">ADV</a></tt> (19509; 3% instances), <tt><a href="ar_nyuad-pos-DET.html">DET</a></tt> (6065; 1% instances), <tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> (4104; 1% instances), <tt><a href="ar_nyuad-pos-NUM.html">NUM</a></tt> (3526; 0% instances), <tt><a href="ar_nyuad-pos-X.html">X</a></tt> (482; 0% instances), <tt><a href="ar_nyuad-pos-ADP.html">ADP</a></tt> (192; 0% instances), <tt><a href="ar_nyuad-pos-PUNCT.html">PUNCT</a></tt> (154; 0% instances), <tt><a href="ar_nyuad-pos-CCONJ.html">CCONJ</a></tt> (88; 0% instances), <tt><a href="ar_nyuad-pos-SCONJ.html">SCONJ</a></tt> (25; 0% instances), <tt><a href="ar_nyuad-pos-PART.html">PART</a></tt> (16; 0% instances), <tt><a href="ar_nyuad-pos-INTJ.html">INTJ</a></tt> (3; 0% instances).
+The feature is used with 16 part-of-speech tags: <tt><a href="ar_nyuad-pos-NOUN.html">NOUN</a></tt> (221645; 30% instances), <tt><a href="ar_nyuad-pos-ADJ.html">ADJ</a></tt> (69179; 9% instances), <tt><a href="ar_nyuad-pos-VERB.html">VERB</a></tt> (55373; 7% instances), <tt><a href="ar_nyuad-pos-PROPN.html">PROPN</a></tt> (54272; 7% instances), <tt><a href="ar_nyuad-pos-PRON.html">PRON</a></tt> (43070; 6% instances), <tt><a href="ar_nyuad-pos-ADV.html">ADV</a></tt> (19509; 3% instances), <tt><a href="ar_nyuad-pos-DET.html">DET</a></tt> (6065; 1% instances), <tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> (4101; 1% instances), <tt><a href="ar_nyuad-pos-NUM.html">NUM</a></tt> (3526; 0% instances), <tt><a href="ar_nyuad-pos-X.html">X</a></tt> (482; 0% instances), <tt><a href="ar_nyuad-pos-ADP.html">ADP</a></tt> (192; 0% instances), <tt><a href="ar_nyuad-pos-PUNCT.html">PUNCT</a></tt> (154; 0% instances), <tt><a href="ar_nyuad-pos-CCONJ.html">CCONJ</a></tt> (88; 0% instances), <tt><a href="ar_nyuad-pos-SCONJ.html">SCONJ</a></tt> (25; 0% instances), <tt><a href="ar_nyuad-pos-PART.html">PART</a></tt> (17; 0% instances), <tt><a href="ar_nyuad-pos-INTJ.html">INTJ</a></tt> (3; 0% instances).
 
 ### `NOUN`
 
@@ -70,15 +70,15 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 
 ### `PRON`
 
-43068 <tt><a href="ar_nyuad-pos-PRON.html">PRON</a></tt> tokens (99% of all `PRON` tokens) have a non-empty value of `Number`.
+43070 <tt><a href="ar_nyuad-pos-PRON.html">PRON</a></tt> tokens (99% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="ar_nyuad-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (30458; 71%), <tt><a href="ar_nyuad-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (30205; 70%), <tt><a href="ar_nyuad-feat-Person.html">Person</a></tt><tt>=3</tt> (29807; 69%), <tt><a href="ar_nyuad-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (27292; 63%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="ar_nyuad-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (30458; 71%), <tt><a href="ar_nyuad-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (30207; 70%), <tt><a href="ar_nyuad-feat-Person.html">Person</a></tt><tt>=3</tt> (29809; 69%), <tt><a href="ar_nyuad-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (27294; 63%).
 
 `PRON` tokens may have the following values of `Number`:
 
 * `Dual` (726; 2% of non-empty `Number`): _
 * `Plur` (5966; 14% of non-empty `Number`): _
-* `Sing` (36376; 84% of non-empty `Number`): _
+* `Sing` (36378; 84% of non-empty `Number`): _
 * `EMPTY` (425): _
 
 `Number` seems to be **lexical feature** of `PRON`. 92% lemmas (12) occur only with one value of `Number`.
@@ -110,16 +110,16 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 ### `AUX`
 
-4104 <tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> tokens (45% of all `AUX` tokens) have a non-empty value of `Number`.
+4101 <tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> tokens (45% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="ar_nyuad-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4076; 99%), <tt><a href="ar_nyuad-feat-Person.html">Person</a></tt><tt>=3</tt> (3927; 96%), <tt><a href="ar_nyuad-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3347; 82%), <tt><a href="ar_nyuad-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2728; 66%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="ar_nyuad-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4076; 99%), <tt><a href="ar_nyuad-feat-Person.html">Person</a></tt><tt>=3</tt> (3924; 96%), <tt><a href="ar_nyuad-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3347; 82%), <tt><a href="ar_nyuad-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2726; 66%).
 
 `AUX` tokens may have the following values of `Number`:
 
 * `Dual` (42; 1% of non-empty `Number`): _
 * `Plur` (235; 6% of non-empty `Number`): _
-* `Sing` (3827; 93% of non-empty `Number`): _
-* `EMPTY` (5059): _
+* `Sing` (3824; 93% of non-empty `Number`): _
+* `EMPTY` (5054): _
 
 ### `NUM`
 
@@ -160,7 +160,7 @@ The most frequent other feature values with which `ADP` and `Number` co-occurred
 * `Dual` (3; 2% of non-empty `Number`): _
 * `Plur` (29; 15% of non-empty `Number`): _
 * `Sing` (160; 83% of non-empty `Number`): _
-* `EMPTY` (91550): _
+* `EMPTY` (91551): _
 
 ### `PUNCT`
 
@@ -182,7 +182,7 @@ The most frequent other feature values with which `ADP` and `Number` co-occurred
 * `Dual` (5; 6% of non-empty `Number`): _
 * `Plur` (14; 16% of non-empty `Number`): _
 * `Sing` (69; 78% of non-empty `Number`): _
-* `EMPTY` (49070): _
+* `EMPTY` (49073): _
 
 <table>
   <tr><th>Paradigm <i>w</i></th><th><tt>Sing</tt></th><th><tt>Dual</tt></th><th><tt>Plur</tt></th></tr>
@@ -203,13 +203,13 @@ The most frequent other feature values with which `ADP` and `Number` co-occurred
 
 ### `PART`
 
-16 <tt><a href="ar_nyuad-pos-PART.html">PART</a></tt> tokens (1% of all `PART` tokens) have a non-empty value of `Number`.
+17 <tt><a href="ar_nyuad-pos-PART.html">PART</a></tt> tokens (1% of all `PART` tokens) have a non-empty value of `Number`.
 
 `PART` tokens may have the following values of `Number`:
 
-* `Plur` (2; 13% of non-empty `Number`): _
-* `Sing` (14; 88% of non-empty `Number`): _
-* `EMPTY` (2503): _
+* `Plur` (2; 12% of non-empty `Number`): _
+* `Sing` (15; 88% of non-empty `Number`): _
+* `EMPTY` (2504): _
 
 ### `INTJ`
 
@@ -226,8 +226,8 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="ar_nyuad-dep-amod.html">amod</a></tt>]--> ADJ</tt> (46087; 84%),
 <tt>NOUN --[<tt><a href="ar_nyuad-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (45604; 83%),
 <tt>NOUN --[<tt><a href="ar_nyuad-dep-obj.html">obj</a></tt>]--> NOUN</tt> (37305; 83%),
-<tt>VERB --[<tt><a href="ar_nyuad-dep-obj.html">obj</a></tt>]--> NOUN</tt> (26364; 80%),
-<tt>VERB --[<tt><a href="ar_nyuad-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (16157; 86%),
+<tt>VERB --[<tt><a href="ar_nyuad-dep-obj.html">obj</a></tt>]--> NOUN</tt> (26365; 80%),
+<tt>VERB --[<tt><a href="ar_nyuad-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (16145; 86%),
 <tt>PROPN --[<tt><a href="ar_nyuad-dep-flat.html">flat</a></tt>]--> PROPN</tt> (13747; 96%),
 <tt>NOUN --[<tt><a href="ar_nyuad-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (11788; 75%),
 <tt>VERB --[<tt><a href="ar_nyuad-dep-iobj.html">iobj</a></tt>]--> NOUN</tt> (11534; 83%),

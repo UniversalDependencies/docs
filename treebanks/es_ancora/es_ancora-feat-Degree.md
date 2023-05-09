@@ -16,14 +16,14 @@ The feature is used with 4 part-of-speech tags: <tt><a href="es_ancora-pos-ADV.h
 
 ### `ADV`
 
-2104 <tt><a href="es_ancora-pos-ADV.html">ADV</a></tt> tokens (12% of all `ADV` tokens) have a non-empty value of `Degree`.
+2104 <tt><a href="es_ancora-pos-ADV.html">ADV</a></tt> tokens (11% of all `ADV` tokens) have a non-empty value of `Degree`.
 
 The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="es_ancora-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (2104; 100%).
 
 `ADV` tokens may have the following values of `Degree`:
 
 * `Cmp` (2104; 100% of non-empty `Degree`): <em>más, menos</em>
-* `EMPTY` (15702): <em>no, también, ya, hoy, ayer, muy, sólo, después, ahora, además</em>
+* `EMPTY` (16247): <em>no, también, ya, hoy, ayer, muy, sólo, después, ahora, donde</em>
 
 ### `ADJ`
 
@@ -49,7 +49,7 @@ The most frequent other feature values with which `DET` and `Degree` co-occurred
 `DET` tokens may have the following values of `Degree`:
 
 * `Abs` (4; 100% of non-empty `Degree`): <em>mismísimo, muchísimos</em>
-* `EMPTY` (84243): <em>el, la, los, un, las, una, su, sus, este, esta</em>
+* `EMPTY` (84398): <em>el, la, los, un, las, una, su, sus, este, esta</em>
 
 ### `PRON`
 
@@ -60,7 +60,7 @@ The most frequent other feature values with which `PRON` and `Degree` co-occurre
 `PRON` tokens may have the following values of `Degree`:
 
 * `Abs` (1; 100% of non-empty `Degree`): <em>muchísimos</em>
-* `EMPTY` (25904): <em>que, se, lo, le, me, donde, nos, uno, quien, la</em>
+* `EMPTY` (25205): <em>que, se, lo, le, me, nos, uno, quien, la, les</em>
 
 ## Relations with Agreement in `Degree`
 

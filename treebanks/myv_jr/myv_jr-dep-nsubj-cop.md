@@ -54,7 +54,7 @@ The following 18 pairs of parts of speech are connected with `nsubj:cop`: <tt><a
 3	шумбрат	шумбра	ADJ	A	Number[subj]=Sing|Person[subj]=2|Tense=Pres	0	root	_	GTtags=Prs,ScSg2|SpaceAfter=No
 4	,	,	PUNCT	CLB	_	6	punct	_	_
 5	—	—	PUNCT	PUNCT	_	6	punct	_	_
-6	отвечась	отвечамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	3	parataxis	_	GTtags=IV,Ind,Prt1,ScSg3|1q-1:24.1,9
+6	отвечась	отвечамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	3	parataxis	_	GTtags=IV,Ind,Prt1,ScSg3|1q-1:24.1,9
 7	тензэ	сон	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Prs|Variant=Short	6	obl	_	GTtags=Pers,Sg3,Dat,Short
 8	Якшамкань	Якшамка	PROPN	N	Case=Gen|Definite=Ind|NameType=Hom|Number=Plur,Sing	9	nmod	_	GTtags=Sem/Plc,SP,Gen,Indef
 9	Урван	Урван	PROPN	N	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	6	nsubj	_	GTtags=Ant_Mal,Sg,Nom,Indef|SpaceAfter=No

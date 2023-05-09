@@ -56,7 +56,7 @@ The following 5 pairs of parts of speech are connected with `expl`: <tt><a href=
 6	sum	_	SCONJ	C	_	8	mark	_	_
 7	hevði	_	AUX	HVDI	Mood=Ind|Tense=Past	8	aux	_	_
 8	givið	_	VERB	VBN	Tense=Past|VerbForm=Part	4	acl:relcl	_	_
-9	Jödunum	_	PROPN	NPRS-D	Case=Dat|Definite=Ind|Number=Plur	8	iobj	_	_
+9	Jödunum	_	PROPN	NPRS-D	Case=Dat|Definite=Def|Number=Plur	8	iobj	_	_
 10	tað	_	DET	D-A	Case=Acc	11	det	_	_
 11	ráð	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	8	obj	_	SpaceAfter=No
 12	,	,	PUNCT	,	_	11	punct	_	_
@@ -70,7 +70,7 @@ The following 5 pairs of parts of speech are connected with `expl`: <tt><a href=
 20	maður	_	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	21	nsubj	_	_
 21	doyði	_	VERB	VBDI	Mood=Ind|Tense=Past	16	ccomp	_	_
 22	fyri	_	ADP	P	_	23	case	_	_
-23	fólkið	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	21	obl	_	SpaceAfter=No
+23	fólkið	_	NOUN	N-A	Case=Acc|Definite=Def|Number=Sing	21	obl	_	SpaceAfter=No
 24	.	.	PUNCT	.	_	23	punct	_	_
 
 ~~~

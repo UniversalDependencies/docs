@@ -39,7 +39,7 @@ The following 5 pairs of parts of speech are connected with `discourse`: <tt><a 
 15	掛け声	掛け声	NOUN	名詞-普通名詞-一般	_	17	obl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UnidicInfo=,掛け声,掛け声,掛け声,カケゴエ,,,カケゴエ,カケゴエ,掛け声
 16	で	で	ADP	助詞-格助詞	_	15	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No|UnidicInfo=,で,で,で,デ,,,デ,デ,で
 17	進む	進む	VERB	動詞-一般-五段-マ行	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=動詞-一般-五段-マ行|SpaceAfter=No|UnidicInfo=,進む,進む,進む,ススム,,,ススム,ススム,進む
-18	。	。	PUNCT	補助記号-句点	_	17	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-句点|SpaceAfter=Yes|UnidicInfo=,。,。,。,,,,,,。
+18	。	。	PUNCT	補助記号-句点	_	17	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-句点|UnidicInfo=,。,。,。,,,,,,。
 
 ~~~
 
@@ -74,7 +74,7 @@ The following 5 pairs of parts of speech are connected with `discourse`: <tt><a 
 22	です	です	AUX	助動詞-助動詞-デス	_	21	fixed	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=I|LUWPOS=助動詞-助動詞-デス|PrevUDLemma=だ|SpaceAfter=No|UnidicInfo=,です,です,です,デス,,,デス,ノデス,のです
 23	か	か	PART	助詞-終助詞	_	19	mark	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助詞-終助詞|SpaceAfter=No|UnidicInfo=,か,か,か,カ,,,カ,カ,か
 24	?	?	PUNCT	補助記号-句点	_	19	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-句点|SpaceAfter=No|UnidicInfo=,？,?,?,,,,,,？
-25	”	”	PUNCT	補助記号-括弧閉	_	19	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-括弧閉|SpaceAfter=Yes|UnidicInfo=,”,”,”,,,,,,”
+25	”	”	PUNCT	補助記号-括弧閉	_	19	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-括弧閉|UnidicInfo=,”,”,”,,,,,,”
 
 ~~~
 
@@ -102,7 +102,7 @@ The following 5 pairs of parts of speech are connected with `discourse`: <tt><a 
 15	まし	ます	AUX	助動詞-助動詞-マス	_	12	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助動詞-助動詞-マス|SpaceAfter=No|UnidicInfo=,ます,まし,ます,マシ,,,マス,マス,ます
 16	た	た	AUX	助動詞-助動詞-タ	_	12	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助動詞-助動詞-タ|SpaceAfter=No|UnidicInfo=,た,た,た,タ,,,タ,タ,た
 17	よ	よ	PART	助詞-終助詞	_	12	mark	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助詞-終助詞|SpaceAfter=No|UnidicInfo=,よ,よ,よ,ヨ,,,ヨ,ヨ,よ
-18	^^	^^	SYM	絵文字・記号等	_	12	discourse	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=補助記号-ＡＡ-顔文字|SpaceAfter=Yes|UnidicInfo=,,^^,,,,,,,
+18	^^	^^	SYM	絵文字・記号等	_	12	discourse	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=補助記号-ＡＡ-顔文字|UnidicInfo=,,^^,,,,,,,
 
 ~~~
 

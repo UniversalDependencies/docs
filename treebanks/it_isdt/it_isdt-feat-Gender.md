@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Fem`, `Masc`.
 
-123811 tokens (41%) have a non-empty value of `Gender`.
-14896 types (54%) occur at least once with a non-empty value of `Gender`.
+123791 tokens (41%) have a non-empty value of `Gender`.
+14895 types (54%) occur at least once with a non-empty value of `Gender`.
 10096 lemmas (54%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 10 part-of-speech tags: <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> (57525; 19% instances), <tt><a href="it_isdt-pos-DET.html">DET</a></tt> (41725; 14% instances), <tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt> (12632; 4% instances), <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> (8135; 3% instances), <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (3037; 1% instances), <tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> (753; 0% instances), <tt><a href="it_isdt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="it_isdt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="it_isdt-pos-X.html">X</a></tt> (1; 0% instances).
+The feature is used with 10 part-of-speech tags: <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> (57506; 19% instances), <tt><a href="it_isdt-pos-DET.html">DET</a></tt> (41725; 14% instances), <tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt> (12632; 4% instances), <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> (8135; 3% instances), <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (3036; 1% instances), <tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> (753; 0% instances), <tt><a href="it_isdt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="it_isdt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="it_isdt-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-57525 <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> tokens (97% of all `NOUN` tokens) have a non-empty value of `Gender`.
+57506 <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> tokens (97% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="it_isdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (37461; 65%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="it_isdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (37442; 65%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
 * `Fem` (25667; 45% of non-empty `Gender`): <em>città, parte, persone, legge, società, proprietà, attività, vita, servitù, commissione</em>
-* `Masc` (31858; 55% of non-empty `Gender`): <em>anni, presidente, anno, fondo, diritto, film, stato, proprietario, mondo, caso</em>
+* `Masc` (31839; 55% of non-empty `Gender`): <em>anni, presidente, anno, fondo, diritto, film, stato, proprietario, mondo, caso</em>
 * `EMPTY` (1918): <em>presidente, rappresentanti, onorevole, abitanti, grazie, fronte, giovani, enfiteuta, leader, partecipanti</em>
 
 <table>
@@ -32,7 +32,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
   <tr><td><tt><tt><a href="it_isdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>proprietari</em></td><td></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 98% lemmas (6660) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 98% lemmas (6659) occur only with one value of `Gender`.
 
 ### `DET`
 
@@ -84,7 +84,7 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 
 * `Fem` (2335; 29% of non-empty `Gender`): <em>fatta, stabilite, fatte, vista, dovuta, considerata, costituita, fondata, nata, chiamata</em>
 * `Masc` (5800; 71% of non-empty `Gender`): <em>fatto, visto, vinto, avuto, tenuto, detto, nato, dato, messo, ricevuto</em>
-* `EMPTY` (17113): <em>ha, è, hanno, fare, far, trova, sono, fa, chiama, vedere</em>
+* `EMPTY` (17114): <em>ha, è, hanno, fare, far, trova, sono, fa, chiama, vedere</em>
 
 <table>
   <tr><th>Paradigm <i>avere</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -93,15 +93,15 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 
 ### `PRON`
 
-3037 <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> tokens (27% of all `PRON` tokens) have a non-empty value of `Gender`.
+3036 <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> tokens (27% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="it_isdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2219; 73%), <tt><a href="it_isdt-feat-Clitic.html">Clitic</a></tt><tt>=EMPTY</tt> (2186; 72%), <tt><a href="it_isdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1852; 61%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="it_isdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2218; 73%), <tt><a href="it_isdt-feat-Clitic.html">Clitic</a></tt><tt>=EMPTY</tt> (2185; 72%), <tt><a href="it_isdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1851; 61%).
 
 `PRON` tokens may have the following values of `Gender`:
 
 * `Fem` (758; 25% of non-empty `Gender`): <em>la, le, quella, quelle, una, questa, essa, esse, altra, lei</em>
-* `Masc` (2279; 75% of non-empty `Gender`): <em>lo, quello, uno, li, questo, gli, lui, tutto, ciò, tutti</em>
-* `EMPTY` (8258): <em>si, che, chi, ci, cui, ne, qual, c', mi, quale</em>
+* `Masc` (2278; 75% of non-empty `Gender`): <em>lo, quello, uno, li, questo, gli, lui, tutto, ciò, tutti</em>
+* `EMPTY` (8277): <em>si, che, chi, ci, cui, ne, qual, c', mi, quale</em>
 
 <table>
   <tr><th>Paradigm <i>lo</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -119,7 +119,7 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 
 * `Fem` (233; 31% of non-empty `Gender`): <em>stata, state, potuta, andata, fatta</em>
 * `Masc` (520; 69% of non-empty `Gender`): <em>stato, stati, potuto, dovuto, voluto, andato, fatto, potuti</em>
-* `EMPTY` (10952): <em>è, sono, ha, può, hanno, essere, era, possono, deve, sia</em>
+* `EMPTY` (10951): <em>è, sono, ha, può, hanno, essere, era, possono, deve, sia</em>
 
 <table>
   <tr><th>Paradigm <i>essere</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -145,7 +145,7 @@ The most frequent other feature values with which `ADV` and `Gender` co-occurred
 `ADV` tokens may have the following values of `Gender`:
 
 * `Masc` (1; 100% of non-empty `Gender`): <em>pochissimo</em>
-* `EMPTY` (11410): <em>non, più, anche, dove, come, quando, solo, prima, sempre, molto</em>
+* `EMPTY` (11406): <em>non, più, anche, dove, come, quando, solo, prima, sempre, molto</em>
 
 ### `PROPN`
 
@@ -170,7 +170,7 @@ The most frequent other feature values with which `X` and `Gender` co-occurred: 
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="it_isdt-dep-det.html">det</a></tt>]--> DET</tt> (34202; 84%),
+<tt>NOUN --[<tt><a href="it_isdt-dep-det.html">det</a></tt>]--> DET</tt> (34183; 84%),
 <tt>NOUN --[<tt><a href="it_isdt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (10013; 63%),
 <tt>NOUN --[<tt><a href="it_isdt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2459; 55%),
 <tt>NOUN --[<tt><a href="it_isdt-dep-acl.html">acl</a></tt>]--> VERB</tt> (1638; 62%),

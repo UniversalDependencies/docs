@@ -9,20 +9,20 @@ udver: '2'
 This feature is language-specific.
 It occurs with 4 different values: `Aux`, `Cop`, `Mod`, `Pas`.
 
-3139 tokens (6%) have a non-empty value of `VerbType`.
+3138 tokens (6%) have a non-empty value of `VerbType`.
 21 types (0%) occur at least once with a non-empty value of `VerbType`.
 12 lemmas (0%) occur at least once with a non-empty value of `VerbType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt> (3139; 6% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt> (3138; 6% instances).
 
 ### `AUX`
 
-3139 <tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbType`.
+3138 <tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbType`.
 
-The most frequent other feature values with which `AUX` and `VerbType` co-occurred: <tt><a href="af_afribooms-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2775; 88%), <tt><a href="af_afribooms-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin,Inf</tt> (2775; 88%).
+The most frequent other feature values with which `AUX` and `VerbType` co-occurred: <tt><a href="af_afribooms-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2774; 88%), <tt><a href="af_afribooms-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin,Inf</tt> (2774; 88%).
 
 `AUX` tokens may have the following values of `VerbType`:
 
-* `Aux` (423; 13% of non-empty `VerbType`): <em>het, sal</em>
+* `Aux` (422; 13% of non-empty `VerbType`): <em>het, sal</em>
 * `Cop` (688; 22% of non-empty `VerbType`): <em>is, wees, was, gewees, word</em>
 * `Mod` (1173; 37% of non-empty `VerbType`): <em>sal, moet, kan, wil, mag, behoort, moes, sou, hoef, kon</em>
 * `Pas` (855; 27% of non-empty `VerbType`): <em>word, is, wees</em>

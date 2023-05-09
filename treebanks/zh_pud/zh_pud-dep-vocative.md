@@ -22,17 +22,17 @@ The following 1 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 10 vocative	color:blue
-1	這	_	PRON	PRD	_	2	nsubj	_	SpaceAfter=No|Translit=zhè
-2	不是	_	VERB	VC	_	0	root	_	SpaceAfter=No|Translit=bùshì
-3	我們	_	PRON	PRP	Number=Plur|Person=1	5	nmod	_	SpaceAfter=No|Translit=wǒmen
-4	的	_	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|Translit=de
-5	國家	_	NOUN	NN	_	7	nsubj	_	SpaceAfter=No|Translit=guójiā
-6	所	_	ADV	RB	_	7	mark:prt	_	SpaceAfter=No|Translit=suǒ
-7	需要	_	VERB	VV	_	2	ccomp	_	SpaceAfter=No|Translit=xūyào
-8	的	_	PART	UH	_	2	discourse:sp	_	SpaceAfter=No|Translit=de
-9	，	_	PUNCT	,	_	10	punct	_	SpaceAfter=No|Translit=，
-10	兄弟們	_	NOUN	NN	_	2	vocative	_	SpaceAfter=No|Translit=xiōngdìmen
-11	。	_	PUNCT	.	_	2	punct	_	Translit=。
+1	這	這	PRON	PRD	_	2	nsubj	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+2	不是	是	VERB	VC	Polarity=Neg	0	root	_	SpaceAfter=No|Translit=bùshì|LTranslit=shì
+3	我們	我	PRON	PRP	Number=Plur|Person=1	5	nmod	_	SpaceAfter=No|Translit=wǒmen|LTranslit=wǒ
+4	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|Translit=de|LTranslit=de
+5	國家	國家	NOUN	NN	_	7	nsubj	_	SpaceAfter=No|Translit=guójiā|LTranslit=guójiā
+6	所	所	ADV	RB	_	7	mark:prt	_	SpaceAfter=No|Translit=suǒ|LTranslit=suǒ
+7	需要	需要	VERB	VV	_	2	ccomp	_	SpaceAfter=No|Translit=xūyào|LTranslit=xūyào
+8	的	的	PART	UH	_	2	discourse:sp	_	SpaceAfter=No|Translit=de|LTranslit=de
+9	，	，	PUNCT	,	_	10	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
+10	兄弟們	兄弟們	NOUN	NN	_	2	vocative	_	SpaceAfter=No|Translit=xiōngdìmen|LTranslit=xiōngdìmen
+11	。	。	PUNCT	.	_	2	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

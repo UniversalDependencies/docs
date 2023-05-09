@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.9 release.
 The following people have contributed to making this treebank part of UD: Tatiana Merzhevich, Fabrício Ferraz Gerardi.
 
 Repository: [UD_Yakut-YKTDT](https://github.com/UniversalDependencies/UD_Yakut-YKTDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsah_yktdt211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsah_yktdt212)<br />
+Download all treebanks: [UD 2.12](/#download)
 
 License: CC BY-SA 4.0
 
@@ -76,17 +76,17 @@ The development of the treebank is supported by the by European Research Council
 
 ## Features
 
-[Advlz](sah_yktdt-feat-Advlz.html) – [Case](sah_yktdt-feat-Case.html) – [Int](sah_yktdt-feat-Int.html) – [Mood](sah_yktdt-feat-Mood.html) – [Nomzr](sah_yktdt-feat-Nomzr.html) – [Number](sah_yktdt-feat-Number.html) – [Number[psor]](sah_yktdt-feat-Number-psor.html) – [NumType](sah_yktdt-feat-NumType.html) – [Person](sah_yktdt-feat-Person.html) – [Person[psor]](sah_yktdt-feat-Person-psor.html) – [Polarity](sah_yktdt-feat-Polarity.html) – [PronType](sah_yktdt-feat-PronType.html) – [Tense](sah_yktdt-feat-Tense.html) – [VerbForm](sah_yktdt-feat-VerbForm.html)
+[Advlz](sah_yktdt-feat-Advlz.html) – [Case](sah_yktdt-feat-Case.html) – [Evident](sah_yktdt-feat-Evident.html) – [Int](sah_yktdt-feat-Int.html) – [Mood](sah_yktdt-feat-Mood.html) – [Nomzr](sah_yktdt-feat-Nomzr.html) – [Number](sah_yktdt-feat-Number.html) – [Number[psor]](sah_yktdt-feat-Number-psor.html) – [NumType](sah_yktdt-feat-NumType.html) – [Person](sah_yktdt-feat-Person.html) – [Person[psor]](sah_yktdt-feat-Person-psor.html) – [Polarity](sah_yktdt-feat-Polarity.html) – [PronType](sah_yktdt-feat-PronType.html) – [Tense](sah_yktdt-feat-Tense.html) – [VerbForm](sah_yktdt-feat-VerbForm.html)
 
 ## Relations
 
-[advmod](sah_yktdt-dep-advmod.html) – [amod](sah_yktdt-dep-amod.html) – [appos](sah_yktdt-dep-appos.html) – [aux](sah_yktdt-dep-aux.html) – [case](sah_yktdt-dep-case.html) – [cc](sah_yktdt-dep-cc.html) – [ccomp](sah_yktdt-dep-ccomp.html) – [compound](sah_yktdt-dep-compound.html) – [conj](sah_yktdt-dep-conj.html) – [cop](sah_yktdt-dep-cop.html) – [csubj](sah_yktdt-dep-csubj.html) – [dep](sah_yktdt-dep-dep.html) – [det](sah_yktdt-dep-det.html) – [discourse](sah_yktdt-dep-discourse.html) – [iobj](sah_yktdt-dep-iobj.html) – [nmod](sah_yktdt-dep-nmod.html) – [nsubj](sah_yktdt-dep-nsubj.html) – [nummod](sah_yktdt-dep-nummod.html) – [obj](sah_yktdt-dep-obj.html) – [obl](sah_yktdt-dep-obl.html) – [parataxis](sah_yktdt-dep-parataxis.html) – [punct](sah_yktdt-dep-punct.html) – [root](sah_yktdt-dep-root.html) – [vocative](sah_yktdt-dep-vocative.html) – [xcomp](sah_yktdt-dep-xcomp.html)
+[advmod](sah_yktdt-dep-advmod.html) – [amod](sah_yktdt-dep-amod.html) – [appos](sah_yktdt-dep-appos.html) – [aux](sah_yktdt-dep-aux.html) – [case](sah_yktdt-dep-case.html) – [cc](sah_yktdt-dep-cc.html) – [ccomp](sah_yktdt-dep-ccomp.html) – [compound](sah_yktdt-dep-compound.html) – [conj](sah_yktdt-dep-conj.html) – [cop](sah_yktdt-dep-cop.html) – [csubj](sah_yktdt-dep-csubj.html) – [dep](sah_yktdt-dep-dep.html) – [det](sah_yktdt-dep-det.html) – [discourse](sah_yktdt-dep-discourse.html) – [dislocated](sah_yktdt-dep-dislocated.html) – [iobj](sah_yktdt-dep-iobj.html) – [nmod](sah_yktdt-dep-nmod.html) – [nsubj](sah_yktdt-dep-nsubj.html) – [nummod](sah_yktdt-dep-nummod.html) – [obj](sah_yktdt-dep-obj.html) – [obl](sah_yktdt-dep-obl.html) – [parataxis](sah_yktdt-dep-parataxis.html) – [punct](sah_yktdt-dep-punct.html) – [root](sah_yktdt-dep-root.html) – [vocative](sah_yktdt-dep-vocative.html) – [xcomp](sah_yktdt-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 289 sentences, 1402 tokens and 1403 syntactic words.</li>
+<li>This corpus contains 299 sentences, 1459 tokens and 1460 syntactic words.</li>
 </ul>
 
 <ul>
@@ -116,11 +116,11 @@ The development of the treebank is supported by the by European Research Council
 </ul>
 
 <ul>
-<li>This corpus contains 3 word types tagged as particles (PART): дуо, дуу, эрэ</li>
+<li>This corpus contains 4 word types tagged as particles (PART): дуо, дуу, эрэ, үһү</li>
 </ul>
 
 <ul>
-<li>This corpus contains 15 lemmas tagged as pronouns (PRON): бары, биһиги, ити, ким, кини, мин, ол, сорох, тоҕо, тугу, туох, ханна, ханнык, эн, эһиги</li>
+<li>This corpus contains 17 lemmas tagged as pronouns (PRON): бары, биһиги, ити, ким, кини, мин, ол, сорох, тоҕо, тугу, туох, хайдах, ханна, ханнык, хантан, эн, эһиги</li>
 </ul>
 
 <ul>
@@ -139,13 +139,29 @@ The development of the treebank is supported by the by European Research Council
 </ul>
 
 <ul>
-<li>There are 1 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+<li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
+<ul>
+  <li>Conv
+  <ul>
+    <li>VERB: ааҕан, былдьаан, куйуурдаан, сиэн, тоҥон, хоройон</li>
+  </ul>
+  </li>
 </ul>
 
 <ul>
   <li>Inf
   <ul>
     <li>VERB: ааҕарга</li>
+  </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Part
+  <ul>
+    <li>VERB: биэрбит, кэбиспит, хаалбыт, ыйыппыт</li>
   </ul>
   </li>
 </ul>
@@ -163,7 +179,7 @@ The development of the treebank is supported by the by European Research Council
   <li>Plur
     <ul>
       <li>AUX: баарбыт</li>
-      <li>NOUN: оҕолор, Кинигэлэри, Олоппосторго, ааннары, доҕотторо, дьахталлар, дьоннор, километры, көтөрдөрү, нууччалар</li>
+      <li>NOUN: оҕолор, Кинигэлэри, Олоппосторго, ааннары, доҕотторо, дьахталлар, дьоннор, километры, кэпсээннэри, көтөрдөрү</li>
       <li>PRON: биһиги, Эһиэхэ, кинилэр, сорохтор, Эһиги, Биһиэхэ, Кинилэри, барытын</li>
       <li>VERB: үөрэнэллэр, аһыыллар, туруораллар, аһыҥ, биэрэллэр, олороллор, суруйаллар, сууйуҥ, туруҥ, утуйаллар</li>
     </ul>
@@ -173,9 +189,9 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>Sing
     <ul>
-      <li>NOUN: киһи, дьон, оскуолаҕа, оҕо, ууга, килиэптэ, кылааска, кыыс, уу, эт</li>
+      <li>NOUN: киһи, дьон, оскуолаҕа, оҕо, ууга, килиэптэ, кинигэни, кылааска, кыыс, уу</li>
       <li>PRON: кини, эн, мин, бары, миэхэ, Эйиэхэ, киниэхэ, миигин</li>
-      <li>VERB: үөрэнэр, ааҕар, турар, ыалдьар, сиэ, аһыыр, кэл, олор, суруйар, эттэ</li>
+      <li>VERB: үөрэнэр, ааҕар, турар, ыалдьар, сиэ, аһыыр, кэл, олор, олорор, суруйар</li>
     </ul>
   </li>
 </ul>
@@ -187,7 +203,7 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>Abl
     <ul>
-      <li>NOUN: Яблокаттан, буочукаттан, Оскуолаттан, баһаартан, халлаантан, ынахтан</li>
+      <li>NOUN: Яблокаттан, буочукаттан, кинигэттэн, Ойбонтон, Оскуолаттан, баһаартан, халлаантан, ынахтан</li>
     </ul>
   </li>
 </ul>
@@ -214,7 +230,7 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>Dat
     <ul>
-      <li>NOUN: оскуолаҕа, ууга, кылааска, куоракка, хоско, дьиэҕэ, муннукка, ойуурга, паартаҕа, тарбаҕа</li>
+      <li>NOUN: оскуолаҕа, ууга, кылааска, куоракка, хоско, дьиэҕэ, муннукка, ойбоҥҥо, ойуурга, паартаҕа</li>
       <li>PRON: Эһиэхэ, миэхэ, Биһиэхэ, Онуоха, Эйиэхэ, киниэхэ, туохха</li>
       <li>PROPN: Дьокуускайга, Айталга, Кэскилга, Москваҕа, Петровка</li>
     </ul>
@@ -224,7 +240,7 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>Ins
     <ul>
-      <li>NOUN: атынан, сабынан, уочаратынан, хаанынан</li>
+      <li>NOUN: Кутурукпунан, атынан, сабынан, уочаратынан, хаанынан</li>
     </ul>
   </li>
 </ul>
@@ -260,7 +276,7 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>Neg
     <ul>
-      <li>VERB: сиэмэ, аахпаппыт, аһаама, аһымаҥ, билбэккин, быһыма, киирбэт, киирбэттэр, киллэримэҥ, кэлбэккит</li>
+      <li>VERB: сиэмэ, аахпаппыт, аһаама, аһымаҥ, билбэккин, былдьаспат, быһыма, киирбэт, киирбэттэр, киллэримэҥ</li>
     </ul>
   </li>
 </ul>
@@ -303,6 +319,14 @@ The development of the treebank is supported by the by European Research Council
 </ul>
 
 <ul>
+  <li>Past
+    <ul>
+      <li>VERB-Part: биэрбит, кэбиспит, хаалбыт, ыйыппыт</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>PastPerf
     <ul>
       <li>VERB: билбитим, киирбитэ, көппүтүм, көрбүтүм, олорбутум, сууллубутуҥ, туһалаабыта, түспүтүм, утарбыттара</li>
@@ -322,12 +346,23 @@ The development of the treebank is supported by the by European Research Council
   <li>Pres
     <ul>
       <li>AUX: баарбыт</li>
-      <li>VERB: үөрэнэр, ааҕар, турар, ыалдьар, сиэ, үөрэнэллэр, аһыыр, кэл, олор, суруйар</li>
+      <li>VERB: үөрэнэр, ааҕар, турар, ыалдьар, сиэ, үөрэнэллэр, аһыыр, кэл, олор, олорор</li>
     </ul>
   </li>
 </ul>
 
 
+<ul>
+  <li><a>Evident</a></li>
+</ul>
+
+<ul>
+  <li>Nfh
+    <ul>
+      <li>PART: үһү</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
@@ -357,7 +392,7 @@ The development of the treebank is supported by the by European Research Council
   <li>Int
     <ul>
       <li>NUM: хас</li>
-      <li>PRON: тугу, ханна, ким, ханнык, кимий, тоҕо, Онуоха, туохха</li>
+      <li>PRON: тугу, ханна, ким, ханнык, кимий, Хайдах, тоҕо, хантан, Онуоха, туохха</li>
     </ul>
   </li>
 </ul>
@@ -419,7 +454,7 @@ The development of the treebank is supported by the by European Research Council
   <li>3
     <ul>
       <li>PRON: кини, бары, кинилэр, Кинилэри, барытын, киниэхэ</li>
-      <li>VERB: үөрэнэр, ааҕар, турар, ыалдьар, үөрэнэллэр, аһыыр, суруйар, эттэ, үөрэнэрий, аһыыллар</li>
+      <li>VERB: үөрэнэр, ааҕар, турар, ыалдьар, үөрэнэллэр, аһыыр, олорор, суруйар, эттэ, үөрэнэрий</li>
     </ul>
   </li>
 </ul>
@@ -492,7 +527,7 @@ The development of the treebank is supported by the by European Research Council
     <ul>
       <li>1
         <ul>
-          <li>NOUN: Ийэм, Аҕам, Эһэм, Быраатым, Доҕорум, Дьонум, Илиибин, Эбэм, аатым, атаһым</li>
+          <li>NOUN: Ийэм, Аҕам, Эһэм, Быраатым, Доҕорум, Дьонум, Илиибин, Кутурукпунан, Эбэм, аатым</li>
         </ul>
       </li>
       <li>2
@@ -502,7 +537,7 @@ The development of the treebank is supported by the by European Research Council
       </li>
       <li>3
         <ul>
-          <li>NOUN: убайа, аата, аҕата, ууһа, аатын, аҕатыгар, быара, доҕоро, доҕотторо, дьааһыга</li>
+          <li>NOUN: убайа, аата, аҕата, ууһа, аатын, аҕатыгар, балыгын, быара, доҕоро, доҕотторо</li>
         </ul>
       </li>
     </ul>
@@ -527,11 +562,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
+      <li>VERB--NOUN (1)</li>
       <li>VERB--NOUN-Acc (5)</li>
       <li>VERB--NOUN-Ins (1)</li>
-      <li>VERB--NOUN-Nom (99)</li>
+      <li>VERB--NOUN-Nom (100)</li>
       <li>VERB--PRON (4)</li>
       <li>VERB--PRON-Nom (50)</li>
+      <li>VERB-Conv--NOUN-Nom (2)</li>
     </ul>
   </li>
 </ul>
@@ -540,13 +577,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB--NOUN-Abl (2)</li>
-      <li>VERB--NOUN-Acc (68)</li>
+      <li>VERB--NOUN-Acc (69)</li>
       <li>VERB--NOUN-Ins (1)</li>
-      <li>VERB--NOUN-Nom (23)</li>
+      <li>VERB--NOUN-Nom (24)</li>
       <li>VERB--NOUN-Par (18)</li>
       <li>VERB--PRON (16)</li>
       <li>VERB--PRON-Acc (2)</li>
       <li>VERB--PRON-Dat (1)</li>
+      <li>VERB-Conv--NOUN-Acc (2)</li>
       <li>VERB-Inf--NOUN-Acc (1)</li>
     </ul>
   </li>
@@ -557,6 +595,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN-Dat (1)</li>
       <li>VERB--PRON-Dat (2)</li>
+      <li>VERB-Conv--NOUN-Ins (1)</li>
     </ul>
   </li>
 </ul>
@@ -568,5 +607,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus does not use relation subtypes.</li>
-<li>The following 12 relation types are not used in this corpus at all: <a>expl</a>, <a>dislocated</a>, <a>advcl</a>, <a>mark</a>, <a>acl</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>The following 11 relation types are not used in this corpus at all: <a>expl</a>, <a>advcl</a>, <a>mark</a>, <a>acl</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

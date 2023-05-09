@@ -91,7 +91,7 @@ The following 4 pairs of parts of speech are connected with `dep`: <tt><a href="
 45	て	て	SCONJ	助詞-接続助詞	_	44	mark	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,て,て,て,テ,,,テ,テ,て
 46	まわっ	回る	VERB	動詞-一般-五段-ラ行	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|SpaceAfter=No|UnidicInfo=,回る,まわっ,まわる,マワッ,,,マワル,マワル,回る
 47	た	た	AUX	助動詞-助動詞-タ	_	46	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,た,た,た,タ,,,タ,タ,た
-48	。	。	PUNCT	補助記号-句点	_	46	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=Yes|UnidicInfo=,。,。,。,,,,,,。
+48	。	。	PUNCT	補助記号-句点	_	46	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|UnidicInfo=,。,。,。,,,,,,。
 
 ~~~
 
@@ -134,7 +134,7 @@ The following 4 pairs of parts of speech are connected with `dep`: <tt><a href="
 30	さらに	更に	ADV	副詞	_	31	advmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=,更に,さらに,さらに,サラニ,,,サラニ,サラニ,更に
 31	広がっ	広がる	VERB	動詞-一般-五段-ラ行	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|SpaceAfter=No|UnidicInfo=,広がる,広がっ,広がる,ヒロガッ,,,ヒロガル,ヒロガル,広がる
 32	た	た	AUX	助動詞-助動詞-タ	_	31	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,た,た,た,タ,,,タ,タ,た
-33	。	。	PUNCT	補助記号-句点	_	31	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=Yes|UnidicInfo=,。,。,。,,,,,,。
+33	。	。	PUNCT	補助記号-句点	_	31	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|UnidicInfo=,。,。,。,,,,,,。
 
 ~~~
 

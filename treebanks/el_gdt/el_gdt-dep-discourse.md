@@ -8,31 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-7 nodes (0%) are attached to their parents as `discourse`.
+2 nodes (0%) are attached to their parents as `discourse`.
 
-6 instances of `discourse` (86%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.14285714285714.
+1 instances of `discourse` (50%) are left-to-right (parent precedes child).
+Average distance between parent and child is 12.5.
 
-The following 3 pairs of parts of speech are connected with `discourse`: <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (5; 71% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (1; 14% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (1; 14% instances).
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 1 discourse	color:blue
-1	2.	2.	NOUN	NOUN	_	3	discourse	_	_
-2	Η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
-3	εγκαθίδρυση	εγκαθίδρυση	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
-4	ζωνών	ζώνη	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Plur	3	nmod	_	_
-5	ασφαλείας	ασφάλεια	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
-6	μεταξύ	μεταξύ	ADP	ADP	_	8	case	_	_
-7	των	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
-8	αντιμαχομένων	αντιμαχόμενος	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Plur	3	amod	_	SpaceAfter=No
-9	.	.	PUNCT	PUNCT	_	3	punct	_	_
-
-~~~
+The following 2 pairs of parts of speech are connected with `discourse`: <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-PART.html">PART</a></tt> (1; 50% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-PART.html">PART</a></tt> (1; 50% instances).
 
 
 ~~~ conllu
@@ -62,7 +43,7 @@ The following 3 pairs of parts of speech are connected with `discourse`: <tt><a 
 19	ως	ως	ADV	ADV	_	20	case	_	_
 20	Κοινοβούλιο	κοινοβούλιο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	18	nmod	_	SpaceAfter=No
 21	,	,	PUNCT	PUNCT	_	22	punct	_	_
-22	όχι	όχι	ADV	ADV	_	2	discourse	_	SpaceAfter=No
+22	όχι	όχι	PART	PART	_	2	discourse	_	SpaceAfter=No
 23	!	!	PUNCT	PUNCT	_	2	punct	_	_
 
 ~~~
@@ -74,17 +55,17 @@ The following 3 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 1 discourse	color:blue
-1	Όχι	όχι	ADV	ADV	_	6	discourse	_	SpaceAfter=No
+1	Όχι	όχι	PART	PART	_	6	discourse	_	SpaceAfter=No
 2	,	,	PUNCT	PUNCT	_	1	punct	_	_
 3	η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	υπηρεσία	υπηρεσία	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	6	nsubj:pass	_	_
-5	αυτή	αυτός	PRON	PRON	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	4	det	_	_
+5	αυτή	αυτός	DET	DET	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	4	det	_	_
 6	συγκροτήθηκε	συγκροτώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
 7	για	για	ADP	ADP	_	9	mark	_	_
 8	να	να	AUX	AUX	_	9	aux	_	_
 9	ελέγχει	ελέγχω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	_
 10	ακριβώς	ακριβώς	ADV	ADV	_	11	advmod	_	_
-11	τέτοιες	τέτοιος	PRON	PRON	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Dem	12	det	_	_
+11	τέτοιες	τέτοιος	DET	DET	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Dem	12	det	_	_
 12	επικρίσεις	επίκριση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	9	obj	_	SpaceAfter=No
 13	!	!	PUNCT	PUNCT	_	6	punct	_	_
 

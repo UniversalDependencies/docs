@@ -9,7 +9,7 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="apu_ufpa-dep-advmod.html">advmod</a></tt>.
 There are also 2 other language-specific subtypes of `advmod`: <tt><a href="apu_ufpa-dep-advmod-lmod.html">advmod:lmod</a></tt>, <tt><a href="apu_ufpa-dep-advmod-tmod.html">advmod:tmod</a></tt>.
 
-13 nodes (2%) are attached to their parents as `advmod:neg`.
+13 nodes (1%) are attached to their parents as `advmod:neg`.
 
 13 instances of `advmod:neg` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.

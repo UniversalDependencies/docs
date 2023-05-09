@@ -86,7 +86,7 @@ The most frequent other feature values with which `VERB` and `Animacy` co-occurr
 `VERB` tokens may have the following values of `Animacy`:
 
 * `Anim` (9; 100% of non-empty `Animacy`): <em>рожде(н)наго, взятыхъ, враждующихъ, живуща, именова(н)ного, пребывающаго, слꙋжащи(х), хвалящихся</em>
-* `EMPTY` (4134): <em>смерено, взято, принето, велѣно, привез, велѣлъ, сказал, велено, бьет, велет(ь)</em>
+* `EMPTY` (4133): <em>смерено, взято, принето, велѣно, привез, велѣлъ, сказал, велено, бьет, велет(ь)</em>
 
 ### `NUM`
 

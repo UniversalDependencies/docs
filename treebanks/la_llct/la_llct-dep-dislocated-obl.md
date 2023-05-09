@@ -114,7 +114,7 @@ The following 2 pairs of parts of speech are connected with `dislocated:obl`: <t
 43	exinde	exinde	ADV	d|d|-|-|-|-|-|-|-|-	AdvType=Loc	44	advmod:tmod	_	_
 44	intentionaverimus	intentiono	VERB	v|v|1|p|t|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	61	advcl:relcl	_	TraditionalMood=Indicativus|TraditionalTense=FuturumExactum
 45	aut	aut	CCONJ	c|c|-|-|-|-|-|-|-|-	_	47	cc	_	_
-46	subtragi	subtraho	VERB	v|v|-|-|p|n|p|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Pass	47	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+46	subtragi	subtraho	VERB	v|v|-|-|p|n|p|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Pass	47	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 47	quesierimus	quaero	VERB	v|v|1|p|t|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	44	conj	_	TraditionalMood=Indicativus|TraditionalTense=FuturumExactum
 48	per	per	ADP	r|r|-|-|-|-|-|-|-|-	_	50	case	_	_
 49	quolibet	quilibet	DET	p|p|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	50	det	_	_
@@ -132,7 +132,7 @@ The following 2 pairs of parts of speech are connected with `dislocated:obl`: <t
 61	spondimus	spondeo	VERB	v|v|1|p|p|i|a|-|-|-	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 62	nos	nos	PRON	p|p|1|p|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	61	nsubj	_	_
 63	vobis	uos	PRON	p|p|2|p|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	64	obl:arg	_	_
-64	conponere	compono	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	61	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+64	conponere	compono	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	61	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 65	prefatis	praefatus	DET	a|a|-|p|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Plur|PronType=Dem	66	det	_	_
 66	casis	casa	NOUN	n|n|-|p|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Plur	64	obl:arg	_	_
 67	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	68	cc	_	_

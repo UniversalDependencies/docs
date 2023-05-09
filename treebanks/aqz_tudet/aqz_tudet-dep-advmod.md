@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-70 nodes (5%) are attached to their parents as `advmod`.
+71 nodes (5%) are attached to their parents as `advmod`.
 
-44 instances of `advmod` (63%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.25714285714286.
+45 instances of `advmod` (63%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.25352112676056.
 
-The following 8 pairs of parts of speech are connected with `advmod`: <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt> (29; 41% instances), <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt> (26; 37% instances), <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-PART.html">PART</a></tt> (8; 11% instances), <tt><a href="aqz_tudet-pos-DET.html">DET</a></tt>-<tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-DET.html">DET</a></tt> (2; 3% instances), <tt><a href="aqz_tudet-pos-ADJ.html">ADJ</a></tt>-<tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt> (1; 1% instances).
+The following 8 pairs of parts of speech are connected with `advmod`: <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt> (30; 42% instances), <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt> (26; 37% instances), <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-PART.html">PART</a></tt> (8; 11% instances), <tt><a href="aqz_tudet-pos-DET.html">DET</a></tt>-<tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-DET.html">DET</a></tt> (2; 3% instances), <tt><a href="aqz_tudet-pos-ADJ.html">ADJ</a></tt>-<tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

@@ -11,75 +11,78 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="yrl_complin-feat-Person.html">Person</a></tt>, <tt><a href="yrl_complin-feat-Person-grnd.html">Person[grnd]</a></tt>, <tt><a href="yrl_complin-feat-Person-psor.html">Person[psor]</a></tt>.
 
-611 tokens (28%) have a non-empty value of `Person`.
-238 types (41%) occur at least once with a non-empty value of `Person`.
-134 lemmas (29%) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (341; 16% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (226; 11% instances), <tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (44; 2% instances).
+2386 tokens (28%) have a non-empty value of `Person`.
+555 types (42%) occur at least once with a non-empty value of `Person`.
+283 lemmas (28%) occur at least once with a non-empty value of `Person`.
+The feature is used with 3 part-of-speech tags: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (1299; 15% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (917; 11% instances), <tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (170; 2% instances).
 
 ### `VERB`
 
-341 <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> tokens (97% of all `VERB` tokens) have a non-empty value of `Person`.
+1299 <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> tokens (96% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="yrl_complin-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (341; 100%), <tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (197; 58%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="yrl_complin-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1299; 100%), <tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (803; 62%).
 
 `VERB` tokens may have the following values of `Person`:
 
-* `1` (83; 24% of non-empty `Person`): <em>yaú, akwáu, asú, ayapí, ayuíri, yamaã, yamunhã, akwá, ambeú, ameẽ</em>
-* `2` (50; 15% of non-empty `Person`): <em>reputari, repusú, resú, Remaité, pesendú, rembeú, remundú, remurari, renupá, repurandú</em>
-* `3` (208; 61% of non-empty `Person`): <em>umunhã, urikú, upurandú, unheẽ, upisika, uwatá, umaã, umbeú, umundú, urasú</em>
-* `EMPTY` (11): <em>arasí, kweré, apuã, isí, membeka, piaíwa, puranga, puxuwera, ranhẽ</em>
+* `1` (274; 21% of non-empty `Person`): <em>asú, ambeú, akwáu, aputari, yamaã, amaã, amunhã, ayuíri, yamunhã, yaú</em>
+* `2` (176; 14% of non-empty `Person`): <em>reputari, resú, reyuri, remaã, rerikú, pemaã, rembeú, remundú, remunhã, remurari</em>
+* `3` (849; 65% of non-empty `Person`): <em>usika, umaã, unheẽ, usú, umunhã, umbeú, upisika, urikú, uri, upitá</em>
+* `EMPTY` (57): <em>rurí, pusé, akanhemu, kweré, piaíwa, arasí, kiá, akangaíma, apuã, apú</em>
 
 <table>
-  <tr><th>Paradigm <i>munhã</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>amunhã</em></td><td><em>remunhã</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>yamunhã</em></td><td></td><td><em>taumunhã</em></td></tr>
-  <tr><td><tt></tt></td><td></td><td></td><td><em>umunhã</em></td></tr>
+  <tr><th>Paradigm <i>maã</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
+  <tr><td><tt><tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>amaã</em></td><td><em>remaã</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>yamaã</em></td><td><em>pemaã</em></td><td><em>taumaã</em></td></tr>
+  <tr><td><tt></tt></td><td></td><td></td><td><em>umaã</em></td></tr>
 </table>
 
 ### `PRON`
 
-226 <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> tokens (65% of all `PRON` tokens) have a non-empty value of `Person`.
+917 <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> tokens (74% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="yrl_complin-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (226; 100%), <tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=Sing</tt> (145; 64%), <tt><a href="yrl_complin-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (136; 60%), <tt><a href="yrl_complin-feat-Case.html">Case</a></tt><tt>=Gen</tt> (121; 54%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="yrl_complin-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (917; 100%), <tt><a href="yrl_complin-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (640; 70%), <tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=Sing</tt> (586; 64%), <tt><a href="yrl_complin-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (469; 51%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (72; 32% of non-empty `Person`): <em>se, ixé, yané, yandé</em>
-* `2` (42; 19% of non-empty `Person`): <em>ne, indé, pe, penhẽ</em>
-* `3` (112; 50% of non-empty `Person`): <em>aintá, i, aé, ta</em>
-* `EMPTY` (120): <em>waá, maã, aité, amú, kwá, waá-itá, awá, Amú-itá, nhaã, panhẽ</em>
+* `1` (254; 28% of non-empty `Person`): <em>se, ixé, yané, yandé</em>
+* `2` (165; 18% of non-empty `Person`): <em>indé, ne, pe, penhẽ</em>
+* `3` (498; 54% of non-empty `Person`): <em>aintá, i, aé, ta, tá</em>
+* `EMPTY` (321): <em>waá, maã, waá-itá, awá, kwá, aité, nhaã, amú, amú-itá, yepé</em>
 
-`Person` seems to be **lexical feature** of `PRON`. 100% lemmas (12) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `PRON`. 100% lemmas (13) occur only with one value of `Person`.
 
 ### `AUX`
 
-44 <tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> tokens (71% of all `AUX` tokens) have a non-empty value of `Person`.
+170 <tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> tokens (82% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="yrl_complin-feat-Compound.html">Compound</a></tt><tt>=EMPTY</tt> (44; 100%), <tt><a href="yrl_complin-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (44; 100%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="yrl_complin-feat-Compound.html">Compound</a></tt><tt>=EMPTY</tt> (170; 100%), <tt><a href="yrl_complin-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (170; 100%), <tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (98; 58%).
 
 `AUX` tokens may have the following values of `Person`:
 
-* `1` (16; 36% of non-empty `Person`): <em>asú, aikú, yasú, yaikú, aputari, yapuderi</em>
-* `2` (7; 16% of non-empty `Person`): <em>pesú, Repuderi, Resú, reikú, rekwáu</em>
-* `3` (21; 48% of non-empty `Person`): <em>uikú, usú, uputari</em>
-* `EMPTY` (18): <em>kwáu, putari</em>
+* `1` (57; 34% of non-empty `Person`): <em>asú, aikú, yasú, yaikú, yapuderi, aputari, apuderi, ayuíri, yayuíri</em>
+* `2` (14; 8% of non-empty `Person`): <em>pesú, reikú, resú, Repuderi, peikú, rekwáu, reputari</em>
+* `3` (99; 58% of non-empty `Person`): <em>uikú, usú, upuderi, uputari, uikuwera</em>
+* `EMPTY` (37): <em>kwáu, putari</em>
 
 <table>
-  <tr><th>Paradigm <i>sú</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>asú</em></td><td><em>Resú</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>yasú</em></td><td><em>pesú</em></td><td></td></tr>
-  <tr><td><tt></tt></td><td></td><td></td><td><em>usú</em></td></tr>
+  <tr><th>Paradigm <i>ikú</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
+  <tr><td><tt><tt><a href="yrl_complin-feat-Aspect.html">Aspect</a></tt><tt>=Freq</tt>|<tt><a href="yrl_complin-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>uikuwera</em></td></tr>
+  <tr><td><tt><tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>aikú</em></td><td><em>reikú</em></td><td><em>uikú</em></td></tr>
+  <tr><td><tt><tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>yaikú</em></td><td><em>peikú</em></td><td></td></tr>
+  <tr><td><tt></tt></td><td></td><td></td><td><em>uikú</em></td></tr>
 </table>
 
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="yrl_complin-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (46; 52%),
-<tt>VERB --[<tt><a href="yrl_complin-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (42; 78%),
-<tt>VERB --[<tt><a href="yrl_complin-dep-aux.html">aux</a></tt>]--> AUX</tt> (33; 62%),
-<tt>VERB --[<tt><a href="yrl_complin-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (23; 55%),
-<tt>VERB --[<tt><a href="yrl_complin-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (14; 78%),
-<tt>VERB --[<tt><a href="yrl_complin-dep-conj.html">conj</a></tt>]--> VERB</tt> (8; 100%),
-<tt>VERB --[<tt><a href="yrl_complin-dep-iobj.html">iobj</a></tt>]--> PRON</tt> (7; 64%),
+<tt>VERB --[<tt><a href="yrl_complin-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (223; 61%),
+<tt>VERB --[<tt><a href="yrl_complin-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (168; 80%),
+<tt>VERB --[<tt><a href="yrl_complin-dep-aux.html">aux</a></tt>]--> AUX</tt> (105; 70%),
+<tt>VERB --[<tt><a href="yrl_complin-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (100; 64%),
+<tt>VERB --[<tt><a href="yrl_complin-dep-conj.html">conj</a></tt>]--> VERB</tt> (39; 87%),
+<tt>VERB --[<tt><a href="yrl_complin-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (35; 85%),
+<tt>VERB --[<tt><a href="yrl_complin-dep-iobj.html">iobj</a></tt>]--> PRON</tt> (22; 55%),
+<tt>VERB --[<tt><a href="yrl_complin-dep-vocative.html">vocative</a></tt>]--> PRON</tt> (2; 100%),
+<tt>AUX --[<tt><a href="yrl_complin-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (1; 100%),
 <tt>PRON --[<tt><a href="yrl_complin-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (1; 100%).
 

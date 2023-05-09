@@ -11,21 +11,21 @@ It occurs with 2 different values: `Fem`, `Masc`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="br_keb-feat-Gender.html">Gender</a></tt>, <tt><a href="br_keb-feat-Gender-psor.html">Gender[psor]</a></tt>.
 
-2242 tokens (22%) have a non-empty value of `Gender`.
-1165 types (48%) occur at least once with a non-empty value of `Gender`.
+2236 tokens (22%) have a non-empty value of `Gender`.
+1163 types (48%) occur at least once with a non-empty value of `Gender`.
 857 lemmas (50%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 6 part-of-speech tags: <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt> (1990; 20% instances), <tt><a href="br_keb-pos-PROPN.html">PROPN</a></tt> (107; 1% instances), <tt><a href="br_keb-pos-PRON.html">PRON</a></tt> (66; 1% instances), <tt><a href="br_keb-pos-AUX.html">AUX</a></tt> (39; 0% instances), <tt><a href="br_keb-pos-NUM.html">NUM</a></tt> (38; 0% instances), <tt><a href="br_keb-pos-VERB.html">VERB</a></tt> (2; 0% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt> (1984; 20% instances), <tt><a href="br_keb-pos-PROPN.html">PROPN</a></tt> (107; 1% instances), <tt><a href="br_keb-pos-PRON.html">PRON</a></tt> (66; 1% instances), <tt><a href="br_keb-pos-AUX.html">AUX</a></tt> (39; 0% instances), <tt><a href="br_keb-pos-NUM.html">NUM</a></tt> (38; 0% instances), <tt><a href="br_keb-pos-VERB.html">VERB</a></tt> (2; 0% instances).
 
 ### `NOUN`
 
-1990 <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Gender`.
+1984 <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="br_keb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1456; 73%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="br_keb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1452; 73%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
-* `Fem` (612; 31% of non-empty `Gender`): <em>yezh, vro, rannvro, bro, gevredigezh, gêr, plac'h, amzer, stad, wetur</em>
-* `Masc` (1378; 69% of non-empty `Gender`): <em>levr, dud, den, ti, brezhoneg, labour, vugale, istor, tud, traoù</em>
+* `Fem` (610; 31% of non-empty `Gender`): <em>yezh, vro, rannvro, bro, gevredigezh, gêr, plac'h, amzer, stad, wetur</em>
+* `Masc` (1374; 69% of non-empty `Gender`): <em>dud, levr, den, ti, brezhoneg, labour, vugale, istor, tud, traoù</em>
 
 <table>
   <tr><th>Paradigm <i>mignon</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -45,7 +45,7 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 
 * `Fem` (27; 25% of non-empty `Gender`): <em>Lenaig, Mari, Mona, Morwenna, Anna, Janed, Nolwenn, Stéphanie</em>
 * `Masc` (80; 75% of non-empty `Gender`): <em>Yann, Yannig, Divi, Fañch, Lan, Nevenoe, Iañ, Loeiz, Ber, Eric</em>
-* `EMPTY` (201): <em>Breizh, Pariz, Frañs, Kembre, Naoned, Brezhoneg, Europa, Karaez, Roazhon, Diwan</em>
+* `EMPTY` (200): <em>Breizh, Pariz, Frañs, Kembre, Naoned, Europa, Karaez, Roazhon, Brezhoneg, Diwan</em>
 
 `Gender` seems to be **lexical feature** of `PROPN`. 100% lemmas (31) occur only with one value of `Gender`.
 
@@ -76,7 +76,7 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 
 * `Fem` (11; 28% of non-empty `Gender`): <em>he deus, he devoa, he do</em>
 * `Masc` (28; 72% of non-empty `Gender`): <em>en deus, en doa</em>
-* `EMPTY` (1293): <em>a, e, eo, oa, vo, zo, bet, o, en, vez</em>
+* `EMPTY` (1290): <em>a, e, eo, oa, vo, zo, bet, o, en, vez</em>
 
 <table>
   <tr><th>Paradigm <i>kaout</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -111,7 +111,7 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 `VERB` tokens may have the following values of `Gender`:
 
 * `Fem` (2; 100% of non-empty `Gender`): <em>he deus, he devoa</em>
-* `EMPTY` (1100): <em>kinniget, dont, ober, graet, gouestlet, gwelet, lennet, chom, aozet, kavet</em>
+* `EMPTY` (1095): <em>kinniget, dont, ober, graet, gwelet, gouestlet, lennet, chom, aozet, kavet</em>
 
 ## Relations with Agreement in `Gender`
 

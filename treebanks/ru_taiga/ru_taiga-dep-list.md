@@ -30,7 +30,7 @@ The following 35 pairs of parts of speech are connected with `list`: <tt><a href
 6	д.	дом	NOUN	_	Abbr=Yes	4	nmod	_	_
 7	22	22	NUM	_	NumForm=Digit|NumType=Card	6	appos	_	_
 8	корп.	корпус	NOUN	_	Abbr=Yes	6	list	_	_
-9	2	2	NUM	_	NumForm=Digit|NumType=Card	8	appos	_	_~
+9	2	2	NUM	_	NumForm=Digit|NumType=Card	8	appos	_	_
 
 ~~~
 
@@ -72,7 +72,7 @@ The following 35 pairs of parts of speech are connected with `list`: <tt><a href
 13	Л.	Ленинград	PROPN	_	Abbr=Yes|NameType=Geo	11	nmod	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	15	punct	_	_
 15	1964	1964	ADJ	_	NumForm=Digit|NumType=Ord	11	list	_	SpaceAfter=No
-16	.	.	PUNCT	_	_	2	punct	_	_~
+16	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 

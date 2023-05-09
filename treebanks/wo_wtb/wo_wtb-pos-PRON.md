@@ -61,7 +61,7 @@ The 10 most frequent ambiguous types:  <em>mu</em> (<tt><a href="wo_wtb-pos-PRON
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 2.463415 (the average of all parts of speech is 1.250208).
+The form / lemma ratio of `PRON` is 2.463415 (the average of all parts of speech is 1.250260).
 
 The 1st highest number of forms (11) was observed with the lemma “bi”: <em>bi, gi, ji, ki, li, mi, mu, si, wi, yi, ñi</em>.
 

@@ -25,7 +25,7 @@ The following 4 pairs of parts of speech are connected with `dislocated`: <tt><a
 1	_	_	NOUN	NN	Number=Sing	2	compound	2:compound	Discourse=organization-preparation:1->2:4|Entity=(1-person-new-cf1-2-coref(2-event-new-cf2-1-coref)|Lem=*LOWER*|Len=6
 2	_	_	NOUN	NNS	Number=Plur	6	dislocated	6:dislocated	Entity=1)|Lem=survivor|Len=9|SpaceAfter=No
 3	_	_	PUNCT	:	_	2	punct	2:punct	Lem=_|Len=1
-4	_	_	ADV	WRB	PronType=Int	6	advmod	6:advmod	Discourse=topic-question:2->17:4|Lem=_|Len=3
+4	_	_	ADV	WRB	PronType=Int	6	advmod	6:advmod	Discourse=topic-question:2->16:4|Lem=_|Len=3
 5	_	_	PUNCT	``	_	6	punct	6:punct	Lem=''|Len=1|SpaceAfter=No|XML=<q>
 6	_	_	ADJ	JJ	Degree=Pos	0	root	0:root	Lem=_|Len=5|SpaceAfter=No
 7	_	_	PUNCT	''	_	6	punct	6:punct	Lem=''|Len=1|XML=</q>
@@ -51,16 +51,16 @@ The following 4 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 8 dislocated	color:blue
-1	_	_	NOUN	NN	Number=Sing	2	compound	2:compound	Discourse=organization-preparation:53->54:1|Entity=(66-abstract-new-cf3-2-coref(67-abstract-new-cf5-1-sgl)|Lem=*LOWER*|Len=4
-2	_	_	NOUN	NN	Number=Sing	0	root	0:root	Entity=66)|Lem=_|Len=5|SpaceAfter=No
+1	_	_	NOUN	NN	Number=Sing	2	compound	2:compound	Discourse=organization-preparation:53->54:1|Entity=(65-abstract-new-cf3-2-coref(66-abstract-new-cf5-1-sgl)|Lem=*LOWER*|Len=4
+2	_	_	NOUN	NN	Number=Sing	0	root	0:root	Entity=65)|Lem=_|Len=5|SpaceAfter=No
 3	_	_	PUNCT	:	_	8	punct	8:punct	Lem=_|Len=1
-4	_	_	NOUN	NNS	Number=Plur	8	nsubj	8:nsubj|13:nsubj	Discourse=adversative-contrast_m:54->49:3|Entity=(66-abstract-giv:act-cf3-5,10-coref(68-animal-new-cf2-1-coref)|Lem=cat|Len=4
+4	_	_	NOUN	NNS	Number=Plur	8	nsubj	8:nsubj|13:nsubj	Discourse=adversative-contrast_m:54->49:3|Entity=(65-abstract-giv:act-cf3-5,10-coref(67-animal-new-cf2-1-coref)|Lem=cat|Len=4
 5	_	_	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	cop	8:cop	Lem=be|Len=3
-6	_	_	DET	DT	Definite=Def|PronType=Art	8	det	8:det	Entity=(68-animal-giv:act-cf2-3-coref|Lem=_|Len=3
+6	_	_	DET	DT	Definite=Def|PronType=Art	8	det	8:det	Entity=(67-animal-giv:act-cf2-3-coref|Lem=_|Len=3
 7	_	_	ADJ	JJS	Degree=Sup	8	amod	8:amod	Lem=smart|Len=8
 8	_	_	NOUN	NN	Number=Sing	2	dislocated	2:dislocated	Lem=_|Len=7
 9	_	_	ADP	IN	_	10	case	10:case	Lem=_|Len=2
-10	_	_	NOUN	NN	Number=Sing	8	nmod	8:nmod:on	Entity=(69-place-new-cf4-1-sgl)68)|Lem=_|Len=5
+10	_	_	NOUN	NN	Number=Sing	8	nmod	8:nmod:on	Entity=(68-place-new-cf4-1-sgl)67)|Lem=_|Len=5
 11	_	_	CCONJ	CC	_	13	cc	13:cc	Discourse=joint-list_m:55->54:0|Lem=_|Len=3
 12	_	_	AUX	MD	VerbForm=Fin	13	aux	13:aux	Lem=_|Len=4
 13	_	_	VERB	VB	VerbForm=Inf	8	conj	2:dislocated|8:conj:and	Lem=_|Len=9
@@ -71,8 +71,8 @@ The following 4 pairs of parts of speech are connected with `dislocated`: <tt><a
 18	_	_	SCONJ	IN	_	22	mark	22:mark	Discourse=elaboration-additional:57->56:0|Lem=_|Len=4
 19	_	_	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	22	nsubj	22:nsubj	Entity=(2-person-giv:act-cf1*-1-ana)|Lem=_|Len=2|SpaceAfter=No
 20	_	_	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	22	cop	22:cop	Lem=be|Len=3
-21	_	_	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	22	nmod:poss	22:nmod:poss	Entity=(2-person-giv:act-cf1*-2-coref(68-animal-giv:act-cf2-1-ana)|Lem=_|Len=5
-22	_	_	NOUN	NNS	Number=Plur	17	ccomp	17:ccomp	Entity=2)66)|Lem=servant|Len=8|SpaceAfter=No
+21	_	_	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	22	nmod:poss	22:nmod:poss	Entity=(2-person-giv:act-cf1*-2-coref(67-animal-giv:act-cf2-1-ana)|Lem=_|Len=5
+22	_	_	NOUN	NNS	Number=Plur	17	ccomp	17:ccomp	Entity=2)65)|Lem=servant|Len=8|SpaceAfter=No
 23	_	_	PUNCT	.	_	2	punct	2:punct	Lem=_|Len=1
 
 ~~~
@@ -84,14 +84,14 @@ The following 4 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 5 dislocated	color:blue
-1	_	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	Discourse=evaluation-comment:40->37:3|Entity=(43-abstract-new-cf3-1-cata)|Lem=*LOWER*|Len=2
+1	_	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	Discourse=evaluation-comment:41->38:3|Entity=(43-abstract-new-cf3-1-cata)|Lem=*LOWER*|Len=2
 2	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Lem=amaze|Len=6
 3	_	_	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	obj	2:obj	Entity=(44-person-acc:com-cf1-1-sgl)|Lem=I|Len=2
 4	_	_	DET	DT	Definite=Def|PronType=Art	5	det	5:det	Entity=(43-abstract-acc:com-cf3-2-coref(45-object-new-cf5-2-sgl|Lem=_|Len=3
 5	_	_	NOUN	NNS	Number=Plur	2	dislocated	2:dislocated	Lem=chunk|Len=6
 6	_	_	ADP	IN	_	7	case	7:case	Lem=_|Len=2
 7	_	_	NOUN	NN	Number=Sing	5	nmod	5:nmod:of	Entity=(46-time-new-cf7-1-sgl)45)|Lem=_|Len=4
-8	_	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	expl	9:expl	Discourse=elaboration-additional:41->40:0|Entity=(47-abstract-new-cf2-1-cata)|Lem=_|Len=2
+8	_	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	expl	9:expl	Discourse=elaboration-additional:42->41:0|Entity=(47-abstract-new-cf2-1-cata)|Lem=_|Len=2
 9	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	7:acl:relcl	Lem=take|Len=5
 10	_	_	SCONJ	IN	_	13	mark	13:mark	Entity=(47-abstract-acc:com-cf2-4-coref|Lem=_|Len=3
 11	_	_	NOUN	NNS	Number=Plur	13	nsubj	13:nsubj	Entity=(48-person-new-cf4-1-sgl)|Lem=person|Len=6

@@ -58,7 +58,7 @@ The following 3 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 8	кто	кто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	10	nsubj	_	_
 9	запись	запись	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	obj	_	_
 10	распространил	распространить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	10	punct	_	_~
+11	.	.	PUNCT	_	_	10	punct	_	_
 
 ~~~
 
@@ -103,7 +103,7 @@ The following 3 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 32	лучшая	лучший	ADJ	_	Case=Nom|Degree=Sup|Gender=Fem|Number=Sing	25	ccomp	_	_
 33	на	на	ADP	_	_	34	case	_	_
 34	свете	свет	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	32	obl	_	SpaceAfter=No
-35	...	...	PUNCT	_	_	10	punct	_	_~
+35	...	...	PUNCT	_	_	10	punct	_	_
 
 ~~~
 

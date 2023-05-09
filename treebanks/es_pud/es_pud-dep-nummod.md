@@ -25,7 +25,7 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 1	El	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	máximo	máximo	NOUN	NN	Gender=Masc|Number=Sing	4	nsubj	_	_
 3	permitido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	_
-4	es	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	es	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	de	de	ADP	IN	_	7	case	_	_
 6	5 000	5 000	NUM	CD	Gender=Masc|NumType=Card	7	nummod	_	_
 7	$	_	NOUN	NN	Gender=Masc|Number=Plur	4	obl	_	_
@@ -45,7 +45,7 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 1	Ciudades	_	NOUN	NN	Gender=Fem|Number=Plur	4	nsubj	_	_
 2	como	como	ADP	IN	_	3	case	_	_
 3	Milán	Milán	PROPN	NNP	Number=Sing	1	nmod	_	_
-4	dependían	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	dependían	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 5	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 6	80	80	NUM	CD	Gender=Masc|NumType=Card	7	nummod	_	SpaceAfter=No
 7	%	%	SYM	SYM	_	4	advmod	_	_
@@ -67,7 +67,7 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 1	El	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	presupuesto	presupuesto	NOUN	NN	Gender=Masc|Number=Sing	4	nsubj	_	_
 3	anual	anual	ADJ	JJ	Gender=Masc|Number=Sing	2	amod	_	_
-4	es	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	es	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	de	de	ADP	IN	_	6	case	_	_
 6	más	_	ADV	RBR	Degree=Cmp	4	xcomp	_	_
 7	de	de	ADP	IN	_	10	case	_	_
@@ -77,7 +77,7 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 11	de	de	ADP	IN	_	12	case	_	_
 12	dólares	_	NOUN	NN	Gender=Masc|Number=Plur	10	nmod	_	_
 13	y	y	CCONJ	CC	_	14	cc	_	_
-14	cuenta	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	_
+14	cuenta	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
 15	con	con	ADP	IN	_	16	case	_	_
 16	más	_	ADV	RBR	Degree=Cmp	14	xcomp	_	_
 17	de	de	ADP	IN	_	19	case	_	_

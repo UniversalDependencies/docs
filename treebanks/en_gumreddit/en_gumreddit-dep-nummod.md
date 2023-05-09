@@ -30,16 +30,16 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 6	_	_	PROPN	NNP	Number=Sing	4	obl	4:obl:in	Entity=(60-place-new-cf3-1-coref-Zimbabwe)|Lem=_|Len=8
 7	_	_	ADV	WRB	PronType=Rel	13	advmod	13:advmod	Discourse=elaboration-attribute:55->54:0|Lem=_|Len=5
 8	_	_	DET	DT	Definite=Ind|PronType=Art	11	det	11:det	Entity=(61-event-new-cf2-4-sgl|Lem=_|Len=1
-9	_	_	NUM	CD	NumForm=Word|NumType=Card	10	nummod	10:nummod	Lem=_|Len=7
-10	_	_	NOUN	NN	Number=Sing	11	compound	11:compound	Lem=_|Len=6
+9	_	_	NUM	CD	NumForm=Word|NumType=Card	10	nummod	10:nummod	Entity=(62-abstract-new-cf5-2-sgl|Lem=_|Len=7
+10	_	_	NOUN	NN	Number=Sing	11	compound	11:compound	Entity=62)|Lem=_|Len=6
 11	_	_	NOUN	NN	Number=Sing	13	nsubj	13:nsubj	Entity=61)|Lem=_|Len=11
 12	_	_	AUX	MD	Number=Sing|Person=3|VerbForm=Fin	13	aux	13:aux	Lem=_|Len=5
 13	_	_	VERB	VB	VerbForm=Inf	6	acl:relcl	6:acl:relcl	Lem=_|Len=6
 14	_	_	ADP	IN	_	16	case	16:case	Lem=_|Len=3
-15	_	_	DET	DT	Definite=Ind|PronType=Art	16	det	16:det	Entity=(62-object-new-cf4-2-sgl|Lem=_|Len=1
+15	_	_	DET	DT	Definite=Ind|PronType=Art	16	det	16:det	Entity=(63-object-new-cf4-2-sgl|Lem=_|Len=1
 16	_	_	NOUN	NN	Number=Sing	13	obl	13:obl:for	Lem=_|Len=4
 17	_	_	ADP	IN	_	18	case	18:case	Lem=_|Len=2
-18	_	_	NOUN	NN	Number=Sing	16	nmod	16:nmod:of	Entity=62)|Lem=_|Len=5|SpaceAfter=No
+18	_	_	NOUN	NN	Number=Sing	16	nmod	16:nmod:of	Entity=63)|Lem=_|Len=5|SpaceAfter=No
 19	_	_	PUNCT	.	_	3	punct	3:punct	Lem=_|Len=1
 
 ~~~

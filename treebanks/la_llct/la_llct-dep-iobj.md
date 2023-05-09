@@ -24,7 +24,7 @@ The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 3 4 iobj	color:blue
 1	liceat	licet	VERB	v|v|3|s|p|s|a|-|-|-	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Subiunctivus|TraditionalTense=Praesens
 2	mihi	ego	PRON	p|p|1|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	1	obl:arg	_	_
-3	inquirere	inquiro	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	1	csubj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+3	inquirere	inquiro	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	1	csubj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 4	pars	pars	NOUN	n|n|-|s|-|-|-|f|n|-	Case=Nom|Gender=Fem|Number=Sing	3	iobj	_	_
 5	ipsius	ipse	DET	p|p|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	8	det	_	_
 6	epischupatui	episcopatus	NOUN	n|n|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
@@ -34,10 +34,10 @@ The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href=
 10	per	per	ADP	r|r|-|-|-|-|-|-|-|-	_	11	case	_	_
 11	testes	testis	NOUN	n|n|-|p|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Plur	13	obl	_	_
 12	hoc	hic	DET	p|p|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	13	obj	_	_
-13	adprobare	approbo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	14	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+13	adprobare	approbo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	14	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 14	possum	possum	VERB	v|v|1|s|p|i|a|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 15	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	16	cc	_	_
-16	revertere	reuorto	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	13	conj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+16	revertere	reuorto	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	13	conj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 17	ad	ad	ADP	r|r|-|-|-|-|-|-|-|-	_	18	mark	_	_
 18	placitum	placeo	VERB	t|t|-|s|r|p|p|n|a|-	Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	16	advcl	_	TraditionalMood=Participium|TraditionalTense=Perfectum
 19	ponendum	pono	VERB	t|t|-|s|p|d|p|n|a|-	Aspect=Prosp|Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	16	advcl	_	TraditionalMood=Gerundium
@@ -95,7 +95,7 @@ The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href=
 37	ecclesie	ecclesia	NOUN	n|n|-|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing	36	nmod	_	_
 38	sancte	sanctus	ADJ	a|a|-|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing	39	amod	_	_
 39	Marie	Maria	PROPN	Propn|n|-|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing	37	nmod	_	_
-40	contendere	contendo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	41	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+40	contendere	contendo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	41	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 41	potuisset	possum	VERB	v|v|3|s|l|s|a|-|-|-	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	10	ccomp	_	TraditionalMood=Subiunctivus|TraditionalTense=Plusquamperfectum
 42	per	per	ADP	r|r|-|-|-|-|-|-|-|-	_	43	case	_	_
 43	cartula	chartula	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Degree=Dim|Gender=Fem|Number=Sing	40	obl	_	_
@@ -118,7 +118,7 @@ The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href=
 1	quit	quis	PRON	p|p|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	4	obj	_	_
 2	si	si	SCONJ	c|c|-|-|-|-|-|-|-|-	_	5	mark	_	_
 3	aliter	aliter	ADV	d|d|-|-|-|-|-|-|-|-	PronType=Con	4	advmod	_	_
-4	facere	facio	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	5	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+4	facere	facio	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	5	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 5	presumseritis	praesumo	VERB	v|v|2|p|r|s|a|-|-|-	Aspect=Perf|Mood=Sub|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Subiunctivus|TraditionalTense=Perfectum
 6	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	10	cc	_	_
 7	omnia	omnis	DET	a|a|-|p|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Plur|PronType=Tot	10	obj	_	_
@@ -136,7 +136,7 @@ The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href=
 19	huius	hic	DET	p|p|-|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	20	det	_	_
 20	civitatis	ciuitas	NOUN	n|n|-|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing	18	nmod	_	_
 21	vos	uos	PRON	p|p|2|p|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	22	obj	_	_
-22	emendare	emendo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	26	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+22	emendare	emendo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	26	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 23	pro	pro	ADP	r|r|-|-|-|-|-|-|-|-	_	25	case	_	_
 24	Dei	Deus	PROPN	Propn|n|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	25	nmod	_	_
 25	misericordia	misericordia	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	22	obl	_	_
@@ -147,11 +147,11 @@ The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href=
 30	pacem	pax	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	33	obl	_	_
 31	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	32	cc	_	_
 32	dilectionem	dilectio	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	30	conj	_	_
-33	reducere	reduco	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	22	conj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+33	reducere	reduco	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	22	conj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 34	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	38	cc	_	_
 35	omnia	omnis	DET	a|a|-|p|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Plur|PronType=Tot	37	obj	_	_
 36	vos	uos	PRON	p|p|2|p|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	37	iobj	_	_
-37	facere	facio	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	38	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+37	facere	facio	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	38	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 38	precipiat	praecipio	VERB	v|v|3|s|p|s|a|-|-|-	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	SpaceAfter=No|TraditionalMood=Subiunctivus|TraditionalTense=Praesens
 39	,	,	PUNCT	Punc	_	42	punct	_	_
 40	sicut	sicut	SCONJ	c|c|-|-|-|-|-|-|-|-	_	42	mark	_	_

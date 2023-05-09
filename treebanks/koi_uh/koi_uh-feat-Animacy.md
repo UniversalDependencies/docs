@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Komi_Permyak-UH: Features: `Animacy`
 
-This feature is universal but the values `Hum` are language-specific.
+This feature is universal.
 It occurs with 4 different values: `Anim`, `Hum`, `Inan`, `Nhum`.
 
 74 tokens (7%) have a non-empty value of `Animacy`.

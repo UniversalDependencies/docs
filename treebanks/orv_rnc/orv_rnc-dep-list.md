@@ -22,19 +22,19 @@ The following 2 pairs of parts of speech are connected with `list`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 list	color:blue
-1	РПЅ	РПЅ	NUM	_	NumForm=Cyril	3	amod	_	Norm=РПЅ
-2	г	й	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	1	list	_	Norm=г
-3	сентябрѧ	сентябрь	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	7	obl	_	Norm=сентябрѧ
-4	въ	въ	ADP	_	_	6	case	_	Norm=въ
-5	Ѕ	Ѕ	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	Norm=Ѕ
-6	де	день	NOUN	_	Abbr=Yes	3	nmod	_	Norm=де
-7	подал	подати	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	Norm=подал
-8	грамотку	грамотка	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	Norm=грамотку
-9	Михаилова	михаиловъ	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Poss=Yes|Variant=Short	10	amod	_	Norm=Михаилова
-10	приказу	приказъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	Norm=приказу
-11	денщик	денщикъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	Norm=денщик
-12	Купряшка	Купряшка	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	11	appos	_	Norm=Купряшка
-13	Корнеевъ	Корнеевъ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	12	flat:name	_	Norm=Корнеевъ
+1	РПЅ	РПЅ	NUM	_	NumForm=Cyril	3	amod	_	Norm="РПЅ"
+2	г	й	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	1	list	_	Norm="г"
+3	сентябрѧ	сентябрь	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	7	obl	_	Norm="сентябрѧ"
+4	въ	въ	ADP	_	_	6	case	_	Norm="въ"
+5	Ѕ	Ѕ	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	Norm="Ѕ"
+6	де	день	NOUN	_	Abbr=Yes	3	nmod	_	Norm="де"
+7	подал	подати	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	Norm="подал"
+8	грамотку	грамотка	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	Norm="грамотку"
+9	Михаилова	михаиловъ	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Poss=Yes|Variant=Short	10	amod	_	Norm="Михаилова"
+10	приказу	приказъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	Norm="приказу"
+11	денщик	денщикъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	Norm="денщик"
+12	Купряшка	Купряшка	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	11	appos	_	Norm="Купряшка"
+13	Корнеевъ	Корнеевъ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	12	flat:name	_	Norm="Корнеевъ"
 
 ~~~
 

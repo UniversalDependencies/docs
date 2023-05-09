@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Finnish-FTB: POS Tags: `SCONJ`
 
 There are 18 `SCONJ` lemmas (0%), 37 `SCONJ` types (0%) and 4147 `SCONJ` tokens (3%).
-Out of 17 observed tags, the rank of `SCONJ` is: 15 in number of lemmas, 14 in number of types and 11 in number of tokens.
+Out of 17 observed tags, the rank of `SCONJ` is: 14 in number of lemmas, 14 in number of types and 11 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>että, kun, kuin, jos, vaikka, koska, sillä, jotta, kunnes, kunhan</em>
 
@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>että</em> (<tt><a href="fi_ftb-pos-S
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 2.055556 (the average of all parts of speech is 2.050767).
+The form / lemma ratio of `SCONJ` is 2.055556 (the average of all parts of speech is 2.049043).
 
 The 1st highest number of forms (8) was observed with the lemma “kun”: <em>ko, kon, ku, kun, kunn, kup, kus, k´</em>.
 

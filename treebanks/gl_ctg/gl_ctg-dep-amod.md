@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-10482 nodes (8%) are attached to their parents as `amod`.
+10535 nodes (8%) are attached to their parents as `amod`.
 
-8379 instances of `amod` (80%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.30604846403358.
+8406 instances of `amod` (80%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.35889890840057.
 
-The following 26 pairs of parts of speech are connected with `amod`: <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> (9284; 89% instances), <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> (691; 7% instances), <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> (114; 1% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> (106; 1% instances), <tt><a href="gl_ctg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> (91; 1% instances), <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_ctg-pos-NUM.html">NUM</a></tt> (83; 1% instances), <tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt>-<tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> (27; 0% instances), <tt><a href="gl_ctg-pos-NUM.html">NUM</a></tt>-<tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> (23; 0% instances), <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_ctg-pos-DET.html">DET</a></tt> (16; 0% instances), <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_ctg-pos-PROPN.html">PROPN</a></tt> (8; 0% instances), <tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt>-<tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="gl_ctg-pos-NUM.html">NUM</a></tt>-<tt><a href="gl_ctg-pos-SYM.html">SYM</a></tt> (6; 0% instances), <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_ctg-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="gl_ctg-pos-DET.html">DET</a></tt>-<tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="gl_ctg-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_ctg-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt>-<tt><a href="gl_ctg-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt>-<tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="gl_ctg-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_ctg-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="gl_ctg-pos-NUM.html">NUM</a></tt>-<tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="gl_ctg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_ctg-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_ctg-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 23 pairs of parts of speech are connected with `amod`: <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> (9292; 88% instances), <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> (688; 7% instances), <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> (160; 2% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> (111; 1% instances), <tt><a href="gl_ctg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> (88; 1% instances), <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_ctg-pos-NUM.html">NUM</a></tt> (82; 1% instances), <tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt>-<tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> (27; 0% instances), <tt><a href="gl_ctg-pos-NUM.html">NUM</a></tt>-<tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> (24; 0% instances), <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_ctg-pos-DET.html">DET</a></tt> (16; 0% instances), <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_ctg-pos-PROPN.html">PROPN</a></tt> (8; 0% instances), <tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt>-<tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="gl_ctg-pos-NUM.html">NUM</a></tt>-<tt><a href="gl_ctg-pos-SYM.html">SYM</a></tt> (6; 0% instances), <tt><a href="gl_ctg-pos-DET.html">DET</a></tt>-<tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_ctg-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_ctg-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt>-<tt><a href="gl_ctg-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt>-<tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="gl_ctg-pos-NUM.html">NUM</a></tt>-<tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="gl_ctg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_ctg-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,10 +22,10 @@ The following 26 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 10 amod	color:blue
-1	Así	así	ADV	RG	_	2	det	_	Treeler:spec
+1	Así	así	ADV	RG	_	5	advmod	_	Treeler:spec
 2	mesmo	mesmo	ADV	RG	_	5	case	_	SpaceAfter=No|ToDo=case-upos|Treeler:cc
 3	,	,	PUNCT	Fc	_	2	punct	_	Treeler:f
-4	serán	ser	VERB	VSIF3P0	_	5	aux	_	Treeler:v
+4	serán	ser	AUX	VSIF3P0	_	5	aux	_	Treeler:v
 5	publicados	publicar	VERB	VMP00PM	_	0	root	_	Treeler:sentence
 6	en	en	ADP	SPS00	_	9	case	_	Treeler:cc
 7	o	o	DET	DA0MS0	_	9	det	_	Treeler:spec
@@ -88,7 +88,7 @@ The following 26 pairs of parts of speech are connected with `amod`: <tt><a href
 4	históricas	histórico	ADJ	AQ0FP0	_	3	amod	_	Treeler:s.a
 5	en	en	ADP	SPS00	_	6	case	_	Treeler:cc
 6	común	común	ADJ	AQ0CS0	_	1	amod	_	SpaceAfter=No|Treeler:s.a
-7	,	,	PUNCT	Fc	_	1	punct	_	Treeler:f
+7	,	,	PUNCT	Fc	_	8	punct	_	Treeler:f
 8	pero	pero	CCONJ	CC	_	1	cc	_	ToDo=cc-without-conj|Treeler:coord
 9	os	o	DET	DA0MP0	_	10	det	_	Treeler:spec
 10	espazos	espazo	NOUN	NCMP000	_	16	nsubj	_	Treeler:suj
@@ -96,7 +96,7 @@ The following 26 pairs of parts of speech are connected with `amod`: <tt><a href
 12	actuación	actuación	NOUN	NCFS000	_	10	nmod	_	Treeler:sn
 13	non	non	PART	RN	_	16	advmod	_	Treeler:mod
 14	son	ser	AUX	VSIP1S0	_	16	cop	_	Treeler:S
-15	necesariamente	necesariamente	ADV	RG	_	16	det	_	Treeler:spec
+15	necesariamente	necesariamente	ADV	RG	_	16	advmod	_	Treeler:spec
 16	unívocos	unívoco	ADJ	AQ0MP0	_	1	ccomp	_	SpaceAfter=No|Treeler:atr
 17	.	.	PUNCT	Fp	_	1	punct	_	Treeler:f
 

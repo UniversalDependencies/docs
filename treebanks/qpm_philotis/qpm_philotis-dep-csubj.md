@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-26 nodes (0%) are attached to their parents as `csubj`.
+24 nodes (0%) are attached to their parents as `csubj`.
 
-13 instances of `csubj` (50%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.38461538461539.
+12 instances of `csubj` (50%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.
 
-The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (20; 77% instances), <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt>-<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (5; 19% instances), <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (1; 4% instances).
+The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (18; 75% instances), <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt>-<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (5; 21% instances), <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (1; 4% instances).
 
 
 ~~~ conllu

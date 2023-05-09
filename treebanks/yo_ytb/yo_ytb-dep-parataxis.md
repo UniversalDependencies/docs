@@ -22,25 +22,25 @@ The following 6 pairs of parts of speech are connected with `parataxis`: <tt><a 
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 9 parataxis	color:blue
-1	Ṣíbẹ̀	Ṣíbẹ̀	ADV	_	_	4	advmod	_	Ref=MARK_5.32|SpaceAfter=No|Gloss=yet
-2	,	,	PUNCT	_	_	4	punct	_	Ref=MARK_5.32|Gloss=,
-3	Jésù	jésù	PROPN	_	_	4	nsubj	_	Ref=MARK_5.32|Gloss=jesus
-4	bẹ̀rẹ̀	bẹ̀rẹ̀	VERB	_	_	0	root	_	Ref=MARK_5.32|Gloss=began
-5	sí	sí	ADP	_	_	6	case	_	Ref=MARK_5.32|Gloss=to
-6	wò	wò	VERB	_	_	4	compound:svc	_	Ref=MARK_5.32|Gloss=look
-7	yíká	yíká	ADJ	_	_	6	amod	_	Ref=MARK_5.32|Gloss=round
-8	láti	láti	ADP	_	_	9	mark	_	Ref=MARK_5.32|Gloss=to
-9	rí	rí	VERB	_	_	4	parataxis	_	Ref=MARK_5.32|Gloss=saw
-10	ẹni	ẹni	PRON	_	PronType=Ind	9	obj	_	Ref=MARK_5.32|Gloss=person
-11	náà	náà	DET	_	_	10	det	_	Ref=MARK_5.32|SpaceAfter=No|Gloss=the
-12	,	,	PUNCT	_	_	15	punct	_	Ref=MARK_5.32|Gloss=,
-13	tí	tí	PRON	_	PronType=Rel	15	nsubj	_	Ref=MARK_5.32|Gloss=that
-14	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	15	expl	_	Ref=MARK_5.32|Gloss=he
-15	fi	fi	VERB	_	_	9	conj	_	Ref=MARK_5.32|Gloss=use
-16	ọwọ́	ọwọ́	NOUN	_	_	15	obj	_	Ref=MARK_5.32|Gloss=hand
-17	kan	kan	VERB	_	_	16	compound:svc	_	Ref=MARK_5.32|Gloss=touched
-18	òun	òun	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	15	obj	_	Ref=MARK_5.32|SpaceAfter=No|Gloss=him
-19	.	.	PUNCT	_	_	4	punct	_	Ref=MARK_5.32|Gloss=.
+1	Ṣíbẹ̀	Ṣíbẹ̀	ADV	_	_	4	advmod	_	Gloss=yet|Ref=MARK_5.32|SpaceAfter=No
+2	,	,	PUNCT	_	_	4	punct	_	Gloss=,|Ref=MARK_5.32
+3	Jésù	jésù	PROPN	_	_	4	nsubj	_	Gloss=jesus|Ref=MARK_5.32
+4	bẹ̀rẹ̀	bẹ̀rẹ̀	VERB	_	_	0	root	_	Gloss=began|Ref=MARK_5.32
+5	sí	sí	ADP	_	_	6	case	_	Gloss=to|Ref=MARK_5.32
+6	wò	wò	VERB	_	_	4	compound:svc	_	Gloss=look|Ref=MARK_5.32
+7	yíká	yíká	ADJ	_	_	6	amod	_	Gloss=round|Ref=MARK_5.32
+8	láti	láti	ADP	_	_	9	mark	_	Gloss=to|Ref=MARK_5.32
+9	rí	rí	VERB	_	_	4	parataxis	_	Gloss=saw|Ref=MARK_5.32
+10	ẹni	ẹni	PRON	_	PronType=Ind	9	obj	_	Gloss=person|Ref=MARK_5.32
+11	náà	náà	DET	_	_	10	det	_	Gloss=the|Ref=MARK_5.32|SpaceAfter=No
+12	,	,	PUNCT	_	_	15	punct	_	Gloss=,|Ref=MARK_5.32
+13	tí	tí	PRON	_	PronType=Rel	15	nsubj	_	Gloss=that|Ref=MARK_5.32
+14	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	15	expl	_	Gloss=he|Ref=MARK_5.32
+15	fi	fi	VERB	_	_	9	conj	_	Gloss=use|Ref=MARK_5.32
+16	ọwọ́	ọwọ́	NOUN	_	_	15	obj	_	Gloss=hand|Ref=MARK_5.32
+17	kan	kan	VERB	_	_	16	compound:svc	_	Gloss=touched|Ref=MARK_5.32
+18	òun	òun	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	15	obj	_	Gloss=him|Ref=MARK_5.32|SpaceAfter=No
+19	.	.	PUNCT	_	_	4	punct	_	Gloss=.|Ref=MARK_5.32
 
 ~~~
 
@@ -90,22 +90,22 @@ The following 6 pairs of parts of speech are connected with `parataxis`: <tt><a 
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 13 parataxis	color:blue
-1	Jésù	jésù	PROPN	_	_	6	nsubj	_	Ref=MARK_5.24|Gloss=jesus
-2	sì	sì	CCONJ	_	_	6	cc	_	Ref=MARK_5.24|Gloss=and
-3	ń	ń	AUX	_	_	6	aux	_	Ref=MARK_5.24|Gloss=is
-4	bá	bá	ADP	_	_	6	case	_	Ref=MARK_5.24|Gloss=with
-5	a	a	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	6	obj	_	Ref=MARK_5.24|Gloss=him
-6	lọ	lọ	VERB	_	_	0	root	_	Ref=MARK_5.24|Gloss=him|SpaceAfter=No
-7	.	.	PUNCT	_	_	8	punct	_	Ref=MARK_5.24|Gloss=.
-8	Ọ̀pọ̀	Ọ̀pọ̀	ADJ	_	_	6	ccomp	_	Ref=MARK_5.24|Gloss=many
-9	ìjọ	ìjọ	NOUN	_	_	13	nsubj	_	Ref=MARK_5.24|Gloss=congregation
-10	ènìyàn	ènìyàn	NOUN	_	_	9	nmod	_	Ref=MARK_5.24|Gloss=people
-11	sì	sì	CCONJ	_	_	13	cc	_	Ref=MARK_5.24|Gloss=and
-12	ń	ń	AUX	_	_	13	aux	_	Ref=MARK_5.24|Gloss=is
-13	tọ̀	tọ̀	VERB	_	_	8	parataxis	_	Ref=MARK_5.24|Gloss=follow
-14	Ọ́	ọ́	NOUN	_	_	13	obj	_	Ref=MARK_5.24|Gloss=him
-15	lẹ́yìn	lẹ́yìn	ADP	_	_	14	case	_	Ref=MARK_5.24|SpaceAfter=No|Gloss=after
-16	.	.	PUNCT	_	_	13	punct	_	Ref=MARK_5.24|Gloss=.
+1	Jésù	jésù	PROPN	_	_	6	nsubj	_	Gloss=jesus|Ref=MARK_5.24
+2	sì	sì	CCONJ	_	_	6	cc	_	Gloss=and|Ref=MARK_5.24
+3	ń	ń	AUX	_	_	6	aux	_	Gloss=is|Ref=MARK_5.24
+4	bá	bá	ADP	_	_	6	case	_	Gloss=with|Ref=MARK_5.24
+5	a	a	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	6	obj	_	Gloss=him|Ref=MARK_5.24
+6	lọ	lọ	VERB	_	_	0	root	_	Gloss=him|Ref=MARK_5.24|SpaceAfter=No
+7	.	.	PUNCT	_	_	8	punct	_	Gloss=.|Ref=MARK_5.24
+8	Ọ̀pọ̀	Ọ̀pọ̀	ADJ	_	_	6	ccomp	_	Gloss=many|Ref=MARK_5.24
+9	ìjọ	ìjọ	NOUN	_	_	13	nsubj	_	Gloss=congregation|Ref=MARK_5.24
+10	ènìyàn	ènìyàn	NOUN	_	_	9	nmod	_	Gloss=people|Ref=MARK_5.24
+11	sì	sì	CCONJ	_	_	13	cc	_	Gloss=and|Ref=MARK_5.24
+12	ń	ń	AUX	_	_	13	aux	_	Gloss=is|Ref=MARK_5.24
+13	tọ̀	tọ̀	VERB	_	_	8	parataxis	_	Gloss=follow|Ref=MARK_5.24
+14	Ọ́	ọ́	NOUN	_	_	13	obj	_	Gloss=him|Ref=MARK_5.24
+15	lẹ́yìn	lẹ́yìn	ADP	_	_	14	case	_	Gloss=after|Ref=MARK_5.24|SpaceAfter=No
+16	.	.	PUNCT	_	_	13	punct	_	Gloss=.|Ref=MARK_5.24
 
 ~~~
 

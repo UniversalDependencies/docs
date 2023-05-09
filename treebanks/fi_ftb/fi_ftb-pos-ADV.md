@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>nyt</em> (<tt><a href="fi_ftb-pos-ADV
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.239416 (the average of all parts of speech is 2.050767).
+The form / lemma ratio of `ADV` is 1.239416 (the average of all parts of speech is 2.049043).
 
 The 1st highest number of forms (11) was observed with the lemma “siellä”: <em>Sielki, Siellähän, siel, siell, siellä, sielläkin, sielläkö, sielä, siäl, siälä, siäläh</em>.
 

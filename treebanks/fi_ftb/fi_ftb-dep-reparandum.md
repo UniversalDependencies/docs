@@ -44,8 +44,8 @@ The following 7 pairs of parts of speech are connected with `reparandum`: <tt><a
 # visual-style 25 24 reparandum	color:blue
 1	Niin	niin	PART	Pcle	_	5	advmod	_	_
 2	tää	tämä	DET	Pron,Dem,Sg,Nom	Case=Nom|Number=Sing|PronType=Dem|Style=Coll	3	det	_	Was18goes=det:4
-3	feminismi	feminismi	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	5	nsubj	_	Alt=goeswith|Was18gor=4
-4	sana	sana	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	3	goeswith	_	Was18gow=5:nsubj
+3	feminismi	feminismi-sana	NOUN	N,Sg,Nom	Case=Nom|Number=Sing|Typo=Yes	5	nsubj	_	Alt=goeswith|Was18gor=4
+4	sana	_	X	_	_	3	goeswith	_	Was18gow=5:nsubj
 5	tuli	tulla	VERB	V,Act,Ind,Past,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 6	tuli	tulla	VERB	V,Act,Ind,Past,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	_
 7	semmoseen	semmoinen	DET	A,Dem,Sg,Ill	Case=Ill|Number=Sing|PronType=Dem|Style=Coll	8	amod	_	Alt=DET

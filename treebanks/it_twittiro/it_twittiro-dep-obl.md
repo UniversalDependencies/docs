@@ -81,7 +81,7 @@ The following 43 pairs of parts of speech are connected with `obl`: <tt><a href=
 8	,	,	PUNCT	FF	_	9	punct	_	_
 9	vai	vai	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	parataxis	_	_
 10	tranquilla	tranquillo	ADJ	A	Gender=Fem|Number=Sing	9	xcomp	_	SpaceAfter=No
-11	.	.	PUNCT	FS	_	4	punct	_	SpaceAfter=\n
+11	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
 
 ~~~
 

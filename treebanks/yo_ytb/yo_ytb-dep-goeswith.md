@@ -22,32 +22,32 @@ The following 3 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 19	bgColor:blue
 # visual-style 19	fgColor:white
 # visual-style 19 20 goeswith	color:blue
-1	Àwọn	Àwọn	DET	_	_	2	det	_	Ref=MARK_5.12|Gloss=the
-2	ẹ̀mí	ẹ̀mí	NOUN	_	_	5	nsubj	_	Ref=MARK_5.12|Gloss=spirit
-3	àìmọ́	àìmọ́	ADJ	_	_	2	amod	_	Ref=MARK_5.12|Gloss=unclean
-4	náà	náà	DET	_	_	2	det	_	Ref=MARK_5.12|Gloss=the
-5	bẹ	bẹ	VERB	_	_	0	root	_	Ref=MARK_5.12|Gloss=beg
-6	Jésù	Jésù	PROPN	_	_	5	obj	_	Ref=MARK_5.12|Gloss=jesus
-7	pé	pé	SCONJ	_	_	12	mark	_	Ref=MARK_5.12|SpaceAfter=No|Gloss=that
-8	,	,	PUNCT	_	_	12	punct	_	Ref=MARK_5.12|Gloss=,
-9	“	“	PUNCT	_	_	12	punct	_	Ref=MARK_5.12|SpaceAfter=No|Gloss=“
-10	Rán	rán	VERB	_	_	12	ccomp	_	Ref=MARK_5.12|Gloss=send
-11	wa	wa	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	12	nsubj	_	Ref=MARK_5.12|Gloss=us
-12	lọ	lọ	VERB	_	_	5	ccomp	_	Ref=MARK_5.12|Gloss=go
-13	sínú	sínú	ADP	_	_	15	case	_	Ref=MARK_5.12|Gloss=into
-14	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	15	det	_	Ref=MARK_5.12|Gloss=the
-15	ẹlẹ́dẹ̀	ẹlẹ́dẹ̀	NOUN	_	_	12	obl	_	Ref=MARK_5.12|Gloss=swine
-16	wọnni	wọnni	DET	_	_	12	det	_	Ref=MARK_5.12|Gloss=those
-17	kí	kí	AUX	_	_	21	aux	_	Ref=MARK_5.12|Gloss=so
-18	awa	awa	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	21	nsubj	_	Ref=MARK_5.12|Gloss=we
-19	le	lè	AUX	_	Typo=Yes	21	aux	_	Ref=MARK_5.12|Gloss=can
-20	è	è	X	_	Typo=Yes	19	goeswith	_	Ref=MARK_5.12|Gloss=
-21	wọ	wọ	VERB	_	_	16	xcomp	_	Ref=MARK_5.12|Gloss=enter
-22	inú	inú	ADP	_	_	23	case	_	Ref=MARK_5.12|Gloss=into
-23	wọn	wọn	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	21	obj	_	Ref=MARK_5.12|Gloss=them
-24	lọ	lọ	ADV	_	_	21	compound:svc	_	Ref=MARK_5.12|SpaceAfter=No|Gloss=go
-25	.	.	PUNCT	_	_	21	punct	_	Ref=MARK_5.12|SpaceAfter=No|Gloss=.
-26	”	”	PUNCT	_	_	21	punct	_	Ref=MARK_5.12|Gloss=”
+1	Àwọn	Àwọn	DET	_	_	2	det	_	Gloss=the|Ref=MARK_5.12
+2	ẹ̀mí	ẹ̀mí	NOUN	_	_	5	nsubj	_	Gloss=spirit|Ref=MARK_5.12
+3	àìmọ́	àìmọ́	ADJ	_	_	2	amod	_	Gloss=unclean|Ref=MARK_5.12
+4	náà	náà	DET	_	_	2	det	_	Gloss=the|Ref=MARK_5.12
+5	bẹ	bẹ	VERB	_	_	0	root	_	Gloss=beg|Ref=MARK_5.12
+6	Jésù	Jésù	PROPN	_	_	5	obj	_	Gloss=jesus|Ref=MARK_5.12
+7	pé	pé	SCONJ	_	_	12	mark	_	Gloss=that|Ref=MARK_5.12|SpaceAfter=No
+8	,	,	PUNCT	_	_	12	punct	_	Gloss=,|Ref=MARK_5.12
+9	“	“	PUNCT	_	_	12	punct	_	Gloss=“|Ref=MARK_5.12|SpaceAfter=No
+10	Rán	rán	VERB	_	_	12	ccomp	_	Gloss=send|Ref=MARK_5.12
+11	wa	wa	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	12	nsubj	_	Gloss=us|Ref=MARK_5.12
+12	lọ	lọ	VERB	_	_	5	ccomp	_	Gloss=go|Ref=MARK_5.12
+13	sínú	sínú	ADP	_	_	15	case	_	Gloss=into|Ref=MARK_5.12
+14	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	15	det	_	Gloss=the|Ref=MARK_5.12
+15	ẹlẹ́dẹ̀	ẹlẹ́dẹ̀	NOUN	_	_	12	obl	_	Gloss=swine|Ref=MARK_5.12
+16	wọnni	wọnni	DET	_	_	12	det	_	Gloss=those|Ref=MARK_5.12
+17	kí	kí	AUX	_	_	21	aux	_	Gloss=so|Ref=MARK_5.12
+18	awa	awa	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	21	nsubj	_	Gloss=we|Ref=MARK_5.12
+19	le	lè	AUX	_	Typo=Yes	21	aux	_	CorrectForm=leè|Gloss=can|Ref=MARK_5.12
+20	è	_	X	_	_	19	goeswith	_	Gloss=|Ref=MARK_5.12
+21	wọ	wọ	VERB	_	_	16	xcomp	_	Gloss=enter|Ref=MARK_5.12
+22	inú	inú	ADP	_	_	23	case	_	Gloss=into|Ref=MARK_5.12
+23	wọn	wọn	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	21	obj	_	Gloss=them|Ref=MARK_5.12
+24	lọ	lọ	ADV	_	_	21	compound:svc	_	Gloss=go|Ref=MARK_5.12|SpaceAfter=No
+25	.	.	PUNCT	_	_	21	punct	_	Gloss=.|Ref=MARK_5.12|SpaceAfter=No
+26	”	”	PUNCT	_	_	21	punct	_	Gloss=”|Ref=MARK_5.12
 
 ~~~
 
@@ -58,32 +58,32 @@ The following 3 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 19	bgColor:blue
 # visual-style 19	fgColor:white
 # visual-style 19 20 goeswith	color:blue
-1	Ṣùgbọ́n	Ṣùgbọ́n	CCONJ	_	_	5	cc	_	Ref=MARK_5.36|Gloss=but
-2	bi	bí	SCONJ	_	Typo=Yes	5	mark	_	Ref=MARK_5.36|Gloss=as
-3	Jésù	jésù	PROPN	_	_	5	nsubj	_	Ref=MARK_5.36|Gloss=jesus
-4	ti	ti	AUX	_	_	5	aux	_	Ref=MARK_5.36|Gloss=have
-5	gbọ́	gbọ́	VERB	_	_	10	advcl	_	Ref=MARK_5.36|Gloss=heard
-6	ọ̀rọ̀	ọ̀rọ̀	NOUN	_	_	5	obj	_	Ref=MARK_5.36|Gloss=word
-7	náà	náà	DET	_	_	6	det	_	Ref=MARK_5.36|SpaceAfter=No|Gloss=the
-8	,	,	PUNCT	_	_	5	punct	_	Ref=MARK_5.36|Gloss=,
-9	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	Ref=MARK_5.36|Gloss=he
-10	wí	wí	VERB	_	_	0	root	_	Ref=MARK_5.36|Gloss=said
-11	fún	fún	ADP	_	_	12	case	_	Ref=MARK_5.36|Gloss=unto
-12	Jáírù	Jáírù	PROPN	_	_	10	obl	_	Ref=MARK_5.36|Gloss=jairus
-13	pé	pé	SCONJ	_	_	17	mark	_	Ref=MARK_5.36|SpaceAfter=No|Gloss=that
-14	,	,	PUNCT	_	_	17	punct	_	Ref=MARK_5.36|Gloss=,
-15	“	“	PUNCT	_	_	17	punct	_	Ref=MARK_5.36|SpaceAfter=No|Gloss=“
-16	Má	má	AUX	_	_	17	aux	_	Ref=MARK_5.36|Gloss=not
-17	bẹ̀rù	bẹ̀rù	VERB	_	_	10	ccomp	_	Ref=MARK_5.36|SpaceAfter=No|Gloss=fear
-18	,	,	PUNCT	_	_	19	punct	_	Ref=MARK_5.36|Gloss=,
-19	sá	sá	ADV	_	_	17	advmod	_	Ref=MARK_5.36|Gloss=just
-20	à	à	X	_	_	19	goeswith	_	Ref=MARK_5.36|Gloss=
-21	gbà	gbà	VERB	_	_	19	acl	_	Ref=MARK_5.36|Gloss=accept
-22	mí	mí	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	21	obj	_	Ref=MARK_5.36|Gloss=me
-23	gbọ́	gbọ́	VERB	_	_	21	compound:svc	_	Ref=MARK_5.36|Gloss=heard
-24	nìkan	nìkan	ADV	_	_	23	advmod	_	Ref=MARK_5.36|SpaceAfter=No|Gloss=only
-25	.	.	PUNCT	_	_	17	punct	_	Ref=MARK_5.36|SpaceAfter=No|Gloss=.
-26	”	”	PUNCT	_	_	17	punct	_	Ref=MARK_5.36|Gloss=.
+1	Ṣùgbọ́n	Ṣùgbọ́n	CCONJ	_	_	5	cc	_	Gloss=but|Ref=MARK_5.36
+2	bi	bí	SCONJ	_	Typo=Yes	5	mark	_	Gloss=as|Ref=MARK_5.36
+3	Jésù	jésù	PROPN	_	_	5	nsubj	_	Gloss=jesus|Ref=MARK_5.36
+4	ti	ti	AUX	_	_	5	aux	_	Gloss=have|Ref=MARK_5.36
+5	gbọ́	gbọ́	VERB	_	_	10	advcl	_	Gloss=heard|Ref=MARK_5.36
+6	ọ̀rọ̀	ọ̀rọ̀	NOUN	_	_	5	obj	_	Gloss=word|Ref=MARK_5.36
+7	náà	náà	DET	_	_	6	det	_	Gloss=the|Ref=MARK_5.36|SpaceAfter=No
+8	,	,	PUNCT	_	_	5	punct	_	Gloss=,|Ref=MARK_5.36
+9	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	Gloss=he|Ref=MARK_5.36
+10	wí	wí	VERB	_	_	0	root	_	Gloss=said|Ref=MARK_5.36
+11	fún	fún	ADP	_	_	12	case	_	Gloss=unto|Ref=MARK_5.36
+12	Jáírù	Jáírù	PROPN	_	_	10	obl	_	Gloss=jairus|Ref=MARK_5.36
+13	pé	pé	SCONJ	_	_	17	mark	_	Gloss=that|Ref=MARK_5.36|SpaceAfter=No
+14	,	,	PUNCT	_	_	17	punct	_	Gloss=,|Ref=MARK_5.36
+15	“	“	PUNCT	_	_	17	punct	_	Gloss=“|Ref=MARK_5.36|SpaceAfter=No
+16	Má	má	AUX	_	_	17	aux	_	Gloss=not|Ref=MARK_5.36
+17	bẹ̀rù	bẹ̀rù	VERB	_	_	10	ccomp	_	Gloss=fear|Ref=MARK_5.36|SpaceAfter=No
+18	,	,	PUNCT	_	_	19	punct	_	Gloss=,|Ref=MARK_5.36
+19	sá	sáà	ADV	_	Typo=Yes	17	advmod	_	CorrectForm=sáà|Gloss=just|Ref=MARK_5.36
+20	à	_	X	_	_	19	goeswith	_	Gloss=|Ref=MARK_5.36
+21	gbà	gbà	VERB	_	_	19	acl	_	Gloss=accept|Ref=MARK_5.36
+22	mí	mí	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	21	obj	_	Gloss=me|Ref=MARK_5.36
+23	gbọ́	gbọ́	VERB	_	_	21	compound:svc	_	Gloss=heard|Ref=MARK_5.36
+24	nìkan	nìkan	ADV	_	_	23	advmod	_	Gloss=only|Ref=MARK_5.36|SpaceAfter=No
+25	.	.	PUNCT	_	_	17	punct	_	Gloss=.|Ref=MARK_5.36|SpaceAfter=No
+26	”	”	PUNCT	_	_	17	punct	_	Gloss=.|Ref=MARK_5.36
 
 ~~~
 
@@ -99,8 +99,8 @@ The following 3 pairs of parts of speech are connected with `goeswith`: <tt><a h
 3	èso	èso	VERB	_	_	0	root	_	_
 4	ìfohùnṣọ̀kan	ìfohùnṣọ̀kan	ADV	_	_	3	advmod	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	12	punct	_	_
-6	bẹ́	bẹ́	NOUN	_	_	12	discourse	_	_
-7	ẹ̀	ẹ̀	X	_	_	6	goeswith	_	_
+6	bẹ́	bẹ́ẹ̀	NOUN	_	Typo=Yes	12	discourse	_	CorrectForm=bẹ́ẹ̀
+7	ẹ̀	_	X	_	_	6	goeswith	_	_
 8	sì	sì	CCONJ	_	_	12	cc	_	_
 9	ni	ni	PART	_	_	10	case	_	_
 10	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
@@ -114,7 +114,7 @@ The following 3 pairs of parts of speech are connected with `goeswith`: <tt><a h
 18	tẹ̀lé	tẹ̀lé	VERB	_	_	16	conj	_	_
 19	wọn	wọn	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	18	obj	_	_
 20	gbámúgbámú	gbámúgbámú	VERB	_	_	18	compound:svc	_	SpaceAfter=No
-21	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n\n
+21	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

@@ -74,7 +74,7 @@ The following 3 pairs of parts of speech are connected with `expl`: <tt><a href=
 27	.	.	PUNCT	FS	_	23	punct	_	_
 28	[	[	PUNCT	FB	_	29	punct	_	SpaceAfter=No
 29	@user	@user	SYM	SYM	_	1	vocative:mention	_	SpaceAfter=No
-30	]	]	PUNCT	FB	_	29	punct	_	SpaceAfter=\n
+30	]	]	PUNCT	FB	_	29	punct	_	SpacesAfter=\n
 
 ~~~
 

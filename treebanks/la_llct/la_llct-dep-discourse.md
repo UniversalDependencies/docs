@@ -31,7 +31,7 @@ The following 6 pairs of parts of speech are connected with `discourse`: <tt><a 
 7	,	,	PUNCT	Punc	_	5	punct	_	_
 8	ita	ita	ADV	d|d|-|-|-|-|-|-|-|-	PronType=Dem	10	advmod	_	_
 9	mihi	ego	PRON	p|p|1|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	10	obl:arg	_	_
-10	dare	do	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	11	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+10	dare	do	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	11	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 11	videtis	uideo	VERB	v|v|2|p|p|i|a|-|-|-	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 12	.	.	PUNCT	Punc	_	11	punct	_	_
 
@@ -77,9 +77,9 @@ The following 6 pairs of parts of speech are connected with `discourse`: <tt><a 
 11	casa	casa	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	17	obl	_	_
 12	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	13	cc	_	_
 13	res	res	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	11	conj	_	_
-14	residere	resideo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	11	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+14	residere	resideo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	11	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 15	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	16	cc	_	_
-16	avitare	habito	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	11	conj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+16	avitare	habito	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	11	conj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 17	debeamus	debeo	VERB	v|v|1|p|p|s|a|-|-|-	Aspect=Imp|Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl	_	TraditionalMood=Subiunctivus|TraditionalTense=Praesens
 18	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	29	cc	_	_
 19	ipsa	ipse	DET	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	20	det	_	_
@@ -87,11 +87,11 @@ The following 6 pairs of parts of speech are connected with `discourse`: <tt><a 
 21	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	22	cc	_	_
 22	res	res	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	20	conj	_	_
 23	bene	bene	ADV	d|d|-|-|-|-|-|-|-|-	_	24	advmod	_	_
-24	lavorare	laboro	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	29	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+24	lavorare	laboro	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	29	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 25	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	26	cc	_	_
-26	gubernare	guberno	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	24	conj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+26	gubernare	guberno	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	24	conj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 27	seo	seu	CCONJ	c|c|-|-|-|-|-|-|-|-	_	28	cc	_	_
-28	meliorare	melioro	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	24	conj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+28	meliorare	melioro	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	24	conj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 29	debeamus	debeo	VERB	v|v|1|p|p|s|a|-|-|-	Aspect=Imp|Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	17	conj	_	SpaceAfter=No|TraditionalMood=Subiunctivus|TraditionalTense=Praesens
 30	.	.	PUNCT	Punc	_	3	punct	_	_
 

@@ -27,7 +27,7 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 2	cum	cum	SCONJ	c|c|-|-|-|-|-|-|-|-	PronType=Rel	6	mark	_	_
 3	eas	is	PRON	p|p|-|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs	5	nsubj:pass	_	_
 4	iterum	iterum	ADV	d|d|-|-|-|-|-|-|-|-	AdvType=Tim	5	advmod:tmod	_	_
-5	legi	lego	VERB	v|v|-|-|p|n|p|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Pass	6	ccomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+5	legi	lego	VERB	v|v|-|-|p|n|p|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Pass	6	ccomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 6	fecissemus	facio	VERB	v|v|1|p|l|s|a|-|-|-	Aspect=Perf|Mood=Sub|Number=Plur|Person=1|Tense=Pqp|VerbForm=Fin|Voice=Act	8	advcl	_	SpaceAfter=No|TraditionalMood=Subiunctivus|TraditionalTense=Plusquamperfectum
 7	,	,	PUNCT	Punc	_	6	punct	_	_
 8	contenebatur	contineo	VERB	v|v|3|s|i|i|p|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Imperfectum
@@ -73,7 +73,7 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 23	dignus	dignus	ADJ	a|a|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	26	acl:relcl	_	_
 24	fuerit	sum	AUX	v|v|3|s|t|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	23	cop	_	TraditionalMood=Indicativus|TraditionalTense=FuturumExactum
 25	ordinationem	ordinatio	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	26	obj	_	_
-26	facere	facio	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	2	xcomp	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Praesens
+26	facere	facio	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	2	xcomp	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Praesens
 27	,	,	PUNCT	Punc	_	28	punct	_	_
 28	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	39	cc	_	_
 29	quem	qui	PRON	p|p|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	32	obj	_	_
@@ -152,7 +152,7 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 52	dignissime	digne	ADV	d|d|-|-|-|-|-|-|-|s	Degree=Abs	55	advmod	_	_
 53	non	non	PART	d|d|-|-|-|-|-|-|-|-	Polarity=Neg	54	advmod:neg	_	_
 54	valet	ualeo	VERB	v|v|3|s|p|i|a|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	43	conj	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
-55	peragere	perago	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	54	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+55	peragere	perago	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	54	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 56	servitium	seruitium	NOUN	n|n|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing	55	obj	_	SpaceAfter=No
 57	.	.	PUNCT	Punc	_	1	punct	_	_
 

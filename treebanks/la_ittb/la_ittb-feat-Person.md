@@ -27,7 +27,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 * `1` (1526; 4% of non-empty `Person`): <em>dicimus, uidemus, possumus, intelligimus, dico, cognoscimus, respondeo, ostendi, attribui, uolumus</em>
 * `2` (391; 1% of non-empty `Person`): <em>nolite, fecisti, nescitis, uidete, docete, odisti, uade, accepistis, audi, clarifica</em>
 * `3` (35205; 95% of non-empty `Person`): <em>potest, oportet, dicitur, habet, patet, dicit, uidetur, fit, possunt, habent</em>
-* `EMPTY` (22703): <em>ostensum, dicendum, intelligere, dictum, dici, fieri, habere, mouens, separatae, facere</em>
+* `EMPTY` (22710): <em>ostensum, dicendum, intelligere, dictum, dici, fieri, habere, mouens, separatae, facere</em>
 
 <table>
   <tr><th>Paradigm <i>dico</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -69,7 +69,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 `PRON` tokens may have the following values of `Person`:
 
 * `3` (4847; 100% of non-empty `Person`): <em>eius, eo, ea, ei, id, eorum, eis, eam, eum, earum</em>
-* `EMPTY` (17847): <em>quae, quod, se, qui, aliquid, quo, quam, nihil, quibus, qua</em>
+* `EMPTY` (17849): <em>quae, quod, se, qui, aliquid, quo, quam, nihil, quibus, qua</em>
 
 ## Relations with Agreement in `Person`
 
@@ -78,7 +78,7 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> VERB</tt> (2093; 84%),
 <tt>PRON --[<tt><a href="la_ittb-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (671; 69%),
 <tt>VERB --[<tt><a href="la_ittb-dep-csubj-relcl.html">csubj:relcl</a></tt>]--> VERB</tt> (430; 72%),
-<tt>VERB --[<tt><a href="la_ittb-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (171; 74%),
+<tt>VERB --[<tt><a href="la_ittb-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (170; 74%),
 <tt>PRON --[<tt><a href="la_ittb-dep-acl.html">acl</a></tt>]--> VERB</tt> (144; 63%),
 <tt>VERB --[<tt><a href="la_ittb-dep-conj-expl.html">conj:expl</a></tt>]--> VERB</tt> (35; 64%),
 <tt>VERB --[<tt><a href="la_ittb-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (33; 80%),

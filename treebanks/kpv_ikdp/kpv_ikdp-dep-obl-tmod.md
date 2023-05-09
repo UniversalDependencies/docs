@@ -32,7 +32,7 @@ The following 3 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 7	английскей	английскӧй	NOUN	N	Case=Nom|Number=Sing	8	nmod	_	GTtags=Sg,Nom
 8	вылын	выв	NOUN	N	Case=Ine|NounType=Relat|Number=Sing	4	acl:relcl	_	GTtags=Relat,Sg,Ine|SpaceAfter=No
 9	,	,	PUNCT	PUNCT	_	10	punct	_	_
-10	вуджедтэг	вуджӧдны	VERB	V	Derivation=VAbe|Valency=2	8	conj	_	GTtags=TV,VCar,Err/Dial|SpaceAfter=No
+10	вуджедтэг	вуджӧдны	VERB	V	Derivation=VAbe	8	conj	_	GTtags=TV,VCar,Err/Dial|SpaceAfter=No
 11	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 ~~~

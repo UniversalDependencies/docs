@@ -9,28 +9,29 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `case`: <tt><a href="ga_twittirish-dep-case-voc.html">case:voc</a></tt>.
 
-1572 nodes (10%) are attached to their parents as `case`.
+5055 nodes (11%) are attached to their parents as `case`.
 
-1551 instances of `case` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.3059796437659.
+4981 instances of `case` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.29653808110781.
 
-The following 28 pairs of parts of speech are connected with `case`: <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-ADP.html">ADP</a></tt> (989; 63% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-ADP.html">ADP</a></tt> (415; 26% instances), <tt><a href="ga_twittirish-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_twittirish-pos-ADP.html">ADP</a></tt> (48; 3% instances), <tt><a href="ga_twittirish-pos-X.html">X</a></tt>-<tt><a href="ga_twittirish-pos-ADP.html">ADP</a></tt> (27; 2% instances), <tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_twittirish-pos-ADP.html">ADP</a></tt> (19; 1% instances), <tt><a href="ga_twittirish-pos-SYM.html">SYM</a></tt>-<tt><a href="ga_twittirish-pos-ADP.html">ADP</a></tt> (14; 1% instances), <tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_twittirish-pos-ADP.html">ADP</a></tt> (9; 1% instances), <tt><a href="ga_twittirish-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_twittirish-pos-ADP.html">ADP</a></tt> (7; 0% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-PART.html">PART</a></tt> (7; 0% instances), <tt><a href="ga_twittirish-pos-DET.html">DET</a></tt>-<tt><a href="ga_twittirish-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_twittirish-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_twittirish-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_twittirish-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_twittirish-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_twittirish-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_twittirish-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-DET.html">DET</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-DET.html">DET</a></tt>-<tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_twittirish-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-PART.html">PART</a></tt>-<tt><a href="ga_twittirish-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-X.html">X</a></tt> (1; 0% instances).
+The following 35 pairs of parts of speech are connected with `case`: <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-ADP.html">ADP</a></tt> (3254; 64% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-ADP.html">ADP</a></tt> (1303; 26% instances), <tt><a href="ga_twittirish-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_twittirish-pos-ADP.html">ADP</a></tt> (162; 3% instances), <tt><a href="ga_twittirish-pos-X.html">X</a></tt>-<tt><a href="ga_twittirish-pos-ADP.html">ADP</a></tt> (82; 2% instances), <tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_twittirish-pos-ADP.html">ADP</a></tt> (61; 1% instances), <tt><a href="ga_twittirish-pos-SYM.html">SYM</a></tt>-<tt><a href="ga_twittirish-pos-ADP.html">ADP</a></tt> (41; 1% instances), <tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_twittirish-pos-ADP.html">ADP</a></tt> (38; 1% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-PART.html">PART</a></tt> (18; 0% instances), <tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_twittirish-pos-ADP.html">ADP</a></tt> (15; 0% instances), <tt><a href="ga_twittirish-pos-DET.html">DET</a></tt>-<tt><a href="ga_twittirish-pos-ADP.html">ADP</a></tt> (15; 0% instances), <tt><a href="ga_twittirish-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_twittirish-pos-ADP.html">ADP</a></tt> (10; 0% instances), <tt><a href="ga_twittirish-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_twittirish-pos-ADP.html">ADP</a></tt> (9; 0% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (8; 0% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_twittirish-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ga_twittirish-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_twittirish-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="ga_twittirish-pos-PART.html">PART</a></tt>-<tt><a href="ga_twittirish-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_twittirish-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_twittirish-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_twittirish-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ga_twittirish-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-DET.html">DET</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-DET.html">DET</a></tt>-<tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_twittirish-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-X.html">X</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 3 case	color:blue
-1	@hayzer114	@hayzer114	PROPN	_	_	5	vocative:mention	_	_
-2	"	"	PUNCT	_	_	5	punct	_	SpaceAfter=No
-3	Ar	ar	ADP	_	_	5	case	_	Lang=ga
-4	son	son	NOUN	_	_	3	fixed	_	Lang=ga
-5	foireann	foireann	NOUN	_	_	0	root	_	Lang=ga
-6	Lumnigh	Luimneach	PROPN	_	_	5	nmod	_	Lang=ga|SpaceAfter=No
-7	!	!	PUNCT	_	_	5	punct	_	SpaceAfter=No
-8	"	"	PUNCT	_	_	5	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 case	color:blue
+1	.	.	PUNCT	_	_	6	punct	_	SpaceAfter=No
+2	@user283	@user283	PROPN	_	_	6	vocative:mention	_	_
+3	@user293	@user293	PROPN	_	_	6	vocative:mention	_	_
+4	@user115	@user115	PROPN	_	_	6	vocative:mention	_	_
+5	gan	gan	ADP	_	_	6	case	_	Lang=ga
+6	amhras	amhras	NOUN	_	_	0	root	_	Lang=ga
+7	ar	ar	ADP	_	_	6	nmod	_	Lang=ga
+8	bith	bith	NOUN	_	_	7	fixed	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~
 
@@ -41,37 +42,35 @@ The following 28 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 case	color:blue
-1	@c_quigley	@c_quigley	PROPN	_	_	2	vocative:mention	_	_
-2	lean	lean	VERB	_	_	0	root	_	Lang=ga
-3	mé	mé	PRON	_	_	2	obj	_	Lang=ga
-4	ar	ar	ADP	_	_	5	case	_	Lang=ga
-5	twitter	Twitter	PROPN	_	_	2	obl	_	Lang=ga
-6	le	le	ADP	_	_	8	case	_	Lang=ga
-7	do	do	DET	_	_	8	nmod:poss	_	Lang=ga
-8	thoil	toil	NOUN	_	_	2	obl	_	Lang=ga|SpaceAfter=No
-9	!	!	PUNCT	_	_	2	punct	_	_
+1	@user1389	@user1389	PROPN	_	_	2	vocative:mention	_	_
+2	foireann	foireann	NOUN	_	_	0	root	_	Lang=ga
+3	láidir	láidir	ADJ	_	_	2	amod	_	Lang=ga
+4	ag	ag	ADP	_	_	5	case	_	Lang=ga
+5	PL	PL	PROPN	_	_	2	nmod	_	Lang=ga|SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	an-bhua	an-bhua	NOUN	_	_	2	conj	_	Lang=ga
+8	go	go	ADP	_	_	9	case	_	Lang=ga
+9	deo	deo	NOUN	_	_	2	nmod	_	Lang=ga|SpaceAfter=No
+10	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 10 case	color:blue
-1	Bígí	bí	VERB	_	_	0	root	_	Lang=ga
-2	linn	le	ADP	_	_	1	obl:prep	_	Lang=ga
-3	ag	ag	ADP	_	_	4	case	_	Lang=ga
-4	@GaelGAIRI	@GaelGAIRI	PROPN	_	_	1	obl	_	_
-5	do	do	ADP	_	_	6	case	_	Lang=ga
-6	@SnaGaeilge	@SnaGaeilge	PROPN	_	_	1	obl	_	_
-7	oíche	oíche	NOUN	_	_	1	obl:tmod	_	Lang=ga
-8	amárach	amárach	NOUN	_	_	7	nmod	_	Lang=ga|SpaceAfter=No
-9	,	,	PUNCT	_	_	11	punct	_	_
-10	óna	ó	ADP	_	_	11	case	_	Lang=ga
-11	21.30	21.30	NUM	_	_	1	obl:tmod	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	1	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 case	color:blue
+1	@user586	@user586	PROPN	_	_	3	vocative:mention	_	_
+2	@user1265	@user1265	PROPN	_	_	3	vocative:mention	_	_
+3	Céad	Céad	NUM	_	_	0	root	_	Lang=ga
+4	faoin	faoi	ADP	_	_	5	case	_	Lang=ga
+5	gcéad	céad	NUM	_	_	3	nmod	_	Lang=ga
+6	!!	!	PUNCT	_	_	3	punct	_	_
+7	Toradh	toradh	NOUN	_	_	3	parataxis:sentence	_	Lang=ga
+8	íontach	íontach	ADJ	_	_	7	amod	_	Lang=ga
+9	!	!	PUNCT	_	_	7	punct	_	_
 
 ~~~
 

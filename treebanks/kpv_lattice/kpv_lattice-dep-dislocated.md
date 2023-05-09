@@ -24,14 +24,14 @@ The following 7 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 4 1 dislocated	color:blue
 1	Комияс	коми	NOUN	N	Case=Nom|Number=Plur	4	dislocated	_	GTtags=Pl,Nom
 2	ми	ме	PRON	Pron	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	GTtags=Pers,Pl1,Nom
-3	уджавнытӧ	уджавны	VERB	V	Clitic=To|Valency=1|VerbForm=Inf	4	xcomp	_	GTtags=IV,Inf,Clt/тӧ
-4	кужам	кужны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|Valency=2	0	root	_	GTtags=TV,Ind,Prs,Pl1|SpaceAfter=No
+3	уджавнытӧ	уджавны	VERB	V	Clitic=To|VerbForm=Inf	4	xcomp	_	GTtags=IV,Inf,Clt/тӧ
+4	кужам	кужны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres	0	root	_	GTtags=TV,Ind,Prs,Pl1|SpaceAfter=No
 5	,	,	PUNCT	PUNCT	_	11	punct	_	_
 6	сӧмын	сӧмын	SCONJ	CS	_	11	cc	_	SpaceAfter=No
 7	,	,	PUNCT	PUNCT	_	8	punct	_	_
 8	гашкӧ	гашкӧ	ADV	Adv	_	11	dislocated	_	SpaceAfter=No
 9	,	,	PUNCT	PUNCT	_	8	punct	_	_
-10	шойччынысӧ	шойччыны	VERB	V	Clitic=So|Valency=1|VerbForm=Inf	11	orphan	_	GTtags=IV,Inf,Clt/сӧ
+10	шойччынысӧ	шойччыны	VERB	V	Clitic=So|VerbForm=Inf	11	orphan	_	GTtags=IV,Inf,Clt/сӧ
 11	ог	оз	VERB	V	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres	4	conj	_	GTtags=Neg,Ind,Prs,Sg1|SpaceAfter=No
 12	.	.	PUNCT	PUNCT	_	4	punct	_	_
 

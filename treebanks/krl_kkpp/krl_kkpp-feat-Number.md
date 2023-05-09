@@ -11,19 +11,19 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="krl_kkpp-feat-Number.html">Number</a></tt>, <tt><a href="krl_kkpp-feat-Number-psor.html">Number[psor]</a></tt>.
 
-1953 tokens (63%) have a non-empty value of `Number`.
+1952 tokens (63%) have a non-empty value of `Number`.
 1220 types (86%) occur at least once with a non-empty value of `Number`.
 736 lemmas (79%) occur at least once with a non-empty value of `Number`.
-The feature is used with 10 part-of-speech tags: <tt><a href="krl_kkpp-pos-NOUN.html">NOUN</a></tt> (838; 27% instances), <tt><a href="krl_kkpp-pos-PRON.html">PRON</a></tt> (288; 9% instances), <tt><a href="krl_kkpp-pos-VERB.html">VERB</a></tt> (249; 8% instances), <tt><a href="krl_kkpp-pos-ADJ.html">ADJ</a></tt> (213; 7% instances), <tt><a href="krl_kkpp-pos-PROPN.html">PROPN</a></tt> (181; 6% instances), <tt><a href="krl_kkpp-pos-AUX.html">AUX</a></tt> (131; 4% instances), <tt><a href="krl_kkpp-pos-NUM.html">NUM</a></tt> (42; 1% instances), <tt><a href="krl_kkpp-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="krl_kkpp-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), <tt><a href="krl_kkpp-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The feature is used with 10 part-of-speech tags: <tt><a href="krl_kkpp-pos-NOUN.html">NOUN</a></tt> (837; 27% instances), <tt><a href="krl_kkpp-pos-PRON.html">PRON</a></tt> (288; 9% instances), <tt><a href="krl_kkpp-pos-VERB.html">VERB</a></tt> (249; 8% instances), <tt><a href="krl_kkpp-pos-ADJ.html">ADJ</a></tt> (213; 7% instances), <tt><a href="krl_kkpp-pos-PROPN.html">PROPN</a></tt> (181; 6% instances), <tt><a href="krl_kkpp-pos-AUX.html">AUX</a></tt> (131; 4% instances), <tt><a href="krl_kkpp-pos-NUM.html">NUM</a></tt> (42; 1% instances), <tt><a href="krl_kkpp-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="krl_kkpp-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), <tt><a href="krl_kkpp-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-838 <tt><a href="krl_kkpp-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
+837 <tt><a href="krl_kkpp-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
 
 `NOUN` tokens may have the following values of `Number`:
 
 * `Plur` (250; 30% of non-empty `Number`): <em>ihmisie, kulttuurien, lapšien, ropehet, valot, eläjät, lapšet, lauluja, ihmiset, keppijen</em>
-* `Sing` (588; 70% of non-empty `Number`): <em>muamo, muan, poika, tunti, vuotena, aktijo, karjalan, luokka, aikana, avulla</em>
+* `Sing` (587; 70% of non-empty `Number`): <em>muamo, muan, poika, tunti, vuotena, aktijo, karjalan, luokka, aikana, avulla</em>
 * `EMPTY` (2): <em>klo, ven.</em>
 
 <table>
@@ -105,7 +105,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 * `Plur` (3; 2% of non-empty `Number`): <em>Antilahien, Cookinšuarien, Hiekkaveššokšien</em>
 * `Sing` (178; 98% of non-empty `Number`): <em>Karjalan, Kalevala, Kalevalan, Venäjän, Kiestinkin, Anna, Irina, Petroskoin, Venäjällä, Manalah</em>
 
-`Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (95) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (96) occur only with one value of `Number`.
 
 ### `AUX`
 
@@ -186,8 +186,8 @@ The most frequent other feature values with which `ADP` and `Number` co-occurred
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="krl_kkpp-dep-amod.html">amod</a></tt>]--> ADJ</tt> (138; 92%),
 <tt>NOUN --[<tt><a href="krl_kkpp-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (77; 68%),
-<tt>VERB --[<tt><a href="krl_kkpp-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (67; 84%),
 <tt>VERB --[<tt><a href="krl_kkpp-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (67; 74%),
+<tt>VERB --[<tt><a href="krl_kkpp-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (66; 84%),
 <tt>NOUN --[<tt><a href="krl_kkpp-dep-conj.html">conj</a></tt>]--> NOUN</tt> (54; 67%),
 <tt>NOUN --[<tt><a href="krl_kkpp-dep-nmod-poss.html">nmod:poss</a></tt>]--> PROPN</tt> (32; 56%),
 <tt>NOUN --[<tt><a href="krl_kkpp-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (28; 85%),

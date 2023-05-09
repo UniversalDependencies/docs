@@ -6,22 +6,22 @@ udver: '2'
 
 ## Treebank Statistics: UD_English-EWT: POS Tags: `PART`
 
-There are 3 `PART` lemmas (0%), 20 `PART` types (0%) and 7041 `PART` tokens (3%).
+There are 3 `PART` lemmas (0%), 20 `PART` types (0%) and 7042 `PART` tokens (3%).
 Out of 17 observed tags, the rank of `PART` is: 17 in number of lemmas, 17 in number of types and 12 in number of tokens.
 
 The 10 most frequent `PART` lemmas: <em>to, not, 's</em>
 
 The 10 most frequent `PART` types:  <em>to, not, n't, 's, s, nt, ', ’s, na, n’t</em>
 
-The 10 most frequent ambiguous lemmas: <em>to</em> (<tt><a href="en_ewt-pos-PART.html">PART</a></tt> 4017, <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> 2207, <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> 82, <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>to</em> (<tt><a href="en_ewt-pos-PART.html">PART</a></tt> 4018, <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> 2216, <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> 72, <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>to</em> (<tt><a href="en_ewt-pos-PART.html">PART</a></tt> 3946, <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> 2176, <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> 81, <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 12, <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="en_ewt-pos-X.html">X</a></tt> 2, <tt><a href="en_ewt-pos-DET.html">DET</a></tt> 1, <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> 1), <em>'s</em> (<tt><a href="en_ewt-pos-PART.html">PART</a></tt> 670, <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> 407, <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> 41, <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> 14), <em>s</em> (<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> 104, <tt><a href="en_ewt-pos-PART.html">PART</a></tt> 98, <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> 7, <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> 7, <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> 6, <tt><a href="en_ewt-pos-X.html">X</a></tt> 4, <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> 1), <em>'</em> (<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 240, <tt><a href="en_ewt-pos-PART.html">PART</a></tt> 36, <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> 7), <em>’s</em> (<tt><a href="en_ewt-pos-PART.html">PART</a></tt> 29, <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> 12, <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> 2, <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> 1), <em>ta</em> (<tt><a href="en_ewt-pos-PART.html">PART</a></tt> 7, <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> 3), <em>’</em> (<tt><a href="en_ewt-pos-PART.html">PART</a></tt> 3, <tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 2), <em>n</em> (<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="en_ewt-pos-PART.html">PART</a></tt> 2), <em>too</em> (<tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 150, <tt><a href="en_ewt-pos-PART.html">PART</a></tt> 2, <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> 1), <em>2</em> (<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> 176, <tt><a href="en_ewt-pos-X.html">X</a></tt> 2, <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> 1, <tt><a href="en_ewt-pos-PART.html">PART</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>to</em> (<tt><a href="en_ewt-pos-PART.html">PART</a></tt> 3947, <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> 2185, <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> 71, <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 12, <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="en_ewt-pos-X.html">X</a></tt> 2, <tt><a href="en_ewt-pos-DET.html">DET</a></tt> 1, <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> 1), <em>'s</em> (<tt><a href="en_ewt-pos-PART.html">PART</a></tt> 670, <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> 407, <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> 41, <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> 14), <em>s</em> (<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> 104, <tt><a href="en_ewt-pos-PART.html">PART</a></tt> 98, <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> 7, <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> 7, <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> 6, <tt><a href="en_ewt-pos-X.html">X</a></tt> 4, <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> 1), <em>'</em> (<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 240, <tt><a href="en_ewt-pos-PART.html">PART</a></tt> 36, <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> 7), <em>’s</em> (<tt><a href="en_ewt-pos-PART.html">PART</a></tt> 29, <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> 12, <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> 2, <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> 1), <em>ta</em> (<tt><a href="en_ewt-pos-PART.html">PART</a></tt> 7, <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> 3), <em>’</em> (<tt><a href="en_ewt-pos-PART.html">PART</a></tt> 3, <tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> 2), <em>n</em> (<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="en_ewt-pos-PART.html">PART</a></tt> 2), <em>too</em> (<tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 150, <tt><a href="en_ewt-pos-PART.html">PART</a></tt> 2, <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> 1), <em>2</em> (<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> 176, <tt><a href="en_ewt-pos-X.html">X</a></tt> 2, <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> 1, <tt><a href="en_ewt-pos-PART.html">PART</a></tt> 1)
 
 
 * <em>to</em>
-  * <tt><a href="en_ewt-pos-PART.html">PART</a></tt> 3946: <em>When they saw a cartoon of their prophet , people had <b>to</b> die .</em>
-  * <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> 2176: <em>To pander <b>to</b> the mythical " Arab street " , of course .</em>
-  * <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> 81: <em>I look forward <b>to</b> seeing you all there .</em>
+  * <tt><a href="en_ewt-pos-PART.html">PART</a></tt> 3947: <em>When they saw a cartoon of their prophet , people had <b>to</b> die .</em>
+  * <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> 2185: <em>To pander <b>to</b> the mythical " Arab street " , of course .</em>
+  * <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> 71: <em>I look forward <b>to</b> seeing you all there .</em>
   * <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> 12: <em>And if you send me a story , that would be great <b>to</b> !</em>
   * <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> 2: <em>Talked to the little mother - <b>to</b> - be .</em>
   * <tt><a href="en_ewt-pos-X.html">X</a></tt> 2: <em>None , just walk in <b>to</b> the service office and present all the identification you have to prove your identity .</em>
@@ -71,7 +71,7 @@ The 10 most frequent ambiguous types:  <em>to</em> (<tt><a href="en_ewt-pos-PART
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 6.666667 (the average of all parts of speech is 1.233118).
+The form / lemma ratio of `PART` is 6.666667 (the average of all parts of speech is 1.234270).
 
 The 1st highest number of forms (8) was observed with the lemma “to”: <em>2, a, na, ot, ta, the, to, too</em>.
 
@@ -79,7 +79,7 @@ The 2nd highest number of forms (7) was observed with the lemma “'s”: <em>',
 
 The 3rd highest number of forms (5) was observed with the lemma “not”: <em>n, n't, not, nt, n’t</em>.
 
-`PART` occurs with 2 features: <tt><a href="en_ewt-feat-Typo.html">Typo</a></tt> (108; 2% instances), <tt><a href="en_ewt-feat-Abbr.html">Abbr</a></tt> (27; 0% instances)
+`PART` occurs with 2 features: <tt><a href="en_ewt-feat-Typo.html">Typo</a></tt> (109; 2% instances), <tt><a href="en_ewt-feat-Abbr.html">Abbr</a></tt> (27; 0% instances)
 
 `PART` occurs with 2 feature-value pairs: `Abbr=Yes`, `Typo=Yes`
 
@@ -90,11 +90,11 @@ Examples: <em>to, not, n't, 's, nt, ', ’s, n’t, ’, n</em>
 
 ## Relations
 
-`PART` nodes are attached to their parents using 15 different relations: <tt><a href="en_ewt-dep-mark.html">mark</a></tt> (3986; 57% instances), <tt><a href="en_ewt-dep-advmod.html">advmod</a></tt> (2125; 30% instances), <tt><a href="en_ewt-dep-case.html">case</a></tt> (841; 12% instances), <tt><a href="en_ewt-dep-conj.html">conj</a></tt> (20; 0% instances), <tt><a href="en_ewt-dep-fixed.html">fixed</a></tt> (19; 0% instances), <tt><a href="en_ewt-dep-xcomp.html">xcomp</a></tt> (17; 0% instances), <tt><a href="en_ewt-dep-advcl.html">advcl</a></tt> (9; 0% instances), <tt><a href="en_ewt-dep-cc.html">cc</a></tt> (8; 0% instances), <tt><a href="en_ewt-dep-ccomp.html">ccomp</a></tt> (4; 0% instances), <tt><a href="en_ewt-dep-parataxis.html">parataxis</a></tt> (3; 0% instances), <tt><a href="en_ewt-dep-root.html">root</a></tt> (3; 0% instances), <tt><a href="en_ewt-dep-compound.html">compound</a></tt> (2; 0% instances), <tt><a href="en_ewt-dep-reparandum.html">reparandum</a></tt> (2; 0% instances), <tt><a href="en_ewt-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="en_ewt-dep-csubj.html">csubj</a></tt> (1; 0% instances)
+`PART` nodes are attached to their parents using 15 different relations: <tt><a href="en_ewt-dep-mark.html">mark</a></tt> (3987; 57% instances), <tt><a href="en_ewt-dep-advmod.html">advmod</a></tt> (2125; 30% instances), <tt><a href="en_ewt-dep-case.html">case</a></tt> (841; 12% instances), <tt><a href="en_ewt-dep-conj.html">conj</a></tt> (20; 0% instances), <tt><a href="en_ewt-dep-fixed.html">fixed</a></tt> (19; 0% instances), <tt><a href="en_ewt-dep-xcomp.html">xcomp</a></tt> (17; 0% instances), <tt><a href="en_ewt-dep-advcl.html">advcl</a></tt> (10; 0% instances), <tt><a href="en_ewt-dep-cc.html">cc</a></tt> (8; 0% instances), <tt><a href="en_ewt-dep-ccomp.html">ccomp</a></tt> (3; 0% instances), <tt><a href="en_ewt-dep-parataxis.html">parataxis</a></tt> (3; 0% instances), <tt><a href="en_ewt-dep-root.html">root</a></tt> (3; 0% instances), <tt><a href="en_ewt-dep-compound.html">compound</a></tt> (2; 0% instances), <tt><a href="en_ewt-dep-reparandum.html">reparandum</a></tt> (2; 0% instances), <tt><a href="en_ewt-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="en_ewt-dep-csubj.html">csubj</a></tt> (1; 0% instances)
 
-Parents of `PART` nodes belong to 14 different parts of speech: <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (5348; 76% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (584; 8% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (546; 8% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (370; 5% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (62; 1% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (51; 1% instances), <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (35; 0% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt> (13; 0% instances), <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> (12; 0% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (7; 0% instances), <tt><a href="en_ewt-pos-PART.html">PART</a></tt> (7; 0% instances),  (3; 0% instances), <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> (1; 0% instances)
+Parents of `PART` nodes belong to 14 different parts of speech: <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (5350; 76% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (584; 8% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (546; 8% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (370; 5% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (62; 1% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (50; 1% instances), <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (35; 0% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt> (13; 0% instances), <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> (12; 0% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (7; 0% instances), <tt><a href="en_ewt-pos-PART.html">PART</a></tt> (7; 0% instances),  (3; 0% instances), <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 
-6987 (99%) `PART` nodes are leaves.
+6988 (99%) `PART` nodes are leaves.
 
 40 (1%) `PART` nodes have one child.
 

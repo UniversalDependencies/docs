@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Kaapor-TuDeT: POS Tags: `DET`
 
-There are 3 `DET` lemmas (2%), 3 `DET` types (1%) and 3 `DET` tokens (1%).
-Out of 13 observed tags, the rank of `DET` is: 9 in number of lemmas, 9 in number of types and 11 in number of tokens.
+There are 3 `DET` lemmas (1%), 3 `DET` types (1%) and 3 `DET` tokens (1%).
+Out of 14 observed tags, the rank of `DET` is: 9 in number of lemmas, 9 in number of types and 11 in number of tokens.
 
 The 10 most frequent `DET` lemmas: <em>ko, ne, upa</em>
 
@@ -30,7 +30,7 @@ The 10 most frequent ambiguous types:  <em>ko</em> (<tt><a href="urb_tudet-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.160000).
+The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.154229).
 
 The 1st highest number of forms (1) was observed with the lemma “ko”: <em>ko</em>.
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-57 nodes (16%) are attached to their parents as `obj`.
+58 nodes (16%) are attached to their parents as `obj`.
 
-51 instances of `obj` (89%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.36842105263158.
+52 instances of `obj` (90%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.37931034482759.
 
-The following 3 pairs of parts of speech are connected with `obj`: <tt><a href="urb_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="urb_tudet-pos-NOUN.html">NOUN</a></tt> (46; 81% instances), <tt><a href="urb_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="urb_tudet-pos-PRON.html">PRON</a></tt> (8; 14% instances), <tt><a href="urb_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="urb_tudet-pos-PROPN.html">PROPN</a></tt> (3; 5% instances).
+The following 3 pairs of parts of speech are connected with `obj`: <tt><a href="urb_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="urb_tudet-pos-NOUN.html">NOUN</a></tt> (46; 79% instances), <tt><a href="urb_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="urb_tudet-pos-PRON.html">PRON</a></tt> (9; 16% instances), <tt><a href="urb_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="urb_tudet-pos-PROPN.html">PROPN</a></tt> (3; 5% instances).
 
 
 ~~~ conllu
@@ -40,8 +40,8 @@ The following 3 pairs of parts of speech are connected with `obj`: <tt><a href="
 # visual-style 3	fgColor:white
 # visual-style 3 2 obj	color:blue
 1	ihẽ	ihẽ	PRON	pro	_	3	nsubj	_	_
-2	neke	ne	PRON	pro	_	3	obj	_	_
-3	akutukta	kutuk	VERB	vt	Person=1|Tense=Fut	0	root	_	_
+2	a’etake	a’e	PRON	pro	Case=Aff|Number=Plur	3	obj	_	_
+3	amujengar	jengar	VERB	vt	Person=1|Voice=Cau	0	root	_	_
 
 ~~~
 

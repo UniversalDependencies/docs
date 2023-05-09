@@ -13,7 +13,7 @@ The 10 most frequent `NUM` lemmas: <em>deux, trois, six, dix, mille, cinq, quatr
 
 The 10 most frequent `NUM` types:  <em>deux, trois, six, dix, mille, cinq, quatre, huit, quatorze, sept</em>
 
-The 10 most frequent ambiguous lemmas: <em>deux</em> (<tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt> 57, <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> 1), <em>six</em> (<tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt> 13, <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> 1), <em>dix</em> (<tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt> 12, <tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> 1), <em>cinq</em> (<tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt> 11, <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> 1, <tt><a href="fr_parisstories-pos-PROPN.html">PROPN</a></tt> 1), <em>un</em> (<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> 844, <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> 28, <tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt> 5, <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>deux</em> (<tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt> 57, <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> 1), <em>six</em> (<tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt> 13, <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> 1), <em>dix</em> (<tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt> 12, <tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> 1), <em>cinq</em> (<tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt> 11, <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> 1, <tt><a href="fr_parisstories-pos-PROPN.html">PROPN</a></tt> 1), <em>un</em> (<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> 843, <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> 28, <tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt> 5, <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> 2)
 
 The 10 most frequent ambiguous types:  <em>deux</em> (<tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt> 57, <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> 1), <em>six</em> (<tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt> 13, <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> 1), <em>dix</em> (<tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt> 12, <tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> 1), <em>cinq</em> (<tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt> 11, <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> 1), <em>une</em> (<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> 236, <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> 9, <tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt> 3), <em>un</em> (<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> 426, <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> 23, <tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt> 2)
 
@@ -41,7 +41,7 @@ The 10 most frequent ambiguous types:  <em>deux</em> (<tt><a href="fr_parisstori
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.069767 (the average of all parts of speech is 1.326909).
+The form / lemma ratio of `NUM` is 1.069767 (the average of all parts of speech is 1.324273).
 
 The 1st highest number of forms (2) was observed with the lemma “cent”: <em>cent, cents</em>.
 

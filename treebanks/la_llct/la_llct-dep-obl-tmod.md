@@ -55,7 +55,7 @@ The following 2 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 30	die	dies	NOUN	n|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	33	obl:tmod	_	_
 31	natalis	natalis	NOUN	n|n|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	30	nmod	_	_
 32	Domini	Dominus	PROPN	Propn|n|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	31	nmod	_	_
-33	reddere	reddo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	34	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+33	reddere	reddo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	34	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 34	debeamus	debeo	VERB	v|v|1|p|p|s|a|-|-|-	Aspect=Imp|Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Subiunctivus|TraditionalTense=Praesens
 35	exinde	exinde	ADV	d|d|-|-|-|-|-|-|-|-	AdvType=Tim	34	advmod	_	_
 36	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	40	case	_	_
@@ -147,9 +147,9 @@ The following 2 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 62	ad	ad	ADP	r|r|-|-|-|-|-|-|-|-	_	63	case	_	_
 63	manus	manus	NOUN	n|n|-|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur	65	obl	_	_
 64	sua	suus	DET	a|a|3|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes	63	det	_	_
-65	abere	habeo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	68	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+65	abere	habeo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	68	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 66	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	67	cc	_	_
-67	detinere	detineo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	65	conj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+67	detinere	detineo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	65	conj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 68	videtur	uideo	VERB	v|v|3|s|p|i|p|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	54	conj	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 69	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	70	case	_	_
 70	integrum	integer	ADJ	a|a|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing	80	obl	_	_
@@ -162,7 +162,7 @@ The following 2 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 77	Marie	Maria	PROPN	Propn|n|-|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing	74	nmod	_	_
 78	semper	semper	ADV	d|d|-|-|-|-|-|-|-|-	AdvType=Tim	79	advmod:tmod	_	_
 79	virginis	uirgo	NOUN	n|n|-|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing	77	nmod	_	_
-80	offerrere	offero	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	81	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+80	offerrere	offero	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	81	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 81	prevideor	praeuideo	VERB	v|v|1|s|p|i|p|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 82	,	,	PUNCT	Punc	_	84	punct	_	_
 83	tali	talis	DET	a|a|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing|PronType=Dem	84	det	_	_
@@ -209,7 +209,7 @@ The following 2 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 124	,	,	PUNCT	Punc	_	125	punct	_	_
 125	inperandi	impero	VERB	t|t|-|s|p|d|p|n|g|-	Aspect=Prosp|Case=Gen|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	121	conj	_	SpaceAfter=No|TraditionalMood=Gerundium
 126	,	,	PUNCT	Punc	_	128	punct	_	_
-127	laborare	laboro	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	128	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+127	laborare	laboro	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	128	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 128	faciendi	facio	VERB	t|t|-|s|p|d|p|n|g|-	Aspect=Prosp|Case=Gen|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	121	conj	_	TraditionalMood=Gerundium
 129	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	130	cc	_	_
 130	usufructuandi	usufructuo	VERB	t|t|-|s|p|d|p|n|g|-	Aspect=Prosp|Case=Gen|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	121	conj	_	TraditionalMood=Gerundium

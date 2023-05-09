@@ -99,7 +99,7 @@ The most frequent other feature values with which `VERB` and `Degree` co-occurre
 `VERB` tokens may have the following values of `Degree`:
 
 * `Pos` (1; 100% of non-empty `Degree`): <em>kallade</em>
-* `EMPTY` (11395): <em>sa, var, hade, gick, kom, har, såg, ta, göra, sade</em>
+* `EMPTY` (11389): <em>sa, var, hade, gick, kom, har, såg, ta, göra, sade</em>
 
 ## Relations with Agreement in `Degree`
 

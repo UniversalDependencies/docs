@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `flat`: <tt><a href="pt_petrogold-dep-flat-foreign.html">flat:foreign</a></tt>, <tt><a href="pt_petrogold-dep-flat-name.html">flat:name</a></tt>.
 
-79 nodes (0%) are attached to their parents as `flat`.
+83 nodes (0%) are attached to their parents as `flat`.
 
-79 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.34177215189873.
+83 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.34939759036145.
 
-The following 4 pairs of parts of speech are connected with `flat`: <tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt> (66; 84% instances), <tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_petrogold-pos-X.html">X</a></tt> (11; 14% instances), <tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_petrogold-pos-SYM.html">SYM</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `flat`: <tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt> (66; 80% instances), <tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_petrogold-pos-X.html">X</a></tt> (11; 13% instances), <tt><a href="pt_petrogold-pos-X.html">X</a></tt>-<tt><a href="pt_petrogold-pos-X.html">X</a></tt> (4; 5% instances), <tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_petrogold-pos-SYM.html">SYM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -60,40 +60,49 @@ The following 4 pairs of parts of speech are connected with `flat`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 14 15 flat	color:blue
-1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
-2	roseta	roseta	NOUN	_	Gender=Fem|Number=Sing	10	nsubj	_	_
-3	média	médio	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	8	punct	_	_
-5	com	com	ADP	_	_	8	case	_	_
-6	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	8	det	_	_
-7	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
-8	dados	dado	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	SpaceAfter=No
-9	,	,	PUNCT	_	_	8	punct	_	_
-10	resultou	resultar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-11	em	em	ADP	_	_	12	case	_	_
-12	azimute	azimute	NOUN	_	Gender=Masc|Number=Sing	10	obl:arg	_	_
-13	médio	médio	ADJ	_	Gender=Masc|Number=Sing	12	amod	_	_
-14	213	213	NUM	_	NumType=Card	12	nummod	_	SpaceAfter=No
-15	°	°	NOUN	_	Gender=Masc|Number=Plur	14	flat	_	_
-16	e	e	CCONJ	_	_	18	cc	_	_
-17	com	com	ADP	_	_	18	case	_	_
-18	dispersão	dispersão	NOUN	_	Gender=Fem|Number=Sing	14	conj	_	_
-19	(	(	PUNCT	_	_	20	punct	_	SpaceAfter=No
-20	Fc	Fc	PROPN	_	Gender=Masc|Number=Sing	18	appos	_	SpaceAfter=No
-21	)	)	PUNCT	_	_	20	punct	_	_
-22	igual	igual	ADJ	_	Gender=Fem|Number=Sing	18	amod	_	_
-23	a	a	ADP	_	_	24	case	_	_
-24	0,5	0,5	NUM	_	NumType=Card	22	obl	_	_
-25	(	(	PUNCT	_	_	26	punct	_	SpaceAfter=No
-26	Figuras	figura	NOUN	_	Gender=Fem|Number=Plur	10	parataxis	_	_
-27	25	25	NUM	_	NumType=Card	26	nummod	_	SpaceAfter=No
-28	)	)	PUNCT	_	_	26	punct	_	SpaceAfter=No
-29	.	.	PUNCT	_	_	10	punct	_	_
+# visual-style 36	bgColor:blue
+# visual-style 36	fgColor:white
+# visual-style 34	bgColor:blue
+# visual-style 34	fgColor:white
+# visual-style 34 36 flat	color:blue
+1	Já	já	ADV	_	_	5	advmod	_	_
+2	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	norueguesa	norueguês	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+4	Statoil	Statoil	PROPN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+5	aparece	aparecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	em	em	ADP	_	_	8	case	_	_
+7	segundo	segundo	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	8	amod	_	_
+8	lugar	lugar	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+9	em	em	ADP	_	_	11	case	_	_
+10	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	lista	lista	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	15	punct	_	_
+13	com	com	ADP	_	_	15	case	_	_
+14	10	10	NUM	_	NumType=Card	15	nummod	_	_
+15	projetos	projeto	NOUN	_	Gender=Masc|Number=Plur	5	obl	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	15	punct	_	_
+17	sendo	ser	AUX	_	VerbForm=Ger	18	cop	_	_
+18	três	três	NUM	_	NumType=Card	5	conj	_	_
+19	em	em	ADP	_	_	21	case	_	_
+20	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	área	área	NOUN	_	Gender=Fem|Number=Sing	18	nmod	_	_
+22	de	de	ADP	_	_	23	case	_	_
+23	injeção	injeção	NOUN	_	Gender=Fem|Number=Sing	21	nmod	_	_
+24	de	de	ADP	_	_	25	case	_	_
+25	água	água	NOUN	_	Gender=Fem|Number=Sing	23	nmod	_	_
+26	e	e	CCONJ	_	_	27	cc	_	_
+27	sete	sete	NUM	_	NumType=Card	25	conj	_	_
+28	envolvendo	envolver	VERB	_	VerbForm=Ger	5	advcl	_	_
+29	soluções	solução	NOUN	_	Gender=Fem|Number=Plur	28	obj	_	_
+30	de	de	ADP	_	_	31	case	_	_
+31	compressão	compressão	NOUN	_	Gender=Fem|Number=Sing	29	nmod	_	_
+32	submarina	submarino	ADJ	_	Gender=Fem|Number=Sing	31	amod	_	_
+33	(	(	PUNCT	_	_	34	punct	_	SpaceAfter=No
+34	www.ofseas	www.ofsea	X	_	_	5	parataxis	_	SpaceAfter=No
+35	.	.	X	_	_	34	flat	_	SpaceAfter=No
+36	com.br	com.br	X	_	_	34	flat	_	SpaceAfter=No
+37	)	)	PUNCT	_	_	34	punct	_	SpaceAfter=No
+38	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
 

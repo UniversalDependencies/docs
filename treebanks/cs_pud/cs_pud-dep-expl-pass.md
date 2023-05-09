@@ -12,7 +12,7 @@ There are also 1 other language-specific subtypes of `expl`: <tt><a href="cs_pud
 45 nodes (0%) are attached to their parents as `expl:pass`.
 
 39 instances of `expl:pass` (87%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.02222222222222.
+Average distance between parent and child is 1.97777777777778.
 
 The following 1 pairs of parts of speech are connected with `expl:pass`: <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> (45; 100% instances).
 

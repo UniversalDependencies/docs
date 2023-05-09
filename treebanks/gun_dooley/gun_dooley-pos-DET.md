@@ -51,8 +51,8 @@ The 3rd highest number of forms (1) was observed with the lemma “peva'e”: <e
 `DET` occurs with 3 feature-value pairs: `PronType=Dem`, `PronType=Ind`, `PronType=Tot`
 
 `DET` occurs with 3 feature combinations.
-The most frequent feature combination is `PronType=Dem` (6 tokens).
-Examples: <em>_, peva'e</em>
+The most frequent feature combination is `PronType=Tot` (6 tokens).
+Examples: <em>_, Opa</em>
 
 
 ## Relations

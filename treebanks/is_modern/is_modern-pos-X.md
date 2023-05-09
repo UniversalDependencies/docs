@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  <em>Molde</em> (<tt><a href="is_modern-po
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.012346 (the average of all parts of speech is 1.733333).
+The form / lemma ratio of `X` is 1.012346 (the average of all parts of speech is 1.734405).
 
 The 1st highest number of forms (2) was observed with the lemma “zijn”: <em>is, zijn</em>.
 
@@ -67,7 +67,7 @@ The 3rd highest number of forms (1) was observed with the lemma “22”: <em>22
 
 `X` occurs with 6 features: <tt><a href="is_modern-feat-Foreign.html">Foreign</a></tt> (57; 63% instances), <tt><a href="is_modern-feat-Case.html">Case</a></tt> (3; 3% instances), <tt><a href="is_modern-feat-Definite.html">Definite</a></tt> (3; 3% instances), <tt><a href="is_modern-feat-Gender.html">Gender</a></tt> (3; 3% instances), <tt><a href="is_modern-feat-Number.html">Number</a></tt> (3; 3% instances), <tt><a href="is_modern-feat-Degree.html">Degree</a></tt> (1; 1% instances)
 
-`X` occurs with 10 feature-value pairs: `Case=Dat`, `Case=Gen`, `Case=Nom`, `Definite=Ind`, `Degree=Pos`, `Foreign=Yes`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Sing`
+`X` occurs with 11 feature-value pairs: `Case=Dat`, `Case=Gen`, `Case=Nom`, `Definite=Def`, `Definite=Ind`, `Degree=Pos`, `Foreign=Yes`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Sing`
 
 `X` occurs with 5 feature combinations.
 The most frequent feature combination is `Foreign=Yes` (57 tokens).

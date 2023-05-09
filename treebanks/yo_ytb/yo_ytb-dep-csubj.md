@@ -34,7 +34,7 @@ The following 1 pairs of parts of speech are connected with `csubj`: <tt><a href
 10	a	a	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	11	nsubj	_	_
 11	sọ	sọ	VERB	_	_	8	acl	_	_
 12	ọmọ	ọmọ	NOUN	_	_	11	obj	_	SpaceAfter=No
-13	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n\n
+13	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
 

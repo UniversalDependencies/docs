@@ -23,7 +23,7 @@ The following 2 pairs of parts of speech are connected with `csubj:cop`: <tt><a 
 # visual-style 1	fgColor:white
 # visual-style 1 2 csubj:cop	color:blue
 1	Аконашканель	Аконашкане	ADV	Adv	AdvType=Tim|Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	GTtags=Sem/Time,Prt2,ScSg3|Gloss=there-was-no-time
-2	вешнемс	вешнемс	VERB	V	Valency=2|VerbForm=Inf	1	csubj:cop	_	GTtags=TV,Inf|Gloss=look-for
+2	вешнемс	вешнемс	VERB	V	VerbForm=Inf	1	csubj:cop	_	GTtags=TV,Inf|Gloss=look-for
 3	«	«	PUNCT	PUNCT	_	4	punct	_	GTtags=|SpaceAfter=No
 4	мазый	мазый	ADJ	A	_	6	amod	_	GTtags=|Gloss=pretty|SpaceAfter=No
 5	»	»	PUNCT	PUNCT	_	4	punct	_	_

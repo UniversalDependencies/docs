@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Moksha-JR: Relations: `advcl:cau`
 
 This relation is a language-specific subtype of <tt><a href="mdf_jr-dep-advcl.html">advcl</a></tt>.
-There are also 1 other language-specific subtypes of `advcl`: <tt><a href="mdf_jr-dep-advcl-tcl.html">advcl:tcl</a></tt>.
+There are also 2 other language-specific subtypes of `advcl`: <tt><a href="mdf_jr-dep-advcl-eval.html">advcl:eval</a></tt>, <tt><a href="mdf_jr-dep-advcl-tcl.html">advcl:tcl</a></tt>.
 
 3 nodes (0%) are attached to their parents as `advcl:cau`.
 
@@ -26,7 +26,7 @@ The following 2 pairs of parts of speech are connected with `advcl:cau`: <tt><a 
 1	Аф	аф	INTJ	Interj	Polarity=Neg	4	discourse	_	GTtags=Neg|SpaceAfter=No
 2	,	,	PUNCT	PUNCT	_	1	punct	_	_
 3	аф	аф	AUX	V	Polarity=Neg|VerbType=Aux	4	aux:neg	_	GTtags=Aux,Neg
-4	эрявихть	эрявомс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,ScPl3
+4	эрявихть	эрявомс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin	0	root	_	GTtags=Ind,Prs,ScPl3
 5	Луканди	Лука	NOUN	N	Case=Dat|Definite=Ind|Number=Plur,Sing	4	obl	_	GTtags=Prop,SP,Dat,Indef
 6	войнаса	война	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	7	obl:lmod	_	GTtags=SP,Ine,Indef
 7	сяськоманкса	сяськомс	VERB	V	Case=Cau|Definite=Ind|Number=Plur,Sing|VerbForm=Vnoun	8	advcl:cau	_	GTtags=NomAct,SP,Cau,Indef

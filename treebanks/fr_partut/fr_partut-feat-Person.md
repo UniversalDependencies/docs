@@ -11,23 +11,23 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="fr_partut-feat-Person.html">Person</a></tt>, <tt><a href="fr_partut-feat-Person-psor.html">Person[psor]</a></tt>.
 
-2900 tokens (10%) have a non-empty value of `Person`.
+2904 tokens (10%) have a non-empty value of `Person`.
 598 types (14%) occur at least once with a non-empty value of `Person`.
-320 lemmas (11%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (1140; 4% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (1081; 4% instances), <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (676; 2% instances), <tt><a href="fr_partut-pos-DET.html">DET</a></tt> (3; 0% instances).
+307 lemmas (11%) occur at least once with a non-empty value of `Person`.
+The feature is used with 4 part-of-speech tags: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (1143; 4% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (1081; 4% instances), <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (677; 2% instances), <tt><a href="fr_partut-pos-DET.html">DET</a></tt> (3; 0% instances).
 
 ### `VERB`
 
-1140 <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> tokens (42% of all `VERB` tokens) have a non-empty value of `Person`.
+1143 <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> tokens (42% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="fr_partut-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1140; 100%), <tt><a href="fr_partut-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1138; 100%), <tt><a href="fr_partut-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1015; 89%), <tt><a href="fr_partut-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (970; 85%), <tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt> (718; 63%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="fr_partut-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1143; 100%), <tt><a href="fr_partut-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1141; 100%), <tt><a href="fr_partut-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1018; 89%), <tt><a href="fr_partut-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (973; 85%), <tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt> (722; 63%).
 
 `VERB` tokens may have the following values of `Person`:
 
 * `1` (251; 22% of non-empty `Person`): <em>voudrais, pense, devons, devrions, espérons, tiens, allons, crois, pouvons, avons</em>
 * `2` (81; 7% of non-empty `Person`): <em>pouvez, choisissez, cliquez, utilisez, avez, permettez, souhaitez, connaissez, publiez, saisissez</em>
-* `3` (808; 71% of non-empty `Person`): <em>a, peut, doit, est, devrait, convient, ont, peuvent, fait, concerne</em>
-* `EMPTY` (1597): <em>faire, dite, concernant, fait, tenu, améliorer, compris, dire, donné, abonner</em>
+* `3` (811; 71% of non-empty `Person`): <em>a, peut, doit, est, devrait, convient, ont, peuvent, fait, concerne</em>
+* `EMPTY` (1596): <em>faire, dite, concernant, fait, tenu, améliorer, compris, dire, donné, abonner</em>
 
 <table>
   <tr><th>Paradigm <i>avoir</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -58,15 +58,15 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 ### `AUX`
 
-676 <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> tokens (80% of all `AUX` tokens) have a non-empty value of `Person`.
+677 <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> tokens (80% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="fr_partut-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (675; 100%), <tt><a href="fr_partut-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (621; 92%), <tt><a href="fr_partut-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (610; 90%), <tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt> (443; 66%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="fr_partut-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (676; 100%), <tt><a href="fr_partut-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (622; 92%), <tt><a href="fr_partut-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (611; 90%), <tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt> (443; 65%).
 
 `AUX` tokens may have the following values of `Person`:
 
 * `1` (51; 8% of non-empty `Person`): <em>suis, sommes, ai, avons, aurions, avions, aurai, aurais, aurons, avais</em>
 * `2` (14; 2% of non-empty `Person`): <em>avez, êtes, Faites</em>
-* `3` (611; 90% of non-empty `Person`): <em>est, a, sont, ont, sera, soit, soient, étaient, était, ait</em>
+* `3` (612; 90% of non-empty `Person`): <em>est, a, sont, ont, sera, soit, soient, étaient, était, ait</em>
 * `EMPTY` (170): <em>être, été, étant, faire, avoir, ayant, faisant, fait</em>
 
 <table>

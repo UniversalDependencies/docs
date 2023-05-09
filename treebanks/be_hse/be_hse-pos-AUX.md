@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>будзе</em> (<tt><a href="be_hse-
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 6.333333 (the average of all parts of speech is 1.754875).
+The form / lemma ratio of `AUX` is 6.333333 (the average of all parts of speech is 1.756638).
 
 The 1st highest number of forms (17) was observed with the lemma “быць”: <em>Будзь, Будзьма, будзе, будзем, будзеце, будзеш, будзьце, буду, будуць, будучы, была, было, былі, быць, быў, ёсць, ёсьць</em>.
 
@@ -60,7 +60,7 @@ The 2nd highest number of forms (1) was observed with the lemma “б”: <em>б
 
 The 3rd highest number of forms (1) was observed with the lemma “бы”: <em>бы</em>.
 
-`AUX` occurs with 11 features: <tt><a href="be_hse-feat-VerbForm.html">VerbForm</a></tt> (1906; 91% instances), <tt><a href="be_hse-feat-Voice.html">Voice</a></tt> (1902; 91% instances), <tt><a href="be_hse-feat-Mood.html">Mood</a></tt> (1871; 90% instances), <tt><a href="be_hse-feat-Number.html">Number</a></tt> (1784; 86% instances), <tt><a href="be_hse-feat-Tense.html">Tense</a></tt> (1782; 86% instances), <tt><a href="be_hse-feat-Gender.html">Gender</a></tt> (848; 41% instances), <tt><a href="be_hse-feat-Person.html">Person</a></tt> (721; 35% instances), <tt><a href="be_hse-feat-Aspect.html">Aspect</a></tt> (245; 12% instances), <tt><a href="be_hse-feat-Case.html">Case</a></tt> (3; 0% instances), <tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt> (2; 0% instances), <tt><a href="be_hse-feat-Degree.html">Degree</a></tt> (2; 0% instances)
+`AUX` occurs with 11 features: <tt><a href="be_hse-feat-Mood.html">Mood</a></tt> (1943; 93% instances), <tt><a href="be_hse-feat-VerbForm.html">VerbForm</a></tt> (1906; 91% instances), <tt><a href="be_hse-feat-Voice.html">Voice</a></tt> (1902; 91% instances), <tt><a href="be_hse-feat-Number.html">Number</a></tt> (1784; 86% instances), <tt><a href="be_hse-feat-Tense.html">Tense</a></tt> (1782; 86% instances), <tt><a href="be_hse-feat-Gender.html">Gender</a></tt> (848; 41% instances), <tt><a href="be_hse-feat-Person.html">Person</a></tt> (721; 35% instances), <tt><a href="be_hse-feat-Aspect.html">Aspect</a></tt> (245; 12% instances), <tt><a href="be_hse-feat-Case.html">Case</a></tt> (3; 0% instances), <tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt> (2; 0% instances), <tt><a href="be_hse-feat-Degree.html">Degree</a></tt> (2; 0% instances)
 
 `AUX` occurs with 24 feature-value pairs: `Animacy=Inan`, `Aspect=Imp`, `Aspect=Perf`, `Case=Acc`, `Case=Loc`, `Degree=Pos`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Mood=Cnd`, `Mood=Imp`, `Mood=Ind`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `VerbForm=Conv`, `VerbForm=Fin`, `VerbForm=Inf`, `Voice=Act`
 

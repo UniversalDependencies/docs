@@ -33,7 +33,7 @@ The following 11 pairs of parts of speech are connected with `obj`: <tt><a href=
 9	조금	_	ADV	RB	_	10	advmod	_	Translit=.jo.geum
 10	다를	_	ADJ	JJ	Form=Adn	11	dep	_	Translit=.da.reul
 11	것	_	NOUN	NNB	_	0	root	_	SpaceAfter=No|Translit=.geos
-12	이다	_	AUX	VC	Mood=Ind|VerbForm=Fin	11	cop	_	SpaceAfter=No|Translit=.i.da
+12	이다	이	AUX	VC	Mood=Ind|VerbForm=Fin	11	cop	_	SpaceAfter=No|Translit=.i.da|LTranslit=.i
 13	.	.	PUNCT	.	_	11	punct	_	Translit=.|LTranslit=.
 
 ~~~
@@ -80,7 +80,7 @@ The following 11 pairs of parts of speech are connected with `obj`: <tt><a href=
 11	한다는	_	VERB	VX	Form=Adn	12	dep	_	Translit=.han.da.neun
 12	것을	것	NOUN	NNB+CM	Case=Acc|Polite=Form	13	obj	_	MSeg=것-을|Translit=.geos.eul|LTranslit=.geos
 13	알고	_	VERB	VV	Form=Aux	0	root	_	Translit=.al.go
-14	있다	_	AUX	VX	Mood=Ind|VerbForm=Fin	13	aux	_	SpaceAfter=No|Translit=.iss.da
+14	있다	있	AUX	VX	Mood=Ind|VerbForm=Fin	13	aux	_	SpaceAfter=No|Translit=.iss.da|LTranslit=.iss
 15	.	.	PUNCT	.	_	14	punct	_	Translit=.|LTranslit=.
 
 ~~~

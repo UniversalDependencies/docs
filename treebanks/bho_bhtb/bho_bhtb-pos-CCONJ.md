@@ -42,7 +42,7 @@ The 10 most frequent ambiguous types:  आ (<tt><a href="bho_bhtb-pos-CCONJ.html
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.035097).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.035079).
 
 The 1st highest number of forms (1) was observed with the lemma “अउर”: अउर.
 
@@ -61,13 +61,13 @@ Examples: आ, बाकिर, अउर, आउर, खैर, बलुक, �
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 12 different relations: <tt><a href="bho_bhtb-dep-advcl.html">advcl</a></tt> (51; 34% instances), <tt><a href="bho_bhtb-dep-compound.html">compound</a></tt> (29; 19% instances), <tt><a href="bho_bhtb-dep-conj.html">conj</a></tt> (29; 19% instances), <tt><a href="bho_bhtb-dep-cc.html">cc</a></tt> (21; 14% instances), <tt><a href="bho_bhtb-dep-acl.html">acl</a></tt> (5; 3% instances), <tt><a href="bho_bhtb-dep-nsubj.html">nsubj</a></tt> (4; 3% instances), <tt><a href="bho_bhtb-dep-nmod.html">nmod</a></tt> (3; 2% instances), <tt><a href="bho_bhtb-dep-advmod.html">advmod</a></tt> (2; 1% instances), <tt><a href="bho_bhtb-dep-csubj.html">csubj</a></tt> (2; 1% instances), <tt><a href="bho_bhtb-dep-dep.html">dep</a></tt> (2; 1% instances), <tt><a href="bho_bhtb-dep-root.html">root</a></tt> (2; 1% instances), <tt><a href="bho_bhtb-dep-obl.html">obl</a></tt> (1; 1% instances)
+`CCONJ` nodes are attached to their parents using 12 different relations: <tt><a href="bho_bhtb-dep-advcl.html">advcl</a></tt> (48; 32% instances), <tt><a href="bho_bhtb-dep-compound.html">compound</a></tt> (29; 19% instances), <tt><a href="bho_bhtb-dep-conj.html">conj</a></tt> (29; 19% instances), <tt><a href="bho_bhtb-dep-cc.html">cc</a></tt> (24; 16% instances), <tt><a href="bho_bhtb-dep-acl.html">acl</a></tt> (5; 3% instances), <tt><a href="bho_bhtb-dep-nsubj.html">nsubj</a></tt> (4; 3% instances), <tt><a href="bho_bhtb-dep-nmod.html">nmod</a></tt> (3; 2% instances), <tt><a href="bho_bhtb-dep-advmod.html">advmod</a></tt> (2; 1% instances), <tt><a href="bho_bhtb-dep-csubj.html">csubj</a></tt> (2; 1% instances), <tt><a href="bho_bhtb-dep-dep.html">dep</a></tt> (2; 1% instances), <tt><a href="bho_bhtb-dep-root.html">root</a></tt> (2; 1% instances), <tt><a href="bho_bhtb-dep-obl.html">obl</a></tt> (1; 1% instances)
 
 Parents of `CCONJ` nodes belong to 10 different parts of speech: <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> (79; 52% instances), <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (41; 27% instances), <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt> (19; 13% instances), <tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt> (2; 1% instances),  (2; 1% instances), <tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances)
 
-124 (82%) `CCONJ` nodes are leaves.
+125 (83%) `CCONJ` nodes are leaves.
 
-16 (11%) `CCONJ` nodes have one child.
+15 (10%) `CCONJ` nodes have one child.
 
 6 (4%) `CCONJ` nodes have two children.
 
@@ -75,7 +75,7 @@ Parents of `CCONJ` nodes belong to 10 different parts of speech: <tt><a href="bh
 
 The highest child degree of a `CCONJ` node is 6.
 
-Children of `CCONJ` nodes are attached using 12 different relations: <tt><a href="bho_bhtb-dep-obl.html">obl</a></tt> (13; 27% instances), <tt><a href="bho_bhtb-dep-nsubj.html">nsubj</a></tt> (8; 16% instances), <tt><a href="bho_bhtb-dep-aux.html">aux</a></tt> (7; 14% instances), <tt><a href="bho_bhtb-dep-compound.html">compound</a></tt> (6; 12% instances), <tt><a href="bho_bhtb-dep-det.html">det</a></tt> (4; 8% instances), <tt><a href="bho_bhtb-dep-punct.html">punct</a></tt> (3; 6% instances), <tt><a href="bho_bhtb-dep-advcl.html">advcl</a></tt> (2; 4% instances), <tt><a href="bho_bhtb-dep-nmod.html">nmod</a></tt> (2; 4% instances), <tt><a href="bho_bhtb-dep-acl.html">acl</a></tt> (1; 2% instances), <tt><a href="bho_bhtb-dep-case.html">case</a></tt> (1; 2% instances), <tt><a href="bho_bhtb-dep-obj.html">obj</a></tt> (1; 2% instances), <tt><a href="bho_bhtb-dep-xcomp.html">xcomp</a></tt> (1; 2% instances)
+Children of `CCONJ` nodes are attached using 12 different relations: <tt><a href="bho_bhtb-dep-obl.html">obl</a></tt> (12; 25% instances), <tt><a href="bho_bhtb-dep-nsubj.html">nsubj</a></tt> (8; 17% instances), <tt><a href="bho_bhtb-dep-aux.html">aux</a></tt> (7; 15% instances), <tt><a href="bho_bhtb-dep-compound.html">compound</a></tt> (6; 13% instances), <tt><a href="bho_bhtb-dep-det.html">det</a></tt> (4; 8% instances), <tt><a href="bho_bhtb-dep-punct.html">punct</a></tt> (3; 6% instances), <tt><a href="bho_bhtb-dep-advcl.html">advcl</a></tt> (2; 4% instances), <tt><a href="bho_bhtb-dep-nmod.html">nmod</a></tt> (2; 4% instances), <tt><a href="bho_bhtb-dep-acl.html">acl</a></tt> (1; 2% instances), <tt><a href="bho_bhtb-dep-case.html">case</a></tt> (1; 2% instances), <tt><a href="bho_bhtb-dep-obj.html">obj</a></tt> (1; 2% instances), <tt><a href="bho_bhtb-dep-xcomp.html">xcomp</a></tt> (1; 2% instances)
 
-Children of `CCONJ` nodes belong to 10 different parts of speech: <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (22; 45% instances), <tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt> (7; 14% instances), <tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (6; 12% instances), <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt> (3; 6% instances), <tt><a href="bho_bhtb-pos-PUNCT.html">PUNCT</a></tt> (3; 6% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> (3; 6% instances), <tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt> (2; 4% instances), <tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances), <tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt> (1; 2% instances)
+Children of `CCONJ` nodes belong to 10 different parts of speech: <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (21; 44% instances), <tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt> (7; 15% instances), <tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (6; 13% instances), <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt> (3; 6% instances), <tt><a href="bho_bhtb-pos-PUNCT.html">PUNCT</a></tt> (3; 6% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> (3; 6% instances), <tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt> (2; 4% instances), <tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances), <tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt> (1; 2% instances)
 

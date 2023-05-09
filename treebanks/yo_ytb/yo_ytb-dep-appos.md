@@ -29,10 +29,10 @@ The following 9 pairs of parts of speech are connected with `appos`: <tt><a href
 5	ti	ti	AUX	_	_	6	aux	_	Gloss=have|Ref=JOHN_11.28
 6	wí	wí	VERB	_	_	11	advcl	_	Gloss=said|Ref=JOHN_11.28
 7	èyí	èyí	PRON	_	PronType=Dem	6	obj	_	Gloss=this|Ref=JOHN_11.28
-8	tán	tán	VERB	_	_	6	compound:svc	_	SpaceAfter=No|Gloss=had|Ref=JOHN_11.28
+8	tán	tán	VERB	_	_	6	compound:svc	_	Gloss=had|Ref=JOHN_11.28|SpaceAfter=No
 9	,	,	PUNCT	_	_	6	punct	_	Gloss=,|Ref=JOHN_11.28
 10	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	Gloss=she|Ref=JOHN_11.28
-11	lọ	lọ	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=go|Ref=JOHN_11.28
+11	lọ	lọ	VERB	_	_	0	root	_	Gloss=go|Ref=JOHN_11.28|SpaceAfter=No
 12	,	,	PUNCT	_	_	15	punct	_	Gloss=,|Ref=JOHN_11.28
 13	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	Gloss=she|Ref=JOHN_11.28
 14	sì	sì	CCONJ	_	_	15	cc	_	Gloss=then|Ref=JOHN_11.28
@@ -42,18 +42,18 @@ The following 9 pairs of parts of speech are connected with `appos`: <tt><a href
 18	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	17	nmod	_	Gloss=his|Ref=JOHN_11.28
 19	sẹ́yìn	sẹ́yìn	ADV	_	_	15	advmod	_	Gloss=back|Ref=JOHN_11.28
 20	wí	wí	VERB	_	_	15	xcomp	_	Gloss=said|Ref=JOHN_11.28
-21	pé	pé	SCONJ	_	_	20	compound	_	SpaceAfter=No|Gloss=that|Ref=JOHN_11.28
+21	pé	pé	SCONJ	_	_	20	compound	_	Gloss=that|Ref=JOHN_11.28|SpaceAfter=No
 22	,	,	PUNCT	_	_	25	punct	_	Gloss=,|Ref=JOHN_11.28
-23	“	“	PUNCT	_	_	25	punct	_	SpaceAfter=No|Gloss=“|Ref=JOHN_11.28
+23	“	“	PUNCT	_	_	25	punct	_	Gloss=“|Ref=JOHN_11.28|SpaceAfter=No
 24	Olùkọ́	olùkọ́	NOUN	_	_	25	nsubj	_	Gloss=master|Ref=JOHN_11.28
-25	dé	dé	VERB	_	_	20	ccomp	_	SpaceAfter=No|Gloss=come|Ref=JOHN_11.28
+25	dé	dé	VERB	_	_	20	ccomp	_	Gloss=come|Ref=JOHN_11.28|SpaceAfter=No
 26	,	,	PUNCT	_	_	30	punct	_	Gloss=,|Ref=JOHN_11.28
 27	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	30	nsubj	_	Gloss=he|Ref=JOHN_11.28
 28	sì	sì	CCONJ	_	_	30	cc	_	Gloss=and|Ref=JOHN_11.28
 29	ń	ń	AUX	_	_	30	aux	_	Gloss=is|Ref=JOHN_11.28
 30	pè	pè	VERB	_	_	25	conj	_	Gloss=calling|Ref=JOHN_11.28
-31	ọ́	ọ́	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	30	obj	_	SpaceAfter=No|Gloss=thee|Ref=JOHN_11.28
-32	.	.	PUNCT	_	_	25	punct	_	SpaceAfter=No|Gloss=.|Ref=JOHN_11.28
+31	ọ́	ọ́	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	30	obj	_	Gloss=thee|Ref=JOHN_11.28|SpaceAfter=No
+32	.	.	PUNCT	_	_	25	punct	_	Gloss=.|Ref=JOHN_11.28|SpaceAfter=No
 33	”	”	PUNCT	_	_	25	punct	_	Gloss=”|Ref=JOHN_11.28
 
 ~~~
@@ -136,7 +136,7 @@ The following 9 pairs of parts of speech are connected with `appos`: <tt><a href
 27	nọ́mbà	nọ́mbà	NOUN	_	_	29	nsubj	_	_
 28	tósòro	tósòro	ADJ	_	_	27	amod	_	_
 29	ní	ní	VERB	_	_	8	conj	_	SpaceAfter=No
-30	.	.	PUNCT	_	_	8	punct	_	SpacesAfter=\n
+30	.	.	PUNCT	_	_	8	punct	_	_
 
 ~~~
 

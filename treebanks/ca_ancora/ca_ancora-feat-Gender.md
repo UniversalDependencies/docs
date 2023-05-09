@@ -25,7 +25,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 * `Fem` (41319; 48% of non-empty `Gender`): <em>persones, obres, obra, empresa, llei, ciutat, zona, cosa, situació, banda</em>
 * `Masc` (43978; 52% of non-empty `Gender`): <em>anys, milions, any, president, temps, grup, projecte, cas, partit, director</em>
-* `EMPTY` (13408): <em>pessetes, any, través, cap, euros, juny, part, partir, dia, terme</em>
+* `EMPTY` (13409): <em>pessetes, any, través, cap, euros, juny, part, partir, dia, terme</em>
 
 <table>
   <tr><th>Paradigm <i>cas</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -68,7 +68,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 * `Fem` (9120; 45% of non-empty `Gender`): <em>primera, nova, catalana, noves, política, segona, única, pública, bona, espanyola</em>
 * `Masc` (11088; 55% of non-empty `Gender`): <em>passat, primer, nou, espanyol, nous, català, públic, últims, polític, últim</em>
-* `EMPTY` (9873): <em>gran, general, grans, actual, important, social, baix, possible, municipal, anterior</em>
+* `EMPTY` (9874): <em>gran, general, grans, actual, important, social, baix, possible, municipal, anterior</em>
 
 <table>
   <tr><th>Paradigm <i>nou</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -86,7 +86,7 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 
 * `Fem` (341; 5% of non-empty `Gender`): <em>dictada, aprovada, presentada, considerada, donada, atesa, inclosa, inaugurada, traslladada, coneguda</em>
 * `Masc` (6474; 95% of non-empty `Gender`): <em>fet, explicat, dit, presentat, tingut, assegurat, destacat, passat, demanat, assenyalat</em>
-* `EMPTY` (35084): <em>fer, té, ha, fa, dir, tenir, donar, arribar, tenen, aconseguir</em>
+* `EMPTY` (35083): <em>fer, té, ha, fa, dir, tenir, donar, arribar, tenen, aconseguir</em>
 
 <table>
   <tr><th>Paradigm <i>fer</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -144,7 +144,7 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 `AUX` tokens may have the following values of `Gender`:
 
 * `Masc` (650; 100% of non-empty `Gender`): <em>estat, pogut, hagut, anat, sigut, sabut</em>
-* `EMPTY` (21401): <em>va, ha, és, van, han, ser, són, està, havia, pot</em>
+* `EMPTY` (21402): <em>va, ha, és, van, han, ser, són, està, havia, pot</em>
 
 ### `PROPN`
 
@@ -154,7 +154,7 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 
 * `Fem` (4; 50% of non-empty `Gender`): <em>Seu, Companyia, Font</em>
 * `Masc` (4; 50% of non-empty `Gender`): <em>Cobain, Justícia, Kurt, Pla</em>
-* `EMPTY` (46655): <em>Catalunya, Barcelona, Generalitat, Govern, sant, Ajuntament, Girona, Josep, CiU, PP</em>
+* `EMPTY` (46652): <em>Catalunya, Barcelona, Generalitat, Govern, sant, Ajuntament, Girona, Josep, CiU, PP</em>
 
 ### `SYM`
 
@@ -165,19 +165,19 @@ The most frequent other feature values with which `SYM` and `Gender` co-occurred
 `SYM` tokens may have the following values of `Gender`:
 
 * `Masc` (1; 100% of non-empty `Gender`): <em>1%</em>
-* `EMPTY` (812): <em>%, 50%, 10%, 30%, 5%, 40%, 2%, 25%, 1%, 20%</em>
+* `EMPTY` (813): <em>%, 50%, 10%, 30%, 5%, 40%, 2%, 25%, 1%, 20%</em>
 
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="ca_ancora-dep-det.html">det</a></tt>]--> DET</tt> (55281; 82%),
+<tt>NOUN --[<tt><a href="ca_ancora-dep-det.html">det</a></tt>]--> DET</tt> (55263; 82%),
 <tt>NOUN --[<tt><a href="ca_ancora-dep-amod.html">amod</a></tt>]--> ADJ</tt> (14861; 64%),
-<tt>NOUN --[<tt><a href="ca_ancora-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2719; 53%),
+<tt>NOUN --[<tt><a href="ca_ancora-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2718; 53%),
 <tt>DET --[<tt><a href="ca_ancora-dep-det.html">det</a></tt>]--> DET</tt> (1202; 79%),
 <tt>NOUN --[<tt><a href="ca_ancora-dep-appos.html">appos</a></tt>]--> NOUN</tt> (1031; 51%),
 <tt>ADJ --[<tt><a href="ca_ancora-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (528; 60%),
-<tt>ADJ --[<tt><a href="ca_ancora-dep-det.html">det</a></tt>]--> DET</tt> (473; 59%),
+<tt>ADJ --[<tt><a href="ca_ancora-dep-det.html">det</a></tt>]--> DET</tt> (458; 59%),
 <tt>ADJ --[<tt><a href="ca_ancora-dep-conj.html">conj</a></tt>]--> ADJ</tt> (428; 52%),
 <tt>PRON --[<tt><a href="ca_ancora-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (411; 72%),
-<tt>NOUN --[<tt><a href="ca_ancora-dep-acl.html">acl</a></tt>]--> ADJ</tt> (129; 59%).
+<tt>NOUN --[<tt><a href="ca_ancora-dep-acl.html">acl</a></tt>]--> ADJ</tt> (127; 60%).
 

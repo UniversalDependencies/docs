@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="myv_jr-pos-AUX.html
 
 144 <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> tokens (18% of all `AUX` tokens) have a non-empty value of `VerbType`.
 
-The most frequent other feature values with which `AUX` and `VerbType` co-occurred: <tt><a href="myv_jr-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (144; 100%), <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (130; 90%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (79; 55%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (75; 52%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (75; 52%).
+The most frequent other feature values with which `AUX` and `VerbType` co-occurred: <tt><a href="myv_jr-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (144; 100%), <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (130; 90%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (79; 55%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (75; 52%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (75; 52%).
 
 `AUX` tokens may have the following values of `VerbType`:
 

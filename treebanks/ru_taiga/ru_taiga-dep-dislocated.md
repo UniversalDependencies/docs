@@ -75,7 +75,7 @@ The following 15 pairs of parts of speech are connected with `dislocated`: <tt><
 15	скорбно	скорбно	ADV	_	Degree=Pos	11	advmod	_	_
 16	и	и	CCONJ	_	_	17	cc	_	_
 17	устало	устало	ADV	_	Degree=Pos	15	conj	_	SpaceAfter=No
-18	.	.	PUNCT	_	_	8	punct	_	_~
+18	.	.	PUNCT	_	_	8	punct	_	_
 
 ~~~
 

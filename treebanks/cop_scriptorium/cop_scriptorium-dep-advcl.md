@@ -60,7 +60,7 @@ The following 21 pairs of parts of speech are connected with `advcl`: <tt><a hre
 9	ⲉⲧⲃⲉ	ⲉⲧⲃⲉ	ADP	PREP	_	11	case	_	_
 10	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	Entity=(person
 11	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	8	nmod	_	Entity=person)person)
-12	ⲉ	ⲉ	SCONJ	CCIRC	_	14	mark	_	_
+12	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	14	mark	_	_
 13	ⲡⲉⲛ	ⲡⲉⲛ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	14	det	_	Entity=(person
 14	ⲥⲟⲛ	ⲥⲟⲛ	NOUN	N	_	3	advcl	_	Entity=person)|Orig=ⲥⲟⲛ`
 15	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	14	cop	_	_

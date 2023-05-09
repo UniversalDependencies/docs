@@ -7,14 +7,13 @@ udver: '2'
 ## Treebank Statistics: UD_Persian-PerDT: Relations: `aux`
 
 This relation is universal.
-There are 1 language-specific subtypes of `aux`: <tt><a href="fa_perdt-dep-aux-pass.html">aux:pass</a></tt>.
 
-12884 nodes (3%) are attached to their parents as `aux`.
+12868 nodes (3%) are attached to their parents as `aux`.
 
-6525 instances of `aux` (51%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.69349580875504.
+6536 instances of `aux` (51%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.68596518495493.
 
-The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="fa_perdt-pos-VERB.html">VERB</a></tt>-<tt><a href="fa_perdt-pos-AUX.html">AUX</a></tt> (12805; 99% instances), <tt><a href="fa_perdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fa_perdt-pos-AUX.html">AUX</a></tt> (47; 0% instances), <tt><a href="fa_perdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fa_perdt-pos-AUX.html">AUX</a></tt> (21; 0% instances), <tt><a href="fa_perdt-pos-AUX.html">AUX</a></tt>-<tt><a href="fa_perdt-pos-AUX.html">AUX</a></tt> (11; 0% instances).
+The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="fa_perdt-pos-VERB.html">VERB</a></tt>-<tt><a href="fa_perdt-pos-AUX.html">AUX</a></tt> (12790; 99% instances), <tt><a href="fa_perdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fa_perdt-pos-AUX.html">AUX</a></tt> (47; 0% instances), <tt><a href="fa_perdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fa_perdt-pos-AUX.html">AUX</a></tt> (21; 0% instances), <tt><a href="fa_perdt-pos-AUX.html">AUX</a></tt>-<tt><a href="fa_perdt-pos-AUX.html">AUX</a></tt> (10; 0% instances).
 
 
 ~~~ conllu
@@ -28,8 +27,8 @@ The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="
 3	کارها	کار	NOUN	N_IANM	Number=Plur	1	nmod	_	_
 4	هم	هم	ADV	ADV_SADV	_	3	dep	_	_
 5	نهی	نهی	NOUN	N_IANM	Number=Sing	6	compound:lvc	_	_
-6	شده	شد#شو	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
-7	است	#است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	6	aux	_	SpaceAfter=No
+6	شده	شد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=شد#شو
+7	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	6	aux	_	OrigLemma=#است|SpaceAfter=No
 8	.	.	PUNCT	PUNC	_	6	punct	_	_
 
 ~~~
@@ -45,14 +44,14 @@ The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="
 2	چیزی	چیز	NOUN	N_IANM	Number=Sing	7	nsubj	_	_
 3	که	که	SCONJ	SUBR	_	5	mark	_	_
 4	اختراع	اختراع	NOUN	N_IANM	Number=Sing	5	compound:lvc	_	_
-5	می‌شود	شد#شو	VERB	V_ACT	Number=Sing|Person=3|Tense=Pres|Voice=Act	2	acl	_	_
-6	باید	بایست#باید	AUX	V_MODL	_	7	aux	_	_
+5	می‌شود	شد	VERB	V_ACT	Number=Sing|Person=3|Tense=Pres|Voice=Act	2	acl	_	OrigLemma=شد#شو
+6	باید	بایست	AUX	V_MODL	_	7	aux	_	OrigLemma=بایست#باید
 7	مطابق	مطابق	ADJ	ADJ_AJP	_	0	root	_	_
 8	با	با	ADP	PREP	_	9	case	_	_
 9	قوانین	قانون	NOUN	N_IANM	Number=Plur	7	obl:arg	_	_
 10	علمی	علمی	ADJ	ADJ_AJP	_	9	amod	_	_
 11	کشور	کشور	NOUN	N_IANM	Number=Sing	9	nmod	_	_
-12	باشد	بود#باش	AUX	AUX	Number=Sing|Person=3	7	cop	_	SpaceAfter=No
+12	باشد	بود	AUX	AUX	Number=Sing|Person=3	7	cop	_	OrigLemma=بود#باش|SpaceAfter=No
 13	.	.	PUNCT	PUNC	_	7	punct	_	_
 
 ~~~
@@ -66,12 +65,12 @@ The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 4 3 aux	color:blue
 1	چرا	چرا	ADV	ADV_SADV	_	4	advmod	_	_
 2	شما	شما	PRON	PR_SEPER	Number=Plur|Person=2	4	nsubj	_	_
-3	باید	بایست#باید	AUX	V_MODL	_	4	aux	_	_
+3	باید	بایست	AUX	V_MODL	_	4	aux	_	OrigLemma=بایست#باید
 4	سردبیر	سردبیر	NOUN	N_ANM	Number=Sing	0	root	_	_
 5	هفته‌نامهٔ	هفته‌نامه	PROPN	N_IANM	Number=Sing	4	nmod	_	_
 6	دختران	دختر	PROPN	N_ANM	Number=Plur	5	flat:name	_	_
 7	جوان	جوان	PROPN	ADJ_AJP	_	5	flat:name	_	_
-8	باشید	بود#باش	AUX	AUX	Number=Plur|Person=2	4	cop	_	SpaceAfter=No
+8	باشید	بود	AUX	AUX	Number=Plur|Person=2	4	cop	_	OrigLemma=بود#باش|SpaceAfter=No
 9	؟	؟	PUNCT	PUNC	_	4	punct	_	_
 
 ~~~

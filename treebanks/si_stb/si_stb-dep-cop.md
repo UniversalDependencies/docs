@@ -22,14 +22,14 @@ The following 1 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 cop	color:blue
-1	එම	එම	DET	_	_	2	det	_	_
-2	නරපතීහු	නරපති	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	_
-3	යුද	යුද	NOUN	_	Case=Nom|Gender=Neut|Number=Ptan	4	compound	_	_
-4	ශිල්පයෙහි	ශිල්ප	NOUN	_	Case=Gen|Definite=Def|Gender=Neut|Number=Sing	6	nmod	_	_
-5	කෙළ	කෙළ	NOUN	_	_	6	compound	_	_
-6	පැමිණියෝ	පැමිණි	NOUN	_	Animacy=Anim|Case=Nom|Number=Plur|VerbForm=Vnoun	0	root	_	_
-7	වූහ	වෙ	AUX	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	_
-8	.	.	PUNCT	_	_	6	punct	_	_
+1	එම	එම	DET	_	_	2	det	_	Translit=ema|LTranslit=ema
+2	නරපතීහු	නරපති	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	Translit=narapatīhu|LTranslit=narapati
+3	යුද	යුද	NOUN	_	Case=Nom|Gender=Neut|Number=Ptan	4	compound	_	Translit=yuda|LTranslit=yuda
+4	ශිල්පයෙහි	ශිල්ප	NOUN	_	Case=Gen|Definite=Def|Gender=Neut|Number=Sing	6	nmod	_	Translit=śilpayehi|LTranslit=śilpa
+5	කෙළ	කෙළ	NOUN	_	_	6	compound	_	Translit=keḷa|LTranslit=keḷa
+6	පැමිණියෝ	පැමිණි	NOUN	_	Animacy=Anim|Case=Nom|Number=Plur|VerbForm=Vnoun	0	root	_	Translit=pæmiṇiyō|LTranslit=pæmiṇi
+7	වූහ	වෙ	AUX	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	Translit=vūha|LTranslit=ve
+8	.	.	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

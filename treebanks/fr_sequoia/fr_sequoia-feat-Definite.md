@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="fr_sequoia-pos-DET.
 
 9265 <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> tokens (89% of all `DET` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="fr_sequoia-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (9265; 100%), <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6791; 73%).
+The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="fr_sequoia-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (9265; 100%), <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6770; 73%).
 
 `DET` tokens may have the following values of `Definite`:
 

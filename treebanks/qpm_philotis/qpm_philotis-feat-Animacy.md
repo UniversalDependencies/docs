@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Pomak-Philotis: Features: `Animacy`
 
-This feature is universal but the values `Hum` are language-specific.
+This feature is universal.
 It occurs with 2 different values: `Hum`, `Nhum`.
 
 1819 tokens (2%) have a non-empty value of `Animacy`.
@@ -27,8 +27,8 @@ The most frequent other feature values with which `VERB` and `Animacy` co-occurr
 * `EMPTY` (14046): <em>víka, reklól, íma, trǽbava, móža, reklála, hódi, právi, zøl, atišlól</em>
 
 <table>
-  <tr><th>Paradigm <i>réčem</i></th><th><tt>Nhum</tt></th><th><tt>Hum</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>reklýly</em></td><td><em>reklíli, reklí, raklí</em></td></tr>
+  <tr><th>Paradigm <i>réčem</i></th><th><tt>Hum</tt></th><th><tt>Nhum</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>reklíli, reklí, raklí</em></td><td><em>reklýly</em></td></tr>
 </table>
 
 `Animacy` seems to be **lexical feature** of `VERB`. 90% lemmas (273) occur only with one value of `Animacy`.
@@ -46,10 +46,10 @@ The most frequent other feature values with which `DET` and `Animacy` co-occurre
 * `EMPTY` (3085): <em>annó, annók, adín, inazí, bir, kutrí, vrit, ennó, žýjen, nǽko</em>
 
 <table>
-  <tr><th>Paradigm <i>adín</i></th><th><tt>Nhum</tt></th><th><tt>Hum</tt></th></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>annóga</em></td></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>anný</em></td><td><em>annǽh</em></td></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>anní</em></td></tr>
+  <tr><th>Paradigm <i>adín</i></th><th><tt>Hum</tt></th><th><tt>Nhum</tt></th></tr>
+  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>annóga</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>annǽh</em></td><td><em>anný</em></td></tr>
+  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>anní</em></td><td></td></tr>
 </table>
 
 ### `ADJ`
@@ -65,13 +65,13 @@ The most frequent other feature values with which `ADJ` and `Animacy` co-occurre
 * `EMPTY` (2412): <em>mlógo, stáryjen, cǽla, gulǽma, cǽlo, razý, mládyjen, kámatno, gulǽmo, starána</em>
 
 <table>
-  <tr><th>Paradigm <i>star</i></th><th><tt>Nhum</tt></th><th><tt>Hum</tt></th></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qpm_philotis-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="qpm_philotis-feat-Deixis.html">Deixis</a></tt><tt>=Remt</tt></tt></td><td><em>stáryne</em></td><td><em>stárehne, stárene</em></td></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qpm_philotis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt></tt></td><td></td><td><em>stáreh</em></td></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="qpm_philotis-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="qpm_philotis-feat-Deixis.html">Deixis</a></tt><tt>=Remt</tt></tt></td><td></td><td><em>stáremne</em></td></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="qpm_philotis-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="qpm_philotis-feat-Deixis.html">Deixis</a></tt><tt>=Prox</tt>|<tt><a href="qpm_philotis-feat-DeixisRef.html">DeixisRef</a></tt><tt>=2</tt></tt></td><td></td><td><em>Stárite</em></td></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="qpm_philotis-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="qpm_philotis-feat-Deixis.html">Deixis</a></tt><tt>=Remt</tt></tt></td><td></td><td><em>stárine</em></td></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="qpm_philotis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt></tt></td><td></td><td><em>stári</em></td></tr>
+  <tr><th>Paradigm <i>star</i></th><th><tt>Hum</tt></th><th><tt>Nhum</tt></th></tr>
+  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qpm_philotis-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="qpm_philotis-feat-Deixis.html">Deixis</a></tt><tt>=Remt</tt></tt></td><td><em>stárehne, stárene</em></td><td><em>stáryne</em></td></tr>
+  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qpm_philotis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt></tt></td><td><em>stáreh</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="qpm_philotis-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="qpm_philotis-feat-Deixis.html">Deixis</a></tt><tt>=Remt</tt></tt></td><td><em>stáremne</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="qpm_philotis-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="qpm_philotis-feat-Deixis.html">Deixis</a></tt><tt>=Prox</tt>|<tt><a href="qpm_philotis-feat-DeixisRef.html">DeixisRef</a></tt><tt>=2</tt></tt></td><td><em>Stárite</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="qpm_philotis-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="qpm_philotis-feat-Deixis.html">Deixis</a></tt><tt>=Remt</tt></tt></td><td><em>stárine</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="qpm_philotis-feat-Definite.html">Definite</a></tt><tt>=Ind</tt></tt></td><td><em>stári</em></td><td></td></tr>
 </table>
 
 ### `NUM`
@@ -98,9 +98,9 @@ The most frequent other feature values with which `PRON` and `Animacy` co-occurr
 * `EMPTY` (8620): <em>só, go, sí, mú, jé, mí, gi, toj, kaná, mu</em>
 
 <table>
-  <tr><th>Paradigm <i>ja</i></th><th><tt>Nhum</tt></th><th><tt>Hum</tt></th></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>to</em></td><td><em>tæh</em></td></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>to</em></td><td><em>tíje</em></td></tr>
+  <tr><th>Paradigm <i>ja</i></th><th><tt>Hum</tt></th><th><tt>Nhum</tt></th></tr>
+  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>tæh</em></td><td><em>to</em></td></tr>
+  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>tíje</em></td><td><em>to</em></td></tr>
 </table>
 
 ### `AUX`
@@ -116,8 +116,8 @@ The most frequent other feature values with which `AUX` and `Animacy` co-occurre
 * `EMPTY` (10421): <em>je, da, so, še, si, som, sa, bul, ša, jo</em>
 
 <table>
-  <tr><th>Paradigm <i>býdom</i></th><th><tt>Nhum</tt></th><th><tt>Hum</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>búly</em></td><td><em>búli, býli, bíli</em></td></tr>
+  <tr><th>Paradigm <i>býdom</i></th><th><tt>Hum</tt></th><th><tt>Nhum</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>búli, býli, bíli</em></td><td><em>búly</em></td></tr>
 </table>
 
 ## Relations with Agreement in `Animacy`

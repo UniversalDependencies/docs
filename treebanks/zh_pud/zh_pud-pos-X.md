@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Chinese-PUD: POS Tags: `X`
 
-There are 1 `X` lemmas (7%), 275 `X` types (5%) and 306 `X` tokens (1%).
-Out of 15 observed tags, the rank of `X` is: 15 in number of lemmas, 5 in number of types and 13 in number of tokens.
+There are 275 `X` lemmas (5%), 275 `X` types (5%) and 306 `X` tokens (1%).
+Out of 15 observed tags, the rank of `X` is: 5 in number of lemmas, 5 in number of types and 13 in number of tokens.
 
-The 10 most frequent `X` lemmas: _
+The 10 most frequent `X` lemmas: BBC、 CNN、 the、 Martin、 Anaya、 Andy、 B.C.、 Barrosos、 Catalano、 DNA
 
 The 10 most frequent `X` types:  BBC、 CNN、 the、 Martin、 Anaya、 Andy、 B.C.、 Barrosos、 Catalano、 DNA
 
-The 10 most frequent ambiguous lemmas: _ (<tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> 5410, <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt> 3467, <tt><a href="zh_pud-pos-PUNCT.html">PUNCT</a></tt> 2902, <tt><a href="zh_pud-pos-PART.html">PART</a></tt> 1881, <tt><a href="zh_pud-pos-PROPN.html">PROPN</a></tt> 1361, <tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> 1288, <tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 1283, <tt><a href="zh_pud-pos-NUM.html">NUM</a></tt> 873, <tt><a href="zh_pud-pos-PRON.html">PRON</a></tt> 710, <tt><a href="zh_pud-pos-ADJ.html">ADJ</a></tt> 650, <tt><a href="zh_pud-pos-AUX.html">AUX</a></tt> 618, <tt><a href="zh_pud-pos-DET.html">DET</a></tt> 355, <tt><a href="zh_pud-pos-X.html">X</a></tt> 306, <tt><a href="zh_pud-pos-CCONJ.html">CCONJ</a></tt> 283, <tt><a href="zh_pud-pos-SCONJ.html">SCONJ</a></tt> 28)
+The 10 most frequent ambiguous lemmas: 中 (<tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> 113, <tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="zh_pud-pos-X.html">X</a></tt> 1), 的 (<tt><a href="zh_pud-pos-PART.html">PART</a></tt> 1361, <tt><a href="zh_pud-pos-X.html">X</a></tt> 1), 而 (<tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 47, <tt><a href="zh_pud-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="zh_pud-pos-X.html">X</a></tt> 1), 被 (<tt><a href="zh_pud-pos-AUX.html">AUX</a></tt> 79, <tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> 22, <tt><a href="zh_pud-pos-X.html">X</a></tt> 1)
 
 The 10 most frequent ambiguous types:  中 (<tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> 113, <tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="zh_pud-pos-X.html">X</a></tt> 1), 的 (<tt><a href="zh_pud-pos-PART.html">PART</a></tt> 1361, <tt><a href="zh_pud-pos-X.html">X</a></tt> 1), 而 (<tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 47, <tt><a href="zh_pud-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="zh_pud-pos-X.html">X</a></tt> 1), 被 (<tt><a href="zh_pud-pos-AUX.html">AUX</a></tt> 79, <tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> 22, <tt><a href="zh_pud-pos-X.html">X</a></tt> 1)
 
@@ -36,9 +36,13 @@ The 10 most frequent ambiguous types:  中 (<tt><a href="zh_pud-pos-ADP.html">AD
 
 ## Morphology
 
-The form / lemma ratio of `X` is 275.000000 (the average of all parts of speech is 388.466667).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.006233).
 
-The 1st highest number of forms (275) was observed with the lemma “_”: Addenbrooke, Adnan, Agora, Alejandra, Amin, Anaya, Andes, Andrew, Andy, Antillas, Antilles, Aoun, Asty, Athina, Atkinson, Avery, Aviva, Avro, B.C., B29, BBC, Barratt, Barrosos, Bass, Benoît, Beust, Blindleia, Boemer, Bono, Brant, Bruno, Bruyn, Buck, Buena, Báñez, CBC, CBS, CGI, CNN, CRTC, Carlo, Carlos, Carolina, Carson, Catalano, Chiliaarm, Chris, Cifuentes, Ciscaucasus, Claret, Clinton, Conte, Cranach, Cristina, Crouch, Cup, Curio, DFB, DNA, DPA, David, Davis, Dean, Dee, Di, Die, Diess, Dietrich, Domenico, Donald, Doss, Durán, Dündar, EMicro, ETA, Eibingen, Elder, Energy, Ennio, Eon, Erdogan, F1, FSLN, Facebook, Film, Frank, Freeman, Fátima, G.D.P, GCHQ, GEMA, Garden, Gay, Georg, Georges, Germaine, Geronimo, Glenda, Goffredo, González, Guilbeault, Günter, H, Hariri, Herbert, Hillary, Hispania, Hopley, If, Income, Investors, Isner, Javier, Jeff, Jeffrey, John, Johnny, Joseph, Jr., Juan, Jutting, Karel, Kerber, Khanzir, Kiki, King, King,, Knott, Knuck, Krätschmer, Kven, Kühn, La, Larry, Leive, Lindsay, Lucas, Luther, MLA, MahaNakhon, Mailis, Marat, MarcRich, Mare, Margaret, Mark, Maroto, Marr, Martin, Mash, Mate, Mestre, Metti, Meänkieli, Miami, Mildred, Millican, Mohammed, Monster, Monte, Morgan, Morricone, Multi, Nectar卡, Negan, Nicolai, NineNews, Norman, North, Nostrum, Obermarsberg, Odi, Olivia, Packham, Paire, Papworth, Pedro, Pelucca, Petrassi, Pintado, Plano, Pugh, Punta, RECO, RHS, RSPB, Rachel, Rai, Rasa, Rastislav, Rastiz, Reddit, Reichenbach, Remy, Return, Richard, Rocco, Rogers, Rosane, Rupertsberg, SPIEGEL, Sade, Salaman, Salas, Sallyanne, SaskTel, Sea, Select, Serena, Sheppard, Show, Simon, Simple, Siri, Slack, Slate, Spotify, St., Stephen, Strategy, Style, Sánchez, Target, Tarlo, Transcaucasus, Traum，, Trump, Twitter, T型車, Uber, Vance, Viguier區, Villa, Vine, Von, Walter, Weiss, Wi-Fi, Williams, Winham, Winterkorn, Woods, Yerba, You, YouTube, Z., ZAY, ZEIT, Zayion, Zettel's, Zimmer, Záhorie, al-Jadaan, and, andino, bjórr酒, de, funds, of, the, tipo, volcanology, vulcanology, Ángel, Évole, Ötzi, α, 中, 乎, 嘿, 底, 徹, 的, 而, 被.
+The 1st highest number of forms (1) was observed with the lemma “Addenbrooke”: Addenbrooke.
+
+The 2nd highest number of forms (1) was observed with the lemma “Adnan”: Adnan.
+
+The 3rd highest number of forms (1) was observed with the lemma “Agora”: Agora.
 
 `X` occurs with 1 features: <tt><a href="zh_pud-feat-Foreign.html">Foreign</a></tt> (91; 30% instances)
 

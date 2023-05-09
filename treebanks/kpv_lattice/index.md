@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Niko Partanen, KyungTae Lim, Thierry Poibeau, Jack Rueter.
 
 Repository: [UD_Komi_Zyrian-Lattice](https://github.com/UniversalDependencies/UD_Komi_Zyrian-Lattice)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkpv_lattice211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkpv_lattice212)<br />
+Download all treebanks: [UD 2.12](/#download)
 
 License: CC BY-SA 4.0
 
@@ -86,7 +86,7 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
 
 ## Features
 
-[Abbr](kpv_lattice-feat-Abbr.html) – [AdpType](kpv_lattice-feat-AdpType.html) – [AdvType](kpv_lattice-feat-AdvType.html) – [Animacy](kpv_lattice-feat-Animacy.html) – [Case](kpv_lattice-feat-Case.html) – [Clitic](kpv_lattice-feat-Clitic.html) – [Connegative](kpv_lattice-feat-Connegative.html) – [Definite](kpv_lattice-feat-Definite.html) – [Degree](kpv_lattice-feat-Degree.html) – [Derivation](kpv_lattice-feat-Derivation.html) – [Evident](kpv_lattice-feat-Evident.html) – [Mood](kpv_lattice-feat-Mood.html) – [NounType](kpv_lattice-feat-NounType.html) – [Number](kpv_lattice-feat-Number.html) – [Number[psor]](kpv_lattice-feat-Number-psor.html) – [Number[subj]](kpv_lattice-feat-Number-subj.html) – [NumType](kpv_lattice-feat-NumType.html) – [PartForm](kpv_lattice-feat-PartForm.html) – [Person](kpv_lattice-feat-Person.html) – [Person[psor]](kpv_lattice-feat-Person-psor.html) – [Polarity](kpv_lattice-feat-Polarity.html) – [PronType](kpv_lattice-feat-PronType.html) – [Reflex](kpv_lattice-feat-Reflex.html) – [Tense](kpv_lattice-feat-Tense.html) – [Valency](kpv_lattice-feat-Valency.html) – [Variant](kpv_lattice-feat-Variant.html) – [VerbForm](kpv_lattice-feat-VerbForm.html) – [Voice](kpv_lattice-feat-Voice.html)
+[Abbr](kpv_lattice-feat-Abbr.html) – [AdpType](kpv_lattice-feat-AdpType.html) – [AdvType](kpv_lattice-feat-AdvType.html) – [Animacy](kpv_lattice-feat-Animacy.html) – [Case](kpv_lattice-feat-Case.html) – [Clitic](kpv_lattice-feat-Clitic.html) – [Connegative](kpv_lattice-feat-Connegative.html) – [Definite](kpv_lattice-feat-Definite.html) – [Degree](kpv_lattice-feat-Degree.html) – [Derivation](kpv_lattice-feat-Derivation.html) – [Evident](kpv_lattice-feat-Evident.html) – [Mood](kpv_lattice-feat-Mood.html) – [NounType](kpv_lattice-feat-NounType.html) – [Number](kpv_lattice-feat-Number.html) – [Number[psor]](kpv_lattice-feat-Number-psor.html) – [Number[subj]](kpv_lattice-feat-Number-subj.html) – [NumType](kpv_lattice-feat-NumType.html) – [PartForm](kpv_lattice-feat-PartForm.html) – [Person](kpv_lattice-feat-Person.html) – [Person[psor]](kpv_lattice-feat-Person-psor.html) – [Polarity](kpv_lattice-feat-Polarity.html) – [PronType](kpv_lattice-feat-PronType.html) – [Reflex](kpv_lattice-feat-Reflex.html) – [Tense](kpv_lattice-feat-Tense.html) – [Variant](kpv_lattice-feat-Variant.html) – [VerbForm](kpv_lattice-feat-VerbForm.html) – [Voice](kpv_lattice-feat-Voice.html)
 
 ## Relations
 
@@ -173,7 +173,7 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
   <li>Inf
   <ul>
     <li>AUX: лоны, вермыны</li>
-    <li>VERB: лоны, шуны, мунны, вӧчны, восьлавны, нуны, бӧрйыны, волыны, воӧдчыны, вуджны</li>
+    <li>VERB: лоны, шуны, мунны, вӧчны, восьлавны, нуны, овны, бӧрйыны, видзны, висьтавны</li>
   </ul>
   </li>
 </ul>
@@ -189,7 +189,7 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
 <ul>
   <li>Vnoun
   <ul>
-    <li>VERB: Мудзӧм, баитӧмъяснысӧ, босьтӧмаяс, вайӧм, ветлӧм, видзӧдлӧмъясыс, воӧм, воӧмсянь, вувзьысьӧмъяс, вурӧм</li>
+    <li>VERB: вайӧм, кульыштӧм, подмӧм, Мудзӧм, баитӧмъяснысӧ, босьтӧмаяс, ветлӧм, видзӧдлӧмъясыс, воӧм, воӧмсянь</li>
   </ul>
   </li>
 </ul>
@@ -1015,8 +1015,8 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
     <ul>
       <li>Yes
         <ul>
-          <li>AUX: вермы, кут, вӧв, позь, вӧвны, вӧвлы, ков, вермыны, лысьт</li>
-          <li>VERB: жалит, пов, тыдав, вӧв, тешитчы, тӧд, тӧр, ло, аддзы, бергӧдчы</li>
+          <li>AUX: вермы, кут, вӧв, позь, вӧвны, вӧвлы, ков, лысьт, вермыны</li>
+          <li>VERB: пов, жалит, тыдав, вӧв, ло, тешитчы, тӧд, тӧр, аддзы, аддзыв</li>
         </ul>
       </li>
     </ul>
@@ -1029,7 +1029,7 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
       <li>An
         <ul>
           <li>NOUN: ветланныд</li>
-          <li>VERB: Вӧралан, Пожъясян, дрӧжжитан, кылан, олан, урчитан, чужан, воан, вундан, дзордзалан</li>
+          <li>VERB: Вӧралан, Пожъясян, дзордзалан, дрӧжжитан, жалитан, колан, кылан, личкан, лэччан, мынтан</li>
           <li>VERB-Part: шедан</li>
         </ul>
       </li>
@@ -1100,7 +1100,7 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
       </li>
       <li>NomAg
         <ul>
-          <li>VERB: сулалысь, локтысь, вӧтчысь, дзирдалысь, дзользьысь, кужысь, куйлысь, лэччысь, полысь, сюйсьысь</li>
+          <li>VERB: сулалысь, дзирдалысь, локтысь, вӧтчысь, дзользьысь, кужысь, куйлысь, лэччысь, полысь, сюйсьысь</li>
           <li>VERB-Part: Вӧралысь, кыйсьысь, шептасьысь</li>
         </ul>
       </li>
@@ -1138,7 +1138,7 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
       </li>
       <li>VAbe
         <ul>
-          <li>VERB: виччысьтӧг, бергӧдлытӧг, дугдывтӧг, жалиттӧг, повтӧг, тэрмасьтӧг, Тӧдлытӧг, вӧрзьӧдлывтӧг, чинтытӧг, шойччывтӧг</li>
+          <li>VERB: виччысьтӧг, бергӧдлытӧг, вӧрзьӧдлывтӧг, дугдывтӧг, жалиттӧг, повтӧг, тэрмасьтӧг, шойччывтӧг, Тӧдлытӧг, чинтытӧг</li>
           <li>VERB-Conv: дугдывтӧг, жалиттӧг, Тӧдлытӧг, виччысьтӧг, чинтытӧг</li>
         </ul>
       </li>
@@ -1191,7 +1191,7 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
     <ul>
       <li>Neg
         <ul>
-          <li>VERB: вермытӧм, Тыдавлытӧм, Тӧдтӧм, вердтӧмӧсь, ветлытӧм, йывдытӧмӧсь, юктавтӧмӧсь</li>
+          <li>VERB: вермытӧм, Тыдавлытӧм, Тӧдтӧм, ветлытӧм, вердтӧмӧсь, йывдытӧмӧсь, юктавтӧмӧсь</li>
         </ul>
       </li>
       <li>Pres
@@ -1246,33 +1246,6 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
           <li>VERB-Inf: висьтавныс, прӧщайтчыныс</li>
           <li>VERB-Part: гӧгӧрвотӧмыс</li>
           <li>VERB-Vnoun: баитӧмъяснысӧ, видзӧдлӧмъясыс, кылӧмсӧ, полӧмсӧ, пуксьӧмсяньыс, сюмалӧмыс, туӧмсӧ, усьӧмъяссьыс</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li><a>Valency</a>
-    <ul>
-      <li>1
-        <ul>
-          <li>AUX: вӧлі, вӧліны, колӧ, лоам, позьӧ, вермас, вермасны, вермы, вермыны, вӧвны</li>
-          <li>AUX-Inf: лоны</li>
-          <li>VERB: воис, пов, вермытӧм, ворсіс, вочавидзис, локтӧ, лоӧма, овны, повны, сулаліс</li>
-          <li>VERB-Conv: келалігъясын, куйліганыс, петігӧн, пузигкості, сувтлігъясӧ, уджалігӧн, чышкасигъясын</li>
-          <li>VERB-Inf: овны, повны, сёрнитыштны, Кувнытӧ, ворсны, довгыны, жуйявнысӧ, йӧктыны, келавны, котравнытӧ</li>
-          <li>VERB-Part: Вӧралысь, дзугсьыштӧм, шедан, ылалӧм</li>
-          <li>VERB-Vnoun: ветлӧм, воӧм, дивитӧмӧн, личӧдыштӧм, олӧмсӧ, подмӧм, саялӧм, сералыштӧм, серӧктӧмӧн, сыныштӧмысь</li>
-        </ul>
-      </li>
-      <li>2
-        <ul>
-          <li>VERB: шуны, аддза, виччысьны, шуис, Арендуйтам, Вежис, Кӧсъян, Радейтісны, Тӧдтӧм, Чинтыштан</li>
-          <li>VERB-Conv: босьтігас, кыйигъясӧн, лэдзигӧн</li>
-          <li>VERB-Inf: шуны, вештавны, видзны, висьтавны, висьтавныс, виччысьны, вӧчны, заптыны, зургыны, йӧртны</li>
-          <li>VERB-Part: аддзанаӧн</li>
-          <li>VERB-Vnoun: вайӧм, кульыштӧм, кылӧмсӧ, кыпӧдӧм, мойдӧмсӧ, юӧм, ӧшӧдӧмӧн</li>
         </ul>
       </li>
     </ul>

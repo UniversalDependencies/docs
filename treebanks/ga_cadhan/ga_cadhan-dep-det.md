@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-274 nodes (7%) are attached to their parents as `det`.
+319 nodes (7%) are attached to their parents as `det`.
 
-220 instances of `det` (80%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.11313868613139.
+258 instances of `det` (81%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.10658307210031.
 
-The following 9 pairs of parts of speech are connected with `det`: <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-DET.html">DET</a></tt> (249; 91% instances), <tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_cadhan-pos-DET.html">DET</a></tt> (8; 3% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> (7; 3% instances), <tt><a href="ga_cadhan-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_cadhan-pos-DET.html">DET</a></tt> (4; 1% instances), <tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_cadhan-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ga_cadhan-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `det`: <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-DET.html">DET</a></tt> (285; 89% instances), <tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_cadhan-pos-DET.html">DET</a></tt> (11; 3% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> (9; 3% instances), <tt><a href="ga_cadhan-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_cadhan-pos-DET.html">DET</a></tt> (4; 1% instances), <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_cadhan-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_cadhan-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ga_cadhan-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -35,76 +35,66 @@ The following 9 pairs of parts of speech are connected with `det`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 16 15 det	color:blue
-1	Tuig	tuig	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	SpaceAfter=No
-2	,	,	PUNCT	_	_	4	punct	_	_
-3	a	a	PART	_	PartType=Voc	4	case:voc	_	_
-4	léaghthóir	léitheoir	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	1	vocative	_	SpaceAfter=No
-5	,	,	PUNCT	_	_	4	punct	_	_
-6	go	go	PART	_	PartType=Cmpl	7	mark:prt	_	_
-7	rabhadar	bí	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	1	ccomp	_	_
-8	trí	trí	NUM	_	NumType=Card	9	nummod	_	_
-9	heasbadha	easpa	NOUN	_	Case=Nom|Form=HPref|Gender=Fem|Number=Sing	7	nsubj	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 8 det	color:blue
+1	Iulius	Iúil	PROPN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	17	dislocated	_	_
+2	Cesair	Caesar	PROPN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	flat:name	_	_
+3	go	go	ADP	_	_	4	case	_	_
+4	n-agh	ágh	NOUN	_	Case=Nom|Form=Ecl|Gender=Masc|Number=Sing	2	nmod	_	_
+5	ceid	céad	NUM	_	NumType=Card	6	nummod	_	_
+6	Impeir	impire	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	appos	_	_
+7	reil	réil	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	6	amod	_	_
+8	na	an	DET	_	Case=Gen|Definite=Def|Number=Plur|PronType=Art	9	det	_	_
+9	Romhán	Rómhánach	PROPN	_	Case=Gen|Definite=Def|Gender=Masc|NounType=Weak|Number=Plur	6	nmod	_	_
 10	ar	ar	ADP	_	_	11	case	_	_
-11	Stanihurst	Stanihurst	PROPN	_	Foreign=Yes|Gender=Masc|Number=Sing	7	xcomp:pred	_	_
-12	re	le	ADP	_	_	13	case	_	_
-13	scríobhadh	scríobh	NOUN	_	VerbForm=Inf	9	acl	_	_
-14	stáire	stair	NOUN	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	13	obj	_	_
-15	na	an	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
-16	hÉireann	Éire	PROPN	_	Case=Gen|Definite=Def|Form=HPref|Gender=Fem|Number=Sing	14	nmod	_	_
-17	as	as	ADP	_	_	19	case	_	_
-18	ná'r	is	AUX	_	Polarity=Neg|Tense=Past|VerbForm=Cop	19	cop	_	_
-19	chóir	cóir	ADJ	_	Degree=Pos|Form=Len	9	acl	_	_
-20	cion	cion	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	23	obj	_	_
-21	stáraidhe	staraí	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	20	nmod	_	_
-22	do	a	PART	_	PartType=Inf	23	mark	_	_
-23	thabhairt	tabhairt	NOUN	_	Form=Len|VerbForm=Inf	19	csubj:cop	_	_
-24	air	ar	ADP	_	Gender=Masc|Number=Sing|Person=3	23	obl:prep	_	SpaceAfter=No
-25	.	.	PUNCT	_	_	1	punct	_	_
+11	ngabail	gabháil	NOUN	_	Definite=Def|Form=Ecl|VerbForm=Inf	17	advcl	_	_
+12	an	an	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	domhain	domhan	NOUN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	11	nmod	_	_
+14	lais	le	ADP	_	Gender=Masc|Number=Sing|Person=3	11	obl:prep	_	_
+15	a	a	PART	Voc	PartType=Voc	16	case:voc	_	_
+16	shaoghal	saol	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Masc|Number=Sing	17	vocative	_	_
+17	créd	cé	PRON	_	PronType=Int	0	root	_	_
+18	far	faoi	PART	_	Form=Indirect|PronType=Rel|Tense=Past	19	obl	_	_
+19	thrasgrais	treascair	VERB	_	Form=Len|Mood=Ind|Number=Sing|Person=2|Tense=Past	17	acl:relcl	_	_
+20	.	.	PUNCT	_	_	19	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 det	color:blue
-1	An	an	DET	_	Definite=Def|Number=Sing|PronType=Art	2	det	_	_
-2	lá	lá	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	8	obl:tmod	_	_
-3	ina	i	ADP	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	4	case	_	_
-4	dheaghaidh	diaidh	NOUN	_	Case=Nom|Definite=Def|Form=Len|Number=Sing	2	nmod	_	_
-5	sin	sin	PRON	_	PronType=Dem	4	det	_	_
-6	arís	arís	ADV	_	_	8	advmod	_	_
-7	do	do	PART	_	PartType=Vb	8	mark:prt	_	_
-8	sheasaimh	seas	VERB	_	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
-9	Eóin	Eoin	PROPN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	8	nsubj	_	SpaceAfter=No
-10	,	,	PUNCT	_	_	12	punct	_	_
-11	agus	agus	CCONJ	_	_	12	cc	_	_
-12	diás	dís	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	9	conj	_	_
-13	dá	do	ADP	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	14	case	_	_
-14	dheisgioblaibh	deisceabal	NOUN	_	Case=Dat|Form=Len|Gender=Masc|Number=Plur	12	nmod	_	SpaceAfter=No
-15	:	:	PUNCT	_	_	16	punct	_	SpacesAfter=\n
-16	Agus	agus	CCONJ	_	_	22	cc	_	_
-17	ar	iar	ADP	_	_	18	case	_	_
-18	bhfhaicsin	feiceáil	NOUN	_	Definite=Def|Form=Ecl|VerbForm=Inf	22	advcl	_	_
-19	Iósa	Íosa	PROPN	_	Definite=Def|Gender=Masc|Number=Sing	18	obj	_	_
-20	ag	ag	ADP	_	_	21	case	_	_
-21	siobhal	siúl	NOUN	_	VerbForm=Vnoun	18	xcomp	_	_
-22	adubhairt	abair	VERB	_	Mood=Ind|Tense=Past	8	conj	_	_
-23	sé	sé	PRON	_	Gender=Masc|Number=Sing|Person=3	22	nsubj	_	SpaceAfter=No
-24	;	;	PUNCT	_	_	25	punct	_	_
-25	féuch	féach	VERB	_	Mood=Imp|Number=Sing|Person=2	22	ccomp	_	_
-26	an	an	DET	_	Definite=Def|Number=Sing|PronType=Art	27	det	_	_
-27	túan	uan	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	25	obj	_	_
-28	úd	úd	DET	_	PronType=Dem	27	det	_	_
-29	Dé	Dia	PROPN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	27	nmod	_	SpaceAfter=No
-30	.	.	PUNCT	_	_	8	punct	_	SpacesAfter=\n
+# visual-style 19	bgColor:blue
+# visual-style 19	fgColor:white
+# visual-style 18	bgColor:blue
+# visual-style 18	fgColor:white
+# visual-style 18 19 det	color:blue
+1	Tri	trí	NUM	_	NumType=Card	2	nummod	_	_
+2	naimhde	namhaid	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	0	root	_	_
+3	an	an	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	anma	anam	NOUN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	2	nmod	_	_
+5	gach	gach	DET	_	Definite=Def	6	det	_	_
+6	am	am	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	obl:tmod	_	_
+7	diabhal	diabhal	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	appos	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	saoghal	saol	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	conj	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	13	punct	_	_
+11	's	agus	CCONJ	_	_	13	cc	_	_
+12	a	a	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	13	nmod:poss	_	_
+13	cholann	colainn	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Fem|Number=Sing	7	conj	_	_
+14	da	dá	SCONJ	_	_	15	mark	_	_
+15	mbera	beir	VERB	_	Form=Ecl|Mood=Sub|Number=Sing|Person=2|Tense=Pres	20	advcl	_	_
+16	tusa	tú	PRON	_	Number=Sing|Person=2|PronType=Emp	15	nsubj	_	_
+17	a	a	DET	_	Number=Plur|Person=3|Poss=Yes	18	nmod:poss	_	_
+18	mbuaidh	bua	NOUN	_	Case=Nom|Definite=Def|Form=Ecl|Gender=Masc|Number=Sing	15	obj	_	_
+19	sin	sin	PRON	_	PronType=Dem	18	det	_	_
+20	rachair	téigh	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Fut	2	parataxis	_	_
+21	go	go	PART	_	PartType=Ad	22	mark:prt	_	_
+22	réidh	réidh	ADJ	_	Degree=Pos	20	advmod	_	_
+23	don	do	ADP	_	Number=Sing|PronType=Art	24	case	_	_
+24	Righthigh	rítheach	NOUN	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing	20	obl	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	20	punct	_	_
 
 ~~~
 

@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="vi_vtb-dep-obl.html">obl</a></tt>.
 There are also 7 other language-specific subtypes of `obl`: <tt><a href="vi_vtb-dep-obl-adj.html">obl:adj</a></tt>, <tt><a href="vi_vtb-dep-obl-adv.html">obl:adv</a></tt>, <tt><a href="vi_vtb-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="vi_vtb-dep-obl-comp.html">obl:comp</a></tt>, <tt><a href="vi_vtb-dep-obl-iobj.html">obl:iobj</a></tt>, <tt><a href="vi_vtb-dep-obl-tmod.html">obl:tmod</a></tt>, <tt><a href="vi_vtb-dep-obl-with.html">obl:with</a></tt>.
 
-62 nodes (0%) are attached to their parents as `obl:about`.
+75 nodes (0%) are attached to their parents as `obl:about`.
 
-62 instances of `obl:about` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.08064516129032.
+75 instances of `obl:about` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.85333333333333.
 
-The following 8 pairs of parts of speech are connected with `obl:about`: <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (33; 53% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (20; 32% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (3; 5% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-X.html">X</a></tt> (1; 2% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (1; 2% instances).
+The following 8 pairs of parts of speech are connected with `obl:about`: <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (44; 59% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (14; 19% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (8; 11% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (4; 5% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -38,47 +38,45 @@ The following 8 pairs of parts of speech are connected with `obl:about`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 11 obl:about	color:blue
-1	Ở	ở	ADP	Pre	_	2	case	_	_
-2	nhà	nhà	NOUN	N	_	6	obl:comp	_	_
-3	,	,	PUNCT	,	_	2	punct	_	_
-4	chị	chị	NOUN	Nc	_	5	clf:det	_	_
-5	Hằng	Hằng	PROPN	NNP	_	6	nsubj	_	_
-6	bày tỏ	bày tỏ	VERB	V	_	0	root	_	_
-7	sự	sự	NOUN	N	_	6	obj	_	_
-8	lo lắng	lo lắng	VERB	V	_	7	compound:vmod	_	_
-9	về	về	ADP	Pre	_	11	case	_	_
-10	lá	lá	NOUN	Nc	_	11	clf:det	_	_
-11	thư	thư	NOUN	N	_	7	obl:about	_	_
-12	của	của	ADP	Pre	_	13	case	_	_
-13	Tùng	Tùng	PROPN	NNP	_	11	nmod:poss	_	_
-14	.	.	PUNCT	.	_	6	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 3 obl:about	color:blue
+1	Rào cản	rào cản	NOUN	N	_	7	nsubj:pass	_	_
+2	về	về	ADP	Pre	_	3	case	_	_
+3	thủ tục	thủ tục	NOUN	N	_	1	obl:about	_	_
+4	hành chính	hành chính	NOUN	N	_	3	nmod	_	_
+5	cũng	cũng	ADV	Adv	_	7	advmod	_	_
+6	được	được	AUX	AUX	_	7	aux:pass	_	_
+7	đề cập	đề cập	VERB	V	_	0	root	_	_
+8	.	.	PUNCT	.	_	7	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 4 obl:about	color:blue
-1	Thanh	Thanh	PROPN	NNP	_	2	nsubj	_	_
-2	thao thao	thao thao	ADJ	Adj	_	0	root	_	_
-3	về	về	ADP	Pre	_	4	case	_	_
-4	quá khứ	quá khứ	NOUN	N	_	2	obl:about	_	_
-5	,	,	PUNCT	,	_	6	punct	_	_
-6	tình hình	tình hình	NOUN	N	_	4	conj	_	_
-7	buôn bán	buôn bán	VERB	V	_	6	acl	_	_
-8	và	và	CCONJ	CC	_	9	cc	_	_
-9	hẹn	hẹn	VERB	V	_	2	conj	_	_
-10	gặp	gặp	VERB	V	_	9	xcomp	_	_
-11	Hùng	Hùng	PROPN	NNP	_	10	obj	_	_
-12	.	.	PUNCT	.	_	2	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 9 obl:about	color:blue
+1	Lực lượng	lực lượng	NOUN	N	_	4	nsubj	_	_
+2	QLTT	qltt	NOUN	N	_	1	nmod	_	_
+3	cũng	cũng	ADV	Adv	_	4	advmod	_	_
+4	tỏ	tỏ	VERB	V	_	0	root	_	_
+5	ra	ra	ADV	Adv	_	4	compound:prt	_	_
+6	bỡ ngỡ	bỡ ngỡ	ADJ	Adj	_	4	xcomp	_	_
+7	với	với	ADP	Pre	_	9	case	_	_
+8	những	những	DET	Det	_	9	det	_	_
+9	mặt hàng	mặt hàng	NOUN	N	_	6	obl:about	_	_
+10	mới	mới	ADJ	Adj	_	9	amod	_	_
+11	như	như	SCONJ	SC	_	12	case	_	_
+12	cá chim	cá chim	NOUN	N	_	9	obl	_	_
+13	trắng	trắng	ADJ	Adj	_	12	amod	_	_
+14	,	,	PUNCT	,	_	15	punct	_	_
+15	ba ba	ba ba	NOUN	N	_	12	conj	_	_
+16	...	...	PUNCT	...	_	4	punct	_	_
 
 ~~~
 

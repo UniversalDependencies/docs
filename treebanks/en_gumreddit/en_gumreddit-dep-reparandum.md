@@ -13,7 +13,7 @@ This relation is universal.
 5 instances of `reparandum` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.8.
 
-The following 4 pairs of parts of speech are connected with `reparandum`: <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (2; 40% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gumreddit-pos-PART.html">PART</a></tt> (1; 20% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-SCONJ.html">SCONJ</a></tt> (1; 20% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (1; 20% instances).
+The following 4 pairs of parts of speech are connected with `reparandum`: <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (2; 40% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gumreddit-pos-PART.html">PART</a></tt> (1; 20% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> (1; 20% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (1; 20% instances).
 
 
 ~~~ conllu
@@ -103,7 +103,7 @@ The following 4 pairs of parts of speech are connected with `reparandum`: <tt><a
 # visual-style 14	bgColor:blue
 # visual-style 14	fgColor:white
 # visual-style 14 11 reparandum	color:blue
-1	_	_	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	2:nsubj	Bridge=83<90|Discourse=mode-means:89->91:2|Entity=(89-event-new-cf8-2-disc(90-person-acc:inf-cf2-1-sgl)|Lem=*LOWER*|Len=4
+1	_	_	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	2:nsubj	Bridge=83<90|Discourse=mode-means:92->94:2|Entity=(89-event-new-cf8-2-disc(90-person-acc:inf-cf2-1-sgl)|Lem=*LOWER*|Len=4
 2	_	_	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	Lem=_|Len=3
 3	_	_	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	Entity=(91-object-new-cf5-3-sgl|Lem=_|Len=1
 4	_	_	NOUN	NN	Number=Sing	5	compound	5:compound	Lem=_|Len=5
@@ -111,9 +111,9 @@ The following 4 pairs of parts of speech are connected with `reparandum`: <tt><a
 6	_	_	ADP	IN	_	8	case	8:case	Lem=_|Len=2
 7	_	_	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	nmod:poss	8:nmod:poss	Entity=(92-object-new-cf7-2-sgl(85-person-giv:act-cf1*-1-ana)|Lem=_|Len=3
 8	_	_	NOUN	NN	Number=Sing	2	obl	2:obl:in	Entity=92)|Lem=_|Len=4
-9	_	_	SCONJ	IN	_	14	mark	14:mark	Discourse=purpose-goal:90->89:0|Lem=_|Len=2
+9	_	_	SCONJ	IN	_	14	mark	14:mark	Discourse=purpose-goal:93->92:0|Lem=_|Len=2
 10	_	_	ADP	IN	_	9	fixed	9:fixed	Lem=_|Len=4
-11	_	_	SCONJ	WRB	PronType=Int	14	reparandum	14:reparandum	Lem=_|Len=4
+11	_	_	ADV	WRB	PronType=Int	14	reparandum	14:reparandum	Lem=_|Len=4
 12	_	_	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	14:nsubj	Entity=(85-person-giv:act-cf1*-1-ana)|Lem=_|Len=2
 13	_	_	AUX	MD	VerbForm=Fin	14	aux	14:aux	Lem=_|Len=5
 14	_	_	VERB	VB	VerbForm=Inf	2	advcl	2:advcl:so_that	Lem=_|Len=4

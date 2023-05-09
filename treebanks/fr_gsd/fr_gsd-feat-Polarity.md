@@ -9,20 +9,20 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Neg`, `Pos`.
 
-3230 tokens (1%) have a non-empty value of `Polarity`.
+3229 tokens (1%) have a non-empty value of `Polarity`.
 20 types (0%) occur at least once with a non-empty value of `Polarity`.
 9 lemmas (0%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 2 part-of-speech tags: <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (3226; 1% instances), <tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> (4; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (3225; 1% instances), <tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> (4; 0% instances).
 
 ### `ADV`
 
-3226 <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> tokens (22% of all `ADV` tokens) have a non-empty value of `Polarity`.
+3225 <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> tokens (23% of all `ADV` tokens) have a non-empty value of `Polarity`.
 
 `ADV` tokens may have the following values of `Polarity`:
 
-* `Neg` (3223; 100% of non-empty `Polarity`): <em>pas, n', ne, que, non, qu', jamais, plus, guère, point</em>
+* `Neg` (3222; 100% of non-empty `Polarity`): <em>pas, n', ne, que, non, qu', jamais, plus, guère, point</em>
 * `Pos` (3; 0% of non-empty `Polarity`): <em>jamais</em>
-* `EMPTY` (11328): <em>plus, très, aussi, où, ainsi, alors, bien, également, lors, même</em>
+* `EMPTY` (10934): <em>plus, très, aussi, ainsi, alors, bien, également, lors, même, encore</em>
 
 <table>
   <tr><th>Paradigm <i>jamais</i></th><th><tt>Pos</tt></th><th><tt>Neg</tt></th></tr>

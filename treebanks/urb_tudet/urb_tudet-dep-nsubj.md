@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-74 nodes (20%) are attached to their parents as `nsubj`.
+72 nodes (20%) are attached to their parents as `nsubj`.
 
-69 instances of `nsubj` (93%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.85135135135135.
+67 instances of `nsubj` (93%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.84722222222222.
 
-The following 3 pairs of parts of speech are connected with `nsubj`: <tt><a href="urb_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="urb_tudet-pos-PRON.html">PRON</a></tt> (45; 61% instances), <tt><a href="urb_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="urb_tudet-pos-NOUN.html">NOUN</a></tt> (15; 20% instances), <tt><a href="urb_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="urb_tudet-pos-PROPN.html">PROPN</a></tt> (14; 19% instances).
+The following 3 pairs of parts of speech are connected with `nsubj`: <tt><a href="urb_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="urb_tudet-pos-PRON.html">PRON</a></tt> (43; 60% instances), <tt><a href="urb_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="urb_tudet-pos-NOUN.html">NOUN</a></tt> (15; 21% instances), <tt><a href="urb_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="urb_tudet-pos-PROPN.html">PROPN</a></tt> (14; 19% instances).
 
 
 ~~~ conllu

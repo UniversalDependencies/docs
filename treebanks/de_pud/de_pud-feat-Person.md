@@ -9,146 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="de_pud-feat-Person.html">Person</a></tt>, <tt><a href="de_pud-feat-Person-psor.html">Person[psor]</a></tt>.
-
-12542 tokens (59%) have a non-empty value of `Person`.
-5308 types (82%) occur at least once with a non-empty value of `Person`.
-4388 lemmas (82%) occur at least once with a non-empty value of `Person`.
-The feature is used with 8 part-of-speech tags: <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (4243; 20% instances), <tt><a href="de_pud-pos-DET.html">DET</a></tt> (2840; 13% instances), <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt> (1219; 6% instances), <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (1181; 6% instances), <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> (1168; 5% instances), <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (1084; 5% instances), <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> (804; 4% instances), <tt><a href="de_pud-pos-X.html">X</a></tt> (3; 0% instances).
-
-### `NOUN`
-
-4243 <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Person`.
-
-The most frequent other feature values with which `NOUN` and `Person` co-occurred: <tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2993; 71%).
-
-`NOUN` tokens may have the following values of `Person`:
-
-* `3` (4243; 100% of non-empty `Person`): <em>Jahr, Jahre, Zeit, Jahren, Menschen, Regierung, Stadt, Geschichte, Jahrhundert, Oktober</em>
-* `EMPTY` (6): <em>Abwasserkanal, C, Festspiele, Keim, Müllhalde, Teil</em>
-
-`Person` seems to be **lexical feature** of `NOUN`. 100% lemmas (2422) occur only with one value of `Person`.
-
-### `DET`
-
-2840 <tt><a href="de_pud-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Person`.
-
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2269; 80%), <tt><a href="de_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2242; 79%).
-
-`DET` tokens may have the following values of `Person`:
-
-* `3` (2840; 100% of non-empty `Person`): <em>der, die, dem, den, das, des, eine, ein, einer, einem</em>
-* `EMPTY` (6): <em>dem, die, ein, eine</em>
-
-`Person` seems to be **lexical feature** of `DET`. 100% lemmas (40) occur only with one value of `Person`.
-
-### `PROPN`
-
-1219 <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Person`.
-
-The most frequent other feature values with which `PROPN` and `Person` co-occurred: <tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1171; 96%).
-
-`PROPN` tokens may have the following values of `Person`:
-
-* `3` (1219; 100% of non-empty `Person`): <em>Chr., China, Trump, USA, Frankreich, Joseph, US, Hong, Paris, Qing</em>
-
-`Person` seems to be **lexical feature** of `PROPN`. 100% lemmas (865) occur only with one value of `Person`.
-
-### `ADJ`
-
-1181 <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> tokens (84% of all `ADJ` tokens) have a non-empty value of `Person`.
-
-The most frequent other feature values with which `ADJ` and `Person` co-occurred: <tt><a href="de_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1126; 95%), <tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (800; 68%).
-
-`ADJ` tokens may have the following values of `Person`:
-
-* `3` (1181; 100% of non-empty `Person`): <em>ersten, neue, letzten, neuen, große, politischen, Vereinigten, britische, britischen, eigene</em>
-* `EMPTY` (218): <em>bekannt, möglich, groß, 1., klar, sicher, unglaublich, verheiratet, 30., alt</em>
-
-`Person` seems to be **lexical feature** of `ADJ`. 100% lemmas (659) occur only with one value of `Person`.
-
-### `PRON`
-
-1168 <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> tokens (99% of all `PRON` tokens) have a non-empty value of `Person`.
-
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="de_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=EMPTY</tt> (994; 85%), <tt><a href="de_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (956; 82%), <tt><a href="de_pud-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (944; 81%), <tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (857; 73%), <tt><a href="de_pud-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (800; 68%), <tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt> (700; 60%).
-
-`PRON` tokens may have the following values of `Person`:
-
-* `1` (100; 9% of non-empty `Person`): <em>ich, wir, mich, uns, mir, me</em>
-* `2` (7; 1% of non-empty `Person`): <em>you, Du, Ya, dich, du., euch, ihr</em>
-* `3` (1061; 91% of non-empty `Person`): <em>es, sich, die, er, sie, der, seine, ihre, ihr, seiner</em>
-* `EMPTY` (17): <em>man, ihrer</em>
-
-<table>
-  <tr><th>Paradigm <i>ihr</i></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="de_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Masc</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>ihren</em></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="de_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Masc</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>ihre</em></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="de_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Fem</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>ihren</em></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="de_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Fem</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>ihre</em></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="de_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Masc</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>ihre</em></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="de_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Masc</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>ihre</em></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="de_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Fem</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>ihre</em></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="de_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Fem</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>ihre</em></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="de_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Fem</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>ihre</em></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="de_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Masc</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>ihr</em></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="de_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Masc</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>ihre</em></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="de_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Fem</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>ihr</em></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="de_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Fem</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>ihre</em></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>ihr</em></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>ihre</em></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>euch</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="de_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Masc</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>ihren</em></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="de_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Neut</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>ihren</em></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>ihrem</em></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="de_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Masc</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>ihrer</em></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="de_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Masc</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>ihren</em></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="de_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Fem</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>ihrer</em></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="de_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Fem</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>ihrer</em></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="de_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Fem</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>ihren</em></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="de_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Neut</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>ihren</em></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>ihr</em></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>ihrer</em></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>ihren</em></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="de_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Masc</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>ihrem</em></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="de_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Fem</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>ihrem</em></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="de_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Neut</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>ihren</em></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="de_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Fem</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>ihres</em></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="de_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Fem</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>ihrer</em></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>ihres</em></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>ihrer</em></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="de_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Masc</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>ihrer</em></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="de_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Fem</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>ihrer</em></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>ihrer</em></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="de_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Fem</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>ihres</em></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>ihres</em></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="de_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Fem</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>ihre</em></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>ihre</em></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="de_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Masc</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>ihre</em></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="de_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Fem</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>ihre</em></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="de_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Fem</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>ihre</em></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>ihre</em></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="de_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Masc</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>ihr</em></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="de_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Fem</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>ihr</em></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>ihr</em></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Fem</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>ihre</em></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>ihr</em></td><td></td></tr>
-</table>
-
-`Person` seems to be **lexical feature** of `PRON`. 97% lemmas (28) occur only with one value of `Person`.
+2798 tokens (13%) have a non-empty value of `Person`.
+746 types (12%) occur at least once with a non-empty value of `Person`.
+464 lemmas (9%) occur at least once with a non-empty value of `Person`.
+The feature is used with 4 part-of-speech tags: <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (1083; 5% instances), <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> (807; 4% instances), <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> (685; 3% instances), <tt><a href="de_pud-pos-DET.html">DET</a></tt> (223; 1% instances).
 
 ### `VERB`
 
-1084 <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> tokens (55% of all `VERB` tokens) have a non-empty value of `Person`.
+1083 <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> tokens (55% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="de_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1067; 98%), <tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (794; 73%), <tt><a href="de_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (604; 56%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="de_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1066; 98%), <tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (794; 73%), <tt><a href="de_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (604; 56%).
 
 `VERB` tokens may have the following values of `Person`:
 
 * `1` (45; 4% of non-empty `Person`): <em>kenne, weiß, Nehmen, Thought, beiseitelegen, besuche, bewegen, bin, brauchen, denke</em>
-* `2` (4; 0% of non-empty `Person`): <em>Knew, Knuck, Lass, Metti</em>
-* `3` (1035; 95% of non-empty `Person`): <em>sagte, ist, hat, gibt, wurde, sagt, begann, war, hatte, führte</em>
-* `EMPTY` (904): <em>an, auf, aus, ein, zurück, haben, ab, machen, verwendet, werden</em>
+* `2` (5; 0% of non-empty `Person`): <em>Knew, Knuck, Lass, Metti, Schimpfen</em>
+* `3` (1033; 95% of non-empty `Person`): <em>sagte, ist, hat, gibt, wurde, sagt, begann, war, hatte, führte</em>
+* `EMPTY` (895): <em>an, auf, aus, zurück, haben, ab, machen, verwendet, werden, genutzt</em>
 
 <table>
   <tr><th>Paradigm <i>haben</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
@@ -163,15 +40,15 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `AUX`
 
-804 <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> tokens (93% of all `AUX` tokens) have a non-empty value of `Person`.
+807 <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> tokens (93% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="de_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (717; 89%), <tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (567; 71%), <tt><a href="de_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (413; 51%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="de_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (719; 89%), <tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (569; 71%), <tt><a href="de_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (414; 51%).
 
 `AUX` tokens may have the following values of `Person`:
 
 * `1` (34; 4% of non-empty `Person`): <em>habe, müssen, bin, sind, haben, hatte, können, werde, hätten, kann</em>
-* `2` (2; 0% of non-empty `Person`): <em>habt, musst</em>
-* `3` (768; 96% of non-empty `Person`): <em>ist, war, wurde, wird, wurden, sind, hat, waren, hatte, kann</em>
+* `2` (3; 0% of non-empty `Person`): <em>Do, habt, musst</em>
+* `3` (770; 95% of non-empty `Person`): <em>ist, war, wurde, wird, wurden, sind, hat, waren, hatte, kann</em>
 * `EMPTY` (65): <em>werden, worden, sein, haben, können, gewesen, müssen, wollen</em>
 
 <table>
@@ -185,29 +62,43 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
   <tr><td><tt><tt><a href="de_pud-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>hätten</em></td><td></td><td><em>hätten</em></td></tr>
 </table>
 
-### `X`
+### `PRON`
 
-3 <tt><a href="de_pud-pos-X.html">X</a></tt> tokens (8% of all `X` tokens) have a non-empty value of `Person`.
+685 <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> tokens (70% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `X` and `Person` co-occurred: <tt><a href="de_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (2; 67%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="de_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (627; 92%), <tt><a href="de_pud-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (550; 80%), <tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt> (448; 65%), <tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (440; 64%).
 
-`X` tokens may have the following values of `Person`:
+`PRON` tokens may have the following values of `Person`:
 
-* `2` (1; 33% of non-empty `Person`): <em>Don'</em>
-* `3` (2; 67% of non-empty `Person`): <em>didn', t</em>
-* `EMPTY` (33): <em>E, Multi, Breaking, Bundes, Demografie, Druck, Einzel, Ex, Fjögur, Go</em>
+* `1` (102; 15% of non-empty `Person`): <em>ich, wir, mich, uns, My, mir, me</em>
+* `2` (10; 1% of non-empty `Person`): <em>Sie, du, you, Ya, dich, euch, ihr</em>
+* `3` (573; 84% of non-empty `Person`): <em>es, sich, er, sie, ihm, ihn, ihr, ihnen, Her</em>
+* `EMPTY` (295): <em>die, der, was, das, man, denen, dem, dessen, deren, etwas</em>
+
+`Person` seems to be **lexical feature** of `PRON`. 100% lemmas (13) occur only with one value of `Person`.
+
+### `DET`
+
+223 <tt><a href="de_pud-pos-DET.html">DET</a></tt> tokens (7% of all `DET` tokens) have a non-empty value of `Person`.
+
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="de_pud-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (223; 100%), <tt><a href="de_pud-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (223; 100%), <tt><a href="de_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (223; 100%), <tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (166; 74%), <tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (113; 51%).
+
+`DET` tokens may have the following values of `Person`:
+
+* `1` (18; 8% of non-empty `Person`): <em>unsere, mein, meinem, unserem, unserer, Meines, Nostrum, Unser, meine, unseren</em>
+* `2` (2; 1% of non-empty `Person`): <em>Ihrem, euren</em>
+* `3` (203; 91% of non-empty `Person`): <em>seine, ihre, ihrer, seiner, ihr, sein, ihren, seinen, seines, ihres</em>
+* `EMPTY` (2883): <em>der, die, dem, den, das, eine, des, ein, einer, einem</em>
 
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>NOUN --[<tt><a href="de_pud-dep-det.html">det</a></tt>]--> DET</tt> (2620; 100%),
-<tt>NOUN --[<tt><a href="de_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1039; 99%),
-<tt>NOUN --[<tt><a href="de_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (816; 100%),
-<tt>VERB --[<tt><a href="de_pud-dep-obl.html">obl</a></tt>]--> NOUN</tt> (540; 56%),
-<tt>VERB --[<tt><a href="de_pud-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (430; 78%),
-<tt>VERB --[<tt><a href="de_pud-dep-obj.html">obj</a></tt>]--> NOUN</tt> (371; 59%),
-<tt>VERB --[<tt><a href="de_pud-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (311; 71%),
-<tt>NOUN --[<tt><a href="de_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (276; 100%),
-<tt>NOUN --[<tt><a href="de_pud-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (225; 99%),
-<tt>NOUN --[<tt><a href="de_pud-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (206; 100%).
+<tt>VERB --[<tt><a href="de_pud-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (204; 51%),
+<tt>VERB --[<tt><a href="de_pud-dep-obj.html">obj</a></tt>]--> PRON</tt> (102; 54%),
+<tt>VERB --[<tt><a href="de_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (92; 61%),
+<tt>VERB --[<tt><a href="de_pud-dep-expl.html">expl</a></tt>]--> PRON</tt> (49; 72%),
+<tt>VERB --[<tt><a href="de_pud-dep-obl-arg.html">obl:arg</a></tt>]--> PRON</tt> (16; 55%),
+<tt>VERB --[<tt><a href="de_pud-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (8; 62%),
+<tt>PRON --[<tt><a href="de_pud-dep-aux.html">aux</a></tt>]--> AUX</tt> (1; 100%),
+<tt>VERB --[<tt><a href="de_pud-dep-dep.html">dep</a></tt>]--> PRON</tt> (1; 100%).
 

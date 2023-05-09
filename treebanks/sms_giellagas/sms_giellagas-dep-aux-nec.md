@@ -27,7 +27,7 @@ The following 1 pairs of parts of speech are connected with `aux:nec`: <tt><a hr
 2	:	:	PUNCT	PUNCT	_	6	punct	_	_
 3	”	”	PUNCT	PUNCT	_	6	punct	_	GTtags=RIGHT|SpaceAfter=No
 4	Mâŋŋa	mâŋŋa	ADV	Adv	AdvType=Tim	6	advmod:tmod	_	GTtags=Sem/Time
-5	õõk	õlggâd	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Valency=1	6	aux:nec	_	GTtags=IV,Ind,Prs,Sg2
+5	õõk	õlggâd	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres	6	aux:nec	_	GTtags=IV,Ind,Prs,Sg2
 6	ǩieʹssed	ǩieʹssed	VERB	V	VerbForm=Inf	1	ccomp	_	GTtags=Inf
 7	mååusat	mååusat	ADV	Adv	_	6	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	PUNCT	_	6	punct	_	SpaceAfter=No

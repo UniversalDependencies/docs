@@ -9,32 +9,32 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-41 tokens (3%) have a non-empty value of `Reflex`.
+42 tokens (3%) have a non-empty value of `Reflex`.
 28 types (6%) occur at least once with a non-empty value of `Reflex`.
 22 lemmas (7%) occur at least once with a non-empty value of `Reflex`.
-The feature is used with 4 part-of-speech tags: <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> (24; 2% instances), <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (15; 1% instances), <tt><a href="aqz_tudet-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> (24; 2% instances), <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (16; 1% instances), <tt><a href="aqz_tudet-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-24 <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> tokens (9% of all `VERB` tokens) have a non-empty value of `Reflex`.
+24 <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> tokens (8% of all `VERB` tokens) have a non-empty value of `Reflex`.
 
 The most frequent other feature values with which `VERB` and `Reflex` co-occurred: <tt><a href="aqz_tudet-feat-Person.html">Person</a></tt><tt>=3</tt> (24; 100%), <tt><a href="aqz_tudet-feat-Trans.html">Trans</a></tt><tt>=EMPTY</tt> (23; 96%), <tt><a href="aqz_tudet-feat-Tv.html">Tv</a></tt><tt>=EMPTY</tt> (13; 54%).
 
 `VERB` tokens may have the following values of `Reflex`:
 
 * `Yes` (24; 100% of non-empty `Reflex`): <em>teita, teeta, teimaj, tekwata, teakata, teaota, teera, teipa, teipara, tejã</em>
-* `EMPTY` (254): <em>koa, ata, tʃopa, at, ka, put, õkwa, aj, ikoa, ko</em>
+* `EMPTY` (264): <em>ata, koa, tʃopa, at, ka, put, tʃe, õkwa, aj, ikoa</em>
 
 `Reflex` seems to be **lexical feature** of `VERB`. 100% lemmas (12) occur only with one value of `Reflex`.
 
 ### `NOUN`
 
-15 <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> tokens (4% of all `NOUN` tokens) have a non-empty value of `Reflex`.
+16 <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> tokens (4% of all `NOUN` tokens) have a non-empty value of `Reflex`.
 
 `NOUN` tokens may have the following values of `Reflex`:
 
-* `Yes` (15; 100% of non-empty `Reflex`): <em>jen, pe, po, teten, epo, opo, teatap, teimaj, teimi, teip</em>
-* `EMPTY` (376): <em>ɨkɨ, pi, aramĩra, pero, aparapia, õjpe, ek, etɨ, kɨ, kɨp</em>
+* `Yes` (16; 100% of non-empty `Reflex`): <em>pe, jen, po, teten, epo, opo, teatap, teimaj, teimi, teip</em>
+* `EMPTY` (387): <em>ɨkɨ, pero, pi, aramĩra, aparapia, õjpe, apara, ek, etɨ, kwiri</em>
 
 `Reflex` seems to be **lexical feature** of `NOUN`. 100% lemmas (12) occur only with one value of `Reflex`.
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `AUX` and `Reflex` co-occurred
 `AUX` tokens may have the following values of `Reflex`:
 
 * `Yes` (1; 100% of non-empty `Reflex`): <em>tejã</em>
-* `EMPTY` (19): <em>ka, tʃe, iko, ojã, otoa, ejã, etoa, koa, piro, tejãkwa</em>
+* `EMPTY` (21): <em>tʃe, ka, iko, ojã, otoa, ejã, etoa, koa, piro, tejãkwa</em>
 
 ### `PRON`
 

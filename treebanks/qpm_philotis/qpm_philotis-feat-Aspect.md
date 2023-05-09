@@ -93,7 +93,7 @@ The 10 most frequent relations where parent and child node agree in `Aspect`:
 <tt>VERB --[<tt><a href="qpm_philotis-dep-dep.html">dep</a></tt>]--> VERB</tt> (27; 57%),
 <tt>VERB --[<tt><a href="qpm_philotis-dep-iobj.html">iobj</a></tt>]--> VERB</tt> (22; 79%),
 <tt>VERB --[<tt><a href="qpm_philotis-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (20; 59%),
-<tt>VERB --[<tt><a href="qpm_philotis-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (14; 70%),
+<tt>VERB --[<tt><a href="qpm_philotis-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (13; 72%),
 <tt>VERB --[<tt><a href="qpm_philotis-dep-obl.html">obl</a></tt>]--> VERB</tt> (9; 60%),
 <tt>VERB --[<tt><a href="qpm_philotis-dep-acl.html">acl</a></tt>]--> VERB</tt> (1; 100%).
 

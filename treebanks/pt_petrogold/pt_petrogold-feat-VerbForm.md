@@ -93,9 +93,9 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="pt_petrogold-dep-conj.html">conj</a></tt>]--> VERB</tt> (906; 72%),
-<tt>VERB --[<tt><a href="pt_petrogold-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (273; 52%),
-<tt>VERB --[<tt><a href="pt_petrogold-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (33; 62%),
+<tt>VERB --[<tt><a href="pt_petrogold-dep-conj.html">conj</a></tt>]--> VERB</tt> (905; 72%),
+<tt>VERB --[<tt><a href="pt_petrogold-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (273; 51%),
+<tt>VERB --[<tt><a href="pt_petrogold-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (34; 63%),
 <tt>VERB --[<tt><a href="pt_petrogold-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="pt_petrogold-dep-conj.html">conj</a></tt>]--> AUX</tt> (1; 100%),
 <tt>VERB --[<tt><a href="pt_petrogold-dep-obl.html">obl</a></tt>]--> VERB</tt> (1; 100%).

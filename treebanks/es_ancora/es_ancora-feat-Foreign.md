@@ -23,7 +23,7 @@ The most frequent other feature values with which `DET` and `Foreign` co-occurre
 `DET` tokens may have the following values of `Foreign`:
 
 * `Yes` (8; 100% of non-empty `Foreign`): <em>Al, A, la</em>
-* `EMPTY` (84239): <em>el, la, los, un, las, una, su, sus, este, esta</em>
+* `EMPTY` (84394): <em>el, la, los, un, las, una, su, sus, este, esta</em>
 
 ### `NOUN`
 

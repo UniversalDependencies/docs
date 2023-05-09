@@ -49,7 +49,7 @@ The following 8 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 6	mhòr	mòr	ADJ	Aq-smd	Case=Dat|Gender=Masc|Number=Sing	5	amod	_	_
 7	a-neist	a-neist	ADV	Rt	_	5	advmod	_	_
 8	a	a	PART	Uv	PartType=Voc	9	case:voc	_	_
-9	[Name]	[Name]	PROPN	Nn-mv	Case=Voc|Gender=Masc	1	vocative	_	_
+9	[Name]	[Name]	PROPN	Nn-mv	Case=Voc|Gender=Masc	1	vocative	_	Anonymised=Yes
 
 ~~~
 
@@ -66,7 +66,7 @@ The following 8 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 4	do	do	DET	Dp2s	Number=Sing|Person=2|Poss=Yes	5	nmod:poss	_	_
 5	dheidhinn-sa	deidhinn	ADP	Nf---e	Form=Emp	0	root	_	_
 6	a	a	PART	Uv	PartType=Voc	7	case:voc	_	_
-7	[Name]	[Name]	PROPN	Nn-mv	Case=Voc|Gender=Masc	5	vocative	_	_
+7	[Name]	[Name]	PROPN	Nn-mv	Case=Voc|Gender=Masc	5	vocative	_	Anonymised=Yes
 
 ~~~
 

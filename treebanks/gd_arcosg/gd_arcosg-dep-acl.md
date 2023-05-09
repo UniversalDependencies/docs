@@ -9,12 +9,36 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: <tt><a href="gd_arcosg-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-19 nodes (0%) are attached to their parents as `acl`.
+45 nodes (0%) are attached to their parents as `acl`.
 
-19 instances of `acl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.26315789473684.
+45 instances of `acl` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.64444444444444.
 
-The following 3 pairs of parts of speech are connected with `acl`: <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (10; 53% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (5; 26% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (4; 21% instances).
+The following 5 pairs of parts of speech are connected with `acl`: <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (26; 58% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (10; 22% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (6; 13% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 8 acl	color:blue
+1	Tha	bi	VERB	V-p	Tense=Pres	0	root	_	_
+2	dearbhadh	dearbhadh	NOUN	Ncsmn	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+3	air	air	ADP	Sp	_	5	case	_	_
+4	a’	an	DET	Tdsf	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	chùis	cùis	NOUN	Ncsfd	Case=Dat|Gender=Fem|Number=Sing	1	xcomp:pred	_	_
+6	do	do	ADP	Sp	_	8	obl	_	_
+7	nach	nach	PART	Qn	PartType=Cmpl|Polarity=Neg	8	mark:prt	_	_
+8	tug	toir	VERB	V-s--d	Tense=Past	2	acl	_	_
+9	Mac	Mac	PART	Up	PartType=Pat	8	nsubj	_	_
+10	na	an	DET	Tdsfg	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	flat:name	_	_
+11	Ceàrdaich	Ceàrdaich	PROPN	Nn	_	9	flat:name	_	_
+12	an	an	DET	Tdsf	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	aire	aire	NOUN	Ncsfn	Case=Nom|Gender=Fem|Number=Sing	8	obj	_	SpaceAfter=No
+14	.	.	PUNCT	Fe	_	1	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -47,34 +71,6 @@ The following 3 pairs of parts of speech are connected with `acl`: <tt><a href="
 22	dol	rach	NOUN	Nv	VerbForm=Vnoun	18	xcomp:pred	_	_
 23	nas	nas	PART	Uc	PartType=Comp	24	mark:prt	_	_
 24	motha	math	ADJ	Apc	Degree=Cmp,Sup	22	advmod	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 11 acl	color:blue
-1	am	an	DET	Tdsm	Gender=Masc|Number=Sing	2	det	_	_
-2	ball	ball	NOUN	Ncsmn	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
-3	aig	aig	ADP	Sp	_	4	case	_	_
-4	Ryovitch	Ryovitch	PROPN	Nn	_	2	xcomp:pred	_	_
-5	ann	ann	ADV	Rs	_	2	advmod	_	_
-6	a-siud	a-siud	ADV	Rs	_	5	fixed	_	_
-7	agus	agus	CCONJ	Cc	_	8	cc	_	_
-8	tha	bi	VERB	V-p	Tense=Pres	2	conj	_	_
-9	fhios	fios	NOUN	Ncsmn	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
-10	g'	g'	PART	Qa	PartType=Cmpl	11	mark:prt	_	_
-11	eil	bi	VERB	V-p--d	Tense=Pres	9	acl	_	_
-12	Gough	Gough	PROPN	Nn	_	11	nsubj	_	_
-13	a'	ag	PART	Sa	_	14	case	_	_
-14	dol	rach	NOUN	Nv	VerbForm=Vnoun	11	xcomp:pred	_	_
-15	troimh-chèile	troimh-chèile	ADV	Rg	_	14	advmod	_	_
-16	ann	ann	ADV	Rs	_	14	advmod	_	_
-17	an	an	ADV	Rs	_	16	fixed	_	_
-18	siud	siud	ADV	Rs	_	16	fixed	_	_
 
 ~~~
 

@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>que</em> (<tt><a href="nhi_itml-pos-S
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 0.948718 (the average of all parts of speech is 1.484055).
+The form / lemma ratio of `SCONJ` is 0.948718 (the average of all parts of speech is 1.484900).
 
 The 1st highest number of forms (3) was observed with the lemma “_”: <em>ihcuac, nik, para</em>.
 

@@ -11,14 +11,14 @@ It occurs with 4 different values: `Count`, `Dual`, `Plur`, `Sing`.
 
 26416 tokens (54%) have a non-empty value of `Number`.
 10254 types (89%) occur at least once with a non-empty value of `Number`.
-4840 lemmas (84%) occur at least once with a non-empty value of `Number`.
-The feature is used with 9 part-of-speech tags: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (11121; 23% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (4264; 9% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (3467; 7% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (3132; 6% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (2024; 4% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (2023; 4% instances), <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (244; 1% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (140; 0% instances), <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+4852 lemmas (84%) occur at least once with a non-empty value of `Number`.
+The feature is used with 9 part-of-speech tags: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (11121; 23% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (4264; 9% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (3467; 7% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (3131; 6% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (2024; 4% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (2023; 4% instances), <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (245; 1% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (140; 0% instances), <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
 11121 <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (5836; 52%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (5835; 52%).
 
 `NOUN` tokens may have the following values of `Number`:
 
@@ -95,19 +95,19 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
   <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="orv_rnc-feat-NameType.html">NameType</a></tt><tt>=Sur</tt></tt></td><td><em>Ондреев</em></td><td></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (1067) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (1069) occur only with one value of `Number`.
 
 ### `VERB`
 
-3132 <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> tokens (76% of all `VERB` tokens) have a non-empty value of `Number`.
+3131 <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> tokens (76% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="orv_rnc-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (2417; 77%), <tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2253; 72%), <tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2103; 67%), <tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (2062; 66%), <tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1830; 58%), <tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1818; 58%), <tt><a href="orv_rnc-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (1633; 52%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1595; 51%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="orv_rnc-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (2416; 77%), <tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2252; 72%), <tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2102; 67%), <tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (2062; 66%), <tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1830; 58%), <tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1818; 58%), <tt><a href="orv_rnc-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (1633; 52%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1594; 51%).
 
 `VERB` tokens may have the following values of `Number`:
 
 * `Dual` (3; 0% of non-empty `Number`): <em>полꙋчи(с)те, уставистася, хотѣсте</em>
 * `Plur` (880; 28% of non-empty `Number`): <em>привезли, пришли, битых, пригнали, померли, посланы, пошли, сажены, сказали, учнутъ</em>
-* `Sing` (2249; 72% of non-empty `Number`): <em>смерено, взято, принето, велѣно, привез, велѣлъ, сказал, велено, бьет, взят</em>
+* `Sing` (2248; 72% of non-empty `Number`): <em>смерено, взято, принето, велѣно, привез, велѣлъ, сказал, велено, бьет, взят</em>
 * `EMPTY` (1011): <em>велет(ь), имати, платить, сбирать, взять, велеть, донят(ь), чинить, быть, давать</em>
 
 <table>
@@ -212,14 +212,14 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 ### `AUX`
 
-244 <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> tokens (72% of all `AUX` tokens) have a non-empty value of `Number`.
+245 <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> tokens (72% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="orv_rnc-feat-Analyt.html">Analyt</a></tt><tt>=EMPTY</tt> (226; 93%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (188; 77%), <tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (175; 72%), <tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (169; 69%), <tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (155; 64%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="orv_rnc-feat-Analyt.html">Analyt</a></tt><tt>=EMPTY</tt> (227; 93%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (189; 77%), <tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (176; 72%), <tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (170; 69%), <tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (156; 64%).
 
 `AUX` tokens may have the following values of `Number`:
 
 * `Plur` (61; 25% of non-empty `Number`): <em>были, есте, будутъ, суть, есмя, быхом, бяху, бывшіꙗ, бꙋдꙋт, бꙗхꙋ</em>
-* `Sing` (183; 75% of non-empty `Number`): <em>есть, было, бы, будет, былъ, еси, бысть, буди, была, был</em>
+* `Sing` (184; 75% of non-empty `Number`): <em>есть, было, бы, будет, былъ, еси, бысть, буди, была, был</em>
 * `EMPTY` (96): <em>бы, б, быть, будучи, бъ, быти, быт(ь), быт[и]</em>
 
 <table>
@@ -311,10 +311,10 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="orv_rnc-dep-amod.html">amod</a></tt>]--> ADJ</tt> (3307; 96%),
 <tt>NOUN --[<tt><a href="orv_rnc-dep-det.html">det</a></tt>]--> DET</tt> (1593; 97%),
-<tt>NOUN --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1123; 67%),
+<tt>NOUN --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1122; 67%),
 <tt>PROPN --[<tt><a href="orv_rnc-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (1048; 99%),
-<tt>NOUN --[<tt><a href="orv_rnc-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1017; 54%),
-<tt>VERB --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> VERB</tt> (759; 74%),
+<tt>NOUN --[<tt><a href="orv_rnc-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1016; 54%),
+<tt>VERB --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> VERB</tt> (758; 74%),
 <tt>VERB --[<tt><a href="orv_rnc-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (580; 83%),
 <tt>NOUN --[<tt><a href="orv_rnc-dep-appos.html">appos</a></tt>]--> PROPN</tt> (547; 90%),
 <tt>VERB --[<tt><a href="orv_rnc-dep-obl.html">obl</a></tt>]--> PROPN</tt> (458; 69%),

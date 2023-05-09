@@ -9,20 +9,20 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Card`, `Frac`, `Mult`, `Ord`.
 
-140 tokens (1%) have a non-empty value of `NumType`.
+135 tokens (1%) have a non-empty value of `NumType`.
 1 types (0) occur at least once with a non-empty value of `NumType`.
 1 lemmas (0) occur at least once with a non-empty value of `NumType`.
-The feature is used with 5 part-of-speech tags: <tt><a href="en_gumreddit-pos-NUM.html">NUM</a></tt> (112; 1% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> (16; 0% instances), <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> (10; 0% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_gumreddit-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The feature is used with 5 part-of-speech tags: <tt><a href="en_gumreddit-pos-NUM.html">NUM</a></tt> (107; 1% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> (16; 0% instances), <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> (10; 0% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_gumreddit-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `NUM`
 
-112 <tt><a href="en_gumreddit-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
+107 <tt><a href="en_gumreddit-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="en_gumreddit-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (61; 54%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="en_gumreddit-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (56; 52%).
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (112; 100% of non-empty `NumType`): <em>_</em>
+* `Card` (107; 100% of non-empty `NumType`): <em>_</em>
 
 ### `ADJ`
 
@@ -45,7 +45,7 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 
 * `Mult` (4; 40% of non-empty `NumType`): <em>_</em>
 * `Ord` (6; 60% of non-empty `NumType`): <em>_</em>
-* `EMPTY` (1074): <em>_</em>
+* `EMPTY` (1108): <em>_</em>
 
 ### `NOUN`
 
@@ -56,7 +56,7 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 `NOUN` tokens may have the following values of `NumType`:
 
 * `Frac` (1; 100% of non-empty `NumType`): <em>_</em>
-* `EMPTY` (2688): <em>_</em>
+* `EMPTY` (2662): <em>_</em>
 
 ### `PROPN`
 
@@ -67,7 +67,7 @@ The most frequent other feature values with which `PROPN` and `NumType` co-occur
 `PROPN` tokens may have the following values of `NumType`:
 
 * `Card` (1; 100% of non-empty `NumType`): <em>_</em>
-* `EMPTY` (233): <em>_</em>
+* `EMPTY` (232): <em>_</em>
 
 ## Relations with Agreement in `NumType`
 

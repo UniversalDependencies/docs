@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Old_East_Slavic-RNC: POS Tags: `PROPN`
 
-There are 1070 `PROPN` lemmas (18%), 1684 `PROPN` types (14%) and 3469 `PROPN` tokens (7%).
+There are 1072 `PROPN` lemmas (18%), 1684 `PROPN` types (14%) and 3469 `PROPN` tokens (7%).
 Out of 17 observed tags, the rank of `PROPN` is: 3 in number of lemmas, 4 in number of types and 7 in number of tokens.
 
 The 10 most frequent `PROPN` lemmas: <em>Москва, Иванъ, Петръ, Ивановичь, Коньково, Григорей, Кунгуръ, Борисъ, Ивашка, Васильевичь</em>
 
 The 10 most frequent `PROPN` types:  <em>Москвѣ, Москве, Кунгурѣ, Кон(ь)кова, Ивановичю, Иван, Ивана, Борису, Петр, Григорья</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="orv_rnc-pos-X.html">X</a></tt> 48, <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> 15, <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> 2), <em>великий</em> (<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 318, <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> 3), <em>троица</em> (<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> 1), <em>гора</em> (<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> 12, <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> 1), <em>градъ</em> (<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> 19, <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>великий</em> (<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 318, <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> 3), <em>троица</em> (<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> 1), <em>гора</em> (<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> 12, <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> 1), <em>градъ</em> (<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> 19, <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>Савел(ь)ев</em> (<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> 11, <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 1), <em>Иванова</em> (<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> 9, <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 3), <em>Великое</em> (<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 1), <em>Михаилова</em> (<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 2), <em>Петрова</em> (<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> 3), <em>Литву</em> (<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> 1), <em>Микулинском</em> (<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 1), <em>Августа</em> (<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> 1), <em>Васильевѣ</em> (<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> 1), <em>Петрову</em> (<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> 1)
 
@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>Савел(ь)ев</em> (<tt><a href=
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.573832 (the average of all parts of speech is 1.991385).
+The form / lemma ratio of `PROPN` is 1.570896 (the average of all parts of speech is 1.988362).
 
 The 1st highest number of forms (12) was observed with the lemma “Васильевичь”: <em>ВАСИЛЬЕВИЧА, Васил[ь]евич, Васил[ь]евичем, Васил[ь]евичю, Василевичю, Васильевич, Васильевича, Васильевичу, Васильевичъ, Васильевичь, Васильевичю, Васильевичя</em>.
 

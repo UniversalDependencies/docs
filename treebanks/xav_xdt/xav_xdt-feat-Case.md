@@ -9,41 +9,40 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Dat`, `Ins`.
 
-5 tokens (4%) have a non-empty value of `Case`.
-3 types (4%) occur at least once with a non-empty value of `Case`.
-3 lemmas (6%) occur at least once with a non-empty value of `Case`.
-The feature is used with 3 part-of-speech tags: <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> (2; 2% instances), <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> (2; 2% instances), <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> (1; 1% instances).
-
-### `ADP`
-
-2 <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> tokens (50% of all `ADP` tokens) have a non-empty value of `Case`.
-
-The most frequent other feature values with which `ADP` and `Case` co-occurred: <tt><a href="xav_xdt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (2; 100%), <tt><a href="xav_xdt-feat-Person.html">Person</a></tt><tt>=1</tt> (2; 100%), <tt><a href="xav_xdt-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (2; 100%).
-
-`ADP` tokens may have the following values of `Case`:
-
-* `Dat` (2; 100% of non-empty `Case`): <em>wasima</em>
-* `EMPTY` (2): <em>ãma, ʔré</em>
-
-### `PART`
-
-2 <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> tokens (5% of all `PART` tokens) have a non-empty value of `Case`.
-
-The most frequent other feature values with which `PART` and `Case` co-occurred: <tt><a href="xav_xdt-feat-Emph.html">Emph</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="xav_xdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%).
-
-`PART` tokens may have the following values of `Case`:
-
-* `Ins` (2; 100% of non-empty `Case`): <em>na</em>
-* `EMPTY` (37): <em>hã, zaʔra, norĩ, ma, norĩhã, si, za, ãma, Te, ni</em>
+28 tokens (2%) have a non-empty value of `Case`.
+11 types (3%) occur at least once with a non-empty value of `Case`.
+9 lemmas (4%) occur at least once with a non-empty value of `Case`.
+The feature is used with 3 part-of-speech tags: <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> (24; 2% instances), <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `PRON`
 
-1 <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> tokens (6% of all `PRON` tokens) have a non-empty value of `Case`.
+24 <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> tokens (41% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="xav_xdt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1; 100%), <tt><a href="xav_xdt-feat-Person.html">Person</a></tt><tt>=1</tt> (1; 100%), <tt><a href="xav_xdt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="xav_xdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="xav_xdt-feat-Emph.html">Emph</a></tt><tt>=EMPTY</tt> (24; 100%), <tt><a href="xav_xdt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (24; 100%), <tt><a href="xav_xdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (17; 71%).
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Dat` (1; 100% of non-empty `Case`): <em>wama</em>
-* `EMPTY` (15): <em>wa, ma, te, dzahuré, dzaʔrani, ni, uburé, waré</em>
+* `Dat` (23; 96% of non-empty `Case`): <em>aima, tãma, wama, dama, wasima, ĩma, ĩĩsima</em>
+* `Ins` (1; 4% of non-empty `Case`): <em>asina</em>
+* `EMPTY` (35): <em>wanorĩhã, õhã, Taha, aihini, anorĩwa'wahã, õnorĩhã, 'wa, ni'wa, te, uburé</em>
+
+### `ADP`
+
+3 <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> tokens (3% of all `ADP` tokens) have a non-empty value of `Case`.
+
+`ADP` tokens may have the following values of `Case`:
+
+* `Dat` (3; 100% of non-empty `Case`): <em>ma</em>
+* `EMPTY` (109): <em>na, ãma, me, u, wi, dzô, 're, ré, baba, pari</em>
+
+### `NOUN`
+
+1 <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Case`.
+
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="xav_xdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%).
+
+`NOUN` tokens may have the following values of `Case`:
+
+* `Ins` (1; 100% of non-empty `Case`): <em>Wasina</em>
+* `EMPTY` (343): <em>marĩ, aibö, 'watébrémi, pi'õ, a'uwẽ, buru, wapté, ba'õtõ, Mare, bötö</em>
 

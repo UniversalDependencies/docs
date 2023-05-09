@@ -24,7 +24,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 * `Cmp` (440; 51% of non-empty `Degree`): <em>parempi, suurempi, vanhempi, mukavampi, parempaa, pienempiä, pitempi, aiempien, aikaisempaa, isompi</em>
 * `Sup` (430; 49% of non-empty `Degree`): <em>suurin, parasta, paras, mahdollisimman, parhaat, pahin, nopein, suurimman, suurimmat, tärkeintä</em>
-* `EMPTY` (9621): <em>koko, hyvä, viime, ensi, hyvää, uusi, oma, ensimmäinen, uutta, uuden</em>
+* `EMPTY` (9620): <em>koko, hyvä, viime, ensi, hyvää, uusi, oma, ensimmäinen, uutta, uuden</em>
 
 <table>
   <tr><th>Paradigm <i>uusi</i></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -112,7 +112,7 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
 
 * `Cmp` (6; 67% of non-empty `Degree`): <em>connerympään, demarimpaa, ihmeempää, kiireemmäksi, rokimpaa, turvemmassa</em>
 * `Sup` (3; 33% of non-empty `Degree`): <em>herkuin, ihmisintä, nikseimpänä</em>
-* `EMPTY` (37027): <em>mies, vuoden, vuotta, asia, aikaa, äiti, vuonna, kertaa, osa, markkaa</em>
+* `EMPTY` (37022): <em>mies, vuoden, vuotta, asia, aikaa, äiti, vuonna, kertaa, osa, markkaa</em>
 
 ### `ADP`
 
@@ -133,7 +133,7 @@ The most frequent other feature values with which `VERB` and `Degree` co-occurre
 `VERB` tokens may have the following values of `Degree`:
 
 * `Cmp` (1; 100% of non-empty `Degree`): <em>korostavampana</em>
-* `EMPTY` (26438): <em>on, oli, ole, olla, tuli, ollut, tulee, ei, sanoi, tehdä</em>
+* `EMPTY` (27195): <em>on, oli, ole, tulee, olla, tuli, ollut, saa, ei, sanoi</em>
 
 ## Relations with Agreement in `Degree`
 

@@ -79,7 +79,7 @@ The 10 most frequent ambiguous types:  <em>che</em> (<tt><a href="it_vit-pos-PRO
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.020833 (the average of all parts of speech is 1.498207).
+The form / lemma ratio of `SCONJ` is 1.020833 (the average of all parts of speech is 1.501634).
 
 The 1st highest number of forms (2) was observed with the lemma “come”: <em>com', come</em>.
 
@@ -98,21 +98,19 @@ Examples: <em>che, se, perché, quando, mentre, come, qualora, quanto, poiché, 
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 13 different relations: <tt><a href="it_vit-dep-mark.html">mark</a></tt> (1995; 89% instances), <tt><a href="it_vit-dep-fixed.html">fixed</a></tt> (205; 9% instances), <tt><a href="it_vit-dep-advcl.html">advcl</a></tt> (11; 0% instances), <tt><a href="it_vit-dep-case.html">case</a></tt> (8; 0% instances), <tt><a href="it_vit-dep-obj.html">obj</a></tt> (7; 0% instances), <tt><a href="it_vit-dep-cc.html">cc</a></tt> (3; 0% instances), <tt><a href="it_vit-dep-nsubj.html">nsubj</a></tt> (3; 0% instances), <tt><a href="it_vit-dep-nsubj-pass.html">nsubj:pass</a></tt> (3; 0% instances), <tt><a href="it_vit-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="it_vit-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="it_vit-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="it_vit-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="it_vit-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 12 different relations: <tt><a href="it_vit-dep-mark.html">mark</a></tt> (1996; 89% instances), <tt><a href="it_vit-dep-fixed.html">fixed</a></tt> (205; 9% instances), <tt><a href="it_vit-dep-advcl.html">advcl</a></tt> (11; 0% instances), <tt><a href="it_vit-dep-case.html">case</a></tt> (8; 0% instances), <tt><a href="it_vit-dep-obj.html">obj</a></tt> (7; 0% instances), <tt><a href="it_vit-dep-cc.html">cc</a></tt> (3; 0% instances), <tt><a href="it_vit-dep-nsubj.html">nsubj</a></tt> (3; 0% instances), <tt><a href="it_vit-dep-nsubj-pass.html">nsubj:pass</a></tt> (3; 0% instances), <tt><a href="it_vit-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="it_vit-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="it_vit-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="it_vit-dep-nmod.html">nmod</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 11 different parts of speech: <tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (1696; 76% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (175; 8% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (136; 6% instances), <tt><a href="it_vit-pos-ADV.html">ADV</a></tt> (109; 5% instances), <tt><a href="it_vit-pos-ADP.html">ADP</a></tt> (77; 3% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (18; 1% instances), <tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt> (13; 1% instances), <tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (7; 0% instances), <tt><a href="it_vit-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="it_vit-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="it_vit-pos-INTJ.html">INTJ</a></tt> (2; 0% instances)
+Parents of `SCONJ` nodes belong to 12 different parts of speech: <tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (1696; 76% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (175; 8% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (135; 6% instances), <tt><a href="it_vit-pos-ADV.html">ADV</a></tt> (109; 5% instances), <tt><a href="it_vit-pos-ADP.html">ADP</a></tt> (77; 3% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (19; 1% instances), <tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt> (13; 1% instances), <tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="it_vit-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="it_vit-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="it_vit-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="it_vit-pos-SYM.html">SYM</a></tt> (2; 0% instances)
 
-2218 (99%) `SCONJ` nodes are leaves.
+2219 (99%) `SCONJ` nodes are leaves.
 
 18 (1%) `SCONJ` nodes have one child.
 
 3 (0%) `SCONJ` nodes have two children.
 
-1 (0%) `SCONJ` nodes have three or more children.
+The highest child degree of a `SCONJ` node is 2.
 
-The highest child degree of a `SCONJ` node is 3.
+Children of `SCONJ` nodes are attached using 9 different relations: <tt><a href="it_vit-dep-fixed.html">fixed</a></tt> (9; 38% instances), <tt><a href="it_vit-dep-punct.html">punct</a></tt> (4; 17% instances), <tt><a href="it_vit-dep-advcl.html">advcl</a></tt> (2; 8% instances), <tt><a href="it_vit-dep-amod.html">amod</a></tt> (2; 8% instances), <tt><a href="it_vit-dep-conj.html">conj</a></tt> (2; 8% instances), <tt><a href="it_vit-dep-nmod.html">nmod</a></tt> (2; 8% instances), <tt><a href="it_vit-dep-case.html">case</a></tt> (1; 4% instances), <tt><a href="it_vit-dep-cc.html">cc</a></tt> (1; 4% instances), <tt><a href="it_vit-dep-obl-agent.html">obl:agent</a></tt> (1; 4% instances)
 
-Children of `SCONJ` nodes are attached using 10 different relations: <tt><a href="it_vit-dep-fixed.html">fixed</a></tt> (9; 33% instances), <tt><a href="it_vit-dep-punct.html">punct</a></tt> (5; 19% instances), <tt><a href="it_vit-dep-nmod.html">nmod</a></tt> (3; 11% instances), <tt><a href="it_vit-dep-advcl.html">advcl</a></tt> (2; 7% instances), <tt><a href="it_vit-dep-amod.html">amod</a></tt> (2; 7% instances), <tt><a href="it_vit-dep-conj.html">conj</a></tt> (2; 7% instances), <tt><a href="it_vit-dep-advmod.html">advmod</a></tt> (1; 4% instances), <tt><a href="it_vit-dep-case.html">case</a></tt> (1; 4% instances), <tt><a href="it_vit-dep-cc.html">cc</a></tt> (1; 4% instances), <tt><a href="it_vit-dep-obl-agent.html">obl:agent</a></tt> (1; 4% instances)
-
-Children of `SCONJ` nodes belong to 8 different parts of speech: <tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (5; 19% instances), <tt><a href="it_vit-pos-SCONJ.html">SCONJ</a></tt> (5; 19% instances), <tt><a href="it_vit-pos-ADV.html">ADV</a></tt> (4; 15% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (4; 15% instances), <tt><a href="it_vit-pos-ADP.html">ADP</a></tt> (3; 11% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (2; 7% instances), <tt><a href="it_vit-pos-CCONJ.html">CCONJ</a></tt> (2; 7% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (2; 7% instances)
+Children of `SCONJ` nodes belong to 8 different parts of speech: <tt><a href="it_vit-pos-SCONJ.html">SCONJ</a></tt> (5; 21% instances), <tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (4; 17% instances), <tt><a href="it_vit-pos-ADP.html">ADP</a></tt> (3; 13% instances), <tt><a href="it_vit-pos-ADV.html">ADV</a></tt> (3; 13% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (3; 13% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (2; 8% instances), <tt><a href="it_vit-pos-CCONJ.html">CCONJ</a></tt> (2; 8% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (2; 8% instances)
 

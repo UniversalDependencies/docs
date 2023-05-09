@@ -7,49 +7,49 @@ udver: '2'
 ## Treebank Statistics: UD_Irish-TwittIrish: Relations: `det`
 
 This relation is universal.
+There are 1 language-specific subtypes of `det`: <tt><a href="ga_twittirish-dep-det-poss.html">det:poss</a></tt>.
 
-793 nodes (5%) are attached to their parents as `det`.
+2476 nodes (5%) are attached to their parents as `det`.
 
-650 instances of `det` (82%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.08827238335435.
+2063 instances of `det` (83%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.09248788368336.
 
-The following 15 pairs of parts of speech are connected with `det`: <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-DET.html">DET</a></tt> (577; 73% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-DET.html">DET</a></tt> (160; 20% instances), <tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_twittirish-pos-DET.html">DET</a></tt> (18; 2% instances), <tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt> (8; 1% instances), <tt><a href="ga_twittirish-pos-X.html">X</a></tt>-<tt><a href="ga_twittirish-pos-DET.html">DET</a></tt> (6; 1% instances), <tt><a href="ga_twittirish-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_twittirish-pos-DET.html">DET</a></tt> (5; 1% instances), <tt><a href="ga_twittirish-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_twittirish-pos-DET.html">DET</a></tt> (4; 1% instances), <tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_twittirish-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_twittirish-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="ga_twittirish-pos-DET.html">DET</a></tt>-<tt><a href="ga_twittirish-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="ga_twittirish-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-PART.html">PART</a></tt>-<tt><a href="ga_twittirish-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-PART.html">PART</a></tt>-<tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-X.html">X</a></tt>-<tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 18 pairs of parts of speech are connected with `det`: <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-DET.html">DET</a></tt> (1823; 74% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-DET.html">DET</a></tt> (489; 20% instances), <tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_twittirish-pos-DET.html">DET</a></tt> (33; 1% instances), <tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt> (30; 1% instances), <tt><a href="ga_twittirish-pos-X.html">X</a></tt>-<tt><a href="ga_twittirish-pos-DET.html">DET</a></tt> (28; 1% instances), <tt><a href="ga_twittirish-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_twittirish-pos-DET.html">DET</a></tt> (16; 1% instances), <tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_twittirish-pos-DET.html">DET</a></tt> (12; 0% instances), <tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_twittirish-pos-DET.html">DET</a></tt> (10; 0% instances), <tt><a href="ga_twittirish-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_twittirish-pos-DET.html">DET</a></tt> (10; 0% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt> (10; 0% instances), <tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="ga_twittirish-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="ga_twittirish-pos-DET.html">DET</a></tt>-<tt><a href="ga_twittirish-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="ga_twittirish-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_twittirish-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-PART.html">PART</a></tt>-<tt><a href="ga_twittirish-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-PART.html">PART</a></tt>-<tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-SYM.html">SYM</a></tt>-<tt><a href="ga_twittirish-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-X.html">X</a></tt>-<tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 10 det	color:blue
-1	@Sinabhfuil	@Sinabhfuil	PROPN	_	_	2	vocative:mention	_	_
-2	tá	bí	VERB	_	_	0	root	_	Lang=ga
-3	tagairt	tagairt	NOUN	_	_	2	nsubj	_	Lang=ga
-4	san	i	ADP	_	_	5	case	_	Lang=ga
-5	alt	alt	NOUN	_	_	2	xcomp:pred	_	Lang=ga
-6	faoi	faoi	ADP	_	_	7	case	_	Lang=ga
-7	achrann	achrann	NOUN	_	_	2	obl	_	Lang=ga
-8	le	le	ADP	_	_	9	case	_	Lang=ga
-9	cumann	cumann	NOUN	_	_	7	nmod	_	Lang=ga
-10	eile	eile	DET	_	_	9	det	_	Lang=ga
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 det	color:blue
+1	An	an	DET	_	_	2	det	_	Lang=ga
+2	gealach	gealach	NOUN	_	_	0	root	_	CorrectForm=ghealach|Lang=ga
+3	anocht	anocht	ADV	_	_	2	advmod	_	Lang=ga
+4	i	i	ADP	_	_	5	case	_	Lang=ga
+5	gConamara	Conamara	PROPN	_	_	2	obl	_	Lang=ga
+6	#moon	#moon	X	_	_	2	parataxis:hashtag	_	Lang=en
+7	#winter	#winter	X	_	_	2	parataxis:hashtag	_	Lang=en
+8	http://t.co/yf2dklCWFi	http://t.co/yf2dklCWFi	SYM	_	_	2	parataxis:url	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 det	color:blue
-1	Go	go	PART	_	_	2	mark:prt	_	Lang=ga
-2	n-éirí	éirigh	VERB	_	_	0	root	_	Lang=ga
-3	an	an	DET	_	_	4	det	_	_
-4	bothar	bóthar	NOUN	_	_	2	nsubj	_	CorrectForm=bóthar|Lang=ga
-5	le	le	ADP	_	_	7	case	_	CorrectForm=leis|Lang=ga
-6	na	an	DET	_	_	7	det	_	Lang=ga
-7	O'Bamas	Obama	PROPN	_	_	2	obl	_	CorrectForm=Obamas|CSType=Intra-word|Lang=en|NonCan=LexInno
-8	#isféidirlinn	#isféidirlinn	X	_	_	2	parataxis:hashtag	_	Lang=ga
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 det	color:blue
+1	Asail	asal	NOUN	_	_	0	root	_	Lang=ga
+2	ar	ar	ADP	_	_	4	case	_	Lang=ga
+3	an	an	DET	_	_	4	det	_	Lang=ga
+4	mBánrach	bánrach	PROPN	_	_	1	nmod	_	Lang=ga
+5	i	i	ADP	_	_	6	case	_	Lang=ga
+6	gConamara	Conamara	PROPN	_	_	1	obl	_	Lang=ga
+7	inniú	inniu	ADV	_	_	1	advmod	_	Lang=ga|SpaceAfter=No
+8	.	.	PUNCT	_	_	1	punct	_	_
+9	http://t.co/Q6RWjMxGIB	http://t.co/Q6RWjMxGIB	SYM	_	_	1	parataxis:url	_	_
 
 ~~~
 
@@ -60,7 +60,7 @@ The following 15 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 8 det	color:blue
-1	@liz_gabay	@liz_gabay	PROPN	_	_	3	vocative:mention	_	Lang=ga
+1	@user1037	@user1037	PROPN	_	_	3	vocative:mention	_	Lang=ga
 2	An	an	DET	_	_	3	det	_	Lang=ga
 3	ceann	ceann	NOUN	_	_	0	root	_	Lang=ga
 4	de	de	ADP	_	_	6	case	_	Lang=ga

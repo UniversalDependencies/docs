@@ -23,7 +23,7 @@ The following 3 pairs of parts of speech are connected with `dep`: <tt><a href="
 # visual-style 18	fgColor:white
 # visual-style 18 20 dep	color:blue
 1	Ninkej	nin	DET	_	_	2	det	2:det	NormalizedForm=ninkeh|NormalizedLemma=nin
-2	conhas	concha	NOUN	_	Typo=Yes	4	nsubj	4:nsubj	NormalizedForm=conhas|NormalizedLemma=koncha
+2	conhas	concha	NOUN	_	Typo=Yes	4	nsubj	4:nsubj	CorrectForm=conchas|NormalizedForm=conhas|NormalizedLemma=koncha
 3	achtoj	achtoj	ADV	_	_	4	advmod	4:advmod	NormalizedForm=achtoh|NormalizedLemma=achtoh
 4	ikkuiliyaj	kuiliya	VERB	_	_	0	root	0:root	NormalizedForm=ikkwiliyah|NormalizedLemma=kwiliya
 5	nipankakauyo	pankakauyo	NOUN	_	_	4	obj	4:obj	NormalizedForm=nipankakauyo|NormalizedLemma=pankakauyo
