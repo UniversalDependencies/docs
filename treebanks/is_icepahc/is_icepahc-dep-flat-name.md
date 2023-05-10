@@ -47,7 +47,7 @@ The following 2 pairs of parts of speech are connected with `flat:name`: <tt><a 
 4	og	og	ADV	ALSO	_	2	advmod	_	IFD_tag=aa|SpaceAfter=No
 5	,	,	PUNCT	,	_	4	punct	_	IFD_tag
 6	að	að	SCONJ	C	_	10	mark	_	IFD_tag=c
-7	inn	hinn	DET	D-N	_	8	det	_	IFD_tag=aa
+7	inn	hinn	DET	D-N	Case=Nom|Gender=Masc|Number=Sing	8	det	_	IFD_tag=gken
 8	helgi	helgur	ADJ	ADJ-N	Case=Acc|Definite=Def|Degree=Pos|Gender=Neut|Number=Sing	10	nsubj	_	IFD_tag=lheovf
 9	andi	andi	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	8	flat:name	_	IFD_tag=nken
 10	kom	koma	VERB	VBDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	ccomp	_	IFD_tag=sfg3eþ

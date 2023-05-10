@@ -74,7 +74,7 @@ The following 6 pairs of parts of speech are connected with `discourse`: <tt><a 
 2	ma	ma	CCONJ	CC	_	4	discourse	_	_
 3	che	che	DET	DE	PronType=Exc	4	det	_	_
 4	umanità	umanità	NOUN	S	Gender=Fem	0	root	_	SpaceAfter=No
-5	..	..	PUNCT	FS	_	4	punct	_	SpaceAfter=\n
+5	..	..	PUNCT	FS	_	4	punct	_	SpacesAfter=\n
 
 ~~~
 

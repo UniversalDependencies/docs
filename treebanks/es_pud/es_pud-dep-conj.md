@@ -24,7 +24,7 @@ The following 29 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 7 10 conj	color:blue
 1	El	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	programa	programa	NOUN	NN	Gender=Masc|Number=Sing	3	nsubj	_	_
-3	gana	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	gana	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	dinero	dinero	NOUN	NN	Gender=Masc|Number=Sing	3	obj	_	_
 5	mediante	mediante	ADP	IN	_	7	case	_	_
 6	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
@@ -43,12 +43,12 @@ The following 29 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 6 conj	color:blue
-1	Le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	2	iobj	_	_
-2	apasiona	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+1	Le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	2	obl:arg	_	_
+2	apasiona	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	guitarra	guitarra	NOUN	NN	Gender=Fem|Number=Sing	2	obj	_	_
 5	y	y	CCONJ	CC	_	6	cc	_	_
-6	dio	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
+6	dio	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
 7	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	concierto	concierto	NOUN	NN	Gender=Masc|Number=Sing	6	obj	_	_
 9	allí	allí	ADV	RB	_	6	advmod	_	_
@@ -67,7 +67,7 @@ The following 29 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 13	fgColor:white
 # visual-style 13 15 conj	color:blue
 1	Weiss	Weiss	PROPN	NNP	Gender=Masc|Number=Sing	3	nsubj:pass	_	_
-2	fue	ser	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	3	aux:pass	_	_
+2	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	_	_
 3	galardonado	galardonar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 4	con	con	ADP	IN	_	6	case	_	_
 5	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_

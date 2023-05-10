@@ -36,7 +36,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 * `Ord` (75; 99% of non-empty `NumType`): <em>první, druhé, prvního, třetí, druhou, šedesátých, druhý, dvacátého, padesátých, prvních</em>
 * `Sets` (1; 1% of non-empty `NumType`): <em>jedni</em>
-* `EMPTY` (2194): <em>další, nové, jižní, severní, hlavní, velká, velké, vlastní, poslední, jiné</em>
+* `EMPTY` (2193): <em>další, nové, jižní, severní, hlavní, velká, velké, vlastní, poslední, jiné</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (18) occur only with one value of `NumType`.
 

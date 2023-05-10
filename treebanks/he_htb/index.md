@@ -16,11 +16,11 @@ Family: Afro-Asiatic, Semitic
 
 This treebank has been part of Universal Dependencies since the UD v1.1 release.
 
-The following people have contributed to making this treebank part of UD: Yoav Goldberg, Reut Tsarfaty, Amir More, Shoval Sadde, Victoria Basmov.
+The following people have contributed to making this treebank part of UD: Yoav Goldberg, Reut Tsarfaty, Amir More, Shoval Sadde, Victoria Basmov, Yuval Pinter.
 
 Repository: [UD_Hebrew-HTB](https://github.com/UniversalDependencies/UD_Hebrew-HTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhe_htb211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhe_htb212)<br />
+Download all treebanks: [UD 2.12](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -29,7 +29,7 @@ Genre: news
 Questions, comments?
 General annotation questions (either Hebrew-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Hebrew-HTB/issues).
-If you want to collaborate, please contact [yoav&nbsp;•&nbsp;goldberg&nbsp;(æt)&nbsp;gmail&nbsp;•&nbsp;com, reut&nbsp;•&nbsp;tsarfaty&nbsp;(æt)&nbsp;gmail&nbsp;•&nbsp;com, habeanf&nbsp;(æt)&nbsp;gmail&nbsp;•&nbsp;com, shovatz&nbsp;(æt)&nbsp;gmail&nbsp;•&nbsp;com, vikasaeta&nbsp;(æt)&nbsp;gmail&nbsp;•&nbsp;com].
+If you want to collaborate, please contact [yoav&nbsp;•&nbsp;goldberg&nbsp;(æt)&nbsp;gmail&nbsp;•&nbsp;com, reut&nbsp;•&nbsp;tsarfaty&nbsp;(æt)&nbsp;gmail&nbsp;•&nbsp;com, habeanf&nbsp;(æt)&nbsp;gmail&nbsp;•&nbsp;com, shovatz&nbsp;(æt)&nbsp;gmail&nbsp;•&nbsp;com, vikasaeta&nbsp;(æt)&nbsp;gmail&nbsp;•&nbsp;com, uvp&nbsp;(æt)&nbsp;cs&nbsp;•&nbsp;bgu&nbsp;•&nbsp;ac&nbsp;•&nbsp;il].
 Development of the treebank happens outside the UD repository.
 If there are bugs, either the original data source or the conversion procedure must be fixed.
 Do not submit pull requests against the UD repository.
@@ -70,7 +70,7 @@ The Universal Dependencies Hebrew Treebank created by:
 
 - The following people were also involved in the creation of v2:
 - Amir More (adding Lemmas, detokenization, v1->v2 conversion)
-- Yuval Pinter (documentation)
+- Yuval Pinter (documentation, v2.12 fix guidelines)
 - Shoval Sadde (documentation, v2 validation and conversion)
 - Victoria Basmov (v2 validation and conversion)
 
@@ -114,17 +114,17 @@ is forthcoming.
 
 ## Relations
 
-[acl](he_htb-dep-acl.html) – [acl:relcl](he_htb-dep-acl-relcl.html) – [advcl](he_htb-dep-advcl.html) – [advmod](he_htb-dep-advmod.html) – [amod](he_htb-dep-amod.html) – [appos](he_htb-dep-appos.html) – [aux](he_htb-dep-aux.html) – [case](he_htb-dep-case.html) – [case:acc](he_htb-dep-case-acc.html) – [case:gen](he_htb-dep-case-gen.html) – [cc](he_htb-dep-cc.html) – [ccomp](he_htb-dep-ccomp.html) – [compound:affix](he_htb-dep-compound-affix.html) – [compound:smixut](he_htb-dep-compound-smixut.html) – [conj](he_htb-dep-conj.html) – [cop](he_htb-dep-cop.html) – [csubj](he_htb-dep-csubj.html) – [dep](he_htb-dep-dep.html) – [det](he_htb-dep-det.html) – [discourse](he_htb-dep-discourse.html) – [dislocated](he_htb-dep-dislocated.html) – [fixed](he_htb-dep-fixed.html) – [flat:name](he_htb-dep-flat-name.html) – [mark](he_htb-dep-mark.html) – [mark:q](he_htb-dep-mark-q.html) – [nmod](he_htb-dep-nmod.html) – [nmod:poss](he_htb-dep-nmod-poss.html) – [nsubj](he_htb-dep-nsubj.html) – [nsubj:cop](he_htb-dep-nsubj-cop.html) – [nummod](he_htb-dep-nummod.html) – [obj](he_htb-dep-obj.html) – [obl](he_htb-dep-obl.html) – [parataxis](he_htb-dep-parataxis.html) – [punct](he_htb-dep-punct.html) – [root](he_htb-dep-root.html) – [xcomp](he_htb-dep-xcomp.html)
+[acl](he_htb-dep-acl.html) – [acl:relcl](he_htb-dep-acl-relcl.html) – [advcl](he_htb-dep-advcl.html) – [advmod](he_htb-dep-advmod.html) – [amod](he_htb-dep-amod.html) – [appos](he_htb-dep-appos.html) – [case](he_htb-dep-case.html) – [case:acc](he_htb-dep-case-acc.html) – [case:gen](he_htb-dep-case-gen.html) – [cc](he_htb-dep-cc.html) – [ccomp](he_htb-dep-ccomp.html) – [compound:affix](he_htb-dep-compound-affix.html) – [compound:smixut](he_htb-dep-compound-smixut.html) – [conj](he_htb-dep-conj.html) – [cop](he_htb-dep-cop.html) – [csubj](he_htb-dep-csubj.html) – [dep](he_htb-dep-dep.html) – [det](he_htb-dep-det.html) – [discourse](he_htb-dep-discourse.html) – [dislocated](he_htb-dep-dislocated.html) – [fixed](he_htb-dep-fixed.html) – [flat:name](he_htb-dep-flat-name.html) – [mark](he_htb-dep-mark.html) – [mark:q](he_htb-dep-mark-q.html) – [nmod](he_htb-dep-nmod.html) – [nmod:poss](he_htb-dep-nmod-poss.html) – [nsubj](he_htb-dep-nsubj.html) – [nsubj:cop](he_htb-dep-nsubj-cop.html) – [nsubj:outer](he_htb-dep-nsubj-outer.html) – [nummod](he_htb-dep-nummod.html) – [obj](he_htb-dep-obj.html) – [obl](he_htb-dep-obl.html) – [parataxis](he_htb-dep-parataxis.html) – [punct](he_htb-dep-punct.html) – [root](he_htb-dep-root.html) – [xcomp](he_htb-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 6216 sentences, 115529 tokens and 161411 syntactic words.</li>
+<li>This corpus contains 6143 sentences, 114648 tokens and 160195 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 19491 tokens (17%) that are not followed by a space.</li>
+<li>This corpus contains 19293 tokens (17%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -132,12 +132,12 @@ is forthcoming.
 </ul>
 
 <ul>
-<li>This corpus contains 1014 types of words that contain both letters and punctuation. Examples: ה_, _של_, _הוא, _הם, _היא, ל_, ב_, את_, של_, _הן, _אני, _אנחנו, ש"ח, על_, מן_, ארה"ב, אל_, יו"ר, צה"ל, _אתה, מנכ"ל, ח"כ, עם_, יד_, דבר_, שם_, בין_, בית_, בריה"ם, חבר_, בית"ר, תפקיד_, ד"ר, פנים_, דרך_, חיים_, חלק_, חו"ל, מוות_, עו"ד, ראש_, _אתם, בן_, לפי_, פה_, מ"ר, מד"א, סוף_, עין_, איש_</li>
+<li>This corpus contains 1014 types of words that contain both letters and punctuation. Examples: ה_, _של_, _הוא, _הם, _היא, ל_, ב_, את_, של_, _הן, _אני, _אנחנו, ש"ח, על_, מן_, ארה"ב, יו"ר, אל_, צה"ל, _אתה, מנכ"ל, ח"כ, עם_, יד_, שם_, דבר_, בין_, בית_, חבר_, בית"ר, בריה"ם, תפקיד_, ד"ר, פנים_, דרך_, חיים_, חלק_, חו"ל, מוות_, עו"ד, ראש_, לפי_, פה_, _אתם, בן_, מ"ר, מד"א, סוף_, עין_, איש_</li>
 </ul>
 
 <ul>
-<li>This corpus contains 37035 multi-word tokens. On average, one multi-word token consists of 2.24 syntactic words.</li>
-<li>There are 15652 types of multi-word tokens. Examples: לו, שהוא, בו, המשפט, המשטרה, אותו, שלו, ביום, בבית, הפועל, בכל, הממשלה, החברה, ולא, שלא, להם, לכל, הזה, האוצר, לי, בישראל, שהיה, הבחירות, לה, שיש, הראשון, הביטחון, שבו, בה, בארץ, בדרך, בירושלים, העבודה, אותה, בהם, ועל, אותם, הארץ, במסגרת, השבוע, וגם, בימים, המדינה, הראשונה, לכך, מהם, העובדים, שהם, המשחק, לנו.</li>
+<li>This corpus contains 36783 multi-word tokens. On average, one multi-word token consists of 2.24 syntactic words.</li>
+<li>There are 15653 types of multi-word tokens. Examples: לו, שהוא, בו, המשפט, המשטרה, אותו, שלו, ביום, בבית, הפועל, בכל, הממשלה, החברה, ולא, שלא, להם, לכל, הזה, האוצר, לי, בישראל, שהיה, הבחירות, לה, שיש, הראשון, הביטחון, שבו, בה, בארץ, בדרך, בירושלים, העבודה, אותה, ועל, אותם, בהם, במסגרת, הארץ, השבוע, וגם, בימים, המדינה, הראשונה, לכך, העובדים, מהם, המשחק, שהם, האחרונים.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -157,7 +157,7 @@ is forthcoming.
 </ul>
 
 <ul>
-<li>This corpus contains 20 lemmas tagged as determiners (DET): _, איזה, אף, די, ה, המון, הרבה, יתר, כול, כלל, כמה, מספיק, מספר, מעט, מרב, מרבית, קצת, רוב, שאר, שום</li>
+<li>This corpus contains 21 lemmas tagged as determiners (DET): _, איזה, אף, די, ה, ה_, המון, הרבה, יתר, כול, כלל, כמה, מספיק, מספר, מעט, מרב, מרבית, קצת, רוב, שאר, שום</li>
 </ul>
 
 <ul>
@@ -165,11 +165,11 @@ is forthcoming.
 </ul>
 
 <ul>
-<li>This corpus contains 48 lemmas tagged as auxiliaries (AUX): _, אין, אינו, אכפת, אל, אמור, אסור, אפשר, בדק, הבה, הוא, היה, הינה, הנו, התאפשר, זכאי, זקוק, חייב, חשוב, ייתכן, יכול, יש, כדאי, מוטב, מוכן, מוכרח, מומלץ, מותר, מסוגל, מעוניין, נחוץ, ניתן, נכון, נעים, סביר, עדיף, עלול, עשוי, עתיד, עתידות, צפוי, צריך, קל, קשה, ראוי, רצוי, רשאי, תהייה</li>
+<li>This corpus contains 4 lemmas tagged as auxiliaries (AUX): _, אינו, היה, הינו</li>
 </ul>
 
 <ul>
-<li>Out of the above, 11 lemmas occurred sometimes as AUX and sometimes as VERB: _, אין, אפשר, בדק, היה, התאפשר, חייב, יכול, יש, ניתן, נכון</li>
+<li>Out of the above, 2 lemmas occurred sometimes as AUX and sometimes as VERB: _, היה</li>
 </ul>
 
 <ul>
@@ -180,7 +180,7 @@ is forthcoming.
   <li>Inf
   <ul>
     <li>AUX: להיות</li>
-    <li>VERB: לעשות, לתת, לשלם, לחיות, לפנות, למנוע, לבצע, לקבל, למצוא, לצפות</li>
+    <li>VERB: לעשות, לתת, לשלם, לפנות, למנוע, לבצע, לקבל, לחיות, למצוא, לצפות</li>
   </ul>
   </li>
 </ul>
@@ -188,8 +188,8 @@ is forthcoming.
 <ul>
   <li>Part
   <ul>
-    <li>AUX: הוא, היא, אינו, אינה, אינם, יכול, הם, יכולה, אינן, איננו</li>
-    <li>VERB: מדובר, אומר, חולים, כולל, נראה, יודע, רבים, רוצה, עולה, רוצים</li>
+    <li>AUX: אינו, אינה, אינם, אינן, איננו, איננה, אינני, איני, אינך, הינו</li>
+    <li>VERB: מדובר, אומר, יכול, חולים, כולל, נראה, רוצה, יודע, עולה, יכולה</li>
   </ul>
   </li>
 </ul>
@@ -205,13 +205,13 @@ is forthcoming.
   <li>Fem
     <ul>
       <li>ADJ: ראשונה, חדשה, רבה, אחרת, ישראלית, לאומית, רבות, אחרות, כללית, גדולה</li>
-      <li>AUX: היא, היתה, אינה, תהיה, יכולה, אינן, הן, איננה, עלולה, חייבת</li>
-      <li>AUX-Part: היא, אינה, יכולה, אינן, הן, איננה, מאפשרת, יכולות, הינה, אינך</li>
+      <li>AUX: היתה, אינה, תהיה, אינן, איננה, הינה, אינך</li>
+      <li>AUX-Part: אינה, אינן, איננה, הינה, אינך</li>
       <li>NOUN: משטרה, ארץ, ממשלה, חברה, שנים, שנה, עבודה, ידי, מדינה, דרך</li>
       <li>NUM: אחת, שתי, שלוש, מאות, עשרות, מאה, ארבע, שנייה, שניה, שבע</li>
-      <li>PRON: _היא, זו, היא, _הן, זאת, הן, עצמה, אותה, אותן, כלשהי</li>
-      <li>VERB: אומרת, ניצחה, החליטה, היתה, אמרה, קיבלה, תהיה, הגיעה, עלתה, באה</li>
-      <li>VERB-Part: אומרת, כוללת, מבוססת, עולות, עומדת, מגיעה, מדורגת, הולכת, מתחילה, עולה</li>
+      <li>PRON: _היא, היא, זו, _הן, זאת, הן, עצמה, אותה, אותן, כלשהי</li>
+      <li>VERB: אומרת, יכולה, ניצחה, החליטה, היתה, אמרה, קיבלה, הגיעה, עלתה, תהיה</li>
+      <li>VERB-Part: אומרת, יכולה, כוללת, מאפשרת, מבוססת, עולות, עומדת, מגיעה, מדורגת, הולכת</li>
     </ul>
   </li>
 </ul>
@@ -219,12 +219,13 @@ is forthcoming.
 <ul>
   <li>Fem,Masc
     <ul>
-      <li>AUX: היו, יהיו, הייתי, יוכלו, היינו, אינני, איננו, מאפשר, נוכל, איני</li>
-      <li>AUX-Part: אינני, איננו, מאפשר, איני, מאפשרים</li>
+      <li>AUX: היו, יהיו, הייתי, היינו, אינני, איננו, איני, נהיה</li>
+      <li>AUX-Part: אינני, איננו, איני</li>
       <li>NOUN: פנים_, פני, סכין, פנים, מטבע, סכינים, דופן, מטבעות, גיהנום</li>
       <li>NUM: עשרים, ששים, שמונים, שבעים, שישים, שלושים, אלפיים, ארבעים, מאתיים</li>
       <li>PRON: _אני, _אנחנו, אני, אנו, אלו, אנחנו, עצמי, עצמנו, הננו, אילו</li>
-      <li>VERB: היו, הגיעו, אמרו, מסרו, יהיו, יצאו, נפצעו, עלו, עשו, באו</li>
+      <li>VERB: היו, הגיעו, אמרו, מסרו, יהיו, יצאו, נפצעו, עלו, באו, ביקשו</li>
+      <li>VERB-Part: מאפשר, מאפשרים</li>
     </ul>
   </li>
 </ul>
@@ -232,15 +233,15 @@ is forthcoming.
 <ul>
   <li>Masc
     <ul>
-      <li>ADJ: אחרים, ראשון, גדול, לאומי, חדש, אחר, רבים, רב, טוב, ישראלי</li>
-      <li>AUX: היה, הוא, אינו, יהיה, אינם, יכול, הם, צריך, קשה, ניתן</li>
-      <li>AUX-Part: הוא, אינו, אינם, יכול, הם, איננו, יכולים, הינו, אינך, אינכם</li>
+      <li>ADJ: אחרים, ראשון, גדול, לאומי, חדש, אחר, צריך, רבים, רב, קשה</li>
+      <li>AUX: היה, אינו, יהיה, אינם, איננו, הינו, אינך, הייה, היית, תהיה</li>
+      <li>AUX-Part: אינו, אינם, איננו, הינו, אינך, אינכם, הנם</li>
       <li>DET: שאר, המון, מספיק</li>
-      <li>NOUN: בית, יום, משרד, %, שר, משפט, דבר, פועל, מקום, תל</li>
+      <li>NOUN: בית, יום, משרד, %, שר, משפט, דבר, פועל, מקום, שבוע</li>
       <li>NUM: אחד, שני, מיליון, אלף, שלושה, ארבעה, מיליארד, שניים, אלפי, שלישי</li>
       <li>PRON: _הוא, _הם, הוא, זה, הם, אלה, עצמו, _אתה, אותו, עצמם</li>
-      <li>VERB: אמר, אומר, עבר, נראה, מדובר, חולים, היה, כולל, יודע, רבים</li>
-      <li>VERB-Part: אומר, מדובר, חולים, כולל, נראה, יודע, רבים, רוצים, רוצה, קשור</li>
+      <li>VERB: אמר, יכול, אומר, עבר, נראה, מדובר, חולים, היה, כולל, עלה</li>
+      <li>VERB-Part: אומר, יכול, מדובר, חולים, כולל, נראה, יודע, רוצה, רוצים, קשור</li>
     </ul>
   </li>
 </ul>
@@ -270,14 +271,14 @@ is forthcoming.
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: אחרים, רבים, אחרונים, שונים, חדשים, רבות, אחרות, גדולים, שונות, אחרונות</li>
-      <li>AUX: היו, אינם, הם, אינן, יהיו, הן, יוכלו, יכולים, מוכנים, עלולים</li>
-      <li>AUX-Part: אינם, הם, אינן, הן, יכולים, איננו, יכולות, מאפשרים, אינכם, הנם</li>
-      <li>NOUN: שנים, ימים, ידי, בתי, בחירות, בני, עובדים, נקודות, אנשים, חברות</li>
+      <li>ADJ: אחרים, רבים, אחרונים, חדשים, שונים, רבות, אחרות, גדולים, שונות, אחרונות</li>
+      <li>AUX: היו, אינם, אינן, יהיו, היינו, איננו, נהיה, אינכם, הייתם, הנם</li>
+      <li>AUX-Part: אינם, אינן, איננו, אינכם, הנם</li>
+      <li>NOUN: שנים, ימים, ידי, בתי, בחירות, עובדים, בני, נקודות, אנשים, חברות</li>
       <li>NUM: שני, שתי, מאות, שניים, אלפי, עשרות, מיליוני, אלפים, מיליארדי, מיליארדים</li>
       <li>PRON: _הם, הם, אלה, _הן, _אנחנו, הן, אנו, אלו, עצמם, הללו</li>
-      <li>VERB: חולים, היו, רבים, הגיעו, רוצים, אמרו, מסרו, יהיו, אומרים, יצאו</li>
-      <li>VERB-Part: חולים, רבים, רוצים, אומרים, טוענים, יודעים, באים, מגיעים, נמצאים, עומדים</li>
+      <li>VERB: היו, חולים, הגיעו, רוצים, אמרו, מסרו, יהיו, אומרים, יצאו, נפצעו</li>
+      <li>VERB-Part: חולים, רוצים, אומרים, יודעים, טוענים, באים, מגיעים, נמצאים, עומדים, יכולים</li>
     </ul>
   </li>
 </ul>
@@ -294,14 +295,14 @@ is forthcoming.
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: ראשון, גדול, לאומי, חדש, אחר, ראשונה, רב, טוב, ישראלי, אמריקאי</li>
-      <li>AUX: היה, הוא, היא, היתה, אינו, יהיה, אינה, יכול, צריך, תהיה</li>
-      <li>AUX-Part: הוא, היא, אינו, אינה, יכול, יכולה, איננה, איננו, מאפשרת, אינני</li>
-      <li>NOUN: בית, יום, משרד, משטרה, ארץ, שר, משפט, ממשלה, חברה, דבר</li>
+      <li>ADJ: ראשון, גדול, לאומי, חדש, אחר, קשה, ראשונה, צריך, רב, טוב</li>
+      <li>AUX: היה, היתה, אינו, יהיה, אינה, תהיה, הייתי, איננה, איננו, אינני</li>
+      <li>AUX-Part: אינו, אינה, איננה, איננו, אינני, איני, אינך, הינו, הינה</li>
+      <li>NOUN: בית, יום, משרד, משטרה, שר, משפט, ארץ, ממשלה, חברה, דבר</li>
       <li>NUM: אחד, אחת, מיליון, אלף, שלושה, שלוש, שני, ארבעה, מיליארד, מאה</li>
-      <li>PRON: _הוא, _היא, הוא, זה, זו, היא, _אני, זאת, אני, עצמו</li>
-      <li>VERB: אמר, אומר, עבר, נראה, מדובר, היה, כולל, יודע, עלה, רוצה</li>
-      <li>VERB-Part: אומר, מדובר, כולל, נראה, יודע, רוצה, עולה, אומרת, קשור, עומד</li>
+      <li>PRON: _הוא, _היא, הוא, זה, היא, זו, _אני, זאת, אני, עצמו</li>
+      <li>VERB: אמר, יכול, אומר, עבר, נראה, מדובר, היה, כולל, עלה, רוצה</li>
+      <li>VERB-Part: אומר, יכול, מדובר, כולל, נראה, רוצה, יודע, עולה, אומרת, יכולה</li>
     </ul>
   </li>
 </ul>
@@ -332,7 +333,7 @@ is forthcoming.
   <li>Tem
     <ul>
       <li>ADP: כש, מ, מש</li>
-      <li>NUM: 20.30, 20.00, 01.00, 1.2.19, 1.6.90, 13.00, 13.11, 14.3.89, 15.459.00, 16.11</li>
+      <li>NUM: 20.30, 20.00, 01.00, 1.2.19, 1.6.90, 13.00, 13.11, 14.3.89, 16.11, 2.3.3</li>
       <li>SCONJ: כש, מש</li>
     </ul>
   </li>
@@ -346,9 +347,9 @@ is forthcoming.
 <ul>
   <li>Cons
     <ul>
-      <li>ADJ: חסר, רב, חסרת, יתר, חסרות, חסרי, גדול, דמוי, משולל, רבת</li>
-      <li>DET: כל, כמה, הרבה, רוב, שום, מספר, אף, מרבית, מחצית, מעט</li>
-      <li>NOUN: בית, משרד, יום, תל, שר, פי, ידי, ראש, חברת, בתי</li>
+      <li>ADJ: חסר, רב, חסרת, חסרות, חסרי, גדול, דמוי, משולל, רבת, דל</li>
+      <li>DET: כל, כמה, רוב, הרבה, שום, מספר, אף, מרבית, מחצית, מעט</li>
+      <li>NOUN: בית, משרד, יום, שר, תל, פי, ידי, ראש, חברת, בתי</li>
       <li>NUM: שני, שתי, אחד, אלפי, מאות, עשרות, שלוש, שלושת, אחת, מיליוני</li>
       <li>VERB-Part: ממלא, מחזיקות, אוזלת, מצופה, נותן, רווי, יוצאת, לובשי, מיידי, מכבי</li>
     </ul>
@@ -359,8 +360,7 @@ is forthcoming.
   <li>Def
     <ul>
       <li>ADP: אותו_, אותו</li>
-      <li>DET: ה, ה_</li>
-      <li>NOUN: יד_, דבר_, שם_, בית_, חבר_, תפקיד_, פנים_, דרך_, חיים_, חלק_</li>
+      <li>NOUN: יד_, שם_, דבר_, בית_, חבר_, תפקיד_, פנים_, דרך_, חיים_, חלק_</li>
       <li>PRON: אותו, אותה, אותם, אותן</li>
     </ul>
   </li>
@@ -386,10 +386,11 @@ is forthcoming.
 <ul>
   <li>Pos
     <ul>
-      <li>AUX: היה, הוא, היא, היו, היתה, להיות, יהיה, הם, תהיה, יהיו</li>
+      <li>AUX: היה, היו, היתה, להיות, יהיה, תהיה, יהיו, הייתי, היינו, הינו</li>
       <li>AUX-Inf: להיות</li>
-      <li>AUX-Part: הוא, היא, הם, הן, הינו, הינה, הנם</li>
-      <li>VERB: היו, היה, יהיה, יהיו, היתה, תהיה, הייה, הייתה, נהיה, תהיינה</li>
+      <li>AUX-Part: הינו, הינה, הנם</li>
+      <li>PRON: הוא, היא, הם, הן</li>
+      <li>VERB: היו, היה, יהיה, היתה, יהיו, תהיה, הייה, הייתה, נהיה, תהיינה</li>
     </ul>
   </li>
 </ul>
@@ -419,8 +420,8 @@ is forthcoming.
 <ul>
   <li>Fut
     <ul>
-      <li>AUX: יהיה, תהיה, יהיו, יוכל, יוכלו, נוכל, תוכל, נהיה</li>
-      <li>VERB: יהיה, יהיו, תהיה, תקבל, יכלו, יגיעו, יישאר, יישארו, יגיע, יקבלו</li>
+      <li>AUX: יהיה, תהיה, יהיו, נהיה</li>
+      <li>VERB: יהיה, יהיו, יוכל, תהיה, תקבל, יוכלו, יכלו, יגיעו, יישאר, יגיע</li>
     </ul>
   </li>
 </ul>
@@ -428,8 +429,8 @@ is forthcoming.
 <ul>
   <li>Past
     <ul>
-      <li>AUX: היה, היו, היתה, קשה, הייתי, היינו, סביר, קל, יכול, צפוי</li>
-      <li>VERB: אמר, עבר, היו, היה, הגיעו, עלה, הגיע, טען, אמרו, מסר</li>
+      <li>AUX: היה, היו, היתה, הייתי, היינו, היית, הייתם</li>
+      <li>VERB: אמר, עבר, היו, היה, עלה, הגיע, הגיעו, טען, מסר, ניצחה</li>
     </ul>
   </li>
 </ul>
@@ -441,9 +442,9 @@ is forthcoming.
 <ul>
   <li>Act
     <ul>
-      <li>VERB: אמר, אומר, חולים, לעשות, כולל, יודע, רבים, הגיעו, לתת, עלה</li>
-      <li>VERB-Inf: לעשות, לתת, לשלם, למנוע, לבצע, לקבל, למצוא, להשיג, לומר, להקים</li>
-      <li>VERB-Part: אומר, חולים, כולל, יודע, רבים, עולה, רוצה, רוצים, אומרת, קשור</li>
+      <li>VERB: אמר, אומר, חולים, לעשות, כולל, עלה, הגיע, יודע, לתת, לשלם</li>
+      <li>VERB-Inf: לעשות, לתת, לשלם, למנוע, לבצע, לקבל, למצוא, להשיג, להקים, לומר</li>
+      <li>VERB-Part: אומר, חולים, כולל, יודע, עולה, רוצה, אומרת, רוצים, קשור, עומד</li>
     </ul>
   </li>
 </ul>
@@ -451,8 +452,8 @@ is forthcoming.
 <ul>
   <li>Mid
     <ul>
-      <li>VERB: נראה, נמצא, נעשה, נאמר, נקבע, נמסר, נפצעו, נבחר, ניתן, נודע</li>
-      <li>VERB-Inf: להיכנס, להישאר, להימנע, להילחם, להיפגש, להיבחר, להיאבק, להישמע, להימשך, להיעדר</li>
+      <li>VERB: נראה, נמצא, נעשה, נקבע, נאמר, נמסר, נפצעו, נבחר, ניתן, נודע</li>
+      <li>VERB-Inf: להיכנס, להימנע, להישאר, להילחם, להיפגש, להיבחר, להיאבק, להישמע, להימשך, להיעדר</li>
       <li>VERB-Part: נראה, נמצאים, נוסף, נמצא, נחשב, נדמה, נעשה, ניתנים, נמנע, נמנעת</li>
     </ul>
   </li>
@@ -545,10 +546,10 @@ is forthcoming.
 <ul>
   <li>1
     <ul>
-      <li>AUX: הייתי, היינו, אינני, איננו, נוכל, איני, נהיה</li>
+      <li>AUX: הייתי, היינו, אינני, איננו, איני, נהיה</li>
       <li>AUX-Part: אינני, איננו, איני</li>
       <li>PRON: _אני, _אנחנו, אני, אנו, אנחנו, עצמי, עצמנו, הננו</li>
-      <li>VERB: חשבתי, קיבלנו, שמעתי, הגעתי, הרגשתי, קראתי, ראיתי, הגענו, הישווה, הצעתי</li>
+      <li>VERB: קיבלנו, שמעתי, הרגשתי, חשבתי, נוכל, קראתי, ראיתי, הגענו, הגעתי, הישווה</li>
       <li>VERB-Part: ממיסים, ניצב, מצליחין, ניצבת</li>
     </ul>
   </li>
@@ -557,9 +558,7 @@ is forthcoming.
 <ul>
   <li>1,2,3
     <ul>
-      <li>AUX: יכול, צריך, יכולה, ניתן, אמור, עלול, חייב, מוכן, חשוב, עשוי</li>
-      <li>AUX-Part: יכול, יכולה, יכולים, יכולות</li>
-      <li>VERB-Part: אומר, מדובר, חולים, כולל, נראה, יודע, רבים, רוצה, עולה, רוצים</li>
+      <li>VERB-Part: אומר, יכול, מדובר, חולים, כולל, נראה, רוצה, יודע, עולה, אומרת</li>
     </ul>
   </li>
 </ul>
@@ -567,10 +566,10 @@ is forthcoming.
 <ul>
   <li>2
     <ul>
-      <li>AUX: יוכל, תוכל, הייה, היית, תהיה, אינך, אינכם, היה, הייתם</li>
+      <li>AUX: הייה, היית, תהיה, אינך, אינכם, היה, הייתם</li>
       <li>AUX-Part: אינך, אינכם</li>
       <li>PRON: _אתה, אתה, _אתם, אתם, _את, עצמך, את, לה</li>
-      <li>VERB: לך, ישנו, תוכיח, ברור, אמור, חיו, חסר, חשוד, כתבת, לימדת</li>
+      <li>VERB: יוכל, לך, ישנו, תוכיח, תוכל, ברור, אמור, חיו, חסר, חשוד</li>
     </ul>
   </li>
 </ul>
@@ -578,10 +577,10 @@ is forthcoming.
 <ul>
   <li>3
     <ul>
-      <li>AUX: היה, הוא, היא, היו, היתה, אינו, יהיה, אינה, אינם, הם</li>
-      <li>AUX-Part: הוא, היא, אינו, אינה, אינם, הם, אינן, הן, איננה, איננו</li>
-      <li>PRON: _הוא, _הם, _היא, הוא, זה, זו, הם, כך, אלה, היא</li>
-      <li>VERB: אמר, עבר, היו, היה, הגיעו, עלה, הגיע, טען, אמרו, מסר</li>
+      <li>AUX: היה, היו, היתה, אינו, יהיה, אינה, אינם, תהיה, אינן, יהיו</li>
+      <li>AUX-Part: אינו, אינה, אינם, אינן, איננה, איננו, הינו, אינך, הינה, הנם</li>
+      <li>PRON: _הוא, _הם, _היא, הוא, זה, היא, הם, זו, כך, אלה</li>
+      <li>VERB: אמר, עבר, היו, היה, עלה, הגיע, הגיעו, טען, מסר, ניצחה</li>
       <li>VERB-Part: מעיזים, ממלאה, ניצבות</li>
     </ul>
   </li>
@@ -604,7 +603,7 @@ is forthcoming.
           <li>CCONJ: ע"ף</li>
           <li>NOUN: ש"ח, יו"ר, מנכ"ל, ח"כ, ד"ר, חו"ל, עו"ד, מ"ר, מד"א, מו"ם</li>
           <li>NUM: י"ד, ת"ק</li>
-          <li>PROPN: ארה"ב, צה"ל, בריה"ם, בית"ר, ת"א, או"ם, ראשל"ץ, אגו"י, אש"ף, ש"ס</li>
+          <li>PROPN: ארה"ב, צה"ל, בית"ר, בריה"ם, ת"א, או"ם, ראשל"ץ, אגו"י, אש"ף, ש"ס</li>
           <li>X: י"ש, מנכ"ל</li>
         </ul>
       </li>
@@ -617,15 +616,15 @@ is forthcoming.
     <ul>
       <li>HIFIL
         <ul>
-          <li>VERB: הגיעו, הגיע, הצליח, החליטה, להשיג, להקים, החליט, להגיע, להעניק, מגיע</li>
+          <li>VERB: הגיע, הגיעו, הצליח, החליטה, להשיג, להקים, החליט, להגיע, להעניק, מגיע</li>
           <li>VERB-Inf: להשיג, להקים, להגיע, להעניק, להעלות, להביא, להבין, להוציא, להניח, להעביר</li>
-          <li>VERB-Part: מגיע, מגיעים, מאמין, מציע, מוסיף, מאמינים, מביא, מגיעה, מופיע, ממשיך</li>
+          <li>VERB-Part: מגיע, מגיעים, מאמין, מציע, מוסיף, מביא, מגיעה, מופיע, ממשיך, מאמינים</li>
         </ul>
       </li>
       <li>HITPAEL
         <ul>
           <li>VERB: להתמודד, התברר, מתכוון, התנהל, מתברר, הסתכם, השתתפו, התקיים, התקיימה, להתגונן</li>
-          <li>VERB-Inf: להתמודד, להתגונן, להתקיים, להשתלב, להשתתף, להתייחס, להתעלם, להתערב, להשתמש, להסתכן</li>
+          <li>VERB-Inf: להתמודד, להתגונן, להתקיים, להשתתף, להתייחס, להתעלם, להתערב, להשתלב, להשתמש, להסתכן</li>
           <li>VERB-Part: מתכוון, מתברר, משתמשים, מתנהל, משתמש, מתרחש, מסתבר, מסתמכת, מצטבר, משתרע</li>
         </ul>
       </li>
@@ -637,29 +636,29 @@ is forthcoming.
       </li>
       <li>NIFAL
         <ul>
-          <li>VERB: נראה, נמצא, נעשה, נאמר, נקבע, נמסר, נפצעו, נבחר, ניתן, נודע</li>
-          <li>VERB-Inf: להיכנס, להישאר, להימנע, להילחם, להיפגש, להיבחר, להיאבק, להישמע, להימשך, להיעדר</li>
+          <li>VERB: נראה, נמצא, נעשה, נקבע, נאמר, נמסר, נפצעו, נבחר, ניתן, נודע</li>
+          <li>VERB-Inf: להיכנס, להימנע, להישאר, להילחם, להיפגש, להיבחר, להיאבק, להישמע, להימשך, להיעדר</li>
           <li>VERB-Part: נראה, נמצאים, נוסף, נמצא, נחשב, נדמה, נעשה, ניתנים, נמנע, נמנעת</li>
         </ul>
       </li>
       <li>PAAL
         <ul>
-          <li>VERB: אמר, אומר, חולים, לעשות, כולל, יודע, רבים, לתת, עלה, עולה</li>
-          <li>VERB-Inf: לעשות, לתת, למנוע, למצוא, לומר, לצאת, לחזור, לפגוע, לעמוד, לפעול</li>
-          <li>VERB-Part: אומר, חולים, כולל, יודע, רבים, עולה, רוצה, רוצים, אומרת, קשור</li>
+          <li>VERB: אמר, אומר, חולים, לעשות, כולל, עלה, יודע, לתת, עולה, רוצה</li>
+          <li>VERB-Inf: לעשות, לתת, למנוע, למצוא, לומר, לצאת, לפגוע, לחזור, לעמוד, לפעול</li>
+          <li>VERB-Part: אומר, חולים, כולל, יודע, עולה, רוצה, אומרת, רוצים, קשור, עומד</li>
         </ul>
       </li>
       <li>PIEL
         <ul>
           <li>VERB: לשלם, ניצחה, לבצע, לקבל, סירב, ניצח, ניסה, קיבל, ביקשו, לאפשר</li>
           <li>VERB-Inf: לשלם, לבצע, לקבל, לאפשר, לבטל, לנצח, לקיים, לנסות, לגייס, לדבר</li>
-          <li>VERB-Part: מנסה, מצפים, מקבלים, מנסים, מקבל, מדבר, ממלא, מנהלים, מצפה, מבקשים</li>
+          <li>VERB-Part: מנסה, מצפים, מנסים, מקבל, מקבלים, מדבר, ממלא, מנהלים, מצפה, מבקשים</li>
         </ul>
       </li>
       <li>PUAL
         <ul>
           <li>VERB: מדובר, מדורגת, סוכם, נוצח, פורסם, שוחררו, אושרו, ממונה, מתוכנן, מזוהה</li>
-          <li>VERB-Part: מדובר, מדורגת, ממונה, מתוכנן, מזוהה, משוכנעים, מיועד, מיועדת, מיוצרים, ממונים</li>
+          <li>VERB-Part: מדובר, מדורגת, ממונה, מתוכנן, מזוהה, משוכנעים, מיועד, מיוצרים, ממונים, מנוכה</li>
         </ul>
       </li>
     </ul>
@@ -671,7 +670,7 @@ is forthcoming.
     <ul>
       <li>Yes
         <ul>
-          <li>VERB: יש, אין, היו, היה, יהיה, יהיו, היתה, תהיה, ישנם, הייה</li>
+          <li>VERB: יש, אין, היו, היה, יהיה, היתה, יהיו, תהיה, ישנם, הייה</li>
         </ul>
       </li>
     </ul>
@@ -695,15 +694,9 @@ is forthcoming.
     <ul>
       <li>Cop
         <ul>
-          <li>AUX: היה, הוא, היא, היו, היתה, אינו, להיות, יהיה, אינה, אינם</li>
+          <li>AUX: היה, היו, היתה, אינו, להיות, יהיה, אינה, אינם, תהיה, אינן</li>
           <li>AUX-Inf: להיות</li>
-          <li>AUX-Part: הוא, היא, אינו, אינה, אינם, הם, אינן, איננו, הן, איננה</li>
-        </ul>
-      </li>
-      <li>Mod
-        <ul>
-          <li>AUX: אפשר, יש, יכול, ייתכן, צריך, אין, קשה, יכולה, ניתן, אמור</li>
-          <li>AUX-Part: יכול, יכולה, יכולים, מאפשרת, מאפשר, יכולות, מאפשרים, מאפשרות, מתאפשרת</li>
+          <li>AUX-Part: אינו, אינה, אינם, אינן, איננו, איננה, אינני, איני, אינך, הינו</li>
         </ul>
       </li>
     </ul>
@@ -715,11 +708,11 @@ is forthcoming.
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 9 lemmas as copulas (<a>cop</a>). Examples: היה, הוא, _, זה, הנו, הינה, זאת, זו, תהייה.</li>
+<li>This corpus uses 6 lemmas as copulas (<a>cop</a>). Examples: היה, הוא, אינו, _, זה, הינו.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 41 lemmas as auxiliaries (<a>aux</a>). Examples: אפשר, _, יכול, צריך, יש, עלול, אמור, הפך, חייב, מוכן, עשוי, קשה, מסוגל, אין, ניתן, רשאי, היווה, חשוב, כדאי, ראוי, אסור, קל, מותר, סביר, זכאי, מוטב, אל, היות, מוכרח, מומלץ, נהפך, עתיד, עתידות, רצוי, הבה, הסתדר, ייתכן, מעוניין, נכון, נעים, צפוי.</li>
+<li>This corpus does not contain auxiliaries.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -728,20 +721,18 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (3343)</li>
-      <li>VERB--NOUN-ADP(מ) (28)</li>
-      <li>VERB--NOUN-ADP(מן) (3)</li>
-      <li>VERB--PRON (411)</li>
+      <li>VERB--NOUN (3349)</li>
+      <li>VERB--NOUN-ADP(כ) (11)</li>
+      <li>VERB--NOUN-ADP(מ) (6)</li>
+      <li>VERB--PRON (414)</li>
       <li>VERB--PRON-ADP(כ) (3)</li>
       <li>VERB--PRON-ADP(כמו) (1)</li>
-      <li>VERB--PRON-ADP(מן) (11)</li>
       <li>VERB-Inf--NOUN (15)</li>
       <li>VERB-Inf--PRON (2)</li>
-      <li>VERB-Part--NOUN (1332)</li>
-      <li>VERB-Part--NOUN-ADP(מ) (7)</li>
-      <li>VERB-Part--NOUN-ADP(מן) (1)</li>
-      <li>VERB-Part--PRON (579)</li>
-      <li>VERB-Part--PRON-ADP(מן) (2)</li>
+      <li>VERB-Part--NOUN (1379)</li>
+      <li>VERB-Part--NOUN-ADP(כ) (3)</li>
+      <li>VERB-Part--NOUN-ADP(מ) (1)</li>
+      <li>VERB-Part--PRON (592)</li>
     </ul>
   </li>
 </ul>
@@ -749,18 +740,18 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (1397)</li>
+      <li>VERB--NOUN (1391)</li>
       <li>VERB--NOUN-ADP(ב) (1)</li>
-      <li>VERB--NOUN-ADP(מ) (15)</li>
-      <li>VERB--NOUN-ADP(מן) (2)</li>
+      <li>VERB--NOUN-ADP(כ) (9)</li>
+      <li>VERB--NOUN-ADP(מ) (6)</li>
       <li>VERB--PRON (162)</li>
       <li>VERB--PRON-Acc-ADP(את) (8)</li>
-      <li>VERB-Inf--NOUN (1009)</li>
-      <li>VERB-Inf--NOUN-ADP(מ) (1)</li>
-      <li>VERB-Inf--NOUN-ADP(מן) (1)</li>
+      <li>VERB-Inf--NOUN (1007)</li>
+      <li>VERB-Inf--NOUN-ADP(כ) (1)</li>
       <li>VERB-Inf--PRON (91)</li>
       <li>VERB-Inf--PRON-Acc-ADP(את) (38)</li>
-      <li>VERB-Part--NOUN (750)</li>
+      <li>VERB-Part--NOUN (755)</li>
+      <li>VERB-Part--NOUN-ADP(כ) (2)</li>
       <li>VERB-Part--PRON (97)</li>
       <li>VERB-Part--PRON-Acc-ADP(את) (2)</li>
     </ul>
@@ -785,7 +776,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 9 relation subtypes: <a>acl:relcl</a>, <a>case:acc</a>, <a>case:gen</a>, <a>compound:affix</a>, <a>compound:smixut</a>, <a>flat:name</a>, <a>mark:q</a>, <a>nmod:poss</a>, <a>nsubj:cop</a></li>
+<li>This corpus uses 10 relation subtypes: <a>acl:relcl</a>, <a>case:acc</a>, <a>case:gen</a>, <a>compound:affix</a>, <a>compound:smixut</a>, <a>flat:name</a>, <a>mark:q</a>, <a>nmod:poss</a>, <a>nsubj:cop</a>, <a>nsubj:outer</a></li>
 <li>The following 2 main types are not used alone, they are always subtyped: <a>compound</a>, <a>flat</a></li>
-<li>The following 8 relation types are not used in this corpus at all: <a>iobj</a>, <a>vocative</a>, <a>expl</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>The following 9 relation types are not used in this corpus at all: <a>iobj</a>, <a>vocative</a>, <a>expl</a>, <a>aux</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

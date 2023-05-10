@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>Africaine</em> (<tt><a href="wo_wtb-p
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.000000 (the average of all parts of speech is 1.250208).
+The form / lemma ratio of `ADJ` is 1.000000 (the average of all parts of speech is 1.250260).
 
 The 1st highest number of forms (1) was observed with the lemma “Africaine”: <em>Africaine</em>.
 

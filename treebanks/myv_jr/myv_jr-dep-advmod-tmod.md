@@ -25,11 +25,11 @@ The following 10 pairs of parts of speech are connected with `advmod:tmod`: <tt>
 # visual-style 7 6 advmod:tmod	color:blue
 1	―	―	PUNCT	PUNCT	_	3	punct	_	_
 2	Ох	ох	INTJ	Interj	_	3	discourse	_	_
-3	кулан	куломс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres|Valency=1	0	root	_	GTtags=IV,Ind,Prs,ScSg1|SpaceAfter=No
+3	кулан	куломс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres	0	root	_	GTtags=IV,Ind,Prs,ScSg1|SpaceAfter=No
 4	!	!	PUNCT	CLB	_	3	punct	_	_
 5	―	―	PUNCT	PUNCT	_	7	punct	_	_
 6	таго	таго	ADV	Adv	AdvType=Tim	7	advmod:tmod	_	GTtags=Temp
-7	сергедсь	серьгедемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=2	3	parataxis	_	GTtags=TV,Ind,Prt1,ScSg3
+7	сергедсь	серьгедемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	3	parataxis	_	GTtags=TV,Ind,Prt1,ScSg3
 8	Люба	Люба	PROPN	N	Animacy=Hum|Case=Nom|Definite=Ind|Gender=Fem|NameType=Giv|Number=Sing	7	nsubj	_	GTtags=Prop,Ant_Fem,Sg,Nom,Indef
 9	а	а	AUX	Pcle	Polarity=Neg	10	aux:neg	_	GTtags=Neg
 10	паро	паро	ADJ	A	_	11	amod	_	_
@@ -48,8 +48,8 @@ The following 10 pairs of parts of speech are connected with `advmod:tmod`: <tt>
 1	―	―	PUNCT	PUNCT	_	3	punct	_	_
 2	Пек	пек	ADV	Adv	AdvType=Deg	3	advmod:deg	_	GTtags=Degree
 3	стака	стака	ADJ	A	_	0	root	_	_
-4	ульнесь	ульнемс	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	3	cop	_	GTtags=IV,Ind,Prt1,ScSg3
-5	печтемс	печтемс	VERB	V	Case=Ill|Valency=2|VerbForm=Conv	3	obl	_	GTtags=TV,Ger,Ill
+4	ульнесь	ульнемс	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	3	cop	_	GTtags=IV,Ind,Prt1,ScSg3
+5	печтемс	печтемс	VERB	V	Case=Ill|VerbForm=Conv	3	obl	_	GTtags=TV,Ger,Ill
 6	чопода	чопода	ADJ	A	_	7	amod	_	_
 7	весь	ве	NOUN	N	Case=Nom|Definite=Def|Number=Sing	3	nsubj	_	GTtags=Sg,Nom,Def|SpaceAfter=No
 8	,	,	PUNCT	CLB	_	9	punct	_	_
@@ -75,7 +75,7 @@ The following 10 pairs of parts of speech are connected with `advmod:tmod`: <tt>
 6	шкась	шка	NOUN	N	Case=Nom|Definite=Def|Number=Sing	4	nsubj	_	GTtags=Sg,Nom,Def|SpaceAfter=No
 7	,	,	PUNCT	CLB	_	9	punct	_	_
 8	кода	кода	SCONJ	CS	AdvType=Tim	9	mark	_	GTtags=Sem/Temp
-9	туить	туемс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Valency=1	6	acl:relcl	_	GTtags=IV,Ind,Prs,ScPl3
+9	туить	туемс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres	6	acl:relcl	_	GTtags=IV,Ind,Prs,ScPl3
 10	Цёраксонь	цёракс	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	11	nmod	_	GTtags=Sem/Inanim,Sem/NCnt,SP,Gen,Indef
 11	кирдав	кирда	NOUN	N	Case=Lat|Definite=Ind|Number=Plur,Sing	9	obl	_	GTtags=Sem/Inanim_Cnt,SP,Lat,Indef|SpaceAfter=No
 12	...	...	PUNCT	CLB	_	4	punct	_	_

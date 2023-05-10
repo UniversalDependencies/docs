@@ -6,89 +6,96 @@ udver: '2'
 
 ## Treebank Statistics: UD_Old_East_Slavic-TOROT: POS Tags: `INTJ`
 
-There are 14 `INTJ` lemmas (0%), 23 `INTJ` types (0%) and 477 `INTJ` tokens (0%).
-Out of 14 observed tags, the rank of `INTJ` is: 13 in number of lemmas, 14 in number of types and 13 in number of tokens.
+There are 19 `INTJ` lemmas (0%), 32 `INTJ` types (0%) and 667 `INTJ` tokens (0%).
+Out of 14 observed tags, the rank of `INTJ` is: 12 in number of lemmas, 13 in number of types and 13 in number of tokens.
 
-The 10 most frequent `INTJ` lemmas: <em>се, о, аминъ, увы, еи, осе, охъ, лютѣ, бе, вото</em>
+The 10 most frequent `INTJ` lemmas: <em>се, о, аминъ, увы, еи, алилуя, охъ, вотъ, горе, воле</em>
 
-The 10 most frequent `INTJ` types:  <em>се, о, ѡ, аминь, увы, еи, си, оувы, ѽ, аминъ</em>
+The 10 most frequent `INTJ` types:  <em>се, ѡ, о, аминь, увы, оувы, еи, аллилуия, ѡхъ, ѽ</em>
 
-The 10 most frequent ambiguous lemmas: <em>о</em> (<tt><a href="orv_torot-pos-ADP.html">ADP</a></tt> 486, <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> 56), <em>лютѣ</em> (<tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> 5, <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> 2), <em>ни</em> (<tt><a href="orv_torot-pos-CCONJ.html">CCONJ</a></tt> 303, <tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> 103, <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> 1), <em>у</em> (<tt><a href="orv_torot-pos-ADP.html">ADP</a></tt> 487, <tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> 1, <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>о</em> (<tt><a href="orv_torot-pos-ADP.html">ADP</a></tt> 996, <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> 93, <tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> 1), <em>аминъ</em> (<tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> 35, <tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> 1), <em>алилуя</em> (<tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> 8, <tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> 8), <em>горе</em> (<tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> 22, <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> 4), <em>лютѣ</em> (<tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> 6, <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> 2), <em>на</em> (<tt><a href="orv_torot-pos-ADP.html">ADP</a></tt> 4342, <tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="orv_torot-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt> 1), <em>ни</em> (<tt><a href="orv_torot-pos-CCONJ.html">CCONJ</a></tt> 558, <tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> 185, <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> 1), <em>у</em> (<tt><a href="orv_torot-pos-ADP.html">ADP</a></tt> 962, <tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> 1, <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>се</em> (<tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> 359, <tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt> 214, <tt><a href="orv_torot-pos-DET.html">DET</a></tt> 66), <em>о</em> (<tt><a href="orv_torot-pos-ADP.html">ADP</a></tt> 232, <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> 18, <tt><a href="orv_torot-pos-DET.html">DET</a></tt> 1), <em>ѡ</em> (<tt><a href="orv_torot-pos-ADP.html">ADP</a></tt> 239, <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> 23), <em>еи</em> (<tt><a href="orv_torot-pos-PRON.html">PRON</a></tt> 24, <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> 4), <em>си</em> (<tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt> 107, <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt> 74, <tt><a href="orv_torot-pos-DET.html">DET</a></tt> 48, <tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> 5, <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> 4, <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> 2), <em>лютѣ</em> (<tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> 5, <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> 2), <em>бе</em> (<tt><a href="orv_torot-pos-ADP.html">ADP</a></tt> 27, <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> 2, <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> 1), <em>ни</em> (<tt><a href="orv_torot-pos-CCONJ.html">CCONJ</a></tt> 300, <tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> 105, <tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt> 6, <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt> 2, <tt><a href="orv_torot-pos-ADP.html">ADP</a></tt> 1, <tt><a href="orv_torot-pos-DET.html">DET</a></tt> 1, <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> 1), <em>оу</em> (<tt><a href="orv_torot-pos-ADP.html">ADP</a></tt> 173, <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>се</em> (<tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> 436, <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt> 290, <tt><a href="orv_torot-pos-DET.html">DET</a></tt> 87, <tt><a href="orv_torot-pos-ADP.html">ADP</a></tt> 1), <em>ѡ</em> (<tt><a href="orv_torot-pos-ADP.html">ADP</a></tt> 631, <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> 48), <em>о</em> (<tt><a href="orv_torot-pos-ADP.html">ADP</a></tt> 333, <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> 21, <tt><a href="orv_torot-pos-DET.html">DET</a></tt> 1, <tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> 1), <em>еи</em> (<tt><a href="orv_torot-pos-PRON.html">PRON</a></tt> 44, <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> 9), <em>аллилуия</em> (<tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> 8, <tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> 6), <em>си</em> (<tt><a href="orv_torot-pos-PRON.html">PRON</a></tt> 238, <tt><a href="orv_torot-pos-DET.html">DET</a></tt> 64, <tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> 6, <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> 4, <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> 2), <em>лютѣ</em> (<tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> 6, <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt> 1), <em>бе</em> (<tt><a href="orv_torot-pos-ADP.html">ADP</a></tt> 37, <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> 6, <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> 1), <em>ей</em> (<tt><a href="orv_torot-pos-PRON.html">PRON</a></tt> 2, <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> 1), <em>на</em> (<tt><a href="orv_torot-pos-ADP.html">ADP</a></tt> 4307, <tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt> 3, <tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> 2, <tt><a href="orv_torot-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="orv_torot-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt> 1)
 
 
 * <em>се</em>
-  * <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> 359: <em><b>се</b> посла ны ц҃рь</em>
-  * <tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt> 214: <em>а <b>се</b> покони вирнии были при ꙗрославѣ</em>
-  * <tt><a href="orv_torot-pos-DET.html">DET</a></tt> 66: <em>В <b>се</b> же лѣто рекоша дружина игореви</em>
-* <em>о</em>
-  * <tt><a href="orv_torot-pos-ADP.html">ADP</a></tt> 232: <em>ти слышашети и молꙗща сꙗ и вельми плачюща сꙗ и главою часто <b>о</b> землю биюща</em>
-  * <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> 18: <em><b>о</b> велика бѧше сѣцѧ вожѧномъ</em>
-  * <tt><a href="orv_torot-pos-DET.html">DET</a></tt> 1: <em>а и щернигова вышед и д <b>о</b> лѣта по сту оуганива и имь даром всею силою кромѣ иного лова кромѣ турова иже со ѡц҃мь ловилъ ѥсмъ всѧкъ звѣрь</em>
+  * <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> 436: <em>аще сицевыѧ восхотѣ сѧ тебѣ вещи тои и <b>се</b> со тщанїемъ воздаю ти</em>
+  * <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt> 290: <em>до сыти ми есть и <b>се</b></em>
+  * <tt><a href="orv_torot-pos-DET.html">DET</a></tt> 87: <em>Слава тебѣ г҃и цр҃ю нб҃сьныи ꙗко съподоби мѧ написати Еуглие <b>се</b></em>
+  * <tt><a href="orv_torot-pos-ADP.html">ADP</a></tt> 1: <em>онъсица хрстолюбецъ богат ѕело живыи въ далнихъ с꙽транах посла на имѧ сергїево <b>се</b> иже с нимъ живѹщими братїѧми</em>
 * <em>ѡ</em>
-  * <tt><a href="orv_torot-pos-ADP.html">ADP</a></tt> 239: <em>игорь же гл҃а с ними <b>ѡ</b> мирѣ</em>
-  * <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> 23: <em><b>ѡ</b> ц҃рю погуби ѡтроча се</em>
+  * <tt><a href="orv_torot-pos-ADP.html">ADP</a></tt> 631: <em>к первотѣ же ѧ꙽здѧть <b>ѡ</b> великомъ заговѣине къ своемѹ братѹ</em>
+  * <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> 48: <em><b>ѡ</b> многострстныи и печалны азъ</em>
+* <em>о</em>
+  * <tt><a href="orv_torot-pos-ADP.html">ADP</a></tt> 333: <em>брате господине попецалѹи <b>о</b> моемо орѹдье коснѧтинѹ</em>
+  * <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> 21: <em>«Богь деи <b>о</b> государь благословляетъ Псков вземши</em>
+  * <tt><a href="orv_torot-pos-DET.html">DET</a></tt> 1: <em>а и щернигова вышед и д <b>о</b> лѣта по сту оуганива и имь даром всею силою кромѣ иного лова кромѣ турова иже со ѡц҃мь ловилъ ѥсмъ всѧкъ звѣрь</em>
+  * <tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> 1: <em>но се имена словомъ азбоукы пермьскїа а боуръ гаи дои е жои зата ѕита и кѡке леи мено нено во пѣи реи сїи таи цю черы шоуѧ е ю <b>о</b></em>
 * <em>еи</em>
-  * <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt> 24: <em>и реч <b>еи</b></em>
-  * <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> 4: <em><b>еи</b> чадо бѹдеть ти ꙗкоже ти сꙗ обѣща ан҃глъ ꙗвивъ сꙗ въ образѣ моѥмь</em>
+  * <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt> 44: <em>еси возложило порѹкѹ на мою сестрѹ и на доцерь <b>еи</b></em>
+  * <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> 9: <em><b>еи</b> чадо бѹдеть ти ꙗкоже ти сꙗ обѣща ан҃глъ ꙗвивъ сꙗ въ образѣ моѥмь</em>
+* <em>аллилуия</em>
+  * <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> 8: <em><b>аллилуия</b> <b>аллилуия</b> <b>аллилуия</b></em>
+  * <tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> 6: <em><b>аллилуия</b> хвала бг҃у</em>
 * <em>си</em>
-  * <tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt> 107: <em><b>си</b> бо ѡмывають ѡходы своя</em>
-  * <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt> 74: <em>а ѡлговичи идоша в своꙗ <b>си</b> а половци такоже в половцѣ</em>
-  * <tt><a href="orv_torot-pos-DET.html">DET</a></tt> 48: <em>да аще будеть добрѣ игорь великии кнѧзь да хранить <b>си</b> любовь правую</em>
-  * <tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> 5: <em>а вълъчинѹ <b>си</b> посъли мѹжь инъ</em>
+  * <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt> 238: <em>слышах старче ꙗко хощеши сѣни создати пред кѣлїею <b>си</b></em>
+  * <tt><a href="orv_torot-pos-DET.html">DET</a></tt> 64: <em>аще ли кому не люба грамотицѧ <b>си</b> а не поѡхритають сѧ но тако се рекуть</em>
+  * <tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> 6: <em>любо <b>си</b> сѧ на мѧ ѡц҃ю гнѣвати</em>
   * <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> 4: <em><b>си</b> ѡц҃ь ти оумерлъ</em>
   * <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> 2: <em>и трепеть <b>си</b> въста и въсѣде на конь</em>
 * <em>лютѣ</em>
-  * <tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> 5: <em>въ се же лѣт҃ <b>лютѣ</b> бѧше</em>
+  * <tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> 6: <em>и начатъ сещи его <b>лютѣ</b></em>
   * <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> 2: <em>оу <b>лютѣ</b> д҃ши ихъ</em>
+  * <tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt> 1: <em>Ѡ <b>лютѣ</b> вѣсти тоѧ страшныѧ и [пристраныа]</em>
 * <em>бе</em>
-  * <tt><a href="orv_torot-pos-ADP.html">ADP</a></tt> 27: <em>товарꙑ поима <b>бе</b> щисла</em>
-  * <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> 2: <em>а҃ маркосъ ѿ рима въ град҃ бьрне идеже <b>бе</b> жилъ поганꙑи злꙑи дедрикъ</em>
+  * <tt><a href="orv_torot-pos-ADP.html">ADP</a></tt> 37: <em>мꙑ <b>бе</b> своѥꙗ брат҃ѧ бес пльсковиць не имаѥмъ сѧ на ригѹ</em>
+  * <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> 6: <em><b>бе</b> бо ихъ пришло творѧхѹ ҂в҃ или боле</em>
   * <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> 1: <em>ѻнʼ же <b>бе</b> звѣроѡбразныи не тако помышлѧше</em>
   * <tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> 1: <em>ги <b>бе</b> мои на тя уповах</em>
-* <em>ни</em>
-  * <tt><a href="orv_torot-pos-CCONJ.html">CCONJ</a></tt> 300: <em>и елико ихъ есть не хрщ҃но да не имуть помощи ѿ б҃а <b>ни</b> ѡт перуна</em>
-  * <tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> 105: <em>аще л же <b>ни</b> то ѹмрети в темници хощеть</em>
-  * <tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt> 6: <em>коли мѧ пограбили и <b>ни</b> книгы взѧли ѹ ме</em>
-  * <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt> 2: <em>да пред <b>ни</b> водѧт кони въ снастех золотых до к҃</em>
-  * <tt><a href="orv_torot-pos-ADP.html">ADP</a></tt> 1: <em>и срете и на трубеши <b>ни</b> бродѣ кде нынѣ переяславль</em>
-  * <tt><a href="orv_torot-pos-DET.html">DET</a></tt> 1: <em>гл҃ще яко не достоить <b>ни</b> которому же языку имѣти букъвъ своихъ развѣ еврѣи и грекъ латинъ по пилатооу писанью еже на крстѣ гсни напис</em>
-  * <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> 1: <em><b>ни</b> гдрю ȥло чиниша</em>
-* <em>оу</em>
-  * <tt><a href="orv_torot-pos-ADP.html">ADP</a></tt> 173: <em>и приходѧщимъ имъ да витають <b>оу</b> ст҃го мамы</em>
-  * <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> 1: <em><b>оу</b> лютѣ д҃ши ихъ</em>
+* <em>ей</em>
+  * <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt> 2: <em>и я смиряя приказываю <b>ей</b></em>
+  * <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> 1: <em><b>ей</b> чтныи ѿч҃е</em>
+* <em>на</em>
+  * <tt><a href="orv_torot-pos-ADP.html">ADP</a></tt> 4307: <em>а вырезанъ <b>на</b> камени</em>
+  * <tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt> 5: <em>куплено ти рожи ѡсми <b>на</b> дсѧте полушоко</em>
+  * <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt> 3: <em>но аще <b>на</b> пустиши много ти добра будеть</em>
+  * <tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> 2: <em><b>на</b> оутрїа же ц҃рь костѧнʼтинъ повелѣ събрати троупїа мр҃твыхъ и погрести</em>
+  * <tt><a href="orv_torot-pos-CCONJ.html">CCONJ</a></tt> 1: <em>не суть бо б҃зи <b>на</b> древо</em>
+  * <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> 1: <em><b>на</b> плаваи на нем коли докучаеш ꙇ з женою ꙇ з детми</em>
+  * <tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> 1: <em>да <b>на</b> гарниковъ і҃ чл҃къ</em>
+  * <tt><a href="orv_torot-pos-PROPN.html">PROPN</a></tt> 1: <em>Рекъ Боянъ и ходы <b>на</b> Святъславля пѣстворца стараго времени Ярославля Ольгова коганя хоти</em>
+  * <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt> 1: <em>тоже бл҃годатию бж҃иѥю и мл҃твами пр҃пдбнго оц҃а нашего ѳеодосиꙗ въ мало лѣтъ съзьда <b>на</b> бысть цр҃кы и манастырь съграженъ</em>
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.642857 (the average of all parts of speech is 3.571475).
+The form / lemma ratio of `INTJ` is 1.684211 (the average of all parts of speech is 3.947827).
 
-The 1st highest number of forms (3) was observed with the lemma “аминъ”: <em>амин, аминъ, аминь</em>.
+The 1st highest number of forms (4) was observed with the lemma “аминъ”: <em>амин, аминъ, аминь, амінь</em>.
 
-The 2nd highest number of forms (3) was observed with the lemma “о”: <em>о, ѡ, ѽ</em>.
+The 2nd highest number of forms (4) was observed with the lemma “увы”: <em>оувы, увы, ѹвы, ꙋвы</em>.
 
-The 3rd highest number of forms (3) was observed with the lemma “увы”: <em>оувы, увы, ѹвы</em>.
+The 3rd highest number of forms (3) was observed with the lemma “о”: <em>о, ѡ, ѽ</em>.
 
 `INTJ` does not occur with any features.
 
 
 ## Relations
 
-`INTJ` nodes are attached to their parents using 3 different relations: <tt><a href="orv_torot-dep-vocative.html">vocative</a></tt> (443; 93% instances), <tt><a href="orv_torot-dep-root.html">root</a></tt> (33; 7% instances), <tt><a href="orv_torot-dep-discourse.html">discourse</a></tt> (1; 0% instances)
+`INTJ` nodes are attached to their parents using 4 different relations: <tt><a href="orv_torot-dep-discourse.html">discourse</a></tt> (584; 88% instances), <tt><a href="orv_torot-dep-root.html">root</a></tt> (77; 12% instances), <tt><a href="orv_torot-dep-conj.html">conj</a></tt> (5; 1% instances), <tt><a href="orv_torot-dep-appos.html">appos</a></tt> (1; 0% instances)
 
-Parents of `INTJ` nodes belong to 10 different parts of speech: <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt> (331; 69% instances),  (33; 7% instances), <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> (25; 5% instances), <tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> (22; 5% instances), <tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt> (21; 4% instances), <tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> (20; 4% instances), <tt><a href="orv_torot-pos-CCONJ.html">CCONJ</a></tt> (16; 3% instances), <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt> (6; 1% instances), <tt><a href="orv_torot-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
+Parents of `INTJ` nodes belong to 10 different parts of speech: <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt> (445; 67% instances),  (77; 12% instances), <tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> (54; 8% instances), <tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt> (31; 5% instances), <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> (29; 4% instances), <tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> (10; 1% instances), <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt> (10; 1% instances), <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> (8; 1% instances), <tt><a href="orv_torot-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="orv_torot-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances)
 
-444 (93%) `INTJ` nodes are leaves.
+589 (88%) `INTJ` nodes are leaves.
 
-27 (6%) `INTJ` nodes have one child.
+65 (10%) `INTJ` nodes have one child.
 
-5 (1%) `INTJ` nodes have two children.
+12 (2%) `INTJ` nodes have two children.
 
 1 (0%) `INTJ` nodes have three or more children.
 
 The highest child degree of a `INTJ` node is 5.
 
-Children of `INTJ` nodes are attached using 3 different relations: <tt><a href="orv_torot-dep-vocative.html">vocative</a></tt> (24; 57% instances), <tt><a href="orv_torot-dep-iobj.html">iobj</a></tt> (17; 40% instances), <tt><a href="orv_torot-dep-discourse.html">discourse</a></tt> (1; 2% instances)
+Children of `INTJ` nodes are attached using 9 different relations: <tt><a href="orv_torot-dep-vocative.html">vocative</a></tt> (48; 51% instances), <tt><a href="orv_torot-dep-obl-arg.html">obl:arg</a></tt> (19; 20% instances), <tt><a href="orv_torot-dep-obl.html">obl</a></tt> (14; 15% instances), <tt><a href="orv_torot-dep-conj.html">conj</a></tt> (5; 5% instances), <tt><a href="orv_torot-dep-discourse.html">discourse</a></tt> (3; 3% instances), <tt><a href="orv_torot-dep-det.html">det</a></tt> (2; 2% instances), <tt><a href="orv_torot-dep-advcl.html">advcl</a></tt> (1; 1% instances), <tt><a href="orv_torot-dep-advmod.html">advmod</a></tt> (1; 1% instances), <tt><a href="orv_torot-dep-appos.html">appos</a></tt> (1; 1% instances)
 
-Children of `INTJ` nodes belong to 6 different parts of speech: <tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> (21; 50% instances), <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt> (15; 36% instances), <tt><a href="orv_torot-pos-PROPN.html">PROPN</a></tt> (3; 7% instances), <tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> (1; 2% instances)
+Children of `INTJ` nodes belong to 7 different parts of speech: <tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> (49; 52% instances), <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt> (28; 30% instances), <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> (8; 9% instances), <tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt> (3; 3% instances), <tt><a href="orv_torot-pos-PROPN.html">PROPN</a></tt> (3; 3% instances), <tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt> (1; 1% instances)
 

@@ -169,4 +169,4 @@ Examples cited by Avila (2021) (our English translations):
 * [yrl] _Ixé se <b>rukawara</b> aikú, ti xinga asemu kwá suí. &nbsp;_  “I'm always at home, I hardly leave here.”
 * [yrl] _Ta <b>upukawera</b> tẽ paá, ma ti ta umaã tá resé. &nbsp;_  “They actually laughed, but didn't look at them.”
 
-<!-- Interlanguage links updated Po lis 14 15:34:40 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:32 CEST -->

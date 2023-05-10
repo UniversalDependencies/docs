@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-8 nodes (0%) are attached to their parents as `vocative`.
+17 nodes (0%) are attached to their parents as `vocative`.
 
-6 instances of `vocative` (75%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.625.
+14 instances of `vocative` (82%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.88235294117647.
 
-The following 3 pairs of parts of speech are connected with `vocative`: <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (6; 75% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (1; 13% instances), <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (1; 13% instances).
+The following 6 pairs of parts of speech are connected with `vocative`: <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (9; 53% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (3; 18% instances), <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (2; 12% instances), <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
@@ -42,35 +42,35 @@ The following 3 pairs of parts of speech are connected with `vocative`: <tt><a h
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 7 vocative	color:blue
-1	Adubhairt	abair	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
-2	Símón	Síomón	PROPN	_	Definite=Def|Gender=Masc|Number=Sing	1	nsubj	_	_
-3	Peadar	Peadar	PROPN	_	Definite=Def|Gender=Masc|Number=Sing	2	flat:name	_	_
-4	ris	le	ADP	_	Gender=Masc|Number=Sing|Person=3	1	obl:prep	_	SpaceAfter=No
-5	,	,	PUNCT	_	_	7	punct	_	_
-6	a	a	PART	_	PartType=Voc	7	case:voc	_	_
-7	thighearna	tiarna	NOUN	_	Case=Voc|Definite=Def|Form=Len|Gender=Masc|Number=Sing	12	vocative	_	SpaceAfter=No
-8	,	,	PUNCT	_	_	12	punct	_	_
-9	ní	is	AUX	_	Polarity=Neg|Tense=Pres|VerbForm=Cop	12	cop	_	_
-10	hiád	iad	PRON	_	Form=HPref|Number=Plur|Person=3	12	nmod	_	_
-11	mó	mo	DET	_	Number=Sing|Person=1|Poss=Yes	12	nmod:poss	_	_
-12	chosa	cos	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Fem|Number=Plur	1	ccomp	_	_
-13	amhaín	amháin	ADJ	_	Degree=Pos	12	amod	_	SpaceAfter=No
-14	,	,	PUNCT	_	_	17	punct	_	_
-15	achd	ach	CCONJ	_	_	17	cc	_	_
-16	mo	mo	DET	_	Number=Sing|Person=1|Poss=Yes	17	nmod:poss	_	_
-17	lámha	lámh	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	12	conj	_	_
-18	agus	agus	CCONJ	_	_	20	cc	_	_
-19	mó	mo	DET	_	Number=Sing|Person=1|Poss=Yes	20	nmod:poss	_	_
-20	cheann	ceann	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Masc|Number=Sing	17	conj	_	_
-21	mar	mar	ADP	_	_	23	case	_	_
-22	an	an	DET	_	Definite=Def|Number=Sing|PronType=Art	23	det	_	_
-23	gcédna	céanna	NOUN	_	Case=Nom|Definite=Def|Form=Ecl|Gender=Masc|Number=Sing	17	nmod	_	SpaceAfter=No
-24	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n
+# visual-style 23	bgColor:blue
+# visual-style 23	fgColor:white
+# visual-style 20	bgColor:blue
+# visual-style 20	fgColor:white
+# visual-style 20 23 vocative	color:blue
+1	Cóir	cóir	ADJ	_	Degree=Pos	0	root	_	_
+2	a	a	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	3	nmod:poss	_	_
+3	bhuidhe	buí	NOUN	_	Case=Nom|Definite=Def|Form=Len|Number=Sing	1	nsubj	_	_
+4	re	le	ADP	_	_	5	case	_	_
+5	Dia	Dia	PROPN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	3	nmod	_	_
+6	dil	dil	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	5	amod	_	_
+7	ar	ár	DET	_	Number=Plur|Person=1|Poss=Yes	8	nmod:poss	_	_
+8	mbreith	breith	NOUN	_	Case=Nom|Definite=Def|Form=Ecl|Gender=Fem|Number=Sing	3	parataxis	_	_
+9	i	i	ADP	_	_	10	case	_	_
+10	n-aimsir	aimsir	NOUN	_	Case=Nom|Form=Ecl|Gender=Fem|Number=Sing	8	obl:tmod	_	_
+11	creidimh	creideamh	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
+12	is	agus	CCONJ	_	_	13	cc	_	_
+13	Crist	Críost	PROPN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	8	conj	_	_
+14	dar	do	ADP	_	Number=Plur|Person=1|Poss=Yes	15	nmod:poss	_	_
+15	leighes	leigheas	NOUN	_	Definite=Def|VerbForm=Inf	13	xcomp	_	_
+16	or	ó	ADP	_	Number=Plur|Person=1|Poss=Yes	17	case	_	_
+17	ccoir	coir	NOUN	_	Case=Nom|Definite=Def|Form=Ecl|Gender=Fem|Number=Sing	15	obl	_	_
+18	's	agus	CCONJ	_	_	20	cc	_	_
+19	gan	gan	ADP	_	_	20	case	_	_
+20	adhradh	adhradh	NOUN	_	VerbForm=Inf	3	conj	_	_
+21	dhuit-si	do	ADP	_	Number=Sing|Person=2|PronType=Emp	20	obl:prep	_	_
+22	a	a	PART	_	PartType=Voc	23	case:voc	_	_
+23	shaoghail	saol	NOUN	_	Case=Voc|Definite=Def|Form=Len|Gender=Masc|Number=Sing	20	vocative	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~
 

@@ -22,10 +22,10 @@ The following 1 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 iobj	color:blue
-1	收	_	VERB	_	_	0	root	_	SpaceAfter=No
-2	你	_	PRON	_	_	1	iobj	_	SpaceAfter=No
-3	一百	_	NUM	_	_	1	obj	_	SpaceAfter=No
-4	。	_	PUNCT	_	_	1	punct	_	SpaceAfter=No
+1	收	收	VERB	_	_	0	root	_	SpaceAfter=No|Translit=shōu|LTranslit=shōu
+2	你	你	PRON	_	_	1	iobj	_	SpaceAfter=No|Translit=nǐ|LTranslit=nǐ
+3	一百	一百	NUM	_	_	1	obj	_	SpaceAfter=No|Translit=yībǎi|LTranslit=yībǎi
+4	。	。	PUNCT	_	_	1	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 ~~~
 

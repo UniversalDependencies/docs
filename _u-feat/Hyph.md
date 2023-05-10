@@ -17,4 +17,4 @@ relized as distinct tokens (without the hyphen) in different languages.
 Examples: "anglo-" in "anglo-saxon"; [cs] "česko-slovenský"
 (Czecho-Slovak; the second part is a normal adjective, including
 adjectival morphological paradigm, but the first part is special.)
-<!-- Interlanguage links updated Po lis 14 15:34:47 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:38 CEST -->

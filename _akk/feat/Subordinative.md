@@ -15,4 +15,4 @@ The subordinative suffix -_u_, in Neo-Assyrian mainly separable -(_ū_…)_ni_, 
 * _<b>ša šumī šaṭra ipaššiṭu-ma šumšu išaṭṭaru</b>_ “Who erases my inscribed name and writes his (own) name”
 
 
-<!-- Interlanguage links updated Po lis 14 15:34:58 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:49 CEST -->

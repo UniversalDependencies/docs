@@ -10,10 +10,10 @@ This relation is universal.
 
 562 nodes (0%) are attached to their parents as `iobj`.
 
-346 instances of `iobj` (62%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.14946619217082.
+353 instances of `iobj` (63%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.69395017793594.
 
-The following 8 pairs of parts of speech are connected with `iobj`: <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt> (276; 49% instances), <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt> (252; 45% instances), <tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt>-<tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt> (18; 3% instances), <tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt>-<tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt> (10; 2% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt>-<tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `iobj`: <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt> (274; 49% instances), <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt> (250; 44% instances), <tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt>-<tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt> (18; 3% instances), <tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt>-<tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt> (10; 2% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt>-<tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt>-<tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="gl_ctg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -24,7 +24,7 @@ The following 8 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 6 4 iobj	color:blue
 1	E	e	CCONJ	CC	_	6	cc	_	Treeler:et
 2	a	o	DET	DA0FS0	_	3	det	_	Treeler:spec
-3	quen	quen	PRON	PR0CC000	_	6	case	_	ToDo=case-upos|Treeler:cc
+3	quen	quen	PRON	PR0CC000	_	6	obl	_	ToDo=case-upos|Treeler:cc
 4	se	se	PRON	PP3CN000	_	6	iobj	_	Treeler:ci
 5	lle	lle	PRON	PP3CSD00	_	6	iobj	_	Treeler:ci
 6	pide	pedir	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
@@ -45,8 +45,8 @@ The following 8 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 8 9 iobj	color:blue
 1	Ademáis	ademáis	ADV	RG	_	5	case	_	SpaceAfter=No|ToDo=case-upos|Treeler:cc
 2	,	,	PUNCT	Fc	_	1	punct	_	Treeler:f
-3	pode	poder	VERB	VMIP3S0	_	5	aux	_	Treeler:v
-4	se	se	PRON	PP3CN000	_	3	dep	_	Treeler:morfema.pronominal
+3	pode	poder	AUX	VMIP3S0	_	5	aux	_	Treeler:v
+4	se	se	PRON	PP3CN000	_	5	dep	_	Treeler:morfema.pronominal
 5	visitar	visitar	VERB	VMN0000	_	0	root	_	Treeler:sentence
 6	a	o	DET	DA0FS0	_	7	det	_	Treeler:spec
 7	capela	capela	NOUN	NCFS000	_	5	obj	_	Treeler:cd
@@ -109,7 +109,7 @@ The following 8 pairs of parts of speech are connected with `iobj`: <tt><a href=
 27	de	de	ADP	SPS00	_	29	case	_	Treeler:sp
 28	ese	ese	DET	DD0MS0	_	29	det	_	Treeler:spec
 29	5	5	NUM	Z	_	26	obl	_	SpaceAfter=No|Treeler:sn
-30	%	%	SYM	Ft	_	9	punct	_	SpaceAfter=No|Treeler:f
+30	%	%	SYM	Ft	_	9	nmod	_	SpaceAfter=No|Treeler:f
 31	.	.	PUNCT	Fp	_	9	punct	_	Treeler:f
 
 ~~~

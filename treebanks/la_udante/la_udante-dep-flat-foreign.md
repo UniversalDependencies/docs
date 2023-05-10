@@ -79,7 +79,7 @@ The following 6 pairs of parts of speech are connected with `flat:foreign`: <tt>
 38	Spoletanis	spoletanus	ADJ	Smp2b	Case=Abl|Gender=Masc|InflClass=IndEurO|NameType=Nat|Number=Plur	36	conj	_	SpaceAfter=No
 39	,	,	PUNCT	Pu	_	32	punct	_	_
 40	nichil	nihil	PRON	r	Polarity=Neg|PronType=Ind	41	obj	_	_
-41	tractare	tracto	VERB	va1fp	Aspect=Imp|VerbForm=Vnoun|Voice=Act	42	ccomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+41	tractare	tracto	VERB	va1fp	Aspect=Imp|VerbForm=Inf|Voice=Act	42	ccomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 42	intendimus	intendo	VERB	va3ipp1	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 43	.	.	PUNCT	Pu	_	1	punct	_	_
 

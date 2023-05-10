@@ -7,13 +7,13 @@ udver: '2'
 ## Treebank Statistics: UD_Chinese-GSD: POS Tags: `CCONJ`
 
 There are 31 `CCONJ` lemmas (0%), 31 `CCONJ` types (0%) and 1740 `CCONJ` tokens (1%).
-Out of 15 observed tags, the rank of `CCONJ` is: 14 in number of lemmas, 14 in number of types and 12 in number of tokens.
+Out of 15 observed tags, the rank of `CCONJ` is: 13 in number of lemmas, 14 in number of types and 12 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: 和、 及、 與、 或、 以及、 至、 到、 或者、 並、 而
 
 The 10 most frequent `CCONJ` types:  和、 及、 與、 或、 以及、 至、 到、 或者、 並、 而
 
-The 10 most frequent ambiguous lemmas: 和 (<tt><a href="zh_gsd-pos-CCONJ.html">CCONJ</a></tt> 769, <tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> 74, <tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> 1), 及 (<tt><a href="zh_gsd-pos-CCONJ.html">CCONJ</a></tt> 254, <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> 1), 與 (<tt><a href="zh_gsd-pos-CCONJ.html">CCONJ</a></tt> 243, <tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> 242), 或 (<tt><a href="zh_gsd-pos-CCONJ.html">CCONJ</a></tt> 164, <tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt> 6), 至 (<tt><a href="zh_gsd-pos-CCONJ.html">CCONJ</a></tt> 74, <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> 57, <tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> 34), 到 (<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> 173, <tt><a href="zh_gsd-pos-CCONJ.html">CCONJ</a></tt> 28, <tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> 22), 或者 (<tt><a href="zh_gsd-pos-CCONJ.html">CCONJ</a></tt> 19, <tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt> 1), 並 (<tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt> 308, <tt><a href="zh_gsd-pos-CCONJ.html">CCONJ</a></tt> 15), 而 (<tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt> 306, <tt><a href="zh_gsd-pos-CCONJ.html">CCONJ</a></tt> 13), 又 (<tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt> 71, <tt><a href="zh_gsd-pos-CCONJ.html">CCONJ</a></tt> 10)
+The 10 most frequent ambiguous lemmas: 和 (<tt><a href="zh_gsd-pos-CCONJ.html">CCONJ</a></tt> 769, <tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> 74, <tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> 1), 及 (<tt><a href="zh_gsd-pos-CCONJ.html">CCONJ</a></tt> 254, <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> 5), 與 (<tt><a href="zh_gsd-pos-CCONJ.html">CCONJ</a></tt> 243, <tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> 242), 或 (<tt><a href="zh_gsd-pos-CCONJ.html">CCONJ</a></tt> 164, <tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt> 6), 至 (<tt><a href="zh_gsd-pos-CCONJ.html">CCONJ</a></tt> 74, <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> 57, <tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> 34), 到 (<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> 174, <tt><a href="zh_gsd-pos-CCONJ.html">CCONJ</a></tt> 28, <tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> 22), 或者 (<tt><a href="zh_gsd-pos-CCONJ.html">CCONJ</a></tt> 19, <tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt> 1), 並 (<tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt> 308, <tt><a href="zh_gsd-pos-CCONJ.html">CCONJ</a></tt> 15), 而 (<tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt> 306, <tt><a href="zh_gsd-pos-CCONJ.html">CCONJ</a></tt> 13), 又 (<tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt> 71, <tt><a href="zh_gsd-pos-CCONJ.html">CCONJ</a></tt> 10)
 
 The 10 most frequent ambiguous types:  和 (<tt><a href="zh_gsd-pos-CCONJ.html">CCONJ</a></tt> 769, <tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> 74, <tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> 1), 及 (<tt><a href="zh_gsd-pos-CCONJ.html">CCONJ</a></tt> 254, <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> 1), 與 (<tt><a href="zh_gsd-pos-CCONJ.html">CCONJ</a></tt> 243, <tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> 242), 或 (<tt><a href="zh_gsd-pos-CCONJ.html">CCONJ</a></tt> 164, <tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt> 6), 至 (<tt><a href="zh_gsd-pos-CCONJ.html">CCONJ</a></tt> 74, <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> 57, <tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> 34), 到 (<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> 173, <tt><a href="zh_gsd-pos-CCONJ.html">CCONJ</a></tt> 28, <tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> 22), 或者 (<tt><a href="zh_gsd-pos-CCONJ.html">CCONJ</a></tt> 19, <tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt> 1), 並 (<tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt> 308, <tt><a href="zh_gsd-pos-CCONJ.html">CCONJ</a></tt> 15), 而 (<tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt> 306, <tt><a href="zh_gsd-pos-CCONJ.html">CCONJ</a></tt> 13), 又 (<tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt> 71, <tt><a href="zh_gsd-pos-CCONJ.html">CCONJ</a></tt> 10)
 
@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  和 (<tt><a href="zh_gsd-pos-CCONJ.html">
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.000266).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.004821).
 
 The 1st highest number of forms (1) was observed with the lemma “且”: 且.
 
@@ -72,13 +72,13 @@ The 3rd highest number of forms (1) was observed with the lemma “並且”: �
 
 Parents of `CCONJ` nodes belong to 12 different parts of speech: <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (981; 56% instances), <tt><a href="zh_gsd-pos-PART.html">PART</a></tt> (256; 15% instances), <tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt> (190; 11% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (182; 10% instances), <tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt> (49; 3% instances), <tt><a href="zh_gsd-pos-NUM.html">NUM</a></tt> (44; 3% instances), <tt><a href="zh_gsd-pos-X.html">X</a></tt> (26; 1% instances), <tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="zh_gsd-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="zh_gsd-pos-PRON.html">PRON</a></tt> (2; 0% instances)
 
-1738 (100%) `CCONJ` nodes are leaves.
+1739 (100%) `CCONJ` nodes are leaves.
 
-2 (0%) `CCONJ` nodes have one child.
+1 (0%) `CCONJ` nodes have one child.
 
 The highest child degree of a `CCONJ` node is 1.
 
-Children of `CCONJ` nodes are attached using 2 different relations: <tt><a href="zh_gsd-dep-conj.html">conj</a></tt> (1; 50% instances), <tt><a href="zh_gsd-dep-mark.html">mark</a></tt> (1; 50% instances)
+Children of `CCONJ` nodes are attached using 1 different relations: <tt><a href="zh_gsd-dep-punct.html">punct</a></tt> (1; 100% instances)
 
-Children of `CCONJ` nodes belong to 2 different parts of speech: <tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt> (1; 50% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (1; 50% instances)
+Children of `CCONJ` nodes belong to 1 different parts of speech: <tt><a href="zh_gsd-pos-PUNCT.html">PUNCT</a></tt> (1; 100% instances)
 

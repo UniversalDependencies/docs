@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3228 nodes (8%) are attached to their parents as `det`.
+3222 nodes (8%) are attached to their parents as `det`.
 
-3227 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.11524163568773.
+3221 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.11545623836127.
 
-The following 10 pairs of parts of speech are connected with `det`: <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (3018; 93% instances), <tt><a href="fr_parisstories-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (100; 3% instances), <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (27; 1% instances), <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (25; 1% instances), <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> (19; 1% instances), <tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (18; 1% instances), <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (14; 0% instances), <tt><a href="fr_parisstories-pos-X.html">X</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `det`: <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (3012; 93% instances), <tt><a href="fr_parisstories-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (99; 3% instances), <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (27; 1% instances), <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (25; 1% instances), <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> (19; 1% instances), <tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (18; 1% instances), <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (14; 0% instances), <tt><a href="fr_parisstories-pos-X.html">X</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -63,7 +63,7 @@ The following 10 pairs of parts of speech are connected with `det`: <tt><a href=
 4	,	,	PUNCT	_	_	3	punct	_	AlignBegin=16022|AlignEnd=16022
 5	ben	ben	INTJ	_	_	9	discourse	_	AlignBegin=16022|AlignEnd=16383|SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	AlignBegin=16383|AlignEnd=16383
-7	XXX	XXX	PROPN	_	_	9	dep	_	AlignBegin=16383|AlignEnd=16743|Scrap=Yes|SpaceAfter=No
+7	XXX	XXX	X	_	_	9	dep	_	AlignBegin=16383|AlignEnd=16743|ExtPos=PROPN|Scrap=Yes|SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	_	AlignBegin=16743|AlignEnd=16743
 9	truc	truc	NOUN	_	Gender=Masc|Number=Sing	0	root	_	AlignBegin=16743|AlignEnd=17103
 10	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	AlignBegin=17103|AlignEnd=17463

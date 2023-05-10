@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>cualli</em> (<tt><a href="nhi_itml-po
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.115385 (the average of all parts of speech is 1.484055).
+The form / lemma ratio of `ADJ` is 1.115385 (the average of all parts of speech is 1.484900).
 
 The 1st highest number of forms (4) was observed with the lemma “_”: <em>chihchikichih, cocolisohqueh, tlaniltokanij, xitlatztiqueh</em>.
 

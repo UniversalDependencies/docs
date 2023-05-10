@@ -24,7 +24,7 @@ The following 53 pairs of parts of speech are connected with `compound`: <tt><a 
 # visual-style 3 1 compound	color:blue
 1	_	_	NOUN	_	_	3	compound	_	BBIL=B|BPT=0|LBIL=B|LPOS=0|SpaceAfter=No|UI=16683
 2	_	_	NUM	_	_	3	nummod	_	BBIL=I|BPT=0|LBIL=I|LPOS=0|SpaceAfter=No|UI=54442
-3	_	_	NOUN	_	_	12	dep	_	BBIL=I|BPT=4|LBIL=I|LPOS=0|SpaceAfter=Yes|UI=17392
+3	_	_	NOUN	_	_	12	dep	_	BBIL=I|BPT=4|LBIL=I|LPOS=0|UI=17392
 4	_	_	NOUN	_	_	6	obl	_	BBIL=B|BPT=1|LBIL=B|LPOS=0|SpaceAfter=No|UI=4496
 5	_	_	ADP	_	_	4	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No|UI=5
 6	_	_	VERB	_	_	12	acl	_	BBIL=B|BPT=1|LBIL=B|LPOS=11|SpaceAfter=No|UI=612
@@ -46,7 +46,7 @@ The following 53 pairs of parts of speech are connected with `compound`: <tt><a 
 # visual-style 8 4 compound	color:blue
 1	_	_	NOUN	_	_	3	compound	_	BBIL=B|BPT=0|LBIL=B|LPOS=4|SpaceAfter=No|UI=4637
 2	_	_	NUM	_	_	3	nummod	_	BBIL=I|BPT=0|LBIL=I|LPOS=4|SpaceAfter=No|UI=4782
-3	_	_	NOUN	_	_	11	dep	_	BBIL=I|BPT=4|LBIL=I|LPOS=4|SpaceAfter=Yes|UI=4658
+3	_	_	NOUN	_	_	11	dep	_	BBIL=I|BPT=4|LBIL=I|LPOS=4|UI=4658
 4	_	_	PROPN	_	_	8	compound	_	BBIL=B|BPT=0|LBIL=B|LPOS=0|SpaceAfter=No|UI=42580
 5	_	_	NOUN	_	_	8	compound	_	BBIL=I|BPT=0|LBIL=I|LPOS=0|SpaceAfter=No|UI=50039
 6	_	_	NOUN	_	_	8	compound	_	BBIL=I|BPT=0|LBIL=I|LPOS=0|SpaceAfter=No|UI=59560

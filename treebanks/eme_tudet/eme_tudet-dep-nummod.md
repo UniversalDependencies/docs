@@ -8,7 +8,7 @@ udver: '2'
 
 This relation is universal.
 
-9 nodes (1%) are attached to their parents as `nummod`.
+9 nodes (0%) are attached to their parents as `nummod`.
 
 9 instances of `nummod` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.11111111111111.

@@ -25,7 +25,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 * `Imp` (166; 0% of non-empty `Mood`): <em>nolite, uidete, docete, uade, audi, clarifica, ordinate, accipite, comedite, discedite</em>
 * `Ind` (30195; 81% of non-empty `Mood`): <em>potest, oportet, dicitur, habet, patet, dicit, uidetur, fit, possunt, habent</em>
 * `Sub` (6761; 18% of non-empty `Mood`): <em>possit, habeat, posset, dicatur, fiat, cognoscat, sequeretur, intelligat, agat, uelit</em>
-* `EMPTY` (22703): <em>ostensum, dicendum, intelligere, dictum, dici, fieri, habere, mouens, separatae, facere</em>
+* `EMPTY` (22710): <em>ostensum, dicendum, intelligere, dictum, dici, fieri, habere, mouens, separatae, facere</em>
 
 <table>
   <tr><th>Paradigm <i>dico</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th></tr>
@@ -65,5 +65,6 @@ The 10 most frequent relations where parent and child node agree in `Mood`:
 <tt>VERB --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> VERB</tt> (2067; 83%),
 <tt>VERB --[<tt><a href="la_ittb-dep-csubj-relcl.html">csubj:relcl</a></tt>]--> VERB</tt> (352; 59%),
 <tt>VERB --[<tt><a href="la_ittb-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (29; 71%),
-<tt>VERB --[<tt><a href="la_ittb-dep-advcl-cmp.html">advcl:cmp</a></tt>]--> VERB</tt> (4; 57%).
+<tt>VERB --[<tt><a href="la_ittb-dep-advcl-cmp.html">advcl:cmp</a></tt>]--> VERB</tt> (5; 63%),
+<tt>VERB --[<tt><a href="la_ittb-dep-ccomp-reported.html">ccomp:reported</a></tt>]--> VERB</tt> (2; 67%).
 

@@ -28,4 +28,4 @@ discourse(la-6,euh-7)
 bah ça parait normal \n well it looks ok
 discourse(parait,bah)
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:23 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:04:13 CEST -->

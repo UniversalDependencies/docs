@@ -46,4 +46,4 @@ happen. It usually presupposes volition. The forms in Bulgarian are analytic.
 - <b>Бих дошъл</b>, ако имах възможност. / _Bih doshal, ako imah vazmozhnost_ "I would come if I could."
 - <b>Би трябвало</b> добре да се подготвим за срещата. / _Bi tryabvalo dobre da se podgotvim za sreshtata_ "We should prepare very well for the meeting." 
 
-<!-- Interlanguage links updated Po lis 14 15:34:48 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:39 CEST -->

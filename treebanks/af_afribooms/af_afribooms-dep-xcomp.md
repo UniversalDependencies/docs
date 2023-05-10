@@ -45,7 +45,7 @@ The following 13 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 2	is	wees	AUX	VTHOK	Tense=Pres|VerbForm=Fin,Inf|VerbType=Cop	4	cop	_	_
 3	'n	'n	DET	LO	Definite=Ind|PronType=Art	4	det	_	_
 4	ideaal	ideaal	NOUN	NSE	Number=Sing	0	root	_	_
-5	waarvoor	waarvoor	PRON	PB	PronType=Rel	7	nsubj	_	_
+5	waarvoor	waarvoor	ADV	PB	Degree=Pos	7	advmod	_	_
 6	ek	ek	PRON	PEENP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
 7	hoop	hoop	VERB	VTHOG	Subcat=Tran|Tense=Pres|VerbForm=Fin,Inf	4	ccomp	_	_
 8	om	om	ADP	SVS	AdpType=Prep	10	case	_	_

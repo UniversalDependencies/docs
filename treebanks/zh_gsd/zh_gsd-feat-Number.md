@@ -43,7 +43,7 @@ The most frequent other feature values with which `PART` and `Number` co-occurre
 `NOUN` tokens may have the following values of `Number`:
 
 * `Plur` (20; 100% of non-empty `Number`): 人們
-* `EMPTY` (34027): 年、 個、 月、 日、 人、 等、 種、 次、 人口、 名
+* `EMPTY` (34026): 年、 個、 月、 日、 人、 等、 種、 次、 人口、 名
 
 ## Relations with Agreement in `Number`
 

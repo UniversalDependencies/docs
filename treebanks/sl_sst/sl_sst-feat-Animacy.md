@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Anim`, `Inan`.
 
-405 tokens (1%) have a non-empty value of `Animacy`.
-240 types (4%) occur at least once with a non-empty value of `Animacy`.
-240 lemmas (6%) occur at least once with a non-empty value of `Animacy`.
-The feature is used with 2 part-of-speech tags: <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (380; 1% instances), <tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt> (25; 0% instances).
+406 tokens (1%) have a non-empty value of `Animacy`.
+241 types (4%) occur at least once with a non-empty value of `Animacy`.
+241 lemmas (6%) occur at least once with a non-empty value of `Animacy`.
+The feature is used with 2 part-of-speech tags: <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (381; 1% instances), <tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt> (25; 0% instances).
 
 ### `NOUN`
 
-380 <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> tokens (10% of all `NOUN` tokens) have a non-empty value of `Animacy`.
+381 <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> tokens (11% of all `NOUN` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="sl_sst-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (380; 100%), <tt><a href="sl_sst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (380; 100%), <tt><a href="sl_sst-feat-Case.html">Case</a></tt><tt>=Acc</tt> (378; 99%).
+The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="sl_sst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (381; 100%), <tt><a href="sl_sst-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (380; 100%), <tt><a href="sl_sst-feat-Case.html">Case</a></tt><tt>=Acc</tt> (379; 99%).
 
 `NOUN` tokens may have the following values of `Animacy`:
 
 * `Anim` (37; 10% of non-empty `Animacy`): <em>cimra, gospoda, otroka, sina, atija, babeka, dedca, duha, ekonomista, eksponenta</em>
-* `Inan` (343; 90% of non-empty `Animacy`): <em>dan, način, petek, denar, izraz, teden, primer, čas, konec, mesec</em>
-* `EMPTY` (3246): <em>bistvu, redu, strani, jutro, leto, stvari, evrov, koncu, gospod, hvala</em>
+* `Inan` (344; 90% of non-empty `Animacy`): <em>dan, način, petek, denar, izraz, teden, primer, čas, konec, mesec</em>
+* `EMPTY` (3245): <em>bistvu, redu, strani, jutro, leto, stvari, evrov, koncu, gospod, hvala</em>
 
-`Animacy` seems to be **lexical feature** of `NOUN`. 100% lemmas (219) occur only with one value of `Animacy`.
+`Animacy` seems to be **lexical feature** of `NOUN`. 100% lemmas (220) occur only with one value of `Animacy`.
 
 ### `PROPN`
 

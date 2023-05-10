@@ -25,7 +25,7 @@ The following 5 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 # visual-style 3 2 obl:tmod	color:blue
 1	Омбоце	омбоце	ADJ	A	Case=Nom|Definite=Ind|Number=Sing|NumType=Ord	2	amod	_	GTtags=Ord,Sg,Nom,Indef
 2	шись	ши	NOUN	N	Case=Nom|Definite=Def|Number=Sing	3	obl:tmod	_	GTtags=Sg,Nom,Def
-3	ащан	ащемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres|Valency=1	0	root	_	GTtags=IV,Ind,Prs,ScSg1
+3	ащан	ащемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres	0	root	_	GTtags=IV,Ind,Prs,ScSg1
 4	эрьгяфтома	эрьгя	NOUN	N	Case=Abe|Definite=Ind|Number=Plur,Sing	3	obl	_	GTtags=SP,Abe,Indef|SpaceAfter=No
 5	.	.	PUNCT	CLB	_	3	punct	_	_
 
@@ -55,8 +55,8 @@ The following 5 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 # visual-style 9	fgColor:white
 # visual-style 9 8 obl:tmod	color:blue
 1	Сондеенза	сон	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs|Variant=Long	3	obl:agent	_	GTtags=Pers,Sg3,Dat,Long
-2	эрявсть	эрявомс	AUX	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|Valency=1	3	aux:nec	_	GTtags=IV,Ind,Prt1,ScPl3
-3	тиемс	тиемс	VERB	_	Valency=2|VerbForm=Inf	0	root	_	GTtags=TV,Inf
+2	эрявсть	эрявомс	AUX	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past	3	aux:nec	_	GTtags=IV,Ind,Prt1,ScPl3
+3	тиемс	тиемс	VERB	_	VerbForm=Inf	0	root	_	GTtags=TV,Inf
 4	шяяренза	шяярь	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	3	obj	_	GTtags=Pl,Nom,PxSg3|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	9	punct	_	_
 6	аньцек	аньцек	ADV	_	_	9	advmod:foc	_	_

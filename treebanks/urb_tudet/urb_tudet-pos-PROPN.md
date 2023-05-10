@@ -7,13 +7,13 @@ udver: '2'
 ## Treebank Statistics: UD_Kaapor-TuDeT: POS Tags: `PROPN`
 
 There are 16 `PROPN` lemmas (8%), 18 `PROPN` types (8%) and 20 `PROPN` tokens (5%).
-Out of 13 observed tags, the rank of `PROPN` is: 5 in number of lemmas, 5 in number of types and 6 in number of tokens.
+Out of 14 observed tags, the rank of `PROPN` is: 5 in number of lemmas, 5 in number of types and 6 in number of tokens.
 
 The 10 most frequent `PROPN` lemmas: <em>Maíra, Purutu, _, ʃaʔe, Ana, Arauxu, Kaninde, Oropo, Tuti, kaitā</em>
 
 The 10 most frequent `PROPN` types:  <em>Xõru, ʃaʔe, Anake, Arauxu, Kaninde, Maiɾ, Mataru, Maíra, Maírake, Oropo</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="urb_tudet-pos-VERB.html">VERB</a></tt> 3, <tt><a href="urb_tudet-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="urb_tudet-pos-PRON.html">PRON</a></tt> 2, <tt><a href="urb_tudet-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="urb_tudet-pos-ADV.html">ADV</a></tt> 1), <em>kamarar</em> (<tt><a href="urb_tudet-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="urb_tudet-pos-PROPN.html">PROPN</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="urb_tudet-pos-VERB.html">VERB</a></tt> 3, <tt><a href="urb_tudet-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="urb_tudet-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="urb_tudet-pos-ADV.html">ADV</a></tt> 1, <tt><a href="urb_tudet-pos-NUM.html">NUM</a></tt> 1, <tt><a href="urb_tudet-pos-PRON.html">PRON</a></tt> 1), <em>kamarar</em> (<tt><a href="urb_tudet-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="urb_tudet-pos-PROPN.html">PROPN</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>kamarar</em> (<tt><a href="urb_tudet-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="urb_tudet-pos-PROPN.html">PROPN</a></tt> 1)
 
@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>kamarar</em> (<tt><a href="urb_tudet-
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.125000 (the average of all parts of speech is 1.160000).
+The form / lemma ratio of `PROPN` is 1.125000 (the average of all parts of speech is 1.154229).
 
 The 1st highest number of forms (2) was observed with the lemma “Maíra”: <em>Maíra, Maírake</em>.
 

@@ -62,7 +62,7 @@ The following 16 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 9	fgColor:white
 # visual-style 9 8 case	color:blue
 1	Il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
-2	inhale	inhale	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	inhale	inhaler	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	de	de	ADP	E	_	5	case	_	_
 4	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
 5	oxygène	oxygène	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	SpaceAfter=No

@@ -27,7 +27,7 @@ The following 9 pairs of parts of speech are connected with `advmod:eval`: <tt><
 2	Седеезэ	седей	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	nsubj	_	GTtags=Sg,Nom,PxSg3
 3	нать	нать	ADV	Adv	_	5	advmod:eval	_	GTtags=Parenthetic
 4	эзь	а	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Polarity=Neg|Tense=Past|VerbType=Aux	5	aux:neg	_	GTtags=VerbType=Aux,Neg,Ind,Prt1,ScSg3
-5	кирдть	кирдемс	VERB	V	Mood=Imp|Number[subj]=Sing|Person[subj]=2|Valency=2	0	root	_	GTtags=TV,Imprt,ScSg2|SpaceAfter=No
+5	кирдть	кирдемс	VERB	V	Mood=Imp|Number[subj]=Sing|Person[subj]=2	0	root	_	GTtags=TV,Imprt,ScSg2|SpaceAfter=No
 6	.	.	PUNCT	CLB	_	5	punct	_	_
 
 ~~~
@@ -44,7 +44,7 @@ The following 9 pairs of parts of speech are connected with `advmod:eval`: <tt><
 3	чопачат	чопача	NOUN	N	Case=Nom|Definite=Ind|Number=Sing|Number[subj]=Sing|Person[subj]=2|Tense=Pres	0	root	_	GTtags=Sg,Nom,Indef,Prs,ScSg2|SpaceAfter=No
 4	?	?	PUNCT	CLB	_	3	punct	_	_
 5	—	—	PUNCT	PUNCT	_	6	punct	_	_
-6	кевкстизе	кевкстемс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Past|Valency=2	3	parataxis	_	GTtags=TV,Ind,Prt1,ScSg3,OcSg3|1q-1:27.2,7
+6	кевкстизе	кевкстемс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Past	3	parataxis	_	GTtags=TV,Ind,Prt1,ScSg3,OcSg3|1q-1:27.2,7
 7	Вардай	Вардай	PROPN	N	Case=Nom|Definite=Ind|NameType=Hom|Number=Sing	6	nsubj	_	GTtags=Sem/Plc,Sg,Nom,Indef
 8	Алистра	Алистра	PROPN	N	Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	7	flat:name	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
 9	.	.	PUNCT	CLB	_	3	punct	_	_
@@ -62,7 +62,7 @@ The following 9 pairs of parts of speech are connected with `advmod:eval`: <tt><
 2	нать	нать	ADV	Adv	_	1	advmod:eval	_	GTtags=Parenthetic
 3	весе	весе	PRON	Pron	Case=Nom|Definite=Ind|Number=Sing|PronType=Tot	4	det	_	GTtags=Tot,Sg,Nom,Indef
 4	тевтне	тев	NOUN	N	Case=Nom|Definite=Def|Number=Plur	6	nsubj	_	GTtags=Pl,Nom,Def
-5	ульнесть	ульнемс	AUX	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|Valency=1	6	cop	_	GTtags=IV,Ind,Prt1,ScPl3
+5	ульнесть	ульнемс	AUX	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past	6	cop	_	GTtags=IV,Ind,Prt1,ScPl3
 6	велесэнк	веле	NOUN	N	Case=Ine|Number=Plur,Sing|Number[psor]=Plur|Person[psor]=2	0	root	_	GTtags=Sem/Plc,SP,Ine,PxPl2|SpaceAfter=No
 7	?	?	PUNCT	CLB	_	6	punct	_	_
 

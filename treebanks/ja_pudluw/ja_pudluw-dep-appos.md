@@ -103,7 +103,7 @@ The following 12 pairs of parts of speech are connected with `appos`: <tt><a hre
 26	と	と	ADP	助詞-格助詞	_	25	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,と,と,と,ト,,,ト,ト,と
 27	結婚し	結婚する	VERB	動詞-一般-サ行変格	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|SpaceAfter=No|UnidicInfo=;,結婚;為る,結婚;し,結婚;する,ケッコン;シ,;,;,ケッコン;スル,ケッコンスル,結婚する
 28	た	た	AUX	助動詞-助動詞-タ	_	27	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,た,た,た,タ,,,タ,タ,た
-29	。	。	PUNCT	補助記号-句点	_	27	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=Yes|UnidicInfo=,。,。,。,,,,,,。
+29	。	。	PUNCT	補助記号-句点	_	27	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|UnidicInfo=,。,。,。,,,,,,。
 
 ~~~
 

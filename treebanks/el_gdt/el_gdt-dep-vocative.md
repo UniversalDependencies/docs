@@ -47,7 +47,7 @@ The following 4 pairs of parts of speech are connected with `vocative`: <tt><a h
 4	ήταν	είμαι	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	5	cop	_	_
 5	σαφές	σαφής	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
 6	ότι	ότι	SCONJ	SCONJ	_	10	mark	_	_
-7	αυτό	αυτός	PRON	PRON	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Dem	9	det	_	_
+7	αυτό	αυτός	DET	DET	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Dem	9	det	_	_
 8	το	ο	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	9	det	_	_
 9	πνεύμα	πνεύμα	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	_
 10	διέπνεε	διαπνέω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	csubj	_	_

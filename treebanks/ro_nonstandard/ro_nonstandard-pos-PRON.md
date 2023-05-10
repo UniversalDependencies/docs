@@ -66,7 +66,7 @@ The 10 most frequent ambiguous types:  <em>să</em> (<tt><a href="ro_nonstandard
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 4.691781 (the average of all parts of speech is 2.492163).
+The form / lemma ratio of `PRON` is 4.691781 (the average of all parts of speech is 2.491875).
 
 The 1st highest number of forms (55) was observed with the lemma “acela”: <em>-aceaia, -acee, -acel, -acela, acea, aceaea, aceaia, aceaiia, aceala, aceale, acealea, acealia, acee, aceea, acei, aceia, aceie, aceiia, acel, acela, acele, acelea, acelor, acelora, aceluia, acia, acialea, acie, aciie, cea, ceaea, ceaia, ceale, cealea, cealia, cee, ceea, cei, ceia, ceie, ceii, ceiia, cel, cela, cele, celea, celi, celie, celor, celora, celui, celuia, cia, cie, ciie</em>.
 

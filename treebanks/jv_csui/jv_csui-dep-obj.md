@@ -8,33 +8,45 @@ udver: '2'
 
 This relation is universal.
 
-53 nodes (3%) are attached to their parents as `obj`.
+502 nodes (3%) are attached to their parents as `obj`.
 
-53 instances of `obj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.09433962264151.
+478 instances of `obj` (95%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.14741035856574.
 
-The following 5 pairs of parts of speech are connected with `obj`: <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> (39; 74% instances), <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> (7; 13% instances), <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="jv_csui-pos-X.html">X</a></tt> (4; 8% instances), <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> (2; 4% instances), <tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt>-<tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> (1; 2% instances).
+The following 12 pairs of parts of speech are connected with `obj`: <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> (414; 82% instances), <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> (38; 8% instances), <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> (26; 5% instances), <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="jv_csui-pos-X.html">X</a></tt> (15; 3% instances), <tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt>-<tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="jv_csui-pos-ADV.html">ADV</a></tt>-<tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="jv_csui-pos-DET.html">DET</a></tt>-<tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt>-<tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="jv_csui-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="jv_csui-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="jv_csui-pos-X.html">X</a></tt>-<tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 9 obj	color:blue
-1	(	(	PUNCT	_	_	2	punct	_	SpaceAfter=No
-2	BBC	BBC	PROPN	_	_	8	obl	_	SpaceAfter=No
-3	)	)	PUNCT	_	_	2	punct	_	_
-4	5	5	NUM	_	NumType=Card	2	nummod	_	_
-5	-	-	PUNCT	_	_	2	punct	_	_
-6	Gjorge	Gjorge	PROPN	_	_	8	nsubj	_	_
-7	Ivanov	Ivanov	PROPN	_	_	6	flat:name	_	_
-8	mimpang	mimpang	VERB	_	Mood=Ind|Polite=Form|Voice=Act	0	root	_	Level=Krama
-9	pemilu	pemilu	NOUN	_	Number=Sing	8	obj	_	_
-10	présidhèn	présidhèn	NOUN	_	Number=Sing	9	nmod	_	_
-11	ing	ing	ADP	_	_	12	case	_	_
-12	Makedonia	Makedonia	PROPN	_	_	9	nmod	_	SpaceAfter=No
-13	.	.	PUNCT	_	_	8	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 obj	color:blue
+1	Bocah	_	NOUN	_	Number=Sing|Polite=Infm	3	nsubj	_	_
+2	kuwi	_	DET	_	Polite=Infm|PronType=Dem	1	det	_	_
+3	seneng	_	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+4	nggambar	_	VERB	_	Mood=Ind|Voice=Act	3	xcomp	_	_
+5	sesawangan	_	NOUN	_	Number=Sing|Polite=Infm	4	obj	_	_
+6	sing	_	PRON	_	Polite=Infm|PronType=Rel	7	nsubj	_	_
+7	asri	_	ADJ	_	_	5	acl:relcl	_	SpaceAfter=No
+8	.	_	PUNCT	_	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 obj	color:blue
+1	Allah	_	PROPN	_	_	3	nsubj	_	_
+2	wis	_	AUX	_	Polite=Infm	3	aux	_	_
+3	ndokok	_	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+4	aku	_	PRON	_	Number=Sing|Person=1|Polite=Infm|PronType=Prs	3	obj	_	_
+5	ing	_	ADP	_	Polite=Infm	6	case	_	_
+6	Indonesia	_	PROPN	_	_	3	obl	_	SpaceAfter=No
+7	.	_	PUNCT	_	_	3	punct	_	_
 
 ~~~
 
@@ -45,45 +57,18 @@ The following 5 pairs of parts of speech are connected with `obj`: <tt><a href="
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 10 obj	color:blue
-1	Ing	Ing	ADP	_	_	2	case	_	_
-2	24	24	NUM	_	NumType=Card	6	obl:tmod	_	_
-3	Maret	Maret	PROPN	_	_	2	flat	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	2	punct	_	_
-5	dhèwèké	dhèwèké	PRON	_	Number=Sing|Person=3|Polite=Infm|PronType=Prs	6	nsubj	_	Level=Ngoko
-6	nyétak	nyétak	VERB	_	Mood=Ind|Polite=Infm|Voice=Act	0	root	_	Level=Ngoko
-7	rong	rong	NUM	_	NumType=Card|Polite=Infm	8	nummod	_	Level=Ngoko
-8	gol	gol	NOUN	_	Number=Sing	6	obl	_	_
-9	nglawan	lawan	VERB	_	Mood=Ind|Voice=Act	6	advcl	_	_
-10	Real	Real	PROPN	_	_	9	obj	_	_
-11	Sociedad	Sociedad	PROPN	_	_	10	flat:name	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	6	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 14 15 obj	color:blue
-1	Timur	timur	NOUN	_	Number=Sing	14	nsubj	_	_
-2	2	2	NUM	_	NumType=Card	1	nummod	_	SpaceAfter=No
-3	,	,	PUNCT	_	_	4	punct	_	_
-4	Timur	timur	NOUN	_	Number=Sing	1	conj	_	_
-5	3	3	NUM	_	NumType=Card	4	nummod	_	SpaceAfter=No
-6	,	,	PUNCT	_	_	8	punct	_	_
-7	lan	lan	CCONJ	_	Polite=Form	8	cc	_	Level=Ngoko
-8	Barat	Barat	NOUN	_	Number=Sing	1	conj	_	_
-9	1	1	NUM	_	NumType=Card	8	nummod	_	SpaceAfter=No
-10	-	-	PUNCT	_	_	11	punct	_	SpaceAfter=No
-11	Barat	Barat	NOUN	_	Number=Sing	8	nmod	_	_
-12	3	3	NUM	_	NumType=Card	11	nummod	_	_
-13	kabèh	kabèh	PRON	_	Polite=Infm|PronType=Tot	1	nmod	_	Level=Ngoko
-14	nglayani	nglayani	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
-15	penerbangan	penerbangan	X	_	Foreign=Yes	14	obj	_	_
-16	domestik	domestik	X	_	Foreign=Yes	15	flat:foreign	_	SpaceAfter=No
-17	.	.	PUNCT	_	_	14	punct	_	_
+1	Ing	_	ADP	_	Polite=Infm	2	case	_	_
+2	24	_	NUM	_	NumType=Card	6	obl:tmod	_	_
+3	Maret	_	PROPN	_	_	2	flat	_	SpaceAfter=No
+4	,	_	PUNCT	_	_	2	punct	_	_
+5	dheweke	_	PRON	_	Number=Sing|Person=3|Polite=Infm|PronType=Prs	6	nsubj	_	_
+6	nyetak	_	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+7	rong	_	NUM	_	NumType=Card|Polite=Infm	8	nummod	_	_
+8	gol	_	NOUN	_	Number=Sing	6	obl	_	_
+9	nglawan	_	VERB	_	Mood=Ind|Voice=Act	6	advcl	_	_
+10	Real	_	PROPN	_	_	9	obj	_	_
+11	Sociedad	_	PROPN	_	_	10	flat:name	_	SpaceAfter=No
+12	.	_	PUNCT	_	_	6	punct	_	_
 
 ~~~
 

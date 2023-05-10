@@ -56,7 +56,7 @@ The following 6 pairs of parts of speech are connected with `obl`: <tt><a href="
 # visual-style 2 1 obl	color:blue
 1	Меным	ме	PRON	Pron	Case=Dat|Number=Sing|Person=1|PronType=Prs	2	obl	_	GTtags=Pron,Pers,Sg1,Dat
 2	охота	охота	NOUN	N	Case=Nom|Number=Sing	0	root	_	GTtags=N,Sg,Nom
-3	тӧдны	тӧдны	VERB	V	Valency=1|VerbForm=Inf	2	acl	_	GTtags=V,IV,Inf|SpaceAfter=No
+3	тӧдны	тӧдны	VERB	V	VerbForm=Inf	2	acl	_	GTtags=V,IV,Inf|SpaceAfter=No
 4	,	,	PUNCT	CLB	_	12	punct	_	GTtags=CLB
 5	мыля	мыля	ADV	Adv	_	12	advmod	_	GTtags=Adv
 6	сылӧ	сія	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Prs	12	obl	_	GTtags=Pron,Pers,Sg3,Dat

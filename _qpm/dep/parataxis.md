@@ -49,3 +49,4 @@ parataxis(préče, Jurké)
 ~~~
 
 
+<!-- Interlanguage links updated Út 9. května 2023, 20:04:31 CEST -->

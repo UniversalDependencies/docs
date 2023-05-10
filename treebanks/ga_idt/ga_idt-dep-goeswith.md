@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3 nodes (0%) are attached to their parents as `goeswith`.
+2 nodes (0%) are attached to their parents as `goeswith`.
 
-3 instances of `goeswith` (100%) are left-to-right (parent precedes child).
+2 instances of `goeswith` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 3 pairs of parts of speech are connected with `goeswith`: <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (1; 33% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (1; 33% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (1; 33% instances).
+The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_idt-pos-X.html">X</a></tt> (1; 50% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-X.html">X</a></tt> (1; 50% instances).
 
 
 ~~~ conllu
@@ -26,8 +26,8 @@ The following 3 pairs of parts of speech are connected with `goeswith`: <tt><a h
 2	cop-on	cop-on	NOUN	Noun	Case=Nom|Foreign=Yes|Number=Sing	1	nsubj	_	_
 3	ar	ar	ADP	Simp	_	2	nmod	_	_
 4	bith	bith	NOUN	Subst	Case=Nom|Gender=Masc|Number=Sing	3	fixed	_	_
-5	a'	ag	ADP	Simp	_	1	obl:prep	_	_
-6	t	t	NOUN	Item	_	5	goeswith	_	SpaceAfter=No
+5	a'	ag	ADP	Simp	Typo=Yes	1	obl:prep	_	_
+6	t	_	X	Item	_	5	goeswith	_	SpaceAfter=No
 7	?	?	PUNCT	?	_	1	punct	_	_
 
 ~~~
@@ -44,8 +44,8 @@ The following 3 pairs of parts of speech are connected with `goeswith`: <tt><a h
 3	margaíochta	margaíocht	NOUN	Noun	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
 4	ar	is	AUX	Cop	Tense=Pres|VerbForm=Cop	5	cop	_	_
 5	fiú	fiú	NOUN	Subst	Case=Nom|Number=Sing	2	acl:relcl	_	_
-6	E50	E50	NOUN	Abr	Abbr=Yes	5	nmod	_	_
-7	,000	,000	NUM	Num	_	6	goeswith	_	_
+6	E50	E50	NOUN	Abr	Abbr=Yes|Typo=Yes	5	nmod	_	_
+7	,000	_	X	Num	_	6	goeswith	_	_
 8	é	é	PRON	Pers	Gender=Masc|Number=Sing|Person=3	5	nsubj	_	_
 9	ag	ag	ADP	Simp	_	10	case	_	_
 10	tionlacan	tionlacan	NOUN	Noun	VerbForm=Vnoun	1	xcomp	_	_
@@ -71,31 +71,6 @@ The following 3 pairs of parts of speech are connected with `goeswith`: <tt><a h
 30	Raidió	raidió	PROPN	Noun	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	24	conj	_	NamedEntity=Yes
 31	Fáilte	fáilte	PROPN	Noun	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	30	nmod	_	NamedEntity=Yes|SpaceAfter=No
 32	.	.	PUNCT	.	_	1	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 7 goeswith	color:blue
-1	D'	do	PART	Vb	PartType=Vb	2	mark:prt	_	SpaceAfter=No
-2	imir	imir	VERB	VTI	Mood=Ind|Tense=Past	0	root	_	_
-3	do	do	ADP	Simp	_	4	case	_	_
-4	Londain	Londain	PROPN	Noun	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	2	obl	_	_
-5	i	i	ADP	Simp	_	6	case	_	_
-6	gCraobh-	craobh	PROPN	Noun	Case=Nom|Definite=Def|Form=Ecl|Gender=Masc|Number=Sing	2	obl	_	NamedEntity=Yes
-7	Chluichí	cluiche	PROPN	Noun	Definite=Def|Form=Len|Gender=Masc|Number=Plur	6	goeswith	_	NamedEntity=Yes
-8	na	an	DET	Art	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	NamedEntity=Yes
-9	hÉireann	Éire	PROPN	Noun	Case=Gen|Definite=Def|Form=HPref|Gender=Fem|Number=Sing	6	nmod	_	NamedEntity=Yes
-10	1900	1900	NUM	Num	_	6	flat	_	NamedEntity=Yes|SpaceAfter=No
-11	,	,	PUNCT	Punct	_	12	punct	_	_
-12	1901	1901	NUM	Num	_	10	conj	_	SpaceAfter=No
-13	,	,	PUNCT	Punct	_	14	punct	_	_
-14	1903	1903	NUM	Num	_	10	conj	_	SpaceAfter=No
-15	.	.	PUNCT	.	_	2	punct	_	_
 
 ~~~
 

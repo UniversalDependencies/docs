@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Olga Lyashevskaya, Maria Skachedubova.
 
 Repository: [UD_Old_East_Slavic-RNC](https://github.com/UniversalDependencies/UD_Old_East_Slavic-RNC)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udorv_rnc211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udorv_rnc212)<br />
+Download all treebanks: [UD 2.12](/#download)
 
 License: CC BY-SA 4.0
 
@@ -632,7 +632,7 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
     <ul>
       <li>AUX-Conv: будучи</li>
       <li>AUX-Fin: будет, будутъ, бꙋдетъ, будетъ, бꙋдет, бꙋдеш[ь], будеть, бꙋдꙋт</li>
-      <li>VERB-Fin: учнутъ, бꙋдет, будет, придет, укажешь, ꙋвидиши, будеть, доведется, пошлю, сотворит</li>
+      <li>VERB-Fin: учнутъ, бꙋдет, придет, укажешь, ꙋвидиши, будет, будеть, доведется, пошлю, сотворит</li>
       <li>VERB-Inf: вступаться, ослушаться</li>
       <li>VERB-PartRes: взял, далъ, дошла, послал</li>
     </ul>
@@ -902,7 +902,7 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
     <ul>
       <li>AUX-Fin: есть, бы, будет, бысть, будутъ, суть, бꙋдетъ, бы(ст), бꙗше, будетъ</li>
       <li>PRON: ево, его, ему, они, имъ, ихъ, нем, них, он, онъ</li>
-      <li>VERB-Fin: бьет, есть, бьетъ, нет, платит, учнутъ, рече, бꙋдет, згодитца, будет</li>
+      <li>VERB-Fin: бьет, есть, бьетъ, нет, платит, учнутъ, рече, бꙋдет, згодитца, даде</li>
     </ul>
   </li>
 </ul>
@@ -979,7 +979,7 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
       </li>
       <li>Prs
         <ul>
-          <li>PROPN: Колокол(ь)ня, Пана, Половинка, Глухому, Жепленка, Колокол(ь)не, Конюхом, Набуча, Палавинки, Сучки</li>
+          <li>PROPN: Колокол(ь)ня, Пана, Половинка, Глухому, Жепленка, Колокол(ь)не, Конюха, Конюхом, Набуча, Палавинки</li>
         </ul>
       </li>
       <li>Sur
@@ -1067,7 +1067,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--NOUN-Nom (4)</li>
       <li>VERB-Conv--PRON-Nom (5)</li>
       <li>VERB-Fin--NOUN-Acc (2)</li>
-      <li>VERB-Fin--NOUN-Gen (23)</li>
+      <li>VERB-Fin--NOUN-Gen (22)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(въ) (2)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(съ) (1)</li>
       <li>VERB-Fin--NOUN-Loc-ADP(въ) (1)</li>
@@ -1083,7 +1083,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Nom (4)</li>
       <li>VERB-Part--NOUN-Dat (4)</li>
       <li>VERB-Part--NOUN-Gen (12)</li>
-      <li>VERB-Part--NOUN-Nom (63)</li>
+      <li>VERB-Part--NOUN-Nom (62)</li>
       <li>VERB-Part--NOUN-Nom-ADP(отъ) (1)</li>
       <li>VERB-Part--NOUN-Nom-ADP(съ) (1)</li>
       <li>VERB-Part--PRON-Dat (1)</li>
@@ -1178,7 +1178,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Dat (150)</li>
       <li>VERB-Inf--PRON-Gen (1)</li>
       <li>VERB-Inf--PRON-Ins (5)</li>
-      <li>VERB-Part--NOUN-Dat (30)</li>
+      <li>VERB-Part--NOUN-Dat (29)</li>
       <li>VERB-Part--NOUN-Dat-ADP(въ) (1)</li>
       <li>VERB-Part--NOUN-Gen (3)</li>
       <li>VERB-Part--NOUN-Ins (17)</li>

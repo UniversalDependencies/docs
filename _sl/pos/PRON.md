@@ -25,4 +25,4 @@ It is not always crystal clear where pronouns end and determiners start. Rather 
 #### Conversion from JOS
 
 The `PRON` category has been assigned to JOS pronouns from a pre-defined list of lemmas. This list includes pronouns occurring in the ssj500k corpus and/or the Sloleks morphological lexicon with a manually confirmed predominant substantive usage. 
-<!-- Interlanguage links updated Po lis 14 15:34:35 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:27 CEST -->

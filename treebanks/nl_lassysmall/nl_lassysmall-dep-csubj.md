@@ -52,7 +52,7 @@ The following 10 pairs of parts of speech are connected with `csubj`: <tt><a hre
 2	was	zijn	AUX	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	5	cop	5:cop	_
 3	de	de	DET	LID|bep|stan|rest	Definite=Def	5	det	5:det	_
 4	eerste	één	ADJ	TW|rang|prenom|stan	_	5	amod	5:amod	_
-5	keer	keer	NOUN	N|soort|ev|basis|genus|stan	Gender=Com,Neut|Number=Sing	0	root	0:root	_
+5	keer	keer	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	0	root	0:root	_
 6	dat	dat	SCONJ	VG|onder	_	18	mark	18:mark	_
 7	de	de	DET	LID|bep|stan|rest	Definite=Def	8	det	8:det	_
 8	winnares	winnares	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	18	nsubj	18:nsubj	_

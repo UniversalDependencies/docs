@@ -35,7 +35,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 * `Plur` (1; 20% of non-empty `Number`): <em>kitʃet</em>
 * `Sing` (4; 80% of non-empty `Number`): <em>imaã, oewɨbɨka, oirika, ojã</em>
-* `EMPTY` (273): <em>koa, ata, teita, tʃopa, at, ka, put, õkwa, aj, ikoa</em>
+* `EMPTY` (283): <em>ata, koa, tʃopa, teita, at, ka, put, tʃe, õkwa, aj</em>
 
 ## Relations with Agreement in `Number`
 

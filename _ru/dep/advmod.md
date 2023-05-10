@@ -38,4 +38,4 @@ advmod(200-2, Более)
 advmod(200-10, More-than)
 ~~~
 
-<!-- Interlanguage links updated Po lis 14 15:35:05 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:56 CEST -->

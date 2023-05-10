@@ -67,7 +67,7 @@ The following 36 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 4 3 nsubj	color:blue
 1	Og	_	CCONJ	CONJ	_	4	cc	_	_
 2	alt	_	DET	Q-N	Case=Nom	3	amod	_	_
-3	fólkið	_	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	4	nsubj	_	_
+3	fólkið	_	NOUN	N-N	Case=Nom|Definite=Def|Number=Sing	4	nsubj	_	_
 4	sá	_	VERB	VBDI	Mood=Ind|Tense=Past	0	root	_	_
 5	hann	_	PRON	PRO-A	Case=Acc	6	nsubj	_	_
 6	ganga	_	VERB	VB	VerbForm=Inf	4	acl	_	_

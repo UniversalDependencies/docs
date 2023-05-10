@@ -57,7 +57,7 @@ The following 4 pairs of parts of speech are connected with `compound:prt`: <tt>
 2	FÖRESLÅ	_	VERB	VB	_	0	root	_	_
 3	PU@g	_	INTJ	G	_	2	discourse	_	_
 4	VÄNERBORG@en*SKOLA	_	NOUN	NN	_	2	obj	_	_
-5	PEK	_	PRON	PEK	_	6	case	_	_
+5	PEK	_	PRON	PEK	_	6	det	_	_
 6	UNGDOM^PRAKTIK	_	NOUN	NN	_	2	obl	_	_
 7	PROVA	_	VERB	VB	_	6	acl	_	_
 8	PÅ	_	ADP	PP	_	9	compound:prt	_	_

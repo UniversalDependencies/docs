@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Slovenian-SST: POS Tags: `NUM`
 
 There are 53 `NUM` lemmas (1%), 83 `NUM` types (1%) and 499 `NUM` tokens (2%).
-Out of 16 observed tags, the rank of `NUM` is: 8 in number of lemmas, 8 in number of types and 16 in number of tokens.
+Out of 16 observed tags, the rank of `NUM` is: 8 in number of lemmas, 8 in number of types and 15 in number of tokens.
 
 The 10 most frequent `NUM` lemmas: <em>en, dva, trije, štirje, tisoč, dvajset, pet, petnajst, deset, sto</em>
 
@@ -15,22 +15,19 @@ The 10 most frequent `NUM` types:  <em>eno, dva, en, ena, tri, tisoč, dvajset, 
 
 The 10 most frequent ambiguous lemmas: <em>pet</em> (<tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> 17, <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 2)
 
-The 10 most frequent ambiguous types:  <em>pet</em> (<tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> 14, <tt><a href="sl_sst-pos-X.html">X</a></tt> 1), <em>ene</em> (<tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> 10, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 6), <em>osemdesetih</em> (<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>ene</em> (<tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> 10, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 6), <em>osemdesetih</em> (<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> 1)
 
 
-* <em>pet</em>
-  * <tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> 14: <em>pol sem jaz pol kar naenkrat imel ne vem <b>pet</b> jurjev naročnine</em>
-  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 1: <em>aha <b>pet</b> [gap] [gap] [all:laughter] … resno ?</em>
 * <em>ene</em>
-  * <tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> 10: <em>in to so mešali kar eno olje pa <b>ene</b> take č [gap] stare barve</em>
-  * <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 6: <em>je <b>ene</b> štir [gap] <b>ene</b> š [gap] štirideset</em>
+  * <tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> 10: <em>in to so mešali kar eno olje pa <b>ene</b> take č- [gap] stare barve</em>
+  * <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 6: <em>je <b>ene</b> štir- [gap] <b>ene</b> š- [gap] štirideset</em>
 * <em>osemdesetih</em>
   * <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 2: <em>tole so mister mister broken wings bili so to časi <b>osemdesetih</b> let ko se je pač tale pesem držala pa še vedno se</em>
   * <tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> 1: <em>v nadaljevanju pesem iz <b>osemdesetih</b> belinda karlyle heaven is a place on earth pa star čebelji pregovor tudi sledi</em>
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.566038 (the average of all parts of speech is 1.570645).
+The form / lemma ratio of `NUM` is 1.566038 (the average of all parts of speech is 1.573353).
 
 The 1st highest number of forms (9) was observed with the lemma “en”: <em>en, ena, ene, enega, enemu, eni, enih, enim, eno</em>.
 

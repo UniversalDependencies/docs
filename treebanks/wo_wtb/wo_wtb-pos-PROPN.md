@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Wolof-WTB: POS Tags: `PROPN`
 
-There are 956 `PROPN` lemmas (20%), 956 `PROPN` types (16%) and 2586 `PROPN` tokens (6%).
+There are 955 `PROPN` lemmas (20%), 955 `PROPN` types (16%) and 2586 `PROPN` tokens (6%).
 Out of 16 observed tags, the rank of `PROPN` is: 3 in number of lemmas, 3 in number of types and 8 in number of tokens.
 
 The 10 most frequent `PROPN` lemmas: <em>Yàlla, Senegaal, Afrik, Almaañ, Sëriñ, wolof, Bang, Big, Lislaam, soxna</em>
@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>Yàlla</em> (<tt><a href="wo_wtb-pos-
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.250208).
+The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.250260).
 
 The 1st highest number of forms (3) was observed with the lemma “Yonent”: <em>Yonent, Yonentam, Yonentub</em>.
 

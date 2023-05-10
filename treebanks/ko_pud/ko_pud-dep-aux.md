@@ -53,9 +53,9 @@ The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="
 5	처음에는	처음	NOUN	NN+CM	Polite=Form	9	obl	_	MSeg=처음-에는|Translit=.cheo.eum.e.neun|LTranslit=.cheo.eum
 6	매우	_	ADV	RB	_	7	advmod	_	Translit=.mae.u
 7	흔치	_	ADJ	JJ	Form=Aux	9	acl:relcl	_	Translit=.heun.chi
-8	않은	_	AUX	JX	Form=Adn	7	aux	_	Translit=.anh.eun
+8	않은	않	AUX	JX	Form=Adn	7	aux	_	Translit=.anh.eun|LTranslit=.anh
 9	이름	_	NOUN	NN	_	11	dep	_	SpaceAfter=No|Translit=.i.reum
-10	이었을	_	AUX	VC	Form=Adn|Tense=Past	9	cop	_	Translit=.i.eoss.eul
+10	이었을	이	AUX	VC	Form=Adn|Tense=Past	9	cop	_	Translit=.i.eoss.eul|LTranslit=.i
 11	것이	것	NOUN	NNB+CM	Case=Nom|Polite=Form	12	nsubj	_	MSeg=것-이|Translit=.geos.i|LTranslit=.geos
 12	분명하다	_	ADV	RB	_	0	root	_	SpaceAfter=No|Translit=.bun.myeong.ha.da
 13	.	.	PUNCT	.	_	12	punct	_	Translit=.|LTranslit=.
@@ -74,7 +74,7 @@ The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="
 3	낼	_	AUX	VX	Form=Adn	2	aux	_	Translit=.nael
 4	재간이	재간	NOUN	NN+CM	Case=Nom|Polite=Form	5	nsubj	_	MSeg=재간-이|Translit=.jae.gan.i|LTranslit=.jae.gan
 5	있어야	_	VERB	VV	Form=Aux	15	advcl	_	Translit=.iss.eo.ya
-6	하는데	_	AUX	VX	Form=Compl	5	aux	_	Translit=.ha.neun.de
+6	하는데	하	AUX	VX	Form=Compl	5	aux	_	Translit=.ha.neun.de|LTranslit=.ha
 7	누군	_	PRON	WP	_	14	csubj	_	SpaceAfter=No|Translit=.nu.gun
 8	가	_	AUX	VC	PronType=Int|VerbForm=Fin	7	cop	_	Translit=.ga
 9	주변을	주변	NOUN	NN+CM	Case=Acc|Polite=Form	11	obj	_	MSeg=주변-을|Translit=.ju.byeon.eul|LTranslit=.ju.byeon

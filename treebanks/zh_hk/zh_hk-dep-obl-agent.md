@@ -23,14 +23,14 @@ The following 1 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 obl:agent	color:blue
-1	快	_	ADV	_	_	5	advmod	_	SpaceAfter=No
-2	要	_	AUX	_	_	5	aux	_	SpaceAfter=No
-3	被	_	ADP	_	_	4	case	_	SpaceAfter=No
-4	人	_	NOUN	_	_	5	obl:agent	_	SpaceAfter=No
-5	抓	_	VERB	_	_	0	root	_	SpaceAfter=No
-6	到	_	VERB	_	_	5	compound:vv	_	SpaceAfter=No
-7	了	_	PART	_	_	5	discourse:sp	_	SpaceAfter=No
-8	！	_	PUNCT	_	_	5	punct	_	SpaceAfter=No
+1	快	快	ADV	_	_	5	advmod	_	SpaceAfter=No|Translit=kuài|LTranslit=kuài
+2	要	要	AUX	_	_	5	aux	_	SpaceAfter=No|Translit=yào|LTranslit=yào
+3	被	被	ADP	_	_	4	case	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
+4	人	人	NOUN	_	_	5	obl:agent	_	SpaceAfter=No|Translit=rén|LTranslit=rén
+5	抓	抓	VERB	_	_	0	root	_	SpaceAfter=No|Translit=zhuā|LTranslit=zhuā
+6	到	到	VERB	_	_	5	compound:vv	_	SpaceAfter=No|Translit=dào|LTranslit=dào
+7	了	了	PART	_	_	5	discourse:sp	_	SpaceAfter=No|Translit=le|LTranslit=le
+8	！	！	PUNCT	_	_	5	punct	_	SpaceAfter=No|Translit=!|LTranslit=!
 
 ~~~
 

@@ -24,11 +24,11 @@ The following 6 pairs of parts of speech are connected with `advmod:foc`: <tt><a
 # visual-style 2	fgColor:white
 # visual-style 2 1 advmod:foc	color:blue
 1	Ансяк	ансяк	ADV	Adv	_	2	advmod:foc	_	GTtags=Exclusive
-2	сакшнось	самс	VERB	V	Derivation=OkshnOms|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	0	root	_	GTtags=IV,Der/ОкшнОмс,V,IV,Ind,Prt1,ScSg3
+2	сакшнось	самс	VERB	V	Derivation=OkshnOms|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	GTtags=IV,Der/ОкшнОмс,V,IV,Ind,Prt1,ScSg3
 3	сон	сон	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers,Sg3,Nom
-4	якамсто	якамс	VERB	V	Case=Ela|Valency=2|VerbForm=Conv	2	advcl	_	GTtags=TV,Ger,Ela
+4	якамсто	якамс	VERB	V	Case=Ela|VerbForm=Conv	2	advcl	_	GTtags=TV,Ger,Ela
 5	―	―	PUNCT	PUNCT	_	6	punct	_	_
-6	пакамсто	пакамс	VERB	V	Case=Ela|Valency=1|VerbForm=Conv	4	conj	_	GTtags=IV,Ger,Ela|SpaceAfter=No
+6	пакамсто	пакамс	VERB	V	Case=Ela|VerbForm=Conv	4	conj	_	GTtags=IV,Ger,Ela|SpaceAfter=No
 7	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~

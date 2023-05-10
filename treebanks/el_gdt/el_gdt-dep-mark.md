@@ -43,17 +43,17 @@ The following 15 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 7 mark	color:blue
-1	Όχι	όχι	ADV	ADV	_	6	discourse	_	SpaceAfter=No
+1	Όχι	όχι	PART	PART	_	6	discourse	_	SpaceAfter=No
 2	,	,	PUNCT	PUNCT	_	1	punct	_	_
 3	η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	υπηρεσία	υπηρεσία	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	6	nsubj:pass	_	_
-5	αυτή	αυτός	PRON	PRON	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	4	det	_	_
+5	αυτή	αυτός	DET	DET	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	4	det	_	_
 6	συγκροτήθηκε	συγκροτώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
 7	για	για	ADP	ADP	_	9	mark	_	_
 8	να	να	AUX	AUX	_	9	aux	_	_
 9	ελέγχει	ελέγχω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	_
 10	ακριβώς	ακριβώς	ADV	ADV	_	11	advmod	_	_
-11	τέτοιες	τέτοιος	PRON	PRON	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Dem	12	det	_	_
+11	τέτοιες	τέτοιος	DET	DET	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Dem	12	det	_	_
 12	επικρίσεις	επίκριση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	9	obj	_	SpaceAfter=No
 13	!	!	PUNCT	PUNCT	_	6	punct	_	_
 

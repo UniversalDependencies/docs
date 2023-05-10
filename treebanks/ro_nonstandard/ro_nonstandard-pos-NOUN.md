@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>vodă</em> (<tt><a href="ro_nonstanda
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 2.263207 (the average of all parts of speech is 2.492163).
+The form / lemma ratio of `NOUN` is 2.263207 (the average of all parts of speech is 2.491875).
 
 The 1st highest number of forms (43) was observed with the lemma “zi”: <em>dni, dza, dze, dzi, dzii, dzile, dzilele, dzileli, dzili, dzilile, dzio, dzioa, dziua, dzua, dzuei, dzuo, dzuoa, dzuîi, dzuă, dzî, dzîle, dzîlele, dzîli, dzîlile, zi, zile, zileei, zilei, zilele, zilelor, zio, zioa, ziua, ziuă, zoa, zua, zuo, zuoa, zuă, zâua, zî, zîle, zîlele</em>.
 

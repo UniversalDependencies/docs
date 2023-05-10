@@ -8,73 +8,68 @@ udver: '2'
 
 This relation is universal.
 
-3000 nodes (7%) are attached to their parents as `root`.
+3323 nodes (6%) are attached to their parents as `root`.
 
-3000 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.795.
+3323 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.41438459223593.
 
-The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (2334; 78% instances), -<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (349; 12% instances), -<tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> (243; 8% instances), -<tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt> (26; 1% instances), -<tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt> (16; 1% instances), -<tt><a href="vi_vtb-pos-X.html">X</a></tt> (11; 0% instances), -<tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt> (10; 0% instances), -<tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> (5; 0% instances), -<tt><a href="vi_vtb-pos-AUX.html">AUX</a></tt> (2; 0% instances), -<tt><a href="vi_vtb-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), -<tt><a href="vi_vtb-pos-ADP.html">ADP</a></tt> (1; 0% instances), -<tt><a href="vi_vtb-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (2682; 81% instances), -<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (322; 10% instances), -<tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> (252; 8% instances), -<tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt> (27; 1% instances), -<tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt> (16; 0% instances), -<tt><a href="vi_vtb-pos-X.html">X</a></tt> (9; 0% instances), -<tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt> (8; 0% instances), -<tt><a href="vi_vtb-pos-AUX.html">AUX</a></tt> (2; 0% instances), -<tt><a href="vi_vtb-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), -<tt><a href="vi_vtb-pos-ADP.html">ADP</a></tt> (1; 0% instances), -<tt><a href="vi_vtb-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), -<tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
-# visual-style 0 13 root	color:blue
-1	Như vậy	như vậy	SCONJ	SC	_	5	cc	_	_
-2	là	là	SCONJ	SC	_	5	mark	_	_
-3	thủ phạm	thủ phạm	NOUN	N	_	5	nsubj	_	_
-4	đã	đã	ADV	Adv	_	5	advmod	_	_
-5	biết	biết	VERB	V	_	13	advcl	_	_
-6	chắc	chắc	ADJ	Adj	_	5	xcomp	_	_
-7	ông	ông	NOUN	N	_	9	nsubj	_	_
-8	không	không	ADV	Adv	_	9	advmod:neg	_	_
-9	ở	ở	VERB	V	_	5	ccomp	_	_
-10	nhà	nhà	NOUN	N	_	9	obl:comp	_	_
-11	nên	nên	SCONJ	SC	_	13	mark	_	_
-12	không	không	ADV	Adv	_	13	advmod:neg	_	_
-13	gửi	gửi	VERB	V	_	0	root	_	_
-14	thư	thư	NOUN	N	_	13	obj	_	_
-15	.	.	PUNCT	.	_	13	punct	_	_
+# visual-style 0 7 root	color:blue
+1	Thưa	thưa	VERB	V	_	7	vocative	_	_
+2	ông	ông	NOUN	N	_	1	obj	_	_
+3	,	,	PUNCT	PUNCT	_	7	punct	_	_
+4	sổ đỏ	sổ đỏ	NOUN	N	_	7	nsubj:pass	_	_
+5	đã	đã	ADV	ADV	_	7	advmod	_	_
+6	được	được	AUX	AUX	_	7	aux:pass	_	_
+7	giao	giao	VERB	V	_	0	root	_	_
+8	cho	cho	ADP	PRE	_	9	case	_	_
+9	người	người	NOUN	N	_	7	obl:iobj	_	_
+10	dân	dân	NOUN	N	_	9	compound	_	_
+11	.	.	PUNCT	PUNCT	_	7	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
-# visual-style 0 2 root	color:blue
-1	Những	những	DET	Det	_	2	det	_	_
-2	anh hùng	anh hùng	NOUN	N	_	0	root	_	_
-3	trên	trên	ADP	Pre	_	2	nmod	_	_
-4	đất	đất	NOUN	N	_	2	nmod	_	_
-5	thép	thép	NOUN	N	_	4	compound	_	_
-6	.	.	PUNCT	.	_	2	punct	_	_
+# visual-style 0 1 root	color:blue
+1	Hàng	hàng	NOUN	N	_	0	root	_	_
+2	VN	vn	PROPN	NNPY	_	1	compound	_	_
+3	chất lượng	chất lượng	NOUN	N	_	1	nmod	_	_
+4	cao	cao	ADJ	ADJ	_	3	amod	_	_
+5	giữa	giữa	ADP	PRE	_	6	case	_	_
+6	lòng	lòng	NOUN	N	_	1	nmod	_	_
+7	Phnom Penh	Phnom Penh	PROPN	NNP	_	6	nmod	_	_
+8	.	.	PUNCT	PUNCT	_	1	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
-# visual-style 0 8 root	color:blue
-1	Tuy nhiên	tuy nhiên	SCONJ	SC	_	8	cc	_	_
-2	,	,	PUNCT	,	_	8	punct	_	_
-3	thành lũy	thành lũy	NOUN	N	_	8	nsubj	_	_
-4	trong	trong	ADP	Pre	_	5	case	_	_
-5	lòng	lòng	NOUN	N	_	8	obl:comp	_	_
-6	đất	đất	NOUN	N	_	5	compound	_	_
-7	càng	càng	ADV	Adv	_	8	advmod	_	_
-8	vững vàng	vững vàng	ADJ	Adj	_	0	root	_	_
-9	hơn	hơn	ADV	Adv	_	10	case	_	_
-10	bao giờ	bao giờ	PRON	Pro	_	8	obl	_	_
-11	hết	hết	PART	Prt	_	8	discourse	_	_
-12	.	.	PUNCT	.	_	8	punct	_	_
+# visual-style 0 6 root	color:blue
+1	Con	con	NOUN	N	_	2	clf:det	_	_
+2	đường	đường	NOUN	N	_	6	nsubj:pass	_	_
+3	biển	biển	NOUN	N	_	2	nmod	_	_
+4	Đông	Đông	PROPN	NNP	_	3	compound	_	_
+5	đã	đã	ADV	ADV	_	6	advmod	_	_
+6	chính thức	chính thức	ADJ	ADJ	_	0	root	_	_
+7	được	được	AUX	AUX	_	8	aux:pass	_	_
+8	khai thông	khai thông	VERB	V	_	6	xcomp:adj	_	_
+9	.	.	PUNCT	PUNCT	_	6	punct	_	_
 
 ~~~
 

@@ -18,11 +18,11 @@ The feature is used with 5 part-of-speech tags: <tt><a href="kpv_lattice-pos-VER
 
 138 <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> tokens (10% of all `VERB` tokens) have a non-empty value of `Derivation`.
 
-The most frequent other feature values with which `VERB` and `Derivation` co-occurred: <tt><a href="kpv_lattice-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (138; 100%), <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (138; 100%), <tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (136; 99%), <tt><a href="kpv_lattice-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (109; 79%), <tt><a href="kpv_lattice-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (85; 62%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (76; 55%), <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (71; 51%).
+The most frequent other feature values with which `VERB` and `Derivation` co-occurred: <tt><a href="kpv_lattice-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (138; 100%), <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (138; 100%), <tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (136; 99%), <tt><a href="kpv_lattice-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (85; 62%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (76; 55%), <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (71; 51%).
 
 `VERB` tokens may have the following values of `Derivation`:
 
-* `An` (23; 17% of non-empty `Derivation`): <em>Вӧралан, Пожъясян, дрӧжжитан, кылан, олан, урчитан, чужан, воан, вундан, дзордзалан</em>
+* `An` (23; 17% of non-empty `Derivation`): <em>Вӧралан, Пожъясян, дзордзалан, дрӧжжитан, жалитан, колан, кылан, личкан, лэччан, мынтан</em>
 * `Ana` (11; 8% of non-empty `Derivation`): <em>аддзанаӧн, вӧрзьӧдланаӧсь, колана, тӧдчана, уськӧданаыс, чуксаланаӧсь, чышъяна, шыбитана, ышӧдана, юасянаӧн</em>
 * `Anin` (1; 1% of non-empty `Derivation`): <em>чӧвтанінӧ</em>
 * `Ig` (24; 17% of non-empty `Derivation`): <em>петігӧн, Вермасигъясад, Вундігӧн, Гымалігад, Зэригас, Пуктысигъясӧ, Рытйысигъясын, босьтігас, велӧдчиганыс, келалігъясын</em>
@@ -32,18 +32,18 @@ The most frequent other feature values with which `VERB` and `Derivation` co-occ
 * `Igmoz` (6; 4% of non-empty `Derivation`): <em>видзӧдігмоз, Мунігмозыс, гуляйтігмоз, лӧсьӧдігмоз, топӧдігмоз</em>
 * `Igtyr` (1; 1% of non-empty `Derivation`): <em>чатрасигтыр</em>
 * `Igtyrji` (1; 1% of non-empty `Derivation`): <em>горзігтырйи</em>
-* `NomAg` (38; 28% of non-empty `Derivation`): <em>сулалысь, локтысь, вӧтчысь, дзирдалысь, дзользьысь, кужысь, куйлысь, лэччысь, полысь, сюйсьысь</em>
+* `NomAg` (38; 28% of non-empty `Derivation`): <em>сулалысь, дзирдалысь, локтысь, вӧтчысь, дзользьысь, кужысь, куйлысь, лэччысь, полысь, сюйсьысь</em>
 * `Oma` (2; 1% of non-empty `Derivation`): <em>босьтӧмаыс, быдмӧмаыс</em>
 * `Omon` (9; 7% of non-empty `Derivation`): <em>тэрмасьӧмӧн, кутӧмӧн, судзмӧн, воодушедитчӧмӧн, йӧйсямӧмӧн, курччӧмӧн, петӧмӧн, помасьӧмӧн</em>
 * `PrivMod` (1; 1% of non-empty `Derivation`): <em>тыртӧм</em>
-* `VAbe` (13; 9% of non-empty `Derivation`): <em>виччысьтӧг, бергӧдлытӧг, дугдывтӧг, жалиттӧг, повтӧг, тэрмасьтӧг, Тӧдлытӧг, вӧрзьӧдлывтӧг, чинтытӧг, шойччывтӧг</em>
+* `VAbe` (13; 9% of non-empty `Derivation`): <em>виччысьтӧг, бергӧдлытӧг, вӧрзьӧдлывтӧг, дугдывтӧг, жалиттӧг, повтӧг, тэрмасьтӧг, шойччывтӧг, Тӧдлытӧг, чинтытӧг</em>
 * `VTer` (4; 3% of non-empty `Derivation`): <em>мунтӧдз, пемдытӧдз, Пӧттӧдзныс, веравтӧдзыд</em>
 
 <table>
   <tr><th>Paradigm <i>уджавны</i></th><th><tt>An</tt></th><th><tt>Ig</tt></th><th><tt>NomAg</tt></th></tr>
-  <tr><td><tt><tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="kpv_lattice-feat-Valency.html">Valency</a></tt><tt>=1</tt>|<tt><a href="kpv_lattice-feat-VerbForm.html">VerbForm</a></tt><tt>=Conv</tt></tt></td><td></td><td><em>уджалігӧн</em></td><td></td></tr>
+  <tr><td><tt>_</tt></td><td><em>уджалан</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="kpv_lattice-feat-VerbForm.html">VerbForm</a></tt><tt>=Conv</tt></tt></td><td></td><td><em>уджалігӧн</em></td><td></td></tr>
   <tr><td><tt><tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>уджалысь</em></td></tr>
-  <tr><td><tt><tt><a href="kpv_lattice-feat-Valency.html">Valency</a></tt><tt>=1</tt></tt></td><td><em>уджалан</em></td><td></td><td></td></tr>
 </table>
 
 ### `NOUN`

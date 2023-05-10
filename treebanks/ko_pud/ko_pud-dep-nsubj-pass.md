@@ -78,7 +78,7 @@ The following 8 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 11	우려스럽고	_	NOUN	NN	_	13	dep	_	SpaceAfter=No|Translit=.u.ryeo.seu.reob.go
 12	불안정해질	_	NOUN	NN	_	11	conj	_	SpaceAfter=No|Translit=.bul.an.jeong.hae.jil
 13	것	_	NOUN	NNB	_	0	root	_	SpaceAfter=No|Translit=.geos
-14	이다	_	AUX	VC	Mood=Ind|VerbForm=Fin	13	cop	_	SpaceAfter=No|Translit=.i.da
+14	이다	이	AUX	VC	Mood=Ind|VerbForm=Fin	13	cop	_	SpaceAfter=No|Translit=.i.da|LTranslit=.i
 15	.	.	PUNCT	.	_	13	punct	_	Translit=.|LTranslit=.
 
 ~~~

@@ -11,7 +11,7 @@ It occurs with 1 different values: `Form`.
 
 4884 tokens (29%) have a non-empty value of `Polite`.
 3335 types (40%) occur at least once with a non-empty value of `Polite`.
-2278 lemmas (87%) occur at least once with a non-empty value of `Polite`.
+2280 lemmas (87%) occur at least once with a non-empty value of `Polite`.
 The feature is used with 10 part-of-speech tags: <tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> (3603; 22% instances), <tt><a href="ko_pud-pos-PROPN.html">PROPN</a></tt> (630; 4% instances), <tt><a href="ko_pud-pos-PRON.html">PRON</a></tt> (344; 2% instances), <tt><a href="ko_pud-pos-PART.html">PART</a></tt> (278; 2% instances), <tt><a href="ko_pud-pos-NUM.html">NUM</a></tt> (11; 0% instances), <tt><a href="ko_pud-pos-ADJ.html">ADJ</a></tt> (9; 0% instances), <tt><a href="ko_pud-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="ko_pud-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="ko_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ko_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 ### `NOUN`

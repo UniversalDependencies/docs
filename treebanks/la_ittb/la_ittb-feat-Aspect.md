@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal but the values `Prosp` are language-specific.
 It occurs with 3 different values: `Imp`, `Perf`, `Prosp`.
 
-59823 tokens (13%) have a non-empty value of `Aspect`.
-9561 types (49%) occur at least once with a non-empty value of `Aspect`.
-1428 lemmas (25%) occur at least once with a non-empty value of `Aspect`.
-The feature is used with 1 part-of-speech tags: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (59823; 13% instances).
+59832 tokens (13%) have a non-empty value of `Aspect`.
+9563 types (49%) occur at least once with a non-empty value of `Aspect`.
+1429 lemmas (25%) occur at least once with a non-empty value of `Aspect`.
+The feature is used with 2 part-of-speech tags: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (59830; 13% instances), <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (2; 0% instances).
 
 ### `VERB`
 
-59823 <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Aspect`.
+59830 <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (43463; 73%), <tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (43446; 73%), <tt><a href="la_ittb-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=EMPTY</tt> (43446; 73%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (41672; 70%), <tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (37122; 62%), <tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=3</tt> (35205; 59%), <tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (33047; 55%), <tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (31811; 53%), <tt><a href="la_ittb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (30195; 50%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (43463; 73%), <tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (43446; 73%), <tt><a href="la_ittb-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=EMPTY</tt> (43446; 73%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (41676; 70%), <tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (37122; 62%), <tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=3</tt> (35205; 59%), <tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (33049; 55%), <tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (31811; 53%), <tt><a href="la_ittb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (30195; 50%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
-* `Imp` (45976; 77% of non-empty `Aspect`): <em>potest, oportet, dicitur, habet, patet, dicit, uidetur, fit, possunt, habent</em>
-* `Perf` (11200; 19% of non-empty `Aspect`): <em>ostensum, dictum, separatae, dictis, probatum, separata, praedicta, praemissis, intellecta, facta</em>
+* `Imp` (45978; 77% of non-empty `Aspect`): <em>potest, oportet, dicitur, habet, patet, dicit, uidetur, fit, possunt, habent</em>
+* `Perf` (11205; 19% of non-empty `Aspect`): <em>ostensum, dictum, separatae, dictis, probatum, separata, praedicta, praemissis, intellecta, facta</em>
 * `Prosp` (2647; 4% of non-empty `Aspect`): <em>dicendum, considerandum, intelligendum, agendo, intelligendo, sciendum, cognoscendo, agendum, ostendendum, uiuendi</em>
 * `EMPTY` (2): <em>antec., praeced.</em>
 
@@ -102,21 +102,32 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
   <tr><td><tt><tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=LatX</tt>|<tt><a href="la_ittb-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>dicerentur</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=LatX</tt>|<tt><a href="la_ittb-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>dicant</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=LatX</tt>|<tt><a href="la_ittb-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>dicantur</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=LatX</tt>|<tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Vnoun</tt>|<tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>dicere</em></td><td><em>dixisse</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=LatX</tt>|<tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Vnoun</tt>|<tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>dici</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=LatX</tt>|<tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt>|<tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>dicere</em></td><td><em>dixisse</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=LatX</tt>|<tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt>|<tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>dici</em></td><td></td><td></td></tr>
 </table>
+
+### `AUX`
+
+2 <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Aspect`.
+
+The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt> (2; 100%).
+
+`AUX` tokens may have the following values of `Aspect`:
+
+* `Imp` (2; 100% of non-empty `Aspect`): <em>esse</em>
+* `EMPTY` (23625): <em>est, esse, sit, sunt, esset, sint, erit, fuit, essendi, erat</em>
 
 ## Relations with Agreement in `Aspect`
 
 The 10 most frequent relations where parent and child node agree in `Aspect`:
 <tt>VERB --[<tt><a href="la_ittb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (5164; 62%),
 <tt>VERB --[<tt><a href="la_ittb-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (3421; 86%),
-<tt>VERB --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> VERB</tt> (3062; 88%),
+<tt>VERB --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> VERB</tt> (3063; 88%),
 <tt>VERB --[<tt><a href="la_ittb-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (1805; 85%),
-<tt>VERB --[<tt><a href="la_ittb-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (976; 56%),
+<tt>VERB --[<tt><a href="la_ittb-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (977; 56%),
 <tt>VERB --[<tt><a href="la_ittb-dep-csubj-relcl.html">csubj:relcl</a></tt>]--> VERB</tt> (489; 80%),
-<tt>VERB --[<tt><a href="la_ittb-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (187; 78%),
-<tt>VERB --[<tt><a href="la_ittb-dep-ccomp-relcl.html">ccomp:relcl</a></tt>]--> VERB</tt> (132; 70%),
-<tt>VERB --[<tt><a href="la_ittb-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (106; 58%),
+<tt>VERB --[<tt><a href="la_ittb-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (186; 78%),
+<tt>VERB --[<tt><a href="la_ittb-dep-ccomp-relcl.html">ccomp:relcl</a></tt>]--> VERB</tt> (131; 70%),
+<tt>VERB --[<tt><a href="la_ittb-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (107; 58%),
 <tt>VERB --[<tt><a href="la_ittb-dep-conj-expl.html">conj:expl</a></tt>]--> VERB</tt> (52; 75%).
 

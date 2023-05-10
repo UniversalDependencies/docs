@@ -64,7 +64,7 @@ The following 8 pairs of parts of speech are connected with `aux`: <tt><a href="
 17	scuola	scuola	NOUN	S	Gender=Fem|Number=Sing	9	ccomp	_	SpaceAfter=No
 18	?!	?!	PUNCT	FS	_	9	punct	_	_
 19	Boh	boh	INTJ	I	_	4	discourse	_	SpaceAfter=No
-20	...	...	PUNCT	FS	_	19	punct	_	SpaceAfter=\n
+20	...	...	PUNCT	FS	_	19	punct	_	SpacesAfter=\n
 
 ~~~
 
@@ -90,7 +90,7 @@ The following 8 pairs of parts of speech are connected with `aux`: <tt><a href="
 13	.	.	PUNCT	FS	_	12	punct	_	_
 14	[	[	PUNCT	FB	_	15	punct	_	SpaceAfter=No
 15	@user	@user	SYM	SYM	_	12	vocative:mention	_	SpaceAfter=No
-16	]	]	PUNCT	FB	_	15	punct	_	SpaceAfter=\n
+16	]	]	PUNCT	FB	_	15	punct	_	SpacesAfter=\n
 
 ~~~
 

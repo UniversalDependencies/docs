@@ -62,7 +62,7 @@ The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 38	euro	euro	NOUN	S	Gender=Masc|Number=Sing	35	nmod	_	_
 39	contre	contre	ADP	E	_	42	case	_	_
 40	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	42	det	_	_
-41	faux	faux	NOUN	S	Gender=Masc	42	nmod	_	_
+41	faux	faux	ADJ	1	Gender=Masc|Number=Sing	42	amod	_	_
 42	monnayage	monnayage	NOUN	S	Gender=Masc|Number=Sing	35	nmod	_	_
 43	(	(	PUNCT	FB	_	45	punct	_	SpaceAfter=No
 44	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	45	det	_	_

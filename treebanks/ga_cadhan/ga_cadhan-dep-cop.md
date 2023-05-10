@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-61 nodes (2%) are attached to their parents as `cop`.
+81 nodes (2%) are attached to their parents as `cop`.
 
-61 instances of `cop` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.27868852459016.
+80 instances of `cop` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.27160493827161.
 
-The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-AUX.html">AUX</a></tt> (27; 44% instances), <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_cadhan-pos-AUX.html">AUX</a></tt> (17; 28% instances), <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_cadhan-pos-AUX.html">AUX</a></tt> (8; 13% instances), <tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_cadhan-pos-AUX.html">AUX</a></tt> (5; 8% instances), <tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_cadhan-pos-AUX.html">AUX</a></tt> (3; 5% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-AUX.html">AUX</a></tt> (1; 2% instances).
+The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-AUX.html">AUX</a></tt> (33; 41% instances), <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_cadhan-pos-AUX.html">AUX</a></tt> (30; 37% instances), <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_cadhan-pos-AUX.html">AUX</a></tt> (9; 11% instances), <tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_cadhan-pos-AUX.html">AUX</a></tt> (5; 6% instances), <tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_cadhan-pos-AUX.html">AUX</a></tt> (3; 4% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-AUX.html">AUX</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

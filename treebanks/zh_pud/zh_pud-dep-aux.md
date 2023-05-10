@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="zh_pud-dep-aux-pass.html">aux:pass</a></tt>.
 
-686 nodes (3%) are attached to their parents as `aux`.
+680 nodes (3%) are attached to their parents as `aux`.
 
-398 instances of `aux` (58%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.75218658892128.
+397 instances of `aux` (58%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.69705882352941.
 
-The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_pud-pos-PART.html">PART</a></tt> (396; 58% instances), <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_pud-pos-AUX.html">AUX</a></tt> (269; 39% instances), <tt><a href="zh_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_pud-pos-AUX.html">AUX</a></tt> (11; 2% instances), <tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_pud-pos-AUX.html">AUX</a></tt> (8; 1% instances), <tt><a href="zh_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_pud-pos-PART.html">PART</a></tt> (2; 0% instances).
+The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_pud-pos-AUX.html">AUX</a></tt> (667; 98% instances), <tt><a href="zh_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_pud-pos-AUX.html">AUX</a></tt> (7; 1% instances), <tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_pud-pos-AUX.html">AUX</a></tt> (6; 1% instances).
 
 
 ~~~ conllu
@@ -23,49 +23,19 @@ The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 11 aux	color:blue
-1	希拉里	_	PROPN	NNP	_	5	nmod	_	SpaceAfter=No|Translit=xīlālǐ
-2	的	_	PART	DEC	Case=Gen	1	case	_	SpaceAfter=No|Translit=de
-3	巨額	_	NOUN	NN	_	5	compound	_	SpaceAfter=No|Translit=jù'é
-4	銀行	_	NOUN	NN	_	5	compound	_	SpaceAfter=No|Translit=yínxíng
-5	帳戶	_	NOUN	NN	_	6	nsubj	_	SpaceAfter=No|Translit=zhànghù
-6	使	_	VERB	VV	Voice=Cau	0	root	_	SpaceAfter=No|Translit=shǐ
-7	政府	_	NOUN	NN	_	8	nsubj	_	SpaceAfter=No|Translit=zhèngfǔ
-8	支出	_	VERB	VV	_	10	csubj	_	SpaceAfter=No|Translit=zhīchū
-9	的	_	PART	DEC	_	8	mark:rel	_	SpaceAfter=No|Translit=de
-10	突破	_	VERB	VV	_	6	ccomp	_	SpaceAfter=No|Translit=tūpò
-11	了	_	PART	AS	Aspect=Perf	10	aux	_	SpaceAfter=No|Translit=le
-12	新上限	_	NOUN	NN	_	10	obj	_	SpaceAfter=No|Translit=xīnshàngxiàn
-13	。	_	PUNCT	.	_	6	punct	_	Translit=。
-
-~~~
-
-
-~~~ conllu
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 16 15 aux	color:blue
-1	潘	_	PROPN	NNP	_	3	compound	_	SpaceAfter=No|Translit=潘
-2	沃爾卡	_	PROPN	NNP	_	3	compound	_	SpaceAfter=No|Translit=wò'ěrkǎ
-3	先生	_	NOUN	NN	_	4	nsubj	_	SpaceAfter=No|Translit=xiānshēng
-4	說	_	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=shuō
-5	，	_	PUNCT	,	_	13	punct	_	SpaceAfter=No|Translit=，
-6	曾經	_	ADV	RB	_	7	advmod	_	SpaceAfter=No|Translit=céngjīng
-7	有	_	VERB	VV	_	13	advcl	_	SpaceAfter=No|Translit=yǒu
-8	一	_	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No|Translit=yī
-9	段	_	NOUN	NNB	_	10	clf	_	SpaceAfter=No|Translit=duàn
-10	時刻	_	NOUN	NN	_	7	obj	_	SpaceAfter=No|Translit=shíkè
-11	，	_	PUNCT	,	_	7	punct	_	SpaceAfter=No|Translit=，
-12	他們	_	PRON	PRP	Number=Plur|Person=3	13	nsubj	_	SpaceAfter=No|Translit=tāmen
-13	覺得	_	VERB	VV	_	4	ccomp	_	SpaceAfter=No|Translit=juéde
-14	自己	_	PRON	PRD	_	16	nsubj	_	SpaceAfter=No|Translit=zìjǐ
-15	應該	_	AUX	MD	_	16	aux	_	SpaceAfter=No|Translit=yīnggāi
-16	離開	_	VERB	VV	_	13	ccomp	_	SpaceAfter=No|Translit=líkāi
-17	那	_	DET	DT	_	18	det	_	SpaceAfter=No|Translit=nà
-18	幢	_	NOUN	NNB	_	19	clf	_	SpaceAfter=No|Translit=幢
-19	大樓	_	NOUN	NN	_	16	obj	_	SpaceAfter=No|Translit=dàlóu
-20	。	_	PUNCT	.	_	4	punct	_	Translit=。
+1	希拉里	希拉里	PROPN	NNP	_	5	nmod	_	SpaceAfter=No|Translit=xīlālǐ|LTranslit=xīlālǐ
+2	的	的	PART	DEC	Case=Gen	1	case	_	SpaceAfter=No|Translit=de|LTranslit=de
+3	巨額	巨額	NOUN	NN	_	5	compound	_	SpaceAfter=No|Translit=jù'é|LTranslit=jù'é
+4	銀行	銀行	NOUN	NN	_	5	compound	_	SpaceAfter=No|Translit=yínxíng|LTranslit=yínxíng
+5	帳戶	帳戶	NOUN	NN	_	6	nsubj	_	SpaceAfter=No|Translit=zhànghù|LTranslit=zhànghù
+6	使	使	VERB	VV	Voice=Cau	0	root	_	SpaceAfter=No|Translit=shǐ|LTranslit=shǐ
+7	政府	政府	NOUN	NN	_	8	nsubj	_	SpaceAfter=No|Translit=zhèngfǔ|LTranslit=zhèngfǔ
+8	支出	支出	VERB	VV	_	10	csubj	_	SpaceAfter=No|Translit=zhīchū|LTranslit=zhīchū
+9	的	的	PART	DEC	_	8	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
+10	突破	突破	VERB	VV	_	6	ccomp	_	SpaceAfter=No|Translit=tūpò|LTranslit=tūpò
+11	了	了	AUX	AS	Aspect=Perf	10	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
+12	新上限	新上限	NOUN	NN	_	10	obj	_	SpaceAfter=No|Translit=xīnshàngxiàn|LTranslit=xīnshàngxiàn
+13	。	。	PUNCT	.	_	6	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
@@ -76,19 +46,48 @@ The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 8 aux	color:blue
-1	在	_	ADP	IN	_	2	case	_	SpaceAfter=No|Translit=zài
-2	丹麥語	_	PROPN	NNP	_	10	obl	_	SpaceAfter=No|Translit=dānmàiyǔ
-3	中	_	ADP	IN	_	2	case:loc	_	SpaceAfter=No|Translit=zhōng
-4	，	_	PUNCT	,	_	2	punct	_	SpaceAfter=No|Translit=，
-5	這	_	DET	DT	_	6	det	_	SpaceAfter=No|Translit=zhè
-6	個	_	NOUN	NNB	_	7	clf	_	SpaceAfter=No|Translit=gè
-7	詞	_	NOUN	NN	_	10	nsubj	_	SpaceAfter=No|Translit=cí
-8	可能	_	AUX	MD	_	10	aux	_	SpaceAfter=No|Translit=kěnéng
-9	也	_	ADV	RB	_	10	advmod	_	SpaceAfter=No|Translit=yě
-10	適用	_	ADJ	JJ	_	0	root	_	SpaceAfter=No|Translit=shìyòng
-11	於	_	VERB	VV	_	10	mark:prt	_	SpaceAfter=No|Translit=於
-12	淺礁湖	_	NOUN	NN	_	10	obj	_	SpaceAfter=No|Translit=qiǎn礁hú
-13	。	_	PUNCT	.	_	10	punct	_	Translit=。
+1	在	在	ADP	IN	_	2	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
+2	丹麥語	丹麥語	PROPN	NNP	_	10	obl	_	SpaceAfter=No|Translit=dānmàiyǔ|LTranslit=dānmàiyǔ
+3	中	中	ADP	IN	_	2	case:loc	_	SpaceAfter=No|Translit=zhōng|LTranslit=zhōng
+4	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
+5	這	這	DET	DT	_	6	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+6	個	個	NOUN	NNB	_	7	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+7	詞	詞	NOUN	NN	_	10	nsubj	_	SpaceAfter=No|Translit=cí|LTranslit=cí
+8	可能	可能	AUX	MD	_	10	aux	_	SpaceAfter=No|Translit=kěnéng|LTranslit=kěnéng
+9	也	也	ADV	RB	_	10	advmod	_	SpaceAfter=No|Translit=yě|LTranslit=yě
+10	適用	適用	ADJ	JJ	_	0	root	_	SpaceAfter=No|Translit=shìyòng|LTranslit=shìyòng
+11	於	於	VERB	VV	_	10	mark:prt	_	SpaceAfter=No|Translit=yú|LTranslit=yú
+12	淺礁湖	淺礁湖	NOUN	NN	_	10	obj	_	SpaceAfter=No|Translit=qiǎn礁hú|LTranslit=qiǎn礁hú
+13	。	。	PUNCT	.	_	10	punct	_	Translit=.|LTranslit=.
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 4 aux	color:blue
+1	現在	現在	NOUN	NN	_	10	obl:tmod	_	SpaceAfter=No|Translit=xiànzài|LTranslit=xiànzài
+2	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
+3	Khanzir	Khanzir	X	FW	_	10	nsubj	_	Proper=True|SpaceAfter=No|Translit=Khanzir|LTranslit=Khanzir
+4	可能	可能	AUX	MD	_	10	aux	_	SpaceAfter=No|Translit=kěnéng|LTranslit=kěnéng
+5	是	是	AUX	VC	_	10	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
+6	一	一	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+7	隻	隻	NOUN	NNB	_	10	clf	_	SpaceAfter=No|Translit=隻|LTranslit=隻
+8	寂寞	寂寞	ADJ	JJ	_	10	amod	_	SpaceAfter=No|Translit=jìmò|LTranslit=jìmò
+9	的	的	PART	DEC	_	8	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
+10	豬	豬	NOUN	NN	_	18	dep	_	SpaceAfter=No|Translit=zhū|LTranslit=zhū
+11	，	，	PUNCT	,	_	10	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
+12	但	但	ADV	RB	_	18	advmod	_	SpaceAfter=No|Translit=dàn|LTranslit=dàn
+13	他	他	PRON	PRP	Person=3	18	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
+14	並	並	ADV	RB	_	18	advmod	_	SpaceAfter=No|Translit=bìng|LTranslit=bìng
+15	不是	是	AUX	VC	Polarity=Neg	18	cop	_	SpaceAfter=No|Translit=bùshì|LTranslit=shì
+16	一直	一直	ADV	RB	_	18	advmod	_	SpaceAfter=No|Translit=yīzhí|LTranslit=yīzhí
+17	都	都	ADV	RB	_	18	advmod	_	SpaceAfter=No|Translit=dōu|LTranslit=dōu
+18	孤獨	孤獨	ADJ	JJ	_	0	root	_	SpaceAfter=No|Translit=gūdú|LTranslit=gūdú
+19	。	。	PUNCT	.	_	18	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

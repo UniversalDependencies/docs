@@ -7,13 +7,13 @@ udver: '2'
 ## Treebank Statistics: UD_Coptic-Scriptorium: POS Tags: `X`
 
 There are 27 `X` lemmas (1%), 32 `X` types (1%) and 52 `X` tokens (0%).
-Out of 15 observed tags, the rank of `X` is: 12 in number of lemmas, 12 in number of types and 14 in number of tokens.
+Out of 15 observed tags, the rank of `X` is: 11 in number of lemmas, 12 in number of types and 14 in number of tokens.
 
 The 10 most frequent `X` lemmas: ⲙⲟⲛⲟⲛ, ⲟⲩ, unknown, .., ....., [...], ...., [..], ......, .........
 
 The 10 most frequent `X` types:  ⲙⲟⲛⲟⲛ, ⲟⲩ, .., ....., [...], ...., [..], ......, ........., ..........
 
-The 10 most frequent ambiguous lemmas: ⲟⲩ (<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> 928, <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> 100, <tt><a href="cop_scriptorium-pos-X.html">X</a></tt> 7, <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> 1), ⲁⲣⲭⲏⲉⲡⲓⲥⲕⲟⲡⲟⲥ (<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 20, <tt><a href="cop_scriptorium-pos-X.html">X</a></tt> 1), ⲉ (<tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> 1128, <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> 377, <tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 5, <tt><a href="cop_scriptorium-pos-X.html">X</a></tt> 1), ⲉⲡⲓⲥⲧⲟⲗⲏ (<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="cop_scriptorium-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous lemmas: ⲟⲩ (<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> 928, <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> 100, <tt><a href="cop_scriptorium-pos-X.html">X</a></tt> 7, <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> 1), ⲁⲣⲭⲏⲉⲡⲓⲥⲕⲟⲡⲟⲥ (<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 20, <tt><a href="cop_scriptorium-pos-X.html">X</a></tt> 1), ⲉ (<tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> 1128, <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> 377, <tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="cop_scriptorium-pos-X.html">X</a></tt> 1), ⲉⲡⲓⲥⲧⲟⲗⲏ (<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="cop_scriptorium-pos-X.html">X</a></tt> 1)
 
 The 10 most frequent ambiguous types:  ⲟⲩ (<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> 681, <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> 631, <tt><a href="cop_scriptorium-pos-X.html">X</a></tt> 7, <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> 1), ⲁⲣⲭⲏⲉⲡⲓⲥⲕⲟⲡⲟⲩ (<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="cop_scriptorium-pos-X.html">X</a></tt> 1), ⲉ (<tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 826, <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> 772, <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> 610, <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> 50, <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 7, <tt><a href="cop_scriptorium-pos-X.html">X</a></tt> 1), ⲉⲡⲓⲥⲧⲟⲗⲏ (<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="cop_scriptorium-pos-X.html">X</a></tt> 1), ⲉⲩⲉ (<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> 34, <tt><a href="cop_scriptorium-pos-X.html">X</a></tt> 1), ⲧⲟⲩ (<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> 20, <tt><a href="cop_scriptorium-pos-X.html">X</a></tt> 1)
 
@@ -45,7 +45,7 @@ The 10 most frequent ambiguous types:  ⲟⲩ (<tt><a href="cop_scriptorium-pos-
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.185185 (the average of all parts of speech is 1.133621).
+The form / lemma ratio of `X` is 1.185185 (the average of all parts of speech is 1.135660).
 
 The 1st highest number of forms (5) was observed with the lemma “UNKNOWN”: [....]ⲥ, [...]ϥ, ⲉ[.....], ⲉⲃ[........], ⲟⲩⲇ[.......].
 

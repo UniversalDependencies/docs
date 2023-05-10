@@ -22,7 +22,7 @@ The most frequent other feature values with which `VERB` and `Connegative` co-oc
 
 `VERB` tokens may have the following values of `Connegative`:
 
-* `Yes` (180; 100% of non-empty `Connegative`): <em>учо, капша, редя, сатстне, юта, сода, жаля, корта, мере, пеле</em>
+* `Yes` (180; 100% of non-empty `Connegative`): <em>учо, жаля, капша, корта, пеле, сода, пра, редя, сатстне, тукшно</em>
 
 `Connegative` seems to be **lexical feature** of `VERB`. 100% lemmas (117) occur only with one value of `Connegative`.
 
@@ -30,9 +30,9 @@ The most frequent other feature values with which `VERB` and `Connegative` co-oc
 
 9 <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> tokens (1% of all `AUX` tokens) have a non-empty value of `Connegative`.
 
-The most frequent other feature values with which `AUX` and `Connegative` co-occurred: <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="myv_jr-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="myv_jr-feat-Valency.html">Valency</a></tt><tt>=1</tt> (7; 78%).
+The most frequent other feature values with which `AUX` and `Connegative` co-occurred: <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="myv_jr-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="myv_jr-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (5; 56%).
 
 `AUX` tokens may have the following values of `Connegative`:
 
-* `Yes` (9; 100% of non-empty `Connegative`): <em>карма, уле, ульгак, саво, ульне</em>
+* `Yes` (9; 100% of non-empty `Connegative`): <em>карма, уле, саво, ульгак, ульне</em>
 

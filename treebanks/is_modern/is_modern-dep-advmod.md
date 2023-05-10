@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-6129 nodes (8%) are attached to their parents as `advmod`.
+6127 nodes (8%) are attached to their parents as `advmod`.
 
-3261 instances of `advmod` (53%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.41377059879263.
+3258 instances of `advmod` (53%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.41357923943202.
 
-The following 15 pairs of parts of speech are connected with `advmod`: <tt><a href="is_modern-pos-VERB.html">VERB</a></tt>-<tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (3715; 61% instances), <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt>-<tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (885; 14% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt>-<tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (437; 7% instances), <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt>-<tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (366; 6% instances), <tt><a href="is_modern-pos-PRON.html">PRON</a></tt>-<tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (332; 5% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt>-<tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (139; 2% instances), <tt><a href="is_modern-pos-DET.html">DET</a></tt>-<tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (111; 2% instances), <tt><a href="is_modern-pos-PART.html">PART</a></tt>-<tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (46; 1% instances), <tt><a href="is_modern-pos-PROPN.html">PROPN</a></tt>-<tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (44; 1% instances), <tt><a href="is_modern-pos-NUM.html">NUM</a></tt>-<tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (20; 0% instances), <tt><a href="is_modern-pos-ADP.html">ADP</a></tt>-<tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (19; 0% instances), <tt><a href="is_modern-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="is_modern-pos-X.html">X</a></tt>-<tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="is_modern-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-INTJ.html">INTJ</a></tt>-<tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `advmod`: <tt><a href="is_modern-pos-VERB.html">VERB</a></tt>-<tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (3713; 61% instances), <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt>-<tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (886; 14% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt>-<tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (437; 7% instances), <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt>-<tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (365; 6% instances), <tt><a href="is_modern-pos-PRON.html">PRON</a></tt>-<tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (332; 5% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt>-<tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (139; 2% instances), <tt><a href="is_modern-pos-DET.html">DET</a></tt>-<tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (111; 2% instances), <tt><a href="is_modern-pos-PART.html">PART</a></tt>-<tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (46; 1% instances), <tt><a href="is_modern-pos-PROPN.html">PROPN</a></tt>-<tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (44; 1% instances), <tt><a href="is_modern-pos-NUM.html">NUM</a></tt>-<tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (20; 0% instances), <tt><a href="is_modern-pos-ADP.html">ADP</a></tt>-<tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (19; 0% instances), <tt><a href="is_modern-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="is_modern-pos-X.html">X</a></tt>-<tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="is_modern-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-INTJ.html">INTJ</a></tt>-<tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -43,7 +43,7 @@ The following 15 pairs of parts of speech are connected with `advmod`: <tt><a hr
 4	bara	bara	ADV	FP	_	6	advmod	_	IFD_tag=aa
 5	með	með	ADP	P	_	6	case	_	IFD_tag=ao
 6	getgátur	getgáta	NOUN	NS-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	0	root	_	IFD_tag=nvfo|SpaceAfter=No
-7	,	,	PUNCT	,	_	8	punct	_	IFD_tag=
+7	,	,	PUNCT	,	_	8	punct	_	IFD_tag
 8	er	vera	AUX	BEPI	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	IFD_tag=sfg1en
 9	bara	bara	ADV	FP	_	8	advmod	_	IFD_tag=aa
 10	að	að	PART	TO	_	11	mark	_	IFD_tag=cn

@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Afrikaans-AfriBooms: POS Tags: `DET`
 
-There are 30 `DET` lemmas (1%), 35 `DET` types (1%) and 5342 `DET` tokens (11%).
+There are 29 `DET` lemmas (1%), 34 `DET` types (1%) and 5342 `DET` tokens (11%).
 Out of 16 observed tags, the rank of `DET` is: 11 in number of lemmas, 10 in number of types and 3 in number of tokens.
 
 The 10 most frequent `DET` lemmas: <em>die, 'n, hierdie, al, baie, daardie, dié, paar, sommige, sodanig</em>
@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>meer</em> (<tt><a href="af_afribooms-
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.166667 (the average of all parts of speech is 1.122822).
+The form / lemma ratio of `DET` is 1.172414 (the average of all parts of speech is 1.120642).
 
 The 1st highest number of forms (3) was observed with the lemma “baie”: <em>baie, meer, meeste</em>.
 
@@ -74,7 +74,7 @@ Examples: <em>die, de, dien</em>
 
 ## Relations
 
-`DET` nodes are attached to their parents using 9 different relations: <tt><a href="af_afribooms-dep-det.html">det</a></tt> (5196; 97% instances), <tt><a href="af_afribooms-dep-amod.html">amod</a></tt> (66; 1% instances), <tt><a href="af_afribooms-dep-dep.html">dep</a></tt> (33; 1% instances), <tt><a href="af_afribooms-dep-nsubj.html">nsubj</a></tt> (15; 0% instances), <tt><a href="af_afribooms-dep-conj.html">conj</a></tt> (8; 0% instances), <tt><a href="af_afribooms-dep-obj.html">obj</a></tt> (7; 0% instances), <tt><a href="af_afribooms-dep-obl.html">obl</a></tt> (7; 0% instances), <tt><a href="af_afribooms-dep-nmod.html">nmod</a></tt> (6; 0% instances), <tt><a href="af_afribooms-dep-root.html">root</a></tt> (4; 0% instances)
+`DET` nodes are attached to their parents using 9 different relations: <tt><a href="af_afribooms-dep-det.html">det</a></tt> (5196; 97% instances), <tt><a href="af_afribooms-dep-amod.html">amod</a></tt> (66; 1% instances), <tt><a href="af_afribooms-dep-dep.html">dep</a></tt> (33; 1% instances), <tt><a href="af_afribooms-dep-nsubj.html">nsubj</a></tt> (14; 0% instances), <tt><a href="af_afribooms-dep-conj.html">conj</a></tt> (8; 0% instances), <tt><a href="af_afribooms-dep-obj.html">obj</a></tt> (8; 0% instances), <tt><a href="af_afribooms-dep-obl.html">obl</a></tt> (7; 0% instances), <tt><a href="af_afribooms-dep-nmod.html">nmod</a></tt> (6; 0% instances), <tt><a href="af_afribooms-dep-root.html">root</a></tt> (4; 0% instances)
 
 Parents of `DET` nodes belong to 13 different parts of speech: <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (5046; 94% instances), <tt><a href="af_afribooms-pos-X.html">X</a></tt> (106; 2% instances), <tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt> (48; 1% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (43; 1% instances), <tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt> (37; 1% instances), <tt><a href="af_afribooms-pos-ADV.html">ADV</a></tt> (13; 0% instances), <tt><a href="af_afribooms-pos-DET.html">DET</a></tt> (13; 0% instances), <tt><a href="af_afribooms-pos-SYM.html">SYM</a></tt> (11; 0% instances), <tt><a href="af_afribooms-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt> (8; 0% instances), <tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt> (4; 0% instances),  (4; 0% instances), <tt><a href="af_afribooms-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 

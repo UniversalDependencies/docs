@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Mo Shen, Ryan McDonald, Daniel Zeman, Peng Qi.
 
 Repository: [UD_Chinese-GSD](https://github.com/UniversalDependencies/UD_Chinese-GSD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udzh_gsd211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udzh_gsd212)<br />
+Download all treebanks: [UD 2.12](/#download)
 
 License: CC BY-SA 4.0
 
@@ -34,7 +34,7 @@ Development of the treebank happens directly in the UD repository, so you may su
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | assigned by a program, not checked manually |
+| Lemmas | assigned by a program, with some manual corrections, but not a full manual verification |
 | UPOS | annotated manually in non-UD style, automatically converted to UD |
 | XPOS | annotated manually |
 | Features | assigned by a program, with some manual corrections, but not a full manual verification |
@@ -103,7 +103,7 @@ Google.
 </ul>
 
 <ul>
-<li>This corpus contains 104 lemmas tagged as determiners (DET): 一切, 上, 下, 以上, 以下, 任, 任何, 何, 全, 全套, 全部, 全體, 其他, 其它, 其餘, 別, 前, 前任, 另, 另外, 各, 各個, 各州, 各式, 各種, 各種各樣, 各級, 各項, 各類, 同, 同年, 後, 所有, 整, 整個, 整場, 整塊, 整套, 整所, 整架, 整片, 整顆, 是次, 有的, 本, 本屆, 本班, 某, 某些, 某個, 某種, 此, 此套, 此次, 此種, 此等, 此項, 此類, 歷屆, 毎年, 每, 每位, 每個, 每元, 每卡, 每周, 每天, 每年, 每座, 每戶, 每所, 每日, 每枚, 每次, 每段, 每片, 每秒, 每組, 每週, 每邊, 每間, 每隊, 每集, 當屆, 眾, 該, 該屆, 該批, 該族, 該條, 該段, 該組, 該集, 諸, 這, 這些, 這次, 這種, 那, 那些, 首, 首任, 首條, 首部</li>
+<li>This corpus contains 137 lemmas tagged as determiners (DET): $5,000, A330, AEG, AK-47, Activision, Advance, Android, CRH380C, Eve, Ghost, Google, JAXA, KKR, Kekal, Kilpatrick, M1, NDS, OROCHI, PSP, Rivers, The, WHO, Wheeler, g(x), iPhone, iPod, km/h, p, 一切, 上, 下, 以上, 以下, 任, 任何, 佔領, 何, 全, 全套, 全部, 全體, 其他, 其它, 其餘, 別, 前, 前任, 另, 另外, 各, 各個, 各州, 各式, 各種, 各種各樣, 各級, 各項, 各類, 同, 同年, 夕拾, 後, 所有, 整, 整個, 整場, 整塊, 整套, 整所, 整架, 整片, 整顆, 是次, 有的, 本, 本屆, 本班, 某, 某些, 某個, 某種, 此, 此套, 此次, 此種, 此等, 此項, 此類, 歷屆, 毎年, 每, 每位, 每個, 每元, 每卡, 每周, 每天, 每年, 每座, 每戶, 每所, 每日, 每枚, 每次, 每段, 每片, 每秒, 每組, 每週, 每邊, 每間, 每隊, 每集, 當屆, 發售, 眾, 該, 該屆, 該批, 該族, 該條, 該段, 該組, 該集, 諸, 近, 這, 這些, 這次, 這種, 那, 那些, 關於, 首, 首任, 首條, 首部</li>
 </ul>
 
 <ul>
@@ -111,11 +111,11 @@ Google.
 </ul>
 
 <ul>
-<li>This corpus contains 156 lemmas tagged as auxiliaries (AUX): 一爭, 上表, 不可, 不夠, 不得, 不想, 不應, 不是, 不會, 不準, 不肯, 不能, 不要, 不該, 不需, 不願, 且是, 並非, 也是, 了, 亦是, 亦為, 仍是, 仍算, 令, 以為, 以爲, 便是, 保存, 保級, 修復, 像, 出手, 分布, 則是, 則為, 努力, 包裹, 即, 卻是, 又是, 只是, 只能, 可, 可以, 可能, 喜, 執政, 增長, 夠, 如, 如同, 實屬, 對此, 就是, 差, 形容, 形成, 影響, 待, 得, 得寵, 必, 必須, 想, 愛, 感到, 感覺, 應, 應當, 應該, 或是, 才是, 排行, 接唱, 接觸, 控制, 推進, 損失, 敢, 日趨, 是, 是否, 是否是, 更是, 更為, 更趨, 會, 有, 有些, 未能, 染色, 欲, 正是, 沒有, 沒能, 治軍, 流沙, 涉世, 深感, 減慢, 準備, 為, 為人, 爲, 獲利, 當, 發展, 發育, 監管, 看, 看似, 看得, 私交, 突感, 而是, 而非, 肯, 能, 能否, 能夠, 著, 表現, 表示, 裝, 要, 要求, 覺得, 認為, 認識, 誤信, 請, 謂, 變, 變得, 負債, 趨, 趨於, 辦學, 連任, 過, 達到, 還是, 都是, 開口, 開始, 關心, 降解, 離開, 難過, 需, 需要, 非, 須, 願意, 顯得</li>
+<li>This corpus contains 29 lemmas tagged as auxiliaries (AUX): 了, 可, 可以, 可能, 得, 必, 必須, 想, 應, 應當, 應該, 敢, 是, 會, 欲, 為, 肯, 能, 能夠, 著, 被, 要, 該, 過, 需, 需要, 須, 願, 願意</li>
 </ul>
 
 <ul>
-<li>Out of the above, 89 lemmas occurred sometimes as AUX and sometimes as VERB: 上表, 不夠, 不得, 不是, 並非, 也是, 了, 亦為, 令, 以為, 保存, 保級, 修復, 像, 出手, 分布, 則是, 努力, 即, 卻是, 又是, 執政, 增長, 夠, 如, 如同, 對此, 就是, 形容, 形成, 影響, 待, 得, 得寵, 必須, 想, 愛, 感到, 排行, 接唱, 接觸, 控制, 推進, 損失, 是, 是否, 有, 有些, 染色, 正是, 沒有, 準備, 為, 爲, 獲利, 當, 發展, 發育, 監管, 看, 而是, 而非, 著, 表現, 表示, 裝, 要, 要求, 覺得, 認為, 認識, 誤信, 請, 謂, 變, 趨, 連任, 過, 達到, 都是, 開口, 開始, 關心, 降解, 離開, 需, 需要, 非, 顯得</li>
+<li>Out of the above, 12 lemmas occurred sometimes as AUX and sometimes as VERB: 了, 得, 必須, 想, 敢, 是, 為, 著, 要, 過, 需, 需要</li>
 </ul>
 
 <ul>
@@ -168,6 +168,8 @@ Google.
   <li>Neg
     <ul>
       <li>ADV: 不, 未, 沒, 別, 無</li>
+      <li>AUX: 不是, 不會, 不能, 未能, 不可, 不得, 不應, 不願, 不想, 不需</li>
+      <li>VERB: 沒有, 不是, 不及, 不如, 不敵, 不滿, 沒收, 不停, 不受, 不合</li>
     </ul>
   </li>
 </ul>
@@ -215,8 +217,7 @@ Google.
 <ul>
   <li>Pass
     <ul>
-      <li>AUX: 為</li>
-      <li>VERB: 被, 為</li>
+      <li>AUX: 被, 為</li>
     </ul>
   </li>
 </ul>
@@ -241,6 +242,7 @@ Google.
 <ul>
   <li>Ord
     <ul>
+      <li>ADJ: 第16, 第一</li>
       <li>NUM: 第一, 第二, 第三, 首次, 第四, 第五, 第1, 第六, 第七, 首位</li>
     </ul>
   </li>
@@ -299,12 +301,12 @@ Google.
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 122 lemmas as copulas (<a>cop</a>). Examples: 是、 為、 也是、 就是、 不是、 即、 都是、 感到、 非、 則是、 亦是、 亦為、 而是、 並非、 則為、 發展、 而非、 影響、 表現、 還是、 顯得、 卻是、 夠、 如、 控制、 是否是、 為人、 爲、 獲利、 看似、 裝、 謂、 變得、 連任、 一爭、 上表、 不夠、 且是、 仍是、 仍算、 令、 以為、 以爲、 低、 便宜、 便是、 保存、 保級、 修復、 像.</li>
+<li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: 是、 為.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 43 lemmas as auxiliaries (<a>aux</a>). Examples: 了、 會、 可以、 著、 可、 能、 要、 過、 可能、 必須、 能夠、 不會、 不能、 想、 需要、 需、 應、 未能、 不可、 不得、 須、 不應、 不願、 應該、 欲、 願意、 不想、 必、 不需、 請、 不準、 不肯、 不要、 不該、 只能、 得、 愛、 應當、 敢、 沒能、 當、 肯、 能否.</li>
-<li>This corpus uses 3 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: 被、 為、 把.</li>
+<li>This corpus uses 26 lemmas as auxiliaries (<a>aux</a>). Examples: 了、 會、 可以、 著、 可、 能、 要、 過、 可能、 必須、 能夠、 想、 應、 需、 需要、 得、 須、 應該、 欲、 願、 願意、 必、 肯、 應當、 敢、 該.</li>
+<li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: 被、 為.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -313,28 +315,47 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (4063)</li>
+      <li>VERB--NOUN (4044)</li>
+      <li>VERB--NOUN-ADP(上) (6)</li>
+      <li>VERB--NOUN-ADP(下) (2)</li>
+      <li>VERB--NOUN-ADP(不) (1)</li>
+      <li>VERB--NOUN-ADP(中) (12)</li>
       <li>VERB--NOUN-ADP(主) (4)</li>
+      <li>VERB--NOUN-ADP(之間) (5)</li>
       <li>VERB--NOUN-ADP(以) (1)</li>
+      <li>VERB--NOUN-ADP(內) (2)</li>
       <li>VERB--NOUN-ADP(前) (3)</li>
       <li>VERB--NOUN-ADP(前)-ADP(副)-ADP(總) (1)</li>
       <li>VERB--NOUN-ADP(副) (2)</li>
       <li>VERB--NOUN-ADP(原) (5)</li>
+      <li>VERB--NOUN-ADP(和)-ADP(的) (1)</li>
+      <li>VERB--NOUN-ADP(在)-ADP(的) (6)</li>
       <li>VERB--NOUN-ADP(大) (18)</li>
       <li>VERB--NOUN-ADP(寬) (1)</li>
-      <li>VERB--NOUN-ADP(小) (8)</li>
+      <li>VERB--NOUN-ADP(對)-ADP(的) (9)</li>
+      <li>VERB--NOUN-ADP(對於)-ADP(的) (2)</li>
+      <li>VERB--NOUN-ADP(小) (9)</li>
       <li>VERB--NOUN-ADP(強) (1)</li>
       <li>VERB--NOUN-ADP(彎) (1)</li>
       <li>VERB--NOUN-ADP(微) (1)</li>
       <li>VERB--NOUN-ADP(新) (14)</li>
       <li>VERB--NOUN-ADP(暗) (1)</li>
+      <li>VERB--NOUN-ADP(有關)-ADP(的) (3)</li>
+      <li>VERB--NOUN-ADP(期間)-ADP(的) (1)</li>
       <li>VERB--NOUN-ADP(清) (1)</li>
       <li>VERB--NOUN-ADP(為) (1)</li>
       <li>VERB--NOUN-ADP(的) (1)</li>
+      <li>VERB--NOUN-ADP(經過)-ADP(的) (2)</li>
       <li>VERB--NOUN-ADP(總) (5)</li>
       <li>VERB--NOUN-ADP(老) (5)</li>
+      <li>VERB--NOUN-ADP(與)-ADP(的) (4)</li>
       <li>VERB--NOUN-ADP(舊) (2)</li>
-      <li>VERB--PRON (731)</li>
+      <li>VERB--NOUN-ADP(裡) (1)</li>
+      <li>VERB--NOUN-ADP(里) (1)</li>
+      <li>VERB--NOUN-ADP(間) (1)</li>
+      <li>VERB--NOUN-ADP(關於)-ADP(的) (3)</li>
+      <li>VERB--PRON (736)</li>
+      <li>VERB--PRON-ADP(之間) (2)</li>
     </ul>
   </li>
 </ul>
@@ -342,42 +363,72 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (5518)</li>
+      <li>VERB--NOUN (5407)</li>
+      <li>VERB--NOUN-ADP(上) (7)</li>
+      <li>VERB--NOUN-ADP(下) (1)</li>
       <li>VERB--NOUN-ADP(不) (2)</li>
-      <li>VERB--NOUN-ADP(中) (1)</li>
+      <li>VERB--NOUN-ADP(中) (13)</li>
       <li>VERB--NOUN-ADP(主) (1)</li>
+      <li>VERB--NOUN-ADP(之上) (1)</li>
+      <li>VERB--NOUN-ADP(之下) (1)</li>
+      <li>VERB--NOUN-ADP(之中) (4)</li>
+      <li>VERB--NOUN-ADP(之內) (2)</li>
+      <li>VERB--NOUN-ADP(之間) (2)</li>
       <li>VERB--NOUN-ADP(亞) (1)</li>
       <li>VERB--NOUN-ADP(今) (1)</li>
       <li>VERB--NOUN-ADP(代) (1)</li>
+      <li>VERB--NOUN-ADP(以上) (1)</li>
+      <li>VERB--NOUN-ADP(以下) (1)</li>
+      <li>VERB--NOUN-ADP(以外) (1)</li>
       <li>VERB--NOUN-ADP(低) (1)</li>
       <li>VERB--NOUN-ADP(偽) (1)</li>
+      <li>VERB--NOUN-ADP(像是)-ADP(的) (1)</li>
+      <li>VERB--NOUN-ADP(內) (6)</li>
       <li>VERB--NOUN-ADP(分) (1)</li>
       <li>VERB--NOUN-ADP(副) (8)</li>
       <li>VERB--NOUN-ADP(原) (4)</li>
       <li>VERB--NOUN-ADP(古) (1)</li>
+      <li>VERB--NOUN-ADP(向)-ADP(的) (1)</li>
+      <li>VERB--NOUN-ADP(在)-ADP(的) (14)</li>
       <li>VERB--NOUN-ADP(堂) (1)</li>
+      <li>VERB--NOUN-ADP(外) (1)</li>
       <li>VERB--NOUN-ADP(大) (34)</li>
       <li>VERB--NOUN-ADP(好) (1)</li>
       <li>VERB--NOUN-ADP(始) (1)</li>
       <li>VERB--NOUN-ADP(子) (2)</li>
       <li>VERB--NOUN-ADP(寬) (1)</li>
+      <li>VERB--NOUN-ADP(對)-ADP(的) (26)</li>
+      <li>VERB--NOUN-ADP(對)-ADP(的)-ADP(上) (1)</li>
+      <li>VERB--NOUN-ADP(對於)-ADP(的) (3)</li>
       <li>VERB--NOUN-ADP(小) (14)</li>
+      <li>VERB--NOUN-ADP(左右) (2)</li>
       <li>VERB--NOUN-ADP(彎) (1)</li>
+      <li>VERB--NOUN-ADP(後) (1)</li>
       <li>VERB--NOUN-ADP(快) (1)</li>
       <li>VERB--NOUN-ADP(新) (21)</li>
+      <li>VERB--NOUN-ADP(於)-ADP(的) (3)</li>
+      <li>VERB--NOUN-ADP(有關)-ADP(的) (6)</li>
       <li>VERB--NOUN-ADP(毒) (1)</li>
       <li>VERB--NOUN-ADP(濃) (1)</li>
       <li>VERB--NOUN-ADP(熱) (3)</li>
+      <li>VERB--NOUN-ADP(直到)-ADP(的) (1)</li>
       <li>VERB--NOUN-ADP(總) (8)</li>
-      <li>VERB--NOUN-ADP(老) (1)</li>
+      <li>VERB--NOUN-ADP(與)-ADP(的) (4)</li>
+      <li>VERB--NOUN-ADP(與)-ADP(的)-ADP(老) (1)</li>
       <li>VERB--NOUN-ADP(舊) (4)</li>
+      <li>VERB--NOUN-ADP(裡) (1)</li>
       <li>VERB--NOUN-ADP(親) (1)</li>
       <li>VERB--NOUN-ADP(超) (2)</li>
       <li>VERB--NOUN-ADP(躁) (1)</li>
       <li>VERB--NOUN-ADP(輕)-ADP(重) (1)</li>
+      <li>VERB--NOUN-ADP(里) (2)</li>
       <li>VERB--NOUN-ADP(重) (1)</li>
+      <li>VERB--NOUN-ADP(間) (1)</li>
+      <li>VERB--NOUN-ADP(關於)-ADP(的) (4)</li>
+      <li>VERB--NOUN-ADP(離)-ADP(的) (1)</li>
       <li>VERB--NOUN-ADP(鮮) (1)</li>
-      <li>VERB--PRON (97)</li>
+      <li>VERB--PRON (98)</li>
+      <li>VERB--PRON-ADP(之中) (1)</li>
     </ul>
   </li>
 </ul>
@@ -385,7 +436,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB--NOUN (48)</li>
+      <li>VERB--NOUN (45)</li>
+      <li>VERB--NOUN-ADP(上) (1)</li>
+      <li>VERB--NOUN-ADP(中) (2)</li>
       <li>VERB--NOUN-ADP(主) (1)</li>
       <li>VERB--PRON (8)</li>
     </ul>

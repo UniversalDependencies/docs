@@ -11,7 +11,7 @@ It occurs with 16 different values: `Abe`, `Abl`, `Acc`, `Ade`, `All`, `Com`, `E
 
 748 tokens (46%) have a non-empty value of `Case`.
 522 types (69%) occur at least once with a non-empty value of `Case`.
-384 lemmas (68%) occur at least once with a non-empty value of `Case`.
+384 lemmas (69%) occur at least once with a non-empty value of `Case`.
 The feature is used with 9 part-of-speech tags: <tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt> (429; 26% instances), <tt><a href="olo_kkpp-pos-PRON.html">PRON</a></tt> (102; 6% instances), <tt><a href="olo_kkpp-pos-ADJ.html">ADJ</a></tt> (93; 6% instances), <tt><a href="olo_kkpp-pos-PROPN.html">PROPN</a></tt> (79; 5% instances), <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> (24; 1% instances), <tt><a href="olo_kkpp-pos-NUM.html">NUM</a></tt> (16; 1% instances), <tt><a href="olo_kkpp-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="olo_kkpp-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="olo_kkpp-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 ### `NOUN`

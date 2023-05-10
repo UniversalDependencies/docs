@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-25 nodes (1%) are attached to their parents as `ccomp`.
+26 nodes (1%) are attached to their parents as `ccomp`.
 
-25 instances of `ccomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.96.
+26 instances of `ccomp` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.26923076923077.
 
-The following 8 pairs of parts of speech are connected with `ccomp`: <tt><a href="krl_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="krl_kkpp-pos-VERB.html">VERB</a></tt> (13; 52% instances), <tt><a href="krl_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="krl_kkpp-pos-AUX.html">AUX</a></tt> (5; 20% instances), <tt><a href="krl_kkpp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="krl_kkpp-pos-VERB.html">VERB</a></tt> (2; 8% instances), <tt><a href="krl_kkpp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="krl_kkpp-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="krl_kkpp-pos-ADV.html">ADV</a></tt>-<tt><a href="krl_kkpp-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="krl_kkpp-pos-PRON.html">PRON</a></tt>-<tt><a href="krl_kkpp-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="krl_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="krl_kkpp-pos-ADV.html">ADV</a></tt> (1; 4% instances), <tt><a href="krl_kkpp-pos-X.html">X</a></tt>-<tt><a href="krl_kkpp-pos-VERB.html">VERB</a></tt> (1; 4% instances).
+The following 8 pairs of parts of speech are connected with `ccomp`: <tt><a href="krl_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="krl_kkpp-pos-VERB.html">VERB</a></tt> (14; 54% instances), <tt><a href="krl_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="krl_kkpp-pos-AUX.html">AUX</a></tt> (5; 19% instances), <tt><a href="krl_kkpp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="krl_kkpp-pos-VERB.html">VERB</a></tt> (2; 8% instances), <tt><a href="krl_kkpp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="krl_kkpp-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="krl_kkpp-pos-ADV.html">ADV</a></tt>-<tt><a href="krl_kkpp-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="krl_kkpp-pos-PRON.html">PRON</a></tt>-<tt><a href="krl_kkpp-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="krl_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="krl_kkpp-pos-ADV.html">ADV</a></tt> (1; 4% instances), <tt><a href="krl_kkpp-pos-X.html">X</a></tt>-<tt><a href="krl_kkpp-pos-VERB.html">VERB</a></tt> (1; 4% instances).
 
 
 ~~~ conllu

@@ -73,6 +73,6 @@ The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>VERB --[<tt><a href="qpm_philotis-dep-conj.html">conj</a></tt>]--> VERB</tt> (3040; 78%),
 <tt>VERB --[<tt><a href="qpm_philotis-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (967; 59%),
 <tt>VERB --[<tt><a href="qpm_philotis-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (838; 63%),
-<tt>VERB --[<tt><a href="qpm_philotis-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (13; 65%),
+<tt>VERB --[<tt><a href="qpm_philotis-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (13; 72%),
 <tt>AUX --[<tt><a href="qpm_philotis-dep-conj.html">conj</a></tt>]--> VERB</tt> (2; 100%).
 

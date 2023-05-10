@@ -16,12 +16,12 @@ The feature is used with 1 part-of-speech tags: <tt><a href="af_afribooms-pos-PR
 
 ### `PRON`
 
-637 <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt> tokens (17% of all `PRON` tokens) have a non-empty value of `Poss`.
+637 <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt> tokens (18% of all `PRON` tokens) have a non-empty value of `Poss`.
 
 The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="af_afribooms-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (637; 100%), <tt><a href="af_afribooms-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (637; 100%), <tt><a href="af_afribooms-feat-Number.html">Number</a></tt><tt>=Plur</tt> (463; 73%), <tt><a href="af_afribooms-feat-Person.html">Person</a></tt><tt>=1</tt> (373; 59%).
 
 `PRON` tokens may have the following values of `Poss`:
 
 * `Yes` (637; 100% of non-empty `Poss`): <em>ons, jou, hul, sy, hulle, my, haar, julle, u</em>
-* `EMPTY` (3081): <em>wat, ons, dit, jy, hulle, enige, ek, daar, wanneer, almal</em>
+* `EMPTY` (2970): <em>wat, ons, dit, jy, hulle, enige, ek, daar, almal, elke</em>
 

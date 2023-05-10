@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `xcomp`: <tt><a href="olo_kkpp-dep-xcomp-ds.html">xcomp:ds</a></tt>.
 
-15 nodes (1%) are attached to their parents as `xcomp`.
+14 nodes (1%) are attached to their parents as `xcomp`.
 
-15 instances of `xcomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.4.
+14 instances of `xcomp` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.21428571428571.
 
-The following 4 pairs of parts of speech are connected with `xcomp`: <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> (12; 80% instances), <tt><a href="olo_kkpp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> (1; 7% instances), <tt><a href="olo_kkpp-pos-AUX.html">AUX</a></tt>-<tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> (1; 7% instances), <tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> (1; 7% instances).
+The following 4 pairs of parts of speech are connected with `xcomp`: <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> (11; 79% instances), <tt><a href="olo_kkpp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> (1; 7% instances), <tt><a href="olo_kkpp-pos-AUX.html">AUX</a></tt>-<tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> (1; 7% instances), <tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> (1; 7% instances).
 
 
 ~~~ conllu

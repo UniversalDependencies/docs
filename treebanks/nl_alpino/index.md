@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Daniel Zeman, Zdeněk Žabokrtský, Gosse Bouma, Gertjan van Noord.
 
 Repository: [UD_Dutch-Alpino](https://github.com/UniversalDependencies/UD_Dutch-Alpino)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udnl_alpino211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udnl_alpino212)<br />
+Download all treebanks: [UD 2.12](/#download)
 
 License: CC BY-SA 4.0
 
@@ -60,7 +60,7 @@ As sources, we used the (manually corrected) Alpino treebank annotation for this
 available in Groningen. Links to original files have been added. Note that tokenization may differ
 from the previous UD version.
 
-The conversion script can be found here: https://github.com/gossebouma/lassy2ud
+The (Go and XQuery) conversion script is available for download at https://github.com/rug-compling/alud. It can be used to convert additional material annotated according to Lassy/CGN guidelines or annotated automatically using the Alpino parser.
 
 ## Acknowledgments
 
@@ -77,13 +77,13 @@ The conversion script can be found here: https://github.com/gossebouma/lassy2ud
 
 ## Relations
 
-[acl](nl_alpino-dep-acl.html) – [acl:relcl](nl_alpino-dep-acl-relcl.html) – [advcl](nl_alpino-dep-advcl.html) – [advmod](nl_alpino-dep-advmod.html) – [amod](nl_alpino-dep-amod.html) – [appos](nl_alpino-dep-appos.html) – [aux](nl_alpino-dep-aux.html) – [aux:pass](nl_alpino-dep-aux-pass.html) – [case](nl_alpino-dep-case.html) – [cc](nl_alpino-dep-cc.html) – [ccomp](nl_alpino-dep-ccomp.html) – [compound:prt](nl_alpino-dep-compound-prt.html) – [conj](nl_alpino-dep-conj.html) – [cop](nl_alpino-dep-cop.html) – [csubj](nl_alpino-dep-csubj.html) – [det](nl_alpino-dep-det.html) – [expl](nl_alpino-dep-expl.html) – [expl:pv](nl_alpino-dep-expl-pv.html) – [fixed](nl_alpino-dep-fixed.html) – [flat](nl_alpino-dep-flat.html) – [iobj](nl_alpino-dep-iobj.html) – [mark](nl_alpino-dep-mark.html) – [nmod](nl_alpino-dep-nmod.html) – [nmod:poss](nl_alpino-dep-nmod-poss.html) – [nsubj](nl_alpino-dep-nsubj.html) – [nsubj:pass](nl_alpino-dep-nsubj-pass.html) – [nummod](nl_alpino-dep-nummod.html) – [obj](nl_alpino-dep-obj.html) – [obl](nl_alpino-dep-obl.html) – [obl:agent](nl_alpino-dep-obl-agent.html) – [orphan](nl_alpino-dep-orphan.html) – [parataxis](nl_alpino-dep-parataxis.html) – [punct](nl_alpino-dep-punct.html) – [root](nl_alpino-dep-root.html) – [xcomp](nl_alpino-dep-xcomp.html)
+[acl](nl_alpino-dep-acl.html) – [acl:relcl](nl_alpino-dep-acl-relcl.html) – [advcl](nl_alpino-dep-advcl.html) – [advmod](nl_alpino-dep-advmod.html) – [amod](nl_alpino-dep-amod.html) – [appos](nl_alpino-dep-appos.html) – [aux](nl_alpino-dep-aux.html) – [aux:pass](nl_alpino-dep-aux-pass.html) – [case](nl_alpino-dep-case.html) – [cc](nl_alpino-dep-cc.html) – [cc:preconj](nl_alpino-dep-cc-preconj.html) – [ccomp](nl_alpino-dep-ccomp.html) – [compound:prt](nl_alpino-dep-compound-prt.html) – [conj](nl_alpino-dep-conj.html) – [cop](nl_alpino-dep-cop.html) – [csubj](nl_alpino-dep-csubj.html) – [csubj:outer](nl_alpino-dep-csubj-outer.html) – [det](nl_alpino-dep-det.html) – [expl](nl_alpino-dep-expl.html) – [expl:pv](nl_alpino-dep-expl-pv.html) – [fixed](nl_alpino-dep-fixed.html) – [flat](nl_alpino-dep-flat.html) – [iobj](nl_alpino-dep-iobj.html) – [mark](nl_alpino-dep-mark.html) – [nmod](nl_alpino-dep-nmod.html) – [nmod:poss](nl_alpino-dep-nmod-poss.html) – [nsubj](nl_alpino-dep-nsubj.html) – [nsubj:outer](nl_alpino-dep-nsubj-outer.html) – [nsubj:pass](nl_alpino-dep-nsubj-pass.html) – [nummod](nl_alpino-dep-nummod.html) – [obj](nl_alpino-dep-obj.html) – [obl](nl_alpino-dep-obl.html) – [obl:agent](nl_alpino-dep-obl-agent.html) – [orphan](nl_alpino-dep-orphan.html) – [parataxis](nl_alpino-dep-parataxis.html) – [punct](nl_alpino-dep-punct.html) – [root](nl_alpino-dep-root.html) – [xcomp](nl_alpino-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 13603 sentences and 208613 tokens.</li>
+<li>This corpus contains 13603 sentences, 208613 tokens and 208614 syntactic words.</li>
 </ul>
 
 <ul>
@@ -99,6 +99,8 @@ The conversion script can be found here: https://github.com/gossebouma/lassy2ud
 </ul>
 
 <ul>
+<li>This corpus contains 1 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 1 types of multi-word tokens. Examples: nogeens.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -114,15 +116,15 @@ The conversion script can be found here: https://github.com/gossebouma/lassy2ud
 </ul>
 
 <ul>
-<li>This corpus contains 73 lemmas tagged as pronouns (PRON): al, allebei, alles, beide, da, dat, datgeen, degeen, deze, die, diegene, dit, een, elk, elkaar, enig, enkel, er, ge, geen, gij, ginds, haar, haarzelf, hem, hemzelf, hen, het, hetgeen, hetgene, hij, hijzelf, hun, ieder, iedereen, iemand, iets, ik, je, jezelf, jij, jou, jullie, m'n, me, meerdere, men, mezelf, mij, mijn, niemand, niets, niks, ons, onszelf, sommig, u, veel, wat, we, weinig, welk, wie, wij, ze, zich, zichzelf, zij, zijn, zijzelf, zo'n, zoiets, zulk</li>
+<li>This corpus contains 69 lemmas tagged as pronouns (PRON): al, allebei, alles, beide, dat, datgeen, degeen, deze, die, diegene, dit, een, elk, elkaar, enig, enkel, er, ge, geen, gij, haar, haarzelf, hem, hemzelf, hen, het, hetgeen, hij, hijzelf, hun, ieder, iedereen, iemand, iets, ik, je, jezelf, jij, jou, jullie, me, meerdere, men, mezelf, mij, mijn, niemand, niets, niks, ons, onszelf, sommig, u, veel, wat, we, weinig, welk, wie, wij, ze, zich, zichzelf, zij, zijn, zijzelf, zo'n, zoiets, zulk</li>
 </ul>
 
 <ul>
-<li>This corpus contains 88 lemmas tagged as determiners (DET): 1/3, 1/4, 1000, 2.392, 20.000, 22,1, 2500, 33, 37,7, 47, 5.001, 5000, 8, 9.000, Be, Quick, al, allerlei, anderhalf, andermans, beide, bijna, dat, datzelfde, de, den, der, deze, dezelfde, die, diezelfde, dit, dll, een, eenzelfde, elk, elkaar, enig, enkel, ettelijk, geen, genoeg, haar, helemaal, het, hetzelfde, hoe, hun, ieder, je, maar, meerdere, menig, mijn, min, net, niemand, niet, nog, nogal, ons, onvoldoende, reeds, slechts, sommig, steeds, te, teveel, the, u, veel, voldoende, vrijwel, wat, weinig, wel, welhaast, welk, wie, x, zeer, zes-, zestig-, zijn, zijn/haar, zo, zo'n, zulk</li>
+<li>This corpus contains 81 lemmas tagged as determiners (DET): 1/2, 1/3, 1/4, 1/8, 1000, 2.392, 2/3, 20.000, 22,1, 2500, 33, 37,7, 47, 5.001, 5000, 9.000, al, allerlei, anderhalf, andermans, beide, bijna, dat, datzelfde, de, deze, dezelfde, die, diezelfde, dit, dll, een, eenzelfde, elk, elkaar, enig, enkel, ettelijk, flo, geen, genoeg, helemaal, het, hetzelfde, hoe, ieder, maar, meerdere, menig, min, net, niemand, niet, nog, nogal, onvoldoende, reeds, slechts, sommig, steeds, te, teveel, the, veel, voldoende, vrijwel, wat, weinig, wel, welhaast, welk, weten, wie, x, zeer, zes-, zestig-, zijn/haar, zo, zo'n, zulk</li>
 </ul>
 
 <ul>
-<li>Out of the above, 31 lemmas occurred sometimes as PRON and sometimes as DET: al, beide, dat, deze, die, dit, een, elk, elkaar, enig, enkel, geen, haar, het, hun, ieder, je, meerdere, mijn, niemand, ons, sommig, u, veel, wat, weinig, welk, wie, zijn, zo'n, zulk</li>
+<li>Out of the above, 24 lemmas occurred sometimes as PRON and sometimes as DET: al, beide, dat, deze, die, dit, een, elk, elkaar, enig, enkel, geen, het, ieder, meerdere, niemand, sommig, veel, wat, weinig, welk, wie, zo'n, zulk</li>
 </ul>
 
 <ul>
@@ -141,7 +143,7 @@ The conversion script can be found here: https://github.com/gossebouma/lassy2ud
   <li>Fin
   <ul>
     <li>AUX: is, was, heeft, zijn, werd, wordt, zal, zou, kan, hebben</li>
-    <li>VERB: heeft, komt, heet, wil, is, gaat, zei, kwam, noemt, ligt</li>
+    <li>VERB: heeft, komt, heet, wil, is, gaat, zei, kwam, noemt, hebben</li>
   </ul>
   </li>
 </ul>
@@ -174,7 +176,7 @@ The conversion script can be found here: https://github.com/gossebouma/lassy2ud
 <ul>
   <li>Com
     <ul>
-      <li>NOUN: heer, plaats, flo, tijd, minister, stad, man, dag, week, politie</li>
+      <li>NOUN: heer, plaats, tijd, minister, man, stad, dag, week, politie, trein</li>
       <li>PROPN: zaterdag, januari, zondag, JGZ, Robbert, mei, juli, september, vrijdag, God</li>
     </ul>
   </li>
@@ -183,8 +185,8 @@ The conversion script can be found here: https://github.com/gossebouma/lassy2ud
 <ul>
   <li>Com,Neut
     <ul>
-      <li>NOUN: keer, soort, boord, opzet, subsidie, opium, punt, accordeon, affiche, aperitief</li>
-      <li>PROPN: Financien, Beernink, Springer, DFC, Interpay, Laurus, Mendes-France, Noerejew, Poema, Ulysses</li>
+      <li>NOUN: soort, boord, opzet, subsidie, stempel, opium, affiche, aperitief, cacaopoeder, cementpoeder</li>
+      <li>PROPN: Greenpeace, Beernink, DFC, Interpay, Laurus, Mendes-France, Noerejew, Poema, Springer, Ulysses</li>
     </ul>
   </li>
 </ul>
@@ -207,7 +209,7 @@ The conversion script can be found here: https://github.com/gossebouma/lassy2ud
   <li>Plur
     <ul>
       <li>AUX-Fin: zijn, hebben, worden, zullen, waren, werden, kunnen, zouden, moeten, hadden</li>
-      <li>NOUN: mensen, kinderen, jaren, problemen, landen, boeken, dagen, vrouwen, weken, zaken</li>
+      <li>NOUN: mensen, kinderen, jaren, problemen, zaken, landen, boeken, dagen, vrouwen, weken</li>
       <li>PROPN: Nederlanders, Amsterdammers, Rotterdammers, Duitsers, Italianen, Russen, Amerikanen, Engelsen, Romeinen, VS</li>
       <li>VERB-Fin: hebben, zijn, gaan, willen, komen, kwamen, hadden, krijgen, waren, staan</li>
     </ul>
@@ -218,8 +220,8 @@ The conversion script can be found here: https://github.com/gossebouma/lassy2ud
   <li>Sing
     <ul>
       <li>AUX-Fin: is, was, heeft, werd, wordt, zal, zou, kan, moet, had</li>
-      <li>NOUN: jaar, land, heer, plaats, flo, tijd, minister, uur, stad, man</li>
-      <li>PROPN: Nederland, Amsterdam, zaterdag, Groningen, Rotterdam, Europa, Engeland, januari, zondag, JGZ</li>
+      <li>NOUN: jaar, land, heer, plaats, tijd, minister, uur, man, stad, aantal</li>
+      <li>PROPN: Nederland, Amsterdam, zaterdag, Groningen, Rotterdam, Europa, Engeland, januari, zondag, Aduard</li>
       <li>VERB-Fin: heeft, komt, heet, wil, is, gaat, zei, kwam, noemt, ligt</li>
     </ul>
   </li>
@@ -248,7 +250,7 @@ The conversion script can be found here: https://github.com/gossebouma/lassy2ud
 <ul>
   <li>Gen
     <ul>
-      <li>PRON: uwer, zijner</li>
+      <li>PRON: zijns, uwer, zijner</li>
     </ul>
   </li>
 </ul>
@@ -300,7 +302,7 @@ The conversion script can be found here: https://github.com/gossebouma/lassy2ud
 <ul>
   <li>Pos
     <ul>
-      <li>ADJ: nieuwe, grote, andere, Nederlandse, goed, heel, groot, Amerikaanse, eigen, goede</li>
+      <li>ADJ: nieuwe, grote, andere, goed, Nederlandse, heel, groot, Amerikaanse, eigen, goede</li>
     </ul>
   </li>
 </ul>
@@ -308,7 +310,7 @@ The conversion script can be found here: https://github.com/gossebouma/lassy2ud
 <ul>
   <li>Sup
     <ul>
-      <li>ADJ: laatste, grootste, beste, belangrijkste, hoogste, best, jongste, voornaamste, oudste, allerminst</li>
+      <li>ADJ: laatste, grootste, beste, belangrijkste, hoogste, best, jongste, voornaamste, allerminst, oudste</li>
     </ul>
   </li>
 </ul>
@@ -337,7 +339,7 @@ The conversion script can be found here: https://github.com/gossebouma/lassy2ud
   <li>Pres
     <ul>
       <li>AUX-Fin: is, heeft, zijn, wordt, zal, kan, hebben, moet, heb, worden</li>
-      <li>VERB-Fin: heeft, komt, heet, wil, is, gaat, noemt, ligt, hebben, zijn</li>
+      <li>VERB-Fin: heeft, komt, heet, wil, is, gaat, noemt, hebben, ligt, zijn</li>
     </ul>
   </li>
 </ul>
@@ -439,7 +441,7 @@ The conversion script can be found here: https://github.com/gossebouma/lassy2ud
 <ul>
   <li>2
     <ul>
-      <li>PRON: je, u, jullie, jij, jou, uw, gij, jouw, ge, jezelf</li>
+      <li>PRON: je, u, jullie, jij, jou, uw, gij, jouw, jezelf, ge</li>
     </ul>
   </li>
 </ul>
@@ -489,18 +491,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (3764)</li>
+      <li>VERB-Fin--NOUN (3749)</li>
       <li>VERB-Fin--NOUN-ADP(op) (1)</li>
-      <li>VERB-Fin--PRON (1788)</li>
-      <li>VERB-Fin--PRON-Acc (1)</li>
-      <li>VERB-Fin--PRON-Nom (2622)</li>
-      <li>VERB-Inf--NOUN (599)</li>
-      <li>VERB-Inf--PRON (314)</li>
-      <li>VERB-Inf--PRON-Acc (2)</li>
-      <li>VERB-Inf--PRON-Nom (557)</li>
-      <li>VERB-Part--NOUN (811)</li>
-      <li>VERB-Part--PRON (285)</li>
-      <li>VERB-Part--PRON-Nom (510)</li>
+      <li>VERB-Fin--PRON (1784)</li>
+      <li>VERB-Fin--PRON-Nom (2616)</li>
+      <li>VERB-Inf--NOUN (595)</li>
+      <li>VERB-Inf--PRON (315)</li>
+      <li>VERB-Inf--PRON-Nom (556)</li>
+      <li>VERB-Part--NOUN (806)</li>
+      <li>VERB-Part--PRON (284)</li>
+      <li>VERB-Part--PRON-Nom (514)</li>
     </ul>
   </li>
 </ul>
@@ -508,16 +508,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (2776)</li>
-      <li>VERB-Fin--NOUN-ADP(voor) (1)</li>
-      <li>VERB-Fin--PRON (527)</li>
+      <li>VERB-Fin--NOUN (2778)</li>
+      <li>VERB-Fin--PRON (528)</li>
       <li>VERB-Fin--PRON-Acc (211)</li>
-      <li>VERB-Inf--NOUN (1432)</li>
+      <li>VERB-Inf--NOUN (1428)</li>
       <li>VERB-Inf--NOUN-ADP(voor) (1)</li>
-      <li>VERB-Inf--PRON (266)</li>
+      <li>VERB-Inf--PRON (265)</li>
       <li>VERB-Inf--PRON-Acc (103)</li>
-      <li>VERB-Part--NOUN (723)</li>
-      <li>VERB-Part--PRON (182)</li>
+      <li>VERB-Part--NOUN (719)</li>
+      <li>VERB-Part--PRON (183)</li>
       <li>VERB-Part--PRON-Acc (48)</li>
     </ul>
   </li>
@@ -526,18 +525,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--NOUN (66)</li>
-      <li>VERB-Fin--NOUN-ADP(aan) (1)</li>
+      <li>VERB-Fin--NOUN (68)</li>
       <li>VERB-Fin--PRON (3)</li>
       <li>VERB-Fin--PRON-ADP(aan) (1)</li>
       <li>VERB-Fin--PRON-Acc (175)</li>
       <li>VERB-Inf--NOUN (44)</li>
-      <li>VERB-Inf--NOUN-ADP(aan) (1)</li>
       <li>VERB-Inf--PRON (5)</li>
       <li>VERB-Inf--PRON-ADP(aan) (1)</li>
       <li>VERB-Inf--PRON-Acc (46)</li>
-      <li>VERB-Part--NOUN (48)</li>
-      <li>VERB-Part--NOUN-ADP(aan) (2)</li>
+      <li>VERB-Part--NOUN (46)</li>
       <li>VERB-Part--PRON (3)</li>
       <li>VERB-Part--PRON-ADP(aan) (2)</li>
       <li>VERB-Part--PRON-Acc (61)</li>
@@ -548,7 +544,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Reflexive Verbs</h3>
 
 <ul>
-  <li>This corpus contains 173 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: bevinden zich, bewust zich, voelen zich, af_vragen zich, laten zich, voor_doen zich, maken zich, tonen zich, melden zich, ontwikkelen zich, plaatsen zich, af_spelen zich, bewegen zich, mee_brengen zich, richten zich, uit_spreken zich, aan_melden zich, beraden zich, concentreren zich, houden zich, op_stellen zich, vergissen zich, af_scheiden zich, af_vragen me, begeven zich, gedragen zich, herstellen zich, stellen zich, voelen me, voelen ons, voltrekken zich, wagen zich, wreken zich, af_vragen ons, begeven ons, beperken zich, buigen zich, mengen zich, permitteren zich, schamen je, schamen zich, toe_leggen zich, verzetten zich, aan_sluiten zich, aan_trekken zich, af_wenden zich, beklagen me, bemoeien zich, bloot_geven zich, gaan zich</li>
+  <li>This corpus contains 170 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: bevinden zich, voor_doen zich, bewust zich, voelen zich, af_vragen zich, laten zich, maken zich, tonen zich, melden zich, ontwikkelen zich, plaatsen zich, af_spelen zich, bewegen zich, mee_brengen zich, richten zich, uit_spreken zich, aan_melden zich, begeven zich, beraden zich, concentreren zich, houden zich, op_stellen zich, vergissen zich, af_scheiden zich, af_vragen me, gedragen zich, herstellen zich, stellen zich, voelen me, voelen ons, voltrekken zich, wagen zich, wreken zich, af_vragen ons, begeven ons, beperken zich, buigen zich, mengen zich, permitteren zich, schamen je, schamen zich, terug_vechten zich, toe_leggen zich, verzetten zich, aan_sluiten zich, aan_trekken zich, af_wenden zich, beklagen me, bemoeien zich, bloot_geven zich</li>
 </ul>
 
 
@@ -564,7 +560,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 7 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>expl:pv</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
+<li>This corpus uses 10 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>csubj:outer</a>, <a>expl:pv</a>, <a>nmod:poss</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>compound</a></li>
 <li>The following 8 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

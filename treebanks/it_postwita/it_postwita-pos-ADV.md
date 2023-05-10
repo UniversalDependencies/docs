@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>più</em> (<tt><a href="it_postwita-p
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.095092 (the average of all parts of speech is 1.310744).
+The form / lemma ratio of `ADV` is 1.095092 (the average of all parts of speech is 1.310882).
 
 The 1st highest number of forms (5) was observed with the lemma “bene”: <em>ben, bene, beneeeee, bennee, bn</em>.
 

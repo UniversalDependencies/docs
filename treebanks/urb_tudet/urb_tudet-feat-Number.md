@@ -38,7 +38,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 * `Plur` (8; 62% of non-empty `Number`): <em>a’eta, ngā, ta, a’etake, ngã, take</em>
 * `Sing` (5; 38% of non-empty `Number`): <em>aʔe, ihẽ, jane, neke</em>
-* `EMPTY` (50): <em>ihẽ, ihē, ihẽke, aʔe, ne, neke, aʔeke, ipe, Peteĩ, nde</em>
+* `EMPTY` (49): <em>ihẽ, ihē, ihẽke, aʔe, ne, neke, aʔeke, ipe, nde, ndeke</em>
 
 ### `NOUN`
 
@@ -64,6 +64,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>VERB --[<tt><a href="urb_tudet-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (2; 100%),
-<tt>VERB --[<tt><a href="urb_tudet-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<tt><a href="urb_tudet-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1; 100%),
+<tt>VERB --[<tt><a href="urb_tudet-dep-dep.html">dep</a></tt>]--> VERB</tt> (1; 100%),
+<tt>VERB --[<tt><a href="urb_tudet-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (1; 100%).
 

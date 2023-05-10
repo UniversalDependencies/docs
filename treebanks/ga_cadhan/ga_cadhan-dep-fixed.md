@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-37 nodes (1%) are attached to their parents as `fixed`.
+48 nodes (1%) are attached to their parents as `fixed`.
 
-37 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.94594594594595.
+48 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.77083333333333.
 
-The following 10 pairs of parts of speech are connected with `fixed`: <tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (25; 68% instances), <tt><a href="ga_cadhan-pos-PART.html">PART</a></tt>-<tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> (4; 11% instances), <tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="ga_cadhan-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_cadhan-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="ga_cadhan-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="ga_cadhan-pos-DET.html">DET</a></tt>-<tt><a href="ga_cadhan-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="ga_cadhan-pos-DET.html">DET</a></tt>-<tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> (1; 3% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt> (1; 3% instances).
+The following 11 pairs of parts of speech are connected with `fixed`: <tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (31; 65% instances), <tt><a href="ga_cadhan-pos-PART.html">PART</a></tt>-<tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> (4; 8% instances), <tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> (2; 4% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> (2; 4% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> (2; 4% instances), <tt><a href="ga_cadhan-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_cadhan-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="ga_cadhan-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="ga_cadhan-pos-DET.html">DET</a></tt>-<tt><a href="ga_cadhan-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="ga_cadhan-pos-DET.html">DET</a></tt>-<tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> (1; 2% instances), <tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

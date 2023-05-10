@@ -15,7 +15,7 @@ The 10 most frequent `INTJ` types:  <em>no, voi, hei, joo, ai, jumalauta, saatan
 
 The 10 most frequent ambiguous lemmas: <em>voi</em> (<tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> 40, <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> 10), <em>saatana</em> (<tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> 8, <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> 7), <em>moi</em> (<tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> 4, <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> 1), <em>jaa</em> (<tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> 1), <em>juu</em> (<tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> 1), <em>terve</em> (<tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> 12, <tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> 2), <em>aa</em> (<tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> 1), <em>mm</em> (<tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 2, <tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> 1), <em>piru</em> (<tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> 10, <tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> 1), <em>saakeli</em> (<tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>voi</em> (<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 301, <tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> 16, <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 7), <em>senkin</em> (<tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> 5, <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> 2), <em>terve</em> (<tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> 1), <em>Piru</em> (<tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> 1), <em>aa</em> (<tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> 1), <em>mm</em> (<tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 2, <tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> 1), <em>sait</em> (<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 1, <tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 1), <em>viis</em> (<tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> 2, <tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>voi</em> (<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 301, <tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> 16, <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 7), <em>senkin</em> (<tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> 5, <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> 2), <em>terve</em> (<tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> 1), <em>Piru</em> (<tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> 1), <em>aa</em> (<tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> 1), <em>mm</em> (<tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 2, <tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> 1), <em>sait</em> (<tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 2, <tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> 1), <em>viis</em> (<tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> 2, <tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> 1)
 
 
 * <em>voi</em>
@@ -38,16 +38,15 @@ The 10 most frequent ambiguous types:  <em>voi</em> (<tt><a href="fi_ftb-pos-AUX
   * <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 2: <em>tässä on tähän hyvin kaunis sitaatti jonka kehotan , kehotan , tuota kaikkia , lukemaan , muistaakseni juuri tässä , tässä , <b>mm</b> , käsittelee tuota no joka tapauksessa se oli siis tämän , se on seikka , jota siis tämä Kaplan siteeraa ja siinä sanotaan että .</em>
   * <tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> 1: <em>mä en tarkota nyt vaan et et tuo jonku leivän vaan tota ni et niinku tekis jotain <b>mm</b> jotai ihan kunnon safkaa .</em>
 * <em>sait</em>
-  * <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 1: <em>Mistä <b>sait</b> tietää ?</em>
+  * <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 2: <em>Onpa mukava , että <b>sait</b> taas viran .</em>
   * <tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> 1: <em>Suunnitelmia tehtiin toinen toisensa perään , suit <b>sait</b> .</em>
-  * <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 1: <em>Onpa mukava , että <b>sait</b> taas viran .</em>
 * <em>viis</em>
   * <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> 2: <em>Niin mä kysyisin tässä vielä Abdi Musselta joka olet Somaliasta tullut Suomeen <b>viis</b> vuotta sitten .</em>
   * <tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> 1: <em>Valittaminen , siitä <b>viis</b> , kunhan se ei luista yli äyräiden .</em>
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 2.050767).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 2.049043).
 
 The 1st highest number of forms (1) was observed with the lemma “aa”: <em>aa</em>.
 

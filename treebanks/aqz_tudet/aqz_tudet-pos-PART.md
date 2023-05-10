@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Akuntsu-TuDeT: POS Tags: `PART`
 
-There are 9 `PART` lemmas (3%), 10 `PART` types (2%) and 56 `PART` tokens (4%).
+There are 9 `PART` lemmas (2%), 10 `PART` types (2%) and 56 `PART` tokens (4%).
 Out of 13 observed tags, the rank of `PART` is: 6 in number of lemmas, 8 in number of types and 6 in number of tokens.
 
 The 10 most frequent `PART` lemmas: <em>te, kom, ekwa, ãka, a, mã, ne, pe, tea</em>
 
 The 10 most frequent `PART` types:  <em>te, kom, ekwa, ãka, a, mã, ana, ne, pe, tea</em>
 
-The 10 most frequent ambiguous lemmas: <em>te</em> (<tt><a href="aqz_tudet-pos-PART.html">PART</a></tt> 27, <tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt> 3), <em>ãka</em> (<tt><a href="aqz_tudet-pos-PART.html">PART</a></tt> 6, <tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt> 4), <em>a</em> (<tt><a href="aqz_tudet-pos-PART.html">PART</a></tt> 3, <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> 1), <em>mã</em> (<tt><a href="aqz_tudet-pos-PART.html">PART</a></tt> 2, <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> 1), <em>pe</em> (<tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="aqz_tudet-pos-ADP.html">ADP</a></tt> 1, <tt><a href="aqz_tudet-pos-PART.html">PART</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>te</em> (<tt><a href="aqz_tudet-pos-PART.html">PART</a></tt> 27, <tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt> 3), <em>ãka</em> (<tt><a href="aqz_tudet-pos-PART.html">PART</a></tt> 6, <tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt> 4), <em>a</em> (<tt><a href="aqz_tudet-pos-PART.html">PART</a></tt> 3, <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> 1), <em>mã</em> (<tt><a href="aqz_tudet-pos-PART.html">PART</a></tt> 2, <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> 1), <em>pe</em> (<tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="aqz_tudet-pos-ADP.html">ADP</a></tt> 1, <tt><a href="aqz_tudet-pos-PART.html">PART</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>te</em> (<tt><a href="aqz_tudet-pos-PART.html">PART</a></tt> 27, <tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt> 2), <em>ãka</em> (<tt><a href="aqz_tudet-pos-PART.html">PART</a></tt> 6, <tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt> 4), <em>a</em> (<tt><a href="aqz_tudet-pos-PART.html">PART</a></tt> 2, <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> 1), <em>mã</em> (<tt><a href="aqz_tudet-pos-PART.html">PART</a></tt> 2, <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> 1), <em>pe</em> (<tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="aqz_tudet-pos-ADP.html">ADP</a></tt> 1, <tt><a href="aqz_tudet-pos-PART.html">PART</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>te</em> (<tt><a href="aqz_tudet-pos-PART.html">PART</a></tt> 27, <tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt> 2), <em>ãka</em> (<tt><a href="aqz_tudet-pos-PART.html">PART</a></tt> 6, <tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt> 4), <em>a</em> (<tt><a href="aqz_tudet-pos-PART.html">PART</a></tt> 2, <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> 1), <em>mã</em> (<tt><a href="aqz_tudet-pos-PART.html">PART</a></tt> 2, <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> 1), <em>pe</em> (<tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="aqz_tudet-pos-ADP.html">ADP</a></tt> 1, <tt><a href="aqz_tudet-pos-PART.html">PART</a></tt> 1)
 
 
 * <em>te</em>
@@ -31,13 +31,13 @@ The 10 most frequent ambiguous types:  <em>te</em> (<tt><a href="aqz_tudet-pos-P
   * <tt><a href="aqz_tudet-pos-PART.html">PART</a></tt> 2: <em>eiat ata <b>mã</b> .</em>
   * <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> 1: <em>Ato kobore pe <b>mã</b> , ãka jõma ape akaratʃe , ãka eot pɨta pen , teten .</em>
 * <em>pe</em>
-  * <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> 5: <em>poga <b>pe</b> pi , ameko ikora tʃe .</em>
+  * <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> 6: <em>poga <b>pe</b> pi , ameko ikora tʃe .</em>
   * <tt><a href="aqz_tudet-pos-ADP.html">ADP</a></tt> 1: <em>Ato kobore <b>pe</b> mã , ãka jõma ape akaratʃe , ãka eot pɨta pen , teten .</em>
   * <tt><a href="aqz_tudet-pos-PART.html">PART</a></tt> 1: <em>kwamoa mãtʃero õjpe ko otʃeta õjpe ko <b>pe</b> matʃero .</em>
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.111111 (the average of all parts of speech is 1.420613).
+The form / lemma ratio of `PART` is 1.111111 (the average of all parts of speech is 1.418283).
 
 The 1st highest number of forms (2) was observed with the lemma “a”: <em>a, ana</em>.
 

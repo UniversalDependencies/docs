@@ -11,14 +11,14 @@ It occurs with 7 different values: `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`, `Vo
 
 25419 tokens (52%) have a non-empty value of `Case`.
 9121 types (79%) occur at least once with a non-empty value of `Case`.
-4360 lemmas (76%) occur at least once with a non-empty value of `Case`.
+4372 lemmas (76%) occur at least once with a non-empty value of `Case`.
 The feature is used with 9 part-of-speech tags: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (11121; 23% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (4239; 9% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (3467; 7% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (2088; 4% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (2024; 4% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (1595; 3% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (881; 2% instances), <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
 11121 <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7296; 66%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (5836; 52%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7296; 66%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (5835; 52%).
 
 `NOUN` tokens may have the following values of `Case`:
 
@@ -188,7 +188,7 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 * `Ins` (12; 1% of non-empty `Case`): <em>собраннымъ, видимою, даны, именова(н)но(м), нечемъ, преведе(н)ными, приношаемыми, расположе(н)ными, собранною, собранными</em>
 * `Loc` (14; 2% of non-empty `Case`): <em>рожде(н)номъ, воздѣланной, врученной, горꙗщей, дарова(н)ныхъ, замѣре(н)ныхъ, изнесе(н)ныхъ, имꙋщи(х), произведенной, рож(д)е(н)но(м)</em>
 * `Nom` (705; 80% of non-empty `Case`): <em>смерено, взято, принето, велѣно, велено, взят, дано, послано, написано, писано</em>
-* `EMPTY` (3262): <em>привез, велѣлъ, сказал, бьет, велет(ь), имати, есть, нет, платить, пожалуй</em>
+* `EMPTY` (3261): <em>привез, велѣлъ, сказал, бьет, велет(ь), имати, есть, нет, платить, пожалуй</em>
 
 <table>
   <tr><th>Paradigm <i>родити</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Loc</tt></th></tr>
@@ -208,7 +208,7 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 
 * `Acc` (1; 33% of non-empty `Case`): <em>бывшіꙗ</em>
 * `Dat` (2; 67% of non-empty `Case`): <em>сущу, сꙋщꙋ</em>
-* `EMPTY` (337): <em>бы, есть, б, было, были, будет, былъ, еси, есте, бысть</em>
+* `EMPTY` (338): <em>бы, есть, б, было, были, будет, былъ, еси, есте, бысть</em>
 
 <table>
   <tr><th>Paradigm <i>быти</i></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th></tr>
@@ -231,11 +231,11 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="orv_rnc-dep-amod.html">amod</a></tt>]--> ADJ</tt> (3292; 95%),
 <tt>NOUN --[<tt><a href="orv_rnc-dep-det.html">det</a></tt>]--> DET</tt> (1569; 96%),
-<tt>NOUN --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1237; 74%),
+<tt>NOUN --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1236; 74%),
 <tt>PROPN --[<tt><a href="orv_rnc-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (1041; 99%),
 <tt>NOUN --[<tt><a href="orv_rnc-dep-appos.html">appos</a></tt>]--> PROPN</tt> (579; 95%),
-<tt>NOUN --[<tt><a href="orv_rnc-dep-appos.html">appos</a></tt>]--> NOUN</tt> (297; 90%),
-<tt>VERB --[<tt><a href="orv_rnc-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (247; 65%),
+<tt>NOUN --[<tt><a href="orv_rnc-dep-appos.html">appos</a></tt>]--> NOUN</tt> (298; 90%),
+<tt>VERB --[<tt><a href="orv_rnc-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (248; 65%),
 <tt>PRON --[<tt><a href="orv_rnc-dep-appos.html">appos</a></tt>]--> NOUN</tt> (208; 84%),
 <tt>ADJ --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> ADJ</tt> (204; 97%),
 <tt>PROPN --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> PROPN</tt> (204; 77%).

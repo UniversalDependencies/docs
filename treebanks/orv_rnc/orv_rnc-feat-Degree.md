@@ -11,7 +11,7 @@ It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
 4861 tokens (10%) have a non-empty value of `Degree`.
 2556 types (22%) occur at least once with a non-empty value of `Degree`.
-1309 lemmas (23%) occur at least once with a non-empty value of `Degree`.
+1310 lemmas (23%) occur at least once with a non-empty value of `Degree`.
 The feature is used with 3 part-of-speech tags: <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (4066; 8% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (790; 2% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (5; 0% instances).
 
 ### `ADJ`
@@ -41,7 +41,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
   <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>лутчіе</em></td><td></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADJ`. 99% lemmas (1025) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADJ`. 99% lemmas (1026) occur only with one value of `Degree`.
 
 ### `ADV`
 

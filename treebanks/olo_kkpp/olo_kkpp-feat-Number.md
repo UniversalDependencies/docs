@@ -196,7 +196,7 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>VERB --[<tt><a href="olo_kkpp-dep-conj.html">conj</a></tt>]--> VERB</tt> (35; 73%),
 <tt>NOUN --[<tt><a href="olo_kkpp-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (28; 60%),
 <tt>NOUN --[<tt><a href="olo_kkpp-dep-conj.html">conj</a></tt>]--> NOUN</tt> (24; 83%),
-<tt>VERB --[<tt><a href="olo_kkpp-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (21; 66%),
+<tt>VERB --[<tt><a href="olo_kkpp-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (20; 65%),
 <tt>NOUN --[<tt><a href="olo_kkpp-dep-cop.html">cop</a></tt>]--> AUX</tt> (15; 83%),
 <tt>NOUN --[<tt><a href="olo_kkpp-dep-nmod-poss.html">nmod:poss</a></tt>]--> PROPN</tt> (15; 65%),
 <tt>VERB --[<tt><a href="olo_kkpp-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (13; 59%),

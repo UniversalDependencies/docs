@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Chinese-CFL: POS Tags: `SCONJ`
 
 There are 20 `SCONJ` lemmas (1%), 20 `SCONJ` types (1%) and 68 `SCONJ` tokens (1%).
-Out of 15 observed tags, the rank of `SCONJ` is: 11 in number of lemmas, 11 in number of types and 14 in number of tokens.
+Out of 15 observed tags, the rank of `SCONJ` is: 10 in number of lemmas, 10 in number of types and 14 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: 虽然、 因为、 来、 因、 如果、 虽、 一、 之所以、 但是、 不但
 
@@ -50,7 +50,7 @@ The 10 most frequent ambiguous types:  因为 (<tt><a href="zh_cfl-pos-SCONJ.htm
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.001198).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.009709).
 
 The 1st highest number of forms (1) was observed with the lemma “一”: 一.
 
@@ -65,15 +65,9 @@ The 3rd highest number of forms (1) was observed with the lemma “不光”: �
 
 `SCONJ` nodes are attached to their parents using 1 different relations: <tt><a href="zh_cfl-dep-mark.html">mark</a></tt> (68; 100% instances)
 
-Parents of `SCONJ` nodes belong to 4 different parts of speech: <tt><a href="zh_cfl-pos-VERB.html">VERB</a></tt> (44; 65% instances), <tt><a href="zh_cfl-pos-ADJ.html">ADJ</a></tt> (13; 19% instances), <tt><a href="zh_cfl-pos-NOUN.html">NOUN</a></tt> (8; 12% instances), <tt><a href="zh_cfl-pos-PRON.html">PRON</a></tt> (3; 4% instances)
+Parents of `SCONJ` nodes belong to 4 different parts of speech: <tt><a href="zh_cfl-pos-VERB.html">VERB</a></tt> (45; 66% instances), <tt><a href="zh_cfl-pos-ADJ.html">ADJ</a></tt> (12; 18% instances), <tt><a href="zh_cfl-pos-NOUN.html">NOUN</a></tt> (8; 12% instances), <tt><a href="zh_cfl-pos-PRON.html">PRON</a></tt> (3; 4% instances)
 
-67 (99%) `SCONJ` nodes are leaves.
+68 (100%) `SCONJ` nodes are leaves.
 
-1 (1%) `SCONJ` nodes have one child.
-
-The highest child degree of a `SCONJ` node is 1.
-
-Children of `SCONJ` nodes are attached using 1 different relations: <tt><a href="zh_cfl-dep-case.html">case</a></tt> (1; 100% instances)
-
-Children of `SCONJ` nodes belong to 1 different parts of speech: <tt><a href="zh_cfl-pos-ADP.html">ADP</a></tt> (1; 100% instances)
+The highest child degree of a `SCONJ` node is 0.
 

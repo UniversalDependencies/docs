@@ -23,5 +23,5 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (1; 100% of non-empty `NumType`): <em>vingt-et-unième</em>
-* `EMPTY` (1570): <em>tout, petit, tous, jeune, grande, vrai, autre, droit, même, premier</em>
+* `EMPTY` (1571): <em>tout, petit, tous, jeune, grande, vrai, autre, droit, même, premier</em>
 

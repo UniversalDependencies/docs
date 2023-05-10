@@ -23,14 +23,14 @@ The following 81 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 7	fgColor:white
 # visual-style 7 10 fixed	color:blue
 1	Não	não	ADV	ADV	_	4	advmod	_	_
-2	é	ser	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	cop	_	_
-3	um	um	DET	UM	Gender=Masc|Number=Sing	4	det	_	_
+2	é	ser	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	um	um	DET	UM	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	passeio	passeio	NOUN	CN	Gender=Masc|Number=Sing	0	root	_	_
 5	por_	por_	ADP	PREP	_	7	case	_	_
-6	a	a	DET	DA	Gender=Fem|Number=Sing	7	det	_	_
+6	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	Avenida	avenida	NOUN	PADR	Gender=Fem|Number=Sing	4	obl	_	_
 8	de_	de_	ADP	PREP	_	7	fixed	_	_
-9	a	a	DET	DA	Gender=Fem|Number=Sing	7	fixed	_	_
+9	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	fixed	_	_
 10	Liberdade	liberdade	PROPN	PNM	_	7	fixed	_	_
 11	.	.	PUNCT	PNT	_	4	punct	_	_
 
@@ -45,14 +45,14 @@ The following 81 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 8 9 fixed	color:blue
 1	Volta	volta	NOUN	CN	Gender=Fem|Number=Sing	0	root	_	_
 2	a_	a_	ADP	PREP	_	4	case	_	_
-3	o	o	DET	DA	Gender=Masc|Number=Sing	4	det	_	_
+3	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	mundo	mundo	NOUN	CN	Gender=Masc|Number=Sing	1	obl	_	_
 5	subaquático	subaquático	ADJ	ADJ	Gender=Masc|Number=Sing	4	amod	_	_
 6	de_	de_	ADP	PREP	_	8	case	_	_
-7	a	a	DET	DA	Gender=Fem|Number=Sing	8	det	_	_
+7	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	ilha	ilha	NOUN	CN	Gender=Fem|Number=Sing	4	obl	_	_
 9	de_	de_	ADP	PREP	_	8	fixed	_	_
-10	as	as	DET	DA	Gender=Fem|Number=Plur	8	fixed	_	_
+10	as	as	DET	DA	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	fixed	_	_
 11	Flores	flores	PROPN	PNM	_	8	dep	_	_
 
 ~~~
@@ -64,13 +64,13 @@ The following 81 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 fixed	color:blue
-1	Previa	prever	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp	0	root	_	_
-2	-se	-se	PRON	CL	Person=3	1	nsubj	_	_
-3	o	o	DET	DA	Gender=Masc|Number=Sing	4	det	_	_
+1	Previa	prever	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	-se	-se	PRON	CL	Person=3|PronType=Prs	1	nsubj	_	_
+3	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	lançamento	lançamento	NOUN	CN	Gender=Masc|Number=Sing	1	obj	_	_
 5	de	de	ADP	PREP	_	8	case	_	_
-6	14	14	NUM	DGT	_	8	nummod	_	_
-7	mil	mil	NUM	CARD	Number=Plur	6	fixed	_	_
+6	14	14	NUM	DGT	NumType=Card	8	nummod	_	_
+7	mil	mil	NUM	CARD	Number=Plur|NumType=Card	6	fixed	_	_
 8	foguetes	foguete	NOUN	CN	Gender=Masc|Number=Plur	4	obl	_	_
 9	.	.	PUNCT	PNT	_	1	punct	_	_
 

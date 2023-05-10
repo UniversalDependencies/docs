@@ -39,7 +39,7 @@ The following 10 pairs of parts of speech are connected with `obj`: <tt><a href=
 15	に	に	ADP	助詞-格助詞	_	14	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,に,に,に,ニ,,,ニ,ニ,に
 16	言っ	言う	VERB	動詞-一般-五段-ワア行	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|SpaceAfter=No|UnidicInfo=,言う,言っ,言う,イッ,,,イウ,イウ,言う
 17	た	た	AUX	助動詞-助動詞-タ	_	16	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,た,た,た,タ,,,タ,タ,た
-18	。	。	PUNCT	補助記号-句点	_	16	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=Yes|UnidicInfo=,。,。,。,,,,,,。
+18	。	。	PUNCT	補助記号-句点	_	16	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|UnidicInfo=,。,。,。,,,,,,。
 
 ~~~
 
@@ -66,7 +66,7 @@ The following 10 pairs of parts of speech are connected with `obj`: <tt><a href=
 14	と	と	ADP	助詞-格助詞	_	12	case	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|SpaceAfter=No|UnidicInfo=,と,と,と,ト,,,ト,ト,と
 15	予測し	予測する	VERB	動詞-一般-サ行変格	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|SpaceAfter=No|UnidicInfo=;,予測;為る,予測;し,予測;する,ヨソク;シ,;,;,ヨソク;スル,ヨソクスル,予測する
 16	ている	ている	AUX	助動詞-上一段-ア行	_	15	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=;,て;居る,て;いる,て;いる,テ;イル,;,;,テ;イル,テイル,ている
-17	。	。	PUNCT	補助記号-句点	_	15	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=Yes|UnidicInfo=,。,。,。,,,,,,。
+17	。	。	PUNCT	補助記号-句点	_	15	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|UnidicInfo=,。,。,。,,,,,,。
 
 ~~~
 
@@ -86,7 +86,7 @@ The following 10 pairs of parts of speech are connected with `obj`: <tt><a href=
 7	ことができる	ことができる	AUX	助動詞-上一段-カ行	_	6	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=;;,事;が;出来る,こと;が;できる,こと;が;できる,コト;ガ;デキル,;;,;;,コト;ガ;デキル,コトガデキル,ことができる
 8	わけ	訳	NOUN	名詞-普通名詞-一般	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|SpaceAfter=No|UnidicInfo=,訳,わけ,わけ,ワケ,,,ワケ,ワケ,訳
 9	ではない	ではない	AUX	助動詞-形容詞	_	8	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=;;,だ;は;無い,で;は;ない,だ;は;ない,デ;ワ;ナイ,;;,;;,ダ;ハ;ナイ,デハナイ,ではない
-10	。	。	PUNCT	補助記号-句点	_	8	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=Yes|UnidicInfo=,。,。,。,,,,,,。
+10	。	。	PUNCT	補助記号-句点	_	8	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|UnidicInfo=,。,。,。,,,,,,。
 
 ~~~
 

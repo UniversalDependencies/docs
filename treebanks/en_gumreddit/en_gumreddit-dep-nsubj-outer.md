@@ -52,7 +52,7 @@ The following 6 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 27	_	_	ADJ	JJ	Degree=Pos	28	amod	28:amod	Entity=(40-abstract-new-cf9-2-sgl|Lem=_|Len=3
 28	_	_	NOUN	NNS	Number=Plur	25	conj	23:obj|25:conj	Entity=40)|Lem=asset|Len=6|SpaceAfter=No
 29	_	_	PUNCT	,	_	30	punct	30:punct	Lem=_|Len=1
-30	_	_	NOUN	FW	Abbr=Yes	25	conj	23:obj|25:conj	Lem=_|Len=4
+30	_	_	NOUN	FW	Abbr=Yes|Number=Plur	25	conj	23:obj|25:conj	Lem=_|Len=4
 
 ~~~
 
@@ -63,20 +63,20 @@ The following 6 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 1 nsubj:outer	color:blue
-1	_	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj:outer	5:nsubj:outer	Discourse=adversative-concession:81->83:1|Entity=(84-abstract-giv:act-cf1*-1-coref)|Lem=*LOWER*|Len=2
+1	_	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj:outer	5:nsubj:outer	Discourse=adversative-concession:81->83:1|Entity=(83-abstract-giv:act-cf1*-1-coref)|Lem=*LOWER*|Len=2
 2	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	5:cop	Lem=be|Len=2
 3	_	_	PART	RB	Polarity=Neg	5	advmod	5:advmod	Lem=_|Len=3
 4	_	_	PART	TO	_	5	mark	5:mark	Lem=_|Len=2
 5	_	_	VERB	VB	VerbForm=Inf	0	root	0:root	Lem=_|Len=5
 6	_	_	SCONJ	IN	_	8	mark	8:mark	Lem=_|Len=4
-7	_	_	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	nsubj	8:nsubj	Entity=(85-animal-giv:act-cf2-1-ana)|Lem=_|Len=4
+7	_	_	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	nsubj	8:nsubj	Entity=(84-animal-giv:act-cf2-1-ana)|Lem=_|Len=4
 8	_	_	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	ccomp	5:ccomp	Lem=do|Len=3|SpaceAfter=No
 9	_	_	PUNCT	,	_	11	punct	11:punct	Lem=_|Len=1
 10	_	_	ADV	RB	_	11	advmod	11:advmod	Discourse=attribution-positive:82->83:0|Lem=_|Len=4
 11	_	_	VERB	VBG	VerbForm=Ger	5	parataxis	5:parataxis	Lem=state|Len=7
 12	_	_	SCONJ	IN	_	15	mark	15:mark	Discourse=adversative-contrast_m:83->1:10|Lem=_|Len=4
-13	_	_	DET	DT	Definite=Def|PronType=Art	14	det	14:det	Entity=(86-abstract-new-cf3-2-sgl|Lem=_|Len=3
-14	_	_	NOUN	NN	Number=Sing	15	nsubj	15:nsubj	Entity=86)|Lem=_|Len=6
+13	_	_	DET	DT	Definite=Def|PronType=Art	14	det	14:det	Entity=(85-abstract-new-cf3-2-sgl|Lem=_|Len=3
+14	_	_	NOUN	NN	Number=Sing	15	nsubj	15:nsubj	Entity=85)|Lem=_|Len=6
 15	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	ccomp	11:ccomp	Lem=be|Len=2
 16	_	_	ADV	RB	PronType=Dem	15	advmod	15:advmod	Lem=_|Len=5|SpaceAfter=No
 17	_	_	PUNCT	.	_	5	punct	5:punct	Lem=_|Len=1

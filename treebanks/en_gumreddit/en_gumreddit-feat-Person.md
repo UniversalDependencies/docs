@@ -16,16 +16,16 @@ The feature is used with 3 part-of-speech tags: <tt><a href="en_gumreddit-pos-PR
 
 ### `PRON`
 
-1494 <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> tokens (77% of all `PRON` tokens) have a non-empty value of `Person`.
+1494 <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> tokens (76% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="en_gumreddit-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1494; 100%), <tt><a href="en_gumreddit-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1222; 82%), <tt><a href="en_gumreddit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1198; 80%), <tt><a href="en_gumreddit-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1070; 72%), <tt><a href="en_gumreddit-feat-Case.html">Case</a></tt><tt>=Nom</tt> (932; 62%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="en_gumreddit-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1493; 100%), <tt><a href="en_gumreddit-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1222; 82%), <tt><a href="en_gumreddit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1198; 80%), <tt><a href="en_gumreddit-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1070; 72%), <tt><a href="en_gumreddit-feat-Case.html">Case</a></tt><tt>=Nom</tt> (932; 62%).
 
 `PRON` tokens may have the following values of `Person`:
 
 * `1` (608; 41% of non-empty `Person`): <em>_</em>
 * `2` (285; 19% of non-empty `Person`): <em>_</em>
 * `3` (601; 40% of non-empty `Person`): <em>_</em>
-* `EMPTY` (437): <em>_</em>
+* `EMPTY` (466): <em>_</em>
 
 ### `VERB`
 
@@ -35,9 +35,9 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 `VERB` tokens may have the following values of `Person`:
 
-* `1` (224; 25% of non-empty `Person`): <em>_</em>
+* `1` (223; 25% of non-empty `Person`): <em>_</em>
 * `2` (132; 15% of non-empty `Person`): <em>_</em>
-* `3` (536; 60% of non-empty `Person`): <em>_</em>
+* `3` (537; 60% of non-empty `Person`): <em>_</em>
 * `EMPTY` (1190): <em>_</em>
 
 ### `AUX`

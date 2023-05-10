@@ -46,7 +46,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Card` (89; 100% of non-empty `NumType`): <em>2., 1., 3., 5., 8., 9., 11., 4., 6., 10.</em>
-* `EMPTY` (4227): <em>hv., hæstv., virðulegi, hægt, sammála, rétt, gott, fyrsta, miklu, sama</em>
+* `EMPTY` (4228): <em>hv., hæstv., virðulegi, hægt, sammála, rétt, gott, fyrsta, miklu, sama</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (31) occur only with one value of `NumType`.
 
@@ -59,7 +59,7 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 `DET` tokens may have the following values of `NumType`:
 
 * `Card` (10; 100% of non-empty `NumType`): <em>einn, eitt, ein, einu</em>
-* `EMPTY` (3692): <em>þetta, það, þessu, þeim, allt, eitthvað, þessum, þessi, þá, ekkert</em>
+* `EMPTY` (3693): <em>þetta, það, þessu, þeim, allt, eitthvað, þessum, þessi, þá, ekkert</em>
 
 ### `NOUN`
 
@@ -87,6 +87,7 @@ The 10 most frequent relations where parent and child node agree in `NumType`:
 <tt>NUM --[<tt><a href="is_modern-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (56; 93%),
 <tt>NUM --[<tt><a href="is_modern-dep-conj.html">conj</a></tt>]--> NUM</tt> (17; 94%),
 <tt>NUM --[<tt><a href="is_modern-dep-obl.html">obl</a></tt>]--> NUM</tt> (5; 100%),
+<tt>ADJ --[<tt><a href="is_modern-dep-obl.html">obl</a></tt>]--> NUM</tt> (1; 100%),
 <tt>NUM --[<tt><a href="is_modern-dep-amod.html">amod</a></tt>]--> NUM</tt> (1; 100%),
 <tt>NUM --[<tt><a href="is_modern-dep-appos.html">appos</a></tt>]--> NUM</tt> (1; 100%).
 

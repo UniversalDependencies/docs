@@ -5,4 +5,4 @@ shortdef: 'noun'
 ---
 
 The English `NOUN` corresponds to all cases of PTB NN and NNS, except for %, which we retag as SYM.
-<!-- Interlanguage links updated Po lis 14 15:34:33 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:25 CEST -->

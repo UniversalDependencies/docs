@@ -48,7 +48,7 @@ The following 4 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 1	Зьлева	зьлева	ADV	RB	Degree=Pos	0	root	0:root	_
 2	—	—	PUNCT	PUNCT	_	1	punct	1:punct	_
 3	Фара	фара	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	nsubj	1:nsubj	_
-4	Вітаўта	Вітаўт	PROPN	NNP	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	3	nmod	3:nmod:gen	_
+4	Вітаўта	Вітаўт	PROPN	NNP	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	3	nmod	3:nmod:gen	_
 5	адрэстаўраваная	адрэстаўраваны	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	acl	3:acl	_
 6	ў	у	ADP	IN	_	8	case	8:case	_
 7	нэагатычным	нэагатычны	ADJ	JJL	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	8	amod	8:amod	_
@@ -82,13 +82,13 @@ The following 4 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 11	міністар	міністар	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	nsubj:pass	6:nsubj:pass	_
 12	унутраных	унутраны	ADJ	JJL	Case=Gen|Degree=Pos|Number=Plur	13	amod	13:amod	_
 13	справаў	справа	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	11	nmod	11:nmod:gen	_
-14	Беларусі	Беларусь	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	13:nmod:gen	SpaceAfter=No
+14	Беларусі	Беларусь	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	13	nmod	13:nmod:gen	SpaceAfter=No
 15	,	,	PUNCT	PUNCT	_	16	punct	16:punct	_
 16	дзяяч	дзяяч	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	conj	6:nsubj:pass|11:conj	_
 17	апазыцыі	апазыцыя	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	nmod	16:nmod:gen	_
 18	генэрал	генэрал	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	appos	11:appos	_
-19	Юры	Юры	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	18	appos	18:appos	_
-20	Захаранка	Захаранка	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	19	flat:name	19:flat:name	SpaceAfter=No
+19	Юры	Юры	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	18	appos	18:appos	_
+20	Захаранка	Захаранка	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	19	flat:name	19:flat:name	SpaceAfter=No
 21	…	…	PUNCT	PUNCT	_	6	punct	6:punct	_
 
 ~~~

@@ -42,4 +42,4 @@ on nouns, and we thus have `Person[psor]` together with `Number[psor]`.
 * [mdf] _<b>пиненза</b>_ “his/her/its dogs”
 * [mdf] _<b>пинесна</b>_ “their dog/dogs”
 
-<!-- Interlanguage links updated Po lis 14 15:34:54 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:45 CEST -->

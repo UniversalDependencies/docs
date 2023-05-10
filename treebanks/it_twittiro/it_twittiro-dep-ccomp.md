@@ -30,7 +30,7 @@ The following 14 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 6	ucciso	uccidere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	ccomp	_	_
 7	Regeni	Regeni	PROPN	SP	_	6	obj	_	_
 8	oggi	oggi	ADV	B	_	3	advmod	_	SpaceAfter=No
-9	?	?	PUNCT	FS	_	3	punct	_	SpaceAfter=\n
+9	?	?	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
 
 ~~~
 

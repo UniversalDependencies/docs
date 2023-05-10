@@ -12,19 +12,19 @@ It occurs with 7 different values: `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`, `Vo
 10488 tokens (56%) have a non-empty value of `Case`.
 5471 types (72%) occur at least once with a non-empty value of `Case`.
 3573 lemmas (67%) occur at least once with a non-empty value of `Case`.
-The feature is used with 7 part-of-speech tags: <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (4315; 23% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (2011; 11% instances), <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> (1833; 10% instances), <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> (877; 5% instances), <tt><a href="cs_pud-pos-DET.html">DET</a></tt> (738; 4% instances), <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> (574; 3% instances), <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> (140; 1% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (4316; 23% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (2010; 11% instances), <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> (1833; 10% instances), <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> (877; 5% instances), <tt><a href="cs_pud-pos-DET.html">DET</a></tt> (738; 4% instances), <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> (574; 3% instances), <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> (140; 1% instances).
 
 ### `NOUN`
 
-4315 <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> tokens (96% of all `NOUN` tokens) have a non-empty value of `Case`.
+4316 <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> tokens (96% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (4307; 100%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3083; 71%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2407; 56%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (4308; 100%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3083; 71%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2408; 56%).
 
 `NOUN` tokens may have the following values of `Case`:
 
 * `Acc` (907; 21% of non-empty `Case`): <em>místo, den, rok, část, roky, většinu, dluhopisy, lidi, možnost, měsíc</em>
 * `Dat` (161; 4% of non-empty `Case`): <em>dispozici, podnebí, říši, dívkám, konci, obchodu, obsahu, radě, státům, většině</em>
-* `Gen` (1246; 29% of non-empty `Case`): <em>roku, let, století, války, lidí, dolarů, společnosti, doby, eur, liber</em>
+* `Gen` (1247; 29% of non-empty `Case`): <em>roku, let, století, války, lidí, dolarů, společnosti, doby, eur, liber</em>
 * `Ins` (366; 8% of non-empty `Case`): <em>l, lety, rokem, autorem, cílem, nedostatkem, nemovitostmi, prezidentem, soudem, vedením</em>
 * `Loc` (623; 14% of non-empty `Case`): <em>roce, letech, době, případě, důsledku, oblasti, světě, městě, období, polovině</em>
 * `Nom` (1011; 23% of non-empty `Case`): <em>film, lidé, společnost, vláda, moře, policie, prezident, stát, systém, člověk</em>
@@ -39,16 +39,16 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `ADJ`
 
-2011 <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> tokens (89% of all `ADJ` tokens) have a non-empty value of `Case`.
+2010 <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> tokens (89% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1842; 92%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1802; 90%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1802; 90%), <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1749; 87%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1347; 67%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1198; 60%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1841; 92%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1800; 90%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1800; 90%), <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1749; 87%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1347; 67%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1197; 60%).
 
 `ADJ` tokens may have the following values of `Case`:
 
 * `Acc` (395; 20% of non-empty `Case`): <em>další, první, vlastní, jiné, novou, nové, hlavní, dlouhé, druhou, nový</em>
-* `Dat` (86; 4% of non-empty `Case`): <em>Osmanské, Spojeným, nížinné, obecné, větší, Alexandrově, Druhé, Mrtvým, Parmské, Starší</em>
-* `Gen` (519; 26% of non-empty `Case`): <em>jiných, nových, prvního, Spojených, amerického, dalších, druhé, nové, první, různých</em>
-* `Ins` (168; 8% of non-empty `Case`): <em>americkou, dalším, velkou, dalšími, hlavním, hongkongským, nejvyšším, největším, politickou, první</em>
+* `Dat` (87; 4% of non-empty `Case`): <em>Osmanské, Spojeným, nížinné, obecné, větší, Alexandrově, Druhé, Mrtvým, Parmské, Starší</em>
+* `Gen` (518; 26% of non-empty `Case`): <em>jiných, nových, prvního, Spojených, amerického, dalších, druhé, nové, první, různých</em>
+* `Ins` (167; 8% of non-empty `Case`): <em>americkou, dalším, velkou, dalšími, hlavním, hongkongským, nejvyšším, největším, politickou, první</em>
 * `Loc` (226; 11% of non-empty `Case`): <em>druhé, posledních, Velké, jižní, první, Nové, Severní, Spojených, bronzové, celém</em>
 * `Nom` (617; 31% of non-empty `Case`): <em>další, první, velká, severní, poslední, jasné, jižní, možné, nové, Průmyslová</em>
 * `EMPTY` (259): <em>The, schopen, řečeno, National, propuštěn, rád, El, New, Saint, San</em>
@@ -196,7 +196,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="cs_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1699; 99%),
+<tt>NOUN --[<tt><a href="cs_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1698; 99%),
 <tt>NOUN --[<tt><a href="cs_pud-dep-case.html">case</a></tt>]--> ADP</tt> (1351; 95%),
 <tt>NOUN --[<tt><a href="cs_pud-dep-det.html">det</a></tt>]--> DET</tt> (315; 77%),
 <tt>NOUN --[<tt><a href="cs_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (247; 97%),

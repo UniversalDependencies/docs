@@ -26,4 +26,4 @@ _pronominal_ because it originated as a combination of a nominal form and a pers
 
 * _<b>чистъ</b>_ “clear, clean”, long equivalent: _чистꙑ_
 
-<!-- Interlanguage links updated Po lis 14 15:35:00 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:50 CEST -->

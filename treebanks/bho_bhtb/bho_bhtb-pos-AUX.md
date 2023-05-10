@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  बा (<tt><a href="bho_bhtb-pos-AUX.htm
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 3.650000 (the average of all parts of speech is 1.035097).
+The form / lemma ratio of `AUX` is 3.650000 (the average of all parts of speech is 1.035079).
 
 The 1st highest number of forms (10) was observed with the lemma “जा”: गइल, जा, जाइब, जाई, जाउ, जाए, जात, जाता, जाला, जाव.
 
@@ -72,21 +72,21 @@ Examples: जा, बा, गइल, हो, बाड़न, दिहलसि
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 11 different relations: <tt><a href="bho_bhtb-dep-aux.html">aux</a></tt> (301; 85% instances), <tt><a href="bho_bhtb-dep-aux-pass.html">aux:pass</a></tt> (11; 3% instances), <tt><a href="bho_bhtb-dep-cop.html">cop</a></tt> (9; 3% instances), <tt><a href="bho_bhtb-dep-root.html">root</a></tt> (9; 3% instances), <tt><a href="bho_bhtb-dep-nmod.html">nmod</a></tt> (8; 2% instances), <tt><a href="bho_bhtb-dep-nsubj.html">nsubj</a></tt> (6; 2% instances), <tt><a href="bho_bhtb-dep-acl.html">acl</a></tt> (5; 1% instances), <tt><a href="bho_bhtb-dep-amod.html">amod</a></tt> (2; 1% instances), <tt><a href="bho_bhtb-dep-obj.html">obj</a></tt> (2; 1% instances), <tt><a href="bho_bhtb-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="bho_bhtb-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
+`AUX` nodes are attached to their parents using 11 different relations: <tt><a href="bho_bhtb-dep-aux.html">aux</a></tt> (302; 85% instances), <tt><a href="bho_bhtb-dep-aux-pass.html">aux:pass</a></tt> (11; 3% instances), <tt><a href="bho_bhtb-dep-cop.html">cop</a></tt> (9; 3% instances), <tt><a href="bho_bhtb-dep-root.html">root</a></tt> (9; 3% instances), <tt><a href="bho_bhtb-dep-nmod.html">nmod</a></tt> (8; 2% instances), <tt><a href="bho_bhtb-dep-acl.html">acl</a></tt> (5; 1% instances), <tt><a href="bho_bhtb-dep-nsubj.html">nsubj</a></tt> (5; 1% instances), <tt><a href="bho_bhtb-dep-amod.html">amod</a></tt> (2; 1% instances), <tt><a href="bho_bhtb-dep-obj.html">obj</a></tt> (2; 1% instances), <tt><a href="bho_bhtb-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="bho_bhtb-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
 
 Parents of `AUX` nodes belong to 9 different parts of speech: <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> (310; 87% instances), <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (24; 7% instances),  (9; 3% instances), <tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> (7; 2% instances), <tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
 
-325 (92%) `AUX` nodes are leaves.
+327 (92%) `AUX` nodes are leaves.
 
-6 (2%) `AUX` nodes have one child.
+5 (1%) `AUX` nodes have one child.
 
-5 (1%) `AUX` nodes have two children.
+4 (1%) `AUX` nodes have two children.
 
 19 (5%) `AUX` nodes have three or more children.
 
 The highest child degree of a `AUX` node is 6.
 
-Children of `AUX` nodes are attached using 16 different relations: <tt><a href="bho_bhtb-dep-compound.html">compound</a></tt> (35; 37% instances), <tt><a href="bho_bhtb-dep-punct.html">punct</a></tt> (16; 17% instances), <tt><a href="bho_bhtb-dep-nmod.html">nmod</a></tt> (12; 13% instances), <tt><a href="bho_bhtb-dep-obl.html">obl</a></tt> (8; 8% instances), <tt><a href="bho_bhtb-dep-obj.html">obj</a></tt> (5; 5% instances), <tt><a href="bho_bhtb-dep-mark.html">mark</a></tt> (4; 4% instances), <tt><a href="bho_bhtb-dep-nsubj.html">nsubj</a></tt> (4; 4% instances), <tt><a href="bho_bhtb-dep-conj.html">conj</a></tt> (3; 3% instances), <tt><a href="bho_bhtb-dep-advcl.html">advcl</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-dep-advmod.html">advmod</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-dep-aux.html">aux</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-dep-case.html">case</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-dep-ccomp.html">ccomp</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-dep-fixed.html">fixed</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-dep-goeswith.html">goeswith</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-dep-xcomp.html">xcomp</a></tt> (1; 1% instances)
+Children of `AUX` nodes are attached using 15 different relations: <tt><a href="bho_bhtb-dep-compound.html">compound</a></tt> (33; 36% instances), <tt><a href="bho_bhtb-dep-punct.html">punct</a></tt> (16; 17% instances), <tt><a href="bho_bhtb-dep-nmod.html">nmod</a></tt> (12; 13% instances), <tt><a href="bho_bhtb-dep-obl.html">obl</a></tt> (8; 9% instances), <tt><a href="bho_bhtb-dep-obj.html">obj</a></tt> (5; 5% instances), <tt><a href="bho_bhtb-dep-mark.html">mark</a></tt> (4; 4% instances), <tt><a href="bho_bhtb-dep-nsubj.html">nsubj</a></tt> (4; 4% instances), <tt><a href="bho_bhtb-dep-conj.html">conj</a></tt> (3; 3% instances), <tt><a href="bho_bhtb-dep-advcl.html">advcl</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-dep-advmod.html">advmod</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-dep-aux.html">aux</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-dep-case.html">case</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-dep-ccomp.html">ccomp</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-dep-fixed.html">fixed</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-dep-xcomp.html">xcomp</a></tt> (1; 1% instances)
 
-Children of `AUX` nodes belong to 11 different parts of speech: <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (26; 27% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> (24; 25% instances), <tt><a href="bho_bhtb-pos-PUNCT.html">PUNCT</a></tt> (16; 17% instances), <tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> (6; 6% instances), <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt> (6; 6% instances), <tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt> (5; 5% instances), <tt><a href="bho_bhtb-pos-SCONJ.html">SCONJ</a></tt> (5; 5% instances), <tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt> (3; 3% instances), <tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (2; 2% instances), <tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances)
+Children of `AUX` nodes belong to 11 different parts of speech: <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (26; 28% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> (23; 25% instances), <tt><a href="bho_bhtb-pos-PUNCT.html">PUNCT</a></tt> (16; 17% instances), <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt> (6; 7% instances), <tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> (5; 5% instances), <tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt> (5; 5% instances), <tt><a href="bho_bhtb-pos-SCONJ.html">SCONJ</a></tt> (5; 5% instances), <tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt> (3; 3% instances), <tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (1; 1% instances)
 

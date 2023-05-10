@@ -99,11 +99,11 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> VERB</tt> (705; 77%),
+<tt>VERB --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> VERB</tt> (704; 77%),
 <tt>VERB --[<tt><a href="la_udante-dep-ccomp-reported.html">ccomp:reported</a></tt>]--> VERB</tt> (44; 52%),
-<tt>VERB --[<tt><a href="la_udante-dep-conj-expl.html">conj:expl</a></tt>]--> VERB</tt> (23; 79%),
-<tt>VERB --[<tt><a href="la_udante-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (16; 64%),
-<tt>VERB --[<tt><a href="la_udante-dep-cop-outer.html">cop:outer</a></tt>]--> AUX</tt> (8; 67%),
+<tt>VERB --[<tt><a href="la_udante-dep-conj-expl.html">conj:expl</a></tt>]--> VERB</tt> (25; 81%),
+<tt>VERB --[<tt><a href="la_udante-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (23; 62%),
+<tt>VERB --[<tt><a href="la_udante-dep-cop-outer.html">cop:outer</a></tt>]--> AUX</tt> (8; 62%),
 <tt>VERB --[<tt><a href="la_udante-dep-parataxis-reporting.html">parataxis:reporting</a></tt>]--> VERB</tt> (5; 63%),
 <tt>AUX --[<tt><a href="la_udante-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (2; 67%),
 <tt>AUX --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 100%),

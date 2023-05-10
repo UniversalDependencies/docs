@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `nsubj`: <tt><a href="olo_kkpp-dep-nsubj-cop.html">nsubj:cop</a></tt>.
 
-119 nodes (7%) are attached to their parents as `nsubj`.
+118 nodes (7%) are attached to their parents as `nsubj`.
 
-91 instances of `nsubj` (76%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.85714285714286.
+90 instances of `nsubj` (76%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.86440677966102.
 
-The following 4 pairs of parts of speech are connected with `nsubj`: <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt> (77; 65% instances), <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="olo_kkpp-pos-PRON.html">PRON</a></tt> (32; 27% instances), <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="olo_kkpp-pos-PROPN.html">PROPN</a></tt> (9; 8% instances), <tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 4 pairs of parts of speech are connected with `nsubj`: <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt> (77; 65% instances), <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="olo_kkpp-pos-PRON.html">PRON</a></tt> (31; 26% instances), <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="olo_kkpp-pos-PROPN.html">PROPN</a></tt> (9; 8% instances), <tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

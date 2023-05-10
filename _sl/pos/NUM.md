@@ -26,4 +26,4 @@ Other word types expressing a number or a relation to a number in Slovenian are 
 
 The following numerals are converted to `NUM`: numerals with Form=digit; numerals with Form=roman; numerals with Form=letter and Type=cardinal; numeral with Form=letter, Type=pronominal and lemma _en_ or _eden_; and numerals with Form=letter, Type=special and lemma not ending in _-en_.
 
-<!-- Interlanguage links updated Po lis 14 15:34:34 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:26 CEST -->

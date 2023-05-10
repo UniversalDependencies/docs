@@ -43,7 +43,7 @@ The following 11 pairs of parts of speech are connected with `det`: <tt><a href=
 2	eri	_	AUX	BEPI	Mood=Ind|Tense=Pres	1	cop	_	_
 3	hin	_	DET	D-N	Case=Nom	4	det	_	_
 4	góði	_	ADJ	ADJ-N	Case=Nom|Degree=Pos	1	xcomp	_	_
-5	hirðin	_	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	4	conj	_	SpaceAfter=No
+5	hirðin	_	NOUN	N-N	Case=Nom|Definite=Def|Number=Sing	4	conj	_	SpaceAfter=No
 6	.	.	PUNCT	.	_	5	punct	_	_
 
 ~~~

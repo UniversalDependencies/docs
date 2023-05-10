@@ -66,9 +66,9 @@ The 2nd highest number of forms (6) was observed with the lemma “der”: <em>d
 
 The 3rd highest number of forms (5) was observed with the lemma “dies”: <em>diese, diesem, diesen, dieser, dieses</em>.
 
-`DET` occurs with 8 features: <tt><a href="qtd_sagt-feat-Definite.html">Definite</a></tt> (1492; 86% instances), <tt><a href="qtd_sagt-feat-PronType.html">PronType</a></tt> (1118; 64% instances), <tt><a href="qtd_sagt-feat-Case.html">Case</a></tt> (1117; 64% instances), <tt><a href="qtd_sagt-feat-Number.html">Number</a></tt> (1117; 64% instances), <tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt> (1116; 64% instances), <tt><a href="qtd_sagt-feat-Polarity.html">Polarity</a></tt> (39; 2% instances), <tt><a href="qtd_sagt-feat-Typo.html">Typo</a></tt> (13; 1% instances), <tt><a href="qtd_sagt-feat-Foreign.html">Foreign</a></tt> (5; 0% instances)
+`DET` occurs with 7 features: <tt><a href="qtd_sagt-feat-Definite.html">Definite</a></tt> (1492; 86% instances), <tt><a href="qtd_sagt-feat-PronType.html">PronType</a></tt> (1118; 64% instances), <tt><a href="qtd_sagt-feat-Case.html">Case</a></tt> (1117; 64% instances), <tt><a href="qtd_sagt-feat-Number.html">Number</a></tt> (1117; 64% instances), <tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt> (1116; 64% instances), <tt><a href="qtd_sagt-feat-Typo.html">Typo</a></tt> (13; 1% instances), <tt><a href="qtd_sagt-feat-Foreign.html">Foreign</a></tt> (5; 0% instances)
 
-`DET` occurs with 18 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Definite=Def`, `Definite=Ind`, `Foreign=Yes`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `Polarity=Neg`, `PronType=Art`, `PronType=Dem`, `PronType=Ind`, `PronType=Neg`, `Typo=Yes`
+`DET` occurs with 17 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Definite=Def`, `Definite=Ind`, `Foreign=Yes`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `PronType=Art`, `PronType=Dem`, `PronType=Ind`, `PronType=Neg`, `Typo=Yes`
 
 `DET` occurs with 81 feature combinations.
 The most frequent feature combination is `Definite=Ind` (275 tokens).

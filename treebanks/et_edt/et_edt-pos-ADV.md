@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Estonian-EDT: POS Tags: `ADV`
 
-There are 2319 `ADV` lemmas (5%), 2332 `ADV` types (3%) and 42047 `ADV` tokens (10%).
+There are 2319 `ADV` lemmas (5%), 2333 `ADV` types (3%) and 42052 `ADV` tokens (10%).
 Out of 16 observed tags, the rank of `ADV` is: 5 in number of lemmas, 5 in number of types and 4 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: <em>ka, siis, nii, kas, juba, välja, aga, veel, väga, mitte</em>
@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>nii</em> (<tt><a href="et_edt-pos-ADV
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.005606 (the average of all parts of speech is 1.914326).
+The form / lemma ratio of `ADV` is 1.006037 (the average of all parts of speech is 1.914345).
 
 The 1st highest number of forms (4) was observed with the lemma “välja”: <em>väl-ja, välja, väljagi, välla</em>.
 
@@ -60,22 +60,22 @@ The 2nd highest number of forms (3) was observed with the lemma “väga”: <em
 
 The 3rd highest number of forms (2) was observed with the lemma “ajutiselt”: <em>ajutiselt, ajutiseltki</em>.
 
-`ADV` occurs with 9 features: <tt><a href="et_edt-feat-Polarity.html">Polarity</a></tt> (612; 1% instances), <tt><a href="et_edt-feat-Abbr.html">Abbr</a></tt> (393; 1% instances), <tt><a href="et_edt-feat-Hyph.html">Hyph</a></tt> (7; 0% instances), <tt><a href="et_edt-feat-Foreign.html">Foreign</a></tt> (2; 0% instances), <tt><a href="et_edt-feat-PronType.html">PronType</a></tt> (2; 0% instances), <tt><a href="et_edt-feat-Typo.html">Typo</a></tt> (2; 0% instances), <tt><a href="et_edt-feat-VerbForm.html">VerbForm</a></tt> (2; 0% instances), <tt><a href="et_edt-feat-Poss.html">Poss</a></tt> (1; 0% instances), <tt><a href="et_edt-feat-Voice.html">Voice</a></tt> (1; 0% instances)
+`ADV` occurs with 7 features: <tt><a href="et_edt-feat-Polarity.html">Polarity</a></tt> (612; 1% instances), <tt><a href="et_edt-feat-Abbr.html">Abbr</a></tt> (401; 1% instances), <tt><a href="et_edt-feat-Hyph.html">Hyph</a></tt> (7; 0% instances), <tt><a href="et_edt-feat-Foreign.html">Foreign</a></tt> (2; 0% instances), <tt><a href="et_edt-feat-PronType.html">PronType</a></tt> (2; 0% instances), <tt><a href="et_edt-feat-Typo.html">Typo</a></tt> (2; 0% instances), <tt><a href="et_edt-feat-Poss.html">Poss</a></tt> (1; 0% instances)
 
-`ADV` occurs with 10 feature-value pairs: `Abbr=Yes`, `Foreign=Yes`, `Hyph=Yes`, `Polarity=Neg`, `Poss=Yes`, `PronType=Prs`, `PronType=Rel`, `Typo=Yes`, `VerbForm=Part`, `Voice=Act`
+`ADV` occurs with 8 feature-value pairs: `Abbr=Yes`, `Foreign=Yes`, `Hyph=Yes`, `Polarity=Neg`, `Poss=Yes`, `PronType=Prs`, `PronType=Rel`, `Typo=Yes`
 
-`ADV` occurs with 11 feature combinations.
-The most frequent feature combination is `_` (41028 tokens).
+`ADV` occurs with 9 feature combinations.
+The most frequent feature combination is `_` (41027 tokens).
 Examples: <em>ka, siis, nii, kas, juba, välja, aga, veel, väga, kus</em>
 
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 28 different relations: <tt><a href="et_edt-dep-advmod.html">advmod</a></tt> (33317; 79% instances), <tt><a href="et_edt-dep-compound-prt.html">compound:prt</a></tt> (4388; 10% instances), <tt><a href="et_edt-dep-mark.html">mark</a></tt> (1516; 4% instances), <tt><a href="et_edt-dep-root.html">root</a></tt> (745; 2% instances), <tt><a href="et_edt-dep-conj.html">conj</a></tt> (552; 1% instances), <tt><a href="et_edt-dep-cc-preconj.html">cc:preconj</a></tt> (434; 1% instances), <tt><a href="et_edt-dep-advcl.html">advcl</a></tt> (273; 1% instances), <tt><a href="et_edt-dep-nmod.html">nmod</a></tt> (178; 0% instances), <tt><a href="et_edt-dep-orphan.html">orphan</a></tt> (166; 0% instances), <tt><a href="et_edt-dep-fixed.html">fixed</a></tt> (91; 0% instances), <tt><a href="et_edt-dep-ccomp.html">ccomp</a></tt> (80; 0% instances), <tt><a href="et_edt-dep-obl.html">obl</a></tt> (73; 0% instances), <tt><a href="et_edt-dep-parataxis.html">parataxis</a></tt> (69; 0% instances), <tt><a href="et_edt-dep-flat.html">flat</a></tt> (45; 0% instances), <tt><a href="et_edt-dep-acl.html">acl</a></tt> (30; 0% instances), <tt><a href="et_edt-dep-acl-relcl.html">acl:relcl</a></tt> (20; 0% instances), <tt><a href="et_edt-dep-cc.html">cc</a></tt> (14; 0% instances), <tt><a href="et_edt-dep-discourse.html">discourse</a></tt> (14; 0% instances), <tt><a href="et_edt-dep-amod.html">amod</a></tt> (10; 0% instances), <tt><a href="et_edt-dep-nsubj.html">nsubj</a></tt> (6; 0% instances), <tt><a href="et_edt-dep-xcomp.html">xcomp</a></tt> (6; 0% instances), <tt><a href="et_edt-dep-csubj.html">csubj</a></tt> (5; 0% instances), <tt><a href="et_edt-dep-appos.html">appos</a></tt> (4; 0% instances), <tt><a href="et_edt-dep-nsubj-cop.html">nsubj:cop</a></tt> (4; 0% instances), <tt><a href="et_edt-dep-csubj-cop.html">csubj:cop</a></tt> (3; 0% instances), <tt><a href="et_edt-dep-case.html">case</a></tt> (2; 0% instances), <tt><a href="et_edt-dep-list.html">list</a></tt> (1; 0% instances), <tt><a href="et_edt-dep-obj.html">obj</a></tt> (1; 0% instances)
+`ADV` nodes are attached to their parents using 28 different relations: <tt><a href="et_edt-dep-advmod.html">advmod</a></tt> (33352; 79% instances), <tt><a href="et_edt-dep-compound-prt.html">compound:prt</a></tt> (4388; 10% instances), <tt><a href="et_edt-dep-mark.html">mark</a></tt> (1514; 4% instances), <tt><a href="et_edt-dep-root.html">root</a></tt> (745; 2% instances), <tt><a href="et_edt-dep-conj.html">conj</a></tt> (552; 1% instances), <tt><a href="et_edt-dep-cc-preconj.html">cc:preconj</a></tt> (434; 1% instances), <tt><a href="et_edt-dep-advcl.html">advcl</a></tt> (273; 1% instances), <tt><a href="et_edt-dep-orphan.html">orphan</a></tt> (166; 0% instances), <tt><a href="et_edt-dep-nmod.html">nmod</a></tt> (153; 0% instances), <tt><a href="et_edt-dep-fixed.html">fixed</a></tt> (91; 0% instances), <tt><a href="et_edt-dep-ccomp.html">ccomp</a></tt> (80; 0% instances), <tt><a href="et_edt-dep-obl.html">obl</a></tt> (70; 0% instances), <tt><a href="et_edt-dep-parataxis.html">parataxis</a></tt> (69; 0% instances), <tt><a href="et_edt-dep-flat.html">flat</a></tt> (45; 0% instances), <tt><a href="et_edt-dep-acl.html">acl</a></tt> (30; 0% instances), <tt><a href="et_edt-dep-acl-relcl.html">acl:relcl</a></tt> (20; 0% instances), <tt><a href="et_edt-dep-cc.html">cc</a></tt> (14; 0% instances), <tt><a href="et_edt-dep-discourse.html">discourse</a></tt> (14; 0% instances), <tt><a href="et_edt-dep-amod.html">amod</a></tt> (10; 0% instances), <tt><a href="et_edt-dep-nsubj.html">nsubj</a></tt> (6; 0% instances), <tt><a href="et_edt-dep-xcomp.html">xcomp</a></tt> (6; 0% instances), <tt><a href="et_edt-dep-csubj.html">csubj</a></tt> (5; 0% instances), <tt><a href="et_edt-dep-appos.html">appos</a></tt> (4; 0% instances), <tt><a href="et_edt-dep-nsubj-cop.html">nsubj:cop</a></tt> (4; 0% instances), <tt><a href="et_edt-dep-csubj-cop.html">csubj:cop</a></tt> (3; 0% instances), <tt><a href="et_edt-dep-case.html">case</a></tt> (2; 0% instances), <tt><a href="et_edt-dep-list.html">list</a></tt> (1; 0% instances), <tt><a href="et_edt-dep-obj.html">obj</a></tt> (1; 0% instances)
 
-Parents of `ADV` nodes belong to 13 different parts of speech: <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (22857; 54% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (6978; 17% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (5787; 14% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (2807; 7% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (1033; 2% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (772; 2% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (764; 2% instances),  (745; 2% instances), <tt><a href="et_edt-pos-DET.html">DET</a></tt> (268; 1% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (24; 0% instances), <tt><a href="et_edt-pos-X.html">X</a></tt> (7; 0% instances), <tt><a href="et_edt-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), <tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (1; 0% instances)
+Parents of `ADV` nodes belong to 13 different parts of speech: <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (22856; 54% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (6977; 17% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (5787; 14% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (2807; 7% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (1032; 2% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (780; 2% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (764; 2% instances),  (745; 2% instances), <tt><a href="et_edt-pos-DET.html">DET</a></tt> (268; 1% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (24; 0% instances), <tt><a href="et_edt-pos-X.html">X</a></tt> (7; 0% instances), <tt><a href="et_edt-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), <tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (1; 0% instances)
 
-37427 (89%) `ADV` nodes are leaves.
+37432 (89%) `ADV` nodes are leaves.
 
 2977 (7%) `ADV` nodes have one child.
 

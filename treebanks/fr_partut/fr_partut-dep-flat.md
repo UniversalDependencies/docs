@@ -50,9 +50,9 @@ The following 7 pairs of parts of speech are connected with `flat`: <tt><a href=
 4	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	SpaceAfter=No
 5	autre	autre	ADJ	A	Number=Sing	6	amod	_	_
 6	juge	juge	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
-7	expire	expire	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+7	expire	expirer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-9	6	6	NUM	N	NumType=Card	7	nmod	_	_
+9	6	6	NUM	N	NumType=Card	7	obl	_	_
 10	octobre	octobre	NOUN	S	Gender=Fem|Number=Sing	9	flat	_	_
 11	2012	2012	NUM	N	NumType=Card	9	flat	_	SpaceAfter=No
 12	.	.	PUNCT	FS	_	7	punct	_	_
@@ -72,9 +72,9 @@ The following 7 pairs of parts of speech are connected with `flat`: <tt><a href=
 4	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	SpaceAfter=No
 5	autre	autre	ADJ	A	Number=Sing	6	amod	_	_
 6	juge	juge	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
-7	expire	expire	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+7	expire	expirer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-9	6	6	NUM	N	NumType=Card	7	nmod	_	_
+9	6	6	NUM	N	NumType=Card	7	obl	_	_
 10	octobre	octobre	NOUN	S	Gender=Fem|Number=Sing	9	flat	_	_
 11	2012	2012	NUM	N	NumType=Card	9	flat	_	SpaceAfter=No
 12	.	.	PUNCT	FS	_	7	punct	_	_

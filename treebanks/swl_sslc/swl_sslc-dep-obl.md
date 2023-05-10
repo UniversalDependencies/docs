@@ -13,18 +13,21 @@ This relation is universal.
 92 instances of `obl` (77%) are left-to-right (parent precedes child).
 Average distance between parent and child is 2.3.
 
-The following 19 pairs of parts of speech are connected with `obl`: <tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt>-<tt><a href="swl_sslc-pos-NOUN.html">NOUN</a></tt> (73; 61% instances), <tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt>-<tt><a href="swl_sslc-pos-PRON.html">PRON</a></tt> (8; 7% instances), <tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt>-<tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt> (8; 7% instances), <tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt>-<tt><a href="swl_sslc-pos-X.html">X</a></tt> (6; 5% instances), <tt><a href="swl_sslc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="swl_sslc-pos-NOUN.html">NOUN</a></tt> (5; 4% instances), <tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt>-<tt><a href="swl_sslc-pos-ADV.html">ADV</a></tt> (4; 3% instances), <tt><a href="swl_sslc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="swl_sslc-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt>-<tt><a href="swl_sslc-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt>-<tt><a href="swl_sslc-pos-ADP.html">ADP</a></tt> (2; 2% instances), <tt><a href="swl_sslc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="swl_sslc-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="swl_sslc-pos-ADV.html">ADV</a></tt>-<tt><a href="swl_sslc-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="swl_sslc-pos-ADV.html">ADV</a></tt>-<tt><a href="swl_sslc-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="swl_sslc-pos-ADV.html">ADV</a></tt>-<tt><a href="swl_sslc-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="swl_sslc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="swl_sslc-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="swl_sslc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="swl_sslc-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="swl_sslc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="swl_sslc-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="swl_sslc-pos-PRON.html">PRON</a></tt>-<tt><a href="swl_sslc-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt>-<tt><a href="swl_sslc-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="swl_sslc-pos-X.html">X</a></tt>-<tt><a href="swl_sslc-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 18 pairs of parts of speech are connected with `obl`: <tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt>-<tt><a href="swl_sslc-pos-NOUN.html">NOUN</a></tt> (74; 62% instances), <tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt>-<tt><a href="swl_sslc-pos-PRON.html">PRON</a></tt> (8; 7% instances), <tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt>-<tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt> (8; 7% instances), <tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt>-<tt><a href="swl_sslc-pos-X.html">X</a></tt> (6; 5% instances), <tt><a href="swl_sslc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="swl_sslc-pos-NOUN.html">NOUN</a></tt> (5; 4% instances), <tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt>-<tt><a href="swl_sslc-pos-ADV.html">ADV</a></tt> (4; 3% instances), <tt><a href="swl_sslc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="swl_sslc-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt>-<tt><a href="swl_sslc-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt>-<tt><a href="swl_sslc-pos-ADP.html">ADP</a></tt> (2; 2% instances), <tt><a href="swl_sslc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="swl_sslc-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="swl_sslc-pos-ADV.html">ADV</a></tt>-<tt><a href="swl_sslc-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="swl_sslc-pos-ADV.html">ADV</a></tt>-<tt><a href="swl_sslc-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="swl_sslc-pos-ADV.html">ADV</a></tt>-<tt><a href="swl_sslc-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="swl_sslc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="swl_sslc-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="swl_sslc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="swl_sslc-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="swl_sslc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="swl_sslc-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="swl_sslc-pos-PRON.html">PRON</a></tt>-<tt><a href="swl_sslc-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt>-<tt><a href="swl_sslc-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 3 obl	color:blue
-1	PRO1(B)	_	PRON	PN	_	2	nsubj	_	_
-2	FÖDD	_	VERB	VB	_	0	root	_	_
-3	SKÖVDE@en	_	NOUN	NN	_	2	obl	_	_
+# visual-style 2 5 obl	color:blue
+1	PRO1	_	PRON	PN	_	2	nsubj	_	_
+2	SITTA	_	VERB	VB	_	0	root	_	_
+3	I@b	_	ADP	PP	_	5	case	_	_
+4	ÅTTA	_	NUM	RG	_	5	nummod	_	_
+5	ÅR	_	NOUN	NN	_	2	obl	_	_
+6	TID-FRAMÅT	_	ADV	AB	_	2	advmod	_	_
 
 ~~~
 
@@ -35,15 +38,10 @@ The following 19 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 obl	color:blue
-1	HUND	_	NOUN	NN	_	2	nsubj	_	_
-2	SÅG	_	VERB	VB	_	0	root	_	_
-3	PEK	_	PRON	PEK	_	2	obl	_	_
-4	FINNAS	_	VERB	VB	_	2	ccomp	_	_
-5	BI	_	NOUN	NN	_	6	compound	_	_
-6	GLOB@kl	_	NOUN	NNKL	_	4	nsubj	_	_
-7	BI	_	NOUN	NN	_	8	nsubj	_	_
-8	INUTI	_	VERB	VBPP	_	6	acl	_	_
-9	TRE-DIM-FORM	_	NOUN	NNKL	_	8	obl	_	_
+1	PRO1	_	PRON	PN	_	2	nsubj	_	_
+2	SÄTTA-SIG@z	_	VERB	VB	_	0	root	_	_
+3	PEK@z	_	PRON	PEK	_	2	obl	_	_
+4	SKRIVA-TANGENTBORD	_	VERB	VB	_	2	conj	_	_
 
 ~~~
 

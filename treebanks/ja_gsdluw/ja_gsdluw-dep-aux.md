@@ -38,7 +38,7 @@ The following 8 pairs of parts of speech are connected with `aux`: <tt><a href="
 14	使わ	使う	VERB	動詞-一般-五段-ワア行	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|SpaceAfter=No|UnidicInfo=,使う,使わ,使う,ツカワ,,,ツカウ,ツカウ,使う
 15	れ	れる	AUX	助動詞-助動詞-レル	_	14	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,れる,れ,れる,レ,,,レル,レル,れる
 16	た	た	AUX	助動詞-助動詞-タ	_	14	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|SpaceAfter=No|UnidicInfo=,た,た,た,タ,,,タ,タ,た
-17	。	。	PUNCT	補助記号-句点	_	14	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=Yes|UnidicInfo=,。,。,。,,,,,,。
+17	。	。	PUNCT	補助記号-句点	_	14	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|UnidicInfo=,。,。,。,,,,,,。
 
 ~~~
 
@@ -66,7 +66,7 @@ The following 8 pairs of parts of speech are connected with `aux`: <tt><a href="
 15	新鮮	新鮮	ADJ	形状詞-一般	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|SpaceAfter=No|UnidicInfo=,新鮮,新鮮,新鮮,シンセン,,,シンセン,シンセン,新鮮
 16	でし	です	AUX	助動詞-助動詞-デス	_	15	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|PrevUDLemma=だ|SpaceAfter=No|UnidicInfo=,です,でし,です,デシ,,,デス,デス,です
 17	た	た	AUX	助動詞-助動詞-タ	_	15	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|SpaceAfter=No|UnidicInfo=,た,た,た,タ,,,タ,タ,た
-18	。	。	PUNCT	補助記号-句点	_	15	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=Yes|UnidicInfo=,。,。,。,,,,,,。
+18	。	。	PUNCT	補助記号-句点	_	15	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|UnidicInfo=,。,。,。,,,,,,。
 
 ~~~
 
@@ -88,7 +88,7 @@ The following 8 pairs of parts of speech are connected with `aux`: <tt><a href="
 9	話やすかっ	話し易い	ADJ	形容詞-一般-形容詞	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|SpaceAfter=No|UnidicInfo=;,話す;易い,話;やすかっ,話す;やすい,ハナシ;ヤスカッ,;,;,ハナス;ヤスイ,ハナシヤスイ,話し易い
 10	た	た	AUX	助動詞-助動詞-タ	_	9	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,た,た,た,タ,,,タ,タ,た
 11	です	です	AUX	助動詞-助動詞-デス	_	9	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|PrevUDLemma=だ|SpaceAfter=No|UnidicInfo=,です,です,です,デス,,,デス,デス,です
-12	。	。	PUNCT	補助記号-句点	_	9	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=Yes|UnidicInfo=,。,。,。,,,,,,。
+12	。	。	PUNCT	補助記号-句点	_	9	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|UnidicInfo=,。,。,。,,,,,,。
 
 ~~~
 

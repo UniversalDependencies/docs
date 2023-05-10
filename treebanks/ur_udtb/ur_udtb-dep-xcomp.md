@@ -32,7 +32,7 @@ The following 10 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 8	یہ	یہ	PRON	PRP	Case=Nom|Number=Sing|Person=3|PronType=Prs	11	obj	_	Vib=0|Tam=0|ChunkId=NP4|ChunkType=head
 9	ثابت	ثابت	ADJ	JJ	_	10	compound	_	ChunkId=JJP|ChunkType=head
 10	کر	کر	VERB	VM	Voice=Act	11	xcomp	_	Vib=0|Tam=0|ChunkId=VGF2|ChunkType=head|Stype=declarative
-11	دکھائیں_گے	دکھا	VERB	VAUX	Mood=Ind|Number=Plur|Tense=Fut|VerbForm=Fin	3	obj	_	SpaceAfter=No|Vib=گا|Tam=gA|ChunkId=VGF2|ChunkType=child
+11	دکھائیں_گے	دکھا	VERB	VAUX	Mood=Ind|Number=Plur|Tense=Fut|VerbForm=Fin	3	ccomp	_	SpaceAfter=No|Vib=گا|Tam=gA|ChunkId=VGF2|ChunkType=child
 12	۔	۔	PUNCT	SYM	_	11	punct	_	ChunkId=VGF2|ChunkType=child
 
 ~~~

@@ -22,17 +22,17 @@ The following 32 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 7 advcl	color:blue
-1	mi	jaz	PRON	Pp1mpn	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	word=mi|msd=Zopmmi
-2	smo	biti	AUX	Va-r1p-n	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	aux	_	word=smo|msd=Gp-spm-n
-3	to	ta	DET	Pd-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	5	obj	_	word=to|msd=Zk-set
-4	predvsem	predvsem	PART	Q	_	5	advmod	_	word=predvsem|msd=L
-5	želeli	želeti	VERB	Vmpp-pm	Aspect=Imp|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	word=želeli|msd=Ggnd-mm
-6	da	da	SCONJ	Cs	_	7	mark	_	word=da|msd=Vd
-7	odpre	odpreti	VERB	Vmer3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	word=odpre|msd=Ggdste
-8	pot	pot	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	word=pot|msd=Sozet
-9	na	na	ADP	Sl	Case=Loc	11	case	_	word=na|msd=Dm
-10	tujih	tuj	ADJ	Agpnpl	Case=Loc|Degree=Pos|Gender=Neut|Number=Plur	11	amod	_	word=tujih|msd=Ppnsmm
-11	tržiščih	tržišče	NOUN	Ncnpl	Case=Loc|Gender=Neut|Number=Plur	7	obl	_	word=tržiščih|msd=Sosmm
+1	mi	jaz	PRON	Pp1mpn	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	pronunciation=mi
+2	smo	biti	AUX	Va-r1p-n	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	aux	_	pronunciation=smo
+3	to	ta	DET	Pd-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	5	obj	_	pronunciation=to
+4	predvsem	predvsem	PART	Q	_	5	advmod	_	pronunciation=predvsem
+5	želeli	želeti	VERB	Vmpp-pm	Aspect=Imp|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	pronunciation=želeli
+6	da	da	SCONJ	Cs	_	7	mark	_	pronunciation=da
+7	odpre	odpreti	VERB	Vmer3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	pronunciation=odpre
+8	pot	pot	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	pronunciation=pot
+9	na	na	ADP	Sl	Case=Loc	11	case	_	pronunciation=na
+10	tujih	tuj	ADJ	Agpnpl	Case=Loc|Degree=Pos|Gender=Neut|Number=Plur	11	amod	_	pronunciation=tujih
+11	tržiščih	tržišče	NOUN	Ncnpl	Case=Loc|Gender=Neut|Number=Plur	7	obl	_	pronunciation=tržiščih
 
 ~~~
 
@@ -43,15 +43,15 @@ The following 32 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 3 advcl	color:blue
-1	ampak	ampak	CCONJ	Cc	_	8	cc	_	word=ampak|msd=Vp
-2	če	če	SCONJ	Cs	_	3	mark	_	word=če|msd=Vd
-3	nimate	imeti	VERB	Vmpr2p-y	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin	8	advcl	_	word=nimate|msd=Ggnsdm-d
-4	sline	slina	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	3	obl	_	word=sline|msd=Sozer
-5	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	8	cop	_	word=je|msd=Gp-ste-n
-6	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	8	nsubj	_	word=to|msd=Zk-sei
-7	malo	malo	DET	Rgp	PronType=Ind	8	advmod	_	word=malo|msd=Rsn
-8	težje	težek	ADJ	Agcnsn	Case=Nom|Degree=Cmp|Gender=Neut|Number=Sing	0	root	_	word=težje|msd=Pppsei
-9	ne	ne	PART	Q	_	8	discourse	_	word=ne|msd=L
+1	ampak	ampak	CCONJ	Cc	_	8	cc	_	pronunciation=ampak
+2	če	če	SCONJ	Cs	_	3	mark	_	pronunciation=če
+3	nimate	imeti	VERB	Vmpr2p-y	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin	8	advcl	_	pronunciation=nimate
+4	sline	slina	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	3	obl	_	pronunciation=sline
+5	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	8	cop	_	pronunciation=je
+6	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	8	nsubj	_	pronunciation=to
+7	malo	malo	DET	Rgp	PronType=Ind	8	advmod	_	pronunciation=malo
+8	težje	težek	ADJ	Agcnsn	Case=Nom|Degree=Cmp|Gender=Neut|Number=Sing	0	root	_	pronunciation=težje
+9	ne	ne	PART	Q	Polarity=Neg	8	discourse	_	pronunciation=ne
 
 ~~~
 
@@ -62,13 +62,13 @@ The following 32 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 6 advcl	color:blue
-1	polovico	polovica	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	0	root	_	word=polovico|msd=Sozet
-2	več	več	DET	Rgc	PronType=Ind	4	advmod	_	word=več|msd=Rsr
-3	ne	ne	PART	Q	Polarity=Neg	4	advmod	_	word=ne|msd=L
-4	rabimo	rabiti	VERB	Vmpr1p	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	parataxis	_	word=rabimo|msd=Ggnspm
-5	da	da	SCONJ	Cs	_	6	mark	_	word=da|msd=Vd
-6	vidimo	videti	VERB	Vmbr1p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	advcl	_	word=vidimo|msd=Ggvspm
-7	preskok	preskok	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obj	_	word=preskok|msd=Sometn
+1	polovico	polovica	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	0	root	_	pronunciation=polovico
+2	več	več	DET	Rgc	PronType=Ind	4	advmod	_	pronunciation=več
+3	ne	ne	PART	Q	Polarity=Neg	4	advmod	_	pronunciation=ne
+4	rabimo	rabiti	VERB	Vmpr1p	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	parataxis	_	pronunciation=rabimo
+5	da	da	SCONJ	Cs	_	6	mark	_	pronunciation=da
+6	vidimo	videti	VERB	Vmbr1p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	advcl	_	pronunciation=vidimo
+7	preskok	preskok	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obj	_	pronunciation=preskok
 
 ~~~
 

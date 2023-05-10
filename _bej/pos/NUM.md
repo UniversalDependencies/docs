@@ -12,4 +12,4 @@ A numeral is a word, functioning most typically as a determiner, a pronoun or an
 ### Examples :
 
 - _mhaj_ "three"
-<!-- Interlanguage links updated Po lis 14 15:34:33 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:26 CEST -->

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="br_keb-dep-aux.html">aux</a></tt>.
 
-143 nodes (1%) are attached to their parents as `aux:pass`.
+142 nodes (1%) are attached to their parents as `aux:pass`.
 
-106 instances of `aux:pass` (74%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.32167832167832.
+105 instances of `aux:pass` (74%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.32394366197183.
 
-The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a href="br_keb-pos-VERB.html">VERB</a></tt>-<tt><a href="br_keb-pos-AUX.html">AUX</a></tt> (140; 98% instances), <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="br_keb-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="br_keb-pos-NUM.html">NUM</a></tt>-<tt><a href="br_keb-pos-AUX.html">AUX</a></tt> (1; 1% instances).
+The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a href="br_keb-pos-VERB.html">VERB</a></tt>-<tt><a href="br_keb-pos-AUX.html">AUX</a></tt> (139; 98% instances), <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="br_keb-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="br_keb-pos-NUM.html">NUM</a></tt>-<tt><a href="br_keb-pos-AUX.html">AUX</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

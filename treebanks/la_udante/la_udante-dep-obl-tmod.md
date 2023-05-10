@@ -65,7 +65,7 @@ The following 5 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 10	totaliter	totaliter	ADV	r	_	11	advmod	_	_
 11	accepti	accipio	VERB	vp3prsng	Aspect=Perf|Case=Gen|Gender=Neut|InflClass=LatI2|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass	9	acl	_	TraditionalMood=Participium|TraditionalTense=Perfectum
 12	est	sum	AUX	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
-13	actuare	actuo	VERB	va1fp	Aspect=Imp|VerbForm=Vnoun|Voice=Act	3	csubj:pass	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+13	actuare	actuo	VERB	va1fp	Aspect=Imp|VerbForm=Inf|Voice=Act	3	csubj:pass	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 14	semper	semper	ADV	r	AdvType=Tim	13	advmod:tmod	_	_
 15	totam	totus	DET	dpfsa	Case=Acc|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Tot	16	det	_	_
 16	potentiam	potentia	NOUN	sfs1a	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	13	obj	_	_

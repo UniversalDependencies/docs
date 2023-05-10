@@ -27,7 +27,7 @@ The following 2 pairs of parts of speech are connected with `appos`: <tt><a href
 3	_	_	NOUN	_	_	5	obl	_	BBIL=B|BPT=1|LBIL=B|LPOS=0|SpaceAfter=No|UI=20497
 4	_	_	ADP	_	_	3	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No|UI=5
 5	_	_	NOUN	_	_	10	nmod	_	BBIL=B|BPT=1|LBIL=B|LPOS=0|SpaceAfter=No|UI=17756
-6	_	_	ADP	_	_	5	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=Yes|UI=8
+6	_	_	ADP	_	_	5	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|UI=8
 7	_	_	NOUN	_	_	8	compound	_	BBIL=B|BPT=0|LBIL=B|LPOS=0|SpaceAfter=No|UI=159786
 8	_	_	NOUN	_	_	10	nmod	_	BBIL=I|BPT=1|LBIL=I|LPOS=0|SpaceAfter=No|UI=148127
 9	_	_	ADP	_	_	8	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No|UI=0
@@ -35,7 +35,7 @@ The following 2 pairs of parts of speech are connected with `appos`: <tt><a href
 11	_	_	ADP	_	_	10	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No|UI=8
 12	_	_	PUNCT	_	_	16	punct	_	BBIL=B|BPT=0|LBIL=B|LPOS=14|SpaceAfter=No|UI=16
 13	_	_	NUM	_	_	16	compound	_	BBIL=I|BPT=0|LBIL=B|LPOS=10|SpaceAfter=No|UI=19954
-14	_	_	ADV	_	_	16	advmod	_	BBIL=I|BPT=0|LBIL=I|LPOS=10|SpaceAfter=Yes|UI=13261
+14	_	_	ADV	_	_	16	advmod	_	BBIL=I|BPT=0|LBIL=I|LPOS=10|UI=13261
 15	_	_	NOUN	_	_	16	compound	_	BBIL=I|BPT=0|LBIL=B|LPOS=0|SpaceAfter=No|UI=4801
 16	_	_	NOUN	_	_	30	obj	_	BBIL=I|BPT=1|LBIL=I|LPOS=0|SpaceAfter=No|UI=5010
 17	_	_	ADP	_	_	16	case	_	BBIL=I|BPT=3|LBIL=B|LPOS=1|SpaceAfter=No|UI=9
@@ -64,7 +64,7 @@ The following 2 pairs of parts of speech are connected with `appos`: <tt><a href
 40	_	_	NOUN	_	_	45	compound	_	BBIL=I|BPT=0|LBIL=B|LPOS=0|SpaceAfter=No|UI=904
 41	_	_	ADP	_	_	40	case	_	BBIL=I|BPT=3|LBIL=B|LPOS=1|SpaceAfter=No|UI=0
 42	_	_	SCONJ	_	_	40	fixed	_	BBIL=I|BPT=0|LBIL=B|LPOS=9|SpaceAfter=No|UI=8760
-43	_	_	SCONJ	_	_	37	fixed	_	BBIL=I|BPT=3|LBIL=I|LPOS=9|SpaceAfter=Yes|UI=4366
+43	_	_	SCONJ	_	_	37	fixed	_	BBIL=I|BPT=3|LBIL=I|LPOS=9|UI=4366
 44	_	_	NOUN	_	_	45	compound	_	BBIL=I|BPT=0|LBIL=B|LPOS=0|SpaceAfter=No|UI=159525
 45	_	_	ADJ	_	_	30	appos	_	BBIL=I|BPT=0|LBIL=B|LPOS=15|SpaceAfter=No|UI=204378
 46	_	_	PUNCT	_	_	45	punct	_	BBIL=I|BPT=0|LBIL=B|LPOS=5|SpaceAfter=No|UI=2
@@ -88,7 +88,7 @@ The following 2 pairs of parts of speech are connected with `appos`: <tt><a href
 3	_	_	NOUN	_	_	5	obl	_	BBIL=B|BPT=1|LBIL=B|LPOS=0|SpaceAfter=No|UI=20497
 4	_	_	ADP	_	_	3	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No|UI=5
 5	_	_	NOUN	_	_	10	nmod	_	BBIL=B|BPT=1|LBIL=B|LPOS=0|SpaceAfter=No|UI=17756
-6	_	_	ADP	_	_	5	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=Yes|UI=8
+6	_	_	ADP	_	_	5	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|UI=8
 7	_	_	NOUN	_	_	8	compound	_	BBIL=B|BPT=0|LBIL=B|LPOS=0|SpaceAfter=No|UI=159786
 8	_	_	NOUN	_	_	10	nmod	_	BBIL=I|BPT=1|LBIL=I|LPOS=0|SpaceAfter=No|UI=148127
 9	_	_	ADP	_	_	8	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No|UI=0
@@ -96,7 +96,7 @@ The following 2 pairs of parts of speech are connected with `appos`: <tt><a href
 11	_	_	ADP	_	_	10	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No|UI=8
 12	_	_	PUNCT	_	_	16	punct	_	BBIL=B|BPT=0|LBIL=B|LPOS=14|SpaceAfter=No|UI=16
 13	_	_	NUM	_	_	16	compound	_	BBIL=I|BPT=0|LBIL=B|LPOS=10|SpaceAfter=No|UI=19954
-14	_	_	ADV	_	_	16	advmod	_	BBIL=I|BPT=0|LBIL=I|LPOS=10|SpaceAfter=Yes|UI=13261
+14	_	_	ADV	_	_	16	advmod	_	BBIL=I|BPT=0|LBIL=I|LPOS=10|UI=13261
 15	_	_	NOUN	_	_	16	compound	_	BBIL=I|BPT=0|LBIL=B|LPOS=0|SpaceAfter=No|UI=4801
 16	_	_	NOUN	_	_	30	obj	_	BBIL=I|BPT=1|LBIL=I|LPOS=0|SpaceAfter=No|UI=5010
 17	_	_	ADP	_	_	16	case	_	BBIL=I|BPT=3|LBIL=B|LPOS=1|SpaceAfter=No|UI=9
@@ -125,7 +125,7 @@ The following 2 pairs of parts of speech are connected with `appos`: <tt><a href
 40	_	_	NOUN	_	_	45	compound	_	BBIL=I|BPT=0|LBIL=B|LPOS=0|SpaceAfter=No|UI=904
 41	_	_	ADP	_	_	40	case	_	BBIL=I|BPT=3|LBIL=B|LPOS=1|SpaceAfter=No|UI=0
 42	_	_	SCONJ	_	_	40	fixed	_	BBIL=I|BPT=0|LBIL=B|LPOS=9|SpaceAfter=No|UI=8760
-43	_	_	SCONJ	_	_	37	fixed	_	BBIL=I|BPT=3|LBIL=I|LPOS=9|SpaceAfter=Yes|UI=4366
+43	_	_	SCONJ	_	_	37	fixed	_	BBIL=I|BPT=3|LBIL=I|LPOS=9|UI=4366
 44	_	_	NOUN	_	_	45	compound	_	BBIL=I|BPT=0|LBIL=B|LPOS=0|SpaceAfter=No|UI=159525
 45	_	_	ADJ	_	_	30	appos	_	BBIL=I|BPT=0|LBIL=B|LPOS=15|SpaceAfter=No|UI=204378
 46	_	_	PUNCT	_	_	45	punct	_	BBIL=I|BPT=0|LBIL=B|LPOS=5|SpaceAfter=No|UI=2

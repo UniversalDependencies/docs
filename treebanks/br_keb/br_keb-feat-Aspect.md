@@ -23,7 +23,7 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 `AUX` tokens may have the following values of `Aspect`:
 
 * `Hab` (37; 100% of non-empty `Aspect`): <em>vez, veze, vezit, vezont</em>
-* `EMPTY` (1295): <em>a, e, eo, oa, vo, zo, bet, o, en, ra</em>
+* `EMPTY` (1292): <em>a, e, eo, oa, vo, zo, bet, o, en, ra</em>
 
 ### `VERB`
 
@@ -34,5 +34,5 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 `VERB` tokens may have the following values of `Aspect`:
 
 * `Hab` (1; 100% of non-empty `Aspect`): <em>ho pez</em>
-* `EMPTY` (1101): <em>kinniget, dont, ober, graet, gouestlet, gwelet, lennet, chom, aozet, kavet</em>
+* `EMPTY` (1096): <em>kinniget, dont, ober, graet, gwelet, gouestlet, lennet, chom, aozet, kavet</em>
 

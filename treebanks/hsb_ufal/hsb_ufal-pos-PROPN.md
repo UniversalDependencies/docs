@@ -64,8 +64,8 @@ The 3rd highest number of forms (4) was observed with the lemma “Mezopotamiska
 `PROPN` occurs with 16 feature-value pairs: `Abbr=Yes`, `Animacy=Anim`, `Animacy=Inan`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Dual`, `Number=Plur`, `Number=Ptan`, `Number=Sing`
 
 `PROPN` occurs with 45 feature combinations.
-The most frequent feature combination is `Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing` (81 tokens).
-Examples: <em>Hammurabi, Jakub, Aššur, Bart, Che, Ernesto, Guevara, Ćišinski, Adad, Assur</em>
+The most frequent feature combination is `Case=Nom|Gender=Fem|Number=Sing` (81 tokens).
+Examples: <em>Mezopotamiska, Assyriska, Wikipedija, Braniborska, Kannada, Karnataka, Marilyn, Mjezyrěčina, Monroe, Niniwa</em>
 
 
 ## Relations

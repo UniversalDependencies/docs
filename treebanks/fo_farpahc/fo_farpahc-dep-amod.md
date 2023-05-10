@@ -49,7 +49,7 @@ The following 31 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 3 2 amod	color:blue
 1	Og	_	CCONJ	CONJ	_	4	cc	_	_
 2	alt	_	DET	Q-N	Case=Nom	3	amod	_	_
-3	fólkið	_	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	4	nsubj	_	_
+3	fólkið	_	NOUN	N-N	Case=Nom|Definite=Def|Number=Sing	4	nsubj	_	_
 4	sá	_	VERB	VBDI	Mood=Ind|Tense=Past	0	root	_	_
 5	hann	_	PRON	PRO-A	Case=Acc	6	nsubj	_	_
 6	ganga	_	VERB	VB	VerbForm=Inf	4	acl	_	_
@@ -81,7 +81,7 @@ The following 31 pairs of parts of speech are connected with `amod`: <tt><a href
 10	glað	_	ADJ	ADJ-N	Case=Nom|Degree=Pos	8	amod	_	_
 11	um	_	ADP	P	_	13	case	_	_
 12	hesa	_	DET	D-A	Case=Acc	13	det	_	_
-13	ugganina	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	8	obl	_	SpaceAfter=No
+13	ugganina	_	NOUN	N-A	Case=Acc|Definite=Def|Number=Sing	8	obl	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	13	punct	_	_
 
 ~~~

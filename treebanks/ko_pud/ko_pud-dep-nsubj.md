@@ -35,7 +35,7 @@ The following 26 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 10	수	_	NOUN	NNB	_	11	nsubj	_	Translit=.su
 11	없을	_	ADJ	JJ	Form=Adn	12	acl:relcl	_	Translit=.eobs.eul
 12	정도	_	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=.jeong.do
-13	이다	_	AUX	VC	Mood=Ind|VerbForm=Fin	12	cop	_	SpaceAfter=No|Translit=.i.da
+13	이다	이	AUX	VC	Mood=Ind|VerbForm=Fin	12	cop	_	SpaceAfter=No|Translit=.i.da|LTranslit=.i
 14	.	.	PUNCT	.	_	12	punct	_	Translit=.|LTranslit=.
 
 ~~~
@@ -83,7 +83,7 @@ The following 26 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 10	수	_	NOUN	NNB	_	11	nsubj	_	Translit=.su
 11	없을	_	ADJ	JJ	Form=Adn	12	acl:relcl	_	Translit=.eobs.eul
 12	정도	_	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=.jeong.do
-13	이다	_	AUX	VC	Mood=Ind|VerbForm=Fin	12	cop	_	SpaceAfter=No|Translit=.i.da
+13	이다	이	AUX	VC	Mood=Ind|VerbForm=Fin	12	cop	_	SpaceAfter=No|Translit=.i.da|LTranslit=.i
 14	.	.	PUNCT	.	_	12	punct	_	Translit=.|LTranslit=.
 
 ~~~

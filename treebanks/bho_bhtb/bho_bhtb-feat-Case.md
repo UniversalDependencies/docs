@@ -10,16 +10,16 @@ This feature is universal.
 It occurs with 5 different values: `Acc`, `Dat`, `Erg`, `Gen`, `Nom`.
 Some words have combined values of the feature; 3 combinations have been observed: `Acc|Dat`, `Acc|Erg`, `Acc|Gen`.
 
-4041 tokens (61%) have a non-empty value of `Case`.
+4043 tokens (61%) have a non-empty value of `Case`.
 1361 types (81%) occur at least once with a non-empty value of `Case`.
 1335 lemmas (82%) occur at least once with a non-empty value of `Case`.
-The feature is used with 13 part-of-speech tags: <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (1688; 25% instances), <tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt> (570; 9% instances), <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt> (397; 6% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> (329; 5% instances), <tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt> (250; 4% instances), <tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (229; 3% instances), <tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt> (173; 3% instances), <tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt> (163; 2% instances), <tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> (105; 2% instances), <tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt> (96; 1% instances), <tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> (30; 0% instances), <tt><a href="bho_bhtb-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="bho_bhtb-pos-INTJ.html">INTJ</a></tt> (4; 0% instances).
+The feature is used with 13 part-of-speech tags: <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (1688; 25% instances), <tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt> (570; 9% instances), <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt> (399; 6% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> (329; 5% instances), <tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt> (250; 4% instances), <tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (229; 3% instances), <tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt> (173; 3% instances), <tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt> (163; 2% instances), <tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> (105; 2% instances), <tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt> (96; 1% instances), <tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> (30; 0% instances), <tt><a href="bho_bhtb-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="bho_bhtb-pos-INTJ.html">INTJ</a></tt> (4; 0% instances).
 
 ### `NOUN`
 
 1688 <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> tokens (91% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt> (1561; 92%), <tt><a href="bho_bhtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1489; 88%), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1215; 72%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt> (1561; 92%), <tt><a href="bho_bhtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1489; 88%), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1214; 72%).
 
 `NOUN` tokens may have the following values of `Case`:
 
@@ -57,15 +57,15 @@ The most frequent other feature values with which `ADP` and `Case` co-occurred: 
 
 ### `PROPN`
 
-397 <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt> tokens (95% of all `PROPN` tokens) have a non-empty value of `Case`.
+399 <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt> tokens (95% of all `PROPN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt> (390; 98%), <tt><a href="bho_bhtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (388; 98%), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (224; 56%).
+The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt> (392; 98%), <tt><a href="bho_bhtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (390; 98%), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (225; 56%).
 
 `PROPN` tokens may have the following values of `Case`:
 
-* `Acc` (113; 28% of non-empty `Case`): भोजपुरी, जी, द्विवेदी, खाली, चोपड़ा, दिल्ली, शाही, सिंह, पाती, प्रियंका
+* `Acc` (114; 29% of non-empty `Case`): भोजपुरी, जी, द्विवेदी, खाली, चोपड़ा, दिल्ली, शाही, सिंह, पाती, प्रियंका
 * `Acc,Dat` (10; 3% of non-empty `Case`): लेखको, ऑडियो, कादो, केनियो, परिचर्चो, प्रियंको, भाषणो
-* `Nom` (274; 69% of non-empty `Case`): भोजपुरी, डॉ., पाती, प्रियंका, राय, सिंह, तिवारी, प्रसाद, आंजनेय, उदय
+* `Nom` (275; 69% of non-empty `Case`): भोजपुरी, डॉ., पाती, प्रियंका, राय, सिंह, तिवारी, प्रसाद, आंजनेय, उदय
 * `EMPTY` (22): पाती, डा॰, अंचल, टिप्पणिए, प्रो॰, 2012, 24, इटलिए, चोपड़ा, पूर्वांचल
 
 <table>
@@ -74,7 +74,7 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
   <tr><td><tt><tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td>भोजपुरी</td><td>भोजपुरी</td></tr>
 </table>
 
-`Case` seems to be **lexical feature** of `PROPN`. 92% lemmas (168) occur only with one value of `Case`.
+`Case` seems to be **lexical feature** of `PROPN`. 92% lemmas (169) occur only with one value of `Case`.
 
 ### `VERB`
 
@@ -149,7 +149,7 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 * `Acc` (38; 22% of non-empty `Case`): सांस्कृतिक, खास, सहज, तरह, निश्चित, रोज, स्थित, अपार, इलेक्ट्रॉनिक, कानूनी
 * `Acc,Dat` (1; 1% of non-empty `Case`): हिंदियो
 * `Nom` (134; 77% of non-empty `Case`): पूरा, आखिरी, काव्य, बड़, अतिशय, चुनरी, छोट, तथाकथित, बनतारी, राय
-* `EMPTY` (77): प, चुपचाप, तथाकथित, आसान, जरूरी, लइकी, ग्रुप, छाप, ठीक, दर्पण
+* `EMPTY` (76): प, चुपचाप, तथाकथित, आसान, जरूरी, ग्रुप, छाप, ठीक, दर्पण, नीक
 
 <table>
   <tr><th>Paradigm <i>पूरा</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
@@ -226,7 +226,7 @@ The most frequent other feature values with which `CCONJ` and `Case` co-occurred
 
 ### `ADV`
 
-7 <tt><a href="bho_bhtb-pos-ADV.html">ADV</a></tt> tokens (22% of all `ADV` tokens) have a non-empty value of `Case`.
+7 <tt><a href="bho_bhtb-pos-ADV.html">ADV</a></tt> tokens (23% of all `ADV` tokens) have a non-empty value of `Case`.
 
 The most frequent other feature values with which `ADV` and `Case` co-occurred: <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4; 57%), <tt><a href="bho_bhtb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4; 57%).
 
@@ -234,7 +234,7 @@ The most frequent other feature values with which `ADV` and `Case` co-occurred: 
 
 * `Acc` (4; 57% of non-empty `Case`): ललित, सम्मानित, जल्दी
 * `Nom` (3; 43% of non-empty `Case`): तेज, आजुओ, शुरू
-* `EMPTY` (25): जइसे, हिन्दी, गद्य, सभ्य, आनन्द, आसानी, जरूर, जल्दी, जसहीं, जारी
+* `EMPTY` (24): जइसे, हिन्दी, गद्य, सभ्य, आनन्द, आसानी, जरूर, जल्दी, जसहीं, जारी
 
 ### `INTJ`
 
@@ -251,13 +251,13 @@ The most frequent other feature values with which `INTJ` and `Case` co-occurred:
 
 The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="bho_bhtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (158; 54%),
-<tt>VERB --[<tt><a href="bho_bhtb-dep-aux.html">aux</a></tt>]--> AUX</tt> (80; 52%),
+<tt>VERB --[<tt><a href="bho_bhtb-dep-aux.html">aux</a></tt>]--> AUX</tt> (80; 51%),
 <tt>PROPN --[<tt><a href="bho_bhtb-dep-compound.html">compound</a></tt>]--> PROPN</tt> (75; 51%),
 <tt>NOUN --[<tt><a href="bho_bhtb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (62; 67%),
 <tt>PROPN --[<tt><a href="bho_bhtb-dep-case.html">case</a></tt>]--> ADP</tt> (44; 52%),
-<tt>NOUN --[<tt><a href="bho_bhtb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (16; 64%),
+<tt>NOUN --[<tt><a href="bho_bhtb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (16; 62%),
 <tt>NOUN --[<tt><a href="bho_bhtb-dep-amod.html">amod</a></tt>]--> NOUN</tt> (15; 79%),
-<tt>PROPN --[<tt><a href="bho_bhtb-dep-conj.html">conj</a></tt>]--> PROPN</tt> (14; 54%),
+<tt>PROPN --[<tt><a href="bho_bhtb-dep-conj.html">conj</a></tt>]--> PROPN</tt> (15; 56%),
 <tt>PROPN --[<tt><a href="bho_bhtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (13; 52%),
 <tt>DET --[<tt><a href="bho_bhtb-dep-compound.html">compound</a></tt>]--> NOUN</tt> (10; 71%).
 

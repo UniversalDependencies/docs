@@ -23,7 +23,7 @@ The 10 most frequent ambiguous types:  <em>ora</em> (<tt><a href="it_twittiro-po
   * <tt><a href="it_twittiro-pos-NOUN.html">NOUN</a></tt> 7: <em>Legge elettorale , il Pd si divide . Non vedono l' <b>ora</b> di provar la . [ @user ]</em>
 * <em>solo</em>
   * <tt><a href="it_twittiro-pos-ADV.html">ADV</a></tt> 38: <em>Sono ricco , ma <b>solo</b> per il Governo Monti ... Purtroppo</em>
-  * <tt><a href="it_twittiro-pos-ADJ.html">ADJ</a></tt> 4: <em>@user Ragazzi calma , il Prof . Mario Monti se la cava da <b>solo</b> : e' bocconiano , mica bocchiniano ! ;) by rao</em>
+  * <tt><a href="it_twittiro-pos-ADJ.html">ADJ</a></tt> 4: <em>@user Ragazzi calma , il Prof. Mario Monti se la cava da <b>solo</b> : e' bocconiano , mica bocchiniano ! ;) by rao</em>
 * <em>bene</em>
   * <tt><a href="it_twittiro-pos-ADV.html">ADV</a></tt> 29: <em>La #labuonascuola comincia <b>bene</b> , fermando gli studenti di Palermo</em>
   * <tt><a href="it_twittiro-pos-NOUN.html">NOUN</a></tt> 1: <em>Bersani a il gruppo sintetizza la linea rispetto a il governo monti : o si va a messa o si sta a casa . Noi andiamo a messa per il <b>bene</b> di l' italia</em>
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>ora</em> (<tt><a href="it_twittiro-po
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.114458 (the average of all parts of speech is 1.274821).
+The form / lemma ratio of `ADV` is 1.114458 (the average of all parts of speech is 1.274961).
 
 The 1st highest number of forms (3) was observed with the lemma “perché”: <em>perche', perchè, perché</em>.
 

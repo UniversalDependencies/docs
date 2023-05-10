@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fin`, `Inf`, `Part`.
 
-1755 tokens (17%) have a non-empty value of `VerbForm`.
-660 types (27%) occur at least once with a non-empty value of `VerbForm`.
+1750 tokens (17%) have a non-empty value of `VerbForm`.
+656 types (27%) occur at least once with a non-empty value of `VerbForm`.
 277 lemmas (16%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="br_keb-pos-VERB.html">VERB</a></tt> (1045; 10% instances), <tt><a href="br_keb-pos-AUX.html">AUX</a></tt> (710; 7% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="br_keb-pos-VERB.html">VERB</a></tt> (1042; 10% instances), <tt><a href="br_keb-pos-AUX.html">AUX</a></tt> (708; 7% instances).
 
 ### `VERB`
 
-1045 <tt><a href="br_keb-pos-VERB.html">VERB</a></tt> tokens (95% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+1042 <tt><a href="br_keb-pos-VERB.html">VERB</a></tt> tokens (95% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="br_keb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (786; 75%), <tt><a href="br_keb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (772; 74%), <tt><a href="br_keb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (755; 72%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="br_keb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (784; 75%), <tt><a href="br_keb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (770; 74%), <tt><a href="br_keb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (753; 72%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (290; 28% of non-empty `VerbForm`): <em>ra, welas, zeuy, gavo, lennont, wel, ya, yelo, c'haller, eo</em>
-* `Inf` (389; 37% of non-empty `VerbForm`): <em>dont, ober, labourat, vont, kinnig, chom, debriñ, gwelout, kanañ, Kerzhout</em>
-* `Part` (366; 35% of non-empty `VerbForm`): <em>kinniget, graet, gouestlet, lennet, aozet, kavet, deuet, lakaet, savet, aet</em>
-* `EMPTY` (57): <em>tennit, klaskit, meskit, Lakait, Ouzhpennit, Treuzit, klikit, pouezit, vefe, Degasit</em>
+* `Fin` (289; 28% of non-empty `VerbForm`): <em>ra, welas, zeuy, gavo, wel, ya, yelo, c'haller, eo, fell</em>
+* `Inf` (387; 37% of non-empty `VerbForm`): <em>dont, ober, labourat, vont, kinnig, chom, debriñ, kanañ, Kerzhout, gwelet</em>
+* `Part` (366; 35% of non-empty `VerbForm`): <em>kinniget, graet, gouestlet, lennet, aozet, kavet, deuet, gwelet, lakaet, savet</em>
+* `EMPTY` (55): <em>tennit, klaskit, meskit, Lakait, Ouzhpennit, klikit, pouezit, vefe, Degasit, Diskennit</em>
 
 <table>
   <tr><th>Paradigm <i>dont</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>
@@ -41,16 +41,16 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-710 <tt><a href="br_keb-pos-AUX.html">AUX</a></tt> tokens (53% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+708 <tt><a href="br_keb-pos-AUX.html">AUX</a></tt> tokens (53% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="br_keb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (560; 79%), <tt><a href="br_keb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (557; 78%), <tt><a href="br_keb-feat-Person.html">Person</a></tt><tt>=3</tt> (531; 75%), <tt><a href="br_keb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (404; 57%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="br_keb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (559; 79%), <tt><a href="br_keb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (556; 79%), <tt><a href="br_keb-feat-Person.html">Person</a></tt><tt>=3</tt> (530; 75%), <tt><a href="br_keb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (403; 57%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Fin` (618; 87% of non-empty `VerbForm`): <em>eo, oa, vo, zo, vez, ra, en deus, voe, emañ, ran</em>
+* `Fin` (617; 87% of non-empty `VerbForm`): <em>eo, oa, vo, zo, vez, ra, en deus, voe, emañ, ran</em>
 * `Inf` (24; 3% of non-empty `VerbForm`): <em>bezañ, vezañ, Rankout, Bez', Gallout, dleout, gellout, vout</em>
-* `Part` (68; 10% of non-empty `VerbForm`): <em>bet, graet, gellet</em>
-* `EMPTY` (622): <em>a, e, o, en, na, vefe, ', ez, c'hellfe, oc'h</em>
+* `Part` (67; 9% of non-empty `VerbForm`): <em>bet, graet, gellet</em>
+* `EMPTY` (621): <em>a, e, o, en, na, vefe, ', ez, c'hellfe, oc'h</em>
 
 <table>
   <tr><th>Paradigm <i>bezañ</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>

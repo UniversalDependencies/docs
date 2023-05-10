@@ -35,4 +35,4 @@ Some adjectives, when referring specifically to a male person, take a masculine 
 
 * [sv] _den <b>arbetslöse</b>_ "the unemployed (man)"
 * [sv] _den <b>brittiske</b> författaren_ "the British author"
-<!-- Interlanguage links updated Po lis 14 15:34:46 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:37 CEST -->

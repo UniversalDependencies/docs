@@ -24,7 +24,7 @@ The following 11 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 2 5 ccomp	color:blue
 1	Die	die	DET	LB	Definite=Def|PronType=Art	2	det	_	_
 2	inligting	inligting	NOUN	NM	Number=Sing	10	nsubj:pass	_	_
-3	wat	wat	PRON	PB	PronType=Rel	5	nsubj	_	_
+3	wat	wat	PRON	PB	PronType=Rel	5	obj	_	_
 4	jy	jy	PRON	PTENP	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
 5	verstrek	verstrek	VERB	VTHOG	Subcat=Tran|Tense=Pres|VerbForm=Fin,Inf	2	ccomp	_	SpaceAfter=No
 6	,	,	PUNCT	ZM	_	5	punct	_	_
@@ -72,7 +72,7 @@ The following 11 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 2	jy	jy	PRON	PTENP	Case=Nom|Number=Sing|Person=2|PronType=Prs	11	nsubj	_	_
 3	of	of	CCONJ	KN	_	2	cc	_	_
 4	iemand	iemand	PRON	PO	PronType=Ind	2	conj	_	_
-5	wat	wat	PRON	PB	PronType=Rel	7	nsubj	_	_
+5	wat	wat	PRON	PB	PronType=Rel	7	obj	_	_
 6	jy	jy	PRON	PTENP	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	_
 7	ken	ken	VERB	VTHOG	Subcat=Tran|Tense=Pres|VerbForm=Fin,Inf	4	ccomp	_	_
 8	hierdie	hierdie	DET	PA	PronType=Dem	10	det	_	_

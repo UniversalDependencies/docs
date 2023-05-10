@@ -9,26 +9,27 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Past`, `Pres`.
 
-9636 tokens (12%) have a non-empty value of `Tense`.
-1259 types (12%) occur at least once with a non-empty value of `Tense`.
-468 lemmas (8%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 6 part-of-speech tags: <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (4944; 6% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (4672; 6% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (14; 0% instances), <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+9649 tokens (12%) have a non-empty value of `Tense`.
+1261 types (12%) occur at least once with a non-empty value of `Tense`.
+467 lemmas (8%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 5 part-of-speech tags: <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (4958; 6% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (4672; 6% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (14; 0% instances), <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (2; 0% instances).
 
 ### `VERB`
 
-4944 <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> tokens (53% of all `VERB` tokens) have a non-empty value of `Tense`.
+4958 <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> tokens (53% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4608; 93%), <tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4167; 84%), <tt><a href="is_modern-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4084; 83%), <tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3364; 68%), <tt><a href="is_modern-feat-Person.html">Person</a></tt><tt>=3</tt> (3184; 64%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4717; 95%), <tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4276; 86%), <tt><a href="is_modern-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4092; 83%), <tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3474; 70%), <tt><a href="is_modern-feat-Person.html">Person</a></tt><tt>=3</tt> (3287; 66%).
 
 `VERB` tokens may have the following values of `Tense`:
 
-* `Past` (1422; 29% of non-empty `Tense`): <em>sagði, kom, ætti, fór, tók, vann, varð, átti, velti, nefndi</em>
-* `Pres` (3522; 71% of non-empty `Tense`): <em>held, hringir, kemur, á, þakka, finnst, þarf, verður, eigum, verði</em>
-* `EMPTY` (4353): <em>gera, fara, taka, koma, varðandi, segja, gert, vinna, sjá, fá</em>
+* `Past` (1421; 29% of non-empty `Tense`): <em>sagði, kom, ætti, fór, tók, vann, varð, átti, velti, nefndi</em>
+* `Pres` (3537; 71% of non-empty `Tense`): <em>hringir, held, kemur, á, þakka, finnst, þarf, verður, eigum, verði</em>
+* `EMPTY` (4337): <em>gera, fara, taka, koma, varðandi, segja, gert, vinna, sjá, fá</em>
 
 <table>
   <tr><th>Paradigm <i>koma</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
   <tr><td><tt><tt><a href="is_modern-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>komandi</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="is_modern-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="is_modern-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>komið</em></td><td></td></tr>
   <tr><td><tt><tt><a href="is_modern-feat-Mood.html">Mood</a></tt><tt>=Ind</tt></tt></td><td><em>kemst, kemur, koma</em></td><td><em>komu</em></td></tr>
   <tr><td><tt><tt><a href="is_modern-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="is_modern-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>kem</em></td><td><em>kom</em></td></tr>
   <tr><td><tt><tt><a href="is_modern-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="is_modern-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td><em>kemst</em></td><td><em>komst</em></td></tr>
@@ -105,21 +106,13 @@ The most frequent other feature values with which `NOUN` and `Tense` co-occurred
 `ADP` tokens may have the following values of `Tense`:
 
 * `Pres` (2; 100% of non-empty `Tense`): <em>á</em>
-* `EMPTY` (10380): <em>í, á, til, um, með, fyrir, við, af, að, fram</em>
-
-### `SCONJ`
-
-1 <tt><a href="is_modern-pos-SCONJ.html">SCONJ</a></tt> tokens (0% of all `SCONJ` tokens) have a non-empty value of `Tense`.
-
-`SCONJ` tokens may have the following values of `Tense`:
-
-* `Pres` (1; 100% of non-empty `Tense`): <em>er</em>
-* `EMPTY` (3675): <em>að, sem, ef, þegar, hvort, nema, þó, þótt, er, og</em>
+* `EMPTY` (10207): <em>í, á, til, um, með, fyrir, við, af, að, fram</em>
 
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>VERB --[<tt><a href="is_modern-dep-conj.html">conj</a></tt>]--> VERB</tt> (387; 54%),
+<tt>VERB --[<tt><a href="is_modern-dep-obl.html">obl</a></tt>]--> AUX</tt> (4; 57%),
 <tt>AUX --[<tt><a href="is_modern-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 100%),
 <tt>VERB --[<tt><a href="is_modern-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (2; 100%),
 <tt>AUX --[<tt><a href="is_modern-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (1; 100%),

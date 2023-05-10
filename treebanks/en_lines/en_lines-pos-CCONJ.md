@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_English-LinES: POS Tags: `CCONJ`
 
-There are 15 `CCONJ` lemmas (0%), 15 `CCONJ` types (0%) and 2950 `CCONJ` tokens (3%).
-Out of 17 observed tags, the rank of `CCONJ` is: 14 in number of lemmas, 14 in number of types and 11 in number of tokens.
+There are 16 `CCONJ` lemmas (0%), 16 `CCONJ` types (0%) and 2951 `CCONJ` tokens (3%).
+Out of 17 observed tags, the rank of `CCONJ` is: 13 in number of lemmas, 14 in number of types and 11 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>and, but, or, nor, both, neither, as, either, for, only</em>
 
@@ -61,7 +61,7 @@ The 10 most frequent ambiguous types:  <em>and</em> (<tt><a href="en_lines-pos-C
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.241168).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.241306).
 
 The 1st highest number of forms (1) was observed with the lemma “&amp;”: <em>&amp;</em>.
 
@@ -74,17 +74,17 @@ The 3rd highest number of forms (1) was observed with the lemma “as”: <em>as
 `CCONJ` occurs with 1 feature-value pairs: `Case=Nom`
 
 `CCONJ` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (2934 tokens).
+The most frequent feature combination is `_` (2935 tokens).
 Examples: <em>and, but, or, nor, both, neither, either, for, &amp;, except</em>
 
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 8 different relations: <tt><a href="en_lines-dep-cc.html">cc</a></tt> (2921; 99% instances), <tt><a href="en_lines-dep-fixed.html">fixed</a></tt> (15; 1% instances), <tt><a href="en_lines-dep-advmod.html">advmod</a></tt> (5; 0% instances), <tt><a href="en_lines-dep-mark.html">mark</a></tt> (5; 0% instances), <tt><a href="en_lines-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="en_lines-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="en_lines-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="en_lines-dep-root.html">root</a></tt> (1; 0% instances)
+`CCONJ` nodes are attached to their parents using 8 different relations: <tt><a href="en_lines-dep-cc.html">cc</a></tt> (2923; 99% instances), <tt><a href="en_lines-dep-fixed.html">fixed</a></tt> (15; 1% instances), <tt><a href="en_lines-dep-advmod.html">advmod</a></tt> (5; 0% instances), <tt><a href="en_lines-dep-mark.html">mark</a></tt> (4; 0% instances), <tt><a href="en_lines-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="en_lines-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="en_lines-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="en_lines-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 14 different parts of speech: <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (1469; 50% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (877; 30% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (275; 9% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (109; 4% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> (84; 3% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (56; 2% instances), <tt><a href="en_lines-pos-NUM.html">NUM</a></tt> (35; 1% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (23; 1% instances), <tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (8; 0% instances), <tt><a href="en_lines-pos-PART.html">PART</a></tt> (7; 0% instances), <tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), <tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances),  (1; 0% instances), <tt><a href="en_lines-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 14 different parts of speech: <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (1467; 50% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (879; 30% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (275; 9% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (109; 4% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> (84; 3% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (57; 2% instances), <tt><a href="en_lines-pos-NUM.html">NUM</a></tt> (35; 1% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (23; 1% instances), <tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (8; 0% instances), <tt><a href="en_lines-pos-PART.html">PART</a></tt> (7; 0% instances), <tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), <tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances),  (1; 0% instances), <tt><a href="en_lines-pos-X.html">X</a></tt> (1; 0% instances)
 
-2929 (99%) `CCONJ` nodes are leaves.
+2930 (99%) `CCONJ` nodes are leaves.
 
 10 (0%) `CCONJ` nodes have one child.
 

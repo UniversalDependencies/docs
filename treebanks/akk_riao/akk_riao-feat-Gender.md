@@ -10,8 +10,8 @@ This feature is universal.
 It occurs with 3 different values: `Com`, `Fem`, `Masc`.
 
 15888 tokens (69%) have a non-empty value of `Gender`.
-2257 types (77%) occur at least once with a non-empty value of `Gender`.
-1142 lemmas (73%) occur at least once with a non-empty value of `Gender`.
+2258 types (77%) occur at least once with a non-empty value of `Gender`.
+1143 lemmas (73%) occur at least once with a non-empty value of `Gender`.
 The feature is used with 7 part-of-speech tags: <tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt> (8706; 38% instances), <tt><a href="akk_riao-pos-VERB.html">VERB</a></tt> (2957; 13% instances), <tt><a href="akk_riao-pos-PRON.html">PRON</a></tt> (1610; 7% instances), <tt><a href="akk_riao-pos-PROPN.html">PROPN</a></tt> (1584; 7% instances), <tt><a href="akk_riao-pos-ADJ.html">ADJ</a></tt> (894; 4% instances), <tt><a href="akk_riao-pos-DET.html">DET</a></tt> (93; 0% instances), <tt><a href="akk_riao-pos-NUM.html">NUM</a></tt> (44; 0% instances).
 
 ### `NOUN`
@@ -27,7 +27,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 * `Masc` (5625; 65% of non-empty `Gender`): <em>šar, mār, šarru, ālāni, libbi, ilāni, šadê, bēli, alpī, kakkī</em>
 * `EMPTY` (23): <em>x, x-x-x, x-ba-meš, x-e, x-i-te, x-x-x.MEŠ, x-šunu, x.MEŠ, {NA₄}x</em>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 97% lemmas (672) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 97% lemmas (673) occur only with one value of `Gender`.
 
 ### `VERB`
 
@@ -122,7 +122,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>PROPN --[<tt><a href="akk_riao-dep-appos.html">appos</a></tt>]--> NOUN</tt> (1457; 90%),
-<tt>VERB --[<tt><a href="akk_riao-dep-conj.html">conj</a></tt>]--> VERB</tt> (900; 88%),
+<tt>VERB --[<tt><a href="akk_riao-dep-conj.html">conj</a></tt>]--> VERB</tt> (899; 88%),
 <tt>NOUN --[<tt><a href="akk_riao-dep-conj.html">conj</a></tt>]--> NOUN</tt> (792; 69%),
 <tt>NOUN --[<tt><a href="akk_riao-dep-amod.html">amod</a></tt>]--> ADJ</tt> (779; 99%),
 <tt>PROPN --[<tt><a href="akk_riao-dep-conj.html">conj</a></tt>]--> PROPN</tt> (122; 67%),

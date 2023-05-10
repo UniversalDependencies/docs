@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>ilẹ̀</em> (<tt><a href="yo_ytb-pos
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 1.003185 (the average of all parts of speech is 1.006112).
+The form / lemma ratio of `NOUN` is 1.003185 (the average of all parts of speech is 1.007344).
 
 The 1st highest number of forms (2) was observed with the lemma “Epo”: <em>EPO, Epo</em>.
 
@@ -60,12 +60,12 @@ The 2nd highest number of forms (2) was observed with the lemma “ẹsẹ̀”:
 
 The 3rd highest number of forms (2) was observed with the lemma “ọwọ́”: <em>lọ́wọ́, ọwọ́</em>.
 
-`NOUN` occurs with 5 features: <tt><a href="yo_ytb-feat-Typo.html">Typo</a></tt> (5; 0% instances), <tt><a href="yo_ytb-feat-Case.html">Case</a></tt> (2; 0% instances), <tt><a href="yo_ytb-feat-Number.html">Number</a></tt> (2; 0% instances), <tt><a href="yo_ytb-feat-Person.html">Person</a></tt> (2; 0% instances), <tt><a href="yo_ytb-feat-PronType.html">PronType</a></tt> (2; 0% instances)
+`NOUN` occurs with 5 features: <tt><a href="yo_ytb-feat-Typo.html">Typo</a></tt> (6; 0% instances), <tt><a href="yo_ytb-feat-Case.html">Case</a></tt> (2; 0% instances), <tt><a href="yo_ytb-feat-Number.html">Number</a></tt> (2; 0% instances), <tt><a href="yo_ytb-feat-Person.html">Person</a></tt> (2; 0% instances), <tt><a href="yo_ytb-feat-PronType.html">PronType</a></tt> (2; 0% instances)
 
 `NOUN` occurs with 6 feature-value pairs: `Case=Acc`, `Case=Nom`, `Number=Sing`, `Person=1`, `PronType=Prs`, `Typo=Yes`
 
 `NOUN` occurs with 4 feature combinations.
-The most frequent feature combination is `_` (1509 tokens).
+The most frequent feature combination is `_` (1508 tokens).
 Examples: <em>Ọlọ́run, ènìyàn, ohun, ọmọ, ilẹ̀, ilé, ọ̀run, ojú, ojúewé, àgùntàn</em>
 
 

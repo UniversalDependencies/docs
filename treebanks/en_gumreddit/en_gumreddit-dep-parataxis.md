@@ -56,7 +56,7 @@ The following 22 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
 # visual-style 13 16 parataxis	color:blue
-1	_	_	NOUN	NN	Number=Sing	0	root	0:root	Discourse=elaboration-additional:67->66:0|Entity=(74-object-new-cf6-1-coref|Lem=*LOWER*|Len=4
+1	_	_	NOUN	NN	Number=Sing	0	root	0:root	Discourse=elaboration-additional:68->67:0|Entity=(74-object-new-cf6-1-coref|Lem=*LOWER*|Len=4
 2	_	_	ADP	IN	_	6	case	6:case	Lem=_|Len=2
 3	_	_	DET	DT	Definite=Def|PronType=Art	6	det	6:det	Entity=(75-object-new-cf5-4-sgl|Lem=_|Len=3
 4	_	_	ADJ	JJ	Degree=Pos	6	amod	6:amod	Lem=_|Len=5
@@ -70,7 +70,7 @@ The following 22 pairs of parts of speech are connected with `parataxis`: <tt><a
 12	_	_	NOUN	NN	Number=Sing	13	compound	13:compound	Lem=_|Len=7
 13	_	_	NOUN	NN	Number=Sing	9	parataxis	9:parataxis	Entity=77)|Lem=_|Len=4|SpaceAfter=No
 14	_	_	PUNCT	,	_	16	punct	16:punct	Lem=_|Len=1
-15	_	_	NOUN	NNS	Number=Plur	16	nsubj	16:nsubj	Discourse=evaluation-comment:68->66:1|Entity=(78-person-new-cf4-1-sgl)|Lem=person|Len=6
+15	_	_	NOUN	NNS	Number=Plur	16	nsubj	16:nsubj	Discourse=evaluation-comment:69->67:1|Entity=(78-person-new-cf4-1-sgl)|Lem=person|Len=6
 16	_	_	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	parataxis	13:parataxis	Lem=_|Len=4
 17	_	_	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	16	obj	16:obj	Bridge=74<79|Entity=(79-abstract-acc:inf-cf1-1-sgl)|Lem=_|Len=2|SpaceAfter=No
 18	_	_	PUNCT	.	_	1	punct	1:punct	Lem=_|Len=1
@@ -84,12 +84,12 @@ The following 22 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 10 parataxis	color:blue
-1	_	_	PRON	DT	Number=Sing|PronType=Dem	2	nsubj	2:nsubj	Discourse=evaluation-comment:91->82:2|Entity=(81-abstract-giv:act-cf1*-1-coref)|Lem=*LOWER*|Len=4
+1	_	_	PRON	DT	Number=Sing|PronType=Dem	2	nsubj	2:nsubj	Discourse=evaluation-comment:93->84:1|Entity=(81-abstract-giv:act-cf1*-1-coref)|Lem=*LOWER*|Len=4
 2	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Lem=make|Len=5
 3	_	_	ADJ	JJR	Degree=Cmp	4	amod	4:amod	Lem=_|Len=4
 4	_	_	NOUN	NN	Number=Sing	2	obj	2:obj	Lem=_|Len=5|SpaceAfter=No
 5	_	_	PUNCT	,	_	10	punct	10:punct	Lem=_|Len=1
-6	_	_	ADV	WRB	PronType=Int	10	advmod	10:advmod	Discourse=adversative-antithesis:92->93:1|Lem=_|Len=3
+6	_	_	ADV	WRB	PronType=Int	10	advmod	10:advmod	Discourse=adversative-antithesis:94->95:1|Lem=_|Len=3
 7	_	_	AUX	MD	VerbForm=Fin	10	aux	10:aux	Lem=_|Len=5
 8	_	_	NOUN	NNS	Number=Plur	10	nsubj	10:nsubj	Entity=(61-person-giv:act-cf2-1-coref)|Lem=monster|Len=8
 9	_	_	AUX	VB	VerbForm=Inf	10	cop	10:cop	Lem=_|Len=2

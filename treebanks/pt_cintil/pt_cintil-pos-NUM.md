@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>dois</em> (<tt><a href="pt_cintil-pos
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.389398).
+The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.389383).
 
 The 1st highest number of forms (1) was observed with the lemma “%”: <em>%</em>.
 
@@ -60,13 +60,13 @@ The 2nd highest number of forms (1) was observed with the lemma “0”: <em>0</
 
 The 3rd highest number of forms (1) was observed with the lemma “0,02”: <em>0,02</em>.
 
-`NUM` occurs with 2 features: <tt><a href="pt_cintil-feat-Number.html">Number</a></tt> (3862; 55% instances), <tt><a href="pt_cintil-feat-Gender.html">Gender</a></tt> (1938; 28% instances)
+`NUM` occurs with 3 features: <tt><a href="pt_cintil-feat-NumType.html">NumType</a></tt> (7026; 100% instances), <tt><a href="pt_cintil-feat-Number.html">Number</a></tt> (3862; 55% instances), <tt><a href="pt_cintil-feat-Gender.html">Gender</a></tt> (1938; 28% instances)
 
-`NUM` occurs with 4 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`
+`NUM` occurs with 6 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `NumType=Card`, `NumType=Frac`, `Number=Plur`, `Number=Sing`
 
-`NUM` occurs with 6 feature combinations.
-The most frequent feature combination is `_` (3164 tokens).
-Examples: <em>30, 20, 15, 50, 40, 25, 10, 12, 16, II</em>
+`NUM` occurs with 10 feature combinations.
+The most frequent feature combination is `NumType=Card` (3117 tokens).
+Examples: <em>dois, mil, três, duas, quatro, 30, cinco, 20, vinte, duzentos</em>
 
 
 ## Relations

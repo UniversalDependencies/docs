@@ -24,7 +24,7 @@ The following 28 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 12 6 acl	color:blue
 1	_	_	NOUN	_	_	3	compound	_	BBIL=B|BPT=0|LBIL=B|LPOS=0|SpaceAfter=No|UI=16683
 2	_	_	NUM	_	_	3	nummod	_	BBIL=I|BPT=0|LBIL=I|LPOS=0|SpaceAfter=No|UI=54442
-3	_	_	NOUN	_	_	12	dep	_	BBIL=I|BPT=4|LBIL=I|LPOS=0|SpaceAfter=Yes|UI=17392
+3	_	_	NOUN	_	_	12	dep	_	BBIL=I|BPT=4|LBIL=I|LPOS=0|UI=17392
 4	_	_	NOUN	_	_	6	obl	_	BBIL=B|BPT=1|LBIL=B|LPOS=0|SpaceAfter=No|UI=4496
 5	_	_	ADP	_	_	4	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No|UI=5
 6	_	_	VERB	_	_	12	acl	_	BBIL=B|BPT=1|LBIL=B|LPOS=11|SpaceAfter=No|UI=612
@@ -44,7 +44,7 @@ The following 28 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 21	bgColor:blue
 # visual-style 21	fgColor:white
 # visual-style 21 15 acl	color:blue
-1	_	_	NUM	_	_	26	dep	_	BBIL=B|BPT=4|LBIL=B|LPOS=4|SpaceAfter=Yes|UI=80
+1	_	_	NUM	_	_	26	dep	_	BBIL=B|BPT=4|LBIL=B|LPOS=4|UI=80
 2	_	_	NOUN	_	_	3	compound	_	BBIL=B|BPT=0|LBIL=B|LPOS=0|SpaceAfter=No|UI=18928
 3	_	_	NOUN	_	_	6	nmod	_	BBIL=I|BPT=1|LBIL=I|LPOS=0|SpaceAfter=No|UI=22713
 4	_	_	ADP	_	_	3	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No|UI=0
@@ -81,7 +81,7 @@ The following 28 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 9 acl	color:blue
-1	_	_	NOUN	_	_	12	dep	_	BBIL=B|BPT=4|LBIL=B|LPOS=72|SpaceAfter=Yes|UI=1216
+1	_	_	NOUN	_	_	12	dep	_	BBIL=B|BPT=4|LBIL=B|LPOS=72|UI=1216
 2	_	_	NOUN	_	_	5	compound	_	BBIL=B|BPT=0|LBIL=B|LPOS=0|SpaceAfter=No|UI=6885
 3	_	_	ADJ	_	_	5	amod	_	BBIL=I|BPT=0|LBIL=I|LPOS=0|SpaceAfter=No|UI=7183
 4	_	_	NOUN	_	_	5	compound	_	BBIL=I|BPT=0|LBIL=I|LPOS=0|SpaceAfter=No|UI=7177

@@ -26,7 +26,7 @@ The 10 most frequent ambiguous types:  <em>che</em> (<tt><a href="it_twittiro-po
   * <tt><a href="it_twittiro-pos-CCONJ.html">CCONJ</a></tt> 1: <em>Tunisia , nessun italiano tra le vittime . Fortuna <b>che</b> in spiaggia non c' era il wi-fi . [ @user ]</em>
 * <em>se</em>
   * <tt><a href="it_twittiro-pos-SCONJ.html">SCONJ</a></tt> 67: <em><b>se</b> il governo Monti fallisce verrà rimpiazzato da un metronomo</em>
-  * <tt><a href="it_twittiro-pos-PRON.html">PRON</a></tt> 10: <em>@user Ragazzi calma , il Prof . Mario Monti <b>se</b> la cava da solo : e' bocconiano , mica bocchiniano ! ;) by rao</em>
+  * <tt><a href="it_twittiro-pos-PRON.html">PRON</a></tt> 10: <em>@user Ragazzi calma , il Prof. Mario Monti <b>se</b> la cava da solo : e' bocconiano , mica bocchiniano ! ;) by rao</em>
 * <em>quando</em>
   * <tt><a href="it_twittiro-pos-SCONJ.html">SCONJ</a></tt> 26: <em>Ma perchè scegliere Mario Monti <b>quando</b> ci sarebbe Chuck Norris ?</em>
   * <tt><a href="it_twittiro-pos-ADV.html">ADV</a></tt> 1: <em>Sara' l' anno di la buona scuola : <b>quando</b> qualche stzo dira' sara' l' anno di il lavoro ?</em>
@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>che</em> (<tt><a href="it_twittiro-po
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.153846 (the average of all parts of speech is 1.274821).
+The form / lemma ratio of `SCONJ` is 1.153846 (the average of all parts of speech is 1.274961).
 
 The 1st highest number of forms (3) was observed with the lemma “perché”: <em>perche', perchè, perché</em>.
 

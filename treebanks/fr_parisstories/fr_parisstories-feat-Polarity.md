@@ -21,7 +21,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="fr_parisstories-pos
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (169; 100% of non-empty `Polarity`): <em>pas, n', ne, non, qu'</em>
-* `EMPTY` (3372): <em>donc, pas, parce, enfin, plus, vraiment, là, tout, très, même</em>
+* `EMPTY` (3371): <em>donc, pas, parce, enfin, plus, vraiment, là, très, tout, même</em>
 
 ## Relations with Agreement in `Polarity`
 

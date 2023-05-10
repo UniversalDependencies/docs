@@ -35,7 +35,7 @@ The following 1 pairs of parts of speech are connected with `flat:foreign`: <tt>
 10	til	_	ADP	P	_	11	case	_	_
 11	hansara	_	PRON	PRO-G	Case=Gen	9	obl	_	_
 12	um	_	ADP	P	_	13	case	_	_
-13	náttina	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	9	obl	_	SpaceAfter=No
+13	náttina	_	NOUN	N-A	Case=Acc|Definite=Def|Number=Sing	9	obl	_	SpaceAfter=No
 14	,	,	PUNCT	,	_	13	punct	_	_
 15	kom	_	VERB	VBDI	Mood=Ind|Tense=Past	0	root	_	_
 16	eisini	_	ADV	ALSO	_	15	advmod	_	_

@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="es_ancora-pos-DET.h
 
 ### `DET`
 
-72067 <tt><a href="es_ancora-pos-DET.html">DET</a></tt> tokens (86% of all `DET` tokens) have a non-empty value of `Definite`.
+72067 <tt><a href="es_ancora-pos-DET.html">DET</a></tt> tokens (85% of all `DET` tokens) have a non-empty value of `Definite`.
 
 The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (72067; 100%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (57838; 80%), <tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (42570; 59%).
 
@@ -24,11 +24,11 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 
 * `Def` (62495; 87% of non-empty `Definite`): <em>el, la, los, las, a, o, Al, els</em>
 * `Ind` (9572; 13% of non-empty `Definite`): <em>un, una, unos, unas, uno</em>
-* `EMPTY` (12180): <em>su, sus, este, esta, todo, esa, ese, todos, otros, cada</em>
+* `EMPTY` (12335): <em>su, sus, este, esta, todo, esa, ese, todos, otros, cada</em>
 
 ### `PRON`
 
-1152 <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> tokens (4% of all `PRON` tokens) have a non-empty value of `Definite`.
+1152 <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> tokens (5% of all `PRON` tokens) have a non-empty value of `Definite`.
 
 The most frequent other feature values with which `PRON` and `Definite` co-occurred: <tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=3</tt> (1152; 100%), <tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1152; 100%), <tt><a href="es_ancora-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (1152; 100%), <tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Acc</tt> (1151; 100%), <tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1151; 100%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1151; 100%), <tt><a href="es_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt> (1151; 100%).
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `PRON` and `Definite` co-occur
 
 * `Def` (1150; 100% of non-empty `Definite`): <em>lo</em>
 * `Ind` (2; 0% of non-empty `Definite`): <em>LO, les</em>
-* `EMPTY` (24753): <em>que, se, le, lo, me, donde, nos, uno, quien, la</em>
+* `EMPTY` (24054): <em>que, se, le, lo, me, nos, uno, quien, la, les</em>
 
 <table>
   <tr><th>Paradigm <i>él</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>

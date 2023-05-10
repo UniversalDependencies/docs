@@ -29,7 +29,7 @@ The following 1 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 4	ждать	ждать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	csubj	_	_
 5	четверть	четверть	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obl:tmod	_	_
 6	часа	час	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	SpaceAfter=No
-7	!!!	!!!	PUNCT	_	_	3	punct	_	_~
+7	!!!	!!!	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

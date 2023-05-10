@@ -76,7 +76,7 @@ The following 11 pairs of parts of speech are connected with `mark`: <tt><a href
 23	述べ	述べる	VERB	動詞-一般-下一段-バ行	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=動詞-一般-下一段-バ行|SpaceAfter=No|UnidicInfo=,述べる,述べ,述べる,ノベ,,,ノベル,ノベル,述べる
 24	て	て	SCONJ	助詞-接続助詞	_	23	mark	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助動詞-上一段-ア行|SpaceAfter=No|UnidicInfo=,て,て,て,テ,,,テ,テイル,ている
 25	いる	居る	VERB	動詞-非自立可能-上一段-ア行	_	24	fixed	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=I|LUWPOS=助動詞-上一段-ア行|PrevUDLemma=いる|SpaceAfter=No|UnidicInfo=,居る,いる,いる,イル,,,イル,テイル,ている
-26	。	。	PUNCT	補助記号-句点	_	23	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-句点|SpaceAfter=Yes|UnidicInfo=,。,。,。,,,,,,。
+26	。	。	PUNCT	補助記号-句点	_	23	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-句点|UnidicInfo=,。,。,。,,,,,,。
 
 ~~~
 

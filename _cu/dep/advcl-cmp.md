@@ -18,3 +18,4 @@ The `cmp` subtype is of semantic nature and is used to point out the **standards
 8	и	и	ADV	Df	_	9	advmod	_	ref=MATT_6.7
 9	ѩзꙑчъници	ѩзꙑчьникъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	6	advcl:cmp	_	ref=MATT_6.7
 ~~~
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:54 CEST -->

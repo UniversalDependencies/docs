@@ -335,5 +335,6 @@ The most frequent other feature values with which `X` and `VerbForm` co-occurred
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
+<tt>VERB --[<tt><a href="hi_hdtb-dep-obj.html">obj</a></tt>]--> VERB</tt> (1625; 50%),
 <tt>VERB --[<tt><a href="hi_hdtb-dep-conj.html">conj</a></tt>]--> VERB</tt> (794; 56%).
 

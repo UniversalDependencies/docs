@@ -11,7 +11,7 @@ This relation is universal.
 1424 nodes (5%) are attached to their parents as `root`.
 
 1424 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.28651685393258.
+Average distance between parent and child is 5.28441011235955.
 
 The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="it_twittiro-pos-VERB.html">VERB</a></tt> (934; 66% instances), -<tt><a href="it_twittiro-pos-NOUN.html">NOUN</a></tt> (305; 21% instances), -<tt><a href="it_twittiro-pos-ADJ.html">ADJ</a></tt> (74; 5% instances), -<tt><a href="it_twittiro-pos-PROPN.html">PROPN</a></tt> (41; 3% instances), -<tt><a href="it_twittiro-pos-SYM.html">SYM</a></tt> (23; 2% instances), -<tt><a href="it_twittiro-pos-PRON.html">PRON</a></tt> (20; 1% instances), -<tt><a href="it_twittiro-pos-ADV.html">ADV</a></tt> (14; 1% instances), -<tt><a href="it_twittiro-pos-X.html">X</a></tt> (6; 0% instances), -<tt><a href="it_twittiro-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), -<tt><a href="it_twittiro-pos-AUX.html">AUX</a></tt> (2; 0% instances), -<tt><a href="it_twittiro-pos-ADP.html">ADP</a></tt> (1; 0% instances), -<tt><a href="it_twittiro-pos-DET.html">DET</a></tt> (1; 0% instances).
 
@@ -85,7 +85,7 @@ The following 12 pairs of parts of speech are connected with `root`: -<tt><a hre
 14	“	“	PUNCT	FB	_	3	punct	_	_
 15	[	[	PUNCT	FB	_	16	punct	_	SpaceAfter=No
 16	@user	@user	SYM	SYM	_	3	dep	_	SpaceAfter=No
-17	]	]	PUNCT	FB	_	16	punct	_	SpaceAfter=\n
+17	]	]	PUNCT	FB	_	16	punct	_	SpacesAfter=\n
 
 ~~~
 

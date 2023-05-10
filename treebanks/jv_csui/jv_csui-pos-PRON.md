@@ -6,75 +6,81 @@ udver: '2'
 
 ## Treebank Statistics: UD_Javanese-CSUI: POS Tags: `PRON`
 
-There are 25 `PRON` lemmas (2%), 28 `PRON` types (2%) and 110 `PRON` tokens (5%).
-Out of 17 observed tags, the rank of `PRON` is: 9 in number of lemmas, 9 in number of types and 7 in number of tokens.
+There are 1 `PRON` lemmas (6%), 62 `PRON` types (2%) and 961 `PRON` tokens (7%).
+Out of 17 observed tags, the rank of `PRON` is: 11 in number of lemmas, 10 in number of types and 5 in number of tokens.
 
-The 10 most frequent `PRON` lemmas: <em>ingkang, é, ipun, kang, piyambakipun, apa, dhèwèké, panjenenganipun, aku, kabèh</em>
+The 10 most frequent `PRON` lemmas: <em>_</em>
 
-The 10 most frequent `PRON` types:  <em>ingkang, kang, ipun, é, piyambakipun, né, dhèwèké, panjenenganipun, apa, aku</em>
+The 10 most frequent `PRON` types:  <em>sing, e, kang, aku, ku, ingkang, dak, dheweke, apa, mu</em>
 
-The 10 most frequent ambiguous lemmas: <em>é</em> (<tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> 17, <tt><a href="jv_csui-pos-DET.html">DET</a></tt> 7), <em>ipun</em> (<tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> 13, <tt><a href="jv_csui-pos-DET.html">DET</a></tt> 5), <em>sing</em> (<tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> 2, <tt><a href="jv_csui-pos-DET.html">DET</a></tt> 1), <em>dhèwè</em> (<tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> 1, <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt> 1), <em>iki</em> (<tt><a href="jv_csui-pos-DET.html">DET</a></tt> 6, <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> 1), <em>iku</em> (<tt><a href="jv_csui-pos-DET.html">DET</a></tt> 1, <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> 1), <em>kana</em> (<tt><a href="jv_csui-pos-DET.html">DET</a></tt> 1, <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> 1), <em>punika</em> (<tt><a href="jv_csui-pos-DET.html">DET</a></tt> 23, <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> 2867, <tt><a href="jv_csui-pos-PUNCT.html">PUNCT</a></tt> 2233, <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt> 1952, <tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> 1573, <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> 961, <tt><a href="jv_csui-pos-ADV.html">ADV</a></tt> 798, <tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> 748, <tt><a href="jv_csui-pos-ADJ.html">ADJ</a></tt> 736, <tt><a href="jv_csui-pos-DET.html">DET</a></tt> 701, <tt><a href="jv_csui-pos-NUM.html">NUM</a></tt> 362, <tt><a href="jv_csui-pos-AUX.html">AUX</a></tt> 340, <tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> 314, <tt><a href="jv_csui-pos-CCONJ.html">CCONJ</a></tt> 306, <tt><a href="jv_csui-pos-PART.html">PART</a></tt> 234, <tt><a href="jv_csui-pos-X.html">X</a></tt> 175, <tt><a href="jv_csui-pos-INTJ.html">INTJ</a></tt> 32, <tt><a href="jv_csui-pos-SYM.html">SYM</a></tt> 12)
 
-The 10 most frequent ambiguous types:  <em>ipun</em> (<tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> 11, <tt><a href="jv_csui-pos-DET.html">DET</a></tt> 3), <em>é</em> (<tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> 11, <tt><a href="jv_csui-pos-DET.html">DET</a></tt> 6), <em>né</em> (<tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> 6, <tt><a href="jv_csui-pos-DET.html">DET</a></tt> 1), <em>nipun</em> (<tt><a href="jv_csui-pos-DET.html">DET</a></tt> 2, <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> 2), <em>sing</em> (<tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> 2, <tt><a href="jv_csui-pos-DET.html">DET</a></tt> 1), <em>iku</em> (<tt><a href="jv_csui-pos-AUX.html">AUX</a></tt> 3, <tt><a href="jv_csui-pos-DET.html">DET</a></tt> 1, <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> 1), <em>kana</em> (<tt><a href="jv_csui-pos-DET.html">DET</a></tt> 1, <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>sing</em> (<tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> 155, <tt><a href="jv_csui-pos-DET.html">DET</a></tt> 5), <em>e</em> (<tt><a href="jv_csui-pos-DET.html">DET</a></tt> 318, <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> 135), <em>ingkang</em> (<tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> 37, <tt><a href="jv_csui-pos-DET.html">DET</a></tt> 1), <em>apa</em> (<tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> 15, <tt><a href="jv_csui-pos-ADV.html">ADV</a></tt> 3), <em>iki</em> (<tt><a href="jv_csui-pos-DET.html">DET</a></tt> 49, <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> 11), <em>kabeh</em> (<tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> 11, <tt><a href="jv_csui-pos-DET.html">DET</a></tt> 9), <em>ipun</em> (<tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> 15, <tt><a href="jv_csui-pos-DET.html">DET</a></tt> 12), <em>kuwi</em> (<tt><a href="jv_csui-pos-DET.html">DET</a></tt> 53, <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> 12), <em>iku</em> (<tt><a href="jv_csui-pos-DET.html">DET</a></tt> 78, <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> 10), <em>mbok</em> (<tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> 9, <tt><a href="jv_csui-pos-PART.html">PART</a></tt> 2)
 
 
-* <em>ipun</em>
-  * <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> 11: <em>Potter asring nggatosakèn kéwan-kéwan punika ngantos pinten-pinten jam lan damèl gambar <b>ipun</b> .</em>
-  * <tt><a href="jv_csui-pos-DET.html">DET</a></tt> 3: <em>Ingkang kapisanan inggih punika " analisis <b>ipun</b> babagan tumindak ngirit kluwarga " .</em>
-* <em>é</em>
-  * <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> 11: <em>Jeneng <b>é</b> disebutaké kaping 27 ing Al-Quran .</em>
-  * <tt><a href="jv_csui-pos-DET.html">DET</a></tt> 6: <em>Temon <b>é</b> ing kana wujud prasasti watu .</em>
-* <em>né</em>
-  * <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> 6: <em>Karya <b>né</b> kang paling wigati yaiku Trilogi Cinta ( 爱情的三部曲 ) .</em>
-  * <tt><a href="jv_csui-pos-DET.html">DET</a></tt> 1: <em>Gunggung subunit isa macem-macem malah ning sèl kang padha conto <b>né</b> ning Salmonella kang gunggung subunit é antara 3 , 4 , utawa 5 .</em>
-* <em>nipun</em>
-  * <tt><a href="jv_csui-pos-DET.html">DET</a></tt> 2: <em>Pramila putra nipun ingkang asma Drestarastra - rama <b>nipun</b> para Korawa , miyos ipun wuta .</em>
-  * <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> 2: <em>Pramila putra <b>nipun</b> ingkang asma Drestarastra - rama nipun para Korawa , miyos ipun wuta .</em>
 * <em>sing</em>
-  * <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> 2: <em>Tembang punika dipunbektakaken déning Tommy Edwards lan dados nomer 1 <b>sing</b> misuwur ing taun 1958 !</em>
-  * <tt><a href="jv_csui-pos-DET.html">DET</a></tt> 1: <em>Dados ing dalu punika 3 rookie dipuneliminasi , kaliyan Skip Sheffield dipuneliminasi amargi ing pertandhingan pro , urutan é <b>sing</b> pungkasan pertandhingan iku .</em>
+  * <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> 155: <em>Bocah kuwi seneng nggambar sesawangan <b>sing</b> asri .</em>
+  * <tt><a href="jv_csui-pos-DET.html">DET</a></tt> 5: <em>Swara e Pak Badhi ora cepet ditanggapi <b>sing</b> tandur .</em>
+* <em>e</em>
+  * <tt><a href="jv_csui-pos-DET.html">DET</a></tt> 318: <em>Beras <b>e</b> mau wadhahna karung , ora mamit-mawut .</em>
+  * <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> 135: <em>Mbakyu <b>e</b> seneng nglangi , nanging adhi <b>e</b> ora seneng .</em>
+* <em>ingkang</em>
+  * <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> 37: <em>Ing audhisi mau , namung 11 tiyang <b>ingkang</b> dipuntampi saking 2.396 tiyang pelamar .</em>
+  * <tt><a href="jv_csui-pos-DET.html">DET</a></tt> 1: <em>Raden Gathotkaca kaparingan pusaka dening <b>ingkang</b> Rama .</em>
+* <em>apa</em>
+  * <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> 15: <em>" Wes ta ndang , arep dhahar <b>apa</b> ? Sisan ngunjuke , Mas . ”</em>
+  * <tt><a href="jv_csui-pos-ADV.html">ADV</a></tt> 3: <em>“ Le , <b>apa</b> kowe kepengin laptop ? ”</em>
+* <em>iki</em>
+  * <tt><a href="jv_csui-pos-DET.html">DET</a></tt> 49: <em>Taun <b>iki</b> pamarentah ngundhakake rega bensin .</em>
+  * <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> 11: <em>Mbiyen , yen Ruwah ngene <b>iki</b> , isa ana las-lasan gunggung e wong pesen .</em>
+* <em>kabeh</em>
+  * <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> 11: <em>Teka-teka wis rampungan <b>kabeh</b> .</em>
+  * <tt><a href="jv_csui-pos-DET.html">DET</a></tt> 9: <em>Bu Guru minangka ketua panitya ngaturake panuwun marang tamu <b>kabeh</b> .</em>
+* <em>ipun</em>
+  * <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> 15: <em>Potter asring nggatosaken kewan-kewan punika ngantos pinten-pinten jam lan damel gambar <b>ipun</b> .</em>
+  * <tt><a href="jv_csui-pos-DET.html">DET</a></tt> 12: <em>Umpami <b>ipun</b> , tembung sumur , gelas , lan kursi .</em>
+* <em>kuwi</em>
+  * <tt><a href="jv_csui-pos-DET.html">DET</a></tt> 53: <em>Bocah <b>kuwi</b> seneng nggambar sesawangan sing asri .</em>
+  * <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> 12: <em>Satemene pamikiran kanggo <b>kuwi</b> dudu 16 Juni .</em>
 * <em>iku</em>
-  * <tt><a href="jv_csui-pos-AUX.html">AUX</a></tt> 3: <em>Surah Al-Lahab utawa Al-Masad <b>iku</b> surat nomer 111 sajeroning Al-Qur'an .</em>
-  * <tt><a href="jv_csui-pos-DET.html">DET</a></tt> 1: <em>Dados ing dalu punika 3 rookie dipuneliminasi , kaliyan Skip Sheffield dipuneliminasi amargi ing pertandhingan pro , urutan é sing pungkasan pertandhingan <b>iku</b> .</em>
-  * <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> 1: <em>Nganti pertengahan 1986 baé , AS wis sumadya dana ora kurang sak milyar dollar ( aji nalika <b>iku</b> ) nganti nggawa implikasi ing tingkat pulitik antara né Washington karo Tel-Aviv .</em>
-* <em>kana</em>
-  * <tt><a href="jv_csui-pos-DET.html">DET</a></tt> 1: <em>Kelinci mangsuli , " Oh , kuwi swara manuk Crek-crek saka Gunung Crek-crek ing <b>kana</b> . "</em>
-  * <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> 1: <em>Temon é ing <b>kana</b> wujud prasasti watu .</em>
+  * <tt><a href="jv_csui-pos-DET.html">DET</a></tt> 78: <em>Surah Al-Lahab utawa Al-Masad <b>iku</b> surat nomer 111 sajeroning Al-Qur'an .</em>
+  * <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> 10: <em>Saliyane <b>iku</b> , saperangan warga e uga ana sing dodolan panganan .</em>
+* <em>mbok</em>
+  * <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> 9: <em>Mumpung sela , <b>mbok</b> adus-adus dhisik !</em>
+  * <tt><a href="jv_csui-pos-PART.html">PART</a></tt> 2: <em>Ngombe-ngombe es ki , <b>mbok</b> mengko yen wis awan .</em>
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 1.120000 (the average of all parts of speech is 1.014388).
+The form / lemma ratio of `PRON` is 62.000000 (the average of all parts of speech is 238.235294).
 
-The 1st highest number of forms (2) was observed with the lemma “apa”: <em>apa, apa-apa</em>.
+The 1st highest number of forms (62) was observed with the lemma “_”: <em>Rene, Saperangan, aku, apa, apa-apa, awake, awakmu, dak, dewe, dhekne, dhewe, dheweke, diri, e, gene, iki, iku, ingkang, ingsun, ipun, kabeh, kang, kekalihipun, ki, kita, kok, kowe, ku, kula, kuwi, mangkene, mangkono, mawon, mbok, mengkana, mu, napa, napa-napa, ngapa, ngendi, ngendi-endi, ngendi-ngendi, ngene, ngono, niki, niku, pak, panjenengan, panjenengane, panjenenganipun, piyambake, piyambakipun, punapa, pundi, punika, sapa, semana, sing, sinten, sira, tak, upa</em>.
 
-The 2nd highest number of forms (2) was observed with the lemma “ingkang”: <em>ingkang, kang</em>.
+`PRON` occurs with 6 features: <tt><a href="jv_csui-feat-PronType.html">PronType</a></tt> (953; 99% instances), <tt><a href="jv_csui-feat-Polite.html">Polite</a></tt> (946; 98% instances), <tt><a href="jv_csui-feat-Number.html">Number</a></tt> (489; 51% instances), <tt><a href="jv_csui-feat-Person.html">Person</a></tt> (488; 51% instances), <tt><a href="jv_csui-feat-Reflex.html">Reflex</a></tt> (3; 0% instances), <tt><a href="jv_csui-feat-Abbr.html">Abbr</a></tt> (1; 0% instances)
 
-The 3rd highest number of forms (2) was observed with the lemma “ipun”: <em>ipun, nipun</em>.
+`PRON` occurs with 16 feature-value pairs: `Abbr=Yes`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Polite=Elev`, `Polite=Form`, `Polite=Infm`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Prs`, `PronType=Rel`, `PronType=Tot`, `Reflex=Yes`
 
-`PRON` occurs with 5 features: <tt><a href="jv_csui-feat-PronType.html">PronType</a></tt> (110; 100% instances), <tt><a href="jv_csui-feat-Polite.html">Polite</a></tt> (103; 94% instances), <tt><a href="jv_csui-feat-Number.html">Number</a></tt> (56; 51% instances), <tt><a href="jv_csui-feat-Person.html">Person</a></tt> (56; 51% instances), <tt><a href="jv_csui-feat-Reflex.html">Reflex</a></tt> (1; 1% instances)
-
-`PRON` occurs with 12 feature-value pairs: `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Polite=Elev`, `Polite=Form`, `Polite=Infm`, `PronType=Dem`, `PronType=Prs`, `PronType=Rel`, `PronType=Tot`, `Reflex=Yes`
-
-`PRON` occurs with 15 feature combinations.
-The most frequent feature combination is `Polite=Form|PronType=Rel` (25 tokens).
-Examples: <em>ingkang, kang</em>
+`PRON` occurs with 23 feature combinations.
+The most frequent feature combination is `Polite=Infm|PronType=Rel` (306 tokens).
+Examples: <em>sing, kang, apa, sapa, apa-apa</em>
 
 
 ## Relations
 
-`PRON` nodes are attached to their parents using 7 different relations: <tt><a href="jv_csui-dep-nsubj.html">nsubj</a></tt> (52; 47% instances), <tt><a href="jv_csui-dep-nmod-poss.html">nmod:poss</a></tt> (30; 27% instances), <tt><a href="jv_csui-dep-nsubj-pass.html">nsubj:pass</a></tt> (11; 10% instances), <tt><a href="jv_csui-dep-obl.html">obl</a></tt> (6; 5% instances), <tt><a href="jv_csui-dep-nmod.html">nmod</a></tt> (5; 5% instances), <tt><a href="jv_csui-dep-fixed.html">fixed</a></tt> (3; 3% instances), <tt><a href="jv_csui-dep-obj.html">obj</a></tt> (3; 3% instances)
+`PRON` nodes are attached to their parents using 18 different relations: <tt><a href="jv_csui-dep-nsubj.html">nsubj</a></tt> (492; 51% instances), <tt><a href="jv_csui-dep-nmod-poss.html">nmod:poss</a></tt> (220; 23% instances), <tt><a href="jv_csui-dep-obl.html">obl</a></tt> (77; 8% instances), <tt><a href="jv_csui-dep-nsubj-pass.html">nsubj:pass</a></tt> (68; 7% instances), <tt><a href="jv_csui-dep-obj.html">obj</a></tt> (39; 4% instances), <tt><a href="jv_csui-dep-nmod.html">nmod</a></tt> (23; 2% instances), <tt><a href="jv_csui-dep-advcl.html">advcl</a></tt> (9; 1% instances), <tt><a href="jv_csui-dep-root.html">root</a></tt> (9; 1% instances), <tt><a href="jv_csui-dep-conj.html">conj</a></tt> (5; 1% instances), <tt><a href="jv_csui-dep-fixed.html">fixed</a></tt> (4; 0% instances), <tt><a href="jv_csui-dep-compound.html">compound</a></tt> (3; 0% instances), <tt><a href="jv_csui-dep-parataxis.html">parataxis</a></tt> (3; 0% instances), <tt><a href="jv_csui-dep-appos.html">appos</a></tt> (2; 0% instances), <tt><a href="jv_csui-dep-iobj.html">iobj</a></tt> (2; 0% instances), <tt><a href="jv_csui-dep-obl-agent.html">obl:agent</a></tt> (2; 0% instances), <tt><a href="jv_csui-dep-det.html">det</a></tt> (1; 0% instances), <tt><a href="jv_csui-dep-nsubj-outer.html">nsubj:outer</a></tt> (1; 0% instances), <tt><a href="jv_csui-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
 
-Parents of `PRON` nodes belong to 8 different parts of speech: <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt> (50; 45% instances), <tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> (37; 34% instances), <tt><a href="jv_csui-pos-ADJ.html">ADJ</a></tt> (12; 11% instances), <tt><a href="jv_csui-pos-ADV.html">ADV</a></tt> (4; 4% instances), <tt><a href="jv_csui-pos-X.html">X</a></tt> (3; 3% instances), <tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="jv_csui-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> (1; 1% instances)
+Parents of `PRON` nodes belong to 9 different parts of speech: <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt> (544; 57% instances), <tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> (256; 27% instances), <tt><a href="jv_csui-pos-ADJ.html">ADJ</a></tt> (111; 12% instances), <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> (15; 2% instances), <tt><a href="jv_csui-pos-ADV.html">ADV</a></tt> (12; 1% instances), <tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> (9; 1% instances),  (9; 1% instances), <tt><a href="jv_csui-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="jv_csui-pos-NUM.html">NUM</a></tt> (2; 0% instances)
 
-100 (91%) `PRON` nodes are leaves.
+831 (86%) `PRON` nodes are leaves.
 
-7 (6%) `PRON` nodes have one child.
+79 (8%) `PRON` nodes have one child.
 
-3 (3%) `PRON` nodes have two children.
+27 (3%) `PRON` nodes have two children.
 
-The highest child degree of a `PRON` node is 2.
+24 (2%) `PRON` nodes have three or more children.
 
-Children of `PRON` nodes are attached using 8 different relations: <tt><a href="jv_csui-dep-case.html">case</a></tt> (3; 23% instances), <tt><a href="jv_csui-dep-nmod-lmod.html">nmod:lmod</a></tt> (3; 23% instances), <tt><a href="jv_csui-dep-mark.html">mark</a></tt> (2; 15% instances), <tt><a href="jv_csui-dep-det.html">det</a></tt> (1; 8% instances), <tt><a href="jv_csui-dep-nmod.html">nmod</a></tt> (1; 8% instances), <tt><a href="jv_csui-dep-nmod-poss.html">nmod:poss</a></tt> (1; 8% instances), <tt><a href="jv_csui-dep-obl.html">obl</a></tt> (1; 8% instances), <tt><a href="jv_csui-dep-obl-agent.html">obl:agent</a></tt> (1; 8% instances)
+The highest child degree of a `PRON` node is 8.
 
-Children of `PRON` nodes belong to 6 different parts of speech: <tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> (5; 38% instances), <tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> (3; 23% instances), <tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> (2; 15% instances), <tt><a href="jv_csui-pos-DET.html">DET</a></tt> (1; 8% instances), <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> (1; 8% instances), <tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> (1; 8% instances)
+Children of `PRON` nodes are attached using 26 different relations: <tt><a href="jv_csui-dep-case.html">case</a></tt> (52; 23% instances), <tt><a href="jv_csui-dep-punct.html">punct</a></tt> (42; 18% instances), <tt><a href="jv_csui-dep-advmod.html">advmod</a></tt> (29; 13% instances), <tt><a href="jv_csui-dep-nsubj.html">nsubj</a></tt> (16; 7% instances), <tt><a href="jv_csui-dep-acl-relcl.html">acl:relcl</a></tt> (14; 6% instances), <tt><a href="jv_csui-dep-det.html">det</a></tt> (13; 6% instances), <tt><a href="jv_csui-dep-conj.html">conj</a></tt> (12; 5% instances), <tt><a href="jv_csui-dep-nmod.html">nmod</a></tt> (8; 3% instances), <tt><a href="jv_csui-dep-nmod-lmod.html">nmod:lmod</a></tt> (7; 3% instances), <tt><a href="jv_csui-dep-cc.html">cc</a></tt> (4; 2% instances), <tt><a href="jv_csui-dep-discourse.html">discourse</a></tt> (4; 2% instances), <tt><a href="jv_csui-dep-mark.html">mark</a></tt> (4; 2% instances), <tt><a href="jv_csui-dep-advcl.html">advcl</a></tt> (3; 1% instances), <tt><a href="jv_csui-dep-compound.html">compound</a></tt> (3; 1% instances), <tt><a href="jv_csui-dep-vocative.html">vocative</a></tt> (3; 1% instances), <tt><a href="jv_csui-dep-acl.html">acl</a></tt> (2; 1% instances), <tt><a href="jv_csui-dep-advmod-emph.html">advmod:emph</a></tt> (2; 1% instances), <tt><a href="jv_csui-dep-nmod-tmod.html">nmod:tmod</a></tt> (2; 1% instances), <tt><a href="jv_csui-dep-parataxis.html">parataxis</a></tt> (2; 1% instances), <tt><a href="jv_csui-dep-aux.html">aux</a></tt> (1; 0% instances), <tt><a href="jv_csui-dep-flat-name.html">flat:name</a></tt> (1; 0% instances), <tt><a href="jv_csui-dep-nmod-poss.html">nmod:poss</a></tt> (1; 0% instances), <tt><a href="jv_csui-dep-nummod.html">nummod</a></tt> (1; 0% instances), <tt><a href="jv_csui-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="jv_csui-dep-obl.html">obl</a></tt> (1; 0% instances), <tt><a href="jv_csui-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
+
+Children of `PRON` nodes belong to 15 different parts of speech: <tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> (52; 23% instances), <tt><a href="jv_csui-pos-PUNCT.html">PUNCT</a></tt> (42; 18% instances), <tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> (28; 12% instances), <tt><a href="jv_csui-pos-ADV.html">ADV</a></tt> (23; 10% instances), <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt> (19; 8% instances), <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> (15; 7% instances), <tt><a href="jv_csui-pos-DET.html">DET</a></tt> (14; 6% instances), <tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> (11; 5% instances), <tt><a href="jv_csui-pos-PART.html">PART</a></tt> (8; 3% instances), <tt><a href="jv_csui-pos-CCONJ.html">CCONJ</a></tt> (4; 2% instances), <tt><a href="jv_csui-pos-INTJ.html">INTJ</a></tt> (4; 2% instances), <tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> (4; 2% instances), <tt><a href="jv_csui-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="jv_csui-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="jv_csui-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 

@@ -7,28 +7,23 @@ udver: '2'
 ## Treebank Statistics: UD_Xavante-XDT: Features: `Tense`
 
 This feature is universal.
-It occurs with 2 different values: `Past`, `Pres`.
+It occurs with 3 different values: `Fut`, `Past`, `Pres`.
 
-4 tokens (3%) have a non-empty value of `Tense`.
-2 types (3%) occur at least once with a non-empty value of `Tense`.
-3 lemmas (6%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 1 part-of-speech tags: <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> (4; 3% instances).
+153 tokens (10%) have a non-empty value of `Tense`.
+5 types (1%) occur at least once with a non-empty value of `Tense`.
+3 lemmas (1%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 1 part-of-speech tags: <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> (153; 10% instances).
 
-### `PRON`
+### `PART`
 
-4 <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> tokens (25% of all `PRON` tokens) have a non-empty value of `Tense`.
+153 <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> tokens (44% of all `PART` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `PRON` and `Tense` co-occurred: <tt><a href="xav_xdt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (3; 75%).
+The most frequent other feature values with which `PART` and `Tense` co-occurred: <tt><a href="xav_xdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (153; 100%), <tt><a href="xav_xdt-feat-Htp.html">Htp</a></tt><tt>=Yes</tt> (140; 92%).
 
-`PRON` tokens may have the following values of `Tense`:
+`PART` tokens may have the following values of `Tense`:
 
-* `Past` (3; 75% of non-empty `Tense`): <em>wa, ma</em>
-* `Pres` (1; 25% of non-empty `Tense`): <em>ma</em>
-* `EMPTY` (12): <em>wa, te, dzahuré, dzaʔrani, ni, uburé, wama, waré</em>
-
-<table>
-  <tr><th>Paradigm <i>ma</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
-  <tr><td><tt><tt><a href="xav_xdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="xav_xdt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>ma</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="xav_xdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>ma</em></td></tr>
-</table>
+* `Fut` (13; 8% of non-empty `Tense`): <em>dza</em>
+* `Past` (31; 20% of non-empty `Tense`): <em>ma</em>
+* `Pres` (109; 71% of non-empty `Tense`): <em>te</em>
+* `EMPTY` (196): <em>dza'ra, e, norĩ, wa, norĩhã, õ, hã, tô, aba, wa'aba</em>
 

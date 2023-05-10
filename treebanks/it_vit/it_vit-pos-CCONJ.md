@@ -65,14 +65,14 @@ The 10 most frequent ambiguous types:  <em>e</em> (<tt><a href="it_vit-pos-CCONJ
   * <tt><a href="it_vit-pos-SCONJ.html">SCONJ</a></tt> 8: <em>Salvo che lui , a differenza di Agostino , era disposto a far carte false e a giocar si l' anima <b>pur</b> di partire .</em>
 * <em>intanto</em>
   * <tt><a href="it_vit-pos-ADV.html">ADV</a></tt> 11: <em>Restano , <b>intanto</b> , le sequenze di una indagine lunga sedici mesi .</em>
-  * <tt><a href="it_vit-pos-CCONJ.html">CCONJ</a></tt> 6: <em>Gli impegni tecnici netti sono <b>intanto</b> saliti a 581 miliardi ( +11,8% ) .</em>
+  * <tt><a href="it_vit-pos-CCONJ.html">CCONJ</a></tt> 6: <em>E <b>intanto</b> il dibattito , a l' interno di la comunità scientifica , cresce .</em>
 * <em>anzi</em>
   * <tt><a href="it_vit-pos-ADV.html">ADV</a></tt> 14: <em>I preliminari sono importanti e , <b>anzi</b> , tanto più sono lunghi tanta maggiore è la soddisfazione finale " .</em>
   * <tt><a href="it_vit-pos-CCONJ.html">CCONJ</a></tt> 8: <em>" quando dicono che l' Olivo ha accettato una riforma in senso presidenzialista e federalista dicono una cosa non precisa , <b>anzi</b> non vera .</em>
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.038961 (the average of all parts of speech is 1.498207).
+The form / lemma ratio of `CCONJ` is 1.038961 (the average of all parts of speech is 1.501634).
 
 The 1st highest number of forms (2) was observed with the lemma “come”: <em>com', come</em>.
 
@@ -93,7 +93,7 @@ Examples: <em>e, ma, o, ed, come, sia, che, cioè, ovvero, nonché</em>
 
 `CCONJ` nodes are attached to their parents using 17 different relations: <tt><a href="it_vit-dep-cc.html">cc</a></tt> (8122; 98% instances), <tt><a href="it_vit-dep-fixed.html">fixed</a></tt> (44; 1% instances), <tt><a href="it_vit-dep-advmod.html">advmod</a></tt> (19; 0% instances), <tt><a href="it_vit-dep-mark.html">mark</a></tt> (19; 0% instances), <tt><a href="it_vit-dep-conj.html">conj</a></tt> (17; 0% instances), <tt><a href="it_vit-dep-case.html">case</a></tt> (15; 0% instances), <tt><a href="it_vit-dep-obl.html">obl</a></tt> (7; 0% instances), <tt><a href="it_vit-dep-root.html">root</a></tt> (7; 0% instances), <tt><a href="it_vit-dep-appos.html">appos</a></tt> (6; 0% instances), <tt><a href="it_vit-dep-nsubj.html">nsubj</a></tt> (2; 0% instances), <tt><a href="it_vit-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="it_vit-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="it_vit-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="it_vit-dep-flat-foreign.html">flat:foreign</a></tt> (1; 0% instances), <tt><a href="it_vit-dep-iobj.html">iobj</a></tt> (1; 0% instances), <tt><a href="it_vit-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="it_vit-dep-obj.html">obj</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 15 different parts of speech: <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (3682; 45% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (2402; 29% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (977; 12% instances), <tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt> (577; 7% instances), <tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (211; 3% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (192; 2% instances), <tt><a href="it_vit-pos-ADV.html">ADV</a></tt> (159; 2% instances), <tt><a href="it_vit-pos-CCONJ.html">CCONJ</a></tt> (16; 0% instances), <tt><a href="it_vit-pos-ADP.html">ADP</a></tt> (14; 0% instances), <tt><a href="it_vit-pos-X.html">X</a></tt> (10; 0% instances), <tt><a href="it_vit-pos-INTJ.html">INTJ</a></tt> (7; 0% instances),  (7; 0% instances), <tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="it_vit-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="it_vit-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances)
+Parents of `CCONJ` nodes belong to 16 different parts of speech: <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (3683; 45% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (2400; 29% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (977; 12% instances), <tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt> (577; 7% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (193; 2% instances), <tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (174; 2% instances), <tt><a href="it_vit-pos-ADV.html">ADV</a></tt> (159; 2% instances), <tt><a href="it_vit-pos-SYM.html">SYM</a></tt> (37; 0% instances), <tt><a href="it_vit-pos-CCONJ.html">CCONJ</a></tt> (16; 0% instances), <tt><a href="it_vit-pos-ADP.html">ADP</a></tt> (14; 0% instances), <tt><a href="it_vit-pos-X.html">X</a></tt> (10; 0% instances), <tt><a href="it_vit-pos-INTJ.html">INTJ</a></tt> (7; 0% instances),  (7; 0% instances), <tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="it_vit-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="it_vit-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances)
 
 8207 (99%) `CCONJ` nodes are leaves.
 

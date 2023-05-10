@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_German-PUD: POS Tags: `NUM`
 
-There are 207 `NUM` lemmas (4%), 207 `NUM` types (3%) and 353 `NUM` tokens (2%).
+There are 209 `NUM` lemmas (4%), 209 `NUM` types (3%) and 356 `NUM` tokens (2%).
 Out of 16 observed tags, the rank of `NUM` is: 6 in number of lemmas, 6 in number of types and 12 in number of tokens.
 
 The 10 most frequent `NUM` lemmas: <em>zwei, drei, vier, 3, sechs, zehn, 1, 10, 50, 100</em>
 
 The 10 most frequent `NUM` types:  <em>zwei, drei, vier, 3, sechs, zehn, 1, 10, 50, 100</em>
 
-The 10 most frequent ambiguous lemmas: <em>zwei</em> (<tt><a href="de_pud-pos-NUM.html">NUM</a></tt> 22, <tt><a href="de_pud-pos-DET.html">DET</a></tt> 1, <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>3</em> (<tt><a href="de_pud-pos-NUM.html">NUM</a></tt> 7, <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> 1), <em>1</em> (<tt><a href="de_pud-pos-NUM.html">NUM</a></tt> 5, <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>10</em> (<tt><a href="de_pud-pos-NUM.html">NUM</a></tt> 5, <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>sieben</em> (<tt><a href="de_pud-pos-NUM.html">NUM</a></tt> 3, <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>-</em> (<tt><a href="de_pud-pos-PUNCT.html">PUNCT</a></tt> 178, <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> 2, <tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 1), <em>16</em> (<tt><a href="de_pud-pos-NUM.html">NUM</a></tt> 2, <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> 1), <em>31</em> (<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> 2), <em>6</em> (<tt><a href="de_pud-pos-NUM.html">NUM</a></tt> 2, <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> 1), <em>21</em> (<tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>zwei</em> (<tt><a href="de_pud-pos-NUM.html">NUM</a></tt> 23, <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>3</em> (<tt><a href="de_pud-pos-NUM.html">NUM</a></tt> 7, <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> 1), <em>1</em> (<tt><a href="de_pud-pos-NUM.html">NUM</a></tt> 5, <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>10</em> (<tt><a href="de_pud-pos-NUM.html">NUM</a></tt> 5, <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>sieben</em> (<tt><a href="de_pud-pos-NUM.html">NUM</a></tt> 3, <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>-</em> (<tt><a href="de_pud-pos-PUNCT.html">PUNCT</a></tt> 178, <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> 2, <tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 1), <em>16</em> (<tt><a href="de_pud-pos-NUM.html">NUM</a></tt> 2, <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> 1), <em>31</em> (<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> 2), <em>6</em> (<tt><a href="de_pud-pos-NUM.html">NUM</a></tt> 2, <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> 1), <em>21</em> (<tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>3</em> (<tt><a href="de_pud-pos-NUM.html">NUM</a></tt> 7, <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> 1), <em>1</em> (<tt><a href="de_pud-pos-NUM.html">NUM</a></tt> 5, <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>-</em> (<tt><a href="de_pud-pos-PUNCT.html">PUNCT</a></tt> 178, <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> 2, <tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 1), <em>16</em> (<tt><a href="de_pud-pos-NUM.html">NUM</a></tt> 2, <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> 1), <em>31</em> (<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> 2), <em>21.</em> (<tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> 1), <em>4</em> (<tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> 1), <em>III</em> (<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> 1)
 
@@ -46,32 +46,32 @@ The 10 most frequent ambiguous types:  <em>3</em> (<tt><a href="de_pud-pos-NUM.h
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.195641).
+The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.198007).
 
-The 1st highest number of forms (1) was observed with the lemma “-”: <em>-</em>.
+The 1st highest number of forms (2) was observed with the lemma “zwei”: <em>zwei, zweier</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “1”: <em>1</em>.
+The 2nd highest number of forms (1) was observed with the lemma “-”: <em>-</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “1,165”: <em>1,165</em>.
+The 3rd highest number of forms (1) was observed with the lemma “1”: <em>1</em>.
 
-`NUM` occurs with 4 features: <tt><a href="de_pud-feat-NumType.html">NumType</a></tt> (353; 100% instances), <tt><a href="de_pud-feat-Case.html">Case</a></tt> (1; 0% instances), <tt><a href="de_pud-feat-Gender.html">Gender</a></tt> (1; 0% instances), <tt><a href="de_pud-feat-Number.html">Number</a></tt> (1; 0% instances)
+`NUM` occurs with 4 features: <tt><a href="de_pud-feat-NumType.html">NumType</a></tt> (356; 100% instances), <tt><a href="de_pud-feat-Case.html">Case</a></tt> (4; 1% instances), <tt><a href="de_pud-feat-Gender.html">Gender</a></tt> (4; 1% instances), <tt><a href="de_pud-feat-Number.html">Number</a></tt> (4; 1% instances)
 
-`NUM` occurs with 4 feature-value pairs: `Case=Acc`, `Gender=Masc`, `NumType=Card`, `Number=Plur`
+`NUM` occurs with 9 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Gender=Fem`, `Gender=Masc`, `NumType=Card`, `NumType=Ord`, `Number=Plur`, `Number=Sing`
 
-`NUM` occurs with 2 feature combinations.
+`NUM` occurs with 5 feature combinations.
 The most frequent feature combination is `NumType=Card` (352 tokens).
 Examples: <em>zwei, drei, vier, 3, sechs, zehn, 1, 10, 50, 100</em>
 
 
 ## Relations
 
-`NUM` nodes are attached to their parents using 9 different relations: <tt><a href="de_pud-dep-nummod.html">nummod</a></tt> (226; 64% instances), <tt><a href="de_pud-dep-obl-tmod.html">obl:tmod</a></tt> (69; 20% instances), <tt><a href="de_pud-dep-obl.html">obl</a></tt> (17; 5% instances), <tt><a href="de_pud-dep-nmod.html">nmod</a></tt> (13; 4% instances), <tt><a href="de_pud-dep-conj.html">conj</a></tt> (12; 3% instances), <tt><a href="de_pud-dep-compound.html">compound</a></tt> (10; 3% instances), <tt><a href="de_pud-dep-nsubj.html">nsubj</a></tt> (4; 1% instances), <tt><a href="de_pud-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 0% instances), <tt><a href="de_pud-dep-obj.html">obj</a></tt> (1; 0% instances)
+`NUM` nodes are attached to their parents using 10 different relations: <tt><a href="de_pud-dep-nummod.html">nummod</a></tt> (227; 64% instances), <tt><a href="de_pud-dep-obl-tmod.html">obl:tmod</a></tt> (69; 19% instances), <tt><a href="de_pud-dep-obl.html">obl</a></tt> (17; 5% instances), <tt><a href="de_pud-dep-nmod.html">nmod</a></tt> (14; 4% instances), <tt><a href="de_pud-dep-conj.html">conj</a></tt> (12; 3% instances), <tt><a href="de_pud-dep-compound.html">compound</a></tt> (10; 3% instances), <tt><a href="de_pud-dep-nsubj.html">nsubj</a></tt> (4; 1% instances), <tt><a href="de_pud-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="de_pud-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 0% instances), <tt><a href="de_pud-dep-obj.html">obj</a></tt> (1; 0% instances)
 
-Parents of `NUM` nodes belong to 7 different parts of speech: <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (242; 69% instances), <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (66; 19% instances), <tt><a href="de_pud-pos-SYM.html">SYM</a></tt> (22; 6% instances), <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> (16; 5% instances), <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="de_pud-pos-DET.html">DET</a></tt> (1; 0% instances)
+Parents of `NUM` nodes belong to 6 different parts of speech: <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (245; 69% instances), <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (66; 19% instances), <tt><a href="de_pud-pos-SYM.html">SYM</a></tt> (22; 6% instances), <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> (16; 4% instances), <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (5; 1% instances), <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt> (2; 1% instances)
 
-253 (72%) `NUM` nodes are leaves.
+255 (72%) `NUM` nodes are leaves.
 
-73 (21%) `NUM` nodes have one child.
+74 (21%) `NUM` nodes have one child.
 
 17 (5%) `NUM` nodes have two children.
 
@@ -79,7 +79,7 @@ Parents of `NUM` nodes belong to 7 different parts of speech: <tt><a href="de_pu
 
 The highest child degree of a `NUM` node is 6.
 
-Children of `NUM` nodes are attached using 13 different relations: <tt><a href="de_pud-dep-advmod.html">advmod</a></tt> (38; 26% instances), <tt><a href="de_pud-dep-case.html">case</a></tt> (31; 22% instances), <tt><a href="de_pud-dep-punct.html">punct</a></tt> (26; 18% instances), <tt><a href="de_pud-dep-cc.html">cc</a></tt> (11; 8% instances), <tt><a href="de_pud-dep-conj.html">conj</a></tt> (11; 8% instances), <tt><a href="de_pud-dep-nmod.html">nmod</a></tt> (11; 8% instances), <tt><a href="de_pud-dep-compound.html">compound</a></tt> (5; 3% instances), <tt><a href="de_pud-dep-det.html">det</a></tt> (3; 2% instances), <tt><a href="de_pud-dep-cop.html">cop</a></tt> (2; 1% instances), <tt><a href="de_pud-dep-nsubj.html">nsubj</a></tt> (2; 1% instances), <tt><a href="de_pud-dep-obl-tmod.html">obl:tmod</a></tt> (2; 1% instances), <tt><a href="de_pud-dep-acl-relcl.html">acl:relcl</a></tt> (1; 1% instances), <tt><a href="de_pud-dep-cc-preconj.html">cc:preconj</a></tt> (1; 1% instances)
+Children of `NUM` nodes are attached using 13 different relations: <tt><a href="de_pud-dep-advmod.html">advmod</a></tt> (38; 26% instances), <tt><a href="de_pud-dep-case.html">case</a></tt> (31; 21% instances), <tt><a href="de_pud-dep-punct.html">punct</a></tt> (27; 19% instances), <tt><a href="de_pud-dep-cc.html">cc</a></tt> (11; 8% instances), <tt><a href="de_pud-dep-conj.html">conj</a></tt> (11; 8% instances), <tt><a href="de_pud-dep-nmod.html">nmod</a></tt> (11; 8% instances), <tt><a href="de_pud-dep-compound.html">compound</a></tt> (5; 3% instances), <tt><a href="de_pud-dep-det.html">det</a></tt> (3; 2% instances), <tt><a href="de_pud-dep-cop.html">cop</a></tt> (2; 1% instances), <tt><a href="de_pud-dep-nsubj.html">nsubj</a></tt> (2; 1% instances), <tt><a href="de_pud-dep-obl-tmod.html">obl:tmod</a></tt> (2; 1% instances), <tt><a href="de_pud-dep-acl-relcl.html">acl:relcl</a></tt> (1; 1% instances), <tt><a href="de_pud-dep-cc-preconj.html">cc:preconj</a></tt> (1; 1% instances)
 
-Children of `NUM` nodes belong to 11 different parts of speech: <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> (38; 26% instances), <tt><a href="de_pud-pos-ADP.html">ADP</a></tt> (31; 22% instances), <tt><a href="de_pud-pos-PUNCT.html">PUNCT</a></tt> (26; 18% instances), <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> (16; 11% instances), <tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> (12; 8% instances), <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt> (8; 6% instances), <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (6; 4% instances), <tt><a href="de_pud-pos-DET.html">DET</a></tt> (3; 2% instances), <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances)
+Children of `NUM` nodes belong to 12 different parts of speech: <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> (37; 26% instances), <tt><a href="de_pud-pos-ADP.html">ADP</a></tt> (31; 21% instances), <tt><a href="de_pud-pos-PUNCT.html">PUNCT</a></tt> (27; 19% instances), <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> (16; 11% instances), <tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> (12; 8% instances), <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt> (8; 6% instances), <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (6; 4% instances), <tt><a href="de_pud-pos-DET.html">DET</a></tt> (3; 2% instances), <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="de_pud-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances)
 

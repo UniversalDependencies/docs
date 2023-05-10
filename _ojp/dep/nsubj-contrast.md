@@ -12,3 +12,4 @@ Used in opposition to the nsubj:situation. Used with mo, koso, zo.
 nsubj:contrast(なし, 四方拝も)
 nsubj:contrast(行はれず, 節会も)
 ~~~
+<!-- Interlanguage links updated Út 9. května 2023, 20:04:23 CEST -->

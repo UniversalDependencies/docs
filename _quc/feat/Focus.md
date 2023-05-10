@@ -16,4 +16,4 @@ There is focus marking present.
 
 * [quc] _Ajqʼojom ri a Teʼk._ "Diego es marimbista."
 * [quc] _<b>Are</b> le Tuʼr le loqʼomanel._ "Es Venturo el comprador."
-<!-- Interlanguage links updated Po lis 14 15:34:45 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:37 CEST -->

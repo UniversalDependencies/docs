@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  <em>või</em> (<tt><a href="et_edt-pos-CC
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.157895 (the average of all parts of speech is 1.914326).
+The form / lemma ratio of `CCONJ` is 1.157895 (the average of all parts of speech is 1.914345).
 
 The 1st highest number of forms (2) was observed with the lemma “aga”: <em>A, aga</em>.
 
@@ -65,12 +65,12 @@ The 2nd highest number of forms (2) was observed with the lemma “e”: <em>e, 
 
 The 3rd highest number of forms (2) was observed with the lemma “ja”: <em>-ja, ja</em>.
 
-`CCONJ` occurs with 5 features: <tt><a href="et_edt-feat-Polarity.html">Polarity</a></tt> (274; 2% instances), <tt><a href="et_edt-feat-Abbr.html">Abbr</a></tt> (13; 0% instances), <tt><a href="et_edt-feat-Case.html">Case</a></tt> (1; 0% instances), <tt><a href="et_edt-feat-Foreign.html">Foreign</a></tt> (1; 0% instances), <tt><a href="et_edt-feat-Number.html">Number</a></tt> (1; 0% instances)
+`CCONJ` occurs with 3 features: <tt><a href="et_edt-feat-Polarity.html">Polarity</a></tt> (274; 2% instances), <tt><a href="et_edt-feat-Abbr.html">Abbr</a></tt> (13; 0% instances), <tt><a href="et_edt-feat-Foreign.html">Foreign</a></tt> (1; 0% instances)
 
-`CCONJ` occurs with 5 feature-value pairs: `Abbr=Yes`, `Case=Gen`, `Foreign=Yes`, `Number=Sing`, `Polarity=Neg`
+`CCONJ` occurs with 3 feature-value pairs: `Abbr=Yes`, `Foreign=Yes`, `Polarity=Neg`
 
-`CCONJ` occurs with 5 feature combinations.
-The most frequent feature combination is `_` (15845 tokens).
+`CCONJ` occurs with 4 feature combinations.
+The most frequent feature combination is `_` (15846 tokens).
 Examples: <em>ja, ning, või, aga, kuid, kui, vaid, ehk, ent, kuni</em>
 
 
@@ -78,7 +78,7 @@ Examples: <em>ja, ning, või, aga, kuid, kui, vaid, ehk, ent, kuni</em>
 
 `CCONJ` nodes are attached to their parents using 9 different relations: <tt><a href="et_edt-dep-cc.html">cc</a></tt> (16119; 100% instances), <tt><a href="et_edt-dep-cc-preconj.html">cc:preconj</a></tt> (4; 0% instances), <tt><a href="et_edt-dep-fixed.html">fixed</a></tt> (3; 0% instances), <tt><a href="et_edt-dep-mark.html">mark</a></tt> (2; 0% instances), <tt><a href="et_edt-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="et_edt-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="et_edt-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="et_edt-dep-flat.html">flat</a></tt> (1; 0% instances), <tt><a href="et_edt-dep-nsubj-cop.html">nsubj:cop</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 14 different parts of speech: <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (6569; 41% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (5642; 35% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (1777; 11% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (1138; 7% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (495; 3% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (269; 2% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (170; 1% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (29; 0% instances), <tt><a href="et_edt-pos-DET.html">DET</a></tt> (18; 0% instances), <tt><a href="et_edt-pos-X.html">X</a></tt> (8; 0% instances), <tt><a href="et_edt-pos-ADP.html">ADP</a></tt> (7; 0% instances), <tt><a href="et_edt-pos-INTJ.html">INTJ</a></tt> (6; 0% instances), <tt><a href="et_edt-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances),  (2; 0% instances)
+Parents of `CCONJ` nodes belong to 14 different parts of speech: <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (6569; 41% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (5642; 35% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (1776; 11% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (1138; 7% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (495; 3% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (269; 2% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (171; 1% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (29; 0% instances), <tt><a href="et_edt-pos-DET.html">DET</a></tt> (18; 0% instances), <tt><a href="et_edt-pos-X.html">X</a></tt> (8; 0% instances), <tt><a href="et_edt-pos-ADP.html">ADP</a></tt> (7; 0% instances), <tt><a href="et_edt-pos-INTJ.html">INTJ</a></tt> (6; 0% instances), <tt><a href="et_edt-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances),  (2; 0% instances)
 
 16130 (100%) `CCONJ` nodes are leaves.
 

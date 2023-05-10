@@ -9,72 +9,72 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ga_twittirish-dep-parataxis.html">parataxis</a></tt>.
 There are also 3 other language-specific subtypes of `parataxis`: <tt><a href="ga_twittirish-dep-parataxis-hashtag.html">parataxis:hashtag</a></tt>, <tt><a href="ga_twittirish-dep-parataxis-rt.html">parataxis:rt</a></tt>, <tt><a href="ga_twittirish-dep-parataxis-url.html">parataxis:url</a></tt>.
 
-478 nodes (3%) are attached to their parents as `parataxis:sentence`.
+1369 nodes (3%) are attached to their parents as `parataxis:sentence`.
 
-477 instances of `parataxis:sentence` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.63598326359833.
+1366 instances of `parataxis:sentence` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 9.3791088385683.
 
-The following 54 pairs of parts of speech are connected with `parataxis:sentence`: <tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt> (109; 23% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt> (67; 14% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (66; 14% instances), <tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (51; 11% instances), <tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt> (22; 5% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt> (18; 4% instances), <tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt> (16; 3% instances), <tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (14; 3% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt> (12; 3% instances), <tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt> (11; 2% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt> (9; 2% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (8; 2% instances), <tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt> (6; 1% instances), <tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt> (6; 1% instances), <tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt> (5; 1% instances), <tt><a href="ga_twittirish-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt> (4; 1% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_twittirish-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="ga_twittirish-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ga_twittirish-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="ga_twittirish-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="ga_twittirish-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_twittirish-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_twittirish-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_twittirish-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_twittirish-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-DET.html">DET</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ga_twittirish-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_twittirish-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-SYM.html">SYM</a></tt>-<tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-SYM.html">SYM</a></tt>-<tt><a href="ga_twittirish-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_twittirish-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_twittirish-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-X.html">X</a></tt>-<tt><a href="ga_twittirish-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-X.html">X</a></tt>-<tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-X.html">X</a></tt>-<tt><a href="ga_twittirish-pos-X.html">X</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 9 parataxis:sentence	color:blue
-1	@Galway_GAA	@Galway_GAA	PROPN	_	_	4	vocative:mention	_	_
-2	@TribesmenGAA	@TribesmenGAA	NOUN	_	_	4	vocative:mention	_	_
-3	Go	go	PART	_	_	4	mark:prt	_	Lang=ga
-4	n-éirí	éirigh	VERB	_	_	0	root	_	Lang=ga
-5	go	go	PART	_	_	6	mark:prt	_	Lang=ga
-6	geal	geal	ADJ	_	_	4	advmod	_	Lang=ga
-7	libh	le	ADP	_	_	4	obl:prep	_	Lang=ga|SpaceAfter=No
-8	!	!	PUNCT	_	_	4	punct	_	_
-9	Gaillimh	Gaillimh	VERB	_	_	4	parataxis:sentence	_	Lang=ga
-10	abú	abú	INTJ	_	_	9	discourse	_	Lang=ga|SpaceAfter=No
-11	!	!	PUNCT	_	_	9	punct	_	_
-
-~~~
+The following 76 pairs of parts of speech are connected with `parataxis:sentence`: <tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt> (274; 20% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (201; 15% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt> (199; 15% instances), <tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (152; 11% instances), <tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (47; 3% instances), <tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt> (47; 3% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt> (41; 3% instances), <tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt> (35; 3% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt> (32; 2% instances), <tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt> (32; 2% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (29; 2% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt> (28; 2% instances), <tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt> (25; 2% instances), <tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt> (20; 1% instances), <tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (16; 1% instances), <tt><a href="ga_twittirish-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt> (14; 1% instances), <tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt> (13; 1% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt> (11; 1% instances), <tt><a href="ga_twittirish-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (10; 1% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt> (10; 1% instances), <tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt> (7; 1% instances), <tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt> (7; 1% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-INTJ.html">INTJ</a></tt> (7; 1% instances), <tt><a href="ga_twittirish-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_twittirish-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="ga_twittirish-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="ga_twittirish-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_twittirish-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), <tt><a href="ga_twittirish-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="ga_twittirish-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), <tt><a href="ga_twittirish-pos-SYM.html">SYM</a></tt>-<tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_twittirish-pos-SYM.html">SYM</a></tt> (3; 0% instances), <tt><a href="ga_twittirish-pos-X.html">X</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="ga_twittirish-pos-AUX.html">AUX</a></tt>-<tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ga_twittirish-pos-DET.html">DET</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="ga_twittirish-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_twittirish-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="ga_twittirish-pos-X.html">X</a></tt>-<tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_twittirish-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_twittirish-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_twittirish-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ga_twittirish-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ga_twittirish-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_twittirish-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_twittirish-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_twittirish-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_twittirish-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-SYM.html">SYM</a></tt>-<tt><a href="ga_twittirish-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-SYM.html">SYM</a></tt>-<tt><a href="ga_twittirish-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_twittirish-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_twittirish-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-X.html">X</a></tt>-<tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-X.html">X</a></tt>-<tt><a href="ga_twittirish-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-X.html">X</a></tt>-<tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-X.html">X</a></tt>-<tt><a href="ga_twittirish-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 10 parataxis:sentence	color:blue
-1	RT	RT	SYM	_	_	5	parataxis:rt	_	_
-2	@Hill16DubsGAA	@Hill16DubsGAA	PROPN	_	_	5	vocative:mention	_	SpaceAfter=No
-3	:	:	PUNCT	_	_	5	punct	_	_
-4	Is	is	AUX	_	_	5	cop	_	Lang=ga
-5	feidir	féidir	NOUN	_	_	0	root	_	Lang=ga
-6	linn	le	ADP	_	_	5	obl:prep	_	Lang=ga|SpaceAfter=No
-7	?	?	PUNCT	_	_	5	punct	_	_
-8	Yes	yes	INTJ	_	_	10	discourse	_	Lang=en
-9	we	we	PRON	_	_	10	nsubj	_	Lang=en
-10	did	do	VERB	_	_	5	parataxis:sentence	_	Lang=en|SpaceAfter=No
-11	!	!	PUNCT	_	_	10	punct	_	_
-12	#upthedubs	#upthedubs	X	_	_	5	parataxis:hashtag	_	Lang=en
-13	#gaa	#gaa	X	_	_	5	parataxis:hashtag	_	Lang=en
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 5 parataxis:sentence	color:blue
-1	@maitiuocoimin	@maitiuocoimin	PROPN	_	_	2	vocative:mention	_	_
-2	Loch	loch	NOUN	_	_	0	root	_	SpaceAfter=No
-3	?	?	PUNCT	_	_	2	punct	_	_
-4	Ar	ar	ADP	_	_	5	case	_	_
-5	nós	nós	NOUN	_	_	2	parataxis:sentence	_	_
-6	bog	bog	NOUN	_	_	7	nmod	_	CSType=Intra|Lang=en
-7	deal	deal	NOUN	_	_	5	nmod	_	CSType=Intra|Lang=en|SpaceAfter=No
-8	?	?	PUNCT	_	_	5	punct	_	_
+# visual-style 2 8 parataxis:sentence	color:blue
+1	@user877	@user877	PROPN	_	_	2	vocative:mention	_	_
+2	tá	bí	VERB	_	_	0	root	_	Lang=ga
+3	sé	sé	PRON	_	_	2	nsubj	_	Lang=ga
+4	iontach	iontach	ADV	_	_	5	advmod	_	Lang=ga
+5	maith	maith	ADJ	_	_	2	xcomp:pred	_	Lang=ga|SpaceAfter=No
+6	!	!	PUNCT	_	_	2	punct	_	_
+7	Ni	ní	PART	_	_	8	advmod	_	CorrectForm=Ní|Lang=ga
+8	fhaca	feic	VERB	_	_	2	parataxis:sentence	_	Lang=ga
+9	mé	mé	PRON	_	_	8	nsubj	_	Lang=ga
+10	a	an	DET	_	_	11	det:poss	_	Lang=ga
+11	leithid	leithéid	NOUN	_	_	8	obj	_	CorrectForm=leithéid|Lang=ga
+12	riomhe	ríomh	ADP	_	_	8	obl	_	CorrectForm=ríomh|Lang=ga|SpaceAfter=No
+13	!	!	PUNCT	_	_	8	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 6 parataxis:sentence	color:blue
+1	Nach	is	AUX	_	_	2	cop	_	Lang=ga
+2	focal	focal	NOUN	_	_	0	root	_	Lang=ga
+3	é	é	PRON	_	_	4	nmod	_	Lang=ga
+4	cráfach	cráfach	ADJ	_	_	2	nsubj	_	Lang=ga|SpaceAfter=No
+5	?	?	PUNCT	_	_	2	punct	_	_
+6	:o	:o	NOUN	_	_	2	parataxis:sentence	_	Lang=ga
+7	http://t.co/fipvjasyGF	http://t.co/fipvjasyGF	SYM	_	_	2	parataxis:url	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 5 parataxis:sentence	color:blue
+1	Spéirling	spéirling	NOUN	_	_	0	root	_	Lang=ga
+2	an	an	DET	_	_	3	det	_	Lang=ga
+3	fhómhair	fómhar	NOUN	_	_	1	nmod	_	SpaceAfter=No
+4	!	!	PUNCT	_	_	1	punct	_	_
+5	Scuabann	scuab	VERB	_	_	1	parataxis:sentence	_	Lang=ga
+6	roimpi	roimh	ADP	_	_	5	obl:prep	_	Lang=ga
+7	na	na	DET	_	_	8	det	_	Lang=ga
+8	toirc	torc	NOUN	_	_	5	nsubj	_	Lang=ga
+9	allta	allta	ADJ	_	_	8	amod	_	Lang=ga
+10	fiú	fiú	ADV	_	_	5	advmod	_	SpaceAfter=No
+11	!	!	PUNCT	_	_	5	punct	_	_
+12	Bashō	Bashō	PROPN	_	_	5	parataxis:sentence	_	_
 
 ~~~
 

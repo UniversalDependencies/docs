@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Chinese-PUD: POS Tags: `DET`
 
-There are 1 `DET` lemmas (7%), 45 `DET` types (1%) and 355 `DET` tokens (2%).
-Out of 15 observed tags, the rank of `DET` is: 6 in number of lemmas, 10 in number of types and 12 in number of tokens.
+There are 44 `DET` lemmas (1%), 44 `DET` types (1%) and 352 `DET` tokens (2%).
+Out of 15 observed tags, the rank of `DET` is: 9 in number of lemmas, 9 in number of types and 12 in number of tokens.
 
-The 10 most frequent `DET` lemmas: _
+The 10 most frequent `DET` lemmas: 這、 該、 這些、 其他、 那、 所有、 另、 任何、 此、 整個
 
 The 10 most frequent `DET` types:  這、 該、 這些、 其他、 那、 所有、 另、 任何、 此、 整個
 
-The 10 most frequent ambiguous lemmas: _ (<tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> 5410, <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt> 3467, <tt><a href="zh_pud-pos-PUNCT.html">PUNCT</a></tt> 2902, <tt><a href="zh_pud-pos-PART.html">PART</a></tt> 1881, <tt><a href="zh_pud-pos-PROPN.html">PROPN</a></tt> 1361, <tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> 1288, <tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 1283, <tt><a href="zh_pud-pos-NUM.html">NUM</a></tt> 873, <tt><a href="zh_pud-pos-PRON.html">PRON</a></tt> 710, <tt><a href="zh_pud-pos-ADJ.html">ADJ</a></tt> 650, <tt><a href="zh_pud-pos-AUX.html">AUX</a></tt> 618, <tt><a href="zh_pud-pos-DET.html">DET</a></tt> 355, <tt><a href="zh_pud-pos-X.html">X</a></tt> 306, <tt><a href="zh_pud-pos-CCONJ.html">CCONJ</a></tt> 283, <tt><a href="zh_pud-pos-SCONJ.html">SCONJ</a></tt> 28)
+The 10 most frequent ambiguous lemmas: 這 (<tt><a href="zh_pud-pos-DET.html">DET</a></tt> 107, <tt><a href="zh_pud-pos-PRON.html">PRON</a></tt> 45), 那 (<tt><a href="zh_pud-pos-DET.html">DET</a></tt> 21, <tt><a href="zh_pud-pos-PRON.html">PRON</a></tt> 6, <tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 2), 此 (<tt><a href="zh_pud-pos-PRON.html">PRON</a></tt> 20, <tt><a href="zh_pud-pos-DET.html">DET</a></tt> 9), 上 (<tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> 63, <tt><a href="zh_pud-pos-DET.html">DET</a></tt> 4, <tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt> 1), 下 (<tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> 18, <tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="zh_pud-pos-DET.html">DET</a></tt> 4), 全 (<tt><a href="zh_pud-pos-DET.html">DET</a></tt> 4, <tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 2), 前 (<tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> 23, <tt><a href="zh_pud-pos-DET.html">DET</a></tt> 3), 另外 (<tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 4, <tt><a href="zh_pud-pos-DET.html">DET</a></tt> 2), 任 (<tt><a href="zh_pud-pos-DET.html">DET</a></tt> 1, <tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> 1), 後 (<tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> 38, <tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="zh_pud-pos-DET.html">DET</a></tt> 1)
 
 The 10 most frequent ambiguous types:  這 (<tt><a href="zh_pud-pos-DET.html">DET</a></tt> 107, <tt><a href="zh_pud-pos-PRON.html">PRON</a></tt> 45), 那 (<tt><a href="zh_pud-pos-DET.html">DET</a></tt> 21, <tt><a href="zh_pud-pos-PRON.html">PRON</a></tt> 6, <tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 2), 此 (<tt><a href="zh_pud-pos-PRON.html">PRON</a></tt> 20, <tt><a href="zh_pud-pos-DET.html">DET</a></tt> 9), 上 (<tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> 63, <tt><a href="zh_pud-pos-DET.html">DET</a></tt> 4, <tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt> 1), 下 (<tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> 18, <tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="zh_pud-pos-DET.html">DET</a></tt> 4), 全 (<tt><a href="zh_pud-pos-DET.html">DET</a></tt> 4, <tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 2), 前 (<tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> 23, <tt><a href="zh_pud-pos-DET.html">DET</a></tt> 3), 另外 (<tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 4, <tt><a href="zh_pud-pos-DET.html">DET</a></tt> 2), 任 (<tt><a href="zh_pud-pos-DET.html">DET</a></tt> 1, <tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> 1), 後 (<tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> 38, <tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="zh_pud-pos-DET.html">DET</a></tt> 1)
 
@@ -56,20 +56,24 @@ The 10 most frequent ambiguous types:  這 (<tt><a href="zh_pud-pos-DET.html">DE
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 45.000000 (the average of all parts of speech is 388.466667).
+The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.006233).
 
-The 1st highest number of forms (45) was observed with the lemma “_”: 上, 下, 任, 任何, 全, 全副, 全部, 其他, 其它, 其餘, 前, 另, 另外, 各, 各個, 各天, 各樣, 各種, 同, 後, 所有, 整個, 有的, 本, 某, 某些, 某種, 此, 此次, 每, 每位, 每個, 每升, 每天, 每幅, 每年, 每首, 該, 該項, 這, 這些, 那, 那些, 頭, 頭個.
+The 1st highest number of forms (1) was observed with the lemma “上”: 上.
+
+The 2nd highest number of forms (1) was observed with the lemma “下”: 下.
+
+The 3rd highest number of forms (1) was observed with the lemma “任”: 任.
 
 `DET` does not occur with any features.
 
 
 ## Relations
 
-`DET` nodes are attached to their parents using 10 different relations: <tt><a href="zh_pud-dep-det.html">det</a></tt> (335; 94% instances), <tt><a href="zh_pud-dep-nmod.html">nmod</a></tt> (6; 2% instances), <tt><a href="zh_pud-dep-advmod.html">advmod</a></tt> (3; 1% instances), <tt><a href="zh_pud-dep-case-loc.html">case:loc</a></tt> (3; 1% instances), <tt><a href="zh_pud-dep-nsubj.html">nsubj</a></tt> (2; 1% instances), <tt><a href="zh_pud-dep-obl-tmod.html">obl:tmod</a></tt> (2; 1% instances), <tt><a href="zh_pud-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="zh_pud-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="zh_pud-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="zh_pud-dep-obl-agent.html">obl:agent</a></tt> (1; 0% instances)
+`DET` nodes are attached to their parents using 9 different relations: <tt><a href="zh_pud-dep-det.html">det</a></tt> (335; 95% instances), <tt><a href="zh_pud-dep-nmod.html">nmod</a></tt> (6; 2% instances), <tt><a href="zh_pud-dep-obl.html">obl</a></tt> (3; 1% instances), <tt><a href="zh_pud-dep-nsubj.html">nsubj</a></tt> (2; 1% instances), <tt><a href="zh_pud-dep-obl-tmod.html">obl:tmod</a></tt> (2; 1% instances), <tt><a href="zh_pud-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="zh_pud-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="zh_pud-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="zh_pud-dep-obl-agent.html">obl:agent</a></tt> (1; 0% instances)
 
-Parents of `DET` nodes belong to 7 different parts of speech: <tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> (325; 92% instances), <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt> (16; 5% instances), <tt><a href="zh_pud-pos-PROPN.html">PROPN</a></tt> (6; 2% instances), <tt><a href="zh_pud-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="zh_pud-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="zh_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="zh_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances)
+Parents of `DET` nodes belong to 7 different parts of speech: <tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> (322; 91% instances), <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt> (18; 5% instances), <tt><a href="zh_pud-pos-PROPN.html">PROPN</a></tt> (6; 2% instances), <tt><a href="zh_pud-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="zh_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="zh_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="zh_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances)
 
-347 (98%) `DET` nodes are leaves.
+344 (98%) `DET` nodes are leaves.
 
 5 (1%) `DET` nodes have one child.
 

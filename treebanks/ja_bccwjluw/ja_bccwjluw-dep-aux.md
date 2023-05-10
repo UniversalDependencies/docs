@@ -22,7 +22,7 @@ The following 13 pairs of parts of speech are connected with `aux`: <tt><a href=
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 9 aux	color:blue
-1	_	_	NUM	_	_	20	dep	_	BBIL=B|BPT=4|SpaceAfter=Yes|UI=276
+1	_	_	NUM	_	_	20	dep	_	BBIL=B|BPT=4|UI=276
 2	_	_	NOUN	_	_	8	nsubj	_	BBIL=B|BPT=0|SpaceAfter=No|UI=658
 3	_	_	ADP	_	_	2	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=6
 4	_	_	NOUN	_	_	8	obl	_	BBIL=B|BPT=0|SpaceAfter=No|UI=13332
@@ -53,7 +53,7 @@ The following 13 pairs of parts of speech are connected with `aux`: <tt><a href=
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 13 aux	color:blue
-1	_	_	NUM	_	_	20	dep	_	BBIL=B|BPT=4|SpaceAfter=Yes|UI=71
+1	_	_	NUM	_	_	20	dep	_	BBIL=B|BPT=4|UI=71
 2	_	_	NOUN	_	_	4	nmod	_	BBIL=B|BPT=0|SpaceAfter=No|UI=13332
 3	_	_	ADP	_	_	2	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=0
 4	_	_	NOUN	_	_	6	nmod	_	BBIL=B|BPT=0|SpaceAfter=No|UI=29115

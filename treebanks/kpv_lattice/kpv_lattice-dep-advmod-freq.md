@@ -30,7 +30,7 @@ The following 4 pairs of parts of speech are connected with `advmod:freq`: <tt><
 5	,	,	PUNCT	CLB	_	8	punct	_	_
 6	унаысь	унаысь	ADV	Adv	NumType=Mult	8	advmod:freq	_	GTtags=Iter
 7	сійӧс	сійӧ	PRON	Pron	Case=Acc|Number=Sing|Person=3|PronType=Prs	8	obj	_	GTtags=Pers,Sg3,Acc
-8	снимайтлӧмаӧсь	снимайтлыны	VERB	V	Evident=Nfh|Mood=Ind|Number=Plur|Person=3|Tense=Past|Valency=1	3	conj	_	GTtags=IV,Ind,Prt2,Pl3|SpaceAfter=No
+8	снимайтлӧмаӧсь	снимайтлыны	VERB	V	Evident=Nfh|Mood=Ind|Number=Plur|Person=3|Tense=Past	3	conj	_	GTtags=IV,Ind,Prt2,Pl3|SpaceAfter=No
 9	.	.	PUNCT	CLB	_	3	punct	_	_
 
 ~~~
@@ -44,16 +44,16 @@ The following 4 pairs of parts of speech are connected with `advmod:freq`: <tt><
 # visual-style 4 2 advmod:freq	color:blue
 1	Найӧ	сійӧ	PRON	Pron	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj:cop	_	GTtags=Pers,Pl3,Nom
 2	век	век	ADV	Adv	_	4	advmod:freq	_	_
-3	вӧліны	вӧвны	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|Valency=1	4	cop	_	GTtags=IV,Ind,Prt1,Pl3
+3	вӧліны	вӧвны	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	4	cop	_	GTtags=IV,Ind,Prt1,Pl3
 4	радӧсь	рад	ADJ	A	Number[subj]=Plur	0	root	_	GTtags=Cop,Pl
 5	сыкӧд	сійӧ	PRON	Pron	Case=Com|Number=Sing|Person=3|PronType=Prs	6	obl	_	GTtags=Pers,Sg3,Com
-6	сёрнитыштны	сёрнитыштны	VERB	V	Valency=1|VerbForm=Inf	4	advcl	_	GTtags=IV,Inf|SpaceAfter=No
+6	сёрнитыштны	сёрнитыштны	VERB	V	VerbForm=Inf	4	advcl	_	GTtags=IV,Inf|SpaceAfter=No
 7	,	,	PUNCT	CLB	_	8	punct	_	_
-8	сералыштны	сералыштны	VERB	V	Valency=1|VerbForm=Inf	6	conj	_	GTtags=IV,Inf
+8	сералыштны	сералыштны	VERB	V	VerbForm=Inf	6	conj	_	GTtags=IV,Inf
 9	прӧст	прӧст·кад	NOUN	N	Case=Ill|Number=Sing	10	nmod	_	GTtags=Sg,Ill
 10	кадӧ	_	NOUN	N	_	8	obl	_	SpaceAfter=No
 11	,	,	PUNCT	CLB	_	12	punct	_	_
-12	сьывны	сьывны	VERB	V	Valency=2|VerbForm=Inf	6	conj	_	GTtags=TV,Inf
+12	сьывны	сьывны	VERB	V	VerbForm=Inf	6	conj	_	GTtags=TV,Inf
 13	ассьыныс	ас	PRON	Pron	Case=Ela|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	15	nmod:poss	_	GTtags=Refl,Pl3,Ela
 14	фабричнӧй	фабричнӧй	ADJ	A	_	15	amod	_	_
 15	частушкаяс	частушка	NOUN	N	Case=Nom|Number=Plur	12	obj	_	GTtags=Pl,Nom|SpaceAfter=No
@@ -70,7 +70,7 @@ The following 4 pairs of parts of speech are connected with `advmod:freq`: <tt><
 # visual-style 6 5 advmod:freq	color:blue
 1	Сӧмын	сӧмын	ADV	Adv	_	6	advmod:foc	_	_
 2	енэжын	енэж	NOUN	N	Case=Ine|Number=Sing	3	obl:lmod	_	GTtags=Sg,Ine
-3	дзирдалысь	дзирдавны	VERB	V	Derivation=NomAg|Valency=1	4	acl	_	GTtags=IV,Der,Der/ысь,ActPrsPtc
+3	дзирдалысь	дзирдавны	VERB	V	Derivation=NomAg	4	acl	_	GTtags=IV,Der,Der/ысь,ActPrsPtc
 4	кодзувъяс	кодзув	NOUN	N	Case=Nom|Number=Plur	6	nsubj:cop	_	GTtags=Pl,Nom
 5	век	век	ADV	Adv	_	6	advmod:freq	_	_
 6	ӧтылнаынӧсь	ӧтылнаынӧсь	ADV	Adv	Case=Ine|Number[subj]=Plur	0	root	_	GTtags=Ine,Cop,Pl
@@ -78,8 +78,8 @@ The following 4 pairs of parts of speech are connected with `advmod:freq`: <tt><
 8	читкырасьӧны	читкырасьны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	6	conj	_	GTtags=Refl,Ind,Prs,Pl3|SpaceAfter=No
 9	,	,	PUNCT	CLB	_	11	punct	_	_
 10	быттьӧ	быттьӧ	SCONJ	CS	_	11	mark	_	_
-11	кӧсйӧны	кӧсйыны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Valency=2	6	conj	_	GTtags=TV,Ind,Prs,Pl3
-12	шуны	шуны	VERB	V	Valency=2|VerbForm=Inf	11	xcomp	_	GTtags=TV,Inf|SpaceAfter=No
+11	кӧсйӧны	кӧсйыны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	6	conj	_	GTtags=TV,Ind,Prs,Pl3
+12	шуны	шуны	VERB	V	VerbForm=Inf	11	xcomp	_	GTtags=TV,Inf|SpaceAfter=No
 13	:	:	PUNCT	CLB	_	6	punct	_	_
 
 ~~~

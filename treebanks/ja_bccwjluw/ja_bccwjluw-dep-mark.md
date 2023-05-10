@@ -22,7 +22,7 @@ The following 24 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 9 mark	color:blue
-1	_	_	NUM	_	_	19	dep	_	BBIL=B|BPT=4|SpaceAfter=Yes|UI=404
+1	_	_	NUM	_	_	19	dep	_	BBIL=B|BPT=4|UI=404
 2	_	_	NOUN	_	_	6	nmod	_	BBIL=B|BPT=0|SpaceAfter=No|UI=35466
 3	_	_	ADP	_	_	2	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=0
 4	_	_	ADV	_	_	6	advmod	_	BBIL=B|BPT=0|SpaceAfter=No|UI=1220

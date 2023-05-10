@@ -83,7 +83,7 @@ The following 8 pairs of parts of speech are connected with `det`: <tt><a href="
 5	누구도	누구	PRON	WP+AP	_	7	nsubj	_	MSeg=누구-도|Translit=.nu.gu.do|LTranslit=.nu.gu
 6	우리를	우리	PRON	PRP+CM	Case=Acc|Person=1|Polite=Form	7	obj	_	MSeg=우리-를|Translit=.u.ri.reul|LTranslit=.u.ri
 7	기다리지	_	VERB	VV	Form=Aux	9	advcl	_	Translit=.gi.da.ri.ji
-8	않는다고	_	AUX	VX+QP	Mood=Ind|VerbForm=Fin	7	aux	_	MSeg=않는다-고|Translit=.anh.neun.da.go
+8	않는다고	않	AUX	VX+QP	Mood=Ind|VerbForm=Fin	7	aux	_	MSeg=않는다-고|Translit=.anh.neun.da.go|LTranslit=.anh
 9	믿는다	_	VERB	VV	Mood=Ind|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=.mid.neun.da
 10	.	.	PUNCT	.	_	9	punct	_	Translit=.|LTranslit=.
 

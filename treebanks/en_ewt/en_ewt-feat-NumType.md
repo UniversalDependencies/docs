@@ -37,7 +37,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 * `Frac` (5; 2% of non-empty `NumType`): <em>half</em>
 * `Ord` (252; 98% of non-empty `NumType`): <em>first, second, third, 17th, fourth, 21st, 5th, 10th, 14th, 19th</em>
-* `EMPTY` (16551): <em>good, great, new, other, best, many, more, last, same, few</em>
+* `EMPTY` (16549): <em>good, great, new, other, best, many, more, last, same, few</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (31) occur only with one value of `NumType`.
 
@@ -52,7 +52,7 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 * `Frac` (2; 1% of non-empty `NumType`): <em>half</em>
 * `Mult` (77; 50% of non-empty `NumType`): <em>once, twice</em>
 * `Ord` (76; 49% of non-empty `NumType`): <em>first, second, Third, fifth</em>
-* `EMPTY` (12380): <em>so, just, when, very, also, how, now, even, then, there</em>
+* `EMPTY` (12387): <em>so, just, when, very, also, how, now, even, then, there</em>
 
 ### `NOUN`
 

@@ -62,7 +62,7 @@ The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="it_isdt-pos-ADP.
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.101266 (the average of all parts of speech is 1.481130).
+The form / lemma ratio of `ADP` is 1.101266 (the average of all parts of speech is 1.481226).
 
 The 1st highest number of forms (6) was observed with the lemma “di”: <em>ad, d', de, des, di, d’</em>.
 
@@ -83,7 +83,7 @@ Examples: <em>di, a, in, da, per, con, su, come, ad, tra</em>
 
 `ADP` nodes are attached to their parents using 9 different relations: <tt><a href="it_isdt-dep-case.html">case</a></tt> (41290; 91% instances), <tt><a href="it_isdt-dep-mark.html">mark</a></tt> (3289; 7% instances), <tt><a href="it_isdt-dep-fixed.html">fixed</a></tt> (716; 2% instances), <tt><a href="it_isdt-dep-conj.html">conj</a></tt> (5; 0% instances), <tt><a href="it_isdt-dep-dep.html">dep</a></tt> (5; 0% instances), <tt><a href="it_isdt-dep-obl.html">obl</a></tt> (5; 0% instances), <tt><a href="it_isdt-dep-flat-name.html">flat:name</a></tt> (2; 0% instances), <tt><a href="it_isdt-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="it_isdt-dep-cc.html">cc</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 12 different parts of speech: <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> (32393; 71% instances), <tt><a href="it_isdt-pos-PROPN.html">PROPN</a></tt> (5640; 12% instances), <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> (3353; 7% instances), <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (1598; 4% instances), <tt><a href="it_isdt-pos-NUM.html">NUM</a></tt> (946; 2% instances), <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> (820; 2% instances), <tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt> (318; 1% instances), <tt><a href="it_isdt-pos-ADP.html">ADP</a></tt> (154; 0% instances), <tt><a href="it_isdt-pos-SYM.html">SYM</a></tt> (57; 0% instances), <tt><a href="it_isdt-pos-X.html">X</a></tt> (30; 0% instances), <tt><a href="it_isdt-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="it_isdt-pos-DET.html">DET</a></tt> (1; 0% instances)
+Parents of `ADP` nodes belong to 12 different parts of speech: <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> (32392; 71% instances), <tt><a href="it_isdt-pos-PROPN.html">PROPN</a></tt> (5640; 12% instances), <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> (3353; 7% instances), <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (1599; 4% instances), <tt><a href="it_isdt-pos-NUM.html">NUM</a></tt> (946; 2% instances), <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> (820; 2% instances), <tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt> (318; 1% instances), <tt><a href="it_isdt-pos-ADP.html">ADP</a></tt> (154; 0% instances), <tt><a href="it_isdt-pos-SYM.html">SYM</a></tt> (57; 0% instances), <tt><a href="it_isdt-pos-X.html">X</a></tt> (30; 0% instances), <tt><a href="it_isdt-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="it_isdt-pos-DET.html">DET</a></tt> (1; 0% instances)
 
 45051 (99%) `ADP` nodes are leaves.
 

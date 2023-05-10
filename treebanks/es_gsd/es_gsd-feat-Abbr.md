@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-4 tokens (0%) have a non-empty value of `Abbr`.
-4 types (0%) occur at least once with a non-empty value of `Abbr`.
-4 lemmas (0%) occur at least once with a non-empty value of `Abbr`.
-The feature is used with 2 part-of-speech tags: <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+7 tokens (0%) have a non-empty value of `Abbr`.
+5 types (0%) occur at least once with a non-empty value of `Abbr`.
+5 lemmas (0%) occur at least once with a non-empty value of `Abbr`.
+The feature is used with 2 part-of-speech tags: <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-3 <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Abbr`.
+6 <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 100%).
+The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4; 67%).
 
 `NOUN` tokens may have the following values of `Abbr`:
 
-* `Yes` (3; 100% of non-empty `Abbr`): <em>D, D., Dr.</em>
-* `EMPTY` (77567): <em>años, año, parte, población, ciudad, personas, municipio, estado, km, familia</em>
+* `Yes` (6; 100% of non-empty `Abbr`): <em>ha, D, D., Dr.</em>
+* `EMPTY` (77569): <em>años, año, parte, población, ciudad, personas, municipio, estado, km, familia</em>
 
 ### `PROPN`
 
@@ -34,5 +34,5 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 `PROPN` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>Inc.</em>
-* `EMPTY` (39271): <em>san, España, Estados, Unidos, Juan, madrid, José, septiembre, julio, enero</em>
+* `EMPTY` (39249): <em>san, España, Estados, Unidos, Juan, madrid, José, septiembre, julio, enero</em>
 

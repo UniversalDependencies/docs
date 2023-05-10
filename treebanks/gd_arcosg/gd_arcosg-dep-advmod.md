@@ -50,7 +50,7 @@ The following 26 pairs of parts of speech are connected with `advmod`: <tt><a hr
 7	aig	aig	ADP	Sp	_	8	case	_	_
 8	thu	thu	PRON	Pp2s	Number=Sing|Person=2	6	nmod	_	_
 9	an-diugh	an-diugh	ADV	Rt	_	6	advmod	_	_
-10	[Name]	[Name]	PROPN	Nn-mv	Case=Voc|Gender=Masc	3	vocative	_	SpaceAfter=No
+10	[Name]	[Name]	PROPN	Nn-mv	Case=Voc|Gender=Masc	3	vocative	_	Anonymised=Yes|SpaceAfter=No
 11	?	?	PUNCT	Fg	_	3	punct	_	_
 
 ~~~

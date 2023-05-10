@@ -13,7 +13,7 @@ The 10 most frequent `DET` lemmas: <em>àwọn, yìí, náà, gbogbo, o, wọ̀n
 
 The 10 most frequent `DET` types:  <em>àwọn, yìí, náà, gbogbo, o, wọ̀nyí, Oríṣìíríṣìí, báyìí, Bákanáà, Imo</em>
 
-The 10 most frequent ambiguous lemmas: <em>àwọn</em> (<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> 127, <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 12), <em>náà</em> (<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> 39, <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> 23, <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 13, <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> 4), <em>o</em> (<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> 6, <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 1), <em>lo</em> (<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> 1, <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> 1), <em>à</em> (<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 3, <tt><a href="yo_ytb-pos-X.html">X</a></tt> 2, <tt><a href="yo_ytb-pos-DET.html">DET</a></tt> 1), <em>èyí</em> (<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 15, <tt><a href="yo_ytb-pos-DET.html">DET</a></tt> 1, <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>àwọn</em> (<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> 127, <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 12), <em>náà</em> (<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> 39, <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> 23, <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 13, <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> 4), <em>o</em> (<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> 6, <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 1), <em>lo</em> (<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> 1, <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> 1), <em>à</em> (<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 3, <tt><a href="yo_ytb-pos-DET.html">DET</a></tt> 1), <em>èyí</em> (<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 15, <tt><a href="yo_ytb-pos-DET.html">DET</a></tt> 1, <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>àwọn</em> (<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> 120, <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 11), <em>náà</em> (<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> 38, <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> 23, <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 13, <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> 4), <em>o</em> (<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> 4, <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 2), <em>lo</em> (<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> 1, <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> 1), <em>ná</em> (<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> 2, <tt><a href="yo_ytb-pos-DET.html">DET</a></tt> 1, <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> 1), <em>èyí</em> (<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 15, <tt><a href="yo_ytb-pos-DET.html">DET</a></tt> 1)
 
@@ -43,7 +43,7 @@ The 10 most frequent ambiguous types:  <em>àwọn</em> (<tt><a href="yo_ytb-pos
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.006112).
+The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.007344).
 
 The 1st highest number of forms (2) was observed with the lemma “náà”: <em>ná, náà</em>.
 

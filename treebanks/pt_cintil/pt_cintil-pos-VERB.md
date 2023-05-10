@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>tem</em> (<tt><a href="pt_cintil-pos-
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 2.813467 (the average of all parts of speech is 1.389398).
+The form / lemma ratio of `VERB` is 2.813467 (the average of all parts of speech is 1.389383).
 
 The 1st highest number of forms (36) was observed with the lemma “ter”: <em>tem, temos, tendo, tenha, tenham, tenhamos, tenho, tens, ter, ter-CL-á, terei, terem, teremos, teria, teriam, terias, terá, terás, terão, teríamos, teve, tido, tinha, tinham, tinhas, tive, tivemos, tiver, tivera, tiveram, tiverem, tivesse, tivessem, tê#, têm, tínhamos</em>.
 
@@ -62,12 +62,12 @@ The 2nd highest number of forms (35) was observed with the lemma “fazer”: <e
 
 The 3rd highest number of forms (31) was observed with the lemma “poder”: <em>pode, podem, podemos, podendo, poder, poder-CL-ia, poder-CL-á, poderem, poderemos, poderia, poderiam, poderá, poderão, poderíamos, podes, podia, podiam, podíamos, possa, possam, possamos, possas, posso, pudemos, puder, puderam, pudermos, pudesse, pudessem, pudéssemos, pôde</em>.
 
-`VERB` occurs with 6 features: <tt><a href="pt_cintil-feat-Number.html">Number</a></tt> (36539; 86% instances), <tt><a href="pt_cintil-feat-Person.html">Person</a></tt> (28933; 68% instances), <tt><a href="pt_cintil-feat-Mood.html">Mood</a></tt> (28674; 67% instances), <tt><a href="pt_cintil-feat-Tense.html">Tense</a></tt> (28187; 66% instances), <tt><a href="pt_cintil-feat-Gender.html">Gender</a></tt> (7554; 18% instances), <tt><a href="pt_cintil-feat-VerbForm.html">VerbForm</a></tt> (6328; 15% instances)
+`VERB` occurs with 6 features: <tt><a href="pt_cintil-feat-VerbForm.html">VerbForm</a></tt> (42620; 100% instances), <tt><a href="pt_cintil-feat-Number.html">Number</a></tt> (36539; 86% instances), <tt><a href="pt_cintil-feat-Person.html">Person</a></tt> (28933; 68% instances), <tt><a href="pt_cintil-feat-Mood.html">Mood</a></tt> (28674; 67% instances), <tt><a href="pt_cintil-feat-Tense.html">Tense</a></tt> (28187; 66% instances), <tt><a href="pt_cintil-feat-Gender.html">Gender</a></tt> (7554; 18% instances)
 
-`VERB` occurs with 19 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Mood=Cnd`, `Mood=Imp`, `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Fut`, `Tense=Imp`, `Tense=Past`, `Tense=Pqp`, `Tense=Pres`, `VerbForm=Ger`, `VerbForm=Inf`, `VerbForm=Part`
+`VERB` occurs with 20 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Mood=Cnd`, `Mood=Imp`, `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Fut`, `Tense=Imp`, `Tense=Past`, `Tense=Pqp`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Ger`, `VerbForm=Inf`, `VerbForm=Part`
 
-`VERB` occurs with 57 feature combinations.
-The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Pres` (10352 tokens).
+`VERB` occurs with 58 feature combinations.
+The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin` (10352 tokens).
 Examples: <em>há, tem, vai, pode, é, diz, quer, continua, faz, deve</em>
 
 

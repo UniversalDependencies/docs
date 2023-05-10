@@ -8,12 +8,42 @@ udver: '2'
 
 This relation is universal.
 
-892 nodes (2%) are attached to their parents as `xcomp`.
+3259 nodes (2%) are attached to their parents as `xcomp`.
 
-794 instances of `xcomp` (89%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.12780269058296.
+2575 instances of `xcomp` (79%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.32433261736729.
 
-The following 11 pairs of parts of speech are connected with `xcomp`: <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> (628; 70% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt> (93; 10% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (43; 5% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt> (41; 5% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (34; 4% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt> (29; 3% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt> (11; 1% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (7; 1% instances), <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `xcomp`: <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> (2223; 68% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt> (446; 14% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (242; 7% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (112; 3% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt> (91; 3% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt> (67; 2% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (50; 2% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt> (20; 1% instances), <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 3 xcomp	color:blue
+1	Ѡтъвръже	отъврѣщи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=76.3
+2	сѩ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	1	expl:pv	_	ref=76.3
+3	оутѣшіті	оутѣшити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	xcomp	_	ref=76.3
+4	сѩ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	3	expl:pv	_	ref=76.3
+5	дш҃а	доуша	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	ref=76.3
+6	моѣ	мои	DET	Ps	Case=Nom|Gender=Fem|Number=Sing|Person=1|Poss=Yes	5	det	_	ref=76.3
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 xcomp	color:blue
+1	На	на	ADP	R-	_	2	case	_	ref=103.6
+2	горахъ	гора	NOUN	Nb	Case=Loc|Gender=Fem|Number=Plur	3	xcomp	_	ref=103.6
+3	станѫтъ	стати	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=103.6
+4	въдъі	вода	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	3	nsubj	_	ref=103.6
+
+~~~
 
 
 ~~~ conllu
@@ -22,56 +52,15 @@ The following 11 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 6 xcomp	color:blue
-1	азъ	азъ	PRON	Pp	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Ref=MATT_5.39
-2	же	же	ADV	Df	_	3	discourse	_	Ref=MATT_5.39
-3	г҃лѭ	глаголати	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_5.39
-4	вамъ	вꙑ	PRON	Pp	Case=Dat|Number=Plur|Person=2|PronType=Prs	3	iobj	_	Ref=MATT_5.39
-5	не	не	ADV	Df	Polarity=Neg	6	advmod	_	Ref=MATT_5.39
-6	противити	противити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	xcomp	_	Ref=MATT_5.39
-7	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	6	expl	_	Ref=MATT_5.39
-8	зълоу	зълъ	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	6	iobj	_	Ref=MATT_5.39
-
-~~~
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 8 xcomp	color:blue
-1	и	и	CCONJ	C-	_	10	cc	_	Ref=MATT_5.41
-2	аще	аще	SCONJ	G-	_	4	mark	_	Ref=MATT_5.41
-3	къто	къто	ADJ	Px	Case=Nom|Number=Sing	4	nsubj	_	Ref=MATT_5.41
-4	поиметъ	поѩти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	advcl	_	Ref=MATT_5.41
-5	тѧ	тꙑ	PRON	Pp	Case=Acc|Number=Sing|Person=2|PronType=Prs	4	obj	_	Ref=MATT_5.41
-6	по	по	ADP	R-	_	7	case	_	Ref=MATT_5.41
-7	силѣ	сила	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	4	obl	_	Ref=MATT_5.41
-8	попьрище	попьрище	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	4	xcomp	_	Ref=MATT_5.41
-9	едино	ѥдинъ	NUM	Ma	Case=Acc|Gender=Neut|Number=Sing	8	nummod	_	Ref=MATT_5.41
-10	ꙇди	ити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_5.41
-11	съ	съ	ADP	R-	_	12	case	_	Ref=MATT_5.41
-12	нимь	и	PRON	Pp	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obl	_	Ref=MATT_5.41
-13	дьвѣ	дъва	NUM	Ma	Case=Acc|Gender=Neut|Number=Dual	10	obl	_	Ref=MATT_5.41
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 xcomp	color:blue
-1	тѣмь	тъ	ADJ	Pd	Case=Ins|Gender=Neut|Number=Sing	6	obl	_	Ref=LUKE_7.7
-2	же	же	ADV	Df	_	1	discourse	_	Ref=LUKE_7.7
-3	ни	ни	ADV	Df	Polarity=Neg	6	advmod	_	Ref=LUKE_7.7
-4	себе	себе	PRON	Pk	Case=Gen|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	6	obj	_	Ref=LUKE_7.7
-5	достоина	достоинъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc,Neut|Number=Sing|Variant=Short	6	xcomp	_	Ref=LUKE_7.7
-6	сътворихъ	сътворити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=LUKE_7.7
-7	прити	прити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	ccomp	_	Ref=LUKE_7.7
-8	къ	къ	ADP	R-	_	9	case	_	Ref=LUKE_7.7
-9	тебѣ	тꙑ	PRON	Pp	Case=Dat|Number=Sing|Person=2|PronType=Prs	7	obl	_	Ref=LUKE_7.7
+1	о҅вогда	овогда	ADV	Df	_	3	advmod	_	ref=8
+2	о̑убо	оубо	ADV	Df	_	5	discourse	_	ref=8
+3	видѣти	видѣти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	ccomp	_	ref=8
+4	и	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	ref=8
+5	бѣа҅ше	бꙑти	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=8
+6	сѣда	сѣдъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	3	xcomp	_	ref=8
+7	о҅вогда	овогда	ADV	Df	_	3	conj	_	ref=8
+8	же	же	ADV	Df	_	7	discourse	_	ref=8
+9	о҅трока	отрокъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	7	orphan	_	ref=8
 
 ~~~
 

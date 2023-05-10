@@ -13,7 +13,7 @@ The 10 most frequent `NUM` lemmas: 1, _, 10, 3, 2, 4, 6, 20, 8, 5
 
 The 10 most frequent `NUM` types:  1, 10, 3, 2, 4, 6, 20, 8, 5, 9
 
-The 10 most frequent ambiguous lemmas: _ (<tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 4295, <tt><a href="ko_pud-pos-VERB.html">VERB</a></tt> 1439, <tt><a href="ko_pud-pos-PROPN.html">PROPN</a></tt> 1030, <tt><a href="ko_pud-pos-AUX.html">AUX</a></tt> 663, <tt><a href="ko_pud-pos-ADJ.html">ADJ</a></tt> 596, <tt><a href="ko_pud-pos-ADV.html">ADV</a></tt> 516, <tt><a href="ko_pud-pos-DET.html">DET</a></tt> 462, <tt><a href="ko_pud-pos-CCONJ.html">CCONJ</a></tt> 125, <tt><a href="ko_pud-pos-X.html">X</a></tt> 47, <tt><a href="ko_pud-pos-NUM.html">NUM</a></tt> 27, <tt><a href="ko_pud-pos-PRON.html">PRON</a></tt> 24, <tt><a href="ko_pud-pos-PUNCT.html">PUNCT</a></tt> 1), 만 (<tt><a href="ko_pud-pos-PART.html">PART</a></tt> 5, <tt><a href="ko_pud-pos-NUM.html">NUM</a></tt> 1)
+The 10 most frequent ambiguous lemmas: _ (<tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 4295, <tt><a href="ko_pud-pos-VERB.html">VERB</a></tt> 1439, <tt><a href="ko_pud-pos-PROPN.html">PROPN</a></tt> 1030, <tt><a href="ko_pud-pos-ADJ.html">ADJ</a></tt> 596, <tt><a href="ko_pud-pos-ADV.html">ADV</a></tt> 516, <tt><a href="ko_pud-pos-DET.html">DET</a></tt> 462, <tt><a href="ko_pud-pos-CCONJ.html">CCONJ</a></tt> 125, <tt><a href="ko_pud-pos-AUX.html">AUX</a></tt> 104, <tt><a href="ko_pud-pos-X.html">X</a></tt> 47, <tt><a href="ko_pud-pos-NUM.html">NUM</a></tt> 27, <tt><a href="ko_pud-pos-PRON.html">PRON</a></tt> 24, <tt><a href="ko_pud-pos-PUNCT.html">PUNCT</a></tt> 1), 만 (<tt><a href="ko_pud-pos-PART.html">PART</a></tt> 5, <tt><a href="ko_pud-pos-NUM.html">NUM</a></tt> 1)
 
 The 10 most frequent ambiguous types:  둘 (<tt><a href="ko_pud-pos-AUX.html">AUX</a></tt> 1, <tt><a href="ko_pud-pos-NUM.html">NUM</a></tt> 1), 만 (<tt><a href="ko_pud-pos-DET.html">DET</a></tt> 12, <tt><a href="ko_pud-pos-PART.html">PART</a></tt> 5, <tt><a href="ko_pud-pos-NUM.html">NUM</a></tt> 1), 억 (<tt><a href="ko_pud-pos-DET.html">DET</a></tt> 6, <tt><a href="ko_pud-pos-NUM.html">NUM</a></tt> 1), 천 (<tt><a href="ko_pud-pos-DET.html">DET</a></tt> 3, <tt><a href="ko_pud-pos-NUM.html">NUM</a></tt> 1)
 
@@ -34,7 +34,7 @@ The 10 most frequent ambiguous types:  둘 (<tt><a href="ko_pud-pos-AUX.html">AU
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.112245 (the average of all parts of speech is 3.187571).
+The form / lemma ratio of `NUM` is 1.112245 (the average of all parts of speech is 3.181543).
 
 The 1st highest number of forms (17) was observed with the lemma “_”: I, II, III, IV, V, VI, X, 둘, 만, 백, 억, 제1, 제3, 제45, 천, 첫째, 하나.
 

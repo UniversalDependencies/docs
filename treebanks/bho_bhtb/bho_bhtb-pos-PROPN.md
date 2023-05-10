@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Bhojpuri-BHTB: POS Tags: `PROPN`
 
-There are 189 `PROPN` lemmas (10%), 186 `PROPN` types (9%) and 419 `PROPN` tokens (6%).
+There are 190 `PROPN` lemmas (10%), 187 `PROPN` types (9%) and 421 `PROPN` tokens (6%).
 Out of 16 observed tags, the rank of `PROPN` is: 3 in number of lemmas, 3 in number of types and 5 in number of tokens.
 
 The 10 most frequent `PROPN` lemmas: भोजपुरी, प्रियंका, सिंह, राय, जी, पाती, डॉ., डा॰, तिवारी, दिल्ली
@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  भोजपुरी (<tt><a href="bho_b
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 0.984127 (the average of all parts of speech is 1.035097).
+The form / lemma ratio of `PROPN` is 0.984211 (the average of all parts of speech is 1.035079).
 
 The 1st highest number of forms (2) was observed with the lemma “सदानंद”: सदानंद, सदानन्द.
 
@@ -63,24 +63,24 @@ The 2nd highest number of forms (1) was observed with the lemma “15”: 15.
 
 The 3rd highest number of forms (1) was observed with the lemma “2012”: 2012.
 
-`PROPN` occurs with 9 features: <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt> (397; 95% instances), <tt><a href="bho_bhtb-feat-Number.html">Number</a></tt> (393; 94% instances), <tt><a href="bho_bhtb-feat-Person.html">Person</a></tt> (390; 93% instances), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt> (345; 82% instances), <tt><a href="bho_bhtb-feat-PronType.html">PronType</a></tt> (13; 3% instances), <tt><a href="bho_bhtb-feat-AdpType.html">AdpType</a></tt> (3; 1% instances), <tt><a href="bho_bhtb-feat-Aspect.html">Aspect</a></tt> (2; 0% instances), <tt><a href="bho_bhtb-feat-NumType.html">NumType</a></tt> (2; 0% instances), <tt><a href="bho_bhtb-feat-VerbForm.html">VerbForm</a></tt> (2; 0% instances)
+`PROPN` occurs with 9 features: <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt> (399; 95% instances), <tt><a href="bho_bhtb-feat-Number.html">Number</a></tt> (395; 94% instances), <tt><a href="bho_bhtb-feat-Person.html">Person</a></tt> (392; 93% instances), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt> (347; 82% instances), <tt><a href="bho_bhtb-feat-PronType.html">PronType</a></tt> (13; 3% instances), <tt><a href="bho_bhtb-feat-AdpType.html">AdpType</a></tt> (3; 1% instances), <tt><a href="bho_bhtb-feat-Aspect.html">Aspect</a></tt> (2; 0% instances), <tt><a href="bho_bhtb-feat-NumType.html">NumType</a></tt> (2; 0% instances), <tt><a href="bho_bhtb-feat-VerbForm.html">VerbForm</a></tt> (2; 0% instances)
 
 `PROPN` occurs with 13 feature-value pairs: `AdpType=Post`, `Aspect=Imp`, `Case=Acc`, `Case=Acc,Dat`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `NumType=Card`, `Number=Plur`, `Number=Sing`, `Person=3`, `PronType=Prs`, `VerbForm=Part`
 
 `PROPN` occurs with 17 feature combinations.
-The most frequent feature combination is `Case=Nom|Gender=Masc|Number=Sing|Person=3` (154 tokens).
+The most frequent feature combination is `Case=Nom|Gender=Masc|Number=Sing|Person=3` (155 tokens).
 Examples: प्रियंका, सिंह, प्रसाद, उदय, प्रकाश, अवधेश, अशोक, कुमार, पूर्वांचल, विश्व
 
 
 ## Relations
 
-`PROPN` nodes are attached to their parents using 11 different relations: <tt><a href="bho_bhtb-dep-compound.html">compound</a></tt> (213; 51% instances), <tt><a href="bho_bhtb-dep-nmod.html">nmod</a></tt> (117; 28% instances), <tt><a href="bho_bhtb-dep-nsubj.html">nsubj</a></tt> (37; 9% instances), <tt><a href="bho_bhtb-dep-conj.html">conj</a></tt> (26; 6% instances), <tt><a href="bho_bhtb-dep-obl.html">obl</a></tt> (12; 3% instances), <tt><a href="bho_bhtb-dep-amod.html">amod</a></tt> (3; 1% instances), <tt><a href="bho_bhtb-dep-obj.html">obj</a></tt> (3; 1% instances), <tt><a href="bho_bhtb-dep-root.html">root</a></tt> (3; 1% instances), <tt><a href="bho_bhtb-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="bho_bhtb-dep-iobj.html">iobj</a></tt> (2; 0% instances), <tt><a href="bho_bhtb-dep-csubj.html">csubj</a></tt> (1; 0% instances)
+`PROPN` nodes are attached to their parents using 11 different relations: <tt><a href="bho_bhtb-dep-compound.html">compound</a></tt> (213; 51% instances), <tt><a href="bho_bhtb-dep-nmod.html">nmod</a></tt> (116; 28% instances), <tt><a href="bho_bhtb-dep-nsubj.html">nsubj</a></tt> (36; 9% instances), <tt><a href="bho_bhtb-dep-conj.html">conj</a></tt> (27; 6% instances), <tt><a href="bho_bhtb-dep-obl.html">obl</a></tt> (14; 3% instances), <tt><a href="bho_bhtb-dep-obj.html">obj</a></tt> (4; 1% instances), <tt><a href="bho_bhtb-dep-amod.html">amod</a></tt> (3; 1% instances), <tt><a href="bho_bhtb-dep-root.html">root</a></tt> (3; 1% instances), <tt><a href="bho_bhtb-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="bho_bhtb-dep-iobj.html">iobj</a></tt> (2; 0% instances), <tt><a href="bho_bhtb-dep-csubj.html">csubj</a></tt> (1; 0% instances)
 
-Parents of `PROPN` nodes belong to 11 different parts of speech: <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt> (189; 45% instances), <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (116; 28% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> (90; 21% instances), <tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt> (6; 1% instances), <tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> (3; 1% instances),  (3; 1% instances), <tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (1; 0% instances)
+Parents of `PROPN` nodes belong to 11 different parts of speech: <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt> (190; 45% instances), <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (116; 28% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> (91; 22% instances), <tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt> (6; 1% instances), <tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> (3; 1% instances),  (3; 1% instances), <tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (1; 0% instances)
 
 200 (48%) `PROPN` nodes are leaves.
 
-83 (20%) `PROPN` nodes have one child.
+85 (20%) `PROPN` nodes have one child.
 
 77 (18%) `PROPN` nodes have two children.
 
@@ -88,7 +88,7 @@ Parents of `PROPN` nodes belong to 11 different parts of speech: <tt><a href="bh
 
 The highest child degree of a `PROPN` node is 19.
 
-Children of `PROPN` nodes are attached using 19 different relations: <tt><a href="bho_bhtb-dep-compound.html">compound</a></tt> (215; 45% instances), <tt><a href="bho_bhtb-dep-case.html">case</a></tt> (88; 18% instances), <tt><a href="bho_bhtb-dep-punct.html">punct</a></tt> (51; 11% instances), <tt><a href="bho_bhtb-dep-nmod.html">nmod</a></tt> (48; 10% instances), <tt><a href="bho_bhtb-dep-conj.html">conj</a></tt> (38; 8% instances), <tt><a href="bho_bhtb-dep-nsubj.html">nsubj</a></tt> (7; 1% instances), <tt><a href="bho_bhtb-dep-cc.html">cc</a></tt> (6; 1% instances), <tt><a href="bho_bhtb-dep-obl.html">obl</a></tt> (6; 1% instances), <tt><a href="bho_bhtb-dep-acl.html">acl</a></tt> (5; 1% instances), <tt><a href="bho_bhtb-dep-advcl.html">advcl</a></tt> (3; 1% instances), <tt><a href="bho_bhtb-dep-amod.html">amod</a></tt> (3; 1% instances), <tt><a href="bho_bhtb-dep-csubj.html">csubj</a></tt> (2; 0% instances), <tt><a href="bho_bhtb-dep-det.html">det</a></tt> (2; 0% instances), <tt><a href="bho_bhtb-dep-mark.html">mark</a></tt> (2; 0% instances), <tt><a href="bho_bhtb-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="bho_bhtb-dep-aux.html">aux</a></tt> (1; 0% instances), <tt><a href="bho_bhtb-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="bho_bhtb-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="bho_bhtb-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
+Children of `PROPN` nodes are attached using 18 different relations: <tt><a href="bho_bhtb-dep-compound.html">compound</a></tt> (215; 45% instances), <tt><a href="bho_bhtb-dep-case.html">case</a></tt> (89; 19% instances), <tt><a href="bho_bhtb-dep-punct.html">punct</a></tt> (51; 11% instances), <tt><a href="bho_bhtb-dep-nmod.html">nmod</a></tt> (47; 10% instances), <tt><a href="bho_bhtb-dep-conj.html">conj</a></tt> (39; 8% instances), <tt><a href="bho_bhtb-dep-cc.html">cc</a></tt> (6; 1% instances), <tt><a href="bho_bhtb-dep-nsubj.html">nsubj</a></tt> (6; 1% instances), <tt><a href="bho_bhtb-dep-obl.html">obl</a></tt> (6; 1% instances), <tt><a href="bho_bhtb-dep-acl.html">acl</a></tt> (5; 1% instances), <tt><a href="bho_bhtb-dep-advcl.html">advcl</a></tt> (4; 1% instances), <tt><a href="bho_bhtb-dep-amod.html">amod</a></tt> (3; 1% instances), <tt><a href="bho_bhtb-dep-csubj.html">csubj</a></tt> (2; 0% instances), <tt><a href="bho_bhtb-dep-det.html">det</a></tt> (2; 0% instances), <tt><a href="bho_bhtb-dep-mark.html">mark</a></tt> (2; 0% instances), <tt><a href="bho_bhtb-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="bho_bhtb-dep-aux.html">aux</a></tt> (1; 0% instances), <tt><a href="bho_bhtb-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="bho_bhtb-dep-obj.html">obj</a></tt> (1; 0% instances)
 
-Children of `PROPN` nodes belong to 12 different parts of speech: <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt> (189; 39% instances), <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (93; 19% instances), <tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt> (88; 18% instances), <tt><a href="bho_bhtb-pos-PUNCT.html">PUNCT</a></tt> (51; 11% instances), <tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> (19; 4% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> (15; 3% instances), <tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt> (7; 1% instances), <tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt> (5; 1% instances), <tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (5; 1% instances), <tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> (5; 1% instances), <tt><a href="bho_bhtb-pos-SCONJ.html">SCONJ</a></tt> (3; 1% instances), <tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt> (1; 0% instances)
+Children of `PROPN` nodes belong to 12 different parts of speech: <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt> (190; 40% instances), <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (92; 19% instances), <tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt> (89; 19% instances), <tt><a href="bho_bhtb-pos-PUNCT.html">PUNCT</a></tt> (51; 11% instances), <tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> (19; 4% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> (15; 3% instances), <tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt> (7; 1% instances), <tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt> (5; 1% instances), <tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (5; 1% instances), <tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> (5; 1% instances), <tt><a href="bho_bhtb-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt> (1; 0% instances)
 

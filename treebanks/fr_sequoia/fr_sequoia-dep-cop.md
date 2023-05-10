@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-563 nodes (1%) are attached to their parents as `cop`.
+575 nodes (1%) are attached to their parents as `cop`.
 
-535 instances of `cop` (95%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.11545293072824.
+547 instances of `cop` (95%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.13913043478261.
 
-The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (265; 47% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (256; 45% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (27; 5% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (2; 0% instances).
+The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (264; 46% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (255; 44% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (26; 5% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (15; 3% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -52,17 +52,17 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 8 cop	color:blue
-1	Je	il	PRON	_	Number=Sing|Person=1	4	nsubj	_	_
+1	Je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 2	suis	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	peut-être	peut-être	ADV	_	_	4	advmod	_	_
 4	têtu	têtu	ADJ	_	Number=Sing	0	root	_	SpaceAfter=No
-5	,	,	PUNCT	_	_	4	punct	_	_
+5	,	,	PUNCT	_	_	9	punct	_	_
 6	mais	mais	CCONJ	_	_	9	cc	_	_
-7	c'	ce	PRON	_	Number=Sing|Person=3	9	nsubj	_	SpaceAfter=No
+7	c'	ce	PRON	_	Number=Sing|Person=3|PronType=Dem	9	nsubj	_	SpaceAfter=No
 8	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
-9	ce	ce	PRON	_	_	4	conj	_	_
+9	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	conj	_	_
 10	que	que	PRON	_	PronType=Rel	12	obj	_	_
-11	je	il	PRON	_	Number=Sing|Person=1	12	nsubj	_	_
+11	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	12	nsubj	_	_
 12	crois	croire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
 13	sincèrement	sincèrement	ADV	_	_	12	advmod	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	4	punct	_	_

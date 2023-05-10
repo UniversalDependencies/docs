@@ -42,7 +42,7 @@ The following 7 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 1	Як	як	ADV	WRB	Degree=Pos	2	advmod	2:advmod	_
 2	жывуць	жыць	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 3	вызваленыя	вызваліць	VERB	VBNL	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	5	acl	5:acl	_
-4	Лукашэнкам	Лукашэнка	PROPN	NNP	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	3	obl:agent	3:obl:agent	_
+4	Лукашэнкам	Лукашэнка	PROPN	NNP	Animacy=Anim|Case=Ins|Gender=Masc|NameType=Sur|Number=Sing	3	obl:agent	3:obl:agent	_
 5	забойцы	забойка	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	2	nsubj	2:nsubj	_
 
 ~~~
@@ -61,10 +61,10 @@ The following 7 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 5	прызначаныя	прызначыць	VERB	VBNH	Aspect=Perf|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	2	ccomp	2:ccomp	_
 6	"	"	PUNCT	PUNCT	_	7	punct	7:punct	SpaceAfter=No
 7	прадстаўнікі	прадстаўнік	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	5	nsubj:pass	5:nsubj:pass	_
-8	РБ	РБ	PROPN	NNP	Abbr=Yes	7	nmod	7:nmod	SpaceAfter=No
+8	РБ	РБ	PROPN	NNP	Abbr=Yes|NameType=Geo	7	nmod	7:nmod	SpaceAfter=No
 9	"	"	PUNCT	PUNCT	_	8	punct	8:punct	_
 10	у	у	ADP	IN	_	11	case	11:case	_
-11	ААН	ААН	PROPN	NNP	Abbr=Yes	8	nmod	8:nmod:у	SpaceAfter=No
+11	ААН	ААН	PROPN	NNP	Abbr=Yes|NameType=Com	8	nmod	8:nmod:у	SpaceAfter=No
 12	.	.	PUNCT	PUNCT	_	2	punct	2:punct	_
 
 ~~~

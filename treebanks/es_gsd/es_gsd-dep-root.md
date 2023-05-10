@@ -11,9 +11,9 @@ This relation is universal.
 16013 nodes (4%) are attached to their parents as `root`.
 
 16013 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.82882657840505.
+Average distance between parent and child is 6.8242053331668.
 
-The following 14 pairs of parts of speech are connected with `root`: -<tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (12133; 76% instances), -<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (2551; 16% instances), -<tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (859; 5% instances), -<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (222; 1% instances), -<tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (164; 1% instances), -<tt><a href="es_gsd-pos-DET.html">DET</a></tt> (19; 0% instances), -<tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (19; 0% instances), -<tt><a href="es_gsd-pos-ADV.html">ADV</a></tt> (16; 0% instances), -<tt><a href="es_gsd-pos-X.html">X</a></tt> (14; 0% instances), -<tt><a href="es_gsd-pos-ADP.html">ADP</a></tt> (5; 0% instances), -<tt><a href="es_gsd-pos-SYM.html">SYM</a></tt> (4; 0% instances), -<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (3; 0% instances), -<tt><a href="es_gsd-pos-PART.html">PART</a></tt> (3; 0% instances), -<tt><a href="es_gsd-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `root`: -<tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (12130; 76% instances), -<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (2554; 16% instances), -<tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (859; 5% instances), -<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (223; 1% instances), -<tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (164; 1% instances), -<tt><a href="es_gsd-pos-DET.html">DET</a></tt> (19; 0% instances), -<tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (19; 0% instances), -<tt><a href="es_gsd-pos-ADV.html">ADV</a></tt> (16; 0% instances), -<tt><a href="es_gsd-pos-X.html">X</a></tt> (13; 0% instances), -<tt><a href="es_gsd-pos-ADP.html">ADP</a></tt> (5; 0% instances), -<tt><a href="es_gsd-pos-SYM.html">SYM</a></tt> (4; 0% instances), -<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (3; 0% instances), -<tt><a href="es_gsd-pos-PART.html">PART</a></tt> (3; 0% instances), -<tt><a href="es_gsd-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -28,7 +28,7 @@ The following 14 pairs of parts of speech are connected with `root`: -<tt><a hre
 4	reclutados	reclutar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	3	acl	_	_
 5	por	por	ADP	_	_	7	case	_	_
 6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
-7	Ejército	ejército	NOUN	_	_	4	obl	_	_
+7	Ejército	ejército	NOUN	_	_	4	obl:agent	_	_
 8	Blanco	blanco	PROPN	_	_	7	amod	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	2	punct	_	_
 

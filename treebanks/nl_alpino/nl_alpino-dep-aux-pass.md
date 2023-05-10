@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="nl_alpino-dep-aux.html">aux</a></tt>.
 
-2357 nodes (1%) are attached to their parents as `aux:pass`.
+2355 nodes (1%) are attached to their parents as `aux:pass`.
 
-2011 instances of `aux:pass` (85%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.05176071277047.
+2010 instances of `aux:pass` (85%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.05307855626327.
 
-The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (2355; 100% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (2; 0% instances).
+The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (2353; 100% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (2; 0% instances).
 
 
 ~~~ conllu

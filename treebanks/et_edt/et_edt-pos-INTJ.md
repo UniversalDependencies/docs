@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Estonian-EDT: POS Tags: `INTJ`
 
 There are 93 `INTJ` lemmas (0%), 94 `INTJ` types (0%) and 322 `INTJ` tokens (0%).
-Out of 16 observed tags, the rank of `INTJ` is: 9 in number of lemmas, 13 in number of types and 16 in number of tokens.
+Out of 16 observed tags, the rank of `INTJ` is: 10 in number of lemmas, 13 in number of types and 16 in number of tokens.
 
 The 10 most frequent `INTJ` lemmas: <em>no, noh, oi, ah, issand, no_jah, kurat, tere, oh, hei</em>
 
@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>noh</em> (<tt><a href="et_edt-pos-INT
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.010753 (the average of all parts of speech is 1.914326).
+The form / lemma ratio of `INTJ` is 1.010753 (the average of all parts of speech is 1.914345).
 
 The 1st highest number of forms (2) was observed with the lemma “oi”: <em>oi, oi-oi-joo</em>.
 

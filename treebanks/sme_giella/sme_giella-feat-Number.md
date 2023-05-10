@@ -186,10 +186,10 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>VERB --[<tt><a href="sme_giella-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (944; 66%),
+<tt>VERB --[<tt><a href="sme_giella-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (942; 66%),
 <tt>VERB --[<tt><a href="sme_giella-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (742; 68%),
 <tt>NOUN --[<tt><a href="sme_giella-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (307; 59%),
-<tt>NOUN --[<tt><a href="sme_giella-dep-conj.html">conj</a></tt>]--> NOUN</tt> (273; 82%),
+<tt>NOUN --[<tt><a href="sme_giella-dep-conj.html">conj</a></tt>]--> NOUN</tt> (275; 82%),
 <tt>ADJ --[<tt><a href="sme_giella-dep-cop.html">cop</a></tt>]--> AUX</tt> (226; 78%),
 <tt>NOUN --[<tt><a href="sme_giella-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (225; 97%),
 <tt>NOUN --[<tt><a href="sme_giella-dep-cop.html">cop</a></tt>]--> AUX</tt> (200; 71%),

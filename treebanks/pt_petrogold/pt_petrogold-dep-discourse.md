@@ -57,7 +57,7 @@ The following 5 pairs of parts of speech are connected with `discourse`: <tt><a 
 7	fases	fase	NOUN	_	Gender=Fem|Number=Plur	4	obj	_	_
 8	é	ser	AUX	_	_	11	discourse	_	MWEPOS=SCONJ
 9	que	que	SCONJ	_	_	8	fixed	_	_
-10	se	se	PRON	_	_	11	expl:pass	_	_
+10	se	se	PRON	_	PronType=Prs	11	expl:pass	_	_
 11	adiciona	adicionar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Se=pass
 12	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	agente	agente	NOUN	_	Gender=Masc|Number=Sing	11	nsubj:pass	_	_

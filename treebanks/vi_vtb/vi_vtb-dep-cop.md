@@ -8,32 +8,35 @@ udver: '2'
 
 This relation is universal.
 
-421 nodes (1%) are attached to their parents as `cop`.
+481 nodes (1%) are attached to their parents as `cop`.
 
-409 instances of `cop` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.50356294536817.
+471 instances of `cop` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.48024948024948.
 
-The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-AUX.html">AUX</a></tt> (299; 71% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-AUX.html">AUX</a></tt> (54; 13% instances), <tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="vi_vtb-pos-AUX.html">AUX</a></tt> (28; 7% instances), <tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt>-<tt><a href="vi_vtb-pos-AUX.html">AUX</a></tt> (20; 5% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-AUX.html">AUX</a></tt> (18; 4% instances), <tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt>-<tt><a href="vi_vtb-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-X.html">X</a></tt>-<tt><a href="vi_vtb-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-AUX.html">AUX</a></tt> (343; 71% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-AUX.html">AUX</a></tt> (61; 13% instances), <tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="vi_vtb-pos-AUX.html">AUX</a></tt> (36; 7% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-AUX.html">AUX</a></tt> (17; 4% instances), <tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt>-<tt><a href="vi_vtb-pos-AUX.html">AUX</a></tt> (17; 4% instances), <tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt>-<tt><a href="vi_vtb-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="vi_vtb-pos-X.html">X</a></tt>-<tt><a href="vi_vtb-pos-AUX.html">AUX</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 cop	color:blue
-1	Hơn nữa	hơn nữa	SCONJ	SC	_	8	cc	_	_
-2	"	"	PUNCT	``	_	3	punct	_	_
-3	tác giả	tác giả	NOUN	N	_	8	nsubj	_	_
-4	"	"	PUNCT	``	_	3	punct	_	_
-5	này	này	PRON	Pro	_	3	det:pmod	_	_
-6	phải	phải	AUX	AUX	_	8	aux	_	_
-7	là	là	AUX	V	_	8	cop	_	_
-8	người	người	NOUN	N	_	0	root	_	_
-9	kiên nhẫn	kiên nhẫn	ADJ	Adj	_	8	amod	_	_
-10	,	,	PUNCT	,	_	11	punct	_	_
-11	ôn hòa	ôn hòa	ADJ	Adj	_	9	conj	_	_
-12	.	.	PUNCT	.	_	8	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 cop	color:blue
+1	Người	người	NOUN	N	_	2	clf:det	_	_
+2	chồng	chồng	NOUN	N	_	5	nsubj:nn	_	_
+3	trẻ	trẻ	ADJ	ADJ	_	2	amod	_	_
+4	là	là	AUX	AUX	_	5	cop	_	_
+5	bộ đội	bộ đội	NOUN	N	_	7	csubj	_	_
+6	đã	đã	ADV	ADV	_	7	advmod	_	_
+7	nhiễm	nhiễm	VERB	V	_	0	root	_	_
+8	HIV	hiv	NOUN	NY	_	7	obj	_	_
+9	và	và	CCONJ	CC	_	10	cc	_	_
+10	chết	chết	VERB	V	_	7	conj	_	_
+11	cách	cách	VERB	V	_	10	advcl	_	_
+12	đây	đây	PRON	PRO	_	11	obj	_	_
+13	bảy	bảy	NUM	NUM	_	14	nummod	_	_
+14	năm	năm	NOUN	N	_	11	obl:tmod	_	_
+15	.	.	PUNCT	PUNCT	_	7	punct	_	_
 
 ~~~
 
@@ -41,19 +44,18 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 ~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 5 cop	color:blue
-1	"	"	PUNCT	``	_	2	punct	_	_
-2	ngon	ngon	ADJ	Adj	_	7	csubj:asubj	_	_
-3	lắm	lắm	ADV	Adv	_	2	advmod	_	_
-4	"	"	PUNCT	``	_	2	punct	_	_
-5	là	là	AUX	V	_	7	cop	_	_
-6	được	được	AUX	AUX	_	7	aux	_	_
-7	cấp	cấp	VERB	V	_	0	root	_	_
-8	súng	súng	NOUN	N	_	7	obj	_	_
-9	tự tạo	tự tạo	ADJ	Adj	_	8	amod	_	_
-10	.	.	PUNCT	.	_	7	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 cop	color:blue
+1	Chỉ	chỉ	ADV	Adv	_	3	advmod	_	_
+2	có	có	ADV	Adv	_	3	advmod	_	_
+3	người	người	NOUN	N	_	6	nsubj	_	_
+4	tiêu dùng	tiêu dùng	VERB	V	_	3	compound:vmod	_	_
+5	là	là	AUX	AUX	_	6	cop	_	_
+6	đánh cuộc	đánh cuộc	VERB	V	_	0	root	_	_
+7	với	với	ADP	Pre	_	8	case	_	_
+8	may rủi	may rủi	NOUN	N	_	6	obl:with	_	_
+9	.	.	PUNCT	.	_	6	punct	_	_
 
 ~~~
 
@@ -61,23 +63,18 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 ~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 3 cop	color:blue
-1	Hổ	hổ	NOUN	N	_	5	nsubj	_	_
-2	này	này	PRON	Pro	_	1	det:pmod	_	_
-3	là	là	AUX	V	_	5	cop	_	_
-4	của	của	ADP	Pre	_	5	case	_	_
-5	ấn độ	ấn độ	PROPN	NNP	_	0	root	_	_
-6	,	,	PUNCT	,	_	7	punct	_	_
-7	Bangladesh	Bangladesh	PROPN	NNP	_	5	conj	_	_
-8	,	,	PUNCT	,	_	9	punct	_	_
-9	Sri Lanka	Sri Lanka	PROPN	NNP	_	5	conj	_	_
-10	,	,	PUNCT	,	_	11	punct	_	_
-11	Nga	Nga	PROPN	NNP	_	5	conj	_	_
-12	,	,	PUNCT	,	_	13	punct	_	_
-13	Thái Lan	Thái Lan	PROPN	NNP	_	5	conj	_	_
-14	...	...	PUNCT	...	_	5	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 cop	color:blue
+1	Người	người	NOUN	N	_	4	nsubj	_	_
+2	ấy	ấy	PRON	PRO	_	1	det:pmod	_	_
+3	là	là	AUX	AUX	_	4	cop	_	_
+4	nguyễn chơn	nguyễn chơn	PROPN	NNP	_	0	root	_	_
+5	,	,	PUNCT	PUNCT	_	6	punct	_	_
+6	tổng tham mưu	tổng tham mưu	NOUN	N	_	4	appos	_	_
+7	phó	phó	NOUN	N	_	6	compound:z	_	_
+8	hiện nay	hiện nay	NOUN	N	_	6	nmod	_	_
+9	...	...	PUNCT	PUNCT	_	4	punct	_	_
 
 ~~~
 

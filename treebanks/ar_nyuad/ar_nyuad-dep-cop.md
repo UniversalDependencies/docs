@@ -10,10 +10,38 @@ This relation is universal.
 
 5290 nodes (1%) are attached to their parents as `cop`.
 
-4660 instances of `cop` (88%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.52816635160681.
+4669 instances of `cop` (88%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.49962192816635.
 
-The following 15 pairs of parts of speech are connected with `cop`: <tt><a href="ar_nyuad-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> (1859; 35% instances), <tt><a href="ar_nyuad-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> (1846; 35% instances), <tt><a href="ar_nyuad-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> (640; 12% instances), <tt><a href="ar_nyuad-pos-PRON.html">PRON</a></tt>-<tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> (400; 8% instances), <tt><a href="ar_nyuad-pos-ADV.html">ADV</a></tt>-<tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> (264; 5% instances), <tt><a href="ar_nyuad-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> (106; 2% instances), <tt><a href="ar_nyuad-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> (70; 1% instances), <tt><a href="ar_nyuad-pos-DET.html">DET</a></tt>-<tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> (51; 1% instances), <tt><a href="ar_nyuad-pos-NUM.html">NUM</a></tt>-<tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> (18; 0% instances), <tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt>-<tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> (14; 0% instances), <tt><a href="ar_nyuad-pos-X.html">X</a></tt>-<tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> (11; 0% instances), <tt><a href="ar_nyuad-pos-PART.html">PART</a></tt>-<tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> (8; 0% instances), <tt><a href="ar_nyuad-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_nyuad-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ar_nyuad-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ar_nyuad-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `cop`: <tt><a href="ar_nyuad-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> (1855; 35% instances), <tt><a href="ar_nyuad-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> (1849; 35% instances), <tt><a href="ar_nyuad-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> (640; 12% instances), <tt><a href="ar_nyuad-pos-PRON.html">PRON</a></tt>-<tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> (400; 8% instances), <tt><a href="ar_nyuad-pos-ADV.html">ADV</a></tt>-<tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> (264; 5% instances), <tt><a href="ar_nyuad-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> (106; 2% instances), <tt><a href="ar_nyuad-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> (71; 1% instances), <tt><a href="ar_nyuad-pos-DET.html">DET</a></tt>-<tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> (51; 1% instances), <tt><a href="ar_nyuad-pos-NUM.html">NUM</a></tt>-<tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> (18; 0% instances), <tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt>-<tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> (14; 0% instances), <tt><a href="ar_nyuad-pos-X.html">X</a></tt>-<tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> (11; 0% instances), <tt><a href="ar_nyuad-pos-PART.html">PART</a></tt>-<tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> (8; 0% instances), <tt><a href="ar_nyuad-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_nyuad-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ar_nyuad-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ar_nyuad-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 11 cop	color:blue
+1	_	w	CCONJ	CONJ	_	2	cc	_	_
+2	_	_	VERB	PV+PVSUFF_SUBJ:3MS	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Voice=Act	0	root	_	_
+3	_	_	NOUN	NOUN+CASE_DEF_NOM	Case=Nom|Definite=Com|Gender=Masc|Number=Sing	2	nsubj	_	_
+4	_	_	NOUN	DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	3	nmod:poss	_	_
+5	_	_	PROPN	NOUN_PROP	Definite=Ind|Gender=Masc|Number=Sing	3	nmod	_	_
+6	_	_	PROPN	NOUN_PROP	Definite=Ind|Gender=Masc|Number=Sing	5	flat	_	_
+7	_	_	SCONJ	SUB_CONJ	_	8	mark	_	_
+8	_	_	NOUN	DET+NOUN+NSUFF_MASC_DU_ACC	Case=Acc|Definite=Def|Gender=Masc|Number=Dual	2	obj	_	_
+9	_	_	ADJ	DET+ADJ+NSUFF_MASC_DU_ACC	Case=Acc|Definite=Def|Gender=Masc|Number=Dual	8	amod	_	_
+10	_	_	PRON	REL_PRON	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	8	nmod	_	_
+11	_	_	AUX	PV+PVSUFF_SUBJ:3MD	Gender=Masc|Mood=Ind|Number=Dual|Person=3|Voice=Act	13	cop	_	_
+12	_	_	ADP	PREP	AdpType=Prep	13	case	_	_
+13	_	_	NOUN	NOUN+CASE_DEF_GEN	Case=Gen|Definite=Com|Gender=Masc|Number=Sing	10	obj	_	_
+14	_	hA	PRON	POSS_PRON_3FS	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	nmod:poss	_	_
+15	_	_	VERB	PV_PASS+PVSUFF_SUBJ:3MD	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Dual|Person=3|Voice=Pass	8	ccomp	_	_
+16	_	_	ADP	PREP	AdpType=Prep	17	case	_	_
+17	_	_	NOUN	DET+NOUN+CASE_DEF_GEN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	15	obj	_	_
+18	_	_	PUNCT	PUNC	_	2	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -50,34 +78,6 @@ The following 15 pairs of parts of speech are connected with `cop`: <tt><a href=
 26	_	_	NOUN	NOUN+CASE_DEF_ACC	Case=Acc|Definite=Com|Gender=Masc|Number=Sing	23	nmod	_	_
 27	_	_	PROPN	NOUN_PROP	Definite=Ind|Gender=Masc|Number=Sing	26	nmod:poss	_	_
 28	_	_	PUNCT	PUNC	_	5	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 11 cop	color:blue
-1	_	w	CCONJ	CONJ	_	2	cc	_	_
-2	_	_	VERB	PV+PVSUFF_SUBJ:3MS	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Voice=Act	0	root	_	_
-3	_	_	NOUN	NOUN+CASE_DEF_NOM	Case=Nom|Definite=Com|Gender=Masc|Number=Sing	2	nsubj	_	_
-4	_	_	NOUN	DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	3	nmod:poss	_	_
-5	_	_	PROPN	NOUN_PROP	Definite=Ind|Gender=Masc|Number=Sing	3	nmod	_	_
-6	_	_	PROPN	NOUN_PROP	Definite=Ind|Gender=Masc|Number=Sing	5	flat	_	_
-7	_	_	SCONJ	SUB_CONJ	_	8	mark	_	_
-8	_	_	NOUN	DET+NOUN+NSUFF_MASC_DU_ACC	Case=Acc|Definite=Def|Gender=Masc|Number=Dual	2	obj	_	_
-9	_	_	ADJ	DET+ADJ+NSUFF_MASC_DU_ACC	Case=Acc|Definite=Def|Gender=Masc|Number=Dual	8	amod	_	_
-10	_	_	PRON	REL_PRON	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	8	nmod	_	_
-11	_	_	AUX	PV+PVSUFF_SUBJ:3MD	Gender=Masc|Mood=Ind|Number=Dual|Person=3|Voice=Act	13	cop	_	_
-12	_	_	ADP	PREP	AdpType=Prep	13	case	_	_
-13	_	_	NOUN	NOUN+CASE_DEF_GEN	Case=Gen|Definite=Com|Gender=Masc|Number=Sing	10	obj	_	_
-14	_	hA	PRON	POSS_PRON_3FS	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	nmod:poss	_	_
-15	_	_	VERB	PV_PASS+PVSUFF_SUBJ:3MD	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Dual|Person=3|Voice=Pass	8	ccomp	_	_
-16	_	_	ADP	PREP	AdpType=Prep	17	case	_	_
-17	_	_	NOUN	DET+NOUN+CASE_DEF_GEN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	15	obj	_	_
-18	_	_	PUNCT	PUNC	_	2	punct	_	_
 
 ~~~
 

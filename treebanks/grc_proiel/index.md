@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Dag Haug.
 
 Repository: [UD_Ancient_Greek-PROIEL](https://github.com/UniversalDependencies/UD_Ancient_Greek-PROIEL)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgrc_proiel211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgrc_proiel212)<br />
+Download all treebanks: [UD 2.12](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -61,7 +61,7 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 
 ## POS Tags
 
-[ADJ](grc_proiel-pos-ADJ.html) – [ADP](grc_proiel-pos-ADP.html) – [ADV](grc_proiel-pos-ADV.html) – [AUX](grc_proiel-pos-AUX.html) – [CCONJ](grc_proiel-pos-CCONJ.html) – [DET](grc_proiel-pos-DET.html) – [INTJ](grc_proiel-pos-INTJ.html) – [NOUN](grc_proiel-pos-NOUN.html) – [NUM](grc_proiel-pos-NUM.html) – [PRON](grc_proiel-pos-PRON.html) – [PROPN](grc_proiel-pos-PROPN.html) – [SCONJ](grc_proiel-pos-SCONJ.html) – [VERB](grc_proiel-pos-VERB.html) – [X](grc_proiel-pos-X.html)
+[ADJ](grc_proiel-pos-ADJ.html) – [ADP](grc_proiel-pos-ADP.html) – [ADV](grc_proiel-pos-ADV.html) – [AUX](grc_proiel-pos-AUX.html) – [CCONJ](grc_proiel-pos-CCONJ.html) – [DET](grc_proiel-pos-DET.html) – [INTJ](grc_proiel-pos-INTJ.html) – [NOUN](grc_proiel-pos-NOUN.html) – [NUM](grc_proiel-pos-NUM.html) – [PRON](grc_proiel-pos-PRON.html) – [PROPN](grc_proiel-pos-PROPN.html) – [SCONJ](grc_proiel-pos-SCONJ.html) – [VERB](grc_proiel-pos-VERB.html)
 
 ## Features
 
@@ -69,13 +69,13 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 
 ## Relations
 
-[acl](grc_proiel-dep-acl.html) – [advcl](grc_proiel-dep-advcl.html) – [advmod](grc_proiel-dep-advmod.html) – [amod](grc_proiel-dep-amod.html) – [appos](grc_proiel-dep-appos.html) – [aux](grc_proiel-dep-aux.html) – [aux:pass](grc_proiel-dep-aux-pass.html) – [case](grc_proiel-dep-case.html) – [cc](grc_proiel-dep-cc.html) – [ccomp](grc_proiel-dep-ccomp.html) – [conj](grc_proiel-dep-conj.html) – [cop](grc_proiel-dep-cop.html) – [csubj:pass](grc_proiel-dep-csubj-pass.html) – [dep](grc_proiel-dep-dep.html) – [det](grc_proiel-dep-det.html) – [discourse](grc_proiel-dep-discourse.html) – [dislocated](grc_proiel-dep-dislocated.html) – [fixed](grc_proiel-dep-fixed.html) – [flat:name](grc_proiel-dep-flat-name.html) – [iobj](grc_proiel-dep-iobj.html) – [mark](grc_proiel-dep-mark.html) – [nmod](grc_proiel-dep-nmod.html) – [nsubj](grc_proiel-dep-nsubj.html) – [nsubj:pass](grc_proiel-dep-nsubj-pass.html) – [nummod](grc_proiel-dep-nummod.html) – [obj](grc_proiel-dep-obj.html) – [obl](grc_proiel-dep-obl.html) – [obl:agent](grc_proiel-dep-obl-agent.html) – [orphan](grc_proiel-dep-orphan.html) – [parataxis](grc_proiel-dep-parataxis.html) – [root](grc_proiel-dep-root.html) – [vocative](grc_proiel-dep-vocative.html) – [xcomp](grc_proiel-dep-xcomp.html)
+[acl](grc_proiel-dep-acl.html) – [advcl](grc_proiel-dep-advcl.html) – [advcl:cmp](grc_proiel-dep-advcl-cmp.html) – [advmod](grc_proiel-dep-advmod.html) – [amod](grc_proiel-dep-amod.html) – [appos](grc_proiel-dep-appos.html) – [aux](grc_proiel-dep-aux.html) – [aux:pass](grc_proiel-dep-aux-pass.html) – [case](grc_proiel-dep-case.html) – [cc](grc_proiel-dep-cc.html) – [ccomp](grc_proiel-dep-ccomp.html) – [conj](grc_proiel-dep-conj.html) – [cop](grc_proiel-dep-cop.html) – [csubj](grc_proiel-dep-csubj.html) – [csubj:pass](grc_proiel-dep-csubj-pass.html) – [dep](grc_proiel-dep-dep.html) – [det](grc_proiel-dep-det.html) – [discourse](grc_proiel-dep-discourse.html) – [dislocated](grc_proiel-dep-dislocated.html) – [fixed](grc_proiel-dep-fixed.html) – [flat:name](grc_proiel-dep-flat-name.html) – [mark](grc_proiel-dep-mark.html) – [nmod](grc_proiel-dep-nmod.html) – [nsubj](grc_proiel-dep-nsubj.html) – [nsubj:outer](grc_proiel-dep-nsubj-outer.html) – [nsubj:pass](grc_proiel-dep-nsubj-pass.html) – [nummod](grc_proiel-dep-nummod.html) – [obj](grc_proiel-dep-obj.html) – [obl](grc_proiel-dep-obl.html) – [obl:agent](grc_proiel-dep-obl-agent.html) – [obl:arg](grc_proiel-dep-obl-arg.html) – [orphan](grc_proiel-dep-orphan.html) – [parataxis](grc_proiel-dep-parataxis.html) – [root](grc_proiel-dep-root.html) – [vocative](grc_proiel-dep-vocative.html) – [xcomp](grc_proiel-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 17080 sentences and 213999 tokens.</li>
+<li>This corpus contains 17082 sentences and 214005 tokens.</li>
 </ul>
 
 <ul>
@@ -98,31 +98,31 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <h3>Tags</h3>
 
 <ul>
-<li>This corpus uses 14 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PRON</a>, <a>PROPN</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
-<li>This corpus does not use the following tags: PART, SYM, PUNCT</li>
+<li>This corpus uses 13 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PRON</a>, <a>PROPN</a>, <a>SCONJ</a>, <a>VERB</a></li>
+<li>This corpus does not use the following tags: PART, SYM, PUNCT, X</li>
 </ul>
 
 <ul>
 </ul>
 
 <ul>
-<li>This corpus contains 30 lemmas tagged as pronouns (PRON): αὐτός, μιν, οἷος, οὗ, πηλίκος, ποταπός, ποῖος, πόσος, σεαυτοῦ, σφεῖς, σύ, τίς, τι, ἀλλήλων, ἀλληλέων, ἐγώ, ἐμαυτοῦ, ἐμεωυτόν, ἑαυτοῦ, ἡμεῖς, ὁ, ὁποδαπός, ὁποῖος, ὁπόσος, ὁπότερος, ὅ, ὅς, ὅσος, ὅστις, ὑμεῖς</li>
+<li>This corpus contains 55 lemmas tagged as pronouns (PRON): αὐτός, μετεξέτεροι, μηδείς, μιν, οἷος, οὐδέτερος, οὐδείς, οὔτις, οὗ, οὗτος, πηλίκος, ποταπός, ποῖος, πόσος, πᾶς, σεαυτοῦ, σφέτερος, σφεῖς, σός, σύ, τίς, τηλικοῦτος, τι, τοιοῦτος, τοιόσδε, τοσοῦτος, τοσόσδε, τόσος, τὶς, ἀλλήλων, ἀλληλέων, ἀμφότερος, ἄλλος, ἐγώ, ἐκεῖνος, ἐμαυτοῦ, ἐμεωυτόν, ἐμός, ἑαυτοῦ, ἔνιοι, ἕκαστος, ἡμέτερος, ἡμεῖς, ὁ, ὁποδαπός, ὁποῖος, ὁπόσος, ὁπότερος, ὅ, ὅδε, ὅς, ὅσος, ὅστις, ὑμέτερος, ὑμεῖς</li>
 </ul>
 
 <ul>
-<li>This corpus contains 19 lemmas tagged as determiners (DET): αὐτός, μηδείς, οὐδείς, οὗτος, πᾶς, σύμπας, τηλικοῦτος, τοιοῦτος, τοιόσδε, τοσοῦτος, τοσόσδε, τὶς, ἀμφότερος, ἄλλος, ἅπας, ἐκεῖνος, ἕκαστος, ὁ, ὅδε</li>
+<li>This corpus contains 24 lemmas tagged as determiners (DET): αὐτός, μηδείς, οὐδείς, οὗτος, πᾶς, σφέτερος, σός, σύμπας, τηλικοῦτος, τοιοῦτος, τοιόσδε, τοσοῦτος, τοσόσδε, τὶς, ἀμφότερος, ἄλλος, ἅπας, ἐκεῖνος, ἐμός, ἕκαστος, ἡμέτερος, ὁ, ὅδε, ὑμέτερος</li>
 </ul>
 
 <ul>
-<li>Out of the above, 2 lemmas occurred sometimes as PRON and sometimes as DET: αὐτός, ὁ</li>
+<li>Out of the above, 22 lemmas occurred sometimes as PRON and sometimes as DET: αὐτός, μηδείς, οὐδείς, οὗτος, πᾶς, σφέτερος, σός, τηλικοῦτος, τοιοῦτος, τοιόσδε, τοσοῦτος, τοσόσδε, τὶς, ἀμφότερος, ἄλλος, ἐκεῖνος, ἐμός, ἕκαστος, ἡμέτερος, ὁ, ὅδε, ὑμέτερος</li>
 </ul>
 
 <ul>
-<li>This corpus contains 4 lemmas tagged as auxiliaries (AUX): εἰμί, πωλέω, ἀγοράζω, ἔχω</li>
+<li>This corpus contains 2 lemmas tagged as auxiliaries (AUX): εἰμί, ἔχω</li>
 </ul>
 
 <ul>
-<li>Out of the above, 3 lemmas occurred sometimes as AUX and sometimes as VERB: πωλέω, ἀγοράζω, ἔχω</li>
+<li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: ἔχω</li>
 </ul>
 
 <ul>
@@ -149,7 +149,7 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Inf
   <ul>
-    <li>AUX: εἶναι, ἔσεσθαι, εἶναί, πωλῆσαι, ἀγοράσαι, ἔσεσθαί</li>
+    <li>AUX: εἶναι, ἔσεσθαι, εἶναί, ἔσεσθαί</li>
     <li>VERB: γενέσθαι, λέγειν, ἔχειν, ποιῆσαι, ἐλθεῖν, ποιέειν, δοῦναι, εἰπεῖν, ἰδεῖν, εἰσελθεῖν</li>
   </ul>
   </li>
@@ -174,12 +174,12 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Fem
     <ul>
-      <li>ADJ: αὕτη, μεγάλη, μεγάλῃ, μεγάλην, ἄλλην, ταύτην, αἰώνιον, ἰδίαν, ταύτης, ἄλλη</li>
+      <li>ADJ: μεγάλη, μεγάλῃ, μεγάλην, ἄλλην, αἰώνιον, ἰδίαν, ἄλλη, ὅλην, πολλὰς, πρώτη</li>
       <li>AUX-Part: ἐοῦσαν, ἐοῦσα, ἐούσης, ἐουσέων, οὔσης, οὖσαν, οὖσα, ἐούσας, οὔσῃ, ἐοῦσαι</li>
       <li>DET: τὴν, τῆς, ἡ, τῇ, τὰς, αἱ, ταῖς, τῶν, πᾶσαν, ταύτην</li>
       <li>NOUN: πόλιν, γῆς, ἡμέρας, γῆν, θάλασσαν, πίστεως, γυναῖκα, νέας, ἡμέρᾳ, γυνὴ</li>
       <li>NUM: μίαν, μία, τρεῖς, μιᾷ, τριηκοσίας, μιᾶς, μιῇ, διηκοσίας, μιῆς, τρισὶ</li>
-      <li>PRON: αὐτῆς, αὐτῇ, ἣν, αὐτὴν, αὐτήν, τὴν, ἧς, τῇ, ἥτις, ᾗ</li>
+      <li>PRON: αὐτῆς, αὐτῇ, ἣν, αὐτὴν, αὐτήν, τὴν, ἧς, αὕτη, τῇ, ἥτις</li>
       <li>PROPN: Ἑλλάδα, Σάρδις, Γαλιλαίας, Πυθίη, Ἀσίην, Ἀθήνας, Αἴγυπτον, Μίλητον, Ἰουδαίας, Αἰγύπτου</li>
       <li>VERB-Gdv: περιοπτέη</li>
       <li>VERB-Part: γενομένης, λέγουσα, ἔχουσα, ἔχουσαν, γενομένην, καλεομένην, λέγουσαν, γενομένη, γινομένην, γινομένης</li>
@@ -190,11 +190,11 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Fem,Masc
     <ul>
-      <li>ADJ: τις, τινες, πλήρης, ἐλάσσω, ἔρημος, βεβήλους, εὐπρόσδεκτος, τίς, τινα, ἀδόκιμοι</li>
+      <li>ADJ: πλήρης, ἐλάσσω, ἔρημος, βεβήλους, εὐπρόσδεκτος, ἀδόκιμοι, ἀπειθεῖς, ἄφωνος, ἔντρομος, αἰώνιον</li>
       <li>DET: τις, τινὰ, τινα, τινάς, τινας, τινὲς, πάντες, τίς, τινος, τινων</li>
       <li>NOUN: ἵππον, βοῦς, κύων, ἵπποισι, ἵππῳ, αἰγὸς, βοὸς, βοῦν, δυωδεκαπόλιες, κάμηλον</li>
       <li>NUM: τρεῖς, τέσσαρες, τέσσαρας, εἴκοσι, δεκατέσσαρες, τεσσεράκοντα, ἑκατὸν, εἴκοσιτρεῖς, πεντακισχιλίων</li>
-      <li>PRON: ὑμῖν, σου, ὑμῶν, ὑμεῖς, ὑμᾶς, σοι, σε, σὺ, ἡμῶν, ἡμᾶς</li>
+      <li>PRON: ὑμῖν, σου, ὑμῶν, ὑμεῖς, ὑμᾶς, σοι, σε, σὺ, ἡμῶν, τις</li>
       <li>PROPN: Πηδάσῳ, Σόλοι</li>
     </ul>
   </li>
@@ -203,11 +203,11 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Masc
     <ul>
-      <li>ADJ: οὗτοι, οὗτος, τις, πάντες, οὐδεὶς, αὐτὸς, πολλοὶ, νεκρῶν, τούτους, τοῦτον</li>
+      <li>ADJ: πολλοὶ, νεκρῶν, Ἀθηναίων, Ἀθηναῖοι, Ἰουδαίων, ἕκαστος, Ἰουδαῖοι, Λακεδαιμόνιοι, Ἀθηναίοισι, μέγας</li>
       <li>AUX-Part: ἐὼν, ἐόντες, ἐόντα, ὢν, ἐόντας, ὄντες, ἐόντων, ὄντος, ἐόντος, ὄντα</li>
       <li>DET: ὁ, τὸν, οἱ, τοῦ, τοὺς, τῶν, τῷ, τοῖς, τοῖσι, τοῦτον</li>
       <li>NOUN: θεοῦ, θεὸς, κυρίου, λόγον, θεῷ, κύριος, ἀνθρώπων, ἀνθρώπου, υἱὸς, ἄνθρωπος</li>
-      <li>NUM: εἷς, ἕνα, τρεῖς, ἑνὸς, ἑνὶ, χίλιοι, τέσσερας, τριῶν, καὶ, μυρίους</li>
+      <li>NUM: εἷς, ἕνα, ἑνὸς, τρεῖς, ἑνὶ, χίλιοι, τέσσερας, τριῶν, καὶ, μυρίους</li>
       <li>PRON: αὐτοῦ, αὐτῷ, αὐτὸν, αὐτῶν, αὐτοῖς, μου, ἐγὼ, οἱ, ὑμῶν, αὐτόν</li>
       <li>PROPN: Ἰησοῦς, Ἰησοῦ, Χριστοῦ, Ἰησοῦν, Χριστῷ, Πέτρος, Ξέρξης, Παῦλος, Χριστὸς, Κροῖσος</li>
       <li>VERB-Part: λέγων, λέγοντες, ἔχων, ἀποκριθεὶς, ἔχοντες, ἰδὼν, ἀκούσαντες, ἐλθὼν, λαβὼν, ἀκούσας</li>
@@ -223,7 +223,7 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
       <li>DET: τοῦ, τῷ, τοῖς, τοῖσι, πάντων, τούτου, παντὶ, αὐτῷ, πᾶσιν, τούτῳ</li>
       <li>NOUN: Ναζαρηνοῦ, ἱροῦ, ὀνείρου, ὀνειράτων, ὄνειρον</li>
       <li>NUM: ἑνὶ, ἑνὸς, τετρακοσίοις</li>
-      <li>PRON: οὗ, ποίῳ, τῷ, ὅσον, ᾧ, κοίῳ, ποίου, ποῖον, τέοισί, τίνι</li>
+      <li>PRON: οὗ, ποίῳ, πᾶσιν, τοῖσι, τοῦ, τῷ, ἄλλῳ, ὅσον, ᾧ, αὐτοῖσι</li>
       <li>VERB-Part: γενόμενον, ζῶντος, δόντος, εἰρημένῳ, καλεομένου, καλεόμενον, λέγοντος, λαλούντων, βουλομένοισι, γενομένου</li>
     </ul>
   </li>
@@ -232,12 +232,12 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Neut
     <ul>
-      <li>ADJ: ταῦτα, τοῦτο, πάντα, τάδε, πρότερον, τούτων, οὐδὲν, πολλὰ, τι, πρῶτον</li>
+      <li>ADJ: πρότερον, πολλὰ, πρῶτον, μόνον, μέγα, πρῶτα, ἄλλα, ὕστερον, μεγάλα, πολλῷ</li>
       <li>AUX-Part: ἐὸν, ἐόντα, ἐόν, ὄντα, ἐόντων, ἐόντος, ἐσόμενον, ἐόντι, ὂν, ὄντος</li>
       <li>DET: τὸ, τὰ, τοῦ, τῷ, τῶν, πάντα, τι, πᾶν, τοῦτο, τοῖς</li>
       <li>NOUN: πνεῦμα, οὔνομα, πνεύματος, ὄνομα, πνεύματι, τέκνα, ὀνόματι, σῶμα, ἔργα, ὕδωρ</li>
       <li>NUM: ἓν, ἕν, τρία, τέσσερα, χίλια, ἑνὸς, τεσσάρων, πεντακόσια, δυῶν, μυρίων</li>
-      <li>PRON: τί, ὃ, ἃ, τὰ, ὅσα, αὐτὸ, τὸ, ὅ, αὐτοῦ, ᾧ</li>
+      <li>PRON: ταῦτα, τοῦτο, τί, πάντα, ὃ, τάδε, τὰ, ἃ, τι, τούτων</li>
       <li>PROPN: Ἱεροσόλυμα, Σοῦσα, Ἄργος, Ἱεροσολύμοις, Ἱεροσολύμων, Ἀρτεμίσιον, Πανιώνιον, Πάγγαιον, Σούσοισι, Ἄβδηρα</li>
       <li>VERB-Gdv: ποιητέα, βλητέον, μαθητέον, περιοπτέον, ποιητέον, προοπτέον, προσλογιστέα, τιμωρητέον</li>
       <li>VERB-Part: γεγραμμένον, ἔχοντα, ῥηθὲν, γενόμενα, γενόμενον, γινόμενα, λεγόμενα, παρεὸν, γεγονός, γεγραμμένα</li>
@@ -253,13 +253,13 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: ταῦτα, πάντα, τούτων, οὗτοι, τάδε, πάντες, πολλοὶ, πολλὰ, πάντων, νεκρῶν</li>
+      <li>ADJ: πολλοὶ, πολλὰ, νεκρῶν, Ἀθηναίων, Ἀθηναῖοι, Ἰουδαίων, πολλῶν, Ἰουδαῖοι, Λακεδαιμόνιοι, Ἀθηναίοισι</li>
       <li>AUX-Fin: ἦσαν, εἰσὶ, εἰσιν, ἐστε, εἰσίν, εἰσὶν, ἔσονται, ἐσμεν, εἰσί, ἐστὲ</li>
       <li>AUX-Part: ἐόντες, ἐόντας, ὄντες, ἐόντα, ἐόντων, ὄντας, ἐοῦσι, οὖσιν, ἐουσέων, ὄντα</li>
       <li>DET: τῶν, οἱ, τὰ, τοὺς, τὰς, τοῖς, τοῖσι, αἱ, ταῖς, πάντα</li>
       <li>NOUN: ἀνθρώπων, ἀδελφοί, ἄνδρες, μαθηταὶ, Περσέων, ἡμέρας, νέας, Ἑλλήνων, ἀνδρῶν, Πέρσαι</li>
       <li>NUM: τρεῖς, τριῶν, τρία, τέσσερας, τεσσάρων, χίλιοι, τέσσερα, τέσσαρες, τριηκοσίας, καὶ</li>
-      <li>PRON: αὐτῶν, ὑμῖν, αὐτοῖς, ὑμῶν, ὑμᾶς, ἡμῶν, σφι, αὐτοὺς, ὑμεῖς, οἳ</li>
+      <li>PRON: αὐτῶν, ταῦτα, ὑμῖν, αὐτοῖς, ὑμῶν, ὑμᾶς, ἡμῶν, σφι, αὐτοὺς, ὑμεῖς</li>
       <li>PROPN: Σάρδις, Δελφοὺς, Ἀθήνας, Ἱεροσόλυμα, Δελφοῖσι, Σαρδίων, Σοῦσα, Ἀθηνέων, Ἱεροσολύμοις, Ἱεροσολύμων</li>
       <li>VERB-Fin: εἶπαν, εἶχον, ἔλεγον, λέγουσι, λέγουσιν, οἴδατε, ἦλθον, ἔχετε, ἐγένοντο, οἴδαμεν</li>
       <li>VERB-Gdv: ποιητέα, προσλογιστέα</li>
@@ -271,13 +271,13 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: τοῦτο, τις, οὗτος, πρότερον, οὐδεὶς, αὐτὸς, οὐδὲν, πρῶτον, τι, τούτου</li>
+      <li>ADJ: πρότερον, πρῶτον, μόνον, μέγα, ἕκαστος, πολλῷ, ἅγιον, πολλὸν, μεγάλη, καλὸν</li>
       <li>AUX-Fin: ἦν, ἐστιν, ἐστὶ, ἔσται, ἔστιν, εἰμι, ἐστὶν, εἶ, εἴη, ἔστι</li>
       <li>AUX-Part: ἐὼν, ἐόντα, ὢν, ἐὸν, ἐοῦσαν, ἐόντος, ἐοῦσα, ὄντος, ἐούσης, ἐόντι</li>
       <li>DET: ὁ, τοῦ, τὴν, τὸ, τὸν, τῆς, τῷ, ἡ, τῇ, τι</li>
       <li>NOUN: θεοῦ, θεὸς, κυρίου, λόγον, θεῷ, πόλιν, γῆς, κύριος, πνεῦμα, ἀνθρώπου</li>
       <li>NUM: εἷς, ἓν, ἕνα, μίαν, ἑνὸς, ἑνὶ, μία, μιᾷ, ἕν, μιᾶς</li>
-      <li>PRON: αὐτοῦ, αὐτῷ, αὐτὸν, μου, σου, ἐγὼ, τί, με, μοι, αὐτόν</li>
+      <li>PRON: αὐτοῦ, αὐτῷ, αὐτὸν, μου, τοῦτο, σου, ἐγὼ, τί, με, μοι</li>
       <li>PROPN: Ἰησοῦς, Ἰησοῦ, Χριστοῦ, Ἰησοῦν, Χριστῷ, Πέτρος, Ξέρξης, Παῦλος, Χριστὸς, Κροῖσος</li>
       <li>VERB-Fin: εἶπεν, λέγει, ἐγένετο, λέγω, ἔχει, δεῖ, ἦλθεν, ἔρχεται, ἔφη, ἀπεκρίθη</li>
       <li>VERB-Gdv: βλητέον, μαθητέον, περιοπτέη, περιοπτέον, ποιητέον, προοπτέον, τιμωρητέον</li>
@@ -293,12 +293,12 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Acc
     <ul>
-      <li>ADJ: ταῦτα, τοῦτο, πάντα, πρότερον, τάδε, πρῶτον, οὐδὲν, τούτους, τοῦτον, μόνον</li>
+      <li>ADJ: πρότερον, πρῶτον, μόνον, πολλὰ, πολλὸν, ὕστερον, πρῶτα, αἰώνιον, μέσον, μεγάλην</li>
       <li>AUX-Part: ἐόντα, ἐόντας, ἐοῦσαν, ἐὸν, ὄντα, ὄντας, ἐόν, οὖσαν, ἐούσας, ἐσομένην</li>
       <li>DET: τὴν, τὸν, τὸ, τοὺς, τὰ, τὰς, πάντα, πᾶσαν, τοῦτον, ταύτην</li>
       <li>NOUN: λόγον, πόλιν, γῆν, χρόνον, θάλασσαν, πατέρα, γυναῖκα, ἡμέρας, νέας, θεὸν</li>
       <li>NUM: ἕνα, τρεῖς, μίαν, ἓν, τέσσερας, τρία, τριηκοσίας, τέσσαρας, ἕν, μυρίους</li>
-      <li>PRON: αὐτὸν, ὑμᾶς, με, αὐτόν, τί, αὐτοὺς, σε, ὃ, ὃν, ἡμᾶς</li>
+      <li>PRON: αὐτὸν, ταῦτα, ὑμᾶς, τοῦτο, με, αὐτόν, τί, αὐτοὺς, σε, ὃ</li>
       <li>PROPN: Ἰησοῦν, Ἑλλάδα, Σάρδις, Χριστὸν, Ἰωάννην, Δελφοὺς, Ἱεροσόλυμα, Ἀσίην, Ἀθήνας, Παῦλον</li>
       <li>VERB-Gdv: ποιητέα</li>
       <li>VERB-Part: ἔχοντα, γενόμενον, ἔχοντας, ἐρχόμενον, λεγόμενον, ἔχουσαν, ἐπιόντα, ζῶντα, καθήμενον, καλούμενον</li>
@@ -309,7 +309,7 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Dat
     <ul>
-      <li>ADJ: τούτοισι, τούτῳ, πολλῷ, Ἀθηναίοισι, μεγάλῃ, πᾶσιν, μέσῳ, Ἰουδαίοις, ἁγίῳ, τοῖσιδε</li>
+      <li>ADJ: πολλῷ, Ἀθηναίοισι, μεγάλῃ, μέσῳ, Ἰουδαίοις, ἁγίῳ, Λακεδαιμονίοισι, ἄλλοισι, ἁγίοις, ἐρήμῳ</li>
       <li>AUX-Part: ἐόντι, ἐοῦσι, οὖσιν, οὔσῃ, ὄντι, ἐούσῃ</li>
       <li>DET: τῷ, τῇ, τοῖς, τοῖσι, ταῖς, τῇσι, τούτῳ, πάσῃ, παντὶ, ταύτῃ</li>
       <li>NOUN: θεῷ, κυρίῳ, πνεύματι, ἡμέρᾳ, λόγῳ, ὀνόματι, πίστει, Πέρσῃσι, ἡμέραις, τρόπῳ</li>
@@ -324,12 +324,12 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Gen
     <ul>
-      <li>ADJ: τούτων, πάντων, τούτου, νεκρῶν, Ἀθηναίων, Ἰουδαίων, πολλῶν, ἄλλων, ἁγίου, ἁγίων</li>
+      <li>ADJ: νεκρῶν, Ἀθηναίων, Ἰουδαίων, πολλῶν, ἄλλων, ἁγίου, ἁγίων, Λακεδαιμονίων, πρεσβυτέρων, πολλοῦ</li>
       <li>AUX-Part: ἐόντος, ἐόντων, ὄντος, ἐούσης, ἐουσέων, οὔσης, ὄντων, οὐσῶν, ἐσομένων</li>
       <li>DET: τοῦ, τῶν, τῆς, πάντων, τούτου, τούτων, ταύτης, πάσης, παντὸς, ἐκείνου</li>
       <li>NOUN: θεοῦ, κυρίου, γῆς, ἀνθρώπων, ἀνθρώπου, οὐρανοῦ, πίστεως, Περσέων, πνεύματος, Ἑλλήνων</li>
       <li>NUM: ἑνὸς, τριῶν, τεσσάρων, μιᾶς, δυῶν, τετρακοσίων, ἑνός, μιῆς, μυρίων, διακοσίων</li>
-      <li>PRON: αὐτοῦ, αὐτῶν, μου, ὑμῶν, σου, ἡμῶν, αὐτῆς, οὗ, ἑωυτοῦ, ἐμοῦ</li>
+      <li>PRON: αὐτοῦ, αὐτῶν, μου, ὑμῶν, σου, ἡμῶν, αὐτῆς, τούτων, οὗ, ἑωυτοῦ</li>
       <li>PROPN: Χριστοῦ, Ἰησοῦ, Δαρείου, Ἰωάννου, Γαλιλαίας, Κροίσου, Κύρου, Παύλου, Ἰουδαίας, Αἰγύπτου</li>
       <li>VERB-Part: γενομένης, λέγοντος, λαλοῦντος, γενομένου, ζῶντος, μελλόντων, γενομένων, ἐχόντων, καθημένου, λεγόντων</li>
     </ul>
@@ -339,12 +339,12 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Nom
     <ul>
-      <li>ADJ: τις, οὗτοι, οὗτος, πάντες, οὐδεὶς, ταῦτα, αὐτὸς, τοῦτο, πολλοὶ, Ἀθηναῖοι</li>
+      <li>ADJ: πολλοὶ, Ἀθηναῖοι, ἕκαστος, Ἰουδαῖοι, μεγάλη, Λακεδαιμόνιοι, μέγας, πρῶτος, ἄλλος, πρῶτοι</li>
       <li>AUX-Part: ἐὼν, ἐόντες, ὢν, ὄντες, ἐοῦσα, ἐὸν, ἐόντα, ἐών, οὖσα, ὤν</li>
       <li>DET: ὁ, οἱ, ἡ, τὸ, τὰ, αἱ, πάντες, οὗτος, τις, πᾶς</li>
       <li>NOUN: θεὸς, κύριος, υἱὸς, ἄνθρωπος, λόγος, μαθηταὶ, ἀνὴρ, βασιλεὺς, γυνὴ, πνεῦμα</li>
       <li>NUM: εἷς, ἓν, μία, τρεῖς, χίλιοι, τέσσαρες, ἕν, τέσσερες, τέσσερα, εἴκοσι</li>
-      <li>PRON: ἐγὼ, ὃς, ὁ, ὑμεῖς, σὺ, οἳ, ἐγώ, τίς, ἡμεῖς, οἱ</li>
+      <li>PRON: ἐγὼ, ὃς, ὁ, ὑμεῖς, οἳ, σὺ, τις, αὐτὸς, ἐγώ, οὗτοι</li>
       <li>PROPN: Ἰησοῦς, Πέτρος, Ξέρξης, Παῦλος, Χριστὸς, Κροῖσος, Ἰωάννης, Κῦρος, Μωϋσῆς, Πειλᾶτος</li>
       <li>VERB-Gdv: βλητέον, μαθητέον, περιοπτέη, περιοπτέον, ποιητέα, ποιητέον, προοπτέον, προσλογιστέα, τιμωρητέον</li>
       <li>VERB-Part: λέγων, λέγοντες, ἔχων, ἀποκριθεὶς, ἔχοντες, ἰδὼν, ἀκούσαντες, ἐλθὼν, λαβὼν, ἀκούσας</li>
@@ -372,8 +372,8 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Def
     <ul>
-      <li>ADJ: τὸ, τὰ, τῶν, ὁ, οἳ, τὴν, ὃ, οἱ, τοὺς, τοῖσι</li>
       <li>DET: ὁ, τοῦ, τὴν, τὸ, τὸν, τῶν, τῆς, οἱ, τῷ, τὰ</li>
+      <li>PRON: τὸ, ὁ, οἳ, τὴν, τῶν, ὃ, τοὺς, τοῖσι, τοῦ, τό</li>
     </ul>
   </li>
 </ul>
@@ -445,7 +445,7 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
   <li>Perf
     <ul>
       <li>AUX-Fin: ἔσχε</li>
-      <li>AUX-Inf: πωλῆσαι, ἀγοράσαι, ἔσεσθαι</li>
+      <li>AUX-Inf: ἔσεσθαι</li>
       <li>VERB-Fin: εἶπεν, ἐγένετο, εἶπαν, ἦλθεν, ἀπεκρίθη, ἦλθον, ἐποίησεν, εἶπον, ἐξῆλθεν, γέγραπται</li>
       <li>VERB-Inf: γενέσθαι, ποιῆσαι, ἐλθεῖν, δοῦναι, εἰπεῖν, ἰδεῖν, εἰσελθεῖν, φαγεῖν, λαβεῖν, ἀποθανεῖν</li>
       <li>VERB-Part: ἀποκριθεὶς, ἰδὼν, ἀκούσαντες, ἐλθὼν, λαβὼν, ἀκούσας, ποιήσας, ἰδόντες, γενομένης, γενόμενος</li>
@@ -514,7 +514,7 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
   <li>Past
     <ul>
       <li>AUX-Fin: ἦν, ἦσαν, ἤμην, ἦτε, ἦμεν, ἦς, ἤμεθα, ἔσκε, ἦσάν, ἦσθα</li>
-      <li>AUX-Inf: πωλῆσαι, ἀγοράσαι, ἔσεσθαι</li>
+      <li>AUX-Inf: ἔσεσθαι</li>
       <li>VERB-Fin: εἶπεν, ἐγένετο, ἔλεγον, εἶπαν, εἶχον, ἦλθεν, ἔφη, ἀπεκρίθη, ἔλεγεν, ἦλθον</li>
       <li>VERB-Inf: γενέσθαι, ποιῆσαι, ἐλθεῖν, δοῦναι, εἰπεῖν, ἰδεῖν, εἰσελθεῖν, φαγεῖν, λαβεῖν, ἀποθανεῖν</li>
       <li>VERB-Part: ἀποκριθεὶς, ἰδὼν, ἀκούσαντες, ἐλθὼν, λαβὼν, ἀκούσας, ποιήσας, ἰδόντες, γενομένης, γενόμενος</li>
@@ -551,7 +551,7 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
   <li>Act
     <ul>
       <li>AUX-Fin: ἦν, ἐστιν, ἦσαν, ἐστὶ, ἔστιν, εἰμι, ἐστὶν, εἶ, εἴη, εἰσὶ</li>
-      <li>AUX-Inf: εἶναι, εἶναί, πωλῆσαι, ἀγοράσαι</li>
+      <li>AUX-Inf: εἶναι, εἶναί</li>
       <li>AUX-Part: ἐὼν, ἐόντα, ἐόντες, ὢν, ἐὸν, ἐόντας, ὄντες, ἐοῦσαν, ἐόντος, ἐοῦσα</li>
       <li>VERB-Fin: εἶπεν, λέγει, λέγω, ἔχει, δεῖ, ἔλεγον, εἶπαν, εἶχον, ἦλθεν, λέγουσι</li>
       <li>VERB-Inf: λέγειν, ἔχειν, ποιῆσαι, ἐλθεῖν, ποιέειν, δοῦναι, εἰπεῖν, ἰδεῖν, εἰσελθεῖν, φαγεῖν</li>
@@ -604,8 +604,8 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Dem
     <ul>
-      <li>ADJ: τὸ, τὰ, τῶν, ὁ, οἳ, τὴν, ὃ, οἱ, τοὺς, τοῖσι</li>
       <li>DET: ὁ, τοῦ, τὴν, τὸ, τὸν, τῶν, τῆς, οἱ, τῷ, τὰ</li>
+      <li>PRON: τὸ, ὁ, οἳ, τὴν, τῶν, ὃ, τοὺς, τοῖσι, τοῦ, τό</li>
     </ul>
   </li>
 </ul>
@@ -622,7 +622,7 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: αὐτοῦ, αὐτῷ, αὐτὸν, αὐτῶν, ὑμῖν, μου, αὐτοῖς, ὑμῶν, σου, ὑμᾶς</li>
+      <li>PRON: αὐτοῦ, αὐτῷ, αὐτῶν, αὐτὸν, ὑμῖν, μου, αὐτοῖς, ὑμῶν, σου, ὑμᾶς</li>
     </ul>
   </li>
 </ul>
@@ -639,7 +639,7 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
   <li>Rel
     <ul>
       <li>ADV: ὡς, καθὼς, ὅταν, ὅπου, ὥσπερ, κατά, τῇ, οὗ, ἔνθα, ὅθεν</li>
-      <li>PRON: ὃς, ὃ, ὃν, οὗ, ᾧ, ἃ, ἣν, τὰ, οἳ, τῶν</li>
+      <li>PRON: ὃς, ὃ, ὃν, οὗ, ᾧ, ἃ, ἣν, τὰ, τῶν, οἳ</li>
     </ul>
   </li>
 </ul>
@@ -652,7 +652,8 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Yes
     <ul>
-      <li>ADJ: ἐμὸν, ἐμὴν, ἐμὴ, ἐμὸς, ἐμῇ, σῇ, ἐμὰ, σφετέρην, σὸν, σῆς</li>
+      <li>DET: ἐμὸν, ἐμὴν, ἐμῇ, ἐμὴ, ἐμὸς, σῇ, σῆς, σῷ, ἐμὰ, ἐμῆς</li>
+      <li>PRON: σφετέρην, ἐμά, ἐμὸν, σά, σοὶ, σὰ, σὸν, ἐμὴν, ἡμετέρην, ἡμετέρου</li>
     </ul>
   </li>
 </ul>
@@ -676,8 +677,8 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>1
     <ul>
-      <li>ADJ: ἐμὸν, ἐμὴν, ἐμὴ, ἐμὸς, ἐμῇ, ἐμὰ, ἐμοῦ, ἐμῆς, ἐμῷ, ἐμά</li>
       <li>AUX-Fin: εἰμι, εἰμὶ, ἐσμεν, εἰμί, ἤμην, ἔσομαι, ἐσμὲν, ἦμεν, ἐσμέν, ἤμεθα</li>
+      <li>DET: ἐμὸν, ἐμὴν, ἐμῇ, ἐμὴ, ἐμὸς, ἐμὰ, ἐμῆς, ἐμῷ, ἐμήν, ἐμοὶ</li>
       <li>PRON: μου, ἐγὼ, ἡμῶν, με, μοι, ἡμῖν, ἐγώ, ἡμᾶς, ἡμεῖς, ἐμοῦ</li>
       <li>VERB-Fin: λέγω, ἔχω, οἶδα, θέλω, ἤκουσα, οἴδαμεν, εἶδον, ἔχομεν, εἶπον, ποιήσω</li>
     </ul>
@@ -687,8 +688,8 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>2
     <ul>
-      <li>ADJ: σὸν, σῆς, σῷ, σά, σοὶ, σὰ, σὴν, σὸς, σόν, σῶν</li>
       <li>AUX-Fin: εἶ, ἐστε, ἐστὲ, ἦτε, ἐστέ, ἔσεσθε, ἔσῃ, εἶς, ἦς, ἴσθι</li>
+      <li>DET: σῆς, σῷ, σὴν, σὸν, σὸς, σά, σου, σοὺς, σόν, σῶν</li>
       <li>PRON: ὑμῖν, ὑμῶν, σου, ὑμᾶς, ὑμεῖς, σὺ, σε, σοι, τοι, σοῦ</li>
       <li>VERB-Fin: οἴδατε, ἔχετε, ἔχεις, ἴδε, ποιεῖτε, βλέπετε, λέγεις, λέγετε, δύνασθε, ὕπαγε</li>
     </ul>
@@ -698,9 +699,9 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>3
     <ul>
-      <li>ADJ: σῇ, σφετέρην, σφετέρων, σφέτερον, σφετέρας, σφετέρης, σφετέρους, σφέτερα, σφετερέων, σφέτερος</li>
       <li>AUX-Fin: ἦν, ἐστιν, ἦσαν, ἐστὶ, ἔσται, ἔστιν, ἐστὶν, εἴη, εἰσὶ, ἔστι</li>
-      <li>PRON: αὐτοῦ, αὐτῷ, αὐτὸν, αὐτῶν, αὐτοῖς, οἱ, αὐτόν, σφι, αὐτοὺς, ὁ</li>
+      <li>DET: σῇ, σφετέρης, σφετέρων, σφέτερα, σφέτερον, σφετέρην, σφετέρους, σφέτερος, σφετέρας, σφετερέων</li>
+      <li>PRON: αὐτοῦ, αὐτῷ, αὐτῶν, αὐτὸν, αὐτοῖς, οἱ, αὐτόν, σφι, αὐτοὺς, ὁ</li>
       <li>VERB-Fin: εἶπεν, λέγει, ἐγένετο, ἔχει, δεῖ, εἶπαν, εἶχον, ἔλεγον, ἦλθεν, λέγουσι</li>
     </ul>
   </li>
@@ -721,7 +722,7 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 </ul>
 
 <ul>
-<li>This corpus uses 4 lemmas as auxiliaries (<a>aux</a>). Examples: εἰμί, πωλέω, ἀγοράζω, ἔχω.</li>
+<li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: εἰμί, ἔχω.</li>
 <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: εἰμί.</li>
 </ul>
 
@@ -737,7 +738,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Acc-ADP(εἰς) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(κατά) (3)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(περί) (2)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(ἐπί) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(ὑπέρ) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(ὑπό) (1)</li>
       <li>VERB-Fin--NOUN-Dat (1)</li>
@@ -747,38 +747,38 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Gen-ADP(ἐκ) (8)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(ἐπί) (3)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(ὑπέρ) (1)</li>
-      <li>VERB-Fin--NOUN-Nom (3340)</li>
-      <li>VERB-Fin--PRON-Acc (8)</li>
+      <li>VERB-Fin--NOUN-Nom (3337)</li>
+      <li>VERB-Fin--PRON-Acc (7)</li>
       <li>VERB-Fin--PRON-Acc-ADP(κατά) (1)</li>
       <li>VERB-Fin--PRON-Acc-ADP(περί) (2)</li>
       <li>VERB-Fin--PRON-Dat (1)</li>
       <li>VERB-Fin--PRON-Dat-ADP(σύν) (1)</li>
-      <li>VERB-Fin--PRON-Gen (1)</li>
-      <li>VERB-Fin--PRON-Gen-ADP(μετά) (2)</li>
+      <li>VERB-Fin--PRON-Gen (2)</li>
+      <li>VERB-Fin--PRON-Gen-ADP(μετά) (1)</li>
       <li>VERB-Fin--PRON-Gen-ADP(παρά) (1)</li>
       <li>VERB-Fin--PRON-Gen-ADP(περί) (1)</li>
       <li>VERB-Fin--PRON-Gen-ADP(ἐκτός) (1)</li>
-      <li>VERB-Fin--PRON-Nom (1976)</li>
+      <li>VERB-Fin--PRON-Nom (2971)</li>
       <li>VERB-Gdv--NOUN-Nom (1)</li>
-      <li>VERB-Gdv--PRON-Nom (1)</li>
-      <li>VERB-Inf--NOUN-Acc (278)</li>
+      <li>VERB-Gdv--PRON-Nom (4)</li>
+      <li>VERB-Inf--NOUN-Acc (277)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(πρός) (1)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(ἐκ) (1)</li>
       <li>VERB-Inf--NOUN-Nom (8)</li>
-      <li>VERB-Inf--PRON-Acc (351)</li>
+      <li>VERB-Inf--PRON-Acc (422)</li>
       <li>VERB-Inf--PRON-Acc-ADP(κατά) (1)</li>
-      <li>VERB-Inf--PRON-Nom (2)</li>
+      <li>VERB-Inf--PRON-Nom (9)</li>
       <li>VERB-Part--NOUN-Acc (2)</li>
       <li>VERB-Part--NOUN-Acc-ADP(παρά) (1)</li>
       <li>VERB-Part--NOUN-Dat (4)</li>
-      <li>VERB-Part--NOUN-Gen (201)</li>
+      <li>VERB-Part--NOUN-Gen (202)</li>
       <li>VERB-Part--NOUN-Gen-ADP(χωρίς) (1)</li>
       <li>VERB-Part--NOUN-Gen-ADP(ἀπό) (1)</li>
-      <li>VERB-Part--NOUN-Nom (66)</li>
-      <li>VERB-Part--PRON-Acc (5)</li>
+      <li>VERB-Part--NOUN-Nom (63)</li>
+      <li>VERB-Part--PRON-Acc (9)</li>
       <li>VERB-Part--PRON-Dat (5)</li>
-      <li>VERB-Part--PRON-Gen (148)</li>
-      <li>VERB-Part--PRON-Nom (47)</li>
+      <li>VERB-Part--PRON-Gen (189)</li>
+      <li>VERB-Part--PRON-Nom (116)</li>
     </ul>
   </li>
 </ul>
@@ -786,7 +786,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (14)</li>
+      <li>VERB-Fin--NOUN (15)</li>
       <li>VERB-Fin--NOUN-Acc (3811)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(εἰς) (3)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(κατά) (2)</li>
@@ -796,36 +796,37 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Acc-ADP(ἀνά) (2)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(ὑπό) (2)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(ἐν) (1)</li>
-      <li>VERB-Fin--NOUN-Gen (23)</li>
+      <li>VERB-Fin--NOUN-Gen (24)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(διά) (1)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(ἀπό) (11)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(ἀπό) (10)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(ἐκ) (15)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(ἐντός) (1)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(ἔξωθεν) (2)</li>
       <li>VERB-Fin--NOUN-Nom (4)</li>
-      <li>VERB-Fin--PRON-Acc (2543)</li>
+      <li>VERB-Fin--PRON-Acc (3357)</li>
       <li>VERB-Fin--PRON-Acc-ADP(κατά) (3)</li>
       <li>VERB-Fin--PRON-Acc-ADP(περί) (1)</li>
       <li>VERB-Fin--PRON-Dat (22)</li>
-      <li>VERB-Fin--PRON-Gen (73)</li>
+      <li>VERB-Fin--PRON-Gen (75)</li>
       <li>VERB-Fin--PRON-Gen-ADP(περί) (6)</li>
-      <li>VERB-Fin--PRON-Gen-ADP(ἐκ) (5)</li>
-      <li>VERB-Fin--PRON-Nom (1)</li>
+      <li>VERB-Fin--PRON-Gen-ADP(ἐκ) (7)</li>
+      <li>VERB-Fin--PRON-Nom (3)</li>
       <li>VERB-Gdv--NOUN-Acc (1)</li>
       <li>VERB-Inf--NOUN (2)</li>
-      <li>VERB-Inf--NOUN-Acc (808)</li>
+      <li>VERB-Inf--NOUN-Acc (807)</li>
       <li>VERB-Inf--NOUN-Dat-ADP(ἐν) (1)</li>
       <li>VERB-Inf--NOUN-Gen (4)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(ἀπό) (1)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(ἐκ) (1)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(ἐπί) (1)</li>
       <li>VERB-Inf--NOUN-Nom (1)</li>
-      <li>VERB-Inf--PRON-Acc (330)</li>
+      <li>VERB-Inf--PRON-Acc (505)</li>
       <li>VERB-Inf--PRON-Gen (3)</li>
       <li>VERB-Inf--PRON-Gen-ADP(περί) (1)</li>
       <li>VERB-Inf--PRON-Gen-ADP(ἐκ) (1)</li>
+      <li>VERB-Inf--PRON-Nom (1)</li>
       <li>VERB-Part--NOUN (1)</li>
-      <li>VERB-Part--NOUN-Acc (1919)</li>
+      <li>VERB-Part--NOUN-Acc (1922)</li>
       <li>VERB-Part--NOUN-Acc-ADP(περί) (1)</li>
       <li>VERB-Part--NOUN-Acc-ADP(πρός) (2)</li>
       <li>VERB-Part--NOUN-Acc-ADP(ἐπί) (1)</li>
@@ -835,7 +836,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--NOUN-Gen-ADP(ἐκ) (3)</li>
       <li>VERB-Part--NOUN-Nom (2)</li>
       <li>VERB-Part--NOUN-Voc (1)</li>
-      <li>VERB-Part--PRON-Acc (501)</li>
+      <li>VERB-Part--PRON-Acc (928)</li>
       <li>VERB-Part--PRON-Gen (3)</li>
       <li>VERB-Part--PRON-Gen-ADP(παρά) (2)</li>
       <li>VERB-Part--PRON-Gen-ADP(περί) (2)</li>
@@ -846,24 +847,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--NOUN-Acc (9)</li>
-      <li>VERB-Fin--NOUN-Dat (691)</li>
-      <li>VERB-Fin--NOUN-Gen (282)</li>
-      <li>VERB-Fin--NOUN-Nom (2)</li>
-      <li>VERB-Fin--PRON-Acc (8)</li>
-      <li>VERB-Fin--PRON-Dat (2265)</li>
-      <li>VERB-Fin--PRON-Gen (182)</li>
-      <li>VERB-Gdv--PRON-Gen (1)</li>
-      <li>VERB-Inf--NOUN-Dat (170)</li>
-      <li>VERB-Inf--NOUN-Gen (77)</li>
-      <li>VERB-Inf--PRON-Dat (232)</li>
-      <li>VERB-Inf--PRON-Gen (24)</li>
-      <li>VERB-Part--NOUN-Acc (12)</li>
-      <li>VERB-Part--NOUN-Dat (227)</li>
-      <li>VERB-Part--NOUN-Gen (141)</li>
-      <li>VERB-Part--NOUN-Nom (1)</li>
-      <li>VERB-Part--PRON-Dat (268)</li>
-      <li>VERB-Part--PRON-Gen (38)</li>
     </ul>
   </li>
 </ul>
@@ -873,13 +856,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 183 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: ὡς σεαυτόν, δίδωμι ἑωυτῷ, προσέχω ἑαυτοῖς, συνίστημι ἑαυτοὺς, ταπεινόω ἑαυτὸν, δίδωμι ἑαυτὸν, δείκνυμι σεαυτὸν, παραδίδωμι ἑαυτὸν, ποιέω ἑαυτὸν, σῴζω σεαυτὸν, ἀναθεματίζω ἑαυτοὺς, ὑψόω ἑαυτὸν, βάλλω σεαυτὸν, δίδωμι ἑαυτοὺς, καταλλάσσω ἑαυτῷ, παρίστημι ἑαυτοὺς, ποιέω σεαυτὸν, πονηρός ἑαυτοῦ, προσφέρω ἑαυτὸν, σῴζω σεαυτόν, σῴζω ἑαυτὸν, χαρίζομαι ἑαυτοῖς, ἀπαρνέομαι ἑαυτὸν, ἀρνέομαι ἑαυτὸν, βάλλω ἑαυτὸν, βασιλεύω σεωυτοῦ, βλέπω ἑαυτούς, γίγνομαι ἑωυτοῖσι, γίγνομαι ἑωυτῷ, γυμνάζω σεαυτὸν, δίδωμι ἑωυτοὺς, δίδωμι ἑωυτοῖσι, δίδωμι ἑωυτὴν, δασμοφόρος ἑωυτοῦ, διαζώννυμι ἑαυτόν, διακονέω ἑαυτοῖς, διακρίνω ἑαυτοὺς, διαμερίζω ἑαυτοῖς, διατηρέω ἑαυτοὺς, διδάσκω σεαυτὸν, διδάσκω ἑαυτοὺς, διεργάζομαι ἑωυτόν, διερμηνεύω ἑαυτοῦ, δικαιόω ἑαυτοὺς, δικαιόω ἑαυτὸν, δοκιμάζω ἑαυτοὺς, δοκιμάζω ἑαυτόν, δοξάζω ἐμαυτόν, δουλόω ἐμαυτὸν, εἰσβάλλω ἑωυτὸν</li>
+  <li>This corpus contains 131 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: συνίστημι ἑαυτοὺς, ταπεινόω ἑαυτὸν, δίδωμι ἑαυτὸν, δείκνυμι σεαυτὸν, παραδίδωμι ἑαυτὸν, ποιέω ἑαυτὸν, σῴζω σεαυτὸν, ἀναθεματίζω ἑαυτοὺς, ὑψόω ἑαυτὸν, βάλλω σεαυτὸν, δίδωμι ἑαυτοὺς, παρίστημι ἑαυτοὺς, ποιέω σεαυτὸν, προσφέρω ἑαυτὸν, σῴζω σεαυτόν, σῴζω ἑαυτὸν, ἀπαρνέομαι ἑαυτὸν, ἀρνέομαι ἑαυτὸν, βάλλω ἑαυτὸν, βασιλεύω σεωυτοῦ, βλέπω ἑαυτούς, γυμνάζω σεαυτὸν, δίδωμι ἑωυτοὺς, δίδωμι ἑωυτὴν, διαζώννυμι ἑαυτόν, διακρίνω ἑαυτοὺς, διατηρέω ἑαυτοὺς, διδάσκω σεαυτὸν, διδάσκω ἑαυτοὺς, διεργάζομαι ἑωυτόν, διερμηνεύω ἑαυτοῦ, δικαιόω ἑαυτοὺς, δικαιόω ἑαυτὸν, δοκιμάζω ἑαυτοὺς, δοκιμάζω ἑαυτόν, δοξάζω ἐμαυτόν, δουλόω ἐμαυτὸν, εἰσβάλλω ἑωυτὸν, εὐνουχίζω ἑαυτοὺς, ζητέω ἑαυτοῦ, ζητέω ἑαυτῆς, ζητέω ἑαυτῶν, ζωννύω σεαυτὸν, θεραπεύω σεαυτόν, καθαρίζω ἑαυτοὺς, καλέω ἑωυτοὺς, κατέχω ἑωυτόν, κατακρίνω σεαυτὸν, κατακόπτω ἑαυτὸν, καταλέγω ἑωυτὸν</li>
 </ul>
 
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 5 relation subtypes: <a>aux:pass</a>, <a>csubj:pass</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
-<li>The following 2 main types are not used alone, they are always subtyped: <a>csubj</a>, <a>flat</a></li>
-<li>The following 7 relation types are not used in this corpus at all: <a>expl</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>punct</a></li>
+<li>This corpus uses 8 relation subtypes: <a>advcl:cmp</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>flat:name</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:arg</a></li>
+<li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
+<li>The following 8 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>punct</a></li>
 </ul>

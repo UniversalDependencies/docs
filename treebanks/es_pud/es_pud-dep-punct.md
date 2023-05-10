@@ -25,7 +25,7 @@ The following 12 pairs of parts of speech are connected with `punct`: <tt><a hre
 1	El	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	máximo	máximo	NOUN	NN	Gender=Masc|Number=Sing	4	nsubj	_	_
 3	permitido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	_
-4	es	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	es	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	de	de	ADP	IN	_	7	case	_	_
 6	5 000	5 000	NUM	CD	Gender=Masc|NumType=Card	7	nummod	_	_
 7	$	_	NOUN	NN	Gender=Masc|Number=Plur	4	obl	_	_
@@ -43,11 +43,11 @@ The following 12 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 11	fgColor:white
 # visual-style 11 10 punct	color:blue
 1	Eso	eso	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	2	nsubj	_	_
-2	es	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	es	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	4	det	_	_
-4	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Int,Rel	6	obj	_	_
+4	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	6	obj	_	_
 5	no	_	ADV	RB	Polarity=Neg	6	advmod	_	_
-6	necesitamos	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	_
+6	necesitamos	_	VERB	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
 7	en	en	ADP	IN	_	9	case	_	_
 8	nuestro	nuestro	PRON	DTP$	Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
 9	país	país	NOUN	NN	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
@@ -71,7 +71,7 @@ The following 12 pairs of parts of speech are connected with `punct`: <tt><a hre
 5	código	código	NOUN	NN	Gender=Masc|Number=Sing	10	nsubj	_	_
 6	de	de	ADP	IN	_	7	case	_	_
 7	vestimenta	vestimenta	NOUN	NN	Gender=Fem|Number=Sing	5	nmod	_	_
-8	era	ser	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	cop	_	_
+8	era	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
 9	muy	muy	ADV	RB	_	10	advmod	_	_
 10	conservador	conservador	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	10	punct	_	_

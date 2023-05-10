@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="pt_cintil-pos-VERB.
 
 28187 <tt><a href="pt_cintil-pos-VERB.html">VERB</a></tt> tokens (66% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="pt_cintil-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (28187; 100%), <tt><a href="pt_cintil-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (28187; 100%), <tt><a href="pt_cintil-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (27575; 98%), <tt><a href="pt_cintil-feat-Person.html">Person</a></tt><tt>=3</tt> (25855; 92%), <tt><a href="pt_cintil-feat-Number.html">Number</a></tt><tt>=Sing</tt> (21044; 75%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="pt_cintil-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (28187; 100%), <tt><a href="pt_cintil-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (28187; 100%), <tt><a href="pt_cintil-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (27575; 98%), <tt><a href="pt_cintil-feat-Person.html">Person</a></tt><tt>=3</tt> (25855; 92%), <tt><a href="pt_cintil-feat-Number.html">Number</a></tt><tt>=Sing</tt> (21044; 75%).
 
 `VERB` tokens may have the following values of `Tense`:
 
@@ -45,7 +45,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 12610 <tt><a href="pt_cintil-pos-AUX.html">AUX</a></tt> tokens (88% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="pt_cintil-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (12610; 100%), <tt><a href="pt_cintil-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (12326; 98%), <tt><a href="pt_cintil-feat-Person.html">Person</a></tt><tt>=3</tt> (12153; 96%), <tt><a href="pt_cintil-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9638; 76%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="pt_cintil-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (12326; 98%), <tt><a href="pt_cintil-feat-Person.html">Person</a></tt><tt>=3</tt> (12153; 96%), <tt><a href="pt_cintil-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (12118; 96%), <tt><a href="pt_cintil-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9638; 76%).
 
 `AUX` tokens may have the following values of `Tense`:
 

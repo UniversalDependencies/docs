@@ -9,25 +9,25 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-33026 tokens (8%) have a non-empty value of `Degree`.
-14145 types (18%) occur at least once with a non-empty value of `Degree`.
-6617 lemmas (16%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 1 part-of-speech tags: <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (33026; 8% instances).
+33024 tokens (8%) have a non-empty value of `Degree`.
+14143 types (18%) occur at least once with a non-empty value of `Degree`.
+6616 lemmas (16%) occur at least once with a non-empty value of `Degree`.
+The feature is used with 1 part-of-speech tags: <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (33024; 8% instances).
 
 ### `ADJ`
 
-33026 <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> tokens (90% of all `ADJ` tokens) have a non-empty value of `Degree`.
+33024 <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> tokens (90% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="et_edt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (25326; 77%), <tt><a href="et_edt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (25158; 76%), <tt><a href="et_edt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (25151; 76%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (21376; 65%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="et_edt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (25325; 77%), <tt><a href="et_edt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (25157; 76%), <tt><a href="et_edt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (25150; 76%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (21374; 65%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Cmp` (2612; 8% of non-empty `Degree`): <em>suurem, suurema, parem, väiksem, suuremad, kõrgem, suuremat, lihtsam, kõrgema, parema</em>
-* `Pos` (30010; 91% of non-empty `Degree`): <em>suur, hea, võimalik, uue, eri, raske, suure, oluline, valmis, viimase</em>
+* `Pos` (30008; 91% of non-empty `Degree`): <em>suur, hea, võimalik, uue, eri, raske, suure, oluline, valmis, viimase</em>
 * `Sup` (404; 1% of non-empty `Degree`): <em>parim, suurim, suurima, parimaks, kõrgeim, parima, parimad, suurimaks, tuntuim, suurimad</em>
-* `EMPTY` (3739): <em>eesti, esimene, 1., esimest, nn, esimese, vene, teine, 2000., 2.</em>
+* `EMPTY` (3737): <em>eesti, esimene, 1., esimest, nn, esimese, vene, teine, 2000., 2.</em>
 
-`Degree` seems to be **lexical feature** of `ADJ`. 100% lemmas (6617) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADJ`. 100% lemmas (6616) occur only with one value of `Degree`.
 
 ## Relations with Agreement in `Degree`
 

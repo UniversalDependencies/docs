@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-34 nodes (2%) are attached to their parents as `cc`.
+36 nodes (2%) are attached to their parents as `cc`.
 
-33 instances of `cc` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.47058823529412.
+34 instances of `cc` (94%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.5.
 
-The following 6 pairs of parts of speech are connected with `cc`: <tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sah_yktdt-pos-CCONJ.html">CCONJ</a></tt> (18; 53% instances), <tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sah_yktdt-pos-CCONJ.html">CCONJ</a></tt> (9; 26% instances), <tt><a href="sah_yktdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sah_yktdt-pos-CCONJ.html">CCONJ</a></tt> (4; 12% instances), <tt><a href="sah_yktdt-pos-ADV.html">ADV</a></tt>-<tt><a href="sah_yktdt-pos-CCONJ.html">CCONJ</a></tt> (1; 3% instances), <tt><a href="sah_yktdt-pos-PRON.html">PRON</a></tt>-<tt><a href="sah_yktdt-pos-CCONJ.html">CCONJ</a></tt> (1; 3% instances), <tt><a href="sah_yktdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sah_yktdt-pos-CCONJ.html">CCONJ</a></tt> (1; 3% instances).
+The following 6 pairs of parts of speech are connected with `cc`: <tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sah_yktdt-pos-CCONJ.html">CCONJ</a></tt> (19; 53% instances), <tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sah_yktdt-pos-CCONJ.html">CCONJ</a></tt> (10; 28% instances), <tt><a href="sah_yktdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sah_yktdt-pos-CCONJ.html">CCONJ</a></tt> (4; 11% instances), <tt><a href="sah_yktdt-pos-ADV.html">ADV</a></tt>-<tt><a href="sah_yktdt-pos-CCONJ.html">CCONJ</a></tt> (1; 3% instances), <tt><a href="sah_yktdt-pos-PRON.html">PRON</a></tt>-<tt><a href="sah_yktdt-pos-CCONJ.html">CCONJ</a></tt> (1; 3% instances), <tt><a href="sah_yktdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sah_yktdt-pos-CCONJ.html">CCONJ</a></tt> (1; 3% instances).
 
 
 ~~~ conllu

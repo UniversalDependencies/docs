@@ -12,4 +12,4 @@ oːn ti= ʃaː =t =oːn tam -na ti= i̠ːjʔaː gʷʔa -na /
 text_en: we ate our meat [and] we drunk the milk
 parataxis:coord(gʷʔa, tam) ("drink", "eat")
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:42 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:04:31 CEST -->

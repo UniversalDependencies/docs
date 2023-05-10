@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Past`, `Pres`.
 
-34594 tokens (11%) have a non-empty value of `Tense`.
-2518 types (8%) occur at least once with a non-empty value of `Tense`.
-1433 lemmas (6%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (19147; 6% instances), <tt><a href="no_bokmaal-pos-AUX.html">AUX</a></tt> (15447; 5% instances).
+34596 tokens (11%) have a non-empty value of `Tense`.
+2519 types (8%) occur at least once with a non-empty value of `Tense`.
+1434 lemmas (6%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 2 part-of-speech tags: <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (19149; 6% instances), <tt><a href="no_bokmaal-pos-AUX.html">AUX</a></tt> (15447; 5% instances).
 
 ### `VERB`
 
-19147 <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> tokens (57% of all `VERB` tokens) have a non-empty value of `Tense`.
+19149 <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> tokens (57% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="no_bokmaal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (19147; 100%), <tt><a href="no_bokmaal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (19147; 100%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="no_bokmaal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (19149; 100%), <tt><a href="no_bokmaal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (19147; 100%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Past` (5445; 28% of non-empty `Tense`): <em>ble, hadde, kom, fikk, sa, gikk, tok, var, gjorde, så</em>
-* `Pres` (13702; 72% of non-empty `Tense`): <em>har, sier, er, blir, kommer, går, mener, får, ser, gjør</em>
-* `EMPTY` (14204): <em>ha, få, bli, ta, gjøre, se, si, gå, fått, gi</em>
+* `Pres` (13704; 72% of non-empty `Tense`): <em>har, sier, er, blir, kommer, går, mener, får, ser, gjør</em>
+* `EMPTY` (14202): <em>ha, få, bli, ta, gjøre, se, si, gå, fått, gi</em>
 
 <table>
   <tr><th>Paradigm <i>ha</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -51,5 +51,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="no_bokmaal-dep-conj.html">conj</a></tt>]--> VERB</tt> (1524; 66%).
+<tt>VERB --[<tt><a href="no_bokmaal-dep-conj.html">conj</a></tt>]--> VERB</tt> (1526; 66%),
+<tt>VERB --[<tt><a href="no_bokmaal-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (993; 52%),
+<tt>AUX --[<tt><a href="no_bokmaal-dep-conj.html">conj</a></tt>]--> VERB</tt> (1; 100%).
 

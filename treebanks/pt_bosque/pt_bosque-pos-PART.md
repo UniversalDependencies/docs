@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.423132).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.423840).
 
 The 1st highest number of forms (1) was observed with the lemma “anti”: <em>anti</em>.
 
@@ -34,8 +34,8 @@ The 3rd highest number of forms (1) was observed with the lemma “pós”: <em>
 `PART` occurs with 3 feature-value pairs: `ExtPos=NOUN`, `Gender=Masc`, `Number=Sing`
 
 `PART` occurs with 3 feature combinations.
-The most frequent feature combination is `ExtPos=NOUN` (1 tokens).
-Examples: <em>pré</em>
+The most frequent feature combination is `Gender=Masc|Number=Sing` (1 tokens).
+Examples: <em>pós</em>
 
 
 ## Relations

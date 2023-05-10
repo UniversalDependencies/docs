@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Western_Armenian-ArmTDP: Features: `Animacy`
 
-This feature is universal but the values `Hum` are language-specific.
+This feature is universal.
 It occurs with 2 different values: `Hum`, `Nhum`.
 
 35362 tokens (29%) have a non-empty value of `Animacy`.
@@ -26,18 +26,18 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
 * `Nhum` (24812; 82% of non-empty `Animacy`): <em>բան, ի, ին, օր, տարի, անգամ, ատեն, տեղի, ը, տեղ</em>
 
 <table>
-  <tr><th>Paradigm <i>ը</i></th><th><tt>Nhum</tt></th><th><tt>Hum</tt></th></tr>
+  <tr><th>Paradigm <i>ը</i></th><th><tt>Hum</tt></th><th><tt>Nhum</tt></th></tr>
   <tr><td><tt><tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>էն</em></td><td><em>էն</em></td></tr>
-  <tr><td><tt><tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>է</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ին, յին</em></td><td><em>ին</em></td></tr>
-  <tr><td><tt><tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ի, ու, յի</em></td><td><em>ի</em></td></tr>
-  <tr><td><tt><tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>ներու</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ով</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>երով</em></td></tr>
+  <tr><td><tt><tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>է</em></td></tr>
+  <tr><td><tt><tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ին</em></td><td><em>ին, յին</em></td></tr>
+  <tr><td><tt><tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ի</em></td><td><em>ի, ու, յի</em></td></tr>
+  <tr><td><tt><tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>ներու</em></td></tr>
+  <tr><td><tt><tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>ով</em></td></tr>
+  <tr><td><tt><tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>երով</em></td><td></td></tr>
   <tr><td><tt><tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ը, ն</em></td><td><em>ը, ն</em></td></tr>
   <tr><td><tt><tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>ները, երը</em></td><td><em>ները, երը</em></td></tr>
-  <tr><td><tt><tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>եր, ներ</em></td><td><em>ներ</em></td></tr>
-  <tr><td><tt><tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hyw_armtdp-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="hyw_armtdp-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt></tt></td><td><em>ս</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>ներ</em></td><td><em>եր, ներ</em></td></tr>
+  <tr><td><tt><tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hyw_armtdp-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="hyw_armtdp-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt></tt></td><td></td><td><em>ս</em></td></tr>
 </table>
 
 `Animacy` seems to be **lexical feature** of `NOUN`. 99% lemmas (5070) occur only with one value of `Animacy`.
@@ -54,10 +54,10 @@ The most frequent other feature values with which `PROPN` and `Animacy` co-occur
 * `Nhum` (1921; 43% of non-empty `Animacy`): <em>Հայաստանի, Թուրքիոյ, Արցախի, Հայաստան, Պոլսոյ, Լիբանանի, Թուրքիան, Պոլիս, Միքքին, ԱՄՆ</em>
 
 <table>
-  <tr><th>Paradigm <i>Կիւլպէնկեան</i></th><th><tt>Nhum</tt></th><th><tt>Hum</tt></th></tr>
-  <tr><td><tt><tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="hyw_armtdp-feat-NameType.html">NameType</a></tt><tt>=Com</tt></tt></td><td><em>Կիւլպէնկեանին</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hyw_armtdp-feat-NameType.html">NameType</a></tt><tt>=Com</tt></tt></td><td><em>Կիւլպէնկեանի</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hyw_armtdp-feat-NameType.html">NameType</a></tt><tt>=Sur</tt></tt></td><td></td><td><em>Կիւլպէնկեան, ԿԻՒԼՊԷՆԿԵԱՆ</em></td></tr>
+  <tr><th>Paradigm <i>Կիւլպէնկեան</i></th><th><tt>Hum</tt></th><th><tt>Nhum</tt></th></tr>
+  <tr><td><tt><tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="hyw_armtdp-feat-NameType.html">NameType</a></tt><tt>=Com</tt></tt></td><td></td><td><em>Կիւլպէնկեանին</em></td></tr>
+  <tr><td><tt><tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hyw_armtdp-feat-NameType.html">NameType</a></tt><tt>=Com</tt></tt></td><td></td><td><em>Կիւլպէնկեանի</em></td></tr>
+  <tr><td><tt><tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hyw_armtdp-feat-NameType.html">NameType</a></tt><tt>=Sur</tt></tt></td><td><em>Կիւլպէնկեան, ԿԻՒԼՊԷՆԿԵԱՆ</em></td><td></td></tr>
 </table>
 
 `Animacy` seems to be **lexical feature** of `PROPN`. 99% lemmas (1368) occur only with one value of `Animacy`.

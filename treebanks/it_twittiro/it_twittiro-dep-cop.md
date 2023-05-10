@@ -55,7 +55,7 @@ The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="
 8	.	.	PUNCT	FS	_	1	punct	_	_
 9	[	[	PUNCT	FB	_	10	punct	_	SpaceAfter=No
 10	@user	@user	SYM	SYM	_	1	vocative:mention	_	SpaceAfter=No
-11	]	]	PUNCT	FB	_	10	punct	_	SpaceAfter=\n
+11	]	]	PUNCT	FB	_	10	punct	_	SpacesAfter=\n
 
 ~~~
 

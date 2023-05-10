@@ -23,7 +23,7 @@ The following 13 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 3	fgColor:white
 # visual-style 3 4 nmod	color:blue
 1	Umuixekar	ixe	VERB	vt	Person[subj]=3|Voice=Cau	0	root	_	_
-2	inemuʔi	inemu	NOUN	n	Dimin=Yes	1	obj	_	_
+2	inemuʔi	inemu	NOUN	n	Degree=Dim	1	obj	_	_
 3	aguz	aguz	NOUN	n	_	1	obl	_	_
 4	apɨgwar	apɨha	NOUN	n	Nomzr=Circ	3	nmod	_	_
 5	rupi	upi	ADP	posp	Rel=Cont	4	case	_	_
@@ -40,7 +40,7 @@ The following 13 pairs of parts of speech are connected with `nmod`: <tt><a href
 1	Oho	ho	VERB	vi	Person[subj]=3	0	root	_	_
 2	Zuze	Zuze	PROPN	pn	_	3	nmod	_	_
 3	ihɨ	hɨ	NOUN	n	Rel=NCont	1	obl:subj	_	_
-4	kope	ko	NOUN	n	Case=All	1	obl	_	_
+4	kope	ko	NOUN	n	Case=Loc	1	obl	_	_
 5	kara	kara	NOUN	n	_	1	obl	_	_
 6	ipiaromo	piar	ADP	posp	Case=Tra|Rel=NCont	1	case	_	_
 7	.	.	PUNCT	punct	_	1	punct	_	_

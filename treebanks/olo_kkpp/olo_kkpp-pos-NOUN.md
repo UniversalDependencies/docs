@@ -42,7 +42,7 @@ The 10 most frequent ambiguous types:  <em>piduhuttu</em> (<tt><a href="olo_kkpp
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 1.343612 (the average of all parts of speech is 1.333901).
+The form / lemma ratio of `NOUN` is 1.343612 (the average of all parts of speech is 1.338462).
 
 The 1st highest number of forms (7) was observed with the lemma “arbaitus”: <em>Arbaituksen, arbaitukses, arbaitukset, arbaituksien, arbaituksii, arbaituksis, arbaitustu</em>.
 
@@ -50,12 +50,12 @@ The 2nd highest number of forms (6) was observed with the lemma “kieli”: <em
 
 The 3rd highest number of forms (6) was observed with the lemma “saari”: <em>saaraa, saaran, saari, saaril, saarilloo, saaris</em>.
 
-`NOUN` occurs with 9 features: <tt><a href="olo_kkpp-feat-Case.html">Case</a></tt> (429; 100% instances), <tt><a href="olo_kkpp-feat-Number.html">Number</a></tt> (429; 100% instances), <tt><a href="olo_kkpp-feat-Mood.html">Mood</a></tt> (1; 0% instances), <tt><a href="olo_kkpp-feat-Number-psor.html">Number[psor]</a></tt> (1; 0% instances), <tt><a href="olo_kkpp-feat-Person.html">Person</a></tt> (1; 0% instances), <tt><a href="olo_kkpp-feat-Person-psor.html">Person[psor]</a></tt> (1; 0% instances), <tt><a href="olo_kkpp-feat-Tense.html">Tense</a></tt> (1; 0% instances), <tt><a href="olo_kkpp-feat-VerbForm.html">VerbForm</a></tt> (1; 0% instances), <tt><a href="olo_kkpp-feat-Voice.html">Voice</a></tt> (1; 0% instances)
+`NOUN` occurs with 10 features: <tt><a href="olo_kkpp-feat-Case.html">Case</a></tt> (429; 100% instances), <tt><a href="olo_kkpp-feat-Number.html">Number</a></tt> (429; 100% instances), <tt><a href="olo_kkpp-feat-Mood.html">Mood</a></tt> (1; 0% instances), <tt><a href="olo_kkpp-feat-Number-psor.html">Number[psor]</a></tt> (1; 0% instances), <tt><a href="olo_kkpp-feat-Person.html">Person</a></tt> (1; 0% instances), <tt><a href="olo_kkpp-feat-Person-psor.html">Person[psor]</a></tt> (1; 0% instances), <tt><a href="olo_kkpp-feat-Tense.html">Tense</a></tt> (1; 0% instances), <tt><a href="olo_kkpp-feat-Typo.html">Typo</a></tt> (1; 0% instances), <tt><a href="olo_kkpp-feat-VerbForm.html">VerbForm</a></tt> (1; 0% instances), <tt><a href="olo_kkpp-feat-Voice.html">Voice</a></tt> (1; 0% instances)
 
-`NOUN` occurs with 24 feature-value pairs: `Case=Abl`, `Case=Acc`, `Case=Ade`, `Case=All`, `Case=Com`, `Case=Ela`, `Case=Ess`, `Case=Gen`, `Case=Ill`, `Case=Ine`, `Case=Ins`, `Case=Nom`, `Case=Par`, `Case=Ter`, `Case=Tra`, `Mood=Ind`, `Number=Plur`, `Number=Sing`, `Number[psor]=Sing`, `Person=3`, `Person[psor]=3`, `Tense=Pres`, `VerbForm=Fin`, `Voice=Act`
+`NOUN` occurs with 25 feature-value pairs: `Case=Abl`, `Case=Acc`, `Case=Ade`, `Case=All`, `Case=Com`, `Case=Ela`, `Case=Ess`, `Case=Gen`, `Case=Ill`, `Case=Ine`, `Case=Ins`, `Case=Nom`, `Case=Par`, `Case=Ter`, `Case=Tra`, `Mood=Ind`, `Number=Plur`, `Number=Sing`, `Number[psor]=Sing`, `Person=3`, `Person[psor]=3`, `Tense=Pres`, `Typo=Yes`, `VerbForm=Fin`, `Voice=Act`
 
-`NOUN` occurs with 28 feature combinations.
-The most frequent feature combination is `Case=Nom|Number=Sing` (82 tokens).
+`NOUN` occurs with 29 feature combinations.
+The most frequent feature combination is `Case=Nom|Number=Sing` (81 tokens).
 Examples: <em>saari, briha, taatto, bobuli-briha, bohattu, häkki, kodi, paimoi, -liitto, akku</em>
 
 

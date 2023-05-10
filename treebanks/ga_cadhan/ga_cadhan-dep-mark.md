@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `mark`: <tt><a href="ga_cadhan-dep-mark-prt.html">mark:prt</a></tt>.
 
-80 nodes (2%) are attached to their parents as `mark`.
+104 nodes (2%) are attached to their parents as `mark`.
 
-80 instances of `mark` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.3625.
+104 instances of `mark` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.32692307692308.
 
-The following 8 pairs of parts of speech are connected with `mark`: <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> (39; 49% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> (28; 35% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> (7; 9% instances), <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> (2; 3% instances), <tt><a href="ga_cadhan-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="ga_cadhan-pos-PART.html">PART</a></tt>-<tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances).
+The following 8 pairs of parts of speech are connected with `mark`: <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> (49; 47% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> (36; 35% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> (10; 10% instances), <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> (5; 5% instances), <tt><a href="ga_cadhan-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="ga_cadhan-pos-PART.html">PART</a></tt>-<tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -62,33 +62,29 @@ The following 8 pairs of parts of speech are connected with `mark`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 1 mark	color:blue
-1	Dá	dá	SCONJ	_	_	3	mark	_	_
-2	mba	is	AUX	_	Form=Ecl|Tense=Past|VerbForm=Cop	3	cop	_	_
-3	rud	rud	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	advcl	_	_
-4	é	é	PRON	_	Gender=Masc|Number=Sing|Person=3	3	nsubj	_	_
-5	go	go	PART	_	PartType=Cmpl	6	mark:prt	_	_
-6	mbeadh	bí	VERB	_	Form=Ecl|Mood=Cnd	3	ccomp	_	_
-7	breac	breac	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
-8	beag	beag	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	7	amod	_	_
-9	suaithinseach	suaithinseach	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	7	amod	_	_
-10	éigin	éigin	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	7	amod	_	_
-11	aige	ag	ADP	_	Gender=Masc|Number=Sing|Person=3	6	xcomp:pred	_	_
-12	bhídís	bí	VERB	_	Aspect=Imp|Form=Len|Number=Plur|Person=3|Tense=Past	0	root	_	_
-13	ag	ag	ADP	_	_	14	case	_	_
-14	pléidhe	plé	NOUN	_	VerbForm=Vnoun	12	xcomp	_	_
-15	le	le	ADP	_	_	16	case	_	_
-16	chéile	céile	NOUN	_	Case=Nom|Form=Len|Gender=Masc|Number=Sing	14	obl	_	_
-17	cé	cé	PRON	_	PronType=Int	14	ccomp	_	_
-18	aige	ag	ADP	_	Gender=Masc|Number=Sing|Person=3	17	obl:prep	_	_
-19	go	go	PART	_	PartType=Cmpl	20	mark:prt	_	_
-20	mbeadh	bí	VERB	_	Form=Ecl|Mood=Cnd	17	ccomp	_	_
-21	sé	sé	PRON	_	Gender=Masc|Number=Sing|Person=3	20	nsubj	_	SpaceAfter=No
-22	.	.	PUNCT	_	_	12	punct	_	SpacesAfter=\n
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 17	bgColor:blue
+# visual-style 17	fgColor:white
+# visual-style 17 16 mark	color:blue
+1	Bíodh	bí	VERB	_	Mood=Imp|Number=Sing|Person=3	14	advcl	_	_
+2	nar	is	AUX	_	Polarity=Neg|PronType=Rel|Tense=Past|VerbForm=Cop	3	cop	_	_
+3	dhiongmhála	diongbháil	ADJ	_	Degree=Pos|Form=Len	1	ccomp	_	_
+4	lat-sa	le	ADP	_	Number=Sing|Person=2|PronType=Emp	3	obl:prep	_	_
+5	ar	ar	ADP	_	_	6	case	_	_
+6	ttecht	teacht	NOUN	_	Form=Ecl|VerbForm=Inf	3	parataxis	_	_
+7	go	go	ADP	_	_	8	case	_	_
+8	háois	aois	NOUN	_	Case=Nom|Form=HPref|Gender=Fem|Number=Sing	6	obl	_	_
+9	ársachta	ársaíocht	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+10	beatha	beatha	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	3	nsubj	_	_
+11	mesardha	measartha	ADJ	_	Case=Gen|Gender=Fem|Number=Sing	10	amod	_	_
+12	denas	denus	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	obl:tmod	_	_
+13	dob	is	PART	_	Form=VF|PartType=Sup|Tense=Past|VerbForm=Cop	14	mark:prt	_	_
+14	fheárr	maith	ADJ	_	Degree=Cmp,Sup|Form=Len	0	root	_	_
+15	í	í	PRON	_	Gender=Fem|Number=Sing|Person=3	14	nsubj	_	_
+16	na	ná	SCONJ	_	_	17	mark	_	_
+17	braighdenas	braighdeanas	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	14	advcl	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	14	punct	_	_
 
 ~~~
 

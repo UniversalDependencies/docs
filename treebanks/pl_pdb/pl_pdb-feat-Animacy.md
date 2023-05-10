@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Polish-PDB: Features: `Animacy`
 
-This feature is universal but the values `Hum` are language-specific.
+This feature is universal.
 It occurs with 3 different values: `Hum`, `Inan`, `Nhum`.
 
 83511 tokens (24%) have a non-empty value of `Animacy`.
@@ -28,13 +28,13 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
 * `EMPTY` (48391): <em>kobieta, pracy, osób, dzieci, dziewczynka, pani, osoby, sprawie, dziecko, życie</em>
 
 <table>
-  <tr><th>Paradigm <i>pilot</i></th><th><tt>Nhum</tt></th><th><tt>Inan</tt></th><th><tt>Hum</tt></th></tr>
-  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>pilota</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>pilotom</em></td></tr>
-  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>pilota</em></td><td></td><td><em>pilota</em></td></tr>
-  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>pilotów</em></td></tr>
-  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>pilotem</em></td><td><em>pilotem</em></td></tr>
-  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>piloci</em></td></tr>
+  <tr><th>Paradigm <i>pilot</i></th><th><tt>Hum</tt></th><th><tt>Nhum</tt></th><th><tt>Inan</tt></th></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>pilota</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>pilotom</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>pilota</em></td><td><em>pilota</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>pilotów</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>pilotem</em></td><td></td><td><em>pilotem</em></td></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>piloci</em></td><td></td><td></td></tr>
 </table>
 
 `Animacy` seems to be **lexical feature** of `NOUN`. 98% lemmas (4542) occur only with one value of `Animacy`.
@@ -53,16 +53,16 @@ The most frequent other feature values with which `ADJ` and `Animacy` co-occurre
 * `EMPTY` (19715): <em>europejskiej, innych, prostu, inne, jednej, drugiej, jedna, polskiej, członkowskie, pierwszej</em>
 
 <table>
-  <tr><th>Paradigm <i>jeden</i></th><th><tt>Nhum</tt></th><th><tt>Inan</tt></th><th><tt>Hum</tt></th></tr>
-  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>jednego</em></td><td><em>jeden</em></td><td><em>jednego</em></td></tr>
-  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>jednemu</em></td><td></td><td><em>jednemu</em></td></tr>
-  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>jednego</em></td><td><em>jednego, JEDNEG0</em></td><td><em>jednego</em></td></tr>
-  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>jednych</em></td><td><em>jednych</em></td></tr>
-  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>jednym</em></td><td><em>jednym</em></td></tr>
+  <tr><th>Paradigm <i>jeden</i></th><th><tt>Hum</tt></th><th><tt>Nhum</tt></th><th><tt>Inan</tt></th></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>jednego</em></td><td><em>jednego</em></td><td><em>jeden</em></td></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>jednemu</em></td><td><em>jednemu</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>jednego</em></td><td><em>jednego</em></td><td><em>jednego, JEDNEG0</em></td></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>jednych</em></td><td></td><td><em>jednych</em></td></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>jednym</em></td><td></td><td><em>jednym</em></td></tr>
   <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>jednym</em></td><td><em>jednym</em></td><td><em>jednym</em></td></tr>
-  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>jednych</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>jednych</em></td></tr>
   <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>jeden</em></td><td><em>jeden</em></td><td><em>jeden</em></td></tr>
-  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>jedne</em></td><td><em>jedni</em></td></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>jedni</em></td><td></td><td><em>jedne</em></td></tr>
 </table>
 
 ### `VERB`
@@ -79,9 +79,9 @@ The most frequent other feature values with which `VERB` and `Animacy` co-occurr
 * `EMPTY` (30404): <em>ma, może, jest, stoi, można, mówi, siedzi, było, należy, mam</em>
 
 <table>
-  <tr><th>Paradigm <i>mieć</i></th><th><tt>Nhum</tt></th><th><tt>Inan</tt></th><th><tt>Hum</tt></th></tr>
+  <tr><th>Paradigm <i>mieć</i></th><th><tt>Hum</tt></th><th><tt>Nhum</tt></th><th><tt>Inan</tt></th></tr>
   <tr><td><tt><tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>miał</em></td><td><em>miał</em></td><td><em>miał</em></td></tr>
-  <tr><td><tt><tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>miały</em></td><td><em>mieli</em></td></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>mieli</em></td><td></td><td><em>miały</em></td></tr>
 </table>
 
 ### `PROPN`
@@ -98,10 +98,10 @@ The most frequent other feature values with which `PROPN` and `Animacy` co-occur
 * `EMPTY` (4340): <em>Polsce, Polski, UE, Europy, Polska, Europie, Warszawie, Warszawy, USA, AWS</em>
 
 <table>
-  <tr><th>Paradigm <i>Piast</i></th><th><tt>Nhum</tt></th><th><tt>Inan</tt></th><th><tt>Hum</tt></th></tr>
-  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>Piasta</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>Piastów</em></td></tr>
-  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Piast</em></td><td></td><td><em>Piast</em></td></tr>
+  <tr><th>Paradigm <i>Piast</i></th><th><tt>Hum</tt></th><th><tt>Nhum</tt></th><th><tt>Inan</tt></th></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>Piasta</em></td></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>Piastów</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Piast</em></td><td><em>Piast</em></td><td></td></tr>
 </table>
 
 `Animacy` seems to be **lexical feature** of `PROPN`. 99% lemmas (3825) occur only with one value of `Animacy`.
@@ -120,37 +120,37 @@ The most frequent other feature values with which `PRON` and `Animacy` co-occurr
 * `EMPTY` (11692): <em>się, to, co, jej, tym, sobie, siebie, tego, ją, coś</em>
 
 <table>
-  <tr><th>Paradigm <i>on</i></th><th><tt>Nhum</tt></th><th><tt>Inan</tt></th><th><tt>Hum</tt></th></tr>
-  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pdb-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt>|<tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=Long</tt></tt></td><td></td><td><em>go, jego</em></td><td><em>jego</em></td></tr>
+  <tr><th>Paradigm <i>on</i></th><th><tt>Hum</tt></th><th><tt>Nhum</tt></th><th><tt>Inan</tt></th></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pdb-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt>|<tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=Long</tt></tt></td><td><em>jego</em></td><td></td><td><em>go, jego</em></td></tr>
   <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pdb-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt>|<tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td><em>go</em></td><td><em>go</em></td><td><em>go</em></td></tr>
   <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pdb-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt>|<tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=Long</tt></tt></td><td><em>niego</em></td><td><em>niego</em></td><td><em>niego</em></td></tr>
-  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pdb-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt>|<tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td></td><td></td><td><em>ń</em></td></tr>
-  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pl_pdb-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt>|<tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=Long</tt></tt></td><td><em>je</em></td><td><em>je, ich</em></td><td><em>ich</em></td></tr>
-  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pl_pdb-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt>|<tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td></td><td><em>je</em></td><td><em>ich</em></td></tr>
-  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pl_pdb-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt>|<tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=Long</tt></tt></td><td></td><td><em>nie, nich</em></td><td><em>nich</em></td></tr>
-  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pdb-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt>|<tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=Long</tt></tt></td><td></td><td></td><td><em>jemu</em></td></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pdb-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt>|<tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td><em>ń</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pl_pdb-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt>|<tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=Long</tt></tt></td><td><em>ich</em></td><td><em>je</em></td><td><em>je, ich</em></td></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pl_pdb-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt>|<tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td><em>ich</em></td><td></td><td><em>je</em></td></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pl_pdb-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt>|<tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=Long</tt></tt></td><td><em>nich</em></td><td></td><td><em>nie, nich</em></td></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pdb-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt>|<tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=Long</tt></tt></td><td><em>jemu</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pdb-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt>|<tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td><em>mu</em></td><td><em>mu</em></td><td><em>mu</em></td></tr>
-  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pdb-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt>|<tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=Long</tt></tt></td><td></td><td><em>niemu</em></td><td><em>niemu</em></td></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pdb-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt>|<tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=Long</tt></tt></td><td><em>niemu</em></td><td></td><td><em>niemu</em></td></tr>
   <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pl_pdb-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt>|<tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=Long</tt></tt></td><td><em>im</em></td><td><em>im</em></td><td><em>im</em></td></tr>
-  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pl_pdb-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt>|<tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td></td><td></td><td><em>im</em></td></tr>
-  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pl_pdb-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt>|<tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=Long</tt></tt></td><td></td><td></td><td><em>nim</em></td></tr>
-  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pdb-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt>|<tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=Long</tt></tt></td><td><em>jego</em></td><td><em>jego, niego</em></td><td><em>jego</em></td></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pl_pdb-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt>|<tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td><em>im</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pl_pdb-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt>|<tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=Long</tt></tt></td><td><em>nim</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pdb-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt>|<tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=Long</tt></tt></td><td><em>jego</em></td><td><em>jego</em></td><td><em>jego, niego</em></td></tr>
   <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pdb-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt>|<tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td><em>go</em></td><td><em>go</em></td><td><em>go</em></td></tr>
   <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pdb-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt>|<tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=Long</tt></tt></td><td><em>niego</em></td><td><em>niego</em></td><td><em>niego</em></td></tr>
-  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pdb-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt>|<tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td></td><td><em>ń</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pl_pdb-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt>|<tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=Long</tt></tt></td><td><em>ich</em></td><td><em>ich, je</em></td><td><em>ich</em></td></tr>
-  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pl_pdb-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt>|<tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td></td><td></td><td><em>ich</em></td></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pdb-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt>|<tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td></td><td></td><td><em>ń</em></td></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pl_pdb-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt>|<tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=Long</tt></tt></td><td><em>ich</em></td><td><em>ich</em></td><td><em>ich, je</em></td></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pl_pdb-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt>|<tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td><em>ich</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pl_pdb-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt>|<tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=Long</tt></tt></td><td><em>nich</em></td><td><em>nich</em></td><td><em>nich</em></td></tr>
-  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pdb-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt>|<tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=Long</tt></tt></td><td></td><td><em>nim</em></td><td><em>nim</em></td></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pdb-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt>|<tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=Long</tt></tt></td><td><em>nim</em></td><td></td><td><em>nim</em></td></tr>
   <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pdb-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt>|<tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=Long</tt></tt></td><td><em>nim</em></td><td><em>nim</em></td><td><em>nim</em></td></tr>
   <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pl_pdb-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt>|<tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=Long</tt></tt></td><td><em>nimi</em></td><td><em>nimi</em></td><td><em>nimi</em></td></tr>
   <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pl_pdb-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt>|<tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=Long</tt></tt></td><td><em>nimi</em></td><td><em>nimi</em></td><td><em>nimi</em></td></tr>
-  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pdb-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt>|<tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=Long</tt></tt></td><td></td><td><em>nim</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pdb-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt>|<tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=Long</tt></tt></td><td></td><td></td><td><em>nim</em></td></tr>
   <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pdb-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt>|<tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=Long</tt></tt></td><td><em>nim</em></td><td><em>nim</em></td><td><em>nim</em></td></tr>
-  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pl_pdb-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt>|<tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=Long</tt></tt></td><td></td><td><em>nich</em></td><td><em>nich</em></td></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pl_pdb-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt>|<tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=Long</tt></tt></td><td><em>nich</em></td><td></td><td><em>nich</em></td></tr>
   <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pdb-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt>|<tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=Long</tt></tt></td><td><em>on</em></td><td><em>on</em></td><td><em>on</em></td></tr>
-  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pdb-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt>|<tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=Long</tt></tt></td><td><em>on</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pl_pdb-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt>|<tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=Long</tt></tt></td><td><em>one</em></td><td><em>one</em></td><td><em>oni</em></td></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pdb-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt>|<tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=Long</tt></tt></td><td></td><td><em>on</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pl_pdb-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt>|<tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=Long</tt></tt></td><td><em>oni</em></td><td><em>one</em></td><td><em>one</em></td></tr>
 </table>
 
 ### `DET`
@@ -167,19 +167,19 @@ The most frequent other feature values with which `DET` and `Animacy` co-occurre
 * `EMPTY` (4634): <em>tej, które, która, ta, te, to, tych, której, takie, swoje</em>
 
 <table>
-  <tr><th>Paradigm <i>ten</i></th><th><tt>Nhum</tt></th><th><tt>Inan</tt></th><th><tt>Hum</tt></th></tr>
-  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>tego</em></td><td><em>ten, tego</em></td><td><em>tego</em></td></tr>
-  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>te</em></td><td><em>te</em></td><td><em>tych</em></td></tr>
+  <tr><th>Paradigm <i>ten</i></th><th><tt>Hum</tt></th><th><tt>Nhum</tt></th><th><tt>Inan</tt></th></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>tego</em></td><td><em>tego</em></td><td><em>ten, tego</em></td></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>tych</em></td><td><em>te</em></td><td><em>te</em></td></tr>
   <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>temu</em></td><td><em>temu</em></td><td><em>temu</em></td></tr>
-  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>tym</em></td><td><em>tym</em></td></tr>
-  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>tego</em></td><td><em>tego</em></td></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>tym</em></td><td></td><td><em>tym</em></td></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>tego</em></td><td></td><td><em>tego</em></td></tr>
   <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>tych</em></td><td><em>tych</em></td><td><em>tych</em></td></tr>
-  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>tym</em></td><td><em>tym</em></td></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>tym</em></td><td></td><td><em>tym</em></td></tr>
   <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>tymi</em></td><td><em>tymi</em></td><td><em>tymi</em></td></tr>
-  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>tym</em></td><td><em>tym</em></td></tr>
-  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>tych</em></td><td><em>tych</em></td></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>tym</em></td><td></td><td><em>tym</em></td></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>tych</em></td><td></td><td><em>tych</em></td></tr>
   <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ten</em></td><td><em>ten</em></td><td><em>ten</em></td></tr>
-  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>te</em></td><td><em>te</em></td><td><em>ci</em></td></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>ci</em></td><td><em>te</em></td><td><em>te</em></td></tr>
 </table>
 
 ### `NUM`
@@ -196,14 +196,14 @@ The most frequent other feature values with which `NUM` and `Animacy` co-occurre
 * `EMPTY` (817): <em>dwie, trzy, cztery, dwóch, dwoje, pięć, trzech, 10, dwa, pół</em>
 
 <table>
-  <tr><th>Paradigm <i>dwa</i></th><th><tt>Nhum</tt></th><th><tt>Inan</tt></th><th><tt>Hum</tt></th></tr>
-  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>dwa</em></td><td><em>dwa</em></td><td><em>dwóch, dwu</em></td></tr>
-  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td></td><td></td><td><em>dwóm</em></td></tr>
-  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>dwóch</em></td><td><em>dwóch, dwu</em></td><td><em>dwóch</em></td></tr>
+  <tr><th>Paradigm <i>dwa</i></th><th><tt>Hum</tt></th><th><tt>Nhum</tt></th><th><tt>Inan</tt></th></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>dwóch, dwu</em></td><td><em>dwa</em></td><td><em>dwa</em></td></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>dwóm</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>dwóch</em></td><td><em>dwóch</em></td><td><em>dwóch, dwu</em></td></tr>
   <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Ins</tt></tt></td><td><em>dwoma</em></td><td><em>dwoma</em></td><td><em>dwoma</em></td></tr>
-  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Loc</tt></tt></td><td></td><td><em>dwóch, dwu</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>dwa</em></td><td><em>dwa</em></td><td><em>dwóch, dwaj, Dwoje</em></td></tr>
-  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="pl_pdb-feat-NumType.html">NumType</a></tt><tt>=Sets</tt></tt></td><td></td><td></td><td><em>dwoje</em></td></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Loc</tt></tt></td><td></td><td></td><td><em>dwóch, dwu</em></td></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>dwóch, dwaj, Dwoje</em></td><td><em>dwa</em></td><td><em>dwa</em></td></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="pl_pdb-feat-NumType.html">NumType</a></tt><tt>=Sets</tt></tt></td><td><em>dwoje</em></td><td></td><td></td></tr>
 </table>
 
 ### `AUX`
@@ -220,9 +220,9 @@ The most frequent other feature values with which `AUX` and `Animacy` co-occurre
 * `EMPTY` (8114): <em>jest, em, to, by, będzie, m, są, śmy, być, było</em>
 
 <table>
-  <tr><th>Paradigm <i>być</i></th><th><tt>Nhum</tt></th><th><tt>Inan</tt></th><th><tt>Hum</tt></th></tr>
-  <tr><td><tt><tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>był</em></td><td><em>był</em></td><td><em>był, byl</em></td></tr>
-  <tr><td><tt><tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>Były</em></td><td><em>były</em></td><td><em>byli</em></td></tr>
+  <tr><th>Paradigm <i>być</i></th><th><tt>Hum</tt></th><th><tt>Nhum</tt></th><th><tt>Inan</tt></th></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>był, byl</em></td><td><em>był</em></td><td><em>był</em></td></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>byli</em></td><td><em>Były</em></td><td><em>były</em></td></tr>
 </table>
 
 ## Relations with Agreement in `Animacy`

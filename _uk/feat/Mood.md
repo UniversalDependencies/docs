@@ -46,4 +46,4 @@ because it can also be used in past indicative.
 * _Якби я був розумним, я <b>б</b> вчився в університеті.&nbsp;_ “If I were smart I <b>would</b> study at the
   university.”
 
-<!-- Interlanguage links updated Po lis 14 15:34:49 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:40 CEST -->

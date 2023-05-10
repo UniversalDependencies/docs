@@ -6,15 +6,15 @@ udver: '2'
 
 ## Treebank Statistics: UD_French-Rhapsodie: Relations: `expl:subj`
 
-This relation is a language-specific subtype of <tt><a href="fr_rhapsodie-dep-expl.html">expl</a></tt>.
-There are also 1 other language-specific subtypes of `expl`: <tt><a href="fr_rhapsodie-dep-expl-pass.html">expl:pass</a></tt>.
+This relation is a language-specific subtype of .
+There are also 2 other language-specific subtypes of `expl`: <tt><a href="fr_rhapsodie-dep-expl-comp.html">expl:comp</a></tt>, <tt><a href="fr_rhapsodie-dep-expl-pass.html">expl:pass</a></tt>.
 
-430 nodes (1%) are attached to their parents as `expl:subj`.
+425 nodes (1%) are attached to their parents as `expl:subj`.
 
-408 instances of `expl:subj` (95%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.26744186046512.
+403 instances of `expl:subj` (95%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.27529411764706.
 
-The following 7 pairs of parts of speech are connected with `expl:subj`: <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (325; 76% instances), <tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (37; 9% instances), <tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (36; 8% instances), <tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (22; 5% instances), <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="fr_rhapsodie-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (3; 1% instances).
+The following 7 pairs of parts of speech are connected with `expl:subj`: <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (320; 75% instances), <tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (37; 9% instances), <tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (36; 8% instances), <tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (22; 5% instances), <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="fr_rhapsodie-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (3; 1% instances).
 
 
 ~~~ conllu

@@ -22,7 +22,7 @@ The following 5 pairs of parts of speech are connected with `compound:prt`: <tt>
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 12 compound:prt	color:blue
-1	Airteagal	airteagal	NOUN	Noun	Case=Nom|Gender=Masc|Number=Sing	3	obl	_	_
+1	Airteagal	airteagal	NOUN	Noun	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	3	obl	_	_
 2	26	26	NUM	Num	_	1	nmod	_	_
 3	Féadfar	féad	VERB	VTI	Mood=Ind|Person=0|Tense=Fut	0	root	_	_
 4	finnéithe	finné	NOUN	Noun	Case=Nom|Gender=Masc|Number=Plur	3	obj	_	_

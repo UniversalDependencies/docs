@@ -22,9 +22,9 @@ The following 6 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 3 ccomp	color:blue
-1	Joordam	juʹrdded	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Valency=2	0	root	_	GTtags=Ind,Prs,Sg1
+1	Joordam	juʹrdded	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg1
 2	što	što	SCONJ	CS	_	3	mark	_	_
-3	âbrr	âʹbrred	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Valency=1	1	ccomp	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
+3	âbrr	âʹbrred	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	1	ccomp	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
 4	.	.	PUNCT	CLB	_	1	punct	_	_
 
 ~~~

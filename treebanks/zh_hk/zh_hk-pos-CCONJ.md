@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Chinese-HK: POS Tags: `CCONJ`
 
-There are 1 `CCONJ` lemmas (6%), 16 `CCONJ` types (1%) and 99 `CCONJ` tokens (1%).
-Out of 16 observed tags, the rank of `CCONJ` is: 5 in number of lemmas, 12 in number of types and 13 in number of tokens.
+There are 16 `CCONJ` lemmas (1%), 16 `CCONJ` types (1%) and 99 `CCONJ` tokens (1%).
+Out of 16 observed tags, the rank of `CCONJ` is: 12 in number of lemmas, 12 in number of types and 13 in number of tokens.
 
-The 10 most frequent `CCONJ` lemmas: _
+The 10 most frequent `CCONJ` lemmas: 或、 而、 和、 但、 及、 並、 與、 不過、 以及、 但是
 
 The 10 most frequent `CCONJ` types:  或、 而、 和、 但、 及、 並、 與、 不過、 以及、 但是
 
-The 10 most frequent ambiguous lemmas: _ (<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> 1848, <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> 1766, <tt><a href="zh_hk-pos-PUNCT.html">PUNCT</a></tt> 1738, <tt><a href="zh_hk-pos-ADV.html">ADV</a></tt> 1158, <tt><a href="zh_hk-pos-PRON.html">PRON</a></tt> 875, <tt><a href="zh_hk-pos-PART.html">PART</a></tt> 560, <tt><a href="zh_hk-pos-AUX.html">AUX</a></tt> 502, <tt><a href="zh_hk-pos-ADP.html">ADP</a></tt> 321, <tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt> 301, <tt><a href="zh_hk-pos-DET.html">DET</a></tt> 260, <tt><a href="zh_hk-pos-NUM.html">NUM</a></tt> 177, <tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt> 166, <tt><a href="zh_hk-pos-CCONJ.html">CCONJ</a></tt> 99, <tt><a href="zh_hk-pos-SCONJ.html">SCONJ</a></tt> 68, <tt><a href="zh_hk-pos-INTJ.html">INTJ</a></tt> 34, <tt><a href="zh_hk-pos-SYM.html">SYM</a></tt> 1)
+The 10 most frequent ambiguous lemmas: 而 (<tt><a href="zh_hk-pos-CCONJ.html">CCONJ</a></tt> 17, <tt><a href="zh_hk-pos-ADV.html">ADV</a></tt> 4), 和 (<tt><a href="zh_hk-pos-CCONJ.html">CCONJ</a></tt> 16, <tt><a href="zh_hk-pos-ADP.html">ADP</a></tt> 4), 但 (<tt><a href="zh_hk-pos-ADV.html">ADV</a></tt> 21, <tt><a href="zh_hk-pos-CCONJ.html">CCONJ</a></tt> 15), 並 (<tt><a href="zh_hk-pos-ADV.html">ADV</a></tt> 6, <tt><a href="zh_hk-pos-CCONJ.html">CCONJ</a></tt> 5), 與 (<tt><a href="zh_hk-pos-ADP.html">ADP</a></tt> 5, <tt><a href="zh_hk-pos-CCONJ.html">CCONJ</a></tt> 4), 不過 (<tt><a href="zh_hk-pos-ADV.html">ADV</a></tt> 8, <tt><a href="zh_hk-pos-CCONJ.html">CCONJ</a></tt> 3), 但是 (<tt><a href="zh_hk-pos-ADV.html">ADV</a></tt> 3, <tt><a href="zh_hk-pos-CCONJ.html">CCONJ</a></tt> 2), 卻 (<tt><a href="zh_hk-pos-ADV.html">ADV</a></tt> 7, <tt><a href="zh_hk-pos-CCONJ.html">CCONJ</a></tt> 1)
 
 The 10 most frequent ambiguous types:  而 (<tt><a href="zh_hk-pos-CCONJ.html">CCONJ</a></tt> 17, <tt><a href="zh_hk-pos-ADV.html">ADV</a></tt> 4), 和 (<tt><a href="zh_hk-pos-CCONJ.html">CCONJ</a></tt> 16, <tt><a href="zh_hk-pos-ADP.html">ADP</a></tt> 4), 但 (<tt><a href="zh_hk-pos-ADV.html">ADV</a></tt> 21, <tt><a href="zh_hk-pos-CCONJ.html">CCONJ</a></tt> 15), 並 (<tt><a href="zh_hk-pos-ADV.html">ADV</a></tt> 6, <tt><a href="zh_hk-pos-CCONJ.html">CCONJ</a></tt> 5), 與 (<tt><a href="zh_hk-pos-ADP.html">ADP</a></tt> 5, <tt><a href="zh_hk-pos-CCONJ.html">CCONJ</a></tt> 4), 不過 (<tt><a href="zh_hk-pos-ADV.html">ADV</a></tt> 8, <tt><a href="zh_hk-pos-CCONJ.html">CCONJ</a></tt> 3), 但是 (<tt><a href="zh_hk-pos-ADV.html">ADV</a></tt> 3, <tt><a href="zh_hk-pos-CCONJ.html">CCONJ</a></tt> 2), 卻 (<tt><a href="zh_hk-pos-ADV.html">ADV</a></tt> 7, <tt><a href="zh_hk-pos-CCONJ.html">CCONJ</a></tt> 1)
 
@@ -45,9 +45,13 @@ The 10 most frequent ambiguous types:  而 (<tt><a href="zh_hk-pos-CCONJ.html">C
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 16.000000 (the average of all parts of speech is 107.937500).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.007013).
 
-The 1st highest number of forms (16) was observed with the lemma “_”: 不過, 並, 以及, 但, 但是, 卻, 及, 同, 和, 或, 或是, 或者, 況且, 而, 而且, 與.
+The 1st highest number of forms (1) was observed with the lemma “不過”: 不過.
+
+The 2nd highest number of forms (1) was observed with the lemma “並”: 並.
+
+The 3rd highest number of forms (1) was observed with the lemma “以及”: 以及.
 
 `CCONJ` does not occur with any features.
 
@@ -58,13 +62,13 @@ The 1st highest number of forms (16) was observed with the lemma “_”: 不過
 
 Parents of `CCONJ` nodes belong to 7 different parts of speech: <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> (53; 54% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (29; 29% instances), <tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt> (8; 8% instances), <tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt> (4; 4% instances), <tt><a href="zh_hk-pos-ADV.html">ADV</a></tt> (3; 3% instances), <tt><a href="zh_hk-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="zh_hk-pos-NUM.html">NUM</a></tt> (1; 1% instances)
 
-97 (98%) `CCONJ` nodes are leaves.
+95 (96%) `CCONJ` nodes are leaves.
 
-2 (2%) `CCONJ` nodes have one child.
+4 (4%) `CCONJ` nodes have one child.
 
 The highest child degree of a `CCONJ` node is 1.
 
-Children of `CCONJ` nodes are attached using 1 different relations: <tt><a href="zh_hk-dep-punct.html">punct</a></tt> (2; 100% instances)
+Children of `CCONJ` nodes are attached using 1 different relations: <tt><a href="zh_hk-dep-punct.html">punct</a></tt> (4; 100% instances)
 
-Children of `CCONJ` nodes belong to 1 different parts of speech: <tt><a href="zh_hk-pos-PUNCT.html">PUNCT</a></tt> (2; 100% instances)
+Children of `CCONJ` nodes belong to 1 different parts of speech: <tt><a href="zh_hk-pos-PUNCT.html">PUNCT</a></tt> (4; 100% instances)
 

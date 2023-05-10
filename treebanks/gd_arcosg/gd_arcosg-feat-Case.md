@@ -92,7 +92,7 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="gd_arcosg-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1274; 67%),
 <tt>NOUN --[<tt><a href="gd_arcosg-dep-conj.html">conj</a></tt>]--> NOUN</tt> (437; 74%),
-<tt>PROPN --[<tt><a href="gd_arcosg-dep-amod.html">amod</a></tt>]--> ADJ</tt> (45; 90%),
+<tt>PROPN --[<tt><a href="gd_arcosg-dep-amod.html">amod</a></tt>]--> ADJ</tt> (45; 92%),
 <tt>PROPN --[<tt><a href="gd_arcosg-dep-conj.html">conj</a></tt>]--> PROPN</tt> (38; 88%),
 <tt>NOUN --[<tt><a href="gd_arcosg-dep-compound.html">compound</a></tt>]--> NOUN</tt> (19; 100%),
 <tt>ADJ --[<tt><a href="gd_arcosg-dep-conj.html">conj</a></tt>]--> ADJ</tt> (16; 84%),

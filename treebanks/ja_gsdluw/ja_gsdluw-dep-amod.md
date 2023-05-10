@@ -33,7 +33,7 @@ The following 5 pairs of parts of speech are connected with `amod`: <tt><a href=
 9	話やすかっ	話し易い	ADJ	形容詞-一般-形容詞	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|SpaceAfter=No|UnidicInfo=;,話す;易い,話;やすかっ,話す;やすい,ハナシ;ヤスカッ,;,;,ハナス;ヤスイ,ハナシヤスイ,話し易い
 10	た	た	AUX	助動詞-助動詞-タ	_	9	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,た,た,た,タ,,,タ,タ,た
 11	です	です	AUX	助動詞-助動詞-デス	_	9	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|PrevUDLemma=だ|SpaceAfter=No|UnidicInfo=,です,です,です,デス,,,デス,デス,です
-12	。	。	PUNCT	補助記号-句点	_	9	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=Yes|UnidicInfo=,。,。,。,,,,,,。
+12	。	。	PUNCT	補助記号-句点	_	9	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|UnidicInfo=,。,。,。,,,,,,。
 
 ~~~
 
@@ -70,7 +70,7 @@ The following 5 pairs of parts of speech are connected with `amod`: <tt><a href=
 24	ない	無い	ADJ	形容詞-一般-形容詞	_	21	amod	_	BunsetuBILabel=I|BunsetuPositionType=CONT|PrevUDLemma=ない|SpaceAfter=No|UnidicInfo=,無い,ない,ない,ナイ,,,ナイ,ナイ,無い
 25	のだ	のだ	AUX	助動詞-助動詞-ダ	_	21	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|SpaceAfter=No|UnidicInfo=;,の;だ,の;だ,の;だ,ノ;ダ,;,;,ノ;ダ,ノダ,のだ
 26	けど	けれど	SCONJ	助詞-接続助詞	_	21	mark	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,けれど,けど,けど,ケド,,,ケド,ケレド,けれど
-27	。	。	PUNCT	補助記号-句点	_	21	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=Yes|UnidicInfo=,。,。,。,,,,,,。
+27	。	。	PUNCT	補助記号-句点	_	21	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|UnidicInfo=,。,。,。,,,,,,。
 
 ~~~
 
@@ -104,7 +104,7 @@ The following 5 pairs of parts of speech are connected with `amod`: <tt><a href=
 21	と	と	ADP	助詞-格助詞	_	20	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,と,と,と,ト,,,ト,ト,と
 22	判断でき	判断出来る	VERB	動詞-一般-上一段-カ行	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|SpaceAfter=No|UnidicInfo=;,判断;出来る,判断;でき,判断;できる,ハンダン;デキ,;,;,ハンダン;デキル,ハンダンデキル,判断出来る
 23	た	た	AUX	助動詞-助動詞-タ	_	22	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,た,た,た,タ,,,タ,タ,た
-24	。	。	PUNCT	補助記号-句点	_	22	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=Yes|UnidicInfo=,。,。,。,,,,,,。
+24	。	。	PUNCT	補助記号-句点	_	22	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|UnidicInfo=,。,。,。,,,,,,。
 
 ~~~
 

@@ -11,12 +11,12 @@ It occurs with 1 different values: `Yes`.
 
 15 tokens (1%) have a non-empty value of `Int`.
 6 types (1%) occur at least once with a non-empty value of `Int`.
-6 lemmas (2%) occur at least once with a non-empty value of `Int`.
+6 lemmas (1%) occur at least once with a non-empty value of `Int`.
 The feature is used with 3 part-of-speech tags: <tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt> (7; 0% instances), <tt><a href="sah_yktdt-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="sah_yktdt-pos-PRON.html">PRON</a></tt> (3; 0% instances).
 
 ### `VERB`
 
-7 <tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt> tokens (3% of all `VERB` tokens) have a non-empty value of `Int`.
+7 <tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt> tokens (2% of all `VERB` tokens) have a non-empty value of `Int`.
 
 The most frequent other feature values with which `VERB` and `Int` co-occurred: <tt><a href="sah_yktdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="sah_yktdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7; 100%), <tt><a href="sah_yktdt-feat-Person.html">Person</a></tt><tt>=3</tt> (7; 100%), <tt><a href="sah_yktdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (7; 100%).
 

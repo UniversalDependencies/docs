@@ -11,7 +11,7 @@ This relation is universal.
 32 nodes (0%) are attached to their parents as `dislocated`.
 
 25 instances of `dislocated` (78%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.65625.
+Average distance between parent and child is 5.84375.
 
 The following 3 pairs of parts of speech are connected with `dislocated`: <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt>-<tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> (20; 63% instances), <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt>-<tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (7; 22% instances), <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt>-<tt><a href="it_isdt-pos-PROPN.html">PROPN</a></tt> (5; 16% instances).
 

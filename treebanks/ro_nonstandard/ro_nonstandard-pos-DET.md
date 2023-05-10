@@ -64,7 +64,7 @@ The 10 most frequent ambiguous types:  <em>lui</em> (<tt><a href="ro_nonstandard
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 4.173077 (the average of all parts of speech is 2.492163).
+The form / lemma ratio of `DET` is 4.173077 (the average of all parts of speech is 2.491875).
 
 The 1st highest number of forms (63) was observed with the lemma “acela”: <em>-acea, -aceaia, -acealia, -aceea, -acel, -acela, -cee, -ceie, -cie, ace, acea, aceae, aceaea, aceaia, aceale, acealea, acealia, acee, aceea, acei, aceia, aceie, aceii, aceiia, acel, acela, acele, acelea, aceli, acelor, acelora, acelui, aceluia, acia, acie, aciia, aciie, cea, ceaea, ceaia, ceal, ceale, cealea, cee, ceea, cei, ceia, ceie, ceii, cel, cela, cele, celea, celi, celor, celora, celui, celuia, cia, ciale, cie, cieia, ciie</em>.
 

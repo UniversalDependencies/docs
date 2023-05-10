@@ -23,7 +23,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 `VERB` tokens may have the following values of `Mood`:
 
 * `Imp` (49; 100% of non-empty `Mood`): לך, ישנו, ברור, אמור, חיו, חסר, חשוד, עסוק, קרא, בוא
-* `EMPTY` (14227): יש, אין, אמר, אומר, עבר, מדובר, נראה, חולים, היו, לעשות
+* `EMPTY` (14239): יש, אין, אמר, יכול, אומר, נראה, עבר, מדובר, היו, חולים
 
 `Mood` seems to be **lexical feature** of `VERB`. 100% lemmas (30) occur only with one value of `Mood`.
 
@@ -36,5 +36,5 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 `AUX` tokens may have the following values of `Mood`:
 
 * `Imp` (3; 100% of non-empty `Mood`): הייה, היה
-* `EMPTY` (2484): היה, הוא, היא, היו, היתה, אינו, אפשר, להיות, יהיה, אינה
+* `EMPTY` (1236): היה, היו, היתה, אינו, להיות, יהיה, אינה, אינם, תהיה, אינן
 

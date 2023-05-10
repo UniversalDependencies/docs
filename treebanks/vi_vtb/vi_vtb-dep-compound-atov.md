@@ -9,52 +9,36 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="vi_vtb-dep-compound.html">compound</a></tt>.
 There are also 11 other language-specific subtypes of `compound`: <tt><a href="vi_vtb-dep-compound-adj.html">compound:adj</a></tt>, <tt><a href="vi_vtb-dep-compound-amod.html">compound:amod</a></tt>, <tt><a href="vi_vtb-dep-compound-apr.html">compound:apr</a></tt>, <tt><a href="vi_vtb-dep-compound-dir.html">compound:dir</a></tt>, <tt><a href="vi_vtb-dep-compound-pron.html">compound:pron</a></tt>, <tt><a href="vi_vtb-dep-compound-prt.html">compound:prt</a></tt>, <tt><a href="vi_vtb-dep-compound-redup.html">compound:redup</a></tt>, <tt><a href="vi_vtb-dep-compound-svc.html">compound:svc</a></tt>, <tt><a href="vi_vtb-dep-compound-verbnoun.html">compound:verbnoun</a></tt>, <tt><a href="vi_vtb-dep-compound-vmod.html">compound:vmod</a></tt>, <tt><a href="vi_vtb-dep-compound-z.html">compound:z</a></tt>.
 
-24 nodes (0%) are attached to their parents as `compound:atov`.
+28 nodes (0%) are attached to their parents as `compound:atov`.
 
-22 instances of `compound:atov` (92%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.08333333333333.
+25 instances of `compound:atov` (89%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.03571428571429.
 
-The following 7 pairs of parts of speech are connected with `compound:atov`: <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (15; 63% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt> (3; 13% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> (2; 8% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-ADP.html">ADP</a></tt> (1; 4% instances), <tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="vi_vtb-pos-SYM.html">SYM</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (1; 4% instances).
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 8 compound:atov	color:blue
-1	Ra	ra	VERB	V	_	6	csubj:vsubj	_	_
-2	ngoài	ngoài	NOUN	N	_	1	obj	_	_
-3	một mình	một mình	X	X	_	1	obl	_	_
-4	nhiều	nhiều	ADJ	Adj	_	1	amod	_	_
-5	thì	thì	SCONJ	SC	_	6	mark	_	_
-6	dễ	dễ	ADJ	Adj	_	0	root	_	_
-7	bị	bị	AUX	AUX	_	6	aux:pass	_	_
-8	lộ	lộ	VERB	V	_	6	compound:atov	_	_
-9	.	.	PUNCT	.	_	6	punct	_	_
-
-~~~
+The following 8 pairs of parts of speech are connected with `compound:atov`: <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (19; 68% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> (3; 11% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-ADP.html">ADP</a></tt> (1; 4% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt> (1; 4% instances), <tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="vi_vtb-pos-SYM.html">SYM</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 compound:atov	color:blue
-1	Chị	chị	NOUN	N	_	2	nsubj	_	_
-2	già	già	ADJ	Adj	_	0	root	_	_
-3	đi	đi	ADV	Adv	_	2	compound:atov	_	_
-4	rất	rất	ADV	Adv	_	5	advmod	_	_
-5	nhiều	nhiều	ADJ	Adj	_	2	advmod:adj	_	_
-6	so	so	VERB	V	_	2	xcomp:adj	_	_
-7	với	với	ADP	Pre	_	9	case	_	_
-8	cái	cái	NOUN	Nc	_	9	clf	_	_
-9	tuổi	tuổi	NOUN	N	_	6	obl	_	_
-10	35	35	NUM	Num	_	9	nummod	_	_
-11	của	của	ADP	Pre	_	12	case	_	_
-12	mình	mình	PRON	Pro	_	9	nmod:poss	_	_
-13	.	.	PUNCT	.	_	2	punct	_	_
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 14 compound:atov	color:blue
+1	Nhưng	nhưng	SCONJ	C	_	10	mark	_	_
+2	khi	khi	NOUN	N	_	10	obl:tmod	_	_
+3	chưa	chưa	ADV	ADV	_	4	advmod:neg	_	_
+4	có	có	VERB	V	_	2	acl:tmod	_	_
+5	sự nghiệp	sự nghiệp	NOUN	N	_	4	obj	_	_
+6	,	,	PUNCT	PUNCT	_	10	punct	_	_
+7	anh	anh	NOUN	N	_	10	nsubj	_	_
+8	"	"	PUNCT	PUNCT	_	10	punct	_	_
+9	chỉ	chỉ	ADV	ADV	_	10	advmod	_	_
+10	mong	mong	VERB	V	_	0	root	_	_
+11	sao	sao	PRON	PRO	_	12	obl	_	_
+12	kiếm	kiếm	VERB	V	_	10	ccomp	_	_
+13	đủ	đủ	ADJ	ADJ	_	12	xcomp	_	_
+14	ăn	ăn	VERB	V	_	13	compound:atov	_	_
+15	"	"	PUNCT	PUNCT	_	10	punct	_	_
+16	.	.	PUNCT	PUNCT	_	10	punct	_	_
 
 ~~~
 
@@ -74,6 +58,37 @@ The following 7 pairs of parts of speech are connected with `compound:atov`: <tt
 7	khó	khó	ADJ	Adj	_	8	compound:atov	_	_
 8	nói	nói	VERB	V	_	1	parataxis	_	_
 9	.	.	PUNCT	.	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 19	bgColor:blue
+# visual-style 19	fgColor:white
+# visual-style 18	bgColor:blue
+# visual-style 18	fgColor:white
+# visual-style 18 19 compound:atov	color:blue
+1	Chị	chị	NOUN	N	_	4	nsubj	_	_
+2	ta	ta	PRON	Pro	_	1	compound:pron	_	_
+3	bị	bị	AUX	AUX	_	4	aux:pass	_	_
+4	mù	mù	VERB	V	_	0	root	_	_
+5	mắt	mắt	NOUN	N	_	4	obj	_	_
+6	,	,	PUNCT	,	_	7	punct	_	_
+7	cõng	cõng	VERB	V	_	4	conj	_	_
+8	trên	trên	ADP	Pre	_	9	case	_	_
+9	lưng	lưng	NOUN	N	_	7	obl	_	_
+10	đứa	đứa	NOUN	N	_	7	obj	_	_
+11	bé	bé	NOUN	N	_	10	compound	_	_
+12	đến	đến	VERB	V	_	7	xcomp	_	_
+13	trú	trú	VERB	V	_	12	xcomp	_	_
+14	mưa	mưa	NOUN	N	_	13	obj	_	_
+15	trước	trước	ADP	Pre	_	16	case	_	_
+16	cổng	cổng	NOUN	N	_	12	obl	_	_
+17	trường	trường	NOUN	N	_	16	compound	_	_
+18	rét	rét	ADJ	Adj	_	12	xcomp	_	_
+19	run	run	ADJ	Adj	_	18	compound:atov	_	_
+20	cầm cập	cầm cập	ADJ	Adj	_	19	xcomp	_	_
+21	.	.	PUNCT	.	_	4	punct	_	_
 
 ~~~
 

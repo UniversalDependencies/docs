@@ -30,7 +30,7 @@ The following 8 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 5	homini	homo	NOUN	sms3d	Case=Dat|Gender=Masc|InflClass=IndEurX|Number=Sing	6	obl:arg	_	_
 6	datum	do	VERB	vp1fr	Aspect=Perf|Case=Nom|Gender=Neut|InflClass=LatA|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass	3	csubj	_	TraditionalMood=Participium|TraditionalTense=Perfectum
 7	fuisse	sum	AUX	va5fr	Aspect=Perf|VerbForm=Inf	6	aux:pass	_	TraditionalTense=Perfectum
-8	loqui	loquor	VERB	vd3fp	Aspect=Imp|VerbForm=Vnoun|Voice=Pass	6	csubj:pass	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Praesens
+8	loqui	loquor	VERB	vd3fp	Aspect=Imp|VerbForm=Inf|Voice=Pass	6	csubj:pass	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Praesens
 9	.	.	PUNCT	Pu	_	3	punct	_	_
 
 ~~~

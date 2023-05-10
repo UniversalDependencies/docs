@@ -38,7 +38,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 77510 <tt><a href="pt_cintil-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="pt_cintil-feat-Number.html">Number</a></tt><tt>=Sing</tt> (60959; 79%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="pt_cintil-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (70597; 91%), <tt><a href="pt_cintil-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (61198; 79%), <tt><a href="pt_cintil-feat-Number.html">Number</a></tt><tt>=Sing</tt> (60959; 79%).
 
 `DET` tokens may have the following values of `Gender`:
 
@@ -75,7 +75,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 7554 <tt><a href="pt_cintil-pos-VERB.html">VERB</a></tt> tokens (18% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="pt_cintil-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (7554; 100%), <tt><a href="pt_cintil-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (7554; 100%), <tt><a href="pt_cintil-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (7554; 100%), <tt><a href="pt_cintil-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (7554; 100%), <tt><a href="pt_cintil-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4948; 66%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="pt_cintil-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (7554; 100%), <tt><a href="pt_cintil-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (7554; 100%), <tt><a href="pt_cintil-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (7554; 100%), <tt><a href="pt_cintil-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (7554; 100%), <tt><a href="pt_cintil-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4948; 66%).
 
 `VERB` tokens may have the following values of `Gender`:
 
@@ -93,13 +93,13 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 
 4854 <tt><a href="pt_cintil-pos-PRON.html">PRON</a></tt> tokens (40% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="pt_cintil-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3630; 75%), <tt><a href="pt_cintil-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3367; 69%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="pt_cintil-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (4130; 85%), <tt><a href="pt_cintil-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3630; 75%), <tt><a href="pt_cintil-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3367; 69%).
 
 `PRON` tokens may have the following values of `Gender`:
 
 * `Fem` (1804; 37% of non-empty `Gender`): <em>sua, suas, minha, ela, nossa, elas, -a, a, cuja, minhas</em>
 * `Masc` (3050; 63% of non-empty `Gender`): <em>seu, ele, tudo, seus, eles, meu, o, nosso, meus, nada</em>
-* `EMPTY` (7407): <em>que, -se, se, quem, onde, eu, nós, -me, -lhe, me</em>
+* `EMPTY` (7407): <em>que, -se, se, quem, onde, eu, nós, -me, me, -lhe</em>
 
 <table>
   <tr><th>Paradigm <i>-se</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -110,7 +110,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 1938 <tt><a href="pt_cintil-pos-NUM.html">NUM</a></tt> tokens (28% of all `NUM` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="pt_cintil-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1473; 76%).
+The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="pt_cintil-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (1476; 76%), <tt><a href="pt_cintil-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1473; 76%).
 
 `NUM` tokens may have the following values of `Gender`:
 

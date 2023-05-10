@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-11062 tokens (12%) have a non-empty value of `Person`.
+11061 tokens (12%) have a non-empty value of `Person`.
 2208 types (11%) occur at least once with a non-empty value of `Person`.
 784 lemmas (7%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (5221; 6% instances), <tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (3256; 4% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (2584; 3% instances), <tt><a href="et_ewt-pos-DET.html">DET</a></tt> (1; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (5221; 6% instances), <tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (3256; 4% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (2584; 3% instances).
 
 ### `VERB`
 
@@ -78,7 +78,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (1439; 56% of non-empty `Person`): <em>ma, mul, minu, mina, meie, me, meil, mulle, mu, mind</em>
 * `2` (505; 20% of non-empty `Person`): <em>sa, sinu, sul, te, sina, sind, su, sulle, teie, teile</em>
 * `3` (640; 25% of non-empty `Person`): <em>ta, nad, tema, talle, neile, nende, tal, teda, neil, nemad</em>
-* `EMPTY` (4047): <em>see, mis, seda, oma, kes, midagi, mida, keegi, selle, kõik</em>
+* `EMPTY` (4050): <em>see, mis, seda, oma, kes, midagi, mida, keegi, selle, kõik</em>
 
 <table>
   <tr><th>Paradigm <i>sina</i></th><th><tt>1</tt></th><th><tt>2</tt></th></tr>
@@ -101,17 +101,6 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
   <tr><td><tt><tt><a href="et_ewt-feat-Case.html">Case</a></tt><tt>=Par</tt>|<tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>sind</em></td></tr>
   <tr><td><tt><tt><a href="et_ewt-feat-Case.html">Case</a></tt><tt>=Par</tt>|<tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>teid</em></td></tr>
 </table>
-
-### `DET`
-
-1 <tt><a href="et_ewt-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Person`.
-
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="et_ewt-feat-Case.html">Case</a></tt><tt>=Gen</tt> (1; 100%), <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1; 100%), <tt><a href="et_ewt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1; 100%).
-
-`DET` tokens may have the following values of `Person`:
-
-* `3` (1; 100% of non-empty `Person`): <em>nende</em>
-* `EMPTY` (2176): <em>see, mingi, selle, kõik, seda, iga, need, üks, selline, sama</em>
 
 ## Relations with Agreement in `Person`
 

@@ -31,7 +31,7 @@ The following 1 pairs of parts of speech are connected with `flat:num`: <tt><a h
 6	میلیون	میلیون	NUM	PRENUM	Number=Sing	5	flat:num	_	_
 7	تومان	تومان	NOUN	N_IANM	Number=Sing	4	nmod	_	_
 8	تفریح	تفریح	NOUN	N_IANM	Number=Sing	9	compound:lvc	_	_
-9	کرده‌اند	کرد#کن	VERB	V_ACT	Number=Plur|Person=3|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No
+9	کرده‌اند	کرد	VERB	V_ACT	Number=Plur|Person=3|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=کرد#کن|SpaceAfter=No
 10	.	.	PUNCT	PUNC	_	9	punct	_	_
 
 ~~~

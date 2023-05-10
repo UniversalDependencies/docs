@@ -14,7 +14,7 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 1047 tokens (1%) have a non-empty value of `Number[psor]`.
 842 types (2%) occur at least once with a non-empty value of `Number[psor]`.
 595 lemmas (3%) occur at least once with a non-empty value of `Number[psor]`.
-The feature is used with 9 part-of-speech tags: <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (675; 0% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (142; 0% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (103; 0% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (59; 0% instances), <tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (28; 0% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (27; 0% instances), <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (7; 0% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The feature is used with 9 part-of-speech tags: <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (675; 0% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (143; 0% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (103; 0% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (59; 0% instances), <tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (28; 0% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (27; 0% instances), <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -36,19 +36,19 @@ The most frequent other feature values with which `NOUN` and `Number[psor]` co-o
 
 ### `VERB`
 
-142 <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Number[psor]`.
+143 <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `VERB` and `Number[psor]` co-occurred: <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (142; 100%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (142; 100%), <tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (142; 100%), <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (105; 74%), <tt><a href="fi_ftb-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (74; 52%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (72; 51%), <tt><a href="fi_ftb-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (72; 51%), <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt> (72; 51%).
+The most frequent other feature values with which `VERB` and `Number[psor]` co-occurred: <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (143; 100%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (143; 100%), <tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (143; 100%), <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (106; 74%), <tt><a href="fi_ftb-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (74; 52%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (73; 51%), <tt><a href="fi_ftb-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (73; 51%), <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt> (73; 51%).
 
 `VERB` tokens may have the following values of `Number[psor]`:
 
 
 <table>
-  <tr><th>Paradigm <i>tehdä</i></th><th><tt>Plur</tt></th><th><tt>Sing</tt></th></tr>
-  <tr><td><tt><tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_ftb-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="fi_ftb-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt></tt></td><td></td><td><em>tekemäsi</em></td></tr>
-  <tr><td><tt><tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fi_ftb-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="fi_ftb-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt></tt></td><td><em>Tekemämme</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Par</tt>|<tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fi_ftb-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="fi_ftb-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt></tt></td><td></td><td><em>tekemiäni</em></td></tr>
-  <tr><td><tt><tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Par</tt>|<tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fi_ftb-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="fi_ftb-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt></tt></td><td><em>tekemiämme</em></td><td></td></tr>
+  <tr><th>Paradigm <i>saada</i></th><th><tt>Plur</tt></th><th><tt>Sing</tt></th></tr>
+  <tr><td><tt><tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_ftb-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="fi_ftb-feat-PartForm.html">PartForm</a></tt><tt>=Pres</tt>|<tt><a href="fi_ftb-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt>|<tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>saavani</em></td></tr>
+  <tr><td><tt><tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Ine</tt>|<tt><a href="fi_ftb-feat-InfForm.html">InfForm</a></tt><tt>=2</tt>|<tt><a href="fi_ftb-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="fi_ftb-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt>|<tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt></tt></td><td><em>Saadessanne</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Tra</tt>|<tt><a href="fi_ftb-feat-InfForm.html">InfForm</a></tt><tt>=1</tt>|<tt><a href="fi_ftb-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="fi_ftb-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt>|<tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt></tt></td><td></td><td><em>saadakseni</em></td></tr>
+  <tr><td><tt><tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Tra</tt>|<tt><a href="fi_ftb-feat-InfForm.html">InfForm</a></tt><tt>=1</tt>|<tt><a href="fi_ftb-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="fi_ftb-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt>|<tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt></tt></td><td></td><td><em>saadaksesi</em></td></tr>
 </table>
 
 `Number[psor]` seems to be **lexical feature** of `VERB`. 91% lemmas (75) occur only with one value of `Number[psor]`.
@@ -130,9 +130,9 @@ The most frequent other feature values with which `ADJ` and `Number[psor]` co-oc
 
 ### `AUX`
 
-7 <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Number[psor]`.
+6 <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `AUX` and `Number[psor]` co-occurred: <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="fi_ftb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7; 100%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4; 57%), <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt> (4; 57%).
+The most frequent other feature values with which `AUX` and `Number[psor]` co-occurred: <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="fi_ftb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (6; 100%).
 
 `AUX` tokens may have the following values of `Number[psor]`:
 

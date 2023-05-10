@@ -36,7 +36,7 @@ The 10 most frequent ambiguous types:  <em>oli</em> (<tt><a href="olo_kkpp-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 3.333333 (the average of all parts of speech is 1.333901).
+The form / lemma ratio of `AUX` is 3.333333 (the average of all parts of speech is 1.338462).
 
 The 1st highest number of forms (8) was observed with the lemma “olla”: <em>Ongo, ole, olen, oli, olis, ollah, olles, on</em>.
 

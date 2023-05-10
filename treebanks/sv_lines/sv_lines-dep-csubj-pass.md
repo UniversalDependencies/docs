@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Swedish-LinES: Relations: `csubj:pass`
 
 This relation is a language-specific subtype of <tt><a href="sv_lines-dep-csubj.html">csubj</a></tt>.
+There are also 1 other language-specific subtypes of `csubj`: <tt><a href="sv_lines-dep-csubj-outer.html">csubj:outer</a></tt>.
 
 8 nodes (0%) are attached to their parents as `csubj:pass`.
 

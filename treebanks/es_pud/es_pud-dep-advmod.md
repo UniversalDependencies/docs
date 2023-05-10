@@ -26,7 +26,7 @@ The following 23 pairs of parts of speech are connected with `advmod`: <tt><a hr
 2	,	,	PUNCT	,	_	1	punct	_	_
 3	solo	solo	ADV	RB	_	4	advmod	_	_
 4	blogueros	_	NOUN	NN	Gender=Masc|Number=Plur	6	nsubj	_	_
-5	habían	haber	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	aux	_	_
+5	habían	haber	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	aux	_	_
 6	visto	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 7	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
 8	jets	_	NOUN	NN	Gender=Masc|Number=Plur	6	obj	_	SpaceAfter=No
@@ -48,7 +48,7 @@ The following 23 pairs of parts of speech are connected with `advmod`: <tt><a hr
 5	código	código	NOUN	NN	Gender=Masc|Number=Sing	10	nsubj	_	_
 6	de	de	ADP	IN	_	7	case	_	_
 7	vestimenta	vestimenta	NOUN	NN	Gender=Fem|Number=Sing	5	nmod	_	_
-8	era	ser	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	cop	_	_
+8	era	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
 9	muy	muy	ADV	RB	_	10	advmod	_	_
 10	conservador	conservador	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	10	punct	_	_
@@ -66,7 +66,7 @@ The following 23 pairs of parts of speech are connected with `advmod`: <tt><a hr
 2	,	,	PUNCT	,	_	1	punct	_	_
 3	solo	solo	ADV	RB	_	4	advmod	_	_
 4	blogueros	_	NOUN	NN	Gender=Masc|Number=Plur	6	nsubj	_	_
-5	habían	haber	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	aux	_	_
+5	habían	haber	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	aux	_	_
 6	visto	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 7	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
 8	jets	_	NOUN	NN	Gender=Masc|Number=Plur	6	obj	_	SpaceAfter=No

@@ -61,7 +61,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 422 <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> tokens (14% of all `ADV` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (422; 100%), <tt><a href="la_udante-feat-Compound.html">Compound</a></tt><tt>=EMPTY</tt> (419; 99%), <tt><a href="la_udante-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (405; 96%).
+The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (422; 100%), <tt><a href="la_udante-feat-Compound.html">Compound</a></tt><tt>=EMPTY</tt> (419; 99%), <tt><a href="la_udante-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (404; 96%).
 
 `ADV` tokens may have the following values of `Degree`:
 

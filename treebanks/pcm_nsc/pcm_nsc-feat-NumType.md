@@ -43,7 +43,7 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 `NOUN` tokens may have the following values of `NumType`:
 
 * `Card` (13; 100% of non-empty `NumType`): <em>one, sixteen</em>
-* `EMPTY` (14731): <em>people, one, money, ting, school, time, man, person, house, work</em>
+* `EMPTY` (14730): <em>people, one, money, ting, school, time, man, person, house, work</em>
 
 ### `X`
 
@@ -52,7 +52,7 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 `X` tokens may have the following values of `NumType`:
 
 * `Card` (1; 100% of non-empty `NumType`): <em>thou~</em>
-* `EMPTY` (40230): <em>#, //, <, {, }, [, |c, ||, ], >+</em>
+* `EMPTY` (40238): <em>#, //, <, {, }, [, |c, ||, ], >+</em>
 
 ## Relations with Agreement in `NumType`
 

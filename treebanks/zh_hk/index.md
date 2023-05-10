@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Kim Gerdes, John Lee, Herman Leung, Tak-sum Wong.
 
 Repository: [UD_Chinese-HK](https://github.com/UniversalDependencies/UD_Chinese-HK)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udzh_hk211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udzh_hk212)<br />
+Download all treebanks: [UD 2.12](/#download)
 
 License: CC BY-SA 4.0
 
@@ -36,7 +36,7 @@ Do not submit pull requests against the UD repository.
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | not available |
+| Lemmas | assigned by a program, with some manual corrections, but not a full manual verification |
 | UPOS | annotated manually, natively in UD style |
 | XPOS | not available |
 | Features | annotated manually, natively in UD style |
@@ -66,11 +66,11 @@ This work was partially supported by a grant from the PROCORE-France/Hong Kong J
 
 ## Features
 
-[NounType](zh_hk-feat-NounType.html)
+[NounType](zh_hk-feat-NounType.html) – [Polarity](zh_hk-feat-Polarity.html)
 
 ## Relations
 
-[acl](zh_hk-dep-acl.html) – [advcl](zh_hk-dep-advcl.html) – [advmod](zh_hk-dep-advmod.html) – [advmod:df](zh_hk-dep-advmod-df.html) – [amod](zh_hk-dep-amod.html) – [appos](zh_hk-dep-appos.html) – [aux](zh_hk-dep-aux.html) – [aux:pass](zh_hk-dep-aux-pass.html) – [case](zh_hk-dep-case.html) – [case:loc](zh_hk-dep-case-loc.html) – [cc](zh_hk-dep-cc.html) – [ccomp](zh_hk-dep-ccomp.html) – [clf](zh_hk-dep-clf.html) – [compound](zh_hk-dep-compound.html) – [compound:dir](zh_hk-dep-compound-dir.html) – [compound:ext](zh_hk-dep-compound-ext.html) – [compound:vo](zh_hk-dep-compound-vo.html) – [compound:vv](zh_hk-dep-compound-vv.html) – [conj](zh_hk-dep-conj.html) – [cop](zh_hk-dep-cop.html) – [csubj](zh_hk-dep-csubj.html) – [det](zh_hk-dep-det.html) – [discourse](zh_hk-dep-discourse.html) – [discourse:sp](zh_hk-dep-discourse-sp.html) – [dislocated](zh_hk-dep-dislocated.html) – [flat](zh_hk-dep-flat.html) – [iobj](zh_hk-dep-iobj.html) – [mark](zh_hk-dep-mark.html) – [mark:adv](zh_hk-dep-mark-adv.html) – [mark:rel](zh_hk-dep-mark-rel.html) – [nmod](zh_hk-dep-nmod.html) – [nsubj](zh_hk-dep-nsubj.html) – [nsubj:pass](zh_hk-dep-nsubj-pass.html) – [nummod](zh_hk-dep-nummod.html) – [obj](zh_hk-dep-obj.html) – [obj:periph](zh_hk-dep-obj-periph.html) – [obl](zh_hk-dep-obl.html) – [obl:agent](zh_hk-dep-obl-agent.html) – [obl:patient](zh_hk-dep-obl-patient.html) – [obl:tmod](zh_hk-dep-obl-tmod.html) – [parataxis](zh_hk-dep-parataxis.html) – [punct](zh_hk-dep-punct.html) – [reparandum](zh_hk-dep-reparandum.html) – [root](zh_hk-dep-root.html) – [vocative](zh_hk-dep-vocative.html) – [xcomp](zh_hk-dep-xcomp.html)
+[acl](zh_hk-dep-acl.html) – [advcl](zh_hk-dep-advcl.html) – [advmod](zh_hk-dep-advmod.html) – [amod](zh_hk-dep-amod.html) – [appos](zh_hk-dep-appos.html) – [aux](zh_hk-dep-aux.html) – [aux:pass](zh_hk-dep-aux-pass.html) – [case](zh_hk-dep-case.html) – [case:loc](zh_hk-dep-case-loc.html) – [cc](zh_hk-dep-cc.html) – [ccomp](zh_hk-dep-ccomp.html) – [clf](zh_hk-dep-clf.html) – [compound](zh_hk-dep-compound.html) – [compound:dir](zh_hk-dep-compound-dir.html) – [compound:ext](zh_hk-dep-compound-ext.html) – [compound:vo](zh_hk-dep-compound-vo.html) – [compound:vv](zh_hk-dep-compound-vv.html) – [conj](zh_hk-dep-conj.html) – [cop](zh_hk-dep-cop.html) – [csubj](zh_hk-dep-csubj.html) – [det](zh_hk-dep-det.html) – [discourse](zh_hk-dep-discourse.html) – [discourse:sp](zh_hk-dep-discourse-sp.html) – [dislocated](zh_hk-dep-dislocated.html) – [flat](zh_hk-dep-flat.html) – [iobj](zh_hk-dep-iobj.html) – [mark](zh_hk-dep-mark.html) – [mark:adv](zh_hk-dep-mark-adv.html) – [mark:rel](zh_hk-dep-mark-rel.html) – [nmod](zh_hk-dep-nmod.html) – [nsubj](zh_hk-dep-nsubj.html) – [nsubj:pass](zh_hk-dep-nsubj-pass.html) – [nummod](zh_hk-dep-nummod.html) – [obj](zh_hk-dep-obj.html) – [obj:periph](zh_hk-dep-obj-periph.html) – [obl](zh_hk-dep-obl.html) – [obl:agent](zh_hk-dep-obl-agent.html) – [obl:patient](zh_hk-dep-obl-patient.html) – [obl:tmod](zh_hk-dep-obl-tmod.html) – [parataxis](zh_hk-dep-parataxis.html) – [punct](zh_hk-dep-punct.html) – [reparandum](zh_hk-dep-reparandum.html) – [root](zh_hk-dep-root.html) – [vocative](zh_hk-dep-vocative.html) – [xcomp](zh_hk-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -104,27 +104,27 @@ This work was partially supported by a grant from the PROCORE-France/Hong Kong J
 </ul>
 
 <ul>
-<li>This corpus contains 23 word types tagged as particles (PART): 丫, 中, 之, 了, 來, 個, 吧, 呀, 呢, 啊, 啦, 喇, 嗎, 嘛, 地, 好了, 就, 得, 所, 的, 的話, 等, 而已</li>
+<li>This corpus contains 25 word types tagged as particles (PART): 丫, 中, 之, 了, 來, 個, 吧, 呀, 呢, 啊, 啦, 喇, 嗎, 嘛, 地, 好了, 就, 得, 所, 沒, 無, 的, 的話, 等, 而已</li>
 </ul>
 
 <ul>
-<li>This corpus contains 1 lemmas tagged as pronouns (PRON): _</li>
+<li>This corpus contains 39 lemmas tagged as pronouns (PRON): 人人, 什麼, 他, 你, 你們, 你自己, 其, 別人, 各位, 哪, 哪個, 哪兒, 哪裏, 哪裡, 哪里, 多少, 大家, 她, 怎樣, 我, 我自己, 本人, 梁耀忠, 此, 甚麼, 自己, 誰, 這, 這些, 這個, 這樣, 這樣子, 這裏, 這裡, 這邊, 那, 那裡, 那邊, 閣下</li>
 </ul>
 
 <ul>
-<li>This corpus contains 1 lemmas tagged as determiners (DET): _</li>
+<li>This corpus contains 38 lemmas tagged as determiners (DET): 一些, 上, 下, 什麼, 今, 任何, 全, 其, 其中, 其他, 別, 另, 各, 哪些, 多, 多少, 多次, 幾, 很多, 所有, 整, 整個, 數, 有些, 本, 某, 某些, 此, 歷, 每, 甚麼, 眾多, 這, 這些, 這個, 那, 那些, 首</li>
 </ul>
 
 <ul>
-<li>Out of the above, 1 lemmas occurred sometimes as PRON and sometimes as DET: _</li>
+<li>Out of the above, 9 lemmas occurred sometimes as PRON and sometimes as DET: 什麼, 其, 多少, 此, 甚麼, 這, 這些, 這個, 那</li>
 </ul>
 
 <ul>
-<li>This corpus contains 1 lemmas tagged as auxiliaries (AUX): _</li>
+<li>This corpus contains 30 lemmas tagged as auxiliaries (AUX): 了, 住, 係, 別, 可, 可以, 可能, 得, 必須, 想, 應, 應該, 敢, 是, 會, 有, 樂意, 為, 用, 着, 能, 能夠, 著, 被, 要, 該, 過, 需, 需要, 須</li>
 </ul>
 
 <ul>
-<li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: _</li>
+<li>Out of the above, 14 lemmas occurred sometimes as AUX and sometimes as VERB: 了, 住, 可以, 得, 想, 是, 有, 樂意, 為, 用, 能夠, 要, 過, 需要</li>
 </ul>
 
 <ul>
@@ -144,6 +144,19 @@ This work was partially supported by a grant from the PROCORE-France/Hong Kong J
 
 
 
+<ul>
+  <li><a>Polarity</a></li>
+</ul>
+
+<ul>
+  <li>Neg
+    <ul>
+      <li>AUX: 不用, 不要, 沒有</li>
+      <li>PART: 沒, 無</li>
+      <li>VERB: 沒有, 沒空, 不用, 沒用</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Verbal Features</h3>
@@ -185,12 +198,12 @@ This work was partially supported by a grant from the PROCORE-France/Hong Kong J
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: _.</li>
+<li>This corpus uses 3 lemmas as copulas (<a>cop</a>). Examples: 是、 為、 係.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: _.</li>
-<li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: _.</li>
+<li>This corpus uses 27 lemmas as auxiliaries (<a>aux</a>). Examples: 要、 了、 能、 可以、 會、 想、 過、 能夠、 應該、 應、 有、 別、 著、 可、 用、 可能、 是、 該、 必須、 需要、 須、 着、 需、 住、 得、 敢、 樂意.</li>
+<li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: 被.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -199,10 +212,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (173)</li>
-      <li>VERB--NOUN-ADP(_) (2)</li>
-      <li>VERB--PRON (503)</li>
-      <li>VERB--PRON-ADP(_) (1)</li>
+      <li>VERB--NOUN (174)</li>
+      <li>VERB--NOUN-ADP(在) (1)</li>
+      <li>VERB--NOUN-ADP(按照) (1)</li>
+      <li>VERB--PRON (506)</li>
+      <li>VERB--PRON-ADP(由) (1)</li>
     </ul>
   </li>
 </ul>
@@ -210,9 +224,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (588)</li>
-      <li>VERB--PRON (137)</li>
-      <li>VERB--PRON-ADP(_) (2)</li>
+      <li>VERB--NOUN (589)</li>
+      <li>VERB--NOUN-ADP(在) (1)</li>
+      <li>VERB--PRON (138)</li>
+      <li>VERB--PRON-ADP(在) (1)</li>
+      <li>VERB--PRON-ADP(的) (1)</li>
     </ul>
   </li>
 </ul>
@@ -231,6 +247,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 15 relation subtypes: <a>advmod:df</a>, <a>aux:pass</a>, <a>case:loc</a>, <a>compound:dir</a>, <a>compound:ext</a>, <a>compound:vo</a>, <a>compound:vv</a>, <a>discourse:sp</a>, <a>mark:adv</a>, <a>mark:rel</a>, <a>nsubj:pass</a>, <a>obj:periph</a>, <a>obl:agent</a>, <a>obl:patient</a>, <a>obl:tmod</a></li>
+<li>This corpus uses 14 relation subtypes: <a>aux:pass</a>, <a>case:loc</a>, <a>compound:dir</a>, <a>compound:ext</a>, <a>compound:vo</a>, <a>compound:vv</a>, <a>discourse:sp</a>, <a>mark:adv</a>, <a>mark:rel</a>, <a>nsubj:pass</a>, <a>obj:periph</a>, <a>obl:agent</a>, <a>obl:patient</a>, <a>obl:tmod</a></li>
 <li>The following 6 relation types are not used in this corpus at all: <a>expl</a>, <a>fixed</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>dep</a></li>
 </ul>

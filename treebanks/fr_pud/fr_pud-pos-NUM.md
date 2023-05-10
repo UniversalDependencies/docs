@@ -37,7 +37,7 @@ The 10 most frequent ambiguous types:  <em>milliards</em> (<tt><a href="fr_pud-p
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.004367 (the average of all parts of speech is 1.298345).
+The form / lemma ratio of `NUM` is 1.004367 (the average of all parts of speech is 1.299644).
 
 The 1st highest number of forms (2) was observed with the lemma “milliard”: <em>milliard, milliards</em>.
 

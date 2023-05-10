@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>o</em> (<tt><a href="nhi_itml-pos-AUX
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 2.150000 (the average of all parts of speech is 1.484055).
+The form / lemma ratio of `AUX` is 2.150000 (the average of all parts of speech is 1.484900).
 
 The 1st highest number of forms (8) was observed with the lemma “katki”: <em>Okatka, i, iskia, katej, katka, katki, niiski, oiskia</em>.
 

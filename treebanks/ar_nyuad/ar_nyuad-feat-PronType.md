@@ -24,7 +24,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 * `Prs` (30458; 99% of non-empty `PronType`): _
 * `Rel` (293; 1% of non-empty `PronType`): _
-* `EMPTY` (12742): _
+* `EMPTY` (12744): _
 
 `PronType` seems to be **lexical feature** of `PRON`. 93% lemmas (14) occur only with one value of `PronType`.
 

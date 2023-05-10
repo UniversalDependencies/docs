@@ -69,7 +69,7 @@ The following 4 pairs of parts of speech are connected with `flat:foreign`: <tt>
 10	||	||	PUNCT	_	_	11	punct	_	AlignBegin=577908|AlignEnd=578056|Gloss=PUNCT
 11	mə́n	mə́n	NOUN	_	Number=Plur	1	flat:foreign	_	AlignBegin=578859|AlignEnd=579028|Gloss=people
 12	Malâːr	Malâːr	PROPN	_	_	11	compound	_	AlignBegin=579028|AlignEnd=579197|Gloss=Malar
-13	|c	|c	PUNCT	_	_	15	punct	_	AlignBegin=579197|AlignEnd=579365|c]=|GE= [|Gloss=PUNCT|nWord=13
+13	|c	|c	PUNCT	_	_	15	punct	_	AlignBegin=579197|AlignEnd=579365|Gloss=PUNCT
 14	tə́	tə́	CCONJ	_	_	15	cc	_	AlignBegin=579365|AlignEnd=579566|Gloss=with
 15	mə́n	mə́n	NOUN	_	Number=Plur	11	conj	_	AlignBegin=579566|AlignEnd=579767|Gloss=people
 16	Baːr	Baːr	PROPN	_	_	15	compound	_	AlignBegin=579767|AlignEnd=579967|Gloss=Bar

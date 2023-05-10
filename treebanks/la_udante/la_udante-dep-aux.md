@@ -44,7 +44,7 @@ The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="
 4	venandum	uenor	VERB	vd1fga	Aspect=Prosp|Case=Acc|Gender=Neut|InflClass=LatA|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass	8	advcl	_	TraditionalMood=Gerundium
 5	veritatem	ueritas	NOUN	sfs3a	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Sing	4	obj	_	_
 6	quesiti	quaesitum	NOUN	sns2g	Case=Gen|Gender=Neut|InflClass=IndEurO|Number=Sing|VerbForm=Part	5	nmod	_	_
-7	scire	scio	VERB	va4fp	Aspect=Imp|VerbForm=Vnoun|Voice=Act	8	csubj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+7	scire	scio	VERB	va4fp	Aspect=Imp|VerbForm=Inf|Voice=Act	8	csubj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 8	oportet	oportet	VERB	va2*ips3	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 9	quod	quod	SCONJ	cs	PronType=Rel	17	mark	_	_
 10	divinum	diuinus	ADJ	ans1n	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	11	amod	_	_
@@ -83,7 +83,7 @@ The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="
 12	materia	materia	NOUN	sfs1n	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	13	nsubj	_	_
 13	pateretur	patior	VERB	vd3cis3	Aspect=Imp|InflClass=LatI2|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	15	advcl	_	SpaceAfter=No|TraditionalMood=Subiunctivus|TraditionalTense=Imperfectum
 14	,	,	PUNCT	Pu	_	13	punct	_	_
-15	inquirere	inquiro	VERB	va3fp	Aspect=Imp|VerbForm=Vnoun|Voice=Act	5	ccomp	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Praesens
+15	inquirere	inquiro	VERB	va3fp	Aspect=Imp|VerbForm=Inf|Voice=Act	5	ccomp	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Praesens
 16	;	;	PUNCT	Pu	_	20	punct	_	_
 17	de	de	ADP	e	_	20	case	_	_
 18	quarum	qui	PRON	prepfg	Case=Gen|Gender=Fem|InflClass=LatPron|Number=Plur|PronType=Rel	20	nmod	_	_

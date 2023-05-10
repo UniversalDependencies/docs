@@ -9,25 +9,25 @@ udver: '2'
 This feature is universal.
 It occurs with 5 different values: `Cnd`, `Imp`, `Ind`, `Nec`, `Qot`.
 
-31168 tokens (11%) have a non-empty value of `Mood`.
-8004 types (16%) occur at least once with a non-empty value of `Mood`.
-2960 lemmas (13%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (23889; 8% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (7279; 3% instances).
+31466 tokens (11%) have a non-empty value of `Mood`.
+8027 types (16%) occur at least once with a non-empty value of `Mood`.
+2963 lemmas (13%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 2 part-of-speech tags: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (24096; 8% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (7370; 3% instances).
 
 ### `VERB`
 
-23889 <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> tokens (55% of all `VERB` tokens) have a non-empty value of `Mood`.
+24096 <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> tokens (55% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="lv_lvtb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (23889; 100%), <tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (23889; 100%), <tt><a href="lv_lvtb-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (23889; 100%), <tt><a href="lv_lvtb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (23889; 100%), <tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (23889; 100%), <tt><a href="lv_lvtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (23889; 100%), <tt><a href="lv_lvtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (23885; 100%), <tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (21655; 91%), <tt><a href="lv_lvtb-feat-Evident.html">Evident</a></tt><tt>=Fh</tt> (20941; 88%), <tt><a href="lv_lvtb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (19878; 83%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="lv_lvtb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (24096; 100%), <tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (24096; 100%), <tt><a href="lv_lvtb-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (24096; 100%), <tt><a href="lv_lvtb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (24096; 100%), <tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (24096; 100%), <tt><a href="lv_lvtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (24096; 100%), <tt><a href="lv_lvtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (24093; 100%), <tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (21855; 91%), <tt><a href="lv_lvtb-feat-Evident.html">Evident</a></tt><tt>=Fh</tt> (21117; 88%), <tt><a href="lv_lvtb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (20073; 83%).
 
 `VERB` tokens may have the following values of `Mood`:
 
-* `Cnd` (1304; 5% of non-empty `Mood`): <em>varētu, vajadzētu, būtu, nodrošinātu, vēlētos, iegūtu, gribētos, nevajadzētu, nevarētu, palīdzētu</em>
-* `Imp` (568; 2% of non-empty `Mood`): <em>lasiet, stum, pievieno, atceries, ej, sagriez, liec, iedomājieties, izmanto, pagaidi</em>
-* `Ind` (20941; 88% of non-empty `Mood`): <em>ir, var, bija, nav, nevar, būs, notiek, teica, sāka, saka</em>
-* `Nec` (889; 4% of non-empty `Mood`): <em>jādara, jābūt, jāveic, jāņem, jāmaksā, jāievēro, jārēķinās, jāatzīst, jāpieņem, jāstrādā</em>
-* `Qot` (187; 1% of non-empty `Mood`): <em>esot, neesot, nevarot, varot, gribot, iekarot, mīlot, varēšot, būšot, drīkstot</em>
-* `EMPTY` (19547): <em>izmantot, darīt, strādāt, iet, dzīvot, būt, atrast, runāt, teikt, izmantojot</em>
+* `Cnd` (1319; 5% of non-empty `Mood`): <em>varētu, vajadzētu, būtu, nodrošinātu, vēlētos, iegūtu, gribētos, nevajadzētu, nevarētu, palīdzētu</em>
+* `Imp` (567; 2% of non-empty `Mood`): <em>lasiet, stum, pievieno, atceries, ej, sagriez, liec, iedomājieties, izmanto, pagaidi</em>
+* `Ind` (21117; 88% of non-empty `Mood`): <em>ir, var, nav, bija, nevar, būs, notiek, teica, saka, sāka</em>
+* `Nec` (903; 4% of non-empty `Mood`): <em>jādara, jāveic, jābūt, jāņem, jāmaksā, jārēķinās, jāatzīst, jāievēro, jāatzīmē, jāpieņem</em>
+* `Qot` (190; 1% of non-empty `Mood`): <em>esot, neesot, nevarot, varot, gribot, iekarot, mīlot, varēšot, būšot, drīkstot</em>
+* `EMPTY` (19770): <em>izmantot, darīt, strādāt, atrast, dzīvot, runāt, būt, iet, teikt, ņemot</em>
 
 <table>
   <tr><th>Paradigm <i>būt</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th><th><tt>Qot</tt></th><th><tt>Nec</tt></th></tr>
@@ -58,18 +58,18 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `AUX`
 
-7279 <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> tokens (95% of all `AUX` tokens) have a non-empty value of `Mood`.
+7370 <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> tokens (95% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="lv_lvtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7279; 100%), <tt><a href="lv_lvtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7279; 100%), <tt><a href="lv_lvtb-feat-Evident.html">Evident</a></tt><tt>=Fh</tt> (6761; 93%), <tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=3</tt> (6262; 86%), <tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (6210; 85%), <tt><a href="lv_lvtb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (4972; 68%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="lv_lvtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7370; 100%), <tt><a href="lv_lvtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7370; 100%), <tt><a href="lv_lvtb-feat-Evident.html">Evident</a></tt><tt>=Fh</tt> (6846; 93%), <tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=3</tt> (6347; 86%), <tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (6295; 85%), <tt><a href="lv_lvtb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5037; 68%).
 
 `AUX` tokens may have the following values of `Mood`:
 
-* `Cnd` (316; 4% of non-empty `Mood`): <em>būtu, nebūtu, tiktu, netiktu, būti, tiku</em>
+* `Cnd` (322; 4% of non-empty `Mood`): <em>būtu, nebūtu, tiktu, netiktu, būti, tiku</em>
 * `Imp` (5; 0% of non-empty `Mood`): <em>esiet, Esi</em>
-* `Ind` (6761; 93% of non-empty `Mood`): <em>ir, bija, nav, tiek, tika, būs, esmu, tiks, nebija, esam</em>
+* `Ind` (6846; 93% of non-empty `Mood`): <em>ir, bija, nav, tiek, tika, būs, esmu, tiks, nebija, esam</em>
 * `Nec` (50; 1% of non-empty `Mood`): <em>jābūt, jābūtot</em>
 * `Qot` (147; 2% of non-empty `Mood`): <em>esot, neesot, būšot, tiekot, tikšot, nebūšot</em>
-* `EMPTY` (357): <em>būt, bijis, bijusi, tikt, bijuši, ticis, bijušas, tikusi, bijušo, būdams</em>
+* `EMPTY` (366): <em>būt, bijis, bijusi, tikt, bijuši, ticis, bijušas, tikusi, bijušo, būdams</em>
 
 <table>
   <tr><th>Paradigm <i>būt</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th><th><tt>Qot</tt></th><th><tt>Nec</tt></th></tr>
@@ -114,7 +114,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="lv_lvtb-dep-conj.html">conj</a></tt>]--> VERB</tt> (4123; 77%),
+<tt>VERB --[<tt><a href="lv_lvtb-dep-conj.html">conj</a></tt>]--> VERB</tt> (4144; 77%),
 <tt>AUX --[<tt><a href="lv_lvtb-dep-conj.html">conj</a></tt>]--> VERB</tt> (10; 83%),
 <tt>VERB --[<tt><a href="lv_lvtb-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (5; 83%),
 <tt>AUX --[<tt><a href="lv_lvtb-dep-conj.html">conj</a></tt>]--> AUX</tt> (4; 100%),

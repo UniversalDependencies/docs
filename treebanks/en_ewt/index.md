@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.0 release.
 The following people have contributed to making this treebank part of UD: Natalia Silveira, Timothy Dozat, Christopher Manning, Sebastian Schuster, Ethan Chi, John Bauer, Miriam Connor, Marie-Catherine de Marneffe, Nathan Schneider, Sam Bowman, Hanzhi Zhu, Daniel Galbraith, John Bauer.
 
 Repository: [UD_English-EWT](https://github.com/UniversalDependencies/UD_English-EWT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_ewt211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_ewt212)<br />
+Download all treebanks: [UD 2.12](/#download)
 
 License: CC BY-SA 4.0
 
@@ -401,7 +401,7 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
 <ul>
   <li>Past
     <ul>
-      <li>AUX-Fin: was, were, did, had, got, 'd, where, wase</li>
+      <li>AUX-Fin: was, were, did, had, got, 'd, where, wase, we</li>
       <li>AUX-Part: been</li>
       <li>SCONJ-Part: given, Based, PROVIDED, geiven</li>
       <li>VERB-Fin: had, said, got, took, came, went, did, told, called, made</li>
@@ -478,9 +478,9 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
 <ul>
   <li>Int
     <ul>
-      <li>ADV: when, how, why, where, whenever, wherever, however, were, who, y</li>
+      <li>ADV: when, how, why, where, whenever, Wherever, however, were, who, y</li>
       <li>DET: what, which, whatever</li>
-      <li>PRON: what, who, which, whatever, whom, who's, Wtf, waht, whoooooo, wht</li>
+      <li>PRON: what, who, which, whatever, whom, Wtf, waht, whoooooo, wht</li>
     </ul>
   </li>
 </ul>
@@ -514,9 +514,9 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
 <ul>
   <li>Rel
     <ul>
-      <li>ADV: where, when, why, how, were, wherein, where-ever</li>
-      <li>DET: which, whatever</li>
-      <li>PRON: that, which, who, what, whom, whose, whatever, whoever, whomever, the</li>
+      <li>ADV: where, when, why, how, were, wherein, wherever, where-ever</li>
+      <li>DET: whatever, which</li>
+      <li>PRON: that, which, who, what, whom, whatever, whose, who's, whoever, whomever</li>
     </ul>
   </li>
 </ul>
@@ -790,23 +790,23 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
           <li>ADJ: over, rediculous, accomodating, Arial, afore, knowledgable, unic, 0nside, Aweesome, Awsome</li>
           <li>ADP: a, then, and, in, int, of, the, aboout, abou, admidst</li>
           <li>ADV: to, definately, aboard, all, any, completly, every, half, on, realy</li>
-          <li>AUX-Fin: s, re, have, r, ve, where, woud, ',, `s, a</li>
+          <li>AUX-Fin: s, re, where, have, r, ve, woud, ',, `s, a</li>
           <li>AUX-Ger: been</li>
           <li>AUX-Inf: by</li>
           <li>CCONJ: an, adn, a, ad=nd, afnd, amd, ans, at, of</li>
           <li>DET: and, teh, $ome, Thi$, aa, dthat, he, ssome, te, then</li>
           <li>INTJ: Ye$, Υes</li>
-          <li>NOUN: MEH-risk, Compaq.com, catagory, collages, e, hamburguers, mid, resturant, $ervice, 1002`s</li>
+          <li>NOUN: MEH-risk, Compaq.com, catagory, chnages, collages, e, hamburguers, mid, resturant, $ervice</li>
           <li>PART: s, nt, too, ot, the</li>
           <li>PRON: you, there, it's, the, their, s, out, they, who's, any</li>
           <li>PROPN: Sear's, penines, U$, A, Bramen, Deutsched, Dinners, Fudruckers, Guiness, Hirsohima</li>
           <li>PUNCT: 1?!?!?, =</li>
           <li>SCONJ: becuse, then, wether, I'd, Seince, Whie, altough, ask, beacuse, becouse</li>
           <li>SCONJ-Part: geiven</li>
-          <li>VERB-Fin: taste, where, know, new, reccomend, recieved, see, want, For, Loose</li>
+          <li>VERB-Fin: taste, new, know, reccomend, recieved, see, want, where, For, Loose</li>
           <li>VERB-Ger: ASWERING, EATTING, developiong, drive, drving, hireing, loosing, usint</li>
-          <li>VERB-Inf: loose, reccommend, recieve, recomend, accomodate, bare, charger, co$t, critisize, e</li>
-          <li>VERB-Part: excepted, name, suppose, Rcommended, U, amplifiaed, botn, buring, charge, eatin</li>
+          <li>VERB-Inf: loose, reccommend, recieve, recomend, accomodate, answers, bare, charger, co$t, critisize</li>
+          <li>VERB-Part: excepted, name, suppose, Compare, Rcommended, U, amplifiaed, botn, buring, charge</li>
           <li>X: Ken, David, Lorie, Sara, John, Nasim, Robert, Adnan, Alma, Amanda</li>
         </ul>
       </li>
@@ -833,23 +833,22 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (1824)</li>
-      <li>VERB-Fin--PRON (754)</li>
-      <li>VERB-Fin--PRON-ADP(of) (1)</li>
+      <li>VERB-Fin--NOUN (1820)</li>
+      <li>VERB-Fin--PRON (760)</li>
       <li>VERB-Fin--PRON-Acc (3)</li>
-      <li>VERB-Fin--PRON-Nom (4727)</li>
-      <li>VERB-Ger--NOUN (88)</li>
+      <li>VERB-Fin--PRON-Nom (4722)</li>
+      <li>VERB-Ger--NOUN (84)</li>
       <li>VERB-Ger--PRON (10)</li>
-      <li>VERB-Ger--PRON-Acc (9)</li>
+      <li>VERB-Ger--PRON-Acc (8)</li>
       <li>VERB-Ger--PRON-Gen (10)</li>
-      <li>VERB-Ger--PRON-Nom (188)</li>
-      <li>VERB-Inf--NOUN (632)</li>
-      <li>VERB-Inf--PRON (281)</li>
-      <li>VERB-Inf--PRON-Acc (30)</li>
+      <li>VERB-Ger--PRON-Nom (186)</li>
+      <li>VERB-Inf--NOUN (628)</li>
+      <li>VERB-Inf--PRON (282)</li>
+      <li>VERB-Inf--PRON-Acc (29)</li>
       <li>VERB-Inf--PRON-Nom (2609)</li>
-      <li>VERB-Part--NOUN (457)</li>
-      <li>VERB-Part--PRON (145)</li>
-      <li>VERB-Part--PRON-Acc (4)</li>
+      <li>VERB-Part--NOUN (447)</li>
+      <li>VERB-Part--PRON (146)</li>
+      <li>VERB-Part--PRON-Acc (3)</li>
       <li>VERB-Part--PRON-Nom (1272)</li>
     </ul>
   </li>
@@ -858,24 +857,23 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (3510)</li>
-      <li>VERB-Fin--NOUN-ADP(over) (1)</li>
-      <li>VERB-Fin--PRON (323)</li>
-      <li>VERB-Fin--PRON-Acc (884)</li>
-      <li>VERB-Fin--PRON-Nom (65)</li>
-      <li>VERB-Ger--NOUN (1040)</li>
+      <li>VERB-Fin--NOUN (3478)</li>
+      <li>VERB-Fin--PRON (319)</li>
+      <li>VERB-Fin--PRON-Acc (781)</li>
+      <li>VERB-Fin--PRON-Nom (66)</li>
+      <li>VERB-Ger--NOUN (1036)</li>
       <li>VERB-Ger--PRON (43)</li>
-      <li>VERB-Ger--PRON-Acc (122)</li>
+      <li>VERB-Ger--PRON-Acc (111)</li>
       <li>VERB-Ger--PRON-Nom (10)</li>
-      <li>VERB-Inf--NOUN (3207)</li>
+      <li>VERB-Inf--NOUN (3188)</li>
       <li>VERB-Inf--NOUN-ADP('s) (1)</li>
-      <li>VERB-Inf--PRON (335)</li>
-      <li>VERB-Inf--PRON-Acc (793)</li>
-      <li>VERB-Inf--PRON-Nom (88)</li>
-      <li>VERB-Part--NOUN (773)</li>
-      <li>VERB-Part--PRON (113)</li>
-      <li>VERB-Part--PRON-Acc (94)</li>
-      <li>VERB-Part--PRON-Nom (4)</li>
+      <li>VERB-Inf--PRON (333)</li>
+      <li>VERB-Inf--PRON-Acc (735)</li>
+      <li>VERB-Inf--PRON-Nom (89)</li>
+      <li>VERB-Part--NOUN (769)</li>
+      <li>VERB-Part--PRON (110)</li>
+      <li>VERB-Part--PRON-Acc (82)</li>
+      <li>VERB-Part--PRON-Nom (6)</li>
     </ul>
   </li>
 </ul>
@@ -883,18 +881,19 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--NOUN (18)</li>
-      <li>VERB-Fin--PRON (1)</li>
-      <li>VERB-Fin--PRON-Acc (179)</li>
+      <li>VERB-Fin--NOUN (59)</li>
+      <li>VERB-Fin--PRON (3)</li>
+      <li>VERB-Fin--PRON-Acc (282)</li>
       <li>VERB-Fin--PRON-Nom (5)</li>
-      <li>VERB-Ger--NOUN (9)</li>
-      <li>VERB-Ger--PRON-Acc (24)</li>
-      <li>VERB-Inf--NOUN (18)</li>
-      <li>VERB-Inf--PRON (2)</li>
-      <li>VERB-Inf--PRON-Acc (163)</li>
-      <li>VERB-Inf--PRON-Nom (6)</li>
-      <li>VERB-Part--NOUN (5)</li>
-      <li>VERB-Part--PRON-Acc (14)</li>
+      <li>VERB-Ger--NOUN (15)</li>
+      <li>VERB-Ger--PRON (1)</li>
+      <li>VERB-Ger--PRON-Acc (35)</li>
+      <li>VERB-Inf--NOUN (36)</li>
+      <li>VERB-Inf--PRON (6)</li>
+      <li>VERB-Inf--PRON-Acc (224)</li>
+      <li>VERB-Inf--PRON-Nom (8)</li>
+      <li>VERB-Part--NOUN (11)</li>
+      <li>VERB-Part--PRON-Acc (26)</li>
       <li>VERB-Part--PRON-Nom (1)</li>
     </ul>
   </li>

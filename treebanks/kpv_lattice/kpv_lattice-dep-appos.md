@@ -46,7 +46,7 @@ The following 17 pairs of parts of speech are connected with `appos`: <tt><a hre
 5	кодъяс	коді	PRON	Pron	Case=Nom|Number=Plur|PronType=Int	0	root	_	GTtags=Interr,Pl,Nom|SpaceAfter=No
 6	?	?	PUNCT	CLB	_	5	punct	_	_
 7	—	—	PUNCT	PUNCT	_	8	punct	_	_
-8	индіс	индыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=2	5	parataxis	_	GTtags=TV,Ind,Prt1,Sg3
+8	индіс	индыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	parataxis	_	GTtags=TV,Ind,Prt1,Sg3
 9	мамыс	мам	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	8	nsubj	_	GTtags=Sg,Nom,PxSg3
 10	воддза	воддза	ADV	Adv	Case=Nom|Number=Sing	8	obl	_	GTtags=Sg,Nom
 11	кык	кык	NUM	Num	Case=Nom|Number=Sing|NumType=Card	12	nummod	_	GTtags=Card,Sg,Nom

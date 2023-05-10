@@ -32,6 +32,7 @@ You may also want to announce your tool in the
     * [TrUDucer](#truducer)
     * [ConlluEditor](#conllueditor)
     * [Palmyra](#palmyra)
+    * [BoAT](#boat)
   * Editor modes
     * [Emacs](#emacs)
     * [Atom](#atom)
@@ -195,7 +196,7 @@ WebAnno 3.0.0 does not support the CoNLL-U 2.0 format at this time.
 
 **LightTag** is a general purpose text annotation tool which supports span annotations, classification as well as phrase-based and dependency-based relations. LightTag allows a drag-and-drop interface allowing annotators to easily drag individual tokens or sub-trees to construct their parse.
 
-[LightTag's Universal Dependency Tool](https://lighttag.io/udep/) allows the user to paste an existing CoNLL-U file, visualize and correct the annotations. LightTag's full featured [text annotation tool](https://lighttag.io) supports managing teams of annotators, is fully hosted and availble free for academic use.
+[LightTag's Universal Dependency Tool](https://lighttag.io/udep/) allows the user to paste an existing CoNLL-U file, visualize and correct the annotations. LightTag's full featured [text annotation tool](https://lighttag.io) supports managing teams of annotators, is fully hosted and available free for academic use.
 
 * Category: manual annotation tool
 * Platform: Web
@@ -266,9 +267,17 @@ The editor provides the following functionalities:
 * References: Taji and Habash (2020): [Dima Taji and Nizar Habash. 2020. PALMYRA 2.0: A Configurable Multilingual Platform Independent Tool for Morphology and Syntax Annotation. In Proceedings of Universal Dependencies Workshop (UDW) 2020.](https://aclanthology.org/2020.udw-1.19.pdf).
 * Contact: Nizar Habash (nizar.habash@nyu.edu)
 
+#### BoAT
 
+BoAT (Boğaziçi University Annotation Tool) is a collaborative grammatical annotation tool. It supports annotating CoNLL-U files. Some of its features are autocompletion, UD validation, visualization of dependency graphs and advanced search. It's capable of serving multiple treebanks and annotators. 
 
-
+* Category: manual annotation tool
+* Platform: any (browser-based)
+* Implementation: Python (server), JavaScript (client)
+* License: MIT (open source)
+* Homepage: <https://github.com/BOUN-TABILab-TULAP/Web-Annotation-Tool>
+* References: [Akkurt et al. (2022)](https://ceur-ws.org/Vol-3315/paper01.pdf)
+* Contact: Furkan Akkurt (furkan.akkurt at boun dot edu dot tr)
 
 ### Editor modes
 

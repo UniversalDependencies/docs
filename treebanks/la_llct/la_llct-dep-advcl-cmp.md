@@ -31,11 +31,11 @@ The following 16 pairs of parts of speech are connected with `advcl:cmp`: <tt><a
 6	et	et	CCONJ	d|d|-|-|-|-|-|-|-|-	_	7	advmod:emph	_	_
 7	res	res	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	14	advcl:cmp	_	_
 8	bene	bene	ADV	d|d|-|-|-|-|-|-|-|-	_	9	advmod	_	_
-9	lavorare	laboro	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	4	conj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+9	lavorare	laboro	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	4	conj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 10	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	11	cc	_	_
-11	gubernare	guberno	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	4	conj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+11	gubernare	guberno	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	4	conj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 12	seo	seu	CCONJ	c|c|-|-|-|-|-|-|-|-	_	13	cc	_	_
-13	meliorare	melioro	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	4	conj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+13	meliorare	melioro	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	4	conj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 14	debeamus	debeo	VERB	v|v|1|p|p|s|a|-|-|-	Aspect=Imp|Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|TraditionalMood=Subiunctivus|TraditionalTense=Praesens
 15	.	.	PUNCT	Punc	_	14	punct	_	_
 
@@ -74,9 +74,9 @@ The following 16 pairs of parts of speech are connected with `advcl:cmp`: <tt><a
 24	ad	ad	ADP	r|r|-|-|-|-|-|-|-|-	_	25	case	_	_
 25	manus	manus	NOUN	n|n|-|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur	27	obl	_	_
 26	suas	suus	DET	a|a|3|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes	25	det	_	_
-27	abere	habeo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	30	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+27	abere	habeo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	30	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 28	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	29	cc	_	_
-29	detinere	detineo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	27	conj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+29	detinere	detineo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	27	conj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 30	videtur	uideo	VERB	v|v|3|s|p|i|p|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	20	conj	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 31	,	,	PUNCT	Punc	_	1	punct	_	_
 32	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	33	case	_	_
@@ -100,7 +100,7 @@ The following 16 pairs of parts of speech are connected with `advcl:cmp`: <tt><a
 3	de	de	ADP	r|r|-|-|-|-|-|-|-|-	_	4	case	_	_
 4	res	res	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	6	obl	_	_
 5	ipsam	ipse	DET	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	_
-6	abere	habeo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	7	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+6	abere	habeo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	7	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 7	videris	uideo	VERB	v|v|2|s|t|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	20	advcl:cmp	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=FuturumExactum
 8	,	,	PUNCT	Punc	_	7	punct	_	_
 9	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	10	case	_	_
@@ -114,7 +114,7 @@ The following 16 pairs of parts of speech are connected with `advcl:cmp`: <tt><a
 17	ecclesiam	ecclesia	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	20	obl:arg	_	_
 18	sancti	sanctus	ADJ	a|a|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	19	amod	_	_
 19	Simeonis	Simeon	PROPN	Propn|n|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	17	nmod	_	_
-20	relaxare	relaxo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	21	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+20	relaxare	relaxo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	21	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 21	debes	debeo	VERB	v|v|2|s|p|i|a|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 22	.	.	PUNCT	Punc	_	21	punct	_	_
 

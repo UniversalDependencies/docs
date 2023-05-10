@@ -13,7 +13,7 @@ This relation is a language-specific subtype of <tt><a href="en_gumreddit-dep-ac
 231 instances of `acl:relcl` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 3.73593073593074.
 
-The following 12 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (153; 66% instances), <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (42; 18% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> (10; 4% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (7; 3% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (6; 3% instances), <tt><a href="en_gumreddit-pos-DET.html">DET</a></tt>-<tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="en_gumreddit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gumreddit-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="en_gumreddit-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (142; 61% instances), <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (53; 23% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> (10; 4% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (6; 3% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (5; 2% instances), <tt><a href="en_gumreddit-pos-DET.html">DET</a></tt>-<tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="en_gumreddit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gumreddit-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="en_gumreddit-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -64,16 +64,16 @@ The following 12 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 6	_	_	PROPN	NNP	Number=Sing	4	obl	4:obl:in	Entity=(60-place-new-cf3-1-coref-Zimbabwe)|Lem=_|Len=8
 7	_	_	ADV	WRB	PronType=Rel	13	advmod	13:advmod	Discourse=elaboration-attribute:55->54:0|Lem=_|Len=5
 8	_	_	DET	DT	Definite=Ind|PronType=Art	11	det	11:det	Entity=(61-event-new-cf2-4-sgl|Lem=_|Len=1
-9	_	_	NUM	CD	NumForm=Word|NumType=Card	10	nummod	10:nummod	Lem=_|Len=7
-10	_	_	NOUN	NN	Number=Sing	11	compound	11:compound	Lem=_|Len=6
+9	_	_	NUM	CD	NumForm=Word|NumType=Card	10	nummod	10:nummod	Entity=(62-abstract-new-cf5-2-sgl|Lem=_|Len=7
+10	_	_	NOUN	NN	Number=Sing	11	compound	11:compound	Entity=62)|Lem=_|Len=6
 11	_	_	NOUN	NN	Number=Sing	13	nsubj	13:nsubj	Entity=61)|Lem=_|Len=11
 12	_	_	AUX	MD	Number=Sing|Person=3|VerbForm=Fin	13	aux	13:aux	Lem=_|Len=5
 13	_	_	VERB	VB	VerbForm=Inf	6	acl:relcl	6:acl:relcl	Lem=_|Len=6
 14	_	_	ADP	IN	_	16	case	16:case	Lem=_|Len=3
-15	_	_	DET	DT	Definite=Ind|PronType=Art	16	det	16:det	Entity=(62-object-new-cf4-2-sgl|Lem=_|Len=1
+15	_	_	DET	DT	Definite=Ind|PronType=Art	16	det	16:det	Entity=(63-object-new-cf4-2-sgl|Lem=_|Len=1
 16	_	_	NOUN	NN	Number=Sing	13	obl	13:obl:for	Lem=_|Len=4
 17	_	_	ADP	IN	_	18	case	18:case	Lem=_|Len=2
-18	_	_	NOUN	NN	Number=Sing	16	nmod	16:nmod:of	Entity=62)|Lem=_|Len=5|SpaceAfter=No
+18	_	_	NOUN	NN	Number=Sing	16	nmod	16:nmod:of	Entity=63)|Lem=_|Len=5|SpaceAfter=No
 19	_	_	PUNCT	.	_	3	punct	3:punct	Lem=_|Len=1
 
 ~~~

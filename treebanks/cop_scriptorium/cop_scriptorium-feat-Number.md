@@ -11,22 +11,22 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="cop_scriptorium-feat-Number.html">Number</a></tt>, <tt><a href="cop_scriptorium-feat-Number-psor.html">Number[psor]</a></tt>.
 
-15466 tokens (28%) have a non-empty value of `Number`.
+15469 tokens (28%) have a non-empty value of `Number`.
 120 types (4%) occur at least once with a non-empty value of `Number`.
 66 lemmas (3%) occur at least once with a non-empty value of `Number`.
-The feature is used with 2 part-of-speech tags: <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (8413; 15% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (7053; 13% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (8414; 15% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (7055; 13% instances).
 
 ### `PRON`
 
-8413 <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> tokens (92% of all `PRON` tokens) have a non-empty value of `Number`.
+8414 <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> tokens (92% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="cop_scriptorium-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (7926; 94%), <tt><a href="cop_scriptorium-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (7926; 94%), <tt><a href="cop_scriptorium-feat-Person.html">Person</a></tt><tt>=3</tt> (5254; 62%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="cop_scriptorium-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (7927; 94%), <tt><a href="cop_scriptorium-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (7927; 94%), <tt><a href="cop_scriptorium-feat-Person.html">Person</a></tt><tt>=3</tt> (5255; 62%).
 
 `PRON` tokens may have the following values of `Number`:
 
 * `Plur` (2573; 31% of non-empty `Number`): ⲩ, ⲟⲩ, ⲛ, ⲧⲛ, ⲧⲉⲧⲛ, ⲥⲉ, ⲛⲉ, ⲧⲏⲩⲧⲛ, ⲉⲩⲉ, ⲛⲧⲱⲧⲛ
-* `Sing` (5840; 69% of non-empty `Number`): ϥ, ⲥ, ⲓ, ⲕ, ⲡⲉ, ϯ, ⲧⲉ, ⲅ, ⲁⲛⲟⲕ, ⲛⲧⲟϥ
-* `EMPTY` (756): ⲟⲩ, ⲛⲓⲙ, ϥ, ⲕ, ⲥ, ⲁϣ, ⲛ, ⲟⲩⲏⲣ, ⲧⲛ, ⲩ
+* `Sing` (5841; 69% of non-empty `Number`): ϥ, ⲥ, ⲓ, ⲕ, ⲡⲉ, ϯ, ⲧⲉ, ⲅ, ⲁⲛⲟⲕ, ⲛⲧⲟϥ
+* `EMPTY` (756): ⲟⲩ, ⲛⲓⲙ, ϥ, ⲕ, ⲥ, ⲁϣ, ⲛ, ⲟⲩⲏⲣ, ⲩ, ⲧⲛ
 
 <table>
   <tr><th>Paradigm <i>ⲡⲉ</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -39,15 +39,15 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `DET`
 
-7053 <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> tokens (98% of all `DET` tokens) have a non-empty value of `Number`.
+7055 <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> tokens (98% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="cop_scriptorium-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (6125; 87%), <tt><a href="cop_scriptorium-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (5734; 81%), <tt><a href="cop_scriptorium-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5734; 81%), <tt><a href="cop_scriptorium-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (5689; 81%), <tt><a href="cop_scriptorium-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (5147; 73%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="cop_scriptorium-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (6127; 87%), <tt><a href="cop_scriptorium-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (5735; 81%), <tt><a href="cop_scriptorium-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5735; 81%), <tt><a href="cop_scriptorium-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (5690; 81%), <tt><a href="cop_scriptorium-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (5148; 73%).
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (1409; 20% of non-empty `Number`): ⲛ, ⲛⲉ, ⲛⲉϥ, ⲛⲁⲓ, ⲛⲁ, ⲙ, ⲛⲉⲛ, ⲛⲉⲩ, ⲛⲉⲕ, ⲛⲉⲧⲛ
+* `Plur` (1411; 20% of non-empty `Number`): ⲛ, ⲛⲉ, ⲛⲉϥ, ⲛⲁⲓ, ⲛⲁ, ⲙ, ⲛⲉⲛ, ⲛⲉⲩ, ⲛⲉⲕ, ⲛⲉⲧⲛ
 * `Sing` (5644; 80% of non-empty `Number`): ⲡ, ⲧ, ⲟⲩ, ⲡⲉ, ϩⲉⲛ, ⲡⲁ, ⲡⲉϥ, ⲧⲉ, ⲡⲁⲓ, ⲡⲉⲓ
-* `EMPTY` (136): ⲕⲉ, ϯ, ϭⲉ, ⲛⲁ, ⲛ, ⲙ, ⲧ, ϩⲛ, ⲛⲉ, ⲛⲉⲧⲛ
+* `EMPTY` (133): ⲕⲉ, ϯ, ϭⲉ, ⲛⲁ, ⲙ, ⲛ, ⲧ, ϩⲛ, ⲛⲉ, ⲛⲉⲧⲛ
 
 <table>
   <tr><th>Paradigm <i>ⲡ</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>

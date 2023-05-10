@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_French-Rhapsodie: Relations: `expl:pass`
 
-This relation is a language-specific subtype of <tt><a href="fr_rhapsodie-dep-expl.html">expl</a></tt>.
-There are also 1 other language-specific subtypes of `expl`: <tt><a href="fr_rhapsodie-dep-expl-subj.html">expl:subj</a></tt>.
+This relation is a language-specific subtype of .
+There are also 2 other language-specific subtypes of `expl`: <tt><a href="fr_rhapsodie-dep-expl-comp.html">expl:comp</a></tt>, <tt><a href="fr_rhapsodie-dep-expl-subj.html">expl:subj</a></tt>.
 
 33 nodes (0%) are attached to their parents as `expl:pass`.
 

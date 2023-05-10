@@ -41,4 +41,4 @@ punct(басып-5, .-7)
 
 <!-- TODO: @case with verbal nouns -->
 
-<!-- Interlanguage links updated Po lis 14 15:35:12 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:04:02 CEST -->

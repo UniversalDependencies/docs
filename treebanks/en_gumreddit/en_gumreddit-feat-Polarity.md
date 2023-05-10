@@ -32,7 +32,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (28; 100% of non-empty `Polarity`): <em>_</em>
-* `EMPTY` (1056): <em>_</em>
+* `EMPTY` (1090): <em>_</em>
 
 ### `DET`
 
@@ -74,7 +74,7 @@ The most frequent other feature values with which `PRON` and `Polarity` co-occur
 `PRON` tokens may have the following values of `Polarity`:
 
 * `Neg` (3; 100% of non-empty `Polarity`): <em>_</em>
-* `EMPTY` (1928): <em>_</em>
+* `EMPTY` (1957): <em>_</em>
 
 ### `NOUN`
 
@@ -85,5 +85,5 @@ The most frequent other feature values with which `NOUN` and `Polarity` co-occur
 `NOUN` tokens may have the following values of `Polarity`:
 
 * `Neg` (2; 100% of non-empty `Polarity`): <em>_</em>
-* `EMPTY` (2687): <em>_</em>
+* `EMPTY` (2661): <em>_</em>
 

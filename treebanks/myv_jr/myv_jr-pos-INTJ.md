@@ -44,7 +44,7 @@ The 10 most frequent ambiguous types:  <em>вана</em> (<tt><a href="myv_jr-po
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.027027 (the average of all parts of speech is 2.080808).
+The form / lemma ratio of `INTJ` is 1.027027 (the average of all parts of speech is 2.081114).
 
 The 1st highest number of forms (2) was observed with the lemma “виде”: <em>Видеяк, виде</em>.
 

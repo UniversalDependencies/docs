@@ -41,7 +41,7 @@ The following 4 pairs of parts of speech are connected with `csubj`: <tt><a href
 17	た	た	AUX	助動詞-助動詞-タ	_	14	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|SpaceAfter=No|UnidicInfo=,た,た,た,タ,,,タ,タ,た
 18	英国防衛省地図	英国防衛省地図	NOUN	名詞-普通名詞-一般	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|SpaceAfter=No|UnidicInfo=;;;,英国;防衛;省;地図,英国;防衛;省;地図,英国;防衛;省;地図,エーコク;ボーエー;ショー;チズ,;;;,;;;,エイコク;ボウエイ;ショウ;チズ,エイコクボウエイショウチズ,英国防衛省地図
 19	だ	だ	AUX	助動詞-助動詞-ダ	_	18	cop	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,だ,だ,だ,ダ,,,ダ,ダ,だ
-20	。	。	PUNCT	補助記号-句点	_	18	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=Yes|UnidicInfo=,。,。,。,,,,,,。
+20	。	。	PUNCT	補助記号-句点	_	18	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|UnidicInfo=,。,。,。,,,,,,。
 
 ~~~
 
@@ -81,7 +81,7 @@ The following 4 pairs of parts of speech are connected with `csubj`: <tt><a href
 27	探し	探す	VERB	動詞-一般-五段-サ行	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|SpaceAfter=No|UnidicInfo=,探す,探し,探す,サガシ,,,サガス,サガス,探す
 28	てい	ている	AUX	助動詞-上一段-ア行	_	27	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=;,て;居る,て;い,て;いる,テ;イ,;,;,テ;イル,テイル,ている
 29	た	た	AUX	助動詞-助動詞-タ	_	27	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|SpaceAfter=No|UnidicInfo=,た,た,た,タ,,,タ,タ,た
-30	。	。	PUNCT	補助記号-句点	_	27	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=Yes|UnidicInfo=,。,。,。,,,,,,。
+30	。	。	PUNCT	補助記号-句点	_	27	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|UnidicInfo=,。,。,。,,,,,,。
 
 ~~~
 
@@ -126,7 +126,7 @@ The following 4 pairs of parts of speech are connected with `csubj`: <tt><a href
 32	が	が	ADP	助詞-格助詞	_	28	case	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|SpaceAfter=No|UnidicInfo=,が,が,が,ガ,,,ガ,ガ,が
 33	あっ	有る	VERB	動詞-一般-五段-ラ行	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|PrevUDLemma=ある|SpaceAfter=No|UnidicInfo=,有る,あっ,ある,アッ,,,アル,アル,有る
 34	た	た	AUX	助動詞-助動詞-タ	_	33	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,た,た,た,タ,,,タ,タ,た
-35	。	。	PUNCT	補助記号-句点	_	33	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=Yes|UnidicInfo=,。,。,。,,,,,,。
+35	。	。	PUNCT	補助記号-句点	_	33	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|UnidicInfo=,。,。,。,,,,,,。
 
 ~~~
 

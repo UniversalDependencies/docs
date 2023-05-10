@@ -17,4 +17,4 @@ flat:foreign(c'-4, est-5)
 flat:foreign(c'-4, la-6)
 flat:foreign(c'-4, vie-7)
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:27 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:04:16 CEST -->

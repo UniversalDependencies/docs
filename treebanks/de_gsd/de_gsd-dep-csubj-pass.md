@@ -22,7 +22,7 @@ The following 5 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 3 csubj:pass	color:blue
-1	Was	was	PRON	PWS	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	3	nsubj	_	_
+1	Was	was	PRON	PWS	Case=Nom|Gender=Neut|Number=Sing|PronType=Int,Rel	3	nsubj	_	_
 2	nicht	nicht	PART	PTKNEG	Polarity=Neg	3	advmod	_	_
 3	gepasst	passen	VERB	VVPP	VerbForm=Part	10	csubj:pass	_	_
 4	hat	haben	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	SpaceAfter=No
@@ -47,13 +47,13 @@ The following 5 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 2	wurde	werden	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	3	aux:pass	_	_
 3	erzählt	erzählen	VERB	VVPP	VerbForm=Part	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	$,	_	8	punct	_	_
-5	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+5	die	der	DET	ART	Case=Nom|Definite=Def|Number=Plur|PronType=Art	6	det	_	_
 6	Juden	Jude	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	_
 7	seien	sein	AUX	VAFIN	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
 8	betrügerisch	betrügerisch	ADJ	ADJD	Degree=Pos	3	csubj:pass	_	_
 9	und	und	CCONJ	KON	_	15	cc	_	_
 10	würden	werden	AUX	VAFIN	Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	15	aux	_	_
-11	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+11	die	der	DET	ART	Case=Nom|Definite=Def|Number=Plur|PronType=Art	12	det	_	_
 12	Brunnen	Brunnen	NOUN	NN	Case=Nom|Number=Plur	15	obj	_	_
 13	der	der	DET	ART	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
 14	Stadt	Stadt	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	_

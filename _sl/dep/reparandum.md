@@ -14,3 +14,4 @@ nsubj(manjši,stroški)
 det(stroški,ti)
 reparandum(ti,te)
 ~~~
+<!-- Interlanguage links updated Út 9. května 2023, 20:04:33 CEST -->

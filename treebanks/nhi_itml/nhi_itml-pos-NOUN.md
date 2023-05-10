@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Western_Sierra_Puebla_Nahuatl-ITML: POS Tags: `NOUN`
 
-There are 500 `NOUN` lemmas (28%), 645 `NOUN` types (25%) and 1477 `NOUN` tokens (15%).
+There are 499 `NOUN` lemmas (28%), 645 `NOUN` types (25%) and 1477 `NOUN` tokens (15%).
 Out of 15 observed tags, the rank of `NOUN` is: 2 in number of lemmas, 2 in number of types and 3 in number of tokens.
 
 The 10 most frequent `NOUN` lemmas: <em>tich, pueblo, itskwintli, itzcuintli, atl, _, rana, ca, ka, telpukatl</em>
@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>tipitzin</em> (<tt><a href="nhi_itml-
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 1.290000 (the average of all parts of speech is 1.484055).
+The form / lemma ratio of `NOUN` is 1.292585 (the average of all parts of speech is 1.484900).
 
 The 1st highest number of forms (20) was observed with the lemma “_”: <em>días, iaxka, ica, icuixcochco, ima, intenko, ivelorio, mañana, namokniwantzitzin, ocopomeh, patrón, sauameh, señor, tenantzin, tiotlac, tlajkoyan, tlakajkayawalis, tlalcuitlaxcolten, tlejmachio, totradición</em>.
 

@@ -7,13 +7,13 @@ udver: '2'
 ## Treebank Statistics: UD_Korean-PUD: POS Tags: `DET`
 
 There are 3 `DET` lemmas (0%), 54 `DET` types (1%) and 464 `DET` tokens (3%).
-Out of 13 observed tags, the rank of `DET` is: 9 in number of lemmas, 10 in number of types and 10 in number of tokens.
+Out of 13 observed tags, the rank of `DET` is: 10 in number of lemmas, 10 in number of types and 10 in number of tokens.
 
 The 10 most frequent `DET` lemmas: _, 있는가, 총
 
 The 10 most frequent `DET` types:  그, 이, 두, 한, 다른, 여러, 모든, 만, 몇, 세
 
-The 10 most frequent ambiguous lemmas: _ (<tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 4295, <tt><a href="ko_pud-pos-VERB.html">VERB</a></tt> 1439, <tt><a href="ko_pud-pos-PROPN.html">PROPN</a></tt> 1030, <tt><a href="ko_pud-pos-AUX.html">AUX</a></tt> 663, <tt><a href="ko_pud-pos-ADJ.html">ADJ</a></tt> 596, <tt><a href="ko_pud-pos-ADV.html">ADV</a></tt> 516, <tt><a href="ko_pud-pos-DET.html">DET</a></tt> 462, <tt><a href="ko_pud-pos-CCONJ.html">CCONJ</a></tt> 125, <tt><a href="ko_pud-pos-X.html">X</a></tt> 47, <tt><a href="ko_pud-pos-NUM.html">NUM</a></tt> 27, <tt><a href="ko_pud-pos-PRON.html">PRON</a></tt> 24, <tt><a href="ko_pud-pos-PUNCT.html">PUNCT</a></tt> 1)
+The 10 most frequent ambiguous lemmas: _ (<tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 4295, <tt><a href="ko_pud-pos-VERB.html">VERB</a></tt> 1439, <tt><a href="ko_pud-pos-PROPN.html">PROPN</a></tt> 1030, <tt><a href="ko_pud-pos-ADJ.html">ADJ</a></tt> 596, <tt><a href="ko_pud-pos-ADV.html">ADV</a></tt> 516, <tt><a href="ko_pud-pos-DET.html">DET</a></tt> 462, <tt><a href="ko_pud-pos-CCONJ.html">CCONJ</a></tt> 125, <tt><a href="ko_pud-pos-AUX.html">AUX</a></tt> 104, <tt><a href="ko_pud-pos-X.html">X</a></tt> 47, <tt><a href="ko_pud-pos-NUM.html">NUM</a></tt> 27, <tt><a href="ko_pud-pos-PRON.html">PRON</a></tt> 24, <tt><a href="ko_pud-pos-PUNCT.html">PUNCT</a></tt> 1)
 
 The 10 most frequent ambiguous types:  그 (<tt><a href="ko_pud-pos-DET.html">DET</a></tt> 127, <tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 4), 이 (<tt><a href="ko_pud-pos-DET.html">DET</a></tt> 52, <tt><a href="ko_pud-pos-PART.html">PART</a></tt> 16, <tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="ko_pud-pos-PRON.html">PRON</a></tt> 1, <tt><a href="ko_pud-pos-PROPN.html">PROPN</a></tt> 1), 한 (<tt><a href="ko_pud-pos-DET.html">DET</a></tt> 35, <tt><a href="ko_pud-pos-VERB.html">VERB</a></tt> 10, <tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="ko_pud-pos-ADV.html">ADV</a></tt> 1, <tt><a href="ko_pud-pos-AUX.html">AUX</a></tt> 1, <tt><a href="ko_pud-pos-X.html">X</a></tt> 1), 다른 (<tt><a href="ko_pud-pos-DET.html">DET</a></tt> 20, <tt><a href="ko_pud-pos-ADJ.html">ADJ</a></tt> 6), 만 (<tt><a href="ko_pud-pos-DET.html">DET</a></tt> 12, <tt><a href="ko_pud-pos-PART.html">PART</a></tt> 5, <tt><a href="ko_pud-pos-NUM.html">NUM</a></tt> 1), 세 (<tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 12, <tt><a href="ko_pud-pos-DET.html">DET</a></tt> 11), 전 (<tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 11, <tt><a href="ko_pud-pos-DET.html">DET</a></tt> 9), 억 (<tt><a href="ko_pud-pos-DET.html">DET</a></tt> 6, <tt><a href="ko_pud-pos-NUM.html">NUM</a></tt> 1), 천 (<tt><a href="ko_pud-pos-DET.html">DET</a></tt> 3, <tt><a href="ko_pud-pos-NUM.html">NUM</a></tt> 1), 수 (<tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 121, <tt><a href="ko_pud-pos-DET.html">DET</a></tt> 2)
 
@@ -59,7 +59,7 @@ The 10 most frequent ambiguous types:  그 (<tt><a href="ko_pud-pos-DET.html">DE
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 18.000000 (the average of all parts of speech is 3.187571).
+The form / lemma ratio of `DET` is 18.000000 (the average of all parts of speech is 3.181543).
 
 The 1st highest number of forms (52) was observed with the lemma “_”: 각, 구, 그, 그런, 네, 다른, 다섯, 단, 두, 만, 몇, 몇몇, 모든, 새, 서른, 성, 세, 수, 수백만, 수백억, 수십, 수십억, 수천, 십, 십억, 아닌가, 아무, 약, 어느, 어떠한가, 어떤, 어떤가, 억, 여덟, 여러, 여섯, 열, 옛, 오랜, 온, 이, 이런, 일곱, 있겠는가, 있는가, 전, 천, 천만, 첫, 총, 한, 현.
 

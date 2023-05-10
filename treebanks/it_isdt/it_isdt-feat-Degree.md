@@ -37,5 +37,5 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 `ADV` tokens may have the following values of `Degree`:
 
 * `Abs` (19; 100% of non-empty `Degree`): <em>benissimo, moltissimo, pochissimo, fortissimo, lontanissimo, malissimo</em>
-* `EMPTY` (11392): <em>non, più, anche, dove, come, quando, solo, prima, sempre, molto</em>
+* `EMPTY` (11388): <em>non, più, anche, dove, come, quando, solo, prima, sempre, molto</em>
 

@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  <em>yi</em> (<tt><a href="wo_wtb-pos-DET.
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 2.666667 (the average of all parts of speech is 1.250208).
+The form / lemma ratio of `DET` is 2.666667 (the average of all parts of speech is 1.250260).
 
 The 1st highest number of forms (19) was observed with the lemma “bi”: <em>ba, bi, ga, gi, ja, ji, ki, la, li, ma, mi, sa, si, wa, wi, ya, yi, ña, ñi</em>.
 

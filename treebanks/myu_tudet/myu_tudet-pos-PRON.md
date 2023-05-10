@@ -50,7 +50,7 @@ Examples: <em>ip, Abu, ade, soat, õn, Ite, Pũg̃pũg̃, ixem, ẽn</em>
 
 ## Relations
 
-`PRON` nodes are attached to their parents using 6 different relations: <tt><a href="myu_tudet-dep-nsubj.html">nsubj</a></tt> (30; 55% instances), <tt><a href="myu_tudet-dep-obl.html">obl</a></tt> (11; 20% instances), <tt><a href="myu_tudet-dep-nmod.html">nmod</a></tt> (6; 11% instances), <tt><a href="myu_tudet-dep-dep.html">dep</a></tt> (4; 7% instances), <tt><a href="myu_tudet-dep-obj.html">obj</a></tt> (3; 5% instances), <tt><a href="myu_tudet-dep-det.html">det</a></tt> (1; 2% instances)
+`PRON` nodes are attached to their parents using 6 different relations: <tt><a href="myu_tudet-dep-nsubj.html">nsubj</a></tt> (29; 53% instances), <tt><a href="myu_tudet-dep-obl.html">obl</a></tt> (11; 20% instances), <tt><a href="myu_tudet-dep-nmod.html">nmod</a></tt> (6; 11% instances), <tt><a href="myu_tudet-dep-dep.html">dep</a></tt> (5; 9% instances), <tt><a href="myu_tudet-dep-obj.html">obj</a></tt> (3; 5% instances), <tt><a href="myu_tudet-dep-det.html">det</a></tt> (1; 2% instances)
 
 Parents of `PRON` nodes belong to 3 different parts of speech: <tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt> (42; 76% instances), <tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt> (12; 22% instances), <tt><a href="myu_tudet-pos-PART.html">PART</a></tt> (1; 2% instances)
 

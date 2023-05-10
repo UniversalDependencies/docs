@@ -8,97 +8,85 @@ udver: '2'
 
 This relation is universal.
 
-10 nodes (0%) are attached to their parents as `orphan`.
+50 nodes (0%) are attached to their parents as `orphan`.
 
-7 instances of `orphan` (70%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.6.
+30 instances of `orphan` (60%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.24.
 
-The following 2 pairs of parts of speech are connected with `orphan`: <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (9; 90% instances), <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (1; 10% instances).
+The following 13 pairs of parts of speech are connected with `orphan`: <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (16; 32% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (12; 24% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (6; 12% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (5; 10% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> (2; 4% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (2; 4% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
-# visual-style 32	bgColor:blue
-# visual-style 32	fgColor:white
-# visual-style 38	bgColor:blue
-# visual-style 38	fgColor:white
-# visual-style 38 32 orphan	color:blue
-1	А	_	CCONJ	CC	_	17	cc	_	_
-2	гдѣ	_	SCONJ	IN	_	6	mark	_	_
-3	бы	_	AUX	RP	Mood=Cnd	6	aux	_	_
-4	се	_	PRON	PRP	Clitic=Yes|PronType=Prs|Reflex=Yes	6	expl	_	_
-5	то	_	PRON	DT	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	nsubj	_	_
-6	трафило	_	VERB	VBC	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	17	advcl	_	_
-7	в	_	ADP	IN	_	8	case	_	_
-8	небытности	_	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	obl	_	_
-9	нашой	_	DET	DT	Case=Loc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	8	det	_	_
-10	в	_	ADP	IN	_	12	case	_	_
-11	томъ	_	DET	DT	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	12	amod	_	_
-12	паньстве	_	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	8	nmod	_	SpaceAfter=No
-13	,	_	PUNCT	PUNCT	_	6	punct	_	_
-14	тогды	_	ADV	RB	Degree=Pos	17	advmod	_	_
-15	о	_	ADP	IN	_	16	case	_	_
-16	томъ	_	PRON	DT	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	19	obl	_	_
-17	мають	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-18	дати	_	VERB	VB	Aspect=Perf|VerbForm=Inf|Voice=Act	17	xcomp	_	_
-19	ведати	_	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Act	18	xcomp	_	_
-20	воеводе	_	NOUN	NN	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	18	iobj	_	SpaceAfter=No
-21	,	_	PUNCT	PUNCT	_	27	punct	_	_
-22	а	_	CCONJ	CC	_	27	cc	_	_
-23	в	_	ADP	IN	_	24	case	_	_
-24	земли	_	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	27	orphan	_	_
-25	Жомоитъской	_	ADJ	JJL	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	24	amod	_	_
-26	-	_	PUNCT	PUNCT	_	24	punct	_	_
-27	старосте	_	NOUN	NN	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	17	conj	_	_
-28	жомоитъскому	_	ADJ	JJL	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	27	amod	_	SpaceAfter=No
-29	,	_	PUNCT	PUNCT	_	38	punct	_	_
-30	а	_	CCONJ	CC	_	38	cc	_	_
-31	в	_	ADP	IN	_	32	case	_	_
-32	небытности	_	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	38	orphan	_	_
-33	воеводы	_	NOUN	NN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	32	nmod	_	_
-34	або	_	CCONJ	CC	_	35	cc	_	_
-35	старосты	_	NOUN	NN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	33	conj	_	SpaceAfter=No
-36	,	_	PUNCT	PUNCT	_	32	punct	_	_
-37	ино	_	SCONJ	IN	_	38	mark	_	_
-38	кашталяномъ	_	NOUN	NN	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	17	conj	_	_
-39	оное	_	DET	DT	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	40	det	_	_
-40	земли	_	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	38	nmod	_	SpaceAfter=No
-41	.	_	PUNCT	PUNCT	_	17	punct	_	SpacesAfter=\r\n
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 2 orphan	color:blue
+1	Ѡт	отъ	ADP	_	_	2	case	_	wf="Ѡт"
+2	наместька	намѣстокъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	5	orphan	_	wf="наместька"
+3	полоцког(о)	полоцкий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	wf="полоцкого"
+4	Федора	Федоръ	PROPN	_	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	2	nmod	_	wf="Федора"
+5	приѧтелемъ	приятель	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	0	root	_	wf="приѧтелемъ"
+6	нашим	нашъ	DET	_	Case=Dat|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	5	det	_	wf="нашим"
+7	ратъманом	ратманъ	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	5	appos	_	wf="ратъманом"
+8	ризькимъ	рижский	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	5	amod	_	wf="ризькимъ"|SpaceAfter=No
+9	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 19	bgColor:blue
-# visual-style 19	fgColor:white
-# visual-style 19 17 orphan	color:blue
-1	А	_	CCONJ	CC	_	13	cc	_	_
-2	якъ	_	SCONJ	IN	_	6	mark	_	_
-3	на	_	ADP	IN	_	4	case	_	_
-4	томъ	_	PRON	DT	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	6	obl	_	_
-5	справедливе	_	ADV	NN	Degree=Pos	6	advmod	_	_
-6	присегаю	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	13	advcl	_	_
-7	-	_	PUNCT	PUNCT	_	6	punct	_	_
-8	такъ	_	ADV	RB	Degree=Pos	13	advmod	_	_
-9	ми	_	PRON	PRP	Case=Dat|Clitic=Yes|Number=Sing|Person=1|PronType=Prs	13	iobj	_	SpaceAfter=No
-10	,	_	PUNCT	PUNCT	_	11	punct	_	_
-11	боже	_	NOUN	VBC	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	13	vocative	_	SpaceAfter=No
-12	,	_	PUNCT	PUNCT	_	11	punct	_	_
-13	поможи	_	VERB	VBC	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
-14	,	_	PUNCT	PUNCT	_	24	punct	_	_
-15	а	_	CCONJ	CC	_	24	cc	_	_
-16	естли	_	SCONJ	IN	_	19	mark	_	_
-17	бы	_	AUX	RP	Mood=Cnd	19	orphan	_	_
-18	не	_	PART	NEG	Polarity=Neg	19	advmod	_	_
-19	справедливе	_	ADV	NN	Degree=Pos	24	advcl	_	_
-20	-	_	PUNCT	PUNCT	_	19	punct	_	_
-21	боже	_	NOUN	NN	Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing	24	vocative	_	SpaceAfter=No
-22	,	_	PUNCT	PUNCT	_	21	punct	_	_
-23	мя	_	PRON	PRP	Case=Acc|Clitic=Yes|Number=Sing|Person=1|PronType=Prs	24	obj	_	_
-24	убий	_	VERB	VBC	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	13	conj	_	SpaceAfter=No
-25	\"	_	PUNCT	PUNCT	_	13	punct	_	SpaceAfter=No
-26	.	_	PUNCT	PUNCT	_	13	punct	_	SpacesAfter=\r\n
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 4 orphan	color:blue
+1	Так	такъ	ADV	_	Degree=Pos	2	advmod	_	wf="Так"
+2	полочаном	полочанинъ	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	0	root	_	wf="полочаном"
+3	оу	въ	ADP	_	_	4	case	_	wf="оу"
+4	Ризѣ	Рига	PROPN	_	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	2	orphan	_	wf="Ризѣ"|SpaceAfter=No
+5	,	,	PUNCT	_	_	14	punct	_	_
+6	а	а	CCONJ	_	_	14	cc	_	wf="а"
+7	рижаном	рижанинъ	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	14	iobj	_	wf="рижаном"
+8	оу	въ	ADP	_	_	9	case	_	wf="оу"
+9	Пол(о)цкꙋ	Полоцкъ	PROPN	_	Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	14	obl	_	wf="Полоцкꙋ"
+10	никакое	никакой	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Neg	12	det	_	wf="никакое"
+11	малое	малый	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	wf="малое"
+12	торговли	торговля	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	14	obj	_	wf="торговли"
+13	нѣ	не	PART	_	Polarity=Neg	14	advmod	_	wf="нѣ"
+14	торговат(и)	торговати	VERB	_	VerbForm=Inf|Voice=Act	2	conj	_	wf="торговати"|SpaceAfter=No
+15	,	,	PUNCT	_	_	18	punct	_	_
+16	што	что	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	18	obj	_	wf="што"
+17	розницѣю	розница	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	18	iobj	_	wf="розницѣю"
+18	зовꙋт(ь)	звати	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	acl:relcl	_	wf="зовꙋть"|SpaceAfter=No
+19	.	.	PUNCT	_	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 13 orphan	color:blue
+1	А	а	CCONJ	_	_	4	cc	_	wf="А"
+2	то	то	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	4	obj	_	wf="то"
+3	есва	быти	AUX	_	Mood=Ind|Number=Dual|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	wf="есва"
+4	оучинила	учинити	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	wf="оучинила"
+5	собѣ	себя	PRON	_	Case=Dat|PronType=Prs|Reflex=Yes	4	iobj	_	wf="собѣ"
+6	на	на	ADP	_	_	7	case	_	wf="на"
+7	памѧть	память	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	obl	_	wf="памѧть"|SpaceAfter=No
+8	,	,	PUNCT	_	_	11	punct	_	_
+9	а	а	CCONJ	_	_	11	cc	_	wf="а"
+10	с(вѧ)т(о)му	святой	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	wf="свѧтому"
+11	Ивану	Иванъ	PROPN	_	Case=Dat|Gender=Masc|NameType=Giv|Number=Sing	4	conj	_	wf="Ивану"
+12	в	въ	ADP	_	_	13	case	_	wf="в"
+13	ч(е)сть	честь	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	11	orphan	_	wf="честь"
+14	и	и	CCONJ	_	_	16	cc	_	wf="и"
+15	оу	въ	ADP	_	_	16	case	_	wf="оу"
+16	славу	слава	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	13	conj	_	wf="славу"|SpaceAfter=No
+17	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
 

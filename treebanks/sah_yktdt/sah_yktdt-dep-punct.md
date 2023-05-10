@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-144 nodes (10%) are attached to their parents as `punct`.
+149 nodes (10%) are attached to their parents as `punct`.
 
-135 instances of `punct` (94%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.5.
+139 instances of `punct` (93%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.49664429530201.
 
-The following 7 pairs of parts of speech are connected with `punct`: <tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sah_yktdt-pos-PUNCT.html">PUNCT</a></tt> (93; 65% instances), <tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sah_yktdt-pos-PUNCT.html">PUNCT</a></tt> (37; 26% instances), <tt><a href="sah_yktdt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="sah_yktdt-pos-PUNCT.html">PUNCT</a></tt> (5; 3% instances), <tt><a href="sah_yktdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sah_yktdt-pos-PUNCT.html">PUNCT</a></tt> (5; 3% instances), <tt><a href="sah_yktdt-pos-PRON.html">PRON</a></tt>-<tt><a href="sah_yktdt-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances), <tt><a href="sah_yktdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sah_yktdt-pos-PUNCT.html">PUNCT</a></tt> (1; 1% instances), <tt><a href="sah_yktdt-pos-ADV.html">ADV</a></tt>-<tt><a href="sah_yktdt-pos-PUNCT.html">PUNCT</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `punct`: <tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sah_yktdt-pos-PUNCT.html">PUNCT</a></tt> (97; 65% instances), <tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sah_yktdt-pos-PUNCT.html">PUNCT</a></tt> (38; 26% instances), <tt><a href="sah_yktdt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="sah_yktdt-pos-PUNCT.html">PUNCT</a></tt> (5; 3% instances), <tt><a href="sah_yktdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sah_yktdt-pos-PUNCT.html">PUNCT</a></tt> (5; 3% instances), <tt><a href="sah_yktdt-pos-PRON.html">PRON</a></tt>-<tt><a href="sah_yktdt-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances), <tt><a href="sah_yktdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sah_yktdt-pos-PUNCT.html">PUNCT</a></tt> (1; 1% instances), <tt><a href="sah_yktdt-pos-ADV.html">ADV</a></tt>-<tt><a href="sah_yktdt-pos-PUNCT.html">PUNCT</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

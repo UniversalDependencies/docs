@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3 nodes (0%) are attached to their parents as `csubj`.
+2 nodes (0%) are attached to their parents as `csubj`.
 
-2 instances of `csubj` (67%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.66666666666667.
+1 instances of `csubj` (50%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.
 
-The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt>-<tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt> (1; 33% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt> (1; 33% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (1; 33% instances).
+The following 2 pairs of parts of speech are connected with `csubj`: <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt>-<tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt> (1; 50% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (1; 50% instances).
 
 
 ~~~ conllu
@@ -91,49 +91,6 @@ The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href
 67	geniet	geniet	VERB	VTHOG	Subcat=Tran|Tense=Pres|VerbForm=Fin,Inf	60	obl	_	_
 68	nie	nie	PART	UPO	PartType=Neg	67	mark	_	SpaceAfter=No
 69	.	.	PUNCT	ZE	_	67	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 15 6 csubj	color:blue
-1	Byvoorbeeld	byvoorbeeld	ADV	BS	Degree=Pos	15	advmod	_	SpaceAfter=No
-2	,	,	PUNCT	ZM	_	1	punct	_	_
-3	toegang	toegang	NOUN	NA	Number=Sing	15	nsubj	_	_
-4	tot	tot	ADP	SVS	AdpType=Prep	5	case	_	_
-5	drinkwater	drinkwater	NOUN	NM	Number=Sing	3	nmod	_	_
-6	het	het	AUX	VUOT	Tense=Pres|VerbForm=Fin,Inf|VerbType=Aux	15	csubj	_	_
-7	van	van	ADP	SVS	AdpType=Prep	8	case	_	_
-8	62%	62%	SYM	RS	_	15	obl	_	_
-9	in	in	ADP	SVS	AdpType=Prep	10	case	_	_
-10	1996	1996	SYM	RS	_	8	obl	_	_
-11	tot	tot	ADP	SVS	AdpType=Prep	12	case	_	_
-12	88%	88%	SYM	RS	_	15	obl	_	_
-13	in	in	ADP	SVS	AdpType=Prep	14	case	_	_
-14	2008	2008	SYM	RS	_	12	obl	_	_
-15	verbeter	verbeter	VERB	VTHOO	Subcat=Intr|Tense=Pres|VerbForm=Fin,Inf	0	root	_	SpaceAfter=No
-16	;	;	PUNCT	ZM	_	15	punct	_	_
-17	asook	asook	CCONJ	KN	_	15	amod	_	_
-18	tot	tot	ADP	SVS	AdpType=Prep	19	case	_	_
-19	elektrisiteit	elektrisiteit	NOUN	NM	Number=Sing	15	obl	_	_
-20	(	(	PUNCT	ZPL	_	21	punct	_	SpaceAfter=No
-21	58%	58%	SYM	RS	_	19	amod	_	_
-22	tot	tot	ADP	SVS	AdpType=Prep	23	case	_	_
-23	72%	72%	SYM	RS	_	21	obl	_	SpaceAfter=No
-24	)	)	PUNCT	ZPR	_	23	punct	_	SpaceAfter=No
-25	;	;	PUNCT	ZM	_	19	punct	_	_
-26	en	en	CCONJ	KN	_	19	cc	_	_
-27	sanitasie	sanitasie	NOUN	NA	Number=Sing	19	conj	_	_
-28	(	(	PUNCT	ZPL	_	29	punct	_	SpaceAfter=No
-29	52%	52%	SYM	RS	_	27	amod	_	_
-30	tot	tot	ADP	SVS	AdpType=Prep	31	case	_	_
-31	73%	73%	SYM	RS	_	29	obl	_	SpaceAfter=No
-32	)	)	PUNCT	ZPR	_	31	punct	_	SpaceAfter=No
-33	.	.	PUNCT	ZE	_	15	punct	_	_
 
 ~~~
 

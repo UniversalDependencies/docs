@@ -78,6 +78,6 @@ The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="qpm_philotis-dep-dep.html">dep</a></tt>]--> VERB</tt> (30; 64%),
 <tt>VERB --[<tt><a href="qpm_philotis-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (24; 71%),
 <tt>VERB --[<tt><a href="qpm_philotis-dep-iobj.html">iobj</a></tt>]--> VERB</tt> (19; 68%),
-<tt>VERB --[<tt><a href="qpm_philotis-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (14; 70%),
+<tt>VERB --[<tt><a href="qpm_philotis-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (13; 72%),
 <tt>VERB --[<tt><a href="qpm_philotis-dep-obl.html">obl</a></tt>]--> VERB</tt> (13; 87%).
 

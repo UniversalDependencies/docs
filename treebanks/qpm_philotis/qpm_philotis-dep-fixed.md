@@ -32,7 +32,7 @@ The following 4 pairs of parts of speech are connected with `fixed`: <tt><a href
 8	pribrál	príberom	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	5	ccomp	_	_
 9	sí	so	PRON	_	Case=Gen|PronType=Prs|Reflex=Yes	8	expl	_	_
 10	je	som	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux	_	_
-11	kámenkane	kámen	NOUN	_	Case=Acc|Definite=Def|DegreeModQpm=Dim|Deixis=Remt|Gender=Masc|Number=Sing	8	obj	_	SpaceAfter=No
+11	kámenkane	kámen	NOUN	_	Case=Acc|Definite=Def|Degree=Dim|Deixis=Remt|Gender=Masc|Number=Sing	8	obj	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~

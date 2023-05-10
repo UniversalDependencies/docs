@@ -66,7 +66,7 @@ udver: '2'
   <tr>
     <td width="11%" valign="top">
       <ul>
-      <li>This corpus contains 14167 sentences, 278429 tokens and 298343 syntactic words.</li>
+      <li>This corpus contains 14167 sentences, 278423 tokens and 298337 syntactic words.</li>
       </ul>
     </td>
     <td width="11%" valign="top">
@@ -91,17 +91,17 @@ udver: '2'
     </td>
     <td width="11%" valign="top">
       <ul>
-      <li>This corpus contains 6712 sentences, 119346 tokens and 124527 syntactic words.</li>
+      <li>This corpus contains 6712 sentences, 119334 tokens and 124515 syntactic words.</li>
       </ul>
     </td>
     <td width="11%" valign="top">
       <ul>
-      <li>This corpus contains 1424 sentences, 28387 tokens and 29605 syntactic words.</li>
+      <li>This corpus contains 1424 sentences, 28384 tokens and 29602 syntactic words.</li>
       </ul>
     </td>
     <td width="11%" valign="top">
       <ul>
-      <li>This corpus contains 10087 sentences, 259108 tokens and 279628 syntactic words.</li>
+      <li>This corpus contains 10087 sentences, 259625 tokens and 280145 syntactic words.</li>
       </ul>
     </td>
     <td width="11%" valign="top">
@@ -113,7 +113,7 @@ udver: '2'
   <tr>
     <td width="11%" valign="top">
       <ul>
-      <li>This corpus contains 39876 tokens (14%) that are not followed by a space.</li>
+      <li>This corpus contains 39870 tokens (14%) that are not followed by a space.</li>
       </ul>
     </td>
     <td width="11%" valign="top">
@@ -138,17 +138,17 @@ udver: '2'
     </td>
     <td width="11%" valign="top">
       <ul>
-      <li>This corpus contains 13284 tokens (11%) that are not followed by a space.</li>
+      <li>This corpus contains 13272 tokens (11%) that are not followed by a space.</li>
       </ul>
     </td>
     <td width="11%" valign="top">
       <ul>
-      <li>This corpus contains 4474 tokens (16%) that are not followed by a space.</li>
+      <li>This corpus contains 4471 tokens (16%) that are not followed by a space.</li>
       </ul>
     </td>
     <td width="11%" valign="top">
       <ul>
-      <li>This corpus contains 36617 tokens (14%) that are not followed by a space.</li>
+      <li>This corpus contains 37134 tokens (14%) that are not followed by a space.</li>
       </ul>
     </td>
     <td width="11%" valign="top">
@@ -207,7 +207,7 @@ udver: '2'
   <tr>
     <td width="11%" valign="top">
       <ul>
-      <li>This corpus contains 209 types of words that contain both letters and punctuation. Examples: l', d', un', l’, art., c', quest', cos', d’, po', v., quest’, n., e', s', dov', 's, l., c’, un’, anch', att., quell', check-up, S., Sant', e-mail, tutt', ss., R.E.M., cinquant', Cost., F., artt., ecc., n', trent', com', dell', distr., s.p.a., sett., vent', Civ., Cod., H., Proc., T., W., al.</li>
+      <li>This corpus contains 209 types of words that contain both letters and punctuation. Examples: l', d', un', l’, art., c', quest', cos', d’, po', v., quest’, n., e', s', dov', 's, l., c’, un’, anch', att., quell', check-up, S., Sant', e-mail, tutt', ss., R.E.M., cinquant', es., Cost., F., artt., ecc., n', trent', com', dell', distr., s.p.a., sett., vent', Civ., Cod., H., Proc., T., W.</li>
       </ul>
     </td>
     <td width="11%" valign="top">
@@ -232,17 +232,17 @@ udver: '2'
     </td>
     <td width="11%" valign="top">
       <ul>
-      <li>This corpus contains 4115 types of words that contain both letters and punctuation. Examples: @user, l', #grillo, #monti, @user1, @user2, #governo, e', c', #serviziopubblico, @user3, #piazzapulita, #m5s, d', un', #manovra, #berlusconi, #mario, #politica, @user4, #lega, #ministri, #pd, #italia, :D, #Napolitano, po', #oramonti, #sapevatelo, #bersani, #rimontiamo, #pdl, @user5, B., #fullmonti, #bossi, c:, #rt, #crisi, #m5stour, #news, #roma, #fatepresto, #liberalizzazioni, #ballarò, #movimento5stelle, #antipolitica, #cinemaInChiesa, #opencamera, #postofisso</li>
+      <li>This corpus contains 4118 types of words that contain both letters and punctuation. Examples: @user, l', #grillo, #monti, @user1, @user2, #governo, e', c', #serviziopubblico, @user3, #piazzapulita, #m5s, d', un', #manovra, #berlusconi, #mario, #politica, @user4, #lega, #ministri, #pd, #italia, :D, #Napolitano, po', #oramonti, #sapevatelo, #bersani, #rimontiamo, #pdl, @user5, B., #fullmonti, #bossi, c:, #rt, #crisi, #m5stour, #news, #roma, #fatepresto, #liberalizzazioni, #ballarò, #movimento5stelle, #antipolitica, #cinemaInChiesa, #opencamera, #postofisso</li>
       </ul>
     </td>
     <td width="11%" valign="top">
       <ul>
-      <li>This corpus contains 675 types of words that contain both letters and punctuation. Examples: @user, #labuonascuola, l', #monti, @user1, @user2, c', #renzi, e', #scuola, @user3, http://t.co/oDPUtx2DvV, #Grillo, #governo, http://t.co/oDPUtxkMK3, l’, un', #midaperruolo, d', po', #tfaordinario, https://t.co/oDPUtx2DvV, #manovra, @user4, cit., http://t.co/oDPUtxTqU7, #labuonascuolauncazzo, #m5s, #mario, #passodopopasso, #Quota96Scuola, #giannini, #jobsact, #rimontiamo, #berlusconi, #fullmonti, #ministri, #sapevatelo, #riformascuola, @user5, cos', http://t.co/8REeGqIhCK, quest', #elezioni, #fatepresto, #lascuolaingiusta, #liberalizzazioni, #oramonti, #pd, #postofisso</li>
+      <li>This corpus contains 677 types of words that contain both letters and punctuation. Examples: @user, #labuonascuola, l', #monti, @user1, @user2, c', #renzi, e', #scuola, @user3, http://t.co/oDPUtx2DvV, #Grillo, #governo, http://t.co/oDPUtxkMK3, l’, un', #midaperruolo, d', po', #tfaordinario, https://t.co/oDPUtx2DvV, #manovra, @user4, cit., http://t.co/oDPUtxTqU7, #labuonascuolauncazzo, #m5s, #mario, #passodopopasso, #Quota96Scuola, #giannini, #jobsact, #rimontiamo, #berlusconi, #fullmonti, #ministri, #sapevatelo, #riformascuola, @user5, cos', http://t.co/8REeGqIhCK, quest', #elezioni, #fatepresto, #lascuolaingiusta, #liberalizzazioni, #oramonti, #pd, #postofisso</li>
       </ul>
     </td>
     <td width="11%" valign="top">
       <ul>
-      <li>This corpus contains 93 types of words that contain both letters and punctuation. Examples: l', d', n., un', art., c', quest', s', all', vent', L., anch', quell', trent', tutt', com', /ter, c-c, n', cos', dell', g-1, quarant', 14/a, baby-sitter, centro-sinistra, dev', g/1, joint-venture, po', senz', 1990-EQU-100, Banfield-tripcovich, Bèghin-say, Lehnigk-emden, Sant', bloc-notes, h-1, mezz', nient', null', qual', sessant', 's, /bis, 108/a, 12-mo, 38-ma, 5/h9/051, 500-EQU-250</li>
+      <li>This corpus contains 93 types of words that contain both letters and punctuation. Examples: l', d', n., un', art., c', quest', s', all', vent', L., anch', quell', trent', tutt', com', /ter, c-c, n', cos', dell', g-1, quarant', 14/a, baby-sitter, centro-sinistra, dev', g/1, joint-venture, po', senz', 1990-EQU-100, Banfield-Tripcovich, Bèghin-Say, Lehnigk-Emden, Sant', bloc-notes, h-1, mezz', nient', null', qual', sessant', 's, /bis, 108/a, 12-mo, 38-ma, 5/h9/051, 500-EQU-250</li>
       </ul>
     </td>
     <td width="11%" valign="top">
@@ -476,7 +476,7 @@ udver: '2'
     </td>
     <td width="11%" valign="top">
       <ul>
-      <li>This corpus contains 100 lemmas tagged as pronouns (PRON): Carlo, adattare, alcuno, altri, altro, ambedue, ce, certo, ch, che, chi, chiunque, ci, ciascuno, ciò, coloro, come, cosa, costoro, costui, cui, donde, dove, egli, entrambi, essa, esse, essi, esso, gli, granché, il, io, la, laddove, le, lei, li, lo, loro, lui, me, medesimo, meglio, meno, mi, mio, molto, ne, nessuno, niente, noi, nostro, nulla, ogni, ognuna, ognuno, ove, parecchio, parte, perché, più, poco, proprio, pò, qual, qualche, qualcosa, qualcuno, quale, qualunque, quando, quanto, quello, questo, s, se, si, stessi, stesso, suo, sé, tale, tanto, te, ti, troppo, tu, tuo, tutta, tutto, ultima, ultimi, ultimo, un, una, unico, uno, vi, voi</li>
+      <li>This corpus contains 99 lemmas tagged as pronouns (PRON): Carlo, adattare, alcuno, altri, altro, ambedue, ce, certo, ch, che, chi, chiunque, ci, ciascuno, ciò, coloro, come, cosa, costoro, costui, cui, donde, dove, egli, entrambi, essa, esse, essi, esso, gli, granché, il, io, la, laddove, le, lei, li, lo, loro, lui, me, medesimo, meglio, meno, mi, mio, molto, ne, nessuno, niente, noi, nostro, nulla, ogni, ognuna, ognuno, ove, parecchio, parte, perché, più, poco, proprio, pò, qual, qualche, qualcosa, qualcuno, quale, qualunque, quando, quanto, quello, questo, s, se, si, stessi, stesso, suo, sé, tale, tanto, te, ti, troppo, tu, tuo, tutta, tutto, ultima, ultimi, ultimo, una, unico, uno, vi, voi</li>
       </ul>
     </td>
     <td width="11%" valign="top">
@@ -523,7 +523,7 @@ udver: '2'
     </td>
     <td width="11%" valign="top">
       <ul>
-      <li>This corpus contains 51 lemmas tagged as determiners (DET): alcuno, altrettanto, altro, ambedue, certo, che, ciascuno, codesto, cui, del, delle, determinato, diverso, entrambi, il, l, la, loro, mio, molto, nessuna, nessuno, niente, nostro, nulla, ogni, parecchio, più, poco, proprio, qualche, quale, qualsiasi, qualunque, quanta, quanto, quello, questo, sua, suo, tale, taluno, tanto, the, troppo, tuo, tutta, tutto, un, uno, vostro</li>
+      <li>This corpus contains 50 lemmas tagged as determiners (DET): alcuno, altrettanto, altro, ambedue, certo, che, ciascuno, codesto, cui, del, delle, determinato, diverso, entrambi, il, l, la, loro, mio, molto, nessuna, nessuno, niente, nostro, nulla, ogni, parecchio, più, poco, proprio, qualche, quale, qualsiasi, qualunque, quanta, quanto, quello, questo, sua, suo, tale, taluno, tanto, the, troppo, tuo, tutta, tutto, uno, vostro</li>
       </ul>
     </td>
     <td width="11%" valign="top">
@@ -570,7 +570,7 @@ udver: '2'
     </td>
     <td width="11%" valign="top">
       <ul>
-      <li>Out of the above, 37 lemmas occurred sometimes as PRON and sometimes as DET: alcuno, altro, ambedue, certo, che, ciascuno, cui, entrambi, il, la, loro, mio, molto, nessuno, niente, nostro, nulla, ogni, parecchio, più, poco, proprio, qualche, quale, qualunque, quanto, quello, questo, suo, tale, tanto, troppo, tuo, tutta, tutto, un, uno</li>
+      <li>Out of the above, 36 lemmas occurred sometimes as PRON and sometimes as DET: alcuno, altro, ambedue, certo, che, ciascuno, cui, entrambi, il, la, loro, mio, molto, nessuno, niente, nostro, nulla, ogni, parecchio, più, poco, proprio, qualche, quale, qualunque, quanto, quello, questo, suo, tale, tanto, troppo, tuo, tutta, tutto, uno</li>
       </ul>
     </td>
     <td width="11%" valign="top">
@@ -4759,7 +4759,7 @@ udver: '2'
           <ul>
             <li>ADJ: prima</li>
             <li>NOUN: 6</li>
-            <li>NUM: due, tre, cento, 15, 1, 1973, 2, quattro, 30, 6</li>
+            <li>NUM: due, tre, cento, 15, 1, 5, 1973, 2, 20, 30</li>
           </ul>
         </li>
       </ul>
@@ -4886,7 +4886,7 @@ udver: '2'
       <ul>
         <li>Range
           <ul>
-            <li>NUM: 1975/1983, 1984/85, 1981/83, 24/25, 0,7-0,8%, 1964/73, 1964/74, 1974/83, 1975/84, 1983/84</li>
+            <li>NUM: 1975/1983, 1984/85, 1981/83, 24/25, 0,7-0,8, 1964/73, 1964/74, 1974/83, 1975/84, 1983/84</li>
           </ul>
         </li>
       </ul>
@@ -6099,8 +6099,8 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB-Fin--NOUN (3773)</li>
-            <li>VERB-Fin--PRON (1880)</li>
+            <li>VERB-Fin--NOUN (3772)</li>
+            <li>VERB-Fin--PRON (1881)</li>
             <li>VERB-Ger--NOUN (46)</li>
             <li>VERB-Ger--PRON (21)</li>
             <li>VERB-Inf--NOUN (611)</li>
@@ -6241,14 +6241,14 @@ udver: '2'
           <ul>
             <li>VERB--NOUN (4)</li>
             <li>VERB--PRON (5)</li>
-            <li>VERB-Fin--NOUN (2811)</li>
-            <li>VERB-Fin--PRON (1670)</li>
+            <li>VERB-Fin--NOUN (2810)</li>
+            <li>VERB-Fin--PRON (1671)</li>
             <li>VERB-Ger--NOUN (42)</li>
-            <li>VERB-Ger--PRON (31)</li>
+            <li>VERB-Ger--PRON (32)</li>
             <li>VERB-Inf--NOUN (407)</li>
             <li>VERB-Inf--PRON (179)</li>
-            <li>VERB-Part--NOUN (1237)</li>
-            <li>VERB-Part--PRON (535)</li>
+            <li>VERB-Part--NOUN (1238)</li>
+            <li>VERB-Part--PRON (536)</li>
           </ul>
         </li>
       </ul>
@@ -6279,13 +6279,13 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB-Fin--NOUN (3542)</li>
-            <li>VERB-Fin--PRON (767)</li>
+            <li>VERB-Fin--NOUN (3532)</li>
+            <li>VERB-Fin--PRON (778)</li>
             <li>VERB-Ger--NOUN (360)</li>
             <li>VERB-Ger--PRON (53)</li>
-            <li>VERB-Inf--NOUN (2883)</li>
+            <li>VERB-Inf--NOUN (2879)</li>
             <li>VERB-Inf--NOUN-ADP(in) (1)</li>
-            <li>VERB-Inf--PRON (446)</li>
+            <li>VERB-Inf--PRON (450)</li>
             <li>VERB-Part--NOUN (1334)</li>
             <li>VERB-Part--PRON (317)</li>
           </ul>
@@ -6406,16 +6406,16 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB--NOUN (90)</li>
+            <li>VERB--NOUN (91)</li>
             <li>VERB--PRON (5)</li>
-            <li>VERB-Fin--NOUN (2225)</li>
-            <li>VERB-Fin--PRON (551)</li>
-            <li>VERB-Ger--NOUN (369)</li>
+            <li>VERB-Fin--NOUN (2229)</li>
+            <li>VERB-Fin--PRON (553)</li>
+            <li>VERB-Ger--NOUN (370)</li>
             <li>VERB-Ger--PRON (44)</li>
-            <li>VERB-Inf--NOUN (2210)</li>
-            <li>VERB-Inf--PRON (263)</li>
-            <li>VERB-Part--NOUN (1255)</li>
-            <li>VERB-Part--PRON (340)</li>
+            <li>VERB-Inf--NOUN (2213)</li>
+            <li>VERB-Inf--PRON (264)</li>
+            <li>VERB-Part--NOUN (1261)</li>
+            <li>VERB-Part--PRON (339)</li>
           </ul>
         </li>
       </ul>
@@ -6535,7 +6535,7 @@ udver: '2'
         <li><a>iobj</a>
           <ul>
             <li>VERB--PRON (2)</li>
-            <li>VERB-Fin--PRON (197)</li>
+            <li>VERB-Fin--PRON (199)</li>
             <li>VERB-Ger--PRON (21)</li>
             <li>VERB-Inf--NOUN (1)</li>
             <li>VERB-Inf--PRON (84)</li>

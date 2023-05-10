@@ -44,8 +44,8 @@ The following 6 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 # visual-style 4 1 obl:tmod	color:blue
 1	Пӧрысьлань	пӧрысь	ADJ	A	Case=Apr|Number=Sing	4	obl:tmod	_	GTtags=Sg,Apr
 2	кӧть	кӧть	ADV	Adv	_	4	advmod	_	_
-3	котравнытӧ	котравны	VERB	V	Clitic=To|Valency=1|VerbForm=Inf	4	xcomp	_	GTtags=IV,Inf,Clt/тӧ
-4	ланьт	ланьтны	VERB	V	Mood=Imp|Number=Sing|Person=2|Valency=1	0	root	_	GTtags=IV,Imprt,Sg2|SpaceAfter=No
+3	котравнытӧ	котравны	VERB	V	Clitic=To|VerbForm=Inf	4	xcomp	_	GTtags=IV,Inf,Clt/тӧ
+4	ланьт	ланьтны	VERB	V	Mood=Imp|Number=Sing|Person=2	0	root	_	GTtags=IV,Imprt,Sg2|SpaceAfter=No
 5	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 ~~~
@@ -62,7 +62,7 @@ The following 6 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 3	пияныс	пи	NOUN	N	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	1	appos	_	GTtags=Pl,Nom,PxSg3
 4	дорын	дорын	ADP	Adp	AdpType=Post|Case=Ine	3	case	_	GTtags=Po,Ine|SpaceAfter=No
 5	,	,	PUNCT	PUNCT	_	3	punct	_	_
-6	узьліс	узьлыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=1	0	root	_	GTtags=IV,Ind,Prt1,Sg3
+6	узьліс	узьлыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=IV,Ind,Prt1,Sg3
 7	сэсся	сэсся	ADV	Adv	_	6	advmod:tmod	_	_
 8	Васька	Васька	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing	6	nsubj	_	GTtags=Prop,Sem/Mal,Sg,Nom
 9	мыйкӧ	мыйкӧ	PRON	Pron	Case=Nom|Definite=Ind|Derivation=Ko|Number=Sing|PronType=Ind	6	obl:tmod	_	GTtags=Indef,Indef,Sg,Nom,Der/кӧ

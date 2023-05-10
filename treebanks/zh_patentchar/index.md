@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.11 release
 The following people have contributed to making this treebank part of UD: Yixuan Li, Kim Gerdes, Bruno Guillaume.
 
 Repository: [UD_Chinese-PatentChar](https://github.com/UniversalDependencies/UD_Chinese-PatentChar)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udzh_patentchar211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udzh_patentchar212)<br />
+Download all treebanks: [UD 2.12](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -43,18 +43,12 @@ Do not submit pull requests against the UD repository.
 | Relations | annotated manually in non-UD style, automatically converted to UD |
 
 ## Description
-
 A treebank of Chinese patent application texts collected from the Chinese patent office's website CNIPA.
-
-
-
-
 
 The sentences are randomly selected from the patent claims of the IPC section "G" from November 2017 to September 2018.
 
+
 The syntactic analysis is originally done in SUD on the character level under the name SUD_Chinese-PatentChar. See SUD Guidelines : https://surfacesyntacticud.github.io/guidelines/u/
-
-
 
 ## Acknowledgments
 
@@ -70,7 +64,7 @@ The syntactic analysis is originally done in SUD on the character level under th
 
 ## Relations
 
-[acl](zh_patentchar-dep-acl.html) – [advcl](zh_patentchar-dep-advcl.html) – [advmod](zh_patentchar-dep-advmod.html) – [amod](zh_patentchar-dep-amod.html) – [appos](zh_patentchar-dep-appos.html) – [case](zh_patentchar-dep-case.html) – [cc](zh_patentchar-dep-cc.html) – [ccomp](zh_patentchar-dep-ccomp.html) – [conj](zh_patentchar-dep-conj.html) – [csubj](zh_patentchar-dep-csubj.html) – [dep](zh_patentchar-dep-dep.html) – [goeswith](zh_patentchar-dep-goeswith.html) – [iobj](zh_patentchar-dep-iobj.html) – [mark](zh_patentchar-dep-mark.html) – [nmod](zh_patentchar-dep-nmod.html) – [nsubj](zh_patentchar-dep-nsubj.html) – [nummod](zh_patentchar-dep-nummod.html) – [obj](zh_patentchar-dep-obj.html) – [obl](zh_patentchar-dep-obl.html) – [obl:arg](zh_patentchar-dep-obl-arg.html) – [parataxis](zh_patentchar-dep-parataxis.html) – [punct](zh_patentchar-dep-punct.html) – [root](zh_patentchar-dep-root.html)
+[acl](zh_patentchar-dep-acl.html) – [advcl](zh_patentchar-dep-advcl.html) – [advmod](zh_patentchar-dep-advmod.html) – [amod](zh_patentchar-dep-amod.html) – [appos](zh_patentchar-dep-appos.html) – [case](zh_patentchar-dep-case.html) – [cc](zh_patentchar-dep-cc.html) – [ccomp](zh_patentchar-dep-ccomp.html) – [conj](zh_patentchar-dep-conj.html) – [csubj](zh_patentchar-dep-csubj.html) – [dep](zh_patentchar-dep-dep.html) – [goeswith](zh_patentchar-dep-goeswith.html) – [mark](zh_patentchar-dep-mark.html) – [nmod](zh_patentchar-dep-nmod.html) – [nsubj](zh_patentchar-dep-nsubj.html) – [nummod](zh_patentchar-dep-nummod.html) – [obj](zh_patentchar-dep-obj.html) – [obl](zh_patentchar-dep-obl.html) – [obl:arg](zh_patentchar-dep-obl-arg.html) – [parataxis](zh_patentchar-dep-parataxis.html) – [punct](zh_patentchar-dep-punct.html) – [root](zh_patentchar-dep-root.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -215,5 +209,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 1 relation subtypes: <a>obl:arg</a></li>
-<li>The following 15 relation types are not used in this corpus at all: <a>xcomp</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>discourse</a>, <a>aux</a>, <a>cop</a>, <a>det</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>compound</a>, <a>list</a>, <a>orphan</a>, <a>reparandum</a></li>
+<li>The following 16 relation types are not used in this corpus at all: <a>iobj</a>, <a>xcomp</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>discourse</a>, <a>aux</a>, <a>cop</a>, <a>det</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>compound</a>, <a>list</a>, <a>orphan</a>, <a>reparandum</a></li>
 </ul>

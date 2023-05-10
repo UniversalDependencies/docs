@@ -25,7 +25,7 @@ The following 1 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 21 22 flat	color:blue
 1	Esta	_	DET	DT	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
 2	redacción	redacción	NOUN	NN	Gender=Fem|Number=Sing	5	nsubj	_	_
-3	fue	ser	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	_
+3	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_
 4	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	acto	acto	NOUN	NN	Gender=Masc|Number=Sing	0	root	_	_
 6	fundador	fundador	ADJ	JJ	Gender=Masc|Number=Sing	5	amod	_	_

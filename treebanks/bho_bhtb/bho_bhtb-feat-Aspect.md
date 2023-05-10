@@ -110,7 +110,7 @@ The most frequent other feature values with which `PROPN` and `Aspect` co-occurr
 `PROPN` tokens may have the following values of `Aspect`:
 
 * `Imp` (2; 100% of non-empty `Aspect`): पाती
-* `EMPTY` (417): भोजपुरी, प्रियंका, सिंह, राय, जी, पाती, डॉ., पाण्डेय, चोपड़ा, डा॰
+* `EMPTY` (419): भोजपुरी, प्रियंका, सिंह, राय, जी, पाती, डॉ., पाण्डेय, चोपड़ा, डा॰
 
 ### `ADJ`
 
@@ -121,7 +121,7 @@ The most frequent other feature values with which `ADJ` and `Aspect` co-occurred
 `ADJ` tokens may have the following values of `Aspect`:
 
 * `Perf` (1; 100% of non-empty `Aspect`): बचपनवाला
-* `EMPTY` (249): पूरा, बड़, सांस्कृतिक, तथाकथित, प, छोट, भोजपुरिया, खास, चुपचाप, जरूरी
+* `EMPTY` (248): पूरा, बड़, सांस्कृतिक, तथाकथित, प, छोट, भोजपुरिया, खास, चुपचाप, जरूरी
 
 ### `ADP`
 
@@ -143,7 +143,7 @@ The most frequent other feature values with which `ADV` and `Aspect` co-occurred
 `ADV` tokens may have the following values of `Aspect`:
 
 * `Perf` (1; 100% of non-empty `Aspect`): नाहिंए
-* `EMPTY` (31): जइसे, हिन्दी, गद्य, जल्दी, ललित, सभ्य, आजुओ, आनन्द, आसानी, जरूर
+* `EMPTY` (30): जइसे, हिन्दी, गद्य, जल्दी, ललित, सभ्य, आजुओ, आनन्द, आसानी, जरूर
 
 ### `NUM`
 

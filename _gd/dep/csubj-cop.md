@@ -17,4 +17,4 @@ These are largely no longer productive, like _'s dòcha_ "perhaps", _'s toil le_
 csubj:cop(chaomh, bhith)
 cop(chaomh, 'S)
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:20 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:04:09 CEST -->

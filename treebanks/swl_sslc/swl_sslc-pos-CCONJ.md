@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Swedish_Sign_Language-SSLC: POS Tags: `CCONJ`
 
-There are 1 `CCONJ` lemmas (9%), 6 `CCONJ` types (1%) and 13 `CCONJ` tokens (1%).
-Out of 11 observed tags, the rank of `CCONJ` is: 4 in number of lemmas, 10 in number of types and 11 in number of tokens.
+There are 1 `CCONJ` lemmas (8%), 6 `CCONJ` types (1%) and 13 `CCONJ` tokens (1%).
+Out of 13 observed tags, the rank of `CCONJ` is: 5 in number of lemmas, 12 in number of types and 12 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>_</em>
 
 The 10 most frequent `CCONJ` types:  <em>ORSAK, PLUS, MEN, OCH, OM@b, SOM(S)</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt> 648, <tt><a href="swl_sslc-pos-NOUN.html">NOUN</a></tt> 362, <tt><a href="swl_sslc-pos-PRON.html">PRON</a></tt> 177, <tt><a href="swl_sslc-pos-ADV.html">ADV</a></tt> 115, <tt><a href="swl_sslc-pos-X.html">X</a></tt> 98, <tt><a href="swl_sslc-pos-ADJ.html">ADJ</a></tt> 55, <tt><a href="swl_sslc-pos-INTJ.html">INTJ</a></tt> 47, <tt><a href="swl_sslc-pos-DET.html">DET</a></tt> 39, <tt><a href="swl_sslc-pos-NUM.html">NUM</a></tt> 31, <tt><a href="swl_sslc-pos-ADP.html">ADP</a></tt> 25, <tt><a href="swl_sslc-pos-CCONJ.html">CCONJ</a></tt> 13)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt> 611, <tt><a href="swl_sslc-pos-NOUN.html">NOUN</a></tt> 362, <tt><a href="swl_sslc-pos-PRON.html">PRON</a></tt> 175, <tt><a href="swl_sslc-pos-ADV.html">ADV</a></tt> 119, <tt><a href="swl_sslc-pos-X.html">X</a></tt> 71, <tt><a href="swl_sslc-pos-DET.html">DET</a></tt> 61, <tt><a href="swl_sslc-pos-INTJ.html">INTJ</a></tt> 56, <tt><a href="swl_sslc-pos-ADJ.html">ADJ</a></tt> 55, <tt><a href="swl_sslc-pos-AUX.html">AUX</a></tt> 37, <tt><a href="swl_sslc-pos-NUM.html">NUM</a></tt> 25, <tt><a href="swl_sslc-pos-ADP.html">ADP</a></tt> 24, <tt><a href="swl_sslc-pos-CCONJ.html">CCONJ</a></tt> 13, <tt><a href="swl_sslc-pos-PART.html">PART</a></tt> 1)
 
 The 10 most frequent ambiguous types:  
 
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 6.000000 (the average of all parts of speech is 63.454545).
+The form / lemma ratio of `CCONJ` is 6.000000 (the average of all parts of speech is 54.615385).
 
 The 1st highest number of forms (6) was observed with the lemma “_”: <em>MEN, OCH, OM@b, ORSAK, PLUS, SOM(S)</em>.
 

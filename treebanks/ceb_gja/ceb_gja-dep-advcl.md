@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-9 nodes (1%) are attached to their parents as `advcl`.
+10 nodes (1%) are attached to their parents as `advcl`.
 
-8 instances of `advcl` (89%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.
+9 instances of `advcl` (90%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.3.
 
-The following 4 pairs of parts of speech are connected with `advcl`: <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (4; 44% instances), <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-ADJ.html">ADJ</a></tt> (3; 33% instances), <tt><a href="ceb_gja-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt> (1; 11% instances), <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt> (1; 11% instances).
+The following 4 pairs of parts of speech are connected with `advcl`: <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (5; 50% instances), <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-ADJ.html">ADJ</a></tt> (3; 30% instances), <tt><a href="ceb_gja-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt> (1; 10% instances), <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt> (1; 10% instances).
 
 
 ~~~ conllu

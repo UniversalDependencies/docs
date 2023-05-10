@@ -23,7 +23,7 @@ The following 24 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 5	fgColor:white
 # visual-style 5 8 appos	color:blue
 1	Чись	чи	NOUN	N	Case=Nom|Definite=Def|Number=Sing	2	nsubj	_	GTtags=Sg,Nom,Def
-2	нолаштсь	нолаштомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=2	0	root	_	GTtags=TV,Ind,Prt1,ScSg3
+2	нолаштсь	нолаштомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	GTtags=TV,Ind,Prt1,ScSg3
 3	певтеме	певтеме	ADJ	A	_	4	amod	_	_
 4	менелень	менель	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	5	nmod	_	GTtags=Sem/Plc,SP,Gen,Indef
 5	сэньганть	сэнь	NOUN	N	Case=Prl|Definite=Def|Number=Sing	2	obl:lmod	_	GTtags=Sg,Prl,Def|SpaceAfter=No
@@ -43,12 +43,12 @@ The following 24 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 3 5 appos	color:blue
 1	Сакалонзо	сакал	NOUN	N	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	3	nsubj	_	GTtags=Pl,Nom,PxSg3
 2	ваньксстэ	ваньксстэ	ADV	Adv	_	3	advmod	_	_
-3	наразь	нарамс	VERB	V	Derivation=Ozj|Valency=2|VerbForm=Conv	0	root	_	GTtags=TV,Der/Озь,Ger|SpaceAfter=No
+3	наразь	нарамс	VERB	V	Derivation=Ozj|VerbForm=Conv	0	root	_	GTtags=TV,Der/Озь,Ger|SpaceAfter=No
 4	,	,	PUNCT	CLB	_	5	punct	_	_
-5	кадозь	кадомс	VERB	V	Derivation=Ozj|Valency=2|VerbForm=Conv	3	appos	_	GTtags=TV,Der/Озь,Ger
+5	кадозь	кадомс	VERB	V	Derivation=Ozj|VerbForm=Conv	3	appos	_	GTtags=TV,Der/Озь,Ger
 6	ансяк	ансяк	ADV	Adv	_	5	advmod	_	GTtags=Exclusive
 7	нирькине	нурькине	ADJ	A	_	8	amod	_	_
-8	усынеть	уса	NOUN	N	Case=Nom|Definite=Ind|Derivation=Dimin|Number=Plur	5	nsubj	_	GTtags=Der/НЕ,Der/Dimin,N,Pl,Nom,Indef|SpaceAfter=No
+8	усынеть	уса	NOUN	N	Case=Nom|Definite=Ind|Degree=Dim|Number=Plur	5	nsubj	_	GTtags=Der/НЕ,Der/Dimin,N,Pl,Nom,Indef|SpaceAfter=No
 9	.	.	PUNCT	CLB	_	3	punct	_	_
 
 ~~~

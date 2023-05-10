@@ -80,3 +80,4 @@ _баары_.
 * _Баарын ыргытам._ "I throw everything away."
 
  
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:47 CEST -->

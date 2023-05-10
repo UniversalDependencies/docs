@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>mare</em> (<tt><a href="ro_nonstandar
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.953888 (the average of all parts of speech is 2.492163).
+The form / lemma ratio of `ADJ` is 1.953888 (the average of all parts of speech is 2.491875).
 
 The 1st highest number of forms (34) was observed with the lemma “sfânt”: <em>SFINŢILOR, Sfîntu, Sfîntului, Svânt, sfinte, sfintei, sfintele, sfinteli, sfinți, sfinții, sfinților, sfânt, sfânta, sfînt, sfînta, sfîntul, sfîntă, svinte, svinte-, svintei, svintele, svintelor, svinț, svinți, svinții, svințîi, svînt, svînta, svînta-, svîntu, svîntul, svîntului, svîntă, sînta</em>.
 

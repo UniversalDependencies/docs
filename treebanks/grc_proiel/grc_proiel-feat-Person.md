@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-41500 tokens (19%) have a non-empty value of `Person`.
-9637 types (30%) occur at least once with a non-empty value of `Person`.
-2180 lemmas (23%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> (23918; 11% instances), <tt><a href="grc_proiel-pos-PRON.html">PRON</a></tt> (14364; 7% instances), <tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (2950; 1% instances), <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> (268; 0% instances).
+41501 tokens (19%) have a non-empty value of `Person`.
+9641 types (30%) occur at least once with a non-empty value of `Person`.
+2181 lemmas (23%) occur at least once with a non-empty value of `Person`.
+The feature is used with 4 part-of-speech tags: <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> (23923; 11% instances), <tt><a href="grc_proiel-pos-PRON.html">PRON</a></tt> (14433; 7% instances), <tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (2946; 1% instances), <tt><a href="grc_proiel-pos-DET.html">DET</a></tt> (199; 0% instances).
 
 ### `VERB`
 
-23918 <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> tokens (60% of all `VERB` tokens) have a non-empty value of `Person`.
+23923 <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> tokens (60% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (23918; 100%), <tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (23918; 100%), <tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (23918; 100%), <tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (19886; 83%), <tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (16752; 70%), <tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15607; 65%), <tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (14719; 62%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (23923; 100%), <tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (23923; 100%), <tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (23923; 100%), <tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (19892; 83%), <tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (16753; 70%), <tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15610; 65%), <tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (14720; 62%).
 
 `VERB` tokens may have the following values of `Person`:
 
 * `1` (3055; 13% of non-empty `Person`): <em>λέγω, ἔχω, οἶδα, θέλω, ἤκουσα, οἴδαμεν, εἶδον, ἔχομεν, εἶπον, ποιήσω</em>
 * `2` (3606; 15% of non-empty `Person`): <em>οἴδατε, ἔχετε, ἔχεις, ἴδε, ποιεῖτε, βλέπετε, λέγεις, λέγετε, δύνασθε, ὕπαγε</em>
-* `3` (17257; 72% of non-empty `Person`): <em>εἶπεν, λέγει, ἐγένετο, ἔχει, δεῖ, εἶπαν, εἶχον, ἔλεγον, ἦλθεν, λέγουσι</em>
-* `EMPTY` (15748): <em>λέγων, λέγοντες, γενέσθαι, ἔχων, ἀποκριθεὶς, ἔχοντες, λέγειν, ἰδὼν, ἔχειν, ἀκούσαντες</em>
+* `3` (17262; 72% of non-empty `Person`): <em>εἶπεν, λέγει, ἐγένετο, ἔχει, δεῖ, εἶπαν, εἶχον, ἔλεγον, ἦλθεν, λέγουσι</em>
+* `EMPTY` (15759): <em>λέγων, λέγοντες, γενέσθαι, ἔχων, ἀποκριθεὶς, ἔχοντες, λέγειν, ἰδὼν, ἔχειν, ἀκούσαντες</em>
 
 <table>
   <tr><th>Paradigm <i>λέγω</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -62,16 +62,16 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `PRON`
 
-14364 <tt><a href="grc_proiel-pos-PRON.html">PRON</a></tt> tokens (81% of all `PRON` tokens) have a non-empty value of `Person`.
+14433 <tt><a href="grc_proiel-pos-PRON.html">PRON</a></tt> tokens (64% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="grc_proiel-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (14364; 100%), <tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (11298; 79%), <tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8784; 61%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="grc_proiel-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (14364; 100%), <tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (11307; 78%), <tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8824; 61%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (3093; 22% of non-empty `Person`): <em>μου, ἐγὼ, ἡμῶν, με, μοι, ἡμῖν, ἐγώ, ἡμᾶς, ἡμεῖς, ἐμοῦ</em>
-* `2` (3282; 23% of non-empty `Person`): <em>ὑμῖν, ὑμῶν, σου, ὑμᾶς, ὑμεῖς, σὺ, σε, σοι, τοι, σοῦ</em>
-* `3` (7989; 56% of non-empty `Person`): <em>αὐτοῦ, αὐτῷ, αὐτὸν, αὐτῶν, αὐτοῖς, οἱ, αὐτόν, σφι, αὐτοὺς, ὁ</em>
-* `EMPTY` (3478): <em>τί, ὃς, ὃ, ὃν, τίς, οὗ, ᾧ, ἃ, ἣν, τὰ</em>
+* `1` (3124; 22% of non-empty `Person`): <em>μου, ἐγὼ, ἡμῶν, με, μοι, ἡμῖν, ἐγώ, ἡμᾶς, ἡμεῖς, ἐμοῦ</em>
+* `2` (3301; 23% of non-empty `Person`): <em>ὑμῖν, ὑμῶν, σου, ὑμᾶς, ὑμεῖς, σὺ, σε, σοι, τοι, σοῦ</em>
+* `3` (8008; 55% of non-empty `Person`): <em>αὐτοῦ, αὐτῷ, αὐτῶν, αὐτὸν, αὐτοῖς, οἱ, αὐτόν, σφι, αὐτοὺς, ὁ</em>
+* `EMPTY` (8196): <em>ταῦτα, τοῦτο, τί, ὃς, πάντα, ὃ, τις, τούτων, οὗτοι, τίς</em>
 
 <table>
   <tr><th>Paradigm <i>ἑαυτοῦ</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -94,16 +94,16 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 ### `AUX`
 
-2950 <tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> tokens (75% of all `AUX` tokens) have a non-empty value of `Person`.
+2946 <tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> tokens (75% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2950; 100%), <tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2950; 100%), <tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2950; 100%), <tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2743; 93%), <tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2717; 92%), <tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2242; 76%), <tt><a href="grc_proiel-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (2156; 73%), <tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1945; 66%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2946; 100%), <tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2946; 100%), <tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2946; 100%), <tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2739; 93%), <tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2714; 92%), <tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2241; 76%), <tt><a href="grc_proiel-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (2152; 73%), <tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1942; 66%).
 
 `AUX` tokens may have the following values of `Person`:
 
 * `1` (247; 8% of non-empty `Person`): <em>εἰμι, εἰμὶ, ἐσμεν, εἰμί, ἤμην, ἔσομαι, ἐσμὲν, ἦμεν, ἐσμέν, ἤμεθα</em>
 * `2` (249; 8% of non-empty `Person`): <em>εἶ, ἐστε, ἐστὲ, ἦτε, ἐστέ, ἔσεσθε, ἔσῃ, εἶς, ἦς, ἴσθι</em>
-* `3` (2454; 83% of non-empty `Person`): <em>ἦν, ἐστιν, ἦσαν, ἐστὶ, ἔσται, ἔστιν, ἐστὶν, εἴη, εἰσὶ, ἔστι</em>
-* `EMPTY` (991): <em>εἶναι, ἐὼν, ἐόντα, ἐόντες, ὢν, ἐὸν, ἔσεσθαι, ἐόντας, ὄντες, ἐοῦσαν</em>
+* `3` (2450; 83% of non-empty `Person`): <em>ἦν, ἐστιν, ἦσαν, ἐστὶ, ἔσται, ἔστιν, ἐστὶν, εἴη, εἰσὶ, ἔστι</em>
+* `EMPTY` (989): <em>εἶναι, ἐὼν, ἐόντα, ἐόντες, ὢν, ἐὸν, ἔσεσθαι, ἐόντας, ὄντες, ἐοῦσαν</em>
 
 <table>
   <tr><th>Paradigm <i>εἰμί</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -124,27 +124,26 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
   <tr><td><tt><tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>ὦμεν</em></td><td><em>ἦτε</em></td><td><em>ὦσιν, ἔωσι, ὠσὶν</em></td></tr>
 </table>
 
-### `ADJ`
+### `DET`
 
-268 <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> tokens (2% of all `ADJ` tokens) have a non-empty value of `Person`.
+199 <tt><a href="grc_proiel-pos-DET.html">DET</a></tt> tokens (1% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `ADJ` and `Person` co-occurred: <tt><a href="grc_proiel-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (268; 100%), <tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (187; 70%).
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="grc_proiel-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (199; 100%), <tt><a href="grc_proiel-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (199; 100%), <tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (148; 74%).
 
-`ADJ` tokens may have the following values of `Person`:
+`DET` tokens may have the following values of `Person`:
 
-* `1` (156; 58% of non-empty `Person`): <em>ἐμὸν, ἐμὴν, ἐμὴ, ἐμὸς, ἐμῇ, ἐμὰ, ἐμοῦ, ἐμῆς, ἐμῷ, ἐμά</em>
-* `2` (72; 27% of non-empty `Person`): <em>σὸν, σῆς, σῷ, σά, σοὶ, σὰ, σὴν, σὸς, σόν, σῶν</em>
-* `3` (40; 15% of non-empty `Person`): <em>σῇ, σφετέρην, σφετέρων, σφέτερον, σφετέρας, σφετέρης, σφετέρους, σφέτερα, σφετερέων, σφέτερος</em>
-* `EMPTY` (16567): <em>ταῦτα, τοῦτο, πάντα, τις, τούτων, οὗτοι, οὗτος, τάδε, πρότερον, πάντες</em>
+* `1` (123; 62% of non-empty `Person`): <em>ἐμὸν, ἐμὴν, ἐμῇ, ἐμὴ, ἐμὸς, ἐμὰ, ἐμῆς, ἐμῷ, ἐμήν, ἐμοὶ</em>
+* `2` (51; 26% of non-empty `Person`): <em>σῆς, σῷ, σὴν, σὸν, σὸς, σά, σου, σοὺς, σόν, σῶν</em>
+* `3` (25; 13% of non-empty `Person`): <em>σῇ, σφετέρης, σφετέρων, σφέτερα, σφέτερον, σφετέρην, σφετέρους, σφέτερος, σφετέρας, σφετερέων</em>
+* `EMPTY` (31959): <em>ὁ, τοῦ, τὴν, τὸ, τὸν, τῶν, τῆς, οἱ, τῷ, τὰ</em>
 
 <table>
   <tr><th>Paradigm <i>σός</i></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt>|<tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>σόν</em></td><td></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>σὸν, σόν</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>σοὺς, σούς</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>σοὺς</em></td><td></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>σὴν, σήν</em></td><td></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>σὰς</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>σὸν, σόν</em></td><td></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>σά, σὰ</em></td><td></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>σῷ</em></td><td></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>σῇ</em></td></tr>
@@ -158,20 +157,19 @@ The most frequent other feature values with which `ADJ` and `Person` co-occurred
   <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>σοὶ</em></td><td></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>σαὶ</em></td><td></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>σὸν</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>σά, σὰ</em></td><td></td></tr>
 </table>
 
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="grc_proiel-dep-conj.html">conj</a></tt>]--> VERB</tt> (3269; 88%),
-<tt>VERB --[<tt><a href="grc_proiel-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (1380; 55%),
-<tt>VERB --[<tt><a href="grc_proiel-dep-dislocated.html">dislocated</a></tt>]--> VERB</tt> (93; 56%),
-<tt>AUX --[<tt><a href="grc_proiel-dep-conj.html">conj</a></tt>]--> VERB</tt> (35; 85%),
-<tt>VERB --[<tt><a href="grc_proiel-dep-conj.html">conj</a></tt>]--> AUX</tt> (22; 69%),
+<tt>VERB --[<tt><a href="grc_proiel-dep-dislocated.html">dislocated</a></tt>]--> VERB</tt> (91; 55%),
+<tt>AUX --[<tt><a href="grc_proiel-dep-conj.html">conj</a></tt>]--> VERB</tt> (35; 76%),
+<tt>VERB --[<tt><a href="grc_proiel-dep-conj.html">conj</a></tt>]--> AUX</tt> (24; 69%),
 <tt>AUX --[<tt><a href="grc_proiel-dep-conj.html">conj</a></tt>]--> AUX</tt> (8; 62%),
 <tt>VERB --[<tt><a href="grc_proiel-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (7; 70%),
 <tt>AUX --[<tt><a href="grc_proiel-dep-dislocated.html">dislocated</a></tt>]--> VERB</tt> (3; 100%),
-<tt>AUX --[<tt><a href="grc_proiel-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (2; 100%),
-<tt>AUX --[<tt><a href="grc_proiel-dep-conj.html">conj</a></tt>]--> PRON</tt> (2; 67%).
+<tt>AUX --[<tt><a href="grc_proiel-dep-conj.html">conj</a></tt>]--> PRON</tt> (2; 67%),
+<tt>VERB --[<tt><a href="grc_proiel-dep-csubj-pass.html">csubj:pass</a></tt>]--> AUX</tt> (2; 100%),
+<tt>AUX --[<tt><a href="grc_proiel-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (1; 100%).
 

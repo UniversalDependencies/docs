@@ -6,89 +6,101 @@ udver: '2'
 
 ## Treebank Statistics: UD_Old_Church_Slavonic-PROIEL: POS Tags: `CCONJ`
 
-There are 9 `CCONJ` lemmas (0%), 22 `CCONJ` types (0%) and 4918 `CCONJ` tokens (9%).
-Out of 14 observed tags, the rank of `CCONJ` is: 11 in number of lemmas, 13 in number of types and 6 in number of tokens.
+There are 18 `CCONJ` lemmas (0%), 61 `CCONJ` types (0%) and 15525 `CCONJ` tokens (8%).
+Out of 14 observed tags, the rank of `CCONJ` is: 12 in number of lemmas, 13 in number of types and 6 in number of tokens.
 
-The 10 most frequent `CCONJ` lemmas: <em>и, нъ, а, ли, ни, или, да, любо, али</em>
+The 10 most frequent `CCONJ` lemmas: <em>и, нъ, а, ни, ли, или, да, ти, любо, таже</em>
 
-The 10 most frequent `CCONJ` types:  <em>ꙇ, и, нъ, а, ꙇ҅, ли, ни, или, и҅, нь</em>
+The 10 most frequent `CCONJ` types:  <em>и҅, ꙇ, и, и͑, нъ, ї, і, ни, а҅, а</em>
 
-The 10 most frequent ambiguous lemmas: <em>и</em> (<tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 4307, <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> 2988, <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 244, <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> 1), <em>ли</em> (<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 201, <tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 107), <em>ни</em> (<tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 105, <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 58, <tt><a href="cu_proiel-pos-INTJ.html">INTJ</a></tt> 7), <em>или</em> (<tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 19, <tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> 1), <em>да</em> (<tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> 350, <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 81, <tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>и</em> (<tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 13102, <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> 7506, <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 1143, <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> 1, <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> 1), <em>нъ</em> (<tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 937, <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 2), <em>а</em> (<tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 493, <tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> 11, <tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt> 2), <em>ни</em> (<tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 467, <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 173, <tt><a href="cu_proiel-pos-INTJ.html">INTJ</a></tt> 21, <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> 1), <em>ли</em> (<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 641, <tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 175), <em>или</em> (<tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 146, <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 4, <tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> 1), <em>да</em> (<tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> 989, <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 455, <tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 124), <em>ти</em> (<tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 43, <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 18, <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> 3, <tt><a href="cu_proiel-pos-DET.html">DET</a></tt> 1), <em>любо</em> (<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 10, <tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 10), <em>таже</em> (<tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 7, <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>ꙇ</em> (<tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 2394, <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 33, <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> 2, <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> 1), <em>и</em> (<tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 1665, <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> 387, <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 200, <tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt> 7, <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> 1), <em>нъ</em> (<tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 207, <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> 3), <em>ꙇ҅</em> (<tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 105, <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 6), <em>ли</em> (<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 201, <tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 107), <em>ни</em> (<tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 102, <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 58, <tt><a href="cu_proiel-pos-INTJ.html">INTJ</a></tt> 7, <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> 1), <em>и҅</em> (<tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 8, <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> 6, <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 2), <em>нь</em> (<tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> 56, <tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 4), <em>да</em> (<tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> 348, <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 79, <tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> 1), <em>нꙑ</em> (<tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> 17, <tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 2)
+The 10 most frequent ambiguous types:  <em>и҅</em> (<tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 4308, <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 652, <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> 36, <tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt> 7, <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> 1), <em>ꙇ</em> (<tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 3372, <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 69, <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> 9, <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt> 1, <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> 1), <em>и</em> (<tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 2153, <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> 529, <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 246, <tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt> 7, <tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt> 6, <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> 1), <em>и͑</em> (<tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 1142, <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 124, <tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt> 1, <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> 1, <tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> 1), <em>нъ</em> (<tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 875, <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> 11, <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 3), <em>ї</em> (<tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 312, <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> 28, <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 10, <tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt> 1, <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt> 1), <em>і</em> (<tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 404, <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> 205, <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 19, <tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt> 2), <em>ни</em> (<tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 421, <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 160, <tt><a href="cu_proiel-pos-INTJ.html">INTJ</a></tt> 20, <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> 11, <tt><a href="cu_proiel-pos-DET.html">DET</a></tt> 8), <em>а҅</em> (<tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 225, <tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> 9, <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt> 1), <em>а</em> (<tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 207, <tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt> 11, <tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt> 2, <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> 1, <tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> 1)
 
 
-* <em>ꙇ</em>
-  * <tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 2394: <em><b>ꙇ</b> аште десна твоѣ рѫка съблажнаатъ тѧ оусѣци ѭ и връзи отъ себе</em>
-  * <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 33: <em>ѣкоже тꙑ мѧ посъла въ миръ <b>ꙇ</b> азъ посълахъ ѩ въ миръ</em>
-  * <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> 2: <em>ꙇ призъвавъ <b>ꙇ</b> рече емоу</em>
-  * <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> 1: <em>ꙇ тъ бѣ и҃съ ѣко тремъ десѧтемъ лѣтъ начинаѩ с҃нъ сꙑ ѣко мьнимъ бѣ ꙇосифовъ ꙇлиевъ маттатовъ левьꙉиинъ мелхиевъ <b>ꙇ</b> аннаевъ ꙇосифовъ маттатиевъ амосовъ наоумовъ еслимовъ наанꙉеовъ маатовъ мататиевъ семеоновъ ꙇосифовъ ꙇюдинъ иоанаевъ рисиевъ зоровавелевъ салатилевъ нириевъ мелхиевъ адъдиевъ касамовъ алмодановъ ꙇровъ ꙇосиовъ елиезеровъ ꙇорамовъ маттатовъ левьꙉиинъ сѵмеоновъ ꙇюдовъ иосифовъ ꙇоананевъ елиакимовъ мелеанновъ маинановъ маттатаевъ натановъ давꙑдовъ ꙇесеовъ овидовъ воозовъ салмоновъ наасоновъ аминадавовъ арамовъ ꙇоⷬ҇амовъ есромовъ фаресовъ ꙇюдовъ ꙇѣкѡвовъ ꙇсаковъ авраамовъ тарань нахоровъ сероуховъ рагавовъ фалековъ еверовъ салань каинановъ арфаксадовъ симовъ ноевъ ламеховъ матоусаль еноховъ ꙇаредовъ малелеилевъ каиновъ еносовъ ситовъ адамовъ божеꙇ҅</em>
-* <em>и</em>
-  * <tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 1665: <em>аще же око твое десное съблажнаатъ тѧ ꙇзьми е <b>и</b> връзи отъ тебе</em>
-  * <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> 387: <em>вꙑ же сътвористе <b>и</b> врътъпъ разбоиникомъ</em>
-  * <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 200: <em>Нъ аще кто тѧ оударитъ въ деснѫѭ ланитѫ обрати емоу <b>и</b> дроугѫѭ҄</em>
-  * <tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt> 7: <em>въставъ же <b>и</b> съньмишта въниде въ домъ симоновъ</em>
-  * <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> 1: <em>нѣсте ли чьли ѣко сътвори <b>и</b> ꙇскони мѫжескъ полъ и женескъ сътворилъ естъ</em>
-* <em>нъ</em>
-  * <tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 207: <em><b>нъ</b> не тогда естъ коньчина</em>
-  * <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> 3: <em>Тъгда шедъше фарисѣии Съвѣтъ сътворишѧ на <b>нъ</b> да обльстѧтъ і словомь</em>
-* <em>ꙇ҅</em>
-  * <tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 105: <em>бѫди же слово ваше еи ей <b>ꙇ҅</b> ни ни</em>
-  * <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 6: <em>нъ <b>ꙇ҅</b> нꙑнѣ вѣмъ ѣко егоже колижъдо просиши оу б҃а дастъ тебѣ б҃ъ</em>
-* <em>ли</em>
-  * <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 201: <em>не и мꙑтаре <b>ли</b> тожде творѧтъ</em>
-  * <tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 107: <em>что ѣмъ <b>ли</b> что пиемъ</em>
-* <em>ни</em>
-  * <tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 102: <em>не троуждаѭ҄тъ сѧ <b>ни</b> прѧдѫтъ</em>
-  * <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 58: <em>аште ли же <b>ни</b> мъздꙑ не имате отъ о҃тца вашего иже естъ на н҃бсхъ</em>
-  * <tt><a href="cu_proiel-pos-INTJ.html">INTJ</a></tt> 7: <em>бѫди же слово ваше еи ей ꙇ҅ <b>ни</b> <b>ни</b></em>
-  * <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> 1: <em>еда могѫтъ с҃нве брачьнии постити сѧ доньдеже съ <b>ни</b> ми естъ женихъ</em>
 * <em>и҅</em>
-  * <tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 8: <em>добрꙑ рабе и благꙑ <b>и҅</b> вѣрьне о малѣ бѣ вѣренъ</em>
-  * <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> 6: <em>аминь г҃лѭ вамъ ѣко надъ вьсѣмь имѣниемъ поставитꙑ <b>и҅</b></em>
-  * <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 2: <em>нъ <b>и҅</b> власи главꙑ вашеѩ вьси иштьтени сѫтъ</em>
-* <em>нь</em>
-  * <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> 56: <em>ꙇродиѣ же гнѣвааше сѧ на <b>нь</b> ꙇ хотѣаше и оубити и не можааше</em>
-  * <tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 4: <em><b>нь</b> не речетъ ли емоу</em>
-* <em>да</em>
-  * <tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> 348: <em>Вьнемлѣте милостꙑнѧ вашеѩ не творити прѣдъ ч҃лвкꙑ <b>да</b> видими бѫдете ими</em>
-  * <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 79: <em>ꙇже аште поуститъ женѫ своѭ <b>да</b> дастъ еи кънигꙑ распоустънꙑѩ</em>
-  * <tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 2: <em><b>да</b> ѣко рече имъ азъ есмъ идѫ въспѧть и падѫ на земи</em>
-  * <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> 1: <em>пришедъ же въ домъ не <b>да</b> никомоуже вьнити токмо петрови и иоаноу и иѣковоу ꙇ о҃тцю отроковицѧ и матери</em>
-* <em>нꙑ</em>
-  * <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> 17: <em>посъли <b>нꙑ</b> вь свиниѩ да вь нѧ вьнидемь</em>
-  * <tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 2: <em>ходѧи по мьнѣ не иматъ ходити въ тъмѣ <b>нꙑ</b> иматъ свѣта животънааго</em>
+  * <tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 4308: <em><b>и҅</b> дастъ маломошти ѕ꙯ ꙁлатицъ</em>
+  * <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 652: <em>и҅ ѥ҅же въпрашаѥ҅ши и҅мене моѥ҅го то <b>и҅</b> то чоудъно ѥ҅стъ</em>
+  * <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> 36: <em>и коснѫвъ въ оухо его исцѣли <b>и҅</b></em>
+  * <tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt> 7: <em>видѣвъше же народи и҅ комисъ ꙁвѣри и҅ꙁлѣꙁъшꙙ вь҆нъ <b>и҅</b> цръкве о҅тъбѣгошꙙ</em>
+  * <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> 1: <em>пон҄еже бо и҅ петръ ѥ҅гда <b>и҅</b> сповѣда хс꙯а блажаа҅ше сꙙ ꙗ҅коже о҅тче и҅ꙁвѣштавъ</em>
+* <em>ꙇ</em>
+  * <tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 3372: <em><b>ꙇ</b> вѣчьнаѣ твоѣ ꙇхъже жѧдаемъ подась намъ мꙇлостівьно х҃мь г҃мь нашімь ꙇмь</em>
+  * <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 69: <em><b>ꙇ</b> тꙑ бѣ съ и҃҅смь галилеискꙑмъ</em>
+  * <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> 9: <em>ꙇ мало ꙇхъ естъ ꙇже <b>ꙇ</b> обрѣтаѭ</em>
+  * <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> 1: <em>ꙇ тъ бѣ и҃съ ѣко тремъ десѧтемъ лѣтъ начинаѩ с҃нъ сꙑ ѣко мьнимъ бѣ ꙇосифовъ ꙇлиевъ маттатовъ левьꙉиинъ мелхиевъ <b>ꙇ</b> аннаевъ ꙇосифовъ маттатиевъ амосовъ наоумовъ еслимовъ наанꙉеовъ маатовъ мататиевъ семеоновъ ꙇосифовъ ꙇюдинъ иоанаевъ рисиевъ зоровавелевъ салатилевъ нириевъ мелхиевъ адъдиевъ касамовъ алмодановъ ꙇровъ ꙇосиовъ елиезеровъ ꙇорамовъ маттатовъ левьꙉиинъ сѵмеоновъ ꙇюдовъ иосифовъ ꙇоананевъ елиакимовъ мелеанновъ маинановъ маттатаевъ натановъ давꙑдовъ ꙇесеовъ овидовъ воозовъ салмоновъ наасоновъ аминадавовъ арамовъ ꙇоⷬ҇амовъ есромовъ фаресовъ ꙇюдовъ ꙇѣкѡвовъ ꙇсаковъ авраамовъ тарань нахоровъ сероуховъ рагавовъ фалековъ еверовъ салань каинановъ арфаксадовъ симовъ ноевъ ламеховъ матоусаль еноховъ ꙇаредовъ малелеилевъ каиновъ еносовъ ситовъ адамовъ божеꙇ҅</em>
+  * <tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt> 1: <em>ꙇже бо разоритъ единѫ заповѣдь <b>ꙇ</b> сиxъ малъꙇxъ ꙇ наоучить тако чк҃ꙑ мьниі наречетъ сѧ въ цр҃си нб҃сцѣмь</em>
+  * <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> 1: <em>азъ же гл҃ѭ вамъ ѣко гнѣваѩ <b>ꙇ</b> сѧ на брата своего спꙑти повиненъ естъ сѫдоу</em>
+* <em>и</em>
+  * <tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 2153: <em><b>и</b> въ законѣ его не ізволишѩ ходіті</em>
+  * <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> 529: <em>Посъла цр҃ѣ і раздрѣші <b>и</b></em>
+  * <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 246: <em>Бездъна ѣко <b>и</b> різа одѣние еѩ</em>
+  * <tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt> 7: <em>въставъ же <b>и</b> съньмишта въниде въ домъ симоновъ</em>
+  * <tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt> 6: <em>к҃ <b>и</b></em>
+  * <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> 1: <em>ѡ҄ и҅ꙁдраи҅лю беꙁ оума <b>и</b></em>
+  * <tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt> 1: <em>ꙇ по н҄емь ꙇдошѧ народи мноꙃи о̆тъ галилеѩ ꙇ декаполѣӑ ꙇ отъ ꙇл҃ма ꙇ <b>и</b> юдеѩ ꙇ съ оного полоу ꙇо̆рдана</em>
+  * <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> 1: <em>нѣсте ли чьли ѣко сътвори <b>и</b> ꙇскони мѫжескъ полъ и женескъ сътворилъ естъ</em>
+* <em>и͑</em>
+  * <tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 1142: <em>блаженыи͑ же василискъ бѣа͑ше вь͗ темници плачⱕ сⱕ <b>и͑</b> молⱕ сⱕ и глагол̑ⱕ</em>
+  * <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 124: <em>ѥ͑стъ же <b>и͑</b> до сихъ дь͗ниї</em>
+  * <tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt> 1: <em>нагъ и͑зидохъ <b>и͑</b> чрѣва матере моѥѧ</em>
+  * <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> 1: <em>и͑ въсхытивъ <b>и͑</b> о͑тиде</em>
+  * <tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> 1: <em><b>и͑</b> о͑тъведʼ ѭ҄ повелѣ прити паулоу</em>
+* <em>нъ</em>
+  * <tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 875: <em>ты же си пожали и͑мʼже послѣжде възъванъ ѥ͑си <b>нъ</b> мнозѣхъ старѣи͗ бѫдеши</em>
+  * <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> 11: <em>Блажени вьси надѣѭщи сѩ на <b>нъ</b></em>
+  * <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 3: <em>а͑ не <b>нъ</b> толико множь͗ство трѫтъ о͑и͗мъскыи͗ плъкъ непрѣборемыи͗ тъчь͗нъ и͑ на бранехъ непобѣдимы</em>
+* <em>ї</em>
+  * <tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 312: <em><b>ї</b> на оучінанііхъ твоїхъ поглоумлѫ сѩ</em>
+  * <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> 28: <em>Коль кратꙑ прогнѣвашѩ <b>ї</b> въ поустꙑни</em>
+  * <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 10: <em>Къто прѣпрѣмѫдръ <b>ї</b> съхранітъ сі</em>
+  * <tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt> 1: <em>вѣдѣ ꙗ҅ко и҅ прѣжде мои҅хъ словесъ вѣсте вь҆си и҅ слꙑшали ѥ҅сте сергꙗ савраи҅тъскоуо҄умꙋ племени кнꙙꙁа поставьѥ҅на великомъ родомъ въ е҅ноꙁдрои҅нѣхъ и҅ междоурѣчии҆ о҅бласть҆ дръжавъ о҅тъ прѣдѣла срак҄инь҆ска и҅же мѫжеблажь҆ствиїмꙿ и҅ храбъръ бꙑвъ неже и҅нꙿ кто побѣдѫ сътвори по вса лѣта на пагоубнꙑѧ персꙑ и҅ на помагаѭ҄штꙙѧ тѣмꙿ срацинꙑ и҅ толико и҅мъ о҅долѣ ꙗ҅коже не тъчь҆ѭ҄ ꙁаключити и҅мъ вь҆сь въходъ въ гръчь҆скѫ ꙁемьѭ҄ вънъ прѣдѣлъ свои҅хъ нъ и҅ тоу и҅мъ сътѫжати и҅ <b>ї</b> своѥ҅ѧ҆ ꙁемь҆ѧ҆ прогонити ѧ҆ и҅же побѣждени о҅т н҄его мꙿноголичнѣ и҅ не могѫште противити сꙙ противѫ о҅дръжꙙштии҆ ѥ҅го силѣ вѣдѫште ѥ҅го непобѣдимоѥ҅ и҅ не бꙑти противномъ и҅мъ на брань симъ ѥ҅дномоу тъчь҆ѭ҄ о҅браꙁоу о҅стати и҅мъ на о҄умꙑшл҄ень҆ѥ҆ сп꙯сенью҄ о҄увѣдѣшꙙ рода своего влъшь҆бнѫѭ҄ хꙑтрость҆</em>
+  * <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt> 1: <em>вь҆си о̑убо сь҆лѣи҅мъ сꙙ вь҆ тѣло ѥ҅дꙿно не пльти <b>ї</b> дроугъ къ дроугꙋ сь҆мѣѭ̑ште нъ доушꙙ коупьно къ любь҆въноуо̑умоу сьвѫꙁоу приклоупь҆ꙗ҅ѭ̑ште</em>
+  * <tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt> 1: <em>р҃҃ <b>ї</b></em>
+* <em>і</em>
+  * <tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 404: <em>гласомь моімь къ б҃оу <b>і</b> вънѩтъ мі</em>
+  * <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> 205: <em>Възлюбішѩ <b>і</b> оустꙑ своімі</em>
+  * <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 19: <em>Ѣко прѣсельнікъ есмъ а оу тебе І прішьлецъ ѣкоже <b>і</b> въсі оц҃і моі</em>
+  * <tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt> 2: <em>Ѣко т-ъі стръгоі мѩ <b>і</b> штрѣва оупъванъе мое отъ сосьцю матері моеѩ</em>
+* <em>ни</em>
+  * <tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 421: <em>не и҅маши ли и҅ного никакогоже съсѫда <b>ни</b> ли риꙁъна да даси ѥ҅моу</em>
+  * <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 160: <em>и҅ вь҆слѣдьствовашꙙ ѥ҅го <b>ни</b> ѥ҅дꙿного о҅тъ чловѣкъ врѣдꙙште</em>
+  * <tt><a href="cu_proiel-pos-INTJ.html">INTJ</a></tt> 20: <em><b>ни</b> нъ о͑бычаи͗ отецъ нашихъ о̑увѣри насъ</em>
+  * <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> 11: <em>и͑ <b>ни</b> ѥ͑дінъ о͑тъ насъ не бы я͑звь͗нъ о͑тъ толика народа</em>
+  * <tt><a href="cu_proiel-pos-DET.html">DET</a></tt> 8: <em>и҅ꙁведе си <b>ни</b> ѥ҅дного же и҅мѣѧ сь҆вѣтника и҅ приꙗ҅ꙁни</em>
+* <em>а҅</em>
+  * <tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 225: <em><b>а҅</b> мало ми ѥ҅си далъ</em>
+  * <tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> 9: <em>г꙯и <b>а҅</b> бꙑ сь҆де бꙑлъ не бꙑ о̑умрълъ братъ наю̑</em>
+  * <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt> 1: <em>и҅ тꙑ бисръ <b>а҅</b> дъскꙑ и҅миже сꙙ красꙙтъ ꙁь҆лѣ о̑умножаѥ҅ши</em>
+* <em>а</em>
+  * <tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 207: <em>Соблазні ѩ по непрѣходънѣ <b>а</b> не по пѫті</em>
+  * <tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt> 11: <em>о҃ <b>а</b></em>
+  * <tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt> 2: <em>и въставъ вьꙁдѣ рѫцѣ свои н <b>а</b> небо и҅ благодари бога</em>
+  * <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt> 1: <em>Не сътѧжите злата ни съребра ни мѣди при поѣсѣхъ вашихъ ни мошьнꙑ на пѫти ни дъвою ризоу ни сапогъ ни <b>а</b></em>
+  * <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> 1: <em>Ѣко прѣсельнікъ есмъ <b>а</b> оу тебе І прішьлецъ ѣкоже і въсі оц҃і моі</em>
+  * <tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt> 1: <em>свꙙтъ ѥси боже и҅же божь҆ствомъ свои҅мъ съпоустивꙑи о̑убогоуо̑умоу <b>а</b> сь небесе д ти покорена сѫтъ</em>
+  * <tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> 1: <em><b>а</b> ҅ште тако о҄устрашимъ сꙙ ꙁемънꙑѧ мѫкꙑ и҅ мь҆сти ѧ҅же а҅ште и҅ многꙑ сѫтъ не могѫтъ въи҅нѫ и҅ при҅сно дръжати вь се мѫчимааго жрътиꙗ раді соуѥ҅тънꙑи҆мъ богомъ колико паче би о҄ужасати сꙙ намъ х꙯а и҅соуса могѫштаа҅го мѫками о҄уготованꙑи҅ми о҅ть҆ н҄его беꙁаконънꙑи҅мъ о҄удръжати вь вѣкꙑ вьсꙙ не противьшꙙѧ҅ сꙙ ѥ҅моу</em>
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 2.444444 (the average of all parts of speech is 3.276388).
+The form / lemma ratio of `CCONJ` is 3.388889 (the average of all parts of speech is 5.263244).
 
-The 1st highest number of forms (7) was observed with the lemma “и”: <em>и, и҅, й, і, і҅, ꙇ, ꙇ҅</em>.
+The 1st highest number of forms (18) was observed with the lemma “и”: <em>(І), (и, (и), ̕И, ͑И, и, и͑, и͗, и҅, и҆, й, і, і҅, ї, ї꙯, ҅И, ꙇ, ꙇ҅</em>.
 
-The 2nd highest number of forms (4) was observed with the lemma “или”: <em>или, ꙇли, ꙇлꙇ, ꙇ҅ли</em>.
+The 2nd highest number of forms (10) was observed with the lemma “или”: <em>и͑ли, и͑лі, или, и҅, и҅ли, и҆ли, ілі, ꙇли, ꙇлꙇ, ꙇ҅ли</em>.
 
-The 3rd highest number of forms (3) was observed with the lemma “нъ”: <em>нъ, нь, нꙑ</em>.
+The 3rd highest number of forms (10) was observed with the lemma “нъ”: <em>на, но, нъ, нъ҅, нъ҆, нь, нь͗, нь҆, нꙑ, съ</em>.
 
 `CCONJ` does not occur with any features.
 
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 5 different relations: <tt><a href="cu_proiel-dep-cc.html">cc</a></tt> (4865; 99% instances), <tt><a href="cu_proiel-dep-root.html">root</a></tt> (31; 1% instances), <tt><a href="cu_proiel-dep-orphan.html">orphan</a></tt> (18; 0% instances), <tt><a href="cu_proiel-dep-ccomp.html">ccomp</a></tt> (3; 0% instances), <tt><a href="cu_proiel-dep-appos.html">appos</a></tt> (1; 0% instances)
+`CCONJ` nodes are attached to their parents using 7 different relations: <tt><a href="cu_proiel-dep-cc.html">cc</a></tt> (15506; 100% instances), <tt><a href="cu_proiel-dep-conj.html">conj</a></tt> (6; 0% instances), <tt><a href="cu_proiel-dep-obl.html">obl</a></tt> (4; 0% instances), <tt><a href="cu_proiel-dep-ccomp.html">ccomp</a></tt> (3; 0% instances), <tt><a href="cu_proiel-dep-root.html">root</a></tt> (3; 0% instances), <tt><a href="cu_proiel-dep-appos.html">appos</a></tt> (2; 0% instances), <tt><a href="cu_proiel-dep-fixed.html">fixed</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 13 different parts of speech: <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> (3505; 71% instances), <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt> (667; 14% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (233; 5% instances), <tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt> (149; 3% instances), <tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt> (147; 3% instances), <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (83; 2% instances), <tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt> (51; 1% instances), <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (34; 1% instances),  (31; 1% instances), <tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> (12; 0% instances), <tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="cu_proiel-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 14 different parts of speech: <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> (10451; 67% instances), <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt> (3142; 20% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (935; 6% instances), <tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt> (271; 2% instances), <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (262; 2% instances), <tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt> (201; 1% instances), <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (178; 1% instances), <tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt> (69; 0% instances), <tt><a href="cu_proiel-pos-INTJ.html">INTJ</a></tt> (5; 0% instances), <tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt> (3; 0% instances),  (3; 0% instances), <tt><a href="cu_proiel-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="cu_proiel-pos-X.html">X</a></tt> (1; 0% instances)
 
-4887 (99%) `CCONJ` nodes are leaves.
+15525 (100%) `CCONJ` nodes are leaves.
 
-11 (0%) `CCONJ` nodes have one child.
-
-7 (0%) `CCONJ` nodes have two children.
-
-13 (0%) `CCONJ` nodes have three or more children.
-
-The highest child degree of a `CCONJ` node is 11.
-
-Children of `CCONJ` nodes are attached using 11 different relations: <tt><a href="cu_proiel-dep-advcl.html">advcl</a></tt> (12; 15% instances), <tt><a href="cu_proiel-dep-cc.html">cc</a></tt> (12; 15% instances), <tt><a href="cu_proiel-dep-conj.html">conj</a></tt> (11; 13% instances), <tt><a href="cu_proiel-dep-nsubj.html">nsubj</a></tt> (11; 13% instances), <tt><a href="cu_proiel-dep-advmod.html">advmod</a></tt> (7; 9% instances), <tt><a href="cu_proiel-dep-obl.html">obl</a></tt> (7; 9% instances), <tt><a href="cu_proiel-dep-iobj.html">iobj</a></tt> (6; 7% instances), <tt><a href="cu_proiel-dep-obj.html">obj</a></tt> (5; 6% instances), <tt><a href="cu_proiel-dep-vocative.html">vocative</a></tt> (5; 6% instances), <tt><a href="cu_proiel-dep-parataxis.html">parataxis</a></tt> (4; 5% instances), <tt><a href="cu_proiel-dep-discourse.html">discourse</a></tt> (2; 2% instances)
-
-Children of `CCONJ` nodes belong to 9 different parts of speech: <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> (24; 29% instances), <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt> (18; 22% instances), <tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> (12; 15% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (9; 11% instances), <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (9; 11% instances), <tt><a href="cu_proiel-pos-INTJ.html">INTJ</a></tt> (5; 6% instances), <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt> (1; 1% instances)
+The highest child degree of a `CCONJ` node is 0.
 

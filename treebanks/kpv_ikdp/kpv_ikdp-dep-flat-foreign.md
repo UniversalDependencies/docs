@@ -104,7 +104,7 @@ The following 3 pairs of parts of speech are connected with `flat:foreign`: <tt>
 15	канму	канму	NOUN	N	Case=Nom|Number=Sing	16	compound	_	GTtags=Sg,Nom
 16	университет	университет	NOUN	N	Case=Nom|Number=Sing	13	obj	_	GTtags=Sg,Nom|SpaceAfter=No
 17	,	,	PUNCT	PUNCT	_	19	punct	_	_
-18	«	_	PUNCT	PUNCT	_	19	punct	_	|SpaceAfter=No
+18	«	_	PUNCT	PUNCT	_	19	punct	_	SpaceAfter=No
 19	международные	международные	X	_	_	22	nmod:appos	_	_
 20	отношения	отношения	X	_	_	19	flat:foreign	_	SpaceAfter=No
 21	»	_	PUNCT	PUNCT	_	19	punct	_	_

@@ -37,7 +37,7 @@ The 10 most frequent ambiguous types:  <em>ве</em> (<tt><a href="myv_jr-pos-NU
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.527778 (the average of all parts of speech is 2.080808).
+The form / lemma ratio of `NUM` is 1.527778 (the average of all parts of speech is 2.081114).
 
 The 1st highest number of forms (7) was observed with the lemma “вейке”: <em>вейке, вейкеде, вейкекс, вейкесь, вейкеськак, вейкеть, вейкеяк</em>.
 

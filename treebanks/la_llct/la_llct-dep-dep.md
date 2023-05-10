@@ -29,7 +29,7 @@ The following 10 pairs of parts of speech are connected with `dep`: <tt><a href=
 5	sicut	sicut	SCONJ	c|c|-|-|-|-|-|-|-|-	_	7	mark	_	_
 6	superius	superius	ADV	d|d|-|-|-|-|-|-|-|c	Degree=Cmp	7	advmod	_	_
 7	legitur	lego	VERB	v|v|3|s|p|i|p|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	8	advcl	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
-8	fieri	fio	VERB	v|v|-|-|p|n|p|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Pass	9	ccomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+8	fieri	fio	VERB	v|v|-|-|p|n|p|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Pass	9	ccomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 9	rogavit	rogo	VERB	v|v|3|s|r|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	acl:relcl	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Perfectum
 10	,	,	PUNCT	Punc	_	9	punct	_	_
 11	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	13	advmod:emph	_	_

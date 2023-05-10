@@ -65,7 +65,7 @@ The 10 most frequent ambiguous types:  <em>che</em> (<tt><a href="it_postwita-po
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 2.112676 (the average of all parts of speech is 1.310744).
+The form / lemma ratio of `PRON` is 2.112676 (the average of all parts of speech is 1.310882).
 
 The 1st highest number of forms (9) was observed with the lemma “quello”: <em>kvelli, qll, quel, quella, quelle, quelle/i, quelli, quello, quellp</em>.
 

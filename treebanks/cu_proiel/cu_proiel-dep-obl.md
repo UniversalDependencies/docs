@@ -7,50 +7,52 @@ udver: '2'
 ## Treebank Statistics: UD_Old_Church_Slavonic-PROIEL: Relations: `obl`
 
 This relation is universal.
-There are 1 language-specific subtypes of `obl`: <tt><a href="cu_proiel-dep-obl-agent.html">obl:agent</a></tt>.
+There are 2 language-specific subtypes of `obl`: <tt><a href="cu_proiel-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="cu_proiel-dep-obl-arg.html">obl:arg</a></tt>.
 
-4088 nodes (7%) are attached to their parents as `obl`.
+14959 nodes (8%) are attached to their parents as `obl`.
 
-3004 instances of `obl` (73%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.69006849315068.
+9842 instances of `obl` (66%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.70526104686142.
 
-The following 38 pairs of parts of speech are connected with `obl`: <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt> (2266; 55% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (1038; 25% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt> (200; 5% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (193; 5% instances), <tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt> (71; 2% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt> (44; 1% instances), <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt> (42; 1% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (31; 1% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt> (29; 1% instances), <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt> (26; 1% instances), <tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (21; 1% instances), <tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt> (16; 0% instances), <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt> (14; 0% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> (14; 0% instances), <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (12; 0% instances), <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (12; 0% instances), <tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt> (7; 0% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="cu_proiel-pos-INTJ.html">INTJ</a></tt>-<tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt>-<tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 54 pairs of parts of speech are connected with `obl`: <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt> (9395; 63% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (3147; 21% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt> (481; 3% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt> (359; 2% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (205; 1% instances), <tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt> (190; 1% instances), <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt> (174; 1% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (143; 1% instances), <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt> (132; 1% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> (114; 1% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt> (97; 1% instances), <tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (83; 1% instances), <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (73; 0% instances), <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (66; 0% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt> (39; 0% instances), <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt> (38; 0% instances), <tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt> (25; 0% instances), <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt> (19; 0% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (15; 0% instances), <tt><a href="cu_proiel-pos-INTJ.html">INTJ</a></tt>-<tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (14; 0% instances), <tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt> (13; 0% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt> (11; 0% instances), <tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt> (10; 0% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt> (9; 0% instances), <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (8; 0% instances), <tt><a href="cu_proiel-pos-INTJ.html">INTJ</a></tt>-<tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt> (8; 0% instances), <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt>-<tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> (6; 0% instances), <tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> (6; 0% instances), <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt>-<tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 obl	color:blue
-1	не	не	ADV	Df	Polarity=Neg	4	advmod	_	Ref=MATT_5.33
-2	въ	въ	ADP	R-	_	3	case	_	Ref=MATT_5.33
-3	лъжѫ	лъжа	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obl	_	Ref=MATT_5.33
-4	клънеши	клѧти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_5.33
-5	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	4	expl	_	Ref=MATT_5.33
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 8 obl	color:blue
+1	ꙇ	и	CCONJ	C-	_	7	cc	_	ref=
+2	вѣра	вѣра	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	ref=
+3	твоѣ	твои	DET	Ps	Case=Nom|Gender=Fem|Number=Sing|Person=2|Poss=Yes	2	det	_	ref=
+4	въ	въ	ADP	R-	_	5	case	_	ref=
+5	насъ	мꙑ	PRON	Pp	Case=Loc|Number=Plur|Person=1|PronType=Prs	7	obl	_	ref=
+6	да	да	ADV	Df	_	7	advmod	_	ref=
+7	въздрастетъ	въздрасти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+8	г҃мь	господь	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	7	obl	_	ref=
+9	нашімь	нашь	DET	Ps	Case=Ins|Gender=Masc|Number=Sing|Person=1|Poss=Yes	8	det	_	ref=
+10	и҃см	исоусъ	PROPN	Ne	Case=Ins|Gender=Masc|Number=Sing	8	appos	_	ref=
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 13 obl	color:blue
-1	аще	аще	SCONJ	G-	_	6	mark	_	Ref=MATT_5.29
-2	же	же	ADV	Df	_	8	discourse	_	Ref=MATT_5.29
-3	око	око	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	Ref=MATT_5.29
-4	твое	твои	ADJ	Ps	Case=Nom|Gender=Neut|Number=Sing|Person=2|Poss=Yes	3	nmod	_	Ref=MATT_5.29
-5	десное	деснъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	Ref=MATT_5.29
-6	съблажнаатъ	съблажнꙗти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	Ref=MATT_5.29
-7	тѧ	тꙑ	PRON	Pp	Case=Acc|Number=Sing|Person=2|PronType=Prs	6	obj	_	Ref=MATT_5.29
-8	ꙇзьми	изѧти	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_5.29
-9	е	и	PRON	Pp	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	obj	_	Ref=MATT_5.29
-10	и	и	CCONJ	C-	_	8	cc	_	Ref=MATT_5.29
-11	връзи	врѣщи	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	Ref=MATT_5.29
-12	отъ	отъ	ADP	R-	_	13	case	_	Ref=MATT_5.29
-13	тебе	тꙑ	PRON	Pp	Case=Gen|Number=Sing|Person=2|PronType=Prs	11	obl	_	Ref=MATT_5.29
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 5 obl	color:blue
+1	ꙇ	и	CCONJ	C-	_	7	cc	_	ref=
+2	вѣра	вѣра	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	ref=
+3	твоѣ	твои	DET	Ps	Case=Nom|Gender=Fem|Number=Sing|Person=2|Poss=Yes	2	det	_	ref=
+4	въ	въ	ADP	R-	_	5	case	_	ref=
+5	насъ	мꙑ	PRON	Pp	Case=Loc|Number=Plur|Person=1|PronType=Prs	7	obl	_	ref=
+6	да	да	ADV	Df	_	7	advmod	_	ref=
+7	въздрастетъ	въздрасти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+8	г҃мь	господь	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	7	obl	_	ref=
+9	нашімь	нашь	DET	Ps	Case=Ins|Gender=Masc|Number=Sing|Person=1|Poss=Yes	8	det	_	ref=
+10	и҃см	исоусъ	PROPN	Ne	Case=Ins|Gender=Masc|Number=Sing	8	appos	_	ref=
 
 ~~~
 
@@ -61,16 +63,11 @@ The following 38 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 5 obl	color:blue
-1	ꙇ	и	CCONJ	C-	_	6	cc	_	Ref=MATT_21.10
-2	въшедъшоу	вънити	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	6	advcl	_	Ref=MATT_21.10
-3	емоу	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Ref=MATT_21.10
-4	въ	въ	ADP	R-	_	5	case	_	Ref=MATT_21.10
-5	иероусалимъ	иѥроусалимъ	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	2	obl	_	Ref=MATT_21.10
-6	потрѧсе	потрѧсти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_21.10
-7	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	6	expl	_	Ref=MATT_21.10
-8	весь	вьсь	DET	Px	Case=Nom|Gender=Masc|Number=Sing	9	det	_	Ref=MATT_21.10
-9	градъ	градъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	Ref=MATT_21.10
-10	г҃лѧ	глаголати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	6	advcl	_	Ref=MATT_21.10
+1	Ї	и	CCONJ	C-	_	2	cc	_	ref=77.5
+2	въздвіже	въздвигнѫти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=77.5
+3	съвѣдѣніе	съвѣдѣниѥ	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	ref=77.5
+4	въ	въ	ADP	R-	_	5	case	_	ref=77.5
+5	іѣковѣ	иꙗковъ	PROPN	Ne	Case=Loc|Gender=Masc|Number=Sing	2	obl	_	ref=77.5
 
 ~~~
 

@@ -124,4 +124,4 @@ A very special type of Pomamk infinitives is related to a small number of imperf
 - *lǘštiti lǘštiti (lǘllem)* "swing and swing" 
 - *vórttiti vórttiti (vórtem)* "turn and turn" 
 - *séktiti séktiti (séčem)* "strike and strike (with an axe)" 
-<!-- Interlanguage links updated Po lis 14 15:35:00 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:51 CEST -->

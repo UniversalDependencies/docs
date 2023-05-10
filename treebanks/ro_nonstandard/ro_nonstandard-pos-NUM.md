@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>mii</em> (<tt><a href="ro_nonstandard
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.385027 (the average of all parts of speech is 2.492163).
+The form / lemma ratio of `NUM` is 1.385027 (the average of all parts of speech is 2.491875).
 
 The 1st highest number of forms (18) was observed with the lemma “doi”: <em>da, dao, doa, doao, doaoa, doaua, doauă, doaă, doi, doiele, doile, doilea, doili, doo, doua, douo, două, doă</em>.
 

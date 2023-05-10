@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Chinese-PUD: POS Tags: `PRON`
 
-There are 1 `PRON` lemmas (7%), 37 `PRON` types (1%) and 710 `PRON` tokens (3%).
-Out of 15 observed tags, the rank of `PRON` is: 10 in number of lemmas, 11 in number of types and 9 in number of tokens.
+There are 33 `PRON` lemmas (1%), 37 `PRON` types (1%) and 710 `PRON` tokens (3%).
+Out of 15 observed tags, the rank of `PRON` is: 10 in number of lemmas, 11 in number of types and 10 in number of tokens.
 
-The 10 most frequent `PRON` lemmas: _
+The 10 most frequent `PRON` lemmas: 他、 我、 她、 它、 這、 其、 自己、 此、 你、 什麼
 
 The 10 most frequent `PRON` types:  他、 他們、 她、 我、 這、 其、 它、 我們、 自己、 此
 
-The 10 most frequent ambiguous lemmas: _ (<tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> 5410, <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt> 3467, <tt><a href="zh_pud-pos-PUNCT.html">PUNCT</a></tt> 2902, <tt><a href="zh_pud-pos-PART.html">PART</a></tt> 1881, <tt><a href="zh_pud-pos-PROPN.html">PROPN</a></tt> 1361, <tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> 1288, <tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 1283, <tt><a href="zh_pud-pos-NUM.html">NUM</a></tt> 873, <tt><a href="zh_pud-pos-PRON.html">PRON</a></tt> 710, <tt><a href="zh_pud-pos-ADJ.html">ADJ</a></tt> 650, <tt><a href="zh_pud-pos-AUX.html">AUX</a></tt> 618, <tt><a href="zh_pud-pos-DET.html">DET</a></tt> 355, <tt><a href="zh_pud-pos-X.html">X</a></tt> 306, <tt><a href="zh_pud-pos-CCONJ.html">CCONJ</a></tt> 283, <tt><a href="zh_pud-pos-SCONJ.html">SCONJ</a></tt> 28)
+The 10 most frequent ambiguous lemmas: 這 (<tt><a href="zh_pud-pos-DET.html">DET</a></tt> 107, <tt><a href="zh_pud-pos-PRON.html">PRON</a></tt> 45), 此 (<tt><a href="zh_pud-pos-PRON.html">PRON</a></tt> 20, <tt><a href="zh_pud-pos-DET.html">DET</a></tt> 9), 之 (<tt><a href="zh_pud-pos-PART.html">PART</a></tt> 21, <tt><a href="zh_pud-pos-PRON.html">PRON</a></tt> 6), 那 (<tt><a href="zh_pud-pos-DET.html">DET</a></tt> 21, <tt><a href="zh_pud-pos-PRON.html">PRON</a></tt> 6, <tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 2), 怎麼 (<tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="zh_pud-pos-PRON.html">PRON</a></tt> 2), 個人 (<tt><a href="zh_pud-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="zh_pud-pos-PRON.html">PRON</a></tt> 1)
 
 The 10 most frequent ambiguous types:  這 (<tt><a href="zh_pud-pos-DET.html">DET</a></tt> 107, <tt><a href="zh_pud-pos-PRON.html">PRON</a></tt> 45), 此 (<tt><a href="zh_pud-pos-PRON.html">PRON</a></tt> 20, <tt><a href="zh_pud-pos-DET.html">DET</a></tt> 9), 之 (<tt><a href="zh_pud-pos-PART.html">PART</a></tt> 21, <tt><a href="zh_pud-pos-PRON.html">PRON</a></tt> 6), 那 (<tt><a href="zh_pud-pos-DET.html">DET</a></tt> 21, <tt><a href="zh_pud-pos-PRON.html">PRON</a></tt> 6, <tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 2), 怎麼 (<tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="zh_pud-pos-PRON.html">PRON</a></tt> 2), 個人 (<tt><a href="zh_pud-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="zh_pud-pos-PRON.html">PRON</a></tt> 1)
 
@@ -40,9 +40,13 @@ The 10 most frequent ambiguous types:  這 (<tt><a href="zh_pud-pos-DET.html">DE
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 37.000000 (the average of all parts of speech is 388.466667).
+The form / lemma ratio of `PRON` is 1.121212 (the average of all parts of speech is 1.006233).
 
-The 1st highest number of forms (37) was observed with the lemma “_”: 之, 什麼, 他, 他們, 何, 你, 你們, 個人, 其, 哪, 哪兒, 大家, 她, 她們, 它, 它們, 對方, 怎麼, 您, 我, 我們, 此, 牠們, 甚麽, 自己, 自身, 誰, 這, 這樣, 這裡, 這麼, 那, 那兒, 那樣, 那裡, 那里, 閣下.
+The 1st highest number of forms (2) was observed with the lemma “他”: 他, 他們.
+
+The 2nd highest number of forms (2) was observed with the lemma “她”: 她, 她們.
+
+The 3rd highest number of forms (2) was observed with the lemma “它”: 它, 它們.
 
 `PRON` occurs with 2 features: <tt><a href="zh_pud-feat-Person.html">Person</a></tt> (543; 76% instances), <tt><a href="zh_pud-feat-Number.html">Number</a></tt> (144; 20% instances)
 
@@ -55,9 +59,9 @@ Examples: 他、 她、 其、 他們、 它、 它們、 她們、 牠們
 
 ## Relations
 
-`PRON` nodes are attached to their parents using 16 different relations: <tt><a href="zh_pud-dep-nsubj.html">nsubj</a></tt> (393; 55% instances), <tt><a href="zh_pud-dep-nmod.html">nmod</a></tt> (105; 15% instances), <tt><a href="zh_pud-dep-compound.html">compound</a></tt> (73; 10% instances), <tt><a href="zh_pud-dep-obj.html">obj</a></tt> (53; 7% instances), <tt><a href="zh_pud-dep-obl.html">obl</a></tt> (43; 6% instances), <tt><a href="zh_pud-dep-nsubj-pass.html">nsubj:pass</a></tt> (9; 1% instances), <tt><a href="zh_pud-dep-appos.html">appos</a></tt> (8; 1% instances), <tt><a href="zh_pud-dep-advmod.html">advmod</a></tt> (6; 1% instances), <tt><a href="zh_pud-dep-obl-patient.html">obl:patient</a></tt> (6; 1% instances), <tt><a href="zh_pud-dep-det.html">det</a></tt> (3; 0% instances), <tt><a href="zh_pud-dep-root.html">root</a></tt> (3; 0% instances), <tt><a href="zh_pud-dep-ccomp.html">ccomp</a></tt> (2; 0% instances), <tt><a href="zh_pud-dep-obl-agent.html">obl:agent</a></tt> (2; 0% instances), <tt><a href="zh_pud-dep-xcomp.html">xcomp</a></tt> (2; 0% instances), <tt><a href="zh_pud-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="zh_pud-dep-iobj.html">iobj</a></tt> (1; 0% instances)
+`PRON` nodes are attached to their parents using 15 different relations: <tt><a href="zh_pud-dep-nsubj.html">nsubj</a></tt> (393; 55% instances), <tt><a href="zh_pud-dep-nmod.html">nmod</a></tt> (105; 15% instances), <tt><a href="zh_pud-dep-compound.html">compound</a></tt> (73; 10% instances), <tt><a href="zh_pud-dep-obj.html">obj</a></tt> (53; 7% instances), <tt><a href="zh_pud-dep-obl.html">obl</a></tt> (49; 7% instances), <tt><a href="zh_pud-dep-nsubj-pass.html">nsubj:pass</a></tt> (9; 1% instances), <tt><a href="zh_pud-dep-appos.html">appos</a></tt> (8; 1% instances), <tt><a href="zh_pud-dep-obl-patient.html">obl:patient</a></tt> (6; 1% instances), <tt><a href="zh_pud-dep-det.html">det</a></tt> (3; 0% instances), <tt><a href="zh_pud-dep-root.html">root</a></tt> (3; 0% instances), <tt><a href="zh_pud-dep-ccomp.html">ccomp</a></tt> (2; 0% instances), <tt><a href="zh_pud-dep-obl-agent.html">obl:agent</a></tt> (2; 0% instances), <tt><a href="zh_pud-dep-xcomp.html">xcomp</a></tt> (2; 0% instances), <tt><a href="zh_pud-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="zh_pud-dep-iobj.html">iobj</a></tt> (1; 0% instances)
 
-Parents of `PRON` nodes belong to 10 different parts of speech: <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt> (456; 64% instances), <tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> (212; 30% instances), <tt><a href="zh_pud-pos-ADJ.html">ADJ</a></tt> (26; 4% instances), <tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="zh_pud-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="zh_pud-pos-PROPN.html">PROPN</a></tt> (3; 0% instances),  (3; 0% instances), <tt><a href="zh_pud-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="zh_pud-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="zh_pud-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `PRON` nodes belong to 10 different parts of speech: <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt> (465; 65% instances), <tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> (212; 30% instances), <tt><a href="zh_pud-pos-ADJ.html">ADJ</a></tt> (17; 2% instances), <tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="zh_pud-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="zh_pud-pos-PROPN.html">PROPN</a></tt> (3; 0% instances),  (3; 0% instances), <tt><a href="zh_pud-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="zh_pud-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="zh_pud-pos-X.html">X</a></tt> (1; 0% instances)
 
 529 (75%) `PRON` nodes are leaves.
 

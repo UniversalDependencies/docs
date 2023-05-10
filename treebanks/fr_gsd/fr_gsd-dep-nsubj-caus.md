@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_French-GSD: Relations: `nsubj:caus`
 
 This relation is a language-specific subtype of <tt><a href="fr_gsd-dep-nsubj.html">nsubj</a></tt>.
-There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="fr_gsd-dep-nsubj-pass.html">nsubj:pass</a></tt>.
+There are also 2 other language-specific subtypes of `nsubj`: <tt><a href="fr_gsd-dep-nsubj-outer.html">nsubj:outer</a></tt>, <tt><a href="fr_gsd-dep-nsubj-pass.html">nsubj:pass</a></tt>.
 
 132 nodes (0%) are attached to their parents as `nsubj:caus`.
 
@@ -23,8 +23,8 @@ The following 3 pairs of parts of speech are connected with `nsubj:caus`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 1 nsubj:caus	color:blue
-1	Il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj:caus	_	wordform=il
-2	s'	se	PRON	_	Person=3|PronType=Prs|Reflex=Yes	5	iobj	_	SpaceAfter=No
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj:caus	_	wordform=il
+2	s'	soi	PRON	_	Emph=No|Person=3|PronType=Prs|Reflex=Yes	5	iobj	_	SpaceAfter=No
 3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:tense	_	_
 4	fait	faire	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	aux:caus	_	_
 5	poser	poser	VERB	_	VerbForm=Inf	0	root	_	Subject=Generic
@@ -48,8 +48,8 @@ The following 3 pairs of parts of speech are connected with `nsubj:caus`: <tt><a
 3	,	,	PUNCT	_	_	5	punct	_	_
 4	ses	son	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	5	det	_	_
 5	enfants	enfant	NOUN	_	Number=Plur	2	conj	_	_
-6	le	le	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
-7	lui	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	iobj:agent	_	_
+6	le	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+7	lui	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	iobj:agent	_	_
 8	font	faire	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux:caus	_	_
 9	remarquer	remarquer	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No|Subject=Generic
 10	.	.	PUNCT	_	_	9	punct	_	_
@@ -65,7 +65,7 @@ The following 3 pairs of parts of speech are connected with `nsubj:caus`: <tt><a
 # visual-style 5 2 nsubj:caus	color:blue
 1	Les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	2	det	_	wordform=les
 2	Metelli	Metelli	PROPN	_	Number=Plur	5	nsubj:caus	_	_
-3	le	le	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+3	le	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
 4	font	faire	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux:caus	_	_
 5	emprisonner	emprisonner	VERB	_	VerbForm=Inf	0	root	_	Subject=Generic
 6	en	en	ADP	_	_	7	case	_	_

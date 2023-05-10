@@ -215,8 +215,9 @@ The most frequent other feature values with which `PRON` and `Voice` co-occurred
 ## Relations with Agreement in `Voice`
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
-<tt>VERB --[<tt><a href="ur_udtb-dep-obj.html">obj</a></tt>]--> VERB</tt> (975; 70%),
 <tt>VERB --[<tt><a href="ur_udtb-dep-conj.html">conj</a></tt>]--> VERB</tt> (883; 82%),
+<tt>VERB --[<tt><a href="ur_udtb-dep-obj.html">obj</a></tt>]--> VERB</tt> (755; 68%),
+<tt>VERB --[<tt><a href="ur_udtb-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (220; 82%),
 <tt>VERB --[<tt><a href="ur_udtb-dep-acl.html">acl</a></tt>]--> VERB</tt> (39; 71%),
 <tt>VERB --[<tt><a href="ur_udtb-dep-advcl.html">advcl</a></tt>]--> NOUN</tt> (2; 100%),
 <tt>VERB --[<tt><a href="ur_udtb-dep-obj.html">obj</a></tt>]--> PART</tt> (2; 67%),

@@ -33,7 +33,7 @@ The following 1 pairs of parts of speech are connected with `obl:arg`: <tt><a hr
 8	υπεργολαβικά	υπεργολαβικά	ADV	ADV	_	7	advmod	_	_
 9	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 10	υπηρεσία	υπηρεσία	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	_
-11	αυτή	αυτός	PRON	PRON	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Dem	10	det	_	SpaceAfter=No
+11	αυτή	αυτός	DET	DET	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Dem	10	det	_	SpaceAfter=No
 12	,	,	PUNCT	PUNCT	_	15	punct	_	_
 13	αν	αν	SCONJ	SCONJ	_	15	mark	_	_
 14	το	εγώ	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	obj	_	_

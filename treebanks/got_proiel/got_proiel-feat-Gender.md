@@ -13,7 +13,7 @@ Some words have combined values of the feature; 3 combinations have been observe
 27675 tokens (50%) have a non-empty value of `Gender`.
 5404 types (62%) occur at least once with a non-empty value of `Gender`.
 2481 lemmas (75%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 8 part-of-speech tags: <tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt> (10167; 18% instances), <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> (5799; 10% instances), <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> (4702; 8% instances), <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> (2564; 5% instances), <tt><a href="got_proiel-pos-DET.html">DET</a></tt> (2359; 4% instances), <tt><a href="got_proiel-pos-PROPN.html">PROPN</a></tt> (1720; 3% instances), <tt><a href="got_proiel-pos-NUM.html">NUM</a></tt> (292; 1% instances), <tt><a href="got_proiel-pos-AUX.html">AUX</a></tt> (72; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt> (10167; 18% instances), <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> (7164; 13% instances), <tt><a href="got_proiel-pos-DET.html">DET</a></tt> (3399; 6% instances), <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> (2636; 5% instances), <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> (2297; 4% instances), <tt><a href="got_proiel-pos-PROPN.html">PROPN</a></tt> (1720; 3% instances), <tt><a href="got_proiel-pos-NUM.html">NUM</a></tt> (292; 1% instances).
 
 ### `NOUN`
 
@@ -29,7 +29,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 * `Masc` (4594; 45% of non-empty `Gender`): <em>gudis, guþ, frauja, guda, fraujins, fraujin, manna, sunus, atta, sunaus</em>
 * `Masc,Neut` (55; 1% of non-empty `Gender`): <em>skufta, anza, faihuþraihna, gramsta, lew, skauta, plat, sinapis, staþa, stomin</em>
 * `Neut` (2134; 21% of non-empty `Gender`): <em>waurd, leika, andwairþja, leik, waurda, waiht, namin, witoda, witoþ, gawairþi</em>
-* `EMPTY` (70): <em>sabbato, rabbei, paska, manna, pasxa, anaþaima, atisk, liugn, skaudaraip, alabalstraun</em>
+* `EMPTY` (83): <em>sabbato, rabbei, paska, manna, osanna, pasxa, anaþaima, atisk, lima, liugn</em>
 
 <table>
   <tr><th>Paradigm <i>sunno</i></th><th><tt>Fem,Neut</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -42,18 +42,18 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 ### `PRON`
 
-5799 <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> tokens (99% of all `PRON` tokens) have a non-empty value of `Gender`.
+7164 <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> tokens (99% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="got_proiel-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (4624; 80%), <tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3842; 66%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4827; 67%), <tt><a href="got_proiel-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (4624; 65%).
 
 `PRON` tokens may have the following values of `Gender`:
 
-* `Fem` (273; 5% of non-empty `Gender`): <em>izai, sei, izos, þoei, þizaiei, sik, ƕo, þizozei, þozei, ija</em>
-* `Fem,Masc` (323; 6% of non-empty `Gender`): <em>izwis, jus, izwara, uns, unsis, weis, ik, sik, mik, þu</em>
-* `Masc` (4721; 81% of non-empty `Gender`): <em>imma, ina, izwis, is, im, mis, ik, saei, mik, þus</em>
-* `Masc,Neut` (12; 0% of non-empty `Gender`): <em>silbin, silbam, þammei</em>
-* `Neut` (470; 8% of non-empty `Gender`): <em>þatei, ƕa, þoei, ita, þammei, þizei, ƕamma, ƕis, im, is</em>
-* `EMPTY` (61): <em>izwis, mik, sis, ik, mis, sik, unsis, igqis, jus, uns</em>
+* `Fem` (384; 5% of non-empty `Gender`): <em>izai, sei, þo, izos, þoei, ƕo, þizaiei, sik, þizozei, so</em>
+* `Fem,Masc` (324; 5% of non-empty `Gender`): <em>izwis, jus, izwara, uns, unsis, weis, ik, sik, mik, þu</em>
+* `Masc` (5415; 76% of non-empty `Gender`): <em>imma, ina, izwis, is, im, mis, ik, saei, mik, þus</em>
+* `Masc,Neut` (15; 0% of non-empty `Gender`): <em>silbin, seinamma, silbam, unsar, þammei, þis</em>
+* `Neut` (1026; 14% of non-empty `Gender`): <em>ƕa, þata, þatei, all, þoei, þo, alla, allamma, allata, þat</em>
+* `EMPTY` (62): <em>izwis, mik, sis, ik, mis, sik, unsis, igqis, jus, uns</em>
 
 <table>
   <tr><th>Paradigm <i>ik</i></th><th><tt>Fem,Masc</tt></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -65,76 +65,20 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
   <tr><td><tt><tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td></td><td><em>meina</em></td></tr>
 </table>
 
-### `ADJ`
-
-4702 <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> tokens (98% of all `ADJ` tokens) have a non-empty value of `Gender`.
-
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="got_proiel-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3604; 77%), <tt><a href="got_proiel-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (3604; 77%), <tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3233; 69%), <tt><a href="got_proiel-feat-Strength.html">Strength</a></tt><tt>=EMPTY</tt> (2434; 52%), <tt><a href="got_proiel-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (2429; 52%).
-
-`ADJ` tokens may have the following values of `Gender`:
-
-* `Fem` (802; 17% of non-empty `Gender`): <em>meina, þeina, þo, izwara, seinai, seina, anþara, meinai, unsara, þeinai</em>
-* `Fem,Masc` (6; 0% of non-empty `Gender`): <em>izwaris, meinaim, seinos, sunjeins, þeinaim, þlaqus</em>
-* `Fem,Neut` (3; 0% of non-empty `Gender`): <em>silbo, taihswo, wraiqo</em>
-* `Masc` (2389; 51% of non-empty `Gender`): <em>sa, ƕas, sumai, managai, allai, þai, meins, ainshun, þamma, silba</em>
-* `Masc,Neut` (245; 5% of non-empty `Gender`): <em>unsaris, seinamma, meinamma, unsar, unsaramma, þeinamma, izwaramma, seinis, izwaris, godaize</em>
-* `Neut` (1257; 27% of non-empty `Gender`): <em>þata, all, mein, þo, alla, ƕa, allamma, allata, leitil, þat</em>
-* `EMPTY` (78): <em>izwaraim, meinaim, seinaim, swesaim, anþaraim, unsaraim, framaþjaim, godaim, managaim, ·a·</em>
-
-<table>
-  <tr><th>Paradigm <i>meins</i></th><th><tt>Fem,Masc</tt></th><th><tt>Masc</tt></th><th><tt>Masc,Neut</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="got_proiel-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td></td><td><em>meinana</em></td><td></td><td><em>meina</em></td><td><em>mein, meinata</em></td></tr>
-  <tr><td><tt><tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="got_proiel-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td></td><td><em>meinans</em></td><td></td><td><em>meinos</em></td><td><em>meina</em></td></tr>
-  <tr><td><tt><tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="got_proiel-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td></td><td><em>meinamma, meinai</em></td><td><em>meinamma</em></td><td><em>meinai</em></td><td><em>meinamma</em></td></tr>
-  <tr><td><tt><tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="got_proiel-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td></td><td></td><td></td><td></td><td><em>meinamma</em></td></tr>
-  <tr><td><tt><tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="got_proiel-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>meinaim</em></td><td><em>meinaim</em></td><td><em>meinaim</em></td><td></td><td><em>meinaim</em></td></tr>
-  <tr><td><tt><tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="got_proiel-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td></td><td><em>meinis</em></td><td><em>meinis</em></td><td><em>meinaizos</em></td><td><em>meinis</em></td></tr>
-  <tr><td><tt><tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="got_proiel-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td></td><td><em>meinaize</em></td><td></td><td><em>meinaizo</em></td><td><em>meinaize</em></td></tr>
-  <tr><td><tt><tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="got_proiel-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td></td><td><em>meins</em></td><td></td><td><em>meina</em></td><td><em>mein, meinata</em></td></tr>
-  <tr><td><tt><tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="got_proiel-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td></td><td><em>meinai</em></td><td></td><td></td><td><em>meina</em></td></tr>
-</table>
-
-### `VERB`
-
-2564 <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> tokens (23% of all `VERB` tokens) have a non-empty value of `Gender`.
-
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="got_proiel-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2564; 100%), <tt><a href="got_proiel-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2564; 100%), <tt><a href="got_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (2564; 100%), <tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1956; 76%), <tt><a href="got_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1854; 72%), <tt><a href="got_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1852; 72%), <tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1596; 62%), <tt><a href="got_proiel-feat-Strength.html">Strength</a></tt><tt>=Strong</tt> (1348; 53%).
-
-`VERB` tokens may have the following values of `Gender`:
-
-* `Fem` (228; 9% of non-empty `Gender`): <em>qiþandei, gasaiƕandei, gahausjandei, habandei, atgaggandei, atgibana, gibana, qimandei, qiþandeins, þiuþido</em>
-* `Masc` (2025; 79% of non-empty `Gender`): <em>qiþands, qiþandans, andhafjands, gasaiƕands, qimands, habandans, habands, gasaiƕandans, gahausjands, gahausjandans</em>
-* `Masc,Neut` (31; 1% of non-empty `Gender`): <em>libandins, andhulidamma, afwandjandane, bimaitanaize, faursniwandam, frawardidaize, gabairhtjandin, gafriþondin, gahulidamma, galaubjandam</em>
-* `Neut` (280; 11% of non-empty `Gender`): <em>gameliþ, skuld, gamelido, qiþan, atgiban, gamelid, hausjandona, waurþano, waurþanamma, diwano</em>
-* `EMPTY` (8650): <em>qaþ, warþ, qeþun, qiþa, wairþiþ, qam, qiþiþ, habaiþ, nist, galaiþ</em>
-
-<table>
-  <tr><th>Paradigm <i>giban</i></th><th><tt>Masc</tt></th><th><tt>Masc,Neut</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="got_proiel-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="got_proiel-feat-Strength.html">Strength</a></tt><tt>=Weak</tt>|<tt><a href="got_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="got_proiel-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td></td><td><em>gibanon</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="got_proiel-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="got_proiel-feat-Strength.html">Strength</a></tt><tt>=Weak</tt>|<tt><a href="got_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="got_proiel-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td></td><td><em>gibanon</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="got_proiel-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="got_proiel-feat-Strength.html">Strength</a></tt><tt>=Strong</tt>|<tt><a href="got_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="got_proiel-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td></td><td><em>gibana</em></td><td><em>giban</em></td></tr>
-  <tr><td><tt><tt><a href="got_proiel-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="got_proiel-feat-Strength.html">Strength</a></tt><tt>=Weak</tt>|<tt><a href="got_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="got_proiel-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td></td><td><em>gibano</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="got_proiel-feat-Strength.html">Strength</a></tt><tt>=Weak</tt>|<tt><a href="got_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="got_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>gibandan</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="got_proiel-feat-Strength.html">Strength</a></tt><tt>=Weak</tt>|<tt><a href="got_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="got_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>gibandin</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="got_proiel-feat-Strength.html">Strength</a></tt><tt>=Weak</tt>|<tt><a href="got_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="got_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>gibandins</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="got_proiel-feat-Strength.html">Strength</a></tt><tt>=Strong</tt>|<tt><a href="got_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="got_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>gibands</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="got_proiel-feat-Strength.html">Strength</a></tt><tt>=Weak</tt>|<tt><a href="got_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="got_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>gibandans</em></td><td></td><td></td><td></td></tr>
-</table>
-
 ### `DET`
 
-2359 <tt><a href="got_proiel-pos-DET.html">DET</a></tt> tokens (95% of all `DET` tokens) have a non-empty value of `Gender`.
+3399 <tt><a href="got_proiel-pos-DET.html">DET</a></tt> tokens (96% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1570; 67%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2379; 70%), <tt><a href="got_proiel-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2359; 69%), <tt><a href="got_proiel-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (2359; 69%).
 
 `DET` tokens may have the following values of `Gender`:
 
-* `Fem` (531; 23% of non-empty `Gender`): <em>so, þo, þizai, allai, alla, þizos, þos, allos, allaizos, jainai</em>
-* `Fem,Masc` (1; 0% of non-empty `Gender`): <em>allaim</em>
-* `Masc` (1234; 52% of non-empty `Gender`): <em>sa, þai, þamma, þana, þans, þaim, þize, þis, allai, allans</em>
-* `Masc,Neut` (164; 7% of non-empty `Gender`): <em>þamma, þis, þize, allaize, jainamma, allamma, þizei, ƕammeh, sumaize, þaim</em>
-* `Neut` (429; 18% of non-empty `Gender`): <em>þata, þo, þamma, all, alla, allata, þis, þize, þaim, allamma</em>
-* `EMPTY` (114): <em>þaim, allaim</em>
+* `Fem` (860; 25% of non-empty `Gender`): <em>so, þo, þizai, allai, alla, meina, þizos, þeina, þos, izwara</em>
+* `Fem,Masc` (4; 0% of non-empty `Gender`): <em>allaim, izwaris, meinaim, seinos</em>
+* `Masc` (1600; 47% of non-empty `Gender`): <em>sa, þai, þamma, þana, þans, þaim, þize, þis, meins, allai</em>
+* `Masc,Neut` (308; 9% of non-empty `Gender`): <em>þamma, þis, unsaris, þize, meinamma, seinamma, unsaramma, unsar, þeinamma, allaize</em>
+* `Neut` (627; 18% of non-empty `Gender`): <em>þata, þo, mein, þamma, izwara, þein, all, alla, izwar, meinamma</em>
+* `EMPTY` (149): <em>þaim, allaim, izwaraim, meinaim, seinaim, unsaraim</em>
 
 <table>
   <tr><th>Paradigm <i>alls</i></th><th><tt>Fem,Masc</tt></th><th><tt>Masc</tt></th><th><tt>Masc,Neut</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -147,6 +91,63 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
   <tr><td><tt><tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>alls</em></td><td></td><td><em>alla</em></td><td><em>all, allata</em></td></tr>
   <tr><td><tt><tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>allai</em></td><td></td><td><em>allos</em></td><td><em>alla</em></td></tr>
   <tr><td><tt><tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Voc</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td></td><td><em>allos</em></td><td></td></tr>
+</table>
+
+### `VERB`
+
+2636 <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> tokens (21% of all `VERB` tokens) have a non-empty value of `Gender`.
+
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="got_proiel-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2636; 100%), <tt><a href="got_proiel-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2636; 100%), <tt><a href="got_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (2636; 100%), <tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1999; 76%), <tt><a href="got_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1925; 73%), <tt><a href="got_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1923; 73%), <tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1637; 62%), <tt><a href="got_proiel-feat-Strength.html">Strength</a></tt><tt>=Strong</tt> (1372; 52%).
+
+`VERB` tokens may have the following values of `Gender`:
+
+* `Fem` (236; 9% of non-empty `Gender`): <em>qiþandei, gasaiƕandei, gahausjandei, habandei, wisandein, atgaggandei, atgibana, gibana, qimandei, qiþandeins</em>
+* `Masc` (2082; 79% of non-empty `Gender`): <em>qiþands, qiþandans, andhafjands, gasaiƕands, qimands, habandans, wisands, habands, wisandans, gasaiƕandans</em>
+* `Masc,Neut` (34; 1% of non-empty `Gender`): <em>libandins, andhulidamma, wisandam, afwandjandane, bimaitanaize, faursniwandam, frawardidaize, gabairhtjandin, gafriþondin, gahulidamma</em>
+* `Neut` (284; 11% of non-empty `Gender`): <em>gameliþ, skuld, gamelido, qiþan, atgiban, gamelid, hausjandona, waurþano, waurþanamma, diwano</em>
+* `EMPTY` (10119): <em>ist, qaþ, was, warþ, qeþun, qiþa, sind, im, wairþiþ, qam</em>
+
+<table>
+  <tr><th>Paradigm <i>wisan</i></th><th><tt>Masc</tt></th><th><tt>Masc,Neut</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
+  <tr><td><tt><tt><a href="got_proiel-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="got_proiel-feat-Strength.html">Strength</a></tt><tt>=Strong</tt>|<tt><a href="got_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="got_proiel-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>wisan</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="got_proiel-feat-Strength.html">Strength</a></tt><tt>=Weak</tt>|<tt><a href="got_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="got_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>wisandan</em></td><td></td><td></td><td><em>wisando</em></td></tr>
+  <tr><td><tt><tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="got_proiel-feat-Strength.html">Strength</a></tt><tt>=Weak</tt>|<tt><a href="got_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="got_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>wisandans</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="got_proiel-feat-Strength.html">Strength</a></tt><tt>=Weak</tt>|<tt><a href="got_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="got_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>wisandin</em></td><td></td><td><em>wisandein, wisandin</em></td><td><em>wisandin</em></td></tr>
+  <tr><td><tt><tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="got_proiel-feat-Strength.html">Strength</a></tt><tt>=Weak</tt>|<tt><a href="got_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="got_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>wisandam</em></td><td><em>wisandam</em></td><td><em>wisandeim</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="got_proiel-feat-Strength.html">Strength</a></tt><tt>=Weak</tt>|<tt><a href="got_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="got_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>wisandins</em></td><td><em>wisandins</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="got_proiel-feat-Strength.html">Strength</a></tt><tt>=Strong</tt>|<tt><a href="got_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="got_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>wisands</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="got_proiel-feat-Strength.html">Strength</a></tt><tt>=Weak</tt>|<tt><a href="got_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="got_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>wisandei</em></td><td><em>wisando</em></td></tr>
+  <tr><td><tt><tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="got_proiel-feat-Strength.html">Strength</a></tt><tt>=Weak</tt>|<tt><a href="got_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="got_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>wisandans</em></td><td></td><td></td><td><em>wisandona</em></td></tr>
+</table>
+
+### `ADJ`
+
+2297 <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> tokens (98% of all `ADJ` tokens) have a non-empty value of `Gender`.
+
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="got_proiel-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (2046; 89%), <tt><a href="got_proiel-feat-Strength.html">Strength</a></tt><tt>=Strong</tt> (1547; 67%), <tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1439; 63%).
+
+`ADJ` tokens may have the following values of `Gender`:
+
+* `Fem` (362; 16% of non-empty `Gender`): <em>anþara, aiweinon, mikilai, managos, taihswon, mikila, managa, goda, managai, samon</em>
+* `Fem,Masc` (2; 0% of non-empty `Gender`): <em>sunjeins, þlaqus</em>
+* `Fem,Neut` (3; 0% of non-empty `Gender`): <em>silbo, taihswo, wraiqo</em>
+* `Masc` (1329; 58% of non-empty `Gender`): <em>managai, silba, dauþaim, silban, silbans, managans, dauþans, anþarai, auhumistans, anþaramma</em>
+* `Masc,Neut` (98; 4% of non-empty `Gender`): <em>godaize, anþaramma, silbam, managamma, auhumistins, hrainjamma, liubin, þridjin, fairnin, frumin</em>
+* `Neut` (503; 22% of non-empty `Gender`): <em>leitil, goþ, anþar, manag, samo, ubil, managizo, batizo, god, ubila</em>
+* `EMPTY` (42): <em>swesaim, anþaraim, framaþjaim, godaim, managaim, ·a·, ·b·, silbam, spedistaim, ubilaim</em>
+
+<table>
+  <tr><th>Paradigm <i>silba</i></th><th><tt>Fem,Neut</tt></th><th><tt>Masc</tt></th><th><tt>Masc,Neut</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
+  <tr><td><tt><tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="got_proiel-feat-Strength.html">Strength</a></tt><tt>=Strong</tt></tt></td><td></td><td></td><td></td><td></td><td><em>silbo</em></td></tr>
+  <tr><td><tt><tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="got_proiel-feat-Strength.html">Strength</a></tt><tt>=Weak</tt></tt></td><td></td><td><em>silban</em></td><td></td><td></td><td><em>silbo</em></td></tr>
+  <tr><td><tt><tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="got_proiel-feat-Strength.html">Strength</a></tt><tt>=Weak</tt></tt></td><td></td><td><em>silbans</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="got_proiel-feat-Strength.html">Strength</a></tt><tt>=Strong</tt></tt></td><td></td><td><em>silbin</em></td><td><em>silbin</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="got_proiel-feat-Strength.html">Strength</a></tt><tt>=Weak</tt></tt></td><td></td><td><em>silbin</em></td><td><em>silbin</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="got_proiel-feat-Strength.html">Strength</a></tt><tt>=Weak</tt></tt></td><td></td><td><em>silbam</em></td><td><em>silbam</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="got_proiel-feat-Strength.html">Strength</a></tt><tt>=Weak</tt></tt></td><td></td><td></td><td><em>silbins</em></td><td><em>silbons</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="got_proiel-feat-Strength.html">Strength</a></tt><tt>=Strong</tt></tt></td><td><em>silbo</em></td><td></td><td></td><td></td><td><em>silbo</em></td></tr>
+  <tr><td><tt><tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="got_proiel-feat-Strength.html">Strength</a></tt><tt>=Weak</tt></tt></td><td></td><td><em>silba</em></td><td></td><td><em>silbo</em></td><td><em>silbo</em></td></tr>
+  <tr><td><tt><tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="got_proiel-feat-Strength.html">Strength</a></tt><tt>=Weak</tt></tt></td><td></td><td><em>silbans</em></td><td></td><td></td><td></td></tr>
 </table>
 
 ### `PROPN`
@@ -198,44 +199,17 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
   <tr><td><tt><tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>ainai</em></td><td></td><td></td><td></td></tr>
 </table>
 
-### `AUX`
-
-72 <tt><a href="got_proiel-pos-AUX.html">AUX</a></tt> tokens (5% of all `AUX` tokens) have a non-empty value of `Gender`.
-
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="got_proiel-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (72; 100%), <tt><a href="got_proiel-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (72; 100%), <tt><a href="got_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (72; 100%), <tt><a href="got_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (71; 99%), <tt><a href="got_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (71; 99%), <tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (41; 57%).
-
-`AUX` tokens may have the following values of `Gender`:
-
-* `Fem` (8; 11% of non-empty `Gender`): <em>wisandein, wisandei, wisandeim, wisandin</em>
-* `Masc` (57; 79% of non-empty `Gender`): <em>wisands, wisandans, wisandam, wisandin, wisandan, wisan, wisandins</em>
-* `Masc,Neut` (3; 4% of non-empty `Gender`): <em>wisandam, wisandins</em>
-* `Neut` (4; 6% of non-empty `Gender`): <em>wisando, wisandin, wisandona</em>
-* `EMPTY` (1463): <em>ist, was, sind, im, sijuþ, sijai, wesun, wisan, is, wesi</em>
-
-<table>
-  <tr><th>Paradigm <i>wisan</i></th><th><tt>Masc</tt></th><th><tt>Masc,Neut</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="got_proiel-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="got_proiel-feat-Strength.html">Strength</a></tt><tt>=Strong</tt>|<tt><a href="got_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="got_proiel-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>wisan</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="got_proiel-feat-Strength.html">Strength</a></tt><tt>=Weak</tt>|<tt><a href="got_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="got_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>wisandan</em></td><td></td><td></td><td><em>wisando</em></td></tr>
-  <tr><td><tt><tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="got_proiel-feat-Strength.html">Strength</a></tt><tt>=Weak</tt>|<tt><a href="got_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="got_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>wisandans</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="got_proiel-feat-Strength.html">Strength</a></tt><tt>=Weak</tt>|<tt><a href="got_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="got_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>wisandin</em></td><td></td><td><em>wisandein, wisandin</em></td><td><em>wisandin</em></td></tr>
-  <tr><td><tt><tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="got_proiel-feat-Strength.html">Strength</a></tt><tt>=Weak</tt>|<tt><a href="got_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="got_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>wisandam</em></td><td><em>wisandam</em></td><td><em>wisandeim</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="got_proiel-feat-Strength.html">Strength</a></tt><tt>=Weak</tt>|<tt><a href="got_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="got_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>wisandins</em></td><td><em>wisandins</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="got_proiel-feat-Strength.html">Strength</a></tt><tt>=Strong</tt>|<tt><a href="got_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="got_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>wisands</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="got_proiel-feat-Strength.html">Strength</a></tt><tt>=Weak</tt>|<tt><a href="got_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="got_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>wisandei</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="got_proiel-feat-Strength.html">Strength</a></tt><tt>=Weak</tt>|<tt><a href="got_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="got_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>wisandans</em></td><td></td><td></td><td><em>wisandona</em></td></tr>
-</table>
-
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="got_proiel-dep-det.html">det</a></tt>]--> DET</tt> (1356; 86%),
-<tt>NOUN --[<tt><a href="got_proiel-dep-nmod.html">nmod</a></tt>]--> ADJ</tt> (924; 79%),
-<tt>NOUN --[<tt><a href="got_proiel-dep-amod.html">amod</a></tt>]--> ADJ</tt> (539; 80%),
-<tt>VERB --[<tt><a href="got_proiel-dep-det.html">det</a></tt>]--> DET</tt> (349; 84%),
-<tt>ADJ --[<tt><a href="got_proiel-dep-det.html">det</a></tt>]--> DET</tt> (270; 82%),
-<tt>NOUN --[<tt><a href="got_proiel-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (200; 57%),
-<tt>PROPN --[<tt><a href="got_proiel-dep-appos.html">appos</a></tt>]--> NOUN</tt> (197; 91%),
-<tt>VERB --[<tt><a href="got_proiel-dep-conj.html">conj</a></tt>]--> VERB</tt> (169; 68%),
+<tt>NOUN --[<tt><a href="got_proiel-dep-det.html">det</a></tt>]--> DET</tt> (2203; 84%),
+<tt>NOUN --[<tt><a href="got_proiel-dep-amod.html">amod</a></tt>]--> ADJ</tt> (561; 81%),
+<tt>VERB --[<tt><a href="got_proiel-dep-det.html">det</a></tt>]--> DET</tt> (367; 83%),
+<tt>ADJ --[<tt><a href="got_proiel-dep-det.html">det</a></tt>]--> DET</tt> (248; 81%),
+<tt>NOUN --[<tt><a href="got_proiel-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (195; 56%),
+<tt>PROPN --[<tt><a href="got_proiel-dep-appos.html">appos</a></tt>]--> NOUN</tt> (190; 92%),
+<tt>VERB --[<tt><a href="got_proiel-dep-conj.html">conj</a></tt>]--> VERB</tt> (169; 89%),
 <tt>PROPN --[<tt><a href="got_proiel-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (130; 99%),
-<tt>ADJ --[<tt><a href="got_proiel-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (126; 67%).
+<tt>PRON --[<tt><a href="got_proiel-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (117; 77%),
+<tt>PROPN --[<tt><a href="got_proiel-dep-conj.html">conj</a></tt>]--> PROPN</tt> (89; 97%).
 

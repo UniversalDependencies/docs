@@ -24,7 +24,7 @@ The following 2 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 5 4 nummod	color:blue
 1	tõt	tõt	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	2	det	_	GTtags=Dem,Sg,Nom
 2	sluužbäiʹǧǧ	sluuʹžbäiʹǧǧ	NOUN	N	Case=Nom|Number=Sing	5	nsubj	_	GTtags=Sg,Nom
-3	leäi	leeʹd	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=1	5	cop	_	GTtags=IV,Ind,Prt,Sg3
+3	leäi	leeʹd	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	cop	_	GTtags=IV,Ind,Prt,Sg3
 4	kuâhttlovitt	kuâhttlovitt	NUM	Num	_	5	nummod	_	_
 5	eeʹjj	eeʹǩǩ	NOUN	N	Case=Gen|Number=Sing	0	root	_	GTtags=Sg,Gen|SpaceAfter=No
 6	.	.	PUNCT	CLB	_	5	punct	_	_

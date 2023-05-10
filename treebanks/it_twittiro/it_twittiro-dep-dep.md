@@ -47,7 +47,7 @@ The following 22 pairs of parts of speech are connected with `dep`: <tt><a href=
 4	di	di	ADP	E	_	6	case	_	_
 5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	#bullodiprovincia	#bullodiprovincia	SYM	SYM	_	3	nmod	_	_
-7	http://t.co/eb9fCe40r0	http://t.co/eb9fCe40r0	SYM	X	_	3	dep	_	SpaceAfter=\n
+7	http://t.co/eb9fCe40r0	http://t.co/eb9fCe40r0	SYM	X	_	3	dep	_	SpacesAfter=\n
 
 ~~~
 

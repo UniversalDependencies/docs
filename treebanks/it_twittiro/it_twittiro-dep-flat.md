@@ -12,7 +12,7 @@ There are 2 language-specific subtypes of `flat`: <tt><a href="it_twittiro-dep-f
 61 nodes (0%) are attached to their parents as `flat`.
 
 61 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.45901639344262.
+Average distance between parent and child is 1.44262295081967.
 
 The following 14 pairs of parts of speech are connected with `flat`: <tt><a href="it_twittiro-pos-NUM.html">NUM</a></tt>-<tt><a href="it_twittiro-pos-NUM.html">NUM</a></tt> (17; 28% instances), <tt><a href="it_twittiro-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_twittiro-pos-PROPN.html">PROPN</a></tt> (13; 21% instances), <tt><a href="it_twittiro-pos-NUM.html">NUM</a></tt>-<tt><a href="it_twittiro-pos-NOUN.html">NOUN</a></tt> (9; 15% instances), <tt><a href="it_twittiro-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_twittiro-pos-SYM.html">SYM</a></tt> (5; 8% instances), <tt><a href="it_twittiro-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_twittiro-pos-X.html">X</a></tt> (3; 5% instances), <tt><a href="it_twittiro-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_twittiro-pos-PROPN.html">PROPN</a></tt> (3; 5% instances), <tt><a href="it_twittiro-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_twittiro-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="it_twittiro-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_twittiro-pos-NUM.html">NUM</a></tt> (2; 3% instances), <tt><a href="it_twittiro-pos-PRON.html">PRON</a></tt>-<tt><a href="it_twittiro-pos-SYM.html">SYM</a></tt> (2; 3% instances), <tt><a href="it_twittiro-pos-ADV.html">ADV</a></tt>-<tt><a href="it_twittiro-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="it_twittiro-pos-INTJ.html">INTJ</a></tt>-<tt><a href="it_twittiro-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="it_twittiro-pos-NUM.html">NUM</a></tt>-<tt><a href="it_twittiro-pos-SYM.html">SYM</a></tt> (1; 2% instances), <tt><a href="it_twittiro-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_twittiro-pos-SYM.html">SYM</a></tt> (1; 2% instances), <tt><a href="it_twittiro-pos-X.html">X</a></tt>-<tt><a href="it_twittiro-pos-X.html">X</a></tt> (1; 2% instances).
 
@@ -43,7 +43,7 @@ The following 14 pairs of parts of speech are connected with `flat`: <tt><a href
 18	.	.	PUNCT	FS	_	15	punct	_	_
 19	[	[	PUNCT	FB	_	20	punct	_	SpaceAfter=No
 20	@user	@user	SYM	SYM	_	5	vocative:mention	_	SpaceAfter=No
-21	]	]	PUNCT	FB	_	20	punct	_	SpaceAfter=\n
+21	]	]	PUNCT	FB	_	20	punct	_	SpacesAfter=\n
 
 ~~~
 
@@ -90,7 +90,7 @@ The following 14 pairs of parts of speech are connected with `flat`: <tt><a href
 14	.	.	PUNCT	FS	_	1	punct	_	_
 15	[	[	PUNCT	FB	_	16	punct	_	SpaceAfter=No
 16	@user	@user	SYM	SYM	_	1	parataxis:hashtag	_	SpaceAfter=No
-17	]	]	PUNCT	FB	_	16	punct	_	SpaceAfter=\n
+17	]	]	PUNCT	FB	_	16	punct	_	SpacesAfter=\n
 
 ~~~
 

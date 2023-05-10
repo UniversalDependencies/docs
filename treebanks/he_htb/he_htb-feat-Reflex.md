@@ -23,5 +23,5 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 `PRON` tokens may have the following values of `Reflex`:
 
 * `Yes` (163; 100% of non-empty `Reflex`): עצמו, עצמה, עצמם, עצמי, עצמן, עצמנו, עצמך
-* `EMPTY` (7218): _הוא, _הם, _היא, הוא, זה, זו, הם, כך, אלה, היא
+* `EMPTY` (7543): _הוא, _הם, _היא, הוא, זה, היא, הם, זו, כך, אלה
 

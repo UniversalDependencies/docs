@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>yksi</em> (<tt><a href="fi_ftb-pos-NU
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.437628 (the average of all parts of speech is 2.050767).
+The form / lemma ratio of `NUM` is 1.437628 (the average of all parts of speech is 2.049043).
 
 The 1st highest number of forms (21) was observed with the lemma “yksi”: <em>yhdeksi, yhdelle, yhdellä, yhden, yhdenkin, yhdessä, yhdestä, yhdet, yhen, yhteen, yhtenä, yhtenäkään, yhtä, yks, yksi, yksikin, yksikään, yksille, yksip, yksissä, yksiä</em>.
 

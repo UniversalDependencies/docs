@@ -60,30 +60,29 @@ The following 15 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 vocative	color:blue
-1	@user	@user	SYM	SYM	_	12	vocative:mention	_	_
+1	@user	@user	SYM	SYM	_	11	vocative:mention	_	_
 2	Ragazzi	ragazzo	NOUN	S	Gender=Masc|Number=Plur	3	vocative	_	_
-3	calma	calma	NOUN	S	Gender=Fem|Number=Sing	12	discourse	_	SpaceAfter=No
+3	calma	calma	NOUN	S	Gender=Fem|Number=Sing	11	discourse	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	3	punct	_	_
 5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-6	Prof	professore	NOUN	S	Number=Sing	12	nsubj	_	SpaceAfter=No
-7	.	.	PUNCT	FS	_	6	punct	_	_
-8	Mario	mario	PROPN	SP	_	6	appos	_	_
-9	Monti	Monti	PROPN	SP	_	8	flat:name	_	_
-10	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	12	expl	_	_
-11	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	obj	_	_
-12	cava	cavare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-13	da	da	ADP	E	_	14	case	_	_
-14	solo	solo	ADJ	A	Gender=Masc|Number=Sing	12	advmod	_	SpaceAfter=No
-15	:	:	PUNCT	FC	_	12	punct	_	_
-16	e'	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
-17	bocconiano	bocconiano	ADJ	A	Gender=Masc|Number=Sing	12	parataxis	_	SpaceAfter=No
-18	,	,	PUNCT	FF	_	20	punct	_	_
-19	mica	mica	ADV	B	_	20	advmod	_	_
-20	bocchiniano	bocchiniano	ADJ	A	Gender=Masc|Number=Sing	17	conj	_	SpaceAfter=No
-21	!	!	PUNCT	FS	_	12	punct	_	_
-22	;)	;)	SYM	SYM	_	12	discourse:emo	_	_
-23	by	by	ADP	E	_	24	case	_	_
-24	rao	rao	PROPN	SP	_	12	parataxis	_	_
+6	Prof.	professore	NOUN	S	Number=Sing	11	nsubj	_	_
+7	Mario	mario	PROPN	SP	_	6	appos	_	_
+8	Monti	Monti	PROPN	SP	_	7	flat:name	_	_
+9	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	11	expl	_	_
+10	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	obj	_	_
+11	cava	cavare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+12	da	da	ADP	E	_	13	case	_	_
+13	solo	solo	ADJ	A	Gender=Masc|Number=Sing	11	advmod	_	SpaceAfter=No
+14	:	:	PUNCT	FC	_	11	punct	_	_
+15	e'	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
+16	bocconiano	bocconiano	ADJ	A	Gender=Masc|Number=Sing	11	parataxis	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	19	punct	_	_
+18	mica	mica	ADV	B	_	19	advmod	_	_
+19	bocchiniano	bocchiniano	ADJ	A	Gender=Masc|Number=Sing	16	conj	_	SpaceAfter=No
+20	!	!	PUNCT	FS	_	11	punct	_	_
+21	;)	;)	SYM	SYM	_	11	discourse:emo	_	_
+22	by	by	ADP	E	_	23	case	_	_
+23	rao	rao	PROPN	SP	_	11	parataxis	_	_
 
 ~~~
 

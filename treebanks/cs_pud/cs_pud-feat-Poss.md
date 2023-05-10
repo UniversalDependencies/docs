@@ -34,7 +34,7 @@ The most frequent other feature values with which `ADJ` and `Poss` co-occurred: 
 `ADJ` tokens may have the following values of `Poss`:
 
 * `Yes` (39; 100% of non-empty `Poss`): <em>achaimenovské, Achaimenovskou, Achaimenovská, Alexandrově, Bergeronova, Berijovo, Blochových, Caesarovi, Carangiina, Cottonovy</em>
-* `EMPTY` (2231): <em>první, další, nové, jižní, druhé, severní, hlavní, velká, velké, vlastní</em>
+* `EMPTY` (2230): <em>první, další, nové, jižní, druhé, severní, hlavní, velká, velké, vlastní</em>
 
 `Poss` seems to be **lexical feature** of `ADJ`. 100% lemmas (37) occur only with one value of `Poss`.
 

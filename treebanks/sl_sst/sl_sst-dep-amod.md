@@ -22,20 +22,20 @@ The following 12 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 14	bgColor:blue
 # visual-style 14	fgColor:white
 # visual-style 14 13 amod	color:blue
-1	in	in	CCONJ	Cc	_	4	cc	_	word=in|msd=Vp
-2	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	expl	_	word=to|msd=Zk-sei
-3	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	aux	_	word=so|msd=Gp-stm-n
-4	mešali	mešati	VERB	Vmpp-pm	Aspect=Imp|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	word=mešal|msd=Ggnd-mm
-5	kar	kar	ADV	Rgp	Degree=Pos	6	advmod	_	word=kr|msd=Rsn
-6	eno	en	NUM	Mlpnsa	Case=Acc|Gender=Neut|Number=Sing|NumForm=Word|NumType=Card	7	nummod	_	word=en|msd=Kbzset
-7	olje	olje	NOUN	Ncnsa	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	word=ole|msd=Soset
-8	pa	pa	CCONJ	Cc	_	14	cc	_	word=pa|msd=Vp
-9	ene	en	NUM	Mlpfpa	Case=Acc|Gender=Fem|Number=Plur|NumForm=Word|NumType=Card	14	nummod	_	word=ene|msd=Kbzzmt
-10	take	tak	DET	Pd-fpa	Case=Acc|Gender=Fem|Number=Plur|PronType=Dem	14	det	_	word=take|msd=Zk-zmt
-11	č	_	X	Xt	_	13	reparandum	_	word=č|msd=Nt
-12	[gap]	[gap]	PUNCT	X	_	13	punct	_	word=[gap]|msd=N
-13	stare	star	ADJ	Agpfpa	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	14	amod	_	word=stare|msd=Ppnzmt
-14	barve	barva	NOUN	Ncfpa	Case=Acc|Gender=Fem|Number=Plur	7	conj	_	word=barve|msd=Sozmt
+1	in	in	CCONJ	Cc	_	4	cc	_	pronunciation=in
+2	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	expl	_	pronunciation=to
+3	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	aux	_	pronunciation=so
+4	mešali	mešati	VERB	Vmpp-pm	Aspect=Imp|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	pronunciation=mešal
+5	kar	kar	ADV	Rgp	Degree=Pos	6	advmod	_	pronunciation=kr
+6	eno	en	NUM	Mlpnsa	Case=Acc|Gender=Neut|Number=Sing|NumForm=Word|NumType=Card	7	nummod	_	pronunciation=en
+7	olje	olje	NOUN	Ncnsa	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	pronunciation=ole
+8	pa	pa	CCONJ	Cc	_	14	cc	_	pronunciation=pa
+9	ene	en	NUM	Mlpfpa	Case=Acc|Gender=Fem|Number=Plur|NumForm=Word|NumType=Card	14	nummod	_	pronunciation=ene
+10	take	tak	DET	Pd-fpa	Case=Acc|Gender=Fem|Number=Plur|PronType=Dem	14	det	_	pronunciation=take
+11	č-	_	X	Xt	_	13	reparandum	_	pronunciation=č
+12	[gap]	[gap]	PUNCT	X	_	13	punct	_	pronunciation=[gap]
+13	stare	star	ADJ	Agpfpa	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	14	amod	_	pronunciation=stare
+14	barve	barva	NOUN	Ncfpa	Case=Acc|Gender=Fem|Number=Plur	7	conj	_	pronunciation=barve
 
 ~~~
 
@@ -46,9 +46,9 @@ The following 12 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 amod	color:blue
-1	julijske	julijski	ADJ	Agpfpn	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	2	amod	_	word=Julijske|msd=Ppnzmi
-2	alpe	Alpe	PROPN	Npfpn	Case=Nom|Gender=Fem|Number=Plur	0	root	_	word=Alpe|msd=Slzmi
-3	najprej	najprej	ADV	Rgs	Degree=Sup	2	advmod	_	word=najprej|msd=Rss
+1	julijske	julijski	ADJ	Agpfpn	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	2	amod	_	pronunciation=Julijske
+2	alpe	Alpe	PROPN	Npfpn	Case=Nom|Gender=Fem|Number=Plur	0	root	_	pronunciation=Alpe
+3	najprej	najprej	ADV	Rgs	Degree=Sup	2	advmod	_	pronunciation=najprej
 
 ~~~
 
@@ -59,17 +59,17 @@ The following 12 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 6 amod	color:blue
-1	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	expl	_	word=tov|msd=Zk-sei
-2	se	se	PRON	Px------y	PronType=Prs|Variant=Short	5	expl	_	word=se|msd=Zp------k
-3	zdaj	zdaj	ADV	Rgp	Degree=Pos	5	advmod	_	word=zdaj|msd=Rsn
-4	takšne	takšen	DET	Pd-fpn	Case=Nom|Gender=Fem|Number=Plur|PronType=Dem	5	nsubj	_	word=takšne|msd=Zk-zmi
-5	pogučavljejo	pogučavati	VERB	Vmpr3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	word=pogučavlejo|msd=Ggnstm
-6	brezvezne	brezvezen	ADJ	Agpfpn	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	4	amod	_	word=brezvezne|msd=Ppnzmi
-7	[gap]	[gap]	PUNCT	X	_	9	punct	_	word=[gap]|msd=N
-8	ne	ne	PART	Q	Polarity=Neg	9	advmod	_	word=ne|msd=L
-9	vem	vedeti	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	parataxis:discourse	_	word=vem|msd=Ggnspe
-10	ko	ko	SCONJ	Cs	_	5	advcl	_	word=ko|msd=Vd
-11	eh	eh	INTJ	I	_	5	discourse	_	word=eh|msd=M
+1	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	expl	_	pronunciation=tov
+2	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	5	expl	_	pronunciation=se
+3	zdaj	zdaj	ADV	Rgp	Degree=Pos	5	advmod	_	pronunciation=zdaj
+4	takšne	takšen	DET	Pd-fpn	Case=Nom|Gender=Fem|Number=Plur|PronType=Dem	5	nsubj	_	pronunciation=takšne
+5	pogučavljejo	pogučavati	VERB	Vmpr3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=pogučavlejo
+6	brezvezne	brezvezen	ADJ	Agpfpn	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	4	amod	_	pronunciation=brezvezne
+7	[gap]	[gap]	PUNCT	X	_	9	punct	_	pronunciation=[gap]
+8	ne	ne	PART	Q	Polarity=Neg	9	advmod	_	pronunciation=ne
+9	vem	vedeti	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	parataxis:discourse	_	pronunciation=vem
+10	ko	ko	SCONJ	Cs	_	5	advcl	_	pronunciation=ko
+11	eh	eh	INTJ	I	_	5	discourse	_	pronunciation=eh
 
 ~~~
 

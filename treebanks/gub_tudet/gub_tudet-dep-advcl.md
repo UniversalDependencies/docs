@@ -25,7 +25,7 @@ The following 4 pairs of parts of speech are connected with `advcl`: <tt><a href
 1	Oho	ho	VERB	vi	Person[subj]=3	0	root	_	_
 2	ʔɨ	ʔɨ	NOUN	n	_	1	obl	_	_
 3	pupe	pupe	ADP	posp	Rel=Cont	2	case	_	_
-4	ipiraʔi	pira	NOUN	n	Dimin=Yes|Rel=NCont	5	obl	_	_
+4	ipiraʔi	pira	NOUN	n	Degree=Dim|Rel=NCont	5	obl	_	_
 5	pɨhɨkpa	pɨhɨk	VERB	vt	VerbForm=Ger	1	advcl	_	_
 6	.	.	PUNCT	punct	_	1	punct	_	_
 

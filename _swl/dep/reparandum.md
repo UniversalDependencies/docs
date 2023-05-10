@@ -13,4 +13,4 @@ no attested uses of this relation in the Swedish treebank.
 PRO1 SLUTA IDROTT KLUBB MÅSTE PRO1 LÄMNA FÖR MYCKET BLI TVÅ KVAR PEK>pekf LISTBOJ.TVÅ idrott@& DÖVFÖRENING OCH ÄDLF@b \n I left the sports club, I had to, it was too much, which meant there were two left, the sports- the Deaf club and ÄDLF
 reparandum(DÖVFÖRENING, idrott@&)
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:44 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:04:33 CEST -->

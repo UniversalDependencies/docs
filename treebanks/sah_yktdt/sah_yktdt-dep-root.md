@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-289 nodes (21%) are attached to their parents as `root`.
+299 nodes (20%) are attached to their parents as `root`.
 
-289 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.72664359861592.
+299 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.73913043478261.
 
-The following 7 pairs of parts of speech are connected with `root`: -<tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt> (228; 79% instances), -<tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt> (50; 17% instances), -<tt><a href="sah_yktdt-pos-ADJ.html">ADJ</a></tt> (5; 2% instances), -<tt><a href="sah_yktdt-pos-ADV.html">ADV</a></tt> (2; 1% instances), -<tt><a href="sah_yktdt-pos-PRON.html">PRON</a></tt> (2; 1% instances), -<tt><a href="sah_yktdt-pos-AUX.html">AUX</a></tt> (1; 0% instances), -<tt><a href="sah_yktdt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `root`: -<tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt> (236; 79% instances), -<tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt> (52; 17% instances), -<tt><a href="sah_yktdt-pos-ADJ.html">ADJ</a></tt> (5; 2% instances), -<tt><a href="sah_yktdt-pos-ADV.html">ADV</a></tt> (2; 1% instances), -<tt><a href="sah_yktdt-pos-PRON.html">PRON</a></tt> (2; 1% instances), -<tt><a href="sah_yktdt-pos-AUX.html">AUX</a></tt> (1; 0% instances), -<tt><a href="sah_yktdt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

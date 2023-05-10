@@ -10,8 +10,8 @@ This feature is language-specific.
 It occurs with 2 different values: `Attr`, `Pred`.
 
 3173 tokens (6%) have a non-empty value of `AdjType`.
-985 types (16%) occur at least once with a non-empty value of `AdjType`.
-778 lemmas (15%) occur at least once with a non-empty value of `AdjType`.
+976 types (16%) occur at least once with a non-empty value of `AdjType`.
+775 lemmas (15%) occur at least once with a non-empty value of `AdjType`.
 The feature is used with 1 part-of-speech tags: <tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt> (3173; 6% instances).
 
 ### `ADJ`

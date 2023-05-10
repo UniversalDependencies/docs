@@ -51,9 +51,9 @@ The following 20 pairs of parts of speech are connected with `parataxis`: <tt><a
 6	ipsa	ipse	DET	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	8	nmod	_	_
 7	predicta	praedictus	DET	a|a|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	8	det	_	_
 8	res	res	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	9	obj	_	_
-9	gubernare	guberno	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	12	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+9	gubernare	guberno	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	12	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 10	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	11	cc	_	_
-11	meliorare	melioro	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	9	conj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+11	meliorare	melioro	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	9	conj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 12	debeatis	debeo	VERB	v|v|2|p|p|s|a|-|-|-	Aspect=Imp|Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	parataxis	_	SpaceAfter=No|TraditionalMood=Subiunctivus|TraditionalTense=Praesens
 13	.	.	PUNCT	Punc	_	4	punct	_	_
 

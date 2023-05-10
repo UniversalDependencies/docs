@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.10 release
 The following people have contributed to making this treebank part of UD: Glyd Aranes.
 
 Repository: [UD_Cebuano-GJA](https://github.com/UniversalDependencies/UD_Cebuano-GJA)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udceb_gja211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udceb_gja212)<br />
+Download all treebanks: [UD 2.12](/#download)
 
 License: CC BY-SA 4.0
 
@@ -29,7 +29,7 @@ Genre: grammar-examples
 Questions, comments?
 General annotation questions (either Cebuano-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Cebuano-GJA/issues).
-If you want to collaborate, please contact [glyd&nbsp;•&nbsp;aranes&nbsp;(æt)&nbsp;uef&nbsp;•&nbsp;fi].
+If you want to collaborate, please contact [glyd&nbsp;•&nbsp;aranes&nbsp;(æt)&nbsp;gmail&nbsp;•&nbsp;com].
 Development of the treebank happens directly in the UD repository, so you may submit bug fixes as pull requests against the dev branch.
 
 | Annotation | Source |
@@ -538,7 +538,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-ADP(ang) (21)</li>
       <li>VERB--PRON (3)</li>
       <li>VERB--PRON-Gen (26)</li>
-      <li>VERB--PRON-Nom (57)</li>
+      <li>VERB--PRON-Nom (56)</li>
     </ul>
   </li>
 </ul>

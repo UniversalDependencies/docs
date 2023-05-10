@@ -38,7 +38,7 @@ The following 13 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 3	fgColor:white
 # visual-style 3 6 vocative	color:blue
 1	Du	du	PRON	_	Case=Nom|Gender=Com|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
-2	sku'	skulle	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	3	aux	_	SpaceAfter=No
+2	sku'	skulle	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	3	aux	_	_
 3	prøve	prøve	VERB	_	VerbForm=Inf|Voice=Act	0	root	_	_
 4	det	det	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	obj	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	_	_

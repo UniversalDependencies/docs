@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Çağrı Çöltekin.
 
 Repository: [UD_Turkish-GB](https://github.com/UniversalDependencies/UD_Turkish-GB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtr_gb211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtr_gb212)<br />
+Download all treebanks: [UD 2.12](/#download)
 
 License: CC BY-SA 4.0
 
@@ -73,11 +73,11 @@ _Aslı Göksel and Celia Kerslake. Turkish: A Comprehensive Grammar. London: Rou
 
 ## Features
 
-[Aspect](tr_gb-feat-Aspect.html) – [Case](tr_gb-feat-Case.html) – [Definite](tr_gb-feat-Definite.html) – [Evident](tr_gb-feat-Evident.html) – [Mood](tr_gb-feat-Mood.html) – [Number](tr_gb-feat-Number.html) – [Number[psor]](tr_gb-feat-Number-psor.html) – [NumType](tr_gb-feat-NumType.html) – [Person](tr_gb-feat-Person.html) – [Person[psor]](tr_gb-feat-Person-psor.html) – [Polarity](tr_gb-feat-Polarity.html) – [PronType](tr_gb-feat-PronType.html) – [Reflex](tr_gb-feat-Reflex.html) – [Tense](tr_gb-feat-Tense.html) – [VerbForm](tr_gb-feat-VerbForm.html) – [Voice](tr_gb-feat-Voice.html)
+[Aspect](tr_gb-feat-Aspect.html) – [Case](tr_gb-feat-Case.html) – [Definite](tr_gb-feat-Definite.html) – [Evident](tr_gb-feat-Evident.html) – [Mood](tr_gb-feat-Mood.html) – [Number](tr_gb-feat-Number.html) – [Number[psor]](tr_gb-feat-Number-psor.html) – [NumType](tr_gb-feat-NumType.html) – [Person](tr_gb-feat-Person.html) – [Person[psor]](tr_gb-feat-Person-psor.html) – [Polarity](tr_gb-feat-Polarity.html) – [PronType](tr_gb-feat-PronType.html) – [Reflex](tr_gb-feat-Reflex.html) – [Tense](tr_gb-feat-Tense.html) – [Typo](tr_gb-feat-Typo.html) – [VerbForm](tr_gb-feat-VerbForm.html) – [Voice](tr_gb-feat-Voice.html)
 
 ## Relations
 
-[acl](tr_gb-dep-acl.html) – [advcl](tr_gb-dep-advcl.html) – [advmod](tr_gb-dep-advmod.html) – [advmod:emph](tr_gb-dep-advmod-emph.html) – [amod](tr_gb-dep-amod.html) – [appos](tr_gb-dep-appos.html) – [aux](tr_gb-dep-aux.html) – [aux:q](tr_gb-dep-aux-q.html) – [case](tr_gb-dep-case.html) – [cc](tr_gb-dep-cc.html) – [ccomp](tr_gb-dep-ccomp.html) – [compound](tr_gb-dep-compound.html) – [compound:redup](tr_gb-dep-compound-redup.html) – [conj](tr_gb-dep-conj.html) – [cop](tr_gb-dep-cop.html) – [csubj](tr_gb-dep-csubj.html) – [csubj:cop](tr_gb-dep-csubj-cop.html) – [det](tr_gb-dep-det.html) – [discourse](tr_gb-dep-discourse.html) – [dislocated](tr_gb-dep-dislocated.html) – [fixed](tr_gb-dep-fixed.html) – [flat](tr_gb-dep-flat.html) – [goeswith](tr_gb-dep-goeswith.html) – [mark](tr_gb-dep-mark.html) – [nmod](tr_gb-dep-nmod.html) – [nmod:comp](tr_gb-dep-nmod-comp.html) – [nmod:part](tr_gb-dep-nmod-part.html) – [nsubj](tr_gb-dep-nsubj.html) – [nsubj:cop](tr_gb-dep-nsubj-cop.html) – [nummod](tr_gb-dep-nummod.html) – [obj](tr_gb-dep-obj.html) – [obl](tr_gb-dep-obl.html) – [obl:agent](tr_gb-dep-obl-agent.html) – [obl:tmod](tr_gb-dep-obl-tmod.html) – [orphan](tr_gb-dep-orphan.html) – [parataxis](tr_gb-dep-parataxis.html) – [punct](tr_gb-dep-punct.html) – [root](tr_gb-dep-root.html) – [vocative](tr_gb-dep-vocative.html) – [xcomp](tr_gb-dep-xcomp.html)
+[acl](tr_gb-dep-acl.html) – [advcl](tr_gb-dep-advcl.html) – [advmod](tr_gb-dep-advmod.html) – [advmod:emph](tr_gb-dep-advmod-emph.html) – [amod](tr_gb-dep-amod.html) – [appos](tr_gb-dep-appos.html) – [aux](tr_gb-dep-aux.html) – [aux:q](tr_gb-dep-aux-q.html) – [case](tr_gb-dep-case.html) – [cc](tr_gb-dep-cc.html) – [ccomp](tr_gb-dep-ccomp.html) – [compound](tr_gb-dep-compound.html) – [compound:redup](tr_gb-dep-compound-redup.html) – [conj](tr_gb-dep-conj.html) – [cop](tr_gb-dep-cop.html) – [csubj](tr_gb-dep-csubj.html) – [csubj:cop](tr_gb-dep-csubj-cop.html) – [csubj:outer](tr_gb-dep-csubj-outer.html) – [det](tr_gb-dep-det.html) – [discourse](tr_gb-dep-discourse.html) – [dislocated](tr_gb-dep-dislocated.html) – [fixed](tr_gb-dep-fixed.html) – [flat](tr_gb-dep-flat.html) – [goeswith](tr_gb-dep-goeswith.html) – [mark](tr_gb-dep-mark.html) – [nmod](tr_gb-dep-nmod.html) – [nmod:comp](tr_gb-dep-nmod-comp.html) – [nmod:part](tr_gb-dep-nmod-part.html) – [nsubj](tr_gb-dep-nsubj.html) – [nsubj:cop](tr_gb-dep-nsubj-cop.html) – [nsubj:outer](tr_gb-dep-nsubj-outer.html) – [nummod](tr_gb-dep-nummod.html) – [obj](tr_gb-dep-obj.html) – [obl](tr_gb-dep-obl.html) – [obl:agent](tr_gb-dep-obl-agent.html) – [obl:tmod](tr_gb-dep-obl-tmod.html) – [orphan](tr_gb-dep-orphan.html) – [parataxis](tr_gb-dep-parataxis.html) – [punct](tr_gb-dep-punct.html) – [root](tr_gb-dep-root.html) – [vocative](tr_gb-dep-vocative.html) – [xcomp](tr_gb-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -1048,6 +1048,18 @@ _Aslı Göksel and Celia Kerslake. Turkish: A Comprehensive Grammar. London: Rou
   </li>
 </ul>
 
+<ul>
+  <li><a>Typo</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>DET: hiç</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
 <h2>Syntax</h2>
 
 <h3>Auxiliary Verbs and Copula</h3>
@@ -1135,6 +1147,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 9 relation subtypes: <a>advmod:emph</a>, <a>aux:q</a>, <a>compound:redup</a>, <a>csubj:cop</a>, <a>nmod:comp</a>, <a>nmod:part</a>, <a>nsubj:cop</a>, <a>obl:agent</a>, <a>obl:tmod</a></li>
+<li>This corpus uses 11 relation subtypes: <a>advmod:emph</a>, <a>aux:q</a>, <a>compound:redup</a>, <a>csubj:cop</a>, <a>csubj:outer</a>, <a>nmod:comp</a>, <a>nmod:part</a>, <a>nsubj:cop</a>, <a>nsubj:outer</a>, <a>obl:agent</a>, <a>obl:tmod</a></li>
 <li>The following 6 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>clf</a>, <a>list</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

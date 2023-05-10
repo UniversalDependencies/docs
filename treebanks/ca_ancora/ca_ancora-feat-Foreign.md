@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (9; 100% of non-empty `Foreign`): <em>Ceguera, amor, amore, cadáver, difunto, disposición, gota, gratis, nicho</em>
-* `EMPTY` (98696): <em>any, anys, milions, pessetes, president, persones, dia, part, cas, grup</em>
+* `EMPTY` (98697): <em>any, anys, milions, pessetes, president, persones, dia, part, cas, grup</em>
 
 ### `ADP`
 
@@ -54,7 +54,7 @@ The most frequent other feature values with which `VERB` and `Foreign` co-occurr
 `VERB` tokens may have the following values of `Foreign`:
 
 * `Yes` (3; 100% of non-empty `Foreign`): <em>enterrar, queda, mató</em>
-* `EMPTY` (41896): <em>fer, té, ha, fa, fet, dir, tenir, donar, arribar, explicat</em>
+* `EMPTY` (41895): <em>fer, té, ha, fa, fet, dir, tenir, donar, arribar, explicat</em>
 
 ### `PRON`
 
@@ -76,7 +76,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>prohibido</em>
-* `EMPTY` (30080): <em>passat, gran, primer, nou, primera, general, nova, catalana, espanyol, grans</em>
+* `EMPTY` (30081): <em>passat, gran, primer, nou, primera, general, nova, catalana, espanyol, grans</em>
 
 ### `ADV`
 
@@ -98,7 +98,7 @@ The most frequent other feature values with which `AUX` and `Foreign` co-occurre
 `AUX` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>es</em>
-* `EMPTY` (22050): <em>va, ha, és, van, han, ser, estat, són, està, havia</em>
+* `EMPTY` (22051): <em>va, ha, és, van, han, ser, estat, són, està, havia</em>
 
 ### `CCONJ`
 

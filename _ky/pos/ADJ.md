@@ -24,3 +24,4 @@ dictionaries and grammars.
 - _eski_ "old"
 - _yeşil_ "green"
 
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:22 CEST -->

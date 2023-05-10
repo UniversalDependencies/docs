@@ -55,4 +55,4 @@ Supine in Swedish is a special form of the past participle, used to form the com
 
 * [sv] _Labourpartiet har <b>gjort</b> försök_ "The Labour party has made attempts"
 * [sv] _antalet lägenheter har <b>sjunkit</b>_ "the number of apartments has decreased"
-<!-- Interlanguage links updated Po lis 14 15:35:00 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:51 CEST -->

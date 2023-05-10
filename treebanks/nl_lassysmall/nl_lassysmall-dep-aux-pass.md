@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="nl_lassysmall-dep-aux.html">aux</a></tt>.
 
-959 nodes (1%) are attached to their parents as `aux:pass`.
+958 nodes (1%) are attached to their parents as `aux:pass`.
 
-831 instances of `aux:pass` (87%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.66319082377477.
+830 instances of `aux:pass` (87%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.66492693110647.
 
-The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (959; 100% instances).
+The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (958; 100% instances).
 
 
 ~~~ conllu

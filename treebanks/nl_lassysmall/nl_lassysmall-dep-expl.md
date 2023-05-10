@@ -80,10 +80,10 @@ The following 3 pairs of parts of speech are connected with `expl`: <tt><a href=
 2	was	zijn	AUX	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	5	cop	5:cop	_
 3	de	de	DET	LID|bep|stan|rest	Definite=Def	5	det	5:det	_
 4	eerste	één	ADJ	TW|rang|prenom|stan	_	5	amod	5:amod	_
-5	keer	keer	NOUN	N|soort|ev|basis|genus|stan	Gender=Com,Neut|Number=Sing	0	root	0:root	_
+5	keer	keer	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	0	root	0:root	_
 6	dat	dat	SCONJ	VG|onder	_	13	mark	13:mark	_
 7	de	de	DET	LID|bep|stan|rest	Definite=Def	8	det	8:det	_
-8	Staatsprijs	staatsprijs	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	13	nsubj:pass	13:nsubj:pass	_
+8	Staatsprijs	staat_prijs	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	13	nsubj:pass	13:nsubj:pass	_
 9	aan	aan	ADP	VZ|init	_	11	case	11:case	_
 10	een	een	DET	LID|onbep|stan|agr	Definite=Ind	11	det	11:det	_
 11	schilder	schilder	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	13	obl	13:obl:aan	_

@@ -62,7 +62,7 @@ The most frequent other feature values with which `PART` and `Polarity` co-occur
 
 5 <tt><a href="gub_tudet-pos-NUM.html">NUM</a></tt> tokens (56% of all `NUM` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `NUM` and `Polarity` co-occurred: <tt><a href="gub_tudet-feat-Dimin.html">Dimin</a></tt><tt>=EMPTY</tt> (4; 80%), <tt><a href="gub_tudet-feat-Rel.html">Rel</a></tt><tt>=NCont</tt> (4; 80%).
+The most frequent other feature values with which `NUM` and `Polarity` co-occurred: <tt><a href="gub_tudet-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (4; 80%), <tt><a href="gub_tudet-feat-Rel.html">Rel</a></tt><tt>=NCont</tt> (4; 80%).
 
 `NUM` tokens may have the following values of `Polarity`:
 

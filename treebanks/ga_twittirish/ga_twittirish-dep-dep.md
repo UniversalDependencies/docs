@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1 nodes (0%) are attached to their parents as `dep`.
+2 nodes (0%) are attached to their parents as `dep`.
 
-1 instances of `dep` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 22.
+2 instances of `dep` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 12.
 
-The following 1 pairs of parts of speech are connected with `dep`: <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-X.html">X</a></tt> (1; 100% instances).
+The following 1 pairs of parts of speech are connected with `dep`: <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-X.html">X</a></tt> (2; 100% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 1 pairs of parts of speech are connected with `dep`: <tt><a href="
 # visual-style 4	fgColor:white
 # visual-style 4 26 dep	color:blue
 1	RT	RT	SYM	_	_	4	parataxis:rt	_	_
-2	@CumannGaelach	@CumannGaelach	PROPN	_	_	4	vocative:mention	_	SpaceAfter=No
+2	@user482	@user482	PROPN	_	_	4	vocative:mention	_	SpaceAfter=No
 3	:	:	PUNCT	_	_	4	punct	_	_
 4	Ócáid	ócáid	NOUN	_	_	0	root	_	Lang=ga
 5	de	de	ADP	_	_	6	case	_	Lang=ga

@@ -84,7 +84,7 @@ The following 11 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 18	tribuna	tribuna	NOUN	S	Gender=Fem|Number=Sing	16	xcomp	_	_
 19	politica	politico	ADJ	A	Gender=Fem|Number=Sing	18	amod	_	SpaceAfter=No
 20	.	.	PUNCT	FS	_	8	punct	_	_
-21	#labuonascuola	#labuonascuola	SYM	SYM	_	8	parataxis:hashtag	_	SpaceAfter=\n
+21	#labuonascuola	#labuonascuola	SYM	SYM	_	8	parataxis:hashtag	_	SpacesAfter=\n
 
 ~~~
 

@@ -118,7 +118,7 @@ The most frequent other feature values with which `NOUN` and `Polarity` co-occur
 ## Relations with Agreement in `Polarity`
 
 The 10 most frequent relations where parent and child node agree in `Polarity`:
-<tt>CCONJ --[<tt><a href="la_udante-dep-fixed.html">fixed</a></tt>]--> PART</tt> (15; 100%),
+<tt>CCONJ --[<tt><a href="la_udante-dep-fixed.html">fixed</a></tt>]--> PART</tt> (13; 100%),
 <tt>ADJ --[<tt><a href="la_udante-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (2; 67%),
 <tt>DET --[<tt><a href="la_udante-dep-case.html">case</a></tt>]--> PART</tt> (1; 100%),
 <tt>DET --[<tt><a href="la_udante-dep-nsubj.html">nsubj</a></tt>]--> PART</tt> (1; 100%),

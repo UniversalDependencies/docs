@@ -23,12 +23,12 @@ The following 4 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 # visual-style 15	bgColor:blue
 # visual-style 15	fgColor:white
 # visual-style 15 17 obl:agent	color:blue
-1	_	_	NOUN	NNS	Number=Plur	5	nsubj	5:nsubj	Discourse=causal-cause:129->128:0|Entity=(126-person-new-cf1-1-coref)|Lem=parent|Len=7
+1	_	_	NOUN	NNS	Number=Plur	5	nsubj	5:nsubj	Discourse=causal-cause:132->131:0|Entity=(126-person-new-cf1-1-coref)|Lem=parent|Len=7
 2	_	_	AUX	MD	VerbForm=Fin	5	aux	5:aux	Lem=_|Len=4
 3	_	_	AUX	VB	VerbForm=Inf	5	aux	5:aux	Lem=_|Len=4
 4	_	_	AUX	VBN	Tense=Past|VerbForm=Part	5	cop	5:cop	Lem=be|Len=4
 5	_	_	NOUN	NNS	Number=Plur	0	root	0:root|7:nsubj	Entity=(126-person-giv:act-cf1-1-pred|Lem=hippie|Len=7
-6	_	_	PRON	WP	PronType=Rel	7	nsubj	5:ref	Discourse=elaboration-attribute:130->129:0|Lem=_|Len=3
+6	_	_	PRON	WP	PronType=Rel	7	nsubj	5:ref	Discourse=elaboration-attribute:133->132:0|Lem=_|Len=3
 7	_	_	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	acl:relcl	5:acl:relcl	Lem=think|Len=7
 8	_	_	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	9	nmod:poss	9:nmod:poss	Entity=(85-person-giv:inact-cf2-2-coref(126-person-giv:act-cf1-1-ana)|Lem=_|Len=5
 9	_	_	NOUN	NN	Number=Sing	12	nsubj	12:nsubj|15:nsubj:pass:xsubj	Entity=85)|Lem=_|Len=8
@@ -51,7 +51,7 @@ The following 4 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 # visual-style 21	bgColor:blue
 # visual-style 21	fgColor:white
 # visual-style 21 23 obl:agent	color:blue
-1	_	_	CCONJ	CC	_	9	cc	9:cc	Discourse=joint-sequence_m:44->39:2|Lem=*LOWER*|Len=3
+1	_	_	CCONJ	CC	_	9	cc	9:cc	Discourse=joint-sequence_m:48->42:2|Lem=*LOWER*|Len=3
 2	_	_	ADV	RB	PronType=Dem	9	advmod	9:advmod	Lem=_|Len=4
 3	_	_	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	nsubj	9:nsubj	Entity=(29-person-giv:act-cf1*-1-ana)|Lem=_|Len=4
 4	_	_	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	cop	9:cop	Lem=be|Len=3
@@ -66,7 +66,7 @@ The following 4 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 13	_	_	ADP	IN	_	15	case	15:case	Lem=_|Len=2
 14	_	_	DET	DT	Definite=Def|PronType=Art	15	det	15:det	Entity=(6-abstract-giv:inact-cf4-2-coref-Beat_Bobby_Flay|Lem=_|Len=3
 15	_	_	NOUN	NN	Number=Sing	12	nmod	12:nmod:of	Entity=6)47)|Lem=_|Len=4
-16	_	_	ADV	WRB	PronType=Int	21	advmod	21:advmod	Discourse=context-circumstance:45->44:0|Lem=_|Len=4
+16	_	_	ADV	WRB	PronType=Int	21	advmod	21:advmod	Discourse=context-circumstance:49->48:0|Lem=_|Len=4
 17	_	_	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	19	nmod:poss	19:nmod:poss	Entity=(43-object-giv:act-cf2-3-coref(29-person-giv:act-cf1*-1-ana)|Lem=_|Len=5
 18	_	_	ADJ	JJ	Degree=Pos	19	amod	19:amod	Lem=_|Len=5
 19	_	_	NOUN	NN	Number=Sing	21	nsubj:pass	21:nsubj:pass	Entity=43)|Lem=_|Len=10

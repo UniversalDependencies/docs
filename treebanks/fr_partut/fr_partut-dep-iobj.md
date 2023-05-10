@@ -68,7 +68,7 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 20	international	international	ADJ	A	Gender=Masc|Number=Sing	16	conj	_	_
 21	de	de	ADP	E	_	23	case	_	_
 22	le	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	23	det	_	_
-23	pays	pays	NOUN	S	Gender=Masc	15	nmod	_	_
+23	pays	pays	NOUN	S	Gender=Masc|Number=Sing	15	nmod	_	_
 24	ou	ou	CCONJ	CC	_	27	cc	_	_
 25	de	de	ADP	E	_	27	case	_	_
 26	le	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	27	det	_	_
@@ -81,7 +81,7 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 33	,	,	PUNCT	FF	_	32	punct	_	_
 34	que	que	SCONJ	CS	_	40	mark	_	_
 35	ce	ce	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	36	det	_	_
-36	pays	pays	NOUN	S	Gender=Masc	40	nsubj	_	_
+36	pays	pays	NOUN	S	Gender=Masc|Number=Sing	40	nsubj	_	_
 37	ou	ou	CCONJ	CC	_	38	cc	_	_
 38	territoire	territoire	NOUN	S	Gender=Masc|Number=Sing	36	conj	_	_
 39	soit	être	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	40	cop	_	_

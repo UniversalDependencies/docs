@@ -38,10 +38,10 @@ The following 1 pairs of parts of speech are connected with `goeswith`: <tt><a h
 14	Kuujärves	Kuujärvi	PROPN	PROPN	Case=Ela|Number=Sing	15	obl	_	_
 15	ozuttau	ozuttua	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
 16	spektaklii	spektakli	NOUN	NOUN	Case=Par|Number=Sing	15	obj	_	_
-17	Čičiliušku-t	Čičiliušku-tyttiteatru	NOUN	NOUN	Case=Nom|Number=Sing	15	nsubj	_	_
-18	y	y	X	X	_	17	goeswith	_	_
-19	ttiteatr	ttiteatr	X	X	_	17	goeswith	_	_
-20	u	u	X	X	_	17	goeswith	_	SpaceAfter=No
+17	Čičiliušku-t	Čičiliušku-tyttiteatru	NOUN	NOUN	Case=Nom|Number=Sing|Typo=Yes	15	nsubj	_	_
+18	y	_	X	X	_	17	goeswith	_	_
+19	ttiteatr	_	X	X	_	17	goeswith	_	_
+20	u	_	X	X	_	17	goeswith	_	SpaceAfter=No
 21	.	.	PUNCT	PUNCT	_	15	punct	_	SpaceAfter=No
 
 ~~~

@@ -9,31 +9,36 @@ udver: '2'
 This relation is a language-specific subtype of .
 There are also 4 other language-specific subtypes of `dislocated`: <tt><a href="la_ittb-dep-dislocated-advcl.html">dislocated:advcl</a></tt>, <tt><a href="la_ittb-dep-dislocated-ccomp.html">dislocated:ccomp</a></tt>, <tt><a href="la_ittb-dep-dislocated-csubj.html">dislocated:csubj</a></tt>, <tt><a href="la_ittb-dep-dislocated-obl.html">dislocated:obl</a></tt>.
 
-5 nodes (0%) are attached to their parents as `dislocated:nsubj`.
+4 nodes (0%) are attached to their parents as `dislocated:nsubj`.
 
-3 instances of `dislocated:nsubj` (60%) are right-to-left (child precedes parent).
-Average distance between parent and child is 7.2.
+3 instances of `dislocated:nsubj` (75%) are right-to-left (child precedes parent).
+Average distance between parent and child is 8.25.
 
-The following 3 pairs of parts of speech are connected with `dislocated:nsubj`: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (3; 60% instances), <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (1; 20% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (1; 20% instances).
+The following 3 pairs of parts of speech are connected with `dislocated:nsubj`: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (2; 50% instances), <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (1; 25% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (1; 25% instances).
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 8 dislocated:nsubj	color:blue
-1	uirtute	uirtus	NOUN	C1|grn1|casF|gen2|vgr1	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Sing	5	obl	_	_
-2	enim	enim	PART	O4	_	5	discourse	_	_
-3	dei	deus	PROPN	F1|grn1|casB|gen1	Case=Gen|Gender=Masc|InflClass=IndEurO|Number=Sing	1	nmod	_	_
-4	utrumque	uterque	DET	F1|grn1|casA|gen3|comH|vgr2	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Con	5	nsubj	_	_
-5	fit	facio	VERB	N3|modJ|tem1|gen6	Aspect=Imp|InflClass=LatI2|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
-6	,	,	PUNCT	Punc	_	8	punct	_	_
-7	et	et	CCONJ	O4	_	8	mark	_	_
-8	corpus	corpus	NOUN	C1|grn1|casA|gen3	Case=Nom|Gender=Neut|InflClass=IndEurX|Number=Sing	5	dislocated:nsubj	_	_
-9	et	et	CCONJ	O4	_	7	fixed	_	_
-10	anima	anima	NOUN	F1|grn1|casA|gen2	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	8	appos	_	SpaceAfter=No
-11	:	:	PUNCT	Punc	_	5	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 14 2 dislocated:nsubj	color:blue
+1	paraclitus	paracletus	ADJ	B1|grn1|casA|gen1|vgr2	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing	2	amod	_	_
+2	spiritus	spiritus	NOUN	D1|grn1|casA|gen1	Case=Nom|Gender=Masc|InflClass=IndEurU|Number=Sing	14	dislocated:nsubj	_	_
+3	sanctus	sanctus	ADJ	B1|grn1|casA|gen1	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing	2	amod	_	SpaceAfter=No
+4	,	,	PUNCT	Punc	_	6	punct	_	_
+5	quem	qui	PRON	F1|grn1|casD|gen1	Case=Acc|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Rel	6	obj	_	_
+6	mittet	mitto	VERB	L3|modA|tem3|gen6	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	2	acl:relcl	_	TraditionalMood=Indicativus|TraditionalTense=Futurum
+7	pater	pater	NOUN	C1|grn1|casA|gen1	Case=Nom|Gender=Masc|InflClass=IndEurX|Number=Sing	6	nsubj	_	_
+8	in	in	ADP	S4	_	9	case	_	_
+9	nomine	nomen	NOUN	C1|grn1|casF|gen3|comH	Case=Abl|Gender=Neut|InflClass=IndEurX|Number=Sing	6	obl	_	_
+10	meo	meus	DET	F1|grn1|casF|gen3|vgr1	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	9	det	_	SpaceAfter=No
+11	,	,	PUNCT	Punc	_	2	punct	_	_
+12	ille	ille	DET	F1|grn1|casA|gen1	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Dem	14	nsubj	_	_
+13	uos	uos	PRON	F1|grn1|casM|gen1|vgr1	Case=Acc|InflClass=LatAnom|Number=Plur|PronType=Prs	14	obj	_	_
+14	docebit	doceo	VERB	K3|modA|tem3|gen6	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Futurum
+15	omnia	omnis	DET	C1|grn1|casM|gen3	Case=Acc|Gender=Neut|InflClass=IndEurI|Number=Plur|PronType=Ind	14	obj	_	SpaceAfter=No
+16	.	.	PUNCT	Punc	_	14	punct	_	_
 
 ~~~
 

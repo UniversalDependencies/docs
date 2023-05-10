@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>outro</em> (<tt><a href="pt_cintil-po
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.622601 (the average of all parts of speech is 1.389398).
+The form / lemma ratio of `ADJ` is 1.622601 (the average of all parts of speech is 1.389383).
 
 The 1st highest number of forms (8) was observed with the lemma “baixo”: <em>baixa, baixas, baixo, baixos, baixíssimo, inferior, inferiores, ínfimo</em>.
 
@@ -62,13 +62,13 @@ The 2nd highest number of forms (7) was observed with the lemma “alto”: <em>
 
 The 3rd highest number of forms (7) was observed with the lemma “rico”: <em>rica, ricas, rico, ricos, riquíssima, riquíssimo, riquíssimos</em>.
 
-`ADJ` occurs with 3 features: <tt><a href="pt_cintil-feat-Number.html">Number</a></tt> (25058; 100% instances), <tt><a href="pt_cintil-feat-Gender.html">Gender</a></tt> (21937; 88% instances), <tt><a href="pt_cintil-feat-Degree.html">Degree</a></tt> (482; 2% instances)
+`ADJ` occurs with 4 features: <tt><a href="pt_cintil-feat-Number.html">Number</a></tt> (25058; 100% instances), <tt><a href="pt_cintil-feat-Gender.html">Gender</a></tt> (21937; 88% instances), <tt><a href="pt_cintil-feat-NumType.html">NumType</a></tt> (1162; 5% instances), <tt><a href="pt_cintil-feat-Degree.html">Degree</a></tt> (124; 0% instances)
 
-`ADJ` occurs with 6 feature-value pairs: `Degree=Abs`, `Degree=Cmp`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`
+`ADJ` occurs with 6 feature-value pairs: `Degree=Abs`, `Gender=Fem`, `Gender=Masc`, `NumType=Ord`, `Number=Plur`, `Number=Sing`
 
-`ADJ` occurs with 18 feature combinations.
-The most frequent feature combination is `Gender=Masc|Number=Sing` (7968 tokens).
-Examples: <em>novo, outro, primeiro, mesmo, grande, último, português, segundo, próximo, próprio</em>
+`ADJ` occurs with 17 feature combinations.
+The most frequent feature combination is `Gender=Masc|Number=Sing` (7527 tokens).
+Examples: <em>novo, outro, mesmo, grande, último, português, próximo, próprio, único, bom</em>
 
 
 ## Relations

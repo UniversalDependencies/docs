@@ -25,12 +25,12 @@ The following 129 pairs of parts of speech are connected with `dep`: <tt><a href
 1	Ora	ora	ADV	ADV	_	0	root	_	_
 2	,	,	PUNCT	PNT	_	1	punct	_	_
 3	não	não	ADV	ADV	_	4	advmod	_	_
-4	podemos	poder	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres	1	conj	_	_
+4	podemos	poder	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
 5	aceitar	aceitar	VERB	INF	VerbForm=Inf	4	dep	_	_
-6	a	a	DET	DA	Gender=Fem|Number=Sing	7	det	_	_
+6	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	paz	paz	NOUN	CN	Gender=Fem|Number=Sing	5	obj	_	_
 8	em_	em_	ADP	PREP	_	10	case	_	_
-9	a	a	DET	DA	Gender=Fem|Number=Sing	10	det	_	_
+9	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 10	humilhação	humilhação	NOUN	CN	Gender=Fem|Number=Sing	5	obl	_	_
 11	!	!	PUNCT	PNT	_	1	punct	_	_
 
@@ -44,11 +44,11 @@ The following 129 pairs of parts of speech are connected with `dep`: <tt><a href
 # visual-style 7	fgColor:white
 # visual-style 7 8 dep	color:blue
 1	Konis	konis	PROPN	PNM	_	2	nsubj	_	_
-2	aposta	apostar	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+2	aposta	apostar	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	em	em	ADP	PREP	_	4	case	_	_
 4	Xanana	xanana	PROPN	PNM	_	2	obl	_	_
 5	mas	mas	CCONJ	CJ	_	6	cc	_	_
-6	aceita	aceitar	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	conj	_	_
+6	aceita	aceitar	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
 7	Ramos	ramos	PROPN	PNM	_	6	obj	_	_
 8	Horta	horta	PROPN	PNM	_	7	dep	_	_
 
@@ -61,9 +61,9 @@ The following 129 pairs of parts of speech are connected with `dep`: <tt><a href
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 2 dep	color:blue
-1	Quem	quem	PRON	INT	_	2	dep	_	_
-2	viu	ver	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	dep	_	_
-3	ficou	ficar	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	dep	_	_
+1	Quem	quem	PRON	INT	PronType=Int	2	dep	_	_
+2	viu	ver	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	dep	_	_
+3	ficou	ficar	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	dep	_	_
 4	com	com	ADP	PREP	_	5	case	_	_
 5	dúvidas	dúvida	NOUN	CN	Gender=Fem|Number=Plur	0	root	_	_
 6	.	.	PUNCT	PNT	_	5	punct	_	_

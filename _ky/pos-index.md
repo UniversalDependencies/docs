@@ -7,4 +7,5 @@ permalink: ky/pos/index.html
 
 # POS tags
 
-{% include ky-pos-table.html %}
+<!-- The file must be created before it can be included. Otherwise this directive will take the whole website down.
+ include ky-pos-table.html -->

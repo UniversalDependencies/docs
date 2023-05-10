@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Greek-GDT: POS Tags: `AUX`
 
 There are 6 `AUX` lemmas (0%), 23 `AUX` types (0%) and 3019 `AUX` tokens (5%).
-Out of 16 observed tags, the rank of `AUX` is: 13 in number of lemmas, 11 in number of types and 7 in number of tokens.
+Out of 16 observed tags, the rank of `AUX` is: 14 in number of lemmas, 11 in number of types and 7 in number of tokens.
 
 The 10 most frequent `AUX` lemmas: <em>να, είμαι, θα, έχω, πρέπει, ας</em>
 
@@ -48,7 +48,7 @@ The 10 most frequent ambiguous types:  <em>έχει</em> (<tt><a href="el_gdt-po
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 3.833333 (the average of all parts of speech is 1.776741).
+The form / lemma ratio of `AUX` is 3.833333 (the average of all parts of speech is 1.783022).
 
 The 1st highest number of forms (10) was observed with the lemma “έχω”: <em>έχει, έχετε, έχοντας, έχουμε, έχουν, έχω, είχαμε, είχαν, είχατε, είχε</em>.
 
@@ -69,7 +69,7 @@ Examples: <em>να, θα, ας, ν'</em>
 
 `AUX` nodes are attached to their parents using 2 different relations: <tt><a href="el_gdt-dep-aux.html">aux</a></tt> (2420; 80% instances), <tt><a href="el_gdt-dep-cop.html">cop</a></tt> (599; 20% instances)
 
-Parents of `AUX` nodes belong to 8 different parts of speech: <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (2363; 78% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (331; 11% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (264; 9% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> (22; 1% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (20; 1% instances), <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (11; 0% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="el_gdt-pos-X.html">X</a></tt> (3; 0% instances)
+Parents of `AUX` nodes belong to 8 different parts of speech: <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (2363; 78% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (333; 11% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (264; 9% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> (22; 1% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (20; 1% instances), <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (9; 0% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="el_gdt-pos-X.html">X</a></tt> (3; 0% instances)
 
 3019 (100%) `AUX` nodes are leaves.
 

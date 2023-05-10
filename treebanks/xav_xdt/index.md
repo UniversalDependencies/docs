@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.11 release
 The following people have contributed to making this treebank part of UD: Ivan Roksandic, Fabrício Ferraz Gerardi.
 
 Repository: [UD_Xavante-XDT](https://github.com/UniversalDependencies/UD_Xavante-XDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udxav_xdt211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udxav_xdt212)<br />
+Download all treebanks: [UD 2.12](/#download)
 
 License: CC BY-SA 4.0
 
@@ -42,7 +42,7 @@ Development of the treebank happens directly in the UD repository, so you may su
 
 ## Description
 
-UD_Xavante-XDT is a collection of annotated sentences in [Xavante](https://glottolog.org/resource/languoid/id/xava1240). Sentence annotation and documentation by Ivan Roksandic and [Fabrício Ferraz Gerardi](http://languagestructure.github.io/).
+UD_Xavante-XDT is a collection of annotated sentences in [Xavante](https://glottolog.org/resource/languoid/id/xava1240). Sentence annotation and documentation by [Fabrício Ferraz Gerardi](http://languagestructure.github.io/), Uliana Vedenina, Ivan Roksandic.
 
 
 
@@ -65,21 +65,21 @@ The development of this treebank is supported by the by European Research Counci
 
 ## POS Tags
 
-[ADP](xav_xdt-pos-ADP.html) – [ADV](xav_xdt-pos-ADV.html) – [AUX](xav_xdt-pos-AUX.html) – [DET](xav_xdt-pos-DET.html) – [NOUN](xav_xdt-pos-NOUN.html) – [PART](xav_xdt-pos-PART.html) – [PRON](xav_xdt-pos-PRON.html) – [PROPN](xav_xdt-pos-PROPN.html) – [PUNCT](xav_xdt-pos-PUNCT.html) – [VERB](xav_xdt-pos-VERB.html)
+[ADP](xav_xdt-pos-ADP.html) – [ADV](xav_xdt-pos-ADV.html) – [AUX](xav_xdt-pos-AUX.html) – [DET](xav_xdt-pos-DET.html) – [INTJ](xav_xdt-pos-INTJ.html) – [NOUN](xav_xdt-pos-NOUN.html) – [NUM](xav_xdt-pos-NUM.html) – [PART](xav_xdt-pos-PART.html) – [PRON](xav_xdt-pos-PRON.html) – [PROPN](xav_xdt-pos-PROPN.html) – [PUNCT](xav_xdt-pos-PUNCT.html) – [SCONJ](xav_xdt-pos-SCONJ.html) – [VERB](xav_xdt-pos-VERB.html) – [X](xav_xdt-pos-X.html)
 
 ## Features
 
-[Aspect](xav_xdt-feat-Aspect.html) – [Case](xav_xdt-feat-Case.html) – [Dim](xav_xdt-feat-Dim.html) – [Emph](xav_xdt-feat-Emph.html) – [Fact](xav_xdt-feat-Fact.html) – [Hon](xav_xdt-feat-Hon.html) – [Mir](xav_xdt-feat-Mir.html) – [Nmzr](xav_xdt-feat-Nmzr.html) – [Number](xav_xdt-feat-Number.html) – [Person](xav_xdt-feat-Person.html) – [PronType](xav_xdt-feat-PronType.html) – [Reflex](xav_xdt-feat-Reflex.html) – [Restr](xav_xdt-feat-Restr.html) – [Tense](xav_xdt-feat-Tense.html) – [Ventive](xav_xdt-feat-Ventive.html)
+[Case](xav_xdt-feat-Case.html) – [Degree](xav_xdt-feat-Degree.html) – [Ego](xav_xdt-feat-Ego.html) – [Emph](xav_xdt-feat-Emph.html) – [Fact](xav_xdt-feat-Fact.html) – [Gnq](xav_xdt-feat-Gnq.html) – [Hon](xav_xdt-feat-Hon.html) – [Htp](xav_xdt-feat-Htp.html) – [Int](xav_xdt-feat-Int.html) – [Mood](xav_xdt-feat-Mood.html) – [Number](xav_xdt-feat-Number.html) – [Number[abs]](xav_xdt-feat-Number-abs.html) – [NumType](xav_xdt-feat-NumType.html) – [Person](xav_xdt-feat-Person.html) – [Person[abs]](xav_xdt-feat-Person-abs.html) – [Polarity](xav_xdt-feat-Polarity.html) – [PronType](xav_xdt-feat-PronType.html) – [Reflex](xav_xdt-feat-Reflex.html) – [Tense](xav_xdt-feat-Tense.html)
 
 ## Relations
 
-[advmod](xav_xdt-dep-advmod.html) – [aux](xav_xdt-dep-aux.html) – [case](xav_xdt-dep-case.html) – [dep](xav_xdt-dep-dep.html) – [det](xav_xdt-dep-det.html) – [discourse](xav_xdt-dep-discourse.html) – [iobj](xav_xdt-dep-iobj.html) – [nmod](xav_xdt-dep-nmod.html) – [nsubj](xav_xdt-dep-nsubj.html) – [obj](xav_xdt-dep-obj.html) – [obl](xav_xdt-dep-obl.html) – [punct](xav_xdt-dep-punct.html) – [root](xav_xdt-dep-root.html)
+[acl](xav_xdt-dep-acl.html) – [advcl](xav_xdt-dep-advcl.html) – [advmod](xav_xdt-dep-advmod.html) – [aux](xav_xdt-dep-aux.html) – [case](xav_xdt-dep-case.html) – [ccomp](xav_xdt-dep-ccomp.html) – [conj](xav_xdt-dep-conj.html) – [dep](xav_xdt-dep-dep.html) – [det](xav_xdt-dep-det.html) – [discourse](xav_xdt-dep-discourse.html) – [dislocated](xav_xdt-dep-dislocated.html) – [iobj](xav_xdt-dep-iobj.html) – [mark](xav_xdt-dep-mark.html) – [nmod](xav_xdt-dep-nmod.html) – [nsubj](xav_xdt-dep-nsubj.html) – [nummod](xav_xdt-dep-nummod.html) – [obj](xav_xdt-dep-obj.html) – [obl](xav_xdt-dep-obl.html) – [parataxis](xav_xdt-dep-parataxis.html) – [punct](xav_xdt-dep-punct.html) – [root](xav_xdt-dep-root.html) – [vocative](xav_xdt-dep-vocative.html) – [xcomp](xav_xdt-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 20 sentences, 116 tokens and 120 syntactic words.</li>
+<li>This corpus contains 148 sentences, 1589 tokens and 1597 syntactic words.</li>
 </ul>
 
 <ul>
@@ -91,12 +91,12 @@ The development of this treebank is supported by the by European Research Counci
 </ul>
 
 <ul>
-<li>This corpus does not contain words that contain both letters and punctuation.</li>
+<li>This corpus contains 102 types of words that contain both letters and punctuation. Examples: dza'ra, 'watébrémi, wa'wa, pi'õ, a'uwẽ, ba'õtõ, waihu'u, pi’õ, tsa'ẽtè, 're, 'ri, pe'a, tsi'a, wa'aba, wahi'rata, 'wa, Atsõhui'wa, anorĩwa'wahã, ba'õno, ma'ãpé, pi'uriwi, rowahutu'wa, rowatsu'u, ti'ra, tsada'öbö, tsõ're, 'rinho're, ai'repudu, ai'uté, danho're, dawede'wai, ni'wa, pa'o, ta'a, ti'a, tinhohui'wai, tsada'ö, ĩ'madö'ö, ĩ'ra, ĩ'rãzani, ĩ'uptsõi, ĩta'are, 'Ritéi'wa, 'Watébrémire, 'madö'ö, 'mahö, 'maipo'repu'umhã, 'manho're, 'ra, 'remhã</li>
 </ul>
 
 <ul>
-<li>This corpus contains 4 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 4 types of multi-word tokens. Examples: ropotoʔwa, wahiʔratanorĩhã, warobreb, ʔröwipese.</li>
+<li>This corpus contains 8 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 8 types of multi-word tokens. Examples: 'rowipese, Mrap-te, Wawa'a-te, ropoto'wa, rowẽuptabi, warobreb, zöptete, Ĩhiñimiza'reseõ.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -104,31 +104,31 @@ The development of this treebank is supported by the by European Research Counci
 <h3>Tags</h3>
 
 <ul>
-<li>This corpus uses 10 UPOS tags out of 17 possible: <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>DET</a>, <a>NOUN</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>VERB</a></li>
-<li>This corpus does not use the following tags: ADJ, NUM, SCONJ, CCONJ, INTJ, SYM, X</li>
+<li>This corpus uses 14 UPOS tags out of 17 possible: <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
+<li>This corpus does not use the following tags: ADJ, CCONJ, SYM</li>
 </ul>
 
 <ul>
-<li>This corpus contains 18 word types tagged as particles (PART): Te, hã, ma, na, ni, norĩ, norĩhã, oto, re, reb, si, tô, wa, we, za, zaʔra, ãma, ʔre</li>
+<li>This corpus contains 20 word types tagged as particles (PART): 're, aba, bö, di, dza, dza'ra, e, hã, ma, mono, norĩ, norĩhã, re, reb, te, tô, tõ, wa, wa'aba, õ</li>
 </ul>
 
 <ul>
-<li>This corpus contains 8 lemmas tagged as pronouns (PRON): _, dzahuré, ma, ni, owa, te, uburé, wa</li>
+<li>This corpus contains 19 lemmas tagged as pronouns (PRON): 'wa, a, ai, aihini, anorĩwa'wahã, atsa, da, ni'wa, taha, te, ti, uburé, wa, wanorĩhã, ãhã, õhã, õnorĩhã, ĩ, ĩĩ</li>
 </ul>
 
 <ul>
-<li>This corpus contains 2 lemmas tagged as determiners (DET): tahata, õhõ</li>
+<li>This corpus contains 2 lemmas tagged as determiners (DET): hã, tahata</li>
 </ul>
 
 <ul>
 </ul>
 
 <ul>
-<li>This corpus contains 2 lemmas tagged as auxiliaries (AUX): _, te</li>
+<li>This corpus contains 3 lemmas tagged as auxiliaries (AUX): ma'ãpé, mo, te</li>
 </ul>
 
 <ul>
-<li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: _</li>
+<li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: mo</li>
 </ul>
 
 <ul>
@@ -147,7 +147,8 @@ The development of this treebank is supported by the by European Research Counci
 <ul>
   <li>Coll
     <ul>
-      <li>PART: norĩ, norĩhã, hã</li>
+      <li>PART: norĩ, norĩhã, aba, wa'aba</li>
+      <li>PRON: wanorĩhã, anorĩwa'wahã</li>
     </ul>
   </li>
 </ul>
@@ -155,7 +156,8 @@ The development of this treebank is supported by the by European Research Counci
 <ul>
   <li>Dual
     <ul>
-      <li>PRON: ni, dzahuré</li>
+      <li>NUM: dzahuré</li>
+      <li>X: wa'wa, ni, 'wa</li>
     </ul>
   </li>
 </ul>
@@ -163,12 +165,11 @@ The development of this treebank is supported by the by European Research Counci
 <ul>
   <li>Plur
     <ul>
-      <li>ADP: wasima</li>
+      <li>ADP: wadzô, waré</li>
       <li>AUX: wate</li>
-      <li>NOUN: waʔra</li>
-      <li>PART: zaʔra</li>
-      <li>PRON: dzaʔrani, wa, ma, wama</li>
-      <li>VERB: tsabu, wawaʔutu</li>
+      <li>NOUN: 'ra, Wahitébré, Watsi'utsu, Wawa'a, wa'ra, warob, watsa, watsai</li>
+      <li>PART: dza'ra</li>
+      <li>PRON: wama, õnorĩhã, Anorĩwa'wahã, wasima</li>
     </ul>
   </li>
 </ul>
@@ -176,7 +177,10 @@ The development of this treebank is supported by the by European Research Counci
 <ul>
   <li>Sing
     <ul>
-      <li>PRON: ma, te</li>
+      <li>AUX: tete</li>
+      <li>NOUN: Ano, ĩna, ĩno, ĩĩmama, aimreme, dahöimanadzéb, ĩhitébré</li>
+      <li>PRON: õhã, ĩĩsima</li>
+      <li>VERB: Ĩĩsiupte</li>
     </ul>
   </li>
 </ul>
@@ -188,8 +192,8 @@ The development of this treebank is supported by the by European Research Counci
 <ul>
   <li>Dat
     <ul>
-      <li>ADP: wasima</li>
-      <li>PRON: wama</li>
+      <li>ADP: ma</li>
+      <li>PRON: aima, tãma, wama, dama, wasima, ĩma, ĩĩsima</li>
     </ul>
   </li>
 </ul>
@@ -197,7 +201,8 @@ The development of this treebank is supported by the by European Research Counci
 <ul>
   <li>Ins
     <ul>
-      <li>PART: na</li>
+      <li>NOUN: Wasina</li>
+      <li>PRON: asina</li>
     </ul>
   </li>
 </ul>
@@ -207,33 +212,64 @@ The development of this treebank is supported by the by European Research Counci
 <h3>Degree and Polarity</h3>
 
 
+<ul>
+  <li><a>Degree</a></li>
+</ul>
 
+<ul>
+  <li>Dim
+    <ul>
+      <li>NOUN: 'Watébrémire, ba'õtõre, watsu'ure</li>
+      <li>PART: re, reb</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Polarity</a></li>
+</ul>
+
+<ul>
+  <li>Neg
+    <ul>
+      <li>NOUN: ñimiza'reseõ</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Verbal Features</h3>
 
 
+
 <ul>
-  <li><a>Aspect</a></li>
+  <li><a>Mood</a></li>
 </ul>
 
 <ul>
-  <li>Prosp
+  <li>Des
     <ul>
-      <li>PART: za</li>
+      <li>X: hö</li>
     </ul>
   </li>
 </ul>
-
 
 <ul>
   <li><a>Tense</a></li>
 </ul>
 
 <ul>
+  <li>Fut
+    <ul>
+      <li>PART: dza</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Past
     <ul>
-      <li>PRON: wa, ma</li>
+      <li>PART: ma</li>
     </ul>
   </li>
 </ul>
@@ -241,7 +277,7 @@ The development of this treebank is supported by the by European Research Counci
 <ul>
   <li>Pres
     <ul>
-      <li>PRON: ma</li>
+      <li>PART: te</li>
     </ul>
   </li>
 </ul>
@@ -256,9 +292,25 @@ The development of this treebank is supported by the by European Research Counci
 </ul>
 
 <ul>
+  <li>Dem
+    <ul>
+      <li>PRON: Ãhã</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Ind
     <ul>
-      <li>PART: ni</li>
+      <li>PRON: ni'wa</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Int
+    <ul>
+      <li>PRON: 'wa</li>
     </ul>
   </li>
 </ul>
@@ -266,7 +318,7 @@ The development of this treebank is supported by the by European Research Counci
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: ma, te, wa</li>
+      <li>PRON: õhã</li>
     </ul>
   </li>
 </ul>
@@ -274,11 +326,22 @@ The development of this treebank is supported by the by European Research Counci
 <ul>
   <li>Tot
     <ul>
-      <li>PRON: uburé</li>
+      <li>PRON: aihini, uburé</li>
     </ul>
   </li>
 </ul>
 
+<ul>
+  <li><a>NumType</a></li>
+</ul>
+
+<ul>
+  <li>Dist
+    <ul>
+      <li>PART: mono</li>
+    </ul>
+  </li>
+</ul>
 
 
 <ul>
@@ -288,7 +351,8 @@ The development of this treebank is supported by the by European Research Counci
 <ul>
   <li>Yes
     <ul>
-      <li>ADP: wasima</li>
+      <li>NOUN: tina</li>
+      <li>PRON: wasima, ĩĩsima, asina</li>
     </ul>
   </li>
 </ul>
@@ -300,11 +364,12 @@ The development of this treebank is supported by the by European Research Counci
 <ul>
   <li>1
     <ul>
-      <li>ADP: wasima</li>
+      <li>ADP: wadzô, waré</li>
       <li>AUX: wate</li>
-      <li>NOUN: waʔra</li>
-      <li>PRON: wa, wama</li>
-      <li>VERB: tsabu, wawaʔutu</li>
+      <li>NOUN: Ĩ'rã, ĩĩmama, 'ra, Wahitébré, Watsi'utsu, Wawa'a, wa'ra, warob, watsa, watsai</li>
+      <li>PART: wa</li>
+      <li>PRON: wanorĩhã, wama, wasima, ĩma, ĩĩsima</li>
+      <li>VERB: Ĩĩsiupte</li>
     </ul>
   </li>
 </ul>
@@ -312,7 +377,9 @@ The development of this treebank is supported by the by European Research Counci
 <ul>
   <li>2
     <ul>
-      <li>PRON: te</li>
+      <li>ADP: atsarina</li>
+      <li>NOUN: Atsõhui'wa, Aimama, Aiwa'a, Ana, aihitébré, ai’udza, atsib'rada, aimreme</li>
+      <li>PRON: aima, anorĩwa'wahã, asina</li>
     </ul>
   </li>
 </ul>
@@ -320,9 +387,12 @@ The development of this treebank is supported by the by European Research Counci
 <ul>
   <li>3
     <ul>
-      <li>NOUN: ipire</li>
-      <li>PRON: ma, dzahuré</li>
-      <li>VERB: dapãrĩ</li>
+      <li>ADP: tiwi</li>
+      <li>ADV: wẽ</li>
+      <li>AUX: tete</li>
+      <li>NOUN: ti'ra, ĩprédu, tina, timama, tinhohui'wai, ĩ'ra, ĩpire, ĩta'are, ĩtsa, Ano</li>
+      <li>PRON: tãma, õhã, õnorĩhã, dama</li>
+      <li>VERB: ĩ'rãzani, ti'ö, tinha</li>
     </ul>
   </li>
 </ul>
@@ -334,11 +404,11 @@ The development of this treebank is supported by the by European Research Counci
 
 
 <ul>
-  <li><a>Dim</a>
+  <li><a>Ego</a>
     <ul>
       <li>Yes
         <ul>
-          <li>PART: re</li>
+          <li>PART: wa</li>
         </ul>
       </li>
     </ul>
@@ -350,7 +420,8 @@ The development of this treebank is supported by the by European Research Counci
     <ul>
       <li>Yes
         <ul>
-          <li>PART: hã, norĩhã, norĩ</li>
+          <li>PART: hã, norĩhã</li>
+          <li>PRON: wanorĩhã, õhã, anorĩwa'wahã</li>
         </ul>
       </li>
     </ul>
@@ -370,11 +441,27 @@ The development of this treebank is supported by the by European Research Counci
 </ul>
 
 <ul>
+  <li><a>Gnq</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>NOUN: datsa, dawede, darob</li>
+          <li>PRON: dama</li>
+          <li>VERB: dapãrĩ</li>
+          <li>X: te</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Hon</a>
     <ul>
       <li>Yes
         <ul>
-          <li>VERB: dapãrĩ</li>
+          <li>PRON: asina</li>
+          <li>VERB: aahöimana</li>
         </ul>
       </li>
     </ul>
@@ -382,11 +469,11 @@ The development of this treebank is supported by the by European Research Counci
 </ul>
 
 <ul>
-  <li><a>Mir</a>
+  <li><a>Htp</a>
     <ul>
       <li>Yes
         <ul>
-          <li>PART: oto</li>
+          <li>PART: te, ma</li>
         </ul>
       </li>
     </ul>
@@ -394,11 +481,11 @@ The development of this treebank is supported by the by European Research Counci
 </ul>
 
 <ul>
-  <li><a>Nmzr</a>
+  <li><a>Int</a>
     <ul>
       <li>Yes
         <ul>
-          <li>NOUN: ĩʔrãzani, ipire</li>
+          <li>PART: e</li>
         </ul>
       </li>
     </ul>
@@ -406,11 +493,11 @@ The development of this treebank is supported by the by European Research Counci
 </ul>
 
 <ul>
-  <li><a>Restr</a>
+  <li><a>Number[abs]</a>
     <ul>
-      <li>Yes
+      <li>Sing
         <ul>
-          <li>PART: si</li>
+          <li>VERB: ĩĩhöimana</li>
         </ul>
       </li>
     </ul>
@@ -418,11 +505,21 @@ The development of this treebank is supported by the by European Research Counci
 </ul>
 
 <ul>
-  <li><a>Ventive</a>
+  <li><a>Person[abs]</a>
     <ul>
-      <li>Yes
+      <li>1
         <ul>
-          <li>PART: we</li>
+          <li>VERB: watsi'aba'ré, wawa'utu, ĩĩhöimana</li>
+        </ul>
+      </li>
+      <li>2
+        <ul>
+          <li>VERB: aipo'repu'u, atsamarĩ, aahöimana</li>
+        </ul>
+      </li>
+      <li>3
+        <ul>
+          <li>VERB: tineb, tiwĩ, tinha, titsa, titsõ, ĩ'madö'ö, ĩ'uptsõi, ĩnharĩ, ĩwapari, tihi</li>
         </ul>
       </li>
     </ul>
@@ -438,7 +535,7 @@ The development of this treebank is supported by the by European Research Counci
 </ul>
 
 <ul>
-<li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: te, _.</li>
+<li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: te, mo.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -447,8 +544,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (5)</li>
-      <li>VERB--PRON (6)</li>
+      <li>VERB--NOUN (91)</li>
+      <li>VERB--PRON (25)</li>
+      <li>VERB--PRON-Dat (2)</li>
     </ul>
   </li>
 </ul>
@@ -456,8 +554,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (10)</li>
-      <li>VERB--PRON (3)</li>
+      <li>VERB--NOUN (63)</li>
+      <li>VERB--NOUN-Ins (1)</li>
+      <li>VERB--PRON (1)</li>
     </ul>
   </li>
 </ul>
@@ -465,7 +564,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB--PRON-Dat (1)</li>
+      <li>VERB--NOUN (2)</li>
+      <li>VERB--PRON (1)</li>
+      <li>VERB--PRON-Dat (20)</li>
     </ul>
   </li>
 </ul>
@@ -475,12 +576,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 1 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: _ wasima</li>
+  <li>This corpus contains 2 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: _ wasima, romhuri wasima</li>
 </ul>
 
 <h3>Relations Overview</h3>
 
 <ul>
 <li>This corpus does not use relation subtypes.</li>
-<li>The following 24 relation types are not used in this corpus at all: <a>csubj</a>, <a>ccomp</a>, <a>xcomp</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>advcl</a>, <a>cop</a>, <a>mark</a>, <a>appos</a>, <a>nummod</a>, <a>acl</a>, <a>amod</a>, <a>clf</a>, <a>conj</a>, <a>cc</a>, <a>fixed</a>, <a>flat</a>, <a>compound</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>The following 14 relation types are not used in this corpus at all: <a>csubj</a>, <a>expl</a>, <a>cop</a>, <a>appos</a>, <a>amod</a>, <a>clf</a>, <a>cc</a>, <a>fixed</a>, <a>flat</a>, <a>compound</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

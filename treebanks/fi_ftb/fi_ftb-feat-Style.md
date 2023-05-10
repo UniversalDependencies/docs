@@ -12,19 +12,19 @@ It occurs with 2 different values: `Arch`, `Coll`.
 4451 tokens (3%) have a non-empty value of `Style`.
 1684 types (4%) occur at least once with a non-empty value of `Style`.
 817 lemmas (4%) occur at least once with a non-empty value of `Style`.
-The feature is used with 14 part-of-speech tags: <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (853; 1% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (817; 1% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (517; 0% instances), <tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt> (503; 0% instances), <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> (465; 0% instances), <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> (319; 0% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (291; 0% instances), <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (281; 0% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (204; 0% instances), <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (80; 0% instances), <tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (49; 0% instances), <tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (37; 0% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (34; 0% instances), <tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
+The feature is used with 14 part-of-speech tags: <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (877; 1% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (817; 1% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (517; 0% instances), <tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt> (503; 0% instances), <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> (465; 0% instances), <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> (319; 0% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (291; 0% instances), <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (257; 0% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (204; 0% instances), <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (80; 0% instances), <tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (49; 0% instances), <tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (37; 0% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (34; 0% instances), <tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-853 <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> tokens (3% of all `VERB` tokens) have a non-empty value of `Style`.
+877 <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> tokens (3% of all `VERB` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `VERB` and `Style` co-occurred: <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (766; 90%), <tt><a href="fi_ftb-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (744; 87%), <tt><a href="fi_ftb-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (682; 80%), <tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (573; 67%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (573; 67%), <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (573; 67%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (462; 54%), <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (437; 51%).
+The most frequent other feature values with which `VERB` and `Style` co-occurred: <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (790; 90%), <tt><a href="fi_ftb-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (768; 88%), <tt><a href="fi_ftb-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (705; 80%), <tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (596; 68%), <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (596; 68%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (593; 68%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (469; 53%), <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (454; 52%).
 
 `VERB` tokens may have the following values of `Style`:
 
-* `Coll` (853; 100% of non-empty `Style`): <em>ollu, sano, oo, onks, aattelin, menny, o, olis, tullu, ois</em>
+* `Coll` (877; 100% of non-empty `Style`): <em>ollu, sano, oo, onks, aattelin, menny, o, olis, tullu, ois</em>
 
-`Style` seems to be **lexical feature** of `VERB`. 100% lemmas (224) occur only with one value of `Style`.
+`Style` seems to be **lexical feature** of `VERB`. 100% lemmas (228) occur only with one value of `Style`.
 
 ### `PRON`
 
@@ -95,15 +95,13 @@ The most frequent other feature values with which `NOUN` and `Style` co-occurred
 
 ### `AUX`
 
-281 <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> tokens (3% of all `AUX` tokens) have a non-empty value of `Style`.
+257 <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> tokens (2% of all `AUX` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `AUX` and `Style` co-occurred: <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (274; 98%), <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (262; 93%), <tt><a href="fi_ftb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (253; 90%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (215; 77%), <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (166; 59%), <tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (144; 51%).
+The most frequent other feature values with which `AUX` and `Style` co-occurred: <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (250; 97%), <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (239; 93%), <tt><a href="fi_ftb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (229; 89%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (195; 76%), <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (149; 58%), <tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (132; 51%).
 
 `AUX` tokens may have the following values of `Style`:
 
-* `Coll` (281; 100% of non-empty `Style`): <em>oo, oon, oot, o, ollu, olis, onks, ois, vois, pitäs</em>
-
-`Style` seems to be **lexical feature** of `AUX`. 100% lemmas (18) occur only with one value of `Style`.
+* `Coll` (257; 100% of non-empty `Style`): <em>oo, oon, oot, o, ollu, olis, onks, ois, vois, pitäs</em>
 
 ### `ADJ`
 
@@ -180,5 +178,5 @@ The 10 most frequent relations where parent and child node agree in `Style`:
 <tt>ADV --[<tt><a href="fi_ftb-dep-fixed.html">fixed</a></tt>]--> SCONJ</tt> (4; 57%),
 <tt>ADV --[<tt><a href="fi_ftb-dep-mark.html">mark</a></tt>]--> SCONJ</tt> (3; 60%),
 <tt>DET --[<tt><a href="fi_ftb-dep-conj.html">conj</a></tt>]--> DET</tt> (3; 100%),
-<tt>VERB --[<tt><a href="fi_ftb-dep-xcomp.html">xcomp</a></tt>]--> ADJ</tt> (2; 67%).
+<tt>ADJ --[<tt><a href="fi_ftb-dep-advcl.html">advcl</a></tt>]--> ADV</tt> (1; 100%).
 

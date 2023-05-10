@@ -56,7 +56,7 @@ The following 12 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 cc	color:blue
-1	_	_	NUM	_	_	28	dep	_	BBIL=B|BPT=4|SpaceAfter=Yes|UI=95
+1	_	_	NUM	_	_	28	dep	_	BBIL=B|BPT=4|UI=95
 2	_	_	NOUN	_	_	4	nmod	_	BBIL=B|BPT=0|SpaceAfter=No|UI=18770
 3	_	_	CCONJ	_	_	4	cc	_	BBIL=B|BPT=0|SpaceAfter=No|UI=10945
 4	_	_	NOUN	_	_	12	obl	_	BBIL=B|BPT=0|SpaceAfter=No|UI=10085

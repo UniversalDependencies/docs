@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-151 nodes (2%) are attached to their parents as `advcl`.
+150 nodes (1%) are attached to their parents as `advcl`.
 
-132 instances of `advcl` (87%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.49668874172185.
+131 instances of `advcl` (87%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.49333333333333.
 
-The following 9 pairs of parts of speech are connected with `advcl`: <tt><a href="br_keb-pos-VERB.html">VERB</a></tt>-<tt><a href="br_keb-pos-VERB.html">VERB</a></tt> (118; 78% instances), <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="br_keb-pos-VERB.html">VERB</a></tt> (13; 9% instances), <tt><a href="br_keb-pos-VERB.html">VERB</a></tt>-<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> (7; 5% instances), <tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="br_keb-pos-VERB.html">VERB</a></tt> (6; 4% instances), <tt><a href="br_keb-pos-ADV.html">ADV</a></tt>-<tt><a href="br_keb-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="br_keb-pos-PRON.html">PRON</a></tt>-<tt><a href="br_keb-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="br_keb-pos-VERB.html">VERB</a></tt>-<tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="br_keb-pos-VERB.html">VERB</a></tt>-<tt><a href="br_keb-pos-NUM.html">NUM</a></tt> (1; 1% instances).
+The following 9 pairs of parts of speech are connected with `advcl`: <tt><a href="br_keb-pos-VERB.html">VERB</a></tt>-<tt><a href="br_keb-pos-VERB.html">VERB</a></tt> (117; 78% instances), <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="br_keb-pos-VERB.html">VERB</a></tt> (13; 9% instances), <tt><a href="br_keb-pos-VERB.html">VERB</a></tt>-<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> (7; 5% instances), <tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="br_keb-pos-VERB.html">VERB</a></tt> (6; 4% instances), <tt><a href="br_keb-pos-ADV.html">ADV</a></tt>-<tt><a href="br_keb-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="br_keb-pos-PRON.html">PRON</a></tt>-<tt><a href="br_keb-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="br_keb-pos-VERB.html">VERB</a></tt>-<tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="br_keb-pos-VERB.html">VERB</a></tt>-<tt><a href="br_keb-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -39,7 +39,7 @@ The following 9 pairs of parts of speech are connected with `advcl`: <tt><a href
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 7 advcl	color:blue
-1	An	an	DET	det	_	2	det	_	_
+1	an	an	DET	det	_	2	det	_	_
 2	diskoulmoù	diskoulm	NOUN	n	Gender=Masc|Number=Plur	7	obj	_	_
 3	hag	ha	CCONJ	cnjcoo	_	4	cc	_	_
 4	an	an	DET	det	_	5	det	_	_

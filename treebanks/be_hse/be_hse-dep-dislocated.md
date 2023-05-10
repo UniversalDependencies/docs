@@ -33,7 +33,7 @@ The following 12 pairs of parts of speech are connected with `dislocated`: <tt><
 9	казаў	казаць	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	parataxis	5:parataxis	_
 10	далей	далей	ADV	RBR	Degree=Cmp	9	advmod	9:advmod	_
 11	дзядзька	дзядзька	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	9:nsubj	_
-12	Міхась	Міхась	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	appos	11:appos	SpaceAfter=No
+12	Міхась	Міхась	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	11	appos	11:appos	SpaceAfter=No
 13	.	.	PUNCT	PUNCT	_	5	punct	5:punct	_
 
 ~~~
@@ -75,7 +75,7 @@ The following 12 pairs of parts of speech are connected with `dislocated`: <tt><
 2	роздуму	роздум	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	1:nmod:gen	_
 3	для	для	ADP	IN	_	4	case	4:case	_
 4	наведвальнікаў	наведвальнік	NOUN	NN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	1	nmod	1:nmod:для:gen	_
-5	Курапат	Курапаты	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	4	nmod	4:nmod:gen	SpaceAfter=No
+5	Курапат	Курапаты	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Fem|NameType=Geo|Number=Plur	4	nmod	4:nmod:gen	SpaceAfter=No
 6	,	,	PUNCT	PUNCT	_	1	punct	1:punct	_
 7	лаўка	лаўка	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	nsubj	8:nsubj	_
 8	сымвалізуе	сымвалізаваць	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_

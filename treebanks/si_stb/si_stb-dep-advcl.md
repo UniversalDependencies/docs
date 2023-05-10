@@ -22,14 +22,14 @@ The following 1 pairs of parts of speech are connected with `advcl`: <tt><a href
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 3 advcl	color:blue
-1	ප්‍රවෘත්තිය	ප්‍රවෘත්ති	NOUN	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	3	nsubj	_	_
-2	පළ	පළ	PART	_	_	3	compound:lvc	_	_
-3	වීමෙන්	වෙ	NOUN	_	Case=Ins|Number=Sing|VerbForm=Ger	6	advcl	_	_
-4	පසු	පසු	PART	_	AdpType=Post	3	case	_	_
-5	රට	රට	NOUN	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing	6	nsubj	_	_
-6	ගිනි	ගිනි	NOUN	_	Case=Nom|Gender=Neut|Number=Ptan	0	root	_	_
-7	ගනී	ගන්	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	6	compound	_	_
-8	.	.	PUNCT	_	_	6	punct	_	_
+1	ප්‍රවෘත්තිය	ප්‍රවෘත්ති	NOUN	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	3	nsubj	_	Translit=pravr̥ttiya|LTranslit=pravr̥tti
+2	පළ	පළ	PART	_	_	3	compound:lvc	_	Translit=paḷa|LTranslit=paḷa
+3	වීමෙන්	වෙ	NOUN	_	Case=Ins|Number=Sing|VerbForm=Ger	6	advcl	_	Translit=vīmen|LTranslit=ve
+4	පසු	පසු	PART	_	AdpType=Post	3	case	_	Translit=pasu|LTranslit=pasu
+5	රට	රට	NOUN	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing	6	nsubj	_	Translit=raṭa|LTranslit=raṭa
+6	ගිනි	ගිනි	NOUN	_	Case=Nom|Gender=Neut|Number=Ptan	0	root	_	Translit=gini|LTranslit=gini
+7	ගනී	ගන්	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	6	compound	_	Translit=ganī|LTranslit=gan
+8	.	.	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

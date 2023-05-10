@@ -13,7 +13,7 @@ This relation is universal.
 507 instances of `cop` (85%) are right-to-left (child precedes parent).
 Average distance between parent and child is 2.12520868113523.
 
-The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> (275; 46% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> (232; 39% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> (38; 6% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt>-<tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> (21; 4% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt>-<tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> (16; 3% instances), <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt>-<tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> (11; 2% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="el_gdt-pos-X.html">X</a></tt>-<tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> (2; 0% instances).
+The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> (277; 46% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> (232; 39% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> (38; 6% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt>-<tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> (21; 4% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt>-<tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> (16; 3% instances), <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt>-<tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> (9; 2% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="el_gdt-pos-X.html">X</a></tt>-<tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -62,8 +62,8 @@ The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="
 5	είναι	είμαι	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	6	cop	_	_
 6	προετοιμασμένα	προετοιμάζω	VERB	VERB	Aspect=Perf|Case=Nom|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	_
 7	για	για	ADP	ADP	_	8	case	_	_
-8	κάτι	κάτι	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Ind	6	det	_	_
-9	τέτοιο	τέτοιος	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Dem	8	det	_	SpaceAfter=No
+8	κάτι	κάτι	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Ind	6	obl	_	_
+9	τέτοιο	τέτοιος	DET	DET	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Dem	8	det	_	SpaceAfter=No
 10	.	.	PUNCT	PUNCT	_	6	punct	_	_
 
 ~~~

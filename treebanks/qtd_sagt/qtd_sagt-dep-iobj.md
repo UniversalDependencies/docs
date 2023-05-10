@@ -30,7 +30,7 @@ The following 8 pairs of parts of speech are connected with `iobj`: <tt><a href=
 6	sich	er|es|sie	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	5	iobj	_	CSID=DE|Lang=de
 7	da	da	ADV	_	_	5	advmod	_	CSID=DE|Lang=de
 8	gar	gar	ADV	_	_	9	advmod	_	CSID=DE|Lang=de
-9	keine	kein	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Polarity=Neg|PronType=Neg	5	obj	_	CSID=DE|Lang=de
+9	keine	kein	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Neg	5	obj	_	CSID=DE|Lang=de
 10	so	so	ADV	_	_	5	discourse	_	CSID=DE|Lang=de|SpaceAfter=No
 11	.	.	PUNCT	_	_	5	punct	_	CSID=OTHER
 

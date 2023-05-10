@@ -12,7 +12,7 @@ It occurs with 2 different values: `Fem`, `Masc`.
 12434 tokens (28%) have a non-empty value of `Gender`.
 2698 types (59%) occur at least once with a non-empty value of `Gender`.
 2221 lemmas (65%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 7 part-of-speech tags: <tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> (5092; 12% instances), <tt><a href="fr_rhapsodie-pos-DET.html">DET</a></tt> (2842; 6% instances), <tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (2395; 5% instances), <tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt> (1277; 3% instances), <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> (713; 2% instances), <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> (69; 0% instances), <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> (46; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> (5092; 12% instances), <tt><a href="fr_rhapsodie-pos-DET.html">DET</a></tt> (2842; 6% instances), <tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (2395; 5% instances), <tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt> (1277; 3% instances), <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> (715; 2% instances), <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> (69; 0% instances), <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> (44; 0% instances).
 
 ### `NOUN`
 
@@ -24,7 +24,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 * `Fem` (2263; 44% of non-empty `Gender`): <em>place, vie, fille, chose, gauche, rue, droite, fois, boule, choses</em>
 * `Masc` (2829; 56% of non-empty `Gender`): <em>fait, moment, ans, gens, temps, art, côté, monde, accord, cas</em>
-* `EMPTY` (140): <em>peu, tout, bonjour, World, XXX, com, ca~, dis~, entour~, ma~</em>
+* `EMPTY` (138): <em>peu, tout, bonjour, World, com, ca~, dis~, entour~, ex~, ma~</em>
 
 <table>
   <tr><th>Paradigm <i>fois</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -44,7 +44,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 * `Fem` (1241; 44% of non-empty `Gender`): <em>la, une, cette, sa, ma, toute, aucune, quelle, certaines, ta</em>
 * `Masc` (1601; 56% of non-empty `Gender`): <em>le, un, ce, cet, du, aucun, quel, certains, tel, tous</em>
-* `EMPTY` (1630): <em>les, l', des, mon, votre, son, notre, ces, ses, quelque</em>
+* `EMPTY` (1629): <em>les, l', des, mon, votre, son, notre, ces, ses, quelque</em>
 
 <table>
   <tr><th>Paradigm <i>le</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -79,7 +79,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 * `Fem` (510; 40% of non-empty `Gender`): <em>grande, petite, magique, bonne, autre, toutes, première, toute, seule, certaine</em>
 * `Masc` (767; 60% of non-empty `Gender`): <em>petit, tous, tout, vrai, droit, français, premier, sûr, bon, gros</em>
-* `EMPTY` (294): <em>jeune, même, difficile, tout, propre, deuxième, facile, jeunes, grave, incroyable</em>
+* `EMPTY` (295): <em>jeune, même, difficile, tout, propre, deuxième, facile, jeunes, grave, incroyable</em>
 
 <table>
   <tr><th>Paradigm <i>tout</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -89,15 +89,15 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 ### `VERB`
 
-713 <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> tokens (17% of all `VERB` tokens) have a non-empty value of `Gender`.
+715 <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> tokens (17% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="fr_rhapsodie-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (713; 100%), <tt><a href="fr_rhapsodie-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (713; 100%), <tt><a href="fr_rhapsodie-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (712; 100%), <tt><a href="fr_rhapsodie-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (712; 100%), <tt><a href="fr_rhapsodie-feat-Number.html">Number</a></tt><tt>=Sing</tt> (610; 86%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="fr_rhapsodie-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (715; 100%), <tt><a href="fr_rhapsodie-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (715; 100%), <tt><a href="fr_rhapsodie-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (714; 100%), <tt><a href="fr_rhapsodie-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (714; 100%), <tt><a href="fr_rhapsodie-feat-Number.html">Number</a></tt><tt>=Sing</tt> (612; 86%).
 
 `VERB` tokens may have the following values of `Gender`:
 
 * `Fem` (146; 20% of non-empty `Gender`): <em>arrivée, née, venue, rentrée, restée, étonnée, obligée, partie, renforcée, revenue</em>
-* `Masc` (567; 80% of non-empty `Gender`): <em>dit, fait, eu, pu, travaillé, vu, arrivé, compris, vécu, choisi</em>
-* `EMPTY` (3503): <em>a, est, va, dire, voilà, faut, allez, faire, ai, peut</em>
+* `Masc` (569; 80% of non-empty `Gender`): <em>dit, fait, eu, pu, travaillé, vu, arrivé, compris, vécu, été</em>
+* `EMPTY` (3500): <em>a, est, va, dire, voilà, faut, allez, faire, ai, peut</em>
 
 <table>
   <tr><th>Paradigm <i>aller</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -112,26 +112,26 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 
 * `Fem` (31; 45% of non-empty `Gender`): <em>Nef, Beauce, Seine, CGC, France, Marne, Mort, Rolex, Shoah, Vire</em>
 * `Masc` (38; 55% of non-empty `Gender`): <em>Kenya, Maître, Gâtinais, Figaro, Beauceron, Argentins, Beaucerons, Chinois, Christ, Conseil</em>
-* `EMPTY` (948): <em>France, Paris, Gutiérrez, Chavant, Français, Messi, Rodriguez, Jésus, Europe, Notre-Dame</em>
+* `EMPTY` (944): <em>France, Paris, Gutiérrez, Chavant, Français, Messi, Rodriguez, Jésus, Europe, Notre-Dame</em>
 
 `Gender` seems to be **lexical feature** of `PROPN`. 100% lemmas (28) occur only with one value of `Gender`.
 
 ### `AUX`
 
-46 <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> tokens (3% of all `AUX` tokens) have a non-empty value of `Gender`.
+44 <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> tokens (3% of all `AUX` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="fr_rhapsodie-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (46; 100%), <tt><a href="fr_rhapsodie-feat-Number.html">Number</a></tt><tt>=Sing</tt> (46; 100%), <tt><a href="fr_rhapsodie-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (46; 100%), <tt><a href="fr_rhapsodie-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (46; 100%), <tt><a href="fr_rhapsodie-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (46; 100%).
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="fr_rhapsodie-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (44; 100%), <tt><a href="fr_rhapsodie-feat-Number.html">Number</a></tt><tt>=Sing</tt> (44; 100%), <tt><a href="fr_rhapsodie-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (44; 100%), <tt><a href="fr_rhapsodie-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (44; 100%), <tt><a href="fr_rhapsodie-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (44; 100%).
 
 `AUX` tokens may have the following values of `Gender`:
 
-* `Masc` (46; 100% of non-empty `Gender`): <em>été, fait</em>
-* `EMPTY` (1599): <em>est, a, ai, était, sont, suis, être, ont, avez, êtes</em>
+* `Masc` (44; 100% of non-empty `Gender`): <em>été, fait</em>
+* `EMPTY` (1598): <em>est, a, ai, était, sont, suis, être, ont, avez, êtes</em>
 
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="fr_rhapsodie-dep-det.html">det</a></tt>]--> DET</tt> (2356; 63%),
-<tt>NOUN --[<tt><a href="fr_rhapsodie-dep-amod.html">amod</a></tt>]--> ADJ</tt> (771; 83%),
+<tt>NOUN --[<tt><a href="fr_rhapsodie-dep-amod.html">amod</a></tt>]--> ADJ</tt> (771; 82%),
 <tt>NOUN --[<tt><a href="fr_rhapsodie-dep-conj.html">conj</a></tt>]--> NOUN</tt> (150; 60%),
 <tt>ADJ --[<tt><a href="fr_rhapsodie-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (97; 51%),
 <tt>NOUN --[<tt><a href="fr_rhapsodie-dep-reparandum.html">reparandum</a></tt>]--> NOUN</tt> (92; 69%),

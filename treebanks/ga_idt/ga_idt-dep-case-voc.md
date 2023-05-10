@@ -54,7 +54,7 @@ The following 2 pairs of parts of speech are connected with `case:voc`: <tt><a h
 7	seo	seo	PRON	Dem	PronType=Dem	6	det	_	SpaceAfter=No
 8	,	,	PUNCT	Punct	_	10	punct	_	_
 9	a	a	PART	Voc	PartType=Voc	10	case:voc	_	_
-10	Tom	Tom	PROPN	Noun	Case=Voc|Definite=Def|Gender=Masc|Number=Sing	1	vocative	_	SpaceAfter=No
+10	Tom	Tom	PROPN	Noun	Case=Voc|Definite=Def|Foreign=Yes|Gender=Masc|Number=Sing	1	vocative	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	1	punct	_	_
 
 ~~~

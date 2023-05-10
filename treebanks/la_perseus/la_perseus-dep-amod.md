@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2145 nodes (7%) are attached to their parents as `amod`.
+1636 nodes (6%) are attached to their parents as `amod`.
 
-1227 instances of `amod` (57%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.84382284382284.
+934 instances of `amod` (57%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.93826405867971.
 
-The following 13 pairs of parts of speech are connected with `amod`: <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (1786; 83% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (178; 8% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (62; 3% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (57; 3% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (21; 1% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (14; 1% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (11; 1% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt>-<tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="la_perseus-pos-NUM.html">NUM</a></tt>-<tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="la_perseus-pos-NUM.html">NUM</a></tt>-<tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The following 24 pairs of parts of speech are connected with `amod`: <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (1243; 76% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (163; 10% instances), <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (66; 4% instances), <tt><a href="la_perseus-pos-DET.html">DET</a></tt>-<tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (30; 2% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (29; 2% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (22; 1% instances), <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (16; 1% instances), <tt><a href="la_perseus-pos-DET.html">DET</a></tt>-<tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (13; 1% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (13; 1% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (8; 0% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (6; 0% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="la_perseus-pos-NUM.html">NUM</a></tt>-<tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="la_perseus-pos-NUM.html">NUM</a></tt>-<tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt>-<tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="la_perseus-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_perseus-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt>-<tt><a href="la_perseus-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="la_perseus-pos-DET.html">DET</a></tt>-<tt><a href="la_perseus-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,58 +22,55 @@ The following 13 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 9 amod	color:blue
-1	Non	non	ADV	d--------	_	11	advmod	_	LId=non1
-2	Simois	Simois	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	LId=Simois1
-3	tibi	tu	PRON	p-s---md-	Case=Dat|Gender=Masc|Number=Sing	11	obj	_	SpaceAfter=No|LId=tu1
-4	,	,	PUNCT	u--------	_	8	punct	_	LId=comma1
-5	nec	neque	CCONJ	c--------	_	8	advmod	_	_
-6	Xanthus	Xanthus	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	SpaceAfter=No|LId=Xanthus1
-7	,	,	PUNCT	u--------	_	6	punct	_	LId=comma1
-8	nec	neque	CCONJ	c--------	_	11	advmod	_	_
+1	Non	non	PART	d--------	_	11	advmod:neg	_	LId=non1
+2	Simois	Simois	PROPN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	LId=Simois1
+3	tibi	tu	PRON	p-s---md-	Case=Dat|Number=Sing|Person=2|PronType=Prs	11	obl:arg	_	SpaceAfter=No|LId=tu1
+4	,	,	PUNCT	u--------	_	3	punct	_	LId=comma1
+5	nec	neque	CCONJ	c--------	_	6	cc	_	_
+6	Xanthus	Xanthus	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	2	conj	_	SpaceAfter=No|LId=Xanthus1
+7	,	,	PUNCT	u--------	_	8	punct	_	LId=comma1
+8	nec	neque	CCONJ	c--------	_	10	cc	_	_
 9	Dorica	Doricus	ADJ	a-p---nn-	Case=Nom|Gender=Neut|Number=Plur	10	amod	_	LId=Doricus1
-10	castra	castrum	NOUN	n-p---nn-	Case=Nom|Gender=Neut|Number=Plur	8	nsubj	_	LId=castrum1
-11	defuerint	desum	VERB	v3ptia---	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+10	castra	castrum	NOUN	n-p---nn-	Case=Nom|Gender=Neut|Number=Plur	2	conj	_	LId=castrum1
+11	defuerint	desum	VERB	v3ptia---	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Futurum
 12	;	;	PUNCT	u--------	_	11	punct	_	LId=punc1
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 7 amod	color:blue
-1	alius	alius	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	5	amod	_	LId=alius2
-2	Latio	Latium	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	4	obl	_	LId=Latium1
-3	iam	jam	ADV	d--------	_	4	advmod	_	LId=jam1
-4	partus	pario	VERB	v-srppmn-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	LId=pario2
-5	Achilles	Achilles	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	SpaceAfter=No|LId=Achilles1
-6	,	,	PUNCT	u--------	_	7	punct	_	LId=comma1
-7	natus	nascor	VERB	v-srpdmn-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	5	amod	_	_
-8	et	et	CCONJ	c--------	_	9	advmod	_	LId=et1
-9	ipse	ipse	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	LId=ipse1
-10	dea	dea	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	7	obj	_	SpaceAfter=No|LId=dea1
-11	;	;	PUNCT	u--------	_	4	punct	_	LId=punc1
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 5 amod	color:blue
+1	In	in	ADP	r--------	_	8	case	_	LId=in1
+2	nova	novus	ADJ	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	8	amod	_	LId=novus1
+3	fert	fero	VERB	v3spia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=fero1|TraditionalMood=Indicativus|TraditionalTense=Praesens
+4	animus	animus	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	LId=animus1
+5	mutatas	muto	VERB	v-prppfa-	Aspect=Perf|Case=Acc|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	7	amod	_	LId=muto1|TraditionalMood=Participium|TraditionalTense=Perfectum
+6	dicere	dico	VERB	v--pna---	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Act	3	xcomp	_	LId=dico2
+7	formas	forma	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	6	obj	_	LId=forma1
+8	corpora	corpus	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	5	obl	_	SpaceAfter=No|LId=corpus1
+9	;	;	PUNCT	u--------	_	3	punct	_	LId=punc1
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 7 2 amod	color:blue
-1	Nocte	nox	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	5	obl	_	LId=nox1
-2	gravem	gravis	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	7	amod	_	LId=gravis1
-3	somno	somnus	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	2	obl	_	LId=somnus1
-4	necopina	necopinus	ADJ	a-s---fb-	Case=Abl|Gender=Fem|Number=Sing	6	amod	_	LId=necopinus1
-5	perdere	perdo	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	8	xcomp	_	LId=perdo1
-6	morte	mors	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	5	obl	_	LId=mors1
-7	me	ego	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	LId=ego1
-8	parat	paro	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|LId=paro1
-9	:	:	PUNCT	u--------	_	8	punct	_	LId=punc1
+# visual-style 7 5 amod	color:blue
+1	noctes	nox	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	4	obl	_	LId=nox1
+2	atque	atque	CCONJ	c--------	_	3	cc	_	LId=atque1
+3	dies	dies	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	1	conj	_	_
+4	patet	pateo	VERB	v3spia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=pateo1|TraditionalMood=Indicativus|TraditionalTense=Praesens
+5	atri	ater	ADJ	a-s---mg-	Case=Gen|Gender=Masc|Number=Sing	7	amod	_	LId=ater1
+6	ianua	ianua	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	LId=janua1
+7	Ditis	Dis	PROPN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No|LId=Dis2
+8	;	;	PUNCT	u--------	_	4	punct	_	LId=punc1
 
 ~~~
 

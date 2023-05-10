@@ -24,7 +24,7 @@ The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 3	fgColor:white
 # visual-style 3 2 aux	color:blue
 1	Оду	оду	ADV	Adv	AdvType=Tim	3	advmod:tmod	_	GTtags=Sem/Time
-2	савондяряй	савомс	AUX	_	Mood=Cnd|Number[subj]=Sing|Person[subj]=3	3	aux	_	GTtags=Cond,ScSg3
+2	савондяряй	савомс	AUX	_	Derivation=Cond|Mood=Ind|Number[subj]=Sing|Person[subj]=3	3	aux	_	GTtags=Cond,ScSg3
 3	венцямс	венцямс	VERB	V	VerbForm=Inf	7	advcl	_	GTtags=Inf|SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
 5	тонга	тон	PRON	Pron	Case=Nom|Clitic=AddGA|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	GTtags=Pers,Sg2,Nom,Clt/Add
@@ -43,7 +43,7 @@ The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 3	fgColor:white
 # visual-style 3 2 aux	color:blue
 1	Мехов	Мехов	PROPN	N	Case=Nom|Definite=Ind|NameType=Sur|Number=Sing	3	nsubj:cop	_	GTtags=Prop,Sem/Mal-Sur,Sg,Nom,Indef
-2	ульсь	улемс	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	3	aux	_	GTtags=IV,Ind,Prt1,ScSg3
+2	ульсь	улемс	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	3	aux	_	GTtags=IV,Ind,Prt1,ScSg3
 3	оцю	оцю	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	0	root	_	GTtags=Sg,Nom,Indef
 4	сереc	сереc	NOUN	N	Case=Ill|Definite=Ind|Number=Plur,Sing	3	nmod	_	GTtags=SP,Ill,Indef|SpaceAfter=No
 5	.	.	PUNCT	CLB	_	3	punct	_	_
@@ -60,10 +60,10 @@ The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="
 1	Школьнай	школьнай	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	3	amod	_	GTtags=Sg,Nom,Indef
 2	фкя	фкя	NUM	Num	Case=Nom|Definite=Ind|Number=Sing|NumType=Card	3	nummod	_	GTtags=Card,Sg,Nom,Indef
 3	комнатаса	комната	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	0	root	_	GTtags=SP,Ine,Indef
-4	ульсь	улемс	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	3	aux	_	GTtags=IV,Ind,Prt1,ScSg3
+4	ульсь	улемс	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	3	aux	_	GTtags=IV,Ind,Prt1,ScSg3
 5	эчке	эчке	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	6	amod	_	GTtags=Sg,Nom,Indef
 6	доскаста	доска	NOUN	N	Case=Ela|Definite=Ind|Number=Plur,Sing	7	obl	_	GTtags=SP,Ela,Indef
-7	шавф	шавомс	VERB	V	Derivation=F|Valency=2|VerbForm=Part	8	advcl	_	GTtags=TV,PrfPrc
+7	шавф	шавомс	VERB	V	Derivation=F|VerbForm=Part	8	advcl	_	GTtags=TV,PrfPrc
 8	верстак	верстак	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	3	nsubj	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
 9	.	.	PUNCT	CLB	_	3	punct	_	_
 

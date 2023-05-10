@@ -22,10 +22,10 @@ The following 15 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 punct	color:blue
-1	сидоре	Сидоръ	PROPN	_	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	0	root	_	wf="сидоре"|addr="012:1"|line_id=1|SpaceAfter=Yes
-2	·	·	PUNCT	_	_	3	punct	_	wf="·"|SpaceAfter=Yes
-3	дворѧнъ	дворѧнинъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	wf="дворѧнъ"|addr="012:1"|SpaceAfter=Yes
-4	ꙗколь	ꙗковль	ADJ	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes	3	amod	_	wf="ꙗколь"|addr="012:2"|line_id=2|SpaceAfter=Yes
+1	сидоре	Сидоръ	PROPN	_	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	0	root	_	wf="сидоре"|addr="012:1"|line_id=1|_
+2	·	·	PUNCT	_	_	3	punct	_	wf="·"|_
+3	дворѧнъ	дворѧнинъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	wf="дворѧнъ"|addr="012:1"|_
+4	ꙗколь	ꙗковль	ADJ	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes	3	amod	_	wf="ꙗколь"|addr="012:2"|line_id=2|_
 
 ~~~
 
@@ -36,12 +36,12 @@ The following 15 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 1 punct	color:blue
-1	…	…	PUNCT	_	_	5	punct	_	wf="…"|line_id=2|SpaceAfter=Yes
-2	[м]ѧ	ꙗзъ	PRON	_	Case=Acc|Clitic=Yes|Number=Sing|Person=1	5	obj	_	wf="мѧ"|addr="015:2"|SpaceAfter=Yes
-3	гн҃е	господинъ	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	wf="гн҃е"|addr="015:2"|SpaceAfter=Yes
-4	ѥси	быти	AUX	_	Analyt=Yes|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	wf="ѥси"|addr="015:2"|SpaceAfter=Yes
-5	пожа[л]овал…	пожаловати	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	wf="пожаловал…"|tense=perf|addr="015:2"|SpaceAfter=Yes
-6	…	…	PUNCT	_	_	5	punct	_	wf="…"|line_id=3|SpaceAfter=Yes
+1	…	…	PUNCT	_	_	5	punct	_	wf="…"|line_id=2|_
+2	[м]ѧ	ꙗзъ	PRON	_	Case=Acc|Clitic=Yes|Number=Sing|Person=1	5	obj	_	wf="мѧ"|addr="015:2"|_
+3	гн҃е	господинъ	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	wf="гн҃е"|addr="015:2"|_
+4	ѥси	быти	AUX	_	Analyt=Yes|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	wf="ѥси"|addr="015:2"|_
+5	пожа[л]овал…	пожаловати	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	wf="пожаловал…"|tense=perf|addr="015:2"|_
+6	…	…	PUNCT	_	_	5	punct	_	wf="…"|line_id=3|_
 
 ~~~
 
@@ -52,13 +52,13 @@ The following 15 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 punct	color:blue
-1	лю<lbr/>…	людьѥ	NOUN	_	Number=Plur	0	root	_	wf="лю…"|comment=pl_tant|comment=lemma_unsure|addr="026:4"|SpaceAfter=Yes
-2	…	…	PUNCT	_	_	1	punct	_	wf="…"|line_id=5|SpaceAfter=Yes
-3	(ес)мь	быти	AUX	_	Analyt=Yes|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	orphan	_	wf="есмь"|comment=tense_unsure|addr="026:5"|SpaceAfter=Yes
-4	зьмл<lbr/>(ю)	землѧ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	1	orphan	_	wf="зьмлю"|addr="026:5"|SpaceAfter=Yes
-5	…	…	PUNCT	_	_	6	punct	_	wf="…"|line_id=6|SpaceAfter=Yes
-6	(ѥ)[р]мълѣ	Ѥрмола	PROPN	_	Gender=Masc|NameType=Giv|Number=Sing	1	dep	_	wf="ѥрмълѣ"|addr="026:6"|SpaceAfter=Yes
-7	:	:	PUNCT	_	_	1	punct	_	wf=":"|SpaceAfter=Yes
+1	лю<lbr/>…	людьѥ	NOUN	_	Number=Plur	0	root	_	wf="лю…"|comment=pl_tant|comment=lemma_unsure|addr="026:4"|_
+2	…	…	PUNCT	_	_	1	punct	_	wf="…"|line_id=5|_
+3	(ес)мь	быти	AUX	_	Analyt=Yes|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	orphan	_	wf="есмь"|comment=tense_unsure|addr="026:5"|_
+4	зьмл<lbr/>(ю)	землѧ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	1	orphan	_	wf="зьмлю"|addr="026:5"|_
+5	…	…	PUNCT	_	_	6	punct	_	wf="…"|line_id=6|_
+6	(ѥ)[р]мълѣ	Ѥрмола	PROPN	_	Gender=Masc|NameType=Giv|Number=Sing	1	dep	_	wf="ѥрмълѣ"|addr="026:6"|_
+7	:	:	PUNCT	_	_	1	punct	_	wf=":"|_
 
 ~~~
 

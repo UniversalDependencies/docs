@@ -25,16 +25,16 @@ The following 1 pairs of parts of speech are connected with `aux:imp`: <tt><a hr
 # visual-style 12 7 aux:imp	color:blue
 1	―	―	PUNCT	PUNCT	_	3	punct	_	_
 2	А	а	AUX	Pcle	Polarity=Neg	3	aux:neg	_	GTtags=Neg
-3	цидярды	цидярдомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	0	root	_	GTtags=IV,Ind,Prs,ScSg3|SpaceAfter=No
+3	цидярды	цидярдомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres	0	root	_	GTtags=IV,Ind,Prs,ScSg3|SpaceAfter=No
 4	,	,	PUNCT	CLB	_	5	punct	_	_
-5	кулы	куломс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	3	conj	_	GTtags=IV,Ind,Prs,ScSg3|SpaceAfter=No
+5	кулы	куломс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres	3	conj	_	GTtags=IV,Ind,Prs,ScSg3|SpaceAfter=No
 6	,	,	PUNCT	CLB	_	7	punct	_	_
 7	давайте	давай	AUX	Aux	Mood=Imp|Number[subj]=Plur|Person[subj]=2	12	aux:imp	_	GTtags=Aux,Imprt,ScPl2|SpaceAfter=No
 8	,	,	PUNCT	CLB	_	9	punct	_	_
 9	цёрат	цёра	NOUN	N	Case=Nom|Definite=Ind|Number=Plur	12	vocative	_	GTtags=Pl,Nom,Indef|SpaceAfter=No
 10	,	,	PUNCT	CLB	_	12	punct	_	_
 11	ведь	ведь	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	12	obj	_	GTtags=Sg,Nom,Indef
-12	эждеде	эждемс	VERB	V	Mood=Imp|Number[subj]=Plur|Person[subj]=2|Valency=2	3	conj	_	GTtags=TV,Imprt,ScPl2|SpaceAfter=No
+12	эждеде	эждемс	VERB	V	Mood=Imp|Number[subj]=Plur|Person[subj]=2	3	conj	_	GTtags=TV,Imprt,ScPl2|SpaceAfter=No
 13	.	.	PUNCT	CLB	_	3	punct	_	_
 
 ~~~

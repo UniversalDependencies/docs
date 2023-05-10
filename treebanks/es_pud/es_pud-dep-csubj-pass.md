@@ -24,11 +24,11 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 3 8 csubj:pass	color:blue
 1	No	no	ADV	RB	Polarity=Neg	3	advmod	_	_
 2	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl:pass	_	_
-3	sabe	saber	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	sabe	saber	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	de	de	ADP	IN	_	6	case	_	_
-5	que	que	DET	WDT	Gender=Masc|Number=Sing|PronType=Int,Rel	6	det	_	_
+5	que	que	DET	WDT	Gender=Masc|Number=Sing|PronType=Rel	6	det	_	_
 6	modo	modo	NOUN	NN	Gender=Masc|Number=Sing	8	obl	_	_
-7	han	haber	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	aux	_	_
+7	han	haber	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	8	aux	_	_
 8	trabajado	trabajar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	csubj:pass	_	_
 9	juntos	junto	ADJ	JJ	Gender=Masc|Number=Plur	11	acl	_	_
 10	ambos	ambo	DET	DT	Gender=Masc|Number=Plur|NumType=Card|PronType=Tot	11	det	_	_
@@ -47,16 +47,16 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 1	En	en	ADP	IN	_	3	case	_	_
 2	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	ocasión	ocasión	NOUN	NN	Gender=Fem|Number=Sing	5	obl	_	_
-4	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	compound:prt	_	_
-5	insinúa	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+4	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	expl:pass	_	_
+5	insinúa	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	que	que	SCONJ	IN	_	9	mark	_	_
-7	es	ser	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	_
+7	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
 8	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	agente	agente	NOUN	NN	Gender=Masc|Number=Sing	5	csubj:pass	_	_
 10	encubierto	encubierto	ADJ	JJ	Gender=Masc|Number=Sing	9	amod	_	_
-11	cuyo	cuyo	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Int,Rel	12	det	_	_
+11	cuyo	cuyo	DET	DTP$	Gender=Masc|Number=Sing|Poss=Yes|PronType=Rel	12	det	_	_
 12	objetivo	objetivo	NOUN	NN	Gender=Masc|Number=Sing	9	acl:relcl	_	_
-13	es	ser	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	cop	_	_
+13	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
 14	Homero	Homero	PROPN	NNP	Gender=Masc|Number=Sing	12	nsubj	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	5	punct	_	_
 
@@ -69,13 +69,13 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 8 csubj:pass	color:blue
-1	Se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	compound:prt	_	_
-2	predijo	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+1	Se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl:pass	_	_
+2	predijo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	que	que	SCONJ	IN	_	8	mark	_	_
 4	él	él	PRON	PRP	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
 5	o	o	CCONJ	CC	_	8	cc:preconj	_	_
 6	bien	bien	ADV	RB	_	5	fixed	_	_
-7	moriría	_	AUX	VBC	Aspect=Imp|Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	8	cop	_	_
+7	moriría	_	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	cop	_	_
 8	viejo	viejo	ADJ	JJ	Gender=Masc|Number=Sing	2	csubj:pass	_	_
 9	después	después	ADV	RB	_	8	advmod	_	_
 10	de	de	ADP	IN	_	12	case	_	_

@@ -73,9 +73,9 @@ The 10 most frequent relations where parent and child node agree in `Voice`:
 <tt>VERB --[<tt><a href="qpm_philotis-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1617; 98%),
 <tt>VERB --[<tt><a href="qpm_philotis-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1317; 98%),
 <tt>VERB --[<tt><a href="qpm_philotis-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (905; 99%),
-<tt>VERB --[<tt><a href="qpm_philotis-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (90; 98%),
+<tt>VERB --[<tt><a href="qpm_philotis-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (91; 98%),
 <tt>VERB --[<tt><a href="qpm_philotis-dep-discourse.html">discourse</a></tt>]--> VERB</tt> (45; 100%),
 <tt>VERB --[<tt><a href="qpm_philotis-dep-obj.html">obj</a></tt>]--> VERB</tt> (42; 51%),
-<tt>VERB --[<tt><a href="qpm_philotis-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (18; 90%),
+<tt>VERB --[<tt><a href="qpm_philotis-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (16; 89%),
 <tt>VERB --[<tt><a href="qpm_philotis-dep-obl.html">obl</a></tt>]--> VERB</tt> (9; 60%).
 

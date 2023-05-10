@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-231 nodes (0%) are attached to their parents as `flat`.
+234 nodes (0%) are attached to their parents as `flat`.
 
-231 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.48917748917749.
+234 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.48290598290598.
 
-The following 3 pairs of parts of speech are connected with `flat`: <tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt>-<tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt> (229; 99% instances), <tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt>-<tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt>-<tt><a href="af_afribooms-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `flat`: <tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt>-<tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt> (229; 98% instances), <tt><a href="af_afribooms-pos-X.html">X</a></tt>-<tt><a href="af_afribooms-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt>-<tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt>-<tt><a href="af_afribooms-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-SYM.html">SYM</a></tt>-<tt><a href="af_afribooms-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -31,6 +31,45 @@ The following 3 pairs of parts of speech are connected with `flat`: <tt><a href=
 7	Ina	Ina	PROPN	NEE	Number=Sing	5	dep	_	_
 8	Labuschagne	Labuschagne	PROPN	NEE	Number=Sing	7	flat	_	SpaceAfter=No
 9	.	.	PUNCT	ZE	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 13 flat	color:blue
+1	Hiermee	hiermee	PRON	PB	PronType=Rel	2	nsubj	_	_
+2	gepaardgaande	gepaardgaan	ADJ	ASP	AdjType=Pred|Case=Nom|Degree=Pos	5	amod	_	_
+3	is	wees	AUX	VTHOK	Tense=Pres|VerbForm=Fin,Inf|VerbType=Cop	2	cop	_	_
+4	'n	'n	DET	LO	Definite=Ind|PronType=Art	5	det	_	_
+5	vervaardigingstrategie	vervaardigingstrategie	NOUN	NSE	Number=Sing	0	root	_	_
+6	vir	vir	ADP	SVS	AdpType=Prep	8	case	_	_
+7	die	die	DET	LB	Definite=Def|PronType=Art	8	det	_	_
+8	ontwikkeling	ontwikkeling	NOUN	NA	Number=Sing	5	nmod	_	_
+9	van	van	ADP	SVS	AdpType=Prep	11	case	_	_
+10	"	"	PUNCT	ZPL	_	11	punct	_	SpaceAfter=No
+11	set	set	X	RV	_	8	nmod	_	_
+12	top	top	X	RV	_	11	flat	_	_
+13	boxes	boxes	X	RV	_	12	flat	_	_
+14	"	"	PUNCT	ZPL	_	13	punct	_	SpaceAfter=No
+15	in	in	ADP	SVS	AdpType=Prep	16	case	_	_
+16	Suid-Afrika	Suid-Afrika	PROPN	NEE	Number=Sing	8	nmod	_	SpaceAfter=No
+17	,	,	PUNCT	ZM	_	16	punct	_	_
+18	wat	wat	PRON	PB	PronType=Rel	5	amod	_	_
+19	teen	teen	ADP	SVS	AdpType=Prep	21	case	_	_
+20	die	die	DET	LB	Definite=Def|PronType=Art	21	det	_	_
+21	middel	middel	NOUN	NSE	Number=Sing	25	obl	_	_
+22	van	van	ADP	SVS	AdpType=Prep	24	case	_	_
+23	die	die	DET	LB	Definite=Def|PronType=Art	24	det	_	_
+24	jaar	jaar	NOUN	NSE	Number=Sing	21	nmod	_	_
+25	gefinaliseer	finaliseer	ADJ	ASP	AdjType=Pred|Case=Nom|Degree=Pos	18	xcomp	_	_
+26	behoort	behoort	AUX	VTUOM	Tense=Pres|VerbForm=Fin,Inf|VerbType=Mod	25	aux	_	_
+27	te	te	PART	UPI	PartType=Inf	25	mark	_	_
+28	wees	wees	AUX	VTHOK	Tense=Pres|VerbForm=Fin,Inf|VerbType=Cop	25	cop	_	SpaceAfter=No
+29	.	.	PUNCT	ZE	_	25	punct	_	_
 
 ~~~
 
@@ -117,37 +156,6 @@ The following 3 pairs of parts of speech are connected with `flat`: <tt><a href=
 74	te	te	PART	UPI	PartType=Inf	75	mark	_	_
 75	verbeter	verbeter	VERB	VTHOG	Subcat=Tran|Tense=Pres|VerbForm=Fin,Inf	67	xcomp	_	SpaceAfter=No
 76	.	.	PUNCT	ZE	_	75	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 13 flat	color:blue
-1	Ten	ten	ADP	SVS	AdpType=Prep	6	case	_	_
-2	einde	einde	NOUN	NSE	Number=Sing	6	nmod	_	_
-3	PDF-dokumente	PDF-dokument	NOUN	NSM	Number=Plur	6	obj	_	_
-4	te	te	PART	UPI	PartType=Inf	5	mark	_	_
-5	kan	kan	AUX	VTUOM	Tense=Pres|VerbForm=Fin,Inf|VerbType=Mod	6	xcomp	_	_
-6	oopmaak	oopmaak	VERB	VTHSG	Subcat=Tran|Tense=Pres|VerbForm=Fin,Inf	20	obl	_	SpaceAfter=No
-7	,	,	PUNCT	ZM	_	6	punct	_	_
-8	moet	moet	AUX	VTUOM	Tense=Pres|VerbForm=Fin,Inf|VerbType=Mod	20	aux	_	_
-9	jy	jy	PRON	PTENP	Case=Nom|Number=Sing|Person=2|PronType=Prs	20	nsubj	_	_
-10	Adobe	Adobe	PROPN	NEE	Number=Sing	20	obj	_	_
-11	Acrobat	Acrobat	PROPN	NEE	Number=Sing	10	flat	_	_
-12	Reader	Reader	PROPN	NEE	Number=Sing	10	flat	_	_
-13	4	4	SYM	RS	_	10	flat	_	_
-14	of	of	CCONJ	KN	_	13	cc	_	_
-15	hoër	hoog	ADJ	AVP	AdjType=Pred|Case=Nom|Degree=Cmp	13	conj	_	_
-16	op	op	ADP	SVS	AdpType=Prep	18	case	_	_
-17	jou	jou	PRON	PTEB	Number=Sing|Person=2|Poss=Yes|PronType=Prs	18	det	_	_
-18	rekenaar	rekenaar	NOUN	NSE	Number=Sing	20	obl	_	_
-19	geïnstalleer	installeer	ADJ	ASP	AdjType=Pred|Case=Nom|Degree=Pos	20	dep	_	_
-20	hê	hê	VERB	VTHOG	Subcat=Tran|Tense=Pres|VerbForm=Fin,Inf	0	root	_	SpaceAfter=No
-21	.	.	PUNCT	ZE	_	20	punct	_	_
 
 ~~~
 

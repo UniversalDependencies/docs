@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3 nodes (0%) are attached to their parents as `reparandum`.
+4 nodes (0%) are attached to their parents as `reparandum`.
 
-3 instances of `reparandum` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.66666666666667.
+4 instances of `reparandum` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.75.
 
-The following 2 pairs of parts of speech are connected with `reparandum`: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> (2; 67% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt>-<tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> (1; 33% instances).
+The following 2 pairs of parts of speech are connected with `reparandum`: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> (3; 75% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt>-<tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> (1; 25% instances).
 
 
 ~~~ conllu
@@ -34,7 +34,7 @@ The following 2 pairs of parts of speech are connected with `reparandum`: <tt><a
 10	quod	quod	SCONJ	O4	_	15	reparandum	_	_
 11	uniuersalia	uniuersalis	ADJ	C1|grn1|casJ|gen3|vgr1	Case=Nom|Gender=Neut|InflClass=IndEurI|Number=Plur	15	nsubj	_	_
 12	eorum	is	PRON	F1|grn1|casK|gen3	Case=Gen|Gender=Neut|InflClass=LatPron|Number=Plur|Person=3|PronType=Prs	11	nmod	_	_
-13	remanere	remaneo	VERB	K3|modH|tem1	Aspect=Imp|InflClass=LatE|VerbForm=Vnoun|Voice=Act	15	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+13	remanere	remaneo	VERB	K3|modH|tem1	Aspect=Imp|InflClass=LatE|VerbForm=Inf|Voice=Act	15	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 14	non	non	PART	O4	Polarity=Neg	15	advmod:neg	_	_
 15	possent	possum	VERB	N3|modB|tem2|gen9	Aspect=Imp|InflClass=LatAnom|Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	csubj	_	SpaceAfter=No|TraditionalMood=Subiunctivus|TraditionalTense=Imperfectum
 16	.	.	PUNCT	Punc	_	1	punct	_	_

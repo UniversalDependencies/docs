@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>не</em> (<tt><a href="orv_rnc-pos-P
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.148148 (the average of all parts of speech is 1.991385).
+The form / lemma ratio of `PART` is 1.148148 (the average of all parts of speech is 1.988362).
 
 The 1st highest number of forms (4) was observed with the lemma “же”: <em>ж, жа, же, жъ</em>.
 

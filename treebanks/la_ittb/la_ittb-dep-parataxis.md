@@ -59,14 +59,14 @@ The following 35 pairs of parts of speech are connected with `parataxis`: <tt><a
 4	uoluntas	uoluntas	NOUN	C1|grn1|casA|gen2|vgr1	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Sing	6	nsubj	_	_
 5	non	non	PART	O4	Polarity=Neg	6	advmod:neg	_	_
 6	poterit	possum	VERB	N3|modA|tem3|gen6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	10	advcl	_	TraditionalMood=Indicativus|TraditionalTense=Futurum
-7	fieri	facio	VERB	N3|modQ|tem1	Aspect=Imp|InflClass=LatI2|VerbForm=Vnoun|Voice=Pass	6	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+7	fieri	facio	VERB	N3|modQ|tem1	Aspect=Imp|InflClass=LatI2|VerbForm=Inf|Voice=Pass	6	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 8	mala	malus	ADJ	A1|grn1|casA|gen2	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	7	xcomp	_	SpaceAfter=No
 9	,	,	PUNCT	Punc	_	6	punct	_	_
 10	ita	ita	ADV	O4	_	12	advcl	_	_
 11	nec	nec	CCONJ	O4	_	12	advmod:emph	_	_
 12	malorum	malus	NOUN	B1|grn1|casK|gen1	Case=Gen|Gender=Masc|InflClass=IndEurO|Number=Plur	0	root	_	_
 13	poterit	possum	VERB	N3|modA|tem3|gen6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	12	parataxis	_	TraditionalMood=Indicativus|TraditionalTense=Futurum
-14	fieri	facio	VERB	N3|modQ|tem1	Aspect=Imp|InflClass=LatI2|VerbForm=Vnoun|Voice=Pass	13	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+14	fieri	facio	VERB	N3|modQ|tem1	Aspect=Imp|InflClass=LatI2|VerbForm=Inf|Voice=Pass	13	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 15	bona	bonus	ADJ	A1|grn1|casA|gen2	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	14	xcomp	_	SpaceAfter=No
 16	.	.	PUNCT	Punc	_	12	punct	_	_
 

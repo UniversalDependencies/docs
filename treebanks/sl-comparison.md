@@ -65,7 +65,7 @@ udver: '2'
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 13 types of words that contain both letters and punctuation. Examples: [gap], [name:personal], [pause], [speaker:laughter], [name:surname], [audience:laughter], [:voice], [all:laughter], [incident], [name:address], [name:organisation], [name:place], macdonald's</li>
+      <li>This corpus contains 155 types of words that contain both letters and punctuation. Examples: [gap], [name:personal], [pause], [speaker:laughter], [name:surname], [audience:laughter], [:voice], s-, [all:laughter], [incident], j-, n-, m-, p-, z-, t-, k-, v-, d-, b-, po-, u-, do-, [name:address], [name:organisation], ka-, se-, o-, š-, a-, e-, i-, na-, g-, gos-, gospo-, ist-, le-, lu-, ma-, pos-, pre-, pri-, re-, tist-, Bel-, Franc-, Oma-, Slove-, [name:place]</li>
       </ul>
     </td>
   </tr>
@@ -946,6 +946,7 @@ udver: '2'
             <li>ADJ: dobro, dober, zanimivo, glavnem, lep, lepa, mali, rdeča, sam, stari</li>
             <li>ADJ-Part: vnet, preverjeno, znan, odprta, pozdravljeni, rečeno, imenovana, imenovani, narejeno, ostali</li>
             <li>ADV: tako, zdaj, a, pol, kako, lahko, tam, kar, potem, res</li>
+            <li>DET: nič</li>
           </ul>
         </li>
       </ul>
@@ -1002,7 +1003,7 @@ udver: '2'
         <li>Neg
           <ul>
             <li>AUX-Fin: ni, nisem, nismo, niso, nisi, niste, nisva</li>
-            <li>PART: ne</li>
+            <li>PART: ne, bržkone, kajne</li>
             <li>VERB-Fin: ni, nima, nimam, nisem, nimajo, niso, noče, nimamo, nimate, nimaš</li>
           </ul>
         </li>
@@ -1612,7 +1613,9 @@ udver: '2'
       </ul>
     </td>
     <td width="50%" valign="top">
-
+      <ul>
+        <li><a>Reflex</a></li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -1627,7 +1630,14 @@ udver: '2'
       </ul>
     </td>
     <td width="50%" valign="top">
-
+      <ul>
+        <li>Yes
+          <ul>
+            <li>DET: svoje, svojo, svojega, svoj, svojim, svoja, svojem, svojemu, svojih, svojimi</li>
+            <li>PRON: se, si, sabo, sebi, sebe, seboj, zase</li>
+          </ul>
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -2096,7 +2106,7 @@ udver: '2'
             <li>VERB-Fin--NOUN-Gen-ADP(preko) (1)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(čez) (1)</li>
             <li>VERB-Fin--NOUN-Nom (4)</li>
-            <li>VERB-Fin--PRON-Acc (155)</li>
+            <li>VERB-Fin--PRON-Acc (156)</li>
             <li>VERB-Fin--PRON-Dat (76)</li>
             <li>VERB-Fin--PRON-Gen (17)</li>
             <li>VERB-Fin--PRON-Nom (1)</li>
@@ -2192,7 +2202,11 @@ udver: '2'
       </ul>
     </td>
     <td width="50%" valign="top">
-
+      <h3>Verbs with Reflexive Core Objects</h3>
+      
+      <ul>
+        <li>This corpus contains 3 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: dajati sebe, opisati sebe, povedati svoje</li>
+      </ul>
     </td>
   </tr>
   <tr>

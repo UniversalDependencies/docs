@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-112 nodes (0%) are attached to their parents as `dislocated`.
+50 nodes (0%) are attached to their parents as `dislocated`.
 
-77 instances of `dislocated` (69%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.63392857142857.
+34 instances of `dislocated` (68%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.08.
 
-The following 6 pairs of parts of speech are connected with `dislocated`: <tt><a href="it_vit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (85; 76% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (15; 13% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt> (7; 6% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (3; 3% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_vit-pos-ADV.html">ADV</a></tt> (1; 1% instances).
+The following 4 pairs of parts of speech are connected with `dislocated`: <tt><a href="it_vit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (45; 90% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (2; 4% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt> (2; 4% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -37,23 +37,24 @@ The following 6 pairs of parts of speech are connected with `dislocated`: <tt><a
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
-# visual-style 10 11 dislocated	color:blue
-1	Sembra	sembrare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	incredibile	incredibile	ADJ	A	Number=Sing	1	xcomp	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	1	punct	_	_
-4	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	5	det	_	_
-5	storia	storia	NOUN	S	Gender=Fem|Number=Sing	1	nsubj	_	SpaceAfter=No
-6	,	,	PUNCT	FC	_	10	punct	_	_
-7	eppure	eppure	CCONJ	CC	_	10	cc	_	_
-8	l'	lo	PRON	PC	Clitic=Yes|Number=Sing|Person=3|PronType=Prs	10	obj	_	SpaceAfter=No
-9	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	aux	_	_
-10	vista	vedere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	1	conj	_	_
-11	tutta	tutto	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	10	dislocated	_	SpaceAfter=No
-12	.	.	PUNCT	FS	_	1	punct	_	_
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 10 dislocated	color:blue
+1	Ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	guadagnato	guadagnare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	minuti	minuto	NOUN	S	Gender=Masc|Number=Plur	2	obl	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	8	punct	_	_
+5	prima	prima	ADV	B	_	8	advmod	_	_
+6	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	8	iobj	_	_
+7	avevo	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	8	aux	_	_
+8	persi	perdere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	2	conj	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	12	punct	_	_
+10	altri	altro	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	12	dislocated	_	_
+11	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	12	obj	_	_
+12	perderò	perdere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	2	conj	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	2	punct	_	_
 
 ~~~
 

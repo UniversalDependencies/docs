@@ -44,7 +44,7 @@ The most frequent other feature values with which `PRON` and `Definite` co-occur
 
 * `Def` (8570; 90% of non-empty `Definite`): <em>han, det, jag, sig, du, de, vi, hon, honom, mig</em>
 * `Ind` (984; 10% of non-empty `Definite`): <em>man, vad, allt, en, någon, något, ingenting, alla, vem, vilket</em>
-* `EMPTY` (1289): <em>som, dom, någonting, alltihop, allting, allesammans, alltsammans, era, nånting, nån</em>
+* `EMPTY` (1288): <em>som, dom, någonting, alltihop, allting, allesammans, alltsammans, era, nånting, nån</em>
 
 <table>
   <tr><th>Paradigm <i>man</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
@@ -112,7 +112,7 @@ The most frequent other feature values with which `VERB` and `Definite` co-occur
 
 * `Def` (2; 67% of non-empty `Definite`): <em>kallade, sitt</em>
 * `Ind` (1; 33% of non-empty `Definite`): <em>krigsmålad</em>
-* `EMPTY` (11393): <em>sa, var, hade, gick, kom, har, såg, ta, göra, sade</em>
+* `EMPTY` (11387): <em>sa, var, hade, gick, kom, har, såg, ta, göra, sade</em>
 
 ### `X`
 
@@ -131,11 +131,11 @@ The 10 most frequent relations where parent and child node agree in `Definite`:
 <tt>NOUN --[<tt><a href="sv_lines-dep-det.html">det</a></tt>]--> DET</tt> (3711; 85%),
 <tt>NOUN --[<tt><a href="sv_lines-dep-amod.html">amod</a></tt>]--> ADJ</tt> (3013; 70%),
 <tt>NOUN --[<tt><a href="sv_lines-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1308; 61%),
-<tt>NOUN --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1027; 88%),
+<tt>NOUN --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1028; 88%),
 <tt>ADJ --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> ADJ</tt> (202; 90%),
 <tt>ADJ --[<tt><a href="sv_lines-dep-det.html">det</a></tt>]--> DET</tt> (174; 73%),
 <tt>ADJ --[<tt><a href="sv_lines-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (139; 58%),
-<tt>NOUN --[<tt><a href="sv_lines-dep-appos.html">appos</a></tt>]--> NOUN</tt> (76; 68%),
+<tt>NOUN --[<tt><a href="sv_lines-dep-appos.html">appos</a></tt>]--> NOUN</tt> (77; 68%),
 <tt>ADJ --[<tt><a href="sv_lines-dep-obl.html">obl</a></tt>]--> NOUN</tt> (46; 63%),
-<tt>NOUN --[<tt><a href="sv_lines-dep-acl-relcl.html">acl:relcl</a></tt>]--> ADJ</tt> (41; 79%).
+<tt>NOUN --[<tt><a href="sv_lines-dep-acl-relcl.html">acl:relcl</a></tt>]--> ADJ</tt> (42; 79%).
 

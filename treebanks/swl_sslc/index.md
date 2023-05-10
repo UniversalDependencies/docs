@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.4 release.
 The following people have contributed to making this treebank part of UD: Moa Gärdenfors, Carl Börstell, Robert Östling, Lars Wallin, Mats Wirén.
 
 Repository: [UD_Swedish_Sign_Language-SSLC](https://github.com/UniversalDependencies/UD_Swedish_Sign_Language-SSLC)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udswl_sslc211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udswl_sslc212)<br />
+Download all treebanks: [UD 2.12](/#download)
 
 License: CC BY-SA 4.0
 
@@ -50,7 +50,7 @@ linguistics, Stockholm University.
 
 
 
-http://www.ling.su.se/english/research/research-projects/sign-language
+https://www.su.se/english/research/research-subjects/sign-language
 
 Selected portions of SSLC have been manually annotated according to our
 adapted version of the Universal Dependencies guidelines.
@@ -67,7 +67,7 @@ software for converting between the annotation format (ELAN) and CoNLL-U.
 
 ## POS Tags
 
-[ADJ](swl_sslc-pos-ADJ.html) – [ADP](swl_sslc-pos-ADP.html) – [ADV](swl_sslc-pos-ADV.html) – [CCONJ](swl_sslc-pos-CCONJ.html) – [DET](swl_sslc-pos-DET.html) – [INTJ](swl_sslc-pos-INTJ.html) – [NOUN](swl_sslc-pos-NOUN.html) – [NUM](swl_sslc-pos-NUM.html) – [PRON](swl_sslc-pos-PRON.html) – [VERB](swl_sslc-pos-VERB.html) – [X](swl_sslc-pos-X.html)
+[ADJ](swl_sslc-pos-ADJ.html) – [ADP](swl_sslc-pos-ADP.html) – [ADV](swl_sslc-pos-ADV.html) – [AUX](swl_sslc-pos-AUX.html) – [CCONJ](swl_sslc-pos-CCONJ.html) – [DET](swl_sslc-pos-DET.html) – [INTJ](swl_sslc-pos-INTJ.html) – [NOUN](swl_sslc-pos-NOUN.html) – [NUM](swl_sslc-pos-NUM.html) – [PART](swl_sslc-pos-PART.html) – [PRON](swl_sslc-pos-PRON.html) – [VERB](swl_sslc-pos-VERB.html) – [X](swl_sslc-pos-X.html)
 
 ## Features
 
@@ -104,11 +104,12 @@ software for converting between the annotation format (ELAN) and CoNLL-U.
 <h3>Tags</h3>
 
 <ul>
-<li>This corpus uses 11 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PRON</a>, <a>VERB</a>, <a>X</a></li>
-<li>This corpus does not use the following tags: PROPN, AUX, SCONJ, PART, SYM, PUNCT</li>
+<li>This corpus uses 13 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>VERB</a>, <a>X</a></li>
+<li>This corpus does not use the following tags: PROPN, SCONJ, SYM, PUNCT</li>
 </ul>
 
 <ul>
+<li>This corpus contains 1 word types tagged as particles (PART): SYFTE</li>
 </ul>
 
 <ul>
@@ -124,10 +125,11 @@ software for converting between the annotation format (ELAN) and CoNLL-U.
 </ul>
 
 <ul>
-<li>This corpus contains 0 lemmas tagged as auxiliaries (AUX): </li>
+<li>This corpus contains 1 lemmas tagged as auxiliaries (AUX): _</li>
 </ul>
 
 <ul>
+<li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: _</li>
 </ul>
 
 <ul>
@@ -189,8 +191,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (91)</li>
-      <li>VERB--PRON (63)</li>
+      <li>VERB--NOUN (92)</li>
+      <li>VERB--PRON (65)</li>
     </ul>
   </li>
 </ul>

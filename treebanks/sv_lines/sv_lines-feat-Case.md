@@ -49,7 +49,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 * `Acc` (1657; 23% of non-empty `Case`): <em>sig, honom, mig, dem, oss, henne, dig, varandra, varann, er</em>
 * `Gen` (1281; 18% of non-empty `Case`): <em>sin, hans, min, sina, sitt, er, hennes, deras, mina, mitt</em>
 * `Nom` (4158; 59% of non-empty `Case`): <em>han, jag, du, de, vi, hon, man, ni, sådan, enda</em>
-* `EMPTY` (3747): <em>det, som, den, vad, detta, allt, en, någon, något, ingenting</em>
+* `EMPTY` (3746): <em>det, som, den, vad, detta, allt, en, någon, något, ingenting</em>
 
 <table>
   <tr><th>Paradigm <i>han</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Gen</tt></th></tr>
@@ -120,7 +120,7 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 
 * `Gen` (1; 3% of non-empty `Case`): <em>sitt</em>
 * `Nom` (33; 97% of non-empty `Case`): <em>höll, närvarande, taget, förfogande, följande, gillande, gående, Beroende, betydande, fantasieggande</em>
-* `EMPTY` (11362): <em>sa, var, hade, gick, kom, har, såg, ta, göra, sade</em>
+* `EMPTY` (11356): <em>sa, var, hade, gick, kom, har, såg, ta, göra, sade</em>
 
 `Case` seems to be **lexical feature** of `VERB`. 100% lemmas (20) occur only with one value of `Case`.
 
@@ -155,7 +155,7 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 `AUX` tokens may have the following values of `Case`:
 
 * `Nom` (2; 100% of non-empty `Case`): <em>haft, skola</em>
-* `EMPTY` (3976): <em>var, är, hade, kan, har, skulle, kunde, måste, vara, vill</em>
+* `EMPTY` (3982): <em>var, är, hade, kan, har, skulle, kunde, måste, vara, vill</em>
 
 ### `NUM`
 
@@ -171,12 +171,12 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="sv_lines-dep-amod.html">amod</a></tt>]--> ADJ</tt> (4162; 96%),
 <tt>NOUN --[<tt><a href="sv_lines-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2116; 98%),
-<tt>NOUN --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1125; 97%),
+<tt>NOUN --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1128; 97%),
 <tt>NOUN --[<tt><a href="sv_lines-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (345; 99%),
 <tt>PROPN --[<tt><a href="sv_lines-dep-flat.html">flat</a></tt>]--> PROPN</tt> (330; 89%),
 <tt>PROPN --[<tt><a href="sv_lines-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (299; 91%),
 <tt>ADJ --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> ADJ</tt> (238; 99%),
 <tt>ADJ --[<tt><a href="sv_lines-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (235; 98%),
-<tt>ADJ --[<tt><a href="sv_lines-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (213; 100%),
-<tt>ADJ --[<tt><a href="sv_lines-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (162; 53%).
+<tt>ADJ --[<tt><a href="sv_lines-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (212; 100%),
+<tt>ADJ --[<tt><a href="sv_lines-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (162; 54%).
 

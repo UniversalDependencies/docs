@@ -23,7 +23,7 @@ The following 59 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 3	fgColor:white
 # visual-style 3 5 parataxis	color:blue
 1	'	'	PUNCT	PNT	_	2	punct	_	_
-2	Arrancavam	arrancar	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp	10	xcomp	_	_
+2	Arrancavam	arrancar	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	xcomp	_	_
 3	cabelos	cabelo	NOUN	CN	Gender=Masc|Number=Plur	2	obj	_	_
 4	,	,	PUNCT	PNT	_	5	punct	_	_
 5	barbas	barba	NOUN	CN	Gender=Fem|Number=Plur	3	parataxis	_	_
@@ -31,7 +31,7 @@ The following 59 pairs of parts of speech are connected with `parataxis`: <tt><a
 7	unhas	unha	NOUN	CN	Gender=Fem|Number=Plur	3	parataxis	_	_
 8	'	'	PUNCT	PNT	_	2	punct	_	_
 9	,	,	PUNCT	PNT	_	2	punct	_	_
-10	refere	referir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+10	refere	referir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 11	.	.	PUNCT	PNT	_	10	punct	_	_
 
 ~~~
@@ -43,12 +43,12 @@ The following 59 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 4 parataxis	color:blue
-1	A	a	DET	DA	Gender=Fem|Number=Sing	2	det	_	_
+1	A	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	UNITA	unita	PROPN	PNM	_	0	root	_	_
 3	,	,	PUNCT	PNT	_	4	punct	_	_
 4	Angola	angola	PROPN	PNM	_	2	parataxis	_	_
 5	e	e	CCONJ	CJ	_	7	cc	_	_
-6	a	a	DET	DA	Gender=Fem|Number=Sing	7	det	_	_
+6	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	Bósnia	bósnia	PROPN	PNM	_	2	parataxis	_	_
 
 ~~~
@@ -60,15 +60,15 @@ The following 59 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 4 parataxis	color:blue
-1	Leu	ler	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+1	Leu	ler	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 2	,	,	PUNCT	PNT	_	4	punct	_	_
 3	não	não	ADV	ADV	_	4	advmod	_	_
-4	percebeu	perceber	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	1	parataxis	_	_
+4	percebeu	perceber	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	parataxis	_	_
 5	muito	muito	ADV	ADV	_	6	advmod	_	_
 6	bem	bem	ADV	ADV	_	4	advmod	_	_
 7	,	,	PUNCT	PNT	_	4	punct	_	_
 8	mas	mas	CCONJ	CJ	_	11	cc	_	_
-9	ficou	ficar	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	11	dep	_	_
+9	ficou	ficar	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	dep	_	_
 10	a	a	ADP	PREP	_	11	case	_	_
 11	matutar	matutar	VERB	INF	VerbForm=Inf	1	parataxis	_	_
 12	:	:	PUNCT	PNT	_	1	punct	_	_

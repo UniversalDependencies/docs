@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Savas Cetin, Martin Popel, Daniel Zeman, Francis Tyers, Çağrı Çöltekin, Utku Türk, Furkan Atmaca, Şaziye Betül Özateş, Abdullatif Köksal, Balkız Öztürk Başaran, Tunga Güngör, Arzucan Özgür.
 
 Repository: [UD_Turkish-PUD](https://github.com/UniversalDependencies/UD_Turkish-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtr_pud211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtr_pud212)<br />
+Download all treebanks: [UD 2.12](/#download)
 
 License: CC BY-SA 3.0
 
@@ -90,13 +90,13 @@ employ ten-fold cross-validation.
 
 ## Relations
 
-[acl](tr_pud-dep-acl.html) – [advcl](tr_pud-dep-advcl.html) – [advmod](tr_pud-dep-advmod.html) – [advmod:emph](tr_pud-dep-advmod-emph.html) – [amod](tr_pud-dep-amod.html) – [appos](tr_pud-dep-appos.html) – [aux](tr_pud-dep-aux.html) – [aux:q](tr_pud-dep-aux-q.html) – [case](tr_pud-dep-case.html) – [cc](tr_pud-dep-cc.html) – [cc:preconj](tr_pud-dep-cc-preconj.html) – [ccomp](tr_pud-dep-ccomp.html) – [clf](tr_pud-dep-clf.html) – [compound](tr_pud-dep-compound.html) – [compound:lvc](tr_pud-dep-compound-lvc.html) – [compound:redup](tr_pud-dep-compound-redup.html) – [conj](tr_pud-dep-conj.html) – [cop](tr_pud-dep-cop.html) – [csubj](tr_pud-dep-csubj.html) – [dep](tr_pud-dep-dep.html) – [det](tr_pud-dep-det.html) – [discourse](tr_pud-dep-discourse.html) – [dislocated](tr_pud-dep-dislocated.html) – [fixed](tr_pud-dep-fixed.html) – [flat](tr_pud-dep-flat.html) – [goeswith](tr_pud-dep-goeswith.html) – [iobj](tr_pud-dep-iobj.html) – [mark](tr_pud-dep-mark.html) – [nmod](tr_pud-dep-nmod.html) – [nmod:poss](tr_pud-dep-nmod-poss.html) – [nsubj](tr_pud-dep-nsubj.html) – [nummod](tr_pud-dep-nummod.html) – [obj](tr_pud-dep-obj.html) – [obl](tr_pud-dep-obl.html) – [orphan](tr_pud-dep-orphan.html) – [parataxis](tr_pud-dep-parataxis.html) – [punct](tr_pud-dep-punct.html) – [root](tr_pud-dep-root.html) – [xcomp](tr_pud-dep-xcomp.html)
+[acl](tr_pud-dep-acl.html) – [advcl](tr_pud-dep-advcl.html) – [advmod](tr_pud-dep-advmod.html) – [advmod:emph](tr_pud-dep-advmod-emph.html) – [amod](tr_pud-dep-amod.html) – [appos](tr_pud-dep-appos.html) – [aux](tr_pud-dep-aux.html) – [aux:q](tr_pud-dep-aux-q.html) – [case](tr_pud-dep-case.html) – [cc](tr_pud-dep-cc.html) – [cc:preconj](tr_pud-dep-cc-preconj.html) – [ccomp](tr_pud-dep-ccomp.html) – [clf](tr_pud-dep-clf.html) – [compound](tr_pud-dep-compound.html) – [compound:lvc](tr_pud-dep-compound-lvc.html) – [compound:redup](tr_pud-dep-compound-redup.html) – [conj](tr_pud-dep-conj.html) – [cop](tr_pud-dep-cop.html) – [csubj](tr_pud-dep-csubj.html) – [dep](tr_pud-dep-dep.html) – [det](tr_pud-dep-det.html) – [discourse](tr_pud-dep-discourse.html) – [dislocated](tr_pud-dep-dislocated.html) – [fixed](tr_pud-dep-fixed.html) – [flat](tr_pud-dep-flat.html) – [iobj](tr_pud-dep-iobj.html) – [mark](tr_pud-dep-mark.html) – [nmod](tr_pud-dep-nmod.html) – [nmod:poss](tr_pud-dep-nmod-poss.html) – [nsubj](tr_pud-dep-nsubj.html) – [nummod](tr_pud-dep-nummod.html) – [obj](tr_pud-dep-obj.html) – [obl](tr_pud-dep-obl.html) – [orphan](tr_pud-dep-orphan.html) – [parataxis](tr_pud-dep-parataxis.html) – [punct](tr_pud-dep-punct.html) – [root](tr_pud-dep-root.html) – [xcomp](tr_pud-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 1000 sentences, 16536 tokens and 16882 syntactic words.</li>
+<li>This corpus contains 1000 sentences, 16535 tokens and 16881 syntactic words.</li>
 </ul>
 
 <ul>
@@ -164,7 +164,7 @@ employ ten-fold cross-validation.
 <ul>
   <li>Part
   <ul>
-    <li>VERB: inanılmaz, gerçekleştirilen, edecek, edilemez, gerçekleşen, tartışmalı, uygulanabilir, Birleşmiş, Seçmeli, Yenilenebilir</li>
+    <li>VERB: inanılmaz, gerçekleştirilen, edecek, edilemez, tartışmalı, uygulanabilir, Birleşmiş, Seçmeli, Yenilenebilir, adanmış</li>
   </ul>
   </li>
 </ul>
@@ -196,7 +196,7 @@ employ ten-fold cross-validation.
       <li>PRON: bunlar, bunların, bunlardan, bazıları, diğerlerinin, kendilerini, şeyler, şunları, Kendilerine, bazılarını</li>
       <li>PROPN: Romalılar, Çinliler, Alpler, Atinalılar, Fenikeliler, Francisco'luların, Malenezyalıların, Meksikalılar, Spartalılar, Aborijinleri</li>
       <li>VERB: vurgular, verdiler, alacaklar, düşünüyoruz, ediyorlar, etkilenmişlerdir, ettiler, kalmışlardır, olursak, raporlar</li>
-      <li>VERB-Part: beklenmedik</li>
+      <li>VERB-Part: beklenmedik, gerçekleşenlerin</li>
       <li>VERB-Vnoun: soyun</li>
       <li>X: lerin</li>
     </ul>
@@ -215,7 +215,7 @@ employ ten-fold cross-validation.
       <li>PROPN: İngiliz, Çin, Alman, Amerika, ABD, Hong, Akdeniz, Avrupa, Fransız, Hint</li>
       <li>VERB: dedi, etti, başladı, söyledi, çıktı, edildi, verdi, ediyor, geldi, aldı</li>
       <li>VERB-Conv: ederken, akarken, görünürken, çekerken</li>
-      <li>VERB-Part: inanılmaz, gerçekleştirilen, edecek, edilemez, gerçekleşen, tartışmalı, uygulanabilir, Birleşmiş, Seçmeli, Yenilenebilir</li>
+      <li>VERB-Part: inanılmaz, gerçekleştirilen, edecek, edilemez, tartışmalı, uygulanabilir, Birleşmiş, Seçmeli, Yenilenebilir, adanmış</li>
       <li>VERB-Vnoun: yapmak, etmek, yana, görmek, oluşturmak, almak, dönmek, geçmek, izlemek, kurtarmak</li>
       <li>X: Go, H, Son, in, 'da, Buck, Golden, Her, Knuck</li>
     </ul>
@@ -283,6 +283,7 @@ employ ten-fold cross-validation.
       <li>NOUN: savaşın, yatırımcıların, yüzyılın, bölgenin, Savaşı'nın, alanlarının, bankanın, devletin, dönemin, dünyanın</li>
       <li>PRON: bunun, onun, bunların, birinin, Bizim, benim, diğerlerinin, hangisinin, hepsinin, kendisinin</li>
       <li>PROPN: Çin'in, Avrupa'nın, Fransa'nın, Meksika'nın, Moğolistan'ın, Rona'nın, Trump'ın, ABD'nin, Alvarez'in, Amerika'nın</li>
+      <li>VERB-Part: gerçekleşenlerin</li>
       <li>VERB-Vnoun: alınmasının, atılmasının, basmasının, edilmesinin, etmenin, etmesinin, geçirmesinin, kalmasının, saldırmanın, sevmelerinin</li>
       <li>X: Anyway"in, lerin</li>
     </ul>
@@ -426,7 +427,7 @@ employ ten-fold cross-validation.
       <li>AUX-Vnoun: olmasına, olma, olmakla, olması, olmasının, olmaya, olmak, itmeye, olmaktan, olmaları</li>
       <li>VERB: dedi, etti, başladı, söyledi, çıktı, edildi, verdi, etmek, geldi, yapmak</li>
       <li>VERB-Conv: olmadan, bulunmadan, durmadan, düşünmeden, etkilenmeden, İyileşerek</li>
-      <li>VERB-Part: edecek, gerçekleşen, gerçekleştirilen, Birleşmiş, adanmış, alacak, alışılmamış, beklenmedik, biçilmiş, cevaplanamamış</li>
+      <li>VERB-Part: edecek, gerçekleştirilen, Birleşmiş, adanmış, alacak, alışılmamış, beklenmedik, biçilmiş, cevaplanamamış, donatılmış</li>
       <li>VERB-Vnoun: yapmak, etmek, büyüme, savunma, edilmesi, soruşturma, çalışma, çıkmaya, etmeye, görmek</li>
     </ul>
   </li>
@@ -527,7 +528,7 @@ employ ten-fold cross-validation.
       <li>AUX-Vnoun: olmasına, olma, olmakla, olması, olmasının, olmaya, olmak, itmeye, olmaktan, olmaları</li>
       <li>VERB: dedi, etti, başladı, söyledi, çıktı, edildi, verdi, ediyor, etmek, geldi</li>
       <li>VERB-Conv: olmadan, ederken, akarken, bulunmadan, durmadan, düşünmeden, etkilenmeden, görünürken, çekerken, İyileşerek</li>
-      <li>VERB-Part: edecek, gerçekleşen, gerçekleştirilen, Birleşmiş, adanmış, alacak, alışılmamış, beklenmedik, biçilmiş, donatılmış</li>
+      <li>VERB-Part: edecek, gerçekleştirilen, Birleşmiş, adanmış, alacak, alışılmamış, beklenmedik, biçilmiş, destekleyen, donatılmış</li>
       <li>VERB-Vnoun: yapmak, etmek, büyüme, savunma, edilmesi, soruşturma, çalışma, çıkmaya, etmeye, görmek</li>
     </ul>
   </li>
@@ -605,7 +606,7 @@ employ ten-fold cross-validation.
       <li>AUX-Vnoun: olmasına, olma, olmakla, olması, olmasının, olmaya, olmak, itmeye, olmaktan, olmaları</li>
       <li>VERB: ediyor, büyüme, değil, inanılmaz, savunma, söylüyor, edilmesi, geliyor, gerekiyor, görünüyor</li>
       <li>VERB-Conv: olmadan, ederken, akarken, bulunmadan, durmadan, düşünmeden, etkilenmeden, görünürken, çekerken, İyileşerek</li>
-      <li>VERB-Part: inanılmaz, gerçekleştirilen, edilemez, gerçekleşen, tartışmalı, uygulanabilir, Seçmeli, Yenilenebilir, almaz, evcilleştirilenleştirilen</li>
+      <li>VERB-Part: inanılmaz, gerçekleştirilen, edilemez, tartışmalı, uygulanabilir, Seçmeli, Yenilenebilir, almaz, destekleyen, evcilleştirilenleştirilen</li>
       <li>VERB-Vnoun: büyüme, savunma, edilmesi, soruşturma, çalışma, çıkmaya, etmeye, yana, alma, etmesi</li>
     </ul>
   </li>
@@ -891,6 +892,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--PRON-Nom (30)</li>
       <li>VERB-Conv--NOUN-Nom (4)</li>
       <li>VERB-Conv--PRON-Nom (1)</li>
+      <li>VERB-Part--NOUN (1)</li>
       <li>VERB-Part--NOUN-Gen (1)</li>
       <li>VERB-Part--NOUN-Nom (3)</li>
       <li>VERB-Vnoun--NOUN (3)</li>
@@ -957,5 +959,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 6 relation subtypes: <a>advmod:emph</a>, <a>aux:q</a>, <a>cc:preconj</a>, <a>compound:lvc</a>, <a>compound:redup</a>, <a>nmod:poss</a></li>
-<li>The following 4 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>list</a>, <a>reparandum</a></li>
+<li>The following 5 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

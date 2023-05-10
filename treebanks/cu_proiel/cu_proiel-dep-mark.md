@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1345 nodes (2%) are attached to their parents as `mark`.
+3708 nodes (2%) are attached to their parents as `mark`.
 
-1345 instances of `mark` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.45204460966543.
+3704 instances of `mark` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.6928263214671.
 
-The following 9 pairs of parts of speech are connected with `mark`: <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> (1075; 80% instances), <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> (85; 6% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> (60; 4% instances), <tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> (39; 3% instances), <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> (29; 2% instances), <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> (22; 2% instances), <tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> (18; 1% instances), <tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> (10; 1% instances), <tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt>-<tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> (7; 1% instances).
+The following 17 pairs of parts of speech are connected with `mark`: <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> (2830; 76% instances), <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> (207; 6% instances), <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (186; 5% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> (155; 4% instances), <tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> (109; 3% instances), <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> (48; 1% instances), <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> (42; 1% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (36; 1% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (23; 1% instances), <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (23; 1% instances), <tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> (18; 0% instances), <tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (9; 0% instances), <tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> (8; 0% instances), <tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt>-<tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> (7; 0% instances), <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -22,56 +22,57 @@ The following 9 pairs of parts of speech are connected with `mark`: <tt><a href=
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 mark	color:blue
-1	не	не	ADV	Df	Polarity=Neg	2	advmod	_	Ref=MATT_5.26
-2	изидеши	изити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_5.26
-3	отъ	отътѫдѣ	ADV	Df	_	2	advmod	_	Ref=MATT_5.26
-4	тѫдѣ	тѫдѣ	ADV	Df	_	3	fixed	_	Ref=MATT_5.26
-5	доньдеже	доньде	SCONJ	G-	_	6	mark	_	Ref=MATT_5.26
-6	въздаси	въздати	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	Ref=MATT_5.26
-7	послѣдьнии	послѣдьнии	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	Ref=MATT_5.26
-8	кодрантъ	кодрантъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	6	obj	_	Ref=MATT_5.26
+1	Вьсѣ	вьсь	PRON	Px	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	ref=103.27
+2	отъ	отъ	ADP	R-	_	3	case	_	ref=103.27
+3	тебе	тꙑ	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	obl	_	ref=103.27
+4	чаѭтъ	чаꙗти	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=103.27
+5	Да	да	SCONJ	G-	_	6	mark	_	ref=103.27
+6	дасі	дати	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	ccomp	_	ref=103.27
+7	пищѫ	пища	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	ref=103.27
+8	імъ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	6	obl:arg	_	ref=103.27
+9	въ	въ	ADP	R-	_	11	case	_	ref=103.27
+10	благо	благъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	11	amod	_	ref=103.27
+11	врѣмѩ	врѣмѧ	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	6	obl	_	ref=103.27
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 mark	color:blue
+1	Ї	и	CCONJ	C-	_	2	cc	_	ref=77.39
+2	помѣнѫ	помѧнѫти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=77.39
+3	ѣко	ꙗко	SCONJ	G-	_	4	mark	_	ref=77.39
+4	плоть	плъть	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	2	ccomp	_	ref=77.39
+5	сѫтъ	бꙑти	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	ref=77.39
+6	дх҃ъ	доухъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	appos	_	ref=77.39
+7	ходѩ	ходити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	6	acl	_	ref=77.39
+8	ї	и	CCONJ	C-	_	10	cc	_	ref=77.39
+9	не	не	ADV	Df	Polarity=Neg	10	advmod	_	ref=77.39
+10	обраштаѩ	обращати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	7	conj	_	ref=77.39
+11	сѩ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	10	expl:pv	_	ref=77.39
+
+~~~
+
+
+~~~ conllu
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 7 1 mark	color:blue
-1	аще	аще	SCONJ	G-	_	7	mark	_	Ref=MATT_6.23
-2	оубо	оубо	ADV	Df	_	11	discourse	_	Ref=MATT_6.23
-3	свѣтъ	свѣтъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	LId=1|Ref=MATT_6.23
-4	иже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=MATT_6.23
-5	въ	въ	ADP	R-	_	6	case	_	Ref=MATT_6.23
-6	тебѣ	тꙑ	PRON	Pp	Case=Loc|Number=Sing|Person=2|PronType=Prs	3	det	_	Ref=MATT_6.23
-7	тъма	тьма	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	11	advcl	_	LId=1|Ref=MATT_6.23
-8	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	Ref=MATT_6.23
-9	тѣ	тѣ	ADV	Df	_	11	discourse	_	Ref=MATT_6.23
-10	тъма	тьма	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	LId=1|Ref=MATT_6.23
-11	кольми	кольми	ADV	Du	PronType=Int	0	root	_	Ref=MATT_6.23
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 1 mark	color:blue
-1	аще	аще	SCONJ	G-	_	6	mark	_	Ref=MATT_6.22
-2	оубо	оубо	ADV	Df	_	10	discourse	_	Ref=MATT_6.22
-3	бѫдетъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	6	cop	_	Ref=MATT_6.22
-4	око	око	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	Ref=MATT_6.22
-5	твое	твои	ADJ	Ps	Case=Nom|Gender=Neut|Number=Sing|Person=2|Poss=Yes	4	nmod	_	Ref=MATT_6.22
-6	просто	простъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	10	advcl	_	Ref=MATT_6.22
-7	вьсе	вьсь	DET	Px	Case=Nom|Gender=Neut|Number=Sing	8	det	_	Ref=MATT_6.22
-8	тѣло	тѣло	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	Ref=MATT_6.22
-9	твое	твои	ADJ	Ps	Case=Nom|Gender=Neut|Number=Sing|Person=2|Poss=Yes	8	nmod	_	Ref=MATT_6.22
-10	свѣтъло	свѣтьлъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	Ref=MATT_6.22
-11	бѫдетъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	10	cop	_	Ref=MATT_6.22
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 7 mark	color:blue
+1	Ї	и	CCONJ	C-	_	2	cc	_	ref=77.57
+2	възвратішѩ	възвратити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=77.57
+3	сѩ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	expl:pv	_	ref=77.57
+4	і	и	CCONJ	C-	_	5	cc	_	ref=77.57
+5	отъвръгѫ	отъврѣщи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	ref=77.57
+6	сѩ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	5	expl:pv	_	ref=77.57
+7	ѣкоже	ꙗкоже	ADV	Df	_	8	mark	_	ref=77.57
+8	отъці	отьць	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	2	advcl:cmp	_	ref=77.57
+9	іхъ	и	PRON	Pp	Case=Gen|Gender=Fem,Masc|Number=Plur|Person=3|PronType=Prs	8	det	_	ref=77.57
 
 ~~~
 

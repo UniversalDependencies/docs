@@ -25,7 +25,7 @@ The 10 most frequent ambiguous types:  <em>-</em> (<tt><a href="fr_sequoia-pos-P
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.406068).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.406661).
 
 The 1st highest number of forms (1) was observed with the lemma “!”: <em>!</em>.
 
@@ -38,19 +38,19 @@ The 3rd highest number of forms (1) was observed with the lemma “'”: <em>'</
 
 ## Relations
 
-`PUNCT` nodes are attached to their parents using 2 different relations: <tt><a href="fr_sequoia-dep-punct.html">punct</a></tt> (7861; 100% instances), <tt><a href="fr_sequoia-dep-root.html">root</a></tt> (3; 0% instances)
+`PUNCT` nodes are attached to their parents using 2 different relations: <tt><a href="fr_sequoia-dep-punct.html">punct</a></tt> (7863; 100% instances), <tt><a href="fr_sequoia-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `PUNCT` nodes belong to 12 different parts of speech: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (4085; 52% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (2520; 32% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (712; 9% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (397; 5% instances), <tt><a href="fr_sequoia-pos-X.html">X</a></tt> (45; 1% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (44; 1% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> (34; 0% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (15; 0% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (6; 0% instances),  (3; 0% instances), <tt><a href="fr_sequoia-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (1; 0% instances)
+Parents of `PUNCT` nodes belong to 17 different parts of speech: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (3258; 41% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (3006; 38% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (585; 7% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (347; 4% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> (257; 3% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (186; 2% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (90; 1% instances), <tt><a href="fr_sequoia-pos-X.html">X</a></tt> (62; 1% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (49; 1% instances), <tt><a href="fr_sequoia-pos-PUNCT.html">PUNCT</a></tt> (10; 0% instances), <tt><a href="fr_sequoia-pos-SYM.html">SYM</a></tt> (4; 0% instances), <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="fr_sequoia-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), <tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances),  (1; 0% instances), <tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
-7862 (100%) `PUNCT` nodes are leaves.
+7856 (100%) `PUNCT` nodes are leaves.
 
-0 (0%) `PUNCT` nodes have one child.
+6 (0%) `PUNCT` nodes have one child.
 
 2 (0%) `PUNCT` nodes have two children.
 
 The highest child degree of a `PUNCT` node is 2.
 
-Children of `PUNCT` nodes are attached using 2 different relations: <tt><a href="fr_sequoia-dep-dep.html">dep</a></tt> (2; 50% instances), <tt><a href="fr_sequoia-dep-punct.html">punct</a></tt> (2; 50% instances)
+Children of `PUNCT` nodes are attached using 1 different relations: <tt><a href="fr_sequoia-dep-punct.html">punct</a></tt> (10; 100% instances)
 
-Children of `PUNCT` nodes belong to 2 different parts of speech: <tt><a href="fr_sequoia-pos-PUNCT.html">PUNCT</a></tt> (2; 50% instances), <tt><a href="fr_sequoia-pos-SYM.html">SYM</a></tt> (2; 50% instances)
+Children of `PUNCT` nodes belong to 1 different parts of speech: <tt><a href="fr_sequoia-pos-PUNCT.html">PUNCT</a></tt> (10; 100% instances)
 

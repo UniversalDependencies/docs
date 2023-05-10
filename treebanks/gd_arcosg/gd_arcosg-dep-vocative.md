@@ -31,7 +31,7 @@ The following 12 pairs of parts of speech are connected with `vocative`: <tt><a 
 7	aig	aig	ADP	Sp	_	8	case	_	_
 8	thu	thu	PRON	Pp2s	Number=Sing|Person=2	6	nmod	_	_
 9	an-diugh	an-diugh	ADV	Rt	_	6	advmod	_	_
-10	[Name]	[Name]	PROPN	Nn-mv	Case=Voc|Gender=Masc	3	vocative	_	SpaceAfter=No
+10	[Name]	[Name]	PROPN	Nn-mv	Case=Voc|Gender=Masc	3	vocative	_	Anonymised=Yes|SpaceAfter=No
 11	?	?	PUNCT	Fg	_	3	punct	_	_
 
 ~~~
@@ -75,7 +75,7 @@ The following 12 pairs of parts of speech are connected with `vocative`: <tt><a 
 11	an	an	ADV	Rs	_	6	advmod	_	_
 12	sin	sin	ADV	Rs	_	11	fixed	_	_
 13	a	a	PART	Uv	PartType=Voc	14	case:voc	_	_
-14	[Name]	[Name]	PROPN	Nn-mv	Case=Voc|Gender=Masc	6	vocative	_	SpaceAfter=No
+14	[Name]	[Name]	PROPN	Nn-mv	Case=Voc|Gender=Masc	6	vocative	_	Anonymised=Yes|SpaceAfter=No
 15	?	?	PUNCT	Fg	_	2	punct	_	_
 
 ~~~

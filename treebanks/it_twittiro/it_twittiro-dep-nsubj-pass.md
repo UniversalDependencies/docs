@@ -12,7 +12,7 @@ There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="it_tw
 101 nodes (0%) are attached to their parents as `nsubj:pass`.
 
 52 instances of `nsubj:pass` (51%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.68316831683168.
+Average distance between parent and child is 2.67326732673267.
 
 The following 8 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="it_twittiro-pos-VERB.html">VERB</a></tt>-<tt><a href="it_twittiro-pos-NOUN.html">NOUN</a></tt> (67; 66% instances), <tt><a href="it_twittiro-pos-VERB.html">VERB</a></tt>-<tt><a href="it_twittiro-pos-PROPN.html">PROPN</a></tt> (21; 21% instances), <tt><a href="it_twittiro-pos-VERB.html">VERB</a></tt>-<tt><a href="it_twittiro-pos-PRON.html">PRON</a></tt> (5; 5% instances), <tt><a href="it_twittiro-pos-VERB.html">VERB</a></tt>-<tt><a href="it_twittiro-pos-NUM.html">NUM</a></tt> (3; 3% instances), <tt><a href="it_twittiro-pos-VERB.html">VERB</a></tt>-<tt><a href="it_twittiro-pos-SYM.html">SYM</a></tt> (2; 2% instances), <tt><a href="it_twittiro-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_twittiro-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="it_twittiro-pos-VERB.html">VERB</a></tt>-<tt><a href="it_twittiro-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="it_twittiro-pos-VERB.html">VERB</a></tt>-<tt><a href="it_twittiro-pos-X.html">X</a></tt> (1; 1% instances).
 
@@ -36,7 +36,7 @@ The following 8 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 11	cit.	citazione	NOUN	S	Gender=Fem	8	parataxis	_	SpaceAfter=No
 12	)	)	PUNCT	FB	_	11	punct	_	_
 13	#scuola	#scuola	SYM	SYM	_	8	parataxis:hashtag	_	_
-14	#labuonascuola	#labuonascuola	SYM	SYM	_	8	parataxis:hashtag	_	SpaceAfter=\n
+14	#labuonascuola	#labuonascuola	SYM	SYM	_	8	parataxis:hashtag	_	SpacesAfter=\n
 
 ~~~
 
@@ -57,7 +57,7 @@ The following 8 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 8	.	.	PUNCT	FS	_	1	punct	_	_
 9	[	[	PUNCT	FB	_	10	punct	_	SpaceAfter=No
 10	@user	@user	SYM	SYM	_	1	vocative:mention	_	SpaceAfter=No
-11	]	]	PUNCT	FB	_	10	punct	_	SpaceAfter=\n
+11	]	]	PUNCT	FB	_	10	punct	_	SpacesAfter=\n
 
 ~~~
 

@@ -22,7 +22,7 @@ The following 9 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 21	bgColor:blue
 # visual-style 21	fgColor:white
 # visual-style 21 20 det	color:blue
-1	_	_	NUM	_	_	26	dep	_	BBIL=B|BPT=4|LBIL=B|LPOS=4|SpaceAfter=Yes|UI=329
+1	_	_	NUM	_	_	26	dep	_	BBIL=B|BPT=4|LBIL=B|LPOS=4|UI=329
 2	_	_	PROPN	_	_	3	compound	_	BBIL=B|BPT=0|LBIL=B|LPOS=0|SpaceAfter=No|UI=796
 3	_	_	NOUN	_	_	11	nsubj	_	BBIL=I|BPT=1|LBIL=I|LPOS=0|SpaceAfter=No|UI=798
 4	_	_	ADP	_	_	3	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No|UI=6

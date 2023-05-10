@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Inf`, `Part`.
 
-7748 tokens (5%) have a non-empty value of `VerbForm`.
-2744 types (15%) occur at least once with a non-empty value of `VerbForm`.
-1427 lemmas (14%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="he_htb-pos-VERB.html">VERB</a></tt> (6829; 4% instances), <tt><a href="he_htb-pos-AUX.html">AUX</a></tt> (919; 1% instances).
+7252 tokens (5%) have a non-empty value of `VerbForm`.
+2738 types (15%) occur at least once with a non-empty value of `VerbForm`.
+1423 lemmas (14%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 2 part-of-speech tags: <tt><a href="he_htb-pos-VERB.html">VERB</a></tt> (6847; 4% instances), <tt><a href="he_htb-pos-AUX.html">AUX</a></tt> (405; 0% instances).
 
 ### `VERB`
 
-6829 <tt><a href="he_htb-pos-VERB.html">VERB</a></tt> tokens (48% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+6847 <tt><a href="he_htb-pos-VERB.html">VERB</a></tt> tokens (48% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="he_htb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (6829; 100%), <tt><a href="he_htb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4964; 73%), <tt><a href="he_htb-feat-Person.html">Person</a></tt><tt>=1,2,3</tt> (4232; 62%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="he_htb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (6847; 100%), <tt><a href="he_htb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4884; 71%), <tt><a href="he_htb-feat-Person.html">Person</a></tt><tt>=1,2,3</tt> (4246; 62%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Inf` (2510; 37% of non-empty `VerbForm`): לעשות, לתת, לשלם, לחיות, לפנות, למנוע, לבצע, לקבל, למצוא, לצפות
-* `Part` (4319; 63% of non-empty `VerbForm`): מדובר, אומר, חולים, כולל, נראה, יודע, רבים, רוצה, עולה, רוצים
-* `EMPTY` (7447): יש, אין, אמר, עבר, היו, היה, הגיעו, עלה, הגיע, טען
+* `Inf` (2496; 36% of non-empty `VerbForm`): לעשות, לתת, לשלם, לפנות, למנוע, לבצע, לקבל, לחיות, למצוא, לצפות
+* `Part` (4351; 64% of non-empty `VerbForm`): מדובר, אומר, יכול, חולים, כולל, נראה, רוצה, יודע, עולה, יכולה
+* `EMPTY` (7441): יש, אין, אמר, עבר, היו, היה, עלה, הגיע, הגיעו, טען
 
 <table>
   <tr><th>Paradigm <i>אמר</i></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>
@@ -37,22 +37,24 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-919 <tt><a href="he_htb-pos-AUX.html">AUX</a></tt> tokens (37% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+405 <tt><a href="he_htb-pos-AUX.html">AUX</a></tt> tokens (33% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="he_htb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (919; 100%), <tt><a href="he_htb-feat-VerbType.html">VerbType</a></tt><tt>=Cop</tt> (805; 88%), <tt><a href="he_htb-feat-Person.html">Person</a></tt><tt>=3</tt> (698; 76%), <tt><a href="he_htb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (650; 71%), <tt><a href="he_htb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (489; 53%), <tt><a href="he_htb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (476; 52%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="he_htb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (405; 100%), <tt><a href="he_htb-feat-VerbType.html">VerbType</a></tt><tt>=Cop</tt> (405; 100%), <tt><a href="he_htb-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (310; 77%), <tt><a href="he_htb-feat-Person.html">Person</a></tt><tt>=3</tt> (298; 74%), <tt><a href="he_htb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (223; 55%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Inf` (89; 10% of non-empty `VerbForm`): להיות
-* `Part` (830; 90% of non-empty `VerbForm`): הוא, היא, אינו, אינה, אינם, יכול, הם, יכולה, אינן, איננו
-* `EMPTY` (1568): היה, היו, היתה, אפשר, יהיה, יש, צריך, תהיה, קשה, ייתכן
+* `Inf` (89; 22% of non-empty `VerbForm`): להיות
+* `Part` (316; 78% of non-empty `VerbForm`): אינו, אינה, אינם, אינן, איננו, איננה, אינני, איני, אינך, הינו
+* `EMPTY` (834): היה, היו, היתה, יהיה, תהיה, יהיו, הייתי, היינו, הייה, היית
 
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="he_htb-dep-conj.html">conj</a></tt>]--> VERB</tt> (486; 67%),
-<tt>VERB --[<tt><a href="he_htb-dep-advmod.html">advmod</a></tt>]--> AUX</tt> (168; 98%),
-<tt>VERB --[<tt><a href="he_htb-dep-dep.html">dep</a></tt>]--> VERB</tt> (101; 76%),
-<tt>AUX --[<tt><a href="he_htb-dep-dep.html">dep</a></tt>]--> AUX</tt> (1; 100%),
-<tt>VERB --[<tt><a href="he_htb-dep-aux.html">aux</a></tt>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<tt><a href="he_htb-dep-conj.html">conj</a></tt>]--> VERB</tt> (496; 72%),
+<tt>VERB --[<tt><a href="he_htb-dep-cop.html">cop</a></tt>]--> AUX</tt> (192; 56%),
+<tt>VERB --[<tt><a href="he_htb-dep-dep.html">dep</a></tt>]--> VERB</tt> (75; 69%),
+<tt>AUX --[<tt><a href="he_htb-dep-conj.html">conj</a></tt>]--> VERB</tt> (3; 75%),
+<tt>AUX --[<tt><a href="he_htb-dep-dep.html">dep</a></tt>]--> VERB</tt> (2; 67%),
+<tt>VERB --[<tt><a href="he_htb-dep-dep.html">dep</a></tt>]--> AUX</tt> (1; 100%),
+<tt>VERB --[<tt><a href="he_htb-dep-nmod.html">nmod</a></tt>]--> VERB</tt> (1; 100%).
 

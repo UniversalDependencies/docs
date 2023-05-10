@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-133 nodes (15%) are attached to their parents as `root`.
+148 nodes (16%) are attached to their parents as `root`.
 
-133 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.64661654135338.
+148 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.57432432432432.
 
-The following 5 pairs of parts of speech are connected with `root`: -<tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (124; 93% instances), -<tt><a href="apu_ufpa-pos-ADJ.html">ADJ</a></tt> (3; 2% instances), -<tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), -<tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (2; 2% instances), -<tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `root`: -<tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (129; 87% instances), -<tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (8; 5% instances), -<tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt> (4; 3% instances), -<tt><a href="apu_ufpa-pos-ADJ.html">ADJ</a></tt> (3; 2% instances), -<tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (3; 2% instances), -<tt><a href="apu_ufpa-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -33,24 +33,6 @@ The following 5 pairs of parts of speech are connected with `root`: -<tt><a href
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 0	bgColor:blue
-# visual-style 0	fgColor:white
-# visual-style 0 6 root	color:blue
-1	Txamary	txamary	CCONJ	XPOS=AUX-FRUSTR	Gender[obj]=Masc|Number[obj]=Sing|Person[obj]=3	4	cc	_	gloss[pt]=AUX-FRUSTR-3SG.M.O
-2	nynuwa	nynuwa	PRON	Pron	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	det	_	gloss[pt]=3PL
-3	aapuku	awapukutxi	NOUN	XPOS=casa.de	Possessed=Yes	4	nsubj	_	gloss[pt]=casa.de
-4	kiumãtxipeinhinhixika	kiumã	NOUN	XPOS=velho.de-N.POSSD-PFTV-SER-AFET-palha	_	6	advcl	_	gloss[pt]=velho.de-N.POSSD-PFTV-SER-AFET-palha|SpaceAfter=No
-5	,	,	PUNCT	_	_	4	punct	_	_
-6	patsukarepyryna	tsuka	ADJ	XPOS=ATRIB.INTENS-??-POSSD-???	_	0	root	_	gloss[pt]=ATRIB.INTENS-??-POSSD-???
-7	awinhinã	awinhitxi	NOUN	XPOS=casa.de	Case=Loc|Number=Sing|Possessed=Yes	6	nsubj	_	gloss[pt]=casa.de-?LOC|SpaceAfter=No
-8	.	.	PUNCT	_	_	6	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 0	bgColor:blue
@@ -61,6 +43,19 @@ The following 5 pairs of parts of speech are connected with `root`: -<tt><a href
 3	hãty	hãty	NUM	XPOS=um,outro	_	4	nummod	_	gloss[pt]=um,outro
 4	kananeã	kanane	NOUN	XPOS=ano	Case=Loc	0	root	_	gloss[pt]=ano-LOC|Possessed=No|SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 0	bgColor:blue
+# visual-style 0	fgColor:white
+# visual-style 0 2 root	color:blue
+1	Ukywyxikeru	kywyxiketxi	NOUN	XPOS=cabeça.de-cabelo.de-3SG.F.O	Gender[psor]=Fem|Number[psor]=Sing|Person[psor]=3|Possessed=Yes	2	nsubj	_	gloss[pt]=3SG.F-cabeça.de-cabelo.de-3SG.F.O
+2	uwa	uwa	PRON	Pron	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	0	root	_	gloss[pt]=3SG.F|SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 

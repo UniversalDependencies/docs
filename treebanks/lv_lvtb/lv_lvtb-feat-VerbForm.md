@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal but the values `Conv` are language-specific.
 It occurs with 4 different values: `Conv`, `Fin`, `Inf`, `Part`.
 
-51131 tokens (18%) have a non-empty value of `VerbForm`.
-17337 types (34%) occur at least once with a non-empty value of `VerbForm`.
-4060 lemmas (18%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 3 part-of-speech tags: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (43433; 15% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (7636; 3% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (62; 0% instances).
+51661 tokens (18%) have a non-empty value of `VerbForm`.
+17419 types (34%) occur at least once with a non-empty value of `VerbForm`.
+4062 lemmas (18%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 3 part-of-speech tags: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (43863; 15% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (7736; 3% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (62; 0% instances).
 
 ### `VERB`
 
-43433 <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+43863 <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (40620; 94%), <tt><a href="lv_lvtb-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (36608; 84%), <tt><a href="lv_lvtb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (33638; 77%), <tt><a href="lv_lvtb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (32541; 75%), <tt><a href="lv_lvtb-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (32529; 75%), <tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (32391; 75%), <tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (32391; 75%), <tt><a href="lv_lvtb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (28412; 65%), <tt><a href="lv_lvtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (28255; 65%), <tt><a href="lv_lvtb-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (22305; 51%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (41042; 94%), <tt><a href="lv_lvtb-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (37007; 84%), <tt><a href="lv_lvtb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (33919; 77%), <tt><a href="lv_lvtb-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (32810; 75%), <tt><a href="lv_lvtb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (32810; 75%), <tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (32669; 74%), <tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (32669; 74%), <tt><a href="lv_lvtb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (28681; 65%), <tt><a href="lv_lvtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (28498; 65%), <tt><a href="lv_lvtb-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (22556; 51%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Conv` (2078; 5% of non-empty `VerbForm`): <em>izmantojot, ņemot, sakot, pateicoties, runājot, izņemot, sākot, neskatoties, pamatojoties, salīdzinot</em>
-* `Fin` (23889; 55% of non-empty `VerbForm`): <em>ir, var, varētu, bija, nav, nevar, būs, notiek, teica, sāka</em>
-* `Inf` (6565; 15% of non-empty `VerbForm`): <em>izmantot, darīt, strādāt, iet, dzīvot, būt, atrast, runāt, teikt, doties</em>
-* `Part` (10901; 25% of non-empty `VerbForm`): <em>pagājušajā, ziņots, redzams, pagājušā, zināms, bijis, paredzēts, plānots, bijusi, esošo</em>
+* `Conv` (2101; 5% of non-empty `VerbForm`): <em>ņemot, izmantojot, sakot, pateicoties, runājot, izņemot, sākot, neskatoties, pamatojoties, salīdzinot</em>
+* `Fin` (24096; 55% of non-empty `VerbForm`): <em>ir, var, varētu, nav, bija, nevar, būs, notiek, teica, saka</em>
+* `Inf` (6613; 15% of non-empty `VerbForm`): <em>izmantot, darīt, strādāt, atrast, dzīvot, runāt, būt, iet, teikt, doties</em>
+* `Part` (11053; 25% of non-empty `VerbForm`): <em>pagājušajā, redzams, ziņots, pagājušā, paredzēts, zināms, bijis, plānots, bijusi, esošo</em>
 * `EMPTY` (3): <em>sk.</em>
 
 <table>
@@ -114,16 +114,16 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-7636 <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+7736 <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="lv_lvtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7449; 98%), <tt><a href="lv_lvtb-feat-Evident.html">Evident</a></tt><tt>=Fh</tt> (6761; 89%), <tt><a href="lv_lvtb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (6761; 89%), <tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (6561; 86%), <tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=3</tt> (6262; 82%), <tt><a href="lv_lvtb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (4974; 65%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="lv_lvtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7542; 97%), <tt><a href="lv_lvtb-feat-Evident.html">Evident</a></tt><tt>=Fh</tt> (6846; 88%), <tt><a href="lv_lvtb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (6846; 88%), <tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (6655; 86%), <tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=3</tt> (6347; 82%), <tt><a href="lv_lvtb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5039; 65%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
 * `Conv` (15; 0% of non-empty `VerbForm`): <em>būdams, būdami, esot, nebūdams, Tiekot, būdama, esam</em>
-* `Fin` (7279; 95% of non-empty `VerbForm`): <em>ir, bija, nav, tiek, tika, būtu, būs, esmu, tiks, esot</em>
-* `Inf` (172; 2% of non-empty `VerbForm`): <em>būt, tikt, nebūt, netikt, tapt</em>
-* `Part` (170; 2% of non-empty `VerbForm`): <em>bijis, bijusi, bijuši, ticis, bijušas, tikusi, bijušo, tikuši, bijušajos, bijušajām</em>
+* `Fin` (7370; 95% of non-empty `VerbForm`): <em>ir, bija, nav, tiek, tika, būtu, būs, esmu, tiks, esot</em>
+* `Inf` (179; 2% of non-empty `VerbForm`): <em>būt, tikt, nebūt, netikt, tapt</em>
+* `Part` (172; 2% of non-empty `VerbForm`): <em>bijis, bijusi, bijuši, ticis, bijušas, tikusi, bijušo, tikuši, bijušajos, bijušajām</em>
 
 <table>
   <tr><th>Paradigm <i>būt</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th><th><tt>Conv</tt></th></tr>
@@ -193,16 +193,16 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 `ADJ` tokens may have the following values of `VerbForm`:
 
 * `Part` (62; 100% of non-empty `VerbForm`): <em>droša, klātesošie, drošu, klātesošajiem, vispārizglītojošo, droši, drošs, klātesošo, košos, tiesībsargājošo</em>
-* `EMPTY` (14891): <em>iespējams, pirmo, liela, nepieciešams, pirmā, lielu, jaunu, 1., lielā, liels</em>
+* `EMPTY` (15202): <em>iespējams, pirmo, liela, nepieciešams, pirmā, jaunu, 1., lielu, liels, lielā</em>
 
 `VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (14) occur only with one value of `VerbForm`.
 
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="lv_lvtb-dep-conj.html">conj</a></tt>]--> VERB</tt> (6086; 86%),
+<tt>VERB --[<tt><a href="lv_lvtb-dep-conj.html">conj</a></tt>]--> VERB</tt> (6135; 86%),
 <tt>VERB --[<tt><a href="lv_lvtb-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (139; 64%),
-<tt>VERB --[<tt><a href="lv_lvtb-dep-dep.html">dep</a></tt>]--> VERB</tt> (71; 55%),
+<tt>VERB --[<tt><a href="lv_lvtb-dep-dep.html">dep</a></tt>]--> VERB</tt> (72; 55%),
 <tt>AUX --[<tt><a href="lv_lvtb-dep-conj.html">conj</a></tt>]--> VERB</tt> (11; 92%),
 <tt>VERB --[<tt><a href="lv_lvtb-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> VERB</tt> (9; 82%),
 <tt>VERB --[<tt><a href="lv_lvtb-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (5; 71%),

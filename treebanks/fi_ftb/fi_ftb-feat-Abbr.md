@@ -23,7 +23,7 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 `PROPN` tokens may have the following values of `Abbr`:
 
 * `Yes` (201; 100% of non-empty `Abbr`): <em>EU:n, NN:n, EU, EU:hun, SAK, YK:n, SAK:n, SDP:n, TBK, USA:n</em>
-* `EMPTY` (6572): <em>Suomen, suomessa, Suomi, Helsingin, Maija, Mikko, Euroopan, Anna, Helsingissä, Suomeen</em>
+* `EMPTY` (6571): <em>Suomen, suomessa, Suomi, Helsingin, Maija, Mikko, Euroopan, Anna, Helsingissä, Suomeen</em>
 
 `Abbr` seems to be **lexical feature** of `PROPN`. 100% lemmas (104) occur only with one value of `Abbr`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (196; 100% of non-empty `Abbr`): <em>x, x:n, y, klo, A, mk, A:n, Oy:n, B, B:n</em>
-* `EMPTY` (36840): <em>mies, vuoden, vuotta, asia, aikaa, äiti, vuonna, kertaa, osa, markkaa</em>
+* `EMPTY` (36835): <em>mies, vuoden, vuotta, asia, aikaa, äiti, vuonna, kertaa, osa, markkaa</em>
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (53) occur only with one value of `Abbr`.
 
@@ -60,7 +60,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>huumorintaj.</em>
-* `EMPTY` (10490): <em>koko, hyvä, viime, ensi, hyvää, uusi, oma, ensimmäinen, uutta, uuden</em>
+* `EMPTY` (10489): <em>koko, hyvä, viime, ensi, hyvää, uusi, oma, ensimmäinen, uutta, uuden</em>
 
 ## Relations with Agreement in `Abbr`
 

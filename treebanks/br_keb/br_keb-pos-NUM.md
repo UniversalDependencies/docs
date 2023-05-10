@@ -36,7 +36,7 @@ The 10 most frequent ambiguous types:  <em>4</em> (<tt><a href="br_keb-pos-NUM.h
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.105691 (the average of all parts of speech is 1.395336).
+The form / lemma ratio of `NUM` is 1.105691 (the average of all parts of speech is 1.395664).
 
 The 1st highest number of forms (3) was observed with the lemma “daou”: <em>daou, div, zaou</em>.
 
@@ -59,9 +59,9 @@ Examples: <em>daou, 2007, 4, 000, 1950, 20, 3, 30, 10, 2</em>
 
 Parents of `NUM` nodes belong to 8 different parts of speech: <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt> (158; 68% instances), <tt><a href="br_keb-pos-VERB.html">VERB</a></tt> (49; 21% instances), <tt><a href="br_keb-pos-NUM.html">NUM</a></tt> (14; 6% instances),  (5; 2% instances), <tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="br_keb-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="br_keb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="br_keb-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 
-138 (59%) `NUM` nodes are leaves.
+139 (60%) `NUM` nodes are leaves.
 
-57 (24%) `NUM` nodes have one child.
+56 (24%) `NUM` nodes have one child.
 
 20 (9%) `NUM` nodes have two children.
 
@@ -69,7 +69,7 @@ Parents of `NUM` nodes belong to 8 different parts of speech: <tt><a href="br_ke
 
 The highest child degree of a `NUM` node is 6.
 
-Children of `NUM` nodes are attached using 19 different relations: <tt><a href="br_keb-dep-case.html">case</a></tt> (54; 32% instances), <tt><a href="br_keb-dep-nmod.html">nmod</a></tt> (27; 16% instances), <tt><a href="br_keb-dep-punct.html">punct</a></tt> (19; 11% instances), <tt><a href="br_keb-dep-dep.html">dep</a></tt> (11; 7% instances), <tt><a href="br_keb-dep-det.html">det</a></tt> (10; 6% instances), <tt><a href="br_keb-dep-advmod.html">advmod</a></tt> (8; 5% instances), <tt><a href="br_keb-dep-cc.html">cc</a></tt> (8; 5% instances), <tt><a href="br_keb-dep-conj.html">conj</a></tt> (8; 5% instances), <tt><a href="br_keb-dep-cop.html">cop</a></tt> (5; 3% instances), <tt><a href="br_keb-dep-nsubj.html">nsubj</a></tt> (5; 3% instances), <tt><a href="br_keb-dep-acl.html">acl</a></tt> (2; 1% instances), <tt><a href="br_keb-dep-aux.html">aux</a></tt> (2; 1% instances), <tt><a href="br_keb-dep-nummod.html">nummod</a></tt> (2; 1% instances), <tt><a href="br_keb-dep-amod.html">amod</a></tt> (1; 1% instances), <tt><a href="br_keb-dep-aux-pass.html">aux:pass</a></tt> (1; 1% instances), <tt><a href="br_keb-dep-fixed.html">fixed</a></tt> (1; 1% instances), <tt><a href="br_keb-dep-mark.html">mark</a></tt> (1; 1% instances), <tt><a href="br_keb-dep-obl.html">obl</a></tt> (1; 1% instances), <tt><a href="br_keb-dep-parataxis.html">parataxis</a></tt> (1; 1% instances)
+Children of `NUM` nodes are attached using 19 different relations: <tt><a href="br_keb-dep-case.html">case</a></tt> (54; 33% instances), <tt><a href="br_keb-dep-nmod.html">nmod</a></tt> (27; 16% instances), <tt><a href="br_keb-dep-punct.html">punct</a></tt> (18; 11% instances), <tt><a href="br_keb-dep-dep.html">dep</a></tt> (11; 7% instances), <tt><a href="br_keb-dep-det.html">det</a></tt> (10; 6% instances), <tt><a href="br_keb-dep-advmod.html">advmod</a></tt> (8; 5% instances), <tt><a href="br_keb-dep-cc.html">cc</a></tt> (8; 5% instances), <tt><a href="br_keb-dep-conj.html">conj</a></tt> (8; 5% instances), <tt><a href="br_keb-dep-cop.html">cop</a></tt> (5; 3% instances), <tt><a href="br_keb-dep-nsubj.html">nsubj</a></tt> (5; 3% instances), <tt><a href="br_keb-dep-acl.html">acl</a></tt> (2; 1% instances), <tt><a href="br_keb-dep-aux.html">aux</a></tt> (2; 1% instances), <tt><a href="br_keb-dep-nummod.html">nummod</a></tt> (2; 1% instances), <tt><a href="br_keb-dep-amod.html">amod</a></tt> (1; 1% instances), <tt><a href="br_keb-dep-aux-pass.html">aux:pass</a></tt> (1; 1% instances), <tt><a href="br_keb-dep-fixed.html">fixed</a></tt> (1; 1% instances), <tt><a href="br_keb-dep-mark.html">mark</a></tt> (1; 1% instances), <tt><a href="br_keb-dep-obl.html">obl</a></tt> (1; 1% instances), <tt><a href="br_keb-dep-parataxis.html">parataxis</a></tt> (1; 1% instances)
 
-Children of `NUM` nodes belong to 14 different parts of speech: <tt><a href="br_keb-pos-ADP.html">ADP</a></tt> (59; 35% instances), <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt> (27; 16% instances), <tt><a href="br_keb-pos-PUNCT.html">PUNCT</a></tt> (19; 11% instances), <tt><a href="br_keb-pos-NUM.html">NUM</a></tt> (14; 8% instances), <tt><a href="br_keb-pos-ADV.html">ADV</a></tt> (10; 6% instances), <tt><a href="br_keb-pos-DET.html">DET</a></tt> (9; 5% instances), <tt><a href="br_keb-pos-AUX.html">AUX</a></tt> (8; 5% instances), <tt><a href="br_keb-pos-CCONJ.html">CCONJ</a></tt> (8; 5% instances), <tt><a href="br_keb-pos-X.html">X</a></tt> (6; 4% instances), <tt><a href="br_keb-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="br_keb-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="br_keb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="br_keb-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances)
+Children of `NUM` nodes belong to 14 different parts of speech: <tt><a href="br_keb-pos-ADP.html">ADP</a></tt> (59; 36% instances), <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt> (27; 16% instances), <tt><a href="br_keb-pos-PUNCT.html">PUNCT</a></tt> (18; 11% instances), <tt><a href="br_keb-pos-NUM.html">NUM</a></tt> (14; 8% instances), <tt><a href="br_keb-pos-ADV.html">ADV</a></tt> (10; 6% instances), <tt><a href="br_keb-pos-DET.html">DET</a></tt> (9; 5% instances), <tt><a href="br_keb-pos-AUX.html">AUX</a></tt> (8; 5% instances), <tt><a href="br_keb-pos-CCONJ.html">CCONJ</a></tt> (8; 5% instances), <tt><a href="br_keb-pos-X.html">X</a></tt> (6; 4% instances), <tt><a href="br_keb-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="br_keb-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="br_keb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="br_keb-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances)
 

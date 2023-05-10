@@ -39,7 +39,7 @@ The 10 most frequent ambiguous types:  <em>Filiz</em> (<tt><a href="tr_gb-pos-PR
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.639269 (the average of all parts of speech is 2.332745).
+The form / lemma ratio of `PROPN` is 1.639269 (the average of all parts of speech is 2.332157).
 
 The 1st highest number of forms (10) was observed with the lemma “Ahmet”: <em>Ahmet, Ahmete, Ahmetin, Ahmet’e, Ahmet’i, Ahmet’in, Ahmet’le, Ahmet’ler, Ahmet’te, Ahmet’ten</em>.
 

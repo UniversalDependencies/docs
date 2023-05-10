@@ -33,4 +33,4 @@ udver: '2'
 * _Sto <b>sognando</b>_ "I am dreaming"
 * _<b>Arrivando</b> tardi si perde il treno_ "Arriving late you miss the train"
 
-<!-- Interlanguage links updated Po lis 14 15:35:00 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:51 CEST -->

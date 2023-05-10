@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="af_afribooms-dep-aux-pass.html">aux:pass</a></tt>.
 
-1569 nodes (3%) are attached to their parents as `aux`.
+1570 nodes (3%) are attached to their parents as `aux`.
 
-1217 instances of `aux` (78%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.20076481835564.
+1218 instances of `aux` (78%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.20382165605096.
 
-The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt> (1489; 95% instances), <tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt>-<tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt> (41; 3% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt>-<tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt> (32; 2% instances), <tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt>-<tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="af_afribooms-pos-NUM.html">NUM</a></tt>-<tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt>-<tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt> (1490; 95% instances), <tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt>-<tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt> (41; 3% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt>-<tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt> (32; 2% instances), <tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt>-<tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="af_afribooms-pos-NUM.html">NUM</a></tt>-<tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt>-<tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

@@ -184,4 +184,4 @@ Temporal expressions that are adverbs or short adverbial phrases also use the ad
 4	soon."	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:05 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:56 CEST -->

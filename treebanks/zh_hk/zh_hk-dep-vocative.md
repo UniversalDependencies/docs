@@ -22,18 +22,18 @@ The following 5 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 1 vocative	color:blue
-1	爺爺	_	NOUN	_	_	5	vocative	_	SpaceAfter=No
-2	，	_	PUNCT	_	_	1	punct	_	SpaceAfter=No
-3	我	_	PRON	_	_	5	nsubj	_	SpaceAfter=No
-4	可以	_	AUX	_	_	5	aux	_	SpaceAfter=No
-5	去	_	VERB	_	_	0	root	_	SpaceAfter=No
-6	看	_	VERB	_	_	5	conj	_	SpaceAfter=No
-7	新	_	ADJ	_	_	10	amod	_	SpaceAfter=No
-8	一	_	NUM	_	_	10	nummod	_	SpaceAfter=No
-9	集	_	NOUN	_	NounType=Clf	8	clf	_	SpaceAfter=No
-10	龍珠	_	PROPN	_	_	6	obj	_	SpaceAfter=No
-11	嗎	_	PART	_	_	5	discourse:sp	_	SpaceAfter=No
-12	？	_	PUNCT	_	_	5	punct	_	SpaceAfter=No
+1	爺爺	爺爺	NOUN	_	_	5	vocative	_	SpaceAfter=No|Translit=yeye|LTranslit=yeye
+2	，	，	PUNCT	_	_	1	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
+3	我	我	PRON	_	_	5	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
+4	可以	可以	AUX	_	_	5	aux	_	SpaceAfter=No|Translit=kěyǐ|LTranslit=kěyǐ
+5	去	去	VERB	_	_	0	root	_	SpaceAfter=No|Translit=qù|LTranslit=qù
+6	看	看	VERB	_	_	5	conj	_	SpaceAfter=No|Translit=kàn|LTranslit=kàn
+7	新	新	ADJ	_	_	10	amod	_	SpaceAfter=No|Translit=xīn|LTranslit=xīn
+8	一	一	NUM	_	_	10	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+9	集	集	NOUN	_	NounType=Clf	8	clf	_	SpaceAfter=No|Translit=jí|LTranslit=jí
+10	龍珠	龍珠	PROPN	_	_	6	obj	_	SpaceAfter=No|Translit=lóngzhū|LTranslit=lóngzhū
+11	嗎	嗎	PART	_	_	5	discourse:sp	_	SpaceAfter=No|Translit=ma|LTranslit=ma
+12	？	？	PUNCT	_	_	5	punct	_	SpaceAfter=No|Translit=?|LTranslit=?
 
 ~~~
 
@@ -44,15 +44,15 @@ The following 5 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 7 vocative	color:blue
-1	好	_	VERB	_	_	0	root	_	SpaceAfter=No
-2	的	_	PART	_	_	1	discourse:sp	_	SpaceAfter=No
-3	，	_	PUNCT	_	_	1	punct	_	SpaceAfter=No
-4	謝謝	_	VERB	_	_	1	conj	_	SpaceAfter=No
-5	你	_	PRON	_	_	1	obj	_	SpaceAfter=No
-6	，	_	PUNCT	_	_	7	punct	_	SpaceAfter=No
-7	毛孟靜	_	PROPN	_	_	4	vocative	_	SpaceAfter=No
-8	議員	_	NOUN	_	_	7	flat	_	SpaceAfter=No
-9	。	_	PUNCT	_	_	1	punct	_	SpaceAfter=No
+1	好	好	VERB	_	_	0	root	_	SpaceAfter=No|Translit=hǎo|LTranslit=hǎo
+2	的	的	PART	_	_	1	discourse:sp	_	SpaceAfter=No|Translit=de|LTranslit=de
+3	，	，	PUNCT	_	_	4	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
+4	謝謝	謝謝	VERB	_	_	1	conj	_	SpaceAfter=No|Translit=xièxiè|LTranslit=xièxiè
+5	你	你	PRON	_	_	1	obj	_	SpaceAfter=No|Translit=nǐ|LTranslit=nǐ
+6	，	，	PUNCT	_	_	7	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
+7	毛孟靜	毛孟靜	PROPN	_	_	4	vocative	_	SpaceAfter=No|Translit=máo孟jìng|LTranslit=máo孟jìng
+8	議員	議員	NOUN	_	_	7	flat	_	SpaceAfter=No|Translit=yìyuán|LTranslit=yìyuán
+9	。	。	PUNCT	_	_	1	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 ~~~
 
@@ -63,11 +63,11 @@ The following 5 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 1 vocative	color:blue
-1	主席	_	NOUN	_	_	4	vocative	_	SpaceAfter=No
-2	，	_	PUNCT	_	_	4	punct	_	SpaceAfter=No
-3	規程	_	NOUN	_	_	4	compound	_	SpaceAfter=No
-4	問題	_	NOUN	_	_	0	root	_	SpaceAfter=No
-5	。	_	PUNCT	_	_	4	punct	_	SpaceAfter=No
+1	主席	主席	NOUN	_	_	4	vocative	_	SpaceAfter=No|Translit=zhǔxí|LTranslit=zhǔxí
+2	，	，	PUNCT	_	_	1	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
+3	規程	規程	NOUN	_	_	4	compound	_	SpaceAfter=No|Translit=guīchéng|LTranslit=guīchéng
+4	問題	問題	NOUN	_	_	0	root	_	SpaceAfter=No|Translit=wèntí|LTranslit=wèntí
+5	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 ~~~
 

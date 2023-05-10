@@ -34,7 +34,7 @@ The following 19 pairs of parts of speech are connected with `advmod`: <tt><a hr
 10	수	_	NOUN	NNB	_	11	nsubj	_	Translit=.su
 11	없을	_	ADJ	JJ	Form=Adn	12	acl:relcl	_	Translit=.eobs.eul
 12	정도	_	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=.jeong.do
-13	이다	_	AUX	VC	Mood=Ind|VerbForm=Fin	12	cop	_	SpaceAfter=No|Translit=.i.da
+13	이다	이	AUX	VC	Mood=Ind|VerbForm=Fin	12	cop	_	SpaceAfter=No|Translit=.i.da|LTranslit=.i
 14	.	.	PUNCT	.	_	12	punct	_	Translit=.|LTranslit=.
 
 ~~~
@@ -51,11 +51,11 @@ The following 19 pairs of parts of speech are connected with `advmod`: <tt><a hr
 3	칸지르는	칸지르	PROPN	NNP+CM	Case=Nom|Polite=Form	12	nsubj	_	MSeg=칸지르-는|Translit=.kan.ji.reu.neun|LTranslit=.kan.ji.reu
 4	외로운	_	ADJ	JJ	Form=Adn	5	amod	_	Translit=.oe.ro.un
 5	돼지	_	NOUN	NN	_	7	ccomp	_	SpaceAfter=No|Translit=.dwae.ji
-6	일지	_	AUX	VC	Form=Compl	5	cop	_	Translit=.il.ji
+6	일지	이	AUX	VC	Form=Compl	5	cop	_	Translit=.il.ji|LTranslit=.i
 7	몰라도	_	VERB	VV	Form=Compl	12	advcl	_	Translit=.mol.ra.do
 8	항상	_	ADV	RB	_	9	advmod	_	Translit=.hang.sang
 9	혼자	_	NOUN	NN	_	11	dep	_	SpaceAfter=No|Translit=.hon.ja
-10	인	_	AUX	VC	Form=Adn	9	cop	_	Translit=.in
+10	인	이	AUX	VC	Form=Adn	9	cop	_	Translit=.in|LTranslit=.i
 11	것은	것	NOUN	NNB+AP	_	12	compound:lvc	_	MSeg=것-은|Translit=.geos.eun|LTranslit=.geos
 12	아니다	_	ADJ	JJ	Mood=Ind|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=.a.ni.da
 13	.	.	PUNCT	.	_	12	punct	_	Translit=.|LTranslit=.
@@ -80,7 +80,7 @@ The following 19 pairs of parts of speech are connected with `advmod`: <tt><a hr
 9	조금	_	ADV	RB	_	10	advmod	_	Translit=.jo.geum
 10	다를	_	ADJ	JJ	Form=Adn	11	dep	_	Translit=.da.reul
 11	것	_	NOUN	NNB	_	0	root	_	SpaceAfter=No|Translit=.geos
-12	이다	_	AUX	VC	Mood=Ind|VerbForm=Fin	11	cop	_	SpaceAfter=No|Translit=.i.da
+12	이다	이	AUX	VC	Mood=Ind|VerbForm=Fin	11	cop	_	SpaceAfter=No|Translit=.i.da|LTranslit=.i
 13	.	.	PUNCT	.	_	11	punct	_	Translit=.|LTranslit=.
 
 ~~~

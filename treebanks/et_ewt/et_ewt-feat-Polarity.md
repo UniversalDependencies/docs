@@ -32,7 +32,7 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (248; 100% of non-empty `Polarity`): <em>mitte, ega</em>
-* `EMPTY` (12375): <em>ka, siis, nii, kas, ikka, veel, ju, juba, ära, küll</em>
+* `EMPTY` (12376): <em>ka, siis, nii, kas, ikka, veel, ju, juba, ära, küll</em>
 
 ### `VERB`
 
@@ -63,5 +63,5 @@ The most frequent other feature values with which `PRON` and `Polarity` co-occur
 `PRON` tokens may have the following values of `Polarity`:
 
 * `Neg` (2; 100% of non-empty `Polarity`): <em>mai</em>
-* `EMPTY` (6629): <em>ma, see, mis, seda, oma, kes, ta, sa, midagi, mida</em>
+* `EMPTY` (6632): <em>ma, see, mis, seda, oma, kes, ta, sa, midagi, mida</em>
 

@@ -8,28 +8,30 @@ udver: '2'
 
 This relation is universal.
 
-3744 nodes (7%) are attached to their parents as `advmod`.
+12260 nodes (6%) are attached to their parents as `advmod`.
 
-3005 instances of `advmod` (80%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.75747863247863.
+10220 instances of `advmod` (83%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.9721044045677.
 
-The following 20 pairs of parts of speech are connected with `advmod`: <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (2741; 73% instances), <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (209; 6% instances), <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (170; 5% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (161; 4% instances), <tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (104; 3% instances), <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (88; 2% instances), <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (85; 2% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (82; 2% instances), <tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (39; 1% instances), <tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (26; 1% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (14; 0% instances), <tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="cu_proiel-pos-INTJ.html">INTJ</a></tt>-<tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt>-<tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="cu_proiel-pos-DET.html">DET</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="cu_proiel-pos-INTJ.html">INTJ</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 21 pairs of parts of speech are connected with `advmod`: <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (9149; 75% instances), <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (886; 7% instances), <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (549; 4% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (438; 4% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (353; 3% instances), <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (319; 3% instances), <tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (302; 2% instances), <tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (83; 1% instances), <tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (77; 1% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (35; 0% instances), <tt><a href="cu_proiel-pos-DET.html">DET</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (21; 0% instances), <tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (11; 0% instances), <tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (11; 0% instances), <tt><a href="cu_proiel-pos-INTJ.html">INTJ</a></tt>-<tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (8; 0% instances), <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="cu_proiel-pos-INTJ.html">INTJ</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt>-<tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 advmod	color:blue
-1	не	не	ADV	Df	Polarity=Neg	2	advmod	_	Ref=MATT_5.26
-2	изидеши	изити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_5.26
-3	отъ	отътѫдѣ	ADV	Df	_	2	advmod	_	Ref=MATT_5.26
-4	тѫдѣ	тѫдѣ	ADV	Df	_	3	fixed	_	Ref=MATT_5.26
-5	доньдеже	доньде	SCONJ	G-	_	6	mark	_	Ref=MATT_5.26
-6	въздаси	въздати	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	Ref=MATT_5.26
-7	послѣдьнии	послѣдьнии	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	Ref=MATT_5.26
-8	кодрантъ	кодрантъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	6	obj	_	Ref=MATT_5.26
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 advmod	color:blue
+1	ꙇ	и	CCONJ	C-	_	7	cc	_	ref=
+2	вѣра	вѣра	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	ref=
+3	твоѣ	твои	DET	Ps	Case=Nom|Gender=Fem|Number=Sing|Person=2|Poss=Yes	2	det	_	ref=
+4	въ	въ	ADP	R-	_	5	case	_	ref=
+5	насъ	мꙑ	PRON	Pp	Case=Loc|Number=Plur|Person=1|PronType=Prs	7	obl	_	ref=
+6	да	да	ADV	Df	_	7	advmod	_	ref=
+7	въздрастетъ	въздрасти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+8	г҃мь	господь	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	7	obl	_	ref=
+9	нашімь	нашь	DET	Ps	Case=Ins|Gender=Masc|Number=Sing|Person=1|Poss=Yes	8	det	_	ref=
+10	и҃см	исоусъ	PROPN	Ne	Case=Ins|Gender=Masc|Number=Sing	8	appos	_	ref=
 
 ~~~
 
@@ -37,35 +39,43 @@ The following 20 pairs of parts of speech are connected with `advmod`: <tt><a hr
 ~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 advmod	color:blue
-1	не	не	ADV	Df	Polarity=Neg	6	advmod	_	Ref=MATT_5.46
-2	и	и	ADV	Df	_	3	advmod	_	Ref=MATT_5.46
-3	мꙑтаре	мꙑтарь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	Ref=MATT_5.46
-4	ли	ли	ADV	Du	PronType=Int	6	advmod	_	Ref=MATT_5.46
-5	тожде	тъжде	ADJ	Pd	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=MATT_5.46
-6	творѧтъ	творити	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_5.46
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 2 advmod	color:blue
+1	ї	и	CCONJ	C-	_	5	cc	_	ref=77.30
+2	одъначе	ѥдьначе	ADV	Df	_	5	advmod	_	ref=77.30
+3	брашьноу	брашьно	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	5	nsubj	_	ref=77.30
+4	сѫштю	бꙑти	AUX	V-	Case=Dat|Gender=Neut|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	5	cop	_	ref=77.30
+5	оустѣхъ	оуста	NOUN	Nb	Case=Loc|Gender=Neut|Number=Plur	0	root	_	ref=77.30
+6	іхъ	и	PRON	Pp	Case=Gen|Gender=Fem,Masc|Number=Plur|Person=3|PronType=Prs	5	det	_	ref=77.30
+7	Ї	и	CCONJ	C-	_	10	cc	_	ref=77.31
+8	гнѣвъ	гнѣвъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	ref=77.31
+9	бж҃і	божии	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	8	amod	_	ref=77.31
+10	възіде	възити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	ref=77.31
+11	на	на	ADP	R-	_	12	case	_	ref=77.31
+12	нѩ	и	PRON	Pp	Case=Acc|Gender=Fem,Masc|Number=Plur|Person=3|PronType=Prs	10	obl	_	ref=77.31
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 advmod	color:blue
-1	ꙇже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	3	nsubj	_	Ref=MATT_5.31
-2	аште	аще	ADV	Df	_	1	advmod	_	Ref=MATT_5.31
-3	поуститъ	поустити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	nsubj	_	Ref=MATT_5.31
-4	женѫ	жена	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	3	obj	_	Ref=MATT_5.31
-5	своѭ	свои	ADJ	Pt	Case=Acc|Gender=Fem|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	4	nmod	_	Ref=MATT_5.31
-6	да	да	ADV	Df	_	7	advmod	_	Ref=MATT_5.31
-7	дастъ	дати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_5.31
-8	еи	и	PRON	Pp	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	iobj	_	Ref=MATT_5.31
-9	кънигꙑ	кънигꙑ	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	7	obj	_	Ref=MATT_5.31
-10	распоустънꙑѩ	распоустьнъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem,Masc|Number=Plur	9	amod	_	Ref=MATT_5.31
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 7 advmod	color:blue
+1	да	да	ADV	Df	_	12	advmod	_	ref=2
+2	а͑	а	SCONJ	G-	_	6	mark	_	ref=2
+3	бы	бꙑти	AUX	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	6	aux	_	ref=2
+4	не	не	ADV	Df	Polarity=Neg	6	advmod	_	ref=2
+5	былъ	бꙑти	AUX	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=PartRes|Voice=Act	6	cop	_	ref=2
+6	влъхвъ	влъхвъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	12	advcl	_	ref=2
+7	и͑	и	ADV	Df	_	8	advmod	_	ref=2
+8	насъ	мꙑ	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	12	obj	_	ref=2
+9	бы	бꙑти	AUX	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	aux	_	ref=2
+10	о͑гн̑ь	огнь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	ref=2
+11	тъ	тъ	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	10	det	_	ref=2
+12	пожеглъ	пожещи	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=PartRes|Voice=Act	0	root	_	ref=2
 
 ~~~
 

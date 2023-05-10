@@ -57,14 +57,14 @@ The following 10 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 2	fgColor:white
 # visual-style 2 3 obj	color:blue
 1	Сэсся	сэсся	ADV	Adv	_	2	advmod:tmod	_	_
-2	тэчи	тэчны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=2	0	root	_	GTtags=TV,Ind,Prt1,Err/Dial,Sg3
-3	чукӧртӧмасӧ	чукӧртны	VERB	V	Clitic=So|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=2	2	obj	_	GTtags=TV,Ind,Prt2,Sg3,Clt/сӧ
+2	тэчи	тэчны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=TV,Ind,Prt1,Err/Dial,Sg3
+3	чукӧртӧмасӧ	чукӧртны	VERB	V	Clitic=So|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	2	obj	_	GTtags=TV,Ind,Prt2,Sg3,Clt/сӧ
 4	ас	ас	PRON	Pron	PronType=Prs|Reflex=Yes	2	obl	_	GTtags=Det,Refl,Abs
 5	гӧгӧр	гӧгӧр	ADP	Adp	AdpType=Post|Case=Nom|Number=Sing	4	case	_	GTtags=Po,Sg,Nom
 6	да	да	CCONJ	CC	_	7	cc	_	_
-7	заводиті	заводитны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=1	2	conj	_	GTtags=IV,Ind,Prt1,Err/Dial,Sg3
+7	заводиті	заводитны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	GTtags=IV,Ind,Prt1,Err/Dial,Sg3
 8	войсӧ	вой	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	9	obj	_	GTtags=Sg,Acc,PxSg3
-9	виччысьны	виччысьны	VERB	V	Valency=2|VerbForm=Inf	7	xcomp	_	GTtags=TV,Inf|SpaceAfter=No
+9	виччысьны	виччысьны	VERB	V	VerbForm=Inf	7	xcomp	_	GTtags=TV,Inf|SpaceAfter=No
 10	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 ~~~

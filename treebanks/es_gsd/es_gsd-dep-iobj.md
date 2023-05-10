@@ -8,79 +8,73 @@ udver: '2'
 
 This relation is universal.
 
-7465 nodes (2%) are attached to their parents as `iobj`.
+1 nodes (0%) are attached to their parents as `iobj`.
 
-5730 instances of `iobj` (77%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.49202947086403.
+1 instances of `iobj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.
 
-The following 25 pairs of parts of speech are connected with `iobj`: <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (6613; 89% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (563; 8% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (215; 3% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (17; 0% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (14; 0% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 1 pairs of parts of speech are connected with `iobj`: <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (1; 100% instances).
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 8 iobj	color:blue
+# visual-style 44	bgColor:blue
+# visual-style 44	fgColor:white
+# visual-style 42	bgColor:blue
+# visual-style 42	fgColor:white
+# visual-style 42 44 iobj	color:blue
 1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
-2	12	12	NUM	_	NumType=Card	9	obl	_	_
-3	de	de	ADP	_	_	4	case	_	_
-4	noviembre	noviembre	PROPN	_	_	2	nmod	_	SpaceAfter=No
-5	,	,	PUNCT	_	_	2	punct	_	_
-6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
-7	CNT	cnt	PROPN	_	_	9	nsubj	_	_
-8	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	iobj	_	_
-9	retira	retirar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-10	de	de	ADP	_	_	12	case	_	_
-11	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
-12	comités	comités	NOUN	_	Gender=Masc|Number=Plur	9	obl	_	_
-13	de	de	ADP	_	_	15	case	_	_
-14	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
-15	FPA	fpa	PROPN	_	_	12	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	_	9	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 5 iobj	color:blue
-1	Lumine	lumine	PROPN	_	_	2	nsubj	_	_
-2	pertenece	pertenecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	a	a	ADP	_	_	5	case	_	_
-4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
-5	conjunto	conjunto	NOUN	_	Gender=Masc|Number=Sing	2	iobj	_	_
-6	de	de	ADP	_	_	7	case	_	_
-7	empresas	empresa	NOUN	_	Gender=Fem|Number=Plur	5	nmod	_	_
-8	de	de	ADP	_	_	10	case	_	_
-9	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
-10	Caixa	caixa	PROPN	_	_	7	nmod	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 4 iobj	color:blue
-1	Esto	este	PRON	_	Number=Sing|PronType=Dem	2	nsubj	_	_
-2	permitió	permitir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-3	a	a	ADP	_	_	4	case	_	_
-4	Smart	smart	PROPN	_	_	2	iobj	_	_
-5	asistir	asistir	VERB	_	VerbForm=Inf	2	xcomp	_	_
-6	a	a	ADP	_	_	8	case	_	_
-7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-8	Pembroke	pembroke	PROPN	_	_	5	obl	_	_
-9	College	college	PROPN	_	_	8	flat	_	_
-10	de	de	ADP	_	_	11	case	_	_
-11	Cambridge	cambridge	PROPN	_	_	8	nmod	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	2	punct	_	_
+2	álbum	álbum	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	expl:pv	_	_
+4	podía	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	aux	_	_
+5	pedir	pedir	VERB	_	VerbForm=Inf	0	root	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	tienda	tienda	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+9	en	en	ADP	_	_	10	case	_	_
+10	línea	línea	NOUN	_	Gender=Fem|Number=Sing	8	nmod	_	_
+11	de	de	ADP	_	_	13	case	_	_
+12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	grupo	grupo	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	21	punct	_	_
+15	y	y	CCONJ	_	_	21	cc	_	_
+16	a	a	ADP	_	_	18	case	_	_
+17	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	hacer	hacer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Fin	21	advcl	_	_
+19	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	18	obj	_	_
+20	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	21	expl:pv	_	_
+21	obtenía	obtener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	conj	_	_
+22	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+23	chaleco	chaleco	NOUN	_	Gender=Masc|Number=Sing	21	nsubj	_	_
+24	diseñado	diseñar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	23	acl	_	_
+25	con	con	ADP	_	_	26	case	_	_
+26	motivo	motivo	NOUN	_	Gender=Masc|Number=Sing	24	obl	_	_
+27	de	de	ADP	_	_	29	case	_	_
+28	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
+29	lanzamiento	lanzamiento	NOUN	_	Gender=Masc|Number=Sing	26	nmod	_	SpaceAfter=No
+30	,	,	PUNCT	_	_	34	punct	_	_
+31	y	y	CCONJ	_	_	34	cc	_	_
+32	también	también	ADV	_	_	34	advmod	_	_
+33	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	34	det	_	_
+34	descarga	descarga	NOUN	_	Gender=Fem|Number=Sing	23	conj	_	_
+35	en	en	ADP	_	_	36	case	_	_
+36	formato	formato	NOUN	_	Gender=Masc|Number=Sing	40	nmod	_	_
+37	mp3	mp3	NOUN	_	_	36	appos	_	_
+38	de	de	ADP	_	_	40	case	_	_
+39	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	40	det	_	_
+40	canciones	canción	NOUN	_	Gender=Fem|Number=Plur	34	nmod	_	_
+41	"	"	PUNCT	_	_	42	punct	_	SpaceAfter=No
+42	Give	give	VERB	_	Foreign=Yes|Mood=Imp|VerbForm=Fin	40	appos	_	Lang=en
+43	'	'	PUNCT	_	_	44	punct	_	SpaceAfter=No
+44	em	they	PRON	_	Case=Acc|Foreign=Yes|Number=Plur|Person=3|PronType=Prs	42	iobj	_	Lang=en
+45	hell	hell	NOUN	_	Foreign=Yes|Number=Sing	42	obj	_	Lang=en|SpaceAfter=No
+46	,	,	PUNCT	_	_	47	punct	_	_
+47	kid	kid	NOUN	_	Foreign=Yes|Number=Sing	42	vocative	_	Lang=en|SpaceAfter=No
+48	"	"	PUNCT	_	_	42	punct	_	_
+49	y	y	CCONJ	_	_	51	cc	_	_
+50	"	"	PUNCT	_	_	51	punct	_	SpaceAfter=No
+51	Helena	helena	PROPN	_	_	42	conj	_	SpaceAfter=No
+52	"	"	PUNCT	_	_	51	punct	_	SpaceAfter=No
+53	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
 

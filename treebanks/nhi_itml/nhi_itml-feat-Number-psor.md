@@ -13,7 +13,7 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 
 400 tokens (4%) have a non-empty value of `Number[psor]`.
 127 types (5%) occur at least once with a non-empty value of `Number[psor]`.
-90 lemmas (6%) occur at least once with a non-empty value of `Number[psor]`.
+89 lemmas (6%) occur at least once with a non-empty value of `Number[psor]`.
 The feature is used with 1 part-of-speech tags: <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (400; 4% instances).
 
 ### `NOUN`

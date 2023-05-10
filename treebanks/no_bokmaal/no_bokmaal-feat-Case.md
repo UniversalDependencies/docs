@@ -17,7 +17,7 @@ The feature is used with 6 part-of-speech tags: <tt><a href="no_bokmaal-pos-PRON
 
 ### `PRON`
 
-12386 <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt> tokens (48% of all `PRON` tokens) have a non-empty value of `Case`.
+12386 <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt> tokens (55% of all `PRON` tokens) have a non-empty value of `Case`.
 
 The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="no_bokmaal-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (12381; 100%), <tt><a href="no_bokmaal-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt> (9516; 77%), <tt><a href="no_bokmaal-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (9243; 75%), <tt><a href="no_bokmaal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7221; 58%).
 
@@ -27,7 +27,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 * `Gen` (3; 0% of non-empty `Case`): <em>alles, ens</em>
 * `Gen,Nom` (2; 0% of non-empty `Case`): <em>ens</em>
 * `Nom` (9529; 77% of non-empty `Case`): <em>jeg, han, vi, de, hun, du, man, dere, Eg, mann</em>
-* `EMPTY` (13576): <em>det, som, dette, sin, den, hva, noe, sine, hans, sitt</em>
+* `EMPTY` (10259): <em>det, dette, sin, den, hva, noe, sine, hans, sitt, alt</em>
 
 <table>
   <tr><th>Paradigm <i>jeg</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
@@ -43,7 +43,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 `NOUN` tokens may have the following values of `Case`:
 
 * `Gen` (1395; 100% of non-empty `Case`): <em>verdens, dagens, landets, årets, kirkens, statens, utvalgets, års, samfunnets, barnets</em>
-* `EMPTY` (55857): <em>år, dag, prosent, gang, tid, folk, verden, land, barn, del</em>
+* `EMPTY` (55858): <em>år, dag, prosent, gang, tid, folk, verden, land, barn, del</em>
 
 `Case` seems to be **lexical feature** of `NOUN`. 100% lemmas (521) occur only with one value of `Case`.
 
@@ -69,18 +69,18 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 `DET` tokens may have the following values of `Case`:
 
 * `Gen` (47; 100% of non-empty `Case`): <em>andres, dens, dets, alles, ens, annens, hvis</em>
-* `EMPTY` (14333): <em>en, et, den, de, det, andre, alle, denne, noen, noe</em>
+* `EMPTY` (14349): <em>en, et, den, de, det, andre, alle, denne, noen, noe</em>
 
 ### `ADJ`
 
 38 <tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="no_bokmaal-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (37; 97%), <tt><a href="no_bokmaal-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (32; 84%), <tt><a href="no_bokmaal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (21; 55%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="no_bokmaal-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (33; 87%), <tt><a href="no_bokmaal-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (32; 84%), <tt><a href="no_bokmaal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (21; 55%).
 
 `ADJ` tokens may have the following values of `Case`:
 
 * `Gen` (38; 100% of non-empty `Case`): <em>domfeltes, manges, offentliges, ansattes, enkeltes, fattiges, mistenktes, rødgrønnes, sistnevntes, tiltaltes</em>
-* `EMPTY` (26771): <em>mer, mange, flere, norske, mye, første, store, nye, hele, helt</em>
+* `EMPTY` (26772): <em>mer, mange, flere, norske, mye, første, store, nye, hele, helt</em>
 
 `Case` seems to be **lexical feature** of `ADJ`. 100% lemmas (25) occur only with one value of `Case`.
 
@@ -93,13 +93,12 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 `NUM` tokens may have the following values of `Case`:
 
 * `Gen` (3; 100% of non-empty `Case`): <em>2, 2011s, 2s</em>
-* `EMPTY` (3959): <em>to, tre, fire, eneste, ett, 2, fem, ti, 20, seks</em>
+* `EMPTY` (3942): <em>to, tre, fire, eneste, ett, 2, fem, ti, 20, seks</em>
 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>PRON --[<tt><a href="no_bokmaal-dep-conj.html">conj</a></tt>]--> PRON</tt> (15; 75%),
 <tt>NOUN --[<tt><a href="no_bokmaal-dep-conj.html">conj</a></tt>]--> NOUN</tt> (12; 57%),
-<tt>PRON --[<tt><a href="no_bokmaal-dep-appos.html">appos</a></tt>]--> PRON</tt> (9; 100%),
 <tt>NOUN --[<tt><a href="no_bokmaal-dep-conj.html">conj</a></tt>]--> DET</tt> (1; 100%).
 

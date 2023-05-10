@@ -13,7 +13,7 @@ This relation is universal.
 1 instances of `goeswith` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 1 pairs of parts of speech are connected with `goeswith`: <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt>-<tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> (1; 100% instances).
+The following 1 pairs of parts of speech are connected with `goeswith`: <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt>-<tt><a href="ro_nonstandard-pos-X.html">X</a></tt> (1; 100% instances).
 
 
 ~~~ conllu
@@ -35,8 +35,8 @@ The following 1 pairs of parts of speech are connected with `goeswith`: <tt><a h
 11	15	15	NUM	M	NumForm=Digit	3	nummod	_	Ref=PART_III_CAP_3.3|SpaceAfter=No
 12	,	,	PUNCT	COMMA	_	16	punct	_	Ref=PART_III_CAP_3.3
 13	și	și	CCONJ	Ccssp	Polarity=Pos	16	cc	_	Ref=PART_III_CAP_3.3
-14	pînă	până	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	16	case	_	Ref=PART_III_CAP_3.3
-15	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	14	goeswith	_	Ref=PART_III_CAP_3.3
+14	pînă	pânăla	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes|Typo=Yes	16	case	_	CorrectForm=pînăla|Ref=PART_III_CAP_3.3
+15	la	_	X	Spsa	_	14	goeswith	_	Ref=PART_III_CAP_3.3
 16	29	29	NUM	M	NumForm=Digit	11	conj	_	Ref=PART_III_CAP_3.3
 17	și	și	CCONJ	Ccssp	Polarity=Pos	20	cc	_	Ref=PART_III_CAP_3.3
 18	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	20	case	_	Ref=PART_III_CAP_3.3

@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>Iisus</em> (<tt><a href="ro_nonstanda
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.354879 (the average of all parts of speech is 2.492163).
+The form / lemma ratio of `PROPN` is 1.354879 (the average of all parts of speech is 2.491875).
 
 The 1st highest number of forms (18) was observed with the lemma “Dumnezeu”: <em>Dumnedzeu, Dumnedzeul, Dumnedzeului, Dumnedzău, Dumnedzăul, Dumnezei, Dumnezeilor, Dumnezeu, Dumnezeule, Dumnezăi, Dumnezăii, Dumnezăul, Dumnezăule, Dumnezăului, Dumnădzeu, Dumnădzău, Dumnăzău, dumnezău</em>.
 

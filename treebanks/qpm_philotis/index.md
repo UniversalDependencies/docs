@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.10 release
 The following people have contributed to making this treebank part of UD: Ritván Karahóǧa, Vivian Stamou, Stella Markantonatou.
 
 Repository: [UD_Pomak-Philotis](https://github.com/UniversalDependencies/UD_Pomak-Philotis)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udqpm_philotis211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udqpm_philotis212)<br />
+Download all treebanks: [UD 2.12](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -79,7 +79,7 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
 
 ## Features
 
-[Abbr](qpm_philotis-feat-Abbr.html) – [AdpType](qpm_philotis-feat-AdpType.html) – [Animacy](qpm_philotis-feat-Animacy.html) – [Aspect](qpm_philotis-feat-Aspect.html) – [Case](qpm_philotis-feat-Case.html) – [Definite](qpm_philotis-feat-Definite.html) – [Degree](qpm_philotis-feat-Degree.html) – [DegreeModQpm](qpm_philotis-feat-DegreeModQpm.html) – [Deixis](qpm_philotis-feat-Deixis.html) – [DeixisRef](qpm_philotis-feat-DeixisRef.html) – [Foreign](qpm_philotis-feat-Foreign.html) – [Gender](qpm_philotis-feat-Gender.html) – [Mood](qpm_philotis-feat-Mood.html) – [Number](qpm_philotis-feat-Number.html) – [Number[psor]](qpm_philotis-feat-Number-psor.html) – [NumType](qpm_philotis-feat-NumType.html) – [PartTypeQpm](qpm_philotis-feat-PartTypeQpm.html) – [Person](qpm_philotis-feat-Person.html) – [Polarity](qpm_philotis-feat-Polarity.html) – [Poss](qpm_philotis-feat-Poss.html) – [PronType](qpm_philotis-feat-PronType.html) – [Reflex](qpm_philotis-feat-Reflex.html) – [Tense](qpm_philotis-feat-Tense.html) – [VerbForm](qpm_philotis-feat-VerbForm.html) – [Voice](qpm_philotis-feat-Voice.html)
+[Abbr](qpm_philotis-feat-Abbr.html) – [AdpType](qpm_philotis-feat-AdpType.html) – [Animacy](qpm_philotis-feat-Animacy.html) – [Aspect](qpm_philotis-feat-Aspect.html) – [Case](qpm_philotis-feat-Case.html) – [Definite](qpm_philotis-feat-Definite.html) – [Degree](qpm_philotis-feat-Degree.html) – [Deixis](qpm_philotis-feat-Deixis.html) – [DeixisRef](qpm_philotis-feat-DeixisRef.html) – [Foreign](qpm_philotis-feat-Foreign.html) – [Gender](qpm_philotis-feat-Gender.html) – [Mood](qpm_philotis-feat-Mood.html) – [Number](qpm_philotis-feat-Number.html) – [Number[psor]](qpm_philotis-feat-Number-psor.html) – [NumType](qpm_philotis-feat-NumType.html) – [PartTypeQpm](qpm_philotis-feat-PartTypeQpm.html) – [Person](qpm_philotis-feat-Person.html) – [Polarity](qpm_philotis-feat-Polarity.html) – [Poss](qpm_philotis-feat-Poss.html) – [PronType](qpm_philotis-feat-PronType.html) – [Reflex](qpm_philotis-feat-Reflex.html) – [Tense](qpm_philotis-feat-Tense.html) – [VerbForm](qpm_philotis-feat-VerbForm.html) – [Voice](qpm_philotis-feat-Voice.html)
 
 ## Relations
 
@@ -418,10 +418,34 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
 </ul>
 
 <ul>
+  <li>Aug
+    <ul>
+      <li>ADJ: kámatnišičky, nývvišičko, pýlniček</li>
+      <li>NOUN: kupníšte, kámenište, račíštana, ustǽkyne</li>
+      <li>PROPN: Sélište</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Cmp
     <ul>
       <li>ADJ: húbavo</li>
       <li>ADV: pó</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Dim
+    <ul>
+      <li>ADJ: mǿčko, zelénko, stárku, sámsamiček</li>
+      <li>ADV: bórško, usulétanka, húbefce, Usúlanka, annínkuš, mífčinko</li>
+      <li>DET: samíček, samíčko, anníčko, kólčko, samíčka</li>
+      <li>NOUN: bábičkana, kópelčeno, kótenceno, kúčenceno, kámenkane, kópelče, kutújkono, avenčóno, žábinkana, barčínkono</li>
+      <li>NUM: anníček, anníčka, trínky</li>
+      <li>PROPN: Galínka, Pepelívka, Galínki, Métka, Pepelívkana, Pepelívkoj</li>
+      <li>VERB-Part: navítky</li>
     </ul>
   </li>
 </ul>
@@ -773,31 +797,6 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
       <li>Post
         <ul>
           <li>ADP: ilén</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li><a>DegreeModQpm</a>
-    <ul>
-      <li>Dim
-        <ul>
-          <li>ADJ: mǿčko, zelénko, stárku, sámsamiček</li>
-          <li>ADV: bórško, usulétanka, húbefce, Usúlanka, annínkuš, mífčinko</li>
-          <li>DET: samíček, samíčko, anníčko, kólčko, samíčka</li>
-          <li>NOUN: bábičkana, kópelčeno, kótenceno, kúčenceno, kámenkane, kópelče, kutújkono, avenčóno, žábinkana, barčínkono</li>
-          <li>NUM: anníček, anníčka, trínky</li>
-          <li>PROPN: Galínka, Pepelívka, Galínki, Métka, Pepelívkana, Pepelívkoj</li>
-          <li>VERB-Part: navítky</li>
-        </ul>
-      </li>
-      <li>Mag
-        <ul>
-          <li>ADJ: kámatnišičky, nývvišičko, pýlniček</li>
-          <li>NOUN: kupníšte, kámenište, račíštana, ustǽkyne</li>
-          <li>PROPN: Sélište</li>
         </ul>
       </li>
     </ul>

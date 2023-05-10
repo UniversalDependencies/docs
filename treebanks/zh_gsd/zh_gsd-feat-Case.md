@@ -30,5 +30,5 @@ The feature is used with 2 part-of-speech tags: <tt><a href="zh_gsd-pos-PART.htm
 `ADP` tokens may have the following values of `Case`:
 
 * `Gen` (1; 100% of non-empty `Case`): 之外
-* `EMPTY` (5620): 在、 於、 中、 與、 後、 時、 上、 對、 因、 從
+* `EMPTY` (5628): 在、 於、 中、 與、 後、 時、 上、 對、 因、 從
 

@@ -70,7 +70,7 @@ The 10 most frequent ambiguous types:  <em>ne</em> (<tt><a href="wo_wtb-pos-SCON
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.250208).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.250260).
 
 The 1st highest number of forms (2) was observed with the lemma “bala”: <em>bala, balaa</em>.
 

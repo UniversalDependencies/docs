@@ -25,7 +25,7 @@ The following 2 pairs of parts of speech are connected with `advmod:mmod`: <tt><
 # visual-style 3 2 advmod:mmod	color:blue
 1	Партизантнэ	партизан	NOUN	N	Case=Nom|Definite=Def|Number=Plur	3	nsubj	_	GTtags=Pl,Nom,Def
 2	пштистэ	пштистэ	ADV	Adv	AdvType=Man|Case=Ela	3	advmod:mmod	_	GTtags=Manner,Ela
-3	кулсоность	кунсоломс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|Valency=2	0	root	_	GTtags=TV,Ind,Prt1,ScPl3
+3	кулсоность	кунсоломс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past	0	root	_	GTtags=TV,Ind,Prt1,ScPl3
 4	Маскинэнь	Маскинэнь	PROPN	PROPN	Case=Gen|Definite=Ind|NameType=Sur|Number=Plur,Sing	3	obj	_	GTtags=SP,Gen,Indef|SpaceAfter=No
 5	.	.	PUNCT	CLB	_	3	punct	_	_
 

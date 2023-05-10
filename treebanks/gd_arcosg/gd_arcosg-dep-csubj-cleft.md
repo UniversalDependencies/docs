@@ -61,8 +61,8 @@ The following 14 pairs of parts of speech are connected with `csubj:cleft`: <tt>
 # visual-style 3 6 csubj:cleft	color:blue
 1	an	is	AUX	Wpdqa	Mood=Int|Polarity=Aff|Tense=Pres	3	cop	_	_
 2	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3	1	fixed	_	_
-3	[Name]	[Name]	PROPN	Nn	_	0	root	_	_
-4	[Name]	[Name]	PROPN	Nn	_	3	flat:name	_	_
+3	[Name]	[Name]	PROPN	Nn	_	0	root	_	Anonymised=Yes
+4	[Name]	[Name]	PROPN	Nn	_	3	flat:name	_	Anonymised=Yes
 5	a	a	PART	Q-r	PartType=Vb|PronType=Rel	6	nsubj	_	_
 6	th’	bi	VERB	V-p	Tense=Pres	3	csubj:cleft	_	_
 7	aig	aig	ADP	Sp	_	8	case	_	_

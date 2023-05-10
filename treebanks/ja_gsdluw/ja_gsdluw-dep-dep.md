@@ -36,7 +36,7 @@ The following 14 pairs of parts of speech are connected with `dep`: <tt><a href=
 12	と	と	ADP	助詞-格助詞	_	10	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,と,と,と,ト,,,ト,ト,と
 13	説明し	説明する	VERB	動詞-一般-サ行変格	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|SpaceAfter=No|UnidicInfo=;,説明;為る,説明;し,説明;する,セツメー;シ,;,;,セツメイ;スル,セツメイスル,説明する
 14	ている	ている	AUX	助動詞-上一段-ア行	_	13	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=;,て;居る,て;いる,て;いる,テ;イル,;,;,テ;イル,テイル,ている
-15	。	。	PUNCT	補助記号-句点	_	13	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=Yes|UnidicInfo=,。,。,。,,,,,,。
+15	。	。	PUNCT	補助記号-句点	_	13	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|UnidicInfo=,。,。,。,,,,,,。
 
 ~~~
 
@@ -54,7 +54,7 @@ The following 14 pairs of parts of speech are connected with `dep`: <tt><a href=
 5	美容室	美容室	NOUN	名詞-普通名詞-一般	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|SpaceAfter=No|UnidicInfo=;,美容;室,美容;室,美容;室,ビヨー;シツ,;,;,ビヨウ;シツ,ビヨウシツ,美容室
 6	でし	です	AUX	助動詞-助動詞-デス	_	5	cop	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|PrevUDLemma=だ|SpaceAfter=No|UnidicInfo=,です,でし,です,デシ,,,デス,デス,です
 7	た	た	AUX	助動詞-助動詞-タ	_	5	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|SpaceAfter=No|UnidicInfo=,た,た,た,タ,,,タ,タ,た
-8	っ	っ	SYM	補助記号-一般	_	5	dep	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=Yes|UnidicInfo=,っ,っ,っ,,,,,,っ
+8	っ	っ	SYM	補助記号-一般	_	5	dep	_	BunsetuBILabel=I|BunsetuPositionType=CONT|UnidicInfo=,っ,っ,っ,,,,,,っ
 
 ~~~
 
@@ -84,7 +84,7 @@ The following 14 pairs of parts of speech are connected with `dep`: <tt><a href=
 17	てくれ	てくれる	AUX	助動詞-下一段-ラ行	_	16	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=;,て;呉れる,て;くれ,て;くれる,テ;クレ,;,;,テ;クレル,テクレル,てくれる
 18	よぉ	よ	PART	助詞-終助詞	_	16	mark	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|SpaceAfter=No|UnidicInfo=,よ,よぉ,よぉ,ヨー,,,ヨウ,ヨ,よ
 19	~	~	SYM	補助記号-一般	_	16	dep	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=No|UnidicInfo=,‾,~,~,,,,,,‾
-20	。	。	PUNCT	補助記号-句点	_	16	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=Yes|UnidicInfo=,。,。,。,,,,,,。
+20	。	。	PUNCT	補助記号-句点	_	16	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|UnidicInfo=,。,。,。,,,,,,。
 
 ~~~
 

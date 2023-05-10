@@ -6,70 +6,82 @@ udver: '2'
 
 ## Treebank Statistics: UD_Old_East_Slavic-Ruthenian: POS Tags: `CCONJ`
 
-There are 1 `CCONJ` lemmas (7%), 13 `CCONJ` types (1%) and 293 `CCONJ` tokens (10%).
-Out of 15 observed tags, the rank of `CCONJ` is: 5 in number of lemmas, 11 in number of types and 5 in number of tokens.
+There are 19 `CCONJ` lemmas (1%), 28 `CCONJ` types (1%) and 1002 `CCONJ` tokens (10%).
+Out of 16 observed tags, the rank of `CCONJ` is: 12 in number of lemmas, 13 in number of types and 4 in number of tokens.
 
-The 10 most frequent `CCONJ` lemmas: <em>_</em>
+The 10 most frequent `CCONJ` lemmas: <em>и, а, также, или, ино, да, ни, ани, або, але</em>
 
-The 10 most frequent `CCONJ` types:  <em>и, а, ани, або, але, албо, такъ, альбо, тежъ, ни</em>
+The 10 most frequent `CCONJ` types:  <em>и, а, или, ино, да, ни, ани, або, але, любо</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> 660, <tt><a href="orv_ruthenian-pos-PUNCT.html">PUNCT</a></tt> 437, <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> 335, <tt><a href="orv_ruthenian-pos-ADP.html">ADP</a></tt> 307, <tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> 293, <tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt> 271, <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> 225, <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> 145, <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> 120, <tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> 114, <tt><a href="orv_ruthenian-pos-SCONJ.html">SCONJ</a></tt> 76, <tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> 59, <tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> 18, <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> 8, <tt><a href="orv_ruthenian-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>и</em> (<tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> 504, <tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> 16, <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> 2), <em>также</em> (<tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> 35, <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> 10), <em>ино</em> (<tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> 28, <tt><a href="orv_ruthenian-pos-SCONJ.html">SCONJ</a></tt> 9), <em>да</em> (<tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> 21, <tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> 1), <em>ни</em> (<tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> 21, <tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> 6), <em>або</em> (<tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> 16, <tt><a href="orv_ruthenian-pos-SCONJ.html">SCONJ</a></tt> 1), <em>любо</em> (<tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> 12, <tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> 2), <em>такъ</em> (<tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> 20, <tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="orv_ruthenian-pos-SCONJ.html">SCONJ</a></tt> 1), <em>аже</em> (<tt><a href="orv_ruthenian-pos-SCONJ.html">SCONJ</a></tt> 16, <tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> 1, <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> 1), <em>тежъ</em> (<tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> 3, <tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> 2)
 
-The 10 most frequent ambiguous types:  <em>и</em> (<tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> 160, <tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> 11), <em>або</em> (<tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> 16, <tt><a href="orv_ruthenian-pos-SCONJ.html">SCONJ</a></tt> 1), <em>такъ</em> (<tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> 10, <tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="orv_ruthenian-pos-SCONJ.html">SCONJ</a></tt> 1), <em>тежъ</em> (<tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> 2), <em>ни</em> (<tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> 1), <em>одно</em> (<tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> 1), <em>только</em> (<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> 3, <tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="orv_ruthenian-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>и</em> (<tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> 462, <tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> 16), <em>ино</em> (<tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> 23, <tt><a href="orv_ruthenian-pos-SCONJ.html">SCONJ</a></tt> 9), <em>да</em> (<tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> 21, <tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> 1), <em>ни</em> (<tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> 21, <tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> 6), <em>або</em> (<tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> 16, <tt><a href="orv_ruthenian-pos-SCONJ.html">SCONJ</a></tt> 1), <em>любо</em> (<tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> 12, <tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> 2), <em>также</em> (<tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> 3, <tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> 1), <em>Також</em> (<tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> 3), <em>такъ</em> (<tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> 17, <tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="orv_ruthenian-pos-SCONJ.html">SCONJ</a></tt> 1), <em>Аже</em> (<tt><a href="orv_ruthenian-pos-SCONJ.html">SCONJ</a></tt> 6, <tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> 2)
 
 
 * <em>и</em>
-  * <tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> 160: <em>О судьях <b>и</b> о судех .</em>
-  * <tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> 11: <em>Але вже мало бы <b>и</b> на томъ было , ижъбы чоловекъ з неволи от посторонного неприятеля былъ воленъ , кгды бы домового неприятеля надъ собою терьпети муселъ .</em>
+  * <tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> 462: <em>О судьях <b>и</b> о судех .</em>
+  * <tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> 16: <em>А воли есми Б(о)жии <b>и</b> въ Молшелгове .</em>
+* <em>ино</em>
+  * <tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> 23: <em>А за которыи весъ неправо будеть , <b>ино</b> ѡтслати оу Ригу правити по старому закону .</em>
+  * <tt><a href="orv_ruthenian-pos-SCONJ.html">SCONJ</a></tt> 9: <em>[…]цка посла[т(и)] , <b>ино</b> его тамъ полоча[н(е)] ѡсудѧ[т(ь)] по своему праву .</em>
+* <em>да</em>
+  * <tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> 21: <em>А велели ѥсмо продати белъку тую Проньку <b>да</b> Кольцу .</em>
+  * <tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> 1: <em>А по моемъ животе , которыи кн(ѧ)зь иметь ѡтнимати , судить ему С(вѧ)та Тр(ои)ца , <b>да</b> будет[ъ] проклѧтъ .</em>
+* <em>ни</em>
+  * <tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> 21: <em>А рубежѧ не чити промежи себе на ѡбѣ сторонѣ <b>ни</b> нѣмцем , а ни полочѧном .</em>
+  * <tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> 6: <em>А рубежѧ не чити промежи себе на ѡбѣ сторонѣ ни нѣмцем , а <b>ни</b> полочѧном .</em>
 * <em>або</em>
   * <tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> 16: <em>И тот листъ маеть быти везде в томъ повете обволанъ и объголошонъ тымъ обычаемъ , яко и о иншихъ листехъ наших соймовыхъ <b>або</b> военъных естъ вышей описано в розделе третемъ .</em>
   * <tt><a href="orv_ruthenian-pos-SCONJ.html">SCONJ</a></tt> 1: <em>Которіе отъ насъ выбраные и потверженые на першыхъ рокохъ судовыхъ передъ повѣтовымъ воеводою , <b>або</b> въ небытности воеводиной передъ кашталяны , а въ земли Жомоитской передъ старостою Жомоитскимъ , при зобранью шляхты , што ихъ тамъ въ томъ часѣ будеть , маеть судья подсудокъ и писаръ присегнути тыми словы :</em>
+* <em>любо</em>
+  * <tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> 12: <em>Чинимъ славно и знаемо и даемъ ведомо оусем , хто коли сюю грамоту видить а <b>любо</b> слышить прочитаѧ .</em>
+  * <tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> 2: <em>А то мы какъ оу Пол(о)цкꙋ , a рижанѣ оу Ризѣ , оучиним и поставим , а <b>любо</b> как мы можем мѣжи себѣ оуровнати .</em>
+* <em>также</em>
+  * <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> 3: <em>А нам , полочаном , вашег(о) немцин(а) <b>также</b> по тому ж стереч(и) оу Полотьсце .</em>
+  * <tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> 1: <em>Местерь , <b>также</b> брат(ь)ѧ его ѡтступили , што словет(ь) Полочьскаѧ землѧ , со всею правдою .</em>
+* <em>Також</em>
+  * <tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> 6: <em><b>Також</b> полочаном и видиблѧнину волно гостити в Ригу и на Готьскы берегъ .</em>
+  * <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> 3: <em><b>Також</b> и мы ему даемъ и дали есмы тотъ городъ Полтескъ .</em>
 * <em>такъ</em>
-  * <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> 10: <em>И <b>такъ</b> мають вжо вѣчными часы въ повѣтехъ около выбранья тыхъ врядниковъ справоватися и заховати .</em>
+  * <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> 17: <em>А мы <b>такъ</b> і держимъ крепъко , доколе ізыідеть .</em>
   * <tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> 3: <em>И то ест наша волност[ь] , которою се мы межи иншыми народы хрестиянскими хвалимъ , же пана , ижбы водле воли своее , а не водле правъ наших пановал , над собою не маем , а яко славы учстивое , <b>такъ</b> живота и маетности волно уживаем .</em>
   * <tt><a href="orv_ruthenian-pos-SCONJ.html">SCONJ</a></tt> 1: <em>А книгъ первъшихъ , кгды хто выписовъ альбо видимусов якихъ потребовати будеть , тежъ ихъ справедливе и верне , яко в книгахъ записано будеть , з ведомостью суд[ь]и и подсудъка выдавати буду , не маючи баченья на высокие и подлые станы , на достойностяхъ седячихъ , богатого , на въбогого , на приятеля кровного и заховалого , ани на неприятеля , на тутошнего , ани на гостя , не с приязни , не з вазни , не з боязни , не за посулы и дары , ани боячисе казни , помъсты и погрозокъ , не ждучи нагороженья , але самого бога и его светую справедливость и право посполитое передъ очима маючи и сумненье свое добре , побожне справуючи - <b>такъ</b> ми , боже , поможы .</em>
-* <em>тежъ</em>
-  * <tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> 2: <em>Я присегаю Пану Богу во Троицы единому , ижъ въ томъ повѣтѣ водлѣ Бога справедливе подле права и статуту сего писаного Великого Князства Литовского , водлугъ жалобы и отпору , ничого не прикладаючи ани уймуючи , буду сознавати и записы пріимовати , не фолкгуючи высокимъ и подлымъ станомъ на достойностяхъ и на врядехъ седячимъ , на богатого ани на вбогого , на пріятеля кровного заховалого , ани на непріятеля , на тутошнего , не на гостя не смотречи , не съ пріязни не зъ вазни не зъ боязни не за посулы и дары , ани сподеваючися на потомъ дарованья и якого нагороженья , и не радечи сторонѣ , а ни боячися казни помсты и погрозокъ , але самого Бога и его светую справедливость и право посполитое и сумнѣнье свое передъ , очима маючи , <b>тежъ</b> роковъ николи не омѣшкиваючи , кромъ великое правдивое и зложное хоробы ; а якъ то справедливе присегаю Богу , такъ ми Боже помози ; а естли несправедливе , — Боже ми не поможы .</em>
-  * <tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> 2: <em>А за таким даньем знать маемъ мы , г[о]с[по]д[а]ръ , через листъ нашъ безъ жадное проволоки , а в небытности нашой маеть воевода або кашталянъ через листы свои старосте поветовому , врядникомъ земъскимъ и шляхте того повету , а староста жомоитъский або <b>тежъ</b> кашталянъ - тивуномъ , шляхте и всякого стану оное земли Жомоитъское обывателемъ также через листъ свой часъ ку зъехан[ь]ю зложити , приславшы такий листъ в тотъ поветъ до вряду кгродского передъ часом , на то зложонымъ , за чотыри недели .</em>
-* <em>ни</em>
-  * <tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> 1: <em>Я присегаю Пану Богу во Троицы единому , ижъ въ томъ повѣтѣ водлѣ Бога справедливе подле права и статуту сего писаного Великого Князства Литовского , водлугъ жалобы и отпору , ничого не прикладаючи ани уймуючи , буду сознавати и записы пріимовати , не фолкгуючи высокимъ и подлымъ станомъ на достойностяхъ и на врядехъ седячимъ , на богатого ани на вбогого , на пріятеля кровного заховалого , ани на непріятеля , на тутошнего , не на гостя не смотречи , не съ пріязни не зъ вазни не зъ боязни не за посулы и дары , ани сподеваючися на потомъ дарованья и якого нагороженья , и не радечи сторонѣ , а <b>ни</b> боячися казни помсты и погрозокъ , але самого Бога и его светую справедливость и право посполитое и сумнѣнье свое передъ , очима маючи , тежъ роковъ николи не омѣшкиваючи , кромъ великое правдивое и зложное хоробы ; а якъ то справедливе присегаю Богу , такъ ми Боже помози ; а естли несправедливе , — Боже ми не поможы .</em>
-  * <tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> 1: <em>Я , N , присегаю Пану Богу въ Троицы единому на томъ , ижъ справедливе водлѣ Бога и того права писаного и подлугъ мовенья и споровъ сторонъ , ничего не прикладаючы ани уймуючы , у суду записовати и радити судьи и подсудку вѣрнѣ и справедливе , подлѣ сознанья сторонъ и споровъ на судехъ и освѣдченья и оповѣданья судового и сказанья судового , и въ книги судовые вписовати буду а пилновати и догледовати , абы подлѣ сее присеги моее справедливе были вписованы , не маючы баченья на высокіе а <b>ни</b> подлые станы на достойностяхъ седячыхъ , на богатого , ани на вбогого на пріятеля кровного заховалого , ани на непріятеля , на тутошнего , ани на гостя , не съ пріязни не зъ вазни не за посулы и дары , а не боечыся вазни и помсты и погрозокъ , не ждучы нагороженья , але самого Бога и его светую справедливость и право посполитое передъ очима маючы , и сумнѣнье свое добрѣ а побожнѣ справуючы , такъ ми Боже поможы .</em>
-* <em>одно</em>
-  * <tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> 1: <em>А естли жъ чоловеку почъстивому ничого нетъ мильшого надъ тое , кгды , во отчызне своей безп[е]чне мешкаючы , не боитсе , абы его хто на доброй славе его змазати албо на теле и на здоров[ъ]ю его образити албо теж на власно[й] маетности его укрывдити могъ , тогды то ничому инъшому , <b>одно</b> праву причитати мает , за которым од кождого в покою седить , а жадного усилства , обелжен[ь] я и укривжен[ь] я на собе не поносить , бо тот цель и скутокъ усих правъ естъ и мает быти на свете , абы кождый добрую славу свою , здоровъе и маетност[ь] в целости мелъ , а на том всем жадного ущирбку не терпел .</em>
-  * <tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> 1: <em>И слушне за правду маемъ , за што пану богу дяковати , же под панованьемъ королей ихъ м[и]л[о]сти и великихъ князей , пановъ наших , тую владзу и вольность у рукахъ своихъ маемъ , а права сами собе творачы , яко найбольшей можем , волности своее во всем постерегаем , бо не толко сусед а сполный нашъ обывател[ь] в отчизне , але и сам г[о]с[по]д[а]ръ , пан нашъ , жадное звирхности над нами заживати не может , <b>одно</b> толко , колко ему право допущает .</em>
-* <em>только</em>
-  * <tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> 3: <em>Обачывали то усихъ вековъ люди мудрые , же в кождой речы посполитой чоловеку почъстивому ничого не маеть быти дорожшого надъ вольность , а неволею такъ се маеть гыдити , же не <b>только</b> скарбами , але и смертью ее одъ себе отганяти есть повиненъ .</em>
-  * <tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> 1: <em>На первей маемъ мы Господаръ часъ певный зложити и то листы нашими по всихъ таковыхъ повѣтехъ ознаймити , гдѣ въ кождомъ повѣтѣ княжата панове рада наша , также рицерство и шляхта вси , хто кольвекъ якого стану будетъ тамъ имѣнья свои мѣти , зъѣхатися мають до двора , которій на посродку того повѣту будетъ , и тые которые ся зъѣдутъ не ждучи никого , хтобы въ повѣтѣ имѣнье маючи пріѣхати не хотѣлъ , ку тому року мають выбрати зо всее шляхты того повѣту братьи своее на кождый врядъ таковый , на судейство чотырохъ людей добрихъ , на подсудство другихъ чотырохъ , на писарство третихъ чотырохъ людей добрыхъ , цнотливыхъ , ростропныхъ въ правѣ у мѣстныхъ , роду шляхецского , въ томъ повѣтѣ добрѣ оселыхъ , не иное вѣры <b>только</b> Хрестіянское ; и выбравшы ихъ , тыхъ выбраныхъ черезъ листы свои намъ Господарю ознаймити мають , а мы съ тыхъ всихъ дванадцати особъ выберемъ трехъ до того повѣту на врядъ земскій , на судъ судою и подсудка и писара .</em>
-  * <tt><a href="orv_ruthenian-pos-SCONJ.html">SCONJ</a></tt> 1: <em>А гдѣ бы на судство подъсудъка або писара , або по зештью подсудъка на подсудъство писара обрали , тогды ку подъсудку або писару вжо инших елеитовъ [!] не потреба будет прикладати , <b>только</b> на местъце подсудково або писарово мают тамъ же заразомъ на ономъ зъезде таковыхъ же , яко вышей описано , особъ чотырохъ обрати и намъ имена их на писме за печатьми своими подати , а мы промежку нихъ одного которого тымъ же обычаемъ , яко верху доложоно , на такий врядъ подадимъ и ствердимъ .</em>
+* <em>Аже</em>
+  * <tt><a href="orv_ruthenian-pos-SCONJ.html">SCONJ</a></tt> 6: <em><b>Аже</b> будеть рижанинъ чимь виноватъ пол[оч]анину , вы даите имъ исправу такоже .</em>
+  * <tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> 2: <em><b>Аже</b> полочанин извинитьс(ѧ) оу Ризе , ино его послати оу Польтескь и тамо его свои и казнѧть по своеи правде .</em>
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 13.000000 (the average of all parts of speech is 75.933333).
+The form / lemma ratio of `CCONJ` is 1.473684 (the average of all parts of speech is 2.137657).
 
-The 1st highest number of forms (13) was observed with the lemma “_”: <em>а, або, албо, але, альбо, ани, и, ни, одно, такъ, тежъ, тожъ, только</em>.
+The 1st highest number of forms (7) was observed with the lemma “также”: <em>Такжь, Також, Такоже, Такожь, также, такжѣ, такьже</em>.
 
-`CCONJ` occurs with 1 features: <tt><a href="orv_ruthenian-feat-Polarity.html">Polarity</a></tt> (21; 7% instances)
+The 2nd highest number of forms (2) was observed with the lemma “а”: <em>a, а</em>.
+
+The 3rd highest number of forms (2) was observed with the lemma “альбо”: <em>албо, альбо</em>.
+
+`CCONJ` occurs with 1 features: <tt><a href="orv_ruthenian-feat-Polarity.html">Polarity</a></tt> (41; 4% instances)
 
 `CCONJ` occurs with 1 feature-value pairs: `Polarity=Neg`
 
 `CCONJ` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (272 tokens).
-Examples: <em>и, а, або, але, албо, такъ, альбо, тежъ, одно, тожъ</em>
+The most frequent feature combination is `_` (961 tokens).
+Examples: <em>и, а, или, ино, да, або, але, любо, і, также</em>
 
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 1 different relations: <tt><a href="orv_ruthenian-dep-cc.html">cc</a></tt> (293; 100% instances)
+`CCONJ` nodes are attached to their parents using 6 different relations: <tt><a href="orv_ruthenian-dep-cc.html">cc</a></tt> (962; 96% instances), <tt><a href="orv_ruthenian-dep-advmod.html">advmod</a></tt> (27; 3% instances), <tt><a href="orv_ruthenian-dep-mark.html">mark</a></tt> (8; 1% instances), <tt><a href="orv_ruthenian-dep-discourse.html">discourse</a></tt> (3; 0% instances), <tt><a href="orv_ruthenian-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-dep-obj.html">obj</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 5 different parts of speech: <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (145; 49% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (115; 39% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> (25; 9% instances), <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> (7; 2% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 9 different parts of speech: <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (433; 43% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (422; 42% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (46; 5% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> (43; 4% instances), <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> (19; 2% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (17; 2% instances), <tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (10; 1% instances), <tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt> (9; 1% instances), <tt><a href="orv_ruthenian-pos-ADP.html">ADP</a></tt> (3; 0% instances)
 
-291 (99%) `CCONJ` nodes are leaves.
+995 (99%) `CCONJ` nodes are leaves.
 
-2 (1%) `CCONJ` nodes have one child.
+7 (1%) `CCONJ` nodes have one child.
 
 The highest child degree of a `CCONJ` node is 1.
 
-Children of `CCONJ` nodes are attached using 1 different relations: <tt><a href="orv_ruthenian-dep-fixed.html">fixed</a></tt> (2; 100% instances)
+Children of `CCONJ` nodes are attached using 2 different relations: <tt><a href="orv_ruthenian-dep-fixed.html">fixed</a></tt> (5; 71% instances), <tt><a href="orv_ruthenian-dep-conj.html">conj</a></tt> (2; 29% instances)
 
-Children of `CCONJ` nodes belong to 1 different parts of speech: <tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (2; 100% instances)
+Children of `CCONJ` nodes belong to 3 different parts of speech: <tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (5; 71% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (1; 14% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (1; 14% instances)
 

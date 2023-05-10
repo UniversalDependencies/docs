@@ -8,35 +8,24 @@ udver: '2'
 
 This relation is universal.
 
-2800 nodes (0%) are attached to their parents as `compound`.
+442 nodes (0%) are attached to their parents as `compound`.
 
-2093 instances of `compound` (75%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.98214285714286.
+339 instances of `compound` (77%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.99321266968326.
 
-The following 1 pairs of parts of speech are connected with `compound`: <tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt> (2800; 100% instances).
+The following 1 pairs of parts of speech are connected with `compound`: <tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt> (442; 100% instances).
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 10 compound	color:blue
-1	Prodej	prodej	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	6	nsubj:pass	6:nsubj:pass	LGloss=(akt_prodeje_zboží)
-2	či	či	CCONJ	J^-------------	_	3	cc	3:cc	_
-3	pronájem	pronájem	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	1	conj	1:conj|6:nsubj:pass	_
-4	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	6	expl:pass	6:expl:pass	LGloss=(zvr._zájmeno/částice)
-5	tedy	tedy	ADV	Db-------------	_	6	advmod	6:advmod	_
-6	uskuteční	uskutečnit	VERB	VB-S---3P-AA---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
-7	dejme	dát	VERB	Vi-P---1--A----	Mood=Imp|Number=Plur|Person=1|Polarity=Pos|VerbForm=Fin	6	dep	6:dep	_
-8	tomu	ten	DET	PDZS3----------	Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Dem	7	obl:arg	7:obl:arg:dat	_
-9	k	k	ADP	RR--3----------	AdpType=Prep|Case=Dat	12	case	12:case	LId=k-1
-10	1	1	NUM	C=-------------	NumForm=Digit|NumType=Card	12	compound	12:compound	SpaceAfter=No
-11	.	.	PUNCT	Z:-------------	_	10	punct	10:punct	_
-12	3	3	NUM	C=-------------	NumForm=Digit|NumType=Card	6	obl	6:obl:k:dat	SpaceAfter=No
-13	.	.	PUNCT	Z:-------------	_	12	punct	12:punct	_
-14	1994	1994	NUM	C=-------------	NumForm=Digit|NumType=Card	12	compound	12:compound	SpaceAfter=No
-15	.	.	PUNCT	Z:-------------	_	6	punct	6:punct	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 compound	color:blue
+1	*	*	PUNCT	Z:-------------	_	2	punct	2:punct	_
+2	Popílek	popílek	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	0	root	0:root	Bridge=cmpr9410049c52<cmpr9410049c51:subset|Entity=(cmpr9410049c51--1)|Functor=0:ACT
+3	13123	13123	NUM	C=-------------	NumForm=Digit|NumType=Card	2	dep	2:dep	Functor=2:PAT
+4	504	504	NUM	C=-------------	NumForm=Digit|NumType=Card	3	compound	3:compound	Functor=3:PAT
 
 ~~~
 

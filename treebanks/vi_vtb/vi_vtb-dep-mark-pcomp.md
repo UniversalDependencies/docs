@@ -8,53 +8,61 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="vi_vtb-dep-mark.html">mark</a></tt>.
 
-158 nodes (0%) are attached to their parents as `mark:pcomp`.
+221 nodes (0%) are attached to their parents as `mark:pcomp`.
 
-157 instances of `mark:pcomp` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.34177215189873.
+220 instances of `mark:pcomp` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.33484162895928.
 
-The following 6 pairs of parts of speech are connected with `mark:pcomp`: <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-ADP.html">ADP</a></tt> (141; 89% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-ADP.html">ADP</a></tt> (10; 6% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (4; 3% instances), <tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt>-<tt><a href="vi_vtb-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (1; 1% instances).
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 mark:pcomp	color:blue
-1	Nhưng	nhưng	SCONJ	SC	_	2	mark	_	_
-2	bắn	bắn	VERB	V	_	0	root	_	_
-3	tin	tin	NOUN	N	_	2	obj	_	_
-4	qua	qua	ADP	Pre	_	5	case	_	_
-5	ai	ai	PRON	Pro	_	2	obl:comp	_	_
-6	để	để	ADP	Pre	_	7	mark:pcomp	_	_
-7	có	có	VERB	V	_	2	advcl:objective	_	_
-8	hiệu quả	hiệu quả	NOUN	N	_	7	obj	_	_
-9	và	và	CCONJ	CC	_	10	cc	_	_
-10	hợp lý	hợp lý	ADJ	Adj	_	7	conj	_	_
-11	?	?	PUNCT	?	_	2	punct	_	_
-
-~~~
+The following 6 pairs of parts of speech are connected with `mark:pcomp`: <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-ADP.html">ADP</a></tt> (206; 93% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-ADP.html">ADP</a></tt> (8; 4% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (4; 2% instances), <tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt>-<tt><a href="vi_vtb-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 8 mark:pcomp	color:blue
-1	Cô	cô	NOUN	N	_	2	nsubj	_	_
-2	chỉ	chỉ	VERB	V	_	0	root	_	_
-3	cho	cho	ADP	Pre	_	4	case	_	_
-4	tôi	tôi	PRON	Pro	_	2	obl:iobj	_	_
-5	biết	biết	VERB	V	_	4	acl:subj	_	_
-6	làm	làm	VERB	V	_	5	xcomp	_	_
-7	thế nào	thế nào	PRON	Pro	_	6	obl	_	_
-8	để	để	ADP	Pre	_	10	mark:pcomp	_	_
-9	được	được	AUX	AUX	_	10	aux:pass	_	_
-10	yên ổn	yên ổn	ADJ	Adj	_	6	advcl:objective	_	_
-11	?	?	PUNCT	?	_	6	punct	_	_
-12	.	.	PUNCT	.	_	2	punct	_	_
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 8 mark:pcomp	color:blue
+1	Hồi	hồi	NOUN	N	_	6	obl:tmod	_	_
+2	đó	đó	PRON	PRO	_	1	det:pmod	_	_
+3	,	,	PUNCT	PUNCT	_	6	punct	_	_
+4	tôi	tôi	PRON	PRO	_	6	nsubj	_	_
+5	chỉ	chỉ	ADV	ADV	_	6	advmod	_	_
+6	học	học	VERB	V	_	0	root	_	_
+7	đủ	đủ	ADJ	ADJ	_	6	xcomp	_	_
+8	để	để	ADP	PRE	_	11	mark:pcomp	_	_
+9	thi	thi	VERB	V	_	11	csubj:vsubj	_	_
+10	không	không	ADV	ADV	_	11	advmod:neg	_	_
+11	rớt	rớt	VERB	V	_	6	advcl:objective	_	_
+12	.	.	PUNCT	PUNCT	_	6	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 mark:pcomp	color:blue
+1	Để	để	ADP	Pre	_	2	mark:pcomp	_	_
+2	chắc chắn	chắc chắn	ADJ	Adj	_	9	advcl:objective	_	_
+3	Thư	Thư	PROPN	NNP	_	5	nsubj	_	_
+4	sẽ	sẽ	ADV	Adv	_	5	advmod	_	_
+5	đến	đến	VERB	V	_	2	ccomp	_	_
+6	,	,	PUNCT	,	_	2	punct	_	_
+7	anh	anh	NOUN	N	_	9	nsubj	_	_
+8	phải	phải	AUX	AUX	_	9	aux	_	_
+9	thông báo	thông báo	VERB	V	_	0	root	_	_
+10	có	có	VERB	V	_	9	xcomp	_	_
+11	nghi vấn	nghi vấn	NOUN	N	_	10	obj	_	_
+12	chồng	chồng	NOUN	N	_	14	nsubj	_	_
+13	Thư	Thư	PROPN	NNP	_	12	nmod	_	_
+14	gặp	gặp	VERB	V	_	11	ccomp	_	_
+15	Liên	Liên	PROPN	NNP	_	14	obj	_	_
+16	trước	trước	ADP	Pre	_	17	case	_	_
+17	ngày	ngày	NOUN	N	_	14	obl:tmod	_	_
+18	đoạn tuyệt	đoạn tuyệt	VERB	V	_	17	compound:vmod	_	_
+19	.	.	PUNCT	.	_	9	punct	_	_
 
 ~~~
 

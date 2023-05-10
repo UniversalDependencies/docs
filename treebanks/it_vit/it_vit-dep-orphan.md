@@ -11,9 +11,9 @@ This relation is universal.
 6 nodes (0%) are attached to their parents as `orphan`.
 
 6 instances of `orphan` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.66666666666667.
+Average distance between parent and child is 4.16666666666667.
 
-The following 6 pairs of parts of speech are connected with `orphan`: <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_vit-pos-INTJ.html">INTJ</a></tt> (1; 17% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-ADV.html">ADV</a></tt> (1; 17% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (1; 17% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt>-<tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (1; 17% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt>-<tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (1; 17% instances), <tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (1; 17% instances).
+The following 6 pairs of parts of speech are connected with `orphan`: <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_vit-pos-INTJ.html">INTJ</a></tt> (1; 17% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-ADV.html">ADV</a></tt> (1; 17% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-SYM.html">SYM</a></tt> (1; 17% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt>-<tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (1; 17% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt>-<tt><a href="it_vit-pos-SYM.html">SYM</a></tt> (1; 17% instances), <tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_vit-pos-SYM.html">SYM</a></tt> (1; 17% instances).
 
 
 ~~~ conllu
@@ -78,11 +78,11 @@ The following 6 pairs of parts of speech are connected with `orphan`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 20	bgColor:blue
-# visual-style 20	fgColor:white
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 17 20 orphan	color:blue
+# visual-style 22	bgColor:blue
+# visual-style 22	fgColor:white
+# visual-style 18	bgColor:blue
+# visual-style 18	fgColor:white
+# visual-style 18 22 orphan	color:blue
 1	In	in	ADP	E	_	2	case	_	_
 2	Europa	Europa	PROPN	SP	_	8	nmod	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	8	punct	_	_
@@ -91,30 +91,33 @@ The following 6 pairs of parts of speech are connected with `orphan`: <tt><a hre
 6	film	film	NOUN	S	Gender=Masc	8	nmod	_	_
 7	Usa	Usa	PROPN	SP	_	6	nmod	_	_
 8	spetta	spettare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
-10	74%	74%	NUM	N	NumType=Card	8	nsubj	_	_
-11	di	di	ADP	E	_	13	case	_	_
-12	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
-13	incassi	incasso	NOUN	S	Gender=Masc|Number=Plur	10	nmod	_	SpaceAfter=No
-14	,	,	PUNCT	FF	_	8	punct	_	_
-15	a	a	ADP	E	_	17	case	_	_
-16	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
-17	film	film	NOUN	S	Gender=Masc	6	conj	_	_
-18	nazionali	nazionale	ADJ	A	Number=Plur	17	amod	_	_
-19	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
-20	17%	17%	NUM	N	NumType=Card	17	orphan	_	_
-21	e	e	CCONJ	CC	_	23	cc	_	_
-22	a	a	ADP	E	_	23	case	_	_
-23	quelli	quello	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	17	conj	_	_
-24	di	di	ADP	E	_	27	case	_	_
-25	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	27	det	_	_
-26	altri	altro	ADJ	A	Gender=Masc|Number=Plur	27	amod	_	_
-27	paesi	paese	NOUN	S	Gender=Masc|Number=Plur	23	nmod	_	_
-28	europei	europeo	ADJ	A	Gender=Masc|Number=Plur	27	amod	_	_
-29	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	_	_
-30	7%	7%	NUM	N	NumType=Card	23	orphan	_	_
-31	circa	circa	ADV	B	_	30	advmod	_	SpaceAfter=No
-32	.	.	PUNCT	FS	_	8	punct	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+10	74	74	NUM	N	NumType=Card	11	nummod	_	SpaceAfter=No
+11	%	%	SYM	SYM	_	8	nsubj	_	_
+12	di	di	ADP	E	_	14	case	_	_
+13	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	incassi	incasso	NOUN	S	Gender=Masc|Number=Plur	11	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	8	punct	_	_
+16	a	a	ADP	E	_	18	case	_	_
+17	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
+18	film	film	NOUN	S	Gender=Masc	6	conj	_	_
+19	nazionali	nazionale	ADJ	A	Number=Plur	18	amod	_	_
+20	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+21	17	17	NUM	N	NumType=Card	22	nummod	_	SpaceAfter=No
+22	%	%	SYM	SYM	_	18	orphan	_	_
+23	e	e	CCONJ	CC	_	25	cc	_	_
+24	a	a	ADP	E	_	25	case	_	_
+25	quelli	quello	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	18	conj	_	_
+26	di	di	ADP	E	_	29	case	_	_
+27	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	29	det	_	_
+28	altri	altro	ADJ	A	Gender=Masc|Number=Plur	29	amod	_	_
+29	paesi	paese	NOUN	S	Gender=Masc|Number=Plur	25	nmod	_	_
+30	europei	europeo	ADJ	A	Gender=Masc|Number=Plur	29	amod	_	_
+31	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	33	det	_	_
+32	7	7	NUM	N	NumType=Card	33	nummod	_	SpaceAfter=No
+33	%	%	SYM	SYM	_	25	orphan	_	_
+34	circa	circa	ADV	B	_	33	advmod	_	SpaceAfter=No
+35	.	.	PUNCT	FS	_	8	punct	_	_
 
 ~~~
 

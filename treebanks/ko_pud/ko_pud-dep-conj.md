@@ -34,7 +34,7 @@ The following 21 pairs of parts of speech are connected with `conj`: <tt><a href
 10	수	_	NOUN	NNB	_	11	nsubj	_	Translit=.su
 11	없을	_	ADJ	JJ	Form=Adn	12	acl:relcl	_	Translit=.eobs.eul
 12	정도	_	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=.jeong.do
-13	이다	_	AUX	VC	Mood=Ind|VerbForm=Fin	12	cop	_	SpaceAfter=No|Translit=.i.da
+13	이다	이	AUX	VC	Mood=Ind|VerbForm=Fin	12	cop	_	SpaceAfter=No|Translit=.i.da|LTranslit=.i
 14	.	.	PUNCT	.	_	12	punct	_	Translit=.|LTranslit=.
 
 ~~~
@@ -59,7 +59,7 @@ The following 21 pairs of parts of speech are connected with `conj`: <tt><a href
 11	한다는	_	VERB	VX	Form=Adn	12	dep	_	Translit=.han.da.neun
 12	것을	것	NOUN	NNB+CM	Case=Acc|Polite=Form	13	obj	_	MSeg=것-을|Translit=.geos.eul|LTranslit=.geos
 13	알고	_	VERB	VV	Form=Aux	0	root	_	Translit=.al.go
-14	있다	_	AUX	VX	Mood=Ind|VerbForm=Fin	13	aux	_	SpaceAfter=No|Translit=.iss.da
+14	있다	있	AUX	VX	Mood=Ind|VerbForm=Fin	13	aux	_	SpaceAfter=No|Translit=.iss.da|LTranslit=.iss
 15	.	.	PUNCT	.	_	14	punct	_	Translit=.|LTranslit=.
 
 ~~~

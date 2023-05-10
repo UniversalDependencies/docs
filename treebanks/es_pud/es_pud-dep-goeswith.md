@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 6 7 goeswith	color:blue
 1	A	a	ADP	IN	_	3	advmod	_	_
 2	veces	vez	NOUN	NN	Gender=Fem|Number=Plur	1	fixed	_	_
-3	es	ser	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	es	ser	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	como	como	ADP	IN	_	6	case	_	_
 5	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	súper	superpoder	NOUN	NN	Gender=Masc|Number=Sing|Typo=Yes	3	obl	_	CorrectForm=superpoder

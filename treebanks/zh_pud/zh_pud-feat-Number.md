@@ -11,7 +11,7 @@ It occurs with 1 different values: `Plur`.
 
 158 tokens (1%) have a non-empty value of `Number`.
 7 types (0%) occur at least once with a non-empty value of `Number`.
-1 lemmas (0) occur at least once with a non-empty value of `Number`.
+7 lemmas (0%) occur at least once with a non-empty value of `Number`.
 The feature is used with 2 part-of-speech tags: <tt><a href="zh_pud-pos-PRON.html">PRON</a></tt> (144; 1% instances), <tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> (14; 0% instances).
 
 ### `PRON`
@@ -32,5 +32,5 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 `NOUN` tokens may have the following values of `Number`:
 
 * `Plur` (14; 100% of non-empty `Number`): 人們
-* `EMPTY` (5396): 年、 個、 人、 月、 次、 公司、 世紀、 地區、 政府、 工作
+* `EMPTY` (5399): 年、 個、 人、 月、 次、 公司、 世紀、 地區、 政府、 工作
 

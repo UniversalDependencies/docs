@@ -22,15 +22,15 @@ The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 5 cop	color:blue
-1	ampak	ampak	CCONJ	Cc	_	8	cc	_	word=ampak|msd=Vp
-2	če	če	SCONJ	Cs	_	3	mark	_	word=če|msd=Vd
-3	nimate	imeti	VERB	Vmpr2p-y	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin	8	advcl	_	word=nimate|msd=Ggnsdm-d
-4	sline	slina	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	3	obl	_	word=sline|msd=Sozer
-5	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	8	cop	_	word=je|msd=Gp-ste-n
-6	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	8	nsubj	_	word=to|msd=Zk-sei
-7	malo	malo	DET	Rgp	PronType=Ind	8	advmod	_	word=malo|msd=Rsn
-8	težje	težek	ADJ	Agcnsn	Case=Nom|Degree=Cmp|Gender=Neut|Number=Sing	0	root	_	word=težje|msd=Pppsei
-9	ne	ne	PART	Q	_	8	discourse	_	word=ne|msd=L
+1	ampak	ampak	CCONJ	Cc	_	8	cc	_	pronunciation=ampak
+2	če	če	SCONJ	Cs	_	3	mark	_	pronunciation=če
+3	nimate	imeti	VERB	Vmpr2p-y	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin	8	advcl	_	pronunciation=nimate
+4	sline	slina	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	3	obl	_	pronunciation=sline
+5	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	8	cop	_	pronunciation=je
+6	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	8	nsubj	_	pronunciation=to
+7	malo	malo	DET	Rgp	PronType=Ind	8	advmod	_	pronunciation=malo
+8	težje	težek	ADJ	Agcnsn	Case=Nom|Degree=Cmp|Gender=Neut|Number=Sing	0	root	_	pronunciation=težje
+9	ne	ne	PART	Q	Polarity=Neg	8	discourse	_	pronunciation=ne
 
 ~~~
 
@@ -41,36 +41,31 @@ The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 3 cop	color:blue
-1	mislim	misliti	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	word=mislim|msd=Ggnspe
-2	da	da	SCONJ	Cs	_	6	mark	_	word=da|msd=Vd
-3	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	cop	_	word=je|msd=Gp-ste-n
-4	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	nsubj	_	word=to|msd=Zk-sei
-5	velik	velik	ADJ	Agpmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	word=velik|msd=Ppnmein
-6	problem	problem	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	1	ccomp	_	word=problem|msd=Somei
+1	mislim	misliti	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=mislim
+2	da	da	SCONJ	Cs	_	6	mark	_	pronunciation=da
+3	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	cop	_	pronunciation=je
+4	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	nsubj	_	pronunciation=to
+5	velik	velik	ADJ	Agpmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	pronunciation=velik
+6	problem	problem	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	1	ccomp	_	pronunciation=problem
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 14 10 cop	color:blue
-1	[name:personal]	[name:personal]	PROPN	X	_	0	root	_	word=[name:personal]|msd=N
-2	ja	ja	PART	Q	_	1	discourse	_	word=ja|msd=L
-3	…	…	PUNCT	Z	_	6	punct	_	word=…|msd=U
-4	tisti	tisti	DET	Pd-mpn	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	6	nsubj	_	word=tisti|msd=Zk-mmi
-5	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	cop	_	word=so|msd=Gp-stm-n
-6	t	_	X	Xt	_	14	reparandum	_	word=t|msd=Nt
-7	[gap]	[gap]	PUNCT	X	_	14	punct	_	word=[gap]|msd=N
-8	pa	pa	CCONJ	Cc	_	14	cc	_	word=pa|msd=Vp
-9	ti	ta	DET	Pd-mpn	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	14	nsubj	_	word=tuti|msd=Zk-mmi
-10	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	14	cop	_	word=so|msd=Gp-stm-n
-11	tako	tako	ADV	Rgp	Degree=Pos	14	advmod	_	word=tk|msd=Rsn
-12	vsi	ves	DET	Pg-mpn	Case=Nom|Gender=Masc|Number=Plur|PronType=Tot	14	obl	_	word=vsi|msd=Zc-mmi
-13	čisto	čisto	ADV	Rgp	Degree=Pos	14	advmod	_	word=čist|msd=Rsn
-14	isti	isti	DET	Pi-mpn	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	1	parataxis	_	word=isti|msd=Zn-mmi
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 cop	color:blue
+1	semenčice	semenčica	NOUN	Ncfpn	Case=Nom|Gender=Fem|Number=Plur	0	root	_	pronunciation=semenčice
+2	[name:personal]	[name:personal]	PROPN	X	_	1	vocative	_	pronunciation=[name:personal]
+3	semenčice	semenčica	NOUN	Ncfpn	Case=Nom|Gender=Fem|Number=Plur	1	parataxis	_	pronunciation=semenčice
+4	kaj	kaj	PRON	Pq-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	7	nsubj	_	pronunciation=kaj
+5	pa	pa	CCONJ	Cc	_	7	advmod	_	pronunciation=pa
+6	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	cop	_	pronunciation=je
+7	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	1	parataxis	_	pronunciation=to
+8	semenčice	semenčica	NOUN	Ncfpn	Case=Nom|Gender=Fem|Number=Plur	7	dislocated	_	pronunciation=semenčice
+9	?	?	PUNCT	Z	_	7	punct	_	pronunciation=?
 
 ~~~
 

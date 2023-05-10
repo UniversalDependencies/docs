@@ -38,4 +38,4 @@ Emphasis differs from [degree](la-feat/Degree) in that it does not scale a quali
 * ***quamquam*** or ***quanquam*** is an example of emphasis by reduplication
 
 
-<!-- Interlanguage links updated Po lis 14 15:34:46 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:37 CEST -->

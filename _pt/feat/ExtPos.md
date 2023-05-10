@@ -86,4 +86,4 @@ non-fixed relations should not use this feature.
 #### Examples
 
 * _<b>meia duzia</b>_
-<!-- Interlanguage links updated Po lis 14 15:34:45 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:36 CEST -->

@@ -9,20 +9,20 @@ udver: '2'
 This feature is universal but the values `Emp` are language-specific.
 It occurs with 8 different values: `Art`, `Dem`, `Emp`, `Ind`, `Int`, `Prs`, `Rel`, `Tot`.
 
-40078 tokens (16%) have a non-empty value of `PronType`.
+41957 tokens (17%) have a non-empty value of `PronType`.
 176 types (1%) occur at least once with a non-empty value of `PronType`.
-55 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="pt_petrogold-pos-DET.html">DET</a></tt> (36348; 15% instances), <tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> (3514; 1% instances), <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt> (216; 0% instances).
+54 lemmas (1%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 3 part-of-speech tags: <tt><a href="pt_petrogold-pos-DET.html">DET</a></tt> (36345; 15% instances), <tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> (5398; 2% instances), <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt> (214; 0% instances).
 
 ### `DET`
 
-36348 <tt><a href="pt_petrogold-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+36345 <tt><a href="pt_petrogold-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="pt_petrogold-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (29029; 80%), <tt><a href="pt_petrogold-feat-Number.html">Number</a></tt><tt>=Sing</tt> (28131; 77%), <tt><a href="pt_petrogold-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (18207; 50%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="pt_petrogold-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (29026; 80%), <tt><a href="pt_petrogold-feat-Number.html">Number</a></tt><tt>=Sing</tt> (28128; 77%), <tt><a href="pt_petrogold-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (18204; 50%).
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Art` (31771; 87% of non-empty `PronType`): <em>a, o, os, as, um, uma, , , Do, uns</em>
+* `Art` (31768; 87% of non-empty `PronType`): <em>a, o, os, as, um, uma, , Do, uns, µ</em>
 * `Dem` (2424; 7% of non-empty `PronType`): <em>este, esta, estes, estas, esse, essa, esses, tais, essas, aquela</em>
 * `Emp` (28; 0% of non-empty `PronType`): <em>própria, próprio, próprios</em>
 * `Ind` (1039; 3% of non-empty `PronType`): <em>cada, outros, alguns, tal, outras, diversos, outra, vários, algumas, outro</em>
@@ -40,18 +40,15 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 ### `PRON`
 
-3514 <tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> tokens (65% of all `PRON` tokens) have a non-empty value of `PronType`.
-
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="pt_petrogold-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2398; 68%), <tt><a href="pt_petrogold-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2291; 65%).
+5398 <tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
 `PRON` tokens may have the following values of `PronType`:
 
-* `Dem` (923; 26% of non-empty `PronType`): <em>o, isso, isto, este, a, esta, mesmo, estes, os, estas</em>
-* `Ind` (252; 7% of non-empty `PronType`): <em>um, uma, outros, outro, alguns, outra, algumas, outras, demais, muitos</em>
-* `Prs` (328; 9% of non-empty `PronType`): <em>eles, elas, ele, ela, si, a, o, lo, los, la</em>
-* `Rel` (1986; 57% of non-empty `PronType`): <em>que, qual, onde, quais, quanto</em>
-* `Tot` (25; 1% of non-empty `PronType`): <em>ambas, ambos, todo, todas, todos</em>
-* `EMPTY` (1885): <em>se</em>
+* `Dem` (923; 17% of non-empty `PronType`): <em>o, isso, isto, este, a, esta, mesmo, estes, os, estas</em>
+* `Ind` (252; 5% of non-empty `PronType`): <em>um, uma, outros, outro, alguns, outra, algumas, outras, demais, muitos</em>
+* `Prs` (2211; 41% of non-empty `PronType`): <em>se, eles, elas, ele, ela, si, a, o, lo, los</em>
+* `Rel` (1987; 37% of non-empty `PronType`): <em>que, qual, onde, quais, quanto</em>
+* `Tot` (25; 0% of non-empty `PronType`): <em>ambas, ambos, todo, todas, todos</em>
 
 <table>
   <tr><th>Paradigm <i>o</i></th><th><tt>Prs</tt></th><th><tt>Dem</tt></th><th><tt>Ind</tt></th></tr>
@@ -71,12 +68,12 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 ### `ADV`
 
-216 <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt> tokens (3% of all `ADV` tokens) have a non-empty value of `PronType`.
+214 <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt> tokens (3% of all `ADV` tokens) have a non-empty value of `PronType`.
 
 `ADV` tokens may have the following values of `PronType`:
 
-* `Rel` (216; 100% of non-empty `PronType`): <em>onde</em>
-* `EMPTY` (6231): <em>mais, não, também, através, já, muito, assim, bem, ainda, além</em>
+* `Rel` (214; 100% of non-empty `PronType`): <em>onde</em>
+* `EMPTY` (6230): <em>mais, não, também, através, já, muito, assim, bem, ainda, além</em>
 
 ## Relations with Agreement in `PronType`
 

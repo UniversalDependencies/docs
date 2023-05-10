@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  所以 (<tt><a href="zh_cfl-pos-ADV.html"
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.006289 (the average of all parts of speech is 1.001198).
+The form / lemma ratio of `ADV` is 1.006289 (the average of all parts of speech is 1.009709).
 
 The 1st highest number of forms (2) was observed with the lemma “又”: 又, 有.
 
@@ -66,9 +66,9 @@ The 3rd highest number of forms (1) was observed with the lemma “一下”: �
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 6 different relations: <tt><a href="zh_cfl-dep-advmod.html">advmod</a></tt> (748; 99% instances), <tt><a href="zh_cfl-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="zh_cfl-dep-amod.html">amod</a></tt> (2; 0% instances), <tt><a href="zh_cfl-dep-discourse.html">discourse</a></tt> (2; 0% instances), <tt><a href="zh_cfl-dep-advmod-df.html">advmod:df</a></tt> (1; 0% instances), <tt><a href="zh_cfl-dep-aux.html">aux</a></tt> (1; 0% instances)
+`ADV` nodes are attached to their parents using 5 different relations: <tt><a href="zh_cfl-dep-advmod.html">advmod</a></tt> (749; 99% instances), <tt><a href="zh_cfl-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="zh_cfl-dep-amod.html">amod</a></tt> (2; 0% instances), <tt><a href="zh_cfl-dep-discourse.html">discourse</a></tt> (2; 0% instances), <tt><a href="zh_cfl-dep-advmod-df.html">advmod:df</a></tt> (1; 0% instances)
 
-Parents of `ADV` nodes belong to 10 different parts of speech: <tt><a href="zh_cfl-pos-VERB.html">VERB</a></tt> (458; 61% instances), <tt><a href="zh_cfl-pos-ADJ.html">ADJ</a></tt> (207; 27% instances), <tt><a href="zh_cfl-pos-AUX.html">AUX</a></tt> (41; 5% instances), <tt><a href="zh_cfl-pos-NOUN.html">NOUN</a></tt> (32; 4% instances), <tt><a href="zh_cfl-pos-ADV.html">ADV</a></tt> (6; 1% instances), <tt><a href="zh_cfl-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="zh_cfl-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="zh_cfl-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="zh_cfl-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="zh_cfl-pos-PART.html">PART</a></tt> (1; 0% instances)
+Parents of `ADV` nodes belong to 9 different parts of speech: <tt><a href="zh_cfl-pos-VERB.html">VERB</a></tt> (494; 65% instances), <tt><a href="zh_cfl-pos-ADJ.html">ADJ</a></tt> (207; 27% instances), <tt><a href="zh_cfl-pos-NOUN.html">NOUN</a></tt> (37; 5% instances), <tt><a href="zh_cfl-pos-ADV.html">ADV</a></tt> (6; 1% instances), <tt><a href="zh_cfl-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="zh_cfl-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="zh_cfl-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="zh_cfl-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="zh_cfl-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 
 735 (97%) `ADV` nodes are leaves.
 

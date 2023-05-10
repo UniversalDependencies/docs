@@ -67,7 +67,7 @@ The following 10 pairs of parts of speech are connected with `parataxis:obj`: <t
 11	.	.	PUNCT	FS	_	6	punct	_	_
 12	Parliamone	Parliamone	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 13	:	:	PUNCT	FC	_	12	punct	_	_
-14	http://t.co/tdEQ9nFD8P	http://t.co/tdEQ9nFD8P	SYM	X	_	12	dep	_	SpaceAfter=\n
+14	http://t.co/tdEQ9nFD8P	http://t.co/tdEQ9nFD8P	SYM	X	_	12	dep	_	SpacesAfter=\n
 
 ~~~
 

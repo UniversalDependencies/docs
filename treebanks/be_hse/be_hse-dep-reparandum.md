@@ -32,7 +32,7 @@ The following 4 pairs of parts of speech are connected with `reparandum`: <tt><a
 8	яго	ён	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	9:obj	_
 9	сфатаграфавалі	сфатаграфаваць	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	2:parataxis	_
 10	ў	у	ADP	IN	_	11	case	11:case	_
-11	Нямеччыне	Нямеччына	PROPN	NNP	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	9	obl	9:obl:у:loc	SpaceAfter=No
+11	Нямеччыне	Нямеччына	PROPN	NNP	Animacy=Inan|Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	9	obl	9:obl:у:loc	SpaceAfter=No
 12	.	.	PUNCT	PUNCT	_	2	punct	2:punct	_
 
 ~~~
@@ -50,8 +50,8 @@ The following 4 pairs of parts of speech are connected with `reparandum`: <tt><a
 4	будуць	быць	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	5	aux	5:aux	_
 5	гучаць	гучаць	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	0:root	_
 6	вершы	верш	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	5	nsubj	5:nsubj	_
-7	Якуба	Якуб	PROPN	NNP	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	6	nmod	6:nmod:gen	_
-8	Колас	Колас	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	flat:name	7:flat:name	_
+7	Якуба	Якуб	PROPN	NNP	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	6	nmod	6:nmod:gen	_
+8	Колас	Колас	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	7	flat:name	7:flat:name	_
 9	а	а	CCONJ	CC	_	10	reparandum	10:reparandum	_
 10	і	і	CCONJ	CC	_	12	cc	12:cc	_
 11	будуць	быць	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	12	aux:pass	12:aux:pass	_
@@ -80,12 +80,12 @@ The following 4 pairs of parts of speech are connected with `reparandum`: <tt><a
 5	жыцьця	жыцьцё	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	2:nmod:gen	_
 6	прайшло	прайсьці	VERB	VBC	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 7	пры	пры	ADP	IN	_	8	case	8:case	_
-8	Мугабэ	Мугабэ	PROPN	NNP	Animacy=Anim|Case=Loc|Gender=Masc|InflClass=Ind|Number=Sing	6	obl	6:obl:пры:loc	SpaceAfter=No
+8	Мугабэ	Мугабэ	PROPN	NNP	Animacy=Anim|Case=Loc|Gender=Masc|InflClass=Ind|NameType=Sur|Number=Sing	6	obl	6:obl:пры:loc	SpaceAfter=No
 9	»	»	PUNCT	PUNCT	_	6	punct	6:punct	SpaceAfter=No
 10	,	,	PUNCT	PUNCT	_	14	punct	14:punct	_
 11	—	—	PUNCT	PUNCT	_	14	punct	14:punct	_
 12	у	у	ADP	IN	_	13	case	13:case	_
-13	Зымбабвэ	Зымбабвэ	PROPN	NNP	Animacy=Inan|Case=Loc|Gender=Masc|InflClass=Ind|Number=Sing	14	obl	14:obl:у:loc	_
+13	Зымбабвэ	Зымбабвэ	PROPN	NNP	Animacy=Inan|Case=Loc|Gender=Masc|InflClass=Ind|NameType=Geo|Number=Sing	14	obl	14:obl:у:loc	_
 14	ёсьць	быць	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	0:root|6:conj	_
 15	сатырычнае	сатырычны	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	18	amod	18:amod	_
 16	онлайн	онлайн	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	18	compound	18:compound	SpaceAfter=No

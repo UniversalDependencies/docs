@@ -64,30 +64,30 @@ The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 23	bgColor:blue
 # visual-style 23	fgColor:white
 # visual-style 23 21 aux	color:blue
-1	И	и	CCONJ	_	_	2	cc	_	wf="И"|SpaceAfter=Yes
-2	мяса	мясо	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	0	root	_	wf="мяса"|SpaceAfter=Yes
-3	б	бъ	AUX	_	Analyt=Yes|Mood=Cnd	2	orphan	_	wf="б"|SpaceAfter=Yes
+1	И	и	CCONJ	_	_	2	cc	_	wf="И"|_
+2	мяса	мясо	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	0	root	_	wf="мяса"|_
+3	б	бъ	AUX	_	Analyt=Yes|Mood=Cnd	2	orphan	_	wf="б"|_
 4	свиные	свиной	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	2	amod	_	wf="свиные"|SpaceAfter=No
-5	,	,	PUNCT	_	_	9	punct	_	wf=","|SpaceAfter=Yes
-6	чтоб	чтобъ	SCONJ	_	_	9	mark	_	wf="чтоб"|SpaceAfter=Yes
-7	не	не	PART	_	Polarity=Neg	9	advmod	_	wf="не"|SpaceAfter=Yes
-8	по	по	ADP	_	_	9	case	_	wf="по"|SpaceAfter=Yes
-9	летошнему	летошнему	ADV	_	Degree=Pos	2	advcl	_	wf="летошнему"|SpaceAfter=Yes
-10	–	–	PUNCT	_	_	17	punct	_	wf="–"|SpaceAfter=Yes
-11	лбов	лобъ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	17	obj	_	wf="лбов"|SpaceAfter=Yes
-12	и	и	CCONJ	_	_	13	cc	_	wf="и"|SpaceAfter=Yes
-13	спин	спина	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	11	conj	_	wf="спин"|SpaceAfter=Yes
-14	к	къ	ADP	_	_	15	case	_	wf="к"|SpaceAfter=Yes
-15	полтям	полоть	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	17	obl	_	wf="полтям"|SpaceAfter=Yes
-16	не	не	PART	_	Polarity=Neg	17	advmod	_	wf="не"|SpaceAfter=Yes
+5	,	,	PUNCT	_	_	9	punct	_	wf=","|_
+6	чтоб	чтобъ	SCONJ	_	_	9	mark	_	wf="чтоб"|_
+7	не	не	PART	_	Polarity=Neg	9	advmod	_	wf="не"|_
+8	по	по	ADP	_	_	9	case	_	wf="по"|_
+9	летошнему	летошнему	ADV	_	Degree=Pos	2	advcl	_	wf="летошнему"|_
+10	–	–	PUNCT	_	_	17	punct	_	wf="–"|_
+11	лбов	лобъ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	17	obj	_	wf="лбов"|_
+12	и	и	CCONJ	_	_	13	cc	_	wf="и"|_
+13	спин	спина	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	11	conj	_	wf="спин"|_
+14	к	къ	ADP	_	_	15	case	_	wf="к"|_
+15	полтям	полоть	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	17	obl	_	wf="полтям"|_
+16	не	не	PART	_	Polarity=Neg	17	advmod	_	wf="не"|_
 17	припущат(ь)	припущати	VERB	_	VerbForm=Inf|Voice=Act	2	parataxis	_	wf="припущать"|SpaceAfter=No
-18	,	,	PUNCT	_	_	23	punct	_	wf=","|SpaceAfter=Yes
-19	и	и	CCONJ	_	_	23	cc	_	wf="и"|SpaceAfter=Yes
-20	ососы	ососъ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	23	nsubj	_	wf="ососы"|SpaceAfter=Yes
-21	б	бъ	AUX	_	Analyt=Yes|Mood=Cnd	23	aux	_	wf="б"|SpaceAfter=Yes
-22	были	быти	AUX	_	Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	23	cop	_	wf="были"|SpaceAfter=Yes
+18	,	,	PUNCT	_	_	23	punct	_	wf=","|_
+19	и	и	CCONJ	_	_	23	cc	_	wf="и"|_
+20	ососы	ососъ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	23	nsubj	_	wf="ососы"|_
+21	б	бъ	AUX	_	Analyt=Yes|Mood=Cnd	23	aux	_	wf="б"|_
+22	были	быти	AUX	_	Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	23	cop	_	wf="были"|_
 23	добрые	добрый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	17	conj	_	wf="добрые"|SpaceAfter=No
-24	.	.	PUNCT	_	_	17	punct	_	wf="."|SpaceAfter=Yes
+24	.	.	PUNCT	_	_	17	punct	_	wf="."|_
 
 ~~~
 

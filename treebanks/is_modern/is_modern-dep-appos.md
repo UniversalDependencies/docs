@@ -26,7 +26,7 @@ The following 23 pairs of parts of speech are connected with `appos`: <tt><a hre
 2	með	með	ADP	P	_	4	case	_	IFD_tag=ao
 3	ungt	ungur	ADJ	ADJ-A	Case=Acc|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	IFD_tag=lheosf
 4	fólk	fólk	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing	1	xcomp	_	IFD_tag=nheo|SpaceAfter=No
-5	,	,	PUNCT	,	_	4	punct	_	IFD_tag=
+5	,	,	PUNCT	,	_	4	punct	_	IFD_tag
 6	börnin	barn	NOUN	NS-N	Case=Acc|Definite=Def|Gender=Neut|Number=Plur	4	appos	_	IFD_tag=nhfog
 7	okkar	ég	PRON	PRO-G	Case=Gen|Number=Plur|Person=1|PronType=Prs	6	nmod:poss	_	IFD_tag=fp1fe|SpaceAfter=No
 8	?	?	PUNCT	.	_	7	punct	_	IFD_tag=?

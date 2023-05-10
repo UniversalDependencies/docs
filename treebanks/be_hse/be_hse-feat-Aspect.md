@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Imp`, `Perf`.
 
-30219 tokens (10%) have a non-empty value of `Aspect`.
-11241 types (22%) occur at least once with a non-empty value of `Aspect`.
-4260 lemmas (15%) occur at least once with a non-empty value of `Aspect`.
-The feature is used with 3 part-of-speech tags: <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (29973; 10% instances), <tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (245; 0% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+30220 tokens (10%) have a non-empty value of `Aspect`.
+11242 types (22%) occur at least once with a non-empty value of `Aspect`.
+4259 lemmas (15%) occur at least once with a non-empty value of `Aspect`.
+The feature is used with 3 part-of-speech tags: <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (29974; 10% instances), <tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (245; 0% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-29973 <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> tokens (96% of all `VERB` tokens) have a non-empty value of `Aspect`.
+29974 <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> tokens (96% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="be_hse-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (22578; 75%), <tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (22552; 75%), <tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (21918; 73%), <tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (21020; 70%), <tt><a href="be_hse-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (18401; 61%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="be_hse-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (22578; 75%), <tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (22553; 75%), <tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (21918; 73%), <tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (21020; 70%), <tt><a href="be_hse-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (18402; 61%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
-* `Imp` (14425; 48% of non-empty `Aspect`): <em>можа, жыве, мае, кажа, кажуць, могуць, адбываецца, далучайцеся, маюць, знаходзіцца</em>
+* `Imp` (14426; 48% of non-empty `Aspect`): <em>можа, жыве, мае, кажа, кажуць, могуць, адбываецца, далучайцеся, маюць, знаходзіцца</em>
 * `Perf` (15548; 52% of non-empty `Aspect`): <em>стала, адбудзецца, затрымалі, сказаў, пачалі, стаў, падтрымаць, пройдзе, зрабіць, памёр</em>
-* `EMPTY` (1119): <em>можна, трэба, няма, ёсьць, было, варта, ёсць, была, нельга, будзе</em>
+* `EMPTY` (1118): <em>можна, трэба, няма, ёсьць, было, варта, ёсць, была, нельга, будзе</em>
 
 <table>
   <tr><th>Paradigm <i>стаць</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>
@@ -82,7 +82,7 @@ The most frequent other feature values with which `NOUN` and `Aspect` co-occurre
 `NOUN` tokens may have the following values of `Aspect`:
 
 * `Imp` (1; 100% of non-empty `Aspect`): <em>падкастаў</em>
-* `EMPTY` (72552): <em>дзень, людзей, чалавек, арт, годзе, гадоў, час, людзі, года, год</em>
+* `EMPTY` (72685): <em>дзень, людзей, чалавек, арт, годзе, гадоў, час, людзі, года, год</em>
 
 ## Relations with Agreement in `Aspect`
 

@@ -15,18 +15,18 @@ The 10 most frequent `AUX` types:  <em>je, so, sem, bi, bo, smo, ni, si, bomo, b
 
 The 10 most frequent ambiguous lemmas: <em>biti</em> (<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> 1936, <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> 670)
 
-The 10 most frequent ambiguous types:  <em>je</em> (<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> 700, <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> 298, <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> 5, <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 3), <em>so</em> (<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> 198, <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> 44, <tt><a href="sl_sst-pos-X.html">X</a></tt> 2), <em>sem</em> (<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> 187, <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> 20, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 4), <em>bi</em> (<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> 134, <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> 15, <tt><a href="sl_sst-pos-X.html">X</a></tt> 1), <em>bo</em> (<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> 99, <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> 34), <em>smo</em> (<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> 96, <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> 12), <em>ni</em> (<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> 76, <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> 53, <tt><a href="sl_sst-pos-X.html">X</a></tt> 1), <em>si</em> (<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> 55, <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> 49, <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> 16), <em>bomo</em> (<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> 47, <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> 4), <em>bila</em> (<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> 44, <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> 21)
+The 10 most frequent ambiguous types:  <em>je</em> (<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> 700, <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> 298, <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> 5, <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 3), <em>so</em> (<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> 198, <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> 44, <tt><a href="sl_sst-pos-X.html">X</a></tt> 1), <em>sem</em> (<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> 187, <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> 20, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 4), <em>bi</em> (<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> 134, <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> 15, <tt><a href="sl_sst-pos-X.html">X</a></tt> 1), <em>bo</em> (<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> 99, <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> 34), <em>smo</em> (<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> 96, <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> 12), <em>ni</em> (<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> 76, <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> 53), <em>si</em> (<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> 55, <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> 49, <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> 16), <em>bomo</em> (<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> 47, <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> 4), <em>bila</em> (<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> 44, <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> 21)
 
 
 * <em>je</em>
   * <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> 700: <em><b>je</b> videl kakšne barve mešajo</em>
   * <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> 298: <em>verjetno <b>je</b> tudi v teh ugotovitvah naše poslušalke kar precej soli ne</em>
   * <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> 5: <em>sploh če <b>je</b> ne prebereš mislim tako da jo prebereš</em>
-  * <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 3: <em><b>je</b> ene štir [gap] ene š [gap] štirideset</em>
+  * <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 3: <em><b>je</b> ene štir- [gap] ene š- [gap] štirideset</em>
 * <em>so</em>
-  * <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> 198: <em>in to <b>so</b> mešali kar eno olje pa ene take č [gap] stare barve</em>
-  * <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> 44: <em>veš koliko <b>so</b> ga p [gap] je bil star koliko [gap] … štirideset ja</em>
-  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 2: <em>genau wo ist den das ? ach <b>so</b> da</em>
+  * <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> 198: <em>in to <b>so</b> mešali kar eno olje pa ene take č- [gap] stare barve</em>
+  * <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> 44: <em>veš koliko <b>so</b> ga p- [gap] je bil star koliko [gap] … štirideset ja</em>
+  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 1: <em>genau wo ist den das ? ach <b>so</b> da</em>
 * <em>sem</em>
   * <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> 187: <em><b>sem</b> tudi videla</em>
   * <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> 20: <em>in jaz eee <b>sem</b> na stališču da eee slovenija ima eee zelo jasna stališča</em>
@@ -44,7 +44,6 @@ The 10 most frequent ambiguous types:  <em>je</em> (<tt><a href="sl_sst-pos-AUX.
 * <em>ni</em>
   * <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> 76: <em>od maja meseca pa dokler <b>ni</b> bila slana smo pasli [:voice]</em>
   * <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> 53: <em>ko ko je ko si v milosti <b>ni</b> problema ko si tako v ne tolažbi duhovni</em>
-  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 1: <em>in seveda vlekel sem vprašanja noter in sem gledal samo da izvlečem da popravljam jaz da je tekst pa da jaz popravim kje je treba vejica kje je treba dvopičje ne pa da da jaz delam kaj je eee osebek povedek te pa sem ni mi nekako nisem <b>ni</b> [gap] nisem tu jaz bil cel ne</em>
 * <em>si</em>
   * <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> 55: <em>[name:personal] pa ful gleda komu <b>si</b> to rekel ? [speaker:laughter]</em>
   * <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> 49: <em>ne ker on tukaj ni uporabljal gradbeni material on <b>si</b> tega ni</em>
@@ -58,7 +57,7 @@ The 10 most frequent ambiguous types:  <em>je</em> (<tt><a href="sl_sst-pos-AUX.
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 33.000000 (the average of all parts of speech is 1.570645).
+The form / lemma ratio of `AUX` is 33.000000 (the average of all parts of speech is 1.573353).
 
 The 1st highest number of forms (33) was observed with the lemma “biti”: <em>bi, bil, bila, bile, bili, bilo, biti, bo, bodi, bodite, bodo, bojo, bom, bomo, bosta, boste, bova, boš, je, ni, nisem, nisi, nismo, niso, niste, nisva, sem, si, smo, so, sta, ste, sva</em>.
 

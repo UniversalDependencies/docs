@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.7 release.
 The following people have contributed to making this treebank part of UD: Fabrício Ferraz Gerardi.
 
 Repository: [UD_Tupinamba-TuDeT](https://github.com/UniversalDependencies/UD_Tupinamba-TuDeT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtpn_tudet211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtpn_tudet212)<br />
+Download all treebanks: [UD 2.12](/#download)
 
 License: CC BY-SA 4.0
 
@@ -50,8 +50,7 @@ UD_Tupinamba-TuDeT is a collection of annotated sentences in [Tupinambá](https:
 
 
 
-UD_Tupinamba-TuDeT is a collection of annotated sentences in [Tupinambá](https://glottolog.org/resource/languoid/id/tupi1273). All known sources in this language are being annotated: cathecisms, letters, poems, theater plays, and grammars (sixteenth and seventeenth century). It is part of [TuLaR](https://tular.clld.org), Tupían Language Resources. The project is work-in-progress and the treebank is being updated on a regular basis. Sentence annotation and documentation by Fabrício Ferraz Gerardi.
-
+UD_Tupinamba-TuDeT is a collection of annotated sentences in [Tupinambá](https://glottolog.org/resource/languoid/id/tupi1273). All known sources in this language are being annotated: cathecisms, letters, poems, theater plays, and grammars (sixteenth and seventeenth century). It is part of [TuLaR](https://tular.clld.org), Tupían Language Resources. The project is work-in-progress and the treebank is being updated on a regular basis.
 
 
 ## Text sources
@@ -62,7 +61,7 @@ UD_Tupinamba-TuDeT is a collection of annotated sentences in [Tupinambá](https:
 * de Anchieta, J., (). Doutrina Cristã I
 * de Anchieta, J., (197). Doutrina Cristã II
 * Bettendorf, F. (1687). Catecismo
-* Cartas dos Camarões (2022)
+* Navarro, E. D. A. (2022).Cartas dos Camarões
 
 ## Text sources
 
@@ -85,7 +84,7 @@ The development of this treebank is supported by the by European Research Counci
 
 ## Features
 
-[AdvType](tpn_tudet-feat-AdvType.html) – [Animacy](tpn_tudet-feat-Animacy.html) – [Aspect](tpn_tudet-feat-Aspect.html) – [Augm](tpn_tudet-feat-Augm.html) – [Case](tpn_tudet-feat-Case.html) – [Clusivity](tpn_tudet-feat-Clusivity.html) – [ConjType](tpn_tudet-feat-ConjType.html) – [Corf](tpn_tudet-feat-Corf.html) – [Delib](tpn_tudet-feat-Delib.html) – [Dev](tpn_tudet-feat-Dev.html) – [Emph](tpn_tudet-feat-Emph.html) – [Evident](tpn_tudet-feat-Evident.html) – [Foc](tpn_tudet-feat-Foc.html) – [Foreign](tpn_tudet-feat-Foreign.html) – [Hum](tpn_tudet-feat-Hum.html) – [Incorp](tpn_tudet-feat-Incorp.html) – [Int](tpn_tudet-feat-Int.html) – [Intens](tpn_tudet-feat-Intens.html) – [Mood](tpn_tudet-feat-Mood.html) – [Nomzr](tpn_tudet-feat-Nomzr.html) – [NonFoc](tpn_tudet-feat-NonFoc.html) – [Number](tpn_tudet-feat-Number.html) – [Number[obj]](tpn_tudet-feat-Number-obj.html) – [Number[psor]](tpn_tudet-feat-Number-psor.html) – [Number[subj]](tpn_tudet-feat-Number-subj.html) – [NumType](tpn_tudet-feat-NumType.html) – [Person](tpn_tudet-feat-Person.html) – [Person[obj]](tpn_tudet-feat-Person-obj.html) – [Person[psor]](tpn_tudet-feat-Person-psor.html) – [Person[subj]](tpn_tudet-feat-Person-subj.html) – [Polarity](tpn_tudet-feat-Polarity.html) – [Poss](tpn_tudet-feat-Poss.html) – [Priv](tpn_tudet-feat-Priv.html) – [PronType](tpn_tudet-feat-PronType.html) – [Recip](tpn_tudet-feat-Recip.html) – [Red](tpn_tudet-feat-Red.html) – [Reflex](tpn_tudet-feat-Reflex.html) – [Rel](tpn_tudet-feat-Rel.html) – [Speech](tpn_tudet-feat-Speech.html) – [Tense](tpn_tudet-feat-Tense.html) – [VerbForm](tpn_tudet-feat-VerbForm.html) – [Voice](tpn_tudet-feat-Voice.html)
+[AdvType](tpn_tudet-feat-AdvType.html) – [Animacy](tpn_tudet-feat-Animacy.html) – [Aspect](tpn_tudet-feat-Aspect.html) – [Case](tpn_tudet-feat-Case.html) – [Clusivity](tpn_tudet-feat-Clusivity.html) – [ConjType](tpn_tudet-feat-ConjType.html) – [Corf](tpn_tudet-feat-Corf.html) – [Degree](tpn_tudet-feat-Degree.html) – [Delib](tpn_tudet-feat-Delib.html) – [Dev](tpn_tudet-feat-Dev.html) – [Emph](tpn_tudet-feat-Emph.html) – [Evident](tpn_tudet-feat-Evident.html) – [Foc](tpn_tudet-feat-Foc.html) – [Foreign](tpn_tudet-feat-Foreign.html) – [Hum](tpn_tudet-feat-Hum.html) – [Incorp](tpn_tudet-feat-Incorp.html) – [Int](tpn_tudet-feat-Int.html) – [Intens](tpn_tudet-feat-Intens.html) – [Mood](tpn_tudet-feat-Mood.html) – [Nomzr](tpn_tudet-feat-Nomzr.html) – [NonFoc](tpn_tudet-feat-NonFoc.html) – [Number](tpn_tudet-feat-Number.html) – [Number[obj]](tpn_tudet-feat-Number-obj.html) – [Number[psor]](tpn_tudet-feat-Number-psor.html) – [Number[subj]](tpn_tudet-feat-Number-subj.html) – [NumType](tpn_tudet-feat-NumType.html) – [Person](tpn_tudet-feat-Person.html) – [Person[obj]](tpn_tudet-feat-Person-obj.html) – [Person[psor]](tpn_tudet-feat-Person-psor.html) – [Person[subj]](tpn_tudet-feat-Person-subj.html) – [Polarity](tpn_tudet-feat-Polarity.html) – [Poss](tpn_tudet-feat-Poss.html) – [Priv](tpn_tudet-feat-Priv.html) – [PronType](tpn_tudet-feat-PronType.html) – [Recip](tpn_tudet-feat-Recip.html) – [Red](tpn_tudet-feat-Red.html) – [Reflex](tpn_tudet-feat-Reflex.html) – [Rel](tpn_tudet-feat-Rel.html) – [Speech](tpn_tudet-feat-Speech.html) – [Tense](tpn_tudet-feat-Tense.html) – [VerbForm](tpn_tudet-feat-VerbForm.html) – [Voice](tpn_tudet-feat-Voice.html)
 
 ## Relations
 
@@ -287,6 +286,18 @@ The development of this treebank is supported by the by European Research Counci
 <h3>Degree and Polarity</h3>
 
 
+<ul>
+  <li><a>Degree</a></li>
+</ul>
+
+<ul>
+  <li>Aug
+    <ul>
+      <li>NOUN: kunumĩwasu, sukuriju, Peporeawsu, iakaŋusuj, neruʔumusu, ɨgasaβusu, ʃetamũjusu, ʃeʔakusu</li>
+      <li>PROPN: Sarawaiusu</li>
+    </ul>
+  </li>
+</ul>
 
 <ul>
   <li><a>Polarity</a></li>
@@ -657,19 +668,6 @@ The development of this treebank is supported by the by European Research Counci
       <li>Temp
         <ul>
           <li>ADV: kori, aʔereme</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li><a>Augm</a>
-    <ul>
-      <li>Yes
-        <ul>
-          <li>NOUN: kunumĩwasu, moitiniŋusu, sukuriju, Peporeawsu, iakaŋusuj, neruʔumusu, ɨgasaβusu, ʃetamũjusu, ʃeʔakusu</li>
-          <li>PROPN: Sarawaiusu</li>
         </ul>
       </li>
     </ul>

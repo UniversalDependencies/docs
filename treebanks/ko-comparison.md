@@ -221,7 +221,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 1 lemmas tagged as auxiliaries (AUX): _</li>
+      <li>This corpus contains 6 lemmas tagged as auxiliaries (AUX): _, 싶, 않, 이, 있, 하</li>
       </ul>
     </td>
   </tr>
@@ -1069,7 +1069,7 @@ udver: '2'
       <h3>Auxiliary Verbs and Copula</h3>
       
       <ul>
-      <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: _.</li>
+      <li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: 이, _.</li>
       </ul>
     </td>
   </tr>
@@ -1086,7 +1086,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: _.</li>
+      <li>This corpus uses 5 lemmas as auxiliaries (<a>aux</a>). Examples: _, 있, 않, 하, 싶.</li>
       </ul>
     </td>
   </tr>

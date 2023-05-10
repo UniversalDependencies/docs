@@ -13,7 +13,7 @@ This relation is universal.
 13 instances of `compound` (59%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.63636363636364.
 
-The following 3 pairs of parts of speech are connected with `compound`: <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt> (11; 50% instances), <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt>-<tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (10; 45% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (1; 5% instances).
+The following 6 pairs of parts of speech are connected with `compound`: <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt> (11; 50% instances), <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt>-<tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (5; 23% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (3; 14% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (1; 5% instances), <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt>-<tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -47,42 +47,22 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 
 
 ~~~ conllu
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 14 compound	color:blue
-1	Το	ο	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	det	_	_
-2	Υπουργείο	υπουργείο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
-3	Αμύνης	άμυνα	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
-4	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	Ιαπωνίας	Ιαπωνία	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
-6	δήλωσε	δηλώνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-7	ότι	ότι	SCONJ	SCONJ	_	9	mark	_	_
-8	είναι	είμαι	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	9	cop	_	_
-9	έτοιμο	έτοιμος	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	6	ccomp	_	_
-10	να	να	AUX	AUX	_	11	aux	_	_
-11	αναχαιτίσει	αναχαιτίζω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	9	acl	_	_
-12	πύραυλο	πύραυλος	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	11	obj	_	_
-13	-	-	PUNCT	PUNCT	_	14	punct	_	_
-14	φορέα	φορέας	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	12	compound	_	_
-15	δορυφόρου	δορυφόρος	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	_
-16	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
-17	Βορείου	βόρειος	ADJ	ADJ	Case=Gen|Gender=Fem|Number=Sing	18	amod	_	_
-18	Κορέας	Κορέα	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	SpaceAfter=No
-19	,	,	PUNCT	PUNCT	_	22	punct	_	_
-20	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
-21	οποίος	οποίος	PRON	PRON	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Rel	24	nsubj:pass	_	_
-22	αναμένεται	αναμένω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	14	acl:relcl	_	_
-23	να	να	AUX	AUX	_	24	aux	_	_
-24	εκτοξευτεί	εκτοξεύω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass	22	csubj:pass	_	_
-25	σ	σε	ADP	AsPpSp	_	27	case	_	_
-26	τα	ο	DET	AtDf	Case=Acc|Gender=Neut|Number=Plur	27	det	_	_
-27	μέσα	μέσο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	24	obl	_	_
-28	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	_	_
-29	επόμενου	επόμενος	ADJ	ADJ	Case=Gen|Gender=Masc|Number=Sing	30	amod	_	_
-30	μήνα	μήνας	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Sing	27	nmod	_	SpaceAfter=No
-31	.	.	PUNCT	PUNCT	_	6	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 compound	color:blue
+1	Αφήστε	αφήνω	VERB	VERB	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	_
+2	το	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	_	_
+3	ένα	ένας	NUM	NUM	Case=Acc|Gender=Neut|Number=Sing|NumType=Card	4	compound	_	_
+4	τρίτο	τρίτος	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Sing|NumType=Ord	1	obj	_	_
+5	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	χρόνου	χρόνος	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+7	αγόρευσης	αγόρευση	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+8	για	για	ADP	ADP	_	10	case	_	_
+9	πραγματικές	πραγματικός	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Plur	10	amod	_	_
+10	συζητήσεις	συζήτηση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	1	obl	_	SpaceAfter=No
+11	.	.	PUNCT	PUNCT	_	1	punct	_	_
 
 ~~~
 

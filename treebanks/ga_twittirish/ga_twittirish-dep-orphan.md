@@ -23,7 +23,7 @@ The following 1 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 24	fgColor:white
 # visual-style 24 28 orphan	color:blue
 1	RT	RT	SYM	_	_	4	parataxis:rt	_	_
-2	@NiallSF	@NiallSF	PROPN	_	_	4	vocative:mention	_	SpaceAfter=No
+2	@user1648	@user1648	PROPN	_	_	4	vocative:mention	_	SpaceAfter=No
 3	:	:	PUNCT	_	_	4	punct	_	_
 4	Sásta	sásta	ADJ	_	_	0	root	_	Lang=ga
 5	go	go	PART	_	_	6	mark:prt	_	Lang=ga

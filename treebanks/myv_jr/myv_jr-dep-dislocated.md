@@ -39,7 +39,7 @@ The following 7 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 3 5 dislocated	color:blue
 1	Покш	покш	ADJ	A	_	2	amod	_	GTtags=|Gloss=big
 2	шишка	шишка	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	3	obj	_	GTtags=Sg,Nom,Indef|Gloss=pine-cone
-3	кандан	кандомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres|Valency=2	0	root	_	GTtags=TV,Ind,Prs,ScSg1|Gloss=bring
+3	кандан	кандомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres	0	root	_	GTtags=TV,Ind,Prs,ScSg1|Gloss=bring
 4	—	—	PUNCT	PUNCT	_	5	punct	_	_
 5	пеште	пеште	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	3	dislocated	_	GTtags=Sg,Nom,Indef|Gloss=nut
 6	марто	марто	ADP	Adp	_	5	case	_	GTtags=COM|Gloss=with|SpaceAfter=No
@@ -57,7 +57,7 @@ The following 7 pairs of parts of speech are connected with `dislocated`: <tt><a
 1	Палько	Палько	PROPN	N	Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	4	dislocated	_	GTtags=Prop,Sem/Sur,Sg,Nom,Indef
 2	кудосонть	кудо	NOUN	N	Case=Ine|Definite=Def|Number=Sing	4	obl:lmod	_	GTtags=Sem/Plc,Sg,Ine,Def
 3	а	а	AUX	Pcle	Polarity=Neg	4	aux:neg	_	GTtags=Neg
-4	неяви	неявомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	0	root	_	GTtags=IV,Ind,Prs,ScSg3|SpaceAfter=No
+4	неяви	неявомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres	0	root	_	GTtags=IV,Ind,Prs,ScSg3|SpaceAfter=No
 5	.	.	PUNCT	CLB	_	4	punct	_	_
 
 ~~~

@@ -11,19 +11,19 @@ It occurs with 2 different values: `Act`, `Pass`.
 
 37297 tokens (23%) have a non-empty value of `Voice`.
 10743 types (25%) occur at least once with a non-empty value of `Voice`.
-2545 lemmas (12%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 2 part-of-speech tags: <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (26136; 16% instances), <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (11161; 7% instances).
+2544 lemmas (12%) occur at least once with a non-empty value of `Voice`.
+The feature is used with 2 part-of-speech tags: <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (26893; 17% instances), <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (10404; 7% instances).
 
 ### `VERB`
 
-26136 <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> tokens (99% of all `VERB` tokens) have a non-empty value of `Voice`.
+26893 <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> tokens (99% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="fi_ftb-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (21609; 83%), <tt><a href="fi_ftb-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (21040; 81%), <tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (16513; 63%), <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (16488; 63%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15260; 58%), <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (14680; 56%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="fi_ftb-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (22307; 83%), <tt><a href="fi_ftb-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (21773; 81%), <tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (17187; 64%), <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (17162; 64%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15773; 59%), <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (15279; 57%).
 
 `VERB` tokens may have the following values of `Voice`:
 
-* `Act` (22947; 88% of non-empty `Voice`): <em>on, oli, ole, olla, tuli, ollut, tulee, ei, sanoi, tehdä</em>
-* `Pass` (3189; 12% of non-empty `Voice`): <em>tehty, tehdään, tarvitaan, ollaan, mennään, otetaan, saadaan, verrattuna, tehtiin, pidetään</em>
+* `Act` (23660; 88% of non-empty `Voice`): <em>on, oli, ole, tulee, tuli, olla, ollut, saa, ei, sanoi</em>
+* `Pass` (3233; 12% of non-empty `Voice`): <em>tehty, tehdään, tarvitaan, saadaan, ollaan, mennään, otetaan, verrattuna, tehtiin, pidetään</em>
 * `EMPTY` (303): <em>sietämätön, aiheuttama, aiheuttamaa, aiheuttamasta, uskomaton, aiheuttamia, edellyttämällä, jalostama, johtama, järjestämiämme</em>
 
 <table>
@@ -160,14 +160,14 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 ### `AUX`
 
-11161 <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `Voice`.
+10404 <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (10634; 95%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8789; 79%), <tt><a href="fi_ftb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (8253; 74%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=3</tt> (8077; 72%), <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (6907; 62%).
+The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9960; 96%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8276; 80%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=3</tt> (7640; 73%), <tt><a href="fi_ftb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (7496; 72%), <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (6308; 61%).
 
 `AUX` tokens may have the following values of `Voice`:
 
-* `Act` (10952; 98% of non-empty `Voice`): <em>on, ei, oli, ovat, en, ole, voi, olisi, olen, eivät</em>
-* `Pass` (209; 2% of non-empty `Voice`): <em>ollaan, voidaan, voitu, oltiin, olla, oltu, voida, voitaisiin, saadaan, oltava</em>
+* `Act` (10239; 98% of non-empty `Voice`): <em>on, ei, oli, ovat, en, ole, voi, olisi, olen, eivät</em>
+* `Pass` (165; 2% of non-empty `Voice`): <em>ollaan, voidaan, voitu, oltiin, olla, oltu, voida, voitaisiin, oltava, ollaanpas</em>
 
 <table>
   <tr><th>Paradigm <i>olla</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>
@@ -315,12 +315,12 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 ## Relations with Agreement in `Voice`
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
-<tt>VERB --[<tt><a href="fi_ftb-dep-aux.html">aux</a></tt>]--> AUX</tt> (5976; 86%),
-<tt>VERB --[<tt><a href="fi_ftb-dep-conj.html">conj</a></tt>]--> VERB</tt> (2145; 91%),
-<tt>VERB --[<tt><a href="fi_ftb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1783; 73%),
-<tt>VERB --[<tt><a href="fi_ftb-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1290; 83%),
+<tt>VERB --[<tt><a href="fi_ftb-dep-aux.html">aux</a></tt>]--> AUX</tt> (5332; 86%),
+<tt>VERB --[<tt><a href="fi_ftb-dep-conj.html">conj</a></tt>]--> VERB</tt> (2149; 90%),
+<tt>VERB --[<tt><a href="fi_ftb-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1936; 85%),
+<tt>VERB --[<tt><a href="fi_ftb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1788; 73%),
 <tt>VERB --[<tt><a href="fi_ftb-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (1146; 92%),
-<tt>VERB --[<tt><a href="fi_ftb-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (215; 85%),
+<tt>VERB --[<tt><a href="fi_ftb-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (217; 85%),
 <tt>VERB --[<tt><a href="fi_ftb-dep-xcomp-ds.html">xcomp:ds</a></tt>]--> VERB</tt> (128; 78%),
 <tt>VERB --[<tt><a href="fi_ftb-dep-cop.html">cop</a></tt>]--> AUX</tt> (90; 54%),
 <tt>VERB --[<tt><a href="fi_ftb-dep-acl.html">acl</a></tt>]--> VERB</tt> (28; 85%),

@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Fut`, `Imp`, `Past`, `Pres`.
 
-24432 tokens (9%) have a non-empty value of `Tense`.
-5500 types (23%) occur at least once with a non-empty value of `Tense`.
-1659 lemmas (10%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 7 part-of-speech tags: <tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (15654; 6% instances), <tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (8761; 3% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (10; 0% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="it_vit-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+24435 tokens (9%) have a non-empty value of `Tense`.
+5501 types (24%) occur at least once with a non-empty value of `Tense`.
+1661 lemmas (11%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 7 part-of-speech tags: <tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (15657; 6% instances), <tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (8761; 3% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (10; 0% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="it_vit-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-15654 <tt><a href="it_vit-pos-VERB.html">VERB</a></tt> tokens (73% of all `VERB` tokens) have a non-empty value of `Tense`.
+15657 <tt><a href="it_vit-pos-VERB.html">VERB</a></tt> tokens (73% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="it_vit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11229; 72%), <tt><a href="it_vit-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7884; 50%), <tt><a href="it_vit-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7860; 50%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="it_vit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11230; 72%), <tt><a href="it_vit-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7885; 50%), <tt><a href="it_vit-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7861; 50%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Fut` (664; 4% of non-empty `Tense`): <em>avrà, saranno, farà, andrà, darà, sarà, partirà, servirà, vedremo, avverrà</em>
 * `Imp` (684; 4% of non-empty `Tense`): <em>era, aveva, sembrava, faceva, andava, sapeva, stava, avevano, erano, avevo</em>
-* `Past` (8134; 52% of non-empty `Tense`): <em>fatto, detto, approvato, previsto, avuto, previsti, deciso, ottenuto, visto, chiesto</em>
-* `Pres` (6172; 39% of non-empty `Tense`): <em>è, ha, fa, hanno, dice, sono, scade, sembra, va, tratta</em>
+* `Past` (8136; 52% of non-empty `Tense`): <em>fatto, detto, approvato, previsto, avuto, previsti, deciso, ottenuto, visto, chiesto</em>
+* `Pres` (6173; 39% of non-empty `Tense`): <em>è, ha, fa, hanno, dice, sono, scade, sembra, va, tratta</em>
 * `EMPTY` (5734): <em>fare, far, avere, dare, dire, partire, chiedere, andare, derivanti, trovare</em>
 
 <table>
@@ -91,7 +91,7 @@ The most frequent other feature values with which `NOUN` and `Tense` co-occurred
 `NOUN` tokens may have the following values of `Tense`:
 
 * `Pres` (10; 100% of non-empty `Tense`): <em>redigente, controllanti, cauzionante, dice, vedo</em>
-* `EMPTY` (57741): <em>anni, miliardi, anno, n., parte, legge, società, posti, presidente, art.</em>
+* `EMPTY` (57736): <em>anni, miliardi, anno, n., parte, legge, società, posti, presidente, art.</em>
 
 ### `ADJ`
 
@@ -102,7 +102,7 @@ The most frequent other feature values with which `ADJ` and `Tense` co-occurred:
 `ADJ` tokens may have the following values of `Tense`:
 
 * `Past` (4; 100% of non-empty `Tense`): <em>abilitati, illegittima, morta, sommato</em>
-* `EMPTY` (20120): <em>primo, precedente, altri, nuovo, grande, economico, stesso, altre, nuova, nuovi</em>
+* `EMPTY` (20119): <em>primo, precedente, altri, nuovo, grande, economico, stesso, altre, nuova, nuovi</em>
 
 ### `ADV`
 
@@ -133,12 +133,12 @@ The most frequent other feature values with which `PRON` and `Tense` co-occurred
 `PRON` tokens may have the following values of `Tense`:
 
 * `Past` (1; 100% of non-empty `Tense`): <em>adattate</em>
-* `EMPTY` (9801): <em>che, si, cui, ci, lo, quello, c', ne, mi, quella</em>
+* `EMPTY` (9803): <em>che, si, cui, ci, lo, quello, c', ne, mi, quella</em>
 
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="it_vit-dep-conj.html">conj</a></tt>]--> VERB</tt> (991; 71%),
+<tt>VERB --[<tt><a href="it_vit-dep-conj.html">conj</a></tt>]--> VERB</tt> (992; 71%),
 <tt>VERB --[<tt><a href="it_vit-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 100%),
 <tt>AUX --[<tt><a href="it_vit-dep-conj.html">conj</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="it_vit-dep-mark.html">mark</a></tt>]--> VERB</tt> (1; 100%),

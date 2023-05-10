@@ -24,4 +24,4 @@ aux(ਤੁਰਿਆ, ਜਾਵੇਗਾ)
 obl:agent(walked, me)
 aux(walked, will.be.able)
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:38 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:04:27 CEST -->

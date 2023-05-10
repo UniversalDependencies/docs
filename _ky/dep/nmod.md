@@ -24,3 +24,4 @@ nmod(врачтар, Кыргыз)
 
 For possessive constructions we use [nmod:poss](nmod-poss).
 
+<!-- Interlanguage links updated Út 9. května 2023, 20:04:19 CEST -->

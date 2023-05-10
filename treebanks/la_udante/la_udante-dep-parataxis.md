@@ -81,14 +81,14 @@ The following 2 pairs of parts of speech are connected with `parataxis`: <tt><a 
 37	unum	unus	DET	dpmsa	Case=Acc|Gender=Masc|InflClass=LatPron|Number=Sing|NumType=Card|NumValue=1|PronType=Ind	38	obj	_	_
 38	vidimus	uideo	VERB	va2irp1	Aspect=Perf|InflClass=LatE|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	8	parataxis	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
 39	nitentem	nitor	VERB	ams2a	Aspect=Imp|Case=Acc|Gender=Masc|InflClass=LatX|InflClass[nominal]=IndEurI|Number=Sing|VerbForm=Part|Voice=Act	38	advcl:pred	_	TraditionalMood=Participium|TraditionalTense=Praesens
-40	divertere	diuerto	VERB	va3fp	Aspect=Imp|VerbForm=Vnoun|Voice=Act	38	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+40	divertere	diuerto	VERB	va3fp	Aspect=Imp|VerbForm=Inf|Voice=Act	38	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 41	a	a	ADP	e	_	42	case	_	_
 42	materno	maternus	ADJ	ans1b	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	40	obl	_	_
 43	et	et	CCONJ	co	_	47	cc	_	_
 44	ad	ad	ADP	e	_	46	case	_	_
 45	curiale	curialis	ADJ	ans2a	Case=Acc|Gender=Neut|InflClass=IndEurI|Number=Sing	46	amod	_	_
 46	vulgare	uulgare	NOUN	sns3a	Case=Acc|Gender=Neut|InflClass=IndEurI|Number=Sing	47	obl	_	_
-47	intendere	intendo	VERB	va3fp	Aspect=Imp|VerbForm=Vnoun|Voice=Act	40	conj	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Praesens
+47	intendere	intendo	VERB	va3fp	Aspect=Imp|VerbForm=Inf|Voice=Act	40	conj	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Praesens
 48	,	,	PUNCT	Pu	_	50	punct	_	_
 49	videlicet	uidelicet	CCONJ	r	Compound=Yes|VerbForm=Fin	50	cc	_	_
 50	Ildebrandinum	ildebrandinus	PROPN	Sms2a	Case=Acc|Gender=Masc|InflClass=IndEurO|NameType=Giv|Number=Sing	37	conj:expl	_	_

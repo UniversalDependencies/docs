@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Niko Partanen, Rogier Blokland, Michael Rießler, Jack Rueter.
 
 Repository: [UD_Komi_Zyrian-IKDP](https://github.com/UniversalDependencies/UD_Komi_Zyrian-IKDP)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkpv_ikdp211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkpv_ikdp212)<br />
+Download all treebanks: [UD 2.12](/#download)
 
 License: CC BY-SA 4.0
 
@@ -85,7 +85,7 @@ The transcription is also published in Zenodo:
 
 ## Features
 
-[AdpType](kpv_ikdp-feat-AdpType.html) – [AdvType](kpv_ikdp-feat-AdvType.html) – [Case](kpv_ikdp-feat-Case.html) – [Clitic](kpv_ikdp-feat-Clitic.html) – [Connegative](kpv_ikdp-feat-Connegative.html) – [Definite](kpv_ikdp-feat-Definite.html) – [Degree](kpv_ikdp-feat-Degree.html) – [Derivation](kpv_ikdp-feat-Derivation.html) – [Evident](kpv_ikdp-feat-Evident.html) – [Mood](kpv_ikdp-feat-Mood.html) – [NounType](kpv_ikdp-feat-NounType.html) – [Number](kpv_ikdp-feat-Number.html) – [Number[psor]](kpv_ikdp-feat-Number-psor.html) – [Number[subj]](kpv_ikdp-feat-Number-subj.html) – [NumType](kpv_ikdp-feat-NumType.html) – [Person](kpv_ikdp-feat-Person.html) – [Person[psor]](kpv_ikdp-feat-Person-psor.html) – [Polarity](kpv_ikdp-feat-Polarity.html) – [PronType](kpv_ikdp-feat-PronType.html) – [Reflex](kpv_ikdp-feat-Reflex.html) – [Tense](kpv_ikdp-feat-Tense.html) – [Valency](kpv_ikdp-feat-Valency.html) – [Variant](kpv_ikdp-feat-Variant.html) – [VerbForm](kpv_ikdp-feat-VerbForm.html) – [Voice](kpv_ikdp-feat-Voice.html)
+[AdpType](kpv_ikdp-feat-AdpType.html) – [AdvType](kpv_ikdp-feat-AdvType.html) – [Case](kpv_ikdp-feat-Case.html) – [Clitic](kpv_ikdp-feat-Clitic.html) – [Connegative](kpv_ikdp-feat-Connegative.html) – [Definite](kpv_ikdp-feat-Definite.html) – [Degree](kpv_ikdp-feat-Degree.html) – [Derivation](kpv_ikdp-feat-Derivation.html) – [Evident](kpv_ikdp-feat-Evident.html) – [Mood](kpv_ikdp-feat-Mood.html) – [NounType](kpv_ikdp-feat-NounType.html) – [Number](kpv_ikdp-feat-Number.html) – [Number[psor]](kpv_ikdp-feat-Number-psor.html) – [Number[subj]](kpv_ikdp-feat-Number-subj.html) – [NumType](kpv_ikdp-feat-NumType.html) – [Person](kpv_ikdp-feat-Person.html) – [Person[psor]](kpv_ikdp-feat-Person-psor.html) – [Polarity](kpv_ikdp-feat-Polarity.html) – [PronType](kpv_ikdp-feat-PronType.html) – [Reflex](kpv_ikdp-feat-Reflex.html) – [Tense](kpv_ikdp-feat-Tense.html) – [Variant](kpv_ikdp-feat-Variant.html) – [VerbForm](kpv_ikdp-feat-VerbForm.html) – [Voice](kpv_ikdp-feat-Voice.html)
 
 ## Relations
 
@@ -907,18 +907,6 @@ The transcription is also published in Zenodo:
           <li>PROPN: Ляпиныс</li>
           <li>VERB-Conv: велӧдчигӧныс, локтігӧныс, мунігӧныс</li>
           <li>VERB-Vnoun: тӧдэмъяссэ</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li><a>Valency</a>
-    <ul>
-      <li>2
-        <ul>
-          <li>VERB: вуджедтэг</li>
         </ul>
       </li>
     </ul>

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-85 nodes (4%) are attached to their parents as `det`.
+290 nodes (3%) are attached to their parents as `det`.
 
-75 instances of `det` (88%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.2.
+274 instances of `det` (94%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.23448275862069.
 
-The following 6 pairs of parts of speech are connected with `det`: <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-DET.html">DET</a></tt> (68; 80% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-DET.html">DET</a></tt> (11; 13% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="yrl_complin-pos-NUM.html">NUM</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (1; 1% instances).
+The following 8 pairs of parts of speech are connected with `det`: <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-DET.html">DET</a></tt> (260; 90% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-DET.html">DET</a></tt> (18; 6% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yrl_complin-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="yrl_complin-pos-NUM.html">NUM</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -55,18 +55,17 @@ The following 6 pairs of parts of speech are connected with `det`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 1 det	color:blue
-1	Mayé	mayé	ADV	ADVR	_	3	det	_	TokenRange=0:4
-2	waá	waá	PRON	REL	Number=Sing	1	fixed	_	TokenRange=5:8
-3	nheenga	nheenga	NOUN	N	Number=Sing	6	obl	_	TokenRange=9:16
-4	rupí	rupí	ADP	ADP	_	3	case	_	TokenRange=17:21
-5	yasú	sú	AUX	AUXFR	Number=Plur|Person=1|VerbForm=Fin	6	aux	_	TokenRange=22:26
-6	yayumbué	yumbué	VERB	V	Number=Plur|Person=1|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=27:35
-7	?	?	PUNCT	PUNCT	_	6	punct	_	SpaceAfter=No|TokenRange=35:36
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 det	color:blue
+1	Aintá	aintá	PRON	PRON	Number=Plur|Person=3|PronType=Prs	2	nsubj	_	TokenRange=0:5
+2	usú	sú	VERB	V	Person=3|VerbForm=Fin	0	root	_	TokenRange=6:9
+3	nhaã	nhaã	PRON	DEMS	Deixis=Remt|Number=Sing|PronType=Dem	4	det	_	TokenRange=10:14
+4	tatatingawasú	tatatinga	NOUN	N	Degree=Aug|Number=Sing	2	obl	_	TokenRange=15:28
+5	piterarupí	piterarupí	ADP	ADP	_	4	case	_	SpaceAfter=No|TokenRange=29:39
+6	…	…	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=39:40
 
 ~~~
 

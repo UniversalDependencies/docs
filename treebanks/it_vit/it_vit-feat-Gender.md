@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Fem`, `Masc`.
 
-116423 tokens (42%) have a non-empty value of `Gender`.
-12735 types (54%) occur at least once with a non-empty value of `Gender`.
-8514 lemmas (54%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 14 part-of-speech tags: <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (54626; 20% instances), <tt><a href="it_vit-pos-DET.html">DET</a></tt> (37731; 13% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (12475; 4% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (7831; 3% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (2754; 1% instances), <tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (668; 0% instances), <tt><a href="it_vit-pos-ADV.html">ADV</a></tt> (156; 0% instances), <tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (99; 0% instances), <tt><a href="it_vit-pos-X.html">X</a></tt> (59; 0% instances), <tt><a href="it_vit-pos-ADP.html">ADP</a></tt> (8; 0% instances), <tt><a href="it_vit-pos-SCONJ.html">SCONJ</a></tt> (8; 0% instances), <tt><a href="it_vit-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="it_vit-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+116419 tokens (42%) have a non-empty value of `Gender`.
+12732 types (54%) occur at least once with a non-empty value of `Gender`.
+8515 lemmas (54%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 14 part-of-speech tags: <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (54621; 19% instances), <tt><a href="it_vit-pos-DET.html">DET</a></tt> (37733; 13% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (12473; 4% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (7833; 3% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (2754; 1% instances), <tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (668; 0% instances), <tt><a href="it_vit-pos-ADV.html">ADV</a></tt> (156; 0% instances), <tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (98; 0% instances), <tt><a href="it_vit-pos-X.html">X</a></tt> (59; 0% instances), <tt><a href="it_vit-pos-ADP.html">ADP</a></tt> (8; 0% instances), <tt><a href="it_vit-pos-SCONJ.html">SCONJ</a></tt> (8; 0% instances), <tt><a href="it_vit-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="it_vit-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-54626 <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> tokens (95% of all `NOUN` tokens) have a non-empty value of `Gender`.
+54621 <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> tokens (95% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="it_vit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (34464; 63%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="it_vit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (34458; 63%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
-* `Fem` (24064; 44% of non-empty `Gender`): <em>società, attività, parte, legge, titolarità, provincia, città, sede, domanda, gestione</em>
-* `Masc` (30562; 56% of non-empty `Gender`): <em>anni, miliardi, anno, posti, presidente, punto, governo, stato, gruppo, lavoro</em>
+* `Fem` (24060; 44% of non-empty `Gender`): <em>società, attività, parte, legge, titolarità, provincia, città, sede, domanda, gestione</em>
+* `Masc` (30561; 56% of non-empty `Gender`): <em>anni, miliardi, anno, posti, presidente, punto, governo, stato, gruppo, lavoro</em>
 * `EMPTY` (3125): <em>n., art., insegnanti, dpr, a, mila, b, docenti, dl, via</em>
 
 <table>
@@ -32,18 +32,18 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
   <tr><td><tt><tt><a href="it_vit-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>fini</em></td><td></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (5506) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (5507) occur only with one value of `Gender`.
 
 ### `DET`
 
-37731 <tt><a href="it_vit-pos-DET.html">DET</a></tt> tokens (86% of all `DET` tokens) have a non-empty value of `Gender`.
+37733 <tt><a href="it_vit-pos-DET.html">DET</a></tt> tokens (86% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="it_vit-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (34988; 93%), <tt><a href="it_vit-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (30875; 82%), <tt><a href="it_vit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (25952; 69%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="it_vit-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (34990; 93%), <tt><a href="it_vit-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (30875; 82%), <tt><a href="it_vit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (25954; 69%).
 
 `DET` tokens may have the following values of `Gender`:
 
-* `Fem` (15861; 42% of non-empty `Gender`): <em>la, le, una, un', sua, questa, tutte, queste, sue, quella</em>
-* `Masc` (21870; 58% of non-empty `Gender`): <em>il, i, un, gli, lo, questo, suo, tutti, questi, uno</em>
+* `Fem` (15862; 42% of non-empty `Gender`): <em>la, le, una, un', sua, questa, tutte, queste, sue, quella</em>
+* `Masc` (21871; 58% of non-empty `Gender`): <em>il, i, un, gli, lo, questo, suo, tutti, questi, uno</em>
 * `EMPTY` (6179): <em>l', loro, ogni, tale, il, qualche, tali, che, quest', cui</em>
 
 <table>
@@ -56,15 +56,15 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 ### `ADJ`
 
-12475 <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> tokens (62% of all `ADJ` tokens) have a non-empty value of `Gender`.
+12473 <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> tokens (62% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="it_vit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7817; 63%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="it_vit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7816; 63%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
-* `Fem` (5641; 45% of non-empty `Gender`): <em>altre, nuova, italiana, altra, nuove, politica, stessa, pubblica, economica, politiche</em>
+* `Fem` (5639; 45% of non-empty `Gender`): <em>altre, nuova, italiana, altra, nuove, politica, stessa, pubblica, economica, politiche</em>
 * `Masc` (6834; 55% of non-empty `Gender`): <em>altri, nuovo, economico, stesso, nuovi, scorso, altro, finanziario, ultimo, italiano</em>
-* `EMPTY` (7649): <em>precedente, primo, grande, presente, ex, netto, generale, grandi, nazionale, sociale</em>
+* `EMPTY` (7650): <em>precedente, primo, grande, presente, ex, netto, generale, grandi, nazionale, sociale</em>
 
 <table>
   <tr><th>Paradigm <i>altro</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -76,15 +76,15 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 ### `VERB`
 
-7831 <tt><a href="it_vit-pos-VERB.html">VERB</a></tt> tokens (37% of all `VERB` tokens) have a non-empty value of `Gender`.
+7833 <tt><a href="it_vit-pos-VERB.html">VERB</a></tt> tokens (37% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="it_vit-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (7831; 100%), <tt><a href="it_vit-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (7831; 100%), <tt><a href="it_vit-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (7770; 99%), <tt><a href="it_vit-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (7770; 99%), <tt><a href="it_vit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5632; 72%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="it_vit-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (7833; 100%), <tt><a href="it_vit-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (7833; 100%), <tt><a href="it_vit-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (7772; 99%), <tt><a href="it_vit-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (7772; 99%), <tt><a href="it_vit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5633; 72%).
 
 `VERB` tokens may have the following values of `Gender`:
 
-* `Fem` (2288; 29% of non-empty `Gender`): <em>prevista, indicate, presentata, comprese, effettuata, fatta, richiesta, data, previste, richieste</em>
+* `Fem` (2290; 29% of non-empty `Gender`): <em>prevista, indicate, presentata, comprese, effettuata, fatta, richiesta, data, previste, richieste</em>
 * `Masc` (5543; 71% of non-empty `Gender`): <em>fatto, detto, approvato, previsto, avuto, previsti, deciso, ottenuto, visto, dato</em>
-* `EMPTY` (13557): <em>è, ha, fare, fa, far, hanno, dice, sono, avere, scade</em>
+* `EMPTY` (13558): <em>è, ha, fare, fa, far, hanno, dice, sono, avere, scade</em>
 
 <table>
   <tr><th>Paradigm <i>fare</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -102,7 +102,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 * `Fem` (717; 26% of non-empty `Gender`): <em>quella, la, quelle, le, una, essa, questa, queste, altra, esse</em>
 * `Masc` (2037; 74% of non-empty `Gender`): <em>lo, quello, quale, quelli, questo, tutti, gli, li, lui, quanto</em>
-* `EMPTY` (7048): <em>che, si, cui, ci, c', ne, mi, dove, chi, quali</em>
+* `EMPTY` (7050): <em>che, si, cui, ci, c', ne, mi, dove, chi, quali</em>
 
 <table>
   <tr><th>Paradigm <i>quello</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -152,15 +152,15 @@ The most frequent other feature values with which `ADV` and `Gender` co-occurred
 
 ### `NUM`
 
-99 <tt><a href="it_vit-pos-NUM.html">NUM</a></tt> tokens (2% of all `NUM` tokens) have a non-empty value of `Gender`.
+98 <tt><a href="it_vit-pos-NUM.html">NUM</a></tt> tokens (2% of all `NUM` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="it_vit-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (99; 100%).
+The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="it_vit-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (98; 100%).
 
 `NUM` tokens may have the following values of `Gender`:
 
-* `Fem` (36; 36% of non-empty `Gender`): <em>un', terza, una, mezza</em>
+* `Fem` (35; 36% of non-empty `Gender`): <em>un', terza, una, mezza</em>
 * `Masc` (63; 64% of non-empty `Gender`): <em>miliardi, milioni, un, primi, terzi, bis, rientro, uno</em>
-* `EMPTY` (6295): <em>due, tre, cento, 15, 1, 1973, 2, quattro, 30, 6</em>
+* `EMPTY` (6296): <em>due, tre, cento, 15, 1, 5, 1973, 2, 20, 30</em>
 
 <table>
   <tr><th>Paradigm <i>uno</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -177,7 +177,7 @@ The most frequent other feature values with which `X` and `Gender` co-occurred: 
 
 * `Fem` (9; 15% of non-empty `Gender`): <em>area, city, deregulation, force, legis, mountain, ope, private, task</em>
 * `Masc` (50; 85% of non-empty `Gender`): <em>personal, station, work, computer, bond, open, space, business, condicio, dragon</em>
-* `EMPTY` (347): <em>joint, venture, baby, cd, sitter, rom, condicio, est, facile, news</em>
+* `EMPTY` (343): <em>joint, venture, baby, cd, sitter, rom, condicio, est, facile, news</em>
 
 `Gender` seems to be **lexical feature** of `X`. 100% lemmas (27) occur only with one value of `Gender`.
 
@@ -227,14 +227,14 @@ The most frequent other feature values with which `INTJ` and `Gender` co-occurre
 `PUNCT` tokens may have the following values of `Gender`:
 
 * `Fem` (1; 100% of non-empty `Gender`): <em>le</em>
-* `EMPTY` (31580): <em>,, ., ", ), -, (, :, ?, ;, <</em>
+* `EMPTY` (31584): <em>,, ., ", ), -, (, :, ?, ;, <</em>
 
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="it_vit-dep-det.html">det</a></tt>]--> DET</tt> (30334; 83%),
-<tt>NOUN --[<tt><a href="it_vit-dep-amod.html">amod</a></tt>]--> ADJ</tt> (9791; 61%),
-<tt>NOUN --[<tt><a href="it_vit-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2593; 58%),
+<tt>NOUN --[<tt><a href="it_vit-dep-amod.html">amod</a></tt>]--> ADJ</tt> (9788; 61%),
+<tt>NOUN --[<tt><a href="it_vit-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2595; 58%),
 <tt>NOUN --[<tt><a href="it_vit-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1307; 76%),
 <tt>VERB --[<tt><a href="it_vit-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (1075; 93%),
 <tt>NOUN --[<tt><a href="it_vit-dep-det-poss.html">det:poss</a></tt>]--> DET</tt> (961; 77%),

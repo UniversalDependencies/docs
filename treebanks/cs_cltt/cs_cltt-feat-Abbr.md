@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (27; 100% of non-empty `Abbr`): <em>Kč, USD, m, m2, ha, t, ČSSR</em>
-* `EMPTY` (11265): <em>jednotky, jednotka, majetku, období, ocenění, účetnictví, položka, závěrky, dni, ustanovení</em>
+* `EMPTY` (11035): <em>jednotky, jednotka, majetku, období, ocenění, účetnictví, položka, dni, závěrky, ustanovení</em>
 
 ### `ADJ`
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (4; 100% of non-empty `Abbr`): <em>něm</em>
-* `EMPTY` (6768): <em>účetní, účetních, účetního, konsolidované, konsolidující, finanční, účetním, povinny, výroční, právní</em>
+* `EMPTY` (6639): <em>účetní, účetních, účetního, konsolidované, konsolidující, finanční, účetním, povinny, právní, výroční</em>
 
 ### `ADV`
 
@@ -45,7 +45,7 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (3; 100% of non-empty `Abbr`): <em>něm</em>
-* `EMPTY` (787): <em>dále, zejména, popřípadě, jinak, pouze, kdy, též, například, tak, více</em>
+* `EMPTY` (772): <em>dále, zejména, popřípadě, jinak, pouze, kdy, též, například, tak, více</em>
 
 ### `DET`
 
@@ -56,7 +56,7 @@ The most frequent other feature values with which `DET` and `Abbr` co-occurred: 
 `DET` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>t</em>
-* `EMPTY` (1160): <em>které, jejich, která, jeho, této, tohoto, který, těchto, tyto, tato</em>
+* `EMPTY` (1134): <em>které, jejich, která, jeho, této, tohoto, který, těchto, tyto, tato</em>
 
 ## Relations with Agreement in `Abbr`
 

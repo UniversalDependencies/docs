@@ -120,8 +120,8 @@ The following 3 pairs of parts of speech are connected with `dislocated:obl`: <t
 8	hec	hic	DET	ddipna	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Plur|PronType=Dem	6	obl	_	SpaceAfter=No
 9	:	:	PUNCT	Pu	_	6	punct	_	_
 10	«	«	PUNCT	Pu	_	24	punct	_	SpaceAfter=No
-11	Quando	quando	ADV	r	AdvType=Tim|PronType=Rel	24	advmod:tmod	_	_
-12	misi	mitto	VERB	va3irs1	Aspect=Perf|InflClass=LatX|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	11	acl:relcl	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
+11	Quando	quando	ADV	r	AdvType=Tim|PronType=Rel	12	advmod:tmod	_	_
+12	misi	mitto	VERB	va3irs1	Aspect=Perf|InflClass=LatX|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	24	advcl:relcl	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
 13	vos	tu	PRON	ppp2pma	Case=Acc|InflClass=LatAnom|Number=Plur|Person=2|PronType=Prs	12	obj	_	_
 14	sine	sine	ADP	e	_	15	case	_	_
 15	sacculo	sacculus	NOUN	sms2b	Case=Abl|Degree=Dim|Gender=Masc|InflClass=IndEurO|Number=Sing	12	obl	_	_
@@ -131,7 +131,7 @@ The following 3 pairs of parts of speech are connected with `dislocated:obl`: <t
 19	calciamentis	calciamentum	NOUN	snp2b	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Plur	15	conj	_	SpaceAfter=No
 20	,	,	PUNCT	Pu	_	24	punct	_	_
 21	num	num	PART	rt	PartType=Int	24	discourse	_	_
-22	quid	quid	ADV	rt	PronType=Rel	24	advmod	_	_
+22	quid	quid	ADV	rt	PronType=Int	24	advmod	_	_
 23	aliquid	aliquis	PRON	dinsnn	Case=Nom|Compound=Yes|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Ind	24	nsubj	_	_
 24	defuit	desum	VERB	va5irs3	Aspect=Perf|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	dislocated:obl	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
 25	vobis	tu	PRON	ppp2pmd	Case=Dat|InflClass=LatAnom|Number=Plur|Person=2|PronType=Prs	24	obl:arg	_	SpaceAfter=No

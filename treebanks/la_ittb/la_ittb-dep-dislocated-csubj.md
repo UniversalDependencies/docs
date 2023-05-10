@@ -46,7 +46,7 @@ The following 1 pairs of parts of speech are connected with `dislocated:csubj`: 
 21	notis	nosco	VERB	L2|modM|tem4|grp1|casO|gen3	Aspect=Perf|Case=Abl|Gender=Neut|InflClass=LatX|InflClass[nominal]=IndEurO|Number=Plur|VerbForm=Part|Voice=Pass	15	acl	_	TraditionalMood=Participium|TraditionalTense=Perfectum
 22	non	non	PART	O4	Polarity=Neg	23	advmod:neg	_	_
 23	recte	recte	ADV	B1|grn1|casG	_	24	advmod	_	_
-24	procedere	procedo	VERB	L3|modH|tem1	Aspect=Imp|InflClass=LatX|VerbForm=Vnoun|Voice=Act	4	csubj:relcl	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Praesens
+24	procedere	procedo	VERB	L3|modH|tem1	Aspect=Imp|InflClass=LatX|VerbForm=Inf|Voice=Act	4	csubj:relcl	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Praesens
 25	.	.	PUNCT	Punc	_	4	punct	_	_
 
 ~~~

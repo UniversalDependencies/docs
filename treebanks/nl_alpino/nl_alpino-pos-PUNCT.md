@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Dutch-Alpino: POS Tags: `PUNCT`
 
 There are 20 `PUNCT` lemmas (0%), 20 `PUNCT` types (0%) and 22612 `PUNCT` tokens (11%).
-Out of 16 observed tags, the rank of `PUNCT` is: 14 in number of lemmas, 15 in number of types and 4 in number of tokens.
+Out of 16 observed tags, the rank of `PUNCT` is: 15 in number of lemmas, 16 in number of types and 4 in number of tokens.
 
 The 10 most frequent `PUNCT` lemmas: <em>., ,, ?, ", (, ), :, -, ', !</em>
 
@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>.</em> (<tt><a href="nl_alpino-pos-PU
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.206032).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.220969).
 
 The 1st highest number of forms (1) was observed with the lemma “!”: <em>!</em>.
 
@@ -66,17 +66,17 @@ The 3rd highest number of forms (1) was observed with the lemma “"”: <em>"</
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="nl_alpino-dep-punct.html">punct</a></tt> (22612; 100% instances)
 
-Parents of `PUNCT` nodes belong to 16 different parts of speech: <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (13567; 60% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> (4275; 19% instances), <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt> (1413; 6% instances), <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> (1396; 6% instances), <tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (563; 2% instances), <tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt> (378; 2% instances), <tt><a href="nl_alpino-pos-SYM.html">SYM</a></tt> (308; 1% instances), <tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt> (300; 1% instances), <tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt> (93; 0% instances), <tt><a href="nl_alpino-pos-DET.html">DET</a></tt> (86; 0% instances), <tt><a href="nl_alpino-pos-INTJ.html">INTJ</a></tt> (78; 0% instances), <tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (50; 0% instances), <tt><a href="nl_alpino-pos-X.html">X</a></tt> (44; 0% instances), <tt><a href="nl_alpino-pos-CCONJ.html">CCONJ</a></tt> (36; 0% instances), <tt><a href="nl_alpino-pos-SCONJ.html">SCONJ</a></tt> (17; 0% instances), <tt><a href="nl_alpino-pos-PUNCT.html">PUNCT</a></tt> (8; 0% instances)
+Parents of `PUNCT` nodes belong to 16 different parts of speech: <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (13571; 60% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> (4201; 19% instances), <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt> (1425; 6% instances), <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> (1366; 6% instances), <tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (564; 2% instances), <tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt> (376; 2% instances), <tt><a href="nl_alpino-pos-SYM.html">SYM</a></tt> (366; 2% instances), <tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt> (301; 1% instances), <tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt> (92; 0% instances), <tt><a href="nl_alpino-pos-DET.html">DET</a></tt> (92; 0% instances), <tt><a href="nl_alpino-pos-INTJ.html">INTJ</a></tt> (80; 0% instances), <tt><a href="nl_alpino-pos-X.html">X</a></tt> (70; 0% instances), <tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (50; 0% instances), <tt><a href="nl_alpino-pos-CCONJ.html">CCONJ</a></tt> (34; 0% instances), <tt><a href="nl_alpino-pos-SCONJ.html">SCONJ</a></tt> (17; 0% instances), <tt><a href="nl_alpino-pos-PUNCT.html">PUNCT</a></tt> (7; 0% instances)
 
 22608 (100%) `PUNCT` nodes are leaves.
 
-0 (0%) `PUNCT` nodes have one child.
+1 (0%) `PUNCT` nodes have one child.
 
-4 (0%) `PUNCT` nodes have two children.
+3 (0%) `PUNCT` nodes have two children.
 
 The highest child degree of a `PUNCT` node is 2.
 
-Children of `PUNCT` nodes are attached using 1 different relations: <tt><a href="nl_alpino-dep-punct.html">punct</a></tt> (8; 100% instances)
+Children of `PUNCT` nodes are attached using 1 different relations: <tt><a href="nl_alpino-dep-punct.html">punct</a></tt> (7; 100% instances)
 
-Children of `PUNCT` nodes belong to 1 different parts of speech: <tt><a href="nl_alpino-pos-PUNCT.html">PUNCT</a></tt> (8; 100% instances)
+Children of `PUNCT` nodes belong to 1 different parts of speech: <tt><a href="nl_alpino-pos-PUNCT.html">PUNCT</a></tt> (7; 100% instances)
 

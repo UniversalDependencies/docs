@@ -41,7 +41,7 @@ The following 12 pairs of parts of speech are connected with `fixed`: <tt><a hre
 17	.	.	PUNCT	FS	_	16	punct	_	_
 18	[	[	PUNCT	FB	_	19	punct	_	SpaceAfter=No
 19	xanax	xanax	SYM	SYM	_	14	parataxis	_	SpaceAfter=No
-20	]	]	PUNCT	FB	_	19	punct	_	SpaceAfter=\n
+20	]	]	PUNCT	FB	_	19	punct	_	SpacesAfter=\n
 
 ~~~
 

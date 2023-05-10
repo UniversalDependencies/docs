@@ -54,4 +54,4 @@ See also [here](../../sla/pos/PRON.html) for a Slavic-wide discussion of the dis
 
 - [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a determiner?](http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsADeterminer.htm)
 - [Wikipedia](http://en.wikipedia.org/wiki/Determiner)
-<!-- Interlanguage links updated Po lis 14 15:34:31 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:24 CEST -->

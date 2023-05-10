@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-96 nodes (7%) are attached to their parents as `obl`.
+103 nodes (7%) are attached to their parents as `obl`.
 
-94 instances of `obl` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.9375.
+101 instances of `obl` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.98058252427184.
 
-The following 6 pairs of parts of speech are connected with `obl`: <tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt> (67; 70% instances), <tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt> (12; 13% instances), <tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sah_yktdt-pos-PRON.html">PRON</a></tt> (7; 7% instances), <tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sah_yktdt-pos-PRON.html">PRON</a></tt> (7; 7% instances), <tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sah_yktdt-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="sah_yktdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `obl`: <tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt> (71; 69% instances), <tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt> (13; 13% instances), <tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sah_yktdt-pos-PRON.html">PRON</a></tt> (9; 9% instances), <tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sah_yktdt-pos-PRON.html">PRON</a></tt> (7; 7% instances), <tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sah_yktdt-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="sah_yktdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -46,17 +46,16 @@ The following 6 pairs of parts of speech are connected with `obl`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 1 obl	color:blue
-1	Биһиэхэ	биһиги	PRON	pron	Case=Dat|Number=Plur|Person=1|PronType=Prs	5	obl	_	_
-2	биир	биир	NUM	num	NumType=Card	5	nummod	_	_
-3	улахан	улахан	ADJ	adj	_	5	amod	_	_
-4	алтан	алтан	ADJ	adj	_	5	amod	_	_
-5	сылабаар	сылабаар	NOUN	n	Case=Nom|Number=Sing	0	root	_	_
-6	баар	баар	AUX	aux	_	5	aux	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 obl	color:blue
+1	Кыра	кыра	ADJ	adj	_	2	amod	_	_
+2	оҕо	оҕо	NOUN	n	Case=Nom|Number=Sing	4	nsubj	_	_
+3	ханна	ханна	PRON	pronint	PronType=Int	4	obl	_	_
+4	үөрэнэрий	үөрэн	VERB	vi	Int=Yes|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
+5	?	?	PUNCT	punct	_	4	punct	_	_
 
 ~~~
 

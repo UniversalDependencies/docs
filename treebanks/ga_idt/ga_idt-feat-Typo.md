@@ -9,28 +9,28 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-262 tokens (0%) have a non-empty value of `Typo`.
-233 types (2%) occur at least once with a non-empty value of `Typo`.
-215 lemmas (2%) occur at least once with a non-empty value of `Typo`.
-The feature is used with 11 part-of-speech tags: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (157; 0% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (33; 0% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (22; 0% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (18; 0% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (9; 0% instances), <tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (9; 0% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="ga_idt-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="ga_idt-pos-PART.html">PART</a></tt> (1; 0% instances).
+266 tokens (0%) have a non-empty value of `Typo`.
+237 types (2%) occur at least once with a non-empty value of `Typo`.
+219 lemmas (2%) occur at least once with a non-empty value of `Typo`.
+The feature is used with 11 part-of-speech tags: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (158; 0% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (33; 0% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (22; 0% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (19; 0% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (11; 0% instances), <tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (9; 0% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="ga_idt-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="ga_idt-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-157 <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Typo`.
+158 <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (133; 85%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (118; 75%), <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (111; 71%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (103; 66%), <tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (98; 62%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (80; 51%).
+The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (134; 85%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (119; 75%), <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (111; 70%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (103; 65%), <tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (97; 61%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (80; 51%).
 
 `NOUN` tokens may have the following values of `Typo`:
 
-* `Yes` (157; 100% of non-empty `Typo`): <em>reachtáil, deileáil, diospóidí, gniomhú, oidreachta, sharú, taibléidí, vóltas, éadochas, Chlarú</em>
+* `Yes` (158; 100% of non-empty `Typo`): <em>reachtáil, deileáil, diospóidí, gniomhú, oidreachta, sharú, taibléidí, vóltas, éadochas, Chlarú</em>
 
-`Typo` seems to be **lexical feature** of `NOUN`. 100% lemmas (141) occur only with one value of `Typo`.
+`Typo` seems to be **lexical feature** of `NOUN`. 100% lemmas (142) occur only with one value of `Typo`.
 
 ### `ADJ`
 
 33 <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `ADJ` and `Typo` co-occurred: <tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (29; 88%), <tt><a href="ga_idt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (28; 85%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (26; 79%), <tt><a href="ga_idt-feat-NounType.html">NounType</a></tt><tt>=EMPTY</tt> (25; 76%), <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (22; 67%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (19; 58%).
+The most frequent other feature values with which `ADJ` and `Typo` co-occurred: <tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (30; 91%), <tt><a href="ga_idt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (28; 85%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (26; 79%), <tt><a href="ga_idt-feat-NounType.html">NounType</a></tt><tt>=EMPTY</tt> (25; 76%), <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (23; 70%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (19; 58%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17; 52%).
 
 `ADJ` tokens may have the following values of `Typo`:
 
@@ -52,25 +52,25 @@ The most frequent other feature values with which `VERB` and `Typo` co-occurred:
 
 ### `PROPN`
 
-18 <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `Typo`.
+19 <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `PROPN` and `Typo` co-occurred: <tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (18; 100%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17; 94%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (14; 78%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (10; 56%).
+The most frequent other feature values with which `PROPN` and `Typo` co-occurred: <tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (18; 95%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17; 89%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (15; 79%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (10; 53%).
 
 `PROPN` tokens may have the following values of `Typo`:
 
-* `Yes` (18; 100% of non-empty `Typo`): <em>Gaidhlig, Leamhchán, Chiarain, Fein, Gaeltacha, Gearmaine, Kila, Meiricea, Mhuscraí, Mona</em>
+* `Yes` (19; 100% of non-empty `Typo`): <em>Gaidhlig, Leamhchán, Chiarain, Fein, Gaeltacha, Gearmaine, Kila, Meiricea, Mhuscraí, Mona</em>
 
-`Typo` seems to be **lexical feature** of `PROPN`. 100% lemmas (15) occur only with one value of `Typo`.
+`Typo` seems to be **lexical feature** of `PROPN`. 100% lemmas (16) occur only with one value of `Typo`.
 
 ### `ADP`
 
-9 <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Typo`.
+11 <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `ADP` and `Typo` co-occurred: <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (5; 56%), <tt><a href="ga_idt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5; 56%).
+The most frequent other feature values with which `ADP` and `Typo` co-occurred: <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (10; 91%), <tt><a href="ga_idt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (7; 64%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (6; 55%).
 
 `ADP` tokens may have the following values of `Typo`:
 
-* `Yes` (9; 100% of non-empty `Typo`): <em>o, dho, dó, an, dí, ós</em>
+* `Yes` (11; 100% of non-empty `Typo`): <em>o, a', dho, dó, an, arna, dí, ós</em>
 
 ### `CCONJ`
 

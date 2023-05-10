@@ -15,4 +15,4 @@ The English `PUNCT` covers PTB tags:
 * :
 * HYPH
 * Some uses of NFP (for lines of hyphens, asterisks or tildes)
-<!-- Interlanguage links updated Po lis 14 15:34:36 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:28 CEST -->

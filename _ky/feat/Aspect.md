@@ -46,3 +46,4 @@ _Күн сайын эртең менен 5 км чуркадым_ "I ran 5 km ev
 
 * *ал китептерди көп окуйт* 'she reads lots of books'
 
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:31 CEST -->

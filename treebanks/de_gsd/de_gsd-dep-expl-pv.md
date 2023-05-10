@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="de_gsd-dep-expl.html">expl</a></tt>.
 
-211 nodes (0%) are attached to their parents as `expl:pv`.
+214 nodes (0%) are attached to their parents as `expl:pv`.
 
-149 instances of `expl:pv` (71%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.69668246445498.
+149 instances of `expl:pv` (70%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.79439252336449.
 
-The following 1 pairs of parts of speech are connected with `expl:pv`: <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (211; 100% instances).
+The following 1 pairs of parts of speech are connected with `expl:pv`: <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (214; 100% instances).
 
 
 ~~~ conllu
@@ -25,7 +25,7 @@ The following 1 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 1	Hier	hier	ADV	ADV	_	9	advmod	_	_
 2	kann	können	AUX	VMFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
 3	man	man	PRON	PIS	Case=Nom|Number=Sing|PronType=Ind	9	nsubj	_	_
-4	sich	er|es|sie	PRON	PRF	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	9	expl:pv	_	_
+4	sich	sich	PRON	PRF	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	9	expl:pv	_	_
 5	in	in	ADP	APPR	_	7	case	_	_
 6	einsamer	einsam	ADJ	ADJA	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
 7	Natur	Natur	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	9	obl	_	_

@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="br_keb-dep-nmod.html">nmod</a></tt>.
 There are also 1 other language-specific subtypes of `nmod`: <tt><a href="br_keb-dep-nmod-poss.html">nmod:poss</a></tt>.
 
-378 nodes (4%) are attached to their parents as `nmod:gen`.
+377 nodes (4%) are attached to their parents as `nmod:gen`.
 
-377 instances of `nmod:gen` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.64285714285714.
+376 instances of `nmod:gen` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.64721485411141.
 
-The following 10 pairs of parts of speech are connected with `nmod:gen`: <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt> (296; 78% instances), <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="br_keb-pos-PROPN.html">PROPN</a></tt> (66; 17% instances), <tt><a href="br_keb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt> (5; 1% instances), <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="br_keb-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="br_keb-pos-PRON.html">PRON</a></tt>-<tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="br_keb-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="br_keb-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="br_keb-pos-VERB.html">VERB</a></tt>-<tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="br_keb-pos-VERB.html">VERB</a></tt>-<tt><a href="br_keb-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `nmod:gen`: <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt> (295; 78% instances), <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="br_keb-pos-PROPN.html">PROPN</a></tt> (65; 17% instances), <tt><a href="br_keb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt> (5; 1% instances), <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="br_keb-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="br_keb-pos-PRON.html">PRON</a></tt>-<tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="br_keb-pos-DET.html">DET</a></tt>-<tt><a href="br_keb-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="br_keb-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="br_keb-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="br_keb-pos-VERB.html">VERB</a></tt>-<tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="br_keb-pos-VERB.html">VERB</a></tt>-<tt><a href="br_keb-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

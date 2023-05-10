@@ -87,7 +87,7 @@ The following 31 pairs of parts of speech are connected with `conj`: <tt><a href
 14	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	15	det	_	_
 15	Yorùbá	Yorùbá	PROPN	_	_	16	nsubj	_	_
 16	hàn	hàn	VERB	_	_	13	acl	_	SpaceAfter=No
-17	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n\n
+17	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
 

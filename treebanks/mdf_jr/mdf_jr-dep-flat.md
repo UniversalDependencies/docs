@@ -31,7 +31,7 @@ The following 2 pairs of parts of speech are connected with `flat`: <tt><a href=
 6	Марья	Марья	PROPN	_	Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	2	conj	_	GTtags=Prop,Sem/Fem,Sg,Nom,Indef
 7	Браун	Браун	PROPN	_	Case=Nom|Definite=Ind|NameType=Sur|Number=Sing	6	flat	_	GTtags=Prop,Sem/Sur,Sg,Nom,Indef
 8	ашесть	аш	AUX	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Polarity=Neg|Tense=Past|VerbType=Aux	9	aux:neg	_	GTtags=Aux,Neg,Ind,Prt1,ScPl3
-9	кочкав	кочкавомс	VERB	_	Connegative=Yes|Valency=1	0	root	_	GTtags=IV,ConNeg|SpaceAfter=No
+9	кочкав	кочкавомс	VERB	_	Connegative=Yes	0	root	_	GTtags=IV,ConNeg|SpaceAfter=No
 10	.	.	PUNCT	CLB	_	9	punct	_	_
 
 ~~~

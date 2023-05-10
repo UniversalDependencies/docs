@@ -13,7 +13,7 @@ This relation is universal.
 5 instances of `mark` (63%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.75.
 
-The following 5 pairs of parts of speech are connected with `mark`: <tt><a href="swl_sslc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="swl_sslc-pos-CCONJ.html">CCONJ</a></tt> (3; 38% instances), <tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt>-<tt><a href="swl_sslc-pos-ADV.html">ADV</a></tt> (2; 25% instances), <tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt>-<tt><a href="swl_sslc-pos-CCONJ.html">CCONJ</a></tt> (1; 13% instances), <tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt>-<tt><a href="swl_sslc-pos-NOUN.html">NOUN</a></tt> (1; 13% instances), <tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt>-<tt><a href="swl_sslc-pos-X.html">X</a></tt> (1; 13% instances).
+The following 5 pairs of parts of speech are connected with `mark`: <tt><a href="swl_sslc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="swl_sslc-pos-CCONJ.html">CCONJ</a></tt> (3; 38% instances), <tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt>-<tt><a href="swl_sslc-pos-ADV.html">ADV</a></tt> (2; 25% instances), <tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt>-<tt><a href="swl_sslc-pos-CCONJ.html">CCONJ</a></tt> (1; 13% instances), <tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt>-<tt><a href="swl_sslc-pos-PART.html">PART</a></tt> (1; 13% instances), <tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt>-<tt><a href="swl_sslc-pos-X.html">X</a></tt> (1; 13% instances).
 
 
 ~~~ conllu

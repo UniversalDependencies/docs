@@ -36,7 +36,7 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 `PROPN` tokens may have the following values of `Abbr`:
 
 * `Yes` (79; 100% of non-empty `Abbr`): <em>S., D., Jr., A., av., C., F., G., J., Art.</em>
-* `EMPTY` (18682): <em>Paulo, São, Portugal, Brasil, José, Porto, Governo, Lisboa, João, Nacional</em>
+* `EMPTY` (18678): <em>Paulo, São, Portugal, Brasil, José, Porto, Governo, Lisboa, João, Nacional</em>
 
 `Abbr` seems to be **lexical feature** of `PROPN`. 100% lemmas (33) occur only with one value of `Abbr`.
 
@@ -49,7 +49,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (2; 100% of non-empty `Abbr`): <em>Inc.</em>
-* `EMPTY` (11394): <em>maior, primeiro, grande, primeira, novo, nova, mesmo, nacional, grandes, melhor</em>
+* `EMPTY` (11396): <em>maior, primeiro, grande, primeira, novo, nova, mesmo, nacional, grandes, melhor</em>
 
 ## Relations with Agreement in `Abbr`
 

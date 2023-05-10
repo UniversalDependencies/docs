@@ -13,7 +13,7 @@ The 10 most frequent `ADV` lemmas: <em>_, también, cuando, antes, después, ya,
 
 The 10 most frequent `ADV` types:  <em>no, más, también, cuando, después, ya, muy, tanto, antes, donde</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 1332, <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> 1309, <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> 862, <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> 307, <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 229, <tt><a href="es_pud-pos-DET.html">DET</a></tt> 200, <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> 79, <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> 53, <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> 22, <tt><a href="es_pud-pos-X.html">X</a></tt> 1), <em>solo</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 16, <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> 2), <em>poco</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 14, <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 2), <em>ahora</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 11, <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>mientras</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 8, <tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 6, <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 5), <em>mucho</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 6, <tt><a href="es_pud-pos-DET.html">DET</a></tt> 3, <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>tarde</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 6, <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>como</em> (<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 125, <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 9, <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 5), <em>junto</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 4, <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> 1), <em>cuanto</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 1331, <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> 1287, <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> 861, <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 229, <tt><a href="es_pud-pos-DET.html">DET</a></tt> 199, <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> 160, <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> 79, <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> 53, <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> 22, <tt><a href="es_pud-pos-X.html">X</a></tt> 1), <em>solo</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 16, <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> 2), <em>poco</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 14, <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 2), <em>ahora</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 11, <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>mientras</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 8, <tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 6, <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 5), <em>mucho</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 6, <tt><a href="es_pud-pos-DET.html">DET</a></tt> 3, <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>tarde</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 6, <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>como</em> (<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 125, <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 9, <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 5), <em>junto</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 4, <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> 1), <em>cuanto</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> 2)
 
 The 10 most frequent ambiguous types:  <em>solo</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 15, <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> 2), <em>poco</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 14, <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 2), <em>ahora</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 10, <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>mientras</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 7, <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 4), <em>mucho</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 6, <tt><a href="es_pud-pos-DET.html">DET</a></tt> 2, <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>tarde</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 6, <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>como</em> (<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 122, <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 7, <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 4), <em>fuera</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> 1), <em>cuanto</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> 2), <em>justo</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> 1)
 
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>solo</em> (<tt><a href="es_pud-pos-AD
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.018405 (the average of all parts of speech is 1.678426).
+The form / lemma ratio of `ADV` is 1.018405 (the average of all parts of speech is 1.676335).
 
 The 1st highest number of forms (6) was observed with the lemma “_”: <em>menos, más, no, nunca, t, tampoco</em>.
 
@@ -61,13 +61,13 @@ The 2nd highest number of forms (2) was observed with the lemma “antes”: <em
 
 The 3rd highest number of forms (2) was observed with the lemma “después”: <em>d., después</em>.
 
-`ADV` occurs with 3 features: <tt><a href="es_pud-feat-Polarity.html">Polarity</a></tt> (128; 14% instances), <tt><a href="es_pud-feat-Degree.html">Degree</a></tt> (114; 13% instances), <tt><a href="es_pud-feat-Abbr.html">Abbr</a></tt> (16; 2% instances)
+`ADV` occurs with 4 features: <tt><a href="es_pud-feat-Polarity.html">Polarity</a></tt> (128; 14% instances), <tt><a href="es_pud-feat-Degree.html">Degree</a></tt> (114; 13% instances), <tt><a href="es_pud-feat-PronType.html">PronType</a></tt> (50; 6% instances), <tt><a href="es_pud-feat-Abbr.html">Abbr</a></tt> (16; 2% instances)
 
-`ADV` occurs with 3 feature-value pairs: `Abbr=Yes`, `Degree=Cmp`, `Polarity=Neg`
+`ADV` occurs with 4 feature-value pairs: `Abbr=Yes`, `Degree=Cmp`, `Polarity=Neg`, `PronType=Rel`
 
-`ADV` occurs with 4 feature combinations.
-The most frequent feature combination is `_` (637 tokens).
-Examples: <em>también, cuando, después, ya, muy, tanto, antes, donde, solo, poco</em>
+`ADV` occurs with 5 feature combinations.
+The most frequent feature combination is `_` (587 tokens).
+Examples: <em>también, después, ya, muy, tanto, antes, solo, poco, luego, además</em>
 
 
 ## Relations

@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Portuguese-CINTIL: POS Tags: `PRON`
 
-There are 96 `PRON` lemmas (0%), 96 `PRON` types (0%) and 12261 `PRON` tokens (3%).
+There are 97 `PRON` lemmas (0%), 97 `PRON` types (0%) and 12261 `PRON` tokens (3%).
 Out of 15 observed tags, the rank of `PRON` is: 7 in number of lemmas, 7 in number of types and 10 in number of tokens.
 
 The 10 most frequent `PRON` lemmas: <em>que, -se, se, sua, seu, tudo, ele, seus, quem, eles</em>
@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  <em>que</em> (<tt><a href="pt_cintil-pos-
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 1.000000 (the average of all parts of speech is 1.389398).
+The form / lemma ratio of `PRON` is 1.000000 (the average of all parts of speech is 1.389383).
 
 The 1st highest number of forms (1) was observed with the lemma “-a”: <em>-a</em>.
 
@@ -65,13 +65,13 @@ The 2nd highest number of forms (1) was observed with the lemma “-as”: <em>-
 
 The 3rd highest number of forms (1) was observed with the lemma “-la”: <em>-la</em>.
 
-`PRON` occurs with 3 features: <tt><a href="pt_cintil-feat-Number.html">Number</a></tt> (6217; 51% instances), <tt><a href="pt_cintil-feat-Gender.html">Gender</a></tt> (4854; 40% instances), <tt><a href="pt_cintil-feat-Person.html">Person</a></tt> (4438; 36% instances)
+`PRON` occurs with 4 features: <tt><a href="pt_cintil-feat-PronType.html">PronType</a></tt> (12261; 100% instances), <tt><a href="pt_cintil-feat-Number.html">Number</a></tt> (6217; 51% instances), <tt><a href="pt_cintil-feat-Gender.html">Gender</a></tt> (4854; 40% instances), <tt><a href="pt_cintil-feat-Person.html">Person</a></tt> (4438; 36% instances)
 
-`PRON` occurs with 7 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`
+`PRON` occurs with 11 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `PronType=Ind`, `PronType=Int`, `PronType=Prs`, `PronType=Rel`
 
-`PRON` occurs with 21 feature combinations.
-The most frequent feature combination is `_` (4406 tokens).
-Examples: <em>que, quem, onde, tudo, -no, como, nada, ninguém, quando, porquê</em>
+`PRON` occurs with 37 feature combinations.
+The most frequent feature combination is `PronType=Rel` (4180 tokens).
+Examples: <em>que, onde, quem, qual, como, cuja, quais, cujo, cujos, cujas</em>
 
 
 ## Relations

@@ -16,12 +16,12 @@ The feature is used with 1 part-of-speech tags: <tt><a href="el_gdt-pos-PRON.htm
 
 ### `PRON`
 
-636 <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> tokens (22% of all `PRON` tokens) have a non-empty value of `Poss`.
+636 <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> tokens (28% of all `PRON` tokens) have a non-empty value of `Poss`.
 
 The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="el_gdt-feat-Case.html">Case</a></tt><tt>=Gen</tt> (636; 100%), <tt><a href="el_gdt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (636; 100%), <tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (460; 72%), <tt><a href="el_gdt-feat-Person.html">Person</a></tt><tt>=3</tt> (404; 64%), <tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (325; 51%).
 
 `PRON` tokens may have the following values of `Poss`:
 
 * `Yes` (636; 100% of non-empty `Poss`): <em>τους, του, μας, της, μου, σας, σου</em>
-* `EMPTY` (2263): <em>που, αυτό, αυτή, οποία, οποίο, αυτά, μας, το, αυτές, οποίες</em>
+* `EMPTY` (1655): <em>που, οποία, αυτό, οποίο, μας, το, οποίες, τους, οποίος, αυτά</em>
 

@@ -43,7 +43,7 @@ The 10 most frequent ambiguous types:  <em>e</em> (<tt><a href="it_twittiro-pos-
   * <tt><a href="it_twittiro-pos-PROPN.html">PROPN</a></tt> 1: <em>Unioni civili , Pd diviso tra il " <b>No</b> " e il " Sia chiaro che ho un sacco di amici gay " . [ guli1979 ]</em>
   * <tt><a href="it_twittiro-pos-X.html">X</a></tt> 1: <em>Roma sarà <b>No</b> fly zone per tutto il Giubileo . Se poi arriva Gesù si attacca a il cazzo . [ CONTINUA su https://t.co/oDPUtx2DvV ]</em>
 * <em>by</em>
-  * <tt><a href="it_twittiro-pos-ADP.html">ADP</a></tt> 2: <em>@user Ragazzi calma , il Prof . Mario Monti se la cava da solo : e' bocconiano , mica bocchiniano ! ;) <b>by</b> rao</em>
+  * <tt><a href="it_twittiro-pos-ADP.html">ADP</a></tt> 2: <em>@user Ragazzi calma , il Prof. Mario Monti se la cava da solo : e' bocconiano , mica bocchiniano ! ;) <b>by</b> rao</em>
   * <tt><a href="it_twittiro-pos-X.html">X</a></tt> 1: <em>pieni poteri a Mario Monti . In effetti quale governo può essere più appropriato di un Full Monty x questo paese ( ispired <b>by</b> @user )</em>
 * <em>design</em>
   * <tt><a href="it_twittiro-pos-NOUN.html">NOUN</a></tt> 1: <em>#labuonascuola è un pacco ( stesso <b>design</b> di Poltrone & Sofà : gli artigiani di la qualità ... cinese ) . @user http://t.co/xXLKcZcVBU</em>
@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  <em>e</em> (<tt><a href="it_twittiro-pos-
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.274821).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.274961).
 
 The 1st highest number of forms (2) was observed with the lemma “i”: <em>i, moltissimi</em>.
 

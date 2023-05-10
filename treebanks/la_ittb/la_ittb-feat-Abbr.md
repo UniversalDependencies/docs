@@ -23,7 +23,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (538; 100% of non-empty `Abbr`): <em>cor., ult., rom., metaph., philipp., hebr., physic., eccli., metaphys., ephes.</em>
-* `EMPTY` (28066): <em>diuina, impossibile, diuinae, diuinam, christi, prima, primum, humana, manifestum, necesse</em>
+* `EMPTY` (28090): <em>diuina, impossibile, diuinae, diuinam, christi, prima, primum, humana, manifestum, necesse</em>
 
 `Abbr` seems to be **lexical feature** of `ADJ`. 100% lemmas (20) occur only with one value of `Abbr`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (404; 100% of non-empty `Abbr`): <em>cap., gen., dist., sap., lib., trin., prouerb., act., nom., apoc.</em>
-* `EMPTY` (89877): <em>forma, esse, intellectus, formam, formae, materia, anima, potentia, homo, corpus</em>
+* `EMPTY` (89845): <em>forma, esse, intellectus, formam, formae, materia, anima, potentia, homo, corpus</em>
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (43) occur only with one value of `Abbr`.
 
@@ -73,7 +73,7 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (2; 100% of non-empty `Abbr`): <em>iacob., met</em>
-* `EMPTY` (25746): <em>igitur, etiam, unde, sic, ergo, tamen, ita, supra, magis, solum</em>
+* `EMPTY` (25743): <em>igitur, etiam, unde, sic, ergo, tamen, ita, supra, magis, solum</em>
 
 ### `VERB`
 
@@ -84,7 +84,7 @@ The most frequent other feature values with which `VERB` and `Abbr` co-occurred:
 `VERB` tokens may have the following values of `Abbr`:
 
 * `Yes` (2; 100% of non-empty `Abbr`): <em>antec., praeced.</em>
-* `EMPTY` (59823): <em>potest, oportet, dicitur, habet, ostensum, patet, dicit, uidetur, dicendum, fit</em>
+* `EMPTY` (59830): <em>potest, oportet, dicitur, habet, ostensum, patet, dicit, uidetur, dicendum, fit</em>
 
 ## Relations with Agreement in `Abbr`
 

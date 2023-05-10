@@ -36,7 +36,7 @@ The most frequent other feature values with which `ADP` and `Aspect` co-occurred
 
 * `Imp` (18; 50% of non-empty `Aspect`): _
 * `Perf` (18; 50% of non-empty `Aspect`): _
-* `EMPTY` (91706): _
+* `EMPTY` (91707): _
 
 ### `AUX`
 
@@ -48,7 +48,7 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 
 * `Imp` (2; 33% of non-empty `Aspect`): _
 * `Perf` (4; 67% of non-empty `Aspect`): _
-* `EMPTY` (9157): _
+* `EMPTY` (9149): _
 
 ### `PROPN`
 
@@ -80,7 +80,7 @@ The most frequent other feature values with which `NOUN` and `Aspect` co-occurre
 `CCONJ` tokens may have the following values of `Aspect`:
 
 * `Imp` (1; 100% of non-empty `Aspect`): _
-* `EMPTY` (49157): _
+* `EMPTY` (49160): _
 
 ## Relations with Agreement in `Aspect`
 

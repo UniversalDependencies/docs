@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Galician-CTG: POS Tags: `NUM`
 
-There are 928 `NUM` lemmas (8%), 928 `NUM` types (6%) and 2362 `NUM` tokens (2%).
-Out of 16 observed tags, the rank of `NUM` is: 5 in number of lemmas, 5 in number of types and 10 in number of tokens.
+There are 929 `NUM` lemmas (8%), 929 `NUM` types (6%) and 2363 `NUM` tokens (2%).
+Out of 16 observed tags, the rank of `NUM` is: 5 in number of lemmas, 5 in number of types and 11 in number of tokens.
 
 The 10 most frequent `NUM` lemmas: <em>2, 1, 5, 3, 2003, 20, 2005, 2002, 2004, 10</em>
 
@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>1</em> (<tt><a href="gl_ctg-pos-NUM.h
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.520215).
+The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.523050).
 
 The 1st highest number of forms (1) was observed with the lemma “$29,3”: <em>$29,3</em>.
 
@@ -60,32 +60,32 @@ The 2nd highest number of forms (1) was observed with the lemma “-0,22”: <em
 
 The 3rd highest number of forms (1) was observed with the lemma “-0,6”: <em>-0,6</em>.
 
-`NUM` occurs with 1 features: <tt><a href="gl_ctg-feat-Foreign.html">Foreign</a></tt> (78; 3% instances)
+`NUM` occurs with 1 features: <tt><a href="gl_ctg-feat-Foreign.html">Foreign</a></tt> (77; 3% instances)
 
 `NUM` occurs with 1 feature-value pairs: `Foreign=Yes`
 
 `NUM` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (2284 tokens).
+The most frequent feature combination is `_` (2286 tokens).
 Examples: <em>2, 1, 5, 3, 2003, 2005, 20, 2002, 2004, 10</em>
 
 
 ## Relations
 
-`NUM` nodes are attached to their parents using 16 different relations: <tt><a href="gl_ctg-dep-nmod.html">nmod</a></tt> (1178; 50% instances), <tt><a href="gl_ctg-dep-det.html">det</a></tt> (416; 18% instances), <tt><a href="gl_ctg-dep-obl.html">obl</a></tt> (165; 7% instances), <tt><a href="gl_ctg-dep-nummod.html">nummod</a></tt> (137; 6% instances), <tt><a href="gl_ctg-dep-obj.html">obj</a></tt> (93; 4% instances), <tt><a href="gl_ctg-dep-dep.html">dep</a></tt> (88; 4% instances), <tt><a href="gl_ctg-dep-nsubj.html">nsubj</a></tt> (84; 4% instances), <tt><a href="gl_ctg-dep-amod.html">amod</a></tt> (83; 4% instances), <tt><a href="gl_ctg-dep-flat.html">flat</a></tt> (76; 3% instances), <tt><a href="gl_ctg-dep-ccomp.html">ccomp</a></tt> (24; 1% instances), <tt><a href="gl_ctg-dep-case.html">case</a></tt> (8; 0% instances), <tt><a href="gl_ctg-dep-xcomp.html">xcomp</a></tt> (5; 0% instances), <tt><a href="gl_ctg-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="gl_ctg-dep-aux.html">aux</a></tt> (1; 0% instances), <tt><a href="gl_ctg-dep-cc.html">cc</a></tt> (1; 0% instances), <tt><a href="gl_ctg-dep-punct.html">punct</a></tt> (1; 0% instances)
+`NUM` nodes are attached to their parents using 14 different relations: <tt><a href="gl_ctg-dep-nmod.html">nmod</a></tt> (1186; 50% instances), <tt><a href="gl_ctg-dep-nummod.html">nummod</a></tt> (553; 23% instances), <tt><a href="gl_ctg-dep-obl.html">obl</a></tt> (166; 7% instances), <tt><a href="gl_ctg-dep-obj.html">obj</a></tt> (93; 4% instances), <tt><a href="gl_ctg-dep-dep.html">dep</a></tt> (87; 4% instances), <tt><a href="gl_ctg-dep-nsubj.html">nsubj</a></tt> (84; 4% instances), <tt><a href="gl_ctg-dep-amod.html">amod</a></tt> (82; 3% instances), <tt><a href="gl_ctg-dep-flat.html">flat</a></tt> (75; 3% instances), <tt><a href="gl_ctg-dep-ccomp.html">ccomp</a></tt> (24; 1% instances), <tt><a href="gl_ctg-dep-xcomp.html">xcomp</a></tt> (5; 0% instances), <tt><a href="gl_ctg-dep-list.html">list</a></tt> (3; 0% instances), <tt><a href="gl_ctg-dep-conj.html">conj</a></tt> (2; 0% instances), <tt><a href="gl_ctg-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="gl_ctg-dep-appos.html">appos</a></tt> (1; 0% instances)
 
-Parents of `NUM` nodes belong to 14 different parts of speech: <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> (1408; 60% instances), <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> (349; 15% instances), <tt><a href="gl_ctg-pos-NUM.html">NUM</a></tt> (209; 9% instances), <tt><a href="gl_ctg-pos-DET.html">DET</a></tt> (130; 6% instances), <tt><a href="gl_ctg-pos-PROPN.html">PROPN</a></tt> (114; 5% instances), <tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt> (56; 2% instances), <tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt> (51; 2% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> (35; 1% instances), <tt><a href="gl_ctg-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances),  (2; 0% instances), <tt><a href="gl_ctg-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="gl_ctg-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="gl_ctg-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances)
+Parents of `NUM` nodes belong to 10 different parts of speech: <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> (1410; 60% instances), <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> (365; 15% instances), <tt><a href="gl_ctg-pos-NUM.html">NUM</a></tt> (210; 9% instances), <tt><a href="gl_ctg-pos-DET.html">DET</a></tt> (130; 6% instances), <tt><a href="gl_ctg-pos-PROPN.html">PROPN</a></tt> (117; 5% instances), <tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt> (50; 2% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> (39; 2% instances), <tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt> (39; 2% instances),  (2; 0% instances), <tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt> (1; 0% instances)
 
-1109 (47%) `NUM` nodes are leaves.
+1062 (45%) `NUM` nodes are leaves.
 
-349 (15%) `NUM` nodes have one child.
+394 (17%) `NUM` nodes have one child.
 
-338 (14%) `NUM` nodes have two children.
+335 (14%) `NUM` nodes have two children.
 
-566 (24%) `NUM` nodes have three or more children.
+572 (24%) `NUM` nodes have three or more children.
 
-The highest child degree of a `NUM` node is 14.
+The highest child degree of a `NUM` node is 9.
 
-Children of `NUM` nodes are attached using 16 different relations: <tt><a href="gl_ctg-dep-nmod.html">nmod</a></tt> (917; 29% instances), <tt><a href="gl_ctg-dep-punct.html">punct</a></tt> (759; 24% instances), <tt><a href="gl_ctg-dep-det.html">det</a></tt> (568; 18% instances), <tt><a href="gl_ctg-dep-case.html">case</a></tt> (539; 17% instances), <tt><a href="gl_ctg-dep-cc.html">cc</a></tt> (133; 4% instances), <tt><a href="gl_ctg-dep-dep.html">dep</a></tt> (91; 3% instances), <tt><a href="gl_ctg-dep-advmod.html">advmod</a></tt> (44; 1% instances), <tt><a href="gl_ctg-dep-ccomp.html">ccomp</a></tt> (35; 1% instances), <tt><a href="gl_ctg-dep-amod.html">amod</a></tt> (30; 1% instances), <tt><a href="gl_ctg-dep-obj.html">obj</a></tt> (7; 0% instances), <tt><a href="gl_ctg-dep-flat.html">flat</a></tt> (6; 0% instances), <tt><a href="gl_ctg-dep-cop.html">cop</a></tt> (5; 0% instances), <tt><a href="gl_ctg-dep-mark.html">mark</a></tt> (4; 0% instances), <tt><a href="gl_ctg-dep-nsubj.html">nsubj</a></tt> (3; 0% instances), <tt><a href="gl_ctg-dep-xcomp.html">xcomp</a></tt> (3; 0% instances), <tt><a href="gl_ctg-dep-nummod.html">nummod</a></tt> (2; 0% instances)
+Children of `NUM` nodes are attached using 18 different relations: <tt><a href="gl_ctg-dep-nmod.html">nmod</a></tt> (926; 29% instances), <tt><a href="gl_ctg-dep-punct.html">punct</a></tt> (791; 25% instances), <tt><a href="gl_ctg-dep-det.html">det</a></tt> (540; 17% instances), <tt><a href="gl_ctg-dep-case.html">case</a></tt> (539; 17% instances), <tt><a href="gl_ctg-dep-cc.html">cc</a></tt> (133; 4% instances), <tt><a href="gl_ctg-dep-dep.html">dep</a></tt> (90; 3% instances), <tt><a href="gl_ctg-dep-advmod.html">advmod</a></tt> (45; 1% instances), <tt><a href="gl_ctg-dep-ccomp.html">ccomp</a></tt> (35; 1% instances), <tt><a href="gl_ctg-dep-amod.html">amod</a></tt> (31; 1% instances), <tt><a href="gl_ctg-dep-nummod.html">nummod</a></tt> (24; 1% instances), <tt><a href="gl_ctg-dep-flat.html">flat</a></tt> (6; 0% instances), <tt><a href="gl_ctg-dep-obj.html">obj</a></tt> (6; 0% instances), <tt><a href="gl_ctg-dep-cop.html">cop</a></tt> (5; 0% instances), <tt><a href="gl_ctg-dep-mark.html">mark</a></tt> (4; 0% instances), <tt><a href="gl_ctg-dep-nsubj.html">nsubj</a></tt> (3; 0% instances), <tt><a href="gl_ctg-dep-xcomp.html">xcomp</a></tt> (3; 0% instances), <tt><a href="gl_ctg-dep-conj.html">conj</a></tt> (2; 0% instances), <tt><a href="gl_ctg-dep-obl.html">obl</a></tt> (1; 0% instances)
 
-Children of `NUM` nodes belong to 14 different parts of speech: <tt><a href="gl_ctg-pos-PUNCT.html">PUNCT</a></tt> (752; 24% instances), <tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt> (562; 18% instances), <tt><a href="gl_ctg-pos-DET.html">DET</a></tt> (543; 17% instances), <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> (403; 13% instances), <tt><a href="gl_ctg-pos-SYM.html">SYM</a></tt> (392; 12% instances), <tt><a href="gl_ctg-pos-NUM.html">NUM</a></tt> (209; 7% instances), <tt><a href="gl_ctg-pos-CCONJ.html">CCONJ</a></tt> (116; 4% instances), <tt><a href="gl_ctg-pos-PROPN.html">PROPN</a></tt> (46; 1% instances), <tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt> (45; 1% instances), <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> (34; 1% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> (28; 1% instances), <tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="gl_ctg-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances)
+Children of `NUM` nodes belong to 14 different parts of speech: <tt><a href="gl_ctg-pos-PUNCT.html">PUNCT</a></tt> (791; 25% instances), <tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt> (564; 18% instances), <tt><a href="gl_ctg-pos-DET.html">DET</a></tt> (542; 17% instances), <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> (404; 13% instances), <tt><a href="gl_ctg-pos-SYM.html">SYM</a></tt> (391; 12% instances), <tt><a href="gl_ctg-pos-NUM.html">NUM</a></tt> (210; 7% instances), <tt><a href="gl_ctg-pos-CCONJ.html">CCONJ</a></tt> (116; 4% instances), <tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt> (45; 1% instances), <tt><a href="gl_ctg-pos-PROPN.html">PROPN</a></tt> (45; 1% instances), <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> (33; 1% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> (27; 1% instances), <tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="gl_ctg-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances)
 

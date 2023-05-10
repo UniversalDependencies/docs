@@ -24,3 +24,4 @@ obl:arg(pays, customer.Dat)
 obl:arg(würdigt, Blickes)
 obl:arg(pays, attention.Gen)
 ~~~
+<!-- Interlanguage links updated Út 9. května 2023, 20:04:27 CEST -->

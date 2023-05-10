@@ -25,7 +25,7 @@ The following 27 pairs of parts of speech are connected with `compound`: <tt><a 
 1	Вітаем	вітаць	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 2	вас	вы	PRON	PRP	Case=Gen|Number=Plur|Person=2|PronType=Prs	1	obj	1:obj	_
 3	у	у	ADP	IN	_	5	case	5:case	_
-4	тэлеграм	Тэлеграм	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	compound	5:compound	_
+4	тэлеграм	Тэлеграм	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Pro|Number=Sing	5	compound	5:compound	_
 5	канале	канал	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	obl	1:obl:у:loc	_
 6	Арт	арт	NOUN	NN	Foreign=Yes	7	compound	7:compound	_
 7	Сядзібы	сядзіба	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	5:nmod:gen	_
@@ -42,7 +42,7 @@ The following 27 pairs of parts of speech are connected with `compound`: <tt><a 
 1	Тыдзень	тыдзень	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obl	4:obl:acc	_
 2	таму	таму	ADV	RB	Degree=Pos	1	advmod	1:advmod	_
 3	ў	у	ADP	IN	_	4	case	4:case	_
-4	Віцебску	Віцебск	PROPN	NNP	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	0	root	0:root	_
+4	Віцебску	Віцебск	PROPN	NNP	Animacy=Inan|Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	0	root	0:root	_
 5	было	быць	AUX	VBC	Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	4:cop	_
 6	+	+	SYM	SYM	_	7	compound	7:compound	SpaceAfter=No
 7	19	19	NUM	CD	NumType=Card	4	nsubj	4:nsubj	SpaceAfter=No
@@ -60,7 +60,7 @@ The following 27 pairs of parts of speech are connected with `compound`: <tt><a 
 1	Вітаем	вітаць	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 2	вас	вы	PRON	PRP	Case=Gen|Number=Plur|Person=2|PronType=Prs	1	obj	1:obj	_
 3	у	у	ADP	IN	_	5	case	5:case	_
-4	тэлеграм	Тэлеграм	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	compound	5:compound	_
+4	тэлеграм	Тэлеграм	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Pro|Number=Sing	5	compound	5:compound	_
 5	канале	канал	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	obl	1:obl:у:loc	_
 6	Арт	арт	NOUN	NN	Foreign=Yes	7	compound	7:compound	_
 7	Сядзібы	сядзіба	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	5:nmod:gen	_

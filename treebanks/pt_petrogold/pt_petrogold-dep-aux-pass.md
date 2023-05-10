@@ -17,22 +17,20 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 aux:pass	color:blue
-1	Em	em	ADP	_	_	3	case	_	_
-2	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-3	afloramento	afloramento	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
-4	206	206	NUM	_	NumType=Card	3	nummod	_	_
-5	foi	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux:pass	_	_
-6	reconhecida	reconhecer	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	_
-7	espessa	espesso	ADJ	_	Gender=Fem|Number=Sing	8	amod	_	_
-8	zona	zona	NOUN	_	Gender=Fem|Number=Sing	6	nsubj:pass	_	_
-9	de	de	ADP	_	_	10	case	_	_
-10	deformação	deformação	NOUN	_	Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	6	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 aux:pass	color:blue
+1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	petróleo	petróleo	NOUN	_	Gender=Masc|Number=Sing	4	nsubj:pass	_	_
+3	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
+4	descrito	descrever	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	_
+5	conforme	conforme	ADP	_	_	7	case	_	_
+6	suas	seu	DET	_	Gender=Fem|Number=Plur|PronType=Prs	7	det	_	_
+7	propriedades	propriedade	NOUN	_	Gender=Fem|Number=Plur	4	obl	_	_
+8	físicas	físico	ADJ	_	Gender=Fem|Number=Plur	7	amod	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
 

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.0 release.
 The following people have contributed to making this treebank part of UD: Miguel Ballesteros, Héctor Martínez Alonso, Ryan McDonald, Elena Pascual, Natalia Silveira, Daniel Zeman, Joakim Nivre.
 
 Repository: [UD_Spanish-GSD](https://github.com/UniversalDependencies/UD_Spanish-GSD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udes_gsd211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udes_gsd212)<br />
+Download all treebanks: [UD 2.12](/#download)
 
 License: CC BY-SA 4.0
 
@@ -79,17 +79,17 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
 
 ## Relations
 
-[acl](es_gsd-dep-acl.html) – [acl:relcl](es_gsd-dep-acl-relcl.html) – [advcl](es_gsd-dep-advcl.html) – [advmod](es_gsd-dep-advmod.html) – [amod](es_gsd-dep-amod.html) – [appos](es_gsd-dep-appos.html) – [aux](es_gsd-dep-aux.html) – [aux:pass](es_gsd-dep-aux-pass.html) – [case](es_gsd-dep-case.html) – [cc](es_gsd-dep-cc.html) – [ccomp](es_gsd-dep-ccomp.html) – [compound](es_gsd-dep-compound.html) – [conj](es_gsd-dep-conj.html) – [cop](es_gsd-dep-cop.html) – [csubj](es_gsd-dep-csubj.html) – [csubj:pass](es_gsd-dep-csubj-pass.html) – [dep](es_gsd-dep-dep.html) – [det](es_gsd-dep-det.html) – [discourse](es_gsd-dep-discourse.html) – [expl:pv](es_gsd-dep-expl-pv.html) – [fixed](es_gsd-dep-fixed.html) – [flat](es_gsd-dep-flat.html) – [goeswith](es_gsd-dep-goeswith.html) – [iobj](es_gsd-dep-iobj.html) – [mark](es_gsd-dep-mark.html) – [nmod](es_gsd-dep-nmod.html) – [nsubj](es_gsd-dep-nsubj.html) – [nsubj:outer](es_gsd-dep-nsubj-outer.html) – [nsubj:pass](es_gsd-dep-nsubj-pass.html) – [nummod](es_gsd-dep-nummod.html) – [obj](es_gsd-dep-obj.html) – [obl](es_gsd-dep-obl.html) – [orphan](es_gsd-dep-orphan.html) – [parataxis](es_gsd-dep-parataxis.html) – [punct](es_gsd-dep-punct.html) – [root](es_gsd-dep-root.html) – [vocative](es_gsd-dep-vocative.html) – [xcomp](es_gsd-dep-xcomp.html)
+[acl](es_gsd-dep-acl.html) – [acl:relcl](es_gsd-dep-acl-relcl.html) – [advcl](es_gsd-dep-advcl.html) – [advmod](es_gsd-dep-advmod.html) – [amod](es_gsd-dep-amod.html) – [appos](es_gsd-dep-appos.html) – [aux](es_gsd-dep-aux.html) – [aux:pass](es_gsd-dep-aux-pass.html) – [case](es_gsd-dep-case.html) – [cc](es_gsd-dep-cc.html) – [ccomp](es_gsd-dep-ccomp.html) – [compound](es_gsd-dep-compound.html) – [conj](es_gsd-dep-conj.html) – [cop](es_gsd-dep-cop.html) – [csubj](es_gsd-dep-csubj.html) – [csubj:pass](es_gsd-dep-csubj-pass.html) – [dep](es_gsd-dep-dep.html) – [det](es_gsd-dep-det.html) – [discourse](es_gsd-dep-discourse.html) – [dislocated](es_gsd-dep-dislocated.html) – [expl](es_gsd-dep-expl.html) – [expl:pv](es_gsd-dep-expl-pv.html) – [fixed](es_gsd-dep-fixed.html) – [flat](es_gsd-dep-flat.html) – [goeswith](es_gsd-dep-goeswith.html) – [iobj](es_gsd-dep-iobj.html) – [mark](es_gsd-dep-mark.html) – [nmod](es_gsd-dep-nmod.html) – [nsubj](es_gsd-dep-nsubj.html) – [nsubj:outer](es_gsd-dep-nsubj-outer.html) – [nsubj:pass](es_gsd-dep-nsubj-pass.html) – [nummod](es_gsd-dep-nummod.html) – [obj](es_gsd-dep-obj.html) – [obl](es_gsd-dep-obl.html) – [obl:agent](es_gsd-dep-obl-agent.html) – [obl:arg](es_gsd-dep-obl-arg.html) – [orphan](es_gsd-dep-orphan.html) – [parataxis](es_gsd-dep-parataxis.html) – [punct](es_gsd-dep-punct.html) – [root](es_gsd-dep-root.html) – [vocative](es_gsd-dep-vocative.html) – [xcomp](es_gsd-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 16013 sentences, 423344 tokens and 431585 syntactic words.</li>
+<li>This corpus contains 16013 sentences, 423344 tokens and 431584 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 46420 tokens (11%) that are not followed by a space.</li>
+<li>This corpus contains 46422 tokens (11%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -101,7 +101,7 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
 </ul>
 
 <ul>
-<li>This corpus contains 8219 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>This corpus contains 8220 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
 <li>There are 856 types of multi-word tokens. Examples: del, al, convertirse, verse, darle, hacerse, hacerlo, convirtiéndose, dedicarse, quedarse, casarse, ponerse, encontrarse, presentarse, enfrentarse, haberse, incorporarse, retirarse, unirse, mantenerse, tratarse, asegurarse, comunicarse, graduarse, haciéndolo, llamarse, conocerse, considerarse, darse, decirle, hacerme, verlo, adaptarse, basándose, celebrarse, centrarse, encontrarlo, encontrándose, enterarse, habiéndose, hacerle, marcharse, preguntarse, referirse, reunirse, tomarse, trasladarse, vengarse, volverse, abrirse.</li>
 </ul>
 
@@ -118,19 +118,19 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
 </ul>
 
 <ul>
-<li>This corpus contains 57 lemmas tagged as pronouns (PRON): algo, alguien, alguno, alles, ambos, aquel, aquél, bastante, cual, cualquiera, cuanto, cuyo, cuál, cuánto, demasiado, demás, el, ese, este, esto, i, me, menos, mi, mismo, muchisimio, mucho, muchísimo, más, nada, nadie, niguno, ninguno, nuestro, otro, poco, que, quien, quién, qué, suyo, tal, tanto, that, this, todo, tú, uno, varios, who, yo, you, zse, ámbo, él, ésta, ésto</li>
+<li>This corpus contains 58 lemmas tagged as pronouns (PRON): algo, alguien, alguno, alles, ambos, aquel, aquél, bastante, cual, cualquiera, cuanto, cuál, cuánto, demasiado, demás, el, ese, este, esto, i, me, menos, mi, mismo, muchisimio, mucho, muchísimo, más, nada, nadie, niguno, ninguno, nuestro, otro, poco, que, quien, quién, qué, se, suyo, tal, tanto, that, they, this, todo, tú, uno, varios, what, who, yo, you, ámbo, él, ésta, ésto</li>
 </ul>
 
 <ul>
-<li>This corpus contains 91 lemmas tagged as determiners (DET): a, ae, alguno, all, ambos, apenas, aquel, aquél, as, bastante, cada, cierto, cualquier, cualquiera, cuan, cuanta, cuanto, cuantos, cuya, cuyo, cuàles, cuál, cuán, da, de, del, dema, demasiado, demás, den, der, des, dicha, dicho, die, distinto, diverso, e, el, ela, ese, esta, este, estós, ir, johnson, kentrocapros, l', le, ls, lso, mes, mi, mucho, muchísimo, my, ninguno, nuestro, o, otro, our, perino, plas, poco, pocos, que, qué, s., sendo, sendos, ser, su, sus, suyo, tal, tanto, the, todas, todo, tu, tus, unir, uno, vaario, varios, varía, vuestra, vuestro, what, ﻿el, ﻿la</li>
+<li>This corpus contains 90 lemmas tagged as determiners (DET): a, ae, alguno, all, ambos, apenas, aquel, aquél, as, bastante, cada, cierto, cualquier, cualquiera, cuan, cuanta, cuanto, cuantos, cuyo, cuàles, cuál, cuán, da, de, del, dema, demasiado, demás, den, der, des, dicha, dicho, die, distinto, diverso, e, el, ela, ese, esta, este, estós, ha, ir, johnson, kentrocapros, l', le, ls, lso, mes, mi, mucho, muchísimo, my, ninguno, nuestro, o, otro, our, perino, plas, poco, pocos, que, qué, s., sendo, sendos, ser, su, sus, suyo, tal, tanto, the, todas, todo, tu, tus, unir, uno, vaario, varios, varía, vuestra, vuestro, ﻿el, ﻿la</li>
 </ul>
 
 <ul>
-<li>Out of the above, 29 lemmas occurred sometimes as PRON and sometimes as DET: alguno, ambos, aquel, aquél, bastante, cualquiera, cuanto, cuyo, cuál, demasiado, demás, el, ese, este, mi, mucho, muchísimo, ninguno, nuestro, otro, poco, que, qué, suyo, tal, tanto, todo, uno, varios</li>
+<li>Out of the above, 28 lemmas occurred sometimes as PRON and sometimes as DET: alguno, ambos, aquel, aquél, bastante, cualquiera, cuanto, cuál, demasiado, demás, el, ese, este, mi, mucho, muchísimo, ninguno, nuestro, otro, poco, que, qué, suyo, tal, tanto, todo, uno, varios</li>
 </ul>
 
 <ul>
-<li>This corpus contains 10 lemmas tagged as auxiliaries (AUX): be, can, deber, estar, haber, poder, querer, saber, sein, ser</li>
+<li>This corpus contains 11 lemmas tagged as auxiliaries (AUX): be, can, deber, do, estar, haber, poder, querer, saber, sein, ser</li>
 </ul>
 
 <ul>
@@ -312,7 +312,7 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
   <li>Acc
     <ul>
       <li>INTJ: sí</li>
-      <li>PRON: lo, la, los, las, sí, mí, ti</li>
+      <li>PRON: lo, la, los, las, sí, mí, ti, Me, em</li>
     </ul>
   </li>
 </ul>
@@ -344,7 +344,7 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
 <ul>
   <li>Dat
     <ul>
-      <li>PRON: le, les</li>
+      <li>PRON: le, me, les, nos, te, os, la, lo</li>
     </ul>
   </li>
 </ul>
@@ -352,7 +352,7 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
 <ul>
   <li>Nom
     <ul>
-      <li>PRON: yo, tú, I</li>
+      <li>PRON: yo, tú, I, You, él</li>
     </ul>
   </li>
 </ul>
@@ -385,7 +385,7 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
 <ul>
   <li>Def
     <ul>
-      <li>DET: el, la, los, las, the, al, a, en, l'</li>
+      <li>DET: el, la, los, las, the, al, a, en, ha, l'</li>
     </ul>
   </li>
 </ul>
@@ -453,7 +453,7 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
       <li>ADV: no, nunca, tampoco, jamás, ni, o, sino</li>
       <li>CCONJ: ni</li>
       <li>PART: no, not</li>
-      <li>PROPN: no, not</li>
+      <li>PROPN: no</li>
       <li>X: no, so</li>
     </ul>
   </li>
@@ -480,9 +480,9 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
 <ul>
   <li>Imp
     <ul>
-      <li>AUX-Fin: SEA, Seamos, Sean</li>
-      <li>VERB: pese, pase, añade, compre, mira, tengan, Afirma, Comprobaremos, Disponemos, Go</li>
-      <li>VERB-Fin: pese, pase, añade, compre, mira, tengan, Afirma, Comprobaremos, Disponemos, Let</li>
+      <li>AUX-Fin: Do, SEA, Seamos, Sean</li>
+      <li>VERB: pese, pase, Let, añade, compre, mira, tengan, Afirma, Comprobaremos, Disponemos</li>
+      <li>VERB-Fin: pese, pase, Let, añade, compre, mira, tengan, Afirma, Comprobaremos, Disponemos</li>
     </ul>
   </li>
 </ul>
@@ -513,7 +513,7 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
   <li>Fut
     <ul>
       <li>AUX-Fin: será, podrá, podrán, serán, deberá, estará, deberán, estarán, sera, podremos</li>
-      <li>VERB-Fin: será, tendrá, hará, permitirá, tendrán, contará, llegará, habrá, celebrará, saldrá</li>
+      <li>VERB-Fin: será, tendrá, hará, permitirá, tendrán, contará, habrá, llegará, celebrará, saldrá</li>
     </ul>
   </li>
 </ul>
@@ -577,7 +577,7 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
 <ul>
   <li>Ind
     <ul>
-      <li>ADV: allí, cuando, donde</li>
+      <li>ADV: allí</li>
       <li>DET: otras, otros, cualquier, the, varios, otro, algunos, otra, varias, muchos</li>
       <li>PRON: uno, una, algo, poco, mucho, otros, otro, muchos, algunos, otra</li>
     </ul>
@@ -587,7 +587,9 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
 <ul>
   <li>Int
     <ul>
-      <li>PRON: Quién</li>
+      <li>ADV: dónde, cuándo</li>
+      <li>DET: qué, cuál</li>
+      <li>PRON: qué, cuál, cuáles, Quién, What</li>
     </ul>
   </li>
 </ul>
@@ -596,8 +598,8 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
   <li>Int,Rel
     <ul>
       <li>ADV: cual, cuánto</li>
-      <li>DET: cuya, cuyo, qué, que, cuyas, cuyos, cuantas, cuantos, cuál, cuan</li>
-      <li>PRON: que, cual, quien, quienes, qué, cuales, quién, cuál, cuáles, quiénes</li>
+      <li>DET: cuantas, cuantos, cuan, cuán</li>
+      <li>PRON: quien, quienes, quién, quiénes, Cuantas, Cuánto, Who, cuantos</li>
     </ul>
   </li>
 </ul>
@@ -624,8 +626,9 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
 <ul>
   <li>Rel
     <ul>
-      <li>DET: cuyas</li>
-      <li>PRON: que</li>
+      <li>ADV: donde, cuando</li>
+      <li>DET: cuya, cuyo, que, cuyas, cuyos</li>
+      <li>PRON: que, cual, cuales</li>
     </ul>
   </li>
 </ul>
@@ -669,7 +672,7 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
   <li>Yes
     <ul>
       <li>DET: su, sus, mi, nuestra, cuya, nuestros, cuyo, nuestro, tu, mis</li>
-      <li>PRON: mi, suyo, nuestros, suya, cuyas, cuyos, nuestro, suyos</li>
+      <li>PRON: mi, suyo, nuestros, suya, nuestro, suyos</li>
     </ul>
   </li>
 </ul>
@@ -682,7 +685,7 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
   <li>Yes
     <ul>
       <li>INTJ: sí</li>
-      <li>PRON: se, me, nos, sí, te, consigo, os</li>
+      <li>PRON: se, me, nos, sí, te, consigo, os, zse</li>
     </ul>
   </li>
 </ul>
@@ -696,7 +699,7 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
     <ul>
       <li>AUX: he, hemos, estoy, podemos, puedo, somos, soy, estamos, debemos, pude</li>
       <li>AUX-Fin: he, hemos, estoy, podemos, puedo, somos, soy, debemos, estamos, pude</li>
-      <li>DET: mi, nuestra, nuestros, nuestro, mis, nuestras, vuestra, Dichos, My, vuestras</li>
+      <li>DET: mi, nuestra, nuestros, nuestro, mis, nuestras, vuestra, Dichos, My, me</li>
       <li>PRON: me, nos, yo, nosotros, mí, mi, I, conmigo, nuestro, nuestros</li>
       <li>VERB-Fin: tenemos, creo, vamos, estamos, voy, pedimos, tengo, quiero, recomiendo, encontramos</li>
       <li>X: 's, mi, hoc, lobster, ne, of, què, sulo, to</li>
@@ -708,7 +711,7 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
   <li>2
     <ul>
       <li>AUX-Fin: puedes, eres, habéis, has, sois, Podeis, deberias, estas, estés, habeis</li>
-      <li>DET: tu, tus, L', What</li>
+      <li>DET: tu, tus, L'</li>
       <li>PRON: te, os, tú, usted, vosotros, ti, ustedes, You, contigo</li>
       <li>SYM: ², º, m</li>
       <li>VERB-Fin: tienes, sabes, sientes, estás, llevas, añade, mira, perdais, quieres, viste</li>
@@ -754,7 +757,7 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
     <ul>
       <li>Yes
         <ul>
-          <li>NOUN: D, D., Dr.</li>
+          <li>NOUN: ha, D, D., Dr.</li>
           <li>PROPN: Inc.</li>
         </ul>
       </li>
@@ -767,22 +770,22 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
     <ul>
       <li>Yes
         <ul>
-          <li>ADJ: Sancti, Sorry, negative, Annual, Clear, Thirteenth</li>
+          <li>ADJ: Beautiful, Sancti, Sorry, negative, qodesh, Annual, Clear, Thirteenth, falcata</li>
           <li>ADP: at, de, for, in</li>
-          <li>AUX: can, is, 's, Am, Was, Were, be, ist</li>
-          <li>AUX-Fin: is, 's, Am, Was, Were, ist</li>
+          <li>AUX: can, is, 's, Am, Do, Was, Were, be, ist</li>
+          <li>AUX-Fin: is, 's, Am, Do, Was, Were, ist</li>
           <li>AUX-Inf: be</li>
-          <li>DET: the, a, o, la</li>
-          <li>NOUN: Apostoli, Boy, Dioecesis, kapellmeister, nɔrsk, nɔʂːk, Avengers, Bass, Bitch, Creek</li>
+          <li>DET: the, a, o, ha, la</li>
+          <li>NOUN: Apostoli, Bass, Boy, Dioecesis, kapellmeister, nɔrsk, nɔʂːk, Avengers, Bitch, Creek</li>
           <li>NUM: Five, One, Six, eins</li>
-          <li>PART: to, not</li>
-          <li>PRON: I, Alles, That, This, Who, You</li>
-          <li>PROPN: Petri, Γαρμπή, ΖΒΖ, Καίτη, Φόρος, αφέλια, π, τ, τοῦ, φ</li>
+          <li>PART: not, to</li>
+          <li>PRON: I, You, Alles, Me, That, This, What, Who, em</li>
+          <li>PROPN: Chilkasa, Petri, Γαρμπή, ΖΒΖ, Καίτη, Φόρος, αφέλια, π, τ, τοῦ</li>
           <li>SCONJ: If, When</li>
-          <li>VERB: Appears, Go, Kick, Let, Lovin, Made, Need, dance, hanged</li>
-          <li>VERB-Fin: Appears, Let, Need</li>
+          <li>VERB: Let, Kick, Appears, Give, Go, Kiss, Lovin, Made, Makes, Need</li>
+          <li>VERB-Fin: Let, Appears, Give, Makes, Need</li>
           <li>VERB-Ger: Lovin</li>
-          <li>VERB-Inf: Kick, dance</li>
+          <li>VERB-Inf: Kick, Kiss, Let, dance</li>
           <li>VERB-Part: Made, hanged</li>
           <li>X: 天下第一, TΔS, Γρηγορᾶς, Μουσείο, Φιλοκαλια, β, ε, ε2, καλóς, μm</li>
         </ul>
@@ -814,12 +817,12 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
           <li>AUX: esta, estan, a, sera, e, estas, Podeis, deberias, erán, estabamos</li>
           <li>AUX-Fin: esta, estan, sera, estas, Podeis, deberias, erán, estabamos, este, habeis</li>
           <li>CCONJ: 0, sinó</li>
-          <li>DET: a, al, en, ningun, está, que, algun, muchisimas</li>
+          <li>DET: a, al, en, ningun, está, que, algun, me, muchisimas</li>
           <li>NOUN: video, periodo, guion, dia, dias, periodos, videos, clinica, numero, menu</li>
           <li>NOUN-Inf: bebe</li>
           <li>NOUN-Part: perdidas</li>
           <li>NUM: seseínta, veintitres</li>
-          <li>PRON: este, mi, muchisimo</li>
+          <li>PRON: este, mi, la, muchisimo, lo, zse</li>
           <li>PROPN: Milan, Paris, Africa, sabado, Beisbol, Futbol, Iberico, Miercoles, Pakistan, Salon</li>
           <li>PUNCT: .ç</li>
           <li>VERB-Fin: esta, tenia, hacia, tenian, cambio, dejo, habia, llego, llevo, paso</li>
@@ -839,7 +842,7 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
 </ul>
 
 <ul>
-<li>This corpus uses 8 lemmas as auxiliaries (<a>aux</a>). Examples: haber, poder, estar, deber, ser, querer, can, saber.</li>
+<li>This corpus uses 9 lemmas as auxiliaries (<a>aux</a>). Examples: haber, poder, estar, deber, ser, querer, can, do, saber.</li>
 <li>This corpus uses 6 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: ser, estar, be, haber, deber, poder.</li>
 </ul>
 
@@ -851,24 +854,23 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN (2)</li>
       <li>VERB--PRON (1)</li>
-      <li>VERB-Fin--NOUN (6583)</li>
+      <li>VERB-Fin--NOUN (6575)</li>
       <li>VERB-Fin--NOUN-ADP(a) (2)</li>
       <li>VERB-Fin--NOUN-ADP(alrededor) (1)</li>
       <li>VERB-Fin--NOUN-ADP(de) (1)</li>
       <li>VERB-Fin--NOUN-ADP(más) (1)</li>
       <li>VERB-Fin--NOUN-ADP(por)-ADP(málaga) (1)</li>
       <li>VERB-Fin--NOUN-ADP(que) (1)</li>
-      <li>VERB-Fin--PRON (719)</li>
+      <li>VERB-Fin--PRON (724)</li>
       <li>VERB-Fin--PRON-ADP(con) (1)</li>
       <li>VERB-Fin--PRON-ADP(de) (1)</li>
-      <li>VERB-Fin--PRON-ADP(en) (1)</li>
       <li>VERB-Fin--PRON-ADP(por) (1)</li>
       <li>VERB-Fin--PRON-Acc (27)</li>
       <li>VERB-Fin--PRON-Acc,Dat (3)</li>
       <li>VERB-Fin--PRON-Acc,Nom (164)</li>
-      <li>VERB-Fin--PRON-Nom (51)</li>
+      <li>VERB-Fin--PRON-Nom (52)</li>
       <li>VERB-Ger--NOUN (91)</li>
-      <li>VERB-Ger--PRON (7)</li>
+      <li>VERB-Ger--PRON (8)</li>
       <li>VERB-Ger--PRON-Acc (2)</li>
       <li>VERB-Ger--PRON-Acc,Nom (3)</li>
       <li>VERB-Ger--PRON-Nom (1)</li>
@@ -878,7 +880,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Acc (2)</li>
       <li>VERB-Inf--PRON-Acc,Nom (9)</li>
       <li>VERB-Inf--PRON-Nom (6)</li>
-      <li>VERB-Part--NOUN (680)</li>
+      <li>VERB-Part--NOUN (681)</li>
       <li>VERB-Part--PRON (73)</li>
       <li>VERB-Part--PRON-ADP(para) (1)</li>
       <li>VERB-Part--PRON-Acc (2)</li>
@@ -892,7 +894,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (6102)</li>
+      <li>VERB-Fin--NOUN (6106)</li>
       <li>VERB-Fin--NOUN-ADP(a) (388)</li>
       <li>VERB-Fin--NOUN-ADP(alrededor) (1)</li>
       <li>VERB-Fin--NOUN-ADP(de) (8)</li>
@@ -900,32 +902,33 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-ADP(pesar) (1)</li>
       <li>VERB-Fin--NOUN-ADP(por) (1)</li>
       <li>VERB-Fin--NOUN-ADP(sobre) (1)</li>
-      <li>VERB-Fin--PRON (367)</li>
+      <li>VERB-Fin--PRON (368)</li>
       <li>VERB-Fin--PRON-ADP(a) (21)</li>
       <li>VERB-Fin--PRON-ADP(de) (1)</li>
       <li>VERB-Fin--PRON-ADP(en) (1)</li>
       <li>VERB-Fin--PRON-ADP(en)-ADP(contra) (1)</li>
       <li>VERB-Fin--PRON-ADP(por) (1)</li>
-      <li>VERB-Fin--PRON-Acc (653)</li>
+      <li>VERB-Fin--PRON-Acc (652)</li>
       <li>VERB-Fin--PRON-Acc,Dat (114)</li>
       <li>VERB-Fin--PRON-Acc,Nom (1)</li>
       <li>VERB-Fin--PRON-Acc,Nom-ADP(a) (3)</li>
       <li>VERB-Fin--PRON-Acc-ADP(a) (14)</li>
       <li>VERB-Fin--PRON-Dat (87)</li>
+      <li>VERB-Fin--PRON-Nom (1)</li>
       <li>VERB-Ger--NOUN (696)</li>
       <li>VERB-Ger--NOUN-ADP(a) (62)</li>
       <li>VERB-Ger--PRON (16)</li>
       <li>VERB-Ger--PRON-ADP(a) (4)</li>
-      <li>VERB-Ger--PRON-Acc (82)</li>
+      <li>VERB-Ger--PRON-Acc (84)</li>
       <li>VERB-Ger--PRON-Acc,Dat (3)</li>
       <li>VERB-Ger--PRON-Dat (6)</li>
-      <li>VERB-Inf--NOUN (2609)</li>
+      <li>VERB-Inf--NOUN (2610)</li>
       <li>VERB-Inf--NOUN-ADP(a) (243)</li>
       <li>VERB-Inf--NOUN-ADP(baer) (1)</li>
       <li>VERB-Inf--NOUN-ADP(entre) (1)</li>
       <li>VERB-Inf--PRON (74)</li>
       <li>VERB-Inf--PRON-ADP(a) (18)</li>
-      <li>VERB-Inf--PRON-Acc (266)</li>
+      <li>VERB-Inf--PRON-Acc (267)</li>
       <li>VERB-Inf--PRON-Acc,Dat (25)</li>
       <li>VERB-Inf--PRON-Acc,Nom-ADP(a) (1)</li>
       <li>VERB-Inf--PRON-Acc-ADP(a) (1)</li>
@@ -946,32 +949,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--NOUN (4)</li>
-      <li>VERB-Fin--NOUN-ADP(a) (371)</li>
-      <li>VERB-Fin--PRON (3)</li>
-      <li>VERB-Fin--PRON-ADP(a) (41)</li>
-      <li>VERB-Fin--PRON-Acc (7)</li>
-      <li>VERB-Fin--PRON-Acc,Dat (4499)</li>
-      <li>VERB-Fin--PRON-Acc,Nom (1)</li>
-      <li>VERB-Fin--PRON-Acc,Nom-ADP(a) (9)</li>
-      <li>VERB-Fin--PRON-Acc,Nom-ADP(para) (1)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(a) (7)</li>
-      <li>VERB-Fin--PRON-Dat (525)</li>
-      <li>VERB-Ger--NOUN-ADP(a) (33)</li>
-      <li>VERB-Ger--PRON-ADP(a) (1)</li>
-      <li>VERB-Ger--PRON-Acc,Dat (180)</li>
-      <li>VERB-Ger--PRON-Dat (29)</li>
-      <li>VERB-Inf--NOUN-ADP(a) (114)</li>
-      <li>VERB-Inf--PRON-ADP(a) (3)</li>
-      <li>VERB-Inf--PRON-Acc,Dat (825)</li>
-      <li>VERB-Inf--PRON-Acc-ADP(a) (1)</li>
-      <li>VERB-Inf--PRON-Dat (92)</li>
-      <li>VERB-Part--NOUN (1)</li>
-      <li>VERB-Part--NOUN-ADP(a) (40)</li>
-      <li>VERB-Part--PRON-ADP(a) (3)</li>
-      <li>VERB-Part--PRON-Acc,Dat (341)</li>
-      <li>VERB-Part--PRON-Acc,Nom-ADP(a) (2)</li>
-      <li>VERB-Part--PRON-Dat (43)</li>
+      <li>VERB-Fin--PRON-Acc (1)</li>
     </ul>
   </li>
 </ul>
@@ -979,23 +957,19 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Reflexive Verbs</h3>
 
 <ul>
-  <li>This corpus contains 1 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: ir nos</li>
+  <li>This corpus contains 1103 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: encontrar se, convertir se, hacer se, ver se, dar se, tratar se, realizar se, producir se, llamar se, presentar se, utilizar se, dedicar se, poner se, mantener se, referir se, celebrar se, quedar se, considerar se, llevar se, unir se, desarrollar se, trasladar se, decir se, ubicar se, casar se, volver se, hallar se, incorporar se, conservar se, basar se, conocer se, deber se, establecer se, extender se, mostrar se, iniciar se, usar se, construir se, encargar se, retirar se, crear se, dividir se, negar se, graduar se, acercar se, incluir se, reunir se, situar se, tener se, centrar se</li>
 </ul>
 
 
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 1114 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: encontrar se, convertir se, hacer se, ver se, dar se, tratar se, realizar se, producir se, presentar se, utilizar se, dedicar se, llamar se, poner se, mantener se, referir se, celebrar se, quedar se, considerar se, llevar se, unir se, desarrollar se, trasladar se, decir se, ubicar se, casar se, volver se, hallar se, incorporar se, conservar se, basar se, conocer se, deber se, establecer se, extender se, mostrar se, iniciar se, usar se, construir se, encargar se, retirar se, crear se, dividir se, negar se, graduar se, acercar se, incluir se, reunir se, situar se, tener se, centrar se</li>
-    <ul>
-      <li>Out of those, 53 lemmas occurred more than once, but never without a reflexive dependent. Examples: graduar, refugiar, apoderar, apresurar, agotar, asientar, doctorar, extiender, hospedar, acoplar, aventurar, desintegrar, divorciar, enrolar, fugar, intensificar, matricular, percatar, reincorporar, reutilizar, subdividir, volviéndo, yergar, abocar, abriéndo, adecuar, agudizar, alistar, asemejar, atrever, autoproclamar, avenir, bendizar, desmayar, despliegar, enfadar, enquistar, entonar, entrevistar, equivocar, estancar, expandir, interponer, interrumper, levantar-, nó, opuser, propagar, rebelar, secar</li>
-    </ul>
+  <li>This corpus contains 13 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: ver se, apuntar se, asesoro me, colocar nos, dejar se, disfrazar se, empleo se, encontrar sí, hacer me, hacer se, ofrecer se, salvar sí, ver te</li>
 </ul>
 
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 6 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>expl:pv</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a></li>
-<li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
-<li>The following 4 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>reparandum</a></li>
+<li>This corpus uses 8 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>expl:pv</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:arg</a></li>
+<li>The following 3 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>reparandum</a></li>
 </ul>

@@ -78,7 +78,7 @@ The following 123 pairs of parts of speech are connected with `dep`: <tt><a href
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 1 dep	color:blue
-1	_	_	NUM	_	_	10	dep	_	BBIL=B|BPT=4|LBIL=B|LPOS=4|SpaceAfter=Yes|UI=80
+1	_	_	NUM	_	_	10	dep	_	BBIL=B|BPT=4|LBIL=B|LPOS=4|UI=80
 2	_	_	NOUN	_	_	4	compound	_	BBIL=B|BPT=0|LBIL=B|LPOS=0|SpaceAfter=No|UI=50752
 3	_	_	SYM	_	_	4	compound	_	BBIL=I|BPT=0|LBIL=I|LPOS=0|SpaceAfter=No|UI=63551
 4	_	_	NOUN	_	_	7	nmod	_	BBIL=I|BPT=1|LBIL=I|LPOS=0|SpaceAfter=No|UI=50770

@@ -10,10 +10,10 @@ This relation is universal.
 
 5675 nodes (1%) are attached to their parents as `nummod`.
 
-4488 instances of `nummod` (79%) are right-to-left (child precedes parent).
+4490 instances of `nummod` (79%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.23348017621145.
 
-The following 8 pairs of parts of speech are connected with `nummod`: <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (4657; 82% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (561; 10% instances), <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (223; 4% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (184; 3% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (20; 0% instances), <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (17; 0% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (11; 0% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (2; 0% instances).
+The following 8 pairs of parts of speech are connected with `nummod`: <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (4659; 82% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (559; 10% instances), <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (223; 4% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (184; 3% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (20; 0% instances), <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (17; 0% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (11; 0% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -27,13 +27,13 @@ The following 8 pairs of parts of speech are connected with `nummod`: <tt><a hre
 3	ha	haver	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
 4	fet	fer	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	0:root	_
 5	una	un	NUM	dn0fs0	Gender=Fem|Number=Sing|NumType=Card	6	nummod	6:nummod	_
-6	ofrena	ofrena	NOUN	ncfs000	Gender=Fem|Number=Sing	4	nsubj	4:nsubj	_
+6	ofrena	ofrena	NOUN	ncfs000	Gender=Fem|Number=Sing	4	nsubj	4:nsubj	ArgTem=arg1:pat
 7	simbòlica	simbòlic	ADJ	aq0fs0	Gender=Fem|Number=Sing	6	amod	6:amod	_
 8	a	a	ADP	sps00	_	11	case	11:case	_
-9	'	'	PUNCT	fz	PunctType=Quot	11	punct	11:punct	SpaceAfter=No|Entity=(3LBCAT060103003s4.sn.21-person-3-gstype:spec
+9	'	'	PUNCT	fz	PunctType=Quot	11	punct	11:punct	SpaceAfter=No|Entity=(NOCOREF:Spec.person-person-3-gstype:spec
 10	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	11:det	_
-11	Moreneta	Moreneta	PROPN	np0000p	_	4	obj	4:obj	SpaceAfter=No
-12	'	'	PUNCT	fz	PunctType=Quot	11	punct	11:punct	SpaceAfter=No|Entity=3LBCAT060103003s4.sn.21)
+11	Moreneta	Moreneta	PROPN	np0000p	_	4	obl:arg	4:obl:arg	SpaceAfter=No|ArgTem=arg2:ben
+12	'	'	PUNCT	fz	PunctType=Quot	11	punct	11:punct	SpaceAfter=No|Entity=NOCOREF:Spec.person)
 13	.	.	PUNCT	fp	PunctType=Peri	4	punct	4:punct	_
 
 ~~~
@@ -47,10 +47,10 @@ The following 8 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 1 2 nummod	color:blue
 1	Els	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	3:det	_
 2	tres	tres	NUM	dn0cp0	Number=Plur|NumType=Card	1	nummod	1:nummod	_
-3	accidentats	accidentat	NOUN	ncmp000	Gender=Masc|Number=Plur	6	nsubj	6:nsubj	_
+3	accidentats	accidentat	NOUN	ncmp000	Gender=Masc|Number=Plur	6	nsubj	6:nsubj	ArgTem=arg1:tem
 4	són	ser	AUX	vmip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
 5	de	de	ADP	sps00	_	6	case	6:case	_
-6	nacionalitat	nacionalitat	NOUN	ncfs000	Gender=Fem|Number=Sing	0	root	0:root	_
+6	nacionalitat	nacionalitat	NOUN	ncfs000	Gender=Fem|Number=Sing	0	root	0:root	ArgTem=arg2:atr
 7	marroquina	marroquí	ADJ	aq0fs0	Gender=Fem|Number=Sing	6	amod	6:amod	SpaceAfter=No
 8	.	.	PUNCT	fp	PunctType=Peri	6	punct	6:punct	_
 
@@ -64,17 +64,17 @@ The following 8 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 8	fgColor:white
 # visual-style 8 9 nummod	color:blue
 1	La	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	2:det	Entity=(CESSCATAAP2001110119c9-other-2-gstype:spec,HomoDD
-2	cotització	cotització	NOUN	ncfs000	Gender=Fem|Number=Sing	8	nsubj	8:nsubj	_
+2	cotització	cotització	NOUN	ncfs000	Gender=Fem|Number=Sing	8	nsubj	8:nsubj	ArgTem=arg1:tem
 3	de	de	ADP	sps00	_	5	case	5:case	_
 4	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	5:det	Entity=(CESSCATAAP2001110119c1--2-CorefType:ident,gstype:gen,HomoDD
 5	castanya	castanya	NOUN	ncfs000	Gender=Fem|Number=Sing	2	nmod	2:nmod	Entity=CESSCATAAP2001110119c1)CESSCATAAP2001110119c9)
 6	és	ser	AUX	vsip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	8:cop	_
 7	l'	el	DET	da0cs0	Definite=Def|Number=Sing|PronType=Art	8	det	8:det	SpaceAfter=No|Entity=(CESSCATAAP2001110119c9-other-2-CorefType:pred.definit,gstype:spec
-8	Ibex	Ibex	PROPN	np0000a	_	0	root	0:root	MWE=Ibex_35|MWEPOS=PROPN
+8	Ibex	Ibex	PROPN	np0000a	_	0	root	0:root	MWE=Ibex_35|MWEPOS=PROPN|ArgTem=arg2:atr
 9	35	35	NUM	_	NumForm=Digit|NumType=Card	8	nummod	8:nummod	_
 10	de	de	ADP	spcmp	_	12	case	12:case	_
 11	els	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	12:det	_
-12	records	record	NOUN	ncmp000	Gender=Masc|Number=Plur	8	nmod	8:nmod	SpaceAfter=No|Entity=(CESSCATAAP2001110119s24.sn.25--1-gstype:gen,HomoDD)CESSCATAAP2001110119c9)
+12	records	record	NOUN	ncmp000	Gender=Masc|Number=Plur	8	nmod	8:nmod	SpaceAfter=No|Entity=(NOCOREF:Gen--1-gstype:gen,HomoDD)CESSCATAAP2001110119c9)
 13	.	.	PUNCT	fp	PunctType=Peri	8	punct	8:punct	_
 
 ~~~

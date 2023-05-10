@@ -11,7 +11,7 @@ This relation is a language-specific subtype of <tt><a href="fi_ftb-dep-xcomp.ht
 369 nodes (0%) are attached to their parents as `xcomp:ds`.
 
 367 instances of `xcomp:ds` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.69105691056911.
+Average distance between parent and child is 1.68563685636856.
 
 The following 5 pairs of parts of speech are connected with `xcomp:ds`: <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (165; 45% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (117; 32% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (84; 23% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 

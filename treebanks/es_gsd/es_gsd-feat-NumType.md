@@ -36,7 +36,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (1033; 100% of non-empty `NumType`): <em>primera, primer, segunda, segundo, tercera, primeros, primeras, tercer, cuarto, cuarta</em>
-* `EMPTY` (23950): <em>gran, mismo, mayor, nuevo, estadounidense, total, mejor, nacional, grandes, nueva</em>
+* `EMPTY` (23953): <em>gran, mismo, mayor, nuevo, estadounidense, total, mejor, nacional, grandes, nueva</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (49) occur only with one value of `NumType`.
 
@@ -49,7 +49,7 @@ The most frequent other feature values with which `PRON` and `NumType` co-occurr
 `PRON` tokens may have the following values of `NumType`:
 
 * `Card` (539; 100% of non-empty `NumType`): <em>tanto, poco, mucho, muchos, ambos, bastante, muchas, demasiado, ambas, pocos</em>
-* `EMPTY` (13479): <em>se, lo, que, le, la, me, uno, cual, los, nos</em>
+* `EMPTY` (13484): <em>se, lo, que, le, la, me, uno, cual, los, nos</em>
 
 `NumType` seems to be **lexical feature** of `PRON`. 100% lemmas (12) occur only with one value of `NumType`.
 
@@ -62,7 +62,7 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 `DET` tokens may have the following values of `NumType`:
 
 * `Card` (408; 100% of non-empty `NumType`): <em>muchos, muchas, ambos, mucha, pocos, poco, ambas, mucho, poca, tanto</em>
-* `EMPTY` (60474): <em>el, la, los, un, las, una, su, sus, este, esta</em>
+* `EMPTY` (60478): <em>el, la, los, un, las, una, su, sus, este, esta</em>
 
 `NumType` seems to be **lexical feature** of `DET`. 100% lemmas (13) occur only with one value of `NumType`.
 

@@ -23,7 +23,7 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 4	fgColor:white
 # visual-style 4 2 cop	color:blue
 1	Ястребов	Ястребов	PROPN	N	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Sur|Number=Sing	4	nsubj	_	GTtags=Prop,Sur_Mal,Sg,Nom,Indef
-2	ульнесь	ульнемс	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	4	cop	_	GTtags=IV,Ind,Prt1,ScSg3
+2	ульнесь	ульнемс	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	4	cop	_	GTtags=IV,Ind,Prt1,ScSg3
 3	сонзэ	сон	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Prs	4	nmod	_	GTtags=Pers,Sg3,Gen
 4	помошникезэ	помошник	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	0	root	_	GTtags=Sg,Nom,PxSg3|SpaceAfter=No
 5	.	.	PUNCT	CLB	_	4	punct	_	_
@@ -39,7 +39,7 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 4 3 cop	color:blue
 1	―	―	PUNCT	PUNCT	_	4	punct	_	_
 2	Кенярдомаст	кенярдома	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=3	4	nsubj	_	GTtags=Sg,Nom,PxPl3
-3	ульнесь	ульнемс	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	4	cop	_	GTtags=IV,Ind,Prt1,ScSg3
+3	ульнесь	ульнемс	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	4	cop	_	GTtags=IV,Ind,Prt1,ScSg3
 4	певтеме	певтеме	ADJ	A	_	0	root	_	GTtags=|SpaceAfter=No
 5	.	.	PUNCT	CLB	_	4	punct	_	_
 
@@ -56,7 +56,7 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 2	Микол	Микол	PROPN	N	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	4	vocative	_	GTtags=Prop,Ant_Mal,Sg,Nom,Indef|SpaceAfter=No
 3	,	,	PUNCT	CLB	_	2	punct	_	_
 4	тонь	тон	PRON	Pron	Case=Gen|Number=Sing|Person=2|PronType=Prs	0	root	_	GTtags=Pers,Sg2,Gen
-5	улить	улемс	AUX	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Valency=1	4	cop	_	GTtags=IV,Ind,Prs,ScPl3
+5	улить	улемс	AUX	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres	4	cop	_	GTtags=IV,Ind,Prs,ScPl3
 6	табакот	табак	NOUN	N	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=2	4	nsubj	_	GTtags=Pl,Nom,PxSg2|SpaceAfter=No
 7	?	?	PUNCT	CLB	_	4	punct	_	_
 
