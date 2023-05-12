@@ -468,7 +468,7 @@ punct(put, .)
 He plays better drunk than sober
 nsubj(plays, He)
 advmod(plays, better)
-acl(He, drunk)
+advcl(plays, drunk)
 mark(sober, than)
 advcl(better, sober)
 ~~~
