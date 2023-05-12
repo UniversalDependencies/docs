@@ -91,24 +91,26 @@ Sometimes it is difficult to determine whether to use the csubj:cleft label or t
 2. If the phrase is fronted for emphatic reasons then is is likely to be a cleft. 
 3. Categorise by how it’s fronted (PP, NP, AdvP, AdjP)- if it is a fronted NP, then it is more likely to be either a relative clause or a cleft. If the NP consists of an augment pronoun and a noun it is a cleft. However, if the first noun is not an augment pronoun and is being equated with the second NP, then the second NP has an embedded relative clause. 
 
-### Emphatic 
+### Emphatic (cleft)
 _Is ise a chuir Dick Spring i mbun na Roinne Oideachais_ 'It is her who put Dick Spring in charge of the Department of Education'
 
 ~~~ sdparse
 Is ise a chuir Dick Spring i mbun na Roinne Oideachais
-cleft(ise, chuir)
+csubj:cleft(ise, chuir)
 ~~~
 
-### Augment Pronoun
+### Augment Pronoun (cleft)
 _Is í Máire a chuir Dick Spring i mbun na Roinne Oideachais_ 'It is Máire who put Dick Spring in charge of the Department of Education'
+
+_í_ 'her' is an augment pronoun - not to be confused with an object predication clause.
 
 ~~~ sdparse
 Is í Máire a chuir Dick Spring i mbun na Roinne Oideachais
-cleft(Máire, chuir)
+csubj:cleft(Máire, chuir)
 ~~~
 
-### Two noun phrases are being equated by the copula
-* (‘ise’ & ‘té’ in this example)
+### Object predication followed by relative clause (not cleft but easily confused!)
+* (_ise_ 'she’ & _té_ 'the person')
 
 _Is ise an té a chuir Dick Spring i mbun na Roinne Oideachais_ 'She is the person who put Dick Spring in charge of the Department of Education'
 
