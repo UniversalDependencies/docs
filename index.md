@@ -46,10 +46,21 @@ If you want to discuss individual annotation questions, use the
 ## Possible Future Extensions
 
 People have expressed interest in providing annotated data for the following languages but no
-data has been provided so far.
+valid data has been provided so far.
 
 <div id="accordion" class="jquery-ui-accordion">
 {% include at_glance_sapling.html %}
+</div>
+
+<small>Disclaimer: Our use of flags to symbolise languages is only intended as a visual enhancement of the website and should not be interpreted as a political statement in any way.</small>
+
+## Retired Treebanks
+
+The following treebanks have been part of one or more UD releases in the past but they are no
+longer maintained and they have been excluded from the most recent release.
+
+<div id="accordion" class="jquery-ui-accordion">
+{% include at_glance_retired.html %}
 </div>
 
 <small>Disclaimer: Our use of flags to symbolise languages is only intended as a visual enhancement of the website and should not be interpreted as a political statement in any way.</small>
@@ -60,7 +71,8 @@ data has been provided so far.
 
 The data is released through LINDAT/CLARIN.
 
-* The next release (v2.12) is scheduled for May 15, 2023 (data freeze on May 1).
+* The next release (v2.13) is scheduled for November 15, 2023 (data freeze on November 1).
+* Version 2.12 treebanks will be available at <a href="http://hdl.handle.net/11234/1-5150">http://hdl.handle.net/11234/1-5150</a>. 245 treebanks, 141 languages, released May 15, 2023.
 * Version 2.11 treebanks are available at <a href="http://hdl.handle.net/11234/1-4923">http://hdl.handle.net/11234/1-4923</a>. 243 treebanks, 138 languages, released November 15, 2022.
 * Version 2.10 treebanks are archived at http://hdl.handle.net/11234/1-4758. 228 treebanks, 130 languages, released May 15, 2022.
 * Version 2.9 treebanks are archived at http://hdl.handle.net/11234/1-4611. 217 treebanks, 122 languages, released November 15, 2021.
