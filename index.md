@@ -49,7 +49,7 @@ People have expressed interest in providing annotated data for the following lan
 data has been provided so far.
 
 <div id="accordion" class="jquery-ui-accordion">
-{% include at_glance_empty.html %}
+{% include at_glance_sapling.html %}
 </div>
 
 <small>Disclaimer: Our use of flags to symbolise languages is only intended as a visual enhancement of the website and should not be interpreted as a political statement in any way.</small>
