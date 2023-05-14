@@ -11,7 +11,6 @@ udver: '2'
   <td><a href="#Cnd">Cnd</a></td>
   <td><a href="#Imp">Imp</a></td>
   <td><a href="#Irr">Irr</a></td>
-  <td><a href="#Qot">Qot</a></td>
   <td><a href="#Sub">Sub</a></td>
 </tr>
 </table>
@@ -21,7 +20,7 @@ udver: '2'
 #### Example
 
 
-### <a name="Imp">`Imp`</a>: irrealis
+### <a name="Imp">`Imp`</a>: imperative
 
 
 #### Example
@@ -31,9 +30,6 @@ udver: '2'
 
 #### Example
 
-### <a name="Qot">`Qot`</a>: quotative
-
-#### Example
 
 ### <a name="Sub">`Sub`</a>: subjunctive
 
