@@ -27,7 +27,7 @@ You may also want to announce your tool in the
     * [DgAnnotator](#dgannotator)
     * [UD Annotatrix](#ud-annotatrix)
     * [Tred](#tred)
-    * [Arborator](#arborator)
+    * [ArboratorGrew](#arboratorgrew)
     * [LightTag](#lighttag)
     * [TrUDucer](#truducer)
     * [ConlluEditor](#conllueditor)
@@ -179,17 +179,17 @@ WebAnno 3.0.0 does not support the CoNLL-U 2.0 format at this time.
 * References: Petr Pajas, Peter Fabian, Jan Štěpánek
 
 
-#### Arborator
+#### ArboratorGrew
 
 <img style="float:right" src="http://universaldependencies.org/img/arborator.PNG"/>
-**Arborator** is a manual dependency annotation tool supporting editing of POS tags and dependency relations in an easy to use drag and drop interface. It has project management features including specialized class-sourcing features, such as mixing in small amounts of gold data for evaluation/grading and assigning tasks to annotators. It supports color schemes for different labels and can read and write conll format dependencies. It now supports conllu input as well. There is also a 'quick mode' that can be used without setting up a project, just be copy-pasting conll data. For a demo, see here: <https://arborator.ilpga.fr/q.cgi>
+** ArboratorGrew ** is a comprehensive, open-source, web-based tool designed for dependency treebank annotation. It supports a user-friendly drag-and-drop interface, along with social login features. Its project management capabilities allow for multiple users to collaborate simultaneously and compare trees for efficient and collaborative annotation efforts. The tool is equipped with a teacher mode and class-sourcing capabilities, making it suitable for both research and educational settings. It incorporates search and replace functions based on the Grew formalism, and an integrated neural bi-affine parser for quick bootstrapping. Additionally, it supports various annotation schemes, including UD, SUD, and custom-made schemes.  <https://arboratorgrew.elizia.net>
 
 * Category: manual annotation tool
 * Platform: Any
 * Implementation: Python, JavaScript
 * License: AGPL-3.0 (open source)
-* Homepage: <https://arborator.ilpga.fr/>
-* References: Gerdes, Kim (2013), Collaborative Dependency Annotation. In: Proceedings of the Second International Conference on Dependency Linguistics (DepLing 2013). Prague, 88–97.
+* Homepage: <https://arboratorgrew.elizia.net/>
+* References: Guibon, G., Courtin, M., Gerdes, K. and Guillaume, B., 2020, May. When collaborative treebank curation meets graph grammars. In LREC 2020-12th Language Resources and Evaluation Conference.
 
 
 #### LightTag
