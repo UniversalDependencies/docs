@@ -142,13 +142,14 @@ See [here](release_checklist.html) for the checklist for data contributors.
 * Generate Deep UD based on the new UD release.
 
 <small><code style='color:lightgrey'>
-\# copy metadata to biblio<br />
+\# copy metadata to biblio<br /><br />
+$HAMLEDT/release_ud_ufal.pl --release 2.12<br /><br /># or<br /><br />
+\# check that Treex knows all new language codes (two files: resources XML schema and Core/Types.pm)<br />
 rel="2.12"<br />
 path=$(pwd)<br />
 cd /net/data<br />
 tar xzf $path/release-$rel/ud-treebanks-v$rel.tgz<br />
 mv ud-treebanks-v$rel universal-dependencies-$rel<br />
-\# check that Treex knows all new language codes (two files: resources XML schema and Core/Types.pm)<br />
 cd $HAMLEDT<br />
 perl ./populate_ud.pl $rel<br />
 cd normalize ; make qpmltq<br />
