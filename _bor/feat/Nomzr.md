@@ -8,7 +8,7 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Yes">Yes</a></td>
+  <td><a href="#Rel">Rel</a></td>
   
   
 </tr>
@@ -16,7 +16,7 @@ udver: '2'
 
 `Nomzr` refers to the nominalizer (deverbalizer) 
 
-### <a name="Yes">`Yes`</a>: Yes
+### <a name="Rel">`Rel`</a>: Rel
 
 
 #### Example
