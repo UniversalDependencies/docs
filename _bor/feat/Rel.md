@@ -8,15 +8,15 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Yes">Yes</a></td>
+  <td><a href="#Rel">Rel</a></td>
   
   
 </tr>
 </table>
 
-`Yes` (relativizer) indicates a  
+`Rel` (relativizer) indicates a  
 
-### <a name="Yes">`Yes`</a>: Yes
+### <a name="Rel">`Rel`</a>: Rel
 
 The Relativizer
 
