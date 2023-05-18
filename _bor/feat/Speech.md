@@ -1,22 +1,22 @@
 ---
 layout: feature
-title: 'IF'
-shortdef: 'IF'
+title: 'Speech.md'
+shortdef: 'Speech.md'
 udver: '2'
 ---
 
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Ass">Ass</a></td>
+  <td><a href="#Ind">Ind</a></td>
   
   
 </tr>
 </table>
 
-`Ass` Assertive 
+`Ind` Indirect 
 
-### <a name="Ass">`Ass`</a>: Assertive
+### <a name="Ind">`Ind`</a>: Ind
 
 
 #### Example
