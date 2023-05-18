@@ -1,7 +1,7 @@
 ---
 layout: feature
-title: 'Speech.md'
-shortdef: 'Speech.md'
+title: 'Speech'
+shortdef: 'Speech'
 udver: '2'
 ---
 
