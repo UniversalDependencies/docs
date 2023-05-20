@@ -47,13 +47,20 @@ Person  |       Before consonant       | Before vowel          |
 
 The first plural of person indexes distinguish between the values `Ex` (exclusive) and `In` (inclusive) for the feature `Clusivity`
 
-* Nouns are either possessed or unpossessed. Possessed nouns are either alienably o inalienably possessed and this distinction is morphologically marked, with inalienably possessed nouns being marked by agreement with the possessor.
+* Nouns are either possessed or unpossessed. Possessed nouns are either alienably o inalienably possessed. Inalienably possessed nouns in Bororo are kinship terms and body parts.
 
 ```
-Imi iia
-imi i-ia
-I 1SG-mouth
+Iia
+i=ia
+1SG=mouth
 my mouth
+```
+
+```
+Aparo
+a=paro
+2SG=axe
+Your axe
 ```
 
 
