@@ -8,12 +8,34 @@ udver: '2'
 
 ## Tokenization and Word Segmentation
 
-Bororo uses all 18 tags. Words are delimited by a whitespace.
 
-*
+* Bororo uses all 18 [UPOS](https://universaldependencies.org/u/pos/index.html).
+* Tokenization and semgmentatoin in Bororo is straightforward. There are no multiwords that require spaces or dashes.
+* In general, words are delimited by whitespace characters. .
+* According to typographical rules, many punctuation marks are attached to a neighboring word. We always tokenize them as separate tokens (words).
 
----
-**Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
+Mapping UPOS to XPOS Akuntsú
+
+ UPOS | XPOS |
+:----: | :------: |
+ ADJ   | adj      |
+ ADV   | adv      |
+ INTJ  | intj     |
+ NOUN  | n        |
+ PROPN | ppn      |
+ VERB  | v, vi, vt|
+ ADP   | pp       |
+ AUX   | aux      |
+ CCONJ | cc       |
+ DET   | det      |
+ NUM   | num      |
+ PART  | pcl      |
+ PRON  | pron, bi |
+ SCONJ | sc       |
+ PUNCT | punct    |
+ SYM   | sym      |
+ X     | x        |
+
 
 ---
 
@@ -27,7 +49,7 @@ The `gender of nouns in Bororo follow the natural gender of the animate nouns, i
 
 #### Number
 
-There are different ways of forming the `plural` of nouns in Bororo: deleting the last syllables of nouns ending in -\textit{edu}, substituting the last vowel by \textit{e}, adding \textit{e} to the singular form, adding -\textit{doge} to the stem, adding -\textit{ge} to nouns ending in -\textit{rewy}, -\textit{wy}, -\textit{epa}, -\textit{are}. There are also instances of irregular plural forms, ablaut with change of final vowel, and some forms that do not vary in the plural.
+There are different ways of forming the `plural` of nouns in Bororo: deleting the last syllables of nouns ending in -*edu*, substituting the last vowel by -*e*, adding *e* to the singular form, adding -*doge* to the stem, adding -*ge* to nouns ending in -*rewy*, -*wy*, -*epa*, -*are*. There are also instances of irregular plural forms, ablaut with change of final vowel, and some forms that do not vary in the plural.
 
 ### Tags
 
