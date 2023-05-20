@@ -60,6 +60,9 @@ my mouth
 ---
 **Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
 
+Bororo has no copula an no auxiliary verbs.
+
+
 ---
 
 ### Features
@@ -78,16 +81,16 @@ The only argument of an intransitive verb (S) is marked by agreement on the verb
 
 ```
 Imaragodure
-i-maragodu-re
-1SG-work-ASS
+i-maragodu=re
+1SG-work=ASS
 ```
 
 The A argument of transitive verbs is indexed on the mood or aspectul marker, and the O argumend is bound to verb. 
 
 ```
 adugore emage ewido
-adugo-re e-mage e-bito
-jaguar-ASS they 3PL-kill
+adugo=re e-mage e=bito
+jaguar=IND they 3.PL=kill
 The jaguar killed them
 ```
 
