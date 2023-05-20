@@ -23,11 +23,11 @@ Bororo uses all 18 tags. Words are delimited by a whitespace.
 
 #### Gender
 
-The `gender of nouns in Bororo follow the natural gender of the animate nouns, i.e., males take masculine gender and females take feminine gender. Inanimate nouns are genderless but morphologically they follow the masculine pattern.
+The `gender of nouns in Bororo follow the natural gender of the animate nouns, i.e., males take masculine gender and females take feminine gender. Inanimate nouns are genderless but morphologically they follow the masculine pattern. Based on natural gender, some nouns may be marked as feminine.
 
 #### Number
 
-There are different ways of forming the `plural` of nouns in Bororo: deleting the last syllables of nouns ending in -\textit{edu}, substituting the last vowel by \textit{e}, adding \textit{e} to the singular form, adding -\textit{doge} to the stem, adding -\textit{ge} to nouns ending in -\textit{reu}, -\textit{wu}, -\textit{epa}, -\textit{are}. There are also instances of irregular plural forms, ablaut with change of final vowel, and some forms that do not vary in the plural.
+There are different ways of forming the `plural` of nouns in Bororo: deleting the last syllables of nouns ending in -\textit{edu}, substituting the last vowel by \textit{e}, adding \textit{e} to the singular form, adding -\textit{doge} to the stem, adding -\textit{ge} to nouns ending in -\textit{rewy}, -\textit{wy}, -\textit{epa}, -\textit{are}. There are also instances of irregular plural forms, ablaut with change of final vowel, and some forms that do not vary in the plural.
 
 ### Tags
 
@@ -73,7 +73,8 @@ my mouth
 
 ## Syntax
 
-Bororo is an ergative language. The only argument of an intransitive verb (absolutive) is marked by agreement on the verb. 
+Bororo is of neutral alignmnt type. S, A, and O are marked by the same set of bound indexes.
+The only argument of an intransitive verb (S) is marked by agreement on the verb: 
 
 ```
 Imaragodure
@@ -81,7 +82,7 @@ i-maragodu-re
 1SG-work-ASS
 ```
 
-For transitive verbs, the only agreement marker on the verb is that of the patient (absolutive) argument.
+The A argument of transitive verbs is indexed on the mood or aspectul marker, and the O argumend is bound to verb. 
 
 ```
 adugore emage ewido
