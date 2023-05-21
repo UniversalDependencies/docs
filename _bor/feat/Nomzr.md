@@ -9,6 +9,7 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Rel">Rel</a></td>
+  <td><a href="#Clau">Clau</a></td>
   
   
 </tr>
@@ -17,6 +18,11 @@ udver: '2'
 `Nomzr` refers to the nominalizer (deverbalizer) 
 
 ### <a name="Rel">`Rel`</a>: Rel
+
+
+#### Example
+
+### <a name="Clau">`Clau`</a>: Rel
 
 
 #### Example
