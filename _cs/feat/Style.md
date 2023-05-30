@@ -8,7 +8,6 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Arch">Arch</a></td>
   <td><a href="#Coll">Coll</a></td>
   <td><a href="#Expr">Expr</a></td>
   <td><a href="#Rare">Rare</a></td>
@@ -18,18 +17,11 @@ udver: '2'
 </tr>
 </table>
 
-This
-may be a lexical feature (some words-lemmas are archaic, some are
-colloquial) or a morphological feature (inflectional patterns may
-systematically change between dialects or styles).
+This may be a lexical feature (some lexemes are colloquial, some are vernacular) or a morphological feature
+(inflectional patterns may systematically change between dialects or styles).
 
-### <a name="Arch">`Arch`</a>: archaic, obsolete
-
-#### Examples
-
-* _<b>biblí, bukův, dubův, činějí</b>_
-* _Mezi těmito rodinami jsou <b>dosti</b> značné rozdíly._ “There are quite significant differences between these families.”
-  (The modern equivalent would be _dost_.)
+Note that the value `Style=Arch` (archaic) will be removed starting from release 2.13 because there is no way
+how to define it and apply it consistently across corpora from various historical stages of the language.
 
 ### <a name="Rare">`Rare`</a>: rare
 
@@ -52,7 +44,7 @@ systematically change between dialects or styles).
 #### Examples
 
 * _<b>kotáry, žehnáčky, husličky, nesúdí</b>_
-* _A tak jsem po čase dělal kmotra nové knize: "Slovácko <b>sa nesúdí</b>"._ “And so, over time, I made the godfather of a new book: "Slovácko sa nesúdí" ("Slovácko does not judge").”
+* _A tak jsem po čase dělal kmotra nové knize: "Slovácko <b>sa nesúdí</b>"._ “And so, over time, I stood as godfather of a new book: "Slovácko sa nesúdí" ("Slovácko does not judge").”
   (This is an East-Moravian dialect of Czech; its standard equivalent would be _se nesoudí_.)
 
 ### <a name="Slng">`Slng`</a>: slang
