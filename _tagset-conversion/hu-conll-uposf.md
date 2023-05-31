@@ -1,6 +1,7 @@
 ---
 layout: base
 title: 'Tagset hu::conll conversion to universal POS tags and features'
+udver: '2'
 ---
 
 <a href="index.html">all tables</a>
@@ -71,7 +72,7 @@ Tagset <tt>hu::conll</tt>, total 576 tags.
   <tr style="background:lightgray"><td>A Af deg=superlative|n=singular|case=essive</td><td>=&gt;</td><td>ADJ</td><td>Case=Ess|Degree=Sup|Number=Sing</td><td><em>leghihetőbben, leglátványosabban, legteljesebben</em></td></tr>
   <tr><td>A Af deg=superlative|n=singular|case=nominative</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Sup|Number=Sing</td><td><em>legnagyobb, legfontosabb, legfőbb, legjobb, legkisebb</em></td></tr>
   <tr style="background:lightgray"><td>A Af deg=superlative|n=singular|case=sublative</td><td>=&gt;</td><td>ADJ</td><td>Case=Sub|Degree=Sup|Number=Sing</td><td><em>legújabbra, leggyorsabbra, legfehérebbre</em></td></tr>
-  <tr><td>C Cc ctype=coordinating</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em>és, is, s, de, vagy</em></td></tr>
+  <tr><td>C Cc ctype=coordinating</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em>és, is, s, de, vagy</em></td></tr>
   <tr style="background:lightgray"><td>C Cs ctype=subordinating</td><td>=&gt;</td><td>SCONJ</td><td>_</td><td><em>hogy, mint, ha, mert, mivel</em></td></tr>
   <tr><td>I I _</td><td>=&gt;</td><td>INTJ</td><td>_</td><td><em>ja, Hiába</em></td></tr>
   <tr style="background:lightgray"><td>I Io _</td><td>=&gt;</td><td>INTJ</td><td>_</td><td><em>persze, Íme, mindegy, sajnos, nem</em></td></tr>
@@ -525,11 +526,11 @@ Tagset <tt>hu::conll</tt>, total 576 tags.
   <tr style="background:lightgray"><td>R Rg _</td><td>=&gt;</td><td>ADV</td><td>PronType=Neg,Tot</td><td><em>mindig, soha, mindenképpen, mind, bármikor</em></td></tr>
   <tr><td>R Ri _</td><td>=&gt;</td><td>ADV</td><td>PronType=Ind</td><td><em>sokáig, olykor, valahol, másrészt, egyrészt</em></td></tr>
   <tr style="background:lightgray"><td>R Rl _</td><td>=&gt;</td><td>ADV</td><td>PronType=Prs</td><td><em>rá, neki, vele, benne, róla</em></td></tr>
-  <tr><td>R Rm _</td><td>=&gt;</td><td>ADV</td><td>Negative=Neg</td><td><em>nem, sem, ne, se</em></td></tr>
+  <tr><td>R Rm _</td><td>=&gt;</td><td>ADV</td><td>Polarity=Neg</td><td><em>nem, sem, ne, se</em></td></tr>
   <tr style="background:lightgray"><td>R Rp _</td><td>=&gt;</td><td>PART</td><td>_</td><td><em>meg, el, ki, be, fel</em></td></tr>
   <tr><td>R Rq _</td><td>=&gt;</td><td>ADV</td><td>PronType=Int</td><td><em>-e, miért, hogyan, hol, vajon</em></td></tr>
   <tr style="background:lightgray"><td>R Rr _</td><td>=&gt;</td><td>ADV</td><td>PronType=Rel</td><td><em>amikor, ahol, míg, miközben, ahogy</em></td></tr>
-  <tr><td>R Rv _</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Trans</td><td><em>hivatkozva, kezdve, hozzátéve, mondván, véve</em></td></tr>
+  <tr><td>R Rv _</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Conv</td><td><em>hivatkozva, kezdve, hozzátéve, mondván, véve</em></td></tr>
   <tr style="background:lightgray"><td>R Rx _</td><td>=&gt;</td><td>ADV</td><td>_</td><td><em>már, még, csak, is, például</em></td></tr>
   <tr><td>S St _</td><td>=&gt;</td><td>ADP</td><td>AdpType=Post</td><td><em>szerint, után, között, által, alatt</em></td></tr>
   <tr style="background:lightgray"><td>SPUNCT SPUNCT _</td><td>=&gt;</td><td>PUNCT</td><td>PunctType=Excl,Peri,Qest</td><td><em>., ?, ", !, ...</em></td></tr>
@@ -589,7 +590,7 @@ Tagset <tt>hu::conll</tt>, total 576 tags.
   <tr style="background:lightgray"><td>V Vm mood=infinitive|t=present|p=3rd|n=plural</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3|Tense=Pres|VerbForm=Inf</td><td><em>megtalálniuk, válniuk, nyilatkozniuk, tenniük, válaszolniuk</em></td></tr>
   <tr><td>V Vm mood=infinitive|t=present|p=3rd|n=singular</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Tense=Pres|VerbForm=Inf</td><td><em>kifizetnie, maradnia, számolnia, lennie, mennie</em></td></tr>
   <tr style="background:lightgray"><td>WPUNCT WPUNCT _</td><td>=&gt;</td><td>PUNCT</td><td>_</td><td><em>,, —, ", :, (</em></td></tr>
-  <tr><td>X X _</td><td>=&gt;</td><td>X</td><td>Foreign=Foreign</td><td><em>homo, Ecce, vezette, szmsz, chaebolnak</em></td></tr>
+  <tr><td>X X _</td><td>=&gt;</td><td>X</td><td>Foreign=Yes</td><td><em>homo, Ecce, vezette, szmsz, chaebolnak</em></td></tr>
   <tr style="background:lightgray"><td>Y Y _</td><td>=&gt;</td><td>X</td><td>Abbr=Yes</td><td><em>stb., dr., Mr., T., ifj.</em></td></tr>
   <tr><td>Z Z _</td><td>=&gt;</td><td>X</td><td>Typo=Yes</td><td><em>a, az, mind, igen, többek</em></td></tr>
 </table>

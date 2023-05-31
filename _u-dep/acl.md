@@ -1,7 +1,8 @@
 ---
 layout: relation
 title: 'acl'
-shortdef: 'clausal modifier of noun (adjectival clause)'
+shortdef: 'clausal modifier of noun (adnominal clause)'
+udver: '2'
 ---
 
 `acl` stands for finite and non-finite clauses that modify a nominal.  The `acl` relation 
@@ -16,35 +17,48 @@ acl(issues, sees)
 ~~~
 
 ~~~ sdparse
+There are many online sites offering booking facilities .
+acl(sites, offering)
+~~~
+
+~~~ sdparse
+I have a parakeet named cookie .
+acl(parakeet, named)
+~~~
+
+~~~ sdparse
+A president certain that they are correct is dangerous . 
+acl(president, certain)
+ccomp(certain, correct)
+nsubj(dangerous, president)
+~~~
+
+~~~ sdparse
+I just want a simple way to get my discount .
+acl(way, get)
+~~~
+
+~~~ sdparse
 Cette affaire à suivre \n This case to follow 
 acl(affaire, suivre)
 ~~~
 
-This relation is also used for optional depictives. The adjective is taken to modify the nominal of which it provides a secondary predication. See [xcomp]() for further discussion of resultatives and depictives.
-
-~~~ sdparse
-She entered the room sad
-acl(She, sad)
-~~~
-
-~~~ sdparse
-He painted the model naked
-acl(model, naked)
-~~~
-
 A relative clause is an instance of `acl`, characterized by finiteness and usually omission of 
-the modified noun in the embedded clause. Some languages use a language-particular subtype for the traditional class of relative clauses.
+the modified noun in the embedded clause. Some languages use a language-particular subtype `acl:relcl` for the traditional class of relative clauses.
 
 ~~~ sdparse
 I saw the man you love
-acl(man, love)
+acl:relcl(man, love)
 ~~~
 
 Some languages allow finite clausal complements for nouns with 
-a subset of nouns like *fact* or *report*. These look roughly like relative clauses, but do not have any omitted role in the dependent clause. This is the class of "content
-clauses" in Huddleston and Pullum 2002). These are also analyzed as `acl`.
+a subset of nouns like *fact* or *report*. These look roughly like relative clauses, but do not have any omitted role in the dependent clause. This is the class of "content clauses" in Huddleston and Pullum 2002). These are also analyzed as `acl`.
 
 ~~~ sdparse
 the fact that nobody cares
 acl(fact, cares)
 ~~~
+
+This relation is no longer used for optional depictives: [advcl]() should be used instead.
+
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:53 CEST -->

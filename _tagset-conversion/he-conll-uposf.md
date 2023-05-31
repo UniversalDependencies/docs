@@ -1,6 +1,7 @@
 ---
 layout: base
 title: 'Tagset he::conll conversion to universal POS tags and features'
+udver: '2'
 ---
 
 <a href="index.html">all tables</a>
@@ -64,24 +65,24 @@ Tagset <tt>he::conll</tt>, total 370 tags.
   <tr><td>BN BN_S_PP M|S|A|PAAL|suf_F|suf_P|suf_3</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|Gender[psor]=Fem|Number=Sing|Number[psor]=Plur|Person[psor]=3|Poss=Yes|VerbForm=Part|Voice=Act</td><td>רוקמן, פולטן</td></tr>
   <tr style="background:lightgray"><td>BN BN_S_PP M|S|A|PAAL|suf_M|suf_P|suf_3</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Plur|Person[psor]=3|Poss=Yes|VerbForm=Part|Voice=Act</td><td>מותחם, צדם</td></tr>
   <tr><td>BN BN_S_PP M|S|A|PIEL|suf_M|suf_S|suf_3</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|VerbForm=Part|Voice=Int</td><td>מרקדו</td></tr>
-  <tr style="background:lightgray"><td>BNT BNT F|P|A|HIFIL</td><td>=&gt;</td><td>ADJ</td><td>Definite=Red|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Cau</td><td>מחזיקות</td></tr>
-  <tr><td>BNT BNT F|P|A|HITPAEL</td><td>=&gt;</td><td>ADJ</td><td>Definite=Red|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Mid</td><td>מתעמלות</td></tr>
-  <tr style="background:lightgray"><td>BNT BNT F|S|A|HIFIL</td><td>=&gt;</td><td>ADJ</td><td>Definite=Red|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Cau</td><td>מרחיקת</td></tr>
-  <tr><td>BNT BNT F|S|A|PAAL</td><td>=&gt;</td><td>ADJ</td><td>Definite=Red|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</td><td>אוזלת, סרת</td></tr>
-  <tr style="background:lightgray"><td>BNT BNT M|P|A</td><td>=&gt;</td><td>ADJ</td><td>Definite=Red|Gender=Masc|Number=Plur|VerbForm=Part</td><td>ממלאי, מנחילי</td></tr>
-  <tr><td>BNT BNT M|P|A|HIFIL</td><td>=&gt;</td><td>ADJ</td><td>Definite=Red|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Cau</td><td>מנחילי, מקימי, מחזיקי</td></tr>
-  <tr style="background:lightgray"><td>BNT BNT M|P|A|HUFAL</td><td>=&gt;</td><td>ADJ</td><td>Definite=Red|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Cau,Pass</td><td>מוכי, מורשי, מורשעי</td></tr>
-  <tr><td>BNT BNT M|P|A|NIFAL</td><td>=&gt;</td><td>ADJ</td><td>Definite=Red|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass</td><td>נאנסי</td></tr>
-  <tr style="background:lightgray"><td>BNT BNT M|P|A|PAAL</td><td>=&gt;</td><td>ADJ</td><td>Definite=Red|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</td><td>לובשי, דורשי, לומדי, צדי, פושטי</td></tr>
-  <tr><td>BNT BNT M|P|A|PIEL</td><td>=&gt;</td><td>ADJ</td><td>Definite=Red|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Int</td><td>מיידי, מכסחי, מפזרי, מלבי</td></tr>
-  <tr style="background:lightgray"><td>BNT BNT M|S|A</td><td>=&gt;</td><td>ADJ</td><td>Definite=Red|Gender=Masc|Number=Sing|VerbForm=Part</td><td>מגייס</td></tr>
-  <tr><td>BNT BNT M|S|A|HIFIL</td><td>=&gt;</td><td>ADJ</td><td>Definite=Red|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Cau</td><td>מרבה</td></tr>
-  <tr style="background:lightgray"><td>BNT BNT M|S|A|PAAL</td><td>=&gt;</td><td>ADJ</td><td>Definite=Red|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</td><td>לש, סולל</td></tr>
-  <tr><td>BNT BNT M|S|A|PIEL</td><td>=&gt;</td><td>ADJ</td><td>Definite=Red|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Int</td><td>מטבע, ממלא</td></tr>
-  <tr style="background:lightgray"><td>BNT BNT M|S|A|PUAL</td><td>=&gt;</td><td>ADJ</td><td>Definite=Red|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Int,Pass</td><td>מלוקק</td></tr>
-  <tr><td>CC CC _</td><td>=&gt;</td><td>CONJ</td><td>_</td><td>ו, ש, בניגוד, כפי, ככל</td></tr>
-  <tr style="background:lightgray"><td>CC CC-COORD _</td><td>=&gt;</td><td>CONJ</td><td>_</td><td>ו</td></tr>
-  <tr><td>CC CC-REL _</td><td>=&gt;</td><td>CONJ</td><td>PronType=Rel</td><td>אשר</td></tr>
+  <tr style="background:lightgray"><td>BNT BNT F|P|A|HIFIL</td><td>=&gt;</td><td>ADJ</td><td>Definite=Cons|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Cau</td><td>מחזיקות</td></tr>
+  <tr><td>BNT BNT F|P|A|HITPAEL</td><td>=&gt;</td><td>ADJ</td><td>Definite=Cons|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Mid</td><td>מתעמלות</td></tr>
+  <tr style="background:lightgray"><td>BNT BNT F|S|A|HIFIL</td><td>=&gt;</td><td>ADJ</td><td>Definite=Cons|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Cau</td><td>מרחיקת</td></tr>
+  <tr><td>BNT BNT F|S|A|PAAL</td><td>=&gt;</td><td>ADJ</td><td>Definite=Cons|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act</td><td>אוזלת, סרת</td></tr>
+  <tr style="background:lightgray"><td>BNT BNT M|P|A</td><td>=&gt;</td><td>ADJ</td><td>Definite=Cons|Gender=Masc|Number=Plur|VerbForm=Part</td><td>ממלאי, מנחילי</td></tr>
+  <tr><td>BNT BNT M|P|A|HIFIL</td><td>=&gt;</td><td>ADJ</td><td>Definite=Cons|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Cau</td><td>מנחילי, מקימי, מחזיקי</td></tr>
+  <tr style="background:lightgray"><td>BNT BNT M|P|A|HUFAL</td><td>=&gt;</td><td>ADJ</td><td>Definite=Cons|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Cau,Pass</td><td>מוכי, מורשי, מורשעי</td></tr>
+  <tr><td>BNT BNT M|P|A|NIFAL</td><td>=&gt;</td><td>ADJ</td><td>Definite=Cons|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass</td><td>נאנסי</td></tr>
+  <tr style="background:lightgray"><td>BNT BNT M|P|A|PAAL</td><td>=&gt;</td><td>ADJ</td><td>Definite=Cons|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act</td><td>לובשי, דורשי, לומדי, צדי, פושטי</td></tr>
+  <tr><td>BNT BNT M|P|A|PIEL</td><td>=&gt;</td><td>ADJ</td><td>Definite=Cons|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Int</td><td>מיידי, מכסחי, מפזרי, מלבי</td></tr>
+  <tr style="background:lightgray"><td>BNT BNT M|S|A</td><td>=&gt;</td><td>ADJ</td><td>Definite=Cons|Gender=Masc|Number=Sing|VerbForm=Part</td><td>מגייס</td></tr>
+  <tr><td>BNT BNT M|S|A|HIFIL</td><td>=&gt;</td><td>ADJ</td><td>Definite=Cons|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Cau</td><td>מרבה</td></tr>
+  <tr style="background:lightgray"><td>BNT BNT M|S|A|PAAL</td><td>=&gt;</td><td>ADJ</td><td>Definite=Cons|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act</td><td>לש, סולל</td></tr>
+  <tr><td>BNT BNT M|S|A|PIEL</td><td>=&gt;</td><td>ADJ</td><td>Definite=Cons|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Int</td><td>מטבע, ממלא</td></tr>
+  <tr style="background:lightgray"><td>BNT BNT M|S|A|PUAL</td><td>=&gt;</td><td>ADJ</td><td>Definite=Cons|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Int,Pass</td><td>מלוקק</td></tr>
+  <tr><td>CC CC _</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td>ו, ש, בניגוד, כפי, ככל</td></tr>
+  <tr style="background:lightgray"><td>CC CC-COORD _</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td>ו</td></tr>
+  <tr><td>CC CC-REL _</td><td>=&gt;</td><td>CCONJ</td><td>PronType=Rel</td><td>אשר</td></tr>
   <tr style="background:lightgray"><td>CC CC-SUB _</td><td>=&gt;</td><td>SCONJ</td><td>_</td><td>כי, כדי, כאשר, לאחר, כמו</td></tr>
   <tr><td>CD CD F|D</td><td>=&gt;</td><td>NUM</td><td>Gender=Fem|Number=Dual</td><td>מאתיים, אלפיים</td></tr>
   <tr style="background:lightgray"><td>CD CD F|P</td><td>=&gt;</td><td>NUM</td><td>Gender=Fem|Number=Plur</td><td>ששים, שישים, שמונים, עשרים, ארבעים</td></tr>
@@ -90,40 +91,40 @@ Tagset <tt>he::conll</tt>, total 370 tags.
   <tr><td>CD CD M|P</td><td>=&gt;</td><td>NUM</td><td>Gender=Masc|Number=Plur</td><td>מיליון, אלף, שלושה, מיליארד, ארבעה</td></tr>
   <tr style="background:lightgray"><td>CD CD M|S</td><td>=&gt;</td><td>NUM</td><td>Gender=Masc|Number=Sing</td><td>אחד, שמונה, שישי</td></tr>
   <tr><td>CD CD _</td><td>=&gt;</td><td>NUM</td><td>_</td><td>ש"ח, 1, 0, 2, 3</td></tr>
-  <tr style="background:lightgray"><td>CDT CDT F|D</td><td>=&gt;</td><td>NUM</td><td>Definite=Red|Gender=Fem|Number=Dual</td><td>שתי</td></tr>
-  <tr><td>CDT CDT F|P</td><td>=&gt;</td><td>NUM</td><td>Definite=Red|Gender=Fem|Number=Plur</td><td>עשרים, ששים, שבעים, שלושים</td></tr>
-  <tr style="background:lightgray"><td>CDT CDT F|S</td><td>=&gt;</td><td>NUM</td><td>Definite=Red|Gender=Fem|Number=Sing</td><td></td></tr>
-  <tr><td>CDT CDT M|D</td><td>=&gt;</td><td>NUM</td><td>Definite=Red|Gender=Masc|Number=Dual</td><td>שני</td></tr>
-  <tr style="background:lightgray"><td>CDT CDT M|P</td><td>=&gt;</td><td>NUM</td><td>Definite=Red|Gender=Masc|Number=Plur</td><td>אלפי, שלושת, מיליוני, ארבעת, מיליארדי</td></tr>
-  <tr><td>CDT CDT M|S</td><td>=&gt;</td><td>NUM</td><td>Definite=Red|Gender=Masc|Number=Sing</td><td>אחד</td></tr>
-  <tr style="background:lightgray"><td>COP COP F|P|3|BEINONI|NEGATIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Negative=Neg|Number=Plur|Person=3|VerbForm=Part|VerbType=Cop</td><td>אינן</td></tr>
-  <tr><td>COP COP F|P|3|FUTURE|POSITIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Negative=Pos|Number=Plur|Person=3|Tense=Fut|VerbType=Cop</td><td>יהיו</td></tr>
-  <tr style="background:lightgray"><td>COP COP F|S|2|PAST|POSITIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Negative=Pos|Number=Sing|Person=2|Tense=Past|VerbType=Cop</td><td>היית</td></tr>
-  <tr><td>COP COP F|S|3|BEINONI|NEGATIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Negative=Neg|Number=Sing|Person=3|VerbForm=Part|VerbType=Cop</td><td>אינה, איננה</td></tr>
-  <tr style="background:lightgray"><td>COP COP F|S|3|BEINONI|POSITIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Negative=Pos|Number=Sing|Person=3|VerbForm=Part|VerbType=Cop</td><td>היא</td></tr>
-  <tr><td>COP COP F|S|3|FUTURE|POSITIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Negative=Pos|Number=Sing|Person=3|Tense=Fut|VerbType=Cop</td><td>תהיה</td></tr>
-  <tr style="background:lightgray"><td>COP COP F|S|3|PAST|POSITIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbType=Cop</td><td>היתה, הייתה</td></tr>
-  <tr><td>COP COP M|P|1|BEINONI|NEGATIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Negative=Neg|Number=Plur|Person=1|VerbForm=Part|VerbType=Cop</td><td></td></tr>
-  <tr style="background:lightgray"><td>COP COP M|P|1|BEINONI|POSITIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Negative=Pos|Number=Plur|Person=1|VerbForm=Part|VerbType=Cop</td><td></td></tr>
-  <tr><td>COP COP M|P|1|FUTURE|POSITIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Negative=Pos|Number=Plur|Person=1|Tense=Fut|VerbType=Cop</td><td></td></tr>
-  <tr style="background:lightgray"><td>COP COP M|P|2|BEINONI|NEGATIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Negative=Neg|Number=Plur|Person=2|VerbForm=Part|VerbType=Cop</td><td>אינכם</td></tr>
-  <tr><td>COP COP M|P|2|IMPERATIVE|POSITIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Mood=Imp|Negative=Pos|Number=Plur|Person=2|VerbType=Cop</td><td>היו</td></tr>
-  <tr style="background:lightgray"><td>COP COP M|P|3|BEINONI|NEGATIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Negative=Neg|Number=Plur|Person=3|VerbForm=Part|VerbType=Cop</td><td>אינם</td></tr>
-  <tr><td>COP COP M|P|3|BEINONI|POSITIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Negative=Pos|Number=Plur|Person=3|VerbForm=Part|VerbType=Cop</td><td>הנם</td></tr>
-  <tr style="background:lightgray"><td>COP COP M|P|3|FUTURE|POSITIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Negative=Pos|Number=Plur|Person=3|Tense=Fut|VerbType=Cop</td><td></td></tr>
-  <tr><td>COP COP M|S|1|BEINONI|NEGATIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Negative=Neg|Number=Sing|Person=1|VerbForm=Part|VerbType=Cop</td><td></td></tr>
-  <tr style="background:lightgray"><td>COP COP M|S|1|PAST|POSITIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Negative=Pos|Number=Sing|Person=1|Tense=Past|VerbType=Cop</td><td></td></tr>
-  <tr><td>COP COP M|S|2|BEINONI|NEGATIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Negative=Neg|Number=Sing|Person=2|VerbForm=Part|VerbType=Cop</td><td>אינך</td></tr>
-  <tr style="background:lightgray"><td>COP COP M|S|2|IMPERATIVE|POSITIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Mood=Imp|Negative=Pos|Number=Sing|Person=2|VerbType=Cop</td><td>הייה</td></tr>
-  <tr><td>COP COP M|S|3|BEINONI|NEGATIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Negative=Neg|Number=Sing|Person=3|VerbForm=Part|VerbType=Cop</td><td>אינו, איננו</td></tr>
-  <tr style="background:lightgray"><td>COP COP M|S|3|BEINONI|POSITIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Negative=Pos|Number=Sing|Person=3|VerbForm=Part|VerbType=Cop</td><td>הינו</td></tr>
-  <tr><td>COP COP M|S|3|FUTURE|POSITIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Negative=Pos|Number=Sing|Person=3|Tense=Fut|VerbType=Cop</td><td>יהיה</td></tr>
-  <tr style="background:lightgray"><td>COP COP M|S|3|PAST|POSITIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbType=Cop</td><td>היה</td></tr>
-  <tr><td>COP COP-TOINFINITIVE POSITIVE</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|VerbForm=Inf|VerbType=Cop</td><td>להיות</td></tr>
+  <tr style="background:lightgray"><td>CDT CDT F|D</td><td>=&gt;</td><td>NUM</td><td>Definite=Cons|Gender=Fem|Number=Dual</td><td>שתי</td></tr>
+  <tr><td>CDT CDT F|P</td><td>=&gt;</td><td>NUM</td><td>Definite=Cons|Gender=Fem|Number=Plur</td><td>עשרים, ששים, שבעים, שלושים</td></tr>
+  <tr style="background:lightgray"><td>CDT CDT F|S</td><td>=&gt;</td><td>NUM</td><td>Definite=Cons|Gender=Fem|Number=Sing</td><td></td></tr>
+  <tr><td>CDT CDT M|D</td><td>=&gt;</td><td>NUM</td><td>Definite=Cons|Gender=Masc|Number=Dual</td><td>שני</td></tr>
+  <tr style="background:lightgray"><td>CDT CDT M|P</td><td>=&gt;</td><td>NUM</td><td>Definite=Cons|Gender=Masc|Number=Plur</td><td>אלפי, שלושת, מיליוני, ארבעת, מיליארדי</td></tr>
+  <tr><td>CDT CDT M|S</td><td>=&gt;</td><td>NUM</td><td>Definite=Cons|Gender=Masc|Number=Sing</td><td>אחד</td></tr>
+  <tr style="background:lightgray"><td>COP COP F|P|3|BEINONI|NEGATIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Plur|Person=3|Polarity=Neg|VerbForm=Part|VerbType=Cop</td><td>אינן</td></tr>
+  <tr><td>COP COP F|P|3|FUTURE|POSITIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Plur|Person=3|Polarity=Pos|Tense=Fut|VerbType=Cop</td><td>יהיו</td></tr>
+  <tr style="background:lightgray"><td>COP COP F|S|2|PAST|POSITIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Person=2|Polarity=Pos|Tense=Past|VerbType=Cop</td><td>היית</td></tr>
+  <tr><td>COP COP F|S|3|BEINONI|NEGATIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Person=3|Polarity=Neg|VerbForm=Part|VerbType=Cop</td><td>אינה, איננה</td></tr>
+  <tr style="background:lightgray"><td>COP COP F|S|3|BEINONI|POSITIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Person=3|Polarity=Pos|VerbForm=Part|VerbType=Cop</td><td>היא</td></tr>
+  <tr><td>COP COP F|S|3|FUTURE|POSITIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbType=Cop</td><td>תהיה</td></tr>
+  <tr style="background:lightgray"><td>COP COP F|S|3|PAST|POSITIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbType=Cop</td><td>היתה, הייתה</td></tr>
+  <tr><td>COP COP M|P|1|BEINONI|NEGATIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Plur|Person=1|Polarity=Neg|VerbForm=Part|VerbType=Cop</td><td></td></tr>
+  <tr style="background:lightgray"><td>COP COP M|P|1|BEINONI|POSITIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Plur|Person=1|Polarity=Pos|VerbForm=Part|VerbType=Cop</td><td></td></tr>
+  <tr><td>COP COP M|P|1|FUTURE|POSITIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Plur|Person=1|Polarity=Pos|Tense=Fut|VerbType=Cop</td><td></td></tr>
+  <tr style="background:lightgray"><td>COP COP M|P|2|BEINONI|NEGATIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Plur|Person=2|Polarity=Neg|VerbForm=Part|VerbType=Cop</td><td>אינכם</td></tr>
+  <tr><td>COP COP M|P|2|IMPERATIVE|POSITIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Mood=Imp|Number=Plur|Person=2|Polarity=Pos|VerbType=Cop</td><td>היו</td></tr>
+  <tr style="background:lightgray"><td>COP COP M|P|3|BEINONI|NEGATIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Plur|Person=3|Polarity=Neg|VerbForm=Part|VerbType=Cop</td><td>אינם</td></tr>
+  <tr><td>COP COP M|P|3|BEINONI|POSITIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Plur|Person=3|Polarity=Pos|VerbForm=Part|VerbType=Cop</td><td>הנם</td></tr>
+  <tr style="background:lightgray"><td>COP COP M|P|3|FUTURE|POSITIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Plur|Person=3|Polarity=Pos|Tense=Fut|VerbType=Cop</td><td></td></tr>
+  <tr><td>COP COP M|S|1|BEINONI|NEGATIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=1|Polarity=Neg|VerbForm=Part|VerbType=Cop</td><td></td></tr>
+  <tr style="background:lightgray"><td>COP COP M|S|1|PAST|POSITIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=1|Polarity=Pos|Tense=Past|VerbType=Cop</td><td></td></tr>
+  <tr><td>COP COP M|S|2|BEINONI|NEGATIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=2|Polarity=Neg|VerbForm=Part|VerbType=Cop</td><td>אינך</td></tr>
+  <tr style="background:lightgray"><td>COP COP M|S|2|IMPERATIVE|POSITIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbType=Cop</td><td>הייה</td></tr>
+  <tr><td>COP COP M|S|3|BEINONI|NEGATIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Polarity=Neg|VerbForm=Part|VerbType=Cop</td><td>אינו, איננו</td></tr>
+  <tr style="background:lightgray"><td>COP COP M|S|3|BEINONI|POSITIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Polarity=Pos|VerbForm=Part|VerbType=Cop</td><td>הינו</td></tr>
+  <tr><td>COP COP M|S|3|FUTURE|POSITIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbType=Cop</td><td>יהיה</td></tr>
+  <tr style="background:lightgray"><td>COP COP M|S|3|PAST|POSITIVE</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbType=Cop</td><td>היה</td></tr>
+  <tr><td>COP COP-TOINFINITIVE POSITIVE</td><td>=&gt;</td><td>VERB</td><td>Polarity=Pos|VerbForm=Inf|VerbType=Cop</td><td>להיות</td></tr>
   <tr style="background:lightgray"><td>DEF DEF _</td><td>=&gt;</td><td>DET</td><td>Definite=Def|PronType=Art</td><td>ה</td></tr>
   <tr><td>DEF@DT DEF@DT _</td><td>=&gt;</td><td>DET</td><td>Definite=Def|PronType=Tot</td><td>הכל</td></tr>
   <tr style="background:lightgray"><td>DT DT _</td><td>=&gt;</td><td>DET</td><td>_</td><td>מבחר, איזושהי, כל</td></tr>
-  <tr><td>DTT DTT _</td><td>=&gt;</td><td>DET</td><td>Definite=Red</td><td>כל, כמה, אותו, שום, הרבה</td></tr>
+  <tr><td>DTT DTT _</td><td>=&gt;</td><td>DET</td><td>Definite=Cons</td><td>כל, כמה, אותו, שום, הרבה</td></tr>
   <tr style="background:lightgray"><td>EX EX _</td><td>=&gt;</td><td>ADV</td><td>AdvType=Ex</td><td>יש, אין, ישנם</td></tr>
   <tr><td>IN IN _</td><td>=&gt;</td><td>SCONJ</td><td>AdpType=Prep</td><td>על, ל, עם, ב, בין</td></tr>
   <tr style="background:lightgray"><td>INTJ INTJ _</td><td>=&gt;</td><td>INTJ</td><td>_</td><td>פוס, נא, אוף, חלילה, אוי</td></tr>
@@ -132,10 +133,10 @@ Tagset <tt>he::conll</tt>, total 370 tags.
   <tr><td>JJ JJ M|P</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|Number=Plur</td><td>עשירים, טטרים, שנונים, הונגרים, זכאים</td></tr>
   <tr style="background:lightgray"><td>JJ JJ M|S</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|Number=Sing</td><td>קרוב, יהודי, רגיל, תיכון, בהיר</td></tr>
   <tr><td>JJ JJ _</td><td>=&gt;</td><td>ADJ</td><td>_</td><td>י"ד</td></tr>
-  <tr style="background:lightgray"><td>JJT JJT F|P</td><td>=&gt;</td><td>ADJ</td><td>Definite=Red|Gender=Fem|Number=Plur</td><td></td></tr>
-  <tr><td>JJT JJT F|S</td><td>=&gt;</td><td>ADJ</td><td>Definite=Red|Gender=Fem|Number=Sing</td><td>חסרת, שוות, עטופת, מקפיאת, ארוכת</td></tr>
-  <tr style="background:lightgray"><td>JJT JJT M|P</td><td>=&gt;</td><td>ADJ</td><td>Definite=Red|Gender=Masc|Number=Plur</td><td>מרובי, מהירי</td></tr>
-  <tr><td>JJT JJT M|S</td><td>=&gt;</td><td>ADJ</td><td>Definite=Red|Gender=Masc|Number=Sing</td><td>מלא</td></tr>
+  <tr style="background:lightgray"><td>JJT JJT F|P</td><td>=&gt;</td><td>ADJ</td><td>Definite=Cons|Gender=Fem|Number=Plur</td><td></td></tr>
+  <tr><td>JJT JJT F|S</td><td>=&gt;</td><td>ADJ</td><td>Definite=Cons|Gender=Fem|Number=Sing</td><td>חסרת, שוות, עטופת, מקפיאת, ארוכת</td></tr>
+  <tr style="background:lightgray"><td>JJT JJT M|P</td><td>=&gt;</td><td>ADJ</td><td>Definite=Cons|Gender=Masc|Number=Plur</td><td>מרובי, מהירי</td></tr>
+  <tr><td>JJT JJT M|S</td><td>=&gt;</td><td>ADJ</td><td>Definite=Cons|Gender=Masc|Number=Sing</td><td>מלא</td></tr>
   <tr style="background:lightgray"><td>MD MD A</td><td>=&gt;</td><td>VERB</td><td>VerbType=Mod</td><td>אפשר, ייתכן, אסור, כדאי, מוטב</td></tr>
   <tr><td>MD MD F|P|A</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Plur|VerbType=Mod</td><td>אמורות</td></tr>
   <tr style="background:lightgray"><td>MD MD F|P|A|BEINONI</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Plur|VerbForm=Part|VerbType=Mod</td><td>מאפשרות</td></tr>
@@ -198,10 +199,10 @@ Tagset <tt>he::conll</tt>, total 370 tags.
   <tr><td>NNP NNP F|S</td><td>=&gt;</td><td>PROPN</td><td>Gender=Fem|Number=Sing</td><td>חן, נועם</td></tr>
   <tr style="background:lightgray"><td>NNP NNP M|S</td><td>=&gt;</td><td>PROPN</td><td>Gender=Masc|Number=Sing</td><td>רומא, מכבי, פרץ, גדות, ישראל</td></tr>
   <tr><td>NNP NNP _</td><td>=&gt;</td><td>PROPN</td><td>_</td><td>ישראל, -, ירושלים, כהנא, ארה"ב</td></tr>
-  <tr style="background:lightgray"><td>NNT NNT F|P</td><td>=&gt;</td><td>NOUN</td><td>Definite=Red|Gender=Fem|Number=Plur</td><td>פני</td></tr>
-  <tr><td>NNT NNT F|S</td><td>=&gt;</td><td>NOUN</td><td>Definite=Red|Gender=Fem|Number=Sing</td><td>סכין</td></tr>
-  <tr style="background:lightgray"><td>NNT NNT M|P</td><td>=&gt;</td><td>NOUN</td><td>Definite=Red|Gender=Masc|Number=Plur</td><td>משטחי, ברזי, בני, דגמי, עלי</td></tr>
-  <tr><td>NNT NNT M|S</td><td>=&gt;</td><td>NOUN</td><td>Definite=Red|Gender=Masc|Number=Sing</td><td>בן, סך, דבר, קרב, טעם</td></tr>
+  <tr style="background:lightgray"><td>NNT NNT F|P</td><td>=&gt;</td><td>NOUN</td><td>Definite=Cons|Gender=Fem|Number=Plur</td><td>פני</td></tr>
+  <tr><td>NNT NNT F|S</td><td>=&gt;</td><td>NOUN</td><td>Definite=Cons|Gender=Fem|Number=Sing</td><td>סכין</td></tr>
+  <tr style="background:lightgray"><td>NNT NNT M|P</td><td>=&gt;</td><td>NOUN</td><td>Definite=Cons|Gender=Masc|Number=Plur</td><td>משטחי, ברזי, בני, דגמי, עלי</td></tr>
+  <tr><td>NNT NNT M|S</td><td>=&gt;</td><td>NOUN</td><td>Definite=Cons|Gender=Masc|Number=Sing</td><td>בן, סך, דבר, קרב, טעם</td></tr>
   <tr style="background:lightgray"><td>P P _</td><td>=&gt;</td><td>PART</td><td>_</td><td>בלתי, אי, בין, אנטי, תת</td></tr>
   <tr><td>POS POS _</td><td>=&gt;</td><td>PART</td><td>Poss=Yes</td><td>של</td></tr>
   <tr style="background:lightgray"><td>PREPOSITION PREPOSITION _</td><td>=&gt;</td><td>ADP</td><td>AdpType=Prep</td><td>ב, ל, מ, כ, כש</td></tr>

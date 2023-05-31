@@ -1,6 +1,7 @@
 ---
 layout: base
 title: 'Tagset pt::cintil conversion to universal POS tags and features'
+udver: '2'
 ---
 
 <a href="index.html">all tables</a>
@@ -42,7 +43,7 @@ Tagset <tt>pt::cintil</tt>, total 181 tags.
   <tr><td>CARD CARD gp</td><td>=&gt;</td><td>NUM</td><td>Number=Plur|NumType=Card</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>CARD CARD mp</td><td>=&gt;</td><td>NUM</td><td>Gender=Masc|Number=Plur|NumType=Card</td><td><em></em></td></tr>
   <tr><td>CARD CARD ms</td><td>=&gt;</td><td>NUM</td><td>Gender=Masc|Number=Sing|NumType=Card</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>CJ CJ _</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>CJ CJ _</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em></em></td></tr>
   <tr><td>CL CL fp3</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Plur|Person=3|PronType=Prs|Variant=Short</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>CL CL fs3</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Sing|Person=3|PronType=Prs|Variant=Short</td><td><em></em></td></tr>
   <tr><td>CL CL gn3</td><td>=&gt;</td><td>PRON</td><td>Person=3|PronType=Prs|Variant=Short</td><td><em></em></td></tr>

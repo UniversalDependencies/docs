@@ -1,6 +1,7 @@
 ---
 layout: base
 title: 'Tagset hr::multext conversion to universal POS tags and features'
+udver: '2'
 ---
 
 <a href="index.html">all tables</a>
@@ -116,9 +117,9 @@ Tagset <tt>hr::multext</tt>, total 1290 tags.
   <tr><td>Vmr2s</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Vmr2p</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
   <tr><td>Vmr3s</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vmr3s-y</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Neg|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vmr3s-y</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
   <tr><td>Vmr3p</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vmr3p-y</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Neg|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vmr3p-y</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
   <tr><td>Vmm1p</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Plur|Person=1|VerbForm=Fin</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Vmm2s</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Sing|Person=2|VerbForm=Fin</td><td><em></em></td></tr>
   <tr><td>Vmm2p</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Plur|Person=2|VerbForm=Fin</td><td><em></em></td></tr>
@@ -142,15 +143,15 @@ Tagset <tt>hr::multext</tt>, total 1290 tags.
   <tr><td>Vap-pf</td><td>=&gt;</td><td>AUX</td><td>Gender=Fem|Number=Plur|VerbForm=Part</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Vap-pn</td><td>=&gt;</td><td>AUX</td><td>Gender=Neut|Number=Plur|VerbForm=Part</td><td><em></em></td></tr>
   <tr><td>Var1s</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Var1s-y</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Negative=Neg|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Var1s-y</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
   <tr><td>Var1p</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Var1p-y</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Negative=Neg|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Var1p-y</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
   <tr><td>Var2s</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Var2p</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
   <tr><td>Var3s</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Var3s-y</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Negative=Neg|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Var3s-y</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
   <tr><td>Var3p</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Var3p-y</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Negative=Neg|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Var3p-y</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
   <tr><td>Vam1p</td><td>=&gt;</td><td>AUX</td><td>Mood=Imp|Number=Plur|Person=1|VerbForm=Fin</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Vam2s</td><td>=&gt;</td><td>AUX</td><td>Mood=Imp|Number=Sing|Person=2|VerbForm=Fin</td><td><em></em></td></tr>
   <tr><td>Vam2p</td><td>=&gt;</td><td>AUX</td><td>Mood=Imp|Number=Plur|Person=2|VerbForm=Fin</td><td><em></em></td></tr>
@@ -169,17 +170,17 @@ Tagset <tt>hr::multext</tt>, total 1290 tags.
   <tr style="background:lightgray"><td>Vcp-pf</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Plur|VerbForm=Part|VerbType=Cop</td><td><em></em></td></tr>
   <tr><td>Vcp-pn</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Number=Plur|VerbForm=Part|VerbType=Cop</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Vcr1s</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|VerbType=Cop</td><td><em></em></td></tr>
-  <tr><td>Vcr1s-y</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Neg|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|VerbType=Cop</td><td><em></em></td></tr>
+  <tr><td>Vcr1s-y</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin|VerbType=Cop</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Vcr1p</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|VerbType=Cop</td><td><em></em></td></tr>
-  <tr><td>Vcr1p-y</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Neg|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|VerbType=Cop</td><td><em></em></td></tr>
+  <tr><td>Vcr1p-y</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin|VerbType=Cop</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Vcr2s</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|VerbType=Cop</td><td><em></em></td></tr>
   <tr><td>Vcr2p</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|VerbType=Cop</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vcr2p-y</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Neg|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|VerbType=Cop</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vcr2p-y</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin|VerbType=Cop</td><td><em></em></td></tr>
   <tr><td>Vcr3</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Cop</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Vcr3s</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Cop</td><td><em></em></td></tr>
-  <tr><td>Vcr3s-y</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Neg|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Cop</td><td><em></em></td></tr>
+  <tr><td>Vcr3s-y</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|VerbType=Cop</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Vcr3p</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Cop</td><td><em></em></td></tr>
-  <tr><td>Vcr3p-y</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Neg|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Cop</td><td><em></em></td></tr>
+  <tr><td>Vcr3p-y</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|VerbType=Cop</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Vcm1p</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Plur|Person=1|VerbForm=Fin|VerbType=Cop</td><td><em></em></td></tr>
   <tr><td>Vcm2s</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|VerbType=Cop</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Vcm2p</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|VerbType=Cop</td><td><em></em></td></tr>
@@ -1243,13 +1244,13 @@ Tagset <tt>hr::multext</tt>, total 1290 tags.
   <tr style="background:lightgray"><td>Rgp</td><td>=&gt;</td><td>ADV</td><td>Degree=Pos</td><td><em></em></td></tr>
   <tr><td>Rgc</td><td>=&gt;</td><td>ADV</td><td>Degree=Cmp</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Rgs</td><td>=&gt;</td><td>ADV</td><td>Degree=Sup</td><td><em></em></td></tr>
-  <tr><td>Rr</td><td>=&gt;</td><td>ADV</td><td>VerbForm=Trans</td><td><em></em></td></tr>
+  <tr><td>Rr</td><td>=&gt;</td><td>ADV</td><td>VerbForm=Conv</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Sg</td><td>=&gt;</td><td>ADP</td><td>AdpType=Prep|Case=Gen</td><td><em></em></td></tr>
   <tr><td>Sd</td><td>=&gt;</td><td>ADP</td><td>AdpType=Prep|Case=Dat</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Sa</td><td>=&gt;</td><td>ADP</td><td>AdpType=Prep|Case=Acc</td><td><em></em></td></tr>
   <tr><td>Sl</td><td>=&gt;</td><td>ADP</td><td>AdpType=Prep|Case=Loc</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Si</td><td>=&gt;</td><td>ADP</td><td>AdpType=Prep|Case=Ins</td><td><em></em></td></tr>
-  <tr><td>Cc</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em></em></td></tr>
+  <tr><td>Cc</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Cs</td><td>=&gt;</td><td>SCONJ</td><td>_</td><td><em></em></td></tr>
   <tr><td>Md</td><td>=&gt;</td><td>NUM</td><td>NumForm=Digit</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Mro-p</td><td>=&gt;</td><td>ADJ</td><td>Number=Plur|NumForm=Roman|NumType=Ord</td><td><em></em></td></tr>
@@ -1286,24 +1287,24 @@ Tagset <tt>hr::multext</tt>, total 1290 tags.
   <tr><td>Mlcnsg</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Gender=Neut|Number=Sing|NumForm=Word|NumType=Card</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Mlcnsa</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Gender=Neut|Number=Sing|NumForm=Word|NumType=Card</td><td><em></em></td></tr>
   <tr><td>Mlcnpn</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Gender=Neut|Number=Plur|NumForm=Word|NumType=Card</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Mls-s</td><td>=&gt;</td><td>ADJ</td><td>Number=Sing|NumForm=Word|NumType=Gen</td><td><em></em></td></tr>
-  <tr><td>Mls-sa</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Number=Sing|NumForm=Word|NumType=Gen</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Mls-p</td><td>=&gt;</td><td>ADJ</td><td>Number=Plur|NumForm=Word|NumType=Gen</td><td><em></em></td></tr>
-  <tr><td>Mls-pn</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Number=Plur|NumForm=Word|NumType=Gen</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Mlsmpg</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Masc|Number=Plur|NumForm=Word|NumType=Gen</td><td><em></em></td></tr>
-  <tr><td>Mlsmpa</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Masc|Number=Plur|NumForm=Word|NumType=Gen</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Mlsfp</td><td>=&gt;</td><td>ADJ</td><td>Gender=Fem|Number=Plur|NumForm=Word|NumType=Gen</td><td><em></em></td></tr>
-  <tr><td>Mlsfpn</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Fem|Number=Plur|NumForm=Word|NumType=Gen</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Mlsfpg</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Fem|Number=Plur|NumForm=Word|NumType=Gen</td><td><em></em></td></tr>
-  <tr><td>Mlsfpd</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Fem|Number=Plur|NumForm=Word|NumType=Gen</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Mlsfpa</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Fem|Number=Plur|NumForm=Word|NumType=Gen</td><td><em></em></td></tr>
-  <tr><td>Mlsfpl</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Fem|Number=Plur|NumForm=Word|NumType=Gen</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Qz</td><td>=&gt;</td><td>PART</td><td>Negative=Neg</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Mls-s</td><td>=&gt;</td><td>ADJ</td><td>Number=Sing|NumForm=Word|NumType=Sets</td><td><em></em></td></tr>
+  <tr><td>Mls-sa</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Number=Sing|NumForm=Word|NumType=Sets</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Mls-p</td><td>=&gt;</td><td>ADJ</td><td>Number=Plur|NumForm=Word|NumType=Sets</td><td><em></em></td></tr>
+  <tr><td>Mls-pn</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Number=Plur|NumForm=Word|NumType=Sets</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Mlsmpg</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Masc|Number=Plur|NumForm=Word|NumType=Sets</td><td><em></em></td></tr>
+  <tr><td>Mlsmpa</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Masc|Number=Plur|NumForm=Word|NumType=Sets</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Mlsfp</td><td>=&gt;</td><td>ADJ</td><td>Gender=Fem|Number=Plur|NumForm=Word|NumType=Sets</td><td><em></em></td></tr>
+  <tr><td>Mlsfpn</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Fem|Number=Plur|NumForm=Word|NumType=Sets</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Mlsfpg</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Fem|Number=Plur|NumForm=Word|NumType=Sets</td><td><em></em></td></tr>
+  <tr><td>Mlsfpd</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Fem|Number=Plur|NumForm=Word|NumType=Sets</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Mlsfpa</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Fem|Number=Plur|NumForm=Word|NumType=Sets</td><td><em></em></td></tr>
+  <tr><td>Mlsfpl</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Fem|Number=Plur|NumForm=Word|NumType=Sets</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Qz</td><td>=&gt;</td><td>PART</td><td>Polarity=Neg</td><td><em></em></td></tr>
   <tr><td>Qq</td><td>=&gt;</td><td>PART</td><td>PronType=Int</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Qo</td><td>=&gt;</td><td>PART</td><td>PartType=Mod</td><td><em></em></td></tr>
-  <tr><td>Qr</td><td>=&gt;</td><td>PART</td><td>Negative=Pos</td><td><em></em></td></tr>
+  <tr><td>Qr</td><td>=&gt;</td><td>PART</td><td>Polarity=Pos</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>I</td><td>=&gt;</td><td>INTJ</td><td>_</td><td><em></em></td></tr>
   <tr><td>Y</td><td>=&gt;</td><td>X</td><td>Abbr=Yes</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>X</td><td>=&gt;</td><td>X</td><td>_</td><td><em></em></td></tr>
-  <tr><td>Xf</td><td>=&gt;</td><td>X</td><td>Foreign=Foreign</td><td><em></em></td></tr>
+  <tr><td>Xf</td><td>=&gt;</td><td>X</td><td>Foreign=Yes</td><td><em></em></td></tr>
 </table>

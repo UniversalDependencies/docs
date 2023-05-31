@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>CoNLL-U Viewer</title>
+    <meta charset="utf-8">
+
+    <link rel="stylesheet" href="resources/bootstrap.min.css">
+    <link rel="stylesheet" href="resources/bootstrap-theme.min.css">
+    <link rel="stylesheet" href="resources/conllu_viewer.css" type="text/css" />
+
+    <script src="resources/jquery-1.11.3.min.js" type="text/javascript"></script>
+    <script src="resources/bootstrap.min.js"></script>
+    <script src="resources/blob.min.js" type="text/javascript"></script>
+    <script src="resources/filesaver.min.js" type="text/javascript"></script>
+    <script src="resources/js-treex-view.min.js" type="text/javascript"></script>
+  </head>
+
+  <body>
+    <div class="container-fluid">
+      <div class="panel panel-default" style="margin-top: 15px">
+        <div class="panel-heading text-center" style="font-size: 200%">CoNLL-U Viewer</div>
+        <div class="panel-body">
+          <div class="panel panel-success">
+            <div class="panel-heading">CoNLL-U File</div>
+            <div class="panel-body">
+              <div class="input-group">
+                <div class="form-control" id="input_file_name"></div>
+                <span class="input-group-btn"><span class="btn btn-success btn-file">Load CoNLL-U File ... <input type="file" id="input_file_field"></span></span>
+              </div>
+            </div>
+          </div>
+
+          <div id="output_tree">
+          </div>
+        </div>
+      </div>
+    </div>
+
+<script type="text/javascript"><!--
+  function showTree(conllu) {
+    var trees = [];
+    var tree_desc = [];
+    var tree_nodes = [];
+
+    var lines = conllu.split(/\r?\n/);
+    lines.push('');
+    for (var i in lines) {
+      if (lines[i].match(/^(#|\d+-)/)) continue;
+      if (lines[i]) {
+        var parts = lines[i].split('\t');
+        for (var i in parts) if (parts[i] == "_") parts[i] = "";
+
+        if (tree_desc.length) tree_desc.push([' ', 'space']);
+        tree_desc.push([parts[1], 'w'+parts[0]]);
+
+        if (!tree_nodes.length) tree_nodes.push({id:'w0', ord:0, parent:null, data:{id:"0",form:"<root>"}, labels:['<root>','','']});
+        tree_nodes.push({id:'w'+parts[0], ord:tree_nodes.length, parent:parts[6]!==""?'w'+parts[6]:null, data:{
+          id:parts[0], form:parts[1], lemma:parts[2], upostag:parts[3], xpostag:parts[4],
+          feats:parts[5], head:parts[6], deprel:parts[7], deps:parts[8], misc:parts[9]
+        }, labels:[parts[1], '#{#00008b}'+parts[7], '#{#004048}'+parts[3]]});
+      } else if (tree_nodes.length) {
+        var last_child = [];
+        for (var i = 1; i < tree_nodes.length; i++) {
+          var head = tree_nodes[i].data.head!=="" ? parseInt(tree_nodes[i].data.head) : "";
+          if (head !== "") {
+            if (!last_child[head]) tree_nodes[head].firstson = 'w'+i;
+            else tree_nodes[last_child[head]].rbrother = 'w'+i;
+            last_child[head] = i;
+          }
+        }
+
+        trees.push({desc:tree_desc,zones:{conllu:{trees:{"a":{layer:"a",nodes:tree_nodes}}}}});
+        tree_desc = [];
+        tree_nodes = [];
+      }
+    }
+
+    jQuery('#output_tree').html('<button id="save_tree" class="btn btn-success form-control" type="submit" onclick="saveTree()"><span class="fa fa-download"></span> Save Tree as SVG</span></button><div id="output_tree_content" style="margin-top: 15px"></div>');
+    setTimeout(function() { jQuery('#output_tree_content').treexView(trees); }, 0);
+  }
+
+  function saveTree() {
+    var svg_element = jQuery('#output_tree_content svg');
+    if (svg_element.length) {
+      var svg = new Blob([svg_element.parent().html()], {type: "image/svg+xml"});
+      saveAs(svg, 'conllu-tree.svg');
+    }
+  }
+
+  jQuery(document).on('change', '#input_file_field', function() {
+    jQuery('#input_file_name').text();
+    if (this.files.length > 0) {
+      var file = this.files[0];
+      jQuery('#input_file_name').text(file.name + ' (loading...)');
+      if (!window.FileReader) {
+        jQuery('#input_file_name').text(file.name + ' (load error - file loading API not supported, please use newer browser)').wrapInner('<span class="text-danger"></span>');
+      } else {
+        var reader = new FileReader();
+        reader.onload = function() {
+          jQuery('#input_file_name').text(file.name + ' (' + (reader.result.length/1024).toFixed(1) + 'kb loaded)');
+          showTree(reader.result);
+        }
+        reader.onerror = function() {
+          jQuery('#input_file_name').text(file.name + ' (load error)').wrapInner('<span class="text-danger"></span>');
+        }
+        reader.readAsText(file);
+      }
+    }
+  });
+--></script>
+  </body>
+</html>

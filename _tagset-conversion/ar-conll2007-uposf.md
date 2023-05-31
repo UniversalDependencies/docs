@@ -1,6 +1,7 @@
 ---
 layout: base
 title: 'Tagset ar::conll2007 conversion to universal POS tags and features'
+udver: '2'
 ---
 
 <a href="index.html">all tables</a>
@@ -19,15 +20,15 @@ Tagset <tt>ar::conll2007</tt>, total 296 tags.
   <tr style="background:lightgray"><td>- -- Defin=D</td><td>=&gt;</td><td>DET</td><td>Definite=Def|PronType=Art</td><td>ال</td></tr>
   <tr><td>A A- Case=1|Defin=D</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Def</td><td>الأَمْرِيكِيُّ, الإِسْرائِيلِيُّ, المِصْرِيُّ, العامُّ, الفِلَسْطِينِيُّ</td></tr>
   <tr style="background:lightgray"><td>A A- Case=1|Defin=I</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Ind</td><td>رَسْمِيٌّ, أَكْثَرُ, كَبِيرٌ, صَحِيحٌ, عَسْكَرِيٌّ</td></tr>
-  <tr><td>A A- Case=1|Defin=R</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Red</td><td>مُتَوَسِّطُ, كَبِيرُ, أَكْبَرُ, أَهَمُّ, أَكْثَرُ</td></tr>
+  <tr><td>A A- Case=1|Defin=R</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Cons</td><td>مُتَوَسِّطُ, كَبِيرُ, أَكْبَرُ, أَهَمُّ, أَكْثَرُ</td></tr>
   <tr style="background:lightgray"><td>A A- Case=2|Defin=C</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Com</td><td>الفائِقِ</td></tr>
   <tr><td>A A- Case=2|Defin=D</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Def</td><td>الأُورُوبِّيِّ, الدُوَلِيِّ, العِراقِيِّ, الأَمْرِيكِيِّ, المِصْرِيِّ</td></tr>
   <tr style="background:lightgray"><td>A A- Case=2|Defin=I</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Ind</td><td>جَدِيدٍ, أَمْرِيكِيٍّ, كَبِيرٍ, مُشْتَرَكٍ, مُمْكِنٍ</td></tr>
-  <tr><td>A A- Case=2|Defin=R</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Red</td><td>أَكْبَرِ, مُخْتَلِفِ, كِبارِ, أَكْثَرِ, أَسْرَعِ</td></tr>
+  <tr><td>A A- Case=2|Defin=R</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Cons</td><td>أَكْبَرِ, مُخْتَلِفِ, كِبارِ, أَكْثَرِ, أَسْرَعِ</td></tr>
   <tr style="background:lightgray"><td>A A- Case=4|Defin=C</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Definite=Com</td><td>الشَدِيدَ</td></tr>
   <tr><td>A A- Case=4|Defin=D</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Definite=Def</td><td>المُقْبِلَ, الماضِيَ, الآخَرَ, العِراقِيَّ, الإِسْرائِيلِيَّ</td></tr>
   <tr style="background:lightgray"><td>A A- Case=4|Defin=I</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Definite=Ind</td><td>حالِيّاً, مُشِيراً, سَنَوِيّاً, قَرِيباً, أَخِيراً</td></tr>
-  <tr><td>A A- Case=4|Defin=R</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Definite=Red</td><td>أَكْبَرَ, أَكْثَرَ, عَشَرَ, مُقابِلَ, آخَرَ</td></tr>
+  <tr><td>A A- Case=4|Defin=R</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Definite=Cons</td><td>أَكْبَرَ, أَكْثَرَ, عَشَرَ, مُقابِلَ, آخَرَ</td></tr>
   <tr style="background:lightgray"><td>A A- Defin=C</td><td>=&gt;</td><td>ADJ</td><td>Definite=Com</td><td>الكُبْرَى, الأُخْرَى</td></tr>
   <tr><td>A A- Defin=D</td><td>=&gt;</td><td>ADJ</td><td>Definite=Def</td><td>الماضِي, الثانِي, الأُولَى, الأَمِيرْكِيّ, الأَوْسَط</td></tr>
   <tr style="background:lightgray"><td>A A- Gender=F|Number=D|Case=1|Defin=D</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Def|Gender=Fem|Number=Dual</td><td>الأَلْمانِيَّتانِ, الذَرِّيَّتانِ</td></tr>
@@ -41,124 +42,124 @@ Tagset <tt>ar::conll2007</tt>, total 296 tags.
   <tr style="background:lightgray"><td>A A- Gender=F|Number=P|Case=1|Defin=I</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Ind|Gender=Fem|Number=Plur</td><td>مَحْمِيّاتٌ</td></tr>
   <tr><td>A A- Gender=F|Number=P|Case=2|Defin=D</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Def|Gender=Fem|Number=Plur</td><td>المُفاوِضاتِ, المُؤَثِّراتِ, الإِيرانِيّاتِ, الوارِداتِ, المُسْلِماتِ</td></tr>
   <tr style="background:lightgray"><td>A A- Gender=F|Number=P|Case=2|Defin=I</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Ind|Gender=Fem|Number=Plur</td><td>مَحْمِيّاتٍ</td></tr>
-  <tr><td>A A- Gender=F|Number=P|Case=2|Defin=R</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Red|Gender=Fem|Number=Plur</td><td>صَدِيقاتِ, كُبْرَياتِ</td></tr>
+  <tr><td>A A- Gender=F|Number=P|Case=2|Defin=R</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Cons|Gender=Fem|Number=Plur</td><td>صَدِيقاتِ, كُبْرَياتِ</td></tr>
   <tr style="background:lightgray"><td>A A- Gender=F|Number=P|Case=4|Defin=D</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Definite=Def|Gender=Fem|Number=Plur</td><td>الكِيماوِيّاتِ</td></tr>
   <tr><td>A A- Gender=F|Number=P|Case=4|Defin=I</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Definite=Ind|Gender=Fem|Number=Plur</td><td>طائِراتٍ</td></tr>
   <tr style="background:lightgray"><td>A A- Gender=F|Number=P|Defin=D</td><td>=&gt;</td><td>ADJ</td><td>Definite=Def|Gender=Fem|Number=Plur</td><td>الفِلَسْطِينِيّات, العِراقِيّات, المَحَلِّيّات, الكُرْدِيّات, الوَطَنِيّات</td></tr>
   <tr><td>A A- Gender=F|Number=S</td><td>=&gt;</td><td>ADJ</td><td>Gender=Fem|Number=Sing</td><td>أَمِيرْكِيَّة, طِبِّيَّة, إِرْهابِيَّة, أَخِيرَة, هامَّة</td></tr>
   <tr style="background:lightgray"><td>A A- Gender=F|Number=S|Case=1|Defin=D</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Def|Gender=Fem|Number=Sing</td><td>المُتَّحِدَةُ, المِصْرِيَّةُ, الإِسْرائِيلِيَّةُ, الأَمْرِيكِيَّةُ, الوَطَنِيَّةُ</td></tr>
   <tr><td>A A- Gender=F|Number=S|Case=1|Defin=I</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Ind|Gender=Fem|Number=Sing</td><td>مُسْتَعِدَّةٌ, أَخِيرَةٌ, عِدَّةٌ, فِلَسْطِينِيَّةٌ, مِصْرِيَّةٌ</td></tr>
-  <tr style="background:lightgray"><td>A A- Gender=F|Number=S|Case=1|Defin=R</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Red|Gender=Fem|Number=Sing</td><td>عَمَلِيَّةُ, رَفِيعَةُ, بالِغَةُ</td></tr>
+  <tr style="background:lightgray"><td>A A- Gender=F|Number=S|Case=1|Defin=R</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Cons|Gender=Fem|Number=Sing</td><td>عَمَلِيَّةُ, رَفِيعَةُ, بالِغَةُ</td></tr>
   <tr><td>A A- Gender=F|Number=S|Case=2|Defin=C</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Com|Gender=Fem|Number=Sing</td><td>الذاتِيَّةِ, الرُوسِيَّةِ, القَصِيرَةِ, الخاصَّةِ, المُصَدِّرَةِ</td></tr>
   <tr style="background:lightgray"><td>A A- Gender=F|Number=S|Case=2|Defin=D</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Def|Gender=Fem|Number=Sing</td><td>المُتَّحِدَةِ, العَرَبِيَّةِ, المِصْرِيَّةِ, الفِلَسْطِينِيَّةِ, الدُوَلِيَّةِ</td></tr>
   <tr><td>A A- Gender=F|Number=S|Case=2|Defin=I</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Ind|Gender=Fem|Number=Sing</td><td>جَدِيدَةٍ, كَبِيرَةٍ, عِدَّةٍ, واحِدَةٍ, رَسْمِيَّةٍ</td></tr>
-  <tr style="background:lightgray"><td>A A- Gender=F|Number=S|Case=2|Defin=R</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Red|Gender=Fem|Number=Sing</td><td>طَوِيلَةِ, مُنَظَّمَةِ, مُتَعَدِّدَةِ, مُتَناهِيَةِ, عالِيَةِ</td></tr>
+  <tr style="background:lightgray"><td>A A- Gender=F|Number=S|Case=2|Defin=R</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Cons|Gender=Fem|Number=Sing</td><td>طَوِيلَةِ, مُنَظَّمَةِ, مُتَعَدِّدَةِ, مُتَناهِيَةِ, عالِيَةِ</td></tr>
   <tr><td>A A- Gender=F|Number=S|Case=4|Defin=C</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Definite=Com|Gender=Fem|Number=Sing</td><td>الخاصَّةَ</td></tr>
   <tr style="background:lightgray"><td>A A- Gender=F|Number=S|Case=4|Defin=D</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Definite=Def|Gender=Fem|Number=Sing</td><td>المُتَّحِدَةَ, العَرَبِيَّةَ, المِصْرِيَّةَ, الفِلَسْطِينِيَّةَ, الإِسْرائِيلِيَّةَ</td></tr>
   <tr><td>A A- Gender=F|Number=S|Case=4|Defin=I</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Definite=Ind|Gender=Fem|Number=Sing</td><td>جَدِيدَةً, خاصَّةً, كَبِيرَةً, عِدَّةً, مُباشِرَةً</td></tr>
-  <tr style="background:lightgray"><td>A A- Gender=F|Number=S|Case=4|Defin=R</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Definite=Red|Gender=Fem|Number=Sing</td><td>بالِغَةَ, مُنْقَطِعَةَ, مُباشِرَةَ, إِسْرائِيلِيَّةَ, مُشَكَّلَةَ</td></tr>
+  <tr style="background:lightgray"><td>A A- Gender=F|Number=S|Case=4|Defin=R</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Definite=Cons|Gender=Fem|Number=Sing</td><td>بالِغَةَ, مُنْقَطِعَةَ, مُباشِرَةَ, إِسْرائِيلِيَّةَ, مُشَكَّلَةَ</td></tr>
   <tr><td>A A- Gender=F|Number=S|Defin=C</td><td>=&gt;</td><td>ADJ</td><td>Definite=Com|Gender=Fem|Number=Sing</td><td>المُتَعَدِّدَة, الطَوِيلَة</td></tr>
   <tr style="background:lightgray"><td>A A- Gender=F|Number=S|Defin=D</td><td>=&gt;</td><td>ADJ</td><td>Definite=Def|Gender=Fem|Number=Sing</td><td>الأَمِيرْكِيَّة, الهِنْدِيَّة, الأَجْنَبِيَّة, الأَخِيرَة, الإِرْهابِيَّة</td></tr>
   <tr><td>A A- Gender=M|Number=D|Case=1|Defin=D</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Def|Gender=Masc|Number=Dual</td><td>العِراقِيّانِ, الأَساسِيّانِ, الإِسْبانِيّانِ, العالَمِيّانِ</td></tr>
   <tr style="background:lightgray"><td>A A- Gender=M|Number=D|Case=1|Defin=I</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Ind|Gender=Masc|Number=Dual</td><td>آخَرانِ, عِراقِيّانِ</td></tr>
   <tr><td>A A- Gender=M|Number=D|Case=2|Defin=D</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Def|Gender=Masc|Number=Dual</td><td>الطِبِّيَّيْنِ, القادِمَيْنِ, الشَرِيفَيْنِ, الماضِيَيْنِ, المُقْبِلَيْنِ</td></tr>
   <tr style="background:lightgray"><td>A A- Gender=M|Number=D|Case=2|Defin=I</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Ind|Gender=Masc|Number=Dual</td><td>إِصْلاحِيَّيْنِ, آخَرَيْنِ, رُوسِيَّيْنِ, عَسْكَرِيَّيْنِ, إِيرانِيَّيْنِ</td></tr>
-  <tr><td>A A- Gender=M|Number=D|Case=2|Defin=R</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Red|Gender=Masc|Number=Dual</td><td>رَفِيعَيْ</td></tr>
+  <tr><td>A A- Gender=M|Number=D|Case=2|Defin=R</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Cons|Gender=Masc|Number=Dual</td><td>رَفِيعَيْ</td></tr>
   <tr style="background:lightgray"><td>A A- Gender=M|Number=D|Case=4|Defin=D</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Definite=Def|Gender=Masc|Number=Dual</td><td>المُعْتَقَلَيْنِ, اليُونانِيَّيْنِ, الفِلِبِّينِيَّيْنِ, الأَمْرِيكِيَّيْنِ</td></tr>
   <tr><td>A A- Gender=M|Number=D|Case=4|Defin=I</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Definite=Ind|Gender=Masc|Number=Dual</td><td>مُصابَيْنِ, مُذَهَّبَيْنِ, فَرَنْسِيَّيْنِ, كَبِيرَيْ, هاتِفِيَّيْنِ</td></tr>
   <tr style="background:lightgray"><td>A A- Gender=M|Number=P|Case=1|Defin=D</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Def|Gender=Masc|Number=Plur</td><td>اليُونانِيُّونَ, الإِسْرائِيلِيُّونَ, الدِيمُقراطِيُّونَ, الأَمِيرْكِيُّونَ, اللُبْنانِيُّونَ</td></tr>
   <tr><td>A A- Gender=M|Number=P|Case=1|Defin=I</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Ind|Gender=Masc|Number=Plur</td><td>إِسْرائِيلِيُّونَ, آخَرُونَ, قادِرُونَ, سائِرُونَ, عِراقِيُّونَ</td></tr>
-  <tr style="background:lightgray"><td>A A- Gender=M|Number=P|Case=1|Defin=R</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Red|Gender=Masc|Number=Plur</td><td>مُنْتَسِبُو</td></tr>
+  <tr style="background:lightgray"><td>A A- Gender=M|Number=P|Case=1|Defin=R</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Cons|Gender=Masc|Number=Plur</td><td>مُنْتَسِبُو</td></tr>
   <tr><td>A A- Gender=M|Number=P|Case=2|Defin=D</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Def|Gender=Masc|Number=Plur</td><td>الفِلَسْطِينِيِّيْنَ, المِصْرِيِّينَ, المُسْلِمِينَ, الأَمْرِيكِيِّيْنَ, المَحَلِّيِّينَ</td></tr>
   <tr style="background:lightgray"><td>A A- Gender=M|Number=P|Case=2|Defin=I</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Ind|Gender=Masc|Number=Plur</td><td>آخَرِينَ, مُسَلَّحِينَ, دُوَلِيِّينَ, إِسْرائِيلِيِّينَ, أَمْرِيكِيِّينَ</td></tr>
-  <tr><td>A A- Gender=M|Number=P|Case=2|Defin=R</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Red|Gender=Masc|Number=Plur</td><td>مَحْدُودِي, باقِي</td></tr>
+  <tr><td>A A- Gender=M|Number=P|Case=2|Defin=R</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Cons|Gender=Masc|Number=Plur</td><td>مَحْدُودِي, باقِي</td></tr>
   <tr style="background:lightgray"><td>A A- Gender=M|Number=P|Case=4|Defin=D</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Definite=Def|Gender=Masc|Number=Plur</td><td>الأَمْرِيكِيِّيْنَ, السُورِيِّيْنَ, الإِسْرائِيلِيِّينَ, البِرِيطانِيِّيْنَ, المُجَهَّزِينَ</td></tr>
   <tr><td>A A- Gender=M|Number=P|Case=4|Defin=I</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Definite=Ind|Gender=Masc|Number=Plur</td><td>إِسْرائِيلِيِّينَ, جامِعِيِّينَ, مُتَّهَمِينَ, رَئِيسِيِّينَ, رافِعِينَ</td></tr>
-  <tr style="background:lightgray"><td>A A- Gender=M|Number=P|Case=4|Defin=R</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Definite=Red|Gender=Masc|Number=Plur</td><td>مَحْدُودِي</td></tr>
+  <tr style="background:lightgray"><td>A A- Gender=M|Number=P|Case=4|Defin=R</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Definite=Cons|Gender=Masc|Number=Plur</td><td>مَحْدُودِي</td></tr>
   <tr><td>A A- Gender=M|Number=S|Case=4|Defin=I</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Definite=Ind|Gender=Masc|Number=Sing</td><td>قائِلاً, حالِيّاً, دائِماً, مُشِيراً, هاتِفِيّاً</td></tr>
   <tr style="background:lightgray"><td>A A- _</td><td>=&gt;</td><td>ADJ</td><td>_</td><td>أُخْرَى, أُخْرى, صُحُفِيّ, أَوَّل, أَعْلَى</td></tr>
-  <tr><td>C C- _</td><td>=&gt;</td><td>CONJ</td><td>_</td><td>وَ, أَنَّ, أَن, إِنَّ, فَ</td></tr>
+  <tr><td>C C- _</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td>وَ, أَنَّ, أَن, إِنَّ, فَ</td></tr>
   <tr style="background:lightgray"><td>D D- Case=4|Defin=I</td><td>=&gt;</td><td>ADV</td><td>Case=Acc|Definite=Ind</td><td>أَيْضاً, مَعاً, إِذاً</td></tr>
-  <tr><td>D D- Case=4|Defin=R</td><td>=&gt;</td><td>ADV</td><td>Case=Acc|Definite=Red</td><td>الآنَ</td></tr>
+  <tr><td>D D- Case=4|Defin=R</td><td>=&gt;</td><td>ADV</td><td>Case=Acc|Definite=Cons</td><td>الآنَ</td></tr>
   <tr style="background:lightgray"><td>D D- Gender=M|Number=S|Case=4|Defin=I</td><td>=&gt;</td><td>ADV</td><td>Case=Acc|Definite=Ind|Gender=Masc|Number=Sing</td><td>أَيْضاً, نَظَراً, رَدّاً, مُجَدَّداً, أَخِيراً</td></tr>
   <tr><td>D D- _</td><td>=&gt;</td><td>ADV</td><td>_</td><td>هُناكَ, حَيْثُ, أَمْسِ, هُنا, فَقَط</td></tr>
   <tr style="background:lightgray"><td>F F- _</td><td>=&gt;</td><td>PART</td><td>_</td><td>سَ, قَد, إِلّا, إِنَّ, سَوْفَ</td></tr>
-  <tr><td>F FI Case=2|Defin=R</td><td>=&gt;</td><td>PART</td><td>Case=Gen|Definite=Red|PronType=Int</td><td>أَيِّ</td></tr>
+  <tr><td>F FI Case=2|Defin=R</td><td>=&gt;</td><td>PART</td><td>Case=Gen|Definite=Cons|PronType=Int</td><td>أَيِّ</td></tr>
   <tr style="background:lightgray"><td>F FI _</td><td>=&gt;</td><td>PART</td><td>PronType=Int</td><td>هَل, ما, ماذا, مَن, أَيّ</td></tr>
-  <tr><td>F FN Case=1|Defin=R</td><td>=&gt;</td><td>PART</td><td>Case=Nom|Definite=Red|Negative=Neg</td><td>غَيْرُ</td></tr>
-  <tr style="background:lightgray"><td>F FN Case=2|Defin=R</td><td>=&gt;</td><td>PART</td><td>Case=Gen|Definite=Red|Negative=Neg</td><td>غَيْرِ</td></tr>
-  <tr><td>F FN Case=4|Defin=R</td><td>=&gt;</td><td>PART</td><td>Case=Acc|Definite=Red|Negative=Neg</td><td>غَيْرَ</td></tr>
-  <tr style="background:lightgray"><td>F FN _</td><td>=&gt;</td><td>PART</td><td>Negative=Neg</td><td>لا, لَم, لَن, ما, سِوَى</td></tr>
+  <tr><td>F FN Case=1|Defin=R</td><td>=&gt;</td><td>PART</td><td>Case=Nom|Definite=Cons|Polarity=Neg</td><td>غَيْرُ</td></tr>
+  <tr style="background:lightgray"><td>F FN Case=2|Defin=R</td><td>=&gt;</td><td>PART</td><td>Case=Gen|Definite=Cons|Polarity=Neg</td><td>غَيْرِ</td></tr>
+  <tr><td>F FN Case=4|Defin=R</td><td>=&gt;</td><td>PART</td><td>Case=Acc|Definite=Cons|Polarity=Neg</td><td>غَيْرَ</td></tr>
+  <tr style="background:lightgray"><td>F FN _</td><td>=&gt;</td><td>PART</td><td>Polarity=Neg</td><td>لا, لَم, لَن, ما, سِوَى</td></tr>
   <tr><td>G G- _</td><td>=&gt;</td><td>PUNCT</td><td>_</td><td>., ،, ", », «</td></tr>
   <tr style="background:lightgray"><td>I I- Case=4|Defin=I</td><td>=&gt;</td><td>INTJ</td><td>Case=Acc|Definite=Ind</td><td>مَرْحَباً, شُكْراً</td></tr>
-  <tr><td>I I- Case=4|Defin=R</td><td>=&gt;</td><td>INTJ</td><td>Case=Acc|Definite=Red</td><td>صَحِيحَ</td></tr>
+  <tr><td>I I- Case=4|Defin=R</td><td>=&gt;</td><td>INTJ</td><td>Case=Acc|Definite=Cons</td><td>صَحِيحَ</td></tr>
   <tr style="background:lightgray"><td>I I- Gender=M|Number=S|Case=4|Defin=I</td><td>=&gt;</td><td>INTJ</td><td>Case=Acc|Definite=Ind|Gender=Masc|Number=Sing</td><td>طَبْعاً</td></tr>
   <tr><td>I I- _</td><td>=&gt;</td><td>INTJ</td><td>_</td><td>يا, ما, إِنَّ, نَعَم, كَلّا</td></tr>
   <tr style="background:lightgray"><td>N N- Case=1|Defin=C</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Com</td><td>القَمَرُ</td></tr>
   <tr><td>N N- Case=1|Defin=D</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Def</td><td>الرَئِيسُ, الدُكْتُورُ, التَقْرِيرُ, الوَزِيرُ, البَيانُ</td></tr>
   <tr style="background:lightgray"><td>N N- Case=1|Defin=I</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Ind</td><td>مَصادِرُ, مَسْؤُولٌ, تَقْرِيرٌ, مَصْدَرٌ, عَدَدٌ</td></tr>
-  <tr><td>N N- Case=1|Defin=R</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Red</td><td>وَزِيرُ, رَئِيسُ, عَدَدُ, بَعْضُ, نائِبُ</td></tr>
+  <tr><td>N N- Case=1|Defin=R</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Cons</td><td>وَزِيرُ, رَئِيسُ, عَدَدُ, بَعْضُ, نائِبُ</td></tr>
   <tr style="background:lightgray"><td>N N- Case=2|Defin=C</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Com</td><td>القَمَرِ, المَحاكِمِ, الأَصْلِ</td></tr>
   <tr><td>N N- Case=2|Defin=D</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Def</td><td>الدُوَلِ, الرَئِيسِ, اليَوْمِ, العالَمِ, السَلامِ</td></tr>
   <tr style="background:lightgray"><td>N N- Case=2|Defin=I</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Ind</td><td>دُولارٍ, جُنَيْهٍ, وَقْتٍ, عَدَدٍ, شَكْلٍ</td></tr>
-  <tr><td>N N- Case=2|Defin=R</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Red</td><td>مَجْلِسِ, كُلِّ, رَئِيسِ, أَيِّ, وَزِيرِ</td></tr>
+  <tr><td>N N- Case=2|Defin=R</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Cons</td><td>مَجْلِسِ, كُلِّ, رَئِيسِ, أَيِّ, وَزِيرِ</td></tr>
   <tr style="background:lightgray"><td>N N- Case=4|Defin=C</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Definite=Com</td><td>الاِقْتِراعَ, الإِجْراءَ, المَعْرِضَ</td></tr>
   <tr><td>N N- Case=4|Defin=D</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Definite=Def</td><td>اليَوْمَ, السَبْتَ, الرَئِيسَ, العامَ, الشَهْرَ</td></tr>
   <tr style="background:lightgray"><td>N N- Case=4|Defin=I</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Definite=Ind</td><td>خُصُوصاً, عاماً, جِدّاً, سَواءً, مِلْيُوناً</td></tr>
-  <tr><td>N N- Case=4|Defin=R</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Definite=Red</td><td>مِلْيُونَ, عامَ, يَوْمَ, مُقابِلَ, أَيَّ</td></tr>
+  <tr><td>N N- Case=4|Defin=R</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Definite=Cons</td><td>مِلْيُونَ, عامَ, يَوْمَ, مُقابِلَ, أَيَّ</td></tr>
   <tr style="background:lightgray"><td>N N- Defin=D</td><td>=&gt;</td><td>NOUN</td><td>Definite=Def</td><td>الأَمْن, الأَراضِي, الأَنْباء, القُوَى, المُسْتَشْفَى</td></tr>
-  <tr><td>N N- Defin=R</td><td>=&gt;</td><td>NOUN</td><td>Definite=Red</td><td>مِلْيُون</td></tr>
+  <tr><td>N N- Defin=R</td><td>=&gt;</td><td>NOUN</td><td>Definite=Cons</td><td>مِلْيُون</td></tr>
   <tr style="background:lightgray"><td>N N- Gender=F|Number=D|Case=1|Defin=D</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Def|Gender=Fem|Number=Dual</td><td>الشَرِكَتانِ, السَفِينَتانِ, الوِزارَتانِ, الدَوْلَتانِ, القُنْبُلَتانِ</td></tr>
   <tr><td>N N- Gender=F|Number=D|Case=1|Defin=I</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Ind|Gender=Fem|Number=Dual</td><td>اِثْنَتانِ, ضَحِيَّتانِ, مُباراَتانِ, مِيزَتانِ, مَسِيرَتانِ</td></tr>
-  <tr style="background:lightgray"><td>N N- Gender=F|Number=D|Case=1|Defin=R</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Red|Gender=Fem|Number=Dual</td><td>شَرِكَتا, جَمْعِيَّتا, ضاحِيَتا, حَلِيفَتا, جُثَّتا</td></tr>
+  <tr style="background:lightgray"><td>N N- Gender=F|Number=D|Case=1|Defin=R</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Cons|Gender=Fem|Number=Dual</td><td>شَرِكَتا, جَمْعِيَّتا, ضاحِيَتا, حَلِيفَتا, جُثَّتا</td></tr>
   <tr><td>N N- Gender=F|Number=D|Case=2|Defin=D</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Def|Gender=Fem|Number=Dual</td><td>الدَوْلَتَيْنِ, السَنَتَيْنِ, الشَرِكَتَيْنِ, الجُثَّتَيْنِ, المِنْطَقَتَيْنِ</td></tr>
   <tr style="background:lightgray"><td>N N- Gender=F|Number=D|Case=2|Defin=I</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Ind|Gender=Fem|Number=Dual</td><td>سَنَتَيْنِ, جُثَّتَيْنِ, دَوْلَتَيْنِ, شَرِكَتَيْنِ, دَفَّتَيْنِ</td></tr>
-  <tr><td>N N- Gender=F|Number=D|Case=2|Defin=R</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Red|Gender=Fem|Number=Dual</td><td>قَضِيَّتَيْ, مِنْطَقَتَيْ, شَرِكَتَيْ, مِئَتَيْ, بَلَدِيَّتَيْ</td></tr>
+  <tr><td>N N- Gender=F|Number=D|Case=2|Defin=R</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Cons|Gender=Fem|Number=Dual</td><td>قَضِيَّتَيْ, مِنْطَقَتَيْ, شَرِكَتَيْ, مِئَتَيْ, بَلَدِيَّتَيْ</td></tr>
   <tr style="background:lightgray"><td>N N- Gender=F|Number=D|Case=4|Defin=D</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Definite=Def|Gender=Fem|Number=Dual</td><td>الشَرِكَتَيْنِ, السَفِينَتَيْنِ, الجُثَّتَيْنِ, المَطْلُوبَتَيْنِ, الضَحِيَّتَيْنِ</td></tr>
   <tr><td>N N- Gender=F|Number=D|Case=4|Defin=I</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Definite=Ind|Gender=Fem|Number=Dual</td><td>مَرَّتَيْنِ, حُجَّتَيْنِ, مَرْحَلَتَيْنِ, دَوْلَتَيْنِ, قَذِيفَتَيْنِ</td></tr>
-  <tr style="background:lightgray"><td>N N- Gender=F|Number=D|Case=4|Defin=R</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Definite=Red|Gender=Fem|Number=Dual</td><td>رِحْلَتَيْ, صِفَتَيْ</td></tr>
+  <tr style="background:lightgray"><td>N N- Gender=F|Number=D|Case=4|Defin=R</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Definite=Cons|Gender=Fem|Number=Dual</td><td>رِحْلَتَيْ, صِفَتَيْ</td></tr>
   <tr><td>N N- Gender=F|Number=P</td><td>=&gt;</td><td>NOUN</td><td>Gender=Fem|Number=Plur</td><td>اِسْتِثْمارات, اِجْتِهادات, مَرّات, شِعارات, مُبارَيات</td></tr>
   <tr style="background:lightgray"><td>N N- Gender=F|Number=P|Case=1|Defin=D</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Def|Gender=Fem|Number=Plur</td><td>الوِلاياتُ, السُلُطاتُ, الشَرِكاتُ, المُنْتَجاتُ, العَلاقاتُ</td></tr>
   <tr><td>N N- Gender=F|Number=P|Case=1|Defin=I</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Ind|Gender=Fem|Number=Plur</td><td>مُقْتَطَفاتٌ, تَوَقُّعاتٌ, شَرِكاتٌ, مَعْلُوماتٌ, عَلاقاتٌ</td></tr>
-  <tr style="background:lightgray"><td>N N- Gender=F|Number=P|Case=1|Defin=R</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Red|Gender=Fem|Number=Plur</td><td>شَرِكاتُ, تَصْرِيحاتُ, قُوّاتُ, مُنَظَّماتُ, عَمَلِيّاتُ</td></tr>
+  <tr style="background:lightgray"><td>N N- Gender=F|Number=P|Case=1|Defin=R</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Cons|Gender=Fem|Number=Plur</td><td>شَرِكاتُ, تَصْرِيحاتُ, قُوّاتُ, مُنَظَّماتُ, عَمَلِيّاتُ</td></tr>
   <tr><td>N N- Gender=F|Number=P|Case=2|Defin=D</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Def|Gender=Fem|Number=Plur</td><td>الوِلاياتِ, الشَرِكاتِ, العَلاقاتِ, الاِسْتِثْماراتِ, الاِتِّصالاتِ</td></tr>
   <tr style="background:lightgray"><td>N N- Gender=F|Number=P|Case=2|Defin=I</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Ind|Gender=Fem|Number=Plur</td><td>سَنَواتٍ, إِجْراءاتٍ, شَرِكاتٍ, مُحادَثاتٍ, مَعْلُوماتٍ</td></tr>
-  <tr><td>N N- Gender=F|Number=P|Case=2|Defin=R</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Red|Gender=Fem|Number=Plur</td><td>شَرِكاتِ, عَمَلِيّاتِ, قُوّاتِ, قَراراتِ, اِنْتِخاباتِ</td></tr>
+  <tr><td>N N- Gender=F|Number=P|Case=2|Defin=R</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Cons|Gender=Fem|Number=Plur</td><td>شَرِكاتِ, عَمَلِيّاتِ, قُوّاتِ, قَراراتِ, اِنْتِخاباتِ</td></tr>
   <tr style="background:lightgray"><td>N N- Gender=F|Number=P|Case=4|Defin=D</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Definite=Def|Gender=Fem|Number=Plur</td><td>الوِلاياتِ, العَلاقاتِ, الإِجْراءاتِ, القُوّاتِ, الشَرِكاتِ</td></tr>
   <tr><td>N N- Gender=F|Number=P|Case=4|Defin=I</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Definite=Ind|Gender=Fem|Number=Plur</td><td>إِجْراءاتٍ, مُحادَثاتٍ, تَصْرِيحاتٍ, مُساعَداتٍ, كَمِّيّاتٍ</td></tr>
-  <tr style="background:lightgray"><td>N N- Gender=F|Number=P|Case=4|Defin=R</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Definite=Red|Gender=Fem|Number=Plur</td><td>قُوّاتِ, عَمَلِيّاتِ, عَشَراتِ, مَحَطّاتِ, مُعَدَّلاتِ</td></tr>
+  <tr style="background:lightgray"><td>N N- Gender=F|Number=P|Case=4|Defin=R</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Definite=Cons|Gender=Fem|Number=Plur</td><td>قُوّاتِ, عَمَلِيّاتِ, عَشَراتِ, مَحَطّاتِ, مُعَدَّلاتِ</td></tr>
   <tr><td>N N- Gender=F|Number=P|Defin=D</td><td>=&gt;</td><td>NOUN</td><td>Definite=Def|Gender=Fem|Number=Plur</td><td>النِزاعات, المُقاطَعات, التَجَمُّعات, الوِكالات, المُسْتَشْفَيات</td></tr>
   <tr style="background:lightgray"><td>N N- Gender=F|Number=S</td><td>=&gt;</td><td>NOUN</td><td>Gender=Fem|Number=Sing</td><td>إِعادَة, أَهَمِّيَّة, ناحِيَة, إِصابَة, أَسْلِحَة</td></tr>
   <tr><td>N N- Gender=F|Number=S|Case=1|Defin=D</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Def|Gender=Fem|Number=Sing</td><td>الحُكُومَةُ, الصَحِيفَةُ, الشَرِكَةُ, الدَوْلَةُ, اللَجْنَةُ</td></tr>
   <tr style="background:lightgray"><td>N N- Gender=F|Number=S|Case=1|Defin=I</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Ind|Gender=Fem|Number=Sing</td><td>إِضافَةٌ, مَجْمُوعَةٌ, ثَلاثَةٌ, مُحاوَلَةٌ, شَرِكَةٌ</td></tr>
-  <tr><td>N N- Gender=F|Number=S|Case=1|Defin=R</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Red|Gender=Fem|Number=Sing</td><td>وِكالَةُ, صَحِيفَةُ, شَرِكَةُ, وِزارَةُ, قِيمَتُ</td></tr>
+  <tr><td>N N- Gender=F|Number=S|Case=1|Defin=R</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Cons|Gender=Fem|Number=Sing</td><td>وِكالَةُ, صَحِيفَةُ, شَرِكَةُ, وِزارَةُ, قِيمَتُ</td></tr>
   <tr style="background:lightgray"><td>N N- Gender=F|Number=S|Case=2|Defin=C</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Com|Gender=Fem|Number=Sing</td><td>القِمَّةِ, النِسْبَةِ, القِيادَةِ, الثَلاثَةِ</td></tr>
   <tr><td>N N- Gender=F|Number=S|Case=2|Defin=D</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Def|Gender=Fem|Number=Sing</td><td>الحُكُومَةِ, الخارِجِيَّةِ, المِنْطَقَةِ, التِجارَةِ, الدَوْلَةِ</td></tr>
   <tr style="background:lightgray"><td>N N- Gender=F|Number=S|Case=2|Defin=I</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Ind|Gender=Fem|Number=Sing</td><td>دَوْلَةٍ, زِيارَةٍ, فَتْرَةٍ, حُكُومَةٍ, زِيادَةٍ</td></tr>
-  <tr><td>N N- Gender=F|Number=S|Case=2|Defin=R</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Red|Gender=Fem|Number=Sing</td><td>مِنْطَقَةِ, شَرِكَةِ, إِعادَةِ, مَدِينَةِ, مُكافَحَةِ</td></tr>
+  <tr><td>N N- Gender=F|Number=S|Case=2|Defin=R</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Cons|Gender=Fem|Number=Sing</td><td>مِنْطَقَةِ, شَرِكَةِ, إِعادَةِ, مَدِينَةِ, مُكافَحَةِ</td></tr>
   <tr style="background:lightgray"><td>N N- Gender=F|Number=S|Case=4|Defin=C</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Definite=Com|Gender=Fem|Number=Sing</td><td>المُناسَبَةَ</td></tr>
   <tr><td>N N- Gender=F|Number=S|Case=4|Defin=D</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Definite=Def|Gender=Fem|Number=Sing</td><td>الحُكُومَةَ, الجُمْعَةَ, الدَوْلَةَ, الشَرِكَةَ, القَضِيَّةَ</td></tr>
   <tr style="background:lightgray"><td>N N- Gender=F|Number=S|Case=4|Defin=I</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Definite=Ind|Gender=Fem|Number=Sing</td><td>إِضافَةً, شَرِكَةً, سَنَةً, عِلاوَةً, خاصَّةً</td></tr>
-  <tr><td>N N- Gender=F|Number=S|Case=4|Defin=R</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Definite=Red|Gender=Fem|Number=Sing</td><td>سَنَةَ, نَتِيجَةَ, ثَلاثَةَ, نِسْبَةَ, قِيمَةَ</td></tr>
+  <tr><td>N N- Gender=F|Number=S|Case=4|Defin=R</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Definite=Cons|Gender=Fem|Number=Sing</td><td>سَنَةَ, نَتِيجَةَ, ثَلاثَةَ, نِسْبَةَ, قِيمَةَ</td></tr>
   <tr style="background:lightgray"><td>N N- Gender=F|Number=S|Defin=D</td><td>=&gt;</td><td>NOUN</td><td>Definite=Def|Gender=Fem|Number=Sing</td><td>الغَوّاصَة, المُفَوَّضِيَّة, اللَيْلَة, الوِقايَة, الخَزِينَة</td></tr>
   <tr><td>N N- Gender=M|Number=D|Case=1|Defin=D</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Def|Gender=Masc|Number=Dual</td><td>الجانِبانِ, الطَرَفانِ, الوَزِيرانِ, القَرارانِ, البَلَدانِ</td></tr>
   <tr style="background:lightgray"><td>N N- Gender=M|Number=D|Case=1|Defin=I</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Ind|Gender=Masc|Number=Dual</td><td>اِثْنانِ, شَخْصانِ, طِفْلانِ, مُسَلَّحانِ, مَسْؤُولانِ</td></tr>
-  <tr><td>N N- Gender=M|Number=D|Case=1|Defin=R</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Red|Gender=Masc|Number=Dual</td><td>رَئِيسا, وَزِيرا, مُعَدَّلا, عُضْوا</td></tr>
+  <tr><td>N N- Gender=M|Number=D|Case=1|Defin=R</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Cons|Gender=Masc|Number=Dual</td><td>رَئِيسا, وَزِيرا, مُعَدَّلا, عُضْوا</td></tr>
   <tr style="background:lightgray"><td>N N- Gender=M|Number=D|Case=2|Defin=D</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Def|Gender=Masc|Number=Dual</td><td>البَلَدَيْنِ, الجانِبَيْنِ, الطَرَفَيْنِ, الشَعْبَيْنِ, القَرْنَيْنِ</td></tr>
   <tr><td>N N- Gender=M|Number=D|Case=2|Defin=I</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Ind|Gender=Masc|Number=Dual</td><td>أُسْبُوعَيْنِ, اِثْنَيْنِ, يَوْمَيْنِ, خِيارَيْنِ, عامَيْنِ</td></tr>
-  <tr style="background:lightgray"><td>N N- Gender=M|Number=D|Case=2|Defin=R</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Red|Gender=Masc|Number=Dual</td><td>مِلْيُونَيْ, رَئِيسَيْ, أَلْفَيْ, عامَيْ, رَأْسَيْ</td></tr>
+  <tr style="background:lightgray"><td>N N- Gender=M|Number=D|Case=2|Defin=R</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Cons|Gender=Masc|Number=Dual</td><td>مِلْيُونَيْ, رَئِيسَيْ, أَلْفَيْ, عامَيْ, رَأْسَيْ</td></tr>
   <tr><td>N N- Gender=M|Number=D|Case=4|Defin=D</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Definite=Def|Gender=Masc|Number=Dual</td><td>الجانِبَيْنِ, العَسْكَرِيَّيْنِ, اللاعِبَيْنِ, السَفِيرَيْنِ, البَلَدَيْنِ</td></tr>
   <tr style="background:lightgray"><td>N N- Gender=M|Number=D|Case=4|Defin=I</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Definite=Ind|Gender=Masc|Number=Dual</td><td>اِثْنَيْنِ, أُسْبُوعَيْنِ, شَخْصَيْنِ, طَلَبَيْنِ, يَوْمَيْنِ</td></tr>
-  <tr><td>N N- Gender=M|Number=D|Case=4|Defin=R</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Definite=Red|Gender=Masc|Number=Dual</td><td>يَوْمَيْ, عامَيْ, وَزِيرَيْ, قَرارَيْ, إِجْمالَيْ</td></tr>
+  <tr><td>N N- Gender=M|Number=D|Case=4|Defin=R</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Definite=Cons|Gender=Masc|Number=Dual</td><td>يَوْمَيْ, عامَيْ, وَزِيرَيْ, قَرارَيْ, إِجْمالَيْ</td></tr>
   <tr style="background:lightgray"><td>N N- Gender=M|Number=P|Case=1|Defin=D</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Def|Gender=Masc|Number=Plur</td><td>المَسْؤُولُونَ, المُتَمَرِّدُونَ, المُراقِبُونَ, المُحامُونَ, المُوَظَّفُونَ</td></tr>
   <tr><td>N N- Gender=M|Number=P|Case=1|Defin=I</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Ind|Gender=Masc|Number=Plur</td><td>مُحَلِّلُونَ, مَسْؤُولُونَ, مُسَلَّحُونَ, آخَرُونَ, مُراقِبُونَ</td></tr>
-  <tr style="background:lightgray"><td>N N- Gender=M|Number=P|Case=1|Defin=R</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Red|Gender=Masc|Number=Plur</td><td>مَسْئُولُو, مَسْؤُولُو, مُوَظَّفُو, بَوّاقُو, مُساعِدُو</td></tr>
+  <tr style="background:lightgray"><td>N N- Gender=M|Number=P|Case=1|Defin=R</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Definite=Cons|Gender=Masc|Number=Plur</td><td>مَسْئُولُو, مَسْؤُولُو, مُوَظَّفُو, بَوّاقُو, مُساعِدُو</td></tr>
   <tr><td>N N- Gender=M|Number=P|Case=2|Defin=D</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Def|Gender=Masc|Number=Plur</td><td>المُسْتَثْمِرِينَ, الفِلَسْطِينِيِّيْنَ, اللاجِئِيْنَ, المَسْؤُولِينَ, العامِلِيْنَ</td></tr>
   <tr style="background:lightgray"><td>N N- Gender=M|Number=P|Case=2|Defin=I</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Ind|Gender=Masc|Number=Plur</td><td>عِشْرِينَ, مُواطِنِي, مُراقِبِينَ, مَسْؤُولِينَ, ثَلاثِينَ</td></tr>
-  <tr><td>N N- Gender=M|Number=P|Case=2|Defin=R</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Red|Gender=Masc|Number=Plur</td><td>مُرَشَّحِي, مَسْؤُولِي, مُحامِي, مُفاوِضِي, مُفَتِّشِي</td></tr>
+  <tr><td>N N- Gender=M|Number=P|Case=2|Defin=R</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Definite=Cons|Gender=Masc|Number=Plur</td><td>مُرَشَّحِي, مَسْؤُولِي, مُحامِي, مُفاوِضِي, مُفَتِّشِي</td></tr>
   <tr style="background:lightgray"><td>N N- Gender=M|Number=P|Case=4|Defin=D</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Definite=Def|Gender=Masc|Number=Plur</td><td>المَسْؤُولِيْنَ, الفِلَسْطِينِيِّينَ, المَسْؤُولِينَ, المُسْلِمِيْنَ, الفَلّاحِينَ</td></tr>
   <tr><td>N N- Gender=M|Number=P|Case=4|Defin=I</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Definite=Ind|Gender=Masc|Number=Plur</td><td>مُمَثِّلِينَ, مُعَلِّلِينَ, سِتِّينَ, آخَرِيْنَ, عِشْرِينَ</td></tr>
-  <tr style="background:lightgray"><td>N N- Gender=M|Number=P|Case=4|Defin=R</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Definite=Red|Gender=Masc|Number=Plur</td><td>مُوَظَّفِي, مُنْتِجِي, مَسْؤُولِي, مَسِيحِيِّي</td></tr>
+  <tr style="background:lightgray"><td>N N- Gender=M|Number=P|Case=4|Defin=R</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Definite=Cons|Gender=Masc|Number=Plur</td><td>مُوَظَّفِي, مُنْتِجِي, مَسْؤُولِي, مَسِيحِيِّي</td></tr>
   <tr><td>N N- Gender=M|Number=S|Case=4|Defin=I</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Definite=Ind|Gender=Masc|Number=Sing</td><td>وِفْقاً, يَوْماً, خُصُوصاً, عاماً, بَدَلاً</td></tr>
   <tr style="background:lightgray"><td>N N- _</td><td>=&gt;</td><td>NOUN</td><td>_</td><td>مايُو, مِلْيُون, أَمْس, مُسْتَوَى, أَحَد</td></tr>
   <tr><td>P P- Gender=F|Number=S</td><td>=&gt;</td><td>ADP</td><td>AdpType=Prep|Gender=Fem|Number=Sing</td><td>قُبالَة</td></tr>
@@ -281,13 +282,13 @@ Tagset <tt>ar::conll2007</tt>, total 296 tags.
   <tr style="background:lightgray"><td>Y Y- _</td><td>=&gt;</td><td>X</td><td>Abbr=Yes</td><td>ب, اف, بِي, سِي, أَ</td></tr>
   <tr><td>Z Z- Case=1|Defin=D</td><td>=&gt;</td><td>PROPN</td><td>Case=Nom|Definite=Def</td><td>الكُوَيْتُ, العِراقُ, الصِينُ, الرِياضُ, الجَزائِرُ</td></tr>
   <tr style="background:lightgray"><td>Z Z- Case=1|Defin=I</td><td>=&gt;</td><td>PROPN</td><td>Case=Nom|Definite=Ind</td><td>مِصْرُ, مُحَمَّدٌ, طَهْرانُ, إِيرانُ, إِسْرائِيلُ</td></tr>
-  <tr><td>Z Z- Case=1|Defin=R</td><td>=&gt;</td><td>PROPN</td><td>Case=Nom|Definite=Red</td><td>لُبْنانُ, عَبْدُ, بَغْدادُ, إِسْرائِيلُ, دِمَشْقُ</td></tr>
+  <tr><td>Z Z- Case=1|Defin=R</td><td>=&gt;</td><td>PROPN</td><td>Case=Nom|Definite=Cons</td><td>لُبْنانُ, عَبْدُ, بَغْدادُ, إِسْرائِيلُ, دِمَشْقُ</td></tr>
   <tr style="background:lightgray"><td>Z Z- Case=2|Defin=D</td><td>=&gt;</td><td>PROPN</td><td>Case=Gen|Definite=Def</td><td>العِراقِ, الصِينِ, الاِتِّحادِ, الأُمَمِ, الكُوَيْتِ</td></tr>
   <tr><td>Z Z- Case=2|Defin=I</td><td>=&gt;</td><td>PROPN</td><td>Case=Gen|Definite=Ind</td><td>مِصْرَ, إِسْرائِيلَ, بَغْدادَ, باكِسْتانٍ, أَبْرِيلَ</td></tr>
-  <tr style="background:lightgray"><td>Z Z- Case=2|Defin=R</td><td>=&gt;</td><td>PROPN</td><td>Case=Gen|Definite=Red</td><td>لُبْنانِ, إِسْرائِيلِ, دِمَشْقِ, اللّٰهِ, بَيْرُوتِ</td></tr>
+  <tr style="background:lightgray"><td>Z Z- Case=2|Defin=R</td><td>=&gt;</td><td>PROPN</td><td>Case=Gen|Definite=Cons</td><td>لُبْنانِ, إِسْرائِيلِ, دِمَشْقِ, اللّٰهِ, بَيْرُوتِ</td></tr>
   <tr><td>Z Z- Case=4|Defin=D</td><td>=&gt;</td><td>PROPN</td><td>Case=Acc|Definite=Def</td><td>العِراقَ, الكُوَيْتَ, السُودانَ, الهِنْدَ, الصِينَ</td></tr>
   <tr style="background:lightgray"><td>Z Z- Case=4|Defin=I</td><td>=&gt;</td><td>PROPN</td><td>Case=Acc|Definite=Ind</td><td>مِصْرَ, بَغْدادَ, دِمَشْقَ, إِسْرائِيلَ, قُبْرُصَ</td></tr>
-  <tr><td>Z Z- Case=4|Defin=R</td><td>=&gt;</td><td>PROPN</td><td>Case=Acc|Definite=Red</td><td>لُبْنانَ, بَيْرُوتَ, إِسْرائِيلَ, إِيرانَ, دِمَشْقَ</td></tr>
+  <tr><td>Z Z- Case=4|Defin=R</td><td>=&gt;</td><td>PROPN</td><td>Case=Acc|Definite=Cons</td><td>لُبْنانَ, بَيْرُوتَ, إِسْرائِيلَ, إِيرانَ, دِمَشْقَ</td></tr>
   <tr style="background:lightgray"><td>Z Z- Defin=D</td><td>=&gt;</td><td>PROPN</td><td>Definite=Def</td><td>السارس, الأَسَد, الصِين, الحَرِيرِيّ, الأَحَد</td></tr>
   <tr><td>Z Z- Gender=F|Number=D|Case=2|Defin=D</td><td>=&gt;</td><td>PROPN</td><td>Case=Gen|Definite=Def|Gender=Fem|Number=Dual</td><td>الكُورِيَّتَيْنِ</td></tr>
   <tr style="background:lightgray"><td>Z Z- Gender=F|Number=P</td><td>=&gt;</td><td>PROPN</td><td>Gender=Fem|Number=Plur</td><td>عَرِيقات</td></tr>
@@ -300,16 +301,16 @@ Tagset <tt>ar::conll2007</tt>, total 296 tags.
   <tr><td>Z Z- Gender=F|Number=S</td><td>=&gt;</td><td>PROPN</td><td>Gender=Fem|Number=Sing</td><td>أَنْقَرَة, غَزَّة, جِدَّة, بَطارِكَة, زَنْقانَة</td></tr>
   <tr style="background:lightgray"><td>Z Z- Gender=F|Number=S|Case=1|Defin=D</td><td>=&gt;</td><td>PROPN</td><td>Case=Nom|Definite=Def|Gender=Fem|Number=Sing</td><td>الحَياَةُ, القاهِرَةُ, السَعُودِيَّةُ, التايْوانِيَّةُ, الدَوْحَةُ</td></tr>
   <tr><td>Z Z- Gender=F|Number=S|Case=1|Defin=I</td><td>=&gt;</td><td>PROPN</td><td>Case=Nom|Definite=Ind|Gender=Fem|Number=Sing</td><td>غَزَّةٌ, سُورِيَّةٌ, نافِعَةٌ</td></tr>
-  <tr style="background:lightgray"><td>Z Z- Gender=F|Number=S|Case=1|Defin=R</td><td>=&gt;</td><td>PROPN</td><td>Case=Nom|Definite=Red|Gender=Fem|Number=Sing</td><td>غَزَّةُ</td></tr>
+  <tr style="background:lightgray"><td>Z Z- Gender=F|Number=S|Case=1|Defin=R</td><td>=&gt;</td><td>PROPN</td><td>Case=Nom|Definite=Cons|Gender=Fem|Number=Sing</td><td>غَزَّةُ</td></tr>
   <tr><td>Z Z- Gender=F|Number=S|Case=2|Defin=D</td><td>=&gt;</td><td>PROPN</td><td>Case=Gen|Definite=Def|Gender=Fem|Number=Sing</td><td>الحَياَةِ, القاهِرَةِ, السَعُودِيَّةِ, الإِسْكَنْدَرِيَّةِ, الضِفَّةِ</td></tr>
   <tr style="background:lightgray"><td>Z Z- Gender=F|Number=S|Case=2|Defin=I</td><td>=&gt;</td><td>PROPN</td><td>Case=Gen|Definite=Ind|Gender=Fem|Number=Sing</td><td>غَزَّةٍ, سُورِيَّةٍ, دِجْلَةٍ, سِنْغافُورَةٍ, جِدَّةٍ</td></tr>
-  <tr><td>Z Z- Gender=F|Number=S|Case=2|Defin=R</td><td>=&gt;</td><td>PROPN</td><td>Case=Gen|Definite=Red|Gender=Fem|Number=Sing</td><td>سُورِيَّةِ, أَنْقَرَةِ, غَزَّةِ</td></tr>
+  <tr><td>Z Z- Gender=F|Number=S|Case=2|Defin=R</td><td>=&gt;</td><td>PROPN</td><td>Case=Gen|Definite=Cons|Gender=Fem|Number=Sing</td><td>سُورِيَّةِ, أَنْقَرَةِ, غَزَّةِ</td></tr>
   <tr style="background:lightgray"><td>Z Z- Gender=F|Number=S|Case=4|Defin=D</td><td>=&gt;</td><td>PROPN</td><td>Case=Acc|Definite=Def|Gender=Fem|Number=Sing</td><td>السَعُودِيَّةَ, الحَياَةَ, القاهِرَةَ, البَصْرَةَ</td></tr>
   <tr><td>Z Z- Gender=F|Number=S|Case=4|Defin=I</td><td>=&gt;</td><td>PROPN</td><td>Case=Acc|Definite=Ind|Gender=Fem|Number=Sing</td><td>سُورِيَّةً, أُوكرانِيَّةً</td></tr>
-  <tr style="background:lightgray"><td>Z Z- Gender=F|Number=S|Case=4|Defin=R</td><td>=&gt;</td><td>PROPN</td><td>Case=Acc|Definite=Red|Gender=Fem|Number=Sing</td><td>سُورِيَّةَ</td></tr>
+  <tr style="background:lightgray"><td>Z Z- Gender=F|Number=S|Case=4|Defin=R</td><td>=&gt;</td><td>PROPN</td><td>Case=Acc|Definite=Cons|Gender=Fem|Number=Sing</td><td>سُورِيَّةَ</td></tr>
   <tr><td>Z Z- Gender=F|Number=S|Defin=D</td><td>=&gt;</td><td>PROPN</td><td>Definite=Def|Gender=Fem|Number=Sing</td><td>السِنْيُورَة, البَطارِكَة, العَطِيَّة, الكَرامَة, الناصِرَة</td></tr>
   <tr style="background:lightgray"><td>Z Z- Gender=M|Number=D|Case=2|Defin=D</td><td>=&gt;</td><td>PROPN</td><td>Case=Gen|Definite=Def|Gender=Masc|Number=Dual</td><td>الحَرَمَيْنِ, الرافِدَيْنِ</td></tr>
-  <tr><td>Z Z- Gender=M|Number=P|Case=2|Defin=R</td><td>=&gt;</td><td>PROPN</td><td>Case=Gen|Definite=Red|Gender=Masc|Number=Plur</td><td>مُجاهِدِي</td></tr>
+  <tr><td>Z Z- Gender=M|Number=P|Case=2|Defin=R</td><td>=&gt;</td><td>PROPN</td><td>Case=Gen|Definite=Cons|Gender=Masc|Number=Plur</td><td>مُجاهِدِي</td></tr>
   <tr style="background:lightgray"><td>Z Z- _</td><td>=&gt;</td><td>PROPN</td><td>_</td><td>مايُو, باوِل, واشِنْطُن, بِكِين, سُورِيا</td></tr>
   <tr><td>_ _ _</td><td>=&gt;</td><td>X</td><td>_</td><td>السارس, شينخوا, ـ, سارس, جمالى</td></tr>
 </table>

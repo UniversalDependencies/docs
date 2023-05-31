@@ -1,5 +1,4 @@
-Note: <i>nmod</i>, <i>neg</i>, and <i>punct</i> appear
-in two places.
+Note: <i>punct</i> appears in two places.
 
 <table class="typeindex">
   <tr>
@@ -16,11 +15,11 @@ in two places.
 	  <td><a>csubj</a></td>
 	</tr>
 	<tr>
-	  <td><a>nsubjpass</a></td>
-	  <td><a>csubjpass</a></td>
+	  <td>↳<a>nsubj:pass</a></td>
+	  <td>↳<a>csubj:pass</a></td>
 	</tr>
 	<tr>
-	  <td><a>dobj</a></td>
+	  <td><a>obj</a></td>
 	  <td><a>ccomp</a></td>
 	  <td><a>xcomp</a></td>
 	</tr>
@@ -40,14 +39,19 @@ in two places.
 	  <td><i>Modifier word</i></td>
 	</tr>
 	<tr>
-	  <td><a>nmod</a></td>
+	  <td><a>obl</a></td>
 	  <td><a>advcl</a></td>
 	  <td><a>advmod</a></td>
 	</tr>
 	<tr>
+	  <td>↳<a>obl:arg</a></td>
+	  <td>↳<a>advcl:relcl</a></td>
+	  <td>&nbsp;</td>
+	</tr>
+	<tr>
+	  <td>↳<a>obl:agent</a></td>
 	  <td>&nbsp;</td>
 	  <td>&nbsp;</td>
-	  <td><a>neg</a></td>
 	</tr>
       </table>
 
@@ -68,12 +72,15 @@ in two places.
 	</tr>
 	<tr>
 	  <td><a>discourse</a></td>
-	  <td><a>auxpass</a></td>
+	  <td>↳<a>aux:pass</a></td>
 	  <td><a>punct</a></td>
 	</tr>
 	<tr>
 	  <td><a>expl</a></td>
 	  <td><a>cop</a></td>
+	</tr>
+	<tr>
+	  <td>↳<a>expl:pv</a></td>
 	</tr>
       </table>
 
@@ -95,18 +102,14 @@ in two places.
 	  <td><a>amod</a></td>
 	</tr>
 	<tr>
-	  <td>&nbsp;</td>
-	  <td>↳<a>acl:relcl</a></td>
-	</tr>	
-	<tr>
 	  <td><a>appos</a></td>
-	  <td>&nbsp;</td>
+	  <td>↳<a>acl:relcl</a></td>
 	  <td><a>det</a></td>
 	</tr>
 	<tr>
 	  <td><a>nmod</a></td>
 	  <td>&nbsp;</td>
-	  <td><a>neg</a></td>
+	  <td>↳<a>det:poss</a></td>
 	</tr>
       </table>
 
@@ -117,15 +120,15 @@ in two places.
 	<tr><td colspan="3"><strong>Compounding and unanalyzed</strong></td></tr>
 	<tr>
 	  <td><a>compound</a></td>
-	  <td><a>mwe</a></td>
+	  <td><a>fixed</a></td>
 	  <td><a>goeswith</a></td>
 	</tr>
 	<tr>
 	  <td>↳<a>compound:prt</a></td>
 	</tr>
 	<tr>
-	  <td><a>name</a></td>
-	  <td><a>foreign</a></td>
+	  <td><a>flat</a></td>
+	  <td>&nbsp;</td>
 	</tr>
       </table>
 
@@ -147,7 +150,7 @@ in two places.
     <td>
 
       <table class="category">
-	<tr><td colspan="3"><strong>Case-marking, prepositions, possessive</strong></td></tr>
+	<tr><td colspan="3"><strong>Case-marking, prepositions</strong></td></tr>
 	<tr>
 	  <td><a>case</a></td>
 	</tr>
@@ -161,11 +164,12 @@ in two places.
 	<tr>
 	  <td><a>list</a></td>
 	  <td><a>parataxis</a></td>
-	  <td><a>remnant</a></td>
+	  <td><a>orphan</a></td>
 	</tr>
 	<tr>
 	  <td><a>dislocated</a></td>
-	  <td></td><td><a>reparandum</a></td>
+	  <td></td>
+	  <td><a>reparandum</a></td>
 	</tr>
       </table>
 

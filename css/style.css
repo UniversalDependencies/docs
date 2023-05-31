@@ -4,7 +4,8 @@
 /* style for home page and manual. */
 
 /* @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,600,700,400italic,600italic,700italic&subset=latin&effect=smoothing); */
-@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700,400italic,600italic,700italic&subset=latin&effect=smoothing);
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Roboto');
+/*@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700,400italic,600italic,700italic&subset=latin&effect=smoothing);*/
 
 /* override sentence number text style from brat style-vis.css */
 .sentnum text {
@@ -25,7 +26,7 @@ img.bordered {
 }
 
 #partialsupport {
-  font-weight: bold;
+  -weight: bold;
 }
 
 a img {
@@ -36,13 +37,13 @@ a.fronta:visited {
 }
 .smallgray {
   font-size: 80%;
-  color:gray; 
+  color:gray;
 }
 .smallgray a {
-  color:gray; 
+  color:gray;
 }
 .smallgray a:visited {
-  color:#aaaaaa; 
+  color:#aaaaaa;
 }
 
 span.tt {
@@ -132,12 +133,16 @@ img.icon {
   margin-bottom: 0;
 }
 
-body { 
+body {
 /*   font-family: 'Open Sans', arial, sans-serif; */
-/*  font-family: 'Open Sans', Arial, freesans, sans-serif; */
-  font-family: 'Source Sans Pro', Arial, freesans, sans-serif;
+ font-family: 'Open Sans', Arial, freesans, sans-serif; 
+  /* font-family: 'Source Sans Pro', Arial, freesans, sans-serif; */
   font-size: 14px;
   overflow-y: scroll;
+}
+
+h1 {
+  margin-top: 2.5em;
 }
 
 h2 {
@@ -150,10 +155,11 @@ h2.nomargin {
 
 h3 {
   margin-top: 1.5em;
+  clear: both;
 }
 
 .infolabel {
-  font-weight: bold;  
+  font-weight: bold;
   display: inline-block;
   width: 10em;
 }
@@ -176,7 +182,7 @@ div.center {
 #menulogo {
   padding-top: 0.5em;
   padding-right: 1em;
-  float: right;  
+  float: right;
 }
 #hp-header span a {
   text-decoration: none; /* no underline in menu */
@@ -249,10 +255,10 @@ div.center {
 }
 
 .image {
-  margin-left: 2em;    
+  margin-left: 2em;
 }
 
-.image .caption { 
+.image .caption {
   font-size: 85%;
   font-family: sans-serif;
   text-align: center;
@@ -264,7 +270,7 @@ div.center {
   margin-right: auto;
 }
 
-.annotation_wrapper { 
+.annotation_wrapper {
   margin-left: 2em;
   border: 1px solid;
   border-color: rgb(136, 136, 136);
@@ -375,7 +381,7 @@ td.none {
 }
 .center-wrapper {
   width: 5em;
-  height: 5em; 
+  height: 5em;
   display: table;
 }
 .center-wrapper p {
@@ -402,7 +408,7 @@ div.example {
 }
 
 #indextable td.right {
-  text-align: right;  
+  text-align: right;
 }
 
 #indextable th {
@@ -477,6 +483,11 @@ h4, h5, h6 {
     width: 16%;
 }
 
+.triplewidespan {
+    display: inline-block;
+    width: 24%;
+}
+
 
 .tagspan {
     display: inline-block;
@@ -500,7 +511,7 @@ h4, h5, h6 {
     margin-left: auto;
     margin-right: auto;
 }
-   
+
 
 .flag {
     vertical-align: middle;
@@ -508,6 +519,22 @@ h4, h5, h6 {
     height: 1em;
     margin: 0 1em;
 }
+
+.v1warning {
+    background-color: yellow;
+    font-weight: bold;
+    padding: 2px 10px 2px 10px;
+    border-radius: 3px;
+}
+
+.v2complete {
+    background-color: #0b0;
+    font-weight: bold;
+    color: white;
+    padding: 2px 10px 2px 10px;
+    border-radius: 3px;
+}
+
 
 .license {
    vertical-align: middle;
@@ -539,4 +566,70 @@ div.bordered-char span {
   font-size: 11px;
   line-height: 8.5px;
   font-weight: bold;
+}
+
+#stars00 {
+    width: 160px;
+    height: 32px;
+    background: url(http://universaldependencies.org/img/stars.png) 0 0;
+}
+
+#stars05 {
+    width: 160px;
+    height: 32px;
+    background: url(http://universaldependencies.org/img/stars.png) 0 -32px;
+}
+
+#stars10 {
+    width: 160px;
+    height: 32px;
+    background: url(http://universaldependencies.org/img/stars.png) 0 -64px;
+}
+
+#stars15 {
+    width: 160px;
+    height: 32px;
+    background: url(http://universaldependencies.org/img/stars.png) 0 -96px;
+}
+
+#stars20 {
+    width: 160px;
+    height: 32px;
+    background: url(http://universaldependencies.org/img/stars.png) 0 -128px;
+}
+
+#stars25 {
+    width: 160px;
+    height: 32px;
+    background: url(http://universaldependencies.org/img/stars.png) 0 -160px;
+}
+
+#stars30 {
+    width: 160px;
+    height: 32px;
+    background: url(http://universaldependencies.org/img/stars.png) 0 -192px;
+}
+
+#stars35 {
+    width: 160px;
+    height: 32px;
+    background: url(http://universaldependencies.org/img/stars.png) 0 -224px;
+}
+
+#stars40 {
+    width: 160px;
+    height: 32px;
+    background: url(http://universaldependencies.org/img/stars.png) 0 -256px;
+}
+
+#stars45 {
+    width: 160px;
+    height: 32px;
+    background: url(http://universaldependencies.org/img/stars.png) 0 -288px;
+}
+
+#stars50 {
+    width: 160px;
+    height: 32px;
+    background: url(http://universaldependencies.org/img/stars.png) 0 -320px;
 }

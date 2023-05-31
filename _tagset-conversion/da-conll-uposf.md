@@ -1,6 +1,7 @@
 ---
 layout: base
 title: 'Tagset da::conll conversion to universal POS tags and features'
+udver: '2'
 ---
 
 <a href="index.html">all tables</a>
@@ -44,7 +45,7 @@ Tagset <tt>da::conll</tt>, total 147 tags.
   <tr><td>A AN degree=sup|gender=common/neuter|number=sing/plur|case=unmarked|def=def|transcat=unmarked</td><td>=&gt;</td><td>ADJ</td><td>Definite=Def|Degree=Sup|Variant=Long</td><td><em>bedste, største, seneste, øverste, mindste</em></td></tr>
   <tr style="background:lightgray"><td>A AN degree=sup|transcat=adverbial</td><td>=&gt;</td><td>ADJ</td><td>Degree=Sup|Variant=Short</td><td><em>mest, mindst, senest, nærmest, bedst</em></td></tr>
   <tr><td>A AO case=unmarked</td><td>=&gt;</td><td>ADJ</td><td>NumType=Ord</td><td><em>1., anden, 2., tredje, 3.</em></td></tr>
-  <tr style="background:lightgray"><td>C CC _</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em>og, men, eller, for, samt</em></td></tr>
+  <tr style="background:lightgray"><td>C CC _</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em>og, men, eller, for, samt</em></td></tr>
   <tr><td>C CS _</td><td>=&gt;</td><td>SCONJ</td><td>_</td><td><em>at, da, end, når, fordi</em></td></tr>
   <tr style="background:lightgray"><td>I I _</td><td>=&gt;</td><td>INTJ</td><td>_</td><td><em>ja, nej, Øv, åh, javel</em></td></tr>
   <tr><td>N NC gender=common/neuter|number=plur|case=unmarked|def=def</td><td>=&gt;</td><td>NOUN</td><td>Definite=Def|Number=Plur</td><td><em>krystallerne, Fondene</em></td></tr>
@@ -95,7 +96,7 @@ Tagset <tt>da::conll</tt>, total 147 tags.
   <tr style="background:lightgray"><td>P PO person=1|gender=neuter|number=sing|case=unmarked|possessor=sing|reflexive=no|register=unmarked</td><td>=&gt;</td><td>DET</td><td>Gender=Neut|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em>mit</em></td></tr>
   <tr><td>P PO person=2|gender=common/neuter|number=plur|case=unmarked|possessor=sing|reflexive=no|register=unmarked</td><td>=&gt;</td><td>DET</td><td>Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em>dine</em></td></tr>
   <tr style="background:lightgray"><td>P PO person=2|gender=common/neuter|number=sing/plur|case=unmarked|possessor=plur|reflexive=no|register=unmarked</td><td>=&gt;</td><td>DET</td><td>Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em>jeres</em></td></tr>
-  <tr><td>P PO person=2|gender=common/neuter|number=sing/plur|case=unmarked|possessor=sing/plur|reflexive=no|register=polite</td><td>=&gt;</td><td>DET</td><td>Person=2|Polite=Pol|Poss=Yes|PronType=Prs</td><td><em>Deres</em></td></tr>
+  <tr><td>P PO person=2|gender=common/neuter|number=sing/plur|case=unmarked|possessor=sing/plur|reflexive=no|register=polite</td><td>=&gt;</td><td>DET</td><td>Person=2|Polite=Form|Poss=Yes|PronType=Prs</td><td><em>Deres</em></td></tr>
   <tr style="background:lightgray"><td>P PO person=2|gender=common|number=sing|case=unmarked|possessor=sing|reflexive=no|register=unmarked</td><td>=&gt;</td><td>DET</td><td>Gender=Com|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em>din</em></td></tr>
   <tr><td>P PO person=2|gender=neuter|number=sing|case=unmarked|possessor=sing|reflexive=no|register=unmarked</td><td>=&gt;</td><td>DET</td><td>Gender=Neut|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em>dit</em></td></tr>
   <tr style="background:lightgray"><td>P PO person=3|gender=common/neuter|number=plur|case=unmarked|possessor=sing|reflexive=yes|register=unmarked</td><td>=&gt;</td><td>DET</td><td>Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em>sine</em></td></tr>
@@ -111,8 +112,8 @@ Tagset <tt>da::conll</tt>, total 147 tags.
   <tr style="background:lightgray"><td>P PP person=2|gender=common|number=plur|case=unmarked|reflexive=yes/no|register=unmarked</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Com|Number=Plur|Person=2|PronType=Prs</td><td><em>jer</em></td></tr>
   <tr><td>P PP person=2|gender=common|number=sing|case=nom|reflexive=no|register=unmarked</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Com|Number=Sing|Person=2|PronType=Prs</td><td><em>du</em></td></tr>
   <tr style="background:lightgray"><td>P PP person=2|gender=common|number=sing|case=unmarked|reflexive=yes/no|register=unmarked</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Com|Number=Sing|Person=2|PronType=Prs</td><td><em>dig</em></td></tr>
-  <tr><td>P PP person=2|gender=common|number=sing/plur|case=nom|reflexive=no|register=polite</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Com|Person=2|Polite=Pol|PronType=Prs</td><td><em>De</em></td></tr>
-  <tr style="background:lightgray"><td>P PP person=2|gender=common|number=sing/plur|case=unmarked|reflexive=yes/no|register=polite</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Com|Person=2|Polite=Pol|PronType=Prs</td><td><em>Dem</em></td></tr>
+  <tr><td>P PP person=2|gender=common|number=sing/plur|case=nom|reflexive=no|register=polite</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Com|Person=2|Polite=Form|PronType=Prs</td><td><em>De</em></td></tr>
+  <tr style="background:lightgray"><td>P PP person=2|gender=common|number=sing/plur|case=unmarked|reflexive=yes/no|register=polite</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Com|Person=2|Polite=Form|PronType=Prs</td><td><em>Dem</em></td></tr>
   <tr><td>P PP person=3|gender=common/neuter|number=plur|case=nom|reflexive=no|register=unmarked</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Plur|Person=3|PronType=Prs</td><td><em>de</em></td></tr>
   <tr style="background:lightgray"><td>P PP person=3|gender=common/neuter|number=plur|case=unmarked|reflexive=no|register=unmarked</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Plur|Person=3|PronType=Prs</td><td><em>dem</em></td></tr>
   <tr><td>P PP person=3|gender=common/neuter|number=plur|case=unmarked|reflexive=yes/no|register=unmarked</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Plur|Person=3|PronType=Prs</td><td><em></em></td></tr>
@@ -147,18 +148,18 @@ Tagset <tt>da::conll</tt>, total 147 tags.
   <tr style="background:lightgray"><td>V VA mood=partic|tense=past|number=plur|gender=common/neuter|definiteness=def/indef|transcat=adject|case=unmarked</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Tense=Past|VerbForm=Part</td><td><em>ansatte, gensplejsede, gentagne, Forenede, orienterede</em></td></tr>
   <tr><td>V VA mood=partic|tense=past|number=sing|gender=common|definiteness=def|transcat=adject|case=unmarked</td><td>=&gt;</td><td>VERB</td><td>Definite=Def|Gender=Com|Number=Sing|Tense=Past|VerbForm=Part</td><td><em>udskårne, foretrukne</em></td></tr>
   <tr style="background:lightgray"><td>V VA mood=partic|tense=past|number=sing|gender=common/neuter|definiteness=def|transcat=adject|case=unmarked</td><td>=&gt;</td><td>VERB</td><td>Definite=Def|Number=Sing|Tense=Past|VerbForm=Part</td><td><em>samlede, nævnte, fortsatte, lukkede, udsendte</em></td></tr>
-  <tr><td>V VA mood=partic|tense=past|number=sing|gender=common/neuter|definiteness=indef|transcat=adject/adverb/unmarked|case=unmarked</td><td>=&gt;</td><td>VERB</td><td>Definite=Ind|Number=Sing|Tense=Past|VerbForm=Part,Trans</td><td><em>været, blevet, fået, gjort, haft</em></td></tr>
+  <tr><td>V VA mood=partic|tense=past|number=sing|gender=common/neuter|definiteness=indef|transcat=adject/adverb/unmarked|case=unmarked</td><td>=&gt;</td><td>VERB</td><td>Definite=Ind|Number=Sing|Tense=Past|VerbForm=Conv,Part</td><td><em>været, blevet, fået, gjort, haft</em></td></tr>
   <tr style="background:lightgray"><td>V VA mood=partic|tense=past|number=sing|gender=common/neuter|definiteness=indef|transcat=adject|case=unmarked</td><td>=&gt;</td><td>VERB</td><td>Definite=Ind|Number=Sing|Tense=Past|VerbForm=Part</td><td><em>reduceret, udvidet, legaliseret, begrænset, ansat</em></td></tr>
-  <tr><td>V VA mood=partic|tense=past|number=sing/plur|gender=common/neuter|definiteness=def/indef|transcat=adject/adverb/unmarked|case=unmarked</td><td>=&gt;</td><td>VERB</td><td>Tense=Past|VerbForm=Part,Trans</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>V VA mood=partic|tense=present|number=sing/plur|gender=common/neuter|definiteness=def/indef|transcat=adject/adverb/unmarked|case=unmarked</td><td>=&gt;</td><td>VERB</td><td>Tense=Pres|VerbForm=Part,Trans</td><td><em>stående, overraskende, liggende, spørgende, faldende</em></td></tr>
+  <tr><td>V VA mood=partic|tense=past|number=sing/plur|gender=common/neuter|definiteness=def/indef|transcat=adject/adverb/unmarked|case=unmarked</td><td>=&gt;</td><td>VERB</td><td>Tense=Past|VerbForm=Conv,Part</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>V VA mood=partic|tense=present|number=sing/plur|gender=common/neuter|definiteness=def/indef|transcat=adject/adverb/unmarked|case=unmarked</td><td>=&gt;</td><td>VERB</td><td>Tense=Pres|VerbForm=Conv,Part</td><td><em>stående, overraskende, liggende, spørgende, faldende</em></td></tr>
   <tr><td>V VA mood=partic|tense=present|number=sing/plur|gender=common/neuter|definiteness=def/indef|transcat=adject|case=unmarked</td><td>=&gt;</td><td>VERB</td><td>Tense=Pres|VerbForm=Part</td><td><em>kommende, manglende, følgende, administrerende, overlevende</em></td></tr>
-  <tr style="background:lightgray"><td>V VA mood=partic|tense=present|transcat=adverb</td><td>=&gt;</td><td>VERB</td><td>Tense=Pres|VerbForm=Trans</td><td><em>lysende, alarmerende</em></td></tr>
+  <tr style="background:lightgray"><td>V VA mood=partic|tense=present|transcat=adverb</td><td>=&gt;</td><td>VERB</td><td>Tense=Pres|VerbForm=Conv</td><td><em>lysende, alarmerende</em></td></tr>
   <tr><td>V VE mood=indic|tense=past|voice=active</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act</td><td><em>lykkedes, syntes, mødtes, skyldtes, mislykkedes</em></td></tr>
   <tr style="background:lightgray"><td>V VE mood=indic|tense=present|voice=active</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em>synes, findes, skyldes, ses, mødes</em></td></tr>
   <tr><td>V VE mood=infin|voice=active</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Inf|Voice=Act</td><td><em>mindes, mødes, nøjes, slås, lykkes</em></td></tr>
-  <tr style="background:lightgray"><td>V VE mood=partic|tense=past|number=sing/plur|gender=common/neuter|definiteness=def/indef|transcat=adject/adverb/unmarked|case=unmarked</td><td>=&gt;</td><td>VERB</td><td>Tense=Past|VerbForm=Part,Trans</td><td><em>lykkedes</em></td></tr>
+  <tr style="background:lightgray"><td>V VE mood=partic|tense=past|number=sing/plur|gender=common/neuter|definiteness=def/indef|transcat=adject/adverb/unmarked|case=unmarked</td><td>=&gt;</td><td>VERB</td><td>Tense=Past|VerbForm=Conv,Part</td><td><em>lykkedes</em></td></tr>
   <tr><td>X XA _</td><td>=&gt;</td><td>X</td><td>Abbr=Yes</td><td><em>vind., km/t., kl, cand._jur., fru</em></td></tr>
-  <tr style="background:lightgray"><td>X XF _</td><td>=&gt;</td><td>X</td><td>Foreign=Foreign</td><td><em>of, we, the, are, children</em></td></tr>
+  <tr style="background:lightgray"><td>X XF _</td><td>=&gt;</td><td>X</td><td>Foreign=Yes</td><td><em>of, we, the, are, children</em></td></tr>
   <tr><td>X XP _</td><td>=&gt;</td><td>PUNCT</td><td>_</td><td><em>,, ., ", -, :</em></td></tr>
   <tr style="background:lightgray"><td>X XR _</td><td>=&gt;</td><td>X</td><td>_</td><td><em>W-7530, 16V, S327, R14, 1986:5</em></td></tr>
   <tr><td>X XS _</td><td>=&gt;</td><td>SYM</td><td>_</td><td><em>=, *, %, §</em></td></tr>

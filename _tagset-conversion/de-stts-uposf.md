@@ -1,6 +1,7 @@
 ---
 layout: base
 title: 'Tagset de::stts conversion to universal POS tags and features'
+udver: '2'
 ---
 
 <a href="index.html">all tables</a>
@@ -28,10 +29,10 @@ Tagset <tt>de::stts</tt>, total 54 tags.
   <tr><td>APZR</td><td>=&gt;</td><td>ADP</td><td>AdpType=Circ</td><td><em>an, hinaus, aus, her, heraus</em></td></tr>
   <tr style="background:lightgray"><td>ART</td><td>=&gt;</td><td>DET</td><td>PronType=Art</td><td><em>der, die, den, des, das</em></td></tr>
   <tr><td>CARD</td><td>=&gt;</td><td>NUM</td><td>NumType=Card</td><td><em>000, zwei, drei, vier, fünf</em></td></tr>
-  <tr style="background:lightgray"><td>FM</td><td>=&gt;</td><td>X</td><td>Foreign=Foreign</td><td><em>New, of, de, Times, the</em></td></tr>
+  <tr style="background:lightgray"><td>FM</td><td>=&gt;</td><td>X</td><td>Foreign=Yes</td><td><em>New, of, de, Times, the</em></td></tr>
   <tr><td>ITJ</td><td>=&gt;</td><td>INTJ</td><td>_</td><td><em>naja, Ach, äh, Na, piep</em></td></tr>
-  <tr style="background:lightgray"><td>KOKOM</td><td>=&gt;</td><td>CONJ</td><td>ConjType=Comp</td><td><em>als, wie, denn, wir</em></td></tr>
-  <tr><td>KON</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em>und, oder, sondern, sowie, aber</em></td></tr>
+  <tr style="background:lightgray"><td>KOKOM</td><td>=&gt;</td><td>CCONJ</td><td>ConjType=Comp</td><td><em>als, wie, denn, wir</em></td></tr>
+  <tr><td>KON</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em>und, oder, sondern, sowie, aber</em></td></tr>
   <tr style="background:lightgray"><td>KOUI</td><td>=&gt;</td><td>SCONJ</td><td>_</td><td><em>um, ohne, statt, anstatt, Ums</em></td></tr>
   <tr><td>KOUS</td><td>=&gt;</td><td>SCONJ</td><td>_</td><td><em>daß, wenn, weil, ob, als</em></td></tr>
   <tr style="background:lightgray"><td>NE</td><td>=&gt;</td><td>PROPN</td><td>_</td><td><em>SPD, Deutschland, USA, dpa, Bonn</em></td></tr>
@@ -50,8 +51,8 @@ Tagset <tt>de::stts</tt>, total 54 tags.
   <tr><td>PRF</td><td>=&gt;</td><td>PRON</td><td>PronType=Prs|Reflex=Yes</td><td><em>sich, uns, mich, mir, dich</em></td></tr>
   <tr style="background:lightgray"><td>PTKA</td><td>=&gt;</td><td>PART</td><td>_</td><td><em>zu, am, allzu, Um</em></td></tr>
   <tr><td>PTKANT</td><td>=&gt;</td><td>PART</td><td>PartType=Res</td><td><em>nein, ja, bitte, Gewiß, Also</em></td></tr>
-  <tr style="background:lightgray"><td>PTKNEG</td><td>=&gt;</td><td>PART</td><td>Negative=Neg</td><td><em>nicht</em></td></tr>
-  <tr><td>PTKVZ</td><td>=&gt;</td><td>PART</td><td>PartType=Vbp</td><td><em>an, aus, ab, vor, auf</em></td></tr>
+  <tr style="background:lightgray"><td>PTKNEG</td><td>=&gt;</td><td>PART</td><td>Polarity=Neg</td><td><em>nicht</em></td></tr>
+  <tr><td>PTKVZ</td><td>=&gt;</td><td>ADP</td><td>PartType=Vbp</td><td><em>an, aus, ab, vor, auf</em></td></tr>
   <tr style="background:lightgray"><td>PTKZU</td><td>=&gt;</td><td>PART</td><td>PartType=Inf</td><td><em>zu, zur, zum</em></td></tr>
   <tr><td>PWAT</td><td>=&gt;</td><td>DET</td><td>PronType=Int</td><td><em>welche, welchen, welcher, wie, welchem</em></td></tr>
   <tr style="background:lightgray"><td>PWAV</td><td>=&gt;</td><td>ADV</td><td>PronType=Int</td><td><em>wie, wo, warum, wobei, wonach</em></td></tr>

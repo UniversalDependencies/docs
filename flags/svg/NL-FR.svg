@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="910" height="630">
+<defs>
+<path id="pomp" d="M0,12A16.143,16.143 0 0,1 -14,-4A7,8 0 0,1 -2.050,-9.657Q-1,-8.457 -1,-5A1,1 0 1,0 1,-5Q1,-8.457 2.050,-9.657A7,8 0 0,1 14,-4A16.143,16.143 0 0,1 0,12z" transform="rotate(34.695) scale(4.625)"/>
+</defs>
+<rect width="910" height="630" fill="#0155a5"/>
+<g fill="#fff" transform="scale(130,90)">
+<path d="M0,3V5L2,7H4z"/>
+<path d="M1,0H0V1L6,7H7V6z"/>
+<path d="M3,0H5L7,2V4z"/>
+</g>
+<g fill="#ee3e34">
+<use xlink:href="#pomp" x="455" y="315"/>
+<use xlink:href="#pomp" x="91" y="423"/>
+<use xlink:href="#pomp" x="819" y="207"/>
+<use xlink:href="#pomp" x="212.333" y="147"/>
+<use xlink:href="#pomp" x="697.667" y="483"/>
+<use xlink:href="#pomp" x="661.315" y="97.834"/>
+<use xlink:href="#pomp" x="248.685" y="532.166"/>
+</g>
+</svg>

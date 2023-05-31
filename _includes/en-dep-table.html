@@ -1,5 +1,4 @@
-<p>Note: <i>nmod</i>, <i>neg</i> and <i>punct</i> appear
-in two places.</p>
+<p><i>Note:</i> The universal relation <a href="/u/dep/clf.html"><code>clf</code></a> is not used in English.</p>
 
 <table class="typeindex">
   <tr>
@@ -16,11 +15,15 @@ in two places.</p>
 	  <td><a>csubj</a></td>
 	</tr>
 	<tr>
-	  <td><a>nsubjpass</a></td>
-	  <td><a>csubjpass</a></td>
+	  <td>↳<a>nsubj:pass</a></td>
+	  <td>↳<a>csubj:pass</a></td>
 	</tr>
 	<tr>
-	  <td><a>dobj</a></td>
+	  <td>↳<a>nsubj:outer</a></td>
+	  <td>↳<a>csubj:outer</a></td>
+	</tr>
+	<tr>
+	  <td><a>obj</a></td>
 	  <td><a>ccomp</a></td>
 	  <td><a>xcomp</a></td>
 	</tr>
@@ -40,23 +43,16 @@ in two places.</p>
 	  <td><i>Modifier word</i></td>
 	</tr>
 	<tr>
-	  <td>&nbsp;</td>
+	  <td><a>obl</a></td>
 	  <td><a>advcl</a></td>
 	  <td><a>advmod</a></td>
 	</tr>
 	<tr>
-	  <td><a>nmod</a></td>
-	  <td>&nbsp;</td>
-	  <td><a>neg</a></td>
+	  <td>↳<a>obl:npmod</a></td>
+	  <td>↳<a>advcl:relcl</a></td>
 	</tr>
 	<tr>
-	  <td>↳<a>nmod:npmod</a></td>
-	</tr>
-	<tr>
-	  <td>↳<a>nmod:tmod</a></td>
-	</tr>
-	<tr>
-	  <td>↳<a>nmod:poss</a></td>
+	  <td>↳<a>obl:tmod</a></td>
 	</tr>
       </table>
 
@@ -77,8 +73,7 @@ in two places.</p>
 	</tr>
 	<tr>
 	  <td><a>discourse</a></td>
-	  <td><a>auxpass</a></td>
-	  <td><a>punct</a></td>
+	  <td>↳<a>aux:pass</a></td>
 	</tr>
 	<tr>
 	  <td><a>expl</a></td>
@@ -109,16 +104,27 @@ in two places.</p>
 	</tr>	
 	<tr>
 	  <td><a>appos</a></td>
+	  <td>&nbsp;</td>
 	  <td><a>det</a></td>
 	</tr>
 	<tr>
+	  <td>&nbsp;</td>
 	  <td>&nbsp;</td>
 	  <td>↳<a>det:predet</a></td>
 	</tr>	
 	<tr>
 	  <td><a>nmod</a></td>
-	   <td>&nbsp;</td>
-	  <td><a>neg</a></td>
+	  <td>&nbsp;</td>
+	  <td>&nbsp;</td>
+	</tr>
+	<tr>
+	  <td>↳<a>nmod:npmod</a></td>
+	</tr>
+	<tr>
+	  <td>↳<a>nmod:tmod</a></td>
+	</tr>
+	<tr>
+	  <td>↳<a>nmod:poss</a></td>
 	</tr>
       </table>
 
@@ -129,15 +135,15 @@ in two places.</p>
 	<tr><td colspan="3"><strong>Compounding and unanalyzed</strong></td></tr>
 	<tr>
 	  <td><a>compound</a></td>
-	  <td><a>mwe</a></td>
-	  <td><a>goeswith</a></td>
+	  <td><a>flat</a></td>
 	</tr>
 	<tr>
 	  <td>↳<a>compound:prt</a></td>
+	  <td>↳<a>flat:foreign</a></td>
 	</tr>
 	<tr>
-	  <td><a>name</a></td>
-	  <td><a>foreign</a></td>
+	  <td><a>fixed</a></td>
+	  <td><a>goeswith</a></td>
 	</tr>
       </table>
 
@@ -149,7 +155,6 @@ in two places.</p>
 	<tr>
 	  <td><a>conj</a></td>
 	  <td><a>cc</a></td>
-	  <td><a>punct</a></td>
 	</tr>
 	<tr>
 	  <td>&nbsp;</td>
@@ -177,7 +182,7 @@ in two places.</p>
 	<tr>
 	  <td><a>list</a></td>
 	  <td><a>parataxis</a></td>
-	  <td><a>remnant</a></td>
+	  <td><a>orphan</a></td>
 	</tr>
 	<tr>
 	  <td><a>dislocated</a></td>
@@ -192,10 +197,12 @@ in two places.</p>
 	<tr><td colspan="3"><strong>Other</strong></td></tr>
 	<tr>
 	  <td><i>Sentence head</i></td>
-	  <td colspan="2"><i>Unspecified dependency</i></td>
+	  <td><i>Punctuation</i></td>
+	  <td><i>Unspecified dependency</i></td>
 	</tr>
 	<tr>
 	  <td><a>root</a></td>
+	  <td><a>punct</a></td>
 	  <td><a>dep</a></td>
 	</tr>
       </table>

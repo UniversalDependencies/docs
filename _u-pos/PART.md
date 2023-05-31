@@ -2,6 +2,7 @@
 layout: postag
 title: 'PART'
 shortdef: 'particle'
+udver: '2'
 ---
 
 ### Definition
@@ -9,7 +10,7 @@ shortdef: 'particle'
 Particles are function words that must be associated with another word
 or phrase to impart meaning and that do not satisfy definitions of
 other universal parts of speech (e.g. [adpositions](ADP),
-[coordinating conjunctions](CONJ), [subordinating conjunctions](SCONJ)
+[coordinating conjunctions](CCONJ), [subordinating conjunctions](SCONJ)
 or [auxiliary verbs](AUX)).  Particles may encode grammatical
 categories such as negation, mood, tense etc.  Particles are normally
 not inflected, although exceptions may occur.
@@ -26,15 +27,19 @@ of them do, e.g. the question particle か / _ka._ Others (e.g. に /
 _ni,_ の / _no_) are parallel to adpositions in other languages and
 should thus be tagged [ADP]().
 
+In general, the `PART` tag should be used restrictively and only when
+no other tag is possible. The language-specific documentation
+should list the words classified as `PART` in the given language.
+
 ### Examples
 
 - Possessive marker: [en] _'s_
 - Negation particle: [en] _not;_ [de] _nicht_
 - Question particle: [ja] か / _ka_ (adding this particle to the end of a clause turns the clause into a question); [tr] _mu_
 - Sentence modality: [cs] _ať, kéž, nechť_ (_Let's_ do it! _If only_ I could do it over. _May you_ have an enjoyable stay!)
-- Indeclinable aspectual or tense particles: [zh] 了 / _le_
 
 ### References
 
 - [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a particle?](http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAParticle.htm)
 - [Wikipedia](http://en.wikipedia.org/wiki/Grammatical_particle)
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:26 CEST -->

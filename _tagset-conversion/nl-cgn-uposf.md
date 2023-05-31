@@ -1,6 +1,7 @@
 ---
 layout: base
 title: 'Tagset nl::cgn conversion to universal POS tags and features'
+udver: '2'
 ---
 
 <a href="index.html">all tables</a>
@@ -66,10 +67,10 @@ Tagset <tt>nl::cgn</tt>, total 323 tags.
   <tr><td>ADJ(vrij,dim,zonder)</td><td>=&gt;</td><td>ADJ</td><td>Degree=Dim|Position=Free</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>WW(pv,tgw,ev)</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp,Ind|Number=Sing|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
   <tr><td>WW(pv,tgw,mv)</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp,Ind|Number=Plur|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>WW(pv,tgw,met-t)</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp,Ind|Polite=Pol|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>WW(pv,tgw,met-t)</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp,Ind|Polite=Form|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
   <tr><td>WW(pv,verl,ev)</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>WW(pv,verl,mv)</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr><td>WW(pv,verl,met-t)</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Polite=Pol|Tense=Past|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr><td>WW(pv,verl,met-t)</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Polite=Form|Tense=Past|VerbForm=Fin</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>WW(pv,conj,ev)</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Sing|VerbForm=Fin</td><td><em></em></td></tr>
   <tr><td>WW(inf,prenom,zonder)</td><td>=&gt;</td><td>VERB</td><td>Position=Prenom|VerbForm=Inf</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>WW(inf,prenom,met-e)</td><td>=&gt;</td><td>VERB</td><td>Position=Prenom|VerbForm=Inf</td><td><em></em></td></tr>
@@ -102,11 +103,11 @@ Tagset <tt>nl::cgn</tt>, total 323 tags.
   <tr><td>VNW(pers,pron,nomin,vol,1,mv)</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Plur|Person=1|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>VNW(pers,pron,nomin,nadr,1,mv)</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Plur|Person=1|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>VNW(pers,pron,nomin,red,1,mv)</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Plur|Person=1|PronType=Prs|Variant=Short</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>VNW(pers,pron,nomin,vol,2v,ev)</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Sing|Person=2|Polite=Inf|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
-  <tr><td>VNW(pers,pron,nomin,nadr,2v,ev)</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Sing|Person=2|Polite=Inf|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>VNW(pers,pron,nomin,red,2v,ev)</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Sing|Person=2|Polite=Inf|PronType=Prs|Variant=Short</td><td><em></em></td></tr>
-  <tr><td>VNW(pers,pron,nomin,vol,2b,getal)</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Person=2|Polite=Pol|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>VNW(pers,pron,nomin,nadr,2b,getal)</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Person=2|Polite=Pol|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>VNW(pers,pron,nomin,vol,2v,ev)</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Sing|Person=2|Polite=Infm|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
+  <tr><td>VNW(pers,pron,nomin,nadr,2v,ev)</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Sing|Person=2|Polite=Infm|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>VNW(pers,pron,nomin,red,2v,ev)</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Sing|Person=2|Polite=Infm|PronType=Prs|Variant=Short</td><td><em></em></td></tr>
+  <tr><td>VNW(pers,pron,nomin,vol,2b,getal)</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Person=2|Polite=Form|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>VNW(pers,pron,nomin,nadr,2b,getal)</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Person=2|Polite=Form|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>VNW(pers,pron,nomin,vol,2,getal)</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Person=2|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>VNW(pers,pron,nomin,nadr,2,getal)</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Person=2|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>VNW(pers,pron,nomin,red,2,getal)</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Person=2|PronType=Prs|Variant=Short</td><td><em></em></td></tr>
@@ -118,7 +119,7 @@ Tagset <tt>nl::cgn</tt>, total 323 tags.
   <tr><td>VNW(pers,pron,nomin,nadr,3v,ev,fem)</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>VNW(pers,pron,nomin,vol,3p,mv)</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Nom|Number=Plur|Person=3|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
   <tr><td>VNW(pers,pron,nomin,nadr,3p,mv)</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Nom|Number=Plur|Person=3|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>VNW(pers,pron,obl,vol,2v,ev)</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Sing|Person=2|Polite=Inf|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>VNW(pers,pron,obl,vol,2v,ev)</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Sing|Person=2|Polite=Infm|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
   <tr><td>VNW(pers,pron,obl,vol,3,ev,masc)</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>VNW(pers,pron,obl,nadr,3m,ev,masc)</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>VNW(pers,pron,obl,red,3,ev,masc)</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Variant=Short</td><td><em></em></td></tr>
@@ -127,7 +128,7 @@ Tagset <tt>nl::cgn</tt>, total 323 tags.
   <tr style="background:lightgray"><td>VNW(pers,pron,obl,red,3v,getal,fem)</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Acc|Gender=Fem|Person=3|PronType=Prs|Variant=Short</td><td><em></em></td></tr>
   <tr><td>VNW(pers,pron,obl,vol,3p,mv)</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Acc|Number=Plur|Person=3|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>VNW(pers,pron,obl,nadr,3p,mv)</td><td>=&gt;</td><td>PRON</td><td>Animacy=Anim|Case=Acc|Number=Plur|Person=3|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>VNW(pers,pron,stan,nadr,2v,mv)</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Nom|Number=Plur|Person=2|Polite=Inf|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>VNW(pers,pron,stan,nadr,2v,mv)</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Nom|Number=Plur|Person=2|Polite=Infm|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>VNW(pers,pron,stan,red,3,ev,onz)</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs|Variant=Short</td><td><em></em></td></tr>
   <tr><td>VNW(pers,pron,stan,red,3,ev,fem)</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Variant=Short</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>VNW(pers,pron,stan,red,3,mv)</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Nom|Number=Plur|Person=3|PronType=Prs|Variant=Short</td><td><em></em></td></tr>
@@ -142,8 +143,8 @@ Tagset <tt>nl::cgn</tt>, total 323 tags.
   <tr><td>VNW(pr,pron,obl,red,1,ev)</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Sing|Person=1|PronType=Prs|Reflex=Yes|Variant=Short</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>VNW(pr,pron,obl,vol,1,mv)</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Plur|Person=1|PronType=Prs|Reflex=Yes|Variant=Long</td><td><em></em></td></tr>
   <tr><td>VNW(pr,pron,obl,nadr,1,mv)</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Plur|Person=1|PronType=Prs|Reflex=Yes</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>VNW(pr,pron,obl,red,2v,getal)</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Person=2|Polite=Inf|PronType=Prs|Reflex=Yes|Variant=Short</td><td><em></em></td></tr>
-  <tr><td>VNW(pr,pron,obl,nadr,2v,getal)</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Person=2|Polite=Inf|PronType=Prs|Reflex=Yes</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>VNW(pr,pron,obl,red,2v,getal)</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Person=2|Polite=Infm|PronType=Prs|Reflex=Yes|Variant=Short</td><td><em></em></td></tr>
+  <tr><td>VNW(pr,pron,obl,nadr,2v,getal)</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Person=2|Polite=Infm|PronType=Prs|Reflex=Yes</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>VNW(pr,pron,obl,vol,2,getal)</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Person=2|PronType=Prs|Reflex=Yes|Variant=Long</td><td><em></em></td></tr>
   <tr><td>VNW(pr,pron,obl,nadr,2,getal)</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Person=2|PronType=Prs|Reflex=Yes</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>VNW(refl,pron,obl,red,3,getal)</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Variant=Short</td><td><em></em></td></tr>
@@ -157,9 +158,9 @@ Tagset <tt>nl::cgn</tt>, total 323 tags.
   <tr style="background:lightgray"><td>VNW(bez,det,stan,vol,1,mv,prenom,met-e,rest)</td><td>=&gt;</td><td>DET</td><td>Case=Acc,Nom|Gender=Com|Number=Plur|Number[psor]=Plur|Person=1|Position=Prenom|Poss=Yes|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
   <tr><td>VNW(bez,det,stan,vol,2,getal,prenom,zonder,agr)</td><td>=&gt;</td><td>DET</td><td>Case=Acc,Nom|Person=2|Position=Prenom|Poss=Yes|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>VNW(bez,det,stan,vol,2,getal,prenom,met-e,rest)</td><td>=&gt;</td><td>DET</td><td>Case=Acc,Nom|Gender=Com|Number=Plur|Person=2|Position=Prenom|Poss=Yes|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
-  <tr><td>VNW(bez,det,stan,vol,2v,ev,prenom,zonder,agr)</td><td>=&gt;</td><td>DET</td><td>Case=Acc,Nom|Number[psor]=Sing|Person=2|Polite=Inf|Position=Prenom|Poss=Yes|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>VNW(bez,det,stan,red,2v,ev,prenom,zonder,agr)</td><td>=&gt;</td><td>DET</td><td>Case=Acc,Nom|Number[psor]=Sing|Person=2|Polite=Inf|Position=Prenom|Poss=Yes|PronType=Prs|Variant=Short</td><td><em></em></td></tr>
-  <tr><td>VNW(bez,det,stan,nadr,2v,mv,prenom,zonder,agr)</td><td>=&gt;</td><td>DET</td><td>Case=Acc,Nom|Number[psor]=Plur|Person=2|Polite=Inf|Position=Prenom|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>VNW(bez,det,stan,vol,2v,ev,prenom,zonder,agr)</td><td>=&gt;</td><td>DET</td><td>Case=Acc,Nom|Number[psor]=Sing|Person=2|Polite=Infm|Position=Prenom|Poss=Yes|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>VNW(bez,det,stan,red,2v,ev,prenom,zonder,agr)</td><td>=&gt;</td><td>DET</td><td>Case=Acc,Nom|Number[psor]=Sing|Person=2|Polite=Infm|Position=Prenom|Poss=Yes|PronType=Prs|Variant=Short</td><td><em></em></td></tr>
+  <tr><td>VNW(bez,det,stan,nadr,2v,mv,prenom,zonder,agr)</td><td>=&gt;</td><td>DET</td><td>Case=Acc,Nom|Number[psor]=Plur|Person=2|Polite=Infm|Position=Prenom|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)</td><td>=&gt;</td><td>DET</td><td>Case=Acc,Nom|Number[psor]=Sing|Person=3|Position=Prenom|Poss=Yes|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
   <tr><td>VNW(bez,det,stan,vol,3m,ev,prenom,met-e,rest)</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Acc,Nom|Gender=Com|Number=Plur|Number[psor]=Sing|Person=3|Position=Prenom|Poss=Yes|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>VNW(bez,det,stan,vol,3v,ev,prenom,met-e,rest)</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Acc,Nom|Gender=Com|Number=Plur|Number[psor]=Sing|Person=3|Position=Prenom|Poss=Yes|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
@@ -173,7 +174,7 @@ Tagset <tt>nl::cgn</tt>, total 323 tags.
   <tr style="background:lightgray"><td>VNW(bez,det,gen,vol,1,mv,prenom,met-e,rest3)</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|Number=Plur|Number[psor]=Plur|Person=1|Position=Prenom|Poss=Yes|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
   <tr><td>VNW(bez,det,gen,vol,2,getal,prenom,zonder,evmo)</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc|Number=Sing|Person=2|Position=Prenom|Poss=Yes|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>VNW(bez,det,gen,vol,2,getal,prenom,met-e,rest3)</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|Number=Plur|Person=2|Position=Prenom|Poss=Yes|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
-  <tr><td>VNW(bez,det,gen,vol,2v,ev,prenom,met-e,rest3)</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|Number=Plur|Number[psor]=Sing|Person=2|Polite=Inf|Position=Prenom|Poss=Yes|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
+  <tr><td>VNW(bez,det,gen,vol,2v,ev,prenom,met-e,rest3)</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|Number=Plur|Number[psor]=Sing|Person=2|Polite=Infm|Position=Prenom|Poss=Yes|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>VNW(bez,det,gen,vol,3,ev,prenom,zonder,evmo)</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|Position=Prenom|Poss=Yes|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
   <tr><td>VNW(bez,det,gen,vol,3,ev,prenom,met-e,rest3)</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|Number=Plur|Number[psor]=Sing|Person=3|Position=Prenom|Poss=Yes|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>VNW(bez,det,gen,vol,3v,ev,prenom,zonder,evmo)</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|Position=Prenom|Poss=Yes|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
@@ -186,7 +187,7 @@ Tagset <tt>nl::cgn</tt>, total 323 tags.
   <tr><td>VNW(bez,det,dat,vol,1,mv,prenom,met-e,evf)</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Position=Prenom|Poss=Yes|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>VNW(bez,det,dat,vol,2,getal,prenom,met-e,evmo)</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Masc|Number=Sing|Person=2|Position=Prenom|Poss=Yes|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
   <tr><td>VNW(bez,det,dat,vol,2,getal,prenom,met-e,evf)</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Fem|Number=Sing|Person=2|Position=Prenom|Poss=Yes|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>VNW(bez,det,dat,vol,2v,ev,prenom,met-e,evf)</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=2|Polite=Inf|Position=Prenom|Poss=Yes|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>VNW(bez,det,dat,vol,2v,ev,prenom,met-e,evf)</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=2|Polite=Infm|Position=Prenom|Poss=Yes|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
   <tr><td>VNW(bez,det,dat,vol,3,ev,prenom,met-e,evmo)</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|Position=Prenom|Poss=Yes|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>VNW(bez,det,dat,vol,3,ev,prenom,met-e,evf)</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Position=Prenom|Poss=Yes|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
   <tr><td>VNW(bez,det,dat,vol,3v,ev,prenom,met-e,evmo)</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|Position=Prenom|Poss=Yes|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
@@ -196,14 +197,14 @@ Tagset <tt>nl::cgn</tt>, total 323 tags.
   <tr><td>VNW(bez,det,stan,vol,1,ev,nom,met-e,zonder-n)</td><td>=&gt;</td><td>DET</td><td>Case=Acc,Nom|Number[psor]=Sing|Person=1|Position=Nom|Poss=Yes|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>VNW(bez,det,stan,vol,1,mv,nom,met-e,zonder-n)</td><td>=&gt;</td><td>DET</td><td>Case=Acc,Nom|Number[psor]=Plur|Person=1|Position=Nom|Poss=Yes|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
   <tr><td>VNW(bez,det,stan,vol,2,getal,nom,met-e,zonder-n)</td><td>=&gt;</td><td>DET</td><td>Case=Acc,Nom|Person=2|Position=Nom|Poss=Yes|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>VNW(bez,det,stan,vol,2v,ev,nom,met-e,zonder-n)</td><td>=&gt;</td><td>DET</td><td>Case=Acc,Nom|Number[psor]=Sing|Person=2|Polite=Inf|Position=Nom|Poss=Yes|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>VNW(bez,det,stan,vol,2v,ev,nom,met-e,zonder-n)</td><td>=&gt;</td><td>DET</td><td>Case=Acc,Nom|Number[psor]=Sing|Person=2|Polite=Infm|Position=Nom|Poss=Yes|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
   <tr><td>VNW(bez,det,stan,vol,3m,ev,nom,met-e,zonder-n)</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Acc,Nom|Number[psor]=Sing|Person=3|Position=Nom|Poss=Yes|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>VNW(bez,det,stan,vol,3v,ev,nom,met-e,zonder-n)</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Acc,Nom|Number[psor]=Sing|Person=3|Position=Nom|Poss=Yes|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
   <tr><td>VNW(bez,det,stan,vol,3p,mv,nom,met-e,zonder-n)</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Acc,Nom|Number[psor]=Plur|Person=3|Position=Nom|Poss=Yes|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>VNW(bez,det,stan,vol,1,ev,nom,met-e,mv-n)</td><td>=&gt;</td><td>DET</td><td>Case=Acc,Nom|Number=Plur|Number[psor]=Sing|Person=1|Position=Nom|Poss=Yes|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
   <tr><td>VNW(bez,det,stan,vol,1,mv,nom,met-e,mv-n)</td><td>=&gt;</td><td>DET</td><td>Case=Acc,Nom|Number=Plur|Number[psor]=Plur|Person=1|Position=Nom|Poss=Yes|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>VNW(bez,det,stan,vol,2,getal,nom,met-e,mv-n)</td><td>=&gt;</td><td>DET</td><td>Case=Acc,Nom|Number=Plur|Person=2|Position=Nom|Poss=Yes|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
-  <tr><td>VNW(bez,det,stan,vol,2v,ev,nom,met-e,mv-n)</td><td>=&gt;</td><td>DET</td><td>Case=Acc,Nom|Number=Plur|Number[psor]=Sing|Person=2|Polite=Inf|Position=Nom|Poss=Yes|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
+  <tr><td>VNW(bez,det,stan,vol,2v,ev,nom,met-e,mv-n)</td><td>=&gt;</td><td>DET</td><td>Case=Acc,Nom|Number=Plur|Number[psor]=Sing|Person=2|Polite=Infm|Position=Nom|Poss=Yes|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>VNW(bez,det,stan,vol,3m,ev,nom,met-e,mv-n)</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Acc,Nom|Number=Plur|Number[psor]=Sing|Person=3|Position=Nom|Poss=Yes|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
   <tr><td>VNW(bez,det,stan,vol,3v,ev,nom,met-e,mv-n)</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Acc,Nom|Number=Plur|Number[psor]=Sing|Person=3|Position=Nom|Poss=Yes|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>VNW(bez,det,stan,vol,3p,mv,nom,met-e,mv-n)</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Acc,Nom|Number=Plur|Number[psor]=Plur|Person=3|Position=Nom|Poss=Yes|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
@@ -296,7 +297,7 @@ Tagset <tt>nl::cgn</tt>, total 323 tags.
   <tr><td>VZ(init)</td><td>=&gt;</td><td>ADP</td><td>AdpType=Prep</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>VZ(fin)</td><td>=&gt;</td><td>ADP</td><td>AdpType=Post</td><td><em></em></td></tr>
   <tr><td>VZ(versm)</td><td>=&gt;</td><td>ADP</td><td>AdpType=Comprep</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>VG(neven)</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>VG(neven)</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em></em></td></tr>
   <tr><td>VG(onder)</td><td>=&gt;</td><td>SCONJ</td><td>_</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>BW()</td><td>=&gt;</td><td>ADV</td><td>_</td><td><em></em></td></tr>
   <tr><td>TSW()</td><td>=&gt;</td><td>INTJ</td><td>_</td><td><em></em></td></tr>
@@ -322,9 +323,9 @@ Tagset <tt>nl::cgn</tt>, total 323 tags.
   <tr><td>VNW(bez,det,stan,red,1,ev,prenom,met-e,agr)</td><td>=&gt;</td><td>DET</td><td>Case=Acc,Nom|Number[psor]=Sing|Person=1|Position=Prenom|Poss=Yes|PronType=Prs|Variant=Short</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>VNW(bez,det,stan,vol,1,mv,prenom,met-e,evon)</td><td>=&gt;</td><td>DET</td><td>Case=Acc,Nom|Gender=Neut|Number=Sing|Number[psor]=Plur|Person=1|Position=Prenom|Poss=Yes|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
   <tr><td>VNW(bez,det,stan,vol,2,getal,prenom,met-e,agr)</td><td>=&gt;</td><td>DET</td><td>Case=Acc,Nom|Person=2|Position=Prenom|Poss=Yes|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>VNW(bez,det,stan,vol,2v,ev,prenom,met-e,agr)</td><td>=&gt;</td><td>DET</td><td>Case=Acc,Nom|Number[psor]=Sing|Person=2|Polite=Inf|Position=Prenom|Poss=Yes|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
-  <tr><td>VNW(bez,det,stan,red,2v,ev,prenom,met-e,agr)</td><td>=&gt;</td><td>DET</td><td>Case=Acc,Nom|Number[psor]=Sing|Person=2|Polite=Inf|Position=Prenom|Poss=Yes|PronType=Prs|Variant=Short</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>VNW(bez,det,stan,nadr,2v,mv,prenom,met-e,agr)</td><td>=&gt;</td><td>DET</td><td>Case=Acc,Nom|Number[psor]=Plur|Person=2|Polite=Inf|Position=Prenom|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>VNW(bez,det,stan,vol,2v,ev,prenom,met-e,agr)</td><td>=&gt;</td><td>DET</td><td>Case=Acc,Nom|Number[psor]=Sing|Person=2|Polite=Infm|Position=Prenom|Poss=Yes|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
+  <tr><td>VNW(bez,det,stan,red,2v,ev,prenom,met-e,agr)</td><td>=&gt;</td><td>DET</td><td>Case=Acc,Nom|Number[psor]=Sing|Person=2|Polite=Infm|Position=Prenom|Poss=Yes|PronType=Prs|Variant=Short</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>VNW(bez,det,stan,nadr,2v,mv,prenom,met-e,agr)</td><td>=&gt;</td><td>DET</td><td>Case=Acc,Nom|Number[psor]=Plur|Person=2|Polite=Infm|Position=Prenom|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>VNW(bez,det,stan,vol,3,ev,prenom,met-e,agr)</td><td>=&gt;</td><td>DET</td><td>Case=Acc,Nom|Number[psor]=Sing|Person=3|Position=Prenom|Poss=Yes|PronType=Prs|Variant=Long</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>VNW(bez,det,stan,red,3,ev,prenom,met-e,agr)</td><td>=&gt;</td><td>DET</td><td>Case=Acc,Nom|Number[psor]=Sing|Person=3|Position=Prenom|Poss=Yes|PronType=Prs|Variant=Short</td><td><em></em></td></tr>
   <tr><td>VNW(bez,det,stan,vol,3,mv,prenom,met-e,agr)</td><td>=&gt;</td><td>DET</td><td>Case=Acc,Nom|Number[psor]=Plur|Person=3|Position=Prenom|Poss=Yes|PronType=Prs|Variant=Long</td><td><em></em></td></tr>

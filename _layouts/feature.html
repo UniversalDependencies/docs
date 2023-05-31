@@ -1,19 +1,11 @@
 ---
 layout: base
 ---
+<style>h3 {display:block;background-color:#dfeffc}</style>
 
 <h2><code>{{ page.title }}</code>: {{ page.shortdef }}</h2>
 
 {{ content }}
-
-<!-- "automatic stats" -->
-{% capture langdir %}{{ page.path | split:"/" | first | split:"-" | first | replace_first:'_',''}}{% endcapture %}
-{% capture statspath %}stats/{{langdir}}/feat/{{page.title}}.md{% endcapture %}
-{% capture statsexist %}{% file_exists _includes/{{statspath}} %}{% endcapture %}
-{% if statsexist  == "true" %}
-{% capture statsinclude %}{% include {{statspath}} %}{% endcapture %}
-{{ statsinclude | markdownify }}
-{% endif %}
 
 <!-- "in other languages" links -->
 <hr/>

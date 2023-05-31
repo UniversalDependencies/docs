@@ -1,6 +1,7 @@
 ---
 layout: base
 title: 'Tagset fi::turku conversion to universal POS tags and features'
+udver: '2'
 ---
 
 <a href="index.html">all tables</a>
@@ -93,7 +94,7 @@ Tagset <tt>fi::turku</tt>, total 6811 tags.
   <tr style="background:lightgray"><td>ADV|kAAn</td><td>=&gt;</td><td>ADV</td><td>_</td><td><em>myöskään, juurikaan, todellakaan, edelleenkään, niinkään</em></td></tr>
   <tr><td>ADV|kin</td><td>=&gt;</td><td>ADV</td><td>_</td><td><em>ainakin, muutenkin, myöskin, vastakin, aiemminkin</em></td></tr>
   <tr style="background:lightgray"><td>ADV|pA</td><td>=&gt;</td><td>ADV</td><td>_</td><td><em>vieläpä</em></td></tr>
-  <tr><td>ART|FORGN</td><td>=&gt;</td><td>DET</td><td>Foreign=Foreign|PronType=Art</td><td><em>the</em></td></tr>
+  <tr><td>ART|FORGN</td><td>=&gt;</td><td>DET</td><td>Foreign=Yes|PronType=Art</td><td><em>the</em></td></tr>
   <tr style="background:lightgray"><td>A|CMP|ABE|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=Abe|Degree=Cmp|Number=Plur</td><td><em></em></td></tr>
   <tr><td>A|CMP|ABE|PL|3</td><td>=&gt;</td><td>ADJ</td><td>Case=Abe|Degree=Cmp|Number=Plur|Person[psor]=3|Poss=Yes</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A|CMP|ABE|PL|ACT|PCP1</td><td>=&gt;</td><td>ADJ</td><td>Case=Abe|Degree=Cmp|Number=Plur|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
@@ -318,7 +319,7 @@ Tagset <tt>fi::turku</tt>, total 6811 tags.
   <tr><td>A|COP|POS|PTV|SG|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Par|Degree=Pos|Number=Sing|VerbForm=Part|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A|COP|POS|TRA|PL|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Tra|Degree=Pos|Number=Plur|VerbForm=Part|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
   <tr><td>A|COP|POS|TRA|SG|ACT|PCP2</td><td>=&gt;</td><td>ADJ</td><td>Case=Tra|Degree=Pos|Number=Sing|VerbForm=Part|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>A|FORGN</td><td>=&gt;</td><td>ADJ</td><td>Foreign=Foreign</td><td><em>dubia, frigidus, common</em></td></tr>
+  <tr style="background:lightgray"><td>A|FORGN</td><td>=&gt;</td><td>ADJ</td><td>Foreign=Yes</td><td><em>dubia, frigidus, common</em></td></tr>
   <tr><td>A|INTERR|POS|ABE|PL</td><td>=&gt;</td><td>DET</td><td>Case=Abe|Degree=Pos|Number=Plur|PronType=Int</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A|INTERR|POS|ABE|SG</td><td>=&gt;</td><td>DET</td><td>Case=Abe|Degree=Pos|Number=Sing|PronType=Int</td><td><em></em></td></tr>
   <tr><td>A|INTERR|POS|ABL|PL</td><td>=&gt;</td><td>DET</td><td>Case=Abl|Degree=Pos|Number=Plur|PronType=Int</td><td><em></em></td></tr>
@@ -1497,7 +1498,7 @@ Tagset <tt>fi::turku</tt>, total 6811 tags.
   <tr style="background:lightgray"><td>A|digit|POS|PTV|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=Par|Degree=Pos|Number=Sing|NumForm=Digit</td><td><em>16-vuotiasta, 44-vuotiasta, 1.2-litraista</em></td></tr>
   <tr><td>A|digit|POS|TRA|PL</td><td>=&gt;</td><td>ADJ</td><td>Case=Tra|Degree=Pos|Number=Plur|NumForm=Digit</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>A|digit|POS|TRA|SG</td><td>=&gt;</td><td>ADJ</td><td>Case=Tra|Degree=Pos|Number=Sing|NumForm=Digit</td><td><em></em></td></tr>
-  <tr><td>C</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em>saatikka</em></td></tr>
+  <tr><td>C</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em>saatikka</em></td></tr>
   <tr style="background:lightgray"><td>COP|POS|ELA|PL|ACT|PCP1</td><td>=&gt;</td><td>X</td><td>Case=Ela|Degree=Pos|Number=Plur|VerbForm=Part|VerbType=Cop|Voice=Act</td><td><em>olevista</em></td></tr>
   <tr><td>COP|POS|ELA|SG|ACT|PCP1</td><td>=&gt;</td><td>X</td><td>Case=Ela|Degree=Pos|Number=Sing|VerbForm=Part|VerbType=Cop|Voice=Act</td><td><em>olevasta</em></td></tr>
   <tr style="background:lightgray"><td>COP|POS|GEN|SG|ACT|PCP1</td><td>=&gt;</td><td>X</td><td>Case=Gen|Degree=Pos|Number=Sing|VerbForm=Part|VerbType=Cop|Voice=Act</td><td><em>olevan</em></td></tr>
@@ -1511,26 +1512,26 @@ Tagset <tt>fi::turku</tt>, total 6811 tags.
   <tr style="background:lightgray"><td>COP|POS|PTV|SG|ACT|PCP1</td><td>=&gt;</td><td>X</td><td>Case=Par|Degree=Pos|Number=Sing|VerbForm=Part|VerbType=Cop|Voice=Act</td><td><em>olevaa</em></td></tr>
   <tr><td>COP|POS|PTV|SG|ACT|PCP2</td><td>=&gt;</td><td>X</td><td>Case=Par|Degree=Pos|Number=Sing|VerbForm=Part|VerbType=Cop|Voice=Act</td><td><em>ollutta</em></td></tr>
   <tr style="background:lightgray"><td>COP|POS|TRA|PL|ACT|PCP1</td><td>=&gt;</td><td>X</td><td>Case=Tra|Degree=Pos|Number=Plur|VerbForm=Part|VerbType=Cop|Voice=Act</td><td><em>oleviksi</em></td></tr>
-  <tr><td>C|CMPR</td><td>=&gt;</td><td>CONJ</td><td>ConjType=Comp</td><td><em>kuin</em></td></tr>
-  <tr style="background:lightgray"><td>C|COORD</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em>ja, että, tai, mutta, sekä</em></td></tr>
-  <tr><td>C|COORD|PL3|NEGV</td><td>=&gt;</td><td>CONJ</td><td>Negative=Neg|Number=Plur|Person=3</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C|COORD|PL3|NEGV|kA</td><td>=&gt;</td><td>CONJ</td><td>Negative=Neg|Number=Plur|Person=3</td><td><em>eivätkä</em></td></tr>
-  <tr><td>C|COORD|SG1|NEGV</td><td>=&gt;</td><td>CONJ</td><td>Negative=Neg|Number=Sing|Person=1</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>C|COORD|SG1|NEGV|kA</td><td>=&gt;</td><td>CONJ</td><td>Negative=Neg|Number=Sing|Person=1</td><td><em>enkä</em></td></tr>
-  <tr><td>C|COORD|SG3|NEGV</td><td>=&gt;</td><td>CONJ</td><td>Negative=Neg|Number=Sing|Person=3</td><td><em>muttei</em></td></tr>
-  <tr style="background:lightgray"><td>C|COORD|SG3|NEGV|kA</td><td>=&gt;</td><td>CONJ</td><td>Negative=Neg|Number=Sing|Person=3</td><td><em>eikä</em></td></tr>
-  <tr><td>C|COORD|st-arch</td><td>=&gt;</td><td>CONJ</td><td>Style=Arch</td><td><em>tahi</em></td></tr>
-  <tr style="background:lightgray"><td>C|FORGN</td><td>=&gt;</td><td>CONJ</td><td>Foreign=Foreign</td><td><em>and</em></td></tr>
+  <tr><td>C|CMPR</td><td>=&gt;</td><td>CCONJ</td><td>ConjType=Comp</td><td><em>kuin</em></td></tr>
+  <tr style="background:lightgray"><td>C|COORD</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em>ja, että, tai, mutta, sekä</em></td></tr>
+  <tr><td>C|COORD|PL3|NEGV</td><td>=&gt;</td><td>CCONJ</td><td>Number=Plur|Person=3|Polarity=Neg</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C|COORD|PL3|NEGV|kA</td><td>=&gt;</td><td>CCONJ</td><td>Number=Plur|Person=3|Polarity=Neg</td><td><em>eivätkä</em></td></tr>
+  <tr><td>C|COORD|SG1|NEGV</td><td>=&gt;</td><td>CCONJ</td><td>Number=Sing|Person=1|Polarity=Neg</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>C|COORD|SG1|NEGV|kA</td><td>=&gt;</td><td>CCONJ</td><td>Number=Sing|Person=1|Polarity=Neg</td><td><em>enkä</em></td></tr>
+  <tr><td>C|COORD|SG3|NEGV</td><td>=&gt;</td><td>CCONJ</td><td>Number=Sing|Person=3|Polarity=Neg</td><td><em>muttei</em></td></tr>
+  <tr style="background:lightgray"><td>C|COORD|SG3|NEGV|kA</td><td>=&gt;</td><td>CCONJ</td><td>Number=Sing|Person=3|Polarity=Neg</td><td><em>eikä</em></td></tr>
+  <tr><td>C|COORD|st-arch</td><td>=&gt;</td><td>CCONJ</td><td>Style=Arch</td><td><em>tahi</em></td></tr>
+  <tr style="background:lightgray"><td>C|FORGN</td><td>=&gt;</td><td>CCONJ</td><td>Foreign=Yes</td><td><em>and</em></td></tr>
   <tr><td>C|SUB</td><td>=&gt;</td><td>SCONJ</td><td>_</td><td><em>kun, sillä, jos, koska, vaikka</em></td></tr>
-  <tr style="background:lightgray"><td>C|SUB|PL1|NEGV</td><td>=&gt;</td><td>SCONJ</td><td>Negative=Neg|Number=Plur|Person=1</td><td><em>ettemme</em></td></tr>
-  <tr><td>C|SUB|PL3|NEGV</td><td>=&gt;</td><td>SCONJ</td><td>Negative=Neg|Number=Plur|Person=3</td><td><em>etteivät, elleivät</em></td></tr>
-  <tr style="background:lightgray"><td>C|SUB|SG1|NEGV</td><td>=&gt;</td><td>SCONJ</td><td>Negative=Neg|Number=Sing|Person=1</td><td><em>etten</em></td></tr>
-  <tr><td>C|SUB|SG1|NEGV|kO</td><td>=&gt;</td><td>SCONJ</td><td>Negative=Neg|Number=Sing|Person=1</td><td><em>ettenkö</em></td></tr>
-  <tr style="background:lightgray"><td>C|SUB|SG3|NEGV</td><td>=&gt;</td><td>SCONJ</td><td>Negative=Neg|Number=Sing|Person=3</td><td><em>ettei, vaikkei, ellei, jollei</em></td></tr>
-  <tr><td>C|SUB|SG3|NEGV|kO</td><td>=&gt;</td><td>SCONJ</td><td>Negative=Neg|Number=Sing|Person=3</td><td><em>etteikö</em></td></tr>
+  <tr style="background:lightgray"><td>C|SUB|PL1|NEGV</td><td>=&gt;</td><td>SCONJ</td><td>Number=Plur|Person=1|Polarity=Neg</td><td><em>ettemme</em></td></tr>
+  <tr><td>C|SUB|PL3|NEGV</td><td>=&gt;</td><td>SCONJ</td><td>Number=Plur|Person=3|Polarity=Neg</td><td><em>etteivät, elleivät</em></td></tr>
+  <tr style="background:lightgray"><td>C|SUB|SG1|NEGV</td><td>=&gt;</td><td>SCONJ</td><td>Number=Sing|Person=1|Polarity=Neg</td><td><em>etten</em></td></tr>
+  <tr><td>C|SUB|SG1|NEGV|kO</td><td>=&gt;</td><td>SCONJ</td><td>Number=Sing|Person=1|Polarity=Neg</td><td><em>ettenkö</em></td></tr>
+  <tr style="background:lightgray"><td>C|SUB|SG3|NEGV</td><td>=&gt;</td><td>SCONJ</td><td>Number=Sing|Person=3|Polarity=Neg</td><td><em>ettei, vaikkei, ellei, jollei</em></td></tr>
+  <tr><td>C|SUB|SG3|NEGV|kO</td><td>=&gt;</td><td>SCONJ</td><td>Number=Sing|Person=3|Polarity=Neg</td><td><em>etteikö</em></td></tr>
   <tr style="background:lightgray"><td>C|SUB|kin</td><td>=&gt;</td><td>SCONJ</td><td>_</td><td><em>vaikkakin</em></td></tr>
   <tr><td>C|SUB|pA</td><td>=&gt;</td><td>SCONJ</td><td>_</td><td><em>vaikkapa</em></td></tr>
-  <tr style="background:lightgray"><td>FORGN</td><td>=&gt;</td><td>X</td><td>Foreign=Foreign</td><td><em>death, mater</em></td></tr>
+  <tr style="background:lightgray"><td>FORGN</td><td>=&gt;</td><td>X</td><td>Foreign=Yes</td><td><em>death, mater</em></td></tr>
   <tr><td>INTJ</td><td>=&gt;</td><td>INTJ</td><td>_</td><td><em>hip, hop, no, nam</em></td></tr>
   <tr style="background:lightgray"><td>INTJ|st-cllq</td><td>=&gt;</td><td>INTJ</td><td>Style=Coll</td><td><em></em></td></tr>
   <tr><td>NON-TWOL</td><td>=&gt;</td><td>X</td><td>_</td><td><em>*, ”, −, /, s.</em></td></tr>
@@ -3304,64 +3305,64 @@ Tagset <tt>fi::turku</tt>, total 6811 tags.
   <tr><td>N|ESS|SG|st-slang</td><td>=&gt;</td><td>NOUN</td><td>Case=Ess|Number=Sing|Style=Slng</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>N|ESS|SG|st-slang|DV-JA</td><td>=&gt;</td><td>NOUN</td><td>Case=Ess|Number=Sing|Style=Slng</td><td><em></em></td></tr>
   <tr><td>N|ESS|SG|st-vrnc</td><td>=&gt;</td><td>NOUN</td><td>Case=Ess|Number=Sing|Style=Vrnc</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN</td><td>=&gt;</td><td>NOUN</td><td>Foreign=Foreign</td><td><em>case</em></td></tr>
-  <tr><td>N|FORGN|ABE|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Abe|Foreign=Foreign|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN|ABE|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Abe|Foreign=Foreign|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>N|FORGN|ABL|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Abl|Foreign=Foreign|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN|ABL|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Abl|Foreign=Foreign|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>N|FORGN|ADE|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Ade|Foreign=Foreign|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN|ADE|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Ade|Foreign=Foreign|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>N|FORGN|ALL|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=All|Foreign=Foreign|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN|ALL|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=All|Foreign=Foreign|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>N|FORGN|CMT|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Com|Foreign=Foreign|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN|CMT|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Com|Foreign=Foreign|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>N|FORGN|ELA|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Ela|Foreign=Foreign|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN|ELA|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Ela|Foreign=Foreign|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>N|FORGN|ESS|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Ess|Foreign=Foreign|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN|ESS|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Ess|Foreign=Foreign|Number=Sing</td><td><em>livenä</em></td></tr>
-  <tr><td>N|FORGN|GEN|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Foreign=Foreign|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN|GEN|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Foreign=Foreign|Number=Sing</td><td><em>clubin</em></td></tr>
-  <tr><td>N|FORGN|ILL|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Ill|Foreign=Foreign|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN|ILL|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Ill|Foreign=Foreign|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>N|FORGN|INE|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|Foreign=Foreign|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN|INE|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|Foreign=Foreign|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>N|FORGN|INS|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|Foreign=Foreign|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN|INS|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|Foreign=Foreign|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>N|FORGN|NOM|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Foreign=Foreign|Number=Plur</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN|NOM|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Foreign=Foreign|Number=Sing</td><td><em>heavy, roll</em></td></tr>
-  <tr><td>N|FORGN|PROP</td><td>=&gt;</td><td>PROPN</td><td>Foreign=Foreign</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN|PROP|ABE|PL</td><td>=&gt;</td><td>PROPN</td><td>Case=Abe|Foreign=Foreign|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>N|FORGN|PROP|ABE|SG</td><td>=&gt;</td><td>PROPN</td><td>Case=Abe|Foreign=Foreign|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN|PROP|ABL|PL</td><td>=&gt;</td><td>PROPN</td><td>Case=Abl|Foreign=Foreign|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>N|FORGN|PROP|ABL|SG</td><td>=&gt;</td><td>PROPN</td><td>Case=Abl|Foreign=Foreign|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN|PROP|ADE|PL</td><td>=&gt;</td><td>PROPN</td><td>Case=Ade|Foreign=Foreign|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>N|FORGN|PROP|ADE|SG</td><td>=&gt;</td><td>PROPN</td><td>Case=Ade|Foreign=Foreign|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN|PROP|ALL|PL</td><td>=&gt;</td><td>PROPN</td><td>Case=All|Foreign=Foreign|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>N|FORGN|PROP|ALL|SG</td><td>=&gt;</td><td>PROPN</td><td>Case=All|Foreign=Foreign|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN|PROP|CMT|PL</td><td>=&gt;</td><td>PROPN</td><td>Case=Com|Foreign=Foreign|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>N|FORGN|PROP|CMT|SG</td><td>=&gt;</td><td>PROPN</td><td>Case=Com|Foreign=Foreign|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN|PROP|ELA|PL</td><td>=&gt;</td><td>PROPN</td><td>Case=Ela|Foreign=Foreign|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>N|FORGN|PROP|ELA|SG</td><td>=&gt;</td><td>PROPN</td><td>Case=Ela|Foreign=Foreign|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN|PROP|ESS|PL</td><td>=&gt;</td><td>PROPN</td><td>Case=Ess|Foreign=Foreign|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>N|FORGN|PROP|ESS|SG</td><td>=&gt;</td><td>PROPN</td><td>Case=Ess|Foreign=Foreign|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN|PROP|GEN|PL</td><td>=&gt;</td><td>PROPN</td><td>Case=Gen|Foreign=Foreign|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>N|FORGN|PROP|GEN|SG</td><td>=&gt;</td><td>PROPN</td><td>Case=Gen|Foreign=Foreign|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN|PROP|ILL|PL</td><td>=&gt;</td><td>PROPN</td><td>Case=Ill|Foreign=Foreign|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>N|FORGN|PROP|ILL|SG</td><td>=&gt;</td><td>PROPN</td><td>Case=Ill|Foreign=Foreign|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN|PROP|INE|PL</td><td>=&gt;</td><td>PROPN</td><td>Case=Ine|Foreign=Foreign|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>N|FORGN|PROP|INE|SG</td><td>=&gt;</td><td>PROPN</td><td>Case=Ine|Foreign=Foreign|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN|PROP|INS|PL</td><td>=&gt;</td><td>PROPN</td><td>Case=Ins|Foreign=Foreign|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>N|FORGN|PROP|INS|SG</td><td>=&gt;</td><td>PROPN</td><td>Case=Ins|Foreign=Foreign|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN|PROP|NOM|PL</td><td>=&gt;</td><td>PROPN</td><td>Case=Nom|Foreign=Foreign|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>N|FORGN|PROP|NOM|SG</td><td>=&gt;</td><td>PROPN</td><td>Case=Nom|Foreign=Foreign|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN|PROP|PTV|PL</td><td>=&gt;</td><td>PROPN</td><td>Case=Par|Foreign=Foreign|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>N|FORGN|PROP|PTV|SG</td><td>=&gt;</td><td>PROPN</td><td>Case=Par|Foreign=Foreign|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN|PROP|TRA|PL</td><td>=&gt;</td><td>PROPN</td><td>Case=Tra|Foreign=Foreign|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>N|FORGN|PROP|TRA|SG</td><td>=&gt;</td><td>PROPN</td><td>Case=Tra|Foreign=Foreign|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN|PTV|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Par|Foreign=Foreign|Number=Plur</td><td><em>lakeja</em></td></tr>
-  <tr><td>N|FORGN|PTV|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Par|Foreign=Foreign|Number=Sing</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>N|FORGN|TRA|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Tra|Foreign=Foreign|Number=Plur</td><td><em></em></td></tr>
-  <tr><td>N|FORGN|TRA|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Tra|Foreign=Foreign|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN</td><td>=&gt;</td><td>NOUN</td><td>Foreign=Yes</td><td><em>case</em></td></tr>
+  <tr><td>N|FORGN|ABE|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Abe|Foreign=Yes|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN|ABE|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Abe|Foreign=Yes|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>N|FORGN|ABL|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Abl|Foreign=Yes|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN|ABL|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Abl|Foreign=Yes|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>N|FORGN|ADE|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Ade|Foreign=Yes|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN|ADE|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Ade|Foreign=Yes|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>N|FORGN|ALL|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=All|Foreign=Yes|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN|ALL|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=All|Foreign=Yes|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>N|FORGN|CMT|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Com|Foreign=Yes|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN|CMT|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Com|Foreign=Yes|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>N|FORGN|ELA|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Ela|Foreign=Yes|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN|ELA|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Ela|Foreign=Yes|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>N|FORGN|ESS|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Ess|Foreign=Yes|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN|ESS|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Ess|Foreign=Yes|Number=Sing</td><td><em>livenä</em></td></tr>
+  <tr><td>N|FORGN|GEN|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Foreign=Yes|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN|GEN|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Foreign=Yes|Number=Sing</td><td><em>clubin</em></td></tr>
+  <tr><td>N|FORGN|ILL|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Ill|Foreign=Yes|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN|ILL|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Ill|Foreign=Yes|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>N|FORGN|INE|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|Foreign=Yes|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN|INE|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Ine|Foreign=Yes|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>N|FORGN|INS|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|Foreign=Yes|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN|INS|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|Foreign=Yes|Number=Sing</td><td><em></em></td></tr>
+  <tr><td>N|FORGN|NOM|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Foreign=Yes|Number=Plur</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN|NOM|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Foreign=Yes|Number=Sing</td><td><em>heavy, roll</em></td></tr>
+  <tr><td>N|FORGN|PROP</td><td>=&gt;</td><td>PROPN</td><td>Foreign=Yes</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN|PROP|ABE|PL</td><td>=&gt;</td><td>PROPN</td><td>Case=Abe|Foreign=Yes|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>N|FORGN|PROP|ABE|SG</td><td>=&gt;</td><td>PROPN</td><td>Case=Abe|Foreign=Yes|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN|PROP|ABL|PL</td><td>=&gt;</td><td>PROPN</td><td>Case=Abl|Foreign=Yes|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>N|FORGN|PROP|ABL|SG</td><td>=&gt;</td><td>PROPN</td><td>Case=Abl|Foreign=Yes|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN|PROP|ADE|PL</td><td>=&gt;</td><td>PROPN</td><td>Case=Ade|Foreign=Yes|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>N|FORGN|PROP|ADE|SG</td><td>=&gt;</td><td>PROPN</td><td>Case=Ade|Foreign=Yes|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN|PROP|ALL|PL</td><td>=&gt;</td><td>PROPN</td><td>Case=All|Foreign=Yes|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>N|FORGN|PROP|ALL|SG</td><td>=&gt;</td><td>PROPN</td><td>Case=All|Foreign=Yes|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN|PROP|CMT|PL</td><td>=&gt;</td><td>PROPN</td><td>Case=Com|Foreign=Yes|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>N|FORGN|PROP|CMT|SG</td><td>=&gt;</td><td>PROPN</td><td>Case=Com|Foreign=Yes|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN|PROP|ELA|PL</td><td>=&gt;</td><td>PROPN</td><td>Case=Ela|Foreign=Yes|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>N|FORGN|PROP|ELA|SG</td><td>=&gt;</td><td>PROPN</td><td>Case=Ela|Foreign=Yes|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN|PROP|ESS|PL</td><td>=&gt;</td><td>PROPN</td><td>Case=Ess|Foreign=Yes|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>N|FORGN|PROP|ESS|SG</td><td>=&gt;</td><td>PROPN</td><td>Case=Ess|Foreign=Yes|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN|PROP|GEN|PL</td><td>=&gt;</td><td>PROPN</td><td>Case=Gen|Foreign=Yes|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>N|FORGN|PROP|GEN|SG</td><td>=&gt;</td><td>PROPN</td><td>Case=Gen|Foreign=Yes|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN|PROP|ILL|PL</td><td>=&gt;</td><td>PROPN</td><td>Case=Ill|Foreign=Yes|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>N|FORGN|PROP|ILL|SG</td><td>=&gt;</td><td>PROPN</td><td>Case=Ill|Foreign=Yes|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN|PROP|INE|PL</td><td>=&gt;</td><td>PROPN</td><td>Case=Ine|Foreign=Yes|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>N|FORGN|PROP|INE|SG</td><td>=&gt;</td><td>PROPN</td><td>Case=Ine|Foreign=Yes|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN|PROP|INS|PL</td><td>=&gt;</td><td>PROPN</td><td>Case=Ins|Foreign=Yes|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>N|FORGN|PROP|INS|SG</td><td>=&gt;</td><td>PROPN</td><td>Case=Ins|Foreign=Yes|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN|PROP|NOM|PL</td><td>=&gt;</td><td>PROPN</td><td>Case=Nom|Foreign=Yes|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>N|FORGN|PROP|NOM|SG</td><td>=&gt;</td><td>PROPN</td><td>Case=Nom|Foreign=Yes|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN|PROP|PTV|PL</td><td>=&gt;</td><td>PROPN</td><td>Case=Par|Foreign=Yes|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>N|FORGN|PROP|PTV|SG</td><td>=&gt;</td><td>PROPN</td><td>Case=Par|Foreign=Yes|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN|PROP|TRA|PL</td><td>=&gt;</td><td>PROPN</td><td>Case=Tra|Foreign=Yes|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>N|FORGN|PROP|TRA|SG</td><td>=&gt;</td><td>PROPN</td><td>Case=Tra|Foreign=Yes|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN|PTV|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Par|Foreign=Yes|Number=Plur</td><td><em>lakeja</em></td></tr>
+  <tr><td>N|FORGN|PTV|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Par|Foreign=Yes|Number=Sing</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>N|FORGN|TRA|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Tra|Foreign=Yes|Number=Plur</td><td><em></em></td></tr>
+  <tr><td>N|FORGN|TRA|SG</td><td>=&gt;</td><td>NOUN</td><td>Case=Tra|Foreign=Yes|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>N|GEN|PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Number=Plur</td><td><em>lasten, ihmisten, naisten, aikojen, oppilaitosten</em></td></tr>
   <tr><td>N|GEN|PL|1PL</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Number=Plur|Number[psor]=Plur|Person[psor]=1|Poss=Yes</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>N|GEN|PL|1PL|DV-ILE|DV-U</td><td>=&gt;</td><td>NOUN</td><td>Case=Gen|Number=Plur|Number[psor]=Plur|Person[psor]=1|Poss=Yes</td><td><em></em></td></tr>
@@ -5596,7 +5597,7 @@ Tagset <tt>fi::turku</tt>, total 6811 tags.
   <tr><td>PP</td><td>=&gt;</td><td>ADP</td><td>_</td><td><em>sitten, ennen, kohti, ilman, kautta</em></td></tr>
   <tr style="background:lightgray"><td>PP|3</td><td>=&gt;</td><td>ADP</td><td>Person[psor]=3|Poss=Yes</td><td><em>taaksensa</em></td></tr>
   <tr><td>PP|ADE|3</td><td>=&gt;</td><td>ADP</td><td>Case=Ade|Person[psor]=3|Poss=Yes</td><td><em>edellään</em></td></tr>
-  <tr style="background:lightgray"><td>PP|FORGN</td><td>=&gt;</td><td>ADP</td><td>Foreign=Foreign</td><td><em>of, de, for, del</em></td></tr>
+  <tr style="background:lightgray"><td>PP|FORGN</td><td>=&gt;</td><td>ADP</td><td>Foreign=Yes</td><td><em>of, de, for, del</em></td></tr>
   <tr><td>PP|kin</td><td>=&gt;</td><td>ADP</td><td>_</td><td><em>sittenkin</em></td></tr>
   <tr style="background:lightgray"><td>PRON|DEM|ABE|PL</td><td>=&gt;</td><td>PRON</td><td>Case=Abe|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
   <tr><td>PRON|DEM|ABE|PL|hAn</td><td>=&gt;</td><td>PRON</td><td>Case=Abe|Number=Plur|PronType=Dem</td><td><em></em></td></tr>
@@ -6255,12 +6256,12 @@ Tagset <tt>fi::turku</tt>, total 6811 tags.
   <tr style="background:lightgray"><td>V|ADE|INF3|DV-ELE|DV-TTA</td><td>=&gt;</td><td>VERB</td><td>Case=Ade|VerbForm=Ger</td><td><em>haastattelemalla</em></td></tr>
   <tr><td>V|ADE|INF3|DV-TTA</td><td>=&gt;</td><td>VERB</td><td>Case=Ade|VerbForm=Ger</td><td><em>liikuttamalla, sovittamalla, selvittämällä</em></td></tr>
   <tr style="background:lightgray"><td>V|ADE|INF3|DV-U</td><td>=&gt;</td><td>VERB</td><td>Case=Ade|VerbForm=Ger</td><td><em>transponoitumalla</em></td></tr>
-  <tr><td>V|COND|ACT|NEG</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Negative=Neg|VerbForm=Fin|Voice=Act</td><td><em>pohtisi, ilmenisi, tarvitsisi, nousisi, liittyisi</em></td></tr>
-  <tr style="background:lightgray"><td>V|COND|ACT|NEGV</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Negative=Neg|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>V|COND|ACT|NEG|DV-TTA</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Negative=Neg|VerbForm=Fin|Voice=Act</td><td><em>halvaannuttaisi</em></td></tr>
-  <tr style="background:lightgray"><td>V|COND|ACT|NEG|DV-U</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Negative=Neg|VerbForm=Fin|Voice=Act</td><td><em>unohtuisi</em></td></tr>
-  <tr><td>V|COND|ACT|NEG|kAAn</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Negative=Neg|VerbForm=Fin|Voice=Act</td><td><em>osaisikaan</em></td></tr>
-  <tr style="background:lightgray"><td>V|COND|ACT|NEG|kAAn|DV-TTA</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Negative=Neg|VerbForm=Fin|Voice=Act</td><td><em>puhuttaisikaan</em></td></tr>
+  <tr><td>V|COND|ACT|NEG</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Polarity=Neg|VerbForm=Fin|Voice=Act</td><td><em>pohtisi, ilmenisi, tarvitsisi, nousisi, liittyisi</em></td></tr>
+  <tr style="background:lightgray"><td>V|COND|ACT|NEGV</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Polarity=Neg|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>V|COND|ACT|NEG|DV-TTA</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Polarity=Neg|VerbForm=Fin|Voice=Act</td><td><em>halvaannuttaisi</em></td></tr>
+  <tr style="background:lightgray"><td>V|COND|ACT|NEG|DV-U</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Polarity=Neg|VerbForm=Fin|Voice=Act</td><td><em>unohtuisi</em></td></tr>
+  <tr><td>V|COND|ACT|NEG|kAAn</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Polarity=Neg|VerbForm=Fin|Voice=Act</td><td><em>osaisikaan</em></td></tr>
+  <tr style="background:lightgray"><td>V|COND|ACT|NEG|kAAn|DV-TTA</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Polarity=Neg|VerbForm=Fin|Voice=Act</td><td><em>puhuttaisikaan</em></td></tr>
   <tr><td>V|COND|ACT|PL1</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin|Voice=Act</td><td><em>tarvitsisimme, oppisimme, osaisimme, pystyisimme</em></td></tr>
   <tr style="background:lightgray"><td>V|COND|ACT|PL1|DV-ELE</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
   <tr><td>V|COND|ACT|PL1|DV-TTA</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin|Voice=Act</td><td><em>saavuttaisimme</em></td></tr>
@@ -6303,8 +6304,8 @@ Tagset <tt>fi::turku</tt>, total 6811 tags.
   <tr style="background:lightgray"><td>V|COND|ACT|SG3|kAAn</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin|Voice=Act</td><td><em>haluaisikaan</em></td></tr>
   <tr><td>V|COND|ACT|SG3|kO</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin|Voice=Act</td><td><em>voisiko, haluaisiko</em></td></tr>
   <tr style="background:lightgray"><td>V|COND|ACT|SG3|kin</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>V|COND|PSS|NEG</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Negative=Neg|VerbForm=Fin|Voice=Pass</td><td><em>näyttäisi, käytäisi, käytettäisi</em></td></tr>
-  <tr style="background:lightgray"><td>V|COND|PSS|NEGV</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Negative=Neg|VerbForm=Fin|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>V|COND|PSS|NEG</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Polarity=Neg|VerbForm=Fin|Voice=Pass</td><td><em>näyttäisi, käytäisi, käytettäisi</em></td></tr>
+  <tr style="background:lightgray"><td>V|COND|PSS|NEGV</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Polarity=Neg|VerbForm=Fin|Voice=Pass</td><td><em></em></td></tr>
   <tr><td>V|COND|PSS|PE4</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin|Voice=Pass</td><td><em>voitaisiin, miellettäisiin, keskusteltaisiin, asetettaisiin, kutsuttaisiin</em></td></tr>
   <tr style="background:lightgray"><td>V|COND|PSS|PE4|kin</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin|Voice=Pass</td><td><em>voitaisiinkin</em></td></tr>
   <tr><td>V|COND|PSS|PL2</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Plur|Person=2|VerbForm=Fin|Voice=Pass</td><td><em></em></td></tr>
@@ -6318,7 +6319,7 @@ Tagset <tt>fi::turku</tt>, total 6811 tags.
   <tr><td>V|COND|PSS|SG3</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>V|COND|PSS|SG3|kin</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass</td><td><em></em></td></tr>
   <tr><td>V|COP|ADE|INF3</td><td>=&gt;</td><td>VERB</td><td>Case=Ade|VerbForm=Ger|VerbType=Cop</td><td><em>olemalla</em></td></tr>
-  <tr style="background:lightgray"><td>V|COP|COND|ACT|NEG</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Negative=Neg|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em>olisi</em></td></tr>
+  <tr style="background:lightgray"><td>V|COP|COND|ACT|NEG</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Polarity=Neg|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em>olisi</em></td></tr>
   <tr><td>V|COP|COND|ACT|PL1</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em>olisimme</em></td></tr>
   <tr style="background:lightgray"><td>V|COP|COND|ACT|PL1|kO</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
   <tr><td>V|COP|COND|ACT|PL1|kOhAn</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
@@ -6374,17 +6375,17 @@ Tagset <tt>fi::turku</tt>, total 6811 tags.
   <tr><td>V|COP|PAST|ACT|SG3</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Tense=Past|VerbType=Cop|Voice=Act</td><td><em>oli</em></td></tr>
   <tr style="background:lightgray"><td>V|COP|PAST|ACT|SG3|kO</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Tense=Past|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
   <tr><td>V|COP|PAST|ACT|SG3|kin</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Tense=Past|VerbType=Cop|Voice=Act</td><td><em>olikin</em></td></tr>
-  <tr style="background:lightgray"><td>V|COP|PAST|PSS|NEG</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Tense=Past|VerbType=Cop|Voice=Pass</td><td><em>oltu</em></td></tr>
-  <tr><td>V|COP|PL|PAST|ACT|NEG</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Plur|Tense=Past|VerbType=Cop|Voice=Act</td><td><em>olleet</em></td></tr>
+  <tr style="background:lightgray"><td>V|COP|PAST|PSS|NEG</td><td>=&gt;</td><td>VERB</td><td>Polarity=Neg|Tense=Past|VerbType=Cop|Voice=Pass</td><td><em>oltu</em></td></tr>
+  <tr><td>V|COP|PL|PAST|ACT|NEG</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Polarity=Neg|Tense=Past|VerbType=Cop|Voice=Act</td><td><em>olleet</em></td></tr>
   <tr style="background:lightgray"><td>V|COP|POTN|ACT|PL1</td><td>=&gt;</td><td>VERB</td><td>Mood=Pot|Number=Plur|Person=1|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
   <tr><td>V|COP|POTN|ACT|PL2</td><td>=&gt;</td><td>VERB</td><td>Mood=Pot|Number=Plur|Person=2|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>V|COP|POTN|ACT|PL3</td><td>=&gt;</td><td>VERB</td><td>Mood=Pot|Number=Plur|Person=3|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
   <tr><td>V|COP|POTN|ACT|SG1</td><td>=&gt;</td><td>VERB</td><td>Mood=Pot|Number=Sing|Person=1|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>V|COP|POTN|ACT|SG2</td><td>=&gt;</td><td>VERB</td><td>Mood=Pot|Number=Sing|Person=2|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
   <tr><td>V|COP|POTN|ACT|SG3</td><td>=&gt;</td><td>VERB</td><td>Mood=Pot|Number=Sing|Person=3|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em>lienee</em></td></tr>
-  <tr style="background:lightgray"><td>V|COP|PRES|ACT|NEG</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Tense=Pres|VerbType=Cop|Voice=Act</td><td><em>ole</em></td></tr>
-  <tr><td>V|COP|PRES|ACT|NEG|kAAn</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Tense=Pres|VerbType=Cop|Voice=Act</td><td><em>olekaan</em></td></tr>
-  <tr style="background:lightgray"><td>V|COP|PRES|ACT|NEG|kin</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Tense=Pres|VerbType=Cop|Voice=Act</td><td><em>olekin</em></td></tr>
+  <tr style="background:lightgray"><td>V|COP|PRES|ACT|NEG</td><td>=&gt;</td><td>VERB</td><td>Polarity=Neg|Tense=Pres|VerbType=Cop|Voice=Act</td><td><em>ole</em></td></tr>
+  <tr><td>V|COP|PRES|ACT|NEG|kAAn</td><td>=&gt;</td><td>VERB</td><td>Polarity=Neg|Tense=Pres|VerbType=Cop|Voice=Act</td><td><em>olekaan</em></td></tr>
+  <tr style="background:lightgray"><td>V|COP|PRES|ACT|NEG|kin</td><td>=&gt;</td><td>VERB</td><td>Polarity=Neg|Tense=Pres|VerbType=Cop|Voice=Act</td><td><em>olekin</em></td></tr>
   <tr><td>V|COP|PRES|ACT|PL1</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Tense=Pres|VerbType=Cop|Voice=Act</td><td><em>olemme</em></td></tr>
   <tr style="background:lightgray"><td>V|COP|PRES|ACT|PL1|hAn</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Tense=Pres|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
   <tr><td>V|COP|PRES|ACT|PL1|kAAn</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Tense=Pres|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
@@ -6421,8 +6422,8 @@ Tagset <tt>fi::turku</tt>, total 6811 tags.
   <tr style="background:lightgray"><td>V|COP|PRES|PSS|SG1</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1|Tense=Pres|VerbType=Cop|Voice=Pass</td><td><em></em></td></tr>
   <tr><td>V|COP|PRES|PSS|SG2</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2|Tense=Pres|VerbType=Cop|Voice=Pass</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>V|COP|PRES|PSS|SG3</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Tense=Pres|VerbType=Cop|Voice=Pass</td><td><em></em></td></tr>
-  <tr><td>V|COP|SG|PAST|ACT|NEG</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Tense=Past|VerbType=Cop|Voice=Act</td><td><em>ollut</em></td></tr>
-  <tr style="background:lightgray"><td>V|COP|SG|PAST|ACT|NEG|kAAn</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Tense=Past|VerbType=Cop|Voice=Act</td><td><em>ollutkaan</em></td></tr>
+  <tr><td>V|COP|SG|PAST|ACT|NEG</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Polarity=Neg|Tense=Past|VerbType=Cop|Voice=Act</td><td><em>ollut</em></td></tr>
+  <tr style="background:lightgray"><td>V|COP|SG|PAST|ACT|NEG|kAAn</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Polarity=Neg|Tense=Past|VerbType=Cop|Voice=Act</td><td><em>ollutkaan</em></td></tr>
   <tr><td>V|COP|TRA|3|INF1</td><td>=&gt;</td><td>VERB</td><td>Case=Tra|Person[psor]=3|Poss=Yes|VerbForm=Inf|VerbType=Cop</td><td><em>ollakseen</em></td></tr>
   <tr style="background:lightgray"><td>V|ELA|INF3</td><td>=&gt;</td><td>VERB</td><td>Case=Ela|VerbForm=Ger</td><td><em>linnoittamasta, uimasta, tapahtumasta, syntymästä, kalastamasta</em></td></tr>
   <tr><td>V|ILL|INF3</td><td>=&gt;</td><td>VERB</td><td>Case=Ill|VerbForm=Ger</td><td><em>tekemään, opiskelemaan, esittämään, puhumaan, menemään</em></td></tr>
@@ -6582,9 +6583,9 @@ Tagset <tt>fi::turku</tt>, total 6811 tags.
   <tr><td>V|PAST|ACT|TEMP</td><td>=&gt;</td><td>VERB</td><td>Tense=Past|Voice=Act</td><td><em>tultua, iskettyä, kirjattua, kaivattua, juteltua</em></td></tr>
   <tr style="background:lightgray"><td>V|PAST|ACT|TEMP|DV-TTA</td><td>=&gt;</td><td>VERB</td><td>Tense=Past|Voice=Act</td><td><em>saavutettua, tyydytettyä</em></td></tr>
   <tr><td>V|PAST|PSS</td><td>=&gt;</td><td>VERB</td><td>Tense=Past|Voice=Pass</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>V|PAST|PSS|NEG</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Tense=Past|Voice=Pass</td><td><em>saatu, tuomittu, restauroitu, löydetty, julkaistu</em></td></tr>
-  <tr><td>V|PAST|PSS|NEGV</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Tense=Past|Voice=Pass</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>V|PAST|PSS|NEG|DV-TTA</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Tense=Past|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>V|PAST|PSS|NEG</td><td>=&gt;</td><td>VERB</td><td>Polarity=Neg|Tense=Past|Voice=Pass</td><td><em>saatu, tuomittu, restauroitu, löydetty, julkaistu</em></td></tr>
+  <tr><td>V|PAST|PSS|NEGV</td><td>=&gt;</td><td>VERB</td><td>Polarity=Neg|Tense=Past|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>V|PAST|PSS|NEG|DV-TTA</td><td>=&gt;</td><td>VERB</td><td>Polarity=Neg|Tense=Past|Voice=Pass</td><td><em></em></td></tr>
   <tr><td>V|PAST|PSS|PE4</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Tense=Past|Voice=Pass</td><td><em>julkaistiin, valittiin, käytettiin, järjestettiin, pidettiin</em></td></tr>
   <tr style="background:lightgray"><td>V|PAST|PSS|PE4|DV-ELE</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Tense=Past|Voice=Pass</td><td><em>esiteltiin, tarkasteltiin, tiedusteltiin</em></td></tr>
   <tr><td>V|PAST|PSS|PE4|DV-ILE</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Tense=Past|Voice=Pass</td><td><em>tarjoiltiin</em></td></tr>
@@ -6640,15 +6641,15 @@ Tagset <tt>fi::turku</tt>, total 6811 tags.
   <tr><td>V|PAST|PSS|SG3|DV-U</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Tense=Past|Voice=Pass</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>V|PAST|PSS|SG3|kO</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Tense=Past|Voice=Pass</td><td><em></em></td></tr>
   <tr><td>V|PAST|PSS|SG3|kin</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Tense=Past|Voice=Pass</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>V|PL1|NEGV</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Plur|Person=1</td><td><em>emme</em></td></tr>
-  <tr><td>V|PL1|NEGV|kO</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Plur|Person=1</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>V|PL2|NEGV</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Plur|Person=2</td><td><em></em></td></tr>
-  <tr><td>V|PL2|NEGV|kO</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Plur|Person=2</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>V|PL3|NEGV</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Plur|Person=3</td><td><em>eivät</em></td></tr>
-  <tr><td>V|PL3|NEGV|kO</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Plur|Person=3</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>V|PL|PAST|ACT|NEG</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Plur|Tense=Past|Voice=Act</td><td><em>vastustaneet, välittäneet, saaneet, voineet, osanneet</em></td></tr>
-  <tr><td>V|PL|PAST|ACT|NEGV</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Plur|Tense=Past|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>V|PL|PAST|ACT|NEG|DV-U</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Plur|Tense=Past|Voice=Act</td><td><em>ryhmittyneet</em></td></tr>
+  <tr style="background:lightgray"><td>V|PL1|NEGV</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Polarity=Neg</td><td><em>emme</em></td></tr>
+  <tr><td>V|PL1|NEGV|kO</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Polarity=Neg</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>V|PL2|NEGV</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=2|Polarity=Neg</td><td><em></em></td></tr>
+  <tr><td>V|PL2|NEGV|kO</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=2|Polarity=Neg</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>V|PL3|NEGV</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3|Polarity=Neg</td><td><em>eivät</em></td></tr>
+  <tr><td>V|PL3|NEGV|kO</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3|Polarity=Neg</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>V|PL|PAST|ACT|NEG</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Polarity=Neg|Tense=Past|Voice=Act</td><td><em>vastustaneet, välittäneet, saaneet, voineet, osanneet</em></td></tr>
+  <tr><td>V|PL|PAST|ACT|NEGV</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Polarity=Neg|Tense=Past|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>V|PL|PAST|ACT|NEG|DV-U</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Polarity=Neg|Tense=Past|Voice=Act</td><td><em>ryhmittyneet</em></td></tr>
   <tr><td>V|POTN|ACT|PL1</td><td>=&gt;</td><td>VERB</td><td>Mood=Pot|Number=Plur|Person=1|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>V|POTN|ACT|PL2</td><td>=&gt;</td><td>VERB</td><td>Mood=Pot|Number=Plur|Person=2|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
   <tr><td>V|POTN|ACT|PL3</td><td>=&gt;</td><td>VERB</td><td>Mood=Pot|Number=Plur|Person=3|VerbForm=Fin|Voice=Act</td><td><em>alkanevat</em></td></tr>
@@ -6661,12 +6662,12 @@ Tagset <tt>fi::turku</tt>, total 6811 tags.
   <tr style="background:lightgray"><td>V|POTN|PSS|SG1</td><td>=&gt;</td><td>VERB</td><td>Mood=Pot|Number=Sing|Person=1|VerbForm=Fin|Voice=Pass</td><td><em></em></td></tr>
   <tr><td>V|POTN|PSS|SG2</td><td>=&gt;</td><td>VERB</td><td>Mood=Pot|Number=Sing|Person=2|VerbForm=Fin|Voice=Pass</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>V|POTN|PSS|SG3</td><td>=&gt;</td><td>VERB</td><td>Mood=Pot|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass</td><td><em></em></td></tr>
-  <tr><td>V|PRES|ACT|NEG</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Tense=Pres|Voice=Act</td><td><em>osaa, voi, saa, tarvitse, tule</em></td></tr>
-  <tr style="background:lightgray"><td>V|PRES|ACT|NEGV</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Tense=Pres|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>V|PRES|ACT|NEG|DV-NTAA</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Tense=Pres|Voice=Act</td><td><em>vähennä</em></td></tr>
-  <tr style="background:lightgray"><td>V|PRES|ACT|NEG|DV-TTA</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Tense=Pres|Voice=Act</td><td><em>kannata</em></td></tr>
-  <tr><td>V|PRES|ACT|NEG|DV-U</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Tense=Pres|Voice=Act</td><td><em>syyllisty, lannistu, aiheudu, vahvistu</em></td></tr>
-  <tr style="background:lightgray"><td>V|PRES|ACT|NEG|kAAn</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Tense=Pres|Voice=Act</td><td><em>tulekaan</em></td></tr>
+  <tr><td>V|PRES|ACT|NEG</td><td>=&gt;</td><td>VERB</td><td>Polarity=Neg|Tense=Pres|Voice=Act</td><td><em>osaa, voi, saa, tarvitse, tule</em></td></tr>
+  <tr style="background:lightgray"><td>V|PRES|ACT|NEGV</td><td>=&gt;</td><td>VERB</td><td>Polarity=Neg|Tense=Pres|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>V|PRES|ACT|NEG|DV-NTAA</td><td>=&gt;</td><td>VERB</td><td>Polarity=Neg|Tense=Pres|Voice=Act</td><td><em>vähennä</em></td></tr>
+  <tr style="background:lightgray"><td>V|PRES|ACT|NEG|DV-TTA</td><td>=&gt;</td><td>VERB</td><td>Polarity=Neg|Tense=Pres|Voice=Act</td><td><em>kannata</em></td></tr>
+  <tr><td>V|PRES|ACT|NEG|DV-U</td><td>=&gt;</td><td>VERB</td><td>Polarity=Neg|Tense=Pres|Voice=Act</td><td><em>syyllisty, lannistu, aiheudu, vahvistu</em></td></tr>
+  <tr style="background:lightgray"><td>V|PRES|ACT|NEG|kAAn</td><td>=&gt;</td><td>VERB</td><td>Polarity=Neg|Tense=Pres|Voice=Act</td><td><em>tulekaan</em></td></tr>
   <tr><td>V|PRES|ACT|PL1</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Tense=Pres|Voice=Act</td><td><em>voimme, häpeämme, syömme, saamme, pidämme</em></td></tr>
   <tr style="background:lightgray"><td>V|PRES|ACT|PL1|DV-ELE</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Tense=Pres|Voice=Act</td><td><em></em></td></tr>
   <tr><td>V|PRES|ACT|PL1|DV-ILE</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Tense=Pres|Voice=Act</td><td><em></em></td></tr>
@@ -6764,10 +6765,10 @@ Tagset <tt>fi::turku</tt>, total 6811 tags.
   <tr><td>V|PRES|ACT|SG3|pA</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Tense=Pres|Voice=Act</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>V|PRES|ACT|SG3|st-cllq</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Style=Coll|Tense=Pres|Voice=Act</td><td><em>munaa, meinaa, hommaa</em></td></tr>
   <tr><td>V|PRES|PSS</td><td>=&gt;</td><td>VERB</td><td>Tense=Pres|Voice=Pass</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>V|PRES|PSS|NEG</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Tense=Pres|Voice=Pass</td><td><em>voida, uskota, saada, oteta, tarvita</em></td></tr>
-  <tr><td>V|PRES|PSS|NEGV</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Tense=Pres|Voice=Pass</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>V|PRES|PSS|NEG|DV-ELE</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Tense=Pres|Voice=Pass</td><td><em>suositella, määritellä, pistellä, säästellä, koristella</em></td></tr>
-  <tr><td>V|PRES|PSS|NEG|DV-ILE</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Tense=Pres|Voice=Pass</td><td><em>epäillä</em></td></tr>
+  <tr style="background:lightgray"><td>V|PRES|PSS|NEG</td><td>=&gt;</td><td>VERB</td><td>Polarity=Neg|Tense=Pres|Voice=Pass</td><td><em>voida, uskota, saada, oteta, tarvita</em></td></tr>
+  <tr><td>V|PRES|PSS|NEGV</td><td>=&gt;</td><td>VERB</td><td>Polarity=Neg|Tense=Pres|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>V|PRES|PSS|NEG|DV-ELE</td><td>=&gt;</td><td>VERB</td><td>Polarity=Neg|Tense=Pres|Voice=Pass</td><td><em>suositella, määritellä, pistellä, säästellä, koristella</em></td></tr>
+  <tr><td>V|PRES|PSS|NEG|DV-ILE</td><td>=&gt;</td><td>VERB</td><td>Polarity=Neg|Tense=Pres|Voice=Pass</td><td><em>epäillä</em></td></tr>
   <tr style="background:lightgray"><td>V|PRES|PSS|PE4</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Tense=Pres|Voice=Pass</td><td><em>voidaan, käytetään, tunnetaan, saadaan, tehdään</em></td></tr>
   <tr><td>V|PRES|PSS|PE4|DV-ELE</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Tense=Pres|Voice=Pass</td><td><em>luokitellaan, tarkastellaan, toistellaan, harjoitellaan, annostellaan</em></td></tr>
   <tr style="background:lightgray"><td>V|PRES|PSS|PE4|DV-ILE</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Tense=Pres|Voice=Pass</td><td><em>epäillään, kuvaillaan, tarkkaillaan</em></td></tr>
@@ -6811,20 +6812,20 @@ Tagset <tt>fi::turku</tt>, total 6811 tags.
   <tr style="background:lightgray"><td>V|PRES|PSS|SG3|DV-U</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Tense=Pres|Voice=Pass</td><td><em></em></td></tr>
   <tr><td>V|PRES|PSS|SG3|kin</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Tense=Pres|Voice=Pass</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>V|PRES|PSS|SG3|st-cllq</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Style=Coll|Tense=Pres|Voice=Pass</td><td><em></em></td></tr>
-  <tr><td>V|SG1|NEGV</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Person=1</td><td><em>en</em></td></tr>
-  <tr style="background:lightgray"><td>V|SG1|NEGV|kO</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Person=1</td><td><em></em></td></tr>
-  <tr><td>V|SG2|NEGV</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Person=2</td><td><em>et</em></td></tr>
-  <tr style="background:lightgray"><td>V|SG2|NEGV|kO</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Person=2</td><td><em></em></td></tr>
-  <tr><td>V|SG3|NEGV</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Person=3</td><td><em>ei</em></td></tr>
-  <tr style="background:lightgray"><td>V|SG3|NEGV|kO</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Person=3</td><td><em>eikö</em></td></tr>
-  <tr><td>V|SG|PAST|ACT|NEG</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Tense=Past|Voice=Act</td><td><em>saanut, suostunut, pitänyt, ymmärtänyt, ehtinyt</em></td></tr>
-  <tr style="background:lightgray"><td>V|SG|PAST|ACT|NEGV</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Tense=Past|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>V|SG|PAST|ACT|NEG|DV-ELE</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Tense=Past|Voice=Act</td><td><em>naputellut</em></td></tr>
-  <tr style="background:lightgray"><td>V|SG|PAST|ACT|NEG|DV-ILE</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Tense=Past|Voice=Act</td><td><em>kuvaillut</em></td></tr>
-  <tr><td>V|SG|PAST|ACT|NEG|DV-NTAA</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Tense=Past|Voice=Act</td><td><em>parantanut</em></td></tr>
-  <tr style="background:lightgray"><td>V|SG|PAST|ACT|NEG|DV-TTA</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Tense=Past|Voice=Act</td><td><em>saavuttanut, sovittanut</em></td></tr>
-  <tr><td>V|SG|PAST|ACT|NEG|DV-U</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Tense=Past|Voice=Act</td><td><em>onnistunut, rauhoittunut, toteutunut</em></td></tr>
-  <tr style="background:lightgray"><td>V|SG|PAST|ACT|NEG|kAAn</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Tense=Past|Voice=Act</td><td><em>osallistunutkaan</em></td></tr>
+  <tr><td>V|SG1|NEGV</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1|Polarity=Neg</td><td><em>en</em></td></tr>
+  <tr style="background:lightgray"><td>V|SG1|NEGV|kO</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1|Polarity=Neg</td><td><em></em></td></tr>
+  <tr><td>V|SG2|NEGV</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2|Polarity=Neg</td><td><em>et</em></td></tr>
+  <tr style="background:lightgray"><td>V|SG2|NEGV|kO</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2|Polarity=Neg</td><td><em></em></td></tr>
+  <tr><td>V|SG3|NEGV</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polarity=Neg</td><td><em>ei</em></td></tr>
+  <tr style="background:lightgray"><td>V|SG3|NEGV|kO</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polarity=Neg</td><td><em>eikö</em></td></tr>
+  <tr><td>V|SG|PAST|ACT|NEG</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Polarity=Neg|Tense=Past|Voice=Act</td><td><em>saanut, suostunut, pitänyt, ymmärtänyt, ehtinyt</em></td></tr>
+  <tr style="background:lightgray"><td>V|SG|PAST|ACT|NEGV</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Polarity=Neg|Tense=Past|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>V|SG|PAST|ACT|NEG|DV-ELE</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Polarity=Neg|Tense=Past|Voice=Act</td><td><em>naputellut</em></td></tr>
+  <tr style="background:lightgray"><td>V|SG|PAST|ACT|NEG|DV-ILE</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Polarity=Neg|Tense=Past|Voice=Act</td><td><em>kuvaillut</em></td></tr>
+  <tr><td>V|SG|PAST|ACT|NEG|DV-NTAA</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Polarity=Neg|Tense=Past|Voice=Act</td><td><em>parantanut</em></td></tr>
+  <tr style="background:lightgray"><td>V|SG|PAST|ACT|NEG|DV-TTA</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Polarity=Neg|Tense=Past|Voice=Act</td><td><em>saavuttanut, sovittanut</em></td></tr>
+  <tr><td>V|SG|PAST|ACT|NEG|DV-U</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Polarity=Neg|Tense=Past|Voice=Act</td><td><em>onnistunut, rauhoittunut, toteutunut</em></td></tr>
+  <tr style="background:lightgray"><td>V|SG|PAST|ACT|NEG|kAAn</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Polarity=Neg|Tense=Past|Voice=Act</td><td><em>osallistunutkaan</em></td></tr>
   <tr><td>V|TRA|3|INF1</td><td>=&gt;</td><td>VERB</td><td>Case=Tra|Person[psor]=3|Poss=Yes|VerbForm=Inf</td><td><em>saadakseen, päästäkseen, vakuuttaakseen, etsiäkseen, löytääkseen</em></td></tr>
   <tr style="background:lightgray"><td>V|TRA|3|INF1|DV-TTA</td><td>=&gt;</td><td>VERB</td><td>Case=Tra|Person[psor]=3|Poss=Yes|VerbForm=Inf</td><td><em>tyydyttääkseen, hävittääkseen</em></td></tr>
 </table>

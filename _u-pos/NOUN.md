@@ -2,6 +2,7 @@
 layout: postag
 title: 'NOUN'
 shortdef: 'noun'
+udver: '2'
 ---
 
 ### Definition
@@ -19,12 +20,13 @@ and context, they may be classified as either [VERB]() or `NOUN`.
 ### Examples
 
 - _girl_
-- _cat_
 - _tree_
-- _air_
+- _etc._ (see [conj]())
 - _beauty_
+- _decision_
 
 ### References
 
 - [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a noun?](http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsANoun.htm)
 - [Wikipedia](http://en.wikipedia.org/wiki/Noun)
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:26 CEST -->

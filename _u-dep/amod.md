@@ -2,22 +2,23 @@
 layout: relation
 title: 'amod'
 shortdef: 'adjectival modifier'
+udver: '2'
 ---
 
-An adjectival modifier of a noun is any adjectival phrase that serves
-to modify the meaning of the noun.
+An adjectival modifier of a noun (or pronoun) is any adjectival phrase that serves
+to modify the noun (or pronoun). The relation applies whether the meaning of the noun 
+is modified in a compositional way (e.g., _large house_) or an idiomatic way (_hot dogs_).
+
+An `amod` dependent may have its own modifiers (e.g., _very large house_) but the dependent should not be a clause. If it is a clause, then `acl` should be used.
 
 ~~~ sdparse
-Sam eats red meat
-amod(meat, red)
+Sam eats large hot dogs
+amod(dogs, large)
+amod(dogs, hot)
 ~~~
 
 ~~~ sdparse
-Sam took out  a 3 million dollar loan
-amod(loan, dollar)
+There is nothing wrong with it
+amod(nothing, wrong)
 ~~~
-
-~~~ sdparse
-Sam took out  a $ 3 million loan
-amod(loan, $)
-~~~
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:59 CEST -->

@@ -2,6 +2,7 @@
 layout: postag
 title: 'PROPN'
 shortdef: 'proper noun'
+udver: '2'
 ---
 
 ### Definition
@@ -21,7 +22,11 @@ etymologically adjectives or participles as proper nouns when they
 appear as part of a multiword name that overall functions like a
 proper noun, for example in _the Yellow Pages_, _United Airlines_ or
 _Thrall Manufacturing Company_.  This is certainly the practice for
-the English Penn Treebank tag set.
+the English Penn Treebank tag set. However, the practice should not
+be copied from English to other languages if it is not linguistically
+justified there. For example, in Czech, _Spojené státy_ “United States”
+is an adjective followed by a common noun; their tags in UD are [ADJ]() [NOUN]()
+and the adjective modifies the noun via the [amod]() relation.
 
 Acronyms of proper nouns, such as _UN_ and _NATO_, should be tagged `PROPN`.
 Even if they contain numbers (as in various product names), they are tagged `PROPN` and not [SYM]():
@@ -36,5 +41,6 @@ However, if the token consists entirely of digits (like _7_ in _Windows 7_), it 
 
 ### References
 
-- [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a proper noun?](http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAProperNoun.htm)
+- [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a proper noun?](https://glossary.sil.org/term/proper-noun)
 - [Wikipedia](http://en.wikipedia.org/wiki/Proper_noun)
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:28 CEST -->

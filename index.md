@@ -1,79 +1,93 @@
 ---
-layout: base
-title:  'Universal Dependencies'
+layout: home
+title: 'Universal Dependencies'
+udver: '2'
 ---
 
-# Universal Dependencies
+# <img class="logo" src="logos/logo-ud.png" width="32px"> Universal Dependencies
 
-[Introduction to Universal Dependencies](introduction.html)
+Universal Dependencies (UD) is a framework for consistent annotation of grammar
+(parts of speech, morphological features, and syntactic dependencies) across different human languages. UD is
+an open community effort with over 300 contributors producing nearly 200 treebanks in over 100 languages.
+If you're new to UD, you should start by reading the first part of the Short Introduction and then browsing the annotation guidelines.
 
-* [Tokenization](u/overview/tokenization.html)
-* Morphology
-  * [General principles](u/overview/morphology.html)
-  * [Universal POS tags](u/pos/index.html) ([single document](u/pos/all.html))
-  * [Universal features](u/feat/index.html) ([single document](u/feat/all.html))
-  * [Language-specific features](ext-feat-index.html)
-  * [Conversion from other tagsets](tagset-conversion/index.html)
-* Syntax
-  * [General principles](u/overview/syntax.html)
-  * [Specific constructions](u/overview/specific-syntax.html)
-  * [Universal dependency relations](u/dep/index.html) ([single document](u/dep/all.html))
-  * [Language-specific relations](ext-dep-index.html)
+* [Short introduction to UD](introduction.html)
+* [UD annotation guidelines](guidelines.html)
+* More information on UD:
+  * [How to contribute to UD](contribute.html)
+  * [Tools for working with UD](tools.html)
+  * [Changes to the UD guidelines](changes.html)
+  * [UD-related events](events.html)
+  * [Projects related to UD](related.html)
+* Query UD treebanks online:
+  * [PML Tree Query](http://lindat.mff.cuni.cz/services/pmltq/) maintained by the Charles University in Prague
+  * [TEITOK](http://lindat.mff.cuni.cz/services/teitok/ud211/) maintained by the Charles University in Prague
+  * [Grew-match](http://match.grew.fr) maintained by Inria in Nancy
+  * [INESS](http://clarino.uib.no/iness) maintained by the University of Bergen
+* [Download UD treebanks](#download)
 
-* [CoNLL-U format](format.html)
+If you want to receive news about Universal Dependencies, you can subscribe to the
+[UD mailing list](https://lists.uu.se/sympa/info/lingfil-ud).
+If you want to discuss individual annotation questions, use the
+[Github issue tracker](https://github.com/universaldependencies/docs/issues).
 
-<small>
-This is the online documentation for Universal
-Dependencies, version 1 (2014-10-01).  We intend to treat version 1 as
-stable for at least the next year, but we may subsequently make
-further revisions based on experiences using it to treebank a range of
-languages. If you plan to use the scheme yourself, please get in touch
-so that we can avoid problems with conflicting versions.
-</small>
+## Current UD Languages
 
-
-# UD Treebanks
+<small>Information about language families (and genera for families with multiple branches) is mostly taken from
+[WALS Online](http://wals.info) (IE = Indo-European).</small>
 
 <div id="accordion" class="jquery-ui-accordion">
 {% include at_glance.html %}
 </div>
 
+<small>Disclaimer: Our use of flags to symbolise languages is only intended as a visual enhancement of the website and should not be interpreted as a political statement in any way.</small>
 
+## Possible Future Extensions
 
-# Download
+People have expressed interest in providing annotated data for the following languages but no
+valid data has been provided so far.
+
+<div id="accordion" class="jquery-ui-accordion">
+{% include at_glance_sapling.html %}
+</div>
+
+<small>Disclaimer: Our use of flags to symbolise languages is only intended as a visual enhancement of the website and should not be interpreted as a political statement in any way.</small>
+
+## Retired Treebanks
+
+The following treebanks have been part of one or more UD releases in the past but they are no
+longer maintained and they have been excluded from the most recent release.
+
+<div id="accordion" class="jquery-ui-accordion">
+{% include at_glance_retired.html %}
+</div>
+
+<small>Disclaimer: Our use of flags to symbolise languages is only intended as a visual enhancement of the website and should not be interpreted as a political statement in any way.</small>
+
+<a name="download"></a>
+
+## Download
 
 The data is released through LINDAT/CLARIN.
 
-* Version 1.2 treebanks <a href="http://hdl.handle.net/11234/1-1548">http://hdl.handle.net/11234/1-1548</a>. Released Nov 15, 2015.
-* Version 1.1 treebanks are archived at http://hdl.handle.net/11234/LRT-1478. Released May 15, 2015.
-* Version 1.0 treebanks are archived at http://hdl.handle.net/11234/1-1464. Released Jan 15, 2015.
-* The next release (v1.3) is scheduled for May 15, 2016. We intend to have regular treebank releases every six months.
-
-# Query online
-
-You can query the UD treebanks on-line using
-
-* [SETS treebank search](http://bionlp-www.utu.fi/dep_search)
-  maintained by the University of Turku, or
-* [PML Tree Query](http://lindat.mff.cuni.cz/services/pmltq/)
-  maintained by the Charles University in Prague.
-
-# Stay up to date
-
-If you want to receive news about Universal Dependencies, you can subscribe to
-the [UD mailing list](http://stp.lingfil.uu.se/mailman/listinfo/ud).
-
-See also the [list of open issues](issues.html)
-and what was decided about them at the [Uppsala meeting](uppsala.html).
-
-# Contribute
-
-[How to contribute](contributing.html).
-Also please read the [instructions](language_metadata.html) for adding a new language and encoding its metadata.
-Follow the steps in the [release checklist](release_checklist.html) and
-make sure your data shows as validating in the [automatic validation runs](validation.html).
-See [svalidation](svalidation.html) for any suspicious patterns in the data;
-there are direct links to our treebank search that you can use to browse the suspicious data points.
-Check the [list of contributors](contributors.html) is correct—this is gathered from the [metadata](language_metadata.html) in the readme.
-
-There is a separate [page about tools](tools.html) that are available for work with UD data.
+* The next release (v2.13) is scheduled for November 15, 2023 (data freeze on November 1).
+* Version 2.12 treebanks are available at <a href="http://hdl.handle.net/11234/1-5150">http://hdl.handle.net/11234/1-5150</a>. 245 treebanks, 141 languages, released May 15, 2023.
+* Version 2.11 treebanks are archived at http://hdl.handle.net/11234/1-4923. 243 treebanks, 138 languages, released November 15, 2022.
+* Version 2.10 treebanks are archived at http://hdl.handle.net/11234/1-4758. 228 treebanks, 130 languages, released May 15, 2022.
+* Version 2.9 treebanks are archived at http://hdl.handle.net/11234/1-4611. 217 treebanks, 122 languages, released November 15, 2021.
+* Version 2.8 treebanks are archived at http://hdl.handle.net/11234/1-3687. 202 treebanks, 114 languages, released May 15, 2021.
+* Version 2.7 treebanks are archived at http://hdl.handle.net/11234/1-3424. 183 treebanks, 104 languages, released November 15, 2020.
+* Version 2.6 treebanks are archived at http://hdl.handle.net/11234/1-3226. 163 treebanks, 92 languages, released May 15, 2020.
+* Version 2.5 treebanks are archived at http://hdl.handle.net/11234/1-3105. 157 treebanks, 90 languages, released November 15, 2019.
+* Version 2.4 treebanks are archived at http://hdl.handle.net/11234/1-2988. 146 treebanks, 83 languages, released May 15, 2019.
+* Version 2.3 treebanks are archived at http://hdl.handle.net/11234/1-2895. 129 treebanks, 76 languages, released November 15, 2018.
+* Version 2.2 treebanks are archived at http://hdl.handle.net/11234/1-2837. 122 treebanks, 71 languages, released July 1, 2018.
+* Version 2.1 treebanks are archived at http://hdl.handle.net/11234/1-2515. 102 treebanks, 60 languages, released November 15, 2017.
+* Version 2.0 treebanks are archived at http://hdl.handle.net/11234/1-1983. 70 treebanks, 50 languages, released March 1, 2017.
+  * Test data 2.0 are archived at http://hdl.handle.net/11234/1-2184. 81 treebanks, 49 languages, released May 18, 2017.
+* Version 1.4 treebanks are archived at http://hdl.handle.net/11234/1-1827. 64 treebanks, 47 languages, released November 15, 2016.
+* Version 1.3 treebanks are archived at http://hdl.handle.net/11234/1-1699. 54 treebanks, 40 languages, released May 15, 2016.
+* Version 1.2 treebanks are archived at http://hdl.handle.net/11234/1-1548. 37 treebanks, 33 languages, released November 15, 2015.
+* Version 1.1 treebanks are archived at http://hdl.handle.net/11234/LRT-1478. 19 treebanks, 18 languages, released May 15, 2015.
+* Version 1.0 treebanks are archived at http://hdl.handle.net/11234/1-1464. 10 treebanks, 10 languages, released January 15, 2015.
+* In general, we intend to have regular treebank releases every six months. The v2.0 and v2.2 releases were brought forward because of their usage in the [CoNLL 2017 and 2018 Multilingual Parsing Shared Tasks](http://universaldependencies.org/conll17/).

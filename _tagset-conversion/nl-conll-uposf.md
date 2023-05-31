@@ -1,6 +1,7 @@
 ---
 layout: base
 title: 'Tagset nl::conll conversion to universal POS tags and features'
+udver: '2'
 ---
 
 <a href="index.html">all tables</a>
@@ -54,11 +55,11 @@ Tagset <tt>nl::conll</tt>, total 208 tags.
   <tr><td>Art Art bep|zijdofonzijd|gen</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Definite=Def|Number=Sing|PronType=Art</td><td><em>des</em></td></tr>
   <tr style="background:lightgray"><td>Art Art bep|zijd|dat</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Definite=Def|Gender=Com|PronType=Art</td><td><em>den</em></td></tr>
   <tr><td>Art Art onbep|zijdofonzijd|neut</td><td>=&gt;</td><td>DET</td><td>Definite=Ind|Number=Sing|PronType=Art</td><td><em>een, 'n, CERN</em></td></tr>
-  <tr style="background:lightgray"><td>Conj Conj neven</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em>en, maar, of, want, zowel</em></td></tr>
+  <tr style="background:lightgray"><td>Conj Conj neven</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em>en, maar, of, want, zowel</em></td></tr>
   <tr><td>Conj Conj onder|metfin</td><td>=&gt;</td><td>SCONJ</td><td>_</td><td><em>dat, als, dan, omdat, of</em></td></tr>
   <tr style="background:lightgray"><td>Conj Conj onder|metinf</td><td>=&gt;</td><td>SCONJ</td><td>_</td><td><em>om, zonder, door, teneinde, na</em></td></tr>
   <tr><td>Int Int _</td><td>=&gt;</td><td>INTJ</td><td>_</td><td><em>ja, nee, Cryptogram, hoor, uh</em></td></tr>
-  <tr style="background:lightgray"><td>Misc Misc vreemd</td><td>=&gt;</td><td>X</td><td>Foreign=Foreign</td><td><em>sarx, the, jazz, plaats, Bevrijding</em></td></tr>
+  <tr style="background:lightgray"><td>Misc Misc vreemd</td><td>=&gt;</td><td>X</td><td>Foreign=Yes</td><td><em>sarx, the, jazz, plaats, Bevrijding</em></td></tr>
   <tr><td>N N eigen|ev|gen</td><td>=&gt;</td><td>PROPN</td><td>Case=Gen|Number=Sing</td><td><em>Wiens, Appels, Smetana's, Mozarts, Hitlers</em></td></tr>
   <tr style="background:lightgray"><td>N N eigen|ev|neut</td><td>=&gt;</td><td>PROPN</td><td>Number=Sing</td><td><em>Nederland, Amsterdam, zaterdag, Groningen, Rotterdam</em></td></tr>
   <tr><td>N N eigen|mv|neut</td><td>=&gt;</td><td>PROPN</td><td>Number=Plur</td><td><em>NS, VS, zaken, Hoogovens, economische</em></td></tr>

@@ -1,6 +1,7 @@
 ---
 layout: base
 title: 'Tagset de::smor conversion to universal POS tags and features'
+udver: '2'
 ---
 
 <a href="index.html">all tables</a>
@@ -243,8 +244,8 @@ Tagset <tt>de::smor</tt>, total 857 tags.
   <tr style="background:lightgray"><td>&lt;+CARD&gt;&lt;Subst&gt;&lt;NoGend&gt;&lt;Dat&gt;&lt;Pl&gt;&lt;St&gt;</td><td>=&gt;</td><td>NOUN</td><td>Case=Dat|Number=Plur|NumType=Card</td><td><em></em></td></tr>
   <tr><td>&lt;+CARD&gt;&lt;Subst&gt;&lt;NoGend&gt;&lt;Nom&gt;&lt;Pl&gt;</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Number=Plur|NumType=Card</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>&lt;+CARD&gt;&lt;Subst&gt;&lt;NoGend&gt;&lt;Nom&gt;&lt;Pl&gt;&lt;St&gt;</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Number=Plur|NumType=Card</td><td><em></em></td></tr>
-  <tr><td>&lt;+CONJ&gt;&lt;Compar&gt;</td><td>=&gt;</td><td>CONJ</td><td>ConjType=Comp</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>&lt;+CONJ&gt;&lt;Coord&gt;</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em></em></td></tr>
+  <tr><td>&lt;+CONJ&gt;&lt;Compar&gt;</td><td>=&gt;</td><td>CCONJ</td><td>ConjType=Comp</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>&lt;+CONJ&gt;&lt;Coord&gt;</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em></em></td></tr>
   <tr><td>&lt;+CONJ&gt;&lt;Sub&gt;</td><td>=&gt;</td><td>SCONJ</td><td>_</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>&lt;+DEM&gt;&lt;Attr&gt;&lt;Fem&gt;&lt;Acc&gt;&lt;Sg&gt;</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
   <tr><td>&lt;+DEM&gt;&lt;Attr&gt;&lt;Fem&gt;&lt;Acc&gt;&lt;Sg&gt;&lt;St&gt;</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
@@ -716,7 +717,7 @@ Tagset <tt>de::smor</tt>, total 857 tags.
   <tr><td>&lt;+PREPART&gt;&lt;Neut&gt;&lt;Dat&gt;&lt;Sg&gt;</td><td>=&gt;</td><td>ADP</td><td>AdpType=Preppron|Case=Dat|Gender=Neut|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>&lt;+PROADV&gt;</td><td>=&gt;</td><td>ADV</td><td>PronType=Dem,Rel</td><td><em></em></td></tr>
   <tr><td>&lt;+PTCL&gt;&lt;Ans&gt;</td><td>=&gt;</td><td>PART</td><td>PartType=Res</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>&lt;+PTCL&gt;&lt;Neg&gt;</td><td>=&gt;</td><td>PART</td><td>Negative=Neg</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>&lt;+PTCL&gt;&lt;Neg&gt;</td><td>=&gt;</td><td>PART</td><td>Polarity=Neg</td><td><em></em></td></tr>
   <tr><td>&lt;+PUNCT&gt;&lt;Comma&gt;</td><td>=&gt;</td><td>PUNCT</td><td>PunctType=Comm</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>&lt;+PUNCT&gt;&lt;Left&gt;</td><td>=&gt;</td><td>PUNCT</td><td>PunctSide=Ini</td><td><em></em></td></tr>
   <tr><td>&lt;+PUNCT&gt;&lt;Norm&gt;</td><td>=&gt;</td><td>PUNCT</td><td>PunctType=Peri</td><td><em></em></td></tr>

@@ -1,0 +1,18 @@
+---
+layout: relation
+title: 'advcl:mcl'
+shortdef: 'adverbial clause with modal modality'
+udver: '2'
+---
+
+The _advcl:mcl_ relation is used for adverbal modal clauses.
+A modal clause is a subtype of the [advcl]() relation: if the subordinate clause is specifying a modality, it is labeled as `mcl`.
+This is parallel to [advmod:mmod](), which covers modal modifiers that are realized as adverbs.
+
+~~~ sdparse
+Морт тэ, адзза, простӧй,... \n You, I see, are a simple person,...
+advcl:mcl(простӧй, адзза)
+
+~~~
+
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:55 CEST -->

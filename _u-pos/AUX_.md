@@ -1,27 +1,40 @@
 ---
 layout: postag
 title: 'AUX'
-shortdef: 'auxiliary verb'
+shortdef: 'auxiliary'
 # The filename "aux" is not allowed on Windows, so we redirect instead
 # (see https://github.com/UniversalDependencies/docs/issues/20)
 redirect_from: "u/pos/AUX.html"
+udver: '2'
 ---
 
 ### Definition
 
-An auxiliary verb is a verb that accompanies the lexical verb of a
+An auxiliary is a function word that accompanies the lexical verb of a
 verb phrase and expresses grammatical distinctions not carried by the
-lexical verb, such as person, number, tense, mood, aspect, and voice.
+lexical verb, such as person, number, tense, mood, aspect, voice or evidentiality.
+It is often a verb (which may have non-auxiliary uses as well) but many languages
+have nonverbal TAMVE markers and these should also be tagged `AUX`. The class `AUX`
+also include copulas (in the narrow sense of pure linking words for nonverbal predication).
+
+Less commonly, an auxiliary may just cross-reference person and number of a core argument,
+without also expressing any TAMVE (tense, aspect, mood, voice, evidentiality) feature.
+This only applies if the auxiliary is spelled as a separate word; if it is written together
+with the verbal stem, annotate the cross-reference (agreement) features on the verb and
+do not attempt to cut the agreement morpheme as a separate syntactic word. Even if written
+separately, the default approach is to treat such words as personal pronouns ([PRON]()).
+But if there are strong arguments against a pronoun analysis, it is possible to use `AUX`
+instead. [Issue #782](https://github.com/UniversalDependencies/docs/issues/782) discusses
+examples from K'iche' [quc].
 
 _Modal verbs_ may count as auxiliaries in some languages (English). In
 other languages their behavior is not too different from the [main
-verbs](VERB) and they are thus tagged `VERB`. _Copulas_ also stay with
-main verbs.
+verbs](VERB) and they are thus tagged `VERB`.
 
-Note that not all languages have grammaticalized auxiliary verbs, and
+Note that not all languages have grammaticalized auxiliaries, and
 even where they exist the dividing line between full verbs and
-auxiliary verbs can be expected to vary between languages. Exactly
-which verbs are counted as `AUX` should be part of the
+auxiliaries can be expected to vary between languages. Exactly
+which words are counted as `AUX` should be part of the
 language-specific documentation.
 
 ### Examples
@@ -29,8 +42,11 @@ language-specific documentation.
 - Tense auxiliaries: _<b>has</b> (done), <b>is</b> (doing), <b>will</b> (do)_
 - Passive auxiliaries: _<b>was</b> (done), <b>got</b> (done)_
 - Modal auxiliaries: _<b>should</b> (do), <b>must</b> (do)_
+- Verbal copulas: _He <b>is</b> a teacher._
+- Agreement auxiliaries: [quc] _<b>la</b> (2nd person singular formal), <b>alaq</b> (2nd person plural formal)_
 
 ### References
 
 - [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is an auxiliary verb?](http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAnAuxiliaryVerb.htm)
 - [Wikipedia](http://en.wikipedia.org/wiki/Auxiliary_verb)
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:23 CEST -->

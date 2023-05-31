@@ -1,6 +1,7 @@
 ---
 layout: base
 title: 'Tagset la::conll conversion to universal POS tags and features'
+udver: '2'
 ---
 
 <a href="index.html">all tables</a>
@@ -112,7 +113,7 @@ Tagset <tt>la::conll</tt>, total 419 tags.
   <tr><td>a a pos=a|per=-|num=s|ten=-|mod=-|voi=-|gen=n|cas=n|deg=c</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Cmp|Gender=Neut|Number=Sing</td><td><em>levius, minus, melius, rectius, gravius</em></td></tr>
   <tr style="background:lightgray"><td>a a pos=a|per=-|num=s|ten=-|mod=-|voi=-|gen=n|cas=n|deg=s</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Sup|Gender=Neut|Number=Sing</td><td><em>bellissimum, facillumum</em></td></tr>
   <tr><td>a a pos=a|per=-|num=s|ten=-|mod=-|voi=-|gen=n|cas=v|deg=-</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Gender=Neut|Number=Sing</td><td><em>primum</em></td></tr>
-  <tr style="background:lightgray"><td>c c pos=c|per=-|num=-|ten=-|mod=-|voi=-|gen=-|cas=-|deg=-</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em>et, que, ut, atque, si</em></td></tr>
+  <tr style="background:lightgray"><td>c c pos=c|per=-|num=-|ten=-|mod=-|voi=-|gen=-|cas=-|deg=-</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em>et, que, ut, atque, si</em></td></tr>
   <tr><td>d d pos=d|per=-|num=-|ten=-|mod=-|voi=-|gen=-|cas=-|deg=-</td><td>=&gt;</td><td>ADV</td><td>_</td><td><em>non, ne, iam, etiam, tamen</em></td></tr>
   <tr style="background:lightgray"><td>d d pos=d|per=-|num=-|ten=-|mod=-|voi=-|gen=-|cas=-|deg=c</td><td>=&gt;</td><td>ADV</td><td>Degree=Cmp</td><td><em>plus, valdius</em></td></tr>
   <tr><td>d d pos=d|per=-|num=-|ten=-|mod=-|voi=-|gen=-|cas=-|deg=s</td><td>=&gt;</td><td>ADV</td><td>Degree=Sup</td><td><em>cupidissume, optimemanu</em></td></tr>

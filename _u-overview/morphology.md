@@ -2,11 +2,12 @@
 layout: base
 title:  'Morphology'
 permalink: u/overview/morphology.html
+udver: '2'
 ---
 
 # Morphology: General Principles
 
-The UD scheme allows the specification of a complete morpho-syntactic representation that can be applied cross-linguistically. This effectively means that grammatical notions may be indicated via word forms (morphologically) or via dependency relations (syntactically). The morphological specification of a (syntactic) word in the UD scheme consists of three levels of representation:
+UD specifies a complete morpho-syntactic representation that can be applied cross-linguistically. This effectively means that grammatical notions may be indicated via word forms (morphologically) or via dependency relations (syntactically). The morphological specification of a (syntactic) word in the UD scheme consists of three levels of representation:
 
 * A _lemma_ representing the semantic content of the word.
 * A _part-of-speech tag_ representing the abstract lexical category associated with the word.
@@ -15,52 +16,112 @@ The UD scheme allows the specification of a complete morpho-syntactic representa
 Lemmas are typically determined by language-specific dictionaries and lexica. In contrast, the part-of-speech tags and grammatical properties are taken from two universal inventories defined below.
 
 Unlike in various language-specific tagsets, the universal tags and features do not
-include means to mark _fusion words_ (a word that is result of
+include means to mark _fused words_ (a word that is result of
 merging two other words, which are syntactically independent and belong to
 different parts of speech):
 Czech _dělals (dělal + jsi_ ... main verb + auxiliary); _proň (pro + něj_ ... preposition + pronoun);
 German _zum (zu + dem_ ... preposition + article);
 Spanish _dámelo (da + me + lo_ ... verb + clitics) etc.
-The only truly general approach to fusion words is to apply
-a language-specific processing step that will split tokens into syntactic words
-where necessary. Every syntactic word will then get its own part-of-speech tag
+The only truly general approach to fused words in UD is to exploit the distinction between tokens and (syntactic) words,
+and to apply a language-specific processing step that splits tokens into syntactic words
+where necessary. Every syntactic word then gets its own part-of-speech tag
 and features. See also <a href="tokenization.html">Tokenization</a> and
 <a href="../../format.html">Format</a>.
 
 ## Lemmas
 
-The `LEMMA` field should contain the canonical or base form of the word, such as the form typically found in dictionaries.
-
+The `LEMMA` field should contain the canonical or base form of the word, which is the form typically found in dictionaries.
+If a language is agglutinative, this is typically the form with no inflectional affixes; in fusional languages,
+the lemma is usually the result of a language-particular convention.
 If the lemma is not available, an underscore ("`_`") can be used to indicate its absence.
+
+At present, treebanks have considerable leeway in interpreting what "canonical or base form" means.
+Except perhaps in rare cases of suppletion, one form should be the chosen as the lemma of a verb, noun, determiner, or pronoun paradigm.
+The lemma of adjectives and adverbs should be the positive form (in languages with comparative and superlative forms).
+The lemma does not remove derivational morphology, so the lemma of [en] _organizations_ is _organization_ not _organize_ (nor _organ_).
+In general, a canonical form should collapse inflectional and minor orthographic/spelling variation
+(such as casing, accents/diacritics, and typos). In the lemma field, some treebanks may choose
+to aggressively normalize spelling variation that may reflect dialect or authorial style.
+
+Abbreviated/shortened forms can be mapped to their full spelling as the lemma
+in conjunction with the feature [`Abbr=Yes`](../feat/Abbr.html), provided that the full spelling
+is a single word. Abbreviations that would expand to multiple words should be retained in the lemma.
 
 The `LEMMA` field should not be used to encode features or other similar properties of the word (use `FEATS` and `MISC` instead; see [format](../../format.html)).
 
+Some corpora use numerical specifiers to distinguish homonymous lemmas, different word senses etc. (e.g. [en] _can-1_ vs. _can-2_).
+In UD, such specifiers must not appear in the `LEMMA` field because they are not part of the canonical surface form.
+If unique lemma identifiers are available, they can be preserved in the `MISC` column in the optional `LId` attribute
+(`LId=can-1`).
+
+### Lemmas of misspelled words
+
+*Details at: [Typos and Other Errors](typos.html)*
+
+In addition to normalizing spelling in lemmas, treebanks are encouraged to adopt the optional morphological feature
+[`Typo=Yes`](../feat/Typo.html) for clear accidental misspellings of a word (e.g. *ltake* for *take* or *too* for *to*).
+Typos of words in closed-class categories can be found in a corpus by inspecting word frequencies in each category.
+Treebank maintainers should take care not to use `Typo=Yes` for words that may reflect actual linguistic variation,
+e.g., dialect, style, or nonnative grammar.
+
+On occasion, a typo or abbreviation will apply to an inflected word (e.g. *hadd* for *had*), and thus the lemma
+should both normalize the spelling and remove the inflection.
+
+For incorrectly split words, the first segment should be treated as morphologically representing the entire word,
+so it should have the lemma for the entire word, as described at [Typos and Other Errors](typos.html).
+
 ## Part-of-Speech Tags
 
-The list of <a href="../../u/pos/index.html">universal POS tags</a> is
-a fixed list containing 17 tags.  
-It is possible that some tags will not be used in some
-languages. However, the list cannot be extended to cover
-language-specific extensions. Instead, more fine-grained
-classification of words can be achieved via the use of 
+The list of <a href="../../u/pos/index.html">universal POS tags</a> is a fixed list containing 17 tags.
+It is possible that some tags will not be used in some languages. However, the list cannot be extended to cover
+language-specific extensions. Instead, more fine-grained classification of words can be achieved via the use of
 <a href="../../u/feat/index.html">features</a> (see below).
 
 Also, note that the <a href="../../format.html">CoNLL-U format</a>
-allows an additional POSTAG, taken from a language-specific
-(or corpus-specific) tagset. Such language-specific POSTAGs have their own
+allows an additional XPOS, taken from a language-specific
+(or corpus-specific) tagset. Such language-specific XPOSes have their own
 data column and are not mixed with the universal POS tags.
 
 The universal POS tags consist of uppercase English letters `[A-Z]` only.
 Just one tag per word is expected, and it should not be empty. (Use the `X` tag
 instead of underscore if no other tag is appropriate.)
 
+### Tagging principles
+
+A word's category should be primarily determined by prototypical (expected) syntactic behavior,
+as typically recorded in a dictionary, rather than by the context of a particular sentence.
+Syntax still plays an important role, especially in cross-linguistic mapping of same-named categories.
+However, prototypical (expected) syntactic behavior is of more importance than function performed in exceptional contexts.
+
+Morphological behavior may be a good indicator in some languages.
+If, for example, a language uses distinct inflection patterns for nouns and adjectives, then
+morphology can be used to distinguish these two categories. Exceptions cannot be excluded but they
+should be really exceptional and well grounded; when in doubt, use the category determined by
+morphology (if available).
+
+Ambiguous words (belonging to two or more categories) do exist. Sometimes by pure coincidence
+([en] _the can_ vs. _can = to be able to_). Sometimes the two words are related but differ
+morphologically ([en] _the book(s)_ vs. _to book, booked, booking_).
+
+Perhaps the most difficult part are ambiguous function words that do not inflect (i.e. morphology
+does not help us), yet they perform two or more _significantly_ different syntactic functions,
+which we normally associate with different parts of speech. The two functions may not be equally
+frequent but each of them is more frequent than what could be labeled as a mere exception (i.e.,
+the _wait for his ‘yes’_ example below is exceptional). Disambiguating such pairs clearly depends
+on the context of the given sentence where the word is used.
+So how do we know that the difference is “significant enough”? One clue is that the word, when
+translated to another language, gets two different translations with different POS tags (e.g.,
+the English _no_ as response interjection, vs. negative determiner). Another clue comes from
+contrasting the UD relations used for the two functions. For example, distinguishing `PRON`
+from `SCONJ` ([en] _that_, [es] _que_, [ru] _что_ / _čto_) is important because pronouns, unlike
+conjunctions, may become core arguments and fill valency slots of verbs. Distinguishing `SCONJ`
+from `ADP`, or `CCONJ` from `ADV` seems less crucial and we can keep just one POS tag
+for each such word, based on prototypical usage.
+
 ### Using a word vs. mentioning it
 
-The universal POS tags focus more on _what the word is_ than on _which construction it is used in_
-(the latter is specified by the
-[dependency relation labels](../../u/dep/index.html)).
-In particular, the POS tags do not distinguish actual usage of a word from just mentioning it.
-Thus in both the following examples, _yes_ will be tagged as interjection:
+The universal POS tags should capture regular, prevailing syntactic behavior, as well as morphological characteristics
+when available, and should not reflect sentence-specific exceptional behavior. In particular, the POS tags do not distinguish actual usage of a word from just mentioning it. Thus in both the following examples, _yes_ will be tagged as interjection:
 
 * _Yes, I think so._
 * _I am waiting for his ‘yes’ on the matter._
@@ -70,9 +131,34 @@ Similarly, in both the following examples, _precede_ will be tagged as verb:
 * _Such discussion must precede every decision._
 * _He pronounced ‘precede’ in a funny way._
 
+### Pronominal words
+
+Pronominal words are [pronouns](/u/pos/PRON.html), [determiners](/u/pos/DET.html) (articles and pronominal adjectives),
+pronominal [adverbs](/u/pos/ADV.html) _(where, when, how)_, and in traditional grammars of some languages also pronominal [numerals](/u/pos/NUM.html) _(how much)_.
+
+* In most cases it is straightforward to determine whether a word is pronominal (see also the [PronType](/u/feat/PronType.html) feature)
+  but the borderline between indefinite determiners and adjectives is slightly fuzzy. Related languages should synchronize the lists of words
+  they treat as pronominal. The rest of these guidelines demarcate borders within the pronominal group.
+* Pronominal adverbs are tagged `ADV`. Their pronominality is encoded using the `PronType` feature. Their typical syntactic function is to modify verbs.
+* Articles _(the, a, an)_ are always tagged `DET`; their `PronType` is `Art`.
+* Pronominal numerals (quantifiers) are tagged `DET`; besides `PronType`, they also use the [NumType](/u/feat/NumType.html) feature.
+* Words that behave similar to adjectives are `DET`.
+  (We understand the `DET` class as pro-adjectives, which is a slightly broader sense than what is usually regarded as determiners in English.
+  In particular, it is possible that one nominal is modified by more than one determiner.) Similar behavior means:
+  * They are more likely to be used attributively (modifying a noun phrase) than substantively (replacing a noun phrase). They may occur alone, though.
+    If they do, it is either because of ellipsis, or because the hypothetical modified noun is something unspecified and general, as in _All [visitors] must pay._
+  * Their inflection is similar to that of adjectives, and distinct from nouns. They agree with the nouns they modify.
+    Especially the ability to inflect for gender is typical for adjectives and determiners.
+    (Gender of nouns is determined lexically and determiners may be required by the grammar to agree with their nouns in gender; therefore they need to inflect for gender.)
+* Non-possessive personal, reflexive or reciprocal pronouns are always tagged `PRON`.
+* Possessives vary across languages. In some languages the above tests put them in the `DET` category.
+  In others, they are more like a normal personal pronoun in a specific case (often the genitive), or a personal pronoun with an adposition; they are tagged `PRON`.
+* When the above rules do not help, the category should be based on what the traditional grammar of the language says.
+* Ideally, language-specific documentation should list pronominal words and their category. These are all closed classes so it should not be difficult.
+
 ### See also
 
-The guidelines for the following cases are documented on the referenced pages
+The guidelines for the following special cases are documented on the referenced pages
 for specific POS tags:
 
 * Abbreviations and acronyms: described under [SYM]()
@@ -83,6 +169,22 @@ Features are additional pieces of information about the word, its part of speech
 and morphosyntactic properties. Every feature has the form `Name=Value` and
 every word can have any number of features, separated by the vertical bar, as in
 `Gender=Masc|Number=Sing`.
+
+Analogically to part-of-speech tags, features describe the word form but not
+necessarily its exact function in the given sentence. Most of the features are
+for locating the form in a slot of a morphological paradigm, and are canonical
+labels for the slot. Thus, for example, the [Voice]() feature is used in Czech
+to distinguish passive participles (_prodán_ “sold” `Voice=Pass`), which are
+morphologically distinct from active participles (_prodal_ “sold” `Voice=Act`);
+however, the feature is not used in English, where the same form is used in
+active and passive constructions alike (cf. _he has sold it_ vs. _it was sold_).
+On the other hand, some word forms are homonymous and context must be used to
+identify the paradigm slot to which they belong. For example, the morphological
+paradigm of Czech nouns distinguishes nominative and accusative (among other
+[Case]() values), as in _matka_ “mother” `Case=Nom` vs. _matku_ `Case=Acc`.
+Nevertheless, due to case syncretism, some other lexemes have the same form in these
+two paradigm slots, e.g. _píseň_ “song” is either `Case=Nom` or `Case=Acc` and
+it has to be disambiguated by context.
 
 We provide an <a href="../../u/feat/index.html">inventory of
 features</a> that are attested in multiple corpora and it is thus
@@ -102,10 +204,10 @@ Universal and language-specific features of a word are listed together in the FE
   occasionally, digits 0-9. The first letter is always uppercase.
   The other letters are generally lowercase, except for positions where new
   internal words are marked for better readability (e.g. `NumType`).
-  This makes features distinct from the 
-  <a href="../../u/pos/index.html">universal POS tags</a> 
-  (all uppercase) and from the 
-  <a href="../../u/dep/index.html">universal dependency relations</a> 
+  This makes features distinct from the
+  <a href="../../u/pos/index.html">universal POS tags</a>
+  (all uppercase) and from the
+  <a href="../../u/dep/index.html">universal dependency relations</a>
   (all lowercase).
 * A feature of a word should always be fully specified in the data, i.e. both
   the feature name and the value should be identified: `PronType=Prs`.

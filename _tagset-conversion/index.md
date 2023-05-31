@@ -1,6 +1,7 @@
 ---
 layout: base
 title: 'Tagset conversion tables'
+udver: '2'
 ---
 
 ## Tagset conversion tables to universal tags and features
@@ -36,7 +37,7 @@ such use of syntactic content of morphological analysis, and hence this automati
 * <a href="de-smor-uposf.html">de::smor</a> (German)
 * <a href="de-stts-uposf.html">de::stts</a> (German)
 * <a href="el-conll-uposf.html">el::conll</a> (Greek)
-* <a href="en-penn-uposf.html">en::penn</a> (English) (see also the Tsurgeon converter on the <a href="../en/overview/morphology.html">English POS and Morphology page</a>)
+* <a href="en-penn-uposf.html">en::penn</a> (English) (see also the Tsurgeon converter on the <a href="/en/morphology.html">English POS and Morphology page</a>)
 * <a href="es-conll2009-uposf.html">es::conll2009</a> (Spanish)
 * <a href="et-puudepank-uposf.html">et::puudepank</a> (Estonian)
 * <a href="eu-conll-uposf.html">eu::conll</a> (Basque)
@@ -53,12 +54,15 @@ such use of syntactic content of morphological analysis, and hence this automati
 * <a href="ja-ipadic-uposf.html">ja::ipadic</a> (Japanese)
 * <a href="la-conll-uposf.html">la::conll</a> (Latin)
 * <a href="la-itconll-uposf.html">la::itconll</a> (Latin)
+* <a href="lt-jablonskis-uposf.html">lt::jablonskis</a> (Lithuanian)
+* <a href="lt-multext-uposf.html">lt::multext</a> (Lithuanian)
 * <a href="mt-mlss-uposf.html">mt::mlss</a> (Maltese)
 * <a href="nl-conll-uposf.html">nl::conll</a> (Dutch)
 * <a href="nl-cgn-uposf.html">nl::cgn</a> (Dutch)
 * <a href="pl-ipipan-uposf.html">pl::ipipan</a> (Polish)
 * <a href="pt-cintil-uposf.html">pt::cintil</a> (Portuguese)
 * <a href="pt-conll-uposf.html">pt::conll</a> (Portuguese)
+* <a href="pt-freeling-uposf.html">pt::freeling</a> (Portuguese)
 * <a href="ro-multext-uposf.html">ro::multext</a> (Romanian)
 * <a href="ro-rdt-uposf.html">ro::rdt</a> (Romanian)
 * <a href="ru-syntagrus-uposf.html">ru::syntagrus</a> (Russian)

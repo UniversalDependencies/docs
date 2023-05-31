@@ -2,7 +2,18 @@
 layout: feature
 title: 'Gender'
 shortdef: 'gender'
+udver: '2'
 ---
+
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Com">Com</a></td>
+  <td><a href="#Fem">Fem</a></td>
+  <td><a href="#Masc">Masc</a></td>
+  <td><a href="#Neut">Neut</a></td>
+</tr>
+</table>
 
 `Gender` is usually a lexical feature of [nouns](u-pos/NOUN) and inflectional feature
 of other parts of speech ([pronouns](u-pos/PRON),
@@ -14,13 +25,11 @@ English tagsets.
 
 See also the related feature of [Animacy]().
 
-African languages have an analogous feature of noun classes: there
+African languages have an analogous feature of [noun classes](NounClass): there
 might be separate grammatical categories for flat objects, long thin
-objects etc. African noun classes are not covered in the current
-proposal because none of the tagsets on which the proposal is based
-are for a language with noun classes. They might be added in future.
+objects etc.
 
-### `Masc`: masculine gender
+### <a name="Masc">`Masc`</a>: masculine gender
 
 Nouns denoting male persons are masculine. Other nouns may be also
 grammatically masculine, without any relation to sex.
@@ -29,7 +38,7 @@ grammatically masculine, without any relation to sex.
 
 * [cs] _<b>hrad</b>_ "castle"
 
-### `Fem`: feminine gender
+### <a name="Fem">`Fem`</a>: feminine gender
 
 Nouns denoting female persons are feminine. Other nouns may be also
 grammatically feminine, without any relation to sex.
@@ -38,7 +47,7 @@ grammatically feminine, without any relation to sex.
 
 * [de] _<b>Burg</b>_ "castle"
 
-### `Neut`: neuter gender
+### <a name="Neut">`Neut`</a>: neuter gender
 
 Some languages have only the masculine/feminine distinction while
 others also have this third gender for nouns that are neither
@@ -46,9 +55,11 @@ masculine nor feminine (grammatically).
 
 #### Examples
 
+* [en] _<b>castle</b>_
 * [cs] _<b>dítě</b>_ "child"
+* [sv] _<b>barn</b>_ "child"
 
-### `Com`: common gender
+### <a name="Com">`Com`</a>: common gender
 
 Some languages do not distinguish masculine/feminine most of the time
 but they do distinguish neuter vs. non-neuter (Swedish neutrum /
@@ -75,3 +86,9 @@ Therefore in Spanish we should not tag _grande_ with `Gender=Com`.
 Instead, we should either drop the gender feature entirely
 (suggesting that this word does not inflect for gender)
 or tag individual instances of _grande_ as either masculine or feminine, depending on context.
+
+#### Examples
+
+* [sv] _<b>väg</b>_ "way"
+
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:37 CEST -->

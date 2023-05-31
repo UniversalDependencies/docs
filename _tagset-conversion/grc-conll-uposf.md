@@ -1,6 +1,7 @@
 ---
 layout: base
 title: 'Tagset grc::conll conversion to universal POS tags and features'
+udver: '2'
 ---
 
 <a href="index.html">all tables</a>
@@ -121,8 +122,8 @@ Tagset <tt>grc::conll</tt>, total 950 tags.
   <tr style="background:lightgray"><td>a a pos=a|per=-|num=s|ten=-|mod=-|voi=-|gen=n|cas=n|deg=s</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Sup|Gender=Neut|Number=Sing</td><td><em>μέγιστον, πιότατον, αἴσχιστον, φέρτατον, πρῶτον</em></td></tr>
   <tr><td>a a pos=a|per=-|num=s|ten=-|mod=-|voi=-|gen=n|cas=v|deg=-</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Gender=Neut|Number=Sing</td><td><em>φίλον, διογενὲς, ἐμόν, ἐμὸν, μέγα</em></td></tr>
   <tr style="background:lightgray"><td>a a pos=a|per=-|num=s|ten=-|mod=-|voi=-|gen=n|cas=v|deg=s</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Degree=Sup|Gender=Neut|Number=Sing</td><td><em>κακοπινέστατόν, φαεννότατον, τελειότατον</em></td></tr>
-  <tr><td>c c pos=c|per=-|num=-|ten=-|mod=-|voi=-|gen=-|cas=-|deg=-</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em>καὶ, ἐπεὶ, εἰ, ἢ, καί</em></td></tr>
-  <tr style="background:lightgray"><td>c c pos=c|per=2|num=s|ten=a|mod=-|voi=p|gen=-|cas=-|deg=-</td><td>=&gt;</td><td>CONJ</td><td>Number=Sing|Person=2|Tense=Aor|Voice=Pass</td><td><em>κπλαγῇς</em></td></tr>
+  <tr><td>c c pos=c|per=-|num=-|ten=-|mod=-|voi=-|gen=-|cas=-|deg=-</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em>καὶ, ἐπεὶ, εἰ, ἢ, καί</em></td></tr>
+  <tr style="background:lightgray"><td>c c pos=c|per=2|num=s|ten=a|mod=-|voi=p|gen=-|cas=-|deg=-</td><td>=&gt;</td><td>CCONJ</td><td>Number=Sing|Person=2|Tense=Aor|Voice=Pass</td><td><em>κπλαγῇς</em></td></tr>
   <tr><td>d d pos=d|per=-|num=-|ten=-|mod=-|voi=-|gen=-|cas=-|deg=-</td><td>=&gt;</td><td>ADV</td><td>_</td><td><em>οὐ, ὣς, καὶ, οὔ, ἀλλ’</em></td></tr>
   <tr style="background:lightgray"><td>d d pos=d|per=-|num=-|ten=-|mod=-|voi=-|gen=-|cas=-|deg=c</td><td>=&gt;</td><td>ADV</td><td>Degree=Cmp</td><td><em>μᾶλλον, ἆσσον</em></td></tr>
   <tr><td>d d pos=d|per=-|num=-|ten=-|mod=-|voi=-|gen=-|cas=-|deg=s</td><td>=&gt;</td><td>ADV</td><td>Degree=Sup</td><td><em>μάλιστα, μάλιστ’, ἰθύντατα, μάλιστά</em></td></tr>

@@ -2,6 +2,7 @@
 layout: relation
 title: 'det'
 shortdef: 'determiner'
+udver: '2'
 ---
 
 The relation determiner (`det`) holds between a nominal head and its
@@ -18,3 +19,4 @@ det(man, The)
 Which book do you prefer ?
 det(book, Which)
 ~~~
+<!-- Interlanguage links updated Út 9. května 2023, 20:04:12 CEST -->

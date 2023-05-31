@@ -1,6 +1,7 @@
 ---
 layout: base
 title: 'Tagset ro::multext conversion to universal POS tags and features'
+udver: '2'
 ---
 
 <a href="index.html">all tables</a>
@@ -33,12 +34,12 @@ Tagset <tt>ro::multext</tt>, total 279 tags.
   <tr style="background:lightgray"><td>Afpms-n</td><td>=&gt;</td><td>ADJ</td><td>Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing</td><td><em>român, nou, internațional, bun, important</em></td></tr>
   <tr><td>Afpmsoy</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing</td><td><em>marelui, responsabilului, noului, prezentului, viitorului</em></td></tr>
   <tr style="background:lightgray"><td>Afpmsry</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing</td><td><em>prezentul, fostul, Montanul, dezvăluitul, singurul</em></td></tr>
-  <tr><td>Cccsp</td><td>=&gt;</td><td>CONJ</td><td>Negative=Pos</td><td><em>așa_că</em></td></tr>
-  <tr style="background:lightgray"><td>Ccssp</td><td>=&gt;</td><td>CONJ</td><td>Negative=Pos</td><td><em>sau, dar, însă, că, fie</em></td></tr>
-  <tr><td>Crssp</td><td>=&gt;</td><td>CONJ</td><td>Negative=Pos</td><td><em>și, și-, iar</em></td></tr>
-  <tr style="background:lightgray"><td>Cscsp</td><td>=&gt;</td><td>SCONJ</td><td>Negative=Pos</td><td><em>pentru_că, de_vreme_ce</em></td></tr>
-  <tr><td>Csssp</td><td>=&gt;</td><td>SCONJ</td><td>Negative=Pos</td><td><em>că, dacă, încât, deși, de</em></td></tr>
-  <tr style="background:lightgray"><td>Cssspy</td><td>=&gt;</td><td>SCONJ</td><td>Negative=Pos|Variant=Short</td><td><em>c-, dac-</em></td></tr>
+  <tr><td>Cccsp</td><td>=&gt;</td><td>CCONJ</td><td>Polarity=Pos</td><td><em>așa_că</em></td></tr>
+  <tr style="background:lightgray"><td>Ccssp</td><td>=&gt;</td><td>CCONJ</td><td>Polarity=Pos</td><td><em>sau, dar, însă, că, fie</em></td></tr>
+  <tr><td>Crssp</td><td>=&gt;</td><td>CCONJ</td><td>Polarity=Pos</td><td><em>și, și-, iar</em></td></tr>
+  <tr style="background:lightgray"><td>Cscsp</td><td>=&gt;</td><td>SCONJ</td><td>Polarity=Pos</td><td><em>pentru_că, de_vreme_ce</em></td></tr>
+  <tr><td>Csssp</td><td>=&gt;</td><td>SCONJ</td><td>Polarity=Pos</td><td><em>că, dacă, încât, deși, de</em></td></tr>
+  <tr style="background:lightgray"><td>Cssspy</td><td>=&gt;</td><td>SCONJ</td><td>Polarity=Pos|Variant=Short</td><td><em>c-, dac-</em></td></tr>
   <tr><td>Dd3-po---e</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Number=Plur|Person=3|Position=Prenom|PronType=Dem</td><td><em>acestor</em></td></tr>
   <tr style="background:lightgray"><td>Dd3fpr</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Plur|Person=3|PronType=Dem</td><td><em>celelalte</em></td></tr>
   <tr><td>Dd3fpr---e</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Plur|Person=3|Position=Prenom|PronType=Dem</td><td><em>aceste, acele</em></td></tr>
@@ -209,8 +210,8 @@ Tagset <tt>ro::multext</tt>, total 279 tags.
   <tr style="background:lightgray"><td>Pz3msr</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Neg</td><td><em>Nimeni, nimic</em></td></tr>
   <tr><td>Qn</td><td>=&gt;</td><td>PART</td><td>PartType=Inf</td><td><em>a, de_a</em></td></tr>
   <tr style="background:lightgray"><td>Qs</td><td>=&gt;</td><td>PART</td><td>Mood=Sub</td><td><em>să, s-, ca_să</em></td></tr>
-  <tr><td>Qz</td><td>=&gt;</td><td>PART</td><td>Negative=Neg</td><td><em>nu, n-, n</em></td></tr>
-  <tr style="background:lightgray"><td>Qz-y</td><td>=&gt;</td><td>PART</td><td>Negative=Neg|Variant=Short</td><td><em>n-</em></td></tr>
+  <tr><td>Qz</td><td>=&gt;</td><td>PART</td><td>Polarity=Neg</td><td><em>nu, n-, n</em></td></tr>
+  <tr style="background:lightgray"><td>Qz-y</td><td>=&gt;</td><td>PART</td><td>Polarity=Neg|Variant=Short</td><td><em>n-</em></td></tr>
   <tr><td>Rc</td><td>=&gt;</td><td>ADV</td><td>_</td><td><em>ca, iar, decât, câte</em></td></tr>
   <tr style="background:lightgray"><td>Rg</td><td>=&gt;</td><td>ADV</td><td>_</td><td><em>]</em></td></tr>
   <tr><td>Rgp</td><td>=&gt;</td><td>ADV</td><td>Degree=Pos</td><td><em>încă, doar, atât, bine, mult</em></td></tr>
