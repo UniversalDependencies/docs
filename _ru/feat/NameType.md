@@ -40,7 +40,7 @@ Given name (not family name). Can be either the first name or, in formal speech,
 
 * _<b>Александр</b>, <b>Дмитрий</b>_
 
-### <a name="Patrn">`Patrn`</a>: given name of person
+### <a name="Pat">`Pat`</a>: given name of person
 
 Patronymic name (the second component of a polite personal name based on the given name of one's father).
 
