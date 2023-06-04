@@ -4,7 +4,10 @@ title: 'Clitic'
 shortdef: 'clitic'
 udver: '2'
 ---
-### <a name="se">`Se`</a>: -se
+
+Language-specific feature identifying clitics attached to the word.
+
+### <a name="Se">`Se`</a>: -se
 
 Definite article.
 
@@ -12,7 +15,7 @@ Definite article.
 
 * [vep] _kaik<b>se</b> elo_ "<b>this</b> all life"
 
-### <a name="ik">`Ik`</a>: -ik
+### <a name="Ik">`Ik`</a>: -ik
 
 Expresses a question.
 
@@ -20,7 +23,7 @@ Expresses a question.
 
 * [vep] _voin<b>ik</b> minä_ "<b>can</b> I <b>?</b>"
 
-### <a name="ki">`Ki`</a>: -ki
+### <a name="Ki">`Ki`</a>: -ki
 
 Expresses focus. Can often be translated into English as *also*.
 
