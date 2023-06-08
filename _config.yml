@@ -408,6 +408,8 @@ collections:
     output: true
   ps:
     output: true
+  lb:
+    output: true
 # End of language collections (do not remove this comment, addlanguage.sh looks for it)
 
 
