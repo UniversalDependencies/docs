@@ -34,7 +34,7 @@ This is an overview only. For a more detailed discussion and examples, see the l
  	* _som_ "to be" -but lemmas such as _býdom_ are also possible-
 	* _šom_ / _štom_ (it expresses possibility, very similartly to the Greek _θα_)  
 	*  _še / ša_ "will, shall", _da_ "to" 
-	*  interrogative  _li / dalí_  _ažónen li si?_ "are you married?" [lit. "married you?"]
+	*  interrogative  _li / dalí_, e.g.,   _ažónen li si?_ "are you married?" [lit. "married you?"]
  
 	
 * Modal verbs are assigned the PoS tag [VERB](pos/VERB.md).
