@@ -31,8 +31,8 @@ obj(love, who)
 
 ~~~ sdparse
 Я увидел этого мужчину в стране , где я не хотел бы оказаться снова \n I saw that man in the country , where I would not like to turn up again
-obl(увидел, саду)
-obl(saw, garden)
+obl(увидел, стране)
+obl(saw, country)
 acl:relcl(стране, хотел)
 acl:relcl(country, like)
 nsubj(увидел, Я)
