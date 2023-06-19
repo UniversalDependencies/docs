@@ -36,7 +36,7 @@ obl(saw, country)
 acl:relcl(стране, хотел)
 acl:relcl(country, like)
 nsubj(увидел, Я)
-nsubj(saw, I-1)
+nsubj(saw, I)
 obj(увидел, мужчину)
 obj(saw, man)
 ~~~
