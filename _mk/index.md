@@ -8,23 +8,24 @@ udver: '2'
 
 ## Tokenization and Word Segmentation
 
-*
+* In general, words are delimited by whitespace characters.
+* The numbers are analyzed as one token when used as expression without spaces (20000) or with an internal comma as indicator (10,434).
 
----
-**Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
 
----
 
 ## Morphology
 
 ### Tags
 
-*
-
----
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
-
----
+* Macedonian uses 15 universal POS categories. It does not make use of ([SYM]()) and ([X]()).
+* Negative particles are analyzed as ([PART]()). Infinitive markers / complementizers _да_ / da (“to, that”) are tagged as subordinating conjunctions ([SCONJ]()).
+* The pronoun ([PRON]()) vs. determiner ([DET]()) distinction is handled as follows:
+  * as pronouns – personal and reflexive pronouns, and all entity-pointing other pronouns (demonstrative, interrogative, relative, indefinite, collective, negative).
+  * as determiners – the attributive and possessive atributive forms of the demonstrative, interrogative, relative, indefinite, collective, negative pronouns; the long forms of the possessive pronouns.
+* Macedonian has just one auxiliary verb ([AUX]()), _сум_ / sum (“to be”), but the lemmas _биде_ / bide, _би_ / bi (“would”) are also possible.
+* Modal verbs are analyzed as ([VERB]()).
+* The following POS are tagged as ([ADJ]()): adjectives; ordinal numerals; partciples in adjectival usage adjectives derived from family names.
+* The following POS are tagged as ([VERB]()): personal and impersonal verbs; participles when used as verbal forms – indicators of evidentiality; and converbs.
 
 ### Features
 
