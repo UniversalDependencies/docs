@@ -4,7 +4,7 @@ title:  'Papiamento UD'
 udver: '2'
 ---
 
-# UD for Papiamento <span class="flagspan"><img class="flag" src="../../flags/svg/AW.svg" /></span>
+# UD for Papiamento <span class="flagspan"><img class="flag" src="../../flags/svg/AW.svg" /></span> <span class="flagspan" style="padding-left:1em"><img class="flag" src="../../flags/svg/CW.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
