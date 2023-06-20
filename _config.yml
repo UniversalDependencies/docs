@@ -410,6 +410,8 @@ collections:
     output: true
   lb:
     output: true
+  xcl:
+    output: true
 # End of language collections (do not remove this comment, addlanguage.sh looks for it)
 
 
