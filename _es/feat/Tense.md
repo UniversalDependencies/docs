@@ -17,7 +17,7 @@ udver: '2'
 `Tense` is an inflectional feature of [verbs](VERB) and [auxiliaries](AUX) that specifies the time when the action took / takes / will take place, in relation to the current moment or to another action in the utterance.
 
 
-### <a name="Imp">`Imp`</a>
+### <a name="Imp">`Imp`</a>: imperfect tense
 
 The imperfect past tense denotes actions that were ongoing or used to occur in the past.
 
