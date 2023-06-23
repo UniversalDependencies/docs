@@ -37,5 +37,5 @@ When proper nouns consist of multiple words, they form compound proper nouns. In
     1    Río    Río    NOUN   _    Gender=Masc|Number=Sing    0    root     _    MWE=Río_de_la_Plata|MWEPOS=PROPN
     2    de    de    ADP    _   _    4    case     _    _
     3    la    la    DET    _   Gender=Fem|Number=Sing    4    det      _	  _
-    4    Plata    Plata    NOUN    _    Gender=Masc|Number=Sing    1    nmod     _	
+    4    Plata    Plata    NOUN    _    Gender=Masc|Number=Sing    1    nmod     _
 <!-- Interlanguage links updated Út 9. května 2023, 20:03:27 CEST -->
