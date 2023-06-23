@@ -39,7 +39,7 @@ Ordinal numbers are adjectives that denote the order of objects in a sequence. S
 * _tercero_ "third"
 
 
-### <a name="Frac">`Frac`
+### <a name="Frac">`Frac`</a>: fraction
 
 Fractional numbers denote fractions. In the AnCora treebank, these are tagged as SYM (symbols).
 
