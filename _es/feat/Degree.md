@@ -19,18 +19,22 @@ In Spanish, comparative and superlative degrees are often constructed syntactica
 
 Instead, only four specific adverbs — "más", "menos", "máximo", and "mínimo" — receive the Degree feature in the UD scheme. These are standalone adverbs that can express degree without additional context, hence their categorization. In this case the UD scheme prioritizes tagging words that inherently carry comparative or superlative meaning, rather than syntactic constructions that create these meanings.
 
-### <a name="Cmp">Cmp</a>: comparative
 
-Comparative degree in Spanish is used to compare two entities. The adverbs "más" (more) and "menos" (less) are tagged with the degree of comparison feature Cmp.
+### <a name="Cmp">`Cmp`</a>: comparative
+
+Comparative degree in Spanish is used to compare two entities. The adverbs _más_ "more" and _menos_ "less" are tagged
+with the degree value `Cmp`.
 
 #### Example:
 
-* _Más rápido que yo._ "More quickly than me."
-* _Menos rápido que yo._ "Less quickly than me."
+* _<b>Más</b> rápido que yo._ "More quickly than me."
+* _<b>Menos</b> rápido que yo._ "Less quickly than me."
 
-### <a name="Sup">Sup</a>: superlative
 
-Superlative degree in Spanish is used to express the highest or lowest degree of a quality within a set or group. The adverbs "máximo" (most) and "mínimo" (least) are tagged with the degree of comparison feature Sup.
+### <a name="Sup">`Sup`</a>: superlative
+
+Superlative degree in Spanish is used to express the highest or lowest degree of a quality within a set or group. The
+adverbs _máximo_ "most" and _mínimo_ "least" are tagged with the degree value `Sup`.
 
 #### Example:
 
