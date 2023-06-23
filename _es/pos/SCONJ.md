@@ -11,8 +11,8 @@ A subordinating conjunction is a conjunction that links constructions by making 
 
 In Spanish, we recognize these two subclasses as subordinating conjunctions:
 
-Complementizers, such as _como_ "like", _que_ "that", _mientras_ "while", _si_ "if".
-Adverbial clause introducers, such as _como_ "like", _cuando_ "when", _ya que_ "since" or _porque_ "because" when introducing a clause, not a nominal".
+* Complementizers, such as _como_ "like", _que_ "that", _mientras_ "while", _si_ "if".
+* Adverbial clause introducers, such as _como_ "like", _cuando_ "when", _ya que_ "since" or _porque_ "because" when introducing a clause, not a nominal.
 
 For coordinating conjunctions, see [CCONJ]().
 
