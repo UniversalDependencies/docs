@@ -32,9 +32,9 @@ This feature includes both nominal personal, possessive, and reflexive pronouns 
 * _El chocolate no es tuyo. Es mío._ "The chocolate isn’t yours. It’s mine."
 
 
-### <a name="Art">`Art`</a>:
+### <a name="Art">`Art`</a>: article
 
-This includes definite articles (el, la, los, las) and indefinite articles (un, una, unos, unas).
+This includes definite articles _(el, la, los, las)_ and indefinite articles _(un, una, unos, unas)._
 
 #### Examples
 
