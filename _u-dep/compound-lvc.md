@@ -6,8 +6,8 @@ udver: '2'
 ---
 
 This subtype of [compound]() covers light verbs.
-In a  light-verb construction the verb that does not have much semantic content.
-The semantics of the construction is determined by the non-head word,
+In a  light-verb construction the verb does not have much semantic content.
+The semantics of the construction are determined by the non-head word,
 often a noun or adjective.
 
 ~~~ sdparse
