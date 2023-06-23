@@ -1,6 +1,6 @@
 ---
 layout: feature
-title: 'Prepcase'
+title: 'PrepCase'
 shortdef: 'prepositional case'
 udver: '2'
 ---
@@ -13,12 +13,14 @@ udver: '2'
 </tr>
 </table>
 
-Personal pronouns in Spanish have different forms depending on whether they are objects of prepositions or not. For instance, Spanish "yo" (I) without prepositions has the form "me" in accusative and dative cases, while with a preposition it is "mí".
+Personal pronouns in Spanish have different forms depending on whether they are objects of prepositions or not. For
+instance, Spanish _yo_ "I" without prepositions has the form _me_ in accusative and dative cases, while with a
+preposition it is _mí_.
 
 Default empty value means that the word form is neutral with respect to prepositions.
 
 
-### <a name="Npr">Npr</a>: non-prepositional case
+### <a name="Npr">`Npr`</a>: non-prepositional case
 
 This word form must not be used after a preposition.
 
@@ -28,9 +30,10 @@ This word form must not be used after a preposition.
 * _Ellos comen pizza._ "They eat pizza."
 
 
-### <a name="Pre">Pre</a>: prepositional case
+### <a name="Pre">`Pre`</a>: prepositional case
 
-This word form must be used after a preposition. In Spanish, only the pronouns "mí", "ti", and "sí" receive this feature in the UD treebanks.
+This word form must be used after a preposition. In Spanish, only the pronouns _mí_, _ti_, and _sí_ receive this
+feature in the UD treebanks.
 
 #### Examples:
 
@@ -39,4 +42,3 @@ This word form must be used after a preposition. In Spanish, only the pronouns "
 * _Ella compró un regalo para sí misma._ "She bought a gift for herself."
 
 In these examples, _mí_, _ti_, and _sí_ are pronoun forms used after a preposition.
-
