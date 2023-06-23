@@ -8,6 +8,7 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Abs">Abs</a></td>
   <td><a href="#Cmp">Cmp</a></td>
   <td><a href="#Sup">Sup</a></td>
 </tr>
@@ -40,3 +41,15 @@ adverbs _máximo_ "most" and _mínimo_ "least" are tagged with the degree value 
 
 * _Corre al máximo._ "Runs at the most."
 * _Corre al mínimo._ "Runs at the least."
+
+
+### <a name="Abs">`Abs`</a>: absolute superlative
+
+The absolutive degree expresses morphologically that the studied quality of
+the given object is so strong that there is hardly any other object
+exceeding it. The quality is not actually compared to any particular
+set of objects.
+
+#### Example:
+
+* _guapo_ "handsome"; _<b>guapísimo</b>_ "<b>indescribably handsome</b>"
