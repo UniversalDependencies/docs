@@ -17,7 +17,7 @@ udver: '2'
 `NumForm` is a lexical feature of [numerals](NUM) that marks whether the number is expressed by digits or letters.
 
 
-### <a name= "Word">`Word`</a>: number expressed in words
+### <a name="Word">`Word`</a>: number expressed in words
 
 #### Examples
 
@@ -37,7 +37,7 @@ The Digit form is used when the numeral is expressed using digits (0-9).
 * _100_ "one hundred"
 
 
-### <a name= "Roman">`Roman`</a>: roman numeral
+### <a name="Roman">`Roman`</a>: roman numeral
 
 #### Examples
 
@@ -48,4 +48,3 @@ The Digit form is used when the numeral is expressed using digits (0-9).
 Notably, when numbers are expressed as words in Spanish, they do not receive the NumForm feature. However, the NumForm
 feature may also appear in names of currencies like "pesetas" or "euros". This usage is currently subject to revision
 and harmonization between different treebanks in the future.
-
