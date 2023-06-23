@@ -21,7 +21,7 @@ udver: '2'
 </table>
 
 
-### <a name="Comm">Comm</a>: Comma
+### <a name="Comm">`Comm`</a>: Comma
 
 This value is used for commas.
 
@@ -30,7 +30,7 @@ This value is used for commas.
 * _Me gusta el pan, el queso y el vino._
 
 
-### <a name="Peri">Peri</a>: Period
+### <a name="Peri">`Peri`</a>: Period
 
 This value is used for periods.
 
@@ -39,7 +39,7 @@ This value is used for periods.
 * _Terminé mi tarea._
 
 
-### <a name="Qest">Qest</a>: Question Mark
+### <a name="Qest">`Qest`</a>: Question Mark
 
 This value is used for question marks.
 
@@ -48,7 +48,7 @@ This value is used for question marks.
 * _¿Cómo estás?_
 
 
-### <a name="Brck">Brck</a>: Bracket
+### <a name="Brck">`Brck`</a>: Bracket
 
 This value is used for brackets or parentheses.
 
@@ -57,7 +57,7 @@ This value is used for brackets or parentheses.
 * _Estoy leyendo un libro (El principito)._
 
 
-### <a name="Semi">Semi</a>: Semicolon
+### <a name="Semi">`Semi`</a>: Semicolon
 
 This value is used for semicolons.
 
@@ -66,7 +66,7 @@ This value is used for semicolons.
 * _Fui al parque; jugué fútbol._
 
 
-### <a name="Colo">Colo</a>: Colon
+### <a name="Colo">`Colo`</a>: Colon
 
 This value is used for colons.
 
@@ -75,7 +75,7 @@ This value is used for colons.
 * _Hay tres cosas que necesito: pan, leche y huevos._
 
 
-### <a name="Dash">Dash</a>: Dash
+### <a name="Dash">`Dash`</a>: Dash
 
 This value is used for dashes.
 
@@ -84,7 +84,7 @@ This value is used for dashes.
 * _María -mi hermana- está en la casa._
 
 
-### <a name="Quot">Quot</a>: Quotation Mark
+### <a name="Quot">`Quot`</a>: Quotation Mark
 
 This value is used for quotation marks.
 
@@ -93,7 +93,7 @@ This value is used for quotation marks.
 * _Él dijo: "Voy a la tienda"._
 
 
-### <a name="Excl">Excl</a>: Exclamation Mark
+### <a name="Excl">`Excl`</a>: Exclamation Mark
 
 This value is used for exclamation marks.
 
