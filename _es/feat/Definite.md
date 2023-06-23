@@ -15,7 +15,8 @@ udver: '2'
 
 In Spanish, definiteness is used to specify whether we are referring to a particular entity that is identifiable to the listener/reader or to a more general, unspecified category of entities. It's a feature that is visible in [determiners](DET).
 
-### <a name="Def">Def</a>: definite
+
+### <a name="Def">`Def`</a>: definite
 
 Definte articles are used when we talk about specific items, individuals, or concepts that both the speaker and the listener are aware of. The definite articles in Spanish are "el", "la", "los", and "las". They correspond to "the" in English and they indicate that the speaker believes the listener/reader can identify the entity being referred to.
 
@@ -28,7 +29,7 @@ In these examples, the speaker assumes that the listener/reader knows which spec
 "el" "la" "los" "las"
 
 
-### <a name="Ind">Inf</a>: indefinitive
+### <a name="Ind">`Ind`</a>: indefinite
 
 Indefinite articles, on the other hand, are used when we talk about items, individuals, or concepts in a general or non-specific sense. The indefinite articles in Spanish are "un" and "una", corresponding to "a" or "an" in English.
 
