@@ -11,7 +11,6 @@ udver: '2'
   <td><a href="#Nom">Nom</a></td>
   <td><a href="#Acc">Acc</a></td>
   <td><a href="#Dat">Dat</a></td>
-  <td><a href="#Acc,Nom">Acc,Nom</a></td>
 </tr>
 </table>
 
@@ -20,40 +19,40 @@ A case is each of the different forms a nominal word can take to express a synta
 In Spanish, the closest equivalent that has been preserved is in the pronouns. In UD Spanish morphology, three cases are distinguished: Nominative, Dative and Accusative.
 
 
-### <a name="Nom">Nom</a>: Nominative
+### <a name="Nom">`Nom`</a>: nominative
 
 The Nominative case is used when the pronoun functions as the subject of the sentence, which is the person, place, or
 thing doing the action. Examples of this in Spanish are pronouns like "yo" (I), "tú" (you), and "nosotros" (we).
 
-#### Examples
+#### Examples:
 
 * _Yo voy a la biblioteca._ "I go to the library."
 * _Nosotros comemos siempre._ "We always eat."
 
 
-### <a name="Acc">Acc</a>: Accusative
+### <a name="Acc">`Acc`</a>: accusative
 
 The Accusative case is used for direct objects, which directly receive the action of the verb. In Spanish, the pronouns
 used in the accusative case are "me" (me), "te" (you), "lo" (him, it), and "la" (her, it), among others.
 
-#### Examples
+#### Examples:
 
 * _Yo lo veo._ "I see it."
 * _Mi hermana nos enseña._ "My sister teaches us​."
 
 
-### <a name="Dat">Dat</a>: Dative
+### <a name="Dat">`Dat`</a>: dative
 
 Dative case is used for indirect objects, which indirectly receive the action of the sentence. The Spanish pronouns for
 the dative case are "me" (me), "te" (you), "le" (him, her, it), and "nos" (us), among others.
 
-#### Examples
+#### Examples:
 
 * _Yo le doy el regalo._ "I give him the present."
 * _Mi hermana me escribe._ "My sister writes me."
 
 
-### <a name="Acc, Nom">Nom</a>: Accusative, Nominative
+#### <a name="Acc,Nom">`Acc,Nom`</a>: nominative or accusative
 
 In UD Spanish treebanks, certain pronouns are annotated with the double case value `Acc,Nom`, which signifies that
 these pronouns can function in both the Accusative (as direct objects) and Nominative (as subjects).
@@ -72,4 +71,3 @@ structure.
 #### References
 
 * REAL ACADEMIA ESPAÑOLA (2009): Nueva gramática de la lengua española. Madrid: Espasa.
-
