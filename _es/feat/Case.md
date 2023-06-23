@@ -8,9 +8,10 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Nom">Nom</a></td>
   <td><a href="#Acc">Acc</a></td>
+  <td><a href="#Com">Com</a></td>
   <td><a href="#Dat">Dat</a></td>
+  <td><a href="#Nom">Nom</a></td>
 </tr>
 </table>
 
@@ -50,6 +51,19 @@ the dative case are "me" (me), "te" (you), "le" (him, her, it), and "nos" (us), 
 
 * _Yo le doy el regalo._ "I give him the present."
 * _Mi hermana me escribe._ "My sister writes me."
+
+
+### <a name="Com">`Com`</a>: comitative
+
+The comitative case is normally not morphological in Spanish and the corresponding meaning is expressed by the
+preposition _con_ "with". However, three pronouns fuse with the preposition and create a form that is different
+from other case forms of the pronoun and that can be described as comitative.
+
+#### Examples
+
+* _conmigo_ "with me"
+* _contigo_ "with you"
+* _consigo_ "with himself/herself"
 
 
 #### <a name="Acc,Nom">`Acc,Nom`</a>: nominative or accusative
