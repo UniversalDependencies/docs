@@ -14,6 +14,6 @@ parataxis(llevaré, fruta)
 ~~~
 
 ~~~ sdparse
-Se le echa... vinagre ¿sabes?
+Se le echa ... vinagre ¿ sabes ? \n You add ... vinegar , you know ?
 parataxis(echa, sabes)
 ~~~
