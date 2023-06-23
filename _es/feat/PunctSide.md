@@ -1,7 +1,7 @@
 ---
 layout: feature
 title: 'PunctSide'
-shortdef: 'PunctSide'
+shortdef: 'punctuation side'
 udver: '2'
 ---
 
@@ -18,7 +18,7 @@ In Spanish, punctuation marks like question marks (¿?), exclamative marks (¡!)
 The two values for PunctSide in Spanish are:
 
 
-### <a name="Ini">Ini</a>: Initial side
+### <a name="Ini">`Ini`</a>: initial
 
 Ini is used to indicate the opening punctuation mark in a sentence or phrase.
 
@@ -29,7 +29,7 @@ Ini is used to indicate the opening punctuation mark in a sentence or phrase.
 * “ - “Buenos días”
 
 
-### <a name="Fin">Fin</a>: Final side
+### <a name="Fin">`Fin`</a>: final
 
 Fin is used to indicate the closing punctuation mark in a sentence or phrase.
 

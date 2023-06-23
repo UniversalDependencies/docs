@@ -1,7 +1,7 @@
 ---
 layout: feature
-title: 'PuncType'
-shortdef: 'PuncType'
+title: 'PunctType'
+shortdef: 'punctuation type'
 udver: '2'
 ---
 
