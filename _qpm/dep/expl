@@ -23,12 +23,15 @@ Examples from Greek and Pomak follow:
 
 ~~~ sdparse
 Της τον έδωσε της Καίτης τον αναπτήρα \n PRON.Fem.Gen PRON.Masc.Acc gave ART.Fem.Gen Keti.Gen ART.Masc.Acc lighter.Acc
-expl(έδωσε, Της-1)
-iobj(έδωσε, Καίτης)
-det(Καίτης, της-4)
-expl(έδωσε, τον-2)
-obj(έδωσε, αναπτήρα)
-det(αναπτήρα, τον-6)
+expl(dádah, Της-1)
+iobj(dádah, Fatní)
+expl(dádah, τον-2)
+obj(dádah, kitápete)
+dádah ji go Fatní kitápete 
+            I gave Fatni the books 
+       lit: I gave her-to it Fatni books-the
+expl (dádah, ji)
+expl (dádah, go)
 ~~~
 
 ~~~ sdparse
@@ -43,6 +46,33 @@ this approach was approved):
 * [expl:pv]() for reflexive clitics attached to inherently reflexive verbs (also called pronominal verbs in some grammars)
 * [expl:pass]() for reflexive clitics attached to transitive verbs and acting as a voice marker (passive or mediopassive)
 * [expl:impers]() for impersonal usage (works also with intransitive verbs)
+
+expl (expletive): This relation captures expletive or pleonastic nominals that usually appear in an argument position of a predicate, but yet themselves do not satisfy any of the semantic roles of the predicate. The main predicate of the clause (the verb or predicate adjective or noun) is the governor. In Pomak expletive nominals may also occur as personal pronouns mainly of the weak type:
+o	dádah ji go Fatní kitápete 
+            I gave Fatni the books 
+       lit: I gave her-to it Fatni books-the
+expl (Fatní, ji)
+expl (kitápe, go)
+
+In several cases, when both the strong and the weak type of the personal pronoun appear together, then the strong type is marked as obl (oblique) and the weak type as expl: 
+o	tébe ti je da rečéš 
+           it is up to you to say 
+      lit: you you-to it is to say
+expl (tébe, ti)
+obl (rečéš, tébe)
+
+o	móne mí só umarí, móža i da zádremom
+           I am tired, I can sleep  
+     lit: me me-to myself tired, can-I and to sleep                 
+obj (umarí, móne)
+expl (móne, mí)                           
+    
+o	bábo, móne mó búla upári!
+           granny, sister burns me
+     lit: granny, me me-to sister burns
+obj (upári, móne)
+expl (móne, mó)                           
+
 
 
 ~~~
