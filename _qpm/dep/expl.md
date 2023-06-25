@@ -6,6 +6,17 @@ udver: '2'
 ---
 
 This relation captures expletive or pleonastic nominals. 
+In the Pomak sentence below, the impersonal verb _dúmi_ accepts a clausal subject but it also supports an expletive.  
+
+~~~ sdparse
+dúmi só óti  si našól líry 
+said it that he found golden.sovereigns
+`it is said  that he has found golden.sovereigns'
+           
+expl:impers (dúmi, só)
+csubj(dúmi, našól)
+~~~ 
+
 
 The`expl` relation is used to annotate clitic doubling. 
 Languages such as  Pomak, standardly allow doubling of a lexical nominal and a pronominal clitic, with the former still appearing in its regular role as an argument of the predicate. In these cases, if only one of the lexical nominal 
