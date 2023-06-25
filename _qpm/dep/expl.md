@@ -23,7 +23,9 @@ Languages such as  Pomak, standardly allow doubling of a lexical nominal and a p
 and the clitic appear in a clause, then whichever appears will be given the grammatical role of [obj](), [iobj](), [obl]() – parallel to the treatment of 
 lexical nominals and pronouns in other languages, modulo the clitic pronoun having a different position in the sentence.  However, if both occur, 
 the lexical nominal will be given the grammatical role of [obj](), [iobj](), [obl]() , and the clitic will be treated as a pronominal copy, 
-which does not receive its own semantic role, and hence will get the role `expl`:
+which does not receive its own semantic role, and hence will get the role `expl`.
+
+In the examples below, digits are used to indicate co-reference co-reference:
 
 ~~~ sdparse
 bábo,   móne   mó   búla   upári!
