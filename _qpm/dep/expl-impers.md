@@ -12,7 +12,7 @@ dúmi só óti  si našól líry
 said it that he found golden.sovereigns
 `it is said  that he has found golden.sovereigns'
            
-expl:impers (dúmi, só)
+expl:impers(dúmi, só)
 csubj(dúmi, našól)
 ~~~ 
 
