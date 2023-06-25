@@ -7,36 +7,54 @@ udver: '2'
 
 This relation captures expletive or pleonastic nominals. 
 
-A second, related, use of the `expl` relation is for cases of true clitic doubling.  
-For languages in which clitics and lexical nominals are usually in complementary distribution – languages, 
-such as French, which obey "Kayne's generalization" – then whichever of a clitic or a lexical nominal occurs will get the appropriate role, 
-such as [obj]() or [iobj](). In such languages, when doubling does occur, such as in spoken French, the right analysis is to regard the lexical nominal 
-as [dislocated]() (see the examples there). As such, the analysis will be the same as when a noun phrase doubles another noun phrase or a regular pronoun 
-that fills a nominal argument position. However, other languages, such as Greek and Bulgarian, standardly allow doubling of a lexical nominal 
-and a pronominal clitic, with the former still appearing in its regular role as an argument of the predicate. In these cases, if only one of the lexical nominal 
-and the clitic appear in a clause, then whichever appears will be given the grammatical role of [obj](), [iobj](), etc. – parallel to the treatment of 
+The`expl` relation is used to annotate clitic doubling. 
+Languages such as  Pomak, standardly allow doubling of a lexical nominal and a pronominal clitic, with the former still appearing in its regular role as an argument of the predicate. In these cases, if only one of the lexical nominal 
+and the clitic appear in a clause, then whichever appears will be given the grammatical role of [obj](), [iobj](), [obl]() – parallel to the treatment of 
 lexical nominals and pronouns in other languages, modulo the clitic pronoun having a different position in the sentence.  However, if both occur, 
-the lexical nominal will be given the grammatical role of [obj](), [iobj](), etc., and the clitic will be treated as a pronominal copy, 
-which does not receive its own semantic role, and hence will get the role `expl`. Modulo the different word order, this is fairly parallel 
-to the treatment of _it_ and _there_ in English mentioned above, where another phrase satisfies the semantic role of the predicate. 
-Examples from Greek and Pomak follow:
+the lexical nominal will be given the grammatical role of [obj](), [iobj](), [obl]() , and the clitic will be treated as a pronominal copy, 
+which does not receive its own semantic role, and hence will get the role `expl`:
 
 ~~~ sdparse
-Της τον έδωσε της Καίτης τον αναπτήρα \n PRON.Fem.Gen PRON.Masc.Acc gave ART.Fem.Gen Keti.Gen ART.Masc.Acc lighter.Acc
-expl(dádah, Της-1)
+bábo,   móne   mó   búla   upári!
+granny, me-1   me-1 sister burns
+'Granny, my sister burns me!'
+   
+obj (upári, móne)
+expl (upári, mó)                           
+~~~
+
+~~~ sdparse
+dádah     ji    go     Fatní    kitápete 
+gave.1st  her-1 them-2 Faatni-1 books-the-2
+`I gave Fatni the books' 
+ 
+expl(dádah, ji)
 iobj(dádah, Fatní)
-expl(dádah, τον-2)
+expl(dádah, go)
 obj(dádah, kitápete)
-dádah ji go Fatní kitápete 
-            I gave Fatni the books 
-       lit: I gave her-to it Fatni books-the
-expl (dádah, ji)
-expl (dádah, go)
 ~~~
 
+In the case of ethic datives, both the strong and the weak type of the personal pronoun may appear together. Again, 
+ the strong type is marked as [obl]() and the weak type as [expl](): 
+
 ~~~ sdparse
-Pomak example
+tébe-1 ti-1   je  da rečéš
+you    you    is  to say
+`it is up to you to say' 
+  
+expl (rečéš, ti)
+obl (rečéš, tébe)
 ~~~
+<!--
+~~~ sdparse
+móne mí só    umarí,  móža    i   da zádremom
+me   me REFL  tired,  can.1st and to sleep 
+'I am tired, I can sleep.'  
+                    
+obj (umarí, móne)
+expl (móne, mí)                           
+~~~  
+-->
 
 
 UD recognizes several functions of reflexive pronouns (clitics) that are usually distinguished with the help of subtypes
@@ -47,31 +65,8 @@ this approach was approved):
 * [expl:pass]() for reflexive clitics attached to transitive verbs and acting as a voice marker (passive or mediopassive)
 * [expl:impers]() for impersonal usage (works also with intransitive verbs)
 
-expl (expletive): This relation captures expletive or pleonastic nominals that usually appear in an argument position of a predicate, but yet themselves do not satisfy any of the semantic roles of the predicate. The main predicate of the clause (the verb or predicate adjective or noun) is the governor. In Pomak expletive nominals may also occur as personal pronouns mainly of the weak type:
-o	dádah ji go Fatní kitápete 
-            I gave Fatni the books 
-       lit: I gave her-to it Fatni books-the
-expl (Fatní, ji)
-expl (kitápe, go)
+The relevant documentation for Pomak is available.
 
-In several cases, when both the strong and the weak type of the personal pronoun appear together, then the strong type is marked as obl (oblique) and the weak type as expl: 
-o	tébe ti je da rečéš 
-           it is up to you to say 
-      lit: you you-to it is to say
-expl (tébe, ti)
-obl (rečéš, tébe)
-
-o	móne mí só umarí, móža i da zádremom
-           I am tired, I can sleep  
-     lit: me me-to myself tired, can-I and to sleep                 
-obj (umarí, móne)
-expl (móne, mí)                           
-    
-o	bábo, móne mó búla upári!
-           granny, sister burns me
-     lit: granny, me me-to sister burns
-obj (upári, móne)
-expl (móne, mó)                           
 
 
 
