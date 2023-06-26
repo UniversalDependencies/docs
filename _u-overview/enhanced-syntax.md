@@ -536,7 +536,17 @@ This dependency can be recognized by the extension (subtype) `:xsubj`.
 
 ## Relative clauses
 
-In _basic_ trees, relative pronouns are attached to the main predicate of the relative clause (typically with a `nsubj` or `obj` relation). In the corresponding _enhanced_ graphs, the relative pronoun is attached to its antecedent with the special `ref` relation and the antecedent is attached as an argument to the main predicate of the relative clause. In the case where there is no explicit relative pronoun, only the latter arc is added. Note that such graphs contain a cycle.
+In _basic_ trees, relative pronouns are attached to the main predicate of the relative clause (typically with a `nsubj`
+or `obj` relation). In the corresponding _enhanced_ graphs, the relative pronoun is attached to its antecedent with the
+special `ref` relation and the antecedent is attached as a dependent of the node that is the parent of the relative
+pronoun in the basic tree. Typically this parent is the main predicate of the relative clause, but it is not always so
+(see examples below).
+
+In the case where there is no explicit relative pronoun, there is no `ref` relation in the enhanced graph but the
+antecedent is still annotated as a dependent of a node in the relative clause, depending on the role it plays in the
+relative clause.
+
+Note that such graphs contain a cycle.
 
 <table> <!--the boy who lived-->
 <tbody><tr><td width="600">
@@ -626,7 +636,12 @@ Adverbial relativizers receive the same treatment.
 </td></tr></tbody>
 </table>
 
-The enhanced relations include deep syntactic relations. Therefore, in case marking languages the enhanced dependencies may link verb dependents that are not in the expected morphological case, required by surface syntax. In the following Czech example, the relative modifier phrase _v&nbsp;němž_ “in which” is obligatorily in the locative case form (`Case=Loc`). If it were a main clause, the referent _dům_ “house” would have to be in locative too: _v&nbsp;domě_ “in house”. However, here it is in the nominative (`Case=Nom`), and the enhanced dependency `obl` going to a nominative dependent is something we would not expect to see, given the morpho-syntactic rules of the language.
+The enhanced relations include deep syntactic relations. Therefore, in case marking languages the enhanced dependencies
+may link verb dependents that are not in the expected morphological case, required by surface syntax. In the following
+Czech example, the relative modifier phrase _v&nbsp;němž_ “in which” is obligatorily in the locative case form
+(`Case=Loc`). If it were a main clause, the referent _dům_ “house” would have to be in locative too: _v&nbsp;domě_
+“in house”. However, here it is in the nominative (`Case=Nom`), and the enhanced dependency `obl` going to a nominative
+dependent is something we would not expect to see, given the morpho-syntactic rules of the language.
 
 <table> <!--dům, v němž žijeme = the house we live in (lit. house, in that we-live)-->
 <tbody><tr><td width="600">
@@ -679,12 +694,12 @@ It may be embedded deeper as in the following example.
 </td></tr></tbody>
 </table>
 
-If the relative clause has a nominal predicate, the relative pronoun may occupy the head position
-within the clause. In such cases no relation should be added from its parent to its co-referential
-element (because they are the same node). We should only add a `nsubj` relation from the antecedent
-to the `nsubj` of the relative clause (and remove the corresponding `nsubj` relation between the
-relative pronoun and the subject). The `acl:relcl` should remain the same as in basic
-dependencies.
+If the relative clause has a nominal predicate, the relative pronoun may occupy the head position within the clause.
+Unlike most relative clauses, here the parent of the relative pronoun in the basic tree is not inside the relative
+clause, and its antecedent will not have an additional enhanced relation attaching it to a (non-existent) parent in
+the relative clause. Instead, we add a `nsubj` relation from the antecedent to the `nsubj` of the relative clause
+(and remove the corresponding `nsubj` relation between the relative pronoun and the subject). The `acl:relcl` should
+remain the same as in basic dependencies.
 
 <!-- https://github.com/UniversalDependencies/docs/issues/531 -->
 <table> <!--He became chairman, which he still is-->
