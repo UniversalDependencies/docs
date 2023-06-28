@@ -17,12 +17,14 @@ Which book do you prefer ?
 det(book, Which)
 ~~~
 
+<!--
 ~~~ sdparse
 You 've all won !
 nsubj(won, You)
 det(You, all)
 aux(won, 've)
 ~~~
+-->
 
 See also: [det:predet]()
 <!-- Interlanguage links updated Út 9. května 2023, 20:04:11 CEST -->
