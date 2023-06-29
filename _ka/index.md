@@ -71,13 +71,6 @@ This is a **work-in-progress** overview of the UD annotation for Georgian.
   * Case marking: Direct objects occur in nominative or dative.
 * Indirect objects have the following characteristics:
   * Case marking: Indirect objects occur in dative.
-  * The following scheme reflects the correlation between the case of the core arguments and the conjugation system of a verb:
----
-v-type: NOM: NOM: NOM: NOM: NOM
-: NOM (v-set): NOM (v-set) + DAT: ERG (v-set) + DAT: ERG (v-set) + DAT: ERG (v-set) + DAT
-m-type: : DAT (m-set): NOM (m-set): NOM (m-set) + DAT: NOM + DAT 
-: : : : DAT (-a): DAT (m- -a) 
----
   * The following subtypes are used in Georgian:
       * acl: clausal modifier of noun (adnominal clause)
       * advcl: adverbial clause modifier
