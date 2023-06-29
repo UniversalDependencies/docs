@@ -4,7 +4,7 @@ title:  'Georgian UD'
 udver: '2'
 ---
 
-# UD for LANGUAGE <span class="flagspan"><img class="flag" src="../../flags/svg/AQ.svg" /></span>
+# UD for GEORGIAN <span class="flagspan"><img class="flag" src="../../flags/svg/AQ.svg" /></span>
 
 This is a **work-in-progress** overview of the UD annotation for Georgian.
 
