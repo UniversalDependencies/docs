@@ -9,6 +9,7 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Ser">Ser</a></td>
+  <td><a href="#Ger">Ger</a></td>
   
 
   
@@ -21,7 +22,13 @@ udver: '2'
 
 #### Examples
 
-* _sidʒemin <b>sinan</b>_&nbsp; “We run to hide.” 
+* _sidʒemin <b>sinan</b>_&nbsp; “We run to hide.”
+
+
+
+### <a name="Ger">`Ger`</a>: Gerund
+
+#### Examples
 
 
 
