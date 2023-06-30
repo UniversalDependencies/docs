@@ -82,6 +82,7 @@ udver: '2'
 
 * [PronType]() is used with pronouns ([PRON]()) and determiners ([DET]()).
 * [NumType]() is used with numerals ([NUM]()), adjectives ([ADJ]()) and determiners ([DET]()).
+* [NumForm]() is used with numerals ([NUM]()) and adjectives ([ADJ]()).
 * The [Poss]() feature marks possessive personal determiners (e.g. _meu_ “my”),
   possessive personal pronouns (e.g. _meva_ “mine”).
 * The [Reflex]() feature is always used together with `PronType=Prs` and it marks reflexive pronouns.

@@ -8,9 +8,9 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Word">Word</a></td>
   <td><a href="#Digit">Digit</a></td>
   <td><a href="#Roman">Roman</a></td>
+  <td><a href="#Word">Word</a></td>
 </tr>
 </table>
 
@@ -45,6 +45,3 @@ The Digit form is used when the numeral is expressed using digits (0-9).
 * _X_ "ten"
 * _C_ "one hundred"
 
-Notably, when numbers are expressed as words in Spanish, they do not receive the NumForm feature. However, the NumForm
-feature may also appear in names of currencies like "pesetas" or "euros". This usage is currently subject to revision
-and harmonization between different treebanks in the future.

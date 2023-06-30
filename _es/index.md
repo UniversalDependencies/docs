@@ -93,6 +93,7 @@ This is an overview only. For more detailed discussion and examples, see the lis
 
 * [PronType]() is used with pronouns ([PRON]()) and determiners ([DET]()).
 * [NumType]() is used with numerals ([NUM]()), adjectives ([ADJ]()) and determiners ([DET]()).
+* [NumForm]() is used with numerals ([NUM]()) and adjectives ([ADJ]()).
 * The [Poss]() feature marks possessive personal determiners (e.g. _mi_ “my”),
   possessive personal pronouns (e.g. _mío_ “mine”), and
   possessive interrogative or relative determiners (e.g. _cuyo_ “whose”).
