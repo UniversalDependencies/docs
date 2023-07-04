@@ -281,7 +281,28 @@ John be.in.motion-THROUGH-COMING-DECL.F John OC-see OC-DECL.F
 
 
 ---
+### Auxiliaries
 
+We do not treat auxiliaries as constituents, since they do not contribute any semantic meaning to the sentence. They are just required with certain verbs and certain suffixes. For example, in the sentence below. 
+
+
+```
+Boni ihi awa boto tonahani amake
+The tree fell over because of the wind
+```
+
+
+the verb _boto tonahani amake_ is seen as a single word _bototonahaniamake_, and in the morphology not have anything corresponding to the auxiliary na.
+
+One of the advantages of this approach is that we don't have to worry about what to do with auxiliaries that are required by certain suffixes. For example _-kanikima_ 'scattered' requires a following auxiliary _na_, and it is required that _-waharI_ be attached to an auxiliary _na_. 
+
+One problem that arises with this approach is how to treat _to-_ when it occurs with the auxiliary _ha_. The _to-_ is simply required whenever the auxiliary ha occurs, as it also is with the copular verb _ha_. We could simply not register _to-_ in the morphology in these two cases, since it is just required, and doesn't really contribute anything to the meaning. 
+
+It is still necessary to register _to-_ when it is 'away', and when the 'CH' meaning occurs not associated with _ha_. 
+
+
+
+---
 ## Noun Phrase
 
 Noun phrases occur in slot 2 and 5.
