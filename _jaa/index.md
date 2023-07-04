@@ -283,6 +283,8 @@ John be.in.motion-THROUGH-COMING-DECL.F John OC-see OC-DECL.F
 ---
 ### Auxiliaries
 
+There are two auxiliaries in Jarawara, which 
+
 We do not treat auxiliaries as constituents, since they do not contribute any semantic meaning to the sentence. They are just required with certain verbs and certain suffixes. For example, in the sentence below. 
 
 
