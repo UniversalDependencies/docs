@@ -37,7 +37,7 @@ Mapping UPOS to XPOS Tupinambá
  SYM   | sym      |
  X     | x        |
 
-`vc`is the verbal copula.
+`vc` is the verbal copula.
 
 
 ## Morphology
