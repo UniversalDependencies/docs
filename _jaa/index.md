@@ -8,12 +8,12 @@ udver: '2'
 
 ## Tokenization and Word Segmentation
 
-* Words are delimited by whitespace characters
+* Words are delimited by whitespace characters.
 * According to typographical rules, many punctuation marks are attached to a neighboring word. They are given as separate tokens
 
 ## Tags
 
-* Jarawara uses all 17 universal POS categories. `ADJ` is only used for fourteen lexical items. All other modifiers are intransitive verbs.
+* Jarawara uses all 17 universal POS categories. `ADJ` is only used for fourteen lexical items. All other modifiers are intransitive verbs (`vi`).
 
 Mapping UPOS to XPOS Tupinambá
 
