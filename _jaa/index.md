@@ -24,7 +24,7 @@ Mapping UPOS to XPOS Tupinambá
  INTJ  | intj     |
  NOUN  | n        |
  PROPN | ppn      |
- VERB  | v, vi, vt, vd|
+ VERB  | v, vc, vi, vt, vd|
  ADP   | posp     |
  AUX   | aux      |
  CCONJ | cc       |
@@ -36,6 +36,8 @@ Mapping UPOS to XPOS Tupinambá
  PUNCT | punct    |
  SYM   | sym      |
  X     | x        |
+
+`vc`is the verbal copula.
 
 
 ## Morphology
