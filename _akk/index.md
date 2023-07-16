@@ -36,8 +36,12 @@ Note that there are multiple treebanks discussed in this documentation. Informat
   * bound (status constructus), used in both RIAO and [MCONG]([MCONG](https://github.com/UniversalDependencies/UD_Akkadian-MCONG/tree/dev)
   * suffixal (followed by pronominal suffixes), used only in RIAO
   * terminal (status absolutus), used only in RIAO
-* Note that for MCONG, phi-features for pronominal suffixes (i.e. person, number, gender) are marked via [layered features](https://universaldependencies.org/u/overview/feat-layers.html) Gender[psor], Number[psor], Person[psor]. 
+* Note that for MCONG, phi-features for pronominal suffixes (i.e. person, number, gender) are marked via [layered features](https://universaldependencies.org/u/overview/feat-layers.html) Gender[psor], Number[psor], Person[psor].
+* In MCONG, nouns taking predicative suffixes are labeled using layered features Gender[pred], Number[pred], Person[pred].
 
+### Prepositional Features
+
+* In MCONG, pronominal suffixes on prepositions are marked using layered features Gender[prep], Number[prep], Person[prep].
 
 ### Verbal Features
 
@@ -51,6 +55,7 @@ In [RIAO](../treebanks/akk_RIAO/index.html) and [MCONG]([MCONG](https://github.c
 
 * In RIAO, subordinative and ventive are considered as subcategories of their own, which are tagged as boolean values.
 * In [MCONG]([MCONG](https://github.com/UniversalDependencies/UD_Akkadian-MCONG/tree/dev), the subordinate -u and subordinate -ni markers are treated as separate morphemes. In addition, [MCONG]([MCONG](https://github.com/UniversalDependencies/UD_Akkadian-MCONG/tree/dev) also tags as a feature of the verb the -mā discourse particle and yes/no question (expressed as word-final vowel lengthening).
+* In [MCONG]([MCONG](https://github.com/UniversalDependencies/UD_Akkadian-MCONG/tree/dev), oblique object markers on finite verbs are labeled using [layered features](https://universaldependencies.org/u/overview/feat-layers.html) Gender[obl],Number[obl],Person[obl].
 * Also note that in [MCONG]([MCONG](https://github.com/UniversalDependencies/UD_Akkadian-MCONG/tree/dev) stative forms based on verbal adjectives are regarded as finite verbs.
 
 ## Syntax
