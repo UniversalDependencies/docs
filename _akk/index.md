@@ -28,8 +28,8 @@ Note that there are multiple treebanks discussed in this documentation. Informat
 
 * Nominal words (NOUN, PROPN and PRON), adjectives (ADJ) and non-finite verbal forms have the subcategories:
 
-* [Case](https://universaldependencies.org/u/feat/Case.html) with 5 possible values (nominative, accusative, genitive, locative, and terminative). The locative and terminative cases are used only in [MCONG]([MCONG](https://github.com/UniversalDependencies/UD_Akkadian-MCONG/tree/dev).
-* [Number](https://universaldependencies.org/u/feat/Number.html) with 3 possible values (singular, plural, dual). Dual is used only in [MCONG]([MCONG](https://github.com/UniversalDependencies/UD_Akkadian-MCONG/tree/dev).
+* [Case](https://universaldependencies.org/u/feat/Case.html) with 5 possible values (nominative, accusative, genitive, locative, and terminative). The locative and terminative cases are used only in [MCONG]((https://github.com/UniversalDependencies/UD_Akkadian-MCONG/tree/dev).
+* [Number](https://universaldependencies.org/u/feat/Number.html) with 3 possible values (singular, plural, dual). Dual is used only in [MCONG](https://github.com/UniversalDependencies/UD_Akkadian-MCONG/tree/dev).
 * [Gender](https://universaldependencies.org/u/feat/Gender.html) with 3 possible values (masculine, feminine, common). The common gender marks only first person pronouns.
 * Base, which can have four different values:
   * free (status rectus), used in both RIAO and [MCONG](https://github.com/UniversalDependencies/UD_Akkadian-MCONG/tree/dev)
