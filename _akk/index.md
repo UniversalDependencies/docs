@@ -55,7 +55,7 @@ In [RIAO](../treebanks/akk_RIAO/index.html) and [MCONG](https://github.com/Unive
 
 * In RIAO, subordinative and ventive are considered as subcategories of their own, which are tagged as boolean values.
 * In [MCONG](https://github.com/UniversalDependencies/UD_Akkadian-MCONG/tree/dev), the subordinate -u and subordinate -ni markers are treated as separate morphemes. In addition, [MCONG]([MCONG](https://github.com/UniversalDependencies/UD_Akkadian-MCONG/tree/dev) also tags as a feature of the verb the -mā discourse particle and yes/no question (expressed as word-final vowel lengthening).
-* In [MCONG](https://github.com/UniversalDependencies/UD_Akkadian-MCONG/tree/dev), oblique object markers on finite verbs are labeled using [layered features](https://universaldependencies.org/u/overview/feat-layers.html) Gender[obl],Number[obl],Person[obl].
+* In [MCONG](https://github.com/UniversalDependencies/UD_Akkadian-MCONG/tree/dev), object markers on finite verbs are labeled using [layered features](https://universaldependencies.org/u/overview/feat-layers.html) Gender[obj],Number[obj],Person[obj].
 * Also note that in [MCONG](https://github.com/UniversalDependencies/UD_Akkadian-MCONG/tree/dev) stative forms based on verbal adjectives are regarded as finite verbs.
 
 ## Syntax
