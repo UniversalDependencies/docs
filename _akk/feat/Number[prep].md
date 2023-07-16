@@ -1,0 +1,16 @@
+---
+layout: feature
+title: 'Number[prep]'
+shortdef: 'Number of suffix pronoun attached to preposition'
+udver: '2'
+---
+
+Layered feature encoding number of suffix pronoun attached to preposition. Most prepositions in Akkadian can take pronominal objects, save _ana_ 'to' and _ina_ 'in'. 
+
+### <a name="Sing">`Sing`</a>: Pronominal suffix is singular
+### <a name="Plur">`Plur`</a>: Pronominal suffix is plural
+### <a name="Dual">`Dual`</a>: Pronominal suffix is dual (rare)
+
+#### Examples
+* _ittī<b>šunu</b>_ “with them (Number[prep]=Plur)”
+* _ittī<b>ya</b>_ “with me (Number[prep]=Sing)”
