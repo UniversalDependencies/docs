@@ -35,7 +35,8 @@ Note that there are multiple treebanks discussed in this documentation. Informat
   * free (status rectus), used in both RIAO and [MCONG]([MCONG](https://github.com/UniversalDependencies/UD_Akkadian-MCONG/tree/dev)
   * bound (status constructus), used in both RIAO and [MCONG]([MCONG](https://github.com/UniversalDependencies/UD_Akkadian-MCONG/tree/dev)
   * suffixal (followed by pronominal suffixes), used only in RIAO
-  * terminal (status absolutus), used only in RIAO 
+  * terminal (status absolutus), used only in RIAO
+* Note that for MCONG, phi-features for pronominal suffixes (i.e. person, number, gender) are marked via [layered features](https://universaldependencies.org/u/overview/feat-layers.html) Gender[psor], Number[psor], Person[psor]. 
 
 
 ### Verbal Features
