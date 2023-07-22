@@ -14,23 +14,23 @@ Adverbs are words that typically modify [verbs](_ka/pos/VERB) for such categorie
 
 Adv: 	Adverb
 
-Loc (local adverb): AdvType=Loc
-Temp (temporal adverb): AdvType=Tim
-Mod, Spec (manner adverb): AdvType=Man
-Quan (quantitative adverb): AdvType=Deg
-Caus (causal adverb): AdvType=Cau
-Q (interrogative adverb): AdvType=Int
-Rel1 (relative adverb): AdvType=Rel
+- Loc (local adverb): AdvType=Loc
+- Temp (temporal adverb): AdvType=Tim
+- Mod, Spec (manner adverb): AdvType=Man
+- Quan (quantitative adverb): AdvType=Deg
+- Caus (causal adverb): AdvType=Cau
+- Q (interrogative adverb): AdvType=Int
+- Rel1 (relative adverb): AdvType=Rel
 
 
 ### Examples
 
-local adverbs: _იქ_ 'there' etc.
-temporal adverbs: _გუშინ_ 'yesterday' etc.
-modifier adverbs: _ძალიან_ 'very' etc.
-quantitative adverbs: _ამდენჯერ_ 'so many times' etc.
-causal adverbs: _ამიტომ_ 'that's why' etc.
-manner adverbs: _ცალ-ცალკე_ 'separately' etc.
-interrogative adverbs: _როდემდე_ 'for how long' etc.
-relative adverbs: _სადაც_ 'where' etc.
+- local adverbs: _იქ_ 'there' etc.
+- temporal adverbs: _გუშინ_ 'yesterday' etc.
+- modifier adverbs: _ძალიან_ 'very' etc.
+- quantitative adverbs: _ამდენჯერ_ 'so many times' etc.
+- causal adverbs: _ამიტომ_ 'that's why' etc.
+- manner adverbs: _ცალ-ცალკე_ 'separately' etc.
+- interrogative adverbs: _როდემდე_ 'for how long' etc.
+- relative adverbs: _სადაც_ 'where' etc.
 

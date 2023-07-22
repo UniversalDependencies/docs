@@ -15,17 +15,17 @@ numerals can be expressed as words (e.g. ერთი 'one' etc.), Arabic numera
 
 Num:	Numeral
 
-Card (cardinal numerals):	NumType=Card
-Ord (ordinal numerals):		NumType=Ord
-Frac (fractional numerals):	NumType=Frac
-Mul (multiple numerals):	NumType=Mult
+- Card (cardinal numerals):		NumType=Card
+- Ord (ordinal numerals):		NumType=Ord
+- Frac (fractional numerals):	NumType=Frac
+- Mul (multiple numerals):		NumType=Mult
 
 
 ### Examples
 
-cardinal numerals: _ერთი_ 'one' etc.
-ordinal numerals: _პირველი_ 'the first' etc.
-fractional numerals: _მესამედი_ 'a third part' etc.
-multiple numerals: _ორჯერ_ 'twice' etc.
+- cardinal numerals: _ერთი_ 'one' etc.
+- ordinal numerals: _პირველი_ 'the first' etc.
+- fractional numerals: _მესამედი_ 'a third part' etc.
+- multiple numerals: _ორჯერ_ 'twice' etc.
 
 

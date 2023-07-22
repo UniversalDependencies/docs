@@ -15,25 +15,25 @@ pronoun types are very irregular; some of the them follow the rules of the nomin
 
 Pron: Pronoun
 
-Pers (personal pronoun): 			PronType=Prs
-Dem (demonstrative pronoun): 		PronType=Dem
-Poss (possessive pronoun): 			Poss=Yes
-Det (determinal/reflexive pronoun):	PronType=Tot
-Ind (indefinite pronoun):			PronType=Ind
-Int (interrogative pronoun):		PronType=Int
-Rel (relative pronoun):				PronType=Rel
-Recp (reciprocal pronoun):			PronType=Rcp
-Net (negative pronoun):				PronType=Neg
+- Pers (personal pronoun): 				PronType=Prs
+- Dem (demonstrative pronoun): 			PronType=Dem
+- Poss (possessive pronoun): 			Poss=Yes|PronType=Prs
+- Det (determinal/reflexive pronoun):	PronType=Tot
+- Ind (indefinite pronoun):				PronType=Ind
+- Int (interrogative pronoun):			PronType=Int
+- Rel (relative pronoun):				PronType=Rel
+- Recp (reciprocal pronoun):			PronType=Rcp
+- Net (negative pronoun):				PronType=Neg
 
 
 ### Examples
 
-personal pronouns: _მე_ 'I' etc.
-demonstrative pronouns: _ეს_ 'this' etc.
-possessive pronouns: _ჩემი_ 'my' etc.
-determinal/reflexive pronouns: _ყოველი_ 'each' etc.
-indefinite pronouns: _ვიღაც_ 'someone' etc.
-interrogative pronouns: _როგორი_ 'a what sort' etc.
-relative pronouns: _ვინც_ 'who' etc.
-reciprocal pronouns: _ერთმანეთი_ 'each other' etc.
-negative pronouns: _არავინ_ 'nobody' etc.
+- personal pronouns: _მე_ 'I' etc.
+- demonstrative pronouns: _ეს_ 'this' etc.
+- possessive pronouns: _ჩემი_ 'my' etc.
+- determinal/reflexive pronouns: _ყოველი_ 'each' etc.
+- indefinite pronouns: _ვიღაც_ 'someone' etc.
+- interrogative pronouns: _როგორი_ 'a what sort' etc.
+- relative pronouns: _ვინც_ 'who' etc.
+- reciprocal pronouns: _ერთმანეთი_ 'each other' etc.
+- negative pronouns: _არავინ_ 'nobody' etc.
