@@ -1,7 +1,7 @@
 ---
 layout: feature
-title: 'AdvType'
-shortdef: 'adverbial type'
+title: 'PartType'
+shortdef: 'particle type'
 udver: '2'
 ---
 
