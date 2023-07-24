@@ -5,7 +5,9 @@ shortdef : 'adverbial relative clause modifier'
 udver: '2'
 ---
 
-This relation applies to relative clauses that modify a clause (as opposed to typical relative clauses, which are adnominal and use [acl:relcl]()).
+This relation applies to a relative clause that is adverbial in one of the following ways:
+
+(1) It modifies a clause (as opposed to typical relative clauses, which are adnominal and use [acl:relcl]()).
 
 For example, the antecedent is a clause in:
 
@@ -15,5 +17,18 @@ advcl:relcl(tried, idea)
 nsubj(idea, which)
 ~~~
 
-For detailed discussion, see the [English relative clause guidelines](acl-relcl.html#adverbial-relative-clauses).
+This phenomenon also figures in _it_-clefts.
+
+For detailed discussion, see the English relative clause guidelines: [adverbial relatives](acl-relcl.html#adverbial-relative-clauses), [acl-relcl.html#it-clefts](_it_-clefts).
+
+(2) It forms a free relative with a WH-adverb (_where_, _when_, _why_, _how_) as head:
+
+~~~ sdparse
+I looked where you were sitting
+advcl:relcl(where, sitting)
+advmod(looked, where)
+~~~
+
+See [details on free relatives](acl-relcl.html#free-relatives).
+
 <!-- Interlanguage links updated Út 9. května 2023, 20:03:55 CEST -->
