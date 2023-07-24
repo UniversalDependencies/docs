@@ -41,6 +41,13 @@ sentence to mean that the boss will not be doing any digging, in the second
 sentence it is clear that the subject of __digging__ can only be __we__. This is
 what distinguishes `ccomp` and `xcomp`.
 
+Adjectives may also license `ccomp`:
+
+~~~ sdparse
+I was afraid/ADJ that this would happen
+ccomp(afraid, happen)
+~~~
+
 ### Reported Speech
 
 With a speech verb like _say_, the content of reported speech is considered to be part of the verb's valency. It therefore attaches as [ccomp]()—not only when integrated within the clause as an indirect quotation (_said that..._), but also when set off as a direct quotation, even with inverted order:
