@@ -19,7 +19,7 @@ nsubj(idea, which)
 
 This phenomenon also figures in _it_-clefts.
 
-For detailed discussion, see the English relative clause guidelines: [adverbial relatives](acl-relcl.html#adverbial-relative-clauses), [acl-relcl.html#it-clefts](_it_-clefts).
+For detailed discussion, see the English relative clause guidelines: [adverbial relatives](acl-relcl.html#adverbial-relative-clauses), [_it_-clefts](acl-relcl.html#it-clefts).
 
 (2) It forms a free relative with a WH-adverb (_where_, _when_, _why_, _how_) as head:
 
