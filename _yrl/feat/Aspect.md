@@ -16,14 +16,11 @@ udver: '2'
   <td><a href="#Prosp">Prosp</a></td>
   <td><a href="#Frus">Frus</a></td>
   <td><a href="#Freq">Freq</a></td>
+  <td><a href="#Compl">Freq</a></td>
 </tr>
 </table>
 
-Aspect is typically a feature of [verbs](u-pos/VERB).
-It may also occur with other parts of speech
-([nouns](u-pos/NOUN), [adjectives](u-pos/ADJ), [adverbs](u-pos/ADV)),
-depending on whether borderline word forms such as gerunds and participles
-are classified as verbs or as the other category.
+Cross-linguistically, aspect is typically a feature of [verbs](u-pos/VERB). In Nheengatu, it also occurs with other parts of speech, e.g., [nouns](u-pos/NOUN), [subordinating conjunctions](u-pos/SCONJ), [adverbs](u-pos/ADV), and specially [particles](u-pos/PART).
 
 Aspect is a feature that specifies duration of the action in time,
 whether the action has been completed etc. In some languages
@@ -36,10 +33,6 @@ Pairs of imperfective and perfective verbs exist and are often
 morphologically related but the space is highly irregular and the
 verbs are considered to belong to separate lemmas.
 
-Since we proceed bottom-up, the current standard covers only a few
-aspect values found in corpora.  See Wikipedia
-(<http://en.wikipedia.org/wiki/Grammatical_aspect>) for a long list of
-other possible aspects.
 
 ### <a name="Imp">`Imp`</a>: imperfect aspect
 
@@ -154,7 +147,7 @@ Examples cited by Avila (2021) (our English translations):
 
 ### <a name="Freq">`Freq`</a>: frequentative aspect
 
-The frequentative aspect is marked in Nheengatu with the suffixes *-wara* and *-wera*. These suffixes attach to verbs or nouns, adverbs, etc. conveying the clause predicate, see Avila (2021, p. 809-810 and p. 824-825). They express that a state or event holds on continually or occurs repeatedely with a very high frequency.  While *-wara* applies to predicates denoting present events, *-wera* specify that the event is located in the past. Tipically, *-wara* translates as *always* in English.
+The frequentative aspect is marked in Nheengatu with the suffixes *-wara* and *-wera*. These suffixes attach to verbs or nouns, adverbs, etc. conveying the clause predicate, see Avila (2021, p. 809-810 and p. 824-825). They express that a state or event holds on continually or occurs repeatedly with a very high frequency.  While *-wara* applies to predicates denoting present events, *-wera* specify that the event is located in the past. Typically, *-wara* translates as *always* in English.
 
 #### References
 
@@ -169,4 +162,21 @@ Examples cited by Avila (2021) (our English translations):
 * [yrl] _Ixé se <b>rukawara</b> aikú, ti xinga asemu kwá suí. &nbsp;_  “I'm always at home, I hardly leave here.”
 * [yrl] _Ta <b>upukawera</b> tẽ paá, ma ti ta umaã tá resé. &nbsp;_  “They actually laughed, but didn't look at them.”
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:32 CEST -->
+### <a name="Compl">`Compl`</a>: completive aspect
+
+Following  Avila (2021, p. 586), the completive aspect is marked in Nheengatu with the particle *pawa* (often reduced to *pau* or *pá*), which Cruz (2011, p. 396) analyses as incorporation of the homonymous verb meaning 'to finish'. The completive aspect indicates "that an action has been performed thoroughly or to completion" (Bybee; Perkins; Pagliuca, 1994, p. 18). Nheengatu sentences with the completive aspect often correspond to English translation equivalents with adverbs such as "completely". In other situations, completion of the event expressed by the clause main predicate denotes involvement of all members of a plural group referred to by the subject in case of an intransitive verb or the object in case of a transitive verb.
+
+#### References
+
+Bybee, J., Perkins, R., Pagliuca, W. 1994. *The evolution of grammar: tense, aspect, and modality in the languages of the world*. Chicago: Univesity of Chicago Press.
+
+#### Examples
+
+Examples cited by Avila (2021) (our English translations):
+
+* [yrl] _Usú <b>pawa</b>, ti ana umanduári umunhã aintá ruka.&nbsp;_  “They all go, they no longer remember to make their houses."
+* [yrl] _Ape Pirá-itá Manha umukanhemu <b>pawa</b> aintá suí maã uxari waá kwera aintá supé. &nbsp;_  “Then the Mother of Fishes made disappear everything she had given them.”
+* [yrl] _Remaã yuíri mayé ií umuyasuka <b>pawa</b> se awa-itá pixunasawa! &nbsp;_  “See also how the water washed away all the blackness from my hair!”
+* [yrl] _Pepuri <b>pawa</b> paraná upé. &nbsp;_  “Everyone jump into the river.”
+* [yrl] _Uka aíwa ukukúi <b>pá</b> wã. &nbsp;_  “The old house has already completely collapsed.”
+
