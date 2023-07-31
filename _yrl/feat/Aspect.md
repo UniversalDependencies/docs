@@ -164,7 +164,7 @@ Examples cited by Avila (2021) (our English translations):
 
 ### <a name="Compl">`Compl`</a>: completive aspect
 
-Following  Avila (2021, p. 586), the completive aspect is marked in Nheengatu with the particle *pawa* (often reduced to *pau* or *pá*), which Cruz (2011, p. 396) analyses as incorporation of the homonymous verb meaning 'to finish'. The completive aspect indicates "that an action has been performed thoroughly or to completion" (Bybee; Perkins; Pagliuca, 1994, p. 18). Nheengatu sentences with the completive aspect often correspond to English translation equivalents with adverbs such as "completely". In other situations, completion of the event expressed by the clause main predicate denotes involvement of all members of a plural group referred to by the subject in case of an intransitive verb or the object in case of a transitive verb (Bybee; Perkins; Pagliuca, 1994, p. 57).
+Following  Avila (2021, p. 586), the completive aspect is marked in Nheengatu with the particle *pawa* (often reduced to *páu* or *pá*), which Cruz (2011, p. 396) analyses as incorporation of the homonymous verb meaning 'to finish'. The completive aspect indicates "that an action has been performed thoroughly or to completion" (Bybee; Perkins; Pagliuca, 1994, p. 18). Nheengatu sentences with the completive aspect often correspond to English translation equivalents with adverbs such as "completely". In other situations, completion of the event expressed by the clause main predicate denotes involvement of all members of a plural group referred to by the subject in case of an intransitive verb or the object in case of a transitive verb (Bybee; Perkins; Pagliuca, 1994, p. 57).
 
 #### References
 
@@ -179,4 +179,3 @@ Examples cited by Avila (2021) (our English translations):
 * [yrl] _Remaã yuíri mayé ií umuyasuka <b>pawa</b> se awa-itá pixunasawa! &nbsp;_  “See also how the water washed away all the blackness from my hair!”
 * [yrl] _Pepuri <b>pawa</b> paraná upé. &nbsp;_  “Everyone jump into the river.”
 * [yrl] _Uka aíwa ukukúi <b>pá</b> wã. &nbsp;_  “The old house has already completely collapsed.”
-
