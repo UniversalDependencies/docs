@@ -83,21 +83,26 @@ ccomp(said, start)
 ~~~
 
 Pro-drop languages have clauses where the subject is not present as a separate word,
-yet it is inherently present (and often deducible from the form of the verb)
-and it does not depend on arguments from a higher clause.
-Thus in neither of the following two Czech examples is there any overt subject,
-yet only the second example contains an `xcomp`.
+yet it is inherently present (and often deducible from the form of the verb).
+The relation between clauses with pro-drop may or may not be `xcomp`.
+The implicit subjects of a subordinate clause and a higher clause may be coincidentally coreferent, warranting [ccomp]() or [advcl]():
 
 ~~~ sdparse
 Píšu , protože jsem to slíbil . \n I-write , because I-have it promised .
 advcl(Píšu, slíbil)
 advcl(I-write, promised)
+aux(slíbil, jsem)
+aux(promised, I-have)
 ~~~
+
+It is only `xcomp` if the implicit subject depends on an argument from a higher clause (one cannot be varied without the other):
 
 ~~~ sdparse
 Slíbil jsem psát . \n Promised I-have to-write .
 xcomp(Slíbil, psát)
 xcomp(Promised, to-write)
+aux(Slíbil, jsem)
+aux(Promised, I-have)
 ~~~
 
 ### Secondary Predicates
