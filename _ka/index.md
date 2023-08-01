@@ -114,7 +114,7 @@ case(ცა-2, ზე-3)
 ---
 
 ## Syntax
-* UD_Georgian-GLC treebank uses all main DEPREL tags except of [expl] (https://universaldependencies.org/u/dep/expl.html), [dislocated] (https://universaldependencies.org/u/dep/dislocated.html), [clf] (https://universaldependencies.org/u/dep/clf.html) and [reparandum] (https://universaldependencies.org/u/dep/reparandum.html). Word order in Georgian language has a flexible word order, which sometimes follows Subject-Indirect Object-Object-Verb patterns.
+* UD_Georgian-GLC treebank uses all main DEPREL tags except of [expl] (https://universaldependencies.org/u/dep/expl.html), [dislocated] (https://universaldependencies.org/u/dep/dislocated.html), [clf] (https://universaldependencies.org/u/dep/clf.html) and [reparandum] (https://universaldependencies.org/u/dep/reparandum.html). Georgian language has a flexible word order, which sometimes follows Subject-Indirect Object-Object-Verb patterns.
 * Subjects have the following characteristics:
   * Case marking: Subjects occur in nominative, ergative or dative. 
   * Passivization: Subjects are suppressed when verbs (both intransitive and transitive) are passivized. 
