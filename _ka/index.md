@@ -124,7 +124,6 @@ case(ცა-2, ზე-3)
 * Indirect objects have the following characteristics:
   * Case marking: Indirect objects occur in dative.
   * The following scheme reflects the correlation between the case of the core arguments and the conjugation system of a verb:
----
 
 | *v*-type             | ------------------ | *m*-type             | ------------------ | 
 | ------------------ | ------------------ | ------------------ | ------------------ | 
@@ -134,7 +133,6 @@ case(ცა-2, ზე-3)
 | NOM                | ERG (*v*-set) + DAT  | NOM (*m*-set) + DAT  | DAT (*∅* -*a*)         | 
 | NOM                | ERG (*v*-set) + DAT  | NOM (*∅*-set) + DAT  | DAT (*m*- -*a*)           | 
 
----
 
 * The following subtypes are used in Georgian:
   * acl: clausal modifier of noun (adnominal clause)
