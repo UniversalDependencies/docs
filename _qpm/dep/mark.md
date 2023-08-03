@@ -11,10 +11,9 @@ or _whether._ For an [adverbial clause](advcl), the marker is typically a
 [subordinating conjunction](../pos/SCONJ) like [en] _while_ or _although._ The marker is a dependent of the
 subordinate clause head. In a [relative clause](../overview/complex-syntax.html), it is a normally uninflected word, which simply introduces a relative clause, such as [he] _še_. (In this last use, one needs to distinguish between relative clause markers, which are `mark`, from relative pronouns such as [en] _who_ or _that_, which fill a regular verbal argument or modifier grammatical relation.) 
 
-~~~ sdparse
-Forces engaged in fighting after insurgents attacked
-mark(attacked, after)
-~~~
+
+
+
 
 ~~~ sdparse
 He says that you like to swim
