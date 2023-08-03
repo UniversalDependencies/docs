@@ -5,11 +5,17 @@ shortdef: 'marker'
 udver: '2'
 ---
 
-A marker is the word marking a clause as subordinate to
-another clause. For a [complement clause](ccomp), this is words like [en] _that_
-or _whether._ For an [adverbial clause](advcl), the marker is typically a
-[subordinating conjunction](../pos/SCONJ) like [en] _while_ or _although._ The marker is a dependent of the
-subordinate clause head. In a [relative clause](../overview/complex-syntax.html), it is a normally uninflected word, which simply introduces a relative clause, such as [he] _še_. (In this last use, one needs to distinguish between relative clause markers, which are `mark`, from relative pronouns such as [en] _who_ or _that_, which fill a regular verbal argument or modifier grammatical relation.) 
+Subordinated clauses are introduced with markers. A marker is a dependent of the
+subordinate clause head with the mark dependency. Subordinating conjunctions SCONJ are typically used as markers. 
 
 
+#### Examples
+
+- _akú_ "if", _jála i ty sas námi, akú íšteš_ "come with us you as well, if you wish to" [lit. "come and you with us, if you wish"]
+- _agá_ "when/after", _agá so púsnom ad rábato še póminom prez vámi_ "when I finish my job, I will call at your house" [lit. "when I finish from my job, I will pass by you"]
+- _durgá_ "until", _stánah vir vadá znoj durgá da so pókačem na čúčkono_ "I soaked in sweat by the time I climbed at the top"
+- _pak_ "while", _ja sédom faf sélono, pak dečjána faf kasabóno_ "I stay in the village, while the children [stay]in town"
+- _če_ "that", _káza, če útre néma da móža da dójde na rábato_ "he said that tomorrow he will not be albe to come to work"
+- _ta_ "so as", _še go stórime inýj, ta da móžot vrítsi da dójdot_ "we shall do it that way, so that everybody may come"
+- _atkák_ "since", _íma mlógo godíny atkák só ažóniho i déti némot jéšte_ "it is many years since they got married and they have no children"
 <!-- Interlanguage links updated Út 9. května 2023, 20:04:18 CEST -->
