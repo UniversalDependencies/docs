@@ -11,7 +11,7 @@ subordinate clause head with the [mark]() dependency. Subordinating conjunctions
 
 #### Examples
 
-- _akú_ "if", _jála i ty sas námi_, <bf>akú</bf> íšteš_ "come with us you as well, if you wish to" [lit. "come and you with us, if you wish"]
+- _akú_ "if", _jála i ty sas námi_, <b>akú</b> _íšteš_ "come with us you as well, if you wish to" [lit. "come and you with us, if you wish"]
 - _agá_ "when/after", _agá so púsnom ad rábato še póminom prez vámi_ "when I finish my job, I will call at your house" [lit. "when I finish from my job, I will pass by you"]
 - _durgá_ "until", _stánah vir vadá znoj durgá da so pókačem na čúčkono_ "I soaked in sweat by the time I climbed at the top"
 - _pak_ "while", _ja sédom faf sélono, pak dečjána faf kasabóno_ "I stay in the village, while the children [stay]in town"
