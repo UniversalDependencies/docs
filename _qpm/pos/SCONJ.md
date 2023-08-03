@@ -24,3 +24,5 @@ For _coordinating conjunctions,_ see [CCONJ](CCONJ.md).
 - _ta_ "so as", _še go stórime inýj, ta da móžot vrítsi da dójdot_ "we shall do it that way, so that everybody may come"
 - _atkák_ "since", _íma mlógo godíny atkák só ažóniho i déti némot jéšte_ "it is many years since they got married and they have no children"
 <!-- Interlanguage links updated Út 9. května 2023, 20:03:28 CEST -->
+
+
