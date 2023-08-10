@@ -1,7 +1,7 @@
 ---
 layout: base
 title:  'Introduction'
-permalink: introduction.html
+permalink: ka/overview/introduction.html
 udver: '2'
 ---
 
