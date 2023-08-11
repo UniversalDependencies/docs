@@ -560,7 +560,7 @@ advcl(old, get)
 Even if the thing measured is provided by a noun, it is the adjective that heads the additional clause:
 
 ~~~ sdparse
-We have enough/sufficient flour to get started
+We have enough/sufficient/ADJ flour to get started
 obj(have, flour)
 amod(flour, enough/sufficient)
 advcl(enough/sufficient, get)
