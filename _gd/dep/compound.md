@@ -17,7 +17,7 @@ Currently noun--noun compounds are annotated with `nmod`.
 The motivation here is that they can appear both attributively and predicatively and the use is to intensify the meaning.
 
 Attributive:
-_lèabagan mòra <b>mòra</b> an fheadhainn ud_ 'very big flounders those ones' (c10_161)
+_lèabagan mòra <b>mòra</b> an fheadhainn ud_ 'very big flounders those ones' (c10\_161)
 ~~~ conllu
 1	lèabagan	lèabag	NOUN	Ncpfn	Case=Nom|Gender=Fem|Number=Plur	0	root	_	_
 2	mòra	mòr	ADJ	Aq-pfn	Case=Nom|Gender=Fem|Number=Plur	1	amod	_	_
@@ -28,17 +28,16 @@ _lèabagan mòra <b>mòra</b> an fheadhainn ud_ 'very big flounders those ones' 
 
 ~~~
 
-_tràigh mhòr <b>mhòr</b> <b>mhòr</b>_ 'a very very low tide' (c06_082a)
+_tràigh mhòr <b>mhòr</b> <b>mhòr</b>_ 'a very very low tide' (c06\_082a)
 ~~~ conllu
 1	tràigh	tràigh	NOUN	Ncsfn	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
 2	mhòr	mòr	ADJ	Aq-sfn	Case=Nom|Gender=Fem|Number=Sing	1	amod	_	_
 3	mhòr	mòr	ADJ	Aq-sfn	Case=Nom|Gender=Fem|Number=Sing	2	compound	_	_
 4	mhòr	mòr	ADJ	Aq-sfn	Case=Nom|Gender=Fem|Number=Sing	2	compound	_	__
-
 ~~~
 
 Predicative:
-_cha robh e ach beag <b>beag</b>_ 'it was nothing but really small' (c10_165)
+_cha robh e ach beag <b>beag</b>_ 'it was nothing but really small' (c10\_165)
 ~~~ conllu
 1	cha	cha	PART	Qn	PartType=Cmpl|Polarity=Neg	2	mark:prt	_	_
 2	robh	bi	VERB	V-s--d	Tense=Past	0	root	_	_
@@ -46,11 +45,20 @@ _cha robh e ach beag <b>beag</b>_ 'it was nothing but really small' (c10_165)
 4	ach	ach	ADP	Sp	_	5	case	_	_
 5	beag	beag	ADJ	Ap	_	2	xcomp:pred	_	_
 6	beag	beag	ADJ	Ap	_	5	compound	_	_
+~~~
 
+
+If on the other hand there is a sequence of adjectives that aren't all the same adjective then they are connected to whatever they describe separately and with their own relations:
+
+_fhìor sheann fhreumhan_ 'very old roots' (fp07\_007)
+~~~ conllu
+28	fhìor	fìor	ADJ	Ar	_	29	amod	_	_
+29	sheann	seann	ADJ	Ar	_	30	amod	_	_
+30	fhreumhan	freumh	NOUN	Ncpmd	Case=Dat|Gender=Masc|Number=Plur	26	obl	_	_
 ~~~
 
 #### _deug_
-_an naodhamh latha <b>deug</b>_  'the nineteenth day' (fp06_001)
+_an naodhamh latha <b>deug</b>_  'the nineteenth day' (fp06\_001)
 
 ~~~ conllu
 1	an	an	DET	Tdsm	Gender=Masc|Number=Sing	3	det	_	_
