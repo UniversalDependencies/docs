@@ -10,7 +10,9 @@ At present UD for Scottish Gaelic contains a single corpus, the Annotated Refere
 
 ## Tokenisation and Word Segmentation
 
-Words are delimited by whitespace or punctuation. There are no multiword tokens.
+Words are delimited by whitespace or punctuation.
+There are no multiword tokens.
+There are however multitoken words.
 
 ### Reconstructing spacing
 Context: ARCOSG does not contain the original texts, so we have to reconstruct them in a consistent way.
@@ -45,6 +47,8 @@ Ideally this should be exactly parallel with _nas_.
 #### _sam bith_
 _rud sam bith_, 'whatever' and so forth. Currently both _sam_ and _bith_ are marked as `ADJ` but there is clearly internal structure.
 
+### Multitoken words
+
 Conversely, there are single tokens in ARCOSG that correspond to more than one word in the UD sense.
 Here are the most common families:
 * Inflected prepositions (tagged `Pr*` in ARCOSG) such as _orm_, _agam_ and _ann_ are divided into the preposition which is `ADP` and the personal pronoun which is `PRON`.
@@ -54,7 +58,7 @@ Here are the most common families:
 
 ## Morphology
 
-### Tags
+### Parts of speech
 
 Standard UPOS tags are used throughout. Generally we follow the choices made in the Irish UD treebanks.
 * `AUX` is used for _is_ (the copula) and _rach_ (the passive copula).
@@ -146,7 +150,21 @@ In inversion structures, the object is `obj` of the verbal noun, with the except
 
 ### _air ais_
 
-While _ais_ is tagged as `Nf` in phrases like _air ais no air adhart_ there seems to be no good reason to treat the first half differently from the second half, so _air_ is `case` of _ais_ and _ais_ is the head and `obl` of whatever it is modifying.
+In ARCOSG, _ais_ is tagged as `Nf` (fossilized noun).
+However there are phrases like _air ais no air adhart_ in which there seems to be no good reason to treat the first half differently from the second half, even if _ais_ is no longer productive.
+
+~~~ conllu
+# sent_id = c04_024a
+# speaker = [3]
+# text = cha do sgrìobh i air ais fhathast
+1	cha	cha	PART	Qn	PartType=Vb|Polarity=Neg	3	mark:prt	_	_
+2	do	do	PART	Q--s	Tense=Past	3	mark:prt	_	_
+3	sgrìobh	sgrìobh	VERB	V-s	Tense=Past	0	root	_	_
+4	i	i	PRON	Pp3sf	Gender=Fem|Number=Sing|Person=3	3	nsubj	_	_
+5	air	air	ADP	Sp	_	6	case	_	_
+6	ais	ais	NOUN	Nf	_	3	obl	_	_
+7	fhathast	fhathast	ADV	Rt	_	3	advmod	_	_
+~~~
 
 ### _bi_
 Auxiliary use: we follow the Irish UD treebank and treat _bi_ as a `VERB`, and the verbal noun as a `NOUN` linked back to _bi_ with an `xcomp:pred` deprel.
