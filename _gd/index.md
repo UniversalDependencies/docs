@@ -38,10 +38,9 @@ Also close up _dhà-na-tri_ (see fp05\_012).
 
 The original version of ARCOSG contains tokens that contain spaces.
 For UD, however, we need to split these up.
-For the moment we duplicate the UPOS and the XPOS for each of the words.
-PROPNs have a `flat:name` relation; others use `fixed`.
+The XPOS is duplicated for each of these words but the UPOS need not be.
 
-The multiword expressions using the `fixed` relation are documented at [https://universaldependencies.org/gd/deps/fixed.html](deps/fixed).
+PROPNs have a [`flat:name` relation](https://universaldependencies.org/gd/dep/flat-name.html); others use [`fixed`](https://universaldependencies.org/gd/dep/fixed.html).
 
 ### Multitoken words
 
