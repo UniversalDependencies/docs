@@ -39,13 +39,9 @@ Also close up _dhà-na-tri_ (see fp05\_012).
 The original version of ARCOSG contains tokens that contain spaces.
 For UD, however, we need to split these up.
 For the moment we duplicate the UPOS and the XPOS for each of the words.
-PROPNs have a `flat:name` relation; others have a `fixed` relation but this needs to be improved.
+PROPNs have a `flat:name` relation; others use `fixed`.
 
-Some difficult cases follow:
-#### _na b'_/_na bu_
-Ideally this should be exactly parallel with _nas_.
-#### _sam bith_
-_rud sam bith_, 'whatever' and so forth. Currently both _sam_ and _bith_ are marked as `ADJ` but there is clearly internal structure.
+The multiword expressions using the `fixed` relation are documented at [https://universaldependencies.org/gd/deps/fixed.html](deps/fixed).
 
 ### Multitoken words
 
@@ -153,10 +149,8 @@ In inversion structures, the object is `obj` of the verbal noun, with the except
 In ARCOSG, _ais_ is tagged as `Nf` (fossilized noun).
 However there are phrases like _air ais no air adhart_ in which there seems to be no good reason to treat the first half differently from the second half, even if _ais_ is no longer productive.
 
+c04\_024: 'she did not write back yet'
 ~~~ conllu
-# sent_id = c04_024a
-# speaker = [3]
-# text = cha do sgrìobh i air ais fhathast
 1	cha	cha	PART	Qn	PartType=Vb|Polarity=Neg	3	mark:prt	_	_
 2	do	do	PART	Q--s	Tense=Past	3	mark:prt	_	_
 3	sgrìobh	sgrìobh	VERB	V-s	Tense=Past	0	root	_	_
