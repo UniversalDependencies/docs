@@ -43,12 +43,12 @@ The following 12 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 1	fgColor:white
 # visual-style 1 7 ccomp	color:blue
 1	Роспис(ь)	роспись	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	wf="Роспись"|SpaceAfter=No
-2	,	,	PUNCT	_	_	7	punct	_	wf=","|SpaceAfter=Yes
-3	что	что	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	7	det	_	wf="что"|SpaceAfter=Yes
-4	ис	изъ	ADP	_	_	6	case	_	wf="ис"|SpaceAfter=Yes
-5	которои	который	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	6	det	_	wf="которои"|SpaceAfter=Yes
-6	д(е)р(е)вни	деревня	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	7	obl	_	wf="деревни"|SpaceAfter=Yes
-7	пригнали	пригнати	VERB	_	Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	1	ccomp	_	wf="пригнали"|SpaceAfter=Yes
+2	,	,	PUNCT	_	_	7	punct	_	wf=","|_
+3	что	что	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	7	det	_	wf="что"|_
+4	ис	изъ	ADP	_	_	6	case	_	wf="ис"|_
+5	которои	который	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	6	det	_	wf="которои"|_
+6	д(е)р(е)вни	деревня	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	7	obl	_	wf="деревни"|_
+7	пригнали	пригнати	VERB	_	Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	1	ccomp	_	wf="пригнали"|_
 8	баранов	баранъ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	7	nsubj	_	wf="баранов"|SpaceAfter=No
 9	.	.	PUNCT	_	_	1	punct	_	wf="."|SpaceAfter=No
 
@@ -61,16 +61,16 @@ The following 12 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 9 ccomp	color:blue
-1	И	и	CCONJ	_	_	5	cc	_	Norm=И
-2	не	не	PART	_	Polarity=Neg	3	advmod	_	Norm=не
-3	вотще	вотще	ADV	_	Degree=Pos	5	advmod	_	Norm=вотще
-4	сіꙗ	сей	DET	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Dem	3	nsubj:pass	_	Norm=сіꙗ
-5	рекошасꙗ	рещи	VERB	Tense=Imp	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Reflex=Yes|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Norm=рекошасꙗ|SpaceAfter=No
-6	,	,	PUNCT	_	_	9	punct	_	Norm=,
-7	ꙗко	яко	SCONJ	_	_	9	mark	_	Norm=ꙗко
-8	всꙗ	весь	DET	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Tot	9	det	_	Norm=всꙗ
-9	стран(н)аꙗ	странный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	5	ccomp	_	Norm=страннаꙗ
-10	etc.	etc.	X	_	Foreign=Yes	9	dep	_	Norm=etc.
+1	И	и	CCONJ	_	_	5	cc	_	Norm="И"
+2	не	не	PART	_	Polarity=Neg	3	advmod	_	Norm="не"
+3	вотще	вотще	ADV	_	Degree=Pos	5	advmod	_	Norm="вотще"
+4	сіꙗ	сей	DET	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Dem	3	nsubj:pass	_	Norm="сіꙗ"
+5	рекошасꙗ	рещи	VERB	Tense=Imp	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Reflex=Yes|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Norm="рекошасꙗ"|SpaceAfter=No
+6	,	,	PUNCT	_	_	9	punct	_	Norm=","
+7	ꙗко	яко	SCONJ	_	_	9	mark	_	Norm="ꙗко"
+8	всꙗ	весь	DET	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Tot	9	det	_	Norm="всꙗ"
+9	стран(н)аꙗ	странный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	5	ccomp	_	Norm="страннаꙗ"
+10	etc.	etc.	X	_	Foreign=Yes	9	dep	_	Norm="etc."
 
 ~~~
 

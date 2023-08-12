@@ -25,7 +25,7 @@ The following 35 pairs of parts of speech are connected with `parataxis`: <tt><a
 1	"	"	PUNCT	Z:-------------	_	2	punct	2:punct	_
 2	Počkejte	počkat	VERB	Vi-P---2--A----	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Polarity=Pos|VerbForm=Fin	6	parataxis	6:parataxis	SpaceAfter=No
 3	,	,	PUNCT	Z:-------------	_	2	punct	2:punct	_
-4	to	ten	DET	PDNS1----------	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	nsubj	6:nsubj|7:nsubj	_
+4	to	ten	DET	PDNS1----------	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	nsubj	6:nsubj|7:nsubj:xsubj	_
 5	už	už	ADV	Db-------------	_	6	advmod	6:advmod	_
 6	musí	muset	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 7	být	být	AUX	Vf--------A----	Polarity=Pos|VerbForm=Inf	6	xcomp	6:xcomp	_

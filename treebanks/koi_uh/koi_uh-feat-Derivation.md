@@ -7,12 +7,12 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Permyak-UH: Features: `Derivation`
 
 This feature is language-specific.
-It occurs with 7 different values: `Ana`, `CompMod`, `Dimin`, `Ik`, `Omon`, `ProprietiveMod`, `VAbe`.
+It occurs with 6 different values: `Ana`, `CompMod`, `Ik`, `Omon`, `ProprietiveMod`, `VAbe`.
 
-15 tokens (1%) have a non-empty value of `Derivation`.
-15 types (3%) occur at least once with a non-empty value of `Derivation`.
-15 lemmas (4%) occur at least once with a non-empty value of `Derivation`.
-The feature is used with 2 part-of-speech tags: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (8; 1% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (7; 1% instances).
+12 tokens (1%) have a non-empty value of `Derivation`.
+12 types (2%) occur at least once with a non-empty value of `Derivation`.
+12 lemmas (3%) occur at least once with a non-empty value of `Derivation`.
+The feature is used with 2 part-of-speech tags: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (8; 1% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (4; 0% instances).
 
 ### `VERB`
 
@@ -30,17 +30,17 @@ The most frequent other feature values with which `VERB` and `Derivation` co-occ
 
 ### `NOUN`
 
-7 <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> tokens (3% of all `NOUN` tokens) have a non-empty value of `Derivation`.
+4 <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> tokens (2% of all `NOUN` tokens) have a non-empty value of `Derivation`.
 
-The most frequent other feature values with which `NOUN` and `Derivation` co-occurred: <tt><a href="koi_uh-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (6; 86%), <tt><a href="koi_uh-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (6; 86%), <tt><a href="koi_uh-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5; 71%), <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5; 71%), <tt><a href="koi_uh-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4; 57%).
+The most frequent other feature values with which `NOUN` and `Derivation` co-occurred: <tt><a href="koi_uh-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="koi_uh-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="koi_uh-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="koi_uh-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 75%).
 
 `NOUN` tokens may have the following values of `Derivation`:
 
-* `Dimin` (3; 43% of non-empty `Derivation`): <em>видзоккез, керкуокыс, пельӧсокӧ</em>
-* `ProprietiveMod` (4; 57% of non-empty `Derivation`): <em>Сеня, тошока, уссэза, ӧшына</em>
+* `ProprietiveMod` (4; 100% of non-empty `Derivation`): <em>Сеня, тошока, уссэза, ӧшына</em>
 
 ## Relations with Agreement in `Derivation`
 
 The 10 most frequent relations where parent and child node agree in `Derivation`:
+<tt>NOUN --[<tt><a href="koi_uh-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1; 100%),
 <tt>VERB --[<tt><a href="koi_uh-dep-conj.html">conj</a></tt>]--> VERB</tt> (1; 100%).
 

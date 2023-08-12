@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="la_udante-dep-cop.html">cop</a></tt>.
 
-24 nodes (0%) are attached to their parents as `cop:outer`.
+25 nodes (0%) are attached to their parents as `cop:outer`.
 
-24 instances of `cop:outer` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.29166666666667.
+25 instances of `cop:outer` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.32.
 
-The following 6 pairs of parts of speech are connected with `cop:outer`: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (12; 50% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (5; 21% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (3; 13% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt>-<tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (2; 8% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt>-<tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (1; 4% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt>-<tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (1; 4% instances).
+The following 6 pairs of parts of speech are connected with `cop:outer`: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (13; 52% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (5; 20% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (3; 12% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt>-<tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (2; 8% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt>-<tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (1; 4% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt>-<tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -82,14 +82,14 @@ The following 6 pairs of parts of speech are connected with `cop:outer`: <tt><a 
 11	mala	malus	ADJ	afs1n	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	12	amod	_	_
 12	oppinio	opinio	NOUN	sfs3n	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Sing	0	root	_	SpaceAfter=No
 13	:	:	PUNCT	Pu	_	21	punct	_	_
-14	oppinari	opinor	VERB	vd1fp	Aspect=Imp|VerbForm=Vnoun|Voice=Pass	21	csubj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+14	oppinari	opinor	VERB	vd1fp	Aspect=Imp|VerbForm=Inf|Voice=Pass	21	csubj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 15	aquam	aqua	NOUN	sfs1a	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	18	nsubj	_	_
 16	non	non	PART	r	Polarity=Neg	18	advmod:neg	_	_
 17	esse	sum	AUX	va5fp	Aspect=Imp|VerbForm=Inf	18	cop	_	TraditionalTense=Praesens
 18	altiorem	altus	ADJ	afs1ac	Case=Acc|Degree=Cmp|Gender=Fem|InflClass=IndEurA|Number=Sing|VerbForm=Part	14	ccomp	_	_
 19	terra	terra	NOUN	sfs1b	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing	18	obl:cmp	_	_
 20	est	sum	AUX	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	aux	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
-21	contradicere	contradico	VERB	va3fp	Aspect=Imp|VerbForm=Vnoun|Voice=Act	12	conj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+21	contradicere	contradico	VERB	va3fp	Aspect=Imp|VerbForm=Inf|Voice=Act	12	conj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 22	sensui	sensus	NOUN	sms4d	Case=Dat|Gender=Masc|InflClass=IndEurU|Number=Sing	21	obl:arg	_	SpaceAfter=No
 23	;	;	PUNCT	Pu	_	27	punct	_	_
 24	ergo	ergo	ADV	co	AdvType=Loc	27	discourse	_	_

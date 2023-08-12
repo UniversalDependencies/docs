@@ -23,11 +23,11 @@ The following 40 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 4	fgColor:white
 # visual-style 4 6 conj	color:blue
 1	Ансяк	ансяк	ADV	Adv	_	2	advmod:foc	_	GTtags=Exclusive
-2	сакшнось	самс	VERB	V	Derivation=OkshnOms|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	0	root	_	GTtags=IV,Der/ОкшнОмс,V,IV,Ind,Prt1,ScSg3
+2	сакшнось	самс	VERB	V	Derivation=OkshnOms|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	GTtags=IV,Der/ОкшнОмс,V,IV,Ind,Prt1,ScSg3
 3	сон	сон	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers,Sg3,Nom
-4	якамсто	якамс	VERB	V	Case=Ela|Valency=2|VerbForm=Conv	2	advcl	_	GTtags=TV,Ger,Ela
+4	якамсто	якамс	VERB	V	Case=Ela|VerbForm=Conv	2	advcl	_	GTtags=TV,Ger,Ela
 5	―	―	PUNCT	PUNCT	_	6	punct	_	_
-6	пакамсто	пакамс	VERB	V	Case=Ela|Valency=1|VerbForm=Conv	4	conj	_	GTtags=IV,Ger,Ela|SpaceAfter=No
+6	пакамсто	пакамс	VERB	V	Case=Ela|VerbForm=Conv	4	conj	_	GTtags=IV,Ger,Ela|SpaceAfter=No
 7	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~
@@ -48,8 +48,8 @@ The following 40 pairs of parts of speech are connected with `conj`: <tt><a href
 7	,	,	PUNCT	CLB	_	4	punct	_	_
 8	тынь	тон	PRON	Pron	Case=Nom|Number=Plur|Person=2|PronType=Prs	10	nsubj	_	GTtags=Pers,Pl2,Nom|Gloss=you-pl2
 9	эзимизь	а	AUX	Aux	Mood=Ind|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=1|Person[subj]=2|Polarity=Neg|Tense=Past|VerbType=Aux	10	aux:neg	_	GTtags=|Gloss=did-not
-10	кадт	кадомс	VERB	V	Connegative=Yes|Mood=Ind|Valency=2	2	parataxis	_	GTtags=TV,Ind,ConNeg|Gloss=abandon
-11	ёмамо	ёмамс	VERB	V	Case=Loc|Valency=1|VerbForm=Inf	10	xcomp	_	GTtags=IV,Inf,Loc|Gloss=parish|SpaceAfter=No
+10	кадт	кадомс	VERB	V	Connegative=Yes|Mood=Ind	2	parataxis	_	GTtags=TV,Ind,ConNeg|Gloss=abandon
+11	ёмамо	ёмамс	VERB	V	Case=Loc|VerbForm=Inf	10	xcomp	_	GTtags=IV,Inf,Loc|Gloss=parish|SpaceAfter=No
 12	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~

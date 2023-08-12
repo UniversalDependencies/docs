@@ -51,7 +51,7 @@ The following 3 pairs of parts of speech are connected with `list`: <tt><a href=
 27	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	29	det	_	_
 28	40	40	NUM	N	NumType=Card	29	nummod	_	_
 29	anni	anno	NOUN	S	Gender=Masc|Number=Plur	24	nmod	_	_
-30	#labuonascuola	#labuonascuola	SYM	SYM	_	10	parataxis:hashtag	_	SpaceAfter=\n
+30	#labuonascuola	#labuonascuola	SYM	SYM	_	10	parataxis:hashtag	_	SpacesAfter=\n
 
 ~~~
 
@@ -118,7 +118,7 @@ The following 3 pairs of parts of speech are connected with `list`: <tt><a href=
 10	questa	questo	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	12	nsubj	_	_
 11	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
 12	#labuonascuola	#labuonascuola	SYM	SYM	_	4	parataxis	_	_
-13	?	?	PUNCT	FS	_	12	punct	_	SpaceAfter=\n
+13	?	?	PUNCT	FS	_	12	punct	_	SpacesAfter=\n
 
 ~~~
 

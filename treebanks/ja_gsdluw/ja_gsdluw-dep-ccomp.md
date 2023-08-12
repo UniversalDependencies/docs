@@ -34,7 +34,7 @@ The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href
 10	いわ	言う	VERB	動詞-一般-五段-ワア行	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|SpaceAfter=No|UnidicInfo=,言う,いわ,いう,イワ,,,イウ,イウ,言う
 11	れ	れる	AUX	助動詞-助動詞-レル	_	10	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,れる,れ,れる,レ,,,レル,レル,れる
 12	ている	ている	AUX	助動詞-上一段-ア行	_	10	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|SpaceAfter=No|UnidicInfo=;,て;居る,て;いる,て;いる,テ;イル,;,;,テ;イル,テイル,ている
-13	。	。	PUNCT	補助記号-句点	_	10	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=Yes|UnidicInfo=,。,。,。,,,,,,。
+13	。	。	PUNCT	補助記号-句点	_	10	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|UnidicInfo=,。,。,。,,,,,,。
 
 ~~~
 
@@ -58,7 +58,7 @@ The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href
 11	一般的	一般的	ADJ	形状詞-一般	_	13	ccomp	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=;,一般;的,一般;的,一般;的,イッパン;テキ,;,;,イッパン;テキ,イッパンテキ,一般的
 12	と	と	ADP	助詞-格助詞	_	11	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,と,と,と,ト,,,ト,ト,と
 13	いう	言う	VERB	動詞-一般-五段-ワア行	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|SpaceAfter=No|UnidicInfo=,言う,いう,いう,イウ,,,イウ,イウ,言う
-14	。	。	PUNCT	補助記号-句点	_	13	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=Yes|UnidicInfo=,。,。,。,,,,,,。
+14	。	。	PUNCT	補助記号-句点	_	13	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|UnidicInfo=,。,。,。,,,,,,。
 
 ~~~
 
@@ -79,7 +79,7 @@ The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href
 8	だ	だ	AUX	助動詞-助動詞-ダ	_	7	cop	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,だ,だ,だ,ダ,,,ダ,ダ,だ
 9	と	と	ADP	助詞-格助詞	_	7	case	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|SpaceAfter=No|UnidicInfo=,と,と,と,ト,,,ト,ト,と
 10	いう	言う	VERB	動詞-一般-五段-ワア行	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|SpaceAfter=No|UnidicInfo=,言う,いう,いう,イウ,,,イウ,イウ,言う
-11	。	。	PUNCT	補助記号-句点	_	10	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=Yes|UnidicInfo=,。,。,。,,,,,,。
+11	。	。	PUNCT	補助記号-句点	_	10	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|UnidicInfo=,。,。,。,,,,,,。
 
 ~~~
 

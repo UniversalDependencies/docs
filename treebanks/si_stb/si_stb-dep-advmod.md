@@ -23,14 +23,14 @@ The following 10 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 2 advmod	color:blue
-1	උද්ධමනය	උද්ධමන	NOUN	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	5	nsubj	_	_
-2	ශීඝ්‍ර	ශීඝ්‍ර	ADV	_	AdvType=Man	5	advmod	_	_
-3	ලෙස	ලෙස	PART	_	AdpType=Post	2	case	_	_
-4	ඉහළ	ඉහළ	NOUN	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing	5	compound:lvc	_	_
-5	යෑම	ය	NOUN	_	Case=Acc|Definite=Def|Number=Sing|VerbForm=Ger	7	csubj	_	_
-6	තවත්	තවත්	DET	_	_	7	dep	_	_
-7	කාරණයෙකි	කාරණය	NOUN	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
-8	.	.	PUNCT	_	_	7	punct	_	_
+1	උද්ධමනය	උද්ධමන	NOUN	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	5	nsubj	_	Translit=uddhamanaya|LTranslit=uddhamana
+2	ශීඝ්‍ර	ශීඝ්‍ර	ADV	_	AdvType=Man	5	advmod	_	Translit=śīghra|LTranslit=śīghra
+3	ලෙස	ලෙස	PART	_	AdpType=Post	2	case	_	Translit=lesa|LTranslit=lesa
+4	ඉහළ	ඉහළ	NOUN	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing	5	compound:lvc	_	Translit=ihaḷa|LTranslit=ihaḷa
+5	යෑම	ය	NOUN	_	Case=Acc|Definite=Def|Number=Sing|VerbForm=Ger	7	csubj	_	Translit=yǣma|LTranslit=ya
+6	තවත්	තවත්	DET	_	_	7	dep	_	Translit=tavat|LTranslit=tavat
+7	කාරණයෙකි	කාරණය	NOUN	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	Translit=kāraṇayeki|LTranslit=kāraṇaya
+8	.	.	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
@@ -41,15 +41,15 @@ The following 10 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 advmod	color:blue
-1	එසේ	එසේ	ADV	_	AdvType=Man	2	advmod	_	_
-2	ගිය	ය	VERB	_	Tense=Past|VerbForm=Part	4	acl	_	_
-3	සෑම	සෑම	DET	_	_	4	det	_	_
-4	කෙනාම	කෙනා	NOUN	_	Animacy=Anim|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	8	nsubj	_	_
-5	පාවා	පාව	VERB	_	Tense=Past|VerbForm=Part	6	compound:svc	_	_
-6	දෙන්නකු	දෙන	NOUN	_	Animacy=Anim|Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	8	obj	_	_
-7	ලෙස	ලෙස	PART	_	AdpType=Post	6	case	_	_
-8	සැලකේ	සලක	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
-9	.	.	PUNCT	_	_	8	punct	_	_
+1	එසේ	එසේ	ADV	_	AdvType=Man	2	advmod	_	Translit=esē|LTranslit=esē
+2	ගිය	ය	VERB	_	Tense=Past|VerbForm=Part	4	acl	_	Translit=giya|LTranslit=ya
+3	සෑම	සෑම	DET	_	_	4	det	_	Translit=sǣma|LTranslit=sǣma
+4	කෙනාම	කෙනා	NOUN	_	Animacy=Anim|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	8	nsubj	_	Translit=kenāma|LTranslit=kenā
+5	පාවා	පාව	VERB	_	Tense=Past|VerbForm=Part	6	compound:svc	_	Translit=pāvā|LTranslit=pāva
+6	දෙන්නකු	දෙන	NOUN	_	Animacy=Anim|Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	8	obj	_	Translit=dennaku|LTranslit=dena
+7	ලෙස	ලෙස	PART	_	AdpType=Post	6	case	_	Translit=lesa|LTranslit=lesa
+8	සැලකේ	සලක	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	Translit=sælakē|LTranslit=salaka
+9	.	.	PUNCT	_	_	8	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
@@ -60,14 +60,14 @@ The following 10 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 advmod	color:blue
-1	මේ	මේ	DET	_	_	2	det	_	_
-2	ආශිර්වාදය	ආශීර්වාද	NOUN	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing	6	nsubj	_	_
-3	ශ්‍රී	ශ්‍රී	ADJ	_	_	6	obl	_	_
-4	ලංකාවට	ලංකා	NOUN	_	Case=Cns|Definite=Def|Gender=Neut|Number=Sing	3	flat	_	_
-5	බෙහෙවින්	බොහෝ	ADV	_	_	6	advmod	_	_
-6	වැදගත්	වැදගත්	ADJ	_	Degree=Pos	0	root	_	_
-7	ය	ය	PART	_	AdpType=Post	6	dep	_	_
-8	.	.	PUNCT	_	_	6	punct	_	_
+1	මේ	මේ	DET	_	_	2	det	_	Translit=mē|LTranslit=mē
+2	ආශිර්වාදය	ආශීර්වාද	NOUN	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing	6	nsubj	_	Translit=āśirvādaya|LTranslit=āśīrvāda
+3	ශ්‍රී	ශ්‍රී	ADJ	_	_	6	obl	_	Translit=śrī|LTranslit=śrī
+4	ලංකාවට	ලංකා	NOUN	_	Case=Cns|Definite=Def|Gender=Neut|Number=Sing	3	flat	_	Translit=laṁkāvaṭa|LTranslit=laṁkā
+5	බෙහෙවින්	බොහෝ	ADV	_	_	6	advmod	_	Translit=behevin|LTranslit=bohō
+6	වැදගත්	වැදගත්	ADJ	_	Degree=Pos	0	root	_	Translit=vædagat|LTranslit=vædagat
+7	ය	ය	PART	_	AdpType=Post	6	dep	_	Translit=ya|LTranslit=ya
+8	.	.	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

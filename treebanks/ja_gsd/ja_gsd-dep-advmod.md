@@ -39,7 +39,7 @@ The following 8 pairs of parts of speech are connected with `advmod`: <tt><a hre
 15	伝説	伝説	NOUN	名詞-普通名詞-一般	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UnidicInfo=,伝説,伝説,伝説,デンセツ,,,デンセツ,デンセツ,伝説
 16	で	だ	AUX	助動詞-助動詞-ダ	_	15	cop	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助動詞-五段-ラ行|SpaceAfter=No|UnidicInfo=,だ,で,だ,デ,,,ダ,デアル,である
 17	ある	有る	VERB	動詞-非自立可能-五段-ラ行	_	16	fixed	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=I|LUWPOS=助動詞-五段-ラ行|PrevUDLemma=ある|SpaceAfter=No|UnidicInfo=,有る,ある,ある,アル,,,アル,デアル,である
-18	。	。	PUNCT	補助記号-句点	_	15	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-句点|SpaceAfter=Yes|UnidicInfo=,。,。,。,,,,,,。
+18	。	。	PUNCT	補助記号-句点	_	15	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-句点|UnidicInfo=,。,。,。,,,,,,。
 
 ~~~
 
@@ -69,7 +69,7 @@ The following 8 pairs of parts of speech are connected with `advmod`: <tt><a hre
 17	ススメ	勧める	VERB	動詞-一般-下一段-マ行	_	0	root	_	BunsetuBILabel=I|BunsetuPositionType=ROOT|LUWBILabel=I|LUWPOS=動詞-一般-サ行変格|SpaceAfter=No|UnidicInfo=,勧める,ススメ,ススメる,ススメ,,,ススメル,オススメスル,御勧めする
 18	し	為る	AUX	動詞-非自立可能-サ行変格	_	17	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=I|LUWPOS=動詞-一般-サ行変格|PrevUDLemma=する|SpaceAfter=No|UnidicInfo=,為る,し,する,シ,,,スル,オススメスル,御勧めする
 19	ます	ます	AUX	助動詞-助動詞-マス	_	17	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞-助動詞-マス|SpaceAfter=No|UnidicInfo=,ます,ます,ます,マス,,,マス,マス,ます
-20	。	。	PUNCT	補助記号-句点	_	17	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-句点|SpaceAfter=Yes|UnidicInfo=,。,。,。,,,,,,。
+20	。	。	PUNCT	補助記号-句点	_	17	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-句点|UnidicInfo=,。,。,。,,,,,,。
 
 ~~~
 
@@ -90,7 +90,7 @@ The following 8 pairs of parts of speech are connected with `advmod`: <tt><a hre
 8	美味しかっ	美味しい	ADJ	形容詞-一般-形容詞	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=形容詞-一般-形容詞|SpaceAfter=No|UnidicInfo=,美味しい,美味しかっ,美味しい,オイシカッ,,,オイシイ,オイシイ,美味しい
 9	た	た	AUX	助動詞-助動詞-タ	_	8	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞-助動詞-タ|SpaceAfter=No|UnidicInfo=,た,た,た,タ,,,タ,タ,た
 10	です	です	AUX	助動詞-助動詞-デス	_	8	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助動詞-助動詞-デス|PrevUDLemma=だ|SpaceAfter=No|UnidicInfo=,です,です,です,デス,,,デス,デス,です
-11	。	。	PUNCT	補助記号-句点	_	8	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-句点|SpaceAfter=Yes|UnidicInfo=,。,。,。,,,,,,。
+11	。	。	PUNCT	補助記号-句点	_	8	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-句点|UnidicInfo=,。,。,。,,,,,,。
 
 ~~~
 

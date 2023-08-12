@@ -34,6 +34,18 @@ Produces indefinite genitive-like modifiers from adverbs
 
 * [mdf] _озадонь_ "sitting"
 
+### <a name="OvOms">`OvOms`</a>: derivation with suffix -ОвОмс
+
+Produces a verb form with epistemic modality and an inherent telicity but no volition.
+With derivations from transitive verbs this may be close to a "get" passive, whereas the
+intransitive derivation seems closer to a "manage to/happen to" reading.
+
+#### Examples
+
+* [mdf] _шарькодевомс_ "to be comprehensible/to get understood"
+* [mdf] _содавомс_ "to get recognized"
+* [mdf] _ярхцавомс_ "to happen/manage to eat (too much)"
+
 ### <a name="Ozj">`Ozj`</a>: derivation with suffix -Озь
 
 Produces converb.
@@ -58,6 +70,22 @@ Produces pronoun-like nominals from nearly any words that can take an indefinite
 
 * [mdf] _а ульцясь июленнекс пси._ "but the street is hot like July"
 
+### <a name="Cond">`Cond`</a>: protasis marker, aka conditional -Ондеря-
+
+Marks the protasis verb, which may be in the the so-called subjunctive (presumably this conditional) and indicative non-past and past (quite infrequent).
+
+#### Examples
+
+* [mdf] _А <b>кадондярясак</b> тяфтак,._ "And <b>if you leave it</b> like this,."
+
+### <a name="Voc">`Voc`</a>: vocative derivation with suffix -й or кай
+
+Used with proper nouns and kinship terms ending in vowels.
+
+#### Examples
+
+* [mdf] _ялгай_ "friend"
+
 ### <a name="Wife">`Wife`</a>: derivation with suffix -эря
 
 Produces wife address name based on husband's name/nick name.
@@ -66,4 +94,4 @@ Produces wife address name based on husband's name/nick name.
 
 * [mdf] _<b>Цямкаерясь</b> _ "Tsiamkaj's wife"
 
-<!-- Interlanguage links updated Po lis 14 15:34:44 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:35 CEST -->

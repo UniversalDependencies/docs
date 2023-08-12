@@ -33,11 +33,15 @@ The speaker uses imperative to order or ask the addressee to do the
 action of the verb.
 
 Czech verbs (except for modal verbs) have imperative forms of the second person singular,
-first person plural and second person plural.
+first person plural and second person plural. Occasionally an imperative can be used in
+the third person, typically expressing a wish that something happens (it is rather archaic
+but not impossible). Some verbs have specific forms for this (_být_ “be” has _budiž_ in
+singular and _buďtež_ in plural), which will then be annotated with `Mood=Imp` and `Person=3`.
 
 #### Examples
 
 * _<b>Studuj</b> na univerzitě!&nbsp;_ “<b>Study</b> at the university!”
+* _<b>Budiž</b> světlo!&nbsp;_ “<b>Let there be</b> light!”
 
 ### <a name="Cnd">`Cnd`</a>: conditional
 
@@ -58,4 +62,4 @@ because it can also be used in past indicative.
 * _Kdy<b>bych</b> byl chytrý, studoval <b>bych</b> na
   univerzitě.&nbsp;_ “If I <b>were</b> smart I <b>would</b> study at the
   university.”
-<!-- Interlanguage links updated Po lis 14 15:34:48 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:39 CEST -->

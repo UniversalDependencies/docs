@@ -30,7 +30,7 @@ The following 5 pairs of parts of speech are connected with `advmod:lmod`: <tt><
 5	cartulas	chartula	NOUN	n|n|-|p|-|-|-|f|a|-	Case=Acc|Degree=Dim|Gender=Fem|Number=Plur	8	obj	_	_
 6	Lopo	lupus	PROPN	Propn|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	8	nsubj	_	_
 7	notarium	notarius	NOUN	n|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	6	appos	_	_
-8	scribere	scribo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	9	ccomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+8	scribere	scribo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	9	ccomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 9	rogavimus	rogo	VERB	v|v|1|p|r|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Perfectum
 10	.	.	PUNCT	Punc	_	9	punct	_	_
 

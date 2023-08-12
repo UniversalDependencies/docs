@@ -39,7 +39,7 @@ The 10 most frequent ambiguous types:  <em>puis</em> (<tt><a href="fr_rhapsodie-
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 0.933333 (the average of all parts of speech is 1.354259).
+The form / lemma ratio of `CCONJ` is 0.933333 (the average of all parts of speech is 1.352226).
 
 The 1st highest number of forms (1) was observed with the lemma “c'est-à-dire”: <em>c'est-à-dire</em>.
 

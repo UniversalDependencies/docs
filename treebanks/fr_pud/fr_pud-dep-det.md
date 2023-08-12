@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3857 nodes (16%) are attached to their parents as `det`.
+3858 nodes (16%) are attached to their parents as `det`.
 
-3857 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.1068187710656.
+3858 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.10679108346293.
 
-The following 9 pairs of parts of speech are connected with `det`: <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-DET.html">DET</a></tt> (3467; 90% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_pud-pos-DET.html">DET</a></tt> (255; 7% instances), <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_pud-pos-DET.html">DET</a></tt> (36; 1% instances), <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_pud-pos-DET.html">DET</a></tt> (30; 1% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_pud-pos-DET.html">DET</a></tt> (17; 0% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> (17; 0% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> (17; 0% instances), <tt><a href="fr_pud-pos-X.html">X</a></tt>-<tt><a href="fr_pud-pos-DET.html">DET</a></tt> (11; 0% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_pud-pos-DET.html">DET</a></tt> (7; 0% instances).
+The following 9 pairs of parts of speech are connected with `det`: <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-DET.html">DET</a></tt> (3468; 90% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_pud-pos-DET.html">DET</a></tt> (255; 7% instances), <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_pud-pos-DET.html">DET</a></tt> (36; 1% instances), <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_pud-pos-DET.html">DET</a></tt> (30; 1% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_pud-pos-DET.html">DET</a></tt> (17; 0% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> (17; 0% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> (17; 0% instances), <tt><a href="fr_pud-pos-X.html">X</a></tt>-<tt><a href="fr_pud-pos-DET.html">DET</a></tt> (11; 0% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_pud-pos-DET.html">DET</a></tt> (7; 0% instances).
 
 
 ~~~ conllu

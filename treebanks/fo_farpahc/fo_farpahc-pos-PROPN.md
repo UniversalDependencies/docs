@@ -57,11 +57,11 @@ The 1st highest number of forms (346) was observed with the lemma “_”: <em>A
 
 `PROPN` occurs with 3 features: <tt><a href="fo_farpahc-feat-Case.html">Case</a></tt> (1830; 100% instances), <tt><a href="fo_farpahc-feat-Definite.html">Definite</a></tt> (1830; 100% instances), <tt><a href="fo_farpahc-feat-Number.html">Number</a></tt> (1830; 100% instances)
 
-`PROPN` occurs with 7 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Definite=Ind`, `Number=Plur`, `Number=Sing`
+`PROPN` occurs with 8 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Definite=Def`, `Definite=Ind`, `Number=Plur`, `Number=Sing`
 
-`PROPN` occurs with 8 feature combinations.
-The most frequent feature combination is `Case=Nom|Definite=Ind|Number=Sing` (788 tokens).
-Examples: <em>Jesus, Guð, Pætur, harri, Símun, Jóhannes, Kristus, Paulus, Harrin, Pilatus</em>
+`PROPN` occurs with 16 feature combinations.
+The most frequent feature combination is `Case=Nom|Definite=Ind|Number=Sing` (754 tokens).
+Examples: <em>Jesus, Guð, Pætur, harri, Símun, Jóhannes, Kristus, Paulus, Pilatus, Filippus</em>
 
 
 ## Relations

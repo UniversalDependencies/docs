@@ -6,39 +6,33 @@ udver: '2'
 
 ## Treebank Statistics: UD_Galician-CTG: POS Tags: `VERB`
 
-There are 1625 `VERB` lemmas (15%), 4840 `VERB` types (29%) and 12983 `VERB` tokens (9%).
+There are 1622 `VERB` lemmas (15%), 4796 `VERB` types (29%) and 11780 `VERB` tokens (8%).
 Out of 16 observed tags, the rank of `VERB` is: 3 in number of lemmas, 2 in number of types and 5 in number of tokens.
 
-The 10 most frequent `VERB` lemmas: <em>poder, ter, deber, ser, facer, realizar, establecer, haber, presentar, dar</em>
+The 10 most frequent `VERB` lemmas: <em>ter, facer, realizar, establecer, presentar, dar, producir, considerar, ser, permitir</em>
 
-The 10 most frequent `VERB` types:  <em>pode, ter, ten, hai, poden, debe, ser, teñen, poderá, é</em>
+The 10 most frequent `VERB` types:  <em>ter, ten, hai, teñen, fai, facer, debido, realizar, ver, partir</em>
 
-The 10 most frequent ambiguous lemmas: <em>ser</em> (<tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> 1323, <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> 308, <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> 9), <em>estar</em> (<tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> 217, <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> 98), <em>rsu</em> (<tt><a href="gl_ctg-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> 3), <em>umha</em> (<tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> 2), <em>autoestima</em> (<tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> 1), <em>i+d+i</em> (<tt><a href="gl_ctg-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>ter</em> (<tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> 447, <tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> 45), <em>ser</em> (<tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> 1527, <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> 104, <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> 9), <em>haber</em> (<tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> 96, <tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> 47), <em>levar</em> (<tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> 67, <tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> 1), <em>deber</em> (<tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> 252, <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> 62), <em>seguir</em> (<tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> 62, <tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> 29), <em>estar</em> (<tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> 262, <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> 53), <em>poder</em> (<tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> 510, <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> 36), <em>ir</em> (<tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> 37, <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> 32), <em>deixar</em> (<tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> 31, <tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> 10)
 
-The 10 most frequent ambiguous types:  <em>ser</em> (<tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> 145, <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> 76), <em>é</em> (<tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> 578, <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> 56), <em>son</em> (<tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> 218, <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> 29), <em>está</em> (<tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> 82, <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> 28), <em>están</em> (<tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> 58, <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> 26), <em>foi</em> (<tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> 59, <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> 25), <em>foron</em> (<tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> 24, <tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> 18), <em>dito</em> (<tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> 18, <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> 2), <em>figura</em> (<tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> 18, <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> 5), <em>fixo</em> (<tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> 19, <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> 3)
+The 10 most frequent ambiguous types:  <em>ten</em> (<tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> 96, <tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> 16), <em>hai</em> (<tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> 51, <tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> 18), <em>teñen</em> (<tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> 64, <tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> 6), <em>debido</em> (<tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> 33, <tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> 2), <em>é</em> (<tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> 596, <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> 38), <em>dito</em> (<tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> 18, <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> 2), <em>figura</em> (<tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> 18, <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> 5), <em>fixo</em> (<tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> 19, <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> 3), <em>previsto</em> (<tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> 19, <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> 1), <em>seguir</em> (<tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> 19, <tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> 6)
 
 
-* <em>ser</em>
-  * <tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> 145: <em>Todos estes países deixaron de <b>ser</b> os principais en a actualidade por a competencia vía prezos de países coma Marrocos .</em>
-  * <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> 76: <em>En segundo lugar , as motivacións de unha parella para desexar ter un fillo poden <b>ser</b> , e de feito o son , moi diversas .</em>
+* <em>ten</em>
+  * <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> 96: <em>Para conseguir o , temos que reconsiderar o noso modo de vida , xa que cada acción <b>ten</b> as súas consecuencias globais .</em>
+  * <tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> 16: <em>En función de estas cuestións , podemos considerar que o valor de o medio natural non <b>ten</b> que corresponder se con un valor económico .</em>
+* <em>hai</em>
+  * <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> 51: <em>Dende <b>hai</b> un tempo asistimos a un baile de cifras sobre o número de galegos que están rexistrados en os concellos cataláns .</em>
+  * <tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> 18: <em>Só <b>hai</b> que botar unha ollada ás noticias de a prensa e de a televisión que falsean de maneira escandalosa a realidade .</em>
+* <em>teñen</em>
+  * <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> 64: <em>Por suposto , o acceso de o suxeito a os resultados non é posible e non <b>teñen</b> carácter de datos persoais segundo a LOPD .</em>
+  * <tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> 6: <em>Estes principios son os que <b>teñen</b> que dirixir a nosa acción en a sociedade , sendo en a praxe onde adquiren o seu verdadeiro significado .</em>
+* <em>debido</em>
+  * <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> 33: <em>Algúns de eles serán comúns a a rexión , coma o incremento de o tráfico rodado <b>debido</b> a o crecemento de o parque automobilístico .</em>
+  * <tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> 2: <em>Algúns científicos e ONGs critican o retraso e a pasividade de a OMS en abordar decididamente este estudo , en marcha dende 1996 e previsto inicialmente para o 2001 , <b>debido</b> ás presións de o lobby de as telecomunicacións .</em>
 * <em>é</em>
-  * <tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> 578: <em>A diferenza máis inmediata entre a varicela en vacinados e non vacinados <b>é</b> o número de lesións que provocan .</em>
-  * <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> 56: <em>Como saber que <b>é</b> o que realmente hai que manter , apoiar ou preservar de a propia diversidade cultural local ?</em>
-* <em>son</em>
-  * <tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> 218: <em>E agora retomamos a pregunta de o principio : <b>son</b> nova e teño unha idea ¿ e agora que ?</em>
-  * <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> 29: <em>Asi , o saldo de a balanza por conta de capital consiste en : As exportacións de bens son créditos e as de capital <b>son</b> débedas .</em>
-* <em>está</em>
-  * <tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> 82: <em>Cada cadea de tratamento <b>está</b> formada por un cambiador de catións , dous de anións e un de leito mixto .</em>
-  * <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> 28: <em>A idea é boa , pero é difícil de levar a cabo xa que en esas datas a maioría de xente xa <b>está</b> en Galicia .</em>
-* <em>están</em>
-  * <tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> 58: <em>A súa primeira intención é ser enfermeira pero os postos <b>están</b> xa cubertos e ela está disposta a ir a a fronte .</em>
-  * <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> 26: <em>Os procesos de urbanización de a poboación , que son cada vez máis importantes en Galicia , <b>están</b> axudando a este proceso .</em>
-* <em>foi</em>
-  * <tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> 59: <em>Dende que o caso índice enfermou ata a chegada de a súa nai o día de o seu ingreso , a tía <b>foi</b> quen a coidou .</em>
-  * <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> 25: <em>A planta de tratamento de pilas <b>foi</b> financiada por o Ministerio de o Medio Ambiente , que transferiu a súa propiedade a a Xunta en febreiro de 1998 .</em>
-* <em>foron</em>
-  * <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> 24: <em>A metade de os edificios son de nova construción e a outra metade <b>foron</b> rehabilitados ou adaptados para o uso actual .</em>
-  * <tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> 18: <em>Durante a campaña <b>foron</b> se introducindo algúns aparatos de alta tecnoloxía , para obter máis datos acerca de a pesca .</em>
+  * <tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> 596: <em>A diferenza máis inmediata entre a varicela en vacinados e non vacinados <b>é</b> o número de lesións que provocan .</em>
+  * <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> 38: <em>Como saber que <b>é</b> o que realmente hai que manter , apoiar ou preservar de a propia diversidade cultural local ?</em>
 * <em>dito</em>
   * <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> 18: <em>De coincidir o <b>dito</b> día en sábado ou festivo o prazo para a presentación de as propostas rematará o primeiro día hábil seguinte .</em>
   * <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> 2: <em>Todo iso fundamenta se en a crenza de a auto-obriga de demostrar o que eles cren estatus e superioridade , non en unha auténtica seguranza en o <b>dito</b> ou en si mesmos .</em>
@@ -48,43 +42,49 @@ The 10 most frequent ambiguous types:  <em>ser</em> (<tt><a href="gl_ctg-pos-AUX
 * <em>fixo</em>
   * <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> 19: <em>De calquera xeito , tampouco era o canarés a lingua materna de dúas de as tres aldeas , o cal me <b>fixo</b> sentir mellor .</em>
   * <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> 3: <em>A formación bruta de capital <b>fixo</b> rexistrou un incremento de o 7,2 % en 2005 , máis de dous puntos por riba de o experimentado en o ano anterior .</em>
+* <em>previsto</em>
+  * <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> 19: <em>Principio de audiencia previa en a forma que máis adiante se regula , en harmonía con o <b>previsto</b> en o Convenio 158 de OIT .</em>
+  * <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> 1: <em>Se puede encontrar una descripción de las actividades formativas , junto con su calendario <b>previsto</b> , y de las herramientas metodológicas existentes en la página web de el Igape ( www.Igape.es ) .</em>
+* <em>seguir</em>
+  * <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> 19: <em>Aproba se o Regulamento sobre mercados de comunicacións electrónicas , acceso ás redes e numeración , que se insire a <b>seguir</b> .</em>
+  * <tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> 6: <em>En isto conflúen un factor de fondo , que vai <b>seguir</b> operando a medio prazo , e outro en principio máis conxuntural .</em>
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 2.978462 (the average of all parts of speech is 1.520215).
+The form / lemma ratio of `VERB` is 2.956843 (the average of all parts of speech is 1.523050).
 
-The 1st highest number of forms (24) was observed with the lemma “ter”: <em>temos, ten, tendo, ter, teremos, teren, terá, terán, tería, terían, teña, teñan, teñen, teño, tidas, tido, tivemos, tivera, tiveron, tivese, tivo, tiña, tiñamos, tiñan</em>.
+The 1st highest number of forms (23) was observed with the lemma “considerar”: <em>considera, consideraba, consideraban, considerada, consideradas, considerado, considerados, consideramos, consideran, considerando, considerar, considerara, consideraren, considerariamos, considerarmos, consideraron, considerará, considerarán, considerarían, considerasen, considere, consideren, considerou</em>.
 
-The 2nd highest number of forms (23) was observed with the lemma “considerar”: <em>considera, consideraba, consideraban, considerada, consideradas, considerado, considerados, consideramos, consideran, considerando, considerar, considerara, consideraren, considerariamos, considerarmos, consideraron, considerará, considerarán, considerarían, considerasen, considere, consideren, considerou</em>.
+The 2nd highest number of forms (23) was observed with the lemma “ter”: <em>temos, ten, tendo, ter, teremos, teren, terá, terán, tería, terían, teña, teñan, teñen, teño, tidas, tido, tivera, tiveron, tivese, tivo, tiña, tiñamos, tiñan</em>.
 
-The 3rd highest number of forms (22) was observed with the lemma “deber”: <em>deba, deban, debe, debemos, deben, debendo, deber, debera, deberemos, deberes, deberá, deberán, debería, deberían, debeu, debida, debidas, debido, debidos, debo, debía, debían</em>.
+The 3rd highest number of forms (21) was observed with the lemma “facer”: <em>facemos, facendo, facer, facía, facían, faga, fagan, fai, fan, faremos, fará, farán, faría, feita, feitas, feito, fixen, fixera, fixeron, fixese, fixo</em>.
 
-`VERB` occurs with 1 features: <tt><a href="gl_ctg-feat-Foreign.html">Foreign</a></tt> (28; 0% instances)
+`VERB` occurs with 1 features: <tt><a href="gl_ctg-feat-Foreign.html">Foreign</a></tt> (26; 0% instances)
 
 `VERB` occurs with 1 feature-value pairs: `Foreign=Yes`
 
 `VERB` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (12955 tokens).
-Examples: <em>pode, ter, ten, hai, poden, debe, ser, teñen, é, poderá</em>
+The most frequent feature combination is `_` (11754 tokens).
+Examples: <em>ter, ten, hai, teñen, fai, facer, debido, realizar, ver, partir</em>
 
 
 ## Relations
 
-`VERB` nodes are attached to their parents using 16 different relations: <tt><a href="gl_ctg-dep-ccomp.html">ccomp</a></tt> (6398; 49% instances), <tt><a href="gl_ctg-dep-root.html">root</a></tt> (3163; 24% instances), <tt><a href="gl_ctg-dep-aux.html">aux</a></tt> (1345; 10% instances), <tt><a href="gl_ctg-dep-obj.html">obj</a></tt> (671; 5% instances), <tt><a href="gl_ctg-dep-case.html">case</a></tt> (448; 3% instances), <tt><a href="gl_ctg-dep-dep.html">dep</a></tt> (279; 2% instances), <tt><a href="gl_ctg-dep-nsubj.html">nsubj</a></tt> (235; 2% instances), <tt><a href="gl_ctg-dep-xcomp.html">xcomp</a></tt> (235; 2% instances), <tt><a href="gl_ctg-dep-nmod.html">nmod</a></tt> (125; 1% instances), <tt><a href="gl_ctg-dep-obl.html">obl</a></tt> (47; 0% instances), <tt><a href="gl_ctg-dep-flat.html">flat</a></tt> (30; 0% instances), <tt><a href="gl_ctg-dep-acl.html">acl</a></tt> (2; 0% instances), <tt><a href="gl_ctg-dep-punct.html">punct</a></tt> (2; 0% instances), <tt><a href="gl_ctg-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="gl_ctg-dep-det.html">det</a></tt> (1; 0% instances), <tt><a href="gl_ctg-dep-nummod.html">nummod</a></tt> (1; 0% instances)
+`VERB` nodes are attached to their parents using 14 different relations: <tt><a href="gl_ctg-dep-ccomp.html">ccomp</a></tt> (6392; 54% instances), <tt><a href="gl_ctg-dep-root.html">root</a></tt> (3163; 27% instances), <tt><a href="gl_ctg-dep-obj.html">obj</a></tt> (669; 6% instances), <tt><a href="gl_ctg-dep-case.html">case</a></tt> (448; 4% instances), <tt><a href="gl_ctg-dep-dep.html">dep</a></tt> (279; 2% instances), <tt><a href="gl_ctg-dep-nsubj.html">nsubj</a></tt> (236; 2% instances), <tt><a href="gl_ctg-dep-xcomp.html">xcomp</a></tt> (235; 2% instances), <tt><a href="gl_ctg-dep-compound.html">compound</a></tt> (147; 1% instances), <tt><a href="gl_ctg-dep-nmod.html">nmod</a></tt> (125; 1% instances), <tt><a href="gl_ctg-dep-obl.html">obl</a></tt> (47; 0% instances), <tt><a href="gl_ctg-dep-flat.html">flat</a></tt> (28; 0% instances), <tt><a href="gl_ctg-dep-acl.html">acl</a></tt> (5; 0% instances), <tt><a href="gl_ctg-dep-advcl.html">advcl</a></tt> (3; 0% instances), <tt><a href="gl_ctg-dep-conj.html">conj</a></tt> (3; 0% instances)
 
-Parents of `VERB` nodes belong to 12 different parts of speech: <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> (4779; 37% instances), <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> (4154; 32% instances),  (3163; 24% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> (493; 4% instances), <tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt> (102; 1% instances), <tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt> (99; 1% instances), <tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt> (97; 1% instances), <tt><a href="gl_ctg-pos-PROPN.html">PROPN</a></tt> (46; 0% instances), <tt><a href="gl_ctg-pos-NUM.html">NUM</a></tt> (34; 0% instances), <tt><a href="gl_ctg-pos-SCONJ.html">SCONJ</a></tt> (11; 0% instances), <tt><a href="gl_ctg-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> (1; 0% instances)
+Parents of `VERB` nodes belong to 11 different parts of speech: <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> (4104; 35% instances), <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> (3746; 32% instances),  (3163; 27% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> (464; 4% instances), <tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt> (97; 1% instances), <tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt> (92; 1% instances), <tt><a href="gl_ctg-pos-PROPN.html">PROPN</a></tt> (45; 0% instances), <tt><a href="gl_ctg-pos-NUM.html">NUM</a></tt> (33; 0% instances), <tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt> (30; 0% instances), <tt><a href="gl_ctg-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="gl_ctg-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
-2105 (16%) `VERB` nodes are leaves.
+1233 (10%) `VERB` nodes are leaves.
 
-1669 (13%) `VERB` nodes have one child.
+1656 (14%) `VERB` nodes have one child.
 
-2083 (16%) `VERB` nodes have two children.
+1939 (16%) `VERB` nodes have two children.
 
-7126 (55%) `VERB` nodes have three or more children.
+6952 (59%) `VERB` nodes have three or more children.
 
-The highest child degree of a `VERB` node is 17.
+The highest child degree of a `VERB` node is 19.
 
-Children of `VERB` nodes are attached using 20 different relations: <tt><a href="gl_ctg-dep-obj.html">obj</a></tt> (7368; 20% instances), <tt><a href="gl_ctg-dep-obl.html">obl</a></tt> (5573; 15% instances), <tt><a href="gl_ctg-dep-nsubj.html">nsubj</a></tt> (5469; 15% instances), <tt><a href="gl_ctg-dep-punct.html">punct</a></tt> (5452; 15% instances), <tt><a href="gl_ctg-dep-case.html">case</a></tt> (3953; 11% instances), <tt><a href="gl_ctg-dep-ccomp.html">ccomp</a></tt> (2190; 6% instances), <tt><a href="gl_ctg-dep-dep.html">dep</a></tt> (1359; 4% instances), <tt><a href="gl_ctg-dep-aux.html">aux</a></tt> (1229; 3% instances), <tt><a href="gl_ctg-dep-cc.html">cc</a></tt> (1121; 3% instances), <tt><a href="gl_ctg-dep-mark.html">mark</a></tt> (1090; 3% instances), <tt><a href="gl_ctg-dep-det.html">det</a></tt> (676; 2% instances), <tt><a href="gl_ctg-dep-advmod.html">advmod</a></tt> (557; 1% instances), <tt><a href="gl_ctg-dep-iobj.html">iobj</a></tt> (528; 1% instances), <tt><a href="gl_ctg-dep-xcomp.html">xcomp</a></tt> (525; 1% instances), <tt><a href="gl_ctg-dep-cop.html">cop</a></tt> (292; 1% instances), <tt><a href="gl_ctg-dep-amod.html">amod</a></tt> (121; 0% instances), <tt><a href="gl_ctg-dep-flat.html">flat</a></tt> (58; 0% instances), <tt><a href="gl_ctg-dep-nmod.html">nmod</a></tt> (3; 0% instances), <tt><a href="gl_ctg-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="gl_ctg-dep-nummod.html">nummod</a></tt> (1; 0% instances)
+Children of `VERB` nodes are attached using 23 different relations: <tt><a href="gl_ctg-dep-obj.html">obj</a></tt> (7316; 19% instances), <tt><a href="gl_ctg-dep-obl.html">obl</a></tt> (5824; 16% instances), <tt><a href="gl_ctg-dep-nsubj.html">nsubj</a></tt> (5443; 14% instances), <tt><a href="gl_ctg-dep-punct.html">punct</a></tt> (4954; 13% instances), <tt><a href="gl_ctg-dep-case.html">case</a></tt> (3844; 10% instances), <tt><a href="gl_ctg-dep-ccomp.html">ccomp</a></tt> (2306; 6% instances), <tt><a href="gl_ctg-dep-dep.html">dep</a></tt> (1360; 4% instances), <tt><a href="gl_ctg-dep-cc.html">cc</a></tt> (1113; 3% instances), <tt><a href="gl_ctg-dep-aux.html">aux</a></tt> (1091; 3% instances), <tt><a href="gl_ctg-dep-mark.html">mark</a></tt> (1065; 3% instances), <tt><a href="gl_ctg-dep-det.html">det</a></tt> (770; 2% instances), <tt><a href="gl_ctg-dep-advmod.html">advmod</a></tt> (664; 2% instances), <tt><a href="gl_ctg-dep-iobj.html">iobj</a></tt> (524; 1% instances), <tt><a href="gl_ctg-dep-xcomp.html">xcomp</a></tt> (522; 1% instances), <tt><a href="gl_ctg-dep-cop.html">cop</a></tt> (305; 1% instances), <tt><a href="gl_ctg-dep-amod.html">amod</a></tt> (168; 0% instances), <tt><a href="gl_ctg-dep-compound.html">compound</a></tt> (118; 0% instances), <tt><a href="gl_ctg-dep-nmod.html">nmod</a></tt> (82; 0% instances), <tt><a href="gl_ctg-dep-flat.html">flat</a></tt> (56; 0% instances), <tt><a href="gl_ctg-dep-nummod.html">nummod</a></tt> (11; 0% instances), <tt><a href="gl_ctg-dep-advcl.html">advcl</a></tt> (4; 0% instances), <tt><a href="gl_ctg-dep-conj.html">conj</a></tt> (3; 0% instances), <tt><a href="gl_ctg-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
-Children of `VERB` nodes belong to 16 different parts of speech: <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> (12673; 34% instances), <tt><a href="gl_ctg-pos-PUNCT.html">PUNCT</a></tt> (5430; 14% instances), <tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt> (5190; 14% instances), <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> (4779; 13% instances), <tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt> (2485; 7% instances), <tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt> (1822; 5% instances), <tt><a href="gl_ctg-pos-SCONJ.html">SCONJ</a></tt> (1130; 3% instances), <tt><a href="gl_ctg-pos-CCONJ.html">CCONJ</a></tt> (1065; 3% instances), <tt><a href="gl_ctg-pos-DET.html">DET</a></tt> (754; 2% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> (665; 2% instances), <tt><a href="gl_ctg-pos-PROPN.html">PROPN</a></tt> (450; 1% instances), <tt><a href="gl_ctg-pos-PART.html">PART</a></tt> (449; 1% instances), <tt><a href="gl_ctg-pos-NUM.html">NUM</a></tt> (349; 1% instances), <tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> (292; 1% instances), <tt><a href="gl_ctg-pos-SYM.html">SYM</a></tt> (30; 0% instances), <tt><a href="gl_ctg-pos-INTJ.html">INTJ</a></tt> (3; 0% instances)
+Children of `VERB` nodes belong to 16 different parts of speech: <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> (12813; 34% instances), <tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt> (5181; 14% instances), <tt><a href="gl_ctg-pos-PUNCT.html">PUNCT</a></tt> (4954; 13% instances), <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> (3746; 10% instances), <tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt> (2520; 7% instances), <tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt> (1913; 5% instances), <tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> (1396; 4% instances), <tt><a href="gl_ctg-pos-SCONJ.html">SCONJ</a></tt> (1105; 3% instances), <tt><a href="gl_ctg-pos-CCONJ.html">CCONJ</a></tt> (1063; 3% instances), <tt><a href="gl_ctg-pos-DET.html">DET</a></tt> (848; 2% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> (714; 2% instances), <tt><a href="gl_ctg-pos-PART.html">PART</a></tt> (461; 1% instances), <tt><a href="gl_ctg-pos-PROPN.html">PROPN</a></tt> (455; 1% instances), <tt><a href="gl_ctg-pos-NUM.html">NUM</a></tt> (365; 1% instances), <tt><a href="gl_ctg-pos-SYM.html">SYM</a></tt> (6; 0% instances), <tt><a href="gl_ctg-pos-INTJ.html">INTJ</a></tt> (4; 0% instances)
 

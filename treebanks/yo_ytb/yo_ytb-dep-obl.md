@@ -70,7 +70,7 @@ The following 20 pairs of parts of speech are connected with `obl`: <tt><a href=
 2	fún	fún	ADP	_	_	3	case	_	_
 3	okùn	okùn	NOUN	_	_	1	obl	_	_
 4	òwò	òwò	NOUN	_	_	3	nmod	_	SpaceAfter=No
-5	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
+5	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~
 

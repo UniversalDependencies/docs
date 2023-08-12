@@ -9,30 +9,29 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="vi_vtb-dep-nsubj.html">nsubj</a></tt>.
 There are also 2 other language-specific subtypes of `nsubj`: <tt><a href="vi_vtb-dep-nsubj-nn.html">nsubj:nn</a></tt>, <tt><a href="vi_vtb-dep-nsubj-pass.html">nsubj:pass</a></tt>.
 
-16 nodes (0%) are attached to their parents as `nsubj:xsubj`.
+10 nodes (0%) are attached to their parents as `nsubj:xsubj`.
 
-14 instances of `nsubj:xsubj` (88%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.1875.
+8 instances of `nsubj:xsubj` (80%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.2.
 
-The following 5 pairs of parts of speech are connected with `nsubj:xsubj`: <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (11; 69% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt> (2; 13% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (1; 6% instances), <tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (1; 6% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt> (1; 6% instances).
+The following 4 pairs of parts of speech are connected with `nsubj:xsubj`: <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (6; 60% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt> (2; 20% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (1; 10% instances), <tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (1; 10% instances).
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 nsubj:xsubj	color:blue
-1	Xin	xin	VERB	V	_	0	root	_	_
-2	tòa	tòa	NOUN	N	_	3	nsubj:xsubj	_	_
-3	bảo	bảo	VERB	V	_	1	xcomp	_	_
-4	nó	nó	PRON	Pro	_	5	nsubj	_	_
-5	trả	trả	VERB	V	_	3	ccomp	_	_
-6	lại	lại	ADV	Adv	_	5	advmod	_	_
-7	cho	cho	ADP	Pre	_	8	case	_	_
-8	tôi	tôi	PRON	Pro	_	5	obl:iobj	_	_
-9	"	"	PUNCT	``	_	1	punct	_	_
-10	.	.	PUNCT	.	_	1	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 5 nsubj:xsubj	color:blue
+1	Rồi	rồi	SCONJ	SC	_	4	mark	_	_
+2	một	một	NUM	Num	_	3	nummod	_	_
+3	tình huống	tình huống	NOUN	N	_	4	nsubj	_	_
+4	khiến	khiến	VERB	V	_	0	root	_	_
+5	tim	tim	NOUN	N	_	7	nsubj:xsubj	_	_
+6	anh	anh	NOUN	N	_	5	nmod	_	_
+7	thắt	thắt	VERB	V	_	4	xcomp	_	_
+8	lại	lại	ADV	Adv	_	7	advmod	_	_
+9	.	.	PUNCT	.	_	4	punct	_	_
 
 ~~~
 

@@ -50,7 +50,7 @@ The most frequent other feature values with which `NUM` and `Hyph` co-occurred: 
 
 48 <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `Hyph`.
 
-The most frequent other feature values with which `PROPN` and `Hyph` co-occurred: <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (35; 73%), <tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Gen</tt> (29; 60%).
+The most frequent other feature values with which `PROPN` and `Hyph` co-occurred: <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (35; 73%), <tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Gen</tt> (28; 58%).
 
 `PROPN` tokens may have the following values of `Hyph`:
 

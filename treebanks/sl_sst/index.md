@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Kaja Dobrovoljc, Joakim Nivre.
 
 Repository: [UD_Slovenian-SST](https://github.com/UniversalDependencies/UD_Slovenian-SST)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsl_sst211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsl_sst212)<br />
+Download all treebanks: [UD 2.12](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -54,8 +54,10 @@ The spelling, tokenization and segmentation principles follow the transcription 
 
 The SST treebank includes manual annotations of lemmas, part-of-speech categories, morphological features and dependency relations in accordance with the Universal Dependencies annotation scheme. In addition to language-specific extensions, in line with the written Slovenian UD Treebank, the SST treebank also includes new speech-specific extensions to accommodate the structural and pragmatic particularities of spoken language syntax, such as disfluencies, fillers, parentheticals, general extenders etc. More information on the treebank construction and annotation is given in Dobrovoljc and Nivre (2016).
 
-
 The current version of the SST treebank includes 3,188 utterances (sentences) or 29,488 tokens, produced by 606 speakers in 287 different speech events. As opposed to previous releases with unequal genre distributions, sentence-level randomization and different train-dev-test splits (UDv1 to UDv2.1), the SST UDv2.2 data has been randomized on text-level and split into testing (10,015) and training (19,473) subsets, in accordance with the CONLL-ST 2018 requirements. The original order of the utterances can be restored by sentence IDs.
+
+All additional information related to the speech events (e.g. type of discourse, domain, channel) and the speakers (e.g. region, gender, education, age) can be retrieved from the original GOS 2.0 corpus available at https://www.clarin.si/repository/xmlui/handle/11356/1771.
+
 
 ## Acknowledgments
 
@@ -69,6 +71,8 @@ Joakim Nivre (guidelines consulting)
 ## Other
 * Darinka Verdonik, Iztok Kosem, Ana Zwitter Vitez, Simon Krek and Marko Stabej. 2013. Compilation, transcription and usage of a reference speech corpus: the case of the Slovene corpus GOS. Language Resources and Evaluation, 47(4):1031–1048.
 * Ana Zwitter Vitez, Jana Zemljarič Miklavčič, Simon Krek, Marko Stabej and Tomaž Erjavec. 2013. Spoken corpus Gos 1.0. Slovenian language resource repository CLARIN.SI. http://hdl.handle.net/11356/1040.
+* Ana Zwitter Vitez, et al., 2023, Spoken corpus Gos 2.0 (transcriptions), Slovenian language resource repository CLARIN.SI, http://hdl.handle.net/11356/1771.
+
 
 
 
@@ -80,7 +84,7 @@ Joakim Nivre (guidelines consulting)
 
 ## Features
 
-[Animacy](sl_sst-feat-Animacy.html) – [Aspect](sl_sst-feat-Aspect.html) – [Case](sl_sst-feat-Case.html) – [Definite](sl_sst-feat-Definite.html) – [Degree](sl_sst-feat-Degree.html) – [Foreign](sl_sst-feat-Foreign.html) – [Gender](sl_sst-feat-Gender.html) – [Gender[psor]](sl_sst-feat-Gender-psor.html) – [Mood](sl_sst-feat-Mood.html) – [Number](sl_sst-feat-Number.html) – [Number[psor]](sl_sst-feat-Number-psor.html) – [NumForm](sl_sst-feat-NumForm.html) – [NumType](sl_sst-feat-NumType.html) – [Person](sl_sst-feat-Person.html) – [Polarity](sl_sst-feat-Polarity.html) – [Poss](sl_sst-feat-Poss.html) – [PronType](sl_sst-feat-PronType.html) – [Tense](sl_sst-feat-Tense.html) – [Variant](sl_sst-feat-Variant.html) – [VerbForm](sl_sst-feat-VerbForm.html)
+[Animacy](sl_sst-feat-Animacy.html) – [Aspect](sl_sst-feat-Aspect.html) – [Case](sl_sst-feat-Case.html) – [Definite](sl_sst-feat-Definite.html) – [Degree](sl_sst-feat-Degree.html) – [Foreign](sl_sst-feat-Foreign.html) – [Gender](sl_sst-feat-Gender.html) – [Gender[psor]](sl_sst-feat-Gender-psor.html) – [Mood](sl_sst-feat-Mood.html) – [Number](sl_sst-feat-Number.html) – [Number[psor]](sl_sst-feat-Number-psor.html) – [NumForm](sl_sst-feat-NumForm.html) – [NumType](sl_sst-feat-NumType.html) – [Person](sl_sst-feat-Person.html) – [Polarity](sl_sst-feat-Polarity.html) – [Poss](sl_sst-feat-Poss.html) – [PronType](sl_sst-feat-PronType.html) – [Reflex](sl_sst-feat-Reflex.html) – [Tense](sl_sst-feat-Tense.html) – [Variant](sl_sst-feat-Variant.html) – [VerbForm](sl_sst-feat-VerbForm.html)
 
 ## Relations
 
@@ -102,7 +106,7 @@ Joakim Nivre (guidelines consulting)
 </ul>
 
 <ul>
-<li>This corpus contains 13 types of words that contain both letters and punctuation. Examples: [gap], [name:personal], [pause], [speaker:laughter], [name:surname], [audience:laughter], [:voice], [all:laughter], [incident], [name:address], [name:organisation], [name:place], macdonald's</li>
+<li>This corpus contains 155 types of words that contain both letters and punctuation. Examples: [gap], [name:personal], [pause], [speaker:laughter], [name:surname], [audience:laughter], [:voice], s-, [all:laughter], [incident], j-, n-, m-, p-, z-, t-, k-, v-, d-, b-, po-, u-, do-, [name:address], [name:organisation], ka-, se-, o-, š-, a-, e-, i-, na-, g-, gos-, gospo-, ist-, le-, lu-, ma-, pos-, pre-, pri-, re-, tist-, Bel-, Franc-, Oma-, Slove-, [name:place]</li>
 </ul>
 
 <ul>
@@ -460,6 +464,7 @@ Joakim Nivre (guidelines consulting)
       <li>ADJ: dobro, dober, zanimivo, glavnem, lep, lepa, mali, rdeča, sam, stari</li>
       <li>ADJ-Part: vnet, preverjeno, znan, odprta, pozdravljeni, rečeno, imenovana, imenovani, narejeno, ostali</li>
       <li>ADV: tako, zdaj, a, pol, kako, lahko, tam, kar, potem, res</li>
+      <li>DET: nič</li>
     </ul>
   </li>
 </ul>
@@ -481,7 +486,7 @@ Joakim Nivre (guidelines consulting)
   <li>Neg
     <ul>
       <li>AUX-Fin: ni, nisem, nismo, niso, nisi, niste, nisva</li>
-      <li>PART: ne</li>
+      <li>PART: ne, bržkone, kajne</li>
       <li>VERB-Fin: ni, nima, nimam, nisem, nimajo, niso, noče, nimamo, nimate, nimaš</li>
     </ul>
   </li>
@@ -719,6 +724,18 @@ Joakim Nivre (guidelines consulting)
   </li>
 </ul>
 
+<ul>
+  <li><a>Reflex</a></li>
+</ul>
+
+<ul>
+  <li>Yes
+    <ul>
+      <li>DET: svoje, svojo, svojega, svoj, svojim, svoja, svojem, svojemu, svojih, svojimi</li>
+      <li>PRON: se, si, sabo, sebi, sebe, seboj, zase</li>
+    </ul>
+  </li>
+</ul>
 
 <ul>
   <li><a>Person</a></li>
@@ -874,7 +891,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Gen-ADP(preko) (1)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(čez) (1)</li>
       <li>VERB-Fin--NOUN-Nom (4)</li>
-      <li>VERB-Fin--PRON-Acc (155)</li>
+      <li>VERB-Fin--PRON-Acc (156)</li>
       <li>VERB-Fin--PRON-Dat (76)</li>
       <li>VERB-Fin--PRON-Gen (17)</li>
       <li>VERB-Fin--PRON-Nom (1)</li>
@@ -914,6 +931,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 
 
+<h3>Verbs with Reflexive Core Objects</h3>
+
+<ul>
+  <li>This corpus contains 3 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: dajati sebe, opisati sebe, povedati svoje</li>
+</ul>
 
 <h3>Relations Overview</h3>
 

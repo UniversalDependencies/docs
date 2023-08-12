@@ -8,55 +8,45 @@ udver: '2'
 
 This relation is universal.
 
-37 nodes (0%) are attached to their parents as `iobj`.
+34 nodes (0%) are attached to their parents as `iobj`.
 
-37 instances of `iobj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.21621621621622.
+34 instances of `iobj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.97058823529412.
 
-The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (24; 65% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt> (8; 22% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt> (3; 8% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (2; 5% instances).
+The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (23; 68% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt> (7; 21% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt> (4; 12% instances).
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 10 iobj	color:blue
-1	Chị	chị	NOUN	N	_	2	nsubj	_	_
-2	đặt	đặt	VERB	V	_	0	root	_	_
-3	cả	cả	PRON	Pro	_	4	det	_	_
-4	sự nghiệp	sự nghiệp	NOUN	N	_	2	obj	_	_
-5	của	của	ADP	Pre	_	6	case	_	_
-6	mình	mình	PRON	Pro	_	4	nmod:poss	_	_
-7	lên	lên	ADP	Pre	_	2	compound:dir	_	_
-8	hai	hai	NUM	Num	_	10	nummod	_	_
-9	con	con	NOUN	Nc	_	8	clf:det	_	_
-10	hổ	hổ	NOUN	N	_	2	iobj	_	_
-11	.	.	PUNCT	.	_	2	punct	_	_
+# visual-style 2 4 iobj	color:blue
+1	Chúng tôi	chúng tôi	PRON	Pro	_	2	nsubj	_	_
+2	chôn	chôn	VERB	V	_	0	root	_	_
+3	hộ	hộ	VERB	V	_	2	xcomp	_	_
+4	bà	bà	NOUN	N	_	2	iobj	_	_
+5	ấy	ấy	PRON	Pro	_	4	det:pmod	_	_
+6	...	...	PUNCT	...	_	2	punct	_	_
+7	"	"	PUNCT	``	_	2	punct	_	_
+8	.	.	PUNCT	.	_	2	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 iobj	color:blue
-1	Ông	ông	NOUN	N	_	2	nsubj	_	_
-2	tặng	tặng	VERB	V	_	0	root	_	_
-3	kim	kim	PROPN	NNP	_	2	iobj	_	_
-4	căn	căn	NOUN	Nc	_	5	clf:det	_	_
-5	nhà	nhà	NOUN	N	_	2	obj	_	_
-6	quá	quá	ADV	Adv	_	8	advmod	_	_
-7	nhiều	nhiều	ADJ	Adj	_	8	advmod:adj	_	_
-8	kỷ niệm	kỷ niệm	NOUN	N	_	5	acl:subj	_	_
-9	đó	đó	PRON	Pro	_	5	det:pmod	_	_
-10	và	và	CCONJ	CC	_	12	cc	_	_
-11	họ	họ	PRON	Pro	_	12	nsubj	_	_
-12	chia tay	chia tay	VERB	V	_	2	conj	_	_
-13	nhau	nhau	NOUN	N	_	12	obj	_	_
-14	...	...	PUNCT	...	_	2	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 iobj	color:blue
+1	Chuyện	chuyện	NOUN	N	_	5	dislocated	_	_
+2	này	này	PRON	Pro	_	1	det:pmod	_	_
+3	Thu	Thu	PROPN	NNP	_	5	nsubj	_	_
+4	phải	phải	AUX	AUX	_	5	aux	_	_
+5	giấu	giấu	VERB	V	_	0	root	_	_
+6	Thọ	Thọ	PROPN	NNP	_	5	iobj	_	_
+7	.	.	PUNCT	.	_	5	punct	_	_
 
 ~~~
 

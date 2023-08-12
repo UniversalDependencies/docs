@@ -8,30 +8,27 @@ udver: '2'
 
 This relation is universal.
 
-24 nodes (0%) are attached to their parents as `dislocated`.
+37 nodes (0%) are attached to their parents as `dislocated`.
 
-23 instances of `dislocated` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.79166666666667.
+35 instances of `dislocated` (95%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.7027027027027.
 
-The following 6 pairs of parts of speech are connected with `dislocated`: <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (16; 67% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (3; 13% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (2; 8% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-X.html">X</a></tt> (1; 4% instances), <tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> (1; 4% instances).
+The following 8 pairs of parts of speech are connected with `dislocated`: <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (28; 76% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (3; 8% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-X.html">X</a></tt> (1; 3% instances), <tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 1 dislocated	color:blue
-1	Bom	bom	NOUN	N	_	7	dislocated	_	_
-2	mìn	mìn	NOUN	N	_	1	compound	_	_
-3	trong	trong	ADP	Pre	_	4	case	_	_
-4	lòng	lòng	NOUN	N	_	1	obl	_	_
-5	đất	đất	NOUN	N	_	4	nmod	_	_
-6	,	,	PUNCT	,	_	7	punct	_	_
-7	vận động	vận động	VERB	V	_	0	root	_	_
-8	dân	dân	NOUN	N	_	9	nsubj:xsubj	_	_
-9	tháo gỡ	tháo gỡ	VERB	V	_	7	xcomp	_	_
-10	...	...	PUNCT	...	_	7	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 1 dislocated	color:blue
+1	Chuyện	chuyện	NOUN	N	_	5	dislocated	_	_
+2	này	này	PRON	Pro	_	1	det:pmod	_	_
+3	Thu	Thu	PROPN	NNP	_	5	nsubj	_	_
+4	phải	phải	AUX	AUX	_	5	aux	_	_
+5	giấu	giấu	VERB	V	_	0	root	_	_
+6	Thọ	Thọ	PROPN	NNP	_	5	iobj	_	_
+7	.	.	PUNCT	.	_	5	punct	_	_
 
 ~~~
 

@@ -7,13 +7,13 @@ udver: '2'
 ## Treebank Statistics: UD_Kaapor-TuDeT: POS Tags: `ADV`
 
 There are 20 `ADV` lemmas (10%), 20 `ADV` types (9%) and 37 `ADV` tokens (10%).
-Out of 13 observed tags, the rank of `ADV` is: 3 in number of lemmas, 4 in number of types and 4 in number of tokens.
+Out of 14 observed tags, the rank of `ADV` is: 3 in number of lemmas, 3 in number of types and 4 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: <em>pe, tĩ, riki, ko, pahar, uhu, _, aja, ajameʔẽ, amõ</em>
 
 The 10 most frequent `ADV` types:  <em>pe, tĩ, riki, ko, pahar, uhu, Arahã, aja, ajameʔẽ, amõ</em>
 
-The 10 most frequent ambiguous lemmas: <em>pe</em> (<tt><a href="urb_tudet-pos-ADV.html">ADV</a></tt> 10, <tt><a href="urb_tudet-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="urb_tudet-pos-ADP.html">ADP</a></tt> 3, <tt><a href="urb_tudet-pos-PRON.html">PRON</a></tt> 2), <em>tĩ</em> (<tt><a href="urb_tudet-pos-ADV.html">ADV</a></tt> 4, <tt><a href="urb_tudet-pos-PART.html">PART</a></tt> 4), <em>riki</em> (<tt><a href="urb_tudet-pos-ADV.html">ADV</a></tt> 3, <tt><a href="urb_tudet-pos-ADP.html">ADP</a></tt> 2, <tt><a href="urb_tudet-pos-PART.html">PART</a></tt> 2), <em>ko</em> (<tt><a href="urb_tudet-pos-ADV.html">ADV</a></tt> 2, <tt><a href="urb_tudet-pos-DET.html">DET</a></tt> 1), <em>_</em> (<tt><a href="urb_tudet-pos-VERB.html">VERB</a></tt> 3, <tt><a href="urb_tudet-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="urb_tudet-pos-PRON.html">PRON</a></tt> 2, <tt><a href="urb_tudet-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="urb_tudet-pos-ADV.html">ADV</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>pe</em> (<tt><a href="urb_tudet-pos-ADV.html">ADV</a></tt> 10, <tt><a href="urb_tudet-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="urb_tudet-pos-ADP.html">ADP</a></tt> 3, <tt><a href="urb_tudet-pos-PRON.html">PRON</a></tt> 2), <em>tĩ</em> (<tt><a href="urb_tudet-pos-ADV.html">ADV</a></tt> 4, <tt><a href="urb_tudet-pos-PART.html">PART</a></tt> 4), <em>riki</em> (<tt><a href="urb_tudet-pos-ADV.html">ADV</a></tt> 3, <tt><a href="urb_tudet-pos-ADP.html">ADP</a></tt> 2, <tt><a href="urb_tudet-pos-PART.html">PART</a></tt> 2), <em>ko</em> (<tt><a href="urb_tudet-pos-ADV.html">ADV</a></tt> 2, <tt><a href="urb_tudet-pos-DET.html">DET</a></tt> 1), <em>_</em> (<tt><a href="urb_tudet-pos-VERB.html">VERB</a></tt> 3, <tt><a href="urb_tudet-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="urb_tudet-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="urb_tudet-pos-ADV.html">ADV</a></tt> 1, <tt><a href="urb_tudet-pos-NUM.html">NUM</a></tt> 1, <tt><a href="urb_tudet-pos-PRON.html">PRON</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>pe</em> (<tt><a href="urb_tudet-pos-ADV.html">ADV</a></tt> 6, <tt><a href="urb_tudet-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="urb_tudet-pos-ADP.html">ADP</a></tt> 2), <em>tĩ</em> (<tt><a href="urb_tudet-pos-ADV.html">ADV</a></tt> 4, <tt><a href="urb_tudet-pos-PART.html">PART</a></tt> 4), <em>riki</em> (<tt><a href="urb_tudet-pos-ADV.html">ADV</a></tt> 3, <tt><a href="urb_tudet-pos-ADP.html">ADP</a></tt> 2, <tt><a href="urb_tudet-pos-PART.html">PART</a></tt> 2), <em>ko</em> (<tt><a href="urb_tudet-pos-ADV.html">ADV</a></tt> 2, <tt><a href="urb_tudet-pos-DET.html">DET</a></tt> 1)
 
@@ -35,7 +35,7 @@ The 10 most frequent ambiguous types:  <em>pe</em> (<tt><a href="urb_tudet-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.000000 (the average of all parts of speech is 1.160000).
+The form / lemma ratio of `ADV` is 1.000000 (the average of all parts of speech is 1.154229).
 
 The 1st highest number of forms (1) was observed with the lemma “_”: <em>Arahã</em>.
 

@@ -57,7 +57,7 @@ and [Ancient Greek features](feat/index.html).
 
 ## Syntax
 
-*
+* Besides universal subtypes, PROIEL uses one language-specific dependency subtype, [advcl:cmp]() for adverbial clauses of comparison
 
 ---
 **Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.

@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fin`, `Inf`, `Part`.
 
-70 tokens (0%) have a non-empty value of `VerbForm`.
-66 types (1%) occur at least once with a non-empty value of `VerbForm`.
-64 lemmas (1%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 3 part-of-speech tags: <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (68; 0% instances), <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="de_pud-pos-X.html">X</a></tt> (1; 0% instances).
+71 tokens (0%) have a non-empty value of `VerbForm`.
+67 types (1%) occur at least once with a non-empty value of `VerbForm`.
+65 lemmas (1%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 2 part-of-speech tags: <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (70; 0% instances), <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-68 <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> tokens (3% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+70 <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> tokens (4% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="de_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (68; 100%), <tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (68; 100%), <tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (68; 100%), <tt><a href="de_pud-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (47; 69%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="de_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (70; 100%), <tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (70; 100%), <tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (70; 100%), <tt><a href="de_pud-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (48; 69%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Fin` (1; 1% of non-empty `VerbForm`): <em>bleiben</em>
-* `Inf` (47; 69% of non-empty `VerbForm`): <em>finden, abzuschreiben, arbeiten, aufrechtzuerhalten, aufzutreten, begrenzen, behandeln, bekommen, beschäftigen, besuchen</em>
-* `Part` (20; 29% of non-empty `VerbForm`): <em>abgesehen, basierend, gefolgt, gesagt, Geformt, abgehärtet, angeklagt, begründet, bekannt, geeignet</em>
-* `EMPTY` (1920): <em>sagte, ist, an, hat, haben, gibt, wurde, sagt, auf, begann</em>
+* `Inf` (48; 69% of non-empty `VerbForm`): <em>finden, abzuschreiben, arbeiten, aufrechtzuerhalten, aufzutreten, begrenzen, behandeln, bekommen, beschäftigen, besuchen</em>
+* `Part` (21; 30% of non-empty `VerbForm`): <em>abgesehen, basierend, gefolgt, gesagt, Breaking, Geformt, abgehärtet, angeklagt, begründet, bekannt</em>
+* `EMPTY` (1908): <em>sagte, ist, an, hat, haben, gibt, wurde, sagt, auf, begann</em>
 
 <table>
   <tr><th>Paradigm <i>schreiben</i></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>
@@ -33,7 +33,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
   <tr><td><tt><tt><a href="de_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td><em>geschrieben</em></td></tr>
 </table>
 
-`VerbForm` seems to be **lexical feature** of `VERB`. 97% lemmas (60) occur only with one value of `VerbForm`.
+`VerbForm` seems to be **lexical feature** of `VERB`. 97% lemmas (62) occur only with one value of `VerbForm`.
 
 ### `AUX`
 
@@ -44,16 +44,5 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 `AUX` tokens may have the following values of `VerbForm`:
 
 * `Fin` (1; 100% of non-empty `VerbForm`): <em>war</em>
-* `EMPTY` (868): <em>ist, war, wurde, werden, wird, wurden, sind, hat, hatte, waren</em>
-
-### `X`
-
-1 <tt><a href="de_pud-pos-X.html">X</a></tt> tokens (3% of all `X` tokens) have a non-empty value of `VerbForm`.
-
-The most frequent other feature values with which `X` and `VerbForm` co-occurred: <tt><a href="de_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1; 100%).
-
-`X` tokens may have the following values of `VerbForm`:
-
-* `Part` (1; 100% of non-empty `VerbForm`): <em>Breaking</em>
-* `EMPTY` (35): <em>E, Multi, t, Bundes, Demografie, Don', Druck, Einzel, Ex, Fjögur</em>
+* `EMPTY` (871): <em>ist, war, wurde, werden, wird, sind, wurden, hat, hatte, waren</em>
 

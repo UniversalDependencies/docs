@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-80 nodes (6%) are attached to their parents as `amod`.
+82 nodes (6%) are attached to their parents as `amod`.
 
-65 instances of `amod` (81%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.2125.
+67 instances of `amod` (82%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.21951219512195.
 
-The following 6 pairs of parts of speech are connected with `amod`: <tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sah_yktdt-pos-ADJ.html">ADJ</a></tt> (74; 93% instances), <tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sah_yktdt-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="sah_yktdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sah_yktdt-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sah_yktdt-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sah_yktdt-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `amod`: <tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sah_yktdt-pos-ADJ.html">ADJ</a></tt> (76; 93% instances), <tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sah_yktdt-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="sah_yktdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sah_yktdt-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sah_yktdt-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sah_yktdt-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

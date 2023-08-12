@@ -30,4 +30,4 @@ Hint: *όχι" / *ohi* "no/not" should be tagged as [PART]() and [Polarity=Neg](
 Τριανταφυλλίδης, Μανόλης. 1941, Reprinted 2000. *Νεοελληνική Γραμματική. Αθήνα: Οργανισμός Εκδόσεως Διδακτικών Βιβλίων*: 203-205.
          
 https://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/
-<!-- Interlanguage links updated Po lis 14 15:34:34 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:26 CEST -->

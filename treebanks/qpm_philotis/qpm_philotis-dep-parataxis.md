@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-129 nodes (0%) are attached to their parents as `parataxis`.
+130 nodes (0%) are attached to their parents as `parataxis`.
 
-129 instances of `parataxis` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.81395348837209.
+130 instances of `parataxis` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.87692307692308.
 
-The following 6 pairs of parts of speech are connected with `parataxis`: <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (92; 71% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (15; 12% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> (10; 8% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-PART.html">PART</a></tt> (6; 5% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-INTJ.html">INTJ</a></tt> (5; 4% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `parataxis`: <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (93; 72% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (15; 12% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> (10; 8% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-PART.html">PART</a></tt> (6; 5% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-INTJ.html">INTJ</a></tt> (5; 4% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

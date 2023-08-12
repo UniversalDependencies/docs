@@ -26,7 +26,7 @@ The following 1 pairs of parts of speech are connected with `advmod:cau`: <tt><a
 1	Мес	мес	ADV	Adv	Case=Ill|PronType=Int	4	advmod:cau	_	GTtags=Interr,Ill
 2	тяшкава	тяшкава	ADV	Adv	AdvType=Deg	3	advmod:deg	_	GTtags=Deg
 3	рана	рана	ADV	Adv	AdvType=Tim	4	advmod:tmod	_	GTtags=Sem/Time
-4	якат	якамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres	0	root	_	GTtags=Ind,Prs,ScSg2|SpaceAfter=No
+4	якат	якамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres|VerbForm=Fin	0	root	_	GTtags=Ind,Prs,ScSg2|SpaceAfter=No
 5	.	.	PUNCT	CLB	_	4	punct	_	_
 
 ~~~

@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (9; 100% of non-empty `Foreign`): <em>World, aisthesis, poïésis, doctors</em>
-* `EMPTY` (5223): <em>peu, fait, moment, ans, place, gens, art, côté, monde, temps</em>
+* `EMPTY` (5221): <em>peu, fait, moment, ans, place, gens, art, côté, monde, temps</em>
 
 ### `ADJ`
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (4; 100% of non-empty `Foreign`): <em>Small, flying</em>
-* `EMPTY` (1567): <em>tout, petit, tous, jeune, grande, vrai, autre, droit, même, premier</em>
+* `EMPTY` (1568): <em>tout, petit, tous, jeune, grande, vrai, autre, droit, même, premier</em>
 
 ### `DET`
 
@@ -45,7 +45,7 @@ The most frequent other feature values with which `DET` and `Foreign` co-occurre
 `DET` tokens may have the following values of `Foreign`:
 
 * `Yes` (3; 100% of non-empty `Foreign`): <em>A</em>
-* `EMPTY` (4469): <em>le, la, les, l', un, une, des, ce, cette, mon</em>
+* `EMPTY` (4468): <em>le, la, les, l', un, une, des, ce, cette, mon</em>
 
 ## Relations with Agreement in `Foreign`
 

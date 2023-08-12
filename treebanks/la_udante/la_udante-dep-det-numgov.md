@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `det:numgov`: <tt><a
 # visual-style 20 15 det:numgov	color:blue
 1	Illud	ille	DET	ddisna	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Dem	3	nsubj	_	_
 2	quoque	quoque	PART	r	Form=Emp	8	discourse	_	_
-3	preterire	praetereo	VERB	va5fp	Aspect=Imp|VerbForm=Vnoun|Voice=Act	8	ccomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+3	preterire	praetereo	VERB	va5fp	Aspect=Imp|VerbForm=Inf|Voice=Act	8	ccomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 4	silentio	silentium	NOUN	sns2b	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	3	obl	_	_
 5	simpliciter	simpliciter	ADV	r	_	3	advmod	_	_
 6	inardescens	inardesco	VERB	va3ppsmn	Aspect=Inch|Case=Nom|Gender=Masc|InflClass=LatX|InflClass[nominal]=IndEurI|Number=Sing|VerbForm=Part|Voice=Act	9	acl	_	TraditionalMood=Participium
@@ -44,8 +44,8 @@ The following 1 pairs of parts of speech are connected with `det:numgov`: <tt><a
 20	honoris	honos	NOUN	sms3g	Case=Gen|Gender=Masc|InflClass=IndEurX|Number=Sing	23	nsubj:pass	_	_
 21	et	et	CCONJ	co	_	22	cc	_	_
 22	fame	fama	NOUN	sfs1g	Case=Gen|Gender=Fem|InflClass=IndEurA|Number=Sing	20	conj	_	_
-23	conferri	confero	VERB	vp5fp	Aspect=Imp|VerbForm=Vnoun|Voice=Pass	24	csubj:pass	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
-24	videri	uideo	VERB	vd2fp	Aspect=Imp|VerbForm=Vnoun|Voice=Pass	25	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+23	conferri	confero	VERB	vp5fp	Aspect=Imp|VerbForm=Inf|Voice=Pass	24	csubj:pass	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+24	videri	uideo	VERB	vd2fp	Aspect=Imp|VerbForm=Inf|Voice=Pass	25	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 25	potest	possum	VERB	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	dislocated:csubj	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 26	;	;	PUNCT	Pu	_	41	punct	_	_
 27	quin	quin	SCONJ	r	Polarity=Neg|PronType=Rel	41	mark	_	_
@@ -63,7 +63,7 @@ The following 1 pairs of parts of speech are connected with `det:numgov`: <tt><a
 39	satis	satis	ADV	r	_	40	advmod	_	_
 40	attentis	attendo	VERB	amp1d	Aspect=Perf|Case=Dat|Gender=Masc|InflClass=LatX|InflClass[nominal]=IndEurO|Number=Plur|VerbForm=Part|Voice=Pass	41	obl:arg	_	TraditionalMood=Participium|TraditionalTense=Perfectum
 41	videbar	uideo	VERB	vd2iis1	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass	25	conj:expl	_	TraditionalMood=Indicativus|TraditionalTense=Imperfectum
-42	expressisse	exprimo	VERB	va3fr	Aspect=Perf|VerbForm=Vnoun|Voice=Act	41	xcomp	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Perfectum
+42	expressisse	exprimo	VERB	va3fr	Aspect=Perf|VerbForm=Inf|Voice=Act	41	xcomp	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Perfectum
 43	;	;	PUNCT	Pu	_	44	punct	_	_
 44	quod	qui	PRON	presnn	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Rel	42	advcl:pred	_	_
 45	de	de	ADP	e	_	46	case	_	_

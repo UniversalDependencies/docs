@@ -39,7 +39,7 @@ The following 3 pairs of parts of speech are connected with `ccomp`: <tt><a href
 15	に	に	ADP	助詞-格助詞	_	14	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,に,に,に,ニ,,,ニ,ニ,に
 16	言っ	言う	VERB	動詞-一般-五段-ワア行	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|SpaceAfter=No|UnidicInfo=,言う,言っ,言う,イッ,,,イウ,イウ,言う
 17	た	た	AUX	助動詞-助動詞-タ	_	16	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,た,た,た,タ,,,タ,タ,た
-18	。	。	PUNCT	補助記号-句点	_	16	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=Yes|UnidicInfo=,。,。,。,,,,,,。
+18	。	。	PUNCT	補助記号-句点	_	16	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|UnidicInfo=,。,。,。,,,,,,。
 
 ~~~
 

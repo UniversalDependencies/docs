@@ -55,7 +55,7 @@ The following 4 pairs of parts of speech are connected with `csubj:cleft`: <tt><
 1	Nichil	nihil	PRON	dinsnn	Polarity=Neg|PronType=Ind	0	root	_	_
 2	est	sum	AUX	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 3	quod	qui	PRON	presnn	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Rel	5	nsubj	_	_
-4	dare	do	VERB	va1fp	Aspect=Imp|VerbForm=Vnoun|Voice=Act	5	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+4	dare	do	VERB	va1fp	Aspect=Imp|VerbForm=Inf|Voice=Act	5	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 5	possit	possum	VERB	va5cps3	Aspect=Imp|InflClass=LatAnom|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	csubj:cleft	_	TraditionalMood=Subiunctivus|TraditionalTense=Praesens
 6	quod	qui	PRON	presna	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Rel	8	obj	_	_
 7	non	non	PART	r	Polarity=Neg	8	advmod:neg	_	_
@@ -65,12 +65,12 @@ The following 4 pairs of parts of speech are connected with `csubj:cleft`: <tt><
 11	omne	omnis	DET	ans2n	Case=Nom|Gender=Neut|InflClass=IndEurI|Number=Sing|PronType=Tot	12	det	_	_
 12	agens	agens	VERB	va3ppsmn	Aspect=Imp|Case=Nom|Gender=Masc|InflClass=LatX|InflClass[nominal]=IndEurI|Number=Sing|VerbForm=Part|Voice=Act	16	nsubj	_	TraditionalMood=Participium|TraditionalTense=Praesens
 13	aliquid	aliquis	PRON	dinsna	Case=Acc|Compound=Yes|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Ind	14	obj	_	_
-14	actu	actus	NOUN	sms4b	Case=Abl|Gender=Masc|InflClass=IndEurU|Number=Sing|VerbForm=Vnoun	16	obl	_	_
+14	actu	actus	NOUN	sms4b	Case=Abl|Gender=Masc|InflClass=IndEurU|Number=Sing|VerbForm=Inf	16	obl	_	_
 15	esse	sum	AUX	va5fp	Aspect=Imp|VerbForm=Inf	16	cop	_	TraditionalTense=Praesens
 16	tale	talis	DET	ans2n	Case=Nom|Gender=Neut|InflClass=IndEurI|Number=Sing|PronType=Dem	17	csubj:pass	_	_
 17	oportet	oportet	VERB	va2*ips3	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 18	quale	qualis	DET	presnn	Case=Nom|Gender=Neut|InflClass=IndEurI|Number=Sing|PronType=Rel	19	det	_	_
-19	agere	ago	VERB	va3fp	Aspect=Imp|VerbForm=Vnoun|Voice=Act	20	ccomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+19	agere	ago	VERB	va3fp	Aspect=Imp|VerbForm=Inf|Voice=Act	20	ccomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 20	intendit	intendo	VERB	va3ips3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	acl:relcl	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 21	,	,	PUNCT	Pu	_	23	punct	_	_
 22	ut	ut	SCONJ	r	PronType=Rel	23	mark	_	_

@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Slovenian-SST: POS Tags: `ADJ`
 
-There are 702 `ADJ` lemmas (17%), 1096 `ADJ` types (17%) and 1664 `ADJ` tokens (6%).
-Out of 16 observed tags, the rank of `ADJ` is: 3 in number of lemmas, 3 in number of types and 8 in number of tokens.
+There are 702 `ADJ` lemmas (18%), 1096 `ADJ` types (17%) and 1664 `ADJ` tokens (6%).
+Out of 16 observed tags, the rank of `ADJ` is: 3 in number of lemmas, 3 in number of types and 9 in number of tokens.
 
 The 10 most frequent `ADJ` lemmas: <em>drug, dober, prvi, sam, velik, lep, glaven, nov, star, mali</em>
 
@@ -15,7 +15,7 @@ The 10 most frequent `ADJ` types:  <em>dobro, drugo, prvi, drugi, dober, zanimiv
 
 The 10 most frequent ambiguous lemmas: <em>moški</em> (<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 5), <em>peti</em> (<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> 3), <em>dolg</em> (<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 3), <em>fajn</em> (<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 10, <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 3), <em>super</em> (<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 13, <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 3), <em>frej</em> (<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 2), <em>pet</em> (<tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> 17, <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 2), <em>dan</em> (<tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 44, <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 1), <em>gol</em> (<tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 1), <em>kamen</em> (<tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>dobro</em> (<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 46, <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 18), <em>drugo</em> (<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 17, <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 1), <em>zanimivo</em> (<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 10, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 3), <em>druga</em> (<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 9, <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 1), <em>celo</em> (<tt><a href="sl_sst-pos-PART.html">PART</a></tt> 7, <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 6), <em>mogoče</em> (<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 18, <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 6), <em>prvo</em> (<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 6, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 4), <em>pravi</em> (<tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> 30, <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 5), <em>jasno</em> (<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 4), <em>podobno</em> (<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 2)
+The 10 most frequent ambiguous types:  <em>dobro</em> (<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 46, <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 18), <em>drugo</em> (<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 17, <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 1), <em>zanimivo</em> (<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 10, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 3), <em>druga</em> (<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 9, <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 1), <em>celo</em> (<tt><a href="sl_sst-pos-PART.html">PART</a></tt> 7, <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 6), <em>mogoče</em> (<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 18, <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 6), <em>prvo</em> (<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 6, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 4), <em>pravi</em> (<tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> 31, <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 5), <em>jasno</em> (<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 4), <em>podobno</em> (<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 2)
 
 
 * <em>dobro</em>
@@ -35,12 +35,12 @@ The 10 most frequent ambiguous types:  <em>dobro</em> (<tt><a href="sl_sst-pos-A
   * <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 6: <em>ti boš v bistvu <b>celo</b> solato naredil ne ?</em>
 * <em>mogoče</em>
   * <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 18: <em><b>mogoče</b> bi še dodal prej ko nisem dokončal</em>
-  * <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 6: <em><b>mogoče</b> je boljše da naredimo vse nek [gap] betonsko neko betonsko podlago</em>
+  * <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 6: <em><b>mogoče</b></em>
 * <em>prvo</em>
   * <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 6: <em>kaj pa prva dajmo <b>prvo</b> pogledati še enkrat</em>
   * <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 4: <em>plačilo recimo <b>prvo</b> no da to spravimo</em>
 * <em>pravi</em>
-  * <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> 30: <em>pa <b>pravi</b> [name:personal] pa daj saj ena številka ti pa še viška hodi ne</em>
+  * <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> 31: <em>pa <b>pravi</b> [name:personal] pa daj saj ena številka ti pa še viška hodi ne</em>
   * <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 5: <em>ja samo ko bo pač <b>pravi</b> čas za to ne</em>
 * <em>jasno</em>
   * <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 4: <em>kaj [speaker:laughter] a veš nič <b>jasno</b> bilo sploh samo tako šok ne</em>
@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>dobro</em> (<tt><a href="sl_sst-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.561254 (the average of all parts of speech is 1.570645).
+The form / lemma ratio of `ADJ` is 1.561254 (the average of all parts of speech is 1.573353).
 
 The 1st highest number of forms (13) was observed with the lemma “dober”: <em>boljša, boljše, boljšem, boljši, boljšo, dober, dobra, dobri, dobrih, dobrimi, dobro, najboljša, najboljše</em>.
 

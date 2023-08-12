@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1 nodes (0%) are attached to their parents as `ccomp`.
+2 nodes (0%) are attached to their parents as `ccomp`.
 
-1 instances of `ccomp` (100%) are left-to-right (parent precedes child).
+2 instances of `ccomp` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 5.
 
-The following 1 pairs of parts of speech are connected with `ccomp`: <tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt> (1; 100% instances).
+The following 1 pairs of parts of speech are connected with `ccomp`: <tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt> (2; 100% instances).
 
 
 ~~~ conllu

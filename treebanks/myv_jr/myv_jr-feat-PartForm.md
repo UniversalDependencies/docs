@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="myv_jr-pos-AUX.html
 
 40 <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> tokens (5% of all `AUX` tokens) have a non-empty value of `PartForm`.
 
-The most frequent other feature values with which `AUX` and `PartForm` co-occurred: <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (40; 100%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (40; 100%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (40; 100%), <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (40; 100%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (40; 100%), <tt><a href="myv_jr-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (40; 100%), <tt><a href="myv_jr-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (37; 93%).
+The most frequent other feature values with which `AUX` and `PartForm` co-occurred: <tt><a href="myv_jr-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (40; 100%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (40; 100%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (40; 100%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (40; 100%), <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (40; 100%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (40; 100%), <tt><a href="myv_jr-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (37; 93%).
 
 `AUX` tokens may have the following values of `PartForm`:
 
@@ -28,7 +28,7 @@ The most frequent other feature values with which `AUX` and `PartForm` co-occurr
 
 15 <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `PartForm`.
 
-The most frequent other feature values with which `VERB` and `PartForm` co-occurred: <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (15; 100%), <tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (15; 100%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (15; 100%), <tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (15; 100%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (15; 100%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (13; 87%), <tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (13; 87%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (12; 80%), <tt><a href="myv_jr-feat-Valency.html">Valency</a></tt><tt>=1</tt> (10; 67%).
+The most frequent other feature values with which `VERB` and `PartForm` co-occurred: <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (15; 100%), <tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (15; 100%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (15; 100%), <tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (15; 100%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (15; 100%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (13; 87%), <tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (13; 87%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (12; 80%).
 
 `VERB` tokens may have the following values of `PartForm`:
 

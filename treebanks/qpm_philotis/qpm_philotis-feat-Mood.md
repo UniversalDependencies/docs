@@ -58,7 +58,7 @@ The 10 most frequent relations where parent and child node agree in `Mood`:
 <tt>VERB --[<tt><a href="qpm_philotis-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (902; 60%),
 <tt>VERB --[<tt><a href="qpm_philotis-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (576; 56%),
 <tt>VERB --[<tt><a href="qpm_philotis-dep-obj.html">obj</a></tt>]--> VERB</tt> (28; 56%),
-<tt>VERB --[<tt><a href="qpm_philotis-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (12; 63%),
+<tt>VERB --[<tt><a href="qpm_philotis-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (12; 71%),
 <tt>VERB --[<tt><a href="qpm_philotis-dep-obl.html">obl</a></tt>]--> VERB</tt> (4; 57%),
 <tt>AUX --[<tt><a href="qpm_philotis-dep-conj.html">conj</a></tt>]--> VERB</tt> (1; 100%).
 

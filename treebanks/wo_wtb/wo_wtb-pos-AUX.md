@@ -63,7 +63,7 @@ The 10 most frequent ambiguous types:  <em>di</em> (<tt><a href="wo_wtb-pos-AUX.
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 5.600000 (the average of all parts of speech is 1.250208).
+The form / lemma ratio of `AUX` is 5.600000 (the average of all parts of speech is 1.250260).
 
 The 1st highest number of forms (31) was observed with the lemma “di”: <em>Deel, Doonkon, daa, daan, daawu, daawul, daldil, dee, dees, deeskon, deesu, deesul, di, dina, dinaa, dinanu, dinañu, dinga, dingeen, doo, doon, doonulkoon, doonuñu, dootoo, dootu, dootul, dootuñu, du, dul, duma, duñu</em>.
 

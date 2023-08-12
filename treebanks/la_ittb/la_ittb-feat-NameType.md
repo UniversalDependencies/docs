@@ -7,38 +7,39 @@ udver: '2'
 ## Treebank Statistics: UD_Latin-ITTB: Features: `NameType`
 
 This feature is language-specific.
-It occurs with 5 different values: `Giv`, `Let`, `Lit`, `Nat`, `Rel`.
+It occurs with 6 different values: `Geo`, `Giv`, `Let`, `Lit`, `Nat`, `Rel`.
 
-747 tokens (0%) have a non-empty value of `NameType`.
-63 types (0%) occur at least once with a non-empty value of `NameType`.
-42 lemmas (1%) occur at least once with a non-empty value of `NameType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> (330; 0% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (322; 0% instances), <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (95; 0% instances).
+749 tokens (0%) have a non-empty value of `NameType`.
+65 types (0%) occur at least once with a non-empty value of `NameType`.
+44 lemmas (1%) occur at least once with a non-empty value of `NameType`.
+The feature is used with 3 part-of-speech tags: <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> (331; 0% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (323; 0% instances), <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (95; 0% instances).
 
 ### `PROPN`
 
-330 <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> tokens (6% of all `PROPN` tokens) have a non-empty value of `NameType`.
+331 <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> tokens (6% of all `PROPN` tokens) have a non-empty value of `NameType`.
 
-The most frequent other feature values with which `PROPN` and `NameType` co-occurred: <tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (330; 100%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (330; 100%), <tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=EMPTY</tt> (330; 100%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (330; 100%).
+The most frequent other feature values with which `PROPN` and `NameType` co-occurred: <tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (331; 100%), <tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=EMPTY</tt> (331; 100%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (330; 100%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (330; 100%).
 
 `PROPN` tokens may have the following values of `NameType`:
 
+* `Geo` (1; 0% of non-empty `NameType`): <em>ierusalem</em>
 * `Giv` (330; 100% of non-empty `NameType`): <em>ioan., matth., tim., ierem., luc., ezech., iac., petr., ier., dan.</em>
 
-`NameType` seems to be **lexical feature** of `PROPN`. 100% lemmas (19) occur only with one value of `NameType`.
+`NameType` seems to be **lexical feature** of `PROPN`. 100% lemmas (20) occur only with one value of `NameType`.
 
 ### `ADJ`
 
-322 <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `NameType`.
+323 <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `NameType`.
 
-The most frequent other feature values with which `ADJ` and `NameType` co-occurred: <tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (322; 100%), <tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (294; 91%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (294; 91%), <tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=EMPTY</tt> (294; 91%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (294; 91%).
+The most frequent other feature values with which `ADJ` and `NameType` co-occurred: <tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (323; 100%), <tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (294; 91%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (294; 91%), <tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=EMPTY</tt> (294; 91%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (294; 91%).
 
 `ADJ` tokens may have the following values of `NameType`:
 
 * `Lit` (1; 0% of non-empty `NameType`): <em>paralip.</em>
-* `Nat` (297; 92% of non-empty `NameType`): <em>cor., rom., philipp., hebr., ephes., coloss., thess., leuit., philip., heb.</em>
+* `Nat` (298; 92% of non-empty `NameType`): <em>cor., rom., philipp., hebr., ephes., coloss., thess., leuit., philip., heb.</em>
 * `Rel` (24; 7% of non-empty `NameType`): <em>christianae, christiana, christianam, christiani, christiano, christianis, christianum</em>
 
-`NameType` seems to be **lexical feature** of `ADJ`. 100% lemmas (12) occur only with one value of `NameType`.
+`NameType` seems to be **lexical feature** of `ADJ`. 100% lemmas (13) occur only with one value of `NameType`.
 
 ### `NOUN`
 

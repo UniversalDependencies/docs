@@ -24,7 +24,7 @@ The following 18 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 6 1 vocative	color:blue
 1	Malach	Malach	PROPN	NNP	Number=Sing	6	vocative	6:vocative	SpaceAfter=No
 2	,	,	PUNCT	,	_	6	punct	6:punct	_
-3	What	what	PRON	WP	PronType=Int	6	nsubj	6:nsubj	_
+3	What	what	PRON	WP	PronType=Rel	6	nsubj	5:obj|6:nsubj	_
 4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	5:nsubj	_
 5	say	say	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	acl:relcl	3:acl:relcl	_
 6	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_

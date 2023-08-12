@@ -194,8 +194,9 @@ The most frequent other feature values with which `PROPN` and `Voice` co-occurre
 ## Relations with Agreement in `Voice`
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
-<tt>VERB --[<tt><a href="hi_hdtb-dep-obj.html">obj</a></tt>]--> VERB</tt> (2760; 70%),
+<tt>VERB --[<tt><a href="hi_hdtb-dep-obj.html">obj</a></tt>]--> VERB</tt> (2084; 65%),
 <tt>VERB --[<tt><a href="hi_hdtb-dep-conj.html">conj</a></tt>]--> VERB</tt> (1204; 85%),
+<tt>VERB --[<tt><a href="hi_hdtb-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (675; 89%),
 <tt>VERB --[<tt><a href="hi_hdtb-dep-obj.html">obj</a></tt>]--> AUX</tt> (2; 100%),
 <tt>VERB --[<tt><a href="hi_hdtb-dep-vocative.html">vocative</a></tt>]--> VERB</tt> (2; 100%).
 

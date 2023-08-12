@@ -58,7 +58,7 @@ The 10 most frequent ambiguous types:  <em>nag</em> (<tt><a href="wo_wtb-pos-ADV
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.007092 (the average of all parts of speech is 1.250208).
+The form / lemma ratio of `ADV` is 1.007092 (the average of all parts of speech is 1.250260).
 
 The 1st highest number of forms (2) was observed with the lemma “fii”: <em>fee, fii</em>.
 

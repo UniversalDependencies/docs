@@ -9,19 +9,19 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Neg`.
 
-98 tokens (1%) have a non-empty value of `Polarity`.
+97 tokens (1%) have a non-empty value of `Polarity`.
 8 types (0%) occur at least once with a non-empty value of `Polarity`.
 2 lemmas (0%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 3 part-of-speech tags: <tt><a href="br_keb-pos-ADV.html">ADV</a></tt> (87; 1% instances), <tt><a href="br_keb-pos-AUX.html">AUX</a></tt> (9; 0% instances), <tt><a href="br_keb-pos-PART.html">PART</a></tt> (2; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="br_keb-pos-ADV.html">ADV</a></tt> (86; 1% instances), <tt><a href="br_keb-pos-AUX.html">AUX</a></tt> (9; 0% instances), <tt><a href="br_keb-pos-PART.html">PART</a></tt> (2; 0% instances).
 
 ### `ADV`
 
-87 <tt><a href="br_keb-pos-ADV.html">ADV</a></tt> tokens (16% of all `ADV` tokens) have a non-empty value of `Polarity`.
+86 <tt><a href="br_keb-pos-ADV.html">ADV</a></tt> tokens (16% of all `ADV` tokens) have a non-empty value of `Polarity`.
 
 `ADV` tokens may have the following values of `Polarity`:
 
-* `Neg` (87; 100% of non-empty `Polarity`): <em>ne, n', Ne'z, n’</em>
-* `EMPTY` (465): <em>ket, -se, -mañ, ivez, bremañ, ebet, neuze, setu, hepken, -tre</em>
+* `Neg` (86; 100% of non-empty `Polarity`): <em>ne, n', Ne'z, n’</em>
+* `EMPTY` (460): <em>ket, -se, -mañ, ivez, bremañ, ebet, neuze, setu, hepken, -tre</em>
 
 ### `AUX`
 
@@ -32,7 +32,7 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 `AUX` tokens may have the following values of `Polarity`:
 
 * `Neg` (9; 100% of non-empty `Polarity`): <em>na</em>
-* `EMPTY` (1323): <em>a, e, eo, oa, vo, zo, bet, o, en, vez</em>
+* `EMPTY` (1320): <em>a, e, eo, oa, vo, zo, bet, o, en, vez</em>
 
 ### `PART`
 

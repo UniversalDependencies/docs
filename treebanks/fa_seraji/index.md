@@ -16,11 +16,11 @@ Family: Indo-European, Iranian
 
 This treebank has been part of Universal Dependencies since the UD v1.1 release.
 
-The following people have contributed to making this treebank part of UD: Mojgan Seraji, Filip Ginter, Joakim Nivre.
+The following people have contributed to making this treebank part of UD: Mojgan Seraji, Filip Ginter, Joakim Nivre, Martin Popel, Daniel Zeman.
 
 Repository: [UD_Persian-Seraji](https://github.com/UniversalDependencies/UD_Persian-Seraji)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfa_seraji211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfa_seraji212)<br />
+Download all treebanks: [UD 2.12](/#download)
 
 License: CC BY-SA 4.0
 

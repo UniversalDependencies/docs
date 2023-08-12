@@ -20,4 +20,4 @@ compound(Kiwanuka-låt,Michael)
 
 In addition to this, the language-specific subtype [compound:prt](compound-prt) is used for verbal particles.
 
-<!-- Interlanguage links updated Po lis 14 15:35:15 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:04:05 CEST -->

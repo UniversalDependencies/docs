@@ -11,7 +11,7 @@ This relation is universal.
 466 nodes (2%) are attached to their parents as `cc`.
 
 466 instances of `cc` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.48497854077253.
+Average distance between parent and child is 2.48712446351931.
 
 The following 9 pairs of parts of speech are connected with `cc`: <tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt>-<tt><a href="akk_riao-pos-CCONJ.html">CCONJ</a></tt> (195; 42% instances), <tt><a href="akk_riao-pos-VERB.html">VERB</a></tt>-<tt><a href="akk_riao-pos-CCONJ.html">CCONJ</a></tt> (150; 32% instances), <tt><a href="akk_riao-pos-PROPN.html">PROPN</a></tt>-<tt><a href="akk_riao-pos-CCONJ.html">CCONJ</a></tt> (105; 23% instances), <tt><a href="akk_riao-pos-ADV.html">ADV</a></tt>-<tt><a href="akk_riao-pos-CCONJ.html">CCONJ</a></tt> (5; 1% instances), <tt><a href="akk_riao-pos-ADP.html">ADP</a></tt>-<tt><a href="akk_riao-pos-CCONJ.html">CCONJ</a></tt> (4; 1% instances), <tt><a href="akk_riao-pos-VERB.html">VERB</a></tt>-<tt><a href="akk_riao-pos-PART.html">PART</a></tt> (3; 1% instances), <tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt>-<tt><a href="akk_riao-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="akk_riao-pos-ADJ.html">ADJ</a></tt>-<tt><a href="akk_riao-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="akk_riao-pos-PRON.html">PRON</a></tt>-<tt><a href="akk_riao-pos-PART.html">PART</a></tt> (1; 0% instances).
 

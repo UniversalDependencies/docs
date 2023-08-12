@@ -51,7 +51,7 @@ The following 2 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 26	Martini	Martinus	PROPN	Propn|n|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	24	nmod	_	SpaceAfter=No
 27	,	,	PUNCT	Punc	_	24	punct	_	_
 28	ibi	ubi	ADV	d|d|-|-|-|-|-|-|-|-	PronType=Rel	29	advmod	_	_
-29	pascere	pasco	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	30	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+29	pascere	pasco	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	30	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 30	debeamus	debeo	VERB	v|v|1|p|p|s|a|-|-|-	Aspect=Imp|Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	19	csubj:relcl	_	TraditionalMood=Subiunctivus|TraditionalTense=Praesens
 31	presbiteros	presbyter	NOUN	n|n|-|p|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Plur	29	obj	_	_
 32	tres	tres	NUM	a|a|-|p|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Plur|NumType=Card	31	nummod	_	_
@@ -135,7 +135,7 @@ The following 2 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 45	ipsa	ipse	DET	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	46	det	_	_
 46	casa	casa	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	48	obl	_	_
 47	foris	foris	ADV	d|d|-|-|-|-|-|-|-|-	_	48	advmod	_	_
-48	exire	exeo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	49	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+48	exire	exeo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	49	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 49	presumserimus	praesumo	VERB	v|v|1|p|t|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	40	conj	_	TraditionalMood=Indicativus|TraditionalTense=FuturumExactum
 50	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	52	case	_	_
 51	alio	alius	DET	a|a|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing|PronType=Con	52	det	_	_
@@ -148,7 +148,7 @@ The following 2 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 58	cum	cum	ADP	r|r|-|-|-|-|-|-|-|-	_	59	case	_	_
 59	heredibus	heres	NOUN	n|n|-|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur	56	obl	_	_
 60	nostris	noster	DET	a|a|1|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs	59	det	_	_
-61	conponere	compono	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	56	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+61	conponere	compono	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	56	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 62	tibi	tu	PRON	p|p|2|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	61	obl:arg	_	_
 63	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	64	cc	_	_
 64	successoribus	successor	NOUN	n|n|-|p|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Plur	62	conj	_	_

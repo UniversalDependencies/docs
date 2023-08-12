@@ -39,4 +39,4 @@ See also the relatived feature [Person[psor]]().
 * _գալ<b>ներս</b>_ “<b>our</b> coming” `Number[psor]=Plur|Number=Coll`
 * _ինք<b>ներս</b>_ “<b>we ourselves</b>” `Number[psor]=Plur|Number=Sing`
 * _հետ<b>ներս</b>_ “with <b>us</b>” `Number[psor]=Plur`
-<!-- Interlanguage links updated Po lis 14 15:34:51 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:42 CEST -->

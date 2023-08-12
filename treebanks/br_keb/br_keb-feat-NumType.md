@@ -22,7 +22,7 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Ord` (16; 100% of non-empty `NumType`): <em>eil, 13vet, 19vet, X, c'hentañ, drede, kentañ, trede, 17vet, 1añ</em>
+* `Ord` (16; 100% of non-empty `NumType`): <em>eil, 13vet, 19vet, Xvet, c'hentañ, drede, kentañ, trede, 17vet, 1añ</em>
 * `EMPTY` (217): <em>daou, unan, 2007, 4, 000, 1950, 20, 3, 30, div</em>
 
 `NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (10) occur only with one value of `NumType`.

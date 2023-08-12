@@ -25,10 +25,10 @@ The following 11 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 6 5 cc	color:blue
 1	Аволь	аволь	AUX	Pcle	NegationType=Contrastive|Polarity=Neg	2	aux:neg	_	GTtags=Neg,Emphatic
 2	пек	пек	ADV	Adv	AdvType=Deg	3	advmod:deg	_	GTtags=Degree
-3	шумазь	шумамс	VERB	V	Derivation=Ozj|Valency=1|VerbForm=Conv	4	advcl	_	GTtags=IV,Der/Озь,Ger
-4	охаесь	охаемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	0	root	_	GTtags=IV,Ind,Prt1,ScSg3
+3	шумазь	шумамс	VERB	V	Derivation=Ozj|VerbForm=Conv	4	advcl	_	GTtags=IV,Der/Озь,Ger
+4	охаесь	охаемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	GTtags=IV,Ind,Prt1,ScSg3
 5	ды	ды	CCONJ	CC	_	6	cc	_	_
-6	кувсесь	кувсемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	4	conj	_	GTtags=IV,Ind,Prt1,ScSg3|SpaceAfter=No
+6	кувсесь	кувсемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	4	conj	_	GTtags=IV,Ind,Prt1,ScSg3|SpaceAfter=No
 7	.	.	PUNCT	CLB	_	4	punct	_	_
 
 ~~~

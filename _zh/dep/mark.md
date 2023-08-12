@@ -111,4 +111,4 @@ For relative clauses, nominalized clauses, and adjectives formed with 的 _de_, 
 10	happy."	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:30 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:04:19 CEST -->

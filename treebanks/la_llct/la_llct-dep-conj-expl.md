@@ -97,7 +97,7 @@ The following 2 pairs of parts of speech are connected with `conj:expl`: <tt><a 
 44	cum	cum	ADP	r|r|-|-|-|-|-|-|-|-	_	43	fixed	_	_
 45	meis	meus	DET	a|a|1|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	46	det	_	_
 46	heredes	heres	NOUN	n|n|-|p|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Plur	42	conj	_	_
-47	conponere	compono	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	38	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+47	conponere	compono	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	38	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 48	tibi	tu	PRON	p|p|2|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	51	det	_	_
 49	qui	qui	DET	p|p|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	51	det	_	_
 50	supra	supra	ADV	d|d|-|-|-|-|-|-|-|-	_	49	fixed	_	_

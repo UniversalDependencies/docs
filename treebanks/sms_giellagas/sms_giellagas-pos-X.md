@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>jânnam</em> (<tt><a href="sms_giella
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.465909).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.467290).
 
 The 1st highest number of forms (1) was observed with the lemma “_”: <em>jânnam</em>.
 

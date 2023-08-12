@@ -44,7 +44,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
   <tr><td><tt><tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=LatX</tt>|<tt><a href="la_udante-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_udante-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="la_udante-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="la_udante-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="la_udante-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>cognosceres</em></td><td></td></tr>
   <tr><td><tt><tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=LatX</tt>|<tt><a href="la_udante-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_udante-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_udante-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="la_udante-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="la_udante-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>cognoscat</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=LatX</tt>|<tt><a href="la_udante-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_udante-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_udante-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="la_udante-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="la_udante-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>cognoscant</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_udante-feat-VerbForm.html">VerbForm</a></tt><tt>=Vnoun</tt>|<tt><a href="la_udante-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>cognoscere</em></td><td><em>cognovisse</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_udante-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt>|<tt><a href="la_udante-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>cognoscere</em></td><td><em>cognovisse</em></td><td></td><td></td></tr>
 </table>
 
 ### `AUX`
@@ -103,14 +103,14 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 ## Relations with Agreement in `Aspect`
 
 The 10 most frequent relations where parent and child node agree in `Aspect`:
-<tt>VERB --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> VERB</tt> (944; 84%),
-<tt>VERB --[<tt><a href="la_udante-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (585; 65%),
-<tt>VERB --[<tt><a href="la_udante-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (398; 78%),
+<tt>VERB --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> VERB</tt> (943; 84%),
+<tt>VERB --[<tt><a href="la_udante-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (582; 65%),
+<tt>VERB --[<tt><a href="la_udante-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (399; 78%),
 <tt>VERB --[<tt><a href="la_udante-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (258; 59%),
-<tt>VERB --[<tt><a href="la_udante-dep-advcl-cmp.html">advcl:cmp</a></tt>]--> VERB</tt> (183; 65%),
-<tt>VERB --[<tt><a href="la_udante-dep-advcl-pred.html">advcl:pred</a></tt>]--> VERB</tt> (171; 59%),
+<tt>VERB --[<tt><a href="la_udante-dep-advcl-cmp.html">advcl:cmp</a></tt>]--> VERB</tt> (182; 65%),
+<tt>VERB --[<tt><a href="la_udante-dep-advcl-pred.html">advcl:pred</a></tt>]--> VERB</tt> (172; 59%),
 <tt>VERB --[<tt><a href="la_udante-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (157; 76%),
 <tt>VERB --[<tt><a href="la_udante-dep-ccomp-reported.html">ccomp:reported</a></tt>]--> VERB</tt> (47; 54%),
 <tt>VERB --[<tt><a href="la_udante-dep-obl.html">obl</a></tt>]--> VERB</tt> (41; 53%),
-<tt>VERB --[<tt><a href="la_udante-dep-csubj-relcl.html">csubj:relcl</a></tt>]--> VERB</tt> (37; 62%).
+<tt>VERB --[<tt><a href="la_udante-dep-csubj-relcl.html">csubj:relcl</a></tt>]--> VERB</tt> (37; 61%).
 

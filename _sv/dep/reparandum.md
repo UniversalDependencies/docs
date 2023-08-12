@@ -16,4 +16,4 @@ reparandum(vänster, höge-)
 case(höge-, till-2)
 case(vänster, till-4)
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:44 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:04:33 CEST -->

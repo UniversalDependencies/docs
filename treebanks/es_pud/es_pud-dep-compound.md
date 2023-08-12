@@ -33,7 +33,7 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 8	franco	franco	ADJ	AFX	Hyph=Yes	10	compound	_	SpaceAfter=No|Proper=True
 9	-	-	PUNCT	-	_	8	punct	_	SpaceAfter=No
 10	monegasco	monegasco	ADJ	JJ	Gender=Masc|Number=Sing	7	amod	_	Proper=True
-11	fue	ser	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	12	aux:pass	_	_
+11	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	aux:pass	_	_
 12	firmado	firmar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 13	,	,	PUNCT	,	_	14	punct	_	_
 14	ofreciendo	ofrecer	VERB	VBG	VerbForm=Ger	12	advcl	_	_
@@ -53,11 +53,11 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 9 compound	color:blue
-1	Fue	ser	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	2	aux:pass	_	_
+1	Fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	aux:pass	_	_
 2	seguido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 3	por	por	ADP	IN	_	5	case	_	_
 4	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
-5	fondos	_	NOUN	NN	Gender=Masc|Number=Plur	2	obl	_	_
+5	fondos	_	NOUN	NN	Gender=Masc|Number=Plur	2	obl:agent	_	_
 6	de	de	ADP	IN	_	7	case	_	_
 7	renta	renta	NOUN	NN	Gender=Fem|Number=Sing	5	nmod	_	_
 8	y	y	CCONJ	CC	_	11	cc	_	_
@@ -76,10 +76,10 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 21	,	,	PUNCT	,	_	27	punct	_	_
 22	en	en	ADP	IN	_	24	case	_	_
 23	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	24	det	_	_
-24	que	_	PRON	REL	Gender=Masc|Number=Plur|PronType=Int,Rel	27	obl	_	_
+24	que	que	PRON	REL	Gender=Masc|Number=Plur|PronType=Rel	27	obl	_	_
 25	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	26	det	_	_
 26	inversores	_	NOUN	NN	Gender=Masc|Number=Plur	27	nsubj	_	_
-27	depositaron	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	acl:relcl	_	_
+27	depositaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	acl:relcl	_	_
 28	2	2	NUM	CD	Gender=Masc|NumType=Card	29	nummod	_	_
 29	mil	mil	NUM	CD	Gender=Masc|NumType=Card	30	nummod	_	_
 30	millones	_	NOUN	NN	Gender=Masc|Number=Plur	27	obj	_	_
@@ -107,7 +107,7 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 4	2011	2011	NUM	CD	Gender=Masc|NumType=Card	2	nmod	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	_	_
 6	Blunt	Blunt	PROPN	NNP	Gender=Fem|Number=Sing	9	nsubj	_	_
-7	comenzó	comenzar	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	comenzó	comenzar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 8	a	a	ADP	IN	_	9	mark	_	_
 9	rodar	rodar	VERB	VB	VerbForm=Inf	7	xcomp	_	_
 10	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
@@ -121,14 +121,14 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 18	,	,	PUNCT	,	_	19	punct	_	_
 19	dirigida	dirigir	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	11	acl	_	_
 20	por	por	ADP	IN	_	21	case	_	_
-21	Rian	Rian	PROPN	NNP	Gender=Masc|Number=Sing	19	obl	_	_
+21	Rian	Rian	PROPN	NNP	Gender=Masc|Number=Sing	19	obl:agent	_	_
 22	Johnson	Johnson	PROPN	NNP	Gender=Masc|Number=Sing	21	flat:name	_	_
 23	y	y	CCONJ	CC	_	26	cc	_	_
 24	co	co	ADJ	AFX	Hyph=Yes	26	compound	_	SpaceAfter=No
 25	-	-	PUNCT	-	_	24	punct	_	SpaceAfter=No
 26	protagonizada	protagonizar	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	19	conj	_	_
 27	por	por	ADP	IN	_	28	case	_	_
-28	Bruce	Bruce	PROPN	NNP	Gender=Masc|Number=Sing	26	obl	_	_
+28	Bruce	Bruce	PROPN	NNP	Gender=Masc|Number=Sing	26	obl:agent	_	_
 29	Willis	Willis	PROPN	NNP	Gender=Masc|Number=Sing	28	flat:name	_	_
 30	y	y	CCONJ	CC	_	31	cc	_	_
 31	Joseph	Joseph	PROPN	NNP	Gender=Masc|Number=Sing	28	conj	_	_
@@ -138,8 +138,8 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 35	;	;	PUNCT	:	_	39	punct	_	_
 36	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	37	det	_	_
 37	película	película	NOUN	NN	Gender=Fem|Number=Sing	39	nsubj:pass	_	_
-38	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	39	compound:prt	_	_
-39	lanzó	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	9	parataxis	_	_
+38	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	39	expl:pass	_	_
+39	lanzó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	parataxis	_	_
 40	en	en	ADP	IN	_	41	case	_	_
 41	septiembre	septiembre	NOUN	NN	Gender=Masc|Number=Sing	39	obl	_	_
 42	de	de	ADP	IN	_	43	case	_	_

@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-235 tokens (0%) have a non-empty value of `Typo`.
-119 types (0%) occur at least once with a non-empty value of `Typo`.
-144 lemmas (0%) occur at least once with a non-empty value of `Typo`.
-The feature is used with 7 part-of-speech tags: <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (202; 0% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (13; 0% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (13; 0% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+236 tokens (0%) have a non-empty value of `Typo`.
+120 types (0%) occur at least once with a non-empty value of `Typo`.
+145 lemmas (0%) occur at least once with a non-empty value of `Typo`.
+The feature is used with 7 part-of-speech tags: <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (202; 0% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (13; 0% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (13; 0% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (2; 0% instances).
 
 ### `NUM`
 
@@ -80,13 +80,13 @@ The most frequent other feature values with which `PROPN` and `Typo` co-occurred
 
 ### `VERB`
 
-1 <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Typo`.
+2 <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="et_edt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="et_edt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="et_edt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="et_edt-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt> (1; 100%), <tt><a href="et_edt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="et_edt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="et_edt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="et_edt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="et_edt-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt> (2; 100%), <tt><a href="et_edt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (2; 100%).
 
 `VERB` tokens may have the following values of `Typo`:
 
-* `Yes` (1; 100% of non-empty `Typo`): <em>kripeldada</em>
+* `Yes` (2; 100% of non-empty `Typo`): <em>kasutata, kripeldada</em>
 
 ## Relations with Agreement in `Typo`
 

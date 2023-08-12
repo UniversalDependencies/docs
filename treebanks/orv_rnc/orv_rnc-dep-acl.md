@@ -24,13 +24,13 @@ The following 28 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 1	fgColor:white
 # visual-style 1 4 acl	color:blue
 1	Роспис(ь)	роспись	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	wf="Роспись"|SpaceAfter=No
-2	,	,	PUNCT	_	_	4	punct	_	wf=","|SpaceAfter=Yes
-3	что	что	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	8	det	_	wf="что"|SpaceAfter=Yes
-4	принето	приняти	VERB	_	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	1	acl	_	wf="принето"|SpaceAfter=Yes
-5	у	у	ADP	_	_	7	case	_	wf="у"|SpaceAfter=Yes
-6	белевских	бѣлевский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	7	amod	_	wf="белевских"|SpaceAfter=Yes
-7	крестьян	крестьянинъ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	4	obl	_	wf="крестьян"|SpaceAfter=Yes
-8	куров	куръ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	4	nsubj:pass	_	wf="куров"|SpaceAfter=Yes
+2	,	,	PUNCT	_	_	4	punct	_	wf=","|_
+3	что	что	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	8	det	_	wf="что"|_
+4	принето	приняти	VERB	_	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	1	acl	_	wf="принето"|_
+5	у	у	ADP	_	_	7	case	_	wf="у"|_
+6	белевских	бѣлевский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	7	amod	_	wf="белевских"|_
+7	крестьян	крестьянинъ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	4	obl	_	wf="крестьян"|_
+8	куров	куръ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	4	nsubj:pass	_	wf="куров"|_
 9	живых	живой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	8	amod	_	wf="живых"|SpaceAfter=No
 10	.	.	PUNCT	_	_	1	punct	_	wf="."|SpaceAfter=No
 
@@ -63,24 +63,24 @@ The following 28 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 17 acl	color:blue
-1	О	о	ADP	_	_	2	case	_	Norm=О|_
-2	томъ	то	PRON	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	0	root	_	Norm=томъ|SpaceAfter=No
-3	,	,	PUNCT	_	_	17	punct	_	Norm=,|_
-4	что	что	SCONJ	_	_	5	mark	_	Norm=что|_
-5	требуемыхъ	требовати	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	12	acl	_	Norm=требуемыхъ|_
-6	въ	въ	ADP	_	_	7	case	_	Norm=въ|_
-7	Москву	Москва	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	5	obl	_	Norm=Москву|_
-8	по	по	ADP	_	_	9	case	_	Norm=по|_
-9	иску	искъ	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	5	obl	_	Norm=иску|_
-10	подъячаго	подъячий	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	Norm=подъячаго|_
-11	Шавкунова	Шавкуновъ	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	10	appos	_	Norm=Шавкунова|_
-12	кунгурцевъ	кунгурецъ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	17	nsubj	_	Norm=кунгурцевъ|_
-13	Ѳедосеевыхъ	Ѳедосѣевъ	PROPN	_	Case=Gen|Gender=Masc|Number=Plur	12	appos	_	Norm=Ѳедосеевыхъ|_
-14	въ	въ	ADP	_	_	15	case	_	Norm=въ|_
-15	Кунгурѣ	Кунгуръ	PROPN	_	Case=Loc|Gender=Masc|Number=Sing	17	obl	_	Norm=Кунгурѣ|_
-16	не	не	PART	_	Polarity=Neg	17	advmod	_	Norm=не|_
-17	оказалось	оказатися	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Mid	2	acl	_	Norm=оказалось|SpaceAfter=No
-18	.	.	PUNCT	_	_	2	punct	_	Norm=.|_
+1	О	о	ADP	_	_	2	case	_	Norm="О"|_
+2	томъ	то	PRON	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	0	root	_	Norm="томъ"|SpaceAfter=No
+3	,	,	PUNCT	_	_	17	punct	_	Norm=","|_
+4	что	что	SCONJ	_	_	5	mark	_	Norm="что"|_
+5	требуемыхъ	требовати	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	12	acl	_	Norm="требуемыхъ"|_
+6	въ	въ	ADP	_	_	7	case	_	Norm="въ"|_
+7	Москву	Москва	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	5	obl	_	Norm="Москву"|_
+8	по	по	ADP	_	_	9	case	_	Norm="по"|_
+9	иску	искъ	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	5	obl	_	Norm="иску"|_
+10	подъячаго	подъячий	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	Norm="подъячаго"|_
+11	Шавкунова	Шавкуновъ	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	10	appos	_	Norm="Шавкунова"|_
+12	кунгурцевъ	кунгурецъ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	17	nsubj	_	Norm="кунгурцевъ"|_
+13	Ѳедосеевыхъ	Ѳедосѣевъ	PROPN	_	Case=Gen|Gender=Masc|Number=Plur	12	appos	_	Norm="Ѳедосеевыхъ"|_
+14	въ	въ	ADP	_	_	15	case	_	Norm="въ"|_
+15	Кунгурѣ	Кунгуръ	PROPN	_	Case=Loc|Gender=Masc|Number=Sing	17	obl	_	Norm="Кунгурѣ"|_
+16	не	не	PART	_	Polarity=Neg	17	advmod	_	Norm="не"|_
+17	оказалось	оказатися	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Mid	2	acl	_	Norm="оказалось"|SpaceAfter=No
+18	.	.	PUNCT	_	_	2	punct	_	Norm="."|_
 
 ~~~
 

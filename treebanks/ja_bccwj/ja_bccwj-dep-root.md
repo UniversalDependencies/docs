@@ -65,7 +65,7 @@ The following 16 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0 12 root	color:blue
 1	_	_	NOUN	_	_	3	compound	_	BBIL=B|BPT=0|LBIL=B|LPOS=0|SpaceAfter=No|UI=16683
 2	_	_	NUM	_	_	3	nummod	_	BBIL=I|BPT=0|LBIL=I|LPOS=0|SpaceAfter=No|UI=54442
-3	_	_	NOUN	_	_	12	dep	_	BBIL=I|BPT=4|LBIL=I|LPOS=0|SpaceAfter=Yes|UI=17392
+3	_	_	NOUN	_	_	12	dep	_	BBIL=I|BPT=4|LBIL=I|LPOS=0|UI=17392
 4	_	_	NOUN	_	_	6	obl	_	BBIL=B|BPT=1|LBIL=B|LPOS=0|SpaceAfter=No|UI=4496
 5	_	_	ADP	_	_	4	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No|UI=5
 6	_	_	VERB	_	_	12	acl	_	BBIL=B|BPT=1|LBIL=B|LPOS=11|SpaceAfter=No|UI=612

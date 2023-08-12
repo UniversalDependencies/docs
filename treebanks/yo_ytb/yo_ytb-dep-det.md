@@ -65,24 +65,24 @@ The following 9 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 17	bgColor:blue
 # visual-style 17	fgColor:white
 # visual-style 17 16 det	color:blue
-1	Nígbà	nígbà	ADV	_	_	6	advmod	_	Ref=MARK_5.17|Gloss=when
-2	náà	náà	ADV	_	_	1	fixed	_	Ref=MARK_5.17|SpaceAfter=No|Gloss=
-3	,	,	PUNCT	_	_	6	punct	_	Ref=MARK_5.17|Gloss=,
-4	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	5	det	_	Ref=MARK_5.17|Gloss=the
-5	èrò	èrò	NOUN	_	_	6	nsubj	_	Ref=MARK_5.17|Gloss=people
-6	bẹ̀rẹ̀	bẹ̀rẹ̀	VERB	_	_	0	root	_	Ref=MARK_5.17|Gloss=began
-7	sí	sí	ADP	_	_	9	case	_	Ref=MARK_5.17|Gloss=to
-8	ní	ní	ADP	_	_	9	case	_	Ref=MARK_5.17|Gloss=in
-9	bẹ	bẹ	VERB	_	_	6	compound:svc	_	Ref=MARK_5.17|Gloss=is
-10	Jésù	Jésù	PROPN	_	_	14	nsubj	_	Ref=MARK_5.17|Gloss=jesus
-11	pé	pé	SCONJ	_	_	14	mark	_	Ref=MARK_5.17|Gloss=that
-12	kí	kí	AUX	_	_	14	aux	_	Ref=MARK_5.17|Gloss=let
-13	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	14	expl	_	Ref=MARK_5.17|Gloss=he
-14	fi	fi	VERB	_	_	6	advcl	_	Ref=MARK_5.17|Gloss=leave
-15	agbégbé	agbégbé	NOUN	_	_	14	obj	_	Ref=MARK_5.17|Gloss=area
-16	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	17	det	_	Ref=MARK_5.17|Gloss=their
-17	sílẹ̀	sílẹ̀	VERB	_	_	14	compound:svc	_	Ref=MARK_5.17|SpaceAfter=No|Gloss=left
-18	.	.	PUNCT	_	_	6	punct	_	Ref=MARK_5.17|Gloss=.
+1	Nígbà	nígbà	ADV	_	_	6	advmod	_	Gloss=when|Ref=MARK_5.17
+2	náà	náà	ADV	_	_	1	fixed	_	Gloss=|Ref=MARK_5.17|SpaceAfter=No
+3	,	,	PUNCT	_	_	6	punct	_	Gloss=,|Ref=MARK_5.17
+4	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	5	det	_	Gloss=the|Ref=MARK_5.17
+5	èrò	èrò	NOUN	_	_	6	nsubj	_	Gloss=people|Ref=MARK_5.17
+6	bẹ̀rẹ̀	bẹ̀rẹ̀	VERB	_	_	0	root	_	Gloss=began|Ref=MARK_5.17
+7	sí	sí	ADP	_	_	9	case	_	Gloss=to|Ref=MARK_5.17
+8	ní	ní	ADP	_	_	9	case	_	Gloss=in|Ref=MARK_5.17
+9	bẹ	bẹ	VERB	_	_	6	compound:svc	_	Gloss=is|Ref=MARK_5.17
+10	Jésù	Jésù	PROPN	_	_	14	nsubj	_	Gloss=jesus|Ref=MARK_5.17
+11	pé	pé	SCONJ	_	_	14	mark	_	Gloss=that|Ref=MARK_5.17
+12	kí	kí	AUX	_	_	14	aux	_	Gloss=let|Ref=MARK_5.17
+13	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	14	expl	_	Gloss=he|Ref=MARK_5.17
+14	fi	fi	VERB	_	_	6	advcl	_	Gloss=leave|Ref=MARK_5.17
+15	agbégbé	agbégbé	NOUN	_	_	14	obj	_	Gloss=area|Ref=MARK_5.17
+16	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	17	det	_	Gloss=their|Ref=MARK_5.17
+17	sílẹ̀	sílẹ̀	VERB	_	_	14	compound:svc	_	Gloss=left|Ref=MARK_5.17|SpaceAfter=No
+18	.	.	PUNCT	_	_	6	punct	_	Gloss=.|Ref=MARK_5.17
 
 ~~~
 

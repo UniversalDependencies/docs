@@ -84,9 +84,9 @@ values; here they can be copied from the overt occurrence of the predicate.)
 <table id="ellipsis-example1"> <!--I like tea and you E5.1 rum .-->
 <tbody><tr><td width="600">
 <div class="conllu-parse">
-# visual-style 5 6 orphan color:green
-# visual-style 2 5 conj color:green
-# visual-style 5 4 cc color:green
+# visual-style 5 6 orphan color:red
+# visual-style 2 5 conj color:red
+# visual-style 5 4 cc color:red
 1 I      _ _ _ _ 2 nsubj  _ _
 2 like   _ _ _ _ 0 root   _ _
 3 tea    _ _ _ _ 2 obj    _ _
@@ -116,9 +116,9 @@ values; here they can be copied from the overt occurrence of the predicate.)
 <table id="ellipsis-example2"> <!--Mary wants to buy a book and Jenny E8.1 E8.2 a CD .-->
 <tbody><tr><td width="600">
 <div class="conllu-parse">
-# visual-style 8 10 orphan color:green
-# visual-style 2 8 conj color:green
-# visual-style 8 7 cc color:green
+# visual-style 8 10 orphan color:red
+# visual-style 2 8 conj color:red
+# visual-style 8 7 cc color:red
 1  Mary  _ _ _ _ 2  nsubj  _ _
 2  wants _ _ _ _ 0  root   _ _
 3  to    _ _ _ _ 4  mark   _ _
@@ -536,12 +536,22 @@ This dependency can be recognized by the extension (subtype) `:xsubj`.
 
 ## Relative clauses
 
-In _basic_ trees, relative pronouns are attached to the main predicate of the relative clause (typically with a `nsubj` or `obj` relation). In the corresponding _enhanced_ graphs, the relative pronoun is attached to its antecedent with the special `ref` relation and the antecedent is attached as an argument to the main predicate of the relative clause. In the case where there is no explicit relative pronoun, only the latter arc is added. Note that such graphs contain a cycle.
+In _basic_ trees, relative pronouns are attached to the main predicate of the relative clause (typically with a `nsubj`
+or `obj` relation). In the corresponding _enhanced_ graphs, the relative pronoun is attached to its antecedent with the
+special `ref` relation and the antecedent is attached as a dependent of the node that is the parent of the relative
+pronoun in the basic tree. Typically this parent is the main predicate of the relative clause, but it is not always so
+(see examples below).
+
+In the case where there is no explicit relative pronoun, there is no `ref` relation in the enhanced graph but the
+antecedent is still annotated as a dependent of a node in the relative clause, depending on the role it plays in the
+relative clause.
+
+Note that such graphs contain a cycle.
 
 <table> <!--the boy who lived-->
 <tbody><tr><td width="600">
 <div class="conllu-parse">
-# visual-style 4 3 nsubj color:green
+# visual-style 4 3 nsubj color:red
 1 the   the   DET _ Definite=Def|PronType=Art 2 det       _ _
 2 boy   boy   NOUN _ Gender=Masc|Number=Sing 0 root      _ _
 3 who   who   PRON _ PronType=Rel 4 nsubj     _ _
@@ -562,7 +572,7 @@ In _basic_ trees, relative pronouns are attached to the main predicate of the re
 <table> <!--the book that I read-->
 <tbody><tr><td width="600">
 <div class="conllu-parse">
-# visual-style 5 3 obj color:green
+# visual-style 5 3 obj color:red
 1 the   the  DET  _ Definite=Def|PronType=Art 2 det       _ _
 2 book  book NOUN _ Gender=Neut|Number=Sing 0 root      _ _
 3 that  that PRON _ PronType=Rel 5 obj       _ _
@@ -606,7 +616,7 @@ Adverbial relativizers receive the same treatment.
 <table> <!--the episode where Monica sings-->
 <tbody><tr><td width="600">
 <div class="conllu-parse">
-# visual-style 5 3 advmod color:green
+# visual-style 5 3 advmod color:red
 1 the the DET DT Definite=Def|PronType=Art 2 det _ _
 2 episode episode NOUN NN Number=Sing 0 root _ _
 3 where where ADV WRB PronType=Rel 5 advmod _ _
@@ -626,12 +636,17 @@ Adverbial relativizers receive the same treatment.
 </td></tr></tbody>
 </table>
 
-The enhanced relations include deep syntactic relations. Therefore, in case marking languages the enhanced dependencies may link verb dependents that are not in the expected morphological case, required by surface syntax. In the following Czech example, the relative modifier phrase _v&nbsp;němž_ “in which” is obligatorily in the locative case form (`Case=Loc`). If it were a main clause, the referent _dům_ “house” would have to be in locative too: _v&nbsp;domě_ “in house”. However, here it is in the nominative (`Case=Nom`), and the enhanced dependency `obl` going to a nominative dependent is something we would not expect to see, given the morpho-syntactic rules of the language.
+The enhanced relations include deep syntactic relations. Therefore, in case marking languages the enhanced dependencies
+may link verb dependents that are not in the expected morphological case, required by surface syntax. In the following
+Czech example, the relative modifier phrase _v&nbsp;němž_ “in which” is obligatorily in the locative case form
+(`Case=Loc`). If it were a main clause, the referent _dům_ “house” would have to be in locative too: _v&nbsp;domě_
+“in house”. However, here it is in the nominative (`Case=Nom`), and the enhanced dependency `obl` going to a nominative
+dependent is something we would not expect to see, given the morpho-syntactic rules of the language.
 
 <table> <!--dům, v němž žijeme = the house we live in (lit. house, in that we-live)-->
 <tbody><tr><td width="600">
 <div class="conllu-parse">
-# visual-style 5 4 obl color:green
+# visual-style 5 4 obl color:red
 1 dům house NOUN _ Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing 0 root       _ _
 2 , , PUNCT _ _ 5 punct      _ _
 3 v in ADP _ _ 4 case       _ _
@@ -657,7 +672,7 @@ It may be embedded deeper as in the following example.
 <table> <!--muž, v jehož domě žijeme = the man whose house we live in (lit. man, in whose house we-live)-->
 <tbody><tr><td width="600">
 <div class="conllu-parse">
-# visual-style 5 4 det color:green
+# visual-style 5 4 det color:red
 1 muž man NOUN _ Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing 0 root       _ _
 2 , , PUNCT _ _ 6 punct      _ _
 3 v in ADP _ _ 5 case       _ _
@@ -679,18 +694,18 @@ It may be embedded deeper as in the following example.
 </td></tr></tbody>
 </table>
 
-If the relative clause has a nominal predicate, the relative pronoun may occupy the head position
-within the clause. In such cases no relation should be added from its parent to its co-referential
-element (because they are the same node). We should only add a `nsubj` relation from the antecedent
-to the `nsubj` of the relative clause (and remove the corresponding `nsubj` relation between the
-relative pronoun and the subject). The `acl:relcl` should remain the same as in basic
-dependencies.
+If the relative clause has a nominal predicate, the relative pronoun may occupy the head position within the clause.
+Unlike most relative clauses, here the parent of the relative pronoun in the basic tree is not inside the relative
+clause, and its antecedent will not have an additional enhanced relation attaching it to a (non-existent) parent in
+the relative clause. Instead, we add a `nsubj` relation from the antecedent to the `nsubj` of the relative clause
+(and remove the corresponding `nsubj` relation between the relative pronoun and the subject). The `acl:relcl` should
+remain the same as in basic dependencies.
 
 <!-- https://github.com/UniversalDependencies/docs/issues/531 -->
 <table> <!--He became chairman, which he still is-->
 <tbody><tr><td width="600">
 <div class="conllu-parse">
-# visual-style 5 6 nsubj color:green
+# visual-style 5 6 nsubj color:red
 1 He       he       PRON  _ Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs 2 nsubj _ _
 2 became   become   VERB  _ Mood=Ind|Tense=Past|VerbForm=Fin 0 root _ _
 3 chairman chairman NOUN  _ Number=Sing 2 xcomp _ SpaceAfter=No
@@ -775,7 +790,7 @@ The following formal rules apply (copied from the summary at the beginning of th
 <table> <!--the house on the hill-->
 <tbody><tr><td width="600">
 <div class="conllu-parse">
-# visual-style 2 5 nmod color:green
+# visual-style 2 5 nmod color:red
 1 the   _ _ _ _ 2 det  _ _
 2 house _ _ _ _ 0 root _ _
 3 on    _ _ _ _ 5 case _ _
@@ -797,8 +812,8 @@ The following formal rules apply (copied from the summary at the beginning of th
 <table> <!--He went to a diner after leaving work .-->
 <tbody><tr><td width="600">
 <div class="conllu-parse">
-# visual-style 2 5 obl color:green
-# visual-style 2 7 advcl color:green
+# visual-style 2 5 obl color:red
+# visual-style 2 7 advcl color:red
 1  He      _ _ _ _ 2 nsubj _ _
 2  went    _ _ _ _ 0 root  _ _
 3  to      _ _ _ _ 5 case  _ _
@@ -829,7 +844,7 @@ The following formal rules apply (copied from the summary at the beginning of th
 <table> <!--die Zerstörung der Stadt \n the destruction the.GEN city.GEN-->
 <tbody><tr><td width="600">
 <div class="conllu-parse">
-# visual-style 2 4 nmod color:green
+# visual-style 2 4 nmod color:red
 # text = the destruction of the city
 1  die        the         DET  _ Case=Gen 2 det  _ _
 2  Zerstörung destruction NOUN _ Case=Nom 0 root _ _
@@ -851,7 +866,7 @@ The following formal rules apply (copied from the summary at the beginning of th
 <table> <!--Er sitzt auf dem Boden. \n He sits on the floor.-->
 <tbody><tr><td width="600">
 <div class="conllu-parse">
-# visual-style 2 5 obl color:green
+# visual-style 2 5 obl color:red
 # text = He sits on the floor
 1  Er     he     PRON  _ Case=Nom 2 nsubj _ _
 2  sitzt  sits   NOUN  _ _        0 root  _ _
@@ -877,7 +892,7 @@ The following formal rules apply (copied from the summary at the beginning of th
 <table> <!--Er setzt sich auf den Boden. \n He sits down on the floor.-->
 <tbody><tr><td width="600">
 <div class="conllu-parse">
-# visual-style 2 6 obl color:green
+# visual-style 2 6 obl color:red
 # text = He sits down on the floor
 1  Er     he      PRON  _ Case=Nom 2 nsubj   _ _
 2  setzt  sets    NOUN  _ _        0 root    _ _
@@ -905,8 +920,8 @@ The following formal rules apply (copied from the summary at the beginning of th
 <table> <!--В течение долгого времени изучал язык майя. \n For a long time he studied the Maya language.-->
 <tbody><tr><td width="600">
 <div class="conllu-parse">
-# visual-style 5 4 obl:tmod color:green
-# visual-style 6 7 nmod color:green
+# visual-style 5 4 obl:tmod color:red
+# visual-style 6 7 nmod color:red
 # text = For a long time he studied the Maya language.
 1  В        In        ADP    _  _         4  case      _  _
 2  течение  duration  NOUN   _  Case=Loc  1  fixed     _  _
@@ -937,8 +952,8 @@ The following formal rules apply (copied from the summary at the beginning of th
 <table> <!--Lidé se rozutekli před a během útoku. \n People ran away before and during the attack.-->
 <tbody><tr><td width="600">
 <div class="conllu-parse">
-# visual-style 3 7 obl color:green
-# visual-style 4 6 conj color:green
+# visual-style 3 7 obl color:red
+# visual-style 4 6 conj color:red
 # text = Lidé se rozutekli před a během útoku.
 1  Lidé      People     NOUN   _  Case=Nom  3  nsubj     _  _
 2  se        themselves PRON   _  Case=Acc  3  expl:pv   _  _
@@ -970,8 +985,8 @@ The following formal rules apply (copied from the summary at the beginning of th
 <table> <!--apples and bananas, or oranges-->
 <tbody><tr><td width="600">
 <div class="conllu-parse">
-# visual-style 1 3 conj color:green
-# visual-style 1 6 conj color:green
+# visual-style 1 3 conj color:red
+# visual-style 1 6 conj color:red
 1  apples  _ _ _ _ 0 root  _ _
 2  and     _ _ _ _ 3 cc    _ _
 3  bananas _ _ _ _ 1 conj  _ SpaceAfter=No

@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of .
 There are also 1 other language-specific subtypes of `flat`: <tt><a href="ga_cadhan-dep-flat-foreign.html">flat:foreign</a></tt>.
 
-21 nodes (1%) are attached to their parents as `flat:name`.
+24 nodes (1%) are attached to their parents as `flat:name`.
 
-21 instances of `flat:name` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.28571428571429.
+24 instances of `flat:name` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.29166666666667.
 
-The following 7 pairs of parts of speech are connected with `flat:name`: <tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt> (9; 43% instances), <tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> (5; 24% instances), <tt><a href="ga_cadhan-pos-PART.html">PART</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (3; 14% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt> (1; 5% instances), <tt><a href="ga_cadhan-pos-PART.html">PART</a></tt>-<tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt> (1; 5% instances), <tt><a href="ga_cadhan-pos-PART.html">PART</a></tt>-<tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt> (1; 5% instances), <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> (1; 5% instances).
+The following 7 pairs of parts of speech are connected with `flat:name`: <tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt> (11; 46% instances), <tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> (6; 25% instances), <tt><a href="ga_cadhan-pos-PART.html">PART</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (3; 13% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt> (1; 4% instances), <tt><a href="ga_cadhan-pos-PART.html">PART</a></tt>-<tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="ga_cadhan-pos-PART.html">PART</a></tt>-<tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt> (1; 4% instances), <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -37,33 +37,36 @@ The following 7 pairs of parts of speech are connected with `flat:name`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 15 16 flat:name	color:blue
-1	Bhi	bí	VERB	_	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
-2	seana-chapall	seanchapall	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
-3	trucaile	trucail	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
-4	leathchaoch	leathchaoch	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	2	amod	_	_
-5	corptruagh	corpthrua	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	2	amod	_	_
-6	crubtrom	crúbthrom	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	2	amod	_	_
-7	stagach	stágach	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	2	amod	_	SpaceAfter=No
-8	,	,	PUNCT	_	_	10	punct	_	_
-9	agus	agus	CCONJ	_	_	10	cc	_	_
-10	cingire	cinnire	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	conj	_	_
-11	coiriceach	coiriceach	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	10	amod	_	_
-12	ciardhubh	ciardhubh	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No
-13	,	,	PUNCT	_	_	14	punct	_	_
-14	.i.	.i.	ADV	_	Abbr=Yes	15	advmod	_	_
-15	Micheal	Mícheál	PROPN	_	Definite=Def|Gender=Masc|Number=Sing	10	appos	_	_
-16	Ua	ó	PART	_	PartType=Pat	15	flat:name	_	_
-17	Cuidithe	Cuidithe	PROPN	_	Definite=Def	15	flat:name	_	SpaceAfter=No
-18	,	,	PUNCT	_	_	20	punct	_	_
-19	mar	mar	ADP	_	_	20	case	_	_
-20	ghiolla	giolla	NOUN	_	Case=Nom|Form=Len|Gender=Masc|Number=Sing	10	nmod	_	_
-21	againn	ag	ADP	_	Number=Plur|Person=1	20	nmod	_	SpaceAfter=No
-22	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 11 flat:name	color:blue
+1	Fuair	faigh	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
+2	tusa	tusa	PRON	_	Number=Sing|Person=2|PronType=Emp	1	nsubj	_	_
+3	's	agus	CCONJ	_	_	5	cc	_	_
+4	as	is	AUX	_	Tense=Pres|VerbForm=Cop	5	cop	_	_
+5	cuirthe	curtha	ADJ	_	VerbForm=Part	1	parataxis	_	_
+6	a	i	ADP	_	_	7	case	_	_
+7	suim	suim	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	obl	_	_
+8	a	a	PART	_	PartType=Voc	9	case:voc	_	_
+9	mheic	mac	NOUN	_	Case=Voc|Definite=Def|Form=Len|Gender=Masc|Number=Sing	5	vocative	_	_
+10	Cathbharr	Cafarr	PROPN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	9	nmod	_	_
+11	Í	uí	PART	_	PartType=Pat	10	flat:name	_	_
+12	Dhomhnuill	Domhnall	PROPN	_	Case=Gen|Definite=Def|Form=Len|Gender=Masc|Number=Sing	10	flat:name	_	_
+13	ní	ní	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	obj	_	_
+14	ó	ó	ADP	_	_	15	case	_	_
+15	Dhia	Dia	PROPN	_	Case=Nom|Definite=Def|Form=Len|Gender=Masc|Number=Sing	13	nmod	_	_
+16	et	et	CCONJ	_	_	17	cc	_	_
+17	re	ré	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	13	conj	_	_
+18	fa	faoi	ADP	_	_	19	case	_	_
+19	rath	rath	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	17	nmod	_	_
+20	ni	ní	PART	_	PartType=Vb|Polarity=Neg	21	advmod	_	_
+21	dlighe	dligh	VERB	_	Mood=Ind|Number=Sing|Person=2|Polarity=Neg|Tense=Pres	1	parataxis	_	_
+22	bheith	bheith	NOUN	_	Form=Len|VerbForm=Inf	21	xcomp	_	_
+23	dhe	de	ADP	_	Form=Len|Gender=Masc|Number=Sing|Person=3	24	obl:prep	_	_
+24	diomdhach	diomúch	ADJ	_	Degree=Pos	22	xcomp:pred	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~
 

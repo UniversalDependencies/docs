@@ -9,54 +9,54 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-891 tokens (0%) have a non-empty value of `Typo`.
-551 types (3%) occur at least once with a non-empty value of `Typo`.
-452 lemmas (3%) occur at least once with a non-empty value of `Typo`.
-The feature is used with 15 part-of-speech tags: <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (144; 0% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (136; 0% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (114; 0% instances), <tt><a href="en_ewt-pos-PART.html">PART</a></tt> (108; 0% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (89; 0% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (85; 0% instances), <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (46; 0% instances), <tt><a href="en_ewt-pos-X.html">X</a></tt> (44; 0% instances), <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (43; 0% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (27; 0% instances), <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> (21; 0% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt> (18; 0% instances), <tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (12; 0% instances), <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances).
+912 tokens (0%) have a non-empty value of `Typo`.
+568 types (3%) occur at least once with a non-empty value of `Typo`.
+465 lemmas (3%) occur at least once with a non-empty value of `Typo`.
+The feature is used with 15 part-of-speech tags: <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (152; 0% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (143; 0% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (115; 0% instances), <tt><a href="en_ewt-pos-PART.html">PART</a></tt> (109; 0% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (89; 0% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (86; 0% instances), <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (46; 0% instances), <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (46; 0% instances), <tt><a href="en_ewt-pos-X.html">X</a></tt> (44; 0% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (27; 0% instances), <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> (21; 0% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt> (18; 0% instances), <tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (12; 0% instances), <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances).
 
 ### `VERB`
 
-144 <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Typo`.
+152 <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="en_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (76; 53%), <tt><a href="en_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (73; 51%).
+The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="en_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (81; 53%), <tt><a href="en_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (78; 51%).
 
 `VERB` tokens may have the following values of `Typo`:
 
-* `Yes` (144; 100% of non-empty `Typo`): <em>taste, loose, reccomend, recomend, see, where, drive, excepted, hirier, know</em>
+* `Yes` (152; 100% of non-empty `Typo`): <em>taste, loose, new, reccomend, recomend, see, drive, excepted, hirier, know</em>
 
-`Typo` seems to be **lexical feature** of `VERB`. 100% lemmas (95) occur only with one value of `Typo`.
+`Typo` seems to be **lexical feature** of `VERB`. 100% lemmas (101) occur only with one value of `Typo`.
 
 ### `NOUN`
 
-136 <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Typo`.
+143 <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="en_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (95; 70%).
+The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="en_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (98; 69%).
 
 `NOUN` tokens may have the following values of `Typo`:
 
-* `Yes` (136; 100% of non-empty `Typo`): <em>MEH-risk, Compaq.com, catagory, collages, e, hamburguers, mid, resturant, $ervice, 1002`s</em>
+* `Yes` (143; 100% of non-empty `Typo`): <em>MEH-risk, Compaq.com, catagory, chnages, collages, e, hamburguers, mid, resturant, $ervice</em>
 
-`Typo` seems to be **lexical feature** of `NOUN`. 100% lemmas (121) occur only with one value of `Typo`.
+`Typo` seems to be **lexical feature** of `NOUN`. 100% lemmas (127) occur only with one value of `Typo`.
 
 ### `PRON`
 
-114 <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Typo`.
+115 <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `PRON` and `Typo` co-occurred: <tt><a href="en_ewt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (95; 83%), <tt><a href="en_ewt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (92; 81%), <tt><a href="en_ewt-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (65; 57%), <tt><a href="en_ewt-feat-Case.html">Case</a></tt><tt>=Gen</tt> (61; 54%).
+The most frequent other feature values with which `PRON` and `Typo` co-occurred: <tt><a href="en_ewt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (96; 83%), <tt><a href="en_ewt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (92; 80%), <tt><a href="en_ewt-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (65; 57%), <tt><a href="en_ewt-feat-Case.html">Case</a></tt><tt>=Gen</tt> (61; 53%).
 
 `PRON` tokens may have the following values of `Typo`:
 
-* `Yes` (114; 100% of non-empty `Typo`): <em>you, there, it's, the, their, s, out, they, who's, any</em>
+* `Yes` (115; 100% of non-empty `Typo`): <em>you, there, it's, the, their, s, out, they, who's, any</em>
 
-`Typo` seems to be **lexical feature** of `PRON`. 100% lemmas (23) occur only with one value of `Typo`.
+`Typo` seems to be **lexical feature** of `PRON`. 100% lemmas (24) occur only with one value of `Typo`.
 
 ### `PART`
 
-108 <tt><a href="en_ewt-pos-PART.html">PART</a></tt> tokens (2% of all `PART` tokens) have a non-empty value of `Typo`.
+109 <tt><a href="en_ewt-pos-PART.html">PART</a></tt> tokens (2% of all `PART` tokens) have a non-empty value of `Typo`.
 
 `PART` tokens may have the following values of `Typo`:
 
-* `Yes` (108; 100% of non-empty `Typo`): <em>s, nt, too, ot, the</em>
+* `Yes` (109; 100% of non-empty `Typo`): <em>s, nt, too, ot, the</em>
 
 ### `ADV`
 
@@ -72,15 +72,15 @@ The most frequent other feature values with which `ADV` and `Typo` co-occurred: 
 
 ### `ADJ`
 
-85 <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `Typo`.
+86 <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `ADJ` and `Typo` co-occurred: <tt><a href="en_ewt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (83; 98%).
+The most frequent other feature values with which `ADJ` and `Typo` co-occurred: <tt><a href="en_ewt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (84; 98%).
 
 `ADJ` tokens may have the following values of `Typo`:
 
-* `Yes` (85; 100% of non-empty `Typo`): <em>over, rediculous, accomodating, Arial, afore, knowledgable, unic, 0nside, Aweesome, Awsome</em>
+* `Yes` (86; 100% of non-empty `Typo`): <em>over, rediculous, accomodating, Arial, afore, knowledgable, unic, 0nside, Aweesome, Awsome</em>
 
-`Typo` seems to be **lexical feature** of `ADJ`. 100% lemmas (65) occur only with one value of `Typo`.
+`Typo` seems to be **lexical feature** of `ADJ`. 100% lemmas (66) occur only with one value of `Typo`.
 
 ### `ADP`
 
@@ -92,6 +92,16 @@ The most frequent other feature values with which `ADJ` and `Typo` co-occurred: 
 
 `Typo` seems to be **lexical feature** of `ADP`. 100% lemmas (25) occur only with one value of `Typo`.
 
+### `AUX`
+
+46 <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Typo`.
+
+The most frequent other feature values with which `AUX` and `Typo` co-occurred: <tt><a href="en_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (44; 96%), <tt><a href="en_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (30; 65%), <tt><a href="en_ewt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (25; 54%).
+
+`AUX` tokens may have the following values of `Typo`:
+
+* `Yes` (46; 100% of non-empty `Typo`): <em>s, re, where, have, r, ve, woud, ',, `s, a</em>
+
 ### `X`
 
 44 <tt><a href="en_ewt-pos-X.html">X</a></tt> tokens (5% of all `X` tokens) have a non-empty value of `Typo`.
@@ -101,16 +111,6 @@ The most frequent other feature values with which `ADJ` and `Typo` co-occurred: 
 * `Yes` (44; 100% of non-empty `Typo`): <em>Ken, David, Lorie, Sara, John, Nasim, Robert, Adnan, Alma, Amanda</em>
 
 `Typo` seems to be **lexical feature** of `X`. 100% lemmas (36) occur only with one value of `Typo`.
-
-### `AUX`
-
-43 <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Typo`.
-
-The most frequent other feature values with which `AUX` and `Typo` co-occurred: <tt><a href="en_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (41; 95%), <tt><a href="en_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (27; 63%), <tt><a href="en_ewt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (24; 56%), <tt><a href="en_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (22; 51%).
-
-`AUX` tokens may have the following values of `Typo`:
-
-* `Yes` (43; 100% of non-empty `Typo`): <em>s, re, have, r, ve, where, woud, ',, `s, a</em>
 
 ### `PROPN`
 

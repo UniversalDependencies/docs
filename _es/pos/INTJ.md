@@ -2,6 +2,7 @@
 layout: postag
 title: 'INTJ'
 shortdef: 'interjection'
+udver: '2'
 ---
 
 ### Definition
@@ -27,4 +28,14 @@ Marked as adverbs:
 
 - _sí_, e.g. _Votaremos <b>sí</b>_ "We will vote <b>yes</b>."
 - _no_, e.g. _<b>No</b> es verdad_ "It is <b>not</b> true."
-<!-- Interlanguage links updated Po lis 14 15:34:32 CET 2022 -->
+
+Interjections may vary across different Spanish-speaking regions. Some examples of regional interjections include:
+
+_¡ché!_ (Argentina, Uruguay): used to get someone's attention or to express surprise
+_¡ándale!_ (Mexico): used to encourage someone or express agreement
+_¡vamos!_ (Spain): used to express surprise or triumph
+_¡epa!_ (Venezuela, Colombia): used to express surprise or to get someone's attention
+
+In spoken Spanish, certain words retain their original category even when used as interjections. Examples include _¡Madre mía!_ ("my mother"), _¡Mujer!_ ("woman"), _¡Hombre!_ ("man"), _¡Venga!_ ("come"), and _¡Verdad!_ ("truth)". These words are primarily nouns, verbs or adjectives, but in conversational contexts, they can function as interjections to express emotions or reactions.
+
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:25 CEST -->

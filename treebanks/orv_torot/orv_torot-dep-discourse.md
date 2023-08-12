@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-4488 nodes (3%) are attached to their parents as `discourse`.
+7279 nodes (3%) are attached to their parents as `discourse`.
 
-3566 instances of `discourse` (79%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.26158645276292.
+5781 instances of `discourse` (79%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.45363374089847.
 
-The following 13 pairs of parts of speech are connected with `discourse`: <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> (3589; 80% instances), <tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> (290; 6% instances), <tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> (236; 5% instances), <tt><a href="orv_torot-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> (118; 3% instances), <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt>-<tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> (108; 2% instances), <tt><a href="orv_torot-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> (44; 1% instances), <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> (40; 1% instances), <tt><a href="orv_torot-pos-DET.html">DET</a></tt>-<tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> (32; 1% instances), <tt><a href="orv_torot-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> (15; 0% instances), <tt><a href="orv_torot-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> (11; 0% instances), <tt><a href="orv_torot-pos-ADP.html">ADP</a></tt>-<tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt>-<tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
+The following 20 pairs of parts of speech are connected with `discourse`: <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> (5145; 71% instances), <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> (445; 6% instances), <tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> (443; 6% instances), <tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> (318; 4% instances), <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> (255; 4% instances), <tt><a href="orv_torot-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> (209; 3% instances), <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt>-<tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> (176; 2% instances), <tt><a href="orv_torot-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> (65; 1% instances), <tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> (54; 1% instances), <tt><a href="orv_torot-pos-DET.html">DET</a></tt>-<tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> (47; 1% instances), <tt><a href="orv_torot-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> (33; 0% instances), <tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> (31; 0% instances), <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt>-<tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> (29; 0% instances), <tt><a href="orv_torot-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> (10; 0% instances), <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> (10; 0% instances), <tt><a href="orv_torot-pos-ADP.html">ADP</a></tt>-<tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt>-<tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="orv_torot-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="orv_torot-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt>-<tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,45 +22,56 @@ The following 13 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 discourse	color:blue
-1	ханъ	ханъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	Ref=6
-2	же	же	ADV	Df	_	3	discourse	_	Ref=6
-3	езди	ѣздити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=6
-4	на	на	ADP	R-	_	5	case	_	Ref=6
-5	людех	людие	NOUN	Nb	Case=Loc|Gender=Masc|Number=Plur	3	obl	_	Ref=6
+1	там꙽	тамъ	ADV	Df	_	3	advmod	_	ref=12
+2	же	же	ADV	Df	_	3	discourse	_	ref=12
+3	поидох	поити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=12|LId=1
+4	съ	съ	ADP	R-	_	5	case	_	ref=12
+5	индѣꙗны	индѣянe	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	3	obl	_	ref=12
+6	да	до	ADP	R-	_	7	case	_	ref=12
+7	бѹдѹтханы	бутхана	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	1	appos	_	ref=12
+8	мсць	мѣсяць	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	3	obl	_	ref=12
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 2 discourse	color:blue
-1	исавъ	исавъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	Ref=93.13
-2	же	же	ADV	Df	_	4	discourse	_	Ref=93.13
-3	быс	быти	AUX	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	Ref=93.13
-4	лукавъ	лукавыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	Ref=93.13
-5	а	а	CCONJ	C-	_	4	cc	_	Ref=93.13
-6	яковъ	яковъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	Ref=93.14
-7	прв҃днъ	правьдьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	4	conj	_	Ref=93.14
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 9 discourse	color:blue
+1	аще	аще	SCONJ	G-	_	3	mark	_	ref=19
+2	сицевыѧ	сицевыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	ref=19
+3	восхотѣ	въсхотѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	advcl	_	ref=19
+4	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	3	expl:pv	_	ref=19
+5	тебѣ	ты	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	obl:arg	_	ref=19
+6	вещи	вещь	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	3	obl:arg	_	ref=19
+7	тои	тыи	DET	Pd	Case=Gen|Gender=Fem|Number=Sing	6	det	_	ref=19
+8	и	и	ADV	Df	_	12	advmod	_	ref=19
+9	се	се	INTJ	I-	_	12	discourse	_	ref=19
+10	со	съ	ADP	R-	_	11	case	_	ref=19
+11	тщанїемъ	тъщание	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	12	obl	_	ref=19
+12	воздаю	въздаяти	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=19
+13	ти	ты	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	12	obl:arg	_	ref=19
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 2 discourse	color:blue
-1	то	тыи	ADJ	Pd	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	ref=
-2	ти	ти	ADV	Df	_	4	discourse	_	ref=
-3	д҃	четыре	NUM	Ma	_	4	nummod	_	ref=
-4	золотьникѣ	золотьникъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	0	root	_	ref=
-5	во	въ	ADP	R-	_	6	case	_	ref=
-6	кольцю	кольце	NOUN	Nb	Case=Loc|Gender=Neut|Number=Dual	4	obl	_	ref=
-7	тию	тыи	DET	Pd	Case=Loc|Gender=Neut|Number=Dual	6	det	_	ref=
+# visual-style 4 3 discourse	color:blue
+1	в	въ	ADP	R-	_	2	case	_	ref=12
+2	бѹханѣ	бутхана	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	4	orphan	_	ref=12
+3	же	же	ADV	Df	_	4	discourse	_	ref=12
+4	бѹт	бутъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	_	ref=12
+5	вырѣзанъ	вырѣзати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	4	acl	_	ref=12
+6	ис	из	ADP	R-	_	7	case	_	ref=12
+7	камени	камы	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	5	obl	_	ref=12
+8	велми	вельми	ADV	Df	_	9	advmod	_	ref=12
+9	великъ	великыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	4	amod	_	ref=12
 
 ~~~
 

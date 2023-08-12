@@ -23,41 +23,42 @@ The following 4 pairs of parts of speech are connected with `obj:lvc`: <tt><a hr
 # visual-style 7	fgColor:white
 # visual-style 7 8 obj:lvc	color:blue
 1	#	#	X	_	_	3	dep	_	AlignBegin=64011|AlignEnd=64514|Gloss=PUNCT
-2	dey	dey	AUX	_	Aspect=Imp	3	aux	_	AlignBegin=64514|AlignEnd=64584|Gloss=IPFV|LeftOverlap=False|RightOverlap=False|Syl1=ll|SyllableCount=1|WordContour=lm
-3	use	use	VERB	_	_	0	root	_	AlignBegin=64584|AlignEnd=64774|Gloss=use|LeftOverlap=False|RightOverlap=True|Syl1=mm|Syl2=hm|SyllableCount=1|WordContour=mmh2
-4	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	3	obj	_	AlignBegin=64774|AlignEnd=64974|Gloss=ACC.SG.3|LeftOverlap=True|RightOverlap=False|Syl1=hm|SyllableCount=1|WordContour=mm
+2	dey	dey	AUX	_	Aspect=Imp	3	aux	_	AlignBegin=64513|AlignEnd=64584|Gloss=IPFV|Syl1=de|Syl1AvgHeightGlo=M|Syl1AvgHeightLoc=L|Syl1Glo=mm|Syl1Loc=ll|Syl1PitchRangeGlo=L|Syl1PitchRangeLoc=L|Syl1SlopeGlo=Flat|Syl1SlopeLoc=Flat|SyllableCount=1
+3	use	use	VERB	_	_	0	root	_	AlignBegin=64584|AlignEnd=64774|Gloss=use|Syl1=ju|Syl1AvgHeightGlo=H|Syl1AvgHeightLoc=M|Syl1Glo=mh|Syl1Loc=lh|Syl1PitchRangeGlo=L|Syl1PitchRangeLoc=M|Syl1SlopeGlo=Rise|Syl1SlopeLoc=Rise|SyllableCount=1
+4	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	3	obj	_	AlignBegin=64774|AlignEnd=64974|Gloss=ACC.SG.3|Syl1=zan|Syl1AvgHeightGlo=H|Syl1AvgHeightLoc=M|Syl1ExternalOnset=True|Syl1Glo=hm|Syl1Loc=hl|Syl1PitchRangeGlo=L|Syl1PitchRangeLoc=M|Syl1SlopeGlo=Fall|Syl1SlopeLoc=Fall|SyllableCount=1
 5	//=	//=	X	_	_	7	dep	_	AlignBegin=64974|AlignEnd=64974|Gloss=PUNCT
-6	dey	dey	AUX	_	Aspect=Imp	7	aux	_	AlignBegin=64974|AlignEnd=65064|Gloss=IPFV|LeftOverlap=False|RightOverlap=False|Syl1=mm|SyllableCount=1|WordContour=mm
-7	take	take	VERB	_	_	3	parataxis:conj	_	AlignBegin=65064|AlignEnd=65264|Gloss=take|LeftOverlap=False|RightOverlap=False|Syl1=hh|SyllableCount=1|WordContour=hm
-8	care	care	NOUN	_	_	7	obj:lvc	_	AlignBegin=65264|AlignEnd=65464|Gloss=care|LeftOverlap=False|RightOverlap=True|Syl1=hh|Syl2=mm|SyllableCount=1|WordContour=hm
-9	of	of	ADP	_	_	10	case	_	AlignBegin=65464|AlignEnd=65644|Gloss=of|LeftOverlap=True|RightOverlap=True|Syl1=mm|Syl2=ll|SyllableCount=1|WordContour=ml
-10	ourself	oursef	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs|Reflex=Yes	7	obl:arg	_	AlignBegin=65644|AlignEnd=66032|Gloss=ACC.PL.1.REFL|LeftOverlap=True|RightOverlap=False|Syl1=ll|Syl2=mm|SyllableCount=3|WordContour=llm3
+6	dey	dey	AUX	_	Aspect=Imp	7	aux	_	AlignBegin=64974|AlignEnd=65063|Gloss=IPFV|Syl1=de|Syl1AvgHeightGlo=M|Syl1AvgHeightLoc=L|Syl1Glo=mm|Syl1Loc=ll|Syl1PitchRangeGlo=L|Syl1PitchRangeLoc=L|Syl1SlopeGlo=Flat|Syl1SlopeLoc=Flat|SyllableCount=1
+7	take	take	VERB	_	_	3	parataxis:conj	_	AlignBegin=65063|AlignEnd=65263|Gloss=take|Syl1=te|Syl1AvgHeightGlo=M|Syl1AvgHeightLoc=M|Syl1Glo=mm|Syl1Loc=mm|Syl1PitchRangeGlo=L|Syl1PitchRangeLoc=L|Syl1SlopeGlo=Flat|Syl1SlopeLoc=Flat|SyllableCount=1
+8	care	care	NOUN	_	_	7	obj:lvc	_	AlignBegin=65263|AlignEnd=65464|Gloss=care|Syl1=kE|Syl1AvgHeightGlo=M|Syl1AvgHeightLoc=M|Syl1Glo=mm|Syl1Loc=mm|Syl1PitchRangeGlo=L|Syl1PitchRangeLoc=L|Syl1SlopeGlo=Flat|Syl1SlopeLoc=Flat|SyllableCount=1
+9	of	of	ADP	_	_	10	case	_	AlignBegin=65464|AlignEnd=65644|Gloss=of|Syl1=r\O|Syl1AvgHeightGlo=M|Syl1AvgHeightLoc=M|Syl1ExternalOnset=True|Syl1Glo=mm|Syl1Loc=mm|Syl1PitchRangeGlo=L|Syl1PitchRangeLoc=L|Syl1SlopeGlo=Flat|Syl1SlopeLoc=Flat|SyllableCount=1
+10	ourself	oursef	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs|Reflex=Yes	7	obl:arg	_	AlignBegin=65644|AlignEnd=66032|Gloss=ACC.PL.1.REFL|Syl1=fwa|Syl1AvgHeightGlo=L|Syl1AvgHeightLoc=M|Syl1ExternalOnset=True|Syl1Glo=ll|Syl1Loc=mm|Syl1PitchRangeGlo=L|Syl1PitchRangeLoc=L|Syl1SlopeGlo=Flat|Syl1SlopeLoc=Flat|Syl2=sef|Syl2AvgHeightGlo=M|Syl2AvgHeightLoc=H|Syl2Glo=ml|Syl2Loc=hm|Syl2PitchRangeGlo=L|Syl2PitchRangeLoc=L|Syl2SlopeGlo=Fall|Syl2SlopeLoc=Fall|SyllableCount=2
 11	//	//	X	_	_	3	dep	_	AlignBegin=66032|AlignEnd=66032|Gloss=PUNCT
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 10 obj:lvc	color:blue
-1	#	#	X	_	_	9	dep	_	AlignBegin=57536|AlignEnd=58100|Gloss=PUNCT
-2	and	and	CCONJ	_	_	9	discourse	_	AlignBegin=58100|AlignEnd=58315|Gloss=and|SyllableCount=1|WordContour=mm
-3	{	{	X	_	_	4	dep	_	AlignBegin=58315|AlignEnd=58345|Gloss=PUNCT
-4	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	reparandum	_	AlignBegin=58345|AlignEnd=58534|Gloss=NOM.SG.1|SyllableCount=1|WordContour=mm
-5	||	||	X	_	_	6	dep	_	AlignBegin=58534|AlignEnd=58564|Gloss=PUNCT
-6	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	AlignBegin=58564|AlignEnd=58735|Gloss=NOM.SG.1|SyllableCount=1|WordContour=hm
-7	}	}	X	_	_	4	dep	_	AlignBegin=58735|AlignEnd=58765|Gloss=PUNCT
-8	don't	no	AUX	_	Polarity=Neg	9	aux	_	AlignBegin=58765|AlignEnd=58930|Gloss=NEG|Scrap=Yes|SyllableCount=1|WordContour=Hm
-9	do	do	VERB	_	_	0	root	_	AlignBegin=58930|AlignEnd=59047|Gloss=do|SyllableCount=1|WordContour=ml
-10	bad	bad	ADJ	_	_	9	obj:lvc	_	AlignBegin=59047|AlignEnd=59270|Gloss=bad|SyllableCount=1|WordContour=Lll2
-11	//+	//+	X	_	_	14	dep	_	AlignBegin=59270|AlignEnd=59300|Gloss=PUNCT
-12	#	#	X	_	_	14	dep	_	AlignBegin=59300|AlignEnd=59386|Gloss=PUNCT
-13	for	for	ADP	_	_	14	case	_	AlignBegin=59386|AlignEnd=59456|Gloss=for|SyllableCount=1|WordContour=LL
-14	school	school	NOUN	_	_	9	obl:arg	_	AlignBegin=59456|AlignEnd=59687|Gloss=school|SyllableCount=1|WordContour=ll
-15	//	//	X	_	_	9	dep	_	AlignBegin=59687|AlignEnd=59717|Gloss=PUNCT
+# visual-style 10 11 obj:lvc	color:blue
+1	#	#	X	_	_	10	dep	_	AlignBegin=57536|AlignEnd=58100|Gloss=PUNCT
+2	and	and	CCONJ	_	_	10	discourse	_	AlignBegin=58100|AlignEnd=58345|Gloss=and|Syl1=a|Syl1AvgHeightGlo=M|Syl1AvgHeightLoc=M|Syl1Glo=mm|Syl1Loc=mm|Syl1PitchRangeGlo=L|Syl1PitchRangeLoc=L|Syl1SlopeGlo=Flat|Syl1SlopeLoc=Flat|SyllableCount=1
+3	{	{	X	_	_	4	dep	_	AlignBegin=58345|AlignEnd=58345|Gloss=PUNCT
+4	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	reparandum	_	AlignBegin=58345|AlignEnd=58564|Gloss=NOM.SG.1|Syl1=naI|Syl1AvgHeightGlo=M|Syl1AvgHeightLoc=M|Syl1ExternalOnset=True|Syl1Glo=mm|Syl1Loc=mm|Syl1PitchRangeGlo=L|Syl1PitchRangeLoc=L|Syl1SlopeGlo=Flat|Syl1SlopeLoc=Flat|SyllableCount=1
+5	||	||	X	_	_	6	dep	_	AlignBegin=58564|AlignEnd=58564|Gloss=PUNCT
+6	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	AlignBegin=58564|AlignEnd=58765|Gloss=NOM.SG.1|Syl1=aI|Syl1AvgHeightGlo=H|Syl1AvgHeightLoc=M|Syl1Glo=hm|Syl1Loc=ml|Syl1PitchRangeGlo=L|Syl1PitchRangeLoc=L|Syl1SlopeGlo=Fall|Syl1SlopeLoc=Fall|SyllableCount=1
+7	}	}	X	_	_	4	dep	_	AlignBegin=58765|AlignEnd=58765|Gloss=PUNCT
+8	do	no	AUX	_	_	10	aux	_	AlignBegin=58765|AlignEnd=58930|Gloss=NEG|Scrap=Yes|SpaceAfter=No|Syl1=dO|Syl1AvgHeightGlo=H|Syl1AvgHeightLoc=H|Syl1Glo=Hh|Syl1Loc=hm|Syl1PitchRangeGlo=L|Syl1PitchRangeLoc=L|Syl1SlopeGlo=Fall|Syl1SlopeLoc=Fall|SyllableCount=1
+9	n't	not	PART	_	Polarity=Neg	10	advmod	_	AlignBegin=58765|AlignEnd=58930|Gloss=NEG|SyllableCount=1
+10	do	do	VERB	_	_	0	root	_	AlignBegin=58930|AlignEnd=59047|Gloss=do|Syl1=du|Syl1AvgHeightGlo=M|Syl1AvgHeightLoc=M|Syl1Glo=ml|Syl1Loc=ml|Syl1PitchRangeGlo=L|Syl1PitchRangeLoc=L|Syl1SlopeGlo=Fall|Syl1SlopeLoc=Fall|SyllableCount=1
+11	bad	bad	ADJ	_	_	10	obj:lvc	_	AlignBegin=59047|AlignEnd=59386|Gloss=bad|Syl1=ba|Syl1AvgHeightGlo=L|Syl1AvgHeightLoc=M|Syl1Glo=ll|Syl1Loc=mm|Syl1PitchRangeGlo=L|Syl1PitchRangeLoc=L|Syl1SlopeGlo=Flat|Syl1SlopeLoc=Flat|Syl2=di|Syl2Glo=X|Syl2Loc=X|SyllableCount=1
+12	//+	//+	X	_	_	15	dep	_	AlignBegin=59300|AlignEnd=59300|Gloss=PUNCT
+13	#	#	X	_	_	15	dep	_	AlignBegin=59300|AlignEnd=59386|Gloss=PUNCT
+14	for	for	ADP	_	_	15	case	_	AlignBegin=59386|AlignEnd=59456|Gloss=for|Syl1=fO|Syl1AvgHeightGlo=L|Syl1AvgHeightLoc=M|Syl1Glo=LL|Syl1Loc=mm|Syl1PitchRangeGlo=L|Syl1PitchRangeLoc=L|Syl1SlopeGlo=Flat|Syl1SlopeLoc=Flat|SyllableCount=1
+15	school	school	NOUN	_	_	10	obl:arg	_	AlignBegin=59456|AlignEnd=59717|Gloss=school|Syl1=sku|Syl1AvgHeightGlo=L|Syl1AvgHeightLoc=M|Syl1Glo=ll|Syl1Loc=mm|Syl1PitchRangeGlo=L|Syl1PitchRangeLoc=L|Syl1SlopeGlo=Flat|Syl1SlopeLoc=Flat|SyllableCount=1
+16	//	//	X	_	_	10	dep	_	AlignBegin=59717|AlignEnd=59717|Gloss=PUNCT
 
 ~~~
 

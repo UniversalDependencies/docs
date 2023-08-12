@@ -56,7 +56,7 @@ The following 3 pairs of parts of speech are connected with `case`: <tt><a href=
 # visual-style 2	fgColor:white
 # visual-style 2 3 case	color:blue
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
-2	dealer	dealer	NOUN	NN	Number=Sing	4	nsubj	_	SpaceAfter=No
+2	dealer	dealer	NOUN	NN	Number=Sing	4	nsubj	_	_
 3	's	's	PART	POS	_	2	case	_	_
 4	cars	car	NOUN	NNS	Number=Plur	7	nsubj	_	_
 5	and	and	CCONJ	CC	_	6	cc	_	_

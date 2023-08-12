@@ -73,7 +73,7 @@ The following 7 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 13	중	_	NOUN	NNB	_	15	compound	_	Translit=.jung
 14	한	_	DET	DT	_	15	det	_	OrigDeprel=nummod|Translit=.han
 15	명	_	NOUN	NNB	_	0	root	_	SpaceAfter=No|Translit=.myeong
-16	이었다	_	AUX	VC	Mood=Ind|Tense=Past|VerbForm=Fin	15	cop	_	SpaceAfter=No|Translit=.i.eoss.da
+16	이었다	이	AUX	VC	Mood=Ind|Tense=Past|VerbForm=Fin	15	cop	_	SpaceAfter=No|Translit=.i.eoss.da|LTranslit=.i
 17	.	.	PUNCT	.	_	15	punct	_	Translit=.|LTranslit=.
 
 ~~~

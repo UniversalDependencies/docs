@@ -9,29 +9,29 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-4599 tokens (8%) have a non-empty value of `Foreign`.
+4600 tokens (8%) have a non-empty value of `Foreign`.
 899 types (32%) occur at least once with a non-empty value of `Foreign`.
 898 lemmas (36%) occur at least once with a non-empty value of `Foreign`.
-The feature is used with 14 part-of-speech tags: <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (1890; 3% instances), <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (877; 2% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (647; 1% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (475; 1% instances), <tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> (385; 1% instances), <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (109; 0% instances), <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> (97; 0% instances), <tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> (96; 0% instances), <tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (16; 0% instances), <tt><a href="cop_scriptorium-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The feature is used with 14 part-of-speech tags: <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (1891; 3% instances), <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (878; 2% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (647; 1% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (475; 1% instances), <tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> (384; 1% instances), <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (109; 0% instances), <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> (97; 0% instances), <tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> (96; 0% instances), <tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (16; 0% instances), <tt><a href="cop_scriptorium-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-1890 <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> tokens (24% of all `NOUN` tokens) have a non-empty value of `Foreign`.
+1891 <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> tokens (24% of all `NOUN` tokens) have a non-empty value of `Foreign`.
 
 `NOUN` tokens may have the following values of `Foreign`:
 
-* `Yes` (1890; 100% of non-empty `Foreign`): ⲭⲣⲓⲥⲧⲟⲥ, ⲡⲛⲉⲩⲙⲁ, ⲁⲡⲁ, ⲕⲟⲥⲙⲟⲥ, ⲙⲁⲑⲏⲧⲏⲥ, ⲥⲱⲙⲁ, ⲗⲁⲟⲥ, ⲙⲟⲛⲁⲭⲟⲥ, ⲥⲁⲣⲝ, ⲡⲟⲗⲓⲥ
-* `EMPTY` (5966): ⲛⲟⲩⲧⲉ, ϩⲉ, ⲣⲱⲙⲉ, ⲙⲁ, ϫⲟⲉⲓⲥ, ϩⲏⲧ, ϣⲏⲣⲉ, ⲥⲟⲛ, ϣⲁϫⲉ, ϩⲟⲟⲩ
+* `Yes` (1891; 100% of non-empty `Foreign`): ⲭⲣⲓⲥⲧⲟⲥ, ⲡⲛⲉⲩⲙⲁ, ⲁⲡⲁ, ⲕⲟⲥⲙⲟⲥ, ⲙⲁⲑⲏⲧⲏⲥ, ⲥⲱⲙⲁ, ⲗⲁⲟⲥ, ⲙⲟⲛⲁⲭⲟⲥ, ⲥⲁⲣⲝ, ⲡⲟⲗⲓⲥ
+* `EMPTY` (5965): ⲛⲟⲩⲧⲉ, ϩⲉ, ⲣⲱⲙⲉ, ⲙⲁ, ϫⲟⲉⲓⲥ, ϩⲏⲧ, ϣⲏⲣⲉ, ⲥⲟⲛ, ϣⲁϫⲉ, ϩⲟⲟⲩ
 
 `Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (506) occur only with one value of `Foreign`.
 
 ### `PART`
 
-877 <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> tokens (45% of all `PART` tokens) have a non-empty value of `Foreign`.
+878 <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> tokens (45% of all `PART` tokens) have a non-empty value of `Foreign`.
 
 `PART` tokens may have the following values of `Foreign`:
 
-* `Yes` (877; 100% of non-empty `Foreign`): ⲇⲉ, ⲅⲁⲣ, ⲱ, ⲙⲉⲛ, ϩⲁⲙⲏⲛ, ⲁⲣⲁ, ⲟⲩⲛ, ⲭⲁⲓⲣⲉ, ⲭⲱⲣⲓⲥ, ⲁⲛⲧⲓ
+* `Yes` (878; 100% of non-empty `Foreign`): ⲇⲉ, ⲅⲁⲣ, ⲱ, ⲙⲉⲛ, ϩⲁⲙⲏⲛ, ⲁⲣⲁ, ⲟⲩⲛ, ⲭⲁⲓⲣⲉ, ⲭⲱⲣⲓⲥ, ⲁⲛⲧⲓ
 * `EMPTY` (1091): ⲉ, ⲛϭⲓ, ⲛⲧ, ϭⲉ, ⲉⲓⲥ, ⲉⲣⲉ, ⲙⲛⲛⲥⲁ, ϩⲏⲏⲧⲉ, ⲙⲙⲟⲛ, ⲉⲧⲃⲉ
 
 `Foreign` seems to be **lexical feature** of `PART`. 100% lemmas (12) occur only with one value of `Foreign`.
@@ -62,11 +62,11 @@ The most frequent other feature values with which `VERB` and `Foreign` co-occurr
 
 ### `CCONJ`
 
-385 <tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> tokens (29% of all `CCONJ` tokens) have a non-empty value of `Foreign`.
+384 <tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> tokens (29% of all `CCONJ` tokens) have a non-empty value of `Foreign`.
 
 `CCONJ` tokens may have the following values of `Foreign`:
 
-* `Yes` (385; 100% of non-empty `Foreign`): ⲁⲗⲗⲁ, ⲏ, ⲟⲩⲇⲉ, ⲉⲓⲧⲉ, ⲙⲏ, ⲡⲗⲏⲛ, ⲕⲁⲓ, ⲟⲩⲧⲉ, ⲕⲁⲛ, ϩⲟⲧⲁⲛ
+* `Yes` (384; 100% of non-empty `Foreign`): ⲁⲗⲗⲁ, ⲏ, ⲟⲩⲇⲉ, ⲉⲓⲧⲉ, ⲙⲏ, ⲡⲗⲏⲛ, ⲕⲁⲓ, ⲟⲩⲧⲉ, ⲕⲁⲛ, ϩⲟⲧⲁⲛ
 * `EMPTY` (932): ⲁⲩⲱ, ϫⲉ, ϫⲛ, ⲙⲏ, ⲁⲗⲗⲁ, ⲉⲓⲧⲉ, ⲕⲁⲛ, ϩⲁⲙⲟⲓ, ϫⲛⲉ, ⲉϣϫⲉ
 
 `Foreign` seems to be **lexical feature** of `CCONJ`. 100% lemmas (15) occur only with one value of `Foreign`.
@@ -155,7 +155,7 @@ The most frequent other feature values with which `DET` and `Foreign` co-occurre
 `DET` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): ⲛⲁⲓ
-* `EMPTY` (7188): ⲡ, ⲧ, ⲛ, ⲟⲩ, ⲡⲉ, ϩⲉⲛ, ⲡⲁ, ⲡⲉϥ, ⲛⲉ, ⲧⲉ
+* `EMPTY` (7187): ⲡ, ⲧ, ⲛ, ⲟⲩ, ⲡⲉ, ϩⲉⲛ, ⲡⲁ, ⲡⲉϥ, ⲛⲉ, ⲧⲉ
 
 ### `PRON`
 
@@ -166,7 +166,7 @@ The most frequent other feature values with which `PRON` and `Foreign` co-occurr
 `PRON` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): ⲟⲩ
-* `EMPTY` (9168): ϥ, ⲩ, ⲥ, ⲟⲩ, ⲓ, ⲕ, ⲛ, ⲡⲉ, ⲧⲛ, ⲧⲉⲧⲛ
+* `EMPTY` (9169): ϥ, ⲩ, ⲥ, ⲟⲩ, ⲓ, ⲕ, ⲛ, ⲡⲉ, ⲧⲛ, ⲧⲉⲧⲛ
 
 ## Relations with Agreement in `Foreign`
 

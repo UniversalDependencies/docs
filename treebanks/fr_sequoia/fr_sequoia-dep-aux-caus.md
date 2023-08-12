@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_French-Sequoia: Relations: `aux:caus`
 
-This relation is a language-specific subtype of .
+This relation is a language-specific subtype of <tt><a href="fr_sequoia-dep-aux.html">aux</a></tt>.
 There are also 2 other language-specific subtypes of `aux`: <tt><a href="fr_sequoia-dep-aux-pass.html">aux:pass</a></tt>, <tt><a href="fr_sequoia-dep-aux-tense.html">aux:tense</a></tt>.
 
 34 nodes (0%) are attached to their parents as `aux:caus`.
@@ -27,7 +27,7 @@ The following 1 pairs of parts of speech are connected with `aux:caus`: <tt><a h
 2	conteur	conteur	NOUN	_	Gender=Masc|Number=Sing	5	nsubj:caus	_	_
 3	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:tense	_	_
 4	fait	faire	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	aux:caus	_	_
-5	jouer	jouer	VERB	_	VerbForm=Inf	0	root	_	_
+5	jouer	jouer	VERB	_	VerbForm=Inf	0	root	_	Subject=ObjRaising
 6	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	_
 7	enfants	enfant	NOUN	_	Number=Plur	5	obj:agent	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	5	punct	_	_

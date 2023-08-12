@@ -57,7 +57,7 @@ The following 10 pairs of parts of speech are connected with `advcl`: <tt><a hre
 11	iṣẹ́	iṣẹ́	NOUN	_	_	13	nsubj	_	_
 12	wọn	wọn	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	11	nmod	_	_
 13	pọ̀jùlọ	pọ̀jùlọ	VERB	_	_	5	acl	_	SpaceAfter=No
-14	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n\n
+14	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 

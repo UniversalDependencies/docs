@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.10 release
 The following people have contributed to making this treebank part of UD: Fabrício Ferraz Gerardi.
 
 Repository: [UD_Madi-Jarawara](https://github.com/UniversalDependencies/UD_Madi-Jarawara)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udjaa_jarawara211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udjaa_jarawara212)<br />
+Download all treebanks: [UD 2.12](/#download)
 
 License: CC BY-SA 4.0
 
@@ -48,7 +48,7 @@ from a variety of sources, including grammar examples, oral stories, didatic mat
 
 
 UD_Madi-Jarawara is a collection of annotated sentences in Madí (Jarawara dialect)
-from a variety of sources, including grammar examples, oral stories, didatic material, and dictionary examples. The texts are annotated by Fabrício Ferraz Gerardi.
+from a variety of sources, including grammar examples, oral stories, didatic material, and dictionary examples. The texts are annotated by Fabrício Ferraz Gerardi and Julia Sattler.
 
 ...
 

@@ -25,4 +25,4 @@ as interjections under the UD standard.
 - _аж&nbsp;_ “as late as, even, up to” 
   Use case: _Мне сегодня аж пять писем пришло.&nbsp;_ “Today I have recieved even five letters”
 
-<!-- Interlanguage links updated Po lis 14 15:34:34 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:26 CEST -->

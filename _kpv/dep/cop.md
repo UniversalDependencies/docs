@@ -85,4 +85,4 @@ obl(каньяс, Менам)
 advmod(каньяс, эмӧсь)
 ~~~
 
-<!-- Interlanguage links updated Po lis 14 15:35:18 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:04:08 CEST -->

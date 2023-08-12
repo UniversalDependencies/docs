@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Old_East_Slavic-RNC: POS Tags: `ADJ`
 
-There are 1061 `ADJ` lemmas (18%), 2199 `ADJ` types (19%) and 4295 `ADJ` tokens (9%).
+There are 1062 `ADJ` lemmas (18%), 2199 `ADJ` types (19%) and 4295 `ADJ` tokens (9%).
 Out of 17 observed tags, the rank of `ADJ` is: 4 in number of lemmas, 3 in number of types and 4 in number of tokens.
 
 The 10 most frequent `ADJ` lemmas: <em>великий, государевъ, оржаной, мѣдный, святой, божий, иной, вытный, 178-й, людской</em>
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>27</em> (<tt><a href="orv_rnc-pos-ADJ
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 2.072573 (the average of all parts of speech is 1.991385).
+The form / lemma ratio of `ADJ` is 2.070621 (the average of all parts of speech is 1.988362).
 
 The 1st highest number of forms (30) was observed with the lemma “великий”: <em>Великиⸯ, Великую, Велікомъ, велика, великаго, великая, великаꙗ, велики, великии, великий, великим, великимъ, великих, великихъ, велико, великог[о], великого, великое, великом, великому, великомъ, великомꙋ, велику, великъ, великых, великіе, великій, великія, великѡг[о], велицыи</em>.
 

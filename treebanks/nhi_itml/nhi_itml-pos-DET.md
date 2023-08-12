@@ -59,7 +59,7 @@ The 10 most frequent ambiguous types:  <em>n</em> (<tt><a href="nhi_itml-pos-DET
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.108696 (the average of all parts of speech is 1.484055).
+The form / lemma ratio of `DET` is 1.108696 (the average of all parts of speech is 1.484900).
 
 The 1st highest number of forms (4) was observed with the lemma “_”: <em>Non, n, nicanca, sikih</em>.
 

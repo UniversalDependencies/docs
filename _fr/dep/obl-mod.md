@@ -15,4 +15,4 @@ oui oui je prends le métro le matin à huit heures et demie \n yes i take the u
 obl:mod (prends, heures)
 obl:mod (prends, matin)
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:40 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:04:29 CEST -->

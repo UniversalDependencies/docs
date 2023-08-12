@@ -94,7 +94,7 @@ The following 3 pairs of parts of speech are connected with `orphan`: <tt><a hre
 7	synthétique	synthétique	ADJ	_	Number=Sing	6	amod	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	10	punct	_	_
 9	ni	ni	CCONJ	_	_	10	cc	_	_
-10	XXX	XXX	X	_	_	6	conj	_	SpaceAfter=No
+10	XXX	XXX	X	_	_	6	conj	_	ExtPos=X|SpaceAfter=No
 11	,	,	PUNCT	_	_	10	punct	_	_
 12	tu	il	PRON	_	Number=Sing|Person=2|PronType=Prs	13	nsubj	_	_
 13	as	avoir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	orphan	_	_

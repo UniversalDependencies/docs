@@ -24,4 +24,4 @@ A plural noun denotes several persons, animals or things.
 
 * _<b>années</b>_ “years”
 
-<!-- Interlanguage links updated Po lis 14 15:34:50 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:41 CEST -->

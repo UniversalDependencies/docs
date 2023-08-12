@@ -43,7 +43,7 @@ The following 2 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 1	fgColor:white
 # visual-style 1 2 flat	color:blue
 1	Tɨwɨr	ɨwɨr	NOUN	n	Rel=Abs	4	obl:subj	_	_
-2	Mairaʔi	Mair	PROPN	pn	Dimin=Yes	1	flat	_	_
+2	Mairaʔi	Mair	PROPN	pn	Degree=Dim	1	flat	_	_
 3	,	,	PUNCT	punct	_	1	punct	_	_
 4	nukwawkwaw	kwaw	VERB	vt	Person[subj]=3|Polarity=Neg	0	root	_	_
 5	maʔe	maʔe	PRON	pro	_	6	nmod	_	_

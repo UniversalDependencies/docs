@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-5746 nodes (2%) are attached to their parents as `det`.
+5745 nodes (2%) are attached to their parents as `det`.
 
-5538 instances of `det` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.26783849634528.
+5537 instances of `det` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.26823324630113.
 
-The following 13 pairs of parts of speech are connected with `det`: <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (5007; 87% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (330; 6% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (149; 3% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (116; 2% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (43; 1% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (28; 0% instances), <tt><a href="be_hse-pos-X.html">X</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (28; 0% instances), <tt><a href="be_hse-pos-NUM.html">NUM</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (17; 0% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (10; 0% instances), <tt><a href="be_hse-pos-PART.html">PART</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="be_hse-pos-SYM.html">SYM</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (2; 0% instances).
+The following 13 pairs of parts of speech are connected with `det`: <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (5011; 87% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (330; 6% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (146; 3% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (116; 2% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (43; 1% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (28; 0% instances), <tt><a href="be_hse-pos-X.html">X</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (28; 0% instances), <tt><a href="be_hse-pos-NUM.html">NUM</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (17; 0% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (8; 0% instances), <tt><a href="be_hse-pos-PART.html">PART</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="be_hse-pos-SYM.html">SYM</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -66,7 +66,7 @@ The following 13 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 3 2 det	color:blue
 1	«	«	PUNCT	PUNCT	_	5	punct	5:punct	SpaceAfter=No
 2	Уся	увесь	DET	DT	Case=Nom|Gender=Fem|Number=Sing|PronType=Tot	3	det	3:det	_
-3	Эўропа	Эўропа	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	5:nsubj	_
+3	Эўропа	Эўропа	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Fem|NameType=Geo|Number=Sing	5	nsubj	5:nsubj	_
 4	нам	мы	PRON	PRP	Case=Dat|Number=Plur|Person=1|PronType=Prs	5	iobj	5:iobj	_
 5	зайздросьціць	зайздросьціць	VERB	VB	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	0:root	SpaceAfter=No
 6	!»	!»	PUNCT	PUNCT	_	5	punct	5:punct	SpaceAfter=No

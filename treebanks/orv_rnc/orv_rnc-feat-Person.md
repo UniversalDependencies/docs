@@ -12,7 +12,7 @@ It occurs with 3 different values: `1`, `2`, `3`.
 3004 tokens (6%) have a non-empty value of `Person`.
 1009 types (9%) occur at least once with a non-empty value of `Person`.
 555 lemmas (10%) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (1533; 3% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (1302; 3% instances), <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (169; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (1533; 3% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (1301; 3% instances), <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (170; 0% instances).
 
 ### `PRON`
 
@@ -46,15 +46,15 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 ### `VERB`
 
-1302 <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> tokens (31% of all `VERB` tokens) have a non-empty value of `Person`.
+1301 <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> tokens (31% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1302; 100%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1302; 100%), <tt><a href="orv_rnc-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (1302; 100%), <tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1302; 100%), <tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1122; 86%), <tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1093; 84%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (905; 70%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1301; 100%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1301; 100%), <tt><a href="orv_rnc-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (1301; 100%), <tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1301; 100%), <tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1121; 86%), <tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1092; 84%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (904; 69%).
 
 `VERB` tokens may have the following values of `Person`:
 
 * `1` (150; 12% of non-empty `Person`): <em>бью, бию, бьемъ, пошлю, разсꙋждаю, бьем, виждꙋ, желаемъ, крестихомся, о(т)верзꙋ</em>
 * `2` (278; 21% of non-empty `Person`): <em>пожалуй, пожалꙋи, вели, пожалуи, смилуйся, походи, возми, здравствꙋи, укажешь, ꙋвидиши</em>
-* `3` (874; 67% of non-empty `Person`): <em>бьет, есть, бьетъ, нет, платит, учнутъ, рече, бꙋдет, згодитца, будет</em>
+* `3` (873; 67% of non-empty `Person`): <em>бьет, есть, бьетъ, нет, платит, учнутъ, рече, бꙋдет, згодитца, даде</em>
 * `EMPTY` (2841): <em>смерено, взято, принето, велѣно, привез, велѣлъ, сказал, велено, велет(ь), взят</em>
 
 <table>
@@ -68,15 +68,15 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `AUX`
 
-169 <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> tokens (50% of all `AUX` tokens) have a non-empty value of `Person`.
+170 <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> tokens (50% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (169; 100%), <tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (169; 100%), <tt><a href="orv_rnc-feat-Analyt.html">Analyt</a></tt><tt>=EMPTY</tt> (160; 95%), <tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (155; 92%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (128; 76%), <tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (126; 75%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (170; 100%), <tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (170; 100%), <tt><a href="orv_rnc-feat-Analyt.html">Analyt</a></tt><tt>=EMPTY</tt> (161; 95%), <tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (156; 92%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (129; 76%), <tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (127; 75%).
 
 `AUX` tokens may have the following values of `Person`:
 
 * `1` (8; 5% of non-empty `Person`): <em>есмя, быхом, есми, есмь, есьмы</em>
 * `2` (42; 25% of non-empty `Person`): <em>еси, есте, буди, бꙋдеш[ь], бꙋд, бꙋдь, бꙋдꙋ, есь</em>
-* `3` (119; 70% of non-empty `Person`): <em>есть, бы, будет, бысть, будутъ, суть, бꙋдетъ, бы(ст), бꙗше, будетъ</em>
+* `3` (120; 71% of non-empty `Person`): <em>есть, бы, будет, бысть, будутъ, суть, бꙋдетъ, бы(ст), бꙗше, будетъ</em>
 * `EMPTY` (171): <em>бы, б, было, были, былъ, была, быть, будучи, бъ, был</em>
 
 <table>

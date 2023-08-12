@@ -23,7 +23,7 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 `PRON` tokens may have the following values of `Reflex`:
 
 * `Yes` (37; 100% of non-empty `Reflex`): <em>onsself, self, ons, hulle, hom, haarself, homself, hulself, jouself, myself</em>
-* `EMPTY` (3681): <em>ons, wat, dit, jy, hulle, jou, enige, ek, sy, daar</em>
+* `EMPTY` (3570): <em>ons, wat, dit, jy, hulle, jou, enige, ek, sy, daar</em>
 
 `Reflex` seems to be **lexical feature** of `PRON`. 100% lemmas (10) occur only with one value of `Reflex`.
 

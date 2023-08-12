@@ -22,14 +22,14 @@ The following 14 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 10 punct	color:blue
-1	Да	да	CCONJ	_	_	2	cc	_	wf="Да"|SpaceAfter=Yes
-2	зделал	сдѣлати	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	wf="зделал"|SpaceAfter=Yes
-3	4	4	NUM	_	Case=Nom|NumForm=Digit|NumType=Card	4	nummod:gov	_	wf="4"|SpaceAfter=Yes
-4	росол(ь)ника	рассольникъ	NOUN	_	Case=Acc|Gender=Masc|Number=Count	2	obj	_	wf="росольника"|SpaceAfter=Yes
-5	весу	вѣсъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	wf="весу"|SpaceAfter=Yes
-6	3	3	NUM	_	Case=Nom|NumForm=Digit|NumType=Card	7	nummod:gov	_	wf="3"|SpaceAfter=Yes
-7	фунта	фунтъ	NOUN	_	Case=Nom|Gender=Masc|Number=Count	4	nmod	_	wf="фунта"|SpaceAfter=Yes
-8	3	3	NUM	_	Case=Nom|NumForm=Digit|NumType=Card	9	nummod:gov	_	wf="3"|SpaceAfter=Yes
+1	Да	да	CCONJ	_	_	2	cc	_	wf="Да"|_
+2	зделал	сдѣлати	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	wf="зделал"|_
+3	4	4	NUM	_	Case=Nom|NumForm=Digit|NumType=Card	4	nummod:gov	_	wf="4"|_
+4	росол(ь)ника	рассольникъ	NOUN	_	Case=Acc|Gender=Masc|Number=Count	2	obj	_	wf="росольника"|_
+5	весу	вѣсъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	wf="весу"|_
+6	3	3	NUM	_	Case=Nom|NumForm=Digit|NumType=Card	7	nummod:gov	_	wf="3"|_
+7	фунта	фунтъ	NOUN	_	Case=Nom|Gender=Masc|Number=Count	4	nmod	_	wf="фунта"|_
+8	3	3	NUM	_	Case=Nom|NumForm=Digit|NumType=Card	9	nummod:gov	_	wf="3"|_
 9	чети	четь	NOUN	_	Case=Nom|Gender=Fem|Number=Count	7	nmod	_	wf="чети"|SpaceAfter=No
 10	.	.	PUNCT	_	_	2	punct	_	wf="."|SpaceAfter=No
 
@@ -43,11 +43,11 @@ The following 14 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 3	fgColor:white
 # visual-style 3 8 punct	color:blue
 1	{л._167}	{л._167}	X	_	_	3	dep	_	wf="{л._167}"|before:<i>|after:</i>|NoIndex=Yes|SpaceAfter=No
-2	178-г(о)	178-й	ADJ	ANUM	Case=Gen|Gender=Masc|Number=Sing|NumForm=Combi|NumType=Ord	3	amod	_	wf="178-го"|SpaceAfter=Yes
-3	году	годъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	0	root	_	wf="году"|SpaceAfter=Yes
-4	ноября	ноябрь	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	wf="ноября"|SpaceAfter=Yes
-5	в	въ	ADP	_	_	7	case	_	wf="в"|SpaceAfter=Yes
-6	11	11	ADJ	ANUM	Case=Acc|Gender=Masc|Number=Sing|NumForm=Digit|NumType=Ord	7	amod	_	wf="11"|SpaceAfter=Yes
+2	178-г(о)	178-й	ADJ	ANUM	Case=Gen|Gender=Masc|Number=Sing|NumForm=Combi|NumType=Ord	3	amod	_	wf="178-го"|_
+3	году	годъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	0	root	_	wf="году"|_
+4	ноября	ноябрь	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	wf="ноября"|_
+5	в	въ	ADP	_	_	7	case	_	wf="в"|_
+6	11	11	ADJ	ANUM	Case=Acc|Gender=Masc|Number=Sing|NumForm=Digit|NumType=Ord	7	amod	_	wf="11"|_
 7	де[нь]	день	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	nmod	_	wf="день"|SpaceAfter=No
 8	.	.	PUNCT	_	_	3	punct	_	wf="."|SpaceAfter=No
 
@@ -60,16 +60,16 @@ The following 14 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 10 punct	color:blue
-1	И	и	CCONJ	_	_	6	cc	_	wf="И"|SpaceAfter=Yes
-2	всеи	весь	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Tot	4	det	_	wf="всеи"|SpaceAfter=Yes
-3	недаходнаи	недоходный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	wf="недаходнаи"|SpaceAfter=Yes
-4	меди	мѣдь	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	wf="меди"|SpaceAfter=Yes
-5	у	у	ADP	_	_	6	case	_	wf="у"|SpaceAfter=Yes
-6	Сидара	Сидоръ	PROPN	_	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	0	root	_	wf="Сидара"|SpaceAfter=Yes
-7	теперва	теперва	ADV	_	Degree=Pos	6	advmod	_	wf="теперва"|SpaceAfter=Yes
-8	10	10	NUM	_	Case=Nom|NumForm=Digit|NumType=Card	9	nummod:gov	_	wf="10"|SpaceAfter=Yes
+1	И	и	CCONJ	_	_	6	cc	_	wf="И"|_
+2	всеи	весь	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Tot	4	det	_	wf="всеи"|_
+3	недаходнаи	недоходный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	wf="недаходнаи"|_
+4	меди	мѣдь	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	wf="меди"|_
+5	у	у	ADP	_	_	6	case	_	wf="у"|_
+6	Сидара	Сидоръ	PROPN	_	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	0	root	_	wf="Сидара"|_
+7	теперва	теперва	ADV	_	Degree=Pos	6	advmod	_	wf="теперва"|_
+8	10	10	NUM	_	Case=Nom|NumForm=Digit|NumType=Card	9	nummod:gov	_	wf="10"|_
 9	гривенок	гривенка	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	6	nsubj	_	wf="гривенок"|SpaceAfter=No
-10	.	.	PUNCT	_	_	6	punct	_	wf="."|SpaceAfter=Yes
+10	.	.	PUNCT	_	_	6	punct	_	wf="."|_
 
 ~~~
 

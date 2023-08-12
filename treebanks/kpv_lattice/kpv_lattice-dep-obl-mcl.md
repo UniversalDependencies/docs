@@ -28,7 +28,7 @@ The following 1 pairs of parts of speech are connected with `obl:mcl`: <tt><a hr
 3	выль	выль	ADJ	A	Case=Nom|Number=Sing	4	amod	_	GTtags=Sg,Nom
 4	ног	ног	NOUN	N	Case=Nom|Number=Sing	6	obl:mcl	_	GTtags=Sg,Nom
 5	важсӧ	важ	ADJ	A	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	6	obj	_	GTtags=Sg,Acc,PxSg3
-6	сьылам	сьывны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|Valency=2	0	root	_	GTtags=TV,Ind,Prs,Pl1|SpaceAfter=No
+6	сьылам	сьывны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres	0	root	_	GTtags=TV,Ind,Prs,Pl1|SpaceAfter=No
 7	...	...	PUNCT	PUNCT	_	6	punct	_	_
 
 ~~~

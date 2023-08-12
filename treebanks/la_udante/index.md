@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.8 release.
 The following people have contributed to making this treebank part of UD: Flavio Massimiliano Cecchini, Giovanni Moretti, Marco Passarotti, Rachele Sprugnoli, Daniela Corbetta, Federica Favero, Federica Gamba, Martina de Laurentiis, Giulia Pedonese, Andrea Peverelli, Elena Vagnoni, Mirko Tavoni.
 
 Repository: [UD_Latin-UDante](https://github.com/UniversalDependencies/UD_Latin-UDante)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_udante211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_udante212)<br />
+Download all treebanks: [UD 2.12](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -148,7 +148,7 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
 </ul>
 
 <ul>
-<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+<li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
 </ul>
 
 <ul>
@@ -166,6 +166,8 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
   <li>Inf
   <ul>
     <li>AUX: esse, fuisse, fore</li>
+    <li>NOUN: Ducatus, actu</li>
+    <li>VERB: habere, facere, fieri, dici, dicere, posse, solvere, uti, velle, reduci</li>
   </ul>
   </li>
 </ul>
@@ -179,15 +181,6 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
     <li>AUX: ens, ente, futura, futuram, futuris, futuro, futurum</li>
     <li>NOUN: natura, nature, naturam, subiectum, peccatum, figura, gentium, gentes, coniunx, figuram</li>
     <li>VERB: consequens, dictum, sciendum, existente, dicendum, converso, dicens, dicta, existens, factum</li>
-  </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Vnoun
-  <ul>
-    <li>NOUN: Ducatus, actu</li>
-    <li>VERB: habere, facere, fieri, dici, dicere, posse, solvere, uti, velle, reduci</li>
   </ul>
   </li>
 </ul>
@@ -224,8 +217,8 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
       <li>AUX-Part: futurum</li>
       <li>DET: omnes, ipse, ille, ipsum, alii, omnibus, quidam, aliis, illum, unum</li>
       <li>NOUN: Dei, Deus, mundi, Deo, homo, finem, finis, homines, modo, hominem</li>
+      <li>NOUN-Inf: Ducatus, actu</li>
       <li>NOUN-Part: soni, punctus, sonus, sponsum, coniugibus, legati, legato, legatos, legatus, obiectum</li>
-      <li>NOUN-Vnoun: Ducatus, actu</li>
       <li>NUM: duo, duos, duobus, tres, duorum, tribus</li>
       <li>PRON: qui, eius, quem, quo, quis, quos, eorum, eo, quorum, cui</li>
       <li>PROPN: Cristus, Petrus, Cristi, Petri, Cristum, Livius, Nicomacum, Cesaris, Guido, Lucanus</li>
@@ -284,8 +277,8 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
       <li>AUX-Part: ens, ente, futura, futuram, futuro, futurum</li>
       <li>DET: hoc, illud, unum, ipsum, illa, aliud, huius, sua, ipse, ille</li>
       <li>NOUN: Dei, Deus, natura, terra, parte, mundi, genus, ratio, Deo, iure</li>
+      <li>NOUN-Inf: Ducatus, actu</li>
       <li>NOUN-Part: natura, nature, naturam, subiectum, peccatum, figura, coniunx, figuram, gentem, mensura</li>
-      <li>NOUN-Vnoun: Ducatus, actu</li>
       <li>PRON: quod, qui, quo, que, eius, quam, quid, me, te, qua</li>
       <li>PROPN: Cristus, Petrus, Cristi, Ytalie, Petri, Cristum, Livius, Nicomacum, Cesaris, Ytalia</li>
       <li>VERB-Fin: potest, patet, habet, videtur, dicit, dico, oportet, dicitur, sequitur, possit</li>
@@ -306,8 +299,8 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
       <li>AUX-Part: ente, futuris, futuro</li>
       <li>DET: hiis, illo, omnibus, sua, suis, aliis, hac, hoc, illa, suo</li>
       <li>NOUN: parte, iure, modo, celo, ratione, principio, forma, tempore, genere, natura</li>
+      <li>NOUN-Inf: actu</li>
       <li>NOUN-Part: natura, subiecto, ente, figura, dicto, Scripturis, incepto, mensura, meritis, precepto</li>
-      <li>NOUN-Vnoun: actu</li>
       <li>NUM: duobus, tribus, duabus</li>
       <li>PRON: quo, qua, eo, se, quibus, vobis, me, nobis, ea, te</li>
       <li>PROPN: Tuscia, Ytalia, Florentia, Europa, VIRGILIO, Cesare, Cristo, Politicis, Annibale, Asya</li>
@@ -381,8 +374,8 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
       <li>AUX-Part: futura</li>
       <li>DET: hoc, hec, illa, aliud, ipse, ille, omnes, quedam, illud, omnis</li>
       <li>NOUN: ratio, homo, pars, finis, aqua, natura, terra, causa, genus, virtus</li>
+      <li>NOUN-Inf: Ducatus</li>
       <li>NOUN-Part: natura, subiectum, peccatum, coniunx, littora, figura, gentes, mensura, ens, gens</li>
-      <li>NOUN-Vnoun: Ducatus</li>
       <li>NUM: duo, tria, tres, due</li>
       <li>PRON: que, quod, qui, quis, quid, nos, quicquid, tu, id, nemo</li>
       <li>PROPN: Cristus, Petrus, Livius, Guido, Lucanus, Mopsus, Lucas, Tityrus, Tullius, Cesar</li>
@@ -466,8 +459,8 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
       <li>PRON: nichil, nemo, nil, neminem, nemini, nihil</li>
       <li>SCONJ: nisi, ne, quin, ni, necubi</li>
       <li>VERB-Fin: nescio, nescit, ignoscet, nescis</li>
+      <li>VERB-Inf: infirmari, insanisse, invidere</li>
       <li>VERB-Part: ignoscendum, indignata, insperate, nesciens</li>
-      <li>VERB-Vnoun: infirmari, insanisse, invidere</li>
     </ul>
   </li>
 </ul>
@@ -500,8 +493,8 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
       <li>AUX-Inf: esse</li>
       <li>AUX-Part: ens, ente</li>
       <li>VERB-Fin: potest, patet, habet, dicimus, videtur, dicit, dico, oportet, dicitur, dicunt</li>
+      <li>VERB-Inf: habere, facere, fieri, dici, dicere, posse, solvere, uti, velle, reduci</li>
       <li>VERB-Part: consequens, existente, dicens, existens, consequentis, presens, dicentes, loquens, agentis, antecedentis</li>
-      <li>VERB-Vnoun: habere, facere, fieri, dici, dicere, posse, solvere, uti, velle, reduci</li>
     </ul>
   </li>
 </ul>
@@ -510,8 +503,8 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
   <li>Inch
     <ul>
       <li>VERB-Fin: deposco, innotescet, innotescit, arescant, asciscunt, calescunt, cognosceres, contabescunt, crebrescunt, crescebat</li>
+      <li>VERB-Inf: innotescere, asciscere, consciscere, exolescere, flavescere, mollescere, obstupescere, pavescere, plebescere, poscere</li>
       <li>VERB-Part: allubescentes, gliscentem, inardescens, pavescentes, poscente, tabescentes</li>
-      <li>VERB-Vnoun: innotescere, asciscere, consciscere, exolescere, flavescere, mollescere, obstupescere, pavescere, plebescere, poscere</li>
     </ul>
   </li>
 </ul>
@@ -523,8 +516,8 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
       <li>AUX-Inf: fuisse, fore</li>
       <li>AUX-Part: futura, futuram, futuris, futuro, futurum</li>
       <li>VERB-Fin: fecit, inquit, dixit, potuit, diximus, persuasit, vidit, dedit, cepit, dixi</li>
+      <li>VERB-Inf: dixisse, cecinisse, poetasse, transcendisse, vidisse, cognovisse, divertisse, intendisse, obtinuisse, remansisse</li>
       <li>VERB-Part: dictum, converso, dicta, factum, facta, datum, diversa, causatum, factus, usi</li>
-      <li>VERB-Vnoun: dixisse, cecinisse, poetasse, transcendisse, vidisse, cognovisse, divertisse, intendisse, obtinuisse, remansisse</li>
     </ul>
   </li>
 </ul>
@@ -532,8 +525,8 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
 <ul>
   <li>Prosp
     <ul>
+      <li>VERB-Inf: adfore</li>
       <li>VERB-Part: sciendum, dicendum, loquendo, canenda, advertendum, agendum, dicenda, dicendorum, querenda, subiciendo</li>
-      <li>VERB-Vnoun: adfore</li>
     </ul>
   </li>
 </ul>
@@ -615,8 +608,8 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
   <li>Act
     <ul>
       <li>VERB-Fin: potest, patet, habet, dicimus, dicit, dico, oportet, dicunt, possit, debet</li>
+      <li>VERB-Inf: habere, facere, dicere, posse, solvere, velle, ligare, agere, videre, dependere</li>
       <li>VERB-Part: consequens, existente, dicens, existens, consequentis, presens, dicentes, loquens, agentis, antecedentis</li>
-      <li>VERB-Vnoun: habere, facere, dicere, posse, solvere, velle, ligare, agere, videre, dependere</li>
     </ul>
   </li>
 </ul>
@@ -625,8 +618,8 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
   <li>Pass
     <ul>
       <li>VERB-Fin: videtur, dicitur, sequitur, videntur, dicebatur, movetur, queritur, sequeretur, locuntur, dividitur</li>
+      <li>VERB-Inf: fieri, dici, uti, reduci, loqui, sequi, haberi, inveniri, operari, regi</li>
       <li>VERB-Part: dictum, sciendum, dicendum, converso, dicta, factum, facta, datum, diversa, loquendo</li>
-      <li>VERB-Vnoun: fieri, dici, uti, reduci, loqui, sequi, haberi, inveniri, operari, regi</li>
     </ul>
   </li>
 </ul>
@@ -673,7 +666,8 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
 <ul>
   <li>Int
     <ul>
-      <li>PRON: quid, quis, quem, quos, quo, cui, cuius, qua</li>
+      <li>ADV: quid</li>
+      <li>PRON: quid, quis, quem, quo, cui, cuius, qua, que, qui, quos</li>
     </ul>
   </li>
 </ul>
@@ -894,8 +888,8 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
           <li>SCONJ: sicut, velut, prout, tanquam, quemadmodum, quoniam, quasi, quamvis, postquam, dummodo</li>
           <li>SCONJ-Fin: dumtaxat</li>
           <li>VERB-Fin: significatur, multiplicatur, nuncupatur, significant, adirem, adivit, assuefiunt, benedicat, fructificat, glorificat</li>
+          <li>VERB-Inf: significare, edificare, fructificare, honorificare, iustificare, neglexisse, possidere, retrocedere, satisfactum, testificari</li>
           <li>VERB-Part: neglectis, gratulantis, significata, versificantes, versificantibus, Crucifixi, assuefacti, belligerantes, benedictus, glorificando</li>
-          <li>VERB-Vnoun: significare, edificare, fructificare, honorificare, iustificare, neglexisse, possidere, retrocedere, satisfactum, testificari</li>
           <li>X: etc</li>
         </ul>
       </li>
@@ -977,8 +971,8 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
       <li>IndEurU
         <ul>
           <li>NOUN: versus, effectus, actus, cantus, spiritus, versibus, intellectu, sensum, actu, intellectus</li>
+          <li>NOUN-Inf: Ducatus, actu</li>
           <li>NOUN-Part: obiectum</li>
-          <li>NOUN-Vnoun: Ducatus, actu</li>
           <li>PROPN: Iesu, Iesus, Iesum</li>
         </ul>
       </li>
@@ -1097,8 +1091,8 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
         <ul>
           <li>ADJ: Castalias, Adriaci, Adriatici, Adriaticum, Ethnei, Ethneo, Ethnica, Fortunatas, Hyrcane, Pactolida</li>
           <li>NOUN: Marchia, Paradisi, Paradisus, Civitate, Paradisum, Abidon, Alpium, Austri, Ducatus, Infernus</li>
+          <li>NOUN-Inf: Ducatus</li>
           <li>NOUN-Part: Strate</li>
-          <li>NOUN-Vnoun: Ducatus</li>
           <li>PROPN: Ytalie, Ytalia, Tuscia, Florentia, Ytaliam, Europa, Europe, Ierusalem, Roma, Sarni</li>
           <li>X: Cascioli, Fiorensa, Lucca, Pisa, Siena</li>
         </ul>
@@ -1237,8 +1231,8 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
           <li>ADP: De, ad</li>
           <li>DET: Illum, Illius, Illo, Idem, Ipso</li>
           <li>NOUN: Dei, Deus, Deo, Ecclesie, Ecclesia, Imperium, Imperii, Phylosophus, Deum, Ecclesiam</li>
+          <li>NOUN-Inf: Ducatus</li>
           <li>NOUN-Part: Nature, Scripture, Sponse, Natura, Scriptura, Scripturis, Scripturarum, Sponsa, Strate</li>
-          <li>NOUN-Vnoun: Ducatus</li>
           <li>NUM: Sex</li>
           <li>PRON: Eo, Eius</li>
           <li>PROPN: Nicomacum, Farsalie, Bromii</li>
@@ -1273,23 +1267,23 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Abl (5)</li>
       <li>VERB-Fin--NOUN-Acc (11)</li>
       <li>VERB-Fin--NOUN-Gen (3)</li>
-      <li>VERB-Fin--NOUN-Nom (889)</li>
+      <li>VERB-Fin--NOUN-Nom (888)</li>
       <li>VERB-Fin--PRON (19)</li>
       <li>VERB-Fin--PRON-Acc (12)</li>
       <li>VERB-Fin--PRON-Nom (381)</li>
       <li>VERB-Fin--PRON-Voc (1)</li>
+      <li>VERB-Inf--NOUN (7)</li>
+      <li>VERB-Inf--NOUN-Acc (78)</li>
+      <li>VERB-Inf--NOUN-Nom (15)</li>
+      <li>VERB-Inf--PRON-Acc (28)</li>
+      <li>VERB-Inf--PRON-Nom (5)</li>
       <li>VERB-Part--NOUN (4)</li>
       <li>VERB-Part--NOUN-Abl (54)</li>
       <li>VERB-Part--NOUN-Acc (13)</li>
-      <li>VERB-Part--NOUN-Nom (37)</li>
+      <li>VERB-Part--NOUN-Nom (36)</li>
       <li>VERB-Part--PRON-Abl (7)</li>
       <li>VERB-Part--PRON-Acc (4)</li>
       <li>VERB-Part--PRON-Nom (19)</li>
-      <li>VERB-Vnoun--NOUN (7)</li>
-      <li>VERB-Vnoun--NOUN-Acc (78)</li>
-      <li>VERB-Vnoun--NOUN-Nom (15)</li>
-      <li>VERB-Vnoun--PRON-Acc (28)</li>
-      <li>VERB-Vnoun--PRON-Nom (5)</li>
     </ul>
   </li>
 </ul>
@@ -1309,18 +1303,18 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Acc (354)</li>
       <li>VERB-Fin--PRON-Gen (1)</li>
       <li>VERB-Fin--PRON-Nom (5)</li>
+      <li>VERB-Inf--NOUN (1)</li>
+      <li>VERB-Inf--NOUN-Acc (239)</li>
+      <li>VERB-Inf--NOUN-Dat (1)</li>
+      <li>VERB-Inf--PRON (4)</li>
+      <li>VERB-Inf--PRON-Abl (1)</li>
+      <li>VERB-Inf--PRON-Acc (78)</li>
+      <li>VERB-Inf--PRON-Nom (2)</li>
       <li>VERB-Part--NOUN-Abl (1)</li>
       <li>VERB-Part--NOUN-Acc (174)</li>
       <li>VERB-Part--NOUN-Nom (3)</li>
       <li>VERB-Part--PRON (3)</li>
       <li>VERB-Part--PRON-Acc (20)</li>
-      <li>VERB-Vnoun--NOUN (1)</li>
-      <li>VERB-Vnoun--NOUN-Acc (239)</li>
-      <li>VERB-Vnoun--NOUN-Dat (1)</li>
-      <li>VERB-Vnoun--PRON (4)</li>
-      <li>VERB-Vnoun--PRON-Abl (1)</li>
-      <li>VERB-Vnoun--PRON-Acc (78)</li>
-      <li>VERB-Vnoun--PRON-Nom (2)</li>
     </ul>
   </li>
 </ul>

@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Skolt_Sami-Giellagas: POS Tags: `ADV`
 
-There are 82 `ADV` lemmas (16%), 86 `ADV` types (11%) and 297 `ADV` tokens (10%).
+There are 83 `ADV` lemmas (16%), 86 `ADV` types (11%) and 298 `ADV` tokens (10%).
 Out of 16 observed tags, the rank of `ADV` is: 3 in number of lemmas, 3 in number of types and 5 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: <em>âʹtte, âʹpet, kâʹl, de, tok, mäʹhtt, pâi, âʹte, nuʹtt, teâđast</em>
@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>de</em> (<tt><a href="sms_giellagas-p
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.048780 (the average of all parts of speech is 1.465909).
+The form / lemma ratio of `ADV` is 1.036145 (the average of all parts of speech is 1.467290).
 
 The 1st highest number of forms (3) was observed with the lemma “nuʹtt”: <em>Nuʹtt, nuʹt, nuʹt-i</em>.
 
@@ -65,17 +65,17 @@ The 3rd highest number of forms (2) was observed with the lemma “koozz”: <em
 `ADV` occurs with 10 feature-value pairs: `AdvType=Tim`, `Case=Ill`, `Case=Loc`, `Case=Nom`, `Clitic=AddI`, `Clitic=QstA`, `Number=Sing`, `PronType=Int`, `PronType=Rel`, `Typo=Yes`
 
 `ADV` occurs with 14 feature combinations.
-The most frequent feature combination is `_` (201 tokens).
+The most frequent feature combination is `_` (202 tokens).
 Examples: <em>âʹpet, kâʹl, de, mäʹhtt, tok, pâi, teâđast, še, tõʹst, mååusat</em>
 
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 17 different relations: <tt><a href="sms_giellagas-dep-advmod-tmod.html">advmod:tmod</a></tt> (98; 33% instances), <tt><a href="sms_giellagas-dep-advmod.html">advmod</a></tt> (88; 30% instances), <tt><a href="sms_giellagas-dep-advmod-lmod.html">advmod:lmod</a></tt> (55; 19% instances), <tt><a href="sms_giellagas-dep-advmod-eval.html">advmod:eval</a></tt> (16; 5% instances), <tt><a href="sms_giellagas-dep-discourse.html">discourse</a></tt> (8; 3% instances), <tt><a href="sms_giellagas-dep-orphan.html">orphan</a></tt> (8; 3% instances), <tt><a href="sms_giellagas-dep-advmod-mmod.html">advmod:mmod</a></tt> (4; 1% instances), <tt><a href="sms_giellagas-dep-advmod-deg.html">advmod:deg</a></tt> (3; 1% instances), <tt><a href="sms_giellagas-dep-conj.html">conj</a></tt> (3; 1% instances), <tt><a href="sms_giellagas-dep-mark.html">mark</a></tt> (3; 1% instances), <tt><a href="sms_giellagas-dep-root.html">root</a></tt> (3; 1% instances), <tt><a href="sms_giellagas-dep-advmod-foc.html">advmod:foc</a></tt> (2; 1% instances), <tt><a href="sms_giellagas-dep-obl-lmod.html">obl:lmod</a></tt> (2; 1% instances), <tt><a href="sms_giellagas-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="sms_giellagas-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="sms_giellagas-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="sms_giellagas-dep-obl.html">obl</a></tt> (1; 0% instances)
+`ADV` nodes are attached to their parents using 17 different relations: <tt><a href="sms_giellagas-dep-advmod-tmod.html">advmod:tmod</a></tt> (98; 33% instances), <tt><a href="sms_giellagas-dep-advmod.html">advmod</a></tt> (89; 30% instances), <tt><a href="sms_giellagas-dep-advmod-lmod.html">advmod:lmod</a></tt> (55; 18% instances), <tt><a href="sms_giellagas-dep-advmod-eval.html">advmod:eval</a></tt> (16; 5% instances), <tt><a href="sms_giellagas-dep-discourse.html">discourse</a></tt> (8; 3% instances), <tt><a href="sms_giellagas-dep-orphan.html">orphan</a></tt> (8; 3% instances), <tt><a href="sms_giellagas-dep-advmod-mmod.html">advmod:mmod</a></tt> (4; 1% instances), <tt><a href="sms_giellagas-dep-advmod-deg.html">advmod:deg</a></tt> (3; 1% instances), <tt><a href="sms_giellagas-dep-conj.html">conj</a></tt> (3; 1% instances), <tt><a href="sms_giellagas-dep-mark.html">mark</a></tt> (3; 1% instances), <tt><a href="sms_giellagas-dep-root.html">root</a></tt> (3; 1% instances), <tt><a href="sms_giellagas-dep-advmod-foc.html">advmod:foc</a></tt> (2; 1% instances), <tt><a href="sms_giellagas-dep-obl-lmod.html">obl:lmod</a></tt> (2; 1% instances), <tt><a href="sms_giellagas-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="sms_giellagas-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="sms_giellagas-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="sms_giellagas-dep-obl.html">obl</a></tt> (1; 0% instances)
 
-Parents of `ADV` nodes belong to 9 different parts of speech: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (229; 77% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (21; 7% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (18; 6% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (10; 3% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (9; 3% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> (5; 2% instances),  (3; 1% instances), <tt><a href="sms_giellagas-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
+Parents of `ADV` nodes belong to 9 different parts of speech: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (230; 77% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (21; 7% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (18; 6% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (10; 3% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (9; 3% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> (5; 2% instances),  (3; 1% instances), <tt><a href="sms_giellagas-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
 
-270 (91%) `ADV` nodes are leaves.
+271 (91%) `ADV` nodes are leaves.
 
 20 (7%) `ADV` nodes have one child.
 

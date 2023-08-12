@@ -48,4 +48,4 @@ nor addressees.
 * [fi] _he <b>päättivät</b>_ "they <b>decided</b>"
 
 TODO: consider [fourth person](http://en.wikipedia.org/wiki/Voice_(grammar)#The_fourth_person_in_Baltic-Finnic_languages), e.g. _kirja **julkaistiin**_? (cf. ISK <http://scripta.kotus.fi/visk/sisallys.php?p=106>, <http://scripta.kotus.fi/visk/sisallys.php?p=1313>)
-<!-- Interlanguage links updated Po lis 14 15:34:53 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:44 CEST -->

@@ -15,4 +15,4 @@ da var det # da leverte eg på mjølkeforsyninga . \n then it was # then I deliv
 parataxis:deletion(leverte, var)
 ~~~
 
-<!-- Interlanguage links updated Po lis 14 15:35:42 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:04:31 CEST -->

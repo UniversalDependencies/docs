@@ -9,22 +9,28 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Fem`, `Masc`.
 
-15 tokens (0%) have a non-empty value of `Gender`.
-15 types (1%) occur at least once with a non-empty value of `Gender`.
-14 lemmas (1%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 1 part-of-speech tags: <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> (15; 0% instances).
+24 tokens (1%) have a non-empty value of `Gender`.
+23 types (1%) occur at least once with a non-empty value of `Gender`.
+22 lemmas (2%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 1 part-of-speech tags: <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> (24; 1% instances).
 
 ### `PROPN`
 
-15 <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> tokens (23% of all `PROPN` tokens) have a non-empty value of `Gender`.
+24 <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> tokens (31% of all `PROPN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PROPN` and `Gender` co-occurred: <tt><a href="mdf_jr-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt> (15; 100%), <tt><a href="mdf_jr-feat-NameType.html">NameType</a></tt><tt>=Sur</tt> (14; 93%), <tt><a href="mdf_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (13; 87%), <tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=Gen</tt> (9; 60%), <tt><a href="mdf_jr-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt> (8; 53%).
+The most frequent other feature values with which `PROPN` and `Gender` co-occurred: <tt><a href="mdf_jr-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt> (24; 100%), <tt><a href="mdf_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (21; 88%), <tt><a href="mdf_jr-feat-NameType.html">NameType</a></tt><tt>=Sur</tt> (16; 67%), <tt><a href="mdf_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (16; 67%), <tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (14; 58%).
 
 `PROPN` tokens may have the following values of `Gender`:
 
-* `Fem` (2; 13% of non-empty `Gender`): <em>Васильевна, Николаевнань</em>
-* `Masc` (13; 87% of non-empty `Gender`): <em>Вельдинонь, Голенков, Девинонь, Девятаев, Злобинонь, Келаськин, Кокоревонь, Кукушкинць, Пивкин, Покрышкинонь</em>
-* `EMPTY` (50): <em>Петя, Марья, Алда-баба, Анна, Архипонь, Браун, Ванянди, Варвара, Василь, Васильевич</em>
+* `Fem` (8; 33% of non-empty `Gender`): <em>Петровна, Варвара, Васильевна, Ивановать, Людмила, Николаевнань, Светлана</em>
+* `Masc` (16; 67% of non-empty `Gender`): <em>Вельдинонь, Голенков, Девинонь, Девятаев, Злобинонь, Келаськин, Кокоревонь, Кукушкинць, Михаил, Петр</em>
+* `EMPTY` (54): <em>Петя, Игорь, Марья, Алда-баба, Алдуван, Анна, Архипонь, Браун, Валентинонди, Ванянди</em>
 
-`Gender` seems to be **lexical feature** of `PROPN`. 100% lemmas (14) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `PROPN`. 100% lemmas (22) occur only with one value of `Gender`.
+
+## Relations with Agreement in `Gender`
+
+The 10 most frequent relations where parent and child node agree in `Gender`:
+<tt>PROPN --[<tt><a href="mdf_jr-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (4; 80%),
+<tt>PROPN --[<tt><a href="mdf_jr-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (1; 100%).
 

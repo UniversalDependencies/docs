@@ -60,7 +60,7 @@ The 2nd highest number of forms (3) was observed with the lemma “attore”: <e
 
 The 3rd highest number of forms (3) was observed with the lemma “bambino”: <em>BAMBINI, bambina, bambino</em>.
 
-`NOUN` occurs with 3 features: <tt><a href="it_valico-feat-Gender.html">Gender</a></tt> (1011; 98% instances), <tt><a href="it_valico-feat-Number.html">Number</a></tt> (994; 97% instances), <tt><a href="it_valico-feat-Typo.html">Typo</a></tt> (1; 0% instances)
+`NOUN` occurs with 3 features: <tt><a href="it_valico-feat-Gender.html">Gender</a></tt> (1012; 98% instances), <tt><a href="it_valico-feat-Number.html">Number</a></tt> (994; 97% instances), <tt><a href="it_valico-feat-Typo.html">Typo</a></tt> (1; 0% instances)
 
 `NOUN` occurs with 5 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Typo=Yes`
 

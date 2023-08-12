@@ -7,35 +7,39 @@ udver: '2'
 ## Treebank Statistics: UD_Vietnamese-VTB: Relations: `flat:time`
 
 This relation is a language-specific subtype of <tt><a href="vi_vtb-dep-flat.html">flat</a></tt>.
-There are also 4 other language-specific subtypes of `flat`: <tt><a href="vi_vtb-dep-flat-date.html">flat:date</a></tt>, <tt><a href="vi_vtb-dep-flat-name.html">flat:name</a></tt>, <tt><a href="vi_vtb-dep-flat-number.html">flat:number</a></tt>, <tt><a href="vi_vtb-dep-flat-redup.html">flat:redup</a></tt>.
+There are also 5 other language-specific subtypes of `flat`: <tt><a href="vi_vtb-dep-flat-date.html">flat:date</a></tt>, <tt><a href="vi_vtb-dep-flat-foreign.html">flat:foreign</a></tt>, <tt><a href="vi_vtb-dep-flat-name.html">flat:name</a></tt>, <tt><a href="vi_vtb-dep-flat-number.html">flat:number</a></tt>, <tt><a href="vi_vtb-dep-flat-redup.html">flat:redup</a></tt>.
 
-22 nodes (0%) are attached to their parents as `flat:time`.
+21 nodes (0%) are attached to their parents as `flat:time`.
 
-22 instances of `flat:time` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.18181818181818.
+21 instances of `flat:time` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.14285714285714.
 
-The following 5 pairs of parts of speech are connected with `flat:time`: <tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (11; 50% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> (4; 18% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (3; 14% instances), <tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt>-<tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> (3; 14% instances), <tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt>-<tt><a href="vi_vtb-pos-SYM.html">SYM</a></tt> (1; 5% instances).
+The following 4 pairs of parts of speech are connected with `flat:time`: <tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (9; 43% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> (6; 29% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (3; 14% instances), <tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt>-<tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt> (3; 14% instances).
 
 
 ~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 12 flat:time	color:blue
-1	Cả	cả	PRON	Pro	_	2	det	_	_
-2	tháng	tháng	NOUN	N	_	8	obl:tmod	_	_
-3	gần	gần	ADJ	Adj	_	6	advmod:adj	_	_
-4	như	như	SCONJ	SC	_	3	fixed	_	_
-5	không	không	ADV	Adv	_	6	advmod:neg	_	_
-6	bao giờ	bao giờ	PRON	Pro	_	8	obl:tmod	_	_
-7	Nhu	Nhu	PROPN	NNP	_	8	nsubj	_	_
-8	về	về	VERB	V	_	0	root	_	_
-9	nhà	nhà	NOUN	N	_	8	obj	_	_
-10	sau	sau	ADP	Pre	_	8	obl:tmod	_	_
-11	18	18	NUM	Num	_	10	nmod	_	_
-12	g	g	NOUN	Ny	_	11	flat:time	_	_
-13	.	.	PUNCT	.	_	8	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 flat:time	color:blue
+1	Từ	từ	ADP	PRE	_	2	case	_	_
+2	12	12	NUM	NUM	_	12	obl:tmod	_	_
+3	g	g	NOUN	NU	_	2	flat:time	_	_
+4	khuya	khuya	ADJ	ADJ	_	2	nmod	_	_
+5	13	13	NUM	NUM	_	4	nmod	_	_
+6	đến	đến	ADP	PRE	_	7	case	_	_
+7	rạng	rạng	NOUN	N	_	2	nmod	_	_
+8	sáng	sáng	NOUN	N	_	7	compound	_	_
+9	14	14	NUM	NUM	_	7	nmod	_	_
+10	họ	họ	PRON	PRO	_	12	nsubj	_	_
+11	đã	đã	ADV	ADV	_	12	advmod	_	_
+12	tìm	tìm	VERB	V	_	0	root	_	_
+13	được	được	ADV	ADV	_	12	advmod	_	_
+14	xác	xác	NOUN	N	_	12	obj	_	_
+15	19	19	NUM	NUM	_	16	nummod	_	_
+16	người	người	NOUN	N	_	14	nmod	_	_
+17	.	.	PUNCT	PUNCT	_	12	punct	_	_
 
 ~~~
 

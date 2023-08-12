@@ -62,7 +62,7 @@ The following 33 pairs of parts of speech are connected with `discourse`: <tt><a
 4	,	,	PUNCT	_	_	3	punct	_	_
 5	по	по	ADP	_	_	6	case	_	_
 6	максимуму	максимум	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	1	obl	_	SpaceAfter=No
-7	)	)	PUNCT	_	_	1	punct	_	_~
+7	)	)	PUNCT	_	_	1	punct	_	_
 
 ~~~
 

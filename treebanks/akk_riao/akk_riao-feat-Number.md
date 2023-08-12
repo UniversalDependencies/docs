@@ -10,8 +10,8 @@ This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
 15160 tokens (65%) have a non-empty value of `Number`.
-2098 types (72%) occur at least once with a non-empty value of `Number`.
-966 lemmas (62%) occur at least once with a non-empty value of `Number`.
+2099 types (72%) occur at least once with a non-empty value of `Number`.
+967 lemmas (62%) occur at least once with a non-empty value of `Number`.
 The feature is used with 7 part-of-speech tags: <tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt> (8708; 38% instances), <tt><a href="akk_riao-pos-VERB.html">VERB</a></tt> (3080; 13% instances), <tt><a href="akk_riao-pos-PRON.html">PRON</a></tt> (2362; 10% instances), <tt><a href="akk_riao-pos-ADJ.html">ADJ</a></tt> (894; 4% instances), <tt><a href="akk_riao-pos-DET.html">DET</a></tt> (93; 0% instances), <tt><a href="akk_riao-pos-NUM.html">NUM</a></tt> (15; 0% instances), <tt><a href="akk_riao-pos-PROPN.html">PROPN</a></tt> (8; 0% instances).
 
 ### `NOUN`
@@ -127,13 +127,13 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="akk_riao-dep-det-poss.html">det:poss</a></tt>]--> PRON</tt> (1247; 64%),
-<tt>NOUN --[<tt><a href="akk_riao-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (1231; 66%),
+<tt>NOUN --[<tt><a href="akk_riao-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (1229; 66%),
 <tt>VERB --[<tt><a href="akk_riao-dep-obl.html">obl</a></tt>]--> NOUN</tt> (1044; 61%),
-<tt>VERB --[<tt><a href="akk_riao-dep-conj.html">conj</a></tt>]--> VERB</tt> (1024; 96%),
+<tt>VERB --[<tt><a href="akk_riao-dep-conj.html">conj</a></tt>]--> VERB</tt> (1023; 96%),
 <tt>NOUN --[<tt><a href="akk_riao-dep-conj.html">conj</a></tt>]--> NOUN</tt> (778; 67%),
 <tt>NOUN --[<tt><a href="akk_riao-dep-amod.html">amod</a></tt>]--> ADJ</tt> (762; 97%),
 <tt>VERB --[<tt><a href="akk_riao-dep-obj.html">obj</a></tt>]--> NOUN</tt> (761; 55%),
-<tt>VERB --[<tt><a href="akk_riao-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (169; 90%),
+<tt>VERB --[<tt><a href="akk_riao-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (168; 90%),
 <tt>NOUN --[<tt><a href="akk_riao-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (146; 82%),
 <tt>NOUN --[<tt><a href="akk_riao-dep-appos.html">appos</a></tt>]--> NOUN</tt> (109; 57%).
 

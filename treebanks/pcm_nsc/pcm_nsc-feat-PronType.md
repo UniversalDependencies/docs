@@ -12,34 +12,34 @@ It occurs with 5 different values: `Art`, `Dem`, `Int`, `Prs`, `Rel`.
 20240 tokens (14%) have a non-empty value of `PronType`.
 80 types (2%) occur at least once with a non-empty value of `PronType`.
 48 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 7 part-of-speech tags: <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (15472; 11% instances), <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> (4197; 3% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (534; 0% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (25; 0% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt> (7; 0% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (15473; 11% instances), <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> (4196; 3% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (534; 0% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (25; 0% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt> (7; 0% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `PRON`
 
-15472 <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> tokens (84% of all `PRON` tokens) have a non-empty value of `PronType`.
+15473 <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> tokens (84% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="pcm_nsc-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (15366; 99%), <tt><a href="pcm_nsc-feat-Case.html">Case</a></tt><tt>=Nom</tt> (11872; 77%), <tt><a href="pcm_nsc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8345; 54%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="pcm_nsc-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (15367; 99%), <tt><a href="pcm_nsc-feat-Case.html">Case</a></tt><tt>=Nom</tt> (11872; 77%), <tt><a href="pcm_nsc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8345; 54%).
 
 `PRON` tokens may have the following values of `PronType`:
 
-* `Dem` (131; 1% of non-empty `PronType`): <em>dis, dose, dese, those</em>
+* `Dem` (132; 1% of non-empty `PronType`): <em>dis, dose, dese, those</em>
 * `Int` (513; 3% of non-empty `PronType`): <em>wetin, who, what</em>
 * `Prs` (14821; 96% of non-empty `PronType`): <em>I, you, e, we, am, de, me, dem, im, us</em>
 * `Rel` (7; 0% of non-empty `PronType`): <em>which, that</em>
-* `EMPTY` (2889): <em>my, your, dat, our, deir, everybody, all, some, everyting, anyting</em>
+* `EMPTY` (2891): <em>my, your, dat, our, deir, everybody, all, some, everyting, anyting</em>
 
 `PronType` seems to be **lexical feature** of `PRON`. 100% lemmas (32) occur only with one value of `PronType`.
 
 ### `DET`
 
-4197 <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> tokens (75% of all `DET` tokens) have a non-empty value of `PronType`.
+4196 <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> tokens (75% of all `DET` tokens) have a non-empty value of `PronType`.
 
 The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="pcm_nsc-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3236; 77%), <tt><a href="pcm_nsc-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2813; 67%).
 
 `DET` tokens may have the following values of `PronType`:
 
 * `Art` (3174; 76% of non-empty `PronType`): <em>di, one, a, the, an</em>
-* `Dem` (961; 23% of non-empty `PronType`): <em>dis, dose, dese, those, that, da, this</em>
+* `Dem` (960; 23% of non-empty `PronType`): <em>dis, dose, dese, those, that, da, this</em>
 * `Int` (62; 1% of non-empty `PronType`): <em>which</em>
 * `EMPTY` (1381): <em>dat, all, some, any, anoder, every, anoda, no, each, one</em>
 
@@ -50,7 +50,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 `ADV` tokens may have the following values of `PronType`:
 
 * `Int` (534; 100% of non-empty `PronType`): <em>how, where, why, when</em>
-* `EMPTY` (5624): <em>so, now, just, even, well, when, dere, den, still, very</em>
+* `EMPTY` (5625): <em>so, now, just, even, well, when, dere, den, still, very</em>
 
 ### `PART`
 
@@ -62,7 +62,7 @@ The most frequent other feature values with which `PART` and `PronType` co-occur
 
 * `Int` (24; 96% of non-empty `PronType`): <em>shey</em>
 * `Prs` (1; 4% of non-empty `PronType`): <em>masef</em>
-* `EMPTY` (1332): <em>o, sef, no, sha, not, dem, ma, n't, ni, ba</em>
+* `EMPTY` (1340): <em>o, sef, no, sha, not, dem, n't, ma, ni, ba</em>
 
 ### `X`
 
@@ -72,7 +72,7 @@ The most frequent other feature values with which `PART` and `PronType` co-occur
 
 * `Dem` (1; 14% of non-empty `PronType`): <em>}</em>
 * `Prs` (6; 86% of non-empty `PronType`): <em>>+, [, de, {, ||, }</em>
-* `EMPTY` (40224): <em>#, //, <, {, }, [, |c, ||, ], >+</em>
+* `EMPTY` (40232): <em>#, //, <, {, }, [, |c, ||, ], >+</em>
 
 <table>
   <tr><th>Paradigm <i>}</i></th><th><tt>Prs</tt></th><th><tt>Dem</tt></th></tr>
@@ -89,7 +89,7 @@ The most frequent other feature values with which `AUX` and `PronType` co-occurr
 `AUX` tokens may have the following values of `PronType`:
 
 * `Prs` (4; 100% of non-empty `PronType`): <em>'m, Don, be</em>
-* `EMPTY` (13717): <em>dey, go, na, no, con, don, be, make, fit, come</em>
+* `EMPTY` (13718): <em>dey, go, na, no, con, don, be, make, fit, come</em>
 
 ### `SCONJ`
 

@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Galician-CTG: POS Tags: `ADJ`
 
-There are 2147 `ADJ` lemmas (20%), 3290 `ADJ` types (20%) and 11431 `ADJ` tokens (8%).
+There are 2146 `ADJ` lemmas (20%), 3288 `ADJ` types (20%) and 11429 `ADJ` tokens (8%).
 Out of 16 observed tags, the rank of `ADJ` is: 2 in number of lemmas, 3 in number of types and 6 in number of tokens.
 
 The 10 most frequent `ADJ` lemmas: <em>maior, novo, galego, social, xeral, público, seguinte, económico, primeiro, medio</em>
@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>medio</em> (<tt><a href="gl_ctg-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.532371 (the average of all parts of speech is 1.520215).
+The form / lemma ratio of `ADJ` is 1.532153 (the average of all parts of speech is 1.523050).
 
 The 1st highest number of forms (5) was observed with the lemma “claro”: <em>clara, claras, claro, claros, clarísimas</em>.
 
@@ -64,27 +64,27 @@ The 3rd highest number of forms (4) was observed with the lemma “adecuado”: 
 `ADJ` occurs with 1 feature-value pairs: `Foreign=Yes`
 
 `ADJ` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (11425 tokens).
+The most frequent feature combination is `_` (11423 tokens).
 Examples: <em>maior, xeral, social, medio, seguinte, importante, ambiental, anterior, diferentes, seguintes</em>
 
 
 ## Relations
 
-`ADJ` nodes are attached to their parents using 13 different relations: <tt><a href="gl_ctg-dep-amod.html">amod</a></tt> (9657; 84% instances), <tt><a href="gl_ctg-dep-dep.html">dep</a></tt> (517; 5% instances), <tt><a href="gl_ctg-dep-ccomp.html">ccomp</a></tt> (259; 2% instances), <tt><a href="gl_ctg-dep-xcomp.html">xcomp</a></tt> (256; 2% instances), <tt><a href="gl_ctg-dep-root.html">root</a></tt> (244; 2% instances), <tt><a href="gl_ctg-dep-nmod.html">nmod</a></tt> (215; 2% instances), <tt><a href="gl_ctg-dep-obl.html">obl</a></tt> (86; 1% instances), <tt><a href="gl_ctg-dep-obj.html">obj</a></tt> (71; 1% instances), <tt><a href="gl_ctg-dep-nsubj.html">nsubj</a></tt> (59; 1% instances), <tt><a href="gl_ctg-dep-det.html">det</a></tt> (36; 0% instances), <tt><a href="gl_ctg-dep-case.html">case</a></tt> (25; 0% instances), <tt><a href="gl_ctg-dep-flat.html">flat</a></tt> (5; 0% instances), <tt><a href="gl_ctg-dep-aux.html">aux</a></tt> (1; 0% instances)
+`ADJ` nodes are attached to their parents using 12 different relations: <tt><a href="gl_ctg-dep-amod.html">amod</a></tt> (9714; 85% instances), <tt><a href="gl_ctg-dep-dep.html">dep</a></tt> (517; 5% instances), <tt><a href="gl_ctg-dep-ccomp.html">ccomp</a></tt> (259; 2% instances), <tt><a href="gl_ctg-dep-xcomp.html">xcomp</a></tt> (256; 2% instances), <tt><a href="gl_ctg-dep-root.html">root</a></tt> (244; 2% instances), <tt><a href="gl_ctg-dep-nmod.html">nmod</a></tt> (215; 2% instances), <tt><a href="gl_ctg-dep-obl.html">obl</a></tt> (87; 1% instances), <tt><a href="gl_ctg-dep-obj.html">obj</a></tt> (71; 1% instances), <tt><a href="gl_ctg-dep-nsubj.html">nsubj</a></tt> (59; 1% instances), <tt><a href="gl_ctg-dep-flat.html">flat</a></tt> (4; 0% instances), <tt><a href="gl_ctg-dep-conj.html">conj</a></tt> (2; 0% instances), <tt><a href="gl_ctg-dep-advcl.html">advcl</a></tt> (1; 0% instances)
 
-Parents of `ADJ` nodes belong to 13 different parts of speech: <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> (9594; 84% instances), <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> (665; 6% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> (640; 6% instances),  (244; 2% instances), <tt><a href="gl_ctg-pos-PROPN.html">PROPN</a></tt> (96; 1% instances), <tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt> (55; 0% instances), <tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt> (43; 0% instances), <tt><a href="gl_ctg-pos-NUM.html">NUM</a></tt> (28; 0% instances), <tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt> (26; 0% instances), <tt><a href="gl_ctg-pos-DET.html">DET</a></tt> (22; 0% instances), <tt><a href="gl_ctg-pos-SCONJ.html">SCONJ</a></tt> (9; 0% instances), <tt><a href="gl_ctg-pos-PART.html">PART</a></tt> (7; 0% instances), <tt><a href="gl_ctg-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances)
+Parents of `ADJ` nodes belong to 11 different parts of speech: <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> (9570; 84% instances), <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> (714; 6% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> (646; 6% instances),  (244; 2% instances), <tt><a href="gl_ctg-pos-PROPN.html">PROPN</a></tt> (94; 1% instances), <tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt> (56; 0% instances), <tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt> (43; 0% instances), <tt><a href="gl_ctg-pos-NUM.html">NUM</a></tt> (27; 0% instances), <tt><a href="gl_ctg-pos-DET.html">DET</a></tt> (22; 0% instances), <tt><a href="gl_ctg-pos-PART.html">PART</a></tt> (7; 0% instances), <tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt> (6; 0% instances)
 
-8966 (78%) `ADJ` nodes are leaves.
+8859 (78%) `ADJ` nodes are leaves.
 
-897 (8%) `ADJ` nodes have one child.
+987 (9%) `ADJ` nodes have one child.
 
-685 (6%) `ADJ` nodes have two children.
+703 (6%) `ADJ` nodes have two children.
 
-883 (8%) `ADJ` nodes have three or more children.
+880 (8%) `ADJ` nodes have three or more children.
 
-The highest child degree of a `ADJ` node is 13.
+The highest child degree of a `ADJ` node is 14.
 
-Children of `ADJ` nodes are attached using 19 different relations: <tt><a href="gl_ctg-dep-det.html">det</a></tt> (1032; 16% instances), <tt><a href="gl_ctg-dep-punct.html">punct</a></tt> (862; 13% instances), <tt><a href="gl_ctg-dep-cc.html">cc</a></tt> (621; 10% instances), <tt><a href="gl_ctg-dep-cop.html">cop</a></tt> (555; 9% instances), <tt><a href="gl_ctg-dep-nmod.html">nmod</a></tt> (553; 9% instances), <tt><a href="gl_ctg-dep-case.html">case</a></tt> (543; 8% instances), <tt><a href="gl_ctg-dep-dep.html">dep</a></tt> (514; 8% instances), <tt><a href="gl_ctg-dep-nsubj.html">nsubj</a></tt> (502; 8% instances), <tt><a href="gl_ctg-dep-ccomp.html">ccomp</a></tt> (351; 5% instances), <tt><a href="gl_ctg-dep-obl.html">obl</a></tt> (280; 4% instances), <tt><a href="gl_ctg-dep-advmod.html">advmod</a></tt> (219; 3% instances), <tt><a href="gl_ctg-dep-mark.html">mark</a></tt> (162; 3% instances), <tt><a href="gl_ctg-dep-amod.html">amod</a></tt> (108; 2% instances), <tt><a href="gl_ctg-dep-aux.html">aux</a></tt> (57; 1% instances), <tt><a href="gl_ctg-dep-xcomp.html">xcomp</a></tt> (42; 1% instances), <tt><a href="gl_ctg-dep-flat.html">flat</a></tt> (10; 0% instances), <tt><a href="gl_ctg-dep-iobj.html">iobj</a></tt> (3; 0% instances), <tt><a href="gl_ctg-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="gl_ctg-dep-acl.html">acl</a></tt> (1; 0% instances)
+Children of `ADJ` nodes are attached using 21 different relations: <tt><a href="gl_ctg-dep-punct.html">punct</a></tt> (807; 12% instances), <tt><a href="gl_ctg-dep-advmod.html">advmod</a></tt> (783; 12% instances), <tt><a href="gl_ctg-dep-cc.html">cc</a></tt> (617; 9% instances), <tt><a href="gl_ctg-dep-nmod.html">nmod</a></tt> (561; 9% instances), <tt><a href="gl_ctg-dep-cop.html">cop</a></tt> (557; 8% instances), <tt><a href="gl_ctg-dep-case.html">case</a></tt> (546; 8% instances), <tt><a href="gl_ctg-dep-nsubj.html">nsubj</a></tt> (524; 8% instances), <tt><a href="gl_ctg-dep-dep.html">dep</a></tt> (522; 8% instances), <tt><a href="gl_ctg-dep-det.html">det</a></tt> (487; 7% instances), <tt><a href="gl_ctg-dep-ccomp.html">ccomp</a></tt> (369; 6% instances), <tt><a href="gl_ctg-dep-obl.html">obl</a></tt> (324; 5% instances), <tt><a href="gl_ctg-dep-mark.html">mark</a></tt> (189; 3% instances), <tt><a href="gl_ctg-dep-amod.html">amod</a></tt> (113; 2% instances), <tt><a href="gl_ctg-dep-aux.html">aux</a></tt> (57; 1% instances), <tt><a href="gl_ctg-dep-xcomp.html">xcomp</a></tt> (44; 1% instances), <tt><a href="gl_ctg-dep-obj.html">obj</a></tt> (33; 1% instances), <tt><a href="gl_ctg-dep-flat.html">flat</a></tt> (10; 0% instances), <tt><a href="gl_ctg-dep-compound.html">compound</a></tt> (7; 0% instances), <tt><a href="gl_ctg-dep-nummod.html">nummod</a></tt> (5; 0% instances), <tt><a href="gl_ctg-dep-iobj.html">iobj</a></tt> (4; 0% instances), <tt><a href="gl_ctg-dep-acl.html">acl</a></tt> (1; 0% instances)
 
-Children of `ADJ` nodes belong to 16 different parts of speech: <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> (1073; 17% instances), <tt><a href="gl_ctg-pos-PUNCT.html">PUNCT</a></tt> (856; 13% instances), <tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt> (718; 11% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> (640; 10% instances), <tt><a href="gl_ctg-pos-CCONJ.html">CCONJ</a></tt> (599; 9% instances), <tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> (555; 9% instances), <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> (493; 8% instances), <tt><a href="gl_ctg-pos-DET.html">DET</a></tt> (480; 7% instances), <tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt> (465; 7% instances), <tt><a href="gl_ctg-pos-SCONJ.html">SCONJ</a></tt> (166; 3% instances), <tt><a href="gl_ctg-pos-PART.html">PART</a></tt> (140; 2% instances), <tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt> (133; 2% instances), <tt><a href="gl_ctg-pos-PROPN.html">PROPN</a></tt> (55; 1% instances), <tt><a href="gl_ctg-pos-NUM.html">NUM</a></tt> (35; 1% instances), <tt><a href="gl_ctg-pos-SYM.html">SYM</a></tt> (8; 0% instances), <tt><a href="gl_ctg-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
+Children of `ADJ` nodes belong to 16 different parts of speech: <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> (1144; 17% instances), <tt><a href="gl_ctg-pos-PUNCT.html">PUNCT</a></tt> (807; 12% instances), <tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt> (741; 11% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> (646; 10% instances), <tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> (614; 9% instances), <tt><a href="gl_ctg-pos-CCONJ.html">CCONJ</a></tt> (600; 9% instances), <tt><a href="gl_ctg-pos-DET.html">DET</a></tt> (492; 8% instances), <tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt> (470; 7% instances), <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> (464; 7% instances), <tt><a href="gl_ctg-pos-SCONJ.html">SCONJ</a></tt> (193; 3% instances), <tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt> (149; 2% instances), <tt><a href="gl_ctg-pos-PART.html">PART</a></tt> (143; 2% instances), <tt><a href="gl_ctg-pos-PROPN.html">PROPN</a></tt> (56; 1% instances), <tt><a href="gl_ctg-pos-NUM.html">NUM</a></tt> (39; 1% instances), <tt><a href="gl_ctg-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="gl_ctg-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 

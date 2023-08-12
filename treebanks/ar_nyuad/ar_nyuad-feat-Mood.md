@@ -38,7 +38,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 * `Ind` (3347; 83% of non-empty `Mood`): _
 * `Jus` (191; 5% of non-empty `Mood`): _
 * `Sub` (518; 13% of non-empty `Mood`): _
-* `EMPTY` (5107): _
+* `EMPTY` (5099): _
 
 ### `PROPN`
 
@@ -92,7 +92,7 @@ The most frequent other feature values with which `ADP` and `Mood` co-occurred: 
 * `Ind` (37; 93% of non-empty `Mood`): _
 * `Jus` (2; 5% of non-empty `Mood`): _
 * `Sub` (1; 3% of non-empty `Mood`): _
-* `EMPTY` (91702): _
+* `EMPTY` (91703): _
 
 ### `PRON`
 
@@ -104,7 +104,7 @@ The most frequent other feature values with which `PRON` and `Mood` co-occurred:
 
 * `Ind` (17; 94% of non-empty `Mood`): _
 * `Sub` (1; 6% of non-empty `Mood`): _
-* `EMPTY` (43475): _
+* `EMPTY` (43477): _
 
 ### `ADJ`
 
@@ -125,7 +125,7 @@ The most frequent other feature values with which `ADJ` and `Mood` co-occurred: 
 `CCONJ` tokens may have the following values of `Mood`:
 
 * `Ind` (9; 100% of non-empty `Mood`): _
-* `EMPTY` (49149): _
+* `EMPTY` (49152): _
 
 ### `SCONJ`
 
@@ -188,5 +188,5 @@ The most frequent other feature values with which `NUM` and `Mood` co-occurred: 
 The 10 most frequent relations where parent and child node agree in `Mood`:
 <tt>VERB --[<tt><a href="ar_nyuad-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (7574; 86%),
 <tt>VERB --[<tt><a href="ar_nyuad-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (2302; 61%),
-<tt>VERB --[<tt><a href="ar_nyuad-dep-cop.html">cop</a></tt>]--> AUX</tt> (1501; 81%).
+<tt>VERB --[<tt><a href="ar_nyuad-dep-cop.html">cop</a></tt>]--> AUX</tt> (1493; 81%).
 

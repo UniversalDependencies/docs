@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  <em>Wikipédíà</em> (<tt><a href="yo_yt
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.019608 (the average of all parts of speech is 1.006112).
+The form / lemma ratio of `PROPN` is 1.019608 (the average of all parts of speech is 1.007344).
 
 The 1st highest number of forms (1) was observed with the lemma “Alhaji”: <em>Alhaji</em>.
 

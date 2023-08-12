@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1513 nodes (1%) are attached to their parents as `mark`.
+1507 nodes (1%) are attached to their parents as `mark`.
 
-1503 instances of `mark` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.73231989424983.
+1359 instances of `mark` (90%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.03118779031188.
 
-The following 14 pairs of parts of speech are connected with `mark`: <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_ctg-pos-SCONJ.html">SCONJ</a></tt> (1086; 72% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_ctg-pos-SCONJ.html">SCONJ</a></tt> (162; 11% instances), <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_ctg-pos-SCONJ.html">SCONJ</a></tt> (162; 11% instances), <tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt>-<tt><a href="gl_ctg-pos-SCONJ.html">SCONJ</a></tt> (62; 4% instances), <tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt>-<tt><a href="gl_ctg-pos-SCONJ.html">SCONJ</a></tt> (15; 1% instances), <tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt>-<tt><a href="gl_ctg-pos-SCONJ.html">SCONJ</a></tt> (7; 0% instances), <tt><a href="gl_ctg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_ctg-pos-SCONJ.html">SCONJ</a></tt> (7; 0% instances), <tt><a href="gl_ctg-pos-NUM.html">NUM</a></tt>-<tt><a href="gl_ctg-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_ctg-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_ctg-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="gl_ctg-pos-DET.html">DET</a></tt>-<tt><a href="gl_ctg-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_ctg-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="gl_ctg-pos-PART.html">PART</a></tt>-<tt><a href="gl_ctg-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="gl_ctg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_ctg-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `mark`: <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_ctg-pos-SCONJ.html">SCONJ</a></tt> (1063; 71% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_ctg-pos-SCONJ.html">SCONJ</a></tt> (189; 13% instances), <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_ctg-pos-SCONJ.html">SCONJ</a></tt> (155; 10% instances), <tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt>-<tt><a href="gl_ctg-pos-SCONJ.html">SCONJ</a></tt> (62; 4% instances), <tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt>-<tt><a href="gl_ctg-pos-SCONJ.html">SCONJ</a></tt> (13; 1% instances), <tt><a href="gl_ctg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_ctg-pos-SCONJ.html">SCONJ</a></tt> (8; 1% instances), <tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt>-<tt><a href="gl_ctg-pos-SCONJ.html">SCONJ</a></tt> (7; 0% instances), <tt><a href="gl_ctg-pos-NUM.html">NUM</a></tt>-<tt><a href="gl_ctg-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_ctg-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="gl_ctg-pos-DET.html">DET</a></tt>-<tt><a href="gl_ctg-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="gl_ctg-pos-DET.html">DET</a></tt>-<tt><a href="gl_ctg-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="gl_ctg-pos-PART.html">PART</a></tt>-<tt><a href="gl_ctg-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="gl_ctg-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="gl_ctg-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -35,11 +35,11 @@ The following 14 pairs of parts of speech are connected with `mark`: <tt><a href
 11	vía	vía	NOUN	NCFS000	_	5	nmod	_	Treeler:sn
 12	aérea	aéreo	ADJ	AQ0FS0	_	11	amod	_	SpaceAfter=No|Treeler:s.a
 13	,	,	PUNCT	Fc	_	4	punct	_	Treeler:f
-14	debemos	deber	VERB	VMIP1P0	_	15	aux	_	Treeler:v
+14	debemos	deber	AUX	VMIP1P0	_	15	aux	_	Treeler:v
 15	animar	animar	VERB	VMN0000	_	0	root	_	Treeler:sentence
 16	o	o	PRON	PP3MSA00	_	15	obj	_	Treeler:cd
 17	a	a	ADP	SPS00	_	19	case	_	Treeler:creg
-18	seguir	seguir	VERB	VMN0000	_	19	aux	_	Treeler:v
+18	seguir	seguir	AUX	VMN0000	_	19	aux	_	Treeler:v
 19	tusindo	tusir	VERB	VMG0000	_	15	ccomp	_	Treeler:S
 20	e	e	CCONJ	CC	_	15	cc	_	ToDo=cc-without-conj|Treeler:coord
 21	non	non	PART	RN	_	22	advmod	_	Treeler:mod

@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal but the values `0` are language-specific.
 It occurs with 4 different values: `0`, `1`, `2`, `3`.
 
-1156 tokens (11%) have a non-empty value of `Person`.
+1152 tokens (12%) have a non-empty value of `Person`.
 335 types (14%) occur at least once with a non-empty value of `Person`.
 116 lemmas (7%) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="br_keb-pos-AUX.html">AUX</a></tt> (639; 6% instances), <tt><a href="br_keb-pos-VERB.html">VERB</a></tt> (347; 3% instances), <tt><a href="br_keb-pos-PRON.html">PRON</a></tt> (170; 2% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="br_keb-pos-AUX.html">AUX</a></tt> (638; 6% instances), <tt><a href="br_keb-pos-VERB.html">VERB</a></tt> (344; 3% instances), <tt><a href="br_keb-pos-PRON.html">PRON</a></tt> (170; 2% instances).
 
 ### `AUX`
 
-639 <tt><a href="br_keb-pos-AUX.html">AUX</a></tt> tokens (48% of all `AUX` tokens) have a non-empty value of `Person`.
+638 <tt><a href="br_keb-pos-AUX.html">AUX</a></tt> tokens (48% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="br_keb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (618; 97%), <tt><a href="br_keb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (578; 90%), <tt><a href="br_keb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (560; 88%), <tt><a href="br_keb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (404; 63%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="br_keb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (617; 97%), <tt><a href="br_keb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (577; 90%), <tt><a href="br_keb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (559; 88%), <tt><a href="br_keb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (403; 63%).
 
 `AUX` tokens may have the following values of `Person`:
 
 * `0` (14; 2% of non-empty `Person`): <em>reer, c'heller, eus, eur, ranker, tleer</em>
 * `1` (58; 9% of non-empty `Person`): <em>ran, am eus, em eus, on, rin, hon eus, emaon, raen, c'hellan, c'hellin</em>
 * `2` (18; 3% of non-empty `Person`): <em>out, c'hellit, rit, Emaout, c'helloc'h, ho peus, ho poa, reoc'h, reot, rez</em>
-* `3` (549; 86% of non-empty `Person`): <em>eo, oa, vo, zo, vez, ra, en deus, voe, emañ, he deus</em>
-* `EMPTY` (693): <em>a, e, bet, o, en, bezañ, na, ', ez, vezañ</em>
+* `3` (548; 86% of non-empty `Person`): <em>eo, oa, vo, zo, vez, ra, en deus, voe, emañ, he deus</em>
+* `EMPTY` (691): <em>a, e, bet, o, en, bezañ, na, ', ez, vezañ</em>
 
 <table>
   <tr><th>Paradigm <i>bezañ</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th><th><tt>0</tt></th></tr>
@@ -47,17 +47,17 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 ### `VERB`
 
-347 <tt><a href="br_keb-pos-VERB.html">VERB</a></tt> tokens (31% of all `VERB` tokens) have a non-empty value of `Person`.
+344 <tt><a href="br_keb-pos-VERB.html">VERB</a></tt> tokens (31% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="br_keb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (290; 84%), <tt><a href="br_keb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (259; 75%), <tt><a href="br_keb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (238; 69%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="br_keb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (289; 84%), <tt><a href="br_keb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (258; 75%), <tt><a href="br_keb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (238; 69%).
 
 `VERB` tokens may have the following values of `Person`:
 
 * `0` (17; 5% of non-empty `Person`): <em>c'haller, adkaver, c'haver, c'houlenner, c’haller, gaver, gomzer, lenner, ouzer, ouzhpenner</em>
 * `1` (31; 9% of non-empty `Person`): <em>lennan, welan, brenan, in, Gwelomp, ajen, am eus, anavezan, brenin, brenomp</em>
-* `2` (63; 18% of non-empty `Person`): <em>tennit, klaskit, meskit, Lakait, hoc'h eus, Ouzhpennit, Treuzit, klikit, pouezit, selaouit</em>
-* `3` (236; 68% of non-empty `Person`): <em>ra, welas, zeuy, gavo, lennont, wel, ya, yelo, eo, fell</em>
-* `EMPTY` (755): <em>kinniget, dont, ober, graet, gouestlet, gwelet, lennet, aozet, kavet, labourat</em>
+* `2` (61; 18% of non-empty `Person`): <em>tennit, klaskit, meskit, Lakait, hoc'h eus, Ouzhpennit, klikit, pouezit, selaouit, Degasit</em>
+* `3` (235; 68% of non-empty `Person`): <em>ra, welas, zeuy, gavo, wel, ya, yelo, eo, fell, gavint</em>
+* `EMPTY` (753): <em>kinniget, dont, ober, graet, gwelet, gouestlet, lennet, aozet, kavet, labourat</em>
 
 <table>
   <tr><th>Paradigm <i>gwelout</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>

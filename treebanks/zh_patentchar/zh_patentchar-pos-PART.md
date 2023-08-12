@@ -36,7 +36,7 @@ The 1st highest number of forms (13) was observed with the lemma “_”: 上, �
 
 ## Relations
 
-`PART` nodes are attached to their parents using 5 different relations: <tt><a href="zh_patentchar-dep-case.html">case</a></tt> (128; 66% instances), <tt><a href="zh_patentchar-dep-mark.html">mark</a></tt> (47; 24% instances), <tt><a href="zh_patentchar-dep-advmod.html">advmod</a></tt> (15; 8% instances), <tt><a href="zh_patentchar-dep-iobj.html">iobj</a></tt> (4; 2% instances), <tt><a href="zh_patentchar-dep-dep.html">dep</a></tt> (1; 1% instances)
+`PART` nodes are attached to their parents using 5 different relations: <tt><a href="zh_patentchar-dep-case.html">case</a></tt> (128; 66% instances), <tt><a href="zh_patentchar-dep-mark.html">mark</a></tt> (47; 24% instances), <tt><a href="zh_patentchar-dep-advmod.html">advmod</a></tt> (15; 8% instances), <tt><a href="zh_patentchar-dep-obl-arg.html">obl:arg</a></tt> (4; 2% instances), <tt><a href="zh_patentchar-dep-dep.html">dep</a></tt> (1; 1% instances)
 
 Parents of `PART` nodes belong to 6 different parts of speech: <tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt> (111; 57% instances), <tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt> (55; 28% instances), <tt><a href="zh_patentchar-pos-PROPN.html">PROPN</a></tt> (14; 7% instances), <tt><a href="zh_patentchar-pos-NUM.html">NUM</a></tt> (7; 4% instances), <tt><a href="zh_patentchar-pos-ADJ.html">ADJ</a></tt> (6; 3% instances), <tt><a href="zh_patentchar-pos-ADP.html">ADP</a></tt> (2; 1% instances)
 
@@ -50,7 +50,7 @@ Parents of `PART` nodes belong to 6 different parts of speech: <tt><a href="zh_p
 
 The highest child degree of a `PART` node is 3.
 
-Children of `PART` nodes are attached using 6 different relations: <tt><a href="zh_patentchar-dep-advcl.html">advcl</a></tt> (4; 25% instances), <tt><a href="zh_patentchar-dep-punct.html">punct</a></tt> (4; 25% instances), <tt><a href="zh_patentchar-dep-iobj.html">iobj</a></tt> (3; 19% instances), <tt><a href="zh_patentchar-dep-obl.html">obl</a></tt> (3; 19% instances), <tt><a href="zh_patentchar-dep-ccomp.html">ccomp</a></tt> (1; 6% instances), <tt><a href="zh_patentchar-dep-dep.html">dep</a></tt> (1; 6% instances)
+Children of `PART` nodes are attached using 6 different relations: <tt><a href="zh_patentchar-dep-advcl.html">advcl</a></tt> (4; 25% instances), <tt><a href="zh_patentchar-dep-punct.html">punct</a></tt> (4; 25% instances), <tt><a href="zh_patentchar-dep-obl.html">obl</a></tt> (3; 19% instances), <tt><a href="zh_patentchar-dep-ccomp.html">ccomp</a></tt> (2; 13% instances), <tt><a href="zh_patentchar-dep-obl-arg.html">obl:arg</a></tt> (2; 13% instances), <tt><a href="zh_patentchar-dep-dep.html">dep</a></tt> (1; 6% instances)
 
 Children of `PART` nodes belong to 6 different parts of speech: <tt><a href="zh_patentchar-pos-ADJ.html">ADJ</a></tt> (4; 25% instances), <tt><a href="zh_patentchar-pos-PUNCT.html">PUNCT</a></tt> (4; 25% instances), <tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt> (3; 19% instances), <tt><a href="zh_patentchar-pos-ADP.html">ADP</a></tt> (2; 13% instances), <tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt> (2; 13% instances), <tt><a href="zh_patentchar-pos-ADV.html">ADV</a></tt> (1; 6% instances)
 

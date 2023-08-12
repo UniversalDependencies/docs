@@ -6,12 +6,12 @@ udver: '2'
 
 ## Treebank Statistics: UD_Apurina-UFPA: POS Tags: `ADV`
 
-There are 19 `ADV` lemmas (7%), 21 `ADV` types (7%) and 50 `ADV` tokens (6%).
-Out of 15 observed tags, the rank of `ADV` is: 3 in number of lemmas, 3 in number of types and 5 in number of tokens.
+There are 20 `ADV` lemmas (7%), 22 `ADV` types (6%) and 53 `ADV` tokens (6%).
+Out of 16 observed tags, the rank of `ADV` is: 3 in number of lemmas, 3 in number of types and 5 in number of tokens.
 
-The 10 most frequent `ADV` lemmas: <em>apaka, inhinhiã, kaiãupuku, Atuku, Kutxi, watxa, Ywã, apiku, era, ikanapiriãsaaky</em>
+The 10 most frequent `ADV` lemmas: <em>apaka, inhinhiã, kaiãupuku, Atuku, Kutxi, wai, watxa, Ywã, apiku, era</em>
 
-The 10 most frequent `ADV` types:  <em>apaka, inhinhiã, kaiãũpuku, Atuku, Kutxi, watxa, Ikanapiriãsaaky, Ipinanyra, Kitxaka, Kiãtukupa</em>
+The 10 most frequent `ADV` types:  <em>apaka, inhinhiã, kaiãũpuku, Atuku, Kutxi, wai, watxa, Ikanapiriãsaaky, Ipinanyra, Kitxaka</em>
 
 The 10 most frequent ambiguous lemmas: <em>kaiãupuku</em> (<tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> 3, <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> 1), <em>Ywã</em> (<tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> 1, <tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt> 1), <em>apiku</em> (<tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> 1), <em>ykyny</em> (<tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> 1, <tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt> 1)
 
@@ -31,7 +31,7 @@ The 10 most frequent ambiguous types:  <em>kaiãũpuku</em> (<tt><a href="apu_uf
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.105263 (the average of all parts of speech is 1.201493).
+The form / lemma ratio of `ADV` is 1.100000 (the average of all parts of speech is 1.228873).
 
 The 1st highest number of forms (3) was observed with the lemma “apaka”: <em>apaka, apakapa, apakapary</em>.
 
@@ -44,27 +44,27 @@ The 3rd highest number of forms (1) was observed with the lemma “Kutxi”: <em
 `ADV` occurs with 8 feature-value pairs: `AdvType=Tim`, `Case=Dat`, `Case=Loc`, `Case=Tem`, `Gender[subj]=Masc`, `Number[subj]=Sing`, `Person[subj]=3`, `VerbType=Vido`
 
 `ADV` occurs with 6 feature combinations.
-The most frequent feature combination is `_` (45 tokens).
-Examples: <em>apaka, inhinhiã, kaiãũpuku, Atuku, Kutxi, watxa, Ipinanyra, Kiãtukupa, apakapa, apakapary</em>
+The most frequent feature combination is `_` (48 tokens).
+Examples: <em>apaka, inhinhiã, kaiãũpuku, Atuku, Kutxi, wai, watxa, Ipinanyra, Kiãtukupa, Natukupa</em>
 
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 6 different relations: <tt><a href="apu_ufpa-dep-advmod.html">advmod</a></tt> (28; 56% instances), <tt><a href="apu_ufpa-dep-advmod-tmod.html">advmod:tmod</a></tt> (14; 28% instances), <tt><a href="apu_ufpa-dep-advmod-lmod.html">advmod:lmod</a></tt> (3; 6% instances), <tt><a href="apu_ufpa-dep-cc.html">cc</a></tt> (2; 4% instances), <tt><a href="apu_ufpa-dep-root.html">root</a></tt> (2; 4% instances), <tt><a href="apu_ufpa-dep-conj.html">conj</a></tt> (1; 2% instances)
+`ADV` nodes are attached to their parents using 6 different relations: <tt><a href="apu_ufpa-dep-advmod.html">advmod</a></tt> (30; 57% instances), <tt><a href="apu_ufpa-dep-advmod-tmod.html">advmod:tmod</a></tt> (14; 26% instances), <tt><a href="apu_ufpa-dep-advmod-lmod.html">advmod:lmod</a></tt> (3; 6% instances), <tt><a href="apu_ufpa-dep-root.html">root</a></tt> (3; 6% instances), <tt><a href="apu_ufpa-dep-cc.html">cc</a></tt> (2; 4% instances), <tt><a href="apu_ufpa-dep-conj.html">conj</a></tt> (1; 2% instances)
 
-Parents of `ADV` nodes belong to 4 different parts of speech: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (41; 82% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (6; 12% instances),  (2; 4% instances), <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (1; 2% instances)
+Parents of `ADV` nodes belong to 4 different parts of speech: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (42; 79% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (6; 11% instances),  (3; 6% instances), <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (2; 4% instances)
 
-47 (94%) `ADV` nodes are leaves.
+49 (92%) `ADV` nodes are leaves.
 
 0 (0%) `ADV` nodes have one child.
 
 1 (2%) `ADV` nodes have two children.
 
-2 (4%) `ADV` nodes have three or more children.
+3 (6%) `ADV` nodes have three or more children.
 
 The highest child degree of a `ADV` node is 4.
 
-Children of `ADV` nodes are attached using 5 different relations: <tt><a href="apu_ufpa-dep-nsubj.html">nsubj</a></tt> (3; 33% instances), <tt><a href="apu_ufpa-dep-punct.html">punct</a></tt> (3; 33% instances), <tt><a href="apu_ufpa-dep-advmod.html">advmod</a></tt> (1; 11% instances), <tt><a href="apu_ufpa-dep-aux.html">aux</a></tt> (1; 11% instances), <tt><a href="apu_ufpa-dep-obj.html">obj</a></tt> (1; 11% instances)
+Children of `ADV` nodes are attached using 7 different relations: <tt><a href="apu_ufpa-dep-punct.html">punct</a></tt> (4; 31% instances), <tt><a href="apu_ufpa-dep-nsubj.html">nsubj</a></tt> (3; 23% instances), <tt><a href="apu_ufpa-dep-advmod.html">advmod</a></tt> (2; 15% instances), <tt><a href="apu_ufpa-dep-appos.html">appos</a></tt> (1; 8% instances), <tt><a href="apu_ufpa-dep-aux.html">aux</a></tt> (1; 8% instances), <tt><a href="apu_ufpa-dep-cop.html">cop</a></tt> (1; 8% instances), <tt><a href="apu_ufpa-dep-obj.html">obj</a></tt> (1; 8% instances)
 
-Children of `ADV` nodes belong to 4 different parts of speech: <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (4; 44% instances), <tt><a href="apu_ufpa-pos-PUNCT.html">PUNCT</a></tt> (3; 33% instances), <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (1; 11% instances), <tt><a href="apu_ufpa-pos-AUX.html">AUX</a></tt> (1; 11% instances)
+Children of `ADV` nodes belong to 4 different parts of speech: <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (5; 38% instances), <tt><a href="apu_ufpa-pos-PUNCT.html">PUNCT</a></tt> (4; 31% instances), <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (2; 15% instances), <tt><a href="apu_ufpa-pos-AUX.html">AUX</a></tt> (2; 15% instances)
 

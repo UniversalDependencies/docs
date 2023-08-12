@@ -26,7 +26,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 * `Past` (3946; 11% of non-empty `Tense`): <em>posset, dixit, posuerunt, sequeretur, oportuit, dedit, posuit, dicebant, dixerunt, haberet</em>
 * `Pqp` (157; 0% of non-empty `Tense`): <em>dixerat, fecerat, accepisset, assumpsisset, dixisset, habuisset, oportuisset, praemiserat, praeextitisset, acceperat</em>
 * `Pres` (31811; 86% of non-empty `Tense`): <em>potest, oportet, dicitur, habet, patet, dicit, uidetur, fit, possunt, habent</em>
-* `EMPTY` (22703): <em>ostensum, dicendum, intelligere, dictum, dici, fieri, habere, mouens, separatae, facere</em>
+* `EMPTY` (22710): <em>ostensum, dicendum, intelligere, dictum, dici, fieri, habere, mouens, separatae, facere</em>
 
 <table>
   <tr><th>Paradigm <i>dico</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th><th><tt>Pqp</tt></th></tr>
@@ -62,9 +62,9 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>VERB --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> VERB</tt> (2007; 81%),
 <tt>VERB --[<tt><a href="la_ittb-dep-csubj-relcl.html">csubj:relcl</a></tt>]--> VERB</tt> (395; 66%),
-<tt>VERB --[<tt><a href="la_ittb-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (149; 65%),
+<tt>VERB --[<tt><a href="la_ittb-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (148; 65%),
 <tt>VERB --[<tt><a href="la_ittb-dep-conj-expl.html">conj:expl</a></tt>]--> VERB</tt> (31; 56%),
 <tt>VERB --[<tt><a href="la_ittb-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (31; 76%),
-<tt>VERB --[<tt><a href="la_ittb-dep-advcl-cmp.html">advcl:cmp</a></tt>]--> VERB</tt> (4; 57%),
+<tt>VERB --[<tt><a href="la_ittb-dep-advcl-cmp.html">advcl:cmp</a></tt>]--> VERB</tt> (5; 63%),
 <tt>VERB --[<tt><a href="la_ittb-dep-dislocated-ccomp.html">dislocated:ccomp</a></tt>]--> VERB</tt> (1; 100%).
 

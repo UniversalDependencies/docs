@@ -7,13 +7,13 @@ udver: '2'
 ## Treebank Statistics: UD_Chinese-CFL: POS Tags: `DET`
 
 There are 30 `DET` lemmas (2%), 30 `DET` types (2%) and 127 `DET` tokens (2%).
-Out of 15 observed tags, the rank of `DET` is: 9 in number of lemmas, 8 in number of types and 12 in number of tokens.
+Out of 15 observed tags, the rank of `DET` is: 8 in number of lemmas, 8 in number of types and 12 in number of tokens.
 
 The 10 most frequent `DET` lemmas: 这、 那、 很多、 每、 什么、 一些、 几、 哪、 有的、 这些
 
 The 10 most frequent `DET` types:  这、 那、 很多、 每、 什么、 一些、 几、 哪、 有的、 这些
 
-The 10 most frequent ambiguous lemmas: 这 (<tt><a href="zh_cfl-pos-DET.html">DET</a></tt> 24, <tt><a href="zh_cfl-pos-PRON.html">PRON</a></tt> 15, <tt><a href="zh_cfl-pos-AUX.html">AUX</a></tt> 1), 那 (<tt><a href="zh_cfl-pos-DET.html">DET</a></tt> 21, <tt><a href="zh_cfl-pos-PRON.html">PRON</a></tt> 6), 每 (<tt><a href="zh_cfl-pos-DET.html">DET</a></tt> 13, <tt><a href="zh_cfl-pos-PRON.html">PRON</a></tt> 3, <tt><a href="zh_cfl-pos-NOUN.html">NOUN</a></tt> 1), 什么 (<tt><a href="zh_cfl-pos-DET.html">DET</a></tt> 7, <tt><a href="zh_cfl-pos-PRON.html">PRON</a></tt> 6), 几 (<tt><a href="zh_cfl-pos-DET.html">DET</a></tt> 4, <tt><a href="zh_cfl-pos-NUM.html">NUM</a></tt> 4), 有的 (<tt><a href="zh_cfl-pos-PRON.html">PRON</a></tt> 4, <tt><a href="zh_cfl-pos-DET.html">DET</a></tt> 3), 所有 (<tt><a href="zh_cfl-pos-DET.html">DET</a></tt> 2, <tt><a href="zh_cfl-pos-PRON.html">PRON</a></tt> 2), 本 (<tt><a href="zh_cfl-pos-DET.html">DET</a></tt> 2, <tt><a href="zh_cfl-pos-NOUN.html">NOUN</a></tt> 1), 那样 (<tt><a href="zh_cfl-pos-PRON.html">PRON</a></tt> 4, <tt><a href="zh_cfl-pos-DET.html">DET</a></tt> 2), 一点 (<tt><a href="zh_cfl-pos-ADV.html">ADV</a></tt> 1, <tt><a href="zh_cfl-pos-DET.html">DET</a></tt> 1, <tt><a href="zh_cfl-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous lemmas: 这 (<tt><a href="zh_cfl-pos-DET.html">DET</a></tt> 24, <tt><a href="zh_cfl-pos-PRON.html">PRON</a></tt> 15, <tt><a href="zh_cfl-pos-VERB.html">VERB</a></tt> 1), 那 (<tt><a href="zh_cfl-pos-DET.html">DET</a></tt> 21, <tt><a href="zh_cfl-pos-PRON.html">PRON</a></tt> 6), 每 (<tt><a href="zh_cfl-pos-DET.html">DET</a></tt> 13, <tt><a href="zh_cfl-pos-PRON.html">PRON</a></tt> 3, <tt><a href="zh_cfl-pos-NOUN.html">NOUN</a></tt> 1), 什么 (<tt><a href="zh_cfl-pos-DET.html">DET</a></tt> 7, <tt><a href="zh_cfl-pos-PRON.html">PRON</a></tt> 6), 几 (<tt><a href="zh_cfl-pos-DET.html">DET</a></tt> 4, <tt><a href="zh_cfl-pos-NUM.html">NUM</a></tt> 4), 有的 (<tt><a href="zh_cfl-pos-PRON.html">PRON</a></tt> 4, <tt><a href="zh_cfl-pos-DET.html">DET</a></tt> 3), 所有 (<tt><a href="zh_cfl-pos-DET.html">DET</a></tt> 2, <tt><a href="zh_cfl-pos-PRON.html">PRON</a></tt> 2), 本 (<tt><a href="zh_cfl-pos-DET.html">DET</a></tt> 2, <tt><a href="zh_cfl-pos-NOUN.html">NOUN</a></tt> 1), 那样 (<tt><a href="zh_cfl-pos-PRON.html">PRON</a></tt> 4, <tt><a href="zh_cfl-pos-DET.html">DET</a></tt> 2), 一点 (<tt><a href="zh_cfl-pos-ADV.html">ADV</a></tt> 1, <tt><a href="zh_cfl-pos-DET.html">DET</a></tt> 1, <tt><a href="zh_cfl-pos-NOUN.html">NOUN</a></tt> 1)
 
 The 10 most frequent ambiguous types:  这 (<tt><a href="zh_cfl-pos-DET.html">DET</a></tt> 24, <tt><a href="zh_cfl-pos-PRON.html">PRON</a></tt> 15), 那 (<tt><a href="zh_cfl-pos-DET.html">DET</a></tt> 21, <tt><a href="zh_cfl-pos-PRON.html">PRON</a></tt> 6), 每 (<tt><a href="zh_cfl-pos-DET.html">DET</a></tt> 13, <tt><a href="zh_cfl-pos-PRON.html">PRON</a></tt> 3, <tt><a href="zh_cfl-pos-NOUN.html">NOUN</a></tt> 1), 什么 (<tt><a href="zh_cfl-pos-DET.html">DET</a></tt> 7, <tt><a href="zh_cfl-pos-PRON.html">PRON</a></tt> 6), 几 (<tt><a href="zh_cfl-pos-DET.html">DET</a></tt> 4, <tt><a href="zh_cfl-pos-NUM.html">NUM</a></tt> 4), 有的 (<tt><a href="zh_cfl-pos-PRON.html">PRON</a></tt> 4, <tt><a href="zh_cfl-pos-DET.html">DET</a></tt> 3), 所有 (<tt><a href="zh_cfl-pos-DET.html">DET</a></tt> 2, <tt><a href="zh_cfl-pos-PRON.html">PRON</a></tt> 2), 本 (<tt><a href="zh_cfl-pos-DET.html">DET</a></tt> 2, <tt><a href="zh_cfl-pos-NOUN.html">NOUN</a></tt> 1), 那样 (<tt><a href="zh_cfl-pos-PRON.html">PRON</a></tt> 4, <tt><a href="zh_cfl-pos-DET.html">DET</a></tt> 2), 一点 (<tt><a href="zh_cfl-pos-ADV.html">ADV</a></tt> 1, <tt><a href="zh_cfl-pos-DET.html">DET</a></tt> 1, <tt><a href="zh_cfl-pos-NOUN.html">NOUN</a></tt> 1)
 
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  这 (<tt><a href="zh_cfl-pos-DET.html">DE
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.001198).
+The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.009709).
 
 The 1st highest number of forms (1) was observed with the lemma “一些”: 一些.
 
@@ -68,7 +68,7 @@ The 3rd highest number of forms (1) was observed with the lemma “个”: 个.
 
 `DET` nodes are attached to their parents using 6 different relations: <tt><a href="zh_cfl-dep-det.html">det</a></tt> (119; 94% instances), <tt><a href="zh_cfl-dep-nmod.html">nmod</a></tt> (3; 2% instances), <tt><a href="zh_cfl-dep-advmod.html">advmod</a></tt> (2; 2% instances), <tt><a href="zh_cfl-dep-clf.html">clf</a></tt> (1; 1% instances), <tt><a href="zh_cfl-dep-nsubj.html">nsubj</a></tt> (1; 1% instances), <tt><a href="zh_cfl-dep-obj.html">obj</a></tt> (1; 1% instances)
 
-Parents of `DET` nodes belong to 6 different parts of speech: <tt><a href="zh_cfl-pos-NOUN.html">NOUN</a></tt> (120; 94% instances), <tt><a href="zh_cfl-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="zh_cfl-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="zh_cfl-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="zh_cfl-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="zh_cfl-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
+Parents of `DET` nodes belong to 5 different parts of speech: <tt><a href="zh_cfl-pos-NOUN.html">NOUN</a></tt> (121; 95% instances), <tt><a href="zh_cfl-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="zh_cfl-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="zh_cfl-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="zh_cfl-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
 
 85 (67%) `DET` nodes are leaves.
 

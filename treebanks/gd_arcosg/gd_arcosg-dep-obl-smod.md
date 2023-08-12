@@ -71,8 +71,8 @@ The following 6 pairs of parts of speech are connected with `obl:smod`: <tt><a h
 9	idir	idir	ADV	Rg	_	2	advmod	_	_
 10	ach	ach	CCONJ	Cc	_	11	cc	_	_
 11	bha	bi	VERB	V-s	Tense=Past	2	conj	_	_
-12	[Name]	[Name]	PROPN	Nn-mn	Case=Nom|Gender=Masc	11	nsubj	_	_
-13	[Name]	[Name]	PROPN	Nn-mn	Case=Nom|Gender=Masc	12	flat:name	_	_
+12	[Name]	[Name]	PROPN	Nn-mn	Case=Nom|Gender=Masc	11	nsubj	_	Anonymised=Yes
+13	[Name]	[Name]	PROPN	Nn-mn	Case=Nom|Gender=Masc	12	flat:name	_	Anonymised=Yes
 14	ag	ag	PART	Sa	_	15	case	_	_
 15	ràdh	abair	NOUN	Nv	VerbForm=Vnoun	11	xcomp:pred	_	_
 16	gun	gun	PART	Qa	PartType=Cmpl	18	mark:prt	_	_

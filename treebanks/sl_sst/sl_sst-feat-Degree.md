@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-4377 tokens (15%) have a non-empty value of `Degree`.
+4379 tokens (15%) have a non-empty value of `Degree`.
 1366 types (22%) occur at least once with a non-empty value of `Degree`.
-1022 lemmas (26%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 2 part-of-speech tags: <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> (2872; 10% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (1505; 5% instances).
+1021 lemmas (26%) occur at least once with a non-empty value of `Degree`.
+The feature is used with 3 part-of-speech tags: <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> (2872; 10% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (1505; 5% instances), <tt><a href="sl_sst-pos-DET.html">DET</a></tt> (2; 0% instances).
 
 ### `ADV`
 
@@ -27,10 +27,10 @@ The feature is used with 2 part-of-speech tags: <tt><a href="sl_sst-pos-ADV.html
 
 <table>
   <tr><th>Paradigm <i>dobro</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>dobro</em></td><td><em>boljše, bolje</em></td><td><em>najboljše</em></td></tr>
+  <tr><td><tt></tt></td><td><em>dobro</em></td><td><em>bolje, boljše</em></td><td><em>najboljše</em></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADV`. 98% lemmas (341) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADV`. 98% lemmas (340) occur only with one value of `Degree`.
 
 ### `ADJ`
 
@@ -63,6 +63,17 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 </table>
 
 `Degree` seems to be **lexical feature** of `ADJ`. 97% lemmas (661) occur only with one value of `Degree`.
+
+### `DET`
+
+2 <tt><a href="sl_sst-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Degree`.
+
+The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="sl_sst-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="sl_sst-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="sl_sst-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="sl_sst-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (2; 100%).
+
+`DET` tokens may have the following values of `Degree`:
+
+* `Pos` (2; 100% of non-empty `Degree`): <em>nič</em>
+* `EMPTY` (1842): <em>to, ta, nekaj, malo, vse, tem, tega, nič, te, tisto</em>
 
 ## Relations with Agreement in `Degree`
 

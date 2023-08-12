@@ -31,3 +31,4 @@ obj(relieve,of-the-case)
 ~~~
 
 In accordance with the general guidelines, the SSJ-UD treebank also follows the following strict rule: if the sentence contains only one non-clausal object, this object is always marked as a direct object, regardless of its grammatical case or semantic role (it receives the obj or ccomp relation). If there is more than one phrasal (**obj**) or clausal object (**ccomp**), the **iobj** relation is used for all subsequent objects. 
+<!-- Interlanguage links updated Út 9. května 2023, 20:04:17 CEST -->

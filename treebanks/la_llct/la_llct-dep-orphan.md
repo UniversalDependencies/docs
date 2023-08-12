@@ -125,7 +125,7 @@ The following 8 pairs of parts of speech are connected with `orphan`: <tt><a hre
 11	vinea	uinea	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	9	nmod	_	_
 12	mea	meus	DET	a|a|1|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	11	det	_	_
 13	quem	qui	PRON	p|p|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	14	obj	_	_
-14	habere	habeo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	15	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+14	habere	habeo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	15	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 15	visu	uideo	VERB	t|t|-|s|r|p|p|m|a|-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	9	acl:relcl	_	TraditionalMood=Participium|TraditionalTense=Perfectum
 16	sum	sum	AUX	v|v|1|s|p|i|a|-|-|-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	15	aux:pass	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 17	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	18	case	_	_
@@ -161,7 +161,7 @@ The following 8 pairs of parts of speech are connected with `orphan`: <tt><a hre
 47	ipsa	ipse	DET	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	48	det	_	_
 48	via	uia	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	44	conj	_	_
 49	publica	publicus	ADJ	a|a|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	48	amod	_	_
-50	habere	habeo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	51	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+50	habere	habeo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	51	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 51	visu	uideo	VERB	t|t|-|s|r|p|p|m|a|-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	40	acl:relcl	_	TraditionalMood=Participium|TraditionalTense=Perfectum
 52	sum	sum	AUX	v|v|1|s|p|i|a|-|-|-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	51	aux:pass	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 53	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	54	case	_	_
@@ -238,7 +238,7 @@ The following 8 pairs of parts of speech are connected with `orphan`: <tt><a hre
 11	vinea	uinea	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	9	nmod	_	_
 12	mea	meus	DET	a|a|1|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	11	det	_	_
 13	quem	qui	PRON	p|p|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	14	obj	_	_
-14	habere	habeo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	15	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+14	habere	habeo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	15	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 15	visu	uideo	VERB	t|t|-|s|r|p|p|m|a|-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	9	acl:relcl	_	TraditionalMood=Participium|TraditionalTense=Perfectum
 16	sum	sum	AUX	v|v|1|s|p|i|a|-|-|-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	15	aux:pass	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 17	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	18	case	_	_
@@ -274,7 +274,7 @@ The following 8 pairs of parts of speech are connected with `orphan`: <tt><a hre
 47	ipsa	ipse	DET	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	48	det	_	_
 48	via	uia	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	44	conj	_	_
 49	publica	publicus	ADJ	a|a|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	48	amod	_	_
-50	habere	habeo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	51	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+50	habere	habeo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	51	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 51	visu	uideo	VERB	t|t|-|s|r|p|p|m|a|-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	40	acl:relcl	_	TraditionalMood=Participium|TraditionalTense=Perfectum
 52	sum	sum	AUX	v|v|1|s|p|i|a|-|-|-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	51	aux:pass	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 53	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	54	case	_	_

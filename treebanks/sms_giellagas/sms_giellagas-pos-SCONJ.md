@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>ǥu</em> (<tt><a href="sms_giellagas-
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.090909 (the average of all parts of speech is 1.465909).
+The form / lemma ratio of `SCONJ` is 1.090909 (the average of all parts of speech is 1.467290).
 
 The 1st highest number of forms (2) was observed with the lemma “što”: <em>što, štõ</em>.
 

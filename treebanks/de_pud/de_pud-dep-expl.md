@@ -23,12 +23,12 @@ The following 3 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 expl	color:blue
-1	Das	der	DET	DT	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|Person=3	2	nsubj	_	_
+1	Das	der	DET	DT	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	nsubj	_	_
 2	ist	sein	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
-3	es	es	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3	2	expl	_	SpaceAfter=No
+3	es	es	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	expl	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	8	punct	_	_
-5	was	was	PRON	REL	Case=Nom|Gender=Neut|Number=Sing|Person=3	8	nsubj	_	_
-6	uns	wir	PRON	PRP	Case=Acc|Number=Plur|Person=1	8	obj	_	_
+5	was	was	PRON	REL	Case=Nom|Gender=Neut|Number=Sing|PronType=Int,Rel	8	nsubj	_	_
+6	uns	wir	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	8	obj	_	_
 7	süchtig	süchtig	ADV	RB	Degree=Pos	8	advmod	_	_
 8	macht	machen	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	acl:relcl	_	SpaceAfter=No
 9	.	.	PUNCT	.	_	2	punct	_	_
@@ -43,15 +43,15 @@ The following 3 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 6	fgColor:white
 # visual-style 6 5 expl	color:blue
 1	Vor	vor	ADP	IN	_	3	case	_	_
-2	diesem	dies	DET	DT	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|Person=3	3	det	_	_
-3	Hintergrund	Hintergrund	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing|Person=3	6	obl	_	_
+2	diesem	dieser	DET	DT	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
+3	Hintergrund	Hintergrund	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	6	obl	_	_
 4	ist	sein	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	cop	_	_
-5	es	es	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3	6	expl	_	_
+5	es	es	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	expl	_	_
 6	sinnvoll	sinnvoll	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	12	punct	_	_
 8	über	über	ADP	IN	_	10	case	_	_
-9	den	der	DET	DT	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3	10	det	_	_
-10	Handel	Handel	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	12	obl	_	_
+9	den	der	DET	DT	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	Handel	Handel	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	12	obl	_	_
 11	zu	zu	PART	RP	_	12	mark	_	_
 12	schimpfen	schimpfen	VERB	VB	_	6	csubj	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	6	punct	_	_
@@ -65,13 +65,13 @@ The following 3 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 1 expl	color:blue
-1	Es	es	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3	4	expl	_	_
+1	Es	es	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	expl	_	_
 2	ist	sein	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	cop	_	_
-3	sein	sein	PRON	DTP$	Case=Nom|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|PronType=Prs	4	nmod:poss	_	_
-4	Traum	Traum	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	SpaceAfter=No
+3	sein	sein	DET	DTP$	Case=Nom|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	4	det:poss	_	_
+4	Traum	Traum	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	10	punct	_	_
-6	seine	sein	PRON	DTP$	Case=Acc|Gender=Fem|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|PronType=Prs	7	nmod:poss	_	_
-7	Laufbahn	Laufbahn	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	10	obj	_	_
+6	seine	sein	DET	DTP$	Case=Acc|Gender=Fem|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	Laufbahn	Laufbahn	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	10	obj	_	_
 8	hier	hier	ADV	RB	Degree=Pos	10	advmod	_	_
 9	zu	zu	PART	RP	_	10	mark	_	_
 10	beenden	beenden	VERB	VB	_	4	csubj	_	SpaceAfter=No

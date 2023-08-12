@@ -25,7 +25,7 @@ The following 5 pairs of parts of speech are connected with `ccomp:relcl`: <tt><
 1	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	3	cc	_	_
 2	nulli	nullus	DET	a|a|-|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing|Polarity=Neg|PronType=Ind	3	obl:arg	_	_
 3	liceat	licet	VERB	v|v|3|s|p|s|a|-|-|-	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Subiunctivus|TraditionalTense=Praesens
-4	nolle	nolo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	3	csubj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+4	nolle	nolo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	3	csubj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 5	quod	qui	PRON	p|p|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	7	obj	_	_
 6	semel	semel	ADV	d|d|-|-|-|-|-|-|-|-	NumType=Mult	7	obl	_	_
 7	voluit	uolo	VERB	v|v|1|s|r|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	4	ccomp:relcl	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Perfectum
@@ -117,9 +117,9 @@ The following 5 pairs of parts of speech are connected with `ccomp:relcl`: <tt><
 40	ipsa	ipse	DET	p|p|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing|PronType=Dem	41	det	_	_
 41	res	res	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	43	obl	_	_
 42	capanno	capannum	NOUN	n|n|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing	43	obj	_	_
-43	levare	leuo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	46	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+43	levare	leuo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	46	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 44	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	45	cc	_	_
-45	cunciare	concieo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	43	conj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+45	cunciare	concieo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	43	conj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 46	debeam	debeo	VERB	v|v|1|s|p|s|a|-|-|-	Aspect=Imp|Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	32	acl	_	TraditionalMood=Subiunctivus|TraditionalTense=Praesens
 47	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	58	cc	_	_
 48	ego	ego	PRON	p|p|1|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	58	nsubj	_	_
@@ -129,9 +129,9 @@ The following 5 pairs of parts of speech are connected with `ccomp:relcl`: <tt><
 52	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	54	case	_	_
 53	ipsa	ipse	DET	p|p|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing|PronType=Dem	54	det	_	_
 54	capanna	capanna	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	55	obl	_	_
-55	residere	resideo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	58	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+55	residere	resideo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	58	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 56	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	57	cc	_	_
-57	habitare	habito	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	55	conj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+57	habitare	habito	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	55	conj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 58	debeamus	debeo	VERB	v|v|1|p|p|s|a|-|-|-	Aspect=Imp|Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	46	conj	_	TraditionalMood=Subiunctivus|TraditionalTense=Praesens
 59	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	70	cc	_	_
 60	capanna	capanna	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	65	obj	_	_
@@ -139,11 +139,11 @@ The following 5 pairs of parts of speech are connected with `ccomp:relcl`: <tt><
 62	res	res	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	60	conj	_	_
 63	ipsa	ipse	DET	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	62	det	_	_
 64	bene	bene	ADV	d|d|-|-|-|-|-|-|-|-	_	65	advmod	_	_
-65	lavorare	laboro	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	70	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+65	lavorare	laboro	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	70	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 66	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	67	cc	_	_
-67	gubernare	guberno	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	65	conj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+67	gubernare	guberno	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	65	conj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 68	seo	seu	CCONJ	c|c|-|-|-|-|-|-|-|-	_	69	cc	_	_
-69	meliorare	melioro	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	65	conj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+69	meliorare	melioro	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	65	conj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 70	debeamus	debeo	VERB	v|v|1|p|p|s|a|-|-|-	Aspect=Imp|Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	46	conj	_	SpaceAfter=No|TraditionalMood=Subiunctivus|TraditionalTense=Praesens
 71	;	;	PUNCT	Punc	_	29	punct	_	_
 

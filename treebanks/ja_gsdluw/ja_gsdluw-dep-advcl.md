@@ -42,7 +42,7 @@ The following 29 pairs of parts of speech are connected with `advcl`: <tt><a hre
 18	共	共	NOUN	名詞-普通名詞-一般	_	20	obl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=,共,共,共,トモ,,,トモ,トモ,共
 19	に	に	ADP	助詞-格助詞	_	18	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,に,に,に,ニ,,,ニ,ニ,に
 20	する	する	VERB	動詞-一般-サ行変格	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|SpaceAfter=No|UnidicInfo=,為る,する,する,スル,,,スル,スル,する
-21	。	。	PUNCT	補助記号-句点	_	20	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=Yes|UnidicInfo=,。,。,。,,,,,,。
+21	。	。	PUNCT	補助記号-句点	_	20	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|UnidicInfo=,。,。,。,,,,,,。
 
 ~~~
 
@@ -69,7 +69,7 @@ The following 29 pairs of parts of speech are connected with `advcl`: <tt><a hre
 14	が	が	ADP	助詞-格助詞	_	13	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,が,が,が,ガ,,,ガ,ガ,が
 15	流れ	流れる	VERB	動詞-一般-下一段-ラ行	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|SpaceAfter=No|UnidicInfo=,流れる,流れ,流れる,ナガレ,,,ナガレル,ナガレル,流れる
 16	ている	ている	AUX	助動詞-上一段-ア行	_	15	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=;,て;居る,て;いる,て;いる,テ;イル,;,;,テ;イル,テイル,ている
-17	。	。	PUNCT	補助記号-句点	_	15	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=Yes|UnidicInfo=,。,。,。,,,,,,。
+17	。	。	PUNCT	補助記号-句点	_	15	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|UnidicInfo=,。,。,。,,,,,,。
 
 ~~~
 
@@ -96,7 +96,7 @@ The following 29 pairs of parts of speech are connected with `advcl`: <tt><a hre
 14	もの	物	NOUN	名詞-普通名詞-一般	_	16	nsubj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=,物,もの,もの,モノ,,,モノ,モノ,物
 15	も	も	ADP	助詞-係助詞	_	14	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,も,も,も,モ,,,モ,モ,も
 16	いる	居る	VERB	動詞-一般-上一段-ア行	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|PrevUDLemma=いる|SpaceAfter=No|UnidicInfo=,居る,いる,いる,イル,,,イル,イル,居る
-17	。	。	PUNCT	補助記号-句点	_	16	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=Yes|UnidicInfo=,。,。,。,,,,,,。
+17	。	。	PUNCT	補助記号-句点	_	16	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|UnidicInfo=,。,。,。,,,,,,。
 
 ~~~
 

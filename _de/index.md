@@ -131,7 +131,7 @@ This is an overview only. For more detailed discussion and examples, see the lis
     between the verb and the clitic as [expl:pv](), not `compound`. Example: _wir müssen uns beeilen_ “we must hurry.”
 * In passive clauses, the subject is labeled with [nsubj:pass]() or [csubj:pass](), respectively.
   * The auxiliary verb in periphrastic passive is labeled [aux:pass]().
-  * If the demoted agent is present, it has the form of a bare instrumental phrase and its relation is labeled [obl:agent]().
+  * If the demoted agent is present, it has the form of a prepositional phrase and its relation is labeled [obl:agent]().
 
 ### Non-verbal Clauses
 

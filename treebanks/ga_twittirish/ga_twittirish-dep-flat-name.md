@@ -9,33 +9,50 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ga_twittirish-dep-flat.html">flat</a></tt>.
 There are also 1 other language-specific subtypes of `flat`: <tt><a href="ga_twittirish-dep-flat-foreign.html">flat:foreign</a></tt>.
 
-176 nodes (1%) are attached to their parents as `flat:name`.
+536 nodes (1%) are attached to their parents as `flat:name`.
 
-176 instances of `flat:name` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.39204545454545.
+536 instances of `flat:name` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.38619402985075.
 
-The following 9 pairs of parts of speech are connected with `flat:name`: <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt> (121; 69% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-PART.html">PART</a></tt> (43; 24% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt> (4; 2% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="ga_twittirish-pos-PART.html">PART</a></tt>-<tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ga_twittirish-pos-SYM.html">SYM</a></tt>-<tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 21 pairs of parts of speech are connected with `flat:name`: <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt> (350; 65% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-PART.html">PART</a></tt> (132; 25% instances), <tt><a href="ga_twittirish-pos-PART.html">PART</a></tt>-<tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt> (19; 4% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt> (8; 1% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="ga_twittirish-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-PART.html">PART</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-PART.html">PART</a></tt>-<tt><a href="ga_twittirish-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-SYM.html">SYM</a></tt>-<tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-X.html">X</a></tt>-<tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 7 flat:name	color:blue
-1	Museu	Museu	PROPN	_	_	0	root	_	Lang=ca
-2	Olímpic	Olímpic	PROPN	_	_	1	nmod	_	Lang=ca
-3	i	i	CCONJ	_	_	5	cc	_	Lang=ca
-4	de	de	ADP	_	_	5	case	_	Lang=ca
-5	l'Esport	l'Esport	PROPN	_	_	2	conj	_	Lang=ca
-6	Joan	Joan	PROPN	_	_	5	nmod	_	Lang=ca
-7	Antoni	Antoni	PROPN	_	_	6	flat:name	_	Lang=ca
-8	Samar	Samar	PROPN	_	_	6	flat:name	_	Lang=ca|SpaceAfter=No
-9	...	...	PUNCT	_	_	12	punct	_	Lang=ca
-10	OH	oh	INTJ	_	_	12	discourse	_	Lang=ca|SpaceAfter=No
-11	,	,	PUNCT	_	_	12	punct	_	Lang=ca
-12	ESPERA	ESPERA	VERB	_	_	1	parataxis	_	Lang=ca|SpaceAfter=No
-13	!	!	PUNCT	_	_	12	punct	_	Lang=ca
+# visual-style 7 9 flat:name	color:blue
+1	@user1708	@user1708	PROPN	_	_	3	vocative:mention	_	_
+2	An	a	DET	_	_	3	det	_	Lang=ga
+3	duine	duine	NOUN	_	_	0	root	_	Lang=ga
+4	is	is	PART	_	_	5	mark:prt	_	Lang=ga
+5	eirimiúla	eirimiúil	ADJ	_	_	3	amod	_	Lang=ga|SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	Doireann	Doireann	PROPN	_	_	3	appos	_	Lang=ga
+8	Ní	ní	PART	_	_	7	flat:name	_	Lang=ga
+9	Bhriain	Briain	PROPN	_	_	7	flat:name	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 8 flat:name	color:blue
+1	@user1708	@user1708	PROPN	_	_	3	vocative:mention	_	_
+2	An	a	DET	_	_	3	det	_	Lang=ga
+3	duine	duine	NOUN	_	_	0	root	_	Lang=ga
+4	is	is	PART	_	_	5	mark:prt	_	Lang=ga
+5	eirimiúla	eirimiúil	ADJ	_	_	3	amod	_	Lang=ga|SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	Doireann	Doireann	PROPN	_	_	3	appos	_	Lang=ga
+8	Ní	ní	PART	_	_	7	flat:name	_	Lang=ga
+9	Bhriain	Briain	PROPN	_	_	7	flat:name	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 
@@ -46,41 +63,17 @@ The following 9 pairs of parts of speech are connected with `flat:name`: <tt><a 
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 flat:name	color:blue
-1	Aindrias	Aindrias	PROPN	_	_	0	root	_	Lang=ga
-2	Mac	mac	PART	_	_	1	flat:name	_	Lang=ga
-3	Cruitín	cruitín	PROPN	_	_	1	flat:name	_	Lang=ga|SpaceAfter=No
-4	,	,	PUNCT	_	_	5	punct	_	_
-5	fear	fear	NOUN	_	_	1	appos	_	Lang=ga
-6	Lios	lios	PROPN	_	_	5	nmod	_	Lang=ga
-7	Ceannúir	Ceannúr	PROPN	_	_	6	nmod	_	Lang=ga|SpaceAfter=No
-8	.	.	PUNCT	_	_	1	punct	_	_
-9	http://t.co/q9xWZl5mMs	http://t.co/q9xWZl5mMs	SYM	_	_	1	parataxis:url	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 6 flat:name	color:blue
-1	@CatherineGlov	@CatherineGlov	PROPN	_	_	4	vocative:mention	_	_
-2	@JimAllister	@JimAllister	PROPN	_	_	4	vocative:mention	_	_
-3	an	an	DET	_	_	4	det	_	Lang=ga
-4	tUasal	Uasal	NOUN	_	_	0	root	_	Lang=ga
-5	Mhic	mac	PART	_	_	4	flat:name	_	Lang=ga
-6	Alastar	Alastar	PROPN	_	_	4	flat:name	_	Lang=ga
-7	ina	i	ADP	_	_	8	case	_	Lang=ga
-8	bhiogóid	biogóid	NOUN	_	_	4	nmod	_	Lang=ga
-9	frith	Gaeilge	NOUN	_	_	8	nmod	_	CorrectForm=frith-GhaeilgeLang=ga
-10	Ghaeilge	_	PROPN	_	_	9	goeswith	_	Lang=ga|SpaceAfter=No
-11	?	?	PUNCT	_	_	13	punct	_	_
-12	Ní	is	AUX	_	_	13	cop	_	Lang=ga
-13	doigh	dóigh	NOUN	_	_	4	parataxis:sentence	_	Lang=ga
-14	liom	le	ADP	_	_	13	obl:prep	_	Lang=ga
-15	é	é	PRON	_	_	13	nsubj	_	Lang=ga|SpaceAfter=No
-16	.	.	PUNCT	_	_	13	punct	_	_
+1	Uí	Uí	PART	_	_	0	root	_	Lang=ga
+2	Bhreasail	breasail	PROPN	_	_	1	flat:name	_	Lang=ga
+3	seolta	seolta	ADJ	_	_	1	xcomp:pred	_	Lang=ga
+4	ag	ag	ADP	_	_	5	case	_	Lang=ga
+5	Coláiste	coláiste	PROPN	_	_	3	obl	_	Lang=ga
+6	Lurgan	Lurgan	PROPN	_	_	5	nmod	_	Lang=ga|SpaceAfter=No
+7	...	...	PUNCT	_	_	8	punct	_	SpaceAfter=No
+8	pictiúir	pictiúr	NOUN	_	_	1	parataxis	_	Lang=ga
+9	le	le	ADP	_	_	10	case	_	Lang=ga
+10	tíocht	tíocht	NOUN	_	_	8	acl	_	Lang=ga
+11	:)	:)	SYM	_	_	1	discourse:emo	_	_
 
 ~~~
 

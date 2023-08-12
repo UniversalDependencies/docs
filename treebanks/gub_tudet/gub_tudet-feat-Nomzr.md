@@ -30,7 +30,7 @@ The most frequent other feature values with which `NOUN` and `Nomzr` co-occurred
 
 <table>
   <tr><th>Paradigm <i>ʔu</i></th><th><tt>Ag</tt></th><th><tt>Circ</tt></th><th><tt>DevPass</tt></th><th><tt>Pas</tt></th></tr>
-  <tr><td><tt><tt><a href="gub_tudet-feat-Case.html">Case</a></tt><tt>=All</tt>|<tt><a href="gub_tudet-feat-Detrans.html">Detrans</a></tt><tt>=Ind</tt></tt></td><td></td><td><em>maiʔuhawpe</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="gub_tudet-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="gub_tudet-feat-Detrans.html">Detrans</a></tt><tt>=Ind</tt></tt></td><td></td><td><em>maiʔuhawpe</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="gub_tudet-feat-Detrans.html">Detrans</a></tt><tt>=Ind</tt>|<tt><a href="gub_tudet-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="gub_tudet-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="gub_tudet-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>wamaiʔuhaw</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="gub_tudet-feat-Emph.html">Emph</a></tt><tt>=Yes</tt>|<tt><a href="gub_tudet-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="gub_tudet-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="gub_tudet-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>waʔuhawaʔi</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="gub_tudet-feat-Emph.html">Emph</a></tt><tt>=Yes</tt>|<tt><a href="gub_tudet-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="gub_tudet-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td></td><td></td><td><em>wemiʔuaʔi</em></td><td></td></tr>

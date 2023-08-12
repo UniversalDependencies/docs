@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-48 nodes (0%) are attached to their parents as `iobj`.
+57 nodes (0%) are attached to their parents as `iobj`.
 
-48 instances of `iobj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.22916666666667.
+57 instances of `iobj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.24561403508772.
 
-The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> (37; 77% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (11; 23% instances).
+The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> (43; 75% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (14; 25% instances).
 
 
 ~~~ conllu
@@ -23,28 +23,28 @@ The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 9	fgColor:white
 # visual-style 9 10 iobj	color:blue
 1	_	_	SCONJ	IN	_	3	mark	3:mark	Discourse=contingency-condition:67->68:1|Lem=*LOWER*|Len=2
-2	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	3:nsubj	Entity=(74-person-giv:act-cf1*-1-ana)|Lem=_|Len=3
+2	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	3:nsubj	Entity=(75-person-giv:act-cf1*-1-ana)|Lem=_|Len=3
 3	_	_	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	9	advcl	9:advcl:if	Lem=_|Len=4
 4	_	_	ADP	IN	_	6	case	6:case	Lem=_|Len=3
-5	_	_	DET	DT	Definite=Ind|PronType=Art	6	det	6:det	Entity=(79-organization-new-cf2-2-coref|Lem=_|Len=1
-6	_	_	NOUN	NN	Number=Sing	3	obl	3:obl:for	Entity=79)|Lem=_|Len=7|SpaceAfter=No
+5	_	_	DET	DT	Definite=Ind|PronType=Art	6	det	6:det	Entity=(80-organization-new-cf2-2-coref|Lem=_|Len=1
+6	_	_	NOUN	NN	Number=Sing	3	obl	3:obl:for	Entity=80)|Lem=_|Len=7|SpaceAfter=No
 7	_	_	PUNCT	,	_	3	punct	3:punct	Lem=_|Len=1
-8	_	_	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	nsubj	9:nsubj	Discourse=restatement-repetition_m:68->65:2|Entity=(79-organization-giv:act-cf2-1-ana)|Lem=_|Len=4
+8	_	_	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	nsubj	9:nsubj	Discourse=restatement-repetition_m:68->65:2|Entity=(80-organization-giv:act-cf2-1-ana)|Lem=_|Len=4
 9	_	_	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Lem=_|Len=3
-10	_	_	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs	9	iobj	9:iobj	Entity=(74-person-giv:act-cf1*-1-ana)|Lem=_|Len=3
-11	_	_	DET	DT	Number=Sing|PronType=Dem	12	det	12:det	Entity=(73-object-giv:act-cf3-2-coref|Lem=_|Len=4
-12	_	_	NOUN	NN	Number=Sing	9	obj	9:obj	Entity=73)|Lem=_|Len=5
+10	_	_	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs	9	iobj	9:iobj	Entity=(75-person-giv:act-cf1*-1-ana)|Lem=_|Len=3
+11	_	_	DET	DT	Number=Sing|PronType=Dem	12	det	12:det	Entity=(74-object-giv:act-cf3-2-coref|Lem=_|Len=4
+12	_	_	NOUN	NN	Number=Sing	9	obj	9:obj	Entity=74)|Lem=_|Len=5
 13	_	_	SCONJ	IN	_	15	mark	15:mark	Discourse=causal-cause:69->68:0|Lem=_|Len=7
-14	_	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	nsubj	15:nsubj	Entity=(73-object-giv:act-cf3-1-ana)|Lem=_|Len=2
+14	_	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	nsubj	15:nsubj	Entity=(74-object-giv:act-cf3-1-ana)|Lem=_|Len=2
 15	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	9:advcl:because	Lem=have|Len=3
-16	_	_	NOUN	NN	Number=Sing	15	obj	15:obj	Entity=(80-abstract-new-cf4-1-coref)|Lem=_|Len=5
+16	_	_	NOUN	NN	Number=Sing	15	obj	15:obj	Entity=(81-abstract-new-cf4-1-coref)|Lem=_|Len=5
 17	_	_	CCONJ	CC	_	20	cc	20:cc	Discourse=elaboration-additional:70->69:0|Lem=_|Len=3
-18	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	20	nsubj	20:nsubj	Entity=(74-person-giv:act-cf1*-1-ana)|Lem=_|Len=3
+18	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	20	nsubj	20:nsubj	Entity=(75-person-giv:act-cf1*-1-ana)|Lem=_|Len=3
 19	_	_	AUX	MD	VerbForm=Fin	20	aux	20:aux	Lem=_|Len=3
 20	_	_	VERB	VB	VerbForm=Inf	15	conj	9:advcl:because|15:conj:and	Lem=_|Len=3
-21	_	_	NOUN	NNS	Number=Plur	20	obj	20:obj	Entity=(81-object-new-cf5-1-sgl)|Lem=thing|Len=6
+21	_	_	NOUN	NNS	Number=Plur	20	obj	20:obj	Entity=(82-object-new-cf5-1-sgl)|Lem=thing|Len=6
 22	_	_	ADP	IN	_	23	case	23:case	Lem=_|Len=4
-23	_	_	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	20	obl	20:obl:with	Entity=(73-object-giv:act-cf3-1-ana)|Lem=_|Len=2|SpaceAfter=No
+23	_	_	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	20	obl	20:obl:with	Entity=(74-object-giv:act-cf3-1-ana)|Lem=_|Len=2|SpaceAfter=No
 24	_	_	PUNCT	.	_	9	punct	9:punct	Lem=_|Len=1
 
 ~~~

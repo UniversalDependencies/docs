@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="la_ittb-dep-cop.html">cop</a></tt>.
 
-9 nodes (0%) are attached to their parents as `cop:outer`.
+10 nodes (0%) are attached to their parents as `cop:outer`.
 
-9 instances of `cop:outer` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 6.44444444444444.
+10 instances of `cop:outer` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 6.2.
 
-The following 2 pairs of parts of speech are connected with `cop:outer`: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (8; 89% instances), <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (1; 11% instances).
+The following 3 pairs of parts of speech are connected with `cop:outer`: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (8; 80% instances), <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt>-<tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (1; 10% instances), <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (1; 10% instances).
 
 
 ~~~ conllu
@@ -39,6 +39,33 @@ The following 2 pairs of parts of speech are connected with `cop:outer`: <tt><a 
 
 
 ~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 4 cop:outer	color:blue
+1	non	non	PART	O4	Polarity=Neg	3	advmod:neg	_	_
+2	enim	enim	PART	O4	_	3	discourse	_	_
+3	potest	possum	VERB	N3|modA|tem1|gen6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
+4	esse	sum	AUX	N3|modH|tem1	VerbForm=Inf	8	cop:outer	_	_
+5	potentia	potentia	NOUN	A1|grn1|casA|gen2|vgr1	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	8	nsubj	_	_
+6	ad	ad	ADP	S4	_	8	case	_	_
+7	non	non	PART	O4	Polarity=Neg	8	advmod:neg	_	_
+8	esse	sum	AUX	N3|modH|tem1	VerbForm=Inf	3	xcomp	_	_
+9	nisi	nisi	SCONJ	O4	_	11	mark	_	_
+10	in	in	ADP	S4	_	11	case	_	_
+11	illis	ille	DET	F1|grn1|casO|gen3	Case=Abl|Gender=Neut|InflClass=LatPron|Number=Plur	3	advcl	_	_
+12	quae	qui	PRON	F1|grn1|casJ|gen3|vgr1	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Plur|PronType=Rel	13	nsubj	_	_
+13	habent	habeo	VERB	K3|modA|tem1|gen9	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	acl:relcl	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
+14	materiam	materia	NOUN	A1|grn1|casD|gen2	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	13	obj	_	_
+15	contrarietati	contrarietas	NOUN	C1|grn1|casC|gen2	Case=Dat|Gender=Fem|InflClass=IndEurX|Number=Sing	16	obl:arg	_	_
+16	subiectam	subicio	VERB	B1|grn1|casD|gen2|vgr2	Aspect=Perf|Case=Acc|Gender=Fem|InflClass=LatI2|InflClass[nominal]=IndEurA|Number=Sing|VerbForm=Part|Voice=Pass	14	acl	_	SpaceAfter=No|TraditionalMood=Participium|TraditionalTense=Perfectum
+17	:	:	PUNCT	Punc	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 19	bgColor:blue
@@ -58,7 +85,7 @@ The following 2 pairs of parts of speech are connected with `cop:outer`: <tt><a 
 12	in	in	ADP	S4	_	13	case	_	_
 13	uita	uita	NOUN	A1|grn1|casF|gen2|vgr1	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing	15	obl	_	_
 14	ista	iste	DET	F1|grn1|casF|gen2	Case=Abl|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Dem	13	det	_	_
-15	acquirere	acquiro	VERB	L3|modH|tem1	Aspect=Imp|InflClass=LatX|VerbForm=Vnoun|Voice=Act	16	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+15	acquirere	acquiro	VERB	L3|modH|tem1	Aspect=Imp|InflClass=LatX|VerbForm=Inf|Voice=Act	16	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 16	potest	possum	VERB	N3|modA|tem1|gen6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	acl:relcl	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 17	,	,	PUNCT	Punc	_	9	punct	_	_
 18	sit	sum	AUX	N3|modB|tem1|gen6	InflClass=LatAnom|Number=Sing|VerbForm=Fin	19	cop	_	_
@@ -70,7 +97,7 @@ The following 2 pairs of parts of speech are connected with `cop:outer`: <tt><a 
 24	per	per	ADP	S4	_	25	case	_	_
 25	scientias	scientia	NOUN	A1|grn1|casM|gen2	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Plur	28	obl	_	_
 26	speculatiuas	speculatiuus	ADJ	A1|grn1|casM|gen2	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Plur	25	amod	_	_
-27	haberi	habeo	VERB	K3|modQ|tem1	Aspect=Imp|InflClass=LatE|VerbForm=Vnoun|Voice=Pass	28	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+27	haberi	habeo	VERB	K3|modQ|tem1	Aspect=Imp|InflClass=LatE|VerbForm=Inf|Voice=Pass	28	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 28	potest	possum	VERB	N3|modA|tem1|gen6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	acl:relcl	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 29	.	.	PUNCT	Punc	_	1	punct	_	_
 

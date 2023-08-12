@@ -11,9 +11,9 @@ This relation is universal.
 44029 nodes (4%) are attached to their parents as `root`.
 
 44029 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.97728769674533.
+Average distance between parent and child is 3.97724227213882.
 
-The following 15 pairs of parts of speech are connected with `root`: -<tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> (36546; 83% instances), -<tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> (2622; 6% instances), -<tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> (1838; 4% instances), -<tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt> (1076; 2% instances), -<tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> (559; 1% instances), -<tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> (508; 1% instances), -<tt><a href="is_icepahc-pos-DET.html">DET</a></tt> (349; 1% instances), -<tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> (197; 0% instances), -<tt><a href="is_icepahc-pos-INTJ.html">INTJ</a></tt> (131; 0% instances), -<tt><a href="is_icepahc-pos-X.html">X</a></tt> (99; 0% instances), -<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (57; 0% instances), -<tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (38; 0% instances), -<tt><a href="is_icepahc-pos-PART.html">PART</a></tt> (7; 0% instances), -<tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt> (1; 0% instances), -<tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `root`: -<tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> (36548; 83% instances), -<tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> (2619; 6% instances), -<tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> (1838; 4% instances), -<tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt> (1075; 2% instances), -<tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> (560; 1% instances), -<tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> (508; 1% instances), -<tt><a href="is_icepahc-pos-DET.html">DET</a></tt> (350; 1% instances), -<tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> (197; 0% instances), -<tt><a href="is_icepahc-pos-INTJ.html">INTJ</a></tt> (131; 0% instances), -<tt><a href="is_icepahc-pos-X.html">X</a></tt> (99; 0% instances), -<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (57; 0% instances), -<tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (38; 0% instances), -<tt><a href="is_icepahc-pos-PART.html">PART</a></tt> (7; 0% instances), -<tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt> (1; 0% instances), -<tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -33,7 +33,7 @@ The following 15 pairs of parts of speech are connected with `root`: -<tt><a hre
 9	þykir	þykja	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	IFD_tag=sfg3en
 10	skulda	skuld	NOUN	NS-G	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	12	obl	_	IFD_tag=nven
 11	til	til	ADP	P	_	10	case	_	IFD_tag=ae
-12	bera	bera	VERB	VB	Case=Gen|Definite=Ind|Gender=Fem|Number=Plur	9	acl	_	IFD_tag=nvfe|SpaceAfter=No
+12	bera	bera	VERB	VB	VerbForm=Inf|Voice=Act	9	acl	_	IFD_tag=sng|SpaceAfter=No
 13	.	.	PUNCT	.	_	12	punct	_	IFD_tag=.
 
 ~~~

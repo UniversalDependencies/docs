@@ -8,25 +8,27 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="swl_sslc-dep-nmod.html">nmod</a></tt>.
 
-6 nodes (0%) are attached to their parents as `nmod:poss`.
+7 nodes (0%) are attached to their parents as `nmod:poss`.
 
-6 instances of `nmod:poss` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.33333333333333.
+7 instances of `nmod:poss` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.28571428571429.
 
-The following 2 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="swl_sslc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="swl_sslc-pos-PRON.html">PRON</a></tt> (5; 83% instances), <tt><a href="swl_sslc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="swl_sslc-pos-NOUN.html">NOUN</a></tt> (1; 17% instances).
+The following 2 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="swl_sslc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="swl_sslc-pos-PRON.html">PRON</a></tt> (6; 86% instances), <tt><a href="swl_sslc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="swl_sslc-pos-NOUN.html">NOUN</a></tt> (1; 14% instances).
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 1 nmod:poss	color:blue
-1	POSS1	_	PRON	PN	_	3	nmod:poss	_	_
-2	EGEN	_	ADJ	JJ	_	3	amod	_	_
-3	SPRÅK	_	NOUN	NN	_	4	obl	_	_
-4	VETA-INTE	_	VERB	VB	_	0	root	_	_
-5	PRO1	_	PRON	PN	_	4	nsubj	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 nmod:poss	color:blue
+1	VIKTIG	_	ADJ	JJ	_	6	ccomp	_	_
+2	DÖV(L)	_	NOUN	NN	_	3	compound	_	_
+3	FÖRENING	_	NOUN	NN	_	5	nmod	_	_
+4	POSS	_	PRON	PN	_	5	nmod:poss	_	_
+5	VERKSAMHET(J)^HET@b	_	NOUN	NN	_	1	nsubj	_	_
+6	TYCKA	_	VERB	VB	_	0	root	_	_
+7	PRO1	_	PRON	PN	_	6	nsubj	_	_
 
 ~~~
 
@@ -46,11 +48,11 @@ The following 2 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 7	HEJ-DÅ@g@z	_	X	G	_	3	conj	_	_
 8	EN-TILL	_	NUM	RG	_	9	nummod	_	_
 9	UNGE	_	NOUN	NN	_	11	nsubj	_	_
-10	BAKOM	_	ADP	PP	_	11	advmod	_	_
+10	BAKOM	_	ADV	AB	_	11	advmod	_	_
 11	SITTA(Vb)	_	VERB	VBAV	_	3	conj	_	_
-12	SYNS	_	VERB	VB	_	13	cop	_	_
+12	SYNS	_	AUX	VB	_	13	cop	_	_
 13	TJOCK	_	ADJ	JJ	_	9	acl:relcl	_	_
-14	OMÖJLIG	_	ADV	AB	_	16	aux	_	_
+14	OMÖJLIG	_	AUX	VB	_	16	aux	_	_
 15	SITTA(Vb)@hd	_	VERB	VBAV	_	3	conj	_	_
 16	VARELSE(Vb)+HOPPA-UPP@p	_	VERB	VBAV	_	3	conj	_	_
 17	PASSIVERAD@z	_	ADJ	JJ	_	3	conj	_	_

@@ -30,7 +30,7 @@ The following 1 pairs of parts of speech are connected with `advmod:cau`: <tt><a
 5	,	,	PUNCT	CLB	_	4	punct	_	_
 6	мейс	мейс	ADV	Adv	AdvType=Loc	8	advmod:cau	_	GTtags=Spat
 7	истя	истя	ADV	Adv	AdvType=Man	8	advmod:mmod	_	GTtags=Manner
-8	рангат	рангомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres|Valency=1	0	root	_	GTtags=IV,Ind,Prs,ScSg2|SpaceAfter=No
+8	рангат	рангомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres	0	root	_	GTtags=IV,Ind,Prs,ScSg2|SpaceAfter=No
 9	?..	?..	PUNCT	CLB	_	8	punct	_	_
 
 ~~~

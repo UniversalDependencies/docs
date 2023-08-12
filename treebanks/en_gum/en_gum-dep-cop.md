@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3039 nodes (2%) are attached to their parents as `cop`.
+3651 nodes (2%) are attached to their parents as `cop`.
 
-2969 instances of `cop` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.34879894702205.
+3571 instances of `cop` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.34291974801424.
 
-The following 14 pairs of parts of speech are connected with `cop`: <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (1273; 42% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (1188; 39% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (140; 5% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (118; 4% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (113; 4% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (107; 4% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (62; 2% instances), <tt><a href="en_gum-pos-DET.html">DET</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (13; 0% instances), <tt><a href="en_gum-pos-ADP.html">ADP</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (7; 0% instances), <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="en_gum-pos-X.html">X</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="en_gum-pos-PART.html">PART</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (2; 0% instances).
+The following 13 pairs of parts of speech are connected with `cop`: <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (1490; 41% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (1416; 39% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (159; 4% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (155; 4% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (153; 4% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (148; 4% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (84; 2% instances), <tt><a href="en_gum-pos-DET.html">DET</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (16; 0% instances), <tt><a href="en_gum-pos-ADP.html">ADP</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (10; 0% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (7; 0% instances), <tt><a href="en_gum-pos-PART.html">PART</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="en_gum-pos-X.html">X</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="en_gum-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (3; 0% instances).
 
 
 ~~~ conllu
@@ -54,22 +54,15 @@ The following 14 pairs of parts of speech are connected with `cop`: <tt><a href=
 ~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 2 cop	color:blue
-1	That	that	PRON	DT	Number=Sing|PronType=Dem	10	nsubj:outer	10:nsubj:outer	Discourse=adversative-concession:10->6:1
-2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	10:cop	SpaceAfter=No
-3	,	,	PUNCT	,	_	2	punct	2:punct	_
-4	of	of	ADV	IN	_	10	advmod	10:advmod	_
-5	course	course	NOUN	NN	Number=Sing	4	fixed	4:fixed	SpaceAfter=No
-6	,	,	PUNCT	,	_	4	punct	4:punct	_
-7	if	if	SCONJ	IN	_	10	mark	10:mark	Discourse=contingency-condition:11->10:0
-8	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	10	nsubj	10:nsubj	Entity=(9-person-giv:inact-cf1-1-ana)
-9	can	can	AUX	MD	VerbForm=Fin	10	aux	10:aux	_
-10	get	get	VERB	VB	VerbForm=Inf	0	root	0:root	_
-11	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	12:det	Entity=(18-event-new-cf2-2-sgl
-12	laugh	laugh	NOUN	NN	Number=Sing	10	obj	10:obj	Entity=18)|SpaceAfter=No
-13	.	.	PUNCT	.	_	10	punct	10:punct	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 cop	color:blue
+1	What	what	PRON	WP	PronType=Int	3	nsubj	3:nsubj	Discourse=topic-question:7->8:0
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	3:cop	_
+3	up	up	ADV	RB	Degree=Pos	0	root	0:root	_
+4	with	with	ADP	IN	_	5	case	5:case	_
+5	that	that	PRON	DT	Number=Sing|PronType=Dem	3	obl	3:obl:with	Entity=(8-event-giv:inact-cf1-1-coref)|SpaceAfter=No
+6	?	?	PUNCT	.	_	3	punct	3:punct	_
 
 ~~~
 

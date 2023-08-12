@@ -249,7 +249,7 @@ The most frequent other feature values with which `NUM` and `InflClass` co-occur
 
 The 10 most frequent relations where parent and child node agree in `InflClass`:
 <tt>ADJ --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> ADJ</tt> (194; 68%),
-<tt>DET --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> DET</tt> (64; 89%),
+<tt>DET --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> DET</tt> (64; 90%),
 <tt>PROPN --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> PROPN</tt> (41; 59%),
 <tt>DET --[<tt><a href="la_udante-dep-det.html">det</a></tt>]--> DET</tt> (38; 57%),
 <tt>ADJ --[<tt><a href="la_udante-dep-amod.html">amod</a></tt>]--> ADJ</tt> (15; 52%),
@@ -257,5 +257,5 @@ The 10 most frequent relations where parent and child node agree in `InflClass`:
 <tt>ADJ --[<tt><a href="la_udante-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (12; 67%),
 <tt>DET --[<tt><a href="la_udante-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (12; 92%),
 <tt>DET --[<tt><a href="la_udante-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (12; 57%),
-<tt>ADJ --[<tt><a href="la_udante-dep-obl-cmp.html">obl:cmp</a></tt>]--> NOUN</tt> (11; 55%).
+<tt>PRON --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> PRON</tt> (12; 80%).
 

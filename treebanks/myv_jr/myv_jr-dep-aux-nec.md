@@ -26,13 +26,13 @@ The following 1 pairs of parts of speech are connected with `aux:nec`: <tt><a hr
 1	―	―	PUNCT	PUNCT	_	5	punct	_	_
 2	Да	да	INTJ	Interj	_	5	discourse	_	GTtags=|SpaceAfter=No
 3	,	,	PUNCT	CLB	_	2	punct	_	_
-4	эряви	эрявомс	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	5	aux:nec	_	_
-5	капшамс	капшамс	VERB	V	Valency=1|VerbForm=Inf	0	root	_	GTtags=IV,Inf|SpaceAfter=No
+4	эряви	эрявомс	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres	5	aux:nec	_	_
+5	капшамс	капшамс	VERB	V	VerbForm=Inf	0	root	_	GTtags=IV,Inf|SpaceAfter=No
 6	!	!	PUNCT	CLB	_	5	punct	_	_
 7	―	―	PUNCT	PUNCT	_	10	punct	_	_
 8	кежей	кежей	ADJ	A	_	9	amod	_	_
 9	ладсо	ладсо	ADP	Adp	_	10	obl	_	_
-10	пшкадсь	пшкадемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	5	conj	_	GTtags=IV,Ind,Prt1,ScSg3
+10	пшкадсь	пшкадемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	5	conj	_	GTtags=IV,Ind,Prt1,ScSg3
 11	Ясребов	Ястребов	PROPN	PROPN	Case=Nom|Definite=Ind|NameType=Sur|Number=Sing	10	nsubj	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
 12	.	.	PUNCT	CLB	_	5	punct	_	_
 

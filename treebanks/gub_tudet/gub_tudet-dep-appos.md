@@ -26,9 +26,9 @@ The following 8 pairs of parts of speech are connected with `appos`: <tt><a href
 2	rupi	upi	ADP	posp	Rel=Cont	1	case	_	_
 3	oho	ho	VERB	vi	Person[subj]=3	0	root	_	_
 4	arapapa	arapapa	NOUN	n	_	3	obl:subj	_	_
-5	ʔɨpe	ʔɨ	NOUN	n	Case=All	3	obl	_	_
+5	ʔɨpe	ʔɨ	NOUN	n	Case=Loc	3	obl	_	_
 6	,	,	PUNCT	punct	_	7	punct	_	_
-7	ɨrɨhupe	ɨrɨk	NOUN	n	Case=All|Nomzr=DevPass	5	appos	_	_
+7	ɨrɨhupe	ɨrɨk	NOUN	n	Case=Loc|Nomzr=DevPass	5	appos	_	_
 8	.	.	PUNCT	punct	_	7	punct	_	_
 
 ~~~

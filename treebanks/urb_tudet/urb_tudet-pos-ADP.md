@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Kaapor-TuDeT: POS Tags: `ADP`
 
 There are 4 `ADP` lemmas (2%), 5 `ADP` types (2%) and 9 `ADP` tokens (2%).
-Out of 13 observed tags, the rank of `ADP` is: 7 in number of lemmas, 7 in number of types and 7 in number of tokens.
+Out of 14 observed tags, the rank of `ADP` is: 7 in number of lemmas, 7 in number of types and 7 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>pe, ehe, rehe, riki</em>
 
@@ -32,7 +32,7 @@ The 10 most frequent ambiguous types:  <em>pe</em> (<tt><a href="urb_tudet-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.250000 (the average of all parts of speech is 1.160000).
+The form / lemma ratio of `ADP` is 1.250000 (the average of all parts of speech is 1.154229).
 
 The 1st highest number of forms (2) was observed with the lemma “ehe”: <em>ehe, rehe</em>.
 

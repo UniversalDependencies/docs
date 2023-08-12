@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Jana Strnadová, Gauthier Caron, Martin Popel, Daniel Zeman, Marie-Catherine de Marneffe, Bruno Guillaume.
 
 Repository: [UD_French-PUD](https://github.com/UniversalDependencies/UD_French-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_pud211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_pud212)<br />
+Download all treebanks: [UD 2.12](/#download)
 
 License: CC BY-SA 3.0
 
@@ -127,7 +127,7 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
-<li>This corpus contains 25 lemmas tagged as pronouns (PRON): aucun, ce, ceci, cela, celui, certain, en, il, le, lequel, lui, lui-même, on, personne, que, quelqu'un, qui, quoi, rien, se, sienne, soi, un, y, ça</li>
+<li>This corpus contains 26 lemmas tagged as pronouns (PRON): aucun, ce, ceci, cela, celui, certain, en, il, le, lequel, lui, lui-même, on, où, personne, que, quelqu'un, qui, quoi, rien, se, sienne, soi, un, y, ça</li>
 </ul>
 
 <ul>
@@ -190,7 +190,6 @@ employ ten-fold cross-validation.
     <ul>
       <li>ADJ: première, grande, nouvelle, dernière, dernières, plusieurs, nombreuses, nouvelles, autres, deuxième</li>
       <li>ADJ-Part: issues, ouverte</li>
-      <li>ADP: dont</li>
       <li>DET: la, les, une, l', l’, sa, des, cette, leur, ses</li>
       <li>NOUN: années, guerre, partie, ville, année, fois, mer, personnes, région, histoire</li>
       <li>PRON: elle, se, s', elles, s’, l', laquelle, celle, lesquelles, lui</li>
@@ -205,7 +204,6 @@ employ ten-fold cross-validation.
     <ul>
       <li>ADJ: autres, grand, dernier, derniers, général, nouveaux, plusieurs, certains, nouveau, chaque</li>
       <li>ADJ-Part: issu, issus</li>
-      <li>ADP: dont, au-delà</li>
       <li>AUX-Part: été, fait</li>
       <li>DET: le, les, un, l', des, l’, son, ce, ses, ces</li>
       <li>NOUN: ans, nord, état, gouvernement, siècle, jour, monde, pays, sud, temps</li>
@@ -228,7 +226,6 @@ employ ten-fold cross-validation.
     <ul>
       <li>ADJ: autres, plusieurs, derniers, nouveaux, dernières, certains, nombreuses, nouvelles, nombreux, quelques</li>
       <li>ADJ-Part: issues, issus</li>
-      <li>ADP: dont</li>
       <li>AUX-Fin: ont, sont, avaient, étaient, furent, aient, auraient, avons, sommes, soient</li>
       <li>DET: les, des, ses, ces, de, leurs, d', nos, d’, mes</li>
       <li>NOUN: années, ans, personnes, millions, entreprises, dollars, jours, euros, femmes, gens</li>
@@ -246,7 +243,6 @@ employ ten-fold cross-validation.
     <ul>
       <li>ADJ: première, chaque, grand, grande, nouvelle, britannique, dernier, dernière, autre, deuxième</li>
       <li>ADJ-Part: issu, ouverte</li>
-      <li>ADP: dont, au-delà</li>
       <li>AUX-Fin: a, est, était, avait, fut, ai, soit, aurait, serait, sera</li>
       <li>AUX-Part: été, fait</li>
       <li>DET: le, la, l', un, une, l’, son, sa, cette, leur</li>
@@ -427,7 +423,7 @@ employ ten-fold cross-validation.
   <li>Int
     <ul>
       <li>DET: quelle</li>
-      <li>PRON: qui, quoi, que, lequel</li>
+      <li>PRON: qui, quoi, où, que</li>
     </ul>
   </li>
 </ul>
@@ -453,7 +449,7 @@ employ ten-fold cross-validation.
 <ul>
   <li>Rel
     <ul>
-      <li>PRON: qui, que, qu', laquelle, lesquelles, lequel, qu’</li>
+      <li>PRON: qui, où, que, qu', laquelle, lequel, lesquelles, qu’</li>
     </ul>
   </li>
 </ul>
@@ -576,6 +572,7 @@ employ ten-fold cross-validation.
       <li>Yes
         <ul>
           <li>ADV: aujourd</li>
+          <li>CCONJ: où</li>
           <li>DET: e, sar</li>
           <li>NOUN: Porte-d’</li>
           <li>NUM: XVIII</li>
@@ -628,9 +625,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--PRON (14)</li>
+      <li>VERB-Fin--PRON (17)</li>
       <li>VERB-Inf--PRON (5)</li>
-      <li>VERB-Part--PRON (16)</li>
+      <li>VERB-Part--PRON (17)</li>
     </ul>
   </li>
 </ul>

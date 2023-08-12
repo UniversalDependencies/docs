@@ -23,7 +23,7 @@ The most frequent other feature values with which `VERB` and `Reflex` co-occurre
 `VERB` tokens may have the following values of `Reflex`:
 
 * `Yes` (213; 100% of non-empty `Reflex`): <em>вступаться, родитца, учинилась, бранитися, радоватисꙗ, доведется, дожидаясь, смилуйся, ꙋчинит, возвесели(м)сꙗ</em>
-* `EMPTY` (3930): <em>смерено, взято, принето, велѣно, привез, велѣлъ, сказал, велено, бьет, велет(ь)</em>
+* `EMPTY` (3929): <em>смерено, взято, принето, велѣно, привез, велѣлъ, сказал, велено, бьет, велет(ь)</em>
 
 `Reflex` seems to be **lexical feature** of `VERB`. 100% lemmas (125) occur only with one value of `Reflex`.
 

@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>Ka</em> (<tt><a href="krl_kkpp-pos-CC
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.497382).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.495298).
 
 The 1st highest number of forms (1) was observed with the lemma “ka”: <em>Ka</em>.
 

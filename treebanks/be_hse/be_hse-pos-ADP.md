@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Belarusian-HSE: POS Tags: `ADP`
 
-There are 111 `ADP` lemmas (0%), 137 `ADP` types (0%) and 29672 `ADP` tokens (10%).
+There are 110 `ADP` lemmas (0%), 136 `ADP` types (0%) and 29671 `ADP` tokens (10%).
 Out of 17 observed tags, the rank of `ADP` is: 9 in number of lemmas, 11 in number of types and 4 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>у, на, з, за, да, пра, па, ад, для, пасля</em>
 
 The 10 most frequent `ADP` types:  <em>у, ў, на, з, за, да, пра, па, ад, для</em>
 
-The 10 most frequent ambiguous lemmas: <em>у</em> (<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> 10164, <tt><a href="be_hse-pos-X.html">X</a></tt> 3, <tt><a href="be_hse-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> 1), <em>на</em> (<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> 4898, <tt><a href="be_hse-pos-X.html">X</a></tt> 1), <em>з</em> (<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> 4264, <tt><a href="be_hse-pos-X.html">X</a></tt> 1), <em>за</em> (<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> 1507, <tt><a href="be_hse-pos-ADV.html">ADV</a></tt> 1, <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> 1), <em>да</em> (<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> 1373, <tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="be_hse-pos-PART.html">PART</a></tt> 3), <em>для</em> (<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> 673, <tt><a href="be_hse-pos-X.html">X</a></tt> 7), <em>пасля</em> (<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> 361, <tt><a href="be_hse-pos-ADV.html">ADV</a></tt> 18), <em>супраць</em> (<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> 206, <tt><a href="be_hse-pos-ADV.html">ADV</a></tt> 4, <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> 4), <em>а</em> (<tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> 1177, <tt><a href="be_hse-pos-ADP.html">ADP</a></tt> 190, <tt><a href="be_hse-pos-X.html">X</a></tt> 11, <tt><a href="be_hse-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> 2), <em>вакол</em> (<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> 36, <tt><a href="be_hse-pos-ADV.html">ADV</a></tt> 3)
+The 10 most frequent ambiguous lemmas: <em>у</em> (<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> 10164, <tt><a href="be_hse-pos-X.html">X</a></tt> 3, <tt><a href="be_hse-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> 1), <em>на</em> (<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> 4898, <tt><a href="be_hse-pos-X.html">X</a></tt> 1), <em>з</em> (<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> 4264, <tt><a href="be_hse-pos-X.html">X</a></tt> 1), <em>за</em> (<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> 1507, <tt><a href="be_hse-pos-ADV.html">ADV</a></tt> 1, <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> 1), <em>да</em> (<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> 1373, <tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="be_hse-pos-PART.html">PART</a></tt> 3), <em>для</em> (<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> 673, <tt><a href="be_hse-pos-X.html">X</a></tt> 7), <em>пасля</em> (<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> 361, <tt><a href="be_hse-pos-ADV.html">ADV</a></tt> 18), <em>супраць</em> (<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> 206, <tt><a href="be_hse-pos-ADV.html">ADV</a></tt> 4, <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> 4), <em>а</em> (<tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> 1177, <tt><a href="be_hse-pos-ADP.html">ADP</a></tt> 190, <tt><a href="be_hse-pos-X.html">X</a></tt> 11, <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="be_hse-pos-INTJ.html">INTJ</a></tt> 1), <em>вакол</em> (<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> 36, <tt><a href="be_hse-pos-ADV.html">ADV</a></tt> 3)
 
 The 10 most frequent ambiguous types:  <em>ў</em> (<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> 4923, <tt><a href="be_hse-pos-X.html">X</a></tt> 2), <em>на</em> (<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> 4406, <tt><a href="be_hse-pos-X.html">X</a></tt> 1), <em>з</em> (<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> 3396, <tt><a href="be_hse-pos-X.html">X</a></tt> 1), <em>да</em> (<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> 1273, <tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="be_hse-pos-PART.html">PART</a></tt> 1), <em>для</em> (<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> 609, <tt><a href="be_hse-pos-X.html">X</a></tt> 7), <em>пасьля</em> (<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> 168, <tt><a href="be_hse-pos-ADV.html">ADV</a></tt> 9), <em>супраць</em> (<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> 194, <tt><a href="be_hse-pos-ADV.html">ADV</a></tt> 4, <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> 4), <em>а</em> (<tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> 731, <tt><a href="be_hse-pos-ADP.html">ADP</a></tt> 173, <tt><a href="be_hse-pos-X.html">X</a></tt> 9, <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> 1), <em>пасля</em> (<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> 97, <tt><a href="be_hse-pos-ADV.html">ADV</a></tt> 7), <em>дзякуючы</em> (<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> 33, <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> 1)
 
@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>ў</em> (<tt><a href="be_hse-pos-ADP.
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.234234 (the average of all parts of speech is 1.754875).
+The form / lemma ratio of `ADP` is 1.236364 (the average of all parts of speech is 1.756638).
 
 The 1st highest number of forms (7) was observed with the lemma “у”: <em>y, ý, в, ва, у, ува, ў</em>.
 
@@ -63,7 +63,7 @@ The 2nd highest number of forms (5) was observed with the lemma “з”: <em>3,
 
 The 3rd highest number of forms (4) was observed with the lemma “без”: <em>без, безь, бяз, бязь</em>.
 
-`ADP` occurs with 2 features: <tt><a href="be_hse-feat-Degree.html">Degree</a></tt> (4; 0% instances), <tt><a href="be_hse-feat-Typo.html">Typo</a></tt> (3; 0% instances)
+`ADP` occurs with 2 features: <tt><a href="be_hse-feat-Degree.html">Degree</a></tt> (3; 0% instances), <tt><a href="be_hse-feat-Typo.html">Typo</a></tt> (3; 0% instances)
 
 `ADP` occurs with 2 feature-value pairs: `Degree=Pos`, `Typo=Yes`
 
@@ -74,11 +74,11 @@ Examples: <em>у, ў, на, з, за, да, пра, па, ад, для</em>
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 10 different relations: <tt><a href="be_hse-dep-case.html">case</a></tt> (29440; 99% instances), <tt><a href="be_hse-dep-fixed.html">fixed</a></tt> (200; 1% instances), <tt><a href="be_hse-dep-parataxis.html">parataxis</a></tt> (8; 0% instances), <tt><a href="be_hse-dep-mark.html">mark</a></tt> (7; 0% instances), <tt><a href="be_hse-dep-cc.html">cc</a></tt> (6; 0% instances), <tt><a href="be_hse-dep-conj.html">conj</a></tt> (5; 0% instances), <tt><a href="be_hse-dep-dep.html">dep</a></tt> (3; 0% instances), <tt><a href="be_hse-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="be_hse-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="be_hse-dep-dislocated.html">dislocated</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 10 different relations: <tt><a href="be_hse-dep-case.html">case</a></tt> (29439; 99% instances), <tt><a href="be_hse-dep-fixed.html">fixed</a></tt> (200; 1% instances), <tt><a href="be_hse-dep-parataxis.html">parataxis</a></tt> (8; 0% instances), <tt><a href="be_hse-dep-mark.html">mark</a></tt> (7; 0% instances), <tt><a href="be_hse-dep-cc.html">cc</a></tt> (6; 0% instances), <tt><a href="be_hse-dep-conj.html">conj</a></tt> (5; 0% instances), <tt><a href="be_hse-dep-dep.html">dep</a></tt> (3; 0% instances), <tt><a href="be_hse-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="be_hse-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="be_hse-dep-dislocated.html">dislocated</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 13 different parts of speech: <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (21160; 71% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> (4538; 15% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (1974; 7% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (707; 2% instances), <tt><a href="be_hse-pos-NUM.html">NUM</a></tt> (389; 1% instances), <tt><a href="be_hse-pos-X.html">X</a></tt> (378; 1% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt> (166; 1% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (121; 0% instances), <tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (94; 0% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (76; 0% instances), <tt><a href="be_hse-pos-SYM.html">SYM</a></tt> (61; 0% instances), <tt><a href="be_hse-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances)
+Parents of `ADP` nodes belong to 13 different parts of speech: <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (21191; 71% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> (4505; 15% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (1975; 7% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (707; 2% instances), <tt><a href="be_hse-pos-NUM.html">NUM</a></tt> (389; 1% instances), <tt><a href="be_hse-pos-X.html">X</a></tt> (379; 1% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt> (165; 1% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (121; 0% instances), <tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (94; 0% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (76; 0% instances), <tt><a href="be_hse-pos-SYM.html">SYM</a></tt> (61; 0% instances), <tt><a href="be_hse-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances)
 
-29455 (99%) `ADP` nodes are leaves.
+29454 (99%) `ADP` nodes are leaves.
 
 92 (0%) `ADP` nodes have one child.
 

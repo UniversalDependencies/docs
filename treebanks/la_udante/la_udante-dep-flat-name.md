@@ -28,7 +28,7 @@ The following 3 pairs of parts of speech are connected with `flat:name`: <tt><a 
 3	a	a	ADP	e	_	5	mark	_	_
 4	proprio	proprius	ADJ	ans1b	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	5	amod	_	_
 5	poetando	poetor	VERB	va1fgb	Aspect=Prosp|Case=Abl|Gender=Neut|InflClass=LatA|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass	6	obl:arg	_	TraditionalMood=Gerundium
-6	divertisse	diuerto	VERB	va3fr	Aspect=Perf|VerbForm=Vnoun|Voice=Act	7	ccomp	_	TraditionalMood=Infinitivus|TraditionalTense=Perfectum
+6	divertisse	diuerto	VERB	va3fr	Aspect=Perf|VerbForm=Inf|Voice=Act	7	ccomp	_	TraditionalMood=Infinitivus|TraditionalTense=Perfectum
 7	audivimus	audio	VERB	va4irp1	Aspect=Perf|InflClass=LatI|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Perfectum
 8	,	,	PUNCT	Pu	_	9	punct	_	_
 9	Thomam	thomas	PROPN	Sms1a	Case=Acc|Gender=Masc|InflClass=IndEurA|NameType=Giv|Number=Sing	7	conj:expl	_	_
@@ -52,7 +52,7 @@ The following 3 pairs of parts of speech are connected with `flat:name`: <tt><a 
 1	Desinant	desino	VERB	va3cpp3	Aspect=Imp|InflClass=LatX|Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Subiunctivus|TraditionalTense=Praesens
 2	igitur	igitur	PART	r	_	1	discourse	_	_
 3	Imperium	imperium	NOUN	sns2a	Case=Acc|Gender=Neut|InflClass=IndEurO|NameType=Com|Number=Sing|Proper=Yes	4	obj	_	_
-4	exprobrare	exprobro	VERB	va1fp	Aspect=Imp|VerbForm=Vnoun|Voice=Act	1	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+4	exprobrare	exprobro	VERB	va1fp	Aspect=Imp|VerbForm=Inf|Voice=Act	1	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 5	romanum	romanus	ADJ	ans1a	Case=Acc|Gender=Neut|InflClass=IndEurO|NameType=Nat|Number=Sing	3	amod	_	_
 6	qui	qui	PRON	prepmn	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Plur|PronType=Rel	10	nsubj	_	_
 7	se	sui	PRON	ppp3pma	Case=Acc|InflClass=LatAnom|Person=3|PronType=Prs|Reflex=Yes	10	obj	_	_
@@ -71,7 +71,7 @@ The following 3 pairs of parts of speech are connected with `flat:name`: <tt><a 
 20	termino	terminus	NOUN	sms2b	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Sing	23	obl	_	_
 21	sue	suus	DET	dsfsg	Case=Gen|Gender=Fem|InflClass=IndEurA|Number=Sing|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes	22	det	_	_
 22	militie	militia	NOUN	sfs1g	Case=Gen|Gender=Fem|InflClass=IndEurA|Number=Sing	20	nmod	_	_
-23	comprobasse	comprobo	VERB	va1xfr	Aspect=Perf|VerbForm=Vnoun|Voice=Act	13	ccomp	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Perfectum
+23	comprobasse	comprobo	VERB	va1xfr	Aspect=Perf|VerbForm=Inf|Voice=Act	13	ccomp	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Perfectum
 24	.	.	PUNCT	Pu	_	1	punct	_	_
 
 ~~~
@@ -131,8 +131,8 @@ The following 3 pairs of parts of speech are connected with `flat:name`: <tt><a 
 46	optime	bene	ADV	rs	Degree=Abs	48	advmod	_	_
 47	se	sui	PRON	ppp3sna	Case=Acc|InflClass=LatAnom|Person=3|PronType=Prs|Reflex=Yes	48	obj	_	_
 48	habet	habeo	VERB	va2ips3	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
-49	,	,	PUNCT	Pu	_	50	punct	_	_
-50	quando	quando	ADV	r	AdvType=Tim|PronType=Rel	48	advmod:tmod	_	_
+49	,	,	PUNCT	Pu	_	71	punct	_	_
+50	quando	quando	ADV	r	AdvType=Tim|PronType=Rel	71	advmod:tmod	_	_
 51	ab	ab	ADP	e	_	53	case	_	_
 52	unico	unicus	ADJ	ams1b	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Sing	53	amod	_	_
 53	principe	princeps	NOUN	sms3b	Case=Abl|Compound=Yes|Gender=Masc|InflClass=IndEurX|Number=Sing	71	obl:arg	_	_
@@ -153,7 +153,7 @@ The following 3 pairs of parts of speech are connected with `flat:name`: <tt><a 
 68	motoribus	motor	NOUN	smp3b	Case=Abl|Gender=Masc|InflClass=IndEurX|Number=Plur	71	obl:arg	_	_
 69	et	et	CCONJ	co	_	70	cc	_	_
 70	motibus	motus	NOUN	smp4b	Case=Abl|Gender=Masc|InflClass=IndEurU|Number=Plur	68	conj	_	_
-71	reguletur	regulo	VERB	vp1cps3	Aspect=Imp|InflClass=LatA|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	50	acl:relcl	_	SpaceAfter=No|TraditionalMood=Subiunctivus|TraditionalTense=Praesens
+71	reguletur	regulo	VERB	vp1cps3	Aspect=Imp|InflClass=LatA|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	48	advcl:relcl	_	SpaceAfter=No|TraditionalMood=Subiunctivus|TraditionalTense=Praesens
 72	.	.	PUNCT	Pu	_	48	punct	_	_
 
 ~~~

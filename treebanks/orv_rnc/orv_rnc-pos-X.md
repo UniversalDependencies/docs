@@ -13,7 +13,7 @@ The 10 most frequent `X` lemmas: <em>_, sic, </i>, <i>, {л._219}, </em>, <em>, 
 
 The 10 most frequent `X` types:  <em>л., [sic], </i>, <i>, {л._219}, {л._300}, {л._301_об.}, {л._302_об.}, {л._302}, 1</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="orv_rnc-pos-X.html">X</a></tt> 48, <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> 15, <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="orv_rnc-pos-X.html">X</a></tt> 48, <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>л.</em> (<tt><a href="orv_rnc-pos-X.html">X</a></tt> 12, <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> 11), <em>1</em> (<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 7, <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 6, <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1), <em>10</em> (<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 45, <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 7, <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1), <em>11</em> (<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 14, <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 8, <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1), <em>12</em> (<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 25, <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 9, <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1), <em>13</em> (<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 6, <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1), <em>14</em> (<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 3, <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1), <em>15</em> (<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 12, <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1), <em>3</em> (<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 157, <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 1, <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1), <em>6</em> (<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 43, <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1)
 
@@ -61,7 +61,7 @@ The 10 most frequent ambiguous types:  <em>л.</em> (<tt><a href="orv_rnc-pos-X.
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.210526 (the average of all parts of speech is 1.991385).
+The form / lemma ratio of `X` is 1.210526 (the average of all parts of speech is 1.988362).
 
 The 1st highest number of forms (37) was observed with the lemma “_”: <em>1, 10, 11, 12, 13, 14, 15, 3, 6, 7, 8, 9, {л._1_об.}, {л._254_об.}, {л._255_об.}, {л._255}, {л._256}, {л._300_об.}, {л._300}, {л._301_об.}, {л._302_об.}, {л._302}, {л._303}, {л._304_об.}, {л._304}, {л._305}, {л._306_об.}, {л._3}, {л._41}, {л._4}, {л._5}, {л._602_об.}, {л._602}, Помета, ж, л., об.</em>.
 

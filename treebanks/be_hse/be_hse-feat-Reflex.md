@@ -10,8 +10,8 @@ This feature is universal.
 It occurs with 1 different values: `Yes`.
 
 982 tokens (0%) have a non-empty value of `Reflex`.
-33 types (0%) occur at least once with a non-empty value of `Reflex`.
-8 lemmas (0%) occur at least once with a non-empty value of `Reflex`.
+32 types (0%) occur at least once with a non-empty value of `Reflex`.
+7 lemmas (0%) occur at least once with a non-empty value of `Reflex`.
 The feature is used with 2 part-of-speech tags: <tt><a href="be_hse-pos-DET.html">DET</a></tt> (767; 0% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (215; 0% instances).
 
 ### `DET`
@@ -23,7 +23,7 @@ The most frequent other feature values with which `DET` and `Reflex` co-occurred
 `DET` tokens may have the following values of `Reflex`:
 
 * `Yes` (767; 100% of non-empty `Reflex`): <em>свой, сваю, свае, сваёй, сваіх, сваім, сваё, свайго, сваімі, свая</em>
-* `EMPTY` (5964): <em>яго, гэты, наш, яе, іх, той, тым, нашай, кожны, усе</em>
+* `EMPTY` (5963): <em>яго, гэты, наш, яе, іх, тым, той, нашай, кожны, усе</em>
 
 ### `PRON`
 
@@ -33,6 +33,6 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 
 `PRON` tokens may have the following values of `Reflex`:
 
-* `Yes` (215; 100% of non-empty `Reflex`): <em>сябе, сабе, сабой, сабою, душою</em>
-* `EMPTY` (10112): <em>мы, гэта, што, я, ён, якія, які, хто, яны, вы</em>
+* `Yes` (215; 100% of non-empty `Reflex`): <em>сябе, сабе, сабой, сабою</em>
+* `EMPTY` (10108): <em>мы, гэта, што, я, ён, якія, які, хто, яны, вы</em>
 

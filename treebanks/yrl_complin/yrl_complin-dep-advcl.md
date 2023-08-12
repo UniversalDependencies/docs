@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Nheengatu-CompLin: Relations: `advcl`
 
 This relation is universal.
+There are 1 language-specific subtypes of `advcl`: <tt><a href="yrl_complin-dep-advcl-relcl.html">advcl:relcl</a></tt>.
 
-48 nodes (2%) are attached to their parents as `advcl`.
+190 nodes (2%) are attached to their parents as `advcl`.
 
-29 instances of `advcl` (60%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.
+110 instances of `advcl` (58%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.85789473684211.
 
-The following 6 pairs of parts of speech are connected with `advcl`: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (42; 88% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (1; 2% instances).
+The following 11 pairs of parts of speech are connected with `advcl`: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (156; 82% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (9; 5% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (7; 4% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (5; 3% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (4; 2% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="yrl_complin-pos-PART.html">PART</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -37,51 +38,45 @@ The following 6 pairs of parts of speech are connected with `advcl`: <tt><a href
 ~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 advcl	color:blue
-1	Ti	ti	PART	NEG	PartType=Neg|Polarity=Neg	2	advmod	_	TokenRange=0:2
-2	mayé	mayé	ADV	ADV	_	0	root	_	TokenRange=3:7
-3	ayuká	yuká	VERB	V	Number=Sing|Person=1|VerbForm=Fin	2	advcl	_	TokenRange=8:13
-4	arama	arama	SCONJ	SCONJ	_	3	mark	_	TokenRange=14:19
-5	kwá	kwá	DET	DEMX	Deixis=Prox|Number=Sing|PronType=Dem	6	det	_	TokenRange=20:23
-6	buya	buya	NOUN	N	Number=Sing	3	obj	_	SpaceAfter=No|TokenRange=24:28
-7	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=28:29
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 3 advcl	color:blue
+1	Mairamé	mairamé	SCONJ	SCONJR	_	3	mark	_	TokenRange=0:7
+2	kurí	kurí	PART	FUT	Tense=Fut	3	advmod	_	TokenRange=8:12
+3	bũa	bũa	ADJ	A	_	8	advcl	_	SpaceAfter=No|TokenRange=13:16
+4	,	,	PUNCT	PUNCT	_	8	punct	_	TokenRange=16:17
+5	ixé	ixé	PRON	PRON	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	TokenRange=18:21
+6	asú	sú	AUX	AUXFR	Number=Sing|Person=1|VerbForm=Fin	8	aux	_	TokenRange=22:25
+7	kurí	kurí	PART	FUT	Tense=Fut	8	advmod	_	TokenRange=26:30
+8	ayuká	yuká	VERB	V	Number=Sing|Person=1|VerbForm=Fin	0	root	_	TokenRange=31:36
+9	indé	indé	PRON	PRON	Number=Sing|Person=2|PronType=Prs	8	iobj	_	TokenRange=37:41
+10	arama	arama	PART	FUT	Tense=Fut	8	advmod	_	TokenRange=42:47
+11	kwá	kwá	DET	DEMX	Deixis=Prox|Number=Sing|PronType=Dem	12	det	_	TokenRange=48:51
+12	tukunaré	tukunaré	NOUN	N	Number=Sing	8	obj	_	SpaceAfter=No|TokenRange=52:60
+13	.	.	PUNCT	PUNCT	_	8	punct	_	SpaceAfter=No|TokenRange=60:61
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 22	bgColor:blue
-# visual-style 22	fgColor:white
-# visual-style 21	bgColor:blue
-# visual-style 21	fgColor:white
-# visual-style 21 22 advcl	color:blue
-1	Kuxiíma	kuxiíma	ADV	ADV	_	5	advmod	_	TokenRange=0:7
-2	paá	paá	PART	RPRT	Evident=Nfh|PartType=Mod	5	advmod	_	TokenRange=8:11
-3	anhuantẽ	anhuantẽ	ADV	ADV	_	5	advmod	_	TokenRange=12:20
-4	paá	paá	PART	RPRT	Evident=Nfh|PartType=Mod	5	advmod	_	TokenRange=21:24
-5	aikwé	aikwé	PART	EXST	_	0	root	_	TokenRange=25:30
-6	ara	ara	NOUN	N	Number=Sing	5	nsubj	_	SpaceAfter=No|TokenRange=31:34
-7	,	,	PUNCT	PUNCT	_	9	punct	_	TokenRange=34:35
-8	ti	ti	PART	NEG	PartType=Neg|Polarity=Neg	9	advmod	_	TokenRange=36:38
-9	yamaã	maã	VERB	V	Number=Plur|Person=1|VerbForm=Fin	5	parataxis	_	TokenRange=39:44
-10	pituna	pituna	NOUN	N	Number=Sing	9	obj	_	SpaceAfter=No|TokenRange=45:51
-11	,	,	PUNCT	PUNCT	_	18	punct	_	TokenRange=51:52
-12	mira-itá	mira	NOUN	N	Number=Plur	18	nsubj	_	TokenRange=53:61
-13	ta	ta	PRON	PRON	Number=Plur|Person=3|PronType=Prs	18	expl	_	TokenRange=62:64
-14	uputari	putari	AUX	AUXN	Person=3|VerbForm=Fin	18	aux	_	TokenRange=65:72
-15	paá	paá	PART	RPRT	Evident=Nfh|PartType=Mod	18	advmod	_	TokenRange=73:76
-16	yepé	yepé	PART	FRUST	Aspect=Frus	18	advmod	_	TokenRange=77:81
-17	ta	ta	PRON	PRON	Number=Plur|Person=3|PronType=Prs	18	expl	_	TokenRange=82:84
-18	ukiri	kiri	VERB	V	Person=3|VerbForm=Fin	9	parataxis	_	SpaceAfter=No|TokenRange=85:90
-19	,	,	PUNCT	PUNCT	_	18	punct	_	TokenRange=90:91
-20	ti	ti	PART	NEG	PartType=Neg|Polarity=Neg	21	advmod	_	TokenRange=92:94
-21	mayé	mayé	ADV	ADV	_	18	parataxis	_	TokenRange=95:99
-22	ra	ra	SCONJ	SCONJ	_	21	advcl	_	SpaceAfter=No|TokenRange=100:102
-23	,	,	PUNCT	PUNCT	_	18	punct	_	TokenRange=102:103
-24	[...]	[...]	PUNCT	ELIP	PunctType=Elip	5	punct	_	SpaceAfter=No|TokenRange=104:109
-25	.	.	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No|TokenRange=109:110
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 11 advcl	color:blue
+1	Eré	eré	PART	CONS	PartType=Mod|Polarity=Pos	7	advmod	_	SpaceAfter=No|TokenRange=0:3
+2	,	,	PUNCT	PUNCT	_	5	punct	_	TokenRange=3:4
+3	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	_	TokenRange=5:7
+4	mú	mú	NOUN	N	Number=Sing	5	nmod:poss	_	TokenRange=8:10
+5	mirĩ-itá	mirĩ	NOUN	N	Number=Plur	7	vocative	_	SpaceAfter=No|TokenRange=11:19
+6	,	,	PUNCT	PUNCT	_	5	punct	_	TokenRange=19:20
+7	yasú	sú	VERB	V	Number=Plur|Person=1|VerbForm=Fin	0	root	_	TokenRange=21:25
+8	ana	ana	PART	PFV	Aspect=Perf	7	advmod	_	TokenRange=26:29
+9	iwaka	iwaka	NOUN	N	Number=Sing	7	obl	_	TokenRange=30:35
+10	kití	kití	ADP	ADP	_	9	case	_	TokenRange=36:40
+11	yasitatá	yasitatá	NOUN	N	Number=Sing	7	advcl	_	TokenRange=41:49
+12	arama	arama	SCONJ	SCONJ	_	11	mark	_	SpaceAfter=No|TokenRange=50:55
+13	.	.	PUNCT	PUNCT	_	7	punct	_	SpaceAfter=No|TokenRange=55:56
 
 ~~~
 

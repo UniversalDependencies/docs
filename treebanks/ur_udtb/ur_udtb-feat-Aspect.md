@@ -217,6 +217,5 @@ The most frequent other feature values with which `PROPN` and `Aspect` co-occurr
 The 10 most frequent relations where parent and child node agree in `Aspect`:
 <tt>VERB --[<tt><a href="ur_udtb-dep-conj.html">conj</a></tt>]--> VERB</tt> (423; 51%),
 <tt>ADJ --[<tt><a href="ur_udtb-dep-compound.html">compound</a></tt>]--> ADJ</tt> (2; 67%),
-<tt>PRON --[<tt><a href="ur_udtb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<tt><a href="ur_udtb-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1; 100%).
+<tt>PRON --[<tt><a href="ur_udtb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1; 100%).
 

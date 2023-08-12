@@ -9,16 +9,16 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-4274 tokens (64%) have a non-empty value of `Number`.
+4276 tokens (64%) have a non-empty value of `Number`.
 1395 types (83%) occur at least once with a non-empty value of `Number`.
 1341 lemmas (82%) occur at least once with a non-empty value of `Number`.
-The feature is used with 14 part-of-speech tags: <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (1628; 24% instances), <tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt> (579; 9% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> (546; 8% instances), <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt> (393; 6% instances), <tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt> (277; 4% instances), <tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt> (276; 4% instances), <tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (222; 3% instances), <tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt> (111; 2% instances), <tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> (99; 1% instances), <tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt> (93; 1% instances), <tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> (41; 1% instances), <tt><a href="bho_bhtb-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="bho_bhtb-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), <tt><a href="bho_bhtb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The feature is used with 14 part-of-speech tags: <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (1628; 24% instances), <tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt> (579; 9% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> (546; 8% instances), <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt> (395; 6% instances), <tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt> (277; 4% instances), <tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt> (276; 4% instances), <tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (222; 3% instances), <tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt> (111; 2% instances), <tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> (99; 1% instances), <tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt> (93; 1% instances), <tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> (41; 1% instances), <tt><a href="bho_bhtb-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="bho_bhtb-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), <tt><a href="bho_bhtb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
 1628 <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> tokens (88% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt> (1568; 96%), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1228; 75%), <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (944; 58%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt> (1568; 96%), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1227; 75%), <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (944; 58%).
 
 `NOUN` tokens may have the following values of `Number`:
 
@@ -89,14 +89,14 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `PROPN`
 
-393 <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt> tokens (94% of all `PROPN` tokens) have a non-empty value of `Number`.
+395 <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt> tokens (94% of all `PROPN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt> (390; 99%), <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (270; 69%), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (224; 57%).
+The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt> (392; 99%), <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (271; 69%), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (225; 57%).
 
 `PROPN` tokens may have the following values of `Number`:
 
 * `Plur` (3; 1% of non-empty `Number`): हिन्दुस्तान, 25
-* `Sing` (390; 99% of non-empty `Number`): भोजपुरी, सिंह, प्रियंका, राय, जी, डॉ., पाण्डेय, तिवारी, दिल्ली, द्विवेदी
+* `Sing` (392; 99% of non-empty `Number`): भोजपुरी, सिंह, प्रियंका, राय, जी, डॉ., पाण्डेय, तिवारी, दिल्ली, द्विवेदी
 * `EMPTY` (26): पाती, डा॰, अंचल, टिप्पणिए, प्रो॰, 2012, 24, इटलिए, चोपड़ा, पूर्वांचल
 
 <table>
@@ -105,7 +105,7 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
   <tr><td><tt><tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td></td><td>हिन्दुस्तान</td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `PROPN`. 99% lemmas (180) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `PROPN`. 99% lemmas (181) occur only with one value of `Number`.
 
 ### `AUX`
 
@@ -170,7 +170,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 ### `ADJ`
 
-111 <tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt> tokens (44% of all `ADJ` tokens) have a non-empty value of `Number`.
+111 <tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt> tokens (45% of all `ADJ` tokens) have a non-empty value of `Number`.
 
 The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt> (98; 88%), <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (96; 86%), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (95; 86%).
 
@@ -178,7 +178,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 * `Plur` (3; 3% of non-empty `Number`): छोट, चोट
 * `Sing` (108; 97% of non-empty `Number`): पूरा, बड़, छोट, तरह, नवका, बड़हन, भोजपुरिया, अढ़ाई, अश्लील, आधा
-* `EMPTY` (139): सांस्कृतिक, तथाकथित, प, खास, चुपचाप, जरूरी, आखिरी, आसान, काव्य, लइकी
+* `EMPTY` (138): सांस्कृतिक, तथाकथित, प, खास, चुपचाप, जरूरी, आखिरी, आसान, काव्य, सहज
 
 <table>
   <tr><th>Paradigm <i>छोट</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -254,7 +254,7 @@ The most frequent other feature values with which `ADV` and `Number` co-occurred
 
 * `Plur` (1; 25% of non-empty `Number`): नाहिंए
 * `Sing` (3; 75% of non-empty `Number`): आजुओ, जल्दी, शुरू
-* `EMPTY` (28): जइसे, हिन्दी, गद्य, ललित, सभ्य, आनन्द, आसानी, जरूर, जल्दी, जसहीं
+* `EMPTY` (27): जइसे, हिन्दी, गद्य, ललित, सभ्य, आनन्द, आसानी, जरूर, जल्दी, जसहीं
 
 ### `INTJ`
 
@@ -281,12 +281,12 @@ The most frequent other feature values with which `INTJ` and `Number` co-occurre
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="bho_bhtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (216; 73%),
 <tt>NOUN --[<tt><a href="bho_bhtb-dep-compound.html">compound</a></tt>]--> NOUN</tt> (188; 77%),
-<tt>VERB --[<tt><a href="bho_bhtb-dep-compound.html">compound</a></tt>]--> NOUN</tt> (182; 53%),
+<tt>VERB --[<tt><a href="bho_bhtb-dep-compound.html">compound</a></tt>]--> NOUN</tt> (182; 54%),
 <tt>PROPN --[<tt><a href="bho_bhtb-dep-compound.html">compound</a></tt>]--> PROPN</tt> (137; 93%),
-<tt>VERB --[<tt><a href="bho_bhtb-dep-aux.html">aux</a></tt>]--> AUX</tt> (116; 51%),
+<tt>VERB --[<tt><a href="bho_bhtb-dep-aux.html">aux</a></tt>]--> AUX</tt> (117; 51%),
 <tt>VERB --[<tt><a href="bho_bhtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (96; 54%),
 <tt>NOUN --[<tt><a href="bho_bhtb-dep-compound.html">compound</a></tt>]--> DET</tt> (74; 76%),
+<tt>PROPN --[<tt><a href="bho_bhtb-dep-case.html">case</a></tt>]--> ADP</tt> (47; 55%),
 <tt>NOUN --[<tt><a href="bho_bhtb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (46; 73%),
-<tt>PROPN --[<tt><a href="bho_bhtb-dep-case.html">case</a></tt>]--> ADP</tt> (46; 55%),
 <tt>NOUN --[<tt><a href="bho_bhtb-dep-compound.html">compound</a></tt>]--> PROPN</tt> (41; 89%).
 

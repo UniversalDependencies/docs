@@ -38,7 +38,7 @@ The following 8 pairs of parts of speech are connected with `advmod`: <tt><a hre
 14	を	を	ADP	助詞-格助詞	_	13	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,を,を,を,オ,,,ヲ,ヲ,を
 15	オススメし	御勧めする	VERB	動詞-一般-サ行変格	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|SpaceAfter=No|UnidicInfo=;;,御;勧める;為る,オ;ススメ;し,オ;ススメる;する,オ;ススメ;シ,;;,;;,オ;ススメル;スル,オススメスル,御勧めする
 16	ます	ます	AUX	助動詞-助動詞-マス	_	15	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,ます,ます,ます,マス,,,マス,マス,ます
-17	。	。	PUNCT	補助記号-句点	_	15	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=Yes|UnidicInfo=,。,。,。,,,,,,。
+17	。	。	PUNCT	補助記号-句点	_	15	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|UnidicInfo=,。,。,。,,,,,,。
 
 ~~~
 
@@ -59,7 +59,7 @@ The following 8 pairs of parts of speech are connected with `advmod`: <tt><a hre
 8	美味しかっ	美味しい	ADJ	形容詞-一般-形容詞	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|SpaceAfter=No|UnidicInfo=,美味しい,美味しかっ,美味しい,オイシカッ,,,オイシイ,オイシイ,美味しい
 9	た	た	AUX	助動詞-助動詞-タ	_	8	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,た,た,た,タ,,,タ,タ,た
 10	です	です	AUX	助動詞-助動詞-デス	_	8	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|PrevUDLemma=だ|SpaceAfter=No|UnidicInfo=,です,です,です,デス,,,デス,デス,です
-11	。	。	PUNCT	補助記号-句点	_	8	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=Yes|UnidicInfo=,。,。,。,,,,,,。
+11	。	。	PUNCT	補助記号-句点	_	8	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|UnidicInfo=,。,。,。,,,,,,。
 
 ~~~
 
@@ -77,7 +77,7 @@ The following 8 pairs of parts of speech are connected with `advmod`: <tt><a hre
 5	焼き物	焼き物	NOUN	名詞-普通名詞-一般	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|SpaceAfter=No|UnidicInfo=,焼き物,焼き物,焼き物,ヤキモノ,,,ヤキモノ,ヤキモノ,焼き物
 6	です	です	AUX	助動詞-助動詞-デス	_	5	cop	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|PrevUDLemma=だ|SpaceAfter=No|UnidicInfo=,です,です,です,デス,,,デス,デス,です
 7	ね	ね	PART	助詞-終助詞	_	5	mark	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|SpaceAfter=No|UnidicInfo=,ね,ね,ね,ネ,,,ネ,ネ,ね
-8	。	。	PUNCT	補助記号-句点	_	5	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=Yes|UnidicInfo=,。,。,。,,,,,,。
+8	。	。	PUNCT	補助記号-句点	_	5	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|UnidicInfo=,。,。,。,,,,,,。
 
 ~~~
 

@@ -30,4 +30,4 @@ For _coordinating conjunctions,_ see [CCONJ]().
 
 - [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a subordinating conjunction?](https://glossary.sil.org/term/subordinating-conjunction)
 - [Wikipedia](http://en.wikipedia.org/wiki/Conjunction_(grammar))
-<!-- Interlanguage links updated Po lis 14 15:34:37 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:29 CEST -->

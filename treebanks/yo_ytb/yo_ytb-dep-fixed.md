@@ -22,28 +22,28 @@ The following 21 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 14	bgColor:blue
 # visual-style 14	fgColor:white
 # visual-style 14 15 fixed	color:blue
-1	Fi	fi	VERB	_	_	6	ccomp	_	Ref=MATT_5.42|Gloss=use
-2	fún	fún	ADP	_	_	6	case	_	Ref=MATT_5.42|Gloss=unto
-3	àwọn	àwọn	PRON	_	PronType=Ind	6	nsubj	_	Ref=MATT_5.42|Gloss=the
-4	tí	tí	PRON	_	PronType=Rel	3	nsubj	_	Ref=MATT_5.42|Gloss=that
-5	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	6	expl	_	Ref=MATT_5.42|Gloss=he
-6	béèrè	béèrè	VERB	_	_	0	root	_	Ref=MATT_5.42|Gloss=ask
-7	lọ́wọ́	lọ́wọ́	ADP	_	_	8	case	_	Ref=MATT_5.42|Gloss=from
-8	rẹ	rẹ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	6	obl	_	Ref=MATT_5.42|SpaceAfter=No|Gloss=you
-9	,	,	PUNCT	_	_	11	punct	_	Ref=MATT_5.42|Gloss=,
-10	má	má	AUX	_	_	11	aux	_	Ref=MATT_5.42|Gloss=not
-11	ṣe	ṣe	VERB	_	_	6	conj	_	Ref=MATT_5.42|Gloss=do
-12	kọ̀	kọ̀	VERB	_	_	14	compound:svc	_	Ref=MATT_5.42|Gloss=forsaken
-13	fún	fún	ADP	_	_	14	case	_	Ref=MATT_5.42|Gloss=unto
-14	ẹni	ẹni	PRON	_	PronType=Ind	6	obl	_	Ref=MATT_5.42|Gloss=person
-15	tí	tí	PRON	_	PronType=Rel	14	fixed	_	Ref=MATT_5.42|Gloss=that
-16	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	17	expl	_	Ref=MATT_5.42|Gloss=he
-17	fẹ́	fẹ́	VERB	_	_	6	conj	_	Ref=MATT_5.42|Gloss=want
-18	ya	ya	VERB	_	_	17	compound:svc	_	Ref=MATT_5.42|Gloss=sanctify
-19	láti	láti	ADP	_	_	21	case	_	Ref=MATT_5.42|Gloss=to
-20	lọ́wọ́	ọwọ́	NOUN	_	Typo=Yes	21	obl	_	Ref=MATT_5.42|Gloss=hand
-21	rẹ	rẹ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	17	nmod	_	Ref=MATT_5.42|SpaceAfter=No|Gloss=your
-22	.	.	PUNCT	_	_	6	punct	_	Ref=MATT_5.42|Gloss=.
+1	Fi	fi	VERB	_	_	6	ccomp	_	Gloss=use|Ref=MATT_5.42
+2	fún	fún	ADP	_	_	6	case	_	Gloss=unto|Ref=MATT_5.42
+3	àwọn	àwọn	PRON	_	PronType=Ind	6	nsubj	_	Gloss=the|Ref=MATT_5.42
+4	tí	tí	PRON	_	PronType=Rel	3	nsubj	_	Gloss=that|Ref=MATT_5.42
+5	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	6	expl	_	Gloss=he|Ref=MATT_5.42
+6	béèrè	béèrè	VERB	_	_	0	root	_	Gloss=ask|Ref=MATT_5.42
+7	lọ́wọ́	lọ́wọ́	ADP	_	_	8	case	_	Gloss=from|Ref=MATT_5.42
+8	rẹ	rẹ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	6	obl	_	Gloss=you|Ref=MATT_5.42|SpaceAfter=No
+9	,	,	PUNCT	_	_	11	punct	_	Gloss=,|Ref=MATT_5.42
+10	má	má	AUX	_	_	11	aux	_	Gloss=not|Ref=MATT_5.42
+11	ṣe	ṣe	VERB	_	_	6	conj	_	Gloss=do|Ref=MATT_5.42
+12	kọ̀	kọ̀	VERB	_	_	14	compound:svc	_	Gloss=forsaken|Ref=MATT_5.42
+13	fún	fún	ADP	_	_	14	case	_	Gloss=unto|Ref=MATT_5.42
+14	ẹni	ẹni	PRON	_	PronType=Ind	6	obl	_	Gloss=person|Ref=MATT_5.42
+15	tí	tí	PRON	_	PronType=Rel	14	fixed	_	Gloss=that|Ref=MATT_5.42
+16	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	17	expl	_	Gloss=he|Ref=MATT_5.42
+17	fẹ́	fẹ́	VERB	_	_	6	conj	_	Gloss=want|Ref=MATT_5.42
+18	ya	ya	VERB	_	_	17	compound:svc	_	Gloss=sanctify|Ref=MATT_5.42
+19	láti	láti	ADP	_	_	21	case	_	Gloss=to|Ref=MATT_5.42
+20	lọ́wọ́	ọwọ́	NOUN	_	Typo=Yes	21	obl	_	Gloss=hand|Ref=MATT_5.42
+21	rẹ	rẹ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	17	nmod	_	Gloss=your|Ref=MATT_5.42|SpaceAfter=No
+22	.	.	PUNCT	_	_	6	punct	_	Gloss=.|Ref=MATT_5.42
 
 ~~~
 

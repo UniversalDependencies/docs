@@ -201,9 +201,9 @@ The most frequent other feature values with which `PART` and `Person` co-occurre
 
 The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="qpm_philotis-dep-conj.html">conj</a></tt>]--> VERB</tt> (1218; 57%),
-<tt>VERB --[<tt><a href="qpm_philotis-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (399; 52%),
+<tt>VERB --[<tt><a href="qpm_philotis-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (400; 52%),
 <tt>VERB --[<tt><a href="qpm_philotis-dep-dep.html">dep</a></tt>]--> PRON</tt> (187; 50%),
-<tt>VERB --[<tt><a href="qpm_philotis-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (10; 53%),
+<tt>VERB --[<tt><a href="qpm_philotis-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (10; 59%),
 <tt>PRON --[<tt><a href="qpm_philotis-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (2; 100%),
 <tt>AUX --[<tt><a href="qpm_philotis-dep-conj.html">conj</a></tt>]--> VERB</tt> (1; 100%),
 <tt>AUX --[<tt><a href="qpm_philotis-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (1; 100%),

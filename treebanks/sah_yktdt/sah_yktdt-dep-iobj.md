@@ -8,12 +8,26 @@ udver: '2'
 
 This relation is universal.
 
-4 nodes (0%) are attached to their parents as `iobj`.
+5 nodes (0%) are attached to their parents as `iobj`.
 
-4 instances of `iobj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.25.
+5 instances of `iobj` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.
 
-The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sah_yktdt-pos-PRON.html">PRON</a></tt> (2; 50% instances), <tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt> (1; 25% instances), <tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sah_yktdt-pos-PROPN.html">PROPN</a></tt> (1; 25% instances).
+The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt> (2; 40% instances), <tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sah_yktdt-pos-PRON.html">PRON</a></tt> (2; 40% instances), <tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sah_yktdt-pos-PROPN.html">PROPN</a></tt> (1; 20% instances).
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 iobj	color:blue
+1	Саша	саша	PROPN	propn	_	4	nsubj	_	_
+2	аҕатыгар	аҕа	NOUN	n	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	iobj	_	_
+3	суругу	сурук	NOUN	n	Case=Acc|Number=Sing	4	obj	_	_
+4	ыытта	ыыт	VERB	vd	Number=Sing|Person=3|Tense=NearPast	0	root	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -28,20 +42,6 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 4	күөгүрээпийэ	күөгүрээпийэ	NOUN	n	Case=Nom|Number=Sing	6	nsubj	_	_
 5	олус	олус	ADV	adv	_	6	advmod	_	_
 6	туһалаабыта	туһалаа	VERB	v	Number=Sing|Person=3|Tense=PastPerf	0	root	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 2 iobj	color:blue
-1	Саша	саша	PROPN	propn	_	4	nsubj	_	_
-2	аҕатыгар	аҕа	NOUN	n	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	iobj	_	_
-3	суругу	сурук	NOUN	n	Case=Acc|Number=Sing	4	obj	_	_
-4	ыытта	ыыт	VERB	vd	Number=Sing|Person=3|Tense=NearPast	0	root	_	_
 
 ~~~
 

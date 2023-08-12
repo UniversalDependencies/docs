@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  <em>de</em> (<tt><a href="fr_pud-pos-ADP.
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.205128 (the average of all parts of speech is 1.298345).
+The form / lemma ratio of `ADP` is 1.205128 (the average of all parts of speech is 1.299644).
 
 The 1st highest number of forms (3) was observed with the lemma “de”: <em>d', de, d’</em>.
 
@@ -65,20 +65,14 @@ The 2nd highest number of forms (3) was observed with the lemma “que”: <em>q
 
 The 3rd highest number of forms (3) was observed with the lemma “si”: <em>s', si, s’</em>.
 
-`ADP` occurs with 2 features: <tt><a href="fr_pud-feat-Gender.html">Gender</a></tt> (26; 1% instances), <tt><a href="fr_pud-feat-Number.html">Number</a></tt> (26; 1% instances)
-
-`ADP` occurs with 4 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`
-
-`ADP` occurs with 5 feature combinations.
-The most frequent feature combination is `_` (3869 tokens).
-Examples: <em>de, à, en, dans, d', pour, par, d’, sur, avec</em>
+`ADP` does not occur with any features.
 
 
 ## Relations
 
 `ADP` nodes are attached to their parents using 9 different relations: <tt><a href="fr_pud-dep-case.html">case</a></tt> (3354; 86% instances), <tt><a href="fr_pud-dep-mark.html">mark</a></tt> (270; 7% instances), <tt><a href="fr_pud-dep-fixed.html">fixed</a></tt> (187; 5% instances), <tt><a href="fr_pud-dep-advmod.html">advmod</a></tt> (45; 1% instances), <tt><a href="fr_pud-dep-det.html">det</a></tt> (17; 0% instances), <tt><a href="fr_pud-dep-nmod.html">nmod</a></tt> (14; 0% instances), <tt><a href="fr_pud-dep-obl.html">obl</a></tt> (4; 0% instances), <tt><a href="fr_pud-dep-discourse.html">discourse</a></tt> (3; 0% instances), <tt><a href="fr_pud-dep-iobj.html">iobj</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 11 different parts of speech: <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (2499; 64% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> (531; 14% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (397; 10% instances), <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> (132; 3% instances), <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> (93; 2% instances), <tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> (91; 2% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (73; 2% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (32; 1% instances), <tt><a href="fr_pud-pos-X.html">X</a></tt> (26; 1% instances), <tt><a href="fr_pud-pos-SYM.html">SYM</a></tt> (17; 0% instances), <tt><a href="fr_pud-pos-DET.html">DET</a></tt> (4; 0% instances)
+Parents of `ADP` nodes belong to 11 different parts of speech: <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (2499; 64% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> (531; 14% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (397; 10% instances), <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> (132; 3% instances), <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> (92; 2% instances), <tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> (91; 2% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (74; 2% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (32; 1% instances), <tt><a href="fr_pud-pos-X.html">X</a></tt> (26; 1% instances), <tt><a href="fr_pud-pos-SYM.html">SYM</a></tt> (17; 0% instances), <tt><a href="fr_pud-pos-DET.html">DET</a></tt> (4; 0% instances)
 
 3712 (95%) `ADP` nodes are leaves.
 

@@ -55,7 +55,7 @@ The following 1 pairs of parts of speech are connected with `vocative`: <tt><a h
 31	,	,	PUNCT	Punc	_	35	punct	_	_
 32	ut	ut	SCONJ	c|c|-|-|-|-|-|-|-|-	PronType=Rel	35	mark	_	_
 33	ibi	ubi	ADV	d|d|-|-|-|-|-|-|-|-	PronType=Rel	34	advmod	_	_
-34	avitare	habito	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	35	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+34	avitare	habito	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	35	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 35	deberem	debeo	VERB	v|v|1|s|i|s|a|-|-|-	Aspect=Imp|Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	12	advcl:relcl	_	SpaceAfter=No|TraditionalMood=Subiunctivus|TraditionalTense=Imperfectum
 36	;	;	PUNCT	Punc	_	1	punct	_	_
 

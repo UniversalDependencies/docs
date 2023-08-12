@@ -73,7 +73,7 @@ The following 3 pairs of parts of speech are connected with `nsubj:caus`: <tt><a
 7	,	,	PUNCT	_	_	3	punct	_	_
 8	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	exigence	exigence	NOUN	_	Gender=Fem|Number=Sing	12	nsubj:caus	_	_
-10	se	se	PRON	_	Person=3|PronType=Prs	12	expl	_	_
+10	se	se	PRON	_	Person=3|PronType=Prs	12	expl:comp	_	_
 11	fait	faire	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux:caus	_	_
 12	entendre	entendre	VERB	_	VerbForm=Inf	0	root	_	Subject=NoRaising
 13	toujours	toujours	ADV	_	_	15	advmod	_	_

@@ -58,7 +58,7 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 12	materia	materia	NOUN	sfs1n	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	13	nsubj	_	_
 13	pateretur	patior	VERB	vd3cis3	Aspect=Imp|InflClass=LatI2|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	15	advcl	_	SpaceAfter=No|TraditionalMood=Subiunctivus|TraditionalTense=Imperfectum
 14	,	,	PUNCT	Pu	_	13	punct	_	_
-15	inquirere	inquiro	VERB	va3fp	Aspect=Imp|VerbForm=Vnoun|Voice=Act	5	ccomp	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Praesens
+15	inquirere	inquiro	VERB	va3fp	Aspect=Imp|VerbForm=Inf|Voice=Act	5	ccomp	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Praesens
 16	;	;	PUNCT	Pu	_	20	punct	_	_
 17	de	de	ADP	e	_	20	case	_	_
 18	quarum	qui	PRON	prepfg	Case=Gen|Gender=Fem|InflClass=LatPron|Number=Plur|PronType=Rel	20	nmod	_	_
@@ -88,7 +88,7 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 1	Veritas	ueritas	NOUN	sfs3n	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Sing	4	nsubj	_	_
 2	autem	autem	PART	co	_	5	discourse	_	_
 3	questionis	quaestio	NOUN	sfs3g	Case=Gen|Gender=Fem|InflClass=IndEurX|Number=Sing	1	nmod	_	_
-4	patere	pateo	VERB	va2fp	Aspect=Imp|VerbForm=Vnoun|Voice=Act	5	csubj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+4	patere	pateo	VERB	va2fp	Aspect=Imp|VerbForm=Inf|Voice=Act	5	csubj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 5	potest	possum	VERB	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 6	non	non	PART	r	Polarity=Neg	7	advmod:neg	_	_
 7	solum	solum	ADV	r	PronType=Con	4	advmod:emph	_	_
@@ -114,7 +114,7 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 27	et	et	CCONJ	co	_	28	cc	_	_
 28	terram	terra	NOUN	sfs1a	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	26	conj	_	_
 29	simul	simul	ADV	r	_	26	advmod	_	_
-30	assentire	assentio	VERB	va4fp	Aspect=Imp|VerbForm=Vnoun|Voice=Act	31	csubj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+30	assentire	assentio	VERB	va4fp	Aspect=Imp|VerbForm=Inf|Voice=Act	31	csubj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 31	necesse	necesse	ADJ	din	Case=Nom|Gender=Neut|InflClass=IndEurI|Number=Sing	4	conj	_	_
 32	est	sum	AUX	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	cop	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 33	.	.	PUNCT	Pu	_	5	punct	_	_

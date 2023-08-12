@@ -11,20 +11,20 @@ It occurs with 3 different values: `Fin`, `Inf`, `Part`.
 
 37600 tokens (24%) have a non-empty value of `VerbForm`.
 11004 types (25%) occur at least once with a non-empty value of `VerbForm`.
-2564 lemmas (12%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (26439; 17% instances), <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (11161; 7% instances).
+2563 lemmas (12%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 2 part-of-speech tags: <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (27196; 17% instances), <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (10404; 7% instances).
 
 ### `VERB`
 
-26439 <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+27196 <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (22947; 87%), <tt><a href="fi_ftb-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (21609; 82%), <tt><a href="fi_ftb-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (21343; 81%), <tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (16513; 62%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15467; 59%), <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (14680; 56%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (13303; 50%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (23660; 87%), <tt><a href="fi_ftb-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (22307; 82%), <tt><a href="fi_ftb-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (22076; 81%), <tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (17187; 63%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15980; 59%), <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (15279; 56%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (16488; 62% of non-empty `VerbForm`): <em>on, oli, ole, tuli, tulee, ei, sanoi, ovat, saa, olisi</em>
-* `Inf` (5121; 19% of non-empty `VerbForm`): <em>olla, tehdä, mennä, tulla, lähteä, ottaa, sanoa, saada, käydä, käyttää</em>
-* `Part` (4830; 18% of non-empty `VerbForm`): <em>ollut, olevan, saanut, tullut, oleva, tehty, käynyt, sanonut, tehnyt, nähnyt</em>
+* `Fin` (17162; 63% of non-empty `VerbForm`): <em>on, oli, ole, tulee, tuli, saa, ei, sanoi, ovat, sai</em>
+* `Inf` (5145; 19% of non-empty `VerbForm`): <em>olla, tehdä, mennä, tulla, saada, ottaa, lähteä, sanoa, käydä, käyttää</em>
+* `Part` (4889; 18% of non-empty `VerbForm`): <em>ollut, saanut, tullut, olevan, oleva, tehty, käynyt, sanonut, tehnyt, nähnyt</em>
 
 <table>
   <tr><th>Paradigm <i>olla</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>
@@ -165,15 +165,15 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-11161 <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+10404 <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (10952; 98%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8789; 79%), <tt><a href="fi_ftb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (8253; 74%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=3</tt> (8077; 72%), <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (6907; 62%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (10239; 98%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8276; 80%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=3</tt> (7640; 73%), <tt><a href="fi_ftb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (7496; 72%), <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (6308; 61%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Fin` (10634; 95% of non-empty `VerbForm`): <em>on, ei, oli, ovat, en, ole, voi, olisi, olen, eivät</em>
-* `Inf` (229; 2% of non-empty `VerbForm`): <em>olla, olemaan, saada, jättää, ruveta, voida, ollen, ryhtyä, olemasta, ollakseen</em>
-* `Part` (298; 3% of non-empty `VerbForm`): <em>ollut, olevan, voinut, olleet, pitänyt, ollu, saanut, voitu, tullut, täytynyt</em>
+* `Fin` (9960; 96% of non-empty `VerbForm`): <em>on, ei, oli, ovat, en, ole, voi, olisi, olen, eivät</em>
+* `Inf` (205; 2% of non-empty `VerbForm`): <em>olla, olemaan, voida, ollen, olemasta, ollakseen, ollapa, ollessa, ollessani, täytyä</em>
+* `Part` (239; 2% of non-empty `VerbForm`): <em>ollut, olevan, voinut, olleet, pitänyt, ollu, voitu, täytynyt, oltava, oltu</em>
 
 <table>
   <tr><th>Paradigm <i>olla</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>
@@ -325,6 +325,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="fi_ftb-dep-conj.html">conj</a></tt>]--> VERB</tt> (1951; 82%),
-<tt>VERB --[<tt><a href="fi_ftb-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (3; 100%).
+<tt>VERB --[<tt><a href="fi_ftb-dep-conj.html">conj</a></tt>]--> VERB</tt> (1983; 83%),
+<tt>VERB --[<tt><a href="fi_ftb-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (3; 100%),
+<tt>VERB --[<tt><a href="fi_ftb-dep-dep.html">dep</a></tt>]--> VERB</tt> (1; 100%).
 

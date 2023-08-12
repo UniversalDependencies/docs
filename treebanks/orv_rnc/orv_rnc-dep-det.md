@@ -22,16 +22,16 @@ The following 11 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 det	color:blue
-1	И	и	CCONJ	_	_	7	cc	_	wf="И"|SpaceAfter=Yes
-2	тои	тотъ	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	wf="тои"|SpaceAfter=Yes
-3	меди	мѣдь	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	7	obl	_	wf="меди"|SpaceAfter=Yes
-4	у	у	ADP	_	_	5	case	_	wf="у"|SpaceAfter=Yes
-5	Сидара	Сидоръ	PROPN	_	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	7	obl	_	wf="Сидара"|SpaceAfter=Yes
-6	не	не	PART	_	Polarity=Neg	7	advmod	_	wf="не"|SpaceAfter=Yes
-7	дашло	доити	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	wf="дашло"|SpaceAfter=Yes
-8	полчетверты	полчетверта	NUM	_	Case=Nom|Gender=Fem|NumForm=Word|NumType=Frac	9	nummod:gov	_	wf="полчетверты"|SpaceAfter=Yes
+1	И	и	CCONJ	_	_	7	cc	_	wf="И"|_
+2	тои	тотъ	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	wf="тои"|_
+3	меди	мѣдь	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	7	obl	_	wf="меди"|_
+4	у	у	ADP	_	_	5	case	_	wf="у"|_
+5	Сидара	Сидоръ	PROPN	_	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	7	obl	_	wf="Сидара"|_
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	wf="не"|_
+7	дашло	доити	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	wf="дашло"|_
+8	полчетверты	полчетверта	NUM	_	Case=Nom|Gender=Fem|NumForm=Word|NumType=Frac	9	nummod:gov	_	wf="полчетверты"|_
 9	гривенки	гривенка	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	7	nsubj	_	wf="гривенки"|SpaceAfter=No
-10	.	.	PUNCT	_	_	7	punct	_	wf="."|SpaceAfter=Yes
+10	.	.	PUNCT	_	_	7	punct	_	wf="."|_
 
 ~~~
 
@@ -43,13 +43,13 @@ The following 11 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 8	fgColor:white
 # visual-style 8 3 det	color:blue
 1	Роспис(ь)	роспись	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	wf="Роспись"|SpaceAfter=No
-2	,	,	PUNCT	_	_	4	punct	_	wf=","|SpaceAfter=Yes
-3	что	что	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	8	det	_	wf="что"|SpaceAfter=Yes
-4	принето	приняти	VERB	_	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	1	acl	_	wf="принето"|SpaceAfter=Yes
-5	у	у	ADP	_	_	7	case	_	wf="у"|SpaceAfter=Yes
-6	белевских	бѣлевский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	7	amod	_	wf="белевских"|SpaceAfter=Yes
-7	крестьян	крестьянинъ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	4	obl	_	wf="крестьян"|SpaceAfter=Yes
-8	куров	куръ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	4	nsubj:pass	_	wf="куров"|SpaceAfter=Yes
+2	,	,	PUNCT	_	_	4	punct	_	wf=","|_
+3	что	что	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	8	det	_	wf="что"|_
+4	принето	приняти	VERB	_	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	1	acl	_	wf="принето"|_
+5	у	у	ADP	_	_	7	case	_	wf="у"|_
+6	белевских	бѣлевский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	7	amod	_	wf="белевских"|_
+7	крестьян	крестьянинъ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	4	obl	_	wf="крестьян"|_
+8	куров	куръ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	4	nsubj:pass	_	wf="куров"|_
 9	живых	живой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	8	amod	_	wf="живых"|SpaceAfter=No
 10	.	.	PUNCT	_	_	1	punct	_	wf="."|SpaceAfter=No
 

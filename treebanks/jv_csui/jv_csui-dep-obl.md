@@ -9,60 +9,61 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `obl`: <tt><a href="jv_csui-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="jv_csui-dep-obl-tmod.html">obl:tmod</a></tt>.
 
-143 nodes (7%) are attached to their parents as `obl`.
+850 nodes (6%) are attached to their parents as `obl`.
 
-120 instances of `obl` (84%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.11888111888112.
+717 instances of `obl` (84%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.55058823529412.
 
-The following 13 pairs of parts of speech are connected with `obl`: <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> (76; 53% instances), <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> (30; 21% instances), <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="jv_csui-pos-X.html">X</a></tt> (12; 8% instances), <tt><a href="jv_csui-pos-ADJ.html">ADJ</a></tt>-<tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> (9; 6% instances), <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> (4; 3% instances), <tt><a href="jv_csui-pos-ADJ.html">ADJ</a></tt>-<tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> (3; 2% instances), <tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt>-<tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="jv_csui-pos-SYM.html">SYM</a></tt> (2; 1% instances), <tt><a href="jv_csui-pos-ADJ.html">ADJ</a></tt>-<tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt>-<tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="jv_csui-pos-NUM.html">NUM</a></tt>-<tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt>-<tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="jv_csui-pos-X.html">X</a></tt>-<tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 obl	color:blue
-1	Temon	temu	NOUN	_	Number=Sing	5	nsubj	_	_
-2	é	é	DET	_	Definite=Def|Polite=Infm|PronType=Art	1	det	_	Level=Ngoko
-3	ing	ing	ADP	_	_	4	case	_	_
-4	kana	kana	PRON	_	Polite=Infm|PronType=Dem	5	obl	_	Level=Ngoko
-5	wujud	wujud	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
-6	prasasti	prasasti	NOUN	_	Number=Sing	5	obl	_	_
-7	watu	watu	NOUN	_	Number=Sing	6	nmod	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	5	punct	_	_
-
-~~~
+The following 27 pairs of parts of speech are connected with `obl`: <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> (532; 63% instances), <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> (123; 14% instances), <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> (62; 7% instances), <tt><a href="jv_csui-pos-ADJ.html">ADJ</a></tt>-<tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> (52; 6% instances), <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="jv_csui-pos-X.html">X</a></tt> (18; 2% instances), <tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt>-<tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> (13; 2% instances), <tt><a href="jv_csui-pos-ADJ.html">ADJ</a></tt>-<tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> (10; 1% instances), <tt><a href="jv_csui-pos-ADJ.html">ADJ</a></tt>-<tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> (5; 1% instances), <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="jv_csui-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt>-<tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="jv_csui-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="jv_csui-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="jv_csui-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="jv_csui-pos-ADV.html">ADV</a></tt>-<tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt>-<tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="jv_csui-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="jv_csui-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="jv_csui-pos-ADJ.html">ADJ</a></tt>-<tt><a href="jv_csui-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="jv_csui-pos-ADP.html">ADP</a></tt>-<tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt>-<tt><a href="jv_csui-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt>-<tt><a href="jv_csui-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="jv_csui-pos-NUM.html">NUM</a></tt>-<tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt>-<tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt>-<tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="jv_csui-pos-X.html">X</a></tt>-<tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="jv_csui-pos-X.html">X</a></tt>-<tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="jv_csui-pos-X.html">X</a></tt>-<tt><a href="jv_csui-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 7 obl	color:blue
-1	Jeneng	jeneng	NOUN	_	Number=Sing|Polite=Infm	3	nsubj	_	Level=Ngoko
-2	é	é	PRON	_	Number=Sing|Person=3|Polite=Infm|PronType=Prs	1	nmod:poss	_	Level=Ngoko
-3	disebutaké	sebut	VERB	_	Mood=Ind|Voice=Pass	0	root	_	_
-4	kaping	kaping	NOUN	_	Number=Sing	3	obl	_	_
-5	27	27	NUM	_	NumType=Card	4	nummod	_	_
-6	ing	ing	ADP	_	_	7	case	_	_
-7	Al-Quran	Al-Quran	PROPN	_	_	3	obl	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	3	punct	_	_
+# visual-style 3 4 obl	color:blue
+1	Yen	_	SCONJ	_	Polite=Infm	3	mark	_	_
+2	kowe	_	PRON	_	Number=Sing|Person=2|Polite=Infm|PronType=Prs	3	nsubj	_	_
+3	sinau	_	VERB	_	Mood=Ind|Voice=Act	7	advcl	_	_
+4	basa	_	NOUN	_	Number=Sing	3	obl	_	SpaceAfter=No
+5	,	_	PUNCT	_	_	7	punct	_	_
+6	kudu	_	AUX	_	Polite=Infm	7	aux	_	_
+7	tlaten	_	ADJ	_	_	0	root	_	_
+8	lan	_	CCONJ	_	Polite=Infm	9	cc	_	_
+9	sregep	_	ADJ	_	_	7	conj	_	_
+10	latihan	_	VERB	_	Mood=Ind|Voice=Act	9	advcl	_	SpaceAfter=No
+11	.	_	PUNCT	_	_	7	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 obl	color:blue
-1	Ngudhunaké	udhun	VERB	_	Mood=Ind|Polite=Infm|Voice=Act	0	root	_	Level=Ngoko
-2	tekanan	tekan	X	_	Foreign=Yes	1	obl	_	_
-3	darah	darah	X	_	Foreign=Yes	2	flat:foreign	_	SpaceAfter=No
-4	.	.	PUNCT	_	_	1	punct	_	_
+# visual-style 2 4 obl	color:blue
+1	Bapak	_	NOUN	_	Number=Sing	2	nsubj	_	_
+2	tindak	_	VERB	_	Mood=Ind|Polite=Elev|Voice=Act	0	root	_	_
+3	menyang	_	ADP	_	_	4	case	_	_
+4	Surabaya	_	PROPN	_	_	2	obl	_	SpaceAfter=No
+5	.	_	PUNCT	_	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 obl	color:blue
+1	Teka-teka	_	VERB	_	Mood=Ind|Polite=Infm|Voice=Act	0	root	_	_
+2	wis	_	AUX	_	Polite=Infm	3	aux	_	_
+3	rampungan	_	VERB	_	Mood=Ind|Voice=Act	1	advcl	_	_
+4	kabeh	_	PRON	_	Polite=Infm|PronType=Tot	3	obl	_	SpaceAfter=No
+5	.	_	PUNCT	_	_	1	punct	_	_
 
 ~~~
 

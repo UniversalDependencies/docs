@@ -34,4 +34,4 @@ The `orphan` relation is used in cases of head ellipsis where simple promotion w
 18	Franche	_	PROPN	NOMpro	_	16	nmod	_	_
 
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:41 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:04:30 CEST -->

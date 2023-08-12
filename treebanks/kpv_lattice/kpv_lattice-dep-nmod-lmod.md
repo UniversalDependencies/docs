@@ -47,20 +47,20 @@ The following 4 pairs of parts of speech are connected with `nmod:lmod`: <tt><a 
 5	во	во	NOUN	N	Case=Nom|Number=Sing	8	obl:tmod	_	GTtags=Sg,Nom
 6	нин	нин	ADV	Adv	AdvType=Tim	5	advmod:tmod	_	GTtags=Sem/Time
 7	кӧнъясынкӧ	кӧнъясынкӧ	ADV	Adv	Definite=Ind|Derivation=Ko	8	advmod:lmod	_	GTtags=Indef,Der/кӧ
-8	ветлӧм	ветлыны	VERB	V	Case=Nom|Number=Sing|Valency=1|VerbForm=Vnoun	12	advcl	_	GTtags=IV,Der,Der/ӧм,Der/NomAct,N,Sg,Nom
+8	ветлӧм	ветлыны	VERB	V	Case=Nom|Number=Sing|VerbForm=Vnoun	12	advcl	_	GTtags=IV,Der,Der/ӧм,Der/NomAct,N,Sg,Nom
 9	бӧрын	бӧрын	ADP	Adp	AdpType=Post|Case=Ine|Number=Sing	8	case	_	GTtags=Po,Sg,Ine
 10	регыдӧн	регыдӧн	ADV	Adv	Case=Ins	12	advmod:mmod	_	GTtags=Ins
 11	на	на	ADV	Adv	AdvType=Tim	12	advmod:tmod	_	GTtags=Sem/Time
-12	воӧм	воны	VERB	V	Case=Nom|Number=Sing|Valency=1|VerbForm=Vnoun	0	root	_	GTtags=IV,Der,Der/ӧм,Der/NomAct,N,Sg,Nom|SpaceAfter=No
+12	воӧм	воны	VERB	V	Case=Nom|Number=Sing|VerbForm=Vnoun	0	root	_	GTtags=IV,Der,Der/ӧм,Der/NomAct,N,Sg,Nom|SpaceAfter=No
 13	,	,	PUNCT	CLB	_	15	punct	_	_
 14	карса	кар	NOUN	N	Case=Loc|Number=Sing	15	nmod:lmod	_	GTtags=Sg,Der,Der/LocMod,A,Sg,Nom
 15	паськӧма	паськӧма	ADJ	A	Case=Nom|Number=Sing	12	appos	_	GTtags=Sg,Nom|SpaceAfter=No
 16	,	,	PUNCT	CLB	_	19	punct	_	_
 17	...	...	PUNCT	CLB	_	19	punct	_	SpaceAfter=No
 18	паськыда	паськыда	ADV	Adv	_	19	advmod	_	_
-19	нязгис	нязгыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=1	12	conj	_	GTtags=IV,Ind,Prt1,Sg3,Cmp/Serial,Cmp
+19	нязгис	нязгыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	12	conj	_	GTtags=IV,Ind,Prt1,Sg3,Cmp/Serial,Cmp
 20	-	-	PUNCT	PUNCT	_	21	punct	_	_
-21	ворсіс	ворсны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=1	19	conj	_	GTtags=IV,Ind,Prt1,Sg3
+21	ворсіс	ворсны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	19	conj	_	GTtags=IV,Ind,Prt1,Sg3
 22	.	.	PUNCT	CLB	_	12	punct	_	_
 
 ~~~

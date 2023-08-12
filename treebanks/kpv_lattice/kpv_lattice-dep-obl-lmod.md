@@ -68,7 +68,7 @@ The following 10 pairs of parts of speech are connected with `obl:lmod`: <tt><a 
 5	,	,	PUNCT	CLB	_	8	punct	_	_
 6	унаысь	унаысь	ADV	Adv	NumType=Mult	8	advmod:freq	_	GTtags=Iter
 7	сійӧс	сійӧ	PRON	Pron	Case=Acc|Number=Sing|Person=3|PronType=Prs	8	obj	_	GTtags=Pers,Sg3,Acc
-8	снимайтлӧмаӧсь	снимайтлыны	VERB	V	Evident=Nfh|Mood=Ind|Number=Plur|Person=3|Tense=Past|Valency=1	3	conj	_	GTtags=IV,Ind,Prt2,Pl3|SpaceAfter=No
+8	снимайтлӧмаӧсь	снимайтлыны	VERB	V	Evident=Nfh|Mood=Ind|Number=Plur|Person=3|Tense=Past	3	conj	_	GTtags=IV,Ind,Prt2,Pl3|SpaceAfter=No
 9	.	.	PUNCT	CLB	_	3	punct	_	_
 
 ~~~

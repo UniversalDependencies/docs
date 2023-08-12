@@ -22,22 +22,22 @@ The following 1 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
 # visual-style 13 6 obl:tmod	color:blue
-1	И	_	CCONJ	CC	_	3	cc	_	_
-2	такъ	_	ADV	RB	Degree=Pos	3	advmod	_	_
-3	мають	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-4	вжо	_	ADV	UH	Degree=Pos	6	advmod	_	_
-5	вечными	_	ADJ	JJL	Case=Ins|Degree=Pos|Number=Plur	6	amod	_	_
-6	часы	_	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	13	obl:tmod	_	_
-7	в	_	ADP	IN	_	8	case	_	_
-8	поветехъ	_	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	13	obl	_	_
-9	около	_	ADP	IN	_	10	case	_	_
-10	обиранья	_	NOUN	NNP	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	obl	_	_
-11	предъречоных	_	ADJ	JJL	Case=Gen|Degree=Pos|Number=Plur	12	amod	_	_
-12	врядниковъ	_	NOUN	NN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	_
-13	справоватисе	_	VERB	VBC	Aspect=Imp|VerbForm=Inf|Voice=Mid	3	xcomp	_	_
-14	и	_	CCONJ	CC	_	15	cc	_	_
-15	заховати	_	VERB	VBC	Aspect=Imp|VerbForm=Inf|Voice=Act	13	conj	_	SpaceAfter=No
-16	.	_	PUNCT	PUNCT	_	3	punct	_	SpacesAfter=\r\n
+1	И	и	CCONJ	CC	_	3	cc	_	_
+2	такъ	такъ	ADV	RB	Degree=Pos	3	advmod	_	_
+3	мають	мети	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	вжо	ужо	ADV	UH	Degree=Pos	6	advmod	_	_
+5	вечными	вечный	ADJ	JJL	Case=Ins|Degree=Pos|Number=Plur	6	amod	_	_
+6	часы	часъ	NOUN	NN	Case=Ins|Gender=Masc|Number=Plur	13	obl:tmod	_	_
+7	в	въ	ADP	IN	_	8	case	_	_
+8	поветехъ	поветъ	NOUN	NN	Case=Loc|Gender=Masc|Number=Plur	13	obl	_	_
+9	около	около	ADP	IN	_	10	case	_	_
+10	обиранья	обиранье	NOUN	NNP	Case=Gen|Gender=Neut|Number=Sing	13	obl	_	_
+11	предъречоных	предречоный	ADJ	JJL	Case=Gen|Degree=Pos|Number=Plur	12	amod	_	_
+12	врядниковъ	урадникъ	NOUN	NN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	_
+13	справоватисе	справоватися	VERB	VBC	Aspect=Imp|VerbForm=Inf|Voice=Mid	3	xcomp	_	_
+14	и	и	CCONJ	CC	_	15	cc	_	_
+15	заховати	заховати	VERB	VBC	Aspect=Imp|VerbForm=Inf|Voice=Act	13	conj	_	SpaceAfter=No
+16	.	.	PUNCT	PUNCT	_	3	punct	_	SpacesAfter=\r\n
 
 ~~~
 

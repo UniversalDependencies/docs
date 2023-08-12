@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_French-Sequoia: Relations: `nsubj:caus`
 
 This relation is a language-specific subtype of <tt><a href="fr_sequoia-dep-nsubj.html">nsubj</a></tt>.
-There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="fr_sequoia-dep-nsubj-pass.html">nsubj:pass</a></tt>.
+There are also 2 other language-specific subtypes of `nsubj`: <tt><a href="fr_sequoia-dep-nsubj-outer.html">nsubj:outer</a></tt>, <tt><a href="fr_sequoia-dep-nsubj-pass.html">nsubj:pass</a></tt>.
 
 16 nodes (0%) are attached to their parents as `nsubj:caus`.
 
@@ -27,7 +27,7 @@ The following 3 pairs of parts of speech are connected with `nsubj:caus`: <tt><a
 2	conteur	conteur	NOUN	_	Gender=Masc|Number=Sing	5	nsubj:caus	_	_
 3	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:tense	_	_
 4	fait	faire	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	aux:caus	_	_
-5	jouer	jouer	VERB	_	VerbForm=Inf	0	root	_	_
+5	jouer	jouer	VERB	_	VerbForm=Inf	0	root	_	Subject=ObjRaising
 6	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	_
 7	enfants	enfant	NOUN	_	Number=Plur	5	obj:agent	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	5	punct	_	_
@@ -41,8 +41,8 @@ The following 3 pairs of parts of speech are connected with `nsubj:caus`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 1 nsubj:caus	color:blue
-1	Ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3	5	nsubj:caus	_	_
-2	lui	lui	PRON	_	Number=Sing|Person=3	5	iobj:agent	_	_
+1	Ils	eux	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	nsubj:caus	_	_
+2	lui	lui	PRON	_	Number=Sing|Person=3|PronType=Prs	5	iobj:agent	_	_
 3	ont	avoir	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux:tense	_	_
 4	fait	faire	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	aux:caus	_	_
 5	subir	subir	VERB	_	VerbForm=Inf	0	root	_	_
@@ -51,12 +51,12 @@ The following 3 pairs of parts of speech are connected with `nsubj:caus`: <tt><a
 8	électriques	électrique	ADJ	_	Number=Plur	7	amod	_	_
 9	sur	sur	ADP	_	_	11	case	_	_
 10	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	11	det	_	_
-11	parties	partie	NOUN	_	Gender=Fem|Number=Plur	5	obl:mod	_	_
+11	parties	partie	NOUN	_	Gender=Fem|Number=Plur	7	nmod	_	_
 12	sensibles	sensible	ADJ	_	Number=Plur	11	amod	_	_
 13	de	de	ADP	_	_	15	case	_	_
 14	son	son	DET	_	Number=Sing|Poss=Yes	15	det	_	_
 15	corps	corps	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	_	5	punct	_	_
+16	.	.	PUNCT	_	_	11	punct	_	_
 
 ~~~
 
@@ -70,13 +70,13 @@ The following 3 pairs of parts of speech are connected with `nsubj:caus`: <tt><a
 1	Alfred	Alfred	PROPN	_	Gender=Masc|Number=Sing	4	nsubj:caus	_	_
 2	Sirven	Sirven	PROPN	_	_	1	flat:name	_	_
 3	fait	faire	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:caus	_	_
-4	payer	payer	VERB	_	VerbForm=Inf	0	root	_	_
+4	payer	payer	VERB	_	VerbForm=Inf	0	root	_	Subject=OblRaising
 5	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	partie	partie	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
 7	de	de	ADP	_	_	9	case	_	_
 8	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	commission	commission	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	_
-10	promise	promettre	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	9	acl	_	_
+10	promise	promettre	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	9	acl	_	_
 11	par	par	ADP	_	_	13	case	_	_
 12	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	13	det	_	_
 13	fonds	fonds	NOUN	_	Gender=Masc|Number=Plur	4	obl:agent	_	_

@@ -139,7 +139,7 @@ The most frequent other feature values with which `PROPN` and `VerbForm` co-occu
 `PROPN` tokens may have the following values of `VerbForm`:
 
 * `Part` (2; 100% of non-empty `VerbForm`): पाती
-* `EMPTY` (417): भोजपुरी, प्रियंका, सिंह, राय, जी, पाती, डॉ., पाण्डेय, चोपड़ा, डा॰
+* `EMPTY` (419): भोजपुरी, प्रियंका, सिंह, राय, जी, पाती, डॉ., पाण्डेय, चोपड़ा, डा॰
 
 ### `ADJ`
 
@@ -150,7 +150,7 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 `ADJ` tokens may have the following values of `VerbForm`:
 
 * `Part` (1; 100% of non-empty `VerbForm`): बचपनवाला
-* `EMPTY` (249): पूरा, बड़, सांस्कृतिक, तथाकथित, प, छोट, भोजपुरिया, खास, चुपचाप, जरूरी
+* `EMPTY` (248): पूरा, बड़, सांस्कृतिक, तथाकथित, प, छोट, भोजपुरिया, खास, चुपचाप, जरूरी
 
 ### `ADV`
 
@@ -161,7 +161,7 @@ The most frequent other feature values with which `ADV` and `VerbForm` co-occurr
 `ADV` tokens may have the following values of `VerbForm`:
 
 * `Part` (1; 100% of non-empty `VerbForm`): नाहिंए
-* `EMPTY` (31): जइसे, हिन्दी, गद्य, जल्दी, ललित, सभ्य, आजुओ, आनन्द, आसानी, जरूर
+* `EMPTY` (30): जइसे, हिन्दी, गद्य, जल्दी, ललित, सभ्य, आजुओ, आनन्द, आसानी, जरूर
 
 ### `NUM`
 

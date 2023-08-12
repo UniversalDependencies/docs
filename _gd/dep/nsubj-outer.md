@@ -34,4 +34,4 @@ _Chaidh an dithis, nach deach an ainmeachadh fhathast, an toirt gu ospadal ann a
 17	Lethinn	Lethinn	PROPN	Nt	_	16	flat	_	SpaceAfter=No
 18	.	.	PUNCT	Fe	_	12	punct	_	_
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:35 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:04:24 CEST -->

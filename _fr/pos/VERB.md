@@ -16,4 +16,4 @@ The tag `VERB` is reserved for full lexical verbs, while auxiliary verbs are tag
 - _je <b>vois</b>_ "I <b>see</b>"
 - _à <b>lire</b>_ "to <b>read</b>"
 - _en <b>marchant</b>_ "<b>walking</b>"
-<!-- Interlanguage links updated Po lis 14 15:34:38 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:29 CEST -->

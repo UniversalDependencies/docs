@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Barbora Hladká, Daniel Zeman.
 
 Repository: [UD_Czech-CAC](https://github.com/UniversalDependencies/UD_Czech-CAC)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_cac211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_cac212)<br />
+Download all treebanks: [UD 2.12](/#download)
 
 License: CC BY-SA 4.0
 
@@ -1351,12 +1351,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB-Fin--NOUN (28)</li>
-      <li>VERB-Fin--NOUN-Acc (36)</li>
+      <li>VERB-Fin--NOUN-Acc (34)</li>
       <li>VERB-Fin--NOUN-Gen (113)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(kolem) (3)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(na) (2)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(přes) (3)</li>
-      <li>VERB-Fin--NOUN-Nom (7655)</li>
+      <li>VERB-Fin--NOUN-Nom (7654)</li>
       <li>VERB-Fin--PRON (28)</li>
       <li>VERB-Fin--PRON-Acc (3)</li>
       <li>VERB-Fin--PRON-Dat (1)</li>
@@ -1365,14 +1365,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Ins (1)</li>
       <li>VERB-Fin--PRON-Nom (498)</li>
       <li>VERB-Inf--NOUN (2)</li>
-      <li>VERB-Inf--NOUN-Acc (3)</li>
+      <li>VERB-Inf--NOUN-Acc (2)</li>
       <li>VERB-Inf--NOUN-Gen (5)</li>
       <li>VERB-Inf--NOUN-Nom (184)</li>
       <li>VERB-Inf--PRON-Nom (15)</li>
       <li>VERB-Part--NOUN (32)</li>
-      <li>VERB-Part--NOUN-Acc (4)</li>
+      <li>VERB-Part--NOUN-Acc (3)</li>
       <li>VERB-Part--NOUN-Acc-ADP(přes) (1)</li>
-      <li>VERB-Part--NOUN-Gen (110)</li>
+      <li>VERB-Part--NOUN-Gen (109)</li>
       <li>VERB-Part--NOUN-Gen-ADP(kolem) (1)</li>
       <li>VERB-Part--NOUN-Gen-ADP(na) (2)</li>
       <li>VERB-Part--NOUN-Gen-ADP(přes) (2)</li>

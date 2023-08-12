@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="kpv_lattice-pos-VER
 
 847 <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> tokens (63% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="kpv_lattice-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (845; 100%), <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (806; 95%), <tt><a href="kpv_lattice-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (764; 90%), <tt><a href="kpv_lattice-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (764; 90%), <tt><a href="kpv_lattice-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (653; 77%), <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt> (652; 77%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (595; 70%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="kpv_lattice-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (845; 100%), <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (806; 95%), <tt><a href="kpv_lattice-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (764; 90%), <tt><a href="kpv_lattice-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (764; 90%), <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt> (652; 77%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (595; 70%).
 
 `VERB` tokens may have the following values of `Tense`:
 
@@ -30,7 +30,6 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 <table>
   <tr><th>Paradigm <i>мунны</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th></tr>
   <tr><td><tt><tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>мунӧ</em></td><td><em>мунас</em></td><td><em>муніс</em></td></tr>
-  <tr><td><tt><tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="kpv_lattice-feat-Valency.html">Valency</a></tt><tt>=1</tt></tt></td><td><em>мунӧ</em></td><td><em>мунас</em></td><td><em>муніс</em></td></tr>
   <tr><td><tt><tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>мунісны</em></td></tr>
 </table>
 
@@ -38,7 +37,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 240 <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> tokens (78% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="kpv_lattice-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (240; 100%), <tt><a href="kpv_lattice-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (207; 86%), <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt> (197; 82%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (165; 69%), <tt><a href="kpv_lattice-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (126; 53%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="kpv_lattice-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (240; 100%), <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt> (197; 82%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (165; 69%), <tt><a href="kpv_lattice-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (126; 53%).
 
 `AUX` tokens may have the following values of `Tense`:
 
@@ -52,9 +51,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
   <tr><td><tt><tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td></td><td></td><td><em>верми</em></td></tr>
   <tr><td><tt><tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td><em>верман</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>вермас</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kpv_lattice-feat-Valency.html">Valency</a></tt><tt>=1</tt></tt></td><td></td><td><em>вермас</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td></td><td><em>вермисны</em></td></tr>
-  <tr><td><tt><tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kpv_lattice-feat-Valency.html">Valency</a></tt><tt>=1</tt></tt></td><td></td><td><em>вермасны</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>вермасны</em></td><td><em>вермисны</em></td></tr>
 </table>
 
 ## Relations with Agreement in `Tense`

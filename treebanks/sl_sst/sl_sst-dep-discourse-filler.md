@@ -22,17 +22,17 @@ The following 13 pairs of parts of speech are connected with `discourse:filler`:
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 1 discourse:filler	color:blue
-1	eee	eee	INTJ	I	_	6	discourse:filler	_	word=eee|msd=M
-2	kako	kako	ADV	Rgp	Degree=Pos	6	advmod	_	word=kako|msd=Rsn
-3	ste	biti	AUX	Va-r2p-n	Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	aux	_	word=ste|msd=Gp-sdm-n
-4	pa	pa	CCONJ	Cc	_	6	advmod	_	word=pa|msd=Vp
-5	vi	ti	PRON	Pp2mpn	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	6	nsubj	_	word=vi|msd=Zodmmi
-6	iskali	iskati	VERB	Vmpp-pm	Aspect=Imp|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	word=iskali|msd=Ggnd-mm
-7	svojega	svoj	DET	Px-msa	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	10	det	_	word=svojega|msd=Zp-met
-8	cimra	cimer	NOUN	Ncmsay	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	10	reparandum	_	word=cimra|msd=Sometd
-9	sostanovalca	sostanovalec	NOUN	Ncmsay	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	10	reparandum	_	word=sostanovalca|msd=Sometd
-10	cimra	cimer	NOUN	Ncmsay	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	6	obj	_	word=cimra|msd=Sometd
-11	?	?	PUNCT	Z	_	6	punct	_	word=?|msd=U
+1	eee	eee	INTJ	I	_	6	discourse:filler	_	pronunciation=eee
+2	kako	kako	ADV	Rgp	Degree=Pos	6	advmod	_	pronunciation=kako
+3	ste	biti	AUX	Va-r2p-n	Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	aux	_	pronunciation=ste
+4	pa	pa	CCONJ	Cc	_	6	advmod	_	pronunciation=pa
+5	vi	ti	PRON	Pp2mpn	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	6	nsubj	_	pronunciation=vi
+6	iskali	iskati	VERB	Vmpp-pm	Aspect=Imp|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	pronunciation=iskali
+7	svojega	svoj	DET	Px-msa	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs|Reflex=Yes	10	det	_	pronunciation=svojega
+8	cimra	cimer	NOUN	Ncmsay	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	10	reparandum	_	pronunciation=cimra
+9	sostanovalca	sostanovalec	NOUN	Ncmsay	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	10	reparandum	_	pronunciation=sostanovalca
+10	cimra	cimer	NOUN	Ncmsay	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	6	obj	_	pronunciation=cimra
+11	?	?	PUNCT	Z	_	6	punct	_	pronunciation=?
 
 ~~~
 
@@ -43,12 +43,12 @@ The following 13 pairs of parts of speech are connected with `discourse:filler`:
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 4 discourse:filler	color:blue
-1	hvala	hvala	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	0	root	_	word=hvala|msd=Sozei
-2	vam	ti	PRON	Pp2-pd	Case=Dat|Number=Plur|Person=2|PronType=Prs	1	obj	_	word=vam|msd=Zod-md
-3	za	za	ADP	Sa	Case=Acc	6	case	_	word=za|msd=Dt
-4	eee	eee	INTJ	I	_	6	discourse:filler	_	word=eee|msd=M
-5	vašo	vaš	DET	Ps2fsap	Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs	6	det	_	word=vašo|msd=Zsdzetm
-6	pripombo	pripomba	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	word=pripombo|msd=Sozet
+1	hvala	hvala	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	0	root	_	pronunciation=hvala
+2	vam	ti	PRON	Pp2-pd	Case=Dat|Number=Plur|Person=2|PronType=Prs	1	obj	_	pronunciation=vam
+3	za	za	ADP	Sa	Case=Acc	6	case	_	pronunciation=za
+4	eee	eee	INTJ	I	_	6	discourse:filler	_	pronunciation=eee
+5	vašo	vaš	DET	Ps2fsap	Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs	6	det	_	pronunciation=vašo
+6	pripombo	pripomba	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	pronunciation=pripombo
 
 ~~~
 
@@ -59,16 +59,16 @@ The following 13 pairs of parts of speech are connected with `discourse:filler`:
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 discourse:filler	color:blue
-1	kakšen	kakšen	DET	Pq-msn	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	0	root	_	word=kašen|msd=Zv-mei
-2	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	cop	_	word=je|msd=Gp-ste-n
-3	ta	ta	DET	Pd-msn	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	word=ta|msd=Zk-mei
-4	zalivski	zalivski	ADJ	Agpmsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	word=Zalivski|msd=Ppnmeid
-5	tok	tok	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	word=tok|msd=Somei
-6	eee	eee	INTJ	I	_	7	discourse:filler	_	word=eee|msd=M
-7	topel	topel	ADJ	Agpmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	1	parataxis	_	word=topu|msd=Ppnmein
-8	ali	ali	CCONJ	Cc	_	9	cc	_	word=ali|msd=Vp
-9	hladen	hladen	ADJ	Agpmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	7	conj	_	word=hladen|msd=Ppnmein
-10	?	?	PUNCT	Z	_	1	punct	_	word=?|msd=U
+1	kakšen	kakšen	DET	Pq-msn	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	0	root	_	pronunciation=kašen
+2	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	cop	_	pronunciation=je
+3	ta	ta	DET	Pd-msn	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	pronunciation=ta
+4	zalivski	zalivski	ADJ	Agpmsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	pronunciation=Zalivski
+5	tok	tok	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	pronunciation=tok
+6	eee	eee	INTJ	I	_	7	discourse:filler	_	pronunciation=eee
+7	topel	topel	ADJ	Agpmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	1	parataxis	_	pronunciation=topu
+8	ali	ali	CCONJ	Cc	_	9	cc	_	pronunciation=ali
+9	hladen	hladen	ADJ	Agpmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	7	conj	_	pronunciation=hladen
+10	?	?	PUNCT	Z	_	1	punct	_	pronunciation=?
 
 ~~~
 

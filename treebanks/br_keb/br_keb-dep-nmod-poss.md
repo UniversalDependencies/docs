@@ -54,7 +54,7 @@ The following 2 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 10	all	all	ADJ	adj	_	9	amod	_	_
 11	o	o	AUX	vpart	_	12	aux	_	_
 12	kanañ	kanañ	VERB	vblex	VerbForm=Inf	4	advcl	_	SpaceAfter=No
-13	.	.	PUNCT	sent	_	4	punct	_	_
+13	...	...	PUNCT	sent	_	4	punct	_	_
 
 ~~~
 

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Emanuel Borges Völker, Felix Hennig, Arne Köhn, Maximilan Wendt.
 
 Repository: [UD_German-HDT](https://github.com/UniversalDependencies/UD_German-HDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udde_hdt211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udde_hdt212)<br />
+Download all treebanks: [UD 2.12](/#download)
 
 License: CC BY-SA 4.0
 
@@ -146,11 +146,11 @@ and correct errors in annotated corpora
 
 ## Features
 
-[AdpType](de_hdt-feat-AdpType.html) – [Aspect](de_hdt-feat-Aspect.html) – [Case](de_hdt-feat-Case.html) – [ConjType](de_hdt-feat-ConjType.html) – [Definite](de_hdt-feat-Definite.html) – [Degree](de_hdt-feat-Degree.html) – [Foreign](de_hdt-feat-Foreign.html) – [Gender](de_hdt-feat-Gender.html) – [Hyph](de_hdt-feat-Hyph.html) – [Mood](de_hdt-feat-Mood.html) – [Number](de_hdt-feat-Number.html) – [NumType](de_hdt-feat-NumType.html) – [PartType](de_hdt-feat-PartType.html) – [Person](de_hdt-feat-Person.html) – [Polarity](de_hdt-feat-Polarity.html) – [Poss](de_hdt-feat-Poss.html) – [PronType](de_hdt-feat-PronType.html) – [PunctType](de_hdt-feat-PunctType.html) – [Reflex](de_hdt-feat-Reflex.html) – [Tense](de_hdt-feat-Tense.html) – [Variant](de_hdt-feat-Variant.html) – [VerbForm](de_hdt-feat-VerbForm.html) – [VerbType](de_hdt-feat-VerbType.html)
+[Abbr](de_hdt-feat-Abbr.html) – [AdpType](de_hdt-feat-AdpType.html) – [Aspect](de_hdt-feat-Aspect.html) – [Case](de_hdt-feat-Case.html) – [ConjType](de_hdt-feat-ConjType.html) – [Definite](de_hdt-feat-Definite.html) – [Degree](de_hdt-feat-Degree.html) – [Foreign](de_hdt-feat-Foreign.html) – [Gender](de_hdt-feat-Gender.html) – [Gender[psor]](de_hdt-feat-Gender-psor.html) – [Hyph](de_hdt-feat-Hyph.html) – [Mood](de_hdt-feat-Mood.html) – [Number](de_hdt-feat-Number.html) – [Number[psor]](de_hdt-feat-Number-psor.html) – [NumType](de_hdt-feat-NumType.html) – [PartType](de_hdt-feat-PartType.html) – [Person](de_hdt-feat-Person.html) – [Polarity](de_hdt-feat-Polarity.html) – [Polite](de_hdt-feat-Polite.html) – [Poss](de_hdt-feat-Poss.html) – [PronType](de_hdt-feat-PronType.html) – [PunctType](de_hdt-feat-PunctType.html) – [Reflex](de_hdt-feat-Reflex.html) – [Tense](de_hdt-feat-Tense.html) – [Typo](de_hdt-feat-Typo.html) – [Variant](de_hdt-feat-Variant.html) – [VerbForm](de_hdt-feat-VerbForm.html) – [VerbType](de_hdt-feat-VerbType.html)
 
 ## Relations
 
-[acl](de_hdt-dep-acl.html) – [advcl](de_hdt-dep-advcl.html) – [advmod](de_hdt-dep-advmod.html) – [amod](de_hdt-dep-amod.html) – [appos](de_hdt-dep-appos.html) – [aux](de_hdt-dep-aux.html) – [aux:pass](de_hdt-dep-aux-pass.html) – [case](de_hdt-dep-case.html) – [cc](de_hdt-dep-cc.html) – [ccomp](de_hdt-dep-ccomp.html) – [compound](de_hdt-dep-compound.html) – [compound:prt](de_hdt-dep-compound-prt.html) – [conj](de_hdt-dep-conj.html) – [cop](de_hdt-dep-cop.html) – [csubj](de_hdt-dep-csubj.html) – [csubj:pass](de_hdt-dep-csubj-pass.html) – [det](de_hdt-dep-det.html) – [det:poss](de_hdt-dep-det-poss.html) – [discourse](de_hdt-dep-discourse.html) – [expl](de_hdt-dep-expl.html) – [expl:pv](de_hdt-dep-expl-pv.html) – [flat](de_hdt-dep-flat.html) – [flat:name](de_hdt-dep-flat-name.html) – [iobj](de_hdt-dep-iobj.html) – [mark](de_hdt-dep-mark.html) – [nmod](de_hdt-dep-nmod.html) – [nmod:poss](de_hdt-dep-nmod-poss.html) – [nsubj](de_hdt-dep-nsubj.html) – [nsubj:pass](de_hdt-dep-nsubj-pass.html) – [nummod](de_hdt-dep-nummod.html) – [obj](de_hdt-dep-obj.html) – [obl](de_hdt-dep-obl.html) – [obl:arg](de_hdt-dep-obl-arg.html) – [orphan](de_hdt-dep-orphan.html) – [parataxis](de_hdt-dep-parataxis.html) – [punct](de_hdt-dep-punct.html) – [reparandum](de_hdt-dep-reparandum.html) – [root](de_hdt-dep-root.html) – [vocative](de_hdt-dep-vocative.html) – [xcomp](de_hdt-dep-xcomp.html)
+[acl](de_hdt-dep-acl.html) – [acl:relcl](de_hdt-dep-acl-relcl.html) – [advcl](de_hdt-dep-advcl.html) – [advmod](de_hdt-dep-advmod.html) – [amod](de_hdt-dep-amod.html) – [appos](de_hdt-dep-appos.html) – [aux](de_hdt-dep-aux.html) – [aux:pass](de_hdt-dep-aux-pass.html) – [case](de_hdt-dep-case.html) – [cc](de_hdt-dep-cc.html) – [ccomp](de_hdt-dep-ccomp.html) – [compound](de_hdt-dep-compound.html) – [compound:prt](de_hdt-dep-compound-prt.html) – [conj](de_hdt-dep-conj.html) – [cop](de_hdt-dep-cop.html) – [csubj](de_hdt-dep-csubj.html) – [csubj:pass](de_hdt-dep-csubj-pass.html) – [det](de_hdt-dep-det.html) – [det:poss](de_hdt-dep-det-poss.html) – [discourse](de_hdt-dep-discourse.html) – [expl](de_hdt-dep-expl.html) – [expl:pv](de_hdt-dep-expl-pv.html) – [flat](de_hdt-dep-flat.html) – [flat:name](de_hdt-dep-flat-name.html) – [mark](de_hdt-dep-mark.html) – [nmod](de_hdt-dep-nmod.html) – [nmod:poss](de_hdt-dep-nmod-poss.html) – [nsubj](de_hdt-dep-nsubj.html) – [nsubj:pass](de_hdt-dep-nsubj-pass.html) – [nummod](de_hdt-dep-nummod.html) – [obj](de_hdt-dep-obj.html) – [obl](de_hdt-dep-obl.html) – [obl:arg](de_hdt-dep-obl-arg.html) – [orphan](de_hdt-dep-orphan.html) – [parataxis](de_hdt-dep-parataxis.html) – [punct](de_hdt-dep-punct.html) – [reparandum](de_hdt-dep-reparandum.html) – [root](de_hdt-dep-root.html) – [vocative](de_hdt-dep-vocative.html) – [xcomp](de_hdt-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -190,15 +190,15 @@ and correct errors in annotated corpora
 </ul>
 
 <ul>
-<li>This corpus contains 153 lemmas tagged as pronouns (PRON): 's, Deiner, Deren, Ersterer, Letzteren, Letzterer, all, alle, alledem, allerhand, ander, beide, bisschen, bißchen, d., da, das, dasjenige, dasselbe, dein, dem, demjenigen, den, denen, denjenigen, denselben, der, der/das, derartiges, derer, dergleichen, derjenige, derjenigen, derlei, derselbe, derselben, desjenigen, dessen, dich, die, die/der, diejenige, diejenigen, dies, diese, dieselbe, dieselben, diesem, diesen, dieser, dieses, dir, du, ebensoviele, ein, einander, einerlei, einig, er, er/sie, erster, ersteres, es, etlich, etwas, euch, euer, eurer, genug, ich, ihm, ihn, ihnen, ihr, ihre, ihrem, ihren, ihrer, ihres, ihresgleichen, irgendein, irgendwem, jede, jedefrau, jeder, jedermann, jedermanns, jemand, jene, jenen, jener, jenes, kein, letztere, letzterem, letzteres, man, man(n), manch, mehr, mehrer, mein, meine, meinem, meinen, meiner, meist, mich, mir, nichts, niemand, paar, sein, seine, seinem, seinen, seiner, seines, sich, sie, so, solch, solche, solchen, soviel, soviele, sowas, sämtlich, uns, unser, unsere, unsereins, unserem, unseren, unserer, unseres, viel, was, weiteres, welche, welchem, welchen, welcher, welches, wem, wen, wenig, wer, wieviel, wieviele, wir, zuviel, zweierlei</li>
+<li>This corpus contains 28 lemmas tagged as pronouns (PRON): alledem, der, der/das, die/der, du, einander, er, er/sie, es, etwas, ich, ihr, irgendetwas, irgendjemand, irgendwas, irgendwer, jedefrau, jedermann, jemand, man, nichts, niemand, sich, sie, sowas, was, wer, wir</li>
 </ul>
 
 <ul>
-<li>This corpus contains 93 lemmas tagged as determiners (DET): 'n, 's, all, allerhand, allerlei, beide, beiderlei, das, dem, demselben, den, den/die, denjenigen, denselben, der, derartig, deren, derjenigen, derlei, derselbe, derselben, des, des/der, desselben, dessen, die, diejenigen, dies, diese, dieselbe, dieselben, diesem, diesen, dieser, dieses, ein, eine, eine(n), einem, einem/er, einen, einer, eines, einig, etlich, etwas, ganz, genug, irgendein, irgendwelch, jede, jeder, jeglich, jene, jenem, jenen, jenig, kein, keinerlei, lauter, manch, mancherlei, mehr, mehrer, mehrerer, meist, nichts, paar, solch, solche, solchen, solcher, solcherlei, solches, soviel, sämtlich, tausenderlei, vielerlei, was, welch, welche, welchem, welchen, welcher, welches, wenig, wessen, wieviel, wieviele, wievielen, zuviel, zuwenig, zweierlei</li>
+<li>This corpus contains 48 lemmas tagged as determiners (DET): alle, allerhand, allerlei, anderer, beide, dein, den/die, der, dergleiche, derjenige, derlei, derselbe, des/der, dieser, ebensoviel, ein, einige, etliche, euer, ihr, irgendein, irgendwelcher, jeder, jedweder, jeglicher, jener, kein, keinerlei, mancher, mancherlei, mehr, mein, meist, sein, solcher, solcherlei, soviel, sämtlich, tausenderlei, unser, viel, vielerlei, welcher, wenig, wieviel, zuviel, zuwenig, zweierlei</li>
 </ul>
 
 <ul>
-<li>Out of the above, 58 lemmas occurred sometimes as PRON and sometimes as DET: 's, all, allerhand, beide, das, dem, den, denjenigen, denselben, der, derjenigen, derlei, derselbe, derselben, dessen, die, diejenigen, dies, diese, dieselbe, dieselben, diesem, diesen, dieser, dieses, ein, einig, etlich, etwas, genug, irgendein, jede, jeder, jene, jenen, kein, manch, mehr, mehrer, meist, nichts, paar, solch, solche, solchen, soviel, sämtlich, was, welche, welchem, welchen, welcher, welches, wenig, wieviel, wieviele, zuviel, zweierlei</li>
+<li>Out of the above, 2 lemmas occurred sometimes as PRON and sometimes as DET: der, ihr</li>
 </ul>
 
 <ul>
@@ -249,10 +249,10 @@ and correct errors in annotated corpora
 <ul>
   <li>Fem
     <ul>
-      <li>ADJ: neue, deutsche, erste, weitere, eigene, große, nächste, deutschen, andere, digitale</li>
-      <li>DET: die, der, eine, einer, diese, dieser, keine, jede, aller, einiger</li>
+      <li>ADJ: neue, deutsche, erste, weitere, eigene, große, nächste, deutschen, digitale, letzte</li>
+      <li>DET: die, der, eine, einer, diese, seiner, seine, dieser, keine, ihre</li>
       <li>NOUN: Millionen, Mark, Milliarden, Firma, Angaben, Software, Zeit, Firmen, Version, Informationen</li>
-      <li>PRON: die, sie, seiner, seine, ihre, der, ihrer, diese, eine, unsere</li>
+      <li>PRON: die, sie, der, ihr, derer, Deren, er/sie</li>
       <li>PROPN: Telekom, c't, Europa, AMD, Sun, Telecom, T-Online, Bertelsmann, dpa, Viag</li>
     </ul>
   </li>
@@ -262,9 +262,9 @@ and correct errors in annotated corpora
   <li>Masc
     <ul>
       <li>ADJ: neuen, neue, ersten, neuer, deutsche, deutschen, großen, größte, erste, eigenen</li>
-      <li>DET: der, den, des, dem, einen, ein, einem, eines, diesem, keinen</li>
-      <li>NOUN: US-Dollar, Euro, Markt, Dollar, Hersteller, Umsatz, Computer, Preis, Anfang, Mitarbeiter</li>
-      <li>PRON: er, der, seinen, dem, ihren, den, seinem, ihn, einer, anderem</li>
+      <li>DET: der, den, des, dem, einen, ein, einem, eines, diesem, seinen</li>
+      <li>NOUN: US-Dollar, Euro, Markt, Dollar, Hersteller, Computer, Umsatz, Preis, Anfang, Mitarbeiter</li>
+      <li>PRON: er, der, dem, den, ihn, ihm, dessen, die/der</li>
       <li>PROPN: Bill, Warner, Michael, Thomas, Steve, Ron, John, Jackson, Gerhard, Peter</li>
     </ul>
   </li>
@@ -282,10 +282,10 @@ and correct errors in annotated corpora
   <li>Neut
     <ul>
       <li>ADJ: neue, neues, erste, weiteres, ersten, laufende, neuen, eigenes, erstes, zweite</li>
-      <li>ADV: bisschen, bißchen, erstenmal</li>
-      <li>DET: das, ein, des, dem, einem, dieses, diesem, eines, kein, jedes</li>
+      <li>ADV: erstenmal</li>
+      <li>DET: das, ein, des, dem, einem, allem, dies, dieses, eines, diesem</li>
       <li>NOUN: Prozent, Internet, Unternehmen, Jahr, Ende, Quartal, Jahres, Jahren, Netz, Daten</li>
-      <li>PRON: es, das, allem, dies, was, mehr, anderem, dem, sein, ihr</li>
+      <li>PRON: es, das, was, dem, nichts, etwas, ihm, 's, dessen, s</li>
       <li>PROPN: AppleStore, PowerBooks, KurzFilmFestival, PowerBook, RealVideo, BusinessCall, Deutschland, FeRAMs, G3-PowerBook, InternetTeam</li>
       <li>X: Inc., Corp.</li>
     </ul>
@@ -300,13 +300,13 @@ and correct errors in annotated corpora
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: neue, neuen, viele, anderen, weitere, andere, eigenen, beiden, ersten, deutschen</li>
+      <li>ADJ: neue, neuen, weitere, eigenen, beiden, ersten, deutschen, nächsten, letzten, großen</li>
       <li>AUX: sind, werden, haben, sollen, können, seien, wurden, wollen, würden, waren</li>
       <li>AUX-Fin: sind, werden, haben, sollen, können, seien, wurden, wollen, würden, waren</li>
-      <li>DET: die, der, den, alle, keine, diese, einige, allen, aller, mehrere</li>
-      <li>NOUN: Prozent, Millionen, Mark, US-Dollar, Milliarden, Euro, Kunden, Unternehmen, Angaben, Firmen</li>
+      <li>DET: die, der, den, alle, ihre, diese, keine, viele, anderen, andere</li>
+      <li>NOUN: Prozent, Millionen, Kunden, Mark, US-Dollar, Milliarden, Euro, Unternehmen, Angaben, Firmen</li>
       <li>NUM: zwei, 2000, drei, 2001, 1999, vier, fünf, 20, 100, 30</li>
-      <li>PRON: die, sie, wir, ihre, seine, denen, uns, ihren, seinen, diese</li>
+      <li>PRON: die, sie, wir, denen, uns, ihnen, ihr, derer, euch, der</li>
       <li>PROPN: USA, Las, Handys, Celerons, Vegas, Niederlande, E-Books, Reuters, iMacs, RDRAMs</li>
       <li>VERB: stehen, lassen, kommen, gehören, gehen, sehen, arbeiten, finden, liegen, machen</li>
       <li>VERB-Fin: stehen, lassen, kommen, gehören, gehen, sehen, arbeiten, finden, liegen, machen</li>
@@ -318,13 +318,13 @@ and correct errors in annotated corpora
   <li>Sing
     <ul>
       <li>ADJ: neuen, neue, deutschen, deutsche, ersten, erste, vergangenen, letzten, zweiten, heutigen</li>
-      <li>ADV: bisschen, bißchen, erstenmal</li>
+      <li>ADV: erstenmal</li>
       <li>AUX-Fin: ist, hat, wird, soll, sei, will, hatte, kann, habe, war</li>
-      <li>DET: der, dem, die, das, des, den, eine, ein, einen, einem</li>
+      <li>DET: der, dem, die, das, des, den, eine, ein, einen, einer</li>
       <li>NOUN: Internet, Jahr, Unternehmen, Firma, Markt, Ende, Quartal, Software, Jahres, Zeit</li>
-      <li>NUM: 1, eins, ein, SR-1, 2^3021377-1, 3166-1, EFS-1, Slot-1, viertel, 2/1</li>
-      <li>PRON: es, man, das, er, der, die, sie, allem, dies, was</li>
-      <li>PROPN: Microsoft, Telekom, Deutschland, Intel, AOL, IBM, c't, Europa, AMD, Apple</li>
+      <li>NUM: 1, eins, Ein, SR-1, 2^3021377-1, 3166-1, EFS-1, Slot-1, viertel, 2/1</li>
+      <li>PRON: es, man, das, er, der, die, sie, was, dem, wer</li>
+      <li>PROPN: Deutschland, Microsoft, Telekom, Intel, Linux, Windows, AOL, online, Europa, IBM</li>
       <li>VERB: sagte, gibt, geht, steht, bietet, erklärte, kommt, sieht, gab, stellt</li>
       <li>VERB-Fin: sagte, gibt, geht, steht, bietet, erklärte, kommt, sieht, gab, stellt</li>
       <li>X: Inc., Corp., Call</li>
@@ -339,13 +339,12 @@ and correct errors in annotated corpora
 <ul>
   <li>Acc
     <ul>
-      <li>ADJ: neuen, viele, ersten, großen, eigenen, weiteren, deutschen, wenige, beiden, größten</li>
+      <li>ADJ: neuen, ersten, großen, eigenen, weiteren, deutschen, wenige, beiden, größten, solche</li>
       <li>ADP: für, auf, in, über, um, durch, an, gegen, ohne, unter</li>
-      <li>ADV: bisschen, bißchen</li>
-      <li>DET: die, den, das, eine, einen, ein, keine, diese, alle, keinen</li>
+      <li>DET: die, den, das, eine, einen, ein, ihre, seine, keine, diese</li>
       <li>NOUN: Internet, Mark, Server, Ende, US-Dollar, Markt, Kunden, Version, Zugang, Anfang</li>
-      <li>PRON: sich, ihre, seine, die, das, seinen, sie, sein, es, ihren</li>
-      <li>PROPN: Microsoft, AOL, Intel, Napster, Java, Palm, IBM, Apple, OS/2, Netscape</li>
+      <li>PRON: sich, die, das, sie, es, den, was, ihn, uns, mich</li>
+      <li>PROPN: Microsoft, AOL, Intel, Napster, Java, Palm, IBM, Apple, OS/2, Mac</li>
       <li>X: Internetbanking</li>
     </ul>
   </li>
@@ -354,13 +353,14 @@ and correct errors in annotated corpora
 <ul>
   <li>Dat
     <ul>
-      <li>ADJ: anderen, eigenen, neuen, vielen, wenigen, verschiedenen, kurzem, weiteren, deutschen, beiden</li>
+      <li>ADJ: eigenen, neuen, ersten, nächsten, letzten, wenigen, deutschen, verschiedenen, vergangenen, weiteren</li>
       <li>ADP: in, von, mit, zu, bei, an, nach, auf, aus, vor</li>
-      <li>DET: dem, der, den, einem, einer, diesem, dieser, allen, einigen, diesen</li>
-      <li>NOUN: Jahren, Monaten, Tagen, Ländern, Mitarbeitern, Geräten, Computern, Bereichen, Worten, Zuge</li>
-      <li>NUM: dreien, zweien</li>
-      <li>PRON: sich, allem, dem, anderem, seiner, denen, der, seinem, ihren, ihrer</li>
-      <li>PROPN: Microsoft, heise, AOL, Intel, IBM, Napster, Apple, Frankreich, Netscape, Sony</li>
+      <li>DET: dem, der, den, einem, einer, diesem, allem, anderem, seiner, anderen</li>
+      <li>NOUN: Jahren, Monaten, Tagen, Ländern, Mitarbeitern, Kunden, Geräten, Computern, Bereichen, Internet</li>
+      <li>NUM: drei, dreien, 1394, 15.000, 300, 4, 86a, Acht, tausend, zwei</li>
+      <li>PRON: sich, dem, denen, der, ihm, ihnen, uns, mir, ihr, wem</li>
+      <li>PROPN: Microsoft, heise, AOL, Intel, IBM, Napster, Apple, Frankreich, Telepolis, Netscape</li>
+      <li>X: Internet, World, Baby, France, Instant, Open, Vice, endlich, .web-Domain, Abstract</li>
     </ul>
   </li>
 </ul>
@@ -368,13 +368,13 @@ and correct errors in annotated corpora
 <ul>
   <li>Gen
     <ul>
-      <li>ADJ: neuer, anderer, beiden, letzten, nächsten, vergangenen, vieler, deutscher, weiterer, verschiedener</li>
+      <li>ADJ: neuer, beiden, letzten, nächsten, vergangenen, deutscher, weiterer, verschiedener, großer, solchen</li>
       <li>ADP: angesichts, aufgrund, wegen, außerhalb, anhand, innerhalb, trotz, hinsichtlich, während, zugunsten</li>
-      <li>DET: der, des, eines, einer, dieser, dieses, aller, einiger, beider, solcher</li>
+      <li>DET: der, des, eines, einer, dieser, seiner, dieses, aller, ihrer, seines</li>
       <li>NOUN: Jahres, Unternehmens, Konzerns, Geschäftsjahres, Systems, Herstellers, Vorjahres, Marktes, Netzes, Quartals</li>
       <li>NUM: zweier, Tausender</li>
-      <li>PRON: seiner, ihrer, seines, ihres, unserer, dessen, unseres, derer, eines, einer</li>
-      <li>PROPN: Microsofts, Intels, Apples, Deutschlands, Europas, Suns, AMDs, IBMs, Sonys, ICANNs</li>
+      <li>PRON: deren, dessen, derer, der, jedermanns</li>
+      <li>PROPN: Microsofts, Intels, Apples, AMDs, Deutschlands, Europas, ICANNs, Suns, IBMs, Sonys</li>
     </ul>
   </li>
 </ul>
@@ -382,12 +382,12 @@ and correct errors in annotated corpora
 <ul>
   <li>Nom
     <ul>
-      <li>ADJ: viele, beiden, neue, neuer, deutsche, größte, erste, erster, amerikanische, japanische</li>
+      <li>ADJ: beiden, neue, neuer, deutsche, größte, erste, erster, amerikanische, japanische, weiterer</li>
       <li>ADP: namens, voller</li>
-      <li>DET: die, der, das, ein, eine, diese, alle, keine, kein, einige</li>
+      <li>DET: die, der, das, ein, eine, diese, dies, alle, viele, keine</li>
       <li>NOUN: Internet, Name, Vorsitzende, Vorsitzender, Riese, Vorstandsvorsitzender, Unternehmen, Vorstandsvorsitzende, Server, E-Mail</li>
       <li>NUM: eins</li>
-      <li>PRON: es, die, man, sie, er, das, der, wir, was, dies</li>
+      <li>PRON: es, die, man, sie, er, das, der, wir, was, wer</li>
       <li>PROPN: Microsoft, Intel, AOL, IBM, Apple, Napster, Compaq, Siemens, Sony, Gates</li>
       <li>X: AID, Anti-Spam-Petition, Digital, Push, Telekom-Mitarbeiter, dmmv</li>
     </ul>
@@ -402,7 +402,15 @@ and correct errors in annotated corpora
 <ul>
   <li>Def
     <ul>
-      <li>DET: dem, der, das</li>
+      <li>DET: der, die, dem, den, das, des, 's</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ind
+    <ul>
+      <li>DET: eine, ein, einen, einer, einem, eines, eins, 'n, eine(n), einem/er</li>
     </ul>
   </li>
 </ul>
@@ -419,8 +427,7 @@ and correct errors in annotated corpora
     <ul>
       <li>ADJ: weitere, weiteren, später, besser, schneller, stärker, früher, größere, länger, höhere</li>
       <li>ADV: mehr, weiter, eher, weniger</li>
-      <li>DET: mehr, weniger</li>
-      <li>PRON: mehr, weniger</li>
+      <li>DET: mehr, mehrere, weniger, mehreren, mehrerer</li>
     </ul>
   </li>
 </ul>
@@ -428,9 +435,9 @@ and correct errors in annotated corpora
 <ul>
   <li>Pos
     <ul>
-      <li>ADJ: neue, neuen, deutschen, deutsche, anderen, eigenen, andere, vergangenen, möglich, gut</li>
+      <li>ADJ: neue, neuen, ersten, deutschen, deutsche, eigenen, erste, vergangenen, möglich, gut</li>
       <li>ADV: so, sehr, oft, gleich</li>
-      <li>PRON: viele, viel, wenig, vielen, wenige, wenigen, weniger, soviele, vieler</li>
+      <li>DET: wenig, wenige, wenigen, weniger, geeinte</li>
     </ul>
   </li>
 </ul>
@@ -438,10 +445,9 @@ and correct errors in annotated corpora
 <ul>
   <li>Sup
     <ul>
-      <li>ADJ: ersten, nächsten, erste, letzten, größten, meisten, größte, nächste, erster, letzte</li>
+      <li>ADJ: nächsten, letzten, größten, größte, nächste, letzte, wichtigsten, neuesten, jüngsten, letzter</li>
       <li>ADV: möglichst, meist, meistens, meisten</li>
-      <li>DET: meisten</li>
-      <li>PRON: meisten, wenigsten</li>
+      <li>DET: meisten, meiste, wenigsten</li>
     </ul>
   </li>
 </ul>
@@ -465,7 +471,7 @@ and correct errors in annotated corpora
 <ul>
   <li>Short
     <ul>
-      <li>ADJ: möglich, gut, weltweit, deutlich, knapp, künftig, bekannt, schnell, offensichtlich, gleichzeitig</li>
+      <li>ADJ: möglich, gut, ganz, weltweit, deutlich, knapp, künftig, bekannt, schnell, offensichtlich</li>
     </ul>
   </li>
 </ul>
@@ -547,7 +553,7 @@ and correct errors in annotated corpora
 <ul>
   <li>Art
     <ul>
-      <li>DET: der, die, dem, den, das, des, eine, ein, einen, einem</li>
+      <li>DET: der, die, dem, den, das, des, eine, ein, einen, einer</li>
     </ul>
   </li>
 </ul>
@@ -555,17 +561,27 @@ and correct errors in annotated corpora
 <ul>
   <li>Dem
     <ul>
-      <li>DET: diese, dieser, diesem, dieses, diesen, deren, dessen, derselben, denselben, dieselbe</li>
-      <li>PRON: das, dies, diese, die, dieser, dem, der, denen, diesen, dieses</li>
+      <li>ADV: damit, dazu, dafür, davon, dagegen, daher, darauf, darüber, dadurch, daran</li>
+      <li>DET: diese, dieser, diesem, dies, dieses, diesen, solche, solchen, solcher, diejenigen</li>
+      <li>PRON: sowas</li>
     </ul>
   </li>
 </ul>
 
 <ul>
-  <li>Ind,Neg,Tot
+  <li>Dem,Rel
     <ul>
-      <li>DET: keine, kein, einige, mehr, keinen, mehrere, einigen, jedem, weniger, einiger</li>
-      <li>PRON: man, allem, anderem, mehr, nichts, einer, alles, etwas, eines, eine</li>
+      <li>PRON: die, das, der, dem, denen, deren, dessen, den, derer, d.</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ind
+    <ul>
+      <li>ADV: etwas, genug, bisschen, bißchen, bischen</li>
+      <li>DET: mehr, anderen, andere, viele, anderem, einige, einigen, mehrere, meisten, viel</li>
+      <li>PRON: man, etwas, jemand, jemanden, irgendetwas, irgendjemand, jemandem, irgendwas, irgendwem, E-irgendwas</li>
     </ul>
   </li>
 </ul>
@@ -574,8 +590,25 @@ and correct errors in annotated corpora
   <li>Int
     <ul>
       <li>ADV: wie, wo, wann, warum, wobei, wonach, wodurch, womit, inwieweit, weshalb</li>
-      <li>DET: welche, welchen, welcher, welchem, wieviel, welches, welch, wieviele, wessen, wievielen</li>
-      <li>PRON: wer, was, wem, wen, wieviel, welche, welcher, welchen, welches, wieviele</li>
+      <li>DET: wieviel, wieviele, wievielen</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Int,Rel
+    <ul>
+      <li>DET: welche, welchen, welcher, welches, welchem, welch</li>
+      <li>PRON: was, wer, wem, wen, watt, wessen</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Neg
+    <ul>
+      <li>DET: keine, kein, keinen, keinerlei, keiner, keinem, keines, keins</li>
+      <li>PRON: nichts, niemand, niemanden, nix, niemandem</li>
     </ul>
   </li>
 </ul>
@@ -583,7 +616,16 @@ and correct errors in annotated corpora
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: sich, es, sie, er, wir, ihre, seine, seiner, seinen, ihrer</li>
+      <li>DET: ihre, seine, seiner, seinen, ihrer, ihren, sein, seinem, ihr, ihrem</li>
+      <li>PRON: sich, es, sie, er, wir, ich, uns, ihm, ihnen, ihn</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Rcp
+    <ul>
+      <li>PRON: einander</li>
     </ul>
   </li>
 </ul>
@@ -591,8 +633,16 @@ and correct errors in annotated corpora
 <ul>
   <li>Rel
     <ul>
-      <li>DET: deren, dessen</li>
-      <li>PRON: die, der, das, dem, was, denen, den, welches, welche, derer</li>
+      <li>PRON: der/das, die/der</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Tot
+    <ul>
+      <li>DET: alle, allem, aller, allen, jeder, beide, alles, jede, jeden, jedem</li>
+      <li>PRON: jedermann, jedermanns, alledem, alldem, jedefrau</li>
     </ul>
   </li>
 </ul>
@@ -604,7 +654,16 @@ and correct errors in annotated corpora
 <ul>
   <li>Card
     <ul>
+      <li>DET: eine, ein, einen, einer, einem, eines, beide, beiden, beider, eins</li>
       <li>NUM: zwei, 2000, drei, 2001, 1999, vier, fünf, 20, 100, 30</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ord
+    <ul>
+      <li>ADJ: ersten, erste, erster, erstes, ersteres, erstem, Ersterer, erstere</li>
     </ul>
   </li>
 </ul>
@@ -616,7 +675,7 @@ and correct errors in annotated corpora
 <ul>
   <li>Yes
     <ul>
-      <li>PRON: ihre, seine, seiner, seinen, ihrer, ihren, sein, seinem, ihr, ihrem</li>
+      <li>DET: ihre, seine, seiner, seinen, ihrer, ihren, sein, seinem, ihr, ihrem</li>
     </ul>
   </li>
 </ul>
@@ -628,7 +687,7 @@ and correct errors in annotated corpora
 <ul>
   <li>Yes
     <ul>
-      <li>PRON: sich, uns, mich, mir, euch, einander, dir, dich</li>
+      <li>PRON: sich, uns, mich, mir, euch, dir, dich</li>
     </ul>
   </li>
 </ul>
@@ -641,7 +700,8 @@ and correct errors in annotated corpora
   <li>1
     <ul>
       <li>AUX-Fin: haben, sind, werden, können, wollen, müssen, bin, habe, kann, hatten</li>
-      <li>PRON: wir, ich, uns, unsere, unserer, unser, mir, unseren, mich, unserem</li>
+      <li>DET: unsere, unserer, unser, unseren, unserem, mein, meine, unseres, meiner, meinem</li>
+      <li>PRON: wir, ich, uns, mir, mich</li>
       <li>VERB-Fin: brauchen, sehen, wissen, glauben, glaube, stehen, gehen, arbeiten, denke, erwarten</li>
     </ul>
   </li>
@@ -651,7 +711,8 @@ and correct errors in annotated corpora
   <li>2
     <ul>
       <li>AUX-Fin: werdet, habt, hast, bist, könnt, seid, solltet, dürft, kannst, müsst</li>
-      <li>PRON: ihr, du, euch, dir, deine, deiner, eure, dein, dich, euer</li>
+      <li>DET: Ihre, Ihr, Ihren, deine, Ihrer, deiner, eure, dein, euer, Ihrem</li>
+      <li>PRON: Ihnen, du, euch, dir, dich</li>
       <li>VERB: siehe, sprich, update, Stimm, bleibt, steht, lies, Mach, Mehr, geht</li>
       <li>VERB-Fin: siehe, sprich, update, Stimm, bleibt, steht, lies, Mach, Mehr, geht</li>
     </ul>
@@ -661,26 +722,83 @@ and correct errors in annotated corpora
 <ul>
   <li>3
     <ul>
-      <li>ADJ: viele, 1., beiden, meisten, vielen, paar, wenigen, viel, wenig, 15.</li>
       <li>AUX: ist, hat, wird, soll, sind, sei, will, hatte, werden, kann</li>
       <li>AUX-Fin: ist, hat, wird, soll, sind, sei, will, hatte, werden, kann</li>
-      <li>DET: keine, alle, kein, einige, mehr, aller, allen, keinen, mehrere, einigen</li>
-      <li>NOUN: Prozent, Millionen, Internet, Unternehmen, Mark, US-Dollar, Milliarden, Jahr, Kunden, Firma</li>
-      <li>NUM: zwei, 2000, drei, 2001, 1999, vier, fünf, 20, 100, 30</li>
-      <li>PRON: sich, es, die, sie, man, das, er, der, ihre, seine</li>
-      <li>PROPN: Microsoft, Telekom, Deutschland, Intel, USA, telepolis, AOL, ibm, ICANN, CeBIT</li>
+      <li>DET: ihre, seine, seiner, seinen, ihrer, ihren, sein, seinem, ihr, ihrem</li>
+      <li>PRON: sich, es, sie, er, ihm, ihn, ihnen, ihr, 's, s</li>
       <li>VERB: sagte, gibt, geht, steht, bietet, erklärte, kommt, sieht, gab, stellt</li>
       <li>VERB-Fin: sagte, gibt, geht, steht, bietet, erklärte, kommt, sieht, gab, stellt</li>
-      <li>X: of, internet, the, and, digital, mobile, media, for, OS, network</li>
     </ul>
   </li>
 </ul>
 
+<ul>
+  <li><a>Polite</a></li>
+</ul>
 
+<ul>
+  <li>Form
+    <ul>
+      <li>DET: Ihre, Ihr, Ihren, Ihrer, Ihrem</li>
+      <li>PRON: Ihnen</li>
+    </ul>
+  </li>
+</ul>
 
+<ul>
+  <li><a>Gender[psor]</a></li>
+</ul>
+
+<ul>
+  <li>Fem
+    <ul>
+      <li>DET: ihre, ihren, ihrer, ihr, ihrem, ihres</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Masc,Neut
+    <ul>
+      <li>DET: seine, seiner, seinen, sein, seinem, seines</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Number[psor]</a></li>
+</ul>
+
+<ul>
+  <li>Plur
+    <ul>
+      <li>DET: unsere, unserer, unser, unseren, unserem, unseres, eure, euer, eurer, unsereins</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Sing
+    <ul>
+      <li>DET: seine, ihre, seiner, seinen, sein, ihren, ihrer, seinem, ihr, seines</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Other Features</h3>
 
+
+<ul>
+  <li><a>Abbr</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>PRON: d.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 <ul>
   <li><a>AdpType</a>
@@ -721,6 +839,8 @@ and correct errors in annotated corpora
     <ul>
       <li>Yes
         <ul>
+          <li>DET: dies, diese, Dieser, diejenigen, diesem, einen, einer, einige</li>
+          <li>PRON: etwas</li>
           <li>X: of, internet, the, and, digital, mobile, media, for, OS, network</li>
         </ul>
       </li>
@@ -785,6 +905,18 @@ and correct errors in annotated corpora
 </ul>
 
 <ul>
+  <li><a>Typo</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>PRON: da</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>VerbType</a>
     <ul>
       <li>Mod
@@ -823,26 +955,26 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Dat (18)</li>
       <li>VERB-Fin--NOUN-Gen (7)</li>
       <li>VERB-Fin--NOUN-Nom (3344)</li>
-      <li>VERB-Fin--PRON (256)</li>
+      <li>VERB-Fin--PRON (136)</li>
       <li>VERB-Fin--PRON-Acc (2)</li>
       <li>VERB-Fin--PRON-Dat (1)</li>
-      <li>VERB-Fin--PRON-Nom (29818)</li>
+      <li>VERB-Fin--PRON-Nom (28012)</li>
       <li>VERB-Inf--NOUN (21330)</li>
       <li>VERB-Inf--NOUN-Dat (12)</li>
       <li>VERB-Inf--NOUN-Gen (3)</li>
       <li>VERB-Inf--NOUN-Nom (1028)</li>
-      <li>VERB-Inf--PRON (112)</li>
+      <li>VERB-Inf--PRON (69)</li>
       <li>VERB-Inf--PRON-Acc (1)</li>
-      <li>VERB-Inf--PRON-Dat (2)</li>
-      <li>VERB-Inf--PRON-Nom (11826)</li>
+      <li>VERB-Inf--PRON-Dat (1)</li>
+      <li>VERB-Inf--PRON-Nom (11073)</li>
       <li>VERB-Part--NOUN (11353)</li>
       <li>VERB-Part--NOUN-Acc (1)</li>
       <li>VERB-Part--NOUN-Dat (3)</li>
       <li>VERB-Part--NOUN-Gen (7)</li>
       <li>VERB-Part--NOUN-Nom (646)</li>
-      <li>VERB-Part--PRON (33)</li>
+      <li>VERB-Part--PRON (15)</li>
       <li>VERB-Part--PRON-Dat (1)</li>
-      <li>VERB-Part--PRON-Nom (3915)</li>
+      <li>VERB-Part--PRON-Nom (3677)</li>
     </ul>
   </li>
 </ul>
@@ -925,11 +1057,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Gen-ADP(auf) (1)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(um) (1)</li>
       <li>VERB-Fin--NOUN-Nom (29)</li>
-      <li>VERB-Fin--PRON (421)</li>
-      <li>VERB-Fin--PRON-Acc (9079)</li>
-      <li>VERB-Fin--PRON-Dat (791)</li>
-      <li>VERB-Fin--PRON-Gen (1)</li>
-      <li>VERB-Fin--PRON-Nom (7)</li>
+      <li>VERB-Fin--PRON (229)</li>
+      <li>VERB-Fin--PRON-Acc (8273)</li>
+      <li>VERB-Fin--PRON-Dat (750)</li>
+      <li>VERB-Fin--PRON-Nom (3)</li>
       <li>VERB-Inf--NOUN (37081)</li>
       <li>VERB-Inf--NOUN-ADP(An) (15)</li>
       <li>VERB-Inf--NOUN-ADP(Auf) (22)</li>
@@ -982,9 +1113,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-Dat-ADP(zwischen) (2)</li>
       <li>VERB-Inf--NOUN-Gen (15)</li>
       <li>VERB-Inf--NOUN-Nom (16)</li>
-      <li>VERB-Inf--PRON (486)</li>
-      <li>VERB-Inf--PRON-Acc (4032)</li>
-      <li>VERB-Inf--PRON-Dat (302)</li>
+      <li>VERB-Inf--PRON (313)</li>
+      <li>VERB-Inf--PRON-Acc (3458)</li>
+      <li>VERB-Inf--PRON-Dat (286)</li>
       <li>VERB-Inf--PRON-Gen (2)</li>
       <li>VERB-Inf--PRON-Nom (3)</li>
       <li>VERB-Part--NOUN (14658)</li>
@@ -1037,9 +1168,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--NOUN-Gen-ADP(von) (1)</li>
       <li>VERB-Part--NOUN-Gen-ADP(zu) (1)</li>
       <li>VERB-Part--NOUN-Nom (11)</li>
-      <li>VERB-Part--PRON (92)</li>
-      <li>VERB-Part--PRON-Acc (2047)</li>
-      <li>VERB-Part--PRON-Dat (312)</li>
+      <li>VERB-Part--PRON (50)</li>
+      <li>VERB-Part--PRON-Acc (1869)</li>
+      <li>VERB-Part--PRON-Dat (301)</li>
       <li>VERB-Part--PRON-Nom (1)</li>
     </ul>
   </li>
@@ -1048,20 +1179,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--NOUN (1074)</li>
-      <li>VERB-Fin--NOUN-Dat (446)</li>
-      <li>VERB-Fin--PRON (1)</li>
-      <li>VERB-Fin--PRON-Dat (868)</li>
-      <li>VERB-Inf--NOUN (1058)</li>
-      <li>VERB-Inf--NOUN-Dat (468)</li>
-      <li>VERB-Inf--PRON (5)</li>
-      <li>VERB-Inf--PRON-Acc (1)</li>
-      <li>VERB-Inf--PRON-Dat (775)</li>
-      <li>VERB-Part--NOUN (343)</li>
-      <li>VERB-Part--NOUN-Dat (103)</li>
-      <li>VERB-Part--PRON-Acc (1)</li>
-      <li>VERB-Part--PRON-Dat (285)</li>
-      <li>VERB-Part--PRON-Nom (1)</li>
     </ul>
   </li>
 </ul>
@@ -1076,15 +1193,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 931 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: lassen sich, handeln sich, zeigen sich, machen sich, äußern sich, sehen sich, wenden sich, richten sich, belaufen sich, entscheiden sich, erhoffen sich, aussprechen sich, fühlen sich, verschaffen sich, erklären sich, einig sich, zeichnen sich, präsentieren sich, schließen sich, sicher sich, teilen sich, sprechen sich, holen sich, leisten sich, verändern sich, verhalten sich, wünschen sich, schützen sich, verabschieden sich, fragen sich, verständigen sich, - sich, nennen sich, registrieren sich, tun sich, verbessern sich, kaufen sich, nehmen sich, verkaufen sich, entpuppen sich, bezeichnen sich, schweigen sich, häufen sich, wirken sich, bestätigen sich, zusammentun sich, gestalten sich, suchen sich, verringern sich, besorgen sich</li>
+  <li>This corpus contains 785 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: lassen sich, handeln sich, zeigen sich, äußern sich, sehen sich, wenden sich, machen sich, richten sich, belaufen sich, entscheiden sich, aussprechen sich, fühlen sich, einige sich, erklären sich, zeichnen sich, präsentieren sich, schließen sich, sicher sich, sprechen sich, verändern sich, verhalten sich, verabschieden sich, fragen sich, verständigen sich, nennen sich, schützen sich, verbessern sich, registrieren sich, - sich, tun sich, verkaufen sich, entpuppen sich, bezeichnen sich, schweigen sich, häufen sich, wirken sich, bestätigen sich, zusammentun sich, gestalten sich, verringern sich, einloggen sich, streiten sich, fortsetzen sich, mehren sich, summieren sich, vorbereiten sich, finanzieren sich, scheinen sich, lesen sich, öffnen sich</li>
     <ul>
-      <li>Out of those, 49 lemmas occurred more than once, but never without a reflexive dependent. Examples: zusammentun, einhandeln, bahnen, breiten, durchringen, zuwenden, zusammenfinden, auskennen, einpendeln, einschleichen, reiben, umschauen, herumschlagen, entledigen, hervortun, aufschwingen, zuziehen, herumsprechen, verleiben, zurechtfinden, überschneiden, gegenübersehen, verbitten, vorarbeiten, angeln, auftun, einfinden, herausreden, hinsetzen, hochschaukeln, klinken, nisten, zusammenraufen, Klaren, abzeichnende, ausschweigen, einreihen, einschießen, erdreisten, heften, hingeben, hocharbeiten, loggen, lossagen, materialisierten, schaukeln, umtun, verfestigen, überheben</li>
+      <li>Out of those, 40 lemmas occurred more than once, but never without a reflexive dependent. Examples: zusammentun, breiten, durchringen, zuwenden, zusammenfinden, auskennen, einpendeln, einschleichen, umschauen, herumschlagen, entledigen, hervortun, aufschwingen, herumsprechen, zurechtfinden, überschneiden, gegenübersehen, vorarbeiten, auftun, einfinden, herausreden, hinsetzen, hochschaukeln, klinken, nisten, zusammenraufen, abzeichnende, ausschweigen, einreihen, einschießen, erdreisten, hingeben, hocharbeiten, loggen, lossagen, materialisierten, schaukeln, umtun, verfestigen, überheben</li>
     </ul>
 </ul>
 
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 9 relation subtypes: <a>aux:pass</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>det:poss</a>, <a>expl:pv</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:arg</a></li>
-<li>The following 6 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>fixed</a>, <a>list</a>, <a>goeswith</a>, <a>dep</a></li>
+<li>This corpus uses 10 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>det:poss</a>, <a>expl:pv</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:arg</a></li>
+<li>The following 7 relation types are not used in this corpus at all: <a>iobj</a>, <a>dislocated</a>, <a>clf</a>, <a>fixed</a>, <a>list</a>, <a>goeswith</a>, <a>dep</a></li>
 </ul>

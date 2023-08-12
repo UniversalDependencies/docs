@@ -12,4 +12,8 @@ for `parataxis`.
 Ya sé lo que llevaré a la fiesta: fruta y vino . \n I already know what I will bring to the party : fruit and wine .
 parataxis(llevaré, fruta)
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:42 CET 2022 -->
+
+~~~ sdparse
+Se le echa ... vinagre ¿ sabes ? \n You add ... vinegar , you know ?
+parataxis(echa, sabes)
+~~~

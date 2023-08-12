@@ -45,13 +45,13 @@ The following 3 pairs of parts of speech are connected with `aux:nec`: <tt><a hr
 # visual-style 10 8 aux:nec	color:blue
 1	Сідзкӧ	сідзкӧ	ADV	Adv	_	3	advmod:mmod	_	_
 2	нин	нин	ADV	Adv	AdvType=Tim	3	advmod:tmod	_	GTtags=Sem/Time
-3	шуны	шуны	VERB	V	Valency=2|VerbForm=Inf	10	advcl	_	GTtags=TV,Inf|SpaceAfter=No
+3	шуны	шуны	VERB	V	VerbForm=Inf	10	advcl	_	GTtags=TV,Inf|SpaceAfter=No
 4	,	,	PUNCT	PUNCT	_	3	punct	_	_
 5	кыйсьысь	кыйсьыны	VERB	V	Derivation=NomAg|VerbForm=Part|Voice=Act	6	nmod	_	GTtags=Refl,Der,Der/ысь,ActPrsPtc
 6	кодьӧн	кодь	ADJ	A	Case=Ins|Number=Sing	10	xcomp	_	GTtags=CompMod,Sg,Ins
 7	на	на	ADV	Adv	_	6	advmod:tmod	_	_
-8	колӧ	ковны	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Valency=1	10	aux:nec	_	GTtags=TV,Ind,Prs,Sg3
-9	лоны	лоны	AUX	_	Valency=1|VerbForm=Inf	10	cop	_	GTtags=IV,Inf
+8	колӧ	ковны	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	10	aux:nec	_	GTtags=TV,Ind,Prs,Sg3
+9	лоны	лоны	AUX	_	VerbForm=Inf	10	cop	_	GTtags=IV,Inf
 10	бур	бур	ADJ	A	Case=Nom|Number=Sing	0	root	_	GTtags=Sg,Nom
 11	мастерыдлы	мастер	NOUN	N	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=2	10	obl	_	GTtags=Sg,Dat,PxSg2|SpaceAfter=No
 12	,	,	PUNCT	PUNCT	_	14	punct	_	_
@@ -59,7 +59,7 @@ The following 3 pairs of parts of speech are connected with `aux:nec`: <tt><a hr
 14	вежӧраӧн	вежӧра	ADJ	A	Case=Ins|Number=Sing	10	xcomp	_	GTtags=Sg,Ins
 15	да	да	CCONJ	CC	_	17	cc	_	_
 16	абусьыс	абу	NOUN	N	Case=Ela|Number=Sing|Number[psor]=Sing|Person[psor]=3	17	obl	_	GTtags=Sg,Ela,PxSg3
-17	аддзанаӧн	аддзыны	VERB	V	Case=Ins|Derivation=Ana|Number=Sing|Tense=Pres|Valency=2|VerbForm=Part	14	conj	_	GTtags=TV,Der,Der/Ан,PrsPrc,N,Sg,Der|Der/ProprietiveMod|A|Sg|Ins|SpaceAfter=No
+17	аддзанаӧн	аддзыны	VERB	V	Case=Ins|Derivation=Ana|Number=Sing|Tense=Pres|VerbForm=Part	14	conj	_	GTtags=TV,Der,Der/Ан,PrsPrc,N,Sg,Der|Der/ProprietiveMod|A|Sg|Ins|SpaceAfter=No
 18	.	.	PUNCT	PUNCT	_	10	punct	_	_
 
 ~~~

@@ -6,8 +6,8 @@ udver: '2'
 ---
 
 This subtype of [compound]() covers light verbs.
-In a  light-verb construction the verb that does not have much semantic content.
-The semantics of the construction is determined by the non-head word,
+In a  light-verb construction the verb does not have much semantic content.
+The semantics of the construction are determined by the non-head word,
 often a noun or adjective.
 
 ~~~ sdparse
@@ -33,4 +33,4 @@ it is common to observe verbs in this position particularly in code-switching se
 Partiyi  cancel ettik . \n We canceled the party
 compound:lvc(ettik, cancel)
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:16 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:04:06 CEST -->

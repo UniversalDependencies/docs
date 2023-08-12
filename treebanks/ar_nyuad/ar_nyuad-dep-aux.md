@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3580 nodes (0%) are attached to their parents as `aux`.
+3574 nodes (0%) are attached to their parents as `aux`.
 
-3529 instances of `aux` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.34664804469274.
+3524 instances of `aux` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.34695019585898.
 
-The following 11 pairs of parts of speech are connected with `aux`: <tt><a href="ar_nyuad-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> (3196; 89% instances), <tt><a href="ar_nyuad-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> (203; 6% instances), <tt><a href="ar_nyuad-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> (96; 3% instances), <tt><a href="ar_nyuad-pos-ADV.html">ADV</a></tt>-<tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> (35; 1% instances), <tt><a href="ar_nyuad-pos-PRON.html">PRON</a></tt>-<tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> (32; 1% instances), <tt><a href="ar_nyuad-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> (7; 0% instances), <tt><a href="ar_nyuad-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="ar_nyuad-pos-DET.html">DET</a></tt>-<tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt>-<tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ar_nyuad-pos-NUM.html">NUM</a></tt>-<tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ar_nyuad-pos-X.html">X</a></tt>-<tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `aux`: <tt><a href="ar_nyuad-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> (3192; 89% instances), <tt><a href="ar_nyuad-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> (202; 6% instances), <tt><a href="ar_nyuad-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> (96; 3% instances), <tt><a href="ar_nyuad-pos-ADV.html">ADV</a></tt>-<tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> (34; 1% instances), <tt><a href="ar_nyuad-pos-PRON.html">PRON</a></tt>-<tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> (32; 1% instances), <tt><a href="ar_nyuad-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> (7; 0% instances), <tt><a href="ar_nyuad-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="ar_nyuad-pos-DET.html">DET</a></tt>-<tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt>-<tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ar_nyuad-pos-NUM.html">NUM</a></tt>-<tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ar_nyuad-pos-X.html">X</a></tt>-<tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Marco Passarotti, Marinella Testori, Daniel Zeman, Berta González Saavedra, Flavio Massimiliano Cecchini.
 
 Repository: [UD_Latin-ITTB](https://github.com/UniversalDependencies/UD_Latin-ITTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_ittb211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_ittb212)<br />
+Download all treebanks: [UD 2.12](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -122,7 +122,7 @@ year = {2010}
 </ul>
 
 <ul>
-<li>This corpus contains 8 word types tagged as particles (PART): autem, enim, nam, namque, ne, non, quidem, quoque</li>
+<li>This corpus contains 9 word types tagged as particles (PART): autem, enim, igitur, nam, namque, ne, non, quidem, quoque</li>
 </ul>
 
 <ul>
@@ -145,7 +145,7 @@ year = {2010}
 </ul>
 
 <ul>
-<li>There are 5 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
 </ul>
 
 <ul>
@@ -172,6 +172,7 @@ year = {2010}
   <li>Inf
   <ul>
     <li>AUX: esse, fuisse, necesse-esse, fore</li>
+    <li>VERB: intelligere, dici, fieri, habere, facere, dicere, uelle, agere, intelligi, moueri</li>
   </ul>
   </li>
 </ul>
@@ -179,18 +180,10 @@ year = {2010}
 <ul>
   <li>Part
   <ul>
-    <li>ADJ: inhaerens, nota, perfectas, sancto, sanctos, sanctus</li>
+    <li>ADJ: inconueniens, inhaerens, nota, perfectas, sancto, sanctos, sanctus</li>
     <li>AUX: ens, futura, futuram, futurum, entia, futuri, futuris, futuro, futurus, entium</li>
     <li>NOUN: accidens, agens, conuerso, agente, agentia, debitum, patiens, praedicatum</li>
     <li>VERB: ostensum, dicendum, dictum, mouens, separatae, dictis, consequens, probatum, agens, separata</li>
-  </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Vnoun
-  <ul>
-    <li>VERB: intelligere, dici, fieri, habere, facere, dicere, uelle, agere, intelligi, moueri</li>
   </ul>
   </li>
 </ul>
@@ -212,7 +205,7 @@ year = {2010}
       <li>NOUN: forma, formam, formae, materia, anima, potentia, causa, natura, substantia, naturae</li>
       <li>NUM: duae, tres, duabus, duas, trium, tribus, duarum, duo, duobus, una</li>
       <li>PRON: quae, quam, qua, eius, eam, quibus, ea, earum, eas, eis</li>
-      <li>PROPN: exodi, maria, genesis, mariae, mariam, niniue, babylonem, eua, euam, priscillae</li>
+      <li>PROPN: exodi, maria, genesis, mariae, mariam, niniue, babylonem, eua, euam, ierusalem</li>
       <li>VERB-Part: separatae, separata, separatas, praedicta, creata, praedictae, separatis, creatis, facta, existens</li>
     </ul>
   </li>
@@ -239,7 +232,7 @@ year = {2010}
   <li>Neut
     <ul>
       <li>ADJ: impossibile, manifestum, primum, possibile, necessarium, proprium, infinitum, uerum, contrarium, naturale</li>
-      <li>ADJ-Part: nota</li>
+      <li>ADJ-Part: inconueniens, nota</li>
       <li>AUX: ens, futurum, futura, entia, esse, entium, futuri, futuris</li>
       <li>AUX-Inf: esse</li>
       <li>AUX-Part: ens, futurum, futura, entia, entium, futuri, futuris</li>
@@ -282,7 +275,7 @@ year = {2010}
   <li>Sing
     <ul>
       <li>ADJ: diuina, impossibile, diuinae, diuinam, christi, primum, manifestum, prima, humana, possibilis</li>
-      <li>ADJ-Part: inhaerens, sancto, sanctus</li>
+      <li>ADJ-Part: inconueniens, inhaerens, sancto, sanctus</li>
       <li>AUX: est, sit, esset, erit, fuit, essendi, erat, fuerit, fuisset, sum</li>
       <li>AUX-Fin: est, sit, esset, erit, fuit, erat, fuerit, fuisset, sum, es</li>
       <li>AUX-Ger: essendi, essendo, essendum</li>
@@ -388,7 +381,7 @@ year = {2010}
   <li>Nom
     <ul>
       <li>ADJ: impossibile, diuina, manifestum, prima, humana, possibile, possibilis, christus, necessarium, primum</li>
-      <li>ADJ-Part: inhaerens, nota, sanctus</li>
+      <li>ADJ-Part: inconueniens, inhaerens, nota, sanctus</li>
       <li>AUX-Part: ens, futura, entia, futurum, futurus</li>
       <li>DET: hoc, haec, ipse, quaedam, aliqua, omnis, omnia, omne, unum, alia</li>
       <li>NOUN: forma, intellectus, homo, anima, causa, materia, corpus, substantia, actus, finis</li>
@@ -480,9 +473,10 @@ year = {2010}
 <ul>
   <li>Imp
     <ul>
+      <li>AUX-Inf: esse</li>
       <li>VERB-Fin: potest, oportet, dicitur, habet, patet, dicit, uidetur, fit, possunt, habent</li>
+      <li>VERB-Inf: intelligere, dici, fieri, habere, facere, dicere, uelle, agere, intelligi, moueri</li>
       <li>VERB-Part: mouens, consequens, agens, conueniens, habens, existens, intelligens, dicens, agentem, agente</li>
-      <li>VERB-Vnoun: intelligere, dici, fieri, habere, facere, dicere, uelle, agere, intelligi, moueri</li>
     </ul>
   </li>
 </ul>
@@ -491,8 +485,8 @@ year = {2010}
   <li>Perf
     <ul>
       <li>VERB-Fin: dixit, posuerunt, oportuit, dedit, posuit, dixerunt, habuit, uoluit, nouit, fecit</li>
+      <li>VERB-Inf: descendisse, creasse, processisse, extitisse, peccasse, fecisse, habuisse, praeextitisse, apparuisse, dixisse</li>
       <li>VERB-Part: ostensum, dictum, separatae, dictis, probatum, separata, praedicta, praemissis, intellecta, facta</li>
-      <li>VERB-Vnoun: descendisse, creasse, processisse, extitisse, peccasse, fecisse, habuisse, praeextitisse, apparuisse, dixisse</li>
     </ul>
   </li>
 </ul>
@@ -577,8 +571,8 @@ year = {2010}
   <li>Act
     <ul>
       <li>VERB-Fin: potest, oportet, habet, patet, dicit, possunt, habent, possit, cognoscit, agit</li>
+      <li>VERB-Inf: intelligere, habere, facere, dicere, uelle, agere, cognoscere, ponere, procedere, accidere</li>
       <li>VERB-Part: mouens, consequens, agens, conueniens, habens, existens, intelligens, dicens, agentem, agente</li>
-      <li>VERB-Vnoun: intelligere, habere, facere, dicere, uelle, agere, cognoscere, ponere, procedere, accidere</li>
     </ul>
   </li>
 </ul>
@@ -587,8 +581,8 @@ year = {2010}
   <li>Pass
     <ul>
       <li>VERB-Fin: dicitur, uidetur, fit, sequitur, inuenitur, dicuntur, mouetur, relinquitur, consequitur, dicatur</li>
+      <li>VERB-Inf: dici, fieri, intelligi, moueri, uniri, uideri, pati, sequi, operari, poni</li>
       <li>VERB-Part: ostensum, dicendum, dictum, separatae, dictis, probatum, separata, praedicta, praemissis, intellecta</li>
-      <li>VERB-Vnoun: dici, fieri, intelligi, moueri, uniri, uideri, pati, sequi, operari, poni</li>
     </ul>
   </li>
 </ul>
@@ -633,7 +627,7 @@ year = {2010}
     <ul>
       <li>ADV: nihil, nil</li>
       <li>DET: omnia, unum, aliqua, omnes, omnis, quaedam, omne, aliquam, una, omnibus</li>
-      <li>PRON: aliquid, nihil, aliquis, alicuius, aliquo, alicui, aliqua, aliqui, nemo, aliquem</li>
+      <li>PRON: aliquid, nihil, aliquis, alicuius, aliquo, alicui, aliqua, aliqui, nemo, aliquibus</li>
     </ul>
   </li>
 </ul>
@@ -668,7 +662,7 @@ year = {2010}
   <li>Rel
     <ul>
       <li>ADP: ut</li>
-      <li>ADV: unde, ut, quandoque, quare, quando, quanto</li>
+      <li>ADV: unde, ut, quandoque, quare, qualiter, quando, quanto</li>
       <li>CCONJ: ut</li>
       <li>DET: quaecumque, quae, quicumque, quocumque, cuiuscumque, qualis, quam, quodcumque, quem, qua</li>
       <li>PRON: quae, quod, qui, quo, quam, quibus, qua, cuius, quem, quorum</li>
@@ -882,7 +876,7 @@ year = {2010}
       <li>IndEurI
         <ul>
           <li>ADJ: impossibile, possibilis, naturalis, possibile, intellectualis, substantialis, naturali, intellectuales, rationalis, intelligibiles</li>
-          <li>ADJ-Part: inhaerens</li>
+          <li>ADJ-Part: inconueniens, inhaerens</li>
           <li>DET: omnia, omnes, omnis, omne, omnibus, omnium, talis, omni, omnem, tali</li>
           <li>NOUN: finem, finis, agens, accidens, ens, parte, agentis, ignis, fine, pars</li>
           <li>NOUN-Part: accidens, agens, agente, agentia, patiens</li>
@@ -920,8 +914,8 @@ year = {2010}
       <li>LatA
         <ul>
           <li>VERB-Fin: operatur, ordinatur, ordinantur, repugnat, significat, comparatur, dat, causatur, dedit, probat</li>
+          <li>VERB-Inf: operari, considerare, dare, considerari, peccare, creare, cogitari, praedicari, mutari, causari</li>
           <li>VERB-Part: separatae, probatum, separata, separatas, creata, considerandum, creatus, separatis, creatis, mediante</li>
-          <li>VERB-Vnoun: operari, considerare, dare, considerari, peccare, creare, cogitari, praedicari, mutari, causari</li>
         </ul>
       </li>
       <li>LatAnom
@@ -933,29 +927,29 @@ year = {2010}
           <li>AUX-Part: ens, futura, futuram, futurum, entia, futuri, futuris, futuro, futurus, entium</li>
           <li>PRON: se, nobis, sibi, nos, ego, me, sui, uobis, te, mihi</li>
           <li>VERB-Fin: potest, possunt, possit, uult, posset, poterit, inest, differt, possumus, uelit</li>
+          <li>VERB-Inf: uelle, posse, inesse, redire, deesse, differre, adesse, exire, transire, ferri</li>
           <li>VERB-Part: uolitum, potens, uolens, uolendo, uolendi, referendum, uolentis, uolentes, praeteriti, uolita</li>
-          <li>VERB-Vnoun: uelle, posse, inesse, redire, deesse, differre, adesse, exire, transire, ferri</li>
         </ul>
       </li>
       <li>LatE
         <ul>
           <li>VERB-Fin: oportet, habet, patet, uidetur, habent, apparet, habeat, mouetur, pertinet, mouet</li>
+          <li>VERB-Inf: habere, moueri, mouere, uidere, uideri, haberi, pertinere, remanere, debere, sedere</li>
           <li>VERB-Part: mouens, habens, motum, debitum, mouentis, debita, mota, habentes, remota, dependens</li>
-          <li>VERB-Vnoun: habere, moueri, mouere, uidere, uideri, haberi, pertinere, remanere, debere, sedere</li>
         </ul>
       </li>
       <li>LatI
         <ul>
           <li>VERB-Fin: oritur, oriuntur, exoritur, fit, oriantur, oriatur, suboritur</li>
+          <li>VERB-Inf: oriri</li>
           <li>VERB-Part: exorti, exorta, obtinendum, sentiendum, obortum, orientem, orientis</li>
-          <li>VERB-Vnoun: oriri</li>
         </ul>
       </li>
       <li>LatI2
         <ul>
           <li>VERB-Fin: fit, facit, fiat, fiunt, fieret, faciat, fecit, faceret, faciunt, calefacit</li>
+          <li>VERB-Inf: fieri, facere, satisfacere, calefacere, calefieri, fecisse, putrefieri</li>
           <li>VERB-Part: facta, factum, factus, faciens, facti, facto, factae, factis, faciendum, facientis</li>
-          <li>VERB-Vnoun: fieri, facere, satisfacere, calefacere, calefieri, fecisse, putrefieri</li>
         </ul>
       </li>
       <li>LatPron
@@ -968,8 +962,8 @@ year = {2010}
       <li>LatX
         <ul>
           <li>VERB-Fin: dicitur, dicit, sequitur, cognoscit, agit, intelligit, dicuntur, relinquitur, consistit, consequitur</li>
+          <li>VERB-Inf: intelligere, dici, dicere, agere, intelligi, cognoscere, ponere, procedere, accidere, accipere</li>
           <li>VERB-Part: ostensum, dicendum, dictum, dictis, consequens, agens, praedicta, praemissis, intellecta, existens</li>
-          <li>VERB-Vnoun: intelligere, dici, dicere, agere, intelligi, cognoscere, ponere, procedere, accidere, accipere</li>
         </ul>
       </li>
     </ul>
@@ -1010,6 +1004,11 @@ year = {2010}
 <ul>
   <li><a>NameType</a>
     <ul>
+      <li>Geo
+        <ul>
+          <li>PROPN: ierusalem</li>
+        </ul>
+      </li>
       <li>Giv
         <ul>
           <li>PROPN: ioan., matth., tim., ierem., luc., ezech., iac., petr., ier., dan.</li>
@@ -1125,18 +1124,18 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Nom (8000)</li>
       <li>VERB-Fin--PRON (203)</li>
       <li>VERB-Fin--PRON-Acc (36)</li>
-      <li>VERB-Fin--PRON-Nom (3322)</li>
+      <li>VERB-Fin--PRON-Nom (3321)</li>
+      <li>VERB-Inf--NOUN-Acc (276)</li>
+      <li>VERB-Inf--NOUN-Nom (4)</li>
+      <li>VERB-Inf--PRON-Acc (112)</li>
       <li>VERB-Part--NOUN (11)</li>
       <li>VERB-Part--NOUN-Abl (207)</li>
-      <li>VERB-Part--NOUN-Acc (83)</li>
+      <li>VERB-Part--NOUN-Acc (84)</li>
       <li>VERB-Part--NOUN-Nom (374)</li>
       <li>VERB-Part--PRON (7)</li>
       <li>VERB-Part--PRON-Abl (26)</li>
       <li>VERB-Part--PRON-Acc (33)</li>
       <li>VERB-Part--PRON-Nom (155)</li>
-      <li>VERB-Vnoun--NOUN-Acc (276)</li>
-      <li>VERB-Vnoun--NOUN-Nom (4)</li>
-      <li>VERB-Vnoun--PRON-Acc (112)</li>
     </ul>
   </li>
 </ul>
@@ -1144,18 +1143,18 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (261)</li>
-      <li>VERB-Fin--NOUN-Acc (5329)</li>
+      <li>VERB-Fin--NOUN (260)</li>
+      <li>VERB-Fin--NOUN-Acc (5330)</li>
       <li>VERB-Fin--PRON (64)</li>
-      <li>VERB-Fin--PRON-Acc (1892)</li>
-      <li>VERB-Part--NOUN (36)</li>
-      <li>VERB-Part--NOUN-Acc (943)</li>
-      <li>VERB-Part--PRON (7)</li>
+      <li>VERB-Fin--PRON-Acc (1894)</li>
+      <li>VERB-Inf--NOUN (22)</li>
+      <li>VERB-Inf--NOUN-Acc (1018)</li>
+      <li>VERB-Inf--PRON (20)</li>
+      <li>VERB-Inf--PRON-Acc (306)</li>
+      <li>VERB-Part--NOUN (35)</li>
+      <li>VERB-Part--NOUN-Acc (944)</li>
+      <li>VERB-Part--PRON (6)</li>
       <li>VERB-Part--PRON-Acc (270)</li>
-      <li>VERB-Vnoun--NOUN (22)</li>
-      <li>VERB-Vnoun--NOUN-Acc (1018)</li>
-      <li>VERB-Vnoun--PRON (20)</li>
-      <li>VERB-Vnoun--PRON-Acc (306)</li>
     </ul>
   </li>
 </ul>

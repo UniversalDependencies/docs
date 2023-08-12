@@ -28,7 +28,7 @@ The 10 most frequent ambiguous types:  <em>x</em> (<tt><a href="akk_riao-pos-NOU
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.206439 (the average of all parts of speech is 1.795993).
+The form / lemma ratio of `PROPN` is 1.206439 (the average of all parts of speech is 1.795510).
 
 The 1st highest number of forms (23) was observed with the lemma “_”: <em>Amlatti, Aššur, Bi-x, Buliyana, Damdammusi, E₂-iasmaku, Hayani, Pattu-hegalli, Sarbalia, Sippur-ša-Anunite, Sippur-ša-Šamaš, Ugar-sallu, duniaš, x, x-ma, {ITI}x, {KUR}x-ku, {URU}x, {URU}x-x-ga-x-x, {d}x, {m}x, {m}x-x, Šalmanu-ašared</em>.
 

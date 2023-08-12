@@ -44,7 +44,7 @@ The 10 most frequent ambiguous types:  <em>oui</em> (<tt><a href="fr_rhapsodie-p
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.354259).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.352226).
 
 The 1st highest number of forms (1) was observed with the lemma “ah”: <em>ah</em>.
 
@@ -59,7 +59,7 @@ The 3rd highest number of forms (1) was observed with the lemma “beh”: <em>b
 
 `INTJ` nodes are attached to their parents using 8 different relations: <tt><a href="fr_rhapsodie-dep-discourse.html">discourse</a></tt> (1467; 77% instances), <tt><a href="fr_rhapsodie-dep-root.html">root</a></tt> (283; 15% instances), <tt><a href="fr_rhapsodie-dep-reparandum.html">reparandum</a></tt> (87; 5% instances), <tt><a href="fr_rhapsodie-dep-conj.html">conj</a></tt> (46; 2% instances), <tt><a href="fr_rhapsodie-dep-obj.html">obj</a></tt> (16; 1% instances), <tt><a href="fr_rhapsodie-dep-fixed.html">fixed</a></tt> (10; 1% instances), <tt><a href="fr_rhapsodie-dep-dep.html">dep</a></tt> (3; 0% instances), <tt><a href="fr_rhapsodie-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
-Parents of `INTJ` nodes belong to 15 different parts of speech: <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> (487; 25% instances), <tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> (402; 21% instances),  (283; 15% instances), <tt><a href="fr_rhapsodie-pos-ADV.html">ADV</a></tt> (193; 10% instances), <tt><a href="fr_rhapsodie-pos-INTJ.html">INTJ</a></tt> (179; 9% instances), <tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt> (109; 6% instances), <tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (84; 4% instances), <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> (62; 3% instances), <tt><a href="fr_rhapsodie-pos-ADP.html">ADP</a></tt> (38; 2% instances), <tt><a href="fr_rhapsodie-pos-DET.html">DET</a></tt> (28; 1% instances), <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> (14; 1% instances), <tt><a href="fr_rhapsodie-pos-SCONJ.html">SCONJ</a></tt> (11; 1% instances), <tt><a href="fr_rhapsodie-pos-X.html">X</a></tt> (11; 1% instances), <tt><a href="fr_rhapsodie-pos-NUM.html">NUM</a></tt> (7; 0% instances), <tt><a href="fr_rhapsodie-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances)
+Parents of `INTJ` nodes belong to 15 different parts of speech: <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> (487; 25% instances), <tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> (402; 21% instances),  (283; 15% instances), <tt><a href="fr_rhapsodie-pos-ADV.html">ADV</a></tt> (194; 10% instances), <tt><a href="fr_rhapsodie-pos-INTJ.html">INTJ</a></tt> (179; 9% instances), <tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt> (109; 6% instances), <tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (83; 4% instances), <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> (62; 3% instances), <tt><a href="fr_rhapsodie-pos-ADP.html">ADP</a></tt> (38; 2% instances), <tt><a href="fr_rhapsodie-pos-DET.html">DET</a></tt> (28; 1% instances), <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> (14; 1% instances), <tt><a href="fr_rhapsodie-pos-SCONJ.html">SCONJ</a></tt> (11; 1% instances), <tt><a href="fr_rhapsodie-pos-X.html">X</a></tt> (11; 1% instances), <tt><a href="fr_rhapsodie-pos-NUM.html">NUM</a></tt> (7; 0% instances), <tt><a href="fr_rhapsodie-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances)
 
 150 (8%) `INTJ` nodes are leaves.
 

@@ -13,7 +13,7 @@ This relation is a language-specific subtype of <tt><a href="et_ewt-dep-flat.htm
 73 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 2.65753424657534.
 
-The following 7 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="et_ewt-pos-X.html">X</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (55; 75% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (9; 12% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (3; 4% instances), <tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (2; 3% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (2; 3% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-X.html">X</a></tt>-<tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="et_ewt-pos-X.html">X</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (55; 75% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (9; 12% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (3; 4% instances), <tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (2; 3% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (2; 3% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-X.html">X</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -37,8 +37,8 @@ The following 7 pairs of parts of speech are connected with `flat:foreign`: <tt>
 # visual-style 2	fgColor:white
 # visual-style 2 3 flat:foreign	color:blue
 1	Unustasin	unustama	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
-2	indirect	indirect	NOUN	S	Case=Gen|Number=Sing	4	obj	4:obj	_
-3	questionit	question	NOUN	S	Case=Par|Number=Sing	2	flat:foreign	2:flat	_
+2	indirect	indirect	NOUN	S	Case=Nom|Foreign=Yes|Number=Sing	4	obj	4:obj	_
+3	questionit	question	NOUN	S	Case=Par|Foreign=Yes|Number=Sing	2	flat:foreign	2:flat	_
 4	küsida	küsima	VERB	V	VerbForm=Inf	1	xcomp	1:xcomp	SpaceAfter=No
 5	.	.	PUNCT	Z	_	1	punct	1:punct	_
 
@@ -57,10 +57,10 @@ The following 7 pairs of parts of speech are connected with `flat:foreign`: <tt>
 4	seletati	seletama	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	0:root	_
 5	seda	see	PRON	P	Case=Par|Number=Sing|PronType=Dem	4	obj	4:obj	_
 6	filmis	film	NOUN	S	Case=Ine|Number=Sing	4	obl	4:obl	NE=B-Prod
-7	Back	Back	PROPN	S	Case=Nom|Number=Sing	6	appos	6:appos	NE=I-Prod
-8	to	to	X	T	_	7	flat:foreign	7:flat	NE=I-Prod
-9	the	the	X	T	_	7	flat:foreign	7:flat	NE=I-Prod
-10	future	future	X	T	_	7	flat:foreign	7:flat	NE=I-Prod
+7	Back	Back	PROPN	S	Case=Nom|Foreign=Yes|Number=Sing	6	appos	6:appos	NE=I-Prod
+8	to	to	X	T	Foreign=Yes	7	flat:foreign	7:flat	NE=I-Prod
+9	the	the	X	T	Foreign=Yes	7	flat:foreign	7:flat	NE=I-Prod
+10	future	future	X	T	Foreign=Yes	7	flat:foreign	7:flat	NE=I-Prod
 
 ~~~
 

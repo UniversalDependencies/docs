@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="en_gum-dep-obl.html">obl</a></tt>.
 There are also 2 other language-specific subtypes of `obl`: <tt><a href="en_gum-dep-obl-npmod.html">obl:npmod</a></tt>, <tt><a href="en_gum-dep-obl-tmod.html">obl:tmod</a></tt>.
 
-313 nodes (0%) are attached to their parents as `obl:agent`.
+341 nodes (0%) are attached to their parents as `obl:agent`.
 
-313 instances of `obl:agent` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.75079872204473.
+341 instances of `obl:agent` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.72140762463343.
 
-The following 8 pairs of parts of speech are connected with `obl:agent`: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (221; 71% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (78; 25% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (5; 2% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-X.html">X</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `obl:agent`: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (238; 70% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (87; 26% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (7; 2% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 8 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 6 obl:agent	color:blue
-1	This	this	PRON	DT	Number=Sing|PronType=Dem	3	nsubj:pass	3:nsubj:pass	Discourse=joint-sequence_m:78->77:1|Entity=(49-abstract-giv:act-cf1*-1-ana)
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	3	nsubj:pass	3:nsubj:pass	Discourse=joint-sequence_m:77->76:1|Entity=(49-abstract-giv:act-cf1*-1-ana)
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	3:aux:pass	_
 3	followed	follow	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
 4	by	by	ADP	IN	_	6	case	6:case	_
@@ -41,24 +41,26 @@ The following 8 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 9 obl:agent	color:blue
-1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	5:nsubj	Discourse=elaboration-additional:112->111:0|Entity=(106-abstract-giv:act-cf1*-1-ana)
-2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_
-3	like	like	ADP	IN	_	5	case	5:case	_
-4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	Entity=(111-animal-new-cf4-2-coref
-5	horse	horse	NOUN	NN	Number=Sing	0	root	0:root	SpaceAfter=No
-6	,	,	PUNCT	,	_	7	punct	7:punct	_
-7	ridden	ride	VERB	VBN	Tense=Past|VerbForm=Part	5	acl	5:acl	Discourse=elaboration-attribute:113->112:0
-8	by	by	ADP	IN	_	9	case	9:case	_
-9	God	God	PROPN	NNP	Number=Sing	7	obl:agent	7:obl:agent	Entity=(79-person-giv:inact-cf3-1-coref-God_in_Christianity)
-10	or	or	CCONJ	CC	_	12	cc	12:cc	_
-11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	12:det	Entity=(108-person-giv:inact-cf2-2-coref-Devil_in_Christianity
-12	Devil	Devil	PROPN	NNP	Number=Sing	9	conj	7:obl:agent|9:conj:or	Entity=108)111)|SpaceAfter=No
-13	.	.	PUNCT	.	_	5	punct	5:punct	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 6 obl:agent	color:blue
+1	Uh	uh	INTJ	UH	_	4	discourse	4:discourse	Discourse=causal-cause:22->24:1
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj:pass	4:nsubj:pass	Entity=(2-person-giv:act-cf1*-1-ana)
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	4	aux:pass	4:aux:pass	_
+4	called	call	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
+5	by	by	ADP	IN	_	6	case	6:case	_
+6	Matthew	Matthew	PROPN	NNP	Number=Sing	4	obl:agent	4:obl:agent	Entity=(3-person-giv:inact-cf2-1-coref
+7	here	here	ADV	RB	PronType=Dem	6	advmod	6:advmod	Entity=3)|SpaceAfter=No
+8	,	,	PUNCT	,	_	10	punct	10:punct	_
+9	to	to	PART	TO	_	10	mark	10:mark	Discourse=purpose-goal:23->22:0
+10	do	do	VERB	VB	VerbForm=Inf	4	advcl	4:advcl:to	_
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	12:det	Entity=(12-abstract-giv:inact-cf3-2-coref
+12	job	job	NOUN	NN	Number=Sing	10	obj	10:obj	Entity=12)
+13	for	for	ADP	IN	_	14	case	14:case	_
+14	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obl	10:obl:for	Entity=(3-person-giv:act-cf2-1-ana)|SpaceAfter=No
+15	.	.	PUNCT	.	_	4	punct	4:punct	_
 
 ~~~
 

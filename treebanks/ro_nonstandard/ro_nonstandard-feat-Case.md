@@ -10,10 +10,10 @@ This feature is universal.
 It occurs with 5 different values: `Acc`, `Dat`, `Gen`, `Nom`, `Voc`.
 Some words have combined values of the feature; 2 combinations have been observed: `Acc|Nom`, `Dat|Gen`.
 
-282339 tokens (49%) have a non-empty value of `Case`.
+282338 tokens (49%) have a non-empty value of `Case`.
 22887 types (72%) occur at least once with a non-empty value of `Case`.
-9855 lemmas (80%) occur at least once with a non-empty value of `Case`.
-The feature is used with 9 part-of-speech tags: <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (96782; 17% instances), <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> (66981; 12% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (64433; 11% instances), <tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt> (20988; 4% instances), <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt> (19968; 3% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt> (11253; 2% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (1145; 0% instances), <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (788; 0% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+9856 lemmas (80%) occur at least once with a non-empty value of `Case`.
+The feature is used with 9 part-of-speech tags: <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (96782; 17% instances), <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> (66980; 12% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (64433; 11% instances), <tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt> (20988; 4% instances), <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt> (19968; 3% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt> (11253; 2% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (1145; 0% instances), <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (788; 0% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -39,13 +39,13 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `ADP`
 
-66981 <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> tokens (100% of all `ADP` tokens) have a non-empty value of `Case`.
+66980 <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> tokens (100% of all `ADP` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADP` and `Case` co-occurred: <tt><a href="ro_nonstandard-feat-AdpType.html">AdpType</a></tt><tt>=Prep</tt> (66981; 100%), <tt><a href="ro_nonstandard-feat-Compound.html">Compound</a></tt><tt>=EMPTY</tt> (57005; 85%).
+The most frequent other feature values with which `ADP` and `Case` co-occurred: <tt><a href="ro_nonstandard-feat-AdpType.html">AdpType</a></tt><tt>=Prep</tt> (66980; 100%), <tt><a href="ro_nonstandard-feat-Compound.html">Compound</a></tt><tt>=EMPTY</tt> (57004; 85%).
 
 `ADP` tokens may have the following values of `Case`:
 
-* `Acc` (66083; 99% of non-empty `Case`): <em>de, cu, la, în, pre, din, pe, ca, pentru, după</em>
+* `Acc` (66082; 99% of non-empty `Case`): <em>de, cu, la, în, pre, din, pe, ca, pentru, după</em>
 * `Dat` (31; 0% of non-empty `Case`): <em>asupră, derept, nainte, asemenea, denainte, înainte</em>
 * `Gen` (867; 1% of non-empty `Case`): <em>înaintea, asupra, împrotiva, împotriva, asupră, denaintea, dinaintea, înainte, desupra, denainte</em>
 * `EMPTY` (2): <em>ca, pre</em>
@@ -56,7 +56,7 @@ The most frequent other feature values with which `ADP` and `Case` co-occurred: 
   <tr><td><tt><tt><a href="ro_nonstandard-feat-Compound.html">Compound</a></tt><tt>=Yes</tt></tt></td><td></td><td></td><td><em>înaintea</em></td></tr>
 </table>
 
-`Case` seems to be **lexical feature** of `ADP`. 90% lemmas (120) occur only with one value of `Case`.
+`Case` seems to be **lexical feature** of `ADP`. 90% lemmas (121) occur only with one value of `Case`.
 
 ### `PRON`
 

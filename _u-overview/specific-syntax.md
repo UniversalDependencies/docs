@@ -468,7 +468,7 @@ punct(put, .)
 He plays better drunk than sober
 nsubj(plays, He)
 advmod(plays, better)
-acl(He, drunk)
+advcl(plays, drunk)
 mark(sober, than)
 advcl(better, sober)
 ~~~
@@ -533,6 +533,62 @@ more than a year ago
 det(year, a)
 fixed(more, than)
 advmod(year, more)
+~~~
+
+### Sufficiency and Excess
+
+Also involving degree semantics are constructions conveying a consequence/result of that degree. Like the _as much flour as the recipe called for_ example above, we treat the degree-qualified adjective as the head of the additional clause that is licensed by the construction (as [advcl]()):
+
+~~~ sdparse
+It was so dusty that I sneezed
+advmod(dusty, so)
+advcl(dusty, sneezed)
+~~~
+
+~~~ sdparse
+You are too young to get a job
+advmod(young, too)
+advcl(young, get)
+~~~
+
+~~~ sdparse
+You are old enough to get a job
+advmod(old, enough)
+advcl(old, get)
+~~~
+
+Even if the thing measured is provided by a noun, it is the adjective that heads the additional clause:
+
+~~~ sdparse
+We have enough/sufficient/ADJ flour to get started
+obj(have, flour)
+amod(flour, enough/sufficient)
+advcl(enough/sufficient, get)
+~~~
+
+~~~ sdparse
+We had so much flour that I sneezed
+obj(had, flour)
+advmod(much, so)
+amod(flour, much)
+advcl(much, sneezed)
+~~~
+
+The *that*-clause is licensed by the sufficiency construction: _*There was much flour that I sneezed_ is not possible.
+Sometimes multiple clauses are licensed, one by the adjective (as [ccomp]()) and one by the sufficiency construction (either can be omitted):
+
+~~~ sdparse
+I was so happy that you won that I cried
+ccomp(happy, won)
+advcl(happy, cried)
+~~~
+
+The adjective expressing sufficiency or excess may also occur on its own, without being headed by a noun:
+
+~~~ sdparse
+1 bag of flour is enough to get started
+nsubj(enough, bag)
+advcl(enough, get)
 ~~~
 
 ## Paratactic Constructions

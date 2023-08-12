@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Greek-GDT: POS Tags: `PROPN`
 
-There are 592 `PROPN` lemmas (9%), 759 `PROPN` types (7%) and 1811 `PROPN` tokens (3%).
+There are 595 `PROPN` lemmas (9%), 766 `PROPN` types (7%) and 1844 `PROPN` tokens (3%).
 Out of 16 observed tags, the rank of `PROPN` is: 4 in number of lemmas, 4 in number of types and 11 in number of tokens.
 
 The 10 most frequent `PROPN` lemmas: <em>Ελλάδα, Ευρώπη, Κορέα, Ρωσία, Τουρκία, Γερμανία, Γαλλία, Αθήνα, Ομπάμα, Μακεδονία</em>
@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>Κλίντον</em> (<tt><a href="el_
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.282095 (the average of all parts of speech is 1.776741).
+The form / lemma ratio of `PROPN` is 1.287395 (the average of all parts of speech is 1.783022).
 
 The 1st highest number of forms (5) was observed with the lemma “Αμερικανός”: <em>Αμερικανοί, Αμερικανού, Αμερικανό, Αμερικανός, αμερικανών</em>.
 
@@ -60,7 +60,7 @@ The 2nd highest number of forms (4) was observed with the lemma “Γάλλος�
 
 The 3rd highest number of forms (3) was observed with the lemma “Αίγυπτος”: <em>Αίγυπτο, Αίγυπτος, Αιγύπτου</em>.
 
-`PROPN` occurs with 3 features: <tt><a href="el_gdt-feat-Case.html">Case</a></tt> (1811; 100% instances), <tt><a href="el_gdt-feat-Gender.html">Gender</a></tt> (1811; 100% instances), <tt><a href="el_gdt-feat-Number.html">Number</a></tt> (1811; 100% instances)
+`PROPN` occurs with 3 features: <tt><a href="el_gdt-feat-Case.html">Case</a></tt> (1844; 100% instances), <tt><a href="el_gdt-feat-Gender.html">Gender</a></tt> (1844; 100% instances), <tt><a href="el_gdt-feat-Number.html">Number</a></tt> (1844; 100% instances)
 
 `PROPN` occurs with 8 feature-value pairs: `Case=Acc`, `Case=Gen`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`
 
@@ -71,21 +71,21 @@ Examples: <em>Ελλάδα, Ευρώπη, Τουρκία, Ρωσία, Γαλλί
 
 ## Relations
 
-`PROPN` nodes are attached to their parents using 15 different relations: <tt><a href="el_gdt-dep-nmod.html">nmod</a></tt> (734; 41% instances), <tt><a href="el_gdt-dep-flat.html">flat</a></tt> (241; 13% instances), <tt><a href="el_gdt-dep-nsubj.html">nsubj</a></tt> (232; 13% instances), <tt><a href="el_gdt-dep-obl.html">obl</a></tt> (222; 12% instances), <tt><a href="el_gdt-dep-conj.html">conj</a></tt> (191; 11% instances), <tt><a href="el_gdt-dep-appos.html">appos</a></tt> (47; 3% instances), <tt><a href="el_gdt-dep-obj.html">obj</a></tt> (47; 3% instances), <tt><a href="el_gdt-dep-root.html">root</a></tt> (32; 2% instances), <tt><a href="el_gdt-dep-nsubj-pass.html">nsubj:pass</a></tt> (22; 1% instances), <tt><a href="el_gdt-dep-compound.html">compound</a></tt> (11; 1% instances), <tt><a href="el_gdt-dep-obl-agent.html">obl:agent</a></tt> (11; 1% instances), <tt><a href="el_gdt-dep-xcomp.html">xcomp</a></tt> (7; 0% instances), <tt><a href="el_gdt-dep-acl.html">acl</a></tt> (6; 0% instances), <tt><a href="el_gdt-dep-orphan.html">orphan</a></tt> (6; 0% instances), <tt><a href="el_gdt-dep-advcl.html">advcl</a></tt> (2; 0% instances)
+`PROPN` nodes are attached to their parents using 15 different relations: <tt><a href="el_gdt-dep-nmod.html">nmod</a></tt> (763; 41% instances), <tt><a href="el_gdt-dep-flat.html">flat</a></tt> (242; 13% instances), <tt><a href="el_gdt-dep-nsubj.html">nsubj</a></tt> (232; 13% instances), <tt><a href="el_gdt-dep-obl.html">obl</a></tt> (225; 12% instances), <tt><a href="el_gdt-dep-conj.html">conj</a></tt> (191; 10% instances), <tt><a href="el_gdt-dep-appos.html">appos</a></tt> (47; 3% instances), <tt><a href="el_gdt-dep-obj.html">obj</a></tt> (47; 3% instances), <tt><a href="el_gdt-dep-root.html">root</a></tt> (32; 2% instances), <tt><a href="el_gdt-dep-nsubj-pass.html">nsubj:pass</a></tt> (22; 1% instances), <tt><a href="el_gdt-dep-compound.html">compound</a></tt> (11; 1% instances), <tt><a href="el_gdt-dep-obl-agent.html">obl:agent</a></tt> (11; 1% instances), <tt><a href="el_gdt-dep-xcomp.html">xcomp</a></tt> (7; 0% instances), <tt><a href="el_gdt-dep-acl.html">acl</a></tt> (6; 0% instances), <tt><a href="el_gdt-dep-orphan.html">orphan</a></tt> (6; 0% instances), <tt><a href="el_gdt-dep-advcl.html">advcl</a></tt> (2; 0% instances)
 
-Parents of `PROPN` nodes belong to 9 different parts of speech: <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (902; 50% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (486; 27% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt> (284; 16% instances), <tt><a href="el_gdt-pos-X.html">X</a></tt> (33; 2% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (32; 2% instances),  (32; 2% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (30; 2% instances), <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (10; 1% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> (2; 0% instances)
+Parents of `PROPN` nodes belong to 9 different parts of speech: <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (911; 49% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (489; 27% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt> (284; 15% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (39; 2% instances), <tt><a href="el_gdt-pos-X.html">X</a></tt> (34; 2% instances),  (32; 2% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (30; 2% instances), <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (23; 1% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> (2; 0% instances)
 
-335 (18%) `PROPN` nodes are leaves.
+355 (19%) `PROPN` nodes are leaves.
 
-605 (33%) `PROPN` nodes have one child.
+611 (33%) `PROPN` nodes have one child.
 
-598 (33%) `PROPN` nodes have two children.
+603 (33%) `PROPN` nodes have two children.
 
-273 (15%) `PROPN` nodes have three or more children.
+275 (15%) `PROPN` nodes have three or more children.
 
 The highest child degree of a `PROPN` node is 11.
 
-Children of `PROPN` nodes are attached using 21 different relations: <tt><a href="el_gdt-dep-det.html">det</a></tt> (1273; 46% instances), <tt><a href="el_gdt-dep-case.html">case</a></tt> (424; 15% instances), <tt><a href="el_gdt-dep-punct.html">punct</a></tt> (273; 10% instances), <tt><a href="el_gdt-dep-amod.html">amod</a></tt> (198; 7% instances), <tt><a href="el_gdt-dep-conj.html">conj</a></tt> (193; 7% instances), <tt><a href="el_gdt-dep-cc.html">cc</a></tt> (125; 5% instances), <tt><a href="el_gdt-dep-flat.html">flat</a></tt> (120; 4% instances), <tt><a href="el_gdt-dep-nmod.html">nmod</a></tt> (52; 2% instances), <tt><a href="el_gdt-dep-acl-relcl.html">acl:relcl</a></tt> (29; 1% instances), <tt><a href="el_gdt-dep-appos.html">appos</a></tt> (25; 1% instances), <tt><a href="el_gdt-dep-advmod.html">advmod</a></tt> (15; 1% instances), <tt><a href="el_gdt-dep-parataxis.html">parataxis</a></tt> (14; 1% instances), <tt><a href="el_gdt-dep-compound.html">compound</a></tt> (11; 0% instances), <tt><a href="el_gdt-dep-nummod.html">nummod</a></tt> (5; 0% instances), <tt><a href="el_gdt-dep-cop.html">cop</a></tt> (4; 0% instances), <tt><a href="el_gdt-dep-orphan.html">orphan</a></tt> (4; 0% instances), <tt><a href="el_gdt-dep-acl.html">acl</a></tt> (3; 0% instances), <tt><a href="el_gdt-dep-mark.html">mark</a></tt> (3; 0% instances), <tt><a href="el_gdt-dep-nsubj.html">nsubj</a></tt> (3; 0% instances), <tt><a href="el_gdt-dep-aux.html">aux</a></tt> (1; 0% instances), <tt><a href="el_gdt-dep-obl.html">obl</a></tt> (1; 0% instances)
+Children of `PROPN` nodes are attached using 21 different relations: <tt><a href="el_gdt-dep-det.html">det</a></tt> (1280; 46% instances), <tt><a href="el_gdt-dep-case.html">case</a></tt> (425; 15% instances), <tt><a href="el_gdt-dep-punct.html">punct</a></tt> (273; 10% instances), <tt><a href="el_gdt-dep-amod.html">amod</a></tt> (200; 7% instances), <tt><a href="el_gdt-dep-conj.html">conj</a></tt> (193; 7% instances), <tt><a href="el_gdt-dep-cc.html">cc</a></tt> (126; 5% instances), <tt><a href="el_gdt-dep-flat.html">flat</a></tt> (120; 4% instances), <tt><a href="el_gdt-dep-nmod.html">nmod</a></tt> (62; 2% instances), <tt><a href="el_gdt-dep-acl-relcl.html">acl:relcl</a></tt> (29; 1% instances), <tt><a href="el_gdt-dep-appos.html">appos</a></tt> (25; 1% instances), <tt><a href="el_gdt-dep-advmod.html">advmod</a></tt> (15; 1% instances), <tt><a href="el_gdt-dep-parataxis.html">parataxis</a></tt> (14; 1% instances), <tt><a href="el_gdt-dep-compound.html">compound</a></tt> (11; 0% instances), <tt><a href="el_gdt-dep-nummod.html">nummod</a></tt> (6; 0% instances), <tt><a href="el_gdt-dep-cop.html">cop</a></tt> (4; 0% instances), <tt><a href="el_gdt-dep-orphan.html">orphan</a></tt> (4; 0% instances), <tt><a href="el_gdt-dep-acl.html">acl</a></tt> (3; 0% instances), <tt><a href="el_gdt-dep-mark.html">mark</a></tt> (3; 0% instances), <tt><a href="el_gdt-dep-nsubj.html">nsubj</a></tt> (3; 0% instances), <tt><a href="el_gdt-dep-aux.html">aux</a></tt> (1; 0% instances), <tt><a href="el_gdt-dep-obl.html">obl</a></tt> (1; 0% instances)
 
-Children of `PROPN` nodes belong to 14 different parts of speech: <tt><a href="el_gdt-pos-DET.html">DET</a></tt> (1273; 46% instances), <tt><a href="el_gdt-pos-ADP.html">ADP</a></tt> (419; 15% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt> (284; 10% instances), <tt><a href="el_gdt-pos-PUNCT.html">PUNCT</a></tt> (273; 10% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (185; 7% instances), <tt><a href="el_gdt-pos-CCONJ.html">CCONJ</a></tt> (125; 5% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (108; 4% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (38; 1% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (22; 1% instances), <tt><a href="el_gdt-pos-X.html">X</a></tt> (22; 1% instances), <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (18; 1% instances), <tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="el_gdt-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> (1; 0% instances)
+Children of `PROPN` nodes belong to 14 different parts of speech: <tt><a href="el_gdt-pos-DET.html">DET</a></tt> (1280; 46% instances), <tt><a href="el_gdt-pos-ADP.html">ADP</a></tt> (420; 15% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt> (284; 10% instances), <tt><a href="el_gdt-pos-PUNCT.html">PUNCT</a></tt> (273; 10% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (195; 7% instances), <tt><a href="el_gdt-pos-CCONJ.html">CCONJ</a></tt> (126; 5% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (113; 4% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (38; 1% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (22; 1% instances), <tt><a href="el_gdt-pos-X.html">X</a></tt> (22; 1% instances), <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (15; 1% instances), <tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="el_gdt-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> (2; 0% instances)
 

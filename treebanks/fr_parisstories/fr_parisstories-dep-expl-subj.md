@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_French-ParisStories: Relations: `expl:subj`
 
-This relation is a language-specific subtype of <tt><a href="fr_parisstories-dep-expl.html">expl</a></tt>.
-There are also 2 other language-specific subtypes of `expl`: <tt><a href="fr_parisstories-dep-expl-pass.html">expl:pass</a></tt>, <tt><a href="fr_parisstories-dep-expl-pv.html">expl:pv</a></tt>.
+This relation is a language-specific subtype of .
+There are also 3 other language-specific subtypes of `expl`: <tt><a href="fr_parisstories-dep-expl-comp.html">expl:comp</a></tt>, <tt><a href="fr_parisstories-dep-expl-pass.html">expl:pass</a></tt>, <tt><a href="fr_parisstories-dep-expl-pv.html">expl:pv</a></tt>.
 
 311 nodes (1%) are attached to their parents as `expl:subj`.
 
@@ -24,7 +24,7 @@ The following 6 pairs of parts of speech are connected with `expl:subj`: <tt><a 
 # visual-style 3	fgColor:white
 # visual-style 3 1 expl:subj	color:blue
 1	il	_	PRON	_	_	3	expl:subj	_	_
-2	y	y	PRON	_	Person=3|PronType=Prs	3	expl	_	_
+2	y	y	PRON	_	Person=3|PronType=Prs	3	expl:comp	_	_
 3	avait	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 4	beaucoup	beaucoup	ADV	_	_	3	obj	_	_
 5	de	de	ADP	_	_	6	case	_	_
@@ -81,7 +81,7 @@ The following 6 pairs of parts of speech are connected with `expl:subj`: <tt><a 
 12	-ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	10	expl:subj	_	_
 13	qu'	que	SCONJ	_	_	17	mark	_	SpaceAfter=No
 14	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	_
-15	s'	se	PRON	_	Person=3|PronType=Prs	17	expl	_	SpaceAfter=No
+15	s'	se	PRON	_	Person=3|PronType=Prs	17	expl:comp	_	SpaceAfter=No
 16	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux:tense	_	_
 17	passé	passer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	advcl:cleft	_	_
 18	?	?	PUNCT	_	_	4	punct	_	_

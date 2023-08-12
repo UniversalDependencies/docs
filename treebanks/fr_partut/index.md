@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.0 release.
 The following people have contributed to making this treebank part of UD: Cristina Bosco, Manuela Sanguinetti.
 
 Repository: [UD_French-ParTUT](https://github.com/UniversalDependencies/UD_French-ParTUT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_partut211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_partut212)<br />
+Download all treebanks: [UD 2.12](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -94,11 +94,11 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
 
 
 <ul>
-<li>This corpus contains 1020 sentences, 27648 tokens and 28586 syntactic words.</li>
+<li>This corpus contains 1020 sentences, 27638 tokens and 28576 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 4152 tokens (15%) that are not followed by a space.</li>
+<li>This corpus contains 4142 tokens (15%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -106,7 +106,7 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
 </ul>
 
 <ul>
-<li>This corpus contains 49 types of words that contain both letters and punctuation. Examples: l', d', qu', n', s', c', j', M., aujourd'hui, jusqu', l'on, -il, -ce, celui-ci, ci-dessus, m', ceux-ci, au-delà, celle-ci, vis-à-vis, -vous, ci-après, -on, bien-être, c'est-à-dire, elle-même, moi-même, p., peut-être, puisqu', -là, -moi, -nous, IV-438, Royaume-uni, Wulf-Mathies, bien-fondé, ci-dessous, eux-mêmes, garde-meubles, lorsqu', là-dessus, mm., outre-mer, quelqu', savoir-faire, sous-sol, sud-est, États-Unis</li>
+<li>This corpus contains 50 types of words that contain both letters and punctuation. Examples: l', d', qu', n', s', c', j', M., aujourd'hui, jusqu', l'on, -il, -ce, celui-ci, ci-dessus, m', ceux-ci, procès-verbal, au-delà, celle-ci, vis-à-vis, -vous, ci-après, -on, bien-être, c'est-à-dire, elle-même, moi-même, p., peut-être, puisqu', -là, -moi, -nous, IV-438, Royaume-uni, Wulf-Mathies, bien-fondé, ci-dessous, eux-mêmes, garde-meubles, lorsqu', là-dessus, mm., outre-mer, quelqu', savoir-faire, sous-sol, sud-est, États-Unis</li>
 </ul>
 
 <ul>
@@ -153,7 +153,7 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: est, a, sont, ont, sera, soient, soit, suis, étaient, était</li>
+    <li>AUX: est, a, sont, ont, sera, soient, soit, étaient, suis, était</li>
     <li>VERB: a, peut, voudrais, doit, est, devrait, convient, ont, peuvent, fait</li>
   </ul>
   </li>
@@ -202,7 +202,7 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
       <li>ADJ: présent, européen, structurels, faux, important, premier, public, seul, nouveau, divers</li>
       <li>AUX-Part: été, fait</li>
       <li>DET: le, un, ce, des, son, tous, tout, votre, cet, mon</li>
-      <li>NOUN: pays, parlement, programme, membres, droit, états, contrat, rapport, cas, conseil</li>
+      <li>NOUN: parlement, programme, membres, droit, états, contrat, rapport, conseil, pays, monsieur</li>
       <li>PRON: il, on, ils, le, ceux, chacun, tous, l'on, -il, Nul</li>
       <li>VERB-Fin: fait</li>
       <li>VERB-Part: fait, tenu, compris, donné, mis, dit, soumis, nommés, demandé, proposé</li>
@@ -221,10 +221,10 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
       <li>ADJ: autres, nécessaires, applicables, structurels, dangereuses, mêmes, communautaires, techniques, disponibles, publicitaires</li>
       <li>AUX-Fin: sont, ont, soient, étaient, sommes, avons, avez, êtes, seront, aient</li>
       <li>DET: les, des, ces, tous, ses, leurs, certains, nos, de, toutes</li>
-      <li>NOUN: membres, états, droits, fonds, mesures, exigences, produits, termes, transports, conditions</li>
+      <li>NOUN: membres, états, droits, fonds, mesures, exigences, produits, pays, termes, transports</li>
       <li>PRON: nous, vous, ils, elles, ceux, tous, autres, ceux-ci, leur, auxquelles</li>
       <li>VERB-Fin: ont, peuvent, pouvez, devons, doivent, font, devraient, devrions, espérons, allons</li>
-      <li>VERB-Part: dites, utilisés, adoptées, harmonisées, prévues, rendues, accordés, appliquées, concernées, existants</li>
+      <li>VERB-Part: dites, utilisés, adoptées, harmonisées, nommés, prévues, rendues, accordés, appliquées, concernées</li>
     </ul>
   </li>
 </ul>
@@ -315,7 +315,7 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
 <ul>
   <li>Ind
     <ul>
-      <li>AUX-Fin: est, a, sont, ont, sera, suis, étaient, était, sommes, ai</li>
+      <li>AUX-Fin: est, a, sont, ont, sera, étaient, suis, était, sommes, ai</li>
       <li>VERB-Fin: a, peut, doit, est, convient, ont, peuvent, fait, pouvez, concerne</li>
     </ul>
   </li>
@@ -606,7 +606,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB--NOUN (1)</li>
-      <li>VERB-Fin--NOUN (349)</li>
+      <li>VERB-Fin--NOUN (352)</li>
       <li>VERB-Fin--NOUN-ADP(de) (5)</li>
       <li>VERB-Fin--PRON (586)</li>
       <li>VERB-Inf--PRON (4)</li>
@@ -623,10 +623,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN (344)</li>
       <li>VERB-Fin--NOUN-ADP(de) (3)</li>
       <li>VERB-Fin--NOUN-ADP(jusque) (1)</li>
-      <li>VERB-Fin--PRON (97)</li>
+      <li>VERB-Fin--PRON (96)</li>
       <li>VERB-Fin--PRON-ADP(de) (1)</li>
       <li>VERB-Inf--NOUN (340)</li>
-      <li>VERB-Inf--PRON (65)</li>
+      <li>VERB-Inf--PRON (66)</li>
       <li>VERB-Inf--PRON-ADP(de) (1)</li>
       <li>VERB-Part--NOUN (165)</li>
       <li>VERB-Part--PRON (43)</li>

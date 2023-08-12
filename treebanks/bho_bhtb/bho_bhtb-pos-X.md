@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  स्टाइल (<tt><a href="bho_bhtb
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.035097).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.035079).
 
 The 1st highest number of forms (1) was observed with the lemma “स्टाइल”: स्टाइल.
 

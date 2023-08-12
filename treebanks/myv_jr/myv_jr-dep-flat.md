@@ -29,8 +29,8 @@ The following 4 pairs of parts of speech are connected with `flat`: <tt><a href=
 4	кол	кол	ADJ	A	_	5	amod	_	_
 5	вармась	варма	NOUN	N	Case=Nom|Definite=Def|Number=Sing	8	nsubj	_	GTtags=Sg,Nom,Def
 6	тензэ	сон	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Prs|Variant=Short	8	obl:agent	_	GTtags=Pers,Sg3,Dat,Short
-7	кармась	кармамс	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	8	aux:aspect	_	GTtags=IV,Ind,Prt1,ScSg3
-8	марявомо	марявомс	VERB	V	Case=Loc|Valency=1|VerbForm=Inf	0	root	_	GTtags=IV,Inf,Loc
+7	кармась	кармамс	AUX	V	Aspect=Inch|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	8	aux:aspect	_	GTtags=IV,Ind,Prt1,ScSg3
+8	марявомо	марявомс	VERB	V	Case=Loc|VerbForm=Inf	0	root	_	GTtags=IV,Inf,Loc
 9	седе	седе	ADV	Adv	Degree=Cmp	10	advmod:cmp	_	GTtags=Comp
 10	сэтьмекс	сэтьме	ADJ	A	Case=Tra|Definite=Ind|Number=Plur,Sing	8	xcomp	_	GTtags=Der/MWN,N,SP,Tra,Indef|SpaceAfter=No
 11	.	.	PUNCT	CLB	_	8	punct	_	_
@@ -47,7 +47,7 @@ The following 4 pairs of parts of speech are connected with `flat`: <tt><a href=
 1	Сень	се	PRON	Pron	Case=Gen|Definite=Ind	2	det	_	GTtags=Gen,Indef
 2	лангсо	ланго	NOUN	N	Case=Ine|Definite=Ind|NounType=Relat|Number=Plur,Sing	3	nmod:lmod	_	GTtags=Relator,Po,Ine
 3	сёрмадовксонтькак	сёрмадовкс	NOUN	N	Case=Gen|Clitic=Add|Definite=Def|Number=Sing	4	obj	_	GTtags=Sg,Gen,Def,Clitic=Gak
-4	ловнызь	ловномс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Past|Valency=2	0	root	_	GTtags=TV,Ind,Prt1,ScPl3,OcSg3|SpaceAfter=No
+4	ловнызь	ловномс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Past	0	root	_	GTtags=TV,Ind,Prt1,ScPl3,OcSg3|SpaceAfter=No
 5	:	:	PUNCT	CLB	_	7	punct	_	_
 6	«	«	PUNCT	CLB	_	7	punct	_	GTtags=|SpaceAfter=No
 7	Ни	ни	X	X	_	4	parataxis	_	_

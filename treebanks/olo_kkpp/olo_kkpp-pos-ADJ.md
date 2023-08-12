@@ -39,7 +39,7 @@ The 10 most frequent ambiguous types:  <em>bohattu</em> (<tt><a href="olo_kkpp-p
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.272727 (the average of all parts of speech is 1.333901).
+The form / lemma ratio of `ADJ` is 1.272727 (the average of all parts of speech is 1.338462).
 
 The 1st highest number of forms (5) was observed with the lemma “oma”: <em>omah, omakse, omas, omassah, omis</em>.
 

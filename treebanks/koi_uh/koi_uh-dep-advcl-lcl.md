@@ -29,7 +29,7 @@ The following 1 pairs of parts of speech are connected with `advcl:lcl`: <tt><a 
 4	тыдалӧны	тыдавны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	1	advcl:lcl	_	GTtags=V,IV,Ind,Prs,Pl3
 5	шутёммез	шутём	NOUN	N	Case=Nom|Number=Plur	4	nsubj	_	GTtags=N,Pl,Nom
 6	и	и	CCONJ	CC	_	7	cc	_	GTtags=CC
-7	видзоккез	видз	NOUN	N	Animacy=Inan|Case=Nom|Derivation=Dimin|Number=Plur	5	conj	_	GTtags=N,Sem/Inanim,Der/Ок,Der/Dimin,N,Pl,Nom|SpaceAfter=No
+7	видзоккез	видз	NOUN	N	Animacy=Inan|Case=Nom|Degree=Dim|Number=Plur	5	conj	_	GTtags=N,Sem/Inanim,Der/Ок,Der/Dimin,N,Pl,Nom|SpaceAfter=No
 8	,	,	PUNCT	CLB	_	4	punct	_	GTtags=CLB
 9	пыдын	пыдын	ADV	Adv	Case=Ine	12	advmod:lmod	_	GTtags=Adv,Ine
 10	лог	лог	NOUN	N	Case=Nom|Number=Sing	12	obl:lmod	_	GTtags=N,Sg,Nom

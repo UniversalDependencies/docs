@@ -29,7 +29,7 @@ The 10 most frequent ambiguous types:  <em>licet</em> (<tt><a href="la_ittb-pos-
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 3.338645).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 3.339343).
 
 The 1st highest number of forms (1) was observed with the lemma “co”: <em>co</em>.
 

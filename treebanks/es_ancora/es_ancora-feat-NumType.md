@@ -54,7 +54,7 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 `DET` tokens may have the following values of `NumType`:
 
 * `Card` (496; 100% of non-empty `NumType`): <em>muchos, muchas, mucha, pocos, mucho, pocas, poca, tanta, tantas, tanto</em>
-* `EMPTY` (83751): <em>el, la, los, un, las, una, su, sus, este, esta</em>
+* `EMPTY` (83906): <em>el, la, los, un, las, una, su, sus, este, esta</em>
 
 ### `SYM`
 
@@ -78,7 +78,7 @@ The most frequent other feature values with which `PRON` and `NumType` co-occurr
 `PRON` tokens may have the following values of `NumType`:
 
 * `Card` (178; 100% of non-empty `NumType`): <em>muchos, poco, muchas, pocos, mucho, cuanto, cuánto, tanta, cuántos, Deu</em>
-* `EMPTY` (25727): <em>que, se, lo, le, me, donde, nos, uno, quien, la</em>
+* `EMPTY` (25028): <em>que, se, lo, le, me, nos, uno, quien, la, les</em>
 
 ## Relations with Agreement in `NumType`
 

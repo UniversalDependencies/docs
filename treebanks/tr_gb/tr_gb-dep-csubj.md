@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Turkish-GB: Relations: `csubj`
 
 This relation is universal.
-There are 1 language-specific subtypes of `csubj`: <tt><a href="tr_gb-dep-csubj-cop.html">csubj:cop</a></tt>.
+There are 2 language-specific subtypes of `csubj`: <tt><a href="tr_gb-dep-csubj-cop.html">csubj:cop</a></tt>, <tt><a href="tr_gb-dep-csubj-outer.html">csubj:outer</a></tt>.
 
 78 nodes (0%) are attached to their parents as `csubj`.
 

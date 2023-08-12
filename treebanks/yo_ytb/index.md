@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Adédayọ̀ Olúòkun, Daniel Zeman, Seyi Williams, Ọlájídé Ishola.
 
 Repository: [UD_Yoruba-YTB](https://github.com/UniversalDependencies/UD_Yoruba-YTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udyo_ytb211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udyo_ytb212)<br />
+Download all treebanks: [UD 2.12](/#download)
 
 License: CC BY-SA 4.0
 
@@ -363,17 +363,16 @@ Parts of the Yoruba Bible and of the Yoruba edition of Wikipedia, hand-annotated
         <ul>
           <li>ADJ: ẹṣẹ</li>
           <li>ADP: kòsí, ni, si, sí, ẹba</li>
-          <li>ADV: tẹ̀lẹ̀</li>
-          <li>AUX: tí, le</li>
+          <li>ADV: sá, tẹ̀lẹ̀, ṣá</li>
+          <li>AUX: má, tí, le</li>
           <li>CCONJ: si, sí, ti</li>
           <li>DET: ná</li>
-          <li>NOUN: ayọ, iye, lọ́wọ́, osọ́nà, ẹṣẹ̀</li>
+          <li>NOUN: ayọ, bẹ́, iye, lọ́wọ́, osọ́nà, ẹṣẹ̀</li>
           <li>PART: ní</li>
           <li>PRON: rẹ, kín, o, ti</li>
           <li>PROPN: Bétanì</li>
           <li>SCONJ: bi</li>
           <li>VERB: ba, bà, gbẹ́</li>
-          <li>X: è</li>
         </ul>
       </li>
     </ul>

@@ -38,7 +38,7 @@ The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="
 13	_	_	ADP	IN	_	14	case	14:case	Discourse=same-unit_m:4->2:1|Lem=_|Len=2
 14	_	_	NOUN	NN	Number=Sing	7	nmod	7:nmod:of	Entity=4)|Lem=_|Len=4|SpaceAfter=No
 15	_	_	PUNCT	,	_	7	punct	7:punct	Lem=_|Len=1
-16	_	_	SCONJ	WRB	PronType=Int	19	obl	19:obl:from	Discourse=topic-question:5->6:0|Lem=_|Len=5
+16	_	_	ADV	WRB	PronType=Int	19	obl	19:obl:from	Discourse=topic-question:5->6:0|Lem=_|Len=5
 17	_	_	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	aux	19:aux	Lem=be|Len=3
 18	_	_	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	19	nsubj	19:nsubj	Entity=(3-place-giv:act-cf1-1-ana)|Lem=_|Len=4
 19	_	_	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	Lem=borrow|Len=9
@@ -87,7 +87,7 @@ The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 14	bgColor:blue
 # visual-style 14	fgColor:white
 # visual-style 14 10 aux	color:blue
-1	_	_	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	3:nsubj	Discourse=adversative-concession:156->157:1|Entity=(151-abstract-acc:com-cf1-1-ana)|Lem=*LOWER*|Len=4
+1	_	_	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	3:nsubj	Discourse=adversative-concession:156->157:1|Entity=(152-abstract-acc:com-cf1-1-ana)|Lem=*LOWER*|Len=4
 2	_	_	ADV	RB	Degree=Pos	3	advmod	3:advmod	Lem=_|Len=5
 3	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Lem=seem|Len=5
 4	_	_	ADV	RB	Degree=Pos	7	advmod	7:advmod	Lem=_|Len=3
@@ -95,24 +95,24 @@ The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="
 6	_	_	DET	DT	Definite=Def|PronType=Art	7	det	7:det	Lem=_|Len=3
 7	_	_	NOUN	NN	Number=Sing	3	obl	3:obl:over	Lem=_|Len=5
 8	_	_	CCONJ	CC	_	14	cc	14:cc	Discourse=organization-preparation:157->159:2|Lem=_|Len=3
-9	_	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	nsubj	14:nsubj	Entity=(151-abstract-giv:act-cf1-1-ana)|Lem=_|Len=2
+9	_	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	nsubj	14:nsubj	Entity=(152-abstract-giv:act-cf1-1-ana)|Lem=_|Len=2
 10	_	_	AUX	MD	VerbForm=Fin	14	aux	14:aux	Lem=_|Len=6
 11	_	_	AUX	VB	VerbForm=Inf	14	cop	14:cop	Lem=_|Len=2
-12	_	_	ADJ	JJ	Degree=Pos	14	amod	14:amod	Entity=(151-abstract-giv:act-cf1-3-pred|Lem=_|Len=4
+12	_	_	ADJ	JJ	Degree=Pos	14	amod	14:amod	Entity=(152-abstract-giv:act-cf1-3-pred|Lem=_|Len=4
 13	_	_	NOUN	NN	Number=Sing	14	compound	14:compound	Lem=_|Len=7
 14	_	_	NOUN	NN	Number=Sing	3	conj	3:conj:but	Lem=_|Len=11
 15	_	_	ADP	IN	_	16	case	16:case	Lem=_|Len=3
-16	_	_	PRON	NN	Number=Sing|PronType=Ind	14	nmod	14:nmod:for	Entity=(152-person-new-cf4-1-sgl|Lem=_|Len=7
+16	_	_	PRON	NN	Number=Sing|PronType=Ind	14	nmod	14:nmod:for	Entity=(153-person-new-cf4-1-sgl|Lem=_|Len=7
 17	_	_	VERB	VBG	VerbForm=Ger	16	acl	16:acl	Discourse=elaboration-attribute:158->157:0|Lem=try|Len=6
 18	_	_	PART	TO	_	19	mark	19:mark	Lem=_|Len=2
 19	_	_	VERB	VB	VerbForm=Inf	17	xcomp	17:xcomp	Lem=_|Len=10
-20	_	_	NOUN	NN	Number=Sing	21	compound	21:compound	Entity=(153-place-new-cf3-2-sgl(14-abstract-giv:inact-cf2-1-coref)|Lem=_|Len=4
-21	_	_	NOUN	NNS	Number=Plur	19	obj	19:obj	Entity=153)|Lem=market|Len=7
+20	_	_	NOUN	NN	Number=Sing	21	compound	21:compound	Entity=(154-place-new-cf3-2-sgl(14-abstract-giv:inact-cf2-1-coref)|Lem=_|Len=4
+21	_	_	NOUN	NNS	Number=Plur	19	obj	19:obj	Entity=154)|Lem=market|Len=7
 22	_	_	CCONJ	CC	_	23	cc	23:cc	Lem=_|Len=3
-23	_	_	NOUN	NN	Number=Sing	21	conj	19:obj|21:conj:and	Entity=(154-abstract-new-cf5-1-sgl)|Lem=_|Len=14|SpaceAfter=No
+23	_	_	NOUN	NN	Number=Sing	21	conj	19:obj|21:conj:and	Entity=(155-abstract-new-cf5-1-sgl)|Lem=_|Len=14|SpaceAfter=No
 24	_	_	PUNCT	,	_	26	punct	26:punct	Lem=_|Len=1
 25	_	_	ADP	IN	_	26	case	26:case	Lem=_|Len=2
-26	_	_	NOUN	NN	Number=Sing	19	obl	19:obl:in	Entity=152)151)|Lem=_|Len=7|SpaceAfter=No
+26	_	_	NOUN	NN	Number=Sing	19	obl	19:obl:in	Entity=153)152)|Lem=_|Len=7|SpaceAfter=No
 27	_	_	PUNCT	.	_	3	punct	3:punct	Lem=_|Len=1
 
 ~~~

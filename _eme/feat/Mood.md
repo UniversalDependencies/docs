@@ -13,6 +13,7 @@ udver: '2'
   <td><a href="#Imp">Imp</a></td>
   <td><a href="#Irr">Irr</a></td>
   <td><a href="#Dub">Dub</a></td>
+  <td><a href="#Jus">Jus</a></td>
 </tr>
 </table>
 
@@ -61,10 +62,18 @@ The permissive mood is marked with a prefix _`t-`_/_`ta-`_/_`te-`_.
 
 * _kʷi<b>enã</b> oronekomuwe perupi orohotaruwe_&nbsp; “One day, perhaps, we will go there.”
 
+### <a name="Jus">`Jus`</a>: Jussive
+
+`Jus` is a directive mood that expreses ordering, commanding, or exhorting. In Tekó, it is marked with _`-ko`_ (appears together with imperative particles) , _`-nane`_ (appears together with permissive particles), _`-na`_ (with both imperative and permissive particles). 
+
+#### Examples
+
+* _derapɨdʒ<b>nane</b>_&nbsp; “Have a house then.”
+
 ## Diffs
 
 ### Prague Dependency Treebank
 
 The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
 therefore this distinction is not being made in the converted data.
-<!-- Interlanguage links updated Po lis 14 15:34:48 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:40 CEST -->

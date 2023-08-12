@@ -9,33 +9,33 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Card`, `Mult`, `Ord`.
 
-499 tokens (1%) have a non-empty value of `NumType`.
+492 tokens (1%) have a non-empty value of `NumType`.
 112 types (2%) occur at least once with a non-empty value of `NumType`.
 93 lemmas (3%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 4 part-of-speech tags: <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> (440; 1% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (43; 0% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (14; 0% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (2; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> (434; 1% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (42; 0% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (14; 0% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (2; 0% instances).
 
 ### `NUM`
 
-440 <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
+434 <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (394; 90%), <tt><a href="cs_cltt-feat-NumValue.html">NumValue</a></tt><tt>=EMPTY</tt> (382; 87%), <tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (371; 84%), <tt><a href="cs_cltt-feat-NumForm.html">NumForm</a></tt><tt>=Roman</tt> (371; 84%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (371; 84%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (388; 89%), <tt><a href="cs_cltt-feat-NumValue.html">NumValue</a></tt><tt>=EMPTY</tt> (377; 87%), <tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (366; 84%), <tt><a href="cs_cltt-feat-NumForm.html">NumForm</a></tt><tt>=Roman</tt> (366; 84%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (366; 84%).
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (440; 100% of non-empty `NumType`): <em>1, 3, 2, 4, jeden, 5, 41, 7, jedné, tří</em>
+* `Card` (434; 100% of non-empty `NumType`): <em>1, 3, 2, 4, jeden, 5, 41, 7, jedné, tří</em>
 
 `NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (83) occur only with one value of `NumType`.
 
 ### `ADJ`
 
-43 <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `NumType`.
+42 <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="cs_cltt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (43; 100%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (43; 100%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (43; 100%), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (24; 56%).
+The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="cs_cltt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (42; 100%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (42; 100%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (42; 100%), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (24; 57%).
 
 `ADJ` tokens may have the following values of `NumType`:
 
-* `Ord` (43; 100% of non-empty `NumType`): <em>prvním, prvnímu, prvního, první, třetí, PÁTÁ, ČTVRTÁ, ŠESTÁ, SEDMÁ, druhé</em>
-* `EMPTY` (6729): <em>účetní, účetních, účetního, konsolidované, konsolidující, finanční, účetním, povinny, výroční, právní</em>
+* `Ord` (42; 100% of non-empty `NumType`): <em>prvním, prvnímu, první, prvního, třetí, PÁTÁ, ČTVRTÁ, ŠESTÁ, SEDMÁ, druhé</em>
+* `EMPTY` (6601): <em>účetní, účetních, účetního, konsolidované, konsolidující, finanční, účetním, povinny, právní, výroční</em>
 
 ### `ADV`
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 
 * `Mult` (3; 21% of non-empty `NumType`): <em>jednou</em>
 * `Ord` (11; 79% of non-empty `NumType`): <em>poprvé</em>
-* `EMPTY` (776): <em>dále, zejména, popřípadě, jinak, pouze, kdy, též, například, tak, více</em>
+* `EMPTY` (761): <em>dále, zejména, popřípadě, jinak, pouze, kdy, též, například, tak, více</em>
 
 ### `DET`
 
@@ -58,7 +58,7 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 `DET` tokens may have the following values of `NumType`:
 
 * `Card` (2; 100% of non-empty `NumType`): <em>několika</em>
-* `EMPTY` (1159): <em>které, jejich, která, jeho, této, tohoto, který, těchto, tyto, tato</em>
+* `EMPTY` (1133): <em>které, jejich, která, jeho, této, tohoto, který, těchto, tyto, tato</em>
 
 ## Relations with Agreement in `NumType`
 

@@ -23,7 +23,7 @@ The feature is used with 5 part-of-speech tags: <tt><a href="en_lines-pos-ADJ.ht
 * `Cmp` (160; 3% of non-empty `Degree`): <em>more, better, most, worse, easier, lower, older, greater, higher, less</em>
 * `Pos` (5365; 96% of non-empty `Degree`): <em>other, white, old, new, good, same, own, black, great, little</em>
 * `Sup` (68; 1% of non-empty `Degree`): <em>best, biggest, greatest, worst, largest, least, nearest, commonest, deepest, oldest</em>
-* `EMPTY` (346): <em>such, another, following, loud, pale, moving, existing, trading, living, calculated</em>
+* `EMPTY` (347): <em>such, another, following, loud, pale, moving, existing, trading, living, calculated</em>
 
 <table>
   <tr><th>Paradigm <i>good</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -43,7 +43,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 * `Cmp` (35; 18% of non-empty `Degree`): <em>longer, farther, more, nearer, sooner, harder, higher</em>
 * `Pos` (143; 73% of non-empty `Degree`): <em>well, far, long, soon, close, hard, little, badly, early, fast</em>
 * `Sup` (17; 9% of non-empty `Degree`): <em>least, Whilst, best, closest</em>
-* `EMPTY` (4895): <em>out, up, so, then, back, now, very, just, too, again</em>
+* `EMPTY` (4893): <em>out, up, so, then, now, back, very, just, too, again</em>
 
 <table>
   <tr><th>Paradigm <i>well</i></th><th><tt>Pos</tt></th><th><tt>Sup</tt></th></tr>
@@ -59,7 +59,7 @@ The most frequent other feature values with which `VERB` and `Degree` co-occurre
 `VERB` tokens may have the following values of `Degree`:
 
 * `Pos` (2; 100% of non-empty `Degree`): <em>Cursed, screaming</em>
-* `EMPTY` (11108): <em>said, was, know, had, have, see, is, made, do, come</em>
+* `EMPTY` (11094): <em>said, was, know, had, have, see, is, made, do, come</em>
 
 ### `INTJ`
 
@@ -79,15 +79,15 @@ The most frequent other feature values with which `PRON` and `Degree` co-occurre
 `PRON` tokens may have the following values of `Degree`:
 
 * `Sup` (1; 100% of non-empty `Degree`): <em>most</em>
-* `EMPTY` (9627): <em>he, I, it, you, his, that, my, they, him, her</em>
+* `EMPTY` (9629): <em>he, I, it, you, his, that, my, they, him, her</em>
 
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
 <tt>ADJ --[<tt><a href="en_lines-dep-conj.html">conj</a></tt>]--> ADJ</tt> (215; 93%),
 <tt>ADJ --[<tt><a href="en_lines-dep-amod.html">amod</a></tt>]--> ADJ</tt> (34; 87%),
-<tt>ADJ --[<tt><a href="en_lines-dep-parataxis.html">parataxis</a></tt>]--> ADJ</tt> (7; 100%),
 <tt>ADJ --[<tt><a href="en_lines-dep-acl.html">acl</a></tt>]--> ADJ</tt> (6; 100%),
+<tt>ADJ --[<tt><a href="en_lines-dep-parataxis.html">parataxis</a></tt>]--> ADJ</tt> (6; 100%),
 <tt>ADJ --[<tt><a href="en_lines-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (4; 100%),
 <tt>ADJ --[<tt><a href="en_lines-dep-nsubj.html">nsubj</a></tt>]--> ADJ</tt> (3; 100%),
 <tt>ADJ --[<tt><a href="en_lines-dep-appos.html">appos</a></tt>]--> ADJ</tt> (2; 67%),

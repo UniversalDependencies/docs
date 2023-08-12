@@ -53,7 +53,7 @@ The following 25 pairs of parts of speech are connected with `fixed`: <tt><a hre
 4	trop	trop	ADV	_	_	5	advmod	_	_
 5	peur	peur	NOUN	_	Gender=Fem|Number=Sing	3	obj:lvc	_	_
 6	de	de	ADP	_	_	8	mark	_	_
-7	se	se	PRON	_	Person=3|PronType=Prs	8	expl	_	_
+7	se	se	PRON	_	Person=3|PronType=Prs	8	expl:comp	_	_
 8	relever	relever	VERB	_	VerbForm=Inf	5	xcomp	_	Subject=SubjRaising
 9	en	en	ADP	_	_	3	advmod	_	ExtPos=ADV|Idiom=Yes
 10	fait	fait	NOUN	_	Gender=Masc|Number=Sing	9	fixed	_	InIdiom=Yes|SpaceAfter=No

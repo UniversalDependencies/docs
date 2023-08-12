@@ -39,4 +39,4 @@ However, lack of an article is also understood as indefiniteness.
 - srǿšnah déte<b>to</b> na pótene da igró_ "I met the boy (who now is close to the addressee)in the street and he was playing" 
 - srǿšnah déte<b>no</b> na pótene da igró_ "I met the boy (who now is away from both the speaker and the addressee) in the street and he was playing"  
 
-<!-- Interlanguage links updated Po lis 14 15:34:43 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:34 CEST -->

@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 3 language-specific subtypes of `aux`: <tt><a href="fr_rhapsodie-dep-aux-caus.html">aux:caus</a></tt>, <tt><a href="fr_rhapsodie-dep-aux-pass.html">aux:pass</a></tt>, <tt><a href="fr_rhapsodie-dep-aux-tense.html">aux:tense</a></tt>.
 
-7 nodes (0%) are attached to their parents as `aux`.
+5 nodes (0%) are attached to their parents as `aux`.
 
-7 instances of `aux` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.85714285714286.
+5 instances of `aux` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.2.
 
-The following 2 pairs of parts of speech are connected with `aux`: <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> (6; 86% instances), <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> (1; 14% instances).
+The following 2 pairs of parts of speech are connected with `aux`: <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> (4; 80% instances), <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> (1; 20% instances).
 
 
 ~~~ conllu

@@ -34,7 +34,7 @@ The following 1 pairs of parts of speech are connected with `expl:impers`: <tt><
 9	con	con	ADP	E	_	11	case	_	_
 10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
 11	tagli	taglio	NOUN	S	Gender=Masc|Number=Plur	7	obl	_	SpaceAfter=No
-12	.	.	PUNCT	FS	_	7	punct	_	SpaceAfter=\n
+12	.	.	PUNCT	FS	_	7	punct	_	SpacesAfter=\n
 
 ~~~
 

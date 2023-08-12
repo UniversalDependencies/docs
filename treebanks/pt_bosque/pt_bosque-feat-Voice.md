@@ -36,7 +36,7 @@ The most frequent other feature values with which `ADJ` and `Voice` co-occurred:
 `ADJ` tokens may have the following values of `Voice`:
 
 * `Pass` (1; 100% of non-empty `Voice`): <em>recomendados</em>
-* `EMPTY` (11395): <em>maior, primeiro, grande, primeira, novo, nova, mesmo, nacional, grandes, melhor</em>
+* `EMPTY` (11397): <em>maior, primeiro, grande, primeira, novo, nova, mesmo, nacional, grandes, melhor</em>
 
 ### `NOUN`
 

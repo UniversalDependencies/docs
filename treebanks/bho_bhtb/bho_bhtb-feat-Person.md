@@ -9,16 +9,16 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-3365 tokens (50%) have a non-empty value of `Person`.
+3367 tokens (51%) have a non-empty value of `Person`.
 1281 types (76%) occur at least once with a non-empty value of `Person`.
 1240 lemmas (76%) occur at least once with a non-empty value of `Person`.
-The feature is used with 12 part-of-speech tags: <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (1568; 24% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> (416; 6% instances), <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt> (390; 6% instances), <tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt> (220; 3% instances), <tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (215; 3% instances), <tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt> (188; 3% instances), <tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt> (98; 1% instances), <tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> (94; 1% instances), <tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt> (91; 1% instances), <tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt> (52; 1% instances), <tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> (30; 0% instances), <tt><a href="bho_bhtb-pos-ADV.html">ADV</a></tt> (3; 0% instances).
+The feature is used with 12 part-of-speech tags: <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (1568; 24% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> (416; 6% instances), <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt> (392; 6% instances), <tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt> (220; 3% instances), <tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (215; 3% instances), <tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt> (188; 3% instances), <tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt> (98; 1% instances), <tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> (94; 1% instances), <tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt> (91; 1% instances), <tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt> (52; 1% instances), <tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> (30; 0% instances), <tt><a href="bho_bhtb-pos-ADV.html">ADV</a></tt> (3; 0% instances).
 
 ### `NOUN`
 
 1568 <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> tokens (85% of all `NOUN` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `NOUN` and `Person` co-occurred: <tt><a href="bho_bhtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1465; 93%), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1206; 77%), <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (918; 59%).
+The most frequent other feature values with which `NOUN` and `Person` co-occurred: <tt><a href="bho_bhtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1465; 93%), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1205; 77%), <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (918; 59%).
 
 `NOUN` tokens may have the following values of `Person`:
 
@@ -52,16 +52,16 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `PROPN`
 
-390 <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt> tokens (93% of all `PROPN` tokens) have a non-empty value of `Person`.
+392 <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt> tokens (93% of all `PROPN` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PROPN` and `Person` co-occurred: <tt><a href="bho_bhtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (387; 99%), <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (270; 69%), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (223; 57%).
+The most frequent other feature values with which `PROPN` and `Person` co-occurred: <tt><a href="bho_bhtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (389; 99%), <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (271; 69%), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (224; 57%).
 
 `PROPN` tokens may have the following values of `Person`:
 
-* `3` (390; 100% of non-empty `Person`): भोजपुरी, सिंह, प्रियंका, राय, जी, डॉ., पाण्डेय, तिवारी, दिल्ली, द्विवेदी
+* `3` (392; 100% of non-empty `Person`): भोजपुरी, सिंह, प्रियंका, राय, जी, डॉ., पाण्डेय, तिवारी, दिल्ली, द्विवेदी
 * `EMPTY` (29): पाती, डा॰, अंचल, टिप्पणिए, प्रो॰, 2012, 24, इटलिए, चोपड़ा, तक्षशिला
 
-`Person` seems to be **lexical feature** of `PROPN`. 100% lemmas (179) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `PROPN`. 100% lemmas (180) occur only with one value of `Person`.
 
 ### `AUX`
 
@@ -134,7 +134,7 @@ The most frequent other feature values with which `ADJ` and `Person` co-occurred
 `ADJ` tokens may have the following values of `Person`:
 
 * `3` (98; 100% of non-empty `Person`): बड़, छोट, तरह, नवका, बड़हन, भोजपुरिया, अढ़ाई, अश्लील, आधा, खुलल
-* `EMPTY` (152): पूरा, सांस्कृतिक, तथाकथित, प, खास, चुपचाप, जरूरी, आखिरी, आसान, काव्य
+* `EMPTY` (151): पूरा, सांस्कृतिक, तथाकथित, प, खास, चुपचाप, जरूरी, आखिरी, आसान, काव्य
 
 `Person` seems to be **lexical feature** of `ADJ`. 100% lemmas (67) occur only with one value of `Person`.
 
@@ -190,26 +190,26 @@ The most frequent other feature values with which `CCONJ` and `Person` co-occurr
 
 ### `ADV`
 
-3 <tt><a href="bho_bhtb-pos-ADV.html">ADV</a></tt> tokens (9% of all `ADV` tokens) have a non-empty value of `Person`.
+3 <tt><a href="bho_bhtb-pos-ADV.html">ADV</a></tt> tokens (10% of all `ADV` tokens) have a non-empty value of `Person`.
 
 The most frequent other feature values with which `ADV` and `Person` co-occurred: <tt><a href="bho_bhtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 100%), <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (2; 67%), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2; 67%).
 
 `ADV` tokens may have the following values of `Person`:
 
 * `3` (3; 100% of non-empty `Person`): आजुओ, जल्दी, शुरू
-* `EMPTY` (29): जइसे, हिन्दी, गद्य, ललित, सभ्य, आनन्द, आसानी, जरूर, जल्दी, जसहीं
+* `EMPTY` (28): जइसे, हिन्दी, गद्य, ललित, सभ्य, आनन्द, आसानी, जरूर, जल्दी, जसहीं
 
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>NOUN --[<tt><a href="bho_bhtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (242; 82%),
 <tt>NOUN --[<tt><a href="bho_bhtb-dep-compound.html">compound</a></tt>]--> NOUN</tt> (201; 82%),
-<tt>VERB --[<tt><a href="bho_bhtb-dep-compound.html">compound</a></tt>]--> NOUN</tt> (194; 58%),
+<tt>VERB --[<tt><a href="bho_bhtb-dep-compound.html">compound</a></tt>]--> NOUN</tt> (194; 59%),
 <tt>PROPN --[<tt><a href="bho_bhtb-dep-compound.html">compound</a></tt>]--> PROPN</tt> (138; 94%),
-<tt>VERB --[<tt><a href="bho_bhtb-dep-aux.html">aux</a></tt>]--> AUX</tt> (100; 52%),
-<tt>VERB --[<tt><a href="bho_bhtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (100; 57%),
+<tt>VERB --[<tt><a href="bho_bhtb-dep-aux.html">aux</a></tt>]--> AUX</tt> (101; 52%),
+<tt>VERB --[<tt><a href="bho_bhtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (100; 58%),
 <tt>NOUN --[<tt><a href="bho_bhtb-dep-compound.html">compound</a></tt>]--> DET</tt> (79; 82%),
 <tt>NOUN --[<tt><a href="bho_bhtb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (50; 79%),
-<tt>NOUN --[<tt><a href="bho_bhtb-dep-compound.html">compound</a></tt>]--> NUM</tt> (44; 76%),
+<tt>NOUN --[<tt><a href="bho_bhtb-dep-compound.html">compound</a></tt>]--> NUM</tt> (43; 75%),
 <tt>NOUN --[<tt><a href="bho_bhtb-dep-compound.html">compound</a></tt>]--> PROPN</tt> (40; 87%).
 

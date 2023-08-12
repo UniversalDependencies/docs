@@ -9,24 +9,24 @@ udver: '2'
 This feature is language-specific.
 It occurs with 5 different values: `Geo`, `Giv`, `Nat`, `Prs`, `Sur`.
 
-27283 tokens (9%) have a non-empty value of `NameType`.
-4186 types (46%) occur at least once with a non-empty value of `NameType`.
-4175 lemmas (46%) occur at least once with a non-empty value of `NameType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> (27283; 9% instances).
+45765 tokens (11%) have a non-empty value of `NameType`.
+4797 types (49%) occur at least once with a non-empty value of `NameType`.
+4782 lemmas (50%) occur at least once with a non-empty value of `NameType`.
+The feature is used with 1 part-of-speech tags: <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> (45765; 11% instances).
 
 ### `PROPN`
 
-27283 <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `NameType`.
+45765 <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `NameType`.
 
-The most frequent other feature values with which `PROPN` and `NameType` co-occurred: <tt><a href="lzh_kyoto-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (19363; 71%).
+The most frequent other feature values with which `PROPN` and `NameType` co-occurred: <tt><a href="lzh_kyoto-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (26672; 58%).
 
 `PROPN` tokens may have the following values of `NameType`:
 
-* `Geo` (4129; 15% of non-empty `NameType`): 長安、 洛陽、 江、 沛、 漢、 荊、 京師、 汴、 建康、 關中
-* `Giv` (11838; 43% of non-empty `NameType`): 舜、 須菩提、 堯、 禹、 光、 湯、 子貢、 子路、 信、 亮
-* `Nat` (3791; 14% of non-empty `NameType`): 周、 秦、 齊、 漢、 晉、 魏、 楚、 夏、 燕、 宋
-* `Prs` (2413; 9% of non-empty `NameType`): 孔子、 孟子、 文、 曾子、 武、 太、 高、 宣、 桓、 哀
-* `Sur` (5112; 19% of non-empty `NameType`): 李、 王、 劉、 張、 陳、 趙、 杜、 呂、 名、 楊
+* `Geo` (5816; 13% of non-empty `NameType`): 長安、 邯鄲、 洛陽、 宜陽、 江、 漢、 晉陽、 郢、 沛、 山東
+* `Giv` (15455; 34% of non-empty `NameType`): 儀、 舜、 須菩提、 堯、 秦、 禹、 湯、 衍、 光、 茂
+* `Nat` (13277; 29% of non-empty `NameType`): 秦、 齊、 魏、 楚、 趙、 韓、 燕、 周、 宋、 晉
+* `Prs` (3517; 8% of non-empty `NameType`): 孔子、 孟子、 文、 武、 曾子、 昭、 宣、 惠、 太、 桓
+* `Sur` (7700; 17% of non-empty `NameType`): 張、 李、 王、 劉、 蘇、 陳、 韓、 趙、 田、 公孫
 
 <table>
   <tr><th>Paradigm <i>元</i></th><th><tt>Geo</tt></th><th><tt>Giv</tt></th><th><tt>Nat</tt></th><th><tt>Prs</tt></th><th><tt>Sur</tt></th></tr>
@@ -37,7 +37,9 @@ The most frequent other feature values with which `PROPN` and `NameType` co-occu
 ## Relations with Agreement in `NameType`
 
 The 10 most frequent relations where parent and child node agree in `NameType`:
-<tt>PROPN --[<tt><a href="lzh_kyoto-dep-conj.html">conj</a></tt>]--> PROPN</tt> (1355; 91%),
+<tt>PROPN --[<tt><a href="lzh_kyoto-dep-conj.html">conj</a></tt>]--> PROPN</tt> (2539; 93%),
 <tt>PROPN --[<tt><a href="lzh_kyoto-dep-list.html">list</a></tt>]--> PROPN</tt> (17; 77%),
-<tt>PROPN --[<tt><a href="lzh_kyoto-dep-nsubj-outer.html">nsubj:outer</a></tt>]--> PROPN</tt> (16; 62%).
+<tt>PROPN --[<tt><a href="lzh_kyoto-dep-nsubj-outer.html">nsubj:outer</a></tt>]--> PROPN</tt> (16; 62%),
+<tt>PROPN --[<tt><a href="lzh_kyoto-dep-amod.html">amod</a></tt>]--> PROPN</tt> (3; 75%),
+<tt>PROPN --[<tt><a href="lzh_kyoto-dep-advcl.html">advcl</a></tt>]--> PROPN</tt> (1; 100%).
 

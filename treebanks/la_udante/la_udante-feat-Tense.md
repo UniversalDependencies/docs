@@ -92,14 +92,14 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> VERB</tt> (707; 77%),
-<tt>VERB --[<tt><a href="la_udante-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (467; 55%),
+<tt>VERB --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> VERB</tt> (706; 77%),
+<tt>VERB --[<tt><a href="la_udante-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (463; 55%),
 <tt>VERB --[<tt><a href="la_udante-dep-ccomp-reported.html">ccomp:reported</a></tt>]--> VERB</tt> (43; 51%),
-<tt>VERB --[<tt><a href="la_udante-dep-csubj-relcl.html">csubj:relcl</a></tt>]--> VERB</tt> (36; 62%),
-<tt>VERB --[<tt><a href="la_udante-dep-conj-expl.html">conj:expl</a></tt>]--> VERB</tt> (21; 72%),
-<tt>VERB --[<tt><a href="la_udante-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (17; 68%),
-<tt>VERB --[<tt><a href="la_udante-dep-ccomp-relcl.html">ccomp:relcl</a></tt>]--> VERB</tt> (16; 55%),
-<tt>VERB --[<tt><a href="la_udante-dep-cop-outer.html">cop:outer</a></tt>]--> AUX</tt> (8; 67%),
+<tt>VERB --[<tt><a href="la_udante-dep-csubj-relcl.html">csubj:relcl</a></tt>]--> VERB</tt> (36; 61%),
+<tt>VERB --[<tt><a href="la_udante-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (28; 76%),
+<tt>VERB --[<tt><a href="la_udante-dep-conj-expl.html">conj:expl</a></tt>]--> VERB</tt> (23; 74%),
+<tt>VERB --[<tt><a href="la_udante-dep-ccomp-relcl.html">ccomp:relcl</a></tt>]--> VERB</tt> (16; 53%),
+<tt>VERB --[<tt><a href="la_udante-dep-cop-outer.html">cop:outer</a></tt>]--> AUX</tt> (8; 62%),
 <tt>VERB --[<tt><a href="la_udante-dep-discourse.html">discourse</a></tt>]--> VERB</tt> (3; 100%),
 <tt>AUX --[<tt><a href="la_udante-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (2; 67%).
 

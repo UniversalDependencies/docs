@@ -16,7 +16,7 @@ The feature is used with 5 part-of-speech tags: <tt><a href="mdf_jr-pos-ADV.html
 
 ### `ADV`
 
-2 <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Style`.
+2 <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Style`.
 
 The most frequent other feature values with which `ADV` and `Style` co-occurred: <tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2; 100%).
 
@@ -26,7 +26,7 @@ The most frequent other feature values with which `ADV` and `Style` co-occurred:
 
 ### `DET`
 
-2 <tt><a href="mdf_jr-pos-DET.html">DET</a></tt> tokens (6% of all `DET` tokens) have a non-empty value of `Style`.
+2 <tt><a href="mdf_jr-pos-DET.html">DET</a></tt> tokens (5% of all `DET` tokens) have a non-empty value of `Style`.
 
 `DET` tokens may have the following values of `Style`:
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `ADV` and `Style` co-occurred:
 
 ### `SCONJ`
 
-2 <tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> tokens (10% of all `SCONJ` tokens) have a non-empty value of `Style`.
+2 <tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> tokens (8% of all `SCONJ` tokens) have a non-empty value of `Style`.
 
 `SCONJ` tokens may have the following values of `Style`:
 
@@ -52,7 +52,7 @@ The most frequent other feature values with which `PART` and `Style` co-occurred
 
 ### `PRON`
 
-1 <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Style`.
+1 <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Style`.
 
 The most frequent other feature values with which `PRON` and `Style` co-occurred: <tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=Gen</tt> (1; 100%), <tt><a href="mdf_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="mdf_jr-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt> (1; 100%), <tt><a href="mdf_jr-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="mdf_jr-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (1; 100%), <tt><a href="mdf_jr-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (1; 100%).
 

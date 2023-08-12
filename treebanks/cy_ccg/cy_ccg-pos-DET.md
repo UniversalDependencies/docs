@@ -55,7 +55,7 @@ Examples: <em>y, 'r, yr, pa, An, P'</em>
 
 `DET` nodes are attached to their parents using 3 different relations: <tt><a href="cy_ccg-dep-det.html">det</a></tt> (3045; 100% instances), <tt><a href="cy_ccg-dep-advmod.html">advmod</a></tt> (5; 0% instances), <tt><a href="cy_ccg-dep-nmod.html">nmod</a></tt> (1; 0% instances)
 
-Parents of `DET` nodes belong to 9 different parts of speech: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (2793; 92% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (141; 5% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> (35; 1% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (33; 1% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (24; 1% instances), <tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (20; 1% instances), <tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-SYM.html">SYM</a></tt> (1; 0% instances)
+Parents of `DET` nodes belong to 9 different parts of speech: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (2794; 92% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (141; 5% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> (35; 1% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (32; 1% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (24; 1% instances), <tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (20; 1% instances), <tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 
 3049 (100%) `DET` nodes are leaves.
 

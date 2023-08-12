@@ -22,23 +22,23 @@ The following 14 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 10 acl	color:blue
-1	“	“	PUNCT	_	_	4	punct	_	Ref=MATT_5.14|SpaceAfter=No|Gloss=“
-2	Ẹyin	Ẹyin	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	Ref=MATT_5.14|Gloss=you
-3	ni	ni	PART	_	_	2	case	_	Ref=MATT_5.14|Gloss=is
-4	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	0	root	_	Ref=MATT_5.14|Gloss=light
-5	ayé	ayé	NOUN	_	_	4	nmod	_	Ref=MATT_5.14|SpaceAfter=No|Gloss=earth
-6	.	.	PUNCT	_	_	7	punct	_	Ref=MATT_5.14|Gloss=.
-7	Ìlú	ìlú	NOUN	_	_	5	nmod	_	Ref=MATT_5.14|Gloss=city
-8	tí	tí	PRON	_	PronType=Rel	10	nsubj	_	Ref=MATT_5.14|Gloss=that
-9	a	a	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	10	expl	_	Ref=MATT_5.14|Gloss=we
-10	tẹ̀dó	tẹ̀dó	VERB	_	_	7	acl	_	Ref=MATT_5.14|Gloss=found
-11	sórí	sórí	ADP	_	_	12	case	_	Ref=MATT_5.14|Gloss=upon
-12	òkè	òkè	NOUN	_	_	10	obl	_	Ref=MATT_5.14|Gloss=hill
-13	kò	kò	PART	_	_	15	advmod	_	Ref=MATT_5.14|Gloss=not
-14	lè	lè	AUX	_	_	15	aux	_	Ref=MATT_5.14|Gloss=may
-15	fara	fara	VERB	_	_	10	conj	_	Ref=MATT_5.14|Gloss=hidden
-16	sin	sin	ADV	_	_	15	compound	_	Ref=MATT_5.14|SpaceAfter=No|Gloss=
-17	.	.	PUNCT	_	_	4	punct	_	Ref=MATT_5.14|Gloss=.
+1	“	“	PUNCT	_	_	4	punct	_	Gloss=“|Ref=MATT_5.14|SpaceAfter=No
+2	Ẹyin	Ẹyin	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	Gloss=you|Ref=MATT_5.14
+3	ni	ni	PART	_	_	2	case	_	Gloss=is|Ref=MATT_5.14
+4	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	0	root	_	Gloss=light|Ref=MATT_5.14
+5	ayé	ayé	NOUN	_	_	4	nmod	_	Gloss=earth|Ref=MATT_5.14|SpaceAfter=No
+6	.	.	PUNCT	_	_	7	punct	_	Gloss=.|Ref=MATT_5.14
+7	Ìlú	ìlú	NOUN	_	_	5	nmod	_	Gloss=city|Ref=MATT_5.14
+8	tí	tí	PRON	_	PronType=Rel	10	nsubj	_	Gloss=that|Ref=MATT_5.14
+9	a	a	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	10	expl	_	Gloss=we|Ref=MATT_5.14
+10	tẹ̀dó	tẹ̀dó	VERB	_	_	7	acl	_	Gloss=found|Ref=MATT_5.14
+11	sórí	sórí	ADP	_	_	12	case	_	Gloss=upon|Ref=MATT_5.14
+12	òkè	òkè	NOUN	_	_	10	obl	_	Gloss=hill|Ref=MATT_5.14
+13	kò	kò	PART	_	_	15	advmod	_	Gloss=not|Ref=MATT_5.14
+14	lè	lè	AUX	_	_	15	aux	_	Gloss=may|Ref=MATT_5.14
+15	fara	fara	VERB	_	_	10	conj	_	Gloss=hidden|Ref=MATT_5.14
+16	sin	sin	ADV	_	_	15	compound	_	Gloss=|Ref=MATT_5.14|SpaceAfter=No
+17	.	.	PUNCT	_	_	4	punct	_	Gloss=.|Ref=MATT_5.14
 
 ~~~
 
@@ -91,7 +91,7 @@ The following 14 pairs of parts of speech are connected with `acl`: <tt><a href=
 11	iṣẹ́	iṣẹ́	NOUN	_	_	13	nsubj	_	_
 12	wọn	wọn	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	11	nmod	_	_
 13	pọ̀jùlọ	pọ̀jùlọ	VERB	_	_	5	acl	_	SpaceAfter=No
-14	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n\n
+14	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 

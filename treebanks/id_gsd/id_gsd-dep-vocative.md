@@ -78,10 +78,10 @@ The following 3 pairs of parts of speech are connected with `vocative`: <tt><a h
 9	Anda	anda	PRON	PS2	Number=Sing|Person=2|Polite=Form|PronType=Prs	11	nsubj	_	Morf=^anda<p>_PS2$
 10	akan	akan	AUX	M--	_	11	aux	_	Morf=^akan<m>_M--$
 11	menonton	tonton	VERB	VSA	Mood=Ind|Voice=Act	2	advcl	_	Morf=^meN+tonton<v>_VSA$
-12	'	'	PUNCT	_	_	13	punct	_	SpaceAfter=No
+12	'	'	PUNCT	Z--	_	13	punct	_	SpaceAfter=No
 13	Home	home	PROPN	F--	_	11	obj	_	Morf=^home<f>_F--$
 14	Alone	alone	PROPN	X--	_	13	flat:name	_	SpaceAfter=No|Morf=^alone<x>_X--$
-15	'	'	PUNCT	_	_	13	punct	_	_
+15	'	'	PUNCT	Z--	_	13	punct	_	_
 16	di	di	ADP	R--	_	17	case	_	Morf=^di<r>_R--$
 17	rumah	rumah	NOUN	NSD	Number=Sing	11	obl	_	Morf=^rumah<n>_NSD$
 18	lagi	lagi	ADV	D--	_	17	advmod	_	SpaceAfter=No|Morf=^lagi<d>_D--$

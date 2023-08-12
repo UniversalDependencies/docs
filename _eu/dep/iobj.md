@@ -57,4 +57,4 @@ amod(ildo-7, politikoari-8)
 iobj(eman-4, ildo-7)
 punct(eman-4, .-9)
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:28 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:04:17 CEST -->

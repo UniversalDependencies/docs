@@ -22,16 +22,16 @@ The following 23 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 advcl	color:blue
-1	А	а	CCONJ	_	_	2	cc	_	wf="А"|SpaceAfter=Yes
-2	велет(ь)	велѣти	VERB	_	VerbForm=Inf|Voice=Act	3	advcl	_	wf="велеть"|SpaceAfter=Yes
-3	ростит(ь)	растити	VERB	_	VerbForm=Inf|Voice=Act	0	root	_	wf="ростить"|SpaceAfter=Yes
-4	доброи	добрый	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	wf="доброи"|SpaceAfter=Yes
+1	А	а	CCONJ	_	_	2	cc	_	wf="А"|_
+2	велет(ь)	велѣти	VERB	_	VerbForm=Inf|Voice=Act	3	advcl	_	wf="велеть"|_
+3	ростит(ь)	растити	VERB	_	VerbForm=Inf|Voice=Act	0	root	_	wf="ростить"|_
+4	доброи	добрый	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	wf="доброи"|_
 5	хлеб	хлѣбъ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	obj	_	wf="хлеб"|SpaceAfter=No
-6	,	,	PUNCT	_	_	9	punct	_	wf=","|SpaceAfter=Yes
-7	а	а	CCONJ	_	_	9	cc	_	wf="а"|SpaceAfter=Yes
-8	не	не	PART	_	Polarity=Neg	9	advmod	_	wf="не"|SpaceAfter=Yes
+6	,	,	PUNCT	_	_	9	punct	_	wf=","|_
+7	а	а	CCONJ	_	_	9	cc	_	wf="а"|_
+8	не	не	PART	_	Polarity=Neg	9	advmod	_	wf="не"|_
 9	худои	худой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	conj	_	wf="худои"|SpaceAfter=No
-10	.	.	PUNCT	_	_	3	punct	_	wf="."|SpaceAfter=Yes
+10	.	.	PUNCT	_	_	3	punct	_	wf="."|_
 
 ~~~
 

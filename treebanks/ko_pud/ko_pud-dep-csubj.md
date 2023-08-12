@@ -65,7 +65,7 @@ The following 12 pairs of parts of speech are connected with `csubj`: <tt><a hre
 10	표결에	표결	NOUN	NN+CM	Polite=Form	11	obl	_	MSeg=표결-에|Translit=.pyo.gyeol.e|LTranslit=.pyo.gyeol
 11	참여할	_	NOUN	NN	_	12	dep	_	SpaceAfter=No|Translit=.cham.yeo.hal
 12	것	_	NOUN	NNB	_	15	advcl	_	SpaceAfter=No|Translit=.geos
-13	이라	_	AUX	VC	Mood=Ind|VerbForm=Fin	12	cop	_	SpaceAfter=No|Translit=.i.ra
+13	이라	이	AUX	VC	Mood=Ind|VerbForm=Fin	12	cop	_	SpaceAfter=No|Translit=.i.ra|LTranslit=.i
 14	고	고	PART	QP	_	12	case	_	Translit=.go|LTranslit=.go
 15	시사했지만	_	NOUN	NN	_	23	advcl	_	SpaceAfter=No|Translit=.si.sa.haess.ji.man
 16	그	_	DET	DT	_	17	det	_	Translit=.geu
@@ -91,7 +91,7 @@ The following 12 pairs of parts of speech are connected with `csubj`: <tt><a hre
 2	는	는	PART	AP	_	1	case	_	Translit=.neun|LTranslit=.neun
 3	어느	_	DET	DT	_	4	det	_	Translit=.eo.neu
 4	쪽	_	NOUN	NNB	_	6	csubj	_	SpaceAfter=No|Translit=.jjog
-5	인지	_	AUX	VC	VerbForm=Fin	4	cop	_	Translit=.in.ji
+5	인지	이	AUX	VC	VerbForm=Fin	4	cop	_	Translit=.in.ji|LTranslit=.i
 6	불분명하다	_	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=.bul.bun.myeong.ha.da
 7	.	.	PUNCT	.	_	6	punct	_	Translit=.|LTranslit=.
 

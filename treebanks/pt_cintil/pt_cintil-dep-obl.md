@@ -30,7 +30,7 @@ The following 107 pairs of parts of speech are connected with `obl`: <tt><a href
 6	e	e	CCONJ	CJ	_	7	cc	_	_
 7	cenários	cenário	NOUN	CN	Gender=Masc|Number=Plur	2	conj	_	_
 8	de_	de_	ADP	PREP	_	10	case	_	_
-9	o	o	DET	DA	Gender=Masc|Number=Sing	10	det	_	_
+9	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	pintor	pintor	NOUN	CN	Gender=Masc|Number=Sing	7	obl	_	_
 11	Manuel	manuel	PROPN	PNM	_	10	obl	_	_
 12	Amado	amado	PROPN	PNM	_	11	flat	_	_
@@ -46,15 +46,15 @@ The following 107 pairs of parts of speech are connected with `obl`: <tt><a href
 # visual-style 5	fgColor:white
 # visual-style 5 8 obl	color:blue
 1	'	'	PUNCT	PNT	_	5	punct	_	_
-2	As	as	DET	DA	Gender=Fem|Number=Plur	3	det	_	_
+2	As	as	DET	DA	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
 3	pessoas	pessoa	NOUN	CN	Gender=Fem|Number=Plur	5	nsubj	_	_
 4	normalmente	normalmente	ADV	ADV	_	5	advmod	_	_
-5	compram	comprar	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	_
+5	compram	comprar	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	em_	em_	ADP	PREP	_	8	case	_	_
-7	os	os	DET	DA	Gender=Masc|Number=Plur	8	det	_	_
+7	os	os	DET	DA	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
 8	mercados	mercado	NOUN	CN	Gender=Masc|Number=Plur	5	obl	_	_
-9	que	que	PRON	REL	_	10	obj	_	_
-10	conhecem	conhecer	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	8	amod	_	_
+9	que	que	PRON	REL	PronType=Rel	10	obj	_	_
+10	conhecem	conhecer	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	amod	_	_
 11	.	.	PUNCT	PNT	_	5	punct	_	_
 
 ~~~
@@ -74,7 +74,7 @@ The following 107 pairs of parts of speech are connected with `obl`: <tt><a href
 6	e	e	CCONJ	CJ	_	7	cc	_	_
 7	cenários	cenário	NOUN	CN	Gender=Masc|Number=Plur	2	conj	_	_
 8	de_	de_	ADP	PREP	_	10	case	_	_
-9	o	o	DET	DA	Gender=Masc|Number=Sing	10	det	_	_
+9	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	pintor	pintor	NOUN	CN	Gender=Masc|Number=Sing	7	obl	_	_
 11	Manuel	manuel	PROPN	PNM	_	10	obl	_	_
 12	Amado	amado	PROPN	PNM	_	11	flat	_	_

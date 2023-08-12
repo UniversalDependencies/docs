@@ -31,7 +31,7 @@ The 10 most frequent ambiguous types:  <em>ša</em> (<tt><a href="akk_riao-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 3.363636 (the average of all parts of speech is 1.795993).
+The form / lemma ratio of `PRON` is 3.363636 (the average of all parts of speech is 1.795510).
 
 The 1st highest number of forms (26) was observed with the lemma “_”: <em>a, anni, ka, ki, ni, nim, nni, sa, si, sina, su, sunu, sunūti, wa, ya, ā, ē, ī, š, ša, ši, šina, šu, šunu, šunū, šunūti</em>.
 
@@ -50,19 +50,19 @@ Examples: <em>ya, ī, ni, anāku, anni, wa, a, nim, ā, ayyâši</em>
 
 ## Relations
 
-`PRON` nodes are attached to their parents using 13 different relations: <tt><a href="akk_riao-dep-det-poss.html">det:poss</a></tt> (1981; 75% instances), <tt><a href="akk_riao-dep-obj.html">obj</a></tt> (234; 9% instances), <tt><a href="akk_riao-dep-nsubj.html">nsubj</a></tt> (178; 7% instances), <tt><a href="akk_riao-dep-obl.html">obl</a></tt> (162; 6% instances), <tt><a href="akk_riao-dep-det.html">det</a></tt> (54; 2% instances), <tt><a href="akk_riao-dep-dep.html">dep</a></tt> (7; 0% instances), <tt><a href="akk_riao-dep-appos.html">appos</a></tt> (6; 0% instances), <tt><a href="akk_riao-dep-cop.html">cop</a></tt> (4; 0% instances), <tt><a href="akk_riao-dep-root.html">root</a></tt> (4; 0% instances), <tt><a href="akk_riao-dep-iobj.html">iobj</a></tt> (3; 0% instances), <tt><a href="akk_riao-dep-nmod-poss.html">nmod:poss</a></tt> (2; 0% instances), <tt><a href="akk_riao-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="akk_riao-dep-conj.html">conj</a></tt> (1; 0% instances)
+`PRON` nodes are attached to their parents using 13 different relations: <tt><a href="akk_riao-dep-det-poss.html">det:poss</a></tt> (1981; 75% instances), <tt><a href="akk_riao-dep-obj.html">obj</a></tt> (234; 9% instances), <tt><a href="akk_riao-dep-nsubj.html">nsubj</a></tt> (176; 7% instances), <tt><a href="akk_riao-dep-obl.html">obl</a></tt> (162; 6% instances), <tt><a href="akk_riao-dep-det.html">det</a></tt> (54; 2% instances), <tt><a href="akk_riao-dep-dep.html">dep</a></tt> (7; 0% instances), <tt><a href="akk_riao-dep-appos.html">appos</a></tt> (6; 0% instances), <tt><a href="akk_riao-dep-cop.html">cop</a></tt> (4; 0% instances), <tt><a href="akk_riao-dep-nmod-poss.html">nmod:poss</a></tt> (4; 0% instances), <tt><a href="akk_riao-dep-root.html">root</a></tt> (4; 0% instances), <tt><a href="akk_riao-dep-iobj.html">iobj</a></tt> (3; 0% instances), <tt><a href="akk_riao-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="akk_riao-dep-conj.html">conj</a></tt> (1; 0% instances)
 
 Parents of `PRON` nodes belong to 7 different parts of speech: <tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt> (2014; 76% instances), <tt><a href="akk_riao-pos-VERB.html">VERB</a></tt> (562; 21% instances), <tt><a href="akk_riao-pos-DET.html">DET</a></tt> (35; 1% instances), <tt><a href="akk_riao-pos-PROPN.html">PROPN</a></tt> (17; 1% instances),  (4; 0% instances), <tt><a href="akk_riao-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="akk_riao-pos-PART.html">PART</a></tt> (2; 0% instances)
 
-2517 (95%) `PRON` nodes are leaves.
+2513 (95%) `PRON` nodes are leaves.
 
-119 (5%) `PRON` nodes have one child.
+123 (5%) `PRON` nodes have one child.
 
 1 (0%) `PRON` nodes have two children.
 
 The highest child degree of a `PRON` node is 2.
 
-Children of `PRON` nodes are attached using 8 different relations: <tt><a href="akk_riao-dep-dep.html">dep</a></tt> (89; 74% instances), <tt><a href="akk_riao-dep-nmod-poss.html">nmod:poss</a></tt> (18; 15% instances), <tt><a href="akk_riao-dep-case.html">case</a></tt> (6; 5% instances), <tt><a href="akk_riao-dep-amod.html">amod</a></tt> (3; 2% instances), <tt><a href="akk_riao-dep-acl-relcl.html">acl:relcl</a></tt> (2; 2% instances), <tt><a href="akk_riao-dep-appos.html">appos</a></tt> (1; 1% instances), <tt><a href="akk_riao-dep-cc.html">cc</a></tt> (1; 1% instances), <tt><a href="akk_riao-dep-conj.html">conj</a></tt> (1; 1% instances)
+Children of `PRON` nodes are attached using 9 different relations: <tt><a href="akk_riao-dep-dep.html">dep</a></tt> (89; 71% instances), <tt><a href="akk_riao-dep-nmod-poss.html">nmod:poss</a></tt> (20; 16% instances), <tt><a href="akk_riao-dep-case.html">case</a></tt> (6; 5% instances), <tt><a href="akk_riao-dep-amod.html">amod</a></tt> (3; 2% instances), <tt><a href="akk_riao-dep-acl-relcl.html">acl:relcl</a></tt> (2; 2% instances), <tt><a href="akk_riao-dep-conj.html">conj</a></tt> (2; 2% instances), <tt><a href="akk_riao-dep-appos.html">appos</a></tt> (1; 1% instances), <tt><a href="akk_riao-dep-cc.html">cc</a></tt> (1; 1% instances), <tt><a href="akk_riao-dep-nsubj.html">nsubj</a></tt> (1; 1% instances)
 
-Children of `PRON` nodes belong to 6 different parts of speech: <tt><a href="akk_riao-pos-ADP.html">ADP</a></tt> (94; 78% instances), <tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt> (18; 15% instances), <tt><a href="akk_riao-pos-ADJ.html">ADJ</a></tt> (3; 2% instances), <tt><a href="akk_riao-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="akk_riao-pos-PART.html">PART</a></tt> (2; 2% instances), <tt><a href="akk_riao-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
+Children of `PRON` nodes belong to 6 different parts of speech: <tt><a href="akk_riao-pos-ADP.html">ADP</a></tt> (94; 75% instances), <tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt> (21; 17% instances), <tt><a href="akk_riao-pos-VERB.html">VERB</a></tt> (4; 3% instances), <tt><a href="akk_riao-pos-ADJ.html">ADJ</a></tt> (3; 2% instances), <tt><a href="akk_riao-pos-PART.html">PART</a></tt> (2; 2% instances), <tt><a href="akk_riao-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
 

@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Neg`, `Pos`.
 
-2694 tokens (9%) have a non-empty value of `Polarity`.
-46 types (1%) occur at least once with a non-empty value of `Polarity`.
-4 lemmas (0%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 3 part-of-speech tags: <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (1658; 6% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (744; 3% instances), <tt><a href="sl_sst-pos-PART.html">PART</a></tt> (292; 1% instances).
+3191 tokens (11%) have a non-empty value of `Polarity`.
+48 types (1%) occur at least once with a non-empty value of `Polarity`.
+6 lemmas (0%) occur at least once with a non-empty value of `Polarity`.
+The feature is used with 3 part-of-speech tags: <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (1658; 6% instances), <tt><a href="sl_sst-pos-PART.html">PART</a></tt> (789; 3% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (744; 3% instances).
 
 ### `AUX`
 
@@ -46,6 +46,15 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
   <tr><td><tt><tt><a href="sl_sst-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="sl_sst-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="sl_sst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>so</em></td><td><em>niso</em></td></tr>
 </table>
 
+### `PART`
+
+789 <tt><a href="sl_sst-pos-PART.html">PART</a></tt> tokens (29% of all `PART` tokens) have a non-empty value of `Polarity`.
+
+`PART` tokens may have the following values of `Polarity`:
+
+* `Neg` (789; 100% of non-empty `Polarity`): <em>ne, bržkone, kajne</em>
+* `EMPTY` (1889): <em>ja, tudi, še, že, no, samo, pač, seveda, naj, sploh</em>
+
 ### `VERB`
 
 744 <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> tokens (19% of all `VERB` tokens) have a non-empty value of `Polarity`.
@@ -77,19 +86,11 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
   <tr><td><tt><tt><a href="sl_sst-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="sl_sst-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="sl_sst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>so</em></td><td><em>niso</em></td></tr>
 </table>
 
-### `PART`
-
-292 <tt><a href="sl_sst-pos-PART.html">PART</a></tt> tokens (11% of all `PART` tokens) have a non-empty value of `Polarity`.
-
-`PART` tokens may have the following values of `Polarity`:
-
-* `Neg` (292; 100% of non-empty `Polarity`): <em>ne</em>
-* `EMPTY` (2386): <em>ja, ne, tudi, še, že, no, samo, pač, seveda, naj</em>
-
 ## Relations with Agreement in `Polarity`
 
 The 10 most frequent relations where parent and child node agree in `Polarity`:
 <tt>VERB --[<tt><a href="sl_sst-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (13; 62%),
 <tt>AUX --[<tt><a href="sl_sst-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (2; 100%),
-<tt>AUX --[<tt><a href="sl_sst-dep-reparandum.html">reparandum</a></tt>]--> AUX</tt> (1; 100%).
+<tt>AUX --[<tt><a href="sl_sst-dep-reparandum.html">reparandum</a></tt>]--> AUX</tt> (1; 100%),
+<tt>PART --[<tt><a href="sl_sst-dep-reparandum.html">reparandum</a></tt>]--> PART</tt> (1; 100%).
 

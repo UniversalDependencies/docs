@@ -62,7 +62,7 @@ The following 8 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 2 10 acl	color:blue
 1	PI	_	ADV	AB	_	4	advmod	_	_
 2	GRODA	_	NOUN	NN	_	4	nsubj	_	_
-3	PERF	_	VERB	VB	_	4	aux	_	_
+3	PERF	_	AUX	VB	_	4	aux	_	_
 4	VARELSE(Vb)+FÖRFLYTTA@p	_	VERB	VBAV	_	0	root	_	_
 5	AVGRÄNS	_	X	BOJ	_	4	obl	_	_
 6	HAND(JJv)+HANTERA@p	_	VERB	VBAV	_	4	conj	_	_

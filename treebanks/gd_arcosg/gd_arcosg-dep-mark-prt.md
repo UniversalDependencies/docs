@@ -64,7 +64,7 @@ The following 11 pairs of parts of speech are connected with `mark:prt`: <tt><a 
 # visual-style 9	fgColor:white
 # visual-style 9 8 mark:prt	color:blue
 1	thuirt	abair	VERB	V-s	Tense=Past	0	root	_	_
-2	[Name]	[Name]	PROPN	Nn-mn	Case=Nom|Gender=Masc	1	nsubj	_	_
+2	[Name]	[Name]	PROPN	Nn-mn	Case=Nom|Gender=Masc	1	nsubj	_	Anonymised=Yes
 3	gun	gun	PART	Qa	PartType=Cmpl	4	mark:prt	_	_
 4	robh	bi	VERB	V-s--d	Tense=Past	1	ccomp	_	_
 5	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3	4	nsubj	_	_

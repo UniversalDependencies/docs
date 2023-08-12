@@ -23,5 +23,5 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 `VERB` tokens may have the following values of `Mood`:
 
 * `Ind` (1; 100% of non-empty `Mood`): <em>kitʃetara</em>
-* `EMPTY` (277): <em>koa, ata, teita, tʃopa, at, ka, put, õkwa, aj, ikoa</em>
+* `EMPTY` (287): <em>ata, koa, tʃopa, teita, at, ka, put, tʃe, õkwa, aj</em>
 

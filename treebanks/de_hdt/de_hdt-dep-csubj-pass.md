@@ -22,7 +22,7 @@ The following 6 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 3 csubj:pass	color:blue
-1	Wer	Wer	PRON	PWS	Case=Nom|Number=Sing|Person=3|PronType=Int	3	nsubj	_	_
+1	Wer	wer	PRON	PWS	Case=Nom|Number=Sing|PronType=Int,Rel	3	nsubj	_	_
 2	genauer	genau	ADJ	ADJD	Degree=Cmp|Variant=Short	3	advmod	_	_
 3	hinschaut	hinschauen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	csubj:pass	_	_
 4	,	,	PUNCT	$,	PunctType=Comm	3	punct	_	_
@@ -41,7 +41,7 @@ The following 6 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 9	fgColor:white
 # visual-style 9 3 csubj:pass	color:blue
 1	Daß	Daß	SCONJ	KOUS	_	3	mark	_	_
-2	OS/2	OS/2	PROPN	NE	Case=Nom|Number=Sing|Person=3	3	nsubj	_	_
+2	OS/2	OS/2	PROPN	NE	Case=Nom|Number=Sing	3	nsubj	_	_
 3	tot	tot	ADJ	ADJD	Degree=Pos|Variant=Short	9	csubj:pass	_	_
 4	sei	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 5	,	,	PUNCT	$,	PunctType=Comm	3	punct	_	_
@@ -60,13 +60,13 @@ The following 6 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 14	bgColor:blue
 # visual-style 14	fgColor:white
 # visual-style 14 8 csubj:pass	color:blue
-1	Welche	Welche	DET	PWAT	Case=Acc|Gender=Fem|Number=Sing|PronType=Int	2	det	_	_
-2	Ausrichtung	Ausrichtung	NOUN	NN	Gender=Fem|Number=Sing|Person=3	8	obj	_	_
-3	das	das	DET	ART	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	4	det	_	_
-4	Magazin	Magazin	NOUN	NN	Gender=Neut|Number=Sing|Person=3	8	nsubj	_	_
+1	Welche	welcher	DET	PWAT	Case=Acc|Gender=Fem|Number=Sing|PronType=Int,Rel	2	det	_	_
+2	Ausrichtung	Ausrichtung	NOUN	NN	Gender=Fem|Number=Sing	8	obj	_	_
+3	das	der	DET	ART	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	_	_
+4	Magazin	Magazin	NOUN	NN	Gender=Neut|Number=Sing	8	nsubj	_	_
 5	nach	nach	ADP	APPR	AdpType=Prep|Case=Dat	7	case	_	_
-6	diesem	dies	DET	PDAT	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_
-7	Relaunch	unknown	NOUN	NN	Person=3	8	nmod	_	_
+6	diesem	dieser	DET	PDAT	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_
+7	Relaunch	unknown	NOUN	NN	_	8	nmod	_	_
 8	haben	haben	AUX	VAINF	VerbForm=Inf	14	csubj:pass	_	_
 9	wird	werden	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
 10	,	,	PUNCT	$,	PunctType=Comm	8	punct	_	_

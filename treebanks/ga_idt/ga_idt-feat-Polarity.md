@@ -23,7 +23,7 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (659; 100% of non-empty `Polarity`): <em>níl, raibh, bhfuil, bheidh, mbeadh, mbeidh, bheadh, dhéanfaidh, fhaca, bhfaca</em>
-* `EMPTY` (8108): <em>tá, bhí, atá, bhfuil, raibh, beidh, mbeadh, tháinig, thug, mbeidh</em>
+* `EMPTY` (8109): <em>tá, bhí, atá, bhfuil, raibh, beidh, mbeadh, tháinig, thug, mbeidh</em>
 
 `Polarity` seems to be **lexical feature** of `VERB`. 100% lemmas (103) occur only with one value of `Polarity`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `PART` and `Polarity` co-occur
 `PART` tokens may have the following values of `Polarity`:
 
 * `Neg` (553; 100% of non-empty `Polarity`): <em>nach, ní, níor, nár, ná, chan, n', cha</em>
-* `EMPTY` (6422): <em>a, go, d', níos, is, ó, gur, ina, an, do</em>
+* `EMPTY` (6425): <em>a, go, d', níos, is, ó, gur, ina, an, do</em>
 
 ### `AUX`
 
@@ -53,8 +53,8 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 
 The 10 most frequent relations where parent and child node agree in `Polarity`:
 <tt>VERB --[<tt><a href="ga_idt-dep-advmod.html">advmod</a></tt>]--> PART</tt> (283; 99%),
-<tt>VERB --[<tt><a href="ga_idt-dep-mark-prt.html">mark:prt</a></tt>]--> PART</tt> (215; 100%),
-<tt>VERB --[<tt><a href="ga_idt-dep-nsubj.html">nsubj</a></tt>]--> PART</tt> (34; 100%),
+<tt>VERB --[<tt><a href="ga_idt-dep-mark-prt.html">mark:prt</a></tt>]--> PART</tt> (216; 100%),
+<tt>VERB --[<tt><a href="ga_idt-dep-nsubj.html">nsubj</a></tt>]--> PART</tt> (33; 100%),
 <tt>VERB --[<tt><a href="ga_idt-dep-obj.html">obj</a></tt>]--> PART</tt> (7; 78%),
 <tt>VERB --[<tt><a href="ga_idt-dep-obl.html">obl</a></tt>]--> PART</tt> (5; 83%),
 <tt>VERB --[<tt><a href="ga_idt-dep-cop.html">cop</a></tt>]--> AUX</tt> (2; 67%),

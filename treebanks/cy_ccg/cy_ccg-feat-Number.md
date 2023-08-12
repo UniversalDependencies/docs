@@ -195,14 +195,14 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="cy_ccg-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2158; 68%),
+<tt>NOUN --[<tt><a href="cy_ccg-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2159; 68%),
 <tt>VERB --[<tt><a href="cy_ccg-dep-xcomp.html">xcomp</a></tt>]--> NOUN</tt> (1326; 82%),
 <tt>NOUN --[<tt><a href="cy_ccg-dep-obl.html">obl</a></tt>]--> NOUN</tt> (1212; 82%),
-<tt>NOUN --[<tt><a href="cy_ccg-dep-obj.html">obj</a></tt>]--> NOUN</tt> (1066; 76%),
-<tt>NOUN --[<tt><a href="cy_ccg-dep-conj.html">conj</a></tt>]--> NOUN</tt> (768; 82%),
+<tt>NOUN --[<tt><a href="cy_ccg-dep-obj.html">obj</a></tt>]--> NOUN</tt> (1061; 76%),
+<tt>NOUN --[<tt><a href="cy_ccg-dep-conj.html">conj</a></tt>]--> NOUN</tt> (769; 82%),
 <tt>VERB --[<tt><a href="cy_ccg-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (662; 78%),
 <tt>NOUN --[<tt><a href="cy_ccg-dep-acl.html">acl</a></tt>]--> NOUN</tt> (573; 85%),
 <tt>NOUN --[<tt><a href="cy_ccg-dep-cop.html">cop</a></tt>]--> AUX</tt> (497; 93%),
-<tt>VERB --[<tt><a href="cy_ccg-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (480; 78%),
+<tt>VERB --[<tt><a href="cy_ccg-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (480; 77%),
 <tt>NOUN --[<tt><a href="cy_ccg-dep-xcomp.html">xcomp</a></tt>]--> NOUN</tt> (431; 98%).
 

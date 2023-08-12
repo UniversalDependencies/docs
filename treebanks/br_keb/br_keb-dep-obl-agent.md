@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="br_keb-dep-obl.html">obl</a></tt>.
 
-66 nodes (1%) are attached to their parents as `obl:agent`.
+65 nodes (1%) are attached to their parents as `obl:agent`.
 
-58 instances of `obl:agent` (88%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.34848484848485.
+58 instances of `obl:agent` (89%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.38461538461539.
 
-The following 5 pairs of parts of speech are connected with `obl:agent`: <tt><a href="br_keb-pos-VERB.html">VERB</a></tt>-<tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt> (46; 70% instances), <tt><a href="br_keb-pos-VERB.html">VERB</a></tt>-<tt><a href="br_keb-pos-PROPN.html">PROPN</a></tt> (12; 18% instances), <tt><a href="br_keb-pos-VERB.html">VERB</a></tt>-<tt><a href="br_keb-pos-PRON.html">PRON</a></tt> (6; 9% instances), <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="br_keb-pos-VERB.html">VERB</a></tt>-<tt><a href="br_keb-pos-NUM.html">NUM</a></tt> (1; 2% instances).
+The following 5 pairs of parts of speech are connected with `obl:agent`: <tt><a href="br_keb-pos-VERB.html">VERB</a></tt>-<tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt> (46; 71% instances), <tt><a href="br_keb-pos-VERB.html">VERB</a></tt>-<tt><a href="br_keb-pos-PROPN.html">PROPN</a></tt> (11; 17% instances), <tt><a href="br_keb-pos-VERB.html">VERB</a></tt>-<tt><a href="br_keb-pos-PRON.html">PRON</a></tt> (6; 9% instances), <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="br_keb-pos-VERB.html">VERB</a></tt>-<tt><a href="br_keb-pos-NUM.html">NUM</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

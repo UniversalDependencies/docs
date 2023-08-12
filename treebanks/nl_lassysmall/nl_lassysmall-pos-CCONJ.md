@@ -6,29 +6,32 @@ udver: '2'
 
 ## Treebank Statistics: UD_Dutch-LassySmall: POS Tags: `CCONJ`
 
-There are 20 `CCONJ` lemmas (0%), 23 `CCONJ` types (0%) and 2707 `CCONJ` tokens (3%).
+There are 19 `CCONJ` lemmas (0%), 22 `CCONJ` types (0%) and 2735 `CCONJ` tokens (3%).
 Out of 16 observed tags, the rank of `CCONJ` is: 14 in number of lemmas, 14 in number of types and 11 in number of tokens.
 
-The 10 most frequent `CCONJ` lemmas: <em>en, maar, of, zowel, ofwel, want, doch, noch, alsmede, en/of</em>
+The 10 most frequent `CCONJ` lemmas: <em>en, maar, of, zowel, ofwel, want, doch, noch, tot, alsmede</em>
 
-The 10 most frequent `CCONJ` types:  <em>en, maar, of, zowel, én, ofwel, want, doch, noch, alsmede</em>
+The 10 most frequent `CCONJ` types:  <em>en, maar, of, zowel, én, ofwel, want, doch, noch, tot</em>
 
-The 10 most frequent ambiguous lemmas: <em>en</em> (<tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt> 2337, <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> 69), <em>maar</em> (<tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt> 174, <tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> 21), <em>of</em> (<tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt> 114, <tt><a href="nl_lassysmall-pos-SCONJ.html">SCONJ</a></tt> 8, <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 5, <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> 4), <em>respectievelijk</em> (<tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> 3), <em>à</em> (<tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 1), <em>enzovoort</em> (<tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> 1), <em>ook</em> (<tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> 416, <tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt> 2), <em>achtereenvolgens</em> (<tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> 3, <tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt> 1), <em>ver</em> (<tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> 51, <tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>en</em> (<tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt> 2365, <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> 41), <em>maar</em> (<tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt> 174, <tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> 21), <em>of</em> (<tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt> 114, <tt><a href="nl_lassysmall-pos-SCONJ.html">SCONJ</a></tt> 8, <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 7, <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> 2), <em>tot</em> (<tt><a href="nl_lassysmall-pos-ADP.html">ADP</a></tt> 295, <tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt> 5), <em>respectievelijk</em> (<tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> 3), <em>à</em> (<tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 1), <em>enzovoort</em> (<tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> 1), <em>ook</em> (<tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> 416, <tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt> 2), <em>achtereenvolgens</em> (<tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> 3, <tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt> 1), <em>ver</em> (<tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> 51, <tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>en</em> (<tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt> 2315, <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> 69), <em>maar</em> (<tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt> 150, <tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> 21), <em>of</em> (<tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt> 112, <tt><a href="nl_lassysmall-pos-SCONJ.html">SCONJ</a></tt> 8, <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 5, <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> 4), <em>respectievelijk</em> (<tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> 2), <em>à</em> (<tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 1), <em>enzovoort</em> (<tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> 1), <em>ook</em> (<tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> 339, <tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt> 2), <em>achtereenvolgens</em> (<tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> 3, <tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt> 1), <em>verder</em> (<tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> 29, <tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>en</em> (<tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt> 2343, <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> 41), <em>maar</em> (<tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt> 150, <tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> 21), <em>of</em> (<tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt> 112, <tt><a href="nl_lassysmall-pos-SCONJ.html">SCONJ</a></tt> 8, <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 7, <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> 2), <em>tot</em> (<tt><a href="nl_lassysmall-pos-ADP.html">ADP</a></tt> 280, <tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt> 5), <em>respectievelijk</em> (<tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> 2), <em>à</em> (<tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 1), <em>enzovoort</em> (<tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> 1), <em>ook</em> (<tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> 339, <tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt> 2), <em>achtereenvolgens</em> (<tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> 3, <tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt> 1), <em>verder</em> (<tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> 29, <tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt> 1)
 
 
 * <em>en</em>
-  * <tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt> 2315: <em>Oppervlakte <b>en</b> bevolking</em>
-  * <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> 69: <em>Suske <b>en</b> Wiske</em>
+  * <tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt> 2343: <em>Oppervlakte <b>en</b> bevolking</em>
+  * <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> 41: <em>Vlaamse Liberalen <b>en</b> Democraten</em>
 * <em>maar</em>
   * <tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt> 150: <em>Zo doen ze zich een bepaalde tijd voor , <b>maar</b> dat is schone schijn .</em>
   * <tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> 21: <em>Damned , doe me dan <b>maar</b> weer een Humo » .</em>
 * <em>of</em>
   * <tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt> 112: <em>Sidonia , Barabas <b>of</b> Jerom kwamen in deze reeks niet voor .</em>
   * <tt><a href="nl_lassysmall-pos-SCONJ.html">SCONJ</a></tt> 8: <em>Deze was inmiddels uitgever geworden en vroeg Vandersteen <b>of</b> hij voor hem een gans stripalbum kon tekenen .</em>
-  * <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 5: <em>« Rose and Pear ; The Means <b>of</b> Existence »</em>
-  * <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> 4: <em>Latin American Club <b>of</b> Tintin</em>
+  * <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 7: <em>« Rose and Pear ; The Means <b>of</b> Existence »</em>
+  * <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> 2: <em>Latin American Club <b>of</b> Tintin</em>
+* <em>tot</em>
+  * <tt><a href="nl_lassysmall-pos-ADP.html">ADP</a></tt> 280: <em>20e eeuw <b>tot</b> aan herinrichting gemeenten</em>
+  * <tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt> 5: <em>De overgrote meerderheid van de Belgen is katholiek : naar gelang van de bronnen 60 <b>tot</b> 90 % .</em>
 * <em>respectievelijk</em>
   * <tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt> 4: <em>Op 3 en 4 augustus hebben <b>respectievelijk</b> Boris Dittrich en Lousewies van der Laan aangekondigd uit de Tweede Kamer te stappen .</em>
   * <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> 2: <em>Kopstukken Johan Sauwens en Nelly Maes gingen <b>respectievelijk</b> naar de CD&V en SPIRIT .</em>
@@ -50,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>en</em> (<tt><a href="nl_lassysmall-p
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.150000 (the average of all parts of speech is 1.161533).
+The form / lemma ratio of `CCONJ` is 1.157895 (the average of all parts of speech is 1.168496).
 
 The 1st highest number of forms (3) was observed with the lemma “en”: <em>en, èn, én</em>.
 
@@ -63,19 +66,17 @@ The 3rd highest number of forms (1) was observed with the lemma “achtereenvolg
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 5 different relations: <tt><a href="nl_lassysmall-dep-cc.html">cc</a></tt> (2550; 94% instances), <tt><a href="nl_lassysmall-dep-fixed.html">fixed</a></tt> (75; 3% instances), <tt><a href="nl_lassysmall-dep-mark.html">mark</a></tt> (45; 2% instances), <tt><a href="nl_lassysmall-dep-flat.html">flat</a></tt> (36; 1% instances), <tt><a href="nl_lassysmall-dep-amod.html">amod</a></tt> (1; 0% instances)
+`CCONJ` nodes are attached to their parents using 6 different relations: <tt><a href="nl_lassysmall-dep-cc.html">cc</a></tt> (2510; 92% instances), <tt><a href="nl_lassysmall-dep-flat.html">flat</a></tt> (78; 3% instances), <tt><a href="nl_lassysmall-dep-fixed.html">fixed</a></tt> (65; 2% instances), <tt><a href="nl_lassysmall-dep-mark.html">mark</a></tt> (45; 2% instances), <tt><a href="nl_lassysmall-dep-cc-preconj.html">cc:preconj</a></tt> (36; 1% instances), <tt><a href="nl_lassysmall-dep-amod.html">amod</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 11 different parts of speech: <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt> (1060; 39% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> (677; 25% instances), <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> (506; 19% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> (242; 9% instances), <tt><a href="nl_lassysmall-pos-NUM.html">NUM</a></tt> (66; 2% instances), <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> (52; 2% instances), <tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> (31; 1% instances), <tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (27; 1% instances), <tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (24; 1% instances), <tt><a href="nl_lassysmall-pos-ADP.html">ADP</a></tt> (21; 1% instances), <tt><a href="nl_lassysmall-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 11 different parts of speech: <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt> (1048; 38% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> (678; 25% instances), <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> (562; 21% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> (223; 8% instances), <tt><a href="nl_lassysmall-pos-NUM.html">NUM</a></tt> (71; 3% instances), <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> (51; 2% instances), <tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> (30; 1% instances), <tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (25; 1% instances), <tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (25; 1% instances), <tt><a href="nl_lassysmall-pos-ADP.html">ADP</a></tt> (21; 1% instances), <tt><a href="nl_lassysmall-pos-X.html">X</a></tt> (1; 0% instances)
 
-2693 (99%) `CCONJ` nodes are leaves.
+2722 (100%) `CCONJ` nodes are leaves.
 
 13 (0%) `CCONJ` nodes have one child.
 
-1 (0%) `CCONJ` nodes have two children.
+The highest child degree of a `CCONJ` node is 1.
 
-The highest child degree of a `CCONJ` node is 2.
+Children of `CCONJ` nodes are attached using 2 different relations: <tt><a href="nl_lassysmall-dep-punct.html">punct</a></tt> (10; 77% instances), <tt><a href="nl_lassysmall-dep-fixed.html">fixed</a></tt> (3; 23% instances)
 
-Children of `CCONJ` nodes are attached using 2 different relations: <tt><a href="nl_lassysmall-dep-punct.html">punct</a></tt> (10; 67% instances), <tt><a href="nl_lassysmall-dep-fixed.html">fixed</a></tt> (5; 33% instances)
-
-Children of `CCONJ` nodes belong to 4 different parts of speech: <tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> (10; 67% instances), <tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> (3; 20% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> (1; 7% instances), <tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (1; 7% instances)
+Children of `CCONJ` nodes belong to 4 different parts of speech: <tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> (10; 77% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> (1; 8% instances), <tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> (1; 8% instances), <tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (1; 8% instances)
 

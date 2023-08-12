@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-341 nodes (0%) are attached to their parents as `acl`.
+342 nodes (0%) are attached to their parents as `acl`.
 
-341 instances of `acl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.2258064516129.
+342 instances of `acl` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.22222222222222.
 
-The following 13 pairs of parts of speech are connected with `acl`: <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (258; 76% instances), <tt><a href="qpm_philotis-pos-DET.html">DET</a></tt>-<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (22; 6% instances), <tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt>-<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (16; 5% instances), <tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (15; 4% instances), <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (8; 2% instances), <tt><a href="qpm_philotis-pos-NUM.html">NUM</a></tt>-<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (8; 2% instances), <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (6; 2% instances), <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt>-<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-DET.html">DET</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-NUM.html">NUM</a></tt>-<tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `acl`: <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (259; 76% instances), <tt><a href="qpm_philotis-pos-DET.html">DET</a></tt>-<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (22; 6% instances), <tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt>-<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (16; 5% instances), <tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (15; 4% instances), <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (8; 2% instances), <tt><a href="qpm_philotis-pos-NUM.html">NUM</a></tt>-<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (8; 2% instances), <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (6; 2% instances), <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt>-<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-DET.html">DET</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-NUM.html">NUM</a></tt>-<tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -30,7 +30,7 @@ The following 13 pairs of parts of speech are connected with `acl`: <tt><a href=
 6	déno	déso	DET	_	Deixis=Remt|PronType=Rel	8	det	_	_
 7	sí	so	PRON	_	Case=Gen|PronType=Prs|Reflex=Yes	8	expl	_	_
 8	udríva	udrívom	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl	_	_
-9	samíček	samýj	DET	_	Case=Nom|Definite=Ind|DegreeModQpm=Dim|Gender=Masc|Number=Sing|PronType=Emp	8	det	_	SpaceAfter=No
+9	samíček	samýj	DET	_	Case=Nom|Definite=Ind|Degree=Dim|Gender=Masc|Number=Sing|PronType=Emp	8	det	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~

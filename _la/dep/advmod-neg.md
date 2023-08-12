@@ -26,4 +26,4 @@ advmod:emph(this,only)
 ~~~
 
 'This is evident not only because it is a subsistent operation but also because by one operation God knows Himself as perfectly as He is perfect, as well as all other things, those that are and those that are not, the good and the evil.' (*Summa contra Gentiles*, ITTB)
-<!-- Interlanguage links updated Po lis 14 15:35:07 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:58 CEST -->

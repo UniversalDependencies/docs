@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Josie Li, Cheuk Ying Li, Martin Popel, Daniel Zeman, Herman Leung.
 
 Repository: [UD_Chinese-PUD](https://github.com/UniversalDependencies/UD_Chinese-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udzh_pud211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udzh_pud212)<br />
+Download all treebanks: [UD 2.12](/#download)
 
 License: CC BY-SA 3.0
 
@@ -35,10 +35,10 @@ If you know the language and want to help, please consider adopting the treebank
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | not available |
+| Lemmas | assigned by a program, with some manual corrections, but not a full manual verification |
 | UPOS | annotated manually in non-UD style, automatically converted to UD |
 | XPOS | not available |
-| Features | annotated manually in non-UD style, automatically converted to UD |
+| Features | annotated manually in non-UD style, automatically converted to UD, with some manual corrections of the conversion |
 | Relations | annotated manually in non-UD style, automatically converted to UD |
 
 ## Description
@@ -87,7 +87,7 @@ employ ten-fold cross-validation.
 
 ## Features
 
-[Aspect](zh_pud-feat-Aspect.html) – [Case](zh_pud-feat-Case.html) – [Foreign](zh_pud-feat-Foreign.html) – [Number](zh_pud-feat-Number.html) – [NumType](zh_pud-feat-NumType.html) – [Person](zh_pud-feat-Person.html) – [Polarity](zh_pud-feat-Polarity.html) – [Voice](zh_pud-feat-Voice.html)
+[Aspect](zh_pud-feat-Aspect.html) – [Case](zh_pud-feat-Case.html) – [Foreign](zh_pud-feat-Foreign.html) – [Mood](zh_pud-feat-Mood.html) – [Number](zh_pud-feat-Number.html) – [NumType](zh_pud-feat-NumType.html) – [Person](zh_pud-feat-Person.html) – [Polarity](zh_pud-feat-Polarity.html) – [Voice](zh_pud-feat-Voice.html)
 
 ## Relations
 
@@ -125,27 +125,27 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
-<li>This corpus contains 29 word types tagged as particles (PART): 之, 了, 人, 區, 呢, 嗎, 地, 家, 得, 河, 法, 的, 瞭, 緣, 罪, 者, 肺, 舟, 著, 處, 號, 街, 賽, 過, 配, 鎊, 體, 點, 黨</li>
+<li>This corpus contains 26 word types tagged as particles (PART): 之, 了, 人, 區, 呢, 嗎, 地, 家, 得, 河, 法, 的, 緣, 罪, 者, 肺, 舟, 處, 號, 街, 賽, 配, 鎊, 體, 點, 黨</li>
 </ul>
 
 <ul>
-<li>This corpus contains 1 lemmas tagged as pronouns (PRON): _</li>
+<li>This corpus contains 33 lemmas tagged as pronouns (PRON): 之, 什麼, 他, 何, 你, 你們, 個人, 其, 哪, 哪兒, 大家, 她, 它, 對方, 怎麼, 您, 我, 此, 牠, 甚麽, 自己, 自身, 誰, 這, 這樣, 這裡, 這麼, 那, 那兒, 那樣, 那裡, 那里, 閣下</li>
 </ul>
 
 <ul>
-<li>This corpus contains 1 lemmas tagged as determiners (DET): _</li>
+<li>This corpus contains 44 lemmas tagged as determiners (DET): 上, 下, 任, 任何, 全, 全副, 全部, 其他, 其它, 其餘, 前, 另, 另外, 各, 各個, 各天, 各樣, 各種, 同, 後, 所有, 整個, 有的, 本, 某, 某些, 某種, 此, 此次, 每, 每位, 每個, 每天, 每幅, 每年, 每首, 該, 該項, 這, 這些, 那, 那些, 頭, 頭個</li>
 </ul>
 
 <ul>
-<li>Out of the above, 1 lemmas occurred sometimes as PRON and sometimes as DET: _</li>
+<li>Out of the above, 3 lemmas occurred sometimes as PRON and sometimes as DET: 此, 這, 那</li>
 </ul>
 
 <ul>
-<li>This corpus contains 1 lemmas tagged as auxiliaries (AUX): _</li>
+<li>This corpus contains 22 lemmas tagged as auxiliaries (AUX): 了, 可, 可以, 可能, 得, 必, 必須, 想, 應, 應該, 是, 會, 為, 能, 能夠, 著, 被, 要, 過, 需要, 願, 願意</li>
 </ul>
 
 <ul>
-<li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: _</li>
+<li>Out of the above, 9 lemmas occurred sometimes as AUX and sometimes as VERB: 可能, 得, 必須, 想, 是, 會, 為, 過, 需要</li>
 </ul>
 
 <ul>
@@ -196,6 +196,8 @@ employ ten-fold cross-validation.
   <li>Neg
     <ul>
       <li>ADV: 不, 未, 勿</li>
+      <li>AUX: 不會, 不能, 不得, 不是, 未能, 不要, 不可, 不想, 不願</li>
+      <li>VERB: 沒有, 不是, 不可思議, 不一而足, 不夠, 不慌不忙, 不朽, 不止, 不足為奇, 沒看</li>
     </ul>
   </li>
 </ul>
@@ -211,7 +213,7 @@ employ ten-fold cross-validation.
 <ul>
   <li>Perf
     <ul>
-      <li>PART: 了, 過, 瞭</li>
+      <li>AUX: 了, 過</li>
     </ul>
   </li>
 </ul>
@@ -219,11 +221,22 @@ employ ten-fold cross-validation.
 <ul>
   <li>Prog
     <ul>
-      <li>PART: 著</li>
+      <li>AUX: 著</li>
     </ul>
   </li>
 </ul>
 
+<ul>
+  <li><a>Mood</a></li>
+</ul>
+
+<ul>
+  <li>Int
+    <ul>
+      <li>AUX: 會不會, 要不要</li>
+    </ul>
+  </li>
+</ul>
 
 
 <ul>
@@ -234,8 +247,7 @@ employ ten-fold cross-validation.
   <li>Cau
     <ul>
       <li>ADP: 把, 將</li>
-      <li>AUX: 將, 把</li>
-      <li>VERB: 讓, 使, 令, 導致, 以, 以至, 使得, 任命, 帶領, 敦促</li>
+      <li>VERB: 讓, 使, 令, 導致, 以, 以至, 使得, 將, 把, 任命</li>
     </ul>
   </li>
 </ul>
@@ -327,12 +339,12 @@ employ ten-fold cross-validation.
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: _.</li>
+<li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: 是、 為.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: _.</li>
-<li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: _.</li>
+<li>This corpus uses 19 lemmas as auxiliaries (<a>aux</a>). Examples: 了、 會、 能、 著、 可以、 可能、 要、 可、 過、 能夠、 必須、 想、 應該、 需要、 得、 必、 願意、 應、 願.</li>
+<li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: 被.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -341,8 +353,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (822)</li>
-      <li>VERB--PRON (336)</li>
+      <li>VERB--NOUN (838)</li>
+      <li>VERB--PRON (344)</li>
     </ul>
   </li>
 </ul>
@@ -350,8 +362,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (1126)</li>
-      <li>VERB--PRON (48)</li>
+      <li>VERB--NOUN (1129)</li>
+      <li>VERB--PRON (49)</li>
     </ul>
   </li>
 </ul>

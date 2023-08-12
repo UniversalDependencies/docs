@@ -24,7 +24,7 @@ The following 11 pairs of parts of speech are connected with `parataxis:parenth`
 # visual-style 4 9 parataxis:parenth	color:blue
 1	mais	mais	CCONJ	_	_	4	cc	_	AlignBegin=88171|AlignEnd=88323
 2	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl:subj	_	AlignBegin=88323|AlignEnd=88474
-3	y	y	PRON	_	_	4	expl	_	AlignBegin=88474|AlignEnd=88625
+3	y	y	PRON	_	_	4	expl:comp	_	AlignBegin=88474|AlignEnd=88625
 4	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	reparandum	_	AlignBegin=88625|AlignEnd=88776|SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	_	AlignBegin=88776|AlignEnd=88776
 6	euh	euh	INTJ	_	_	4	discourse	_	AlignBegin=88776|AlignEnd=88927|SpaceAfter=No

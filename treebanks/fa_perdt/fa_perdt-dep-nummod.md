@@ -34,7 +34,7 @@ The following 12 pairs of parts of speech are connected with `nummod`: <tt><a hr
 10	را	را	ADP	POSTP	_	8	case	_	_
 11	در	در	ADP	PREP	_	12	case	_	_
 12	کویر	کویر	NOUN	N_IANM	Number=Sing	13	obl:arg	_	_
-13	پاشیده‌ایم	پاشید#پاش	VERB	V_ACT	Number=Plur|Person=1|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No
+13	پاشیده‌ایم	پاشید	VERB	V_ACT	Number=Plur|Person=1|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=پاشید#پاش|SpaceAfter=No
 14	.	.	PUNCT	PUNC	_	13	punct	_	_
 
 ~~~
@@ -52,7 +52,7 @@ The following 12 pairs of parts of speech are connected with `nummod`: <tt><a hr
 4	شهرداری	شهرداری	PROPN	N_IANM	Number=Sing	1	nmod	_	_
 5	تهران	تهران	PROPN	N_IANM	Number=Sing	4	flat:name	_	_
 6	تنظیم	تنظیم	NOUN	N_IANM	Number=Sing	7	compound:lvc	_	_
-7	شد	شد#شو	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	SpaceAfter=No
+7	شد	شد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	OrigLemma=شد#شو|SpaceAfter=No
 8	.	.	PUNCT	PUNC	_	7	punct	_	_
 
 ~~~
@@ -72,8 +72,8 @@ The following 12 pairs of parts of speech are connected with `nummod`: <tt><a hr
 6	19	19	NUM	PRENUM	_	7	nummod	_	_
 7	دی‌ماه	دی‌ماه	PROPN	N_IANM	Number=Sing	9	obl	_	_
 8	لو	لو	NOUN	N_IANM	Number=Sing	9	compound:lvc	_	_
-9	رفته	رفت#رو	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
-10	بود	بود#باش	AUX	AUX	Number=Sing|Person=3|Tense=Past	9	aux	_	SpaceAfter=No
+9	رفته	رفت	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	OrigLemma=رفت#رو
+10	بود	بود	AUX	AUX	Number=Sing|Person=3|Tense=Past	9	aux	_	OrigLemma=بود#باش|SpaceAfter=No
 11	.	.	PUNCT	PUNC	_	9	punct	_	_
 
 ~~~

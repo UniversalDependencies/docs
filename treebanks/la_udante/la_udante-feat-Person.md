@@ -108,13 +108,13 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> VERB</tt> (705; 77%),
-<tt>VERB --[<tt><a href="la_udante-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (433; 51%),
+<tt>VERB --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> VERB</tt> (704; 77%),
+<tt>VERB --[<tt><a href="la_udante-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (431; 51%),
 <tt>VERB --[<tt><a href="la_udante-dep-advcl-cmp.html">advcl:cmp</a></tt>]--> VERB</tt> (137; 52%),
-<tt>VERB --[<tt><a href="la_udante-dep-csubj-relcl.html">csubj:relcl</a></tt>]--> VERB</tt> (38; 66%),
-<tt>VERB --[<tt><a href="la_udante-dep-conj-expl.html">conj:expl</a></tt>]--> VERB</tt> (22; 76%),
-<tt>VERB --[<tt><a href="la_udante-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (16; 64%),
-<tt>VERB --[<tt><a href="la_udante-dep-cop-outer.html">cop:outer</a></tt>]--> AUX</tt> (9; 75%),
+<tt>VERB --[<tt><a href="la_udante-dep-csubj-relcl.html">csubj:relcl</a></tt>]--> VERB</tt> (38; 64%),
+<tt>VERB --[<tt><a href="la_udante-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (23; 62%),
+<tt>VERB --[<tt><a href="la_udante-dep-conj-expl.html">conj:expl</a></tt>]--> VERB</tt> (23; 74%),
+<tt>VERB --[<tt><a href="la_udante-dep-cop-outer.html">cop:outer</a></tt>]--> AUX</tt> (9; 69%),
 <tt>VERB --[<tt><a href="la_udante-dep-discourse.html">discourse</a></tt>]--> VERB</tt> (3; 100%),
 <tt>AUX --[<tt><a href="la_udante-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (2; 67%),
 <tt>AUX --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 100%).

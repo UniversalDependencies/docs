@@ -39,4 +39,4 @@ This is realized by a noun phrase or a second class pronoun.
 * _Kwá wasaí yayutima waá aité kwá yamaã waá <b>uka-itá ruakí</b>[...].&nbsp;_ "O açaí que plantamos é o que vemos perto das casas [...]." (Payema, 29, adap., apud Avila 2021)
 
 
-<!-- Interlanguage links updated Po lis 14 15:34:51 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:42 CEST -->

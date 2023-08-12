@@ -66,14 +66,14 @@ The following 11 pairs of parts of speech are connected with `advmod:tmod`: <tt>
 2	întrat	intra	VERB	Vmp	VerbForm=Part	0	root	_	_
 3	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	_
 4	mic	mic	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
-5	copil	copil	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	2	nmod:tmod	_	|SpaceAfter=No
+5	copil	copil	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	2	nmod:tmod	_	SpaceAfter=No
 6	,	,	PUNCT	COMMA	_	12	punct	_	_
 7	Dar	dar	CCONJ	Ccssp	Polarity=Pos	12	cc	_	_
-8	amu	acum	ADV	Rg	_	12	advmod:tmod	_	|SpaceAfter=No
+8	amu	acum	ADV	Rg	_	12	advmod:tmod	_	SpaceAfter=No
 9	-s	fi	AUX	Vaip1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres	12	cop	_	_
 10	mai	mai	ADV	Rg	_	11	advmod	_	_
 11	mult	mult	ADV	Ri	PronType=Ind	12	advmod	_	_
-12	bătrân	bătrân	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	2	conj	_	|SpaceAfter=No
+12	bătrân	bătrân	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	2	conj	_	SpaceAfter=No
 13	.	.	PUNCT	PERIOD	_	2	punct	_	_
 
 ~~~

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-30 nodes (15%) are attached to their parents as `root`.
+218 nodes (9%) are attached to their parents as `root`.
 
-30 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.63333333333333.
+218 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 8.44954128440367.
 
-The following 4 pairs of parts of speech are connected with `root`: -<tt><a href="ml_ufal-pos-VERB.html">VERB</a></tt> (21; 70% instances), -<tt><a href="ml_ufal-pos-NOUN.html">NOUN</a></tt> (7; 23% instances), -<tt><a href="ml_ufal-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), -<tt><a href="ml_ufal-pos-PROPN.html">PROPN</a></tt> (1; 3% instances).
+The following 6 pairs of parts of speech are connected with `root`: -<tt><a href="ml_ufal-pos-VERB.html">VERB</a></tt> (126; 58% instances), -<tt><a href="ml_ufal-pos-NOUN.html">NOUN</a></tt> (63; 29% instances), -<tt><a href="ml_ufal-pos-PROPN.html">PROPN</a></tt> (16; 7% instances), -<tt><a href="ml_ufal-pos-ADJ.html">ADJ</a></tt> (10; 5% instances), -<tt><a href="ml_ufal-pos-NUM.html">NUM</a></tt> (2; 1% instances), -<tt><a href="ml_ufal-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,8 +22,8 @@ The following 4 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 5 root	color:blue
-1	പെൺകുട്ടി	പെൺകുട്ടി	NOUN	_	Animacy=Anim|Case=Nom|Number=Sing	5	nsubj	_	Translit=peṇkuṭṭi|LTranslit=peṇkuṭṭi
-2	തന്റെ	താൻ	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	3	nmod:poss	_	Translit=tanṟe|LTranslit=tān
+1	പെൺകുട്ടി	പെൺകുട്ടി	NOUN	_	Animacy=Anim|Case=Nom|Number=Sing	5	nsubj	_	Translit=peṇ̕kuṭṭi|LTranslit=peṇ̕kuṭṭi
+2	തന്റെ	താൻ	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	3	nmod:poss	_	Translit=tanṟe|LTranslit=tān̕
 3	സുഹൃത്തിന്	സുഹൃത്ത്	NOUN	_	Animacy=Anim|Case=Dat|Number=Sing	5	obl	_	Translit=suhr̥ttin|LTranslit=suhr̥tt
 4	കത്ത്	കത്ത്	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	5	obj	_	Translit=katt|LTranslit=katt
 5	എഴുതി	എഴുതുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=eḻuti|LTranslit=eḻutuka
@@ -39,7 +39,7 @@ The following 4 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	fgColor:white
 # visual-style 0 4 root	color:blue
 1	ഇഗ്വാസു	ഇഗ്വാസു	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	4	nsubj	_	Translit=igvāsu|LTranslit=igvāsu
-2	ഒരു	ഒരു	DET	_	_	4	det	_	Translit=oru|LTranslit=oru
+2	ഒരു	ഒരു	DET	_	Definite=Ind|PronType=Art	4	det	_	Translit=oru|LTranslit=oru
 3	വലിയ	വലിയ	ADJ	_	_	4	amod	_	Translit=valiya|LTranslit=valiya
 4	രാജ്യം	രാജ്യം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	0	root	_	Translit=rājyaṁ|LTranslit=rājyaṁ
 5	ആണോ	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	cop	_	Translit=āṇō|LTranslit=āk
@@ -52,19 +52,22 @@ The following 4 pairs of parts of speech are connected with `root`: -<tt><a href
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
-# visual-style 0 6 root	color:blue
-1	നിന്റെ	നീ	PRON	_	Animacy=Anim|Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	Translit=ninṟe|LTranslit=nī
-2	അച്ഛനേക്കാൾ	അച്ഛൻ	NOUN	_	Animacy=Anim|Case=Cmp|Number=Sing	6	obl	_	Translit=acchanēkkāḷ|LTranslit=acchan
-3	എന്റെ	ഞാൻ	PRON	_	Animacy=Anim|Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	_	Translit=enṟe|LTranslit=ñān
-4	അച്ഛൻ	അച്ഛൻ	NOUN	_	Animacy=Anim|Case=Nom|Number=Sing	6	nsubj	_	Translit=acchan|LTranslit=acchan
-5	വളരെ	വളരെ	ADV	_	_	6	advmod	_	Translit=vaḷare|LTranslit=vaḷare
-6	ശാന്തൻ	ശാന്തൻ	ADJ	_	_	0	root	_	Translit=śāntan|LTranslit=śāntan
-7	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	cop	_	Translit=āṇ|LTranslit=āk
-8	.	.	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
+# visual-style 0 1 root	color:blue
+1	മേരി	മേരി	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	0	root	_	Translit=mēri|LTranslit=mēri
+2	വെങ്കലം	വെങ്കലം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	1	orphan	_	Translit=veṅkalaṁ|LTranslit=veṅkalaṁ
+3	ഉം	ഉം	CCONJ	_	_	1	cc	_	Translit=uṁ|LTranslit=uṁ
+4	പീറ്റർ	പീറ്റർ	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	1	conj	_	Translit=pīṟṟaṟ̕|LTranslit=pīṟṟaṟ̕
+5	വെള്ളി	വെള്ളി	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	4	orphan	_	Translit=veḷḷi|LTranslit=veḷḷi
+6	ഉം	ഉം	CCONJ	_	_	4	cc	_	Translit=uṁ|LTranslit=uṁ
+7	ജെയിൻ	ജെയിൻ	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	10	nsubj	_	Translit=jeyin̕|LTranslit=jeyin̕
+8	സ്വർണം	സ്വർണം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	10	obj	_	Translit=svaṟ̕ṇaṁ|LTranslit=svaṟ̕ṇaṁ
+9	ഉം	ഉം	CCONJ	_	_	10	cc	_	Translit=uṁ|LTranslit=uṁ
+10	നേടി	നെടുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	SpaceAfter=No|Translit=nēṭi|LTranslit=neṭuka
+11	.	.	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

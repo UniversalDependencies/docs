@@ -29,4 +29,4 @@ column. (Which means that empty value has the `No` meaning.)
 * [myv]_<b>Аволь</b> эзь мора, пижнесь пиже-ожо вайгельсэ.&nbsp;_ “It isn't that he did<b>n't</b> sing, he screamed bloody murder.”
 * [myv]_Эзь мора, пижнесь пиже-ожо вайгельсэ.&nbsp;_ “He did<b>n't</b> sing, he screamed bloody murder.”
 
-<!-- Interlanguage links updated Po lis 14 15:34:49 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:40 CEST -->

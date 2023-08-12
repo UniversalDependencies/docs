@@ -44,7 +44,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (789; 100% of non-empty `NumType`): <em>primeiro, primeira, último, última, segundo, últimos, segunda, primeiros, terceiro, terceira</em>
-* `EMPTY` (10607): <em>maior, grande, novo, nova, mesmo, nacional, grandes, melhor, passado, mesma</em>
+* `EMPTY` (10609): <em>maior, grande, novo, nova, mesmo, nacional, grandes, melhor, passado, mesma</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (77) occur only with one value of `NumType`.
 
@@ -68,7 +68,7 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 `DET` tokens may have the following values of `NumType`:
 
 * `Card` (2; 100% of non-empty `NumType`): <em>uma, um</em>
-* `EMPTY` (34862): <em>o, a, os, as, um, uma, sua, seu, este, esta</em>
+* `EMPTY` (34863): <em>o, a, os, as, um, uma, sua, seu, este, esta</em>
 
 ## Relations with Agreement in `NumType`
 

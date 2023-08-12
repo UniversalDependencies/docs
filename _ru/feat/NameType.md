@@ -40,7 +40,7 @@ Given name (not family name). Can be either the first name or, in formal speech,
 
 * _<b>Александр</b>, <b>Дмитрий</b>_
 
-### <a name="Patrn">`Patrn`</a>: given name of person
+### <a name="Pat">`Pat`</a>: given name of person
 
 Patronymic name (the second component of a polite personal name based on the given name of one's father).
 
@@ -91,4 +91,4 @@ Names of cities, countries, rivers, mountains etc. In Russian treebanks, `Geo` i
 * _<b>Лужники</b>, <b>Евровидение</b>_
 
 Names of stadiums, guerilla bases, events etc.
-<!-- Interlanguage links updated Po lis 14 15:34:49 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:40 CEST -->

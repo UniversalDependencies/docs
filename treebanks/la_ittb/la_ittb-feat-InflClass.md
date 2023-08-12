@@ -14,20 +14,20 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 248499 tokens (55%) have a non-empty value of `InflClass`.
 17838 types (91%) occur at least once with a non-empty value of `InflClass`.
 4461 lemmas (78%) occur at least once with a non-empty value of `InflClass`.
-The feature is used with 8 part-of-speech tags: <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (87465; 19% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (56724; 13% instances), <tt><a href="la_ittb-pos-DET.html">DET</a></tt> (28013; 6% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (27793; 6% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (22194; 5% instances), <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (20460; 5% instances), <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> (5463; 1% instances), <tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (387; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (87435; 19% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (56731; 13% instances), <tt><a href="la_ittb-pos-DET.html">DET</a></tt> (28010; 6% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (27817; 6% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (22197; 5% instances), <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (20460; 5% instances), <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> (5462; 1% instances), <tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (387; 0% instances).
 
 ### `NOUN`
 
-87465 <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> tokens (97% of all `NOUN` tokens) have a non-empty value of `InflClass`.
+87435 <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> tokens (97% of all `NOUN` tokens) have a non-empty value of `InflClass`.
 
-The most frequent other feature values with which `NOUN` and `InflClass` co-occurred: <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (73249; 84%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (49119; 56%).
+The most frequent other feature values with which `NOUN` and `InflClass` co-occurred: <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (73225; 84%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (49104; 56%).
 
 `NOUN` tokens may have the following values of `InflClass`:
 
-* `IndEurA` (22128; 25% of non-empty `InflClass`): <em>forma, formam, formae, materia, anima, potentia, causa, natura, substantia, naturae</em>
+* `IndEurA` (22118; 25% of non-empty `InflClass`): <em>forma, formam, formae, materia, anima, potentia, causa, natura, substantia, naturae</em>
 * `IndEurE` (3854; 4% of non-empty `InflClass`): <em>res, rerum, rebus, rei, speciem, species, speciei, specie, rem, fidei</em>
-* `IndEurI` (6715; 8% of non-empty `InflClass`): <em>finem, finis, agens, accidens, ens, parte, agentis, ignis, fine, pars</em>
-* `IndEurO` (15142; 17% of non-empty `InflClass`): <em>bonum, modo, principium, modum, malum, filius, uerbum, dominus, peccatum, apostolus</em>
+* `IndEurI` (6710; 8% of non-empty `InflClass`): <em>finem, finis, agens, accidens, ens, parte, agentis, ignis, fine, pars</em>
+* `IndEurO` (15127; 17% of non-empty `InflClass`): <em>bonum, modo, principium, modum, malum, filius, uerbum, dominus, peccatum, apostolus</em>
 * `IndEurU` (8164; 9% of non-empty `InflClass`): <em>intellectus, actu, actus, effectus, motus, intellectum, intellectu, spiritus, actum, effectum</em>
 * `IndEurX` (31462; 36% of non-empty `InflClass`): <em>homo, corpus, hominis, corporis, ratio, ratione, uirtus, rationem, corpore, uirtute</em>
 
@@ -46,22 +46,22 @@ The most frequent other feature values with which `NOUN` and `InflClass` co-occu
   <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>opera</em></td><td></td></tr>
 </table>
 
-`InflClass` seems to be **lexical feature** of `NOUN`. 97% lemmas (2265) occur only with one value of `InflClass`.
+`InflClass` seems to be **lexical feature** of `NOUN`. 97% lemmas (2256) occur only with one value of `InflClass`.
 
 ### `VERB`
 
-56724 <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> tokens (95% of all `VERB` tokens) have a non-empty value of `InflClass`.
+56731 <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> tokens (95% of all `VERB` tokens) have a non-empty value of `InflClass`.
 
-The most frequent other feature values with which `VERB` and `InflClass` co-occurred: <tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (43439; 77%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (41098; 72%), <tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (41095; 72%), <tt><a href="la_ittb-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=EMPTY</tt> (41095; 72%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (39740; 70%), <tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (35254; 62%), <tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=3</tt> (33471; 59%), <tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (31377; 55%), <tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (30249; 53%), <tt><a href="la_ittb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (28811; 51%).
+The most frequent other feature values with which `VERB` and `InflClass` co-occurred: <tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (43441; 77%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (41098; 72%), <tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (41095; 72%), <tt><a href="la_ittb-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=EMPTY</tt> (41095; 72%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (39744; 70%), <tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (35254; 62%), <tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=3</tt> (33471; 59%), <tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (31379; 55%), <tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (30249; 53%), <tt><a href="la_ittb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (28811; 51%).
 
 `VERB` tokens may have the following values of `InflClass`:
 
 * `LatA` (11108; 20% of non-empty `InflClass`): <em>separatae, probatum, separata, operatur, ordinatur, separatas, ordinantur, creata, repugnat, considerandum</em>
 * `LatAnom` (5201; 9% of non-empty `InflClass`): <em>potest, possunt, possit, uult, posset, uelle, poterit, inest, differt, possumus</em>
-* `LatE` (10867; 19% of non-empty `InflClass`): <em>oportet, habet, patet, uidetur, habent, apparet, habeat, habere, mouens, mouetur</em>
+* `LatE` (10869; 19% of non-empty `InflClass`): <em>oportet, habet, patet, uidetur, habent, apparet, habeat, habere, mouens, mouetur</em>
 * `LatI` (35; 0% of non-empty `InflClass`): <em>oritur, exorti, oriuntur, exoritur, exorta, obtinendum, sentiendum, fit, obortum, oriantur</em>
-* `LatI2` (2010; 4% of non-empty `InflClass`): <em>fit, facit, fieri, facere, fiat, facta, factum, fiunt, factus, fieret</em>
-* `LatX` (27503; 48% of non-empty `InflClass`): <em>dicitur, ostensum, dicit, dicendum, intelligere, sequitur, cognoscit, agit, dictum, dici</em>
+* `LatI2` (2012; 4% of non-empty `InflClass`): <em>fit, facit, fieri, facere, fiat, facta, factum, fiunt, factus, fieret</em>
+* `LatX` (27506; 48% of non-empty `InflClass`): <em>dicitur, ostensum, dicit, dicendum, intelligere, sequitur, cognoscit, agit, dictum, dici</em>
 
 <table>
   <tr><th>Paradigm <i>dico</i></th><th><tt>LatA</tt></th><th><tt>LatX</tt></th></tr>
@@ -106,8 +106,8 @@ The most frequent other feature values with which `VERB` and `InflClass` co-occu
   <tr><td><tt><tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_ittb-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td><em>dicerentur</em></td></tr>
   <tr><td><tt><tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_ittb-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>dicant</em></td></tr>
   <tr><td><tt><tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_ittb-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td><em>dicantur</em></td></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Vnoun</tt>|<tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>dicere</em></td></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Vnoun</tt>|<tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td><em>dici</em></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt>|<tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>dicere</em></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt>|<tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td><em>dici</em></td></tr>
   <tr><td><tt><tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td><em>dicto</em></td></tr>
   <tr><td><tt><tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td><em>dicta</em></td></tr>
   <tr><td><tt><tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td><em>dictis</em></td></tr>
@@ -142,7 +142,7 @@ The most frequent other feature values with which `VERB` and `InflClass` co-occu
   <tr><td><tt><tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="la_ittb-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Pqp</tt>|<tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>dixisset</em></td></tr>
   <tr><td><tt><tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="la_ittb-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>dixerimus</em></td></tr>
   <tr><td><tt><tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="la_ittb-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>dixerint</em></td></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Vnoun</tt>|<tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>dixisse</em></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt>|<tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>dixisse</em></td></tr>
   <tr><td><tt><tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Prosp</tt>|<tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td><em>dicendo</em></td></tr>
   <tr><td><tt><tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Prosp</tt>|<tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td><em>dicendum</em></td></tr>
   <tr><td><tt><tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Prosp</tt>|<tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td><em>dicendi</em></td></tr>
@@ -152,13 +152,13 @@ The most frequent other feature values with which `VERB` and `InflClass` co-occu
   <tr><td><tt><tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Prosp</tt>|<tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td><em>dicenda</em></td></tr>
 </table>
 
-`InflClass` seems to be **lexical feature** of `VERB`. 99% lemmas (1339) occur only with one value of `InflClass`.
+`InflClass` seems to be **lexical feature** of `VERB`. 99% lemmas (1338) occur only with one value of `InflClass`.
 
 ### `DET`
 
-28013 <tt><a href="la_ittb-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `InflClass`.
+28010 <tt><a href="la_ittb-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `InflClass`.
 
-The most frequent other feature values with which `DET` and `InflClass` co-occurred: <tt><a href="la_ittb-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (25104; 90%), <tt><a href="la_ittb-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (25080; 90%), <tt><a href="la_ittb-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (24651; 88%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (21199; 76%).
+The most frequent other feature values with which `DET` and `InflClass` co-occurred: <tt><a href="la_ittb-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (25101; 90%), <tt><a href="la_ittb-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (25077; 90%), <tt><a href="la_ittb-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (24648; 88%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (21197; 76%).
 
 `DET` tokens may have the following values of `InflClass`:
 
@@ -166,7 +166,7 @@ The most frequent other feature values with which `DET` and `InflClass` co-occur
 * `IndEurI` (3267; 12% of non-empty `InflClass`): <em>omnia, omnes, omnis, omne, omnibus, omnium, talis, omni, omnem, tali</em>
 * `IndEurO` (1620; 6% of non-empty `InflClass`): <em>suum, sui, suo, multa, noster, nostro, nostrum, multis, suos, nostri</em>
 * `IndEurX` (321; 1% of non-empty `InflClass`): <em>plures, pluribus, plura, plus, plurium</em>
-* `LatPron` (21016; 75% of non-empty `InflClass`): <em>hoc, ipsum, alia, aliqua, unum, haec, illud, his, aliud, quaedam</em>
+* `LatPron` (21013; 75% of non-empty `InflClass`): <em>hoc, ipsum, alia, aliqua, unum, haec, illud, his, aliud, quaedam</em>
 
 <table>
   <tr><th>Paradigm <i>solus</i></th><th><tt>IndEurA</tt></th><th><tt>IndEurI</tt></th><th><tt>IndEurO</tt></th><th><tt>LatPron</tt></th></tr>
@@ -199,15 +199,15 @@ The most frequent other feature values with which `DET` and `InflClass` co-occur
 
 ### `ADJ`
 
-27793 <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> tokens (97% of all `ADJ` tokens) have a non-empty value of `InflClass`.
+27817 <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> tokens (97% of all `ADJ` tokens) have a non-empty value of `InflClass`.
 
-The most frequent other feature values with which `ADJ` and `InflClass` co-occurred: <tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (24807; 89%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (21108; 76%).
+The most frequent other feature values with which `ADJ` and `InflClass` co-occurred: <tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (24830; 89%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (21129; 76%).
 
 `ADJ` tokens may have the following values of `InflClass`:
 
-* `IndEurA` (6517; 23% of non-empty `InflClass`): <em>diuina, diuinae, diuinam, prima, humana, humanae, propria, humanam, propriam, ultima</em>
-* `IndEurI` (9849; 35% of non-empty `InflClass`): <em>impossibile, possibilis, naturalis, possibile, intellectualis, substantialis, naturali, intellectuales, rationalis, intelligibiles</em>
-* `IndEurO` (9335; 34% of non-empty `InflClass`): <em>christi, primum, manifestum, primo, proprium, necessarium, christus, christo, sanctus, infinitum</em>
+* `IndEurA` (6526; 23% of non-empty `InflClass`): <em>diuina, diuinae, diuinam, prima, humana, humanae, propria, humanam, propriam, ultima</em>
+* `IndEurI` (9854; 35% of non-empty `InflClass`): <em>impossibile, possibilis, naturalis, possibile, intellectualis, substantialis, naturali, intellectuales, rationalis, intelligibiles</em>
+* `IndEurO` (9345; 34% of non-empty `InflClass`): <em>christi, primum, manifestum, primo, proprium, necessarium, christus, christo, sanctus, infinitum</em>
 * `IndEurX` (2092; 8% of non-empty `InflClass`): <em>prius, inferioribus, superioribus, maius, superior, inferiora, maior, inferiores, melius, perfectior</em>
 
 <table>
@@ -252,16 +252,16 @@ The most frequent other feature values with which `ADJ` and `InflClass` co-occur
 
 ### `PRON`
 
-22194 <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> tokens (98% of all `PRON` tokens) have a non-empty value of `InflClass`.
+22197 <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> tokens (98% of all `PRON` tokens) have a non-empty value of `InflClass`.
 
-The most frequent other feature values with which `PRON` and `InflClass` co-occurred: <tt><a href="la_ittb-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (19694; 89%), <tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (17347; 78%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14204; 64%), <tt><a href="la_ittb-feat-PronType.html">PronType</a></tt><tt>=Rel</tt> (11317; 51%).
+The most frequent other feature values with which `PRON` and `InflClass` co-occurred: <tt><a href="la_ittb-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (19697; 89%), <tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (17350; 78%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14206; 64%), <tt><a href="la_ittb-feat-PronType.html">PronType</a></tt><tt>=Rel</tt> (11318; 51%).
 
 `PRON` tokens may have the following values of `InflClass`:
 
 * `IndEurO` (49; 0% of non-empty `InflClass`): <em>nihilo, nihilum, reliquum, reliquo, nihil, quae</em>
 * `IndEurX` (34; 0% of non-empty `InflClass`): <em>nemo, nemini, neminem, quod</em>
 * `LatAnom` (3108; 14% of non-empty `InflClass`): <em>se, nobis, sibi, nos, ego, me, sui, uobis, te, mihi</em>
-* `LatPron` (19003; 86% of non-empty `InflClass`): <em>quae, quod, qui, eius, aliquid, quo, eo, ea, quam, quibus</em>
+* `LatPron` (19006; 86% of non-empty `InflClass`): <em>quae, quod, qui, eius, aliquid, quo, eo, ea, quam, quibus</em>
 
 <table>
   <tr><th>Paradigm <i>qui</i></th><th><tt>IndEurO</tt></th><th><tt>IndEurX</tt></th><th><tt>LatPron</tt></th></tr>
@@ -317,9 +317,9 @@ The most frequent other feature values with which `AUX` and `InflClass` co-occur
 
 ### `PROPN`
 
-5463 <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> tokens (93% of all `PROPN` tokens) have a non-empty value of `InflClass`.
+5462 <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> tokens (93% of all `PROPN` tokens) have a non-empty value of `InflClass`.
 
-The most frequent other feature values with which `PROPN` and `InflClass` co-occurred: <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5446; 100%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (5397; 99%).
+The most frequent other feature values with which `PROPN` and `InflClass` co-occurred: <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5445; 100%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (5396; 99%).
 
 `PROPN` tokens may have the following values of `InflClass`:
 
@@ -327,7 +327,7 @@ The most frequent other feature values with which `PROPN` and `InflClass` co-occ
 * `IndEurI` (358; 7% of non-empty `InflClass`): <em>aristoteles, aristotelis, auerroes, aristotelem, moyses, ioannes, socrates, aristotele, ioannis, origenis</em>
 * `IndEurO` (4694; 86% of non-empty `InflClass`): <em>deus, dei, deo, deum, dionysius, augustinus, boetius, gregorius, petrus, alexander</em>
 * `IndEurU` (73; 1% of non-empty `InflClass`): <em>iesu, iesum, iesus</em>
-* `IndEurX` (183; 3% of non-empty `InflClass`): <em>plato, commentator, platonis, dauid, israel, platonem, salomon, platone, commentatorem, salomoni</em>
+* `IndEurX` (182; 3% of non-empty `InflClass`): <em>plato, commentator, platonis, dauid, israel, platonem, salomon, platone, commentatorem, salomoni</em>
 
 <table>
   <tr><th>Paradigm <i>iuda</i></th><th><tt>IndEurA</tt></th><th><tt>IndEurO</tt></th></tr>
@@ -372,7 +372,7 @@ The most frequent other feature values with which `NUM` and `InflClass` co-occur
 ## Relations with Agreement in `InflClass`
 
 The 10 most frequent relations where parent and child node agree in `InflClass`:
-<tt>ADJ --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> ADJ</tt> (711; 71%),
+<tt>ADJ --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> ADJ</tt> (714; 71%),
 <tt>DET --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> DET</tt> (256; 90%),
 <tt>DET --[<tt><a href="la_ittb-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (154; 76%),
 <tt>AUX --[<tt><a href="la_ittb-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (147; 95%),

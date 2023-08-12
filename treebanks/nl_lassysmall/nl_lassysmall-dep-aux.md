@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="nl_lassysmall-dep-aux-pass.html">aux:pass</a></tt>.
 
-593 nodes (1%) are attached to their parents as `aux`.
+592 nodes (1%) are attached to their parents as `aux`.
 
-525 instances of `aux` (89%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.70657672849916.
+524 instances of `aux` (89%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.69932432432432.
 
-The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (573; 97% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (8; 1% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (7; 1% instances), <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt>-<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt>-<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (574; 97% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (7; 1% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (6; 1% instances), <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt>-<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt>-<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -37,30 +37,13 @@ The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 2 aux	color:blue
-1	Dat	dat	PRON	VNW|aanw|pron|stan|vol|3o|ev	Person=3|PronType=Dem	4	nsubj	4:nsubj	_
-2	moest	moeten	AUX	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	4	aux	4:aux	_
-3	"	"	PUNCT	LET	_	4	punct	4:punct	SpaceAfter=No
-4	woestijnvos	woestijn_vos	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	0	root	0:root	SpaceAfter=No
-5	"	"	PUNCT	LET	_	4	punct	4:punct	_
-6	zijn	zijn	AUX	WW|inf|vrij|zonder	VerbForm=Inf	4	cop	4:cop	SpaceAfter=No
-7	.	.	PUNCT	LET	_	4	punct	4:punct	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 16	bgColor:blue
 # visual-style 16	fgColor:white
 # visual-style 15	bgColor:blue
 # visual-style 15	fgColor:white
 # visual-style 15 16 aux	color:blue
 1	Gemeentelijke	gemeentelijk	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	2	amod	2:amod	_
-2	ambtenaren	ambtenaar	NOUN	N|soort|mv|basis	Number=Plur	15	nsubj	6:nsubj:relsubj|15:nsubj	_
+2	ambtenaren	ambtenaar	NOUN	N|soort|mv|basis	Number=Plur	15	nsubj	6:nsubj|15:nsubj	_
 3	die	die	PRON	VNW|betr|pron|stan|vol|persoon|getal	PronType=Rel	6	nsubj	2:ref	_
 4	in	in	ADP	VZ|init	_	6	compound:prt	6:compound:prt	_
 5	contact	contact	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	4	fixed	4:fixed	_
@@ -77,6 +60,23 @@ The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="
 16	moeten	moeten	AUX	WW|inf|vrij|zonder	VerbForm=Inf	15	aux	15:aux	_
 17	zijn	zijn	AUX	WW|inf|vrij|zonder	VerbForm=Inf	15	cop	15:cop	SpaceAfter=No
 18	.	.	PUNCT	LET	_	15	punct	15:punct	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 aux	color:blue
+1	Dat	dat	PRON	VNW|aanw|pron|stan|vol|3o|ev	Person=3|PronType=Dem	4	nsubj	4:nsubj	_
+2	moest	moeten	AUX	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	4	aux	4:aux	_
+3	"	"	PUNCT	LET	_	4	punct	4:punct	SpaceAfter=No
+4	woestijnvos	woestijn_vos	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	0	root	0:root	SpaceAfter=No
+5	"	"	PUNCT	LET	_	4	punct	4:punct	_
+6	zijn	zijn	AUX	WW|inf|vrij|zonder	VerbForm=Inf	4	cop	4:cop	SpaceAfter=No
+7	.	.	PUNCT	LET	_	4	punct	4:punct	_
 
 ~~~
 

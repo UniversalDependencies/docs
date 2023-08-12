@@ -44,7 +44,7 @@ The following 1 pairs of parts of speech are connected with `reparandum`: <tt><a
 20	esse	sum	AUX	va5fp	Aspect=Imp|VerbForm=Inf	21	cop	_	TraditionalTense=Praesens
 21	deorsum	deorsum	ADV	r	AdvType=Loc|VerbForm=Part	15	acl:relcl	_	SpaceAfter=No
 22	,	,	PUNCT	Pu	_	15	punct	_	_
-23	inesse	insum	VERB	va5fp	Aspect=Imp|VerbForm=Vnoun|Voice=Act	10	csubj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+23	inesse	insum	VERB	va5fp	Aspect=Imp|VerbForm=Inf|Voice=Act	10	csubj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 24	aliam	alius	DET	dpfs1a	Case=Acc|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Con	25	det	_	_
 25	naturam	natura	NOUN	sfs1a	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|VerbForm=Part	23	nsubj	_	_
 26	per	per	ADP	e	_	27	case	_	_
@@ -57,7 +57,7 @@ The following 1 pairs of parts of speech are connected with `reparandum`: <tt><a
 33	ut	ut	SCONJ	r	PronType=Rel	35	reparandum	_	_
 34	scilicet	scilicet	CCONJ	r	Compound=Yes|VerbForm=Fin	35	cc	_	_
 35	pateretur	patior	VERB	vd3cis3	Aspect=Imp|InflClass=LatI2|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	28	conj:expl	_	TraditionalMood=Subiunctivus|TraditionalTense=Imperfectum
-36	elevari	eleuo	VERB	vp1fp	Aspect=Imp|VerbForm=Vnoun|Voice=Pass	35	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+36	elevari	eleuo	VERB	vp1fp	Aspect=Imp|VerbForm=Inf|Voice=Pass	35	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 37	in	in	ADP	e	_	38	case	_	_
 38	parte	pars	NOUN	sfs3b	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Sing	36	obl	_	_
 39	a	a	ADP	e	_	40	case	_	_

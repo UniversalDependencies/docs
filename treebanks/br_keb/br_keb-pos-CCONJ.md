@@ -15,12 +15,12 @@ The 10 most frequent `CCONJ` types:  <em>ha, hag, pe, met, hogen, koulz</em>
 
 The 10 most frequent ambiguous lemmas: <em>koulz</em> (<tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="br_keb-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="br_keb-pos-SCONJ.html">SCONJ</a></tt> 1, <tt><a href="br_keb-pos-X.html">X</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>hag</em> (<tt><a href="br_keb-pos-CCONJ.html">CCONJ</a></tt> 53, <tt><a href="br_keb-pos-X.html">X</a></tt> 5), <em>koulz</em> (<tt><a href="br_keb-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="br_keb-pos-SCONJ.html">SCONJ</a></tt> 1, <tt><a href="br_keb-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>hag</em> (<tt><a href="br_keb-pos-CCONJ.html">CCONJ</a></tt> 53, <tt><a href="br_keb-pos-X.html">X</a></tt> 4), <em>koulz</em> (<tt><a href="br_keb-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="br_keb-pos-SCONJ.html">SCONJ</a></tt> 1, <tt><a href="br_keb-pos-X.html">X</a></tt> 1)
 
 
 * <em>hag</em>
   * <tt><a href="br_keb-pos-CCONJ.html">CCONJ</a></tt> 53: <em>Baleadennoù kontet <b>hag</b> heñchet e r c’hoadoù a vo aozet ivez .</em>
-  * <tt><a href="br_keb-pos-X.html">X</a></tt> 5: <em>Treuzit an holl wiadoù , tennit ho nadoz er-maez en ur zilec’hiañ , <b>hag</b> all .</em>
+  * <tt><a href="br_keb-pos-X.html">X</a></tt> 4: <em>Treuzit an holl wiadoù , tennit ho nadoz er-maez en ur zilec’hiañ anezhi , <b>hag</b> all .</em>
 * <em>koulz</em>
   * <tt><a href="br_keb-pos-CCONJ.html">CCONJ</a></tt> 1: <em>Ober a reot pep tra evit en em staliañ da vat , en ho puhez personel <b>koulz</b> hag en ho puhez labour .</em>
   * <tt><a href="br_keb-pos-SCONJ.html">SCONJ</a></tt> 1: <em>Tu vo da welet labourioù luc'hskeudennerien gentañ ar vro <b>koulz</b> hag ur rummad skeudennoù " touristel " brudet -tre e fin an 19vet kantved .</em>
@@ -28,7 +28,7 @@ The 10 most frequent ambiguous types:  <em>hag</em> (<tt><a href="br_keb-pos-CCO
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.200000 (the average of all parts of speech is 1.395336).
+The form / lemma ratio of `CCONJ` is 1.200000 (the average of all parts of speech is 1.395664).
 
 The 1st highest number of forms (2) was observed with the lemma “ha”: <em>ha, hag</em>.
 

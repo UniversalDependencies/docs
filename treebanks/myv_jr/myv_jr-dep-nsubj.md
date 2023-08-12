@@ -26,7 +26,7 @@ The following 41 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 1	Велень	веле	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	2	nmod:poss	_	GTtags=Sem/Plc,SP,Gen,Indef
 2	росась	роса	NOUN	N	Case=Nom|Definite=Def|Number=Sing	4	nsubj	_	GTtags=Sg,Nom,Def
 3	эзь	а	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Polarity=Neg|Tense=Past|VerbType=Aux	4	aux:neg	_	_
-4	костявт	костявомс	VERB	V	Connegative=Yes|Mood=Ind|Valency=1	0	root	_	GTtags=IV,Ind,ConNeg
+4	костявт	костявомс	VERB	V	Connegative=Yes|Mood=Ind	0	root	_	GTtags=IV,Ind,ConNeg
 5	валске	валске	NOUN	N	AdvType=Tim|Case=Nom|Definite=Ind|Number=Sing	6	compound	_	GTtags=Temp,Sg,Nom,Indef
 6	мартонь	марто	NOUN	N	Case=Gen|Definite=Ind|NounType=Relat|Number=Plur,Sing	7	nmod	_	GTtags=Der/MWN,N,SP,Gen,Indef
 7	чипайсэнть	чипай	NOUN	N	Case=Ine|Definite=Def|Number=Sing	4	obl:lmod	_	GTtags=Sg,Ine,Def|SpaceAfter=No
@@ -42,11 +42,11 @@ The following 41 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 2	fgColor:white
 # visual-style 2 3 nsubj	color:blue
 1	Ансяк	ансяк	ADV	Adv	_	2	advmod:foc	_	GTtags=Exclusive
-2	сакшнось	самс	VERB	V	Derivation=OkshnOms|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	0	root	_	GTtags=IV,Der/ОкшнОмс,V,IV,Ind,Prt1,ScSg3
+2	сакшнось	самс	VERB	V	Derivation=OkshnOms|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	GTtags=IV,Der/ОкшнОмс,V,IV,Ind,Prt1,ScSg3
 3	сон	сон	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers,Sg3,Nom
-4	якамсто	якамс	VERB	V	Case=Ela|Valency=2|VerbForm=Conv	2	advcl	_	GTtags=TV,Ger,Ela
+4	якамсто	якамс	VERB	V	Case=Ela|VerbForm=Conv	2	advcl	_	GTtags=TV,Ger,Ela
 5	―	―	PUNCT	PUNCT	_	6	punct	_	_
-6	пакамсто	пакамс	VERB	V	Case=Ela|Valency=1|VerbForm=Conv	4	conj	_	GTtags=IV,Ger,Ela|SpaceAfter=No
+6	пакамсто	пакамс	VERB	V	Case=Ela|VerbForm=Conv	4	conj	_	GTtags=IV,Ger,Ela|SpaceAfter=No
 7	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~
@@ -62,7 +62,7 @@ The following 41 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 2	Вана	вана	INTJ	Interj	_	5	discourse	_	GTtags=|SpaceAfter=No
 3	,	,	PUNCT	CLB	_	2	punct	_	_
 4	Звездов	Звездов	PROPN	N	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Sur|Number=Sing	5	nsubj	_	GTtags=Sur_Mal,Prop,Sg,Nom,Indef
-5	кучсь	кучомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=2	0	root	_	GTtags=TV,Ind,Prt1,ScSg3
+5	кучсь	кучомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	GTtags=TV,Ind,Prt1,ScSg3
 6	отрядонтень	отряд	NOUN	N	Case=Dat|Definite=Def|Number=Sing	5	obl	_	GTtags=Sg,Dat,Def
 7	оптечка	оптечка	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	5	obj	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
 8	...	...	PUNCT	CLB	_	5	punct	_	_

@@ -8,12 +8,30 @@ udver: '2'
 
 This relation is universal.
 
-30 nodes (1%) are attached to their parents as `ccomp`.
+132 nodes (2%) are attached to their parents as `ccomp`.
 
-27 instances of `ccomp` (90%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.1.
+125 instances of `ccomp` (95%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.90151515151515.
 
-The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (21; 70% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (4; 13% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (4; 13% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> (1; 3% instances).
+The following 7 pairs of parts of speech are connected with `ccomp`: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (97; 73% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (13; 10% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (8; 6% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (7; 5% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-PART.html">PART</a></tt> (4; 3% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> (2; 2% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 ccomp	color:blue
+1	Aintá	aintá	PRON	PRON	Number=Plur|Person=3|PronType=Prs	2	nsubj	_	TokenRange=0:5
+2	ukuntari	kuntari	VERB	V	Person=3|VerbForm=Fin	0	root	_	TokenRange=6:14
+3	uakonteseri	akonteseri	VERB	V	Person=3|VerbForm=Fin	2	ccomp	_	Orig=acontecer|OrigLang=pt|TokenRange=15:26
+4	waá	waá	PRON	REL	Number=Sing|PronType=Rel	3	nsubj	_	TokenRange=27:30
+5	garapé	garapé	NOUN	N	Number=Sing	6	nmod:poss	_	TokenRange=31:37
+6	apira	apira	NOUN	N	Number=Sing	3	obl	_	TokenRange=38:43
+7	kití	kití	ADP	ADP	_	6	case	_	SpaceAfter=No|TokenRange=44:48
+8	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=48:49
+
+~~~
 
 
 ~~~ conllu
@@ -22,58 +40,37 @@ The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 4 ccomp	color:blue
-1	Rembeú	mbeú	VERB	V	Number=Sing|Person=2|VerbForm=Fin	0	root	_	TokenRange=0:6
-2	aintá	aintá	PRON	PRON2	Case=Gen|Number=Plur|Person=3|PronType=Prs	1	obj	_	TokenRange=7:12
-3	supé	supé	ADP	ADP	_	2	case	_	TokenRange=13:17
-4	puranga	puranga	VERB	A	_	1	ccomp	_	TokenRange=18:25
-5	ixé	ixé	PRON	PRON	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	SpaceAfter=No|TokenRange=26:29
-6	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=29:30
+1	Anheẽ	nheẽ	VERB	V	Number=Sing|Person=1|VerbForm=Fin	0	root	_	TokenRange=0:5
+2	"	"	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=5:6
+3	puranga	puranga	ADJ	A	_	4	amod	_	TokenRange=7:14
+4	ara	ara	NOUN	N	Number=Sing	1	ccomp	_	SpaceAfter=No|TokenRange=15:18
+5	"	"	PUNCT	PUNCT	_	4	punct	_	TokenRange=18:19
+6	aintá	aintá	PRON	PRON2	Case=Gen|Number=Plur|Person=3|PronType=Prs	1	iobj	_	TokenRange=20:25
+7	supé	supé	ADP	ADP	_	6	case	_	SpaceAfter=No|TokenRange=26:30
+8	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=30:31
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 7 ccomp	color:blue
-1	Aintá	aintá	PRON	PRON	Number=Plur|Person=3|PronType=Prs	2	nsubj	_	TokenRange=0:5
-2	upurandú	purandú	VERB	V	Person=3|VerbForm=Fin	0	root	_	TokenRange=6:14
-3	i	i	PRON	PRON2	Case=Gen|Number=Sing|Person=3|PronType=Prs	2	iobj	_	TokenRange=15:16
-4	suí	suí	ADP	ADP	_	3	case	_	SpaceAfter=No|TokenRange=17:20
-5	:	:	PUNCT	PUNCT	_	7	punct	_	TokenRange=20:21
-6	―	―	PUNCT	PUNCT	_	7	punct	_	TokenRange=21:22
-7	Mamé	mamé	ADV	ADVR	_	2	ccomp	_	TokenRange=23:27
-8	taá	taá	PART	CQ	_	7	advmod	_	TokenRange=28:31
-9	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	10	nmod:poss	_	TokenRange=32:34
-10	manha	manha	NOUN	N	Number=Sing	11	nmod:poss	_	TokenRange=35:40
-11	ruka	uka	NOUN	N	Number=Sing|Rel=Cont	7	nsubj	_	SpaceAfter=No|TokenRange=41:45
-12	,	,	PUNCT	PUNCT	_	13	punct	_	TokenRange=45:46
-13	makaka	makaka	NOUN	N	Number=Sing	7	vocative	_	SpaceAfter=No|TokenRange=47:53
-14	?	?	PUNCT	PUNCT	_	7	punct	_	SpaceAfter=No|TokenRange=53:54
-
-~~~
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 7 ccomp	color:blue
-1	Remaité	maité	VERB	V	Number=Sing|Person=2|VerbForm=Fin	0	root	_	TokenRange=0:7
-2	será	será	PART	PQ	PartType=Int	1	advmod	_	SpaceAfter=No|TokenRange=8:12
-3	,	,	PUNCT	PUNCT	_	5	punct	_	TokenRange=12:13
-4	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	_	TokenRange=14:16
-5	ruái	suái	NOUN	N	Number=Sing|Rel=Cont	1	vocative	_	SpaceAfter=No|TokenRange=17:21
-6	,	,	PUNCT	PUNCT	_	5	punct	_	TokenRange=21:22
-7	uka	uka	NOUN	N	Number=Sing|Rel=Abs	1	ccomp	_	TokenRange=23:26
-8	upé	upé	ADP	ADP	_	7	case	_	TokenRange=27:30
-9	ne	ne	PRON	PRON2	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	10	nmod:poss	_	TokenRange=31:33
-10	rimirikú	simirikú	NOUN	N	Number=Sing|Rel=Cont	7	nsubj	_	TokenRange=34:42
-11	uikú	ikú	AUX	V	Person=3|VerbForm=Fin	7	cop	_	SpaceAfter=No|TokenRange=43:47
-12	?	?	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=47:48
+# visual-style 2 9 ccomp	color:blue
+1	Aé	aé	PRON	PRON	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	TokenRange=0:2
+2	unheẽ	nheẽ	VERB	V	Person=3|VerbForm=Fin	0	root	_	TokenRange=3:8
+3	Maria	maria	PROPN	PROPN	_	2	iobj	_	TokenRange=9:14
+4	supé	supé	ADP	ADP	_	3	case	_	SpaceAfter=No|TokenRange=15:19
+5	:	:	PUNCT	PUNCT	_	9	punct	_	TokenRange=19:20
+6	—	—	PUNCT	PUNCT	_	9	punct	_	TokenRange=20:21
+7	Maria	maria	PROPN	PROPN	_	9	vocative	_	SpaceAfter=No|TokenRange=22:27
+8	,	,	PUNCT	PUNCT	_	7	punct	_	TokenRange=27:28
+9	mamé	mamé	ADV	ADVRC	AdvType=Loc|PronType=Int	2	ccomp	_	TokenRange=29:33
+10	taá	taá	PART	CQ	PartType=Int	9	advmod	_	TokenRange=34:37
+11	pindá-itá	pindá	NOUN	N	Number=Plur	9	nsubj	_	TokenRange=38:47
+12	uikú	ikú	AUX	COP	Person=3|VerbForm=Fin	9	cop	_	SpaceAfter=No|TokenRange=48:52
+13	?	?	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=52:53
 
 ~~~
 

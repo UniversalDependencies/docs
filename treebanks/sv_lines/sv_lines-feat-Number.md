@@ -46,7 +46,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 * `Plur` (1411; 17% of non-empty `Number`): <em>de, vi, dem, den, sina, oss, alla, mina, varandra, vilka</em>
 * `Sing` (7063; 83% of non-empty `Number`): <em>han, det, jag, du, hon, honom, mig, man, sin, vad</em>
-* `EMPTY` (2369): <em>som, sig, hans, hennes, deras, dom, någonting, dess, alltihop, allting</em>
+* `EMPTY` (2368): <em>som, sig, hans, hennes, deras, dom, någonting, dess, alltihop, allting</em>
 
 <table>
   <tr><th>Paradigm <i>den</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -131,7 +131,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 * `Plur` (5; 28% of non-empty `Number`): <em>tvungna, fullproppade</em>
 * `Sing` (13; 72% of non-empty `Number`): <em>tvungen, krigsmålad, lastad, omhändertagen, sitt, spräckt</em>
-* `EMPTY` (11378): <em>sa, var, hade, gick, kom, har, såg, ta, göra, sade</em>
+* `EMPTY` (11372): <em>sa, var, hade, gick, kom, har, såg, ta, göra, sade</em>
 
 <table>
   <tr><th>Paradigm <i>tvinga</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -164,11 +164,11 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="sv_lines-dep-det.html">det</a></tt>]--> DET</tt> (4252; 97%),
 <tt>NOUN --[<tt><a href="sv_lines-dep-amod.html">amod</a></tt>]--> ADJ</tt> (3283; 76%),
 <tt>NOUN --[<tt><a href="sv_lines-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1362; 63%),
-<tt>NOUN --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> NOUN</tt> (881; 76%),
+<tt>NOUN --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> NOUN</tt> (884; 76%),
 <tt>NOUN --[<tt><a href="sv_lines-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (790; 66%),
 <tt>NOUN --[<tt><a href="sv_lines-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (274; 62%),
-<tt>ADJ --[<tt><a href="sv_lines-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (220; 74%),
+<tt>ADJ --[<tt><a href="sv_lines-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (219; 74%),
 <tt>NOUN --[<tt><a href="sv_lines-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (201; 77%),
 <tt>ADJ --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> ADJ</tt> (193; 88%),
-<tt>ADJ --[<tt><a href="sv_lines-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (175; 82%).
+<tt>ADJ --[<tt><a href="sv_lines-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (174; 82%).
 

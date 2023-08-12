@@ -12,27 +12,27 @@ It occurs with 1 different values: `Yes`.
 148 tokens (1%) have a non-empty value of `Typo`.
 1 types (0) occur at least once with a non-empty value of `Typo`.
 1 lemmas (0) occur at least once with a non-empty value of `Typo`.
-The feature is used with 14 part-of-speech tags: <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (37; 0% instances), <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> (22; 0% instances), <tt><a href="en_gumreddit-pos-PROPN.html">PROPN</a></tt> (20; 0% instances), <tt><a href="en_gumreddit-pos-AUX.html">AUX</a></tt> (15; 0% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (14; 0% instances), <tt><a href="en_gumreddit-pos-PART.html">PART</a></tt> (10; 0% instances), <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="en_gumreddit-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="en_gumreddit-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="en_gumreddit-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="en_gumreddit-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="en_gumreddit-pos-X.html">X</a></tt> (1; 0% instances).
+The feature is used with 14 part-of-speech tags: <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (36; 0% instances), <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> (23; 0% instances), <tt><a href="en_gumreddit-pos-PROPN.html">PROPN</a></tt> (20; 0% instances), <tt><a href="en_gumreddit-pos-AUX.html">AUX</a></tt> (15; 0% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (14; 0% instances), <tt><a href="en_gumreddit-pos-PART.html">PART</a></tt> (10; 0% instances), <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="en_gumreddit-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="en_gumreddit-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="en_gumreddit-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="en_gumreddit-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="en_gumreddit-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-37 <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Typo`.
+36 <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="en_gumreddit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (32; 86%).
+The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="en_gumreddit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (31; 86%).
 
 `NOUN` tokens may have the following values of `Typo`:
 
-* `Yes` (37; 100% of non-empty `Typo`): <em>_</em>
+* `Yes` (36; 100% of non-empty `Typo`): <em>_</em>
 
 ### `PRON`
 
-22 <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Typo`.
+23 <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `PRON` and `Typo` co-occurred: <tt><a href="en_gumreddit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (20; 91%), <tt><a href="en_gumreddit-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (20; 91%), <tt><a href="en_gumreddit-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (17; 77%), <tt><a href="en_gumreddit-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (16; 73%), <tt><a href="en_gumreddit-feat-Case.html">Case</a></tt><tt>=Nom</tt> (15; 68%).
+The most frequent other feature values with which `PRON` and `Typo` co-occurred: <tt><a href="en_gumreddit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (21; 91%), <tt><a href="en_gumreddit-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (20; 87%), <tt><a href="en_gumreddit-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (18; 78%), <tt><a href="en_gumreddit-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (17; 74%), <tt><a href="en_gumreddit-feat-Case.html">Case</a></tt><tt>=Nom</tt> (15; 65%).
 
 `PRON` tokens may have the following values of `Typo`:
 
-* `Yes` (22; 100% of non-empty `Typo`): <em>_</em>
+* `Yes` (23; 100% of non-empty `Typo`): <em>_</em>
 
 ### `PROPN`
 
@@ -138,9 +138,7 @@ The most frequent other feature values with which `DET` and `Typo` co-occurred: 
 
 ### `X`
 
-1 <tt><a href="en_gumreddit-pos-X.html">X</a></tt> tokens (4% of all `X` tokens) have a non-empty value of `Typo`.
-
-The most frequent other feature values with which `X` and `Typo` co-occurred: <tt><a href="en_gumreddit-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (1; 100%).
+1 <tt><a href="en_gumreddit-pos-X.html">X</a></tt> tokens (3% of all `X` tokens) have a non-empty value of `Typo`.
 
 `X` tokens may have the following values of `Typo`:
 

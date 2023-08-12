@@ -14,21 +14,20 @@ There are also 1 other language-specific subtypes of `compound`: <tt><a href="sw
 61 instances of `compound:svc` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.83606557377049.
 
-The following 7 pairs of parts of speech are connected with `compound:svc`: <tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt>-<tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt> (48; 79% instances), <tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt>-<tt><a href="swl_sslc-pos-X.html">X</a></tt> (5; 8% instances), <tt><a href="swl_sslc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="swl_sslc-pos-X.html">X</a></tt> (2; 3% instances), <tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt>-<tt><a href="swl_sslc-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="swl_sslc-pos-X.html">X</a></tt>-<tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt>-<tt><a href="swl_sslc-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="swl_sslc-pos-X.html">X</a></tt>-<tt><a href="swl_sslc-pos-ADJ.html">ADJ</a></tt> (1; 2% instances).
+The following 8 pairs of parts of speech are connected with `compound:svc`: <tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt>-<tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt> (48; 79% instances), <tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt>-<tt><a href="swl_sslc-pos-X.html">X</a></tt> (5; 8% instances), <tt><a href="swl_sslc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="swl_sslc-pos-X.html">X</a></tt> (2; 3% instances), <tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt>-<tt><a href="swl_sslc-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="swl_sslc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt>-<tt><a href="swl_sslc-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="swl_sslc-pos-X.html">X</a></tt>-<tt><a href="swl_sslc-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="swl_sslc-pos-X.html">X</a></tt>-<tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 compound:svc	color:blue
-1	PRO1	_	PRON	PN	_	2	nsubj	_	_
-2	GÅ-IN(N)	_	VERB	VB	_	0	root	_	_
-3	KLASS^RUM	_	NOUN	NN	_	2	obl	_	_
-4	PRO1	_	PRON	PN	_	5	nsubj	_	_
-5	HAND(G)+HANTERA@p	_	VERB	VBAV	_	2	conj	_	_
-6	HAND(G)@p@hd	_	VERB	VBAV	_	5	compound:svc	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 compound:svc	color:blue
+1	VARELSE(L)+@p	_	VERB	VBAV	_	0	root	_	_
+2	KOMMA-HIT(L)	_	VERB	VBAV	_	1	compound:svc	_	_
+3	SÄGA@z	_	VERB	VB	_	1	conj	_	_
+4	VAD@z	_	PRON	PN	_	5	obj	_	_
+5	VAD-ÖNSKAS@ca	_	VERB	VBCA	_	3	ccomp	_	_
 
 ~~~
 

@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 7 different values: `Art`, `Dem`, `Ind`, `Int`, `Neg`, `Prs`, `Rcp`.
 
-2305 tokens (13%) have a non-empty value of `PronType`.
+2304 tokens (13%) have a non-empty value of `PronType`.
 329 types (6%) occur at least once with a non-empty value of `PronType`.
 82 lemmas (4%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 7 part-of-speech tags: <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> (1071; 6% instances), <tt><a href="tr_gb-pos-DET.html">DET</a></tt> (983; 6% instances), <tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (202; 1% instances), <tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> (31; 0% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> (8; 0% instances), <tt><a href="tr_gb-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> (2; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> (1071; 6% instances), <tt><a href="tr_gb-pos-DET.html">DET</a></tt> (982; 6% instances), <tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (202; 1% instances), <tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> (31; 0% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> (8; 0% instances), <tt><a href="tr_gb-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> (2; 0% instances).
 
 ### `PRON`
 
@@ -52,13 +52,13 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 ### `DET`
 
-983 <tt><a href="tr_gb-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+982 <tt><a href="tr_gb-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
 The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="tr_gb-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (494; 50%).
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Art` (975; 99% of non-empty `PronType`): <em>bir, bu, o, her, bütün, şu, birkaç, hiçbir, bazı, başka</em>
+* `Art` (974; 99% of non-empty `PronType`): <em>bir, bu, o, her, bütün, şu, birkaç, hiçbir, bazı, başka</em>
 * `Dem` (2; 0% of non-empty `PronType`): <em>O, bu</em>
 * `Int` (6; 1% of non-empty `PronType`): <em>hangi, ne</em>
 
@@ -127,6 +127,5 @@ The most frequent other feature values with which `NOUN` and `PronType` co-occur
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>PRON --[<tt><a href="tr_gb-dep-compound-redup.html">compound:redup</a></tt>]--> PRON</tt> (7; 100%),
-<tt>DET --[<tt><a href="tr_gb-dep-fixed.html">fixed</a></tt>]--> DET</tt> (3; 100%),
-<tt>DET --[<tt><a href="tr_gb-dep-goeswith.html">goeswith</a></tt>]--> DET</tt> (1; 100%).
+<tt>DET --[<tt><a href="tr_gb-dep-fixed.html">fixed</a></tt>]--> DET</tt> (3; 100%).
 

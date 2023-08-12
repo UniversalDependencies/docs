@@ -23,11 +23,11 @@ The following 83 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 2	fgColor:white
 # visual-style 2 6 conj	color:blue
 1	Konis	konis	PROPN	PNM	_	2	nsubj	_	_
-2	aposta	apostar	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+2	aposta	apostar	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	em	em	ADP	PREP	_	4	case	_	_
 4	Xanana	xanana	PROPN	PNM	_	2	obl	_	_
 5	mas	mas	CCONJ	CJ	_	6	cc	_	_
-6	aceita	aceitar	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	conj	_	_
+6	aceita	aceitar	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
 7	Ramos	ramos	PROPN	PNM	_	6	obj	_	_
 8	Horta	horta	PROPN	PNM	_	7	dep	_	_
 
@@ -48,7 +48,7 @@ The following 83 pairs of parts of speech are connected with `conj`: <tt><a href
 6	e	e	CCONJ	CJ	_	7	cc	_	_
 7	cenários	cenário	NOUN	CN	Gender=Masc|Number=Plur	2	conj	_	_
 8	de_	de_	ADP	PREP	_	10	case	_	_
-9	o	o	DET	DA	Gender=Masc|Number=Sing	10	det	_	_
+9	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	pintor	pintor	NOUN	CN	Gender=Masc|Number=Sing	7	obl	_	_
 11	Manuel	manuel	PROPN	PNM	_	10	obl	_	_
 12	Amado	amado	PROPN	PNM	_	11	flat	_	_

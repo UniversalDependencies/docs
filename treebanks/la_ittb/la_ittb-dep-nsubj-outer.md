@@ -59,7 +59,7 @@ The following 3 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 12	in	in	ADP	S4	_	13	case	_	_
 13	uita	uita	NOUN	A1|grn1|casF|gen2|vgr1	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing	15	obl	_	_
 14	ista	iste	DET	F1|grn1|casF|gen2	Case=Abl|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Dem	13	det	_	_
-15	acquirere	acquiro	VERB	L3|modH|tem1	Aspect=Imp|InflClass=LatX|VerbForm=Vnoun|Voice=Act	16	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+15	acquirere	acquiro	VERB	L3|modH|tem1	Aspect=Imp|InflClass=LatX|VerbForm=Inf|Voice=Act	16	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 16	potest	possum	VERB	N3|modA|tem1|gen6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	acl:relcl	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 17	,	,	PUNCT	Punc	_	9	punct	_	_
 18	sit	sum	AUX	N3|modB|tem1|gen6	InflClass=LatAnom|Number=Sing|VerbForm=Fin	19	cop	_	_
@@ -71,7 +71,7 @@ The following 3 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 24	per	per	ADP	S4	_	25	case	_	_
 25	scientias	scientia	NOUN	A1|grn1|casM|gen2	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Plur	28	obl	_	_
 26	speculatiuas	speculatiuus	ADJ	A1|grn1|casM|gen2	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Plur	25	amod	_	_
-27	haberi	habeo	VERB	K3|modQ|tem1	Aspect=Imp|InflClass=LatE|VerbForm=Vnoun|Voice=Pass	28	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+27	haberi	habeo	VERB	K3|modQ|tem1	Aspect=Imp|InflClass=LatE|VerbForm=Inf|Voice=Pass	28	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 28	potest	possum	VERB	N3|modA|tem1|gen6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	acl:relcl	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 29	.	.	PUNCT	Punc	_	1	punct	_	_
 
@@ -88,7 +88,7 @@ The following 3 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 2	tamen	tamen	ADV	O4	Form=Emp	1	advmod	_	_
 3	per	per	ADP	S4	_	4	case	_	_
 4	uoluntatem	uoluntas	NOUN	C1|grn1|casD|gen2|vgr1	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Sing	1	obl	_	_
-5	deflecti	deflecto	VERB	L3|modQ|tem1	Aspect=Imp|InflClass=LatX|VerbForm=Vnoun|Voice=Pass	1	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+5	deflecti	deflecto	VERB	L3|modQ|tem1	Aspect=Imp|InflClass=LatX|VerbForm=Inf|Voice=Pass	1	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 6	ab	ab	ADP	S4|vgr2	_	7	case	_	_
 7	eo	is	PRON	F1|grn1|casF|gen3	Case=Abl|Gender=Neut|InflClass=LatPron|Number=Sing|Person=3|PronType=Prs	5	obl:arg	_	_
 8	in	in	ADP	S4	_	9	case	_	_

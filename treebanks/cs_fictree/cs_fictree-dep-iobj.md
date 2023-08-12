@@ -66,7 +66,7 @@ The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href=
 1	"	"	PUNCT	Z:-------------	_	7	punct	7:punct	SpaceAfter=No
 2	Tatínku	tatínek	NOUN	NNMS5-----A----	Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing|Polarity=Pos	7	vocative	7:vocative	SpaceAfter=No
 3	,	,	PUNCT	Z:-------------	_	7	punct	7:punct	_
-4	já	já	PRON	PP-S1--1-------	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	7:nsubj|8:nsubj	_
+4	já	já	PRON	PP-S1--1-------	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	7:nsubj|8:nsubj:xsubj	_
 5	to	ten	DET	PDNS4----------	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	8	iobj	8:iobj	_
 6	už	už	ADV	Db-------------	_	7	advmod	7:advmod	_
 7	nemůžu	moci	VERB	VB-S---1P-NA---	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_

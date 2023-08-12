@@ -398,6 +398,22 @@ collections:
     output: true
   bor:
     output: true
+  qee:
+    output: true
+  azz:
+    output: true
+  nci:
+    output: true
+  vep:
+    output: true
+  ps:
+    output: true
+  lb:
+    output: true
+  xcl:
+    output: true
+  pap:
+    output: true
 # End of language collections (do not remove this comment, addlanguage.sh looks for it)
 
 

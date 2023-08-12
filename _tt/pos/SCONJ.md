@@ -19,4 +19,4 @@ For _coordinating conjunctions,_ see [CCONJ]().
 
 - _Килмәячәк <b>дип</b> беләм_ "I know <b>that</b> he will not come"
 - _<b>Әгәр</b> килмәсәң миңа әйт_ "If you are not coming, let me know".
-<!-- Interlanguage links updated Po lis 14 15:34:37 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:29 CEST -->

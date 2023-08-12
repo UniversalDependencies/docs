@@ -13,9 +13,9 @@ The 10 most frequent `INTJ` lemmas: <em>ó, bhail, dhera, haló, á, Et, No, OK,
 
 The 10 most frequent `INTJ` types:  <em>ó, Bhail, haló, á, Bhal, Bhoil, Bhuel, Búm, Dheara, Dhera</em>
 
-The 10 most frequent ambiguous lemmas: <em>ó</em> (<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> 575, <tt><a href="ga_idt-pos-PART.html">PART</a></tt> 110, <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> 27, <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> 6, <tt><a href="ga_idt-pos-INTJ.html">INTJ</a></tt> 6), <em>bí</em> (<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> 3697, <tt><a href="ga_idt-pos-INTJ.html">INTJ</a></tt> 1), <em>de</em> (<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> 1338, <tt><a href="ga_idt-pos-PART.html">PART</a></tt> 20, <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="ga_idt-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> 1), <em>sin</em> (<tt><a href="ga_idt-pos-DET.html">DET</a></tt> 425, <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> 414, <tt><a href="ga_idt-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>ó</em> (<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> 575, <tt><a href="ga_idt-pos-PART.html">PART</a></tt> 110, <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> 27, <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> 6, <tt><a href="ga_idt-pos-INTJ.html">INTJ</a></tt> 6), <em>bí</em> (<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> 3697, <tt><a href="ga_idt-pos-INTJ.html">INTJ</a></tt> 1), <em>de</em> (<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> 1339, <tt><a href="ga_idt-pos-PART.html">PART</a></tt> 20, <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="ga_idt-pos-INTJ.html">INTJ</a></tt> 1), <em>sin</em> (<tt><a href="ga_idt-pos-DET.html">DET</a></tt> 425, <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> 414, <tt><a href="ga_idt-pos-INTJ.html">INTJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>ó</em> (<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> 305, <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> 17, <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> 6, <tt><a href="ga_idt-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="ga_idt-pos-PART.html">PART</a></tt> 1), <em>á</em> (<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> 201, <tt><a href="ga_idt-pos-DET.html">DET</a></tt> 1, <tt><a href="ga_idt-pos-INTJ.html">INTJ</a></tt> 1), <em>Sin</em> (<tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> 16, <tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> 3, <tt><a href="ga_idt-pos-INTJ.html">INTJ</a></tt> 1), <em>de</em> (<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> 742, <tt><a href="ga_idt-pos-PART.html">PART</a></tt> 18, <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="ga_idt-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>ó</em> (<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> 305, <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> 17, <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> 6, <tt><a href="ga_idt-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="ga_idt-pos-PART.html">PART</a></tt> 1), <em>á</em> (<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> 201, <tt><a href="ga_idt-pos-DET.html">DET</a></tt> 1, <tt><a href="ga_idt-pos-INTJ.html">INTJ</a></tt> 1), <em>Sin</em> (<tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> 16, <tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> 3, <tt><a href="ga_idt-pos-INTJ.html">INTJ</a></tt> 1), <em>de</em> (<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> 743, <tt><a href="ga_idt-pos-PART.html">PART</a></tt> 17, <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="ga_idt-pos-INTJ.html">INTJ</a></tt> 1)
 
 
 * <em>ó</em>
@@ -33,14 +33,14 @@ The 10 most frequent ambiguous types:  <em>ó</em> (<tt><a href="ga_idt-pos-ADP.
   * <tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> 3: <em><b>Sin</b> an té a itheann feoil .</em>
   * <tt><a href="ga_idt-pos-INTJ.html">INTJ</a></tt> 1: <em><b>Sin</b> , mura séideann bomba uafásach éigin sinn isteach san tsíoraíocht amárach nó anoirthear .</em>
 * <em>de</em>
-  * <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> 742: <em>An dtuigtear fós sa tír seo cé chomh mór <b>de</b> athrú is a bhí ansin ?</em>
-  * <tt><a href="ga_idt-pos-PART.html">PART</a></tt> 18: <em>Síneann Gleann Wallace soir uaidh agus is ann a bhí cónaí ar Cholm <b>de</b> Bhailís .</em>
+  * <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> 743: <em>An dtuigtear fós sa tír seo cé chomh mór <b>de</b> athrú is a bhí ansin ?</em>
+  * <tt><a href="ga_idt-pos-PART.html">PART</a></tt> 17: <em>Síneann Gleann Wallace soir uaidh agus is ann a bhí cónaí ar Cholm <b>de</b> Bhailís .</em>
   * <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> 2: <em>(4) D' fhonn amhras a sheachaint , aon achtachán a ndéantar leasú air le halt den Acht seo a scoireann de bheith i ngníomh amhail ar an agus ón lá dá dtagraítear i bhfo-alt (1) nó , <b>de</b> réir mar a bheidh , amhail ar agus ó dháta éagtha na tréimhse ar lena linn a choimeádfar i ngníomh é faoi fho-alt (2) ( ' an t-éag ' ) , beidh feidhm aige agus beidh éifeacht leis amhail ar an agus ón lá sin nó , <b>de</b> réir mar a bheidh , amhail ar an agus ón éag , mar a bhí feidhm aige agus éifeacht leis díreach roimh dháta an Achta seo a rith ach sin faoi réir aon leasuithe a dhéanfar le haon Acht eile den Oireachtas tar éis an dáta rite sin .</em>
   * <tt><a href="ga_idt-pos-INTJ.html">INTJ</a></tt> 1: <em>Búm bí á <b>de</b> .</em>
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.047619 (the average of all parts of speech is 1.643807).
+The form / lemma ratio of `INTJ` is 1.047619 (the average of all parts of speech is 1.647151).
 
 The 1st highest number of forms (2) was observed with the lemma “dhera”: <em>Dheara, Dhera</em>.
 

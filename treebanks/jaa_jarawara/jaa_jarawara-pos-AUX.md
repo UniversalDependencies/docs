@@ -32,8 +32,8 @@ The 2nd highest number of forms (1) was observed with the lemma “ama”: <em>a
 `AUX` occurs with 16 feature-value pairs: `Cfm=Morning`, `Comt=Yes`, `Decl=F`, `Evident=Fh`, `Evident=Nfh`, `Gender=Fem`, `Intension=Yes`, `Number=Plur`, `Number=Sing`, `Number[subj]=Sing`, `Person=2`, `Person[subj]=1`, `Report=Yes`, `Tense=Fut`, `Tense=IPast`, `Tense=RPast`
 
 `AUX` occurs with 11 feature combinations.
-The most frequent feature combination is `Decl=F` (2 tokens).
-Examples: <em>amake, naminaba, naminabone, tinahaboneke</em>
+The most frequent feature combination is `Gender=Fem` (2 tokens).
+Examples: <em>na, ni, kanemetemone, kawahi, naba, naminaba, naminabone, ona, onahara, tinahaboneke</em>
 
 
 ## Relations

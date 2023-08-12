@@ -12,6 +12,14 @@ Note that nominal modifiers of verbal nouns use `obl`, `obl:smod` or `obl:tmod` 
 
 This is also used in phrases like _sa bhliadhna 1774_ 'in the year 1774' to link the year to the word for year.
 
+~~~conllu
+14-15	sa	_	_	_	_	_	_	_	_
+14	anns	an	ADP	Sp	_	16	case	_	_
+15	an	an	ADP	Sp	_	14	fixed	_	_
+16	bhliadhna	bliadhna	NOUN	Ncsfd	Case=Dat|Gender=Fem|Number=Sing	13	obl	_	_
+17	1774	1774	NUM	Mn	_	16	nmod	_	SpaceAfter=No
+~~~
+
 
 ### Examples
 _tuathanas beag <b>aige</b>
@@ -33,15 +41,5 @@ Bett fhèin a' ruith suas \n Bett himself at running up
 nmod(Bett, fhèin)
 ~~~
 
-#### _fhèin_ 
 
-~~~conllu
-14-15	sa	_	_	_	_	_	_	_	_
-14	anns	an	ADP	Sp	_	16	case	_	_
-15	an	an	ADP	Sp	_	14	fixed	_	_
-16	bhliadhna	bliadhna	NOUN	Ncsfd	Case=Dat|Gender=Fem|Number=Sing	13	obl	_	_
-17	1774	1774	NUM	Mn	_	16	nummod	_	SpaceAfter=No
-
-~~~
-
-<!-- Interlanguage links updated Po lis 14 15:35:30 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:04:19 CEST -->

@@ -66,7 +66,7 @@ The following 7 pairs of parts of speech are connected with `advmod:tmod`: <tt><
 5	idem	idem	DET	F1|grn1|casD|gen3|vgr1	Case=Acc|Form=Emp|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Dem	8	obj	_	_
 6	facile	facilis	ADJ	C1|grn1|casA|gen3	Case=Nom|Gender=Neut|InflClass=IndEurI|Number=Sing	0	root	_	_
 7	est	sum	AUX	N3|modA|tem1|gen6	InflClass=LatAnom|Number=Sing|VerbForm=Fin	6	cop	_	_
-8	uidere	uideo	VERB	K3|modH|tem1|vgr1	Aspect=Imp|InflClass=LatE|VerbForm=Vnoun|Voice=Act	6	csubj	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Praesens
+8	uidere	uideo	VERB	K3|modH|tem1|vgr1	Aspect=Imp|InflClass=LatE|VerbForm=Inf|Voice=Act	6	csubj	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Praesens
 9	.	.	PUNCT	Punc	_	6	punct	_	_
 
 ~~~

@@ -47,4 +47,4 @@ acl:relcl(Cui,potest-7)
 xcomp(potest-7, inesse)
 ~~~
 
-<!-- Interlanguage links updated Po lis 14 15:35:05 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:55 CEST -->

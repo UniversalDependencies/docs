@@ -4,7 +4,7 @@ title: 'acl:relcl'
 shortdef: 'relative clause'
 udver: '2'
 ---
-This language-specific relation is used for relative clauses in Norwegian and the `acl:relcl` relation is assigned to the main predicate of the relative clause. Relative clauses modify a nominal element and are often initiated by the relative pronoun *som* "that" which is assigned a nominal relation to the main predicate of the relative clause.
+This language-specific relation is used for relative clauses in Norwegian and the `acl:relcl` relation is assigned to the main predicate of the relative clause.
 
 ~~~ sdparse
 Jeg har en venn som kjenner deg \n I have a friend who knows you
@@ -43,4 +43,4 @@ Jeg har en venn som er en dyktig snekker \n I have a friend who is a good carpen
 acl:relcl(venn,snekker)
 ~~~
 
-<!-- Interlanguage links updated Po lis 14 15:35:03 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:53 CEST -->

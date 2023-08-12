@@ -11,9 +11,9 @@ This relation is universal.
 18723 nodes (12%) are attached to their parents as `root`.
 
 18723 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.50040057683064.
+Average distance between parent and child is 3.46344068792394.
 
-The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (14236; 76% instances), -<tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (2401; 13% instances), -<tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (1525; 8% instances), -<tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (158; 1% instances), -<tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (156; 1% instances), -<tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (91; 0% instances), -<tt><a href="fi_ftb-pos-PART.html">PART</a></tt> (42; 0% instances), -<tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> (37; 0% instances), -<tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (36; 0% instances), -<tt><a href="fi_ftb-pos-X.html">X</a></tt> (33; 0% instances), -<tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt> (7; 0% instances), -<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `root`: -<tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (14255; 76% instances), -<tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (2392; 13% instances), -<tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (1516; 8% instances), -<tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (158; 1% instances), -<tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (156; 1% instances), -<tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (91; 0% instances), -<tt><a href="fi_ftb-pos-PART.html">PART</a></tt> (42; 0% instances), -<tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> (37; 0% instances), -<tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (36; 0% instances), -<tt><a href="fi_ftb-pos-X.html">X</a></tt> (33; 0% instances), -<tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt> (7; 0% instances).
 
 
 ~~~ conllu

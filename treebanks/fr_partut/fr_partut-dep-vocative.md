@@ -11,7 +11,7 @@ This relation is universal.
 71 nodes (0%) are attached to their parents as `vocative`.
 
 66 instances of `vocative` (93%) are right-to-left (child precedes parent).
-Average distance between parent and child is 11.7605633802817.
+Average distance between parent and child is 11.7323943661972.
 
 The following 3 pairs of parts of speech are connected with `vocative`: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (61; 86% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (7; 10% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (3; 4% instances).
 

@@ -12,7 +12,7 @@ It occurs with 3 different values: `1`, `2`, `3`.
 8231 tokens (9%) have a non-empty value of `Person`.
 239 types (2%) occur at least once with a non-empty value of `Person`.
 201 lemmas (3%) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (5599; 6% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (1725; 2% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (907; 1% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (5599; 6% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (1737; 2% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (895; 1% instances).
 
 ### `PRON`
 
@@ -25,7 +25,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (1993; 36% of non-empty `Person`): <em>I, my, we, me, us, our, myself, ourselves, 's</em>
 * `2` (103; 2% of non-empty `Person`): <em>your, yourself, itself</em>
 * `3` (3503; 63% of non-empty `Person`): <em>he, his, they, him, her, she, them, himself, its, themselves</em>
-* `EMPTY` (4029): <em>it, you, that, what, there, their, this, who, one, which</em>
+* `EMPTY` (4031): <em>it, you, that, what, there, their, this, who, one, which</em>
 
 <table>
   <tr><th>Paradigm <i>it</i></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -37,15 +37,15 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 ### `AUX`
 
-1725 <tt><a href="en_lines-pos-AUX.html">AUX</a></tt> tokens (33% of all `AUX` tokens) have a non-empty value of `Person`.
+1737 <tt><a href="en_lines-pos-AUX.html">AUX</a></tt> tokens (34% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="en_lines-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1725; 100%), <tt><a href="en_lines-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1725; 100%), <tt><a href="en_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1725; 100%), <tt><a href="en_lines-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (878; 51%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="en_lines-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1737; 100%), <tt><a href="en_lines-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1737; 100%), <tt><a href="en_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1737; 100%), <tt><a href="en_lines-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (880; 51%).
 
 `AUX` tokens may have the following values of `Person`:
 
-* `1` (915; 53% of non-empty `Person`): <em>was, am</em>
-* `3` (810; 47% of non-empty `Person`): <em>is, 's, has, does</em>
-* `EMPTY` (3440): <em>had, be, were, are, can, would, been, could, have, will</em>
+* `1` (917; 53% of non-empty `Person`): <em>was, am</em>
+* `3` (820; 47% of non-empty `Person`): <em>is, 's, has, does</em>
+* `EMPTY` (3442): <em>had, be, were, are, can, would, been, could, have, will</em>
 
 <table>
   <tr><th>Paradigm <i>be</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
@@ -55,15 +55,15 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 ### `VERB`
 
-907 <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> tokens (8% of all `VERB` tokens) have a non-empty value of `Person`.
+895 <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> tokens (8% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="en_lines-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (907; 100%), <tt><a href="en_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (907; 100%), <tt><a href="en_lines-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (907; 100%), <tt><a href="en_lines-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (662; 73%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="en_lines-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (895; 100%), <tt><a href="en_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (895; 100%), <tt><a href="en_lines-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (895; 100%), <tt><a href="en_lines-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (652; 73%).
 
 `VERB` tokens may have the following values of `Person`:
 
-* `1` (247; 27% of non-empty `Person`): <em>was, am</em>
-* `3` (660; 73% of non-empty `Person`): <em>is, 's, has, says, goes, makes, knows, means, contains, appears</em>
-* `EMPTY` (10203): <em>said, know, had, have, see, made, do, come, make, came</em>
+* `1` (245; 27% of non-empty `Person`): <em>was, am</em>
+* `3` (650; 73% of non-empty `Person`): <em>is, 's, has, says, goes, makes, knows, means, contains, appears</em>
+* `EMPTY` (10201): <em>said, know, had, have, see, made, do, come, make, came</em>
 
 <table>
   <tr><th>Paradigm <i>be</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>

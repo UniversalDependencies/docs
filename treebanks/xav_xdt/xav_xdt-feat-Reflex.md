@@ -9,19 +9,30 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-2 tokens (2%) have a non-empty value of `Reflex`.
-1 types (1%) occur at least once with a non-empty value of `Reflex`.
-1 lemmas (2%) occur at least once with a non-empty value of `Reflex`.
-The feature is used with 1 part-of-speech tags: <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> (2; 2% instances).
+10 tokens (1%) have a non-empty value of `Reflex`.
+4 types (1%) occur at least once with a non-empty value of `Reflex`.
+4 lemmas (2%) occur at least once with a non-empty value of `Reflex`.
+The feature is used with 2 part-of-speech tags: <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> (5; 0% instances).
 
-### `ADP`
+### `NOUN`
 
-2 <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> tokens (50% of all `ADP` tokens) have a non-empty value of `Reflex`.
+5 <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `ADP` and `Reflex` co-occurred: <tt><a href="xav_xdt-feat-Case.html">Case</a></tt><tt>=Dat</tt> (2; 100%), <tt><a href="xav_xdt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (2; 100%), <tt><a href="xav_xdt-feat-Person.html">Person</a></tt><tt>=1</tt> (2; 100%).
+The most frequent other feature values with which `NOUN` and `Reflex` co-occurred: <tt><a href="xav_xdt-feat-Person.html">Person</a></tt><tt>=3</tt> (5; 100%).
 
-`ADP` tokens may have the following values of `Reflex`:
+`NOUN` tokens may have the following values of `Reflex`:
 
-* `Yes` (2; 100% of non-empty `Reflex`): <em>wasima</em>
-* `EMPTY` (2): <em>ãma, ʔré</em>
+* `Yes` (5; 100% of non-empty `Reflex`): <em>tina</em>
+* `EMPTY` (339): <em>marĩ, aibö, 'watébrémi, pi'õ, a'uwẽ, buru, wapté, ba'õtõ, Mare, bötö</em>
+
+### `PRON`
+
+5 <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> tokens (8% of all `PRON` tokens) have a non-empty value of `Reflex`.
+
+The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="xav_xdt-feat-Emph.html">Emph</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="xav_xdt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="xav_xdt-feat-Case.html">Case</a></tt><tt>=Dat</tt> (4; 80%), <tt><a href="xav_xdt-feat-Person.html">Person</a></tt><tt>=1</tt> (4; 80%).
+
+`PRON` tokens may have the following values of `Reflex`:
+
+* `Yes` (5; 100% of non-empty `Reflex`): <em>wasima, ĩĩsima, asina</em>
+* `EMPTY` (54): <em>wanorĩhã, aima, tãma, õhã, Taha, aihini, anorĩwa'wahã, wama, õnorĩhã, 'wa</em>
 

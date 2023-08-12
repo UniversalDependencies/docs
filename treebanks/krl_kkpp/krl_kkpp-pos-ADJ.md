@@ -30,7 +30,7 @@ The 10 most frequent ambiguous types:  <em>toisen</em> (<tt><a href="krl_kkpp-po
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.586538 (the average of all parts of speech is 1.497382).
+The form / lemma ratio of `ADJ` is 1.586538 (the average of all parts of speech is 1.495298).
 
 The 1st highest number of forms (8) was observed with the lemma “oma”: <em>Oma, omalla, oman, omat, omie, omien, omilla, omua</em>.
 

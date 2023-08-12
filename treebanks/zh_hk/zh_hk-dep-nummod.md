@@ -22,14 +22,14 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 nummod	color:blue
-1	三	_	NUM	_	_	2	nummod	_	SpaceAfter=No
-2	歲	_	NOUN	_	NounType=Clf	7	nsubj	_	SpaceAfter=No
-3	到	_	ADP	_	_	5	case	_	SpaceAfter=No
-4	三十	_	NUM	_	_	5	nummod	_	SpaceAfter=No
-5	歲	_	NOUN	_	NounType=Clf	2	conj	_	SpaceAfter=No
-6	也	_	ADV	_	_	7	advmod	_	SpaceAfter=No
-7	喜歡	_	VERB	_	_	0	root	_	SpaceAfter=No
-8	。	_	PUNCT	_	_	7	punct	_	SpaceAfter=No
+1	三	三	NUM	_	_	2	nummod	_	SpaceAfter=No|Translit=sān|LTranslit=sān
+2	歲	歲	NOUN	_	NounType=Clf	7	nsubj	_	SpaceAfter=No|Translit=suì|LTranslit=suì
+3	到	到	ADP	_	_	5	case	_	SpaceAfter=No|Translit=dào|LTranslit=dào
+4	三十	三十	NUM	_	_	5	nummod	_	SpaceAfter=No|Translit=sānshí|LTranslit=sānshí
+5	歲	歲	NOUN	_	NounType=Clf	2	conj	_	SpaceAfter=No|Translit=suì|LTranslit=suì
+6	也	也	ADV	_	_	7	advmod	_	SpaceAfter=No|Translit=yě|LTranslit=yě
+7	喜歡	喜歡	VERB	_	_	0	root	_	SpaceAfter=No|Translit=xǐhuan|LTranslit=xǐhuan
+8	。	。	PUNCT	_	_	7	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 ~~~
 
@@ -40,16 +40,16 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 nummod	color:blue
-1	你	_	PRON	_	_	3	nsubj	_	SpaceAfter=No
-2	要	_	AUX	_	_	3	aux	_	SpaceAfter=No
-3	繳付	_	VERB	_	_	0	root	_	SpaceAfter=No
-4	四千二百六十	_	NUM	_	_	3	nummod	_	SpaceAfter=No
-5	元	_	NOUN	_	NounType=Clf	3	obj	_	SpaceAfter=No
-6	兩	_	NUM	_	_	7	nummod	_	SpaceAfter=No
-7	毫	_	NOUN	_	_	5	conj	_	SpaceAfter=No
-8	四	_	NUM	_	_	9	nummod	_	SpaceAfter=No
-9	仙	_	NOUN	_	_	5	conj	_	SpaceAfter=No
-10	。	_	PUNCT	_	_	3	punct	_	SpaceAfter=No
+1	你	你	PRON	_	_	3	nsubj	_	SpaceAfter=No|Translit=nǐ|LTranslit=nǐ
+2	要	要	AUX	_	_	3	aux	_	SpaceAfter=No|Translit=yào|LTranslit=yào
+3	繳付	繳付	VERB	_	_	0	root	_	SpaceAfter=No|Translit=jiǎofù|LTranslit=jiǎofù
+4	四千二百六十	四千二百六十	NUM	_	_	3	nummod	_	SpaceAfter=No|Translit=sìqiān'èrbǎiliùshí|LTranslit=sìqiān'èrbǎiliùshí
+5	元	元	NOUN	_	NounType=Clf	3	obj	_	SpaceAfter=No|Translit=yuán|LTranslit=yuán
+6	兩	兩	NUM	_	_	7	nummod	_	SpaceAfter=No|Translit=liǎng|LTranslit=liǎng
+7	毫	毫	NOUN	_	_	5	conj	_	SpaceAfter=No|Translit=háo|LTranslit=háo
+8	四	四	NUM	_	_	9	nummod	_	SpaceAfter=No|Translit=sì|LTranslit=sì
+9	仙	仙	NOUN	_	_	5	conj	_	SpaceAfter=No|Translit=xian|LTranslit=xian
+10	。	。	PUNCT	_	_	3	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 ~~~
 
@@ -60,18 +60,18 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 8 nummod	color:blue
-1	爺爺	_	NOUN	_	_	5	vocative	_	SpaceAfter=No
-2	，	_	PUNCT	_	_	1	punct	_	SpaceAfter=No
-3	我	_	PRON	_	_	5	nsubj	_	SpaceAfter=No
-4	可以	_	AUX	_	_	5	aux	_	SpaceAfter=No
-5	去	_	VERB	_	_	0	root	_	SpaceAfter=No
-6	看	_	VERB	_	_	5	conj	_	SpaceAfter=No
-7	新	_	ADJ	_	_	10	amod	_	SpaceAfter=No
-8	一	_	NUM	_	_	10	nummod	_	SpaceAfter=No
-9	集	_	NOUN	_	NounType=Clf	8	clf	_	SpaceAfter=No
-10	龍珠	_	PROPN	_	_	6	obj	_	SpaceAfter=No
-11	嗎	_	PART	_	_	5	discourse:sp	_	SpaceAfter=No
-12	？	_	PUNCT	_	_	5	punct	_	SpaceAfter=No
+1	爺爺	爺爺	NOUN	_	_	5	vocative	_	SpaceAfter=No|Translit=yeye|LTranslit=yeye
+2	，	，	PUNCT	_	_	1	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
+3	我	我	PRON	_	_	5	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
+4	可以	可以	AUX	_	_	5	aux	_	SpaceAfter=No|Translit=kěyǐ|LTranslit=kěyǐ
+5	去	去	VERB	_	_	0	root	_	SpaceAfter=No|Translit=qù|LTranslit=qù
+6	看	看	VERB	_	_	5	conj	_	SpaceAfter=No|Translit=kàn|LTranslit=kàn
+7	新	新	ADJ	_	_	10	amod	_	SpaceAfter=No|Translit=xīn|LTranslit=xīn
+8	一	一	NUM	_	_	10	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+9	集	集	NOUN	_	NounType=Clf	8	clf	_	SpaceAfter=No|Translit=jí|LTranslit=jí
+10	龍珠	龍珠	PROPN	_	_	6	obj	_	SpaceAfter=No|Translit=lóngzhū|LTranslit=lóngzhū
+11	嗎	嗎	PART	_	_	5	discourse:sp	_	SpaceAfter=No|Translit=ma|LTranslit=ma
+12	？	？	PUNCT	_	_	5	punct	_	SpaceAfter=No|Translit=?|LTranslit=?
 
 ~~~
 

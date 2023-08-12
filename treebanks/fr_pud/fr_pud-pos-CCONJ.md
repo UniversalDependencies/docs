@@ -6,36 +6,42 @@ udver: '2'
 
 ## Treebank Statistics: UD_French-PUD: POS Tags: `CCONJ`
 
-There are 6 `CCONJ` lemmas (0%), 6 `CCONJ` types (0%) and 561 `CCONJ` tokens (2%).
-Out of 15 observed tags, the rank of `CCONJ` is: 12 in number of lemmas, 14 in number of types and 11 in number of tokens.
+There are 5 `CCONJ` lemmas (0%), 6 `CCONJ` types (0%) and 561 `CCONJ` tokens (2%).
+Out of 15 observed tags, the rank of `CCONJ` is: 13 in number of lemmas, 14 in number of types and 11 in number of tokens.
 
-The 10 most frequent `CCONJ` lemmas: <em>et, mais, ou, car, and, où</em>
+The 10 most frequent `CCONJ` lemmas: <em>et, mais, ou, car, and</em>
 
 The 10 most frequent `CCONJ` types:  <em>et, mais, ou, car, and, où</em>
 
-The 10 most frequent ambiguous lemmas: <em>and</em> (<tt><a href="fr_pud-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="fr_pud-pos-X.html">X</a></tt> 1), <em>où</em> (<tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> 26, <tt><a href="fr_pud-pos-CCONJ.html">CCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>and</em> (<tt><a href="fr_pud-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="fr_pud-pos-X.html">X</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>and</em> (<tt><a href="fr_pud-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="fr_pud-pos-X.html">X</a></tt> 1), <em>où</em> (<tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> 26, <tt><a href="fr_pud-pos-CCONJ.html">CCONJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>and</em> (<tt><a href="fr_pud-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="fr_pud-pos-X.html">X</a></tt> 1), <em>où</em> (<tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> 26, <tt><a href="fr_pud-pos-CCONJ.html">CCONJ</a></tt> 1)
 
 
 * <em>and</em>
   * <tt><a href="fr_pud-pos-CCONJ.html">CCONJ</a></tt> 2: <em>Mais il semble que BA <b>and</b> IAG ont trouvé la solution et peuvent proposer quelque chose de vaguement fiable .</em>
   * <tt><a href="fr_pud-pos-X.html">X</a></tt> 1: <em>Dans l’ album « On a Wing <b>and</b> a Prayer » ( 1992 ) , il retrouve son partenaire Joe Egan , de le groupe Stealers Wheel , dans plusieurs morceaux .</em>
 * <em>où</em>
-  * <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> 26: <em>D’ <b>où</b> vient toute son énergie ? Et cette voix , qui pourrait provoquer des ondes de choc .</em>
+  * <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> 26: <em>D’ <b>où</b> vient toute son énergie ? Et cette voix , qui pourrait provoquer des ondes de choc .</em>
   * <tt><a href="fr_pud-pos-CCONJ.html">CCONJ</a></tt> 1: <em>« Dans les grandes villes où nous avons lancé notre travail <b>où</b> qui sont encore en cours de développement , on continuera » , confirma Barratt .</em>
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.298345).
+The form / lemma ratio of `CCONJ` is 1.200000 (the average of all parts of speech is 1.299644).
 
-The 1st highest number of forms (1) was observed with the lemma “and”: <em>and</em>.
+The 1st highest number of forms (2) was observed with the lemma “ou”: <em>ou, où</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “car”: <em>car</em>.
+The 2nd highest number of forms (1) was observed with the lemma “and”: <em>and</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “et”: <em>et</em>.
+The 3rd highest number of forms (1) was observed with the lemma “car”: <em>car</em>.
 
-`CCONJ` does not occur with any features.
+`CCONJ` occurs with 1 features: <tt><a href="fr_pud-feat-Typo.html">Typo</a></tt> (1; 0% instances)
+
+`CCONJ` occurs with 1 feature-value pairs: `Typo=Yes`
+
+`CCONJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (560 tokens).
+Examples: <em>et, mais, ou, car, and</em>
 
 
 ## Relations

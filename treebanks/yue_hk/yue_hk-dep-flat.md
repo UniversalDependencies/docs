@@ -72,7 +72,7 @@ The following 3 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 flat	color:blue
-1	Philip	Philip	PROPN	_	_	5	nsubj	_	SpaceAfter=Yes
+1	Philip	Philip	PROPN	_	_	5	nsubj	_	_
 2	Wong	Wong	PROPN	_	_	1	flat	_	SpaceAfter=No
 3	……	……	PUNCT	_	_	2	punct	_	SpaceAfter=No
 4	又	又	ADV	_	_	5	advmod	_	SpaceAfter=No

@@ -9,36 +9,36 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-736 tokens (0%) have a non-empty value of `Foreign`.
-435 types (1%) occur at least once with a non-empty value of `Foreign`.
-428 lemmas (1%) occur at least once with a non-empty value of `Foreign`.
-The feature is used with 6 part-of-speech tags: <tt><a href="et_edt-pos-X.html">X</a></tt> (642; 0% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (57; 0% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (32; 0% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+754 tokens (0%) have a non-empty value of `Foreign`.
+448 types (1%) occur at least once with a non-empty value of `Foreign`.
+439 lemmas (1%) occur at least once with a non-empty value of `Foreign`.
+The feature is used with 6 part-of-speech tags: <tt><a href="et_edt-pos-X.html">X</a></tt> (657; 0% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (60; 0% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (32; 0% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 ### `X`
 
-642 <tt><a href="et_edt-pos-X.html">X</a></tt> tokens (63% of all `X` tokens) have a non-empty value of `Foreign`.
+657 <tt><a href="et_edt-pos-X.html">X</a></tt> tokens (65% of all `X` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `X` and `Foreign` co-occurred: <tt><a href="et_edt-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (556; 87%).
+The most frequent other feature values with which `X` and `Foreign` co-occurred: <tt><a href="et_edt-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (571; 87%).
 
 `X` tokens may have the following values of `Foreign`:
 
-* `Yes` (642; 100% of non-empty `Foreign`): <em>et, al., the, of, drive, in, ceteris, de, key, paribus</em>
-* `EMPTY` (376): <em>000, of, in, al., et, 900, 600, 700, 500, F</em>
+* `Yes` (657; 100% of non-empty `Foreign`): <em>et, al., the, of, drive, in, ceteris, de, key, paribus</em>
+* `EMPTY` (360): <em>000, of, in, al., et, 900, 600, 700, 500, F</em>
 
-`Foreign` seems to be **lexical feature** of `X`. 100% lemmas (352) occur only with one value of `Foreign`.
+`Foreign` seems to be **lexical feature** of `X`. 100% lemmas (361) occur only with one value of `Foreign`.
 
 ### `NOUN`
 
-57 <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Foreign`.
+60 <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `NOUN` and `Foreign` co-occurred: <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (51; 89%), <tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (31; 54%).
+The most frequent other feature values with which `NOUN` and `Foreign` co-occurred: <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (54; 90%), <tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (32; 53%).
 
 `NOUN` tokens may have the following values of `Foreign`:
 
-* `Yes` (57; 100% of non-empty `Foreign`): <em>camera, dementia, obscura, paralytica, Body, Consejo, Eimeria, Linum, Mind, Regulador</em>
-* `EMPTY` (115394): <em>aasta, aastal, aastat, raha, osa, krooni, korda, ajal, sissetulekute, mõju</em>
+* `Yes` (60; 100% of non-empty `Foreign`): <em>camera, dementia, obscura, paralytica, Body, Consejo, Eimeria, Linum, Mind, Pruritus'e</em>
+* `EMPTY` (115375): <em>aasta, aastal, aastat, raha, osa, krooni, korda, ajal, sissetulekute, mõju</em>
 
-`Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (57) occur only with one value of `Foreign`.
+`Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (60) occur only with one value of `Foreign`.
 
 ### `PROPN`
 
@@ -49,7 +49,7 @@ The most frequent other feature values with which `PROPN` and `Foreign` co-occur
 `PROPN` tokens may have the following values of `Foreign`:
 
 * `Yes` (32; 100% of non-empty `Foreign`): <em>Estonian, The, Affairs, Big, Dietary, Dream, Estonia, Flaxseed, Foreign, In</em>
-* `EMPTY` (26495): <em>eesti, Eestis, Euroopa, Tartu, Tallinna, Peeter, Maa, Vene, Jan, Venemaa</em>
+* `EMPTY` (26490): <em>eesti, Eestis, Euroopa, Tartu, Tallinna, Peeter, Maa, Vene, Jan, Venemaa</em>
 
 `Foreign` seems to be **lexical feature** of `PROPN`. 100% lemmas (28) occur only with one value of `Foreign`.
 
@@ -62,7 +62,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (2; 100% of non-empty `Foreign`): <em>druzhnõi, fucking</em>
-* `EMPTY` (36763): <em>suur, hea, võimalik, eesti, suurem, uue, suure, raske, oluline, esimene</em>
+* `EMPTY` (36759): <em>suur, hea, võimalik, eesti, suurem, uue, suure, raske, oluline, esimene</em>
 
 ### `ADV`
 
@@ -71,7 +71,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADV` tokens may have the following values of `Foreign`:
 
 * `Yes` (2; 100% of non-empty `Foreign`): <em>Sobstvenno, ca</em>
-* `EMPTY` (42045): <em>ka, siis, nii, kas, juba, välja, aga, veel, väga, mitte</em>
+* `EMPTY` (42050): <em>ka, siis, nii, kas, juba, välja, aga, veel, väga, mitte</em>
 
 ### `CCONJ`
 
@@ -86,7 +86,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 
 The 10 most frequent relations where parent and child node agree in `Foreign`:
 <tt>X --[<tt><a href="et_edt-dep-flat-foreign.html">flat:foreign</a></tt>]--> X</tt> (178; 99%),
-<tt>X --[<tt><a href="et_edt-dep-flat.html">flat</a></tt>]--> X</tt> (83; 98%),
+<tt>X --[<tt><a href="et_edt-dep-flat.html">flat</a></tt>]--> X</tt> (88; 98%),
 <tt>NOUN --[<tt><a href="et_edt-dep-flat.html">flat</a></tt>]--> NOUN</tt> (17; 94%),
 <tt>PROPN --[<tt><a href="et_edt-dep-flat.html">flat</a></tt>]--> PROPN</tt> (11; 100%),
 <tt>X --[<tt><a href="et_edt-dep-conj.html">conj</a></tt>]--> X</tt> (8; 100%),

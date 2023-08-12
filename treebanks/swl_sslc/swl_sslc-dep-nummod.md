@@ -11,9 +11,9 @@ This relation is universal.
 16 nodes (1%) are attached to their parents as `nummod`.
 
 13 instances of `nummod` (81%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.4375.
+Average distance between parent and child is 1.5.
 
-The following 4 pairs of parts of speech are connected with `nummod`: <tt><a href="swl_sslc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="swl_sslc-pos-NUM.html">NUM</a></tt> (10; 63% instances), <tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt>-<tt><a href="swl_sslc-pos-NUM.html">NUM</a></tt> (3; 19% instances), <tt><a href="swl_sslc-pos-ADV.html">ADV</a></tt>-<tt><a href="swl_sslc-pos-NUM.html">NUM</a></tt> (2; 13% instances), <tt><a href="swl_sslc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="swl_sslc-pos-ADJ.html">ADJ</a></tt> (1; 6% instances).
+The following 3 pairs of parts of speech are connected with `nummod`: <tt><a href="swl_sslc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="swl_sslc-pos-NUM.html">NUM</a></tt> (11; 69% instances), <tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt>-<tt><a href="swl_sslc-pos-NUM.html">NUM</a></tt> (3; 19% instances), <tt><a href="swl_sslc-pos-ADV.html">ADV</a></tt>-<tt><a href="swl_sslc-pos-NUM.html">NUM</a></tt> (2; 13% instances).
 
 
 ~~~ conllu
@@ -39,12 +39,12 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 9	fgColor:white
 # visual-style 9 8 nummod	color:blue
 1	NÅGOT-KOMMA-MELLAN@z	_	VERB	VB	_	0	root	_	_
-2	LISTBOJ.TVÅ	_	X	BOJ	_	5	det	_	_
+2	LISTBOJ.TVÅ	_	DET	BOJ	_	5	det	_	_
 3	PEK>långf	_	DET	PEK	_	2	conj	_	_
 4	DÖVFÖRENING	_	NOUN	NN	_	5	compound	_	_
 5	ORDFÖRANDE	_	NOUN	NN	_	1	nsubj	_	_
-6	SUMMA@z	_	NOUN	NN	_	1	advmod	_	_
-7	BLI@z	_	VERB	VB	_	1	conj	_	_
+6	SUMMA@z	_	NOUN	NN	_	1	advcl	_	_
+7	BLI@z	_	VERB	VB	_	1	advcl	_	_
 8	TVÅ	_	NUM	RG	_	9	nummod	_	_
 9	SITTA@z	_	VERB	VB	_	7	obj	_	_
 10	SITTA	_	VERB	VB	_	9	conj	_	_
@@ -70,8 +70,8 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 10	FRÅN	_	ADP	PP	_	12	case	_	_
 11	DÄR	_	ADV	AB	_	6	conj	_	_
 12	NITTIO^SJU	_	NUM	RG	_	11	obl	_	_
-13	PEK.REL	_	PRON	PEK	_	15	case	_	_
-14	PUNKTBOJ	_	X	BOJ	_	12	det	_	_
+13	PEK.REL	_	PRON	PEK	_	15	det	_	_
+14	PUNKTBOJ	_	DET	BOJ	_	12	det	_	_
 15	I@b^DAG	_	ADV	AB	_	12	conj	_	_
 
 ~~~

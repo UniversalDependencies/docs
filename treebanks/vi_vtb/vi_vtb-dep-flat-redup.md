@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Vietnamese-VTB: Relations: `flat:redup`
 
 This relation is a language-specific subtype of <tt><a href="vi_vtb-dep-flat.html">flat</a></tt>.
-There are also 4 other language-specific subtypes of `flat`: <tt><a href="vi_vtb-dep-flat-date.html">flat:date</a></tt>, <tt><a href="vi_vtb-dep-flat-name.html">flat:name</a></tt>, <tt><a href="vi_vtb-dep-flat-number.html">flat:number</a></tt>, <tt><a href="vi_vtb-dep-flat-time.html">flat:time</a></tt>.
+There are also 5 other language-specific subtypes of `flat`: <tt><a href="vi_vtb-dep-flat-date.html">flat:date</a></tt>, <tt><a href="vi_vtb-dep-flat-foreign.html">flat:foreign</a></tt>, <tt><a href="vi_vtb-dep-flat-name.html">flat:name</a></tt>, <tt><a href="vi_vtb-dep-flat-number.html">flat:number</a></tt>, <tt><a href="vi_vtb-dep-flat-time.html">flat:time</a></tt>.
 
 3 nodes (0%) are attached to their parents as `flat:redup`.
 

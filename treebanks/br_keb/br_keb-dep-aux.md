@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="br_keb-dep-aux-pass.html">aux:pass</a></tt>.
 
-969 nodes (10%) are attached to their parents as `aux`.
+967 nodes (10%) are attached to their parents as `aux`.
 
-633 instances of `aux` (65%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.65737874097007.
+631 instances of `aux` (65%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.65667011375388.
 
-The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="br_keb-pos-VERB.html">VERB</a></tt>-<tt><a href="br_keb-pos-AUX.html">AUX</a></tt> (867; 89% instances), <tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="br_keb-pos-AUX.html">AUX</a></tt> (42; 4% instances), <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="br_keb-pos-AUX.html">AUX</a></tt> (42; 4% instances), <tt><a href="br_keb-pos-ADV.html">ADV</a></tt>-<tt><a href="br_keb-pos-AUX.html">AUX</a></tt> (7; 1% instances), <tt><a href="br_keb-pos-PRON.html">PRON</a></tt>-<tt><a href="br_keb-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="br_keb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="br_keb-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="br_keb-pos-NUM.html">NUM</a></tt>-<tt><a href="br_keb-pos-AUX.html">AUX</a></tt> (2; 0% instances).
+The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="br_keb-pos-VERB.html">VERB</a></tt>-<tt><a href="br_keb-pos-AUX.html">AUX</a></tt> (865; 89% instances), <tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="br_keb-pos-AUX.html">AUX</a></tt> (42; 4% instances), <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="br_keb-pos-AUX.html">AUX</a></tt> (42; 4% instances), <tt><a href="br_keb-pos-ADV.html">ADV</a></tt>-<tt><a href="br_keb-pos-AUX.html">AUX</a></tt> (7; 1% instances), <tt><a href="br_keb-pos-PRON.html">PRON</a></tt>-<tt><a href="br_keb-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="br_keb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="br_keb-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="br_keb-pos-NUM.html">NUM</a></tt>-<tt><a href="br_keb-pos-AUX.html">AUX</a></tt> (2; 0% instances).
 
 
 ~~~ conllu

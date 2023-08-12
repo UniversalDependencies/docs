@@ -50,7 +50,7 @@ The following 6 pairs of parts of speech are connected with `flat`: <tt><a href=
 5	brenin	Brenin	PROPN	person	_	3	nmod	_	_
 6	Edward	Edward	PROPN	person	_	5	flat	_	_
 7	I	I	NUM	num	NumForm=Roman|NumType=Card	6	flat:name	_	_
-8	a	a	PRON	rel	PronType=Rel	9	obj	_	_
+8	a	a	PRON	rel	PronType=Rel	9	nsubj	_	_
 9	thyfodd	tyfu	VERB	verb	Mood=Ind|Mutation=AM|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	acl:relcl	_	_
 10	y	y	DET	art	_	11	det	_	_
 11	dref	tref	NOUN	noun	Gender=Fem|Mutation=SM|Number=Sing	9	obj	_	_

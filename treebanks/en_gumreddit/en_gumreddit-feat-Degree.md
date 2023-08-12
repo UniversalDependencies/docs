@@ -26,7 +26,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="en_gumreddit-pos-AD
 
 ### `ADV`
 
-577 <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> tokens (53% of all `ADV` tokens) have a non-empty value of `Degree`.
+577 <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> tokens (52% of all `ADV` tokens) have a non-empty value of `Degree`.
 
 The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="en_gumreddit-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (577; 100%).
 
@@ -35,7 +35,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 * `Cmp` (54; 9% of non-empty `Degree`): <em>_</em>
 * `Pos` (509; 88% of non-empty `Degree`): <em>_</em>
 * `Sup` (14; 2% of non-empty `Degree`): <em>_</em>
-* `EMPTY` (507): <em>_</em>
+* `EMPTY` (541): <em>_</em>
 
 ### `SCONJ`
 
@@ -44,7 +44,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 `SCONJ` tokens may have the following values of `Degree`:
 
 * `Pos` (1; 100% of non-empty `Degree`): <em>_</em>
-* `EMPTY` (435): <em>_</em>
+* `EMPTY` (401): <em>_</em>
 
 ## Relations with Agreement in `Degree`
 

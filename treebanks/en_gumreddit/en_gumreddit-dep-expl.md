@@ -85,19 +85,19 @@ The following 4 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 2 expl	color:blue
-1	_	_	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Discourse=adversative-concession:77->76:0|Lem=*LOWER*|Len=4
-2	_	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	expl	5:expl	Entity=(85-abstract-new-cf4-1-cata)|Lem=_|Len=2
+1	_	_	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Discourse=adversative-concession:79->78:0|Lem=*LOWER*|Len=4
+2	_	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	expl	5:expl	Entity=(86-abstract-new-cf4-1-cata)|Lem=_|Len=2
 3	_	_	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	5:cop	Lem=be|Len=3
 4	_	_	DET	DT	Definite=Def|PronType=Art	5	det	5:det	Lem=_|Len=3
 5	_	_	NOUN	NN	Number=Sing	1	ccomp	1:ccomp	Lem=_|Len=4
-6	_	_	ADP	IN	_	10	obl	10:obl	Entity=(85-abstract-acc:com-cf4-5-coref|Lem=_|Len=4
-7	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	10	nsubj	10:nsubj	Entity=(86-person-acc:com-cf3-1-sgl)|Lem=_|Len=3
+6	_	_	ADP	IN	_	10	obl	10:obl	Entity=(86-abstract-acc:com-cf4-5-coref|Lem=_|Len=4
+7	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	10	nsubj	10:nsubj	Entity=(87-person-acc:com-cf3-1-sgl)|Lem=_|Len=3
 8	_	_	AUX	MD	VerbForm=Fin	10	aux	10:aux	Lem=_|Len=5
 9	_	_	ADV	RB	Degree=Pos	10	advmod	10:advmod	Lem=_|Len=6
 10	_	_	VERB	VB	VerbForm=Inf	5	csubj	5:csubj	Lem=_|Len=4
-11	_	_	NOUN	NN	Number=Sing	10	obj	10:obj	Entity=(48-abstract-giv:inact-cf1-1-coref)|Lem=_|Len=8
+11	_	_	NOUN	NN	Number=Sing	10	obj	10:obj	Entity=(49-abstract-giv:inact-cf1-1-coref)|Lem=_|Len=8
 12	_	_	CCONJ	CC	_	13	cc	13:cc	Lem=_|Len=3
-13	_	_	NOUN	NN	Number=Sing	11	conj	10:obj|11:conj:and	Entity=(66-abstract-giv:inact-cf2-1-coref)85)|Lem=_|Len=11
+13	_	_	NOUN	NN	Number=Sing	11	conj	10:obj|11:conj:and	Entity=(67-abstract-giv:inact-cf2-1-coref)86)|Lem=_|Len=11
 14	_	_	ADV	RB	Degree=Pos	1	advmod	1:advmod	Lem=_|Len=6|SpaceAfter=No
 15	_	_	PUNCT	.	_	1	punct	1:punct	Lem=_|Len=1
 

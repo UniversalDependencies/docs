@@ -29,7 +29,7 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 5	cartulas	chartula	NOUN	n|n|-|p|-|-|-|f|a|-	Case=Acc|Degree=Dim|Gender=Fem|Number=Plur	8	obj	_	_
 6	Lopo	lupus	PROPN	Propn|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	8	nsubj	_	_
 7	notarium	notarius	NOUN	n|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	6	appos	_	_
-8	scribere	scribo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	9	ccomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+8	scribere	scribo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	9	ccomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 9	rogavimus	rogo	VERB	v|v|1|p|r|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Perfectum
 10	.	.	PUNCT	Punc	_	9	punct	_	_
 
@@ -141,11 +141,11 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 97	ipsa	ipse	DET	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	98	det	_	_
 98	res	res	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	100	obl	_	_
 99	casa	casa	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	100	obj	_	_
-100	levare	leuo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	105	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+100	levare	leuo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	105	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 101	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	102	cc	_	_
-102	claudere	claudo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	100	conj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+102	claudere	claudo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	100	conj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 103	seo	seu	CCONJ	c|c|-|-|-|-|-|-|-|-	_	104	cc	_	_
-104	coperire	cooperio	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	100	conj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+104	coperire	cooperio	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	100	conj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 105	debeamus	debeo	VERB	v|v|1|p|p|s|a|-|-|-	Aspect=Imp|Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	94	acl	_	TraditionalMood=Subiunctivus|TraditionalTense=Praesens
 106	de	de	ADP	r|r|-|-|-|-|-|-|-|-	_	108	case	_	_
 107	triginta	triginta	NUM	m|m|-|-|-|-|-|-|-|-	NumType=Card	108	nummod	_	_

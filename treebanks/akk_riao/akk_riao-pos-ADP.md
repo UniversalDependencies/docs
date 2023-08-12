@@ -45,7 +45,7 @@ The 10 most frequent ambiguous types:  <em>ša</em> (<tt><a href="akk_riao-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.100000 (the average of all parts of speech is 1.795993).
+The form / lemma ratio of `ADP` is 1.100000 (the average of all parts of speech is 1.795510).
 
 The 1st highest number of forms (3) was observed with the lemma “_”: <em>baluš, eli, x</em>.
 

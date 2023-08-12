@@ -9,27 +9,27 @@ udver: '2'
 This feature is universal.
 It occurs with 7 different values: `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`, `Voc`.
 
-131951 tokens (43%) have a non-empty value of `Case`.
-37557 types (73%) occur at least once with a non-empty value of `Case`.
-17363 lemmas (60%) occur at least once with a non-empty value of `Case`.
-The feature is used with 11 part-of-speech tags: <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (71318; 23% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (22792; 7% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> (18880; 6% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (10312; 3% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt> (6221; 2% instances), <tt><a href="be_hse-pos-NUM.html">NUM</a></tt> (1322; 0% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (1062; 0% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (32; 0% instances), <tt><a href="be_hse-pos-SYM.html">SYM</a></tt> (8; 0% instances), <tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+131955 tokens (43%) have a non-empty value of `Case`.
+37556 types (73%) occur at least once with a non-empty value of `Case`.
+17338 lemmas (59%) occur at least once with a non-empty value of `Case`.
+The feature is used with 11 part-of-speech tags: <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (71395; 23% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (22796; 7% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> (18806; 6% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (10311; 3% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt> (6218; 2% instances), <tt><a href="be_hse-pos-NUM.html">NUM</a></tt> (1322; 0% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (1063; 0% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (32; 0% instances), <tt><a href="be_hse-pos-SYM.html">SYM</a></tt> (8; 0% instances), <tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-71318 <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Case`.
+71395 <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (59195; 83%), <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (50949; 71%), <tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (37028; 52%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (59227; 83%), <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (51024; 71%), <tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (37090; 52%).
 
 `NOUN` tokens may have the following values of `Case`:
 
-* `Acc` (14872; 21% of non-empty `Case`): <em>дзень, час, год, гады, мову, людзей, раз, каранавірус, дні, тыдзень</em>
-* `Dat` (1266; 2% of non-empty `Case`): <em>людзям, беларусам, сябрам, вуліцы, карэспандэнту, жанчынам, спасылцы, абаронцам, журналістам, народу</em>
-* `Gen` (23128; 32% of non-empty `Case`): <em>гадоў, года, людзей, чалавек, году, сакавіка, красавіка, мовы, лістапада, абароны</em>
-* `Ins` (4759; 7% of non-empty `Case`): <em>часам, чынам, заканадаўствам, каранавірусам, днём, людзьмі, назвай, мовай, удзелам, мяжой</em>
-* `Loc` (7667; 11% of non-empty `Case`): <em>годзе, сiтуацыях, цэнтры, краіне, выніку, горадзе, месцы, сайце, сядзібе, варце</em>
-* `Nom` (19615; 28% of non-empty `Case`): <em>людзі, сядзіба, сябры, дзень, арт, гурт, відэа, фота, варта, беларусы</em>
-* `Voc` (11; 0% of non-empty `Case`): <em>дружа, божа, браце, Ойча, краю, саколе, чалавеча</em>
-* `EMPTY` (1235): <em>Арт, г., вул., км, смі, ст., BYN, АМАП, рэж., в.</em>
+* `Acc` (14880; 21% of non-empty `Case`): <em>дзень, час, год, гады, мову, людзей, раз, каранавірус, дні, тыдзень</em>
+* `Dat` (1276; 2% of non-empty `Case`): <em>людзям, беларусам, сябрам, вуліцы, карэспандэнту, жанчынам, спасылцы, абаронцам, журналістам, народу</em>
+* `Gen` (23143; 32% of non-empty `Case`): <em>гадоў, года, людзей, чалавек, году, сакавіка, красавіка, мовы, лістапада, абароны</em>
+* `Ins` (4773; 7% of non-empty `Case`): <em>часам, чынам, заканадаўствам, каранавірусам, днём, людзьмі, назвай, мовай, удзелам, мяжой</em>
+* `Loc` (7669; 11% of non-empty `Case`): <em>годзе, сiтуацыях, цэнтры, краіне, выніку, горадзе, месцы, сайце, сядзібе, варце</em>
+* `Nom` (19642; 28% of non-empty `Case`): <em>людзі, сядзіба, сябры, дзень, арт, гурт, відэа, фота, варта, беларусы</em>
+* `Voc` (12; 0% of non-empty `Case`): <em>дружа, божа, браце, Госпадзі, Ойча, краю, саколе, чалавеча</em>
+* `EMPTY` (1291): <em>Арт, г., вул., км, смі, ст., BYN, АМАП, рэж., АЭС</em>
 
 <table>
   <tr><th>Paradigm <i>чалавек</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Voc</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
@@ -41,19 +41,19 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `ADJ`
 
-22792 <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> tokens (85% of all `ADJ` tokens) have a non-empty value of `Case`.
+22796 <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> tokens (85% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="be_hse-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (22547; 99%), <tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (19753; 87%), <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (16406; 72%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="be_hse-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (22471; 99%), <tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (19755; 87%), <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (16409; 72%).
 
 `ADJ` tokens may have the following values of `Case`:
 
-* `Acc` (4206; 18% of non-empty `Case`): <em>беларускую, новы, першы, новую, апошнія, новыя, беларускія, першую, другі, розныя</em>
+* `Acc` (4208; 18% of non-empty `Case`): <em>беларускую, новы, першы, новую, апошнія, новыя, беларускія, першую, другі, розныя</em>
 * `Dat` (328; 1% of non-empty `Case`): <em>беларускаму, беларускай, беларускім, маладым, народнаму, расейскай, чырвона-беламу, Чырвонай, блізкім, ваеннаму</em>
 * `Gen` (6761; 30% of non-empty `Case`): <em>беларускай, беларускіх, беларускага, новага, розных, надзвычайных, роднай, менскага, нацыянальнага, народнай</em>
-* `Ins` (1920; 8% of non-empty `Case`): <em>першым, беларускай, беларускімі, новым, бяспечным, беларускім, апошнім, вялікім, першай, бел-чырвона-белым</em>
-* `Loc` (2374; 10% of non-empty `Case`): <em>надзвычайных, беларускай, менскім, беларускім, цывільным, розных, сацыяльных, новым, першым, курапацкай</em>
+* `Ins` (1921; 8% of non-empty `Case`): <em>першым, беларускай, беларускімі, новым, бяспечным, беларускім, апошнім, вялікім, першай, бел-чырвона-белым</em>
+* `Loc` (2375; 10% of non-empty `Case`): <em>надзвычайных, беларускай, менскім, беларускім, цывільным, розных, сацыяльных, новым, першым, курапацкай</em>
 * `Nom` (7203; 32% of non-empty `Case`): <em>беларуская, беларускі, новы, добры, беларускія, першы, былы, вялікі, першая, Бяспечны</em>
-* `EMPTY` (4019): <em>2019, вядома, 2018, 12, 23, 1, 18, 25, 3, магчыма</em>
+* `EMPTY` (4020): <em>2019, вядома, 2018, 12, 23, 1, 18, 25, 3, магчыма</em>
 
 <table>
   <tr><th>Paradigm <i>беларускі</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
@@ -71,42 +71,43 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 ### `PROPN`
 
-18880 <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> tokens (92% of all `PROPN` tokens) have a non-empty value of `Case`.
+18806 <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> tokens (92% of all `PROPN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17747; 94%), <tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (11335; 60%), <tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (10699; 57%).
+The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17673; 94%), <tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (11271; 60%), <tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (10653; 57%).
 
 `PROPN` tokens may have the following values of `Case`:
 
-* `Acc` (1704; 9% of non-empty `Case`): <em>Беларусь, Курапаты, Лукашэнку, Менск, Ціханоўскую, Расею, Севярынца, Ціханоўскага, Сьвятлану, Паўла</em>
-* `Dat` (561; 3% of non-empty `Case`): <em>Беларусі, Свабодзе, Лукашэнку, Менску, Сяргею, Леаніду, Дзянісу, Максіму, Паўлу, Севярынцу</em>
-* `Gen` (5299; 28% of non-empty `Case`): <em>Беларусі, Курапатаў, Лукашэнкі, Менску, Свабоды, Ціханоўскай, Расеі, Машэрава, Ціханоўскага, Аляксандра</em>
-* `Ins` (790; 4% of non-empty `Case`): <em>Расеяй, Беларусьсю, Лукашэнкам, Менскам, Паўлам, Аляксандрам, Беларуссю, Богам, Пуціным, Сяргеем</em>
-* `Loc` (2526; 13% of non-empty `Case`): <em>Менску, Беларусі, курапатах, Горадні, Магілёве, Мінску, Віцебску, Вільні, Гомелі, Берасьці</em>
-* `Nom` (7997; 42% of non-empty `Case`): <em>Беларусь, Лукашэнка, Курапаты, Менск, Сяргей, Андрэй, Аляксандар, Севярынец, Максім, Алесь</em>
-* `Voc` (3; 0% of non-empty `Case`): <em>Іване, Госпадзі, Лявоне</em>
-* `EMPTY` (1632): <em>ЗША, COVID, БНР, БССР, БНФ, КДБ, ЦВК, ссср, БРСМ, А.</em>
+* `Acc` (1698; 9% of non-empty `Case`): <em>Беларусь, Курапаты, Лукашэнку, Менск, Ціханоўскую, Расею, Севярынца, Ціханоўскага, Сьвятлану, Паўла</em>
+* `Dat` (551; 3% of non-empty `Case`): <em>Беларусі, Свабодзе, Лукашэнку, Менску, Сяргею, Леаніду, Дзянісу, Максіму, Паўлу, Севярынцу</em>
+* `Gen` (5292; 28% of non-empty `Case`): <em>Беларусі, Курапатаў, Лукашэнкі, Менску, Свабоды, Ціханоўскай, Расеі, Машэрава, Ціханоўскага, Аляксандра</em>
+* `Ins` (776; 4% of non-empty `Case`): <em>Расеяй, Беларусьсю, Лукашэнкам, Менскам, Паўлам, Аляксандрам, Беларуссю, Пуціным, Сяргеем, Ціханоўскай</em>
+* `Loc` (2523; 13% of non-empty `Case`): <em>Менску, Беларусі, курапатах, Горадні, Магілёве, Мінску, Віцебску, Вільні, Гомелі, Берасьці</em>
+* `Nom` (7963; 42% of non-empty `Case`): <em>Беларусь, Лукашэнка, Курапаты, Менск, Сяргей, Андрэй, Аляксандар, Севярынец, Максім, Алесь</em>
+* `Voc` (3; 0% of non-empty `Case`): <em>Іване, Лявоне</em>
+* `EMPTY` (1577): <em>ЗША, COVID, БНР, БССР, БНФ, КДБ, ЦВК, ссср, БРСМ, А.</em>
 
 <table>
-  <tr><th>Paradigm <i>Іван</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Voc</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
-  <tr><td><tt><tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt></tt></td><td><em>Іван, Iвaн</em></td><td><em>Івана</em></td><td><em>Івану</em></td><td><em>Івана</em></td><td><em>Іване</em></td><td></td><td><em>Іванам</em></td></tr>
-  <tr><td><tt><tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt></tt></td><td></td><td></td><td></td><td></td><td></td><td><em>Іване</em></td><td></td></tr>
+  <tr><th>Paradigm <i>Беларусь</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
+  <tr><td><tt><tt><a href="be_hse-feat-NameType.html">NameType</a></tt><tt>=Com</tt></tt></td><td><em>Беларусь</em></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="be_hse-feat-NameType.html">NameType</a></tt><tt>=Geo</tt></tt></td><td><em>Беларусь, БЕЛАРУСЬ</em></td><td><em>Беларусь, БЕЛАРУСЬ</em></td><td><em>Беларусі, БЕЛАРУСІ, Беларусi</em></td><td><em>Беларусі, БЕЛАРУСІ, Беларусi, Беларуси</em></td><td><em>Беларусі, БЕЛАРУСІ, Беларусi, БЭЛАРУСІ, Беларуси</em></td><td><em>Беларусьсю, Беларуссю, БЕЛАРУСЬСЮ</em></td></tr>
+  <tr><td><tt><tt><a href="be_hse-feat-NameType.html">NameType</a></tt><tt>=Geo</tt>|<tt><a href="be_hse-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>Беларусь</em></td><td></td><td></td><td><em>Беларусь</em></td><td></td><td></td></tr>
 </table>
 
 ### `PRON`
 
-10312 <tt><a href="be_hse-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
+10311 <tt><a href="be_hse-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (7138; 69%), <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6602; 64%), <tt><a href="be_hse-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (5452; 53%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (7138; 69%), <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6603; 64%), <tt><a href="be_hse-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (5453; 53%).
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Acc` (2025; 20% of non-empty `Case`): <em>што, яго, гэта, іх, тое, яе, нас, вас, мяне, сябе</em>
-* `Dat` (828; 8% of non-empty `Case`): <em>нам, вам, мне, яму, ім, сабе, усім, ёй, табе, каму</em>
+* `Acc` (2024; 20% of non-empty `Case`): <em>што, яго, гэта, іх, тое, яе, нас, вас, мяне, сябе</em>
+* `Dat` (827; 8% of non-empty `Case`): <em>нам, вам, мне, яму, ім, сабе, усім, ёй, табе, каму</em>
 * `Gen` (1207; 12% of non-empty `Case`): <em>нас, іх, вас, таго, нічога, яго, мяне, якога, гэтага, якіх</em>
 * `Ins` (467; 5% of non-empty `Case`): <em>намі, чым, ім, тым, імі, сабой, гэтым, ёй, якім, вамі</em>
-* `Loc` (302; 3% of non-empty `Case`): <em>якім, тым, гэтым, ім, якой, якіх, чым, ёй, сабе, iх</em>
-* `Nom` (5483; 53% of non-empty `Case`): <em>мы, гэта, я, ён, якія, што, які, хто, яны, вы</em>
-* `EMPTY` (15): <em>што, т., то, iх, Гэта, г., тым, іх</em>
+* `Loc` (301; 3% of non-empty `Case`): <em>якім, тым, гэтым, ім, якой, якіх, чым, ёй, сабе, iх</em>
+* `Nom` (5485; 53% of non-empty `Case`): <em>мы, гэта, я, ён, якія, што, які, хто, яны, вы</em>
+* `EMPTY` (12): <em>што, т., то, Гэта, г.</em>
 
 <table>
   <tr><th>Paradigm <i>які</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
@@ -127,32 +128,31 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 ### `DET`
 
-6221 <tt><a href="be_hse-pos-DET.html">DET</a></tt> tokens (92% of all `DET` tokens) have a non-empty value of `Case`.
+6218 <tt><a href="be_hse-pos-DET.html">DET</a></tt> tokens (92% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="be_hse-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (5454; 88%), <tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4834; 78%), <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4289; 69%), <tt><a href="be_hse-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (4164; 67%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="be_hse-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (5451; 88%), <tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4833; 78%), <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4285; 69%), <tt><a href="be_hse-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (4160; 67%).
 
 `DET` tokens may have the following values of `Case`:
 
-* `Acc` (1794; 29% of non-empty `Case`): <em>свой, гэты, сваю, свае, гэтую, наш, той, сваё, іншыя, гэтыя</em>
-* `Dat` (208; 3% of non-empty `Case`): <em>тым, нашаму, вашай, кожнаму, усім, нашай, ўсёй, ўсім, нашым, іншым</em>
-* `Gen` (1148; 18% of non-empty `Case`): <em>іншых, тых, гэтага, нашай, гэтай, самых, нашых, нашага, сваіх, такіх</em>
+* `Acc` (1793; 29% of non-empty `Case`): <em>свой, гэты, сваю, свае, гэтую, наш, той, сваё, іншыя, гэтыя</em>
+* `Dat` (209; 3% of non-empty `Case`): <em>тым, нашаму, вашай, кожнаму, усім, нашай, ўсёй, ўсім, нашым, іншым</em>
+* `Gen` (1147; 18% of non-empty `Case`): <em>іншых, тых, гэтага, нашай, гэтай, самых, нашых, нашага, сваіх, такіх</em>
 * `Ins` (492; 8% of non-empty `Case`): <em>такім, адным, сваёй, гэтым, адной, тым, сваімі, самым, сваім, такой</em>
 * `Loc` (671; 11% of non-empty `Case`): <em>нашым, тым, гэтым, сваім, адным, нашай, сваёй, гэтай, ўсіх, адной</em>
-* `Nom` (1908; 31% of non-empty `Case`): <em>наш, адзін, усе, наша, гэты, кожны, самае, гэтыя, іншыя, такія</em>
-* `EMPTY` (510): <em>яго, яе, іх, iх, інш., н., мае, т.</em>
+* `Nom` (1906; 31% of non-empty `Case`): <em>наш, адзін, усе, наша, гэты, кожны, самае, гэтыя, іншыя, такія</em>
+* `EMPTY` (512): <em>яго, яе, іх, iх, інш., н., мае, т.</em>
 
 <table>
   <tr><th>Paradigm <i>наш</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
-  <tr><td><tt><tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="be_hse-feat-Poss.html">Poss</a></tt><tt>=Yes</tt>|<tt><a href="be_hse-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>нашага</em></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="be_hse-feat-Poss.html">Poss</a></tt><tt>=Yes</tt>|<tt><a href="be_hse-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>нашых</em></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>нам</em></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="be_hse-feat-Poss.html">Poss</a></tt><tt>=Yes</tt>|<tt><a href="be_hse-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>наш</em></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="be_hse-feat-Poss.html">Poss</a></tt><tt>=Yes</tt>|<tt><a href="be_hse-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>нашае, наша</em></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="be_hse-feat-Poss.html">Poss</a></tt><tt>=Yes</tt>|<tt><a href="be_hse-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>нашыя, нашы</em></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="be_hse-feat-Poss.html">Poss</a></tt><tt>=Yes</tt>|<tt><a href="be_hse-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>наш, НАШЫ</em></td><td></td><td><em>нашаму</em></td><td><em>нашага, наша</em></td><td><em>нашым</em></td><td><em>нашым</em></td></tr>
-  <tr><td><tt><tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="be_hse-feat-Poss.html">Poss</a></tt><tt>=Yes</tt>|<tt><a href="be_hse-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>наша, нашая, Ніша</em></td><td><em>нашу, нашую</em></td><td><em>нашай</em></td><td><em>нашай, нашае</em></td><td><em>нашай</em></td><td><em>нашай</em></td></tr>
-  <tr><td><tt><tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="be_hse-feat-Poss.html">Poss</a></tt><tt>=Yes</tt>|<tt><a href="be_hse-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>наша, нашае, Наше</em></td><td></td><td></td><td><em>нашага</em></td><td><em>нашым</em></td><td><em>нашым</em></td></tr>
-  <tr><td><tt><tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="be_hse-feat-Poss.html">Poss</a></tt><tt>=Yes</tt>|<tt><a href="be_hse-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>нашы, нашыя, 👏🏼Нашыя</em></td><td></td><td><em>нашым</em></td><td><em>нашых</em></td><td><em>нашых</em></td><td><em>нашымі</em></td></tr>
+  <tr><td><tt><tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>нашага</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>нашых</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>наш, нам</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>нашае, наша</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="be_hse-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>нашыя, нашы</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>наш, НАШЫ</em></td><td></td><td><em>нашаму</em></td><td><em>нашага, наша</em></td><td><em>нашым</em></td><td><em>нашым</em></td></tr>
+  <tr><td><tt><tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>наша, нашая, Ніша</em></td><td><em>нашу, нашую</em></td><td><em>нашай</em></td><td><em>нашай, нашае</em></td><td><em>нашай</em></td><td><em>нашай</em></td></tr>
+  <tr><td><tt><tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>наша, нашае, Наше</em></td><td></td><td></td><td><em>нашага</em></td><td><em>нашым</em></td><td><em>нашым</em></td></tr>
+  <tr><td><tt><tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>нашы, нашыя, 👏🏼Нашыя</em></td><td></td><td><em>нашым</em></td><td><em>нашых</em></td><td><em>нашых</em></td><td><em>нашымі</em></td></tr>
 </table>
 
 ### `NUM`
@@ -169,7 +169,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 * `Ins` (23; 2% of non-empty `Case`): <em>двума, дзвюма, адной, адным, дзьвюма, трыма, чатырма, дзвюмя</em>
 * `Loc` (47; 4% of non-empty `Case`): <em>некалькіх, двух, чатырох, многіх, трох, адным, дзвюх, дзевяці, абедзвюх, дзьвюх</em>
 * `Nom` (477; 36% of non-empty `Case`): <em>некалькі, колькі, два, тры, адзін, адна, чатыры, дзьве, столькі, двое</em>
-* `EMPTY` (4523): <em>10, 2, 5, 1, 20, 3, 100, 15, 19:00, 18</em>
+* `EMPTY` (4524): <em>10, 2, 5, 1, 20, 3, 100, 15, 19:00, 18</em>
 
 <table>
   <tr><th>Paradigm <i>два</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
@@ -187,19 +187,19 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 ### `VERB`
 
-1062 <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> tokens (3% of all `VERB` tokens) have a non-empty value of `Case`.
+1063 <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> tokens (3% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1062; 100%), <tt><a href="be_hse-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1061; 100%), <tt><a href="be_hse-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (1055; 99%), <tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1013; 95%), <tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (1001; 94%), <tt><a href="be_hse-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (949; 89%), <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (542; 51%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1063; 100%), <tt><a href="be_hse-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1062; 100%), <tt><a href="be_hse-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (1056; 99%), <tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1014; 95%), <tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (1001; 94%), <tt><a href="be_hse-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (949; 89%), <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (543; 51%).
 
 `VERB` tokens may have the following values of `Case`:
 
-* `Acc` (194; 18% of non-empty `Case`): <em>затрыманых, звязаныя, пастаўлены, прысвечаную, прысвечаны, дэмантаваныя, забытыя, забітага, зьвязаныя, прадугледжаную</em>
+* `Acc` (195; 18% of non-empty `Case`): <em>затрыманых, звязаныя, пастаўлены, прысвечаную, прысвечаны, дэмантаваныя, забытыя, забітага, зьвязаныя, прадугледжаную</em>
 * `Dat` (25; 2% of non-empty `Case`): <em>рэпрэсаваным, закатаваным, затрыманым, Аб’яднаным, Адышоўшым, Забіваным, адабранай, адданым, адмарожаным, арыштаванаму</em>
 * `Gen` (359; 34% of non-empty `Case`): <em>расстраляных, затрыманых, затрыманага, забітых, рэпрэсаваных, пералічаных, званага, асуджанага, захварэлых, падазраваных</em>
 * `Ins` (96; 9% of non-empty `Case`): <em>павешаным, затрыманымі, зьвязанымі, адданым, зачыненымі, зьняволеным, накінутай, разарванай, уключанымі, Затрыманым</em>
 * `Loc` (72; 7% of non-empty `Case`): <em>устаноўленым, ўстаноўленым, прадугледжаных, Злучаных, забруджаных, звязаных, знішчаных, абсталяваных, адведзеных, адрасаванай</em>
 * `Nom` (316; 30% of non-empty `Case`): <em>звязаныя, жадаючы, званая, прысвечаны, распаведзеная, сабраныя, Прыняты, асуджаны, датаваны, заслужаны</em>
-* `EMPTY` (30030): <em>можна, трэба, можа, жыве, няма, стала, мае, адбудзецца, затрымалі, сказаў</em>
+* `EMPTY` (30029): <em>можна, трэба, можа, жыве, няма, стала, мае, адбудзецца, затрымалі, сказаў</em>
 
 <table>
   <tr><th>Paradigm <i>затрымаць</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Ins</tt></th></tr>
@@ -220,7 +220,7 @@ The most frequent other feature values with which `ADV` and `Case` co-occurred: 
 
 * `Gen` (7; 22% of non-empty `Case`): <em>Абавязкова, канчаткова, абавязковы, часова, ўважліва</em>
 * `Nom` (25; 78% of non-empty `Case`): <em>годна, канчаткова, палітычна, цікава, эмацыйна, ўрачыста, крута, незвычаяна, пераважна, сезонна</em>
-* `EMPTY` (11012): <em>як, яшчэ, больш, тут, таксама, так, дзе, таму, ўжо, цяпер</em>
+* `EMPTY` (11008): <em>як, яшчэ, больш, тут, таксама, так, дзе, таму, ўжо, цяпер</em>
 
 <table>
   <tr><th>Paradigm <i>канчаткова</i></th><th><tt>Nom</tt></th><th><tt>Gen</tt></th></tr>
@@ -237,7 +237,7 @@ The most frequent other feature values with which `ADV` and `Case` co-occurred: 
 `SYM` tokens may have the following values of `Case`:
 
 * `Gen` (8; 100% of non-empty `Case`): <em>°С</em>
-* `EMPTY` (2597): <em>%, 📌, >, </a>, ⚡, +, 🔥, ⚡️, №, 👉</em>
+* `EMPTY` (2604): <em>%, 📌, >, </a>, ⚡, +, 🔥, ⚡️, №, 👉</em>
 
 ### `AUX`
 
@@ -264,19 +264,19 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 `CCONJ` tokens may have the following values of `Case`:
 
 * `Gen` (1; 100% of non-empty `Case`): <em>i</em>
-* `EMPTY` (8998): <em>і, а, але, ці, ды, або, й, ні, Таксама, аднак</em>
+* `EMPTY` (8999): <em>і, а, але, ці, ды, або, й, ні, Таксама, аднак</em>
 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="be_hse-dep-amod.html">amod</a></tt>]--> ADJ</tt> (18818; 95%),
-<tt>NOUN --[<tt><a href="be_hse-dep-det.html">det</a></tt>]--> DET</tt> (4526; 91%),
-<tt>NOUN --[<tt><a href="be_hse-dep-conj.html">conj</a></tt>]--> NOUN</tt> (4461; 93%),
-<tt>PROPN --[<tt><a href="be_hse-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (3630; 97%),
+<tt>NOUN --[<tt><a href="be_hse-dep-amod.html">amod</a></tt>]--> ADJ</tt> (18835; 95%),
+<tt>NOUN --[<tt><a href="be_hse-dep-det.html">det</a></tt>]--> DET</tt> (4528; 91%),
+<tt>NOUN --[<tt><a href="be_hse-dep-conj.html">conj</a></tt>]--> NOUN</tt> (4466; 93%),
+<tt>PROPN --[<tt><a href="be_hse-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (3626; 97%),
 <tt>NOUN --[<tt><a href="be_hse-dep-appos.html">appos</a></tt>]--> PROPN</tt> (1442; 61%),
 <tt>PROPN --[<tt><a href="be_hse-dep-conj.html">conj</a></tt>]--> PROPN</tt> (1004; 96%),
-<tt>ADJ --[<tt><a href="be_hse-dep-conj.html">conj</a></tt>]--> ADJ</tt> (650; 98%),
-<tt>NOUN --[<tt><a href="be_hse-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (627; 51%),
-<tt>PROPN --[<tt><a href="be_hse-dep-amod.html">amod</a></tt>]--> ADJ</tt> (450; 86%),
-<tt>NOUN --[<tt><a href="be_hse-dep-acl.html">acl</a></tt>]--> VERB</tt> (436; 65%).
+<tt>ADJ --[<tt><a href="be_hse-dep-conj.html">conj</a></tt>]--> ADJ</tt> (650; 97%),
+<tt>NOUN --[<tt><a href="be_hse-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (628; 51%),
+<tt>NOUN --[<tt><a href="be_hse-dep-acl.html">acl</a></tt>]--> VERB</tt> (437; 65%),
+<tt>PROPN --[<tt><a href="be_hse-dep-amod.html">amod</a></tt>]--> ADJ</tt> (435; 86%).
 

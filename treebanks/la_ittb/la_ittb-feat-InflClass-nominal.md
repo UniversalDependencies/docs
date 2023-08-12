@@ -11,16 +11,16 @@ It occurs with 4 different values: `IndEurA`, `IndEurI`, `IndEurO`, `IndEurX`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt>, <tt><a href="la_ittb-feat-InflClass-nominal.html">InflClass[nominal]</a></tt>.
 
-16564 tokens (4%) have a non-empty value of `InflClass[nominal]`.
-3599 types (18%) occur at least once with a non-empty value of `InflClass[nominal]`.
+16571 tokens (4%) have a non-empty value of `InflClass[nominal]`.
+3601 types (18%) occur at least once with a non-empty value of `InflClass[nominal]`.
 940 lemmas (16%) occur at least once with a non-empty value of `InflClass[nominal]`.
-The feature is used with 2 part-of-speech tags: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (16377; 4% instances), <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (187; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (16384; 4% instances), <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (187; 0% instances).
 
 ### `VERB`
 
-16377 <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> tokens (27% of all `VERB` tokens) have a non-empty value of `InflClass[nominal]`.
+16384 <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> tokens (27% of all `VERB` tokens) have a non-empty value of `InflClass[nominal]`.
 
-The most frequent other feature values with which `VERB` and `InflClass[nominal]` co-occurred: <tt><a href="la_ittb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (16377; 100%), <tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (16377; 100%), <tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (16377; 100%), <tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (16377; 100%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12229; 75%), <tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (11480; 70%), <tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (8889; 54%), <tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=LatX</tt> (8758; 53%), <tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (8434; 51%).
+The most frequent other feature values with which `VERB` and `InflClass[nominal]` co-occurred: <tt><a href="la_ittb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (16384; 100%), <tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (16384; 100%), <tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (16384; 100%), <tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (16384; 100%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12233; 75%), <tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (11485; 70%), <tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (8894; 54%), <tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=LatX</tt> (8761; 53%), <tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (8437; 51%).
 
 `VERB` tokens may have the following values of `InflClass[nominal]`:
 
@@ -104,5 +104,5 @@ The most frequent other feature values with which `AUX` and `InflClass[nominal]`
 ## Relations with Agreement in `InflClass[nominal]`
 
 The 10 most frequent relations where parent and child node agree in `InflClass[nominal]`:
-<tt>VERB --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> VERB</tt> (480; 52%).
+<tt>VERB --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> VERB</tt> (481; 52%).
 

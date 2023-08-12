@@ -109,4 +109,4 @@ Occurs e.g. in Aghul [agx] and Khasi [kha]. The entity is both remote from the s
 * [agx] _<b>ge</b>_ “that (below)”
 * [kha] _<b>u-thie</b>_ “he (below)”
 
-<!-- Interlanguage links updated Po lis 14 15:34:44 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:35 CEST -->

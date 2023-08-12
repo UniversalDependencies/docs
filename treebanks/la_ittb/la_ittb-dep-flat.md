@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-99 nodes (0%) are attached to their parents as `flat`.
+104 nodes (0%) are attached to their parents as `flat`.
 
-99 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.03030303030303.
+104 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.02884615384615.
 
-The following 4 pairs of parts of speech are connected with `flat`: <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> (44; 44% instances), <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (38; 38% instances), <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> (13; 13% instances), <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (4; 4% instances).
+The following 5 pairs of parts of speech are connected with `flat`: <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> (44; 42% instances), <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (35; 34% instances), <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> (13; 13% instances), <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (11; 11% instances), <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -38,22 +38,22 @@ The following 4 pairs of parts of speech are connected with `flat`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 8 flat	color:blue
-1	de	de	ADP	S4	_	2	case	_	_
-2	deo	deus	PROPN	F1|grn1|casF|gen1	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Sing	10	obl	_	_
-3	autem	autem	PART	O4	_	10	discourse	_	_
-4	patre	pater	NOUN	C1|grn1|casF|gen1	Case=Abl|Gender=Masc|InflClass=IndEurX|Number=Sing	2	appos	_	_
-5	et	et	CCONJ	O4	_	7	cc	_	_
-6	de	de	ADP	S4	_	7	case	_	_
-7	deo	deus	PROPN	F1|grn1|casF|gen1	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Sing	2	conj	_	_
-8	filio	filius	NOUN	B1|grn1|casF|gen1	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Sing	7	flat	_	_
-9	opposita	oppono	VERB	L2|modM|tem4|grp1|casJ|gen3	Aspect=Perf|Case=Nom|Gender=Neut|InflClass=LatX|InflClass[nominal]=IndEurO|Number=Plur|VerbForm=Part|Voice=Pass	10	csubj:pass	_	TraditionalMood=Participium|TraditionalTense=Perfectum
-10	praedicantur	praedico	VERB	J3|modJ|tem1|gen9|vgr1	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
-11	:	:	PUNCT	Punc	_	10	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 flat	color:blue
+1	sed	sed	CCONJ	O4|vgr1	_	4	cc	_	_
+2	deus	deus	PROPN	F1|grn1|casA|gen1	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing	4	nsubj	_	_
+3	pater	pater	NOUN	C1|grn1|casA|gen1	Case=Nom|Gender=Masc|InflClass=IndEurX|Number=Sing	2	flat	_	_
+4	dat	do	VERB	J3|modA|tem1|gen6	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
+5	spiritum	spiritus	NOUN	D1|grn1|casD|gen1	Case=Acc|Gender=Masc|InflClass=IndEurU|Number=Sing	4	obj	_	_
+6	sanctum	sanctus	ADJ	B1|grn1|casD|gen1	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing	5	amod	_	SpaceAfter=No
+7	,	,	PUNCT	Punc	_	10	punct	_	_
+8	et	et	CCONJ	O4	_	10	advmod:emph	_	_
+9	similiter	similis	NOUN	C1|grn1|casG	Case=Loc|Number=Sing	10	orphan	_	_
+10	filius	filius	NOUN	B1|grn1|casA|gen1	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing	4	conj	_	SpaceAfter=No
+11	.	.	PUNCT	Punc	_	4	punct	_	_
 
 ~~~
 

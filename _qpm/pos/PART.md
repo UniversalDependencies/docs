@@ -29,9 +29,9 @@ Particles are normally not inflected, although exceptions may occur.
     * _na káza ní kaná_ "he did not say anything" [lit. "he did not say nothing"]	
 * demonstrative particle: _na_ "here is / are" "this is wh- / how"
     * _na kadé so nahtárevete_ "this is where the keys are" [lit. "here is where are the keys]
-* interrogative particles: _li / dalí_ "question particle"
+<!-- * interrogative particles: _li / dalí_ "question particle"
     * _ažónen li si?_ "are you married?" [lit. "married you?"]
-    * _dalí dójdom i ja sas vámi?_ "should I come with you?" [lit. "come and I with you?"
+    * _dalí dójdom i ja sas vámi?_ "should I come with you?" [lit. "come and I with you?"-->
 * verbal particles: _dá_ "let"
     * _dá právi kanána íšte_ "let him / her do whatever he /she wants" [lit. "let do whatever wants"]
     * _dá slúšot, nýje na dúmime nǽko skrýto_ "let them listen, we say nothing secret" [lit."let listen, we not say something secret"]
@@ -55,4 +55,4 @@ A dedicated set of particles are preposed to interrogative pronouns/determiners 
 * _ní_ ([PartTypeQpm=Neg](../feat/PartTypeQpm.md)) as in _ní kutrí_ "no one" and _ní kadé_ "nowhere"
 * _sǽ_ ([PartTypeQpm=Tot](../feat/PartTypeQpm.md)) as in _sǽ kutrí_ "everybody" "everyone" "every" and _sǽ kadé_ "everywhere"
 "every~ / of all kinds / qualities - in all / every~ / all of~"
-<!-- Interlanguage links updated Po lis 14 15:34:34 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:26 CEST -->

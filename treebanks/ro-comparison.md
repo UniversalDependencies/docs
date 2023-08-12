@@ -3498,7 +3498,17 @@ udver: '2'
 
     </td>
     <td width="25%" valign="top">
-
+      <ul>
+        <li><a>Typo</a>
+          <ul>
+            <li>Yes
+              <ul>
+                <li>ADP: pînă</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="25%" valign="top">
       <ul>

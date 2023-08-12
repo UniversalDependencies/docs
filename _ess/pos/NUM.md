@@ -9,4 +9,4 @@ A numeral is a word that expresses a number and a relation to the number, such a
 
 ### Examples
 - _maaghraghvinleg-_ "seven (base)" (as in _maaghraghvinleg_ "by the means of seven")
-<!-- Interlanguage links updated Po lis 14 15:34:33 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:26 CEST -->

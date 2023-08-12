@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-134 nodes (4%) are attached to their parents as `advmod`.
+159 nodes (3%) are attached to their parents as `advmod`.
 
-80 instances of `advmod` (60%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.43283582089552.
+94 instances of `advmod` (59%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.37106918238994.
 
-The following 15 pairs of parts of speech are connected with `advmod`: <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-ADV.html">ADV</a></tt> (49; 37% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-ADV.html">ADV</a></tt> (28; 21% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> (28; 21% instances), <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_cadhan-pos-ADV.html">ADV</a></tt> (9; 7% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt> (6; 4% instances), <tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_cadhan-pos-ADV.html">ADV</a></tt> (4; 3% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_cadhan-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="ga_cadhan-pos-PART.html">PART</a></tt>-<tt><a href="ga_cadhan-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_cadhan-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 16 pairs of parts of speech are connected with `advmod`: <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-ADV.html">ADV</a></tt> (57; 36% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> (35; 22% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-ADV.html">ADV</a></tt> (32; 20% instances), <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_cadhan-pos-ADV.html">ADV</a></tt> (10; 6% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt> (10; 6% instances), <tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_cadhan-pos-ADV.html">ADV</a></tt> (4; 3% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_cadhan-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="ga_cadhan-pos-PART.html">PART</a></tt>-<tt><a href="ga_cadhan-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_cadhan-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -33,21 +33,6 @@ The following 15 pairs of parts of speech are connected with `advmod`: <tt><a hr
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 4 advmod	color:blue
-1	Mo	mo	DET	_	Number=Sing|Person=1|Poss=Yes	2	nmod:poss	_	_
-2	thruaigh	trua	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Fem|Number=Sing	0	root	_	_
-3	é	é	PRON	_	Gender=Masc|Number=Sing|Person=3	2	nmod	_	_
-4	anocht	anocht	ADV	_	_	2	advmod	_	SpaceAfter=No
-5	!	!	PUNCT	_	_	2	punct	_	SpacesAfter=\n
-
-~~~
-
-
-~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 2	bgColor:blue
@@ -60,6 +45,21 @@ The following 15 pairs of parts of speech are connected with `advmod`: <tt><a hr
 5	cuaiche	cuach	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
 6	fós	fós	ADV	_	_	2	advmod	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 4 advmod	color:blue
+1	Mo	mo	DET	_	Number=Sing|Person=1|Poss=Yes	2	nmod:poss	_	_
+2	thruaigh	trua	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Fem|Number=Sing	0	root	_	_
+3	é	é	PRON	_	Gender=Masc|Number=Sing|Person=3	2	nmod	_	_
+4	anocht	anocht	ADV	_	_	2	advmod	_	SpaceAfter=No
+5	!	!	PUNCT	_	_	2	punct	_	SpacesAfter=\n
 
 ~~~
 

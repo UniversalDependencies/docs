@@ -54,7 +54,7 @@ The following 3 pairs of parts of speech are connected with `goeswith`: <tt><a h
 3	parc	parc	NOUN	NN	Gender=Masc|Number=Sing	19	obl	_	_
 4	de	de	ADP	IN	_	6	case	_	_
 5	la	le	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
-6	Porte-d’	Porte-d’Or	NOUN	NN	Gender=Fem|Number=Sing|Typo=Yes	3	nmod	_	Proper=True|CorrectForm=porte-d’or
+6	Porte-d’	Porte-d’Or	NOUN	NN	Gender=Fem|Number=Sing|Typo=Yes	3	nmod	_	CorrectForm=porte-d’or|Proper=True
 7	Or	_	X	GW	_	6	goeswith	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	11	punct	_	_
 9	qui	qui	PRON	WP	PronType=Rel	11	nsubj	_	_

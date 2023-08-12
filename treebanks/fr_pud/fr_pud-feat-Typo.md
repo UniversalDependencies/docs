@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-5 tokens (0%) have a non-empty value of `Typo`.
-5 types (0%) occur at least once with a non-empty value of `Typo`.
-5 lemmas (0%) occur at least once with a non-empty value of `Typo`.
-The feature is used with 4 part-of-speech tags: <tt><a href="fr_pud-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+6 tokens (0%) have a non-empty value of `Typo`.
+6 types (0%) occur at least once with a non-empty value of `Typo`.
+6 lemmas (0%) occur at least once with a non-empty value of `Typo`.
+The feature is used with 5 part-of-speech tags: <tt><a href="fr_pud-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 ### `DET`
 
@@ -31,6 +31,14 @@ The most frequent other feature values with which `ADV` and `Typo` co-occurred: 
 `ADV` tokens may have the following values of `Typo`:
 
 * `Yes` (1; 100% of non-empty `Typo`): <em>aujourd</em>
+
+### `CCONJ`
+
+1 <tt><a href="fr_pud-pos-CCONJ.html">CCONJ</a></tt> tokens (0% of all `CCONJ` tokens) have a non-empty value of `Typo`.
+
+`CCONJ` tokens may have the following values of `Typo`:
+
+* `Yes` (1; 100% of non-empty `Typo`): <em>où</em>
 
 ### `NOUN`
 

@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Vietnamese-VTB: Relations: `flat`
 
 This relation is universal.
-There are 5 language-specific subtypes of `flat`: <tt><a href="vi_vtb-dep-flat-date.html">flat:date</a></tt>, <tt><a href="vi_vtb-dep-flat-name.html">flat:name</a></tt>, <tt><a href="vi_vtb-dep-flat-number.html">flat:number</a></tt>, <tt><a href="vi_vtb-dep-flat-redup.html">flat:redup</a></tt>, <tt><a href="vi_vtb-dep-flat-time.html">flat:time</a></tt>.
+There are 6 language-specific subtypes of `flat`: <tt><a href="vi_vtb-dep-flat-date.html">flat:date</a></tt>, <tt><a href="vi_vtb-dep-flat-foreign.html">flat:foreign</a></tt>, <tt><a href="vi_vtb-dep-flat-name.html">flat:name</a></tt>, <tt><a href="vi_vtb-dep-flat-number.html">flat:number</a></tt>, <tt><a href="vi_vtb-dep-flat-redup.html">flat:redup</a></tt>, <tt><a href="vi_vtb-dep-flat-time.html">flat:time</a></tt>.
 
-17 nodes (0%) are attached to their parents as `flat`.
+16 nodes (0%) are attached to their parents as `flat`.
 
-17 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.70588235294118.
+16 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.75.
 
-The following 6 pairs of parts of speech are connected with `flat`: <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (11; 65% instances), <tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (2; 12% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> (1; 6% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-CCONJ.html">CCONJ</a></tt> (1; 6% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-SYM.html">SYM</a></tt> (1; 6% instances), <tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt>-<tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt> (1; 6% instances).
+The following 6 pairs of parts of speech are connected with `flat`: <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (9; 56% instances), <tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt>-<tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt> (2; 13% instances), <tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (2; 13% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> (1; 6% instances), <tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt>-<tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt> (1; 6% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
@@ -43,6 +43,57 @@ The following 6 pairs of parts of speech are connected with `flat`: <tt><a href=
 
 
 ~~~ conllu
+# visual-style 37	bgColor:blue
+# visual-style 37	fgColor:white
+# visual-style 36	bgColor:blue
+# visual-style 36	fgColor:white
+# visual-style 36 37 flat	color:blue
+1	Vừa	vừa	ADV	ADV	_	2	advmod	_	_
+2	bám	bám	VERB	V	_	0	root	_	_
+3	giữ	giữ	VERB	V	_	2	xcomp	_	_
+4	cho	cho	ADV	ADV	_	3	advmod	_	_
+5	được	được	ADV	ADV	_	4	flat	_	_
+6	theo	theo	ADP	PRE	_	8	case	_	_
+7	sợi	sợi	NOUN	N	_	8	clf:det	_	_
+8	dây	dây	NOUN	N	_	3	obl	_	_
+9	người ta	người ta	PRON	PRO	_	10	nsubj	_	_
+10	thả	thả	VERB	V	_	8	acl	_	_
+11	xuống	xuống	VERB	V	_	10	compound:dir	_	_
+12	từ	từ	ADP	PRE	_	14	case	_	_
+13	trên	trên	NOUN	N	_	14	nmod	_	_
+14	tàu	tàu	NOUN	N	_	10	obl:comp	_	_
+15	,	,	PUNCT	PUNCT	_	17	punct	_	_
+16	vừa	vừa	ADV	ADV	_	17	advmod	_	_
+17	lượn	lượn	VERB	V	_	2	conj	_	_
+18	người	người	NOUN	N	_	17	obj	_	_
+19	để	để	ADP	PRE	_	20	mark:pcomp	_	_
+20	giảm	giảm	VERB	V	_	17	advcl:objective	_	_
+21	sức	sức	NOUN	N	_	20	obj	_	_
+22	va đập	va đập	VERB	V	_	21	compound:vmod	_	_
+23	do	do	ADP	PRE	_	25	mark	_	_
+24	sóng	sóng	NOUN	N	_	25	nsubj	_	_
+25	đánh	đánh	VERB	V	_	21	advcl	_	_
+26	dập	dập	VERB	V	_	25	xcomp	_	_
+27	mình	mình	NOUN	N	_	26	obj	_	_
+28	vào	vào	ADP	PRE	_	29	case	_	_
+29	thành	thành	NOUN	N	_	26	obl:comp	_	_
+30	tàu	tàu	NOUN	N	_	29	compound	_	_
+31	,	,	PUNCT	PUNCT	_	34	punct	_	_
+32	đồng thời	đồng thời	ADV	ADV	_	34	advmod	_	_
+33	phải	phải	AUX	AUX	_	34	aux	_	_
+34	gắng sức	gắng sức	VERB	V	_	2	conj	_	_
+35	bám	bám	VERB	V	_	34	xcomp	_	_
+36	cho	cho	ADV	ADV	_	35	advmod	_	_
+37	được	được	ADV	ADV	_	36	flat	_	_
+38	vào	vào	ADP	PRE	_	39	case	_	_
+39	thang	thang	NOUN	N	_	35	obl:comp	_	_
+40	dây	dây	NOUN	N	_	39	compound	_	_
+41	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 7	bgColor:blue
@@ -66,29 +117,6 @@ The following 6 pairs of parts of speech are connected with `flat`: <tt><a href=
 16	đã	đã	ADV	Adv	_	17	advmod	_	_
 17	khóc	khóc	VERB	V	_	0	root	_	_
 18	...	...	PUNCT	...	_	17	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 7 flat	color:blue
-1	Lòng	lòng	NOUN	N	_	4	nsubj	_	_
-2	địa đạo	địa đạo	NOUN	N	_	1	nmod	_	_
-3	không	không	ADV	Adv	_	4	advmod:neg	_	_
-4	thẳng	thẳng	ADJ	Adj	_	0	root	_	_
-5	mà	mà	SCONJ	SC	_	4	mark	_	_
-6	ngoằn ngoèo	ngoằn ngoèo	ADJ	Adj	_	4	conj	_	_
-7	uốn khúc	uốn khúc	ADJ	Adj	_	6	flat	_	_
-8	,	,	PUNCT	,	_	9	punct	_	_
-9	ngoắt	ngoắt	ADJ	Adj	_	4	conj	_	_
-10	qua	qua	ADV	Adv	_	9	advmod	_	_
-11	ngoắt	ngoắt	ADJ	Adj	_	9	conj	_	_
-12	lại	lại	ADV	Adv	_	11	advmod	_	_
-13	.	.	PUNCT	.	_	4	punct	_	_
 
 ~~~
 

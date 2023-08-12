@@ -11,77 +11,78 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="yrl_complin-feat-Number.html">Number</a></tt>, <tt><a href="yrl_complin-feat-Number-grnd.html">Number[grnd]</a></tt>, <tt><a href="yrl_complin-feat-Number-psor.html">Number[psor]</a></tt>.
 
-893 tokens (42%) have a non-empty value of `Number`.
-377 types (65%) occur at least once with a non-empty value of `Number`.
-268 lemmas (58%) occur at least once with a non-empty value of `Number`.
-The feature is used with 5 part-of-speech tags: <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (370; 17% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (305; 14% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (144; 7% instances), <tt><a href="yrl_complin-pos-DET.html">DET</a></tt> (50; 2% instances), <tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (24; 1% instances).
+3267 tokens (38%) have a non-empty value of `Number`.
+912 types (68%) occur at least once with a non-empty value of `Number`.
+602 lemmas (60%) occur at least once with a non-empty value of `Number`.
+The feature is used with 5 part-of-speech tags: <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (1392; 16% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (1132; 13% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (496; 6% instances), <tt><a href="yrl_complin-pos-DET.html">DET</a></tt> (175; 2% instances), <tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (72; 1% instances).
 
 ### `NOUN`
 
-370 <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
+1392 <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="yrl_complin-feat-Rel.html">Rel</a></tt><tt>=EMPTY</tt> (277; 75%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="yrl_complin-feat-Rel.html">Rel</a></tt><tt>=EMPTY</tt> (1109; 80%).
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (41; 11% of non-empty `Number`): <em>mira-itá, anama-itá, apigawa-itá, kunhã-itá, kurupira-itá, rundewara-itá, Itá-itá, Pirá-itá, akayú-itá, arawara-itá</em>
-* `Sing` (329; 89% of non-empty `Number`): <em>manha, apigawa, kunhã, ara, mira, pituna, itá, kurumiwasú, paya, pirá</em>
+* `Plur` (142; 10% of non-empty `Number`): <em>apigawa-itá, mira-itá, anama-itá, kunhã-itá, maã-itá, pindá-itá, taína-itá, Pirá-itá, mirá-itá, iwá-itá</em>
+* `Sing` (1250; 90% of non-empty `Number`): <em>ara, igara, manha, mira, kunhã, apigawa, pituna, nheenga, pirá, itá</em>
+* `EMPTY` (7): <em>amukwesé, real, Compadre, navio, trigo</em>
 
 <table>
-  <tr><th>Paradigm <i>apigawa</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>apigawa</em></td><td><em>apigawa-itá</em></td></tr>
+  <tr><th>Paradigm <i>uka</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="yrl_complin-feat-Aspect.html">Aspect</a></tt><tt>=Freq</tt>|<tt><a href="yrl_complin-feat-Rel.html">Rel</a></tt><tt>=Cont</tt>|<tt><a href="yrl_complin-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>rukawara</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="yrl_complin-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="yrl_complin-feat-Rel.html">Rel</a></tt><tt>=NCont</tt></tt></td><td><em>suka</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="yrl_complin-feat-Rel.html">Rel</a></tt><tt>=Abs</tt></tt></td><td><em>uka</em></td><td><em>uka-itá</em></td></tr>
+  <tr><td><tt><tt><a href="yrl_complin-feat-Rel.html">Rel</a></tt><tt>=Cont</tt></tt></td><td><em>ruka</em></td><td></td></tr>
 </table>
-
-`Number` seems to be **lexical feature** of `NOUN`. 93% lemmas (167) occur only with one value of `Number`.
 
 ### `PRON`
 
-305 <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> tokens (88% of all `PRON` tokens) have a non-empty value of `Number`.
+1132 <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> tokens (91% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="yrl_complin-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (226; 74%), <tt><a href="yrl_complin-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (215; 70%), <tt><a href="yrl_complin-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (184; 60%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="yrl_complin-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (917; 81%), <tt><a href="yrl_complin-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (855; 76%), <tt><a href="yrl_complin-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (684; 60%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (92; 30% of non-empty `Number`): <em>aintá, waá-itá, yané, yandé, ta, pe, Amú-itá, penhẽ, Nhaã-itá, kwá-itá</em>
-* `Sing` (213; 70% of non-empty `Number`): <em>waá, i, se, aé, ixé, ne, indé, amú, kwá, nhaã</em>
-* `EMPTY` (41): <em>maã, aité, awá, panhẽ, yepé, i, siiya</em>
+* `Plur` (382; 34% of non-empty `Number`): <em>aintá, ta, yané, waá-itá, yandé, pe, penhẽ, amú-itá, kwá-itá, nhaã-itá</em>
+* `Sing` (750; 66% of non-empty `Number`): <em>i, se, waá, aé, indé, ixé, ne, kwá, nhaã, amú</em>
+* `EMPTY` (106): <em>maã, awá, aité, yepé, panhẽ, Muíri, manungara, pawa, penhé, aé</em>
 
 <table>
   <tr><th>Paradigm <i>waá</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt>_</tt></td><td><em>waá</em></td><td><em>waá-itá</em></td></tr>
-  <tr><td><tt><tt><a href="yrl_complin-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td><em>waá</em></td><td></td></tr>
+  <tr><td><tt></tt></td><td><em>waá</em></td><td><em>waá-itá</em></td></tr>
 </table>
 
 ### `VERB`
 
-144 <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> tokens (41% of all `VERB` tokens) have a non-empty value of `Number`.
+496 <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> tokens (37% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="yrl_complin-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (144; 100%), <tt><a href="yrl_complin-feat-Person.html">Person</a></tt><tt>=1</tt> (83; 58%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="yrl_complin-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (496; 100%), <tt><a href="yrl_complin-feat-Person.html">Person</a></tt><tt>=1</tt> (274; 55%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (53; 37% of non-empty `Number`): <em>yaú, yamaã, yamunhã, pesendú, Yamanú, Yamburi, Yamusaka, Yasemu, Yasika, pekwawa</em>
-* `Sing` (91; 63% of non-empty `Number`): <em>reputari, akwáu, asú, ayapí, ayuíri, repusú, resú, Remaité, akwá, ambeú</em>
-* `EMPTY` (208): <em>umunhã, urikú, upurandú, unheẽ, upisika, uwatá, umaã, umbeú, umundú, urasú</em>
+* `Plur` (156; 31% of non-empty `Number`): <em>yamaã, yamunhã, taunheẽ, yaú, pemaã, yasú, pembeú, pemunhã, pesendú, peú</em>
+* `Sing` (340; 69% of non-empty `Number`): <em>asú, reputari, ambeú, akwáu, surí, aputari, resú, amaã, amunhã, ayuíri</em>
+* `EMPTY` (860): <em>usika, umaã, unheẽ, usú, umunhã, umbeú, upisika, urikú, uri, upitá</em>
 
 <table>
-  <tr><th>Paradigm <i>munhã</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="yrl_complin-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>amunhã</em></td><td><em>yamunhã</em></td></tr>
-  <tr><td><tt><tt><a href="yrl_complin-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td><em>remunhã</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="yrl_complin-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>taumunhã</em></td></tr>
+  <tr><th>Paradigm <i>maã</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="yrl_complin-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>amaã</em></td><td><em>yamaã</em></td></tr>
+  <tr><td><tt><tt><a href="yrl_complin-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td><em>remaã</em></td><td><em>pemaã</em></td></tr>
+  <tr><td><tt><tt><a href="yrl_complin-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>taumaã</em></td></tr>
 </table>
 
 ### `DET`
 
-50 <tt><a href="yrl_complin-pos-DET.html">DET</a></tt> tokens (63% of all `DET` tokens) have a non-empty value of `Number`.
+175 <tt><a href="yrl_complin-pos-DET.html">DET</a></tt> tokens (62% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="yrl_complin-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (50; 100%), <tt><a href="yrl_complin-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (46; 92%), <tt><a href="yrl_complin-feat-Deixis.html">Deixis</a></tt><tt>=Prox</tt> (29; 58%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="yrl_complin-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (175; 100%), <tt><a href="yrl_complin-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (156; 89%), <tt><a href="yrl_complin-feat-Deixis.html">Deixis</a></tt><tt>=Prox</tt> (107; 61%).
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (3; 6% of non-empty `Number`): <em>kwá-itá</em>
-* `Sing` (47; 94% of non-empty `Number`): <em>kwá, nhaã, amú</em>
-* `EMPTY` (29): <em>yepé, panhẽ, muíri, turusú, Maã, awá, siiya</em>
+* `Plur` (14; 8% of non-empty `Number`): <em>kwá-itá, amú-itá, nhaã-itá</em>
+* `Sing` (161; 92% of non-empty `Number`): <em>kwá, nhaã, amú, kwaá</em>
+* `EMPTY` (108): <em>yepé, panhẽ, muíri, aé, setá, siiya, siía, Maã, awá, turusú</em>
 
 <table>
   <tr><th>Paradigm <i>kwá</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -91,33 +92,34 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 ### `AUX`
 
-24 <tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> tokens (39% of all `AUX` tokens) have a non-empty value of `Number`.
+72 <tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> tokens (35% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="yrl_complin-feat-Compound.html">Compound</a></tt><tt>=EMPTY</tt> (24; 100%), <tt><a href="yrl_complin-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (24; 100%), <tt><a href="yrl_complin-feat-Person.html">Person</a></tt><tt>=1</tt> (16; 67%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="yrl_complin-feat-Compound.html">Compound</a></tt><tt>=EMPTY</tt> (72; 100%), <tt><a href="yrl_complin-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (72; 100%), <tt><a href="yrl_complin-feat-Person.html">Person</a></tt><tt>=1</tt> (57; 79%).
 
 `AUX` tokens may have the following values of `Number`:
 
-* `Plur` (9; 38% of non-empty `Number`): <em>pesú, yasú, yaikú, yapuderi</em>
-* `Sing` (15; 63% of non-empty `Number`): <em>asú, aikú, Repuderi, Resú, aputari, reikú, rekwáu, uikú</em>
-* `EMPTY` (38): <em>kwáu, uikú, usú, putari, uputari</em>
+* `Plur` (24; 33% of non-empty `Number`): <em>yasú, yaikú, pesú, yapuderi, peikú, yayuíri</em>
+* `Sing` (48; 67% of non-empty `Number`): <em>asú, aikú, reikú, resú, aputari, Repuderi, apuderi, ayuíri, rekwáu, reputari</em>
+* `EMPTY` (135): <em>uikú, usú, kwáu, putari, upuderi, uputari, uikuwera</em>
 
 <table>
-  <tr><th>Paradigm <i>sú</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="yrl_complin-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>asú</em></td><td><em>yasú</em></td></tr>
-  <tr><td><tt><tt><a href="yrl_complin-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td><em>Resú</em></td><td><em>pesú</em></td></tr>
+  <tr><th>Paradigm <i>ikú</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="yrl_complin-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>aikú</em></td><td><em>yaikú</em></td></tr>
+  <tr><td><tt><tt><a href="yrl_complin-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td><em>reikú</em></td><td><em>peikú</em></td></tr>
+  <tr><td><tt><tt><a href="yrl_complin-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>uikú</em></td><td></td></tr>
 </table>
 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="yrl_complin-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (66; 70%),
-<tt>NOUN --[<tt><a href="yrl_complin-dep-det.html">det</a></tt>]--> DET</tt> (36; 53%),
-<tt>NOUN --[<tt><a href="yrl_complin-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (27; 82%),
-<tt>VERB --[<tt><a href="yrl_complin-dep-aux.html">aux</a></tt>]--> AUX</tt> (20; 74%),
-<tt>VERB --[<tt><a href="yrl_complin-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (10; 53%),
-<tt>NOUN --[<tt><a href="yrl_complin-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (9; 82%),
-<tt>NOUN --[<tt><a href="yrl_complin-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (9; 69%),
-<tt>VERB --[<tt><a href="yrl_complin-dep-conj.html">conj</a></tt>]--> VERB</tt> (8; 100%),
-<tt>VERB --[<tt><a href="yrl_complin-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (6; 75%),
-<tt>NOUN --[<tt><a href="yrl_complin-dep-conj.html">conj</a></tt>]--> NOUN</tt> (4; 67%).
+<tt>NOUN --[<tt><a href="yrl_complin-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (205; 72%),
+<tt>NOUN --[<tt><a href="yrl_complin-dep-det.html">det</a></tt>]--> DET</tt> (137; 53%),
+<tt>NOUN --[<tt><a href="yrl_complin-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (86; 81%),
+<tt>VERB --[<tt><a href="yrl_complin-dep-aux.html">aux</a></tt>]--> AUX</tt> (49; 65%),
+<tt>NOUN --[<tt><a href="yrl_complin-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (34; 77%),
+<tt>VERB --[<tt><a href="yrl_complin-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (34; 51%),
+<tt>NOUN --[<tt><a href="yrl_complin-dep-conj.html">conj</a></tt>]--> NOUN</tt> (25; 93%),
+<tt>NOUN --[<tt><a href="yrl_complin-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (20; 87%),
+<tt>VERB --[<tt><a href="yrl_complin-dep-conj.html">conj</a></tt>]--> VERB</tt> (15; 83%),
+<tt>VERB --[<tt><a href="yrl_complin-dep-vocative.html">vocative</a></tt>]--> NOUN</tt> (14; 70%).
 

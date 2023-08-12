@@ -59,7 +59,7 @@ The following 7 pairs of parts of speech are connected with `iobj`: <tt><a href=
 9	것이	것	NOUN	NNB+CM	Case=Nom|Polite=Form	11	nsubj	_	MSeg=것-이|Translit=.geos.i|LTranslit=.geos
 10	플라톤의	플라톤	PROPN	NNP+CM	Case=Gen|Polite=Form	11	nmod:poss	_	MSeg=플라톤-의|Translit=.peul.ra.ton.yi|LTranslit=.peul.ra.ton
 11	생각	_	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=.saeng.gag
-12	이었다	_	AUX	VC	Mood=Ind|Tense=Past|VerbForm=Fin	11	cop	_	SpaceAfter=No|Translit=.i.eoss.da
+12	이었다	이	AUX	VC	Mood=Ind|Tense=Past|VerbForm=Fin	11	cop	_	SpaceAfter=No|Translit=.i.eoss.da|LTranslit=.i
 13	.	.	PUNCT	.	_	11	punct	_	Translit=.|LTranslit=.
 
 ~~~

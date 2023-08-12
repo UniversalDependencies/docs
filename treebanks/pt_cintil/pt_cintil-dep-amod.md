@@ -22,7 +22,7 @@ The following 46 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 amod	color:blue
-1	Uma	uma	DET	UM	Gender=Fem|Number=Sing	2	det	_	_
+1	Uma	uma	DET	UM	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	espécie	espécie	NOUN	CN	Gender=Fem|Number=Sing	0	root	_	_
 3	de	de	ADP	PREP	_	4	case	_	_
 4	dúvida	dúvida	NOUN	CN	Gender=Fem|Number=Sing	2	obl	_	_
@@ -38,12 +38,12 @@ The following 46 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 5 amod	color:blue
-1	O	o	DET	DA	Gender=Masc|Number=Sing	2	det	_	_
+1	O	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	processo	processo	NOUN	CN	Gender=Masc|Number=Sing	7	nsubj	_	_
-3	que	que	PRON	REL	_	5	obj	_	_
+3	que	que	PRON	REL	PronType=Rel	5	obj	_	_
 4	agora	agora	ADV	ADV	_	5	advmod	_	_
-5	termina	terminar	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	amod	_	_
-6	foi	ser	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	7	cop	_	_
+5	termina	terminar	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	amod	_	_
+6	foi	ser	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	_
 7	longo	longo	ADJ	ADJ	Gender=Masc|Number=Sing	0	root	_	_
 8	.	.	PUNCT	PNT	_	7	punct	_	_
 
@@ -57,14 +57,14 @@ The following 46 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 10	fgColor:white
 # visual-style 10 9 amod	color:blue
 1	'	'	PUNCT	PNT	_	3	punct	_	_
-2	És	ser	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres	3	cop	_	_
+2	És	ser	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	louca	louco	ADJ	ADJ	Gender=Fem|Number=Sing	6	dep	_	_
 4	'	'	PUNCT	PNT	_	3	punct	_	_
 5	,	,	PUNCT	PNT	_	3	punct	_	_
-6	diz	dizer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
-7	-me	-me	PRON	CL	Number=Sing|Person=1	6	obl	_	_
-8	a	a	DET	DA	Gender=Fem|Number=Sing	10	det	_	_
-9	minha	minha	PRON	POSS	Gender=Fem|Number=Sing	10	amod	_	_
+6	diz	dizer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	-me	-me	PRON	CL	Number=Sing|Person=1|PronType=Prs	6	obl	_	_
+8	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+9	minha	minha	PRON	POSS	Gender=Fem|Number=Sing|PronType=Prs	10	amod	_	_
 10	mãe	mãe	NOUN	CN	Gender=Fem|Number=Sing	6	nsubj	_	_
 11	.	.	PUNCT	PNT	_	6	punct	_	_
 

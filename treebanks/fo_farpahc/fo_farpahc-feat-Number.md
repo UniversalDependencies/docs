@@ -18,18 +18,18 @@ The feature is used with 4 part-of-speech tags: <tt><a href="fo_farpahc-pos-NOUN
 
 4132 <tt><a href="fo_farpahc-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="fo_farpahc-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (4132; 100%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="fo_farpahc-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (2670; 65%).
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (1058; 26% of non-empty `Number`): <em>menn, lærusveinar, orð, bröður, dagar, tekin, gerningar, lærusveinarnir, lærusveinum, fedrar</em>
-* `Sing` (3074; 74% of non-empty `Number`): <em>faðirin, móti, faðir, navni, stað, anda, lív, maður, orð, fólkið</em>
+* `Plur` (1057; 26% of non-empty `Number`): <em>menn, lærusveinar, orð, bröður, dagar, tekin, gerningar, lærusveinarnir, lærusveinum, fedrar</em>
+* `Sing` (3075; 74% of non-empty `Number`): <em>faðirin, móti, faðir, navni, stað, anda, lív, maður, orð, fólkið</em>
 
 ### `PROPN`
 
 1830 <tt><a href="fo_farpahc-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="fo_farpahc-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (1830; 100%).
+The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="fo_farpahc-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (1633; 89%).
 
 `PROPN` tokens may have the following values of `Number`:
 

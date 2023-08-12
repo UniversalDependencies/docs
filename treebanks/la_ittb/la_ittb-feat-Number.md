@@ -11,22 +11,22 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="la_ittb-feat-Number.html">Number</a></tt>, <tt><a href="la_ittb-feat-Number-psor.html">Number[psor]</a></tt>.
 
-244212 tokens (54%) have a non-empty value of `Number`.
-17542 types (89%) occur at least once with a non-empty value of `Number`.
-4485 lemmas (79%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (88403; 20% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (53499; 12% instances), <tt><a href="la_ittb-pos-DET.html">DET</a></tt> (28050; 6% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (27794; 6% instances), <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (20459; 5% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (20157; 4% instances), <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> (5463; 1% instances), <tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (387; 0% instances).
+244214 tokens (54%) have a non-empty value of `Number`.
+17543 types (89%) occur at least once with a non-empty value of `Number`.
+4486 lemmas (79%) occur at least once with a non-empty value of `Number`.
+The feature is used with 8 part-of-speech tags: <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (88373; 20% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (53506; 12% instances), <tt><a href="la_ittb-pos-DET.html">DET</a></tt> (28047; 6% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (27818; 6% instances), <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (20459; 5% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (20160; 4% instances), <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> (5464; 1% instances), <tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (387; 0% instances).
 
 ### `NOUN`
 
-88403 <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Number`.
+88373 <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (49120; 56%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (49105; 56%).
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (14222; 16% of non-empty `Number`): <em>rerum, rebus, formae, res, corpora, formas, homines, substantiae, corporibus, corporum</em>
-* `Sing` (74181; 84% of non-empty `Number`): <em>forma, intellectus, formam, materia, anima, potentia, homo, corpus, actu, bonum</em>
-* `EMPTY` (1878): <em>esse, gen., sap., cap., trin., prouerb., act., dist., nom., apoc.</em>
+* `Plur` (14216; 16% of non-empty `Number`): <em>rerum, rebus, formae, res, corpora, formas, homines, substantiae, corporibus, corporum</em>
+* `Sing` (74157; 84% of non-empty `Number`): <em>forma, intellectus, formam, materia, anima, potentia, homo, corpus, actu, bonum</em>
+* `EMPTY` (1876): <em>esse, gen., sap., cap., trin., prouerb., act., dist., nom., apoc.</em>
 
 <table>
   <tr><th>Paradigm <i>forma</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -39,14 +39,14 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 ### `VERB`
 
-53499 <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> tokens (89% of all `VERB` tokens) have a non-empty value of `Number`.
+53506 <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> tokens (89% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (39766; 74%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (37139; 69%), <tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (37122; 69%), <tt><a href="la_ittb-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=EMPTY</tt> (37122; 69%), <tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (37122; 69%), <tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=3</tt> (35205; 66%), <tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (31811; 59%), <tt><a href="la_ittb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (30195; 56%), <tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (29124; 54%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (39768; 74%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (37139; 69%), <tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (37122; 69%), <tt><a href="la_ittb-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=EMPTY</tt> (37122; 69%), <tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (37122; 69%), <tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=3</tt> (35205; 66%), <tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (31811; 59%), <tt><a href="la_ittb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (30195; 56%), <tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (29126; 54%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (11827; 22% of non-empty `Number`): <em>possunt, habent, dicuntur, dictis, praemissis, dicimus, separatas, separatae, dicunt, fiunt</em>
-* `Sing` (41672; 78% of non-empty `Number`): <em>potest, oportet, dicitur, habet, ostensum, patet, dicit, uidetur, dicendum, fit</em>
+* `Plur` (11830; 22% of non-empty `Number`): <em>possunt, habent, dicuntur, dictis, praemissis, dicimus, separatas, separatae, dicunt, fiunt</em>
+* `Sing` (41676; 78% of non-empty `Number`): <em>potest, oportet, dicitur, habet, ostensum, patet, dicit, uidetur, dicendum, fit</em>
 * `EMPTY` (6326): <em>intelligere, dici, fieri, habere, facere, dicere, uelle, agere, intelligi, moueri</em>
 
 <table>
@@ -111,14 +111,14 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `DET`
 
-28050 <tt><a href="la_ittb-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `Number`.
+28047 <tt><a href="la_ittb-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="la_ittb-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (25141; 90%), <tt><a href="la_ittb-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (25117; 90%), <tt><a href="la_ittb-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (24688; 88%), <tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt> (21007; 75%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="la_ittb-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (25138; 90%), <tt><a href="la_ittb-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (25114; 90%), <tt><a href="la_ittb-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (24685; 88%), <tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt> (21004; 75%).
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (6794; 24% of non-empty `Number`): <em>omnia, his, omnes, aliis, omnibus, alia, omnium, haec, quaedam, quidam</em>
-* `Sing` (21256; 76% of non-empty `Number`): <em>hoc, ipsum, unum, suam, illud, sua, aliqua, aliud, omnis, suum</em>
+* `Plur` (6793; 24% of non-empty `Number`): <em>omnia, his, omnes, aliis, omnibus, alia, omnium, haec, quaedam, quidam</em>
+* `Sing` (21254; 76% of non-empty `Number`): <em>hoc, ipsum, unum, suam, illud, sua, aliqua, aliud, omnis, suum</em>
 * `EMPTY` (199): <em>huiusmodi, quantumcumque, hoc, quot, ly, tot, hic, minus, quotlibet, quotquot</em>
 
 <table>
@@ -156,14 +156,14 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 ### `ADJ`
 
-27794 <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> tokens (97% of all `ADJ` tokens) have a non-empty value of `Number`.
+27818 <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> tokens (97% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (24808; 89%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (24831; 89%).
 
 `ADJ` tokens may have the following values of `Number`:
 
-* `Plur` (6686; 24% of non-empty `Number`): <em>intellectuales, intelligibiles, diuersis, intelligibilia, caelestia, caelestium, inferioribus, naturalibus, naturales, superioribus</em>
-* `Sing` (21108; 76% of non-empty `Number`): <em>diuina, impossibile, diuinae, diuinam, christi, primum, manifestum, prima, humana, possibilis</em>
+* `Plur` (6689; 24% of non-empty `Number`): <em>intellectuales, intelligibiles, diuersis, intelligibilia, caelestia, caelestium, inferioribus, naturalibus, naturales, superioribus</em>
+* `Sing` (21129; 76% of non-empty `Number`): <em>diuina, impossibile, diuinae, diuinam, christi, primum, manifestum, prima, humana, possibilis</em>
 * `EMPTY` (810): <em>necesse, cor., rom., ult., metaph., philipp., hebr., physic., eccli., metaphys.</em>
 
 <table>
@@ -198,7 +198,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 * `Plur` (3180; 16% of non-empty `Number`): <em>sunt, sint, essent, erunt, fuerunt, sumus, erant, fuerint, estis, simus</em>
 * `Sing` (17279; 84% of non-empty `Number`): <em>est, sit, esset, erit, fuit, essendi, erat, fuerit, fuisset, sum</em>
-* `EMPTY` (3166): <em>esse, fuisse, necesse-esse, fore</em>
+* `EMPTY` (3168): <em>esse, fuisse, necesse-esse, fore</em>
 
 <table>
   <tr><th>Paradigm <i>sum</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -228,15 +228,15 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 ### `PRON`
 
-20157 <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> tokens (89% of all `PRON` tokens) have a non-empty value of `Number`.
+20160 <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> tokens (89% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="la_ittb-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (19669; 98%), <tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt> (19001; 94%), <tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (15310; 76%), <tt><a href="la_ittb-feat-PronType.html">PronType</a></tt><tt>=Rel</tt> (11316; 56%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (10098; 50%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="la_ittb-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (19672; 98%), <tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt> (19004; 94%), <tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (15313; 76%), <tt><a href="la_ittb-feat-PronType.html">PronType</a></tt><tt>=Rel</tt> (11317; 56%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (10100; 50%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (5951; 30% of non-empty `Number`): <em>quae, ea, qui, quibus, eorum, nobis, eis, nos, quorum, earum</em>
-* `Sing` (14206; 70% of non-empty `Number`): <em>quod, quae, eius, aliquid, qui, quo, eo, quam, ei, id</em>
-* `EMPTY` (2537): <em>se, nihil, sibi, sui, secum, nil, quae, sese, suimet</em>
+* `Plur` (5952; 30% of non-empty `Number`): <em>quae, ea, qui, quibus, eorum, nobis, eis, nos, quorum, earum</em>
+* `Sing` (14208; 70% of non-empty `Number`): <em>quod, quae, eius, aliquid, qui, quo, eo, quam, ei, id</em>
+* `EMPTY` (2536): <em>se, nihil, sibi, sui, secum, quae, sese, nil, suimet</em>
 
 <table>
   <tr><th>Paradigm <i>qui</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -265,15 +265,15 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `PROPN`
 
-5463 <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> tokens (93% of all `PROPN` tokens) have a non-empty value of `Number`.
+5464 <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> tokens (93% of all `PROPN` tokens) have a non-empty value of `Number`.
 
 The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (5397; 99%), <tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=IndEurO</tt> (4694; 86%).
 
 `PROPN` tokens may have the following values of `Number`:
 
 * `Plur` (17; 0% of non-empty `Number`): <em>euangelistae, euangeliis, soliloquiorum, meteororum, euangelistas, euangelistis, inferna, infernorum, syrorum</em>
-* `Sing` (5446; 100% of non-empty `Number`): <em>deus, dei, deo, deum, aristoteles, aristotelis, dionysius, augustinus, plato, boetius</em>
-* `EMPTY` (406): <em>ioan., matth., iob, tim., ierem., luc., ierusalem, ezech., iac., petr.</em>
+* `Sing` (5447; 100% of non-empty `Number`): <em>deus, dei, deo, deum, aristoteles, aristotelis, dionysius, augustinus, plato, boetius</em>
+* `EMPTY` (405): <em>ioan., matth., iob, tim., ierem., luc., ezech., ierusalem, iac., petr.</em>
 
 <table>
   <tr><th>Paradigm <i>euangelium</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -283,7 +283,7 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
   <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>euangelii</em></td><td></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `PROPN`. 97% lemmas (95) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `PROPN`. 97% lemmas (96) occur only with one value of `Number`.
 
 ### `NUM`
 
@@ -319,14 +319,14 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="la_ittb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (14792; 98%),
+<tt>NOUN --[<tt><a href="la_ittb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (14808; 98%),
 <tt>NOUN --[<tt><a href="la_ittb-dep-det.html">det</a></tt>]--> DET</tt> (13685; 97%),
-<tt>NOUN --[<tt><a href="la_ittb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (11721; 79%),
-<tt>VERB --[<tt><a href="la_ittb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (8593; 95%),
+<tt>NOUN --[<tt><a href="la_ittb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (11736; 79%),
+<tt>VERB --[<tt><a href="la_ittb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (8594; 95%),
 <tt>VERB --[<tt><a href="la_ittb-dep-obl.html">obl</a></tt>]--> NOUN</tt> (7967; 62%),
-<tt>VERB --[<tt><a href="la_ittb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (6132; 74%),
+<tt>VERB --[<tt><a href="la_ittb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (6133; 74%),
 <tt>VERB --[<tt><a href="la_ittb-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (5350; 94%),
-<tt>NOUN --[<tt><a href="la_ittb-dep-acl.html">acl</a></tt>]--> VERB</tt> (5200; 94%),
-<tt>NOUN --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (5022; 92%),
+<tt>NOUN --[<tt><a href="la_ittb-dep-acl.html">acl</a></tt>]--> VERB</tt> (5205; 94%),
+<tt>NOUN --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (5029; 92%),
 <tt>ADJ --[<tt><a href="la_ittb-dep-cop.html">cop</a></tt>]--> AUX</tt> (4357; 82%).
 

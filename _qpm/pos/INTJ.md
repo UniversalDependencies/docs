@@ -27,4 +27,4 @@ These include the following groups: exclamations, onomatopoeic words, greetings,
 - _mǽu_ "miaou"
 - _hav_ "waf"
 
-<!-- Interlanguage links updated Po lis 14 15:34:32 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:25 CEST -->

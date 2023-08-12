@@ -54,13 +54,13 @@ The 3rd highest number of forms (1) was observed with the lemma “dalle_go”: 
 
 Parents of `SCONJ` nodes belong to 8 different parts of speech: <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt> (402; 75% instances), <tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt> (65; 12% instances), <tt><a href="sme_giella-pos-ADJ.html">ADJ</a></tt> (26; 5% instances), <tt><a href="sme_giella-pos-CCONJ.html">CCONJ</a></tt> (26; 5% instances), <tt><a href="sme_giella-pos-PRON.html">PRON</a></tt> (9; 2% instances), <tt><a href="sme_giella-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="sme_giella-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="sme_giella-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 
-528 (99%) `SCONJ` nodes are leaves.
+527 (99%) `SCONJ` nodes are leaves.
 
-6 (1%) `SCONJ` nodes have one child.
+7 (1%) `SCONJ` nodes have one child.
 
 The highest child degree of a `SCONJ` node is 1.
 
-Children of `SCONJ` nodes are attached using 1 different relations: <tt><a href="sme_giella-dep-punct.html">punct</a></tt> (6; 100% instances)
+Children of `SCONJ` nodes are attached using 1 different relations: <tt><a href="sme_giella-dep-punct.html">punct</a></tt> (7; 100% instances)
 
-Children of `SCONJ` nodes belong to 1 different parts of speech: <tt><a href="sme_giella-pos-PUNCT.html">PUNCT</a></tt> (6; 100% instances)
+Children of `SCONJ` nodes belong to 1 different parts of speech: <tt><a href="sme_giella-pos-PUNCT.html">PUNCT</a></tt> (7; 100% instances)
 

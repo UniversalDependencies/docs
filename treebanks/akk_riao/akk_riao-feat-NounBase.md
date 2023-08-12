@@ -11,7 +11,7 @@ It occurs with 4 different values: `Bound`, `Free`, `Suffixal`, `Terminal`.
 
 7284 tokens (31%) have a non-empty value of `NounBase`.
 1075 types (37%) occur at least once with a non-empty value of `NounBase`.
-641 lemmas (41%) occur at least once with a non-empty value of `NounBase`.
+642 lemmas (41%) occur at least once with a non-empty value of `NounBase`.
 The feature is used with 6 part-of-speech tags: <tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt> (7169; 31% instances), <tt><a href="akk_riao-pos-VERB.html">VERB</a></tt> (92; 0% instances), <tt><a href="akk_riao-pos-DET.html">DET</a></tt> (9; 0% instances), <tt><a href="akk_riao-pos-NUM.html">NUM</a></tt> (9; 0% instances), <tt><a href="akk_riao-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="akk_riao-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `NOUN`

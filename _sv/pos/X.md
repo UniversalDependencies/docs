@@ -11,4 +11,4 @@ a real part-of-speech category.
 
 <b>Note:</b> Version 1 of the Swedish UD treebank used X for foreign words (corresponding to the language-specific tag UO), but from version 1.1 these words are given a proper linguistic category and X is currently not used in Swedish. However, it still exists as a potentially permissible tag.
 
-<!-- Interlanguage links updated Po lis 14 15:34:38 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:30 CEST -->

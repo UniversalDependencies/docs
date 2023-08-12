@@ -35,4 +35,4 @@ udver: '2'
 * _kitapları_ "their books"
 
 (note that last three forms are ambiguous)
-<!-- Interlanguage links updated Po lis 14 15:34:54 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:45 CEST -->

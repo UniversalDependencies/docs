@@ -27,7 +27,7 @@ The following 1 pairs of parts of speech are connected with `obl:cau`: <tt><a hr
 2	кис	кис	ADP	Adp	_	1	case	_	_
 3	самай	самай	ADV	Adv	AdvType=Deg	4	advmod:deg	_	GTtags=Deg
 4	истя	истя	ADV	Adv	AdvType=Man	5	advmod	_	GTtags=Manner
-5	вечкса	вечкемс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Tense=Pres|Valency=2	0	root	_	GTtags=TV,Ind,Prs,ScSg1,OcSg3
+5	вечкса	вечкемс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Tense=Pres	0	root	_	GTtags=TV,Ind,Prs,ScSg1,OcSg3
 6	те	те	DET	Det	Case=Nom|Definite=Ind|Number=Sing|PronType=Dem	7	det	_	GTtags=Dem,Sg,Nom,Indef
 7	цецянть	цеця	NOUN	N	Case=Gen|Definite=Def|Number=Sing	5	obj	_	GTtags=Sg,Gen,Def|SpaceAfter=No
 8	.	.	PUNCT	CLB	_	5	punct	_	_

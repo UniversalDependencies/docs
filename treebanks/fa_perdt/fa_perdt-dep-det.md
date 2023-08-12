@@ -34,7 +34,7 @@ The following 9 pairs of parts of speech are connected with `det`: <tt><a href="
 10	را	را	ADP	POSTP	_	8	case	_	_
 11	در	در	ADP	PREP	_	12	case	_	_
 12	کویر	کویر	NOUN	N_IANM	Number=Sing	13	obl:arg	_	_
-13	پاشیده‌ایم	پاشید#پاش	VERB	V_ACT	Number=Plur|Person=1|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No
+13	پاشیده‌ایم	پاشید	VERB	V_ACT	Number=Plur|Person=1|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=پاشید#پاش|SpaceAfter=No
 14	.	.	PUNCT	PUNC	_	13	punct	_	_
 
 ~~~
@@ -49,7 +49,7 @@ The following 9 pairs of parts of speech are connected with `det`: <tt><a href="
 1	جهان	جهان	NOUN	N_IANM	Number=Sing	4	nsubj	_	_
 2	چه	چه	DET	PREM_EXAJ	_	3	det	_	_
 3	بی‌دریغ	بی‌دریغ	ADJ	ADJ_AJP	_	4	advmod	_	_
-4	می‌فرسود	فرسود#فرسا	VERB	V_ACT	Number=Sing|Person=3|Voice=Act	0	root	_	SpaceAfter=No
+4	می‌فرسود	فرسود	VERB	V_ACT	Number=Sing|Person=3|Voice=Act	0	root	_	OrigLemma=فرسود#فرسا|SpaceAfter=No
 5	.	.	PUNCT	PUNC	_	4	punct	_	_
 
 ~~~
@@ -63,15 +63,15 @@ The following 9 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 3 2 det	color:blue
 1	در	در	ADP	PREP	_	3	case	_	_
 2	همان	همان	DET	PREM_DEMAJ	_	3	det	_	_
-3	غدیر	غدیر	PROPN	N_IANM	Number=Sing	9	obl:arg	_	_
+3	غدیر	غدیر	PROPN	N_IANM	Number=Sing	10	obl:arg	_	_
 4	که	که	SCONJ	SUBR	_	5	mark	_	_
 5	نام	نام	NOUN	N_IANM	Number=Sing	3	acl	_	_
 6	برکه‌ای	برکه	NOUN	N_IANM	Number=Sing	5	nmod	_	_
-7	بود	بود#باش	AUX	AUX	Number=Sing|Person=3	5	cop	_	_
+7	بود	بود	AUX	AUX	Number=Sing|Person=3	5	cop	_	OrigLemma=بود#باش
 8	اردو	اردو	NOUN	N_IANM	Number=Sing	9	compound:lvc	_	_
-9	زده	زد#زن	VERB	V_PASS	Number=Sing|Person=3|Tense=Past|Voice=Pass	0	root	_	_
-10	شد	شد#شو	AUX	AUX	Number=Sing|Person=3|Tense=Past	9	aux:pass	_	SpaceAfter=No
-11	.	.	PUNCT	PUNC	_	9	punct	_	_
+9	زده	زد	VERB	V_PASS	Number=Sing|Person=3|Tense=Past|Voice=Pass	10	xcomp	_	OrigLemma=زد#زن
+10	شد	شد	VERB	AUX	Number=Sing|Person=3|Tense=Past	0	root	_	OrigLemma=شد#شو|SpaceAfter=No
+11	.	.	PUNCT	PUNC	_	10	punct	_	_
 
 ~~~
 

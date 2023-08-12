@@ -64,7 +64,7 @@ The following 2 pairs of parts of speech are connected with `fixed`: <tt><a href
 4	бой	бой	NOUN	N	Case=Nom|Number=Sing	7	nsubj	_	GTtags=Sg,Nom
 5	жӧ	жӧ	ADV	Adv	_	4	advmod:eval	_	GTtags=Parenthetic
 6	нин	нин	ADV	Adv	AdvType=Tim	7	advmod:tmod	_	GTtags=Sem/Time
-7	муніс	мунны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=1	0	root	_	GTtags=IV,Ind,Prt1,Sg3|SpaceAfter=No
+7	муніс	мунны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=IV,Ind,Prt1,Sg3|SpaceAfter=No
 8	,	,	PUNCT	PUNCT	_	12	punct	_	_
 9	«	«	PUNCT	PUNCT	_	10	punct	_	GTtags=LEFT|SpaceAfter=No
 10	ура	ура	INTJ	Interj	_	12	nmod:appos	_	SpaceAfter=No

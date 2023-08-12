@@ -68,7 +68,7 @@ The following 53 pairs of parts of speech are connected with `advcl`: <tt><a hre
 4	,	,	PUNCT	_	_	3	punct	_	_
 5	разместите	разместить	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	_
 6	эту	этот	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	7	det	_	_
-7	запись	запись	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	obj	_	_~
+7	запись	запись	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	obj	_	_
 
 ~~~
 

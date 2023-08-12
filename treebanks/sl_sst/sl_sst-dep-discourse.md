@@ -23,22 +23,22 @@ The following 48 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 16 discourse	color:blue
-1	ha	ha	INTJ	I	_	0	root	_	word=ha|msd=M
-2	…	…	PUNCT	Z	_	7	punct	_	word=…|msd=U
-3	ja	ja	PART	Q	_	7	discourse	_	word=ja|msd=L
-4	ja	ja	PART	Q	_	7	discourse	_	word=ja|msd=L
-5	ja	ja	PART	Q	_	7	discourse	_	word=ja|msd=L
-6	ja	ja	PART	Q	_	7	discourse	_	word=ja|msd=L
-7	ja	ja	PART	Q	_	1	parataxis	_	word=ja|msd=L
-8	…	…	PUNCT	Z	_	1	punct	_	word=…|msd=U
-9	pekel	peči	VERB	Vmpp-sm	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	1	parataxis	_	word=peku|msd=Ggnd-em
-10	in	in	CCONJ	Cc	_	11	cc	_	word=in|msd=Vp
-11	pripravljal	pripravljati	VERB	Vmpp-sm	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	9	conj	_	word=prpravlu|msd=Ggnd-em
-12	tam	tam	ADV	Rgp	Degree=Pos	9	advmod	_	word=tam|msd=Rsn
-13	sproti	sproti	ADV	Rgp	Degree=Pos	9	advmod	_	word=sprot|msd=Rsn
-14	[gap]	[gap]	PUNCT	X	_	9	punct	_	word=[gap]|msd=N
-15	mhm	mhm	INTJ	I	_	9	discourse	_	word=mhm|msd=M
-16	ja	ja	PART	Q	_	9	discourse	_	word=ja|msd=L
+1	ha	ha	INTJ	I	_	0	root	_	pronunciation=ha
+2	…	…	PUNCT	Z	_	7	punct	_	pronunciation=…
+3	ja	ja	PART	Q	_	7	discourse	_	pronunciation=ja
+4	ja	ja	PART	Q	_	7	discourse	_	pronunciation=ja
+5	ja	ja	PART	Q	_	7	discourse	_	pronunciation=ja
+6	ja	ja	PART	Q	_	7	discourse	_	pronunciation=ja
+7	ja	ja	PART	Q	_	1	parataxis	_	pronunciation=ja
+8	…	…	PUNCT	Z	_	1	punct	_	pronunciation=…
+9	pekel	peči	VERB	Vmpp-sm	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	1	parataxis	_	pronunciation=peku
+10	in	in	CCONJ	Cc	_	11	cc	_	pronunciation=in
+11	pripravljal	pripravljati	VERB	Vmpp-sm	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	9	conj	_	pronunciation=prpravlu
+12	tam	tam	ADV	Rgp	Degree=Pos	9	advmod	_	pronunciation=tam
+13	sproti	sproti	ADV	Rgp	Degree=Pos	9	advmod	_	pronunciation=sprot
+14	[gap]	[gap]	PUNCT	X	_	9	punct	_	pronunciation=[gap]
+15	mhm	mhm	INTJ	I	_	9	discourse	_	pronunciation=mhm
+16	ja	ja	PART	Q	_	9	discourse	_	pronunciation=ja
 
 ~~~
 
@@ -49,11 +49,11 @@ The following 48 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 1 discourse	color:blue
-1	ja	ja	PART	Q	_	5	discourse	_	word=ja|msd=L
-2	mojo	moj	DET	Ps1fsas	Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	reparandum	_	word=moj|msd=Zspzete
-3	[gap]	[gap]	PUNCT	X	_	4	punct	_	word=[gap]|msd=N
-4	mojo	moj	DET	Ps1fsas	Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	word=moj|msd=Zspzete
-5	cimro	cimra	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	0	root	_	word=cimro|msd=Sozet
+1	ja	ja	PART	Q	_	5	discourse	_	pronunciation=ja
+2	mojo	moj	DET	Ps1fsas	Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	reparandum	_	pronunciation=moj
+3	[gap]	[gap]	PUNCT	X	_	4	punct	_	pronunciation=[gap]
+4	mojo	moj	DET	Ps1fsas	Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	pronunciation=moj
+5	cimro	cimra	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	0	root	_	pronunciation=cimro
 
 ~~~
 
@@ -64,12 +64,12 @@ The following 48 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 2 discourse	color:blue
-1	[speaker:laughter]	[speaker:laughter]	PUNCT	X	_	5	punct	_	word=[speaker:laughter]|msd=N
-2	dobro	dobro	ADV	Rgp	Degree=Pos	5	discourse	_	word=dobro|msd=Rsn
-3	jaz	jaz	PRON	Pp1-sn	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	word=jaz|msd=Zop-ei
-4	se	se	PRON	Px------y	PronType=Prs|Variant=Short	5	expl	_	word=se|msd=Zp------k
-5	nisem	biti	VERB	Va-r1s-y	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	word=nisem|msd=Gp-spe-d
-6	eem	eem	INTJ	I	_	5	discourse:filler	_	word=eem|msd=M
+1	[speaker:laughter]	[speaker:laughter]	PUNCT	X	_	5	punct	_	pronunciation=[speaker:laughter]
+2	dobro	dobro	ADV	Rgp	Degree=Pos	5	discourse	_	pronunciation=dobro
+3	jaz	jaz	PRON	Pp1-sn	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	pronunciation=jaz
+4	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	5	expl	_	pronunciation=se
+5	nisem	biti	VERB	Va-r1s-y	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=nisem
+6	eem	eem	INTJ	I	_	5	discourse:filler	_	pronunciation=eem
 
 ~~~
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-52 nodes (2%) are attached to their parents as `mark`.
+204 nodes (2%) are attached to their parents as `mark`.
 
-30 instances of `mark` (58%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.34615384615385.
+137 instances of `mark` (67%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.34313725490196.
 
-The following 3 pairs of parts of speech are connected with `mark`: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-SCONJ.html">SCONJ</a></tt> (50; 96% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances).
+The following 7 pairs of parts of speech are connected with `mark`: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-SCONJ.html">SCONJ</a></tt> (187; 92% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-SCONJ.html">SCONJ</a></tt> (7; 3% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-SCONJ.html">SCONJ</a></tt> (5; 2% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="yrl_complin-pos-PART.html">PART</a></tt>-<tt><a href="yrl_complin-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -35,58 +35,47 @@ The following 3 pairs of parts of speech are connected with `mark`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 1 mark	color:blue
-1	Mayé	mayé	SCONJ	SCONJ	_	5	mark	_	TokenRange=0:4
-2	indé	indé	PRON	PRON	Number=Sing|Person=2|PronType=Prs	5	nsubj	_	TokenRange=5:9
-3	reikú	ikú	AUX	COP	Number=Sing|Person=2|VerbForm=Fin	5	cop	_	TokenRange=10:15
-4	ana	ana	PART	PFV	Aspect=Perf	5	advmod	_	TokenRange=16:19
-5	iké	iké	ADV	ADVD	PronType=Dem	8	advcl	_	SpaceAfter=No|TokenRange=20:23
-6	,	,	PUNCT	PUNCT	_	5	punct	_	TokenRange=23:24
-7	yané	yané	PRON	PRON2	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	8	nmod:poss	_	TokenRange=25:29
-8	rumuara	sumuara	NOUN	N	Number=Sing|Rel=Cont	0	root	_	TokenRange=30:37
-9	kurí	kurí	PART	FUT	Tense=Fut	8	advmod	_	TokenRange=38:42
-10	indé	indé	PRON	PRON	Number=Sing|Person=2|PronType=Prs	8	nsubj	_	SpaceAfter=No|TokenRange=43:47
-11	.	.	PUNCT	PUNCT	_	8	punct	_	SpaceAfter=No|TokenRange=47:48
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 12 mark	color:blue
+1	Eré	eré	PART	CONS	PartType=Mod|Polarity=Pos	7	advmod	_	SpaceAfter=No|TokenRange=0:3
+2	,	,	PUNCT	PUNCT	_	5	punct	_	TokenRange=3:4
+3	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	_	TokenRange=5:7
+4	mú	mú	NOUN	N	Number=Sing	5	nmod:poss	_	TokenRange=8:10
+5	mirĩ-itá	mirĩ	NOUN	N	Number=Plur	7	vocative	_	SpaceAfter=No|TokenRange=11:19
+6	,	,	PUNCT	PUNCT	_	5	punct	_	TokenRange=19:20
+7	yasú	sú	VERB	V	Number=Plur|Person=1|VerbForm=Fin	0	root	_	TokenRange=21:25
+8	ana	ana	PART	PFV	Aspect=Perf	7	advmod	_	TokenRange=26:29
+9	iwaka	iwaka	NOUN	N	Number=Sing	7	obl	_	TokenRange=30:35
+10	kití	kití	ADP	ADP	_	9	case	_	TokenRange=36:40
+11	yasitatá	yasitatá	NOUN	N	Number=Sing	7	advcl	_	TokenRange=41:49
+12	arama	arama	SCONJ	SCONJ	_	11	mark	_	SpaceAfter=No|TokenRange=50:55
+13	.	.	PUNCT	PUNCT	_	7	punct	_	SpaceAfter=No|TokenRange=55:56
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 19	bgColor:blue
-# visual-style 19	fgColor:white
-# visual-style 19 17 mark	color:blue
-1	Mairamé	mairamé	SCONJ	SCONJ	_	4	mark	_	TokenRange=0:7
-2	nhaã	nhaã	DET	DEMS	Deixis=Remt|Number=Sing|PronType=Dem	3	det	_	TokenRange=8:12
-3	kunhã	kunhã	NOUN	N	Number=Sing	4	nsubj	_	TokenRange=13:18
-4	usika	sika	VERB	V	Person=3|VerbForm=Fin	9	advcl	_	TokenRange=19:24
-5	maniwara	maniwara	NOUN	N	Number=Sing	6	nmod:poss	_	TokenRange=25:33
-6	ruka	uka	NOUN	N	Number=Sing|Rel=Cont	4	obl	_	TokenRange=34:38
-7	upé	upé	ADP	ADP	_	6	case	_	SpaceAfter=No|TokenRange=39:42
-8	,	,	PUNCT	PUNCT	_	4	punct	_	TokenRange=42:43
-9	umaã	maã	VERB	V	Person=3|VerbForm=Fin	0	root	_	TokenRange=44:48
-10	yepé	yepé	DET	ART	Definite=Ind|PronType=Art	11	det	_	TokenRange=49:53
-11	mira	mira	NOUN	N	Number=Sing	9	obj	_	TokenRange=54:58
-12	mirĩ	mirĩ	ADJ	A	_	11	amod	_	TokenRange=59:63
-13	urikú	rikú	VERB	V	Person=3|VerbForm=Fin	11	acl:relcl	_	TokenRange=64:69
-14	waá	waá	PRON	REL	Number=Sing|PronType=Rel	13	nsubj	_	TokenRange=70:73
-15	i	i	PRON	PRON2	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	nmod:poss	_	TokenRange=74:75
-16	awawasú	awa	NOUN	N	Augm=Yes|Number=Sing	13	obj	_	TokenRange=76:83
-17	asuí	asuí	CCONJ	CCONJ	_	19	mark	_	TokenRange=84:88
-18	i	i	PRON	PRON2	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Prs	19	nmod:poss	_	TokenRange=89:90
-19	pi-itá	pi	NOUN	N	Number=Plur	16	conj	_	TokenRange=91:97
-20	uyeréu	yeréu	VERB	V	Person=3|VerbForm=Fin	19	acl:relcl	_	TokenRange=98:104
-21	waá	waá	PRON	REL	Number=Sing|PronType=Rel	20	nsubj	_	TokenRange=105:108
-22	sakakwera	takakwera	NOUN	N	Number=Sing|Number[psor]=Sing|Person[psor]=3|Rel=NCont	20	obl	_	TokenRange=109:118
-23	kití	kití	ADP	ADP	_	22	case	_	SpaceAfter=No|TokenRange=119:123
-24	,	,	PUNCT	PUNCT	_	9	punct	_	TokenRange=123:124
-25	[...]	[...]	PUNCT	ELIP	PunctType=Elip	9	punct	_	SpaceAfter=No|TokenRange=125:130
-26	.	.	PUNCT	PUNCT	_	9	punct	_	SpaceAfter=No|TokenRange=130:131
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 mark	color:blue
+1	Mairamé	mairamé	SCONJ	SCONJR	_	3	mark	_	TokenRange=0:7
+2	kurí	kurí	PART	FUT	Tense=Fut	3	advmod	_	TokenRange=8:12
+3	bũa	bũa	ADJ	A	_	8	advcl	_	SpaceAfter=No|TokenRange=13:16
+4	,	,	PUNCT	PUNCT	_	8	punct	_	TokenRange=16:17
+5	ixé	ixé	PRON	PRON	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	TokenRange=18:21
+6	asú	sú	AUX	AUXFR	Number=Sing|Person=1|VerbForm=Fin	8	aux	_	TokenRange=22:25
+7	kurí	kurí	PART	FUT	Tense=Fut	8	advmod	_	TokenRange=26:30
+8	ayuká	yuká	VERB	V	Number=Sing|Person=1|VerbForm=Fin	0	root	_	TokenRange=31:36
+9	indé	indé	PRON	PRON	Number=Sing|Person=2|PronType=Prs	8	iobj	_	TokenRange=37:41
+10	arama	arama	PART	FUT	Tense=Fut	8	advmod	_	TokenRange=42:47
+11	kwá	kwá	DET	DEMX	Deixis=Prox|Number=Sing|PronType=Dem	12	det	_	TokenRange=48:51
+12	tukunaré	tukunaré	NOUN	N	Number=Sing	8	obj	_	SpaceAfter=No|TokenRange=52:60
+13	.	.	PUNCT	PUNCT	_	8	punct	_	SpaceAfter=No|TokenRange=60:61
 
 ~~~
 

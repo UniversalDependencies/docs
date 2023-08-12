@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Chinese-PUD: POS Tags: `ADP`
 
-There are 1 `ADP` lemmas (7%), 81 `ADP` types (1%) and 1288 `ADP` tokens (6%).
-Out of 15 observed tags, the rank of `ADP` is: 2 in number of lemmas, 8 in number of types and 6 in number of tokens.
+There are 81 `ADP` lemmas (1%), 81 `ADP` types (1%) and 1288 `ADP` tokens (6%).
+Out of 15 observed tags, the rank of `ADP` is: 8 in number of lemmas, 8 in number of types and 6 in number of tokens.
 
-The 10 most frequent `ADP` lemmas: _
+The 10 most frequent `ADP` lemmas: 在、 中、 上、 對、 從、 於、 與、 時、 後、 為
 
 The 10 most frequent `ADP` types:  在、 中、 上、 對、 從、 於、 與、 時、 後、 為
 
-The 10 most frequent ambiguous lemmas: _ (<tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> 5410, <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt> 3467, <tt><a href="zh_pud-pos-PUNCT.html">PUNCT</a></tt> 2902, <tt><a href="zh_pud-pos-PART.html">PART</a></tt> 1881, <tt><a href="zh_pud-pos-PROPN.html">PROPN</a></tt> 1361, <tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> 1288, <tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 1283, <tt><a href="zh_pud-pos-NUM.html">NUM</a></tt> 873, <tt><a href="zh_pud-pos-PRON.html">PRON</a></tt> 710, <tt><a href="zh_pud-pos-ADJ.html">ADJ</a></tt> 650, <tt><a href="zh_pud-pos-AUX.html">AUX</a></tt> 618, <tt><a href="zh_pud-pos-DET.html">DET</a></tt> 355, <tt><a href="zh_pud-pos-X.html">X</a></tt> 306, <tt><a href="zh_pud-pos-CCONJ.html">CCONJ</a></tt> 283, <tt><a href="zh_pud-pos-SCONJ.html">SCONJ</a></tt> 28)
+The 10 most frequent ambiguous lemmas: 在 (<tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> 272, <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt> 118, <tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 25), 中 (<tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> 113, <tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="zh_pud-pos-X.html">X</a></tt> 1), 上 (<tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> 63, <tt><a href="zh_pud-pos-DET.html">DET</a></tt> 4, <tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt> 1), 對 (<tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> 60, <tt><a href="zh_pud-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> 2), 從 (<tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> 46, <tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 1), 於 (<tt><a href="zh_pud-pos-VERB.html">VERB</a></tt> 80, <tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> 45), 與 (<tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> 42, <tt><a href="zh_pud-pos-CCONJ.html">CCONJ</a></tt> 8), 時 (<tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> 39, <tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> 3), 後 (<tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> 38, <tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="zh_pud-pos-DET.html">DET</a></tt> 1), 為 (<tt><a href="zh_pud-pos-VERB.html">VERB</a></tt> 95, <tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> 35, <tt><a href="zh_pud-pos-AUX.html">AUX</a></tt> 29)
 
 The 10 most frequent ambiguous types:  在 (<tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> 272, <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt> 118, <tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 25), 中 (<tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> 113, <tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="zh_pud-pos-X.html">X</a></tt> 1), 上 (<tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> 63, <tt><a href="zh_pud-pos-DET.html">DET</a></tt> 4, <tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt> 1), 對 (<tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> 60, <tt><a href="zh_pud-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> 2), 從 (<tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> 46, <tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 1), 於 (<tt><a href="zh_pud-pos-VERB.html">VERB</a></tt> 80, <tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> 45), 與 (<tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> 42, <tt><a href="zh_pud-pos-CCONJ.html">CCONJ</a></tt> 8), 時 (<tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> 39, <tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> 3), 後 (<tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> 38, <tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="zh_pud-pos-DET.html">DET</a></tt> 1), 為 (<tt><a href="zh_pud-pos-VERB.html">VERB</a></tt> 63, <tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> 35, <tt><a href="zh_pud-pos-AUX.html">AUX</a></tt> 29)
 
@@ -58,9 +58,13 @@ The 10 most frequent ambiguous types:  在 (<tt><a href="zh_pud-pos-ADP.html">AD
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 81.000000 (the average of all parts of speech is 388.466667).
+The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.006233).
 
-The 1st highest number of forms (81) was observed with the lemma “_”: 上, 下, 不僅, 不經, 中, 之下, 之中, 之前, 之外, 之後, 之所以, 之間, 以, 以下, 以來, 以前, 以北, 以外, 以後, 來, 像, 內, 初, 到, 前, 即便, 只有, 向, 和, 哪怕, 因, 因為, 在, 在內, 外, 如, 如果, 將, 對, 對於, 就, 左右, 張, 後, 從, 憑藉, 把, 按照, 據, 於, 時, 有關, 末, 本, 根據, 比, 沿著, 為, 為了, 由, 由於, 當, 直到, 直至, 等, 經過, 自, 至, 與, 藉由, 被, 裡, 起, 跟, 通過, 里, 間, 關於, 除非, 離, 靠.
+The 1st highest number of forms (1) was observed with the lemma “上”: 上.
+
+The 2nd highest number of forms (1) was observed with the lemma “下”: 下.
+
+The 3rd highest number of forms (1) was observed with the lemma “不僅”: 不僅.
 
 `ADP` occurs with 1 features: <tt><a href="zh_pud-feat-Voice.html">Voice</a></tt> (61; 5% instances)
 
@@ -75,19 +79,19 @@ Examples: 在、 中、 上、 對、 從、 於、 與、 時、 後、 為
 
 `ADP` nodes are attached to their parents using 9 different relations: <tt><a href="zh_pud-dep-case.html">case</a></tt> (610; 47% instances), <tt><a href="zh_pud-dep-case-loc.html">case:loc</a></tt> (346; 27% instances), <tt><a href="zh_pud-dep-mark.html">mark</a></tt> (263; 20% instances), <tt><a href="zh_pud-dep-nmod.html">nmod</a></tt> (58; 5% instances), <tt><a href="zh_pud-dep-xcomp.html">xcomp</a></tt> (7; 1% instances), <tt><a href="zh_pud-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="zh_pud-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="zh_pud-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="zh_pud-dep-mark-prt.html">mark:prt</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 10 different parts of speech: <tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> (846; 66% instances), <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt> (257; 20% instances), <tt><a href="zh_pud-pos-PROPN.html">PROPN</a></tt> (82; 6% instances), <tt><a href="zh_pud-pos-PRON.html">PRON</a></tt> (56; 4% instances), <tt><a href="zh_pud-pos-ADJ.html">ADJ</a></tt> (22; 2% instances), <tt><a href="zh_pud-pos-X.html">X</a></tt> (13; 1% instances), <tt><a href="zh_pud-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="zh_pud-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="zh_pud-pos-DET.html">DET</a></tt> (1; 0% instances)
+Parents of `ADP` nodes belong to 10 different parts of speech: <tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> (846; 66% instances), <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt> (265; 21% instances), <tt><a href="zh_pud-pos-PROPN.html">PROPN</a></tt> (82; 6% instances), <tt><a href="zh_pud-pos-PRON.html">PRON</a></tt> (56; 4% instances), <tt><a href="zh_pud-pos-ADJ.html">ADJ</a></tt> (14; 1% instances), <tt><a href="zh_pud-pos-X.html">X</a></tt> (13; 1% instances), <tt><a href="zh_pud-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="zh_pud-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="zh_pud-pos-DET.html">DET</a></tt> (1; 0% instances)
 
-1213 (94%) `ADP` nodes are leaves.
+1218 (95%) `ADP` nodes are leaves.
 
-13 (1%) `ADP` nodes have one child.
+11 (1%) `ADP` nodes have one child.
 
-59 (5%) `ADP` nodes have two children.
+57 (4%) `ADP` nodes have two children.
 
-3 (0%) `ADP` nodes have three or more children.
+2 (0%) `ADP` nodes have three or more children.
 
 The highest child degree of a `ADP` node is 3.
 
-Children of `ADP` nodes are attached using 9 different relations: <tt><a href="zh_pud-dep-obj.html">obj</a></tt> (67; 48% instances), <tt><a href="zh_pud-dep-case.html">case</a></tt> (57; 41% instances), <tt><a href="zh_pud-dep-punct.html">punct</a></tt> (6; 4% instances), <tt><a href="zh_pud-dep-nsubj.html">nsubj</a></tt> (3; 2% instances), <tt><a href="zh_pud-dep-advcl.html">advcl</a></tt> (2; 1% instances), <tt><a href="zh_pud-dep-nummod.html">nummod</a></tt> (2; 1% instances), <tt><a href="zh_pud-dep-dep.html">dep</a></tt> (1; 1% instances), <tt><a href="zh_pud-dep-fixed.html">fixed</a></tt> (1; 1% instances), <tt><a href="zh_pud-dep-xcomp.html">xcomp</a></tt> (1; 1% instances)
+Children of `ADP` nodes are attached using 6 different relations: <tt><a href="zh_pud-dep-obj.html">obj</a></tt> (67; 51% instances), <tt><a href="zh_pud-dep-case.html">case</a></tt> (57; 44% instances), <tt><a href="zh_pud-dep-punct.html">punct</a></tt> (4; 3% instances), <tt><a href="zh_pud-dep-advcl.html">advcl</a></tt> (1; 1% instances), <tt><a href="zh_pud-dep-fixed.html">fixed</a></tt> (1; 1% instances), <tt><a href="zh_pud-dep-nsubj.html">nsubj</a></tt> (1; 1% instances)
 
-Children of `ADP` nodes belong to 9 different parts of speech: <tt><a href="zh_pud-pos-PART.html">PART</a></tt> (63; 45% instances), <tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> (43; 31% instances), <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt> (14; 10% instances), <tt><a href="zh_pud-pos-PROPN.html">PROPN</a></tt> (6; 4% instances), <tt><a href="zh_pud-pos-PUNCT.html">PUNCT</a></tt> (6; 4% instances), <tt><a href="zh_pud-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="zh_pud-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="zh_pud-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> (1; 1% instances)
+Children of `ADP` nodes belong to 8 different parts of speech: <tt><a href="zh_pud-pos-PART.html">PART</a></tt> (63; 48% instances), <tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> (42; 32% instances), <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt> (10; 8% instances), <tt><a href="zh_pud-pos-PROPN.html">PROPN</a></tt> (6; 5% instances), <tt><a href="zh_pud-pos-PUNCT.html">PUNCT</a></tt> (4; 3% instances), <tt><a href="zh_pud-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="zh_pud-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> (1; 1% instances)
 

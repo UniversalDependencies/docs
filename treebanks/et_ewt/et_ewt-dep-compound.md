@@ -23,7 +23,7 @@ The following 5 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 compound	color:blue
-1	2004.	2004.	ADJ	N	Case=Gen|Number=Sing|NumForm=Digit|NumType=Ord	2	amod	2:amod	_
+1	2004.	2004.	ADJ	N	NumForm=Digit|NumType=Ord	2	amod	2:amod	_
 2	aasta	aasta	NOUN	S	Case=Gen|Number=Sing	3	nmod	3:nmod	_
 3	seisuga	seis	NOUN	S	Case=Com|Number=Sing	5	obl	5:obl	_
 4	võis	võima	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	aux	5:aux	_

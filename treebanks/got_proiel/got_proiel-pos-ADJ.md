@@ -6,53 +6,53 @@ udver: '2'
 
 ## Treebank Statistics: UD_Gothic-PROIEL: POS Tags: `ADJ`
 
-There are 384 `ADJ` lemmas (11%), 1141 `ADJ` types (13%) and 4780 `ADJ` tokens (9%).
-Out of 14 observed tags, the rank of `ADJ` is: 3 in number of lemmas, 3 in number of types and 7 in number of tokens.
+There are 363 `ADJ` lemmas (11%), 987 `ADJ` types (11%) and 2339 `ADJ` tokens (4%).
+Out of 12 observed tags, the rank of `ADJ` is: 3 in number of lemmas, 3 in number of types and 8 in number of tokens.
 
-The 10 most frequent `ADJ` lemmas: <em>sa, meins, *seins, alls, þeins, izwar, manags, unsar, anþar, sums</em>
+The 10 most frequent `ADJ` lemmas: <em>manags, anþar, silba, goþs, weihs, mikils, ubils, dauþs, swaleiks, sama</em>
 
-The 10 most frequent `ADJ` types:  <em>þata, sa, þo, ƕas, all, managai, seinamma, sumai, meina, izwara</em>
+The 10 most frequent `ADJ` types:  <em>managai, anþar, silba, dauþaim, silban, anþara, silbans, leitil, goþ, managans</em>
 
-The 10 most frequent ambiguous lemmas: <em>sa</em> (<tt><a href="got_proiel-pos-DET.html">DET</a></tt> 2059, <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 556), <em>alls</em> (<tt><a href="got_proiel-pos-DET.html">DET</a></tt> 293, <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 263), <em>anþar</em> (<tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 133, <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> 10), <em>sums</em> (<tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 116, <tt><a href="got_proiel-pos-DET.html">DET</a></tt> 20), <em>ƕas</em> (<tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> 260, <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 111, <tt><a href="got_proiel-pos-DET.html">DET</a></tt> 9), <em>silba</em> (<tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 99, <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> 75), <em>weihs</em> (<tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 74, <tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt> 11), <em>ainshun</em> (<tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 64, <tt><a href="got_proiel-pos-DET.html">DET</a></tt> 2), <em>sah</em> (<tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 42, <tt><a href="got_proiel-pos-DET.html">DET</a></tt> 5), <em>frawaurhts</em> (<tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt> 75, <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 34)
+The 10 most frequent ambiguous lemmas: <em>anþar</em> (<tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 133, <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> 10), <em>silba</em> (<tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 99, <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> 75), <em>weihs</em> (<tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 74, <tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt> 11), <em>frawaurhts</em> (<tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt> 75, <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 34), <em>swes</em> (<tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 23, <tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt> 3), <em>taihswa</em> (<tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 18, <tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt> 2), <em>uswaurhts</em> (<tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt> 2), <em>þaurfts</em> (<tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 3), <em>galaubeins</em> (<tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt> 101, <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 1), <em>gaqiss</em> (<tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>þata</em> (<tt><a href="got_proiel-pos-DET.html">DET</a></tt> 223, <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 177), <em>sa</em> (<tt><a href="got_proiel-pos-DET.html">DET</a></tt> 262, <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 81), <em>þo</em> (<tt><a href="got_proiel-pos-DET.html">DET</a></tt> 192, <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 68), <em>ƕas</em> (<tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> 66, <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 63, <tt><a href="got_proiel-pos-DET.html">DET</a></tt> 3), <em>all</em> (<tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 61, <tt><a href="got_proiel-pos-DET.html">DET</a></tt> 17), <em>sumai</em> (<tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 56, <tt><a href="got_proiel-pos-DET.html">DET</a></tt> 1), <em>meina</em> (<tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 52, <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> 15), <em>izwara</em> (<tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 51, <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> 40), <em>þamma</em> (<tt><a href="got_proiel-pos-DET.html">DET</a></tt> 245, <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 46), <em>allai</em> (<tt><a href="got_proiel-pos-DET.html">DET</a></tt> 77, <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 44)
+The 10 most frequent ambiguous types:  <em>anþar</em> (<tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 30, <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> 5), <em>silba</em> (<tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 27, <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> 8), <em>silban</em> (<tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> 29, <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 26), <em>silbans</em> (<tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 23, <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> 5), <em>weiha</em> (<tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 12, <tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> 1), <em>anþarana</em> (<tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 11, <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> 2), <em>silbam</em> (<tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 10, <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> 2), <em>frawaurhtans</em> (<tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 7, <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> 1), <em>silbo</em> (<tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 7, <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> 1), <em>weihai</em> (<tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 6, <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> 1)
 
 
-* <em>þata</em>
-  * <tt><a href="got_proiel-pos-DET.html">DET</a></tt> 223: <em>iþ jabai augo þein <b>þata</b> taihswo marzjai þuk usstagg ita jah wairp af þus</em>
-  * <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 177: <em>all auk <b>þata</b> þiudos sokjand</em>
-* <em>sa</em>
-  * <tt><a href="got_proiel-pos-DET.html">DET</a></tt> 262: <em>sijaiþ nu jus fullatojai swaswe atta izwar <b>sa</b> in himinam fullatojis ist</em>
-  * <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 81: <em>jah <b>sa</b> ize afsatida liugaiþ horinoþ</em>
-* <em>þo</em>
-  * <tt><a href="got_proiel-pos-DET.html">DET</a></tt> 192: <em>insandei unsis in <b>þo</b> sweina ei in þo galeiþaima</em>
-  * <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 68: <em>jah jabai taihswo þeina handus marzjai þuk afmait <b>þo</b> jah wairp af þus</em>
-* <em>ƕas</em>
-  * <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> 66: <em>iþ <b>ƕas</b> izwara maurnands mag anaaukan ana wahstu seinana aleina aina</em>
-  * <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 63: <em>jah jabai <b>ƕas</b> þuk ananauþjai rasta aina gaggais miþ imma twos</em>
-  * <tt><a href="got_proiel-pos-DET.html">DET</a></tt> 3: <em>jabai <b>ƕas</b> anþar þugkeiþ trauan in leika ik mais</em>
-* <em>all</em>
-  * <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 61: <em>ni bi hlaib ainana libaid manna ak bi <b>all</b> waurde gudis</em>
-  * <tt><a href="got_proiel-pos-DET.html">DET</a></tt> 17: <em><b>all</b> auk þata þiudos sokjand</em>
-* <em>sumai</em>
-  * <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 56: <em><b>sumai</b> h qeþun</em>
-  * <tt><a href="got_proiel-pos-DET.html">DET</a></tt> 1: <em>staua was sums in <b>sumai</b> baurg guþ ni ogands jah mannan ni aistands</em>
-* <em>meina</em>
-  * <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 52: <em>þisƕah þei bidjais mik giba þus und halba þiudangardja <b>meina</b></em>
-  * <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> 15: <em>aþþan saei fraqisteiþ saiwalai seinai in <b>meina</b> ganasjiþ þo</em>
-* <em>izwara</em>
-  * <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 51: <em>ƕar ist galaubeins <b>izwara</b></em>
-  * <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> 40: <em>Atsaiƕiþ armaion <b>izwara</b> ni taujan in andwairþja manne du saiƕan im</em>
-* <em>þamma</em>
-  * <tt><a href="got_proiel-pos-DET.html">DET</a></tt> 245: <em>ak ana lukarnastaþin jah liuteiþ allaim þaim in <b>þamma</b> garda</em>
-  * <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 46: <em>jah gamarzidai waurþun in <b>þamma</b></em>
-* <em>allai</em>
-  * <tt><a href="got_proiel-pos-DET.html">DET</a></tt> 77: <em><b>allai</b> swa managai swe qemun þiubos sind jah waidedjans</em>
-  * <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 44: <em>jah <b>allai</b> sildaleikidedun</em>
+* <em>anþar</em>
+  * <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 30: <em>ains skulda skatte fimf hunda iþ <b>anþar</b> fimf tiguns</em>
+  * <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> 5: <em>Galeik ist barnam sitandam in garunsim jah wopjandam <b>anþar</b> anþaris jah qiþandam</em>
+* <em>silba</em>
+  * <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 27: <em>jah <b>silba</b> was bandwjands im jah gawas dumbs</em>
+  * <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> 8: <em><b>silba</b> auk Daweid qaþ in ahmin weihamma</em>
+* <em>silban</em>
+  * <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> 29: <em>þu leiki hailei þuk <b>silban</b></em>
+  * <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 26: <em>ei ni qiþau þus þatei jaþ þuk <b>silban</b> mis skula is</em>
+* <em>silbans</em>
+  * <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 23: <em>iþ jabai <b>silbans</b> uns stauidedeima ni þau</em>
+  * <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> 5: <em>jus sijuþ juzei garaihtans domeiþ izwis <b>silbans</b> in andwairþja manne</em>
+* <em>weiha</em>
+  * <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 12: <em>sa <b>weiha</b> gudis</em>
+  * <tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt> 1: <em>sa was auk swaihra Kajafin saei was auhumists <b>weiha</b> þis ataþnjis</em>
+  * <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> 1: <em>jah fram im ik <b>weiha</b> mik silban ei sijaina jah eis weihai in sunjai</em>
+* <em>anþarana</em>
+  * <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 11: <em>jah aftra insandida du im <b>anþarana</b> skalk</em>
+  * <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> 2: <em>in uh þis þrafsteiþ izwis misso jah timrjaiþ ainƕarjizuh anþar <b>anþarana</b> swaswe jah taujiþ</em>
+* <em>silbam</em>
+  * <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 10: <em>jah dugunnun þai miþanakumbjandans qiþan in sis <b>silbam</b></em>
+  * <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> 2: <em>þaruh sumai þize bokarje qeþun in sis <b>silbam</b></em>
+* <em>frawaurhtans</em>
+  * <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 7: <em>ni qam laþon garaihtans ak <b>frawaurhtans</b> in idreiga</em>
+  * <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> 1: <em>iþ þans <b>frawaurhtans</b> in andwairþja allaize gasak ei jah þai anþarai agis habaina</em>
+* <em>silbo</em>
+  * <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 7: <em>þatainei þizei unledane ei gamuneima þatei usdaudida þata <b>silbo</b> taujan</em>
+  * <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> 1: <em>nibai kaurno ƕaiteis gadriusando in airþa gaswiltiþ <b>silbo</b> ainata aflifniþ</em>
+* <em>weihai</em>
+  * <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> 6: <em>jah fram im ik weiha mik silban ei sijaina jah eis <b>weihai</b> in sunjai</em>
+  * <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> 1: <em><b>weihai</b> ins in sunjai</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 2.971354 (the average of all parts of speech is 2.637304).
+The form / lemma ratio of `ADJ` is 2.719008 (the average of all parts of speech is 2.636364).
 
 The 1st highest number of forms (21) was observed with the lemma “mikils”: <em>maist, maistam, maistans, maistin, maistins, maists, maiza, maizein, maizo, mikil, mikila, mikilai, mikilamma, mikilana, mikilans, mikilata, mikilin, mikilins, mikilon, mikilos, mikils</em>.
 
@@ -60,32 +60,32 @@ The 2nd highest number of forms (19) was observed with the lemma “manags”: <
 
 The 3rd highest number of forms (17) was observed with the lemma “goþs”: <em>batizo, god, goda, godai, godaim, godaize, godaizos, godamma, godana, godans, godin, godis, godo, godon, gods, goþ, goþs</em>.
 
-`ADJ` occurs with 8 features: <tt><a href="got_proiel-feat-Case.html">Case</a></tt> (4774; 100% instances), <tt><a href="got_proiel-feat-Number.html">Number</a></tt> (4774; 100% instances), <tt><a href="got_proiel-feat-Gender.html">Gender</a></tt> (4702; 98% instances), <tt><a href="got_proiel-feat-Degree.html">Degree</a></tt> (2309; 48% instances), <tt><a href="got_proiel-feat-Strength.html">Strength</a></tt> (2304; 48% instances), <tt><a href="got_proiel-feat-Person.html">Person</a></tt> (1134; 24% instances), <tt><a href="got_proiel-feat-Poss.html">Poss</a></tt> (1134; 24% instances), <tt><a href="got_proiel-feat-Reflex.html">Reflex</a></tt> (278; 6% instances)
+`ADJ` occurs with 5 features: <tt><a href="got_proiel-feat-Case.html">Case</a></tt> (2333; 100% instances), <tt><a href="got_proiel-feat-Number.html">Number</a></tt> (2333; 100% instances), <tt><a href="got_proiel-feat-Degree.html">Degree</a></tt> (2309; 99% instances), <tt><a href="got_proiel-feat-Strength.html">Strength</a></tt> (2304; 99% instances), <tt><a href="got_proiel-feat-Gender.html">Gender</a></tt> (2297; 98% instances)
 
-`ADJ` occurs with 23 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Case=Voc`, `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `Gender=Fem`, `Gender=Fem,Masc`, `Gender=Fem,Neut`, `Gender=Masc`, `Gender=Masc,Neut`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`, `Reflex=Yes`, `Strength=Strong`, `Strength=Weak`
+`ADJ` occurs with 18 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Case=Voc`, `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `Gender=Fem`, `Gender=Fem,Masc`, `Gender=Fem,Neut`, `Gender=Masc`, `Gender=Masc,Neut`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `Strength=Strong`, `Strength=Weak`
 
-`ADJ` occurs with 222 feature combinations.
-The most frequent feature combination is `Case=Nom|Gender=Masc|Number=Sing` (305 tokens).
-Examples: <em>sa, ƕas, ainshun, ƕazuh, sums, ƕarjizuh, sah, jains, saƕazuh, ƕashun</em>
+`ADJ` occurs with 121 feature combinations.
+The most frequent feature combination is `Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong` (260 tokens).
+Examples: <em>wairþs, anþar, mikils, triggws, blinds, gredags, mahteigs, siuks, freis, gabigs</em>
 
 
 ## Relations
 
-`ADJ` nodes are attached to their parents using 22 different relations: <tt><a href="got_proiel-dep-nmod.html">nmod</a></tt> (1213; 25% instances), <tt><a href="got_proiel-dep-amod.html">amod</a></tt> (778; 16% instances), <tt><a href="got_proiel-dep-nsubj.html">nsubj</a></tt> (719; 15% instances), <tt><a href="got_proiel-dep-obj.html">obj</a></tt> (509; 11% instances), <tt><a href="got_proiel-dep-conj.html">conj</a></tt> (278; 6% instances), <tt><a href="got_proiel-dep-obl.html">obl</a></tt> (253; 5% instances), <tt><a href="got_proiel-dep-root.html">root</a></tt> (235; 5% instances), <tt><a href="got_proiel-dep-xcomp.html">xcomp</a></tt> (181; 4% instances), <tt><a href="got_proiel-dep-advmod.html">advmod</a></tt> (174; 4% instances), <tt><a href="got_proiel-dep-iobj.html">iobj</a></tt> (143; 3% instances), <tt><a href="got_proiel-dep-advcl.html">advcl</a></tt> (65; 1% instances), <tt><a href="got_proiel-dep-nsubj-pass.html">nsubj:pass</a></tt> (58; 1% instances), <tt><a href="got_proiel-dep-appos.html">appos</a></tt> (55; 1% instances), <tt><a href="got_proiel-dep-ccomp.html">ccomp</a></tt> (34; 1% instances), <tt><a href="got_proiel-dep-dislocated.html">dislocated</a></tt> (33; 1% instances), <tt><a href="got_proiel-dep-orphan.html">orphan</a></tt> (19; 0% instances), <tt><a href="got_proiel-dep-acl.html">acl</a></tt> (18; 0% instances), <tt><a href="got_proiel-dep-obl-agent.html">obl:agent</a></tt> (6; 0% instances), <tt><a href="got_proiel-dep-vocative.html">vocative</a></tt> (4; 0% instances), <tt><a href="got_proiel-dep-csubj-pass.html">csubj:pass</a></tt> (2; 0% instances), <tt><a href="got_proiel-dep-parataxis.html">parataxis</a></tt> (2; 0% instances), <tt><a href="got_proiel-dep-fixed.html">fixed</a></tt> (1; 0% instances)
+`ADJ` nodes are attached to their parents using 22 different relations: <tt><a href="got_proiel-dep-amod.html">amod</a></tt> (801; 34% instances), <tt><a href="got_proiel-dep-xcomp.html">xcomp</a></tt> (468; 20% instances), <tt><a href="got_proiel-dep-conj.html">conj</a></tt> (199; 9% instances), <tt><a href="got_proiel-dep-nsubj.html">nsubj</a></tt> (177; 8% instances), <tt><a href="got_proiel-dep-advmod.html">advmod</a></tt> (145; 6% instances), <tt><a href="got_proiel-dep-obj.html">obj</a></tt> (140; 6% instances), <tt><a href="got_proiel-dep-nmod.html">nmod</a></tt> (97; 4% instances), <tt><a href="got_proiel-dep-root.html">root</a></tt> (71; 3% instances), <tt><a href="got_proiel-dep-obl.html">obl</a></tt> (66; 3% instances), <tt><a href="got_proiel-dep-obl-arg.html">obl:arg</a></tt> (57; 2% instances), <tt><a href="got_proiel-dep-orphan.html">orphan</a></tt> (31; 1% instances), <tt><a href="got_proiel-dep-appos.html">appos</a></tt> (25; 1% instances), <tt><a href="got_proiel-dep-advcl-cmp.html">advcl:cmp</a></tt> (22; 1% instances), <tt><a href="got_proiel-dep-dislocated.html">dislocated</a></tt> (13; 1% instances), <tt><a href="got_proiel-dep-nsubj-pass.html">nsubj:pass</a></tt> (10; 0% instances), <tt><a href="got_proiel-dep-advcl.html">advcl</a></tt> (6; 0% instances), <tt><a href="got_proiel-dep-vocative.html">vocative</a></tt> (4; 0% instances), <tt><a href="got_proiel-dep-ccomp.html">ccomp</a></tt> (2; 0% instances), <tt><a href="got_proiel-dep-obl-agent.html">obl:agent</a></tt> (2; 0% instances), <tt><a href="got_proiel-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="got_proiel-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="got_proiel-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
-Parents of `ADJ` nodes belong to 14 different parts of speech: <tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt> (2042; 43% instances), <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> (1922; 40% instances), <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> (291; 6% instances),  (235; 5% instances), <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> (124; 3% instances), <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (56; 1% instances), <tt><a href="got_proiel-pos-AUX.html">AUX</a></tt> (38; 1% instances), <tt><a href="got_proiel-pos-PROPN.html">PROPN</a></tt> (33; 1% instances), <tt><a href="got_proiel-pos-NUM.html">NUM</a></tt> (20; 0% instances), <tt><a href="got_proiel-pos-CCONJ.html">CCONJ</a></tt> (15; 0% instances), <tt><a href="got_proiel-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="got_proiel-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="got_proiel-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="got_proiel-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `ADJ` nodes belong to 10 different parts of speech: <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> (1125; 48% instances), <tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt> (846; 36% instances), <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> (140; 6% instances), <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> (113; 5% instances),  (71; 3% instances), <tt><a href="got_proiel-pos-PROPN.html">PROPN</a></tt> (20; 1% instances), <tt><a href="got_proiel-pos-NUM.html">NUM</a></tt> (12; 1% instances), <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (9; 0% instances), <tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="got_proiel-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
 
-3092 (65%) `ADJ` nodes are leaves.
+1367 (58%) `ADJ` nodes are leaves.
 
-937 (20%) `ADJ` nodes have one child.
+644 (28%) `ADJ` nodes have one child.
 
-352 (7%) `ADJ` nodes have two children.
+212 (9%) `ADJ` nodes have two children.
 
-399 (8%) `ADJ` nodes have three or more children.
+116 (5%) `ADJ` nodes have three or more children.
 
-The highest child degree of a `ADJ` node is 19.
+The highest child degree of a `ADJ` node is 13.
 
-Children of `ADJ` nodes are attached using 24 different relations: <tt><a href="got_proiel-dep-det.html">det</a></tt> (346; 11% instances), <tt><a href="got_proiel-dep-case.html">case</a></tt> (345; 11% instances), <tt><a href="got_proiel-dep-cop.html">cop</a></tt> (332; 10% instances), <tt><a href="got_proiel-dep-advmod.html">advmod</a></tt> (304; 9% instances), <tt><a href="got_proiel-dep-nmod.html">nmod</a></tt> (274; 8% instances), <tt><a href="got_proiel-dep-nsubj.html">nsubj</a></tt> (263; 8% instances), <tt><a href="got_proiel-dep-cc.html">cc</a></tt> (249; 8% instances), <tt><a href="got_proiel-dep-conj.html">conj</a></tt> (224; 7% instances), <tt><a href="got_proiel-dep-acl.html">acl</a></tt> (182; 6% instances), <tt><a href="got_proiel-dep-obl.html">obl</a></tt> (165; 5% instances), <tt><a href="got_proiel-dep-iobj.html">iobj</a></tt> (100; 3% instances), <tt><a href="got_proiel-dep-mark.html">mark</a></tt> (79; 2% instances), <tt><a href="got_proiel-dep-advcl.html">advcl</a></tt> (76; 2% instances), <tt><a href="got_proiel-dep-appos.html">appos</a></tt> (73; 2% instances), <tt><a href="got_proiel-dep-discourse.html">discourse</a></tt> (68; 2% instances), <tt><a href="got_proiel-dep-ccomp.html">ccomp</a></tt> (51; 2% instances), <tt><a href="got_proiel-dep-amod.html">amod</a></tt> (34; 1% instances), <tt><a href="got_proiel-dep-orphan.html">orphan</a></tt> (26; 1% instances), <tt><a href="got_proiel-dep-dislocated.html">dislocated</a></tt> (12; 0% instances), <tt><a href="got_proiel-dep-vocative.html">vocative</a></tt> (9; 0% instances), <tt><a href="got_proiel-dep-nummod.html">nummod</a></tt> (8; 0% instances), <tt><a href="got_proiel-dep-parataxis.html">parataxis</a></tt> (8; 0% instances), <tt><a href="got_proiel-dep-obj.html">obj</a></tt> (3; 0% instances), <tt><a href="got_proiel-dep-fixed.html">fixed</a></tt> (1; 0% instances)
+Children of `ADJ` nodes are attached using 23 different relations: <tt><a href="got_proiel-dep-det.html">det</a></tt> (315; 21% instances), <tt><a href="got_proiel-dep-cc.html">cc</a></tt> (180; 12% instances), <tt><a href="got_proiel-dep-obl.html">obl</a></tt> (175; 12% instances), <tt><a href="got_proiel-dep-conj.html">conj</a></tt> (164; 11% instances), <tt><a href="got_proiel-dep-case.html">case</a></tt> (150; 10% instances), <tt><a href="got_proiel-dep-advmod.html">advmod</a></tt> (114; 8% instances), <tt><a href="got_proiel-dep-nmod.html">nmod</a></tt> (81; 5% instances), <tt><a href="got_proiel-dep-nsubj.html">nsubj</a></tt> (63; 4% instances), <tt><a href="got_proiel-dep-acl.html">acl</a></tt> (34; 2% instances), <tt><a href="got_proiel-dep-mark.html">mark</a></tt> (32; 2% instances), <tt><a href="got_proiel-dep-advcl.html">advcl</a></tt> (30; 2% instances), <tt><a href="got_proiel-dep-orphan.html">orphan</a></tt> (29; 2% instances), <tt><a href="got_proiel-dep-ccomp.html">ccomp</a></tt> (28; 2% instances), <tt><a href="got_proiel-dep-amod.html">amod</a></tt> (24; 2% instances), <tt><a href="got_proiel-dep-advcl-cmp.html">advcl:cmp</a></tt> (20; 1% instances), <tt><a href="got_proiel-dep-appos.html">appos</a></tt> (13; 1% instances), <tt><a href="got_proiel-dep-discourse.html">discourse</a></tt> (9; 1% instances), <tt><a href="got_proiel-dep-obl-arg.html">obl:arg</a></tt> (9; 1% instances), <tt><a href="got_proiel-dep-nummod.html">nummod</a></tt> (5; 0% instances), <tt><a href="got_proiel-dep-parataxis.html">parataxis</a></tt> (5; 0% instances), <tt><a href="got_proiel-dep-dislocated.html">dislocated</a></tt> (3; 0% instances), <tt><a href="got_proiel-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="got_proiel-dep-vocative.html">vocative</a></tt> (1; 0% instances)
 
-Children of `ADJ` nodes belong to 13 different parts of speech: <tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt> (560; 17% instances), <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> (400; 12% instances), <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (387; 12% instances), <tt><a href="got_proiel-pos-ADP.html">ADP</a></tt> (348; 11% instances), <tt><a href="got_proiel-pos-AUX.html">AUX</a></tt> (336; 10% instances), <tt><a href="got_proiel-pos-DET.html">DET</a></tt> (330; 10% instances), <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> (291; 9% instances), <tt><a href="got_proiel-pos-CCONJ.html">CCONJ</a></tt> (250; 8% instances), <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> (193; 6% instances), <tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> (78; 2% instances), <tt><a href="got_proiel-pos-PROPN.html">PROPN</a></tt> (39; 1% instances), <tt><a href="got_proiel-pos-NUM.html">NUM</a></tt> (17; 1% instances), <tt><a href="got_proiel-pos-INTJ.html">INTJ</a></tt> (3; 0% instances)
+Children of `ADJ` nodes belong to 12 different parts of speech: <tt><a href="got_proiel-pos-DET.html">DET</a></tt> (308; 21% instances), <tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt> (266; 18% instances), <tt><a href="got_proiel-pos-CCONJ.html">CCONJ</a></tt> (180; 12% instances), <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> (163; 11% instances), <tt><a href="got_proiel-pos-ADP.html">ADP</a></tt> (152; 10% instances), <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (143; 10% instances), <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> (140; 9% instances), <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> (93; 6% instances), <tt><a href="got_proiel-pos-PROPN.html">PROPN</a></tt> (20; 1% instances), <tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> (10; 1% instances), <tt><a href="got_proiel-pos-NUM.html">NUM</a></tt> (9; 1% instances), <tt><a href="got_proiel-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
 

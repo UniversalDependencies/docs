@@ -65,9 +65,9 @@ The 3rd highest number of forms (6) was observed with the lemma “amo”: <em>a
 
 `PRON` occurs with 11 features: <tt><a href="gub_tudet-feat-PronType.html">PronType</a></tt> (806; 91% instances), <tt><a href="gub_tudet-feat-Case.html">Case</a></tt> (79; 9% instances), <tt><a href="gub_tudet-feat-Person.html">Person</a></tt> (44; 5% instances), <tt><a href="gub_tudet-feat-Number.html">Number</a></tt> (28; 3% instances), <tt><a href="gub_tudet-feat-Rel.html">Rel</a></tt> (13; 1% instances), <tt><a href="gub_tudet-feat-Clusivity.html">Clusivity</a></tt> (8; 1% instances), <tt><a href="gub_tudet-feat-Emph.html">Emph</a></tt> (8; 1% instances), <tt><a href="gub_tudet-feat-Person-psor.html">Person[psor]</a></tt> (4; 0% instances), <tt><a href="gub_tudet-feat-Poss.html">Poss</a></tt> (3; 0% instances), <tt><a href="gub_tudet-feat-Int.html">Int</a></tt> (2; 0% instances), <tt><a href="gub_tudet-feat-Red.html">Red</a></tt> (2; 0% instances)
 
-`PRON` occurs with 30 feature-value pairs: `Case=Abl`, `Case=All`, `Case=Dat`, `Case=Equ`, `Case=Loc`, `Case=Ref`, `Case=Tem`, `Clusivity=In`, `Emph=Yes`, `Int=Yes`, `Number=Coll`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Person[psor]=1`, `Person[psor]=2`, `Person[psor]=3`, `Poss=Yes`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Prs`, `PronType=Tot`, `Red=Di`, `Rel=Abs`, `Rel=Cont`, `Rel=Corf`, `Rel=NCont`
+`PRON` occurs with 29 feature-value pairs: `Case=Abl`, `Case=Dat`, `Case=Equ`, `Case=Loc`, `Case=Ref`, `Case=Tem`, `Clusivity=In`, `Emph=Yes`, `Int=Yes`, `Number=Coll`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Person[psor]=1`, `Person[psor]=2`, `Person[psor]=3`, `Poss=Yes`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Prs`, `PronType=Tot`, `Red=Di`, `Rel=Abs`, `Rel=Cont`, `Rel=Corf`, `Rel=NCont`
 
-`PRON` occurs with 49 feature combinations.
+`PRON` occurs with 48 feature combinations.
 The most frequent feature combination is `PronType=Dem` (634 tokens).
 Examples: <em>aʔe, aʔepe, kwez, aʔewi, ʔaw, Agwer, Aikwez, Aiʔag, Aiʔaw, Aʔea</em>
 

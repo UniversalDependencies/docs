@@ -111,9 +111,9 @@ The following 4 pairs of parts of speech are connected with `advcl:pred`: <tt><a
 12	per	per	ADP	r|r|-|-|-|-|-|-|-|-	_	14	case	_	_
 13	hanc	hic	DET	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	14	det	_	_
 14	cartulam	chartula	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Degree=Dim|Gender=Fem|Number=Sing	15	obl	_	_
-15	vendere	uendo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	18	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+15	vendere	uendo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	18	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 16	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	17	cc	_	_
-17	tradere	trado	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	15	conj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+17	tradere	trado	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	15	conj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 18	videor	uideo	VERB	v|v|1|s|p|i|p|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	1	csubj	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 19	tibi	tu	PRON	p|p|2|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	20	det	_	_
 20	Iohanni	Johannes	PROPN	Propn|n|-|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing	15	obl:arg	_	_
@@ -146,7 +146,7 @@ The following 4 pairs of parts of speech are connected with `advcl:pred`: <tt><a
 47	omnibus	omnis	DET	a|a|-|p|-|-|-|n|b|-	Case=Abl|Gender=Neut|Number=Plur|PronType=Tot	44	conj	_	SpaceAfter=No
 48	,	,	PUNCT	Punc	_	51	punct	_	_
 49	quantum	quantum	ADV	d|d|-|-|-|-|-|-|-|-	PronType=Rel	50	advmod	_	_
-50	habere	habeo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	51	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+50	habere	habeo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	51	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 51	videor	uideo	VERB	v|v|1|s|p|i|p|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	44	acl:relcl	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 52	,	,	PUNCT	Punc	_	44	punct	_	_
 53	culta	cultus	ADJ	a|a|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	54	amod	_	_

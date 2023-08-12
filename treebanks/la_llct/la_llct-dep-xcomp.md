@@ -29,7 +29,7 @@ The following 15 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 5	homines	homo	NOUN	n|n|-|p|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Plur	8	obj	_	_
 6	ad	ad	ADP	r|r|-|-|-|-|-|-|-|-	_	7	mark	_	_
 7	abitandum	habito	VERB	t|t|-|s|p|d|p|n|a|-	Aspect=Prosp|Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	8	advcl	_	TraditionalMood=Gerundium
-8	mittere	mitto	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	9	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+8	mittere	mitto	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	9	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 9	debeamus	debeo	VERB	v|v|1|p|p|s|a|-|-|-	Aspect=Imp|Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|TraditionalMood=Subiunctivus|TraditionalTense=Praesens
 10	.	.	PUNCT	Punc	_	9	punct	_	_
 

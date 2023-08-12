@@ -70,7 +70,7 @@ The following 22 pairs of parts of speech are connected with `advmod`: <tt><a hr
 5	мон	мон	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	GTtags=Pers,Sg1,Nom
 6	эщо	ещё	ADV	Adv	AdvType=Tim	8	advmod:tmod	_	GTtags=Err/Lex,Temp
 7	эзинь	а	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Polarity=Neg|Tense=Past|VerbType=Aux	8	aux:neg	_	GTtags=VerbType=Aux,Neg,Ind,Prt1,ScSg1
-8	учне	учнемс	VERB	V	Connegative=Yes|Valency=2	0	root	_	GTtags=TV,ConNeg
+8	учне	учнемс	VERB	V	Connegative=Yes	0	root	_	GTtags=TV,ConNeg
 9	эйсэнк	эйсэ	ADP	Adp	Case=Ine|Number[psor]=Plur|Person[psor]=2	8	obj	_	GTtags=Ine,PxPl2|SpaceAfter=No
 10	!..	^excl..	PUNCT	CLB	_	8	punct	_	_
 

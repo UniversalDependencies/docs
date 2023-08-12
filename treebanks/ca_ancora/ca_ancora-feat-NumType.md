@@ -42,7 +42,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (1615; 100% of non-empty `NumType`): <em>primer, primera, últims, segona, últim, segon, primers, tercer, última, darrers</em>
-* `EMPTY` (28466): <em>passat, gran, nou, general, nova, catalana, espanyol, grans, baix, noves</em>
+* `EMPTY` (28467): <em>passat, gran, nou, general, nova, catalana, espanyol, grans, baix, noves</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (44) occur only with one value of `NumType`.
 
@@ -55,7 +55,7 @@ The most frequent other feature values with which `SYM` and `NumType` co-occurre
 `SYM` tokens may have the following values of `NumType`:
 
 * `Frac` (580; 100% of non-empty `NumType`): <em>50%, 10%, 30%, 5%, 25%, 1%, 20%, 40%, 2%, 0,1%</em>
-* `EMPTY` (233): <em>%, 10%, 2%, 40%, -, -3%, 1%, 10,2%, 13,7%, 22,7%</em>
+* `EMPTY` (234): <em>%, 10%, 2%, 40%, &, -, -3%, 1%, 10,2%, 13,7%</em>
 
 `NumType` seems to be **lexical feature** of `SYM`. 100% lemmas (263) occur only with one value of `NumType`.
 
@@ -70,6 +70,6 @@ The 10 most frequent relations where parent and child node agree in `NumType`:
 <tt>ADJ --[<tt><a href="ca_ancora-dep-conj.html">conj</a></tt>]--> ADJ</tt> (6; 67%),
 <tt>SYM --[<tt><a href="ca_ancora-dep-appos.html">appos</a></tt>]--> SYM</tt> (6; 86%),
 <tt>SYM --[<tt><a href="ca_ancora-dep-obl.html">obl</a></tt>]--> SYM</tt> (3; 100%),
-<tt>NUM --[<tt><a href="ca_ancora-dep-dep.html">dep</a></tt>]--> NUM</tt> (1; 100%),
-<tt>NUM --[<tt><a href="ca_ancora-dep-obj.html">obj</a></tt>]--> NUM</tt> (1; 100%).
+<tt>ADJ --[<tt><a href="ca_ancora-dep-obj.html">obj</a></tt>]--> ADJ</tt> (1; 100%),
+<tt>NUM --[<tt><a href="ca_ancora-dep-dep.html">dep</a></tt>]--> NUM</tt> (1; 100%).
 

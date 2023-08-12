@@ -13,18 +13,18 @@ The 10 most frequent `INTJ` lemmas: <em>iwej, ẽ, ahaha, ahh, uf</em>
 
 The 10 most frequent `INTJ` types:  <em>iwej, ẽ, ahaha, ahh, ufuf</em>
 
-The 10 most frequent ambiguous lemmas: <em>ẽ</em> (<tt><a href="aqz_tudet-pos-DET.html">DET</a></tt> 3, <tt><a href="aqz_tudet-pos-INTJ.html">INTJ</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>ẽ</em> (<tt><a href="aqz_tudet-pos-DET.html">DET</a></tt> 4, <tt><a href="aqz_tudet-pos-INTJ.html">INTJ</a></tt> 2)
 
-The 10 most frequent ambiguous types:  <em>ẽ</em> (<tt><a href="aqz_tudet-pos-DET.html">DET</a></tt> 3, <tt><a href="aqz_tudet-pos-INTJ.html">INTJ</a></tt> 2)
+The 10 most frequent ambiguous types:  <em>ẽ</em> (<tt><a href="aqz_tudet-pos-DET.html">DET</a></tt> 4, <tt><a href="aqz_tudet-pos-INTJ.html">INTJ</a></tt> 2)
 
 
 * <em>ẽ</em>
-  * <tt><a href="aqz_tudet-pos-DET.html">DET</a></tt> 3: <em>otojẽpitin <b>ẽ</b> tow <b>ẽ</b> tow ebapap ɨro tojẽpitin</em>
+  * <tt><a href="aqz_tudet-pos-DET.html">DET</a></tt> 4: <em>otojẽpitin <b>ẽ</b> tow <b>ẽ</b> tow ebapap ɨro tojẽpitin</em>
   * <tt><a href="aqz_tudet-pos-INTJ.html">INTJ</a></tt> 2: <em>oatap ãka <b>ẽ</b> <b>ẽ</b> , oatap õkwa on</em>
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.420613).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.418283).
 
 The 1st highest number of forms (1) was observed with the lemma “ahaha”: <em>ahaha</em>.
 

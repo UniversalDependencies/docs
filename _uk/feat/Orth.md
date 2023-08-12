@@ -10,4 +10,4 @@ udver: '2'
 #### Examples
 
 * _<b>мудрости</b>_ = alternative genitive form of _мудрість_ “wisdom”, the standard form is _мудрості_
-<!-- Interlanguage links updated Po lis 14 15:34:52 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:43 CEST -->

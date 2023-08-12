@@ -34,5 +34,5 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (2; 100% of non-empty `Abbr`): <em>klo, ven.</em>
-* `EMPTY` (838): <em>muamo, muan, poika, tunti, ihmisie, vuotena, kulttuurien, lapšien, ropehet, aktijo</em>
+* `EMPTY` (837): <em>muamo, muan, poika, tunti, ihmisie, vuotena, kulttuurien, lapšien, ropehet, aktijo</em>
 

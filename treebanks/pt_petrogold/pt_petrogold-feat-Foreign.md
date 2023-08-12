@@ -23,5 +23,5 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (16; 100% of non-empty `Foreign`): <em>grid, grids, download</em>
-* `EMPTY` (57556): <em>óleo, água, figura, fluido, petróleo, gás, fluidos, produção, área, argila</em>
+* `EMPTY` (57547): <em>óleo, água, figura, fluido, petróleo, gás, fluidos, produção, área, argila</em>
 

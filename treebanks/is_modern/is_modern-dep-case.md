@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-9050 nodes (11%) are attached to their parents as `case`.
+8877 nodes (11%) are attached to their parents as `case`.
 
-8871 instances of `case` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.48165745856354.
+8702 instances of `case` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.47335811648079.
 
-The following 13 pairs of parts of speech are connected with `case`: <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt>-<tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (5666; 63% instances), <tt><a href="is_modern-pos-PRON.html">PRON</a></tt>-<tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (1306; 14% instances), <tt><a href="is_modern-pos-PROPN.html">PROPN</a></tt>-<tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (704; 8% instances), <tt><a href="is_modern-pos-VERB.html">VERB</a></tt>-<tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (678; 7% instances), <tt><a href="is_modern-pos-DET.html">DET</a></tt>-<tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (291; 3% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt>-<tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (168; 2% instances), <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt>-<tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (128; 1% instances), <tt><a href="is_modern-pos-NUM.html">NUM</a></tt>-<tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (39; 0% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt>-<tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (25; 0% instances), <tt><a href="is_modern-pos-PART.html">PART</a></tt>-<tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (22; 0% instances), <tt><a href="is_modern-pos-ADP.html">ADP</a></tt>-<tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (11; 0% instances), <tt><a href="is_modern-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (11; 0% instances), <tt><a href="is_modern-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `case`: <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt>-<tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (5623; 63% instances), <tt><a href="is_modern-pos-PRON.html">PRON</a></tt>-<tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (1295; 15% instances), <tt><a href="is_modern-pos-PROPN.html">PROPN</a></tt>-<tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (699; 8% instances), <tt><a href="is_modern-pos-VERB.html">VERB</a></tt>-<tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (615; 7% instances), <tt><a href="is_modern-pos-DET.html">DET</a></tt>-<tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (276; 3% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt>-<tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (155; 2% instances), <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt>-<tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (124; 1% instances), <tt><a href="is_modern-pos-NUM.html">NUM</a></tt>-<tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (33; 0% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt>-<tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (23; 0% instances), <tt><a href="is_modern-pos-PART.html">PART</a></tt>-<tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (20; 0% instances), <tt><a href="is_modern-pos-ADP.html">ADP</a></tt>-<tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (9; 0% instances), <tt><a href="is_modern-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="is_modern-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -50,7 +50,7 @@ The following 13 pairs of parts of speech are connected with `case`: <tt><a href
 4	pent	penn	ADJ	ADJ-N	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	IFD_tag=lhensf
 5	og	og	CCONJ	CONJ	_	6	cc	_	IFD_tag=c
 6	huggulegt	huggulegur	ADJ	ADJ-N	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	IFD_tag=lhensf|SpaceAfter=No
-7	,	,	PUNCT	,	_	6	punct	_	IFD_tag=
+7	,	,	PUNCT	,	_	6	punct	_	IFD_tag
 8	takk	takk	INTJ	INTJ	_	10	discourse	_	IFD_tag=x
 9	fyrir	fyrir	ADP	P	_	10	case	_	IFD_tag=ao
 10	það	það	PRON	PRO-A	Case=Acc|Gender=Neut|Number=Sing|PronType=Prs	4	conj	_	IFD_tag=fpheo|OriginalHead=0|SpaceAfter=No

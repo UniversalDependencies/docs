@@ -94,7 +94,7 @@ The following 6 pairs of parts of speech are connected with `list`: <tt><a href=
 19	,	,	PUNCT	_	_	21	punct	_	_
 20	«	«	PUNCT	_	_	21	punct	_	SpaceAfter=No
 21	Evoluções	evolução	NOUN	_	ExtPos=PROPN|Gender=Fem|Number=Plur	9	appos	_	_
-22	demográficas	demográfica	ADJ	_	Gender=Fem|Number=Plur	21	amod	_	SpaceAfter=No
+22	demográficas	demográfico	ADJ	_	Gender=Fem|Number=Plur	21	amod	_	SpaceAfter=No
 23	:	:	PUNCT	_	_	22	punct	_	_
 24	dimensões	dimensões	PROPN	_	Number=Sing	21	list	_	_
 25	éticas	ética	ADJ	_	Gender=Fem|Number=Sing	24	amod	_	_

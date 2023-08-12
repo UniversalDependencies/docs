@@ -30,7 +30,7 @@ The following 3 pairs of parts of speech are connected with `case:voc`: <tt><a h
 6	mhòr	mòr	ADJ	Aq-smd	Case=Dat|Gender=Masc|Number=Sing	5	amod	_	_
 7	a-neist	a-neist	ADV	Rt	_	5	advmod	_	_
 8	a	a	PART	Uv	PartType=Voc	9	case:voc	_	_
-9	[Name]	[Name]	PROPN	Nn-mv	Case=Voc|Gender=Masc	1	vocative	_	_
+9	[Name]	[Name]	PROPN	Nn-mv	Case=Voc|Gender=Masc	1	vocative	_	Anonymised=Yes
 
 ~~~
 

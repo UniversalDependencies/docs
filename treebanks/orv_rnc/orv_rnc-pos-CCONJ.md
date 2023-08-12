@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  <em>и</em> (<tt><a href="orv_rnc-pos-CCO
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.294118 (the average of all parts of speech is 1.991385).
+The form / lemma ratio of `CCONJ` is 1.294118 (the average of all parts of speech is 1.988362).
 
 The 1st highest number of forms (3) was observed with the lemma “да”: <em>д[а], да, до</em>.
 
@@ -78,7 +78,7 @@ Examples: <em>и, а, да, или, но, ни, і, же, ино, али</em>
 
 `CCONJ` nodes are attached to their parents using 6 different relations: <tt><a href="orv_rnc-dep-cc.html">cc</a></tt> (4008; 99% instances), <tt><a href="orv_rnc-dep-fixed.html">fixed</a></tt> (11; 0% instances), <tt><a href="orv_rnc-dep-orphan.html">orphan</a></tt> (9; 0% instances), <tt><a href="orv_rnc-dep-mark.html">mark</a></tt> (6; 0% instances), <tt><a href="orv_rnc-dep-advmod.html">advmod</a></tt> (2; 0% instances), <tt><a href="orv_rnc-dep-case.html">case</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 11 different parts of speech: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (1837; 46% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (1550; 38% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (341; 8% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (187; 5% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (51; 1% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (40; 1% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (12; 0% instances), <tt><a href="orv_rnc-pos-CCONJ.html">CCONJ</a></tt> (10; 0% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="orv_rnc-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 11 different parts of speech: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (1837; 46% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (1548; 38% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (341; 8% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (187; 5% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (53; 1% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (40; 1% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (12; 0% instances), <tt><a href="orv_rnc-pos-CCONJ.html">CCONJ</a></tt> (10; 0% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="orv_rnc-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
 4020 (100%) `CCONJ` nodes are leaves.
 

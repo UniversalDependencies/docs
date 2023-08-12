@@ -9,60 +9,53 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `advcl`: <tt><a href="vi_vtb-dep-advcl-objective.html">advcl:objective</a></tt>.
 
-681 nodes (2%) are attached to their parents as `advcl`.
+866 nodes (1%) are attached to their parents as `advcl`.
 
-539 instances of `advcl` (79%) are right-to-left (child precedes parent).
-Average distance between parent and child is 6.77239353891336.
+669 instances of `advcl` (77%) are right-to-left (child precedes parent).
+Average distance between parent and child is 7.46766743648961.
 
-The following 28 pairs of parts of speech are connected with `advcl`: <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (402; 59% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (71; 10% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> (63; 9% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (41; 6% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-ADP.html">ADP</a></tt> (24; 4% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (20; 3% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (10; 1% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (8; 1% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> (6; 1% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="vi_vtb-pos-X.html">X</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt>-<tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-AUX.html">AUX</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-X.html">X</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 30 pairs of parts of speech are connected with `advcl`: <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (539; 62% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> (90; 10% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (67; 8% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (56; 6% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-ADP.html">ADP</a></tt> (32; 4% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (24; 3% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (9; 1% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> (8; 1% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (8; 1% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="vi_vtb-pos-X.html">X</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-ADV.html">ADV</a></tt>-<tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-AUX.html">AUX</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-X.html">X</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 4 advcl	color:blue
-1	Chị	chị	NOUN	Nc	_	2	clf:det	_	_
-2	Tiệp	Tiệp	PROPN	NNP	_	4	nsubj	_	_
-3	phải	phải	AUX	AUX	_	4	aux	_	_
-4	lấy	lấy	VERB	V	_	11	advcl	_	_
-5	tay	tay	NOUN	N	_	4	obj	_	_
-6	bóp	bóp	VERB	V	_	4	xcomp	_	_
-7	vào	vào	ADV	Adv	_	6	compound:prt	_	_
-8	yết hầu	yết hầu	NOUN	N	_	6	obj	_	_
-9	nó	nó	PRON	Pro	_	11	nsubj	_	_
-10	mới	mới	ADV	Adv	_	11	advmod	_	_
-11	nhả	nhả	VERB	V	_	0	root	_	_
-12	ra	ra	ADV	Adv	_	11	compound:prt	_	_
-13	.	.	PUNCT	.	_	11	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 1 advcl	color:blue
+1	Nhặt	nhặt	VERB	V	_	8	advcl	_	_
+2	chim	chim	NOUN	N	_	1	obj	_	_
+3	xong	xong	ADV	ADV	_	1	advmod	_	_
+4	,	,	PUNCT	PUNCT	_	8	punct	_	_
+5	ông	ông	NOUN	N	_	8	nsubj	_	_
+6	lại	lại	ADV	ADV	_	8	advmod	_	_
+7	nhanh chóng	nhanh chóng	ADJ	ADJ	_	8	advmod:adj	_	_
+8	dựng	dựng	VERB	V	_	0	root	_	_
+9	lưới	lưới	NOUN	N	_	8	obj	_	_
+10	lên	lên	VERB	V	_	8	xcomp	_	_
+11	.	.	PUNCT	PUNCT	_	8	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 14 advcl	color:blue
-1	"	"	PUNCT	``	_	4	punct	_	_
-2	Tôi	tôi	PRON	Pro	_	4	nsubj	_	_
-3	không	không	ADV	Adv	_	4	advmod:neg	_	_
-4	muốn	muốn	VERB	V	_	0	root	_	_
-5	bị	bị	AUX	AUX	_	6	aux:pass	_	_
-6	coi	coi	VERB	V	_	4	xcomp	_	_
-7	là	là	SCONJ	SC	_	6	fixed	_	_
-8	kẻ	kẻ	NOUN	N	_	6	obj	_	_
-9	ăn đậu ở nhờ	ăn đậu ở nhờ	X	X	_	8	compound:vmod	_	_
-10	,	,	PUNCT	,	_	4	punct	_	_
-11	dù	dù	ADP	Pre	_	14	cc	_	_
-12	nó	nó	PRON	Pro	_	14	nsubj	_	_
-13	là	là	AUX	V	_	14	cop	_	_
-14	con	con	NOUN	N	_	4	advcl	_	_
-15	tôi	tôi	PRON	Pro	_	14	nmod:poss	_	_
-16	"	"	PUNCT	``	_	4	punct	_	_
-17	.	.	PUNCT	.	_	4	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 2 advcl	color:blue
+1	Vừa	vừa	ADV	ADV	_	2	advmod	_	_
+2	may	may	ADJ	ADJ	_	8	advcl	_	_
+3	lúc	lúc	NOUN	N	_	8	obl:tmod	_	_
+4	đó	đó	PRON	PRO	_	3	det:pmod	_	_
+5	anh	anh	NOUN	N	_	6	clf:det	_	_
+6	Ba Duẩn	Ba Duẩn	PROPN	NNP	_	8	nsubj	_	_
+7	đang	đang	ADV	ADV	_	8	advmod	_	_
+8	đi	đi	VERB	V	_	0	root	_	_
+9	công tác	công tác	VERB	V	_	8	xcomp	_	_
+10	ở	ở	ADP	PRE	_	11	case	_	_
+11	Quảng Bình	Quảng Bình	PROPN	NNP	_	9	obl	_	_
+12	.	.	PUNCT	PUNCT	_	8	punct	_	_
 
 ~~~
 
@@ -70,19 +63,25 @@ The following 28 pairs of parts of speech are connected with `advcl`: <tt><a hre
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 1 advcl	color:blue
-1	Tờ mờ	tờ mờ	ADJ	Adj	_	5	advcl	_	_
-2	sáng	sáng	NOUN	N	_	1	obl:adj	_	_
-3	,	,	PUNCT	,	_	1	punct	_	_
-4	địch	địch	NOUN	N	_	5	nsubj	_	_
-5	đổ	đổ	VERB	V	_	0	root	_	_
-6	quân	quân	NOUN	N	_	5	obj	_	_
-7	trên	trên	ADP	Pre	_	9	case	_	_
-8	toàn	toàn	ADJ	Adj	_	9	advmod:adj	_	_
-9	tuyến	tuyến	NOUN	N	_	5	obl	_	_
-10	.	.	PUNCT	.	_	5	punct	_	_
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 1 advcl	color:blue
+1	Khi	khi	NOUN	N	_	13	advcl	_	_
+2	khách	khách	NOUN	N	_	3	nsubj	_	_
+3	về	về	VERB	V	_	1	acl:tmod	_	_
+4	nước	nước	NOUN	N	_	3	obj	_	_
+5	rồi	rồi	ADV	Adv	_	3	advmod	_	_
+6	,	,	PUNCT	,	_	1	punct	_	_
+7	cả	cả	PRON	Pro	_	8	det	_	_
+8	thẻ	thẻ	NOUN	N	_	13	dislocated	_	_
+9	học	học	VERB	V	_	8	compound:vmod	_	_
+10	lẫn	lẫn	SCONJ	SC	_	11	cc	_	_
+11	xe đạp	xe đạp	NOUN	N	_	8	conj	_	_
+12	chúng	chúng	PRON	Pro	_	13	nsubj	_	_
+13	đem	đem	VERB	V	_	0	root	_	_
+14	đi	đi	VERB	V	_	13	xcomp	_	_
+15	bán	bán	VERB	V	_	14	xcomp	_	_
+16	.	.	PUNCT	.	_	13	punct	_	_
 
 ~~~
 

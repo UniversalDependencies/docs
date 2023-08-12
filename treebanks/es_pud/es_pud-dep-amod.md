@@ -22,12 +22,12 @@ The following 5 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 11 amod	color:blue
-1	Le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	2	iobj	_	_
-2	apasiona	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+1	Le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	2	obl:arg	_	_
+2	apasiona	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	guitarra	guitarra	NOUN	NN	Gender=Fem|Number=Sing	2	obj	_	_
 5	y	y	CCONJ	CC	_	6	cc	_	_
-6	dio	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
+6	dio	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
 7	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	concierto	concierto	NOUN	NN	Gender=Masc|Number=Sing	6	obj	_	_
 9	allí	allí	ADV	RB	_	6	advmod	_	_
@@ -48,11 +48,11 @@ The following 5 pairs of parts of speech are connected with `amod`: <tt><a href=
 1	Su	su	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	det	_	_
 2	primer	primer	ADJ	JJ	Gender=Masc|Number=Sing	3	amod	_	_
 3	rey	rey	NOUN	NN	Gender=Masc|Number=Sing	0	root	_	_
-4	fue	ser	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	_
+4	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
 5	Mojmír	Mojmír	PROPN	NNP	Gender=Masc|Number=Sing	3	nsubj	_	_
 6	I	i	ADJ	JJ	Gender=Masc|Number=Sing	5	amod	_	Proper=True
 7	(	(	PUNCT	(	_	8	punct	_	SpaceAfter=No
-8	reinó	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	_
+8	reinó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	parataxis	_	_
 9	de	de	ADP	INDT	_	11	case	_	_
 10	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	830-846	830-846	NUM	CD	Gender=Masc|NumType=Card	8	obl	_	SpaceAfter=No
@@ -69,7 +69,7 @@ The following 5 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 20	fgColor:white
 # visual-style 20 21 amod	color:blue
 1	Se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	compound:prt	_	_
-2	halla	_	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
+2	halla	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	solo	solo	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	_
 4	frente	frente	NOUN	NN	Gender=Fem|Number=Sing	7	case	_	_
 5	a	a	ADP	INDT	_	4	fixed	_	_
@@ -81,7 +81,7 @@ The following 5 pairs of parts of speech are connected with `amod`: <tt><a href=
 11	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	fixed	_	_
 12	fondo	fondo	NOUN	NN	Gender=Masc|Number=Sing	10	fixed	_	SpaceAfter=No
 13	,	,	PUNCT	,	_	10	punct	_	_
-14	tiene	_	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	aux	_	_
+14	tiene	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_
 15	que	que	ADP	IN	_	14	fixed	_	_
 16	sacar	sacar	VERB	VB	VerbForm=Inf	3	conj	_	_
 17	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	18	det	_	_
@@ -91,7 +91,7 @@ The following 5 pairs of parts of speech are connected with `amod`: <tt><a href=
 21	mismo	mismo	ADJ	JJ	Gender=Masc|Number=Sing	20	amod	_	_
 22	para	para	ADP	IN	_	23	case	_	_
 23	hacer	hacer	VERB	VB	VerbForm=Inf	16	xcomp	_	_
-24	reír	_	VERB	VB	Aspect=Imp|VerbForm=Fin|Voice=Act	23	xcomp	_	_
+24	reír	_	VERB	VB	Tense=Imp|VerbForm=Fin	23	xcomp	_	_
 25	a	a	ADP	INDT	_	27	case	_	_
 26	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
 27	espectador	espectador	NOUN	NN	Gender=Masc|Number=Sing	23	obl	_	SpaceAfter=No

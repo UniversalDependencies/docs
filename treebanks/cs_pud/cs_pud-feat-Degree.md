@@ -18,14 +18,14 @@ The feature is used with 3 part-of-speech tags: <tt><a href="cs_pud-pos-ADJ.html
 
 1869 <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> tokens (82% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1815; 97%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1723; 92%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1723; 92%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1222; 65%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1123; 60%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1815; 97%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1721; 92%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1721; 92%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1222; 65%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1123; 60%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Cmp` (40; 2% of non-empty `Degree`): <em>větší, vyšší, menší, Starší, afričtějšího, bezpečnější, horším, jemnější, jistější, lepší</em>
 * `Pos` (1786; 96% of non-empty `Degree`): <em>další, nové, jižní, severní, hlavní, velká, velké, vlastní, poslední, jiné</em>
 * `Sup` (43; 2% of non-empty `Degree`): <em>nejvyšší, největší, Nejnovější, nejdůležitější, nejhorších, nejlepších, nejvyšším, největším, Nejrozšířenější, Nejstarší</em>
-* `EMPTY` (401): <em>první, druhé, prvního, schopen, třetí, řečeno, druhou, propuštěn, rád, vedoucí</em>
+* `EMPTY` (400): <em>první, druhé, prvního, schopen, třetí, řečeno, druhou, propuštěn, rád, vedoucí</em>
 
 <table>
   <tr><th>Paradigm <i>velký</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>

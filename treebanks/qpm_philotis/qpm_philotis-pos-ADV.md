@@ -60,9 +60,9 @@ The 2nd highest number of forms (10) was observed with the lemma “inýj”: <e
 
 The 3rd highest number of forms (10) was observed with the lemma “itúzi”: <em>Ajtú, ajtóvana, ajtúj, ajtús, ajtúva, etús, itúj, itúzi, tus, túzi</em>.
 
-`ADV` occurs with 5 features: <tt><a href="qpm_philotis-feat-PronType.html">PronType</a></tt> (1410; 33% instances), <tt><a href="qpm_philotis-feat-Deixis.html">Deixis</a></tt> (1096; 25% instances), <tt><a href="qpm_philotis-feat-DeixisRef.html">DeixisRef</a></tt> (430; 10% instances), <tt><a href="qpm_philotis-feat-Degree.html">Degree</a></tt> (337; 8% instances), <tt><a href="qpm_philotis-feat-DegreeModQpm.html">DegreeModQpm</a></tt> (11; 0% instances)
+`ADV` occurs with 4 features: <tt><a href="qpm_philotis-feat-PronType.html">PronType</a></tt> (1410; 33% instances), <tt><a href="qpm_philotis-feat-Deixis.html">Deixis</a></tt> (1096; 25% instances), <tt><a href="qpm_philotis-feat-DeixisRef.html">DeixisRef</a></tt> (430; 10% instances), <tt><a href="qpm_philotis-feat-Degree.html">Degree</a></tt> (348; 8% instances)
 
-`ADV` occurs with 12 feature-value pairs: `Degree=Cmp`, `Degree=Sup`, `DegreeModQpm=Dim`, `Deixis=Prox`, `Deixis=Remt`, `DeixisRef=1`, `DeixisRef=2`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Rel`, `PronType=Tot`
+`ADV` occurs with 12 feature-value pairs: `Degree=Cmp`, `Degree=Dim`, `Degree=Sup`, `Deixis=Prox`, `Deixis=Remt`, `DeixisRef=1`, `DeixisRef=2`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Rel`, `PronType=Tot`
 
 `ADV` occurs with 16 feature combinations.
 The most frequent feature combination is `_` (2529 tokens).

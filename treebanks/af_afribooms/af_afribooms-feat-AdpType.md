@@ -11,7 +11,7 @@ It occurs with 1 different values: `Prep`.
 
 6286 tokens (13%) have a non-empty value of `AdpType`.
 92 types (1%) occur at least once with a non-empty value of `AdpType`.
-65 lemmas (1%) occur at least once with a non-empty value of `AdpType`.
+64 lemmas (1%) occur at least once with a non-empty value of `AdpType`.
 The feature is used with 1 part-of-speech tags: <tt><a href="af_afribooms-pos-ADP.html">ADP</a></tt> (6286; 13% instances).
 
 ### `ADP`
@@ -22,7 +22,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="af_afribooms-pos-AD
 
 * `Prep` (6286; 100% of non-empty `AdpType`): <em>van, om, in, vir, op, met, aan, deur, tot, by</em>
 
-`AdpType` seems to be **lexical feature** of `ADP`. 100% lemmas (65) occur only with one value of `AdpType`.
+`AdpType` seems to be **lexical feature** of `ADP`. 100% lemmas (64) occur only with one value of `AdpType`.
 
 ## Relations with Agreement in `AdpType`
 

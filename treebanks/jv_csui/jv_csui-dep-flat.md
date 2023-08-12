@@ -9,27 +9,27 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `flat`: <tt><a href="jv_csui-dep-flat-foreign.html">flat:foreign</a></tt>, <tt><a href="jv_csui-dep-flat-name.html">flat:name</a></tt>.
 
-19 nodes (1%) are attached to their parents as `flat`.
+83 nodes (1%) are attached to their parents as `flat`.
 
-19 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.57894736842105.
+83 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.92771084337349.
 
-The following 3 pairs of parts of speech are connected with `flat`: <tt><a href="jv_csui-pos-NUM.html">NUM</a></tt>-<tt><a href="jv_csui-pos-NUM.html">NUM</a></tt> (10; 53% instances), <tt><a href="jv_csui-pos-NUM.html">NUM</a></tt>-<tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> (8; 42% instances), <tt><a href="jv_csui-pos-NUM.html">NUM</a></tt>-<tt><a href="jv_csui-pos-X.html">X</a></tt> (1; 5% instances).
+The following 3 pairs of parts of speech are connected with `flat`: <tt><a href="jv_csui-pos-NUM.html">NUM</a></tt>-<tt><a href="jv_csui-pos-NUM.html">NUM</a></tt> (57; 69% instances), <tt><a href="jv_csui-pos-NUM.html">NUM</a></tt>-<tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> (25; 30% instances), <tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt>-<tt><a href="jv_csui-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 6 flat	color:blue
-1	647,5	647,5	NUM	_	NumType=Card	2	nummod	_	_
-2	Milyar	Milyar	NOUN	_	Number=Sing	0	root	_	_
-3	ing	ing	ADP	_	_	4	case	_	_
-4	31	31	NUM	_	NumType=Card	2	nsubj	_	_
-5	Dhésèmber	Dhésèmber	PROPN	_	_	4	flat	_	_
-6	2011	2011	NUM	_	NumType=Card	4	flat	_	SpaceAfter=No
-7	.	.	PUNCT	_	_	2	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 flat	color:blue
+1	647,5	_	NUM	_	NumType=Card	0	root	_	_
+2	Milyar	_	NUM	_	NumType=Card	1	flat	_	_
+3	ing	_	ADP	_	Polite=Infm	4	case	_	_
+4	31	_	NUM	_	NumType=Card	1	nsubj	_	_
+5	Dhesember	_	PROPN	_	_	4	flat	_	_
+6	2011	_	NUM	_	NumType=Card	4	flat	_	SpaceAfter=No
+7	.	_	PUNCT	_	_	1	punct	_	_
 
 ~~~
 
@@ -40,54 +40,49 @@ The following 3 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 flat	color:blue
-1	647,5	647,5	NUM	_	NumType=Card	2	nummod	_	_
-2	Milyar	Milyar	NOUN	_	Number=Sing	0	root	_	_
-3	ing	ing	ADP	_	_	4	case	_	_
-4	31	31	NUM	_	NumType=Card	2	nsubj	_	_
-5	Dhésèmber	Dhésèmber	PROPN	_	_	4	flat	_	_
-6	2011	2011	NUM	_	NumType=Card	4	flat	_	SpaceAfter=No
-7	.	.	PUNCT	_	_	2	punct	_	_
+1	647,5	_	NUM	_	NumType=Card	0	root	_	_
+2	Milyar	_	NUM	_	NumType=Card	1	flat	_	_
+3	ing	_	ADP	_	Polite=Infm	4	case	_	_
+4	31	_	NUM	_	NumType=Card	1	nsubj	_	_
+5	Dhesember	_	PROPN	_	_	4	flat	_	_
+6	2011	_	NUM	_	NumType=Card	4	flat	_	SpaceAfter=No
+7	.	_	PUNCT	_	_	1	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 13 flat	color:blue
-1	Nganti	nganti	ADP	_	Polite=Infm	2	case	_	Level=Ngoko
-2	pertengahan	tengah	NOUN	_	Number=Sing	8	obl:tmod	_	_
-3	1986	1986	NUM	_	NumType=Card	2	nummod	_	_
-4	baé	baé	ADV	_	_	2	advmod	_	SpaceAfter=No
-5	,	,	PUNCT	_	_	2	punct	_	_
-6	AS	AS	PROPN	_	_	8	nsubj	_	_
-7	wis	wis	AUX	_	_	8	aux	_	_
-8	sumadya	sumadya	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
-9	dana	dana	NOUN	_	_	8	obj	_	_
-10	ora	ora	PART	_	Polarity=Neg	14	advmod	_	_
-11	kurang	kurang	ADV	_	_	14	advmod	_	_
-12	sak	sak	NUM	_	NumType=Card	14	nummod	_	_
-13	milyar	milyar	X	_	Foreign=Yes	12	flat	_	_
-14	dollar	dollar	X	_	Foreign=Yes	9	nmod	_	_
-15	(	(	PUNCT	_	_	16	punct	_	SpaceAfter=No
-16	aji	aji	NOUN	_	_	14	appos	_	_
-17	nalika	nalika	ADP	_	Polite=Elev	18	case	_	Level=KramaInggil
-18	iku	iku	PRON	_	Polite=Infm|PronType=Dem	16	nmod	_	Level=Ngoko|SpaceAfter=No
-19	)	)	PUNCT	_	_	16	punct	_	_
-20	nganti	nganti	SCONJ	_	_	21	mark	_	_
-21	nggawa	nggawa	VERB	_	Mood=Ind|Voice=Act	8	advcl	_	_
-22	implikasi	implikasi	NOUN	_	Number=Sing	21	obj	_	_
-23	ing	ing	ADP	_	_	24	case	_	_
-24	tingkat	tingkat	NOUN	_	Number=Sing	22	nmod	_	_
-25	pulitik	pulitik	NOUN	_	_	24	nmod	_	_
-26	antara	antara	NOUN	_	Number=Sing|Polite=Infm	27	nmod:lmod	_	Level=Ngoko
-27	né	é	PRON	_	Number=Sing|Person=3|Polite=Infm|PronType=Prs	28	nmod	_	_
-28	Washington	Washington	PROPN	_	_	22	nmod	_	_
-29	karo	karo	CCONJ	_	Polite=Infm	30	cc	_	Level=Ngoko
-30	Tel-Aviv	Tel-Aviv	PROPN	_	_	28	conj	_	SpaceAfter=No
-31	.	.	PUNCT	_	_	8	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 flat	color:blue
+1	Ing	_	ADP	_	Polite=Infm	2	case	_	_
+2	Oktober	_	PROPN	_	_	7	obl:tmod	_	_
+3	2010	_	NUM	_	NumType=Card	2	flat	_	SpaceAfter=No
+4	,	_	PUNCT	_	_	2	punct	_	_
+5	Otoritas	_	PROPN	_	_	7	nsubj	_	_
+6	Palestina	_	PROPN	_	_	5	flat:name	_	_
+7	nyekel	_	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+8	dheweke	_	PRON	_	Number=Sing|Person=3|Polite=Infm|PronType=Prs	7	obj	_	_
+9	amarga	_	SCONJ	_	Polite=Infm	10	mark	_	_
+10	diduga	_	VERB	_	Mood=Ind|Voice=Pass	7	advcl	_	_
+11	ngolok-olok	_	VERB	_	Mood=Ind|Voice=Act	10	xcomp	_	_
+12	marang	_	ADP	_	Polite=Infm	13	case	_	_
+13	Islam	_	PROPN	_	_	11	obl	_	_
+14	ing	_	ADP	_	Polite=Infm	15	case	_	_
+15	Facebook	_	PROPN	_	_	11	obl	_	_
+16	lan	_	CCONJ	_	Polite=Infm	18	cc	_	_
+17	ing	_	ADP	_	Polite=Infm	18	case	_	_
+18	postingan	_	X	_	Foreign=Yes	15	conj	_	_
+19	blog	_	NOUN	_	Number=Sing	18	nmod	_	SpaceAfter=No
+20	;	_	PUNCT	_	_	23	punct	_	_
+21	Penangkapan	_	PROPN	_	_	23	nsubj	_	_
+22	e	_	DET	_	Definite=Def|Polite=Infm|PronType=Art	21	nmod:poss	_	_
+23	entuk	_	VERB	_	Mood=Ind|Voice=Act	7	parataxis	_	_
+24	perhatian	_	X	_	Foreign=Yes	23	obj	_	_
+25	internasional	_	ADJ	_	_	24	amod	_	SpaceAfter=No
+26	.	_	PUNCT	_	_	7	punct	_	_
 
 ~~~
 

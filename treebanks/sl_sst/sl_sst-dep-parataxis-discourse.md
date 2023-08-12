@@ -23,17 +23,17 @@ The following 11 pairs of parts of speech are connected with `parataxis:discours
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 parataxis:discourse	color:blue
-1	tudi	tudi	PART	Q	_	7	advmod	_	word=tut|msd=L
-2	ko	ko	SCONJ	Cs	_	7	mark	_	word=ku|msd=Vd
-3	pri	pri	ADP	Sl	Case=Loc	5	case	_	word=par|msd=Dm
-4	štirje	štirje	NUM	Mlcmpn	Case=Nom|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	5	nummod	_	word=Štirje|msd=Kbgmmi
-5	revni	reven	ADJ	Agpmpn	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	7	obl	_	word=revni|msd=Ppnmmi
-6	veš	vedeti	VERB	Vmpr2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	parataxis:discourse	_	word=vajš|msd=Ggnsde
-7	špila	špilati	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	word=špejla|msd=Ggnste
-8	na	na	ADP	Sa	Case=Acc	9	case	_	word=na|msd=Dt
-9	glavnik	glavnik	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obl	_	word=glavnejk|msd=Sometn
-10	pa	pa	CCONJ	Cc	_	11	cc	_	word=pa|msd=Vp
-11	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	7	conj:extend	_	word=tav|msd=Zk-sei
+1	tudi	tudi	PART	Q	_	7	advmod	_	pronunciation=tut
+2	ko	ko	SCONJ	Cs	_	7	mark	_	pronunciation=ku
+3	pri	pri	ADP	Sl	Case=Loc	5	case	_	pronunciation=par
+4	štirje	štirje	NUM	Mlcmpn	Case=Nom|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	5	nummod	_	pronunciation=Štirje
+5	revni	reven	ADJ	Agpmpn	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	7	obl	_	pronunciation=revni
+6	veš	vedeti	VERB	Vmpr2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	parataxis:discourse	_	pronunciation=vajš
+7	špila	špilati	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=špejla
+8	na	na	ADP	Sa	Case=Acc	9	case	_	pronunciation=na
+9	glavnik	glavnik	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obl	_	pronunciation=glavnejk
+10	pa	pa	CCONJ	Cc	_	11	cc	_	pronunciation=pa
+11	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	7	conj:extend	_	pronunciation=tav
 
 ~~~
 
@@ -44,17 +44,17 @@ The following 11 pairs of parts of speech are connected with `parataxis:discours
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 7 parataxis:discourse	color:blue
-1	ja	ja	PART	Q	_	4	discourse	_	word=ja|msd=L
-2	ja	ja	PART	Q	_	4	discourse	_	word=ja|msd=L
-3	ja	ja	PART	Q	_	4	discourse	_	word=ja|msd=L
-4	kaj	kaj	PRON	Pq-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	0	root	_	word=kej|msd=Zv-sei
-5	pa	pa	CCONJ	Cc	_	4	advmod	_	word=pa|msd=Vp
-6	…	…	PUNCT	Z	_	9	punct	_	word=…|msd=U
-7	mislim	misliti	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	parataxis:discourse	_	word=misim|msd=Ggnspe
-8	brez	brez	ADP	Sg	Case=Gen	9	case	_	word=brez|msd=Dr
-9	veze	veza	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	4	parataxis	_	word=veze|msd=Sozer
-10	saj	saj	CCONJ	Cc	_	9	discourse	_	word=sej|msd=Vp
-11	saj	saj	CCONJ	Cc	_	9	discourse	_	word=sej|msd=Vp
+1	ja	ja	PART	Q	_	4	discourse	_	pronunciation=ja
+2	ja	ja	PART	Q	_	4	discourse	_	pronunciation=ja
+3	ja	ja	PART	Q	_	4	discourse	_	pronunciation=ja
+4	kaj	kaj	PRON	Pq-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	0	root	_	pronunciation=kej
+5	pa	pa	CCONJ	Cc	_	4	advmod	_	pronunciation=pa
+6	…	…	PUNCT	Z	_	9	punct	_	pronunciation=…
+7	mislim	misliti	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	parataxis:discourse	_	pronunciation=misim
+8	brez	brez	ADP	Sg	Case=Gen	9	case	_	pronunciation=brez
+9	veze	veza	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	4	parataxis	_	pronunciation=veze
+10	saj	saj	CCONJ	Cc	_	9	discourse	_	pronunciation=sej
+11	saj	saj	CCONJ	Cc	_	9	discourse	_	pronunciation=sej
 
 ~~~
 
@@ -65,15 +65,15 @@ The following 11 pairs of parts of speech are connected with `parataxis:discours
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 2 parataxis:discourse	color:blue
-1	eee	eee	INTJ	I	_	5	discourse:filler	_	word=eee|msd=M
-2	poglejte	pogledati	VERB	Vmem2p	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	5	parataxis:discourse	_	word=poglejte|msd=Ggdvdm
-3	zaposleni	zaposlen	ADJ	Appmpn	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|VerbForm=Part	5	nsubj	_	word=zaposleni|msd=Pdnmmi
-4	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	cop	_	word=so|msd=Gp-stm-n
-5	zaskrbljeni	zaskrbljen	ADJ	Appmpn	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	word=zaskrbljeni|msd=Pdnmmi
-6	za	za	ADP	Sa	Case=Acc	9	case	_	word=za|msd=Dt
-7	svoja	svoj	DET	Px-npa	Case=Acc|Gender=Neut|Number=Plur|PronType=Prs	9	det	_	word=svoja|msd=Zp-smt
-8	delovna	deloven	ADJ	Agpnpa	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	9	amod	_	word=delovna|msd=Ppnsmt
-9	mesta	mesto	NOUN	Ncnpa	Case=Acc|Gender=Neut|Number=Plur	5	obl	_	word=mesta|msd=Sosmt
+1	eee	eee	INTJ	I	_	5	discourse:filler	_	pronunciation=eee
+2	poglejte	pogledati	VERB	Vmem2p	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	5	parataxis:discourse	_	pronunciation=poglejte
+3	zaposleni	zaposlen	ADJ	Appmpn	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|VerbForm=Part	5	nsubj	_	pronunciation=zaposleni
+4	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	cop	_	pronunciation=so
+5	zaskrbljeni	zaskrbljen	ADJ	Appmpn	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	pronunciation=zaskrbljeni
+6	za	za	ADP	Sa	Case=Acc	9	case	_	pronunciation=za
+7	svoja	svoj	DET	Px-npa	Case=Acc|Gender=Neut|Number=Plur|PronType=Prs|Reflex=Yes	9	det	_	pronunciation=svoja
+8	delovna	deloven	ADJ	Agpnpa	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	9	amod	_	pronunciation=delovna
+9	mesta	mesto	NOUN	Ncnpa	Case=Acc|Gender=Neut|Number=Plur	5	obl	_	pronunciation=mesta
 
 ~~~
 

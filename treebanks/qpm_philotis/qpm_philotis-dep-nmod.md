@@ -69,7 +69,7 @@ The following 27 pairs of parts of speech are connected with `nmod`: <tt><a href
 2	Óti	óti	SCONJ	_	_	4	mark	_	_
 3	je	som	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	_
 4	Mára	Mára	PROPN	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
-5	Pepelívka	Pepelívka	PROPN	_	Case=Nom|Definite=Ind|DegreeModQpm=Dim|Gender=Fem|Number=Sing	4	nmod	_	SpaceAfter=No
+5	Pepelívka	Pepelívka	PROPN	_	Case=Nom|Definite=Ind|Degree=Dim|Gender=Fem|Number=Sing	4	nmod	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~

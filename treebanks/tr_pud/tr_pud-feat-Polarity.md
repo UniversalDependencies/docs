@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Neg`, `Pos`.
 
-2002 tokens (12%) have a non-empty value of `Polarity`.
+2001 tokens (12%) have a non-empty value of `Polarity`.
 661 types (9%) occur at least once with a non-empty value of `Polarity`.
 373 lemmas (8%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 8 part-of-speech tags: <tt><a href="tr_pud-pos-DET.html">DET</a></tt> (673; 4% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> (455; 3% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (279; 2% instances), <tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> (227; 1% instances), <tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> (227; 1% instances), <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> (126; 1% instances), <tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (14; 0% instances), <tt><a href="tr_pud-pos-X.html">X</a></tt> (1; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="tr_pud-pos-DET.html">DET</a></tt> (673; 4% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> (454; 3% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (279; 2% instances), <tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> (227; 1% instances), <tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> (227; 1% instances), <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> (126; 1% instances), <tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (14; 0% instances), <tt><a href="tr_pud-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `DET`
 
@@ -30,14 +30,14 @@ The most frequent other feature values with which `DET` and `Polarity` co-occurr
 
 ### `ADJ`
 
-455 <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> tokens (27% of all `ADJ` tokens) have a non-empty value of `Polarity`.
+454 <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> tokens (27% of all `ADJ` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `ADJ` and `Polarity` co-occurred: <tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (421; 93%).
+The most frequent other feature values with which `ADJ` and `Polarity` co-occurred: <tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (420; 93%).
 
 `ADJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (28; 6% of non-empty `Polarity`): <em>yok, bulunmayan, doymayan, geçilmez, görülmediği, istenmeyen, korunmadığı, kullanılmayan, olmayan, patlamadığı</em>
-* `Pos` (427; 94% of non-empty `Polarity`): <em>var, eden, gelen, olan, edilen, yapılan, bulunan, oluşan, yaptığı, geçen</em>
+* `Pos` (426; 94% of non-empty `Polarity`): <em>var, eden, gelen, olan, edilen, yapılan, bulunan, oluşan, yaptığı, geçen</em>
 * `EMPTY` (1213): <em>büyük, yeni, son, sahip, fazla, ilk, aynı, iyi, ilgili, yüksek</em>
 
 <table>
@@ -132,7 +132,7 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 
 * `Neg` (97; 77% of non-empty `Polarity`): <em>değil, inanılmaz, olmadan, bilmiyorum, edilemez, almadı, almaması, almamasını, almaz, alışılmamış</em>
 * `Pos` (29; 23% of non-empty `Polarity`): <em>alan, bulurken, bırakılırken, gelerek, ise, kaldıkça, sayarak, aldığına, bilinen, duran</em>
-* `EMPTY` (1567): <em>dedi, etti, başladı, söyledi, çıktı, edildi, verdi, ediyor, etmek, geldi</em>
+* `EMPTY` (1568): <em>dedi, etti, başladı, söyledi, çıktı, edildi, verdi, ediyor, etmek, geldi</em>
 
 <table>
   <tr><th>Paradigm <i>et</i></th><th><tt>Pos</tt></th><th><tt>Neg</tt></th></tr>
@@ -161,12 +161,12 @@ The most frequent other feature values with which `NUM` and `Polarity` co-occurr
 
 1 <tt><a href="tr_pud-pos-X.html">X</a></tt> tokens (1% of all `X` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `X` and `Polarity` co-occurred: <tt><a href="tr_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%).
+The most frequent other feature values with which `X` and `Polarity` co-occurred: <tt><a href="tr_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%).
 
 `X` tokens may have the following values of `Polarity`:
 
 * `Pos` (1; 100% of non-empty `Polarity`): <em>Her</em>
-* `EMPTY` (104): <em>the, of, North, Association, My, News, Really, Uber, You, lerin</em>
+* `EMPTY` (103): <em>the, of, North, Association, My, News, Really, Uber, You, 'da</em>
 
 ## Relations with Agreement in `Polarity`
 

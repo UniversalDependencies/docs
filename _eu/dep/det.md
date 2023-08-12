@@ -112,4 +112,4 @@ punct(altuena-7, .-9)
 
 
 * Possessive determiners, are not tagged with det but with nmod (see nmod section).
-<!-- Interlanguage links updated Po lis 14 15:35:22 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:04:11 CEST -->

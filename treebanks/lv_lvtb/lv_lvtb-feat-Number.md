@@ -9,29 +9,29 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Coll`, `Plur`, `Ptan`, `Sing`.
 
-137301 tokens (48%) have a non-empty value of `Number`.
-42143 types (83%) occur at least once with a non-empty value of `Number`.
-17176 lemmas (78%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (76012; 27% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (15021; 5% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (13453; 5% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (12764; 4% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (10872; 4% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (6669; 2% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (1823; 1% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (687; 0% instances).
+139270 tokens (48%) have a non-empty value of `Number`.
+42465 types (83%) occur at least once with a non-empty value of `Number`.
+17177 lemmas (78%) occur at least once with a non-empty value of `Number`.
+The feature is used with 8 part-of-speech tags: <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (77291; 27% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (15182; 5% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (13708; 5% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (12836; 4% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (10958; 4% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (6758; 2% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (1848; 1% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (689; 0% instances).
 
 ### `NOUN`
 
-76012 <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Number`.
+77291 <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (38178; 50%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (38827; 50%).
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Coll` (224; 0% of non-empty `Number`): <em>vidū, alus, interneta, ledus, piena, zelta, kurienes, mierā, dalības, internetu</em>
-* `Plur` (21879; 29% of non-empty `Number`): <em>cilvēki, gadu, gadus, gadiem, cilvēku, mājās, cilvēkiem, gados, bērni, bērniem</em>
-* `Ptan` (2009; 3% of non-empty `Number`): <em>finanšu, beigās, atkritumu, smiekli, beigām, datu, durvis, tiesības, durvīm, tiesību</em>
-* `Sing` (51900; 68% of non-empty `Number`): <em>valsts, gada, gadā, laikā, darba, piemēram, izglītības, laiku, laika, pasaules</em>
-* `EMPTY` (915): <em>eiro, SIA, kino, auto, foto, TV, radio, video, IKP, plkst.</em>
+* `Coll` (226; 0% of non-empty `Number`): <em>vidū, alus, interneta, ledus, piena, zelta, kurienes, mierā, dalības, internetu</em>
+* `Plur` (22351; 29% of non-empty `Number`): <em>cilvēki, gadu, gadus, gadiem, cilvēku, mājās, cilvēkiem, gados, bērni, bērniem</em>
+* `Ptan` (1962; 3% of non-empty `Number`): <em>finanšu, beigās, atkritumu, smiekli, beigām, datu, durvis, tiesības, durvīm, tiesību</em>
+* `Sing` (52752; 68% of non-empty `Number`): <em>valsts, gada, gadā, laikā, darba, piemēram, laika, laiku, izglītības, pasaules</em>
+* `EMPTY` (934): <em>eiro, SIA, kino, auto, papildu, foto, TV, radio, video, IKP</em>
 
 <table>
   <tr><th>Paradigm <i>attiecība</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th><th><tt>Ptan</tt></th></tr>
   <tr><td><tt><tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>attiecību</em></td><td><em>attiecības</em></td><td><em>attiecības</em></td></tr>
-  <tr><td><tt><tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>attiecībai</em></td><td><em>attiecībām</em></td><td><em>attiecībām</em></td></tr>
+  <tr><td><tt><tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>attiecībai</em></td><td><em>attiecībām</em></td><td></td></tr>
   <tr><td><tt><tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="lv_lvtb-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td></td><td></td><td><em>attiecīgām</em></td></tr>
   <tr><td><tt><tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>attiecības</em></td><td><em>attiecību</em></td><td><em>attiecību</em></td></tr>
   <tr><td><tt><tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=Loc</tt></tt></td><td><em>attiecībā</em></td><td><em>attiecībās</em></td><td></td></tr>
@@ -40,15 +40,15 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 ### `VERB`
 
-15021 <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> tokens (35% of all `VERB` tokens) have a non-empty value of `Number`.
+15182 <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> tokens (35% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (14221; 95%), <tt><a href="lv_lvtb-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (13434; 89%), <tt><a href="lv_lvtb-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (11574; 77%), <tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (11011; 73%), <tt><a href="lv_lvtb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (11010; 73%), <tt><a href="lv_lvtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (10901; 73%), <tt><a href="lv_lvtb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (10823; 72%), <tt><a href="lv_lvtb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (10292; 69%), <tt><a href="lv_lvtb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (9131; 61%), <tt><a href="lv_lvtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (8381; 56%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (14379; 95%), <tt><a href="lv_lvtb-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (13593; 90%), <tt><a href="lv_lvtb-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (11724; 77%), <tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (11160; 74%), <tt><a href="lv_lvtb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (11159; 74%), <tt><a href="lv_lvtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (11053; 73%), <tt><a href="lv_lvtb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (10982; 72%), <tt><a href="lv_lvtb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (10424; 69%), <tt><a href="lv_lvtb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (9262; 61%), <tt><a href="lv_lvtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (8428; 56%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (4984; 33% of non-empty `Number`): <em>varam, lasiet, gribam, nevaram, zinām, bijuši, pieejami, saistīti, aicināti, redzam</em>
-* `Sing` (10037; 67% of non-empty `Number`): <em>domāju, pagājušajā, varu, ziņots, redzams, pagājušā, zinu, zināms, bijis, paredzēts</em>
-* `EMPTY` (28415): <em>ir, var, varētu, bija, nav, nevar, būs, notiek, teica, sāka</em>
+* `Plur` (5057; 33% of non-empty `Number`): <em>varam, lasiet, nevaram, saistīti, gribam, zinām, bijuši, pieejami, aicināti, saistītas</em>
+* `Sing` (10125; 67% of non-empty `Number`): <em>domāju, pagājušajā, varu, redzams, ziņots, pagājušā, paredzēts, zināms, zinu, bijis</em>
+* `EMPTY` (28684): <em>ir, var, varētu, nav, bija, nevar, būs, notiek, teica, saka</em>
 
 <table>
   <tr><th>Paradigm <i>būt</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -101,15 +101,15 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `ADJ`
 
-13453 <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> tokens (90% of all `ADJ` tokens) have a non-empty value of `Number`.
+13708 <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> tokens (90% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="lv_lvtb-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (12766; 95%), <tt><a href="lv_lvtb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (12293; 91%), <tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (7039; 52%), <tt><a href="lv_lvtb-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (6925; 51%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="lv_lvtb-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (13010; 95%), <tt><a href="lv_lvtb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (12525; 91%), <tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (7190; 52%), <tt><a href="lv_lvtb-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (7043; 51%).
 
 `ADJ` tokens may have the following values of `Number`:
 
-* `Plur` (4460; 33% of non-empty `Number`): <em>dažādu, dažādas, pedagoģisko, dažādi, pēdējos, jaunas, lielas, dažādiem, dažādās, sociālo</em>
-* `Sing` (8993; 67% of non-empty `Number`): <em>iespējams, pirmo, liela, nepieciešams, pirmā, lielu, lielā, liels, galvenais, jauna</em>
-* `EMPTY` (1500): <em>1., 2., 2012., 2014., 3., 2011., 4., 2015., 9., 2013.</em>
+* `Plur` (4557; 33% of non-empty `Number`): <em>dažādu, dažādas, pedagoģisko, dažādi, jaunas, pēdējos, lielas, dažādiem, dažādās, sociālo</em>
+* `Sing` (9151; 67% of non-empty `Number`): <em>iespējams, pirmo, liela, nepieciešams, pirmā, lielu, liels, lielā, galvenais, jauna</em>
+* `EMPTY` (1556): <em>1., 2., 3., 2012., 2014., 4., 9., 2011., 2015., 2013.</em>
 
 <table>
   <tr><th>Paradigm <i>liels</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -146,7 +146,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
   <tr><td><tt><tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="lv_lvtb-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="lv_lvtb-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>lielākajā</em></td><td><em>lielākajās</em></td></tr>
   <tr><td><tt><tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="lv_lvtb-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lv_lvtb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>lielā</em></td><td><em>lielos</em></td></tr>
   <tr><td><tt><tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="lv_lvtb-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lv_lvtb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>lielā</em></td><td><em>lielās</em></td></tr>
-  <tr><td><tt><tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="lv_lvtb-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lv_lvtb-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>lielākā</em></td><td><em>Lielākos</em></td></tr>
+  <tr><td><tt><tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="lv_lvtb-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lv_lvtb-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>lielākā</em></td><td><em>lielākos</em></td></tr>
   <tr><td><tt><tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="lv_lvtb-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="lv_lvtb-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>lielākā</em></td><td><em>lielākās</em></td></tr>
   <tr><td><tt><tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="lv_lvtb-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="lv_lvtb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>lielais</em></td><td><em>lielie</em></td></tr>
   <tr><td><tt><tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="lv_lvtb-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="lv_lvtb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>lielā</em></td><td><em>lielās</em></td></tr>
@@ -162,40 +162,39 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 ### `PRON`
 
-12764 <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> tokens (83% of all `PRON` tokens) have a non-empty value of `Number`.
+12836 <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> tokens (83% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (6585; 52%), <tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (6521; 51%), <tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=3</tt> (6500; 51%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (6634; 52%), <tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (6550; 51%), <tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=3</tt> (6547; 51%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (3565; 28% of non-empty `Number`): <em>mēs, viņi, mums, tās, mūsu, kuri, tie, viņiem, viņu, kuras</em>
-* `Sing` (9199; 72% of non-empty `Number`): <em>to, es, tas, viņa, viņš, man, tā, tam, tu, viņu</em>
-* `EMPTY` (2657): <em>kas, ko, sevi, sev, kam, neko, nekas, sevī, sevis, kā</em>
+* `Plur` (3595; 28% of non-empty `Number`): <em>mēs, viņi, mums, tās, mūsu, kuri, tie, viņu, viņiem, kuras</em>
+* `Sing` (9241; 72% of non-empty `Number`): <em>to, es, tas, viņa, viņš, man, tā, tam, tu, viņu</em>
+* `EMPTY` (2672): <em>kas, ko, sevi, sev, kam, neko, nekas, sevī, sevis, kā</em>
 
 <table>
   <tr><th>Paradigm <i>tas</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>to</em></td><td><em>tos</em></td></tr>
-  <tr><td><tt><tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td><em>Tos</em></td></tr>
-  <tr><td><tt><tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>to</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>tam</em></td><td><em>tiem</em></td></tr>
-  <tr><td><tt><tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>tā</em></td><td><em>to</em></td></tr>
-  <tr><td><tt><tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>tajā, tai</em></td><td><em>tajos</em></td></tr>
-  <tr><td><tt><tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>tas</em></td><td><em>tie</em></td></tr>
-  <tr><td><tt><tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="lv_lvtb-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>to</em></td><td><em>tos</em></td></tr>
+  <tr><td><tt><tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>to</em></td><td><em>tos</em></td></tr>
+  <tr><td><tt><tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>to</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>tam</em></td><td><em>tiem</em></td></tr>
+  <tr><td><tt><tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>tā</em></td><td><em>to</em></td></tr>
+  <tr><td><tt><tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>tajā, tai</em></td><td><em>tajos</em></td></tr>
+  <tr><td><tt><tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>tas</em></td><td><em>tie</em></td></tr>
+  <tr><td><tt><tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="lv_lvtb-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>to</em></td><td><em>tos</em></td></tr>
 </table>
 
 ### `PROPN`
 
-10872 <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> tokens (86% of all `PROPN` tokens) have a non-empty value of `Number`.
+10958 <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> tokens (86% of all `PROPN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (6807; 63%).
+The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (6847; 62%).
 
 `PROPN` tokens may have the following values of `Number`:
 
-* `Plur` (90; 1% of non-empty `Number`): <em>Jāņu, Bārbiju, Eirokausu, Jansoni, Jāņiem, Vītolu, Aspazijas, Astravjecas, Bekhemi, Bekhemu</em>
-* `Ptan` (343; 3% of non-empty `Number`): <em>Ziemassvētku, Jāņu, Cēsu, Līvānu, Limbažu, Līvānos, Strenču, Jāņiem, Strenčos, Vecumnieku</em>
-* `Sing` (10439; 96% of non-empty `Number`): <em>Latvijas, Latvijā, Eiropas, Rīgas, Krievijas, Sofija, Rīgā, Baltijas, Andris, Latvija</em>
-* `EMPTY` (1754): <em>ES, LETA, ASV, A., Lattelecom, V., M., NATO, ZAAO, I.</em>
+* `Plur` (88; 1% of non-empty `Number`): <em>Jāņu, Bārbiju, Eirokausu, Jansoni, Jāņiem, Vītolu, Aspazijas, Astravjecas, Bekhemi, Bekhemu</em>
+* `Ptan` (351; 3% of non-empty `Number`): <em>Ziemassvētku, Jāņu, Cēsu, Līvānu, Limbažu, Līvānos, Strenču, Jāņiem, Strenčos, Vecumnieku</em>
+* `Sing` (10519; 96% of non-empty `Number`): <em>Latvijas, Latvijā, Eiropas, Rīgas, Krievijas, Sofija, Rīgā, Baltijas, Andris, Latvija</em>
+* `EMPTY` (1787): <em>ES, LETA, A., ASV, Lattelecom, V., M., NATO, ZAAO, I.</em>
 
 <table>
   <tr><th>Paradigm <i>Jānis</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -205,18 +204,18 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
   <tr><td><tt><tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>Jānis</em></td><td><em>Jāņi</em></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `PROPN`. 99% lemmas (3555) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `PROPN`. 99% lemmas (3550) occur only with one value of `Number`.
 
 ### `DET`
 
-6669 <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `Number`.
+6758 <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="lv_lvtb-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (5439; 82%), <tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4555; 68%), <tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (3690; 55%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="lv_lvtb-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (5522; 82%), <tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4610; 68%), <tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (3747; 55%).
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (2454; 37% of non-empty `Number`): <em>to, visas, savas, visi, šīs, šie, visus, savus, saviem, citiem</em>
-* `Sing` (4215; 63% of non-empty `Number`): <em>savu, šo, šī, šajā, tā, kādu, to, šis, visu, savā</em>
+* `Plur` (2499; 37% of non-empty `Number`): <em>to, visas, savas, visi, šīs, šie, visus, savus, saviem, citiem</em>
+* `Sing` (4259; 63% of non-empty `Number`): <em>savu, šo, šī, šajā, tā, kādu, šis, to, visu, savā</em>
 * `EMPTY` (72): <em>ko, kas, neko, kā, nekas, kam, nekā, jebko</em>
 
 <table>
@@ -231,15 +230,15 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 ### `NUM`
 
-1823 <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> tokens (50% of all `NUM` tokens) have a non-empty value of `Number`.
+1848 <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> tokens (50% of all `NUM` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="lv_lvtb-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (1809; 99%), <tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1038; 57%).
+The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="lv_lvtb-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (1834; 99%), <tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1048; 57%).
 
 `NUM` tokens may have the following values of `Number`:
 
-* `Plur` (1033; 57% of non-empty `Number`): <em>trīs, divas, divi, desmit, diviem, divus, divu, trim, divām, četrus</em>
-* `Sing` (790; 43% of non-empty `Number`): <em>viens, vienu, viena, vienā, otru, vienas, vienam, otra, otrs, vienai</em>
-* `EMPTY` (1855): <em>20, 3, 2, 1, 15, 30, 10, 5, 50, 11</em>
+* `Plur` (1048; 57% of non-empty `Number`): <em>trīs, divas, divi, desmit, diviem, divus, divu, trim, divām, četrus</em>
+* `Sing` (800; 43% of non-empty `Number`): <em>viens, vienu, viena, vienā, otru, vienas, vienam, otra, otrs, vienai</em>
+* `EMPTY` (1863): <em>20, 3, 2, 1, 15, 30, 5, 10, 50, 11</em>
 
 <table>
   <tr><th>Paradigm <i>viens</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -259,15 +258,15 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 ### `AUX`
 
-687 <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> tokens (9% of all `AUX` tokens) have a non-empty value of `Number`.
+689 <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> tokens (9% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="lv_lvtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (676; 98%), <tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (602; 88%), <tt><a href="lv_lvtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (506; 74%), <tt><a href="lv_lvtb-feat-Evident.html">Evident</a></tt><tt>=Fh</tt> (500; 73%), <tt><a href="lv_lvtb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (500; 73%), <tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=1</tt> (405; 59%), <tt><a href="lv_lvtb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (388; 56%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="lv_lvtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (678; 98%), <tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (604; 88%), <tt><a href="lv_lvtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (506; 73%), <tt><a href="lv_lvtb-feat-Evident.html">Evident</a></tt><tt>=Fh</tt> (500; 73%), <tt><a href="lv_lvtb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (500; 73%), <tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=1</tt> (405; 59%), <tt><a href="lv_lvtb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (388; 56%).
 
 `AUX` tokens may have the following values of `Number`:
 
 * `Plur` (192; 28% of non-empty `Number`): <em>esam, esat, bijuši, bijām, neesam, bijušas, būsim, neesat, esiet, tikuši</em>
-* `Sing` (495; 72% of non-empty `Number`): <em>esmu, bijis, biju, esi, neesmu, bijusi, ticis, tikusi, neesi, tiku</em>
-* `EMPTY` (6949): <em>ir, bija, nav, tiek, tika, būtu, būs, būt, tiks, esot</em>
+* `Sing` (497; 72% of non-empty `Number`): <em>esmu, bijis, biju, esi, neesmu, bijusi, ticis, tikusi, neesi, tiku</em>
+* `EMPTY` (7047): <em>ir, bija, nav, tiek, tika, būtu, būs, būt, tiks, esot</em>
 
 <table>
   <tr><th>Paradigm <i>būt</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -300,14 +299,14 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="lv_lvtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (13011; 57%),
-<tt>NOUN --[<tt><a href="lv_lvtb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (9710; 86%),
-<tt>NOUN --[<tt><a href="lv_lvtb-dep-det.html">det</a></tt>]--> DET</tt> (6011; 94%),
-<tt>NOUN --[<tt><a href="lv_lvtb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3330; 73%),
-<tt>NOUN --[<tt><a href="lv_lvtb-dep-amod.html">amod</a></tt>]--> VERB</tt> (3256; 95%),
-<tt>NOUN --[<tt><a href="lv_lvtb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (2620; 64%),
-<tt>VERB --[<tt><a href="lv_lvtb-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (1525; 94%),
-<tt>PROPN --[<tt><a href="lv_lvtb-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (1452; 79%),
-<tt>NOUN --[<tt><a href="lv_lvtb-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (1255; 56%),
-<tt>PROPN --[<tt><a href="lv_lvtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1094; 75%).
+<tt>NOUN --[<tt><a href="lv_lvtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (13310; 57%),
+<tt>NOUN --[<tt><a href="lv_lvtb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (9950; 86%),
+<tt>NOUN --[<tt><a href="lv_lvtb-dep-det.html">det</a></tt>]--> DET</tt> (6095; 94%),
+<tt>NOUN --[<tt><a href="lv_lvtb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3410; 72%),
+<tt>NOUN --[<tt><a href="lv_lvtb-dep-amod.html">amod</a></tt>]--> VERB</tt> (3310; 95%),
+<tt>NOUN --[<tt><a href="lv_lvtb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (2641; 64%),
+<tt>VERB --[<tt><a href="lv_lvtb-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (1566; 94%),
+<tt>PROPN --[<tt><a href="lv_lvtb-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (1467; 78%),
+<tt>NOUN --[<tt><a href="lv_lvtb-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (1275; 56%),
+<tt>PROPN --[<tt><a href="lv_lvtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1111; 75%).
 

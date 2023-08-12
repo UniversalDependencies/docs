@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-4395 nodes (7%) are attached to their parents as `amod`.
+4399 nodes (7%) are attached to their parents as `amod`.
 
-4257 instances of `amod` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.26348122866894.
+4259 instances of `amod` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.26437826778813.
 
-The following 21 pairs of parts of speech are connected with `amod`: <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (3856; 88% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (179; 4% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (139; 3% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (49; 1% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (45; 1% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (37; 1% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt>-<tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (24; 1% instances), <tt><a href="el_gdt-pos-X.html">X</a></tt>-<tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (22; 1% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (8; 0% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="el_gdt-pos-X.html">X</a></tt>-<tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt>-<tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt>-<tt><a href="el_gdt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_gdt-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="el_gdt-pos-SYM.html">SYM</a></tt>-<tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The following 17 pairs of parts of speech are connected with `amod`: <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (3997; 91% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (189; 4% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (49; 1% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (48; 1% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (37; 1% instances), <tt><a href="el_gdt-pos-X.html">X</a></tt>-<tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (28; 1% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt>-<tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (24; 1% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (8; 0% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt>-<tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt>-<tt><a href="el_gdt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_gdt-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -29,7 +29,7 @@ The following 21 pairs of parts of speech are connected with `amod`: <tt><a href
 5	στόχος	στόχος	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 6	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	πρότασης	πρόταση	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
-8	αυτής	αυτός	PRON	PRON	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Dem	7	det	_	SpaceAfter=No
+8	αυτής	αυτός	DET	DET	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Dem	7	det	_	SpaceAfter=No
 9	.	.	PUNCT	PUNCT	_	1	punct	_	_
 
 ~~~
@@ -45,8 +45,8 @@ The following 21 pairs of parts of speech are connected with `amod`: <tt><a href
 2	προσέκρουσε	προσκρούω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 3	σε	σε	ADP	ADP	_	4	case	_	_
 4	προβλήτα	προβλήτα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	2	obl	_	_
-5	σ	σε	ADP	AsPpSp	_	8	case	_	_
-6	τη	ο	DET	AtDf	Case=Acc|Gender=Fem|Number=Sing	8	det	_	_
+5	σ	σε	ADP	ADP	_	8	case	_	_
+6	τη	ο	DET	DET	Case=Acc|Gender=Fem|Number=Sing	8	det	_	_
 7	Νέα	νέος	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	8	amod	_	_
 8	Υόρκη	Υόρκη	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
 9	.	.	PUNCT	PUNCT	_	2	punct	_	_
@@ -60,17 +60,10 @@ The following 21 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 amod	color:blue
-1	Ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-2	πρώτος	πρώτος	NUM	NUM	Case=Nom|Gender=Masc|Number=Sing|NumType=Ord	3	amod	_	_
-3	αγώνας	αγώνας	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
-4	έληξε	λήγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-5	με	με	ADP	ADP	_	6	case	_	_
-6	σκορ	σκορ	X	X	Foreign=Yes	4	obl	_	_
-7	4:0	4:0	NUM	NUM	NumType=Card	6	nummod	_	_
-8	υπέρ	υπέρ	ADP	ADP	_	10	case	_	_
-9	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
-10	Μίλαν	Μίλαν	X	X	Foreign=Yes	4	obl	_	SpaceAfter=No
-11	.	.	PUNCT	PUNCT	_	4	punct	_	_
+1	Προκλήθηκε	προκαλώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+2	γενικευμένη	γενικεύω	VERB	VERB	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	3	amod	_	_
+3	σύγκρουση	σύγκρουση	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	1	nsubj:pass	_	SpaceAfter=No
+4	.	.	PUNCT	PUNCT	_	1	punct	_	_
 
 ~~~
 

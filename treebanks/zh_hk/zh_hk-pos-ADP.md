@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Chinese-HK: POS Tags: `ADP`
 
-There are 1 `ADP` lemmas (6%), 68 `ADP` types (4%) and 321 `ADP` tokens (3%).
-Out of 16 observed tags, the rank of `ADP` is: 2 in number of lemmas, 6 in number of types and 8 in number of tokens.
+There are 68 `ADP` lemmas (4%), 68 `ADP` types (4%) and 321 `ADP` tokens (3%).
+Out of 16 observed tags, the rank of `ADP` is: 6 in number of lemmas, 6 in number of types and 8 in number of tokens.
 
-The 10 most frequent `ADP` lemmas: _
+The 10 most frequent `ADP` lemmas: 在、 給、 到、 跟、 向、 按照、 對、 根據、 後、 就
 
 The 10 most frequent `ADP` types:  在、 給、 到、 跟、 向、 按照、 對、 根據、 後、 就
 
-The 10 most frequent ambiguous lemmas: _ (<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> 1848, <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> 1766, <tt><a href="zh_hk-pos-PUNCT.html">PUNCT</a></tt> 1738, <tt><a href="zh_hk-pos-ADV.html">ADV</a></tt> 1158, <tt><a href="zh_hk-pos-PRON.html">PRON</a></tt> 875, <tt><a href="zh_hk-pos-PART.html">PART</a></tt> 560, <tt><a href="zh_hk-pos-AUX.html">AUX</a></tt> 502, <tt><a href="zh_hk-pos-ADP.html">ADP</a></tt> 321, <tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt> 301, <tt><a href="zh_hk-pos-DET.html">DET</a></tt> 260, <tt><a href="zh_hk-pos-NUM.html">NUM</a></tt> 177, <tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt> 166, <tt><a href="zh_hk-pos-CCONJ.html">CCONJ</a></tt> 99, <tt><a href="zh_hk-pos-SCONJ.html">SCONJ</a></tt> 68, <tt><a href="zh_hk-pos-INTJ.html">INTJ</a></tt> 34, <tt><a href="zh_hk-pos-SYM.html">SYM</a></tt> 1)
+The 10 most frequent ambiguous lemmas: 在 (<tt><a href="zh_hk-pos-ADP.html">ADP</a></tt> 68, <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> 11, <tt><a href="zh_hk-pos-ADV.html">ADV</a></tt> 3), 給 (<tt><a href="zh_hk-pos-ADP.html">ADP</a></tt> 25, <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> 12), 到 (<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> 23, <tt><a href="zh_hk-pos-ADP.html">ADP</a></tt> 21), 向 (<tt><a href="zh_hk-pos-ADP.html">ADP</a></tt> 14, <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> 1), 對 (<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> 12, <tt><a href="zh_hk-pos-ADP.html">ADP</a></tt> 10, <tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt> 9, <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> 1), 後 (<tt><a href="zh_hk-pos-ADP.html">ADP</a></tt> 8, <tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt> 1), 就 (<tt><a href="zh_hk-pos-ADV.html">ADV</a></tt> 55, <tt><a href="zh_hk-pos-ADP.html">ADP</a></tt> 7, <tt><a href="zh_hk-pos-PART.html">PART</a></tt> 1), 上 (<tt><a href="zh_hk-pos-ADP.html">ADP</a></tt> 6, <tt><a href="zh_hk-pos-DET.html">DET</a></tt> 3, <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="zh_hk-pos-ADV.html">ADV</a></tt> 1), 下 (<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> 10, <tt><a href="zh_hk-pos-DET.html">DET</a></tt> 6, <tt><a href="zh_hk-pos-ADP.html">ADP</a></tt> 5, <tt><a href="zh_hk-pos-ADV.html">ADV</a></tt> 4), 中 (<tt><a href="zh_hk-pos-ADP.html">ADP</a></tt> 5, <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="zh_hk-pos-PART.html">PART</a></tt> 1, <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> 1)
 
 The 10 most frequent ambiguous types:  在 (<tt><a href="zh_hk-pos-ADP.html">ADP</a></tt> 68, <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> 11, <tt><a href="zh_hk-pos-ADV.html">ADV</a></tt> 3), 給 (<tt><a href="zh_hk-pos-ADP.html">ADP</a></tt> 25, <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> 12), 到 (<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> 23, <tt><a href="zh_hk-pos-ADP.html">ADP</a></tt> 21), 向 (<tt><a href="zh_hk-pos-ADP.html">ADP</a></tt> 14, <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> 1), 對 (<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> 12, <tt><a href="zh_hk-pos-ADP.html">ADP</a></tt> 10, <tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt> 9, <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> 1), 後 (<tt><a href="zh_hk-pos-ADP.html">ADP</a></tt> 8, <tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt> 1), 就 (<tt><a href="zh_hk-pos-ADV.html">ADV</a></tt> 55, <tt><a href="zh_hk-pos-ADP.html">ADP</a></tt> 7, <tt><a href="zh_hk-pos-PART.html">PART</a></tt> 1), 上 (<tt><a href="zh_hk-pos-ADP.html">ADP</a></tt> 6, <tt><a href="zh_hk-pos-DET.html">DET</a></tt> 3, <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="zh_hk-pos-ADV.html">ADV</a></tt> 1), 下 (<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> 10, <tt><a href="zh_hk-pos-DET.html">DET</a></tt> 6, <tt><a href="zh_hk-pos-ADP.html">ADP</a></tt> 5, <tt><a href="zh_hk-pos-ADV.html">ADV</a></tt> 4), 中 (<tt><a href="zh_hk-pos-ADP.html">ADP</a></tt> 5, <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="zh_hk-pos-PART.html">PART</a></tt> 1, <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> 1)
 
@@ -61,9 +61,13 @@ The 10 most frequent ambiguous types:  在 (<tt><a href="zh_hk-pos-ADP.html">ADP
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 68.000000 (the average of all parts of speech is 107.937500).
+The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.007013).
 
-The 1st highest number of forms (68) was observed with the lemma “_”: 上, 下, 中, 之前, 之後, 代, 以, 以外, 以後, 以至, 作為, 來, 供, 依照, 像, 內, 到, 前, 去, 向, 否, 和, 單憑, 因為, 在, 基於, 外, 將, 對, 對於, 就, 建基於, 後, 從, 憑, 把, 按, 按照, 據, 於, 時, 有關, 根據, 正如, 比, 比如說, 為, 為了, 用, 由, 由於, 的, 給, 經過, 至, 至於, 與, 被, 裡, 跟, 較, 透過, 邊, 鑒於, 關, 關於, 除了, 靠.
+The 1st highest number of forms (1) was observed with the lemma “上”: 上.
+
+The 2nd highest number of forms (1) was observed with the lemma “下”: 下.
+
+The 3rd highest number of forms (1) was observed with the lemma “中”: 中.
 
 `ADP` does not occur with any features.
 
@@ -82,7 +86,7 @@ Parents of `ADP` nodes belong to 6 different parts of speech: <tt><a href="zh_hk
 
 4 (1%) `ADP` nodes have three or more children.
 
-The highest child degree of a `ADP` node is 7.
+The highest child degree of a `ADP` node is 6.
 
 Children of `ADP` nodes are attached using 9 different relations: <tt><a href="zh_hk-dep-obj.html">obj</a></tt> (8; 28% instances), <tt><a href="zh_hk-dep-punct.html">punct</a></tt> (7; 24% instances), <tt><a href="zh_hk-dep-advmod.html">advmod</a></tt> (6; 21% instances), <tt><a href="zh_hk-dep-nsubj.html">nsubj</a></tt> (3; 10% instances), <tt><a href="zh_hk-dep-advcl.html">advcl</a></tt> (1; 3% instances), <tt><a href="zh_hk-dep-aux.html">aux</a></tt> (1; 3% instances), <tt><a href="zh_hk-dep-ccomp.html">ccomp</a></tt> (1; 3% instances), <tt><a href="zh_hk-dep-conj.html">conj</a></tt> (1; 3% instances), <tt><a href="zh_hk-dep-mark.html">mark</a></tt> (1; 3% instances)
 

@@ -38,8 +38,8 @@ The 3rd highest number of forms (3) was observed with the lemma “সে”: <e
 `PRON` occurs with 12 feature-value pairs: `Case=Acc`, `Case=Gen`, `Case=Nom`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `PronType=Ind`, `PronType=Int`, `PronType=Prs`, `PronType=Rel`
 
 `PRON` occurs with 13 feature combinations.
-The most frequent feature combination is `Case=Nom|Number=Sing|Person=1|PronType=Prs` (9 tokens).
-Examples: <em>আমি</em>
+The most frequent feature combination is `Case=Nom|Number=Sing|Person=2|PronType=Prs` (9 tokens).
+Examples: <em>তুমি</em>
 
 
 ## Relations

@@ -22,14 +22,14 @@ The following 1 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 4 ccomp	color:blue
-1	හමුදා	හමුදා	NOUN	_	Case=Nom|Gender=Neut	2	compound	_	_
-2	ප්‍රධානයකු	ප්‍රධාන	NOUN	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	7	nsubj	_	_
-3	රාජ්‍යයක	රාජ්‍ය	NOUN	_	Case=Ine|Definite=Ind|Gender=Neut|Number=Sing	4	nsubj	_	_
-4	පවතින	පවති	VERB	_	Tense=Pres|VerbForm=Part	6	ccomp	_	_
-5	යුද	යුද	NOUN	_	Case=Nom|Gender=Neut	6	compound	_	_
-6	රහස්	රහස්	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	7	obj	_	_
-7	දනී	දන්	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-8	.	.	PUNCT	_	_	7	punct	_	_
+1	හමුදා	හමුදා	NOUN	_	Case=Nom|Gender=Neut	2	compound	_	Translit=hamudā|LTranslit=hamudā
+2	ප්‍රධානයකු	ප්‍රධාන	NOUN	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	7	nsubj	_	Translit=pradhānayaku|LTranslit=pradhāna
+3	රාජ්‍යයක	රාජ්‍ය	NOUN	_	Case=Ine|Definite=Ind|Gender=Neut|Number=Sing	4	nsubj	_	Translit=rājyayaka|LTranslit=rājya
+4	පවතින	පවති	VERB	_	Tense=Pres|VerbForm=Part	6	ccomp	_	Translit=pavatina|LTranslit=pavati
+5	යුද	යුද	NOUN	_	Case=Nom|Gender=Neut	6	compound	_	Translit=yuda|LTranslit=yuda
+6	රහස්	රහස්	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	7	obj	_	Translit=rahas|LTranslit=rahas
+7	දනී	දන්	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=danī|LTranslit=dan
+8	.	.	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

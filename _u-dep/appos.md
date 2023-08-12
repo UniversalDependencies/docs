@@ -51,7 +51,7 @@ but there are certainly cases of apposition where no punctuation is used:
 
 ~~~ sdparse
 the leader of the militant Lebanese Shiite group Hassan Nasrallah
-appos(group-8, Hassan-9)
+appos(leader-2, Hassan-9)
 flat(Hassan-9, Nasrallah-10)
 ~~~
 
@@ -137,4 +137,4 @@ list(Steve-1, Email:-5)
 appos(Phone:-3, 555-9814-4)
 appos(Email:-5, jones@abc.edf-6)
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:09 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:59 CEST -->

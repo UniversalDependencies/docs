@@ -28,7 +28,7 @@ The following 1 pairs of parts of speech are connected with `expl`: <tt><a href=
 4	mad	mad	ADJ	_	_	5	amod	_	CSType=Inter|Lang=en
 5	film	film	NOUN	_	_	1	nsubj	_	CSType=Inter|Lang=en
 6	on	on	ADP	_	_	7	case	_	CSType=Inter|Lang=en
-7	@TG4TV	@TG4TV	PROPN	_	_	5	nmod	_	_
+7	@user1140	@user1140	PROPN	_	_	5	nmod	_	_
 8	-	-	PUNCT	_	_	9	punct	_	_
 9	tá	bí	VERB	_	_	5	parataxis	_	Lang=ga
 10	an	an	DET	_	_	11	det	_	Lang=ga

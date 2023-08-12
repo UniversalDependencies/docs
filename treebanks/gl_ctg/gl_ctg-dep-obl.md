@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-6136 nodes (4%) are attached to their parents as `obl`.
+6299 nodes (5%) are attached to their parents as `obl`.
 
-4704 instances of `obl` (77%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.98223598435463.
+4713 instances of `obl` (75%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.43451341482775.
 
-The following 27 pairs of parts of speech are connected with `obl`: <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> (4798; 78% instances), <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt> (290; 5% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> (229; 4% instances), <tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt>-<tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> (227; 4% instances), <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_ctg-pos-PROPN.html">PROPN</a></tt> (182; 3% instances), <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_ctg-pos-NUM.html">NUM</a></tt> (138; 2% instances), <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> (66; 1% instances), <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> (40; 1% instances), <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt> (30; 0% instances), <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt> (24; 0% instances), <tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt>-<tt><a href="gl_ctg-pos-NUM.html">NUM</a></tt> (23; 0% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_ctg-pos-PROPN.html">PROPN</a></tt> (17; 0% instances), <tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt>-<tt><a href="gl_ctg-pos-PROPN.html">PROPN</a></tt> (13; 0% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> (10; 0% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt> (10; 0% instances), <tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt>-<tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> (10; 0% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_ctg-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_ctg-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt>-<tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt>-<tt><a href="gl_ctg-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt>-<tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt>-<tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="gl_ctg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 43 pairs of parts of speech are connected with `obl`: <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> (4921; 78% instances), <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt> (390; 6% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> (254; 4% instances), <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_ctg-pos-PROPN.html">PROPN</a></tt> (186; 3% instances), <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_ctg-pos-NUM.html">NUM</a></tt> (147; 2% instances), <tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt>-<tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> (73; 1% instances), <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> (73; 1% instances), <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> (41; 1% instances), <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt> (32; 1% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt> (27; 0% instances), <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt> (24; 0% instances), <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt> (19; 0% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_ctg-pos-PROPN.html">PROPN</a></tt> (17; 0% instances), <tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt>-<tt><a href="gl_ctg-pos-NUM.html">NUM</a></tt> (12; 0% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> (10; 0% instances), <tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt>-<tt><a href="gl_ctg-pos-PROPN.html">PROPN</a></tt> (10; 0% instances), <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_ctg-pos-DET.html">DET</a></tt> (10; 0% instances), <tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt>-<tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_ctg-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt>-<tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt>-<tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt>-<tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="gl_ctg-pos-DET.html">DET</a></tt>-<tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_ctg-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_ctg-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt>-<tt><a href="gl_ctg-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt>-<tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt>-<tt><a href="gl_ctg-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt>-<tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_ctg-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="gl_ctg-pos-NUM.html">NUM</a></tt>-<tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="gl_ctg-pos-PART.html">PART</a></tt>-<tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt>-<tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt>-<tt><a href="gl_ctg-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt>-<tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt>-<tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="gl_ctg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="gl_ctg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="gl_ctg-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,10 +22,10 @@ The following 27 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 9 obl	color:blue
-1	Así	así	ADV	RG	_	2	det	_	Treeler:spec
+1	Así	así	ADV	RG	_	5	advmod	_	Treeler:spec
 2	mesmo	mesmo	ADV	RG	_	5	case	_	SpaceAfter=No|ToDo=case-upos|Treeler:cc
 3	,	,	PUNCT	Fc	_	2	punct	_	Treeler:f
-4	serán	ser	VERB	VSIF3P0	_	5	aux	_	Treeler:v
+4	serán	ser	AUX	VSIF3P0	_	5	aux	_	Treeler:v
 5	publicados	publicar	VERB	VMP00PM	_	0	root	_	Treeler:sentence
 6	en	en	ADP	SPS00	_	9	case	_	Treeler:cc
 7	o	o	DET	DA0MS0	_	9	det	_	Treeler:spec
@@ -42,42 +42,22 @@ The following 27 pairs of parts of speech are connected with `obl`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 2 obl	color:blue
-1	En	en	ADP	SPS00	_	2	case	_	Treeler:cc
-2	canto	canto	PRON	PR0MS000	_	9	obl	_	Treeler:sn
-3	a	a	ADP	SPS00	_	2	iobj	_	Treeler:ci
-4	os	o	DET	DA0MP0	_	5	det	_	Treeler:spec
-5	estranxeiros	estranxeiro	NOUN	NCMP000	_	3	nmod	_	SpaceAfter=No|ToDo=nmod|Treeler:sn
-6	,	,	PUNCT	Fc	_	2	punct	_	Treeler:f
-7	por	por	ADP	SPS00	_	8	case	_	Treeler:cc
-8	países	país	NOUN	NCMP000	_	9	obl	_	Treeler:sn
-9	destacan	destacar	VERB	VMIP3P0	_	0	root	_	Treeler:sentence
-10	Alemania	alemania	PROPN	NP00000	_	9	nsubj	_	SpaceAfter=No|Treeler:suj
-11	,	,	PUNCT	Fc	_	13	punct	_	Treeler:f
-12	con	con	ADP	SPS00	_	13	case	_	Treeler:sp
-13	algo	algo	PRON	PI0CN000	_	10	nmod	_	Treeler:sn
-14	máis	máis	ADV	RG	_	13	advmod	_	Treeler:sadv
-15	de	de	ADP	SPS00	_	17	case	_	Treeler:sp
-16	o	o	DET	DA0MS0	_	17	det	_	Treeler:spec
-17	5	5	NUM	Z	_	14	obl	_	SpaceAfter=No|Treeler:sn
-18	%	%	SYM	Ft	_	17	nmod	_	SpaceAfter=No|Treeler:sn
-19	,	,	PUNCT	Fc	_	13	punct	_	Treeler:f
-20	e	e	CCONJ	CC	_	10	cc	_	ToDo=cc-without-conj|Treeler:coord
-21	Francia	francia	PROPN	NP00000	_	10	dep	_	Treeler:grup.nom
-22	e	e	CCONJ	CC	_	21	cc	_	ToDo=cc-without-conj|Treeler:coord
-23	Portugal	portugal	PROPN	NP00000	_	21	dep	_	Treeler:grup.nom
-24	con	con	ADP	SPS00	_	25	case	_	Treeler:sp
-25	algo	algo	PRON	PI0CN000	_	21	nmod	_	Treeler:sn
-26	menos	menos	ADV	RG	_	25	advmod	_	Treeler:sadv
-27	de	de	ADP	SPS00	_	29	case	_	Treeler:sp
-28	ese	ese	DET	DD0MS0	_	29	det	_	Treeler:spec
-29	5	5	NUM	Z	_	26	obl	_	SpaceAfter=No|Treeler:sn
-30	%	%	SYM	Ft	_	9	punct	_	SpaceAfter=No|Treeler:f
-31	.	.	PUNCT	Fp	_	9	punct	_	Treeler:f
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 3 obl	color:blue
+1	E	e	CCONJ	CC	_	6	cc	_	Treeler:et
+2	a	o	DET	DA0FS0	_	3	det	_	Treeler:spec
+3	quen	quen	PRON	PR0CC000	_	6	obl	_	ToDo=case-upos|Treeler:cc
+4	se	se	PRON	PP3CN000	_	6	iobj	_	Treeler:ci
+5	lle	lle	PRON	PP3CSD00	_	6	iobj	_	Treeler:ci
+6	pide	pedir	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
+7	a	o	DET	DA0FS0	_	8	det	_	Treeler:spec
+8	fe	fe	NOUN	NCFS000	_	6	obj	_	Treeler:cd
+9	de	de	ADP	SPS00	_	10	case	_	Treeler:sp
+10	bautismo	bautismo	NOUN	NCMS000	_	8	nmod	_	SpaceAfter=No|Treeler:sn
+11	?	?	PUNCT	Fit	_	6	punct	_	Treeler:f
 
 ~~~
 

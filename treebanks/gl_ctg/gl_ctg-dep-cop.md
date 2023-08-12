@@ -10,10 +10,10 @@ This relation is universal.
 
 1540 nodes (1%) are attached to their parents as `cop`.
 
-1531 instances of `cop` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.72272727272727.
+1505 instances of `cop` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.90649350649351.
 
-The following 10 pairs of parts of speech are connected with `cop`: <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> (555; 36% instances), <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> (503; 33% instances), <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> (292; 19% instances), <tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt>-<tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> (143; 9% instances), <tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt>-<tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> (14; 1% instances), <tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt>-<tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> (12; 1% instances), <tt><a href="gl_ctg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> (9; 1% instances), <tt><a href="gl_ctg-pos-NUM.html">NUM</a></tt>-<tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="gl_ctg-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="gl_ctg-pos-DET.html">DET</a></tt>-<tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> (3; 0% instances).
+The following 10 pairs of parts of speech are connected with `cop`: <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> (557; 36% instances), <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> (487; 32% instances), <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> (305; 20% instances), <tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt>-<tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> (144; 9% instances), <tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt>-<tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> (14; 1% instances), <tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt>-<tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> (12; 1% instances), <tt><a href="gl_ctg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> (9; 1% instances), <tt><a href="gl_ctg-pos-NUM.html">NUM</a></tt>-<tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="gl_ctg-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="gl_ctg-pos-DET.html">DET</a></tt>-<tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> (3; 0% instances).
 
 
 ~~~ conllu
@@ -37,11 +37,11 @@ The following 10 pairs of parts of speech are connected with `cop`: <tt><a href=
 13	teño	ter	VERB	VMIP1S0	_	11	ccomp	_	Treeler:S
 14	unha	un	DET	DI0FS0	_	15	det	_	Treeler:spec
 15	idea	idea	NOUN	NCFS000	_	13	obj	_	Treeler:cd
-16	¿	¿	PUNCT	Fia	_	11	punct	_	SpaceAfter=No|Treeler:f
+16	¿	¿	PUNCT	Fia	_	17	punct	_	SpaceAfter=No|Treeler:f
 17	e	e	CCONJ	CC	_	11	cc	_	ToDo=cc-without-conj|Treeler:coord
 18	agora	agora	ADV	RG	_	11	ccomp	_	Treeler:S
 19	que	que	SCONJ	CS	_	11	cc	_	SpaceAfter=No|ToDo=cc-without-conj|Treeler:et
-20	?	?	PUNCT	Fit	_	11	punct	_	Treeler:f
+20	?	?	PUNCT	Fit	_	19	punct	_	Treeler:f
 
 ~~~
 
@@ -54,7 +54,7 @@ The following 10 pairs of parts of speech are connected with `cop`: <tt><a href=
 # visual-style 15 13 cop	color:blue
 1	A	o	DET	DA0FS0	_	2	det	_	Treeler:spec
 2	diferenza	diferenza	NOUN	NCFS000	_	15	nsubj	_	Treeler:suj
-3	máis	máis	ADV	RG	_	4	det	_	Treeler:spec
+3	máis	máis	ADV	RG	_	4	advmod	_	Treeler:spec
 4	inmediata	inmediato	ADJ	AQ0FS0	_	2	amod	_	Treeler:s.a
 5	entre	entre	ADP	SPS00	_	7	case	_	Treeler:sp
 6	a	o	DET	DA0FS0	_	7	det	_	Treeler:spec

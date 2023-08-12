@@ -14,7 +14,7 @@ There are 1 language-specific subtypes of `det`: <tt><a href="en_gumreddit-dep-d
 1177 instances of `det` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.53050847457627.
 
-The following 8 pairs of parts of speech are connected with `det`: <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> (1104; 94% instances), <tt><a href="en_gumreddit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> (31; 3% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> (21; 2% instances), <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> (11; 1% instances), <tt><a href="en_gumreddit-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> (6; 1% instances), <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="en_gumreddit-pos-X.html">X</a></tt>-<tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `det`: <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> (1105; 94% instances), <tt><a href="en_gumreddit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> (31; 3% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> (21; 2% instances), <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> (11; 1% instances), <tt><a href="en_gumreddit-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="en_gumreddit-pos-X.html">X</a></tt>-<tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -38,7 +38,7 @@ The following 8 pairs of parts of speech are connected with `det`: <tt><a href="
 13	_	_	ADP	IN	_	14	case	14:case	Discourse=same-unit_m:4->2:1|Lem=_|Len=2
 14	_	_	NOUN	NN	Number=Sing	7	nmod	7:nmod:of	Entity=4)|Lem=_|Len=4|SpaceAfter=No
 15	_	_	PUNCT	,	_	7	punct	7:punct	Lem=_|Len=1
-16	_	_	SCONJ	WRB	PronType=Int	19	obl	19:obl:from	Discourse=topic-question:5->6:0|Lem=_|Len=5
+16	_	_	ADV	WRB	PronType=Int	19	obl	19:obl:from	Discourse=topic-question:5->6:0|Lem=_|Len=5
 17	_	_	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	aux	19:aux	Lem=be|Len=3
 18	_	_	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	19	nsubj	19:nsubj	Entity=(3-place-giv:act-cf1-1-ana)|Lem=_|Len=4
 19	_	_	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	Lem=borrow|Len=9
@@ -93,17 +93,17 @@ The following 8 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 8	fgColor:white
 # visual-style 8 7 det	color:blue
 1	_	_	ADP	IN	_	3	case	3:case	Discourse=evaluation-comment:78->1:9|Lem=*LOWER*|Len=2
-2	_	_	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	Entity=(82-abstract-new-cf3-2-sgl(2-person-giv:inact-cf2-1-ana)|Lem=_|Len=3
-3	_	_	NOUN	NN	Number=Sing	8	obl	8:obl:in	Entity=82)|Lem=_|Len=7
-4	_	_	ADJ	JJ	Degree=Pos	5	amod	5:amod	Entity=(83-person-new-cf1-2-coref|Lem=_|Len=5
-5	_	_	NOUN	NNS	Number=Plur	8	nsubj	8:nsubj	Entity=83)|Lem=baby|Len=6
+2	_	_	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	Entity=(81-abstract-new-cf3-2-sgl(2-person-giv:inact-cf2-1-ana)|Lem=_|Len=3
+3	_	_	NOUN	NN	Number=Sing	8	obl	8:obl:in	Entity=81)|Lem=_|Len=7
+4	_	_	ADJ	JJ	Degree=Pos	5	amod	5:amod	Entity=(82-person-new-cf1-2-coref|Lem=_|Len=5
+5	_	_	NOUN	NNS	Number=Plur	8	nsubj	8:nsubj	Entity=82)|Lem=baby|Len=6
 6	_	_	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	cop	8:cop	Lem=be|Len=3
 7	_	_	DET	DT	Definite=Def|PronType=Art	8	det	8:det	Lem=_|Len=3
 8	_	_	ADJ	JJS	Degree=Sup	0	root	0:root	Lem=bad|Len=5
 9	_	_	ADP	IN	_	12	case	12:case	Lem=_|Len=2
-10	_	_	DET	PDT	PronType=Tot	12	det:predet	12:det:predet	Entity=(83-person-giv:act-cf1-3-coref|Lem=_|Len=3
+10	_	_	DET	PDT	PronType=Tot	12	det:predet	12:det:predet	Entity=(82-person-giv:act-cf1-3-coref|Lem=_|Len=3
 11	_	_	DET	DT	Definite=Def|PronType=Art	12	det	12:det	Lem=_|Len=3
-12	_	_	NOUN	NNS	Number=Plur	8	obl	8:obl:of	Entity=83)|Lem=_|Len=7|SpaceAfter=No
+12	_	_	NOUN	NNS	Number=Plur	8	obl	8:obl:of	Entity=82)|Lem=_|Len=7|SpaceAfter=No
 13	_	_	PUNCT	.	_	8	punct	8:punct	Lem=_|Len=1
 
 ~~~

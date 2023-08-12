@@ -12,16 +12,16 @@ Some words have combined values of the feature; 1 combinations have been observe
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt>, <tt><a href="cs_cltt-feat-Gender-psor.html">Gender[psor]</a></tt>.
 
-112 tokens (0%) have a non-empty value of `Gender[psor]`.
-11 types (0%) occur at least once with a non-empty value of `Gender[psor]`.
+106 tokens (0%) have a non-empty value of `Gender[psor]`.
+10 types (0%) occur at least once with a non-empty value of `Gender[psor]`.
 4 lemmas (0%) occur at least once with a non-empty value of `Gender[psor]`.
-The feature is used with 2 part-of-speech tags: <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (111; 0% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (105; 0% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 ### `DET`
 
-111 <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> tokens (10% of all `DET` tokens) have a non-empty value of `Gender[psor]`.
+105 <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> tokens (9% of all `DET` tokens) have a non-empty value of `Gender[psor]`.
 
-The most frequent other feature values with which `DET` and `Gender[psor]` co-occurred: <tt><a href="cs_cltt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (111; 100%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt> (111; 100%), <tt><a href="cs_cltt-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (111; 100%), <tt><a href="cs_cltt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (102; 92%), <tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (84; 76%), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (79; 71%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (75; 68%).
+The most frequent other feature values with which `DET` and `Gender[psor]` co-occurred: <tt><a href="cs_cltt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (105; 100%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt> (105; 100%), <tt><a href="cs_cltt-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (105; 100%), <tt><a href="cs_cltt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (96; 91%), <tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (80; 76%), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (75; 71%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (72; 69%).
 
 `DET` tokens may have the following values of `Gender[psor]`:
 
@@ -32,7 +32,6 @@ The most frequent other feature values with which `DET` and `Gender[psor]` co-oc
   <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cs_cltt-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Fem</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>její</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt>|<tt><a href="cs_cltt-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Fem</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>jejímu</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt>|<tt><a href="cs_cltt-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Fem</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>jejího</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_cltt-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Fem</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>jejích</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt>|<tt><a href="cs_cltt-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Fem</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>jejím</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cs_cltt-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Fem</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>jejími</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt>|<tt><a href="cs_cltt-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Fem</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>jejím</em></td><td></td></tr>

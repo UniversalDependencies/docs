@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Imp`, `Perf`.
 
-23202 tokens (11%) have a non-empty value of `Aspect`.
+23201 tokens (11%) have a non-empty value of `Aspect`.
 9264 types (28%) occur at least once with a non-empty value of `Aspect`.
-2167 lemmas (23%) occur at least once with a non-empty value of `Aspect`.
-The feature is used with 2 part-of-speech tags: <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> (22405; 10% instances), <tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (797; 0% instances).
+2166 lemmas (23%) occur at least once with a non-empty value of `Aspect`.
+The feature is used with 2 part-of-speech tags: <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> (22406; 10% instances), <tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (795; 0% instances).
 
 ### `VERB`
 
-22405 <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> tokens (56% of all `VERB` tokens) have a non-empty value of `Aspect`.
+22406 <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> tokens (56% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (22404; 100%), <tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (16858; 75%), <tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (16853; 75%), <tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (15119; 67%), <tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (14720; 66%), <tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (13021; 58%), <tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (12210; 54%), <tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=3</tt> (11691; 52%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (22405; 100%), <tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (16860; 75%), <tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (16855; 75%), <tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (15119; 67%), <tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (14721; 66%), <tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (13022; 58%), <tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (12212; 55%), <tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=3</tt> (11693; 52%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
-* `Imp` (3350; 15% of non-empty `Aspect`): <em>ἔλεγον, εἶχον, ἔφη, ἔλεγεν, εἶχε, ἔλεγε, ἐγίνετο, ἐκέλευε, ἐποίεε, ἦρχε</em>
+* `Imp` (3351; 15% of non-empty `Aspect`): <em>ἔλεγον, εἶχον, ἔφη, ἔλεγεν, εἶχε, ἔλεγε, ἐγίνετο, ἐκέλευε, ἐποίεε, ἦρχε</em>
 * `Perf` (19055; 85% of non-empty `Aspect`): <em>εἶπεν, ἐγένετο, γενέσθαι, ἀποκριθεὶς, εἶπαν, ἦλθεν, ἀπεκρίθη, ἦλθον, ἐποίησεν, εἶπον</em>
-* `EMPTY` (17261): <em>λέγει, λέγω, λέγων, λέγοντες, ἔχει, ἔχων, δεῖ, λέγουσι, ἔρχεται, ἔχοντες</em>
+* `EMPTY` (17276): <em>λέγει, λέγω, λέγων, λέγοντες, ἔχει, ἔχων, δεῖ, λέγουσι, ἔρχεται, ἔχοντες</em>
 
 <table>
   <tr><th>Paradigm <i>λέγω</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>
@@ -77,15 +77,15 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 ### `AUX`
 
-797 <tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> tokens (20% of all `AUX` tokens) have a non-empty value of `Aspect`.
+795 <tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> tokens (20% of all `AUX` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (797; 100%), <tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (797; 100%), <tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (797; 100%), <tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (794; 100%), <tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (794; 100%), <tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (774; 97%), <tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=3</tt> (746; 94%), <tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (575; 72%).
+The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (795; 100%), <tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (795; 100%), <tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (795; 100%), <tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (794; 100%), <tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (794; 100%), <tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (772; 97%), <tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=3</tt> (746; 94%), <tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (575; 72%).
 
 `AUX` tokens may have the following values of `Aspect`:
 
-* `Imp` (793; 99% of non-empty `Aspect`): <em>ἦν, ἦσαν, ἤμην, ἦτε, ἦμεν, ἦς, ἤμεθα, ἔσκε, ἦσάν, ἦσθα</em>
-* `Perf` (4; 1% of non-empty `Aspect`): <em>πωλῆσαι, ἀγοράσαι, ἔσεσθαι, ἔσχε</em>
-* `EMPTY` (3144): <em>ἐστιν, εἶναι, ἐστὶ, ἔσται, ἔστιν, εἰμι, ἐστὶν, εἶ, εἴη, ἐὼν</em>
+* `Imp` (793; 100% of non-empty `Aspect`): <em>ἦν, ἦσαν, ἤμην, ἦτε, ἦμεν, ἦς, ἤμεθα, ἔσκε, ἦσάν, ἦσθα</em>
+* `Perf` (2; 0% of non-empty `Aspect`): <em>ἔσεσθαι, ἔσχε</em>
+* `EMPTY` (3140): <em>ἐστιν, εἶναι, ἐστὶ, ἔσται, ἔστιν, εἰμι, ἐστὶν, εἶ, εἴη, ἐὼν</em>
 
 <table>
   <tr><th>Paradigm <i>εἰμί</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>
@@ -103,6 +103,6 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 ## Relations with Agreement in `Aspect`
 
 The 10 most frequent relations where parent and child node agree in `Aspect`:
-<tt>VERB --[<tt><a href="grc_proiel-dep-conj.html">conj</a></tt>]--> VERB</tt> (2218; 66%),
-<tt>VERB --[<tt><a href="grc_proiel-dep-orphan.html">orphan</a></tt>]--> VERB</tt> (6; 100%).
+<tt>VERB --[<tt><a href="grc_proiel-dep-conj.html">conj</a></tt>]--> VERB</tt> (2223; 66%),
+<tt>VERB --[<tt><a href="grc_proiel-dep-orphan.html">orphan</a></tt>]--> VERB</tt> (9; 64%).
 

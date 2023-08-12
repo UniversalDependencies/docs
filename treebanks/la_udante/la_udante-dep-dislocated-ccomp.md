@@ -37,7 +37,7 @@ The following 1 pairs of parts of speech are connected with `dislocated:ccomp`: 
 12	Cum	cum	SCONJ	cs	PronType=Rel	13	mark	_	_
 13	ignoramus	ignoro	VERB	va1ipp1	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	20	advcl	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 14	quid	quis	PRON	dinsna	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Int	15	obj	_	_
-15	agere	ago	VERB	va3fp	Aspect=Imp|VerbForm=Vnoun|Voice=Act	16	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+15	agere	ago	VERB	va3fp	Aspect=Imp|VerbForm=Inf|Voice=Act	16	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 16	debeamus	debeo	VERB	va2cpp1	Aspect=Imp|InflClass=LatE|Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	13	ccomp	_	SpaceAfter=No|TraditionalMood=Subiunctivus|TraditionalTense=Praesens
 17	,	,	PUNCT	Pu	_	13	punct	_	_
 18	hoc	hic	DET	ddisna	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Dem	20	obj	_	_

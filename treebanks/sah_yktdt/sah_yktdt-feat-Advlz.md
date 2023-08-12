@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="sah_yktdt-pos-ADV.h
 
 ### `ADV`
 
-12 <tt><a href="sah_yktdt-pos-ADV.html">ADV</a></tt> tokens (11% of all `ADV` tokens) have a non-empty value of `Advlz`.
+12 <tt><a href="sah_yktdt-pos-ADV.html">ADV</a></tt> tokens (10% of all `ADV` tokens) have a non-empty value of `Advlz`.
 
 `ADV` tokens may have the following values of `Advlz`:
 

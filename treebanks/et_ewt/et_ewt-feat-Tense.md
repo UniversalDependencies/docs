@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Past`, `Pres`.
 
-13334 tokens (15%) have a non-empty value of `Tense`.
-3681 types (18%) occur at least once with a non-empty value of `Tense`.
-1435 lemmas (12%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 4 part-of-speech tags: <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (7951; 9% instances), <tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (4488; 5% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (839; 1% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (56; 0% instances).
+13316 tokens (15%) have a non-empty value of `Tense`.
+3674 types (18%) occur at least once with a non-empty value of `Tense`.
+1432 lemmas (12%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 4 part-of-speech tags: <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (7950; 9% instances), <tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (4488; 5% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (823; 1% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (55; 0% instances).
 
 ### `VERB`
 
-7951 <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> tokens (73% of all `VERB` tokens) have a non-empty value of `Tense`.
+7950 <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> tokens (73% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7206; 91%), <tt><a href="et_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7041; 89%), <tt><a href="et_ewt-feat-Connegative.html">Connegative</a></tt><tt>=EMPTY</tt> (6841; 86%), <tt><a href="et_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (6240; 78%), <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4159; 52%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7205; 91%), <tt><a href="et_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7041; 89%), <tt><a href="et_ewt-feat-Connegative.html">Connegative</a></tt><tt>=EMPTY</tt> (6840; 86%), <tt><a href="et_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (6240; 78%), <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4159; 52%).
 
 `VERB` tokens may have the following values of `Tense`:
 
-* `Past` (2510; 32% of non-empty `Tense`): <em>saanud, tuli, läks, sain, oli, ütles, sai, tulnud, kirjutasin, läinud</em>
+* `Past` (2509; 32% of non-empty `Tense`): <em>saanud, tuli, läks, sain, oli, ütles, sai, tulnud, kirjutasin, läinud</em>
 * `Pres` (5441; 68% of non-empty `Tense`): <em>on, tuleb, saab, tea, läheb, pole, saa, arvan, ole, tahaks</em>
-* `EMPTY` (2934): <em>teha, saada, minna, teada, olemas, öelda, panna, osta, näha, võtta</em>
+* `EMPTY` (2935): <em>teha, saada, minna, teada, olemas, öelda, panna, osta, näha, võtta</em>
 
 <table>
   <tr><th>Paradigm <i>saama</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -102,15 +102,15 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 ### `ADJ`
 
-839 <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> tokens (16% of all `ADJ` tokens) have a non-empty value of `Tense`.
+823 <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> tokens (16% of all `ADJ` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `ADJ` and `Tense` co-occurred: <tt><a href="et_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (839; 100%), <tt><a href="et_ewt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (832; 99%), <tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (559; 67%).
+The most frequent other feature values with which `ADJ` and `Tense` co-occurred: <tt><a href="et_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (823; 100%), <tt><a href="et_ewt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (816; 99%), <tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (546; 66%).
 
 `ADJ` tokens may have the following values of `Tense`:
 
-* `Past` (348; 41% of non-empty `Tense`): <em>antud, teatud, ülejäänud, kasutatud, tehtud, asetatud, karastatud, mainitud, peidetud, seotud</em>
-* `Pres` (491; 59% of non-empty `Tense`): <em>huvitav, erinevaid, erinevate, odav, erinevad, erinevatel, erinevatest, huvitavad, leviv, mõeldav</em>
-* `EMPTY` (4431): <em>hea, suur, võimalik, õige, head, parem, vana, uus, esimene, lihtne</em>
+* `Past` (346; 42% of non-empty `Tense`): <em>antud, teatud, ülejäänud, kasutatud, tehtud, asetatud, karastatud, mainitud, peidetud, seotud</em>
+* `Pres` (477; 58% of non-empty `Tense`): <em>huvitav, erinevaid, erinevate, erinevad, erinevatel, erinevatest, huvitavad, leviv, mõeldav, olevast</em>
+* `EMPTY` (4440): <em>hea, suur, võimalik, õige, head, parem, vana, uus, esimene, lihtne</em>
 
 <table>
   <tr><th>Paradigm <i>panema</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -118,18 +118,18 @@ The most frequent other feature values with which `ADJ` and `Tense` co-occurred:
   <tr><td><tt><tt><a href="et_ewt-feat-Typo.html">Typo</a></tt><tt>=Yes</tt>|<tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td><em>pandu</em></td></tr>
 </table>
 
-`Tense` seems to be **lexical feature** of `ADJ`. 100% lemmas (451) occur only with one value of `Tense`.
+`Tense` seems to be **lexical feature** of `ADJ`. 100% lemmas (448) occur only with one value of `Tense`.
 
 ### `NOUN`
 
-56 <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Tense`.
+55 <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `NOUN` and `Tense` co-occurred: <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (35; 63%).
+The most frequent other feature values with which `NOUN` and `Tense` co-occurred: <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (34; 62%).
 
 `NOUN` tokens may have the following values of `Tense`:
 
-* `Past` (56; 100% of non-empty `Tense`): <em>nakatunuid, surnuid, nakatunutest, nakatunut, nakatunu, nakatunust, nakatunute, surnu, surnut, tänud</em>
-* `EMPTY` (18145): <em>asi, aasta, teema, aru, auto, inimesed, inimene, aastat, raha, aega</em>
+* `Past` (55; 100% of non-empty `Tense`): <em>nakatunuid, surnuid, nakatunutest, nakatunut, nakatunu, nakatunust, nakatunute, surnu, surnut, Kirjapandu</em>
+* `EMPTY` (18034): <em>asi, aasta, teema, aru, auto, inimesed, inimene, aastat, raha, aega</em>
 
 `Tense` seems to be **lexical feature** of `NOUN`. 100% lemmas (23) occur only with one value of `Tense`.
 

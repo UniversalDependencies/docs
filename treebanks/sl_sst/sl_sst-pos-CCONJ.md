@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Slovenian-SST: POS Tags: `CCONJ`
 
 There are 24 `CCONJ` lemmas (1%), 24 `CCONJ` types (0%) and 1632 `CCONJ` tokens (6%).
-Out of 16 observed tags, the rank of `CCONJ` is: 12 in number of lemmas, 14 in number of types and 10 in number of tokens.
+Out of 16 observed tags, the rank of `CCONJ` is: 12 in number of lemmas, 14 in number of types and 11 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>pa, in, ali, ampak, saj, tako, oziroma, torej, sicer, vendarle</em>
 
@@ -15,11 +15,11 @@ The 10 most frequent `CCONJ` types:  <em>pa, in, ali, ampak, saj, tako, oziroma,
 
 The 10 most frequent ambiguous lemmas: <em>in</em> (<tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 414, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 1, <tt><a href="sl_sst-pos-X.html">X</a></tt> 1), <em>ali</em> (<tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 113, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 12), <em>tako</em> (<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 233, <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 51), <em>torej</em> (<tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 28, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 11), <em>sicer</em> (<tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 15, <tt><a href="sl_sst-pos-PART.html">PART</a></tt> 14), <em>zato</em> (<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 20, <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 6), <em>a</em> (<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 137, <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 16, <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="sl_sst-pos-X.html">X</a></tt> 1), <em>ne</em> (<tt><a href="sl_sst-pos-PART.html">PART</a></tt> 787, <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 2), <em>razen</em> (<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="sl_sst-pos-ADP.html">ADP</a></tt> 1, <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>in</em> (<tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 414, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 1, <tt><a href="sl_sst-pos-X.html">X</a></tt> 1), <em>ali</em> (<tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 113, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 12), <em>tako</em> (<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 233, <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 51, <tt><a href="sl_sst-pos-DET.html">DET</a></tt> 11), <em>torej</em> (<tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 28, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 11), <em>sicer</em> (<tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 15, <tt><a href="sl_sst-pos-PART.html">PART</a></tt> 14), <em>zato</em> (<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 20, <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 6), <em>a</em> (<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 137, <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 16, <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="sl_sst-pos-X.html">X</a></tt> 4, <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 3), <em>ne</em> (<tt><a href="sl_sst-pos-PART.html">PART</a></tt> 787, <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 2), <em>razen</em> (<tt><a href="sl_sst-pos-ADP.html">ADP</a></tt> 1, <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>in</em> (<tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 414, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 1, <tt><a href="sl_sst-pos-X.html">X</a></tt> 1), <em>ali</em> (<tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 113, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 12), <em>tako</em> (<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 233, <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 51, <tt><a href="sl_sst-pos-DET.html">DET</a></tt> 11), <em>torej</em> (<tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 28, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 11), <em>sicer</em> (<tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 15, <tt><a href="sl_sst-pos-PART.html">PART</a></tt> 14), <em>zato</em> (<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 20, <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 6), <em>a</em> (<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 137, <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 16, <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="sl_sst-pos-X.html">X</a></tt> 1), <em>ne</em> (<tt><a href="sl_sst-pos-PART.html">PART</a></tt> 787, <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 2), <em>razen</em> (<tt><a href="sl_sst-pos-ADP.html">ADP</a></tt> 1, <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 1)
 
 
 * <em>in</em>
-  * <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 414: <em><b>in</b> to so mešali kar eno olje pa ene take č [gap] stare barve</em>
+  * <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 414: <em><b>in</b> to so mešali kar eno olje pa ene take č- [gap] stare barve</em>
   * <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 1: <em>eee poleg one ta glavne … poleg one ki je ki je bila najbolj <b>in</b></em>
   * <tt><a href="sl_sst-pos-X.html">X</a></tt> 1: <em>aaa spreminja pa se vsebina operacije nato training mission <b>in</b> irak</em>
 * <em>ali</em>
@@ -42,18 +42,18 @@ The 10 most frequent ambiguous types:  <em>in</em> (<tt><a href="sl_sst-pos-CCON
   * <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 137: <em><b>a</b> res ali kaj ?</em>
   * <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 16: <em><b>a</b></em>
   * <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 6: <em>da je to [gap] mislim <b>a</b></em>
-  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 4: <em><b>a</b> [gap] ampak jaz se ga spomnim kot profesorja ki sebe daje</em>
   * <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 3: <em><b>a</b> jaz ja takvida</em>
+  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 1: <em>v nadaljevanju pesem iz osemdesetih belinda karlyle heaven is <b>a</b> place on earth pa star čebelji pregovor tudi sledi</em>
 * <em>ne</em>
   * <tt><a href="sl_sst-pos-PART.html">PART</a></tt> 787: <em>verjetno je tudi v teh ugotovitvah naše poslušalke kar precej soli <b>ne</b></em>
   * <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 2: <em>no pri eee prispevku pri registraciji bi [gap] za sto evrov in gotovo pa pa ne bi bilo <b>ne</b> vinjet pa <b>ne</b> kontrole na cesti pa razmetavanja za take neumnosti</em>
 * <em>razen</em>
-  * <tt><a href="sl_sst-pos-ADP.html">ADP</a></tt> 1: <em>[:voice] samo od uze [gap] izobraževanja samo še to da zdaj je pa marec sredina marca in mislim da moram da <b>razen</b> datumov za junijsko izobraževanje nimamo nič drugega še in da je zdaj pač čas da eem pač dorečemo kaj bomo in kako bomo a ne</em>
-  * <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 1: <em>ti ma [gap] okej <b>razen</b> pač tvojo predstavitev deset do petnajst pol pa še pogovora toliko ne</em>
+  * <tt><a href="sl_sst-pos-ADP.html">ADP</a></tt> 1: <em>[:voice] samo od uze- [gap] izobraževanja samo še to da zdaj je pa marec sredina marca in mislim da moram da <b>razen</b> datumov za junijsko izobraževanje nimamo nič drugega še in da je zdaj pač čas da eem pač dorečemo kaj bomo in kako bomo a ne</em>
+  * <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 1: <em>ti ma- [gap] okej <b>razen</b> pač tvojo predstavitev deset do petnajst pol pa še pogovora toliko ne</em>
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.570645).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.573353).
 
 The 1st highest number of forms (1) was observed with the lemma “a”: <em>a</em>.
 

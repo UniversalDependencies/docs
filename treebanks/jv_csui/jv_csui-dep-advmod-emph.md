@@ -8,74 +8,71 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="jv_csui-dep-advmod.html">advmod</a></tt>.
 
-2 nodes (0%) are attached to their parents as `advmod:emph`.
+47 nodes (0%) are attached to their parents as `advmod:emph`.
 
-1 instances of `advmod:emph` (50%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.5.
+31 instances of `advmod:emph` (66%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.12765957446809.
 
-The following 2 pairs of parts of speech are connected with `advmod:emph`: <tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt>-<tt><a href="jv_csui-pos-PART.html">PART</a></tt> (1; 50% instances), <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="jv_csui-pos-PART.html">PART</a></tt> (1; 50% instances).
+The following 6 pairs of parts of speech are connected with `advmod:emph`: <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="jv_csui-pos-PART.html">PART</a></tt> (28; 60% instances), <tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt>-<tt><a href="jv_csui-pos-PART.html">PART</a></tt> (7; 15% instances), <tt><a href="jv_csui-pos-ADJ.html">ADJ</a></tt>-<tt><a href="jv_csui-pos-PART.html">PART</a></tt> (6; 13% instances), <tt><a href="jv_csui-pos-ADV.html">ADV</a></tt>-<tt><a href="jv_csui-pos-PART.html">PART</a></tt> (3; 6% instances), <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt>-<tt><a href="jv_csui-pos-PART.html">PART</a></tt> (2; 4% instances), <tt><a href="jv_csui-pos-NUM.html">NUM</a></tt>-<tt><a href="jv_csui-pos-PART.html">PART</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 4 advmod:emph	color:blue
-1	Perusahaan	usaha	NOUN	_	Number=Sing	5	nsubj	_	_
-2	Dodge	Dodge	PROPN	_	_	1	nmod	_	_
-3	Bersaudara	saudara	PROPN	_	_	2	flat:name	_	_
-4	pun	pun	PART	_	_	1	advmod:emph	_	_
-5	ngerembag	rembag	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
-6	sukses	sukses	NOUN	_	Number=Sing	5	obj	_	_
-7	amargi	amargi	SCONJ	_	_	9	mark	_	_
-8	kualitas	kualitas	NOUN	_	Number=Sing	10	nsubj	_	_
-9	ipun	ipun	PRON	_	Number=Sing|Person=3|Polite=Form|PronType=Prs	8	nmod:poss	_	Level=Krama
-10	saé	saé	ADJ	_	_	5	advcl	_	_
-11	,	,	PUNCT	_	_	16	punct	_	_
-12	lan	lan	CCONJ	_	Polite=Infm	16	cc	_	Level=Ngoko
-13	perusahaan	usaha	NOUN	_	Number=Sing	16	nsubj	_	_
-14	punika	punika	DET	_	Polite=Form|PronType=Dem	13	det	_	Level=Krama
-15	enggal	enggal	ADV	_	_	16	advmod	_	_
-16	dados	dados	VERB	_	Mood=Ind|Polite=Form|Voice=Act	5	conj	_	Level=Krama
-17	perusahaan	usaha	NOUN	_	Number=Sing	16	obl	_	_
-18	ingkang	ingkang	PRON	_	Polite=Form|PronType=Rel	21	obl	_	Level=Krama
-19	penjualan	jual	NOUN	_	Number=Sing	21	nsubj	_	_
-20	ipun	ipun	PRON	_	Number=Sing|Person=3|Polite=Form|PronType=Prs	19	nmod:poss	_	Level=Krama
-21	ageng	ageng	ADJ	_	Polite=Form	17	acl:relcl	_	Level=Krama
-22	ing	ing	ADP	_	_	23	case	_	_
-23	pasar	pasar	NOUN	_	Number=Sing	21	obl	_	_
-24	AS	AS	PROPN	_	_	23	nmod	_	_
-25	taun	taun	NOUN	_	_	21	obl:tmod	_	_
-26	1916	1916	NUM	_	NumType=Card	25	nummod	_	SpaceAfter=No
-27	.	.	PUNCT	_	_	5	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 3 advmod:emph	color:blue
+1	Tukokna	_	VERB	_	Mood=Irr|Polite=Infm|Voice=Pass	0	root	_	_
+2	buku	_	NOUN	_	Number=Sing	1	obl	_	_
+3	ya	_	PART	_	_	5	advmod:emph	_	_
+4	ora	_	PART	_	Polarity=Neg|Polite=Infm	5	advmod	_	_
+5	diwaca	_	VERB	_	Mood=Ind|Polite=Infm|Voice=Pass	1	advcl	_	SpaceAfter=No
+6	.	_	PUNCT	_	_	1	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 16 12 advmod:emph	color:blue
-1	Sira	sira	PRON	_	Number=Sing|Person=2|Polite=Form|PronType=Prs	3	nsubj:pass	_	Level=Krama
-2	banjur	banjur	ADV	_	_	3	advmod	_	_
-3	didangu	dangu	VERB	_	Mood=Ind|Voice=Pass	16	advcl	_	Level=Krama
-4	sarupaning	rupa	NOUN	_	Number=Sing	3	obl	_	_
-5	kabungahan	bungah	NOUN	_	Number=Sing	4	nmod	_	_
-6	paparinging	paring	VERB	_	Mood=Ind|Voice=Pass	4	acl	_	_
-7	Allah	Allah	PROPN	_	_	6	obl	_	_
-8	nalika	nalika	ADP	_	Polite=Elev	10	case	_	Level=KramaInggil
-9	ing	ing	ADP	_	_	10	case	_	_
-10	donya	donya	NOUN	_	Number=Sing	6	obl	_	SpaceAfter=No
-11	,	,	PUNCT	_	_	16	punct	_	_
-12	ya	ya	PART	_	_	16	advmod:emph	_	_
-13	gene	gene	PRON	_	PronType=Dem	16	obl	_	_
-14	ora	ora	PART	_	Polarity=Neg|Polite=Infm	16	advmod	_	Level=Ngoko
-15	padha	padha	ADV	_	Polite=Infm	16	advmod	_	Level=Ngoko
-16	syukur	syukur	VERB	_	Mood=Ind|Voice=Act	0	root	_	SpaceAfter=No
-17	?	?	PUNCT	_	_	16	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 15 6 advmod:emph	color:blue
+1	Manawa	_	SCONJ	_	Polite=Infm	2	mark	_	_
+2	sasi-sasi	_	VERB	_	Mood=Ind|Polite=Form|Voice=Act	15	advcl	_	_
+3	liya	_	ADJ	_	Polite=Infm	2	amod	_	_
+4	e	_	DET	_	Definite=Def|Polite=Infm|PronType=Art	3	det	_	_
+5	,	_	PUNCT	_	_	2	punct	_	_
+6	ya	_	PART	_	_	15	advmod:emph	_	_
+7	paling	_	ADV	_	_	8	advmod	_	_
+8	banter	_	ADJ	_	_	15	advmod	_	_
+9	[	_	PUNCT	_	_	10	punct	_	SpaceAfter=No
+10	njamas	_	VERB	_	Mood=Ind|Voice=Act	8	appos	_	SpaceAfter=No
+11	]	_	PUNCT	_	_	10	punct	_	_
+12	lima	_	NUM	_	NumType=Card|Polite=Infm	15	nummod	_	_
+13	nganti	_	ADP	_	Polite=Infm	14	case	_	_
+14	10	_	NUM	_	NumType=Card	12	nmod	_	_
+15	pusaka	_	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No
+16	.	_	PUNCT	_	_	15	punct	_	SpacesAfter=\s\n
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 advmod:emph	color:blue
+1	Kandhanana	_	VERB	_	Mood=Irr|Polite=Infm|Voice=Pass	0	root	_	_
+2	ya	_	PART	_	_	4	advmod:emph	_	_
+3	ora	_	PART	_	Polarity=Neg|Polite=Infm	4	advmod	_	_
+4	kapok	_	ADJ	_	_	1	advmod	_	SpaceAfter=No
+5	,	_	PUNCT	_	_	7	punct	_	_
+6	dasar	_	INTJ	_	_	7	discourse	_	_
+7	bocah	_	NOUN	_	Number=Sing|Polite=Infm	1	obl	_	_
+8	nakal	_	ADJ	_	_	7	amod	_	SpaceAfter=No
+9	.	_	PUNCT	_	_	1	punct	_	_
 
 ~~~
 

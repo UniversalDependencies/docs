@@ -76,7 +76,7 @@ The following 23 pairs of parts of speech are connected with `flat`: <tt><a href
 5	хочу	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	flat	_	_
 6	их	они	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	1	obj	_	SpaceAfter=No
 7	!	!	PUNCT	_	_	1	punct	_	_
-8	💜	💜	SYM	_	_	1	discourse	_	_~
+8	💜	💜	SYM	_	_	1	discourse	_	_
 
 ~~~
 

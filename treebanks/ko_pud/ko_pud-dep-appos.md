@@ -58,7 +58,7 @@ The following 9 pairs of parts of speech are connected with `appos`: <tt><a href
 8	기여를	기여	NOUN	NN+CM	Case=Acc|Polite=Form	9	obj	_	MSeg=기여-를|Translit=.gi.yeo.reul|LTranslit=.gi.yeo
 9	했는지도	했는지	PART	VV+AP	Tense=Past|VerbForm=Fin	10	csubj	_	MSeg=했는지-도|Translit=.haess.neun.ji.do|LTranslit=.haess.neun.ji
 10	의문	_	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=.yi.mun
-11	이다	_	AUX	VC	Mood=Ind|VerbForm=Fin	10	cop	_	SpaceAfter=No|Translit=.i.da
+11	이다	이	AUX	VC	Mood=Ind|VerbForm=Fin	10	cop	_	SpaceAfter=No|Translit=.i.da|LTranslit=.i
 12	.	.	PUNCT	.	_	10	punct	_	Translit=.|LTranslit=.
 
 ~~~
@@ -87,7 +87,7 @@ The following 9 pairs of parts of speech are connected with `appos`: <tt><a href
 15	바로	_	ADV	RB	_	17	advmod	_	Translit=.ba.ro
 16	그런	_	DET	DT	_	17	det	_	Translit=.geu.reon
 17	경우	_	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=.gyeong.u
-18	였다	_	AUX	VC	Mood=Ind|Tense=Past|VerbForm=Fin	17	cop	_	SpaceAfter=No|Translit=.yeoss.da
+18	였다	이	AUX	VC	Mood=Ind|Tense=Past|VerbForm=Fin	17	cop	_	SpaceAfter=No|Translit=.yeoss.da|LTranslit=.i
 19	.	.	PUNCT	.	_	17	punct	_	Translit=.|LTranslit=.
 
 ~~~

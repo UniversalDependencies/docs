@@ -31,17 +31,18 @@ The following 4 pairs of parts of speech are connected with `nmod`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 6 nmod	color:blue
-1	PRO1	_	PRON	PN	_	2	nsubj	_	_
-2	BESTÄMMA-SIG	_	VERB	VB	_	0	root	_	_
-3	TA	_	VERB	VB	_	2	conj	_	_
-4	MEDIA^PROGRAM	_	NOUN	NN	_	3	obj	_	_
-5	I@b	_	ADP	PP	_	6	case	_	_
-6	ÖREBRO@en	_	NOUN	NN	_	4	nmod	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 3 nmod	color:blue
+1	VIKTIG	_	ADJ	JJ	_	6	ccomp	_	_
+2	DÖV(L)	_	NOUN	NN	_	3	compound	_	_
+3	FÖRENING	_	NOUN	NN	_	5	nmod	_	_
+4	POSS	_	PRON	PN	_	5	nmod:poss	_	_
+5	VERKSAMHET(J)^HET@b	_	NOUN	NN	_	1	nsubj	_	_
+6	TYCKA	_	VERB	VB	_	0	root	_	_
+7	PRO1	_	PRON	PN	_	6	nsubj	_	_
 
 ~~~
 
@@ -52,7 +53,7 @@ The following 4 pairs of parts of speech are connected with `nmod`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 10 nmod	color:blue
-1	VARA	_	VERB	VB	_	3	cop	_	_
+1	VARA	_	AUX	VB	_	3	cop	_	_
 2	POSS1	_	PRON	PN	_	3	nmod:poss	_	_
 3	MÅLSÄTTNING	_	NOUN	NN	_	0	root	_	_
 4	FORTSÄTTA	_	VERB	VB	_	3	csubj	_	_

@@ -8,31 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3714 nodes (1%) are attached to their parents as `xcomp`.
+4432 nodes (1%) are attached to their parents as `xcomp`.
 
-3655 instances of `xcomp` (98%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.16424340333872.
+4324 instances of `xcomp` (98%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.74977436823105.
 
-The following 37 pairs of parts of speech are connected with `xcomp`: <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (1175; 32% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> (1139; 31% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> (991; 27% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> (61; 2% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt> (58; 2% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (52; 1% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (45; 1% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt> (40; 1% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (27; 1% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-DET.html">DET</a></tt> (19; 1% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> (16; 0% instances), <tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> (15; 0% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (14; 0% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt> (11; 0% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-X.html">X</a></tt> (7; 0% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt>-<tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt>-<tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt>-<tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-X.html">X</a></tt>-<tt><a href="no_nynorsk-pos-X.html">X</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 8 xcomp	color:blue
-1	Ha	ha	VERB	_	Mood=Imp|VerbForm=Fin	0	root	_	_
-2	i	i	ADP	_	_	1	compound:prt	_	_
-3	kyllingkjøtdeigen	kyllingkjøtdeig	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	1	obj	_	SpaceAfter=No
-4	,	$,	PUNCT	_	_	6	punct	_	_
-5	og	og	CCONJ	_	_	6	cc	_	_
-6	steik	steikje	VERB	_	Mood=Imp|VerbForm=Fin	1	conj	_	_
-7	den	den	PRON	_	Gender=Fem,Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
-8	gyllen	gyllen	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	6	xcomp	_	SpaceAfter=No
-9	.	$.	PUNCT	_	_	1	punct	_	_
-
-~~~
+The following 43 pairs of parts of speech are connected with `xcomp`: <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> (1542; 35% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (1261; 28% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> (994; 22% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> (123; 3% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> (66; 1% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (65; 1% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (56; 1% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt> (45; 1% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt> (43; 1% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (40; 1% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> (38; 1% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (33; 1% instances), <tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> (20; 0% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-DET.html">DET</a></tt> (17; 0% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (14; 0% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt> (13; 0% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt> (11; 0% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt>-<tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt>-<tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt>-<tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt>-<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt>-<tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt>-<tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-X.html">X</a></tt>-<tt><a href="no_nynorsk-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -41,17 +22,36 @@ The following 37 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 10 xcomp	color:blue
-1	Hell	helle	VERB	_	Mood=Imp|VerbForm=Fin	0	root	_	_
-2	kjøtdeigen	kjøtdeig	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	1	obj	_	_
-3	på	på	ADP	_	_	5	case	_	_
-4	ein	ein	DET	_	Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
-5	tallerken	tallerken	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	1	obl	_	SpaceAfter=No
-6	,	$,	PUNCT	_	_	8	punct	_	_
-7	og	og	CCONJ	_	_	8	cc	_	_
-8	la	la	VERB	_	Mood=Imp|VerbForm=Fin	1	conj	_	_
-9	den	den	PRON	_	Gender=Fem,Masc|Number=Sing|Person=3|PronType=Prs	8	iobj	_	_
-10	kolne	kolne	VERB	_	VerbForm=Inf	8	xcomp	_	SpaceAfter=No
-11	.	$.	PUNCT	_	_	1	punct	_	_
+1	Hell	helle	VERB	verb	Mood=Imp|VerbForm=Fin	0	root	_	_
+2	kjøtdeigen	kjøtdeig	NOUN	subst	Gender=Masc	1	obj	_	_
+3	på	på	ADP	prep	_	5	case	_	_
+4	ein	ein	DET	det	Gender=Masc|PronType=Art	5	det	_	_
+5	tallerken	tallerken	NOUN	subst	Definite=Ind|Gender=Masc	1	obl	_	SpaceAfter=No
+6	,	$,	PUNCT	<komma>	_	8	punct	_	_
+7	og	og	CCONJ	konj	_	8	cc	_	_
+8	la	la	VERB	verb	Mood=Imp|VerbForm=Fin	1	conj	_	_
+9	den	den	PRON	pron	Gender=Fem,Masc|Person=3|PronType=Prs	8	iobj	_	_
+10	kolne	kolne	VERB	verb	VerbForm=Inf	8	xcomp	_	SpaceAfter=No
+11	.	$.	PUNCT	clb	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 8 xcomp	color:blue
+1	Ha	ha	VERB	verb	Mood=Imp|VerbForm=Fin	0	root	_	_
+2	i	i	ADV	prep	_	1	advmod	_	_
+3	kyllingkjøtdeigen	kyllingkjøtdeig	NOUN	subst	Gender=Masc	1	obj	_	SpaceAfter=No
+4	,	$,	PUNCT	<komma>	_	6	punct	_	_
+5	og	og	CCONJ	konj	_	6	cc	_	_
+6	steik	steikje	VERB	verb	Mood=Imp|VerbForm=Fin	1	conj	_	_
+7	den	den	PRON	pron	Gender=Fem,Masc|Person=3|PronType=Prs	6	obj	_	_
+8	gyllen	gyllen	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Fem,Masc	6	xcomp	_	SpaceAfter=No
+9	.	$.	PUNCT	clb	_	1	punct	_	_
 
 ~~~
 
@@ -62,16 +62,16 @@ The following 37 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 4 xcomp	color:blue
-1	Grekarane	grekar	NOUN	_	Definite=Def|Gender=Masc|Number=Plur	2	nsubj	_	_
-2	vert	verte	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	ikkje	ikkje	PART	_	Polarity=Neg	2	advmod	_	_
-4	tyskarar	tyskar	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	2	xcomp	_	_
-5	same	same	DET	_	Definite=Def|PronType=Dem	6	obl	_	_
-6	kor	kor	ADV	_	_	7	advmod	_	_
-7	mykje	mykje	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	9	advmod	_	_
-8	du	du	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=2|PronType=Prs	9	nsubj	_	_
-9	prøver	prøve	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	2	advcl	_	SpaceAfter=No
-10	.	$.	PUNCT	_	_	2	punct	_	_
+1	Grekarane	grekar	NOUN	subst	Gender=Masc|Number=Plur	2	nsubj	_	_
+2	vert	verte	VERB	verb	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ikkje	ikkje	ADV	adv	_	2	advmod	_	_
+4	tyskarar	tyskar	NOUN	subst	Definite=Ind|Gender=Masc|Number=Plur	2	xcomp	_	_
+5	same	same	DET	det	PronType=Dem	6	obl	_	_
+6	kor	kor	ADV	adv	_	7	advmod	_	_
+7	mykje	mykje	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Neut	9	advmod	_	_
+8	du	du	PRON	pron	Animacy=Hum|Case=Nom|Person=2|PronType=Prs	9	nsubj	_	_
+9	prøver	prøve	VERB	verb	Mood=Ind|Tense=Pres|VerbForm=Fin	2	advcl	_	SpaceAfter=No
+10	.	$.	PUNCT	clb	_	2	punct	_	_
 
 ~~~
 

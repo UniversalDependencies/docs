@@ -35,9 +35,9 @@ The 2nd highest number of forms (5) was observed with the lemma “Išǽ”: <em
 
 The 3rd highest number of forms (4) was observed with the lemma “Azraíl”: <em>AZRAÍL, Azraíl, Azraíla, Azraílu</em>.
 
-`PROPN` occurs with 8 features: <tt><a href="qpm_philotis-feat-Case.html">Case</a></tt> (1086; 99% instances), <tt><a href="qpm_philotis-feat-Number.html">Number</a></tt> (976; 89% instances), <tt><a href="qpm_philotis-feat-Definite.html">Definite</a></tt> (966; 88% instances), <tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt> (734; 67% instances), <tt><a href="qpm_philotis-feat-Deixis.html">Deixis</a></tt> (49; 4% instances), <tt><a href="qpm_philotis-feat-DegreeModQpm.html">DegreeModQpm</a></tt> (24; 2% instances), <tt><a href="qpm_philotis-feat-Abbr.html">Abbr</a></tt> (12; 1% instances), <tt><a href="qpm_philotis-feat-DeixisRef.html">DeixisRef</a></tt> (4; 0% instances)
+`PROPN` occurs with 8 features: <tt><a href="qpm_philotis-feat-Case.html">Case</a></tt> (1086; 99% instances), <tt><a href="qpm_philotis-feat-Number.html">Number</a></tt> (976; 89% instances), <tt><a href="qpm_philotis-feat-Definite.html">Definite</a></tt> (966; 88% instances), <tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt> (734; 67% instances), <tt><a href="qpm_philotis-feat-Deixis.html">Deixis</a></tt> (49; 4% instances), <tt><a href="qpm_philotis-feat-Degree.html">Degree</a></tt> (24; 2% instances), <tt><a href="qpm_philotis-feat-Abbr.html">Abbr</a></tt> (12; 1% instances), <tt><a href="qpm_philotis-feat-DeixisRef.html">DeixisRef</a></tt> (4; 0% instances)
 
-`PROPN` occurs with 17 feature-value pairs: `Abbr=Yes`, `Case=Acc`, `Case=Gen`, `Case=Nom`, `Case=Voc`, `Definite=Def`, `Definite=Ind`, `DegreeModQpm=Dim`, `DegreeModQpm=Mag`, `Deixis=Prox`, `Deixis=Remt`, `DeixisRef=1`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`
+`PROPN` occurs with 17 feature-value pairs: `Abbr=Yes`, `Case=Acc`, `Case=Gen`, `Case=Nom`, `Case=Voc`, `Definite=Def`, `Definite=Ind`, `Degree=Aug`, `Degree=Dim`, `Deixis=Prox`, `Deixis=Remt`, `DeixisRef=1`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`
 
 `PROPN` occurs with 54 feature combinations.
 The most frequent feature combination is `Case=Acc|Definite=Ind|Number=Sing` (302 tokens).

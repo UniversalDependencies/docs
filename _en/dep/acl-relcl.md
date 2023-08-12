@@ -14,7 +14,7 @@ The head is said to be "extracted" from the RC.
 
 Most RCs are adnominal, hence the relation `acl:relcl`. Adverbial RCs attach as [advcl:relcl](), as discussed [below](#adverbial-relative-clauses).
 
-RCs are usually finite (*people who live in glass houses*), but may also be [infinitival](#infinitival-relatives) (*I found a house in which to live*, *I found a house (for my mother) to live in*). Gerund-participial and past-participial clauses (*people living in glass houses*, *students given high marks*) are never considered relative clauses.
+RCs are usually finite (*people who live in glass houses*), but may also be [infinitival](#infinitival-relatives) (*I found a house in which to live*, *I found a house (for my mother) to live in*). Gerund-participial and past-participial clauses (*people living in glass houses*, *students given high marks*) are never considered relative clauses in the approach described here.
 
 In the Basic Dependencies representation, the main predicate of the RC attaches to the head as `acl:relcl`. This is shown in the example on the left.
 
@@ -396,18 +396,40 @@ acl:relcl(time, exploded)
 advmod(exploded, when)
 ~~~
 
-Some phrases are ambiguous. *The ceremony where/when we became citizens* can be interpreted as an RC if the bestowal of citizenship happened during the ceremony (*in which* interpretation[^2], thus `acl:relcl`). 
-But *the ceremony when we became citizens* could be used to refer to a particular ceremony held around the time of becoming a citizen, as opposed to some other ceremony held at some other time; the modifier can be fronted as an `advmod` within the higher clause: *When we became citizens, the ceremony...*. This is the `acl` interpretation.
-
-Illustrating the contrast with *where*:
-- The house where Kim grew up is on Elm Street: `acl:relcl`. Cf.:
-   * the house **in which** Kim grew up
-   * #Where Kim grew up, the house is on Elm Street.
-- The economy where Kim lives is struggling: probably `acl`, interpreted like *Where Kim lives, the economy is struggling.* 
+Some phrases are ambiguous. *The ceremony where we became citizens* can be interpreted as an RC if the bestowal of citizenship happened during the ceremony (*in which* interpretation,[^2] thus `acl:relcl`). In that interpretation, the ceremony serves as the setting for the bestowal of citizenship. But there is another interpretation, in which the ceremony need not be a naturalization ceremony: if *where we became citizens* helps identify the place of a separate ceremony, we treat this as a [free relative](#free-relatives) attaching to the nominal as `advmod`, akin to *here*. Finally, for *the ceremony when we became citizens*, we take *when we became citizens* to be locating the ceremony in time, designated with `acl` (but other readings might be possible). Fronting the WH-clause in a matrix clause may help distinguish the readings: *Where/when we became citizens, there was a nice ceremony* suggests the WH-clause is providing the place or time setting for the ceremony, not the reverse.
 
 [^2]: Or, formally, *wherein*.
 
-☞ TODO: it may be more complicated than this. look at CGEL pp. 1078-1079
+### Testing whether WH-adverb is a Relativizer
+
+Given that modifier clauses marked with *when* or *where* can be hard to classify as relative or non-relative,[^5] we use the following heuristics:
+
+[^5]: *CGEL* presents arguments that two structures are possible in some cases (pp. 1078-1079).
+
+1. A *where*-clause that modifies a reference to (broadly speaking) a place/situation/arrangement, or a *when*-clause that modifies a reference to a time, is a relative clause.
+
+   * the hole where the ground caved in
+   * I heard it on [a show where members of the administration often appear as guests]
+   * I heard it on [one of the Sunday shows, where it is customary to have interviews with administration spokespeople]
+   * the date when I’ll be back from my trip
+   * please schedule it on [the 26th, when I’ll be back from my trip]
+  
+   An adnominal *where*-clause that can be readily paraphrased with *in which* or similar is also considered a relative clause:
+   * a situation where/in which nobody wins
+   * a journey where/on which you get to experience different cultures
+
+2. If it is a *where*-clause and *where* has a locative meaning, treat it as a [free relative](#free-relatives).
+
+   * Where I had lunch yesterday, it was very windy.
+   * Where I was \_\_ yesterday, it was very windy.
+   * Where I came from \_\_, it was very windy.
+
+3. Otherwise, default to the non-relative analysis (`acl` or `advcl`). Here the adverb is functioning as neither interrogative nor relative.
+
+   * Where you might be tempted to fold, I am willing to call the bet. (non-locative)
+   * When Nixon resigned, the disruption was substantial.
+   * Nobody had anticipated [the disruption when Nixon resigned]
+   * the unemployment rate when Biden came into office
 
 ## Free Relatives
 
@@ -661,7 +683,7 @@ obl(went, that)
 ~~~sdparse
 -ROOT- Was it really that/SCONJ it was raining that/PRON bothered you ?
 root(-ROOT-, raining)
-expl:outer(raining, it-3)
+expl(raining, it-3)
 cop(raining, Was)
 advmod(raining, really)
 mark(raining, that-5)
@@ -675,7 +697,7 @@ obj(bothered, you)
 ~~~sdparse
 -ROOT- It 's that/SCONJ he 's so self-satisfied that/PRON I find offputting . (CGEL p. 1418)
 root(-ROOT-, self-satisfied)
-expl:outer(self-satisfied, It)
+expl(self-satisfied, It)
 mark(self-satisfied, that-4)
 nsubj(self-satisfied, he)
 cop(self-satisfied, 's-6)
@@ -749,4 +771,4 @@ acl:relcl(progress, make)
 - if we lose Dean (which we will if we don't pay 65k + 10k) [issue](https://github.com/UniversalDependencies/UD_English-EWT/issues/203)
 
 
-<!-- Interlanguage links updated Po lis 14 15:35:03 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:53 CEST -->

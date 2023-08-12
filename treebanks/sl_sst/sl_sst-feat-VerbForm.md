@@ -10,7 +10,7 @@ This feature is universal but the values `Conv` are language-specific.
 It occurs with 5 different values: `Conv`, `Fin`, `Inf`, `Part`, `Sup`.
 
 6056 tokens (21%) have a non-empty value of `VerbForm`.
-1638 types (27%) occur at least once with a non-empty value of `VerbForm`.
+1637 types (27%) occur at least once with a non-empty value of `VerbForm`.
 842 lemmas (21%) occur at least once with a non-empty value of `VerbForm`.
 The feature is used with 4 part-of-speech tags: <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (3933; 13% instances), <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (1936; 7% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (186; 1% instances), <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 

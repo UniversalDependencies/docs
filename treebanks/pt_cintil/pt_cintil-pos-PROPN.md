@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>Governo</em> (<tt><a href="pt_cintil-
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.013385 (the average of all parts of speech is 1.389398).
+The form / lemma ratio of `PROPN` is 1.013385 (the average of all parts of speech is 1.389383).
 
 The 1st highest number of forms (2) was observed with the lemma “abreu”: <em>ABREU, Abreu</em>.
 

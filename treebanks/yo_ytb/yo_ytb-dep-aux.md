@@ -82,26 +82,26 @@ The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 8 aux	color:blue
-1	Kíyèsí	Kíyèsí	INTJ	_	_	5	discourse	_	Ref=PS_133.1|SpaceAfter=No|Gloss=behold
-2	,	,	PUNCT	_	_	5	punct	_	Ref=PS_133.1|Gloss=,
-3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Ref=PS_133.1|Gloss=it
-4	ti	ti	AUX	_	_	5	aux	_	Ref=PS_133.1|Gloss=have
-5	dára	dára	ADJ	_	_	0	root	_	Ref=PS_133.1|Gloss=good
-6	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	nmod	_	Ref=PS_133.1|Gloss=it
-7	sì	sì	CCONJ	_	_	5	cc	_	Ref=PS_133.1|Gloss=and
-8	ti	ti	AUX	_	_	5	aux	_	Ref=PS_133.1|Gloss=have
-9	dùn	dùn	ADJ	_	_	5	amod	_	Ref=PS_133.1|Gloss=glad
-10	tó	tó	ADV	_	_	9	advmod	_	Ref=PS_133.1|Gloss=much
-11	fún	fún	ADP	_	_	12	case	_	Ref=PS_133.1|Gloss=unto
-12	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	13	det	_	Ref=PS_133.1|Gloss=the
-13	ará	ará	NOUN	_	_	10	obl	_	Ref=PS_133.1|Gloss=brethren
-14	láti	láti	ADP	_	_	16	case	_	Ref=PS_133.1|Gloss=to
-15	máa	máa	AUX	_	_	16	aux	_	Ref=PS_133.1|Gloss=be
-16	jùmọ̀	jùmọ̀	ADV	_	_	9	advmod	_	Ref=PS_133.1|Gloss=together
-17	gbé	gbé	VERB	_	_	16	conj	_	Ref=PS_133.1|Gloss=dwell
-18	ní	ní	ADP	_	_	19	case	_	Ref=PS_133.1|Gloss=in
-19	ìrẹ́pọ̀	ìrẹ́pọ̀	NOUN	_	_	17	obl	_	Ref=PS_133.1|SpaceAfter=No|Gloss=unity
-20	.	.	PUNCT	_	_	17	punct	_	Ref=PS_133.1|Gloss=.
+1	Kíyèsí	Kíyèsí	INTJ	_	_	5	discourse	_	Gloss=behold|Ref=PS_133.1|SpaceAfter=No
+2	,	,	PUNCT	_	_	5	punct	_	Gloss=,|Ref=PS_133.1
+3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Gloss=it|Ref=PS_133.1
+4	ti	ti	AUX	_	_	5	aux	_	Gloss=have|Ref=PS_133.1
+5	dára	dára	ADJ	_	_	0	root	_	Gloss=good|Ref=PS_133.1
+6	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	nmod	_	Gloss=it|Ref=PS_133.1
+7	sì	sì	CCONJ	_	_	5	cc	_	Gloss=and|Ref=PS_133.1
+8	ti	ti	AUX	_	_	5	aux	_	Gloss=have|Ref=PS_133.1
+9	dùn	dùn	ADJ	_	_	5	amod	_	Gloss=glad|Ref=PS_133.1
+10	tó	tó	ADV	_	_	9	advmod	_	Gloss=much|Ref=PS_133.1
+11	fún	fún	ADP	_	_	12	case	_	Gloss=unto|Ref=PS_133.1
+12	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	13	det	_	Gloss=the|Ref=PS_133.1
+13	ará	ará	NOUN	_	_	10	obl	_	Gloss=brethren|Ref=PS_133.1
+14	láti	láti	ADP	_	_	16	case	_	Gloss=to|Ref=PS_133.1
+15	máa	máa	AUX	_	_	16	aux	_	Gloss=be|Ref=PS_133.1
+16	jùmọ̀	jùmọ̀	ADV	_	_	9	advmod	_	Gloss=together|Ref=PS_133.1
+17	gbé	gbé	VERB	_	_	16	conj	_	Gloss=dwell|Ref=PS_133.1
+18	ní	ní	ADP	_	_	19	case	_	Gloss=in|Ref=PS_133.1
+19	ìrẹ́pọ̀	ìrẹ́pọ̀	NOUN	_	_	17	obl	_	Gloss=unity|Ref=PS_133.1|SpaceAfter=No
+20	.	.	PUNCT	_	_	17	punct	_	Gloss=.|Ref=PS_133.1
 
 ~~~
 

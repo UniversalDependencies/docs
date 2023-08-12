@@ -12,17 +12,17 @@ It occurs with 3 different values: `Act`, `Mid`, `Pass`.
 4305 tokens (9%) have a non-empty value of `Voice`.
 2333 types (20%) occur at least once with a non-empty value of `Voice`.
 1105 lemmas (19%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 2 part-of-speech tags: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (4117; 8% instances), <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (188; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (4116; 8% instances), <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (189; 0% instances).
 
 ### `VERB`
 
-4117 <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> tokens (99% of all `VERB` tokens) have a non-empty value of `Voice`.
+4116 <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> tokens (99% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="orv_rnc-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (3402; 83%), <tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3238; 79%), <tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2815; 68%), <tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2803; 68%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2580; 63%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2249; 55%), <tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (2133; 52%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="orv_rnc-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (3401; 83%), <tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3237; 79%), <tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2815; 68%), <tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2803; 68%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2579; 63%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2248; 55%), <tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (2133; 52%).
 
 `VERB` tokens may have the following values of `Voice`:
 
-* `Act` (3020; 73% of non-empty `Voice`): <em>привез, велѣлъ, сказал, бьет, велет(ь), имати, есть, платить, пожалуй, пожалꙋи</em>
+* `Act` (3019; 73% of non-empty `Voice`): <em>привез, велѣлъ, сказал, бьет, велет(ь), имати, есть, платить, пожалуй, пожалꙋи</em>
 * `Mid` (307; 7% of non-empty `Voice`): <em>смилуйся, згодитца, вступаться, родитца, учинилась, бранитися, доведется, осталос(ь), радоватисꙗ, явитца</em>
 * `Pass` (790; 19% of non-empty `Voice`): <em>смерено, взято, принето, велѣно, велено, взят, дано, послано, написано, битых</em>
 * `EMPTY` (26): <em>нет, нѣтъ, лѣть, налицо, нельзя, Уне, надобѣ, не, негде, нелѕа</em>
@@ -57,19 +57,19 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 ### `AUX`
 
-188 <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> tokens (55% of all `AUX` tokens) have a non-empty value of `Voice`.
+189 <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> tokens (55% of all `AUX` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="orv_rnc-feat-Analyt.html">Analyt</a></tt><tt>=EMPTY</tt> (186; 99%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (151; 80%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (133; 71%), <tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (126; 67%), <tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (112; 60%).
+The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="orv_rnc-feat-Analyt.html">Analyt</a></tt><tt>=EMPTY</tt> (187; 99%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (152; 80%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (134; 71%), <tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (127; 67%), <tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (113; 60%).
 
 `AUX` tokens may have the following values of `Voice`:
 
-* `Act` (188; 100% of non-empty `Voice`): <em>есть, бы, было, есте, были, будет, буди, былъ, еси, бысть</em>
+* `Act` (189; 100% of non-empty `Voice`): <em>есть, бы, было, есте, были, будет, буди, былъ, еси, бысть</em>
 * `EMPTY` (152): <em>бы, б, было, есть, будутъ, были, бъ, еси, былъ, будет</em>
 
 ## Relations with Agreement in `Voice`
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
-<tt>VERB --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> VERB</tt> (951; 77%),
+<tt>VERB --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> VERB</tt> (951; 78%),
 <tt>VERB --[<tt><a href="orv_rnc-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (263; 77%),
 <tt>VERB --[<tt><a href="orv_rnc-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (216; 68%),
 <tt>VERB --[<tt><a href="orv_rnc-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (84; 68%),

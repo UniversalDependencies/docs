@@ -109,7 +109,7 @@ The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="
 65	facinoribus	facinus	NOUN	n|n|-|p|-|-|-|n|b|-	Case=Abl|Gender=Neut|Number=Plur	68	obl	_	_
 66	nostris	noster	DET	a|a|1|p|-|-|-|n|b|-	Case=Abl|Gender=Neut|Number=Plur|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs	65	det	_	_
 67	liveram	liber	ADJ	a|a|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	68	xcomp	_	_
-68	emittere	emitto	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	69	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+68	emittere	emitto	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	69	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 69	diveas	debeo	VERB	v|v|3|s|p|s|a|-|-|-	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	advcl	_	TraditionalMood=Subiunctivus|TraditionalTense=Praesens
 70	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	78	cc	_	_
 71	cartula	chartula	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Degree=Dim|Gender=Fem|Number=Sing	77	obj	_	_
@@ -118,7 +118,7 @@ The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="
 74	omnis	omnis	DET	a|a|-|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur|PronType=Tot	75	det	_	_
 75	condicionis	conditio	NOUN	n|n|-|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur	77	obl	_	_
 76	eis	is	PRON	p|p|-|s|-|-|-|f|d|-	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	77	obl:arg	_	_
-77	emittere	emitto	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	78	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+77	emittere	emitto	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	78	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 78	diveas	debeo	VERB	v|v|3|s|p|s|a|-|-|-	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	69	conj	_	SpaceAfter=No|TraditionalMood=Subiunctivus|TraditionalTense=Praesens
 79	;	;	PUNCT	Punc	_	17	punct	_	_
 
@@ -170,7 +170,7 @@ The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="
 37	vobis	uos	PRON	p|p|2|p|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	38	obl:arg	_	_
 38	intentionaverimus	intentiono	VERB	v|v|1|p|t|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	55	advcl	_	TraditionalMood=Indicativus|TraditionalTense=FuturumExactum
 39	aut	aut	CCONJ	c|c|-|-|-|-|-|-|-|-	_	41	cc	_	_
-40	retragi	retraho	VERB	v|v|-|-|p|n|p|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Pass	41	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+40	retragi	retraho	VERB	v|v|-|-|p|n|p|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Pass	41	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 41	quesierimus	quaero	VERB	v|v|1|p|t|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	38	conj	_	TraditionalMood=Indicativus|TraditionalTense=FuturumExactum
 42	per	per	ADP	r|r|-|-|-|-|-|-|-|-	_	44	case	_	_
 43	quolibet	quilibet	DET	p|p|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	44	det	_	_
@@ -181,7 +181,7 @@ The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="
 48	homine	homo	NOUN	n|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	51	obl	_	_
 49	ea	is	PRON	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	51	obj	_	_
 50	vobis	uos	PRON	p|p|2|p|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	51	obl:arg	_	_
-51	defendere	defendo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	53	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+51	defendere	defendo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	53	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 52	non	non	PART	d|d|-|-|-|-|-|-|-|-	Polarity=Neg	53	advmod:neg	_	_
 53	potuerimus	possum	VERB	v|v|1|p|t|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	38	conj	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=FuturumExactum
 54	,	,	PUNCT	Punc	_	38	punct	_	_
@@ -189,7 +189,7 @@ The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="
 56	me	ego	PRON	p|p|1|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	59	nsubj	_	_
 57	cum	cum	ADP	r|r|-|-|-|-|-|-|-|-	_	58	case	_	_
 58	heredibus	heres	NOUN	n|n|-|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur	59	obl	_	_
-59	conponere	compono	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	55	ccomp:relcl	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+59	conponere	compono	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	55	ccomp:relcl	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 60	tibi	tu	PRON	p|p|2|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	59	obl:arg	_	_
 61	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	62	cc	_	_
 62	successoribus	successor	NOUN	n|n|-|p|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Plur	60	conj	_	_

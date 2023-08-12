@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 6 different values: `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`.
 
-10890 tokens (37%) have a non-empty value of `Case`.
-4009 types (66%) occur at least once with a non-empty value of `Case`.
+10889 tokens (37%) have a non-empty value of `Case`.
+4009 types (65%) occur at least once with a non-empty value of `Case`.
 2670 lemmas (68%) occur at least once with a non-empty value of `Case`.
-The feature is used with 7 part-of-speech tags: <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (3626; 12% instances), <tt><a href="sl_sst-pos-ADP.html">ADP</a></tt> (1802; 6% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (1664; 6% instances), <tt><a href="sl_sst-pos-DET.html">DET</a></tt> (1613; 5% instances), <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> (1242; 4% instances), <tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> (499; 2% instances), <tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt> (444; 2% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (3626; 12% instances), <tt><a href="sl_sst-pos-ADP.html">ADP</a></tt> (1802; 6% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (1664; 6% instances), <tt><a href="sl_sst-pos-DET.html">DET</a></tt> (1611; 5% instances), <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> (1243; 4% instances), <tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> (499; 2% instances), <tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt> (444; 2% instances).
 
 ### `NOUN`
 
 3626 <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="sl_sst-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3246; 90%), <tt><a href="sl_sst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2736; 75%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="sl_sst-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3245; 89%), <tt><a href="sl_sst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2736; 75%).
 
 `NOUN` tokens may have the following values of `Case`:
 
-* `Acc` (1108; 31% of non-empty `Case`): <em>dan, jutro, leto, način, petek, denar, izraz, teden, primer, stran</em>
+* `Acc` (1109; 31% of non-empty `Case`): <em>dan, jutro, leto, način, petek, denar, izraz, teden, primer, stran</em>
 * `Dat` (39; 1% of non-empty `Case`): <em>bogu, očetu, analizam, bližnjici, borcu, familijam, gospodu, gostom, hiši, izobraževanju</em>
-* `Gen` (664; 18% of non-empty `Case`): <em>evrov, leta, dni, ljudi, minut, stopinj, časa, let, veze, stvari</em>
+* `Gen` (663; 18% of non-empty `Case`): <em>evrov, leta, dni, ljudi, minut, stopinj, časa, let, veze, stvari</em>
 * `Ins` (152; 4% of non-empty `Case`): <em>leti, copati, pinceto, pojavi, stresom, avtom, bajto, besedami, dnevi, gospodom</em>
 * `Loc` (484; 13% of non-empty `Case`): <em>bistvu, redu, strani, koncu, letih, mestu, primeru, nadaljevanju, začetku, trenutku</em>
 * `Nom` (1179; 33% of non-empty `Case`): <em>gospod, hvala, gospa, oče, problem, vprašanje, čas, človek, del, a</em>
@@ -80,19 +80,19 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 ### `DET`
 
-1613 <tt><a href="sl_sst-pos-DET.html">DET</a></tt> tokens (87% of all `DET` tokens) have a non-empty value of `Case`.
+1611 <tt><a href="sl_sst-pos-DET.html">DET</a></tt> tokens (87% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="sl_sst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1334; 83%), <tt><a href="sl_sst-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (1055; 65%), <tt><a href="sl_sst-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (835; 52%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="sl_sst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1332; 83%), <tt><a href="sl_sst-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (1055; 65%), <tt><a href="sl_sst-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (833; 52%).
 
 `DET` tokens may have the following values of `Case`:
 
 * `Acc` (491; 30% of non-empty `Case`): <em>to, vse, ta, te, nič, nekaj, tisto, neko, tole, kakšen</em>
 * `Dat` (26; 2% of non-empty `Case`): <em>temu, tem, vsakemu, mojemu, nobenemu, onemu, svojemu, svojim, tej, vsem</em>
-* `Gen` (163; 10% of non-empty `Case`): <em>tega, teh, tistih, naše, neke, te, nobene, nobenega, takega, takšnega</em>
+* `Gen` (161; 10% of non-empty `Case`): <em>tega, teh, tistih, naše, neke, te, nobene, nobenega, takega, takšnega</em>
 * `Ins` (47; 3% of non-empty `Case`): <em>tem, katerimi, neko, tisto, njihovo, onim, temi, tistim, kakšnimi, katerim</em>
 * `Loc` (112; 7% of non-empty `Case`): <em>tem, tej, teh, tistem, naših, katerih, naši, nekem, neki, vsakem</em>
 * `Nom` (774; 48% of non-empty `Case`): <em>to, ta, vse, nič, tisti, vsi, ti, te, nekaj, tisto</em>
-* `EMPTY` (231): <em>malo, nekaj, več, koliko, dosti, toliko, veliko, pol, manj, preveč</em>
+* `EMPTY` (233): <em>malo, nekaj, več, koliko, dosti, toliko, veliko, pol, manj, preveč</em>
 
 <table>
   <tr><th>Paradigm <i>ta</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
@@ -107,13 +107,13 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 
 ### `PRON`
 
-1242 <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> tokens (76% of all `PRON` tokens) have a non-empty value of `Case`.
+1243 <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> tokens (76% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="sl_sst-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (958; 77%), <tt><a href="sl_sst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (900; 72%), <tt><a href="sl_sst-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (836; 67%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="sl_sst-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (1179; 95%), <tt><a href="sl_sst-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (958; 77%), <tt><a href="sl_sst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (901; 72%), <tt><a href="sl_sst-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (837; 67%).
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Acc` (314; 25% of non-empty `Case`): <em>kaj, ga, jih, jo, me, kar, nas, te, vas, mene</em>
+* `Acc` (315; 25% of non-empty `Case`): <em>kaj, ga, jih, jo, me, kar, nas, te, vas, mene</em>
 * `Dat` (279; 22% of non-empty `Case`): <em>mi, si, ti, vam, meni, jim, mu, ji, nam, njemu</em>
 * `Gen` (62; 5% of non-empty `Case`): <em>jih, ga, mene, česa, je, me, nas, nje, te, tebe</em>
 * `Ins` (45; 4% of non-empty `Case`): <em>nami, mano, njimi, sabo, vami, njo, čim, njim, seboj, tabo</em>
@@ -184,8 +184,8 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="sl_sst-dep-case.html">case</a></tt>]--> ADP</tt> (1149; 97%),
 <tt>NOUN --[<tt><a href="sl_sst-dep-amod.html">amod</a></tt>]--> ADJ</tt> (939; 99%),
-<tt>NOUN --[<tt><a href="sl_sst-dep-det.html">det</a></tt>]--> DET</tt> (583; 91%),
-<tt>NOUN --[<tt><a href="sl_sst-dep-conj.html">conj</a></tt>]--> NOUN</tt> (162; 92%),
+<tt>NOUN --[<tt><a href="sl_sst-dep-det.html">det</a></tt>]--> DET</tt> (583; 90%),
+<tt>NOUN --[<tt><a href="sl_sst-dep-conj.html">conj</a></tt>]--> NOUN</tt> (161; 91%),
 <tt>NOUN --[<tt><a href="sl_sst-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (156; 59%),
 <tt>PROPN --[<tt><a href="sl_sst-dep-case.html">case</a></tt>]--> ADP</tt> (135; 85%),
 <tt>DET --[<tt><a href="sl_sst-dep-case.html">case</a></tt>]--> ADP</tt> (96; 90%),

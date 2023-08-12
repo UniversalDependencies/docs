@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `nmod`: <tt><a href="sms_giellagas-dep-nmod-poss.html">nmod:poss</a></tt>.
 
-9 nodes (0%) are attached to their parents as `nmod`.
+10 nodes (0%) are attached to their parents as `nmod`.
 
-7 instances of `nmod` (78%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.11111111111111.
+8 instances of `nmod` (80%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.2.
 
-The following 2 pairs of parts of speech are connected with `nmod`: <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (6; 67% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (3; 33% instances).
+The following 2 pairs of parts of speech are connected with `nmod`: <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (7; 70% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (3; 30% instances).
 
 
 ~~~ conllu
@@ -25,7 +25,7 @@ The following 2 pairs of parts of speech are connected with `nmod`: <tt><a href=
 # visual-style 2 1 nmod	color:blue
 1	Peter	Peter	NOUN	N	Case=Gen|Number=Sing	2	nmod	_	GTtags=Prop,Sem/Mal,Sg,Gen
 2	räʹjjlaž	räʹjjlaž	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	GTtags=Sg,Nom
-3	kälkkii	kälkkeed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=2	0	root	_	GTtags=Ind,Prt,Sg3
+3	kälkkii	kälkkeed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Sg3
 4	čuâl	čuâll	NOUN	N	Case=Acc|Number=Sing	3	obj	_	GTtags=Sg,Acc|SpaceAfter=No
 5	.	.	PUNCT	CLB	_	3	punct	_	_
 

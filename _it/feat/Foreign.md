@@ -26,4 +26,4 @@ Example:
 
 * _Nel 1630 Ferdinando Secondo emise un vero proprio corpus legislativo chiamato <b>Statuta Valachorum</b>._
 * _Capri, Procida, Ischia, Giglio, Eolie e Ponza <b>off limits</b> per i turisti con la macchina._
-<!-- Interlanguage links updated Po lis 14 15:34:46 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:37 CEST -->

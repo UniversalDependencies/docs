@@ -58,7 +58,7 @@ The 10 most frequent ambiguous types:  <em>nu</em> (<tt><a href="ro_nonstandard-
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.639655 (the average of all parts of speech is 2.492163).
+The form / lemma ratio of `ADV` is 1.639655 (the average of all parts of speech is 2.491875).
 
 The 1st highest number of forms (28) was observed with the lemma “aici”: <em>-acia, -acii, -aciia, -aice, -aici, -ciia, aceiși, aci, acia, acice, acicea, acicia, acie, acieși, acii, aciia, aciiași, aciiș, aciișe, aciiși, aice, aicea, aici, cicea, cii, ice, icea, ici</em>.
 

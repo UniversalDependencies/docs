@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fut`, `Past`, `Pres`.
 
-25725 tokens (8%) have a non-empty value of `Tense`.
-9127 types (18%) occur at least once with a non-empty value of `Tense`.
-3763 lemmas (13%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 3 part-of-speech tags: <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (23942; 8% instances), <tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (1782; 1% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+25726 tokens (8%) have a non-empty value of `Tense`.
+9128 types (18%) occur at least once with a non-empty value of `Tense`.
+3762 lemmas (13%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 3 part-of-speech tags: <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (23943; 8% instances), <tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (1782; 1% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-23942 <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> tokens (77% of all `VERB` tokens) have a non-empty value of `Tense`.
+23943 <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> tokens (77% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="be_hse-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (21341; 89%), <tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (21340; 89%), <tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (17465; 73%), <tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (15767; 66%), <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (13974; 58%), <tt><a href="be_hse-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (13741; 57%), <tt><a href="be_hse-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (12303; 51%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="be_hse-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (21341; 89%), <tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (21340; 89%), <tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (17466; 73%), <tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (15767; 66%), <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (13975; 58%), <tt><a href="be_hse-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (13742; 57%), <tt><a href="be_hse-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (12303; 51%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Fut` (1762; 7% of non-empty `Tense`): <em>адбудзецца, пройдзе, будзе, стане, выступіць, атрымае, зайграе, выступяць, зможа, пераможам</em>
-* `Past` (13493; 56% of non-empty `Tense`): <em>стала, затрымалі, сказаў, пачалі, стаў, памёр, было, атрымаў, заявіў, зрабілі</em>
+* `Past` (13494; 56% of non-empty `Tense`): <em>стала, затрымалі, сказаў, пачалі, стаў, памёр, было, атрымаў, заявіў, зрабілі</em>
 * `Pres` (8687; 36% of non-empty `Tense`): <em>можа, жыве, мае, кажа, ёсьць, кажуць, могуць, адбываецца, маюць, хоча</em>
-* `EMPTY` (7150): <em>можна, трэба, няма, падтрымаць, зрабіць, далучайцеся, варта, паглядзіце, глядзі, Грай</em>
+* `EMPTY` (7149): <em>можна, трэба, няма, падтрымаць, зрабіць, далучайцеся, варта, паглядзіце, глядзі, Грай</em>
 
 <table>
   <tr><th>Paradigm <i>стаць</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th></tr>
@@ -91,7 +91,7 @@ The most frequent other feature values with which `NOUN` and `Tense` co-occurred
 `NOUN` tokens may have the following values of `Tense`:
 
 * `Past` (1; 100% of non-empty `Tense`): <em>падкастаў</em>
-* `EMPTY` (72552): <em>дзень, людзей, чалавек, арт, годзе, гадоў, час, людзі, года, год</em>
+* `EMPTY` (72685): <em>дзень, людзей, чалавек, арт, годзе, гадоў, час, людзі, года, год</em>
 
 ## Relations with Agreement in `Tense`
 

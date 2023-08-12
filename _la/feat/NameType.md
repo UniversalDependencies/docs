@@ -164,4 +164,4 @@ Names of other entities not covered by the existing features, such as buildings,
 
 * ***Colosseum***, originally named *Amphitheatrum Flavium*
 
-<!-- Interlanguage links updated Po lis 14 15:34:49 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:40 CEST -->

@@ -9,7 +9,7 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="mdf_jr-dep-advmod.html">advmod</a></tt>.
 There are also 8 other language-specific subtypes of `advmod`: <tt><a href="mdf_jr-dep-advmod-cau.html">advmod:cau</a></tt>, <tt><a href="mdf_jr-dep-advmod-cmp.html">advmod:cmp</a></tt>, <tt><a href="mdf_jr-dep-advmod-eval.html">advmod:eval</a></tt>, <tt><a href="mdf_jr-dep-advmod-foc.html">advmod:foc</a></tt>, <tt><a href="mdf_jr-dep-advmod-freq.html">advmod:freq</a></tt>, <tt><a href="mdf_jr-dep-advmod-lmod.html">advmod:lmod</a></tt>, <tt><a href="mdf_jr-dep-advmod-mmod.html">advmod:mmod</a></tt>, <tt><a href="mdf_jr-dep-advmod-tmod.html">advmod:tmod</a></tt>.
 
-56 nodes (2%) are attached to their parents as `advmod:deg`.
+56 nodes (1%) are attached to their parents as `advmod:deg`.
 
 55 instances of `advmod:deg` (98%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.125.
@@ -24,14 +24,14 @@ The following 9 pairs of parts of speech are connected with `advmod:deg`: <tt><a
 # visual-style 4	fgColor:white
 # visual-style 4 3 advmod:deg	color:blue
 1	А	а	CCONJ	CC	_	2	cc	_	_
-2	касан	касомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres|Valency=1	0	root	_	_
+2	касан	касомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres	0	root	_	_
 3	пяк	пяк	ADV	Adv	AdvType=Deg	4	advmod:deg	_	_
 4	савор	савор	ADV	Adv	_	2	advmod:mmod	_	SpaceAfter=No
 5	,	,	PUNCT	CLB	_	9	punct	_	_
 6	нинге	нинге	ADV	Adv	AdvType=Tim	9	advmod:tmod	_	_
 7	школавга	школа	NOUN	N	Case=Lat|Clitic=AddGA|Definite=Ind|Number=Plur,Sing	9	obl:lmod	_	_
 8	аф	аф	AUX	Aux	Polarity=Neg	9	aux:neg	_	_
-9	якан	якамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres|Valency=1	2	conj	_	SpaceAfter=No
+9	якан	якамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres	2	conj	_	SpaceAfter=No
 10	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~
@@ -59,7 +59,7 @@ The following 9 pairs of parts of speech are connected with `advmod:deg`: <tt><a
 # visual-style 2	fgColor:white
 # visual-style 2 1 advmod:deg	color:blue
 1	Конашкава	конашкава	ADV	Adv	_	2	advmod:deg	_	_
-2	кенярдсь	кенярдемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	0	root	_	GTtags=IV,Ind,Prt1,ScSg3
+2	кенярдсь	кенярдемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	GTtags=IV,Ind,Prt1,ScSg3
 3	книгати	книга	NOUN	N	Case=Dat|Definite=Def|Number=Sing	2	obl	_	GTtags=Sg,Dat,Def|SpaceAfter=No
 4	!	!	PUNCT	CLB	_	2	punct	_	_
 

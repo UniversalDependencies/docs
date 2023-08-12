@@ -58,4 +58,4 @@ Both the second and the third person of the imperative of perfective and imperfe
 
 
 
-<!-- Interlanguage links updated Po lis 14 15:34:48 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:40 CEST -->

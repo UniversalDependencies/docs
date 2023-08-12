@@ -31,7 +31,7 @@ The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 7	a	a	ADP	IN	_	9	case	_	_
 8	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	isla	isla	NOUN	NN	Gender=Fem|Number=Sing	6	nmod	_	_
-10	continúan	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+10	continúan	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	10	punct	_	_
 
 ~~~
@@ -44,7 +44,7 @@ The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 # visual-style 9	fgColor:white
 # visual-style 9 7 cc:preconj	color:blue
 1	Nicolai	Nicolai	PROPN	NNP	Gender=Masc|Number=Sing	2	nsubj	_	_
-2	colabora	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	colabora	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	con	con	ADP	IN	_	5	case	_	_
 4	varias	_	DET	DT	Gender=Fem|Number=Plur|PronType=Ind	5	det	_	_
 5	pistas	_	NOUN	NN	Gender=Fem|Number=Plur	2	obl	_	_
@@ -64,7 +64,7 @@ The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 19	cena	cena	NOUN	NN	Gender=Fem|Number=Sing	13	obl	_	SpaceAfter=No
 20	;	;	PUNCT	:	_	23	punct	_	_
 21	algunas	_	NOUN	NN	Gender=Fem|Number=Plur	23	nsubj:pass	_	_
-22	eran	ser	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	23	aux:pass	_	_
+22	eran	ser	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	23	aux:pass	_	_
 23	escritas	_	VERB	VBN	Gender=Fem|Number=Plur|VerbForm=Fin	2	parataxis	_	_
 24	por	por	ADP	IN	_	25	case	_	_
 25	ambos	_	NOUN	NN	Gender=Masc|Number=Plur	23	obl	_	SpaceAfter=No
@@ -81,7 +81,7 @@ The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 # visual-style 5 2 cc:preconj	color:blue
 1	¿	¿	PUNCT	.	_	5	punct	_	SpaceAfter=No
 2	O	o	CCONJ	CC	_	5	cc:preconj	_	_
-3	es	ser	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
+3	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	estándar	estándar	NOUN	NN	Gender=Masc|Number=Sing	0	root	_	_
 6	o	o	CCONJ	CC	_	7	cc	_	_

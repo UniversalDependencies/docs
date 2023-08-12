@@ -5,4 +5,4 @@ shortdef: 'adjective'
 ---
 
 The English `ADJ` is currently precisely the union of PTB JJ, JJR, and JJS.
-<!-- Interlanguage links updated Po lis 14 15:34:28 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:21 CEST -->

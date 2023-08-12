@@ -30,7 +30,7 @@ The 10 most frequent ambiguous types:  <em>božje</em> (<tt><a href="sl_sst-pos-
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.126214 (the average of all parts of speech is 1.570645).
+The form / lemma ratio of `PROPN` is 1.126214 (the average of all parts of speech is 1.573353).
 
 The 1st highest number of forms (4) was observed with the lemma “Ljubljana”: <em>ljubljana, ljubljane, ljubljani, ljubljano</em>.
 

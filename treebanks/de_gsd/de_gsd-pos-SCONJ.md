@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_German-GSD: POS Tags: `SCONJ`
 
-There are 46 `SCONJ` lemmas (0%), 47 `SCONJ` types (0%) and 1727 `SCONJ` tokens (1%).
-Out of 17 observed tags, the rank of `SCONJ` is: 12 in number of lemmas, 13 in number of types and 14 in number of tokens.
+There are 45 `SCONJ` lemmas (0%), 46 `SCONJ` types (0%) and 1727 `SCONJ` tokens (1%).
+Out of 17 observed tags, the rank of `SCONJ` is: 11 in number of lemmas, 13 in number of types and 14 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>dass, da, wenn, als, daß, nachdem, weil, während, wie, ob</em>
 
@@ -64,7 +64,7 @@ The 10 most frequent ambiguous types:  <em>dass</em> (<tt><a href="de_gsd-pos-SC
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.021739 (the average of all parts of speech is 1.187276).
+The form / lemma ratio of `SCONJ` is 1.022222 (the average of all parts of speech is 1.187855).
 
 The 1st highest number of forms (2) was observed with the lemma “dass”: <em>das, dass</em>.
 
@@ -72,12 +72,12 @@ The 2nd highest number of forms (2) was observed with the lemma “daß”: <em>
 
 The 3rd highest number of forms (2) was observed with the lemma “denn”: <em>den, denn</em>.
 
-`SCONJ` occurs with 7 features: <tt><a href="de_gsd-feat-Typo.html">Typo</a></tt> (25; 1% instances), <tt><a href="de_gsd-feat-Foreign.html">Foreign</a></tt> (1; 0% instances), <tt><a href="de_gsd-feat-Mood.html">Mood</a></tt> (1; 0% instances), <tt><a href="de_gsd-feat-Number.html">Number</a></tt> (1; 0% instances), <tt><a href="de_gsd-feat-Person.html">Person</a></tt> (1; 0% instances), <tt><a href="de_gsd-feat-Tense.html">Tense</a></tt> (1; 0% instances), <tt><a href="de_gsd-feat-VerbForm.html">VerbForm</a></tt> (1; 0% instances)
+`SCONJ` occurs with 2 features: <tt><a href="de_gsd-feat-Typo.html">Typo</a></tt> (25; 1% instances), <tt><a href="de_gsd-feat-Foreign.html">Foreign</a></tt> (1; 0% instances)
 
-`SCONJ` occurs with 7 feature-value pairs: `Foreign=Yes`, `Mood=Sub`, `Number=Plur`, `Person=3`, `Tense=Pres`, `Typo=Yes`, `VerbForm=Fin`
+`SCONJ` occurs with 2 feature-value pairs: `Foreign=Yes`, `Typo=Yes`
 
-`SCONJ` occurs with 4 feature combinations.
-The most frequent feature combination is `_` (1700 tokens).
+`SCONJ` occurs with 3 feature combinations.
+The most frequent feature combination is `_` (1701 tokens).
 Examples: <em>dass, da, wenn, als, daß, nachdem, weil, während, wie, ob</em>
 
 
@@ -85,7 +85,7 @@ Examples: <em>dass, da, wenn, als, daß, nachdem, weil, während, wie, ob</em>
 
 `SCONJ` nodes are attached to their parents using 10 different relations: <tt><a href="de_gsd-dep-mark.html">mark</a></tt> (1701; 98% instances), <tt><a href="de_gsd-dep-case.html">case</a></tt> (10; 1% instances), <tt><a href="de_gsd-dep-cc.html">cc</a></tt> (3; 0% instances), <tt><a href="de_gsd-dep-dep.html">dep</a></tt> (3; 0% instances), <tt><a href="de_gsd-dep-nsubj.html">nsubj</a></tt> (3; 0% instances), <tt><a href="de_gsd-dep-nsubj-pass.html">nsubj:pass</a></tt> (2; 0% instances), <tt><a href="de_gsd-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="de_gsd-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="de_gsd-dep-compound-prt.html">compound:prt</a></tt> (1; 0% instances), <tt><a href="de_gsd-dep-fixed.html">fixed</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 11 different parts of speech: <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> (1510; 87% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> (128; 7% instances), <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (63; 4% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (9; 1% instances), <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="de_gsd-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="de_gsd-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="de_gsd-pos-PART.html">PART</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 11 different parts of speech: <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> (1516; 88% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> (124; 7% instances), <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (63; 4% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (8; 0% instances), <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="de_gsd-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="de_gsd-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="de_gsd-pos-X.html">X</a></tt> (1; 0% instances)
 
 1720 (100%) `SCONJ` nodes are leaves.
 

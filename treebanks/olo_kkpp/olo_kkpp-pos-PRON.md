@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  <em>kai</em> (<tt><a href="olo_kkpp-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 2.041667 (the average of all parts of speech is 1.333901).
+The form / lemma ratio of `PRON` is 2.041667 (the average of all parts of speech is 1.338462).
 
 The 1st highest number of forms (6) was observed with the lemma “häi”: <em>hyö, häi, händy, hänele, hänen, hänes</em>.
 
@@ -52,7 +52,7 @@ Examples: <em>häi</em>
 
 ## Relations
 
-`PRON` nodes are attached to their parents using 13 different relations: <tt><a href="olo_kkpp-dep-nsubj.html">nsubj</a></tt> (32; 31% instances), <tt><a href="olo_kkpp-dep-obj.html">obj</a></tt> (17; 17% instances), <tt><a href="olo_kkpp-dep-det.html">det</a></tt> (13; 13% instances), <tt><a href="olo_kkpp-dep-nmod-poss.html">nmod:poss</a></tt> (11; 11% instances), <tt><a href="olo_kkpp-dep-obl.html">obl</a></tt> (10; 10% instances), <tt><a href="olo_kkpp-dep-nsubj-cop.html">nsubj:cop</a></tt> (5; 5% instances), <tt><a href="olo_kkpp-dep-orphan.html">orphan</a></tt> (4; 4% instances), <tt><a href="olo_kkpp-dep-conj.html">conj</a></tt> (3; 3% instances), <tt><a href="olo_kkpp-dep-nmod.html">nmod</a></tt> (3; 3% instances), <tt><a href="olo_kkpp-dep-fixed.html">fixed</a></tt> (2; 2% instances), <tt><a href="olo_kkpp-dep-advcl.html">advcl</a></tt> (1; 1% instances), <tt><a href="olo_kkpp-dep-parataxis.html">parataxis</a></tt> (1; 1% instances), <tt><a href="olo_kkpp-dep-root.html">root</a></tt> (1; 1% instances)
+`PRON` nodes are attached to their parents using 13 different relations: <tt><a href="olo_kkpp-dep-nsubj.html">nsubj</a></tt> (31; 30% instances), <tt><a href="olo_kkpp-dep-obj.html">obj</a></tt> (18; 17% instances), <tt><a href="olo_kkpp-dep-det.html">det</a></tt> (13; 13% instances), <tt><a href="olo_kkpp-dep-nmod-poss.html">nmod:poss</a></tt> (11; 11% instances), <tt><a href="olo_kkpp-dep-obl.html">obl</a></tt> (10; 10% instances), <tt><a href="olo_kkpp-dep-nsubj-cop.html">nsubj:cop</a></tt> (5; 5% instances), <tt><a href="olo_kkpp-dep-orphan.html">orphan</a></tt> (4; 4% instances), <tt><a href="olo_kkpp-dep-conj.html">conj</a></tt> (3; 3% instances), <tt><a href="olo_kkpp-dep-nmod.html">nmod</a></tt> (3; 3% instances), <tt><a href="olo_kkpp-dep-fixed.html">fixed</a></tt> (2; 2% instances), <tt><a href="olo_kkpp-dep-advcl.html">advcl</a></tt> (1; 1% instances), <tt><a href="olo_kkpp-dep-parataxis.html">parataxis</a></tt> (1; 1% instances), <tt><a href="olo_kkpp-dep-root.html">root</a></tt> (1; 1% instances)
 
 Parents of `PRON` nodes belong to 6 different parts of speech: <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> (59; 57% instances), <tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt> (33; 32% instances), <tt><a href="olo_kkpp-pos-ADJ.html">ADJ</a></tt> (5; 5% instances), <tt><a href="olo_kkpp-pos-PRON.html">PRON</a></tt> (4; 4% instances), <tt><a href="olo_kkpp-pos-ADV.html">ADV</a></tt> (1; 1% instances),  (1; 1% instances)
 

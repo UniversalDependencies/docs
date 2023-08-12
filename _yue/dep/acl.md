@@ -131,4 +131,4 @@ Postnominal clausal modifiers (known as "descriptive clauses" in Mandarin in Li 
 ### References
 
 - Li, Charles N., and Sandra A. Thompson. 1981. Mandarin Chinese: A Functional Reference Grammar. University of California Press.
-<!-- Interlanguage links updated Po lis 14 15:35:02 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:53 CEST -->

@@ -8,50 +8,51 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="vi_vtb-dep-det.html">det</a></tt>.
 
-663 nodes (2%) are attached to their parents as `det:pmod`.
+759 nodes (1%) are attached to their parents as `det:pmod`.
 
-631 instances of `det:pmod` (95%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.31221719457014.
+719 instances of `det:pmod` (95%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.31620553359684.
 
-The following 9 pairs of parts of speech are connected with `det:pmod`: <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt> (579; 87% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt> (35; 5% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt> (18; 3% instances), <tt><a href="vi_vtb-pos-ADP.html">ADP</a></tt>-<tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt> (14; 2% instances), <tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt>-<tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt> (10; 2% instances), <tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt>-<tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="vi_vtb-pos-X.html">X</a></tt>-<tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="vi_vtb-pos-PART.html">PART</a></tt>-<tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `det:pmod`: <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt> (672; 89% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt> (41; 5% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt> (18; 2% instances), <tt><a href="vi_vtb-pos-ADP.html">ADP</a></tt>-<tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt> (12; 2% instances), <tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt>-<tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt> (11; 1% instances), <tt><a href="vi_vtb-pos-NUM.html">NUM</a></tt>-<tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="vi_vtb-pos-X.html">X</a></tt>-<tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 5 det:pmod	color:blue
-1	Hơn nữa	hơn nữa	SCONJ	SC	_	8	cc	_	_
-2	"	"	PUNCT	``	_	3	punct	_	_
-3	tác giả	tác giả	NOUN	N	_	8	nsubj	_	_
-4	"	"	PUNCT	``	_	3	punct	_	_
-5	này	này	PRON	Pro	_	3	det:pmod	_	_
-6	phải	phải	AUX	AUX	_	8	aux	_	_
-7	là	là	AUX	V	_	8	cop	_	_
-8	người	người	NOUN	N	_	0	root	_	_
-9	kiên nhẫn	kiên nhẫn	ADJ	Adj	_	8	amod	_	_
-10	,	,	PUNCT	,	_	11	punct	_	_
-11	ôn hòa	ôn hòa	ADJ	Adj	_	9	conj	_	_
-12	.	.	PUNCT	.	_	8	punct	_	_
+# visual-style 3 4 det:pmod	color:blue
+1	"	"	PUNCT	PUNCT	_	6	punct	_	_
+2	bắt	bắt	VERB	V	_	6	csubj	_	_
+3	kiểu	kiểu	NOUN	N	_	2	obj	_	_
+4	này	này	PRON	PRO	_	3	det:pmod	_	_
+5	ngày	ngày	NOUN	N	_	6	obl:tmod	_	_
+6	được	được	VERB	V	_	0	root	_	_
+7	bao nhiêu	bao nhiêu	DET	DET	_	8	det	_	_
+8	con	con	NOUN	N	_	6	obj	_	_
+9	?	?	PUNCT	PUNCT	_	6	punct	_	_
+10	"	"	PUNCT	PUNCT	_	6	punct	_	_
+11	-	-	PUNCT	PUNCT	_	13	punct	_	_
+12	tôi	tôi	PRON	PRO	_	13	nsubj	_	_
+13	hỏi	hỏi	VERB	V	_	6	parataxis	_	_
+14	.	.	PUNCT	PUNCT	_	6	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 7 det:pmod	color:blue
-1	Thời gian	thời gian	NOUN	N	_	4	nsubj	_	_
-2	rảnh	rảnh	ADJ	Adj	_	1	amod	_	_
-3	chẳng	chẳng	ADV	Adv	_	4	advmod:neg	_	_
-4	biết	biết	VERB	V	_	0	root	_	_
-5	để	để	ADP	Pre	_	6	mark:pcomp	_	_
-6	làm	làm	VERB	V	_	4	advcl:objective	_	_
-7	gì	gì	PRON	Pro	_	6	det:pmod	_	_
-8	.	.	PUNCT	.	_	4	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 det:pmod	color:blue
+1	Rồi	rồi	SCONJ	SC	_	3	mark	_	_
+2	tự	tự	PRON	Pro	_	3	det:pmod	_	_
+3	ra	ra	VERB	V	_	0	root	_	_
+4	sân bay	sân bay	NOUN	N	_	3	obj	_	_
+5	về	về	VERB	V	_	3	xcomp	_	_
+6	nước	nước	NOUN	N	_	5	obj	_	_
+7	.	.	PUNCT	.	_	3	punct	_	_
 
 ~~~
 

@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Chinese-HK: POS Tags: `DET`
 
-There are 1 `DET` lemmas (6%), 38 `DET` types (2%) and 260 `DET` tokens (3%).
-Out of 16 observed tags, the rank of `DET` is: 6 in number of lemmas, 9 in number of types and 10 in number of tokens.
+There are 38 `DET` lemmas (2%), 38 `DET` types (2%) and 260 `DET` tokens (3%).
+Out of 16 observed tags, the rank of `DET` is: 8 in number of lemmas, 8 in number of types and 10 in number of tokens.
 
-The 10 most frequent `DET` lemmas: _
+The 10 most frequent `DET` lemmas: 這、 那、 什麼、 其他、 每、 任何、 這些、 所有、 多、 這個
 
 The 10 most frequent `DET` types:  這、 那、 什麼、 其他、 每、 任何、 這些、 所有、 多、 這個
 
-The 10 most frequent ambiguous lemmas: _ (<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> 1848, <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> 1766, <tt><a href="zh_hk-pos-PUNCT.html">PUNCT</a></tt> 1738, <tt><a href="zh_hk-pos-ADV.html">ADV</a></tt> 1158, <tt><a href="zh_hk-pos-PRON.html">PRON</a></tt> 875, <tt><a href="zh_hk-pos-PART.html">PART</a></tt> 560, <tt><a href="zh_hk-pos-AUX.html">AUX</a></tt> 502, <tt><a href="zh_hk-pos-ADP.html">ADP</a></tt> 321, <tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt> 301, <tt><a href="zh_hk-pos-DET.html">DET</a></tt> 260, <tt><a href="zh_hk-pos-NUM.html">NUM</a></tt> 177, <tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt> 166, <tt><a href="zh_hk-pos-CCONJ.html">CCONJ</a></tt> 99, <tt><a href="zh_hk-pos-SCONJ.html">SCONJ</a></tt> 68, <tt><a href="zh_hk-pos-INTJ.html">INTJ</a></tt> 34, <tt><a href="zh_hk-pos-SYM.html">SYM</a></tt> 1)
+The 10 most frequent ambiguous lemmas: 這 (<tt><a href="zh_hk-pos-DET.html">DET</a></tt> 52, <tt><a href="zh_hk-pos-PRON.html">PRON</a></tt> 19), 那 (<tt><a href="zh_hk-pos-DET.html">DET</a></tt> 28, <tt><a href="zh_hk-pos-ADV.html">ADV</a></tt> 9, <tt><a href="zh_hk-pos-PRON.html">PRON</a></tt> 3), 什麼 (<tt><a href="zh_hk-pos-DET.html">DET</a></tt> 22, <tt><a href="zh_hk-pos-PRON.html">PRON</a></tt> 10), 這些 (<tt><a href="zh_hk-pos-DET.html">DET</a></tt> 13, <tt><a href="zh_hk-pos-PRON.html">PRON</a></tt> 3), 多 (<tt><a href="zh_hk-pos-DET.html">DET</a></tt> 8, <tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="zh_hk-pos-ADV.html">ADV</a></tt> 4), 這個 (<tt><a href="zh_hk-pos-DET.html">DET</a></tt> 8, <tt><a href="zh_hk-pos-PRON.html">PRON</a></tt> 1), 下 (<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> 10, <tt><a href="zh_hk-pos-DET.html">DET</a></tt> 6, <tt><a href="zh_hk-pos-ADP.html">ADP</a></tt> 5, <tt><a href="zh_hk-pos-ADV.html">ADV</a></tt> 4), 此 (<tt><a href="zh_hk-pos-DET.html">DET</a></tt> 6, <tt><a href="zh_hk-pos-PRON.html">PRON</a></tt> 2), 甚麼 (<tt><a href="zh_hk-pos-DET.html">DET</a></tt> 5, <tt><a href="zh_hk-pos-PRON.html">PRON</a></tt> 4, <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> 1), 一些 (<tt><a href="zh_hk-pos-DET.html">DET</a></tt> 4, <tt><a href="zh_hk-pos-ADV.html">ADV</a></tt> 1)
 
 The 10 most frequent ambiguous types:  這 (<tt><a href="zh_hk-pos-DET.html">DET</a></tt> 52, <tt><a href="zh_hk-pos-PRON.html">PRON</a></tt> 19), 那 (<tt><a href="zh_hk-pos-DET.html">DET</a></tt> 28, <tt><a href="zh_hk-pos-ADV.html">ADV</a></tt> 9, <tt><a href="zh_hk-pos-PRON.html">PRON</a></tt> 3), 什麼 (<tt><a href="zh_hk-pos-DET.html">DET</a></tt> 22, <tt><a href="zh_hk-pos-PRON.html">PRON</a></tt> 10), 這些 (<tt><a href="zh_hk-pos-DET.html">DET</a></tt> 13, <tt><a href="zh_hk-pos-PRON.html">PRON</a></tt> 3), 多 (<tt><a href="zh_hk-pos-DET.html">DET</a></tt> 8, <tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="zh_hk-pos-ADV.html">ADV</a></tt> 4), 這個 (<tt><a href="zh_hk-pos-DET.html">DET</a></tt> 8, <tt><a href="zh_hk-pos-PRON.html">PRON</a></tt> 1), 下 (<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> 10, <tt><a href="zh_hk-pos-DET.html">DET</a></tt> 6, <tt><a href="zh_hk-pos-ADP.html">ADP</a></tt> 5, <tt><a href="zh_hk-pos-ADV.html">ADV</a></tt> 4), 此 (<tt><a href="zh_hk-pos-DET.html">DET</a></tt> 6, <tt><a href="zh_hk-pos-PRON.html">PRON</a></tt> 2), 甚麼 (<tt><a href="zh_hk-pos-DET.html">DET</a></tt> 5, <tt><a href="zh_hk-pos-PRON.html">PRON</a></tt> 4, <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> 1), 一些 (<tt><a href="zh_hk-pos-DET.html">DET</a></tt> 4, <tt><a href="zh_hk-pos-ADV.html">ADV</a></tt> 1)
 
@@ -56,9 +56,13 @@ The 10 most frequent ambiguous types:  這 (<tt><a href="zh_hk-pos-DET.html">DET
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 38.000000 (the average of all parts of speech is 107.937500).
+The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.007013).
 
-The 1st highest number of forms (38) was observed with the lemma “_”: 一些, 上, 下, 什麼, 今, 任何, 全, 其, 其中, 其他, 別, 另, 各, 哪些, 多, 多少, 多次, 幾, 很多, 所有, 整, 整個, 數, 有些, 本, 某, 某些, 此, 歷, 每, 甚麼, 眾多, 這, 這些, 這個, 那, 那些, 首.
+The 1st highest number of forms (1) was observed with the lemma “一些”: 一些.
+
+The 2nd highest number of forms (1) was observed with the lemma “上”: 上.
+
+The 3rd highest number of forms (1) was observed with the lemma “下”: 下.
 
 `DET` does not occur with any features.
 

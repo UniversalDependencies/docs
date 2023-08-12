@@ -30,7 +30,7 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 6	てき	てく	AUX	助動詞-五段-カ行	_	5	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=;,て;来る,て;き,て;くる,テ;キ,;,;,テ;クル,テク,てく
 7	まし	ます	AUX	助動詞-助動詞-マス	_	5	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|SpaceAfter=No|UnidicInfo=,ます,まし,ます,マシ,,,マス,マス,ます
 8	た	た	AUX	助動詞-助動詞-タ	_	5	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|SpaceAfter=No|UnidicInfo=,た,た,た,タ,,,タ,タ,た
-9	。	。	PUNCT	補助記号-句点	_	5	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=Yes|UnidicInfo=,。,。,。,,,,,,。
+9	。	。	PUNCT	補助記号-句点	_	5	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|UnidicInfo=,。,。,。,,,,,,。
 
 ~~~
 
@@ -46,7 +46,7 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 3	2組所属	2組所属	NOUN	名詞-普通名詞-一般	_	5	nmod	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=;;,二;組;所属,2;組;所属,2;組;所属,ニ;クミ;ショゾク,;;,;;,ニ;クミ;ショゾク,ニクミショゾク,2組所属
 4	の	の	ADP	助詞-格助詞	_	3	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,の,の,の,ノ,,,ノ,ノ,の
 5	少年	少年	NOUN	名詞-普通名詞-一般	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|SpaceAfter=No|UnidicInfo=,少年,少年,少年,ショーネン,,,ショウネン,ショウネン,少年
-6	。	。	PUNCT	補助記号-句点	_	5	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=Yes|UnidicInfo=,。,。,。,,,,,,。
+6	。	。	PUNCT	補助記号-句点	_	5	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|UnidicInfo=,。,。,。,,,,,,。
 
 ~~~
 
@@ -68,7 +68,7 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 9	ある	有る	VERB	動詞-一般-五段-ラ行	_	11	ccomp	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|PrevUDLemma=ある|SpaceAfter=No|UnidicInfo=,有る,ある,ある,アル,,,アル,アル,有る
 10	と	と	ADP	助詞-格助詞	_	9	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,と,と,と,ト,,,ト,ト,と
 11	いう	言う	VERB	動詞-一般-五段-ワア行	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|SpaceAfter=No|UnidicInfo=,言う,いう,いう,イウ,,,イウ,イウ,言う
-12	。	。	PUNCT	補助記号-句点	_	11	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=Yes|UnidicInfo=,。,。,。,,,,,,。
+12	。	。	PUNCT	補助記号-句点	_	11	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|UnidicInfo=,。,。,。,,,,,,。
 
 ~~~
 

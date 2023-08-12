@@ -28,7 +28,7 @@ The following 38 pairs of parts of speech are connected with `obl`: <tt><a href=
 3	армиясто	армия	NOUN	N	Case=Ela|Definite=Ind|Number=Plur,Sing	6	obl	_	GTtags=SP,Ela,Indef
 4	кавто	кавто	NUM	Num	Case=Nom|Definite=Ind|Number=Sing|NumType=Card	5	nummod	_	GTtags=Card,Sg,Nom,Indef
 5	полкт	полк	NOUN	N	Case=Nom|Definite=Ind|Number=Plur	6	nsubj	_	GTtags=Sem/Plc,Pl,Nom,Indef
-6	калавтсть	калавтомс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|Valency=2	0	root	_	GTtags=TV,Ind,Prt1,ScPl3|SpaceAfter=No
+6	калавтсть	калавтомс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past	0	root	_	GTtags=TV,Ind,Prt1,ScPl3|SpaceAfter=No
 7	.	.	PUNCT	CLB	_	6	punct	_	_
 
 ~~~
@@ -41,7 +41,7 @@ The following 38 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 2	fgColor:white
 # visual-style 2 1 obl	color:blue
 1	Мельганзо	мельга	PRON	Pron	AdvType=Loc|Number[psor]=Sing|Person[psor]=3	2	obl	_	GTtags=Spat,PxSg3
-2	мольсть	молемс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|Valency=1	0	root	_	GTtags=IV,Ind,Prt1,ScPl3
+2	мольсть	молемс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past	0	root	_	GTtags=IV,Ind,Prt1,ScPl3
 3	вейке-вейке	вейке-вейке	PRON	Pron	PronType=Rcp	2	obl	_	GTtags=Recip
 4	мельга	мельга	ADP	Adp	AdvType=Loc	3	case	_	GTtags=Spat
 5	кадовикс	кадовикс	ADJ	A	_	6	amod	_	_
@@ -60,17 +60,17 @@ The following 38 pairs of parts of speech are connected with `obl`: <tt><a href=
 1	―	―	PUNCT	PUNCT	_	4	punct	_	_
 2	Седе	седе	ADV	Adv	Degree=Cmp	3	advmod:deg	_	GTtags=Comp
 3	васов	васов	ADV	Adv	AdvType=Loc|Case=Lat	4	obl	_	GTtags=Spat,Lat
-4	молемс	молемс	VERB	V	Valency=1|VerbForm=Inf	6	advcl	_	GTtags=IV,Inf
+4	молемс	молемс	VERB	V	VerbForm=Inf	6	advcl	_	GTtags=IV,Inf
 5	вием	вий	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	6	nsubj	_	GTtags=Sg,Nom,PxSg1
 6	арась	арась	ADJ	A	Number[subj]=Sing|Person[subj]=3|Polarity=Neg|Tense=Pres	0	root	_	GTtags=Neg,Cop,Ind,Prs,ScSg3|SpaceAfter=No
 7	,	,	PUNCT	CLB	_	8	punct	_	_
 8	ох	ох	INTJ	Interj	_	10	discourse	_	GTtags=|SpaceAfter=No
 9	,	,	PUNCT	CLB	_	8	punct	_	_
-10	пран	прамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres|Valency=1	6	conj	_	GTtags=IV,Ind,Prs,ScSg1|SpaceAfter=No
+10	пран	прамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres	6	conj	_	GTtags=IV,Ind,Prs,ScSg1|SpaceAfter=No
 11	!	!	PUNCT	CLB	_	10	punct	_	_
 12	―	―	PUNCT	PUNCT	_	14	punct	_	_
 13	таго	таго	ADV	Adv	AdvType=Tim	14	advmod:tmod	_	GTtags=Temp
-14	сергедевсь	серьгедевемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	6	parataxis	_	GTtags=IV,Ind,Prt1,ScSg3|SpaceAfter=No
+14	сергедевсь	серьгедевемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	6	parataxis	_	GTtags=IV,Ind,Prt1,ScSg3|SpaceAfter=No
 15	.	.	PUNCT	CLB	_	6	punct	_	_
 
 ~~~

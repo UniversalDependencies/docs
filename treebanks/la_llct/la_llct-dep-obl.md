@@ -28,7 +28,7 @@ The following 23 pairs of parts of speech are connected with `obl`: <tt><a href=
 3	confirmationem	confirmatio	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	6	obl	_	_
 4	Andream	Andreas	PROPN	Propn|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	6	nsubj	_	_
 5	notarium	notarius	NOUN	n|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	4	appos	_	_
-6	scribere	scribo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	7	ccomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+6	scribere	scribo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	7	ccomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 7	rogavi	rogo	VERB	v|v|1|s|r|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Perfectum
 8	.	.	PUNCT	Punc	_	7	punct	_	_
 

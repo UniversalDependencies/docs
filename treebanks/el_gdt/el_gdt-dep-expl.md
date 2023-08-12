@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-18 nodes (0%) are attached to their parents as `expl`.
+20 nodes (0%) are attached to their parents as `expl`.
 
-18 instances of `expl` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.11111111111111.
+19 instances of `expl` (95%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.2.
 
-The following 1 pairs of parts of speech are connected with `expl`: <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> (18; 100% instances).
+The following 1 pairs of parts of speech are connected with `expl`: <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> (20; 100% instances).
 
 
 ~~~ conllu

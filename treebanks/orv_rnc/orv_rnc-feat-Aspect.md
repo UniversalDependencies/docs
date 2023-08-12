@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 * `Imp` (1382; 41% of non-empty `Aspect`): <em>бьет, имати, платить, писал, сбирать, бьетъ, бью, чинить, чистить, давать</em>
 * `Perf` (2005; 59% of non-empty `Aspect`): <em>взято, велѣно, велѣлъ, взят, послано, написано, пожалуй, пожалꙋи, послал, поколол</em>
-* `EMPTY` (756): <em>смерено, принето, привез, велет(ь), есть, сказал, нет, дано, пришли, битых</em>
+* `EMPTY` (755): <em>смерено, принето, привез, велет(ь), есть, сказал, нет, дано, пришли, битых</em>
 
 <table>
   <tr><th>Paradigm <i>велѣти</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>
@@ -50,7 +50,7 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 
 * `Imp` (9; 82% of non-empty `Aspect`): <em>суть, есте, быть, есьмы</em>
 * `Perf` (2; 18% of non-empty `Aspect`): <em>быхом</em>
-* `EMPTY` (329): <em>бы, есть, б, было, были, будет, былъ, еси, есте, бысть</em>
+* `EMPTY` (330): <em>бы, есть, б, было, были, будет, былъ, еси, есте, бысть</em>
 
 <table>
   <tr><th>Paradigm <i>быти</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>

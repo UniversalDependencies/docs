@@ -19,6 +19,7 @@ Contents:
   - [Treebank metadata](#treebank-metadata)
   - [Repository branches](#repository-branches)
 * [Validation](#validation)
+* [Fixing errors in treebanks](#fixing-errors-in-treebanks)
 * [Language-specific guidelines](#language-specific-guidelines)
 
 # New language or treebank
@@ -50,7 +51,7 @@ save them for the documentation, and avoid them in the repository name.
 
 While you are waiting for your repository, read the instructions below. They explain what you need to do
 so that your treebank works well with our infrastructure and can be released.
-And do not forget to subscribe to the [UD mailing list](http://stp.lingfil.uu.se/mailman/listinfo/ud).
+And do not forget to subscribe to the [UD mailing list](https://lists.uu.se/sympa/info/lingfil-ud).
 Important announcements for the data providers are circulated through this list.
 
 # Executive summary
@@ -443,6 +444,29 @@ three letters from ISO 639-3, lowercased!)
 Some additional tests are available in the
 [Udapi](https://github.com/udapi/udapi-python/blob/master/udapi/block/ud/markbugs.py)
 tool. They may reveal configurations that are not necessarily invalid but are suspicious and should be checked manually.
+
+
+
+# Fixing errors in treebanks
+
+Previously released treebanks are not always perfect and they may contain inconsistencies or errors.
+In some cases new tests are implemented in the official validator and new errors are discovered in
+previously valid treebanks. Other errors or inconsistencies cannot be detected by the validator but
+they can be spotted and reported by human users.
+
+It is primarily the responsibility of the data providers (or of current treebank maintainers, if
+the treebank was adopted by a new team) to fix these errors. However, we want to encourage contributions
+from non-maintainers of a treebank in the form of pull requests. Such pull requests must be based on
+the previous contents of the dev branch (not the master branch, as it may contain files that would
+render the dev branch invalid!) and they must be directed again at the dev branch (never the master
+branch). Submitting a pull request does not automatically mean that the treebank maintainer must
+accept it (in particular, some treebanks are maintained outside UD and then automatically converted
+to UD), but the maintainers should respond to the request, and if they do not accept and merge it,
+other possible solutions should be discussed.
+
+We expect that the treebank maintainers would consider such requests within 6 months. If no response
+is received from maintainers, the UD infrastructure maintainers have the authority to assume
+responsibility for reviewing and accepting the pull request.
 
 
 

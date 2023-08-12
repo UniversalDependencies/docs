@@ -24,7 +24,7 @@ The following 4 pairs of parts of speech are connected with `advmod:tmod`: <tt><
 # visual-style 5	fgColor:white
 # visual-style 5 4 advmod:tmod	color:blue
 1	Mâiʹd	mâiʹd	PRON	Pron	Case=Acc|PronType=Int	2	obj	_	GTtags=Interr,Acc
-2	joordak	juʹrdded	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Valency=2	0	root	_	GTtags=Ind,Prs,Sg2
+2	joordak	juʹrdded	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg2
 3	što	što	SCONJ	CS	_	5	mark	_	_
 4	kuäʹss	kuäʹss	ADV	Adv	_	5	advmod:tmod	_	_
 5	piâzzčiǩ	piâssâd	VERB	V	Mood=Cnd|Number=Sing|Person=2	2	xcomp	_	GTtags=Cond,Sg2|SpaceAfter=No
@@ -69,7 +69,7 @@ The following 4 pairs of parts of speech are connected with `advmod:tmod`: <tt><
 3	leämmaž	leeʹd	AUX	V	Aspect=Perf|VerbForm=Part	4	cop	_	GTtags=IV,Act,PrfPrc
 4	mieʹccest	meäʹcc	NOUN	N	Case=Loc|Number=Sing	0	root	_	GTtags=Sg,Loc|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	6	punct	_	_
-6	iʹttli	iʹttled	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=1	4	advcl	_	GTtags=Ind,Prt,Sg3
+6	iʹttli	iʹttled	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	advcl	_	GTtags=Ind,Prt,Sg3
 7	kuʹmpp	kuʹmpp	NOUN	N	Case=Nom|Number=Sing	6	nsubj	_	GTtags=Sg,Nom
 8	väʹst	väʹst	ADV	Adv	_	6	advmod	_	_
 9	mååust	mååust	ADV	Adv	_	6	advmod:lmod	_	SpaceAfter=No

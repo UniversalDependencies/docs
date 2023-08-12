@@ -50,26 +50,26 @@ The following 13 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 13 ccomp	color:blue
-1	Nítorí	nítorí	SCONJ	_	_	4	mark	_	Ref=MARK_5.8|Gloss=for
-2	tí	tí	PRON	_	PronType=Rel	1	fixed	_	Ref=MARK_5.8|Gloss=that
-3	Ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Ref=MARK_5.8|Gloss=he
-4	wí	wí	VERB	_	_	0	root	_	Ref=MARK_5.8|Gloss=said
-5	fún	fún	ADP	_	_	6	case	_	Ref=MARK_5.8|Gloss=unto
-6	un	un	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	4	obl	_	Ref=MARK_5.8|Gloss=him
-7	pé	pé	SCONJ	_	_	10	mark	_	Ref=MARK_5.8|SpaceAfter=No|Gloss=saying
-8	,	,	PUNCT	_	_	10	punct	_	Ref=MARK_5.8|Gloss=,
-9	“	“	PUNCT	_	_	10	punct	_	Ref=MARK_5.8|SpaceAfter=No|Gloss=“
-10	Jáde	jáde	VERB	_	_	4	ccomp	_	Ref=MARK_5.8|Gloss=come
-11	kúrò	kúrò	ADP	_	_	13	case	_	Ref=MARK_5.8|Gloss=from
-12	lára	lára	ADP	_	_	13	case	_	Ref=MARK_5.8|Gloss=of
-13	ọkùnrin	ọkùnrin	NOUN	_	_	10	ccomp	_	Ref=MARK_5.8|Gloss=man
-14	náà	náà	DET	_	_	13	det	_	Ref=MARK_5.8|SpaceAfter=No|Gloss=the
-15	,	,	PUNCT	_	_	18	punct	_	Ref=MARK_5.8|Gloss=,
-16	ìwọ	ìwọ	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	18	nsubj	_	Ref=MARK_5.8|Gloss=thou
-17	ẹ̀mí	ẹ̀mí	NOUN	_	_	18	obj	_	Ref=MARK_5.8|Gloss=spirit
-18	àìmọ́	àìmọ́	ADJ	_	_	13	amod	_	Ref=MARK_5.8|SpaceAfter=No|Gloss=unclean
-19	!	!	PUNCT	_	_	18	punct	_	Ref=MARK_5.8|SpaceAfter=No|Gloss=.
-20	”	”	PUNCT	_	_	13	punct	_	Ref=MARK_5.8|Gloss=.
+1	Nítorí	nítorí	SCONJ	_	_	4	mark	_	Gloss=for|Ref=MARK_5.8
+2	tí	tí	PRON	_	PronType=Rel	1	fixed	_	Gloss=that|Ref=MARK_5.8
+3	Ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Gloss=he|Ref=MARK_5.8
+4	wí	wí	VERB	_	_	0	root	_	Gloss=said|Ref=MARK_5.8
+5	fún	fún	ADP	_	_	6	case	_	Gloss=unto|Ref=MARK_5.8
+6	un	un	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	4	obl	_	Gloss=him|Ref=MARK_5.8
+7	pé	pé	SCONJ	_	_	10	mark	_	Gloss=saying|Ref=MARK_5.8|SpaceAfter=No
+8	,	,	PUNCT	_	_	10	punct	_	Gloss=,|Ref=MARK_5.8
+9	“	“	PUNCT	_	_	10	punct	_	Gloss=“|Ref=MARK_5.8|SpaceAfter=No
+10	Jáde	jáde	VERB	_	_	4	ccomp	_	Gloss=come|Ref=MARK_5.8
+11	kúrò	kúrò	ADP	_	_	13	case	_	Gloss=from|Ref=MARK_5.8
+12	lára	lára	ADP	_	_	13	case	_	Gloss=of|Ref=MARK_5.8
+13	ọkùnrin	ọkùnrin	NOUN	_	_	10	ccomp	_	Gloss=man|Ref=MARK_5.8
+14	náà	náà	DET	_	_	13	det	_	Gloss=the|Ref=MARK_5.8|SpaceAfter=No
+15	,	,	PUNCT	_	_	18	punct	_	Gloss=,|Ref=MARK_5.8
+16	ìwọ	ìwọ	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	18	nsubj	_	Gloss=thou|Ref=MARK_5.8
+17	ẹ̀mí	ẹ̀mí	NOUN	_	_	18	obj	_	Gloss=spirit|Ref=MARK_5.8
+18	àìmọ́	àìmọ́	ADJ	_	_	13	amod	_	Gloss=unclean|Ref=MARK_5.8|SpaceAfter=No
+19	!	!	PUNCT	_	_	18	punct	_	Gloss=.|Ref=MARK_5.8|SpaceAfter=No
+20	”	”	PUNCT	_	_	13	punct	_	Gloss=.|Ref=MARK_5.8
 
 ~~~
 
@@ -80,22 +80,22 @@ The following 13 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 8 ccomp	color:blue
-1	Jésù	jésù	PROPN	_	_	6	nsubj	_	Ref=MARK_5.24|Gloss=jesus
-2	sì	sì	CCONJ	_	_	6	cc	_	Ref=MARK_5.24|Gloss=and
-3	ń	ń	AUX	_	_	6	aux	_	Ref=MARK_5.24|Gloss=is
-4	bá	bá	ADP	_	_	6	case	_	Ref=MARK_5.24|Gloss=with
-5	a	a	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	6	obj	_	Ref=MARK_5.24|Gloss=him
-6	lọ	lọ	VERB	_	_	0	root	_	Ref=MARK_5.24|Gloss=him|SpaceAfter=No
-7	.	.	PUNCT	_	_	8	punct	_	Ref=MARK_5.24|Gloss=.
-8	Ọ̀pọ̀	Ọ̀pọ̀	ADJ	_	_	6	ccomp	_	Ref=MARK_5.24|Gloss=many
-9	ìjọ	ìjọ	NOUN	_	_	13	nsubj	_	Ref=MARK_5.24|Gloss=congregation
-10	ènìyàn	ènìyàn	NOUN	_	_	9	nmod	_	Ref=MARK_5.24|Gloss=people
-11	sì	sì	CCONJ	_	_	13	cc	_	Ref=MARK_5.24|Gloss=and
-12	ń	ń	AUX	_	_	13	aux	_	Ref=MARK_5.24|Gloss=is
-13	tọ̀	tọ̀	VERB	_	_	8	parataxis	_	Ref=MARK_5.24|Gloss=follow
-14	Ọ́	ọ́	NOUN	_	_	13	obj	_	Ref=MARK_5.24|Gloss=him
-15	lẹ́yìn	lẹ́yìn	ADP	_	_	14	case	_	Ref=MARK_5.24|SpaceAfter=No|Gloss=after
-16	.	.	PUNCT	_	_	13	punct	_	Ref=MARK_5.24|Gloss=.
+1	Jésù	jésù	PROPN	_	_	6	nsubj	_	Gloss=jesus|Ref=MARK_5.24
+2	sì	sì	CCONJ	_	_	6	cc	_	Gloss=and|Ref=MARK_5.24
+3	ń	ń	AUX	_	_	6	aux	_	Gloss=is|Ref=MARK_5.24
+4	bá	bá	ADP	_	_	6	case	_	Gloss=with|Ref=MARK_5.24
+5	a	a	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	6	obj	_	Gloss=him|Ref=MARK_5.24
+6	lọ	lọ	VERB	_	_	0	root	_	Gloss=him|Ref=MARK_5.24|SpaceAfter=No
+7	.	.	PUNCT	_	_	8	punct	_	Gloss=.|Ref=MARK_5.24
+8	Ọ̀pọ̀	Ọ̀pọ̀	ADJ	_	_	6	ccomp	_	Gloss=many|Ref=MARK_5.24
+9	ìjọ	ìjọ	NOUN	_	_	13	nsubj	_	Gloss=congregation|Ref=MARK_5.24
+10	ènìyàn	ènìyàn	NOUN	_	_	9	nmod	_	Gloss=people|Ref=MARK_5.24
+11	sì	sì	CCONJ	_	_	13	cc	_	Gloss=and|Ref=MARK_5.24
+12	ń	ń	AUX	_	_	13	aux	_	Gloss=is|Ref=MARK_5.24
+13	tọ̀	tọ̀	VERB	_	_	8	parataxis	_	Gloss=follow|Ref=MARK_5.24
+14	Ọ́	ọ́	NOUN	_	_	13	obj	_	Gloss=him|Ref=MARK_5.24
+15	lẹ́yìn	lẹ́yìn	ADP	_	_	14	case	_	Gloss=after|Ref=MARK_5.24|SpaceAfter=No
+16	.	.	PUNCT	_	_	13	punct	_	Gloss=.|Ref=MARK_5.24
 
 ~~~
 

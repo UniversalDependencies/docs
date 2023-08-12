@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-5373 nodes (8%) are attached to their parents as `case`.
+5374 nodes (8%) are attached to their parents as `case`.
 
-5368 instances of `case` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.0965940815187.
+5369 instances of `case` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.09732043170822.
 
-The following 16 pairs of parts of speech are connected with `case`: <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-ADP.html">ADP</a></tt> (4098; 76% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_gdt-pos-ADP.html">ADP</a></tt> (419; 8% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt>-<tt><a href="el_gdt-pos-ADP.html">ADP</a></tt> (275; 5% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (163; 3% instances), <tt><a href="el_gdt-pos-X.html">X</a></tt>-<tt><a href="el_gdt-pos-ADP.html">ADP</a></tt> (133; 2% instances), <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt>-<tt><a href="el_gdt-pos-ADP.html">ADP</a></tt> (99; 2% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_gdt-pos-ADP.html">ADP</a></tt> (77; 1% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt>-<tt><a href="el_gdt-pos-ADP.html">ADP</a></tt> (59; 1% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-ADP.html">ADP</a></tt> (22; 0% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt>-<tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (9; 0% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt>-<tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt>-<tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="el_gdt-pos-X.html">X</a></tt>-<tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 17 pairs of parts of speech are connected with `case`: <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-ADP.html">ADP</a></tt> (4103; 76% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_gdt-pos-ADP.html">ADP</a></tt> (420; 8% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt>-<tt><a href="el_gdt-pos-ADP.html">ADP</a></tt> (273; 5% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (163; 3% instances), <tt><a href="el_gdt-pos-X.html">X</a></tt>-<tt><a href="el_gdt-pos-ADP.html">ADP</a></tt> (133; 2% instances), <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt>-<tt><a href="el_gdt-pos-ADP.html">ADP</a></tt> (87; 2% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_gdt-pos-ADP.html">ADP</a></tt> (85; 2% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt>-<tt><a href="el_gdt-pos-ADP.html">ADP</a></tt> (58; 1% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-ADP.html">ADP</a></tt> (22; 0% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt>-<tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (9; 0% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt>-<tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="el_gdt-pos-DET.html">DET</a></tt>-<tt><a href="el_gdt-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt>-<tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="el_gdt-pos-X.html">X</a></tt>-<tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,8 +22,8 @@ The following 16 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 case	color:blue
-1	Σ	σε	ADP	AsPpSp	_	3	case	_	_
-2	τα	ο	DET	AtDf	Case=Acc|Gender=Neut|Number=Plur	3	det	_	_
+1	Σ	σε	ADP	ADP	_	3	case	_	_
+2	τα	ο	DET	DET	Case=Acc|Gender=Neut|Number=Plur	3	det	_	_
 3	χωριά	χωριό	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	0	root	_	_
 4	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	6	det	_	_
 5	Παγγαίου	Παγγαίο	PROPN	PROPN	Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	_
@@ -41,8 +41,8 @@ The following 16 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 5 3 case	color:blue
 1	Πέντε	πέντε	NUM	NUM	Case=Acc|Gender=Masc|Number=Plur|NumType=Card	2	nummod	_	_
 2	νεκροί	νεκρός	ADJ	ADJ	Case=Nom|Gender=Masc|Number=Plur	0	root	_	_
-3	σ	σε	ADP	AsPpSp	_	5	case	_	_
-4	την	ο	DET	AtDf	Case=Acc|Gender=Fem|Number=Sing	5	det	_	_
+3	σ	σε	ADP	ADP	_	5	case	_	_
+4	την	ο	DET	DET	Case=Acc|Gender=Fem|Number=Sing	5	det	_	_
 5	Καμπούλ	Καμπούλ	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	2	obl	_	_
 
 ~~~

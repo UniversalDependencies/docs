@@ -77,7 +77,7 @@ The most frequent other feature values with which `DET` and `Polarity` co-occurr
 
 * `Neg` (27; 93% of non-empty `Polarity`): <em>hiçbir, hiç</em>
 * `Pos` (2; 7% of non-empty `Polarity`): <em>Bu, bir</em>
-* `EMPTY` (954): <em>bir, bu, o, her, bütün, şu, birkaç, bazı, başka, öyle</em>
+* `EMPTY` (953): <em>bir, bu, o, her, bütün, şu, birkaç, bazı, başka, öyle</em>
 
 ### `PRON`
 

@@ -23,7 +23,7 @@ The following 4 pairs of parts of speech are connected with `flat:name`: <tt><a 
 # visual-style 3	fgColor:white
 # visual-style 3 4 flat:name	color:blue
 1	Знярс	знярс	ADV	Adv	Case=Ill|PronType=Int	2	obl	_	GTtags=Interr,Ill
-2	кочксизь	кочксемс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Past|Valency=2	0	root	_	GTtags=TV,Ind,Prt1,ScPl3,OcSg3
+2	кочксизь	кочксемс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Past	0	root	_	GTtags=TV,Ind,Prt1,ScPl3,OcSg3
 3	Цинай	Цинай	PROPN	N	Case=Nom|Definite=Ind|NameType=Sur|Number=Sing	2	obj	_	GTtags=Prop,Sem/Sur,Sg,Nom,Indef
 4	Игонь	Иго	PROPN	N	Animacy=Hum|Case=Gen|Definite=Ind|NameType=Giv|Number=Plur,Sing	3	flat:name	_	GTtags=Prop,Ant_Mal,SP,Gen,Indef|SpaceAfter=No
 5	.	.	PUNCT	CLB	_	2	punct	_	_
@@ -39,7 +39,7 @@ The following 4 pairs of parts of speech are connected with `flat:name`: <tt><a 
 # visual-style 5 6 flat:name	color:blue
 1	—	—	PUNCT	CLB	_	3	punct	_	_
 2	Иля	а	AUX	AUX	Mood=Proh|Number[subj]=Sing|Person[subj]=2	3	aux:neg	_	GTtags=Proh,ScSg2
-3	сова	совамс	VERB	V	Connegative=Yes|Valency=1	0	root	_	GTtags=IV,ConNeg|SpaceAfter=No
+3	сова	совамс	VERB	V	Connegative=Yes	0	root	_	GTtags=IV,ConNeg|SpaceAfter=No
 4	,	,	PUNCT	CLB	_	5	punct	_	_
 5	Рамко	Рамко	PROPN	N	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	3	vocative	_	GTtags=Prop,Ant_Mal,Sg,Nom,Indef
 6	лелякай	лелякай	NOUN	N	Derivation=VocKaj	5	flat:name	_	GTtags=Sem/Kin,Der/кай,Voc|SpaceAfter=No

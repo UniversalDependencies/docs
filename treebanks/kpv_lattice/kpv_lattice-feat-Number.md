@@ -44,7 +44,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 955 <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> tokens (71% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="kpv_lattice-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (893; 94%), <tt><a href="kpv_lattice-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (843; 88%), <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (800; 84%), <tt><a href="kpv_lattice-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (765; 80%), <tt><a href="kpv_lattice-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (722; 76%), <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt> (662; 69%), <tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (539; 56%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="kpv_lattice-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (893; 94%), <tt><a href="kpv_lattice-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (843; 88%), <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (800; 84%), <tt><a href="kpv_lattice-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (765; 80%), <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt> (662; 69%), <tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (539; 56%).
 
 `VERB` tokens may have the following values of `Number`:
 
@@ -54,10 +54,9 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 <table>
   <tr><th>Paradigm <i>лоны</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="kpv_lattice-feat-Evident.html">Evident</a></tt><tt>=Nfh</tt>|<tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="kpv_lattice-feat-Valency.html">Valency</a></tt><tt>=1</tt></tt></td><td><em>лоӧма</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="kpv_lattice-feat-Evident.html">Evident</a></tt><tt>=Nfh</tt>|<tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>лоӧма</em></td><td></td></tr>
   <tr><td><tt><tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>лоа</em></td><td><em>лоам</em></td></tr>
   <tr><td><tt><tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>лои, лоис</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="kpv_lattice-feat-Valency.html">Valency</a></tt><tt>=1</tt></tt></td><td><em>лои</em></td><td></td></tr>
   <tr><td><tt><tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>лоӧ</em></td><td></td></tr>
 </table>
 
@@ -112,7 +111,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 222 <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> tokens (72% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="kpv_lattice-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (213; 96%), <tt><a href="kpv_lattice-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (187; 84%), <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt> (172; 77%), <tt><a href="kpv_lattice-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (120; 54%), <tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (118; 53%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="kpv_lattice-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (213; 96%), <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt> (172; 77%), <tt><a href="kpv_lattice-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (120; 54%), <tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (118; 53%).
 
 `AUX` tokens may have the following values of `Number`:
 

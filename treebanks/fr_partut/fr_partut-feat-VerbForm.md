@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fin`, `Inf`, `Part`.
 
-3581 tokens (13%) have a non-empty value of `VerbForm`.
-1352 types (33%) occur at least once with a non-empty value of `VerbForm`.
-607 lemmas (21%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (2736; 10% instances), <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (845; 3% instances).
+3584 tokens (13%) have a non-empty value of `VerbForm`.
+1351 types (33%) occur at least once with a non-empty value of `VerbForm`.
+561 lemmas (20%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 2 part-of-speech tags: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (2738; 10% instances), <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (846; 3% instances).
 
 ### `VERB`
 
-2736 <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+2738 <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="fr_partut-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1990; 73%), <tt><a href="fr_partut-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1597; 58%), <tt><a href="fr_partut-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1594; 58%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="fr_partut-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1992; 73%), <tt><a href="fr_partut-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1596; 58%), <tt><a href="fr_partut-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1593; 58%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (1142; 42% of non-empty `VerbForm`): <em>a, peut, voudrais, doit, est, devrait, convient, ont, peuvent, fait</em>
-* `Inf` (691; 25% of non-empty `VerbForm`): <em>faire, améliorer, dire, abonner, assurer, savoir, avoir, compter, utiliser, communiquer</em>
+* `Fin` (1145; 42% of non-empty `VerbForm`): <em>a, peut, voudrais, doit, est, devrait, convient, ont, peuvent, fait</em>
+* `Inf` (690; 25% of non-empty `VerbForm`): <em>faire, améliorer, dire, abonner, assurer, savoir, avoir, compter, utiliser, communiquer</em>
 * `Part` (903; 33% of non-empty `VerbForm`): <em>dite, concernant, fait, tenu, compris, donné, mis, soumis, considérant, dit</em>
 * `EMPTY` (1): <em>va</em>
 
@@ -50,13 +50,13 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-845 <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+846 <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="fr_partut-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (635; 75%), <tt><a href="fr_partut-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (610; 72%), <tt><a href="fr_partut-feat-Person.html">Person</a></tt><tt>=3</tt> (610; 72%), <tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt> (515; 61%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="fr_partut-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (636; 75%), <tt><a href="fr_partut-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (611; 72%), <tt><a href="fr_partut-feat-Person.html">Person</a></tt><tt>=3</tt> (611; 72%), <tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt> (515; 61%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Fin` (675; 80% of non-empty `VerbForm`): <em>est, a, sont, ont, sera, soient, soit, suis, étaient, était</em>
+* `Fin` (676; 80% of non-empty `VerbForm`): <em>est, a, sont, ont, sera, soient, soit, étaient, suis, était</em>
 * `Inf` (84; 10% of non-empty `VerbForm`): <em>être, faire, avoir</em>
 * `Part` (86; 10% of non-empty `VerbForm`): <em>été, étant, ayant, faisant, fait</em>
 * `EMPTY` (1): <em>soit</em>

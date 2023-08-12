@@ -69,23 +69,23 @@ The following 10 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 8 advmod	color:blue
-1	Ẹ	Ẹ	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	Ref=PS_134.2|Gloss=you
-2	gbé	gbé	VERB	_	_	0	root	_	Ref=PS_134.2|Gloss=lift
-3	ọwọ́	ọwọ́	NOUN	_	_	2	obj	_	Ref=PS_134.2|Gloss=hand
-4	yín	yín	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	3	nmod	_	Ref=PS_134.2|Gloss=your
-5	sókè	sókè	ADP	_	_	7	case	_	Ref=PS_134.2|Gloss=upwards
-6	sí	sí	ADP	_	_	7	case	_	Ref=PS_134.2|Gloss=to
-7	ibi	ibi	NOUN	_	_	4	nmod	_	Ref=PS_134.2|Gloss=place
-8	mímọ́	mímọ́	ADV	_	_	7	advmod	_	Ref=PS_134.2|SpaceAfter=No|Gloss=holy
-9	,	,	PUNCT	_	_	13	punct	_	Ref=PS_134.2|Gloss=,
-10	kí	kí	SCONJ	_	_	13	mark	_	Ref=PS_134.2|Gloss=let
-11	ẹ	ẹ	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	13	nsubj	_	Ref=PS_134.2|Gloss=you
-12	sì	sì	CCONJ	_	_	13	cc	_	Ref=PS_134.2|Gloss=and
-13	fi	fi	VERB	_	_	7	conj	_	Ref=PS_134.2|Gloss=use
-14	ìbùkún	ìbùkún	NOUN	_	_	13	obj	_	Ref=PS_134.2|Gloss=blessing
-15	fún	fún	ADP	_	_	16	case	_	Ref=PS_134.2|Gloss=unto
-16	Olúwa	Olúwa	PROPN	_	_	13	obl	_	Ref=PS_134.2|Gloss=lord
-17	.	.	PUNCT	_	_	13	punct	_	Ref=PS_134.2|Gloss=.
+1	Ẹ	Ẹ	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	Gloss=you|Ref=PS_134.2
+2	gbé	gbé	VERB	_	_	0	root	_	Gloss=lift|Ref=PS_134.2
+3	ọwọ́	ọwọ́	NOUN	_	_	2	obj	_	Gloss=hand|Ref=PS_134.2
+4	yín	yín	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	3	nmod	_	Gloss=your|Ref=PS_134.2
+5	sókè	sókè	ADP	_	_	7	case	_	Gloss=upwards|Ref=PS_134.2
+6	sí	sí	ADP	_	_	7	case	_	Gloss=to|Ref=PS_134.2
+7	ibi	ibi	NOUN	_	_	4	nmod	_	Gloss=place|Ref=PS_134.2
+8	mímọ́	mímọ́	ADV	_	_	7	advmod	_	Gloss=holy|Ref=PS_134.2|SpaceAfter=No
+9	,	,	PUNCT	_	_	13	punct	_	Gloss=,|Ref=PS_134.2
+10	kí	kí	SCONJ	_	_	13	mark	_	Gloss=let|Ref=PS_134.2
+11	ẹ	ẹ	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	13	nsubj	_	Gloss=you|Ref=PS_134.2
+12	sì	sì	CCONJ	_	_	13	cc	_	Gloss=and|Ref=PS_134.2
+13	fi	fi	VERB	_	_	7	conj	_	Gloss=use|Ref=PS_134.2
+14	ìbùkún	ìbùkún	NOUN	_	_	13	obj	_	Gloss=blessing|Ref=PS_134.2
+15	fún	fún	ADP	_	_	16	case	_	Gloss=unto|Ref=PS_134.2
+16	Olúwa	Olúwa	PROPN	_	_	13	obl	_	Gloss=lord|Ref=PS_134.2
+17	.	.	PUNCT	_	_	13	punct	_	Gloss=.|Ref=PS_134.2
 
 ~~~
 

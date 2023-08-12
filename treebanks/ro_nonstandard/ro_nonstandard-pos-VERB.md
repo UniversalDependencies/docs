@@ -58,7 +58,7 @@ The 10 most frequent ambiguous types:  <em>da</em> (<tt><a href="ro_nonstandard-
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 4.685239 (the average of all parts of speech is 2.492163).
+The form / lemma ratio of `VERB` is 4.685239 (the average of all parts of speech is 2.491875).
 
 The 1st highest number of forms (82) was observed with the lemma “trimite”: <em>Tremete, Tremisem, Tremăs, Trimetu, Trimitu, treimisă, tremease, tremeasără, tremeate, tremes, tremesease, tremeș, tremeși, tremeșii, tremeți, tremețu, tremiase, tremis, tremise, tremite, tremiși, triimată, triimață, triimețind, triimețindu, triimis, triimisesa, triimisesă, triimisă, triimisără, triimite, triimitea, triimită, triimiș, triimiși, triimițind, triimițindu, triimiță, triimăs, triimăsu, trimease, trimeaseră, trimeaset, trimeasă, trimeasără, trimeate, trimeață, trimes, trimesu, trimet, trimete, trimetea, trimetem, trimeș, trimeși, trimeț, trimețu, trimețînd, trimis, trimise, trimiseră, trimisese, trimisesă, trimisu, trimisă, trimisără, trimit, trimite, trimitea, trimitem, trimită, trimişi, trimiș, trimiși, trimiț, trimiți, trimițind, trimițînd, trimițîndu, trimiță, trimăs, trămăs</em>.
 

@@ -64,4 +64,4 @@ The present tense denotes actions that are happening right now and are crossing 
 - *da na <b>zabaráviš<b> da mí <b>kúpiš</b> hlǽba* "do not forget to buy me bread"  
 - *še to <b>pópytom</b> annó rábato i íštom <b>kážaš</b> na právo* "I'll ask you a thing and I want you to answer me straight" 
 
-<!-- Interlanguage links updated Po lis 14 15:34:59 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:50 CEST -->

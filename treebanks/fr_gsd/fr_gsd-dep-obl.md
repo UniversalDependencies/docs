@@ -23,7 +23,7 @@ The following 6 pairs of parts of speech are connected with `obl`: <tt><a href="
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 7 obl	color:blue
-1	Il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	wordform=il
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	wordform=il
 2	devient	devenir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	joueur	joueur	NOUN	_	Gender=Masc|Number=Sing	2	xcomp	_	_
 4	autonome	autonome	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_
@@ -76,8 +76,8 @@ The following 6 pairs of parts of speech are connected with `obl`: <tt><a href="
 3	plus	plus	ADV	_	_	4	advmod	_	_
 4	tard	tard	ADV	_	_	2	advmod	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	2	punct	_	_
-6	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
-7	en	en	PRON	_	Person=3|PronType=Prs	8	iobj	_	_
+6	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+7	en	en	PRON	_	Emph=No|Person=3|PronType=Prs	8	iobj	_	_
 8	ressort	ressortir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	diplômé	diplômé	ADJ	_	Gender=Masc|Number=Sing	8	xcomp	_	_
 10	en	en	ADP	_	_	11	case	_	_

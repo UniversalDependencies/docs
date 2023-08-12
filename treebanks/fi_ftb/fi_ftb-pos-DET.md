@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Finnish-FTB: POS Tags: `DET`
 
 There are 51 `DET` lemmas (0%), 551 `DET` types (1%) and 4109 `DET` tokens (3%).
-Out of 17 observed tags, the rank of `DET` is: 12 in number of lemmas, 9 in number of types and 12 in number of tokens.
+Out of 17 observed tags, the rank of `DET` is: 11 in number of lemmas, 8 in number of types and 12 in number of tokens.
 
 The 10 most frequent `DET` lemmas: <em>se, tämä, kaikki, jokin, mikään, muu, mikä, ne, moni, hän</em>
 
@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>se</em> (<tt><a href="fi_ftb-pos-PRON
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 10.803922 (the average of all parts of speech is 2.050767).
+The form / lemma ratio of `DET` is 10.803922 (the average of all parts of speech is 2.049043).
 
 The 1st highest number of forms (30) was observed with the lemma “jokin”: <em>Joillakin, Jollekin, Jossaki, johonki, johonkin, joidenkin, joihinkin, joillekin, joissakin, joistakin, joitain, joitaki, joitakin, jokin, jollain, jollakin, joltakin, jonain, jonakin, jonkin, jossai, jossain, jossakin, jostain, jostakin, jotai, jotain, jotaki, jotakin, jottais</em>.
 
@@ -76,7 +76,7 @@ Examples: <em>se, tämä, tuo, sellainen, semmoinen, tällainen, tuollainen, tä
 
 `DET` nodes are attached to their parents using 4 different relations: <tt><a href="fi_ftb-dep-det.html">det</a></tt> (3859; 94% instances), <tt><a href="fi_ftb-dep-amod.html">amod</a></tt> (238; 6% instances), <tt><a href="fi_ftb-dep-fixed.html">fixed</a></tt> (9; 0% instances), <tt><a href="fi_ftb-dep-conj.html">conj</a></tt> (3; 0% instances)
 
-Parents of `DET` nodes belong to 10 different parts of speech: <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (3476; 85% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (258; 6% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (96; 2% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (89; 2% instances), <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (68; 2% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (42; 1% instances), <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> (39; 1% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (35; 1% instances), <tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="fi_ftb-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `DET` nodes belong to 10 different parts of speech: <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (3475; 85% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (259; 6% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (96; 2% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (89; 2% instances), <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (68; 2% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (42; 1% instances), <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> (39; 1% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (35; 1% instances), <tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="fi_ftb-pos-X.html">X</a></tt> (1; 0% instances)
 
 3860 (94%) `DET` nodes are leaves.
 

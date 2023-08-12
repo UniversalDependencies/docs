@@ -84,7 +84,7 @@ The following 8 pairs of parts of speech are connected with `dep`: <tt><a href="
 9	조금	_	ADV	RB	_	10	advmod	_	Translit=.jo.geum
 10	다를	_	ADJ	JJ	Form=Adn	11	dep	_	Translit=.da.reul
 11	것	_	NOUN	NNB	_	0	root	_	SpaceAfter=No|Translit=.geos
-12	이다	_	AUX	VC	Mood=Ind|VerbForm=Fin	11	cop	_	SpaceAfter=No|Translit=.i.da
+12	이다	이	AUX	VC	Mood=Ind|VerbForm=Fin	11	cop	_	SpaceAfter=No|Translit=.i.da|LTranslit=.i
 13	.	.	PUNCT	.	_	11	punct	_	Translit=.|LTranslit=.
 
 ~~~

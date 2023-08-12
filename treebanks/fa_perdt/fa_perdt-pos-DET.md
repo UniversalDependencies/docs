@@ -63,7 +63,7 @@ The 10 most frequent ambiguous types:  این (<tt><a href="fa_perdt-pos-DET.htm
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 0.950000 (the average of all parts of speech is 1.477395).
+The form / lemma ratio of `DET` is 0.950000 (the average of all parts of speech is 1.486663).
 
 The 1st highest number of forms (2) was observed with the lemma “آن”: آن, ان.
 
@@ -84,13 +84,13 @@ Parents of `DET` nodes belong to 12 different parts of speech: <tt><a href="fa_p
 
 50 (0%) `DET` nodes have one child.
 
-12 (0%) `DET` nodes have two children.
+11 (0%) `DET` nodes have two children.
 
-3 (0%) `DET` nodes have three or more children.
+4 (0%) `DET` nodes have three or more children.
 
 The highest child degree of a `DET` node is 3.
 
-Children of `DET` nodes are attached using 14 different relations: <tt><a href="fa_perdt-dep-case.html">case</a></tt> (17; 20% instances), <tt><a href="fa_perdt-dep-obl.html">obl</a></tt> (11; 13% instances), <tt><a href="fa_perdt-dep-advmod.html">advmod</a></tt> (10; 12% instances), <tt><a href="fa_perdt-dep-cc.html">cc</a></tt> (10; 12% instances), <tt><a href="fa_perdt-dep-det.html">det</a></tt> (10; 12% instances), <tt><a href="fa_perdt-dep-nmod.html">nmod</a></tt> (7; 8% instances), <tt><a href="fa_perdt-dep-punct.html">punct</a></tt> (5; 6% instances), <tt><a href="fa_perdt-dep-conj.html">conj</a></tt> (3; 4% instances), <tt><a href="fa_perdt-dep-acl.html">acl</a></tt> (2; 2% instances), <tt><a href="fa_perdt-dep-cop.html">cop</a></tt> (2; 2% instances), <tt><a href="fa_perdt-dep-dep.html">dep</a></tt> (2; 2% instances), <tt><a href="fa_perdt-dep-obl-arg.html">obl:arg</a></tt> (2; 2% instances), <tt><a href="fa_perdt-dep-nummod.html">nummod</a></tt> (1; 1% instances), <tt><a href="fa_perdt-dep-xcomp.html">xcomp</a></tt> (1; 1% instances)
+Children of `DET` nodes are attached using 14 different relations: <tt><a href="fa_perdt-dep-case.html">case</a></tt> (17; 20% instances), <tt><a href="fa_perdt-dep-obl.html">obl</a></tt> (11; 13% instances), <tt><a href="fa_perdt-dep-advmod.html">advmod</a></tt> (10; 12% instances), <tt><a href="fa_perdt-dep-cc.html">cc</a></tt> (10; 12% instances), <tt><a href="fa_perdt-dep-det.html">det</a></tt> (10; 12% instances), <tt><a href="fa_perdt-dep-nmod.html">nmod</a></tt> (7; 8% instances), <tt><a href="fa_perdt-dep-punct.html">punct</a></tt> (6; 7% instances), <tt><a href="fa_perdt-dep-conj.html">conj</a></tt> (3; 4% instances), <tt><a href="fa_perdt-dep-acl.html">acl</a></tt> (2; 2% instances), <tt><a href="fa_perdt-dep-cop.html">cop</a></tt> (2; 2% instances), <tt><a href="fa_perdt-dep-dep.html">dep</a></tt> (2; 2% instances), <tt><a href="fa_perdt-dep-obl-arg.html">obl:arg</a></tt> (2; 2% instances), <tt><a href="fa_perdt-dep-nummod.html">nummod</a></tt> (1; 1% instances), <tt><a href="fa_perdt-dep-xcomp.html">xcomp</a></tt> (1; 1% instances)
 
-Children of `DET` nodes belong to 10 different parts of speech: <tt><a href="fa_perdt-pos-ADP.html">ADP</a></tt> (22; 27% instances), <tt><a href="fa_perdt-pos-DET.html">DET</a></tt> (15; 18% instances), <tt><a href="fa_perdt-pos-NOUN.html">NOUN</a></tt> (13; 16% instances), <tt><a href="fa_perdt-pos-ADV.html">ADV</a></tt> (11; 13% instances), <tt><a href="fa_perdt-pos-CCONJ.html">CCONJ</a></tt> (10; 12% instances), <tt><a href="fa_perdt-pos-PUNCT.html">PUNCT</a></tt> (5; 6% instances), <tt><a href="fa_perdt-pos-VERB.html">VERB</a></tt> (3; 4% instances), <tt><a href="fa_perdt-pos-AUX.html">AUX</a></tt> (2; 2% instances), <tt><a href="fa_perdt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="fa_perdt-pos-NUM.html">NUM</a></tt> (1; 1% instances)
+Children of `DET` nodes belong to 10 different parts of speech: <tt><a href="fa_perdt-pos-ADP.html">ADP</a></tt> (22; 26% instances), <tt><a href="fa_perdt-pos-DET.html">DET</a></tt> (15; 18% instances), <tt><a href="fa_perdt-pos-NOUN.html">NOUN</a></tt> (13; 15% instances), <tt><a href="fa_perdt-pos-ADV.html">ADV</a></tt> (11; 13% instances), <tt><a href="fa_perdt-pos-CCONJ.html">CCONJ</a></tt> (10; 12% instances), <tt><a href="fa_perdt-pos-PUNCT.html">PUNCT</a></tt> (6; 7% instances), <tt><a href="fa_perdt-pos-VERB.html">VERB</a></tt> (3; 4% instances), <tt><a href="fa_perdt-pos-AUX.html">AUX</a></tt> (2; 2% instances), <tt><a href="fa_perdt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="fa_perdt-pos-NUM.html">NUM</a></tt> (1; 1% instances)
 

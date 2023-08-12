@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1332 nodes (6%) are attached to their parents as `advmod`.
+1225 nodes (6%) are attached to their parents as `advmod`.
 
-1322 instances of `advmod` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.08183183183183.
+1203 instances of `advmod` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.0130612244898.
 
-The following 19 pairs of parts of speech are connected with `advmod`: <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> (943; 71% instances), <tt><a href="zh_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> (176; 13% instances), <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> (73; 5% instances), <tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> (61; 5% instances), <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_pud-pos-ADJ.html">ADJ</a></tt> (24; 2% instances), <tt><a href="zh_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> (11; 1% instances), <tt><a href="zh_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> (10; 1% instances), <tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="zh_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_pud-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_pud-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="zh_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_pud-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="zh_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="zh_pud-pos-DET.html">DET</a></tt>-<tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="zh_pud-pos-PART.html">PART</a></tt>-<tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="zh_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `advmod`: <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> (974; 80% instances), <tt><a href="zh_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> (149; 12% instances), <tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> (59; 5% instances), <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_pud-pos-ADJ.html">ADJ</a></tt> (24; 2% instances), <tt><a href="zh_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> (10; 1% instances), <tt><a href="zh_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> (7; 1% instances), <tt><a href="zh_pud-pos-DET.html">DET</a></tt>-<tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="zh_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,73 +22,85 @@ The following 19 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
 # visual-style 13 12 advmod	color:blue
-1	對於	_	ADP	IN	_	11	case	_	SpaceAfter=No|Translit=duì於
-2	通過	_	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=tōngguò
-3	社交	_	NOUN	NN	_	4	compound	_	SpaceAfter=No|Translit=shèjiāo
-4	媒體	_	NOUN	NN	_	6	obl	_	SpaceAfter=No|Translit=媒tǐ
-5	來	_	ADV	RB	_	6	mark:prt	_	SpaceAfter=No|Translit=lái
-6	跟踪	_	VERB	VV	_	11	acl:relcl	_	SpaceAfter=No|Translit=gēnzōng
-7	國會山	_	PROPN	NNP	_	9	compound	_	SpaceAfter=No|Translit=guóhuìshān
-8	任職	_	NOUN	NN	_	9	compound	_	SpaceAfter=No|Translit=rènzhí
-9	變遷	_	NOUN	NN	_	6	obj	_	SpaceAfter=No|Translit=biànqiān
-10	的	_	PART	DEC	_	6	mark:rel	_	SpaceAfter=No|Translit=de
-11	人	_	NOUN	NN	_	13	obl	_	SpaceAfter=No|Translit=rén
-12	而	_	ADV	RB	_	13	advmod	_	SpaceAfter=No|Translit='ér
-13	言	_	VERB	VV	_	21	advcl	_	SpaceAfter=No|Translit=yán
-14	，	_	PUNCT	,	_	13	punct	_	SpaceAfter=No|Translit=，
-15	這	_	DET	DT	_	16	det	_	SpaceAfter=No|Translit=zhè
-16	次	_	NOUN	NNB	_	21	advmod	_	SpaceAfter=No|Translit=cì
-17	與	_	ADP	IN	_	18	case	_	SpaceAfter=No|Translit=yǔ
-18	以往	_	NOUN	NN	_	21	obl	_	SpaceAfter=No|Translit=yǐwǎng
-19	有	_	AUX	VV	_	21	cop	_	SpaceAfter=No|Translit=yǒu
-20	所	_	ADV	RB	_	21	mark:prt	_	SpaceAfter=No|Translit=suǒ
-21	不同	_	ADJ	JJ	_	0	root	_	SpaceAfter=No|Translit=bùtóng
-22	。	_	PUNCT	.	_	21	punct	_	Translit=。
+1	對於	對於	ADP	IN	_	11	case	_	SpaceAfter=No|Translit=duìyú|LTranslit=duìyú
+2	通過	通過	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=tōngguò|LTranslit=tōngguò
+3	社交	社交	NOUN	NN	_	4	compound	_	SpaceAfter=No|Translit=shèjiāo|LTranslit=shèjiāo
+4	媒體	媒體	NOUN	NN	_	6	obl	_	SpaceAfter=No|Translit=méitǐ|LTranslit=méitǐ
+5	來	來	ADV	RB	_	6	mark:prt	_	SpaceAfter=No|Translit=lái|LTranslit=lái
+6	跟踪	跟踪	VERB	VV	_	11	acl:relcl	_	SpaceAfter=No|Translit=gēnzōng|LTranslit=gēnzōng
+7	國會山	國會山	PROPN	NNP	_	9	compound	_	SpaceAfter=No|Translit=guóhuìshān|LTranslit=guóhuìshān
+8	任職	任職	NOUN	NN	_	9	compound	_	SpaceAfter=No|Translit=rènzhí|LTranslit=rènzhí
+9	變遷	變遷	NOUN	NN	_	6	obj	_	SpaceAfter=No|Translit=biànqiān|LTranslit=biànqiān
+10	的	的	PART	DEC	_	6	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
+11	人	人	NOUN	NN	_	13	obl	_	SpaceAfter=No|Translit=rén|LTranslit=rén
+12	而	而	ADV	RB	_	13	advmod	_	SpaceAfter=No|Translit='ér|LTranslit='ér
+13	言	言	VERB	VV	_	19	advcl	_	SpaceAfter=No|Translit=yán|LTranslit=yán
+14	，	，	PUNCT	,	_	13	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
+15	這	這	DET	DT	_	16	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+16	次	次	NOUN	NNB	_	19	obl	_	SpaceAfter=No|Translit=cì|LTranslit=cì
+17	與	與	ADP	IN	_	18	case	_	SpaceAfter=No|Translit=yǔ|LTranslit=yǔ
+18	以往	以往	NOUN	NN	_	19	obl	_	SpaceAfter=No|Translit=yǐwǎng|LTranslit=yǐwǎng
+19	有	有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
+20	所	所	ADV	RB	_	19	mark:prt	_	SpaceAfter=No|Translit=suǒ|LTranslit=suǒ
+21	不同	不同	ADJ	JJ	_	19	xcomp	_	SpaceAfter=No|Translit=bùtóng|LTranslit=bùtóng
+22	。	。	PUNCT	.	_	19	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 1 advmod	color:blue
-1	也許	_	ADV	RB	_	6	advmod	_	SpaceAfter=No|Translit=yěxǔ
-2	著裝	_	NOUN	NN	_	3	compound	_	SpaceAfter=No|Translit=zhezhuāng
-3	要求	_	NOUN	NN	_	6	nsubj	_	SpaceAfter=No|Translit=yàoqiú
-4	過	_	AUX	VV	_	6	cop	_	SpaceAfter=No|Translit=guò
-5	於	_	VERB	VV	_	6	mark:prt	_	SpaceAfter=No|Translit=於
-6	沉悶	_	ADJ	JJ	_	0	root	_	SpaceAfter=No|Translit=chénmèn
-7	。	_	PUNCT	.	_	6	punct	_	Translit=。
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 14 13 advmod	color:blue
+1	他們	他	PRON	PRP	Number=Plur|Person=3	3	nmod	_	SpaceAfter=No|Translit=tāmen|LTranslit=tā
+2	的	的	PART	DEC	Case=Gen	1	case	_	SpaceAfter=No|Translit=de|LTranslit=de
+3	成績	成績	NOUN	NN	_	14	nsubj	_	SpaceAfter=No|Translit=chéngjī|LTranslit=chéngjī
+4	屬	屬	VERB	VV	_	14	advcl	_	SpaceAfter=No|Translit=shǔ|LTranslit=shǔ
+5	於	於	VERB	VV	_	4	mark:prt	_	SpaceAfter=No|Translit=yú|LTranslit=yú
+6	4	4	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No|Translit=4|LTranslit=4
+7	年級	年級	NOUN	NN	_	11	nmod	_	SpaceAfter=No|Translit=niánjí|LTranslit=niánjí
+8	的	的	PART	DEC	Case=Gen	7	case	_	SpaceAfter=No|Translit=de|LTranslit=de
+9	全國	全國	NOUN	NN	_	11	compound	_	SpaceAfter=No|Translit=quánguó|LTranslit=quánguó
+10	平均	平均	ADJ	JJ	_	11	amod	_	SpaceAfter=No|Translit=píngjūn|LTranslit=píngjūn
+11	水平	水平	NOUN	NN	_	4	obj	_	SpaceAfter=No|Translit=shuǐpíng|LTranslit=shuǐpíng
+12	，	，	PUNCT	,	_	4	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
+13	且	且	ADV	RB	_	14	advmod	_	SpaceAfter=No|Translit=qiě|LTranslit=qiě
+14	優	優	ADJ	JJ	_	0	root	_	SpaceAfter=No|Translit=yōu|LTranslit=yōu
+15	於	於	VERB	VV	_	14	mark:prt	_	SpaceAfter=No|Translit=yú|LTranslit=yú
+16	8	8	NUM	CD	NumType=Card	17	nummod	_	SpaceAfter=No|Translit=8|LTranslit=8
+17	年級	年級	NOUN	NN	_	21	nmod	_	SpaceAfter=No|Translit=niánjí|LTranslit=niánjí
+18	的	的	PART	DEC	Case=Gen	17	case	_	SpaceAfter=No|Translit=de|LTranslit=de
+19	全國	全國	NOUN	NN	_	21	compound	_	SpaceAfter=No|Translit=quánguó|LTranslit=quánguó
+20	平均	平均	ADJ	JJ	_	21	amod	_	SpaceAfter=No|Translit=píngjūn|LTranslit=píngjūn
+21	水平	水平	NOUN	NN	_	14	obj	_	SpaceAfter=No|Translit=shuǐpíng|LTranslit=shuǐpíng
+22	。	。	PUNCT	.	_	14	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 1 advmod	color:blue
-1	其中	_	NOUN	NN	_	6	advmod	_	SpaceAfter=No|Translit=qízhōng
-2	一	_	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No|Translit=yī
-3	個	_	NOUN	NNB	_	5	clf	_	SpaceAfter=No|Translit=gè
-4	雅茲迪	_	PROPN	NNP	_	5	compound	_	SpaceAfter=No|Translit=雅茲迪
-5	女人	_	NOUN	NN	_	6	nsubj	_	SpaceAfter=No|Translit=nǚrén
-6	開始	_	VERB	VV	_	16	dep	_	SpaceAfter=No|Translit=kāishǐ
-7	哭泣	_	VERB	VV	_	6	xcomp	_	SpaceAfter=No|Translit=kūqì
-8	，	_	PUNCT	,	_	6	punct	_	SpaceAfter=No|Translit=，
-9	隨後	_	ADV	RB	_	16	advmod	_	SpaceAfter=No|Translit=suí後
-10	她	_	PRON	PRP	Person=3	14	nmod	_	SpaceAfter=No|Translit=tā
-11	的	_	PART	DEC	Case=Gen	10	case	_	SpaceAfter=No|Translit=de
-12	一	_	NUM	CD	NumType=Card	13	nummod	_	SpaceAfter=No|Translit=yī
-13	個	_	NOUN	NNB	_	14	clf	_	SpaceAfter=No|Translit=gè
-14	朋友	_	NOUN	NN	_	16	nsubj	_	SpaceAfter=No|Translit=péngyou
-15	也	_	ADV	RB	_	16	advmod	_	SpaceAfter=No|Translit=yě
-16	開始	_	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=kāishǐ
-17	哭泣	_	VERB	VV	_	16	xcomp	_	SpaceAfter=No|Translit=kūqì
-18	。	_	PUNCT	.	_	16	punct	_	Translit=。
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 14 12 advmod	color:blue
+1	根據	根據	ADP	IN	_	3	case	_	SpaceAfter=No|Translit=gēnjù|LTranslit=gēnjù
+2	可行性	可行性	VERB	VV	_	3	compound	_	SpaceAfter=No|Translit=kěxíngxìng|LTranslit=kěxíngxìng
+3	研究	研究	NOUN	NN	_	4	obl	_	SpaceAfter=No|Translit=yánjiū|LTranslit=yánjiū
+4	估計	估計	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=gūjì|LTranslit=gūjì
+5	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
+6	乘客	乘客	NOUN	NN	_	9	nsubj	_	SpaceAfter=No|Translit=chéngkè|LTranslit=chéngkè
+7	乘坐	乘坐	VERB	VV	_	9	advcl	_	SpaceAfter=No|Translit=chéngzuò|LTranslit=chéngzuò
+8	纜車	纜車	NOUN	NN	_	7	obj	_	SpaceAfter=No|Translit=纜chē|LTranslit=纜chē
+9	穿越	穿越	VERB	VV	_	11	csubj	_	SpaceAfter=No|Translit=chuānyuè|LTranslit=chuānyuè
+10	波托馬克河	波托馬克河	PROPN	NNP	_	9	obj	_	SpaceAfter=No|Translit=bōtuōmǎkèhé|LTranslit=bōtuōmǎkèhé
+11	需時	需時	VERB	VV	_	4	ccomp	_	SpaceAfter=No|Translit=xūshí|LTranslit=xūshí
+12	約	約	ADV	RB	_	14	advmod	_	SpaceAfter=No|Translit=yuē|LTranslit=yuē
+13	四	四	NUM	CD	NumType=Card	14	nummod	_	SpaceAfter=No|Translit=sì|LTranslit=sì
+14	分鐘	分鐘	NOUN	NNB	_	11	obj	_	SpaceAfter=No|Translit=fēnzhōng|LTranslit=fēnzhōng
+15	。	。	PUNCT	.	_	4	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

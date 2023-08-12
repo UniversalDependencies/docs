@@ -31,6 +31,18 @@ This value implies the highest degree of a given quality or other aspect. It can
 * ***plurimus*** 'most, very many/much' from *multus* 'many/much' (`DET`)
     * *multus* is also annotated for [`NumType=Card`](la-feat/NumType), as it is functionally equivalent to a [numeric expression](la-pos/NUM) (e.g. *centum* 'one hundred') and can be an answer to *quantus* 'how many/much'
 
+### <a name="Sup">`Sup`</a>: superlative
+
+The PROIEL Latin treebank uses the traditional superlative tag for forms like ***pulchrissimum*** and ***plurimus***. 
+
+#### Examples
+
+* ***pulchrissimum*** 'most beautiful (n.)', , from *pulcher* 'beautiful' (`ADJ`)
+    * so *pulchrissimum Romae templorum* would be the 'most beautiful' with respect to (all) Roman temples'
+* ***plurimus*** 'most, very many/much' from *multus* 'many/much' (`DET`)
+
+This is consistent with the use in the other PROIEL treebanks and corresponds to the grammatical tradition. All forms of the Latin superlative have both absolute and relative uses (as documented above) and this should eventually be unified across the treebanks. (Alternatively, the annotation can be disambiguatuated, which will require substantial manual labor.)
+
 ### <a name="Cmp">`Cmp`</a>: comparative
 
 This value implies a difference between two elements under a given property.
@@ -124,4 +136,4 @@ Finally, there are classes of adjectives (e.g. those ending in *-eus* or *-ius*)
 
 
 
-<!-- Interlanguage links updated Po lis 14 15:34:43 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:35 CEST -->

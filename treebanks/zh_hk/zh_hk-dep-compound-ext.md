@@ -23,15 +23,15 @@ The following 3 pairs of parts of speech are connected with `compound:ext`: <tt>
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 compound:ext	color:blue
-1	不用	_	AUX	_	_	2	aux	_	SpaceAfter=No
-2	唱	_	VERB	_	_	0	root	_	SpaceAfter=No
-3	得	_	PART	_	_	2	compound:ext	_	SpaceAfter=No
-4	很	_	ADV	_	_	5	advmod	_	SpaceAfter=No
-5	好聽	_	ADJ	_	_	2	xcomp	_	SpaceAfter=No
-6	、	_	PUNCT	_	_	8	punct	_	SpaceAfter=No
-7	很	_	ADV	_	_	8	advmod	_	SpaceAfter=No
-8	動聽	_	ADJ	_	_	5	conj	_	SpaceAfter=No
-9	。	_	PUNCT	_	_	2	punct	_	SpaceAfter=No
+1	不用	用	AUX	_	Polarity=Neg	2	aux	_	SpaceAfter=No|Translit=bùyòng|LTranslit=yòng
+2	唱	唱	VERB	_	_	0	root	_	SpaceAfter=No|Translit=chàng|LTranslit=chàng
+3	得	得	PART	_	_	2	compound:ext	_	SpaceAfter=No|Translit=de|LTranslit=de
+4	很	很	ADV	_	_	5	advmod	_	SpaceAfter=No|Translit=hěn|LTranslit=hěn
+5	好聽	好聽	ADJ	_	_	2	xcomp	_	SpaceAfter=No|Translit=hǎotīng|LTranslit=hǎotīng
+6	、	、	PUNCT	_	_	8	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
+7	很	很	ADV	_	_	8	advmod	_	SpaceAfter=No|Translit=hěn|LTranslit=hěn
+8	動聽	動聽	ADJ	_	_	5	conj	_	SpaceAfter=No|Translit=dòngtīng|LTranslit=dòngtīng
+9	。	。	PUNCT	_	_	2	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 ~~~
 
@@ -42,25 +42,25 @@ The following 3 pairs of parts of speech are connected with `compound:ext`: <tt>
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 12 compound:ext	color:blue
-1	主席	_	NOUN	_	_	8	vocative	_	SpaceAfter=No
-2	，	_	PUNCT	_	_	8	punct	_	SpaceAfter=No
-3	今天	_	NOUN	_	_	8	obl:tmod	_	SpaceAfter=No
-4	我們	_	PRON	_	_	8	nsubj	_	SpaceAfter=No
-5	向	_	ADP	_	_	7	case	_	SpaceAfter=No
-6	香港	_	PROPN	_	_	7	compound	_	SpaceAfter=No
-7	人	_	NOUN	_	_	8	obl	_	SpaceAfter=No
-8	展示	_	VERB	_	_	0	root	_	SpaceAfter=No
-9	一	_	NUM	_	_	18	nummod	_	SpaceAfter=No
-10	個	_	NOUN	_	NounType=Clf	9	clf	_	SpaceAfter=No
-11	粗疏	_	ADJ	_	_	18	acl	_	SpaceAfter=No
-12	得	_	PART	_	_	11	compound:ext	_	SpaceAfter=No
-13	不	_	ADV	_	_	14	advmod	_	SpaceAfter=No
-14	能	_	AUX	_	_	16	aux	_	SpaceAfter=No
-15	再	_	ADV	_	_	16	advmod	_	SpaceAfter=No
-16	粗疏	_	ADJ	_	_	11	xcomp	_	SpaceAfter=No
-17	的	_	PART	_	_	11	mark:rel	_	SpaceAfter=No
-18	程序	_	NOUN	_	_	8	obj	_	SpaceAfter=No
-19	。	_	PUNCT	_	_	8	punct	_	SpaceAfter=No
+1	主席	主席	NOUN	_	_	8	vocative	_	SpaceAfter=No|Translit=zhǔxí|LTranslit=zhǔxí
+2	，	，	PUNCT	_	_	1	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
+3	今天	今天	NOUN	_	_	8	obl:tmod	_	SpaceAfter=No|Translit=jīntiān|LTranslit=jīntiān
+4	我們	我	PRON	_	_	8	nsubj	_	SpaceAfter=No|Translit=wǒmen|LTranslit=wǒ
+5	向	向	ADP	_	_	7	case	_	SpaceAfter=No|Translit=xiàng|LTranslit=xiàng
+6	香港	香港	PROPN	_	_	7	compound	_	SpaceAfter=No|Translit=xiānggǎng|LTranslit=xiānggǎng
+7	人	人	NOUN	_	_	8	obl	_	SpaceAfter=No|Translit=rén|LTranslit=rén
+8	展示	展示	VERB	_	_	0	root	_	SpaceAfter=No|Translit=zhǎnshì|LTranslit=zhǎnshì
+9	一	一	NUM	_	_	18	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+10	個	個	NOUN	_	NounType=Clf	9	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+11	粗疏	粗疏	ADJ	_	_	18	acl	_	SpaceAfter=No|Translit=cūshū|LTranslit=cūshū
+12	得	得	PART	_	_	11	compound:ext	_	SpaceAfter=No|Translit=de|LTranslit=de
+13	不	不	ADV	_	_	16	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
+14	能	能	AUX	_	_	16	aux	_	SpaceAfter=No|Translit=néng|LTranslit=néng
+15	再	再	ADV	_	_	16	advmod	_	SpaceAfter=No|Translit=zài|LTranslit=zài
+16	粗疏	粗疏	ADJ	_	_	11	xcomp	_	SpaceAfter=No|Translit=cūshū|LTranslit=cūshū
+17	的	的	PART	_	_	11	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
+18	程序	程序	NOUN	_	_	8	obj	_	SpaceAfter=No|Translit=chéngxù|LTranslit=chéngxù
+19	。	。	PUNCT	_	_	8	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 ~~~
 
@@ -71,12 +71,12 @@ The following 3 pairs of parts of speech are connected with `compound:ext`: <tt>
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 compound:ext	color:blue
-1	滴	_	VERB	_	_	0	root	_	SpaceAfter=No
-2	到	_	ADP	_	_	1	compound:ext	_	SpaceAfter=No
-3	四周	_	NOUN	_	_	5	nsubj	_	SpaceAfter=No
-4	也	_	ADV	_	_	5	advmod	_	SpaceAfter=No
-5	有	_	VERB	_	_	1	xcomp	_	SpaceAfter=No
-6	！	_	PUNCT	_	_	1	punct	_	SpaceAfter=No
+1	滴	滴	VERB	_	_	0	root	_	SpaceAfter=No|Translit=dī|LTranslit=dī
+2	到	到	ADP	_	_	1	compound:ext	_	SpaceAfter=No|Translit=dào|LTranslit=dào
+3	四周	四周	NOUN	_	_	5	nsubj	_	SpaceAfter=No|Translit=sìzhōu|LTranslit=sìzhōu
+4	也	也	ADV	_	_	5	advmod	_	SpaceAfter=No|Translit=yě|LTranslit=yě
+5	有	有	VERB	_	_	1	xcomp	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
+6	！	！	PUNCT	_	_	1	punct	_	SpaceAfter=No|Translit=!|LTranslit=!
 
 ~~~
 

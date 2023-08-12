@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-22 nodes (1%) are attached to their parents as `advcl`.
+26 nodes (2%) are attached to their parents as `advcl`.
 
-18 instances of `advcl` (82%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.5.
+20 instances of `advcl` (77%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.88461538461538.
 
-The following 5 pairs of parts of speech are connected with `advcl`: <tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt>-<tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt> (15; 68% instances), <tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt>-<tt><a href="swl_sslc-pos-ADJ.html">ADJ</a></tt> (2; 9% instances), <tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt>-<tt><a href="swl_sslc-pos-ADV.html">ADV</a></tt> (2; 9% instances), <tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt>-<tt><a href="swl_sslc-pos-NOUN.html">NOUN</a></tt> (2; 9% instances), <tt><a href="swl_sslc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="swl_sslc-pos-NOUN.html">NOUN</a></tt> (1; 5% instances).
+The following 5 pairs of parts of speech are connected with `advcl`: <tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt>-<tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt> (17; 65% instances), <tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt>-<tt><a href="swl_sslc-pos-NOUN.html">NOUN</a></tt> (4; 15% instances), <tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt>-<tt><a href="swl_sslc-pos-ADJ.html">ADJ</a></tt> (2; 8% instances), <tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt>-<tt><a href="swl_sslc-pos-ADV.html">ADV</a></tt> (2; 8% instances), <tt><a href="swl_sslc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="swl_sslc-pos-NOUN.html">NOUN</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -22,10 +22,28 @@ The following 5 pairs of parts of speech are connected with `advcl`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 advcl	color:blue
-1	VAKNA	_	VERB	VB	_	0	root	_	_
-2	SOLSTRÅLA	_	VERB	VB	_	1	advcl	_	_
-3	SITTA@z	_	VERB	VB	_	1	conj	_	_
-4	NEKA	_	VERB	VB	_	1	conj	_	_
+1	SOVA(Jv)	_	VERB	VB	_	0	root	_	_
+2	TIDEN-GÅR@z	_	VERB	VB	_	1	advcl	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 6 advcl	color:blue
+1	PRO1	_	PRON	PN	_	2	nsubj	_	_
+2	TECKNA	_	VERB	VB	_	0	root	_	_
+3	ANN-CHARLOTTE-LINDBLOM@en	_	NOUN	NN	_	2	obj	_	_
+4	ORSAK	_	CCONJ	KN	_	6	mark	_	_
+5	LOCKIG	_	ADJ	JJ	_	6	amod	_	_
+6	HÅR	_	NOUN	NN	_	2	advcl	_	_
+7	PRO1	_	PRON	PN	_	8	nsubj	_	_
+8	VÄXA-UPP	_	NOUN	NN	_	6	conj	_	_
+9	LOCKIG	_	ADJ	JJ	_	8	conj	_	_
+10	PRO1	_	PRON	PN	_	7	conj	_	_
 
 ~~~
 
@@ -42,21 +60,6 @@ The following 5 pairs of parts of speech are connected with `advcl`: <tt><a href
 4	PERSON^TECKEN	_	NOUN	NN	_	3	obj	_	_
 5	PRO1	_	PRON	PN	_	1	nsubj	_	_
 6	PU@g	_	INTJ	G	_	4	discourse	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 3 advcl	color:blue
-1	SCHASA@ca	_	VERB	VBCA	_	0	root	_	_
-2	BI	_	NOUN	NN	_	3	nsubj	_	_
-3	BORTA	_	ADV	AB	_	1	advcl	_	_
-4	FINEMANG	_	ADJ	JJ	_	1	discourse	_	_
-5	LÅTA-VARA	_	X	G	_	1	discourse	_	_
 
 ~~~
 

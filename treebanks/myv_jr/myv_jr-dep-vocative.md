@@ -24,16 +24,16 @@ The following 15 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 12 9 vocative	color:blue
 1	―	―	PUNCT	PUNCT	_	3	punct	_	_
 2	А	а	AUX	Pcle	Polarity=Neg	3	aux:neg	_	GTtags=Neg
-3	цидярды	цидярдомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	0	root	_	GTtags=IV,Ind,Prs,ScSg3|SpaceAfter=No
+3	цидярды	цидярдомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres	0	root	_	GTtags=IV,Ind,Prs,ScSg3|SpaceAfter=No
 4	,	,	PUNCT	CLB	_	5	punct	_	_
-5	кулы	куломс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	3	conj	_	GTtags=IV,Ind,Prs,ScSg3|SpaceAfter=No
+5	кулы	куломс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres	3	conj	_	GTtags=IV,Ind,Prs,ScSg3|SpaceAfter=No
 6	,	,	PUNCT	CLB	_	7	punct	_	_
 7	давайте	давай	AUX	Aux	Mood=Imp|Number[subj]=Plur|Person[subj]=2	12	aux:imp	_	GTtags=Aux,Imprt,ScPl2|SpaceAfter=No
 8	,	,	PUNCT	CLB	_	9	punct	_	_
 9	цёрат	цёра	NOUN	N	Case=Nom|Definite=Ind|Number=Plur	12	vocative	_	GTtags=Pl,Nom,Indef|SpaceAfter=No
 10	,	,	PUNCT	CLB	_	12	punct	_	_
 11	ведь	ведь	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	12	obj	_	GTtags=Sg,Nom,Indef
-12	эждеде	эждемс	VERB	V	Mood=Imp|Number[subj]=Plur|Person[subj]=2|Valency=2	3	conj	_	GTtags=TV,Imprt,ScPl2|SpaceAfter=No
+12	эждеде	эждемс	VERB	V	Mood=Imp|Number[subj]=Plur|Person[subj]=2	3	conj	_	GTtags=TV,Imprt,ScPl2|SpaceAfter=No
 13	.	.	PUNCT	CLB	_	3	punct	_	_
 
 ~~~
@@ -48,7 +48,7 @@ The following 15 pairs of parts of speech are connected with `vocative`: <tt><a 
 1	―	―	PUNCT	PUNCT	_	4	punct	_	_
 2	Сёма	Сёма	PROPN	N	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	4	vocative	_	GTtags=Ant_Mal,Prop,Sg,Nom,Indef|SpaceAfter=No
 3	,	,	PUNCT	CLB	_	2	punct	_	_
-4	кулан	куломс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres|Valency=1	0	root	_	GTtags=IV,Ind,Prs,ScSg1|SpaceAfter=No
+4	кулан	куломс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres	0	root	_	GTtags=IV,Ind,Prs,ScSg1|SpaceAfter=No
 5	!	!	PUNCT	CLB	_	4	punct	_	_
 
 ~~~
@@ -63,8 +63,8 @@ The following 15 pairs of parts of speech are connected with `vocative`: <tt><a 
 1	―	―	PUNCT	PUNCT	_	3	punct	_	_
 2	Пек	пек	ADV	Adv	AdvType=Deg	3	advmod:deg	_	GTtags=Degree
 3	стака	стака	ADJ	A	_	0	root	_	_
-4	ульнесь	ульнемс	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	3	cop	_	GTtags=IV,Ind,Prt1,ScSg3
-5	печтемс	печтемс	VERB	V	Case=Ill|Valency=2|VerbForm=Conv	3	obl	_	GTtags=TV,Ger,Ill
+4	ульнесь	ульнемс	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	3	cop	_	GTtags=IV,Ind,Prt1,ScSg3
+5	печтемс	печтемс	VERB	V	Case=Ill|VerbForm=Conv	3	obl	_	GTtags=TV,Ger,Ill
 6	чопода	чопода	ADJ	A	_	7	amod	_	_
 7	весь	ве	NOUN	N	Case=Nom|Definite=Def|Number=Sing	3	nsubj	_	GTtags=Sg,Nom,Def|SpaceAfter=No
 8	,	,	PUNCT	CLB	_	9	punct	_	_

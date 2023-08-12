@@ -53,21 +53,21 @@ The following 4 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 1 dislocated	color:blue
-1	Печенѣги	печенѣгъ	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	10	dislocated	_	Norm=Печенѣги
-2	же	же	PART	_	_	1	advmod	_	Norm=же
-3	устремившаяся	устремитися	VERB	_	Aspect=Perf|Case=Acc|Gender=Masc|Number=Plur|Reflex=Yes|Tense=Past|VerbForm=Part|Voice=Act	1	acl	_	Norm=устремившаяся
-4	бранію	брань	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	3	iobj	_	Norm=бранію
-5	на	на	ADP	_	_	6	case	_	Norm=на
-6	отечество	отечество	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	obl	_	Norm=отечество
-7	его	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	det	_	Norm=его|SpaceAfter=No
-8	,	,	PUNCT	_	_	1	punct	_	Norm=,
-9	и	и	CCONJ	_	_	14	cc	_	Norm=и
-10	сихъ	сей	DET	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur|PronType=Dem	14	obj	_	Norm=сихъ
-11	Божіею	божий	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	Norm=Божіею
-12	помощію	помощь	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	14	iobj	_	Norm=помощію
-13	преславно	преславно	ADV	_	Degree=Pos	14	advmod	_	Norm=преславно
-14	победи	побѣдити	VERB	Tense=Aor	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Norm=победи|SpaceAfter=No
-15	.	.	PUNCT	_	_	14	punct	_	Norm=.
+1	Печенѣги	печенѣгъ	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	10	dislocated	_	Norm="Печенѣги"
+2	же	же	PART	_	_	1	advmod	_	Norm="же"
+3	устремившаяся	устремитися	VERB	_	Aspect=Perf|Case=Acc|Gender=Masc|Number=Plur|Reflex=Yes|Tense=Past|VerbForm=Part|Voice=Act	1	acl	_	Norm="устремившаяся"
+4	бранію	брань	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	3	iobj	_	Norm="бранію"
+5	на	на	ADP	_	_	6	case	_	Norm="на"
+6	отечество	отечество	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	obl	_	Norm="отечество"
+7	его	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	det	_	Norm="его"|SpaceAfter=No
+8	,	,	PUNCT	_	_	1	punct	_	Norm=","
+9	и	и	CCONJ	_	_	14	cc	_	Norm="и"
+10	сихъ	сей	DET	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur|PronType=Dem	14	obj	_	Norm="сихъ"
+11	Божіею	божий	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	Norm="Божіею"
+12	помощію	помощь	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	14	iobj	_	Norm="помощію"
+13	преславно	преславно	ADV	_	Degree=Pos	14	advmod	_	Norm="преславно"
+14	победи	побѣдити	VERB	Tense=Aor	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Norm="победи"|SpaceAfter=No
+15	.	.	PUNCT	_	_	14	punct	_	Norm="."
 
 ~~~
 

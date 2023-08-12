@@ -24,7 +24,7 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 
 * `Card` (4710; 98% of non-empty `NumType`): <em>10, 2, 5, 1, 20, 3, 100, 15, 18, 7</em>
 * `Sets` (80; 2% of non-empty `NumType`): <em>двое, трое, абодва, дваіх, абодвух, пяцёра, абедзьве, траіх, чацвёра, шасьцёра</em>
-* `EMPTY` (1055): <em>некалькі, колькі, 19:00, 20:30, 16:00, 12:00, 20:00, некалькіх, 21:00, 17:00</em>
+* `EMPTY` (1056): <em>некалькі, колькі, 19:00, 20:30, 16:00, 12:00, 20:00, некалькіх, 21:00, 17:00</em>
 
 <table>
   <tr><th>Paradigm <i>абодва</i></th><th><tt>Card</tt></th><th><tt>Sets</tt></th></tr>
@@ -49,7 +49,7 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 `DET` tokens may have the following values of `NumType`:
 
 * `Card` (6; 100% of non-empty `NumType`): <em>адзін, адна, аднаго, адно, адной</em>
-* `EMPTY` (6725): <em>яго, гэты, наш, яе, свой, сваю, іх, той, тым, свае</em>
+* `EMPTY` (6724): <em>яго, гэты, наш, яе, свой, іх, сваю, тым, той, свае</em>
 
 ## Relations with Agreement in `NumType`
 

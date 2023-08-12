@@ -32,7 +32,7 @@ The following 16 pairs of parts of speech are connected with `parataxis:appos`: 
 7	Una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	camurria	camurria	NOUN	S	Gender=Fem|Number=Sing	3	parataxis:appos	_	SpaceAfter=No
 9	!	!	PUNCT	FS	_	8	punct	_	_
-10	http://t.co/DKT3RlrcmP	http://t.co/DKT3RlrcmP	SYM	X	_	3	dep	_	SpaceAfter=\n
+10	http://t.co/DKT3RlrcmP	http://t.co/DKT3RlrcmP	SYM	X	_	3	dep	_	SpacesAfter=\n
 
 ~~~
 

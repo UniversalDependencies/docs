@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>caso</em> (<tt><a href="pt_cintil-pos
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 1.329305 (the average of all parts of speech is 1.389398).
+The form / lemma ratio of `NOUN` is 1.329305 (the average of all parts of speech is 1.389383).
 
 The 1st highest number of forms (5) was observed with the lemma “professor”: <em>professor, professora, professoras, professores, professorzinhos</em>.
 
@@ -61,11 +61,11 @@ The 2nd highest number of forms (4) was observed with the lemma “amigo”: <em
 
 The 3rd highest number of forms (4) was observed with the lemma “apresentador”: <em>apresentador, apresentadora, apresentadoras, apresentadores</em>.
 
-`NOUN` occurs with 2 features: <tt><a href="pt_cintil-feat-Number.html">Number</a></tt> (87193; 100% instances), <tt><a href="pt_cintil-feat-Gender.html">Gender</a></tt> (86397; 99% instances)
+`NOUN` occurs with 3 features: <tt><a href="pt_cintil-feat-Number.html">Number</a></tt> (87193; 100% instances), <tt><a href="pt_cintil-feat-Gender.html">Gender</a></tt> (86397; 99% instances), <tt><a href="pt_cintil-feat-Abbr.html">Abbr</a></tt> (1; 0% instances)
 
-`NOUN` occurs with 4 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`
+`NOUN` occurs with 5 feature-value pairs: `Abbr=Yes`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`
 
-`NOUN` occurs with 8 feature combinations.
+`NOUN` occurs with 9 feature combinations.
 The most frequent feature combination is `Gender=Masc|Number=Sing` (30569 tokens).
 Examples: <em>ano, dia, presidente, mercado, caso, lado, país, fim, tempo, mundo</em>
 

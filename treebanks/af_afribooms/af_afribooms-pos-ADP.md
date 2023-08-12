@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Afrikaans-AfriBooms: POS Tags: `ADP`
 
-There are 65 `ADP` lemmas (1%), 66 `ADP` types (1%) and 6286 `ADP` tokens (13%).
+There are 64 `ADP` lemmas (1%), 65 `ADP` types (1%) and 6286 `ADP` tokens (13%).
 Out of 16 observed tags, the rank of `ADP` is: 9 in number of lemmas, 9 in number of types and 2 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>van, om, in, vir, op, met, aan, deur, tot, by</em>
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>van</em> (<tt><a href="af_afribooms-p
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.015385 (the average of all parts of speech is 1.122822).
+The form / lemma ratio of `ADP` is 1.015625 (the average of all parts of speech is 1.120642).
 
 The 1st highest number of forms (2) was observed with the lemma “insluit”: <em>insluitend, insluitende</em>.
 
@@ -74,17 +74,17 @@ Examples: <em>van, om, in, vir, op, met, aan, deur, tot, by</em>
 
 `ADP` nodes are attached to their parents using 4 different relations: <tt><a href="af_afribooms-dep-case.html">case</a></tt> (6101; 97% instances), <tt><a href="af_afribooms-dep-amod.html">amod</a></tt> (147; 2% instances), <tt><a href="af_afribooms-dep-dep.html">dep</a></tt> (35; 1% instances), <tt><a href="af_afribooms-dep-conj.html">conj</a></tt> (3; 0% instances)
 
-Parents of `ADP` nodes belong to 12 different parts of speech: <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (4651; 74% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (896; 14% instances), <tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt> (201; 3% instances), <tt><a href="af_afribooms-pos-SYM.html">SYM</a></tt> (158; 3% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt> (147; 2% instances), <tt><a href="af_afribooms-pos-X.html">X</a></tt> (121; 2% instances), <tt><a href="af_afribooms-pos-ADV.html">ADV</a></tt> (36; 1% instances), <tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt> (23; 0% instances), <tt><a href="af_afribooms-pos-NUM.html">NUM</a></tt> (23; 0% instances), <tt><a href="af_afribooms-pos-DET.html">DET</a></tt> (22; 0% instances), <tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="af_afribooms-pos-ADP.html">ADP</a></tt> (3; 0% instances)
+Parents of `ADP` nodes belong to 12 different parts of speech: <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (4653; 74% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (897; 14% instances), <tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt> (201; 3% instances), <tt><a href="af_afribooms-pos-SYM.html">SYM</a></tt> (158; 3% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt> (142; 2% instances), <tt><a href="af_afribooms-pos-X.html">X</a></tt> (121; 2% instances), <tt><a href="af_afribooms-pos-ADV.html">ADV</a></tt> (38; 1% instances), <tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt> (23; 0% instances), <tt><a href="af_afribooms-pos-NUM.html">NUM</a></tt> (23; 0% instances), <tt><a href="af_afribooms-pos-DET.html">DET</a></tt> (22; 0% instances), <tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="af_afribooms-pos-ADP.html">ADP</a></tt> (3; 0% instances)
 
-6219 (99%) `ADP` nodes are leaves.
+6217 (99%) `ADP` nodes are leaves.
 
-65 (1%) `ADP` nodes have one child.
+67 (1%) `ADP` nodes have one child.
 
 2 (0%) `ADP` nodes have two children.
 
 The highest child degree of a `ADP` node is 2.
 
-Children of `ADP` nodes are attached using 3 different relations: <tt><a href="af_afribooms-dep-conj.html">conj</a></tt> (61; 88% instances), <tt><a href="af_afribooms-dep-cc.html">cc</a></tt> (6; 9% instances), <tt><a href="af_afribooms-dep-fixed.html">fixed</a></tt> (2; 3% instances)
+Children of `ADP` nodes are attached using 5 different relations: <tt><a href="af_afribooms-dep-conj.html">conj</a></tt> (61; 86% instances), <tt><a href="af_afribooms-dep-cc.html">cc</a></tt> (6; 8% instances), <tt><a href="af_afribooms-dep-fixed.html">fixed</a></tt> (2; 3% instances), <tt><a href="af_afribooms-dep-advmod.html">advmod</a></tt> (1; 1% instances), <tt><a href="af_afribooms-dep-obl.html">obl</a></tt> (1; 1% instances)
 
-Children of `ADP` nodes belong to 7 different parts of speech: <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (35; 51% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (21; 30% instances), <tt><a href="af_afribooms-pos-CCONJ.html">CCONJ</a></tt> (7; 10% instances), <tt><a href="af_afribooms-pos-ADP.html">ADP</a></tt> (3; 4% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="af_afribooms-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="af_afribooms-pos-X.html">X</a></tt> (1; 1% instances)
+Children of `ADP` nodes belong to 8 different parts of speech: <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (36; 51% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (21; 30% instances), <tt><a href="af_afribooms-pos-CCONJ.html">CCONJ</a></tt> (7; 10% instances), <tt><a href="af_afribooms-pos-ADP.html">ADP</a></tt> (3; 4% instances), <tt><a href="af_afribooms-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="af_afribooms-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="af_afribooms-pos-X.html">X</a></tt> (1; 1% instances)
 

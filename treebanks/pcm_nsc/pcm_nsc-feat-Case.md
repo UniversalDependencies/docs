@@ -24,7 +24,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 * `Acc` (2840; 19% of non-empty `Case`): <em>am, me, dem, us, una, her, yourself, mysef, oursef, yoursef</em>
 * `Nom` (11887; 81% of non-empty `Case`): <em>I, you, e, we, de, im, dem, me, she, una</em>
-* `EMPTY` (3634): <em>my, your, wetin, dat, our, deir, dis, everybody, all, her</em>
+* `EMPTY` (3637): <em>my, your, wetin, dat, our, deir, dis, everybody, all, her</em>
 
 <table>
   <tr><th>Paradigm <i>you</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
@@ -38,7 +38,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 `X` tokens may have the following values of `Case`:
 
 * `Nom` (6; 100% of non-empty `Case`): <em>>+, [, de, {, ||, }</em>
-* `EMPTY` (40225): <em>#, //, <, {, }, [, |c, ||, ], >+</em>
+* `EMPTY` (40233): <em>#, //, <, {, }, [, |c, ||, ], >+</em>
 
 ### `NOUN`
 
@@ -49,7 +49,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 `NOUN` tokens may have the following values of `Case`:
 
 * `Gen` (5; 100% of non-empty `Case`): <em>Champions', childs, guy, guy's, people's</em>
-* `EMPTY` (14739): <em>people, one, money, ting, school, time, man, person, house, work</em>
+* `EMPTY` (14738): <em>people, one, money, ting, school, time, man, person, house, work</em>
 
 ### `PROPN`
 
@@ -69,7 +69,7 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 `AUX` tokens may have the following values of `Case`:
 
 * `Nom` (4; 100% of non-empty `Case`): <em>'m, Don, be</em>
-* `EMPTY` (13717): <em>dey, go, na, no, con, don, be, make, fit, come</em>
+* `EMPTY` (13718): <em>dey, go, na, no, con, don, be, make, fit, come</em>
 
 ### `PART`
 
@@ -80,7 +80,7 @@ The most frequent other feature values with which `PART` and `Case` co-occurred:
 `PART` tokens may have the following values of `Case`:
 
 * `Acc` (1; 100% of non-empty `Case`): <em>masef</em>
-* `EMPTY` (1356): <em>o, sef, no, sha, not, dem, ma, n't, shey, ni</em>
+* `EMPTY` (1364): <em>o, sef, no, sha, not, dem, n't, ma, shey, ni</em>
 
 ### `SCONJ`
 

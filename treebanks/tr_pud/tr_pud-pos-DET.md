@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>bir</em> (<tt><a href="tr_pud-pos-DET
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 0.913043 (the average of all parts of speech is 1.517067).
+The form / lemma ratio of `DET` is 0.913043 (the average of all parts of speech is 1.517471).
 
 The 1st highest number of forms (1) was observed with the lemma “%”: <em>%</em>.
 

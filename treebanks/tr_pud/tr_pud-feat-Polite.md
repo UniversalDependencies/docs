@@ -23,5 +23,5 @@ The most frequent other feature values with which `VERB` and `Polite` co-occurre
 `VERB` tokens may have the following values of `Polite`:
 
 * `Form` (11; 100% of non-empty `Polite`): <em>almakta, büyümekte, dayanmakta, dayanmaktadır, etmekte, gerilemekte, hatırlamakta, kullanılmakta, odaklanmakta, yaşanmaktaydı</em>
-* `EMPTY` (1682): <em>dedi, etti, başladı, söyledi, çıktı, edildi, verdi, ediyor, etmek, geldi</em>
+* `EMPTY` (1683): <em>dedi, etti, başladı, söyledi, çıktı, edildi, verdi, ediyor, etmek, geldi</em>
 

@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Imp`, `Ind`, `Sub`.
 
-34175 tokens (17%) have a non-empty value of `Mood`.
-9484 types (32%) occur at least once with a non-empty value of `Mood`.
-1764 lemmas (21%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (27133; 14% instances), <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (7042; 4% instances).
+35000 tokens (17%) have a non-empty value of `Mood`.
+9658 types (32%) occur at least once with a non-empty value of `Mood`.
+1785 lemmas (21%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 2 part-of-speech tags: <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (27772; 14% instances), <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (7228; 4% instances).
 
 ### `VERB`
 
-27133 <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> tokens (67% of all `VERB` tokens) have a non-empty value of `Mood`.
+27772 <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> tokens (66% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (27133; 100%), <tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (27133; 100%), <tt><a href="la_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (27133; 100%), <tt><a href="la_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (23744; 88%), <tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (18134; 67%), <tt><a href="la_proiel-feat-Person.html">Person</a></tt><tt>=3</tt> (17860; 66%), <tt><a href="la_proiel-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (15950; 59%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (27772; 100%), <tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (27772; 100%), <tt><a href="la_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (27772; 100%), <tt><a href="la_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (24273; 87%), <tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (18658; 67%), <tt><a href="la_proiel-feat-Person.html">Person</a></tt><tt>=3</tt> (18162; 65%), <tt><a href="la_proiel-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (16385; 59%).
 
 `VERB` tokens may have the following values of `Mood`:
 
-* `Imp` (1480; 5% of non-empty `Mood`): <em>nolite, vade, videte, fac, noli, cura, surge, facite, ite, dic</em>
-* `Ind` (19675; 73% of non-empty `Mood`): <em>dixit, ait, dicit, dico, venit, habet, dixerunt, misit, potest, fecit</em>
-* `Sub` (5978; 22% of non-empty `Mood`): <em>velim, possit, fiat, posset, possent, venisset, fieret, vidisset, diceret, dixisset</em>
-* `EMPTY` (13559): <em>dicens, factum, dicentes, facere, facta, fieri, respondens, scriptum, posse, factus</em>
+* `Imp` (1488; 5% of non-empty `Mood`): <em>nolite, vade, fac, videte, noli, cura, surge, facite, dic, ite</em>
+* `Ind` (20087; 72% of non-empty `Mood`): <em>dixit, ait, dicit, venit, dico, habet, dixerunt, potest, misit, fecit</em>
+* `Sub` (6197; 22% of non-empty `Mood`): <em>velim, possit, fiat, posset, possent, venisset, fieret, vidisset, diceret, dixisset</em>
+* `EMPTY` (14054): <em>dicens, factum, dicentes, facere, fieri, facta, respondens, scriptum, posse, factus</em>
 
 <table>
   <tr><th>Paradigm <i>dico</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th></tr>
@@ -74,16 +74,16 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `AUX`
 
-7042 <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> tokens (90% of all `AUX` tokens) have a non-empty value of `Mood`.
+7228 <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> tokens (89% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="la_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7042; 100%), <tt><a href="la_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7042; 100%), <tt><a href="la_proiel-feat-Person.html">Person</a></tt><tt>=3</tt> (5961; 85%), <tt><a href="la_proiel-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (5470; 78%), <tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5086; 72%), <tt><a href="la_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5019; 71%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="la_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7228; 100%), <tt><a href="la_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7228; 100%), <tt><a href="la_proiel-feat-Person.html">Person</a></tt><tt>=3</tt> (6131; 85%), <tt><a href="la_proiel-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (5615; 78%), <tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5234; 72%), <tt><a href="la_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5160; 71%).
 
 `AUX` tokens may have the following values of `Mood`:
 
 * `Imp` (35; 0% of non-empty `Mood`): <em>estote, esto</em>
-* `Ind` (5997; 85% of non-empty `Mood`): <em>est, sunt, erat, sum, erant, fuit, erit, estis, es, sumus</em>
-* `Sub` (1010; 14% of non-empty `Mood`): <em>sit, esset, sint, essent, sis, essem, sim, fuisset, sitis, fuerit</em>
-* `EMPTY` (803): <em>esse, fore, fuisse, futurum, futurus, futura, futuram, futuros, futurorum, futurae</em>
+* `Ind` (6117; 85% of non-empty `Mood`): <em>est, sunt, erat, sum, erant, fuit, erit, estis, es, sumus</em>
+* `Sub` (1076; 15% of non-empty `Mood`): <em>sit, esset, sint, essent, sis, essem, sim, fuisset, sitis, fuerit</em>
+* `EMPTY` (873): <em>esse, fore, fuisse, futurum, futurus, iri, futura, futuram, futuros, futurorum</em>
 
 <table>
   <tr><th>Paradigm <i>sum</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th></tr>
@@ -128,14 +128,14 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="la_proiel-dep-conj.html">conj</a></tt>]--> VERB</tt> (3318; 86%),
-<tt>VERB --[<tt><a href="la_proiel-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (204; 61%),
-<tt>VERB --[<tt><a href="la_proiel-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (110; 65%),
-<tt>VERB --[<tt><a href="la_proiel-dep-dislocated.html">dislocated</a></tt>]--> VERB</tt> (102; 60%),
-<tt>AUX --[<tt><a href="la_proiel-dep-conj.html">conj</a></tt>]--> VERB</tt> (39; 81%),
-<tt>VERB --[<tt><a href="la_proiel-dep-conj.html">conj</a></tt>]--> AUX</tt> (22; 73%),
+<tt>VERB --[<tt><a href="la_proiel-dep-conj.html">conj</a></tt>]--> VERB</tt> (3397; 85%),
+<tt>VERB --[<tt><a href="la_proiel-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (205; 61%),
+<tt>VERB --[<tt><a href="la_proiel-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (129; 57%),
+<tt>VERB --[<tt><a href="la_proiel-dep-dislocated.html">dislocated</a></tt>]--> VERB</tt> (104; 59%),
+<tt>AUX --[<tt><a href="la_proiel-dep-conj.html">conj</a></tt>]--> VERB</tt> (42; 75%),
+<tt>VERB --[<tt><a href="la_proiel-dep-conj.html">conj</a></tt>]--> AUX</tt> (26; 70%),
 <tt>VERB --[<tt><a href="la_proiel-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (14; 100%),
 <tt>AUX --[<tt><a href="la_proiel-dep-conj.html">conj</a></tt>]--> AUX</tt> (13; 93%),
-<tt>AUX --[<tt><a href="la_proiel-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (7; 100%),
-<tt>AUX --[<tt><a href="la_proiel-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (7; 88%).
+<tt>AUX --[<tt><a href="la_proiel-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (6; 86%),
+<tt>AUX --[<tt><a href="la_proiel-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (6; 86%).
 

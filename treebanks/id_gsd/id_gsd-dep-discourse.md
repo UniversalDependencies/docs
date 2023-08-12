@@ -49,7 +49,7 @@ The following 7 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 4	fgColor:white
 # visual-style 4 3 discourse	color:blue
 1	Iye	iye	X	X--	Foreign=Yes	4	nmod	_	SpaceAfter=No|Morf=^iye<x>_X--$
-2	,	,	PUNCT	_	_	1	punct	_	_
+2	,	,	PUNCT	Z--	_	1	punct	_	_
 3	wah	wah	INTJ	I--	_	4	discourse	_	Morf=^wah<i>_I--$
 4	foto	foto	NOUN	NSD	Number=Sing	10	obl	_	Morf=^foto<n>_NSD$
 5	kopian-	kopi	NOUN	NSD	Number=Sing	4	nmod	_	Morf=^kopi<n>+an_NSD$

@@ -60,7 +60,7 @@ The most frequent other feature values with which `ADV` and `Number[subj]` co-oc
 
 4 <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> tokens (1% of all `AUX` tokens) have a non-empty value of `Number[subj]`.
 
-The most frequent other feature values with which `AUX` and `Number[subj]` co-occurred: <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="kpv_lattice-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="kpv_lattice-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (3; 75%).
+The most frequent other feature values with which `AUX` and `Number[subj]` co-occurred: <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="kpv_lattice-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (3; 75%).
 
 `AUX` tokens may have the following values of `Number[subj]`:
 

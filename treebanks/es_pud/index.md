@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Hector Fernandez Alcalde, Laura Moreno Romero, Martin Popel, Daniel Zeman, Héctor Martínez Alonso.
 
 Repository: [UD_Spanish-PUD](https://github.com/UniversalDependencies/UD_Spanish-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udes_pud211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udes_pud212)<br />
+Download all treebanks: [UD 2.12](/#download)
 
 License: CC BY-SA 3.0
 
@@ -86,11 +86,11 @@ employ ten-fold cross-validation.
 
 ## Features
 
-[Abbr](es_pud-feat-Abbr.html) – [Aspect](es_pud-feat-Aspect.html) – [Case](es_pud-feat-Case.html) – [Definite](es_pud-feat-Definite.html) – [Degree](es_pud-feat-Degree.html) – [Foreign](es_pud-feat-Foreign.html) – [Gender](es_pud-feat-Gender.html) – [Hyph](es_pud-feat-Hyph.html) – [Mood](es_pud-feat-Mood.html) – [Number](es_pud-feat-Number.html) – [NumType](es_pud-feat-NumType.html) – [Person](es_pud-feat-Person.html) – [Polarity](es_pud-feat-Polarity.html) – [Polite](es_pud-feat-Polite.html) – [Poss](es_pud-feat-Poss.html) – [PrepCase](es_pud-feat-PrepCase.html) – [PronType](es_pud-feat-PronType.html) – [Reflex](es_pud-feat-Reflex.html) – [Tense](es_pud-feat-Tense.html) – [Typo](es_pud-feat-Typo.html) – [VerbForm](es_pud-feat-VerbForm.html) – [Voice](es_pud-feat-Voice.html)
+[Abbr](es_pud-feat-Abbr.html) – [Case](es_pud-feat-Case.html) – [Definite](es_pud-feat-Definite.html) – [Degree](es_pud-feat-Degree.html) – [Foreign](es_pud-feat-Foreign.html) – [Gender](es_pud-feat-Gender.html) – [Hyph](es_pud-feat-Hyph.html) – [Mood](es_pud-feat-Mood.html) – [Number](es_pud-feat-Number.html) – [NumType](es_pud-feat-NumType.html) – [Person](es_pud-feat-Person.html) – [Polarity](es_pud-feat-Polarity.html) – [Polite](es_pud-feat-Polite.html) – [Poss](es_pud-feat-Poss.html) – [PrepCase](es_pud-feat-PrepCase.html) – [PronType](es_pud-feat-PronType.html) – [Reflex](es_pud-feat-Reflex.html) – [Tense](es_pud-feat-Tense.html) – [Typo](es_pud-feat-Typo.html) – [VerbForm](es_pud-feat-VerbForm.html)
 
 ## Relations
 
-[acl](es_pud-dep-acl.html) – [acl:relcl](es_pud-dep-acl-relcl.html) – [advcl](es_pud-dep-advcl.html) – [advmod](es_pud-dep-advmod.html) – [amod](es_pud-dep-amod.html) – [appos](es_pud-dep-appos.html) – [aux](es_pud-dep-aux.html) – [aux:pass](es_pud-dep-aux-pass.html) – [case](es_pud-dep-case.html) – [cc](es_pud-dep-cc.html) – [cc:preconj](es_pud-dep-cc-preconj.html) – [ccomp](es_pud-dep-ccomp.html) – [compound](es_pud-dep-compound.html) – [compound:prt](es_pud-dep-compound-prt.html) – [conj](es_pud-dep-conj.html) – [cop](es_pud-dep-cop.html) – [csubj](es_pud-dep-csubj.html) – [csubj:pass](es_pud-dep-csubj-pass.html) – [dep](es_pud-dep-dep.html) – [det](es_pud-dep-det.html) – [discourse](es_pud-dep-discourse.html) – [expl](es_pud-dep-expl.html) – [expl:pass](es_pud-dep-expl-pass.html) – [expl:pv](es_pud-dep-expl-pv.html) – [fixed](es_pud-dep-fixed.html) – [flat](es_pud-dep-flat.html) – [flat:name](es_pud-dep-flat-name.html) – [goeswith](es_pud-dep-goeswith.html) – [iobj](es_pud-dep-iobj.html) – [mark](es_pud-dep-mark.html) – [nmod](es_pud-dep-nmod.html) – [nsubj](es_pud-dep-nsubj.html) – [nsubj:pass](es_pud-dep-nsubj-pass.html) – [nummod](es_pud-dep-nummod.html) – [obj](es_pud-dep-obj.html) – [obl](es_pud-dep-obl.html) – [obl:agent](es_pud-dep-obl-agent.html) – [obl:tmod](es_pud-dep-obl-tmod.html) – [orphan](es_pud-dep-orphan.html) – [parataxis](es_pud-dep-parataxis.html) – [punct](es_pud-dep-punct.html) – [root](es_pud-dep-root.html) – [vocative](es_pud-dep-vocative.html) – [xcomp](es_pud-dep-xcomp.html)
+[acl](es_pud-dep-acl.html) – [acl:relcl](es_pud-dep-acl-relcl.html) – [advcl](es_pud-dep-advcl.html) – [advmod](es_pud-dep-advmod.html) – [amod](es_pud-dep-amod.html) – [appos](es_pud-dep-appos.html) – [aux](es_pud-dep-aux.html) – [aux:pass](es_pud-dep-aux-pass.html) – [case](es_pud-dep-case.html) – [cc](es_pud-dep-cc.html) – [cc:preconj](es_pud-dep-cc-preconj.html) – [ccomp](es_pud-dep-ccomp.html) – [compound](es_pud-dep-compound.html) – [compound:prt](es_pud-dep-compound-prt.html) – [conj](es_pud-dep-conj.html) – [cop](es_pud-dep-cop.html) – [csubj](es_pud-dep-csubj.html) – [csubj:pass](es_pud-dep-csubj-pass.html) – [dep](es_pud-dep-dep.html) – [det](es_pud-dep-det.html) – [discourse](es_pud-dep-discourse.html) – [expl](es_pud-dep-expl.html) – [expl:pass](es_pud-dep-expl-pass.html) – [expl:pv](es_pud-dep-expl-pv.html) – [fixed](es_pud-dep-fixed.html) – [flat](es_pud-dep-flat.html) – [flat:name](es_pud-dep-flat-name.html) – [goeswith](es_pud-dep-goeswith.html) – [mark](es_pud-dep-mark.html) – [nmod](es_pud-dep-nmod.html) – [nsubj](es_pud-dep-nsubj.html) – [nsubj:pass](es_pud-dep-nsubj-pass.html) – [nummod](es_pud-dep-nummod.html) – [obj](es_pud-dep-obj.html) – [obl](es_pud-dep-obl.html) – [obl:agent](es_pud-dep-obl-agent.html) – [obl:arg](es_pud-dep-obl-arg.html) – [obl:tmod](es_pud-dep-obl-tmod.html) – [orphan](es_pud-dep-orphan.html) – [parataxis](es_pud-dep-parataxis.html) – [punct](es_pud-dep-punct.html) – [root](es_pud-dep-root.html) – [vocative](es_pud-dep-vocative.html) – [xcomp](es_pud-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -129,15 +129,15 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
-<li>This corpus contains 20 lemmas tagged as pronouns (PRON): _, cual, cuanto, cuyo, cuál, her, mi, my, nuestro, que, quien, quién, qué, su, tu, tú, uno, yo, you, él</li>
+<li>This corpus contains 20 lemmas tagged as pronouns (PRON): _, cual, cuanto, cuál, cuáles, her, mi, my, nuestro, que, quien, quién, qué, su, tu, tú, uno, yo, you, él</li>
 </ul>
 
 <ul>
-<li>This corpus contains 20 lemmas tagged as determiners (DET): _, a, ambo, aquel, cada, cualquier, el, en, ese, eso, este, esto, mucho, ningún, otro, que, that, the, todo, uno</li>
+<li>This corpus contains 22 lemmas tagged as determiners (DET): _, a, ambo, aquel, cada, cualquier, cuyo, el, en, ese, eso, este, esto, mucho, ningún, otro, que, qué, that, the, todo, uno</li>
 </ul>
 
 <ul>
-<li>Out of the above, 3 lemmas occurred sometimes as PRON and sometimes as DET: _, que, uno</li>
+<li>Out of the above, 4 lemmas occurred sometimes as PRON and sometimes as DET: _, que, qué, uno</li>
 </ul>
 
 <ul>
@@ -270,7 +270,7 @@ employ ten-fold cross-validation.
 <ul>
   <li>Acc
     <ul>
-      <li>PRON: lo, la, los, sí, You, las, mí</li>
+      <li>PRON: lo, la, los, me, sí, You, las, mí, te</li>
     </ul>
   </li>
 </ul>
@@ -278,7 +278,7 @@ employ ten-fold cross-validation.
 <ul>
   <li>Acc,Dat
     <ul>
-      <li>PRON: se, me, nos, te, os</li>
+      <li>PRON: se, me, nos, os, te</li>
     </ul>
   </li>
 </ul>
@@ -302,7 +302,7 @@ employ ten-fold cross-validation.
 <ul>
   <li>Dat
     <ul>
-      <li>PRON: le, les</li>
+      <li>PRON: le, les, me, nos</li>
     </ul>
   </li>
 </ul>
@@ -403,27 +403,6 @@ employ ten-fold cross-validation.
 <h3>Verbal Features</h3>
 
 
-<ul>
-  <li><a>Aspect</a></li>
-</ul>
-
-<ul>
-  <li>Imp
-    <ul>
-      <li>AUX-Fin: es, está, era, puede, son, estaba, podría, pueden, estaban, están</li>
-      <li>VERB-Fin: es, tiene, hay, está, hace, tienen, dice, era, tenía, están</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Perf
-    <ul>
-      <li>AUX-Fin: fue, ha, había, fueron, han, habían, hayan, empezaron, he, comenzó</li>
-      <li>VERB-Fin: dijo, afirmó, convirtió, tuvo, declaró, hizo, empezó, fue, lanzó, llegaron</li>
-    </ul>
-  </li>
-</ul>
 
 <ul>
   <li><a>Mood</a></li>
@@ -479,11 +458,20 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
+  <li>Imp
+    <ul>
+      <li>AUX-Fin: era, estaba, podría, estaban, eran, podía, sería, debería, podrían, debía</li>
+      <li>VERB-Fin: era, tenía, tenían, consideraba, decía, estaba, parecía, quería, Aparecía, aplicaría</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Past
     <ul>
-      <li>AUX-Fin: fue, ha, había, era, fueron, han, estaba, habían, estaban, eran</li>
+      <li>AUX-Fin: fue, ha, había, fueron, han, habían, hayan, empezaron, he, comenzó</li>
       <li>AUX-Part: sido, estado, hecho, mantenido, tenido</li>
-      <li>VERB-Fin: dijo, afirmó, convirtió, era, tuvo, declaró, tenía, hizo, empezó, fue</li>
+      <li>VERB-Fin: dijo, afirmó, convirtió, tuvo, declaró, hizo, empezó, fue, lanzó, llegaron</li>
       <li>VERB-Part: debido, hecho, dado, dejado, tenido, dirigida, visto, acusado, declarado, desarrollado</li>
     </ul>
   </li>
@@ -498,27 +486,6 @@ employ ten-fold cross-validation.
   </li>
 </ul>
 
-<ul>
-  <li><a>Voice</a></li>
-</ul>
-
-<ul>
-  <li>Act
-    <ul>
-      <li>AUX-Fin: es, ha, había, está, era, fue, son, han, puede, estaba</li>
-      <li>VERB-Fin: dijo, es, tiene, hay, está, hace, tienen, afirmó, convirtió, dice</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Pass
-    <ul>
-      <li>AUX-Fin: fue, fueron, ha, había, puede, son, habían, pueden, era, eran</li>
-      <li>VERB-Fin: conoce, aplicaría, conocen, construyó, cree, dijo, espera, incluyen, lanzó, llevó</li>
-    </ul>
-  </li>
-</ul>
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
@@ -554,10 +521,18 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
+  <li>Int
+    <ul>
+      <li>DET: qué</li>
+      <li>PRON: qué, cuál, Cuáles</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Int,Rel
     <ul>
-      <li>DET: que, qué</li>
-      <li>PRON: que, cual, cuales, quien, qué, cuál, quienes, cuanto, cuyo, quién</li>
+      <li>PRON: quien, quienes, cuanto, quién, Quiénes</li>
     </ul>
   </li>
 </ul>
@@ -574,6 +549,16 @@ employ ten-fold cross-validation.
   <li>Prs
     <ul>
       <li>PRON: se, su, lo, sus, le, me, ellos, él, les, ella</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Rel
+    <ul>
+      <li>ADV: cuando, donde</li>
+      <li>DET: cuyo, cuya, cuyos, que</li>
+      <li>PRON: que, cual, cuales</li>
     </ul>
   </li>
 </ul>
@@ -607,7 +592,8 @@ employ ten-fold cross-validation.
 <ul>
   <li>Yes
     <ul>
-      <li>PRON: su, sus, nuestro, mi, nuestra, cuyo, nuestras, nuestros, cuya, cuyos</li>
+      <li>DET: cuyo, cuya, cuyos</li>
+      <li>PRON: su, sus, nuestro, mi, nuestra, nuestras, nuestros, mis, suya, suyos</li>
     </ul>
   </li>
 </ul>
@@ -768,18 +754,18 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB-Fin--NOUN (380)</li>
       <li>VERB-Fin--PRON (23)</li>
-      <li>VERB-Fin--PRON-Acc (22)</li>
+      <li>VERB-Fin--PRON-Acc (25)</li>
       <li>VERB-Fin--PRON-Acc,Dat (5)</li>
       <li>VERB-Fin--PRON-Com (1)</li>
       <li>VERB-Fin--PRON-Dat (4)</li>
       <li>VERB-Ger--NOUN (37)</li>
       <li>VERB-Ger--PRON (2)</li>
       <li>VERB-Ger--PRON-Acc (6)</li>
-      <li>VERB-Inf--NOUN (209)</li>
+      <li>VERB-Inf--NOUN (208)</li>
       <li>VERB-Inf--PRON (5)</li>
-      <li>VERB-Inf--PRON-Acc (11)</li>
+      <li>VERB-Inf--PRON-Acc (12)</li>
       <li>VERB-Inf--PRON-Acc,Dat (1)</li>
-      <li>VERB-Inf--PRON-Dat (2)</li>
+      <li>VERB-Inf--PRON-Dat (1)</li>
       <li>VERB-Part--NOUN (36)</li>
       <li>VERB-Part--PRON (4)</li>
       <li>VERB-Part--PRON-Acc (5)</li>
@@ -791,13 +777,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--PRON-Acc,Dat (7)</li>
-      <li>VERB-Fin--PRON-Dat (30)</li>
-      <li>VERB-Ger--PRON-Dat (5)</li>
-      <li>VERB-Inf--PRON-Acc (1)</li>
-      <li>VERB-Inf--PRON-Dat (1)</li>
-      <li>VERB-Part--PRON-Acc,Dat (1)</li>
-      <li>VERB-Part--PRON-Dat (3)</li>
     </ul>
   </li>
 </ul>
@@ -811,7 +790,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Reflexive Passive</h3>
 
 <ul>
-  <li>This corpus contains 2 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: saber se, utilizar se</li>
+  <li>This corpus contains 29 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: _ se, considerar se, construir se, establecer se, hacer se, utilizar se, aplicar se, atenuar se, comentar se, conceder se, conocer se, desarrollar se, disparar se, emplear se, encontrar se, enviar se, estimar se, gastar se, indicar se, leer se, olvidar se, otorgar se, planificar se, quejar se, recalcar se, saber se, sacar se, tener se, ver se</li>
 </ul>
 
 <h3>Verbs with Reflexive Core Objects</h3>
@@ -823,6 +802,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 11 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:tmod</a></li>
-<li>The following 4 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>reparandum</a></li>
+<li>This corpus uses 12 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:tmod</a></li>
+<li>The following 5 relation types are not used in this corpus at all: <a>iobj</a>, <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>reparandum</a></li>
 </ul>

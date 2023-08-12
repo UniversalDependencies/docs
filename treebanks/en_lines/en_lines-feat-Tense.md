@@ -12,19 +12,19 @@ It occurs with 2 different values: `Past`, `Pres`.
 11802 tokens (13%) have a non-empty value of `Tense`.
 2203 types (22%) occur at least once with a non-empty value of `Tense`.
 1385 lemmas (18%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 3 part-of-speech tags: <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (8148; 9% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (3653; 4% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (8135; 9% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (3666; 4% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-8148 <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> tokens (73% of all `VERB` tokens) have a non-empty value of `Tense`.
+8135 <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> tokens (73% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="en_lines-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (6955; 85%), <tt><a href="en_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4961; 61%), <tt><a href="en_lines-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4956; 61%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="en_lines-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (6941; 85%), <tt><a href="en_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4948; 61%), <tt><a href="en_lines-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4943; 61%).
 
 `VERB` tokens may have the following values of `Tense`:
 
-* `Past` (5036; 62% of non-empty `Tense`): <em>said, was, had, made, came, seemed, looked, went, felt, got</em>
-* `Pres` (3112; 38% of non-empty `Tense`): <em>is, going, know, have, are, 's, using, has, want, looking</em>
-* `EMPTY` (2962): <em>see, know, do, make, go, have, get, say, take, be</em>
+* `Past` (5034; 62% of non-empty `Tense`): <em>said, was, had, made, came, seemed, looked, went, felt, got</em>
+* `Pres` (3101; 38% of non-empty `Tense`): <em>is, going, know, have, are, using, 's, has, want, looking</em>
+* `EMPTY` (2961): <em>see, know, do, make, go, have, get, say, take, be</em>
 
 <table>
   <tr><th>Paradigm <i>be</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -36,15 +36,15 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-3653 <tt><a href="en_lines-pos-AUX.html">AUX</a></tt> tokens (71% of all `AUX` tokens) have a non-empty value of `Tense`.
+3666 <tt><a href="en_lines-pos-AUX.html">AUX</a></tt> tokens (71% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="en_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3360; 92%), <tt><a href="en_lines-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3354; 92%), <tt><a href="en_lines-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1928; 53%), <tt><a href="en_lines-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1928; 53%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="en_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3373; 92%), <tt><a href="en_lines-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3367; 92%), <tt><a href="en_lines-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1929; 53%), <tt><a href="en_lines-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1929; 53%).
 
 `AUX` tokens may have the following values of `Tense`:
 
-* `Past` (2075; 57% of non-empty `Tense`): <em>was, had, were, been, did, 'd, got</em>
-* `Pres` (1578; 43% of non-empty `Tense`): <em>is, are, have, 's, do, has, 've, being, does, am</em>
-* `EMPTY` (1512): <em>be, can, would, could, will, must, should, 'll, might, ca</em>
+* `Past` (2077; 57% of non-empty `Tense`): <em>was, had, were, been, did, 'd, got</em>
+* `Pres` (1589; 43% of non-empty `Tense`): <em>is, are, have, 's, do, has, 've, being, does, am</em>
+* `EMPTY` (1513): <em>be, can, would, could, will, must, should, 'll, might, ca</em>
 
 <table>
   <tr><th>Paradigm <i>be</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -64,7 +64,7 @@ The most frequent other feature values with which `ADJ` and `Tense` co-occurred:
 `ADJ` tokens may have the following values of `Tense`:
 
 * `Pres` (1; 100% of non-empty `Tense`): <em>reflecting</em>
-* `EMPTY` (5938): <em>other, white, old, new, good, same, own, first, black, great</em>
+* `EMPTY` (5939): <em>other, white, old, new, good, same, own, first, black, great</em>
 
 ## Relations with Agreement in `Tense`
 

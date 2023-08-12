@@ -42,7 +42,7 @@ The following 5 pairs of parts of speech are connected with `case`: <tt><a href=
 2	riki	riki	ADP	pp	_	1	case	_	_
 3	ihē	ihē	PRON	pro	_	4	nsubj	_	_
 4	ahɪk	hɪk	VERB	vt	Number=Sing|Person=1	0	root	_	_
-5	ajur	jur	VERB	vi	Number=Sing|Person=1	4	csubj	_	_
+5	ajur	jur	VERB	vi	Number=Sing|Person=1	4	dep	_	_
 6	jarupa	jarupa	NOUN	n	_	4	obl	_	_
 7	rehe	rehe	ADP	pp	_	6	case	_	_
 

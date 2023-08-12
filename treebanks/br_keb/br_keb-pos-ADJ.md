@@ -13,9 +13,9 @@ The 10 most frequent `ADJ` lemmas: <em>bras, mat, ret, nevez, kentañ, yaouank, 
 
 The 10 most frequent `ADJ` types:  <em>ret, nevez, bras, mat, yaouank, all, gentañ, bihan, kentañ, brav</em>
 
-The 10 most frequent ambiguous lemmas: <em>bras</em> (<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> 20, <tt><a href="br_keb-pos-ADV.html">ADV</a></tt> 2), <em>mat</em> (<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> 17, <tt><a href="br_keb-pos-ADV.html">ADV</a></tt> 2), <em>kentañ</em> (<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> 14, <tt><a href="br_keb-pos-NUM.html">NUM</a></tt> 2), <em>all</em> (<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> 11, <tt><a href="br_keb-pos-ADV.html">ADV</a></tt> 2), <em>eil</em> (<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="br_keb-pos-NUM.html">NUM</a></tt> 4), <em>memes</em> (<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="br_keb-pos-X.html">X</a></tt> 2), <em>pell</em> (<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="br_keb-pos-ADV.html">ADV</a></tt> 1), <em>diavaez</em> (<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt> 1), <em>gwir</em> (<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt> 2), <em>marv</em> (<tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>bras</em> (<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> 20, <tt><a href="br_keb-pos-ADV.html">ADV</a></tt> 2), <em>mat</em> (<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> 17, <tt><a href="br_keb-pos-ADV.html">ADV</a></tt> 2), <em>kentañ</em> (<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> 14, <tt><a href="br_keb-pos-NUM.html">NUM</a></tt> 2), <em>all</em> (<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> 11, <tt><a href="br_keb-pos-ADV.html">ADV</a></tt> 1), <em>eil</em> (<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="br_keb-pos-NUM.html">NUM</a></tt> 4), <em>memes</em> (<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="br_keb-pos-X.html">X</a></tt> 2), <em>pell</em> (<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="br_keb-pos-ADV.html">ADV</a></tt> 1), <em>diavaez</em> (<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt> 1), <em>gwir</em> (<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt> 2), <em>marv</em> (<tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> 2)
 
-The 10 most frequent ambiguous types:  <em>mat</em> (<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> 13, <tt><a href="br_keb-pos-ADV.html">ADV</a></tt> 1), <em>all</em> (<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> 11, <tt><a href="br_keb-pos-ADV.html">ADV</a></tt> 2), <em>kentañ</em> (<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> 6, <tt><a href="br_keb-pos-NUM.html">NUM</a></tt> 1), <em>eil</em> (<tt><a href="br_keb-pos-NUM.html">NUM</a></tt> 4, <tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> 3), <em>memes</em> (<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="br_keb-pos-X.html">X</a></tt> 2), <em>pell</em> (<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="br_keb-pos-ADV.html">ADV</a></tt> 1), <em>vat</em> (<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="br_keb-pos-ADV.html">ADV</a></tt> 2), <em>brudet</em> (<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="br_keb-pos-VERB.html">VERB</a></tt> 1), <em>diavaez</em> (<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt> 1), <em>marv</em> (<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt> 2)
+The 10 most frequent ambiguous types:  <em>mat</em> (<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> 13, <tt><a href="br_keb-pos-ADV.html">ADV</a></tt> 1), <em>all</em> (<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> 11, <tt><a href="br_keb-pos-ADV.html">ADV</a></tt> 1), <em>kentañ</em> (<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> 6, <tt><a href="br_keb-pos-NUM.html">NUM</a></tt> 1), <em>eil</em> (<tt><a href="br_keb-pos-NUM.html">NUM</a></tt> 4, <tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> 3), <em>memes</em> (<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="br_keb-pos-X.html">X</a></tt> 2), <em>pell</em> (<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="br_keb-pos-ADV.html">ADV</a></tt> 1), <em>vat</em> (<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="br_keb-pos-ADV.html">ADV</a></tt> 2), <em>brudet</em> (<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="br_keb-pos-VERB.html">VERB</a></tt> 1), <em>diavaez</em> (<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt> 1), <em>marv</em> (<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt> 2)
 
 
 * <em>mat</em>
@@ -23,7 +23,7 @@ The 10 most frequent ambiguous types:  <em>mat</em> (<tt><a href="br_keb-pos-ADJ
   * <tt><a href="br_keb-pos-ADV.html">ADV</a></tt> 1: <em>Evel-se e c’haller stardañ <b>mat</b> ar perlez .</em>
 * <em>all</em>
   * <tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> 11: <em>Merket e vo poentoù gane oc'h pa dizhoc'h harnez ar c'hoarierien <b>all</b> .</em>
-  * <tt><a href="br_keb-pos-ADV.html">ADV</a></tt> 2: <em>Treuzit an holl wiadoù , tennit ho nadoz er-maez en ur zilec’hiañ , hag <b>all</b> .</em>
+  * <tt><a href="br_keb-pos-ADV.html">ADV</a></tt> 1: <em>Treuzit an holl wiadoù , tennit ho nadoz er-maez en ur zilec’hiañ anezhi , hag <b>all</b> .</em>
 * <em>kentañ</em>
   * <tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> 6: <em>Unan eus ar riezoù <b>kentañ</b> bet krouet en Europa eo ivez .</em>
   * <tt><a href="br_keb-pos-NUM.html">NUM</a></tt> 1: <em>D' ar sadorn 5 ha Sul 6 a viz Ebrel e vo aozet e Brest ul lodenn eus kampionad Bro-C'hall <b>kentañ</b> rummad mell-droad war gador-ruilh .</em>
@@ -43,7 +43,7 @@ The 10 most frequent ambiguous types:  <em>mat</em> (<tt><a href="br_keb-pos-ADJ
   * <tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> 2: <em>Ur gevezadeg ziaes ha <b>brudet</b> eo an Olimpiadennoù , met ouzhpenn an dra -se ez int .</em>
   * <tt><a href="br_keb-pos-VERB.html">VERB</a></tt> 1: <em>Kement abadenn sevenadurel a denn da zanvez Breizh a vez <b>brudet</b> gant pedadennoù divyezhek .</em>
 * <em>diavaez</em>
-  * <tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> 2: <em>Istor <b>diavaez</b> ar brezhoneg .</em>
+  * <tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> 2: <em>istor <b>diavaez</b> ar brezhoneg</em>
   * <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt> 1: <em>Met gant an dispac’h greantel e voe desachet ur bern tud eus an <b>diavaez</b> da Su Kembre .</em>
 * <em>marv</em>
   * <tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> 2: <em>Ganet eo bet e 1958 e Naoned ha <b>marv</b> e Pariz e 1993 .</em>
@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>mat</em> (<tt><a href="br_keb-pos-ADJ
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.140000 (the average of all parts of speech is 1.395336).
+The form / lemma ratio of `ADJ` is 1.140000 (the average of all parts of speech is 1.395664).
 
 The 1st highest number of forms (4) was observed with the lemma “bras”: <em>bras, brasañ, vras, vrasañ</em>.
 
@@ -78,9 +78,9 @@ Parents of `ADJ` nodes belong to 8 different parts of speech: <tt><a href="br_ke
 
 48 (11%) `ADJ` nodes have one child.
 
-19 (4%) `ADJ` nodes have two children.
+20 (5%) `ADJ` nodes have two children.
 
-95 (22%) `ADJ` nodes have three or more children.
+94 (22%) `ADJ` nodes have three or more children.
 
 The highest child degree of a `ADJ` node is 7.
 

@@ -47,4 +47,4 @@ though in the future it may be broadened.
 * _pastimes <b>such as</b> eating cake_ (_such_ = `ADJ`)
 * _I brought an umbrella <b>in case</b> it rains_ (_in_ = `ADP`)
 * _Let's walk <b>instead of</b> taking the bus_ (_instead_ = `ADV`)
-<!-- Interlanguage links updated Po lis 14 15:34:45 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:36 CEST -->

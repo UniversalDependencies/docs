@@ -88,7 +88,7 @@ The following 22 pairs of parts of speech are connected with `reparandum`: <tt><
 9	,	,	PUNCT	Punc	_	3	punct	_	_
 10	tibi	tu	PRON	p|p|2|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	12	obl:arg	_	_
 11	eos	is	PRON	p|p|-|p|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	_
-12	venire	uenio	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	13	ccomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+12	venire	uenio	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	13	ccomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 13	faciamus	facio	VERB	v|v|1|p|p|s|a|-|-|-	Aspect=Imp|Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Subiunctivus|TraditionalTense=Praesens
 14	legem	lex	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	17	obj	_	_
 15	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	16	cc	_	_

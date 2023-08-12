@@ -9,24 +9,38 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-1167 tokens (2%) have a non-empty value of `Poss`.
-98 types (1%) occur at least once with a non-empty value of `Poss`.
-5 lemmas (0%) occur at least once with a non-empty value of `Poss`.
-The feature is used with 1 part-of-speech tags: <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (1167; 2% instances).
+5284 tokens (3%) have a non-empty value of `Poss`.
+407 types (1%) occur at least once with a non-empty value of `Poss`.
+10 lemmas (0%) occur at least once with a non-empty value of `Poss`.
+The feature is used with 2 part-of-speech tags: <tt><a href="cu_proiel-pos-DET.html">DET</a></tt> (5168; 3% instances), <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (116; 0% instances).
 
-### `ADJ`
+### `DET`
 
-1167 <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> tokens (22% of all `ADJ` tokens) have a non-empty value of `Poss`.
+5168 <tt><a href="cu_proiel-pos-DET.html">DET</a></tt> tokens (62% of all `DET` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `ADJ` and `Poss` co-occurred: <tt><a href="cu_proiel-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1167; 100%), <tt><a href="cu_proiel-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (1167; 100%), <tt><a href="cu_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (827; 71%).
+The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="cu_proiel-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (3789; 73%), <tt><a href="cu_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3599; 70%).
 
-`ADJ` tokens may have the following values of `Poss`:
+`DET` tokens may have the following values of `Poss`:
 
-* `Yes` (1167; 100% of non-empty `Poss`): <em>мои, твои, моего, своего, своѩ, моѣ, твоѣ, мое, свои, своимъ</em>
-* `EMPTY` (4119): <em>онъ, си, се, тъ, сь, они, никтоже, сего, вьси, вьсѣ</em>
+* `Yes` (5168; 100% of non-empty `Poss`): <em>моі, твоѣ, моѣ, мои, мое, твое, твоего, моего, моѭ, своего</em>
+* `EMPTY` (3198): <em>сего, того, тъ, вьсѣхъ, се, вьси, си, то, вьсѣ, вьсѩ</em>
+
+### `PRON`
+
+116 <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Poss`.
+
+The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="cu_proiel-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (116; 100%), <tt><a href="cu_proiel-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (82; 71%), <tt><a href="cu_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (69; 59%).
+
+`PRON` tokens may have the following values of `Poss`:
+
+* `Yes` (116; 100% of non-empty `Poss`): <em>твоѣ, моѣ, мое, моѭ, наше, свое, своѥ, твое, ваше, моего</em>
+* `EMPTY` (26275): <em>сꙙ, сѧ, сѩ, его, емоу, и, вамъ, сⱕ, мѩ, ѥ҅го</em>
 
 ## Relations with Agreement in `Poss`
 
 The 10 most frequent relations where parent and child node agree in `Poss`:
-<tt>ADJ --[<tt><a href="cu_proiel-dep-nsubj.html">nsubj</a></tt>]--> ADJ</tt> (3; 75%).
+<tt>PRON --[<tt><a href="cu_proiel-dep-conj.html">conj</a></tt>]--> PRON</tt> (5; 83%),
+<tt>DET --[<tt><a href="cu_proiel-dep-appos.html">appos</a></tt>]--> PRON</tt> (1; 100%),
+<tt>DET --[<tt><a href="cu_proiel-dep-conj.html">conj</a></tt>]--> PRON</tt> (1; 100%),
+<tt>DET --[<tt><a href="cu_proiel-dep-fixed.html">fixed</a></tt>]--> PRON</tt> (1; 100%).
 

@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>fukk</em> (<tt><a href="wo_wtb-pos-NU
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.148810 (the average of all parts of speech is 1.250208).
+The form / lemma ratio of `NUM` is 1.148810 (the average of all parts of speech is 1.250260).
 
 The 1st highest number of forms (5) was observed with the lemma “ñaar”: <em>ñaar, ñaareel, ñaareelu, ñaarelu, ñaari</em>.
 

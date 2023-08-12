@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.5 release.
 The following people have contributed to making this treebank part of UD: Larisa Ponomareva, Niko Partanen, Jack Rueter, Francis Tyers.
 
 Repository: [UD_Komi_Permyak-UH](https://github.com/UniversalDependencies/UD_Komi_Permyak-UH)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkoi_uh211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkoi_uh212)<br />
+Download all treebanks: [UD 2.12](/#download)
 
 License: CC BY-SA 4.0
 
@@ -104,7 +104,7 @@ Work connected to this treebank is described in following publication. If you us
 
 ## Features
 
-[AdpType](koi_uh-feat-AdpType.html) – [AdvType](koi_uh-feat-AdvType.html) – [Animacy](koi_uh-feat-Animacy.html) – [Case](koi_uh-feat-Case.html) – [Connegative](koi_uh-feat-Connegative.html) – [Definite](koi_uh-feat-Definite.html) – [Degree](koi_uh-feat-Degree.html) – [Derivation](koi_uh-feat-Derivation.html) – [Evident](koi_uh-feat-Evident.html) – [Mood](koi_uh-feat-Mood.html) – [NameType](koi_uh-feat-NameType.html) – [NounType](koi_uh-feat-NounType.html) – [Number](koi_uh-feat-Number.html) – [Number[psor]](koi_uh-feat-Number-psor.html) – [Number[subj]](koi_uh-feat-Number-subj.html) – [NumType](koi_uh-feat-NumType.html) – [Person](koi_uh-feat-Person.html) – [Person[psor]](koi_uh-feat-Person-psor.html) – [Polarity](koi_uh-feat-Polarity.html) – [PronType](koi_uh-feat-PronType.html) – [Reflex](koi_uh-feat-Reflex.html) – [Tense](koi_uh-feat-Tense.html) – [Valency](koi_uh-feat-Valency.html) – [Variant](koi_uh-feat-Variant.html) – [VerbForm](koi_uh-feat-VerbForm.html) – [VerbType](koi_uh-feat-VerbType.html)
+[AdpType](koi_uh-feat-AdpType.html) – [AdvType](koi_uh-feat-AdvType.html) – [Animacy](koi_uh-feat-Animacy.html) – [Case](koi_uh-feat-Case.html) – [Connegative](koi_uh-feat-Connegative.html) – [Definite](koi_uh-feat-Definite.html) – [Degree](koi_uh-feat-Degree.html) – [Derivation](koi_uh-feat-Derivation.html) – [Evident](koi_uh-feat-Evident.html) – [Mood](koi_uh-feat-Mood.html) – [NameType](koi_uh-feat-NameType.html) – [NounType](koi_uh-feat-NounType.html) – [Number](koi_uh-feat-Number.html) – [Number[psor]](koi_uh-feat-Number-psor.html) – [Number[subj]](koi_uh-feat-Number-subj.html) – [NumType](koi_uh-feat-NumType.html) – [Person](koi_uh-feat-Person.html) – [Person[psor]](koi_uh-feat-Person-psor.html) – [Polarity](koi_uh-feat-Polarity.html) – [PronType](koi_uh-feat-PronType.html) – [Reflex](koi_uh-feat-Reflex.html) – [Tense](koi_uh-feat-Tense.html) – [Variant](koi_uh-feat-Variant.html) – [VerbForm](koi_uh-feat-VerbForm.html) – [VerbType](koi_uh-feat-VerbType.html)
 
 ## Relations
 
@@ -435,6 +435,14 @@ Work connected to this treebank is described in following publication. If you us
     <ul>
       <li>ADJ: буржык</li>
       <li>ADV: дыржык</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Dim
+    <ul>
+      <li>NOUN: видзоккез, керкуокыс, пельӧсокӧ</li>
     </ul>
   </li>
 </ul>
@@ -783,11 +791,6 @@ Work connected to this treebank is described in following publication. If you us
           <li>VERB-Part: гардчӧмкодь</li>
         </ul>
       </li>
-      <li>Dimin
-        <ul>
-          <li>NOUN: видзоккез, керкуокыс, пельӧсокӧ</li>
-        </ul>
-      </li>
       <li>Ik
         <ul>
           <li>VERB-Conv: жмитікӧ, лӧсьӧтікӧ</li>
@@ -879,18 +882,6 @@ Work connected to this treebank is described in following publication. If you us
           <li>ADP: бердас, кежас, кузяс</li>
           <li>NOUN: йӧрсӧ, гортас, дорас, луныс, ойнас, олісьыс, соседыс, Абызсö, Кагаыс, Льӧмваыстӧг</li>
           <li>PRON: Мӧдыс, кыкнаннысӧ</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li><a>Valency</a>
-    <ul>
-      <li>1
-        <ul>
-          <li>VERB-Inf: овны, тӧдны</li>
         </ul>
       </li>
     </ul>

@@ -141,4 +141,4 @@ Post-verbal aspect markers include 過 _guo_ (experiential), 着/著 _zhe_ (dura
 4	him."	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:10 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:04:00 CEST -->

@@ -57,4 +57,4 @@ This is a subtype of number in Moksha, and it is a regular inflection of virtual
 * [mdf] _кафонц носилкат_ "_two stretchers_"
 
 
-<!-- Interlanguage links updated Po lis 14 15:34:52 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:43 CEST -->

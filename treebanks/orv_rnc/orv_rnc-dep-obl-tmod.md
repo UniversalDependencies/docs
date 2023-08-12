@@ -23,13 +23,13 @@ The following 1 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 8 obl:tmod	color:blue
-1	Да	да	CCONJ	_	_	6	cc	_	wf="Да"|SpaceAfter=Yes
-2	в	въ	ADP	_	_	3	case	_	wf="в"|SpaceAfter=Yes
-3	Бѣлев	Бѣлевъ	PROPN	_	Case=Acc|Gender=Masc|NameType=Geo|Number=Sing	4	obl	_	wf="Бѣлев"|SpaceAfter=Yes
-4	пришед	приити	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	6	advcl	_	wf="пришед"|SpaceAfter=Yes
-5	стругом	стругъ	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	6	obl	_	wf="стругом"|SpaceAfter=Yes
-6	стоял	стояти	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	wf="стоял"|SpaceAfter=Yes
-7	пят(ь)	пять	NUM	_	Case=Acc|NumForm=Word|NumType=Card	8	nummod:gov	_	wf="пять"|SpaceAfter=Yes
+1	Да	да	CCONJ	_	_	6	cc	_	wf="Да"|_
+2	в	въ	ADP	_	_	3	case	_	wf="в"|_
+3	Бѣлев	Бѣлевъ	PROPN	_	Case=Acc|Gender=Masc|NameType=Geo|Number=Sing	4	obl	_	wf="Бѣлев"|_
+4	пришед	приити	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	6	advcl	_	wf="пришед"|_
+5	стругом	стругъ	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	6	obl	_	wf="стругом"|_
+6	стоял	стояти	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	wf="стоял"|_
+7	пят(ь)	пять	NUM	_	Case=Acc|NumForm=Word|NumType=Card	8	nummod:gov	_	wf="пять"|_
 8	ден	день	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	6	obl:tmod	_	wf="ден"|SpaceAfter=No
 9	.	.	PUNCT	_	_	6	punct	_	wf="."|SpaceAfter=No
 

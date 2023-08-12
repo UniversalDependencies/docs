@@ -45,4 +45,4 @@ The quality of one object is compared to the same quality of another object, and
 
 #### Examples
 - _oːn suːr -n <b>=eːt</b> =hoːk / miskiːn ak -eːtiːt /_ "he became poor as before"
-<!-- Interlanguage links updated Po lis 14 15:34:43 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:35 CEST -->

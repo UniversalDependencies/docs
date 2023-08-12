@@ -22,14 +22,14 @@ The following 11 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 case	color:blue
-1	ආර්ථිකය	ආර්ථික	NOUN	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing	3	dep	_	_
-2	පිළිබඳ	පිළිබඳ	ADP	_	AdpType=Post	1	case	_	_
-3	දැනුම	දැනුම	NOUN	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|VerbForm=Vnoun	6	nsubj	_	_
-4	එහි	එහි	ADV	_	AdvType=Loc	6	advmod	_	_
-5	දී	දී	PART	_	AdpType=Post	4	case	_	_
-6	අනිවාර්ය	අනිවාර්ය	NOUN	_	_	0	root	_	_
-7	වේ	වෙ	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	6	compound:lvc	_	_
-8	.	.	PUNCT	_	_	6	punct	_	_
+1	ආර්ථිකය	ආර්ථික	NOUN	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing	3	dep	_	Translit=ārthikaya|LTranslit=ārthika
+2	පිළිබඳ	පිළිබඳ	ADP	_	AdpType=Post	1	case	_	Translit=piḷibaňda|LTranslit=piḷibaňda
+3	දැනුම	දැනුම	NOUN	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|VerbForm=Vnoun	6	nsubj	_	Translit=dænuma|LTranslit=dænuma
+4	එහි	එහි	ADV	_	AdvType=Loc	6	advmod	_	Translit=ehi|LTranslit=ehi
+5	දී	දී	PART	_	AdpType=Post	4	case	_	Translit=dī|LTranslit=dī
+6	අනිවාර්ය	අනිවාර්ය	NOUN	_	_	0	root	_	Translit=anivārya|LTranslit=anivārya
+7	වේ	වෙ	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	6	compound:lvc	_	Translit=vē|LTranslit=ve
+8	.	.	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
@@ -40,15 +40,15 @@ The following 11 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 case	color:blue
-1	එසේ	එසේ	ADV	_	AdvType=Man	2	advmod	_	_
-2	ගිය	ය	VERB	_	Tense=Past|VerbForm=Part	4	acl	_	_
-3	සෑම	සෑම	DET	_	_	4	det	_	_
-4	කෙනාම	කෙනා	NOUN	_	Animacy=Anim|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	8	nsubj	_	_
-5	පාවා	පාව	VERB	_	Tense=Past|VerbForm=Part	6	compound:svc	_	_
-6	දෙන්නකු	දෙන	NOUN	_	Animacy=Anim|Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	8	obj	_	_
-7	ලෙස	ලෙස	PART	_	AdpType=Post	6	case	_	_
-8	සැලකේ	සලක	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
-9	.	.	PUNCT	_	_	8	punct	_	_
+1	එසේ	එසේ	ADV	_	AdvType=Man	2	advmod	_	Translit=esē|LTranslit=esē
+2	ගිය	ය	VERB	_	Tense=Past|VerbForm=Part	4	acl	_	Translit=giya|LTranslit=ya
+3	සෑම	සෑම	DET	_	_	4	det	_	Translit=sǣma|LTranslit=sǣma
+4	කෙනාම	කෙනා	NOUN	_	Animacy=Anim|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	8	nsubj	_	Translit=kenāma|LTranslit=kenā
+5	පාවා	පාව	VERB	_	Tense=Past|VerbForm=Part	6	compound:svc	_	Translit=pāvā|LTranslit=pāva
+6	දෙන්නකු	දෙන	NOUN	_	Animacy=Anim|Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	8	obj	_	Translit=dennaku|LTranslit=dena
+7	ලෙස	ලෙස	PART	_	AdpType=Post	6	case	_	Translit=lesa|LTranslit=lesa
+8	සැලකේ	සලක	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	Translit=sælakē|LTranslit=salaka
+9	.	.	PUNCT	_	_	8	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
@@ -59,15 +59,15 @@ The following 11 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 case	color:blue
-1	මෙහි	මේ	ADV	_	AdvType=Loc	6	advmod	_	_
-2	දී	දී	PART	_	AdpType=Post	1	case	_	_
-3	අයථා	අයථා	NOUN	_	Case=Nom	4	nmod	_	_
-4	ක්‍රියා	ක්‍රියා	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	6	nsubj	_	_
-5	ගණනාවක්	ගණන	NOUN	_	Definite=Ind|Gender=Neut|Number=Sing	4	dep	_	_
-6	සිදු	සිදු	PART	_	_	0	root	_	_
-7	වී	වෙ	VERB	_	Tense=Past|VerbForm=Part	6	compound:lvc	_	_
-8	ඇත	ඇත	AUX	_	Aspect=Perf|VerbForm=Fin	7	aux	_	_
-9	.	.	PUNCT	_	_	6	punct	_	_
+1	මෙහි	මේ	ADV	_	AdvType=Loc	6	advmod	_	Translit=mehi|LTranslit=mē
+2	දී	දී	PART	_	AdpType=Post	1	case	_	Translit=dī|LTranslit=dī
+3	අයථා	අයථා	NOUN	_	Case=Nom	4	nmod	_	Translit=ayathā|LTranslit=ayathā
+4	ක්‍රියා	ක්‍රියා	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	6	nsubj	_	Translit=kriyā|LTranslit=kriyā
+5	ගණනාවක්	ගණන	NOUN	_	Definite=Ind|Gender=Neut|Number=Sing	4	dep	_	Translit=gaṇanāvak|LTranslit=gaṇana
+6	සිදු	සිදු	PART	_	_	0	root	_	Translit=sidu|LTranslit=sidu
+7	වී	වෙ	VERB	_	Tense=Past|VerbForm=Part	6	compound:lvc	_	Translit=vī|LTranslit=ve
+8	ඇත	ඇත	AUX	_	Aspect=Perf|VerbForm=Fin	7	aux	_	Translit=æta|LTranslit=æta
+9	.	.	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

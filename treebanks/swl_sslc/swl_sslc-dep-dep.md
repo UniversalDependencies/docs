@@ -17,20 +17,15 @@ The following 5 pairs of parts of speech are connected with `dep`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 6 dep	color:blue
-1	GÅ-IN(L)	_	VERB	VB	_	0	root	_	_
-2	TILL	_	ADP	PP	_	3	case	_	_
-3	SKOG	_	NOUN	NN	_	1	obl	_	_
-4	RÖST-ANVÄNDA	_	VERB	VB	_	1	conj	_	_
-5	VAR	_	ADV	AB	_	4	ccomp	_	_
-6	GLOSA:(PF)@z	_	X	?	_	1	dep	_	_
-7	SÅG	_	VERB	VB	_	1	conj	_	_
-8	HÅL@b	_	NOUN	NN	_	7	obj	_	_
-9	RUND@kl	_	NOUN	NNKL	_	8	clf	_	_
+# visual-style 1 3 dep	color:blue
+1	FINNAS*INTE	_	VERB	VB	_	0	root	_	_
+2	FINNAS*INTE	_	VERB	VB	_	1	conj	_	_
+3	GLOSA:(PD)@z	_	X	?	_	1	dep	_	_
+4	PU@g	_	INTJ	G	_	1	discourse	_	_
 
 ~~~
 

@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Erzya-JR: Features: `Animacy`
 
-This feature is universal but the values `Hum` are language-specific.
+This feature is universal.
 It occurs with 2 different values: `Anim`, `Hum`.
 
 582 tokens (3%) have a non-empty value of `Animacy`.
@@ -38,7 +38,7 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
 
 * `Anim` (8; 10% of non-empty `Animacy`): <em>карводо, карвот, маравдо, мекште, промодо, псака, укскадо, унжадо</em>
 * `Hum` (73; 90% of non-empty `Animacy`): <em>атясь, ломанесь, аванть, коммунист, коммунистан, коммунистэнь, кудазоравась, ломанде, ломантне, ломантненень</em>
-* `EMPTY` (4983): <em>лангс, ёнов, лангсо, бандитэсь, партизантнэ, ланга, кедензэ, кудов, прянзо, ялгат</em>
+* `EMPTY` (4982): <em>лангс, ёнов, лангсо, бандитэсь, партизантнэ, ланга, кедензэ, кудов, прянзо, ялгат</em>
 
 `Animacy` seems to be **lexical feature** of `NOUN`. 100% lemmas (44) occur only with one value of `Animacy`.
 

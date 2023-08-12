@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Neg`, `Pos`.
 
-563 tokens (2%) have a non-empty value of `Polarity`.
-191 types (3%) occur at least once with a non-empty value of `Polarity`.
-77 lemmas (2%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 4 part-of-speech tags: <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (262; 1% instances), <tt><a href="qtd_sagt-pos-PART.html">PART</a></tt> (249; 1% instances), <tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> (39; 0% instances), <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> (13; 0% instances).
+511 tokens (1%) have a non-empty value of `Polarity`.
+184 types (3%) occur at least once with a non-empty value of `Polarity`.
+76 lemmas (2%) occur at least once with a non-empty value of `Polarity`.
+The feature is used with 2 part-of-speech tags: <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (262; 1% instances), <tt><a href="qtd_sagt-pos-PART.html">PART</a></tt> (249; 1% instances).
 
 ### `VERB`
 
@@ -48,28 +48,6 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 
 * `Neg` (249; 100% of non-empty `Polarity`): <em>nicht</em>
 * `EMPTY` (118): <em>değil, zu, an, hin, Ja, auf, nicht, to, weg</em>
-
-### `DET`
-
-39 <tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> tokens (2% of all `DET` tokens) have a non-empty value of `Polarity`.
-
-The most frequent other feature values with which `DET` and `Polarity` co-occurred: <tt><a href="qtd_sagt-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (39; 100%), <tt><a href="qtd_sagt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (39; 100%), <tt><a href="qtd_sagt-feat-PronType.html">PronType</a></tt><tt>=Neg</tt> (39; 100%), <tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (28; 72%), <tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Acc</tt> (22; 56%).
-
-`DET` tokens may have the following values of `Polarity`:
-
-* `Neg` (39; 100% of non-empty `Polarity`): <em>keine, kein, keinen</em>
-* `EMPTY` (1698): <em>bir, dem, die, der, ein, das, o, eine, den, her</em>
-
-### `PRON`
-
-13 <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Polarity`.
-
-The most frequent other feature values with which `PRON` and `Polarity` co-occurred: <tt><a href="qtd_sagt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="qtd_sagt-feat-PronType.html">PronType</a></tt><tt>=Neg</tt> (13; 100%), <tt><a href="qtd_sagt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12; 92%), <tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Acc</tt> (7; 54%).
-
-`PRON` tokens may have the following values of `Polarity`:
-
-* `Neg` (13; 100% of non-empty `Polarity`): <em>kein, keine, keiner, keinen, keines, keins</em>
-* `EMPTY` (4142): <em>ich, das, es, du, die, ben, o, wir, ondan, man</em>
 
 ## Relations with Agreement in `Polarity`
 

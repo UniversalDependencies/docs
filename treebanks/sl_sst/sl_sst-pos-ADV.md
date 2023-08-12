@@ -6,34 +6,31 @@ udver: '2'
 
 ## Treebank Statistics: UD_Slovenian-SST: POS Tags: `ADV`
 
-There are 349 `ADV` lemmas (9%), 361 `ADV` types (6%) and 2873 `ADV` tokens (10%).
+There are 348 `ADV` lemmas (9%), 361 `ADV` types (6%) and 2873 `ADV` tokens (10%).
 Out of 16 observed tags, the rank of `ADV` is: 4 in number of lemmas, 4 in number of types and 3 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: <em>tako, zdaj, a, pol, kako, lahko, tam, kar, potem, res</em>
 
 The 10 most frequent `ADV` types:  <em>tako, zdaj, a, pol, kako, lahko, tam, kar, potem, res</em>
 
-The 10 most frequent ambiguous lemmas: <em>tako</em> (<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 233, <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 51), <em>a</em> (<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 137, <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 16, <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="sl_sst-pos-X.html">X</a></tt> 1), <em>pol</em> (<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 113, <tt><a href="sl_sst-pos-DET.html">DET</a></tt> 9), <em>kar</em> (<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 71, <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> 36), <em>kaj</em> (<tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> 196, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 43, <tt><a href="sl_sst-pos-X.html">X</a></tt> 1), <em>nič</em> (<tt><a href="sl_sst-pos-DET.html">DET</a></tt> 42, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 22), <em>zato</em> (<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 20, <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 6), <em>glede</em> (<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 16, <tt><a href="sl_sst-pos-ADP.html">ADP</a></tt> 1), <em>super</em> (<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 13, <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 3), <em>ali</em> (<tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 113, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 12)
+The 10 most frequent ambiguous lemmas: <em>tako</em> (<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 233, <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 51), <em>a</em> (<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 137, <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 16, <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="sl_sst-pos-X.html">X</a></tt> 1), <em>pol</em> (<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 113, <tt><a href="sl_sst-pos-DET.html">DET</a></tt> 9), <em>kar</em> (<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 71, <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> 36), <em>kaj</em> (<tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> 197, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 43, <tt><a href="sl_sst-pos-X.html">X</a></tt> 1), <em>nič</em> (<tt><a href="sl_sst-pos-DET.html">DET</a></tt> 42, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 22), <em>zato</em> (<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 20, <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 6), <em>glede</em> (<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 16, <tt><a href="sl_sst-pos-ADP.html">ADP</a></tt> 1), <em>super</em> (<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 13, <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 3), <em>ali</em> (<tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 113, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 12)
 
-The 10 most frequent ambiguous types:  <em>tako</em> (<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 233, <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 51, <tt><a href="sl_sst-pos-DET.html">DET</a></tt> 11), <em>zdaj</em> (<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 169, <tt><a href="sl_sst-pos-X.html">X</a></tt> 1), <em>a</em> (<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 137, <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 16, <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="sl_sst-pos-X.html">X</a></tt> 4, <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 3), <em>pol</em> (<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 113, <tt><a href="sl_sst-pos-DET.html">DET</a></tt> 9), <em>kako</em> (<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 105, <tt><a href="sl_sst-pos-DET.html">DET</a></tt> 6), <em>lahko</em> (<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 100, <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 2), <em>kar</em> (<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 71, <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> 34), <em>dobro</em> (<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 46, <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 18), <em>kaj</em> (<tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> 185, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 43, <tt><a href="sl_sst-pos-X.html">X</a></tt> 1), <em>verjetno</em> (<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 24, <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>tako</em> (<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 233, <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 51, <tt><a href="sl_sst-pos-DET.html">DET</a></tt> 11), <em>a</em> (<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 137, <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 16, <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="sl_sst-pos-X.html">X</a></tt> 1), <em>pol</em> (<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 113, <tt><a href="sl_sst-pos-DET.html">DET</a></tt> 9), <em>kako</em> (<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 105, <tt><a href="sl_sst-pos-DET.html">DET</a></tt> 6), <em>lahko</em> (<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 100, <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 2), <em>kar</em> (<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 71, <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> 34), <em>dobro</em> (<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 46, <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 18), <em>kaj</em> (<tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> 186, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 43, <tt><a href="sl_sst-pos-X.html">X</a></tt> 1), <em>verjetno</em> (<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 24, <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 1), <em>nič</em> (<tt><a href="sl_sst-pos-DET.html">DET</a></tt> 41, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 22)
 
 
 * <em>tako</em>
   * <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 233: <em>in <b>tako</b> so oni nekako izvabili ven resnico oziroma odkrili laž</em>
   * <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 51: <em><b>tako</b> da mogoče je to celo zanimivo ne</em>
   * <tt><a href="sl_sst-pos-DET.html">DET</a></tt> 11: <em>o <b>tako</b> obleko bi jaz imela</em>
-* <em>zdaj</em>
-  * <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 169: <em>to je <b>zdaj</b> mi jim lahko višino tona s tem določamo ne</em>
-  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 1: <em>nisem ga iskala ampak sem srečala v tečaj slovenščine na začetku eem sem srečala moj z [gap] <b>zdaj</b> [gap] eee moj</em>
 * <em>a</em>
   * <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 137: <em><b>a</b> res ali kaj ?</em>
   * <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 16: <em><b>a</b></em>
   * <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 6: <em>da je to [gap] mislim <b>a</b></em>
-  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 4: <em><b>a</b> [gap] ampak jaz se ga spomnim kot profesorja ki sebe daje</em>
   * <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 3: <em><b>a</b> jaz ja takvida</em>
+  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 1: <em>v nadaljevanju pesem iz osemdesetih belinda karlyle heaven is <b>a</b> place on earth pa star čebelji pregovor tudi sledi</em>
 * <em>pol</em>
   * <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 113: <em>ja pa so vam <b>pol</b> tudi gnoj dali za te njive pa ?</em>
-  * <tt><a href="sl_sst-pos-DET.html">DET</a></tt> 9: <em>mid [gap] on je mene <b>pol</b> ure spraševal</em>
+  * <tt><a href="sl_sst-pos-DET.html">DET</a></tt> 9: <em>mid- [gap] on je mene <b>pol</b> ure spraševal</em>
 * <em>kako</em>
   * <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 105: <em>eee <b>kako</b> ste pa vi iskali svojega cimra sostanovalca cimra ?</em>
   * <tt><a href="sl_sst-pos-DET.html">DET</a></tt> 6: <em><b>kako</b> frekvenčno območje pa mi slišimo ?</em>
@@ -47,16 +44,19 @@ The 10 most frequent ambiguous types:  <em>tako</em> (<tt><a href="sl_sst-pos-AD
   * <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 46: <em>[speaker:laughter] <b>dobro</b> jaz se nisem eem</em>
   * <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 18: <em>no le daj … super ti gre … saj ni tako <b>dobro</b></em>
 * <em>kaj</em>
-  * <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> 185: <em>a res ali <b>kaj</b> ?</em>
+  * <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> 186: <em>a res ali <b>kaj</b> ?</em>
   * <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 43: <em>bomo tukaj <b>kaj</b> gradbeni material zapisali ?</em>
-  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 1: <em><b>kaj</b> zar [gap] in to niso tiste ki kažejo tudi razpoloženje ne</em>
+  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 1: <em><b>kaj</b> zar- [gap] in to niso tiste ki kažejo tudi razpoloženje ne</em>
 * <em>verjetno</em>
   * <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 24: <em><b>verjetno</b> je tudi v teh ugotovitvah naše poslušalke kar precej soli ne</em>
   * <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 1: <em>eee delo to je zelo malo <b>verjetno</b> da bi bila kaka taka eee recimo proza eee čisto nekaj takega ne</em>
+* <em>nič</em>
+  * <tt><a href="sl_sst-pos-DET.html">DET</a></tt> 41: <em>ja kar stopi ja tako tako … ja absolutno še noben ni skoraj <b>nič</b> [gap] ja</em>
+  * <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 22: <em>vsi pravijo da tam <b>nič</b> ne more noben zmeniti</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.034384 (the average of all parts of speech is 1.570645).
+The form / lemma ratio of `ADV` is 1.037356 (the average of all parts of speech is 1.573353).
 
 The 1st highest number of forms (4) was observed with the lemma “dobro”: <em>bolje, boljše, dobro, najboljše</em>.
 

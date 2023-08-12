@@ -36,7 +36,7 @@ The following 16 pairs of parts of speech are connected with `advcl`: <tt><a hre
 12	も	も	ADP	助詞-係助詞	_	10	case	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|SpaceAfter=No|UnidicInfo=,も,も,も,モ,,,モ,モ,も
 13	優れ	優れる	VERB	動詞-一般-下一段-ラ行	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|SpaceAfter=No|UnidicInfo=,優れる,優れ,優れる,スグレ,,,スグレル,スグレル,優れる
 14	ている	ている	AUX	助動詞-上一段-ア行	_	13	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=;,て;居る,て;いる,て;いる,テ;イル,;,;,テ;イル,テイル,ている
-15	。	。	PUNCT	補助記号-句点	_	13	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=Yes|UnidicInfo=,。,。,。,,,,,,。
+15	。	。	PUNCT	補助記号-句点	_	13	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|UnidicInfo=,。,。,。,,,,,,。
 
 ~~~
 

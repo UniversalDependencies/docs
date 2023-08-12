@@ -55,11 +55,14 @@ det(women, the-two)
 
 * Articles: _ein_ “a”, _der_ “the”
 * Possessive personal determiners: _mein_ “my”, _dein_ “your”, _sein_ “his, its”, _ihr_ “her, their”, _unser_ “our”, _euer_ “your”
-* Demonstratives: _dieser_ “this”, _jener_ “that”, _dergleiche_ “the same”, _derjenige_ “the (one)”, _derselbe_ “the same”
+* Demonstratives: _dieser_ “this”, _jener_ “that”, _ebendieser_ “this”, _dergleiche_ “the same”, _derjenige_ “the (one)”, _derselbe_ “the same”, _selbig_ “same”, _solcher_ “such”
+* Emphatic determiners: _selber_ “oneself, same”
 * Interrogative determiners: _welcher_ “which”
-* Total determiners: _jeder_ “every”, _alle_ “all”, _beide_ “both”
+* Interrogative quantifiers: _wieviel_ “how many”
+* Total determiners: _jeder_ “every”, _alle_ “all”, _beide_ “both”, _sämtlich_ “all”
 * Negative determiners: _kein_ “no”
-* Indefinite quantifiers: _viel_ “much/many”, _mehr_ “more”, _wenig_ “little/few”, _weniger_ “less/fewer”
+* Indefinite determiners: _einige_ “some”, _etliche_ “several”, _irgendein_ “any”, _irgendwelcher_ “any”, _jedweder_ “any”, _jeglicher_ “any, every”, _mancher_ “some”
+* Indefinite quantifiers: _viel_ “much/many”, _soviel_ “so much/many”, _ebensoviel_ “just as much/many”, _mehr_ “more”, _meist_ “most”<!--but this one may be different from viel because it probably does not occur (so much?) with uncountables-->, _wenig_ “little/few”, _weniger_ “less/fewer”, _zuviel_ “too much/many”, _zuwenig_ “too little/few”
 
 As a predeterminer before the definite article, _all_ occurs without the inflectional suffix, but it is still kept
 as a form of the lexeme _alle_: _In <b>all</b> den Jahren waren wir mit den Ergebnissen sehr zufrieden._
@@ -73,7 +76,10 @@ they replace the article. They are tagged `DET`, too.
 
 ### Examples
 
+* Demonstratives: _derlei_ “such”, _solcherlei_ “such”
 * Total determiners: _allerlei_ “all kinds of”, _allerhand_ “all sorts”
+* Negative determiners: _keinerlei_ “none at all”
+* Indefinite determiners: _mancherlei_ “various”, _vielerlei_ “many”, _tausenderlei_ “thousands”, _zweierlei_ “dual”
 
 ### Determiners vs. Pronouns
 
@@ -122,7 +128,7 @@ by a determiner (but this is not a requirement either).
 
 The quantifiers _viel_ “much/many”, _mehr_ “more”, _wenig_ “little/few”, _weniger_ “less/fewer” are tagged `DET`,
 although their behavior partially differs from that of the other determiners. But it differs from other word classes,
-too. They are not tagged [NUM](), as this category is reserved for defnite cardinal numerals. In addition to the `DET`
+too. They are not tagged [NUM](), as this category is reserved for definite cardinal numerals. In addition to the `DET`
 UPOS tag, they have [PronType]()`=Ind`.
 
 With countable nouns, the quantifier takes a suffix that signals agreement in gender, number and case:
@@ -155,3 +161,4 @@ They are tagged [ADV]() at present but this may be revised in the future.
   spelled with a lowercase “b”, indicating that it is no longer considered a noun; together the fixed expression works
   like a degree adverb or an indeclinable quantifier for uncountable nouns => we tentatively tag _bisschen_ as [ADV]()
   with `PronType=Ind`
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:24 CEST -->

@@ -73,7 +73,7 @@ The following 8 pairs of parts of speech are connected with `root`: -<tt><a href
 20	ない	ない	AUX	助動詞-助動詞-ナイ	Polarity=Neg	18	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助動詞-助動詞-ナイ|SpaceAfter=No|UnidicInfo=,ない,ない,ない,ナイ,,,ナイ,ナイ,ない
 21	こと	事	NOUN	名詞-普通名詞-一般	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UnidicInfo=,事,こと,こと,コト,,,コト,コト,事
 22	だ	だ	AUX	助動詞-助動詞-ダ	_	21	cop	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞-助動詞-ダ|SpaceAfter=No|UnidicInfo=,だ,だ,だ,ダ,,,ダ,ダ,だ
-23	。	。	PUNCT	補助記号-句点	_	21	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-句点|SpaceAfter=Yes|UnidicInfo=,。,。,。,,,,,,。
+23	。	。	PUNCT	補助記号-句点	_	21	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-句点|UnidicInfo=,。,。,。,,,,,,。
 
 ~~~
 
@@ -91,7 +91,7 @@ The following 8 pairs of parts of speech are connected with `root`: -<tt><a href
 5	すぎる	過ぎる	VERB	動詞-非自立可能-上一段-ガ行	_	4	advcl	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=I|LUWPOS=動詞-一般-上一段-ガ行|PrevUDLemma=すぎる|SpaceAfter=No|UnidicInfo=,過ぎる,すぎる,すぎる,スギル,,,スギル,カタクルシスギル,堅苦し過ぎる
 6	の	の	SCONJ	助詞-準体助詞	_	4	mark	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞-助動詞-ダ|SpaceAfter=No|UnidicInfo=,の,の,の,ノ,,,ノ,ノダ,のだ
 7	だろう	だ	AUX	助動詞-助動詞-ダ	_	6	fixed	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=I|LUWPOS=助動詞-助動詞-ダ|SpaceAfter=No|UnidicInfo=,だ,だろう,だ,ダロー,,,ダ,ノダ,のだ
-8	。	。	PUNCT	補助記号-句点	_	4	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-句点|SpaceAfter=Yes|UnidicInfo=,。,。,。,,,,,,。
+8	。	。	PUNCT	補助記号-句点	_	4	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-句点|UnidicInfo=,。,。,。,,,,,,。
 
 ~~~
 

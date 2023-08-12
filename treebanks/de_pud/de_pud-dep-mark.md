@@ -24,15 +24,15 @@ The following 10 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 12 6 mark	color:blue
 1	Ich	ich	PRON	PRP	Case=Nom|Number=Sing|Person=1	2	nsubj	_	_
 2	frage	fragen	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	_
-3	mich	ich	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Rcp	2	iobj	_	_
+3	mich	ich	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Rcp	2	obj	_	_
 4	auch	auch	ADV	RB	Degree=Pos	2	advmod	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	12	punct	_	_
 6	ob	ob	SCONJ	CC	_	12	mark	_	_
-7	der	der	DET	DT	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|Person=3	9	det	_	_
-8	Davis	Davis	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	compound	_	_
-9	Cup	Cup	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	nsubj	_	Proper=True
-10	eine	ein	DET	DT	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|Person=3	11	det	_	_
-11	Rolle	Rolle	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	12	obj	_	_
+7	der	der	DET	DT	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	Davis	Davis	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing	9	compound	_	_
+9	Cup	Cup	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	Proper=True
+10	eine	ein	DET	DT	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|NumType=Card|PronType=Art	11	det	_	_
+11	Rolle	Rolle	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	12	obj	_	_
 12	spielte	spielen	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	ccomp	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -45,13 +45,13 @@ The following 10 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 9 mark	color:blue
-1	Es	es	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3	4	expl	_	_
+1	Es	es	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	expl	_	_
 2	ist	sein	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	cop	_	_
-3	sein	sein	PRON	DTP$	Case=Nom|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|PronType=Prs	4	nmod:poss	_	_
-4	Traum	Traum	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	SpaceAfter=No
+3	sein	sein	DET	DTP$	Case=Nom|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	4	det:poss	_	_
+4	Traum	Traum	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	10	punct	_	_
-6	seine	sein	PRON	DTP$	Case=Acc|Gender=Fem|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|PronType=Prs	7	nmod:poss	_	_
-7	Laufbahn	Laufbahn	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	10	obj	_	_
+6	seine	sein	DET	DTP$	Case=Acc|Gender=Fem|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	Laufbahn	Laufbahn	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	10	obj	_	_
 8	hier	hier	ADV	RB	Degree=Pos	10	advmod	_	_
 9	zu	zu	PART	RP	_	10	mark	_	_
 10	beenden	beenden	VERB	VB	_	4	csubj	_	SpaceAfter=No
@@ -66,22 +66,22 @@ The following 10 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 6 mark	color:blue
-1	Es	es	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3	4	expl	_	_
+1	Es	es	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	expl	_	_
 2	ist	sein	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	cop	_	_
 3	schwer	schwer	ADV	RB	Degree=Pos	4	advmod	_	_
 4	vorstellbar	vorstellbar	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	11	punct	_	_
 6	dass	dass	SCONJ	CC	_	11	mark	_	_
-7	Italiens	Italien	PROPN	NNP	Case=Gen|Gender=Neut|Number=Sing|Person=3	10	nmod:poss	_	_
-8	U	U	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur|Person=3	10	compound	_	SpaceAfter=No
+7	Italiens	Italien	PROPN	NNP	Case=Gen|Gender=Neut|Number=Sing	10	nmod:poss	_	_
+8	U	U	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur	10	compound	_	SpaceAfter=No
 9	-	-	PUNCT	-	_	8	punct	_	SpaceAfter=No
-10	Bahnlinien	Bahnlinie	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur|Person=3	11	nsubj	_	_
+10	Bahnlinien	Bahnlinie	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur	11	nsubj	_	_
 11	kürzer	kurz	ADJ	JJ	Degree=Cmp	4	csubj	_	_
 12	sind	sein	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres	11	cop	_	_
 13	als	als	CCONJ	CC	_	14	cc	_	_
-14	die	der	DET	DT	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|Person=3	11	conj	_	_
+14	die	der	DET	DT	Case=Nom|Definite=Def|Number=Plur|PronType=Art	11	conj	_	_
 15	von	von	ADP	IN	_	16	case	_	_
-16	Madrid	Madrid	PROPN	NNP	Case=Dat|Gender=Neut|Number=Sing|Person=3	14	nmod	_	SpaceAfter=No
+16	Madrid	Madrid	PROPN	NNP	Case=Dat|Gender=Neut|Number=Sing	14	nmod	_	SpaceAfter=No
 17	.	.	PUNCT	.	_	4	punct	_	_
 
 ~~~

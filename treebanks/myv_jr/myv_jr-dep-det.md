@@ -30,7 +30,7 @@ The following 11 pairs of parts of speech are connected with `det`: <tt><a href=
 6	вай	вай	INTJ	Interj	_	2	conj	_	GTtags=|SpaceAfter=No
 7	!	!	PUNCT	CLB	_	6	punct	_	_
 8	―	―	PUNCT	PUNCT	_	9	punct	_	_
-9	сергедевсь	сергедевемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	2	parataxis	_	GTtags=IV,Ind,Prt1,ScSg3
+9	сергедевсь	сергедевемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	2	parataxis	_	GTtags=IV,Ind,Prt1,ScSg3
 10	Люба	Люба	PROPN	N	Animacy=Hum|Case=Nom|Definite=Ind|Gender=Fem|NameType=Giv|Number=Sing	9	nsubj	_	GTtags=Prop,Ant_Fem,Sg,Nom,Indef
 11	се	се	DET	Det	Number=Sing|PronType=Dem	12	det	_	GTtags=Dem,Sg
 12	шканть	шка	NOUN	N	Case=Gen|Definite=Def|Number=Sing	9	obl	_	GTtags=Sg,Gen,Def
@@ -48,7 +48,7 @@ The following 11 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 2 1 det	color:blue
 1	Весе	весе	PRON	Pron	Case=Nom|Definite=Ind|Number=Sing|PronType=Tot	2	det	_	GTtags=Tot,Sg,Nom,Indef
 2	тайгась	тайга	NOUN	N	Case=Nom|Definite=Def|Number=Sing	3	nsubj	_	GTtags=Sg,Nom,Def
-3	уды	удомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	0	root	_	GTtags=IV,Ind,Prs,ScSg3
+3	уды	удомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres	0	root	_	GTtags=IV,Ind,Prs,ScSg3
 4	кеме	кеме	ADJ	A	_	7	amod	_	GTtags=|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	6	punct	_	_
 6	плотна	плотна	ADJ	A	_	7	amod	_	_

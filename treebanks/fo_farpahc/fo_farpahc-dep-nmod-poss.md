@@ -71,11 +71,11 @@ The following 10 pairs of parts of speech are connected with `nmod:poss`: <tt><a
 5	trúliga	_	ADV	ADV	Degree=Pos	4	advmod	_	_
 6	á	_	ADP	RP	_	4	compound:prt	_	_
 7	í	_	ADP	P	_	8	case	_	_
-8	bönini	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	11	obl	_	_
+8	bönini	_	NOUN	N-D	Case=Dat|Definite=Def|Number=Sing	11	obl	_	_
 9	og	_	CCONJ	CONJ	_	11	cc	_	_
 10	í	_	ADP	P	_	11	case	_	_
 11	tænastu	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	4	obl	_	_
-12	orðsins	_	NOUN	N-G	Case=Gen|Definite=Ind|Number=Sing	11	nmod:poss	_	SpaceAfter=No
+12	orðsins	_	NOUN	N-G	Case=Gen|Definite=Def|Number=Sing	11	nmod:poss	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	12	punct	_	SpaceAfter=No
 14	"	_	PUNCT	"	_	13	punct	_	_
 

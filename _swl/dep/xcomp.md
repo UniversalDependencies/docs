@@ -11,4 +11,4 @@ An open clausal complement (`xcomp`) of a verb or an adjective is a predicative 
 DÅ@b PRO1 BESTÄMMA-SIG PRO1 PLUGGA TECKENSPRÅK \n Then I decided to study sign-language.
 xcomp(BESTÄMMA-SIG, PLUGGA)
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:46 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:04:34 CEST -->

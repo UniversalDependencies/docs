@@ -195,4 +195,4 @@ and in Caddo (Native American from Oklahoma).
 
 * [sq] _Ti <b>fliske</b> shqip!_ “You (surprisingly) speak Albanian!”
 
-<!-- Interlanguage links updated Po lis 14 15:34:49 CET 2022 -->
+<!-- Interlanguage links updated Út 9. května 2023, 20:03:40 CEST -->

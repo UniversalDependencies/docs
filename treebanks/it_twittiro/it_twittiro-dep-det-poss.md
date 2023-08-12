@@ -69,7 +69,7 @@ The following 6 pairs of parts of speech are connected with `det:poss`: <tt><a h
 23	cui	cui	PRON	PR	PronType=Rel	26	obl	_	_
 24	nn	non	ADV	BN	PronType=Neg	26	advmod	_	_
 25	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	26	expl:impers	_	_
-26	parla	parlare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	acl:relcl	_	SpaceAfter=\n
+26	parla	parlare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	acl:relcl	_	SpacesAfter=\n
 
 ~~~
 
@@ -96,7 +96,7 @@ The following 6 pairs of parts of speech are connected with `det:poss`: <tt><a h
 14	riforma	riforma	NOUN	S	Gender=Fem|Number=Sing	11	nmod	_	_
 15	Gelmini	Gelmini	PROPN	SP	_	14	nmod	_	_
 16	#labuonascuola	#labuonascuola	SYM	SYM	_	7	parataxis:hashtag	_	_
-17	#assunzioneprecariGaE	#assunzioneprecariGaE	SYM	SYM	_	7	parataxis:hashtag	_	SpaceAfter=\n
+17	#assunzioneprecariGaE	#assunzioneprecariGaE	SYM	SYM	_	7	parataxis:hashtag	_	SpacesAfter=\n
 
 ~~~
 

@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Persian-PerDT: POS Tags: `NUM`
 
 There are 383 `NUM` lemmas (1%), 384 `NUM` types (1%) and 6181 `NUM` tokens (1%).
-Out of 16 observed tags, the rank of `NUM` is: 5 in number of lemmas, 6 in number of types and 13 in number of tokens.
+Out of 16 observed tags, the rank of `NUM` is: 4 in number of lemmas, 6 in number of types and 13 in number of tokens.
 
 The 10 most frequent `NUM` lemmas: یک، دو، هزار، سه، میلیون، چهار، میلیارد، 10، 20، پنج
 
@@ -60,7 +60,7 @@ The 10 most frequent ambiguous types:  یک (<tt><a href="fa_perdt-pos-NUM.html"
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.002611 (the average of all parts of speech is 1.477395).
+The form / lemma ratio of `NUM` is 1.002611 (the average of all parts of speech is 1.486663).
 
 The 1st highest number of forms (2) was observed with the lemma “صد”: صد, صدها.
 
@@ -83,17 +83,17 @@ Examples: یک، دو، سه، چهار، 10، 20، پنج، 5، 2، هزار
 
 Parents of `NUM` nodes belong to 13 different parts of speech: <tt><a href="fa_perdt-pos-NOUN.html">NOUN</a></tt> (5067; 82% instances), <tt><a href="fa_perdt-pos-NUM.html">NUM</a></tt> (760; 12% instances), <tt><a href="fa_perdt-pos-ADJ.html">ADJ</a></tt> (232; 4% instances), <tt><a href="fa_perdt-pos-PROPN.html">PROPN</a></tt> (84; 1% instances), <tt><a href="fa_perdt-pos-VERB.html">VERB</a></tt> (19; 0% instances), <tt><a href="fa_perdt-pos-ADV.html">ADV</a></tt> (10; 0% instances), <tt><a href="fa_perdt-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="fa_perdt-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="fa_perdt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="fa_perdt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="fa_perdt-pos-PRON.html">PRON</a></tt> (1; 0% instances),  (1; 0% instances), <tt><a href="fa_perdt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
-4957 (80%) `NUM` nodes are leaves.
+4944 (80%) `NUM` nodes are leaves.
 
-987 (16%) `NUM` nodes have one child.
+1012 (16%) `NUM` nodes have one child.
 
-188 (3%) `NUM` nodes have two children.
+178 (3%) `NUM` nodes have two children.
 
-49 (1%) `NUM` nodes have three or more children.
+47 (1%) `NUM` nodes have three or more children.
 
 The highest child degree of a `NUM` node is 8.
 
-Children of `NUM` nodes are attached using 15 different relations: <tt><a href="fa_perdt-dep-flat-num.html">flat:num</a></tt> (607; 40% instances), <tt><a href="fa_perdt-dep-advmod.html">advmod</a></tt> (265; 17% instances), <tt><a href="fa_perdt-dep-case.html">case</a></tt> (211; 14% instances), <tt><a href="fa_perdt-dep-cc.html">cc</a></tt> (142; 9% instances), <tt><a href="fa_perdt-dep-conj.html">conj</a></tt> (80; 5% instances), <tt><a href="fa_perdt-dep-nummod.html">nummod</a></tt> (78; 5% instances), <tt><a href="fa_perdt-dep-nmod.html">nmod</a></tt> (49; 3% instances), <tt><a href="fa_perdt-dep-compound.html">compound</a></tt> (39; 3% instances), <tt><a href="fa_perdt-dep-punct.html">punct</a></tt> (31; 2% instances), <tt><a href="fa_perdt-dep-det.html">det</a></tt> (13; 1% instances), <tt><a href="fa_perdt-dep-amod.html">amod</a></tt> (11; 1% instances), <tt><a href="fa_perdt-dep-obl.html">obl</a></tt> (4; 0% instances), <tt><a href="fa_perdt-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="fa_perdt-dep-cop.html">cop</a></tt> (1; 0% instances), <tt><a href="fa_perdt-dep-nsubj.html">nsubj</a></tt> (1; 0% instances)
+Children of `NUM` nodes are attached using 15 different relations: <tt><a href="fa_perdt-dep-flat-num.html">flat:num</a></tt> (607; 40% instances), <tt><a href="fa_perdt-dep-advmod.html">advmod</a></tt> (265; 17% instances), <tt><a href="fa_perdt-dep-case.html">case</a></tt> (211; 14% instances), <tt><a href="fa_perdt-dep-cc.html">cc</a></tt> (142; 9% instances), <tt><a href="fa_perdt-dep-conj.html">conj</a></tt> (80; 5% instances), <tt><a href="fa_perdt-dep-nummod.html">nummod</a></tt> (78; 5% instances), <tt><a href="fa_perdt-dep-nmod.html">nmod</a></tt> (49; 3% instances), <tt><a href="fa_perdt-dep-compound.html">compound</a></tt> (39; 3% instances), <tt><a href="fa_perdt-dep-punct.html">punct</a></tt> (30; 2% instances), <tt><a href="fa_perdt-dep-det.html">det</a></tt> (13; 1% instances), <tt><a href="fa_perdt-dep-amod.html">amod</a></tt> (11; 1% instances), <tt><a href="fa_perdt-dep-obl.html">obl</a></tt> (4; 0% instances), <tt><a href="fa_perdt-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="fa_perdt-dep-cop.html">cop</a></tt> (1; 0% instances), <tt><a href="fa_perdt-dep-nsubj.html">nsubj</a></tt> (1; 0% instances)
 
-Children of `NUM` nodes belong to 12 different parts of speech: <tt><a href="fa_perdt-pos-NUM.html">NUM</a></tt> (760; 50% instances), <tt><a href="fa_perdt-pos-ADP.html">ADP</a></tt> (212; 14% instances), <tt><a href="fa_perdt-pos-ADJ.html">ADJ</a></tt> (179; 12% instances), <tt><a href="fa_perdt-pos-CCONJ.html">CCONJ</a></tt> (144; 9% instances), <tt><a href="fa_perdt-pos-ADV.html">ADV</a></tt> (98; 6% instances), <tt><a href="fa_perdt-pos-NOUN.html">NOUN</a></tt> (77; 5% instances), <tt><a href="fa_perdt-pos-PUNCT.html">PUNCT</a></tt> (31; 2% instances), <tt><a href="fa_perdt-pos-DET.html">DET</a></tt> (27; 2% instances), <tt><a href="fa_perdt-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="fa_perdt-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fa_perdt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="fa_perdt-pos-VERB.html">VERB</a></tt> (1; 0% instances)
+Children of `NUM` nodes belong to 12 different parts of speech: <tt><a href="fa_perdt-pos-NUM.html">NUM</a></tt> (760; 50% instances), <tt><a href="fa_perdt-pos-ADP.html">ADP</a></tt> (212; 14% instances), <tt><a href="fa_perdt-pos-ADJ.html">ADJ</a></tt> (179; 12% instances), <tt><a href="fa_perdt-pos-CCONJ.html">CCONJ</a></tt> (144; 9% instances), <tt><a href="fa_perdt-pos-ADV.html">ADV</a></tt> (98; 6% instances), <tt><a href="fa_perdt-pos-NOUN.html">NOUN</a></tt> (77; 5% instances), <tt><a href="fa_perdt-pos-PUNCT.html">PUNCT</a></tt> (30; 2% instances), <tt><a href="fa_perdt-pos-DET.html">DET</a></tt> (27; 2% instances), <tt><a href="fa_perdt-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="fa_perdt-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fa_perdt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="fa_perdt-pos-VERB.html">VERB</a></tt> (1; 0% instances)
 

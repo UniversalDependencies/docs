@@ -10,7 +10,7 @@ This feature is universal.
 It occurs with 2 different values: `Fem`, `Masc`.
 
 36401 tokens (29%) have a non-empty value of `Gender`.
-7006 types (40%) occur at least once with a non-empty value of `Gender`.
+7007 types (40%) occur at least once with a non-empty value of `Gender`.
 4486 lemmas (33%) occur at least once with a non-empty value of `Gender`.
 The feature is used with 7 part-of-speech tags: <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> (16933; 14% instances), <tt><a href="it_postwita-pos-DET.html">DET</a></tt> (12308; 10% instances), <tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt> (3540; 3% instances), <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> (1931; 2% instances), <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> (1596; 1% instances), <tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (92; 0% instances), <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
@@ -24,7 +24,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 * `Fem` (6939; 41% of non-empty `Gender`): <em>crisi, politica, manovra, vita, tv, foto, cosa, fiducia, gente, fine</em>
 * `Masc` (9994; 59% of non-empty `Gender`): <em>governo, video, anni, premier, lavoro, presidente, partiti, paese, italiani, professor</em>
-* `EMPTY` (662): <em>TT, spread, tweet, blog, leader, link, news, web, nov, prof</em>
+* `EMPTY` (662): <em>TT, spread, tweet, blog, leader, link, news, web, nov., account</em>
 
 <table>
   <tr><th>Paradigm <i>partito</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -32,7 +32,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
   <tr><td><tt><tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>partiti</em></td><td></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 98% lemmas (3185) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 98% lemmas (3184) occur only with one value of `Gender`.
 
 ### `DET`
 

@@ -21,5 +21,5 @@ The feature is used with 1 part-of-speech tags: <tt><a href="aqz_tudet-pos-ADV.h
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (30; 100% of non-empty `Polarity`): <em>nom, nõm, erom, rom, om</em>
-* `EMPTY` (32): <em>nom, erom, ãka, ebapa, erape, jõ, kojõpi, kɨrẽ, rom, eno</em>
+* `EMPTY` (33): <em>nom, erom, ãka, ebapa, erape, jõ, kete, kojõpi, kɨrẽ, rom</em>
 
