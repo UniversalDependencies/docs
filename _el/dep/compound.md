@@ -25,6 +25,8 @@ punct(απόφαση, -)
 compound(λέξης, κλειδί)
 ~~~
 
+- for adjective-noun or noun-noun combinations with the adjective is something like like γερο, and the first noun like παπα; these combinations may o
+
 - for combinations of numbers:
 
 ~~~ sdparse
