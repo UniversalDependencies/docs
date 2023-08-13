@@ -5,11 +5,9 @@ shortdef: 'compound'
 udver: '2'
 ---
 
-The `compound` relation is one of three relations for multiword expressions (MWEs) (the other two being `fixed` and `flat`). 
-Each language that uses `compound` should develop its own specific criteria based on morphosyntax (rather than lexicalization or semantic idiomaticity),
-though elsewhere the terms "compound" and "multiword expression" may be used more broadly.
+The `compound` relation is one of three relations for multiword expressions (MWEs) (the other two being `fixed` and `flat`).
 
-In the Pomak treebank it has been used for a particular type of noun-adjective formation:
+In the Pomak treebank the [compound]() relation has been used for a particular type of noun-adjective formation. Τhe morphosyntactic criterion is that the adjective follows the noun and forms a unit with it. 
 
 ~~~sdparse
 Hamdí-star
