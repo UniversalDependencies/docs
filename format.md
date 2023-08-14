@@ -17,9 +17,9 @@ Quick links:
 We use a revised version of [the CoNLL-X format](http://anthology.aclweb.org/W/W06/W06-2920.pdf) called CoNLL-U.
 Annotations are encoded in plain text files (UTF-8, [normalized to NFC](http://unicode.org/reports/tr15/), using only the LF character as line break, including an LF character at the end of file) with three types of lines:
 
- 1. Word lines containing the annotation of a word/token in 10 fields separated by single tab characters; see below.
- 2. Blank lines marking sentence boundaries.
- 3. Comment lines starting with hash (#).
+ 1. Word lines containing the annotation of a word/token/node in 10 fields separated by single tab characters; see below.
+ 2. Blank lines marking sentence boundaries. The last line of each sentence is a blank line.
+ 3. Sentence-level comments starting with hash (#). Comment lines occur at the beginning of sentences, before word lines.
 
 Sentences consist of one or more word lines, and word lines contain the following fields:
 
