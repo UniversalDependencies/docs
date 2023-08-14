@@ -9,4 +9,15 @@ The `flat` relation is one of three relations for multiword expressions multiwor
 
 The following specialisations of `flat` are used in Georgian:
 * [flat:name](_ka/dep/flat-name) for names.
+
+~~~ sdparse
+ნოდარ ერგაძე მეგობრებს ნიჭით ჩამოუვარდებოდა. \n 'Nodar Ergadze was inferior to his friends in talent.'
+flat:name(ნოდარ, ერგაძე)
+~~~
+
 * [flat:foreign](_ka/dep/flat-foreign) for foreign phrases.
+
+~~~ sdparse
+avocat défenseur
+flat:foreign(avocat, défenseur)
+~~~
