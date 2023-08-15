@@ -12,3 +12,7 @@ The <code>obl</code> relation is used for a nominal (noun, pronoun, noun phrase)
 obl(აკიაფდნენ, -ზე)
 case(-ზე, ცა)
 ~~~
+~~~ sdparse
+რთული გზებით მოდიან/VERB.
+obl(მოდიან, გზებით)
+~~~
