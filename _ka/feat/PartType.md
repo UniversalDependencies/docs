@@ -15,7 +15,7 @@ udver: '2'
 </tr>
 </table>
 
-The `PartType` feature typically applies to [particles](_ka/pos/PART) and to [adverbs](_ka/pos/ADV).
+The `PartType` feature typically applies to [particles](_ka/pos/PART), pronouns [pronouns](_ka/pos/PRON) and [adverbs](_ka/pos/ADV).
 
 ### <a name="Int">`Int`</a>: question particle
 
