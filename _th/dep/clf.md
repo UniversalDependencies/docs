@@ -5,7 +5,7 @@ shortdef: 'classifier'
 udver: '2'
 ---
 
-https://github.com/UniversalDependencies/docs/issues/878
+See also [issue 878](https://github.com/UniversalDependencies/docs/issues/878).
 
 <!-- Dne 29.07.2023 v 6:39 Siriluck Rattananiyomkul napsal(a): -->
 
