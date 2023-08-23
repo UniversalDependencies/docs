@@ -46,6 +46,7 @@ udver: '2'
 
 ### Relations Overview
 
+* Similarly to Chinese, Thai uses classifiers ([clf]()).
 * The following relation subtypes are used in Thai:
   * [nsubj:pass]() for nominal subjects of passive verbs
   * [csubj:pass]() for clausal subjects of passive verbs
