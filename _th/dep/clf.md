@@ -11,35 +11,26 @@ See also [issue 878](https://github.com/UniversalDependencies/docs/issues/878).
 
 Some examples with classifiers (CLF). Thai words are replaced with English words for readability but the Thai word order is preserved. There is a <span style="color:red">NUM</span>, a <span style="color:green">DET</span> and a <span style="color:blue">relative clause</span> together with a CLF.
 
-_book <span style="color:red">two</span> CLF <span style="color:green">this</span> <span style="color:blue">that I buy</span> stay on table_ → The whole sentence means "these two books that I bought are on a table." And the Thai words for "book" and "CLF" in this sentence are not the same word.
+* _book <span style="color:red">two</span> CLF <span style="color:green">this</span> <span style="color:blue">that I buy</span> stay on table_ → The whole sentence means "these two books that I bought are on a table." And the Thai words for "book" and "CLF" in this sentence are not the same word.
 
 From this sample, some words can be omitted:
 
-_book CLF <span style="color:green">this</span> <span style="color:blue">that I buy</span> stay on table_ → meaning "this book that I bought is on a table."
-
-_book <span style="color:red">two</span> CLF <span style="color:blue">that I buy</span> stay on table_ → meaning "two books that I bought are on a table."
-
-_book CLF <span style="color:blue">that I buy</span> stay on table_ → meaning "the book that I bought is on a table."
-
-_book <span style="color:green">this</span> <span style="color:blue">that I buy</span> stay on table_ → meaning "this book that I bought is on a table." This structure (with no CLF) can be used, esp in speaking. However, some CLF cannot be omitted when it is used with some noun.
-
-_book <span style="color:blue">that I buy</span> stay on table_ → meaning "a book that I bought is on a table."
-
-_\*book <span style="color:red">two</span> <span style="color:green">this</span> <span style="color:blue">that I buy</span> stay on table_ → this is ungrammatical because no CLF is used when NUM is used.
-
-_\*book <span style="color:red">two</span> <span style="color:blue">that I buy</span> stay on table_ → this is still ungrammatical because of no CLF.
-
-_\*book <span style="color:red">two</span> stay on table_ → this is also ungrammatical because no words are modified by "two" in this context. (There are exceptional contexts in which _book two_ would be acceptable and grammatical but we omit them here.)
+* _book CLF <span style="color:green">this</span> <span style="color:blue">that I buy</span> stay on table_ → meaning "this book that I bought is on a table."
+* _book <span style="color:red">two</span> CLF <span style="color:blue">that I buy</span> stay on table_ → meaning "two books that I bought are on a table."
+* _book CLF <span style="color:blue">that I buy</span> stay on table_ → meaning "the book that I bought is on a table."
+* _book <span style="color:green">this</span> <span style="color:blue">that I buy</span> stay on table_ → meaning "this book that I bought is on a table." This structure (with no CLF) can be used, esp in speaking. However, some CLF cannot be omitted when it is used with some noun.
+* _book <span style="color:blue">that I buy</span> stay on table_ → meaning "a book that I bought is on a table."
+* _\*book <span style="color:red">two</span> <span style="color:green">this</span> <span style="color:blue">that I buy</span> stay on table_ → this is ungrammatical because no CLF is used when NUM is used.
+* _\*book <span style="color:red">two</span> <span style="color:blue">that I buy</span> stay on table_ → this is still ungrammatical because of no CLF.
+* _\*book <span style="color:red">two</span> stay on table_ → this is also ungrammatical because no words are modified by "two" in this context. (There are exceptional contexts in which _book two_ would be acceptable and grammatical but we omit them here.)
 
 Sometimes 2 same classifiers can be used in the same sentence. For example,
 
-_book CLF1 big <span style="color:red">two</span> CLF2 <span style="color:green">this</span> <span style="color:blue">that I buy</span> stay on table_ → meaning "these two big books that I bought are on a table." The classifier CLF 1 is modified by "big", and the CLF2 is modified by "two", "this", and "that I buy". And the whole NP (two CLF2 this that I buy) modifies the NP (CLF1 big). And the whole NP (CLF1 big two CLF2 this that I buy) modifies "book" which is a head noun.
+* _book CLF1 big <span style="color:red">two</span> CLF2 <span style="color:green">this</span> <span style="color:blue">that I buy</span> stay on table_ → meaning "these two big books that I bought are on a table." The classifier CLF 1 is modified by "big", and the CLF2 is modified by "two", "this", and "that I buy". And the whole NP (two CLF2 this that I buy) modifies the NP (CLF1 big). And the whole NP (CLF1 big two CLF2 this that I buy) modifies "book" which is a head noun.
 
 There are constructions where it is not obvious whether a noun should be considered a classifier. For example,
 
-_cat CLF1 big <span style="color:red">two</span> CLF2 this cute_ → meaning "these two big cats are cute." CLF1 and CLF2 are the same word with same spelling. They have the same POS which is NOUN, but we are not sure if CLF1 would be a classifier or not. Some native speakers prefer to see it as an ordinary noun. BTW, "cute" is this Thai sentence is a verb, not adjective.
-
-I am not sure if CLF1 should be a classifier or not. This sample is different from the sample above with 2 CLFs. But I am sure that CLF2 is a classifier because "two" is used to modify CLF2. Both CLF1 and CLF2 are NOUN.
+* _cat CLF1 big <span style="color:red">two</span> CLF2 this cute_ → meaning "these two big cats are cute." CLF1 and CLF2 are the same word with same spelling. They have the same POS which is NOUN, but we are not sure if CLF1 would be a classifier or not. Some native speakers prefer to see it as an ordinary noun. BTW, "cute" is this Thai sentence is a verb, not adjective. This sample is different from the sample above with 2 CLFs. But CLF2 must be a classifier because "two" is used with CLF2. Both CLF1 and CLF2 are nouns.
 
 However, if "two CLF2 this" is omitted, CLF1 is a classifier.
 
