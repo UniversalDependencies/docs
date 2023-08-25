@@ -8,6 +8,7 @@ udver: '2'
 
 ## 2023
 
+  * [Workshop on UD treeanks for Turkic Languages](https://coltekin.github.io/ud-turkic-workshop/)
   * [6th Workshop on Universal Dependencies (UDW)](https://universaldependencies.org/udw23/)
 
 ## 2022
