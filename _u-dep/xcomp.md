@@ -10,8 +10,8 @@ predicative or clausal complement without its own subject. The
 reference of the subject is necessarily determined by an argument
 external to the xcomp (normally by the object of the next higher
 clause, if there is one, or else by the subject of the next higher
-clause). This is often referred to as *obligatory control*. 
-These clauses tend to be non-finite in many languages, 
+clause). This is often referred to as *obligatory control*.
+These clauses tend to be non-finite in many languages,
 but they can be finite as well. The name `xcomp` is
 borrowed from Lexical-Functional Grammar.
 
@@ -55,7 +55,7 @@ cop(liable, is)
 xcomp(liable, arrested)
 ~~~
 
-The clausal complement can be headed by various parts of speech, including a VERB, ADJ, or NOUN. The `xcomp`-taking predicate of the higher clause can be a VERB or ADJ. 
+The clausal complement can be headed by various parts of speech, including a VERB, ADJ, or NOUN. The `xcomp`-taking predicate of the higher clause can be a VERB or ADJ.
 
 Contrast with other complement clauses, which use [ccomp]():
 
@@ -73,7 +73,7 @@ ccomp(suggest, eating)
 
 In examples like "I consider her honest", the UD analysis corresponds to traditional grammar and what was termed "raising to object" in early generative grammar: the nominal "her" in these constructions is treated as the object of the higher clause (as its accusative morphology and ability to passivize suggests).
 
-Note that the above condition “without its own subject” does not mean that a 
+Note that the above condition “without its own subject” does not mean that a
 clause is an `xcomp` just because its subject is not _overt._ The subject must be necessarily inherited from a fixed position in the higher clause. That is, there should be no available interpretation where the subject of the lower clause may be distinct
 from the specified role of the upper clause. In cases where the missing subject may or must be distinct from a fixed role in the higher clause, `ccomp` should be used instead, as below.  This includes cases of arbitrary subjects and anaphoric control.
 
@@ -93,6 +93,22 @@ advcl(Píšu, slíbil)
 advcl(I-write, promised)
 aux(slíbil, jsem)
 aux(promised, I-have)
+obj(slíbil, to)
+obj(promised, it)
+mark(slíbil, protože)
+mark(promised, because)
+~~~
+
+~~~ sdparse
+Slíbil jsem , že budu psát . \n Promised I-have , that I-will write .
+ccomp(Slíbil, psát)
+ccomp(Promised, write)
+aux(Slíbil, jsem)
+aux(Promised, I-have)
+aux(psát, budu)
+aux(write, I-will)
+mark(psát, že)
+mark(write, that)
 ~~~
 
 It is only `xcomp` if the implicit subject depends on an argument from a higher clause (one cannot be varied without the other):
@@ -154,8 +170,8 @@ On the other hand, leaving out _beautiful_ in _she declared the cake beautiful_
 will either render the sentence ungrammatical or lead to a different interpretation of _declared._
 
 The result is that in _She entered the room sad_, _sad_ is considered a modifier (not complement) of the verb,
-with the relation [advcl]() instead of `xcomp`. 
-(This was [changed](/changes.html#optional-depictives) from the previous approach which analyzed the secondary predication directly with [acl](), 
+with the relation [advcl]() instead of `xcomp`.
+(This was [changed](/changes.html#optional-depictives) from the previous approach which analyzed the secondary predication directly with [acl](),
 because the nominal predicand is not always overt, and even when it is, the adjective does not really belong to the same nominal phrase.)
 
 ~~~ sdparse
@@ -178,7 +194,7 @@ advmod(recommended, not)
 punct(recommended, .)
 ~~~
 
-Notice that *while* can be inserted before *sad*, clearly marking it as a clause. 
+Notice that *while* can be inserted before *sad*, clearly marking it as a clause.
 
 A Czech example:
 
@@ -201,7 +217,7 @@ obj(walking, dog)
 punct(found, .)
 ~~~
 
-The optional secondary predication or controlled adjunct subject relation can be represented with an enhanced dependency edge 
+The optional secondary predication or controlled adjunct subject relation can be represented with an enhanced dependency edge
 in addition to the [advcl]() relation.
 
 <!-- Interlanguage links updated Út 9. května 2023, 20:04:34 CEST -->
