@@ -7,3 +7,4 @@ permalink: ka/dep/index.html
 
 # Dependencies
 
+{% include ka-dep-table.html %}
