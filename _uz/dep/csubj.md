@@ -1,4 +1,4 @@
-csubj: clausal subject
+## csubj: clausal subject
 A clausal subject is a clausal syntactic subject of a clause, i.e., the subject is itself a clause.
 ~~~ sdparse
 Xonani tozalashingiz kerak. \n You need to clean the room.

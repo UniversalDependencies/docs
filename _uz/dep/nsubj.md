@@ -1,4 +1,4 @@
-nsubj: nominal subject 
+## nsubj: nominal subject 
 A nominal subject is a noun phrase which is the syntactic subject of a clause.
 ~~~ sdparse
 Ahmad ishlaydi \n Ahmad works
