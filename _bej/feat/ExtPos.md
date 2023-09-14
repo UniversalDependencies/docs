@@ -12,13 +12,13 @@ Occasionally, `ExtPos` is used even if `ExtPos` = `upos`.
 `ExtPos` is used in the [SUD](https://surfacesyntacticud.github.io/) framework.
 It is kept in FEATS in the UD conversion.
 
-### <a name="SCONJ">`SCONJ`</a>
+### <a name="SCONJ">`SCONJ`</a>: subordinator-like expression
 
 #### Examples
 
 * _<b>=eːb oː= doːr</b>_ "when"
 
-### <a name="ADV">`ADV`</a>
+### <a name="ADV">`ADV`</a>: adverb-like expression
 
 #### Examples
 
