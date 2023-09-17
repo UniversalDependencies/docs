@@ -27,7 +27,7 @@ Sentences consist of one or more word lines, and word lines contain the followin
  2. FORM: Word form or punctuation symbol.
  3. LEMMA: Lemma or stem of word form.
  4. UPOS: [Universal part-of-speech tag](u/pos/index.html).
- 5. XPOS: Language-specific part-of-speech tag; underscore if not available.
+ 5. XPOS: Optional language-specific (or treebank-specific) part-of-speech / morphological tag; underscore if not available.
  6. FEATS: List of morphological features from the [universal feature inventory](u/feat/index.html) or from a defined [language-specific extension](ext-feat-index.html); underscore if not available.
  7. HEAD: Head of the current word, which is either a value of ID or zero (0).
  8. DEPREL: [Universal dependency relation](u/dep/index.html) to the HEAD ([root](u-dep/root) iff HEAD = 0) or a defined language-specific subtype of one.
@@ -129,8 +129,12 @@ invalid (and so would be 7 8-9 8.1 8 9).
 
 # Morphological Annotation
 
-The UPOS field contains a part-of-speech tag from the [universal POS tag](u/pos/index.html) set, while the XPOS optionally contains a language-specific part-of-speech tag, normally from a traditional, more fine-grained tagset. If the XPOS field is used, the treebank-specific documentation should define a mapping from XPOS to UPOS values (which may be context-sensitive
-and refer to other fields as well). If no language-specific tags are available, the XPOS field should contain an underscore for all words.
+The UPOS field contains a part-of-speech tag from the [universal POS tag](u/pos/index.html) set,
+while the XPOS optionally contains a language-specific (or even treebank-specific) part-of-speech
+/ morphological tag, normally from a traditional, more fine-grained tagset. If the XPOS field is
+used, the README file of the treebank should define a mapping from XPOS to UPOS values (which may
+be context-sensitive and refer to other fields as well). If no language-specific tags are available,
+the XPOS field should contain an underscore for all words.
 
 The FEATS field contains a list
 of morphological features, with vertical bar (\|) as list separator and with underscore to represent the empty list.
