@@ -5,12 +5,12 @@ shortdef: 'open clausal complement'
 udver: '2'
 ---
 
-An open clausal complement (`xcomp`) of a verb or an adjective is a
-predicative or clausal complement (i) without its own subject and (ii) for which the 
+An open clausal complement (`xcomp`) of a verb or an adjective is (i) a core argument of the verb, (ii) which is without its own subject and (iii) for which the 
 reference of the subject is necessarily determined by an argument
-external to the xcomp (normally, but not always, by the object of the next higher
+external to the `xcomp`. The second requirement is often referred to as *obligatory control*.
+An `xcomp` can also be described as a predicative complement The subject of the `xcomp` is normally, but not always, controlled by the object of the next higher
 clause, if there is one, or else by the subject of the next higher
-clause). The second requirement is often referred to as *obligatory control*.
+clause.
 These clauses tend to be non-finite in many languages,
 but they can be finite as well. The name `xcomp` is
 borrowed from Lexical-Functional Grammar (see Joan Bresnan, 2001, _Lexical-Functional Syntax_, chapter on “Predication Relations”).
@@ -71,9 +71,9 @@ cop(liable, is)
 xcomp(liable, arrested)
 ~~~
 
-The predicative complement can be headed by various parts of speech, including a VERB, ADJ, or NOUN. A nominal predicative complement can be marked by a preposition (particularly, in English, by _as_). The `xcomp`-taking predicate of the higher clause can be a VERB or ADJ.
+The predicative complement can be headed by various parts of speech, including a VERB, ADJ, or NOUN. A nominal predicative complement can be marked by a preposition (in English, often by _as_). The `xcomp`-taking predicate of the higher clause can be a VERB or ADJ.
 
-Contrast with other complement clauses, which use [ccomp]():
+Contrast `xcomp` with other complement clauses where there is an overt subject or no obligatory control, which use [ccomp]():
 
 ~~~ sdparse
 He says that you like to swim
@@ -91,7 +91,7 @@ In examples like "I consider her honest", the UD analysis corresponds to traditi
 
 Note that the above condition “without its own subject” does not mean that a
 clause is an `xcomp` just because its subject is not _overt._ The subject must be necessarily inherited from a fixed position in the higher clause. That is, there should be no available interpretation where the subject of the lower clause may be distinct
-from the specified role of the upper clause. In cases where the missing subject may or must be distinct from a fixed role in the higher clause, `ccomp` should be used instead, as below.  This includes cases of arbitrary subjects and anaphoric control. In the following example, the subject of _start_/_starting_ does not have to be the boss, it is any contextually relevant person or group of people. In addition, in these cases, the complement clause can often be replaced by a pronoun like _it_ and it can sometimes be passivized (_Starting the project was recommended by the boss_).
+from the specified role of the upper clause. In cases where the missing subject may or must be distinct from a fixed role in the higher clause, `ccomp` should be used instead, as below.  This includes cases of arbitrary subjects and anaphoric control. In the following example, the subject of _start_ or _starting_ does not have to be the boss, it is any contextually relevant person or group of people. In addition, in these cases, the complement clause can often be replaced by a pronoun like _it_ or _that_ and it can sometimes be passivized (_Starting the project was recommended by the boss_).
 
 ~~~ sdparse
 The boss said to start the project
@@ -246,9 +246,9 @@ in addition to the [advcl]() relation.
 Some other cases that _could_ be regarded as secondary predicates are just treated as obliques. In particular, locative arguments of verbs are always treated as obliques:
 
 ~~~ sdparse
-She put the book on the table .
+She put a book on the table .
 nsubj(put, She)
-det(book, the)
+det(book, a)
 obj(put, book)
 case(table, on)
 det(table, the)
