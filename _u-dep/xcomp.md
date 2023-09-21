@@ -6,14 +6,14 @@ udver: '2'
 ---
 
 An open clausal complement (`xcomp`) of a verb or an adjective is a
-predicative or clausal complement without its own subject. The
+predicative or clausal complement (i) without its own subject and (ii) for which the 
 reference of the subject is necessarily determined by an argument
-external to the xcomp (normally by the object of the next higher
+external to the xcomp (normally, but not always, by the object of the next higher
 clause, if there is one, or else by the subject of the next higher
-clause). This is often referred to as *obligatory control*.
+clause). The second requirement is often referred to as *obligatory control*.
 These clauses tend to be non-finite in many languages,
 but they can be finite as well. The name `xcomp` is
-borrowed from Lexical-Functional Grammar.
+borrowed from Lexical-Functional Grammar (see Joan Bresnan, 2001, _Lexical-Functional Syntax_, chapter on “Predication Relations”).
 
 ~~~ sdparse
 We expect them to change their minds
@@ -44,10 +44,26 @@ xcomp(consider, fool)
 ~~~
 
 ~~~ sdparse
+Louise struck me as a fool
+obj(struck, me)
+case(fool, as)
+xcomp(struck, fool)
+~~~
+
+~~~ sdparse
 I consider her honest
 obj(consider, her)
 xcomp(consider, honest)
 ~~~
+
+~~~ sdparse
+I regard her as honest
+obj(regard, her)
+mark(regard, as)
+xcomp(regard, honest)
+~~~
+
+
 
 ~~~ sdparse
 Susan is liable to be arrested
@@ -55,7 +71,7 @@ cop(liable, is)
 xcomp(liable, arrested)
 ~~~
 
-The clausal complement can be headed by various parts of speech, including a VERB, ADJ, or NOUN. The `xcomp`-taking predicate of the higher clause can be a VERB or ADJ.
+The predicative complement can be headed by various parts of speech, including a VERB, ADJ, or NOUN. A nominal predicative complement can be marked by a preposition (particularly, in English, by _as_). The `xcomp`-taking predicate of the higher clause can be a VERB or ADJ.
 
 Contrast with other complement clauses, which use [ccomp]():
 
@@ -75,12 +91,19 @@ In examples like "I consider her honest", the UD analysis corresponds to traditi
 
 Note that the above condition “without its own subject” does not mean that a
 clause is an `xcomp` just because its subject is not _overt._ The subject must be necessarily inherited from a fixed position in the higher clause. That is, there should be no available interpretation where the subject of the lower clause may be distinct
-from the specified role of the upper clause. In cases where the missing subject may or must be distinct from a fixed role in the higher clause, `ccomp` should be used instead, as below.  This includes cases of arbitrary subjects and anaphoric control.
+from the specified role of the upper clause. In cases where the missing subject may or must be distinct from a fixed role in the higher clause, `ccomp` should be used instead, as below.  This includes cases of arbitrary subjects and anaphoric control. In the following example, the subject of _start_/_starting_ does not have to be the boss, it is any contextually relevant person or group of people. In addition, in these cases, the complement clause can often be replaced by a pronoun like _it_ and it can sometimes be passivized (_Starting the project was recommended by the boss_).
 
 ~~~ sdparse
-The boss said to start digging
+The boss said to start the project
 ccomp(said, start)
 ~~~
+
+~~~ sdparse
+The boss recommended starting the project
+ccomp(recommended, starting)
+~~~
+
+
 
 Pro-drop languages have clauses where the subject is not present as a separate word,
 yet it is inherently present (and often deducible from the form of the verb).
@@ -160,8 +183,8 @@ obj(jmenovat, někoho)
 xcomp(jmenovat, generálem)
 ~~~
 
-Remember that `xcomp` is used for core arguments of clausal predicates
-so it will not be used for other instances of secondary predication.
+Remember that `xcomp` is used for core arguments of predicates
+so it will not be used for non-core instances of secondary predication.
 For instance, in _She entered the room sad_ we also have a double predication
 (she entered the room; she was sad).
 But _sad_ is not a core argument of _enter:_ leaving it out will neither affect grammaticality
@@ -219,5 +242,19 @@ punct(found, .)
 
 The optional secondary predication or controlled adjunct subject relation can be represented with an enhanced dependency edge
 in addition to the [advcl]() relation.
+
+Some other cases that _could_ be regarded as secondary predicates are just treated as obliques. In particular, locative arguments of verbs are always treated as obliques:
+
+~~~ sdparse
+She put the book on the table .
+nsubj(put, She)
+det(book, the)
+obj(put, book)
+case(table, on)
+det(table, the)
+obl(put, table)
+punct(put, .)
+~~~
+
 
 <!-- Interlanguage links updated Út 9. května 2023, 20:04:34 CEST -->
