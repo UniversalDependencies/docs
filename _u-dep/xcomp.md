@@ -7,7 +7,7 @@ udver: '2'
 
 An open clausal complement (`xcomp`) of a verb or an adjective is (i) a core argument of the verb, (ii) which is without its own subject and (iii) for which the 
 reference of the subject is necessarily determined by an argument
-external to the `xcomp`. The second requirement is often referred to as *obligatory control*.
+external to the `xcomp`. The third requirement is often referred to as *obligatory control*.
 An `xcomp` can also be described as a predicative complement The subject of the `xcomp` is normally, but not always, controlled by the object of the next higher
 clause, if there is one, or else by the subject of the next higher
 clause.
@@ -59,7 +59,7 @@ xcomp(consider, honest)
 ~~~ sdparse
 I regard her as honest
 obj(regard, her)
-mark(regard, as)
+mark(honest, as)
 xcomp(regard, honest)
 ~~~
 
@@ -92,7 +92,7 @@ ccomp(suggest, eating)
 
 ### The Inherited Subject Criterion
 
-In examples like "I consider her honest", the UD analysis corresponds to traditional grammar and what was termed "raising to object" in early generative grammar: the nominal "her" in these constructions is treated as the object of the higher clause (as its accusative morphology and ability to passivize suggests).
+In examples like “I consider her honest”, the UD analysis corresponds to traditional grammar and what was termed "raising to object" in early generative grammar: the nominal "her" in these constructions is treated as the object of the higher clause (as its accusative morphology and ability to passivize suggests).
 
 Note that the above condition “without its own subject” does not mean that a
 clause is an `xcomp` just because its subject is not _overt._ The subject must be necessarily inherited from a fixed position in the higher clause. That is, there should be no available interpretation where the subject of the lower clause may be distinct
