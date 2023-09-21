@@ -63,7 +63,12 @@ mark(regard, as)
 xcomp(regard, honest)
 ~~~
 
-
+~~~ sdparse
+We got COVID-19 under control
+obj(got, COVID-19)
+case(control, under)
+xcomp(got, control)
+~~~
 
 ~~~ sdparse
 Susan is liable to be arrested
@@ -71,7 +76,7 @@ cop(liable, is)
 xcomp(liable, arrested)
 ~~~
 
-The predicative complement can be headed by various parts of speech, including a VERB, ADJ, or NOUN. A nominal predicative complement can be marked by a preposition (in English, often by _as_). The `xcomp`-taking predicate of the higher clause can be a VERB or ADJ.
+The predicative complement can be headed by various parts of speech, including a VERB, ADJ, or NOUN. A nominal predicative complement can be marked by a preposition (in English, often but not always by _as_). The `xcomp`-taking predicate of the higher clause can be a VERB or ADJ.
 
 Contrast `xcomp` with other complement clauses where there is an overt subject or no obligatory control, which use [ccomp]():
 
