@@ -8,7 +8,7 @@ udver: '2'
 An open clausal complement (`xcomp`) of a verb or an adjective is (i) a core argument of the verb, (ii) which is without its own subject and (iii) for which the 
 reference of the subject is necessarily determined by an argument
 external to the `xcomp`. The third requirement is often referred to as *obligatory control*.
-An `xcomp` can also be described as a predicative complement The subject of the `xcomp` is normally, but not always, controlled by the object of the next higher
+An `xcomp` can also be described as a predicative complement. The subject of the `xcomp` is normally, but not always, controlled by the object of the next higher
 clause, if there is one, or else by the subject of the next higher
 clause.
 These clauses tend to be non-finite in many languages,
