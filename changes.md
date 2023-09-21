@@ -24,6 +24,8 @@ But some updates have been necessary to clarify how they should be applied to pa
 
 | &nbsp;&nbsp;#&nbsp;&nbsp; | Date<br>Decided | Effective<Br>Release | Type                     | Title                                         |
 |:-:|:------------:|:-----------------:|--------------------------|-----------------------------------------------|
+|10 | 2023-Sep     | 2.13              | CLARIFICATION            | [Adpositional Predicative Complements](#adpositional-predicative-complements)  |
+| 9 | 2023-Sep     | 2.13              | CLARIFICATION            | [Sufficiency and Excess Constructions](#sufficiency-and-excess-constructions)  |
 | 8 | 2023-Mar     | 2.12              | AMENDMENT, VALIDATOR     | [Typos in Multiword Tokens](#typos-in-multiword-tokens)  |
 | 7 | 2023-Jan     | 2.12              | AMENDMENT                | [Sole `iobj`](#sole-iobj)                     |
 | 6 | 2022-Dec     | 2.12              | AMENDMENT                | [Nested `flat`](#nested-flat)                 |
@@ -32,6 +34,14 @@ But some updates have been necessary to clarify how they should be applied to pa
 | 3 | 2022-Feb     | 2.10              | AMENDMENT                | [Reported Speech](#reported-speech)           |
 | 2 | 2022-Jan     | 2.10              | AMENDMENT, VALIDATOR     | [Typos and `goeswith`](#typos-and-goeswith)   |
 | 1 | 2021-Dec     | 2.10              | CLARIFICATION, VALIDATOR | [Deverbal Connectives](#deverbal-connectives) |
+
+### Adpositional Predicative Complements
+
+Examples of predicative complements marked with *as* etc. have been [added](https://github.com/UniversalDependencies/docs/compare/2a3ac4d374932411df18d9e3554475147ce0cccb...f6be3292e733f73fd838347a7602ce407742fb88) to the [xcomp]() guidelines.
+
+### Sufficiency and Excess Constructions
+
+[Guidelines](/u/overview/specific-syntax.html#sufficiency-and-excess) for constructions like *so X that Y* (*so dusty that I sneezed*) and *too X to Y* (*too slowly to finish on time*) have been [added](https://github.com/UniversalDependencies/docs/commit/c3dcd63a80bf9fda1d32275179e3a2e3f27724b4).
 
 ### Typos in Multiword Tokens
 
