@@ -545,6 +545,10 @@ advmod(dusty, so)
 advcl(dusty, sneezed)
 ~~~
 
+Here, *so* is the degree modifier and *dusty* is the degree-modified adjective. The adjective heads the [advcl]().
+
+Examples with degree modifiers *too* (pre-adverb) and *enough* (post-adjective):
+
 ~~~ sdparse
 You are working too slowly to finish on time
 advmod(slowly, too)
