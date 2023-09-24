@@ -33,7 +33,7 @@ Below the description of `fixed` expressions are a few idiomatic combinations th
 | Non-`fixed` Expressions |
 |-------------------------|
 | Double spatial prepositions: *out of*, *off of*, etc. |
-| *as soon/long as*; *at all*, *at best/worst*, *by far*; *at most/least* (with quantities); *compared to/with*; *had better*; *nothing/anything but*; *so long*; *what about*, *what if* |
+| *about to*; *as soon/long as*; *at all*, *at best/worst*, *by far*; *at most/least* (with quantities); *compared to/with*; *had better*; *nothing/anything but*; *so long*; *what about*, *what if* |
 
 ## `fixed` expressions
 
@@ -523,9 +523,19 @@ nsubj(ends, it)
 *had better* (and *'d better*) ([issue #803](https://github.com/UniversalDependencies/docs/issues/803))
 
 ~~~ sdparse
-You had better apologize
+You had/AUX better/ADV apologize
 aux(apologize, had)
 advmod(apologize, better)
+~~~
+
+*about to* ([issue EWT#430](https://github.com/UniversalDependencies/UD_English-EWT/issues/430))
+
+~~~ sdparse
+We are/AUX about/ADJ to/PART leave
+nsubj(about, We)
+cop(about, are)
+xcomp(about, leave)
+mark(leave, to)
 ~~~
 
 <!-- Interlanguage links updated Út 9. května 2023, 20:04:15 CEST -->
