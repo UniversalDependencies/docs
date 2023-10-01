@@ -356,7 +356,7 @@ case(love, As)
 *at least* (when not used for quantities)
 
 ~~~ sdparse
-At least I like dogs
+At/ADP least/ADJ I like dogs
 fixed(At, least)
 advmod(like, At)
 ~~~
@@ -464,13 +464,13 @@ case(least, at)
 *at best*, *at worst*
 
 ~~~ sdparse
-At best , they were guesses
+At/ADP best/ADV , they were guesses
 nmod(guesses, best)
 case(best, At)
 ~~~
 
 ~~~ sdparse
-At worst , they were lies
+At/ADP worst/ADV , they were lies
 nmod(lies, worst)
 case(worst, At)
 ~~~
