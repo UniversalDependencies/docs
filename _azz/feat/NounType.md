@@ -13,5 +13,5 @@ Relational nouns are used to encode obliques. These are similar to words such as
 
 #### Examples
 
-* [nhi] _niktalis <b>ipan</b> mesa_ "Lo voy a poner en la mesa." ("I will put it on the table.")
+* [azz] _niktalis <b>ipan</b> mesa_ "Lo voy a poner en la mesa." ("I will put it on the table.")
 

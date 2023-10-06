@@ -11,12 +11,12 @@ The `Animacy` feature in Highland Puebla Nahuatl is relevant for indefinite obje
 
 #### Examples
 
-* _ni<b>te</b>itstinemi_ "Ando viendo personas." ("I go around seeing people.")
+* [azz] _ni<b>te</b>itstinemi_ "Ando viendo personas." ("I go around seeing people.")
 
 ### <a name="Nhum">`Nhum`</a>: Non-human
 
 #### Examples
 
-* _ni<b>ta</b>oni_ "Yo tomo (cosas/bebidas)." ("I drink things.")
+* [azz] _ni<b>ta</b>oni_ "Yo tomo (cosas/bebidas)." ("I drink things.")
 
 
