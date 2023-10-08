@@ -13,6 +13,39 @@ These fall into the following categories:
 * compound prepositions like _am broinn_ and especially ones that are often spelt with a hyphen like  _a rèir_
 * copulae, like _'s e_ or _gur e_
 
+#### Examples
+
+"southern side of the country"
+~~~ conllu
+2	taobh	taobh	NOUN	Ncsmd	Case=Dat|Gender=Masc|Number=Sing	12	obl	_	_
+3	a	a	ADJ	Aq	_	2	amod	_	_
+4	deas	deas	ADJ	Aq	_	3	fixed	_	_
+5	na	an	DET	Tdsfg	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	dùthcha	dùthaich	NOUN	Ncsfg	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+~~~
+
+"a short time ago"
+~~~ conllu
+4	bho	bho	ADP	Sp	_	6	case	_	_
+5	chionn	cionn	ADP	Nf	_	4	fixed	_	_
+6	ghoirid	goirid	ADJ	Aq-smd	Case=Dat|Gender=Masc|Number=Sing	2	obl	_	_
+~~~
+
+copula and expletive pronoun, here "it was a dozen acres"
+~~~ conllu
+1	's	is	AUX	Wp-i	Tense=Pres	3	cop	_	_
+2	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3	1	fixed	_	_
+3	dusan	dusan	NOUN	Ncsmn	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+4	acair	acair	NOUN	Ncsmg	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+5	a	a	PART	Q-r	PartType=Vb|PronType=Rel	6	nsubj	_	_
+6	bh'	bi	VERB	V-s	Tense=Past	4	csubj:cleft	_	_
+7-8	annta	_	_	_	_	_	_	_	_
+7	annta	an	ADP	Sp	_	8	case	_	_
+8	iad	iad	PRON	Pp3p	Number=Plur|Person=3	6	xcomp:pred	_	_
+~~~
+
+#### Full list
+
 The following expressions are approved by the validator at https://github.com/colinbatchelor/gdbank/blob/master/validate_gd_extras.py
 ~~~
 'n déidh
