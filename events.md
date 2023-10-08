@@ -8,6 +8,7 @@ udver: '2'
 
 ## 2023
 
+  * [Workshop on UD treebanks for Turkic Languages](https://coltekin.github.io/ud-turkic-workshop/)
   * [6th Workshop on Universal Dependencies (UDW)](https://universaldependencies.org/udw23/)
 
 ## 2022
@@ -39,3 +40,16 @@ udver: '2'
   * [CoNLL 2017 Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies](http://universaldependencies.org/conll17/)
   * [EACL 2017 Tutorial on Universal Dependencies](http://universaldependencies.org/eacl17tutorial/)
   * [NoDaLiDa Workshop on Universal Dependencies (UDW 2017)](http://universaldependencies.org/udw17/)
+  * [UD Brainstorming meeting in Pisa](http://universaldependencies.org/misc/brainstorming-pisa-09-18-2017.html) (2017-09-18, collocated with Depling)
+
+## 2016
+
+  * [Prague meeting](discussion.html) of the core group, preparation of v2 guidelines (September)
+
+## 2015
+
+  * [UD Brainstorming meeting in Uppsala](/workgroups/2015-08-23-uppsala/index.html) (2015-08-23, collocated with Depling)
+
+## 2014
+
+  * UD kick-off meeting in Göteborg (June)

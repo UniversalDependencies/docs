@@ -33,7 +33,7 @@ This is an overview only. For more detailed discussion and examples, see the lis
 
 ### Relations Overview
 
-* The following relation subtypes are used in Czech:
+* The following relation subtypes are used in Cantonese:
   * [nsubj:pass]() for nominal subjects of passive verbs
   * [nsubj:periph]() for postposed nominal subjects
   * [obj:periph]() for preposed objects

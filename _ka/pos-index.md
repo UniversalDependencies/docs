@@ -6,3 +6,5 @@ permalink: ka/pos/index.html
 ---
 
 # POS tags
+
+{% include ka-pos-table.html %}

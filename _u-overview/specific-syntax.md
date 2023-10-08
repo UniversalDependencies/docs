@@ -537,7 +537,7 @@ advmod(year, more)
 
 ### Sufficiency and Excess
 
-Also involving degree semantics are constructions conveying a consequence/result of that degree. Like the _as much flour as the recipe called for_ example above, we treat the degree-qualified adjective as the head of the additional clause that is licensed by the construction (as [advcl]()):
+Also involving degree semantics are constructions conveying a consequence/result of that degree. Like the _as much flour as the recipe called for_ example above, we treat the degree-qualified adjective or adverb as the head of the additional clause that is licensed by the construction (as [advcl]()):
 
 ~~~ sdparse
 It was so dusty that I sneezed
@@ -545,10 +545,14 @@ advmod(dusty, so)
 advcl(dusty, sneezed)
 ~~~
 
+Here, *so* is the degree modifier and *dusty* is the degree-modified adjective. The adjective heads the [advcl]().
+
+Examples with degree modifiers *too* (pre-adverb) and *enough* (post-adjective):
+
 ~~~ sdparse
-You are too young to get a job
-advmod(young, too)
-advcl(young, get)
+You are working too slowly to finish on time
+advmod(slowly, too)
+advcl(slowly, finish)
 ~~~
 
 ~~~ sdparse

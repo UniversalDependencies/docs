@@ -9,7 +9,7 @@ udver: '2'
 
 Pronouns are words that substitute for [nouns](NOUN) or noun phrases, whose meaning is recoverable from the linguistic or extralinguistic
 context. Pronouns in Georgian are of the following types: personal (PronType=Prs), demonstrative (PronType=Dem), possessive (Poss=Yes), determinal/reflexive (PronType=Tot), indefinite (PronType=Ind), interrogative (PronType=Int), relative (PronType=Rel), reciprocal (PronType=Rcp) and negative (PronType=Neg). In comparison with other nominals, the inflectional paradigms of the aforementioned
-pronoun types are very irregular; some of the them follow the rules of the nominal declensions and exhibit different forms based on agreement between person, case and number, while others do not.
+pronoun types are very irregular; some of the them follow the rules of the nominal declensions and exhibit different forms based on agreement between person, case and number, while others do not. Additionally, in Georgian, pronouns often have particles added to them, indicating their type, see [PartType](_ka/feat/PartType).
 
 ### Correspondance between language specific PoS and PronTypes
 

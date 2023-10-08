@@ -5,12 +5,15 @@ shortdef: 'compound'
 udver: '2'
 ---
 
-The [compound]() dependency is applied to any kind of X0 compounding: noun compounds (e.g., phone book), but also verb and adjective compounds. 
-Note that [compound]() is not used to link an inherently reflexive verb with the reflexive morpheme (which in Pomak is marked as 'expl:pv'):
+The `compound` relation is one of three relations for multiword expressions (MWEs) (the other two being `fixed` and `flat`).
 
-~~~ sdparse
-jirmí bin  
-twenty thousands
-compound(jirmí, bin)
+In the Pomak treebank, the [compound]() relation has been used for a particular type of noun-adjective formation. Τhe morphosyntactic criterion is that the adjective follows the noun and forms a unit with it since the enclitic definite determiner is attached to the adjective. 
+
+~~~sdparse
+Hamdí-star
+Hamdi.PROPN star.ADJ
+"old Hamdi"
+compound(Hamdí, star)
+punct(Hamdí, -)
 ~~~
 <!-- Interlanguage links updated Út 9. května 2023, 20:04:05 CEST -->

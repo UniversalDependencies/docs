@@ -8,7 +8,7 @@ udver: '2'
 
 Universal Dependencies (UD) is a framework for consistent annotation of grammar
 (parts of speech, morphological features, and syntactic dependencies) across different human languages. UD is
-an open community effort with over 300 contributors producing nearly 200 treebanks in over 100 languages.
+an open community effort with over 500 contributors producing over 200 treebanks in over 100 languages.
 If you're new to UD, you should start by reading the first part of the Short Introduction and then browsing the annotation guidelines.
 
 * [Short introduction to UD](introduction.html)
@@ -21,7 +21,7 @@ If you're new to UD, you should start by reading the first part of the Short Int
   * [Projects related to UD](related.html)
 * Query UD treebanks online:
   * [PML Tree Query](http://lindat.mff.cuni.cz/services/pmltq/) maintained by the Charles University in Prague
-  * [TEITOK](http://lindat.mff.cuni.cz/services/teitok/ud211/) maintained by the Charles University in Prague
+  * [TEITOK](http://lindat.mff.cuni.cz/services/teitok/ud212/) maintained by the Charles University in Prague
   * [Grew-match](http://match.grew.fr) maintained by Inria in Nancy
   * [INESS](http://clarino.uib.no/iness) maintained by the University of Bergen
 * [Download UD treebanks](#download)
