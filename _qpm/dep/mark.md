@@ -6,8 +6,7 @@ udver: '2'
 ---
 
 Subordinated clauses are introduced with markers. A marker depends on the
-subordinate clause head with the [mark]() dependency. Subordinating conjunctions [SCONJ]() are typically used as markers. 
-
+subordinate clause head with the [mark]() dependency. Subordinating conjunctions [SCONJ]() are typically used as markers.
 
 #### Examples
 
@@ -18,4 +17,10 @@ subordinate clause head with the [mark]() dependency. Subordinating conjunctions
 - _če_ "that", _káza_, <b>če</b> _útre néma da móža da dójde na rábato_ "he said that tomorrow he will not be albe to come to work"
 - _ta_ "so as", _še go stórime inýj_, <b>ta</b> _ da móžot vrítsi da dójdot_ "we shall do it that way, so that everybody may come"
 - _atkák_ "since", _íma mlógo godíny_ <b>atkák</b> _ só ažóniho i déti némot jéšte_ "it is many years since they got married and they have no children"
+
+~~~ sdparse
+stánah vir vadá znoj durgá da so pókačem na čúčkono \n I soaked in sweat by the time I climbed on the top
+mark(pókačem, durgá)
+~~~
+
 <!-- Interlanguage links updated Út 9. května 2023, 20:04:18 CEST -->
