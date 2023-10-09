@@ -96,10 +96,10 @@ This is an overview only.
 * All other arguments and adjuncts are oblique `obl`. Arguments in the accusative that express spatial or temporal meanings are tagged as `obl` as well.
 * The infinitive complement is typically labeled [`xcomp`]().
 * In passive clauses:
-	* the subject is labeled either [`nsubj:pass`]() or [`csubj:pass`]().
+	* the subject is labeled either [`nsubj:pass`]().
 	* if the agent is present, it is typically expressed by an adpositional ablative noun phrase and is labeled [`obl:agent`]().
 * In causative clauses (both bare and periphrastic causative):
-	* the subject is labeled with [`nsubj:caus`]().
+	* the subject is labeled with [`nsubj:caus`]() or [`csubj:caus`]().
 	* The auxiliary verb in periphrastic causative is labeled [`aux:caus`]().
 
 ### Non-verbal Clauses
