@@ -115,7 +115,7 @@ This is an overview only.
 * The following relation subtypes are used in Classical Armenian:
 	* [`nsubj:pass`]() for nominal subjects of passive verbs
 	* [`nsubj:caus`]() for nominal subjects of causative verbs	
-	* [`csubj:pass`]() for clausal subjects of passive verbs
+	* [`csubj:caus`]() for clausal subjects of causative verbs
 	* [`obl:agent`]() for agents of passive verbs
 	* [`aux:caus`]() for auxiliaries of periphrastic causatives
 	* [`acl:relcl`]() for relative clauses
