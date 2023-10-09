@@ -97,7 +97,7 @@ This is an overview only.
 * The infinitive complement is typically labeled [`xcomp`]().
 * In passive clauses:
 	* the subject is labeled either [`nsubj:pass`]() or [`csubj:pass`]().
-	* if the agent is present, it is expressed by an adpositional ablative noun phrase and is labeled [`obl:agent`]().
+	* if the agent is present, it is typically expressed by an adpositional ablative noun phrase and is labeled [`obl:agent`]().
 * In causative clauses (both bare and periphrastic causative):
 	* the subject is labeled with [`nsubj:caus`]().
 	* The auxiliary verb in periphrastic causative is labeled [`aux:caus`]().
