@@ -19,7 +19,7 @@ such as subject and object, to semantic roles, such as agent and patient.
 * The morphological causative is a derivational category in Classical Armenian. Causatives are derived from base verbs with the help of a productive valency-increasing suffix _-ուց-_/_-owcՙ-_ (or its rare variants _-ուս-_/_-ows-_ and _-ուզ-_/_-owz-_). Causatives can be further marked by the inflectional voice as `Act` or `Pass`, which makes the voice a layered feature in Classical Armenian. The causative layer is identified as `Voice[caus]` and invariably takes the value `Cau`.
 * Morphological causatives are typically derived from anticausative, experiential or agentive (intransitive) base verbs, while the causation of agentive transitive verbs is often expressed by the analytical causative (_տալ_/_tal_ 'to give' + infinitive).
 
-### Examples
+#### Examples
 
 * _Հաւատք քո կեցուցին զքեզ_. / _Hawatk῾ k῾o <b>kec῾-owc῾-in</b> zk῾ez_. “Your faith <b>has saved</b> you” (Luke 7:50) The causative form, derived from a base verb կեամ “to live”, is tagged by the features `Voice=Act` and `Voice[caus]=Cau`.
 
