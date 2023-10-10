@@ -124,4 +124,4 @@ This is an overview only.
 
 There is one Classical Armenian UD treebank:
 
-  * [UD_Classical_Armenian-CAVaL](../treebanks/xcl/index.html)
+  * [UD_Classical_Armenian-CAVaL](../treebanks/xcl_caval/index.html)
