@@ -9,9 +9,7 @@ The `aux:caus` relation links the infinitive verb (i.e. the governor) and the fi
 The syntactical subject of the sentence, which corresponds to the causer (external agent) participant of the causative predicate, receives a [nsubj:caus]() or [csubj:caus]() relation.
 
 ~~~ sdparse
-Ետ տանել զնա առ Հերովդէս։
-Et tanel zna aṙ Herovdēs.
-“[He] made take him to Herod” (Luke 23:7)
+Ետ տանել զնա առ Հերովդէս։ \n He made take him to Herod (Luke 23:7)
 aux:caus(տանել, ետ)
 aux:caus(tanel, et)
 obj(տանել, նա)
