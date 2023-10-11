@@ -47,7 +47,7 @@ This is an overview only.
 ### Nominal Features
 
 * [Number]() has two values: `Sing` and `Plur`. The following parts of speech inflect for number: [NOUN](), [PROPN](), [PRON](), as well as the finite forms of [VERB]() and [AUX](). 
-  * Classical Armenian has numerous _pluralia tantum_ nouns, the plural form of which expresses a single entity or abstract notion, cf. _ապարանք_/__aparankʽ_ “palace”, _երեսք_/_ereskʽ_ “face”, _բարիք_/_barikʽ_ “goodness”, etc.
+  * Classical Armenian has numerous _pluralia tantum_ nouns, the plural form of which expresses a single entity or abstract notion, cf. _ապարանք_/_aparankʽ_ “palace”, _երեսք_/_ereskʽ_ “face”, _բարիք_/_barikʽ_ “goodness”, etc.
 * [Case]() has seven values: `Nom`, `Acc`, `Gen`, `Dat`, `Abl`, `Ins`, `Loc`. It occurs with [NOUN](), [PROPN](), [NUM](), [PRON](), [DET](), [ADJ](), as well as with participles and verbal nouns, tagged [VERB]() or [AUX]().
 * [NumType]() is used with numerals ([NUM]()) and adjectives ([ADJ]())
 * [Animacy]() can be lexically expressed in [PRON](), while [Definite]() can be lexically expressed in [PRON]() and [DET]().
