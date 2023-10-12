@@ -16,7 +16,7 @@ udver: '2'
 
 `Purposive` is a 
 
-### <a name="Rep">`Yes`</a>: Yes
+### <a name="Purp">`Yes`</a>: Yes
 
 The purposive suffix _-wä_. 
 
@@ -24,7 +24,7 @@ The purposive suffix _-wä_.
 
  
 
-### <a name="Rep">`Trans`</a>: Trans
+### <a name="Purp">`Trans`</a>: Trans
 
 The purposive suffix whic indicates the trasmission of _-iagu_. 
 
