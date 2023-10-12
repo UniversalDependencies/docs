@@ -12,6 +12,7 @@ udver: '2'
   <td><a href="#Prs">Prs</a></td>
   <td><a href="#Int">Int</a></td>
   <td><a href="#Rcp">Rcp</a></td>
+  <td><a href="#Tot">Tot</a></td>
   
 </tr>
 </table>
@@ -43,6 +44,13 @@ Int (iterrogative) refers to a question word that is of of the arguments of the 
 ### <a name="Rcp">`Rcp`</a>: Prs
 
 Rcp (reciprocal) refers to .
+
+
+#### Example
+
+### <a name="Tot">`Tot`</a>: Prs
+
+Tot (total) refers to .
 
 
 #### Example
