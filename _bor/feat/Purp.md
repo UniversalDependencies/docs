@@ -23,7 +23,7 @@ The purposive suffix _-wä_.
 
 #### Examples
 
-* _<b></b>&nbsp;_ “” 
+ 
 
 ### <a name="Rep">`Trans`</a>: Trans
 
@@ -31,7 +31,7 @@ The purposive suffix whic indicates the trasmission of _-iagu_.
 
 #### Examples
 
-* _<b></b>&nbsp;_ “” 
+
 
 
 
