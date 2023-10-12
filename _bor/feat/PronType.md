@@ -11,6 +11,7 @@ udver: '2'
   <td><a href="#Bi">Bi</a></td>
   <td><a href="#Prs">Prs</a></td>
   <td><a href="#Int">Int</a></td>
+  <td><a href="#Rcp">Rcp</a></td>
   
 </tr>
 </table>
@@ -35,6 +36,13 @@ Prs (personal) refers to an independent person index.
 ### <a name="Int">`Int`</a>: Prs
 
 Int (iterrogative) refers to a question word that is of of the arguments of the predicate.
+
+
+#### Example
+
+### <a name="Rcp">`Rcp`</a>: Prs
+
+Rcp (reciprocal) refers to .
 
 
 #### Example
