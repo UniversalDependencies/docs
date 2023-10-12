@@ -1,7 +1,7 @@
 ---
 layout: feature
-title: 'Purposive'
-shortdef: 'Purposive'
+title: 'Purp'
+shortdef: 'Purp'
 udver: '2'
 ---
 
