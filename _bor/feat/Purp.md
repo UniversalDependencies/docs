@@ -10,8 +10,7 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Yes">Yes</a></td>
   <td><a href="#Trans">Trans</a></td>
-  
-  
+    
 </tr>
 </table>
 
