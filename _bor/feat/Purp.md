@@ -27,7 +27,7 @@ The purposive suffix _-wä_.
 
 ### <a name="Rep">`Trans`</a>: Trans
 
-The purposive suffix whic indicates the trasmission of _-iagu. 
+The purposive suffix whic indicates the trasmission of _-iagu_. 
 
 #### Examples
 
