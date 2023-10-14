@@ -308,7 +308,7 @@ obj(saw, one)
 *all but*
 
 ~~~ sdparse
-John has all but left
+John has all/DET but/ADP left
 fixed(all, but)
 advmod(left, all)
 ~~~
