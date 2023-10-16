@@ -5,13 +5,7 @@ shortdef: 'determiner'
 udver: '2'
 ---
 
-UPDATE IN PROGRESS
-
-OLD TEXT:
-
-The English `DET` covers most cases of Penn Treebank DT, PDT, WDT. However, when a Penn Treebank word with one of these tags stands alone as a noun phrase rather than modifying another word, then it becomes `PRON`.
-
-NEW TEXT:
+The English `DET` covers most cases of Penn Treebank DT, PDT, WDT. However, when a demonstrative one of these is not in [det]() (or [det:predet]()) function it becomes [PRON]().
 
 Here are the English `DET` lexemes with associated morphological features (drawing on [PronType](), [Definite](), [Number](), and [NumType]()):
 
@@ -27,7 +21,7 @@ _half_\*         | `NumType=Frac|PronType=Ind`
 _no_, _neither_, _nary_\*              | `PronType=Neg`
 _any_, _some_, _another_\*\*, _either_ | `PronType=Ind`
 _such_\*, _quite_\*, _many_\*          | `PronType=Ind`
-_which_, _what_, _whatever_            | `PronType=Ind` or `PronType=Rel`
+_which_, _what_, _whatever_            | `PronType=Int` or `PronType=Rel`
 
 \* Only DET as a predeterminer (PTB `PDT`)
 
