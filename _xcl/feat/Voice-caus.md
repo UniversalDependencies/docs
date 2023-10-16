@@ -18,6 +18,12 @@ Voice is typically a feature of [verbs](u-pos/VERB). Voice is a feature of verbs
 * The morphological causative is a derivational category in Classical Armenian. Causatives are derived from base verbs with the help of a productive valency-increasing suffix _-ուց-_/_-owcՙ-_ (or its rare variants _-ուս-_/_-ows-_ and _-ուզ-_/_-owz-_), and can be further marked by the inflectional voice as `Act` or `Pass`, which makes the voice a layered feature in Classical Armenian. The causative layer [Voice[caus]]() is a Boolean feature and tells whether the word is a derived causative or not. The value `Yes` corresponds to the `Cau` value of the universal Voice feature.
 * Morphological causatives are typically derived from anticausative, experiential or agentive (intransitive) base verbs, while the causation of agentive transitive verbs is often expressed by the analytical causative (_տալ_/_tal_ 'to give' + infinitive).
 
+### <a name="Yes">`Yes`</a>: it is a derived causative
+
+Note that there is no `No` value. If the word is not a derived causative, the
+`Voice[caus]` feature will just not be mentioned in the `FEAT`
+column. (Which means that empty value has the `No` meaning.)
+
 #### Examples
 
 * _Հաւատք քո կեցուցին զքեզ_. / _Hawatk῾ k῾o <b>kec῾-owc῾-in</b> zk῾ez_. “Your faith <b>has saved</b> you” (Luke 7:50). The causative form, derived from a base verb կեամ “to live”, is tagged by the features `Voice=Act` and `Voice[caus]=Yes`.
