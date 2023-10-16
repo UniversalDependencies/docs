@@ -9,6 +9,7 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Cau">Cau</a></td>
+  <td><a href="#Non-Cau">Non-Cau</a></td>
 </tr>
 </table>
 
@@ -16,7 +17,7 @@ Voice is a feature of verbs that helps map the traditional syntactic functions,
 such as subject and object, to semantic roles, such as agent and patient.
 
 * In Classical Armenian, the voice category is expressed by the endings or a derivational causative suffix. 
-* The morphological causative is a derivational category in Classical Armenian. Causatives are derived from base verbs with the help of a productive valency-increasing suffix _-ուց-_/_-owcՙ-_ (or its rare variants _-ուս-_/_-ows-_ and _-ուզ-_/_-owz-_). Causatives can be further marked by the inflectional voice as `Act` or `Pass`, which makes the voice a layered feature in Classical Armenian. The causative layer is identified as `Voice[caus]` and invariably takes the value `Cau`.
+* The morphological causative is a derivational category in Classical Armenian. Causatives are derived from base verbs with the help of a productive valency-increasing suffix _-ուց-_/_-owcՙ-_ (or its rare variants _-ուս-_/_-ows-_ and _-ուզ-_/_-owz-_). Causatives can be further marked by the inflectional voice as `Act` or `Pass`, which makes the voice a layered feature in Classical Armenian. The derived causative is identified as `Voice[caus]` and invariably takes the value `Cau`. The oppositional value `Non-Cau` corresponds to the voice range of the base verb and is redundant in tagging. 
 * Morphological causatives are typically derived from anticausative, experiential or agentive (intransitive) base verbs, while the causation of agentive transitive verbs is often expressed by the analytical causative (_տալ_/_tal_ 'to give' + infinitive).
 
 #### Examples
