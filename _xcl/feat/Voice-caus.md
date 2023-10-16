@@ -20,7 +20,7 @@ Voice is typically a feature of [verbs](u-pos/VERB). Voice is a feature of verbs
 
 #### Examples
 
-* _Հաւատք քո կեցուցին զքեզ_. / _Hawatk῾ k῾o <b>kec῾-owc῾-in</b> zk῾ez_. “Your faith <b>has saved</b> you” (Luke 7:50). The causative form, derived from a base verb կեամ “to live”, is tagged by the features `Voice=Act` and `Voice[caus]=Cau`.
+* _Հաւատք քո կեցուցին զքեզ_. / _Hawatk῾ k῾o <b>kec῾-owc῾-in</b> zk῾ez_. “Your faith <b>has saved</b> you” (Luke 7:50). The causative form, derived from a base verb կեամ “to live”, is tagged by the features `Voice=Act` and `Voice[caus]=Yes`.
 
 ### References
 Petr Kocharov. 2023. Causatives in Classical Armenian. _Folia Linguistica_ 57/3: 593-627.
