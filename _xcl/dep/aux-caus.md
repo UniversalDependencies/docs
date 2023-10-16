@@ -13,7 +13,3 @@ The syntactical subject of the sentence, which corresponds to the causer (extern
 aux:caus(տանել, Ետ)
 obj(տանել, զնա)
 ~~~ 
-
-
-For more details see [specific-syntax](http://universaldependencies.org/hy/overview/specific-syntax.html).
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:00 CEST -->
