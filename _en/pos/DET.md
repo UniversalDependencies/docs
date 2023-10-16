@@ -22,8 +22,7 @@ _the_            | `Definite=Def|PronType=Art`
 _this_, _that_   | `Number=Sing|PronType=Dem`
 _these_, _those_ | `Number=Plur|PronType=Dem`
 _yonder_         | `PronType=Dem`
-_all_, _each_\*\*, _every_ | `PronType=Tot`
-_both_           | `PronType=Tot`
+_all_, _both_, _each_\*\*, _every_ | `PronType=Tot`
 _half_\*         | `NumType=Frac|PronType=Ind`
 _no_, _neither_, _nary_\*              | `PronType=Neg`
 _any_, _some_, _another_\*\*, _either_ | `PronType=Ind`
