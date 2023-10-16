@@ -10,7 +10,7 @@ The syntactical subject of the sentence, which corresponds to the causer (extern
 
 ~~~ sdparse
 Ետ տանել զնա առ Հերովդէս։ \n He made take him to Herod (Luke 23:7)
-aux:caus(տանել, ետ)
+aux:caus(տանել, Ետ)
 obj(տանել, զնա)
 ~~~ 
 
