@@ -12,6 +12,3 @@ udver: '2'
 nsubj:caus(Մեծացուսցէ, անձն)
 obj(Մեծացուսցէ, զՏէր)
 ~~~
-
-For more details see [specific-syntax](http://universaldependencies.org/hy/overview/specific-syntax.html).
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:23 CEST -->
