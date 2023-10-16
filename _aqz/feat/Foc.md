@@ -14,14 +14,14 @@ udver: '2'
 </tr>
 </table>
 
-`Focus` the focus 'ne'
+`Focus` the focus 'te'
 
 ### <a name="Yes">`Yes`</a>: Focus
 
 
 #### Example
 
-* _<b>ẽrom itʃoka ne?</b>&nbsp;_ “Where may he build it?”
+* _<b>ẽrom itʃoka te?</b>&nbsp;_ “Where may he build it?”
 
 
 
