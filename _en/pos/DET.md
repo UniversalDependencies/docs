@@ -5,7 +5,9 @@ shortdef: 'determiner'
 udver: '2'
 ---
 
-The English `DET` covers most cases of Penn Treebank DT, PDT, WDT. However, when a demonstrative one of these is not in [det]() (or [det:predet]()) function it becomes [PRON]().
+The English `DET` covers most cases of Penn Treebank DT, PDT, WDT. However:
+- When a demonstrative one of these is not functioning as a determiner ([det]() or [det:predet]()) it becomes [PRON]().
+- Relative _that_, and relative or interrogative _which_, are WDT and [PRON]() if not attaching as [det]() or [det:predet]().
 
 Here are the English `DET` lexemes with associated morphological features (drawing on [PronType](), [Definite](), [Number](), and [NumType]()):
 
