@@ -41,7 +41,7 @@ In Classical Armenian, the tag `Pass` covers a wide range of intransitive and va
 * The morphological causative is a derivational category in Classical Armenian. Causatives are derived from base verbs with the help of a productive valency-increasing suffix _-ուց-_/_-owcՙ-_ (or its rare variants _-ուս-_/_-ows-_ and _-ուզ-_/_-owz-_). A causative can be further marked by the inflectional voice as `Act` or `Pass`, in which case it is tagged `Voice=Act,Cau` or `Voice=Cau,Pass`, respectively.
 * Morphological causatives are typically derived from anticausative, experiential or agentive (intransitive) base verbs, while the causation of agentive transitive verbs is often expressed by the analytical causative (_տալ_/_tal_ 'to give' + infinitive).
   
-### Examples
+#### Examples
 
 * _Հաւատք քո <b>կեցուցին</b> զքեզ_. / _Hawatk῾ k῾o <b>kec῾-owc῾-in</b> zk῾ez_. “Your faith <b>has saved</b> you” (Luke 7:50). The causative form, derived from a base verb կեամ “to live”, is tagged as `Voice=Act,Cau`.
 
