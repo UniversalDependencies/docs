@@ -328,3 +328,15 @@ Simpler
 14	sovietico	sovietico	ADJ	A	Gender=Masc|Number=Sing	13	amod	_	SpaceAfter=No
 15	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
 </div>
+
+~~~ sdparse
+Ať drahokamů ozdoby Spadaly s ňader Tvých \n 
+
+mark(Spadaly, Ať)
+nmod(ozdoby, drahokamů)
+nsubj(Spadaly, ozdoby)
+conj(pohasl, Spadaly)
+case(ňader, s)
+obl(Spadaly, ňader)
+amod(ňader, Tvých)
+~~~
