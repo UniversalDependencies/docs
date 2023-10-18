@@ -340,6 +340,18 @@ Simpler
 </div>
 
 ~~~ sdparse
+Alles hat ein Ende , nur die Wurst hat zwei .
+nsubj(hat-2,Alles)
+obj(hat-2,Ende)
+det(Ende,ein)
+nsubj(hat-9,Wurst)
+obj(hat-9,zwei)
+det(Wurst,die)
+advmod(hat-9,nur)
+parataxis(hat-2,hat-9)
+~~~
+
+~~~ sdparse
 V starobných ambitech , kde ztuhlá světic ctnost V škrobených límcích španělských se vztyčuje , Kde marně Šebestián sličný Kypící nahotu , Drážděné šípem genitálie ukazuje , Aby by sváděl ctnostně odvrácené zraky , Ty potměšilou vlnu ňader , Tak měkce tajících , teď svůdně rozléváš , Své tělo zase obnažuješ , tolika tknuté milenci , A dráždíš pletí tolika ústy zlíbanou A klínem , tolika vášněmi rozrývaným , A očima samice , očima smilnýma .
 case(ambitech, V)
 amod(ambitech, starobných)
