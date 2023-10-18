@@ -265,8 +265,7 @@ advmod(hat-9,nur)
 parataxis(hat-2,hat-9)
 ~~~
 
-
-~~sdparse
+~~~ sdparse
 mark(Spadaly, Ať)
 nmod(ozdoby, drahokamů)
 nsubj(Spadaly, ozdoby)
@@ -274,22 +273,6 @@ case(ňader, s)
 obl(Spadaly, ňader)
 amod(ňader, Tvých)
 ~~~
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Test for #363
 
