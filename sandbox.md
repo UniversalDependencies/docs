@@ -330,35 +330,3 @@ Simpler
 </div>
 
 
-### Genitive attribute preceding parent noun 
-
- drahokamů ozdoby 
- 
-Ať drahokamů ozdoby Spadaly s ňader Tvých \n May jewels' decorations fall-off breasts yours
-
-~~~ sdparse
-mark(Spadaly, Ať)
-nmod(ozdoby, drahokamů)
-nsubj(Spadaly, ozdoby)
-conj(pohasl, Spadaly)
-case(ňader, s)
-obl(Spadaly, ňader)
-amod(ňader, Tvých)
-
-~~~
-
-
-## Genitive attribute preceding parent noun 
- drahokamů ozdoby 
-
-Šebestián sličný Kypící nahotu , Drážděné šípem genitálie ukazuje \n 0362-0001-0003-0000-0011-0000_12/gold
-
-~~~sdparse
-Šebestián sličný Kypící nahotu , Drážděné šípem genitálie ukazuje
-nsubj(ukazuje, Šebestián)
-amod(nahotu, Kypící)
-obj(ukazuje, nahotu)
-amod(genitálie, Drážděné)
-obl(Drážděné, šípem)
-
-~~~
