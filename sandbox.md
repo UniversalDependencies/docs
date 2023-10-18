@@ -266,6 +266,7 @@ parataxis(hat-2,hat-9)
 ~~~
 
 ~~~ sdparse
+Ať drahokamů ozdoby Spadaly s ňader Tvých
 mark(Spadaly, Ať)
 nmod(ozdoby, drahokamů)
 nsubj(Spadaly, ozdoby)
