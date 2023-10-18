@@ -330,9 +330,11 @@ Simpler
 </div>
 
 
+## Genitive attribute preceding parent noun 
+ drahokamů ozdoby 
+
 ~~~conllu
-# sent_id = 0362-0001-0003-0000-0011-0000_8/gold
-# text = Ať **drahokamů ozdoby** Spadaly s ňader Tvých \n May jewels' decorations fall-off breasts yours 
+sent_id = 0362-0001-0003-0000-0011-0000_8/gold \n  Ať drahokamů ozdoby Spadaly s ňader Tvých \n May jewels' decorations fall-off breasts yours 
 
 20	Ať	ať	PART	TT-------------	_	23	mark	_	_
 21	drahokamů	drahokam	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	22	nmod	_	_
@@ -345,9 +347,11 @@ Simpler
 
 ~~~
 
+
+
+
 ~~~conllu
-# sent_id = 0362-0001-0003-0000-0011-0000_12/gold
-# text = Šebestián sličný Kypící nahotu, **Drážděné šípem genitálie** ukazuje
+sent_id = 0362-0001-0003-0000-0011-0000_12/gold \n Šebestián sličný Kypící nahotu, Drážděné šípem genitálie ukazuje
 18	Šebestián	Šebestián	PROPN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing|Polarity=Pos	26	nsubj	_	_
 19	sličný	sličný	ADJ	AAMS1----1A----	Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	18	amod	_	_
 20	Kypící	kypící	ADJ	AGFS4-----A----	Aspect=Imp|Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	21	amod	_	_
@@ -359,4 +363,3 @@ Simpler
 26	ukazuje	ukazovat	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	14	conj	_	SpaceAfter=No
 
 ~~~
-
