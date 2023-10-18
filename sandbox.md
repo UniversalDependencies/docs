@@ -337,6 +337,7 @@ Simpler
 13	leader	leader	NOUN	S	Gender=Masc	11	obj	_	_
 14	sovietico	sovietico	ADJ	A	Gender=Masc|Number=Sing	13	amod	_	SpaceAfter=No
 15	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+  
 </div>
 
 ~~~ sdparse
@@ -349,6 +350,7 @@ obj(hat-9,zwei)
 det(Wurst,die)
 advmod(hat-9,nur)
 parataxis(hat-2,hat-9)
+
 ~~~
 
 ~~~ sdparse
@@ -428,4 +430,5 @@ punct(očima, ,)
 conj(očima, očima)
 amod(očima, smilnýma)
 punct(rozléváš, .)
+
 ~~~
