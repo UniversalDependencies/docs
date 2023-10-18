@@ -330,8 +330,10 @@ Simpler
 </div>
 
 
-## Genitive attribute preceding parent noun 
+### Genitive attribute preceding parent noun 
+
  drahokamů ozdoby 
+ 
 Ať drahokamů ozdoby Spadaly s ňader Tvých \n May jewels' decorations fall-off breasts yours
 
 ~~~ sdparse
