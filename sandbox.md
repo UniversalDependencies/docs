@@ -330,11 +330,8 @@ Simpler
 </div>
 
 
-
-
-
 ~~~ sdparse
-Ať drahokamů ozdoby Spadaly s ňader Tvých \n 
+Ať drahokamů ozdoby Spadaly s ňader Tvých \n May jewels' decorations fall-off breasts yours
 
 mark(Spadaly, Ať)
 nmod(ozdoby, drahokamů)
@@ -344,3 +341,19 @@ case(ňader, s)
 obl(Spadaly, ňader)
 amod(ňader, Tvých)
 ~~~
+
+~~~conllu
+# sent_id = 0362-0001-0003-0000-0011-0000_8/gold
+# text = Ať drahokamů ozdoby Spadaly s ňader Tvých \n May jewels' decorations fall-off breasts yours 
+
+20	Ať	ať	PART	TT-------------	_	23	mark	_	_
+21	drahokamů	drahokam	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	22	nmod	_	_
+22	ozdoby	ozdoba	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	23	nsubj	_	_
+23	Spadaly	spadat	VERB	VpTP---XR-AA---	Aspect=Imp|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	11	conj	_	_
+24	s	s	ADP	RR--2----------	AdpType=Prep|Case=Gen	25	case	_	_
+25	ňader	ňadra	NOUN	NNNP2-----A----	Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos	23	obl	_	_
+26	Tvých	tvůj	DET	P8XP2----------	Case=Gen|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	25	amod	_	SpaceAfter=No
+27	,	,	PUNCT	Z:-------------	_	29	punct	_	_
+
+~~~
+
