@@ -354,22 +354,7 @@ parataxis(hat-2,hat-9)
 ~~~
 
 ~~~ sdparse
-V starobných ambitech , kde ztuhlá světic ctnost V škrobených límcích španělských se vztyčuje , Kde marně Šebestián sličný Kypící nahotu , Drážděné šípem genitálie ukazuje , Aby by sváděl ctnostně odvrácené zraky , Ty potměšilou vlnu ňader , Tak měkce tajících , teď svůdně rozléváš , Své tělo zase obnažuješ , tolika tknuté milenci , A dráždíš pletí tolika ústy zlíbanou A klínem , tolika vášněmi rozrývaným , A očima samice , očima smilnýma .
-case(ambitech, V)
-amod(ambitech, starobných)
-obl(rozléváš, ambitech)
-punct(vztyčuje, ,)
-advmod(vztyčuje, kde)
-amod(ctnost, ztuhlá)
-nmod(ctnost, světic)
-orphan(vztyčuje, ctnost)
-case(límcích, V)
-amod(límcích, škrobených)
-obl(vztyčuje, límcích)
-amod(límcích, španělských)
-expl:pv(vztyčuje, se)
-acl:relcl(ambitech, vztyčuje)
-punct(ukazuje, ,)
+Šebestián sličný Kypící nahotu , Drážděné šípem genitálie ukazuje , Aby by sváděl ctnostně odvrácené zraky , Ty potměšilou vlnu ňader , Tak měkce tajících , teď svůdně rozléváš , Své tělo zase obnažuješ , tolika tknuté milenci , A dráždíš pletí tolika ústy zlíbanou A klínem , tolika vášněmi rozrývaným , A očima samice , očima smilnýma .
 advmod(ukazuje, Kde)
 advmod(ukazuje, marně)
 nsubj(ukazuje, Šebestián)
