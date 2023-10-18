@@ -330,21 +330,9 @@ Simpler
 </div>
 
 
-~~~ sdparse
-Ať drahokamů ozdoby Spadaly s ňader Tvých \n May jewels' decorations fall-off breasts yours
-
-mark(Spadaly, Ať)
-nmod(ozdoby, drahokamů)
-nsubj(Spadaly, ozdoby)
-conj(pohasl, Spadaly)
-case(ňader, s)
-obl(Spadaly, ňader)
-amod(ňader, Tvých)
-~~~
-
 ~~~conllu
 # sent_id = 0362-0001-0003-0000-0011-0000_8/gold
-# text = Ať drahokamů ozdoby Spadaly s ňader Tvých \n May jewels' decorations fall-off breasts yours 
+# text = Ať **drahokamů ozdoby** Spadaly s ňader Tvých \n May jewels' decorations fall-off breasts yours 
 
 20	Ať	ať	PART	TT-------------	_	23	mark	_	_
 21	drahokamů	drahokam	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	22	nmod	_	_
@@ -354,6 +342,21 @@ amod(ňader, Tvých)
 25	ňader	ňadra	NOUN	NNNP2-----A----	Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos	23	obl	_	_
 26	Tvých	tvůj	DET	P8XP2----------	Case=Gen|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	25	amod	_	SpaceAfter=No
 27	,	,	PUNCT	Z:-------------	_	29	punct	_	_
+
+~~~
+
+~~~conllu
+# sent_id = 0362-0001-0003-0000-0011-0000_12/gold
+# text = Šebestián sličný Kypící nahotu, **Drážděné šípem genitálie** ukazuje
+18	Šebestián	Šebestián	PROPN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing|Polarity=Pos	26	nsubj	_	_
+19	sličný	sličný	ADJ	AAMS1----1A----	Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	18	amod	_	_
+20	Kypící	kypící	ADJ	AGFS4-----A----	Aspect=Imp|Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	21	amod	_	_
+21	nahotu	nahota	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	26	obj	_	SpaceAfter=No
+22	,	,	PUNCT	Z:-------------	_	25	punct	_	_
+23	Drážděné	drážděný	ADJ	AANS4----1A----	Aspect=Imp|Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	25	amod	_	_
+24	šípem	šíp	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	23	obl	_	_
+25	genitálie	genitálie	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	21	conj	_	_
+26	ukazuje	ukazovat	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	14	conj	_	SpaceAfter=No
 
 ~~~
 
