@@ -333,33 +333,15 @@ Simpler
 ## Genitive attribute preceding parent noun 
  drahokamů ozdoby 
 
-~~~conllu
-sent_id = 0362-0001-0003-0000-0011-0000_8/gold \n  Ať drahokamů ozdoby Spadaly s ňader Tvých \n May jewels' decorations fall-off breasts yours 
+## Genitive attribute preceding parent noun 
+ drahokamů ozdoby 
 
-20	Ať	ať	PART	TT-------------	_	23	mark	_	_
-21	drahokamů	drahokam	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	22	nmod	_	_
-22	ozdoby	ozdoba	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	23	nsubj	_	_
-23	Spadaly	spadat	VERB	VpTP---XR-AA---	Aspect=Imp|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	11	conj	_	_
-24	s	s	ADP	RR--2----------	AdpType=Prep|Case=Gen	25	case	_	_
-25	ňader	ňadra	NOUN	NNNP2-----A----	Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos	23	obl	_	_
-26	Tvých	tvůj	DET	P8XP2----------	Case=Gen|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	25	amod	_	SpaceAfter=No
-27	,	,	PUNCT	Z:-------------	_	29	punct	_	_
-
-~~~
-
-
-
-
-~~~conllu
-sent_id = 0362-0001-0003-0000-0011-0000_12/gold \n Šebestián sličný Kypící nahotu, Drážděné šípem genitálie ukazuje
-18	Šebestián	Šebestián	PROPN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing|Polarity=Pos	26	nsubj	_	_
-19	sličný	sličný	ADJ	AAMS1----1A----	Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	18	amod	_	_
-20	Kypící	kypící	ADJ	AGFS4-----A----	Aspect=Imp|Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	21	amod	_	_
-21	nahotu	nahota	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	26	obj	_	SpaceAfter=No
-22	,	,	PUNCT	Z:-------------	_	25	punct	_	_
-23	Drážděné	drážděný	ADJ	AANS4----1A----	Aspect=Imp|Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	25	amod	_	_
-24	šípem	šíp	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	23	obl	_	_
-25	genitálie	genitálie	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	21	conj	_	_
-26	ukazuje	ukazovat	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	14	conj	_	SpaceAfter=No
+~~~sdparse
+Šebestián sličný Kypící nahotu , Drážděné šípem genitálie ukazuje \n 0362-0001-0003-0000-0011-0000_12/gold
+nsubj(ukazuje, Šebestián)
+amod(nahotu, Kypící)
+obj(ukazuje, nahotu)
+amod(genitálie, Drážděné)
+obl(Drážděné, šípem)
 
 ~~~
