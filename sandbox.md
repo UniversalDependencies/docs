@@ -329,6 +329,10 @@ Simpler
 15	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
 </div>
 
+
+
+
+
 ~~~ sdparse
 Ať drahokamů ozdoby Spadaly s ňader Tvých \n 
 
