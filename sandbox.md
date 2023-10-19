@@ -1,5 +1,6 @@
 ---
 title: "Rhymes and Syntax"
+layout: base
 author: Silvie Cinková, Petr Plecháč
 format: 
   revealjs:
@@ -84,7 +85,7 @@ Speaker notes go here.
 ~~~
 
 
-<!--
+<!---
 ---
 layout: base
 title:  'Sandbox'
@@ -553,4 +554,4 @@ obl(zbledla, mu)
 nsubj(zbledla, zoře)
 
 ~~~
-
+--->
