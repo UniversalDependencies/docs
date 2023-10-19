@@ -383,10 +383,6 @@ obj(zbledla, zoře)
 Speaker notes go here.
 :::
 
-<!--
-
-
-
 ## Current Czech prose - cases of preceding genitive: (a bit marked word-order) quantities governed by a genitive-requesting numeral and fixed expressions
 
 ~~~ conllu
