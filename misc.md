@@ -760,6 +760,49 @@ Italian, Korean, Portuguese, Russian, Spanish, Thai, Turkish.
 
 <a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^Proper$"><button>Table for <code>Proper</code> feature</button></a>
 
+### Reduplication
+
+This attribute is used in conjunction with the relation [flat:redup](la-dep/flat-redup). It is annotated on the second (or last) element receiving the relation and expresses in terms of UD morphological features the value of the reduplication, with the syntax `<Feature>:<Value>` (since the `=` sign is already used).
+
+It is attested experimentally in the Latin treebanks IT-TB, LLCT and UDante.
+
+```CoNLL-U
+# sent_id = DVE-71
+# text = Quot quot autem exercitii varietates tendebant ad opus, tot tot ydiomatibus tunc genus humanum disiungitur; et quanto excellentius exercebant, tanto rudius nunc barbariusque locuntur.
+# citation_hierarchy = Liber_Primus,vii,Paragraphus_7
+1	Quot	quot	DET	ai	NumType=Card|PronType=Rel	5	det	_	_
+2	quot	quot	DET	ai	NumType=Card|PronType=Rel	1	flat:redup	_	Reduplication=NumType:Dist
+3	autem	autem	PART	co	_	6	discourse	_	_
+4	exercitii	exercitium	NOUN	sns2g	Case=Gen|Gender=Neut|InflClass=IndEurO|Number=Sing	5	nmod	_	_
+5	varietates	uarietas	NOUN	sfp3n	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Plur	6	nsubj	_	_
+6	tendebant	tendo	VERB	va3iip3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	acl:relcl	_	TraditionalMood=Indicativus|TraditionalTense=Imperfectum
+7	ad	ad	ADP	e	_	8	case	_	_
+8	opus	opus	NOUN	sns3a	Case=Acc|Gender=Neut|InflClass=IndEurX|Number=Sing	6	obl:arg	_	SpaceAfter=No
+9	,	,	PUNCT	Pu	_	6	punct	_	_
+10	tot	tot	DET	yuip	NumType=Card|PronType=Dem	12	det	_	_
+11	tot	tot	DET	yuip	NumType=Card|PronType=Dem	10	flat:redup	_	Reduplication=NumType:Dist
+12	ydiomatibus	idioma	NOUN	snp3b	Case=Abl|Gender=Neut|InflClass=IndEurX|Number=Plur	16	obl	_	_
+13	tunc	tunc	ADV	r	PronType=Dem	16	advmod	_	_
+14	genus	genus	NOUN	sns3n	Case=Nom|Gender=Neut|InflClass=IndEurX|Number=Sing	16	nsubj:pass	_	_
+15	humanum	humanus	ADJ	ans1n	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	14	amod	_	_
+16	disiungitur	disiungo	VERB	vp3ips3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
+17	;	;	PUNCT	Pu	_	18	punct	_	_
+18	et	et	CCONJ	co	_	28	cc	_	_
+19	quanto	quanto	SCONJ	r	PronType=Rel	21	mark	_	_
+20	excellentius	excellenter	ADV	r+	Degree=Cmp|VerbForm=Part	21	advmod	_	_
+21	exercebant	exerceo	VERB	va2iip3	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	28	advcl:cmp	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Imperfectum
+22	,	,	PUNCT	Pu	_	21	punct	_	_
+23	tanto	tanto	ADV	r	PronType=Dem	24	advmod	_	_
+24	rudius	rude	ADV	r+	Degree=Cmp	28	advmod	_	_
+25	nunc	nunc	ADV	r	AdvType=Tim	28	advmod:tmod	_	_
+26-27	barbariusque	_	_	_	_	_	_	_	_
+26	barbarius	barbare	ADV	r+	Degree=Cmp	24	conj	_	_
+27	que	que	CCONJ	co9	_	26	cc	_	_
+28	locuntur	loquor	VERB	vd3ipp3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	16	conj	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
+29	.	.	PUNCT	Pu	_	16	punct	_	_
+```
+
+
 ### Ref
 
 Some standardized reference to the source text as used in classical studies. For example,
