@@ -350,6 +350,21 @@ nsubj(zbledla, zoře)
 
 ~~~
 
+## Current Czech prose - cases of preceding genitive: (a bit marked word-order) quantities governed by a genitive-requesting numeral and fixed expressions
+
+~~~ conllu
+Zájemce zaplatí 1020 korun manipulační poplatek.
+1	Zájemce	zájemce	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	2	nsubj	_	TokenRange=0:7
+2	zaplatí	zaplatit	VERB	VB-S---3P-AAP--	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	TokenRange=8:15
+3	1020	1020	NUM	C=-------------	NumForm=Digit|NumType=Card	4	nummod:gov	_	TokenRange=16:20
+4	korun	koruna	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	2	obj	_	TokenRange=21:26
+5	manipulační	manipulační	ADJ	AAIS4----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	6	amod	_	TokenRange=27:38
+6	poplatek	poplatek	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	2	obj	_	SpaceAfter=No|TokenRange=39:47
+7	.	.	PUNCT	Z:-------------	_	2	punct	_	SpaceAfter=No|TokenRange=47:48
+
+~~~  
+
+
 
 Ať drahokamů ozdoby Spadaly s ňader Tvých \n May jewels' decorations fall-off breasts yours
 
