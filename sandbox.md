@@ -265,15 +265,7 @@ advmod(hat-9,nur)
 parataxis(hat-2,hat-9)
 ~~~
 
-~~~ sdparse
-Ať drahokamů ozdoby Spadaly s ňader Tvých
-mark(Spadaly, Ať)
-nmod(ozdoby, drahokamů)
-nsubj(Spadaly, ozdoby)
-case(ňader, s)
-obl(Spadaly, ňader)
-amod(ňader, Tvých)
-~~~
+
 
 ## Test for #363
 
@@ -340,16 +332,22 @@ Simpler
   
 </div>
 
+## Czech 19th-century poetry
+
+
+
+
+
+
+
 ~~~ sdparse
-Alles hat ein Ende , nur die Wurst hat zwei .
-nsubj(hat-2,Alles)
-obj(hat-2,Ende)
-det(Ende,ein)
-nsubj(hat-9,Wurst)
-obj(hat-9,zwei)
-det(Wurst,die)
-advmod(hat-9,nur)
-parataxis(hat-2,hat-9)
+Ať drahokamů ozdoby Spadaly s ňader Tvých
+mark(Spadaly, Ať)
+nmod(ozdoby, drahokamů)
+nsubj(Spadaly, ozdoby)
+case(ňader, s)
+obl(Spadaly, ňader)
+amod(ňader, Tvých)
 
 ~~~
 
