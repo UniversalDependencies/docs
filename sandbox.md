@@ -1,5 +1,5 @@
 ---
-layout: revealjs
+layout: base
 title:  'Sandbox'
 ---
 
