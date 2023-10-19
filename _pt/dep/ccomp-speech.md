@@ -21,7 +21,7 @@ A polícia informou : " Foram 40 mil vítimas de o golpe " . \n The police repor
 
 ccomp:speech(informou,Foram)
 punct(Foram,"-5)
-punct(Foram,"-12)
+punct(Foram,"-13)
 punct(Foram,:)
 ~~~
 
