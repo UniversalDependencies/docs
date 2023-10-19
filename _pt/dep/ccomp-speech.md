@@ -1,11 +1,11 @@
 ---
 layout: relation
 title: 'ccomp:speech'
-shortdef: 'direct speech'
+shortdef: 'direct quotation'
 udver: '2'
 ---
 
-The `ccomp:speech` relation is a specialization of `ccomp` used for direct speech, when the exact spoken words are stated in the sentence.
+The `ccomp:speech` relation is a specialization of `ccomp` used for reported speech through direct quotation, when the exact spoken words are stated in the sentence.
 
 ~~~ sdparse
 " A busca por reparos aumentou cerca de 30 % em este ano " , diz Dalva . \n " The search for repairs increased by around 30 % this year " , says Dalva .
@@ -16,7 +16,16 @@ punct(aumentou,"-14)
 punct(aumentou,,)
 ~~~
 
-Direct speech can also be encoded without quotes or any other marks:
+~~~ sdparse
+A polícia informou : " Foram 40 mil vítimas de o golpe " . \n The police reported : " There were 40 thousand victims of the coup . "
+
+ccomp:speech(informou,Foram)
+punct(Foram,"-5)
+punct(Foram,"-12)
+punct(Foram,:)
+~~~
+
+Direct quotation can also be used without quotation marks:
 
 ~~~ sdparse
 Foram 40 mil vítimas de o golpe , informou a polícia . \n There were 40 thousand victims of the coup , the police reported .
