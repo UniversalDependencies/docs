@@ -386,7 +386,7 @@ Speaker notes go here.
 ## Current Czech prose - cases of preceding genitive: (a bit marked word-order) quantities governed by a genitive-requesting numeral and fixed expressions
 
 ~~~ conllu
-Zájemce zaplatí 1020 korun manipulační poplatek.
+#text=Zájemce zaplatí 1020 korun manipulační poplatek.
 1	Zájemce	zájemce	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	2	nsubj	_	TokenRange=0:7
 2	zaplatí	zaplatit	VERB	VB-S---3P-AAP-- Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	TokenRange=8:15
 3	1020	1020	NUM	C=-------------	NumForm=Digit|NumType=Card	4	nummod:gov	_	TokenRange=16:20
