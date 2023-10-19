@@ -1,4 +1,49 @@
 ---
+title: "Rhymes and Syntax"
+author: Silvie Cinková, Petr Plecháč
+format: 
+  revealjs:
+    theme: [default, silvie_fontstyles.scss]
+    scrollable: true
+editor: visual
+---
+
+
+## Morning star
+
+*The morning star of his hopes faded*
+
+*zbledla*[-faded]{.suppressed-text}
+*nadějí*[-hopes']{.suppressed-text}
+*mu*[-him3]{.suppressed-text}
+*zoře*[-morning star]{.suppressed-text}
+
+
+``` sdparse
+zbledla nadějí mu zoře 
+nmod(zoře, nadějí)
+obl(zbledla, mu)
+nsubj(zbledla, zoře)
+
+```
+
+``` sdparse
+zbledla nadějí mu zoře
+obl(zbledla, nadějí)
+obl:arg(zbledla, mu)
+obj(zbledla, zoře)
+
+```
+
+::: aside
+0067-0001-0001-0000-0007-0000_7/gold, auto 
+:::
+::: notes
+Speaker notes go here.
+:::
+
+<!--
+---
 layout: base
 title:  'Sandbox'
 ---
@@ -424,3 +469,4 @@ nsubj(zbledla, zoře)
 ~~~
 
 *zbledla*[(faded)]{style="font-size: smaller; color: maroon;"} *nadějí*[(hopes')]{style="font-size: smaller; color: #999999;"} *mu*[(him3)]{style="font-size: smaller; color: #999999;"} *zoře*[(morning star)]{style="font-size: smaller; color: #999999;"} 
+-->
