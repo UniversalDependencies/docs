@@ -1,4 +1,91 @@
 ---
+title: "Rhymes and Syntax"
+author: Silvie Cinková, Petr Plecháč
+format: 
+  revealjs:
+    theme: [default, silvie_fontstyles.scss]
+    scrollable: true
+editor: visual
+---
+
+
+## Attribute `nmod` in genitive before head noun
+
+*The morning star of his hopes faded*
+
+*zbledla*[-faded]{.suppressed-text}
+*nadějí*[-hopes']{.suppressed-text}
+*mu*[-him3]{.suppressed-text}
+*zoře*[-morning star]{.suppressed-text}
+
+
+~~~ sdparse
+zbledla nadějí mu zoře 
+nmod(zoře, nadějí)
+obl(zbledla, mu)
+nsubj(zbledla, zoře)
+
+~~~
+
+~~~ sdparse
+zbledla nadějí mu zoře
+obl(zbledla, nadějí)
+obl:arg(zbledla, mu)
+obj(zbledla, zoře)
+
+~~~
+
+::: aside
+0067-0001-0001-0000-0007-0000_7/gold, auto 
+:::
+::: notes
+Speaker notes go here.
+:::
+
+## Current Czech Prose - Attribute `nmod` in genitive before head noun
+
+*charakter*
+ *mé*[-my2]{.suppressed-text} 
+ *matky*[-mother2]{.suppressed-text}
+ 
+~~~ conllu
+# text = Charakter mé matky.
+1	Charakter	charakter	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	TokenRange=0:9
+2	mé	můj	DET	PSFS2-S1------1	Case=Gen|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	TokenRange=10:12
+3	matky	matka	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	1	nmod	_	SpaceAfter=No|TokenRange=13:18
+4	.	.	PUNCT	Z:-------------	_	1	punct	_	SpacesAfter=\s\r\n|TokenRange=18:19
+
+~~~
+
+
+
+~~~ conllu
+# text = Zájemce zaplatí 1020 korun manipulační poplatek.
+1	Zájemce	zájemce	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	2	nsubj	_	TokenRange=0:7
+2	zaplatí	zaplatit	VERB	VB-S---3P-AAP--	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	TokenRange=8:15
+3	1020	1020	NUM	C=-------------	NumForm=Digit|NumType=Card	4	nummod:gov	_	TokenRange=16:20
+4	korun	koruna	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	2	obj	_	TokenRange=21:26
+5	manipulační	manipulační	ADJ	AAIS4----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	6	amod	_	TokenRange=27:38
+6	poplatek	poplatek	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	2	obj	_	SpaceAfter=No|TokenRange=39:47
+7	.	.	PUNCT	Z:-------------	_	2	punct	_	TokenRange=47:48
+
+~~~
+
+
+~~~ conllu
+# text = Je to svého druhu unikum.
+1	Je	být	AUX	VB-S---3P-AAI--	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	TokenRange=49:51
+2	to	ten	DET	PDNS1----------	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	TokenRange=52:54
+3	svého	svůj	DET	P8ZS2----------	Case=Gen|Gender=Masc,Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	4	det	_	TokenRange=55:60
+4	druhu	druh	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	5	nmod	_	TokenRange=61:66
+5	unikum	unikum	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	0	root	_	SpaceAfter=No|TokenRange=67:73
+6	.	.	PUNCT	Z:-------------	_	5	punct	_	SpaceAfter=No|TokenRange=73:74
+
+~~~
+
+
+<!--
+---
 layout: base
 title:  'Sandbox'
 ---
