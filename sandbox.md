@@ -408,8 +408,6 @@ conj(nahotu, genitálie)
 
 ~~~
 
-
-
 ## Verbless clause
 0067-0001-0001-0000-0007-0000_7/gold
 ~~~ sdparse
@@ -424,3 +422,5 @@ obl(zbledla, mu)
 nsubj(zbledla, zoře)
 
 ~~~
+
+*zbledla*[(faded)]{style="font-size: smaller; color: maroon;"} *nadějí*[(hopes')]{style="font-size: smaller; color: #999999;"} *mu*[(him3)]{style="font-size: smaller; color: #999999;"} *zoře*[(morning star)]{style="font-size: smaller; color: #999999;"} 
