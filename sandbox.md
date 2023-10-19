@@ -1,6 +1,6 @@
 ---
 title: "Rhymes and Syntax"
-layout: base
+layout: presentation
 author: Silvie Cinková, Petr Plecháč
 format: 
   revealjs:
