@@ -334,12 +334,6 @@ Simpler
 
 ## Czech 19th-century poetry
 
-
-
-
-
-
-
 ~~~ sdparse
 Ať drahokamů ozdoby Spadaly s ňader Tvých
 mark(Spadaly, Ať)
@@ -363,3 +357,31 @@ obl(Drážděné, šípem)
 conj(nahotu, genitálie)
 
 ~~~
+
+
+~~~ sdparse
+Podťata mu lípa svatá , zbledla nadějí mu zoře 
+obl(Podťata, mu)
+dep(Podťata, lípa)
+amod(lípa, svatá)
+punct(zbledla, ,)
+parataxis(Podťata, zbledla)
+nmod(zoře, nadějí)
+obl(zbledla, mu)
+nsubj(zbledla, zoře)
+
+~~~
+
+
+
+
+
+
+
+
+
+
+
+
+
+
