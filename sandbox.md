@@ -1,7 +1,6 @@
 ---
-layout: base
+layout: revealjs
 title:  'Sandbox'
-format: revealjs
 ---
 
 ## Test
