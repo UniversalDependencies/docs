@@ -334,16 +334,51 @@ Simpler
 
 ## Czech 19th-century poetry
 
+0067-0001-0001-0000-0007-0000_7/gold
+zbledla nadějí mu zoře (= zbledla mu zoře nadějí) 
+the morning star of his hopes has faded
 ~~~ sdparse
-Ať drahokamů ozdoby Spadaly s ňader Tvých
+Podťata mu lípa svatá , zbledla nadějí mu zoře 
+obl(Podťata, mu)
+dep(Podťata, lípa)
+amod(lípa, svatá)
+punct(zbledla, ,)
+parataxis(Podťata, zbledla)
+nmod(zoře, nadějí)
+obl(zbledla, mu)
+nsubj(zbledla, zoře)
+
+~~~
+
+
+Ať drahokamů ozdoby Spadaly s ňader Tvých \n May jewels' decorations fall-off breasts yours
+
+~~~ sdparse
+Ať drahokamů ozdoby Spadaly s ňader Tvých 
 mark(Spadaly, Ať)
 nmod(ozdoby, drahokamů)
 nsubj(Spadaly, ozdoby)
 case(ňader, s)
 obl(Spadaly, ňader)
 amod(ňader, Tvých)
+~~~
+
+
+~~~ sdparse
+Ať drahokamů ozdoby Spadaly s ňader Tvých 
+nmod(ozdoby, drahokamů)
+nsubj(Spadaly, ozdoby)
 
 ~~~
+
+Genitive attribute preceding parent noun 
+ drahokamů ozdoby 
+
+
+0362-0001-0003-0000-0011-0000_12/gold
+Šebestián sličný Kypící nahotu , Drážděné šípem genitálie ukazuje
+Sebastian handsome shows abundant nakedness and genitals teased by an arrow
+... irritated by-arrow genitals shows
 
 ~~~ sdparse
 Šebestián sličný Kypící nahotu , Drážděné šípem genitálie ukazuje 
@@ -359,6 +394,9 @@ conj(nahotu, genitálie)
 ~~~
 
 
+
+## Verbless clause
+0067-0001-0001-0000-0007-0000_7/gold
 ~~~ sdparse
 Podťata mu lípa svatá , zbledla nadějí mu zoře 
 obl(Podťata, mu)
@@ -371,17 +409,3 @@ obl(zbledla, mu)
 nsubj(zbledla, zoře)
 
 ~~~
-
-
-
-
-
-
-
-
-
-
-
-
-
-
