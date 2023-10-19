@@ -50,7 +50,6 @@ This is an overview only.
   * Classical Armenian has numerous _pluralia tantum_ nouns, the plural form of which expresses a single entity or abstract notion, cf. _ապարանք_/_aparankʽ_ “palace”, _երեսք_/_ereskʽ_ “face”, _բարիք_/_barikʽ_ “goodness”, etc.
 * [Case]() has seven values: `Nom`, `Acc`, `Gen`, `Dat`, `Abl`, `Ins`, `Loc`. It occurs with [NOUN](), [PROPN](), [NUM](), [PRON](), [DET](), [ADJ](), as well as with participles and verbal nouns, tagged [VERB]() or [AUX]().
 * [NumType]() is used with numerals ([NUM]()) and adjectives ([ADJ]())
-* [Animacy]() can be lexically expressed in [PRON](), while [Definite]() can be lexically expressed in [PRON]() and [DET]().
 
 
 ### Pronouns, Determiners, Quantifiers
@@ -58,7 +57,9 @@ This is an overview only.
 * [PronType]() is used with pronouns ([PRON]()), determiners ([DET]()), adverbs ([ADV]()) and deictic interjections ([INTJ]()).
 * [Poss]() marks possessive personal determiners (e.g. _իմ_/_im_ “my”, _իւր_/_iwr_ “his/her own”).
 * [Reflex]() marks reflexive pronoun _իւր_/_iwr_ (gen.sg.) “of him/her-self” and determiner _իւր_/_iwr_ (nom.sg.), _իւրոյ_/_iwroy_ “his/her own”.
+* [Animacy]() has two values `Anim` and `Inan` and can be lexically expressed in [PRON](), e.g. _ոմն_/_omn_ “somebody”, _զինչ_/_zinčʽ_ “what”.
 * [Person]() is lexically expressed in personal pronouns ([PRON]()). Only the first and second person pronouns are marked with the values `1` and `2`, respectively. The third person pronoun _նա_/_na_ “(s)he, it” coincides with the demonstrative _նա_/_na_ “that” and is left unmarked. The same applies to the possessive determiners.
+* [Definite]() has two values `Def` and `Spec` can be lexically expressed in [DET](), e.g.  _զ_=/_z_= (nota accusativi), _մի_/_mi_ “a certain”. 
 
 ### Verbal Features
 
