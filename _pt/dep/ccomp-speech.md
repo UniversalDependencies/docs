@@ -17,7 +17,7 @@ punct(aumentou,,)
 ~~~
 
 ~~~ sdparse
-A polícia informou : " Foram 40 mil vítimas de o golpe " . \n The police reported : " There were 40 thousand victims of the coup . "
+A polícia informou : " Foram 40 mil vítimas de o golpe " . \n The police reported : " There were 40 thousand victims of the scam . "
 
 ccomp:speech(informou,Foram)
 punct(Foram,"-5)
@@ -28,8 +28,17 @@ punct(Foram,:)
 Direct quotation can also be used without quotation marks:
 
 ~~~ sdparse
-Foram 40 mil vítimas de o golpe , informou a polícia . \n There were 40 thousand victims of the coup , the police reported .
+Foram 40 mil vítimas de o golpe , informou a polícia . \n There were 40 thousand victims of the scam , the police reported .
 
 ccomp:speech(informou,Foram)
 punct(Foram,,)
+~~~
+
+When the reported speech is introduced by `SCONJ`, the clause is annotated as a regular `ccomp`:
+
+~~~ sdparse
+A polícia informou que foram 40 mil vítimas do golpe . \n The police reported that there were 40 thousand victims of the scam .
+
+ccomp(informou,foram)
+mark(foram,que)
 ~~~
