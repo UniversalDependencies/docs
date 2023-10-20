@@ -337,6 +337,7 @@ Simpler
 0067-0001-0001-0000-0007-0000_7/gold
 zbledla nadějí mu zoře (= zbledla mu zoře nadějí) 
 the morning star of his hopes has faded
+
 ~~~ sdparse
 Podťata mu lípa svatá , zbledla nadějí mu zoře 
 obl(Podťata, mu)
@@ -368,19 +369,28 @@ nsubj(zbledla, zoře)
 
 ```
 
+### morning star of his hopes
+gold
+``` sdparse
+zbledla nadějí mu zoře 
+nmod(zoře, nadějí)
+```
+auto
 ``` sdparse
 zbledla nadějí mu zoře
 obl(zbledla, nadějí)
-obl:arg(zbledla, mu)
-obj(zbledla, zoře)
+```
+
+## faded morning star
+gold
+``` sdparse
+zbledla nadějí mu zoře 
+nsubj(zbledla, zoře)
 
 ```
 
-::: aside
-0067-0001-0001-0000-0007-0000_7/gold, auto 
-:::
 ::: notes
-Speaker notes go here.
+0067-0001-0001-0000-0007-0000_7/gold, auto 
 :::
 
 ## Current Czech prose - cases of preceding genitive: (a bit marked word-order) quantities governed by a genitive-requesting numeral and fixed expressions
