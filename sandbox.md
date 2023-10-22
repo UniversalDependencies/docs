@@ -332,26 +332,27 @@ Simpler
   
 </div>
 
-
 ## Current Czech prose - cases of preceding genitive: (a bit marked word-order) quantities governed by a genitive-requesting numeral and fixed expressions
 
 And it gets wrongly parsed as two objects anyway!
 
 ~~~ conllu
-# text = Zaplatíte 1020 korun poplatek.
-1	zaplatíte	zaplatit	_	_	_	_	_	0	root	_
-2	korun	koruna	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	1	obj	_	TokenRange=21:26
-3	poplatek	poplatek	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	1	obj	_	SpaceAfter=No|TokenRange=39:47
+# text = Zaplatíte 1200 korun poplatek
+1	Zaplatíte	zaplatit	VERB	VB-P---2P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	TokenRange=0:9
+2	1200	1200	NUM	C=-------------	NumForm=Digit|NumType=Card	3	nummod:gov	_	TokenRange=10:14
+3	korun	koruna	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	1	obj	_	TokenRange=15:20
+4	poplatek	poplatek	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	1	obj	_	SpacesAfter=\r\n|TokenRange=21:29
 
 ~~~  
 
 This would be parsed correctly
 
 ~~~ conllu
-# text = Zaplatíte poplatek 1020 korun.
-1	zaplatíte	zaplatit	_	_	_	_	_	0	root	
-2	korun	koruna	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	1	obj	_	TokenRange=21:26
-3	poplatek	poplatek	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	1	obj	_	SpaceAfter=No|TokenRange=39:47
+# text = Zaplatíte poplatek 1200 korun
+1	Zaplatíte	zaplatit	VERB	VB-P---2P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	TokenRange=0:9
+2	poplatek	poplatek	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	1	obj	_	TokenRange=10:18
+3	1200	1200	NUM	C=-------------	NumForm=Digit|NumType=Card	4	nummod:gov	_	TokenRange=19:23
+4	korun	koruna	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	2	nmod	_	SpacesAfter=\s\r\n|TokenRange=24:29
 
 ~~~  
 
@@ -556,7 +557,7 @@ nsubj(domaloval, anděl)
  1010-0001-0001-0000-0001-0000_4/auto
 
 ~~~ sdparse
-Madonny když líc mu anděl tajně přes noc domaloval !
+schoval , Madonny když líc mu anděl tajně přes noc domaloval !
 conj(schoval, Madonny)
 mark(domaloval, když)
 obj(domaloval, líc)
@@ -577,12 +578,9 @@ When the whole structure comes after the verb, the parser usually just swaps the
  0956-0002-0000-0000-0014-0000_7/gold
 
 ~~~ sdparse
-zpíval kdys kraje , lidu hlas .
+písně , jež zpíval kraje hlas .
 acl:relcl(písně, zpíval)
-advmod(zpíval, kdys)
 nmod(hlas, kraje)
-punct(lidu, ,)
-conj(kraje, lidu)
 nsubj(zpíval, hlas)
 
 ~~~
@@ -590,30 +588,25 @@ nsubj(zpíval, hlas)
 0956-0002-0000-0000-0014-0000_7/auto
  
 ~~~ sdparse
-zpíval kdys kraje , lidu hlas .
+písně , jež zpíval  kraje hlas .
 acl:relcl(písně, zpíval)
-advmod(zpíval, kdys)
 nsubj(zpíval, kraje)
-punct(lidu, ,)
-conj(kraje, lidu)
 conj(kraje, hlas)
-punct(najdeš, .)
 
 ~~~
 
 
 Another such example (swapped dependency when after verb)
 
+
 1066-0001-0002-0000-0005-0000_4/gold
 
 ~~~ sdparse
 Proč nešel s všedních lidí davem ?
-advmod(nešel, Proč)
 case(davem, s)
 amod(lidí, všedních)
 nmod(davem, lidí)
 obl(nešel, davem)
-punct(nešel, ?)
 
 ~~~
 
@@ -621,12 +614,10 @@ punct(nešel, ?)
 
 ~~~ sdparse
 Proč nešel s všedních lidí davem ?
-advmod(nešel, Proč)
 case(lidí, s)
 amod(lidí, všedních)
 obl(nešel, lidí)
 obl(nešel, davem)
-punct(nešel, ?)
 
 ~~~
 
@@ -636,29 +627,30 @@ Count *tagging* errors in genitive plurals
  
  řas Gen Pl of řasa (eyelash), parser mislemmatizes it as accusative of masculine inanimate singular "řas" 
  
+ 
 sny, jež obletují tvář Jí vnadnou, odhání pryč řas pružným vějířem 
  
 ~~~ conllu 
 # sent_id = 1191-0001-0003-0000-0002-0000_8/gold
-# text = sny, jež obletují tvář Jí vnadnou, odhání pryč řas pružným vějířem
-1	sny	sen	NOUN	NNIP1-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	9	obj	_	SpaceAfter=No
-9	odhání	odhánět	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-10	pryč	pryč	ADV	Db-------------	_	9	advmod	_	_
-11	řas	řasa	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	13	nmod	_	_
-12	pružným	pružný	ADJ	AAIS7----1A----	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	13	amod	_	_
-13	vějířem	vějíř	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	9	obl	_	SpaceAfter=No
+# text = sny odhání pryč řas pružným vějířem
+1	sny	sen	NOUN	NNIP1-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	2	obj	_	SpaceAfter=No
+2	odhání	odhánět	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	pryč	pryč	ADV	Db-------------	_	2	advmod	_	_
+4	řas	řasa	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	6	nmod	_	_
+5	pružným	pružný	ADJ	AAIS7----1A----	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	6	amod	_	_
+6	vějířem	vějíř	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	2	obl	_	SpaceAfter=No
 
 ~~~ 
 
 ~~~ conllu
 # sent_id = 1191-0001-0003-0000-0002-0000_11/auto
-# text = sny, jež obletují tvář Jí vnadnou, odhání pryč řas pružným vějířem.
-1	sny	sen	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	9	obj	_	SpaceAfter=No
-9	odhání	odhánět	VERB	VB-S---3P-AAI--	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-10	pryč	pryč	ADV	Db-------------	_	9	advmod	_	_
-11	řas	řas	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	9	obj	_	_
-12	pružným	pružný	ADJ	AAIS7----1A----	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	13	amod	_	_
-13	vějířem	vějíř	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	9	obl	_	SpaceAfter=No
+# text = sny odhání pryč řas pružným vějířem.
+1	sny	sen	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	2	obj	_	SpaceAfter=No
+2	odhání	odhánět	VERB	VB-S---3P-AAI--	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	pryč	pryč	ADV	Db-------------	_	2	advmod	_	_
+4	řas	řas	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	2	obj	_	_
+5	pružným	pružný	ADJ	AAIS7----1A----	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	6	amod	_	_
+6	vějířem	vějíř	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	2	obl	_	SpaceAfter=No
 
 ~~~
 
@@ -669,7 +661,6 @@ Preposed adjectival attribute, sequence interrupted (non-projective trees)
 
 ~~~ sdparse
 rozlétla se, usadila černá na bílou až horu
-xcomp(usadila, černá)
 case(horu, na)
 amod(horu, bílou)
 advmod:emph(usadila, až)
@@ -681,7 +672,6 @@ obl(usadila, horu)
  
 ~~~ sdparse 
 rozlétla se , usadila černá na bílou až horu .
-xcomp(usadila, černá)
 case(bílou, na)
 dep(usadila, bílou)
 advmod:emph(horu, až)
@@ -694,9 +684,6 @@ obj(usadila, horu)
 ~~~ sdparse
 jediné jen dej mi slyšet slovo
 amod(slovo, jediné)
-advmod:emph(dej, jen)
-obl:arg(dej, mi)
-xcomp(dej, slyšet)
 obj(slyšet, slovo)
 
 ~~~
@@ -706,9 +693,6 @@ obj(slyšet, slovo)
 ~~~ sdparse
 jediné jen dej mi slyšet slovo
 dep(dej, jediné)
-advmod:emph(dej, jen)
-obl:arg(dej, mi)
-xcomp(dej, slyšet)
 obj(slyšet, slovo)
 
 ~~~ 
@@ -723,7 +707,7 @@ det(hlavou, jehožto)
 nsubj(stkví, křížek)
 acl:relcl(lůžku, stkví)
 expl:pv(stkví, se)
-obl(stkví, hlavou)
+
 
 ~~~
 
@@ -735,8 +719,6 @@ case(jehožto, Nad)
 obl(stkví, jehožto)
 nsubj(stkví, křížek)
 conj(spíte, stkví)
-expl:pv(stkví, se)
-obl(stkví, hlavou)
 
 ~~~
 
@@ -745,9 +727,6 @@ obl(stkví, hlavou)
 ~~~ sdparse
 Mnohý tak odkvet’ mi v žití stvol 
 amod(stvol, Mnohý)
-advmod(odkvet’, tak)
-obl:arg(odkvet’, mi)
-case(žití, v)
 obl(odkvet’, žití)
 nsubj(odkvet’, stvol)
 
@@ -758,9 +737,6 @@ nsubj(odkvet’, stvol)
 ~~~ sdparse
 Mnohý tak odkvet’ mi v žití stvol
 nsubj(odkvet’, Mnohý)
-advmod(odkvet’, tak)
-obl:arg(odkvet’, mi)
-case(žití, v)
 obl(odkvet’, žití)
 obj(odkvet’, stvol)
 
@@ -775,20 +751,16 @@ Sebastian handsome abundant nakedness, genitals teased by an arrow exposes
 
 .
 
-Šebestián sličný Kypící nahotu , Drážděné šípem genitálie ukazuje
+Šebestián ... Drážděné šípem genitálie ukazuje
 
 ~~~ sdparse
-Šebestián sličný Kypící nahotu , Drážděné šípem genitálie ukazuje 
+Šebestián Drážděné šípem genitálie ukazuje 
 nsubj(ukazuje, Šebestián)
-amod(Šebestián, sličný)
-amod(nahotu, Kypící)
-obj(ukazuje, nahotu)
-punct(genitálie, ,)
 amod(genitálie, Drážděné)
 obl(Drážděné, šípem)
-conj(nahotu, genitálie)
 
 ~~~
+
 
 
 
