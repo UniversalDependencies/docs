@@ -424,13 +424,6 @@ det(ňader, Tvých)
 ~~~ 
 
 
-
-
-
-
-
-
-
 but the sequence can be interrupted: here adjectival attribute of the head noun and adverb - hair previously red
  
 ---------
@@ -589,6 +582,7 @@ case(noc, přes)
 obl(domaloval, noc)
 advcl(schoval, domaloval)
 punct(divím, !)
+~~~
 
 Mind to add the screenshot of the tree graph in the presentation
 
