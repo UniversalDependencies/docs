@@ -332,67 +332,8 @@ Simpler
   
 </div>
 
-## Czech 19th-century poetry
 
-0067-0001-0001-0000-0007-0000_7/gold
-zbledla nadějí mu zoře (= zbledla mu zoře nadějí) 
-the morning star of his hopes has faded
-
-~~~ sdparse
-Podťata mu lípa svatá , zbledla nadějí mu zoře 
-obl(Podťata, mu)
-dep(Podťata, lípa)
-amod(lípa, svatá)
-punct(zbledla, ,)
-parataxis(Podťata, zbledla)
-nmod(zoře, nadějí)
-obl(zbledla, mu)
-nsubj(zbledla, zoře)
-
-~~~
-
-## Morning star
-
-*The morning star of his hopes faded*
-
-*zbledla*[-faded]{.suppressed-text}
-*nadějí*[-hopes']{.suppressed-text}
-*mu*[-him3]{.suppressed-text}
-*zoře*[-morning star]{.suppressed-text}
-
-
-``` sdparse
-zbledla nadějí mu zoře 
-nmod(zoře, nadějí)
-obl(zbledla, mu)
-nsubj(zbledla, zoře)
-
-```
-
-### morning star of his hopes
-gold
-``` sdparse
-zbledla nadějí mu zoře 
-nmod(zoře, nadějí)
-```
-auto
-``` sdparse
-zbledla nadějí mu zoře
-obl(zbledla, nadějí)
-```
-
-## faded morning star
-gold
-``` sdparse
-zbledla nadějí mu zoře 
-nsubj(zbledla, zoře)
-
-```
-
-::: notes
-0067-0001-0001-0000-0007-0000_7/gold, auto 
-:::
-
+## Czech 19th century poetry presentation
 ## Current Czech prose - cases of preceding genitive: (a bit marked word-order) quantities governed by a genitive-requesting numeral and fixed expressions
 
 
@@ -420,34 +361,419 @@ nsubj(zbledla, zoře)
 ~~~
 
 
-Ať drahokamů ozdoby Spadaly s ňader Tvých \n May jewels' decorations fall-off breasts yours
+
+
+
+
+
+
+
+
+
+
+
+## Head and preposed genitive noun attribute adjacent
+
+0078-0001-0000-0000-0028-0000_7/gold
+
+~~~ sdparse
+věrni Bohu a věrni otců dědictví 
+obl:arg(věrni, Bohu)
+cc(věrni, a)
+conj(věrni, věrni)
+nmod(dědictví, otců)
+obl:arg(věrni, dědictví)
+
+~~~
+
+
+ 0078-0001-0000-0000-0028-0000_8/auto
+ 
+ focused error: otců dědictví
+ 
+~~~ sdparse
+věrni Bohu a věrni otců dědictví
+obl:arg(věrni, Bohu)
+cc(věrni, a)
+conj(věrni, věrni)
+obl:arg(věrni, otců)
+obl:arg(věrni, dědictví)
+
+~~~
+
+
+0362-0001-0003-0000-0011-0000_8/gold
 
 ~~~ sdparse
 Ať drahokamů ozdoby Spadaly s ňader Tvých 
-mark(Spadaly, Ať)
 nmod(ozdoby, drahokamů)
+nsubj(Spadaly, ozdoby)
+~~~
+
+
+0362-0001-0003-0000-0011-0000_8/auto
+~~~ sdparse
+drahokamů ozdoby Spadaly s ňader Tvých 
+
+nsubj(Spadaly, drahokamů)
 nsubj(Spadaly, ozdoby)
 case(ňader, s)
 obl(Spadaly, ňader)
-amod(ňader, Tvých)
+det(ňader, Tvých)
+
+~~~ 
+
+
+
+
+
+
+
+
+
+but the sequence can be interrupted: here adjectival attribute of the head noun and adverb - hair previously red
+ 
+---------
+
+0362-0001-0003-0000-0011-0000_1/auto
+error: v záplavě kdysi rudých vlasů
+
+~~~ sdparse
+V rudých kdys vlasů záplavě jsem viděl světici .
+case(kdys, V)
+amod(kdys, rudých)
+advmod(viděl, kdys)
+nmod(kdys, vlasů)
+obl(viděl, záplavě)
+aux(viděl, jsem)
+obj(viděl, světici)
+punct(viděl, .)
+
 ~~~
+
+ 0362-0001-0003-0000-0011-0000_1/gold
+
+~~~ sdparse
+V rudých kdys vlasů záplavě jsem viděl světici .
+case(záplavě, V)
+amod(vlasů, rudých)
+advmod(viděl, kdys)
+nmod(záplavě, vlasů)
+obl(viděl, záplavě)
+aux(viděl, jsem)
+obj(viděl, světici)
+punct(viděl, .)
+
+~~~
+
+
+
+0067-0001-0001-0000-0007-0000_7/gold
+
+~~~ sdparse
+Podťata mu lípa svatá , zbledla nadějí mu zoře 
+obl(Podťata, mu)
+dep(Podťata, lípa)
+amod(lípa, svatá)
+punct(zbledla, ,)
+parataxis(Podťata, zbledla)
+nmod(zoře, nadějí)
+obl(zbledla, mu)
+nsubj(zbledla, zoře)
+
+~~~
+0067-0001-0001-0000-0007-0000_7/auto
+focused error: zoře nadějí
 
 
 ~~~ sdparse
-Ať drahokamů ozdoby Spadaly s ňader Tvých 
-nmod(ozdoby, drahokamů)
-nsubj(Spadaly, ozdoby)
+Podťata mu lípa svatá , zbledla nadějí mu zoře , a dub velký zasazen byl na rov mu na Bílé hoře .
+obl:arg(Podťata, mu)
+nsubj(Podťata, lípa)
+amod(lípa, svatá)
+punct(zbledla, ,)
+conj(Podťata, zbledla)
+obl(zbledla, nadějí)
+obl:arg(zbledla, mu)
+obj(zbledla, zoře)
+punct(zbledla, ,)
+
+~~~~
+
+the same in conllu
+nadějí wrongly tagged as instrumental, "His morning star has faded from hopes" (hopes caused the fading) 
+~~~ conllu
+# sent_id = 0067-0001-0001-0000-0007-0000_7/auto
+# text = Podťata mu lípa svatá, zbledla nadějí mu zoře
+1	Podťata	podťatý	ADJ	VsQW----X-APP--	Aspect=Perf|Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+2	mu	on	PRON	P5ZS3--3-------	Case=Dat|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs|Variant=Short	1	obl:arg	_	_
+3	lípa	lípa	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	1	nsubj	_	_
+4	svatá	svatý	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	3	amod	_	SpaceAfter=No
+5	,	,	PUNCT	Z:-------------	_	6	punct	_	_
+6	zbledla	zblednout	VERB	VpQW----R-AAP-1	Aspect=Perf|Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	1	conj	_	_
+7	nadějí	naděje	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	6	obl	_	_
+8	mu	on	PRON	P5ZS3--3-------	Case=Dat|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs|Variant=Short	6	obl:arg	_	_
+9	zoře	zoře	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	6	obj	_	SpaceAfter=No
 
 ~~~
 
-Genitive attribute preceding parent noun 
- drahokamů ozdoby 
 
+
+
+----
+Non-projective preposed genitive attribute
+
+0883-0001-0002-0000-0009-0000_2/gold
+
+~~~ sdparse
+Myšlenek ať táhnou roje přes tvůj hrob 
+nmod(roje, Myšlenek)
+advmod(táhnou, ať)
+nsubj(táhnou, roje)
+case(hrob, přes)
+det(hrob, tvůj)
+obl(táhnou, hrob)
+
+~~~
+
+Parser gets confused, two nsubj - parser considers the first noun nsubj despite weird case, also in the next sentence   
+ 
+0883-0001-0002-0000-0009-0000_2/auto
+
+~~~ sdparse
+Myšlenek ať táhnou roje přes tvůj hrob
+nsubj(táhnou, Myšlenek)
+advmod(táhnou, ať)
+nsubj(táhnou, roje)
+case(hrob, přes)
+det(hrob, tvůj)
+obl(táhnou, hrob)
+
+~~~
+
+Another non-projective case
+
+The whole sentence: **A ráno pak se často divím víc , než Fra Angelico , jenž v ruce schoval tvář bledou žasem , Madonny když líc mu anděl tajně přes noc domaloval !**
+
+1010-0001-0001-0000-0001-0000_3/gold
+
+~~~ sdparse
+Madonny když líc mu anděl tajně přes noc domaloval
+nmod(líc, Madonny)
+mark(domaloval, když)
+obj(domaloval, líc)
+obl:arg(domaloval, mu)
+nsubj(domaloval, anděl)
+
+~~~
+
+ 1010-0001-0001-0000-0001-0000_4/auto
+
+~~~ sdparse
+Fra Angelico , jenž v ruce schoval tvář bledou žasem , Madonny když líc mu anděl tajně přes noc domaloval !
+flat(Fra, Angelico)
+punct(schoval, ,)
+nsubj(schoval, jenž)
+acl:relcl(Fra, schoval)
+obj(schoval, tvář)
+amod(tvář, bledou)
+obl(bledou, žasem)
+punct(Madonny, ,)
+conj(schoval, Madonny)
+mark(domaloval, když)
+obj(domaloval, líc)
+obl:arg(domaloval, mu)
+nsubj(domaloval, anděl)
+advmod(domaloval, tajně)
+case(noc, přes)
+obl(domaloval, noc)
+advcl(schoval, domaloval)
+punct(divím, !)
+
+Mind to add the screenshot of the tree graph in the presentation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+When the whole structure comes after the verb, the parser usually just swaps the dependency relation
+
+ 0956-0002-0000-0000-0014-0000_7/gold
+
+~~~ sdparse
+zpíval kdys kraje , lidu hlas .
+acl:relcl(písně, zpíval)
+advmod(zpíval, kdys)
+nmod(hlas, kraje)
+punct(lidu, ,)
+conj(kraje, lidu)
+nsubj(zpíval, hlas)
+
+~~~
+
+0956-0002-0000-0000-0014-0000_7/auto
+ 
+~~~ sdparse
+zpíval kdys kraje , lidu hlas .
+acl:relcl(písně, zpíval)
+advmod(zpíval, kdys)
+nsubj(zpíval, kraje)
+punct(lidu, ,)
+conj(kraje, lidu)
+conj(kraje, hlas)
+punct(najdeš, .)
+
+~~~
+
+
+Another such example (swapped dependency when after verb)
+
+1066-0001-0002-0000-0005-0000_4/gold
+
+~~~ sdparse
+Proč nešel s všedních lidí davem ?
+advmod(nešel, Proč)
+case(davem, s)
+amod(lidí, všedních)
+nmod(davem, lidí)
+obl(nešel, davem)
+punct(nešel, ?)
+
+~~~
+
+1066-0001-0002-0000-0005-0000_4/auto
+
+~~~ sdparse
+Proč nešel s všedních lidí davem ?
+advmod(nešel, Proč)
+case(lidí, s)
+amod(lidí, všedních)
+obl(nešel, lidí)
+obl(nešel, davem)
+punct(nešel, ?)
+
+~~~
+
+
+Sometimes the problem is aggravated by wrong tagging and lemmatization of genitives (here a comparative stat to PDT, does number matter, too? Maybe plural even worse??)
+Count *tagging* errors in genitive plurals
+ 
+ řas Gen Pl of řasa (eyelash), parser mislemmatizes it as accusative of masculine inanimate singular "řas" 
+ 
+sny, jež obletují tvář Jí vnadnou, odhání pryč řas pružným vějířem 
+ 
+~~~ conllu 
+# sent_id = 1191-0001-0003-0000-0002-0000_8/gold
+# text = sny, jež obletují tvář Jí vnadnou, odhání pryč řas pružným vějířem
+1	sny	sen	NOUN	NNIP1-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	9	obj	_	SpaceAfter=No
+2	,	,	PUNCT	Z:-------------	_	4	punct	_	_
+3	jež	jenž	PRON	PJIP1----------	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PrepCase=Npr|PronType=Rel	24	nsubj	_	_
+4	obletují	obletovat	VERB	VB-P---3P-AA---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	acl:relcl	_	_
+5	tvář	tvář	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	4	obj	_	_
+6	Jí	on	PRON	PPFS7--3-------	Case=Ins|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	4	obl:arg	_	_
+7	vnadnou	vnadný	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	5	amod	_	SpaceAfter=No
+8	,	,	PUNCT	Z:-------------	_	9	punct	_	_
+9	odhání	odhánět	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+10	pryč	pryč	ADV	Db-------------	_	9	advmod	_	_
+11	řas	řasa	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	13	nmod	_	_
+12	pružným	pružný	ADJ	AAIS7----1A----	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	13	amod	_	_
+13	vějířem	vějíř	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	9	obl	_	SpaceAfter=No
+
+~~~ 
+
+~~~ conllu
+# sent_id = 1191-0001-0003-0000-0002-0000_11/auto
+# text = sny, jež obletují tvář Jí vnadnou, odhání pryč řas pružným vějířem.
+1	sny	sen	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	9	obj	_	SpaceAfter=No
+2	,	,	PUNCT	Z:-------------	_	4	punct	_	_
+3	jež	jenž	PRON	P4IP1----------	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	4	nsubj	_	_
+4	obletují	obletovat	VERB	VB-P---3P-AAI--	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	acl:relcl	_	_
+5	tvář	tvář	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	4	obj	_	_
+6	Jí	on	PRON	PEFS7--3------1	Case=Ins|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	5	nmod	_	_
+7	vnadnou	vnadný	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	5	amod	_	SpaceAfter=No
+8	,	,	PUNCT	Z:-------------	_	4	punct	_	_
+9	odhání	odhánět	VERB	VB-S---3P-AAI--	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+10	pryč	pryč	ADV	Db-------------	_	19	advmod	_	_
+11	řas	řas	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	19	obj	_	_
+12	pružným	pružný	ADJ	AAIS7----1A----	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	23	amod	_	_
+13	vějířem	vějíř	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	19	obl	_	SpaceAfter=No
+
+~~~
+
+Preposed adjectival attribute, sequence interrupted (non-projective trees)
+0067-0001-0001-0000-0007-0000_2/gold
+
+(vrána) rozlétla se, usadila černá usadila na bílou až horu 
+
+~~~ sdparse
+rozlétla se, usadila černá na bílou až horu
+xcomp(usadila, černá)
+case(horu, na)
+amod(horu, bílou)
+advmod:emph(usadila, až)
+obl(usadila, horu)
+
+~~~
+
+0067-0001-0001-0000-0007-0000_2/auto 
+ 
+~~~ sdparse 
+rozlétla se , usadila černá na bílou až horu .
+xcomp(usadila, černá)
+case(bílou, na)
+dep(usadila, bílou)
+advmod:emph(horu, až)
+obj(usadila, horu)
+
+~~~
+
+0083-0001-0001-0000-0015-0000_12/gold
+
+~~~ sdparse
+jediné jen dej mi slyšet slovo
+amod(slovo, jediné)
+advmod:emph(dej, jen)
+obl:arg(dej, mi)
+xcomp(dej, slyšet)
+obj(slyšet, slovo)
+
+~~~
+
+ 0083-0001-0001-0000-0015-0000_12/auto
+ 
+~~~ sdparse
+jediné jen dej mi slyšet slovo
+dep(dej, jediné)
+advmod:emph(dej, jen)
+obl:arg(dej, mi)
+xcomp(dej, slyšet)
+obj(slyšet, slovo)
+
+~~~ 
+
+-------------------
+Preposed predicative attribute with argument structure - this would be postposed in current Czech prose  
 
 0362-0001-0003-0000-0011-0000_12/gold
+Sebastian handsome abundant nakedness, genitals teased by an arrow exposes
+
+.
+
 Šebestián sličný Kypící nahotu , Drážděné šípem genitálie ukazuje
-Sebastian handsome shows abundant nakedness and genitals teased by an arrow
-... irritated by-arrow genitals shows
 
 ~~~ sdparse
 Šebestián sličný Kypící nahotu , Drážděné šípem genitálie ukazuje 
@@ -462,18 +788,8 @@ conj(nahotu, genitálie)
 
 ~~~
 
-## Verbless clause
-0067-0001-0001-0000-0007-0000_7/gold
-~~~ sdparse
-Podťata mu lípa svatá , zbledla nadějí mu zoře 
-obl(Podťata, mu)
-dep(Podťata, lípa)
-amod(lípa, svatá)
-punct(zbledla, ,)
-parataxis(Podťata, zbledla)
-nmod(zoře, nadějí)
-obl(zbledla, mu)
-nsubj(zbledla, zoře)
 
-~~~
+
+
+
 
