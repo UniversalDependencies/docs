@@ -331,21 +331,9 @@ Simpler
 15	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
   
 </div>
-
 ## Current Czech prose - cases of preceding genitive: (a bit marked word-order) quantities governed by a genitive-requesting numeral and fixed expressions
 
-And it gets wrongly parsed as two objects anyway!
-
-~~~ conllu
-# text = Zaplatíte 1200 korun poplatek
-1	Zaplatíte	zaplatit	VERB	VB-P---2P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	TokenRange=0:9
-2	1200	1200	NUM	C=-------------	NumForm=Digit|NumType=Card	3	nummod:gov	_	TokenRange=10:14
-3	korun	koruna	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	1	obj	_	TokenRange=15:20
-4	poplatek	poplatek	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	1	obj	_	SpacesAfter=\r\n|TokenRange=21:29
-
-~~~  
-
-This would be parsed correctly
+This would be parsed correctly, neutral word order
 
 ~~~ conllu
 # text = Zaplatíte poplatek 1200 korun
@@ -356,6 +344,18 @@ This would be parsed correctly
 
 ~~~  
 
+
+
+And this slightly marked word order gets wrongly parsed as two objects!
+
+~~~ conllu
+# text = Zaplatíte 1200 korun poplatek
+1	Zaplatíte	zaplatit	VERB	VB-P---2P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	TokenRange=0:9
+2	1200	1200	NUM	C=-------------	NumForm=Digit|NumType=Card	3	nummod:gov	_	TokenRange=10:14
+3	korun	koruna	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	1	obj	_	TokenRange=15:20
+4	poplatek	poplatek	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	1	obj	_	SpacesAfter=\r\n|TokenRange=21:29
+
+~~~  
 
 ~~~ conllu
 # text = Je to svého druhu unikum.
@@ -374,25 +374,18 @@ This would be parsed correctly
 0078-0001-0000-0000-0028-0000_7/gold
 
 ~~~ sdparse
-věrni Bohu a věrni otců dědictví 
-obl:arg(věrni, Bohu)
-cc(věrni, a)
-conj(věrni, věrni)
+věrni otců dědictví 
 nmod(dědictví, otců)
 obl:arg(věrni, dědictví)
 
 ~~~
 
 
- 0078-0001-0000-0000-0028-0000_8/auto
+0078-0001-0000-0000-0028-0000_8/auto
  
- focused error: otců dědictví
  
 ~~~ sdparse
-věrni Bohu a věrni otců dědictví
-obl:arg(věrni, Bohu)
-cc(věrni, a)
-conj(věrni, věrni)
+věrni otců dědictví
 obl:arg(věrni, otců)
 obl:arg(věrni, dědictví)
 
@@ -402,7 +395,7 @@ obl:arg(věrni, dědictví)
 0362-0001-0003-0000-0011-0000_8/gold
 
 ~~~ sdparse
-Ať drahokamů ozdoby Spadaly s ňader Tvých 
+drahokamů ozdoby Spadaly s ňader Tvých 
 nmod(ozdoby, drahokamů)
 nsubj(Spadaly, ozdoby)
 ~~~
@@ -411,12 +404,8 @@ nsubj(Spadaly, ozdoby)
 0362-0001-0003-0000-0011-0000_8/auto
 ~~~ sdparse
 drahokamů ozdoby Spadaly s ňader Tvých 
-
 nsubj(Spadaly, drahokamů)
 nsubj(Spadaly, ozdoby)
-case(ňader, s)
-obl(Spadaly, ňader)
-det(ňader, Tvých)
 
 ~~~ 
 
@@ -428,31 +417,22 @@ but the sequence can be interrupted: here adjectival attribute of the head noun 
 error: v záplavě kdysi rudých vlasů
 
 ~~~ sdparse
-V rudých kdys vlasů záplavě jsem viděl světici .
+V rudých kdys vlasů záplavě jsem viděl světici 
 case(kdys, V)
 amod(kdys, rudých)
-advmod(viděl, kdys)
 nmod(kdys, vlasů)
 obl(viděl, záplavě)
-aux(viděl, jsem)
-obj(viděl, světici)
-punct(viděl, .)
 
 ~~~
 
  0362-0001-0003-0000-0011-0000_1/gold
 
 ~~~ sdparse
-V rudých kdys vlasů záplavě jsem viděl světici .
+V rudých kdys vlasů záplavě jsem viděl světici
 case(záplavě, V)
 amod(vlasů, rudých)
-advmod(viděl, kdys)
 nmod(záplavě, vlasů)
 obl(viděl, záplavě)
-aux(viděl, jsem)
-obj(viděl, světici)
-punct(viděl, .)
-
 ~~~
 
 
@@ -460,12 +440,8 @@ punct(viděl, .)
 0067-0001-0001-0000-0007-0000_7/gold
 
 ~~~ sdparse
-Podťata mu lípa svatá , zbledla nadějí mu zoře 
-obl(Podťata, mu)
-dep(Podťata, lípa)
-amod(lípa, svatá)
+zbledla nadějí mu zoře 
 punct(zbledla, ,)
-parataxis(Podťata, zbledla)
 nmod(zoře, nadějí)
 obl(zbledla, mu)
 nsubj(zbledla, zoře)
@@ -476,17 +452,10 @@ focused error: zoře nadějí
 
 
 ~~~ sdparse
-Podťata mu lípa svatá , zbledla nadějí mu zoře , a dub velký zasazen byl na rov mu na Bílé hoře .
-obl:arg(Podťata, mu)
-nsubj(Podťata, lípa)
-amod(lípa, svatá)
-punct(zbledla, ,)
-conj(Podťata, zbledla)
+zbledla nadějí mu zoře 
 obl(zbledla, nadějí)
 obl:arg(zbledla, mu)
 obj(zbledla, zoře)
-punct(zbledla, ,)
-
 ~~~~
 
 the same in conllu
@@ -513,13 +482,10 @@ Non-projective preposed genitive attribute
 0883-0001-0002-0000-0009-0000_2/gold
 
 ~~~ sdparse
-Myšlenek ať táhnou roje přes tvůj hrob 
+Myšlenek ať táhnou roje  
 nmod(roje, Myšlenek)
 advmod(táhnou, ať)
 nsubj(táhnou, roje)
-case(hrob, přes)
-det(hrob, tvůj)
-obl(táhnou, hrob)
 
 ~~~
 
@@ -528,13 +494,10 @@ Parser gets confused, two nsubj - parser considers the first noun nsubj despite 
 0883-0001-0002-0000-0009-0000_2/auto
 
 ~~~ sdparse
-Myšlenek ať táhnou roje přes tvůj hrob
+Myšlenek ať táhnou roje 
 nsubj(táhnou, Myšlenek)
 advmod(táhnou, ať)
 nsubj(táhnou, roje)
-case(hrob, přes)
-det(hrob, tvůj)
-obl(táhnou, hrob)
 
 ~~~
 
@@ -545,11 +508,10 @@ The whole sentence: **A ráno pak se často divím víc , než Fra Angelico , je
 1010-0001-0001-0000-0001-0000_3/gold
 
 ~~~ sdparse
-Madonny když líc mu anděl tajně přes noc domaloval
+Madonny když líc anděl domaloval
 nmod(líc, Madonny)
 mark(domaloval, když)
 obj(domaloval, líc)
-obl:arg(domaloval, mu)
 nsubj(domaloval, anděl)
 
 ~~~
@@ -557,15 +519,11 @@ nsubj(domaloval, anděl)
  1010-0001-0001-0000-0001-0000_4/auto
 
 ~~~ sdparse
-schoval , Madonny když líc mu anděl tajně přes noc domaloval !
+schoval , Madonny když líc  anděl domaloval !
 conj(schoval, Madonny)
 mark(domaloval, když)
 obj(domaloval, líc)
-obl:arg(domaloval, mu)
 nsubj(domaloval, anděl)
-advmod(domaloval, tajně)
-case(noc, přes)
-obl(domaloval, noc)
 advcl(schoval, domaloval)
 
 ~~~
@@ -606,7 +564,6 @@ Proč nešel s všedních lidí davem ?
 case(davem, s)
 amod(lidí, všedních)
 nmod(davem, lidí)
-obl(nešel, davem)
 
 ~~~
 
@@ -617,7 +574,6 @@ Proč nešel s všedních lidí davem ?
 case(lidí, s)
 amod(lidí, všedních)
 obl(nešel, lidí)
-obl(nešel, davem)
 
 ~~~
 
@@ -747,19 +703,39 @@ obj(odkvet’, stvol)
 Preposed predicative attribute with argument structure - this would be postposed in current Czech prose  
 
 0362-0001-0003-0000-0011-0000_12/gold
-Sebastian handsome abundant nakedness, genitals teased by an arrow exposes
+Where to no avail Sebastian handsome abundant nakedness, genitals teased by an arrow exposes
 
 .
 
-Šebestián ... Drážděné šípem genitálie ukazuje
+kde Šebestián ... Drážděné šípem genitálie ukazuje
 
 ~~~ sdparse
-Šebestián Drážděné šípem genitálie ukazuje 
+Kde Šebestián Drážděné šípem genitálie ukazuje 
+advmod (ukazuje, Kde)
 nsubj(ukazuje, Šebestián)
 amod(genitálie, Drážděné)
 obl(Drážděné, šípem)
 
 ~~~
+
+
+0362-0001-0003-0000-0011-0000_13/auto (corresponds to 12 in gold)
+
+
+~~~ sdparse
+
+... vztyčuje, Kde Šebestián Drážděné šípem genitálie ukazuje 
+conj(Kde, Šebestián)
+xcomp(ukazuje, Drážděné)
+obl(Drážděné, šípem)
+obj(ukazuje, genitálie)
+conj(vztyčuje, ukazuje)
+
+~~~
+
+
+## Missing copula predicates
+
 
 
 
