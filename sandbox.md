@@ -333,21 +333,28 @@ Simpler
 </div>
 
 
-## Czech 19th century poetry presentation
 ## Current Czech prose - cases of preceding genitive: (a bit marked word-order) quantities governed by a genitive-requesting numeral and fixed expressions
 
+And it gets wrongly parsed as two objects anyway!
 
 ~~~ conllu
-# text = Zájemce zaplatí 1020 korun manipulační poplatek.
-1	Zájemce	zájemce	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	2	nsubj	_	TokenRange=0:7
-2	zaplatí	zaplatit	VERB	VB-S---3P-AAP--	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	TokenRange=8:15
-3	1020	1020	NUM	C=-------------	NumForm=Digit|NumType=Card	4	nummod:gov	_	TokenRange=16:20
-4	korun	koruna	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	2	obj	_	TokenRange=21:26
-5	manipulační	manipulační	ADJ	AAIS4----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	6	amod	_	TokenRange=27:38
-6	poplatek	poplatek	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	2	obj	_	SpaceAfter=No|TokenRange=39:47
-7	.	.	PUNCT	Z:-------------	_	2	punct	_	TokenRange=47:48
+# text = Zaplatíte 1020 korun poplatek.
+1	zaplatíte	zaplatit	_	_	_	_	_	0	root	_
+2	korun	koruna	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	1	obj	_	TokenRange=21:26
+3	poplatek	poplatek	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	1	obj	_	SpaceAfter=No|TokenRange=39:47
 
 ~~~  
+
+This would be parsed correctly
+
+~~~ conllu
+# text = Zaplatíte poplatek 1020 korun.
+1	zaplatíte	zaplatit	_	_	_	_	_	0	root	
+2	korun	koruna	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	1	obj	_	TokenRange=21:26
+3	poplatek	poplatek	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	1	obj	_	SpaceAfter=No|TokenRange=39:47
+
+~~~  
+
 
 ~~~ conllu
 # text = Je to svého druhu unikum.
@@ -359,17 +366,6 @@ Simpler
 6	.	.	PUNCT	Z:-------------	_	5	punct	_	SpaceAfter=No|TokenRange=73:74
 
 ~~~
-
-
-
-
-
-
-
-
-
-
-
 
 
 ## Head and preposed genitive noun attribute adjacent
@@ -422,7 +418,6 @@ obl(Spadaly, ňader)
 det(ňader, Tvých)
 
 ~~~ 
-
 
 but the sequence can be interrupted: here adjectival attribute of the head noun and adverb - hair previously red
  
@@ -511,8 +506,6 @@ nadějí wrongly tagged as instrumental, "His morning star has faded from hopes"
 ~~~
 
 
-
-
 ----
 Non-projective preposed genitive attribute
 
@@ -563,15 +556,7 @@ nsubj(domaloval, anděl)
  1010-0001-0001-0000-0001-0000_4/auto
 
 ~~~ sdparse
-Fra Angelico , jenž v ruce schoval tvář bledou žasem , Madonny když líc mu anděl tajně přes noc domaloval !
-flat(Fra, Angelico)
-punct(schoval, ,)
-nsubj(schoval, jenž)
-acl:relcl(Fra, schoval)
-obj(schoval, tvář)
-amod(tvář, bledou)
-obl(bledou, žasem)
-punct(Madonny, ,)
+Madonny když líc mu anděl tajně přes noc domaloval !
 conj(schoval, Madonny)
 mark(domaloval, když)
 obj(domaloval, líc)
@@ -581,27 +566,10 @@ advmod(domaloval, tajně)
 case(noc, přes)
 obl(domaloval, noc)
 advcl(schoval, domaloval)
-punct(divím, !)
+
 ~~~
 
 Mind to add the screenshot of the tree graph in the presentation
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 When the whole structure comes after the verb, the parser usually just swaps the dependency relation
@@ -674,13 +642,6 @@ sny, jež obletují tvář Jí vnadnou, odhání pryč řas pružným vějířem
 # sent_id = 1191-0001-0003-0000-0002-0000_8/gold
 # text = sny, jež obletují tvář Jí vnadnou, odhání pryč řas pružným vějířem
 1	sny	sen	NOUN	NNIP1-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	9	obj	_	SpaceAfter=No
-2	,	,	PUNCT	Z:-------------	_	4	punct	_	_
-3	jež	jenž	PRON	PJIP1----------	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PrepCase=Npr|PronType=Rel	24	nsubj	_	_
-4	obletují	obletovat	VERB	VB-P---3P-AA---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	acl:relcl	_	_
-5	tvář	tvář	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	4	obj	_	_
-6	Jí	on	PRON	PPFS7--3-------	Case=Ins|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	4	obl:arg	_	_
-7	vnadnou	vnadný	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	5	amod	_	SpaceAfter=No
-8	,	,	PUNCT	Z:-------------	_	9	punct	_	_
 9	odhání	odhánět	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 10	pryč	pryč	ADV	Db-------------	_	9	advmod	_	_
 11	řas	řasa	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	13	nmod	_	_
@@ -693,18 +654,11 @@ sny, jež obletují tvář Jí vnadnou, odhání pryč řas pružným vějířem
 # sent_id = 1191-0001-0003-0000-0002-0000_11/auto
 # text = sny, jež obletují tvář Jí vnadnou, odhání pryč řas pružným vějířem.
 1	sny	sen	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	9	obj	_	SpaceAfter=No
-2	,	,	PUNCT	Z:-------------	_	4	punct	_	_
-3	jež	jenž	PRON	P4IP1----------	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	4	nsubj	_	_
-4	obletují	obletovat	VERB	VB-P---3P-AAI--	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	acl:relcl	_	_
-5	tvář	tvář	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	4	obj	_	_
-6	Jí	on	PRON	PEFS7--3------1	Case=Ins|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	5	nmod	_	_
-7	vnadnou	vnadný	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	5	amod	_	SpaceAfter=No
-8	,	,	PUNCT	Z:-------------	_	4	punct	_	_
 9	odhání	odhánět	VERB	VB-S---3P-AAI--	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-10	pryč	pryč	ADV	Db-------------	_	19	advmod	_	_
-11	řas	řas	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	19	obj	_	_
-12	pružným	pružný	ADJ	AAIS7----1A----	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	23	amod	_	_
-13	vějířem	vějíř	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	19	obl	_	SpaceAfter=No
+10	pryč	pryč	ADV	Db-------------	_	9	advmod	_	_
+11	řas	řas	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	9	obj	_	_
+12	pružným	pružný	ADJ	AAIS7----1A----	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	13	amod	_	_
+13	vějířem	vějíř	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	9	obl	_	SpaceAfter=No
 
 ~~~
 
@@ -759,6 +713,60 @@ obj(slyšet, slovo)
 
 ~~~ 
 
+
+0674-0001-0006-0000-0019-0000_8/gold
+
+~~~ sdparse
+v lůžku tichém spíte , Nad jehožto křížek stkví se hlavou 
+case(hlavou, Nad)
+det(hlavou, jehožto)
+nsubj(stkví, křížek)
+acl:relcl(lůžku, stkví)
+expl:pv(stkví, se)
+obl(stkví, hlavou)
+
+~~~
+
+0674-0001-0006-0000-0019-0000_8/auto
+
+~~~ sdparse
+v lůžku tichém spíte , Nad jehožto křížek stkví se hlavou
+case(jehožto, Nad)
+obl(stkví, jehožto)
+nsubj(stkví, křížek)
+conj(spíte, stkví)
+expl:pv(stkví, se)
+obl(stkví, hlavou)
+
+~~~
+
+0889-0006-0003-0000-0036-0000_4/gold
+
+~~~ sdparse
+Mnohý tak odkvet’ mi v žití stvol 
+amod(stvol, Mnohý)
+advmod(odkvet’, tak)
+obl:arg(odkvet’, mi)
+case(žití, v)
+obl(odkvet’, žití)
+nsubj(odkvet’, stvol)
+
+~~~
+
+0889-0006-0003-0000-0036-0000_4/auto
+
+~~~ sdparse
+Mnohý tak odkvet’ mi v žití stvol
+nsubj(odkvet’, Mnohý)
+advmod(odkvet’, tak)
+obl:arg(odkvet’, mi)
+case(žití, v)
+obl(odkvet’, žití)
+obj(odkvet’, stvol)
+
+~~~ 
+
+
 -------------------
 Preposed predicative attribute with argument structure - this would be postposed in current Czech prose  
 
@@ -781,9 +789,6 @@ obl(Drážděné, šípem)
 conj(nahotu, genitálie)
 
 ~~~
-
-
-
 
 
 
