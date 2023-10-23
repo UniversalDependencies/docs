@@ -7,6 +7,11 @@ udver: '2'
 
 <table class="typeindex" border="1">
 <tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Yes">Yes</a></td>
+  
+<table class="typeindex" border="1">
+<tr>
 
   
 </tr>
