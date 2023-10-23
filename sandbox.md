@@ -371,6 +371,23 @@ And this slightly marked word order gets wrongly parsed as two objects!
 
 ## Head and preposed genitive noun attribute adjacent
 
+#### Test visual style
+
+
+# visual-style 6 7 obj color:red
+# visual-style 5.1 5 nsubj color:red
+# visual-style 2 5.1 conj color:red
+# visual-style 5 6 remnant color:blue
+# visual-style 2 5 conj color:blue
+
+~~~ sdparse
+# visual-style nmod(dědictví, otců) color:red
+věrni otců dědictví 
+nmod(dědictví, otců)
+obl:arg(věrni, dědictví)
+
+~~~
+
 0078-0001-0000-0000-0028-0000_7/gold
 
 ~~~ sdparse
