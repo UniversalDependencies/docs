@@ -381,12 +381,19 @@ And this slightly marked word order gets wrongly parsed as two objects!
 # visual-style 2 5 conj color:blue
 
 ~~~ sdparse
-# visual-style nmod(dědictví, otců) color:red
 věrni otců dědictví 
-nmod(dědictví, otců)
+nmod(dědictví, otců)  color:red
 obl:arg(věrni, dědictví)
 
 ~~~
+
+~~~ sdparse
+věrni otců dědictví 
+nmod(dědictví, otců)  #color:red
+obl:arg(věrni, dědictví)
+
+~~~
+
 
 0078-0001-0000-0000-0028-0000_7/gold
 
