@@ -5,18 +5,29 @@ shortdef: 'reduplication'
 udver: '2'
 ---
 
-This relation is used generally for the reduplicating constructions, which in Latin can be used towards a variety of effects. It is not unknown to the language, though it appears quite infrequently (the two examples presented below are in fact the only occurrences among the IT-TB, LLCT and UDante treebanks). 
+This relation is used generally for reduplicating constructions, which in Latin can be used towards a variety of effects. They are not unknown to the language, though they appear quite infrequently (the three examples presented below are in fact the only occurrences among the IT-TB, LLCT and UDante treebanks in the current state of the annotation - see **Note**). 
 
-We consider a reduplication only in the case of the same word repeated one or more times in sequence, with no other words intervening, all of them having the same function and head in the clause. This excludes a) casual repetitions in sequence belonging to different phrases (e.g. *quod quid **est est** obiectum intellectus* 'for the object of the intellect **is** what a thing **is**', `train-s16691`, IT-TB) b) errors of transcription (*hoc autem quod est **per per** se necesse-esse*, `dev-s1055`, IT-TB) c) other kinds of reprises (*per quasdam **relationes**, quia per Papatum et per Imperiatum, que **relationes** sunt...* 'by virtue of certain **relationships**, i.e. by virtue of Papal and Imperial office, which are respectively **relationships** of...', `Mon-615` [*De Monarchia* III xi 6], UDante). The relation between them is a subtype of [flat](u-dep/flat) since there is no hierarchy in such a block, and so formally the linearly first element is the "head" for all the others. 
+We consider the case of a reduplication only when the same word is repeated one or more times in sequence, all of the repetitions having the same function and head in the clause, with no other words belonging to other phrases intervening (this condition allows for linearly non-adjacent reduplication, with reduplicated elements possibly governing their own dependents). These condition exclude 
 
-The function of the reduplication, in terms of morphological features, is expressed in the `MISC` field by the attribute [Reduplication](https://universaldependencies.org/misc.html#reduplication) as a temporary solution, on the token receiving the relation `flat:redup`.
+1. casual sequential repetitions in sequence belonging to different phrases: each element gets its own relation 
+    + e.g. *quod quid **est est** obiectum intellectus* 'for the object of the intellect **is** what a thing **is**' (`train-s16691`, IT-TB), both depending as `cop` respectively on *quid* and *obiectum*
+1. transcription errors of any kind, which are managed through [`reparandum`](la-dep/reparandum)
+    + e.g. *+ Ego Leo **notarius** **notarius** post traditam conplevi et dedi.* '+ I, **notary** **notary** Leo, have filled out and delivered after the hand-over' (`train-s6767`, LLCT)
+1. other kinds of reprises, often treated by means of [`conj`](la-dep/conj) or similar
+    + e.g. *per quasdam **relationes**, quia per Papatum et per Imperiatum, que **relationes** sunt...* 'by virtue of certain **relationships**, i.e. by virtue of Papal and Imperial office, which are respectively **relationships** of...' (`Mon-615` [*De Monarchia* III xi 6], UDante) 
+
+The relation between the reduplicated elements is a subtype of [flat](u-dep/flat) since there is no hierarchy in such a block, and so formally the linearly first element is promoted as "head" for all the others. 
+
+The function of the reduplication, in terms of morphological features, is expressed (as a temporary solution) in the `MISC` field by the attribute [Reduplication](https://universaldependencies.org/misc.html#reduplication), on the token receiving the relation `flat:redup`.
+
+#### Note
 
 It remains to be seen if cases of reduplication which are as of now traditionally treated as part of the lexicon or even inflectional paradigms will be reanalysed syntactically by means of the present dependency relation. Some examples:
 
 * *sese*, [emphatic](la-feat/Form#Emp) form of the [reflexive](la-feat/Reflexive) [pronoun](la-pos/PRON) *se* and lemmatised as such e.g. in the IT-TB
     * completely parallel to *me me*, as shown in the second example  
 * *tute*, [emphatic](la-feat/Form#Emp) form of [2nd person](la-feat/Person) singular [pronoun](la-pos/PRON), with dissimilation
-* *quamquam* 'although' (also, for regular phonotactics, *quanquam*), reduplication ofthe relative element *quam* 'how much' (also acting as comparative [`SCONJ`](la-pos/SCONJ)) with apparent [indefinite](la-feat/ProType#Ind) meaning ('in whichever manner = however')
+* *quamquam* 'although' (also, for regular phonotactics, *quanquam*), reduplication of the relative element *quam* 'how much' (also acting as comparative [`SCONJ`](la-pos/SCONJ)) with [indefinite](la-feat/ProType#Ind) meaning ('in whichever manner = however')
 
 
 
