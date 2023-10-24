@@ -331,6 +331,8 @@ Simpler
 15	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
   
 </div>
+
+-----------------------------------------
 ## Current Czech prose - cases of preceding genitive: (a bit marked word-order) quantities governed by a genitive-requesting numeral and fixed expressions
 
 This would be parsed correctly, neutral word order
@@ -370,30 +372,6 @@ And this slightly marked word order gets wrongly parsed as two objects!
 
 
 ## Head and preposed genitive noun attribute adjacent
-
-#### Test visual style
-
-
-# visual-style 6 7 obj color:red
-# visual-style 5.1 5 nsubj color:red
-# visual-style 2 5.1 conj color:red
-# visual-style 5 6 remnant color:blue
-# visual-style 2 5 conj color:blue
-
-~~~ sdparse
-věrni otců dědictví 
-nmod(dědictví, otců)  color:red
-obl:arg(věrni, dědictví)
-
-~~~
-
-~~~ sdparse
-věrni otců dědictví 
-nmod(dědictví, otců)  #color:red
-obl:arg(věrni, dědictví)
-
-~~~
-
 
 0078-0001-0000-0000-0028-0000_7/gold
 
@@ -759,8 +737,264 @@ conj(vztyčuje, ukazuje)
 
 
 ## Missing copula predicates
+# sent_id = 0130-0001-0002-0000-0031-0000_4
+# text = Do obzoru, jenž všecek zatemněn, bylo ti zříti zraky hynoucími!
+
+
+~~~ sdparse
+Do obzoru , jenž všecek zatemněn , bylo ti zříti zraky hynoucími !
+case(obzoru, Do)
+obl(zříti, obzoru)
+punct(zatemněn, ,)
+obj(zatemněn, jenž)
+advcl(zatemněn, všecek)
+acl:relcl(obzoru, zatemněn)
+punct(zatemněn, ,)
+aux(zříti, bylo)
+obl:arg(zříti, ti)
+obl(zříti, zraky)
+amod(zraky, hynoucími)
+punct(zříti, !)
+
+~~~
+
+\# text = Už dvacet let zde bratr k bratru se tulíme a tisknem dlaň, vždy vystaveni bouřím větrů, před námi stále divá saň.
+\# sent_id = 0078-0001-0000-0000-0028-0000_1/gold
+
+
+~~~ conllu
+
+# text = Už dvacet let zde bratr k bratru se tulíme a tisknem dlaň, vždy vystaveni bouřím větrů, před námi stále divá saň.
+1	Už	už	ADV	Db-------------	_	2	advmod:emph	_	SpacesBefore=\s
+2	dvacet	dvacet	NUM	Cn-S4----------	Case=Acc|Number=Sing|NumForm=Word|NumType=Card	3	nummod:gov	_	_
+3	let	rok	NOUN	NNNP2-----A----	Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos	9	obl	_	_
+4	zde	zde	ADV	Db-------------	PronType=Dem	9	advmod	_	_
+5	bratr	bratr	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	9	nsubj	_	_
+6	k	k	ADP	RR--3----------	AdpType=Prep|Case=Dat	5	fixed	_	_
+7	bratru	bratr	NOUN	NNMS3-----A---1	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos	5	fixed	_	_
+8	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	9	expl:pv	_	_
+9	tulíme	tulit	VERB	VB-P---1P-AA---	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+10	a	a	CCONJ	J^-------------	_	11	cc	_	_
+11	tisknem	tisknout	VERB	VB-S---1P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	_	_
+12	dlaň	dlaň	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	11	obj	_	SpaceAfter=No
+13	,	,	PUNCT	Z:-------------	_	15	punct	_	_
+14	vždy	vždy	ADV	Db-------------	PronType=Tot	15	advmod	_	_
+15	vystaveni	vystavený	ADJ	VsMP---XX-AP---	Animacy=Anim|Aspect=Perf|Gender=Masc|Number=Plur|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	9	advcl	_	_
+16	bouřím	bouře	NOUN	NNFP3-----A----	Case=Dat|Gender=Fem|Number=Plur|Polarity=Pos	15	obl:arg	_	_
+17	větrů	vítr	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	16	nmod	_	SpaceAfter=No
+18	,	,	PUNCT	Z:-------------	_	23	punct	_	_
+19	před	před	ADP	RR--7----------	AdpType=Prep|Case=Ins	20	case	_	_
+20	námi	já	PRON	PP-P7--1-------	Case=Ins|Number=Plur|Person=1|PronType=Prs	23	nmod	_	_
+21	stále	stále	ADV	Db-------------	_	22	advmod	_	_
+22	divá	divý	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	23	amod	_	_
+23	saň	saň	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	15	parataxis	_	SpaceAfter=No
+24	.	.	PUNCT	Z:-------------	_	9	punct	_	_
+
+~~~
+
+\# sent_id = 0078-0001-0000-0000-0028-0000_1/gold
+We huddle together, always exposed to storms, a she-dragon in front of us.
+
+~~~ sdparse
+Tulíme se , vystaveni bouřím , před námi saň . 
+expl:pv(tulíme, se)
+punct(vystaveni, ,)
+advcl(tulíme, vystaveni)
+obl:arg(vystaveni, bouřím)
+punct(saň, ,)
+case(námi, před)
+nmod(saň, námi)
+parataxis(vystaveni, saň)
+punct(tulíme, .)
+
+~~~
+
+
+
+~~~ sdparse
+Tulíme se , vystaveni bouřím , před námi saň .
+expl:pv(tulíme, se)
+punct(vystaveni, ,)
+conj(tulíme, vystaveni)
+obl:arg(vystaveni, bouřím)
+punct(námi, ,)
+case(námi, před)
+conj(tulíme, námi)
+orphan(námi, saň)
+punct(tulíme, .)
+
+~~~
+
+This obviously means \[There is \] a she-dragon in front of us, with the verb *to be* elided, similarly to the usual ellipsis of *to be* in Russian (png). In Russian, the ellipsis of *to be* occurs in copula with predicate nouns, adjectives, as well as with prepositional phrases, where the entire construction denotes location, no matter whether in a material or abstract space. (I'm not sure whether the spatial use is still called copula.) Nevertheless, this ellipsis does not occur in Czech, and even in the 19th century it was only possible in poetry, so UDPipe would impose the `orphan` structure on it https://universaldependencies.org/u/overview/specific-syntax.html#ellipsis. png DivokyDrakOrphan
+
+
+Ty dál se řítíš, tvé vášni malý celý svět, bůh nad tebou, ty sotva cítíš kyj hromný, jenž tě kácí zpět. (sent_id: 1066-0001-0002-0000-0005-0000_11/gold) 
+
+
+~~~ sdparse
+Ty dál se řítíš , tvé vášni malý celý svět , bůh nad tebou 
+nsubj(řítíš, Ty)
+advmod(řítíš, dál)
+expl:pv(řítíš, se)
+punct(vášni, ,)
+det(vášni, tvé)
+obl:arg(malý, vášni)
+parataxis(řítíš, malý)
+amod(svět, celý)
+nsubj(malý, svět)
+punct(bůh, ,)
+conj(svět, bůh)
+case(tebou, nad)
+nmod(bůh, tebou)
+
+
+~~~
 
 
 
 
 
+
+### Elided *to be* also as the auxiliary verb in the periphrastic passive?
+
+periphrastic
+    uses the auxiliary verb být (to be) and a passive participle
+    kniha je čtena--the book is read 
+
+1042-0001-0007-0000-0007-0000_4/gold
+
+~~~ sdparse
+mám druhý Sion , když mi první zbořen 
+amod(Sion, druhý)
+obj(mám, Sion)
+punct(zbořen, ,)
+mark(zbořen, když)
+obl:arg(zbořen, mi)
+nsubj(zbořen, první)
+advcl(mám, zbořen)
+
+~~~   
+
+
+1042-0001-0007-0000-0007-0000_4/auto
+
+
+~~~ sdparse
+mám druhý Sion , když mi první zbořen 
+amod(Sion, druhý)
+obj(mám, Sion)
+punct(zbořen, ,)
+mark(zbořen, když)
+obl(zbořen, mi)
+dep(zbořen, první)
+dep(mám, zbořen)
+
+~~~
+
+Proč musil’s umřít v onom soumraku, jakou to vůlí zlomena tvá vůle, že’s odešel v den strašných přízraků, kdy příští bylo mnohem dál než Thule? (sent_id: 0130-0001-0002-0000-0031-0000_1/gold) 
+
+~~~ sdparse
+Proč musil jsi umřít , jakou to vůlí zlomena tvá vůle ?
+advmod(musil, Proč)
+aux(musil, jsi)
+xcomp(musil, umřít)
+punct(zlomena, ,)
+det(vůlí, jakou)
+discourse(zlomena, to)
+obl:agent(zlomena, vůlí)
+parataxis(musil, zlomena)
+det(vůle, tvá)
+nsubj:pass(zlomena, vůle)
+punct(musil, ?)
+
+~~~
+
+
+# How to capture metaphor: apposition, or copula predicate?
+
+It perhaps depends on the position in the sentence and on interpretation. It would be too crude to impose a rule 
+
+
+Copula predicate: The sea is a smiling face as far as eye can see (= the sea is calm)
+rather than The sea, a smiling face, is as far as eye can see (= the sea is everywhere around)  
+
+~~~ sdparse
+všude ples a bujná vřava , moře líc tak usměvavá, kam jen oko dohledne. 
+nsubj(všude, ples)
+cc(vřava, a)
+amod(vřava, bujná)
+conj(ples, vřava)
+punct(všude, ,)
+nsubj(líc, moře)
+conj(všude, líc)
+advmod(usměvavá, tak)
+
+~~~
+
+apposition
+
+~~~ sdparse
+rusalky , hybké vlny oblečeny v bílý šat , spolu tančí 
+amod(vlny, hybké)
+appos(rusalky, vlny)
+acl(rusalky, oblečeny)
+case(šat, v)
+amod(šat, bílý)
+obl(oblečeny, šat)
+advmod(tančí, spolu)
+nsubj(tančí, rusalky)
+
+~~~
+
+
+~~~ sdparse
+Nebyla však černá vrána a byl vrah to v srdci černý , a sbor sóv – roj zbojců krutých
+cc(sbor, a)
+conj(vrah, sbor)
+nmod(sbor, sóv)
+punct(roj, –)
+appos(sbor, roj)
+nmod(roj, zbojců)
+amod(zbojců, krutých)
+
+~~~
+
+
+
+
+
+
+
+
+#Parataxis rather than coordination
+
+How to chunk sentences. 
+UDPipe currently (apparently) splits sentences consistently on periods, not consistently on semicolons, consistently not on colons (direct speech in quotes or something else).  
+
+In poems: nested parenthesis 
+
+
+Jak chce se tvářit silnou, vážnou, chladnou! – že nejsem v této chvíli malířem! – a sny, jež obletují tvář Jí vnadnou, odhání pryč řas pružným vějířem.
+
+
+
+Parataxis (could as well be coordination) 
+UDPipe prefers coordination
+
+Zakrakoce v hradě vrána, sóvy z křeku následují, povylétla vrána sobě... 
+
+
+Coordination rather than parataxis - the clauses share one subject
+
+ Povylétla vrána sobě přes temeno černých borů, rozlétla se, usadila černá na bílou až horu.
+ 
+Original: completely weird punctuation, probably denotes phrasing for loud reading
+
+Krákorala o svém plenu, družkám sovám – o jelenu. 
+
+Že však sám hned neumíral, ba z zpěvného žítí těšil, musel sám si hrob svůj kopat, – musel: – anť, že živ, tím zhřešil!
+
+
+Sklesl jeden – – zastřela ho i s národem pranoc čírá, dub však zvlažen slzou sterou šíř a šíř se rozprostírá. (Paired clauses with non-conjunction connective (“X so Y” etc.)
+
+https://universaldependencies.org/u/dep/all.html#al-u-dep/parataxis The relation is also used for clauses connected by a word like so, then, therefore, or however if neither clause is interpreted as modifying the other, and there is no coordinating conjunction)
