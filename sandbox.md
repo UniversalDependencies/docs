@@ -1,19 +1,4 @@
 ---
-title: Your Title
-author: Your Name
-output: revealjs::revealjs_presentation
----
-# Slide 1
-sss
-
-# Slide 2
-sss12222
-
-
-
-
-
----
 layout: base
 title:  'Sandbox'
 ---
