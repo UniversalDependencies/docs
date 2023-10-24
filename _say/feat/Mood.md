@@ -11,6 +11,7 @@ udver: '2'
   <td><a href="#Cnd">Cnd</a></td>
   <td><a href="#Imp">Imp</a></td>
   <td><a href="#Irr">Irr</a></td>
+  <td><a href="#Qot">Sub</a></td>
   <td><a href="#Sub">Sub</a></td>
 </tr>
 </table>
@@ -27,6 +28,10 @@ udver: '2'
 
 
 ### <a name="Irr">`Irr`</a>: irrealis
+
+#### Example
+
+### <a name="Qot">`Qot`</a>: quotative
 
 #### Example
 
