@@ -1010,12 +1010,12 @@ obj(volá, člověka)
 Grammatical compound as a multiword token
 
 ~~~ conllu
+# text = z počátku
 1-2 zpočátku	zpočátku 	ADV	_	_	_	_	_	_
 1	z	z	ADP	_	_	_	_	_	_
 2	počátku.NOUN.Case=Gen	počátek	NOUN	_	Case=Gen	_	_	_	_
 
 ~~~
-
 
 
 
