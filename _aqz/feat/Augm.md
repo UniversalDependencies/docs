@@ -21,7 +21,7 @@ udver: '2'
 
 #### Example
 
-* _<b>awawaʧo</b>&nbsp;_ “Many bees”
+* _<b>awawaʧo</b>&nbsp;_ "Many bees”
 
 
 
