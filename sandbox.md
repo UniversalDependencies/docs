@@ -960,6 +960,12 @@ amod(zbojců, krutých)
 ~~~
 
 
+
+
+
+
+
+
 #Parataxis rather than coordination
 
 How to chunk sentences. 
@@ -992,34 +998,3 @@ Krákorala o svém plenu, družkám sovám – o jelenu.
 Sklesl jeden – – zastřela ho i s národem pranoc čírá, dub však zvlažen slzou sterou šíř a šíř se rozprostírá. (Paired clauses with non-conjunction connective (“X so Y” etc.)
 
 https://universaldependencies.org/u/dep/all.html#al-u-dep/parataxis The relation is also used for clauses connected by a word like so, then, therefore, or however if neither clause is interpreted as modifying the other, and there is no coordinating conjunction)
-
-Hlas jeden z daleka (tak domov mluvit umí), hlas volá člověka a člověk porozumí. (sent_id: 0956-0002-0000-0000-0014-0000_5/gold) 
-
-~~~ sdparse
-Hlas jeden z daleka , hlas volá člověka
-nsubj(volá, Hlas)
-nummod(Hlas, jeden)
-case(daleka, z)
-nmod(Hlas, daleka)
-appos(Hlas, hlas)
-obj(volá, člověka)
-
-~~~ 
-
-
-Grammatical compound as a multiword token
-
-~~~ conllu
-# text = z počátku
-1-2 zpočátku	zpočátku 	ADV	_	_	_	_	_	_
-1	z	z	ADP	_	_	_	_	_	_
-2	počátku.NOUN.Case=Gen	počátek	NOUN	_	Case=Gen	_	_	_	_
-
-~~~
-
-
-
-
-
-
-
