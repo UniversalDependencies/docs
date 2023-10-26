@@ -17,7 +17,7 @@ udver: '2'
 </tr>
 </table>
 
-### <a name="Augm">`Augm`</a>: Completive
+### <a name="Augm">`Augm`</a>: Augmentative
 
 `Augm` the Augmentative 'atʃo'
 
