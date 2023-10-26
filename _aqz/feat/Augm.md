@@ -17,6 +17,8 @@ udver: '2'
 </tr>
 </table>
 
+### <a name="Augm">`Augm`</a>: Completive
+
 `Augm` the Augmentative 'atʃo'
 
 #### Example
