@@ -997,7 +997,6 @@ Krákorala o svém plenu, družkám sovám – o jelenu.
 
 Sklesl jeden – – zastřela ho i s národem pranoc čírá, dub však zvlažen slzou sterou šíř a šíř se rozprostírá. (Paired clauses with non-conjunction connective (“X so Y” etc.)
 
-https://universaldependencies.org/u/dep/all.html#al-u-dep/parataxis The relation is also used for clauses connected by a word like so, then, therefore, or however if neither clause is interpreted as modifying the other, and there is no coordinating conjunction)
 
 
 ------
