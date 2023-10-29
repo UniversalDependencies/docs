@@ -20,7 +20,7 @@ To break this down:
 - A word attaching as [aux](), [aux:pass](), or [cop]() is not eligible. Words attaching in other functions (whether explicitly clausal in the deprel, e.g. [ccomp](), [xcomp](), [advcl](), [acl](), or not, e.g. [amod]()) are eligible.
 - If the clause has a non-outer subject, it will be of the passive variety: [nsubj:pass]() or [csubj:pass](). Only `Voice=Pass` verbs may have passive subject dependents.
 - In most `Voice=Pass` clauses, if the clause has any auxiliaries, one of them is a passive auxiliary: [aux:pass]().
-   * If the clause has an [aux]() auxiliary but no [aux:pass]() auxiliary, it is usually an active perfect clause.
+   * If a clause has an [aux]() auxiliary but no [aux:pass]() auxiliary, it is probably an active perfect clause.
 - An agent *by*-phrase in a passive clause attaches as [obl:agent](). Only `Voice=Pass` verbs may have [obl:agent]() dependents.
 
 #### Examples:
@@ -35,4 +35,4 @@ To break this down:
 
 #### History:
 
-Before UD v2.13, this feature was restricted to past participles with an explicit [aux:pass]() dependent. For UD v2.13, this was broadened to include all past participles interpreted as passive.
+Before UD v2.13, this feature was restricted to past participles with an explicit [aux:pass]() dependent. For UD v2.13, this [was broadened](https://github.com/UniversalDependencies/UD_English-EWT/issues/290) to include all past participles interpreted as passive.
