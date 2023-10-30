@@ -8,52 +8,100 @@ udver: '2'
 
 ## Tokenization and Word Segmentation
 
-*
+* The main tokenization is the standard white-space delimited approach with punctuations separated.
+* Punctuation marks are treated as separate tokens; the exceptions include apostrophes, what mark palatalizations; ordinary numbers (23. sügüz'ku) abbreviations (they can be written with and without period).
 
----
-**Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
-
----
 
 ## Morphology
 
 ### Tags
 
-*
+* Veps uses 13 universal POS categories
+  - DET (determiner), INT (interjection), SYM (symbol), X (other) categories are currently not used
+* Veps has the following auxiliary verbs:
+  - "olda" (to be, also to own etc.)
+  - "ei" (negation of verb)
+  - modals: "voida", "sada" (can), "pidada" (must).
+       (list can be extended as the corpora gets larger)
 
----
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
-
----
 
 ### Features
 
-*
+### Verbal Features
 
----
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
+* There are five main verbal forms, distinguished by the value of the [VerbForm]() feature:
+  - Infinitive `Inf`, tagged [VERB]() or [AUX]().
+  - Finite verb `Fin`, tagged [VERB]() or [AUX]().
+  - Participle `Part`, tagged [VERB]() or [AUX]() (the so-called l-participle) or [ADJ]() (all other participle types).
+  - Supine `Sup`, tagged [VERB]() or [AUX]().
+  - Converb `Conv`, tagged [VERB]() or [AUX]().
+* [Mood]() has two values: `Cnd` or `Ind`.
+  - values `Imp` and `Pot` can be added as the corpora gets larger
+* [Tense]() has two values: `Past` or `Pres`.
+* [Voice]() has two values: `Act` and `Pass`.
+* [Person]() has three values, `1`, `2` and `3`.
+* [Number]() has two values `Sing` or `Plur`.
 
----
+### Nominal Features
+
+* Veps does not have Gender feature
+* [Number]() feature has two possible values: `Sing` and `Plur`
+* [Case]() has 15 possible values: `Abl`, `Ade`, `All`, `Apr`, `Com`,
+  `Ela`, `Ess`, `Gen`, `Ill`, `Ine`, `Nom`, `Par`, `Pro`, `Ter`, `Tra`
+  - values `Abe` and `Egr` can be added as the corpora gets larger
+
+### Degree and Polarity
+
+* [Degree]() applies to adjectives ([ADJ]()) and has one of two possible values: `Pos`, `Cmp`
+  - value `Sup` can be added as the corpora gets larger
+  - value `Dim` can be added and applied to nouns as the corpora gets larger
+* [Polarity]() has only value `Neg`, and applies to auxiliarie 'ei'
+* [Connegative]() has only value `Yes` and applies to verbs which have been negated by 'ei'.
+
+### Pronouns, Determiners, Quantifiers
+
+* [PronType]() is used with pronouns ([PRON]()).
+* [NumType]() is used with numerals ([NUM]()) and adjectives ([ADJ]()).
+* The [Reflex]() feature marks reflexive pronouns _(ičeze)_.
+  In Veps it is always used together with `PronType=Prs`.
+* [Person]() is a lexical feature of personal pronouns ([PRON]()) and has three values, `1`, `2` and `3`.
+* [PronType]() is a list based feature of pronouns and determiners and it has the following values:
+   * "PronType=Dem" for demonstrative pronouns
+   * "PronType=Int" for interrogative pronouns
+   * "PronType=Prs" for personal pronouns
+   * "PronType=Tot" for total (collective) pronouns (_kaik_)
+ 
+ ### Other Features
+
+* Veps treebank has the following language-specific features:
+  * [NumForm]() has two values: `Digit` or `Letter`.
+  * [NumType]() has a value `Card` for cardinal numbers and `Ord` for ordinal numbers.
+  * [AdpType]() distincts preopositions `AdpType=Prep` and postpositions `AdpType=Post`.
+  * [Clitic]() marks an indefinite article as a clitic _(se)_
+
 
 ## Syntax
 
-*
+* Nominal subject ([nsubj]()) is typically a nominal in the nominative,
+  genitive or partitive case, without preposition.
+  -    An infinitive verb may serve as the subject and is labeled as clausal subject, [csubj]().
+* Objects ([obj]()) can be nominals in nominative, genitive or partitive case.
+  - The infinitival complement is labeled as [xcomp]() or [ccomp]().
+* The copula verb _olda_ (be) is used in equational, attributional, locative,
+  possessive and benefactory nonverbal clauses.
 
----
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
+### Relations Overview
 
----
+* The following relation subtypes are used in Veps:
+  * [acl:relcl]() for relative clauses
+  * [csubj:cop]() for clausal or infinitive subject in copula clauses.
+  * [nsubj:cop]() for nominal subject in copula clauses
+  * [flat:name]() for names with two or more components.
 
 ## Treebanks
 
-There are [N](../treebanks/vep-comparison.html) Veps UD treebanks:
+There is [1](../treebanks/vep-comparison.html) Veps UD treebanks:
 
-  * [Veps-A](../treebanks/vep_a/index.html)
-  * [Veps-B](../treebanks/vep_b/index.html)
+  * [Veps-VWT](../treebanks/vep_vwt/index.html)
 
----
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
 
----
