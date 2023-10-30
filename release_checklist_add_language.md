@@ -88,6 +88,12 @@ chmod 666 evaluation-report.txt</pre>
     keeping it in the list for the release where `UD_Czech` appeared for the first time. (We will probably change the way how this is checked in the future.)
 9.  Go to the `docs-automation` repository to the script `valdan/update-validation-report.pl`.
     Inspect the two lists of treebanks in the `BEGIN` block and replace each occurrence of `UD_Czech` with `UD_Czech-PDT`. (We will probably change the way how this is done in the future.)
+    <strong>CHANGE:</strong>
+    Open the file `valdan/releases.json`. In the line of the release where the new name will appear for the first time,
+    we need this at the end of the release record:
+    <pre>, "renamed": [["UD_Czech", "UD_Czech-PDT"]]</pre>
+    <strong>The problem is that at the time of renaming the repository, the release process probably has not started and there
+    is no line for the next release yet.</strong>
 10. If there are other places where you maintain local clones of UD repositories (e.g., one is your laptop and the other is your
     university network), go to each of them, do a new git clone ; git checkout dev ; rm old clone.
 11. Finally, we want to regenerate the title page of Universal Dependencies.
