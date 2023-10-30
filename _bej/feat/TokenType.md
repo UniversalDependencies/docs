@@ -34,7 +34,7 @@ Token that starts or ends with a equal sign occupying the positions of [pronoun]
 #### Examples
 - _=i_ (`PRON`; Case Nominative; Possessive)
 
-### <a name="Stem">`Root`</a>: root
+### <a name="Root">`Root`</a>: root
 
 Root item within the word.
 
