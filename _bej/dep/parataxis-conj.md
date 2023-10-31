@@ -1,6 +1,6 @@
 ---
 layout: relation
-title: 'parataxis:coord'
+title: 'parataxis:conj'
 shortdef: 'coordinating parataxis'
 udver: '2'
 ---
@@ -10,6 +10,6 @@ This relation is used to link two sentences placed side by side without any expl
 ~~~ sdparse
 oːn ti= ʃaː =t =oːn tam -na ti= i̠ːjʔaː gʷʔa -na /
 text_en: we ate our meat [and] we drunk the milk
-parataxis:coord(gʷʔa, tam) ("drink", "eat")
+parataxis:conj(gʷʔa, tam) ("drink", "eat")
 ~~~
 <!-- Interlanguage links updated Út 9. května 2023, 20:04:31 CEST -->
