@@ -10,41 +10,36 @@ Kreyòl (Kreyòl Ayisyen, Haitian Creole, iso-639-1: ht) is the main language of
 
 ## Tokenization and Word Segmentation
 
-*
+Words are delimited by whitespace characters.
 
----
-**Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
-
----
 
 ## Morphology
 
+Haitian Creole is an isolating language.
+
 ### Tags
 
-*
-
----
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
-
----
+* PART has not been used.
+* Haïtian has four preverbal particules that have been tagged AUX: _te_, _ap_, _ta_, _pral_.
+* Haïtian does not really have a copula: some ADJs, NOUNs, ADJs, and ADVs can root a clause. There is one existial verb, _se_, that we decided to tag VERB.
+* The DET-PRON is unclear and still under studies. We decided to tag DET the pronominal words depending on a NOUN, but their forms are similar to PRONs.
 
 ### Features
 
-*
+* PRON have Person and Number features. Pronominal DET also. Some DET have a Definite feature.
+* Other POS have no features.
+* The treebank is glossed (`Gloss` feature) and translated (`text_fr`) in French, the lexifier language of this creole.
 
----
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
-
----
 
 ## Syntax
 
-*
+* Haïtian is an SVO language.
+* It has double object construction, with the Recipient before the Theme. The recipient has been tagged `iobj` and the Theme `obj`. We do not know any property to distinguish them except their resepective order and their semantic roles.
+* It has some Serial Verb Constructions, annotated `compound:svc`.
+* We have one cleft construction in our corpus, annotated `advcl:cleft`.
+* The `parataxis:insert` relation is used for parenthetical clauses which could not be considered as independent sentences, since they are not saturated.
+* Oblique modifiers have been distinguished by the `obl:mod` sub-relation.
 
----
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
-
----
 
 ## Treebanks
 
