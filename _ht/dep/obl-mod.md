@@ -8,7 +8,7 @@ udver: '2'
 The `obl:mod` relation for nominal adjuncts.
 They can be (but are not always) introduced by a preposition.
 
-Here is an example from **UD_French-Spoken** :
+Here is an example from **UD_Haitian_Creole-Autogramm** :
 
 ~~~ sdparse
 Tsai pati kite Taiwan Mekredi \n Tsai left Taïwan on Wednesday
