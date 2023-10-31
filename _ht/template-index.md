@@ -48,10 +48,9 @@ Kreyòl (Kreyòl Ayisyen, Haitian Creole, iso-639-1: ht) is the main language of
 
 ## Treebanks
 
-There are [N](../treebanks/ht-comparison.html) Haitian Creole UD treebanks:
+There is [1](../treebanks/ht-comparison.html) Haitian Creole UD treebank:
 
-  * [Haitian Creole-A](../treebanks/ht_a/index.html)
-  * [Haitian Creole-B](../treebanks/ht_b/index.html)
+  * [Haitian Creole Autogramm](../treebanks/ht_a/index.html)
 
 ---
 **Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
