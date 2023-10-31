@@ -5,6 +5,8 @@ udver: '2'
 ---
 
 # UD for Haitian Creole <span class="flagspan"><img class="flag" src="../../flags/svg/HT.svg" /></span>
+Kreyòl (Kreyòl Ayisyen, Haitian Creole, iso-639-1: ht) is the main language of Haïti. It is spoken by more than 10M speakers both in Haïti and in the diaspora (Canada and USA mainly). It is an official language of Haïti. The dialect spoken in the Cap Haïtien dialect differs slightly in its lexicon from the Center and South varieties.
+
 
 ## Tokenization and Word Segmentation
 
