@@ -16,8 +16,8 @@ obl:float(apples, each)
 `obl:float` can attach directly to the verb (or other predicative) if the (semantically modified) argument is ommited.
 
 ~~~ sdparse
-Пойми же оба ! \n Understand ( you ) both . 
-obl:float(Пойми, сам) 
+Поймите же оба ! \n Understand ( you ) both . 
+obl:float(Поймите, оба) 
 obl:float(Understand, both)
 ~~~
 
