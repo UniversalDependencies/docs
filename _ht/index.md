@@ -11,7 +11,7 @@ Kreyòl (Kreyòl Ayisyen, Haitian Creole, iso-639-1: ht) is the main language of
 ## Tokenization and Word Segmentation
 
 * Words are delimited by whitespace characters.
-* Some sequences of grammatical word are often written in one othographic word:
+* Some sequences of grammatical words are often written in one othographic word:
   * PRON-AUX: _lap_ = li + ap, _yap_ = yo + ap, _kap_ = ki + ap, _nap_ = nou + ap;
   * _sakap_ = sa + ki + ap;
   * ADV-AUX: _pat_ = pa + te, _pata_ = pa + ta, _pap_ = pa + ap;
@@ -25,7 +25,7 @@ Haitian Creole is an isolating language.
 
 * `PART` has not been used.
 * Haïtian has four preverbal particules that have been tagged `AUX`: _te_, _ap_, _ta_, _pral_. Potential `AUX` (not tagged `AUX`): _ka_ 'can', _pa_ 'not'.
-* The `DET`-`PRON` is unclear and still under studies. We decided to tag `DET` the pronominal words depending on a `NOUN`, but their forms are similar to `PRON`s.
+* The `DET`-`PRON` distinction is unclear and still under studies. We decided to tag `DET` the pronominal words depending on a `NOUN`, but their forms are similar to `PRON`s and they are positioned after the `NOUN` as the noun complements.
 
 ### Features
 
@@ -44,7 +44,7 @@ Haitian Creole is an isolating language.
 
 * Haïtian is an SVO language.
 * It has double object constructions, with the Recipient before the Theme. The recipient has been tagged `iobj` and the Theme `obj`. We do not know any property to distinguish them except their resepective order and their semantic roles.
-* Some ADJs, NOUNs, ADJs, and ADVs can root a clause. There is a copula, _se_, which is used in existential constructions.
+* Some `ADJ`s, `NOUN`s, and `ADV`s can root a clause. There is a copula, _se_, which is used in existential constructions.
 * It has `nmod`s without markers.
 * It has `DET`s before and after the `NOUN`. `DET`s after the `NOUN` could be `nmod`. A further study is needed.
 * Some `ADJ`s must be before the `NOUN`, while others must be after the `NOUN`. The repartition is similar to French.
