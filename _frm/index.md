@@ -8,7 +8,8 @@ udver: '2'
 
 ## Tokenization and Word Segmentation
 
-*
+Middle French tokenization is mostly based on whitespaces and punctuation.
+Some work is still needed for a complete analysis of fused forms such as "dudit" = "de ledit" (ADP+DET) along the UD guidelines. 
 
 ---
 **Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
@@ -19,7 +20,9 @@ udver: '2'
 
 ### Tags
 
-*
+* ``PART`` is unused in Middle French.
+  
+* Participles are tagged as ``VERB``.
 
 ---
 **Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
