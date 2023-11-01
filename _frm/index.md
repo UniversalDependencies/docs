@@ -31,7 +31,7 @@ Some work is still needed for a complete analysis of fused forms such as "dudit"
 
 ### Features
 
-*
+* Morphological annotation is not complete yet. Features that were automatically derivable from the original CATTEX tags are included in the morphological features. Those includes ``PronType``, ``NumType``, ``Tense``, ``VerbForm``, ``Poss`` and ``Definite``. However, ``Number``, ``Gender`` and ``Person`` that are important features in Middle French are not yet annotated.
 
 ---
 **Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
@@ -40,7 +40,9 @@ Some work is still needed for a complete analysis of fused forms such as "dudit"
 
 ## Syntax
 
-*
+* By the Middle French period, the language is already mostly SOV which helps in identifying core arguments. When this is not the case, verbal agreement can help, even though semantic agreement also occurs. We thus find in the great chronicles :
+  "... le jour de Pasques, qui furent le Ve jour d'avril ..." (the day of Easter, that were the 5th day of April),
+because Pasques (Easter) is a plural even though the syntactic subject "jour" is a singular.
 
 ---
 **Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
