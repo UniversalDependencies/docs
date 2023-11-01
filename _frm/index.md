@@ -46,10 +46,9 @@ udver: '2'
 
 ## Treebanks
 
-There are [N](../treebanks/frm-comparison.html) Middle French UD treebanks:
+There are [1](../treebanks/frm-comparison.html) Middle French UD treebanks:
 
-  * [Middle French-A](../treebanks/frm_a/index.html)
-  * [Middle French-B](../treebanks/frm_b/index.html)
+  * [Middle French-PROFITEROLE](../treebanks/frm_profiterole/index.html)
 
 ---
 **Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
