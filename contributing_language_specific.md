@@ -205,7 +205,7 @@ punct(a,.)
 ~~~
 </pre>
 
-## Language-specific Lists for the Validator
+## Language-Specific Lists for the Validator
 
 As mentioned above, certain aspects of the language-specific rules are registered in a database that can be used by
 the validator (but it serves as documentation at the same time). We have said that features and relation subtypes
