@@ -205,6 +205,31 @@ punct(a,.)
 ~~~
 </pre>
 
+## Language-specific Lists for the Validator
+
+As mentioned above, certain aspects of the language-specific rules are registered in a database that can be used by
+the validator (but it serves as documentation at the same time). We have said that features and relation subtypes
+must be registered this way (in addition to documenting language-specific features and relations) but there are other
+things that must be registered (and it is likely that more will be required in the future).
+
+Extra care must be taken when these lists are modified for languages that have multiple treebanks maintained by
+different teams! It is considered improper to make other people's treebank invalid by disabling a feature value
+(relation, auxiliary, anything) that they use, without consulting them first. You may be right that it is an error
+to use the feature value for this part of speech, but there should always be a plan how to fix the data. If you
+disable a feature, it is your responsibility to check the new validity status not only of your treebank but also
+of the other treebanks for the language.
+
+* [Features](https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_feature.pl):
+  Register allowed combinations of UPOS tags, features and their values in the given language.
+* [Dependency relations](https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_deprel.pl):
+  Turn on/off relation subtypes in the given language.
+* [Enhanced dependency relations](https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_edeprel.pl):
+  Register and categorize case-marking subtypes of `obl`, `nmod`, `advcl`, `acl`, and coordination subtypes of `conj`
+  to be used in the enhanced representation.
+* [Auxiliaries](https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_auxiliary.pl):
+  Register and document lemmas that can be tagged [AUX]() in the given language. The lemma of the copula is also
+  registered here and must be labeled as copula, otherwise the relation [cop]() cannot be used with it.
+
 ## Old-Style Documentation
 
 If you want a full mirror of the universal documentation of tags, features and relations, you have to create the .md files in your language
