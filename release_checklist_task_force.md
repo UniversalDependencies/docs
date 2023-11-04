@@ -23,6 +23,11 @@ See [here](release_checklist.html) for the checklist for data contributors.
 * Make sure there are no untracked files in your local copies of the repositories.
   Otherwise they could be mistakenly picked for the release.<br />
   <code>for i in UD_* ; do echo $i ; cd $i ; git status ; if git status | grep -P '(Untracked files|ahead of)' > /dev/null ; then echo XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX UNCLEAN GIT STATUS XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX ; sleep 10 ; fi; cd .. ; echo ; done</code>
+* Update version numbers in the commands in this file (`docs/release_checklist_task_force.md`).
+  Besides batch-replacing the previous release number to the new release number (e.g., replace all
+  occurrences of 1.12 with 1.13), the pre-previous release is occasionally mentioned (e.g., replace
+  1.11 with 1.12). Furthermore, the next step mentiones the month when the next release is expected
+  (replace November 2020 with May 2021).
 * Run `tools/check_release.pl --release 2.13 --next-expected 'May 2024' --oldpath /net/data/universal-dependencies-2.12 |& tee release-2.13-report.txt | less`.
   The script will visit all repositories and report any missing files, unexpected or unexpectedly named files.
   It will download the [online validation report](http://quest.ms.mff.cuni.cz/udvalidator/)
