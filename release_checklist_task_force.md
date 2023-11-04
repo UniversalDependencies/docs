@@ -22,7 +22,7 @@ See [here](release_checklist.html) for the checklist for data contributors.
   <code>for i in UD_* ; do echo $i ; cd $i ; git checkout dev ; git pull --no-edit ; cd .. ; echo ; done</code>
 * Make sure there are no untracked files in your local copies of the repositories.
   Otherwise they could be mistakenly picked for the release.<br />
-  <code>for i in UD_* ; do echo $i ; cd $i ; git status ; if git status | grep 'Untracked files' > /dev/null ; then echo XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX EXTRA FILES XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX ; sleep 10 ; fi; cd .. ; echo ; done</code>
+  <code>for i in UD_* ; do echo $i ; cd $i ; git status ; if git status | grep -P '(Untracked files|ahead of)' > /dev/null ; then echo XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX UNCLEAN GIT STATUS XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX ; sleep 10 ; fi; cd .. ; echo ; done</code>
 * Run `tools/check_release.pl --release 2.12 --next-expected 'November 2023' --oldpath /net/data/universal-dependencies-2.11 |& tee release-2.12-report.txt | less`.
   The script will visit all repositories and report any missing files, unexpected or unexpectedly named files.
   It will download the [online validation report](http://quest.ms.mff.cuni.cz/udvalidator/)
