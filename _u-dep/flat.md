@@ -10,7 +10,7 @@ This includes both cases where more than one component passes the head test – 
 Note also that the `flat` relation is appropriate in such cases only when no more specific relation applies.
 For example, in coordination structures annotated with the [conj]() relation, any of the conjuncts can usually replace the whole.
 
-Flat MWEs are annotated with a flat structure, where all subsequent components in the expression are attached to the 
+Flat expressions are annotated with a flat structure, where all subsequent components in the expression are attached to the 
 first one using the `flat` label. The assumption is that in these expressions, the `flat` relations
 are not syntactic head-modifier relations, and that the structural annotation is in principle arbitrary.
 The components of a flat expression may have their own dependents, including nested flat structures.
