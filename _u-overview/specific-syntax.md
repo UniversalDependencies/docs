@@ -11,7 +11,7 @@ This section contains detailed discussion of particular linguistic constructions
 
 * [Coordination](#coordination)
 * [Ellipsis](#ellipsis)
-* [Multiword expressions](#multiword-expressions)
+* [Lexical relations, multiword expressions, headless structures](#lexical-relations-multiword-expressions-headless-structures)
 * [Comparative constructions](#comparatives)
 * [Paratactic constructions](#paratactic-constructions)
 * [Punctuation](#punctuation)
@@ -280,13 +280,13 @@ is from Malayalam.
 
 ~~~
 
-## Multiword Expressions
+## Lexical Relations, Multiword Expressions, Headless Structures
 
-Multiword expressions are combinations of words that (in some respect and to different degrees) behave as lexical units rather than compositional syntactic phrases, in particular by being semantically non-compositional. Since the UD annotation is concerned with morphosyntactic structure, most multiword expressions are not recognized as such in the UD annotation. The only exception is the class of fixed expressions like _<b>by and large</b>_ and _<b>in spite of</b>_, which are completely frozen and (often) morphosyntactically irregular. Such expressions are annotated using the [fixed]() relation to indicate that their internal structure is not regular and productive. Some other relations, such as [compound]() and [flat](), are often appropriate for expressions that also happen to be non-compositional, but they are defined by morphosyntactic criteria and not by non-compositionality or other properties characteristic of multiword expressions.
+UD provides the [compound]() relation for head-modifier combinations that morphosyntactically resemble single lexemes. The criteria for [compound]() need to be established on a language-specific basis.
 
-## Headless vs. Headed Structures
+**Multiword expressions** are combinations of words that (in some respect and to different degrees) behave as lexical units rather than compositional syntactic phrases, in particular by being semantically non-compositional. Since the UD annotation is concerned with morphosyntactic structure, most multiword expressions are not recognized as such in the UD annotation. The only exception is the class of fixed expressions like _<b>by and large</b>_ and _<b>in spite of</b>_, which are completely frozen and (often) morphosyntactically irregular. Such expressions are annotated using the [fixed]() relation to indicate that their internal structure is not regular and productive. Some other relations, such as [compound]() and [flat](), are often appropriate for expressions that also happen to be non-compositional, but they are defined by morphosyntactic criteria and not by non-compositionality or other properties characteristic of multiword expressions.
 
-Structures analyzed with [u-dep/fixed]() and [u-dep/flat]() are headless by definition and are consistently
+Structures analyzed with [u-dep/fixed]() and [u-dep/flat]() are **headless** by definition and are consistently
 annotated by attaching all non-first elements to the first and only allowing outgoing dependents from the first element.
 
 <div id="s8a" class="sd-parse">
