@@ -282,13 +282,9 @@ is from Malayalam.
 
 ## Multiword Expressions
 
-Multiword expressions (MWEs) are combinations of words that (in some respect and to different degrees) behave
-as lexical units rather than compositional syntactic phrases. The UD taxonomy contains three special relations
-for analyzing MWEs:
+Multiword expressions are combinations of words that (in some respect and to different degrees) behave as lexical units rather than compositional syntactic phrases, in particular by being semantically non-compositional. Since the UD annotation is concerned with morphosyntactic structure, most multiword expressions are not recognized as such in the UD annotation. The only exception is the class of fixed expressions like _<b>by and large</b>_ and _<b>in spite of</b>_, which are completely frozen and (often) morphosyntactically irregular. Such expressions are annotated using the [fixed]() relation to indicate that their internal structure is not regular and productive. Some other relations, such as [compound]() and [flat](), are often appropriate for expressions that also happen to be non-compositional, but they are defined by morphosyntactic criteria and not by non-compositionality or other properties characteristic of multiword expressions.
 
-* [u-dep/fixed]() are used to analyze fixed grammaticized MWEs like _in spite of_ (see above)
-* [u-dep/flat]() are used to analyze exocentric semi-fixed MWEs like _Barack Obama_
-* [u-dep/compound]() are used to analyze (endocentric) compounds like _noun phrase_
+## Headless vs. Headed Structures
 
 Structures analyzed with [u-dep/fixed]() and [u-dep/flat]() are headless by definition and are consistently
 annotated by attaching all non-first elements to the first and only allowing outgoing dependents from the first element.
