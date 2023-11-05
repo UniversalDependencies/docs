@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'flat'
-shortdef: 'flat multiword expression'
+shortdef: 'flat expression'
 udver: '2'
 ---
 
@@ -167,7 +167,7 @@ det(Plata-4, la-3)
 nmod(Río-1, Plata-4)
 ~~~
 
-A name may combine flat and non-flat structure. In a Portuguese text, the surname "Paulo da Silva" would be analyzed as follows:
+A name may combine flat and non-flat structure. In a Portuguese text, the surname _Paulo da Silva_ would be analyzed as follows:
 
 <!-- REMOVED Júnior -->
 
