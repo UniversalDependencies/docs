@@ -5,17 +5,16 @@ shortdef: 'fixed multiword expression'
 udver: '2'
 ---
 
-The `fixed` relation is one of the three relations for multiword expressions (MWEs)
-(the other two being [flat]() and [compound]()). 
-It is used for certain fixed grammaticized expressions that behave
-like function words or short adverbials.
+The fixed relation is used for certain fixed grammaticized expressions. Such expressions tend to behave like function words. For example, <b>in spite of</b> is a fixed expression functioning as a preposition in English; <b>bien que</b> ('although', lit. 'well that') functions as a subordinating conjunction in French; and <b>vare sig</b> ('either', lit. 'be itself') functions as a (pre)conjunction in Swedish.
+The scope of `fixed` MWEs corresponds roughly to the *fixed expressions* category of [Sag et al.](http://lingo.stanford.edu/pubs/WP-2001-03.pdf) and should not be used for multiword expressions that are morphosyntactically flexible. 
 
-**New from v2:** The `fixed` relation replaces the old `mwe` relation to prevent misunderstanding regarding its scope.
+## Criteria
 
-The scope of `fixed` MWEs corresponds roughly to the *fixed
-expressions* category of
-[Sag et al.](http://lingo.stanford.edu/pubs/WP-2001-03.pdf)
-and excludes any semi-fixed or flexible MWEs. 
+Fixed expressions typically do not allow intervening words, except in a few special cases such as clitics that go in a fixed position in the clause and can interrupt even fixed expressions. In addition, there may be inherently discontiguous fixed expressions, such as <b>för … sedan</b> in Swedish, corresponding to the English <b>ago</b>, which is syntactically irregular and always encloses a temporal expression, as in _<b>för</b> 10 år <b>sedan</b>_ [“10 years ago”]. 
+
+The creation of fixed multiword expressions is the end phase of a process of grammaticalization and there are always going to be cases of multiword expressions that are only somewhat grammaticalized. For practical treebanking, it is recommended to restrict this relation to the most grammaticalized cases and to treat them as a closed class by writing language-specific documentation listing the fixed expressions of the language.
+
+## Structure
 
 Fixed MWEs are annotated in a flat structure, where all subsequent words in the expression 
 are attached to the first one using the `fixed` label. The assumption is that these expressions
@@ -42,5 +41,8 @@ fixed(because, of)
 Je préfère prendre un dessert plutôt qu' une entrée \n I prefer getting a dessert rather than an appetizer
 fixed(plutôt, qu')
 ~~~
+
+**New from v2:** The `fixed` relation replaces the old `mwe` relation to prevent misunderstanding regarding its scope.
+For v2.14, this page has been revised to more clearly articulate the relationship to multiword expressions.
 
 <!-- Interlanguage links updated Út 9. května 2023, 20:04:15 CEST -->
