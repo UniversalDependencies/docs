@@ -32,9 +32,9 @@ or treat mathematical notation as following linguistic strategies like predicati
 A person’s name (or parts thereof) may lack the hallmarks of general constructions in the language, such that no single word can be identified as the head, in which case a flat structure applies. The subtyped relation [flat:name]() is recommended for flat names.
 
 ~~~ sdparse
-Hilary Rodham Clinton
-flat:name(Hilary, Rodham)
-flat:name(Hilary, Clinton)
+Hillary Rodham Clinton
+flat:name(Hillary, Rodham)
+flat:name(Hillary, Clinton)
 ~~~
 
 Nesting is possible:
