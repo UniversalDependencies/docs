@@ -5,10 +5,10 @@ shortdef: 'compound'
 udver: '2'
 ---
 
-The `compound` relation is one of three relations for multiword expressions (MWEs) (the other two being `fixed` and `flat`). It is used 
+The `compound` relation is one of three relations for multiword expressions (MWEs) (the other two being `fixed` and `flat`). It is used
 
 - for any kind of X<sup>0</sup> compounding: noun compounds (e.g., *phone book*), but also verb and
-adjective compounds that are more common in other languages (such as Persian or Japanese light verb constructions). 
+adjective compounds that are more common in other languages (such as Persian or Japanese light verb constructions).
 See further discussion at [Two Nominals](/workgroups/newdoc/two_nominals.html).
 
 ~~~ sdparse
@@ -32,14 +32,14 @@ Sam took out a $ 3 million loan
 compound(loan, $)
 ~~~
 
-- for particle verbs (with the subtype `compound:prt`):
+- for particle verbs (with the subtype [compound:prt]()):
 
 ~~~ sdparse
 put up
 compound:prt(put, up)
 ~~~
 
-- for serial verbs (with the subtype `compound:svc`):
+- for serial verbs (with the subtype [compound:svc]()):
 
 ~~~ sdparse
 Musa bé lá èbi \n Musa came took knife
@@ -52,7 +52,7 @@ The `compound` relation (nor any subtype thereof) is not used to link an inheren
 
 Each language that uses `compound` should develop its own specific criteria based on morphosyntax (rather than lexicalization or semantic idiomaticity),
 though elsewhere the terms "compound" and "multiword expression" may be used more broadly.
-In English, for example, adjective-noun combinations, prepositional phrases, and light verb constructions are better described 
+In English, for example, adjective-noun combinations, prepositional phrases, and light verb constructions are better described
 with other relations:
 
 ~~~ sdparse
