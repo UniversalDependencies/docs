@@ -5,12 +5,12 @@ shortdef: 'fixed multiword expression'
 udver: '2'
 ---
 
-The fixed relation is used for certain fixed grammaticized expressions. Such expressions tend to behave like function words. For example, <b>in spite of</b> is a fixed expression functioning as a preposition in English; <b>bien que</b> ('although', lit. 'well that') functions as a subordinating conjunction in French; and <b>vare sig</b> ('either', lit. 'be itself') functions as a (pre)conjunction in Swedish.
+The fixed relation is used for certain fixed grammaticized expressions. Such expressions tend to behave like function words. For example, _<b>in spite of</b>_ is a fixed expression functioning as a preposition in English; _<b>bien que</b>_ ('although', lit. 'well that') functions as a subordinating conjunction in French; and _<b>vare sig</b>_ ('either', lit. 'be itself') functions as a (pre)conjunction in Swedish.
 The scope of `fixed` MWEs corresponds roughly to the *fixed expressions* category of [Sag et al.](http://lingo.stanford.edu/pubs/WP-2001-03.pdf) and should not be used for multiword expressions that are morphosyntactically flexible. 
 
 ## Criteria
 
-Fixed expressions typically do not allow intervening words, except in a few special cases such as clitics that go in a fixed position in the clause and can interrupt even fixed expressions. In addition, there may be inherently discontiguous fixed expressions, such as <b>för … sedan</b> in Swedish, corresponding to the English <b>ago</b>, which is syntactically irregular and always encloses a temporal expression, as in _<b>för</b> 10 år <b>sedan</b>_ [“10 years ago”]. 
+Fixed expressions typically do not allow intervening words, except in a few special cases such as clitics that go in a fixed position in the clause and can interrupt even fixed expressions. In addition, there may be inherently discontiguous fixed expressions, such as _<b>för … sedan</b>_ in Swedish, corresponding to the English _<b>ago</b>_, which is syntactically irregular and always encloses a temporal expression, as in _<b>för</b> 10 år <b>sedan</b>_ [“10 years ago”]. 
 
 The creation of fixed multiword expressions is the end phase of a process of grammaticalization and there are always going to be cases of multiword expressions that are only somewhat grammaticalized. For practical treebanking, it is recommended to restrict this relation to the most grammaticalized cases and to treat them as a closed class by writing language-specific documentation listing the fixed expressions of the language.
 
