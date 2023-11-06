@@ -71,4 +71,4 @@ where the distinction is that the verba genitive does not have a temporal tracin
 * [myv] _<b>Салтозь</b> куяртнэ тантейть_ "The salted cucumbers are delicious." (Past Dynamic (Озь) converb-participle)
 
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:43 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:58 CET -->

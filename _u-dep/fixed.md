@@ -45,4 +45,4 @@ fixed(plutôt, qu')
 **New from v2:** The `fixed` relation replaces the old `mwe` relation to prevent misunderstanding regarding its scope.
 For v2.14, this page has been revised to more clearly articulate the relationship to multiword expressions.
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:15 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:55 CET -->

@@ -35,4 +35,4 @@ nsubj(szólította, William-10)
 flat:name(William-10, Ramsey-11)
 ~~~
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:58 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:24 CET -->

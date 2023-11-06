@@ -15,4 +15,4 @@ nsubj(pudistivat-3, miehet-2)
 obj(pudistivat-3, päätään-4)
 punct(pudistivat-3, .-5)
 ~~~
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:11 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:48 CET -->

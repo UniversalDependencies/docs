@@ -79,4 +79,4 @@ In Naija three oblique relations are used instead of `obl`:
 ~~~
 
 + [obl:periph]() for peripheric obliques
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:27 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:16 CET -->

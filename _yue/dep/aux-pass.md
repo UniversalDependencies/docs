@@ -25,4 +25,4 @@ The passive auxiliary is limited to the particle 被 _bei6_ used in a passive se
 ~~~
 
 The regular way to construct a passive structure in Cantonese involves the prepositional marker 畀 _bei2_ followed by an obligatory agent noun; see [obl:agent]() for details.
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:01 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:30 CET -->

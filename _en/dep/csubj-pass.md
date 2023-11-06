@@ -12,4 +12,4 @@ clause. In the example below, *that she lied* is the subject.
 That she lied was suspected by everyone
 csubj:pass(suspected, lied)
 ~~~
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:10 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:45 CET -->

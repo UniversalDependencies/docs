@@ -47,4 +47,4 @@ Exceptions:
 * _half_, a _third_ of the cake, two _thirds_
 
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:43 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:56 CET -->

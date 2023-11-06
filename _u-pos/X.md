@@ -21,4 +21,4 @@ _sombrero_ is an ordinary [NOUN]().
 ### Examples
 
 - _And then he just <b>xfgh pdl jklw</b>_
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:30 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:32 CET -->

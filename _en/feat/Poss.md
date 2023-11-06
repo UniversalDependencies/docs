@@ -18,4 +18,4 @@ The following English pronouns have this feature:
 Of these, the *dependent* ones (_my_, _your_, etc., which typically attach as [nmod:poss]()) also receive [Case]()=`Gen`.
 
 Note that there is no `No` value. If the word is not possessive, the `Poss` feature will just not be mentioned in the `FEAT` column.
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:46 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:02 CET -->

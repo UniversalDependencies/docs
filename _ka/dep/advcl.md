@@ -12,3 +12,4 @@ udver: '2'
 advcl(გავესაუბრე, იყო)
 ~~~
 
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:17 CET -->

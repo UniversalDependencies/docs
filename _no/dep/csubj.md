@@ -18,4 +18,4 @@ When the matrix clause is a copula construction, the head of the `csubj` may be 
 Det er rart at vi kom i mål i det hele tatt \n It is funny that we reached our goal at all
 csubj(rart,kom)
 ~~~
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:09 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:43 CET -->

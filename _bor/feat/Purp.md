@@ -42,4 +42,4 @@ The purposive suffix whic indicates the trasmission of _-iagu_.
 
 The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
 therefore this distinction is not being made in the converted data.
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:36 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:05 CET -->

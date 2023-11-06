@@ -127,4 +127,4 @@ Produces converbs.
 
 * [koi] _петтӧдз_ "until it comes out"
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:35 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:42 CET -->

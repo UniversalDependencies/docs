@@ -11,4 +11,4 @@ A marker is the word introducing a finite clause subordinate to another clause. 
 Escuchan música mientras comen . \n They listen to music while they eat .
 mark(comen, mientras)
 ~~~
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:18 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:00 CET -->

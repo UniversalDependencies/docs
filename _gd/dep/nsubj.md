@@ -68,4 +68,4 @@ _Sin <b>e</b> dìreach mar a thachair do chroitearan Bheàrnaraigh._
 9	Bheàrnaraigh	Beàrnaraigh	PROPN	Nt	_	8	nmod	_	SpaceAfter=No
 10	.	.	PUNCT	Fe	_	1	punct	_	_
 ~~~
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:22 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:08 CET -->

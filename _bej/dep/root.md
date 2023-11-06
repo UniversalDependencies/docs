@@ -13,4 +13,4 @@ da / bʔeː =b eːjaː -n =heːb i- ni //
 text_en: "Men came to me one day", he said.
 root(ROOT, ni) (ROOT, "say")
 ~~~
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:33 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:27 CET -->

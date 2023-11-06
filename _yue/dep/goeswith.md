@@ -46,4 +46,4 @@ Note that the particular class of idiomatic expressions called 成語 _sing4jyu2
 3	taboo."	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:17 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:59 CET -->

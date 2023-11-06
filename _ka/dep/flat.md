@@ -21,3 +21,4 @@ flat:name(ნოდარ, ერგაძე)
 avocat défenseur
 flat:foreign(avocat, défenseur)
 ~~~
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:55 CET -->

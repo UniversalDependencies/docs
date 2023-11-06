@@ -25,4 +25,4 @@ Plain [nsubj]() (or another subtype) will be appropriate if the copular clause p
 Le chiavi dei suoi film sono fin troppo leggibili .
 nsubj(leggibili, chiavi)
 ~~~
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:24 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:10 CET -->

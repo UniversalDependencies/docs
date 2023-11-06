@@ -337,4 +337,4 @@ But not all “unnecessary” spaces are flat:
 - space-separated numerals like _1 000 000_ [may be treated as single words](/u/overview/tokenization.html)
 
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:16 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:56 CET -->

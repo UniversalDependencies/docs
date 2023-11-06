@@ -24,4 +24,4 @@ udver: '2'
 ~~~
 
 For non-clausal cases, there is [`nsubj:pred`](nsubj-pred.html).
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:10 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:45 CET -->

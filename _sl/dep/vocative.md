@@ -17,4 +17,4 @@ Kako s kej , Nelly ? \n How have-you-been lately , Nelly ?
 vocative(s,Nelly-5)
 vocative(have-you-been,Nelly-12)
 ~~~
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:34 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:29 CET -->

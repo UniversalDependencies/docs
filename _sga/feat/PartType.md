@@ -79,4 +79,4 @@ The vocative particle, _<b>a</b>_, is used to directly address a person or thing
 * _<b>a</b>nóibingen_ "O Holy Virgin"
 * _<b>a</b> rómanu_ "Romans!"
 * _<b>a</b>thusu_ "You!"
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:44 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:58 CET -->

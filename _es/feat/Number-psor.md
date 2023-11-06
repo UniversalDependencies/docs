@@ -41,3 +41,4 @@ Similarly, when the possessor is plural, other specific determiners are used in 
 * _Vuestro coche_ "Your (plural) car"
 * _Su casa_ "Their house"
 
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:55 CET -->

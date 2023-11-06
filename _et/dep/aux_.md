@@ -33,4 +33,4 @@ cop(võimalik,ole)
 aux(possible, not)
 cop(possible,is)
 ~~~
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:00 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:27 CET -->

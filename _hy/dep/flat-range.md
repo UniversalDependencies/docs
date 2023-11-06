@@ -33,4 +33,4 @@ Armenian uses `flat:range` for numerical, spacial and time ranges.
 6	։	։	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
 
 ~~~
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:16 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:57 CET -->

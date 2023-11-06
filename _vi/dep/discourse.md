@@ -18,4 +18,4 @@ discourse(đồn_bốt, nè)
 punct(đồn_bốt, !)
 ~~~
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:13 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:51 CET -->

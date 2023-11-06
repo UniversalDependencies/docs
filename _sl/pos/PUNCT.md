@@ -20,4 +20,4 @@ Punctuation marks are non-alphabetical characters and character groups used to d
 #### Conversion from JOS
 
 The list of characters in ssj500k treebank has been manually divided into subgroups of `PUNCT` and [SYM](SYM). Note that some characters display characteristics of both POS categories, such as asterisk or dash-like characters that can either function as mathematical operators (`SYM`) or bullets in itemized lists (`PUNCT`). In case of such ambiguity, the more common function was chosen. 
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:28 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:30 CET -->

@@ -21,4 +21,4 @@ cannot serve to judge the part of speech from the English perspective.)
 - _ա՜հ&nbsp;_ “oh”
 - _օհո՜&nbsp;_ “wow”
 - _դե՛, դե՛հ&nbsp;_ “well”
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:25 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:25 CET -->

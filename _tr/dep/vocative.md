@@ -12,4 +12,4 @@ The relation links the addressee’s name to its host sentence.
 Ali , gel . \n Ali, come here!
 vocative(gel, Ali)
 ~~~
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:34 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:29 CET -->

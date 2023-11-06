@@ -48,4 +48,4 @@ It is a form distinct from the 3rd person which is frequently translated using p
 * _Gweler tudalen 20_ "[one] may see page 20"
 
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:44 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:58 CET -->

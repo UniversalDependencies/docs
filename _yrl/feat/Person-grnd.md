@@ -42,4 +42,4 @@ A pronominal third person ground is incorporated into the postpostion in form of
 * _Kunhã-itá upuapuãmu <b>suakí</b> rupí umaã arama aé umungitá aintá.&nbsp;_ "Women milled around him to see if he would court them". (Amorim, 444, adap., apud Avila 2021)
 * _Waimĩ uyapí pisá <b>sesé</b>, upupeka reté aé, urasú suka kití.&nbsp;_ "The old woman threw the net over him, enveloped him completely, took him to her house." (Magalhães, 165, adap., apud Avila 2021)
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:44 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:59 CET -->

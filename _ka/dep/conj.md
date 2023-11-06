@@ -26,3 +26,4 @@ conj(ანგარიშგების, შეკავება-გაწო
 ხშირად მოკლე სიტყვა, ერთი ჟესტიც კმაროდა, რომ კიდევ ერთხელ დამტკიცებულიყო ჩვენი ნება-სურვილის და ბრძოლის ერთობლიობა. \n 'Often, a short word or a single gesture was enough to once again prove the unity of our will and struggle.'
 conj(სიტყვა, ჟესტიც)
 punct(cognata, ,-4)
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:40 CET -->

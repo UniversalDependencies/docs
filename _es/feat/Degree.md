@@ -53,3 +53,4 @@ set of objects.
 #### Example:
 
 * _guapo_ "handsome"; _<b>guapísimo</b>_ "<b>indescribably handsome</b>"
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:41 CET -->

@@ -17,4 +17,4 @@ punct(కాయించేడు, .-5)
 
 “Ramu makes Kamala boil the water.”
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:28 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:17 CET -->

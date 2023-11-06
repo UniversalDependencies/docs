@@ -12,3 +12,4 @@ The <code>pred</code> subrelation aims at unitarily representing the phenomenon 
 L' altra è colei che s' ancise amorosa 
 advcl:pred(ancise, amorosa)
 ~~~
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:19 CET -->

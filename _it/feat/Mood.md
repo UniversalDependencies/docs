@@ -47,4 +47,4 @@ otherwise uncertain.
 
 * _Voglio che tu te ne <b>vada</b>_ "I want you to leave"
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:40 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:50 CET -->

@@ -96,4 +96,4 @@ Zaar: the resultative aspect denotes the complete achievement of the process den
 
 * _wò kap =k<b>ə́y</b> ?//_ "He will <b>abduct you</b> ?"
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:32 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:36 CET -->

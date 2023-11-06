@@ -26,4 +26,4 @@ ccomp(they-are-warning,take)
 ~~~
 
 In predicative constructions with the copula **_biti_** '_to be_', such as in the sentence _Pomembno je, da ostanemo mirni_ 'It is important that we stay calm.', the Slovenian treebanks currently analyse such clauses as clausal subjects ([csubj]()) rather than clausal complements (`ccomp`).
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:04 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:34 CET -->

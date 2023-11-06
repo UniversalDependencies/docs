@@ -18,4 +18,4 @@ orphan(Miriam-6, Prag-8)
 case(Prag-8, till-7)
 conj(åkte-2, Miriam-6)
 ~~~
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:30 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:23 CET -->

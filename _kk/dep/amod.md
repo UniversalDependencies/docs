@@ -41,4 +41,4 @@ nmod(ойнайды-8, бақшада-6)
 nsubj(ойнайды-8, Олар-1)
 ~~~
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:59 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:25 CET -->

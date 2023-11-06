@@ -62,4 +62,4 @@ amod(näytelmä-4, eilinen-3)
 ### References
 
 * <http://scripta.kotus.fi/visk/sisallys.php?p=876>
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:54 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:16 CET -->

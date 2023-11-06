@@ -13,4 +13,4 @@ ccomp(trodde,ta)
 ~~~
 
 Such clausal complements may be finite or nonfinite. However, if the subject of the clausal complement is controlled the appropriate relation is [xcomp]().
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:04 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:34 CET -->

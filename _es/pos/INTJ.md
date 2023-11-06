@@ -38,4 +38,4 @@ _¡epa!_ (Venezuela, Colombia): used to express surprise or to get someone's att
 
 In spoken Spanish, certain words retain their original category even when used as interjections. Examples include _¡Madre mía!_ ("my mother"), _¡Mujer!_ ("woman"), _¡Hombre!_ ("man"), _¡Venga!_ ("come"), and _¡Verdad!_ ("truth)". These words are primarily nouns, verbs or adjectives, but in conversational contexts, they can function as interjections to express emotions or reactions.
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:25 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:25 CET -->

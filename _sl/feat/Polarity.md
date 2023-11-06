@@ -32,4 +32,4 @@ In the Slovenian UD Treebank, we currently only mark negation as an inflectional
 ### Conversion from JOS
 
 All verbs with feature Negative=no are converted to `Negative=Pos` and all verbs with feature Negative=yes are converted to `Negative=Neg`.
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:45 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:01 CET -->

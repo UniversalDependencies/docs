@@ -61,3 +61,4 @@ Generally, the conditional mood is used to express actions that would have taken
 * _Ellos comerían pizza si tuvieran hambre._ "They would eat pizza if they were hungry."
 * _Nosotros iríamos al cine si tuviéramos tiempo._ "We would go to the movies if we had time."
 
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:50 CET -->

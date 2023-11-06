@@ -54,4 +54,4 @@ However, `list` should not be over-used. If a construction can easily be analyze
 
 For list items, the de facto decision taken in [issue 156](https://github.com/UniversalDependencies/docs/issues/156) is that, for enumerated lists, regardless of whether the items are numbered with arabic, roman, or other numerals, or are given letters, we will regard the item contents as the head, and the item enumerator will be a `nummod` of it and given the part of speech `NUM`. Any punctuation with the list item will be a `punct` dependent of the item enumerator. For itemized lists with bullet, dash or similar markers, the current standard is to give the marker a `PUNCT` part of speech and then to give it the dependency relation `punct` to the head of the item content.
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:18 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:00 CET -->

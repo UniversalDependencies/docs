@@ -11,3 +11,4 @@ This syntactic subrelation (also implemented for <code>ccomp</code> and <code>ad
 Con lui se ne va chi da tal parte inganna ;
 csubj:relcl(va, inganna)
 ~~~
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:45 CET -->

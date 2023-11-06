@@ -36,4 +36,4 @@ nummod(p.m., 5.00)
 flat(4, Aibreán)
 flat(4, 1997)
 ~~~ 
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:30 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:22 CET -->

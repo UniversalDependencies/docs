@@ -13,3 +13,4 @@ nmod(თქმა, სიმართლის)
 ~~~
 
 **NB** Note that nominal modifiers used with postpositions and functioning as a non-core (oblique) argument or adjunct are covered by the [obl](_ka/dep/obl) relation. 
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:03 CET -->

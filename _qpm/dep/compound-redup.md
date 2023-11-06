@@ -24,4 +24,4 @@ lit: the child slowly slowly grows up
 "the child grows up very slowly"
 compound:redup (javáš, javáš)
 ~~~
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:06 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:39 CET -->
