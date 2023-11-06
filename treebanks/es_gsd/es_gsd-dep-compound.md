@@ -26,12 +26,12 @@ The following 32 pairs of parts of speech are connected with `compound`: <tt><a 
 2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	puesto	puesto	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
 4	#	#	SYM	_	Number=Sing|Person=3	3	appos	_	_
-5	35	35	NUM	_	NumType=Card	4	nummod	_	_
+5	35	35	NUM	_	NumForm=Digit|NumType=Card	4	nummod	_	_
 6	en	en	ADP	_	_	12	case	_	_
 7	VH1	vh1	X	_	_	9	compound	_	_
 8	's	's	X	_	Number=Sing|Person=3	7	dep	_	_
 9	Top	top	X	_	_	11	compound	_	_
-10	40	40	NUM	_	NumType=Card	12	nummod	_	_
+10	40	40	NUM	_	NumForm=Digit|NumType=Card	12	nummod	_	_
 11	Metal	metal	X	_	Number=Sing	12	compound	_	_
 12	Songs	songs	X	_	_	1	obl	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	1	punct	_	_

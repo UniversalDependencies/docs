@@ -26,7 +26,7 @@ The following 38 pairs of parts of speech are connected with `parataxis`: <tt><a
 2	smiled	smile	VERB	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 3	weakly	weak	ADV	_	_	2	advmod	_	SpaceAfter=No
 4	.	.	PUNCT	Period	_	2	punct	_	_
-5	No	no	DET	NEG	_	6	det	_	_
+5	No	no	DET	NEG	PronType=Neg	6	det	_	_
 6	problem	problem	NOUN	SG-NOM	Number=Sing	9	ccomp	_	SpaceAfter=No
 7	,	,	PUNCT	Comma	_	6	punct	_	_
 8	he	he	PRON	PERS-P3SG-NOM	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
@@ -62,7 +62,7 @@ The following 38 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 7 parataxis	color:blue
-1	They	they	PRON	PERS-PL-NOM	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	SpaceAfter=No
+1	They	they	PRON	PERS-PL-NOM	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
 2	're	be	AUX	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	all	all	PRON	TOT-PL	Case=Nom	4	nmod	_	_
 4	heroes	hero	NOUN	PL-NOM	Number=Plur	0	root	_	SpaceAfter=No

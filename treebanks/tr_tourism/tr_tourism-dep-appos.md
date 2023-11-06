@@ -11,7 +11,7 @@ This relation is universal.
 39 nodes (0%) are attached to their parents as `appos`.
 
 39 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.25641025641026.
+Average distance between parent and child is 2.17948717948718.
 
 The following 7 pairs of parts of speech are connected with `appos`: <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (29; 74% instances), <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> (3; 8% instances), <tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (3; 8% instances), <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (1; 3% instances).
 
@@ -52,20 +52,18 @@ The following 7 pairs of parts of speech are connected with `appos`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 4 appos	color:blue
-1	BİZ	biz	PRON	_	PronType=Prs	8	nsubj	_	_
-2	,	,	PUNCT	_	_	1	punct	_	_
-3	4	4	NUM	_	NumType=Card	4	nummod	_	_
-4	AİLE	aile	NOUN	_	Case=Nom|Number=Sing|Person=3	1	appos	_	_
-5	,	,	PUNCT	_	_	8	punct	_	_
-6	3.	3	NUM	_	NumType=Ord	7	nummod	_	_
-7	KEZ	kez	NOUN	_	Case=Nom|Number=Sing|Person=3	8	nmod	_	_
-8	SEÇTİK	seç	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	_	_
-9	.	.	PUNCT	_	_	8	punct	_	_
+# visual-style 1 3 appos	color:blue
+1	BİZ	biz	PRON	_	PronType=Prs	6	nsubj	_	_
+2	4	4	NUM	_	NumType=Card	3	nummod	_	_
+3	AİLE	aile	NOUN	_	Case=Nom|Number=Sing|Person=3	1	appos	_	_
+4	3.	3	NUM	_	NumType=Ord	5	nummod	_	_
+5	KEZ	kez	NOUN	_	Case=Nom|Number=Sing|Person=3	6	nmod	_	_
+6	SEÇTİK	seç	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~
 

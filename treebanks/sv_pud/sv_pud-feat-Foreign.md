@@ -36,7 +36,7 @@ The most frequent other feature values with which `PROPN` and `Foreign` co-occur
 `PROPN` tokens may have the following values of `Foreign`:
 
 * `Yes` (5; 100% of non-empty `Foreign`): <em>Carolina, North, Punta, Rasa, del</em>
-* `EMPTY` (1211): <em>Kina, Storbritannien, Trump, USA, Frankrike, Hong, Italien, Medelhavet, North, Albanien</em>
+* `EMPTY` (1210): <em>Kina, Storbritannien, Trump, USA, Frankrike, Hong, Italien, Medelhavet, North, Albanien</em>
 
 ### `VERB`
 
@@ -69,7 +69,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>high</em>
-* `EMPTY` (1558): <em>andra, första, nya, många, flera, stora, stor, hela, senaste, sista</em>
+* `EMPTY` (1559): <em>andra, första, nya, många, flera, stora, stor, hela, senaste, sista</em>
 
 ### `ADP`
 

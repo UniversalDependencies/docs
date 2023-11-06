@@ -23,7 +23,7 @@ The following 8 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 8 nmod:poss	color:blue
-1	That	that	PRON	DT	Number=Sing|PronType=Dem	2	nsubj	2:nsubj	SpaceAfter=No
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	2	nsubj	2:nsubj	_
 2	's	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	not	not	PART	RB	Polarity=Neg	2	advmod	2:advmod	_
 4	what	what	PRON	WP	PronType=Int	6	obj	6:obj	_
@@ -52,7 +52,7 @@ The following 8 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 5	fueled	fuel	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
 6	by	by	ADP	IN	_	11	case	11:case	_
 7	Clinton	Clinton	PROPN	NNP	Number=Sing	11	nmod:poss	11:nmod:poss	SpaceAfter=No
-8	’s	’s	PART	POS	_	7	case	7:case	_
+8	’s	's	PART	POS	_	7	case	7:case	_
 9	large	large	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
 10	bank	bank	NOUN	NN	Number=Sing	11	compound	11:compound	_
 11	account	account	NOUN	NN	Number=Sing	5	obl	5:obl:by	SpaceAfter=No
@@ -71,7 +71,7 @@ The following 8 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 2	welcomed	welcome	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
 4	commission	commission	NOUN	NN	Number=Sing	6	nmod:poss	6:nmod:poss	SpaceAfter=No
-5	’s	’s	PART	POS	_	4	case	4:case	_
+5	’s	's	PART	POS	_	4	case	4:case	_
 6	announcement	announcement	NOUN	NN	Number=Sing	2	obj	2:obj	SpaceAfter=No
 7	.	.	PUNCT	.	_	2	punct	2:punct	_
 

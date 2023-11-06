@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>осы</em> (<tt><a href="kk_ktb-pos-
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.085714 (the average of all parts of speech is 1.746869).
+The form / lemma ratio of `DET` is 1.085714 (the average of all parts of speech is 1.747153).
 
 The 1st highest number of forms (3) was observed with the lemma “бұл”: <em>Мұнша, бұ, бұл</em>.
 

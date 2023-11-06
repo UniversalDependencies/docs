@@ -26,7 +26,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 * `Fem` (14071; 38% of non-empty `Gender`): משטרה, ארץ, ממשלה, חברה, שנים, שנה, עבודה, ידי, מדינה, דרך
 * `Fem,Masc` (96; 0% of non-empty `Gender`): פנים_, פני, סכין, פנים, מטבע, סכינים, דופן, מטבעות, גיהנום
 * `Masc` (23332; 62% of non-empty `Gender`): בית, יום, משרד, %, שר, משפט, דבר, פועל, מקום, שבוע
-* `EMPTY` (546): הכל, נק, ד, רעולי, אחים, רב, רח, __, באי, בטון
+* `EMPTY` (547): הכל, נק, ד, רעולי, אחים, רב, רח, __, באי, בטון
 
 `Gender` seems to be **lexical feature** of `NOUN`. 98% lemmas (3955) occur only with one value of `Gender`.
 

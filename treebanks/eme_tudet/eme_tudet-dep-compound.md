@@ -8,12 +8,24 @@ udver: '2'
 
 This relation is universal.
 
-1 nodes (0%) are attached to their parents as `compound`.
+17 nodes (1%) are attached to their parents as `compound`.
 
-1 instances of `compound` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.
+14 instances of `compound` (82%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.11764705882353.
 
-The following 1 pairs of parts of speech are connected with `compound`: <tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (1; 100% instances).
+The following 2 pairs of parts of speech are connected with `compound`: <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt> (16; 94% instances), <tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (1; 6% instances).
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 compound	color:blue
+1	sidʒemin	min	VERB	v	Clusivity=In|Number=Plur|Person=1|Reflex=Yes|VerbForm=Ser	2	compound	_	_
+2	sinan	nan	VERB	v	Clusivity=In|Number=Plur|Person=1	0	root	_	_
+
+~~~
 
 
 ~~~ conllu

@@ -70,9 +70,9 @@ Examples: <em>է</em>
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 4 different relations: <tt><a href="hy_bsut-dep-aux.html">aux</a></tt> (1934; 72% instances), <tt><a href="hy_bsut-dep-cop.html">cop</a></tt> (761; 28% instances), <tt><a href="hy_bsut-dep-aux-ex.html">aux:ex</a></tt> (1; 0% instances), <tt><a href="hy_bsut-dep-conj.html">conj</a></tt> (1; 0% instances)
+`AUX` nodes are attached to their parents using 5 different relations: <tt><a href="hy_bsut-dep-aux.html">aux</a></tt> (1933; 72% instances), <tt><a href="hy_bsut-dep-cop.html">cop</a></tt> (761; 28% instances), <tt><a href="hy_bsut-dep-aux-ex.html">aux:ex</a></tt> (1; 0% instances), <tt><a href="hy_bsut-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="hy_bsut-dep-orphan.html">orphan</a></tt> (1; 0% instances)
 
-Parents of `AUX` nodes belong to 10 different parts of speech: <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt> (1910; 71% instances), <tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt> (375; 14% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (294; 11% instances), <tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt> (62; 2% instances), <tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt> (23; 1% instances), <tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt> (21; 1% instances), <tt><a href="hy_bsut-pos-SYM.html">SYM</a></tt> (6; 0% instances), <tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="hy_bsut-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="hy_bsut-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `AUX` nodes belong to 10 different parts of speech: <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt> (1909; 71% instances), <tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt> (375; 14% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (295; 11% instances), <tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt> (62; 2% instances), <tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt> (23; 1% instances), <tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt> (21; 1% instances), <tt><a href="hy_bsut-pos-SYM.html">SYM</a></tt> (6; 0% instances), <tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="hy_bsut-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="hy_bsut-pos-X.html">X</a></tt> (1; 0% instances)
 
 2677 (99%) `AUX` nodes are leaves.
 

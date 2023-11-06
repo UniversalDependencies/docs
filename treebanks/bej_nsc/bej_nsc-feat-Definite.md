@@ -9,32 +9,30 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Def`, `Ind`.
 
-110 tokens (13%) have a non-empty value of `Definite`.
-12 types (4%) occur at least once with a non-empty value of `Definite`.
+144 tokens (12%) have a non-empty value of `Definite`.
+12 types (3%) occur at least once with a non-empty value of `Definite`.
 1 lemmas (0) occur at least once with a non-empty value of `Definite`.
-The feature is used with 2 part-of-speech tags: <tt><a href="bej_nsc-pos-DET.html">DET</a></tt> (108; 13% instances), <tt><a href="bej_nsc-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="bej_nsc-pos-DET.html">DET</a></tt> (140; 12% instances), <tt><a href="bej_nsc-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances).
 
 ### `DET`
 
-108 <tt><a href="bej_nsc-pos-DET.html">DET</a></tt> tokens (88% of all `DET` tokens) have a non-empty value of `Definite`.
+140 <tt><a href="bej_nsc-pos-DET.html">DET</a></tt> tokens (80% of all `DET` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="bej_nsc-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (108; 100%), <tt><a href="bej_nsc-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (108; 100%), <tt><a href="bej_nsc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (74; 69%), <tt><a href="bej_nsc-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (68; 63%).
+The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="bej_nsc-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (140; 100%), <tt><a href="bej_nsc-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (140; 100%), <tt><a href="bej_nsc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (97; 69%), <tt><a href="bej_nsc-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (89; 64%), <tt><a href="bej_nsc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (72; 51%).
 
 `DET` tokens may have the following values of `Definite`:
 
-* `Def` (66; 61% of non-empty `Definite`): <em>i=, oː=, uː=, toː=, w=, ti=, t=, eː=, j=, aː=</em>
-* `Ind` (42; 39% of non-empty `Definite`): <em>=b, =t</em>
-* `EMPTY` (15): <em>uːn, oːn, aːn, eːn, beːn, kass, toːt</em>
+* `Def` (98; 70% of non-empty `Definite`): <em>i=, oː=, uː=, ti=, t=, toː=, w=, eː=, j=, aː=</em>
+* `Ind` (42; 30% of non-empty `Definite`): <em>=b, =t</em>
+* `EMPTY` (36): <em>=t, oːn, uːn, =b, aːn, eːn, beːn, eːt, kass, toːt</em>
 
 ### `SCONJ`
 
-2 <tt><a href="bej_nsc-pos-SCONJ.html">SCONJ</a></tt> tokens (4% of all `SCONJ` tokens) have a non-empty value of `Definite`.
-
-The most frequent other feature values with which `SCONJ` and `Definite` co-occurred: <tt><a href="bej_nsc-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (2; 100%), <tt><a href="bej_nsc-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%).
+4 <tt><a href="bej_nsc-pos-SCONJ.html">SCONJ</a></tt> tokens (6% of all `SCONJ` tokens) have a non-empty value of `Definite`.
 
 `SCONJ` tokens may have the following values of `Definite`:
 
-* `Def` (1; 50% of non-empty `Definite`): <em>ti=</em>
-* `Ind` (1; 50% of non-empty `Definite`): <em>=t</em>
-* `EMPTY` (49): <em>=hoːb, =eːt, =jeːt, =aj, =eːb, =it, ji=, =ajt, =eː, =i</em>
+* `Def` (3; 75% of non-empty `Definite`): <em>w=, ti=</em>
+* `Ind` (1; 25% of non-empty `Definite`): <em>=t</em>
+* `EMPTY` (64): <em>=hoːb, =eːt, =it, =jeːt, =aj, =eːb, =jeːb, =jeːk, ji=, =ajt</em>
 

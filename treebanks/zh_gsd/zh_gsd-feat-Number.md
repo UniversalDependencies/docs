@@ -34,7 +34,7 @@ The most frequent other feature values with which `PART` and `Number` co-occurre
 `PART` tokens may have the following values of `Number`:
 
 * `Plur` (33; 100% of non-empty `Number`): 們
-* `EMPTY` (12380): 的、 之、 人、 大、 者、 市、 區、 會、 軍、 省
+* `EMPTY` (9849): 的、 人、 之、 大、 者、 市、 區、 會、 軍、 省
 
 ### `NOUN`
 

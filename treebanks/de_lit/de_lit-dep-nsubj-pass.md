@@ -65,7 +65,7 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 1	7)	7)	X	XY	_	6	dep	_	_
 2	Du	du	PRON	PPER	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
 3	sollst	sollen	AUX	VMFIN	_	6	aux	_	_
-4	keine	kein	DET	PIAT	PronType=Neg	5	advmod	_	_
+4	keine	kein	DET	PIAT	PronType=Neg	5	det	_	_
 5	Ehe	Ehe	NOUN	NN	Case=Acc	6	obj	_	_
 6	schließen	schließen	VERB	VVINF	_	0	root	_	SpaceAfter=No
 7	,	,	PUNCT	$,	_	9	punct	_	_

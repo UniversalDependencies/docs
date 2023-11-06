@@ -32,8 +32,8 @@ The following 1 pairs of parts of speech are connected with `acl`: <tt><a href="
 8	cheñora	cheñora	NOUN	n	_	6	nsubj	_	lady
 9	,	,	PUNCT	punct	_	13	punct	_	_
 10	Patricia	Patricia	PROPN	nprop	_	13	nsubj	_	Patricia
-11	Madre	Madre	PROPN	nprop	_	10	fixed	_	Madre
-12	Tierra	Tierra	PROPN	nprop	_	10	fixed	_	Tierra
+11	Madre	Madre	PROPN	nprop	_	10	flat	_	Madre
+12	Tierra	Tierra	PROPN	nprop	_	10	flat	_	Tierra
 13	oje'ea	je'e	VERB	vt	Mood=Ind|Person[subj]=3|Subcat=Tran|VerbForm=Fin	8	acl	_	A3-REFL-say-IMPRS
 14	.	.	PUNCT	punct	_	13	punct	_	_
 

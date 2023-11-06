@@ -51,11 +51,11 @@ The 2nd highest number of forms (2) was observed with the lemma “நல்ல�
 
 The 3rd highest number of forms (1) was observed with the lemma “அடுத்த”: அடுத்த.
 
-`ADJ` occurs with 3 features: <tt><a href="ta_mwtt-feat-Gender.html">Gender</a></tt> (2; 6% instances), <tt><a href="ta_mwtt-feat-Number.html">Number</a></tt> (2; 6% instances), <tt><a href="ta_mwtt-feat-Person.html">Person</a></tt> (2; 6% instances)
+`ADJ` occurs with 2 features: <tt><a href="ta_mwtt-feat-Number.html">Number</a></tt> (2; 6% instances), <tt><a href="ta_mwtt-feat-Person.html">Person</a></tt> (2; 6% instances)
 
-`ADJ` occurs with 4 feature-value pairs: `Gender=Fem`, `Gender=Neut`, `Number=Sing`, `Person=3`
+`ADJ` occurs with 2 feature-value pairs: `Number=Sing`, `Person=3`
 
-`ADJ` occurs with 3 feature combinations.
+`ADJ` occurs with 2 feature combinations.
 The most frequent feature combination is `_` (34 tokens).
 Examples: நல்ல, பெரிய, சிறிய, அடுத்த, நிறைய, அழகிய, இத்தனை, இல்லாத, இவ்வளவு, உள்ள
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-59 nodes (1%) are attached to their parents as `iobj`.
+85 nodes (1%) are attached to their parents as `iobj`.
 
-58 instances of `iobj` (98%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.84745762711864.
+84 instances of `iobj` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.69411764705882.
 
-The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (40; 68% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (15; 25% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt> (3; 5% instances), <tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
+The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (55; 65% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (26; 31% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt> (3; 4% instances), <tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Jesse Kirchner, Lorenzo Lambertino, Martin Popel, Daniel Zeman, Christopher Manning, Sebastian Schuster, Siva Reddy.
 
 Repository: [UD_English-PUD](https://github.com/UniversalDependencies/UD_English-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_pud212)<br />
-Download all treebanks: [UD 2.12](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_pud213)<br />
+Download all treebanks: [UD 2.13](/#download)
 
 License: CC BY-SA 3.0
 
@@ -105,7 +105,7 @@ features and lemmata were added by Sebastian Schuster.
 
 ## Features
 
-[Case](en_pud-feat-Case.html) – [Definite](en_pud-feat-Definite.html) – [Degree](en_pud-feat-Degree.html) – [Foreign](en_pud-feat-Foreign.html) – [Gender](en_pud-feat-Gender.html) – [Mood](en_pud-feat-Mood.html) – [Number](en_pud-feat-Number.html) – [NumType](en_pud-feat-NumType.html) – [Person](en_pud-feat-Person.html) – [Polarity](en_pud-feat-Polarity.html) – [Poss](en_pud-feat-Poss.html) – [PronType](en_pud-feat-PronType.html) – [Reflex](en_pud-feat-Reflex.html) – [Tense](en_pud-feat-Tense.html) – [Typo](en_pud-feat-Typo.html) – [VerbForm](en_pud-feat-VerbForm.html)
+[Case](en_pud-feat-Case.html) – [Definite](en_pud-feat-Definite.html) – [Degree](en_pud-feat-Degree.html) – [Foreign](en_pud-feat-Foreign.html) – [Gender](en_pud-feat-Gender.html) – [Mood](en_pud-feat-Mood.html) – [Number](en_pud-feat-Number.html) – [NumForm](en_pud-feat-NumForm.html) – [NumType](en_pud-feat-NumType.html) – [Person](en_pud-feat-Person.html) – [Polarity](en_pud-feat-Polarity.html) – [Poss](en_pud-feat-Poss.html) – [PronType](en_pud-feat-PronType.html) – [Reflex](en_pud-feat-Reflex.html) – [Tense](en_pud-feat-Tense.html) – [Typo](en_pud-feat-Typo.html) – [VerbForm](en_pud-feat-VerbForm.html)
 
 ## Relations
 
@@ -115,11 +115,11 @@ features and lemmata were added by Sebastian Schuster.
 
 
 <ul>
-<li>This corpus contains 1000 sentences and 21176 tokens.</li>
+<li>This corpus contains 1000 sentences, 21051 tokens and 21180 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 2746 tokens (13%) that are not followed by a space.</li>
+<li>This corpus contains 2621 tokens (12%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -131,6 +131,8 @@ features and lemmata were added by Sebastian Schuster.
 </ul>
 
 <ul>
+<li>This corpus contains 129 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 93 types of multi-word tokens. Examples: it's, that's, city's, China's, didn't, don't, Disney's, Earth's, Hitchcock's, Kong's, Russia's, Years', can't, company's, director's, doesn't, isn't, there's, town's, world's, AKP's, Addenbrooke's, Alvarez's, Apple's, Australia's, Bangkok's, Beria's, Bogart's, Brisbane's, Carangi's, Clinton's, Comey's, Darius's, Duffy's, Edgar's, Erdogan's, Germaine's, Grafton's, He'd, Hitchhiker's, I'm, Institute's, Kingdom's, Kipling's, Knightley's, LaBeouf's, Lamarr's, Motors', Negan's, Nevada's.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -146,7 +148,7 @@ features and lemmata were added by Sebastian Schuster.
 </ul>
 
 <ul>
-<li>This corpus contains 28 lemmas tagged as pronouns (PRON): 'ya, I, he, herself, himself, it, its, itself, my, one, she, that, themselves, there, these, they, this, those, us, we, what, where, which, who, whoever, whom, whose, you</li>
+<li>This corpus contains 27 lemmas tagged as pronouns (PRON): 'ya, I, he, herself, himself, it, its, itself, my, one, she, that, themselves, there, these, they, this, those, we, what, where, which, who, whoever, whom, whose, you</li>
 </ul>
 
 <ul>
@@ -355,7 +357,6 @@ features and lemmata were added by Sebastian Schuster.
   <li>Neg
     <ul>
       <li>ADV: not, no, n’t, never, n't</li>
-      <li>DET: no</li>
       <li>PART: not, n't, n’t</li>
     </ul>
   </li>
@@ -435,12 +436,28 @@ features and lemmata were added by Sebastian Schuster.
 </ul>
 
 <ul>
+  <li>Ind
+    <ul>
+      <li>DET: some, another, any, such, either, half</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Int
     <ul>
       <li>ADV: when, how, why, where, whenever</li>
       <li>DET: whatever, which</li>
       <li>PRON: what, which, who, whose, where, whoever, whom</li>
       <li>SCONJ: when</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Neg
+    <ul>
+      <li>DET: no, nary</li>
     </ul>
   </li>
 </ul>
@@ -457,9 +474,17 @@ features and lemmata were added by Sebastian Schuster.
   <li>Rel
     <ul>
       <li>ADV: where, when, why</li>
-      <li>DET: that, which</li>
+      <li>DET: which</li>
       <li>PRON: which, that, who</li>
       <li>SCONJ: that</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Tot
+    <ul>
+      <li>DET: all, each, both, every</li>
     </ul>
   </li>
 </ul>
@@ -472,7 +497,15 @@ features and lemmata were added by Sebastian Schuster.
   <li>Card
     <ul>
       <li>NUM: one, two, three, million, 10, four, 1, six, 3, 2014</li>
-      <li>PROPN: I, I., V, VI, X</li>
+      <li>PROPN: I.</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Frac
+    <ul>
+      <li>DET: half</li>
     </ul>
   </li>
 </ul>
@@ -567,6 +600,36 @@ features and lemmata were added by Sebastian Schuster.
 </ul>
 
 <ul>
+  <li><a>NumForm</a>
+    <ul>
+      <li>Combi
+        <ul>
+          <li>ADJ: 8th, 16th, 20th, 3rd, 5th, 13th, 14th, 15th, 1st, 45th</li>
+        </ul>
+      </li>
+      <li>Digit
+        <ul>
+          <li>NUM: 10, 1, 3, 2014, 2015, 100, 1492, 20, 2010, 2012</li>
+        </ul>
+      </li>
+      <li>Roman
+        <ul>
+          <li>NUM: I, III, IV, II, V, VI, X</li>
+        </ul>
+      </li>
+      <li>Word
+        <ul>
+          <li>ADJ: first, second, third, fourth</li>
+          <li>ADV: once, twice</li>
+          <li>DET: half</li>
+          <li>NUM: one, two, three, million, four, six, bn, five, seven, ten</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Typo</a>
     <ul>
       <li>Yes
@@ -621,7 +684,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB-Fin--NOUN (297)</li>
-      <li>VERB-Fin--PRON (3)</li>
+      <li>VERB-Fin--PRON (5)</li>
       <li>VERB-Fin--PRON-Acc (29)</li>
       <li>VERB-Ger--NOUN (109)</li>
       <li>VERB-Ger--PRON (3)</li>
@@ -630,7 +693,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON (7)</li>
       <li>VERB-Inf--PRON-Acc (14)</li>
       <li>VERB-Part--NOUN (72)</li>
-      <li>VERB-Part--PRON (2)</li>
+      <li>VERB-Part--PRON (3)</li>
       <li>VERB-Part--PRON-Acc (6)</li>
     </ul>
   </li>

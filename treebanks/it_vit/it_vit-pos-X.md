@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>personal</em> (<tt><a href="it_vit-po
 
 ## Morphology
 
-The form / lemma ratio of `X` is 0.995455 (the average of all parts of speech is 1.501634).
+The form / lemma ratio of `X` is 0.995455 (the average of all parts of speech is 1.501662).
 
 The 1st highest number of forms (2) was observed with the lemma “work”: <em>station, work</em>.
 

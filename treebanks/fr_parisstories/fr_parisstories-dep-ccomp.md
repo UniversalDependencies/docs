@@ -24,10 +24,10 @@ The following 31 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 8 11 ccomp	color:blue
 1	donc	donc	ADV	_	_	8	advmod	_	_
 2	pour	pour	ADP	_	_	3	case	_	_
-3	moi	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	8	obl:mod	_	SpaceAfter=No
+3	moi	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	8	obl:mod	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
-5	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
-6	me	lui	PRON	_	_	8	iobj	_	_
+5	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+6	me	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	8	iobj	_	_
 7	suis	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	aux:pass	_	_
 8	dit	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	11	punct	_	_
@@ -50,15 +50,15 @@ The following 31 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 2	,	,	PUNCT	_	_	7	punct	_	_
 3	nous	nous	PRON	_	Number=Plur|Person=1|PronType=Prs	7	dislocated	_	_
 4	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	7	nsubj	_	_
-5	s'	lui	PRON	_	Person=3|PronType=Prs|Reflex=Yes	7	iobj	_	SpaceAfter=No
+5	s'	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	7	iobj	_	SpaceAfter=No
 6	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux:tense	_	_
 7	dit	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	14	punct	_	_
 9	bah	bah	INTJ	_	_	14	discourse	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	9	punct	_	_
-11	c'	c'	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	14	nsubj	_	SpaceAfter=No
+11	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	14	nsubj	_	SpaceAfter=No
 12	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	Reported=Yes
-13	notre	son	DET	_	Number=Sing|Number[psor]=Plur|Person[psor]=1|PronType=Prs	14	det	_	_
+13	notre	son	DET	_	Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs	14	det	_	_
 14	chien	chien	NOUN	_	Gender=Masc|Number=Sing	7	ccomp	_	_
 15	quoi	quoi	INTJ	_	_	14	discourse	_	SpaceAfter=No
 16	!	!	PUNCT	_	_	7	punct	_	_
@@ -78,10 +78,10 @@ The following 31 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 4	même	même	ADV	_	_	6	advmod	_	AlignBegin=107193|AlignEnd=107411
 5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	AlignBegin=107411|AlignEnd=107629
 6	gens	gens	NOUN	_	Number=Plur	8	nsubj	_	AlignBegin=107629|AlignEnd=107847
-7	le	le	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	AlignBegin=107847|AlignEnd=108064
+7	le	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	AlignBegin=107847|AlignEnd=108064
 8	disent	dire	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=108064|AlignEnd=108282
 9	qu'	que	SCONJ	_	_	12	mark	_	AlignBegin=108282|AlignEnd=108500|SpaceAfter=No
-10	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	AlignBegin=108500|AlignEnd=108718
+10	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	AlignBegin=108500|AlignEnd=108718
 11	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	AlignBegin=108718|AlignEnd=108936
 12	mignon	mignon	ADJ	_	Gender=Masc|Number=Sing	8	ccomp	_	AlignBegin=108936|AlignEnd=109154|SpaceAfter=No
 13	.	.	PUNCT	_	_	8	punct	_	AlignBegin=109154|AlignEnd=109154

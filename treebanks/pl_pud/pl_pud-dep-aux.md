@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 3 language-specific subtypes of `aux`: <tt><a href="pl_pud-dep-aux-clitic.html">aux:clitic</a></tt>, <tt><a href="pl_pud-dep-aux-cnd.html">aux:cnd</a></tt>, <tt><a href="pl_pud-dep-aux-pass.html">aux:pass</a></tt>.
 
-49 nodes (0%) are attached to their parents as `aux`.
+48 nodes (0%) are attached to their parents as `aux`.
 
-47 instances of `aux` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.87755102040816.
+46 instances of `aux` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.89583333333333.
 
-The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> (21; 43% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> (14; 29% instances), <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> (12; 24% instances), <tt><a href="pl_pud-pos-DET.html">DET</a></tt>-<tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="pl_pud-pos-PART.html">PART</a></tt>-<tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> (1; 2% instances).
+The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> (21; 44% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> (14; 29% instances), <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> (12; 25% instances), <tt><a href="pl_pud-pos-DET.html">DET</a></tt>-<tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -52,7 +52,7 @@ The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="
 8	–	–	PUNCT	interp	PunctType=Dash	12	punct	12:punct	_
 9	to	to	AUX	pred	Mood=Ind|Tense=Pres|VerbForm=Fin|VerbType=Quasi	12	cop	12:cop	_
 10	jest	być	AUX	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	aux	12:aux	_
-11	właściwie	właściwie	ADV	adv:pos	Degree=Pos	12	advmod	12:advmod	_
+11	właściwie	właściwie	PART	part	_	12	advmod:emph	12:advmod:emph	_
 12	niewiarygodne	niewiarygodny	ADJ	adj:sg:nom:n:pos	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	0:root	SpaceAfter=No
 13	.	.	PUNCT	interp	PunctType=Peri	12	punct	12:punct	_
 
@@ -73,7 +73,7 @@ The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="
 6	którzy	który	DET	adj:pl:nom:m1:pos	Animacy=Hum|Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	7	nsubj	7:nsubj	_
 7	chcą	chcieć	VERB	fin:pl:ter:imperf	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl:relcl	4:acl:relcl	_
 8	zrobić	zrobić	VERB	inf:perf	Aspect=Perf|VerbForm=Inf|Voice=Act	7	xcomp	7:xcomp	_
-9	parę	parę	DET	num:pl:acc:f:rec	Case=Acc|Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	10	det:numgov	10:det:numgov	_
+9	parę	parę	DET	num:pl:acc:f:rec	Case=Acc|Gender=Fem|Number=Plur|PronType=Ind	10	det:numgov	10:det:numgov	_
 10	rzeczy	rzecz	NOUN	subst:pl:gen:f	Case=Gen|Gender=Fem|Number=Plur	8	obj	8:obj	SpaceAfter=No
 11	.	.	PUNCT	interp	PunctType=Peri	4	punct	4:punct	_
 

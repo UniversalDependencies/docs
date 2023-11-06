@@ -18,51 +18,50 @@ The following 62 pairs of parts of speech are connected with `compound`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 compound	color:blue
-1	Kazada	kaza	NOUN	Noun	Case=Loc|Number=Sing|Person=3	4	obl	_	_
-2	dört	dört	NUM	ANum	NumType=Card	3	nummod	_	_
-3	pilot	pilot	NOUN	Noun	Case=Nom|Number=Sing|Person=3	4	nsubj	_	_
-4	şehit	şehit	NOUN	Noun	Case=Nom|Number=Sing|Person=3	0	root	_	_
-5	düştü	düş	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	4	compound	_	SpaceAfter=No
-6	.	.	PUNCT	Punc	_	4	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 7 compound	color:blue
+1	İzini	iz	NOUN	Noun	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	2	obj	_	_
+2	bulursanız	bul	VERB	Verb	Aspect=Hab|Mood=Cnd|Number=Plur|Person=2|Polarity=Pos|Tense=Pres	9	ccomp	_	SpaceAfter=No
+3	,	,	PUNCT	Punc	_	6	punct	_	_
+4	bu	bu	DET	Det	_	5	det	_	_
+5	numaraya	numara	NOUN	Noun	Case=Dat|Number=Sing|Person=3	6	nmod	_	_
+6	haber	haber	NOUN	Noun	Case=Nom|Number=Sing|Person=3	2	conj	_	_
+7	verirsiniz	ver	VERB	Verb	Aspect=Hab|Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres	6	compound	_	SpaceAfter=No
+8	,	,	PUNCT	Punc	_	6	punct	_	_
+9	dedi	de	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	Punc	_	9	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 1 compound	color:blue
-1	Erik	erik	NOUN	Noun	Case=Nom|Number=Sing|Person=3	2	compound	_	_
-2	ağaçları	ağaç	NOUN	Noun	Case=Acc|Number=Plur|Person=3	8	obl	_	_
-3	ile	ile	CCONJ	Conj	_	2	conj	_	_
-4	aralarında	ara	ADJ	NAdj	Case=Loc|Number=Plur|Number[psor]=Plur|Person=3|Person[psor]=3	2	conj	_	_
-5	bir	bir	NUM	ANum	NumType=Card	7	nummod	_	_
-6	hendek	hendek	NOUN	Noun	Case=Nom|Number=Sing|Person=3	7	nmod:poss	_	_
-7	engeli	engel	NOUN	Noun	Case=Acc|Number=Sing|Person=3	8	nsubj	_	_
-8	kalmıştı	kal	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pqp	0	root	_	SpaceAfter=No
-9	.	.	PUNCT	Punc	_	8	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 compound	color:blue
+1	Elim	el	NOUN	Noun	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	0	root	_	_
+2	ayağım	ayak	NOUN	Noun	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	1	compound	_	_
+3	tutmuyor	tut	VERB	Verb	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Polite=Infm|Tense=Pres	1	compound	_	SpaceAfter=No
+4	.	.	PUNCT	Punc	_	1	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 compound	color:blue
-1	tüm	tüm	DET	Det	_	2	det	_	_
-2	haşmetiyle	haşmet	NOUN	Noun	Case=Ins|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	3	obl	_	_
-3	ortaya	orta	ADJ	NAdj	Case=Dat|Number=Sing|Person=3	0	root	_	_
-4	çıkıyor	çık	VERB	Verb	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Polite=Infm|Tense=Pres	3	compound	_	SpaceAfter=No
-5	.	.	PUNCT	Punc	_	3	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 compound	color:blue
+1	Hoşça	hoşça	ADJ	Adj	_	4	ccomp	_	_
+2	kalın	kal	VERB	Verb	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Polarity=Pos|Tense=Pres	1	compound	_	SpaceAfter=No
+3	,	,	PUNCT	Punc	_	4	punct	_	_
+4	dedi	de	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	Punc	_	4	punct	_	_
 
 ~~~
 

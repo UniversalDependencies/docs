@@ -10,22 +10,22 @@ This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
 44527 tokens (10%) have a non-empty value of `Person`.
-5711 types (13%) occur at least once with a non-empty value of `Person`.
+5712 types (13%) occur at least once with a non-empty value of `Person`.
 2186 lemmas (6%) occur at least once with a non-empty value of `Person`.
-The feature is used with 7 part-of-speech tags: <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (20453; 5% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (9986; 2% instances), <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (9573; 2% instances), <tt><a href="es_gsd-pos-DET.html">DET</a></tt> (4361; 1% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt> (89; 0% instances), <tt><a href="es_gsd-pos-SYM.html">SYM</a></tt> (62; 0% instances), <tt><a href="es_gsd-pos-INTJ.html">INTJ</a></tt> (3; 0% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (20444; 5% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (9989; 2% instances), <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (9583; 2% instances), <tt><a href="es_gsd-pos-DET.html">DET</a></tt> (4361; 1% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt> (89; 0% instances), <tt><a href="es_gsd-pos-SYM.html">SYM</a></tt> (61; 0% instances).
 
 ### `VERB`
 
-20453 <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> tokens (56% of all `VERB` tokens) have a non-empty value of `Person`.
+20444 <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> tokens (56% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (20453; 100%), <tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (20451; 100%), <tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (19064; 93%), <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15212; 74%), <tt><a href="es_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (10265; 50%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (20444; 100%), <tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (20442; 100%), <tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (19055; 93%), <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15204; 74%), <tt><a href="es_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (10258; 50%).
 
 `VERB` tokens may have the following values of `Person`:
 
 * `1` (661; 3% of non-empty `Person`): <em>tenemos, creo, vamos, estamos, voy, pedimos, tengo, quiero, recomiendo, encontramos</em>
-* `2` (98; 0% of non-empty `Person`): <em>tienes, sabes, sientes, estás, llevas, añade, mira, perdais, quieres, viste</em>
-* `3` (19694; 96% of non-empty `Person`): <em>tiene, es, encuentra, hay, hace, tenía, tienen, era, fue, tuvo</em>
-* `EMPTY` (15916): <em>hacer, ubicado, ver, conocido, debido, tener, decir, dar, partir, llegar</em>
+* `2` (99; 0% of non-empty `Person`): <em>tienes, sabes, sientes, estás, llevas, añade, mira, perdais, quieres, viste</em>
+* `3` (19684; 96% of non-empty `Person`): <em>tiene, es, encuentra, hay, hace, tenía, tienen, era, fue, tuvo</em>
+* `EMPTY` (15915): <em>hacer, ubicado, ver, conocido, debido, tener, decir, dar, partir, llegar</em>
 
 <table>
   <tr><th>Paradigm <i>tener</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -55,16 +55,16 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `PRON`
 
-9986 <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> tokens (71% of all `PRON` tokens) have a non-empty value of `Person`.
+9989 <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> tokens (71% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="es_gsd-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (9982; 100%), <tt><a href="es_gsd-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt> (8232; 82%), <tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7110; 71%), <tt><a href="es_gsd-feat-Case.html">Case</a></tt><tt>=Acc,Dat</tt> (5521; 55%), <tt><a href="es_gsd-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (5393; 54%), <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (5296; 53%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="es_gsd-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (9985; 100%), <tt><a href="es_gsd-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt> (8232; 82%), <tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7113; 71%), <tt><a href="es_gsd-feat-Case.html">Case</a></tt><tt>=Acc,Dat</tt> (5518; 55%), <tt><a href="es_gsd-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (5396; 54%), <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (5299; 53%).
 
 `PRON` tokens may have the following values of `Person`:
 
 * `1` (745; 7% of non-empty `Person`): <em>me, nos, yo, nosotros, mí, mi, I, conmigo, nuestro, nuestros</em>
 * `2` (258; 3% of non-empty `Person`): <em>te, os, tú, usted, vosotros, ti, ustedes, You, contigo</em>
-* `3` (8983; 90% of non-empty `Person`): <em>se, lo, le, la, los, les, él, ellos, ella, las</em>
-* `EMPTY` (4037): <em>que, uno, cual, una, quien, esto, todo, tanto, algo, nada</em>
+* `3` (8986; 90% of non-empty `Person`): <em>se, lo, le, la, los, les, él, ellos, ella, las</em>
+* `EMPTY` (4044): <em>que, uno, cual, una, quien, esto, todo, tanto, algo, nada</em>
 
 <table>
   <tr><th>Paradigm <i>tú</i></th><th><tt>1</tt></th><th><tt>2</tt></th></tr>
@@ -89,16 +89,16 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 ### `AUX`
 
-9573 <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> tokens (89% of all `AUX` tokens) have a non-empty value of `Person`.
+9583 <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> tokens (89% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9568; 100%), <tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9064; 95%), <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7246; 76%), <tt><a href="es_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (6010; 63%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9578; 100%), <tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9074; 95%), <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7255; 76%), <tt><a href="es_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (6018; 63%).
 
 `AUX` tokens may have the following values of `Person`:
 
 * `1` (287; 3% of non-empty `Person`): <em>he, hemos, estoy, podemos, puedo, somos, soy, estamos, debemos, pude</em>
 * `2` (34; 0% of non-empty `Person`): <em>puedes, eres, habéis, has, sois, Podeis, deberias, estas, estés, habeis</em>
-* `3` (9252; 97% of non-empty `Person`): <em>es, fue, ha, son, eran, era, han, está, puede, fueron</em>
-* `EMPTY` (1163): <em>ser, sido, siendo, haber, poder, estar, esta, fuera, estado, podido</em>
+* `3` (9262; 97% of non-empty `Person`): <em>es, fue, ha, son, eran, era, han, está, puede, fueron</em>
+* `EMPTY` (1164): <em>ser, sido, siendo, haber, poder, estar, esta, fuera, estado, podido</em>
 
 <table>
   <tr><th>Paradigm <i>ser</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -134,7 +134,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 * `1` (323; 7% of non-empty `Person`): <em>mi, nuestra, nuestros, nuestro, mis, nuestras, vuestra, Dichos, My, me</em>
 * `2` (33; 1% of non-empty `Person`): <em>tu, tus, L'</em>
 * `3` (4005; 92% of non-empty `Person`): <em>su, sus, tus, the, Tu, suyo, Era, l', suyos</em>
-* `EMPTY` (56525): <em>el, la, los, un, las, una, este, esta, otras, otros</em>
+* `EMPTY` (56526): <em>el, la, los, un, las, una, este, esta, otras, otros</em>
 
 <table>
   <tr><th>Paradigm <i>tu</i></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -166,11 +166,11 @@ The most frequent other feature values with which `X` and `Person` co-occurred: 
 
 ### `SYM`
 
-62 <tt><a href="es_gsd-pos-SYM.html">SYM</a></tt> tokens (4% of all `SYM` tokens) have a non-empty value of `Person`.
+61 <tt><a href="es_gsd-pos-SYM.html">SYM</a></tt> tokens (4% of all `SYM` tokens) have a non-empty value of `Person`.
 
 `SYM` tokens may have the following values of `Person`:
 
-* `2` (54; 87% of non-empty `Person`): <em>², º, m</em>
+* `2` (53; 87% of non-empty `Person`): <em>², º, m</em>
 * `3` (8; 13% of non-empty `Person`): <em>$, ª, º, #, &, ²</em>
 * `EMPTY` (1601): <em>%, ², km, $, º, °, €, a, h, /</em>
 
@@ -179,19 +179,10 @@ The most frequent other feature values with which `X` and `Person` co-occurred: 
   <tr><td><tt></tt></td><td><em>²</em></td><td><em>²</em></td></tr>
 </table>
 
-### `INTJ`
-
-3 <tt><a href="es_gsd-pos-INTJ.html">INTJ</a></tt> tokens (8% of all `INTJ` tokens) have a non-empty value of `Person`.
-
-`INTJ` tokens may have the following values of `Person`:
-
-* `3` (3; 100% of non-empty `Person`): <em>sí</em>
-* `EMPTY` (36): <em>sí, Salve</em>
-
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="es_gsd-dep-expl-pv.html">expl:pv</a></tt>]--> PRON</tt> (4066; 77%),
+<tt>VERB --[<tt><a href="es_gsd-dep-expl-pv.html">expl:pv</a></tt>]--> PRON</tt> (4065; 77%),
 <tt>VERB --[<tt><a href="es_gsd-dep-conj.html">conj</a></tt>]--> VERB</tt> (1720; 66%),
 <tt>VERB --[<tt><a href="es_gsd-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (578; 52%),
 <tt>VERB --[<tt><a href="es_gsd-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (440; 56%),

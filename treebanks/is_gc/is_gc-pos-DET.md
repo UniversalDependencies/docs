@@ -60,8 +60,8 @@ The 3rd highest number of forms (1) was observed with the lemma “volume-ið”
 `DET` occurs with 10 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Definite=Def`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`
 
 `DET` occurs with 15 feature combinations.
-The most frequent feature combination is `Case=Nom|Definite=Def|Gender=Masc|Number=Sing` (8 tokens).
-Examples: <em>hinn</em>
+The most frequent feature combination is `Case=Acc|Definite=Def|Gender=Neut|Number=Sing` (8 tokens).
+Examples: <em>hið, WOW-ið, volume-ið</em>
 
 
 ## Relations

@@ -11,7 +11,7 @@ It occurs with 1 different values: `Ind`.
 
 2903 tokens (5%) have a non-empty value of `Mood`.
 69 types (7%) occur at least once with a non-empty value of `Mood`.
-45 lemmas (6%) occur at least once with a non-empty value of `Mood`.
+44 lemmas (6%) occur at least once with a non-empty value of `Mood`.
 The feature is used with 2 part-of-speech tags: <tt><a href="en_atis-pos-VERB.html">VERB</a></tt> (1455; 2% instances), <tt><a href="en_atis-pos-AUX.html">AUX</a></tt> (1448; 2% instances).
 
 ### `VERB`
@@ -25,7 +25,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 * `Ind` (1455; 100% of non-empty `Mood`): <em>need, show, want, are, arrive, is, have, leaves, go, arrives</em>
 * `EMPTY` (4422): <em>show, list, like, leaving, fly, arriving, give, leave, find, have</em>
 
-`Mood` seems to be **lexical feature** of `VERB`. 100% lemmas (44) occur only with one value of `Mood`.
+`Mood` seems to be **lexical feature** of `VERB`. 100% lemmas (43) occur only with one value of `Mood`.
 
 ### `AUX`
 

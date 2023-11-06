@@ -36,7 +36,7 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (2050; 100% of non-empty `Polarity`): 無、 微、 靡、 末、 罔
-* `EMPTY` (135309): 曰、 以、 有、 大、 謂、 使、 如、 得、 為、 至
+* `EMPTY` (135310): 曰、 以、 有、 大、 謂、 使、 如、 得、 為、 至
 
 ## Relations with Agreement in `Polarity`
 

@@ -23,7 +23,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 `VERB` tokens may have the following values of `Mood`:
 
 * `Imp` (34; 100% of non-empty `Mood`): סע, ראו, צא, הכניסי, עוף, קח, שמור, בואו, בואי, האר
-* `EMPTY` (10616): יש, ניתן, כתב, אין, הלחין, יצא, זכה, החל, היו, החלו
+* `EMPTY` (10611): יש, ניתן, כתב, אין, הלחין, יצא, זכה, החל, היו, החלו
 
 `Mood` seems to be **lexical feature** of `VERB`. 100% lemmas (11) occur only with one value of `Mood`.
 

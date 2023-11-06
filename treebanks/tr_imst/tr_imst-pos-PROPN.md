@@ -19,10 +19,10 @@ The 10 most frequent ambiguous types:  <em>Kemal</em> (<tt><a href="tr_imst-pos-
 
 
 * <em>Kemal</em>
-  * <tt><a href="tr_imst-pos-PROPN.html">PROPN</a></tt> 21: <em><b>Kemal</b> , anlayışlı bir ses tonuyla konuştu : Bunu anlamaya çalışalım .</em>
+  * <tt><a href="tr_imst-pos-PROPN.html">PROPN</a></tt> 21: <em>İstanbul Milletvekili <b>Kemal</b> Derviş kokteyle katılmadı .</em>
   * <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> 1: <em><b>Kemal</b> : Sorununu anlattığın kişi seninle tartışır , oysa rahip yalnız dinler .</em>
 * <em>Hanım</em>
-  * <tt><a href="tr_imst-pos-PROPN.html">PROPN</a></tt> 6: <em>- İyi geceler Şükran <b>Hanım</b> , dedi .</em>
+  * <tt><a href="tr_imst-pos-PROPN.html">PROPN</a></tt> 6: <em>- Yoo , bir görev , dedi Şükran <b>Hanım</b> .</em>
   * <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> 2: <em>Hatırladığım _ kadarıyla gene ikimizin de meslektaşı olan Yüksel <b>Hanım</b> , komşu evin balkonundan bizi seyrediyordu .</em>
 * <em>Sav</em>
   * <tt><a href="tr_imst-pos-PROPN.html">PROPN</a></tt> 6: <em>Atila <b>Sav</b> da Edebiyat'ta birinci olabildi .</em>
@@ -31,13 +31,13 @@ The 10 most frequent ambiguous types:  <em>Kemal</em> (<tt><a href="tr_imst-pos-
   * <tt><a href="tr_imst-pos-PROPN.html">PROPN</a></tt> 5: <em>İstanbul , Ankara , İzmir , Antalya , Dalaman , Adana , Trabzon , <b>Bodrum</b> Milas , Bursa'da ' bulunuyor .</em>
   * <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> 1: <em><b>Bodrum</b> katına kapatılmış cinsellik .</em>
 * <em>Can</em>
-  * <tt><a href="tr_imst-pos-PROPN.html">PROPN</a></tt> 5: <em>Nesrin , Aşkolsun , dedi , Suna <b>Can</b> duysa nasıl darılır sana .</em>
+  * <tt><a href="tr_imst-pos-PROPN.html">PROPN</a></tt> 5: <em>Ben Bina <b>Can</b> olsun , dedim .</em>
   * <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> 1: <em><b>Can</b> sık ıcı bir iş .</em>
 * <em>?</em>
-  * <tt><a href="tr_imst-pos-PUNCT.html">PUNCT</a></tt> 231: <em>Yanaşan ı haklar ım anladınız mı <b>?</b></em>
-  * <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> 23: <em>- <b>?</b> edenmiş o ?</em>
-  * <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> 7: <em>Potaya <b>?</b> irerken arkadan gelen bir diğeri onları vurabilir .</em>
-  * <tt><a href="tr_imst-pos-PROPN.html">PROPN</a></tt> 4: <em>Özer'lerin <b>?</b> ithatpaşa'daki bahçe içinde ki evinde ydik .</em>
+  * <tt><a href="tr_imst-pos-PUNCT.html">PUNCT</a></tt> 231: <em>Ömür Uzatma Kıraathanesi mi <b>?</b> diye sordu .</em>
+  * <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> 23: <em>Sen <b>?</b> eredesin diye sordum .</em>
+  * <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> 7: <em>Yağma yok diye diklendi Memo , hepiniz havanızı <b>?</b> lırsınız .</em>
+  * <tt><a href="tr_imst-pos-PROPN.html">PROPN</a></tt> 4: <em><b>?</b> ostakoviç'miş ! Tövbe yarabbi .</em>
   * <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> 2: <em>Sen <b>?</b> usevisin , değil mi Maryline .</em>
   * <tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> 2: <em>İMKB ikibiniki yılını yüzde <b>?</b> irmibeş'lik kayıpla kapatırken dolar baz lı yıllık kayıp ise yüzde otuzbeş oldu .</em>
   * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 1: <em><b>?</b> imse kim ?</em>

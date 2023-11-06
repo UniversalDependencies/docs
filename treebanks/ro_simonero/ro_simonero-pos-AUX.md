@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>este</em> (<tt><a href="ro_simonero-p
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 7.500000 (the average of all parts of speech is 1.666462).
+The form / lemma ratio of `AUX` is 7.500000 (the average of all parts of speech is 1.666637).
 
 The 1st highest number of forms (17) was observed with the lemma “fi”: <em>e, era, erau, este, esti, fi, fie, fii, fiind, fim, fost, i, nefiind, sunt, suntem, sunteți, ﬁe</em>.
 

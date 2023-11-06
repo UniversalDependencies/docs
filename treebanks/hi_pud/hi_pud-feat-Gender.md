@@ -116,7 +116,7 @@ The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>VERB --[<tt><a href="hi_pud-dep-aux.html">aux</a></tt>]--> AUX</tt> (554; 59%),
 <tt>NOUN --[<tt><a href="hi_pud-dep-compound.html">compound</a></tt>]--> NOUN</tt> (220; 56%),
 <tt>NOUN --[<tt><a href="hi_pud-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (213; 70%),
-<tt>PROPN --[<tt><a href="hi_pud-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (193; 94%),
+<tt>PROPN --[<tt><a href="hi_pud-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (194; 94%),
 <tt>VERB --[<tt><a href="hi_pud-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (147; 79%),
 <tt>VERB --[<tt><a href="hi_pud-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (140; 65%),
 <tt>NOUN --[<tt><a href="hi_pud-dep-compound.html">compound</a></tt>]--> PROPN</tt> (122; 73%),

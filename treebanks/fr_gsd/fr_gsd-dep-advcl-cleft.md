@@ -54,7 +54,7 @@ The following 13 pairs of parts of speech are connected with `advcl:cleft`: <tt>
 9	quartier	quartier	NOUN	_	Gender=Masc|Number=Sing	6	nsubj:pass	_	SpaceAfter=No
 10	--	--	PUNCT	_	_	12	punct	_	SpaceAfter=No
 11	ou	ou	CCONJ	_	_	12	cc	_	_
-12	ensanche	ensanche	X	_	Foreign=Yes	9	appos	_	ExtPos=NOUN|Lang=es|SpaceAfter=No
+12	ensanche	ensanche	X	_	Foreign=Yes	9	appos	_	Lang=es|SpaceAfter=No
 13	--	--	PUNCT	_	_	12	punct	_	SpaceAfter=No
 14	de	de	ADP	_	_	15	case	_	_
 15	Amara	Amara	PROPN	_	_	9	nmod	_	SpaceAfter=No

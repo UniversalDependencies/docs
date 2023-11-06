@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-885 nodes (2%) are attached to their parents as `cc`.
+891 nodes (2%) are attached to their parents as `cc`.
 
-874 instances of `cc` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.94011299435028.
+874 instances of `cc` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.93490460157127.
 
-The following 8 pairs of parts of speech are connected with `cc`: <tt><a href="tr_atis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_atis-pos-CCONJ.html">CCONJ</a></tt> (452; 51% instances), <tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_atis-pos-CCONJ.html">CCONJ</a></tt> (201; 23% instances), <tt><a href="tr_atis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_atis-pos-CCONJ.html">CCONJ</a></tt> (106; 12% instances), <tt><a href="tr_atis-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_atis-pos-CCONJ.html">CCONJ</a></tt> (67; 8% instances), <tt><a href="tr_atis-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_atis-pos-CCONJ.html">CCONJ</a></tt> (44; 5% instances), <tt><a href="tr_atis-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_atis-pos-CCONJ.html">CCONJ</a></tt> (8; 1% instances), <tt><a href="tr_atis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_atis-pos-ADP.html">ADP</a></tt> (6; 1% instances), <tt><a href="tr_atis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_atis-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `cc`: <tt><a href="tr_atis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_atis-pos-CCONJ.html">CCONJ</a></tt> (453; 51% instances), <tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_atis-pos-CCONJ.html">CCONJ</a></tt> (205; 23% instances), <tt><a href="tr_atis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_atis-pos-CCONJ.html">CCONJ</a></tt> (106; 12% instances), <tt><a href="tr_atis-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_atis-pos-CCONJ.html">CCONJ</a></tt> (67; 8% instances), <tt><a href="tr_atis-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_atis-pos-CCONJ.html">CCONJ</a></tt> (44; 5% instances), <tt><a href="tr_atis-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_atis-pos-CCONJ.html">CCONJ</a></tt> (8; 1% instances), <tt><a href="tr_atis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_atis-pos-ADP.html">ADP</a></tt> (6; 1% instances), <tt><a href="tr_atis-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_atis-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="tr_atis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_atis-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -43,7 +43,7 @@ The following 8 pairs of parts of speech are connected with `cc`: <tt><a href="t
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 cc	color:blue
-1	Continental'ın	continental	PROPN	_	Case=Gen|Number=Sing	8	nmod	_	_
+1	Continental'ın	continental	PROPN	_	Case=Gen|Number=Sing	8	nmod:poss	_	_
 2	kaç	kaç	ADJ	_	NumType=Card	8	amod	_	_
 3	tane	tane	NOUN	_	Case=Nom|Number=Sing|Person=3	2	compound	_	_
 4	Atlanta'ya	atlanta	PROPN	_	Case=Dat|Number=Sing	8	nmod	_	_
@@ -71,7 +71,7 @@ The following 8 pairs of parts of speech are connected with `cc`: <tt><a href="t
 7	duran	dur	ADJ	_	_	4	conj	_	_
 8	uçuş	uç	NOUN	_	Case=Nom|Number=Sing|Person=3	9	nsubj	_	_
 9	var	var	ADJ	_	_	0	root	_	_
-10	mı	mi	AUX	_	PronType=Int	9	ccomp	_	_
+10	mı	mi	AUX	_	PronType=Int	9	aux:q	_	_
 
 ~~~
 

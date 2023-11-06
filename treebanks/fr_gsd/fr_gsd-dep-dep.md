@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `dep`: <tt><a href="fr_gsd-dep-dep-comp.html">dep:comp</a></tt>.
 
-23 nodes (0%) are attached to their parents as `dep`.
+19 nodes (0%) are attached to their parents as `dep`.
 
-20 instances of `dep` (87%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.82608695652174.
+17 instances of `dep` (89%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.47368421052632.
 
-The following 11 pairs of parts of speech are connected with `dep`: <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (7; 30% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (3; 13% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt>-<tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (3; 13% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-DET.html">DET</a></tt> (2; 9% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (2; 9% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (1; 4% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> (1; 4% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (1; 4% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-DET.html">DET</a></tt> (1; 4% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-X.html">X</a></tt> (1; 4% instances).
+The following 9 pairs of parts of speech are connected with `dep`: <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (7; 37% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (3; 16% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt>-<tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (3; 16% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-DET.html">DET</a></tt> (1; 5% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> (1; 5% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (1; 5% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-DET.html">DET</a></tt> (1; 5% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-X.html">X</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -34,12 +34,12 @@ The following 11 pairs of parts of speech are connected with `dep`: <tt><a href=
 9	deux	deux	NUM	_	Number=Plur	10	nummod	_	_
 10	recueils	recueil	NOUN	_	Gender=Masc|Number=Plur	8	obj	_	_
 11	intitulés	intituler	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	10	acl	_	_
-12	Enigme	énigme	NOUN	_	Gender=Fem|Number=Sing	11	xcomp	_	ExtPos=PROPN|Title=Yes|wordform=énigme
+12	Enigme	énigme	NOUN	_	ExtPos=PROPN|Gender=Fem|Number=Sing	11	xcomp	_	Title=Yes|wordform=énigme
 13	dans	dans	ADP	_	_	15	case	_	InTitle=Yes
 14	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	InTitle=Yes
 15	miroir	miroir	NOUN	_	Gender=Masc|Number=Sing	12	nmod	_	InTitle=Yes
 16	et	et	CCONJ	_	_	12	cc	_	_
-17	Voler	voler	VERB	_	VerbForm=Inf	12	conj	_	ExtPos=PROPN|Subject=Generic|Title=Yes|wordform=voler
+17	Voler	voler	VERB	_	ExtPos=PROPN|VerbForm=Inf	12	conj	_	Subject=Generic|Title=Yes|wordform=voler
 18	selon	selon	ADP	_	_	12	dep	_	InTitle=Yes|SpaceAfter=No
 19	.	.	PUNCT	_	_	8	punct	_	_
 
@@ -59,7 +59,7 @@ The following 11 pairs of parts of speech are connected with `dep`: <tt><a href=
 5	,	,	PUNCT	_	_	6	punct	_	_
 6	composé	composer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	2	acl	_	_
 7	de	de	ADP	_	_	8	case	_	_
-8	daiyun	daiyun	X	_	_	6	obl:arg	_	ExtPos=PROPN
+8	daiyun	daiyun	X	_	ExtPos=PROPN	6	obl:arg	_	_
 9	et	et	CCONJ	_	_	12	cc	_	_
 10	de	de	ADP	_	_	12	case	_	_
 11	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
@@ -69,7 +69,7 @@ The following 11 pairs of parts of speech are connected with `dep`: <tt><a href=
 15	,	,	PUNCT	_	_	18	punct	_	_
 16	«	«	PUNCT	_	_	18	punct	_	_
 17	qui	qui	PRON	_	PronType=Rel	18	nsubj	_	InTitle=Yes
-18	vit	vivre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	appos	_	ExtPos=PROPN|Title=Yes
+18	vit	vivre	VERB	_	ExtPos=PROPN|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	appos	_	Title=Yes
 19	dans	dans	ADP	_	_	18	dep	_	InTitle=Yes|SpaceAfter=No
 20	,	,	PUNCT	_	_	22	punct	_	InTitle=Yes
 21	qui	qui	PRON	_	PronType=Rel	22	nsubj	_	InTitle=Yes
@@ -126,7 +126,7 @@ The following 11 pairs of parts of speech are connected with `dep`: <tt><a href=
 25	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
 26	son	son	NOUN	_	Gender=Masc|Number=Sing	23	obl:arg	_	_
 27	de	de	ADP	_	_	28	case	_	_
-28	Sketches	Sketches	X	_	Foreign=Yes	26	nmod	_	ExtPos=PROPN|Lang=en
+28	Sketches	Sketches	X	_	Foreign=Yes	26	nmod	_	Lang=en
 29	of	of	X	_	Foreign=Yes	28	flat:foreign	_	Lang=en
 30	Spain	Spain	X	_	Foreign=Yes	28	flat:foreign	_	Lang=en
 31	et	et	CCONJ	_	_	33	cc	_	_
@@ -158,7 +158,7 @@ The following 11 pairs of parts of speech are connected with `dep`: <tt><a href=
 57	Miles	Miles	PROPN	_	_	55	obl:mod	_	SpaceAfter=No
 58	,	,	PUNCT	_	_	55	punct	_	_
 59	"	"	PUNCT	_	_	60	punct	_	SpaceAfter=No
-60	Theme	Theme	X	_	Foreign=Yes	50	appos	_	ExtPos=PROPN|Lang=en
+60	Theme	Theme	X	_	Foreign=Yes	50	appos	_	Lang=en
 61	for	for	X	_	Foreign=Yes	60	flat:foreign	_	Lang=en
 62	Augustine	Augustine	X	_	Foreign=Yes	60	flat:foreign	_	Lang=en|SpaceAfter=No
 63	/	/	SYM	_	_	62	dep	_	SpaceAfter=No

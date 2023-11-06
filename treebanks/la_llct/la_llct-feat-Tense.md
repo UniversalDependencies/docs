@@ -51,7 +51,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 3918 <tt><a href="la_llct-pos-AUX.html">AUX</a></tt> tokens (95% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="la_llct-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3918; 100%), <tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3585; 92%), <tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=3</tt> (3275; 84%), <tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3225; 82%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="la_llct-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3918; 100%), <tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3585; 92%), <tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=3</tt> (3275; 84%), <tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3225; 82%), <tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (2536; 65%).
 
 `AUX` tokens may have the following values of `Tense`:
 
@@ -63,12 +63,14 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 <table>
   <tr><th>Paradigm <i>sum</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th><th><tt>Pqp</tt></th></tr>
-  <tr><td><tt><tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>sum</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td><em>es</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>est, es</em></td><td></td><td><em>erat</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>sum, sunt</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td><em>est, es, is, his</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>est, es, et</em></td><td></td><td><em>erat</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>sumus, summus</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td><em>estis</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>sunt</em></td><td></td><td><em>erant, erat</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>sit, sint, siit, sin</em></td><td></td><td><em>esse, esset</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td></td><td></td><td><em>essemus</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>sit, sint, siit, sia, sin</em></td><td></td><td><em>esse, esset</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>simus</em></td><td></td><td><em>essemus</em></td><td></td></tr>
   <tr><td><tt><tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>sint, sit</em></td><td></td><td><em>essent, esse</em></td><td></td></tr>
   <tr><td><tt><tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td></td><td><em>fuero</em></td><td><em>fui, fuit, foi</em></td><td></td></tr>
   <tr><td><tt><tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>fuerit, fuerint, fuere, fueret, fueri, fuerent, fueris, furit</em></td><td><em>fuit, fui, fuet, fue</em></td><td><em>fuerat</em></td></tr>
@@ -77,27 +79,18 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
   <tr><td><tt><tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>fuerint, fuerit, fuerent, fueret</em></td><td><em>fuerunt</em></td><td><em>fuerant</em></td></tr>
   <tr><td><tt><tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td></td><td></td><td><em>fuisset, fuisse</em></td></tr>
   <tr><td><tt><tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td></td><td></td><td><em>fuissent, fuisserunt</em></td></tr>
-  <tr><td><tt><tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>sum, sunt</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td><em>est, es, is, his</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>est, es, et</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>sumus, summus</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td><em>estis</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>sunt</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>sit, sint, siit, sia</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>simus</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>sint</em></td><td></td><td></td><td></td></tr>
 </table>
 
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="la_llct-dep-conj.html">conj</a></tt>]--> VERB</tt> (2096; 68%),
-<tt>AUX --[<tt><a href="la_llct-dep-conj.html">conj</a></tt>]--> VERB</tt> (78; 86%),
+<tt>VERB --[<tt><a href="la_llct-dep-conj.html">conj</a></tt>]--> VERB</tt> (2093; 68%),
 <tt>VERB --[<tt><a href="la_llct-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (56; 55%),
-<tt>VERB --[<tt><a href="la_llct-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (22; 81%),
-<tt>VERB --[<tt><a href="la_llct-dep-conj.html">conj</a></tt>]--> AUX</tt> (19; 66%),
+<tt>AUX --[<tt><a href="la_llct-dep-conj.html">conj</a></tt>]--> VERB</tt> (45; 90%),
+<tt>VERB --[<tt><a href="la_llct-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (21; 84%),
+<tt>VERB --[<tt><a href="la_llct-dep-conj.html">conj</a></tt>]--> AUX</tt> (5; 100%),
+<tt>VERB --[<tt><a href="la_llct-dep-acl-relcl.html">acl:relcl</a></tt>]--> AUX</tt> (3; 60%),
 <tt>AUX --[<tt><a href="la_llct-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (1; 100%),
-<tt>AUX --[<tt><a href="la_llct-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (1; 100%),
-<tt>AUX --[<tt><a href="la_llct-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (1; 100%),
+<tt>AUX --[<tt><a href="la_llct-dep-csubj-relcl.html">csubj:relcl</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="la_llct-dep-dislocated.html">dislocated</a></tt>]--> AUX</tt> (1; 100%).
 

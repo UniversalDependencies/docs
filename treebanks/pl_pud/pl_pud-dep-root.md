@@ -11,9 +11,9 @@ This relation is universal.
 1000 nodes (5%) are attached to their parents as `root`.
 
 1000 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.189.
+Average distance between parent and child is 6.185.
 
-The following 8 pairs of parts of speech are connected with `root`: -<tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (773; 77% instances), -<tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> (142; 14% instances), -<tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (75; 8% instances), -<tt><a href="pl_pud-pos-ADV.html">ADV</a></tt> (3; 0% instances), -<tt><a href="pl_pud-pos-PRON.html">PRON</a></tt> (3; 0% instances), -<tt><a href="pl_pud-pos-DET.html">DET</a></tt> (2; 0% instances), -<tt><a href="pl_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances), -<tt><a href="pl_pud-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `root`: -<tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (770; 77% instances), -<tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> (143; 14% instances), -<tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (77; 8% instances), -<tt><a href="pl_pud-pos-ADV.html">ADV</a></tt> (4; 0% instances), -<tt><a href="pl_pud-pos-PRON.html">PRON</a></tt> (3; 0% instances), -<tt><a href="pl_pud-pos-DET.html">DET</a></tt> (2; 0% instances), -<tt><a href="pl_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -62,7 +62,7 @@ The following 8 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	fgColor:white
 # visual-style 0 4 root	color:blue
 1	5	5	NUM	num:pl:nom:m3:congr	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|NumForm=Digit|NumType=Card	4	nummod	4:nummod	_
-2	tys	tysiąc	X	brev:pun	Abbr=Yes|Pun=Yes	1	flat	1:flat	SpaceAfter=No
+2	tys	tysiąc	NOUN	brev:pun	Abbr=Yes	1	flat	1:flat	SpaceAfter=No
 3	.	.	PUNCT	interp	PunctType=Peri	2	punct	2:punct	_
 4	dolarów	dolar	NOUN	subst:pl:gen:m2	Animacy=Nhum|Case=Gen|Gender=Masc|Number=Plur	0	root	0:root	_
 5	na	na	ADP	prep:acc	AdpType=Prep	6	case	6:case	Case=Acc

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-59 nodes (3%) are attached to their parents as `cop`.
+63 nodes (2%) are attached to their parents as `cop`.
 
-36 instances of `cop` (61%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.11864406779661.
+36 instances of `cop` (57%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.12698412698413.
 
-The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eme_tudet-pos-AUX.html">AUX</a></tt> (43; 73% instances), <tt><a href="eme_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="eme_tudet-pos-AUX.html">AUX</a></tt> (7; 12% instances), <tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="eme_tudet-pos-AUX.html">AUX</a></tt> (5; 8% instances), <tt><a href="eme_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="eme_tudet-pos-AUX.html">AUX</a></tt> (2; 3% instances), <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-AUX.html">AUX</a></tt> (2; 3% instances).
+The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eme_tudet-pos-AUX.html">AUX</a></tt> (46; 73% instances), <tt><a href="eme_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="eme_tudet-pos-AUX.html">AUX</a></tt> (7; 11% instances), <tt><a href="eme_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="eme_tudet-pos-AUX.html">AUX</a></tt> (5; 8% instances), <tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="eme_tudet-pos-AUX.html">AUX</a></tt> (3; 5% instances), <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-AUX.html">AUX</a></tt> (2; 3% instances).
 
 
 ~~~ conllu
@@ -44,13 +44,13 @@ The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="
 ~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 3 cop	color:blue
-1	nani	nan	ADV	adv	_	0	root	_	_
-2	pamẽ	pamẽ	PRON	pron	PronType=Tot	1	dep	_	_
-3	sidʒu	dʒu	AUX	aux	Clusivity=In|Number=Plur|Person=1	1	cop	_	_
-4	nõde	nõde	PRON	pron	Clusivity=In|Number=Plur|Person=1	1	nsubj	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 cop	color:blue
+1	nani	nan	ADV	adv	_	2	advmod	_	_
+2	pamẽ	pamẽ	PRON	pron	PronType=Tot	4	nsubj	_	_
+3	sidʒu	dʒu	AUX	aux	Clusivity=In|Number=Plur|Person=1	4	cop	_	_
+4	nõde	nõde	PRON	pron	Clusivity=In|Number=Plur|Person=1	0	root	_	_
 5	les	les	DET	dem	_	6	det	_	_
 6	jeunes	jeunes	NOUN	n	_	4	dislocated	_	_
 

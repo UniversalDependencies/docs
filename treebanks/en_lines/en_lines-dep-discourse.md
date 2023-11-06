@@ -24,7 +24,7 @@ The following 26 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 5 1 discourse	color:blue
 1	Yes	yes	INTJ	_	_	5	discourse	_	SpaceAfter=No
 2	,	,	PUNCT	Comma	_	1	punct	_	_
-3	that	that	PRON	DEM-SG	Number=Sing|PronType=Dem	5	nsubj	_	SpaceAfter=No
+3	that	that	PRON	DEM-SG	Number=Sing|PronType=Dem	5	nsubj	_	_
 4	's	have	AUX	PRES-AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
 5	happened	happen	VERB	PERF	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 6	to	to	ADP	_	_	7	case	_	_
@@ -60,7 +60,7 @@ The following 26 pairs of parts of speech are connected with `discourse`: <tt><a
 3	lovely	lovely	ADJ	POS	Degree=Pos	4	amod	_	_
 4	creature	creature	NOUN	SG-NOM	Number=Sing	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	Comma	_	6	punct	_	_
-6	is	be	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis	_	SpaceAfter=No
+6	is	be	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis	_	_
 7	n't	not	PART	NEG	_	6	advmod	_	_
 8	she	she	PRON	PERS-SG-NOM	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	SpaceAfter=No
 9	?	?	PUNCT	QuestionMark	_	4	punct	_	_

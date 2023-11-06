@@ -66,6 +66,9 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 <table>
   <tr><th>Paradigm <i>être</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>
   <tr><td><tt>_</tt></td><td></td><td><em>être</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="fr_rhapsodie-feat-ExtPos.html">ExtPos</a></tt><tt>=NOUN</tt>|<tt><a href="fr_rhapsodie-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fr_rhapsodie-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_rhapsodie-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fr_rhapsodie-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>était</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="fr_rhapsodie-feat-ExtPos.html">ExtPos</a></tt><tt>=NOUN</tt>|<tt><a href="fr_rhapsodie-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fr_rhapsodie-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_rhapsodie-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fr_rhapsodie-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>est</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="fr_rhapsodie-feat-ExtPos.html">ExtPos</a></tt><tt>=NOUN</tt>|<tt><a href="fr_rhapsodie-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fr_rhapsodie-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_rhapsodie-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fr_rhapsodie-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>sont</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fr_rhapsodie-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_rhapsodie-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_rhapsodie-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>été</em></td></tr>
   <tr><td><tt><tt><a href="fr_rhapsodie-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="fr_rhapsodie-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_rhapsodie-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="fr_rhapsodie-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>serais</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fr_rhapsodie-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="fr_rhapsodie-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_rhapsodie-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fr_rhapsodie-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>serait</em></td><td></td><td></td></tr>
@@ -102,7 +105,7 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 `ADJ` tokens may have the following values of `VerbForm`:
 
 * `Part` (2; 100% of non-empty `VerbForm`): <em>entendu, étonnée</em>
-* `EMPTY` (1570): <em>tout, petit, tous, jeune, grande, vrai, autre, droit, même, premier</em>
+* `EMPTY` (1571): <em>tout, petit, tous, jeune, grande, vrai, autre, droit, même, premier</em>
 
 ## Relations with Agreement in `VerbForm`
 

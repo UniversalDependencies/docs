@@ -11,7 +11,7 @@ It occurs with 3 different values: `Dem`, `Int`, `Prs`.
 
 20798 tokens (5%) have a non-empty value of `PronType`.
 55 types (1%) occur at least once with a non-empty value of `PronType`.
-54 lemmas (1%) occur at least once with a non-empty value of `PronType`.
+53 lemmas (1%) occur at least once with a non-empty value of `PronType`.
 The feature is used with 1 part-of-speech tags: <tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (20798; 5% instances).
 
 ### `PRON`
@@ -32,7 +32,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
   <tr><td><tt><tt><a href="lzh_kyoto-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td>爾</td><td></td></tr>
 </table>
 
-`PronType` seems to be **lexical feature** of `PRON`. 94% lemmas (51) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `PRON`. 94% lemmas (50) occur only with one value of `PronType`.
 
 ## Relations with Agreement in `PronType`
 

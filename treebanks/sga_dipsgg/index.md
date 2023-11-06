@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.12 release
 The following people have contributed to making this treebank part of UD: Adrian Doyle.
 
 Repository: [UD_Old_Irish-DipSGG](https://github.com/UniversalDependencies/UD_Old_Irish-DipSGG)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsga_dipsgg212)<br />
-Download all treebanks: [UD 2.12](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsga_dipsgg213)<br />
+Download all treebanks: [UD 2.13](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -100,7 +100,7 @@ Thurneysen, Rudolf. (1946). A Grammar of Old Irish. Binchy, D. A. and Bergin, Os
 
 
 <ul>
-<li>This corpus contains 62 sentences and 400 tokens.</li>
+<li>This corpus contains 64 sentences and 403 tokens.</li>
 </ul>
 
 <ul>
@@ -237,7 +237,7 @@ Thurneysen, Rudolf. (1946). A Grammar of Old Irish. Binchy, D. A. and Bergin, Os
       <li>PRON: m, a, mo, do, mei, mm, siu, som, sse, sv</li>
       <li>PROPN: brigtae, choirbbre, dongus, donngus, ferguso, finguine, lothlind, maddoc, mail, máel</li>
       <li>SCONJ: nach</li>
-      <li>VERB: chain, Gaib, cél, cóima, epur, farcai, fuasna, giuil, llega, maraith</li>
+      <li>VERB: chain, Gaib, braigim, cél, cóima, epur, farcai, fuasna, giuil, llega</li>
     </ul>
   </li>
 </ul>
@@ -284,7 +284,7 @@ Thurneysen, Rudolf. (1946). A Grammar of Old Irish. Binchy, D. A. and Bergin, Os
     <ul>
       <li>ADJ: gann, acher, bec, cáin, dorchæ, línech, mall, mar, mass, mmall</li>
       <li>DET: in, a, ind, inḍt, ᚔᚅ</li>
-      <li>NOUN: ᚉᚑᚉᚐᚏᚈ, dias, ainm, airdircus, aite, aithne, bendacht, bruach, chliab, choimmdiu</li>
+      <li>NOUN: ᚉᚑᚉᚐᚏᚈ, dias, ainm, airdircus, aite, aithne, bendacht, bruach, cenéle, chliab</li>
       <li>PROPN: choirbbre, dongus, donngus, finguine, ruadri</li>
     </ul>
   </li>
@@ -400,7 +400,7 @@ Thurneysen, Rudolf. (1946). A Grammar of Old Irish. Binchy, D. A. and Bergin, Os
   <li>Ind
     <ul>
       <li>AUX: is, ní, bith</li>
-      <li>VERB: chain, cél, ecmoṅgat, epur, farcai, fuasna, giuil, llega, maraith, mardda</li>
+      <li>VERB: chain, braigim, cél, ecmoṅgat, epur, farcai, fuasna, giuil, llega, maraith</li>
     </ul>
   </li>
 </ul>
@@ -440,7 +440,7 @@ Thurneysen, Rudolf. (1946). A Grammar of Old Irish. Binchy, D. A. and Bergin, Os
   <li>Pres
     <ul>
       <li>AUX: is, d, ní, mba</li>
-      <li>VERB: chain, Gaib, cóima, ecmoṅgat, epur, farcai, fuasna, llega, maraith, mardda</li>
+      <li>VERB: chain, Gaib, braigim, cóima, ecmoṅgat, epur, farcai, fuasna, llega, maraith</li>
     </ul>
   </li>
 </ul>
@@ -452,7 +452,7 @@ Thurneysen, Rudolf. (1946). A Grammar of Old Irish. Binchy, D. A. and Bergin, Os
 <ul>
   <li>Act
     <ul>
-      <li>VERB: chain, Gaib, cél, cóima, ecmoṅgat, epur, farcai, fuasna, giuil, llega</li>
+      <li>VERB: chain, Gaib, braigim, cél, cóima, ecmoṅgat, epur, farcai, fuasna, giuil</li>
     </ul>
   </li>
 </ul>
@@ -557,7 +557,7 @@ Thurneysen, Rudolf. (1946). A Grammar of Old Irish. Binchy, D. A. and Bergin, Os
     <ul>
       <li>ADP: dom, dún, frimm</li>
       <li>PRON: m, mo, mei, mm, sse</li>
-      <li>VERB: cél, epur, samlar, scríbaimm, tiach, ágor</li>
+      <li>VERB: braigim, cél, epur, samlar, scríbaimm, tiach, ágor</li>
     </ul>
   </li>
 </ul>

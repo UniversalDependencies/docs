@@ -7,42 +7,37 @@ udver: '2'
 ## Treebank Statistics: UD_Spanish-GSD: Relations: `expl`
 
 This relation is universal.
-There are 1 language-specific subtypes of `expl`: <tt><a href="es_gsd-dep-expl-pv.html">expl:pv</a></tt>.
+There are 2 language-specific subtypes of `expl`: <tt><a href="es_gsd-dep-expl-pass.html">expl:pass</a></tt>, <tt><a href="es_gsd-dep-expl-pv.html">expl:pv</a></tt>.
 
-3 nodes (0%) are attached to their parents as `expl`.
+6 nodes (0%) are attached to their parents as `expl`.
 
-3 instances of `expl` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.
+6 instances of `expl` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.16666666666667.
 
-The following 1 pairs of parts of speech are connected with `expl`: <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (3; 100% instances).
+The following 1 pairs of parts of speech are connected with `expl`: <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (6; 100% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 expl	color:blue
-1	Sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
-2	armas	arma	NOUN	_	Gender=Fem|Number=Plur	4	obj	_	_
-3	las	él	PRON	_	Case=Acc|Gender=Fem|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	4	expl	_	_
-4	componían	componer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
-5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-6	machete	machete	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	SpaceAfter=No
-7	,	,	PUNCT	_	_	9	punct	_	_
-8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
-9	reata	reata	NOUN	_	Gender=Fem|Number=Sing	6	conj	_	SpaceAfter=No
-10	,	,	PUNCT	_	_	11	punct	_	_
-11	pistola	pistola	NOUN	_	Gender=Fem|Number=Sing	6	conj	_	SpaceAfter=No
-12	,	,	PUNCT	_	_	13	punct	_	_
-13	carabina	carabina	NOUN	_	Gender=Fem|Number=Sing	6	conj	_	_
-14	de	de	ADP	_	_	15	mark	_	_
-15	montar	montar	VERB	_	VerbForm=Inf	13	advcl	_	_
-16	y	y	CCONJ	_	_	19	cc	_	_
-17	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
-18	larga	largo	ADJ	_	Gender=Fem|Number=Sing	19	amod	_	_
-19	lanza	lanza	NOUN	_	Gender=Fem|Number=Sing	6	conj	_	SpaceAfter=No
-20	;	;	PUNCT	_	_	4	punct	_	_
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 11 expl	color:blue
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	piensa	pensar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	que	que	SCONJ	_	_	12	mark	_	_
+4	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	límites	límite	NOUN	_	Gender=Masc|Number=Plur	12	obj	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	vida	vida	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
+9	solo	sólo	ADV	_	_	12	advmod	_	_
+10	no	no	ADV	_	Polarity=Neg	12	advmod	_	_
+11	los	él	PRON	_	Case=Acc|Gender=Masc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	12	expl	_	_
+12	ponemos	poner	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+13	nosotros	yo	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	12	nsubj	_	_
+14	mismos	mismo	ADJ	_	Gender=Masc|Number=Plur	13	amod	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 

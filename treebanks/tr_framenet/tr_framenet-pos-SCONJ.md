@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.741529).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.742503).
 
 The 1st highest number of forms (1) was observed with the lemma “eğer”: <em>Eğer</em>.
 
@@ -32,7 +32,7 @@ The 2nd highest number of forms (1) was observed with the lemma “ki”: <em>ki
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 4 different relations: <tt><a href="tr_framenet-dep-mark.html">mark</a></tt> (26; 84% instances), <tt><a href="tr_framenet-dep-discourse.html">discourse</a></tt> (2; 6% instances), <tt><a href="tr_framenet-dep-fixed.html">fixed</a></tt> (2; 6% instances), <tt><a href="tr_framenet-dep-compound.html">compound</a></tt> (1; 3% instances)
+`SCONJ` nodes are attached to their parents using 4 different relations: <tt><a href="tr_framenet-dep-mark.html">mark</a></tt> (27; 87% instances), <tt><a href="tr_framenet-dep-discourse.html">discourse</a></tt> (2; 6% instances), <tt><a href="tr_framenet-dep-compound.html">compound</a></tt> (1; 3% instances), <tt><a href="tr_framenet-dep-fixed.html">fixed</a></tt> (1; 3% instances)
 
 Parents of `SCONJ` nodes belong to 3 different parts of speech: <tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt> (25; 81% instances), <tt><a href="tr_framenet-pos-ADJ.html">ADJ</a></tt> (5; 16% instances), <tt><a href="tr_framenet-pos-PROPN.html">PROPN</a></tt> (1; 3% instances)
 

@@ -128,7 +128,7 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 
 The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="sv_talbanken-dep-amod.html">amod</a></tt>]--> ADJ</tt> (5655; 97%),
-<tt>NOUN --[<tt><a href="sv_talbanken-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2788; 95%),
+<tt>NOUN --[<tt><a href="sv_talbanken-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2789; 95%),
 <tt>NOUN --[<tt><a href="sv_talbanken-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1916; 92%),
 <tt>NOUN --[<tt><a href="sv_talbanken-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (940; 81%),
 <tt>ADJ --[<tt><a href="sv_talbanken-dep-obl.html">obl</a></tt>]--> NOUN</tt> (502; 97%),

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-116 nodes (1%) are attached to their parents as `mark`.
+117 nodes (1%) are attached to their parents as `mark`.
 
-116 instances of `mark` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.01724137931034.
+117 instances of `mark` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.02564102564103.
 
-The following 11 pairs of parts of speech are connected with `mark`: <tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_framenet-pos-ADP.html">ADP</a></tt> (39; 34% instances), <tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_framenet-pos-ADP.html">ADP</a></tt> (27; 23% instances), <tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_framenet-pos-SCONJ.html">SCONJ</a></tt> (23; 20% instances), <tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_framenet-pos-CCONJ.html">CCONJ</a></tt> (10; 9% instances), <tt><a href="tr_framenet-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_framenet-pos-ADP.html">ADP</a></tt> (8; 7% instances), <tt><a href="tr_framenet-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_framenet-pos-SCONJ.html">SCONJ</a></tt> (3; 3% instances), <tt><a href="tr_framenet-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_framenet-pos-ADP.html">ADP</a></tt> (2; 2% instances), <tt><a href="tr_framenet-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_framenet-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_framenet-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="tr_framenet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_framenet-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_framenet-pos-ADV.html">ADV</a></tt> (1; 1% instances).
+The following 12 pairs of parts of speech are connected with `mark`: <tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_framenet-pos-ADP.html">ADP</a></tt> (39; 33% instances), <tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_framenet-pos-ADP.html">ADP</a></tt> (27; 23% instances), <tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_framenet-pos-SCONJ.html">SCONJ</a></tt> (23; 20% instances), <tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_framenet-pos-CCONJ.html">CCONJ</a></tt> (10; 9% instances), <tt><a href="tr_framenet-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_framenet-pos-ADP.html">ADP</a></tt> (8; 7% instances), <tt><a href="tr_framenet-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_framenet-pos-SCONJ.html">SCONJ</a></tt> (3; 3% instances), <tt><a href="tr_framenet-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_framenet-pos-ADP.html">ADP</a></tt> (2; 2% instances), <tt><a href="tr_framenet-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_framenet-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_framenet-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="tr_framenet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_framenet-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="tr_framenet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_framenet-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_framenet-pos-ADV.html">ADV</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -62,7 +62,7 @@ The following 11 pairs of parts of speech are connected with `mark`: <tt><a href
 2	hava	hava	NOUN	_	Case=Nom|Number=Sing|Person=3	5	nsubj	_	_
 3	öyle	öyle	ADV	_	_	5	advmod	_	_
 4	bir	bir	ADV	_	_	5	advmod	_	_
-5	esti	es	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	advcl	_	_
+5	esti	es	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	10	advcl	_	_
 6	ki	ki	SCONJ	_	_	5	mark	_	_
 7	tüylerim	tüy	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=1	8	compound	_	_
 8	diken	diken	NOUN	_	Case=Nom|Number=Sing|Person=3	9	compound	_	_

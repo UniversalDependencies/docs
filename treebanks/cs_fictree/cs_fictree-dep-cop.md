@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2207 nodes (1%) are attached to their parents as `cop`.
+2965 nodes (2%) are attached to their parents as `cop`.
 
-2034 instances of `cop` (92%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.02899864068872.
+2473 instances of `cop` (83%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.98718381112985.
 
-The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (1200; 54% instances), <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (777; 35% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt>-<tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (77; 3% instances), <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (73; 3% instances), <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (35; 2% instances), <tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (25; 1% instances), <tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (17; 1% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="cs_fictree-pos-X.html">X</a></tt>-<tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `cop`: <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (1201; 41% instances), <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (1022; 34% instances), <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (327; 11% instances), <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (202; 7% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt>-<tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (107; 4% instances), <tt><a href="cs_fictree-pos-PART.html">PART</a></tt>-<tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (42; 1% instances), <tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (33; 1% instances), <tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (28; 1% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="cs_fictree-pos-X.html">X</a></tt>-<tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -58,20 +58,23 @@ The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 cop	color:blue
-1	Kdo	kdo	PRON	PKM-1----------	Animacy=Anim|Case=Nom|Gender=Masc|PronType=Int,Rel	3	nsubj	3:nsubj	_
-2	je	být	AUX	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	3:cop	_
-3	to	ten	DET	PDNS1----------	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	ccomp	5:ccomp	SpaceAfter=No
-4	?	?	PUNCT	Z:-------------	_	3	punct	3:punct	SpaceAfter=No
-5	zeptal	zeptat	VERB	VpMS----R-AA---	Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
-6	jsem	být	AUX	VB-S---1P-AA---	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	5:aux	_
-7	se	se	PRON	P7--4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	5	expl:pv	5:expl:pv	_
-8	bráchy	brácha	NOUN	NNMS2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	5	obl:arg	5:obl:arg:gen	SpaceAfter=No
-9	.	.	PUNCT	Z:-------------	_	5	punct	5:punct	_
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 11 cop	color:blue
+1	Zanechat	zanechat	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	0	root	0:root	_
+2	tu	tu	ADV	Db------------1	PronType=Dem	1	advmod	1:advmod	_
+3	pár	pár	NUM	Cn-S4----------	Case=Acc|Number=Sing|NumForm=Word|NumType=Card	4	nummod:gov	4:nummod:gov	_
+4	lidí	člověk	NOUN	NNMP2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	1	obj	1:obj	_
+5	šťastnějších	šťastný	ADJ	AAMP2----2A----	Animacy=Anim|Case=Gen|Degree=Cmp|Gender=Masc|Number=Plur|Polarity=Pos	4	xcomp	4:xcomp	SpaceAfter=No
+6	,	,	PUNCT	Z:-------------	_	10	punct	10:punct	_
+7	než	než	SCONJ	J,-------------	_	10	mark	10:mark	_
+8	když	když	SCONJ	J,-------------	_	10	mark	10:mark	_
+9	bychom	být	AUX	Vc-P---1-------	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	10	aux	10:aux	_
+10	tu	tu	ADV	Db------------1	PronType=Dem	5	dep	5:dep	_
+11	nebyli	být	AUX	VpMP----R-NA---	Animacy=Anim|Gender=Masc|Number=Plur|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act	10	cop	10:cop	SpaceAfter=No
+12	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	_
 
 ~~~
 

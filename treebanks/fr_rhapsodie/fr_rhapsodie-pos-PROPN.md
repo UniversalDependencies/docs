@@ -13,7 +13,7 @@ The 10 most frequent `PROPN` lemmas: <em>France, Paris, Gutiérrez, Chavant, Nef
 
 The 10 most frequent `PROPN` types:  <em>France, Paris, Gutiérrez, Chavant, Nef, Français, Messi, Rodriguez, Jésus, Europe</em>
 
-The 10 most frequent ambiguous lemmas: <em>A</em> (<tt><a href="fr_rhapsodie-pos-DET.html">DET</a></tt> 3, <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> 3), <em>Barrage</em> (<tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> 1), <em>Grande</em> (<tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> 1), <em>Midi</em> (<tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> 1), <em>aujourd'hui</em> (<tt><a href="fr_rhapsodie-pos-ADV.html">ADV</a></tt> 23, <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> 1), <em>ce</em> (<tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> 773, <tt><a href="fr_rhapsodie-pos-DET.html">DET</a></tt> 227, <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>A</em> (<tt><a href="fr_rhapsodie-pos-DET.html">DET</a></tt> 3, <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> 3), <em>Barrage</em> (<tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> 1), <em>Grande</em> (<tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> 1), <em>Midi</em> (<tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> 1), <em>aujourd'hui</em> (<tt><a href="fr_rhapsodie-pos-ADV.html">ADV</a></tt> 23, <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> 1), <em>ce</em> (<tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> 772, <tt><a href="fr_rhapsodie-pos-DET.html">DET</a></tt> 228, <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>A</em> (<tt><a href="fr_rhapsodie-pos-DET.html">DET</a></tt> 3, <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> 2), <em>Barrage</em> (<tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> 1), <em>Hommes</em> (<tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> 1), <em>Midi</em> (<tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> 1), <em>Mort</em> (<tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> 1), <em>aujourd'hui</em> (<tt><a href="fr_rhapsodie-pos-ADV.html">ADV</a></tt> 24, <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> 1), <em>ce</em> (<tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> 124, <tt><a href="fr_rhapsodie-pos-DET.html">DET</a></tt> 113, <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> 1)
 
@@ -43,7 +43,7 @@ The 10 most frequent ambiguous types:  <em>A</em> (<tt><a href="fr_rhapsodie-pos
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.006466 (the average of all parts of speech is 1.352226).
+The form / lemma ratio of `PROPN` is 1.006466 (the average of all parts of speech is 1.352046).
 
 The 1st highest number of forms (2) was observed with the lemma “A”: <em>A, B</em>.
 
@@ -51,12 +51,12 @@ The 2nd highest number of forms (2) was observed with the lemma “Argentin”: 
 
 The 3rd highest number of forms (2) was observed with the lemma “Beauceron”: <em>Beauceron, Beaucerons</em>.
 
-`PROPN` occurs with 2 features: <tt><a href="fr_rhapsodie-feat-Number.html">Number</a></tt> (75; 7% instances), <tt><a href="fr_rhapsodie-feat-Gender.html">Gender</a></tt> (69; 7% instances)
+`PROPN` occurs with 3 features: <tt><a href="fr_rhapsodie-feat-Number.html">Number</a></tt> (75; 7% instances), <tt><a href="fr_rhapsodie-feat-Gender.html">Gender</a></tt> (69; 7% instances), <tt><a href="fr_rhapsodie-feat-ExtPos.html">ExtPos</a></tt> (2; 0% instances)
 
-`PROPN` occurs with 4 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`
+`PROPN` occurs with 5 feature-value pairs: `ExtPos=PROPN`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`
 
-`PROPN` occurs with 6 feature combinations.
-The most frequent feature combination is `_` (938 tokens).
+`PROPN` occurs with 8 feature combinations.
+The most frequent feature combination is `_` (937 tokens).
 Examples: <em>France, Paris, Gutiérrez, Chavant, Français, Messi, Rodriguez, Jésus, Europe, Notre-Dame</em>
 
 

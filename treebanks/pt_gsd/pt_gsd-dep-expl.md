@@ -9,39 +9,35 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `expl`: <tt><a href="pt_gsd-dep-expl-pv.html">expl:pv</a></tt>.
 
-2 nodes (0%) are attached to their parents as `expl`.
+231 nodes (0%) are attached to their parents as `expl`.
 
-2 instances of `expl` (100%) are left-to-right (parent precedes child).
+171 instances of `expl` (74%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.
 
-The following 1 pairs of parts of speech are connected with `expl`: <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-PRON.html">PRON</a></tt> (2; 100% instances).
+The following 1 pairs of parts of speech are connected with `expl`: <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-PRON.html">PRON</a></tt> (231; 100% instances).
 
 
 ~~~ conllu
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 16 17 expl	color:blue
-1	A	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
-2	experiência	experiência	NOUN	NOUN	_	10	nsubj	_	_
-3	adquirida	adquirir	VERB	VERB	_	2	acl	_	_
-4	a	a	ADP	ADP	_	6	case	_	_
-5	o	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-6	longo	longo	NOUN	NOUN	_	3	nmod	_	_
-7	de	de	ADP	ADP	_	9	case	_	_
-8	20	20	NUM	NUM	NumType=Card	9	nummod	_	_
-9	anos	ano	NOUN	NOUN	_	6	nmod	_	_
-10	acaba	acabar	AUX	AUX	_	0	root	_	_
-11	de	_	ADP	ADP	_	12	mark	_	_
-12	virar	virar	VERB	_	_	10	xcomp	_	_
-13	o	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
-14	livro	livro	NOUN	NOUN	_	12	obj	_	_
-15	"	"	PUNCT	.	_	16	punct	_	SpaceAfter=No
-16	Vá	_	VERB	_	_	14	acl	_	MWEPOS=PROPN
-17	se	_	PRON	_	_	16	expl	_	_
-18	drenar	_	VERB	_	_	16	xcomp	_	SpaceAfter=No
-19	!	!	PUNCT	.	_	16	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 expl	color:blue
+1	Em	em	ADP	_	_	3	case	_	_
+2	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	internet	internet	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	manifestar	manifestar	VERB	_	VerbForm=Inf	12	csubj	_	_
+6	se	se	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
+7	de	de	ADP	_	_	9	case	_	_
+8	essa	esse	DET	_	Gender=Fem|Number=Sing|PronType=Dem	9	det	_	_
+9	forma	forma	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+10	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+11	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	mesmo	mesmo	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	_
+13	que	que	SCONJ	_	_	14	mark	_	_
+14	gritar	gritar	VERB	_	VerbForm=Inf	12	acl	_	SpaceAfter=No
+15	;	;	PUNCT	_	_	12	punct	_	SpaceAfter=No
 
 ~~~
 

@@ -19,7 +19,7 @@ The 10 most frequent ambiguous types:  <em>ǥu</em> (<tt><a href="sms_giellagas-
 
 
 * <em>ǥu</em>
-  * <tt><a href="sms_giellagas-pos-SCONJ.html">SCONJ</a></tt> 3: <em>Jiõm pâsttam seuʹrrjed suu urččmõõžž <b>ǥu</b> son leäi samai jåʹttel .</em>
+  * <tt><a href="sms_giellagas-pos-SCONJ.html">SCONJ</a></tt> 3: <em>Di kaavân <b>ǥu</b> vaaʹldi de ton âʹtte šõʹddiǩ .</em>
   * <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> 1: <em>Eččad lij luândstes lääʹđesmiõllsab <b>ǥu</b> eččan .</em>
 * <em>mäʹhtt</em>
   * <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> 8: <em>A <b>mäʹhtt</b> šât ton še puõʹttiǩ . ”</em>
@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>ǥu</em> (<tt><a href="sms_giellagas-
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.090909 (the average of all parts of speech is 1.467290).
+The form / lemma ratio of `SCONJ` is 1.090909 (the average of all parts of speech is 1.472015).
 
 The 1st highest number of forms (2) was observed with the lemma “što”: <em>što, štõ</em>.
 

@@ -44,7 +44,7 @@ The 10 most frequent ambiguous types:  井 (<tt><a href="lzh_kyoto-pos-NOUN.html
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.012984).
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.013130).
 
 The 1st highest number of forms (1) was observed with the lemma “□”: □.
 

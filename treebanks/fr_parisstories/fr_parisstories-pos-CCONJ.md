@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>et</em> (<tt><a href="fr_parisstories
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 0.928571 (the average of all parts of speech is 1.324273).
+The form / lemma ratio of `CCONJ` is 0.928571 (the average of all parts of speech is 1.329287).
 
 The 1st highest number of forms (1) was observed with the lemma “Et”: <em>et</em>.
 
@@ -62,7 +62,13 @@ The 2nd highest number of forms (1) was observed with the lemma “bon”: <em>b
 
 The 3rd highest number of forms (1) was observed with the lemma “c'est-à-dire”: <em>c'est-à-dire</em>.
 
-`CCONJ` does not occur with any features.
+`CCONJ` occurs with 1 features: <tt><a href="fr_parisstories-feat-ExtPos.html">ExtPos</a></tt> (51; 3% instances)
+
+`CCONJ` occurs with 2 feature-value pairs: `ExtPos=ADV`, `ExtPos=CCONJ`
+
+`CCONJ` occurs with 3 feature combinations.
+The most frequent feature combination is `_` (1485 tokens).
+Examples: <em>et, mais, ou, puis, ni, soit, donc, bon, comme, or</em>
 
 
 ## Relations

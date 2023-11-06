@@ -11,7 +11,7 @@ This relation is universal.
 24 nodes (0%) are attached to their parents as `list`.
 
 20 instances of `list` (83%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.54166666666667.
+Average distance between parent and child is 3.29166666666667.
 
 The following 3 pairs of parts of speech are connected with `list`: <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (22; 92% instances), <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> (1; 4% instances).
 

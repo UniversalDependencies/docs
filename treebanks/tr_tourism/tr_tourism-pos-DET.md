@@ -19,7 +19,7 @@ The 10 most frequent ambiguous types:  <em>BİR</em> (<tt><a href="tr_tourism-po
 
 
 * <em>BİR</em>
-  * <tt><a href="tr_tourism-pos-DET.html">DET</a></tt> 1903: <em>TEMİZ <b>BİR</b> TESİSTİ , PERSONEL .</em>
+  * <tt><a href="tr_tourism-pos-DET.html">DET</a></tt> 1903: <em>TEMİZ <b>BİR</b> TESİSTİ PERSONEL .</em>
   * <tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> 22: <em>SADECE <b>BİR</b> DEFA GÖRDÜM .</em>
   * <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 11: <em><b>BİR</b> DAHA GİTMEYİ ASLA DÜŞÜNMÜYORUM VE KİMSEYE DE TAVSİYE ETMİYORUM .</em>
   * <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 3: <em>HAVLU ÇARŞAF 3 GÜNDE <b>BİR</b> DEĞİŞTİRİLDİ .</em>
@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>BİR</em> (<tt><a href="tr_tourism-po
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.200000 (the average of all parts of speech is 1.824721).
+The form / lemma ratio of `DET` is 1.200000 (the average of all parts of speech is 1.825646).
 
 The 1st highest number of forms (2) was observed with the lemma “bir”: <em>BİR, HİÇBİR</em>.
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="en_ewt-dep-cc.html">cc</a></tt>.
 
-123 nodes (0%) are attached to their parents as `cc:preconj`.
+98 nodes (0%) are attached to their parents as `cc:preconj`.
 
-122 instances of `cc:preconj` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.17073170731707.
+98 instances of `cc:preconj` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.12244897959184.
 
-The following 13 pairs of parts of speech are connected with `cc:preconj`: <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (38; 31% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (27; 22% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (15; 12% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (10; 8% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (10; 8% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (7; 6% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (5; 4% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (2; 2% instances), <tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `cc:preconj`: <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (38; 39% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (27; 28% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (15; 15% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (10; 10% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (5; 5% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (2; 2% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -63,7 +63,7 @@ The following 13 pairs of parts of speech are connected with `cc:preconj`: <tt><
 # visual-style 3 2 cc:preconj	color:blue
 1	Expect	expect	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
 2	either	either	CCONJ	CC	_	3	cc:preconj	3:cc:preconj	_
-3	undercooked	undercook	VERB	VBN	Tense=Past|VerbForm=Part	6	amod	6:amod	_
+3	undercooked	undercook	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	amod	6:amod	_
 4	or	or	CCONJ	CC	_	5	cc	5:cc	_
 5	mushy	mushy	ADJ	JJ	Degree=Pos	3	conj	3:conj:or|6:amod	_
 6	food	food	NOUN	NN	Number=Sing	1	obj	1:obj	_

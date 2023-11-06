@@ -23,7 +23,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 `VERB` tokens may have the following values of `Aspect`:
 
 * `Prog` (47; 100% of non-empty `Aspect`): ניתן, פוגעת, גורם, גורמים, דורכת, הולכת, הסעירה, ידוע, כותבים, כרוכה
-* `EMPTY` (10603): יש, ניתן, כתב, אין, הלחין, יצא, זכה, החל, היו, החלו
+* `EMPTY` (10598): יש, ניתן, כתב, אין, הלחין, יצא, זכה, החל, היו, החלו
 
 `Aspect` seems to be **lexical feature** of `VERB`. 100% lemmas (39) occur only with one value of `Aspect`.
 

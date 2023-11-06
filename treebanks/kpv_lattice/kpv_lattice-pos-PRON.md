@@ -19,7 +19,7 @@ The 10 most frequent ambiguous types:  <em>мый</em> (<tt><a href="kpv_lattice
 
 
 * <em>мый</em>
-  * <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 37: <em>Меным кажитчӧ , <b>мый</b> зэрӧ .</em>
+  * <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 37: <em>— Он ӧд тӧд , <b>мый</b> татшӧма зэрны-гымавны кутас , — нурбыльті сӧмын .</em>
   * <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 7: <em>Неприятель страшнӧй , бура кӧ он тӧд , кӧні сійӧ и <b>мый</b> сійӧ вӧчӧ .</em>
 * <em>быд</em>
   * <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 10: <em>Туйыс вӧлі сьӧкыд , белӧйяс потшисны <b>быд</b> боксянь .</em>

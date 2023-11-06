@@ -10,8 +10,8 @@ This relation is universal.
 
 11812 nodes (6%) are attached to their parents as `det`.
 
-10948 instances of `det` (93%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.68735184558077.
+10949 instances of `det` (93%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.68709786657636.
 
 The following 8 pairs of parts of speech are connected with `det`: <tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_perseus-pos-DET.html">DET</a></tt> (9095; 77% instances), <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_perseus-pos-DET.html">DET</a></tt> (1283; 11% instances), <tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_perseus-pos-DET.html">DET</a></tt> (1234; 10% instances), <tt><a href="grc_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="grc_perseus-pos-DET.html">DET</a></tt> (140; 1% instances), <tt><a href="grc_perseus-pos-ADV.html">ADV</a></tt>-<tt><a href="grc_perseus-pos-DET.html">DET</a></tt> (44; 0% instances), <tt><a href="grc_perseus-pos-DET.html">DET</a></tt>-<tt><a href="grc_perseus-pos-DET.html">DET</a></tt> (13; 0% instances), <tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt>-<tt><a href="grc_perseus-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="grc_perseus-pos-PART.html">PART</a></tt>-<tt><a href="grc_perseus-pos-DET.html">DET</a></tt> (1; 0% instances).
 

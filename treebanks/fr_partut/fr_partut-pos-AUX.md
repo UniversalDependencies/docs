@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>est</em> (<tt><a href="fr_partut-pos-
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 14.666667 (the average of all parts of speech is 1.452949).
+The form / lemma ratio of `AUX` is 14.666667 (the average of all parts of speech is 1.456181).
 
 The 1st highest number of forms (20) was observed with the lemma “avoir”: <em>a, ai, aient, ait, aurai, aurais, aurait, aurions, aurons, auront, avaient, avais, avait, avez, avions, avoir, avons, ayant, ayons, ont</em>.
 
@@ -76,7 +76,7 @@ Examples: <em>est, a, fait</em>
 
 `AUX` nodes are attached to their parents using 5 different relations: <tt><a href="fr_partut-dep-cop.html">cop</a></tt> (307; 36% instances), <tt><a href="fr_partut-dep-aux.html">aux</a></tt> (285; 34% instances), <tt><a href="fr_partut-dep-aux-pass.html">aux:pass</a></tt> (241; 28% instances), <tt><a href="fr_partut-dep-aux-caus.html">aux:caus</a></tt> (13; 2% instances), <tt><a href="fr_partut-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances)
 
-Parents of `AUX` nodes belong to 8 different parts of speech: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (533; 63% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (144; 17% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (140; 17% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (24; 3% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fr_partut-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (1; 0% instances)
+Parents of `AUX` nodes belong to 8 different parts of speech: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (534; 63% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (143; 17% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (140; 17% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (24; 3% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fr_partut-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 
 837 (99%) `AUX` nodes are leaves.
 

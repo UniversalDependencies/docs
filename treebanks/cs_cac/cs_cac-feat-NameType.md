@@ -130,7 +130,7 @@ The most frequent other feature values with which `PRON` and `NameType` co-occur
 ## Relations with Agreement in `NameType`
 
 The 10 most frequent relations where parent and child node agree in `NameType`:
-<tt>PROPN --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> PROPN</tt> (1006; 93%),
+<tt>PROPN --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> PROPN</tt> (1008; 94%),
 <tt>PROPN --[<tt><a href="cs_cac-dep-orphan.html">orphan</a></tt>]--> PROPN</tt> (88; 91%),
 <tt>ADJ --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> ADJ</tt> (24; 89%),
 <tt>ADJ --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> PROPN</tt> (7; 54%),

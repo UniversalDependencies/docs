@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-514 nodes (6%) are attached to their parents as `obj`.
+760 nodes (6%) are attached to their parents as `obj`.
 
-493 instances of `obj` (96%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.84824902723735.
+722 instances of `obj` (95%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.86184210526316.
 
-The following 6 pairs of parts of speech are connected with `obj`: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (337; 66% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (165; 32% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt> (6; 1% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `obj`: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (485; 64% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (258; 34% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt> (9; 1% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="yrl_complin-pos-PART.html">PART</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

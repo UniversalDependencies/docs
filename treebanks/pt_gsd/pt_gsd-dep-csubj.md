@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `csubj`: <tt><a href="pt_gsd-dep-csubj-pass.html">csubj:pass</a></tt>.
 
-653 nodes (0%) are attached to their parents as `csubj`.
+594 nodes (0%) are attached to their parents as `csubj`.
 
-542 instances of `csubj` (83%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.54823889739663.
+499 instances of `csubj` (84%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.38720538720539.
 
-The following 11 pairs of parts of speech are connected with `csubj`: <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt> (338; 52% instances), <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt> (241; 37% instances), <tt><a href="pt_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt> (37; 6% instances), <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt> (9; 1% instances), <tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt> (8; 1% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> (6; 1% instances), <tt><a href="pt_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `csubj`: <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt> (292; 49% instances), <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt> (227; 38% instances), <tt><a href="pt_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt> (34; 6% instances), <tt><a href="pt_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt> (20; 3% instances), <tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt> (7; 1% instances), <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="pt_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -56,27 +56,26 @@ The following 11 pairs of parts of speech are connected with `csubj`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 9 csubj	color:blue
-1	"	"	PUNCT	.	_	2	punct	_	SpaceAfter=No
-2	O	_	PRON	PRON	_	0	root	_	_
-3	que	_	PRON	PRON	_	6	obj	_	_
-4	nós	_	PRON	PRON	_	6	nsubj	_	_
-5	vamos	ir	AUX	AUX	_	6	aux	_	_
-6	fazer	fazer	VERB	VERB	_	2	acl:relcl	_	_
-7	agora	agora	ADV	ADV	_	6	advmod	_	_
-8	é	ser	AUX	AUX	_	2	cop	_	_
-9	responder	responder	VERB	VERB	_	2	csubj	_	_
-10	a	a	ADP	ADP	_	12	case	_	_
-11	os	o	DET	DET	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
-12	termos	termo	NOUN	NOUN	_	9	nmod	_	_
-13	de	de	ADP	ADP	_	15	case	_	_
-14	a	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
-15	ação	ação	NOUN	NOUN	_	12	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	.	_	2	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 5 csubj	color:blue
+1	Em	em	ADP	_	_	3	case	_	_
+2	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	internet	internet	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	manifestar	manifestar	VERB	_	VerbForm=Inf	12	csubj	_	_
+6	se	se	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
+7	de	de	ADP	_	_	9	case	_	_
+8	essa	esse	DET	_	Gender=Fem|Number=Sing|PronType=Dem	9	det	_	_
+9	forma	forma	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+10	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+11	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	mesmo	mesmo	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	_
+13	que	que	SCONJ	_	_	14	mark	_	_
+14	gritar	gritar	VERB	_	VerbForm=Inf	12	acl	_	SpaceAfter=No
+15	;	;	PUNCT	_	_	12	punct	_	SpaceAfter=No
 
 ~~~
 

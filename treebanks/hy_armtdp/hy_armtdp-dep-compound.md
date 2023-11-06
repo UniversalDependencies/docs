@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 3 language-specific subtypes of `compound`: <tt><a href="hy_armtdp-dep-compound-lvc.html">compound:lvc</a></tt>, <tt><a href="hy_armtdp-dep-compound-redup.html">compound:redup</a></tt>, <tt><a href="hy_armtdp-dep-compound-svc.html">compound:svc</a></tt>.
 
-100 nodes (0%) are attached to their parents as `compound`.
+101 nodes (0%) are attached to their parents as `compound`.
 
-86 instances of `compound` (86%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.74.
+87 instances of `compound` (86%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.73267326732673.
 
-The following 16 pairs of parts of speech are connected with `compound`: <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (68; 68% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (6; 6% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (4; 4% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (4; 4% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_armtdp-pos-X.html">X</a></tt> (3; 3% instances), <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_armtdp-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="hy_armtdp-pos-X.html">X</a></tt>-<tt><a href="hy_armtdp-pos-X.html">X</a></tt> (1; 1% instances).
+The following 16 pairs of parts of speech are connected with `compound`: <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (68; 67% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (6; 6% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (5; 5% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (4; 4% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_armtdp-pos-X.html">X</a></tt> (3; 3% instances), <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_armtdp-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="hy_armtdp-pos-X.html">X</a></tt>-<tt><a href="hy_armtdp-pos-X.html">X</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -73,46 +73,52 @@ The following 16 pairs of parts of speech are connected with `compound`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 10 compound	color:blue
-1	Մինը	մին	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing|NumForm=Word|Style=Vrnc	0	root	_	Translit=Minë|LTranslit=min|SpaceAfter=No
-2	՝	՝	PUNCT	_	_	3	punct	_	Translit=,|LTranslit=,
-3	խալխին	խալխ	NOUN	_	Animacy=Hum|Case=Dat|Definite=Def|Number=Sing|Style=Vrnc	1	obj	_	Translit=xalxin|LTranslit=xalx|SpaceAfter=No
-4	,	,	PUNCT	_	_	13	punct	_	Translit=,|LTranslit=,
-5	որ	որ	SCONJ	_	_	13	mark	_	Translit=or|LTranslit=or
-6	դեբիլ	դեբիլ	ADJ	_	Degree=Pos|Style=Coll	7	amod	_	Translit=debil|LTranslit=debil
-7	ձկան	ձուկ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	11	nmod:poss	_	Translit=jkan|LTranslit=jowk
-8	կիսատ	կիսատ	ADJ	_	Degree=Pos	11	amod	_	Translit=kisat|LTranslit=kisat|SpaceAfter=No
-9	-	-	PUNCT	_	_	10	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
-10	պռատ	պռատ	ADJ	_	Style=Vrnc	8	compound	_	Translit=pṙat|LTranslit=pṙat
-11	կախարդությունների	կախարդություն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Plur	12	nmod:poss	_	Translit=kaxardowt’yownneri|LTranslit=kaxardowt’yown
-12	զոհ	զոհ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	13	xcomp	_	Translit=zoh|LTranslit=zoh
-13	չդառնա	դառնալ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Neg|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	1	advcl	_	Translit=čdaṙna|LTranslit=daṙnal
-14	ու	ու	CCONJ	_	_	16	cc	_	Translit=ow|LTranslit=ow
-15	մտածել	մտածել	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	16	xcomp	_	Translit=mtaçel|LTranslit=mtaçel
-16	սովորի	սովորել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	13	conj	_	Translit=sovori|LTranslit=sovorel|SpaceAfter=No
-17	,	,	PUNCT	_	_	18	punct	_	Translit=,|LTranslit=,
-18	մինն	մին	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing|NumForm=Word|Style=Vrnc	1	conj	_	Translit=minn|LTranslit=min
-19	էլ	էլ	ADV	_	_	18	advmod:emph	_	Translit=ēl|LTranslit=ēl
-20	էս	այս	DET	_	Deixis=Prox|PronType=Dem|Style=Coll	21	det	_	Translit=ēs|LTranslit=ays
-21	բլոգի	բլոգ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	22	nmod:poss	_	Translit=blogi|LTranslit=blog
-22	հեղինակին	հեղինակ	NOUN	_	Animacy=Hum|Case=Dat|Definite=Def|Number=Sing	18	obj	_	Translit=heġinakin|LTranslit=heġinak|SpaceAfter=No
-23	,	,	PUNCT	_	_	28	punct	_	Translit=,|LTranslit=,
-24	որ	որ	SCONJ	_	_	28	mark	_	Translit=or|LTranslit=or
-25	ժանգոտած	ժանգոտել	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Mid	26	acl	_	Translit=žangotaç|LTranslit=žangotel
-26	բլոգը	բլոգ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	28	obj	_	Translit=blogë|LTranslit=blog
-27	ճահճից	ճահիճ	NOUN	_	Animacy=Nhum|Case=Abl|Definite=Ind|Number=Sing	28	obl	_	Translit=č̣ahč̣ic’|LTranslit=č̣ahič̣
-28	հանի	հանել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	18	advcl	_	Translit=hani|LTranslit=hanel
-29	ու	ու	CCONJ	_	_	33	cc	_	Translit=ow|LTranslit=ow
-30	ավելի	ավելի	ADV	_	Degree=Cmp	31	advmod	_	Translit=aveli|LTranslit=aveli
-31	պակաս	պակաս	ADJ	_	Degree=Pos	32	amod	_	Translit=pakas|LTranslit=pakas
-32	հոռետեսությամբ	հոռետեսություն	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Ind|Number=Coll	33	obl	_	Translit=hoṙetesowt’yamb|LTranslit=hoṙetesowt’yown
-33	նայի	նայել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	28	conj	_	Translit=nayi|LTranslit=nayel
-34	ապագային	ապագա	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Sing	33	obl	_	Translit=apagayin|LTranslit=apaga|SpaceAfter=No
-35	։	։	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 6 compound	color:blue
+1	2017	2017	NUM	_	NumForm=Digit|NumType=Card	2	nummod	_	Translit=2017|LTranslit=2017
+2	թվականի	թվական	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	3	nmod:poss	_	Translit=t’vakani|LTranslit=t’vakan
+3	հունվարին	հունվար	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Sing	21	obl	_	Translit=hownvarin|LTranslit=hownvar
+4	Արփա	Արփա	PROPN	_	Animacy=Nhum|Case=Nom|Definite=Ind|NameType=Geo|Number=Sing	7	nmod	_	Translit=Arp’a|LTranslit=Arp’a|SpaceAfter=No
+5	-	-	PUNCT	_	_	6	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
+6	Սևան	Սևան	PROPN	_	Animacy=Nhum|Case=Nom|Definite=Ind|NameType=Geo|Number=Sing	4	compound	_	Translit=Sewan|LTranslit=Sewan
+7	ջրատարով	ջրատար	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Ind|Number=Sing	11	obl	_	Translit=ǰratarov|LTranslit=ǰratar
+8	Սևանա	Սևանա	ADJ	_	NameType=Geo|Poss=Yes	9	amod	_	Translit=Sewana|LTranslit=Sewana
+9	լիճ	լիճ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	11	obl	_	Translit=lič̣|LTranslit=lič̣
+10	մուտք	մուտք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	11	compound:lvc	_	Translit=mowtk’|LTranslit=mowtk’
+11	գործած	գործել	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Mid	12	acl	_	Translit=gorçaç|LTranslit=gorçel
+12	ջրի	ջուր	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	13	nmod:poss	_	Translit=ǰri|LTranslit=ǰowr
+13	ծավալը	ծավալ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	21	nsubj	_	Translit=çavalë|LTranslit=çaval
+14	(	(	PUNCT	_	_	15	punct	_	Translit=(|LTranslit=(|SpaceAfter=No
+15	ներառյալ	ներառյալ	ADV	_	_	13	parataxis	_	Translit=neraṙyal|LTranslit=neraṙyal
+16	ջրատարի	ջրատար	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	17	nmod:poss	_	Translit=ǰratari|LTranslit=ǰratar
+17	հատվածքով	հատվածք	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Ind|Number=Sing	19	nmod:npmod	_	Translit=hatvaçk’ov|LTranslit=hatvaçk’
+18	ստորերկրյա	ստորերկրյա	ADJ	_	_	19	amod	_	Translit=storerkrya|LTranslit=storerkrya
+19	ներհոսքը	ներհոսք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	15	obl	_	Translit=nerhosk’ë|LTranslit=nerhosk’|SpaceAfter=No
+20	)	)	PUNCT	_	_	15	punct	_	Translit=)|LTranslit=)
+21	կազմել	կազմել	VERB	_	Aspect=Perf|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=kazmel|LTranslit=kazmel
+22	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	21	aux	_	Translit=ē|LTranslit=em
+23	2	2	NUM	_	NumForm=Digit|NumType=Card	27	nummod	_	Translit=2|LTranslit=2
+24	մլրդ	միլիարդ	NUM	_	Abbr=Yes|NumForm=Word|NumType=Card	23	flat	_	Translit=mlrd|LTranslit=miliard
+25	630	630	NUM	_	NumForm=Digit|NumType=Card	23	flat	_	Translit=630|LTranslit=630
+26	մլն	միլիոն	NUM	_	Abbr=Yes|NumForm=Word|NumType=Card	23	flat	_	Translit=mln|LTranslit=milion
+27	խմ	խմ	NOUN	_	Abbr=Yes|Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	21	obl	_	Translit=xm|LTranslit=xm|SpaceAfter=No
+28	,	,	PUNCT	_	_	34	punct	_	Translit=,|LTranslit=,
+29	իսկ	իսկ	CCONJ	_	_	34	cc	_	Translit=isk|LTranslit=isk
+30	2016	2016	NUM	_	NumForm=Digit|NumType=Card	31	nummod	_	Translit=2016|LTranslit=2016
+31	թվականի	թվական	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	32	nmod:poss	_	Translit=t’vakani|LTranslit=t’vakan
+32	հունվարին	հունվար	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Sing	34	obl	_	Translit=hownvarin|LTranslit=hownvar
+33	այն	այն	PRON	_	Deixis=Remt|Number=Sing|PronType=Dem	34	nsubj	_	Translit=ayn|LTranslit=ayn
+34	կազմել	կազմել	VERB	_	Aspect=Perf|Subcat=Tran|VerbForm=Part|Voice=Act	21	conj	_	Translit=kazmel|LTranslit=kazmel
+35	էր	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VerbForm=Fin	34	aux	_	Translit=ēr|LTranslit=em
+36	2	2	NUM	_	NumForm=Digit|NumType=Card	40	nummod	_	Translit=2|LTranslit=2
+37	մլրդ	միլիարդ	NUM	_	Abbr=Yes|NumForm=Word|NumType=Card	36	flat	_	Translit=mlrd|LTranslit=miliard
+38	471	471	NUM	_	NumForm=Digit|NumType=Card	36	flat	_	Translit=471|LTranslit=471
+39	մլն	միլիոն	NUM	_	Abbr=Yes|NumForm=Word|NumType=Card	36	flat	_	Translit=mln|LTranslit=milion
+40	խմ	խմ	NOUN	_	Abbr=Yes|Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	34	obl	_	Translit=xm|LTranslit=xm|SpaceAfter=No
+41	:	:	PUNCT	_	_	21	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

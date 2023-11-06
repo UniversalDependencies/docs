@@ -45,7 +45,7 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 `X` tokens may have the following values of `Abbr`:
 
 * `Yes` (24; 100% of non-empty `Abbr`): <em>GH, AG, max, ș.a.</em>
-* `EMPTY` (1248): <em>ß, jeun, à, T1DM, in, beta, Ca2, of, et, T2DM</em>
+* `EMPTY` (1249): <em>ß, jeun, à, T1DM, in, beta, Ca2, of, et, T2DM</em>
 
 ### `ADJ`
 
@@ -67,7 +67,7 @@ The most frequent other feature values with which `ADP` and `Abbr` co-occurred: 
 `ADP` tokens may have the following values of `Abbr`:
 
 * `Yes` (3; 100% of non-empty `Abbr`): <em>vs.</em>
-* `EMPTY` (20076): <em>de, în, la, cu, din, pentru, prin, pe, dintre, după</em>
+* `EMPTY` (20075): <em>de, în, la, cu, din, pentru, prin, pe, dintre, după</em>
 
 ## Relations with Agreement in `Abbr`
 

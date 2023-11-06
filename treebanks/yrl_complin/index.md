@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.11 release
 The following people have contributed to making this treebank part of UD: Leonel Figueiredo de Alencar.
 
 Repository: [UD_Nheengatu-CompLin](https://github.com/UniversalDependencies/UD_Nheengatu-CompLin)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udyrl_complin212)<br />
-Download all treebanks: [UD 2.12](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udyrl_complin213)<br />
+Download all treebanks: [UD 2.13](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -44,12 +44,12 @@ Do not submit pull requests against the UD repository.
 
 ## Description
 
-The UD_Nheengatu-CompLin is a treebank of [Nheengatu](https://glottolog.org/resource/languoid/id/nhen1239), also known, e.g., as Modern Tupi and *Língua Geral Amazônica*. It comprises sentences from diverse published sources, e.g., grammatical descriptions, fables, coursebooks, and dictionaries.
+The UD_Nheengatu-CompLin is a treebank of [Nheengatu](https://glottolog.org/resource/languoid/id/nhen1239), also known, e.g., as Modern Tupi and *Língua Geral Amazônica*. It comprises sentences from diverse published sources, e.g., grammatical descriptions, fables, myths, coursebooks, and dictionaries.
 
 
 
 
-To our knowledge, this is the first treebank of Nheengatu. It is a work in progress. The initial release only contained a couple hundred sentences. This new release encompasses more than four times this number. We plan to continually expand the resource in the next months.
+To our knowledge, this is the first treebank of Nheengatu. It is a work in progress. The initial release only contained a couple hundred sentences. This new release encompasses more than six times this number. We plan to continually expand the resource in the next months.
 
 The treebank comprises sentences from diverse published sources freely available on the Internet, e.g., grammatical descriptions, fables, coursebooks, and dictionaries. The sentences were either extracted from PDF text files, transcribed from non-searchable (image-only) PDF files, or manually converted to orthography from phonetic transcriptions. Throughout the treebank, we use the spelling system of Navarro (2016), which only contains minor differences from Avila (2021)'s. The annotation was performed semi-automatically, i.e., we applied a Python program to the output of a morphological analyzer, manually revising each automatically annotated sentence.
 
@@ -57,7 +57,7 @@ The development of this treebank and related tools and resources is part of the 
 
 https://github.com/CompLin/nheengatu
 
-So far, the treebank includes examples from Moore, Facundes, and Pires (1994), Casasnovas (2006), Cruz (2011), Comunidade de Terra Preta (2013), Navarro (2016), Alencar (2021), and Avila (2021) as well as from the New Testament (*Novo Testamento na língua Nyengatu*, 1973/2019).
+So far, the treebank includes examples from Magalhães (1876), Rogrigues (1890), Amorim (1928), Moore, Facundes, and Pires (1994), Casasnovas (2006), Cruz (2011), Comunidade de Terra Preta (2013), Stradelli (2014), Navarro (2016), Alencar (2021), and Avila (2021) as well as from the New Testament (*Novo Testamento na língua Nyengatu*, 1973/2019).
 
 ## Acknowledgments
 
@@ -71,15 +71,19 @@ Copyright of the treebank sentences and their translations belongs to their resp
 
 ## References
 
-* Alencar, Leonel Figueiredo de. (2021). Uma gramática computacional de um fragmento do nheengatu / A computational grammar for a fragment of Nheengatu. _Revista de Estudos da Linguagem, 29_(3), 1717-1777. doi:http://dx.doi.org/10.17851/2237-2083.29.3.1717-1777
 * Avila, Marcel Twardowsky.(2021). *Proposta de dicionário nheengatu-português* [Doctoral dissertation, University of São Paulo]. doi:10.11606/T.8.2021.tde-10012022-201925
-* Casasnovas, Afonso. (2016). *Noções de língua geral ou nheengatú: gramática, lendas e vocabulário* (2nd ed.). Editora da Universidade Federal do Amazonas; Faculdade Salesiana Dom Bosco.
+* Casasnovas, Afonso. (2016). *Noções de língua geral ou nheengatú: Gramática, lendas e vocabulário* (2nd ed.). Editora da Universidade Federal do Amazonas; Faculdade Salesiana Dom Bosco.
 * Comunidade de Terra Preta. (2013). *Fábulas de Terra Preta: Uma coletânea bilingüe*.
-* Cruz, Aline da. (2011). *Fonologia e gramática do nheengatú: a língua falada pelos povos Baré, Warekena e Baniwa*. Netherlands National Graduate School of Linguistics.
+* Cruz, Aline da. (2011). *Fonologia e gramática do nheengatú: A língua falada pelos povos Baré, Warekena e Baniwa*. Netherlands National Graduate School of Linguistics.
+* de Alencar, Leonel Figueiredo. (2021). Uma gramática computacional de um fragmento do nheengatu / A computational grammar for a fragment of Nheengatu. _Revista de Estudos da Linguagem, 29_(3), 1717-1777. doi:http://dx.doi.org/10.17851/2237-2083.29.3.1717-1777
+* de Amorim, Antonio Brandão. (1928). Lendas em nheêngatú e em portuguez. *Revista do Instituto Historico e Geographico Brasileiro, 154*(2), 9-475.
+* de Magalhães, J. V. C. (1876). *O selvagem*. Typographia da Reforma.
+* Maslova, Irina. (2018). *Tradução Comentada de Mitos e Lendas Amazônicas do Nheengatu para o Russo*. [Master's Dissertation, University of São Paulo]. doi:10.11606/D.8.2019.tde-22022019-175350
 * Moore, Denny, Facundes, Sidney, & Pires, Nádia. (1994). *Nheengatu (Língua Geral Amazônica), its History, and the Effects of Language Contact*. UC Berkeley: Department of Linguistics. Retrieved from https://escholarship.org/uc/item/7tb981s1
-* Navarro, Eduardo de Almeida. (2016). *Curso de Língua Geral (nheengatu ou tupi moderno): a língua das origens da civilização amazônica* (2nd ed.). Centro Angel Rama da Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo.
+* Navarro, Eduardo de Almeida. (2016). *Curso de Língua Geral (nheengatu ou tupi moderno): A língua das origens da civilização amazônica* (2nd ed.). Centro Angel Rama da Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo.
 * *Novo Testamento na língua Nyengatu* (2nd ed.). (2019). Missão Novas Tribos do Brasil. (Original work published 1973)
-
+* Rodrigues, João Barbosa. (1890). *Poranduba amazonense ou kochiyma-uara porandub, 1872-1887.* Typ. de G. Leuzinger & Filhos.
+* Stradelli, Ermanno. (2014). *Vocabulário português-nheengatu, nheengatu-português*. Ateliê Editorial.(Original work published 1929)
 
 
 # Statistics of UD Nheengatu CompLin
@@ -90,7 +94,7 @@ Copyright of the treebank sentences and their translations belongs to their resp
 
 ## Features
 
-[AdvType](yrl_complin-feat-AdvType.html) – [Aspect](yrl_complin-feat-Aspect.html) – [Case](yrl_complin-feat-Case.html) – [Clitic](yrl_complin-feat-Clitic.html) – [Compound](yrl_complin-feat-Compound.html) – [Definite](yrl_complin-feat-Definite.html) – [Degree](yrl_complin-feat-Degree.html) – [Deixis](yrl_complin-feat-Deixis.html) – [Derivation](yrl_complin-feat-Derivation.html) – [Evident](yrl_complin-feat-Evident.html) – [Foc](yrl_complin-feat-Foc.html) – [Mood](yrl_complin-feat-Mood.html) – [Number](yrl_complin-feat-Number.html) – [Number[grnd]](yrl_complin-feat-Number-grnd.html) – [Number[psor]](yrl_complin-feat-Number-psor.html) – [NumType](yrl_complin-feat-NumType.html) – [PartType](yrl_complin-feat-PartType.html) – [Person](yrl_complin-feat-Person.html) – [Person[grnd]](yrl_complin-feat-Person-grnd.html) – [Person[psor]](yrl_complin-feat-Person-psor.html) – [Polarity](yrl_complin-feat-Polarity.html) – [Poss](yrl_complin-feat-Poss.html) – [PronType](yrl_complin-feat-PronType.html) – [PunctType](yrl_complin-feat-PunctType.html) – [Red](yrl_complin-feat-Red.html) – [Rel](yrl_complin-feat-Rel.html) – [Tense](yrl_complin-feat-Tense.html) – [VerbForm](yrl_complin-feat-VerbForm.html)
+[AdvType](yrl_complin-feat-AdvType.html) – [Aspect](yrl_complin-feat-Aspect.html) – [Case](yrl_complin-feat-Case.html) – [Clitic](yrl_complin-feat-Clitic.html) – [Compound](yrl_complin-feat-Compound.html) – [Definite](yrl_complin-feat-Definite.html) – [Degree](yrl_complin-feat-Degree.html) – [Deixis](yrl_complin-feat-Deixis.html) – [Derivation](yrl_complin-feat-Derivation.html) – [Evident](yrl_complin-feat-Evident.html) – [Foc](yrl_complin-feat-Foc.html) – [Mood](yrl_complin-feat-Mood.html) – [Number](yrl_complin-feat-Number.html) – [Number[grnd]](yrl_complin-feat-Number-grnd.html) – [Number[psor]](yrl_complin-feat-Number-psor.html) – [NumType](yrl_complin-feat-NumType.html) – [PartType](yrl_complin-feat-PartType.html) – [Person](yrl_complin-feat-Person.html) – [Person[grnd]](yrl_complin-feat-Person-grnd.html) – [Person[psor]](yrl_complin-feat-Person-psor.html) – [Polarity](yrl_complin-feat-Polarity.html) – [Poss](yrl_complin-feat-Poss.html) – [PronType](yrl_complin-feat-PronType.html) – [PunctType](yrl_complin-feat-PunctType.html) – [Red](yrl_complin-feat-Red.html) – [Rel](yrl_complin-feat-Rel.html) – [Style](yrl_complin-feat-Style.html) – [Tense](yrl_complin-feat-Tense.html) – [VerbForm](yrl_complin-feat-VerbForm.html) – [Voice](yrl_complin-feat-Voice.html)
 
 ## Relations
 
@@ -100,11 +104,11 @@ Copyright of the treebank sentences and their translations belongs to their resp
 
 
 <ul>
-<li>This corpus contains 860 sentences, 8530 tokens and 8604 syntactic words.</li>
+<li>This corpus contains 1239 sentences, 12621 tokens and 12743 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 2384 tokens (28%) that are not followed by a space.</li>
+<li>This corpus contains 3529 tokens (28%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -112,12 +116,12 @@ Copyright of the treebank sentences and their translations belongs to their resp
 </ul>
 
 <ul>
-<li>This corpus contains 108 types of words that contain both letters and punctuation. Examples: waá-itá, kwá-itá, apigawa-itá, mira-itá, amú-itá, anama-itá, kunhã-itá, nhaã-itá, maã-itá, pindá-itá, rundewara-itá, taína-itá, Pirá-itá, mirá-itá, raíra-itá, tayera-itá, amú-tetamawara, iwá-itá, kariwa-itá, kurasí-ara, kurumĩ-itá, kurupira-itá, makú-itá, mimbira-itá, mú-itá, pituna-pisayé, pura-itá, rikusawa-itá, rimirikú-itá, sera-rakapira, taíra-itá, uka-itá, Adana-ima, Aziawara-itá, Caru-Cupy, Itá-itá, Tupana-itá, Tuyué-itá, Waimĩ-itá, Wanana-itá, akayú-itá, amú-wirandé, apekatuwara-itá, apewara-itá, apisá-kwara, ara-ima, arara-maniiwa, arawara-itá, awa-itá, família-itá</li>
+<li>This corpus contains 131 types of words that contain both letters and punctuation. Examples: waá-itá, kwá-itá, mira-itá, apigawa-itá, kunhã-itá, amú-itá, anama-itá, taína-itá, maã-itá, nhaã-itá, pindá-itá, raíra-itá, rundewara-itá, Pirá-itá, kunhamukú-itá, mirá-itá, mú-itá, taria-itá, tayera-itá, taíra-itá, amú-tetamawara, amú-wirandé, arú-itá, ikewara-itá, iwá-itá, kariwa-itá, kurasí-ara, kurumiwasú-itá, kurumĩ-itá, kurupira-itá, kuẽma-piranga, makú-itá, mbira-itá, mimbira-itá, nheenga-itá, pituna-pisayé, pituna-pukú, pura-itá, rikusawa-itá, rimirikú-itá, ruayana-itá, sakanga-itá, sera-rakapira, suiwara-itá, suú-itá, tuyué-itá, uka-itá, wanana-itá, wirá-itá, yepé-yepé</li>
 </ul>
 
 <ul>
-<li>This corpus contains 74 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 55 types of multi-word tokens. Examples: maita, asú-putari, kupixá-pe, uyuká-putari, Ukiririntu, asú-kwáu, iwí-pe, rumasá-pe, rupitá-pe, usú-putari, Amaã-putari, Amaãntu, Apurakí-putari, Ayuíri-putari, Resú-putari, Reumpuka-putari, amupuka-kwáu, apitimú-kwáu, awatá-kwáu, gantime, ipí-pe, kaá-pe, kitintu, paraname, pemaãntu, piá-pe, putiá-pe, rembií-pe, resú-kwáu, reyumú-kwáu, reyuri-putari, sapekwerantu, sikantá-pe, tatatingantu, tatá-pe, tintu, ugananintu, ukiri-kwáu, ukwáu-putari, umurí-kwáu, umuseẽ-kwáu, upisika-putari, upituú-kwáu, uri-putari, usaka-kwáu, usasá-kwáu, usemu-kwáu, uwatá-kwáu, uwatá-putari, uyuká-kwáu.</li>
+<li>This corpus contains 122 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 86 types of multi-word tokens. Examples: maita, asú-putari, asú-kwáu, iwí-pe, kupixá-pe, uyuká-putari, Ukiririntu, ambaú-putari, ipí-pe, kaá-pe, paraname, resú-putari, ripí-pe, rumasá-pe, rupitá-pe, ukwáu-putari, usú-putari, uwatá-kwáu, Amaã-putari, Amaãntu, Amunhã-kari, Apiripana-putari, Apituú-putari, Apurakí-putari, Asenúi-kari, Ayuíri-putari, Igarapé-pe, Indé-ta, Marã-ta, Rekiri-putari, Remukaturu-kari, Reumpuka-putari, Yamunhã-putari, amupuka-kwáu, apisika-kwáu, apitimú-kwáu, apurungitá-putari, awatá-kwáu, gantime, garapá-pe, katuntu, kitintu, kupé-pe, pemaãntu, pemukanhemu-kwáu, piá-pe, putiá-pe, rasú-kwáu, rembií-pe, remunhã-kari.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -130,23 +134,23 @@ Copyright of the treebank sentences and their translations belongs to their resp
 </ul>
 
 <ul>
-<li>This corpus contains 33 word types tagged as particles (PART): Eẽ, aikwewara, aikwé, ana, arama, arã, ba, eré, ku, kurí, kwera, maã, nti, nẽ, pawa, paá, presizu, pu, rã, será, supí, taá, te, tenki, ti, té, tẽ, umbaá, wana, wã, xukúi, yepé, ã</li>
+<li>This corpus contains 41 word types tagged as particles (PART): Eẽ, Kusukúi, aikwewara, aikwé, ana, arama, arã, ba, eré, intí, ipú, katú, ku, kurí, kwera, maã, nti, nẽ, pawa, paá, presizu, pu, pá, rã, será, supí, ta, taá, te, tenhẽ, tenki, tenupá, ti, té, tẽ, umbaá, wana, wã, xukúi, yepé, ã</li>
 </ul>
 
 <ul>
-<li>This corpus contains 28 lemmas tagged as pronouns (PRON): aintá, aité, amú, awá, aé, i, indé, ixé, kwá, manungara, maã, muíri, ne, nhaã, panhẽ, pawa, pe, penhé, penhẽ, se, siiya, siya, ta, tá, waá, yandé, yané, yepé</li>
+<li>This corpus contains 29 lemmas tagged as pronouns (PRON): aintá, aité, amú, awá, aé, i, indé, ixé, kwaá, kwá, manungara, maã, muiriira, muíri, ne, nhaã, panhẽ, pe, penhẽ, se, siiya, siya, ta, tá, waá, yandé, yané, yepé, yepé-yepé</li>
 </ul>
 
 <ul>
-<li>This corpus contains 17 lemmas tagged as determiners (DET): aité, amú, awá, aé, kwaá, kwá, maã, muíri, nhaã, panhẽ, pawa, setá, siiya, siya, siía, turusú, yepé</li>
+<li>This corpus contains 19 lemmas tagged as determiners (DET): aité, amú, awá, aé, kwaá, kwá, maã, muíri, nhaã, panhẽ, setá, siiya, siya, siía, turusú, upaĩ, yawé, yepé, yepé-yepé</li>
 </ul>
 
 <ul>
-<li>Out of the above, 13 lemmas occurred sometimes as PRON and sometimes as DET: aité, amú, awá, aé, kwá, maã, muíri, nhaã, panhẽ, pawa, siiya, siya, yepé</li>
+<li>Out of the above, 14 lemmas occurred sometimes as PRON and sometimes as DET: aité, amú, awá, aé, kwaá, kwá, maã, muíri, nhaã, panhẽ, siiya, siya, yepé, yepé-yepé</li>
 </ul>
 
 <ul>
-<li>This corpus contains 6 lemmas tagged as auxiliaries (AUX): ikú, kwáu, puderi, putari, sú, yuíri</li>
+<li>This corpus contains 7 lemmas tagged as auxiliaries (AUX): ikú, kari, kwáu, puderi, putari, sú, yuíri</li>
 </ul>
 
 <ul>
@@ -160,8 +164,8 @@ Copyright of the treebank sentences and their translations belongs to their resp
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: uikú, usú, asú, aikú, yasú, upuderi, yaikú, pesú, reikú, resú</li>
-    <li>VERB: usika, umaã, unheẽ, usú, umunhã, umbeú, upisika, urikú, uri, upitá</li>
+    <li>AUX: uikú, usú, aikú, asú, yasú, upuderi, yaikú, pesú, reikú, uputari</li>
+    <li>VERB: unheẽ, usika, usú, umaã, umunhã, urikú, umbeú, upitá, upisika, uri</li>
   </ul>
   </li>
 </ul>
@@ -169,8 +173,8 @@ Copyright of the treebank sentences and their translations belongs to their resp
 <ul>
   <li>Inf
   <ul>
-    <li>AUX: kwáu, putari</li>
-    <li>VERB: mukaẽ, suruka, umpinima</li>
+    <li>AUX: putari, kwáu</li>
+    <li>VERB: rasú, mukaẽ, mundú, sendú, suruka, wari, yatiri, renúi, ripiaka</li>
   </ul>
   </li>
 </ul>
@@ -187,11 +191,11 @@ Copyright of the treebank sentences and their translations belongs to their resp
 <ul>
   <li>Plur
     <ul>
-      <li>AUX-Fin: yasú, yaikú, pesú, yapuderi, peikú, yayuíri</li>
+      <li>AUX-Fin: yasú, yaikú, pesú, yapuderi, Pekũi, Pepuderi, peikú, yayuíri</li>
       <li>DET: kwá-itá, amú-itá, nhaã-itá</li>
-      <li>NOUN: apigawa-itá, mira-itá, anama-itá, kunhã-itá, maã-itá, pindá-itá, taína-itá, Pirá-itá, mirá-itá, iwá-itá</li>
-      <li>PRON: aintá, ta, yané, waá-itá, yandé, pe, penhẽ, amú-itá, kwá-itá, nhaã-itá</li>
-      <li>VERB-Fin: yamaã, yamunhã, taunheẽ, yaú, pemaã, yasú, pembeú, pemunhã, pesendú, peú</li>
+      <li>NOUN: mira-itá, apigawa-itá, kunhã-itá, anama-itá, taína-itá, maã-itá, pindá-itá, Pirá-itá, kunhamukú-itá, mirá-itá</li>
+      <li>PRON: aintá, yané, ta, waá-itá, yandé, penhẽ, pe, kwá-itá, amú-itá, nhaã-itá</li>
+      <li>VERB-Fin: yamunhã, yamaã, yasú, yaú, taunheẽ, pemaã, pemunhã, peú, yambaú, pembeú</li>
     </ul>
   </li>
 </ul>
@@ -199,11 +203,11 @@ Copyright of the treebank sentences and their translations belongs to their resp
 <ul>
   <li>Sing
     <ul>
-      <li>AUX-Fin: asú, aikú, reikú, resú, aputari, Repuderi, apuderi, ayuíri, rekwáu, reputari</li>
+      <li>AUX-Fin: aikú, asú, reikú, resú, aputari, Repuderi, apuderi, ayuíri, rekwáu, reputari</li>
       <li>DET: kwá, nhaã, amú, kwaá</li>
-      <li>NOUN: ara, igara, manha, mira, kunhã, apigawa, pituna, nheenga, pirá, itá</li>
-      <li>PRON: i, se, waá, aé, indé, ixé, ne, kwá, nhaã, amú</li>
-      <li>VERB-Fin: asú, reputari, ambeú, akwáu, surí, aputari, resú, amaã, amunhã, ayuíri</li>
+      <li>NOUN: ara, mira, igara, manha, apigawa, pituna, kunhã, yautí, paraná, pirá</li>
+      <li>PRON: i, waá, se, aé, ixé, indé, ne, kwá, nhaã, amú</li>
+      <li>VERB-Fin: asú, reputari, amunhã, akwáu, amaã, ambeú, remaã, resú, surí, aputari</li>
     </ul>
   </li>
 </ul>
@@ -215,7 +219,7 @@ Copyright of the treebank sentences and their translations belongs to their resp
 <ul>
   <li>Gen
     <ul>
-      <li>PRON: i, se, aintá, ne, yané, pe, ta, tá</li>
+      <li>PRON: i, se, ne, aintá, yané, pe, ta, tá</li>
     </ul>
   </li>
 </ul>
@@ -244,7 +248,7 @@ Copyright of the treebank sentences and their translations belongs to their resp
 <ul>
   <li>Aug
     <ul>
-      <li>NOUN: mirawasú, miráwasú, amanawasú, awawasú, buyawasú, irusangawasú, itapewawasú, mirá-itawasú, riputiwasú, tatatingawasú</li>
+      <li>NOUN: buyawasú, mirawasú, miráwasú, amanawasú, awawasú, irusangawasú, itapewawasú, kavernawasú, marikawasú, mirá-itawasú</li>
     </ul>
   </li>
 </ul>
@@ -253,6 +257,15 @@ Copyright of the treebank sentences and their translations belongs to their resp
   <li>Cmp
     <ul>
       <li>ADV: piri</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Dim
+    <ul>
+      <li>ADJ: purangamirĩ</li>
+      <li>NOUN: makakaí</li>
     </ul>
   </li>
 </ul>
@@ -272,7 +285,7 @@ Copyright of the treebank sentences and their translations belongs to their resp
 <ul>
   <li>Neg
     <ul>
-      <li>PART: ti, te, nti, umbaá, nẽ</li>
+      <li>PART: ti, te, nti, intí, umbaá, nẽ, tenhẽ</li>
     </ul>
   </li>
 </ul>
@@ -294,9 +307,17 @@ Copyright of the treebank sentences and their translations belongs to their resp
 </ul>
 
 <ul>
+  <li>Compl
+    <ul>
+      <li>PART: pawa, pá</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Freq
     <ul>
-      <li>ADV: Ikewara, kwayewara, sewara, yawewara</li>
+      <li>ADV: Asuiwara, Ikewara, kwayewara, sewara, yawewara</li>
       <li>AUX-Fin: uikuwera</li>
       <li>NOUN: arawara, rukawara</li>
       <li>PART: aikwewara</li>
@@ -317,7 +338,7 @@ Copyright of the treebank sentences and their translations belongs to their resp
   <li>Hab
     <ul>
       <li>SCONJ: rametiwa</li>
-      <li>VERB-Fin: ambautiwa, ukanhemutiwa, usutiwa, uyukatiwa</li>
+      <li>VERB-Fin: ambautiwa, ukanhemutiwa, upurungitatiwa, usutiwa, uyukatiwa</li>
     </ul>
   </li>
 </ul>
@@ -333,7 +354,7 @@ Copyright of the treebank sentences and their translations belongs to their resp
 <ul>
   <li>Perf
     <ul>
-      <li>PART: ana, ã, wana, wã</li>
+      <li>PART: ana, ã, wã, wana</li>
     </ul>
   </li>
 </ul>
@@ -353,7 +374,9 @@ Copyright of the treebank sentences and their translations belongs to their resp
 <ul>
   <li>Imp
     <ul>
-      <li>PART: te</li>
+      <li>AUX-Fin: Pekũi</li>
+      <li>PART: te, tenhẽ</li>
+      <li>VERB-Fin: yuri</li>
     </ul>
   </li>
 </ul>
@@ -365,7 +388,7 @@ Copyright of the treebank sentences and their translations belongs to their resp
 <ul>
   <li>Fut
     <ul>
-      <li>PART: kurí, arã, arama, ku, rã</li>
+      <li>PART: kurí, arama, arã, ku, rã</li>
     </ul>
   </li>
 </ul>
@@ -383,7 +406,7 @@ Copyright of the treebank sentences and their translations belongs to their resp
 <ul>
   <li>Pres
     <ul>
-      <li>ADV: Ikewara, kwayewara, sewara, yawewara</li>
+      <li>ADV: Asuiwara, Ikewara, kwayewara, sewara, yawewara</li>
       <li>NOUN: arawara, rukawara</li>
       <li>PART: aikwewara</li>
       <li>VERB-Fin: Amanduariwara, Asuwara</li>
@@ -391,6 +414,17 @@ Copyright of the treebank sentences and their translations belongs to their resp
   </li>
 </ul>
 
+<ul>
+  <li><a>Voice</a></li>
+</ul>
+
+<ul>
+  <li>Pass
+    <ul>
+      <li>VERB-Fin: Uyupurungitá, uyumunhã, uyumusangawa</li>
+    </ul>
+  </li>
+</ul>
 
 <ul>
   <li><a>Evident</a></li>
@@ -423,9 +457,9 @@ Copyright of the treebank sentences and their translations belongs to their resp
 <ul>
   <li>Dem
     <ul>
-      <li>ADV: iké, ape, akití, kwá, aape, Mimi, Ikewara</li>
+      <li>ADV: iké, ape, kwá, akití, Mimi, aape, kí, Ikewara</li>
       <li>DET: kwá, nhaã, kwá-itá, aé, kwaá, nhaã-itá</li>
-      <li>PRON: kwá, nhaã, kwá-itá, nhaã-itá, aé</li>
+      <li>PRON: kwá, nhaã, kwá-itá, nhaã-itá, Kwaá, aé</li>
     </ul>
   </li>
 </ul>
@@ -442,9 +476,9 @@ Copyright of the treebank sentences and their translations belongs to their resp
 <ul>
   <li>Ind
     <ul>
-      <li>ADV: mairamé</li>
-      <li>DET: amú, setá, siiya, siía, muíri, turusú, siya, yepé-yepé, amú-itá</li>
-      <li>PRON: maã, awá, amú, amú-itá, manungara, siiya, siya</li>
+      <li>ADV: mairamé, makití, masuí, marupí</li>
+      <li>DET: amú, muíri, siiya, siía, maã, setá, yawé, turusú, siya, yepé-yepé</li>
+      <li>PRON: maã, awá, amú, amú-itá, manungara, siiya, siya, muiriira, yepé-yepé</li>
     </ul>
   </li>
 </ul>
@@ -452,9 +486,9 @@ Copyright of the treebank sentences and their translations belongs to their resp
 <ul>
   <li>Int
     <ul>
-      <li>ADV: mayé, mamé, makití, maita, marupí, marama, masuí, mairamé, marã, mayesawa</li>
-      <li>DET: Maã, awá, muíri</li>
-      <li>PRON: awá, maã, Muíri</li>
+      <li>ADV: mayé, mamé, makití, marupí, maita, marama, masuí, mairamé, marã, mayawé</li>
+      <li>DET: muíri, Maã, awá</li>
+      <li>PRON: maã, awá, Muíri</li>
     </ul>
   </li>
 </ul>
@@ -462,7 +496,7 @@ Copyright of the treebank sentences and their translations belongs to their resp
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: aintá, i, se, aé, indé, ixé, ne, ta, yané, yandé</li>
+      <li>PRON: aintá, i, se, aé, ixé, indé, ne, yané, ta, yandé</li>
     </ul>
   </li>
 </ul>
@@ -470,8 +504,8 @@ Copyright of the treebank sentences and their translations belongs to their resp
 <ul>
   <li>Rel
     <ul>
-      <li>ADV: makití, mamé, mayé, masuí, waá, mairamé, marupí</li>
-      <li>PRON: waá, waá-itá, maã</li>
+      <li>ADV: mamé, makití, masuí, mayé, marupí, mairamé</li>
+      <li>PRON: waá, waá-itá, awá, maã</li>
     </ul>
   </li>
 </ul>
@@ -479,8 +513,8 @@ Copyright of the treebank sentences and their translations belongs to their resp
 <ul>
   <li>Tot
     <ul>
-      <li>DET: panhẽ, muíri, pawa</li>
-      <li>PRON: panhẽ, pawa</li>
+      <li>DET: panhẽ, muíri, upaĩ</li>
+      <li>PRON: panhẽ, muíri</li>
     </ul>
   </li>
 </ul>
@@ -492,7 +526,7 @@ Copyright of the treebank sentences and their translations belongs to their resp
 <ul>
   <li>Card
     <ul>
-      <li>NUM: mukũi, musapiri, yepé, nove</li>
+      <li>NUM: mukũi, musapiri, yepé, nove, pú-mukũi</li>
     </ul>
   </li>
 </ul>
@@ -512,7 +546,7 @@ Copyright of the treebank sentences and their translations belongs to their resp
 <ul>
   <li>Yes
     <ul>
-      <li>PRON: se, i, ne, aintá, yané, ta, pe</li>
+      <li>PRON: se, i, ne, yané, aintá, pe, ta</li>
     </ul>
   </li>
 </ul>
@@ -525,9 +559,9 @@ Copyright of the treebank sentences and their translations belongs to their resp
 <ul>
   <li>1
     <ul>
-      <li>AUX-Fin: asú, aikú, yasú, yaikú, yapuderi, aputari, apuderi, ayuíri, yayuíri</li>
+      <li>AUX-Fin: aikú, asú, yasú, yaikú, yapuderi, aputari, apuderi, ayuíri, yayuíri</li>
       <li>PRON: se, ixé, yané, yandé</li>
-      <li>VERB-Fin: asú, ambeú, akwáu, aputari, yamaã, amaã, amunhã, ayuíri, yamunhã, yaú</li>
+      <li>VERB-Fin: asú, yamunhã, amunhã, akwáu, amaã, ambeú, yamaã, aputari, ayuíri, yasú</li>
     </ul>
   </li>
 </ul>
@@ -535,9 +569,9 @@ Copyright of the treebank sentences and their translations belongs to their resp
 <ul>
   <li>2
     <ul>
-      <li>AUX-Fin: pesú, reikú, resú, Repuderi, peikú, rekwáu, reputari</li>
-      <li>PRON: indé, ne, pe, penhẽ</li>
-      <li>VERB-Fin: reputari, resú, reyuri, remaã, rerikú, pemaã, rembeú, remundú, remunhã, remurari</li>
+      <li>AUX-Fin: pesú, reikú, resú, Pekũi, Pepuderi, Repuderi, peikú, rekwáu, reputari</li>
+      <li>PRON: indé, ne, penhẽ, pe</li>
+      <li>VERB-Fin: reputari, remaã, resú, remunhã, rerikú, reyuri, remundú, pemaã, pemunhã, rembeú</li>
     </ul>
   </li>
 </ul>
@@ -547,7 +581,7 @@ Copyright of the treebank sentences and their translations belongs to their resp
     <ul>
       <li>AUX-Fin: uikú, usú, upuderi, uputari, uikuwera</li>
       <li>PRON: aintá, i, aé, ta, tá</li>
-      <li>VERB-Fin: usika, umaã, unheẽ, usú, umunhã, umbeú, upisika, urikú, uri, upitá</li>
+      <li>VERB-Fin: unheẽ, usika, usú, umaã, umunhã, urikú, umbeú, upitá, upisika, uri</li>
     </ul>
   </li>
 </ul>
@@ -561,7 +595,7 @@ Copyright of the treebank sentences and their translations belongs to their resp
 <ul>
   <li>Sing
     <ul>
-      <li>NOUN: sera, suka, sesá, sumuara, sawa, suíwa, sakakwera, sesewara, ximiara, Ximirikú</li>
+      <li>NOUN: sera, suka, ximirikú, sawa, sesá, sukwera, sumuara, suíwa, sakakwera, sesewara</li>
     </ul>
   </li>
 </ul>
@@ -574,32 +608,37 @@ Copyright of the treebank sentences and their translations belongs to their resp
     <ul>
       <li>Cau
         <ul>
-          <li>ADV: nhaãsé, aresé, marama, ape, Ma, aramé, marã</li>
+          <li>ADV: nhaãsé, ape, aresé, aramé, kurumú, marama, marã</li>
+        </ul>
+      </li>
+      <li>Con
+        <ul>
+          <li>ADV: Ma, nuká</li>
         </ul>
       </li>
       <li>Deg
         <ul>
-          <li>ADV: piri, reté, katú, retana, xinga</li>
+          <li>ADV: katú, reté, piri, retana, xinga, puru, mirĩ, retã, ité</li>
         </ul>
       </li>
       <li>Loc
         <ul>
-          <li>ADV: iké, mamé, makití, marupí, masuí, ape, apekatú, mikití, kwá, akití</li>
+          <li>ADV: iké, apekatú, mamé, ape, makití, marupí, masuí, kwá, akití, mikití</li>
         </ul>
       </li>
       <li>Man
         <ul>
-          <li>ADV: yawé, mayé, puranga, kutara, maita, puxí, kirimbawa, sé, tiapú, merupí</li>
+          <li>ADV: yawé, mayé, kwayé, puranga, kutara, kirimbawa, puxí, satambika, sé, kwayentu</li>
         </ul>
       </li>
       <li>Mod
         <ul>
-          <li>ADV: kuité</li>
+          <li>ADV: kuité, kuté</li>
         </ul>
       </li>
       <li>Tim
         <ul>
-          <li>ADV: asuí, aramé, ariré, aiwana, kuité, kuíri, Aiwã, wirandé, mairamé, rẽ</li>
+          <li>ADV: asuí, kuíri, rẽ, aramé, wirandé, ariré, kuxiíma, aiwana, kuité, yeperesé</li>
         </ul>
       </li>
     </ul>
@@ -613,7 +652,7 @@ Copyright of the treebank sentences and their translations belongs to their resp
         <ul>
           <li>ADP: pe, me</li>
           <li>ADV: ntu</li>
-          <li>PART: taá</li>
+          <li>PART: taá, ta</li>
         </ul>
       </li>
     </ul>
@@ -625,7 +664,8 @@ Copyright of the treebank sentences and their translations belongs to their resp
     <ul>
       <li>Yes
         <ul>
-          <li>AUX-Inf: kwáu, putari</li>
+          <li>AUX: putari, kwáu, kari</li>
+          <li>AUX-Inf: putari, kwáu</li>
         </ul>
       </li>
     </ul>
@@ -637,9 +677,9 @@ Copyright of the treebank sentences and their translations belongs to their resp
     <ul>
       <li>Prox
         <ul>
-          <li>ADV: iké, kwá, ape</li>
+          <li>ADV: iké, kwá, kí</li>
           <li>DET: kwá, kwá-itá, kwaá</li>
-          <li>PRON: kwá, kwá-itá</li>
+          <li>PRON: kwá, kwá-itá, Kwaá</li>
         </ul>
       </li>
       <li>Remt
@@ -663,7 +703,8 @@ Copyright of the treebank sentences and their translations belongs to their resp
       </li>
       <li>Priv
         <ul>
-          <li>ADJ: Adana-ima, ara-ima, kiinha-ima, sawa-ima, tĩ-ima, ximirikú-ima</li>
+          <li>ADJ: Adana-ima, ara-ima, kiinha-ima, santaíma, sawa-ima, tĩ-ima, ximirikú-ima</li>
+          <li>VERB: kiaíma</li>
         </ul>
       </li>
     </ul>
@@ -675,7 +716,7 @@ Copyright of the treebank sentences and their translations belongs to their resp
     <ul>
       <li>Yes
         <ul>
-          <li>PART: tẽ, té</li>
+          <li>PART: tẽ, tenhẽ, katú, té</li>
         </ul>
       </li>
     </ul>
@@ -699,7 +740,7 @@ Copyright of the treebank sentences and their translations belongs to their resp
     <ul>
       <li>Emp
         <ul>
-          <li>PART: tẽ, té</li>
+          <li>PART: tẽ, tenhẽ, katú, té</li>
         </ul>
       </li>
       <li>Exs
@@ -709,22 +750,22 @@ Copyright of the treebank sentences and their translations belongs to their resp
       </li>
       <li>Int
         <ul>
-          <li>PART: taá, será</li>
+          <li>PART: taá, será, ta</li>
         </ul>
       </li>
       <li>Mod
         <ul>
-          <li>PART: paá, pu, supí, maã, eré, tenki, presizu, ba</li>
+          <li>PART: paá, pu, supí, maã, eré, tenki, tenupá, presizu, ba, ipú</li>
         </ul>
       </li>
       <li>Neg
         <ul>
-          <li>PART: ti, te, nti, umbaá, nẽ</li>
+          <li>PART: ti, te, nti, intí, umbaá, nẽ, tenhẽ</li>
         </ul>
       </li>
       <li>Prs
         <ul>
-          <li>PART: xukúi</li>
+          <li>PART: xukúi, Kusukúi</li>
         </ul>
       </li>
     </ul>
@@ -748,7 +789,7 @@ Copyright of the treebank sentences and their translations belongs to their resp
     <ul>
       <li>3
         <ul>
-          <li>NOUN: sera, suka, sesá, sumuara, sawa, suíwa, sakakwera, sesewara, ximiara, Ximirikú</li>
+          <li>NOUN: sera, suka, ximirikú, sawa, sesá, sukwera, sumuara, suíwa, sakakwera, sesewara</li>
         </ul>
       </li>
     </ul>
@@ -772,7 +813,7 @@ Copyright of the treebank sentences and their translations belongs to their resp
     <ul>
       <li>Yes
         <ul>
-          <li>VERB-Fin: ukaúkaú</li>
+          <li>VERB-Fin: Akaá-kaá, Tasuú-suú, ukaúkaú</li>
         </ul>
       </li>
     </ul>
@@ -784,22 +825,42 @@ Copyright of the treebank sentences and their translations belongs to their resp
     <ul>
       <li>Abs
         <ul>
-          <li>NOUN: tatá, uka, tetama, timbiú, peé, tuixawa, tendawa, pé, sangawa, supiara</li>
+          <li>NOUN: uka, tatá, tetama, timbiú, tuixawa, tendawa, peé, pé, teapú, tuwí</li>
         </ul>
       </li>
       <li>Cont
         <ul>
-          <li>ADP: resé, resewara, ruakí, rakakwera, ruaxara</li>
-          <li>NOUN: ruka, ramunha, raíra, rera, resá, retama, ruixawa, rendawa, resewara, rundewara-itá</li>
-          <li>SCONJ: resewara, renundé</li>
-          <li>VERB: rurí, rakú, ranhẽ, rawa</li>
+          <li>ADP: resé, resewara, ruakí, rakakwera, rikuyara, renundé, ruaxara</li>
+          <li>NOUN: ruka, ramunha, rapé, raíra, riiya, retama, raínha, rangawa, rera, resá</li>
+          <li>SCONJ: resewara</li>
+          <li>VERB: rurí, rakú, ranhẽ, rawa, resarái, rikwé, renúi, ripiaka</li>
+          <li>VERB-Inf: renúi, ripiaka</li>
         </ul>
       </li>
       <li>NCont
         <ul>
           <li>ADP: sesé, suakí, sakakwera, sesewara, suaxara</li>
-          <li>NOUN: sera, suka, sesá, sumuara, sawa, suíwa, sakakwera, sesewara, tayera-itá, ximiara</li>
-          <li>VERB-Fin: surí, sakú, sasí, sesaíma, tipí, setá, sikwé, Ikupukú, Tiapú, sawa</li>
+          <li>NOUN: sera, suka, ximirikú, sawa, sesá, sukwera, sumuara, suíwa, sakakwera, sesewara</li>
+          <li>VERB-Fin: surí, sakú, sasí, tiapú, sesaíma, setá, tipí, sawa, sikwé, Ikupukú</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Style</a>
+    <ul>
+      <li>Arch
+        <ul>
+          <li>NOUN: uka, ukena</li>
+          <li>PRON: aé, penhẽ, yandé</li>
+          <li>VERB-Inf: renúi, ripiaka</li>
+        </ul>
+      </li>
+      <li>Rare
+        <ul>
+          <li>NOUN: Yukasara</li>
         </ul>
       </li>
     </ul>
@@ -815,7 +876,7 @@ Copyright of the treebank sentences and their translations belongs to their resp
 </ul>
 
 <ul>
-<li>This corpus uses 6 lemmas as auxiliaries (<a>aux</a>). Examples: sú, ikú, putari, kwáu, puderi, yuíri.</li>
+<li>This corpus uses 7 lemmas as auxiliaries (<a>aux</a>). Examples: sú, ikú, putari, kwáu, puderi, kari, yuíri.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -824,13 +885,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (13)</li>
-      <li>VERB--PRON (16)</li>
-      <li>VERB--PRON-Gen (25)</li>
-      <li>VERB-Fin--NOUN (262)</li>
-      <li>VERB-Fin--PRON (324)</li>
-      <li>VERB-Inf--NOUN (1)</li>
-      <li>VERB-Inf--PRON (1)</li>
+      <li>VERB--NOUN (20)</li>
+      <li>VERB--PRON (20)</li>
+      <li>VERB--PRON-Gen (36)</li>
+      <li>VERB-Fin--NOUN (417)</li>
+      <li>VERB-Fin--PRON (441)</li>
+      <li>VERB-Inf--NOUN (4)</li>
+      <li>VERB-Inf--PRON (3)</li>
     </ul>
   </li>
 </ul>
@@ -838,10 +899,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (335)</li>
+      <li>VERB-Fin--NOUN (483)</li>
       <li>VERB-Fin--NOUN-ADP(resé) (2)</li>
-      <li>VERB-Fin--PRON (164)</li>
+      <li>VERB-Fin--PRON (250)</li>
+      <li>VERB-Fin--PRON-Gen (1)</li>
       <li>VERB-Fin--PRON-Gen-ADP(irumu) (1)</li>
+      <li>VERB-Inf--PRON-Gen (6)</li>
     </ul>
   </li>
 </ul>
@@ -851,15 +914,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB-Fin--NOUN (1)</li>
       <li>VERB-Fin--NOUN-ADP(irumu) (1)</li>
-      <li>VERB-Fin--NOUN-ADP(supé) (10)</li>
+      <li>VERB-Fin--NOUN-ADP(supé) (20)</li>
       <li>VERB-Fin--NOUN-ADP(suí) (2)</li>
-      <li>VERB-Fin--NOUN-ADP(xupé)-ADP(arama) (1)</li>
-      <li>VERB-Fin--PRON (2)</li>
-      <li>VERB-Fin--PRON-ADP(arama) (10)</li>
+      <li>VERB-Fin--NOUN-ADP(xupé)-ADP(arama) (2)</li>
+      <li>VERB-Fin--PRON (1)</li>
+      <li>VERB-Fin--PRON-ADP(arama) (13)</li>
       <li>VERB-Fin--PRON-ADP(arã) (4)</li>
-      <li>VERB-Fin--PRON-Gen-ADP(supé) (7)</li>
-      <li>VERB-Fin--PRON-Gen-ADP(suí) (2)</li>
-      <li>VERB-Fin--PRON-Gen-ADP(xupé) (15)</li>
+      <li>VERB-Fin--PRON-ADP(supé) (1)</li>
+      <li>VERB-Fin--PRON-ADP(supé)-ADP(arama) (1)</li>
+      <li>VERB-Fin--PRON-Gen-ADP(supé) (10)</li>
+      <li>VERB-Fin--PRON-Gen-ADP(xupé) (25)</li>
     </ul>
   </li>
 </ul>

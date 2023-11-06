@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Héctor Martínez Alonso, Daniel Zeman.
 
 Repository: [UD_Spanish-AnCora](https://github.com/UniversalDependencies/UD_Spanish-AnCora)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udes_ancora212)<br />
-Download all treebanks: [UD 2.12](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udes_ancora213)<br />
+Download all treebanks: [UD 2.13](/#download)
 
 License: CC BY 4.0
 
@@ -93,17 +93,17 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
 
 ## Relations
 
-[acl](es_ancora-dep-acl.html) – [acl:relcl](es_ancora-dep-acl-relcl.html) – [advcl](es_ancora-dep-advcl.html) – [advmod](es_ancora-dep-advmod.html) – [amod](es_ancora-dep-amod.html) – [appos](es_ancora-dep-appos.html) – [aux](es_ancora-dep-aux.html) – [aux:pass](es_ancora-dep-aux-pass.html) – [case](es_ancora-dep-case.html) – [cc](es_ancora-dep-cc.html) – [ccomp](es_ancora-dep-ccomp.html) – [compound](es_ancora-dep-compound.html) – [conj](es_ancora-dep-conj.html) – [cop](es_ancora-dep-cop.html) – [csubj](es_ancora-dep-csubj.html) – [csubj:pass](es_ancora-dep-csubj-pass.html) – [dep](es_ancora-dep-dep.html) – [det](es_ancora-dep-det.html) – [discourse](es_ancora-dep-discourse.html) – [expl](es_ancora-dep-expl.html) – [expl:impers](es_ancora-dep-expl-impers.html) – [expl:pass](es_ancora-dep-expl-pass.html) – [expl:pv](es_ancora-dep-expl-pv.html) – [fixed](es_ancora-dep-fixed.html) – [flat](es_ancora-dep-flat.html) – [list](es_ancora-dep-list.html) – [mark](es_ancora-dep-mark.html) – [nmod](es_ancora-dep-nmod.html) – [nsubj](es_ancora-dep-nsubj.html) – [nsubj:pass](es_ancora-dep-nsubj-pass.html) – [nummod](es_ancora-dep-nummod.html) – [obj](es_ancora-dep-obj.html) – [obl](es_ancora-dep-obl.html) – [obl:agent](es_ancora-dep-obl-agent.html) – [obl:arg](es_ancora-dep-obl-arg.html) – [orphan](es_ancora-dep-orphan.html) – [parataxis](es_ancora-dep-parataxis.html) – [punct](es_ancora-dep-punct.html) – [root](es_ancora-dep-root.html) – [vocative](es_ancora-dep-vocative.html) – [xcomp](es_ancora-dep-xcomp.html)
+[acl](es_ancora-dep-acl.html) – [acl:relcl](es_ancora-dep-acl-relcl.html) – [advcl](es_ancora-dep-advcl.html) – [advmod](es_ancora-dep-advmod.html) – [amod](es_ancora-dep-amod.html) – [appos](es_ancora-dep-appos.html) – [aux](es_ancora-dep-aux.html) – [aux:pass](es_ancora-dep-aux-pass.html) – [case](es_ancora-dep-case.html) – [cc](es_ancora-dep-cc.html) – [ccomp](es_ancora-dep-ccomp.html) – [compound](es_ancora-dep-compound.html) – [conj](es_ancora-dep-conj.html) – [cop](es_ancora-dep-cop.html) – [csubj](es_ancora-dep-csubj.html) – [csubj:pass](es_ancora-dep-csubj-pass.html) – [dep](es_ancora-dep-dep.html) – [det](es_ancora-dep-det.html) – [discourse](es_ancora-dep-discourse.html) – [dislocated](es_ancora-dep-dislocated.html) – [expl](es_ancora-dep-expl.html) – [expl:impers](es_ancora-dep-expl-impers.html) – [expl:pass](es_ancora-dep-expl-pass.html) – [expl:pv](es_ancora-dep-expl-pv.html) – [fixed](es_ancora-dep-fixed.html) – [flat](es_ancora-dep-flat.html) – [list](es_ancora-dep-list.html) – [mark](es_ancora-dep-mark.html) – [nmod](es_ancora-dep-nmod.html) – [nsubj](es_ancora-dep-nsubj.html) – [nsubj:outer](es_ancora-dep-nsubj-outer.html) – [nsubj:pass](es_ancora-dep-nsubj-pass.html) – [nummod](es_ancora-dep-nummod.html) – [obj](es_ancora-dep-obj.html) – [obl](es_ancora-dep-obl.html) – [obl:agent](es_ancora-dep-obl-agent.html) – [obl:arg](es_ancora-dep-obl-arg.html) – [orphan](es_ancora-dep-orphan.html) – [parataxis](es_ancora-dep-parataxis.html) – [punct](es_ancora-dep-punct.html) – [root](es_ancora-dep-root.html) – [vocative](es_ancora-dep-vocative.html) – [xcomp](es_ancora-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 17662 sentences, 547203 tokens and 559782 syntactic words.</li>
+<li>This corpus contains 17662 sentences, 547558 tokens and 560137 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 62357 tokens (11%) that are not followed by a space.</li>
+<li>This corpus contains 62712 tokens (11%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -208,7 +208,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
       <li>ADJ: primera, nueva, segunda, política, española, última, nuevas, única, buena, pública</li>
       <li>ADJ-Part: pasada, abierta, prevista, abiertas, celebrada, situada, dedicada, conocida, dirigida, privada</li>
       <li>DET: la, las, una, esta, esa, todas, estas, otras, toda, otra</li>
-      <li>NOUN: personas, parte, vida, situación, vez, forma, elecciones, empresa, decisión, horas</li>
+      <li>NOUN: pesetas, personas, parte, vida, situación, vez, forma, elecciones, empresa, decisión</li>
       <li>NUM: ambas, media, una, DECENAS, quinientas</li>
       <li>PRON: la, una, ella, las, ellas, otra, ésta, unas, otras, algunas</li>
       <li>PROPN: Cuba</li>
@@ -247,7 +247,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
       <li>ADJ-Part: abiertas, dispuestos, celebradas, relacionados, previstas, determinadas, determinados, heridas, obligados, afectadas</li>
       <li>AUX-Fin: han, son, están, fueron, pueden, habían, hemos, deben, eran, estamos</li>
       <li>DET: los, las, sus, todos, otros, estos, unos, todas, estas, otras</li>
-      <li>NOUN: años, millones, personas, países, días, meses, elecciones, partidos, puntos, horas</li>
+      <li>NOUN: años, millones, pesetas, personas, países, días, meses, elecciones, partidos, puntos</li>
       <li>NUM: dos, tres, cinco, cuatro, seis, ambos, siete, diez, ocho, nueve</li>
       <li>PRON: nos, les, ellos, unos, los, otros, todos, las, nosotros, algunos</li>
       <li>VERB-Fin: tienen, tenemos, van, hacen, tuvieron, dicen, quieren, vamos, existen, hicieron</li>
@@ -323,7 +323,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
 <ul>
   <li>Nom
     <ul>
-      <li>PRON: yo, tú</li>
+      <li>PRON: yo, tú, Ella</li>
     </ul>
   </li>
 </ul>
@@ -543,7 +543,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
     <ul>
       <li>ADV: dónde, cuándo</li>
       <li>DET: qué</li>
-      <li>PRON: qué, cuál, cuáles</li>
+      <li>PRON: qué, quién, cuál, cuáles, quiénes</li>
     </ul>
   </li>
 </ul>
@@ -552,7 +552,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
   <li>Int,Rel
     <ul>
       <li>DET: cuantos, cuántos, cuánto, cuantas, cuánta</li>
-      <li>PRON: quien, quienes, quién, cuanto, cuánto, cuántos, quiénes, cuantos, cuántas</li>
+      <li>PRON: cuanto, cuánto, cuántos, cuantos, cuántas</li>
       <li>SCONJ: que</li>
     </ul>
   </li>
@@ -581,7 +581,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
     <ul>
       <li>ADV: donde, cuando</li>
       <li>DET: cuyo, cuya, cuyos, cuyas, cual</li>
-      <li>PRON: que, cual, cuales</li>
+      <li>PRON: que, quien, quienes, cual, cuales</li>
     </ul>
   </li>
 </ul>
@@ -603,7 +603,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
   <li>Card
     <ul>
       <li>DET: muchos, muchas, mucha, pocos, mucho, pocas, poca, tanta, tantas, tanto</li>
-      <li>NUM: dos, ciento, tres, cinco, cuatro, seis, 20, siete, diez, ambos</li>
+      <li>NUM: dos, ciento, tres, cinco, cuatro, seis, 20, 30, ambos, siete</li>
       <li>PRON: muchos, poco, muchas, pocos, mucho, cuanto, cuánto, tanta, cuántos, Deu</li>
     </ul>
   </li>
@@ -613,7 +613,6 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
   <li>Frac
     <ul>
       <li>NUM: cada, 1-0</li>
-      <li>SYM: 50%, 60%, 10%, 20%, 30%, 80%, 25%, 5%, 3%, 2%</li>
     </ul>
   </li>
 </ul>
@@ -763,9 +762,18 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
       <li>Digit
         <ul>
           <li>ADJ: 1ro, 2do, 3ro, 4to</li>
-          <li>NOUN: pesetas, dólares, euros, pesos, yenes, marcos, peniques, bolívares, coronas, dólar</li>
-          <li>NUM: 20, 30, 10, 12, 15, 2, 16, 24, 18, 25</li>
-          <li>SYM: %, 20%, 50%, 10%, 25%, 60%, 30%, 80%, 15%, 2%</li>
+          <li>NUM: 20, 30, 10, 15, 12, 2, 25, 50, 16, 18</li>
+          <li>SYM: %, -0,7%, -0,9%, -1,1%</li>
+        </ul>
+      </li>
+      <li>Roman
+        <ul>
+          <li>NUM: II, XX, V, VI, XXI, XVIII, XXIII, IX, XIX, XV</li>
+        </ul>
+      </li>
+      <li>Word
+        <ul>
+          <li>NUM: dos, ciento, tres, cinco, cuatro, seis, ambos, siete, diez, ocho</li>
         </ul>
       </li>
     </ul>
@@ -879,8 +887,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-ADP(alrededor)-ADP(de) (1)</li>
       <li>VERB-Fin--NOUN-ADP(de) (1)</li>
       <li>VERB-Fin--NOUN-ADP(sobre) (1)</li>
-      <li>VERB-Fin--PRON (5038)</li>
-      <li>VERB-Fin--PRON-Acc (6)</li>
+      <li>VERB-Fin--PRON (5035)</li>
+      <li>VERB-Fin--PRON-Acc (4)</li>
       <li>VERB-Fin--PRON-Acc,Nom (217)</li>
       <li>VERB-Fin--PRON-Dat (1)</li>
       <li>VERB-Fin--PRON-Nom (98)</li>
@@ -890,16 +898,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Ger--PRON-Nom (2)</li>
       <li>VERB-Inf--NOUN (769)</li>
       <li>VERB-Inf--NOUN-ADP(a) (2)</li>
-      <li>VERB-Inf--PRON (280)</li>
+      <li>VERB-Inf--PRON (278)</li>
       <li>VERB-Inf--PRON-Acc,Nom (23)</li>
       <li>VERB-Inf--PRON-Nom (4)</li>
-      <li>VERB-Part--NOUN (1788)</li>
+      <li>VERB-Part--NOUN (1776)</li>
       <li>VERB-Part--NOUN-ADP(a) (4)</li>
       <li>VERB-Part--NOUN-ADP(en) (1)</li>
-      <li>VERB-Part--PRON (710)</li>
-      <li>VERB-Part--PRON-Acc (2)</li>
-      <li>VERB-Part--PRON-Acc,Nom (37)</li>
-      <li>VERB-Part--PRON-Nom (10)</li>
+      <li>VERB-Part--PRON (700)</li>
+      <li>VERB-Part--PRON-Acc (1)</li>
+      <li>VERB-Part--PRON-Acc,Nom (34)</li>
+      <li>VERB-Part--PRON-Nom (11)</li>
     </ul>
   </li>
 </ul>
@@ -909,14 +917,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB-Fin--NOUN (8897)</li>
       <li>VERB-Fin--NOUN-ADP(a) (871)</li>
-      <li>VERB-Fin--PRON (1507)</li>
-      <li>VERB-Fin--PRON-ADP(a) (104)</li>
-      <li>VERB-Fin--PRON-Acc (1161)</li>
+      <li>VERB-Fin--PRON (1525)</li>
+      <li>VERB-Fin--PRON-ADP(a) (105)</li>
+      <li>VERB-Fin--PRON-Acc (1163)</li>
       <li>VERB-Fin--PRON-Acc,Nom (5)</li>
       <li>VERB-Fin--PRON-Acc,Nom-ADP(a) (8)</li>
       <li>VERB-Fin--PRON-Acc-ADP(a) (11)</li>
       <li>VERB-Fin--PRON-Com (1)</li>
-      <li>VERB-Fin--PRON-Dat (726)</li>
+      <li>VERB-Fin--PRON-Dat (725)</li>
       <li>VERB-Ger--NOUN (523)</li>
       <li>VERB-Ger--NOUN-ADP(a) (59)</li>
       <li>VERB-Ger--PRON (33)</li>
@@ -926,8 +934,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Ger--PRON-Dat (39)</li>
       <li>VERB-Inf--NOUN (4854)</li>
       <li>VERB-Inf--NOUN-ADP(a) (538)</li>
-      <li>VERB-Inf--PRON (271)</li>
-      <li>VERB-Inf--PRON-ADP(a) (44)</li>
+      <li>VERB-Inf--PRON (257)</li>
+      <li>VERB-Inf--PRON-ADP(a) (43)</li>
       <li>VERB-Inf--PRON-Acc (648)</li>
       <li>VERB-Inf--PRON-Acc,Nom-ADP(a) (2)</li>
       <li>VERB-Inf--PRON-Acc-ADP(a) (1)</li>
@@ -936,10 +944,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Nom (1)</li>
       <li>VERB-Part--NOUN (1321)</li>
       <li>VERB-Part--NOUN-ADP(a) (142)</li>
-      <li>VERB-Part--PRON (246)</li>
+      <li>VERB-Part--PRON (247)</li>
       <li>VERB-Part--PRON-ADP(a) (12)</li>
-      <li>VERB-Part--PRON-Acc (159)</li>
-      <li>VERB-Part--PRON-Acc,Nom (1)</li>
+      <li>VERB-Part--PRON-Acc (160)</li>
       <li>VERB-Part--PRON-Acc,Nom-ADP(a) (2)</li>
       <li>VERB-Part--PRON-Acc-ADP(a) (1)</li>
       <li>VERB-Part--PRON-Dat (131)</li>
@@ -978,6 +985,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 9 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>expl:impers</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:arg</a></li>
-<li>The following 5 relation types are not used in this corpus at all: <a>iobj</a>, <a>dislocated</a>, <a>clf</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>This corpus uses 10 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>expl:impers</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:arg</a></li>
+<li>The following 4 relation types are not used in this corpus at all: <a>iobj</a>, <a>clf</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

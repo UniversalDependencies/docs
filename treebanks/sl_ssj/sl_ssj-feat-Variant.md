@@ -31,6 +31,5 @@ The most frequent other feature values with which `PRON` and `Variant` co-occurr
 
 The 10 most frequent relations where parent and child node agree in `Variant`:
 <tt>PRON --[<tt><a href="sl_ssj-dep-conj.html">conj</a></tt>]--> PRON</tt> (3; 100%),
-<tt>PRON --[<tt><a href="sl_ssj-dep-advcl.html">advcl</a></tt>]--> PRON</tt> (1; 100%),
 <tt>PRON --[<tt><a href="sl_ssj-dep-appos.html">appos</a></tt>]--> PRON</tt> (1; 100%).
 

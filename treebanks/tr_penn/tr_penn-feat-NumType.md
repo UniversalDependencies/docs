@@ -40,7 +40,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="tr_penn-pos-NUM.htm
 * `Card` (129; 96% of non-empty `NumType`): <em>milyonluk, ikisi, 9'luk, kaç, 0.3'lük, 10'luk, 1980'li, 20'lik, 3'lük, 3/4'lük</em>
 * `Dist` (3; 2% of non-empty `NumType`): <em>birer</em>
 * `Ord` (2; 1% of non-empty `NumType`): <em>9:30'daki, Üçüncüsü</em>
-* `EMPTY` (19503): <em>büyük, olan, yeni, diğer, son, var, yaklaşık, yüksek, iyi, çok</em>
+* `EMPTY` (19509): <em>büyük, olan, yeni, diğer, son, var, yaklaşık, yüksek, iyi, çok</em>
 
 <table>
   <tr><th>Paradigm <i>bir</i></th><th><tt>Card</tt></th><th><tt>Dist</tt></th></tr>

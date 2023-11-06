@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of .
 
-888 nodes (0%) are attached to their parents as `flat:name`.
+901 nodes (0%) are attached to their parents as `flat:name`.
 
-888 instances of `flat:name` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.32207207207207.
+901 instances of `flat:name` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.31742508324084.
 
-The following 1 pairs of parts of speech are connected with `flat:name`: <tt><a href="orv_torot-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_torot-pos-PROPN.html">PROPN</a></tt> (888; 100% instances).
+The following 1 pairs of parts of speech are connected with `flat:name`: <tt><a href="orv_torot-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_torot-pos-PROPN.html">PROPN</a></tt> (901; 100% instances).
 
 
 ~~~ conllu

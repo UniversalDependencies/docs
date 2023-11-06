@@ -18,24 +18,19 @@ The following 5 pairs of parts of speech are connected with `advmod:tmod`: <tt><
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 10 advmod:tmod	color:blue
-1	Ме	ме	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	GTtags=Pers,Sg1,Nom
-2	эг	оз	AUX	_	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Past	5	aux:neg	_	GTtags=Neg,Ind,Prt1,Sg1
-3	вермы	вермыны	AUX	_	Connegative=Yes	5	aux	_	GTtags=ConNeg
-4	сійӧ	сія	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	5	obj	_	GTtags=Pers,Sg3,Acc
-5	вӧтны	вӧтны	VERB	_	VerbForm=Inf	0	root	_	GTtags=Inf|SpaceAfter=No
-6	,	,	PUNCT	_	_	12	punct	_	_
-7	сідз	сідз	ADV	_	_	12	mark	_	_
-8	кыдз	кыдз	ADV	_	_	7	fixed	_	_
-9	сія	сія	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	GTtags=Pers,Sg3,Nom
-10	ӧддьӧн	ӧддьӧн	ADV	_	_	12	advmod:tmod	_	_
-11	чожа	чожа	ADV	_	_	12	advmod:tmod	_	_
-12	котӧртіс	котӧртны	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	ccomp	_	GTtags=Ind,Prt1,Sg3|SpaceAfter=No
-13	.	.	PUNCT	_	_	5	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 advmod:tmod	color:blue
+1	Быд	быд	DET	_	Case=Nom|Number=Sing|PronType=Tot	2	det	_	GTtags=Sg,Nom
+2	лaдopcянь	лaдopcянь	NOUN	_	Case=Egr|Number=Sing	6	obl:lmod	_	GTtags=Sg,Egr
+3	Ворошилов	Ворошилов	PROPN	_	Animacy=Hum|Case=Nom|NameType=Sur|Number=Sing	6	obl:lmod	_	GTtags=Prop,Sem/Sur,Sem/Mal,Sg,Nom
+4	дынӧ	дынӧ	ADP	_	AdpType=Post|AdvType=Loc|Case=Ill|Number=Sing	3	case	_	GTtags=Po,Spat,Sg,Ill
+5	ӧні	ӧні	ADV	_	_	6	advmod:tmod	_	_
+6	кoтӧpтіcӧ	кoтӧpтіcӧ	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Pl3
+7	oтиp	oтиp	NOUN	_	Animacy=Hum|Case=Nom|Number=Sing	6	nsubj	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	6	punct	_	GTtags=CLB
 
 ~~~
 

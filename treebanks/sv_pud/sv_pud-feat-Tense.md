@@ -58,7 +58,7 @@ The most frequent other feature values with which `ADJ` and `Tense` co-occurred:
 
 * `Past` (168; 65% of non-empty `Tense`): <em>kända, sett, allierade, känd, regisserad, anställd, fortsatt, gift, inblandade, intresserad</em>
 * `Pres` (90; 35% of non-empty `Tense`): <em>betydande, följande, levande, omfattande, beroende, dominerande, omgivande, sittande, självstyrande, växande</em>
-* `EMPTY` (1301): <em>andra, första, nya, många, flera, stora, stor, hela, senaste, sista</em>
+* `EMPTY` (1302): <em>andra, första, nya, många, flera, stora, stor, hela, senaste, sista</em>
 
 `Tense` seems to be **lexical feature** of `ADJ`. 100% lemmas (208) occur only with one value of `Tense`.
 

@@ -11,10 +11,10 @@ There are 1 language-specific subtypes of `aux`: <tt><a href="es_gsd-dep-aux-pas
 
 3298 nodes (1%) are attached to their parents as `aux`.
 
-3284 instances of `aux` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.22134627046695.
+3283 instances of `aux` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.22255912674348.
 
-The following 10 pairs of parts of speech are connected with `aux`: <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (3127; 95% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (75; 2% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (75; 2% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (11; 0% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="es_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-DET.html">DET</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `aux`: <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (3126; 95% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (76; 2% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (75; 2% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (11; 0% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="es_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-DET.html">DET</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -36,25 +36,6 @@ The following 10 pairs of parts of speech are connected with `aux`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 2 aux	color:blue
-1	No	no	ADV	_	Polarity=Neg	5	advmod	_	_
-2	puedo	poder	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
-3	estar	estar	AUX	_	VerbForm=Inf	5	cop	_	_
-4	más	más	ADV	_	Degree=Cmp	5	advmod	_	_
-5	contento	contento	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
-6	con	con	ADP	_	_	8	case	_	_
-7	mi	mi	DET	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
-8	estilista	estilista	NOUN	_	Number=Sing	5	nmod	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	5	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 5	bgColor:blue
@@ -68,6 +49,25 @@ The following 10 pairs of parts of speech are connected with `aux`: <tt><a href=
 6	de	de	ADP	_	_	8	case	_	_
 7	esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	8	det	_	_
 8	tienda	tienda	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	5	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 2 aux	color:blue
+1	No	no	ADV	_	Polarity=Neg	5	advmod	_	_
+2	puedo	poder	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
+3	estar	estar	AUX	_	VerbForm=Inf	5	cop	_	_
+4	más	más	ADV	_	Degree=Cmp	5	advmod	_	_
+5	contento	contento	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+6	con	con	ADP	_	_	8	case	_	_
+7	mi	mi	DET	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
+8	estilista	estilista	NOUN	_	Number=Sing	5	nmod	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~

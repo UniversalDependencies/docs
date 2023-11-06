@@ -59,10 +59,10 @@ The 10 most frequent relations where parent and child node agree in `Voice`:
 <tt>VERB --[<tt><a href="cs_pdt-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1264; 83%),
 <tt>VERB --[<tt><a href="cs_pdt-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1049; 82%),
 <tt>VERB --[<tt><a href="cs_pdt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (143; 83%),
-<tt>AUX --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> VERB</tt> (126; 95%),
-<tt>VERB --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> AUX</tt> (88; 97%),
-<tt>VERB --[<tt><a href="cs_pdt-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (74; 89%),
-<tt>AUX --[<tt><a href="cs_pdt-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (56; 97%),
-<tt>VERB --[<tt><a href="cs_pdt-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (47; 89%),
-<tt>AUX --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> AUX</tt> (45; 100%).
+<tt>VERB --[<tt><a href="cs_pdt-dep-csubj-pass.html">csubj:pass</a></tt>]--> VERB</tt> (42; 61%),
+<tt>VERB --[<tt><a href="cs_pdt-dep-appos.html">appos</a></tt>]--> VERB</tt> (39; 98%),
+<tt>AUX --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> VERB</tt> (20; 91%),
+<tt>VERB --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> AUX</tt> (17; 100%),
+<tt>AUX --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> AUX</tt> (12; 100%),
+<tt>VERB --[<tt><a href="cs_pdt-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (11; 85%).
 

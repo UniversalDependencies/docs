@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-203 nodes (1%) are attached to their parents as `expl`.
+207 nodes (1%) are attached to their parents as `expl`.
 
-195 instances of `expl` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.50738916256158.
+199 instances of `expl` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.4975845410628.
 
-The following 4 pairs of parts of speech are connected with `expl`: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (180; 89% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (17; 8% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (5; 2% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 4 pairs of parts of speech are connected with `expl`: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (184; 89% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (17; 8% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (5; 2% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

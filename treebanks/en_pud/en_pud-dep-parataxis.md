@@ -23,12 +23,12 @@ The following 12 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 4	fgColor:white
 # visual-style 4 10 parataxis	color:blue
 1	"	"	PUNCT	``	_	4	punct	4:punct	SpaceAfter=No
-2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	SpaceAfter=No
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
 3	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
 4	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	_
 5	to	to	ADP	IN	_	6	case	6:case	_
 6	jail	jail	NOUN	NN	Number=Sing	4	obl	4:obl:to	_
-7	either	either	DET	DT	_	8	det	8:det	_
+7	either	either	DET	DT	PronType=Ind	8	det	8:det	_
 8	way	way	NOUN	NN	Number=Sing	4	obl:npmod	4:obl:npmod	SpaceAfter=No
 9	,	,	PUNCT	,	_	4	punct	4:punct	_
 10	hope	hope	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	parataxis	4:parataxis	_
@@ -80,7 +80,7 @@ The following 12 pairs of parts of speech are connected with `parataxis`: <tt><a
 1	From	from	ADP	IN	_	5	case	5:case	_
 2	about	about	ADV	IN	_	4	advmod	4:advmod	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
-4	8th	8th	ADJ	JJ	Degree=Pos|NumType=Ord	5	amod	5:amod	_
+4	8th	8th	ADJ	JJ	Degree=Pos|NumForm=Combi|NumType=Ord	5	amod	5:amod	_
 5	century	century	NOUN	NN	Number=Sing	9	obl	9:obl:from	_
 6	BC	bc	NOUN	NN	Number=Sing	5	nmod:tmod	5:nmod:tmod	_
 7	city	city	NOUN	NN	Number=Sing	8	compound	8:compound	_

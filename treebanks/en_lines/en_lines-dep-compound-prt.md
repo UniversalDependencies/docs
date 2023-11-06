@@ -24,7 +24,7 @@ The following 5 pairs of parts of speech are connected with `compound:prt`: <tt>
 # visual-style 11 12 compound:prt	color:blue
 1	If	if	SCONJ	_	_	5	mark	_	_
 2	you	you	PRON	PERS-P2	_	5	nsubj	_	_
-3	do	do	AUX	PRES-AUX	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	SpaceAfter=No
+3	do	do	AUX	PRES-AUX	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	_
 4	n't	not	PART	NEG	_	5	advmod	_	_
 5	like	like	VERB	INF	VerbForm=Inf	11	advcl	_	_
 6	it	it	PRON	PERS-SG	_	5	obj	_	SpaceAfter=No
@@ -70,7 +70,7 @@ The following 5 pairs of parts of speech are connected with `compound:prt`: <tt>
 # visual-style 8 9 compound:prt	color:blue
 1	You	you	PRON	PERS-P2	_	2	nsubj	_	_
 2	mean	mean	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	Edward	Edward	PROPN	SG-NOM	Number=Sing	6	nsubj	_	SpaceAfter=No
+3	Edward	Edward	PROPN	SG-NOM	Number=Sing	6	nsubj	_	_
 4	's	be	AUX	PRES-AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
 5	not	not	PART	NEG	_	6	advmod	_	_
 6	going	go	VERB	ING	Tense=Pres|VerbForm=Part	2	ccomp	_	_

@@ -34,7 +34,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (4; 100% of non-empty `Foreign`): <em>Comerç, Conselleria, Indústria, Turisme</em>
-* `EMPTY` (100564): <em>años, presidente, millones, año, equipo, partido, país, parte, vez, día</em>
+* `EMPTY` (100519): <em>años, presidente, millones, año, equipo, partido, país, parte, vez, día</em>
 
 ### `X`
 
@@ -70,7 +70,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `PROPN` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>Generalitat</em>
-* `EMPTY` (42483): <em>Gobierno, España, Madrid, Barcelona, José, Estado, PP, Juan, Nacional, Estados</em>
+* `EMPTY` (42406): <em>Gobierno, España, Madrid, Barcelona, José, Estado, PP, Juan, Nacional, Estados</em>
 
 ## Relations with Agreement in `Foreign`
 

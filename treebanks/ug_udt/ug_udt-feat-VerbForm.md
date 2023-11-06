@@ -12,20 +12,20 @@ It occurs with 5 different values: `Conv`, `Fin`, `Ger`, `Inf`, `Part`.
 4432 tokens (11%) have a non-empty value of `VerbForm`.
 1137 types (9%) occur at least once with a non-empty value of `VerbForm`.
 369 lemmas (13%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (3751; 9% instances), <tt><a href="ug_udt-pos-AUX.html">AUX</a></tt> (681; 2% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (3750; 9% instances), <tt><a href="ug_udt-pos-AUX.html">AUX</a></tt> (682; 2% instances).
 
 ### `VERB`
 
-3751 <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> tokens (45% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+3750 <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> tokens (45% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="ug_udt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2799; 75%), <tt><a href="ug_udt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2526; 67%), <tt><a href="ug_udt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2526; 67%), <tt><a href="ug_udt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2394; 64%), <tt><a href="ug_udt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (2149; 57%), <tt><a href="ug_udt-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (2047; 55%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="ug_udt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2798; 75%), <tt><a href="ug_udt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2525; 67%), <tt><a href="ug_udt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2525; 67%), <tt><a href="ug_udt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2393; 64%), <tt><a href="ug_udt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (2148; 57%), <tt><a href="ug_udt-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (2047; 55%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Conv` (1260; 34% of non-empty `VerbForm`): دەپ، قىلىپ، بولۇپ، قاراپ، ئېلىپ، كېلىپ، بېرىپ، تۇرۇپ، قايتىپ، كۆرۈپ
 * `Fin` (1197; 32% of non-empty `VerbForm`): دېدى، بار، كەلدى، باشلىدى، بولدى، قىلدى، بەردى، قىلىدۇ، بولىدۇ، دېدىم
 * `Ger` (645; 17% of non-empty `VerbForm`): قىلىش، كەلگەندە، بولۇشى، بولغان، ياشقا، بارغاندا، قىلىشنى، ياش، ئېلىش، بولغاندا
-* `Inf` (342; 9% of non-empty `VerbForm`): بولۇپ، قاراپ، قىلىپ، كۆرۈپ، كىرىپ، چىقىپ، كېلىپ، ئۆتۈپ، دەپ، ئۇچۇپ
+* `Inf` (341; 9% of non-empty `VerbForm`): بولۇپ، قاراپ، قىلىپ، كۆرۈپ، كىرىپ، چىقىپ، كېلىپ، ئۆتۈپ، دەپ، ئۇچۇپ
 * `Part` (307; 8% of non-empty `VerbForm`): تۇرغان، دېگەن، كەتكەن، بولغان، قالغان، كەلگەن، كۆرگەن، چىققان، ئاڭلىغان، ياتقان
 * `EMPTY` (4577): دەپتۇ، تۇراتتى، قاپتۇ، قويۇپ، كېتىپتۇ، بوپتۇ، ئاڭلاپ، سورىدى، قىلاتتى، كەپتۇ
 
@@ -71,16 +71,16 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-681 <tt><a href="ug_udt-pos-AUX.html">AUX</a></tt> tokens (75% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+682 <tt><a href="ug_udt-pos-AUX.html">AUX</a></tt> tokens (75% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="ug_udt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (542; 80%), <tt><a href="ug_udt-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (511; 75%), <tt><a href="ug_udt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (456; 67%), <tt><a href="ug_udt-feat-Person.html">Person</a></tt><tt>=3</tt> (444; 65%), <tt><a href="ug_udt-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (396; 58%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="ug_udt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (542; 79%), <tt><a href="ug_udt-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (511; 75%), <tt><a href="ug_udt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (456; 67%), <tt><a href="ug_udt-feat-Person.html">Person</a></tt><tt>=3</tt> (444; 65%), <tt><a href="ug_udt-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (396; 58%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
 * `Conv` (196; 29% of non-empty `VerbForm`): بولۇپ، بولسا، تۇرۇپ، بولسىمۇ، بولسام، كېتىپ، بولسىڭىز، تۇرسا، بولساڭ، بولساق
 * `Fin` (459; 67% of non-empty `VerbForm`): ئىدى، كەتتى، قالدى، بولدى، بولىدۇ، قالدىم، بولغان، بولدۇم، تۇرىدۇ، ئىدىڭ
 * `Ger` (23; 3% of non-empty `VerbForm`): قېلىشى، بولغاندىن، بولۇش، قالغاندا، بولغان، بولغاندا، بولغىنى، بولۇشى، بولۇشىدىن، بولۇشىنى
-* `Inf` (1; 0% of non-empty `VerbForm`): بولۇپ
+* `Inf` (2; 0% of non-empty `VerbForm`): بولۇپ
 * `Part` (2; 0% of non-empty `VerbForm`): تۇرغان، كەتكەن
 * `EMPTY` (229): ئىكەن، ئەمەس، ئىكەنلىكىنى، بوپتۇ، بولاتتى، بولغاچقا، ئەمەسمۇ، بولسۇن، ئوخشايدۇ، بولىدىكەن
 

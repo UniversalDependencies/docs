@@ -9,44 +9,45 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `nmod`: <tt><a href="yrl_complin-dep-nmod-poss.html">nmod:poss</a></tt>.
 
-20 nodes (0%) are attached to their parents as `nmod`.
+33 nodes (0%) are attached to their parents as `nmod`.
 
-20 instances of `nmod` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.95.
+33 instances of `nmod` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.90909090909091.
 
-The following 7 pairs of parts of speech are connected with `nmod`: <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (8; 40% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (6; 30% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (2; 10% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (1; 5% instances), <tt><a href="yrl_complin-pos-NUM.html">NUM</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="yrl_complin-pos-NUM.html">NUM</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (1; 5% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (1; 5% instances).
+The following 10 pairs of parts of speech are connected with `nmod`: <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (15; 45% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (7; 21% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (2; 6% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (2; 6% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (2; 6% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="yrl_complin-pos-NUM.html">NUM</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="yrl_complin-pos-NUM.html">NUM</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 6 nmod	color:blue
-1	Aintá	aintá	PRON	PRON	Number=Plur|Person=3|PronType=Prs	2	nsubj	_	TokenRange=0:5
-2	urikú	rikú	VERB	V	Person=3|VerbForm=Fin	0	root	_	TokenRange=6:11
-3	yepé	yepé	DET	ART	Definite=Ind|PronType=Art	4	det	_	TokenRange=12:16
-4	yawara	yawara	NOUN	N	Number=Sing	2	obj	_	TokenRange=17:23
-5	paka	paka	NOUN	N	Number=Sing	6	nmod:poss	_	TokenRange=24:28
-6	rupiara	supiara	NOUN	N	Number=Sing|Rel=Cont	4	nmod	_	SpaceAfter=No|TokenRange=29:36
-7	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=36:37
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 nmod	color:blue
+1	Aé	aé	PRON	PRON	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	TokenRange=0:2
+2	urasú	rasú	VERB	V	Person=3|VerbForm=Fin	0	root	_	TokenRange=3:8
+3	pirá	pirá	NOUN	N	Number=Sing	2	obj	_	TokenRange=9:13
+4	suka	uka	NOUN	N	Number=Sing|Number[psor]=Sing|Person[psor]=3|Rel=NCont	3	nmod	_	TokenRange=14:18
+5	suí	suí	ADP	ADP	_	4	case	_	TokenRange=19:22
+6	sukwera	sukwera	NOUN	N	Number=Sing|Number[psor]=Sing|Person[psor]=3|Rel=NCont	8	nsubj	_	TokenRange=23:30
+7	waá	waá	PRON	REL	Number=Sing|PronType=Rel	6	nmod:poss	_	TokenRange=31:34
+8	membeka	membeka	ADJ	A	_	3	acl:relcl	_	SpaceAfter=No|TokenRange=35:42
+9	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=42:43
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 3 nmod	color:blue
-1	Awá	awá	PRON	INT	PronType=Int	5	nsubj	_	TokenRange=0:3
-2	taá	taá	PART	CQ	PartType=Int	5	advmod	_	TokenRange=4:7
-3	penhé	penhé	PRON	PRON	_	1	nmod	_	TokenRange=8:13
-4	suí	suí	ADP	ADP	_	3	case	_	TokenRange=14:17
-5	usú	sú	VERB	V	Person=3|VerbForm=Fin	0	root	_	_
-6	putari	putari	AUX	AUXN	Compound=Yes|VerbForm=Inf	5	aux	_	_
-7	?	?	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No|TokenRange=29:30
+# visual-style 1 2 nmod	color:blue
+1	Awá	awá	PRON	INT	PronType=Int	4	nsubj	_	TokenRange=0:3
+2	penhẽ	penhẽ	PRON	PRON	Number=Plur|Person=2|PronType=Prs	1	nmod	_	TokenRange=4:9
+3	suí	suí	ADP	ADP	_	2	case	_	TokenRange=10:13
+4	usú	sú	VERB	V	Person=3|VerbForm=Fin	0	root	_	_
+5	putari	putari	AUX	AUXN	Compound=Yes|VerbForm=Inf	4	aux	_	_
+6	?	?	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=25:26
 
 ~~~
 

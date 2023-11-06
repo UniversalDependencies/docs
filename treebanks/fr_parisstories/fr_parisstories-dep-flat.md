@@ -62,11 +62,11 @@ The following 2 pairs of parts of speech are connected with `flat`: <tt><a href=
 15	pour	pour	ADP	_	_	14	dep	_	_
 16	euh	euh	INTJ	_	_	19	discourse	_	SpaceAfter=No
 17	,	,	PUNCT	_	_	16	punct	_	_
-18	enfin	enfin	ADV	_	_	19	discourse	_	ExtPos=INTJ
+18	enfin	enfin	ADV	_	ExtPos=INTJ	19	discourse	_	_
 19	spécialisée	specialiser	ADJ	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	26	reparandum	_	_
-20	non	non	ADV	_	Polarity=Neg	26	discourse	_	ExtPos=INTJ|SpaceAfter=No
+20	non	non	ADV	_	ExtPos=INTJ|Polarity=Neg	26	discourse	_	SpaceAfter=No
 21	,	,	PUNCT	_	_	20	punct	_	_
-22	enfin	enfin	ADV	_	_	26	discourse	_	ExtPos=INTJ|wordform=fin
+22	enfin	enfin	ADV	_	ExtPos=INTJ	26	discourse	_	wordform=fin
 23	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
 24	thème	thème	NOUN	_	Gender=Masc|Number=Sing	26	dislocated	_	_
 25	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	26	nsubj	_	SpaceAfter=No

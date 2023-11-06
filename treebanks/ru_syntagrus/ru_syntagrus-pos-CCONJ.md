@@ -59,7 +59,7 @@ The 10 most frequent ambiguous types:  <em>и</em> (<tt><a href="ru_syntagrus-po
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.058824 (the average of all parts of speech is 2.654339).
+The form / lemma ratio of `CCONJ` is 1.058824 (the average of all parts of speech is 2.654430).
 
 The 1st highest number of forms (2) was observed with the lemma “причем”: <em>причем, причём</em>.
 

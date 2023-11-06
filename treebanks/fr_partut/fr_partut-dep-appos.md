@@ -46,7 +46,7 @@ The following 12 pairs of parts of speech are connected with `appos`: <tt><a hre
 22	que	que	PRON	PR	PronType=Rel	23	obj	_	_
 23	voit	voir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	acl:relcl	_	_
 24	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	25	det	_	SpaceAfter=No
-25	écologiste	écologiste	ADJ	A	Number=Sing	23	nsubj	_	SpaceAfter=No
+25	écologiste	écologiste	NOUN	S	Number=Sing	23	nsubj	_	SpaceAfter=No
 26	.	.	PUNCT	FS	_	21	punct	_	_
 
 ~~~

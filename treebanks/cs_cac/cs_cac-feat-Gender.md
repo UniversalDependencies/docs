@@ -238,8 +238,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 <table>
   <tr><th>Paradigm <i>on</i></th><th><tt>Masc</tt></th><th><tt>Masc,Neut</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>oni</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt></tt></td><td><em>jeho</em></td><td></td><td><em>ji</em></td><td><em>je</em></td></tr>
-  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt>|<tt><a href="cs_cac-feat-Style.html">Style</a></tt><tt>=Arch</tt></tt></td><td></td><td><em>jej</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt></tt></td><td><em>jeho</em></td><td><em>jej</em></td><td><em>ji</em></td><td><em>je</em></td></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt></tt></td><td></td><td><em>něj, něho</em></td><td><em>ni</em></td><td><em>ně</em></td></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td></td><td><em>ho</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt></tt></td><td></td><td><em>jemu</em></td><td><em>jí</em></td><td></td></tr>
@@ -258,7 +257,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 1199 <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> tokens (16% of all `NUM` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="cs_cac-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (1139; 95%), <tt><a href="cs_cac-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (1139; 95%), <tt><a href="cs_cac-feat-NumValue.html">NumValue</a></tt><tt>=1,2,3</tt> (1139; 95%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (798; 67%).
+The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="cs_cac-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (1139; 95%), <tt><a href="cs_cac-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (1139; 95%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (798; 67%).
 
 `NUM` tokens may have the following values of `Gender`:
 
@@ -285,9 +284,9 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="cs_cac-dep-amod.html">amod</a></tt>]--> ADJ</tt> (59362; 99%),
-<tt>NOUN --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> NOUN</tt> (7079; 50%),
+<tt>NOUN --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> NOUN</tt> (7092; 50%),
 <tt>ADJ --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> ADJ</tt> (3652; 92%),
-<tt>ADJ --[<tt><a href="cs_cac-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1917; 77%),
+<tt>ADJ --[<tt><a href="cs_cac-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1920; 77%),
 <tt>VERB --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> VERB</tt> (1077; 61%),
 <tt>NOUN --[<tt><a href="cs_cac-dep-flat.html">flat</a></tt>]--> PROPN</tt> (855; 100%),
 <tt>NOUN --[<tt><a href="cs_cac-dep-appos.html">appos</a></tt>]--> NOUN</tt> (750; 53%),

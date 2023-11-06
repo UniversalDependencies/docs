@@ -129,6 +129,5 @@ The most frequent other feature values with which `CCONJ` and `Variant` co-occur
 ## Relations with Agreement in `Variant`
 
 The 10 most frequent relations where parent and child node agree in `Variant`:
-<tt>ADV --[<tt><a href="ro_rrt-dep-fixed.html">fixed</a></tt>]--> ADP</tt> (1; 100%),
 <tt>PRON --[<tt><a href="ro_rrt-dep-iobj.html">iobj</a></tt>]--> PRON</tt> (1; 100%).
 

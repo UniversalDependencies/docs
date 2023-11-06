@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.11 release
 The following people have contributed to making this treebank part of UD: Ivan Roksandic, Fabrício Ferraz Gerardi.
 
 Repository: [UD_Xavante-XDT](https://github.com/UniversalDependencies/UD_Xavante-XDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udxav_xdt212)<br />
-Download all treebanks: [UD 2.12](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udxav_xdt213)<br />
+Download all treebanks: [UD 2.13](/#download)
 
 License: CC BY-SA 4.0
 
@@ -42,7 +42,7 @@ Development of the treebank happens directly in the UD repository, so you may su
 
 ## Description
 
-UD_Xavante-XDT is a collection of annotated sentences in [Xavante](https://glottolog.org/resource/languoid/id/xava1240). Sentence annotation and documentation by [Fabrício Ferraz Gerardi](http://languagestructure.github.io/), Uliana Vedenina, Ivan Roksandic.
+UD_Xavante-XDT is a collection of annotated sentences in [Xavante](https://glottolog.org/resource/languoid/id/xava1240). Sentence annotation and documentation by [Fabrício Ferraz Gerardi](http://languagestructure.github.io/), Ivan Roksandic, Uliana Vedenina.
 
 
 

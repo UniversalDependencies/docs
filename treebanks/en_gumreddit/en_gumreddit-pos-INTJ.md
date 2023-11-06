@@ -13,24 +13,24 @@ The 10 most frequent `INTJ` lemmas: <em>_</em>
 
 The 10 most frequent `INTJ` types:  <em>_</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> 2663, <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> 2082, <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> 1960, <tt><a href="en_gumreddit-pos-PUNCT.html">PUNCT</a></tt> 1869, <tt><a href="en_gumreddit-pos-ADP.html">ADP</a></tt> 1292, <tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> 1235, <tt><a href="en_gumreddit-pos-AUX.html">AUX</a></tt> 1146, <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> 1118, <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> 994, <tt><a href="en_gumreddit-pos-PART.html">PART</a></tt> 600, <tt><a href="en_gumreddit-pos-CCONJ.html">CCONJ</a></tt> 521, <tt><a href="en_gumreddit-pos-SCONJ.html">SCONJ</a></tt> 402, <tt><a href="en_gumreddit-pos-PROPN.html">PROPN</a></tt> 233, <tt><a href="en_gumreddit-pos-NUM.html">NUM</a></tt> 107, <tt><a href="en_gumreddit-pos-INTJ.html">INTJ</a></tt> 59, <tt><a href="en_gumreddit-pos-SYM.html">SYM</a></tt> 53, <tt><a href="en_gumreddit-pos-X.html">X</a></tt> 30)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> 2663, <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> 2046, <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> 1963, <tt><a href="en_gumreddit-pos-PUNCT.html">PUNCT</a></tt> 1869, <tt><a href="en_gumreddit-pos-ADP.html">ADP</a></tt> 1292, <tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> 1236, <tt><a href="en_gumreddit-pos-AUX.html">AUX</a></tt> 1182, <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> 1111, <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> 995, <tt><a href="en_gumreddit-pos-PART.html">PART</a></tt> 600, <tt><a href="en_gumreddit-pos-CCONJ.html">CCONJ</a></tt> 521, <tt><a href="en_gumreddit-pos-SCONJ.html">SCONJ</a></tt> 404, <tt><a href="en_gumreddit-pos-PROPN.html">PROPN</a></tt> 233, <tt><a href="en_gumreddit-pos-NUM.html">NUM</a></tt> 107, <tt><a href="en_gumreddit-pos-INTJ.html">INTJ</a></tt> 59, <tt><a href="en_gumreddit-pos-SYM.html">SYM</a></tt> 53, <tt><a href="en_gumreddit-pos-X.html">X</a></tt> 30)
 
-The 10 most frequent ambiguous types:  <em>_</em> (<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> 2663, <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> 2082, <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> 1960, <tt><a href="en_gumreddit-pos-PUNCT.html">PUNCT</a></tt> 1869, <tt><a href="en_gumreddit-pos-ADP.html">ADP</a></tt> 1292, <tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> 1235, <tt><a href="en_gumreddit-pos-AUX.html">AUX</a></tt> 1146, <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> 1118, <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> 994, <tt><a href="en_gumreddit-pos-PART.html">PART</a></tt> 600, <tt><a href="en_gumreddit-pos-CCONJ.html">CCONJ</a></tt> 521, <tt><a href="en_gumreddit-pos-SCONJ.html">SCONJ</a></tt> 402, <tt><a href="en_gumreddit-pos-PROPN.html">PROPN</a></tt> 233, <tt><a href="en_gumreddit-pos-NUM.html">NUM</a></tt> 107, <tt><a href="en_gumreddit-pos-INTJ.html">INTJ</a></tt> 59, <tt><a href="en_gumreddit-pos-SYM.html">SYM</a></tt> 53, <tt><a href="en_gumreddit-pos-X.html">X</a></tt> 30)
+The 10 most frequent ambiguous types:  <em>_</em> (<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> 2663, <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> 2046, <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> 1963, <tt><a href="en_gumreddit-pos-PUNCT.html">PUNCT</a></tt> 1869, <tt><a href="en_gumreddit-pos-ADP.html">ADP</a></tt> 1292, <tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> 1236, <tt><a href="en_gumreddit-pos-AUX.html">AUX</a></tt> 1182, <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> 1111, <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> 995, <tt><a href="en_gumreddit-pos-PART.html">PART</a></tt> 600, <tt><a href="en_gumreddit-pos-CCONJ.html">CCONJ</a></tt> 521, <tt><a href="en_gumreddit-pos-SCONJ.html">SCONJ</a></tt> 404, <tt><a href="en_gumreddit-pos-PROPN.html">PROPN</a></tt> 233, <tt><a href="en_gumreddit-pos-NUM.html">NUM</a></tt> 107, <tt><a href="en_gumreddit-pos-INTJ.html">INTJ</a></tt> 59, <tt><a href="en_gumreddit-pos-SYM.html">SYM</a></tt> 53, <tt><a href="en_gumreddit-pos-X.html">X</a></tt> 30)
 
 
 * <em>_</em>
   * <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> 2663: <em>_ _ _ <b>_</b> _ _ <b>_</b> _ _ _ <b>_</b> _ _ <b>_</b> _ _ _ _ _ _ _</em>
-  * <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> 2082: <em>_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _</em>
-  * <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> 1960: <em>_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _</em>
+  * <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> 2046: <em>_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _</em>
+  * <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> 1963: <em>_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _</em>
   * <tt><a href="en_gumreddit-pos-PUNCT.html">PUNCT</a></tt> 1869: <em>_ <b>_</b></em>
   * <tt><a href="en_gumreddit-pos-ADP.html">ADP</a></tt> 1292: <em>_ _ _ _ _ <b>_</b> _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ <b>_</b> _</em>
-  * <tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> 1235: <em>_ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _</em>
-  * <tt><a href="en_gumreddit-pos-AUX.html">AUX</a></tt> 1146: <em>_ _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _</em>
-  * <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> 1118: <em>_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _</em>
-  * <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> 994: <em>_ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _</em>
+  * <tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> 1236: <em>_ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _</em>
+  * <tt><a href="en_gumreddit-pos-AUX.html">AUX</a></tt> 1182: <em>_ _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _</em>
+  * <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> 1111: <em>_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _</em>
+  * <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> 995: <em>_ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _</em>
   * <tt><a href="en_gumreddit-pos-PART.html">PART</a></tt> 600: <em>_ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _</em>
   * <tt><a href="en_gumreddit-pos-CCONJ.html">CCONJ</a></tt> 521: <em>_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _</em>
-  * <tt><a href="en_gumreddit-pos-SCONJ.html">SCONJ</a></tt> 402: <em><b>_</b> _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _</em>
+  * <tt><a href="en_gumreddit-pos-SCONJ.html">SCONJ</a></tt> 404: <em><b>_</b> _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _</em>
   * <tt><a href="en_gumreddit-pos-PROPN.html">PROPN</a></tt> 233: <em><b>_</b> _</em>
   * <tt><a href="en_gumreddit-pos-NUM.html">NUM</a></tt> 107: <em>_ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _</em>
   * <tt><a href="en_gumreddit-pos-INTJ.html">INTJ</a></tt> 59: <em><b>_</b> _ _ _ _ _ _ _</em>
@@ -56,7 +56,7 @@ Examples: <em>_</em>
 
 `INTJ` nodes are attached to their parents using 4 different relations: <tt><a href="en_gumreddit-dep-discourse.html">discourse</a></tt> (51; 86% instances), <tt><a href="en_gumreddit-dep-root.html">root</a></tt> (4; 7% instances), <tt><a href="en_gumreddit-dep-obj.html">obj</a></tt> (3; 5% instances), <tt><a href="en_gumreddit-dep-compound.html">compound</a></tt> (1; 2% instances)
 
-Parents of `INTJ` nodes belong to 5 different parts of speech: <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (31; 53% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (13; 22% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> (9; 15% instances),  (4; 7% instances), <tt><a href="en_gumreddit-pos-INTJ.html">INTJ</a></tt> (2; 3% instances)
+Parents of `INTJ` nodes belong to 6 different parts of speech: <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (30; 51% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (13; 22% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> (9; 15% instances),  (4; 7% instances), <tt><a href="en_gumreddit-pos-INTJ.html">INTJ</a></tt> (2; 3% instances), <tt><a href="en_gumreddit-pos-AUX.html">AUX</a></tt> (1; 2% instances)
 
 30 (51%) `INTJ` nodes are leaves.
 

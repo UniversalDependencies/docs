@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-868 nodes (0%) are attached to their parents as `aux`.
+866 nodes (0%) are attached to their parents as `aux`.
 
-838 instances of `aux` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.11635944700461.
+836 instances of `aux` (97%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.11662817551963.
 
-The following 10 pairs of parts of speech are connected with `aux`: <tt><a href="tr_kenet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_kenet-pos-AUX.html">AUX</a></tt> (307; 35% instances), <tt><a href="tr_kenet-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_kenet-pos-AUX.html">AUX</a></tt> (297; 34% instances), <tt><a href="tr_kenet-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_kenet-pos-AUX.html">AUX</a></tt> (188; 22% instances), <tt><a href="tr_kenet-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_kenet-pos-AUX.html">AUX</a></tt> (36; 4% instances), <tt><a href="tr_kenet-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_kenet-pos-AUX.html">AUX</a></tt> (28; 3% instances), <tt><a href="tr_kenet-pos-AUX.html">AUX</a></tt>-<tt><a href="tr_kenet-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="tr_kenet-pos-DET.html">DET</a></tt>-<tt><a href="tr_kenet-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="tr_kenet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_kenet-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="tr_kenet-pos-ADP.html">ADP</a></tt>-<tt><a href="tr_kenet-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="tr_kenet-pos-INTJ.html">INTJ</a></tt>-<tt><a href="tr_kenet-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `aux`: <tt><a href="tr_kenet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_kenet-pos-AUX.html">AUX</a></tt> (307; 35% instances), <tt><a href="tr_kenet-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_kenet-pos-AUX.html">AUX</a></tt> (297; 34% instances), <tt><a href="tr_kenet-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_kenet-pos-AUX.html">AUX</a></tt> (187; 22% instances), <tt><a href="tr_kenet-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_kenet-pos-AUX.html">AUX</a></tt> (36; 4% instances), <tt><a href="tr_kenet-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_kenet-pos-AUX.html">AUX</a></tt> (27; 3% instances), <tt><a href="tr_kenet-pos-AUX.html">AUX</a></tt>-<tt><a href="tr_kenet-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="tr_kenet-pos-DET.html">DET</a></tt>-<tt><a href="tr_kenet-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="tr_kenet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_kenet-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="tr_kenet-pos-ADP.html">ADP</a></tt>-<tt><a href="tr_kenet-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="tr_kenet-pos-INTJ.html">INTJ</a></tt>-<tt><a href="tr_kenet-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

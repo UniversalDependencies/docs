@@ -62,7 +62,7 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 The 10 most frequent relations where parent and child node agree in `Voice`:
 <tt>VERB --[<tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt>]--> VERB</tt> (14726; 65%),
 <tt>VERB --[<tt><a href="ru_syntagrus-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (8289; 67%),
-<tt>VERB --[<tt><a href="ru_syntagrus-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (6312; 60%),
+<tt>VERB --[<tt><a href="ru_syntagrus-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (6313; 60%),
 <tt>VERB --[<tt><a href="ru_syntagrus-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (3831; 61%),
 <tt>VERB --[<tt><a href="ru_syntagrus-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (3302; 60%),
 <tt>VERB --[<tt><a href="ru_syntagrus-dep-acl.html">acl</a></tt>]--> VERB</tt> (46; 51%),

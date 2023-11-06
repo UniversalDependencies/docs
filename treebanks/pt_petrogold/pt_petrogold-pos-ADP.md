@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Portuguese-PetroGold: POS Tags: `ADP`
 
-There are 53 `ADP` lemmas (0%), 64 `ADP` types (0%) and 43295 `ADP` tokens (17%).
+There are 53 `ADP` lemmas (0%), 64 `ADP` types (0%) and 43294 `ADP` tokens (17%).
 Out of 16 observed tags, the rank of `ADP` is: 8 in number of lemmas, 10 in number of types and 2 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>de, em, a, para, por, com, como, entre, sobre, até</em>
@@ -66,7 +66,7 @@ The 10 most frequent ambiguous types:  <em>de</em> (<tt><a href="pt_petrogold-po
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.207547 (the average of all parts of speech is 1.452220).
+The form / lemma ratio of `ADP` is 1.207547 (the average of all parts of speech is 1.452181).
 
 The 1st highest number of forms (4) was observed with the lemma “de”: <em>de, des, e, se</em>.
 
@@ -79,21 +79,21 @@ The 3rd highest number of forms (2) was observed with the lemma “até”: <em>
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 9 different relations: <tt><a href="pt_petrogold-dep-case.html">case</a></tt> (38716; 89% instances), <tt><a href="pt_petrogold-dep-mark.html">mark</a></tt> (1676; 4% instances), <tt><a href="pt_petrogold-dep-fixed.html">fixed</a></tt> (1425; 3% instances), <tt><a href="pt_petrogold-dep-flat-name.html">flat:name</a></tt> (1031; 2% instances), <tt><a href="pt_petrogold-dep-obl.html">obl</a></tt> (357; 1% instances), <tt><a href="pt_petrogold-dep-cc.html">cc</a></tt> (84; 0% instances), <tt><a href="pt_petrogold-dep-root.html">root</a></tt> (4; 0% instances), <tt><a href="pt_petrogold-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="pt_petrogold-dep-appos.html">appos</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 9 different relations: <tt><a href="pt_petrogold-dep-case.html">case</a></tt> (38716; 89% instances), <tt><a href="pt_petrogold-dep-mark.html">mark</a></tt> (1676; 4% instances), <tt><a href="pt_petrogold-dep-fixed.html">fixed</a></tt> (1424; 3% instances), <tt><a href="pt_petrogold-dep-flat-name.html">flat:name</a></tt> (1031; 2% instances), <tt><a href="pt_petrogold-dep-obl.html">obl</a></tt> (357; 1% instances), <tt><a href="pt_petrogold-dep-cc.html">cc</a></tt> (84; 0% instances), <tt><a href="pt_petrogold-dep-root.html">root</a></tt> (4; 0% instances), <tt><a href="pt_petrogold-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="pt_petrogold-dep-appos.html">appos</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 12 different parts of speech: <tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt> (34027; 79% instances), <tt><a href="pt_petrogold-pos-PROPN.html">PROPN</a></tt> (4298; 10% instances), <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt> (2116; 5% instances), <tt><a href="pt_petrogold-pos-ADP.html">ADP</a></tt> (830; 2% instances), <tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> (620; 1% instances), <tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt> (503; 1% instances), <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt> (404; 1% instances), <tt><a href="pt_petrogold-pos-SYM.html">SYM</a></tt> (239; 1% instances), <tt><a href="pt_petrogold-pos-ADJ.html">ADJ</a></tt> (198; 0% instances), <tt><a href="pt_petrogold-pos-DET.html">DET</a></tt> (41; 0% instances), <tt><a href="pt_petrogold-pos-X.html">X</a></tt> (15; 0% instances),  (4; 0% instances)
+Parents of `ADP` nodes belong to 12 different parts of speech: <tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt> (34027; 79% instances), <tt><a href="pt_petrogold-pos-PROPN.html">PROPN</a></tt> (4298; 10% instances), <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt> (2116; 5% instances), <tt><a href="pt_petrogold-pos-ADP.html">ADP</a></tt> (829; 2% instances), <tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> (620; 1% instances), <tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt> (503; 1% instances), <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt> (404; 1% instances), <tt><a href="pt_petrogold-pos-SYM.html">SYM</a></tt> (239; 1% instances), <tt><a href="pt_petrogold-pos-ADJ.html">ADJ</a></tt> (198; 0% instances), <tt><a href="pt_petrogold-pos-DET.html">DET</a></tt> (41; 0% instances), <tt><a href="pt_petrogold-pos-X.html">X</a></tt> (15; 0% instances),  (4; 0% instances)
 
-41847 (97%) `ADP` nodes are leaves.
+41846 (97%) `ADP` nodes are leaves.
 
-247 (1%) `ADP` nodes have one child.
+246 (1%) `ADP` nodes have one child.
 
 926 (2%) `ADP` nodes have two children.
 
-275 (1%) `ADP` nodes have three or more children.
+276 (1%) `ADP` nodes have three or more children.
 
 The highest child degree of a `ADP` node is 5.
 
-Children of `ADP` nodes are attached using 6 different relations: <tt><a href="pt_petrogold-dep-fixed.html">fixed</a></tt> (2666; 90% instances), <tt><a href="pt_petrogold-dep-punct.html">punct</a></tt> (299; 10% instances), <tt><a href="pt_petrogold-dep-obl.html">obl</a></tt> (3; 0% instances), <tt><a href="pt_petrogold-dep-nummod.html">nummod</a></tt> (2; 0% instances), <tt><a href="pt_petrogold-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="pt_petrogold-dep-nmod.html">nmod</a></tt> (1; 0% instances)
+Children of `ADP` nodes are attached using 6 different relations: <tt><a href="pt_petrogold-dep-fixed.html">fixed</a></tt> (2669; 90% instances), <tt><a href="pt_petrogold-dep-punct.html">punct</a></tt> (299; 10% instances), <tt><a href="pt_petrogold-dep-obl.html">obl</a></tt> (3; 0% instances), <tt><a href="pt_petrogold-dep-nummod.html">nummod</a></tt> (2; 0% instances), <tt><a href="pt_petrogold-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="pt_petrogold-dep-nmod.html">nmod</a></tt> (1; 0% instances)
 
-Children of `ADP` nodes belong to 10 different parts of speech: <tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt> (954; 32% instances), <tt><a href="pt_petrogold-pos-ADP.html">ADP</a></tt> (830; 28% instances), <tt><a href="pt_petrogold-pos-PUNCT.html">PUNCT</a></tt> (299; 10% instances), <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt> (287; 10% instances), <tt><a href="pt_petrogold-pos-DET.html">DET</a></tt> (257; 9% instances), <tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> (162; 5% instances), <tt><a href="pt_petrogold-pos-SCONJ.html">SCONJ</a></tt> (149; 5% instances), <tt><a href="pt_petrogold-pos-ADJ.html">ADJ</a></tt> (23; 1% instances), <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt> (9; 0% instances), <tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt> (2; 0% instances)
+Children of `ADP` nodes belong to 10 different parts of speech: <tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt> (956; 32% instances), <tt><a href="pt_petrogold-pos-ADP.html">ADP</a></tt> (829; 28% instances), <tt><a href="pt_petrogold-pos-PUNCT.html">PUNCT</a></tt> (299; 10% instances), <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt> (287; 10% instances), <tt><a href="pt_petrogold-pos-DET.html">DET</a></tt> (258; 9% instances), <tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> (162; 5% instances), <tt><a href="pt_petrogold-pos-SCONJ.html">SCONJ</a></tt> (150; 5% instances), <tt><a href="pt_petrogold-pos-ADJ.html">ADJ</a></tt> (23; 1% instances), <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt> (9; 0% instances), <tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt> (2; 0% instances)
 

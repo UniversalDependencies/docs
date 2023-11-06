@@ -126,7 +126,7 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 * `Gen` (6; 13% of non-empty `Case`): <em>ақтардың, жаттың, туындының, жылдығының</em>
 * `Loc` (4; 8% of non-empty `Case`): <em>аулақта, жартысында, Анығында</em>
 * `Nom` (21; 44% of non-empty `Case`): <em>бар, атты, дауысты, жақын, жоқ, жуығы, көп, түркі, Ақтар, баршасы</em>
-* `EMPTY` (778): <em>бар, үлкен, жаңа, керек, жоқ, тиіс, жақсы, ұлттық, экономикалық, басқа</em>
+* `EMPTY` (779): <em>бар, үлкен, керек, жаңа, жоқ, тиіс, жақсы, ұлттық, экономикалық, басқа</em>
 
 <table>
   <tr><th>Paradigm <i>бар</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>

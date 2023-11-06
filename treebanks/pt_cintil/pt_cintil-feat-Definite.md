@@ -29,7 +29,8 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 ## Relations with Agreement in `Definite`
 
 The 10 most frequent relations where parent and child node agree in `Definite`:
-<tt>DET --[<tt><a href="pt_cintil-dep-fixed.html">fixed</a></tt>]--> DET</tt> (51; 98%),
+<tt>DET --[<tt><a href="pt_cintil-dep-flat.html">flat</a></tt>]--> DET</tt> (49; 98%),
 <tt>DET --[<tt><a href="pt_cintil-dep-parataxis.html">parataxis</a></tt>]--> DET</tt> (3; 100%),
-<tt>DET --[<tt><a href="pt_cintil-dep-conj.html">conj</a></tt>]--> DET</tt> (2; 100%).
+<tt>DET --[<tt><a href="pt_cintil-dep-conj.html">conj</a></tt>]--> DET</tt> (2; 100%),
+<tt>DET --[<tt><a href="pt_cintil-dep-fixed.html">fixed</a></tt>]--> DET</tt> (2; 100%).
 

@@ -29,6 +29,8 @@ The most frequent other feature values with which `PRON` and `Poss` co-occurred:
 
 36 <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `Poss`.
 
+The most frequent other feature values with which `ADJ` and `Poss` co-occurred: <tt><a href="pcm_nsc-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (36; 100%).
+
 `ADJ` tokens may have the following values of `Poss`:
 
 * `Yes` (36; 100% of non-empty `Poss`): <em>your, its</em>

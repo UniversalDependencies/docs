@@ -22,7 +22,7 @@ The following 8 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 6 ccomp	color:blue
-1	That	that	PRON	DT	Number=Sing|PronType=Dem	2	nsubj	2:nsubj	SpaceAfter=No
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	2	nsubj	2:nsubj	_
 2	's	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	not	not	PART	RB	Polarity=Neg	2	advmod	2:advmod	_
 4	what	what	PRON	WP	PronType=Int	6	obj	6:obj	_
@@ -57,13 +57,13 @@ The following 8 pairs of parts of speech are connected with `ccomp`: <tt><a href
 11	there	there	PRON	EX	_	15	expl	15:expl	_
 12	will	will	AUX	MD	VerbForm=Fin	15	aux	15:aux	_
 13	be	be	AUX	VB	VerbForm=Inf	15	cop	15:cop	_
-14	no	no	DET	DT	Polarity=Neg	15	det	15:det	_
+14	no	no	DET	DT	PronType=Neg	15	det	15:det	_
 15	rise	rise	NOUN	NN	Number=Sing	5	ccomp	5:ccomp	_
 16	in	in	ADP	IN	_	17	case	17:case	_
 17	VAT	vat	NOUN	NN	Number=Sing	15	nmod	15:nmod:in	SpaceAfter=No
 18	,	,	PUNCT	,	_	15	punct	15:punct	_
 19	for	for	ADP	IN	_	20	case	20:case	_
-20	2017	2017	NUM	CD	NumType=Card	15	nmod	15:nmod:for	_
+20	2017	2017	NUM	CD	NumForm=Digit|NumType=Card	15	nmod	15:nmod:for	_
 21	at	at	ADV	RB	_	22	case	22:case	_
 22	least	least	ADV	RBS	Degree=Sup	20	nmod	20:nmod:at	SpaceAfter=No
 23	.	.	PUNCT	.	_	5	punct	5:punct	_
@@ -78,12 +78,12 @@ The following 8 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 10	fgColor:white
 # visual-style 10 13 ccomp	color:blue
 1	"	"	PUNCT	``	_	4	punct	4:punct	SpaceAfter=No
-2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	SpaceAfter=No
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
 3	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
 4	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	_
 5	to	to	ADP	IN	_	6	case	6:case	_
 6	jail	jail	NOUN	NN	Number=Sing	4	obl	4:obl:to	_
-7	either	either	DET	DT	_	8	det	8:det	_
+7	either	either	DET	DT	PronType=Ind	8	det	8:det	_
 8	way	way	NOUN	NN	Number=Sing	4	obl:npmod	4:obl:npmod	SpaceAfter=No
 9	,	,	PUNCT	,	_	4	punct	4:punct	_
 10	hope	hope	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	parataxis	4:parataxis	_

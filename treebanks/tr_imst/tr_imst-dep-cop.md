@@ -17,36 +17,33 @@ The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="
 
 
 ~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 cop	color:blue
-1	Alışveriş	alışveriş	NOUN	Noun	Case=Nom|Number=Sing|Person=3	5	csubj	_	_
-2	ise	i	AUX	Conj	_	1	cop	_	_
-3	hayatın	hayat	NOUN	Noun	Case=Gen|Number=Sing|Person=3	4	nmod:poss	_	_
-4	temelinde	temel	ADJ	NAdj	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	5	amod	_	_
-5	yatar	yat	VERB	Verb	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	SpaceAfter=No
-6	.	.	PUNCT	Punc	_	5	punct	_	_
+# visual-style 2 3 cop	color:blue
+1	Uzun	uzun	ADJ	Adj	_	2	amod	_	_
+2	zaman	zaman	NOUN	Noun	Case=Nom|Number=Sing|Person=3	5	obl	_	_
+3	dır	i	AUX	Zero	Aspect=Perf|Mood=Gen|Number=Sing|Person=3|Tense=Pres	2	cop	_	_
+4	mı	mi	AUX	Ques	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	aux:q	_	_
+5	gidersiniz	git	VERB	Verb	Aspect=Hab|Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres	0	root	_	_
+6	oraya	ora	NOUN	Noun	Case=Dat|Number=Sing|Person=3	5	obl	_	SpaceAfter=No
+7	.	.	PUNCT	Punc	_	5	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 8 cop	color:blue
-1	Oğlunun	oğul	NOUN	Noun	Case=Gen|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	4	nsubj	_	_
-2	neden	ne	PRON	Ques	Case=Abl|Number=Sing|Person=3	4	obl	_	_
-3	eroinman	eroinman	ADJ	NAdj	Case=Nom|Number=Sing|Person=3	4	obj	_	_
-4	olduğunu	ol	VERB	Verb	Aspect=Perf|Case=Acc|Mood=Ind|Number[psor]=Sing|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part	5	ccomp	_	_
-5	anlayamaması	anla	VERB	Verb	Aspect=Perf|Case=Nom|Mood=Pot|Number[psor]=Sing|Person[psor]=3|Polarity=Neg|Tense=Pres|VerbForm=Vnoun	7	nsubj	_	_
-6	çok	çok	ADV	Adverb	_	7	advmod	_	_
-7	doğal	doğal	ADJ	NAdj	Case=Nom|Number=Sing|Person=3	0	root	_	_
-8	dı	i	AUX	Zero	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	7	cop	_	_
-9	.	.	PUNCT	Punc	_	7	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 cop	color:blue
+1	Hayır	hayır	NOUN	Noun	Case=Nom|Number=Sing|Person=3	3	discourse	_	SpaceAfter=No
+2	,	,	PUNCT	Punc	_	3	punct	_	_
+3	şarklı	şarklı	ADJ	Adj	_	0	root	_	_
+4	değil	değil	AUX	Neg	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	3	cop	_	SpaceAfter=No
+5	.	.	PUNCT	Punc	_	3	punct	_	_
 
 ~~~
 
@@ -57,11 +54,12 @@ The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 cop	color:blue
-1	-	-	PUNCT	Punc	_	2	punct	_	SpaceAfter=No
-2	?	ne	PRON	Ques	Case=Abl|Number=Sing|Person=3	0	root	_	_
-3	edenmiş	i	AUX	Zero	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	2	cop	_	_
-4	o	o	PRON	Demons	Case=Nom|Number=Sing|Person=3|PronType=Dem	2	nsubj	_	SpaceAfter=No
-5	?	?	PUNCT	Punc	_	2	punct	_	_
+1	Sen	sen	PRON	Pers	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
+2	?	nere	PRON	Ques	Case=Loc|Number=Sing|Person=3	5	ccomp	_	_
+3	eredesin	i	AUX	Zero	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres	2	cop	_	_
+4	diye	diye	ADP	PCNom	_	2	case	_	_
+5	sordum	sor	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Past	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	Punc	_	5	punct	_	_
 
 ~~~
 

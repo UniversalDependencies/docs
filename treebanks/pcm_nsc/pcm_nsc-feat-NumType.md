@@ -29,6 +29,8 @@ The feature is used with 4 part-of-speech tags: <tt><a href="pcm_nsc-pos-NUM.htm
 
 108 <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> tokens (3% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
+The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="pcm_nsc-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (100; 93%).
+
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (108; 100% of non-empty `NumType`): <em>first, second, third, fourth, eleventh, tenth, eighteenth, fifth, twenty-fourth</em>

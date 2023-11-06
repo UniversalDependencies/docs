@@ -18,20 +18,21 @@ The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 8 csubj	color:blue
-1	Синь	сон	PRON	Pron	Case=Gen|Number=Plur|Person=3|PronType=Prs	2	nmod	_	GTtags=Pers,Pl3,Gen
-2	мялезостка	мяль	NOUN	N	Case=Ill|Clitic=AddGA|Number=Plur,Sing|Number[psor]=Plur|Person[psor]=3	4	obl:lmod	_	GTtags=SP,Ill,PxPl3,Clt/Ka
-3	ашезь	аш	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Polarity=Neg|Tense=Past|VerbType=Aux	4	aux:neg	_	GTtags=Aux,Neg,Ind,Prt1,ScSg3
-4	кунда	кундамс	VERB	V	Connegative=Yes	0	root	_	GTtags=TV,ConNeg|SpaceAfter=No
-5	,	,	PUNCT	CLB	_	8	punct	_	_
-6	кие	кие	PRON	Pron	Case=Nom|Number=Sing|PronType=Int	8	nsubj	_	GTtags=Interr,Sg,Nom
-7	тянь	тя	PRON	Pron	Case=Gen|Number=Plur,Sing|PronType=Dem	8	obj	_	GTtags=Dem|SP,Gen
-8	сёрмадозе	сёрмадомс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Past	4	csubj	_	GTtags=TV,Ind,Prt1,ScSg3|OcSg3|SpaceAfter=No
-9	.	.	PUNCT	CLB	_	4	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 4 csubj	color:blue
+1	Заводса	завод	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	4	obl:lmod	_	GTtags=SP,Ine,Indef
+2	или	или	CCONJ	CC	_	3	cc	_	_
+3	фабрикаса	фабрика	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	1	conj	_	GTtags=SP,Ine,Indef
+4	работамась	работамс	VERB	V	Case=Nom|Definite=Def|Number=Sing|VerbForm=Vnoun	7	csubj	_	GTtags=NomAct,Sg,Nom,Def
+5	кунаркиге	кунаркиге	ADV	Adv	AdvType=Tim	7	advmod:tmod	_	GTtags=Sem/Time
+6	ни	ни	ADV	Adv	AdvType=Tim	5	advmod:tmod	_	GTtags=Sem/Time
+7	повсь	повомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=Ind,Prt1,ScSg3
+8	Тишкань	Тишка	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	9	nmod:poss	_	GTtags=Prop,SP,Gen,Indef
+9	пряс	пря	NOUN	N	Case=Ill|Definite=Ind|Number=Plur,Sing	7	obl:lmod	_	GTtags=SP,Ill,Indef|SpaceAfter=No
+10	.	.	PUNCT	PUNCT	_	7	punct	_	_
 
 ~~~
 

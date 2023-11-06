@@ -71,7 +71,7 @@ The following 8 pairs of parts of speech are connected with `parataxis`: <tt><a 
 # visual-style 1	fgColor:white
 # visual-style 1 4 parataxis	color:blue
 1	Día	día	NOUN	NN	Gender=Masc|Number=Sing	0	root	_	_
-2	tres	tres	NUM	CD	Gender=Masc|NumType=Card	1	appos	_	SpaceAfter=No
+2	tres	tres	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	1	appos	_	SpaceAfter=No
 3	,	,	PUNCT	,	_	4	punct	_	_
 4	estaba	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
 5	de	de	ADP	IN	_	6	case	_	_

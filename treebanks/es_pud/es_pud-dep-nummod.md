@@ -27,7 +27,7 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 3	permitido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	_
 4	es	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	de	de	ADP	IN	_	7	case	_	_
-6	5 000	5 000	NUM	CD	Gender=Masc|NumType=Card	7	nummod	_	_
+6	5 000	5 000	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	7	nummod	_	_
 7	$	_	NOUN	NN	Gender=Masc|Number=Plur	4	obl	_	_
 8	por	por	ADP	IN	_	9	case	_	_
 9	persona	persona	NOUN	NN	Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
@@ -47,7 +47,7 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 3	Milán	Milán	PROPN	NNP	Number=Sing	1	nmod	_	_
 4	dependían	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 5	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
-6	80	80	NUM	CD	Gender=Masc|NumType=Card	7	nummod	_	SpaceAfter=No
+6	80	80	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	7	nummod	_	SpaceAfter=No
 7	%	%	SYM	SYM	_	4	advmod	_	_
 8	de	de	ADP	INDT	_	10	case	_	_
 9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
@@ -71,8 +71,8 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 5	de	de	ADP	IN	_	6	case	_	_
 6	más	_	ADV	RBR	Degree=Cmp	4	xcomp	_	_
 7	de	de	ADP	IN	_	10	case	_	_
-8	1,4	1,4	NUM	CD	Gender=Masc|NumType=Card	9	nummod	_	_
-9	mil	mil	NUM	CD	Gender=Masc|NumType=Card	10	nummod	_	_
+8	1,4	1,4	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	9	nummod	_	_
+9	mil	mil	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	10	nummod	_	_
 10	millones	_	NOUN	NN	Gender=Masc|Number=Plur	6	obl	_	_
 11	de	de	ADP	IN	_	12	case	_	_
 12	dólares	_	NOUN	NN	Gender=Masc|Number=Plur	10	nmod	_	_
@@ -81,7 +81,7 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 15	con	con	ADP	IN	_	16	case	_	_
 16	más	_	ADV	RBR	Degree=Cmp	14	xcomp	_	_
 17	de	de	ADP	IN	_	19	case	_	_
-18	6 000	6 000	NUM	CD	Gender=Masc|NumType=Card	19	nummod	_	_
+18	6 000	6 000	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	19	nummod	_	_
 19	empleados	_	NOUN	NN	Gender=Masc|Number=Plur	16	obl	_	SpaceAfter=No
 20	.	.	PUNCT	.	_	4	punct	_	_
 

@@ -52,16 +52,21 @@ The following 18 pairs of parts of speech are connected with `nmod`: <tt><a href
 
 
 ~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 nmod	color:blue
-1	Алязе	аля	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	4	nsubj	_	GTtags=Sg,Nom,PxSg1
-2	тонь	тон	PRON	Pron	Case=Gen|Number=Sing|Person=2|PronType=Prs	3	nmod	_	GTtags=Pers,Sg2,Gen
-3	алядот	аля	NOUN	N	Case=Abl|Number=Plur,Sing|Number[psor]=Sing|Person[psor]=2	4	obl:cmp	_	GTtags=SP,Abl,PxSg2
-4	крутой	крутой	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	0	root	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
-5	.	.	PUNCT	CLB	_	4	punct	_	_
+# visual-style 2 1 nmod	color:blue
+1	Лиятнень	лия	PRON	Pron	Case=Gen|Definite=Def|Number=Plur	2	nmod	_	GTtags=Pl,Gen,Def
+2	ёткста	ётка	NOUN	N	Case=Ela|Definite=Ind|NounType=Relat|Number=Plur,Sing	5	obl:lmod	_	GTtags=Relator,SP,Ela,Indef
+3	сяда	сяда	ADV	Adv	AdvType=Deg	4	advmod:deg	_	GTtags=Deg
+4	лац	лац	ADV	Adv	_	5	advmod:mmod	_	_
+5	няезь	няемс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=Ind,Prt1,ScPl3,OcSg3
+6	Саввань	Савва	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	7	nmod:poss	_	GTtags=Prop,SP,Gen,Indef
+7	ёжушиц	ёжуши	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	obj	_	GTtags=Sg,Nom,PxSg3
+8	кафта	кафта	NUM	Num	Case=Nom|Definite=Ind|Number=Sing|NumType=Card	9	nummod	_	GTtags=Card,Sg,Nom,Indef
+9	браттне	брат	NOUN	N	Case=Nom|Definite=Def|Number=Plur	5	nsubj	_	GTtags=Pl,Nom,Def|SpaceAfter=No
+10	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
 ~~~
 

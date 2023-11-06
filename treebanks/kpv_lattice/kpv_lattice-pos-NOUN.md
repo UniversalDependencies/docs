@@ -28,7 +28,7 @@ The 10 most frequent ambiguous types:  <em>во</em> (<tt><a href="kpv_lattice-p
   * <tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> 5: <em>Кымынкӧ воськов вӧчӧм бӧрын пу <b>вылысь</b> аддзис сьӧд ёкмыль .</em>
   * <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 3: <em>— Ваддорса видз <b>вылысь</b> колхознӧй зорӧдысь турун нуӧмаӧсь .</em>
 * <em>зарни</em>
-  * <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 3: <em>Мери шедӧдіс бронза , Питер - эзысь , а Джейн - <b>зарни</b> .</em>
+  * <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 3: <em>Озырлун кыссьӧ озырлун дінӧ , a <b>зарни</b> — <b>зарни</b> дінӧ .</em>
   * <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> 1: <em>A юыслӧн паськыдкодь ковтысыс вӧлі лайковмунӧма катыдлань и кывтыдлань синмыд судзмӧн ылӧдз , да кузяла и пасьтала вӧлі сійӧс серӧдӧма <b>зарни</b> арлӧн югыда ӧзйысь рӧмъясӧн ...</em>
 * <em>Мери</em>
   * <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 2: <em><b>Мери</b> шедӧдіс бронза , Питер - эзысь , а Джейн - зарни .</em>

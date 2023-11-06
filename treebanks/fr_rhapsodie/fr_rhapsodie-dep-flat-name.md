@@ -75,7 +75,7 @@ The following 3 pairs of parts of speech are connected with `flat:name`: <tt><a 
 3	,	,	PUNCT	_	_	2	punct	_	_
 4	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	6	nsubj	_	_
 5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux:tense	_	_
-6	parti	partir	VERB	ETRE	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+6	parti	partir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	8	punct	_	_
 8	euh	euh	INTJ	_	_	6	discourse	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	12	punct	_	_
@@ -88,7 +88,7 @@ The following 3 pairs of parts of speech are connected with `flat:name`: <tt><a 
 16	Alain	Alain	PROPN	_	_	15	flat:name	_	SpaceAfter=No
 17	,	,	PUNCT	_	_	18	punct	_	_
 18	Alexandre	Alexandre	PROPN	_	_	15	conj	_	Overlap=Rhap_D2007-14
-19	XXX	XXX	X	_	_	18	flat:name	_	ExtPos=PROPN|Overlap=Rhap_D2007-14|SpaceAfter=No
+19	XXX	XXX	X	_	ExtPos=PROPN	18	flat:name	_	Overlap=Rhap_D2007-14|SpaceAfter=No
 20	.	.	PUNCT	_	_	6	punct	_	Overlap=Rhap_D2007-14
 
 ~~~

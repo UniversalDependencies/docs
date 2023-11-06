@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.5 release.
 The following people have contributed to making this treebank part of UD: Robert Munro.
 
 Repository: [UD_English-Pronouns](https://github.com/UniversalDependencies/UD_English-Pronouns)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_pronouns212)<br />
-Download all treebanks: [UD 2.12](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_pronouns213)<br />
+Download all treebanks: [UD 2.13](/#download)
 
 License: CC BY-SA 4.0
 
@@ -110,7 +110,7 @@ Please cite this book if using this dataset.
 
 ## Features
 
-[Case](en_pronouns-feat-Case.html) – [Definite](en_pronouns-feat-Definite.html) – [Degree](en_pronouns-feat-Degree.html) – [Gender](en_pronouns-feat-Gender.html) – [Mood](en_pronouns-feat-Mood.html) – [Number](en_pronouns-feat-Number.html) – [NumType](en_pronouns-feat-NumType.html) – [Person](en_pronouns-feat-Person.html) – [Polarity](en_pronouns-feat-Polarity.html) – [Poss](en_pronouns-feat-Poss.html) – [PronType](en_pronouns-feat-PronType.html) – [Tense](en_pronouns-feat-Tense.html) – [VerbForm](en_pronouns-feat-VerbForm.html)
+[Definite](en_pronouns-feat-Definite.html) – [Degree](en_pronouns-feat-Degree.html) – [Gender](en_pronouns-feat-Gender.html) – [Mood](en_pronouns-feat-Mood.html) – [Number](en_pronouns-feat-Number.html) – [NumType](en_pronouns-feat-NumType.html) – [Person](en_pronouns-feat-Person.html) – [Polarity](en_pronouns-feat-Polarity.html) – [Poss](en_pronouns-feat-Poss.html) – [PronType](en_pronouns-feat-PronType.html) – [Tense](en_pronouns-feat-Tense.html) – [VerbForm](en_pronouns-feat-VerbForm.html)
 
 ## Relations
 
@@ -265,17 +265,6 @@ Please cite this book if using this dataset.
   </li>
 </ul>
 
-<ul>
-  <li><a>Case</a></li>
-</ul>
-
-<ul>
-  <li>Nom
-    <ul>
-      <li>DET: all</li>
-    </ul>
-  </li>
-</ul>
 
 
 <ul>
@@ -404,6 +393,14 @@ Please cite this book if using this dataset.
   <li>Prs
     <ul>
       <li>PRON: hers, his, mine, theirs, yours, it</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Tot
+    <ul>
+      <li>DET: all</li>
     </ul>
   </li>
 </ul>

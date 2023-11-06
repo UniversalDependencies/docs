@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Classical_Chinese-Kyoto: POS Tags: `PRON`
 
-There are 54 `PRON` lemmas (0%), 55 `PRON` types (0%) and 20798 `PRON` tokens (5%).
+There are 53 `PRON` lemmas (0%), 55 `PRON` types (0%) and 20798 `PRON` tokens (5%).
 Out of 14 observed tags, the rank of `PRON` is: 6 in number of lemmas, 6 in number of types and 6 in number of tokens.
 
 The 10 most frequent `PRON` lemmas: 之、 其、 是、 此、 何、 吾、 自、 我、 子、 或
@@ -65,7 +65,7 @@ The 10 most frequent ambiguous types:  之 (<tt><a href="lzh_kyoto-pos-SCONJ.htm
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 1.018519 (the average of all parts of speech is 1.012984).
+The form / lemma ratio of `PRON` is 1.037736 (the average of all parts of speech is 1.013130).
 
 The 1st highest number of forms (3) was observed with the lemma “茲”: 兹, 玆, 茲.
 

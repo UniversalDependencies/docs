@@ -22,7 +22,7 @@ The following 1 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 11 vocative	color:blue
-1	That	that	PRON	DT	Number=Sing|PronType=Dem	2	nsubj	2:nsubj	SpaceAfter=No
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	2	nsubj	2:nsubj	_
 2	's	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	not	not	PART	RB	Polarity=Neg	2	advmod	2:advmod	_
 4	what	what	PRON	WP	PronType=Int	6	obj	6:obj	_

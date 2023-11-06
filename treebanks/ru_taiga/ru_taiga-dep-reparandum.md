@@ -40,7 +40,7 @@ The following 8 pairs of parts of speech are connected with `reparandum`: <tt><a
 # visual-style 7	fgColor:white
 # visual-style 7 33 reparandum	color:blue
 1	иван	Иван	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	3	nsubj	_	_
-2	иванович	Иванович	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Patrn|Number=Sing	1	flat:name	_	_
+2	иванович	Иванович	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Pat|Number=Sing	1	flat:name	_	_
 3	запнулся	запнуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
 4	так	так	ADV	_	Degree=Pos|PronType=Dem	6	advmod	_	_
 5	немножечко	немножечко	ADV	_	Degree=Pos	6	advmod	_	_

@@ -17,20 +17,21 @@ The following 5 pairs of parts of speech are connected with `fixed`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 fixed	color:blue
-1	Ya	ya	CCONJ	Conj	_	5	cc	_	_
-2	da	da	CCONJ	Conj	_	1	fixed	_	_
-3	bir	bir	DET	ANum	_	5	det	_	_
-4	dağ	dağ	NOUN	Noun	Case=Nom|Number=Sing|Person=3	5	nmod:poss	_	_
-5	evi	ev	NOUN	Noun	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	0	root	_	SpaceAfter=No
-6	;	;	PUNCT	Punc	_	8	punct	_	_
-7	kır	kır	NOUN	Noun	Case=Nom|Number=Sing|Person=3	8	nmod:poss	_	_
-8	kahvesi	kahve	NOUN	Noun	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	5	conj	_	SpaceAfter=No
-9	...	...	PUNCT	Punc	_	8	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 9 fixed	color:blue
+1	Bir	bir	DET	ANum	_	3	det	_	_
+2	gece	gece	NOUN	Noun	Case=Nom|Number=Sing|Person=3	3	nmod:poss	_	_
+3	zamanı	zaman	NOUN	Noun	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	5	obl	_	SpaceAfter=No
+4	,	,	PUNCT	Punc	_	3	punct	_	_
+5	yatakta	yatak	NOUN	Noun	Case=Loc|Number=Sing|Person=3	7	advcl	_	_
+6	yken	i	AUX	Zero	Aspect=Perf|Mood=Ind|Tense=Pres|VerbForm=Conv	5	cop	_	_
+7	söyledi	söyle	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	_
+8	hem	hem	CCONJ	Conj	_	7	advmod:emph	_	_
+9	de	de	CCONJ	Conj	_	8	fixed	_	SpaceAfter=No
+10	...	...	PUNCT	Punc	_	7	punct	_	_
 
 ~~~
 

@@ -36,20 +36,20 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 25	bgColor:blue
 # visual-style 25	fgColor:white
 # visual-style 25 24 nummod	color:blue
-1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+1	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	crois	croire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	qu'	que	SCONJ	_	_	16	mark	_	SpaceAfter=No
-4	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	reparandum	_	ExtPos=ADP|Idiom=Yes
+4	il	lui	PRON	_	ExtPos=ADP|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	reparandum	_	Idiom=Yes
 5	y	y	PRON	_	Person=3|PronType=Prs	4	fixed	_	InIdiom=Yes
 6	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	fixed	_	InIdiom=Yes|SpaceAfter=No
 7	,	,	PUNCT	_	_	12	punct	_	_
-8	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	case	_	ExtPos=ADP|Idiom=Yes
+8	il	lui	PRON	_	ExtPos=ADP|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	case	_	Idiom=Yes
 9	y	y	PRON	_	Person=3|PronType=Prs	8	fixed	_	InIdiom=Yes
-10	a	avoir	VERB	conj:reform	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	fixed	_	InIdiom=Yes
+10	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	fixed	_	InIdiom=Yes
 11	quelques	quelque	DET	_	Number=Plur|PronType=Ind	12	det	_	_
 12	années	année	NOUN	_	Gender=Fem|Number=Plur	16	obl:mod	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	12	punct	_	_
-14	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	16	nsubj	_	_
+14	ils	eux	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	16	nsubj	_	_
 15	avaient	avoir	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	16	aux:tense	_	_
 16	dit	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	ccomp	_	_
 17	que	que	SCONJ	_	_	21	mark	_	_
@@ -60,7 +60,7 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 22	d'	de	ADP	_	_	25	case	_	SpaceAfter=No
 23	environ	environ	ADV	_	_	24	advmod	_	_
 24	neuf	neuf	NUM	_	Number=Plur	25	nummod	_	_
-25	pour	pour	ADP	_	_	21	obl:mod	_	ExtPos=NOUN|Idiom=Yes
+25	pour	pour	ADP	_	ExtPos=NOUN	21	obl:mod	_	Idiom=Yes
 26	cent	cent	NUM	_	Number=Plur	25	fixed	_	InIdiom=Yes
 27	à	à	ADP	_	_	28	case	_	_
 28	Paris	Paris	PROPN	_	_	21	obl:mod	_	SpaceAfter=No
@@ -77,13 +77,13 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 7 6 nummod	color:blue
 1	pa~	pa~	SCONJ	_	_	10	reparandum	_	Overlap=Rhap_D2008-54bis|SpaceAfter=No
 2	,	,	PUNCT	_	_	10	punct	_	Overlap=Rhap_D2008-54bis
-3	parce	parce	ADV	_	_	10	mark	_	ExtPos=SCONJ|Idiom=Yes|Overlap=Rhap_D2008-54bis
+3	parce	parce	ADV	_	ExtPos=SCONJ	10	mark	_	Idiom=Yes|Overlap=Rhap_D2008-54bis
 4	que	que	SCONJ	_	_	3	fixed	_	InIdiom=Yes|Overlap=Rhap_D2008-54bis
 5	à	à	ADP	_	_	7	case	_	_
 6	trente	trente	NUM	_	Number=Plur	7	nummod	_	_
 7	mille	mille	NUM	_	Number=Plur	10	obl:mod	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	7	punct	_	_
-9	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	10	nsubj	_	_
+9	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	10	nsubj	_	_
 10	êtes	être	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 11	dans	dans	ADP	_	_	26	reparandum	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	26	punct	_	_

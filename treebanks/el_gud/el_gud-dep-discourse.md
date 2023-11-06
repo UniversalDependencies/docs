@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-29 nodes (0%) are attached to their parents as `discourse`.
+31 nodes (0%) are attached to their parents as `discourse`.
 
-25 instances of `discourse` (86%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.51724137931034.
+25 instances of `discourse` (81%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.38709677419355.
 
-The following 8 pairs of parts of speech are connected with `discourse`: <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-INTJ.html">INTJ</a></tt> (22; 76% instances), <tt><a href="el_gud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_gud-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="el_gud-pos-ADV.html">ADV</a></tt>-<tt><a href="el_gud-pos-INTJ.html">INTJ</a></tt> (1; 3% instances), <tt><a href="el_gud-pos-AUX.html">AUX</a></tt>-<tt><a href="el_gud-pos-INTJ.html">INTJ</a></tt> (1; 3% instances), <tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gud-pos-INTJ.html">INTJ</a></tt> (1; 3% instances), <tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gud-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="el_gud-pos-PRON.html">PRON</a></tt>-<tt><a href="el_gud-pos-INTJ.html">INTJ</a></tt> (1; 3% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-ADV.html">ADV</a></tt> (1; 3% instances).
+The following 8 pairs of parts of speech are connected with `discourse`: <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-INTJ.html">INTJ</a></tt> (24; 77% instances), <tt><a href="el_gud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_gud-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="el_gud-pos-ADV.html">ADV</a></tt>-<tt><a href="el_gud-pos-INTJ.html">INTJ</a></tt> (1; 3% instances), <tt><a href="el_gud-pos-AUX.html">AUX</a></tt>-<tt><a href="el_gud-pos-INTJ.html">INTJ</a></tt> (1; 3% instances), <tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gud-pos-INTJ.html">INTJ</a></tt> (1; 3% instances), <tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gud-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="el_gud-pos-PRON.html">PRON</a></tt>-<tt><a href="el_gud-pos-INTJ.html">INTJ</a></tt> (1; 3% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-ADV.html">ADV</a></tt> (1; 3% instances).
 
 
 ~~~ conllu

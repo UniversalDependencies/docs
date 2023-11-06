@@ -11,7 +11,7 @@ This relation is universal.
 909 nodes (9%) are attached to their parents as `root`.
 
 909 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.87128712871287.
+Average distance between parent and child is 3.85808580858086.
 
 The following 10 pairs of parts of speech are connected with `root`: -<tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> (788; 87% instances), -<tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt> (36; 4% instances), -<tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (35; 4% instances), -<tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> (20; 2% instances), -<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> (15; 2% instances), -<tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt> (8; 1% instances), -<tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt> (3; 0% instances), -<tt><a href="nhi_itml-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), -<tt><a href="nhi_itml-pos-DET.html">DET</a></tt> (1; 0% instances), -<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
@@ -46,8 +46,8 @@ The following 10 pairs of parts of speech are connected with `root`: -<tt><a hre
 1	keh	keh	SCONJ	_	_	3	mark	3:mark	NormalizedForm=keh|NormalizedLemma=keh
 2	amo	amo	ADV	_	Polarity=Neg	3	advmod	3:advmod	NormalizedForm=amo|NormalizedLemma=amo
 3	kwale	kwali	ADJ	_	_	0	root	0:root	NormalizedForm=kwale|NormalizedLemma=kwali
-4	niwalmokopas	walmokopa	VERB	_	_	3	csubj	3:csubj	SpaceAfter=No|NormalizedForm=niwalmokopas|NormalizedLemma=walmokopa
-5	,	,	PUNCT	_	_	3	punct	3:punct	NormalizedForm=,|NormalizedLemma=,
+4	niwalmokopas	walmokopa	VERB	_	Movement=Ven|Number[subj]=Sing|Person[subj]=1|Subcat=Tran|Tense=Fut|VerbForm=Fin	3	csubj	3:csubj	SpaceAfter=No|NormalizedForm=niwalmokopas|NormalizedLemma=walmokopa
+5	,	,	PUNCT	_	_	8	punct	8:punct	NormalizedForm=,|NormalizedLemma=,
 6	siempre	siempre	ADV	_	Foreign=Yes	8	advmod	8:advmod	NormalizedForm=siempre|NormalizedLemma=siempre
 7	o	o	AUX	_	_	8	aux	8:aux	NormalizedForm=o|NormalizedLemma=o
 8	nikpix	piya	VERB	_	Aspect=Perf|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Past	3	parataxis	3:parataxis	NormalizedForm=nikpix|NormalizedLemma=piya

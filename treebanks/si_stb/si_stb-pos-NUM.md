@@ -37,8 +37,8 @@ The 3rd highest number of forms (1) was observed with the lemma “පළමු�
 `NUM` occurs with 2 feature-value pairs: `NumType=Card`, `NumType=Ord`
 
 `NUM` occurs with 2 feature combinations.
-The most frequent feature combination is `NumType=Card` (2 tokens).
-Examples: <em>1990, හතර</em>
+The most frequent feature combination is `NumType=Ord` (2 tokens).
+Examples: <em>දෙවැන්න, පළමු</em>
 
 
 ## Relations

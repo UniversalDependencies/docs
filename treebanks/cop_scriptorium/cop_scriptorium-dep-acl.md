@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: <tt><a href="cop_scriptorium-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-8 nodes (0%) are attached to their parents as `acl`.
+9 nodes (0%) are attached to their parents as `acl`.
 
-8 instances of `acl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.875.
+9 instances of `acl` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.88888888888889.
 
-The following 2 pairs of parts of speech are connected with `acl`: <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (7; 88% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (1; 13% instances).
+The following 2 pairs of parts of speech are connected with `acl`: <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (8; 89% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (1; 11% instances).
 
 
 ~~~ conllu

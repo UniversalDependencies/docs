@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Latin-UDante: Relations: `flat:name`
 
 This relation is a language-specific subtype of <tt><a href="la_udante-dep-flat.html">flat</a></tt>.
-There are also 2 other language-specific subtypes of `flat`: <tt><a href="la_udante-dep-flat-foreign.html">flat:foreign</a></tt>, <tt><a href="la_udante-dep-flat-gov.html">flat:gov</a></tt>.
+There are also 3 other language-specific subtypes of `flat`: <tt><a href="la_udante-dep-flat-foreign.html">flat:foreign</a></tt>, <tt><a href="la_udante-dep-flat-gov.html">flat:gov</a></tt>, <tt><a href="la_udante-dep-flat-redup.html">flat:redup</a></tt>.
 
 28 nodes (0%) are attached to their parents as `flat:name`.
 
@@ -28,7 +28,7 @@ The following 3 pairs of parts of speech are connected with `flat:name`: <tt><a 
 3	a	a	ADP	e	_	5	mark	_	_
 4	proprio	proprius	ADJ	ans1b	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	5	amod	_	_
 5	poetando	poetor	VERB	va1fgb	Aspect=Prosp|Case=Abl|Gender=Neut|InflClass=LatA|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass	6	obl:arg	_	TraditionalMood=Gerundium
-6	divertisse	diuerto	VERB	va3fr	Aspect=Perf|VerbForm=Inf|Voice=Act	7	ccomp	_	TraditionalMood=Infinitivus|TraditionalTense=Perfectum
+6	divertisse	diuerto	VERB	va3fr	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	7	ccomp	_	TraditionalMood=Infinitivus|TraditionalTense=Perfectum
 7	audivimus	audio	VERB	va4irp1	Aspect=Perf|InflClass=LatI|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Perfectum
 8	,	,	PUNCT	Pu	_	9	punct	_	_
 9	Thomam	thomas	PROPN	Sms1a	Case=Acc|Gender=Masc|InflClass=IndEurA|NameType=Giv|Number=Sing	7	conj:expl	_	_
@@ -52,7 +52,7 @@ The following 3 pairs of parts of speech are connected with `flat:name`: <tt><a 
 1	Desinant	desino	VERB	va3cpp3	Aspect=Imp|InflClass=LatX|Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Subiunctivus|TraditionalTense=Praesens
 2	igitur	igitur	PART	r	_	1	discourse	_	_
 3	Imperium	imperium	NOUN	sns2a	Case=Acc|Gender=Neut|InflClass=IndEurO|NameType=Com|Number=Sing|Proper=Yes	4	obj	_	_
-4	exprobrare	exprobro	VERB	va1fp	Aspect=Imp|VerbForm=Inf|Voice=Act	1	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+4	exprobrare	exprobro	VERB	va1fp	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Act	1	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 5	romanum	romanus	ADJ	ans1a	Case=Acc|Gender=Neut|InflClass=IndEurO|NameType=Nat|Number=Sing	3	amod	_	_
 6	qui	qui	PRON	prepmn	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Plur|PronType=Rel	10	nsubj	_	_
 7	se	sui	PRON	ppp3pma	Case=Acc|InflClass=LatAnom|Person=3|PronType=Prs|Reflex=Yes	10	obj	_	_
@@ -71,7 +71,7 @@ The following 3 pairs of parts of speech are connected with `flat:name`: <tt><a 
 20	termino	terminus	NOUN	sms2b	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Sing	23	obl	_	_
 21	sue	suus	DET	dsfsg	Case=Gen|Gender=Fem|InflClass=IndEurA|Number=Sing|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes	22	det	_	_
 22	militie	militia	NOUN	sfs1g	Case=Gen|Gender=Fem|InflClass=IndEurA|Number=Sing	20	nmod	_	_
-23	comprobasse	comprobo	VERB	va1xfr	Aspect=Perf|VerbForm=Inf|Voice=Act	13	ccomp	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Perfectum
+23	comprobasse	comprobo	VERB	va1xfr	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	13	ccomp	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Perfectum
 24	.	.	PUNCT	Pu	_	1	punct	_	_
 
 ~~~
@@ -127,7 +127,7 @@ The following 3 pairs of parts of speech are connected with `flat:name`: <tt><a 
 42	,	,	PUNCT	Pu	_	21	punct	_	_
 43	humanum	humanus	ADJ	ans1n	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	44	amod	_	_
 44	genus	genus	NOUN	sns3n	Case=Nom|Gender=Neut|InflClass=IndEurX|Number=Sing	48	nsubj	_	_
-45	tunc	tunc	ADV	r	PronType=Dem	48	advmod	_	_
+45	tunc	tunc	ADV	r	AdvType=Tim|PronType=Dem	48	advmod:tmod	_	_
 46	optime	bene	ADV	rs	Degree=Abs	48	advmod	_	_
 47	se	sui	PRON	ppp3sna	Case=Acc|InflClass=LatAnom|Person=3|PronType=Prs|Reflex=Yes	48	obj	_	_
 48	habet	habeo	VERB	va2ips3	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens

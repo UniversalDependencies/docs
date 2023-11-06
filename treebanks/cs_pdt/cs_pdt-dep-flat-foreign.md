@@ -22,14 +22,14 @@ The following 2 pairs of parts of speech are connected with `flat:foreign`: <tt>
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 8 flat:foreign	color:blue
-1	Zajímavou	zajímavý	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	2	amod	2:amod	Entity=(cmpr9415025c94--2-gstype:spec|Functor=2:RSTR
+1	Zajímavou	zajímavý	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	2	amod	2:amod	Entity=(cmpr9415025c95--2-gstype:spec|Functor=2:RSTR
 2	službu	služba	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	5	obj	5:obj	Functor=5:PAT
-3	pro	pro	ADP	RR--4----------	AdpType=Prep|Case=Acc	4	case	4:case	Entity=(cmpr9415025c93--2|LId=pro-1
-4	podnikatele	podnikatel	NOUN	NNMP4-----A----	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	2	nmod	2:nmod:pro:acc	Entity=cmpr9415025c93)cmpr9415025c94)|Functor=2:BEN
+3	pro	pro	ADP	RR--4----------	AdpType=Prep|Case=Acc	4	case	4:case	Entity=(cmpr9415025c94--2|LId=pro-1
+4	podnikatele	podnikatel	NOUN	NNMP4-----A----	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	2	nmod	2:nmod:pro:acc	Entity=cmpr9415025c94)cmpr9415025c95)|Functor=2:BEN
 5	nabízí	nabízet	VERB	VB-S---3P-AAI--	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Functor=0:PRED
-6	firma	firma	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	5	nsubj	5:nsubj	Bridge=cmpr9415025c5<cmpr9415025c90:subset|Entity=(cmpr9415025c90--1|Functor=5:ACT
+6	firma	firma	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	5	nsubj	5:nsubj	Bridge=cmpr9415025c5<cmpr9415025c91:subset|Entity=(cmpr9415025c91--1|Functor=5:ACT
 7	Incentive	Incentive	X	F%-------------	Foreign=Yes	6	nmod	6:nmod	LId=Incentive-77|Functor=6:FPHR
-8	Travel	Travel	X	F%-------------	Foreign=Yes	7	flat:foreign	7:flat:foreign	Entity=cmpr9415025c90)|Functor=7:FPHR|LId=Travel-77|SpaceAfter=No
+8	Travel	Travel	X	F%-------------	Foreign=Yes	7	flat:foreign	7:flat:foreign	Entity=cmpr9415025c91)|Functor=7:FPHR|LId=Travel-77|SpaceAfter=No
 9	.	.	PUNCT	Z:-------------	_	5	punct	5:punct	_
 
 ~~~

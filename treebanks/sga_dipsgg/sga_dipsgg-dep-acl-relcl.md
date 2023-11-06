@@ -8,7 +8,7 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="sga_dipsgg-dep-acl.html">acl</a></tt>.
 
-6 nodes (2%) are attached to their parents as `acl:relcl`.
+6 nodes (1%) are attached to their parents as `acl:relcl`.
 
 6 instances of `acl:relcl` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.5.

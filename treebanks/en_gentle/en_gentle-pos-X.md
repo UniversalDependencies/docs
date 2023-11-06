@@ -41,7 +41,7 @@ The 10 most frequent ambiguous types:  <em>schole</em> (<tt><a href="en_gentle-p
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.027523 (the average of all parts of speech is 1.144307).
+The form / lemma ratio of `X` is 1.027523 (the average of all parts of speech is 1.144106).
 
 The 1st highest number of forms (4) was observed with the lemma “_”: <em>ever, right, self, ware</em>.
 

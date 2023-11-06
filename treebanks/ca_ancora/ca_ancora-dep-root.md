@@ -11,7 +11,7 @@ This relation is universal.
 16678 nodes (3%) are attached to their parents as `root`.
 
 16678 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 9.40958148459048.
+Average distance between parent and child is 9.41503777431347.
 
 The following 15 pairs of parts of speech are connected with `root`: -<tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> (13779; 83% instances), -<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (1274; 8% instances), -<tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt> (730; 4% instances), -<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (293; 2% instances), -<tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt> (153; 1% instances), -<tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> (146; 1% instances), -<tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (117; 1% instances), -<tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> (72; 0% instances), -<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (38; 0% instances), -<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (37; 0% instances), -<tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> (17; 0% instances), -<tt><a href="ca_ancora-pos-SYM.html">SYM</a></tt> (10; 0% instances), -<tt><a href="ca_ancora-pos-SCONJ.html">SCONJ</a></tt> (9; 0% instances), -<tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), -<tt><a href="ca_ancora-pos-PART.html">PART</a></tt> (1; 0% instances).
 
@@ -54,7 +54,7 @@ The following 15 pairs of parts of speech are connected with `root`: -<tt><a hre
 7	és	ser	AUX	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	10:cop	_
 8	de	de	ADP	sps00	_	10	case	10:case	_
 9	1.173.978,53	1173978.53	NUM	_	NumForm=Digit|NumType=Card	10	nummod	10:nummod	Entity=(NOCOREF:Spec.number-number-2-gstype:spec
-10	euros	euro	NOUN	zm	NumForm=Digit	0	root	0:root	SpaceAfter=No|ArgTem=arg2:atr|Entity=NOCOREF:Spec.number)
+10	euros	euro	NOUN	zm	Gender=Masc|Number=Plur	0	root	0:root	ArgTem=arg2:atr|Currency=Yes|Entity=NOCOREF:Spec.number)|SpaceAfter=No
 11	.	.	PUNCT	fp	PunctType=Peri	10	punct	10:punct	_
 
 ~~~

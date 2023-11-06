@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Western_Sierra_Puebla_Nahuatl-ITML: POS Tags: `ADP`
 
-There are 18 `ADP` lemmas (1%), 17 `ADP` types (1%) and 232 `ADP` tokens (2%).
-Out of 15 observed tags, the rank of `ADP` is: 13 in number of lemmas, 13 in number of types and 10 in number of tokens.
+There are 17 `ADP` lemmas (1%), 17 `ADP` types (1%) and 232 `ADP` tokens (2%).
+Out of 15 observed tags, the rank of `ADP` is: 12 in number of lemmas, 13 in number of types and 10 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>de, para, a, por, hasta, en, quemeh, desde, ic, ik</em>
 
 The 10 most frequent `ADP` types:  <em>de, para, a, por, hasta, en, quemeh, desde, ic, ik</em>
 
-The 10 most frequent ambiguous lemmas: <em>para</em> (<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 36, <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 34), <em>a</em> (<tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 16, <tt><a href="nhi_itml-pos-INTJ.html">INTJ</a></tt> 1), <em>hasta</em> (<tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 13, <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 1), <em>ic</em> (<tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 3, <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 2, <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> 2), <em>ik</em> (<tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 3, <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 3), <em>kemej</em> (<tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 3, <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 1), <em>kemeh</em> (<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 2, <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 1), <em>que</em> (<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 39, <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 2, <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> 2), <em>asta</em> (<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 1), <em>como</em> (<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 13, <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 1, <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>para</em> (<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 37, <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 35), <em>a</em> (<tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 16, <tt><a href="nhi_itml-pos-INTJ.html">INTJ</a></tt> 1), <em>hasta</em> (<tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 13, <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 1), <em>ic</em> (<tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 3, <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 3, <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> 2), <em>ik</em> (<tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 3, <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 3), <em>kemej</em> (<tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 3, <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 1), <em>kemeh</em> (<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 2, <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 1), <em>que</em> (<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 39, <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 2, <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> 2), <em>asta</em> (<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 1), <em>como</em> (<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 13, <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 1, <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>para</em> (<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 37, <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 34), <em>hasta</em> (<tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 12, <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 3), <em>ic</em> (<tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 3, <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 2, <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> 2), <em>ik</em> (<tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 2, <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 2, <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> 1), <em>kemej</em> (<tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 3, <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 1), <em>kemeh</em> (<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 2, <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 1), <em>que</em> (<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 38, <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 2, <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> 2), <em>asta</em> (<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 1), <em>como</em> (<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 11, <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 1, <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 1), <em>queme</em> (<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 6, <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>para</em> (<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 37, <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 34), <em>hasta</em> (<tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 12, <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 3), <em>ic</em> (<tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 3, <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 3, <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> 2), <em>ik</em> (<tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 2, <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 2, <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> 1), <em>kemej</em> (<tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 3, <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 1), <em>kemeh</em> (<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 2, <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 1), <em>que</em> (<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 38, <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 2, <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> 2), <em>asta</em> (<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 1), <em>como</em> (<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 11, <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 1, <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 1), <em>queme</em> (<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 6, <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 1)
 
 
 * <em>para</em>
@@ -26,7 +26,7 @@ The 10 most frequent ambiguous types:  <em>para</em> (<tt><a href="nhi_itml-pos-
   * <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 3: <em>yeh non , wan <b>hasta</b> nikah nikatki wan nimomochilia kwaltsih .</em>
 * <em>ic</em>
   * <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 3: <em>N isihtzin uan n icniu <b>ic</b> ompa ictzahtzilihtinimih :</em>
-  * <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 2: <em>Quemeh ome o yeyi youal satepan , quemeh las tres de la mañana , in tenantzin o quicac in itzcuintli icompa tzotzoyocatinimi <b>ic</b> quiyauac .</em>
+  * <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 3: <em>Quemeh ome o yeyi youal satepan , quemeh las tres de la mañana , in tenantzin o quicac in itzcuintli <b>ic</b> ompa tzotzoyocatinimi <b>ic</b> quiyauac .</em>
   * <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> 2: <em>Quen o cmihmilohtoya o ctoquihtah <b>ic</b> tlatenco uan o panpoliuito <b>ic</b> tlatzintlan uan ohcon o mopaleuih porqui in burro acmo o ahsic , nic o ilpitoya .</em>
 * <em>ik</em>
   * <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 2: <em>Kwakoyonka , <b>ik</b> nepa Tipatlak , <b>ik</b> nikah Tlaix , Tixohpa .</em>
@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>para</em> (<tt><a href="nhi_itml-pos-
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 0.944444 (the average of all parts of speech is 1.484900).
+The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.458263).
 
 The 1st highest number of forms (1) was observed with the lemma “a”: <em>a</em>.
 
@@ -79,9 +79,9 @@ Examples: <em>de, para, a, por, hasta, en, desde, como, sin</em>
 
 Parents of `ADP` nodes belong to 8 different parts of speech: <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (114; 49% instances), <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> (45; 19% instances), <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> (27; 12% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> (20; 9% instances), <tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt> (13; 6% instances), <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt> (8; 3% instances), <tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt> (4; 2% instances), <tt><a href="nhi_itml-pos-DET.html">DET</a></tt> (1; 0% instances)
 
-210 (91%) `ADP` nodes are leaves.
+209 (90%) `ADP` nodes are leaves.
 
-20 (9%) `ADP` nodes have one child.
+21 (9%) `ADP` nodes have one child.
 
 1 (0%) `ADP` nodes have two children.
 
@@ -89,7 +89,7 @@ Parents of `ADP` nodes belong to 8 different parts of speech: <tt><a href="nhi_i
 
 The highest child degree of a `ADP` node is 4.
 
-Children of `ADP` nodes are attached using 4 different relations: <tt><a href="nhi_itml-dep-fixed.html">fixed</a></tt> (18; 69% instances), <tt><a href="nhi_itml-dep-advmod.html">advmod</a></tt> (4; 15% instances), <tt><a href="nhi_itml-dep-punct.html">punct</a></tt> (3; 12% instances), <tt><a href="nhi_itml-dep-nmod.html">nmod</a></tt> (1; 4% instances)
+Children of `ADP` nodes are attached using 4 different relations: <tt><a href="nhi_itml-dep-fixed.html">fixed</a></tt> (18; 67% instances), <tt><a href="nhi_itml-dep-advmod.html">advmod</a></tt> (4; 15% instances), <tt><a href="nhi_itml-dep-punct.html">punct</a></tt> (4; 15% instances), <tt><a href="nhi_itml-dep-nmod.html">nmod</a></tt> (1; 4% instances)
 
-Children of `ADP` nodes belong to 4 different parts of speech: <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (10; 38% instances), <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> (9; 35% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> (4; 15% instances), <tt><a href="nhi_itml-pos-PUNCT.html">PUNCT</a></tt> (3; 12% instances)
+Children of `ADP` nodes belong to 4 different parts of speech: <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (10; 37% instances), <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> (9; 33% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> (4; 15% instances), <tt><a href="nhi_itml-pos-PUNCT.html">PUNCT</a></tt> (4; 15% instances)
 

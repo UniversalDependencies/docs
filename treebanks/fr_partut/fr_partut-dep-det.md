@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-4760 nodes (17%) are attached to their parents as `det`.
+4761 nodes (17%) are attached to their parents as `det`.
 
-4755 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.09978991596639.
+4756 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.09976895610166.
 
-The following 9 pairs of parts of speech are connected with `det`: <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-DET.html">DET</a></tt> (4482; 94% instances), <tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_partut-pos-DET.html">DET</a></tt> (123; 3% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_partut-pos-DET.html">DET</a></tt> (42; 1% instances), <tt><a href="fr_partut-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_partut-pos-DET.html">DET</a></tt> (35; 1% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_partut-pos-DET.html">DET</a></tt> (34; 1% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_partut-pos-DET.html">DET</a></tt> (23; 0% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-DET.html">DET</a></tt> (14; 0% instances), <tt><a href="fr_partut-pos-DET.html">DET</a></tt>-<tt><a href="fr_partut-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="fr_partut-pos-X.html">X</a></tt>-<tt><a href="fr_partut-pos-DET.html">DET</a></tt> (2; 0% instances).
+The following 9 pairs of parts of speech are connected with `det`: <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-DET.html">DET</a></tt> (4505; 95% instances), <tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_partut-pos-DET.html">DET</a></tt> (123; 3% instances), <tt><a href="fr_partut-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_partut-pos-DET.html">DET</a></tt> (35; 1% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_partut-pos-DET.html">DET</a></tt> (34; 1% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_partut-pos-DET.html">DET</a></tt> (23; 0% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_partut-pos-DET.html">DET</a></tt> (22; 0% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-DET.html">DET</a></tt> (12; 0% instances), <tt><a href="fr_partut-pos-DET.html">DET</a></tt>-<tt><a href="fr_partut-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="fr_partut-pos-X.html">X</a></tt>-<tt><a href="fr_partut-pos-DET.html">DET</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -55,23 +55,23 @@ The following 9 pairs of parts of speech are connected with `det`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 det	color:blue
-1	Mais	mais	CCONJ	CC	_	4	cc	_	_
-2	voici	voici	ADP	E	_	4	discourse	_	_
-3	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
-4	champignon	champignon	ADJ	A	Number=Sing	0	root	_	_
-5	qui	qui	PRON	PR	PronType=Rel	11	nsubj	_	_
-6	n'	ne	PART	PART	Polarity=Neg	11	advmod	_	SpaceAfter=No
-7	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
-8	plus	plus	ADV	B	_	11	advmod	_	_
-9	de	de	ADP	E	_	11	case	_	_
-10	première	premier	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	11	amod	_	_
-11	jeunesse	jeunesse	NOUN	S	Gender=Fem|Number=Sing	4	acl:relcl	_	SpaceAfter=No
-12	.	.	PUNCT	FS	_	4	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 8 det	color:blue
+1	Le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	mandat	mandat	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	_
+3	de	de	ADP	E	_	6	case	_	_
+4	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	SpaceAfter=No
+5	autre	autre	ADJ	A	Number=Sing	6	amod	_	_
+6	juge	juge	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+7	expire	expirer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	6	6	NUM	N	NumType=Card	7	obl	_	_
+10	octobre	octobre	NOUN	S	Gender=Fem|Number=Sing	9	flat	_	_
+11	2012	2012	NUM	N	NumType=Card	9	flat	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	7	punct	_	_
 
 ~~~
 

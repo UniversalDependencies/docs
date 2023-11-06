@@ -13,7 +13,7 @@ The 10 most frequent `X` lemmas: <em>_, in</em>
 
 The 10 most frequent `X` types:  <em>momatis, n, namechtlasohtla, queman, tlaliliaj</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> 60, <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> 23, <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 15, <tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> 12, <tt><a href="nhi_itml-pos-PUNCT.html">PUNCT</a></tt> 9, <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt> 6, <tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 6, <tt><a href="nhi_itml-pos-INTJ.html">INTJ</a></tt> 6, <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> 4, <tt><a href="nhi_itml-pos-X.html">X</a></tt> 4, <tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="nhi_itml-pos-CCONJ.html">CCONJ</a></tt> 1), <em>in</em> (<tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 456, <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 16, <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="nhi_itml-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> 18, <tt><a href="nhi_itml-pos-X.html">X</a></tt> 4, <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 1, <tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt> 1), <em>in</em> (<tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 461, <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 16, <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="nhi_itml-pos-X.html">X</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>n</em> (<tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 410, <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 24, <tt><a href="nhi_itml-pos-X.html">X</a></tt> 1), <em>queman</em> (<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 1, <tt><a href="nhi_itml-pos-X.html">X</a></tt> 1)
 
@@ -28,7 +28,7 @@ The 10 most frequent ambiguous types:  <em>n</em> (<tt><a href="nhi_itml-pos-DET
 
 ## Morphology
 
-The form / lemma ratio of `X` is 2.500000 (the average of all parts of speech is 1.484900).
+The form / lemma ratio of `X` is 2.500000 (the average of all parts of speech is 1.458263).
 
 The 1st highest number of forms (4) was observed with the lemma “_”: <em>momatis, namechtlasohtla, queman, tlaliliaj</em>.
 

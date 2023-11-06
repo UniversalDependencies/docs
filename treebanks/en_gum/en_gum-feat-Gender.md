@@ -19,7 +19,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="en_gum-pos-PRON.htm
 
 4143 <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> tokens (27% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4143; 100%), <tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=3</tt> (4143; 100%), <tt><a href="en_gum-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (4128; 100%), <tt><a href="en_gum-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (3147; 76%), <tt><a href="en_gum-feat-Case.html">Case</a></tt><tt>=Nom</tt> (2227; 54%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4143; 100%), <tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=3</tt> (4143; 100%), <tt><a href="en_gum-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (4128; 100%), <tt><a href="en_gum-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (3147; 76%), <tt><a href="en_gum-feat-Case.html">Case</a></tt><tt>=Nom</tt> (2225; 54%).
 
 `PRON` tokens may have the following values of `Gender`:
 
@@ -27,7 +27,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 * `Fem,Masc` (3; 0% of non-empty `Gender`): <em>s/he</em>
 * `Masc` (1398; 34% of non-empty `Gender`): <em>he, his, him, himself</em>
 * `Neut` (2043; 49% of non-empty `Gender`): <em>it, its, itself, it's</em>
-* `EMPTY` (11196): <em>i, you, that, we, they, my, your, this, what, which</em>
+* `EMPTY` (11208): <em>i, you, that, we, they, my, your, this, what, which</em>
 
 `Gender` seems to be **lexical feature** of `PRON`. 100% lemmas (10) occur only with one value of `Gender`.
 

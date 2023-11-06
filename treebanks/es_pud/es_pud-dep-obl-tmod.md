@@ -52,11 +52,11 @@ The following 4 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 4	tuvo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	lugar	lugar	NOUN	NN	Gender=Masc|Number=Sing	4	obj	_	_
 6	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
-7	30	30	NUM	CD	Gender=Masc|NumType=Card	4	obl:tmod	_	_
+7	30	30	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	4	obl:tmod	_	_
 8	de	de	ADP	IN	_	9	case	_	_
 9	abril	abril	NOUN	NN	Gender=Masc|Number=Sing	7	nmod	_	_
 10	de	de	ADP	IN	_	11	case	_	_
-11	1995	1995	NUM	CD	Gender=Masc|NumType=Card	9	nmod	_	SpaceAfter=No
+11	1995	1995	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	9	nmod	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	4	punct	_	_
 
 ~~~
@@ -76,7 +76,7 @@ The following 4 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 6	Hong	Hong	PROPN	NNP	Number=Sing	3	nmod	_	_
 7	Kong	Kong	PROPN	NNP	Number=Sing	6	flat:name	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	3	punct	_	_
-9	dos	dos	NUM	CD	Gender=Masc|NumType=Card	10	nummod	_	_
+9	dos	dos	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	10	nummod	_	_
 10	años	_	NOUN	NN	Gender=Masc|Number=Plur	12	obl:tmod	_	_
 11	más	_	ADV	RBR	Degree=Cmp	12	advmod	_	_
 12	tarde	tarde	ADV	RB	_	17	advmod	_	SpaceAfter=No

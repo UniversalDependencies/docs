@@ -74,7 +74,7 @@ The following 4 pairs of parts of speech are connected with `aux:tense`: <tt><a 
 10	de	de	ADP	_	_	11	case	_	_
 11	santé	santé	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	16	punct	_	_
-13	suite	suite	NOUN	_	Gender=Fem|Number=Sing	16	case	_	ExtPos=ADP|Idiom=Yes
+13	suite	suite	NOUN	_	ExtPos=ADP|Gender=Fem|Number=Sing	16	case	_	Idiom=Yes
 14	à	à	ADP	_	_	13	fixed	_	InIdiom=Yes
 15	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 16	attentat	attentat	NOUN	_	Gender=Masc|Number=Sing	7	obl:mod	_	_

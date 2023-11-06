@@ -18,19 +18,20 @@ The following 12 pairs of parts of speech are connected with `advcl`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 7 advcl	color:blue
-1	Тэ	тэ	PRON	Pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
-2	кыдзи	кыдзи	ADV	Adv	PronType=Int	3	advmod:mmod	_	_
-3	мӧвпалан	мӧвпавны	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres	0	root	_	SpaceAfter=No
-4	,	,	PUNCT	CLB	_	7	punct	_	_
-5	кор	кор	ADV	Adv	_	7	advmod:tmod	_	_
-6	верман	вермыны	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres	7	aux:pot	_	_
-7	волыны	волыны	VERB	V	VerbForm=Inf	3	advcl	_	SpaceAfter=No
-8	?	?	PUNCT	CLB	_	3	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 1 advcl	color:blue
+1	Идралін	идравны	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past	4	advcl	_	_
+2	аскадӧ	аскадӧ	NOUN	N	Case=Ill|Number=Sing	1	obl:tmod	_	_
+3	–	–	PUNCT	PUNCT	_	4	punct	_	_
+4	выиграйтін	выиграйтны	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past	0	root	_	OrigLang=ru|SpaceAfter=No
+5	,	,	PUNCT	CLB	_	8	punct	_	_
+6	сёрмӧдчин	сёрмӧдчыны	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past	8	advcl	_	_
+7	–	–	PUNCT	PUNCT	_	8	punct	_	_
+8	проиграйтін	проиграйтны	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past	4	conj	_	OrigLang=ru|SpaceAfter=No
+9	.	.	PUNCT	CLB	_	4	punct	_	_
 
 ~~~
 
@@ -61,20 +62,21 @@ The following 12 pairs of parts of speech are connected with `advcl`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 8 advcl	color:blue
-1	Тайӧ	тайӧ	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	3	det	_	_
-2	Петрсянь	Петр	NOUN	N	Case=Egr|Number=Sing	3	obl	_	_
-3	письмӧ	письмӧ	NOUN	N	Case=Nom|Number=Sing	0	root	_	OrigLang=ru|SpaceAfter=No
-4	,	,	PUNCT	CLB	_	8	punct	_	_
-5	да	да	CCONJ	CC	_	8	mark	_	OrigLang=ru
-6	сійӧс	сійӧ	PRON	Pron	Case=Acc|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
-7	тӧрыт	тӧрыт	ADV	Adv	_	8	advmod:tmod	_	_
-8	вайисны	вайны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	3	advcl	_	SpaceAfter=No
-9	.	.	PUNCT	CLB	_	3	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 advcl	color:blue
+1	—	—	PUNCT	PUNCT	_	2	punct	_	_
+2	Кодъяс	коді	PRON	Pron	Case=Nom|Number=Plur|PronType=Int	8	parataxis	_	GTtags=Interr,Pl,Nom|SpaceAfter=No
+3	?	?	PUNCT	CLB	_	2	punct	_	_
+4	—	—	PUNCT	PUNCT	_	8	punct	_	_
+5	друг	друг	ADV	Adv	Case=Nom|Number=Sing	6	advmod:tmod	_	GTtags=Sg,Nom
+6	пуксьӧм	пуксьыны	VERB	V	Tense=Past|VerbForm=Part	7	advcl	_	GTtags=Refl,Der,Der/ӧм,Der/NomAct,N,Sg,Nom
+7	чӧвлӧняс	чӧвлӧняс	NOUN	N	_	8	obl	_	_
+8	юаліс	юавны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=IV,Ind,Prt1,Sg3
+9	председатель	председатель	NOUN	N	Case=Nom|Number=Sing	8	nsubj	_	GTtags=Sg,Nom|SpaceAfter=No
+10	.	.	PUNCT	CLB	_	8	punct	_	_
 
 ~~~
 

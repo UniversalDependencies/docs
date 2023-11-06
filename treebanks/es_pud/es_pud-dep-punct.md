@@ -27,7 +27,7 @@ The following 12 pairs of parts of speech are connected with `punct`: <tt><a hre
 3	permitido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	_
 4	es	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	de	de	ADP	IN	_	7	case	_	_
-6	5 000	5 000	NUM	CD	Gender=Masc|NumType=Card	7	nummod	_	_
+6	5 000	5 000	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	7	nummod	_	_
 7	$	_	NOUN	NN	Gender=Masc|Number=Plur	4	obl	_	_
 8	por	por	ADP	IN	_	9	case	_	_
 9	persona	persona	NOUN	NN	Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No

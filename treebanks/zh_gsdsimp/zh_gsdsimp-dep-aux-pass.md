@@ -30,9 +30,9 @@ The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 6	撤下	撤下	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=chèxià|LTranslit=chèxià
 7	柜台	柜台	NOUN	NN	_	6	obj	_	SpaceAfter=No|Translit=guìtái|LTranslit=guìtái
 8	，	，	PUNCT	,	_	12	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-9	而	而	ADV	RB	_	12	mark	_	SpaceAfter=No|Translit='ér|LTranslit='ér
+9	而	而	SCONJ	RB	_	12	mark	_	SpaceAfter=No|Translit='ér|LTranslit='ér
 10	玛氏	玛氏	PROPN	NNP	_	12	nsubj	_	SpaceAfter=No|Translit=mǎshì|LTranslit=mǎshì
-11	则	则	ADV	RB	_	12	mark	_	SpaceAfter=No|Translit=zé|LTranslit=zé
+11	则	则	SCONJ	RB	_	12	mark	_	SpaceAfter=No|Translit=zé|LTranslit=zé
 12	中断	中断	VERB	VV	_	6	parataxis	_	SpaceAfter=No|Translit=zhōngduàn|LTranslit=zhōngduàn
 13	了	了	AUX	AS	Aspect=Perf	12	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
 14	生产	生产	NOUN	NN	_	12	obj	_	SpaceAfter=No|Translit=shēngchǎn|LTranslit=shēngchǎn
@@ -65,13 +65,13 @@ The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 9	认为	为	AUX	VV	_	11	cop	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 10	最	最	ADV	RB	_	11	advmod	_	SpaceAfter=No|Translit=zuì|LTranslit=zuì
 11	原始	原始	ADJ	JJ	_	13	acl:relcl	_	SpaceAfter=No|Translit=yuánshǐ|LTranslit=yuánshǐ
-12	的	的	PART	DEC	_	11	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
+12	的	的	SCONJ	DEC	_	11	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 13	陶埙	陶埙	NOUN	NN	_	19	nsubj	_	SpaceAfter=No|Translit=táo埙|LTranslit=táo埙
 14	均	均	ADV	RB	_	15	advmod	_	SpaceAfter=No|Translit=jūn|LTranslit=jūn
 15	只有	只有	VERB	VV	_	19	advcl	_	SpaceAfter=No|Translit=zhǐyǒu|LTranslit=zhǐyǒu
 16	吹孔	吹孔	NOUN	NN	_	15	obj	_	SpaceAfter=No|Translit=chuīkǒng|LTranslit=chuīkǒng
 17	，	，	PUNCT	,	_	15	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-18	而	而	ADV	RB	_	19	mark	_	SpaceAfter=No|Translit='ér|LTranslit='ér
+18	而	而	SCONJ	RB	_	19	mark	_	SpaceAfter=No|Translit='ér|LTranslit='ér
 19	无	无	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=wú|LTranslit=wú
 20	音孔	音孔	NOUN	NN	_	19	obj	_	SpaceAfter=No|Translit=yīnkǒng|LTranslit=yīnkǒng
 21	。	。	PUNCT	.	_	19	punct	_	SpaceAfter=No|Translit=.|LTranslit=.

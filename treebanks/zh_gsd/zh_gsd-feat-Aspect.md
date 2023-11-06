@@ -35,5 +35,5 @@ The most frequent other feature values with which `PART` and `Aspect` co-occurre
 `PART` tokens may have the following values of `Aspect`:
 
 * `Perf` (2; 100% of non-empty `Aspect`): 了
-* `EMPTY` (12411): 的、 之、 人、 大、 者、 市、 區、 會、 軍、 省
+* `EMPTY` (9880): 的、 人、 之、 大、 者、 市、 區、 會、 軍、 省
 

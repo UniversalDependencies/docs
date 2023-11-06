@@ -102,7 +102,7 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 16	fgColor:white
 # visual-style 16 18 orphan	color:blue
 1	En	en	ADP	IN	_	2	case	_	_
-2	1912	1912	NUM	CD	Gender=Masc|NumType=Card	4	obl	_	_
+2	1912	1912	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	4	obl	_	_
 3	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux:pass	_	_
 4	fundada	fundar	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 5	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
@@ -116,7 +116,7 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 13	)	)	PUNCT	)	_	11	punct	_	_
 14	y	y	CCONJ	CC	_	16	cc	_	_
 15	en	en	ADP	IN	_	16	case	_	orig_deprel=obl
-16	1916	1916	NUM	CD	Gender=Masc|NumType=Card	4	conj	_	SpaceAfter=No
+16	1916	1916	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	4	conj	_	SpaceAfter=No
 17	,	,	PUNCT	,	_	18	punct	_	_
 18	Asty	Asty	PROPN	NNP	Number=Sing	16	orphan	_	_
 19	Film	Film	PROPN	NNP	Number=Sing	18	flat:name	_	SpaceAfter=No|orig_deprel=nsubj:pass|Proper=True

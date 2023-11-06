@@ -44,10 +44,10 @@ The following 25 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 8 amod	color:blue
-1	I	I	PRON	PERS-P1SG-NOM	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	SpaceAfter=No
+1	I	I	PRON	PERS-P1SG-NOM	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	'm	be	AUX	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	afraid	afraid	ADJ	POS	Degree=Pos	0	root	_	_
-4	you	you	PRON	PERS-P2	_	6	nsubj	_	SpaceAfter=No
+4	you	you	PRON	PERS-P2	_	6	nsubj	_	_
 5	've	have	AUX	PRES-AUX	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux	_	_
 6	got	get	VERB	PERF	Mood=Ind|Tense=Past|VerbForm=Fin	3	ccomp	_	_
 7	the	the	DET	DEF	Definite=Def|PronType=Art	9	det	_	_

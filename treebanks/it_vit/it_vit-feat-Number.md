@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-144038 tokens (51%) have a non-empty value of `Number`.
-16523 types (71%) occur at least once with a non-empty value of `Number`.
+144039 tokens (51%) have a non-empty value of `Number`.
+16524 types (71%) occur at least once with a non-empty value of `Number`.
 9271 lemmas (59%) occur at least once with a non-empty value of `Number`.
-The feature is used with 13 part-of-speech tags: <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (51847; 19% instances), <tt><a href="it_vit-pos-DET.html">DET</a></tt> (43742; 16% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (19324; 7% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (16072; 6% instances), <tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (8762; 3% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (4003; 1% instances), <tt><a href="it_vit-pos-ADV.html">ADV</a></tt> (122; 0% instances), <tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (97; 0% instances), <tt><a href="it_vit-pos-X.html">X</a></tt> (27; 0% instances), <tt><a href="it_vit-pos-ADP.html">ADP</a></tt> (17; 0% instances), <tt><a href="it_vit-pos-SCONJ.html">SCONJ</a></tt> (17; 0% instances), <tt><a href="it_vit-pos-CCONJ.html">CCONJ</a></tt> (7; 0% instances), <tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The feature is used with 13 part-of-speech tags: <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (51848; 19% instances), <tt><a href="it_vit-pos-DET.html">DET</a></tt> (43742; 16% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (19324; 7% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (16072; 6% instances), <tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (8762; 3% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (4003; 1% instances), <tt><a href="it_vit-pos-ADV.html">ADV</a></tt> (122; 0% instances), <tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (97; 0% instances), <tt><a href="it_vit-pos-X.html">X</a></tt> (27; 0% instances), <tt><a href="it_vit-pos-ADP.html">ADP</a></tt> (17; 0% instances), <tt><a href="it_vit-pos-SCONJ.html">SCONJ</a></tt> (17; 0% instances), <tt><a href="it_vit-pos-CCONJ.html">CCONJ</a></tt> (7; 0% instances), <tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-51847 <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> tokens (90% of all `NOUN` tokens) have a non-empty value of `Number`.
+51848 <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> tokens (90% of all `NOUN` tokens) have a non-empty value of `Number`.
 
 The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="it_vit-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (29124; 56%).
 
 `NOUN` tokens may have the following values of `Number`:
 
 * `Plur` (16824; 32% of non-empty `Number`): <em>anni, miliardi, insegnanti, posti, trasferimenti, docenti, servizi, giorni, milioni, lire</em>
-* `Sing` (35023; 68% of non-empty `Number`): <em>anno, parte, legge, presidente, governo, stato, gruppo, provincia, lavoro, trasferimento</em>
+* `Sing` (35024; 68% of non-empty `Number`): <em>anno, parte, legge, presidente, governo, stato, gruppo, provincia, lavoro, trasferimento</em>
 * `EMPTY` (5899): <em>n., società, art., attività, dpr, a, punto, mila, titolarità, città</em>
 
 <table>
@@ -148,7 +148,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 * `Plur` (1351; 34% of non-empty `Number`): <em>c', quelli, quali, ci, quelle, tutti, li, noi, loro, essi</em>
 * `Sing` (2652; 66% of non-empty `Number`): <em>lo, quello, mi, quella, quale, la, questo, l', quanto, io</em>
-* `EMPTY` (5801): <em>che, si, cui, ne, dove, chi, ci, ciò, vi, quando</em>
+* `EMPTY` (5800): <em>che, si, cui, ne, dove, chi, ci, ciò, vi, quando</em>
 
 <table>
   <tr><th>Paradigm <i>quello</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -261,7 +261,7 @@ The most frequent other feature values with which `X` and `Number` co-occurred: 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="it_vit-dep-det.html">det</a></tt>]--> DET</tt> (33280; 91%),
+<tt>NOUN --[<tt><a href="it_vit-dep-det.html">det</a></tt>]--> DET</tt> (33281; 91%),
 <tt>NOUN --[<tt><a href="it_vit-dep-amod.html">amod</a></tt>]--> ADJ</tt> (14257; 88%),
 <tt>VERB --[<tt><a href="it_vit-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (3491; 78%),
 <tt>NOUN --[<tt><a href="it_vit-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3043; 69%),

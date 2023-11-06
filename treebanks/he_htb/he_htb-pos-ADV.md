@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  יותר (<tt><a href="he_htb-pos-ADV.htm
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.204819 (the average of all parts of speech is 1.702647).
+The form / lemma ratio of `ADV` is 1.204819 (the average of all parts of speech is 1.702584).
 
 The 1st highest number of forms (61) was observed with the lemma “_”: אחר, אין, אל, אם, אסורים, אף, אפשר, ביה, בינוני, בסיבוב, בקלות, בתמים, דו, דומה, הותר, הרי, ו, חזרה, חלילה, טובה, יתרה, כ, כאמור, כדומה, כו, כמו, כן, לאו, להתראות, למחר, לעילא, לראשונה, מיניה, מעוניינות, מעוניינים, מעין, מערבית, מצויין, מתמיד, נא, נאלצים, נהדר, נוסף, נוספים, נכונים, סבור, סבורה, סבורים, סוף, סמוך, עומדת, עין, עצם, עתידה, פלוס, פתע, קל, רגלית, שלא, שלישית, תו.
 

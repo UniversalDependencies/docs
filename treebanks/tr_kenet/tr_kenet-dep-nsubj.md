@@ -7,7 +7,6 @@ udver: '2'
 ## Treebank Statistics: UD_Turkish-Kenet: Relations: `nsubj`
 
 This relation is universal.
-There are 1 language-specific subtypes of `nsubj`: <tt><a href="tr_kenet-dep-nsubj-outer.html">nsubj:outer</a></tt>.
 
 12043 nodes (7%) are attached to their parents as `nsubj`.
 

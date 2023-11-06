@@ -29,9 +29,9 @@ The 2nd highest number of forms (1) was observed with the lemma “any”: <em>A
 
 The 3rd highest number of forms (1) was observed with the lemma “the”: <em>the</em>.
 
-`DET` occurs with 3 features: <tt><a href="en_pronouns-feat-PronType.html">PronType</a></tt> (185; 95% instances), <tt><a href="en_pronouns-feat-Definite.html">Definite</a></tt> (180; 92% instances), <tt><a href="en_pronouns-feat-Case.html">Case</a></tt> (10; 5% instances)
+`DET` occurs with 2 features: <tt><a href="en_pronouns-feat-PronType.html">PronType</a></tt> (195; 100% instances), <tt><a href="en_pronouns-feat-Definite.html">Definite</a></tt> (180; 92% instances)
 
-`DET` occurs with 4 feature-value pairs: `Case=Nom`, `Definite=Def`, `PronType=Art`, `PronType=Ind`
+`DET` occurs with 4 feature-value pairs: `Definite=Def`, `PronType=Art`, `PronType=Ind`, `PronType=Tot`
 
 `DET` occurs with 3 feature combinations.
 The most frequent feature combination is `Definite=Def|PronType=Art` (180 tokens).

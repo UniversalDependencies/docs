@@ -19,39 +19,39 @@ The 10 most frequent ambiguous types:  <em>ki</em> (<tt><a href="tr_imst-pos-ADP
 
 
 * <em>ki</em>
-  * <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> 292: <em>Orada <b>ki</b> tartışma hayli zengin .</em>
-  * <tt><a href="tr_imst-pos-CCONJ.html">CCONJ</a></tt> 121: <em>Ama fark ettim <b>ki</b> , onu çok yazmamışım .</em>
+  * <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> 292: <em>Kapının kenarında <b>ki</b> duvara dayanıp bize baktı bir an .</em>
+  * <tt><a href="tr_imst-pos-CCONJ.html">CCONJ</a></tt> 121: <em>Öyle kolay gelmez <b>ki</b> o .</em>
 * <em>ile</em>
-  * <tt><a href="tr_imst-pos-CCONJ.html">CCONJ</a></tt> 93: <em>Erik ağaçları <b>ile</b> aralarında bir hendek engeli kalmıştı .</em>
-  * <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> 23: <em>Görüşmede ATO'nun , Vergi Yasası <b>ile</b> görüşleri de beş başlıkta sunuldu .</em>
+  * <tt><a href="tr_imst-pos-CCONJ.html">CCONJ</a></tt> 93: <em>Türkiye'yi AB yolunda Yunanistan <b>ile</b> Rum tarafı birlikte engeller .</em>
+  * <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> 23: <em>Park kurşun sesleri <b>ile</b> yankılanmış .</em>
 * <em>ya</em>
-  * <tt><a href="tr_imst-pos-CCONJ.html">CCONJ</a></tt> 68: <em>Gerekmezdi <b>ya</b> , mersi .</em>
-  * <tt><a href="tr_imst-pos-INTJ.html">INTJ</a></tt> 10: <em>Kimse sana istemediğin bir şeyi zorla yaptıracak değil <b>ya</b> .</em>
+  * <tt><a href="tr_imst-pos-CCONJ.html">CCONJ</a></tt> 68: <em>Dalgınlığıma geldi <b>ya</b> da üşendim , sapmadım ara yola ...</em>
+  * <tt><a href="tr_imst-pos-INTJ.html">INTJ</a></tt> 10: <em>Yabancı havalı <b>ya</b> ...</em>
   * <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> 2: <em>Bütün vücudunu kızarınca <b>ya</b> kadar ovalamıştın .</em>
   * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 1: <em>Hayal bu <b>ya</b> ! ..</em>
 * <em>ise</em>
-  * <tt><a href="tr_imst-pos-CCONJ.html">CCONJ</a></tt> 45: <em>) Bazıları <b>ise</b> muadil ya da alternatif kavramlar üretti .</em>
-  * <tt><a href="tr_imst-pos-AUX.html">AUX</a></tt> 21: <em>Alışveriş <b>ise</b> hayatın temelinde yatar .</em>
+  * <tt><a href="tr_imst-pos-CCONJ.html">CCONJ</a></tt> 45: <em>Lam deniz demek , ut <b>ise</b> Türkçede ki ci eki .</em>
+  * <tt><a href="tr_imst-pos-AUX.html">AUX</a></tt> 21: <em>Ve dil varlığın evi <b>ise</b> , ev de dilin doğumevi dir .</em>
 * <em>ancak</em>
   * <tt><a href="tr_imst-pos-CCONJ.html">CCONJ</a></tt> 18: <em>Erbakan konuşmasında , " saadetin " <b>ancak</b> SP ile geleceğini öne sürdü .</em>
   * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 7: <em>Bize de <b>ancak</b> yararlı olduğumuz ölçüde gerek duyulur .</em>
 * <em>hem</em>
-  * <tt><a href="tr_imst-pos-CCONJ.html">CCONJ</a></tt> 24: <em>Hem bu dünyaya ait olup <b>hem</b> acıya nasıl katlanırlar .</em>
-  * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 2: <em>Ramiz , beraber gidelim dedi , elimize sopa aldık <b>hem</b> ...</em>
+  * <tt><a href="tr_imst-pos-CCONJ.html">CCONJ</a></tt> 24: <em>Bir gece zamanı , yatakta yken söyledi <b>hem</b> de ...</em>
+  * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 2: <em>Silisimi beğendiği için yüz bin lira verdi , <b>hem</b> yine görüşürüz dedi .</em>
 * <em>değil</em>
-  * <tt><a href="tr_imst-pos-AUX.html">AUX</a></tt> 63: <em>Kahve'yi bilmem ama Ali pek hazır <b>değil</b> galiba .</em>
-  * <tt><a href="tr_imst-pos-CCONJ.html">CCONJ</a></tt> 30: <em>Kendisini ağlayarak <b>değil</b> , gülerek uğurlamamızı istedi .</em>
-  * <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> 7: <em>Ne güzel günler di <b>değil</b> mi ? Ah , ah ...</em>
+  * <tt><a href="tr_imst-pos-AUX.html">AUX</a></tt> 63: <em>Hayır , şarklı <b>değil</b> .</em>
+  * <tt><a href="tr_imst-pos-CCONJ.html">CCONJ</a></tt> 30: <em>çalışmak da <b>değil</b> , hayatla boğuşuyorlar .</em>
+  * <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> 7: <em>Tam <b>değil</b> .</em>
 * <em>ne</em>
-  * <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> 78: <em>Plak bitince <b>ne</b> yapacağız ?</em>
-  * <tt><a href="tr_imst-pos-CCONJ.html">CCONJ</a></tt> 14: <em>Ama , dedim , ben <b>ne</b> şiir okuyabilirim , <b>ne</b> de şarkı .</em>
-  * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 10: <em>Heybeye erik koyunca kitapları , defterleri <b>ne</b> yaparım diye düşünüyorum .</em>
-  * <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> 6: <em>Alınmaya <b>ne</b> kadar hazır sın ! ..</em>
+  * <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> 78: <em>Bu heyecana , afyona , <b>ne</b> bileyim ben ; eroine alışır gibi alışır insan .</em>
+  * <tt><a href="tr_imst-pos-CCONJ.html">CCONJ</a></tt> 14: <em>Ne ondan bahsedebildim , <b>ne</b> yaşadıklarımdan ...</em>
+  * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 10: <em>Oh , <b>ne</b> güzel !</em>
+  * <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> 6: <em>Türkiye'nin en önem li konusu <b>ne</b> peki .</em>
 * <em>oysa</em>
-  * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 2: <em>Tütüyor burnumda <b>oysa</b> .</em>
+  * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 2: <em>Doktorlar ara sıra görünmemi salık vermişlerdi <b>oysa</b> .</em>
   * <tt><a href="tr_imst-pos-CCONJ.html">CCONJ</a></tt> 1: <em>Kemal : Sorununu anlattığın kişi seninle tartışır , <b>oysa</b> rahip yalnız dinler .</em>
 * <em>falan</em>
-  * <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> 4: <em>Ne iş yaptığımızı <b>falan</b> filan .</em>
+  * <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> 4: <em>Benim sileceğim araba Mersedes , BMW <b>falan</b> olacak .</em>
   * <tt><a href="tr_imst-pos-CCONJ.html">CCONJ</a></tt> 1: <em>Nesrin bize kızardı , <b>falan</b> , konu değişirdi .</em>
 
 ## Morphology

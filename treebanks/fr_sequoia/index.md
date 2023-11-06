@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.0 release.
 The following people have contributed to making this treebank part of UD: Marie Candito, Djamé Seddah, Guy Perrier, Bruno Guillaume.
 
 Repository: [UD_French-Sequoia](https://github.com/UniversalDependencies/UD_French-Sequoia)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_sequoia212)<br />
-Download all treebanks: [UD 2.12](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_sequoia213)<br />
+Download all treebanks: [UD 2.13](/#download)
 
 License: LGPL-LR
 
@@ -85,7 +85,7 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
 
 ## Features
 
-[Definite](fr_sequoia-feat-Definite.html) – [Foreign](fr_sequoia-feat-Foreign.html) – [Gender](fr_sequoia-feat-Gender.html) – [Mood](fr_sequoia-feat-Mood.html) – [Number](fr_sequoia-feat-Number.html) – [Number[psor]](fr_sequoia-feat-Number-psor.html) – [NumType](fr_sequoia-feat-NumType.html) – [Person](fr_sequoia-feat-Person.html) – [Person[psor]](fr_sequoia-feat-Person-psor.html) – [Polarity](fr_sequoia-feat-Polarity.html) – [Poss](fr_sequoia-feat-Poss.html) – [PronType](fr_sequoia-feat-PronType.html) – [Reflex](fr_sequoia-feat-Reflex.html) – [Tense](fr_sequoia-feat-Tense.html) – [Typo](fr_sequoia-feat-Typo.html) – [VerbForm](fr_sequoia-feat-VerbForm.html) – [Voice](fr_sequoia-feat-Voice.html)
+[Definite](fr_sequoia-feat-Definite.html) – [ExtPos](fr_sequoia-feat-ExtPos.html) – [Foreign](fr_sequoia-feat-Foreign.html) – [Gender](fr_sequoia-feat-Gender.html) – [Mood](fr_sequoia-feat-Mood.html) – [Number](fr_sequoia-feat-Number.html) – [Number[psor]](fr_sequoia-feat-Number-psor.html) – [NumType](fr_sequoia-feat-NumType.html) – [Person](fr_sequoia-feat-Person.html) – [Person[psor]](fr_sequoia-feat-Person-psor.html) – [Polarity](fr_sequoia-feat-Polarity.html) – [Poss](fr_sequoia-feat-Poss.html) – [PronType](fr_sequoia-feat-PronType.html) – [Reflex](fr_sequoia-feat-Reflex.html) – [Tense](fr_sequoia-feat-Tense.html) – [Typo](fr_sequoia-feat-Typo.html) – [VerbForm](fr_sequoia-feat-VerbForm.html) – [Voice](fr_sequoia-feat-Voice.html)
 
 ## Relations
 
@@ -226,7 +226,7 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
       <li>DET: les, des, ces, plusieurs, ses, de, d', leurs, quelques, nos</li>
       <li>NOUN: patients, ans, enfants, effets, jours, millions, mois, hommes, fractures, francs</li>
       <li>PRON: nous, vous, ils, les, eux, ceux, elles, lesquelles, leur, lesquels</li>
-      <li>PROPN: Hauts-de-Seine, États-Unis, Dominati, verts, Balkans, Nations, Sources, Bahamas, Frégates, Pays-Bas</li>
+      <li>PROPN: Hauts-de-Seine, États-Unis, Dominati, verts, Balkans, Nations, Sources, Bahamas, Forges, Frégates</li>
       <li>VERB-Fin: doivent, peuvent, devons, ont, avez, veuillez, devez, présentent, avaient, avons</li>
       <li>VERB-Part: traités, atteints, présentés, rapportées, traitées, versées, rapportés, liés, menées, observés</li>
     </ul>
@@ -496,7 +496,7 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
 <ul>
   <li>Yes
     <ul>
-      <li>PRON: se, s', me, nous, vous, m', -vous</li>
+      <li>PRON: se, s', me, nous, vous, m', lui-même, elle-même, -vous, eux-mêmes</li>
     </ul>
   </li>
 </ul>
@@ -509,7 +509,7 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
   <li>1
     <ul>
       <li>AUX-Fin: ai, avons, suis, sommes, étais, aurons, avais, avions, serais, sois</li>
-      <li>PRON: nous, je, j', me, m', moi, -nous, -je, -moi</li>
+      <li>PRON: nous, je, j', me, m', moi, -nous, -je, -moi, moi-même</li>
       <li>VERB-Fin: voudrais, devons, pense, crois, dois, avons, devrions, remercie, voulons, espère</li>
     </ul>
   </li>
@@ -519,7 +519,7 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
   <li>2
     <ul>
       <li>AUX-Fin: avez, êtes, ayez</li>
-      <li>PRON: vous, -vous, Toi</li>
+      <li>PRON: vous, -vous, Toi, vous-même</li>
       <li>VERB-Fin: avez, veuillez, devez, demandez, pouvez, remarquez, allaitez, prenez, présentez, suivez</li>
     </ul>
   </li>
@@ -529,7 +529,7 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
   <li>3
     <ul>
       <li>AUX-Fin: est, a, ont, sont, était, avait, sera, fut, étaient, soit</li>
-      <li>PRON: il, se, s', elle, ce, ils, y, c', en, on</li>
+      <li>PRON: il, se, s', elle, ce, ils, y, c', cela, en</li>
       <li>VERB-Fin: doit, a, peut, doivent, faut, est, peuvent, agit, concerne, contient</li>
     </ul>
   </li>
@@ -553,11 +553,89 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
 
 
 <ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADJ
+        <ul>
+          <li>ADP: d', en, de, à</li>
+          <li>CCONJ: et</li>
+          <li>NUM: neuf</li>
+          <li>X: in</li>
+        </ul>
+      </li>
+      <li>ADP
+        <ul>
+          <li>ADP: en, d', à, pour, avant</li>
+          <li>ADV: tout, non</li>
+          <li>DET: Une</li>
+          <li>NOUN: suite, grâce, face</li>
+          <li>PRON: y, il</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>ADJ: petit</li>
+          <li>ADP: à, de, en, d', dès, auprès, entre, pour, A, Par</li>
+          <li>ADV: lors, bien, quant, tout, non, aussi, quand, ne</li>
+          <li>DET: le, un, une</li>
+          <li>NOUN: compte</li>
+          <li>PRON: c', y, il</li>
+          <li>SCONJ: si</li>
+          <li>X: a</li>
+        </ul>
+      </li>
+      <li>CCONJ
+        <ul>
+          <li>ADP: à</li>
+          <li>ADV: ainsi</li>
+          <li>CCONJ: et, ou</li>
+          <li>PRON: y</li>
+        </ul>
+      </li>
+      <li>DET
+        <ul>
+          <li>ADP: de</li>
+          <li>ADV: n'</li>
+        </ul>
+      </li>
+      <li>INTJ
+        <ul>
+          <li>INTJ: Eh</li>
+        </ul>
+      </li>
+      <li>PRON
+        <ul>
+          <li>ADP: de</li>
+          <li>ADV: plus, près, moins, beaucoup, davantage, peu, trop, autant, suffisamment, combien</li>
+          <li>DET: le, quelqu'</li>
+          <li>PRON: qui</li>
+        </ul>
+      </li>
+      <li>PROPN
+        <ul>
+          <li>NOUN: Fusillé, Fusillés, charniers, honneur, possession</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>ADP: dans</li>
+          <li>ADV: alors, bien, même, tandis, quand</li>
+          <li>SCONJ: parce</li>
+          <li>VERB-Part: vu</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Foreign</a>
     <ul>
       <li>Yes
         <ul>
-          <li>X: the, van, en, in, Medicines, and, Company, UK, a, devils</li>
+          <li>NOUN: August</li>
+          <li>PROPN: van</li>
+          <li>X: the, Medicines, and, Company, Limited, UK, devils, of, to, 115L</li>
         </ul>
       </li>
     </ul>
@@ -581,8 +659,13 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
     <ul>
       <li>Yes
         <ul>
-          <li>ADJ: musculo</li>
-          <li>NOUN: sus</li>
+          <li>ADJ: française, musculo, même, occulte</li>
+          <li>AUX-Fin: a, soit, sont, était</li>
+          <li>DET: le</li>
+          <li>NOUN: sus, Edition, bâtiment, conseil, donnée, matches, patient, personnel</li>
+          <li>PRON: elles</li>
+          <li>VERB-Fin: vont</li>
+          <li>VERB-Part: accédé, classé, comparé, dénoncées, effectués, estimée, installés, jugé, lancé, localisée</li>
         </ul>
       </li>
     </ul>

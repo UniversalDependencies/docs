@@ -8,84 +8,68 @@ udver: '2'
 
 This relation is universal.
 
-40 nodes (0%) are attached to their parents as `ccomp`.
+333 nodes (0%) are attached to their parents as `ccomp`.
 
-39 instances of `ccomp` (98%) are left-to-right (parent precedes child).
-Average distance between parent and child is 13.725.
+332 instances of `ccomp` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 12.3753753753754.
 
-The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (34; 85% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (3; 8% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> (2; 5% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (1; 3% instances).
+The following 11 pairs of parts of speech are connected with `ccomp`: <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (253; 76% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (37; 11% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> (24; 7% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (7; 2% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 8 ccomp	color:blue
-1	А	а	CCONJ	_	_	4	cc	_	wf="А"
-2	намъ	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	4	iobj	_	wf="намъ"
-3	ѡнъ	онъ	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	wf="ѡнъ"
-4	поведалъ	повѣдати	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	wf="поведалъ"|SpaceAfter=No
-5	,	,	PUNCT	_	_	4	punct	_	_
-6	што	что	SCONJ	_	_	8	mark	_	wf="што"
-7	же	же	PART	_	_	6	fixed	_	wf="же"
-8	ѡтъдалъ	отдати	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	4	ccomp	_	wf="ѡтъдалъ"
-9	Ерофею	Ерофѣй	PROPN	_	Case=Dat|Gender=Masc|NameType=Giv|Number=Sing	8	iobj	_	wf="Ерофею"|SpaceAfter=No
-10	,	,	PUNCT	_	_	13	punct	_	_
-11	чимъ	что	PRON	_	Case=Ins|Gender=Neut|Number=Sing|PronType=Rel	13	obl	_	wf="чимъ"
-12	былъ	быти	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	13	cop	_	wf="былъ"
-13	виноватъ	виноватый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	8	ccomp	_	wf="виноватъ"|SpaceAfter=No
-14	.	.	PUNCT	_	_	4	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 6 ccomp	color:blue
+1	И	и	CCONJ	СС	_	2	cc	_	wf="И"
+2	поведаеть	поведати	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	wf="поведаеть"|SpaceAfter=No
+3	,	,	PUNCT	-COMMA-	_	2	punct	_	_
+4	што	што	SCONJ	IN	_	6	mark	_	wf="што"
+5	ж	жъ	PART	RP	_	4	fixed	_	wf="ж"
+6	ѡтлезъ	отлезти	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	2	ccomp	_	wf="ѡтлезъ"
+7	его	онъ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	wf="его"
+8	чисто	чисто	ADV	RB	Degree=Pos	6	advmod	_	wf="чисто"
+9	там	тамъ	ADV	RB	Degree=Pos	6	advmod	_	wf="там"
+10	оу	въ	ADP	IN	_	11	case	_	wf="оу"
+11	Ризѣ	Рига	PROPN	NPI	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	6	obl	_	wf="Ризѣ"|SpaceAfter=No
+12	.	.	PUNCT	-PERIOD-	_	2	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 7 ccomp	color:blue
-1	Яко	яко	SCONJ	IN	_	3	mark	_	_
-2	Цыцеро	Цыцеро	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	3	nsubj	_	_
-3	поведилъ	поведети	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
-4	,	,	PUNCT	PUNCT	_	7	punct	_	_
-5	ижъ	ижъ	SCONJ	IN	_	7	mark	_	_
-6	естесмо	быти	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	_
-7	невольниками	невольникъ	NOUN	NN	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	3	ccomp	_	_
-8	правъ	право	NOUN	NN	Case=Gen|Gender=Neut|Number=Plur	7	nmod	_	_
-9	для	для	ADP	IN	_	10	case	_	_
-10	того	то	PRON	DT	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	7	obl	_	SpaceAfter=No
-11	,	,	PUNCT	PUNCT	_	15	punct	_	_
-12	абысьмы	абымъ	SCONJ	IN	Analyt=Yes|Mood=Cnd|Number=Plur|Person=1	15	mark	_	_
-13	вольности	вольность	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	14	obj	_	_
-14	уживати	уживати	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Act	15	xcomp	_	_
-15	могли	мочи	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	10	acl	_	SpaceAfter=No
-16	.	.	PUNCT	PUNCT	_	3	punct	_	_
+# visual-style 3 8 ccomp	color:blue
+1	И	и	CCONJ	СС	_	3	cc	_	wf="И"
+2	Васил(ь)	Василь	PROPN	NPA	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	3	nsubj	_	wf="Василь"
+3	мовит(ь)	мовити	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	wf="мовить"|SpaceAfter=No
+4	:	:	PUNCT	-COLON-	_	8	punct	_	_
+5	«	«	PUNCT	-QUOT-	_	8	punct	_	SpaceAfter=No
+6	То	то	PRON	DT	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	8	nsubj	_	wf="То"
+7	мое	мой	DET	PRP$	Case=Nom|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	8	det	_	wf="мое"
+8	дерево	дерево	NOUN	NNI	Case=Nom|Gender=Neut|Number=Sing	3	ccomp	_	wf="дерево"|SpaceAfter=No
+9	.	.	PUNCT	-PERIOD-	_	3	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 13 ccomp	color:blue
-1	А	а	CCONJ	_	_	4	cc	_	wf="А"
-2	намъ	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	4	iobj	_	wf="намъ"
-3	ѡнъ	онъ	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	wf="ѡнъ"
-4	поведалъ	повѣдати	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	wf="поведалъ"|SpaceAfter=No
-5	,	,	PUNCT	_	_	4	punct	_	_
-6	што	что	SCONJ	_	_	8	mark	_	wf="што"
-7	же	же	PART	_	_	6	fixed	_	wf="же"
-8	ѡтъдалъ	отдати	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	4	ccomp	_	wf="ѡтъдалъ"
-9	Ерофею	Ерофѣй	PROPN	_	Case=Dat|Gender=Masc|NameType=Giv|Number=Sing	8	iobj	_	wf="Ерофею"|SpaceAfter=No
-10	,	,	PUNCT	_	_	13	punct	_	_
-11	чимъ	что	PRON	_	Case=Ins|Gender=Neut|Number=Sing|PronType=Rel	13	obl	_	wf="чимъ"
-12	былъ	быти	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	13	cop	_	wf="былъ"
-13	виноватъ	виноватый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	8	ccomp	_	wf="виноватъ"|SpaceAfter=No
-14	.	.	PUNCT	_	_	4	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 3 ccomp	color:blue
+1	Росмотрите	розсмотрети	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	wf="Росмотрите"|SpaceAfter=No
+2	,	,	PUNCT	-COMMA-	_	3	punct	_	_
+3	добро	добрый	ADJ	JJH	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	1	ccomp	_	wf="добро"
+4	ль	ли	PART	RP	_	3	advmod	_	wf="ль"
+5	то	то	PRON	DT	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	wf="то"
+6	будет(ь)	быти	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	3	cop	_	wf="будеть"|SpaceAfter=No
+7	?	?	PUNCT	-PERIOD-	_	1	punct	_	_
 
 ~~~
 

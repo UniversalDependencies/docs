@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="gd_arcosg-pos-PART.
 
 1044 <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> tokens (12% of all `PART` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `PART` and `Polarity` co-occurred: <tt><a href="gd_arcosg-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (968; 93%), <tt><a href="gd_arcosg-feat-PartType.html">PartType</a></tt><tt>=Cmpl</tt> (962; 92%).
+The most frequent other feature values with which `PART` and `Polarity` co-occurred: <tt><a href="gd_arcosg-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (968; 93%), <tt><a href="gd_arcosg-feat-PartType.html">PartType</a></tt><tt>=Vb</tt> (825; 79%).
 
 `PART` tokens may have the following values of `Polarity`:
 

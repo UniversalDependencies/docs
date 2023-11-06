@@ -16,11 +16,11 @@ Family: Indo-European, Romance
 
 This treebank has been part of Universal Dependencies since the UD v2.1 release.
 
-The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Gustavo Mendonça, Larissa Rinaldi, Martin Popel, Daniel Zeman, Valeria de Paiva, Alexandre Rademaker.
+The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Gustavo Mendonça, Larissa Rinaldi, Martin Popel, Daniel Zeman, Valeria de Paiva, Alexandre Rademaker, Elvis de Souza.
 
 Repository: [UD_Portuguese-PUD](https://github.com/UniversalDependencies/UD_Portuguese-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpt_pud212)<br />
-Download all treebanks: [UD 2.12](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpt_pud213)<br />
+Download all treebanks: [UD 2.13](/#download)
 
 License: CC BY-SA 3.0
 
@@ -114,7 +114,7 @@ employ ten-fold cross-validation.
 
 <ul>
 <li>This corpus contains 1490 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 43 types of multi-word tokens. Examples: da, do, no, na, dos, ao, das, à, nos, pelo, pela, nas, pelos, às, aos, desta, disso, deste, deles, numa, pelas, dele, num, desses, naquele, nesta, destes, delas, naquilo, neste, Nisto, bem-sucedido, daquele, dela, destas, disto, naquela, naqueles, nele, neles, nisso, norte-coreano, àquela.</li>
+<li>There are 43 types of multi-word tokens. Examples: da, do, no, na, dos, ao, das, à, nos, pelo, pela, nas, pelos, às, aos, desta, disso, deste, deles, numa, pelas, dele, num, desses, naquele, nesta, destes, neste, delas, naquilo, Nisto, bem-sucedido, daquele, dela, destas, disto, naquela, naqueles, nele, neles, nisso, norte-coreano, àquela.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -150,13 +150,13 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
-<li>There are 2 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+<li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
 </ul>
 
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: são, É</li>
+    <li>AUX: são, tem, É</li>
     <li>VERB: difere, há, opõem</li>
   </ul>
   </li>
@@ -166,6 +166,14 @@ employ ten-fold cross-validation.
   <li>Inf
   <ul>
     <li>VERB: arrecadar, reduzir</li>
+  </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Part
+  <ul>
+    <li>AUX: sido</li>
   </ul>
   </li>
 </ul>
@@ -238,7 +246,7 @@ employ ten-fold cross-validation.
       <li>ADJ: grande, primeira, maior, nova, mais, primeiro, nacional, novo, melhor, segunda</li>
       <li>ADP: a, nessa, nesse, consigo, daquela</li>
       <li>AUX: é, foi, está, pode, tinha, estava, era, tem, seria, poderia</li>
-      <li>AUX-Fin: É</li>
+      <li>AUX-Fin: tem, É</li>
       <li>DET: o, a, um, uma, esta, este, cada, isso, outro, mesmo</li>
       <li>NOUN: vez, guerra, ano, parte, governo, cidade, estado, mundo, acordo, século</li>
       <li>NUM: bilhão, bn, milhão, um, Cinco</li>
@@ -290,7 +298,7 @@ employ ten-fold cross-validation.
 <ul>
   <li>Def
     <ul>
-      <li>DET: a, o</li>
+      <li>DET: o, a, os, as</li>
     </ul>
   </li>
 </ul>
@@ -298,7 +306,7 @@ employ ten-fold cross-validation.
 <ul>
   <li>Ind
     <ul>
-      <li>DET: uma, Um</li>
+      <li>DET: um, uma</li>
     </ul>
   </li>
 </ul>
@@ -349,7 +357,7 @@ employ ten-fold cross-validation.
   <li>Ind
     <ul>
       <li>AUX: é, foi, foram, são, está, pode, tinha, estava, estão, podem</li>
-      <li>AUX-Fin: são, É</li>
+      <li>AUX-Fin: são, tem, É</li>
       <li>VERB: disse, há, tem, começou, diz, é, está, fez, tornou, têm</li>
       <li>VERB-Fin: difere, há, opõem</li>
     </ul>
@@ -391,7 +399,7 @@ employ ten-fold cross-validation.
   <li>Pres
     <ul>
       <li>AUX: é, são, está, pode, estão, podem, tem, têm, vai, deve</li>
-      <li>AUX-Fin: são, É</li>
+      <li>AUX-Fin: são, tem, É</li>
       <li>VERB: há, tem, diz, é, está, têm, estão, incluem, dizem, parece</li>
       <li>VERB-Fin: difere, há, opõem</li>
     </ul>
@@ -410,7 +418,23 @@ employ ten-fold cross-validation.
 <ul>
   <li>Art
     <ul>
-      <li>DET: a, o, os, as, uma, Um</li>
+      <li>DET: o, a, os, as, um, uma</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Dem
+    <ul>
+      <li>DET: esta, este, isso, aquele, esses, estes, aquela, aqueles, estas, isto</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ind
+    <ul>
+      <li>DET: outra</li>
     </ul>
   </li>
 </ul>
@@ -426,7 +450,7 @@ employ ten-fold cross-validation.
 <ul>
   <li>Prs
     <ul>
-      <li>DET: nosso, seus, suas</li>
+      <li>DET: Seu, nosso, seus, suas</li>
       <li>PRON: sua, seu, suas, seus, minha, nosso, nossa, meu, Ele, Nossos</li>
     </ul>
   </li>
@@ -457,7 +481,7 @@ employ ten-fold cross-validation.
 <ul>
   <li>Yes
     <ul>
-      <li>DET: cujo, cuja, cujos</li>
+      <li>DET: cujo, Seu, cuja, cujos</li>
     </ul>
   </li>
 </ul>
@@ -503,7 +527,7 @@ employ ten-fold cross-validation.
     <ul>
       <li>ADP: consigo</li>
       <li>AUX: é, foi, foram, são, está, pode, tinha, estava, estão, podem</li>
-      <li>AUX-Fin: são, É</li>
+      <li>AUX-Fin: são, tem, É</li>
       <li>PRON: se, ele, sua, seu, eles, ela, suas, seus, o, lo</li>
       <li>PROPN: ele</li>
       <li>VERB: disse, há, tem, começou, diz, é, está, fez, tornou, têm</li>

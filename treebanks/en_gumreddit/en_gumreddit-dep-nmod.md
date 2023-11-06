@@ -23,25 +23,25 @@ The following 24 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 14 nmod	color:blue
-1	_	_	SCONJ	IN	_	7	mark	7:mark	Discourse=context-background:2->5:0|Entity=(2-abstract-new-cf3-19-disc|Lem=*LOWER*|Len=2
-2	_	_	DET	DT	PronType=Tot	4	det	4:det	Entity=(3-place-new-cf1-3-coref|Lem=_|Len=5
+1	_	_	SCONJ	IN	_	7	mark	7:mark	Discourse=context-background:2->5:0:dm-if-3+ref-prs-4-6,20|Entity=(2-abstract-new-cf3-19-disc|Lem=*LOWER*|Len=2
+2	_	_	DET	DT	PronType=Ind	4	det	4:det	Entity=(3-place-new-cf1-3-coref|Lem=_|Len=5
 3	_	_	ADJ	JJ	Degree=Pos	4	amod	4:amod	Lem=_|Len=5
 4	_	_	NOUN	NN	Number=Sing	7	nsubj	7:nsubj	Entity=3)|Lem=_|Len=7
 5	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	7:cop	Lem=be|Len=2
 6	_	_	ADP	IN	_	7	case	7:case	Lem=_|Len=2
-7	_	_	NOUN	NNS	Number=Plur	19	advcl	19:advcl:if	Entity=(4-abstract-new-cf2-1-sgl|Lem=billion|Len=8
-8	_	_	PUNCT	-LRB-	_	11	punct	11:punct	Discourse=adversative-antithesis:3->2:0|Lem=_|Len=1|SpaceAfter=No
+7	_	_	NOUN	NNS	Number=Plur	19	advcl	19:advcl:if	Cxn=Condition-Realistic|Entity=(4-abstract-new-cf2-1-sgl|Lem=billion|Len=8|MSeg=billion-s
+8	_	_	PUNCT	-LRB-	_	11	punct	11:punct	Discourse=adversative-antithesis:3->2:0:dm-if-11|Lem=_|Len=1|SpaceAfter=No
 9	_	_	SCONJ	IN	_	11	mark	11:mark	Lem=_|Len=2
 10	_	_	PART	RB	Polarity=Neg	11	advmod	11:advmod	Lem=_|Len=3
-11	_	_	NOUN	NNS	Number=Plur	7	acl	7:acl:if	Lem=trillion|Len=9|SpaceAfter=No
+11	_	_	NOUN	NNS	Number=Plur	7	acl	7:acl:if	Lem=trillion|Len=9|MSeg=trillion-s|SpaceAfter=No
 12	_	_	PUNCT	-RRB-	_	11	punct	11:punct	Lem=_|Len=1
-13	_	_	ADP	IN	_	14	case	14:case	Discourse=same-unit_m:4->2:1|Lem=_|Len=2
+13	_	_	ADP	IN	_	14	case	14:case	Discourse=same-unit_m:4->2:1:_|Lem=_|Len=2
 14	_	_	NOUN	NN	Number=Sing	7	nmod	7:nmod:of	Entity=4)|Lem=_|Len=4|SpaceAfter=No
 15	_	_	PUNCT	,	_	7	punct	7:punct	Lem=_|Len=1
-16	_	_	ADV	WRB	PronType=Int	19	obl	19:obl:from	Discourse=topic-question:5->6:0|Lem=_|Len=5
+16	_	_	ADV	WRB	PronType=Int	19	obl	19:obl:from	Discourse=topic-question:5->6:0:lex-indwd-18+syn-sbinv-19+grf-qst-23|Lem=_|Len=5
 17	_	_	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	aux	19:aux	Lem=be|Len=3
 18	_	_	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	19	nsubj	19:nsubj	Entity=(3-place-giv:act-cf1-1-ana)|Lem=_|Len=4
-19	_	_	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	Lem=borrow|Len=9
+19	_	_	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	Cxn=Interrogative-Wh|Lem=borrow|Len=9|MSeg=borrow-ing
 20	_	_	ADP	IN	_	16	case	16:case	Lem=_|Len=4|SpaceAfter=No
 21	_	_	PUNCT	.	_	19	punct	19:punct	Entity=2)|Lem=_|Len=1
 
@@ -54,21 +54,21 @@ The following 24 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 13 nmod	color:blue
-1	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	4:nsubj|5:nsubj:xsubj	Discourse=context-background:46->51:1|Entity=(53-person-new-cf2-1-sgl)|Lem=*LOWER*|Len=3
+1	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	4:nsubj|5:nsubj:xsubj	Discourse=context-background:46->51:1:_|Entity=(53-person-new-cf2-1-sgl)|Lem=*LOWER*|Len=3
 2	_	_	AUX	MD	VerbForm=Fin	4	aux	4:aux	Lem=can|Len=2
 3	_	_	PART	RB	Polarity=Neg	4	advmod	4:advmod	Lem=not|Len=3
 4	_	_	VERB	VB	VerbForm=Inf	0	root	0:root	Lem=_|Len=4
-5	_	_	VERB	VBG	VerbForm=Ger	4	xcomp	4:xcomp	Lem=print|Len=8
+5	_	_	VERB	VBG	VerbForm=Ger	4	xcomp	4:xcomp	Lem=print|Len=8|MSeg=print-ing
 6	_	_	ADJ	JJR	Degree=Cmp	7	amod	7:amod	Entity=(54-object-new-cf1-2-coref|Lem=_|Len=4
 7	_	_	NOUN	NN	Number=Sing	5	obj	5:obj	Entity=54)|Lem=_|Len=5
-8	_	_	CCONJ	CC	_	15	cc	15:cc	Discourse=explanation-justify:47->46:0|Lem=_|Len=2
+8	_	_	CCONJ	CC	_	15	cc	15:cc	Discourse=explanation-justify:47->46:0:_;adversative-antithesis:47->46:0:0:orp-or else-299-300|Lem=_|Len=2
 9	_	_	ADV	RB	Degree=Pos	15	advmod	15:advmod	Lem=_|Len=4
 10	_	_	DET	DT	Definite=Def|PronType=Art	11	det	11:det	Entity=(55-abstract-new-cf3-2-sgl|Lem=_|Len=3
 11	_	_	NOUN	NN	Number=Sing	15	nsubj	15:nsubj	Lem=_|Len=5
 12	_	_	ADP	IN	_	13	case	13:case	Lem=_|Len=2
 13	_	_	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	nmod	11:nmod:of	Entity=(54-object-giv:act-cf1-1-ana)55)|Lem=_|Len=2
 14	_	_	AUX	MD	Number=Sing|Person=3|VerbForm=Fin	15	aux	15:aux	Lem=_|Len=4
-15	_	_	VERB	VB	VerbForm=Inf	4	conj	4:conj:or	Lem=_|Len=11|SpaceAfter=No
+15	_	_	VERB	VB	VerbForm=Inf	4	conj	4:conj:or	Lem=_|Len=11|MSeg=deteriorate|SpaceAfter=No
 16	_	_	PUNCT	.	_	4	punct	4:punct	Lem=_|Len=1
 
 ~~~
@@ -80,21 +80,21 @@ The following 24 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 8 nmod	color:blue
-1	_	_	SCONJ	IN	_	3	mark	3:mark	Discourse=contingency-condition:33->34:1|Lem=*LOWER*|Len=2
+1	_	_	SCONJ	IN	_	3	mark	3:mark	Discourse=contingency-condition:33->34:1:dm-if-197|Lem=*LOWER*|Len=2
 2	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	3:nsubj	Entity=(5-person-giv:inact-cf2-1-ana)|Lem=_|Len=3
-3	_	_	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	12	advcl	12:advcl:if	Lem=_|Len=3
+3	_	_	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	12	advcl	12:advcl:if	Cxn=Condition-Realistic|Lem=_|Len=3
 4	_	_	DET	DT	Definite=Ind|PronType=Art	6	det	6:det	Entity=(41-object-new-cf1-3,6-coref|Lem=_|Len=1
-5	_	_	NOUN	NN	Number=Sing	6	compound	6:compound	Lem=_|Len=8
+5	_	_	NOUN	NN	Number=Sing	6	compound	6:compound	Lem=_|Len=8|MSeg=base-ball
 6	_	_	NOUN	NN	Number=Sing	3	obj	3:obj	Lem=_|Len=4
 7	_	_	ADP	IN	_	8	case	8:case	Lem=_|Len=2
-8	_	_	PROPN	NNP	Number=Sing	6	nmod	6:nmod:of	Entity=(42-person-new-cf4-1,2-coref-Sammy_Sosa|Lem=_|Len=5
+8	_	_	PROPN	NNP	Number=Sing	6	nmod	6:nmod:of	Entity=(42-person-new-cf4-1,2-coref-Sammy_Sosa|Lem=_|Len=5|MSeg=Samm-y
 9	_	_	PROPN	NNP	Number=Sing	8	flat	8:flat	Entity=42)41)|Lem=_|Len=4|SpaceAfter=No
 10	_	_	PUNCT	,	_	3	punct	3:punct	Lem=_|Len=1
-11	_	_	PRON	EX	PronType=Dem	12	expl	12:expl	Discourse=explanation-justify:34->51:4|Lem=_|Len=5
-12	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Lem=be|Len=2
+11	_	_	PRON	EX	PronType=Dem	12	expl	12:expl	Discourse=explanation-justify:34->51:4:_|Lem=_|Len=5
+12	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Cxn=Existential-There|Lem=be|Len=2
 13	_	_	DET	DT	Definite=Ind|PronType=Art	14	det	14:det	Lem=_|Len=1
 14	_	_	NOUN	NN	Number=Sing	12	nsubj	12:nsubj	Lem=_|Len=6
-15	_	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	18	nsubj	18:nsubj	Discourse=elaboration-attribute:35->34:0|Entity=(41-object-giv:act-cf1-1-ana)|Lem=_|Len=2
+15	_	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	18	nsubj	18:nsubj	Discourse=elaboration-attribute:35->34:0:syn-mdf-210+syn-relcl-214|Entity=(41-object-giv:act-cf1-1-ana)|Lem=_|Len=2
 16	_	_	AUX	MD	VerbForm=Fin	18	aux	18:aux	Lem=_|Len=5
 17	_	_	AUX	VB	VerbForm=Inf	18	cop	18:cop	Lem=_|Len=2
 18	_	_	ADJ	JJ	Degree=Pos	14	acl:relcl	14:acl:relcl	Lem=_|Len=5

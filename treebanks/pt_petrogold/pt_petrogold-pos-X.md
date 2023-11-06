@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>in</em> (<tt><a href="pt_petrogold-po
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.128713 (the average of all parts of speech is 1.452220).
+The form / lemma ratio of `X` is 1.128713 (the average of all parts of speech is 1.452181).
 
 The 1st highest number of forms (15) was observed with the lemma “_”: <em>., /, cima, com.br/pt/, eará, escala, estrategia/plano-de-negocios-e-gestao, eórico, org, quem-somos, químicas, wikimedia, ão, ões, ’s</em>.
 

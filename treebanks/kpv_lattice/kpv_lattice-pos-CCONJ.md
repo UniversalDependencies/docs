@@ -19,7 +19,7 @@ The 10 most frequent ambiguous types:  <em>да</em> (<tt><a href="kpv_lattice-p
 
 
 * <em>да</em>
-  * <tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> 124: <em>Сійӧ заводитліс чӧвтны куритчӧмсӧ <b>да</b> юӧмсӧ .</em>
+  * <tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> 124: <em>Вундігӧн <b>да</b> тэчигӧн му вылӧ усьӧ уна шеп .</em>
   * <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 4: <em>— Менамӧсь эськӧ <b>да</b> .</em>
   * <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 2: <em>И еджыд чериыс чукӧра олӧ , кульмыны жӧ лӧсьӧдчӧ <b>да</b> .</em>
   * <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 1: <em>Думайта <b>да</b> , мед кӧтӧдас .</em>
@@ -28,7 +28,7 @@ The 10 most frequent ambiguous types:  <em>да</em> (<tt><a href="kpv_lattice-p
   * <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 36: <em>Корсюрӧ семьяяс <b>и</b> нимкодясьлісны .</em>
   * <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 3: <em>Эг <b>и</b> тӧдлы , кыдзи юр весьтын ӧти бӧрся мӧд тыдовтчисны кымӧрторъяс .</em>
 * <em>ни</em>
-  * <tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> 6: <em>Эз позь бӧрйыны <b>ни</b> Питер Смитӧс , <b>ни</b> Мери Браунӧс .</em>
+  * <tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> 6: <em>Ни горзӧмъяс , <b>ни</b> лыйсьӧмъяс .</em>
   * <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> 2: <em>Енэжын <b>ни</b> ӧти кымӧртор эз тыдав .</em>
   * <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 1: <em>Водзын сулалісны бурджыка олысьяс нин , кодъяслӧн паськӧманыс эз тыдав ни дӧмас , <b>ни</b> резьдӧмин , да и эм мый налы пуктыны вичко блюдйӧ .</em>
 

@@ -125,7 +125,7 @@ The following 4 pairs of parts of speech are connected with `dep`: <tt><a href="
 6	de	de	ADP	IN	_	8	case	_	_
 7	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
 8	años	_	NOUN	NN	Gender=Masc|Number=Plur	5	nmod	_	_
-9	60	60	NUM	CD	Gender=Masc|NumType=Card	8	appos	_	_
+9	60	60	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	8	appos	_	_
 10	representando	representar	VERB	VBG	VerbForm=Ger	1	advcl	_	_
 11	a	a	ADP	IN	_	13	case	_	_
 12	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_

@@ -114,7 +114,7 @@ The most frequent other feature values with which `AUX` and `Animacy` co-occurre
 
 12 <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> tokens (3% of all `NUM` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `NUM` and `Animacy` co-occurred: <tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Acc</tt> (12; 100%), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (12; 100%), <tt><a href="cs_cltt-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (12; 100%), <tt><a href="cs_cltt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (12; 100%), <tt><a href="cs_cltt-feat-NumValue.html">NumValue</a></tt><tt>=1,2,3</tt> (12; 100%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12; 100%).
+The most frequent other feature values with which `NUM` and `Animacy` co-occurred: <tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Acc</tt> (12; 100%), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (12; 100%), <tt><a href="cs_cltt-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (12; 100%), <tt><a href="cs_cltt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (12; 100%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12; 100%).
 
 `NUM` tokens may have the following values of `Animacy`:
 

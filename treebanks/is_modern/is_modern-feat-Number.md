@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-40611 tokens (51%) have a non-empty value of `Number`.
-8961 types (88%) occur at least once with a non-empty value of `Number`.
-4739 lemmas (80%) occur at least once with a non-empty value of `Number`.
-The feature is used with 11 part-of-speech tags: <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (13620; 17% instances), <tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (7411; 9% instances), <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (5461; 7% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (4636; 6% instances), <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> (3579; 4% instances), <tt><a href="is_modern-pos-DET.html">DET</a></tt> (3489; 4% instances), <tt><a href="is_modern-pos-PROPN.html">PROPN</a></tt> (2036; 3% instances), <tt><a href="is_modern-pos-NUM.html">NUM</a></tt> (224; 0% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (148; 0% instances), <tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="is_modern-pos-X.html">X</a></tt> (3; 0% instances).
+40575 tokens (50%) have a non-empty value of `Number`.
+8951 types (88%) occur at least once with a non-empty value of `Number`.
+4736 lemmas (80%) occur at least once with a non-empty value of `Number`.
+The feature is used with 11 part-of-speech tags: <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (13620; 17% instances), <tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (7411; 9% instances), <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (5425; 7% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (4636; 6% instances), <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> (3579; 4% instances), <tt><a href="is_modern-pos-DET.html">DET</a></tt> (3489; 4% instances), <tt><a href="is_modern-pos-PROPN.html">PROPN</a></tt> (2036; 3% instances), <tt><a href="is_modern-pos-NUM.html">NUM</a></tt> (224; 0% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (148; 0% instances), <tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="is_modern-pos-X.html">X</a></tt> (3; 0% instances).
 
 ### `NOUN`
 
@@ -74,15 +74,15 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `VERB`
 
-5461 <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> tokens (59% of all `VERB` tokens) have a non-empty value of `Number`.
+5425 <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> tokens (58% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (5000; 92%), <tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4717; 86%), <tt><a href="is_modern-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4019; 74%), <tt><a href="is_modern-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3474; 64%), <tt><a href="is_modern-feat-Person.html">Person</a></tt><tt>=3</tt> (3287; 60%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4966; 92%), <tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4681; 86%), <tt><a href="is_modern-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3983; 73%), <tt><a href="is_modern-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3438; 63%), <tt><a href="is_modern-feat-Person.html">Person</a></tt><tt>=3</tt> (3255; 60%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (1388; 25% of non-empty `Number`): <em>eigum, þurfum, eiga, verðum, verða, koma, sjáum, komu, Gripið, vitum</em>
-* `Sing` (4073; 75% of non-empty `Number`): <em>hringir, held, kemur, á, finnst, þarf, verður, þakka, sagði, kom</em>
-* `EMPTY` (3834): <em>gera, fara, taka, koma, varðandi, segja, vinna, sjá, fá, ræða</em>
+* `Plur` (1357; 25% of non-empty `Number`): <em>eigum, þurfum, eiga, verðum, verða, koma, sjáum, komu, Gripið, vitum</em>
+* `Sing` (4068; 75% of non-empty `Number`): <em>hringir, held, kemur, á, finnst, þarf, verður, þakka, sagði, kom</em>
+* `EMPTY` (3870): <em>gera, fara, taka, koma, varðandi, segja, vinna, sjá, fá, ræða</em>
 
 <table>
   <tr><th>Paradigm <i>koma</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -267,10 +267,10 @@ The most frequent other feature values with which `X` and `Number` co-occurred: 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>VERB --[<tt><a href="is_modern-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (2083; 74%),
+<tt>VERB --[<tt><a href="is_modern-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (2082; 74%),
 <tt>NOUN --[<tt><a href="is_modern-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1840; 77%),
 <tt>NOUN --[<tt><a href="is_modern-dep-det.html">det</a></tt>]--> DET</tt> (1178; 94%),
-<tt>VERB --[<tt><a href="is_modern-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1161; 73%),
+<tt>VERB --[<tt><a href="is_modern-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1160; 73%),
 <tt>NOUN --[<tt><a href="is_modern-dep-obl.html">obl</a></tt>]--> NOUN</tt> (731; 57%),
 <tt>ADJ --[<tt><a href="is_modern-dep-cop.html">cop</a></tt>]--> AUX</tt> (710; 89%),
 <tt>NOUN --[<tt><a href="is_modern-dep-amod.html">amod</a></tt>]--> DET</tt> (640; 95%),

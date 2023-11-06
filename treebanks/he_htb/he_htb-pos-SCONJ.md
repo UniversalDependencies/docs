@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  ש (<tt><a href="he_htb-pos-SCONJ.html">S
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.702647).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.702584).
 
 The 1st highest number of forms (2) was observed with the lemma “ה”: ה, ה_.
 

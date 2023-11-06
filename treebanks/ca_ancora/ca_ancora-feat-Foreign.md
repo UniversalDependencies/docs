@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (9; 100% of non-empty `Foreign`): <em>Ceguera, amor, amore, cadáver, difunto, disposición, gota, gratis, nicho</em>
-* `EMPTY` (98697): <em>any, anys, milions, pessetes, president, persones, dia, part, cas, grup</em>
+* `EMPTY` (98637): <em>any, anys, milions, pessetes, president, persones, dia, part, cas, grup</em>
 
 ### `ADP`
 

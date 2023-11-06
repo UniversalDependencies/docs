@@ -11,7 +11,7 @@ This relation is universal.
 96 nodes (1%) are attached to their parents as `ccomp`.
 
 96 instances of `ccomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.22916666666667.
+Average distance between parent and child is 3.23958333333333.
 
 The following 5 pairs of parts of speech are connected with `ccomp`: <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> (80; 83% instances), <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt> (8; 8% instances), <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (6; 6% instances), <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
@@ -47,7 +47,7 @@ The following 5 pairs of parts of speech are connected with `ccomp`: <tt><a href
 5	n	in	DET	_	_	8	det	8:det	Orig=nokse|Gloss=el.otro|NormalizedForm=n|NormalizedLemma=in
 6	ok	ok	ADV	_	_	7	advmod	7:advmod	NormalizedForm=ok|NormalizedLemma=ok
 7	se	se	DET	_	_	8	det	8:det	NormalizedForm=se|NormalizedLemma=se
-8	lado	lado	NOUN	_	_	4	nmod	4:nmod	Orig=lado|Gloss=lado|NormalizedForm=lado|NormalizedLemma=lado
+8	lado	lado	NOUN	_	Foreign=Yes|Gender=Masc	4	nmod	4:nmod	Orig=lado|Gloss=lado|NormalizedForm=lado|NormalizedLemma=lado
 9	amo	amo	ADV	_	Polarity=Neg	11	advmod	11:advmod	Orig=amo|Gloss=no|NormalizedForm=amo|NormalizedLemma=amo
 10	ojkon	ohkon	ADV	_	_	11	advmod	11:advmod	Orig=ojkon|Gloss=así|NormalizedForm=ohkon|NormalizedLemma=ohkon
 11	porobes	pobre	ADJ	_	_	2	ccomp	2:ccomp	Gloss=pobres|Orig=porobes|SpaceAfter=No
@@ -67,8 +67,8 @@ The following 5 pairs of parts of speech are connected with `ccomp`: <tt><a href
 3	o	o	AUX	_	_	4	aux	4:aux	NormalizedForm=o|NormalizedLemma=o
 4	kimatia	mati	VERB	_	Aspect=Imp|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past	0	root	0:root	NormalizedForm=kimatia|NormalizedLemma=mati
 5	bumeh	buitl	NOUN	_	Number=Plur	4	ccomp	4:ccomp	SpaceAfter=No|NormalizedForm=bumeh|NormalizedLemma=bwitl
-6	,	,	PUNCT	_	_	5	punct	5:punct	NormalizedForm=,|NormalizedLemma=,
-7	motlakitskilia	motlakitskilia	VERB	_	_	4	conj	4:conj	SpaceAfter=No|NormalizedForm=motlakitskilia|NormalizedLemma=motlakitskilia
+6	,	,	PUNCT	_	_	7	punct	7:punct	NormalizedForm=,|NormalizedLemma=,
+7	motlakitskilia	motlakitskilia	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	4	conj	4:conj	SpaceAfter=No|NormalizedForm=motlakitskilia|NormalizedLemma=motlakitskilia
 8	.	.	PUNCT	_	_	4	punct	4:punct	NormalizedForm=.|NormalizedLemma=.
 
 ~~~

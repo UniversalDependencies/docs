@@ -16,12 +16,12 @@ The feature is used with 1 part-of-speech tags: <tt><a href="sga_dipsgg-pos-VERB
 
 ### `VERB`
 
-1 <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt> tokens (4% of all `VERB` tokens) have a non-empty value of `Aspect`.
+1 <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt> tokens (3% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
 The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="sga_dipsgg-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1; 100%), <tt><a href="sga_dipsgg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="sga_dipsgg-feat-PartType.html">PartType</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sga_dipsgg-feat-Person.html">Person</a></tt><tt>=3</tt> (1; 100%), <tt><a href="sga_dipsgg-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1; 100%), <tt><a href="sga_dipsgg-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1; 100%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
 * `Hab` (1; 100% of non-empty `Aspect`): <em>ṁbís</em>
-* `EMPTY` (27): <em>chain, Gaib, adest, cél, cóima, ecmoṅgat, epur, farcai, fuasna, giuil</em>
+* `EMPTY` (28): <em>chain, Gaib, adest, braigim, cél, cóima, ecmoṅgat, epur, farcai, fuasna</em>
 

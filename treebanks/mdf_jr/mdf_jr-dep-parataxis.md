@@ -8,27 +8,32 @@ udver: '2'
 
 This relation is universal.
 
-23 nodes (1%) are attached to their parents as `parataxis`.
+24 nodes (1%) are attached to their parents as `parataxis`.
 
-19 instances of `parataxis` (83%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.65217391304348.
+20 instances of `parataxis` (83%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.66666666666667.
 
-The following 7 pairs of parts of speech are connected with `parataxis`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (17; 74% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> (1; 4% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (1; 4% instances).
+The following 7 pairs of parts of speech are connected with `parataxis`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (18; 75% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> (1; 4% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 6 parataxis	color:blue
-1	Кода	кода	ADV	_	_	2	advmod:mmod	_	_
-2	арьсят	арьсемс	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres	0	root	_	GTtags=TV,Ind,Prs,ScSg2|SpaceAfter=No
-3	,	,	PUNCT	CLB	_	6	punct	_	_
-4	мзярда	мзярда	ADV	_	AdvType=Tim	6	advmod:tmod	_	_
-5	тон	тон	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	GTtags=Pers,Sg2,Nom
-6	сават	савомс	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres	2	parataxis	_	GTtags=IV,Ind,Prs,ScSg2|SpaceAfter=No
-7	?	?	PUNCT	CLB	_	2	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 9 parataxis	color:blue
+1	Няить	няемс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Tense=Past	0	root	_	GTtags=TV,Ind,Prt1,ScSg2,OcSg3|SpaceAfter=No
+2	,	,	PUNCT	CLB	_	5	punct	_	_
+3	тяса	тяса	ADV	Adv	_	5	advmod:lmod	_	_
+4	ёфcи	ёфcи	ADV	Adv	AdvType=Deg	5	advmod:deg	_	GTtags=Deg
+5	од	од	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	1	conj	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
+6	,	,	PUNCT	CLB	_	5	punct	_	_
+7	мазы	мазы	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	8	amod	_	GTtags=Sg,Nom,Indef
+8	ава	ава	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	9	nsubj	_	GTtags=Sg,Nom,Indef
+9	авардсь	авардемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	1	parataxis	_	GTtags=IV,Ind,Prt1,ScSg3
+10	сельмоведь	сельмоведь	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	9	obl	_	GTtags=Sg,Nom,Indef
+11	мархта	мархта	ADP	Adp	_	10	case	_	SpaceAfter=No
+12	.	.	PUNCT	CLB	_	1	punct	_	_
 
 ~~~
 

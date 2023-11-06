@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-18629 tokens (8%) have a non-empty value of `Person`.
+18631 tokens (8%) have a non-empty value of `Person`.
 4330 types (17%) occur at least once with a non-empty value of `Person`.
 1336 lemmas (7%) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (12002; 5% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (4197; 2% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (2430; 1% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (12002; 5% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (4199; 2% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (2430; 1% instances).
 
 ### `VERB`
 
@@ -49,16 +49,16 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `AUX`
 
-4197 <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> tokens (83% of all `AUX` tokens) have a non-empty value of `Person`.
+4199 <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> tokens (84% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="pt_bosque-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4106; 98%), <tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3758; 90%), <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3146; 75%), <tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2450; 58%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="pt_bosque-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4108; 98%), <tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3760; 90%), <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3148; 75%), <tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2452; 58%).
 
 `AUX` tokens may have the following values of `Person`:
 
 * `1` (157; 4% of non-empty `Person`): <em>estamos, fui, estou, vamos, somos, sou, vou, tenho, estava, tinha</em>
 * `2` (4; 0% of non-empty `Person`): <em>Sê, vais</em>
-* `3` (4036; 96% of non-empty `Person`): <em>é, foi, são, está, foram, vai, era, será, estão, tem</em>
-* `EMPTY` (830): <em>ser, ter, sido, sendo, estar, é, tendo, estando, ir, estado</em>
+* `3` (4038; 96% of non-empty `Person`): <em>é, foi, são, está, foram, vai, era, será, estão, tem</em>
+* `EMPTY` (828): <em>ser, ter, sido, sendo, estar, é, tendo, estando, ir, estado</em>
 
 <table>
   <tr><th>Paradigm <i>ser</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>

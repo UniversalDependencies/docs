@@ -9,20 +9,20 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-14 tokens (0%) have a non-empty value of `Typo`.
-12 types (0%) occur at least once with a non-empty value of `Typo`.
-12 lemmas (0%) occur at least once with a non-empty value of `Typo`.
-The feature is used with 5 part-of-speech tags: <tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="pt_petrogold-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="pt_petrogold-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+15 tokens (0%) have a non-empty value of `Typo`.
+13 types (0%) occur at least once with a non-empty value of `Typo`.
+13 lemmas (0%) occur at least once with a non-empty value of `Typo`.
+The feature is used with 5 part-of-speech tags: <tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt> (8; 0% instances), <tt><a href="pt_petrogold-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="pt_petrogold-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-7 <tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Typo`.
+8 <tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="pt_petrogold-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (5; 71%), <tt><a href="pt_petrogold-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 57%).
+The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="pt_petrogold-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (5; 63%).
 
 `NOUN` tokens may have the following values of `Typo`:
 
-* `Yes` (7; 100% of non-empty `Typo`): <em>produ, commons., meso, varia, www.gasprocessingnews, www.petrobras</em>
+* `Yes` (8; 100% of non-empty `Typo`): <em>,, produ, commons., meso, varia, www.gasprocessingnews, www.petrobras</em>
 
 ### `ADJ`
 

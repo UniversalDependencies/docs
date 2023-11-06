@@ -37,7 +37,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
   <tr><td><tt><tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>rokem</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>roce, roku</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>rok</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cs_pud-feat-Style.html">Style</a></tt><tt>=Arch</tt></tt></td><td></td><td><em>léta</em></td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td></td><td><em>léta</em></td></tr>
   <tr><td><tt><tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td></td><td><em>let</em></td></tr>
   <tr><td><tt><tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td></td><td><em>lety</em></td></tr>
   <tr><td><tt><tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td></td><td><em>letech</em></td></tr>
@@ -238,7 +238,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 140 <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> tokens (31% of all `NUM` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="cs_pud-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (140; 100%), <tt><a href="cs_pud-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (140; 100%), <tt><a href="cs_pud-feat-NumValue.html">NumValue</a></tt><tt>=1,2,3</tt> (102; 73%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (78; 56%).
+The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="cs_pud-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (140; 100%), <tt><a href="cs_pud-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (140; 100%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (78; 56%).
 
 `NUM` tokens may have the following values of `Number`:
 

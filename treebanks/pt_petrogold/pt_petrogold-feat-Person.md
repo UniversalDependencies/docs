@@ -25,7 +25,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 * `1` (75; 1% of non-empty `Person`): <em>podemos, temos, vemos, aumentamos, obtivemos, aplicamos, comparamos, encontramos, obtemos, passamos</em>
 * `2` (7; 0% of non-empty `Person`): <em>vide</em>
 * `3` (7380; 99% of non-empty `Person`): <em>pode, podem, apresenta, tem, apresentam, deve, mostra, ocorre, possui, seja</em>
-* `EMPTY` (12896): <em>partir, devido, utilizando, utilizado, utilizados, obtidos, apresentados, utilizada, observado, produzida</em>
+* `EMPTY` (12897): <em>partir, devido, utilizando, utilizado, utilizados, obtidos, apresentados, utilizada, observado, produzida</em>
 
 <table>
   <tr><th>Paradigm <i>ver</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -59,14 +59,14 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 * `1` (5; 1% of non-empty `Person`): <em>nos, EU, nós</em>
 * `3` (416; 99% of non-empty `Person`): <em>a, eles, elas, ele, ela, si, as, o, lo, los</em>
-* `EMPTY` (4977): <em>se, que, o, isso, isto, este, qual, um, uma, esta</em>
+* `EMPTY` (4977): <em>se, que, o, isso, isto, este, qual, um, uma, onde</em>
 
 `Person` seems to be **lexical feature** of `PRON`. 100% lemmas (11) occur only with one value of `Person`.
 
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="pt_petrogold-dep-conj.html">conj</a></tt>]--> VERB</tt> (434; 57%),
+<tt>VERB --[<tt><a href="pt_petrogold-dep-conj.html">conj</a></tt>]--> VERB</tt> (433; 57%),
 <tt>VERB --[<tt><a href="pt_petrogold-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (259; 53%),
 <tt>VERB --[<tt><a href="pt_petrogold-dep-iobj.html">iobj</a></tt>]--> PRON</tt> (8; 62%),
 <tt>VERB --[<tt><a href="pt_petrogold-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (1; 100%),

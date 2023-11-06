@@ -22,45 +22,51 @@ The following 43 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 2 amod	color:blue
-1	Daha	daha	ADV	Adverb	_	2	advmod:emph	_	_
-2	etkin	etkin	ADJ	Adj	_	4	amod	_	_
-3	bir	bir	DET	ANum	_	4	det	_	_
-4	denetim	denetim	NOUN	Noun	Case=Nom|Number=Sing|Person=3	0	root	_	_
-5	yapacağız	yap	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Fut	4	compound:lvc	_	SpaceAfter=No
-6	.	.	PUNCT	Punc	_	4	punct	_	_
+1	Kapının	kapı	NOUN	Noun	Case=Gen|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=2	2	nmod:poss	_	_
+2	kenarında	kenar	ADJ	NAdj	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=2	4	amod	_	_
+3	ki	ki	ADP	Rel	_	2	case	_	_
+4	duvara	duvar	NOUN	Noun	Case=Dat|Number=Sing|Person=3	5	obl	_	_
+5	dayanıp	dayan	VERB	Verb	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Conv	7	advcl	_	_
+6	bize	biz	PRON	Pers	Case=Dat|Number=Plur|Person=1|PronType=Prs	7	obl	_	_
+7	baktı	bak	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	_
+8	bir	bir	NUM	ANum	NumType=Card	7	nummod	_	_
+9	an	an	NOUN	Noun	Case=Nom|Number=Sing|Person=3	8	compound	_	SpaceAfter=No
+10	.	.	PUNCT	Punc	_	7	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 4 amod	color:blue
-1	Alışveriş	alışveriş	NOUN	Noun	Case=Nom|Number=Sing|Person=3	5	csubj	_	_
-2	ise	i	AUX	Conj	_	1	cop	_	_
-3	hayatın	hayat	NOUN	Noun	Case=Gen|Number=Sing|Person=3	4	nmod:poss	_	_
-4	temelinde	temel	ADJ	NAdj	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	5	amod	_	_
-5	yatar	yat	VERB	Verb	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	SpaceAfter=No
+# visual-style 5 3 amod	color:blue
+1	Kumral	kumral	ADJ	Adj	_	2	amod	_	_
+2	saçları	saç	NOUN	Noun	Case=Nom|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	5	nsubj	_	_
+3	hafif	hafif	ADJ	Adj	_	5	amod	_	_
+4	çe	ce	ADP	Ly	_	3	case	_	_
+5	karışmıştı	karış	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pqp	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	Punc	_	5	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 2 amod	color:blue
-1	Siz	siz	PRON	Pers	Case=Nom|Number=Plur|Person=2|PronType=Prs	5	nsubj	_	_
-2	sektörde	sektör	NOUN	Noun	Case=Loc|Number=Sing|Person=3	5	amod	_	_
-3	ki	ki	ADP	Rel	_	2	case	_	_
-4	tek	tek	ADJ	Adj	_	5	amod	_	_
-5	antropolog	antropolog	NOUN	Noun	Case=Nom|Number=Sing|Person=3	0	root	_	_
-6	sunuz	i	AUX	Zero	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Pres	5	cop	_	_
-7	.	.	PUNCT	Punc	_	5	punct	_	_
+# visual-style 5 3 amod	color:blue
+1	İnce	ince	ADJ	Adj	_	3	amod	_	_
+2	uzun	uzun	ADJ	Adj	_	3	amod	_	_
+3	parmak	parmak	NOUN	Noun	Case=Nom|Number=Sing|Person=3	5	amod	_	_
+4	lı	li	ADP	With	_	3	case	_	_
+5	elleri	el	NOUN	Noun	Case=Nom|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	7	nsubj	_	_
+6	masanın	masa	NOUN	Noun	Case=Gen|Number=Sing|Person=3	7	nmod:poss	_	_
+7	üstünde	üst	ADJ	NAdj	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	0	root	_	_
+8	ydi	i	AUX	Zero	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	7	cop	_	_
+9	.	.	PUNCT	Punc	_	7	punct	_	_
 
 ~~~
 

@@ -11,16 +11,16 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="nhi_itml-feat-Person.html">Person</a></tt>, <tt><a href="nhi_itml-feat-Person-dat.html">Person[dat]</a></tt>, <tt><a href="nhi_itml-feat-Person-obj.html">Person[obj]</a></tt>, <tt><a href="nhi_itml-feat-Person-psor.html">Person[psor]</a></tt>, <tt><a href="nhi_itml-feat-Person-subj.html">Person[subj]</a></tt>.
 
-59 tokens (1%) have a non-empty value of `Person[dat]`.
-41 types (2%) occur at least once with a non-empty value of `Person[dat]`.
-17 lemmas (1%) occur at least once with a non-empty value of `Person[dat]`.
-The feature is used with 1 part-of-speech tags: <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> (59; 1% instances).
+72 tokens (1%) have a non-empty value of `Person[dat]`.
+52 types (2%) occur at least once with a non-empty value of `Person[dat]`.
+20 lemmas (1%) occur at least once with a non-empty value of `Person[dat]`.
+The feature is used with 1 part-of-speech tags: <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> (72; 1% instances).
 
 ### `VERB`
 
-59 <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> tokens (3% of all `VERB` tokens) have a non-empty value of `Person[dat]`.
+72 <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> tokens (4% of all `VERB` tokens) have a non-empty value of `Person[dat]`.
 
-The most frequent other feature values with which `VERB` and `Person[dat]` co-occurred: <tt><a href="nhi_itml-feat-Subcat.html">Subcat</a></tt><tt>=Tran</tt> (59; 100%), <tt><a href="nhi_itml-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (55; 93%), <tt><a href="nhi_itml-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (46; 78%), <tt><a href="nhi_itml-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (39; 66%), <tt><a href="nhi_itml-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (33; 56%), <tt><a href="nhi_itml-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (33; 56%).
+The most frequent other feature values with which `VERB` and `Person[dat]` co-occurred: <tt><a href="nhi_itml-feat-Subcat.html">Subcat</a></tt><tt>=Tran</tt> (72; 100%), <tt><a href="nhi_itml-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (68; 94%), <tt><a href="nhi_itml-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (59; 82%), <tt><a href="nhi_itml-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (58; 81%), <tt><a href="nhi_itml-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (47; 65%), <tt><a href="nhi_itml-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (40; 56%), <tt><a href="nhi_itml-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (38; 53%).
 
 `VERB` tokens may have the following values of `Person[dat]`:
 

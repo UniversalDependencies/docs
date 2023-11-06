@@ -89,9 +89,9 @@ The 10 most frequent relations where parent and child node agree in `Aspect`:
 <tt>VERB --[<tt><a href="cs_pdt-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (715; 56%),
 <tt>VERB --[<tt><a href="cs_pdt-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (282; 54%),
 <tt>VERB --[<tt><a href="cs_pdt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (104; 60%),
-<tt>AUX --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> VERB</tt> (97; 73%),
-<tt>VERB --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> AUX</tt> (60; 66%),
-<tt>AUX --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> AUX</tt> (45; 100%),
-<tt>VERB --[<tt><a href="cs_pdt-dep-xcomp.html">xcomp</a></tt>]--> AUX</tt> (36; 100%),
-<tt>VERB --[<tt><a href="cs_pdt-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (33; 62%).
+<tt>VERB --[<tt><a href="cs_pdt-dep-appos.html">appos</a></tt>]--> VERB</tt> (29; 64%),
+<tt>VERB --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> AUX</tt> (16; 94%),
+<tt>VERB --[<tt><a href="cs_pdt-dep-xcomp.html">xcomp</a></tt>]--> AUX</tt> (14; 100%),
+<tt>AUX --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> AUX</tt> (12; 100%),
+<tt>ADJ --[<tt><a href="cs_pdt-dep-csubj-pass.html">csubj:pass</a></tt>]--> VERB</tt> (7; 58%).
 

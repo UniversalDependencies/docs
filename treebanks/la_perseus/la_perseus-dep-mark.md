@@ -11,19 +11,19 @@ This relation is universal.
 804 nodes (3%) are attached to their parents as `mark`.
 
 789 instances of `mark` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.24004975124378.
+Average distance between parent and child is 3.26119402985075.
 
 The following 11 pairs of parts of speech are connected with `mark`: <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> (647; 80% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> (55; 7% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (35; 4% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> (32; 4% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-ADP.html">ADP</a></tt> (13; 2% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt>-<tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> (7; 1% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> (5; 1% instances), <tt><a href="la_perseus-pos-DET.html">DET</a></tt>-<tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 2 mark	color:blue
-1	que	que	CCONJ	c--------	_	9	cc	_	LId=que1
-2	Ut	ut	SCONJ	d--------	_	7	mark	_	LId=ut1
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 1 mark	color:blue
+1	Ut	ut	SCONJ	d--------	_	9	mark	_	_
+2	que	que	CCONJ	c--------	_	1	cc	_	LId=que1
 3	manu	manus	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	7	obl	_	LId=manus1
 4	late	latus	ADV	d--------	_	7	advmod	_	LId=latus1
 5	pendentia	pendeo	VERB	v-pppana-	Aspect=Imp|Case=Acc|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Act	6	nmod	_	LId=pendeo1|TraditionalMood=Participium|TraditionalTense=Praesens

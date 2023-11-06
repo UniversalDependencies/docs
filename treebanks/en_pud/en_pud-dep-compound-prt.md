@@ -58,7 +58,7 @@ The following 3 pairs of parts of speech are connected with `compound:prt`: <tt>
 11	collaborations	collaboration	NOUN	NNS	Number=Plur	6	obl	6:obl:due_to|18:nsubj	_
 12	between	between	ADP	IN	_	14	case	14:case	_
 13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	14:det	_
-14	two	two	NUM	CD	NumType=Card	11	nmod	11:nmod:between	SpaceAfter=No
+14	two	two	NUM	CD	NumForm=Word|NumType=Card	11	nmod	11:nmod:between	SpaceAfter=No
 15	,	,	PUNCT	,	_	18	punct	18:punct	_
 16	which	which	PRON	WDT	PronType=Rel	18	nsubj	11:ref	_
 17	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux	18:aux	_

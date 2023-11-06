@@ -61,7 +61,7 @@ The most frequent other feature values with which `VERB` and `Subcat` co-occurre
 
 The 10 most frequent relations where parent and child node agree in `Subcat`:
 <tt>VERB --[<tt><a href="hy_armtdp-dep-conj.html">conj</a></tt>]--> VERB</tt> (911; 61%),
-<tt>VERB --[<tt><a href="hy_armtdp-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (260; 52%),
+<tt>VERB --[<tt><a href="hy_armtdp-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (260; 51%),
 <tt>VERB --[<tt><a href="hy_armtdp-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (164; 56%),
 <tt>VERB --[<tt><a href="hy_armtdp-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (105; 50%),
 <tt>VERB --[<tt><a href="hy_armtdp-dep-obl.html">obl</a></tt>]--> VERB</tt> (56; 54%),

@@ -39,6 +39,6 @@ The most frequent other feature values with which `NOUN` and `Reflex` co-occurre
 ## Relations with Agreement in `Reflex`
 
 The 10 most frequent relations where parent and child node agree in `Reflex`:
-<tt>PRON --[<tt><a href="gd_arcosg-dep-fixed.html">fixed</a></tt>]--> PRON</tt> (16; 100%),
+<tt>PRON --[<tt><a href="gd_arcosg-dep-fixed.html">fixed</a></tt>]--> PRON</tt> (17; 100%),
 <tt>NOUN --[<tt><a href="gd_arcosg-dep-fixed.html">fixed</a></tt>]--> NOUN</tt> (1; 100%).
 

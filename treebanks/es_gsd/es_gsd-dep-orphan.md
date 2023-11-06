@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2 nodes (0%) are attached to their parents as `orphan`.
+4 nodes (0%) are attached to their parents as `orphan`.
 
-2 instances of `orphan` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.
+4 instances of `orphan` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.
 
-The following 2 pairs of parts of speech are connected with `orphan`: <tt><a href="es_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (1; 50% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-DET.html">DET</a></tt> (1; 50% instances).
+The following 4 pairs of parts of speech are connected with `orphan`: <tt><a href="es_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (1; 25% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (1; 25% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-DET.html">DET</a></tt> (1; 25% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (1; 25% instances).
 
 
 ~~~ conllu
@@ -27,7 +27,7 @@ The following 2 pairs of parts of speech are connected with `orphan`: <tt><a hre
 3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	cantón	cantón	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 5	número	número	NOUN	_	Gender=Masc|Number=Sing	4	appos	_	_
-6	7	7	NUM	_	NumType=Card	5	appos	_	_
+6	7	7	NUM	_	NumForm=Digit|NumType=Card	5	appos	_	_
 7	de	de	ADP	_	_	9	case	_	_
 8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	provincia	provincia	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
@@ -40,7 +40,7 @@ The following 2 pairs of parts of speech are connected with `orphan`: <tt><a hre
 16	,	,	PUNCT	_	_	17	punct	_	_
 17	establecido	establecer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	4	acl	_	_
 18	en	en	ADP	_	_	19	case	_	_
-19	1883	1883	NUM	_	NumType=Card	17	obl	_	_
+19	1883	1883	NUM	_	NumForm=Digit|NumType=Card	17	obl	_	_
 20	con	con	ADP	_	_	22	case	_	_
 21	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
 22	nombre	nombre	NOUN	_	Gender=Masc|Number=Sing	17	obl	_	_
@@ -65,6 +65,62 @@ The following 2 pairs of parts of speech are connected with `orphan`: <tt><a hre
 41	Ciudad	ciudad	NOUN	_	Gender=Fem|Number=Sing	40	orphan	_	_
 42	Colón	Colón	PROPN	_	_	41	flat	_	SpaceAfter=No
 43	.	.	PUNCT	_	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 32	bgColor:blue
+# visual-style 32	fgColor:white
+# visual-style 30	bgColor:blue
+# visual-style 30	fgColor:white
+# visual-style 30 32 orphan	color:blue
+1	En	en	ADP	_	_	2	case	_	_
+2	2010	2010	NUM	_	NumForm=Digit|NumType=Card	13	obl	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	6	punct	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	Salón	salón	NOUN	_	Gender=Masc|Number=Sing	13	obl	_	_
+7	Aeronáutico	aeronáutico	ADJ	_	_	6	amod	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	Farnborough	farnborough	PROPN	_	_	6	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	6	punct	_	_
+11	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	aerolínea	aerolínea	NOUN	_	Gender=Fem|Number=Sing	13	nsubj	_	_
+13	hizo	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+14	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	pedido	pedido	NOUN	_	Gender=Masc|Number=Sing	13	obj	_	_
+16	de	de	ADP	_	_	18	case	_	_
+17	30	30	NUM	_	NumForm=Digit|NumType=Card	18	nummod	_	_
+18	Boeing	boeing	X	_	_	15	nmod	_	_
+19	777	777	NUM	_	NumForm=Digit|NumType=Card	18	nummod	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	23	punct	_	_
+21	con	con	ADP	_	_	23	case	_	_
+22	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+23	valor	valor	NOUN	_	Gender=Masc|Number=Sing	13	obl	_	_
+24	$	$	SYM	_	_	23	appos	_	_
+25	9100	100	NUM	_	NumForm=Digit|NumType=Card	26	nummod	_	_
+26	millones	millón	NOUN	_	Gender=Masc|Number=Plur	24	nummod	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	23	punct	_	_
+28	con	con	ADP	_	_	29	case	_	_
+29	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	13	obl	_	_
+30	que	que	PRON	_	PronType=Rel	29	acl:relcl	_	_
+31	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	32	det	_	_
+32	gasto	gasto	NOUN	_	Gender=Masc|Number=Sing	30	orphan	_	_
+33	total	total	ADJ	_	Number=Sing	32	amod	_	_
+34	de	de	ADP	_	_	35	case	_	_
+35	aeronaves	aeronave	NOUN	_	Gender=Fem|Number=Plur	32	nmod	_	_
+36	en	en	ADP	_	_	38	case	_	_
+37	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	38	det	_	_
+38	año	año	NOUN	_	Gender=Masc|Number=Sing	32	nmod	_	_
+39	a	a	ADP	_	_	40	case	_	_
+40	más	más	ADV	_	Degree=Cmp	32	advmod	_	_
+41	de	de	ADP	_	_	42	case	_	_
+42	$	$	SYM	_	_	40	obl	_	_
+43	25	25	NUM	_	NumForm=Digit|NumType=Card	44	nummod	_	_
+44	mil	mil	NUM	_	NumForm=Word|NumType=Card	45	nummod	_	_
+45	millones	millón	NOUN	_	Gender=Masc|Number=Plur	42	nummod	_	SpaceAfter=No
+46	.	.	PUNCT	_	_	13	punct	_	_
 
 ~~~
 

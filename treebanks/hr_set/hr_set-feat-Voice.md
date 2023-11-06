@@ -36,7 +36,7 @@ The most frequent other feature values with which `ADJ` and `Voice` co-occurred:
 `ADJ` tokens may have the following values of `Voice`:
 
 * `Pass` (2054; 100% of non-empty `Voice`): <em>održana, otvorena, održan, povećana, objavljenom, održano, otvoren, rođen, postignut, usmjerene</em>
-* `EMPTY` (22084): <em>novi, prvi, drugi, sve, svi, vanjskih, glavni, novih, nove, prošle</em>
+* `EMPTY` (22085): <em>novi, prvi, drugi, sve, svi, vanjskih, glavni, novih, nove, prošle</em>
 
 `Voice` seems to be **lexical feature** of `ADJ`. 100% lemmas (636) occur only with one value of `Voice`.
 

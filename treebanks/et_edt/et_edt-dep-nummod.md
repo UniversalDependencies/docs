@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-5938 nodes (1%) are attached to their parents as `nummod`.
+5947 nodes (1%) are attached to their parents as `nummod`.
 
-4926 instances of `nummod` (83%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.35601212529471.
+4939 instances of `nummod` (83%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.35715486800067.
 
-The following 9 pairs of parts of speech are connected with `nummod`: <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (5169; 87% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt>-<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (456; 8% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (209; 4% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (47; 1% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (39; 1% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (7; 0% instances), <tt><a href="et_edt-pos-X.html">X</a></tt>-<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (2; 0% instances).
+The following 10 pairs of parts of speech are connected with `nummod`: <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (5160; 87% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt>-<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (476; 8% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (201; 3% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (47; 1% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (40; 1% instances), <tt><a href="et_edt-pos-X.html">X</a></tt>-<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (5; 0% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -39,7 +39,7 @@ The following 9 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 7 nummod	color:blue
-1	20	20	NUM	N	NumForm=Digit|NumType=Card	2	nmod	2:nmod	_
+1	20	20	NUM	N	NumForm=Digit|NumType=Card	2	nummod	2:nummod	_
 2	aastat	aasta	NOUN	S	Case=Par|Number=Sing	8	obl	8:obl	_
 3	peab	pidama	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux	8:aux	_
 4	keskmine	keskmine	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	5	amod	5:amod	_
@@ -61,10 +61,10 @@ The following 9 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 9 11 nummod	color:blue
 1	ABC	ABC	PROPN	S	Case=Nom|Number=Sing	0	root	0:root	NE=B-Prod
 2	"	"	PUNCT	Z	_	3	punct	3:punct	NE=B-Prod|SpaceAfter=No
-3	The	The	PROPN	S	Case=Nom|Number=Sing	1	nmod	1:nmod	NE=I-Prod
-4	Lexicon	Lexicon	PROPN	S	Case=Nom|Number=Sing	3	flat	3:flat	NE=I-Prod
-5	Of	Of	PROPN	Y	Abbr=Yes	3	flat	3:flat	NE=I-Prod
-6	Love	Love	PROPN	S	Case=Nom|Number=Sing	3	flat	3:flat	NE=I-Prod|SpaceAfter=No
+3	The	The	PROPN	S	Foreign=Yes	1	nmod	1:nmod	Lang=en|NE=I-Prod
+4	Lexicon	Lexicon	PROPN	S	Foreign=Yes	3	flat	3:flat	NE=I-Prod
+5	Of	Of	PROPN	Y	Foreign=Yes	3	flat	3:flat	Lang=en|NE=I-Prod
+6	Love	Love	PROPN	S	Foreign=Yes	3	flat	3:flat	Lang=en|NE=I-Prod|SpaceAfter=No
 7	"	"	PUNCT	Z	_	3	punct	3:punct	NE=I-Prod
 8	(	(	PUNCT	Z	_	9	punct	9:punct	SpaceAfter=No
 9	Mercury	Mercury	PROPN	S	Case=Nom|Number=Sing	1	parataxis	1:parataxis	NE=B-Org|SpaceAfter=No

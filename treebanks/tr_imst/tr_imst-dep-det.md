@@ -17,18 +17,21 @@ The following 16 pairs of parts of speech are connected with `det`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 det	color:blue
-1	Bir	bir	DET	ANum	_	2	det	_	_
-2	ihtimal	ihtimal	NOUN	Noun	Case=Nom|Number=Sing|Person=3	6	obl	_	_
-3	olarak	olarak	ADP	PCNom	_	2	case	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 det	color:blue
+1	İzini	iz	NOUN	Noun	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	2	obj	_	_
+2	bulursanız	bul	VERB	Verb	Aspect=Hab|Mood=Cnd|Number=Plur|Person=2|Polarity=Pos|Tense=Pres	9	ccomp	_	SpaceAfter=No
+3	,	,	PUNCT	Punc	_	6	punct	_	_
 4	bu	bu	DET	Det	_	5	det	_	_
-5	hususu	husus	NOUN	Noun	Case=Acc|Number=Sing|Person=3	6	obj	_	_
-6	belirtiyorlar	belir	VERB	Verb	Aspect=Prog|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Polite=Infm|Tense=Pres|Voice=Cau	0	root	_	SpaceAfter=No
-7	.	.	PUNCT	Punc	_	6	punct	_	_
+5	numaraya	numara	NOUN	Noun	Case=Dat|Number=Sing|Person=3	6	nmod	_	_
+6	haber	haber	NOUN	Noun	Case=Nom|Number=Sing|Person=3	2	conj	_	_
+7	verirsiniz	ver	VERB	Verb	Aspect=Hab|Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres	6	compound	_	SpaceAfter=No
+8	,	,	PUNCT	Punc	_	6	punct	_	_
+9	dedi	de	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	Punc	_	9	punct	_	_
 
 ~~~
 
@@ -39,34 +42,28 @@ The following 16 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 det	color:blue
-1	Uyuşturucusu	uyuşturucu	ADJ	NAdj	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	2	nsubj	_	_
-2	kesilmiş	kes	VERB	Verb	Aspect=Perf|Evident=Nfh|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	4	acl	_	_
+1	İçeriye	içeri	NOUN	Noun	Case=Dat|Number=Sing|Person=3	5	obl	_	_
+2	gençten	genç	ADJ	NAdj	Case=Abl|Number=Sing|Person=3	4	amod	_	_
 3	bir	bir	DET	ANum	_	4	det	_	_
-4	bağımlı	bağımlı	ADJ	Adj	_	5	obj	_	_
-5	gibi	gibi	ADP	PCNom	_	10	ccomp	_	_
-6	yim	i	AUX	Zero	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres	5	cop	_	_
-7	şu	şu	DET	Det	_	4	det	_	_
-8	an	an	NOUN	Noun	Case=Nom|Number=Sing|Person=3	7	compound	_	SpaceAfter=No
-9	,	,	PUNCT	Punc	_	10	punct	_	_
-10	dedi	de	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	SpaceAfter=No
-11	.	.	PUNCT	Punc	_	10	punct	_	_
+4	erkek	erkek	ADJ	NAdj	Case=Nom|Number=Sing|Person=3	5	nsubj	_	_
+5	girdi	gir	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	Punc	_	5	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 3 det	color:blue
-1	Bana	ben	PRON	Pers	Case=Dat|Number=Sing|Person=1|PronType=Prs	6	iobj	_	_
-2	annem	anne	NOUN	Noun	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	6	nsubj	_	_
-3	her	her	DET	Det	_	6	det	_	_
-4	zaman	zaman	NOUN	Noun	Case=Nom|Number=Sing|Person=3	3	compound	_	_
-5	bunu	bu	PRON	Demons	Case=Acc|Number=Sing|Person=3|PronType=Dem	6	obj	_	_
-6	öğütler	öğütle	VERB	Verb	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	SpaceAfter=No
-7	.	.	PUNCT	Punc	_	6	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 det	color:blue
+1	Ürküt	ürküt	VERB	Verb	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Pres	3	amod	_	_
+2	ücü	ci	ADP	Agt	_	1	case	_	_
+3	şeyler	şey	NOUN	Noun	Case=Nom|Number=Plur|Person=3	0	root	_	_
+4	bu	bu	DET	Det	_	5	det	_	_
+5	anlattıklarınız	anlat	VERB	Verb	Aspect=Perf|Case=Nom|Mood=Ind|Number[psor]=Plur|Person[psor]=2|Polarity=Pos|Tense=Past|VerbForm=Part	3	nsubj	_	SpaceAfter=No
+6	.	.	PUNCT	Punc	_	5	punct	_	_
 
 ~~~
 

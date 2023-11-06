@@ -12,9 +12,9 @@ There are also 3 other language-specific subtypes of `advcl`: <tt><a href="la_ll
 74 nodes (0%) are attached to their parents as `advcl:relcl`.
 
 48 instances of `advcl:relcl` (65%) are left-to-right (parent precedes child).
-Average distance between parent and child is 20.5675675675676.
+Average distance between parent and child is 20.5810810810811.
 
-The following 5 pairs of parts of speech are connected with `advcl:relcl`: <tt><a href="la_llct-pos-VERB.html">VERB</a></tt>-<tt><a href="la_llct-pos-VERB.html">VERB</a></tt> (50; 68% instances), <tt><a href="la_llct-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_llct-pos-VERB.html">VERB</a></tt> (17; 23% instances), <tt><a href="la_llct-pos-VERB.html">VERB</a></tt>-<tt><a href="la_llct-pos-AUX.html">AUX</a></tt> (4; 5% instances), <tt><a href="la_llct-pos-AUX.html">AUX</a></tt>-<tt><a href="la_llct-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_llct-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `advcl:relcl`: <tt><a href="la_llct-pos-VERB.html">VERB</a></tt>-<tt><a href="la_llct-pos-VERB.html">VERB</a></tt> (50; 68% instances), <tt><a href="la_llct-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_llct-pos-VERB.html">VERB</a></tt> (17; 23% instances), <tt><a href="la_llct-pos-VERB.html">VERB</a></tt>-<tt><a href="la_llct-pos-AUX.html">AUX</a></tt> (4; 5% instances), <tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_llct-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="la_llct-pos-AUX.html">AUX</a></tt>-<tt><a href="la_llct-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -34,7 +34,7 @@ The following 5 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 9	vindemia	uindemia	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	12	obl	_	_
 10	super	super	ADP	r|r|-|-|-|-|-|-|-|-	_	11	case	_	_
 11	palmentum	palmentum	NOUN	n|n|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing	12	obl	_	_
-12	veneritis	uenio	VERB	v|v|2|p|t|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	16	advcl:relcl	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=FuturumExactum
+12	veneritis	uenio	VERB	v|v|2|p|t|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	16	advcl:relcl	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Futurum
 13	,	,	PUNCT	Punc	_	12	punct	_	_
 14	bene	bene	ADV	d|d|-|-|-|-|-|-|-|-	_	15	advmod	_	_
 15	gubernare	guberno	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	16	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
@@ -52,9 +52,9 @@ The following 5 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 # visual-style 6 12 advcl:relcl	color:blue
 1	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	4	cc	_	_
 2	ideo	ideo	ADV	d|d|-|-|-|-|-|-|-|-	_	4	advmod	_	_
-3	nobis	nos	PRON	p|p|1|p|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Plur|Person=1|PronType=Prs	6	obl:arg	_	_
+3	nobis	nos	PRON	p|p|1|p|-|-|-|m|d|-	Case=Dat|Number=Plur|Person=1|PronType=Prs	6	obl:arg	_	_
 4	paruit	pareo	VERB	v|v|3|s|r|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
-5	esse	sum	AUX	v|v|-|-|p|n|a|-|-|-	VerbForm=Inf	6	cop	_	_
+5	esse	sum	AUX	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf	6	cop	_	_
 6	rectum	rectus	ADJ	a|a|-|s|-|-|-|n|n|-	Case=Nom|Gender=Neut|Number=Sing	4	xcomp	_	_
 7	una	una	ADV	d|d|-|-|-|-|-|-|-|-	_	12	mark	_	_
 8	cum	cum	ADP	r|r|-|-|-|-|-|-|-|-	_	7	fixed	_	_
@@ -91,7 +91,7 @@ The following 5 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 39	,	,	PUNCT	Punc	_	43	punct	_	_
 40	cuius	qui	DET	p|p|-|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing|PronType=Ind	41	det	_	_
 41	proprietas	proprietas	NOUN	n|n|-|s|-|-|-|f|n|-	Case=Nom|Gender=Fem|Number=Sing	43	xcomp	_	_
-42	esse	sum	AUX	v|v|-|-|p|n|a|-|-|-	VerbForm=Inf	41	cop	_	_
+42	esse	sum	AUX	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf	41	cop	_	_
 43	videbatur	uideo	VERB	v|v|3|s|i|i|p|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	35	acl	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Imperfectum
 44	.	.	PUNCT	Punc	_	4	punct	_	_
 
@@ -121,9 +121,9 @@ The following 5 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 15	quomodo	quomodo	SCONJ	d|d|-|-|-|-|-|-|-|-	_	20	mark	_	_
 16	cui	qui	PRON	p|p|-|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing|PronType=Rel	20	obl:arg	_	_
 17	ex	ex	ADP	r|r|-|-|-|-|-|-|-|-	_	18	case	_	_
-18	nobis	nos	PRON	p|p|1|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur|Person=1|PronType=Prs	16	nmod	_	_
+18	nobis	nos	PRON	p|p|1|p|-|-|-|m|b|-	Case=Abl|Number=Plur|Person=1|PronType=Prs	16	nmod	_	_
 19	autilitas	utilitas	NOUN	n|n|-|s|-|-|-|f|n|-	Case=Nom|Gender=Fem|Number=Sing	20	nsubj	_	_
-20	fuerit	sum	AUX	v|v|3|s|t|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	12	advcl:relcl	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=FuturumExactum
+20	fuerit	sum	AUX	v|v|3|s|t|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	12	advcl:relcl	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Futurum
 21	.	.	PUNCT	Punc	_	11	punct	_	_
 
 ~~~

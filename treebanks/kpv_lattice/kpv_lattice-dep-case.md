@@ -41,11 +41,15 @@ The following 10 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 case	color:blue
-1	Мый	мый	PRON	Pron	Case=Nom|PronType=Int	4	obl	_	_
-2	вылӧ	вылӧ	ADP	Po	Case=Ill|Number=Sing	1	case	_	_
-3	тэ	тэ	PRON	Pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
-4	видзӧдан	видзӧдны	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres	0	root	_	SpaceAfter=No
-5	?	?	PUNCT	CLB	_	4	punct	_	_
+1	Сы	сійӧ	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	obl	_	_
+2	вылӧ	вылын	ADP	Po	Case=Ill|Number=Sing	1	case	_	_
+3	видзӧдігмоз	видзӧдны	VERB	V	Derivation=Igmoz|VerbForm=Conv	6	advcl	_	_
+4	весиг	весиг	PART	Pcle	_	6	advmod	_	_
+5	шуштӧм	шуштӧм	NOUN	N	Case=Abe|Number=Sing|Variant=Nomin	6	xcomp	_	_
+6	лолі	лолыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+7	сьӧлӧм	сьӧлӧм	NOUN	N	Case=Nom|Number=Sing	6	obl:lmod	_	_
+8	вылын	вылын	ADP	Po	Case=Ine|Number=Sing	7	case	_	SpaceAfter=No
+9	.	.	PUNCT	CLB	_	6	punct	_	_
 
 ~~~
 

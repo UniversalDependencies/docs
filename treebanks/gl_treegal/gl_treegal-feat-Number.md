@@ -191,7 +191,7 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="gl_treegal-dep-det.html">det</a></tt>]--> DET</tt> (3379; 100%),
 <tt>NOUN --[<tt><a href="gl_treegal-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1201; 99%),
 <tt>NOUN --[<tt><a href="gl_treegal-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (671; 59%),
-<tt>PROPN --[<tt><a href="gl_treegal-dep-det.html">det</a></tt>]--> DET</tt> (375; 80%),
+<tt>PROPN --[<tt><a href="gl_treegal-dep-det.html">det</a></tt>]--> DET</tt> (376; 80%),
 <tt>VERB --[<tt><a href="gl_treegal-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (344; 87%),
 <tt>NOUN --[<tt><a href="gl_treegal-dep-acl.html">acl</a></tt>]--> VERB</tt> (341; 71%),
 <tt>VERB --[<tt><a href="gl_treegal-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (316; 88%),

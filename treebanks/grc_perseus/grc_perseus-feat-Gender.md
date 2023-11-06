@@ -230,6 +230,6 @@ The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="grc_perseus-dep-nmod.html">nmod</a></tt>]--> VERB</tt> (937; 94%),
 <tt>NOUN --[<tt><a href="grc_perseus-dep-amod.html">amod</a></tt>]--> ADJ</tt> (878; 90%),
 <tt>NOUN --[<tt><a href="grc_perseus-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (798; 60%),
-<tt>VERB --[<tt><a href="grc_perseus-dep-det.html">det</a></tt>]--> DET</tt> (723; 57%),
+<tt>VERB --[<tt><a href="grc_perseus-dep-det.html">det</a></tt>]--> DET</tt> (724; 57%),
 <tt>VERB --[<tt><a href="grc_perseus-dep-conj.html">conj</a></tt>]--> VERB</tt> (561; 87%).
 

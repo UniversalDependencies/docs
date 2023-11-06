@@ -11,7 +11,7 @@ This relation is universal.
 7 nodes (0%) are attached to their parents as `appos`.
 
 7 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.28571428571429.
+Average distance between parent and child is 1.57142857142857.
 
 The following 1 pairs of parts of speech are connected with `appos`: <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt> (7; 100% instances).
 

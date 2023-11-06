@@ -23,9 +23,9 @@ The following 3 pairs of parts of speech are connected with `det:numgov`: <tt><a
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 8 det:numgov	color:blue
-1	I	i	CCONJ	J^-------------	_	3	advmod:emph	3:advmod:emph	Bridge=cmpr9415025c5<cmpr9415025c47:subset|Entity=(cmpr9415025c47--3|Functor=3:RHEM|LId=i-1
+1	I	i	CCONJ	J^-------------	_	3	advmod:emph	3:advmod:emph	Bridge=cmpr9415025c5<cmpr9415025c48:subset|Entity=(cmpr9415025c48--3|Functor=3:RHEM|LId=i-1
 2	velké	velký	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	3	amod	3:amod	Functor=3:RSTR
-3	firmy	firma	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	5	nsubj	5:nsubj	Entity=cmpr9415025c47)|Functor=5:ACT
+3	firmy	firma	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	5	nsubj	5:nsubj	Entity=cmpr9415025c48)|Functor=5:ACT
 4	se	se	PRON	P7--4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	5	obj	5:obj	LGloss=(zvr._zájmeno/částice)
 5	specializují	specializovat	VERB	VB-P---3P-AAI--	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Functor=0:PRED
 6	jen	jen	PART	TT-------------	_	8	advmod:emph	8:advmod:emph	Entity=(cmpr9415025c36--5-gstype:gen|Functor=8:RHEM|LId=jen-1
@@ -72,14 +72,14 @@ The following 3 pairs of parts of speech are connected with `det:numgov`: <tt><a
 # visual-style 10 9 det:numgov	color:blue
 1	Už	už	ADV	Db-------------	_	3	advmod:emph	3:advmod:emph	LId=už-1|Functor=3:RHEM
 2	před	před	ADP	RR--7----------	AdpType=Prep|Case=Ins	3	case	3:case	LId=před-1
-3	rokem	rok	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	5	obl	5:obl:před:ins	Functor=5:TWHEN
+3	rokem	rok	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	0	root	0:root	Functor=0:TWHEN
 4	1939	1939	NUM	C=-------------	NumForm=Digit|NumType=Card	3	nummod	3:nummod	Functor=3:RSTR
-5	bylo	být	AUX	VpNS----R-AAI--	Aspect=Imp|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	Functor=0:PRED
+5	bylo	být	AUX	VpNS----R-AAI--	Aspect=Imp|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	3	cop	3:cop	Functor=3:PRED
 6	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	8	case	8:case	Entity=(ln9420959c55--3-gstype:spec|LId=v-1
 7	koncentračních	koncentrační	ADJ	AAIP6----1A----	Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	8	amod	8:amod	Functor=8:RSTR
-8	táborech	tábor	NOUN	NNIP6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur|Polarity=Pos	5	obl	5:obl:v:loc	Entity=ln9420959c55)|Functor=5:LOC|LId=tábor-1
+8	táborech	tábor	NOUN	NNIP6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur|Polarity=Pos	3	obl	3:obl:v:loc	Entity=ln9420959c55)|Functor=3:LOC|LId=tábor-1
 9	mnoho	mnoho	DET	Ca--1----------	Case=Nom|NumType=Card|PronType=Ind	10	det:numgov	10:det:numgov	Entity=(ln9420959c52--2|Functor=10:RSTR|LId=mnoho-1
-10	Čechů	Čech	PROPN	NNMP2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv,Nat|Number=Plur|Polarity=Pos	5	nsubj	5:nsubj|17:nsubj	Functor=5:ACT|SpaceAfter=No
+10	Čechů	Čech	PROPN	NNMP2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv,Nat|Number=Plur|Polarity=Pos	3	nsubj	3:nsubj|17:nsubj	Functor=3:ACT.cop|SpaceAfter=No
 11	,	,	PUNCT	Z:-------------	_	17	punct	17:punct	_
 12	kteří	který	DET	P4MP1----------	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|PronType=Int,Rel	17	nsubj	10:ref	Entity=(ln9420959c52--1)|Functor=17:ACT
 13	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	17	expl:pv	17:expl:pv	LGloss=(zvr._zájmeno/částice)
@@ -89,7 +89,7 @@ The following 3 pairs of parts of speech are connected with `det:numgov`: <tt><a
 17	přihlásili	přihlásit	VERB	VpMP----R-AAP--	Animacy=Anim|Aspect=Perf|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	10	acl:relcl	10:acl:relcl	Functor=10:RSTR
 18	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	19	case	19:case	Entity=(ln9420959c53--2-gstype:spec|LId=na-1
 19	práci	práce	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	17	obl	17:obl:na:acc	Entity=ln9420959c53)ln9420959c52)|Functor=17:DIR3|LGloss=(jako_činnost_i_místo)|SpaceAfter=No
-20	.	.	PUNCT	Z:-------------	_	5	punct	5:punct	_
+20	.	.	PUNCT	Z:-------------	_	3	punct	3:punct	_
 
 ~~~
 

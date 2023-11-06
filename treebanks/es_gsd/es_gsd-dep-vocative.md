@@ -34,7 +34,7 @@ The following 2 pairs of parts of speech are connected with `vocative`: <tt><a h
 10	película	película	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
 11	soviética	soviético	ADJ	_	Gender=Fem|Number=Sing	10	amod	_	_
 12	de	de	ADP	_	_	13	case	_	_
-13	1981	1981	NUM	_	NumType=Card	10	nmod	_	SpaceAfter=No
+13	1981	1981	NUM	_	NumForm=Digit|NumType=Card	10	nmod	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	10	punct	_	_
 
 ~~~

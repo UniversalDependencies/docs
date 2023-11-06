@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>s'</em> (<tt><a href="fr_sequoia-pos-
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 2.179487 (the average of all parts of speech is 1.406661).
+The form / lemma ratio of `PRON` is 2.179487 (the average of all parts of speech is 1.406634).
 
 The 1st highest number of forms (10) was observed with the lemma “lui”: <em>-elle, -il, -t-elle, -t-il, elle, il, l', la, le, lui</em>.
 
@@ -63,12 +63,12 @@ The 2nd highest number of forms (7) was observed with the lemma “moi”: <em>-
 
 The 3rd highest number of forms (6) was observed with the lemma “eux”: <em>-ils, elles, eux, ils, les, leur</em>.
 
-`PRON` occurs with 8 features: <tt><a href="fr_sequoia-feat-PronType.html">PronType</a></tt> (2808; 100% instances), <tt><a href="fr_sequoia-feat-Person.html">Person</a></tt> (1970; 70% instances), <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt> (1792; 64% instances), <tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt> (904; 32% instances), <tt><a href="fr_sequoia-feat-Reflex.html">Reflex</a></tt> (341; 12% instances), <tt><a href="fr_sequoia-feat-Number-psor.html">Number[psor]</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-feat-Person-psor.html">Person[psor]</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-feat-Poss.html">Poss</a></tt> (1; 0% instances)
+`PRON` occurs with 10 features: <tt><a href="fr_sequoia-feat-PronType.html">PronType</a></tt> (2808; 100% instances), <tt><a href="fr_sequoia-feat-Person.html">Person</a></tt> (2164; 77% instances), <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt> (1800; 64% instances), <tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt> (910; 32% instances), <tt><a href="fr_sequoia-feat-Reflex.html">Reflex</a></tt> (349; 12% instances), <tt><a href="fr_sequoia-feat-ExtPos.html">ExtPos</a></tt> (35; 1% instances), <tt><a href="fr_sequoia-feat-Number-psor.html">Number[psor]</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-feat-Person-psor.html">Person[psor]</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-feat-Poss.html">Poss</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-feat-Typo.html">Typo</a></tt> (1; 0% instances)
 
-`PRON` occurs with 17 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Person=1`, `Person=2`, `Person=3`, `Person[psor]=1`, `Poss=Yes`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Neg`, `PronType=Prs`, `PronType=Rel`, `Reflex=Yes`
+`PRON` occurs with 22 feature-value pairs: `ExtPos=ADP`, `ExtPos=ADV`, `ExtPos=CCONJ`, `ExtPos=PRON`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Person=1`, `Person=2`, `Person=3`, `Person[psor]=1`, `Poss=Yes`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Neg`, `PronType=Prs`, `PronType=Rel`, `Reflex=Yes`, `Typo=Yes`
 
-`PRON` occurs with 45 feature combinations.
-The most frequent feature combination is `PronType=Rel` (559 tokens).
+`PRON` occurs with 47 feature combinations.
+The most frequent feature combination is `PronType=Rel` (558 tokens).
 Examples: <em>qui, dont, que, où, qu', laquelle, lequel, lesquelles, lesquels, quoi</em>
 
 

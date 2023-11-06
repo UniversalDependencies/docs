@@ -12,7 +12,7 @@ There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="ca_an
 12 nodes (0%) are attached to their parents as `nsubj:outer`.
 
 12 instances of `nsubj:outer` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 10.1666666666667.
+Average distance between parent and child is 10.25.
 
 The following 5 pairs of parts of speech are connected with `nsubj:outer`: <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (6; 50% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (2; 17% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (2; 17% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (1; 8% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt> (1; 8% instances).
 

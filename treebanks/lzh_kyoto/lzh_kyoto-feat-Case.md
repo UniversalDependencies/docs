@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Loc`, `Tem`.
 
-51612 tokens (12%) have a non-empty value of `Case`.
+51611 tokens (12%) have a non-empty value of `Case`.
 2561 types (26%) occur at least once with a non-empty value of `Case`.
 2536 lemmas (26%) occur at least once with a non-empty value of `Case`.
-The feature is used with 2 part-of-speech tags: <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (32519; 8% instances), <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> (19093; 4% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (32519; 8% instances), <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> (19092; 4% instances).
 
 ### `NOUN`
 
@@ -33,13 +33,13 @@ The feature is used with 2 part-of-speech tags: <tt><a href="lzh_kyoto-pos-NOUN.
 
 ### `PROPN`
 
-19093 <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> tokens (42% of all `PROPN` tokens) have a non-empty value of `Case`.
+19092 <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> tokens (42% of all `PROPN` tokens) have a non-empty value of `Case`.
 
 The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="lzh_kyoto-feat-NameType.html">NameType</a></tt><tt>=Nat</tt> (13277; 70%).
 
 `PROPN` tokens may have the following values of `Case`:
 
-* `Loc` (19093; 100% of non-empty `Case`): 秦、 齊、 魏、 楚、 趙、 韓、 燕、 周、 宋、 晉
+* `Loc` (19092; 100% of non-empty `Case`): 秦、 齊、 魏、 楚、 趙、 韓、 燕、 周、 宋、 晉
 * `EMPTY` (26673): 張、 李、 孔子、 王、 孟子、 文、 武、 儀、 劉、 蘇
 
 `Case` seems to be **lexical feature** of `PROPN`. 100% lemmas (1742) occur only with one value of `Case`.

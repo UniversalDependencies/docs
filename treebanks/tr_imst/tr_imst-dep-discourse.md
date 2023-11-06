@@ -17,58 +17,54 @@ The following 39 pairs of parts of speech are connected with `discourse`: <tt><a
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 3 discourse	color:blue
-1	O	o	PRON	Demons	Case=Nom|Number=Sing|Person=3|PronType=Dem	2	det	_	_
-2	son	son	ADJ	Adj	_	5	amod	_	_
-3	a	a	INTJ	Interj	_	5	discourse	_	_
-4	Hülya'yı	Hülya	PROPN	Prop	Case=Acc|Number=Sing|Person=3	5	iobj	_	_
-5	oturtup	otur	VERB	Verb	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Conv|Voice=Cau	9	advcl	_	_
-6	kaç	kaç	ADJ	Adj	_	7	amod	_	_
-7	gece	gece	NOUN	Noun	Case=Nom|Number=Sing|Person=3	9	obl	_	_
-8	uykumdan	uyku	NOUN	Noun	Case=Abl|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	9	obl	_	_
-9	fırlamıştım	fırla	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pqp	0	root	_	SpaceAfter=No
-10	.	.	PUNCT	Punc	_	9	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 5 discourse	color:blue
-1	Öleceğini	öl	VERB	Verb	Aspect=Perf|Case=Acc|Mood=Ind|Number[psor]=Sing|Person[psor]=3|Polarity=Pos|Tense=Fut|VerbForm=Part	2	obj	_	_
-2	bilsem	bil	VERB	Verb	Aspect=Perf|Mood=Des|Number=Sing|Person=1|Polarity=Pos|Tense=Pres	3	advcl	_	_
-3	bırakır	bırak	VERB	Verb	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	11	ccomp	_	_
-4	mıyım	mi	AUX	Ques	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres	3	aux:q	_	_
-5	aga	aga	NOUN	Noun	Case=Nom|Number=Sing|Person=3	3	discourse	_	SpaceAfter=No
-6	?	?	PUNCT	Punc	_	5	punct	_	_
-7	Canın	can	NOUN	Noun	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=2	3	conj	_	_
-8	mı	mi	AUX	Ques	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres	7	aux:q	_	_
-9	sıkıldı	sıkıl	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	7	compound	_	SpaceAfter=No
-10	?	?	PUNCT	Punc	_	7	punct	_	_
-11	dedim	de	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Past	0	root	_	SpaceAfter=No
-12	.	.	PUNCT	Punc	_	11	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 2 discourse	color:blue
-1	Leblebi	leblebi	NOUN	Noun	Case=Nom|Number=Sing|Person=3	3	nsubj	_	_
-2	ise	i	CCONJ	Conj	_	1	discourse	_	_
-3	figüran	figüran	NOUN	Noun	Case=Nom|Number=Sing|Person=3	0	root	_	_
-4	dır	i	AUX	Zero	Aspect=Perf|Mood=Gen|Number=Sing|Person=3|Tense=Pres	3	cop	_	_
-5	.	.	PUNCT	Punc	_	3	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 discourse	color:blue
+1	Hadi	hadi	INTJ	Interj	_	3	discourse	_	_
+2	hadi	hadi	INTJ	Interj	_	3	discourse	_	_
+3	söyletme	söyle	VERB	Verb	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Polarity=Neg|Tense=Pres|Voice=Cau	0	root	_	_
+4	beni	ben	PRON	Pers	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	SpaceAfter=No
+5	..	..	PUNCT	Punc	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 1 discourse	color:blue
+1	Hayır	hayır	NOUN	Noun	Case=Nom|Number=Sing|Person=3	6	discourse	_	SpaceAfter=No
+2	,	,	PUNCT	Punc	_	6	punct	_	_
+3	yalnızca	yalnızca	ADV	Adverb	_	6	advmod	_	_
+4	iki	iki	NUM	ANum	NumType=Card	5	nummod	_	_
+5	kez	kez	NOUN	Noun	Case=Nom|Number=Sing|Person=3	6	obl	_	_
+6	gittim	git	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Past	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	Punc	_	6	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 discourse	color:blue
+1	Lam	lam	NOUN	Noun	Case=Nom|Number=Sing|Person=3	3	nsubj	_	_
+2	deniz	deniz	NOUN	Noun	Case=Nom|Number=Sing|Person=3	3	obj	_	_
+3	demek	de	VERB	Verb	Aspect=Perf|Case=Nom|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	Punc	_	10	punct	_	_
+5	ut	ut	NOUN	Noun	Case=Nom|Number=Sing|Person=3	10	nsubj	_	_
+6	ise	i	CCONJ	Conj	_	5	discourse	_	_
+7	Türkçede	Türkçe	ADJ	NAdj	Case=Loc|Number=Sing|Person=3	10	amod	_	_
+8	ki	ki	ADP	Rel	_	7	case	_	_
+9	ci	ci	NOUN	Noun	Case=Nom|Number=Sing|Person=3	10	nmod:poss	_	_
+10	eki	ek	ADJ	NAdj	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	3	conj	_	SpaceAfter=No
+11	.	.	PUNCT	Punc	_	10	punct	_	_
 
 ~~~
 

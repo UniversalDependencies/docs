@@ -11,7 +11,7 @@ It occurs with 1 different values: `Ind`.
 
 1570 tokens (7%) have a non-empty value of `Mood`.
 499 types (9%) occur at least once with a non-empty value of `Mood`.
-371 lemmas (8%) occur at least once with a non-empty value of `Mood`.
+370 lemmas (8%) occur at least once with a non-empty value of `Mood`.
 The feature is used with 3 part-of-speech tags: <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (871; 4% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (698; 3% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `VERB`
@@ -25,7 +25,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 * `Ind` (871; 100% of non-empty `Mood`): <em>said, took, has, began, are, is, became, says, have, had</em>
 * `EMPTY` (1279): <em>have, used, according, take, known, do, following, given, go, including</em>
 
-`Mood` seems to be **lexical feature** of `VERB`. 100% lemmas (370) occur only with one value of `Mood`.
+`Mood` seems to be **lexical feature** of `VERB`. 100% lemmas (369) occur only with one value of `Mood`.
 
 ### `AUX`
 

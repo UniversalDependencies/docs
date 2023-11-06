@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Verginica Barbu Mititelu, Elena Irimia, Cenel-Augusto Perez, Radu Ion, Radu Simionescu, Martin Popel.
 
 Repository: [UD_Romanian-RRT](https://github.com/UniversalDependencies/UD_Romanian-RRT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udro_rrt212)<br />
-Download all treebanks: [UD 2.12](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udro_rrt213)<br />
+Download all treebanks: [UD 2.13](/#download)
 
 License: CC BY-SA 4.0
 
@@ -869,7 +869,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Dat,Gen (6)</li>
       <li>VERB-Fin--PRON (5)</li>
       <li>VERB-Fin--PRON-Acc (3)</li>
-      <li>VERB-Fin--PRON-Acc,Nom (1560)</li>
+      <li>VERB-Fin--PRON-Acc,Nom (1561)</li>
       <li>VERB-Fin--PRON-Acc,Nom-ADP(cu) (1)</li>
       <li>VERB-Fin--PRON-Acc,Nom-ADP(la) (1)</li>
       <li>VERB-Fin--PRON-Acc,Nom-ADP(în) (1)</li>
@@ -881,7 +881,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-ADP(de) (1)</li>
       <li>VERB-Inf--NOUN-ADP(între)-ADP(de) (1)</li>
       <li>VERB-Inf--NOUN-Acc,Nom (241)</li>
-      <li>VERB-Inf--PRON-Acc,Nom (100)</li>
+      <li>VERB-Inf--PRON-Acc,Nom (99)</li>
       <li>VERB-Inf--PRON-Acc,Nom-ADP(în) (1)</li>
       <li>VERB-Inf--PRON-Nom (3)</li>
       <li>VERB-Part--NOUN (289)</li>
@@ -906,13 +906,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (1050)</li>
+      <li>VERB-Fin--NOUN (1053)</li>
       <li>VERB-Fin--NOUN-ADP(ca) (2)</li>
       <li>VERB-Fin--NOUN-ADP(de) (9)</li>
       <li>VERB-Fin--NOUN-ADP(din) (1)</li>
       <li>VERB-Fin--NOUN-ADP(pe) (36)</li>
       <li>VERB-Fin--NOUN-ADP(în) (2)</li>
-      <li>VERB-Fin--NOUN-Acc,Nom (2554)</li>
+      <li>VERB-Fin--NOUN-Acc,Nom (2558)</li>
       <li>VERB-Fin--NOUN-Acc,Nom-ADP(de) (1)</li>
       <li>VERB-Fin--NOUN-Acc,Nom-ADP(din) (1)</li>
       <li>VERB-Fin--NOUN-Acc,Nom-ADP(pe) (28)</li>
@@ -931,7 +931,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Ger--NOUN (127)</li>
       <li>VERB-Ger--NOUN-ADP(de) (1)</li>
       <li>VERB-Ger--NOUN-ADP(pe) (6)</li>
-      <li>VERB-Ger--NOUN-Acc,Nom (288)</li>
+      <li>VERB-Ger--NOUN-Acc,Nom (291)</li>
       <li>VERB-Ger--NOUN-Acc,Nom-ADP(pe) (3)</li>
       <li>VERB-Ger--PRON-Acc (42)</li>
       <li>VERB-Ger--PRON-Acc,Nom (3)</li>

@@ -55,7 +55,7 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 
 * `Card` (1; 33% of non-empty `NumType`): <em>кафтонь</em>
 * `Mult` (2; 67% of non-empty `NumType`): <em>весть</em>
-* `EMPTY` (412): <em>нинге, пяк, аньцек, кода, сяда, ни, меле, эста, ичкозе, мес</em>
+* `EMPTY` (417): <em>нинге, пяк, кода, аньцек, сяда, ни, меле, эста, ичкозе, мес</em>
 
 ### `DET`
 
@@ -77,7 +77,7 @@ The most frequent other feature values with which `PRON` and `NumType` co-occurr
 `PRON` tokens may have the following values of `NumType`:
 
 * `Sets` (2; 100% of non-empty `NumType`): <em>кафонест, кафцьке</em>
-* `EMPTY` (204): <em>сон, мон, тя, сонь, синь, минь, ся, тон, мезевок, монь</em>
+* `EMPTY` (207): <em>сон, мон, тя, сонь, синь, минь, ся, тон, мезевок, монь</em>
 
 ### `NOUN`
 
@@ -88,5 +88,5 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 `NOUN` tokens may have the following values of `NumType`:
 
 * `Sets` (1; 100% of non-empty `NumType`): <em>шинек-венек</em>
-* `EMPTY` (1055): <em>лангс, ломаттне, шись, шиня, ава, Тишка, каршес, ланга, ломань, паксянь</em>
+* `EMPTY` (1066): <em>лангс, ломаттне, шись, шиня, ава, паксянь, Тишка, каршес, ланга, ломань</em>
 

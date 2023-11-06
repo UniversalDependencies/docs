@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="la_udante-dep-csubj.html">csubj</a></tt>.
 There are also 4 other language-specific subtypes of `csubj`: <tt><a href="la_udante-dep-csubj-cleft.html">csubj:cleft</a></tt>, <tt><a href="la_udante-dep-csubj-outer.html">csubj:outer</a></tt>, <tt><a href="la_udante-dep-csubj-relcl.html">csubj:relcl</a></tt>, <tt><a href="la_udante-dep-csubj-reported.html">csubj:reported</a></tt>.
 
-134 nodes (0%) are attached to their parents as `csubj:pass`.
+136 nodes (0%) are attached to their parents as `csubj:pass`.
 
-103 instances of `csubj:pass` (77%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.28358208955224.
+105 instances of `csubj:pass` (77%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.27941176470588.
 
-The following 8 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (94; 70% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (13; 10% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (12; 9% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-DET.html">DET</a></tt> (6; 4% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (5; 4% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (1; 1% instances).
+The following 8 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (96; 71% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (13; 10% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (12; 9% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-DET.html">DET</a></tt> (6; 4% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (5; 4% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -29,8 +29,8 @@ The following 8 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 4	soli	solus	DET	dpmsd	Case=Dat|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Con	5	det	_	_
 5	homini	homo	NOUN	sms3d	Case=Dat|Gender=Masc|InflClass=IndEurX|Number=Sing	6	obl:arg	_	_
 6	datum	do	VERB	vp1fr	Aspect=Perf|Case=Nom|Gender=Neut|InflClass=LatA|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass	3	csubj	_	TraditionalMood=Participium|TraditionalTense=Perfectum
-7	fuisse	sum	AUX	va5fr	Aspect=Perf|VerbForm=Inf	6	aux:pass	_	TraditionalTense=Perfectum
-8	loqui	loquor	VERB	vd3fp	Aspect=Imp|VerbForm=Inf|Voice=Pass	6	csubj:pass	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Praesens
+7	fuisse	sum	AUX	va5fr	Aspect=Perf|Tense=Past|VerbForm=Inf	6	aux:pass	_	TraditionalTense=Perfectum
+8	loqui	loquor	VERB	vd3fp	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Pass	6	csubj:pass	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Praesens
 9	.	.	PUNCT	Pu	_	3	punct	_	_
 
 ~~~

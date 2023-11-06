@@ -22,7 +22,7 @@ The following 9 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 13 xcomp	color:blue
-1	De	de	ADP	_	_	11	advmod	_	ExtPos=ADV|Idiom=Yes
+1	De	de	ADP	_	ExtPos=ADV	11	advmod	_	Idiom=Yes
 2	plus	plus	ADV	_	_	1	fixed	_	InIdiom=Yes|SpaceAfter=No
 3	,	,	PUNCT	_	_	1	punct	_	_
 4	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
@@ -76,7 +76,7 @@ The following 9 pairs of parts of speech are connected with `xcomp`: <tt><a href
 6	et	et	CCONJ	_	_	7	cc	_	_
 7	dire	dire	VERB	_	VerbForm=Inf	5	conj	_	Subject=Instantiated
 8	que	que	SCONJ	_	_	12	mark	_	_
-9	personne	personne	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Neg	12	nsubj	_	_
+9	personne	personne	PRON	_	Gender=Masc|Number=Sing|PronType=Neg	12	nsubj	_	_
 10	ne	ne	ADV	_	Polarity=Neg	12	advmod	_	_
 11	les	eux	PRON	_	Number=Plur|Person=3|PronType=Prs	12	obj	_	_
 12	aide	aider	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ccomp	_	SpaceAfter=No

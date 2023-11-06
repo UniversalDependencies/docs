@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="en_gum-pos-DET.html
 
 ### `DET`
 
-12849 <tt><a href="en_gum-pos-DET.html">DET</a></tt> tokens (83% of all `DET` tokens) have a non-empty value of `Definite`.
+12849 <tt><a href="en_gum-pos-DET.html">DET</a></tt> tokens (84% of all `DET` tokens) have a non-empty value of `Definite`.
 
 The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="en_gum-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (12849; 100%).
 
@@ -24,7 +24,7 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 
 * `Def` (9012; 70% of non-empty `Definite`): <em>the</em>
 * `Ind` (3837; 30% of non-empty `Definite`): <em>a, an</em>
-* `EMPTY` (2542): <em>this, all, some, these, that, no, any, every, each, another</em>
+* `EMPTY` (2537): <em>this, all, some, these, that, no, any, every, each, another</em>
 
 ## Relations with Agreement in `Definite`
 

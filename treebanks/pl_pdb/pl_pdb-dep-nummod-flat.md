@@ -30,7 +30,7 @@ The following 2 pairs of parts of speech are connected with `nummod:flat`: <tt><
 5	scenie	scena	NOUN	subst:sg:loc:f	Case=Loc|Gender=Fem|Number=Sing	6	obl	6:obl	_
 6	zagości	zagościć	VERB	fin:sg:ter:perf	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	0:root	_
 7	zespół	zespół	NOUN	subst:sg:nom:m3	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	6:nsubj	_
-8	Dwa	dwa	NUM	num:pl:nom:m2:congr	Animacy=Nhum|Case=Nom|Gender=Masc|Number=Plur|NumForm=Word	9	nummod:flat	9:nummod:flat	_
+8	Dwa	dwa	NUM	num:pl:nom:m2:congr:ncol	Animacy=Nhum|Case=Nom|Gender=Masc|Number=Plur|NumForm=Word	9	nummod:flat	9:nummod:flat	_
 9	Kamraty	kamrat	NOUN	depr:pl:nom:m2	Animacy=Nhum|Case=Nom|Gender=Masc|Number=Plur|Polite=Depr	7	appos	7:appos	SpaceAfter=No
 10	,	,	PUNCT	interp	PunctType=Comm	11	punct	11:punct	_
 11	znany	znany	ADJ	adj:sg:nom:m3:pos	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	7:amod	_
@@ -62,7 +62,7 @@ The following 2 pairs of parts of speech are connected with `nummod:flat`: <tt><
 11	pod	pod	ADP	prep:inst:nwok	AdpType=Prep|Variant=Short	13	case	13:case	Case=Ins
 12	nową	nowy	ADJ	adj:sg:inst:f:pos	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	13	amod	13:amod	_
 13	winietą	winieta	NOUN	subst:sg:inst:f	Case=Ins|Gender=Fem|Number=Sing	20	obl	20:obl	_
-14	Dwa	dwa	NUM	num:pl:nom:m2:congr	Animacy=Nhum|Case=Nom|Gender=Masc|Number=Plur|NumForm=Word	15	nummod:flat	15:nummod:flat	_
+14	Dwa	dwa	NUM	num:pl:nom:m2:congr:ncol	Animacy=Nhum|Case=Nom|Gender=Masc|Number=Plur|NumForm=Word	15	nummod:flat	15:nummod:flat	_
 15	Jerze	Jerzy	PROPN	depr:pl:nom:m2	Animacy=Nhum|Case=Nom|Gender=Masc|Number=Plur|Polite=Depr	13	nmod	13:nmod	SpaceAfter=No
 16	.	.	PUNCT	interp	PunctType=Peri	15	punct	15:punct	SpaceAfter=No
 17	.	.	PUNCT	interp	PunctType=Peri	16	punct	16:punct	SpaceAfter=No

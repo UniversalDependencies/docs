@@ -49,10 +49,10 @@ The following 47 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 5 conj	color:blue
-1	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+1	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	démissionne	démissionner	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	et	et	CCONJ	_	_	5	cc	_	_
-4	se	se	PRON	_	Person=3|PronType=Prs	5	obj	_	_
+4	se	soi	PRON	_	Person=3|PronType=Prs	5	obj	_	_
 5	retire	retirer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -70,7 +70,7 @@ The following 47 pairs of parts of speech are connected with `conj`: <tt><a href
 3	euh	euh	INTJ	_	_	1	discourse	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	1	punct	_	_
 5	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	11	nsubj	_	_
-6	m'	le	PRON	_	Number=Sing|Person=1|PronType=Prs	11	obj	_	SpaceAfter=No
+6	m'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	11	obj	_	SpaceAfter=No
 7	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux:tense	_	_
 8	vraiment	vraiment	ADV	_	_	11	advmod	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	10	punct	_	_

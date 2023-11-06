@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>de</em> (<tt><a href="fr_rhapsodie-po
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.057143 (the average of all parts of speech is 1.352226).
+The form / lemma ratio of `ADP` is 1.057143 (the average of all parts of speech is 1.352046).
 
 The 1st highest number of forms (3) was observed with the lemma “de”: <em>-d', d', de</em>.
 
@@ -61,14 +61,20 @@ The 2nd highest number of forms (2) was observed with the lemma “jusque”: <e
 
 The 3rd highest number of forms (1) was observed with the lemma “a”: <em>a</em>.
 
-`ADP` does not occur with any features.
+`ADP` occurs with 1 features: <tt><a href="fr_rhapsodie-feat-ExtPos.html">ExtPos</a></tt> (154; 4% instances)
+
+`ADP` occurs with 4 feature-value pairs: `ExtPos=ADP`, `ExtPos=ADV`, `ExtPos=DET`, `ExtPos=NOUN`
+
+`ADP` occurs with 5 feature combinations.
+The most frequent feature combination is `_` (4098 tokens).
+Examples: <em>de, à, d', en, dans, pour, avec, sur, par, comme</em>
 
 
 ## Relations
 
 `ADP` nodes are attached to their parents using 18 different relations: <tt><a href="fr_rhapsodie-dep-case.html">case</a></tt> (3456; 81% instances), <tt><a href="fr_rhapsodie-dep-mark.html">mark</a></tt> (416; 10% instances), <tt><a href="fr_rhapsodie-dep-reparandum.html">reparandum</a></tt> (124; 3% instances), <tt><a href="fr_rhapsodie-dep-dep.html">dep</a></tt> (45; 1% instances), <tt><a href="fr_rhapsodie-dep-advmod.html">advmod</a></tt> (42; 1% instances), <tt><a href="fr_rhapsodie-dep-discourse.html">discourse</a></tt> (40; 1% instances), <tt><a href="fr_rhapsodie-dep-fixed.html">fixed</a></tt> (32; 1% instances), <tt><a href="fr_rhapsodie-dep-dep-comp.html">dep:comp</a></tt> (27; 1% instances), <tt><a href="fr_rhapsodie-dep-det.html">det</a></tt> (21; 0% instances), <tt><a href="fr_rhapsodie-dep-obl-arg.html">obl:arg</a></tt> (18; 0% instances), <tt><a href="fr_rhapsodie-dep-root.html">root</a></tt> (13; 0% instances), <tt><a href="fr_rhapsodie-dep-cc.html">cc</a></tt> (4; 0% instances), <tt><a href="fr_rhapsodie-dep-obl-mod.html">obl:mod</a></tt> (4; 0% instances), <tt><a href="fr_rhapsodie-dep-conj.html">conj</a></tt> (3; 0% instances), <tt><a href="fr_rhapsodie-dep-dislocated.html">dislocated</a></tt> (3; 0% instances), <tt><a href="fr_rhapsodie-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="fr_rhapsodie-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="fr_rhapsodie-dep-nsubj.html">nsubj</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 15 different parts of speech: <tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> (2773; 65% instances), <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> (504; 12% instances), <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> (440; 10% instances), <tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (207; 5% instances), <tt><a href="fr_rhapsodie-pos-ADV.html">ADV</a></tt> (100; 2% instances), <tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt> (68; 2% instances), <tt><a href="fr_rhapsodie-pos-DET.html">DET</a></tt> (50; 1% instances), <tt><a href="fr_rhapsodie-pos-NUM.html">NUM</a></tt> (43; 1% instances), <tt><a href="fr_rhapsodie-pos-ADP.html">ADP</a></tt> (35; 1% instances),  (13; 0% instances), <tt><a href="fr_rhapsodie-pos-X.html">X</a></tt> (13; 0% instances), <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="fr_rhapsodie-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="fr_rhapsodie-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="fr_rhapsodie-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Parents of `ADP` nodes belong to 15 different parts of speech: <tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> (2773; 65% instances), <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> (504; 12% instances), <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> (440; 10% instances), <tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (205; 5% instances), <tt><a href="fr_rhapsodie-pos-ADV.html">ADV</a></tt> (100; 2% instances), <tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt> (68; 2% instances), <tt><a href="fr_rhapsodie-pos-DET.html">DET</a></tt> (50; 1% instances), <tt><a href="fr_rhapsodie-pos-NUM.html">NUM</a></tt> (45; 1% instances), <tt><a href="fr_rhapsodie-pos-ADP.html">ADP</a></tt> (35; 1% instances),  (13; 0% instances), <tt><a href="fr_rhapsodie-pos-X.html">X</a></tt> (13; 0% instances), <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="fr_rhapsodie-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="fr_rhapsodie-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="fr_rhapsodie-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
 4035 (95%) `ADP` nodes are leaves.
 

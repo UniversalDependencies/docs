@@ -20,7 +20,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="eme_tudet-pos-VERB.
 
 5 <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Person[subj]`.
 
-The most frequent other feature values with which `VERB` and `Person[subj]` co-occurred: <tt><a href="eme_tudet-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="eme_tudet-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="eme_tudet-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="eme_tudet-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (5; 100%).
+The most frequent other feature values with which `VERB` and `Person[subj]` co-occurred: <tt><a href="eme_tudet-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="eme_tudet-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="eme_tudet-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5; 100%).
 
 `VERB` tokens may have the following values of `Person[subj]`:
 

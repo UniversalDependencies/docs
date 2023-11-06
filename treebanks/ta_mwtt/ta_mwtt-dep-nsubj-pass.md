@@ -25,8 +25,8 @@ The following 1 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 3 1 nsubj:pass	color:blue
 1	குமார்	குமார்	PROPN	_	Case=Nom|Number=Sing|Person=3|Polite=Form	3	nsubj:pass	_	Translit=kumār|LTranslit=kumār
 2	அப்பாவால்	அப்பா	NOUN	_	Case=Ins|Number=Sing|Person=3	3	obl:agent	_	Translit=appāvāl|LTranslit=appā
-3	அடிக்கப்	அடி	VERB	_	VerbForm=Inf	0	root	_	Translit=aṭikkap|LTranslit=aṭi
-4	பட்டான்	படு	AUX	_	Gender=Masc|Number=Sing|Person=3|Tense=Past	3	aux:pass	_	Translit=paṭṭāṉ|LTranslit=paṭu
+3	அடிக்கப்	அடி	VERB	_	VerbForm=Inf	0	root	_	LTranslit=aṭi|Translit=aṭikkap
+4	பட்டான்	படு	AUX	_	Gender=Masc|Number=Sing|Person=3|Tense=Past	3	aux:pass	_	LTranslit=paṭu|Translit=paṭṭāṉ
 5	.	.	PUNCT	_	PunctType=Peri	3	punct	_	Translit=.|LTranslit=.
 
 ~~~

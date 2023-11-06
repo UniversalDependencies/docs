@@ -42,7 +42,7 @@ The 10 most frequent ambiguous types:  <em>sonra</em> (<tt><a href="tr_atis-pos-
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.748764).
+The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.744205).
 
 The 1st highest number of forms (1) was observed with the lemma “ait”: <em>ait</em>.
 
@@ -55,19 +55,19 @@ The 3rd highest number of forms (1) was observed with the lemma “birlikte”: 
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 12 different relations: <tt><a href="tr_atis-dep-case.html">case</a></tt> (954; 89% instances), <tt><a href="tr_atis-dep-root.html">root</a></tt> (55; 5% instances), <tt><a href="tr_atis-dep-compound.html">compound</a></tt> (36; 3% instances), <tt><a href="tr_atis-dep-mark.html">mark</a></tt> (11; 1% instances), <tt><a href="tr_atis-dep-cc.html">cc</a></tt> (6; 1% instances), <tt><a href="tr_atis-dep-obl.html">obl</a></tt> (3; 0% instances), <tt><a href="tr_atis-dep-amod.html">amod</a></tt> (2; 0% instances), <tt><a href="tr_atis-dep-fixed.html">fixed</a></tt> (2; 0% instances), <tt><a href="tr_atis-dep-flat.html">flat</a></tt> (2; 0% instances), <tt><a href="tr_atis-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="tr_atis-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="tr_atis-dep-nmod.html">nmod</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 10 different relations: <tt><a href="tr_atis-dep-case.html">case</a></tt> (960; 89% instances), <tt><a href="tr_atis-dep-root.html">root</a></tt> (55; 5% instances), <tt><a href="tr_atis-dep-compound.html">compound</a></tt> (34; 3% instances), <tt><a href="tr_atis-dep-mark.html">mark</a></tt> (11; 1% instances), <tt><a href="tr_atis-dep-cc.html">cc</a></tt> (6; 1% instances), <tt><a href="tr_atis-dep-amod.html">amod</a></tt> (2; 0% instances), <tt><a href="tr_atis-dep-flat.html">flat</a></tt> (2; 0% instances), <tt><a href="tr_atis-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="tr_atis-dep-obl.html">obl</a></tt> (2; 0% instances), <tt><a href="tr_atis-dep-nmod.html">nmod</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 9 different parts of speech: <tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt> (793; 74% instances), <tt><a href="tr_atis-pos-PROPN.html">PROPN</a></tt> (149; 14% instances),  (55; 5% instances), <tt><a href="tr_atis-pos-ADV.html">ADV</a></tt> (31; 3% instances), <tt><a href="tr_atis-pos-ADJ.html">ADJ</a></tt> (25; 2% instances), <tt><a href="tr_atis-pos-PRON.html">PRON</a></tt> (10; 1% instances), <tt><a href="tr_atis-pos-NUM.html">NUM</a></tt> (9; 1% instances), <tt><a href="tr_atis-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="tr_atis-pos-DET.html">DET</a></tt> (1; 0% instances)
+Parents of `ADP` nodes belong to 9 different parts of speech: <tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt> (794; 74% instances), <tt><a href="tr_atis-pos-PROPN.html">PROPN</a></tt> (148; 14% instances),  (55; 5% instances), <tt><a href="tr_atis-pos-ADV.html">ADV</a></tt> (31; 3% instances), <tt><a href="tr_atis-pos-ADJ.html">ADJ</a></tt> (24; 2% instances), <tt><a href="tr_atis-pos-NUM.html">NUM</a></tt> (10; 1% instances), <tt><a href="tr_atis-pos-PRON.html">PRON</a></tt> (10; 1% instances), <tt><a href="tr_atis-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="tr_atis-pos-DET.html">DET</a></tt> (1; 0% instances)
 
-1012 (94%) `ADP` nodes are leaves.
+1013 (94%) `ADP` nodes are leaves.
 
-8 (1%) `ADP` nodes have one child.
+7 (1%) `ADP` nodes have one child.
 
 55 (5%) `ADP` nodes have two children.
 
 The highest child degree of a `ADP` node is 2.
 
-Children of `ADP` nodes are attached using 5 different relations: <tt><a href="tr_atis-dep-compound.html">compound</a></tt> (57; 48% instances), <tt><a href="tr_atis-dep-nsubj.html">nsubj</a></tt> (54; 46% instances), <tt><a href="tr_atis-dep-nmod.html">nmod</a></tt> (5; 4% instances), <tt><a href="tr_atis-dep-advmod.html">advmod</a></tt> (1; 1% instances), <tt><a href="tr_atis-dep-obl.html">obl</a></tt> (1; 1% instances)
+Children of `ADP` nodes are attached using 5 different relations: <tt><a href="tr_atis-dep-compound.html">compound</a></tt> (57; 49% instances), <tt><a href="tr_atis-dep-nsubj.html">nsubj</a></tt> (54; 46% instances), <tt><a href="tr_atis-dep-nmod.html">nmod</a></tt> (4; 3% instances), <tt><a href="tr_atis-dep-advmod.html">advmod</a></tt> (1; 1% instances), <tt><a href="tr_atis-dep-obl.html">obl</a></tt> (1; 1% instances)
 
-Children of `ADP` nodes belong to 4 different parts of speech: <tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt> (61; 52% instances), <tt><a href="tr_atis-pos-ADV.html">ADV</a></tt> (32; 27% instances), <tt><a href="tr_atis-pos-PRON.html">PRON</a></tt> (24; 20% instances), <tt><a href="tr_atis-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
+Children of `ADP` nodes belong to 4 different parts of speech: <tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt> (60; 51% instances), <tt><a href="tr_atis-pos-ADV.html">ADV</a></tt> (32; 27% instances), <tt><a href="tr_atis-pos-PRON.html">PRON</a></tt> (24; 21% instances), <tt><a href="tr_atis-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
 

@@ -14,7 +14,7 @@ There are also 3 other language-specific subtypes of `aux`: <tt><a href="pl_pdb-
 53 instances of `aux:imp` (98%) are right-to-left (child precedes parent).
 Average distance between parent and child is 2.64814814814815.
 
-The following 4 pairs of parts of speech are connected with `aux:imp`: <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pdb-pos-AUX.html">AUX</a></tt> (50; 93% instances), <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pdb-pos-AUX.html">AUX</a></tt> (2; 4% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pdb-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_pdb-pos-AUX.html">AUX</a></tt> (1; 2% instances).
+The following 3 pairs of parts of speech are connected with `aux:imp`: <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pdb-pos-AUX.html">AUX</a></tt> (50; 93% instances), <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pdb-pos-AUX.html">AUX</a></tt> (3; 6% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pdb-pos-AUX.html">AUX</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -47,7 +47,7 @@ The following 4 pairs of parts of speech are connected with `aux:imp`: <tt><a hr
 8	będą	być	AUX	bedzie:pl:ter:imperf	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	9	cop	9:cop	_
 9	przykładem	przykład	NOUN	subst:sg:inst:m3	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	0	root	0:root	_
 10	dla	dla	ADP	prep:gen	AdpType=Prep	11	case	11:case	Case=Gen
-11	uczniów	uczeń	NOUN	subst:pl:gen:m1	Animacy=Hum|Case=Gen|Gender=Masc|Number=Plur	9	nmod	9:nmod	_
+11	uczniów	uczeń	NOUN	subst:pl:gen:m1	Animacy=Hum|Case=Gen|Gender=Masc|Number=Plur	9	obl	9:obl	_
 12	płockich	płocki	ADJ	adj:pl:gen:f:pos	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	13	amod	13:amod	_
 13	szkół	szkoła	NOUN	subst:pl:gen:f	Case=Gen|Gender=Fem|Number=Plur	11	nmod	11:nmod	SpaceAfter=No
 14	,	,	PUNCT	interp	PunctType=Comm	18	punct	18:punct	_

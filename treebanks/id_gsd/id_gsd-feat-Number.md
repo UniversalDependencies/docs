@@ -60,10 +60,10 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="id_gsd-dep-compound.html">compound</a></tt>]--> NOUN</tt> (4090; 66%),
+<tt>NOUN --[<tt><a href="id_gsd-dep-compound.html">compound</a></tt>]--> NOUN</tt> (4091; 66%),
 <tt>NOUN --[<tt><a href="id_gsd-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1524; 66%),
 <tt>NOUN --[<tt><a href="id_gsd-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (964; 71%),
-<tt>NOUN --[<tt><a href="id_gsd-dep-conj.html">conj</a></tt>]--> NOUN</tt> (960; 69%),
+<tt>NOUN --[<tt><a href="id_gsd-dep-conj.html">conj</a></tt>]--> NOUN</tt> (963; 69%),
 <tt>NOUN --[<tt><a href="id_gsd-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (122; 63%),
 <tt>NOUN --[<tt><a href="id_gsd-dep-amod.html">amod</a></tt>]--> NOUN</tt> (79; 62%),
 <tt>NOUN --[<tt><a href="id_gsd-dep-nmod-tmod.html">nmod:tmod</a></tt>]--> NOUN</tt> (50; 74%),

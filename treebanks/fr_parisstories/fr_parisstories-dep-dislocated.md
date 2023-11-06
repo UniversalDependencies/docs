@@ -22,7 +22,7 @@ The following 32 pairs of parts of speech are connected with `dislocated`: <tt><
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 4 dislocated	color:blue
-1	non	non	ADV	_	_	7	discourse	_	ExtPos=INTJ|SpaceAfter=No
+1	non	non	ADV	_	ExtPos=INTJ	7	discourse	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	_
 3	mais	mais	CCONJ	_	_	7	cc	_	_
 4	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	dislocated	_	SpaceAfter=No
@@ -50,7 +50,7 @@ The following 32 pairs of parts of speech are connected with `dislocated`: <tt><
 4	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	concours	concours	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	2	punct	_	_
-7	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+7	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
 8	avait	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 9	quoi	quoi	PRON	_	_	8	obj	_	_
 10	?	?	PUNCT	_	_	8	punct	_	_

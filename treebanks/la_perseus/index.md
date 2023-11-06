@@ -16,11 +16,11 @@ Family: Indo-European, Italic
 
 This treebank has been part of Universal Dependencies since the UD v1.2 release.
 
-The following people have contributed to making this treebank part of UD: Giuseppe G. A. Celano, Daniel Zeman.
+The following people have contributed to making this treebank part of UD: Giuseppe G. A. Celano, Daniel Zeman, Federica Gamba.
 
 Repository: [UD_Latin-Perseus](https://github.com/UniversalDependencies/UD_Latin-Perseus)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_perseus212)<br />
-Download all treebanks: [UD 2.12](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_perseus213)<br />
+Download all treebanks: [UD 2.13](/#download)
 
 License: CC BY-NC-SA 2.5
 
@@ -29,7 +29,7 @@ Genre: fiction, nonfiction, bible
 Questions, comments?
 General annotation questions (either Latin-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Latin-Perseus/issues).
-If you want to collaborate, please contact [celano&nbsp;(æt)&nbsp;informatik&nbsp;•&nbsp;uni-leipzig&nbsp;•&nbsp;de].
+If you want to collaborate, please contact [gamba&nbsp;(æt)&nbsp;ufal&nbsp;•&nbsp;mff&nbsp;•&nbsp;cuni&nbsp;•&nbsp;cz].
 Development of the treebank happens outside the UD repository.
 If there are bugs, either the original data source or the conversion procedure must be fixed.
 Do not submit pull requests against the UD repository.
@@ -117,17 +117,17 @@ Further details can be found at:
 
 ## Relations
 
-[acl](la_perseus-dep-acl.html) – [acl:relcl](la_perseus-dep-acl-relcl.html) – [advcl](la_perseus-dep-advcl.html) – [advcl:abs](la_perseus-dep-advcl-abs.html) – [advcl:cmp](la_perseus-dep-advcl-cmp.html) – [advcl:pred](la_perseus-dep-advcl-pred.html) – [advmod](la_perseus-dep-advmod.html) – [advmod:emph](la_perseus-dep-advmod-emph.html) – [advmod:lmod](la_perseus-dep-advmod-lmod.html) – [advmod:neg](la_perseus-dep-advmod-neg.html) – [advmod:tmod](la_perseus-dep-advmod-tmod.html) – [amod](la_perseus-dep-amod.html) – [appos](la_perseus-dep-appos.html) – [aux](la_perseus-dep-aux.html) – [aux:pass](la_perseus-dep-aux-pass.html) – [case](la_perseus-dep-case.html) – [cc](la_perseus-dep-cc.html) – [ccomp](la_perseus-dep-ccomp.html) – [conj](la_perseus-dep-conj.html) – [conj:expl](la_perseus-dep-conj-expl.html) – [cop](la_perseus-dep-cop.html) – [csubj](la_perseus-dep-csubj.html) – [csubj:pass](la_perseus-dep-csubj-pass.html) – [det](la_perseus-dep-det.html) – [discourse](la_perseus-dep-discourse.html) – [fixed](la_perseus-dep-fixed.html) – [flat](la_perseus-dep-flat.html) – [flat:name](la_perseus-dep-flat-name.html) – [mark](la_perseus-dep-mark.html) – [nmod](la_perseus-dep-nmod.html) – [nsubj](la_perseus-dep-nsubj.html) – [nsubj:outer](la_perseus-dep-nsubj-outer.html) – [nsubj:pass](la_perseus-dep-nsubj-pass.html) – [nummod](la_perseus-dep-nummod.html) – [obj](la_perseus-dep-obj.html) – [obl](la_perseus-dep-obl.html) – [obl:arg](la_perseus-dep-obl-arg.html) – [orphan](la_perseus-dep-orphan.html) – [parataxis](la_perseus-dep-parataxis.html) – [punct](la_perseus-dep-punct.html) – [root](la_perseus-dep-root.html) – [vocative](la_perseus-dep-vocative.html) – [xcomp](la_perseus-dep-xcomp.html)
+[acl](la_perseus-dep-acl.html) – [acl:relcl](la_perseus-dep-acl-relcl.html) – [advcl](la_perseus-dep-advcl.html) – [advcl:abs](la_perseus-dep-advcl-abs.html) – [advcl:cmp](la_perseus-dep-advcl-cmp.html) – [advcl:pred](la_perseus-dep-advcl-pred.html) – [advmod](la_perseus-dep-advmod.html) – [advmod:emph](la_perseus-dep-advmod-emph.html) – [advmod:lmod](la_perseus-dep-advmod-lmod.html) – [advmod:neg](la_perseus-dep-advmod-neg.html) – [advmod:tmod](la_perseus-dep-advmod-tmod.html) – [amod](la_perseus-dep-amod.html) – [appos](la_perseus-dep-appos.html) – [aux](la_perseus-dep-aux.html) – [aux:pass](la_perseus-dep-aux-pass.html) – [case](la_perseus-dep-case.html) – [cc](la_perseus-dep-cc.html) – [ccomp](la_perseus-dep-ccomp.html) – [ccomp:reported](la_perseus-dep-ccomp-reported.html) – [conj](la_perseus-dep-conj.html) – [conj:expl](la_perseus-dep-conj-expl.html) – [cop](la_perseus-dep-cop.html) – [csubj](la_perseus-dep-csubj.html) – [csubj:pass](la_perseus-dep-csubj-pass.html) – [det](la_perseus-dep-det.html) – [discourse](la_perseus-dep-discourse.html) – [flat](la_perseus-dep-flat.html) – [flat:name](la_perseus-dep-flat-name.html) – [mark](la_perseus-dep-mark.html) – [nmod](la_perseus-dep-nmod.html) – [nsubj](la_perseus-dep-nsubj.html) – [nsubj:outer](la_perseus-dep-nsubj-outer.html) – [nsubj:pass](la_perseus-dep-nsubj-pass.html) – [nummod](la_perseus-dep-nummod.html) – [obj](la_perseus-dep-obj.html) – [obl](la_perseus-dep-obl.html) – [obl:arg](la_perseus-dep-obl-arg.html) – [orphan](la_perseus-dep-orphan.html) – [parataxis](la_perseus-dep-parataxis.html) – [punct](la_perseus-dep-punct.html) – [root](la_perseus-dep-root.html) – [vocative](la_perseus-dep-vocative.html) – [xcomp](la_perseus-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 2273 sentences, 29166 tokens and 29186 syntactic words.</li>
+<li>This corpus contains 2273 sentences, 28868 tokens and 29221 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 4407 tokens (15%) that are not followed by a space.</li>
+<li>This corpus contains 4400 tokens (15%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -139,8 +139,8 @@ Further details can be found at:
 </ul>
 
 <ul>
-<li>This corpus contains 20 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 5 types of multi-word tokens. Examples: mecum, secum, nonne, tecum, nobiscum.</li>
+<li>This corpus contains 353 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 218 types of multi-word tokens. Examples: neque, nec, mecum, seque, secum, magisque, itemque, manusque, militiaeque, nonne, Dumque, ceterosque, digitosque, ibique, magnaque, namque, plerique, remque, tecum, Aliamque, Animosque, Apidanusque, Appositaque, Calumniamque, Cavoque, Clarumque, Cogitque, Frenumque, Fugantque, Hominisque, Hominumque, Imbresque, Interque, Iubetque, Lignumque, Margaritamque, Meropisque, Nidoque, Novoque, Officioque, Ovesque, Patareaque, Pictisque, Praedamque, Quaesitisque, Questuque, Romamque, Sanctamque, Servumque, Tandemque.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -918,14 +918,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN-Acc (4)</li>
+      <li>VERB-Fin--NOUN-Acc (5)</li>
       <li>VERB-Fin--NOUN-Nom (726)</li>
       <li>VERB-Fin--NOUN-Voc (1)</li>
       <li>VERB-Fin--PRON (4)</li>
       <li>VERB-Fin--PRON-Acc (3)</li>
       <li>VERB-Fin--PRON-Nom (360)</li>
       <li>VERB-Fin--PRON-Voc (1)</li>
-      <li>VERB-Inf--NOUN-Acc (38)</li>
+      <li>VERB-Inf--NOUN-Acc (37)</li>
       <li>VERB-Inf--NOUN-Nom (7)</li>
       <li>VERB-Inf--PRON-Acc (40)</li>
       <li>VERB-Inf--PRON-Nom (3)</li>
@@ -934,7 +934,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--NOUN-Gen (1)</li>
       <li>VERB-Part--NOUN-Nom (5)</li>
       <li>VERB-Part--PRON-Abl (4)</li>
-      <li>VERB-Part--PRON-Acc (9)</li>
+      <li>VERB-Part--PRON-Acc (10)</li>
       <li>VERB-Part--PRON-Nom (2)</li>
     </ul>
   </li>
@@ -943,12 +943,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN-Abl (68)</li>
-      <li>VERB-Fin--NOUN-Acc (1135)</li>
+      <li>VERB-Fin--NOUN-Abl (69)</li>
+      <li>VERB-Fin--NOUN-Acc (1134)</li>
       <li>VERB-Fin--NOUN-Gen (6)</li>
       <li>VERB-Fin--NOUN-Nom (11)</li>
       <li>VERB-Fin--PRON (9)</li>
-      <li>VERB-Fin--PRON-Acc (345)</li>
+      <li>VERB-Fin--PRON-Acc (346)</li>
       <li>VERB-Fin--PRON-Gen (1)</li>
       <li>VERB-Fin--PRON-Nom (4)</li>
       <li>VERB-Inf--NOUN-Abl (22)</li>
@@ -957,12 +957,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON (4)</li>
       <li>VERB-Inf--PRON-Acc (36)</li>
       <li>VERB-Inf--PRON-Nom (1)</li>
-      <li>VERB-Part--NOUN-Abl (105)</li>
+      <li>VERB-Part--NOUN-Abl (102)</li>
       <li>VERB-Part--NOUN-Acc (106)</li>
       <li>VERB-Part--NOUN-Gen (6)</li>
       <li>VERB-Part--NOUN-Nom (1)</li>
       <li>VERB-Part--PRON (3)</li>
-      <li>VERB-Part--PRON-Acc (9)</li>
+      <li>VERB-Part--PRON-Acc (10)</li>
     </ul>
   </li>
 </ul>
@@ -988,6 +988,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 15 relation subtypes: <a>acl:relcl</a>, <a>advcl:abs</a>, <a>advcl:cmp</a>, <a>advcl:pred</a>, <a>advmod:emph</a>, <a>advmod:lmod</a>, <a>advmod:neg</a>, <a>advmod:tmod</a>, <a>aux:pass</a>, <a>conj:expl</a>, <a>csubj:pass</a>, <a>flat:name</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:arg</a></li>
-<li>The following 9 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+<li>This corpus uses 16 relation subtypes: <a>acl:relcl</a>, <a>advcl:abs</a>, <a>advcl:cmp</a>, <a>advcl:pred</a>, <a>advmod:emph</a>, <a>advmod:lmod</a>, <a>advmod:neg</a>, <a>advmod:tmod</a>, <a>aux:pass</a>, <a>ccomp:reported</a>, <a>conj:expl</a>, <a>csubj:pass</a>, <a>flat:name</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:arg</a></li>
+<li>The following 10 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>fixed</a>, <a>compound</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

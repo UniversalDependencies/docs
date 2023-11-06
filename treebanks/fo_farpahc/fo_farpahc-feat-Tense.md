@@ -18,7 +18,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="fo_farpahc-pos-VERB
 
 4135 <tt><a href="fo_farpahc-pos-VERB.html">VERB</a></tt> tokens (77% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="fo_farpahc-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (3215; 78%), <tt><a href="fo_farpahc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3196; 77%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="fo_farpahc-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (3215; 78%), <tt><a href="fo_farpahc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3205; 78%).
 
 `VERB` tokens may have the following values of `Tense`:
 
@@ -30,7 +30,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 2125 <tt><a href="fo_farpahc-pos-AUX.html">AUX</a></tt> tokens (93% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="fo_farpahc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1990; 94%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="fo_farpahc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2059; 97%).
 
 `AUX` tokens may have the following values of `Tense`:
 

@@ -17,17 +17,18 @@ The following 10 pairs of parts of speech are connected with `mark`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 mark	color:blue
-1	Меным	ме	PRON	Pron	Case=Dat|Number=Sing|Person=1|PronType=Prs	2	obl	_	_
-2	кажитчӧ	кажитчыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	OrigLang=ru|SpaceAfter=No
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 mark	color:blue
+1	Ковмас	ковмыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut	0	root	_	_
+2	кӧ	кӧ	SCONJ	CS	_	1	mark	_	SpaceAfter=No
 3	,	,	PUNCT	CLB	_	5	punct	_	_
-4	мый	мый	SCONJ	CS	_	5	mark	_	_
-5	зэрӧ	зэрны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	csubj	_	SpaceAfter=No
-6	.	_	PUNCT	CLB	_	2	punct	_	_
+4	ог	оз	AUX	V	Mood=Ind|Person=1|Polarity=Neg|Tense=Pres	5	aux:neg	_	_
+5	жалит	жалитны	VERB	V	Connegative=Yes	1	advcl	_	OrigLang=ru
+6	олӧмӧс	олӧм	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=1	5	obj	_	SpaceAfter=No
+7	.	.	PUNCT	CLB	_	1	punct	_	_
 
 ~~~
 

@@ -28,7 +28,7 @@ The following 9 pairs of parts of speech are connected with `acl`: <tt><a href="
 3	permitido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	_
 4	es	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	de	de	ADP	IN	_	7	case	_	_
-6	5 000	5 000	NUM	CD	Gender=Masc|NumType=Card	7	nummod	_	_
+6	5 000	5 000	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	7	nummod	_	_
 7	$	_	NOUN	NN	Gender=Masc|Number=Plur	4	obl	_	_
 8	por	por	ADP	IN	_	9	case	_	_
 9	persona	persona	NOUN	NN	Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
@@ -44,7 +44,7 @@ The following 9 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 10	fgColor:white
 # visual-style 10 13 acl	color:blue
 1	En	en	ADP	IN	_	2	case	_	_
-2	2007	2007	NUM	CD	Gender=Masc|NumType=Card	4	obl	_	_
+2	2007	2007	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	4	obl	_	_
 3	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	película	película	NOUN	NN	Gender=Fem|Number=Sing	0	root	_	_
 5	más	_	ADV	RBR	Degree=Cmp	6	advmod	_	_

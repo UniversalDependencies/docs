@@ -17,19 +17,37 @@ The following 29 pairs of parts of speech are connected with `conj`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 6 conj	color:blue
-1	Питер	Питер	PROPN	N	Case=Nom|Number=Sing	4	nsubj	_	OrigLang=ru
-2	да	да	CCONJ	CC	_	3	cc	_	OrigLang=ru
-3	Мери	Мери	PROPN	N	Case=Nom|Number=Sing	1	conj	_	OrigLang=ru
-4	кутчысьлісны	кутчысьлыны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	_
-5	да	да	CCONJ	CC	_	6	cc	_	OrigLang=ru
-6	петісны	петны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	4	conj	_	_
-7	вежӧсысь	вежӧс	NOUN	N	Case=Ela|Number=Sing	6	obl:lmod	_	SpaceAfter=No
-8	.	.	PUNCT	CLB	_	4	punct	_	_
+# visual-style 4 8 conj	color:blue
+1	Идралін	идравны	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past	4	advcl	_	_
+2	аскадӧ	аскадӧ	NOUN	N	Case=Ill|Number=Sing	1	obl:tmod	_	_
+3	–	–	PUNCT	PUNCT	_	4	punct	_	_
+4	выиграйтін	выиграйтны	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past	0	root	_	OrigLang=ru|SpaceAfter=No
+5	,	,	PUNCT	CLB	_	8	punct	_	_
+6	сёрмӧдчин	сёрмӧдчыны	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past	8	advcl	_	_
+7	–	–	PUNCT	PUNCT	_	8	punct	_	_
+8	проиграйтін	проиграйтны	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past	4	conj	_	OrigLang=ru|SpaceAfter=No
+9	.	.	PUNCT	CLB	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 3 conj	color:blue
+1	Тӧлыс	тӧв	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	nsubj	_	_
+2	да	да	CCONJ	CC	_	3	cc	_	_
+3	шерыс	шер	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	1	conj	_	_
+4	пӧрӧдісны	пӧрӧдны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	_
+5	кок	кок	NOUN	N	Case=Nom|Number=Sing	4	obl	_	_
+6	йывсьыд	йылысь	ADP	Po	Case=Ela|Number=Sing|Number[psor]=Sing|Person[psor]=2	5	case	_	SpaceAfter=No
+7	.	.	PUNCT	CLB	_	4	punct	_	_
 
 ~~~
 
@@ -40,31 +58,13 @@ The following 29 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 6 conj	color:blue
-1	Сійӧ	сійӧ	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
-2	заводитліс	заводітны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	OrigLang=ru
-3	чӧвтны	чӧвтны	VERB	V	VerbForm=Inf	2	xcomp	_	_
-4	куритчӧмсӧ	куритчӧм	NOUN	N	Case=Acc|Number=Sing	3	obj	_	OrigLang=ru
-5	да	да	CCONJ	CC	_	6	cc	_	_
-6	юӧмсӧ	юӧм	NOUN	N	Case=Acc|Number=Sing	4	conj	_	SpaceAfter=No
-7	.	.	PUNCT	CLB	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 6 conj	color:blue
-1	Игаузу	Игаузу	NOUN	N	Case=Nom|Number=Sing	7	nsubj	_	OrigLang=ru
-2	-	-	PUNCT	PUNCT	_	7	punct	_	_
-3	тайӧ	тайӧ	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	7	det	_	_
-4	ыджыд	ыджыд	ADJ	A	Case=Nom|Number=Sing	7	amod	_	_
-5	либӧ	либӧ	CCONJ	CC	_	6	cc	_	OrigLang=ru
-6	ичӧт	ичӧт	ADJ	A	Case=Nom|Number=Sing	4	conj	_	_
-7	канму	канму	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
-8	?	?	PUNCT	CLB	_	7	punct	_	_
+1	А	а	CCONJ	CC	_	4	cc	_	GTtags=CC
+2	юрын	юр	NOUN	N	Case=Ine|Number=Sing	4	obl:lmod	_	GTtags=N,Sg,Ine
+3	думъяс	дум	NOUN	N	Case=Nom|Number=Plur	4	nsubj	_	GTtags=N,Pl,Nom
+4	кыпыдӧсь	кыпыд	ADJ	A	Number[subj]=Plur	0	root	_	GTtags=A,Cop,Pl|SpaceAfter=No
+5	,	,	PUNCT	CLB	_	6	punct	_	GTtags=CLB
+6	гажаӧсь	гажа	ADJ	A	Number[subj]=Plur	4	conj	_	GTtags=A,Cop,Pl|SpaceAfter=No
+7	.	.	PUNCT	CLB	_	4	punct	_	GTtags=CLB
 
 ~~~
 

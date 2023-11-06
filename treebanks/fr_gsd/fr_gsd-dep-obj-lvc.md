@@ -85,7 +85,7 @@ The following 3 pairs of parts of speech are connected with `obj:lvc`: <tt><a hr
 41	,	,	PUNCT	_	_	11	punct	_	_
 42	fait	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 43	«	«	PUNCT	_	_	44	punct	_	_
-44	contre	contre	ADP	_	_	42	obj:lvc	_	ExtPos=NOUN|Idiom=Yes
+44	contre	contre	ADP	_	ExtPos=NOUN	42	obj:lvc	_	Idiom=Yes
 45	mauvaise	mauvais	ADJ	_	Gender=Fem|Number=Sing	44	fixed	_	InIdiom=Yes
 46	fortune	fortune	NOUN	_	Gender=Fem|Number=Sing	44	fixed	_	InIdiom=Yes
 47	bon	bon	ADJ	_	Gender=Masc|Number=Sing	44	fixed	_	InIdiom=Yes

@@ -13,7 +13,7 @@ This relation is universal.
 28 instances of `aux` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.03571428571429.
 
-The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_framenet-pos-AUX.html">AUX</a></tt> (15; 54% instances), <tt><a href="tr_framenet-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_framenet-pos-AUX.html">AUX</a></tt> (6; 21% instances), <tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_framenet-pos-AUX.html">AUX</a></tt> (3; 11% instances), <tt><a href="tr_framenet-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_framenet-pos-AUX.html">AUX</a></tt> (3; 11% instances), <tt><a href="tr_framenet-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_framenet-pos-AUX.html">AUX</a></tt> (1; 4% instances).
+The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_framenet-pos-AUX.html">AUX</a></tt> (14; 50% instances), <tt><a href="tr_framenet-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_framenet-pos-AUX.html">AUX</a></tt> (7; 25% instances), <tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_framenet-pos-AUX.html">AUX</a></tt> (3; 11% instances), <tt><a href="tr_framenet-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_framenet-pos-AUX.html">AUX</a></tt> (3; 11% instances), <tt><a href="tr_framenet-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_framenet-pos-AUX.html">AUX</a></tt> (1; 4% instances).
 
 
 ~~~ conllu

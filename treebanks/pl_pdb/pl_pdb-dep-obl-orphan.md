@@ -28,7 +28,7 @@ The following 2 pairs of parts of speech are connected with `obl:orphan`: <tt><a
 3	co	co	PRON	subst:sg:nom:n:ncol	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	5	nsubj	5:nsubj	_
 4	się	się	PRON	part	PronType=Prs|Reflex=Yes	5	expl:pv	5:expl:pv	_
 5	stało	stać	VERB	praet:sg:n:perf	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
-6	z	z	ADP	prep:inst:nwok	AdpType=Prep|Variant=Short	5	obl:orphan	5:obl:orphan	SpaceAfter=No
+6	z	z	ADP	prep:inst:nwok	AdpType=Prep|Variant=Short	5	obl:orphan	5:obl:orphan	Case=Ins|SpaceAfter=No
 7	.	.	PUNCT	interp	PunctType=Peri	5	punct	5:punct	SpaceAfter=No
 8	.	.	PUNCT	interp	PunctType=Peri	7	punct	7:punct	SpaceAfter=No
 9	.	.	PUNCT	interp	PunctType=Peri	8	punct	8:punct	_
@@ -46,7 +46,7 @@ The following 2 pairs of parts of speech are connected with `obl:orphan`: <tt><a
 2	wpół	wpół	ADV	adv	_	4	advmod	4:advmod	_
 3	do	do	ADP	prep:gen	AdpType=Prep	2	obl:orphan	2:obl:orphan	Case=Gen
 4	przyłapał	przyłapać	VERB	praet:sg:m1:perf	Animacy=Hum|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
-5	em	być	AUX	aglt:sg:pri:imperf:wok	Aspect=Imp|Clitic=Yes|Number=Sing|Person=1|Variant=Long	4	aux:clitic	4:aux:clitic	_
+5	em	być	AUX	aglt:sg:pri:imperf:wok	Aspect=Imp|Number=Sing|Person=1|Variant=Long	4	aux:clitic	4:aux:clitic	_
 6	się	się	PRON	part	PronType=Prs|Reflex=Yes	4	expl:pv	4:expl:pv	_
 7	na	na	ADP	prep:loc	AdpType=Prep	8	case	8:case	Case=Loc
 8	tym	to	PRON	subst:sg:loc:n:ncol	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	4	obl:arg	4:obl:arg	SpaceAfter=No

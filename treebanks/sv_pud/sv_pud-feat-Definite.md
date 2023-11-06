@@ -79,7 +79,7 @@ The most frequent other feature values with which `ADJ` and `Definite` co-occurr
 
 * `Def` (381; 42% of non-empty `Definite`): <em>hela, senaste, nya, sista, högsta, norra, största, södra, andra, bästa</em>
 * `Ind` (518; 58% of non-empty `Definite`): <em>flera, stor, fler, lång, direkt, ensam, hög, liten, modern, politisk</em>
-* `EMPTY` (660): <em>första, andra, många, nya, stora, olika, större, små, vissa, betydande</em>
+* `EMPTY` (661): <em>första, andra, många, nya, stora, olika, större, små, vissa, betydande</em>
 
 <table>
   <tr><th>Paradigm <i>stor</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
@@ -99,7 +99,7 @@ The most frequent other feature values with which `PROPN` and `Definite` co-occu
 
 * `Def` (1; 33% of non-empty `Definite`): <em>Panamanäset</em>
 * `Ind` (2; 67% of non-empty `Definite`): <em>Korint, låglandseuropa</em>
-* `EMPTY` (1213): <em>Kina, Storbritannien, Trump, USA, Frankrike, Hong, Italien, North, Medelhavet, Albanien</em>
+* `EMPTY` (1212): <em>Kina, Storbritannien, Trump, USA, Frankrike, Hong, Italien, North, Medelhavet, Albanien</em>
 
 ### `NUM`
 

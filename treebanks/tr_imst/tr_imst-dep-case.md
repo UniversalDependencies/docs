@@ -17,17 +17,36 @@ The following 29 pairs of parts of speech are connected with `case`: <tt><a href
 
 
 ~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 case	color:blue
-1	Orada	ora	NOUN	Noun	Case=Loc|Number=Sing|Person=3	3	amod	_	_
-2	ki	ki	ADP	Rel	_	1	case	_	_
-3	tartışma	tartış	VERB	Verb	Aspect=Perf|Case=Nom|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Vnoun	5	nsubj	_	_
-4	hayli	hayli	ADV	Adverb	_	5	advmod	_	_
-5	zengin	zengin	ADJ	Adj	_	0	root	_	SpaceAfter=No
-6	.	.	PUNCT	Punc	_	5	punct	_	_
+# visual-style 2 3 case	color:blue
+1	Göğsü	göğüs	NOUN	Noun	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	4	nsubj	_	_
+2	körük	körük	NOUN	Noun	Case=Nom|Number=Sing|Person=3	4	obl	_	_
+3	gibi	gibi	ADP	PCNom	_	2	case	_	_
+4	inip	in	VERB	Verb	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Conv	0	root	_	_
+5	kalkıyordu	kalk	VERB	Verb	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Polite=Infm|Tense=Past	4	compound	_	SpaceAfter=No
+6	.	.	PUNCT	Punc	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 6 case	color:blue
+1	Yoksa	yok	ADP	NAdj	Case=Nom|Number=Sing|Person=3	2	cc	_	_
+2	biliyor	bil	VERB	Verb	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Polite=Infm|Tense=Pres	8	ccomp	_	_
+3	musunuz	mi	AUX	Ques	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Pres	2	aux:q	_	_
+4	orayı	ora	NOUN	Noun	Case=Acc|Number=Sing|Person=3	2	conj	_	SpaceAfter=No
+5	?	?	PUNCT	Punc	_	4	punct	_	_
+6	diye	diye	ADP	PCNom	_	2	case	_	_
+7	hayretle	hayret	NOUN	Noun	Case=Ins|Number=Sing|Person=3	8	obl	_	_
+8	sordu	sor	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	Punc	_	8	punct	_	_
 
 ~~~
 
@@ -38,29 +57,16 @@ The following 29 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 case	color:blue
-1	Herkes	herkes	NOUN	Noun	Case=Nom|Number=Sing|Person=3	4	nsubj	_	_
-2	istediği	iste	VERB	Verb	Aspect=Perf|Mood=Ind|Number[psor]=Sing|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part	4	advcl	_	_
-3	gibi	gibi	ADP	PCNom	_	2	case	_	_
-4	sevişiyor	seviş	VERB	Verb	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Polite=Infm|Tense=Pres	0	root	_	SpaceAfter=No
-5	,	,	PUNCT	Punc	_	8	punct	_	_
-6	her	her	DET	Det	_	8	nsubj	_	_
-7	şey	şey	NOUN	Noun	Case=Nom|Number=Sing|Person=3	6	compound	_	_
-8	serbest	serbest	ADJ	Adj	_	4	conj	_	SpaceAfter=No
-9	.	.	PUNCT	Punc	_	8	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 case	color:blue
-1	Öyle	öyle	ADJ	Adj	_	3	amod	_	_
-2	ce	ce	ADP	Ly	_	1	case	_	_
-3	yiyin	ye	VERB	Verb	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Polarity=Pos|Tense=Pres	0	root	_	SpaceAfter=No
-4	.	.	PUNCT	Punc	_	3	punct	_	_
+1	Kapının	kapı	NOUN	Noun	Case=Gen|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=2	2	nmod:poss	_	_
+2	kenarında	kenar	ADJ	NAdj	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=2	4	amod	_	_
+3	ki	ki	ADP	Rel	_	2	case	_	_
+4	duvara	duvar	NOUN	Noun	Case=Dat|Number=Sing|Person=3	5	obl	_	_
+5	dayanıp	dayan	VERB	Verb	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Conv	7	advcl	_	_
+6	bize	biz	PRON	Pers	Case=Dat|Number=Plur|Person=1|PronType=Prs	7	obl	_	_
+7	baktı	bak	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	_
+8	bir	bir	NUM	ANum	NumType=Card	7	nummod	_	_
+9	an	an	NOUN	Noun	Case=Nom|Number=Sing|Person=3	8	compound	_	SpaceAfter=No
+10	.	.	PUNCT	Punc	_	7	punct	_	_
 
 ~~~
 

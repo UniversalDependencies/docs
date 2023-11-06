@@ -8,23 +8,26 @@ udver: '2'
 
 This relation is universal.
 
-19 nodes (1%) are attached to their parents as `xcomp`.
+41 nodes (1%) are attached to their parents as `xcomp`.
 
-11 instances of `xcomp` (58%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.42105263157895.
+33 instances of `xcomp` (80%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.5609756097561.
 
-The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt> (10; 53% instances), <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt> (7; 37% instances), <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt> (2; 11% instances).
+The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt> (30; 73% instances), <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt> (9; 22% instances), <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt> (2; 5% instances).
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 1 xcomp	color:blue
-1	ohotar	ho	VERB	v	Person=3|Tense=Fut	3	xcomp	_	_
-2	pureru	pureru	NOUN	n	_	3	obj	_	_
-3	reka	eka	VERB	v	Rel=Cont	0	root	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 xcomp	color:blue
+1	wir	wir	ADV	adv	_	4	advmod	_	_
+2	oapara	apar	NOUN	n	Case=Ref|Corf=Yes|Person=3	3	obj	_	_
+3	raha	aha	VERB	v	Rel=Cont	4	xcomp	_	_
+4	onan	nan	VERB	v	Person=3	0	root	_	_
+5	oho	ho	VERB	v	Person=3	4	dep	_	_
+6	tab	ta	NOUN	n	Case=Loc	4	obl	_	_
 
 ~~~
 
@@ -48,17 +51,18 @@ The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href
 
 
 ~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 xcomp	color:blue
+# visual-style 6 7 xcomp	color:blue
 1	imani	imani	ADV	adv	_	2	obl	_	_
-2	ɨaroŋarehe	ɨar	NOUN	n	Case=Ref|Number[subj]=Plur|Rel=Cont	4	dep	_	_
-3	,	,	PUNCT	punct	_	2	punct	_	_
-4	ozikazepeŋ	zika	VERB	v	Number[subj]=Plur|Person=3|Subord=Yes	5	advcl	_	_
-5	iwaɲete	waɲe	NOUN	n	Foc=Yes|Rel=NCont	0	root	_	_
-6	ozikapaŋ	zika	VERB	v	Aspect=Compl|Number[subj]=Plur|Person=3	5	xcomp	_	_
+2	ɨaroŋa	ɨar	NOUN	n	Case=Ref|Number[subj]=Plur	5	dep	_	_
+3	rehe	ehe	ADP	posp	Rel=Cont	2	case	_	_
+4	,	,	PUNCT	punct	_	2	punct	_	_
+5	ozikazepeŋ	zika	VERB	v	Number[subj]=Plur|Person=3|Subord=Yes	6	advcl	_	_
+6	iwaɲete	waɲe	NOUN	n	Foc=Yes|Rel=NCont	0	root	_	_
+7	ozikapaŋ	zika	VERB	v	Aspect=Compl|Number[subj]=Plur|Person=3	6	xcomp	_	_
 
 ~~~
 

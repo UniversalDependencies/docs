@@ -155,9 +155,9 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="ro_simonero-dep-amod.html">amod</a></tt>]--> ADJ</tt> (13579; 96%),
-<tt>NOUN --[<tt><a href="ro_simonero-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (8533; 50%),
-<tt>NOUN --[<tt><a href="ro_simonero-dep-det.html">det</a></tt>]--> DET</tt> (5034; 74%),
+<tt>NOUN --[<tt><a href="ro_simonero-dep-amod.html">amod</a></tt>]--> ADJ</tt> (13586; 96%),
+<tt>NOUN --[<tt><a href="ro_simonero-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (8534; 50%),
+<tt>NOUN --[<tt><a href="ro_simonero-dep-det.html">det</a></tt>]--> DET</tt> (5035; 74%),
 <tt>NOUN --[<tt><a href="ro_simonero-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2752; 64%),
 <tt>VERB --[<tt><a href="ro_simonero-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (753; 62%),
 <tt>ADJ --[<tt><a href="ro_simonero-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (633; 91%),

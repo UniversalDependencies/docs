@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-180 tokens (0%) have a non-empty value of `Foreign`.
-157 types (0%) occur at least once with a non-empty value of `Foreign`.
-148 lemmas (0%) occur at least once with a non-empty value of `Foreign`.
-The feature is used with 12 part-of-speech tags: <tt><a href="es_gsd-pos-X.html">X</a></tt> (51; 0% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (29; 0% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (22; 0% instances), <tt><a href="es_gsd-pos-DET.html">DET</a></tt> (17; 0% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (15; 0% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (14; 0% instances), <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (10; 0% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (9; 0% instances), <tt><a href="es_gsd-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="es_gsd-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="es_gsd-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances).
+185 tokens (0%) have a non-empty value of `Foreign`.
+162 types (0%) occur at least once with a non-empty value of `Foreign`.
+153 lemmas (0%) occur at least once with a non-empty value of `Foreign`.
+The feature is used with 12 part-of-speech tags: <tt><a href="es_gsd-pos-X.html">X</a></tt> (51; 0% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (29; 0% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (27; 0% instances), <tt><a href="es_gsd-pos-DET.html">DET</a></tt> (17; 0% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (15; 0% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (14; 0% instances), <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (10; 0% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (9; 0% instances), <tt><a href="es_gsd-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="es_gsd-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="es_gsd-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances).
 
 ### `X`
 
@@ -36,22 +36,22 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (29; 100% of non-empty `Foreign`): <em>Apostoli, Bass, Boy, Dioecesis, kapellmeister, nɔrsk, nɔʂːk, Avengers, Bitch, Creek</em>
-* `EMPTY` (77546): <em>años, año, parte, población, ciudad, personas, municipio, estado, km, familia</em>
+* `EMPTY` (77537): <em>años, año, parte, población, ciudad, personas, municipio, estado, km, familia</em>
 
 `Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (27) occur only with one value of `Foreign`.
 
 ### `PROPN`
 
-22 <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `Foreign`.
+27 <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `PROPN` and `Foreign` co-occurred: <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (19; 86%).
+The most frequent other feature values with which `PROPN` and `Foreign` co-occurred: <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (24; 89%).
 
 `PROPN` tokens may have the following values of `Foreign`:
 
-* `Yes` (22; 100% of non-empty `Foreign`): <em>Chilkasa, Petri, Γαρμπή, ΖΒΖ, Καίτη, Φόρος, αφέλια, π, τ, τοῦ</em>
-* `EMPTY` (39228): <em>san, España, Estados, Unidos, Juan, madrid, José, septiembre, julio, enero</em>
+* `Yes` (27; 100% of non-empty `Foreign`): <em>American, Chilkasa, Haka, Hotaru, Kenpo, Petri, no, Γαρμπή, ΖΒΖ, Καίτη</em>
+* `EMPTY` (39218): <em>san, España, Estados, Unidos, Juan, madrid, José, septiembre, julio, enero</em>
 
-`Foreign` seems to be **lexical feature** of `PROPN`. 100% lemmas (22) occur only with one value of `Foreign`.
+`Foreign` seems to be **lexical feature** of `PROPN`. 100% lemmas (27) occur only with one value of `Foreign`.
 
 ### `DET`
 
@@ -62,7 +62,7 @@ The most frequent other feature values with which `DET` and `Foreign` co-occurre
 `DET` tokens may have the following values of `Foreign`:
 
 * `Yes` (17; 100% of non-empty `Foreign`): <em>the, a, o, ha, la</em>
-* `EMPTY` (60869): <em>el, la, los, un, las, una, su, sus, este, esta</em>
+* `EMPTY` (60870): <em>el, la, los, un, las, una, su, sus, este, esta</em>
 
 ### `VERB`
 
@@ -73,7 +73,7 @@ The most frequent other feature values with which `VERB` and `Foreign` co-occurr
 `VERB` tokens may have the following values of `Foreign`:
 
 * `Yes` (15; 100% of non-empty `Foreign`): <em>Let, Kick, Appears, Give, Go, Kiss, Lovin, Made, Makes, Need</em>
-* `EMPTY` (36354): <em>tiene, es, encuentra, hay, hacer, hace, tenía, tienen, era, ubicado</em>
+* `EMPTY` (36344): <em>tiene, es, encuentra, hay, hacer, hace, tenía, tienen, era, ubicado</em>
 
 `Foreign` seems to be **lexical feature** of `VERB`. 100% lemmas (11) occur only with one value of `Foreign`.
 
@@ -86,7 +86,7 @@ The most frequent other feature values with which `PRON` and `Foreign` co-occurr
 `PRON` tokens may have the following values of `Foreign`:
 
 * `Yes` (14; 100% of non-empty `Foreign`): <em>I, You, Alles, Me, That, This, What, Who, em</em>
-* `EMPTY` (14009): <em>se, lo, que, le, la, me, uno, cual, los, nos</em>
+* `EMPTY` (14019): <em>se, lo, que, le, la, me, uno, cual, los, nos</em>
 
 ### `AUX`
 
@@ -97,7 +97,7 @@ The most frequent other feature values with which `AUX` and `Foreign` co-occurre
 `AUX` tokens may have the following values of `Foreign`:
 
 * `Yes` (10; 100% of non-empty `Foreign`): <em>can, is, 's, Am, Do, Was, Were, be, ist</em>
-* `EMPTY` (10726): <em>es, fue, ha, son, ser, eran, era, han, está, puede</em>
+* `EMPTY` (10737): <em>es, fue, ha, son, ser, eran, era, han, está, puede</em>
 
 ### `ADJ`
 
@@ -108,7 +108,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (9; 100% of non-empty `Foreign`): <em>Beautiful, Sancti, Sorry, negative, qodesh, Annual, Clear, Thirteenth, falcata</em>
-* `EMPTY` (24977): <em>primera, gran, primer, mismo, mayor, nuevo, estadounidense, total, mejor, nacional</em>
+* `EMPTY` (24981): <em>primera, gran, primer, mismo, mayor, nuevo, estadounidense, total, mejor, nacional</em>
 
 ### `ADP`
 
@@ -117,18 +117,18 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADP` tokens may have the following values of `Foreign`:
 
 * `Yes` (4; 100% of non-empty `Foreign`): <em>at, de, for, in</em>
-* `EMPTY` (71075): <em>de, en, a, por, con, para, como, entre, desde, sobre</em>
+* `EMPTY` (71079): <em>de, en, a, por, con, para, como, entre, desde, sobre</em>
 
 ### `NUM`
 
 4 <tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> tokens (0% of all `NUM` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `NUM` and `Foreign` co-occurred: <tt><a href="es_gsd-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (4; 100%), <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4; 100%).
+The most frequent other feature values with which `NUM` and `Foreign` co-occurred: <tt><a href="es_gsd-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (4; 100%), <tt><a href="es_gsd-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (4; 100%), <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4; 100%).
 
 `NUM` tokens may have the following values of `Foreign`:
 
 * `Yes` (4; 100% of non-empty `Foreign`): <em>Five, One, Six, eins</em>
-* `EMPTY` (11057): <em>dos, tres, 2010, 0, cuatro, 3, 1, 2, 10, 4</em>
+* `EMPTY` (11058): <em>dos, tres, 2010, 0, cuatro, 3, 1, 2, 10, 4</em>
 
 ### `PART`
 
@@ -148,14 +148,14 @@ The most frequent other feature values with which `PART` and `Foreign` co-occurr
 `SCONJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (2; 100% of non-empty `Foreign`): <em>If, When</em>
-* `EMPTY` (8174): <em>que, cuando, si, para, aunque, porque, como, mientras, pues, según</em>
+* `EMPTY` (8175): <em>que, cuando, si, para, aunque, porque, como, mientras, pues, según</em>
 
 ## Relations with Agreement in `Foreign`
 
 The 10 most frequent relations where parent and child node agree in `Foreign`:
 <tt>X --[<tt><a href="es_gsd-dep-compound.html">compound</a></tt>]--> X</tt> (15; 100%),
 <tt>NOUN --[<tt><a href="es_gsd-dep-det.html">det</a></tt>]--> DET</tt> (10; 71%),
-<tt>PROPN --[<tt><a href="es_gsd-dep-flat.html">flat</a></tt>]--> PROPN</tt> (5; 100%),
+<tt>PROPN --[<tt><a href="es_gsd-dep-flat.html">flat</a></tt>]--> PROPN</tt> (8; 100%),
 <tt>VERB --[<tt><a href="es_gsd-dep-obj.html">obj</a></tt>]--> NOUN</tt> (5; 100%),
 <tt>NOUN --[<tt><a href="es_gsd-dep-amod.html">amod</a></tt>]--> ADJ</tt> (4; 80%),
 <tt>VERB --[<tt><a href="es_gsd-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (4; 100%),

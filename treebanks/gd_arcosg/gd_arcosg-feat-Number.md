@@ -111,7 +111,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="gd_arcosg-dep-det.html">det</a></tt>]--> DET</tt> (4525; 88%),
-<tt>NOUN --[<tt><a href="gd_arcosg-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1963; 65%),
+<tt>NOUN --[<tt><a href="gd_arcosg-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1964; 65%),
 <tt>NOUN --[<tt><a href="gd_arcosg-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1279; 67%),
 <tt>NOUN --[<tt><a href="gd_arcosg-dep-conj.html">conj</a></tt>]--> NOUN</tt> (412; 70%),
 <tt>NOUN --[<tt><a href="gd_arcosg-dep-nmod-poss.html">nmod:poss</a></tt>]--> DET</tt> (388; 67%),

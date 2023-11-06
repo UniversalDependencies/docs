@@ -326,7 +326,7 @@ The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>VERB --[<tt><a href="orv_torot-dep-conj.html">conj</a></tt>]--> VERB</tt> (1237; 58%),
 <tt>NOUN --[<tt><a href="orv_torot-dep-appos.html">appos</a></tt>]--> NOUN</tt> (1010; 72%),
 <tt>PROPN --[<tt><a href="orv_torot-dep-conj.html">conj</a></tt>]--> PROPN</tt> (935; 92%),
-<tt>PROPN --[<tt><a href="orv_torot-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (862; 97%),
+<tt>PROPN --[<tt><a href="orv_torot-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (874; 97%),
 <tt>PROPN --[<tt><a href="orv_torot-dep-appos.html">appos</a></tt>]--> NOUN</tt> (850; 89%),
 <tt>ADJ --[<tt><a href="orv_torot-dep-conj.html">conj</a></tt>]--> ADJ</tt> (846; 98%),
 <tt>PROPN --[<tt><a href="orv_torot-dep-amod.html">amod</a></tt>]--> ADJ</tt> (831; 100%).

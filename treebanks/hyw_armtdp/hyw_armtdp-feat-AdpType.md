@@ -9,22 +9,22 @@ udver: '2'
 This feature is language-specific.
 It occurs with 3 different values: `Ambi`, `Post`, `Prep`.
 
-5298 tokens (4%) have a non-empty value of `AdpType`.
+5306 tokens (4%) have a non-empty value of `AdpType`.
 191 types (1%) occur at least once with a non-empty value of `AdpType`.
-116 lemmas (1%) occur at least once with a non-empty value of `AdpType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt> (5298; 4% instances).
+114 lemmas (1%) occur at least once with a non-empty value of `AdpType`.
+The feature is used with 1 part-of-speech tags: <tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt> (5306; 4% instances).
 
 ### `ADP`
 
-5298 <tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt> tokens (100% of all `ADP` tokens) have a non-empty value of `AdpType`.
+5306 <tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt> tokens (100% of all `ADP` tokens) have a non-empty value of `AdpType`.
 
 `ADP` tokens may have the following values of `AdpType`:
 
 * `Ambi` (146; 3% of non-empty `AdpType`): <em>հանդէպ, հակառակ, շնորհիւ, համաձայն, համեմատ, փոխանակ, անկախ, Բաց, համապատասխան</em>
-* `Post` (4298; 81% of non-empty `AdpType`): <em>մէջ, համար, վրայ, հետ, մասին, ետք, տակ, կողմէ, ընթացքին, դէմ</em>
-* `Prep` (854; 16% of non-empty `AdpType`): <em>ի, դէպի, մինչեւ, իբրեւ, առանց, որպէս, ըստ, քան, առ, ինչպէս</em>
+* `Post` (4303; 81% of non-empty `AdpType`): <em>մէջ, համար, վրայ, հետ, մասին, ետք, տակ, կողմէ, ընթացքին, դէմ</em>
+* `Prep` (857; 16% of non-empty `AdpType`): <em>ի, դէպի, մինչեւ, իբրեւ, առանց, որպէս, ըստ, քան, առ, ինչպէս</em>
 
-`AdpType` seems to be **lexical feature** of `ADP`. 100% lemmas (116) occur only with one value of `AdpType`.
+`AdpType` seems to be **lexical feature** of `ADP`. 100% lemmas (114) occur only with one value of `AdpType`.
 
 ## Relations with Agreement in `AdpType`
 

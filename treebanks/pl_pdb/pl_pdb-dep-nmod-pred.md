@@ -65,7 +65,7 @@ The following 4 pairs of parts of speech are connected with `nmod:pred`: <tt><a 
 2	dziewczynki	dziewczynka	NOUN	subst:pl:nom:f	Case=Nom|Gender=Fem|Number=Plur	3	nsubj	3:nsubj	_
 3	podrosną	podrosnąć	VERB	fin:pl:ter:perf	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	6	advcl	6:advcl	SpaceAfter=No
 4	,	,	PUNCT	interp	PunctType=Comm	3	punct	3:punct	_
-5	pewnie	pewnie	PART	part	_	6	parataxis:insert	6:parataxis:insert	_
+5	pewnie	pewnie	PART	part	_	6	advmod:emph	6:advmod:emph	_
 6	docenią	docenić	VERB	fin:pl:ter:perf	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
 7	,	,	PUNCT	interp	PunctType=Comm	13	punct	13:punct	_
 8	że	że	SCONJ	comp	_	13	mark	13:mark	_

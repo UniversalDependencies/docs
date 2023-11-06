@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-125 nodes (1%) are attached to their parents as `flat`.
+126 nodes (1%) are attached to their parents as `flat`.
 
-125 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.16.
+126 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.15873015873016.
 
-The following 8 pairs of parts of speech are connected with `flat`: <tt><a href="qaf_arabizi-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qaf_arabizi-pos-PROPN.html">PROPN</a></tt> (114; 91% instances), <tt><a href="qaf_arabizi-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qaf_arabizi-pos-PROPN.html">PROPN</a></tt> (3; 2% instances), <tt><a href="qaf_arabizi-pos-INTJ.html">INTJ</a></tt>-<tt><a href="qaf_arabizi-pos-INTJ.html">INTJ</a></tt> (2; 2% instances), <tt><a href="qaf_arabizi-pos-NUM.html">NUM</a></tt>-<tt><a href="qaf_arabizi-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="qaf_arabizi-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qaf_arabizi-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="qaf_arabizi-pos-NUM.html">NUM</a></tt>-<tt><a href="qaf_arabizi-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="qaf_arabizi-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qaf_arabizi-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="qaf_arabizi-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qaf_arabizi-pos-X.html">X</a></tt> (1; 1% instances).
+The following 9 pairs of parts of speech are connected with `flat`: <tt><a href="qaf_arabizi-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qaf_arabizi-pos-PROPN.html">PROPN</a></tt> (114; 90% instances), <tt><a href="qaf_arabizi-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qaf_arabizi-pos-PROPN.html">PROPN</a></tt> (3; 2% instances), <tt><a href="qaf_arabizi-pos-INTJ.html">INTJ</a></tt>-<tt><a href="qaf_arabizi-pos-INTJ.html">INTJ</a></tt> (2; 2% instances), <tt><a href="qaf_arabizi-pos-NUM.html">NUM</a></tt>-<tt><a href="qaf_arabizi-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="qaf_arabizi-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qaf_arabizi-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="qaf_arabizi-pos-NUM.html">NUM</a></tt>-<tt><a href="qaf_arabizi-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="qaf_arabizi-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qaf_arabizi-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="qaf_arabizi-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qaf_arabizi-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="qaf_arabizi-pos-VERB.html">VERB</a></tt>-<tt><a href="qaf_arabizi-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

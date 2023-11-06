@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-20305 nodes (7%) are attached to their parents as `advmod`.
+20268 nodes (7%) are attached to their parents as `advmod`.
 
-12349 instances of `advmod` (61%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.88884511204137.
+12312 instances of `advmod` (61%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.88888888888889.
 
-The following 26 pairs of parts of speech are connected with `advmod`: <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (8540; 42% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (3027; 15% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (2559; 13% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (2301; 11% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (1612; 8% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (480; 2% instances), <tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt>-<tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (417; 2% instances), <tt><a href="no_nynorsk-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (249; 1% instances), <tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (183; 1% instances), <tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (171; 1% instances), <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt>-<tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (168; 1% instances), <tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt>-<tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (114; 1% instances), <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt>-<tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (111; 1% instances), <tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt>-<tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (82; 0% instances), <tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (79; 0% instances), <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (49; 0% instances), <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (41; 0% instances), <tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (40; 0% instances), <tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (40; 0% instances), <tt><a href="no_nynorsk-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (25; 0% instances), <tt><a href="no_nynorsk-pos-INTJ.html">INTJ</a></tt>-<tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (10; 0% instances), <tt><a href="no_nynorsk-pos-INTJ.html">INTJ</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt>-<tt><a href="no_nynorsk-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-X.html">X</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-X.html">X</a></tt>-<tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 37 pairs of parts of speech are connected with `advmod`: <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (7008; 35% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (2559; 13% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (2524; 12% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (2301; 11% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-PART.html">PART</a></tt> (1532; 8% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (1347; 7% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-PART.html">PART</a></tt> (504; 2% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (480; 2% instances), <tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt>-<tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (247; 1% instances), <tt><a href="no_nynorsk-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (247; 1% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-PART.html">PART</a></tt> (234; 1% instances), <tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (168; 1% instances), <tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (149; 1% instances), <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt>-<tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (131; 1% instances), <tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt>-<tt><a href="no_nynorsk-pos-PART.html">PART</a></tt> (111; 1% instances), <tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt>-<tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (108; 1% instances), <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt>-<tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (98; 0% instances), <tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (79; 0% instances), <tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt>-<tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (62; 0% instances), <tt><a href="no_nynorsk-pos-PART.html">PART</a></tt>-<tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (60; 0% instances), <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (49; 0% instances), <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (41; 0% instances), <tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (40; 0% instances), <tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (40; 0% instances), <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt>-<tt><a href="no_nynorsk-pos-PART.html">PART</a></tt> (35; 0% instances), <tt><a href="no_nynorsk-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (25; 0% instances), <tt><a href="no_nynorsk-pos-PART.html">PART</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (22; 0% instances), <tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt>-<tt><a href="no_nynorsk-pos-PART.html">PART</a></tt> (20; 0% instances), <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt>-<tt><a href="no_nynorsk-pos-PART.html">PART</a></tt> (12; 0% instances), <tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="no_nynorsk-pos-PART.html">PART</a></tt> (12; 0% instances), <tt><a href="no_nynorsk-pos-INTJ.html">INTJ</a></tt>-<tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (9; 0% instances), <tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt>-<tt><a href="no_nynorsk-pos-PART.html">PART</a></tt> (6; 0% instances), <tt><a href="no_nynorsk-pos-INTJ.html">INTJ</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="no_nynorsk-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="no_nynorsk-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="no_nynorsk-pos-INTJ.html">INTJ</a></tt>-<tt><a href="no_nynorsk-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-X.html">X</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-X.html">X</a></tt>-<tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -27,6 +27,27 @@ The following 26 pairs of parts of speech are connected with `advmod`: <tt><a hr
 3	eg	eg	PRON	pron	Animacy=Hum|Case=Nom|Person=1|PronType=Prs	2	nsubj	_	_
 4	det	det	PRON	pron	Gender=Neut|Person=3|PronType=Prs	2	obj	_	SpaceAfter=No
 5	:	$:	PUNCT	clb	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 10 advmod	color:blue
+1	Utfordringa	utfordring	NOUN	subst	Gender=Fem	5	nsubj:outer	_	_
+2	er	vere	AUX	verb	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	at	at	SCONJ	sbu	_	5	mark	_	_
+4	brød	brød	NOUN	subst	Definite=Ind|Gender=Neut|Number=Plur	5	nsubj	_	_
+5	held	halde	VERB	verb	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	seg	seg	PRON	pron	Case=Acc|PronType=Prs	5	obj	_	_
+7	ikkje	ikkje	PART	adv	Polarity=Neg	5	advmod	_	_
+8	ferske	fersk	ADJ	adj	Degree=Pos|Number=Plur	5	xcomp	_	_
+9	så	så	ADV	adv	_	10	advmod	_	_
+10	lenge	lenge	ADJ	adj	Degree=Pos	5	advmod	_	SpaceAfter=No
+11	.	$.	PUNCT	clb	_	5	punct	_	_
 
 ~~~
 
@@ -51,27 +72,6 @@ The following 26 pairs of parts of speech are connected with `advmod`: <tt><a hr
 12	matpakke	matpakke	NOUN	subst	Definite=Ind|Gender=Fem	11	obj	_	_
 13	av	av	ADP	prep	_	12	nmod	_	SpaceAfter=No
 14	.	$.	PUNCT	clb	_	4	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 10 advmod	color:blue
-1	Utfordringa	utfordring	NOUN	subst	Gender=Fem	5	nsubj:outer	_	_
-2	er	vere	AUX	verb	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	_
-3	at	at	SCONJ	sbu	_	5	mark	_	_
-4	brød	brød	NOUN	subst	Definite=Ind|Gender=Neut|Number=Plur	5	nsubj	_	_
-5	held	halde	VERB	verb	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
-6	seg	seg	PRON	pron	Case=Acc|PronType=Prs	5	obj	_	_
-7	ikkje	ikkje	ADV	adv	_	5	advmod	_	_
-8	ferske	fersk	ADJ	adj	Degree=Pos|Number=Plur	5	xcomp	_	_
-9	så	så	ADV	adv	_	10	advmod	_	_
-10	lenge	lenge	ADJ	adj	Degree=Pos	5	advmod	_	SpaceAfter=No
-11	.	$.	PUNCT	clb	_	5	punct	_	_
 
 ~~~
 

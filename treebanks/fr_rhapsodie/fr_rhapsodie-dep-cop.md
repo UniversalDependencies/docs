@@ -45,7 +45,7 @@ The following 12 pairs of parts of speech are connected with `cop`: <tt><a href=
 2	,	,	PUNCT	_	_	6	punct	_	_
 3	euh	euh	INTJ	_	_	6	discourse	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
-5	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+5	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
 6	pense	penser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	que	que	SCONJ	_	_	12	mark	_	_
 8	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	12	nsubj	_	Overlap=Rhap_D0006-16
@@ -68,9 +68,9 @@ The following 12 pairs of parts of speech are connected with `cop`: <tt><a href=
 2	,	,	PUNCT	_	_	1	punct	_	_
 3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	expl:subj	_	SpaceAfter=No
 4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
-5	moi	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	0	root	_	_
+5	moi	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	0	root	_	_
 6	qui	qui	PRON	_	PronType=Rel	9	nsubj	_	_
-7	les	le	PRON	_	Number=Plur|Person=3|PronType=Prs	9	obj	_	_
+7	les	eux	PRON	_	Number=Plur|Person=3|PronType=Prs	9	obj	_	_
 8	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	aux:tense	_	_
 9	payés	payer	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	5	advcl:cleft	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	5	punct	_	_

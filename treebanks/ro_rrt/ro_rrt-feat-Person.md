@@ -107,11 +107,11 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="ro_rrt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (1601; 75%),
+<tt>VERB --[<tt><a href="ro_rrt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (1602; 75%),
 <tt>VERB --[<tt><a href="ro_rrt-dep-expl-pv.html">expl:pv</a></tt>]--> PRON</tt> (1529; 68%),
 <tt>VERB --[<tt><a href="ro_rrt-dep-conj.html">conj</a></tt>]--> VERB</tt> (1274; 76%),
 <tt>VERB --[<tt><a href="ro_rrt-dep-expl-pass.html">expl:pass</a></tt>]--> PRON</tt> (880; 78%),
-<tt>VERB --[<tt><a href="ro_rrt-dep-obl.html">obl</a></tt>]--> PRON</tt> (458; 54%),
+<tt>VERB --[<tt><a href="ro_rrt-dep-obl.html">obl</a></tt>]--> PRON</tt> (459; 54%),
 <tt>VERB --[<tt><a href="ro_rrt-dep-expl.html">expl</a></tt>]--> PRON</tt> (308; 57%),
 <tt>VERB --[<tt><a href="ro_rrt-dep-expl-impers.html">expl:impers</a></tt>]--> PRON</tt> (109; 84%),
 <tt>PRON --[<tt><a href="ro_rrt-dep-acl.html">acl</a></tt>]--> VERB</tt> (87; 52%),

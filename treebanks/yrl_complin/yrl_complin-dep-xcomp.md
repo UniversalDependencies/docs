@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-62 nodes (1%) are attached to their parents as `xcomp`.
+87 nodes (1%) are attached to their parents as `xcomp`.
 
-59 instances of `xcomp` (95%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.91935483870968.
+83 instances of `xcomp` (95%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.89655172413793.
 
-The following 4 pairs of parts of speech are connected with `xcomp`: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (41; 66% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (9; 15% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (9; 15% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt> (3; 5% instances).
+The following 4 pairs of parts of speech are connected with `xcomp`: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (61; 70% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (12; 14% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (11; 13% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt> (3; 3% instances).
 
 
 ~~~ conllu
@@ -29,21 +29,6 @@ The following 4 pairs of parts of speech are connected with `xcomp`: <tt><a href
 5	garapá	garapá	NOUN	N	Number=Sing	4	obl	_	TokenRange=21:27
 6	suí	suí	ADP	ADP	_	5	case	_	SpaceAfter=No|TokenRange=28:31
 7	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=31:32
-
-~~~
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 xcomp	color:blue
-1	Maã	maã	PRON	INT	PronType=Int	3	obj	_	TokenRange=0:3
-2	taá	taá	PART	CQ	_	3	advmod	_	TokenRange=4:7
-3	rewasemu	wasemu	VERB	V	Number=Sing|Person=2|VerbForm=Fin	0	root	_	TokenRange=8:16
-4	puxuwera	puxuwera	ADJ	A	_	3	xcomp	_	SpaceAfter=No|TokenRange=17:25
-5	?	?	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=25:26
 
 ~~~
 
@@ -65,6 +50,21 @@ The following 4 pairs of parts of speech are connected with `xcomp`: <tt><a href
 9	sera	sera	NOUN	N	Number=Sing|Number[psor]=Sing|Person[psor]=3|Rel=NCont	10	nsubj	_	TokenRange=41:45
 10	Kurukuí	kurukuí	PROPN	PROPN	_	1	parataxis	_	SpaceAfter=No|TokenRange=46:53
 11	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=53:54
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 xcomp	color:blue
+1	Maã	maã	PRON	INT	PronType=Int	3	obj	_	TokenRange=0:3
+2	taá	taá	PART	CQ	_	3	advmod	_	TokenRange=4:7
+3	rewasemu	wasemu	VERB	V	Number=Sing|Person=2|VerbForm=Fin	0	root	_	TokenRange=8:16
+4	puxuwera	puxuwera	ADJ	A	_	3	xcomp	_	SpaceAfter=No|TokenRange=17:25
+5	?	?	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=25:26
 
 ~~~
 

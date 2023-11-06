@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1303 nodes (3%) are attached to their parents as `det`.
+1305 nodes (3%) are attached to their parents as `det`.
 
-1303 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.30698388334612.
+1305 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.31034482758621.
 
-The following 6 pairs of parts of speech are connected with `det`: <tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_atis-pos-DET.html">DET</a></tt> (1276; 98% instances), <tt><a href="tr_atis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_atis-pos-DET.html">DET</a></tt> (7; 1% instances), <tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_atis-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="tr_atis-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_atis-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="tr_atis-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_atis-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="tr_atis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_atis-pos-DET.html">DET</a></tt> (3; 0% instances).
+The following 6 pairs of parts of speech are connected with `det`: <tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_atis-pos-DET.html">DET</a></tt> (1278; 98% instances), <tt><a href="tr_atis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_atis-pos-DET.html">DET</a></tt> (7; 1% instances), <tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_atis-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="tr_atis-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_atis-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="tr_atis-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_atis-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="tr_atis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_atis-pos-DET.html">DET</a></tt> (3; 0% instances).
 
 
 ~~~ conllu

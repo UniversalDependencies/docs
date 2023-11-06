@@ -30,7 +30,7 @@ The following 13 pairs of parts of speech are connected with `appos`: <tt><a hre
 6	nikah	nikah	ADV	_	_	3	advmod	3:advmod	Orig=nikah|Gloss=here|Morf=nikān|NormalizedForm=nikah|NormalizedLemma=nikah
 7	ich	tich	NOUN	_	NounType=Relat|Number=Sing|Number[psor]=Sing|Person[psor]=3	6	appos	6:appos	Orig=ı̄ch|Gloss=in|Morf=ı̄(ti)ch|NormalizedForm=ich|NormalizedLemma=tich
 8	n	in	DET	_	_	9	det	9:det	Orig=n|Gloss=DEF|Morf=n|NormalizedForm=n|NormalizedLemma=in
-9	pwebloh	pweblo	NOUN	_	_	7	nmod	7:nmod	Gloss=town|Morf=PUEBLO|Orig=pwēbloh|SpaceAfter=No|NormalizedForm=pwebloh|NormalizedLemma=pweblo
+9	pwebloh	pweblo	NOUN	_	Foreign=Yes|Gender=Masc	7	nmod	7:nmod	Gloss=town|Morf=PUEBLO|Orig=pwēbloh|SpaceAfter=No|NormalizedForm=pwebloh|NormalizedLemma=pweblo
 10	?	?	PUNCT	_	_	3	punct	3:punct	Orig=?|Gloss=?|Morf=?|NormalizedForm=?|NormalizedLemma=?
 
 ~~~

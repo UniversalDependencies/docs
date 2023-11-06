@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal but the values `Conv`, `Vnoun` are language-specific.
 It occurs with 4 different values: `Conv`, `Fin`, `Part`, `Vnoun`.
 
-16101 tokens (9%) have a non-empty value of `VerbForm`.
-5088 types (14%) occur at least once with a non-empty value of `VerbForm`.
-1480 lemmas (10%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="tr_penn-pos-VERB.html">VERB</a></tt> (15947; 9% instances), <tt><a href="tr_penn-pos-AUX.html">AUX</a></tt> (154; 0% instances).
+16098 tokens (9%) have a non-empty value of `VerbForm`.
+5086 types (14%) occur at least once with a non-empty value of `VerbForm`.
+1479 lemmas (10%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 2 part-of-speech tags: <tt><a href="tr_penn-pos-VERB.html">VERB</a></tt> (15944; 9% instances), <tt><a href="tr_penn-pos-AUX.html">AUX</a></tt> (154; 0% instances).
 
 ### `VERB`
 
-15947 <tt><a href="tr_penn-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+15944 <tt><a href="tr_penn-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="tr_penn-feat-Person.html">Person</a></tt><tt>=3</tt> (14814; 93%), <tt><a href="tr_penn-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14773; 93%), <tt><a href="tr_penn-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (13831; 87%), <tt><a href="tr_penn-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (13054; 82%), <tt><a href="tr_penn-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (12850; 81%), <tt><a href="tr_penn-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (9175; 58%), <tt><a href="tr_penn-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (8045; 50%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="tr_penn-feat-Person.html">Person</a></tt><tt>=3</tt> (14814; 93%), <tt><a href="tr_penn-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14770; 93%), <tt><a href="tr_penn-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (13825; 87%), <tt><a href="tr_penn-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (13050; 82%), <tt><a href="tr_penn-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (12850; 81%), <tt><a href="tr_penn-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (9175; 58%), <tt><a href="tr_penn-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (8045; 50%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Conv` (8; 0% of non-empty `VerbForm`): <em>arayışındalar, dönüştü, değişti, düşüşündedir, oluştu, yükseliştedir</em>
-* `Fin` (15807; 99% of non-empty `VerbForm`): <em>söyledi, dedi, ediyor, oldu, yükseldi, etti, diyor, düştü, kapandı, geldi</em>
+* `Fin` (15804; 99% of non-empty `VerbForm`): <em>söyledi, dedi, ediyor, oldu, yükseldi, etti, diyor, düştü, kapandı, geldi</em>
 * `Part` (23; 0% of non-empty `VerbForm`): <em>olduğudur, Gördüğünüz, Sunduğunuz, alacağımızdır, bahsetmediğinizdir, dolaşacağıdır, dönüştürülebileceğidir, düşündüğüdür, etkilenenlerdi, ettiğidir</em>
 * `Vnoun` (109; 1% of non-empty `VerbForm`): <em>olmasıdır, danışmanlar, demektir, sağlamaktır, almaktır, bulmaktır, sözleşmeydi, Faturalandırmalar, almadır, almaktı</em>
 * `EMPTY` (41): <em>neler, içindeler, eğilimindeler, azınlıktalar, bağımlılar, benzerler, durumdalar, elyaflar, farkındalar, güvenliler</em>
@@ -104,7 +104,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
   <tr><td><tt><tt><a href="tr_penn-feat-Mood.html">Mood</a></tt><tt>=Opt</tt>|<tt><a href="tr_penn-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_penn-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_penn-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="tr_penn-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>Ola</em></td><td></td><td></td><td></td></tr>
 </table>
 
-`VerbForm` seems to be **lexical feature** of `VERB`. 95% lemmas (1407) occur only with one value of `VerbForm`.
+`VerbForm` seems to be **lexical feature** of `VERB`. 95% lemmas (1406) occur only with one value of `VerbForm`.
 
 ### `AUX`
 
@@ -115,7 +115,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 `AUX` tokens may have the following values of `VerbForm`:
 
 * `Fin` (154; 100% of non-empty `VerbForm`): <em>değildir, değildi, değiliz, değilse, değillerdi, değilim, değildik, değildim, değillerdir, değilmiş</em>
-* `EMPTY` (391): <em>değil, mi, mı, mu, değiller, değilim, mıydı, miydi, musunuz, mü</em>
+* `EMPTY` (392): <em>değil, mi, mı, mu, değiller, değilim, mıydı, miydi, musunuz, mü</em>
 
 ## Relations with Agreement in `VerbForm`
 

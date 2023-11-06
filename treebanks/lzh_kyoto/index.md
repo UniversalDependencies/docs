@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Koichi Yasuoka, Christian Wittern, Tomohiko Morioka, Takumi Ikeda, Naoki Yamazaki, Yoshihiro Nikaido, Shingo Suzuki, Shigeki Moro, Yuan Li, Hiroyuki Shirasu, Kazunori Fujita.
 
 Repository: [UD_Classical_Chinese-Kyoto](https://github.com/UniversalDependencies/UD_Classical_Chinese-Kyoto)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udlzh_kyoto212)<br />
-Download all treebanks: [UD 2.12](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udlzh_kyoto213)<br />
+Download all treebanks: [UD 2.13](/#download)
 
 License: PD
 
@@ -130,7 +130,7 @@ This Treebank is taken under the full text of [論語](https://corpus.kanji.zinb
 </ul>
 
 <ul>
-<li>This corpus contains 54 lemmas tagged as pronouns (PRON): 乃, 之, 予, 云, 他, 伊, 何, 佗, 余, 僕, 公, 其, 卬, 厥, 吾, 夫, 奚, 女, 子, 孤, 孰, 它, 安, 害, 己, 彼, 惟, 我, 或, 按, 斯, 是, 時, 曷, 朕, 某, 此, 汝, 焉, 爰, 爾, 瑕, 甚, 維, 而, 自, 若, 茲, 言, 許, 誰, 諸, 輩, 雲</li>
+<li>This corpus contains 53 lemmas tagged as pronouns (PRON): 乃, 之, 予, 云, 他, 伊, 何, 佗, 余, 僕, 公, 其, 卬, 厥, 吾, 夫, 奚, 女, 子, 孤, 孰, 它, 安, 害, 己, 彼, 惟, 我, 或, 按, 斯, 是, 時, 曷, 朕, 某, 此, 汝, 焉, 爰, 爾, 瑕, 甚, 維, 而, 自, 若, 茲, 言, 許, 誰, 諸, 輩</li>
 </ul>
 
 <ul>

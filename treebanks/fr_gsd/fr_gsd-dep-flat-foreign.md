@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="fr_gsd-dep-flat.html">flat</a></tt>.
 There are also 1 other language-specific subtypes of `flat`: <tt><a href="fr_gsd-dep-flat-name.html">flat:name</a></tt>.
 
-1041 nodes (0%) are attached to their parents as `flat:foreign`.
+1053 nodes (0%) are attached to their parents as `flat:foreign`.
 
-1041 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.61863592699328.
+1053 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.60588793922127.
 
-The following 4 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="fr_gsd-pos-X.html">X</a></tt>-<tt><a href="fr_gsd-pos-X.html">X</a></tt> (1033; 99% instances), <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="fr_gsd-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt>-<tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (3; 0% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_gsd-pos-X.html">X</a></tt> (2; 0% instances).
+The following 4 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="fr_gsd-pos-X.html">X</a></tt>-<tt><a href="fr_gsd-pos-X.html">X</a></tt> (1045; 99% instances), <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="fr_gsd-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt>-<tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (3; 0% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_gsd-pos-X.html">X</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -23,14 +23,14 @@ The following 4 pairs of parts of speech are connected with `flat:foreign`: <tt>
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 flat:foreign	color:blue
-1	Falling	Falling	X	_	Foreign=Yes	6	nsubj	_	ExtPos=PROPN|Lang=en|Title=Yes
+1	Falling	Falling	X	_	Foreign=Yes	6	nsubj	_	Lang=en|Title=Yes
 2	Out	Out	X	_	Foreign=Yes	1	flat:foreign	_	InTitle=Yes|Lang=en
 3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
 4	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 5	deuxième	deuxième	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	_
 6	album	album	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 7	de	de	ADP	_	_	8	case	_	_
-8	Peter	Peter	X	_	Foreign=Yes	6	nmod	_	ExtPos=PROPN|Lang=en
+8	Peter	Peter	X	_	Foreign=Yes	6	nmod	_	Lang=en
 9	Bjorn	Bjorn	X	_	Foreign=Yes	8	flat:foreign	_	Lang=en
 10	and	and	X	_	Foreign=Yes	8	flat:foreign	_	Lang=en
 11	John	John	X	_	Foreign=Yes	8	flat:foreign	_	Lang=en|SpaceAfter=No
@@ -72,7 +72,7 @@ The following 4 pairs of parts of speech are connected with `flat:foreign`: <tt>
 25	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
 26	son	son	NOUN	_	Gender=Masc|Number=Sing	23	obl:arg	_	_
 27	de	de	ADP	_	_	28	case	_	_
-28	Sketches	Sketches	X	_	Foreign=Yes	26	nmod	_	ExtPos=PROPN|Lang=en
+28	Sketches	Sketches	X	_	Foreign=Yes	26	nmod	_	Lang=en
 29	of	of	X	_	Foreign=Yes	28	flat:foreign	_	Lang=en
 30	Spain	Spain	X	_	Foreign=Yes	28	flat:foreign	_	Lang=en
 31	et	et	CCONJ	_	_	33	cc	_	_
@@ -104,7 +104,7 @@ The following 4 pairs of parts of speech are connected with `flat:foreign`: <tt>
 57	Miles	Miles	PROPN	_	_	55	obl:mod	_	SpaceAfter=No
 58	,	,	PUNCT	_	_	55	punct	_	_
 59	"	"	PUNCT	_	_	60	punct	_	SpaceAfter=No
-60	Theme	Theme	X	_	Foreign=Yes	50	appos	_	ExtPos=PROPN|Lang=en
+60	Theme	Theme	X	_	Foreign=Yes	50	appos	_	Lang=en
 61	for	for	X	_	Foreign=Yes	60	flat:foreign	_	Lang=en
 62	Augustine	Augustine	X	_	Foreign=Yes	60	flat:foreign	_	Lang=en|SpaceAfter=No
 63	/	/	SYM	_	_	62	dep	_	SpaceAfter=No
@@ -125,10 +125,10 @@ The following 4 pairs of parts of speech are connected with `flat:foreign`: <tt>
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 3 flat:foreign	color:blue
-1	Lilly	Lilly	X	_	Foreign=Yes	8	nsubj	_	ExtPos=PROPN|Lang=en
+1	Lilly	Lilly	X	_	Foreign=Yes	8	nsubj	_	Lang=en
 2	Wood	Wood	X	_	Foreign=Yes	1	flat:foreign	_	Lang=en
 3	&	&	SYM	_	_	1	flat:foreign	_	_
-4	The	The	X	_	Foreign=Yes	1	flat:foreign	_	ExtPos=PROPN|Lang=en
+4	The	The	X	_	Foreign=Yes	1	flat:foreign	_	Lang=en
 5	Prick	Prick	X	_	Foreign=Yes	1	flat:foreign	_	Lang=en
 6	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux:tense	_	_
 7	également	également	ADV	_	_	8	advmod	_	_

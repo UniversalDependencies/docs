@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-148 nodes (16%) are attached to their parents as `root`.
+152 nodes (16%) are attached to their parents as `root`.
 
-148 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.57432432432432.
+152 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.57236842105263.
 
-The following 6 pairs of parts of speech are connected with `root`: -<tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (129; 87% instances), -<tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (8; 5% instances), -<tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt> (4; 3% instances), -<tt><a href="apu_ufpa-pos-ADJ.html">ADJ</a></tt> (3; 2% instances), -<tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (3; 2% instances), -<tt><a href="apu_ufpa-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `root`: -<tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (132; 87% instances), -<tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (9; 6% instances), -<tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt> (4; 3% instances), -<tt><a href="apu_ufpa-pos-ADJ.html">ADJ</a></tt> (3; 2% instances), -<tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (3; 2% instances), -<tt><a href="apu_ufpa-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

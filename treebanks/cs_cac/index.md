@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Barbora Hladká, Daniel Zeman.
 
 Repository: [UD_Czech-CAC](https://github.com/UniversalDependencies/UD_Czech-CAC)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_cac212)<br />
-Download all treebanks: [UD 2.12](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_cac213)<br />
+Download all treebanks: [UD 2.13](/#download)
 
 License: CC BY-SA 4.0
 
@@ -107,7 +107,7 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
 
 ## Features
 
-[Abbr](cs_cac-feat-Abbr.html) – [AdpType](cs_cac-feat-AdpType.html) – [Animacy](cs_cac-feat-Animacy.html) – [Aspect](cs_cac-feat-Aspect.html) – [Case](cs_cac-feat-Case.html) – [ConjType](cs_cac-feat-ConjType.html) – [Degree](cs_cac-feat-Degree.html) – [Foreign](cs_cac-feat-Foreign.html) – [Gender](cs_cac-feat-Gender.html) – [Gender[psor]](cs_cac-feat-Gender-psor.html) – [Hyph](cs_cac-feat-Hyph.html) – [Mood](cs_cac-feat-Mood.html) – [NameType](cs_cac-feat-NameType.html) – [Number](cs_cac-feat-Number.html) – [Number[psor]](cs_cac-feat-Number-psor.html) – [NumForm](cs_cac-feat-NumForm.html) – [NumType](cs_cac-feat-NumType.html) – [NumValue](cs_cac-feat-NumValue.html) – [Person](cs_cac-feat-Person.html) – [Polarity](cs_cac-feat-Polarity.html) – [Poss](cs_cac-feat-Poss.html) – [PrepCase](cs_cac-feat-PrepCase.html) – [PronType](cs_cac-feat-PronType.html) – [Reflex](cs_cac-feat-Reflex.html) – [Style](cs_cac-feat-Style.html) – [Tense](cs_cac-feat-Tense.html) – [Variant](cs_cac-feat-Variant.html) – [VerbForm](cs_cac-feat-VerbForm.html) – [Voice](cs_cac-feat-Voice.html)
+[Abbr](cs_cac-feat-Abbr.html) – [AdpType](cs_cac-feat-AdpType.html) – [Animacy](cs_cac-feat-Animacy.html) – [Aspect](cs_cac-feat-Aspect.html) – [Case](cs_cac-feat-Case.html) – [ConjType](cs_cac-feat-ConjType.html) – [Degree](cs_cac-feat-Degree.html) – [Foreign](cs_cac-feat-Foreign.html) – [Gender](cs_cac-feat-Gender.html) – [Gender[psor]](cs_cac-feat-Gender-psor.html) – [Hyph](cs_cac-feat-Hyph.html) – [Mood](cs_cac-feat-Mood.html) – [NameType](cs_cac-feat-NameType.html) – [Number](cs_cac-feat-Number.html) – [Number[psor]](cs_cac-feat-Number-psor.html) – [NumForm](cs_cac-feat-NumForm.html) – [NumType](cs_cac-feat-NumType.html) – [Person](cs_cac-feat-Person.html) – [Polarity](cs_cac-feat-Polarity.html) – [Poss](cs_cac-feat-Poss.html) – [PrepCase](cs_cac-feat-PrepCase.html) – [PronType](cs_cac-feat-PronType.html) – [Reflex](cs_cac-feat-Reflex.html) – [Style](cs_cac-feat-Style.html) – [Tense](cs_cac-feat-Tense.html) – [Variant](cs_cac-feat-Variant.html) – [VerbForm](cs_cac-feat-VerbForm.html) – [Voice](cs_cac-feat-Voice.html)
 
 ## Relations
 
@@ -1254,36 +1254,8 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
 </ul>
 
 <ul>
-  <li><a>NumValue</a>
-    <ul>
-      <li>1
-        <ul>
-          <li>ADJ: jedněch, jedni, jedny</li>
-        </ul>
-      </li>
-      <li>1,2,3
-        <ul>
-          <li>NUM: dvou, jeden, dvě, tři, dva, obou, jedné, jednoho, jedním, dvěma</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
   <li><a>Style</a>
     <ul>
-      <li>Arch
-        <ul>
-          <li>ADV: dosti, dřív, nejdřív, tentokráte, blížeji, snáz, tenkráte</li>
-          <li>AUX-Fin: jest</li>
-          <li>AUX-Inf: býti</li>
-          <li>PRON: jej, kdož</li>
-          <li>PROPN: Alšovi</li>
-          <li>VERB-Conv: vyměně</li>
-          <li>VERB-Inf: dáti, míti, dodržeti, existovati, housti, hýbati, jeti, nalézti, nařizovati, obinúti</li>
-        </ul>
-      </li>
       <li>Coll
         <ul>
           <li>ADJ: Žídkova, Žídkových, dolarovej, drahej, druhej, fest, hodný, krásnejch, mluvený, mužský</li>
@@ -1392,29 +1364,29 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--NOUN-Gen (1)</li>
       <li>VERB-Conv--PRON-Acc (1)</li>
       <li>VERB-Fin--NOUN (3)</li>
-      <li>VERB-Fin--NOUN-Acc (5612)</li>
-      <li>VERB-Fin--NOUN-Gen (143)</li>
-      <li>VERB-Fin--NOUN-Nom (99)</li>
+      <li>VERB-Fin--NOUN-Acc (5644)</li>
+      <li>VERB-Fin--NOUN-Gen (149)</li>
+      <li>VERB-Fin--NOUN-Nom (102)</li>
       <li>VERB-Fin--PRON (18)</li>
-      <li>VERB-Fin--PRON-Acc (612)</li>
+      <li>VERB-Fin--PRON-Acc (631)</li>
       <li>VERB-Fin--PRON-Gen (4)</li>
       <li>VERB-Fin--PRON-Nom (6)</li>
       <li>VERB-Inf--NOUN (5)</li>
-      <li>VERB-Inf--NOUN-Acc (3542)</li>
+      <li>VERB-Inf--NOUN-Acc (3557)</li>
       <li>VERB-Inf--NOUN-Gen (34)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(z) (1)</li>
       <li>VERB-Inf--NOUN-Nom (27)</li>
       <li>VERB-Inf--PRON (6)</li>
-      <li>VERB-Inf--PRON-Acc (382)</li>
+      <li>VERB-Inf--PRON-Acc (385)</li>
       <li>VERB-Inf--PRON-Gen (2)</li>
       <li>VERB-Inf--PRON-Nom (1)</li>
       <li>VERB-Part--NOUN (20)</li>
-      <li>VERB-Part--NOUN-Acc (2792)</li>
-      <li>VERB-Part--NOUN-Gen (121)</li>
+      <li>VERB-Part--NOUN-Acc (2821)</li>
+      <li>VERB-Part--NOUN-Gen (124)</li>
       <li>VERB-Part--NOUN-Nom (17)</li>
-      <li>VERB-Part--PRON (14)</li>
-      <li>VERB-Part--PRON-Acc (372)</li>
-      <li>VERB-Part--PRON-Gen (4)</li>
+      <li>VERB-Part--PRON (16)</li>
+      <li>VERB-Part--PRON-Acc (384)</li>
+      <li>VERB-Part--PRON-Gen (5)</li>
       <li>VERB-Part--PRON-Nom (1)</li>
     </ul>
   </li>
@@ -1424,23 +1396,19 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>iobj</a>
     <ul>
       <li>VERB-Fin--NOUN (3)</li>
-      <li>VERB-Fin--NOUN-Acc (45)</li>
-      <li>VERB-Fin--NOUN-Gen (6)</li>
-      <li>VERB-Fin--NOUN-Nom (12)</li>
-      <li>VERB-Fin--PRON-Acc (27)</li>
+      <li>VERB-Fin--NOUN-Acc (13)</li>
+      <li>VERB-Fin--NOUN-Nom (9)</li>
+      <li>VERB-Fin--PRON-Acc (8)</li>
       <li>VERB-Fin--PRON-Nom (2)</li>
       <li>VERB-Inf--NOUN (2)</li>
-      <li>VERB-Inf--NOUN-Acc (20)</li>
+      <li>VERB-Inf--NOUN-Acc (5)</li>
       <li>VERB-Inf--NOUN-Gen (1)</li>
       <li>VERB-Inf--NOUN-Nom (3)</li>
-      <li>VERB-Inf--PRON-Acc (6)</li>
+      <li>VERB-Inf--PRON-Acc (3)</li>
       <li>VERB-Part--NOUN (1)</li>
-      <li>VERB-Part--NOUN-Acc (44)</li>
-      <li>VERB-Part--NOUN-Gen (3)</li>
+      <li>VERB-Part--NOUN-Acc (15)</li>
       <li>VERB-Part--NOUN-Nom (5)</li>
-      <li>VERB-Part--PRON (2)</li>
-      <li>VERB-Part--PRON-Acc (21)</li>
-      <li>VERB-Part--PRON-Gen (1)</li>
+      <li>VERB-Part--PRON-Acc (9)</li>
     </ul>
   </li>
 </ul>

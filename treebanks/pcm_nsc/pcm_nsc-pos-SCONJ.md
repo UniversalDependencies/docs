@@ -64,13 +64,13 @@ The 2nd highest number of forms (5) was observed with the lemma “make”: <em>
 
 The 3rd highest number of forms (4) was observed with the lemma “wheder”: <em>weder, wheda, wheder, whether</em>.
 
-`SCONJ` occurs with 5 features: <tt><a href="pcm_nsc-feat-Number.html">Number</a></tt> (40; 1% instances), <tt><a href="pcm_nsc-feat-PartType.html">PartType</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-feat-Case.html">Case</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-feat-Person.html">Person</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-feat-PronType.html">PronType</a></tt> (1; 0% instances)
+`SCONJ` occurs with 6 features: <tt><a href="pcm_nsc-feat-ExtPos.html">ExtPos</a></tt> (263; 5% instances), <tt><a href="pcm_nsc-feat-Number.html">Number</a></tt> (40; 1% instances), <tt><a href="pcm_nsc-feat-PartType.html">PartType</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-feat-Case.html">Case</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-feat-Person.html">Person</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-feat-PronType.html">PronType</a></tt> (1; 0% instances)
 
-`SCONJ` occurs with 5 feature-value pairs: `Case=Nom`, `Number=Sing`, `PartType=Cop`, `Person=3`, `PronType=Prs`
+`SCONJ` occurs with 7 feature-value pairs: `Case=Nom`, `ExtPos=ADP`, `ExtPos=SCONJ`, `Number=Sing`, `PartType=Cop`, `Person=3`, `PronType=Prs`
 
-`SCONJ` occurs with 4 feature combinations.
-The most frequent feature combination is `_` (4889 tokens).
-Examples: <em>sey, wey, if, because, make, so, wen, dat, meh, take</em>
+`SCONJ` occurs with 6 feature combinations.
+The most frequent feature combination is `_` (4626 tokens).
+Examples: <em>sey, wey, if, because, make, wen, dat, meh, so, take</em>
 
 
 ## Relations

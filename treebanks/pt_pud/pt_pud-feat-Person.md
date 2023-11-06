@@ -58,7 +58,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 5 <tt><a href="pt_pud-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="pt_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4; 80%), <tt><a href="pt_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt> (4; 80%), <tt><a href="pt_pud-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (4; 80%).
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="pt_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (4; 80%), <tt><a href="pt_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4; 80%), <tt><a href="pt_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt> (4; 80%), <tt><a href="pt_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (4; 80%).
 
 `DET` tokens may have the following values of `Person`:
 
@@ -72,7 +72,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 `ADP` tokens may have the following values of `Person`:
 
 * `3` (1; 100% of non-empty `Person`): <em>consigo</em>
-* `EMPTY` (3818): <em>de, em, a, para, por, com, como, que, durante, entre</em>
+* `EMPTY` (3816): <em>de, em, a, para, por, com, como, que, durante, entre</em>
 
 ### `PROPN`
 

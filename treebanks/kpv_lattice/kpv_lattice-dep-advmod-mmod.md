@@ -18,19 +18,21 @@ The following 5 pairs of parts of speech are connected with `advmod:mmod`: <tt><
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 advmod:mmod	color:blue
-1	Тэ	тэ	PRON	Pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
-2	кыдзи	кыдзи	ADV	Adv	PronType=Int	3	advmod:mmod	_	_
-3	мӧвпалан	мӧвпавны	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres	0	root	_	SpaceAfter=No
-4	,	,	PUNCT	CLB	_	7	punct	_	_
-5	кор	кор	ADV	Adv	_	7	advmod:tmod	_	_
-6	верман	вермыны	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres	7	aux:pot	_	_
-7	волыны	волыны	VERB	V	VerbForm=Inf	3	advcl	_	SpaceAfter=No
-8	?	?	PUNCT	CLB	_	3	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 1 advmod:mmod	color:blue
+1	Сідз	сідз	ADV	Adv	_	4	advmod:mmod	_	_
+2	жӧ	жӧ	ADV	Adv	_	1	advmod:eval	_	OrigLang=ru
+3	колӧ	ковны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	aux:nec	_	_
+4	сетны	сетны	VERB	V	VerbForm=Inf	0	root	_	_
+5	ыджыд	ыджыд	ADJ	A	Case=Nom|Number=Sing	6	amod	_	_
+6	тӧдчанлун	тӧдчанлун	NOUN	N	Case=Nom|Number=Sing	4	nmod:obj	_	_
+7	вошӧмъяскӧд	вошӧм	NOUN	N	Case=Com|Number=Plur	8	obl	_	_
+8	тышкасьӧм	тышкасьны	VERB	V	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	4	obl	_	_
+9	вылӧ	вылын	ADP	Po	Case=Ill|Number=Sing	8	case	_	SpaceAfter=No
+10	.	.	PUNCT	CLB	_	4	punct	_	_
 
 ~~~
 

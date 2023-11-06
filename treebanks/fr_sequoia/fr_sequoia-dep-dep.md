@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `dep`: <tt><a href="fr_sequoia-dep-dep-comp.html">dep:comp</a></tt>.
 
-94 nodes (0%) are attached to their parents as `dep`.
+79 nodes (0%) are attached to their parents as `dep`.
 
-79 instances of `dep` (84%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.06382978723404.
+64 instances of `dep` (81%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.82278481012658.
 
-The following 18 pairs of parts of speech are connected with `dep`: <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (26; 28% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (14; 15% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (14; 15% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (5; 5% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (5; 5% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (5; 5% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (4; 4% instances), <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt>-<tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (4; 4% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (3; 3% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (3; 3% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-SYM.html">SYM</a></tt> (2; 2% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-SYM.html">SYM</a></tt> (2; 2% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 16 pairs of parts of speech are connected with `dep`: <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (26; 33% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (14; 18% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (5; 6% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (5; 6% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (5; 6% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (4; 5% instances), <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt>-<tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (4; 5% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (3; 4% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (3; 4% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-SYM.html">SYM</a></tt> (2; 3% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-SYM.html">SYM</a></tt> (2; 3% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -77,20 +77,27 @@ The following 18 pairs of parts of speech are connected with `dep`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 dep	color:blue
-1	-	-	PUNCT	_	_	6	punct	_	_
-2	13	13	NUM	_	NumType=Card	6	nummod	_	_
-3	octobre	octobre	NOUN	_	Gender=Masc|Number=Sing	2	dep	_	_
-4	2004	2004	NUM	_	NumType=Card	3	nmod	_	_
-5	:	:	PUNCT	_	_	6	punct	_	_
-6	Recours	recours	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
-7	en	en	ADP	_	_	8	case	_	_
-8	cassation	cassation	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	_
-9	rejeté	rejeter	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	6	acl	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 10 dep	color:blue
+1	Celle-ci	celui-ci	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Dem	12	nsubj	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	6	punct	_	_
+3	de	de	ADP	_	ExtPos=ADV	6	advmod	_	Idiom=Yes
+4	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	fixed	_	InIdiom=Yes
+5	moins	moins	ADV	_	_	3	fixed	_	InIdiom=Yes
+6	telle	tel	ADJ	_	Gender=Fem|Number=Sing	1	amod	_	_
+7	que	que	SCONJ	_	_	10	mark	_	_
+8	nous	nous	PRON	_	Number=Plur|Person=1|PronType=Prs	10	nsubj	_	_
+9	la	lui	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
+10	concevons	concevoir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	dep	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	6	punct	_	_
+12	doit	devoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+13	comporter	comporter	VERB	_	VerbForm=Inf	12	xcomp	_	Subject=SubjRaising
+14	deux	deux	NUM	_	NumType=Card	15	nummod	_	_
+15	éléments	élément	NOUN	_	Gender=Masc|Number=Plur	13	obj	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	12	punct	_	_
 
 ~~~
 

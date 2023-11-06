@@ -27,7 +27,7 @@ The following 20 pairs of parts of speech are connected with `nmod`: <tt><a href
 3	permitido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	_
 4	es	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	de	de	ADP	IN	_	7	case	_	_
-6	5 000	5 000	NUM	CD	Gender=Masc|NumType=Card	7	nummod	_	_
+6	5 000	5 000	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	7	nummod	_	_
 7	$	_	NOUN	NN	Gender=Masc|Number=Plur	4	obl	_	_
 8	por	por	ADP	IN	_	9	case	_	_
 9	persona	persona	NOUN	NN	Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
@@ -67,7 +67,7 @@ The following 20 pairs of parts of speech are connected with `nmod`: <tt><a href
 4	agosto	agosto	NOUN	NN	Gender=Masc|Number=Sing	2	nmod	_	_
 5	de	de	ADP	INDT	_	7	case	_	_
 6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
-7	2010	2010	NUM	CD	Gender=Masc|NumType=Card	2	nmod	_	_
+7	2010	2010	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	2	nmod	_	_
 8	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	hambruna	hambruna	NOUN	NN	Gender=Fem|Number=Sing	11	nsubj	_	_
 10	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	11	compound:prt	_	_

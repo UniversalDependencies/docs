@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-33 nodes (0%) are attached to their parents as `dislocated`.
+43 nodes (0%) are attached to their parents as `dislocated`.
 
-17 instances of `dislocated` (52%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.18181818181818.
+24 instances of `dislocated` (56%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.46511627906977.
 
-The following 8 pairs of parts of speech are connected with `dislocated`: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (16; 48% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (7; 21% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (4; 12% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (2; 6% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt> (1; 3% instances).
+The following 11 pairs of parts of speech are connected with `dislocated`: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (18; 42% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (11; 26% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (4; 9% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (2; 5% instances), <tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (2; 5% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 8 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 2 dislocated	color:blue
-1	Nhaã	nhaã	DET	DEM	Number=Sing|PronType=Dem	2	det	_	TokenRange=0:4
+1	Nhaã	nhaã	DET	DEMS	Deixis=Remt|Number=Sing|PronType=Dem	2	det	_	TokenRange=0:4
 2	yawara	yawara	NOUN	N	Number=Sing	5	dislocated	_	SpaceAfter=No|TokenRange=5:11
 3	,	,	PUNCT	PUNCT	_	2	punct	_	TokenRange=11:12
 4	aé	aé	PRON	PRON	Number=Sing|Person=3|PronType=Prs	5	nsubj	_	TokenRange=13:15
@@ -34,23 +34,21 @@ The following 8 pairs of parts of speech are connected with `dislocated`: <tt><a
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 1 dislocated	color:blue
-1	Ixé	ixé	PRON	PRON	Number=Sing|Person=1|PronType=Prs	4	dislocated	_	TokenRange=0:3
-2	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	_	TokenRange=4:6
-3	yuwá	yuwá	NOUN	N	Number=Sing	4	nsubj	_	TokenRange=7:11
-4	sasí	sasí	VERB	V3	Number=Sing|Person=3|Rel=NCont|VerbForm=Fin	0	root	_	TokenRange=12:16
-5	uikú	ikú	AUX	AUXFS	Person=3|VerbForm=Fin	4	aux	_	SpaceAfter=No|TokenRange=17:21
-6	,	,	PUNCT	PUNCT	_	8	punct	_	TokenRange=21:22
-7	ti	ti	PART	NEG	PartType=Neg|Polarity=Neg	8	advmod	_	TokenRange=23:25
-8	akwáu	kwáu	VERB	V	Number=Sing|Person=1|VerbForm=Fin	4	parataxis	_	TokenRange=26:31
-9	sa	sa	SCONJ	SCONJR	_	10	mark	_	TokenRange=32:34
-10	uyupuruka	yupuruka	VERB	V	Person=3|VerbForm=Fin	8	ccomp	_	TokenRange=35:44
-11	uikú	ikú	AUX	AUXFS	Person=3|VerbForm=Fin	10	aux	_	SpaceAfter=No|TokenRange=45:49
-12	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=49:50
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 3 dislocated	color:blue
+1	―	―	PUNCT	PUNCT	_	7	punct	_	TokenRange=-1:0
+2	Asuí	asuí	CCONJ	CCONJ	_	3	cc	_	TokenRange=1:5
+3	indé	indé	PRON	PRON	Number=Sing|Person=2|PronType=Prs	7	dislocated	_	SpaceAfter=No|TokenRange=6:10
+4	,	,	PUNCT	PUNCT	_	3	punct	_	TokenRange=10:11
+5	mayé	mayé	ADV	ADVRA	AdvType=Man|PronType=Int	7	advmod	_	_
+6	taá	taá	PART	CQ	Clitic=Yes|PartType=Int	7	advmod	_	_
+7	uyukwá	yukwá	VERB	V	Person=3|VerbForm=Fin	0	root	_	TokenRange=22:28
+8	ne	ne	PRON	PRON2	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	9	nmod:poss	_	TokenRange=29:31
+9	awa	awa	NOUN	N	Number=Sing	7	nsubj	_	SpaceAfter=No|TokenRange=32:35
+10	?	?	PUNCT	PUNCT	_	7	punct	_	SpaceAfter=No|TokenRange=35:36
 
 ~~~
 

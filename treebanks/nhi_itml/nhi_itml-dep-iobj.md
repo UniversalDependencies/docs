@@ -67,13 +67,13 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 6	kkajkaua	kajkaua	VERB	_	_	2	ccomp	2:ccomp	NormalizedForm=kkahkawa|NormalizedLemma=kahkawa
 7	se	se	DET	_	_	9	det	9:det	Orig=se|NormalizedForm=se|NormalizedLemma=se
 8	n	nakin	DET	_	_	9	det	9:det	Orig=nakin|NormalizedForm=n|NormalizedLemma=nakin
-9	akin	_	PRON	_	_	6	obj	6:obj	NormalizedForm=akin|NormalizedLemma=_
+9	akin	akin	PRON	_	_	6	obj	6:obj	NormalizedForm=akin|NormalizedLemma=_
 10	tzakwtok	tzakwtok	ADJ	_	_	9	amod	9:amod	Orig=tzakwtok,|SpaceAfter=No|NormalizedForm=tsakwtok|NormalizedLemma=tsakwtok
 11	,	,	PUNCT	_	_	15	punct	15:punct	Orig=,|Gloss=,|Morf=,|NormalizedForm=,|NormalizedLemma=,
 12	ojkon	ohkon	ADV	_	_	15	advmod	15:advmod	Orig=ojkon|NormalizedForm=ohkon|NormalizedLemma=ohkon
 13	ken	ken	ADV	_	_	14	advmod	14:advmod	Orig=ken|NormalizedForm=ken|NormalizedLemma=ken
 14	nochipa	nochipa	ADV	_	_	15	advmod	15:advmod	Orig=nochipa|NormalizedForm=nochipa|NormalizedLemma=nochipa
-15	walchiwtiwitz	chiwa	VERB	_	_	6	advcl	6:advcl	Orig=walchiwtiwitz|SpaceAfter=No|NormalizedForm=walchiwtiwits|NormalizedLemma=chiwa
+15	walchiwtiwitz	chiwa	VERB	_	Movement=Ven|Number[subj]=Sing|Person[subj]=3|Subcat=Tran	6	advcl	6:advcl	Orig=walchiwtiwitz|SpaceAfter=No|NormalizedForm=walchiwtiwits|NormalizedLemma=chiwa
 16	.	.	PUNCT	_	_	2	punct	2:punct	Orig=.|NormalizedForm=.|NormalizedLemma=.
 
 ~~~

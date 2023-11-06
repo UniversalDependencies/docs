@@ -20,7 +20,7 @@ The 10 most frequent ambiguous types:  <em>y</em> (<tt><a href="es_ancora-pos-CC
 
 * <em>y</em>
   * <tt><a href="es_ancora-pos-CCONJ.html">CCONJ</a></tt> 11419: <em>Y tú con tus caras <b>y</b> tus nombres , nos dejaste tutear te .</em>
-  * <tt><a href="es_ancora-pos-ADP.html">ADP</a></tt> 1: <em>Así , Endesa calcula que este año la demanda en Catalunya crecerá entre un 5 <b>y</b> 6% .</em>
+  * <tt><a href="es_ancora-pos-ADP.html">ADP</a></tt> 1: <em>Así , Endesa calcula que este año la demanda en Catalunya crecerá entre un 5 <b>y</b> 6 % .</em>
 * <em>pero</em>
   * <tt><a href="es_ancora-pos-CCONJ.html">CCONJ</a></tt> 938: <em>No pudiste , <b>pero</b> nos dio igual .</em>
   * <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> 1: <em>Tenemos ya los gérmenes que han destruido países , los han ensangrentado o los han hundido en la oscuridad de la dictadura " , afirma Mohamed A el Gahs , para justificar esta monarquía ilustrada que va a imponer a los marroquís el sistema Todo por el pueblo , <b>pero</b> sin el pueblo .</em>
@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>y</em> (<tt><a href="es_ancora-pos-CC
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.503245).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.505634).
 
 The 1st highest number of forms (1) was observed with the lemma “E”: <em>E</em>.
 
@@ -75,9 +75,9 @@ Examples: <em>y, pero, o, e, ni, sino, mientras, i, u, bien</em>
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 13 different relations: <tt><a href="es_ancora-dep-cc.html">cc</a></tt> (14221; 94% instances), <tt><a href="es_ancora-dep-advmod.html">advmod</a></tt> (641; 4% instances), <tt><a href="es_ancora-dep-root.html">root</a></tt> (130; 1% instances), <tt><a href="es_ancora-dep-fixed.html">fixed</a></tt> (45; 0% instances), <tt><a href="es_ancora-dep-mark.html">mark</a></tt> (26; 0% instances), <tt><a href="es_ancora-dep-compound.html">compound</a></tt> (16; 0% instances), <tt><a href="es_ancora-dep-conj.html">conj</a></tt> (9; 0% instances), <tt><a href="es_ancora-dep-flat.html">flat</a></tt> (8; 0% instances), <tt><a href="es_ancora-dep-appos.html">appos</a></tt> (3; 0% instances), <tt><a href="es_ancora-dep-nmod.html">nmod</a></tt> (2; 0% instances), <tt><a href="es_ancora-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="es_ancora-dep-obl-arg.html">obl:arg</a></tt> (1; 0% instances), <tt><a href="es_ancora-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
+`CCONJ` nodes are attached to their parents using 13 different relations: <tt><a href="es_ancora-dep-cc.html">cc</a></tt> (14499; 96% instances), <tt><a href="es_ancora-dep-advmod.html">advmod</a></tt> (363; 2% instances), <tt><a href="es_ancora-dep-root.html">root</a></tt> (130; 1% instances), <tt><a href="es_ancora-dep-fixed.html">fixed</a></tt> (45; 0% instances), <tt><a href="es_ancora-dep-mark.html">mark</a></tt> (26; 0% instances), <tt><a href="es_ancora-dep-compound.html">compound</a></tt> (16; 0% instances), <tt><a href="es_ancora-dep-conj.html">conj</a></tt> (9; 0% instances), <tt><a href="es_ancora-dep-flat.html">flat</a></tt> (8; 0% instances), <tt><a href="es_ancora-dep-appos.html">appos</a></tt> (3; 0% instances), <tt><a href="es_ancora-dep-nmod.html">nmod</a></tt> (2; 0% instances), <tt><a href="es_ancora-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="es_ancora-dep-obl-arg.html">obl:arg</a></tt> (1; 0% instances), <tt><a href="es_ancora-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 15 different parts of speech: <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (5502; 36% instances), <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (5054; 33% instances), <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt> (1840; 12% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (1535; 10% instances), <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (288; 2% instances), <tt><a href="es_ancora-pos-ADV.html">ADV</a></tt> (271; 2% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (205; 1% instances),  (130; 1% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (114; 1% instances), <tt><a href="es_ancora-pos-ADP.html">ADP</a></tt> (67; 0% instances), <tt><a href="es_ancora-pos-DET.html">DET</a></tt> (62; 0% instances), <tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> (18; 0% instances), <tt><a href="es_ancora-pos-CCONJ.html">CCONJ</a></tt> (14; 0% instances), <tt><a href="es_ancora-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="es_ancora-pos-PART.html">PART</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 15 different parts of speech: <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (5499; 36% instances), <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (5052; 33% instances), <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt> (1840; 12% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (1535; 10% instances), <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (292; 2% instances), <tt><a href="es_ancora-pos-ADV.html">ADV</a></tt> (271; 2% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (205; 1% instances),  (130; 1% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (114; 1% instances), <tt><a href="es_ancora-pos-ADP.html">ADP</a></tt> (67; 0% instances), <tt><a href="es_ancora-pos-DET.html">DET</a></tt> (63; 0% instances), <tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> (18; 0% instances), <tt><a href="es_ancora-pos-CCONJ.html">CCONJ</a></tt> (14; 0% instances), <tt><a href="es_ancora-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="es_ancora-pos-PART.html">PART</a></tt> (1; 0% instances)
 
 14765 (98%) `CCONJ` nodes are leaves.
 

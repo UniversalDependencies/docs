@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  <em>primo</em> (<tt><a href="it_vit-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.621223 (the average of all parts of speech is 1.501634).
+The form / lemma ratio of `ADJ` is 1.621223 (the average of all parts of speech is 1.501662).
 
 The 1st highest number of forms (8) was observed with the lemma “bello”: <em>bei, bel, bella, belle, belli, bellissima, bellissime, bello</em>.
 

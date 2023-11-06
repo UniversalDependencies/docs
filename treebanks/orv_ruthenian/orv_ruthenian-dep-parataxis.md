@@ -8,104 +8,68 @@ udver: '2'
 
 This relation is universal.
 
-35 nodes (0%) are attached to their parents as `parataxis`.
+429 nodes (0%) are attached to their parents as `parataxis`.
 
-19 instances of `parataxis` (54%) are right-to-left (child precedes parent).
-Average distance between parent and child is 11.2285714285714.
+242 instances of `parataxis` (56%) are right-to-left (child precedes parent).
+Average distance between parent and child is 11.3100233100233.
 
-The following 14 pairs of parts of speech are connected with `parataxis`: <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (9; 26% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (5; 14% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (5; 14% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-SYM.html">SYM</a></tt> (3; 9% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (3; 9% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (2; 6% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-SYM.html">SYM</a></tt> (1; 3% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt> (1; 3% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-SYM.html">SYM</a></tt> (1; 3% instances).
+The following 29 pairs of parts of speech are connected with `parataxis`: <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-SYM.html">SYM</a></tt> (135; 31% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (87; 20% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (53; 12% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (28; 7% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (28; 7% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (15; 3% instances), <tt><a href="orv_ruthenian-pos-INTJ.html">INTJ</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (12; 3% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (11; 3% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> (10; 2% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (9; 2% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (9; 2% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-SYM.html">SYM</a></tt> (5; 1% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_ruthenian-pos-SYM.html">SYM</a></tt> (4; 1% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-SYM.html">SYM</a></tt> (3; 1% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_ruthenian-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 1 parataxis	color:blue
-1	[9.]	9	NUM	_	NumForm=Digit|NumType=Card	3	parataxis	_	_
-2	А	а	CCONJ	_	_	3	cc	_	wf="А"
-3	вѣсти	вѣсити	VERB	_	VerbForm=Inf|Voice=Act	0	root	_	wf="вѣсти"
-4	чистыи	чистый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	wf="чистыи"
-5	воскъ	воскъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	wf="воскъ"
-6	безъ	безъ	ADP	_	_	7	case	_	wf="безъ"
-7	подъсады	подсада	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	3	obl	_	wf="подъсады"|SpaceAfter=No
-8	,	,	PUNCT	_	_	10	punct	_	_
-9	безъ	безъ	ADP	_	_	10	case	_	wf="безъ"
-10	смолы	смола	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	7	conj	_	wf="смолы"|SpaceAfter=No
-11	,	,	PUNCT	_	_	13	punct	_	_
-12	безъ	безъ	ADP	_	_	13	case	_	wf="безъ"
-13	сала	сало	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	7	conj	_	wf="сала"|SpaceAfter=No
-14	,	,	PUNCT	_	_	15	punct	_	_
-15	какъ	какъ	ADV	_	Degree=Pos	19	advmod	_	wf="какъ"
-16	вѣрхъ	верхъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	wf="вѣрхъ"|SpaceAfter=No
-17	,	,	PUNCT	_	_	19	punct	_	_
-18	тако	тако	ADV	_	Degree=Pos	19	advmod	_	wf="тако"
-19	исподъ	исподъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	conj	_	wf="исподъ"|SpaceAfter=No
-20	.	.	PUNCT	_	_	3	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 parataxis	color:blue
+1	+	+	SYM	SYM	_	2	parataxis	_	_
+2	Дѣтем	детя	NOUN	NNA	Case=Dat|Gender=Neut|Number=Plur	0	root	_	wf="Дѣтем"
+3	нашим	нашъ	DET	PRP$	Case=Dat|Gender=Neut|Number=Plur|Poss=Yes|PronType=Prs	2	det	_	wf="нашим"
+4	ратманом	ратманъ	NOUN	NNA	Case=Dat|Gender=Masc|Number=Plur	2	appos	_	wf="ратманом"
+5	рижьскым	рижский	ADJ	JJL	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	4	amod	_	wf="рижьскым"
+6	всѣмъ	весь	DET	DT	Case=Dat|Gender=Masc|Number=Plur|PronType=Tot	4	det	_	wf="всѣмъ"
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 15 parataxis	color:blue
-1	И	и	CCONJ	_	_	7	cc	_	wf="И"
-2	нынеча	нынѣча	ADV	_	Degree=Pos	7	advmod	_	wf="нынеча"
-3	намъ	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	7	iobj	_	wf="намъ"
-4	на	на	ADP	_	_	5	case	_	wf="на"
-5	вас	вы	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	7	nmod	_	wf="вас"
-6	боле	боле	ADV	_	Degree=Cmp	7	advmod	_	wf="боле"
-7	жалоба	жалоба	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	wf="жалоба"|SpaceAfter=No
-8	:	:	PUNCT	_	_	15	punct	_	_
-9	въ	въ	ADP	_	_	11	case	_	wf="въ"
-10	ваших	вашъ	DET	_	Case=Loc|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	11	det	_	wf="ваших"
-11	вѣсѣхъ	вѣсъ	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	15	obl	_	wf="вѣсѣхъ"
-12	у	у	ADP	_	_	14	case	_	wf="у"
-13	берьковьска	берковескъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	15	obl	_	wf="берьковьска"
-14	полупуда	полпуда	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	15	nsubj	_	wf="полупуда"
-15	нѣтъ	нѣтъ	VERB	_	Polarity=Neg	7	parataxis	_	wf="нѣтъ"|SpaceAfter=No
-16	,	,	PUNCT	_	_	21	punct	_	_
-17	а	а	CCONJ	_	_	21	cc	_	wf="а"
-18	въ	въ	ADP	_	_	20	case	_	wf="въ"
-19	серебреных	серебряный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Plur	20	amod	_	wf="серебреных"
-20	вѣсѣхъ	вѣсъ	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	21	orphan	_	wf="вѣсѣхъ"
-21	полузолотьника	ползолотника	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	15	conj	_	wf="полузолотьника"|SpaceAfter=No
-22	.	.	PUNCT	_	_	7	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 5 parataxis	color:blue
+1	Ени	они	PRON	PRP	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	wf="Ени"
+2	молвѧть	молвити	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	wf="молвѧть"|SpaceAfter=No
+3	:	:	PUNCT	-COLON-	_	5	punct	_	_
+4	«	«	PUNCT	-QUOT-	_	5	punct	_	SpaceAfter=No
+5	Даи	дати	VERB	VBC	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	2	parataxis	_	wf="Даи"
+6	емоу	онъ	PRON	PRP	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	iobj	_	wf="емоу"|SpaceAfter=No
+7	,	,	PUNCT	-COMMA-	_	5	punct	_	_
+8	емоу	онъ	PRON	PRP	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	iobj	_	wf="емоу"
+9	тотъ	тотъ	DET	DT	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	10	det	_	wf="тотъ"
+10	товаръ	товаръ	NOUN	NNI	Case=Acc|Gender=Masc|Number=Sing	11	obj	_	wf="товаръ"
+11	приходить	приходити	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	advcl	_	wf="приходить"|SpaceAfter=No
+12	»	»	PUNCT	-QUOT-	_	11	punct	_	_
+13	.	.	PUNCT	-PERIOD-	_	2	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 18	bgColor:blue
-# visual-style 18	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 18 parataxis	color:blue
-1	Потом	потомъ	ADV	_	Degree=Pos	12	advmod	_	wf="Потом"|SpaceAfter=No
-2	,	,	PUNCT	_	_	6	punct	_	_
-3	аще	аще	SCONJ	_	_	6	mark	_	wf="аще"
-4	которы	который	DET	_	Case=Acc|Gender=Masc|Number=Plur|PronType=Rel	5	det	_	wf="которы"
-5	немьчинъ	нѣмчинъ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	6	nsubj	_	wf="немьчинъ"
-6	извинитьсѧ	извинитися	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	18	advcl	_	wf="извинитьсѧ"
-7	оу	въ	ADP	_	_	8	case	_	wf="оу"
-8	Полочьсце	Полоцкъ	PROPN	_	Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	6	obl	_	wf="Полочьсце"|SpaceAfter=No
-9	,	,	PUNCT	_	_	6	punct	_	_
-10	того	тотъ	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	11	det	_	wf="того"
-11	немьчина	нѣмчинъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	12	obj	_	wf="немьчина"
-12	ѡттослати	отослати	VERB	_	VerbForm=Inf|Voice=Act	0	root	_	wf="ѡттослати"
-13	оу	въ	ADP	_	_	14	case	_	wf="оу"
-14	Ригу	Рига	PROPN	_	Case=Acc|Gender=Fem|NameType=Geo|Number=Sing	12	obl	_	wf="Ригу"|SpaceAfter=No
-15	;	;	PUNCT	_	_	18	punct	_	_
-16	ратьмане	ратманъ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	18	nsubj	_	wf="ратьмане"
-17	его	онъ	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	det	_	wf="его"
-18	судѧт(ь)	судити	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	parataxis	_	wf="судѧть"
-19	по	по	ADP	_	_	21	case	_	wf="по"
-20	своеи	свой	DET	_	Case=Dat|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	21	det	_	wf="своеи"
-21	правде	правда	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	18	obl	_	wf="правде"|SpaceAfter=No
-22	.	.	PUNCT	_	_	12	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 1 parataxis	color:blue
+1	[6.]	6	NUM	CD	Case=Nom|NumForm=Digit|NumType=Card	8	parataxis	_	_
+2	А	а	CCONJ	СС	_	8	cc	_	wf="А"
+3	въ	въ	ADP	IN	_	4	case	_	wf="въ"
+4	кꙋпленины	купленина	NOUN	NNI	Case=Acc|Gender=Fem|Number=Plur	8	obl	_	wf="кꙋпленины"
+5	намъ	мы	PRON	PRP	Case=Dat|Number=Plur|Person=1|PronType=Prs	8	iobj	_	wf="намъ"
+6	полоцкии	полоцкий	ADJ	JJL	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	4	amod	_	wf="полоцкии"
+7	не	не	PART	NEG	Polarity=Neg	8	advmod	_	wf="не"
+8	въступатисѧ	вступатися	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Mid	0	root	_	wf="въступатисѧ"|SpaceAfter=No
+9	.	.	PUNCT	-PERIOD-	_	8	punct	_	_
 
 ~~~
 

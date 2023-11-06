@@ -11,7 +11,7 @@ It occurs with 1 different values: `Relat`.
 
 166 tokens (2%) have a non-empty value of `NounType`.
 16 types (1%) occur at least once with a non-empty value of `NounType`.
-12 lemmas (1%) occur at least once with a non-empty value of `NounType`.
+11 lemmas (1%) occur at least once with a non-empty value of `NounType`.
 The feature is used with 1 part-of-speech tags: <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (166; 2% instances).
 
 ### `NOUN`
@@ -24,7 +24,7 @@ The most frequent other feature values with which `NOUN` and `NounType` co-occur
 
 * `Relat` (166; 100% of non-empty `NounType`): <em>ich, itich, ica, ika, iwah, iuan, tohuan, inacasco, itlampa, iwan</em>
 
-`NounType` seems to be **lexical feature** of `NOUN`. 100% lemmas (12) occur only with one value of `NounType`.
+`NounType` seems to be **lexical feature** of `NOUN`. 100% lemmas (11) occur only with one value of `NounType`.
 
 ## Relations with Agreement in `NounType`
 

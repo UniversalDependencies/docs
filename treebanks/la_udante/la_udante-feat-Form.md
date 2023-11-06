@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Emp`.
 
-990 tokens (2%) have a non-empty value of `Form`.
-97 types (1%) occur at least once with a non-empty value of `Form`.
-40 lemmas (1%) occur at least once with a non-empty value of `Form`.
-The feature is used with 6 part-of-speech tags: <tt><a href="la_udante-pos-DET.html">DET</a></tt> (398; 1% instances), <tt><a href="la_udante-pos-PART.html">PART</a></tt> (255; 0% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (153; 0% instances), <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> (118; 0% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (39; 0% instances), <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (27; 0% instances).
+994 tokens (2%) have a non-empty value of `Form`.
+101 types (1%) occur at least once with a non-empty value of `Form`.
+42 lemmas (1%) occur at least once with a non-empty value of `Form`.
+The feature is used with 6 part-of-speech tags: <tt><a href="la_udante-pos-DET.html">DET</a></tt> (398; 1% instances), <tt><a href="la_udante-pos-PART.html">PART</a></tt> (255; 0% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (153; 0% instances), <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> (118; 0% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (43; 0% instances), <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (27; 0% instances).
 
 ### `DET`
 
@@ -38,7 +38,7 @@ The most frequent other feature values with which `PART` and `Form` co-occurred:
 
 153 <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> tokens (5% of all `ADV` tokens) have a non-empty value of `Form`.
 
-The most frequent other feature values with which `ADV` and `Form` co-occurred: <tt><a href="la_udante-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (147; 96%), <tt><a href="la_udante-feat-Compound.html">Compound</a></tt><tt>=EMPTY</tt> (146; 95%), <tt><a href="la_udante-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (104; 68%).
+The most frequent other feature values with which `ADV` and `Form` co-occurred: <tt><a href="la_udante-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (147; 96%), <tt><a href="la_udante-feat-Compound.html">Compound</a></tt><tt>=EMPTY</tt> (146; 95%), <tt><a href="la_udante-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (89; 58%).
 
 `ADV` tokens may have the following values of `Form`:
 
@@ -56,13 +56,13 @@ The most frequent other feature values with which `ADV` and `Form` co-occurred: 
 
 ### `PRON`
 
-39 <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Form`.
+43 <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> tokens (2% of all `PRON` tokens) have a non-empty value of `Form`.
 
-The most frequent other feature values with which `PRON` and `Form` co-occurred: <tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt> (37; 95%), <tt><a href="la_udante-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (37; 95%), <tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=Rel</tt> (37; 95%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (36; 92%), <tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (33; 85%), <tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=Nom</tt> (23; 59%).
+The most frequent other feature values with which `PRON` and `Form` co-occurred: <tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt> (37; 86%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (37; 86%), <tt><a href="la_udante-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (37; 86%), <tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=Rel</tt> (37; 86%), <tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (33; 77%), <tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=Nom</tt> (23; 53%).
 
 `PRON` tokens may have the following values of `Form`:
 
-* `Emp` (39; 100% of non-empty `Form`): <em>quicquid, quicunque, quisquis, sese, cuiuscunque</em>
+* `Emp` (43; 100% of non-empty `Form`): <em>quicquid, quicunque, quisquis, sese, vosmet, cuiuscunque, memet, suimet</em>
 
 ### `SCONJ`
 

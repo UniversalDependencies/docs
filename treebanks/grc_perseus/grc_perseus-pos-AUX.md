@@ -69,9 +69,9 @@ Examples: <em>ἐστὶ, ἐστι, ἐστιν, ἐστὶν, ἐστί, ἔσ
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 2 different relations: <tt><a href="grc_perseus-dep-cop.html">cop</a></tt> (1864; 99% instances), <tt><a href="grc_perseus-dep-aux.html">aux</a></tt> (11; 1% instances)
+`AUX` nodes are attached to their parents using 3 different relations: <tt><a href="grc_perseus-dep-cop.html">cop</a></tt> (1863; 99% instances), <tt><a href="grc_perseus-dep-aux.html">aux</a></tt> (11; 1% instances), <tt><a href="grc_perseus-dep-conj.html">conj</a></tt> (1; 0% instances)
 
-Parents of `AUX` nodes belong to 8 different parts of speech: <tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt> (1017; 54% instances), <tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt> (527; 28% instances), <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (169; 9% instances), <tt><a href="grc_perseus-pos-PRON.html">PRON</a></tt> (117; 6% instances), <tt><a href="grc_perseus-pos-ADV.html">ADV</a></tt> (33; 2% instances), <tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt> (9; 0% instances), <tt><a href="grc_perseus-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="grc_perseus-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `AUX` nodes belong to 8 different parts of speech: <tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt> (1015; 54% instances), <tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt> (531; 28% instances), <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (168; 9% instances), <tt><a href="grc_perseus-pos-PRON.html">PRON</a></tt> (117; 6% instances), <tt><a href="grc_perseus-pos-ADV.html">ADV</a></tt> (33; 2% instances), <tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="grc_perseus-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="grc_perseus-pos-X.html">X</a></tt> (1; 0% instances)
 
 1863 (99%) `AUX` nodes are leaves.
 

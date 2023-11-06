@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  כך (<tt><a href="he_htb-pos-PRON.html">
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 2.521739 (the average of all parts of speech is 1.702647).
+The form / lemma ratio of `PRON` is 2.521739 (the average of all parts of speech is 1.702584).
 
 The 1st highest number of forms (19) was observed with the lemma “הוא”: _אנחנו, _אני, _את, _אתה, _אתם, _הוא, _היא, _הם, _הן, אנו, אנחנו, אני, את, אתה, אתם, הוא, היא, הם, הן.
 

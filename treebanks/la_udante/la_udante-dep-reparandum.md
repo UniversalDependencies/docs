@@ -41,10 +41,10 @@ The following 1 pairs of parts of speech are connected with `reparandum`: <tt><a
 17	,	,	PUNCT	Pu	_	21	punct	_	_
 18	que	qui	PRON	presfn	Case=Nom|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Rel	21	nsubj:outer	_	_
 19	est	sum	AUX	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	cop:outer	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
-20	esse	sum	AUX	va5fp	Aspect=Imp|VerbForm=Inf	21	cop	_	TraditionalTense=Praesens
+20	esse	sum	AUX	va5fp	Aspect=Imp|Tense=Pres|VerbForm=Inf	21	cop	_	TraditionalTense=Praesens
 21	deorsum	deorsum	ADV	r	AdvType=Loc|VerbForm=Part	15	acl:relcl	_	SpaceAfter=No
 22	,	,	PUNCT	Pu	_	15	punct	_	_
-23	inesse	insum	VERB	va5fp	Aspect=Imp|VerbForm=Inf|Voice=Act	10	csubj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+23	inesse	insum	VERB	va5fp	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Act	10	csubj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 24	aliam	alius	DET	dpfs1a	Case=Acc|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Con	25	det	_	_
 25	naturam	natura	NOUN	sfs1a	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|VerbForm=Part	23	nsubj	_	_
 26	per	per	ADP	e	_	27	case	_	_
@@ -57,7 +57,7 @@ The following 1 pairs of parts of speech are connected with `reparandum`: <tt><a
 33	ut	ut	SCONJ	r	PronType=Rel	35	reparandum	_	_
 34	scilicet	scilicet	CCONJ	r	Compound=Yes|VerbForm=Fin	35	cc	_	_
 35	pateretur	patior	VERB	vd3cis3	Aspect=Imp|InflClass=LatI2|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	28	conj:expl	_	TraditionalMood=Subiunctivus|TraditionalTense=Imperfectum
-36	elevari	eleuo	VERB	vp1fp	Aspect=Imp|VerbForm=Inf|Voice=Pass	35	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+36	elevari	eleuo	VERB	vp1fp	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Pass	35	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 37	in	in	ADP	e	_	38	case	_	_
 38	parte	pars	NOUN	sfs3b	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Sing	36	obl	_	_
 39	a	a	ADP	e	_	40	case	_	_
@@ -88,11 +88,11 @@ The following 1 pairs of parts of speech are connected with `reparandum`: <tt><a
 64	sensitivam	sensitiuus	ADJ	afs1a	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	65	amod	_	_
 65	affectionem	affectio	NOUN	sfs3a	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Sing	62	obl	_	SpaceAfter=No
 66	,	,	PUNCT	Pu	_	62	punct	_	_
-67	secundum	secundum	ADP	e	VerbForm=Part	71	mark	_	_
+67	secundum	secundum	ADP	e	VerbForm=Part	69	case	_	_
 68	tamen	tamen	ADV	r	Form=Emp|PronType=Dem	78	advmod	_	_
-69	quod	quod	SCONJ	presna	PronType=Rel	67	fixed	_	_
-70	rationi	ratio	NOUN	sfs3d	Case=Dat|Gender=Fem|InflClass=IndEurX|Number=Sing	71	obl	_	_
-71	obedibiles	obedibilis	ADJ	amp2n	Case=Nom|Gender=Fem|InflClass=IndEurI|Number=Plur	78	advcl	_	_
+69	quod	qui	PRON	presna	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Rel	71	obl	_	_
+70	rationi	ratio	NOUN	sfs3d	Case=Dat|Gender=Fem|InflClass=IndEurX|Number=Sing	71	obl:arg	_	_
+71	obedibiles	obedibilis	ADJ	amp2n	Case=Nom|Gender=Fem|InflClass=IndEurI|Number=Plur	78	advcl:relcl	_	_
 72	sunt	sum	AUX	va5ipp3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	71	cop	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 73	,	,	PUNCT	Pu	_	71	punct	_	_
 74	quandoque	quandoque	ADV	r	AdvType=Tim|Form=Emp|PronType=Rel	78	advmod:tmod	_	_

@@ -80,7 +80,7 @@ The 10 most frequent relations where parent and child node agree in `Voice`:
 <tt>VERB --[<tt><a href="la_perseus-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (268; 69%),
 <tt>VERB --[<tt><a href="la_perseus-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (229; 69%),
 <tt>VERB --[<tt><a href="la_perseus-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (76; 72%),
-<tt>VERB --[<tt><a href="la_perseus-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (38; 90%),
+<tt>VERB --[<tt><a href="la_perseus-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (37; 90%),
 <tt>VERB --[<tt><a href="la_perseus-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (35; 83%),
 <tt>VERB --[<tt><a href="la_perseus-dep-obl.html">obl</a></tt>]--> VERB</tt> (16; 55%),
 <tt>VERB --[<tt><a href="la_perseus-dep-advcl-cmp.html">advcl:cmp</a></tt>]--> VERB</tt> (10; 77%),

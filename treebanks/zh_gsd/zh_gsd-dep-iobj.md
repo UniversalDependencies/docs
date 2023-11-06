@@ -22,8 +22,8 @@ The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 20	bgColor:blue
 # visual-style 20	fgColor:white
 # visual-style 20 22 iobj	color:blue
-1	2009	2009	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=2009|LTranslit=2009
-2	年	年	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
+1	2009	2009	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=2009|LTranslit=2009
+2	年	年	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 3	5	5	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=5|LTranslit=5
 4	月	月	NOUN	NNB	_	9	nmod:tmod	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 5	，	，	PUNCT	,	_	4	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -61,7 +61,7 @@ The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href=
 4	了	了	AUX	AS	Aspect=Perf	3	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
 5	相當	相當	ADV	RB	_	6	advmod	_	SpaceAfter=No|Translit=xiāngdāng|LTranslit=xiāngdāng
 6	長	長	ADJ	JJ	_	8	amod	_	SpaceAfter=No|Translit=zhǎng|LTranslit=zhǎng
-7	的	的	PART	DEC	_	6	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
+7	的	的	SCONJ	DEC	_	6	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 8	時間	時間	NOUN	NN	_	3	obj	_	SpaceAfter=No|Translit=shíjiān|LTranslit=shíjiān
 9	詢問	詢問	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=xúnwèn|LTranslit=xúnwèn
 10	路濟亞	路濟亞	PROPN	NNP	_	9	iobj	_	SpaceAfter=No|Translit=lùjìyà|LTranslit=lùjìyà

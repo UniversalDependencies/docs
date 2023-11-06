@@ -14,7 +14,7 @@ There are also 1 other language-specific subtypes of `mark`: <tt><a href="zh_gsd
 93 instances of `mark:adv` (89%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.13461538461538.
 
-The following 4 pairs of parts of speech are connected with `mark:adv`: <tt><a href="zh_gsdsimp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_gsdsimp-pos-PART.html">PART</a></tt> (76; 73% instances), <tt><a href="zh_gsdsimp-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsdsimp-pos-PART.html">PART</a></tt> (22; 21% instances), <tt><a href="zh_gsdsimp-pos-ADV.html">ADV</a></tt>-<tt><a href="zh_gsdsimp-pos-PART.html">PART</a></tt> (5; 5% instances), <tt><a href="zh_gsdsimp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsdsimp-pos-PART.html">PART</a></tt> (1; 1% instances).
+The following 4 pairs of parts of speech are connected with `mark:adv`: <tt><a href="zh_gsdsimp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_gsdsimp-pos-SCONJ.html">SCONJ</a></tt> (76; 73% instances), <tt><a href="zh_gsdsimp-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsdsimp-pos-SCONJ.html">SCONJ</a></tt> (22; 21% instances), <tt><a href="zh_gsdsimp-pos-ADV.html">ADV</a></tt>-<tt><a href="zh_gsdsimp-pos-SCONJ.html">SCONJ</a></tt> (5; 5% instances), <tt><a href="zh_gsdsimp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsdsimp-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -37,9 +37,9 @@ The following 4 pairs of parts of speech are connected with `mark:adv`: <tt><a h
 12	的	的	PART	DEC	Case=Gen	11	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 13	事业	事业	NOUN	NN	_	18	obl	_	SpaceAfter=No|Translit=shìyè|LTranslit=shìyè
 14	上	上	ADP	IN	_	13	case	_	SpaceAfter=No|Translit=shàng|LTranslit=shàng
-15	也	也	ADV	RB	_	18	mark	_	SpaceAfter=No|Translit=yě|LTranslit=yě
+15	也	也	SCONJ	RB	_	18	mark	_	SpaceAfter=No|Translit=yě|LTranslit=yě
 16	极大	极大	ADJ	JJ	_	18	advmod	_	SpaceAfter=No|Translit=jídà|LTranslit=jídà
-17	地	地	PART	DEV	_	16	mark:adv	_	SpaceAfter=No|Translit=de|LTranslit=de
+17	地	地	SCONJ	DEV	_	16	mark:adv	_	SpaceAfter=No|Translit=de|LTranslit=de
 18	受到	受到	VERB	VV	_	8	parataxis	_	SpaceAfter=No|Translit=shòudào|LTranslit=shòudào
 19	李	李	PROPN	NNP	_	21	nmod	_	SpaceAfter=No|Translit=li|LTranslit=li
 20	小龙	小龙	PROPN	NNP	_	21	nmod	_	SpaceAfter=No|Translit=xiǎolóng|LTranslit=xiǎolóng
@@ -57,7 +57,7 @@ The following 4 pairs of parts of speech are connected with `mark:adv`: <tt><a h
 # visual-style 17	bgColor:blue
 # visual-style 17	fgColor:white
 # visual-style 17 16 mark:adv	color:blue
-1	所以	所以	ADV	RB	_	13	mark	_	SpaceAfter=No|Translit=suǒyǐ|LTranslit=suǒyǐ
+1	所以	所以	SCONJ	RB	_	13	mark	_	SpaceAfter=No|Translit=suǒyǐ|LTranslit=suǒyǐ
 2	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 3	有关	有关	ADP	IN	_	12	case	_	SpaceAfter=No|Translit=yǒuguān|LTranslit=yǒuguān
 4	成年	成年	VERB	VV	_	5	compound	_	SpaceAfter=No|Translit=chéngnián|LTranslit=chéngnián
@@ -72,7 +72,7 @@ The following 4 pairs of parts of speech are connected with `mark:adv`: <tt><a h
 13	开始	开始	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=kāishǐ|LTranslit=kāishǐ
 14	如	如	VERB	VV	_	17	advcl	_	SpaceAfter=No|Translit=rú|LTranslit=rú
 15	雨后春笋	雨后春笋	NOUN	NN	_	14	obj	_	SpaceAfter=No|Translit=yǔhòuchūn笋|LTranslit=yǔhòuchūn笋
-16	的	的	PART	DEV	_	17	mark:adv	_	SpaceAfter=No|Translit=de|LTranslit=de
+16	的	的	SCONJ	DEV	_	17	mark:adv	_	SpaceAfter=No|Translit=de|LTranslit=de
 17	发表	发表	VERB	VV	_	13	xcomp	_	SpaceAfter=No|Translit=fābiǎo|LTranslit=fābiǎo
 18	。	。	PUNCT	.	_	13	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
@@ -92,7 +92,7 @@ The following 4 pairs of parts of speech are connected with `mark:adv`: <tt><a h
 5	的	的	PART	DEC	Case=Gen	4	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 6	援助	援助	NOUN	NN	_	3	obj	_	SpaceAfter=No|Translit=yuánzhù|LTranslit=yuánzhù
 7	逐渐	逐渐	ADV	RB	_	9	advmod	_	SpaceAfter=No|Translit=zhújiàn|LTranslit=zhújiàn
-8	的	的	PART	DEV	_	7	mark:adv	_	SpaceAfter=No|Translit=de|LTranslit=de
+8	的	的	SCONJ	DEV	_	7	mark:adv	_	SpaceAfter=No|Translit=de|LTranslit=de
 9	得到	得到	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=dedào|LTranslit=dedào
 10	军服	军服	NOUN	NN	_	9	obj	_	SpaceAfter=No|Translit=jūnfú|LTranslit=jūnfú
 11	与	与	CCONJ	CC	_	12	cc	_	SpaceAfter=No|Translit=yǔ|LTranslit=yǔ

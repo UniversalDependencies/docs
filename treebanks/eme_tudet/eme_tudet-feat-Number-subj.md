@@ -11,16 +11,16 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="eme_tudet-feat-Number.html">Number</a></tt>, <tt><a href="eme_tudet-feat-Number-obj.html">Number[obj]</a></tt>, <tt><a href="eme_tudet-feat-Number-subj.html">Number[subj]</a></tt>.
 
-88 tokens (4%) have a non-empty value of `Number[subj]`.
-65 types (5%) occur at least once with a non-empty value of `Number[subj]`.
-55 lemmas (10%) occur at least once with a non-empty value of `Number[subj]`.
-The feature is used with 6 part-of-speech tags: <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt> (52; 2% instances), <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt> (21; 1% instances), <tt><a href="eme_tudet-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="eme_tudet-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="eme_tudet-pos-NUM.html">NUM</a></tt> (2; 0% instances).
+101 tokens (3%) have a non-empty value of `Number[subj]`.
+71 types (5%) occur at least once with a non-empty value of `Number[subj]`.
+59 lemmas (9%) occur at least once with a non-empty value of `Number[subj]`.
+The feature is used with 6 part-of-speech tags: <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt> (64; 2% instances), <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt> (21; 1% instances), <tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="eme_tudet-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="eme_tudet-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="eme_tudet-pos-NUM.html">NUM</a></tt> (2; 0% instances).
 
 ### `VERB`
 
-52 <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt> tokens (8% of all `VERB` tokens) have a non-empty value of `Number[subj]`.
+64 <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt> tokens (7% of all `VERB` tokens) have a non-empty value of `Number[subj]`.
 
-The most frequent other feature values with which `VERB` and `Number[subj]` co-occurred: <tt><a href="eme_tudet-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (52; 100%), <tt><a href="eme_tudet-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (50; 96%), <tt><a href="eme_tudet-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (49; 94%), <tt><a href="eme_tudet-feat-Person.html">Person</a></tt><tt>=3</tt> (44; 85%).
+The most frequent other feature values with which `VERB` and `Number[subj]` co-occurred: <tt><a href="eme_tudet-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (64; 100%), <tt><a href="eme_tudet-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (61; 95%), <tt><a href="eme_tudet-feat-Person.html">Person</a></tt><tt>=3</tt> (55; 86%).
 
 `VERB` tokens may have the following values of `Number[subj]`:
 
@@ -31,13 +31,13 @@ The most frequent other feature values with which `VERB` and `Number[subj]` co-o
   <tr><td><tt><tt><a href="eme_tudet-feat-Mood.html">Mood</a></tt><tt>=Per</tt>|<tt><a href="eme_tudet-feat-Number-obj.html">Number[obj]</a></tt><tt>=Sing</tt>|<tt><a href="eme_tudet-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="eme_tudet-feat-Person-obj.html">Person[obj]</a></tt><tt>=2</tt>|<tt><a href="eme_tudet-feat-Person-subj.html">Person[subj]</a></tt><tt>=1</tt></tt></td><td></td><td><em>toroʔu</em></td></tr>
 </table>
 
-`Number[subj]` seems to be **lexical feature** of `VERB`. 93% lemmas (28) occur only with one value of `Number[subj]`.
+`Number[subj]` seems to be **lexical feature** of `VERB`. 94% lemmas (32) occur only with one value of `Number[subj]`.
 
 ### `NOUN`
 
-21 <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt> tokens (3% of all `NOUN` tokens) have a non-empty value of `Number[subj]`.
+21 <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt> tokens (2% of all `NOUN` tokens) have a non-empty value of `Number[subj]`.
 
-The most frequent other feature values with which `NOUN` and `Number[subj]` co-occurred: <tt><a href="eme_tudet-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (21; 100%), <tt><a href="eme_tudet-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (20; 95%), <tt><a href="eme_tudet-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (15; 71%), <tt><a href="eme_tudet-feat-Rel.html">Rel</a></tt><tt>=EMPTY</tt> (13; 62%).
+The most frequent other feature values with which `NOUN` and `Number[subj]` co-occurred: <tt><a href="eme_tudet-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (21; 100%), <tt><a href="eme_tudet-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (20; 95%), <tt><a href="eme_tudet-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (15; 71%), <tt><a href="eme_tudet-feat-Rel.html">Rel</a></tt><tt>=EMPTY</tt> (14; 67%).
 
 `NOUN` tokens may have the following values of `Number[subj]`:
 
@@ -50,9 +50,16 @@ The most frequent other feature values with which `NOUN` and `Number[subj]` co-o
 
 `Number[subj]` seems to be **lexical feature** of `NOUN`. 94% lemmas (16) occur only with one value of `Number[subj]`.
 
+### `ADV`
+
+5 <tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> tokens (2% of all `ADV` tokens) have a non-empty value of `Number[subj]`.
+
+`ADV` tokens may have the following values of `Number[subj]`:
+
+
 ### `PART`
 
-5 <tt><a href="eme_tudet-pos-PART.html">PART</a></tt> tokens (18% of all `PART` tokens) have a non-empty value of `Number[subj]`.
+5 <tt><a href="eme_tudet-pos-PART.html">PART</a></tt> tokens (14% of all `PART` tokens) have a non-empty value of `Number[subj]`.
 
 The most frequent other feature values with which `PART` and `Number[subj]` co-occurred: <tt><a href="eme_tudet-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="eme_tudet-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="eme_tudet-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (5; 100%).
 
@@ -61,18 +68,11 @@ The most frequent other feature values with which `PART` and `Number[subj]` co-o
 
 ### `ADP`
 
-4 <tt><a href="eme_tudet-pos-ADP.html">ADP</a></tt> tokens (5% of all `ADP` tokens) have a non-empty value of `Number[subj]`.
+4 <tt><a href="eme_tudet-pos-ADP.html">ADP</a></tt> tokens (3% of all `ADP` tokens) have a non-empty value of `Number[subj]`.
 
 The most frequent other feature values with which `ADP` and `Number[subj]` co-occurred: <tt><a href="eme_tudet-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="eme_tudet-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="eme_tudet-feat-Rel.html">Rel</a></tt><tt>=NCont</tt> (4; 100%), <tt><a href="eme_tudet-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3; 75%).
 
 `ADP` tokens may have the following values of `Number[subj]`:
-
-
-### `ADV`
-
-4 <tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> tokens (2% of all `ADV` tokens) have a non-empty value of `Number[subj]`.
-
-`ADV` tokens may have the following values of `Number[subj]`:
 
 
 ### `NUM`

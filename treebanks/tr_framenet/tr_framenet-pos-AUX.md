@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 6.500000 (the average of all parts of speech is 1.741529).
+The form / lemma ratio of `AUX` is 6.500000 (the average of all parts of speech is 1.742503).
 
 The 1st highest number of forms (10) was observed with the lemma “mi”: <em>mi, mi?, misin, miydim, mu, musun, muydu, mü, mı, mı?</em>.
 
@@ -40,7 +40,7 @@ Examples: <em>mı, mu, mi, musun, mi?, misin, miydim, muydu, mü, mı?</em>
 
 `AUX` nodes are attached to their parents using 1 different relations: <tt><a href="tr_framenet-dep-aux.html">aux</a></tt> (28; 100% instances)
 
-Parents of `AUX` nodes belong to 5 different parts of speech: <tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt> (15; 54% instances), <tt><a href="tr_framenet-pos-ADJ.html">ADJ</a></tt> (6; 21% instances), <tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt> (3; 11% instances), <tt><a href="tr_framenet-pos-PRON.html">PRON</a></tt> (3; 11% instances), <tt><a href="tr_framenet-pos-ADV.html">ADV</a></tt> (1; 4% instances)
+Parents of `AUX` nodes belong to 5 different parts of speech: <tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt> (14; 50% instances), <tt><a href="tr_framenet-pos-ADJ.html">ADJ</a></tt> (7; 25% instances), <tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt> (3; 11% instances), <tt><a href="tr_framenet-pos-PRON.html">PRON</a></tt> (3; 11% instances), <tt><a href="tr_framenet-pos-ADV.html">ADV</a></tt> (1; 4% instances)
 
 28 (100%) `AUX` nodes are leaves.
 

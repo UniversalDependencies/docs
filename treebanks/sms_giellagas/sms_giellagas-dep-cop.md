@@ -17,18 +17,21 @@ The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 1 cop	color:blue
-1	Lij-a	leeʹd	AUX	V	Clitic=QstA|Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	cop	_	GTtags=IV,Ind,Prs,Sg3,Qst/a
-2	Iguazu	Iguazu	NOUN	N	Case=Nom|Number=Sing	6	nsubj	_	GTtags=Prop,Sg,Nom
-3	jõnn	jõnn	ADJ	A	_	6	amod	_	GTtags=Attr
-4	avi	avi	CCONJ	CC	_	5	cc	_	_
-5	uʹcc	uʹcc	ADJ	A	_	3	conj	_	GTtags=Attr
-6	jânnam	jânnam	NOUN	N	Case=Nom|Number=Sing	0	root	_	GTtags=Sg,Nom|SpaceAfter=No
-7	?	?	PUNCT	CLB	_	6	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 cop	color:blue
+1	Ij	ij	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	2	aux:neg	_	GTtags=Neg,Ind,Sg3
+2	kuuʹǩǩ	kuʹǩǩ	ADV	Adv	Case=Nom|Number=Sing	4	advmod:tmod	_	GTtags=Sg,Nom
+3	leämmaž	leeʹd	AUX	V	Aspect=Perf|VerbForm=Part	4	cop	_	GTtags=IV,Act,PrfPrc
+4	mieʹccest	meäʹcc	NOUN	N	Case=Loc|Number=Sing	0	root	_	GTtags=Sg,Loc|SpaceAfter=No
+5	,	,	PUNCT	CLB	_	6	punct	_	_
+6	iʹttli	iʹttled	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	advcl	_	GTtags=Ind,Prt,Sg3
+7	kuʹmpp	kuʹmpp	NOUN	N	Case=Nom|Number=Sing	6	nsubj	_	GTtags=Sg,Nom
+8	väʹst	väʹst	ADV	Adv	_	6	advmod	_	_
+9	mååust	mååust	ADV	Adv	_	6	advmod:lmod	_	SpaceAfter=No
+10	.	.	PUNCT	CLB	_	4	punct	_	_
 
 ~~~
 

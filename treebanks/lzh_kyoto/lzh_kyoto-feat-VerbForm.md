@@ -36,7 +36,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Part` (12996; 100% of non-empty `VerbForm`): 大、 太、 主、 寡、 皇、 小、 有、 長、 使、 以
-* `EMPTY` (124363): 曰、 以、 有、 無、 謂、 如、 得、 為、 至、 使
+* `EMPTY` (124364): 曰、 以、 有、 無、 謂、 如、 得、 為、 至、 使
 
 `VerbForm` seems to be **lexical feature** of `VERB`. 100% lemmas (1220) occur only with one value of `VerbForm`.
 

@@ -219,14 +219,14 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="grc_perseus-dep-nmod.html">nmod</a></tt>]--> ADJ</tt> (10085; 95%),
+<tt>NOUN --[<tt><a href="grc_perseus-dep-nmod.html">nmod</a></tt>]--> ADJ</tt> (10086; 95%),
 <tt>NOUN --[<tt><a href="grc_perseus-dep-det.html">det</a></tt>]--> DET</tt> (8951; 98%),
 <tt>NOUN --[<tt><a href="grc_perseus-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2501; 98%),
 <tt>ADJ --[<tt><a href="grc_perseus-dep-det.html">det</a></tt>]--> DET</tt> (1178; 95%),
 <tt>NOUN --[<tt><a href="grc_perseus-dep-nmod.html">nmod</a></tt>]--> VERB</tt> (917; 92%),
 <tt>NOUN --[<tt><a href="grc_perseus-dep-amod.html">amod</a></tt>]--> ADJ</tt> (853; 87%),
-<tt>VERB --[<tt><a href="grc_perseus-dep-det.html">det</a></tt>]--> DET</tt> (719; 56%),
+<tt>VERB --[<tt><a href="grc_perseus-dep-det.html">det</a></tt>]--> DET</tt> (720; 56%),
 <tt>NOUN --[<tt><a href="grc_perseus-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (675; 51%),
 <tt>VERB --[<tt><a href="grc_perseus-dep-conj.html">conj</a></tt>]--> VERB</tt> (582; 91%),
-<tt>ADJ --[<tt><a href="grc_perseus-dep-conj.html">conj</a></tt>]--> ADJ</tt> (463; 96%).
+<tt>ADJ --[<tt><a href="grc_perseus-dep-conj.html">conj</a></tt>]--> ADJ</tt> (466; 96%).
 

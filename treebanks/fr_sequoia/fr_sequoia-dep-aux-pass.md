@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="fr_sequoia-dep-aux.html">aux</a></tt>.
 There are also 2 other language-specific subtypes of `aux`: <tt><a href="fr_sequoia-dep-aux-caus.html">aux:caus</a></tt>, <tt><a href="fr_sequoia-dep-aux-tense.html">aux:tense</a></tt>.
 
-756 nodes (1%) are attached to their parents as `aux:pass`.
+759 nodes (1%) are attached to their parents as `aux:pass`.
 
-756 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.18386243386243.
+759 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.18313570487484.
 
-The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (756; 100% instances).
+The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (759; 100% instances).
 
 
 ~~~ conllu

@@ -30,7 +30,7 @@ The 10 most frequent ambiguous types:  <em>bir</em> (<tt><a href="tr_atis-pos-DE
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.748764).
+The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.744205).
 
 The 1st highest number of forms (1) was observed with the lemma “bir”: <em>bir</em>.
 
@@ -49,7 +49,7 @@ Examples: <em>bir</em>
 
 ## Relations
 
-`DET` nodes are attached to their parents using 8 different relations: <tt><a href="tr_atis-dep-det.html">det</a></tt> (1297; 98% instances), <tt><a href="tr_atis-dep-dep.html">dep</a></tt> (5; 0% instances), <tt><a href="tr_atis-dep-fixed.html">fixed</a></tt> (5; 0% instances), <tt><a href="tr_atis-dep-amod.html">amod</a></tt> (4; 0% instances), <tt><a href="tr_atis-dep-compound.html">compound</a></tt> (4; 0% instances), <tt><a href="tr_atis-dep-nmod.html">nmod</a></tt> (4; 0% instances), <tt><a href="tr_atis-dep-advmod.html">advmod</a></tt> (3; 0% instances), <tt><a href="tr_atis-dep-discourse.html">discourse</a></tt> (1; 0% instances)
+`DET` nodes are attached to their parents using 8 different relations: <tt><a href="tr_atis-dep-det.html">det</a></tt> (1299; 98% instances), <tt><a href="tr_atis-dep-fixed.html">fixed</a></tt> (5; 0% instances), <tt><a href="tr_atis-dep-amod.html">amod</a></tt> (4; 0% instances), <tt><a href="tr_atis-dep-compound.html">compound</a></tt> (4; 0% instances), <tt><a href="tr_atis-dep-nmod.html">nmod</a></tt> (4; 0% instances), <tt><a href="tr_atis-dep-advmod.html">advmod</a></tt> (3; 0% instances), <tt><a href="tr_atis-dep-dep.html">dep</a></tt> (3; 0% instances), <tt><a href="tr_atis-dep-discourse.html">discourse</a></tt> (1; 0% instances)
 
 Parents of `DET` nodes belong to 5 different parts of speech: <tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt> (1291; 98% instances), <tt><a href="tr_atis-pos-NUM.html">NUM</a></tt> (9; 1% instances), <tt><a href="tr_atis-pos-ADJ.html">ADJ</a></tt> (8; 1% instances), <tt><a href="tr_atis-pos-VERB.html">VERB</a></tt> (8; 1% instances), <tt><a href="tr_atis-pos-PROPN.html">PROPN</a></tt> (7; 1% instances)
 

@@ -74,9 +74,8 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
   <tr><td><tt><tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td></td><td></td><td><em>bys</em></td></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>nebude</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>není</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cac-feat-Style.html">Style</a></tt><tt>=Arch</tt>|<tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>jest</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>bude</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>je</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>je, jest</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td></td><td><em>budiž</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>je</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td></td><td><em>by</em></td></tr>
@@ -106,12 +105,12 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 The 10 most frequent relations where parent and child node agree in `Mood`:
 <tt>VERB --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> VERB</tt> (2719; 85%),
 <tt>VERB --[<tt><a href="cs_cac-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (751; 60%),
-<tt>AUX --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> VERB</tt> (101; 79%),
-<tt>VERB --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> AUX</tt> (72; 74%),
-<tt>VERB --[<tt><a href="cs_cac-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (59; 63%),
-<tt>AUX --[<tt><a href="cs_cac-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (50; 78%),
-<tt>AUX --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> AUX</tt> (31; 63%),
+<tt>VERB --[<tt><a href="cs_cac-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (16; 80%),
+<tt>AUX --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> VERB</tt> (15; 71%),
 <tt>VERB --[<tt><a href="cs_cac-dep-appos.html">appos</a></tt>]--> VERB</tt> (12; 75%),
-<tt>VERB --[<tt><a href="cs_cac-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (10; 56%),
-<tt>VERB --[<tt><a href="cs_cac-dep-csubj.html">csubj</a></tt>]--> AUX</tt> (8; 57%).
+<tt>AUX --[<tt><a href="cs_cac-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (10; 77%),
+<tt>VERB --[<tt><a href="cs_cac-dep-acl.html">acl</a></tt>]--> VERB</tt> (5; 56%),
+<tt>AUX --[<tt><a href="cs_cac-dep-appos.html">appos</a></tt>]--> AUX</tt> (1; 100%),
+<tt>AUX --[<tt><a href="cs_cac-dep-dep.html">dep</a></tt>]--> VERB</tt> (1; 100%),
+<tt>AUX --[<tt><a href="cs_cac-dep-orphan.html">orphan</a></tt>]--> VERB</tt> (1; 100%).
 

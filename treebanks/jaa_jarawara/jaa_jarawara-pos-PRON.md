@@ -43,7 +43,7 @@ Examples: <em>Tiwa</em>
 
 ## Relations
 
-`PRON` nodes are attached to their parents using 5 different relations: <tt><a href="jaa_jarawara-dep-nsubj.html">nsubj</a></tt> (14; 44% instances), <tt><a href="jaa_jarawara-dep-discourse.html">discourse</a></tt> (8; 25% instances), <tt><a href="jaa_jarawara-dep-obj.html">obj</a></tt> (8; 25% instances), <tt><a href="jaa_jarawara-dep-dep.html">dep</a></tt> (1; 3% instances), <tt><a href="jaa_jarawara-dep-nmod.html">nmod</a></tt> (1; 3% instances)
+`PRON` nodes are attached to their parents using 6 different relations: <tt><a href="jaa_jarawara-dep-nsubj.html">nsubj</a></tt> (12; 38% instances), <tt><a href="jaa_jarawara-dep-discourse.html">discourse</a></tt> (8; 25% instances), <tt><a href="jaa_jarawara-dep-obj.html">obj</a></tt> (8; 25% instances), <tt><a href="jaa_jarawara-dep-expl.html">expl</a></tt> (2; 6% instances), <tt><a href="jaa_jarawara-dep-dep.html">dep</a></tt> (1; 3% instances), <tt><a href="jaa_jarawara-dep-nmod.html">nmod</a></tt> (1; 3% instances)
 
 Parents of `PRON` nodes belong to 2 different parts of speech: <tt><a href="jaa_jarawara-pos-VERB.html">VERB</a></tt> (31; 97% instances), <tt><a href="jaa_jarawara-pos-PRON.html">PRON</a></tt> (1; 3% instances)
 

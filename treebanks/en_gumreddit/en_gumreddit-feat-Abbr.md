@@ -54,7 +54,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>_</em>
-* `EMPTY` (993): <em>_</em>
+* `EMPTY` (994): <em>_</em>
 
 ### `ADV`
 
@@ -65,5 +65,5 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>_</em>
-* `EMPTY` (1117): <em>_</em>
+* `EMPTY` (1110): <em>_</em>
 

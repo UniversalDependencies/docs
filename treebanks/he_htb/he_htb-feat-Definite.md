@@ -24,7 +24,7 @@ The most frequent other feature values with which `NOUN` and `Definite` co-occur
 
 * `Cons` (9303; 79% of non-empty `Definite`): בית, משרד, יום, שר, תל, פי, ידי, ראש, חברת, בתי
 * `Def` (2494; 21% of non-empty `Definite`): יד_, שם_, דבר_, בית_, חבר_, תפקיד_, פנים_, דרך_, חיים_, חלק_
-* `EMPTY` (26248): משטרה, %, משפט, ממשלה, חברה, ארץ, שנים, פועל, שנה, ש"ח
+* `EMPTY` (26249): משטרה, %, משפט, ממשלה, חברה, ארץ, שנים, פועל, שנה, ש"ח
 
 <table>
   <tr><th>Paradigm <i>בית</i></th><th><tt>Def</tt></th><th><tt>Cons</tt></th></tr>

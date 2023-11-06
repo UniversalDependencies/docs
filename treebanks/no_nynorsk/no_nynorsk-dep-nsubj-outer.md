@@ -29,7 +29,7 @@ The following 15 pairs of parts of speech are connected with `nsubj:outer`: <tt>
 4	brød	brød	NOUN	subst	Definite=Ind|Gender=Neut|Number=Plur	5	nsubj	_	_
 5	held	halde	VERB	verb	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	seg	seg	PRON	pron	Case=Acc|PronType=Prs	5	obj	_	_
-7	ikkje	ikkje	ADV	adv	_	5	advmod	_	_
+7	ikkje	ikkje	PART	adv	Polarity=Neg	5	advmod	_	_
 8	ferske	fersk	ADJ	adj	Degree=Pos|Number=Plur	5	xcomp	_	_
 9	så	så	ADV	adv	_	10	advmod	_	_
 10	lenge	lenge	ADJ	adj	Degree=Pos	5	advmod	_	SpaceAfter=No

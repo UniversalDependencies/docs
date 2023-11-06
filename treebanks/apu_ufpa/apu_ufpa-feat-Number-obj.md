@@ -12,24 +12,26 @@ Some words have combined values of the feature; 1 combinations have been observe
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="apu_ufpa-feat-Number.html">Number</a></tt>, <tt><a href="apu_ufpa-feat-Number-obj.html">Number[obj]</a></tt>, <tt><a href="apu_ufpa-feat-Number-psor.html">Number[psor]</a></tt>, <tt><a href="apu_ufpa-feat-Number-subj.html">Number[subj]</a></tt>.
 
-65 tokens (7%) have a non-empty value of `Number[obj]`.
-29 types (9%) occur at least once with a non-empty value of `Number[obj]`.
-26 lemmas (10%) occur at least once with a non-empty value of `Number[obj]`.
-The feature is used with 3 part-of-speech tags: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (59; 6% instances), <tt><a href="apu_ufpa-pos-CCONJ.html">CCONJ</a></tt> (5; 1% instances), <tt><a href="apu_ufpa-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+67 tokens (7%) have a non-empty value of `Number[obj]`.
+30 types (9%) occur at least once with a non-empty value of `Number[obj]`.
+26 lemmas (9%) occur at least once with a non-empty value of `Number[obj]`.
+The feature is used with 3 part-of-speech tags: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (61; 6% instances), <tt><a href="apu_ufpa-pos-CCONJ.html">CCONJ</a></tt> (5; 1% instances), <tt><a href="apu_ufpa-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-59 <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> tokens (29% of all `VERB` tokens) have a non-empty value of `Number[obj]`.
+61 <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> tokens (29% of all `VERB` tokens) have a non-empty value of `Number[obj]`.
 
-The most frequent other feature values with which `VERB` and `Number[obj]` co-occurred: <tt><a href="apu_ufpa-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt> (57; 97%), <tt><a href="apu_ufpa-feat-Gender-subj.html">Gender[subj]</a></tt><tt>=EMPTY</tt> (55; 93%), <tt><a href="apu_ufpa-feat-Gender-obj.html">Gender[obj]</a></tt><tt>=Masc</tt> (53; 90%), <tt><a href="apu_ufpa-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (53; 90%), <tt><a href="apu_ufpa-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (53; 90%).
+The most frequent other feature values with which `VERB` and `Number[obj]` co-occurred: <tt><a href="apu_ufpa-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt> (59; 97%), <tt><a href="apu_ufpa-feat-Gender-subj.html">Gender[subj]</a></tt><tt>=EMPTY</tt> (56; 92%), <tt><a href="apu_ufpa-feat-Gender-obj.html">Gender[obj]</a></tt><tt>=Masc</tt> (54; 89%), <tt><a href="apu_ufpa-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (54; 89%), <tt><a href="apu_ufpa-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (54; 89%).
 
 `VERB` tokens may have the following values of `Number[obj]`:
 
 
 <table>
   <tr><th>Paradigm <i>kama</i></th><th><tt>Plur,Sing</tt></th><th><tt>Sing</tt></th></tr>
-  <tr><td><tt><tt><a href="apu_ufpa-feat-Number-obj.html">Number[obj]</a></tt><tt>=Plur,Sing</tt></tt></td><td><em>kamary</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="apu_ufpa-feat-Number-obj.html">Number[obj]</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>Makamary, kamary</em></td></tr>
+  <tr><td><tt><tt><a href="apu_ufpa-feat-Gender-obj.html">Gender[obj]</a></tt><tt>=Masc</tt>|<tt><a href="apu_ufpa-feat-Gender-subj.html">Gender[subj]</a></tt><tt>=Masc</tt>|<tt><a href="apu_ufpa-feat-Number-obj.html">Number[obj]</a></tt><tt>=Sing</tt>|<tt><a href="apu_ufpa-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="apu_ufpa-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt></tt></td><td></td><td><em>ykamary</em></td></tr>
+  <tr><td><tt><tt><a href="apu_ufpa-feat-Gender-obj.html">Gender[obj]</a></tt><tt>=Masc</tt>|<tt><a href="apu_ufpa-feat-Number-obj.html">Number[obj]</a></tt><tt>=Plur,Sing</tt></tt></td><td><em>kamary</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="apu_ufpa-feat-Gender-obj.html">Gender[obj]</a></tt><tt>=Masc</tt>|<tt><a href="apu_ufpa-feat-Number-obj.html">Number[obj]</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>Makamary, kamary</em></td></tr>
+  <tr><td><tt><tt><a href="apu_ufpa-feat-Number-obj.html">Number[obj]</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>kamary</em></td></tr>
 </table>
 
 `Number[obj]` seems to be **lexical feature** of `VERB`. 92% lemmas (22) occur only with one value of `Number[obj]`.

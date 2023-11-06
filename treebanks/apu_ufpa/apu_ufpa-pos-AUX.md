@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Apurina-UFPA: POS Tags: `AUX`
 
 There are 2 `AUX` lemmas (1%), 5 `AUX` types (1%) and 9 `AUX` tokens (1%).
-Out of 16 observed tags, the rank of `AUX` is: 9 in number of lemmas, 7 in number of types and 9 in number of tokens.
+Out of 16 observed tags, the rank of `AUX` is: 10 in number of lemmas, 7 in number of types and 9 in number of tokens.
 
 The 10 most frequent `AUX` lemmas: <em>txa, amu</em>
 
@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>itxa</em> (<tt><a href="apu_ufpa-pos-
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 2.500000 (the average of all parts of speech is 1.228873).
+The form / lemma ratio of `AUX` is 2.500000 (the average of all parts of speech is 1.231034).
 
 The 1st highest number of forms (4) was observed with the lemma “txa”: <em>itxa, itxawa, pitxawa, utxawa</em>.
 

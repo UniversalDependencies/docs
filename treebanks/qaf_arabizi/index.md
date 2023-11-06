@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.12 release
 The following people have contributed to making this treebank part of UD: Arij Riabi, Farah Essaidi, Amal Fethi, Menel Mahamdi, Djamé Seddah.
 
 Repository: [UD_Maghrebi_Arabic_French-Arabizi](https://github.com/UniversalDependencies/UD_Maghrebi_Arabic_French-Arabizi)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udqaf_arabizi212)<br />
-Download all treebanks: [UD 2.12](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udqaf_arabizi213)<br />
+Download all treebanks: [UD 2.13](/#download)
 
 License: CC BY-SA 4.0
 
@@ -48,8 +48,9 @@ A Universal Dependencies corpus for a romanized user-generated content variety o
 
 
 
+This repository includes dataset presented in the paper "[Enriching the NArabizi Treebank: A Multifaceted Approach to Supporting an Under-Resourced Language](https://aclanthology.org/2023.law-1.26.pdf)"
+
 The first version of the NArabizi Corpus was presented in [(Seddah & al., 2020)](https://aclanthology.org/2020.acl-main.107.pdf), with extensive parsing results presented in [(Riabi et al, 2021)](https://aclanthology.org/2021.wnut-1.47/).
-More details about this release will be available in an upcoming publication.
 
 ## Acknowledgments
 * contributors: Arij Riabi, Farah Essaidi, Amal Fethi, Menel Mahamdi, Djamé Seddah

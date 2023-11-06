@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of .
 There are also 1 other language-specific subtypes of `parataxis`: <tt><a href="pl_pud-dep-parataxis-obj.html">parataxis:obj</a></tt>.
 
-89 nodes (0%) are attached to their parents as `parataxis:insert`.
+27 nodes (0%) are attached to their parents as `parataxis:insert`.
 
-77 instances of `parataxis:insert` (87%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.30337078651685.
+22 instances of `parataxis:insert` (81%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.77777777777778.
 
-The following 24 pairs of parts of speech are connected with `parataxis:insert`: <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (16; 18% instances), <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pud-pos-ADV.html">ADV</a></tt> (12; 13% instances), <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pud-pos-ADP.html">ADP</a></tt> (7; 8% instances), <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (6; 7% instances), <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (6; 7% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pud-pos-ADV.html">ADV</a></tt> (5; 6% instances), <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (5; 6% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (4; 4% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (3; 3% instances), <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pud-pos-ADP.html">ADP</a></tt> (3; 3% instances), <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pud-pos-ADV.html">ADV</a></tt> (3; 3% instances), <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pud-pos-PRON.html">PRON</a></tt> (3; 3% instances), <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pud-pos-PART.html">PART</a></tt> (3; 3% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_pud-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pud-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pud-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="pl_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_pud-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="pl_pud-pos-PART.html">PART</a></tt>-<tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_pud-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_pud-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
+The following 10 pairs of parts of speech are connected with `parataxis:insert`: <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (8; 30% instances), <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (5; 19% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (3; 11% instances), <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (3; 11% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt> (2; 7% instances), <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (2; 7% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pud-pos-ADV.html">ADV</a></tt> (1; 4% instances), <tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_pud-pos-ADV.html">ADV</a></tt> (1; 4% instances), <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -39,45 +39,59 @@ The following 24 pairs of parts of speech are connected with `parataxis:insert`:
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 parataxis:insert	color:blue
-1	–	–	PUNCT	interp	PunctType=Dash	8	punct	8:punct	_
-2	Jej	on	PRON	ppron3:sg:gen:f:ter:akc:npraep	Case=Gen|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs|Variant=Long	3	nmod	3:nmod	_
-3	głos	głos	NOUN	subst:sg:nom:m3	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	5:nsubj	_
-4	dosłownie	dosłownie	ADV	adv:pos	Degree=Pos	5	parataxis:insert	5:parataxis:insert	_
-5	okrążył	okrążyć	VERB	praet:sg:m3:perf	Animacy=Inan|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	parataxis:obj	8:parataxis:obj	_
-6	świat	świat	NOUN	subst:sg:acc:m3	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obj	5:obj	_
-7	–	–	PUNCT	interp	PunctType=Dash	8	punct	8:punct	_
-8	powiedziała	powiedzieć	VERB	praet:sg:f:perf	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
-9	Leive	Leive	PROPN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	8:nsubj	SpaceAfter=No
-10	.	.	PUNCT	interp	PunctType=Peri	8	punct	8:punct	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 2 parataxis:insert	color:blue
+1	Jak	jak	SCONJ	comp	_	2	mark	2:mark	_
+2	donosi	donosić	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	parataxis:insert	10:parataxis:insert	_
+3	„	„	PUNCT	interp	PunctSide=Ini|PunctType=Quot	4	punct	4:punct	SpaceAfter=No
+4	Le	Le	PROPN	subst:sg:nom:n:ncol	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	2:nsubj	_
+5	Figaro	Figaro	PROPN	subst:sg:nom:n:ncol	Case=Nom|Gender=Neut|Number=Sing	4	flat	4:flat	SpaceAfter=No
+6	”	”	PUNCT	interp	PunctSide=Fin|PunctType=Quot	4	punct	4:punct	SpaceAfter=No
+7	,	,	PUNCT	interp	PunctType=Comm	2	punct	2:punct	_
+8	rządowy	rządowy	ADJ	adj:sg:nom:m3:pos	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	amod	9:amod	_
+9	plan	plan	NOUN	subst:sg:nom:m3	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	10:nsubj	_
+10	może	móc	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+11	uwolnić	uwolnić	VERB	inf:perf	Aspect=Perf|VerbForm=Inf|Voice=Act	10	xcomp	10:xcomp	_
+12	ponad	ponad	PART	part	_	13	advmod:emph	13:advmod:emph	_
+13	42	42	NUM	num:pl:acc:m3:congr	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|NumForm=Digit|NumType=Card	15	nummod	15:nummod	_
+14	miliony	milion	NOUN	subst:pl:acc:m3	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	13	flat	13:flat	_
+15	euro	euro	NOUN	subst:pl:gen:n:ncol	Case=Gen|Gender=Neut|Number=Plur	11	obj	11:obj	SpaceAfter=No
+16	,	,	PUNCT	interp	PunctType=Comm	20	punct	20:punct	_
+17	w	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	18	case	18:case	Case=Loc
+18	tym	to	PRON	subst:sg:loc:n:ncol	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	20	nmod	20:nmod	_
+19	15,5	15,5	NUM	num:pl:acc:m3:rec	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|NumForm=Digit|NumType=Card	20	nummod:gov	20:nummod:gov	_
+20	miliona	milion	NOUN	subst:sg:gen:m3	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	nmod	13:nmod	_
+21	na	na	ADP	prep:acc	AdpType=Prep	22	case	22:case	Case=Acc
+22	cele	cel	NOUN	subst:pl:acc:m3	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	11	obl	11:obl	_
+23	bezpieczeństwa	bezpieczeństwo	NOUN	subst:sg:gen:n:ncol	Case=Gen|Gender=Neut|Number=Sing	22	nmod:arg	22:nmod:arg	SpaceAfter=No
+24	.	.	PUNCT	interp	PunctType=Peri	10	punct	10:punct	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 1 parataxis:insert	color:blue
-1	Poza	poza	ADP	prep:inst	AdpType=Prep	5	parataxis:insert	5:parataxis:insert	Case=Ins
-2	tym	to	PRON	subst:sg:inst:n:ncol	Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	1	fixed	1:fixed	_
-3	rząd	rząd	NOUN	subst:sg:nom:m3	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	5:nsubj	_
-4	będzie	być	AUX	bedzie:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	aux	5:aux	_
-5	musiał	musieć	VERB	praet:sg:m3:imperf	Animacy=Inan|Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
-6	poradzić	poradzić	VERB	inf:perf	Aspect=Perf|VerbForm=Inf|Voice=Act	5	xcomp	5:xcomp	_
-7	sobie	siebie	PRON	siebie:dat	Case=Dat|PronType=Prs|Reflex=Yes	6	expl:pv	6:expl:pv	_
-8	z	z	ADP	prep:inst:nwok	AdpType=Prep|Variant=Short	12	case	12:case	Case=Ins
-9	kolejnym	kolejny	ADJ	adj:sg:inst:m3:pos	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	12	amod	12:amod	_
-10	„	„	PUNCT	interp	PunctSide=Ini|PunctType=Quot	11	punct	11:punct	SpaceAfter=No
-11	gorącym	gorący	ADJ	adj:sg:inst:m3:pos	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	9	conj	9:conj|12:amod	_
-12	ziemniakiem	ziemniak	NOUN	subst:sg:inst:m3	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	6	obl:arg	6:obl:arg	SpaceAfter=No
-13	”	”	PUNCT	interp	PunctSide=Fin|PunctType=Quot	12	punct	12:punct	SpaceAfter=No
-14	.	.	PUNCT	interp	PunctType=Peri	5	punct	5:punct	_
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 13 parataxis:insert	color:blue
+1	Na	na	ADP	prep:loc	AdpType=Prep	2	case	2:case	Case=Loc
+2	zdjęciu	zdjęcie	NOUN	subst:sg:loc:n:ncol	Case=Loc|Gender=Neut|Number=Sing	4	obl	4:obl	_
+3	wyraźnie	wyraźnie	ADV	adv:pos	Degree=Pos	4	advmod	4:advmod	_
+4	widać	widać	VERB	pred	Mood=Ind|Tense=Pres|VerbForm=Fin|VerbType=Quasi	0	root	0:root	_
+5	wąski	wąski	ADJ	adj:sg:acc:m3:pos	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	6	amod	6:amod	_
+6	wyświetlacz	wyświetlacz	NOUN	subst:sg:acc:m3	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	iobj	4:iobj	_
+7	dotykowy	dotykowy	ADJ	adj:sg:acc:m3:pos	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	6	amod	6:amod	_
+8	nad	nad	ADP	prep:inst:nwok	AdpType=Prep|Variant=Short	9	case	9:case	Case=Ins
+9	klawiaturą	klawiatura	NOUN	subst:sg:inst:f	Case=Ins|Gender=Fem|Number=Sing	4	obl	4:obl	SpaceAfter=No
+10	,	,	PUNCT	interp	PunctType=Comm	11	punct	11:punct	_
+11	oczekiwany	oczekiwać	ADJ	ppas:sg:acc:m3:imperf:aff	Animacy=Inan|Aspect=Imp|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	6	acl	6:acl	_
+12	według	według	ADP	prep:gen	AdpType=Prep	13	case	13:case	Case=Gen
+13	pogłosek	pogłoska	NOUN	subst:pl:gen:f	Case=Gen|Gender=Fem|Number=Plur	11	parataxis:insert	11:parataxis:insert	SpaceAfter=No
+14	.	.	PUNCT	interp	PunctType=Peri	4	punct	4:punct	_
 
 ~~~
 

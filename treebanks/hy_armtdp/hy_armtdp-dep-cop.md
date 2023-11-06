@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1057 nodes (2%) are attached to their parents as `cop`.
+1058 nodes (2%) are attached to their parents as `cop`.
 
-998 instances of `cop` (94%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.15421002838221.
+999 instances of `cop` (94%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.15500945179584.
 
-The following 10 pairs of parts of speech are connected with `cop`: <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> (491; 46% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> (417; 39% instances), <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> (90; 9% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> (27; 3% instances), <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> (16; 2% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> (11; 1% instances), <tt><a href="hy_armtdp-pos-X.html">X</a></tt>-<tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt>-<tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-SYM.html">SYM</a></tt>-<tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `cop`: <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> (492; 47% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> (417; 39% instances), <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> (90; 9% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> (27; 3% instances), <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> (16; 2% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> (11; 1% instances), <tt><a href="hy_armtdp-pos-X.html">X</a></tt>-<tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt>-<tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-SYM.html">SYM</a></tt>-<tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

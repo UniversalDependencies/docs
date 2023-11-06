@@ -26,7 +26,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 * `Imp` (131; 10% of non-empty `Mood`): بار، ئىش، مارى، قارا، كەل، ئاس، ئاچ، ئېغىر، بەر، تارتىش
 * `Ind` (1065; 78% of non-empty `Mood`): دېدى، كەلدى، باشلىدى، بولدى، قىلدى، بەردى، قىلىدۇ، بولىدۇ، دېدىم، بولمىغان
 * `Int` (2; 0% of non-empty `Mood`): باققانمۇ، بولدىڭىزمۇ
-* `EMPTY` (6971): دەپ، بولۇپ، قىلىپ، دەپتۇ، قاراپ، ئېلىپ، كېلىپ، تۇرغان، كۆرۈپ، تۇرۇپ
+* `EMPTY` (6970): دەپ، بولۇپ، قىلىپ، دەپتۇ، قاراپ، ئېلىپ، كېلىپ، تۇرغان، كۆرۈپ، تۇرۇپ
 
 <table>
   <tr><th>Paradigm <i>باق</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th><th><tt>Int</tt></th></tr>
@@ -53,7 +53,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 * `Cnd` (100; 18% of non-empty `Mood`): بولسا، بولسىمۇ، بولسام، بولسىڭىز، تۇرسا، بولساڭ، بولساق، قالسا، تۇرسام، كەتسىمۇ
 * `Imp` (3; 1% of non-empty `Mood`): تۇر، كەت، كەتمە
 * `Ind` (456; 82% of non-empty `Mood`): ئىدى، كەتتى، قالدى، بولدى، بولىدۇ، قالدىم، بولغان، بولدۇم، تۇرىدۇ، ئىدىڭ
-* `EMPTY` (351): بولۇپ، ئىكەن، ئەمەس، تۇرۇپ، ئىكەنلىكىنى، بوپتۇ، بولاتتى، بولغاچقا، ئەمەسمۇ، كېتىپ
+* `EMPTY` (352): بولۇپ، ئىكەن، ئەمەس، تۇرۇپ، ئىكەنلىكىنى، بوپتۇ، بولاتتى، بولغاچقا، ئەمەسمۇ، كېتىپ
 
 <table>
   <tr><th>Paradigm <i>كەت</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th></tr>

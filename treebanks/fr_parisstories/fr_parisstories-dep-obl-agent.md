@@ -44,11 +44,11 @@ The following 2 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 1	donc	donc	ADV	_	_	6	advmod	_	AlignBegin=64048|AlignEnd=64281
 2	ok	ok	ADV	_	_	1	discourse	_	AlignBegin=64281|AlignEnd=64515|SpaceAfter=No
 3	,	,	PUNCT	_	_	1	punct	_	AlignBegin=64515|AlignEnd=64515
-4	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj:pass	_	AlignBegin=64515|AlignEnd=64748|SpaceAfter=No
+4	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj:pass	_	AlignBegin=64515|AlignEnd=64748|SpaceAfter=No
 5	étais	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	6	aux:tense	_	AlignBegin=64748|AlignEnd=64982
 6	attirée	attirer	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	AlignBegin=64982|AlignEnd=65215
 7	par	par	ADP	_	_	8	case	_	AlignBegin=65215|AlignEnd=65448
-8	lui	lui	PRON	_	_	6	obl:agent	_	AlignBegin=65448|AlignEnd=65682
+8	lui	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obl:agent	_	AlignBegin=65448|AlignEnd=65682
 9	à	à	ADP	_	_	11	case	_	AlignBegin=65682|AlignEnd=65915|wordform=au
 10	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	début	début	NOUN	_	Gender=Masc|Number=Sing	6	obl:mod	_	AlignBegin=65915|AlignEnd=66149|SpaceAfter=No

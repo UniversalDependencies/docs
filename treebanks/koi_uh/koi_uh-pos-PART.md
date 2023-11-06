@@ -19,10 +19,10 @@ The 10 most frequent ambiguous types:  <em>а</em> (<tt><a href="koi_uh-pos-CCON
 
 
 * <em>а</em>
-  * <tt><a href="koi_uh-pos-CCONJ.html">CCONJ</a></tt> 8: <em>Мери босьтіс бронза , Питер – эзысь , <b>а</b> Джейн – зарни .</em>
+  * <tt><a href="koi_uh-pos-CCONJ.html">CCONJ</a></tt> 8: <em>Томмес менӧ озӧ вежӧртӧ , <b>а</b> пӧриссес — кокаласӧ ...</em>
   * <tt><a href="koi_uh-pos-PART.html">PART</a></tt> 1: <em>Сія эз мун удж вылö , тшöктісö <b>а</b> .</em>
 * <em>и</em>
-  * <tt><a href="koi_uh-pos-CCONJ.html">CCONJ</a></tt> 15: <em>Эта гижӧтыс Петрасянь , <b>и</b> сійӧ вайисӧ тӧн .</em>
+  * <tt><a href="koi_uh-pos-CCONJ.html">CCONJ</a></tt> 15: <em>Ордчӧн мекӧт пукалӧ сьӧд тошока <b>и</b> гардчӧмкодь уссэза мужик .</em>
   * <tt><a href="koi_uh-pos-PART.html">PART</a></tt> 1: <em>А мукӧдпырся семьяэзӧ пыравліс <b>и</b> гаж .</em>
 
 ## Morphology

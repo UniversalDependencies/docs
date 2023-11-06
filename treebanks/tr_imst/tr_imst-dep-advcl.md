@@ -17,20 +17,16 @@ The following 31 pairs of parts of speech are connected with `advcl`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 2 advcl	color:blue
-1	Herkes	herkes	NOUN	Noun	Case=Nom|Number=Sing|Person=3	4	nsubj	_	_
-2	istediği	iste	VERB	Verb	Aspect=Perf|Mood=Ind|Number[psor]=Sing|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part	4	advcl	_	_
-3	gibi	gibi	ADP	PCNom	_	2	case	_	_
-4	sevişiyor	seviş	VERB	Verb	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Polite=Infm|Tense=Pres	0	root	_	SpaceAfter=No
-5	,	,	PUNCT	Punc	_	8	punct	_	_
-6	her	her	DET	Det	_	8	nsubj	_	_
-7	şey	şey	NOUN	Noun	Case=Nom|Number=Sing|Person=3	6	compound	_	_
-8	serbest	serbest	ADJ	Adj	_	4	conj	_	SpaceAfter=No
-9	.	.	PUNCT	Punc	_	8	punct	_	_
+# visual-style 4 3 advcl	color:blue
+1	Kıraathanenin	kıraathane	NOUN	Noun	Case=Gen|Number=Sing|Person=3	2	nmod:poss	_	_
+2	kapısı	kapı	NOUN	Noun	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	4	nsubj	_	_
+3	gıcırdayarak	gıcırda	VERB	Verb	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Conv	4	advcl	_	_
+4	açıldı	aç	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|Voice=Pass	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	Punc	_	4	punct	_	_
 
 ~~~
 
@@ -55,19 +51,21 @@ The following 31 pairs of parts of speech are connected with `advcl`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 7 1 advcl	color:blue
-1	Yemek	yemek	NOUN	Noun	Case=Nom|Number=Sing|Person=3	7	advcl	_	_
-2	boyunca	boyunca	ADP	PCNom	_	1	case	_	_
-3	kaç	kaç	DET	Adj	_	4	det	_	_
-4	hayvanın	hayvan	ADJ	NAdj	Case=Gen|Number=Sing|Person=3	6	nsubj	_	_
-5	doğum	doğum	NOUN	Noun	Case=Nom|Number=Sing|Person=3	7	csubj	_	_
-6	yapacağı	yap	VERB	Verb	Aspect=Perf|Case=Nom|Mood=Ind|Number[psor]=Sing|Person[psor]=3|Polarity=Pos|Tense=Fut|VerbForm=Part	5	compound	_	_
-7	hesaplanıyor	hesapla	VERB	Verb	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Polite=Infm|Tense=Pres|Voice=Pass	0	root	_	SpaceAfter=No
-8	.	.	PUNCT	Punc	_	7	punct	_	_
+# visual-style 7 5 advcl	color:blue
+1	Bir	bir	DET	ANum	_	3	det	_	_
+2	gece	gece	NOUN	Noun	Case=Nom|Number=Sing|Person=3	3	nmod:poss	_	_
+3	zamanı	zaman	NOUN	Noun	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	5	obl	_	SpaceAfter=No
+4	,	,	PUNCT	Punc	_	3	punct	_	_
+5	yatakta	yatak	NOUN	Noun	Case=Loc|Number=Sing|Person=3	7	advcl	_	_
+6	yken	i	AUX	Zero	Aspect=Perf|Mood=Ind|Tense=Pres|VerbForm=Conv	5	cop	_	_
+7	söyledi	söyle	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	_
+8	hem	hem	CCONJ	Conj	_	7	advmod:emph	_	_
+9	de	de	CCONJ	Conj	_	8	fixed	_	SpaceAfter=No
+10	...	...	PUNCT	Punc	_	7	punct	_	_
 
 ~~~
 

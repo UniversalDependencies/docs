@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>in</em> (<tt><a href="la_llct-pos-ADP
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.877551 (the average of all parts of speech is 2.623697).
+The form / lemma ratio of `ADP` is 1.877551 (the average of all parts of speech is 2.623423).
 
 The 1st highest number of forms (11) was observed with the lemma “ab”: <em>a, ab, ac, ad, am, an, ans, at, au, av, ha</em>.
 
@@ -67,15 +67,15 @@ The 3rd highest number of forms (4) was observed with the lemma “apud”: <em>
 
 `ADP` nodes are attached to their parents using 4 different relations: <tt><a href="la_llct-dep-case.html">case</a></tt> (20578; 93% instances), <tt><a href="la_llct-dep-mark.html">mark</a></tt> (946; 4% instances), <tt><a href="la_llct-dep-fixed.html">fixed</a></tt> (621; 3% instances), <tt><a href="la_llct-dep-reparandum.html">reparandum</a></tt> (8; 0% instances)
 
-Parents of `ADP` nodes belong to 10 different parts of speech: <tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt> (13981; 63% instances), <tt><a href="la_llct-pos-PROPN.html">PROPN</a></tt> (2935; 13% instances), <tt><a href="la_llct-pos-PRON.html">PRON</a></tt> (2333; 11% instances), <tt><a href="la_llct-pos-VERB.html">VERB</a></tt> (945; 4% instances), <tt><a href="la_llct-pos-ADJ.html">ADJ</a></tt> (941; 4% instances), <tt><a href="la_llct-pos-ADV.html">ADV</a></tt> (693; 3% instances), <tt><a href="la_llct-pos-DET.html">DET</a></tt> (278; 1% instances), <tt><a href="la_llct-pos-ADP.html">ADP</a></tt> (37; 0% instances), <tt><a href="la_llct-pos-AUX.html">AUX</a></tt> (8; 0% instances), <tt><a href="la_llct-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances)
+Parents of `ADP` nodes belong to 10 different parts of speech: <tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt> (13982; 63% instances), <tt><a href="la_llct-pos-PROPN.html">PROPN</a></tt> (2935; 13% instances), <tt><a href="la_llct-pos-PRON.html">PRON</a></tt> (2333; 11% instances), <tt><a href="la_llct-pos-VERB.html">VERB</a></tt> (945; 4% instances), <tt><a href="la_llct-pos-ADJ.html">ADJ</a></tt> (941; 4% instances), <tt><a href="la_llct-pos-ADV.html">ADV</a></tt> (693; 3% instances), <tt><a href="la_llct-pos-DET.html">DET</a></tt> (278; 1% instances), <tt><a href="la_llct-pos-ADP.html">ADP</a></tt> (37; 0% instances), <tt><a href="la_llct-pos-AUX.html">AUX</a></tt> (7; 0% instances), <tt><a href="la_llct-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances)
 
-22081 (100%) `ADP` nodes are leaves.
+22079 (100%) `ADP` nodes are leaves.
 
-72 (0%) `ADP` nodes have one child.
+74 (0%) `ADP` nodes have one child.
 
 The highest child degree of a `ADP` node is 1.
 
-Children of `ADP` nodes are attached using 2 different relations: <tt><a href="la_llct-dep-fixed.html">fixed</a></tt> (43; 60% instances), <tt><a href="la_llct-dep-punct.html">punct</a></tt> (29; 40% instances)
+Children of `ADP` nodes are attached using 2 different relations: <tt><a href="la_llct-dep-fixed.html">fixed</a></tt> (43; 58% instances), <tt><a href="la_llct-dep-punct.html">punct</a></tt> (31; 42% instances)
 
-Children of `ADP` nodes belong to 3 different parts of speech: <tt><a href="la_llct-pos-ADP.html">ADP</a></tt> (37; 51% instances), <tt><a href="la_llct-pos-PUNCT.html">PUNCT</a></tt> (29; 40% instances), <tt><a href="la_llct-pos-SCONJ.html">SCONJ</a></tt> (6; 8% instances)
+Children of `ADP` nodes belong to 3 different parts of speech: <tt><a href="la_llct-pos-ADP.html">ADP</a></tt> (37; 50% instances), <tt><a href="la_llct-pos-PUNCT.html">PUNCT</a></tt> (31; 42% instances), <tt><a href="la_llct-pos-SCONJ.html">SCONJ</a></tt> (6; 8% instances)
 

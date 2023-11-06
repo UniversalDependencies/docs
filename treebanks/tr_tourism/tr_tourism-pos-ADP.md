@@ -36,12 +36,12 @@ The 10 most frequent ambiguous types:  <em>İLE</em> (<tt><a href="tr_tourism-po
   * <tt><a href="tr_tourism-pos-ADP.html">ADP</a></tt> 1: <em><b>SMS</b> İLE KAMPANYALARDAN HABERDAR OLMAK İSTİYORUM .</em>
   * <tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt> 1: <em>ÇOK İYİ <b>SMS</b> OLARAK KAMPANYALARDAN HABERDAR OLMAK İSTİYORUM .</em>
 * <em>YANA</em>
-  * <tt><a href="tr_tourism-pos-ADP.html">ADP</a></tt> 1: <em>BU <b>YANA</b> YEMEKLER DE ÇOK DEĞİŞMİŞ , TAT VE ÇEŞİTLİLİĞİ ARTMIŞ .</em>
-  * <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> 1: <em>ANİMASYON ŞEFİ OLMASI BİR <b>YANA</b> , KENDİSİ DE MÜŞTERİLERLE SIK SIK KONUŞUYOR , İLGİ VE ALAKAYI EKSİK ETMİYOR .</em>
+  * <tt><a href="tr_tourism-pos-ADP.html">ADP</a></tt> 1: <em>BU <b>YANA</b> YEMEKLER DE ÇOK DEĞİŞMİŞ TAT VE ÇEŞİTLİLİĞİ ARTMIŞ .</em>
+  * <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> 1: <em>ANİMASYON ŞEFİ OLMASI BİR <b>YANA</b> KENDİSİ DE MÜŞTERİLERLE SIK SIK KONUŞUYOR İLGİ VE ALAKAYI EKSİK ETMİYOR .</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.117647 (the average of all parts of speech is 1.824721).
+The form / lemma ratio of `ADP` is 1.117647 (the average of all parts of speech is 1.825646).
 
 The 1st highest number of forms (2) was observed with the lemma “göre”: <em>ERKEN, GÖRE</em>.
 

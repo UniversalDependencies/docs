@@ -26,7 +26,7 @@ The following 1 pairs of parts of speech are connected with `discourse`: <tt><a 
 2	ha	haver	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	3:aux	_
 3	publicat	publicar	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	0:root	_
 4	anteriorment	anteriorment	ADV	rg	_	3	advmod	3:advmod	ArgTem=argM:tmp
-5	dues	dos	NUM	dn0fp0	Gender=Fem|Number=Plur|NumType=Card	6	nummod	6:nummod	Entity=(CESSCATAAP2001020524863c5-other-2-gstype:spec
+5	dues	dos	NUM	dn0fp0	Gender=Fem|Number=Plur|NumForm=Word|NumType=Card	6	nummod	6:nummod	Entity=(CESSCATAAP2001020524863c5-other-2-gstype:spec
 6	novel·les	novel·la	NOUN	ncfp000	Gender=Fem|Number=Plur	3	obj	3:obj	ArgTem=arg1:pat
 7	d'	de	ADP	sps00	_	8	case	8:case	SpaceAfter=No
 8	humor	humor	NOUN	ncms000	Gender=Masc|Number=Sing	6	nmod	6:nmod	SpaceAfter=No

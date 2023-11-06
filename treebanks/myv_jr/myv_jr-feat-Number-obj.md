@@ -11,16 +11,16 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="myv_jr-feat-Number.html">Number</a></tt>, <tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt>, <tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt>, <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt>.
 
-526 tokens (3%) have a non-empty value of `Number[obj]`.
-398 types (6%) occur at least once with a non-empty value of `Number[obj]`.
-214 lemmas (7%) occur at least once with a non-empty value of `Number[obj]`.
-The feature is used with 2 part-of-speech tags: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (499; 2% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (27; 0% instances).
+532 tokens (3%) have a non-empty value of `Number[obj]`.
+402 types (6%) occur at least once with a non-empty value of `Number[obj]`.
+217 lemmas (7%) occur at least once with a non-empty value of `Number[obj]`.
+The feature is used with 2 part-of-speech tags: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (505; 2% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (27; 0% instances).
 
 ### `VERB`
 
-499 <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> tokens (14% of all `VERB` tokens) have a non-empty value of `Number[obj]`.
+505 <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> tokens (14% of all `VERB` tokens) have a non-empty value of `Number[obj]`.
 
-The most frequent other feature values with which `VERB` and `Number[obj]` co-occurred: <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (499; 100%), <tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (498; 100%), <tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt> (462; 93%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (447; 90%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (392; 79%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (374; 75%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (319; 64%).
+The most frequent other feature values with which `VERB` and `Number[obj]` co-occurred: <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (505; 100%), <tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (504; 100%), <tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt> (468; 93%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (452; 90%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (397; 79%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (379; 75%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (324; 64%).
 
 `VERB` tokens may have the following values of `Number[obj]`:
 

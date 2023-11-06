@@ -11,21 +11,21 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="tr_tourism-feat-Number.html">Number</a></tt>, <tt><a href="tr_tourism-feat-Number-psor.html">Number[psor]</a></tt>.
 
-45658 tokens (50%) have a non-empty value of `Number`.
+45655 tokens (50%) have a non-empty value of `Number`.
 4153 types (84%) occur at least once with a non-empty value of `Number`.
 1807 lemmas (84%) occur at least once with a non-empty value of `Number`.
-The feature is used with 4 part-of-speech tags: <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (25711; 28% instances), <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> (16859; 18% instances), <tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt> (1898; 2% instances), <tt><a href="tr_tourism-pos-AUX.html">AUX</a></tt> (1190; 1% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (25708; 28% instances), <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> (16859; 18% instances), <tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt> (1898; 2% instances), <tt><a href="tr_tourism-pos-AUX.html">AUX</a></tt> (1190; 1% instances).
 
 ### `NOUN`
 
-25711 <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
+25708 <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="tr_tourism-feat-Person.html">Person</a></tt><tt>=3</tt> (25711; 100%), <tt><a href="tr_tourism-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (18956; 74%), <tt><a href="tr_tourism-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (18956; 74%), <tt><a href="tr_tourism-feat-Case.html">Case</a></tt><tt>=Nom</tt> (18584; 72%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="tr_tourism-feat-Person.html">Person</a></tt><tt>=3</tt> (25708; 100%), <tt><a href="tr_tourism-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (18954; 74%), <tt><a href="tr_tourism-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (18954; 74%), <tt><a href="tr_tourism-feat-Case.html">Case</a></tt><tt>=Nom</tt> (18583; 72%).
 
 `NOUN` tokens may have the following values of `Number`:
 
 * `Plur` (4277; 17% of non-empty `Number`): <em>YEMEKLER, YEMEKLERİ, PERSONELLERİ, PERSONELLER, AİLELER, ODALAR, OLANAKLARI, İMKANLARI, TEŞEKKÜRLER, AİLELERE</em>
-* `Sing` (21434; 83% of non-empty `Number`): <em>HİZMET, BEY, PUAN, KONUMU, ÇEŞİT, TAVSİYE, TESİS, PERSONEL, OTEL, DENİZİ</em>
+* `Sing` (21431; 83% of non-empty `Number`): <em>HİZMET, BEY, PUAN, KONUMU, ÇEŞİT, TAVSİYE, TESİS, PERSONEL, OTEL, DENİZİ</em>
 
 <table>
   <tr><th>Paradigm <i>personel</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>

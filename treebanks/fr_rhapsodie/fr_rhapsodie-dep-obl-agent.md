@@ -23,16 +23,16 @@ The following 2 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 11 obl:agent	color:blue
-1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+1	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	suis	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	sûr	sûr	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
 4	que	que	SCONJ	_	_	6	mark	_	_
-5	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	6	nsubj	_	_
-6	allez	aller	VERB	ETRE	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
-7	être	être	AUX	DoubleAux	VerbForm=Inf	8	aux:pass	_	Subject=SubjRaising
-8	convaincus	convaincre	VERB	DoubleAux	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	6	xcomp	_	_
+5	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	6	nsubj	_	_
+6	allez	aller	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+7	être	être	AUX	_	VerbForm=Inf	8	aux:pass	_	Subject=SubjRaising
+8	convaincus	convaincre	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	6	xcomp	_	_
 9	par	par	ADP	_	_	11	case	_	_
-10	notre	son	DET	_	Number=Sing|Number[psor]=Plur|Person=3|Person[psor]=1|PronType=Prs	11	det	_	_
+10	notre	son	DET	_	Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs	11	det	_	_
 11	boule	boule	NOUN	_	Gender=Fem|Number=Sing	8	obl:agent	_	_
 12	magique	magique	ADJ	_	Gender=Fem|Number=Sing	11	amod	_	_
 13	tout	tout	ADV	_	_	15	advmod	_	_
@@ -61,10 +61,10 @@ The following 2 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 10	,	,	PUNCT	_	_	1	punct	_	_
 11	maintenant	maintenant	ADV	_	_	14	advmod	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	11	punct	_	_
-13	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	14	nsubj	_	_
+13	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	14	nsubj	_	_
 14	s~	s~	VERB	_	_	21	reparandum	_	SpaceAfter=No
 15	,	,	PUNCT	_	_	21	punct	_	_
-16	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	21	nsubj:pass	_	_
+16	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	21	nsubj:pass	_	_
 17	suis	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	21	aux:pass	_	_
 18	plus	plus	ADV	_	_	21	advmod	_	_
 19	ou	ou	CCONJ	_	_	20	cc	_	_

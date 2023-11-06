@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-5873 nodes (2%) are attached to their parents as `det`.
+5881 nodes (2%) are attached to their parents as `det`.
 
-5873 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.32572790737272.
+5881 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.32528481550757.
 
-The following 9 pairs of parts of speech are connected with `det`: <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (5692; 97% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (63; 1% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (52; 1% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt>-<tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (45; 1% instances), <tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt>-<tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (12; 0% instances), <tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt>-<tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt>-<tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="sl_ssj-pos-X.html">X</a></tt>-<tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `det`: <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (5692; 97% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (63; 1% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (52; 1% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt>-<tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (45; 1% instances), <tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt>-<tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (19; 0% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt>-<tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt>-<tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="sl_ssj-pos-X.html">X</a></tt>-<tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -28,7 +28,7 @@ The following 9 pairs of parts of speech are connected with `det`: <tt><a href="
 4	želje	želja	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	NER=O
 5	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	cop	_	NER=O
 6	pripravljeni	pripravljen	ADJ	Appmpn	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	NER=O
-7	vložiti	vložiti	VERB	Vmen	Aspect=Perf|VerbForm=Inf	6	ccomp	_	NER=O
+7	vložiti	vložiti	VERB	Vmen	Aspect=Perf|VerbForm=Inf	6	xcomp	_	NER=O
 8	več	več	DET	Rgc	PronType=Ind	9	det	_	NER=O
 9	truda	trud	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	7	obj	_	NER=O|SpaceAfter=No
 10	.	.	PUNCT	Z	_	6	punct	_	NER=O

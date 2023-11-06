@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-749 nodes (1%) are attached to their parents as `nummod`.
+743 nodes (1%) are attached to their parents as `nummod`.
 
-731 instances of `nummod` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.19225634178905.
+729 instances of `nummod` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.19380888290713.
 
-The following 10 pairs of parts of speech are connected with `nummod`: <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (684; 91% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt>-<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (49; 7% instances), <tt><a href="gd_arcosg-pos-SYM.html">SYM</a></tt>-<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt>-<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-SYM.html">SYM</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt>-<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `nummod`: <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (679; 91% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt>-<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (49; 7% instances), <tt><a href="gd_arcosg-pos-SYM.html">SYM</a></tt>-<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt>-<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-SYM.html">SYM</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt>-<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -31,7 +31,7 @@ The following 10 pairs of parts of speech are connected with `nummod`: <tt><a hr
 7	eile	eile	ADJ	Aq-smn	Case=Nom|Gender=Masc|Number=Sing	6	amod	_	_
 8	air	air	PART	Sa	_	13	case	_	_
 9	na	an	DET	Tdpf	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
-10	trì	trì	NUM	Mc	_	11	nummod	_	_
+10	trì	trì	NUM	Mc	NumForm=Word|NumType=Card	11	nummod	_	_
 11	duilleagan	duilleag	NOUN	Ncpfn	Case=Nom|Gender=Fem|Number=Plur	13	obj	_	_
 12	a	a	PART	Ug	PartType=Inf	13	mark:prt	_	_
 13	dhèanamh	dèan	NOUN	Nv	VerbForm=Inf	3	xcomp:pred	_	SpaceAfter=No
@@ -49,14 +49,14 @@ The following 10 pairs of parts of speech are connected with `nummod`: <tt><a hr
 1	Chosg	cosg	VERB	V-s	Tense=Past	0	root	_	_
 2	i	i	PRON	Pp3sf	Gender=Fem|Number=Sing|Person=3	1	nsubj	_	_
 3	£	£	SYM	Xy	_	1	obj	_	SpaceAfter=No
-4	7.9	7.9	NUM	Mn	_	5	nummod	_	_
-5	m	m	NUM	Y	_	3	nummod	_	SpaceAfter=No
+4	7.9	7.9	NUM	Mn	NumForm=Digit|NumType=Card	5	nummod	_	_
+5	m	m	NUM	Y	NumForm=Word	3	nummod	_	SpaceAfter=No
 6	,	,	PUNCT	Fi	_	1	punct	_	_
 7	agus	agus	CCONJ	Cc	_	8	cc	_	_
 8	thàinig	thig	VERB	V-s	Tense=Past	1	conj	_	_
 9	£	£	SYM	Xy	_	8	nsubj	_	SpaceAfter=No
-10	4.2	4.2	NUM	Mn	_	11	nummod	_	_
-11	m	m	NUM	Y	_	9	nummod	_	_
+10	4.2	4.2	NUM	Mn	NumForm=Digit|NumType=Card	11	nummod	_	_
+11	m	m	NUM	Y	NumForm=Word	9	nummod	_	_
 12	de	de	ADP	Sp	_	13	case	_	_
 13	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3	9	nmod	_	_
 14	bho	bho	ADP	Sp	_	16	case	_	_
@@ -77,14 +77,14 @@ The following 10 pairs of parts of speech are connected with `nummod`: <tt><a hr
 1	Chosg	cosg	VERB	V-s	Tense=Past	0	root	_	_
 2	i	i	PRON	Pp3sf	Gender=Fem|Number=Sing|Person=3	1	nsubj	_	_
 3	£	£	SYM	Xy	_	1	obj	_	SpaceAfter=No
-4	7.9	7.9	NUM	Mn	_	5	nummod	_	_
-5	m	m	NUM	Y	_	3	nummod	_	SpaceAfter=No
+4	7.9	7.9	NUM	Mn	NumForm=Digit|NumType=Card	5	nummod	_	_
+5	m	m	NUM	Y	NumForm=Word	3	nummod	_	SpaceAfter=No
 6	,	,	PUNCT	Fi	_	1	punct	_	_
 7	agus	agus	CCONJ	Cc	_	8	cc	_	_
 8	thàinig	thig	VERB	V-s	Tense=Past	1	conj	_	_
 9	£	£	SYM	Xy	_	8	nsubj	_	SpaceAfter=No
-10	4.2	4.2	NUM	Mn	_	11	nummod	_	_
-11	m	m	NUM	Y	_	9	nummod	_	_
+10	4.2	4.2	NUM	Mn	NumForm=Digit|NumType=Card	11	nummod	_	_
+11	m	m	NUM	Y	NumForm=Word	9	nummod	_	_
 12	de	de	ADP	Sp	_	13	case	_	_
 13	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3	9	nmod	_	_
 14	bho	bho	ADP	Sp	_	16	case	_	_

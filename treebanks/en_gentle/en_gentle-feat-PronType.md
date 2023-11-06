@@ -9,32 +9,32 @@ udver: '2'
 This feature is universal but the values `Emp` are language-specific.
 It occurs with 10 different values: `Art`, `Dem`, `Emp`, `Ind`, `Int`, `Neg`, `Prs`, `Rcp`, `Rel`, `Tot`.
 
-2498 tokens (14%) have a non-empty value of `PronType`.
+2496 tokens (14%) have a non-empty value of `PronType`.
 113 types (3%) occur at least once with a non-empty value of `PronType`.
 64 lemmas (2%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="en_gentle-pos-DET.html">DET</a></tt> (1200; 7% instances), <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> (1186; 7% instances), <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> (112; 1% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="en_gentle-pos-DET.html">DET</a></tt> (1197; 7% instances), <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> (1186; 7% instances), <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> (113; 1% instances).
 
 ### `DET`
 
-1200 <tt><a href="en_gentle-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+1197 <tt><a href="en_gentle-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="en_gentle-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (629; 52%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="en_gentle-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (629; 53%).
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Art` (991; 83% of non-empty `PronType`): <em>the, a, an, no, another, both, either, n, ∀, know</em>
-* `Dem` (104; 9% of non-empty `PronType`): <em>this, that, these, such, those</em>
-* `Ind` (47; 4% of non-empty `PronType`): <em>any, some, many</em>
+* `Art` (940; 79% of non-empty `PronType`): <em>the, a, an</em>
+* `Dem` (103; 9% of non-empty `PronType`): <em>this, that, these, such, those</em>
+* `Ind` (83; 7% of non-empty `PronType`): <em>any, some, all, every, another, each, both, many, n, ∀</em>
 * `Int` (2; 0% of non-empty `PronType`): <em>what, which</em>
+* `Neg` (35; 3% of non-empty `PronType`): <em>no, know</em>
 * `Rcp` (3; 0% of non-empty `PronType`): <em>each</em>
-* `Tot` (53; 4% of non-empty `PronType`): <em>all, each, every</em>
+* `Tot` (31; 3% of non-empty `PronType`): <em>all, each, both</em>
+* `EMPTY` (3): <em>either</em>
 
 <table>
-  <tr><th>Paradigm <i>each</i></th><th><tt>Rcp</tt></th><th><tt>Tot</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>each</em></td><td><em>each</em></td></tr>
+  <tr><th>Paradigm <i>each</i></th><th><tt>Rcp</tt></th><th><tt>Tot</tt></th><th><tt>Ind</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>each</em></td><td><em>each</em></td><td><em>each</em></td></tr>
 </table>
-
-`PronType` seems to be **lexical feature** of `DET`. 95% lemmas (18) occur only with one value of `PronType`.
 
 ### `PRON`
 
@@ -62,16 +62,16 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 ### `ADV`
 
-112 <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> tokens (15% of all `ADV` tokens) have a non-empty value of `PronType`.
+113 <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> tokens (16% of all `ADV` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="en_gentle-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (112; 100%).
+The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="en_gentle-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (113; 100%).
 
 `ADV` tokens may have the following values of `PronType`:
 
-* `Dem` (74; 66% of non-empty `PronType`): <em>then, here, there</em>
-* `Int` (19; 17% of non-empty `PronType`): <em>when, how, where</em>
-* `Rel` (19; 17% of non-empty `PronType`): <em>where, how, when</em>
-* `EMPTY` (616): <em>just, so, also, thus, well, now, as, only, still, very</em>
+* `Dem` (74; 65% of non-empty `PronType`): <em>then, here, there</em>
+* `Int` (18; 16% of non-empty `PronType`): <em>when, how, where, whereby</em>
+* `Rel` (21; 19% of non-empty `PronType`): <em>where, how, when</em>
+* `EMPTY` (613): <em>just, so, also, thus, well, now, as, only, still, very</em>
 
 <table>
   <tr><th>Paradigm <i>how</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th></tr>

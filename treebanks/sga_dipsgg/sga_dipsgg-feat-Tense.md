@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fut`, `Past`, `Pres`.
 
-44 tokens (11%) have a non-empty value of `Tense`.
-32 types (12%) occur at least once with a non-empty value of `Tense`.
-19 lemmas (9%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt> (27; 7% instances), <tt><a href="sga_dipsgg-pos-AUX.html">AUX</a></tt> (17; 4% instances).
+45 tokens (11%) have a non-empty value of `Tense`.
+33 types (12%) occur at least once with a non-empty value of `Tense`.
+20 lemmas (10%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 2 part-of-speech tags: <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt> (28; 7% instances), <tt><a href="sga_dipsgg-pos-AUX.html">AUX</a></tt> (17; 4% instances).
 
 ### `VERB`
 
-27 <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt> tokens (96% of all `VERB` tokens) have a non-empty value of `Tense`.
+28 <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt> tokens (97% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="sga_dipsgg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (25; 93%), <tt><a href="sga_dipsgg-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (25; 93%), <tt><a href="sga_dipsgg-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (23; 85%), <tt><a href="sga_dipsgg-feat-PartType.html">PartType</a></tt><tt>=EMPTY</tt> (23; 85%), <tt><a href="sga_dipsgg-feat-Person.html">Person</a></tt><tt>=3</tt> (19; 70%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="sga_dipsgg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (26; 93%), <tt><a href="sga_dipsgg-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (26; 93%), <tt><a href="sga_dipsgg-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (24; 86%), <tt><a href="sga_dipsgg-feat-PartType.html">PartType</a></tt><tt>=EMPTY</tt> (24; 86%), <tt><a href="sga_dipsgg-feat-Person.html">Person</a></tt><tt>=3</tt> (19; 68%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Fut` (3; 11% of non-empty `Tense`): <em>cél, róis, tiach</em>
-* `Past` (4; 15% of non-empty `Tense`): <em>giuil, roscribad, roscríbad, rosechestar</em>
-* `Pres` (20; 74% of non-empty `Tense`): <em>chain, Gaib, cóima, ecmoṅgat, epur, farcai, fuasna, llega, maraith, mardda</em>
+* `Past` (4; 14% of non-empty `Tense`): <em>giuil, roscribad, roscríbad, rosechestar</em>
+* `Pres` (21; 75% of non-empty `Tense`): <em>chain, Gaib, braigim, cóima, ecmoṅgat, epur, farcai, fuasna, llega, maraith</em>
 * `EMPTY` (1): <em>adest</em>
 
 <table>

@@ -41,11 +41,11 @@ The 2nd highest number of forms (4) was observed with the lemma “dva”: <em>d
 
 The 3rd highest number of forms (4) was observed with the lemma “tři”: <em>třech, třemi, tři, tří</em>.
 
-`NUM` occurs with 6 features: <tt><a href="cs_pud-feat-NumForm.html">NumForm</a></tt> (459; 100% instances), <tt><a href="cs_pud-feat-NumType.html">NumType</a></tt> (459; 100% instances), <tt><a href="cs_pud-feat-Case.html">Case</a></tt> (140; 31% instances), <tt><a href="cs_pud-feat-Number.html">Number</a></tt> (140; 31% instances), <tt><a href="cs_pud-feat-NumValue.html">NumValue</a></tt> (102; 22% instances), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt> (62; 14% instances)
+`NUM` occurs with 5 features: <tt><a href="cs_pud-feat-NumForm.html">NumForm</a></tt> (459; 100% instances), <tt><a href="cs_pud-feat-NumType.html">NumType</a></tt> (459; 100% instances), <tt><a href="cs_pud-feat-Case.html">Case</a></tt> (140; 31% instances), <tt><a href="cs_pud-feat-Number.html">Number</a></tt> (140; 31% instances), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt> (62; 14% instances)
 
-`NUM` occurs with 18 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Gender=Fem`, `Gender=Fem,Neut`, `Gender=Masc`, `Gender=Masc,Neut`, `Gender=Neut`, `NumForm=Digit`, `NumForm=Roman`, `NumForm=Word`, `NumType=Card`, `NumValue=1,2,3`, `Number=Plur`, `Number=Sing`
+`NUM` occurs with 17 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Gender=Fem`, `Gender=Fem,Neut`, `Gender=Masc`, `Gender=Masc,Neut`, `Gender=Neut`, `NumForm=Digit`, `NumForm=Roman`, `NumForm=Word`, `NumType=Card`, `Number=Plur`, `Number=Sing`
 
-`NUM` occurs with 30 feature combinations.
+`NUM` occurs with 26 feature combinations.
 The most frequent feature combination is `NumForm=Digit|NumType=Card` (303 tokens).
 Examples: <em>1, 3, 20, 2014, 2015, 5, 10, 100, 1492, 2010</em>
 

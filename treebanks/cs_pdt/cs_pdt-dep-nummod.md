@@ -28,7 +28,7 @@ The following 10 pairs of parts of speech are connected with `nummod`: <tt><a hr
 3	vyrábí	vyrábět	VERB	VB-S---3P-AAI--	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Functor=0:PRED
 4	teplo	teplo	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	3	obj	3:obj	Entity=(cmpr9410049c2--1-gstype:gen)|Functor=3:PAT|LId=teplo-1
 5	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	7	case	7:case	LId=v-1
-6	šesti	šest	NUM	Cl-P6----------	Case=Loc|Number=Plur|NumForm=Word|NumType=Card|NumValue=1,2,3	7	nummod	7:nummod	LNumValue=6|Functor=7:RSTR
+6	šesti	šest	NUM	Cl-P6----------	Case=Loc|Number=Plur|NumForm=Word|NumType=Card	7	nummod	7:nummod	LNumValue=6|Functor=7:RSTR
 7	divizích	divize	NOUN	NNFP6-----A----	Case=Loc|Gender=Fem|Number=Plur|Polarity=Pos	3	obl	3:obl:v:loc	Functor=3:LOC
 8	na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	9	case	9:case	Entity=(cmpr9410049c31--2-gstype:spec|LId=na-1
 9	severu	sever	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	7	nmod	7:nmod:na:loc	Functor=7:LOC

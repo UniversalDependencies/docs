@@ -34,5 +34,5 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (1; 100% of non-empty `NumType`): <em>First</em>
-* `EMPTY` (1558): <em>andra, första, nya, många, flera, stora, stor, hela, senaste, sista</em>
+* `EMPTY` (1559): <em>andra, första, nya, många, flera, stora, stor, hela, senaste, sista</em>
 

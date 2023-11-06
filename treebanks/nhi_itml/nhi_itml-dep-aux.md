@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-795 nodes (8%) are attached to their parents as `aux`.
+774 nodes (8%) are attached to their parents as `aux`.
 
-789 instances of `aux` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.07798742138365.
+767 instances of `aux` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.05555555555556.
 
-The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> (770; 97% instances), <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> (15; 2% instances), <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt>-<tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="nhi_itml-pos-DET.html">DET</a></tt>-<tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> (750; 97% instances), <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> (14; 2% instances), <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt>-<tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="nhi_itml-pos-DET.html">DET</a></tt>-<tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

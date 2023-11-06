@@ -39,7 +39,7 @@ The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 3 4 goeswith	color:blue
 1	“	“	PUNCT	_	_	5	punct	5:punct	SpaceAfter=No|NormalizedForm=“|NormalizedLemma=“
 2	¡	¡	PUNCT	_	_	5	punct	5:punct	SpaceAfter=No|NormalizedForm=¡|NormalizedLemma=¡
-3	Amo	amo	ADV	_	Polarity=Neg|Typo=Yes	5	advmod	5:advmod	CorrectForm=Amoqueman|NormalizedForm=amo|NormalizedLemma=amo
+3	Amo	amoqueman	ADV	_	Polarity=Neg|Typo=Yes	5	advmod	5:advmod	CorrectForm=Amoqueman|NormalizedForm=amo|NormalizedLemma=amo
 4	queman	_	X	_	_	3	goeswith	3:goeswith	NormalizedForm=keman|NormalizedLemma=_
 5	ixtlahcolcahua	tlahcolcahua	VERB	_	Mood=Opt|Number[subj]=Sing|Person[subj]=2|Subcat=Tran	0	root	0:root	NormalizedForm=ixtlahkolkawa|NormalizedLemma=tlahkolkawa
 6	ce	ce	DET	_	_	7	det	7:det	NormalizedForm=se|NormalizedLemma=se

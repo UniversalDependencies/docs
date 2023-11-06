@@ -17,28 +17,25 @@ The following 18 pairs of parts of speech are connected with `dislocated`: <tt><
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 5 dislocated	color:blue
-1	ו	ו	CCONJ	conj	_	11	cc	_	Ref=GEN_21.13
-2	גם	גם	ADV	advb	_	5	advmod	_	Ref=GEN_21.13
-3	אֶת	את	ADP	prep	_	5	case	_	Ref=GEN_21.13|SpaceAfter=No
-4	־	־	PUNCT	punct	_	3	punct	_	Ref=GEN_21.13|SpaceAfter=No
-5	בֶּן	בן	NOUN	subs	Gender=Masc|Number=Sing	11	dislocated	_	Ref=GEN_21.13|SpaceAfter=No
-6	־	־	PUNCT	punct	_	8	punct	_	Ref=GEN_21.13|SpaceAfter=No
-7	ה	ה	DET	art	PronType=Art	8	det	_	Ref=GEN_21.13
-8	אמה	אמה	NOUN	subs	Gender=Fem|Number=Sing	5	compound:smixut	_	Ref=GEN_21.13
-9	ל	ל	ADP	prep	_	10	case	_	Ref=GEN_21.13
-10	גוי	גוי	NOUN	subs	Gender=Masc|Number=Sing	11	obl	_	Ref=GEN_21.13
-11	שׂים	שׂים	VERB	verb	Aspect=Imp|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	0	root	_	Ref=GEN_21.13
-12	הוא	הוא	PRON	prn	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obj	_	Ref=GEN_21.13
-13	כִּ֥י	כי	SCONJ	conj	_	14	mark	_	Ref=GEN_21.13
-14	זרע	זרע	NOUN	subs	Gender=Masc|Number=Sing	11	advcl	_	Ref=GEN_21.13
-15	אתה	אתה	PRON	prn	Gender=Masc|Number=Sing|Person=2|PronType=Prs	14	nmod:poss	_	Ref=GEN_21.13
-16	הֽוּא	הוא	PRON	prps	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	Ref=GEN_21.13|SpaceAfter=No
-17	׃	׃	PUNCT	punct	_	11	punct	_	Ref=GEN_21.13
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 9 dislocated	color:blue
+1	בֵּ֤ן	בן	NOUN	subs	Gender=Masc|Number=Sing	0	root	_	Ref=GEN_49.22
+2	פֹּרָת֙	פרת	NOUN	subs	Gender=Fem|Number=Sing	1	appos	_	Ref=GEN_49.22
+3	יֹוסֵ֔ף	יוסף	PROPN	nmpr	Gender=Masc|Number=Sing	1	nsubj	_	Ref=GEN_49.22
+4	בֵּ֥ן	בן	NOUN	subs	Gender=Masc|Number=Sing	1	appos	_	Ref=GEN_49.22
+5	פֹּרָ֖ת	פרת	NOUN	subs	Gender=Fem|Number=Sing	4	appos	_	Ref=GEN_49.22
+6	עֲלֵי	על	ADP	prep	_	8	case	_	Ref=GEN_49.22|SpaceAfter=No
+7	־	־	PUNCT	punct	_	6	punct	_	Ref=GEN_49.22|SpaceAfter=No
+8	עָ֑יִן	עין	NOUN	subs	Gender=Fem|Number=Sing	4	obl	_	Ref=GEN_49.22
+9	בָּנֹ֕ות	בת	NOUN	subs	Gender=Fem|Number=Plur	10	dislocated	_	Ref=GEN_49.22
+10	צָעֲדָ֖ה	צעד	VERB	verb	Aspect=Perf|Gender=Fem|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	1	parataxis	_	Ref=GEN_49.22
+11	עֲלֵי	על	ADP	prep	_	13	case	_	Ref=GEN_49.22|SpaceAfter=No
+12	־	־	PUNCT	punct	_	11	punct	_	Ref=GEN_49.22|SpaceAfter=No
+13	שֽׁוּר	שׁור	NOUN	subs	Gender=Masc|Number=Sing	10	obl	_	Gloss=wall|Ref=GEN_49.22|SpaceAfter=No
+14	׃	׃	PUNCT	punct	_	1	punct	_	Ref=GEN_49.22
 
 ~~~
 
@@ -49,43 +46,44 @@ The following 18 pairs of parts of speech are connected with `dislocated`: <tt><
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 8 dislocated	color:blue
-1	ה	ה	DET	art	PronType=Art	2	det	_	Ref=GEN_44.3
-2	בקר	בקר	NOUN	subs	Gender=Masc|Number=Sing	3	nsubj	_	Ref=GEN_44.3
+1	הַ	ה	DET	art	PronType=Art	2	det	_	Ref=GEN_44.3
+2	בֹּ֖קֶר	בקר	NOUN	subs	Gender=Masc|Number=Sing	3	nsubj	_	Ref=GEN_44.3
 3	אֹ֑ור	אור	VERB	verb	Aspect=Perf|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Ref=GEN_44.3
-4	ו	ו	CCONJ	conj	_	7	cc	_	Ref=GEN_44.3
-5	ה	ה	DET	art	PronType=Art	6	det	_	Ref=GEN_44.3
-6	אישׁ	אישׁ	NOUN	subs	Gender=Masc|Number=Plur	7	nsubj	_	Ref=GEN_44.3
+4	וְ	ו	CCONJ	conj	_	7	cc	_	Ref=GEN_44.3
+5	הָ	ה	DET	art	PronType=Art	6	det	_	Ref=GEN_44.3
+6	אֲנָשִׁ֣ים	אישׁ	NOUN	subs	Gender=Masc|Number=Plur	7	nsubj	_	Ref=GEN_44.3
 7	שֻׁלְּח֔וּ	שׁלח	VERB	verb	Aspect=Perf|HebBinyan=PUAL|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	3	conj	_	Ref=GEN_44.3
 8	הֵ֖מָּה	המה	PRON	prps	Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	dislocated	_	Ref=GEN_44.3
-9	ו	ו	CCONJ	conj	_	10	cc	_	Ref=GEN_44.3
-10	חמור	חמור	NOUN	subs	Gender=Masc|Number=Plur	8	conj	_	Ref=GEN_44.3
-11	הם	הם	PRON	prn	Gender=Masc|Number=Plur|Person=3|PronType=Prs	10	nmod:poss	_	Ref=GEN_44.3
+9	וַ	ו	CCONJ	conj	_	10	cc	_	Ref=GEN_44.3
+10	חֲמֹרֵי	חמור	NOUN	subs	Gender=Masc|Number=Plur	8	conj	_	Ref=GEN_44.3
+11	הֶֽם	הם	PRON	prn	Gender=Masc|Number=Plur|Person=3|PronType=Prs	10	nmod:poss	_	Ref=GEN_44.3
 12	׃	׃	PUNCT	punct	_	3	punct	_	Ref=GEN_44.3
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 11 dislocated	color:blue
-1	ו	ו	CCONJ	conj	_	2	cc	_	Ref=GEN_40.18
-2	ענה	ענה	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Ref=GEN_40.18
-3	יֹוסֵף֙	יוסף	PROPN	nmpr	Gender=Masc|Number=Sing	2	nsubj	_	Ref=GEN_40.18
-4	ו	ו	CCONJ	conj	_	5	cc	_	Ref=GEN_40.18
-5	אמר	אמר	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	Ref=GEN_40.18
-6	זֶ֖ה	זה	PRON	prde	Gender=Masc|Number=Sing|PronType=Dem	7	nsubj	_	Ref=GEN_40.18
-7	פתרון	פתרון	NOUN	subs	Gender=Masc|Number=Sing	5	ccomp	_	Ref=GEN_40.18
-8	הוא	הוא	PRON	prn	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nmod:poss	_	Ref=GEN_40.18
-9	שְׁלֹ֨שֶׁת֙	שׁלשׁ	NUM	subs	Gender=Fem|Number=Sing|NumType=Card	11	nummod	_	Ref=GEN_40.18
-10	ה	ה	DET	art	PronType=Art	11	det	_	Ref=GEN_40.18
-11	סל	סל	NOUN	subs	Gender=Masc|Number=Plur	13	dislocated	_	Ref=GEN_40.18
-12	שְׁלֹ֥שֶׁת	שׁלשׁ	NUM	subs	Gender=Fem|Number=Sing|NumType=Card	13	nummod	_	Ref=GEN_40.18
-13	יָמִ֖ים	יום	NOUN	subs	Gender=Masc|Number=Plur	7	parataxis	_	Ref=GEN_40.18
-14	הֵֽם	הם	PRON	prps	Gender=Masc|Number=Plur|Person=3|PronType=Prs	13	nsubj	_	Ref=GEN_40.18|SpaceAfter=No
-15	׃	׃	PUNCT	punct	_	2	punct	_	Ref=GEN_40.18
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 dislocated	color:blue
+1	כֻּלָּ֕	כל	NOUN	subs	Gender=Masc|Number=Sing	3	dislocated	_	Ref=GEN_42.11
+2	נוּ	אנחנו	PRON	prn	Number=Plur|Person=1|PronType=Prs	1	nmod:poss	_	Ref=GEN_42.11
+3	בְּנֵ֥י	בן	NOUN	subs	Gender=Masc|Number=Plur	0	root	_	Ref=GEN_42.11
+4	אִישׁ	אישׁ	NOUN	subs	Gender=Masc|Number=Sing	3	compound:smixut	_	Ref=GEN_42.11|SpaceAfter=No
+5	־	־	PUNCT	punct	_	6	punct	_	Ref=GEN_42.11|SpaceAfter=No
+6	אֶחָ֖ד	אחד	NUM	subs	Number=Sing|NumType=Card	4	nummod	_	Ref=GEN_42.11
+7	נָ֑חְנוּ	נחנו	PRON	prps	Number=Plur|Person=1|PronType=Prs	3	nsubj	_	Ref=GEN_42.11
+8	כֵּנִ֣ים	כן	ADJ	adjv	Gender=Masc|Number=Plur	3	parataxis	_	Ref=GEN_42.11
+9	אֲנַ֔חְנוּ	אנחנו	PRON	prps	Number=Plur|Person=1|PronType=Prs	8	nsubj	_	Ref=GEN_42.11
+10	לֹא	לא	ADV	nega	Polarity=Neg	15	advmod	_	Ref=GEN_42.11|SpaceAfter=No
+11	־	־	PUNCT	punct	_	10	punct	_	Ref=GEN_42.11|SpaceAfter=No
+12	הָי֥וּ	היה	AUX	verb	Aspect=Perf|HebBinyan=PAAL|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	15	cop	_	Ref=GEN_42.11
+13	עֲבָדֶ֖י	עבד	NOUN	subs	Gender=Masc|Number=Plur	15	nsubj	_	Ref=GEN_42.11
+14	ךָ	אתה	PRON	prn	Gender=Masc|Number=Sing|Person=2|PronType=Prs	13	nmod:poss	_	Ref=GEN_42.11
+15	מְרַגְּלִֽים	רגל	NOUN	verb	Gender=Masc|HebBinyan=PIEL|Number=Plur|VerbForm=Part	8	parataxis	_	Ref=GEN_42.11|SpaceAfter=No
+16	׃	׃	PUNCT	punct	_	3	punct	_	Ref=GEN_42.11
 
 ~~~
 

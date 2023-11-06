@@ -12,19 +12,19 @@ It occurs with 2 different values: `Fem`, `Masc`.
 90308 tokens (41%) have a non-empty value of `Gender`.
 24196 types (77%) occur at least once with a non-empty value of `Gender`.
 12077 lemmas (70%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 8 part-of-speech tags: <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (52826; 24% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> (14475; 7% instances), <tt><a href="ro_rrt-pos-DET.html">DET</a></tt> (10401; 5% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (7634; 3% instances), <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (3079; 1% instances), <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (940; 0% instances), <tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (631; 0% instances), <tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt> (322; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (52827; 24% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> (14474; 7% instances), <tt><a href="ro_rrt-pos-DET.html">DET</a></tt> (10401; 5% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (7634; 3% instances), <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (3079; 1% instances), <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (940; 0% instances), <tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (631; 0% instances), <tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt> (322; 0% instances).
 
 ### `NOUN`
 
-52826 <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> tokens (97% of all `NOUN` tokens) have a non-empty value of `Gender`.
+52827 <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> tokens (97% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (38592; 73%), <tt><a href="ro_rrt-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt> (28805; 55%), <tt><a href="ro_rrt-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (27198; 51%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (38593; 73%), <tt><a href="ro_rrt-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt> (28805; 55%), <tt><a href="ro_rrt-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (27198; 51%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
 * `Fem` (32519; 62% of non-empty `Gender`): <em>conformitate, membre, statele, Comisia, parte, față, partea, fața, comisiei, urmă</em>
-* `Masc` (20307; 38% of non-empty `Gender`): <em>ani, timp, cazul, loc, timpul, mod, acord, b, lucru, cadrul</em>
-* `EMPTY` (1430): <em>art., a., nr., CE, b., mg, lit., alin., ml, CEE</em>
+* `Masc` (20308; 38% of non-empty `Gender`): <em>ani, timp, cazul, loc, timpul, mod, acord, b, lucru, cadrul</em>
+* `EMPTY` (1431): <em>art., a., nr., CE, b., mg, lit., alin., ml, CEE</em>
 
 <table>
   <tr><th>Paradigm <i>timp</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -40,14 +40,14 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 ### `ADJ`
 
-14475 <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> tokens (95% of all `ADJ` tokens) have a non-empty value of `Gender`.
+14474 <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> tokens (95% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="ro_rrt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (14435; 100%), <tt><a href="ro_rrt-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (13598; 94%), <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9617; 66%), <tt><a href="ro_rrt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (8881; 61%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="ro_rrt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (14434; 100%), <tt><a href="ro_rrt-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (13597; 94%), <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9616; 66%), <tt><a href="ro_rrt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (8880; 61%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
 * `Fem` (9207; 64% of non-empty `Gender`): <em>europene, necesare, prezenta, europeană, mică, naționale, română, chimice, prezentei, maximă</em>
-* `Masc` (5268; 36% of non-empty `Gender`): <em>prezentul, nou, european, prezentului, general, mic, național, bun, românesc, singur</em>
+* `Masc` (5267; 36% of non-empty `Gender`): <em>prezentul, nou, european, prezentului, general, mic, național, bun, românesc, singur</em>
 * `EMPTY` (824): <em>mare, asemenea, mari, mici, standard, noi, vechi, anume, românești, roșii</em>
 
 <table>
@@ -156,16 +156,16 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 
 * `Fem` (254; 79% of non-empty `Gender`): <em>României, Moldovei, Dunării, Europei, Franței, Italiei, Norvegiei, Rusiei, Ungariei, Germaniei</em>
 * `Masc` (68; 21% of non-empty `Gender`): <em>Carpaților, Iașilor, Jiului, Banatul, Iașii, Israelul, Israelului, Aradului, Banatului, Bucureștiului</em>
-* `EMPTY` (5564): <em>România, Winston, București, Timișoara, Iași, Ion, Paris, Alexandru, O'Brien, Moldova</em>
+* `EMPTY` (5563): <em>România, Winston, București, Timișoara, Iași, Ion, Paris, Alexandru, O'Brien, Moldova</em>
 
 `Gender` seems to be **lexical feature** of `PROPN`. 100% lemmas (104) occur only with one value of `Gender`.
 
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="ro_rrt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (11677; 95%),
-<tt>NOUN --[<tt><a href="ro_rrt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (8991; 54%),
-<tt>NOUN --[<tt><a href="ro_rrt-dep-det.html">det</a></tt>]--> DET</tt> (8124; 78%),
+<tt>NOUN --[<tt><a href="ro_rrt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (11682; 95%),
+<tt>NOUN --[<tt><a href="ro_rrt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (8995; 54%),
+<tt>NOUN --[<tt><a href="ro_rrt-dep-det.html">det</a></tt>]--> DET</tt> (8122; 78%),
 <tt>NOUN --[<tt><a href="ro_rrt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2494; 73%),
 <tt>VERB --[<tt><a href="ro_rrt-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (1025; 60%),
 <tt>ADJ --[<tt><a href="ro_rrt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (662; 93%),

@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Western_Sierra_Puebla_Nahuatl-ITML: POS Tags: `SCONJ`
 
-There are 39 `SCONJ` lemmas (2%), 37 `SCONJ` types (1%) and 292 `SCONJ` tokens (3%).
+There are 38 `SCONJ` lemmas (2%), 37 `SCONJ` types (1%) and 292 `SCONJ` tokens (3%).
 Out of 15 observed tags, the rank of `SCONJ` is: 8 in number of lemmas, 9 in number of types and 9 in number of tokens.
 
-The 10 most frequent `SCONJ` lemmas: <em>que, para, porque, tla, in, cuando, como, ihcuac, nic, tlen</em>
+The 10 most frequent `SCONJ` lemmas: <em>que, para, porque, tla, in, cuando, ihcuac, como, nic, tlen</em>
 
 The 10 most frequent `SCONJ` types:  <em>que, para, porque, tla, n, cuando, ihcuac, como, nic, tlen</em>
 
-The 10 most frequent ambiguous lemmas: <em>que</em> (<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 39, <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 2, <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> 2), <em>para</em> (<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 36, <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 34), <em>porque</em> (<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 36, <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 1), <em>in</em> (<tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 456, <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 16, <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="nhi_itml-pos-X.html">X</a></tt> 1), <em>cuando</em> (<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 15, <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 4), <em>como</em> (<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 13, <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 1, <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 1), <em>ihcuac</em> (<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 12, <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 4), <em>nic</em> (<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 12, <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 3), <em>tlen</em> (<tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> 23, <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 9, <tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 1), <em>n</em> (<tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 166, <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 8)
+The 10 most frequent ambiguous lemmas: <em>que</em> (<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 39, <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 2, <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> 2), <em>para</em> (<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 37, <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 35), <em>porque</em> (<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 36, <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 1), <em>in</em> (<tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 461, <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 16, <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="nhi_itml-pos-X.html">X</a></tt> 1), <em>cuando</em> (<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 15, <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 4), <em>ihcuac</em> (<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 13, <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 4), <em>como</em> (<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 13, <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 1, <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 1), <em>nic</em> (<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 12, <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 3), <em>tlen</em> (<tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> 24, <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 9, <tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 1), <em>n</em> (<tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 166, <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 8)
 
 The 10 most frequent ambiguous types:  <em>que</em> (<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 38, <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 2, <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> 2), <em>para</em> (<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 37, <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 34), <em>n</em> (<tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 410, <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 24, <tt><a href="nhi_itml-pos-X.html">X</a></tt> 1), <em>cuando</em> (<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 14, <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 4), <em>ihcuac</em> (<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 7, <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 3), <em>como</em> (<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 11, <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 1, <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 1), <em>nic</em> (<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 11, <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 3), <em>tlen</em> (<tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> 51, <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 1), <em>ijkwak</em> (<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 1), <em>keh</em> (<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 5, <tt><a href="nhi_itml-pos-INTJ.html">INTJ</a></tt> 1)
 
@@ -55,13 +55,13 @@ The 10 most frequent ambiguous types:  <em>que</em> (<tt><a href="nhi_itml-pos-S
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 0.948718 (the average of all parts of speech is 1.484900).
+The form / lemma ratio of `SCONJ` is 0.973684 (the average of all parts of speech is 1.458263).
 
-The 1st highest number of forms (3) was observed with the lemma “_”: <em>ihcuac, nik, para</em>.
+The 1st highest number of forms (3) was observed with the lemma “porque”: <em>Porkeh, porke, porque</em>.
 
-The 2nd highest number of forms (3) was observed with the lemma “porque”: <em>Porkeh, porke, porque</em>.
+The 2nd highest number of forms (2) was observed with the lemma “como”: <em>como, komoh</em>.
 
-The 3rd highest number of forms (2) was observed with the lemma “como”: <em>como, komoh</em>.
+The 3rd highest number of forms (2) was observed with the lemma “que”: <em>ken, que</em>.
 
 `SCONJ` occurs with 1 features: <tt><a href="nhi_itml-feat-Foreign.html">Foreign</a></tt> (45; 15% instances)
 

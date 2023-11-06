@@ -50,8 +50,8 @@ The following 4 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 det	color:blue
-1	*இந்த	இந்த	DET	_	_	2	det	_	Translit=inta|LTranslit=inta*discuss
-2	இரண்டு	இரண்டு	NUM	_	NumType=Card	3	nummod	_	Translit=iraṇṭu|LTranslit=iraṇṭu
+1	*இந்த	இந்த	DET	_	_	2	det	_	LTranslit=inta*discuss|Translit=inta
+2	இரண்டு	இரண்டு	NUM	_	NumType=Card	3	nummod	_	LTranslit=iraṇṭu|Translit=iraṇṭu
 3	மாணவர்களும்	மாணவர்	NOUN	_	Case=Nom|Number=Plur	6	nsubj	_	Translit=māṇavarkaḷum|LTranslit=māṇavar
 4	ஒரு	ஒன்று	NUM	_	_	5	nummod	_	Translit=oru|LTranslit=oṉṟu
 5	அறையில்	அறை	NOUN	_	Case=Loc|Number=Sing|Person=3	6	obl:lmod	_	Translit=aṟaiyil|LTranslit=aṟai

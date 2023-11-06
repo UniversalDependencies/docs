@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Fut`, `Imp`, `Past`, `Pres`.
 
-2811 tokens (10%) have a non-empty value of `Tense`.
-1060 types (26%) occur at least once with a non-empty value of `Tense`.
-467 lemmas (16%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (2048; 7% instances), <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (763; 3% instances).
+2813 tokens (10%) have a non-empty value of `Tense`.
+1063 types (26%) occur at least once with a non-empty value of `Tense`.
+468 lemmas (16%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 2 part-of-speech tags: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (2050; 7% instances), <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (763; 3% instances).
 
 ### `VERB`
 
-2048 <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> tokens (75% of all `VERB` tokens) have a non-empty value of `Tense`.
+2050 <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> tokens (75% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="fr_partut-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1302; 64%), <tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1246; 61%), <tt><a href="fr_partut-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1143; 56%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="fr_partut-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1305; 64%), <tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1248; 61%), <tt><a href="fr_partut-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1146; 56%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Fut` (69; 3% of non-empty `Tense`): <em>devra, pourront, aura, auront, dirai, ferai, pourra, soutiendra, acceptera, adhéreront</em>
-* `Imp` (35; 2% of non-empty `Tense`): <em>avait, provenaient, recommandait, arrivait, attendait, avaient, constituaient, contenaient, contenait, couvrait</em>
-* `Past` (769; 38% of non-empty `Tense`): <em>dite, fait, tenu, compris, donné, mis, dit, soumis, nommés, agit</em>
-* `Pres` (1175; 57% of non-empty `Tense`): <em>a, peut, voudrais, doit, est, devrait, concernant, convient, ont, peuvent</em>
+* `Imp` (37; 2% of non-empty `Tense`): <em>avait, provenaient, recommandait, arrivait, attendait, avaient, constituaient, contenaient, contenait, couvrait</em>
+* `Past` (767; 37% of non-empty `Tense`): <em>dite, fait, tenu, compris, donné, mis, dit, soumis, nommés, agit</em>
+* `Pres` (1177; 57% of non-empty `Tense`): <em>a, peut, voudrais, doit, est, devrait, concernant, convient, ont, peuvent</em>
 * `EMPTY` (691): <em>faire, améliorer, dire, abonner, assurer, savoir, avoir, compter, utiliser, communiquer</em>
 
 <table>
@@ -77,6 +77,6 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="fr_partut-dep-conj.html">conj</a></tt>]--> VERB</tt> (100; 65%),
+<tt>VERB --[<tt><a href="fr_partut-dep-conj.html">conj</a></tt>]--> VERB</tt> (101; 65%),
 <tt>VERB --[<tt><a href="fr_partut-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (2; 100%).
 

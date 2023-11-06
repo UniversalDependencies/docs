@@ -19,36 +19,36 @@ The 10 most frequent ambiguous types:  <em>değil</em> (<tt><a href="tr_imst-pos
 
 
 * <em>değil</em>
-  * <tt><a href="tr_imst-pos-AUX.html">AUX</a></tt> 63: <em>Kahve'yi bilmem ama Ali pek hazır <b>değil</b> galiba .</em>
-  * <tt><a href="tr_imst-pos-CCONJ.html">CCONJ</a></tt> 30: <em>Kendisini ağlayarak <b>değil</b> , gülerek uğurlamamızı istedi .</em>
-  * <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> 7: <em>Ne güzel günler di <b>değil</b> mi ? Ah , ah ...</em>
+  * <tt><a href="tr_imst-pos-AUX.html">AUX</a></tt> 63: <em>Hayır , şarklı <b>değil</b> .</em>
+  * <tt><a href="tr_imst-pos-CCONJ.html">CCONJ</a></tt> 30: <em>çalışmak da <b>değil</b> , hayatla boğuşuyorlar .</em>
+  * <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> 7: <em>Tam <b>değil</b> .</em>
 * <em>dır</em>
-  * <tt><a href="tr_imst-pos-AUX.html">AUX</a></tt> 63: <em>O , değişik renkleri ve yandan ışıkları ile karşımda hazır <b>dır</b> .</em>
+  * <tt><a href="tr_imst-pos-AUX.html">AUX</a></tt> 63: <em>Uzun zaman <b>dır</b> mı gidersiniz oraya .</em>
   * <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> 10: <em>yıllar <b>dır</b> kara bir sevda ile aynı kızı sevdi .</em>
 * <em>ise</em>
-  * <tt><a href="tr_imst-pos-CCONJ.html">CCONJ</a></tt> 45: <em>) Bazıları <b>ise</b> muadil ya da alternatif kavramlar üretti .</em>
-  * <tt><a href="tr_imst-pos-AUX.html">AUX</a></tt> 21: <em>Alışveriş <b>ise</b> hayatın temelinde yatar .</em>
+  * <tt><a href="tr_imst-pos-CCONJ.html">CCONJ</a></tt> 45: <em>Lam deniz demek , ut <b>ise</b> Türkçede ki ci eki .</em>
+  * <tt><a href="tr_imst-pos-AUX.html">AUX</a></tt> 21: <em>Ve dil varlığın evi <b>ise</b> , ev de dilin doğumevi dir .</em>
 * <em>değildir</em>
-  * <tt><a href="tr_imst-pos-AUX.html">AUX</a></tt> 16: <em>Aslına bakarsanız , leblebi yemiş <b>değildir</b> .</em>
+  * <tt><a href="tr_imst-pos-AUX.html">AUX</a></tt> 16: <em>Köşe yazısı <b>değildir</b> ...</em>
   * <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> 2: <em>Lahana gibi göz doyur ucu , mide doldur ucu <b>değildir</b> .</em>
 * <em>değildi</em>
-  * <tt><a href="tr_imst-pos-AUX.html">AUX</a></tt> 15: <em>Bunları demek yasak <b>değildi</b> tabii .</em>
+  * <tt><a href="tr_imst-pos-AUX.html">AUX</a></tt> 15: <em>Kızak yolculuğuna alışmak kolay <b>değildi</b> .</em>
   * <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> 1: <em>Deşifre metnini dinleyen Arınç , " Bunu demiş olabilirim , ama kastım bu <b>değildi</b> .</em>
 * <em>ti</em>
-  * <tt><a href="tr_imst-pos-AUX.html">AUX</a></tt> 10: <em>Cumhurbaşkanının bu tavrı net <b>ti</b> .</em>
+  * <tt><a href="tr_imst-pos-AUX.html">AUX</a></tt> 10: <em>Lacivert takım elbise li adam fotoğrafta genç <b>ti</b> .</em>
   * <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> 1: <em>Len <b>ti</b> - , evleri yaparken , sizin makinelerinizi örnek aldım ; makineleriniz hem güzel hem de yararlı şeyler .</em>
 * <em>değilim</em>
-  * <tt><a href="tr_imst-pos-AUX.html">AUX</a></tt> 8: <em>" Ben siyasette belli yerleri amaçlayarak çalışmış bir insan <b>değilim</b> .</em>
-  * <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> 5: <em>Her şeyi ben yazacak <b>değilim</b> ya .</em>
+  * <tt><a href="tr_imst-pos-AUX.html">AUX</a></tt> 8: <em>Ben senin gibi pis boğaz <b>değilim</b> , koy cebine akşam abime verirsin .</em>
+  * <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> 5: <em>Yüreğinde , beyninde ve düşlerinde <b>değilim</b> artık .</em>
 * <em>lar</em>
-  * <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> 15: <em>Onunla aynı ortamı paylaşmış olan <b>lar</b> böyle anlatıyorlardı büyük amcamı .</em>
-  * <tt><a href="tr_imst-pos-AUX.html">AUX</a></tt> 7: <em>Ve kendi merceklerinden bakıldığında haklı <b>lar</b> .</em>
+  * <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> 15: <em>Masadan kalkan <b>lar</b> , diğerlerini beklemeden yola koyulmuşlardı bile .</em>
+  * <tt><a href="tr_imst-pos-AUX.html">AUX</a></tt> 7: <em>Elbet ayrımında <b>lar</b> .</em>
 * <em>ler</em>
-  * <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> 11: <em>Bir zaman sonra komşular da fakir olduğundan seyrekleşmiş getirilen <b>ler</b> .</em>
-  * <tt><a href="tr_imst-pos-AUX.html">AUX</a></tt> 6: <em>Otobiyografi siz <b>ler</b> .</em>
+  * <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> 11: <em>Vazo almak isteyen <b>ler</b> çoğunlukta .</em>
+  * <tt><a href="tr_imst-pos-AUX.html">AUX</a></tt> 6: <em>Bizim din hocalarına çok yer <b>ler</b> derlermiş .</em>
   * <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> 1: <em>Yine bahse girebilirdim ki , Kemal de bunları düşünüyordu ; hem de i ) <b>ler</b> , ii ) lerle .</em>
 * <em>iz</em>
-  * <tt><a href="tr_imst-pos-AUX.html">AUX</a></tt> 4: <em>Ve biz iki kardeş <b>iz</b> .</em>
+  * <tt><a href="tr_imst-pos-AUX.html">AUX</a></tt> 4: <em>- Yeniden deneyebilir <b>iz</b> , dedim .</em>
   * <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> 2: <em>Benim arkamda bir <b>iz</b> kalırsa , ben siyasette ilke li , kararlı , cesur işler yaparsam ben im için en doğrusu o dur .</em>
 
 ## Morphology

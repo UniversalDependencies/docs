@@ -30,6 +30,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 <table>
   <tr><th>Paradigm <i>voir</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th><th><tt>Imp</tt></th></tr>
+  <tr><td><tt><tt><a href="fr_parisstories-feat-ExtPos.html">ExtPos</a></tt><tt>=SCONJ</tt>|<tt><a href="fr_parisstories-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_parisstories-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>vu</em></td><td></td></tr>
   <tr><td><tt><tt><a href="fr_parisstories-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_parisstories-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>vu</em></td><td></td></tr>
   <tr><td><tt><tt><a href="fr_parisstories-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_parisstories-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>vue</em></td><td></td></tr>
   <tr><td><tt><tt><a href="fr_parisstories-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_parisstories-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>vues</em></td><td></td></tr>
@@ -44,14 +45,14 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 2070 <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt> tokens (98% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="fr_parisstories-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2036; 98%), <tt><a href="fr_parisstories-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2003; 97%), <tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1956; 94%), <tt><a href="fr_parisstories-feat-Person.html">Person</a></tt><tt>=3</tt> (1538; 74%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="fr_parisstories-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2033; 98%), <tt><a href="fr_parisstories-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2000; 97%), <tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1956; 94%), <tt><a href="fr_parisstories-feat-Person.html">Person</a></tt><tt>=3</tt> (1535; 74%).
 
 `AUX` tokens may have the following values of `Tense`:
 
 * `Fut` (1; 0% of non-empty `Tense`): <em>sera</em>
-* `Imp` (619; 30% of non-empty `Tense`): <em>était, étais, avait, avais, étaient, avaient, étiez, fait</em>
-* `Past` (34; 2% of non-empty `Tense`): <em>été, fait, eu</em>
-* `Pres` (1416; 68% of non-empty `Tense`): <em>est, a, ai, suis, sont, as, ont, serait, soit, es</em>
+* `Imp` (618; 30% of non-empty `Tense`): <em>était, étais, avait, avais, étaient, avaient, étiez</em>
+* `Past` (37; 2% of non-empty `Tense`): <em>été, fait, eu</em>
+* `Pres` (1414; 68% of non-empty `Tense`): <em>est, a, ai, suis, sont, as, ont, serait, soit, es</em>
 * `EMPTY` (34): <em>être, faire, avoir, ai, fait, refaire</em>
 
 <table>

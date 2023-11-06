@@ -23,11 +23,11 @@ The following 30 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 9 nmod	color:blue
-1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	6:nsubj	Discourse=joint-list_m:108->107:0|Entity=(149-abstract-giv:inact-cf1-1-ana)|XML=<hi rend:::"italic">
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	6:nsubj	Discourse=joint-list_m:108->107:0:_|Entity=(149-abstract-giv:inact-cf1-1-ana)|XML=<hi rend:::"italic">
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	Entity=(149-abstract-giv:act-cf1-4-coref
 4	next	next	ADV	RB	Degree=Pos	5	advmod	5:advmod	_
-5	best	good	ADJ	JJS	Degree=Sup	6	amod	6:amod	_
+5	best	good	ADJ	JJS	Degree=Sup	6	amod	6:amod	MSeg=be-st
 6	thing	thing	NOUN	NN	Number=Sing	0	root	0:root	_
 7	to	to	ADP	IN	_	9	case	9:case	_
 8	ice	ice	NOUN	NN	Number=Sing	9	compound	9:compound	Entity=(153-substance-new-cf2-2-sgl
@@ -43,16 +43,16 @@ The following 30 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 3 nmod	color:blue
-1	(	(	PUNCT	-LRB-	_	3	punct	3:punct	Discourse=context-circumstance:35->38:1|SpaceAfter=No
-2	Northern	Northern	ADJ	NNP	Degree=Pos|Number=Sing	3	amod	3:amod	Entity=(55-place-new-cf4-1,2-sgl-Northern_England|XML=<ref target:::"https://en.wikipedia.org/wiki/English_language_in_Northern_England">
+1	(	(	PUNCT	-LRB-	_	3	punct	3:punct	Discourse=context-circumstance:35->38:1:_|SpaceAfter=No
+2	Northern	Northern	ADJ	NNP	Degree=Pos|Number=Sing	3	amod	3:amod	Entity=(55-place-new-cf4-1,2-sgl-Northern_England|MSeg=North-ern|XML=<ref target:::"https://en.wikipedia.org/wiki/English_language_in_Northern_England">
 3	England	England	PROPN	NNP	Number=Sing	10	nmod	10:nmod	Entity=55)|SpaceAfter=No|XML=</ref>
 4	)	)	PUNCT	-RRB-	_	3	punct	3:punct	_
-5	IPA	IPA	PROPN	NNP	Number=Sing	10	dep	10:dep	Discourse=organization-preparation:36->38:0|Entity=(53-abstract-giv:act-cf1*-1-coref-International_Phonetic_Alphabet)|SpaceAfter=No|XML=<w><ref target:::"https://en.wiktionary.org/wiki/Wiktionary:International_Phonetic_Alphabet"></ref>
-6	(	(	PUNCT	-LRB-	_	7	punct	7:punct	Discourse=elaboration-additional:37->36:0|SpaceAfter=No
+5	IPA	IPA	PROPN	NNP	Number=Sing	10	dep	10:dep	Discourse=organization-preparation:36->38:0:_|Entity=(53-abstract-giv:act-cf1*-1-coref-International_Phonetic_Alphabet)|SpaceAfter=No|XML=<w><ref target:::"https://en.wiktionary.org/wiki/Wiktionary:International_Phonetic_Alphabet"></ref>
+6	(	(	PUNCT	-LRB-	_	7	punct	7:punct	Discourse=elaboration-additional:37->36:0:_|SpaceAfter=No
 7	key	key	NOUN	NN	Number=Sing	5	dep	5:dep	Entity=(54-abstract-giv:act-cf2-1-coref)|SpaceAfter=No|XML=<ref target:::"https://en.wiktionary.org/wiki/Appendix:English_pronunciation"></ref>
 8	)	)	PUNCT	-RRB-	_	7	punct	7:punct	SpaceAfter=No|XML=</w>
 9	:	:	PUNCT	:	_	5	punct	5:punct	_
-10	/trʊst/	/trʊst/	NOUN	NN	Number=Sing	0	root	0:root	Discourse=joint-other_m:38->31:2|Entity=(7-abstract-giv:act-cf3-1-coref)
+10	/trʊst/	/trʊst/	NOUN	NN	Number=Sing	0	root	0:root	Discourse=joint-other_m:38->31:2:_|Entity=(7-abstract-giv:act-cf3-1-coref)
 
 ~~~
 
@@ -63,7 +63,7 @@ The following 30 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 13 nmod	color:blue
-1	the	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	Discourse=joint-list_m:60->58:0|Entity=(86-abstract-acc:com-cf1-3-sgl|XML=<hi rend:::"italic">
+1	the	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	Discourse=joint-list_m:60->58:0:_|Entity=(86-abstract-acc:com-cf1-3-sgl|XML=<hi rend:::"italic">
 2	next	next	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
 3	chapter	chapter	NOUN	NN	Number=Sing	0	root	0:root	Entity=86)|SpaceAfter=No
 4	;	;	PUNCT	:	_	7	punct	7:punct	_

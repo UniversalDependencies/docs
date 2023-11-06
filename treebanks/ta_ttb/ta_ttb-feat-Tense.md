@@ -94,9 +94,9 @@ The most frequent other feature values with which `PART` and `Tense` co-occurred
 
 <table>
   <tr><th>Paradigm <i>என்</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th></tr>
-  <tr><td><tt><tt><a href="ta_ttb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ta_ttb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ta_ttb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ta_ttb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ta_ttb-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt></tt></td><td></td><td>என்பதை, என்பதைய்</td><td></td></tr>
-  <tr><td><tt><tt><a href="ta_ttb-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="ta_ttb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ta_ttb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ta_ttb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ta_ttb-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt></tt></td><td></td><td>என்பதால்</td><td></td></tr>
-  <tr><td><tt><tt><a href="ta_ttb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ta_ttb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ta_ttb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ta_ttb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ta_ttb-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt></tt></td><td></td><td>என்பது</td><td></td></tr>
+  <tr><td><tt><tt><a href="ta_ttb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ta_ttb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ta_ttb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ta_ttb-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt></tt></td><td></td><td>என்பதை, என்பதைய்</td><td></td></tr>
+  <tr><td><tt><tt><a href="ta_ttb-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="ta_ttb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ta_ttb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ta_ttb-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt></tt></td><td></td><td>என்பதால்</td><td></td></tr>
+  <tr><td><tt><tt><a href="ta_ttb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ta_ttb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ta_ttb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ta_ttb-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt></tt></td><td></td><td>என்பது</td><td></td></tr>
   <tr><td><tt><tt><a href="ta_ttb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td>என்கிற</td><td></td><td>என்ற</td></tr>
 </table>
 

@@ -37,8 +37,8 @@ The 3rd highest number of forms (1) was observed with the lemma “ãng”: <em>
 `DET` occurs with 3 feature-value pairs: `Number=Sing`, `Person=2`, `PronType=Dem`
 
 `DET` occurs with 3 feature combinations.
-The most frequent feature combination is `PronType=Dem` (1 tokens).
-Examples: <em>nguĩ</em>
+The most frequent feature combination is `_` (1 tokens).
+Examples: <em>ãng</em>
 
 
 ## Relations

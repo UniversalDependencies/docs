@@ -6,12 +6,12 @@ udver: '2'
 
 ## Treebank Statistics: UD_Akuntsu-TuDeT: POS Tags: `ADP`
 
-There are 3 `ADP` lemmas (1%), 3 `ADP` types (1%) and 21 `ADP` tokens (2%).
+There are 3 `ADP` lemmas (1%), 3 `ADP` types (1%) and 22 `ADP` tokens (1%).
 Out of 13 observed tags, the rank of `ADP` is: 13 in number of lemmas, 13 in number of types and 10 in number of tokens.
 
-The 10 most frequent `ADP` lemmas: <em>ete, etʃe, pe</em>
+The 10 most frequent `ADP` lemmas: <em>etʃe, ete, pe</em>
 
-The 10 most frequent `ADP` types:  <em>ete, etʃe, pe</em>
+The 10 most frequent `ADP` types:  <em>etʃe, ete, pe</em>
 
 The 10 most frequent ambiguous lemmas: <em>pe</em> (<tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="aqz_tudet-pos-ADP.html">ADP</a></tt> 1, <tt><a href="aqz_tudet-pos-PART.html">PART</a></tt> 1)
 
@@ -25,7 +25,7 @@ The 10 most frequent ambiguous types:  <em>pe</em> (<tt><a href="aqz_tudet-pos-N
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.418283).
+The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.442049).
 
 The 1st highest number of forms (1) was observed with the lemma “ete”: <em>ete</em>.
 
@@ -38,17 +38,17 @@ The 3rd highest number of forms (1) was observed with the lemma “pe”: <em>pe
 `ADP` occurs with 1 feature-value pairs: `Case=Loc`
 
 `ADP` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (20 tokens).
+The most frequent feature combination is `_` (21 tokens).
 Examples: <em>ete, etʃe, pe</em>
 
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 2 different relations: <tt><a href="aqz_tudet-dep-case.html">case</a></tt> (20; 95% instances), <tt><a href="aqz_tudet-dep-obl.html">obl</a></tt> (1; 5% instances)
+`ADP` nodes are attached to their parents using 2 different relations: <tt><a href="aqz_tudet-dep-case.html">case</a></tt> (21; 95% instances), <tt><a href="aqz_tudet-dep-obl.html">obl</a></tt> (1; 5% instances)
 
-Parents of `ADP` nodes belong to 3 different parts of speech: <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (16; 76% instances), <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> (4; 19% instances), <tt><a href="aqz_tudet-pos-PROPN.html">PROPN</a></tt> (1; 5% instances)
+Parents of `ADP` nodes belong to 3 different parts of speech: <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (16; 73% instances), <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> (4; 18% instances), <tt><a href="aqz_tudet-pos-PROPN.html">PROPN</a></tt> (2; 9% instances)
 
-21 (100%) `ADP` nodes are leaves.
+22 (100%) `ADP` nodes are leaves.
 
 The highest child degree of a `ADP` node is 0.
 

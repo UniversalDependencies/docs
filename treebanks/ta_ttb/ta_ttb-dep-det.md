@@ -48,8 +48,8 @@ The following 6 pairs of parts of speech are connected with `det`: <tt><a href="
 6	இந்தியாவுக்கு	இந்தியா	PROPN	NED-3SN--	Case=Dat|Gender=Neut|Number=Sing|Person=3	9	nsubj	9:nsubj	Translit=intiyāvukku|LTranslit=intiyā
 7	78வது	78	ADJ	Uy-------	NumType=Ord	8	amod	8:amod	Translit=78vatu|LTranslit=78
 8	இடம்	இடம்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	9	obj	9:obj	Translit=iṭam|LTranslit=iṭam
-9	கிடைத்த்	கிடை	VERB	Vt-T---AA	Polarity=Pos|VerbForm=Part|Voice=Act	0	root	0:root	Translit=kiṭaitt|LTranslit=kiṭai
-10	உள்ளது	உள்	AUX	VR-T3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|VerbForm=Fin|Voice=Act	9	aux	9:aux	Translit=uḷḷatu|LTranslit=uḷ
+9	கிடைத்த்	கிடை	VERB	Vt-T---AA	Polarity=Pos|VerbForm=Part|Voice=Act	0	root	0:root	LTranslit=kiṭai|Translit=kiṭaitt
+10	உள்ளது	உள்	AUX	VR-T3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|VerbForm=Fin|Voice=Act	9	aux	9:aux	LTranslit=uḷ|Translit=uḷḷatu
 11	.	.	PUNCT	Z#-------	PunctType=Peri	9	punct	9:punct	Translit=.|LTranslit=.
 
 ~~~

@@ -48,7 +48,7 @@ The following 6 pairs of parts of speech are connected with `advcl:abs`: <tt><a 
 6	quod	quod	SCONJ	cs	PronType=Rel	8	mark	_	_
 7	duplex	duplex	ADJ	ans2a	Case=Acc|Compound=Yes|Gender=Neut|InflClass=IndEurI|Number=Sing	8	csubj	_	_
 8	oportet	oportet	VERB	va2*ips3	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	csubj	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
-9	esse	sum	AUX	va5fp	Aspect=Imp|VerbForm=Inf	7	cop	_	TraditionalTense=Praesens
+9	esse	sum	AUX	va5fp	Aspect=Imp|Tense=Pres|VerbForm=Inf	7	cop	_	TraditionalTense=Praesens
 10	subiectum	subiectum	NOUN	sns2n	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|VerbForm=Part	7	nsubj	_	SpaceAfter=No
 11	,	,	PUNCT	Pu	_	14	punct	_	_
 12	circa	circa	ADP	e	_	13	case	_	_
@@ -75,13 +75,13 @@ The following 6 pairs of parts of speech are connected with `advcl:abs`: <tt><a 
 6	primo	primus	ADJ	ams1b	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Sing|NumType=Ord	1	obl	_	SpaceAfter=No
 7	:	:	PUNCT	Pu	_	16	punct	_	_
 8	Certe	certe	ADV	r	_	16	advmod	_	_
-9	hinc	hinc	ADV	r	AdvType=Loc|Case=Loc|PronType=Dem	16	obl	_	_
+9	hinc	hinc	ADV	r	AdvType=Loc|PronType=Dem	16	obl	_	_
 10	Romanos	romanus	ADJ	Smp2a	Case=Acc|Gender=Masc|InflClass=IndEurO|NameType=Nat|Number=Plur	16	amod	_	_
-11	olim	olim	ADV	r	_	12	advmod	_	_
+11	olim	olim	ADV	r	AdvType=Tim	12	advmod:tmod	_	_
 12	volventibus	uoluo	VERB	va3pppmb	Aspect=Imp|Case=Abl|Gender=Masc|InflClass=LatX|InflClass[nominal]=IndEurI|Number=Plur|VerbForm=Part|Voice=Act	16	advcl:abs	_	TraditionalMood=Participium|TraditionalTense=Praesens
 13	annis	annus	NOUN	smp2b	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Plur	12	nsubj	_	_
-14	hinc	hinc	ADV	r	AdvType=Loc|Case=Loc|PronType=Dem	16	advmod:lmod	_	_
-15	fore	sum	AUX	va5ff	Aspect=Perf|VerbForm=Inf	16	cop	_	TraditionalTense=Perfectum
+14	hinc	hinc	ADV	r	AdvType=Loc|PronType=Dem	16	advmod:lmod	_	_
+15	fore	sum	AUX	va5ff	Aspect=Perf|Tense=Past|VerbForm=Inf	16	cop	_	TraditionalTense=Perfectum
 16	ductores	ductor	NOUN	smp3a	Case=Acc|Gender=Masc|InflClass=IndEurX|Number=Plur	1	ccomp	_	SpaceAfter=No
 17	,	,	PUNCT	Pu	_	20	punct	_	_
 18	revocato	reuoco	VERB	vp1prsmb	Aspect=Perf|Case=Abl|Gender=Masc|InflClass=LatA|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass	20	acl	_	TraditionalMood=Participium|TraditionalTense=Perfectum

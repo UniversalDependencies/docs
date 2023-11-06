@@ -26,7 +26,7 @@ The following 20 pairs of parts of speech are connected with `cc`: <tt><a href="
 2	de	de	ADP	_	_	4	case	_	_
 3	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	coup	coup	NOUN	_	Gender=Masc|Number=Sing	6	discourse	_	_
-5	tu	il	PRON	_	Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
+5	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
 6	finis	finir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	avec	avec	ADP	_	_	10	case	_	_
 8	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
@@ -64,12 +64,12 @@ The following 20 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 5	fgColor:white
 # visual-style 5 1 cc	color:blue
 1	et	et	CCONJ	_	_	5	cc	_	_
-2	elle	il	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+2	elle	lui	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 3	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	_
 4	toute	toute	ADV	_	_	5	advmod	_	_
 5	seule	seul	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
 6	dans	dans	ADP	_	_	8	case	_	_
-7	sa	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|PronType=Prs	8	det	_	_
+7	sa	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	8	det	_	_
 8	cage	cage	NOUN	_	Gender=Fem|Number=Sing	5	obl:mod	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	5	punct	_	_
 

@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Hebrew-IAHLTwiki: POS Tags: `PRON`
 
 There are 33 `PRON` lemmas (0%), 72 `PRON` types (0%) and 5633 `PRON` tokens (4%).
-Out of 16 observed tags, the rank of `PRON` is: 11 in number of lemmas, 9 in number of types and 8 in number of tokens.
+Out of 16 observed tags, the rank of `PRON` is: 11 in number of lemmas, 10 in number of types and 8 in number of tokens.
 
 The 10 most frequent `PRON` lemmas: הוא, זה, אותו, כך, כן, עצמו, מה, מי, כולו, הללו
 

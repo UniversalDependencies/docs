@@ -9,10 +9,19 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Neg`.
 
-122 tokens (0%) have a non-empty value of `Polarity`.
-5 types (0%) occur at least once with a non-empty value of `Polarity`.
-2 lemmas (0%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 3 part-of-speech tags: <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt> (120; 0% instances), <tt><a href="no_nynorsk-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+2649 tokens (1%) have a non-empty value of `Polarity`.
+7 types (0%) occur at least once with a non-empty value of `Polarity`.
+3 lemmas (0%) occur at least once with a non-empty value of `Polarity`.
+The feature is used with 3 part-of-speech tags: <tt><a href="no_nynorsk-pos-PART.html">PART</a></tt> (2528; 1% instances), <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt> (120; 0% instances), <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+
+### `PART`
+
+2528 <tt><a href="no_nynorsk-pos-PART.html">PART</a></tt> tokens (38% of all `PART` tokens) have a non-empty value of `Polarity`.
+
+`PART` tokens may have the following values of `Polarity`:
+
+* `Neg` (2528; 100% of non-empty `Polarity`): <em>ikkje, ikke</em>
+* `EMPTY` (4171): <em>å, og, ei</em>
 
 ### `DET`
 
@@ -24,15 +33,6 @@ The most frequent other feature values with which `DET` and `Polarity` co-occurr
 
 * `Neg` (120; 100% of non-empty `Polarity`): <em>ingen, inga</em>
 * `EMPTY` (14868): <em>ein, den, eit, dei, ei, det, andre, alle, denne, anna</em>
-
-### `PART`
-
-1 <tt><a href="no_nynorsk-pos-PART.html">PART</a></tt> tokens (0% of all `PART` tokens) have a non-empty value of `Polarity`.
-
-`PART` tokens may have the following values of `Polarity`:
-
-* `Neg` (1; 100% of non-empty `Polarity`): <em>ikke</em>
-* `EMPTY` (4171): <em>å, og, ei</em>
 
 ### `PRON`
 

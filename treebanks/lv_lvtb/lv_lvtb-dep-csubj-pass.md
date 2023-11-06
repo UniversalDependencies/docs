@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="lv_lvtb-dep-csubj.html">csubj</a></tt>.
 
-119 nodes (0%) are attached to their parents as `csubj:pass`.
+130 nodes (0%) are attached to their parents as `csubj:pass`.
 
-112 instances of `csubj:pass` (94%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.63865546218487.
+123 instances of `csubj:pass` (95%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.70769230769231.
 
-The following 7 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (107; 90% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (7; 6% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (117; 90% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (8; 6% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -81,11 +81,11 @@ The following 7 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 2	jau	jau	PART	q	_	6	discourse	6:discourse	LvtbNodeId=a-p7950-p4s6w2
 3	pats	pats	DET	pg0msnn	Case=Nom|Gender=Masc|Number=Sing|PronType=Tot	4	det	4:det	LvtbNodeId=a-p7950-p4s6w3
 4	prezidents	prezidents	NOUN	ncmsn1	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	6:nsubj|7:nsubj	LvtbNodeId=a-p7950-p4s6w4
-5	tā	tā	ADV	r0mn	PronType=Dem	6	advmod	6:advmod	LvtbNodeId=a-p7950-p4s6w5
+5	tā	tā	ADV	r0n	PronType=Dem	6	advmod	6:advmod	LvtbNodeId=a-p7950-p4s6w5
 6	var	varēt	VERB	vonipi330an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	14	advcl	14:advcl	LvtbNodeId=a-p7950-p4s6w6
 7	darīt	darīt	VERB	vmnn0t3000n	Polarity=Pos|VerbForm=Inf	6	xcomp	6:xcomp	LvtbNodeId=a-p7950-p4s6w7|SpaceAfter=No
 8	,	,	PUNCT	zc	_	6	punct	6:punct	LvtbNodeId=a-p7950-p4s6w8
-9	tad	tad	ADV	r0tn	PronType=Dem	14	advmod	14:advmod	LvtbNodeId=a-p7950-p4s6w9
+9	tad	tad	ADV	r0n	PronType=Dem	14	advmod	14:advmod	LvtbNodeId=a-p7950-p4s6w9
 10	par	par	ADP	sppd	_	12	case	12:case	LvtbNodeId=a-p7950-p4s6w10
 11	vienkāršiem	vienkāršs	ADJ	afmpdnp	Case=Dat|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	12	amod	12:amod	LvtbNodeId=a-p7950-p4s6w11
 12	cilvēkiem	cilvēks	NOUN	ncmpd1	Case=Dat|Gender=Masc|Number=Plur	16	iobj	16:iobj	LvtbNodeId=a-p7950-p4s6w12

@@ -26,7 +26,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 * `Imp` (7; 0% of non-empty `Mood`): <em>vide</em>
 * `Ind` (6938; 94% of non-empty `Mood`): <em>pode, podem, apresenta, tem, apresentam, deve, mostra, ocorre, possui, encontra</em>
 * `Sub` (363; 5% of non-empty `Mood`): <em>seja, possa, tenha, ocorra, haja, apresentem, apresente, possam, exista, venha</em>
-* `EMPTY` (12966): <em>partir, devido, utilizando, utilizado, utilizados, obtidos, apresentados, utilizada, observado, produzida</em>
+* `EMPTY` (12967): <em>partir, devido, utilizando, utilizado, utilizados, obtidos, apresentados, utilizada, observado, produzida</em>
 
 <table>
   <tr><th>Paradigm <i>poder</i></th><th><tt>Ind</tt></th><th><tt>Cnd</tt></th><th><tt>Sub</tt></th></tr>
@@ -72,7 +72,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="pt_petrogold-dep-conj.html">conj</a></tt>]--> VERB</tt> (429; 57%),
+<tt>VERB --[<tt><a href="pt_petrogold-dep-conj.html">conj</a></tt>]--> VERB</tt> (428; 57%),
 <tt>VERB --[<tt><a href="pt_petrogold-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="pt_petrogold-dep-conj.html">conj</a></tt>]--> AUX</tt> (1; 100%).
 

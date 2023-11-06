@@ -11,9 +11,9 @@ This relation is universal.
 13919 nodes (7%) are attached to their parents as `root`.
 
 13919 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.28076729650119.
+Average distance between parent and child is 6.28105467346792.
 
-The following 9 pairs of parts of speech are connected with `root`: -<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (13226; 95% instances), -<tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt> (388; 3% instances), -<tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt> (213; 2% instances), -<tt><a href="grc_perseus-pos-PRON.html">PRON</a></tt> (54; 0% instances), -<tt><a href="grc_perseus-pos-ADV.html">ADV</a></tt> (19; 0% instances), -<tt><a href="grc_perseus-pos-ADP.html">ADP</a></tt> (10; 0% instances), -<tt><a href="grc_perseus-pos-X.html">X</a></tt> (6; 0% instances), -<tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt> (2; 0% instances), -<tt><a href="grc_perseus-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `root`: -<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (13225; 95% instances), -<tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt> (387; 3% instances), -<tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt> (215; 2% instances), -<tt><a href="grc_perseus-pos-PRON.html">PRON</a></tt> (54; 0% instances), -<tt><a href="grc_perseus-pos-ADV.html">ADV</a></tt> (19; 0% instances), -<tt><a href="grc_perseus-pos-ADP.html">ADP</a></tt> (10; 0% instances), -<tt><a href="grc_perseus-pos-X.html">X</a></tt> (6; 0% instances), -<tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt> (2; 0% instances), -<tt><a href="grc_perseus-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

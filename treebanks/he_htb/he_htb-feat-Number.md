@@ -28,7 +28,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 * `Plur` (9581; 26% of non-empty `Number`): שנים, ימים, ידי, בתי, בחירות, עובדים, בני, נקודות, אנשים, חברות
 * `Plur,Sing` (151; 0% of non-empty `Number`): %, ס"ם, ברוטו
 * `Sing` (27688; 74% of non-empty `Number`): בית, יום, משרד, משטרה, שר, משפט, ארץ, ממשלה, חברה, דבר
-* `EMPTY` (536): הכל, נק, ד, רעולי, רב, רח, באי, בטון, מאה, מלמין
+* `EMPTY` (537): הכל, נק, ד, רעולי, רב, רח, באי, בטון, מאה, מלמין
 
 <table>
   <tr><th>Paradigm <i>שנה</i></th><th><tt>Sing</tt></th><th><tt>Dual</tt></th><th><tt>Plur</tt></th></tr>

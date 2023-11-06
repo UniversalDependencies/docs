@@ -64,7 +64,7 @@ The following 11 pairs of parts of speech are connected with `cop`: <tt><a href=
 5	sekikuwihtok	kuwia	VERB	_	_	0	root	0:root	NormalizedForm=sekikuwihtok|NormalizedLemma=kuwia
 6	n	n	DET	_	_	7	det	7:det	NormalizedForm=n|NormalizedLemma=n
 7	tehwah	tehwan	PRON	_	Number=Plur|Person=1|PronType=Prs	8	nmod	8:nmod	NormalizedForm=tehwah|NormalizedLemma=tehwan
-8	totradición	_	NOUN	_	Foreign=Yes|Number=Sing|Number[psor]=Plur|Person[psor]=1	5	obj	5:obj	NormalizedForm=totradición|NormalizedLemma=_
+8	totradición	tradición	NOUN	_	Foreign=Yes|Number=Sing|Number[psor]=Plur|Person[psor]=1	5	obj	5:obj	NormalizedForm=totradición|NormalizedLemma=_
 9	nikah	nikah	ADV	_	_	8	advmod	8:advmod	NormalizedForm=nikah|NormalizedLemma=nikah
 10	ich	tich	NOUN	_	NounType=Relat|Number=Sing|Number[psor]=Sing|Person[psor]=3	9	appos	9:appos	NormalizedForm=ich|NormalizedLemma=tich
 11	n	n	DET	_	_	12	det	12:det	NormalizedForm=n|NormalizedLemma=n

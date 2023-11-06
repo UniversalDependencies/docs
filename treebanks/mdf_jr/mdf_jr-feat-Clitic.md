@@ -9,20 +9,22 @@ udver: '2'
 This feature is language-specific.
 It occurs with 6 different values: `Add`, `AddGA`, `AddKige`, `AddNgA`, `AddVok`, `I`.
 
-25 tokens (1%) have a non-empty value of `Clitic`.
-24 types (1%) occur at least once with a non-empty value of `Clitic`.
-24 lemmas (2%) occur at least once with a non-empty value of `Clitic`.
-The feature is used with 7 part-of-speech tags: <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (8; 0% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+26 tokens (1%) have a non-empty value of `Clitic`.
+25 types (1%) occur at least once with a non-empty value of `Clitic`.
+25 lemmas (2%) occur at least once with a non-empty value of `Clitic`.
+The feature is used with 7 part-of-speech tags: <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (9; 0% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-8 <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Clitic`.
+9 <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Clitic`.
+
+The most frequent other feature values with which `NOUN` and `Clitic` co-occurred: <tt><a href="mdf_jr-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt> (5; 56%), <tt><a href="mdf_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (5; 56%), <tt><a href="mdf_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (5; 56%).
 
 `NOUN` tokens may have the following values of `Clitic`:
 
-* `Add` (1; 13% of non-empty `Clitic`): <em>ульмоняцевок</em>
-* `AddGA` (5; 63% of non-empty `Clitic`): <em>Алязтиге, ведняське, лётчикокска, мялезостка, школавга</em>
-* `AddVok` (2; 25% of non-empty `Clitic`): <em>бабасновок, самолётовок</em>
+* `Add` (2; 22% of non-empty `Clitic`): <em>алтарьсонга, ульмоняцевок</em>
+* `AddGA` (5; 56% of non-empty `Clitic`): <em>Алязтиге, ведняське, лётчикокска, мялезостка, школавга</em>
+* `AddVok` (2; 22% of non-empty `Clitic`): <em>бабасновок, самолётовок</em>
 
 ### `PRON`
 

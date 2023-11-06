@@ -73,7 +73,7 @@ The 10 most frequent ambiguous types:  於 (<tt><a href="lzh_kyoto-pos-ADP.html"
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.066667 (the average of all parts of speech is 1.012984).
+The form / lemma ratio of `ADP` is 1.066667 (the average of all parts of speech is 1.013130).
 
 The 1st highest number of forms (2) was observed with the lemma “爲”: 為, 爲.
 

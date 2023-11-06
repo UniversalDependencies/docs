@@ -6,53 +6,40 @@ udver: '2'
 
 ## Treebank Statistics: UD_Ancient_Hebrew-PTNK: POS Tags: `NUM`
 
-There are 22 `NUM` lemmas (1%), 192 `NUM` types (3%) and 524 `NUM` tokens (1%).
-Out of 15 observed tags, the rank of `NUM` is: 6 in number of lemmas, 6 in number of types and 11 in number of tokens.
+There are 22 `NUM` lemmas (1%), 238 `NUM` types (2%) and 524 `NUM` tokens (1%).
+Out of 15 observed tags, the rank of `NUM` is: 6 in number of lemmas, 7 in number of types and 11 in number of tokens.
 
 The 10 most frequent `NUM` lemmas: <em>שׁבע, שׁנים, מאה, אחד, שׁלשׁ, חמשׁ, ארבע, עשׂרה, תשׁע, עשׂר</em>
 
-The 10 most frequent `NUM` types:  <em>שׁנים, מֵאֹ֖ות, אחד, שׁבע, שֶׁ֣בַע, מאה, שׁלשׁ, ארבע, שׁשׁ, ראשׁון</em>
+The 10 most frequent `NUM` types:  <em>מֵאֹ֖ות, שֶׁ֣בַע, שְׁנֵי, אֶחָ֖ד, אַרְבָּעִ֣ים, חָמֵ֥שׁ, מְאַ֣ת, שְׁמֹנֶ֥ה, שְׁתֵּ֣י, אַרְבַּ֥ע</em>
 
-The 10 most frequent ambiguous lemmas: <em>שׁבע</em> (<tt><a href="hbo_ptnk-pos-NUM.html">NUM</a></tt> 73, <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 19, <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 11), <em>שׁלשׁ</em> (<tt><a href="hbo_ptnk-pos-NUM.html">NUM</a></tt> 47, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 3), <em>חמשׁ</em> (<tt><a href="hbo_ptnk-pos-NUM.html">NUM</a></tt> 34, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 1), <em>ארבע</em> (<tt><a href="hbo_ptnk-pos-NUM.html">NUM</a></tt> 30, <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 2), <em>עשׂר</em> (<tt><a href="hbo_ptnk-pos-NUM.html">NUM</a></tt> 18, <tt><a href="hbo_ptnk-pos-ADV.html">ADV</a></tt> 1, <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 1), <em>שׁשׁ</em> (<tt><a href="hbo_ptnk-pos-NUM.html">NUM</a></tt> 18, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 1), <em>שׁני</em> (<tt><a href="hbo_ptnk-pos-NUM.html">NUM</a></tt> 14, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>שׁבע</em> (<tt><a href="hbo_ptnk-pos-NUM.html">NUM</a></tt> 73, <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 19, <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 11), <em>שׁלשׁ</em> (<tt><a href="hbo_ptnk-pos-NUM.html">NUM</a></tt> 47, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 3), <em>חמשׁ</em> (<tt><a href="hbo_ptnk-pos-NUM.html">NUM</a></tt> 34, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 1), <em>ארבע</em> (<tt><a href="hbo_ptnk-pos-NUM.html">NUM</a></tt> 30, <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 2), <em>עשׂר</em> (<tt><a href="hbo_ptnk-pos-NUM.html">NUM</a></tt> 18, <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 2), <em>שׁשׁ</em> (<tt><a href="hbo_ptnk-pos-NUM.html">NUM</a></tt> 18, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 1), <em>שׁני</em> (<tt><a href="hbo_ptnk-pos-NUM.html">NUM</a></tt> 14, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 2)
 
-The 10 most frequent ambiguous types:  <em>שׁבע</em> (<tt><a href="hbo_ptnk-pos-NUM.html">NUM</a></tt> 19, <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 10), <em>חמשׁ</em> (<tt><a href="hbo_ptnk-pos-NUM.html">NUM</a></tt> 8, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 1), <em>שׁני</em> (<tt><a href="hbo_ptnk-pos-NUM.html">NUM</a></tt> 8, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 1), <em>עשׂר</em> (<tt><a href="hbo_ptnk-pos-NUM.html">NUM</a></tt> 4, <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 1), <em>שְׁנֵ֤י</em> (<tt><a href="hbo_ptnk-pos-NUM.html">NUM</a></tt> 4, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 2), <em>שְׁנֵ֣י</em> (<tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="hbo_ptnk-pos-NUM.html">NUM</a></tt> 3), <em>שְׁנֵֽי</em> (<tt><a href="hbo_ptnk-pos-NUM.html">NUM</a></tt> 3, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 1), <em>שְׁנֵ֥י</em> (<tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="hbo_ptnk-pos-NUM.html">NUM</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>שְׁנֵ֤י</em> (<tt><a href="hbo_ptnk-pos-NUM.html">NUM</a></tt> 5, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 2), <em>שְׁנֵ֥י</em> (<tt><a href="hbo_ptnk-pos-NUM.html">NUM</a></tt> 5, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 3), <em>שְׁנֵֽי</em> (<tt><a href="hbo_ptnk-pos-NUM.html">NUM</a></tt> 5, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 1), <em>שְׁנֵ֣י</em> (<tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="hbo_ptnk-pos-NUM.html">NUM</a></tt> 4)
 
 
-* <em>שׁבע</em>
-  * <tt><a href="hbo_ptnk-pos-NUM.html">NUM</a></tt> 19: <em>כִּ֥י שִׁבְעָתַ֖יִם יֻקַּם ־ קָ֑יִן ו למך שִׁבְעִ֥ים ו <b>שׁבע</b> ׃</em>
-  * <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 10: <em>ו אמר פַּרְעֹ֑ה עֲלֵ֛ה ו קבר אֶת ־ אב אתה כ אשׁר <b>שׁבע</b> אתה ׃</em>
-* <em>חמשׁ</em>
-  * <tt><a href="hbo_ptnk-pos-NUM.html">NUM</a></tt> 8: <em>ו חיה ־ נֹ֖חַ אַחַ֣ר ה מבול שְׁלֹ֤שׁ מֵאֹות֙ שָׁנָ֔ה ו <b>חמשׁ</b> שָׁנָֽה ׃</em>
-  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 1: <em>ו שׂים את היא יֹוסֵ֡ף ל חק עַד ־ ה יום ה זה עַל ־ אַדְמַ֥ת מִצְרַ֛יִם ל פרעה ל ה <b>חמשׁ</b> רַ֞ק אַדְמַ֤ת ה כהן ל בד הם לֹ֥א הָיְתָ֖ה ל פרעה ׃</em>
-  * <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 1: <em>יַעֲשֶׂ֣ה פַרְעֹ֔ה ו פקד פְּקִדִ֖ים עַל ־ ה ארץ ו <b>חמשׁ</b> אֶת ־ אֶ֣רֶץ מִצְרַ֔יִם ב שׁבע שְׁנֵ֥י ה שׂבע ׃</em>
-* <em>שׁני</em>
-  * <tt><a href="hbo_ptnk-pos-NUM.html">NUM</a></tt> 8: <em>ו שׁם ־ ה נהר ה <b>שׁני</b> גִּיחֹ֑ון ה֣וּא ה סבב אֵ֖ת כָּל ־ אֶ֥רֶץ כּֽוּשׁ ׃</em>
-  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 1: <em>ו אחר יָצָ֣א אח הוא אֲשֶׁ֥ר עַל ־ יד הוא ה <b>שׁני</b> ו קרא שׁם הוא זָֽרַח ׃ ס</em>
-* <em>עשׂר</em>
-  * <tt><a href="hbo_ptnk-pos-NUM.html">NUM</a></tt> 4: <em>ו מות יֹוסֵ֔ף בֶּן ־ מֵאָ֥ה ו <b>עשׂר</b> שָׁנִ֑ים ו חנט את הוא ו ישׂם ב ה ארון ב מצרים ׃</em>
-  * <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 1: <em>ו ה אבן ה זאת אֲשֶׁר ־ שַׂ֨מְתִּי֙ מַצֵּבָ֔ה יִהְיֶ֖ה בֵּ֣ית אֱלֹהִ֑ים ו כל אֲשֶׁ֣ר תִּתֶּן ־ ל אני עַשֵּׂ֖ר <b>עשׂר</b> הוא ל אתה ׃</em>
 * <em>שְׁנֵ֤י</em>
-  * <tt><a href="hbo_ptnk-pos-NUM.html">NUM</a></tt> 4: <em>ו היה אַחֲרֵי֙ ה דבר ה אלה ו אמר ל יוסף הִנֵּ֥ה אב אתה חֹלֶ֑ה ו לקח אֶת ־ <b>שְׁנֵ֤י</b> בן הוא עם הוא אֶת ־ מְנַשֶּׁ֖ה ו את ־ אֶפְרָֽיִם ׃</em>
-  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 2: <em>ו קום שֶׁ֨בַע <b>שְׁנֵ֤י</b> רָעָב֙ אחר הן ו שׁכח כָּל ־ ה שׂבע ב ארץ מִצְרָ֑יִם ו כלה ה רעב אֶת ־ ה ארץ ׃</em>
-* <em>שְׁנֵ֣י</em>
-  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 6: <em>ו עשׂה ה ארץ ב שׁבע <b>שְׁנֵ֣י</b> ה שׂבע ל קמץ ׃</em>
-  * <tt><a href="hbo_ptnk-pos-NUM.html">NUM</a></tt> 3: <em>ו קצף פַּרְעֹ֔ה עַ֖ל <b>שְׁנֵ֣י</b> סריס הוא עַ֚ל שַׂ֣ר ה שׁקה ו על שַׂ֥ר ה אפה ׃</em>
-* <em>שְׁנֵֽי</em>
-  * <tt><a href="hbo_ptnk-pos-NUM.html">NUM</a></tt> 3: <em>ו עתה <b>שְׁנֵֽי</b> ־ בן אתה ה ילד ל אתה ב ארץ מִצְרַ֗יִם עַד ־ בוא אני אל אתה מִצְרַ֖יְמָה ל אני ־ הֵ֑ם אֶפְרַ֨יִם֙ ו מנשׁה כ ראובן ו שׁמעון יִֽהְיוּ ־ ל אני ׃</em>
-  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 1: <em>ו אלה יְמֵ֛י <b>שְׁנֵֽי</b> ־ חַיֵּ֥י אַבְרָהָ֖ם אֲשֶׁר ־ חָ֑י מְאַ֥ת שָׁנָ֛ה ו שׁבע שָׁנָ֖ה ו חמשׁ שָׁנִֽים ׃</em>
+  * <tt><a href="hbo_ptnk-pos-NUM.html">NUM</a></tt> 5: <em>וַ יֹּ֨אמֶר יְהוָ֜ה לָ֗ הּ <b>שְׁנֵ֤י</b> גֹויִם֙ בְּ בִטְנֵ֔ ךְ וּ שְׁנֵ֣י לְאֻמִּ֔ים מִ מֵּעַ֖יִ ךְ יִפָּרֵ֑דוּ וּ לְאֹם֙ מִ לְאֹ֣ם יֶֽאֱמָ֔ץ וְ רַ֖ב יַעֲבֹ֥ד צָעִֽיר ׃</em>
+  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 2: <em>וְ֠ קָמוּ שֶׁ֨בַע <b>שְׁנֵ֤י</b> רָעָב֙ אַחֲרֵי הֶ֔ן וְ נִשְׁכַּ֥ח כָּל ־ הַ שָּׂבָ֖ע בְּ אֶ֣רֶץ מִצְרָ֑יִם וְ כִלָּ֥ה הָ רָעָ֖ב אֶת ־ הָ אָֽרֶץ ׃</em>
 * <em>שְׁנֵ֥י</em>
-  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 3: <em>ו אמר פַּרְעֹ֖ה אֶֽל ־ יַעֲקֹ֑ב כ מה יְמֵ֖י <b>שְׁנֵ֥י</b> חיים אתה ׃</em>
-  * <tt><a href="hbo_ptnk-pos-NUM.html">NUM</a></tt> 1: <em>ו עשׂה אֱלֹהִ֔ים אֶת ־ <b>שְׁנֵ֥י</b> ה מאור ה גדול אֶת ־ ה מאור ה גדול ל ממשׁלת ה יום ו את ־ ה מאור ה קטן ל ממשׁלת ה לילה ו את ה כוכב ׃</em>
+  * <tt><a href="hbo_ptnk-pos-NUM.html">NUM</a></tt> 5: <em>וַ יָּ֥מָת אֱלִימֶ֖לֶךְ אִ֣ישׁ נָעֳמִ֑י וַ תִּשָּׁאֵ֥ר הִ֖יא וּ <b>שְׁנֵ֥י</b> בָנֶֽי הָ ׃</em>
+  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 3: <em>וַ יֹּ֥אמֶר פַּרְעֹ֖ה אֶֽל ־ יַעֲקֹ֑ב כַּ מָּ֕ה יְמֵ֖י <b>שְׁנֵ֥י</b> חַיֶּֽי ךָ ׃</em>
+* <em>שְׁנֵֽי</em>
+  * <tt><a href="hbo_ptnk-pos-NUM.html">NUM</a></tt> 5: <em>וַ יַּ֗רְא חָ֚ם אֲבִ֣י כְנַ֔עַן אֵ֖ת עֶרְוַ֣ת אָבִ֑י ו וַ יַּגֵּ֥ד לִ <b>שְׁנֵֽי</b> ־ אֶחָ֖י ו בַּ ה חֽוּץ ׃</em>
+  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 1: <em>וְ אֵ֗לֶּה יְמֵ֛י <b>שְׁנֵֽי</b> ־ חַיֵּ֥י אַבְרָהָ֖ם אֲשֶׁר ־ חָ֑י מְאַ֥ת שָׁנָ֛ה וְ שִׁבְעִ֥ים שָׁנָ֖ה וְ חָמֵ֥שׁ שָׁנִֽים ׃</em>
+* <em>שְׁנֵ֣י</em>
+  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 6: <em>וַ תַּ֣עַשׂ הָ אָ֔רֶץ בְּ שֶׁ֖בַע <b>שְׁנֵ֣י</b> הַ שָּׂבָ֑ע לִ קְמָצִֽים ׃</em>
+  * <tt><a href="hbo_ptnk-pos-NUM.html">NUM</a></tt> 4: <em>וַ יִּקְצֹ֣ף פַּרְעֹ֔ה עַ֖ל <b>שְׁנֵ֣י</b> סָרִיסָ֑י ו עַ֚ל שַׂ֣ר הַ מַּשְׁקִ֔ים וְ עַ֖ל שַׂ֥ר הָ אֹופִֽים ׃</em>
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 8.727273 (the average of all parts of speech is 3.177604).
+The form / lemma ratio of `NUM` is 10.818182 (the average of all parts of speech is 5.381405).
 
-The 1st highest number of forms (24) was observed with the lemma “שׁנים”: <em>שְׁנֵ֛י, שְׁנֵ֣י, שְׁנֵ֣ים, שְׁנֵ֤י, שְׁנֵ֥י, שְׁנֵ֥ים, שְׁנֵ֨י, שְׁנֵֽי, שְׁנֵים, שְׁנַ֖יִם, שְׁנַ֜יִם, שְׁנַ֤יִם, שְׁנַ֧יִם, שְׁנַ֨יִם, שְׁנַ֨יִם֙, שְׁנָ֑יִם, שְׁתֵּ֣י, שְׁתֵּ֤י, שְׁתֵּ֤ים, שְׁתֵּ֥י, שְׁתַּ֤יִם, שְׁתַּ֥יִם, שְׁתַּ֧יִם, שׁנים</em>.
+The 1st highest number of forms (26) was observed with the lemma “שׁנים”: <em>שְּׁנֵ֥י, שְׁנֵ֛י, שְׁנֵ֣י, שְׁנֵ֣ים, שְׁנֵ֤י, שְׁנֵ֥י, שְׁנֵ֥ים, שְׁנֵ֨י, שְׁנֵֽי, שְׁנֵי, שְׁנֵים, שְׁנַ֖יִם, שְׁנַ֜יִם, שְׁנַ֤יִם, שְׁנַ֧יִם, שְׁנַ֨יִם, שְׁנַ֨יִם֙, שְׁנָ֑יִם, שְׁתֵּ֣י, שְׁתֵּ֤י, שְׁתֵּ֤ים, שְׁתֵּ֥י, שְׁתֵּי, שְׁתַּ֤יִם, שְׁתַּ֥יִם, שְׁתַּ֧יִם</em>.
 
-The 2nd highest number of forms (21) was observed with the lemma “שׁבע”: <em>שְׁבַ֥ע, שְׁבַֽע, שִׁבְעִ֣ים, שִׁבְעִ֥ים, שִׁבְעִֽים, שִׁבְעַ֣ת, שִׁבְעַ֥ת, שִׁבְעָ֖ה, שִׁבְעָ֗ה, שִׁבְעָ֥ה, שִׁבְעָֽה, שִׁבְעָתַ֖יִם, שֶֽׁבַע, שֶׁ֖בַע, שֶׁ֛בַע, שֶׁ֣בַע, שֶׁ֤בַע, שֶׁ֥בַע, שֶׁ֧בַע, שֶׁ֨בַע, שׁבע</em>.
+The 2nd highest number of forms (25) was observed with the lemma “שׁבע”: <em>שְׁבַ֥ע, שְׁבַֽע, שִּׁבְעָ֖ה, שִׁבְעִ֣ים, שִׁבְעִ֥ים, שִׁבְעִֽים, שִׁבְעִים֙, שִׁבְעַ֣ת, שִׁבְעַ֥ת, שִׁבְעָ֖ה, שִׁבְעָ֗ה, שִׁבְעָ֥ה, שִׁבְעָ֧ה, שִׁבְעָֽה, שִׁבְעָה, שִׁבְעָתַ֖יִם, שֶֽׁבַע, שֶׁ֖בַע, שֶׁ֛בַע, שֶׁ֣בַע, שֶׁ֤בַע, שֶׁ֥בַע, שֶׁ֧בַע, שֶׁ֨בַע, שֶׁ֨בַע֙</em>.
 
-The 3rd highest number of forms (19) was observed with the lemma “אחד”: <em>אֲחָדִ֑ים, אֲחָדִ֔ים, אֲחָדִֽים, אֶחָ֑ד, אֶחָ֑ת, אֶחָ֔ד, אֶחָ֖ד, אֶחָ֣ד, אֶחָ֥ד, אֶחָֽד, אֶחָד֙, אֶחָד֮, אַחַ֖ד, אַחַ֣ד, אַחַ֤ד, אַחַ֤ת, אַחַ֥ד, אַחַת֙, אחד</em>.
+The 3rd highest number of forms (23) was observed with the lemma “אחד”: <em>אֲחָדִ֑ים, אֲחָדִ֔ים, אֲחָדִֽים, אֶחָ֑ד, אֶחָ֑ת, אֶחָ֔ד, אֶחָ֖ד, אֶחָ֜ד, אֶחָ֞ד, אֶחָ֣ד, אֶחָ֤ד, אֶחָ֥ד, אֶחָֽד, אֶחָד֙, אֶחָד֮, אַחַ֖ד, אַחַ֖ת, אַחַ֣ד, אַחַ֤ד, אַחַ֤ת, אַחַ֥ד, אַחַ֨ת, אַחַת֙</em>.
 
 `NUM` occurs with 3 features: <tt><a href="hbo_ptnk-feat-NumType.html">NumType</a></tt> (524; 100% instances), <tt><a href="hbo_ptnk-feat-Number.html">Number</a></tt> (524; 100% instances), <tt><a href="hbo_ptnk-feat-Gender.html">Gender</a></tt> (293; 56% instances)
 
@@ -60,7 +47,7 @@ The 3rd highest number of forms (19) was observed with the lemma “אחד”: <
 
 `NUM` occurs with 11 feature combinations.
 The most frequent feature combination is `Number=Sing|NumType=Card` (183 tokens).
-Examples: <em>שֶׁ֣בַע, אחד, שׁבע, תשׁע, ארבע, חָמֵ֥שׁ, אֶחָ֖ד, שׁלשׁ, שׁמנה, אֶחָ֔ד</em>
+Examples: <em>שֶׁ֣בַע, אֶחָ֖ד, חָמֵ֥שׁ, שְׁמֹנֶ֥ה, אַרְבַּ֥ע, שֶׁ֤בַע, תְשַׁ֥ע, אֶחָ֔ד, אֶחָ֣ד, אֶחָֽד</em>
 
 
 ## Relations
