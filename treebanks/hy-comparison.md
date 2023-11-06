@@ -3032,7 +3032,7 @@ udver: '2'
             <li>VERB-Inf--PRON-Nom (1)</li>
             <li>VERB-Part--NOUN-Nom (780)</li>
             <li>VERB-Part--PRON (22)</li>
-            <li>VERB-Part--PRON-Nom (356)</li>
+            <li>VERB-Part--PRON-Nom (355)</li>
           </ul>
         </li>
       </ul>
@@ -3045,9 +3045,9 @@ udver: '2'
         <li><a>nsubj</a>
           <ul>
             <li>VERB-Fin--NOUN-Gen (1)</li>
-            <li>VERB-Fin--NOUN-Nom (357)</li>
+            <li>VERB-Fin--NOUN-Nom (356)</li>
             <li>VERB-Fin--PRON (5)</li>
-            <li>VERB-Fin--PRON-Nom (151)</li>
+            <li>VERB-Fin--PRON-Nom (150)</li>
             <li>VERB-Inf--NOUN-Dat (2)</li>
             <li>VERB-Inf--NOUN-Nom (11)</li>
             <li>VERB-Inf--PRON-Dat (1)</li>
@@ -3055,11 +3055,11 @@ udver: '2'
             <li>VERB-Inf--PRON-Nom (4)</li>
             <li>VERB-Part--NOUN-Dat (16)</li>
             <li>VERB-Part--NOUN-Gen (1)</li>
-            <li>VERB-Part--NOUN-Nom (623)</li>
+            <li>VERB-Part--NOUN-Nom (620)</li>
             <li>VERB-Part--PRON (12)</li>
             <li>VERB-Part--PRON-Dat (2)</li>
             <li>VERB-Part--PRON-Gen (15)</li>
-            <li>VERB-Part--PRON-Nom (243)</li>
+            <li>VERB-Part--PRON-Nom (242)</li>
           </ul>
         </li>
       </ul>
@@ -3071,7 +3071,7 @@ udver: '2'
         <li><a>obj</a>
           <ul>
             <li>VERB-Fin--NOUN-Dat (74)</li>
-            <li>VERB-Fin--NOUN-Nom (408)</li>
+            <li>VERB-Fin--NOUN-Nom (409)</li>
             <li>VERB-Fin--PRON (12)</li>
             <li>VERB-Fin--PRON-Dat (55)</li>
             <li>VERB-Fin--PRON-Nom (33)</li>
@@ -3091,7 +3091,7 @@ udver: '2'
             <li>VERB-Part--PRON (5)</li>
             <li>VERB-Part--PRON-Dat (118)</li>
             <li>VERB-Part--PRON-Gen (1)</li>
-            <li>VERB-Part--PRON-Nom (49)</li>
+            <li>VERB-Part--PRON-Nom (50)</li>
           </ul>
         </li>
       </ul>
@@ -3104,21 +3104,21 @@ udver: '2'
             <li>VERB-Conv--NOUN-Dat (1)</li>
             <li>VERB-Conv--NOUN-Nom (7)</li>
             <li>VERB-Fin--NOUN-Dat (46)</li>
-            <li>VERB-Fin--NOUN-Nom (293)</li>
+            <li>VERB-Fin--NOUN-Nom (294)</li>
             <li>VERB-Fin--PRON (3)</li>
             <li>VERB-Fin--PRON-Dat (29)</li>
-            <li>VERB-Fin--PRON-Nom (15)</li>
+            <li>VERB-Fin--PRON-Nom (16)</li>
             <li>VERB-Inf--NOUN-Dat (80)</li>
             <li>VERB-Inf--NOUN-Nom (428)</li>
             <li>VERB-Inf--PRON (13)</li>
             <li>VERB-Inf--PRON-Dat (16)</li>
             <li>VERB-Inf--PRON-Nom (12)</li>
             <li>VERB-Part--NOUN-Dat (130)</li>
-            <li>VERB-Part--NOUN-Nom (494)</li>
+            <li>VERB-Part--NOUN-Nom (497)</li>
             <li>VERB-Part--NOUN-Nom-ADP(առաջ) (1)</li>
             <li>VERB-Part--PRON (8)</li>
             <li>VERB-Part--PRON-Dat (46)</li>
-            <li>VERB-Part--PRON-Nom (33)</li>
+            <li>VERB-Part--PRON-Nom (34)</li>
           </ul>
         </li>
       </ul>

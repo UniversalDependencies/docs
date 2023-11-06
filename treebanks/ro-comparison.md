@@ -3537,7 +3537,7 @@ udver: '2'
             <li>Yes
               <ul>
                 <li>ADJ: &b.beta;, non</li>
-                <li>ADV: comparativ</li>
+                <li>ADV: comparativ, de</li>
                 <li>NOUN: de</li>
                 <li>X: a</li>
               </ul>
@@ -3724,7 +3724,7 @@ udver: '2'
             <li>VERB-Fin--NOUN-Dat,Gen (6)</li>
             <li>VERB-Fin--PRON (5)</li>
             <li>VERB-Fin--PRON-Acc (3)</li>
-            <li>VERB-Fin--PRON-Acc,Nom (1560)</li>
+            <li>VERB-Fin--PRON-Acc,Nom (1561)</li>
             <li>VERB-Fin--PRON-Acc,Nom-ADP(cu) (1)</li>
             <li>VERB-Fin--PRON-Acc,Nom-ADP(la) (1)</li>
             <li>VERB-Fin--PRON-Acc,Nom-ADP(în) (1)</li>
@@ -3736,7 +3736,7 @@ udver: '2'
             <li>VERB-Inf--NOUN-ADP(de) (1)</li>
             <li>VERB-Inf--NOUN-ADP(între)-ADP(de) (1)</li>
             <li>VERB-Inf--NOUN-Acc,Nom (241)</li>
-            <li>VERB-Inf--PRON-Acc,Nom (100)</li>
+            <li>VERB-Inf--PRON-Acc,Nom (99)</li>
             <li>VERB-Inf--PRON-Acc,Nom-ADP(în) (1)</li>
             <li>VERB-Inf--PRON-Nom (3)</li>
             <li>VERB-Part--NOUN (289)</li>
@@ -3886,13 +3886,13 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB-Fin--NOUN (1050)</li>
+            <li>VERB-Fin--NOUN (1053)</li>
             <li>VERB-Fin--NOUN-ADP(ca) (2)</li>
             <li>VERB-Fin--NOUN-ADP(de) (9)</li>
             <li>VERB-Fin--NOUN-ADP(din) (1)</li>
             <li>VERB-Fin--NOUN-ADP(pe) (36)</li>
             <li>VERB-Fin--NOUN-ADP(în) (2)</li>
-            <li>VERB-Fin--NOUN-Acc,Nom (2554)</li>
+            <li>VERB-Fin--NOUN-Acc,Nom (2558)</li>
             <li>VERB-Fin--NOUN-Acc,Nom-ADP(de) (1)</li>
             <li>VERB-Fin--NOUN-Acc,Nom-ADP(din) (1)</li>
             <li>VERB-Fin--NOUN-Acc,Nom-ADP(pe) (28)</li>
@@ -3911,7 +3911,7 @@ udver: '2'
             <li>VERB-Ger--NOUN (127)</li>
             <li>VERB-Ger--NOUN-ADP(de) (1)</li>
             <li>VERB-Ger--NOUN-ADP(pe) (6)</li>
-            <li>VERB-Ger--NOUN-Acc,Nom (288)</li>
+            <li>VERB-Ger--NOUN-Acc,Nom (291)</li>
             <li>VERB-Ger--NOUN-Acc,Nom-ADP(pe) (3)</li>
             <li>VERB-Ger--PRON-Acc (42)</li>
             <li>VERB-Ger--PRON-Acc,Nom (3)</li>

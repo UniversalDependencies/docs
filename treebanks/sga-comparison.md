@@ -24,7 +24,7 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 62 sentences and 400 tokens.</li>
+      <li>This corpus contains 64 sentences and 403 tokens.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -374,7 +374,7 @@ udver: '2'
             <li>PRON: m, a, mo, do, mei, mm, siu, som, sse, sv</li>
             <li>PROPN: brigtae, choirbbre, dongus, donngus, ferguso, finguine, lothlind, maddoc, mail, máel</li>
             <li>SCONJ: nach</li>
-            <li>VERB: chain, Gaib, cél, cóima, epur, farcai, fuasna, giuil, llega, maraith</li>
+            <li>VERB: chain, Gaib, braigim, cél, cóima, epur, farcai, fuasna, giuil, llega</li>
           </ul>
         </li>
       </ul>
@@ -491,7 +491,7 @@ udver: '2'
           <ul>
             <li>ADJ: gann, acher, bec, cáin, dorchæ, línech, mall, mar, mass, mmall</li>
             <li>DET: in, a, ind, inḍt, ᚔᚅ</li>
-            <li>NOUN: ᚉᚑᚉᚐᚏᚈ, dias, ainm, airdircus, aite, aithne, bendacht, bruach, chliab, choimmdiu</li>
+            <li>NOUN: ᚉᚑᚉᚐᚏᚈ, dias, ainm, airdircus, aite, aithne, bendacht, bruach, cenéle, chliab</li>
             <li>PROPN: choirbbre, dongus, donngus, finguine, ruadri</li>
           </ul>
         </li>
@@ -816,7 +816,7 @@ udver: '2'
         <li>Ind
           <ul>
             <li>AUX: is, ní, bith</li>
-            <li>VERB: chain, cél, ecmoṅgat, epur, farcai, fuasna, giuil, llega, maraith, mardda</li>
+            <li>VERB: chain, braigim, cél, ecmoṅgat, epur, farcai, fuasna, giuil, llega, maraith</li>
           </ul>
         </li>
       </ul>
@@ -916,7 +916,7 @@ udver: '2'
         <li>Pres
           <ul>
             <li>AUX: is, d, ní, mba</li>
-            <li>VERB: chain, Gaib, cóima, ecmoṅgat, epur, farcai, fuasna, llega, maraith, mardda</li>
+            <li>VERB: chain, Gaib, braigim, cóima, ecmoṅgat, epur, farcai, fuasna, llega, maraith</li>
           </ul>
         </li>
       </ul>
@@ -949,7 +949,7 @@ udver: '2'
       <ul>
         <li>Act
           <ul>
-            <li>VERB: chain, Gaib, cél, cóima, ecmoṅgat, epur, farcai, fuasna, giuil, llega</li>
+            <li>VERB: chain, Gaib, braigim, cél, cóima, ecmoṅgat, epur, farcai, fuasna, giuil</li>
           </ul>
         </li>
       </ul>
@@ -1255,7 +1255,7 @@ udver: '2'
           <ul>
             <li>ADP: dom, dún, frimm</li>
             <li>PRON: m, mo, mei, mm, sse</li>
-            <li>VERB: cél, epur, samlar, scríbaimm, tiach, ágor</li>
+            <li>VERB: braigim, cél, epur, samlar, scríbaimm, tiach, ágor</li>
           </ul>
         </li>
       </ul>
