@@ -5,7 +5,7 @@ shortdef: 'fixed multiword expression'
 udver: '2'
 ---
 
-The fixed relation is used for certain fixed grammaticized expressions. Such expressions tend to behave like function words. For example, _<b>in spite of</b>_ is a fixed expression functioning as a preposition in English; _<b>bien que</b>_ ('although', lit. 'well that') functions as a subordinating conjunction in French; and _<b>vare sig</b>_ ('either', lit. 'be itself') functions as a (pre)conjunction in Swedish.
+The `fixed` relation is used for certain fixed grammaticized expressions. Such expressions tend to behave like function words. For example, _<b>in spite of</b>_ is a fixed expression functioning as a preposition in English; _<b>bien que</b>_ ('although', lit. 'well that') functions as a subordinating conjunction in French; and _<b>vare sig</b>_ ('either', lit. 'be itself') functions as a (pre)conjunction in Swedish.
 The scope of `fixed` MWEs corresponds roughly to the *fixed expressions* category of [Sag et al.](http://lingo.stanford.edu/pubs/WP-2001-03.pdf) and should not be used for multiword expressions that are morphosyntactically flexible. 
 
 ## Criteria
